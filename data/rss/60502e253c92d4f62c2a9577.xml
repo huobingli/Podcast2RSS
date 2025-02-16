@@ -4,7 +4,1092 @@
         <title>十字路口Crossing</title>
         <link>https://www.xiaoyuzhoufm.com/podcast/60502e253c92d4f62c2a9577</link>
         <description>关注科技、互联网、AI 的播客</description>
-        <lastBuildDate>Thu, 06 Feb 2025 04:51:25 +0800</lastBuildDate>
+        <lastBuildDate>Mon, 17 Feb 2025 04:45:38 +0800</lastBuildDate>
+        <item>
+            <title>20个问题，搞懂DeepSeek和它带来的“AI下半场”</title>
+            <link>https://www.xiaoyuzhoufm.com/episode/67b14fc6606e5c5940b6b7aa</link>
+            <description>感谢各位的支持，十字路口在过去一年收获颇丰：作为成立刚一年的新晋播客，我们荣获了小宇宙「年度新播客」和「年度趋势播客（前沿科技）」两项大奖。新的一年，十字路口将继续创新突破，与各位一起在 AI 时代积极前行。
+本周，十字路口推出首期「20问」专栏：精心设计的20组启发式问题，将从技术突破、商业影响到未来趋势，层层深入解读 DeepSeek 背后的故事。
+为什么是「20问」？因为面对像 DeepSeek 这样的重大技术突破，我们需要一个结构化的思考框架。这20个问题不是简单的知识科普，而是经过精心编排的探讨路径：从技术原理到行业影响，从现象解读到未来预测。我们希望通过这种问答形式，帮助听众在信息繁杂的当下，建立起对 DeepSeek 清晰而系统的认知。尤其在 DeepSeek 带来的热度稍退之际，我们再对它进行探讨，往往能更理性、全面地，不被短期情绪所影响。
+本周，我们邀请到李乐丁，他曾在百度担任十年主任高级架构师，此前也做客过十字路口。他上期分享的播客《&quot;我想击碎你们对于 AI 不切实际的幻想，并重建一个正确的认知&quot;》成为了我们去年 45 期节目中最受欢迎的一期。因此，我们很荣幸能在 DeepSeek 热潮渐渐平息之际，再次邀请李老师来探讨这个话题。
+我们精选的 20 组 DeepSeek 相关问题涵盖了算法、算力、数据、应用和商业等多个维度。在人的一生中，能遇到的重大技术突破屈指可数，而 DeepSeek 的发布无疑是其中之一。我相信每个人都值得投入时间去深入了解：DeepSeek 究竟是什么，它意味着什么，以及它将如何塑造我们的未来。
+🟢 [20问] Part 1: DeepSeek 的技术突破与创新
+1. 02:26 为什么 DeepSeek-R1 的发布，标志着 AI 进入了下半场？AI 的上/下半场分别是什么？
+2. 07:25 科普 DeepSeek-R1 &amp; DeepSeek-V3：它们的工作原理和训练方式？
+3. 18:40 DeepSeek 超越了 OpenAI 吗？我们掌握了他们没有的技术了吗？DeepSeek 到底有没有蒸馏 OpenAI？蒸馏能超越 SOTA 吗？
+4. 21:43 DeepSeek-R1 代表的 RL vs Anthropic RLHF 的路线之争？
+5. 28:04 DeepSeek 的胜利中，什么因素最重要？——开源、技术、成本、产品？
+6. 42:45 DeepSeek-V3 为什么可以只花 550 万美元？李飞飞 50 美元训出媲美 DeepSeek-R1、OpenAI o1 的 AI 推理模型 s1 是怎么回事？
+🟢 [20问] Part 2：如何正确理解 DeepSeek 的影响？
+1. 51:39 如何看待 Deepseek 对中国科技行业、乃至整个中国商业的影响？
+2. 55:12 为什么梁文峰和 DeepSeek 能做出来？为什么其他国内大厂做不出来？
+3. 56:54 DeepSeek 的胜利看上去是技术的胜利，AI 时代 PM 应该怎么办？
+🟢 [20问] Part 3 DeeSeek 对各种 AI 业务与应用有哪些影响？
+1. 01:01:42 对 toC 的 AI 业务的影响？
+2. 01:04:24 对 toB(Enterprise &amp; Government) 的 AI 业务的影响？
+3. 01:07:05 对 toDeveloper 的 AI 业务的影响？
+4. 01:09:15 会带来 AI 应用的大爆发吗？
+5. 01:13:35 DeepSeek 自己会做 chatbot 吗？
+🟢 [20问] Part 4 「后 DeepSeek 时代」：未来有哪些变化？什么将继续重要？什么将不再重要？
+1. 01:16:25 未来的算力还重要吗？巨头们的持续投资会变化吗？英伟达的股价会如何变化呢？
+2. 01:18:26 未来的数据还重要吗？还是不是壁垒？
+3. 01:19:35 预测 DeepSeek 的下一步？
+4. 01:22:01 预测中国各个主要玩家的下一步？字节、腾讯、阿里
+5. 01:23:33 预测美国各个主要玩家的下一步？Meta、Google、微软、亚马逊、OpenAI、Anthropic
+6. 01:26:56 用 Peter Thiel 的创新理论来分析 DeepSeek/R1 在低成本推理方面的成功，具体在哪些层面实现了协同创新？
+欢迎订阅「十字路口」播客
+🚦 我们关注新一代 AI 技术浪潮带来的行业新变化和创业新机会。十字路口是乔布斯对苹果公司的一个比喻，形容它站在科技与人文的十字路口，伟大的产品往往诞生在这里。AI 正在给各行各业带来改变，我们寻找、访谈和凝聚 AI 时代的「积极行动者」，和他们一起，探索和拥抱新变化，新的可能性。
+👦🏻 主播 Koji：新世相/躺岛的联合创始人。我相信科技尤其是 AI 会在未来彻底改变社会，赋能人类，欢迎大家找我聊天，碰撞想法，链接下一个可能性。Koji 的即刻，Koji 的网站
+👧🏻 主播 Ronghui：供职于科技 VC，前《第一财经周刊》驻硅谷记者，Ronghui 的即刻
+欢迎加入「十字路口」的会员群
+☀️ 第一手的 AI 资讯与洞察
+👫🏻 鼓励大家谈恋爱/交朋友/寻找未来的同路人
+🦀 添加小助理微信入群：Rwkfbcianvd ，或扫下方二维码
+🎄 本播客由「新世相声音森林播客计划」支持。</description>
+            <content:encoded><![CDATA[<h1>转写链接</h1>
+<link>https://tongyi.aliyun.com/efficiency/doc/transcripts/3vl8qg4882ykqpr2</link><br>
+<h1>节目摘要</h1>
+<div class="summary">本期播客集中讨论了AI技术，特别是深度学习领域中的重要进展，及其对科技、人文和社会的深远影响。特别强调了独家数据在垂直领域对提升AI效果的重要性，同时也指出不应仅依赖数据量而忽视模型优化。探讨了DeepMind未来可能的发展方向，包括技术上限的探索、模型局限性的解决，以及新型模型的探索。同时，对于其他大型科技公司，讨论认为他们可能重新评估研究和开发策略，包括可能的开源产品发布。播客还分析了DS的R1版本发布，显示了AI在处理复杂任务上的进步，但同时也指出了其依赖于开源模型的争议和局限。讨论还涉及了AI对于企业和开发者的影响，以及AI应用在to C和to B市场的不同影响，指出AI应用需进一步优化以满足用户需求。播客强调，尽管深度学习和Transformer模型取得巨大成功，但仍面临挑战，未来AI的发展需要多层面的协同努力和持续的试验与尝试。</div><br>
+<h1>章节速览</h1>
+<div class="chapters">
+<div class="chapter-item">
+<span class="time"><strong>[00:00:00]</strong> </span>
+<span class="chapter-title"><strong>探讨Deep Sick如何重塑未来十年</strong></span>
+<div class="chapter-summary">在本期节目中，主持人与在科技和投资领域有着丰富经验的嘉宾深入探讨了近期Deep Sick R1发布引发的全球热议。通过20个精心准备的问题，从算法、算力、数据应用和商业等多个角度，全面而理性地分析了Deep Sick技术的本质、其意义以及它将如何在未来十年中改变各行各业和社会生活。此次讨论旨在帮助听众建立对AI技术正确而深入的理解，把握未来科技发展的方向。</div>
+</div>
+<div class="chapter-item">
+<span class="time"><strong>[00:02:24]</strong> </span>
+<span class="chapter-title"><strong>AI技术进入下半场：从预训练到后训练的转变</strong></span>
+<div class="chapter-summary">讨论了AI技术发展的上半场与下半场，认为预训练阶段已达到阶段性顶点，主要由于高质量、多样性的数据稀缺以及模型架构限制导致学习效率低。下半场则转向后训练，旨在通过垂直领域的技能增加和特定的fine tune来提升模型能力，如生成高质量文本、解决应用题等。OpenAI的闭源策略限制了其技术的公开分享，而其他技术如DeepSick R1的发布则揭示了最先进的技术实现方式，标志着AI进入下半场时代的信号。</div>
+</div>
+<div class="chapter-item">
+<span class="time"><strong>[00:07:23]</strong> </span>
+<span class="chapter-title"><strong>Deep Seek R1和V3的原理及训练方式解析</strong></span>
+<div class="chapter-summary">讨论了Deep Seek发布的R1和V3模型的工作原理和训练方式，重点介绍了R1中R one zero模型的创新训练方法，即通过强化学习让模型自行摸索多步骤推理能力，不干预中间过程，只奖励最终正确结果。此外，针对R one zero的两个缺点，即难以理解的推理过程和混合使用语言，Deep Seek进一步优化以提高模型的实用性和语言一致性。</div>
+</div>
+<div class="chapter-item">
+<span class="time"><strong>[00:15:20]</strong> </span>
+<span class="chapter-title"><strong>基于深度学习的多步骤推理模型训练方法</strong></span>
+<div class="chapter-summary">通过在Deep Seek V3模型基础上进行SST微调，利用COT数据赋予模型基础回答套路，确保语言一致性。随后，通过强化学习进一步提升模型的多步骤思考能力，并使用蒸馏和拒绝采样机制筛选出高质量的人类语言风格的问答数据。最后，结合这80万条数据，重新训练模型，得到具备传统语言模型能力以及符合人类思考习惯的多步骤推理能力的R问模型。</div>
+</div>
+<div class="chapter-item">
+<span class="time"><strong>[00:18:39]</strong> </span>
+<span class="chapter-title"><strong>深度学习模型创新与蒸馏技术争议</strong></span>
+<div class="chapter-summary">讨论了深度学习模型Deep SK是否使用了OpenAI的蒸馏技术及其争议，强调即使使用了蒸馏，模型的真正能力来源于强化学习。指出仅靠蒸馏无法超越现有最佳模型（sota），因为蒸馏通常是从大模型到小模型的能力传递，小模型能力不可能反超大模型。最后，强调了知识接力和站在前人肩膀上进行创新的技术理想主义对人类进步的推动作用。</div>
+</div>
+<div class="chapter-item">
+<span class="time"><strong>[00:22:13]</strong> </span>
+<span class="chapter-title"><strong>DeepSeek R1发布后中美AI技术竞争与芯片限制讨论</strong></span>
+<div class="chapter-summary">最近，anthropic的CEO Dario提出了一篇观点文章，呼吁对中国的芯片进一步限制，以保护美国在AI领域的领先地位。这一举动被认为是对DeepSeek R1发布后，中国在大模型技术方面追上美国的一种反应。文章中对中国威胁的论述被指责为阴谋论，但对DeepSeek R1技术的分析被认为是中肯的。讨论还提到了中国与美国在技术上的差距，以及中国在AI硬件研发方面的进展。尽管目前中国在训练卡的使用上仍面临一些挑战，但已具备完全自主研发生成式AI的能力。讨论强调，技术路线的选择和进步需要以开放和科学的心态去对待，不应预设某种技术的绝对正确性或错误性。</div>
+</div>
+<div class="chapter-item">
+<span class="time"><strong>[00:28:04]</strong> </span>
+<span class="chapter-title"><strong>开源模式在AI技术研发中的关键作用</strong></span>
+<div class="chapter-summary">讨论指出，开源在推动AI技术进步中扮演了至关重要的角色。通过分析deep seek项目，强调了开源、技术优势、低成本及良好产品体验等成功因素，其中开源被认为是最重要的因素。进一步探讨了实验的重要性，指出AI理论不完备性意味着需要通过大量实验来探索正确道路，并强调了研究者需要有足够机会进行实验，而不会因短期的失败而受到惩罚。同时，低成本的训练和长期坚持研究初心被视为推动deep seek成功的关键因素，体现了开源模式和研究导向对孕育先进技术的重要性。</div>
+</div>
+<div class="chapter-item">
+<span class="time"><strong>[00:32:10]</strong> </span>
+<span class="chapter-title"><strong>Deep Sik成功背后的强化学习策略</strong></span>
+<div class="chapter-summary">讨论了Deep Sik的成功背后所经历的大量失败，详细解释了通过8000步的强化学习过程，模型如何逐步提升其解答数学题的正确率。这一过程涉及使用种子数学题进行训练，通过GRPO reward model筛选出正确答案并反馈给模型，以不断优化其性能。此外，还提到了模型在不同步数时正确率的变化趋势，以及Deep Sik团队在实验中展现出的坚持和信心。</div>
+</div>
+<div class="chapter-item">
+<span class="time"><strong>[00:36:59]</strong> </span>
+<span class="chapter-title"><strong>强化学习中的GRPO算法优化策略</strong></span>
+<div class="chapter-summary">在强化学习的过程中，系统通过尝试回答问题并根据正确率调整模型训练，以避免过度拟合并专注于新学到的技能。具体方法是让系统对每道题做出多个回答，通过评分和统计学的Z分数来量化新学习的套路的价值。Z分数高的答案表明模型学到了新技能，会被以更高概率用于后续训练，而Z分数低的答案则表示模型已掌握的旧知识，以较低概率复习。此策略有助于模型持续优化并关注新知识，同时在计算量和内存消耗方面也具有优势，形成了RY使用的优秀算法。</div>
+</div>
+<div class="chapter-item">
+<span class="time"><strong>[00:40:36]</strong> </span>
+<span class="chapter-title"><strong>DeepSig底层优化与GPU选择的挑战</strong></span>
+<div class="chapter-summary">讨论集中在DeepSig在底层优化方面的创新，特别是其在没有NVIDIA的NCCL库的情况下，通过优化编排计算和通信过程，确保系统通信带宽充足。提及了H800 GPU的使用，因其NV Link带宽较H100低，促使DeepSig进行底层优化以提高效率。同时，指出H20 GPU的通信能力和算力与H800存在较大差距，这可能影响优化效果。最后，强调了低精度计算（IP8）的重要性，认为这是创新中的关键因素之一。整体上，认可这些优化措施和选择的GPU在特定条件下的必要性和创新性。</div>
+</div>
+<div class="chapter-item">
+<span class="time"><strong>[00:42:46]</strong> </span>
+<span class="chapter-title"><strong>探讨如何通过小模型和蒸馏技术实现高效的AI推理能力</strong></span>
+<div class="chapter-summary">对话深入探讨了如何在小型AI模型上通过蒸馏技术和强化学习实现高效的多步骤推理能力。特别提到了李飞飞团队使用50美元成本训练出媲美大型模型的AI推理模型的研究，以及DeepMind的V3模型通过优化技术和蒸馏数据实现高效训练的过程。此外，还讨论了论文质量的衡量标准，强调了干货内容的重要性以及开源社区的传播效应。</div>
+</div>
+<div class="chapter-item">
+<span class="time"><strong>[00:51:37]</strong> </span>
+<span class="chapter-title"><strong>Deep Sak对中国科技和商业的影响及未来展望</strong></span>
+<div class="chapter-summary">对话围绕Deep Sak对中国科技行业和商业世界的深远影响展开。一方面，Deep Sak的出现展示了中国研究人员和AI从业人员在技术掌握和创新能力上与美国不相上下，证明了中国能够独立研发出世界领先的成果。然而，讨论也指出，虽然中国与美国在AI领域的差距可能只有半年到一年的时间差，但关键区别在于原创性和跟随性。美国在AI原创性想法和技术创新方面仍处于领先地位，而中国需努力从跟随者转变为原创者，以实现真正的超越。此外，还提到Deep Sak目前可能过于依赖于增加算力和产品化，与外界对其在技术突破和创新方面的期待仍有差距。</div>
+</div>
+<div class="chapter-item">
+<span class="time"><strong>[00:55:12]</strong> </span>
+<span class="chapter-title"><strong>探讨梁文峰团队Deep Seek成功及其对AI产品经理的影响</strong></span>
+<div class="chapter-summary">对话探讨了梁文峰团队Deep Seek在AI领域取得成功的原因，认为其主要得益于较少的KPI压力和对科研的纯粹态度。相比之下，大型企业由于KPI压力大，更倾向于保守的项目推进方式。此外，讨论强调了产品经理在AI应用中的核心作用，指出产品经理需定义AI的边界并解决其无法完成的任务，同时，提到了大模型在实际应用中的挑战和局限，以及小模型和RAG系统在实际应用中的优势。最后，讨论转向Deep Seek发布后对面向消费者、企业和开发者产品的影响。</div>
+</div>
+<div class="chapter-item">
+<span class="time"><strong>[01:02:02]</strong> </span>
+<span class="chapter-title"><strong>AI成本降低对To C产品影响及市场需求</strong></span>
+<div class="chapter-summary">AI成本的大幅降低对整个产业影响深远，特别是To C领域，使得更多预算可以用于人工规划和设计，从而提升产品品质。此外，原先受限于成本的AI技术，如基础的自然语言处理和规划等，现在得以广泛应用，引发行业高潮。然而，目前AI模型并未完全满足用户需求，用户时长和使用频率不高，反映出行业技术发展快于产品定义，缺乏优秀产品经理界定需求。预计随着市场逐渐成熟，产品经理的加入将改善这一状况，实现更精准的需求满足。</div>
+</div>
+<div class="chapter-item">
+<span class="time"><strong>[01:04:24]</strong> </span>
+<span class="chapter-title"><strong>Deep Sick发布对TO B和TO G领域的影响及开源模型的未来</strong></span>
+<div class="chapter-summary">对话探讨了Deep Sick的发布对TO B（面向企业）和TO G（面向政府）领域可能带来的深远影响。随着Deep Sick上线后，众多一线云服务商迅速跟进支持，这表明技术的上限提升不再快速前进时，商业公司面临的生存危机减弱。这促使企业将研究重点从竞相开发最先进模型转向探索超越Transformer的下一代模型。同时，开源模型Deep Sick的广泛应用意味着几乎所有互联网公司，无论中国还是美国，都会将其作为产品的一部分，这可能促使整个TO B领域产生重大变化。然而，考虑到美国当前的政治环境和对中国的敌视态度，美国可能会发展自己的类似项目，以避免依赖来自中国的技术。如果大模型的性能提升不再显著，未来TO B方向上，开源模型可能会成为主流选择。</div>
+</div>
+<div class="chapter-item">
+<span class="time"><strong>[01:07:02]</strong> </span>
+<span class="chapter-title"><strong>大语言模型对开发者的影响及竞争态势</strong></span>
+<div class="chapter-summary">讨论了大语言模型，尤其是Cloud 3.5 Sonnet，在编程领域的应用和影响。尽管目前Cloud 3.5 Sonnet在写代码方面表现突出，但开发者方向的竞争激烈，技术快速进步，使得任何一方的领先都是暂时的。这种竞争有望催生新技术，最终使开发者受益，通过AI助手提升写代码、测试和文档编写等工作的效率。</div>
+</div>
+<div class="chapter-item">
+<span class="time"><strong>[01:08:41]</strong> </span>
+<span class="chapter-title"><strong>Deep Sick发布对AI应用的影响与未来展望</strong></span>
+<div class="chapter-summary">对话围绕Deep Sick发布后对AI应用领域的影响进行了深入讨论。指出，尽管科技的进步显著，如iPhone的出现，但AI技术如Deep Sick的发布可能并不会立即引发应用领域的大幅变革。讨论者认为，应用开发者可能更倾向于转向开源模型，而应用本身的能力提升并不完全依赖于当前的大型语言模型（LM）。尽管GPT-4等强大模型存在，但许多应用发现使用更小、更经济的模型如Google的Gym I API更为有效，这归因于其高性价比和低成本。因此，预计在应用前端，Deep Sick的发布可能不会带来根本性的变化，应用开发将继续沿着当前的道路前进，更注重小模型和RAG（Retrieval-Augmented Generation）技术的使用。</div>
+</div>
+<div class="chapter-item">
+<span class="time"><strong>[01:11:49]</strong> </span>
+<span class="chapter-title"><strong>大模型应用：成本降低与科研投入的重要性</strong></span>
+<div class="chapter-summary">对话围绕AI模型尤其是谷歌的Gym 2.0 Flash及其在成本控制、应用体验、以及商业化策略方面的讨论。提到了谷歌在降低AI应用成本方面的努力，以及DeepSick在快速普及后面临的问题，包括训练资源紧张和是否应专注于科研而非商业化产品化的抉择。强调了科研投入和原始技术的重要性，以及对大模型未来发展方向的展望。</div>
+</div>
+<div class="chapter-item">
+<span class="time"><strong>[01:16:23]</strong> </span>
+<span class="chapter-title"><strong>未来算力与数据的重要性及投资方向</strong></span>
+<div class="chapter-summary">讨论指出，尽管算力对于当前AI技术发展至关重要，未来随着模型能力和应用的演变，对于算力的需求可能会阶段性下降，特别是在模型能力不再显著提升和行业开始转向开源模型的情况下。与此相反，数据的重要性仍然显著，尤其是在垂直方向的应用中，拥有独家数据的公司仍能构成壁垒。建议未来投资和关注应更多放在算法创新和超越当前模型架构的知识上，以解决AI模型在理解和应用上的限制。</div>
+</div>
+<div class="chapter-item">
+<span class="time"><strong>[01:19:36]</strong> </span>
+<span class="chapter-title"><strong>深度探讨DeepSick及中美科技巨头的未来动向</strong></span>
+<div class="chapter-summary">对话聚焦于DeepSick的下一步发展，包括继续探索R One Zero的上限、通过纯强化学习解决模型问题、推进V3中未充分实现的新技术，以及探索超越Transformer的新模型。此外，讨论也延伸至字节、腾讯、阿里等中国公司，以及美国的Meta、Google、微软、亚马逊和OpenAI等科技巨头，预测它们将如何调整策略，包括利用开源技术进行改进、内部研发以及未来探索。同时，对话指出中美两国在全球先进技术领域的领导地位不可阻挡，强调了科技进步的重要性。</div>
+</div>
+<div class="chapter-item">
+<span class="time"><strong>[01:25:48]</strong> </span>
+<span class="chapter-title"><strong>深度探讨Deep Seek模型的商品化影响与创新</strong></span>
+<div class="chapter-summary">对话围绕Deep Seek模型的商品化及其对Anthropic、Google等公司可能带来的负面影响进行了分析。讨论指出，模型商品化和推理成本的降低对各厂商影响显著，而开源地位的可能不保对拉玛等公司构成了压力。提及Peter Thiel的观点，强调真正的创新需在多个层面协同发生，认为Deep Seek在低成本推理方面的成功体现了这一原则。此外，还强调了科学和创新的不可预知性和多方向性，指出Deep Seek虽非所有创新的原创，但成功在于其大规模应用和坚持科学基本原则。对话最后鼓励听众参与讨论并提供反馈。</div>
+</div>
+</div><br>
+<h1>问题回顾</h1>
+<div class="qa-item">
+<div class="question"><strong>Q:</strong> 你会认可“deep sick的发布标志着AI进入了下半场”的说法吗？上半场、下半场分别是什么？</div>
+<div class="answer"><strong>A:</strong> 我认可这个说法。上半场指的是预训练阶段，过去两年AI在预训练方面的上限提升呈现逐步趋缓的过程，尤其是从GPT3.5到GPT4后，进步不明显。而下半场则是以post training为主，让模型基于已有的知识形成更多垂直方向的能力。</div>
+</div>
+<div class="qa-item">
+<div class="question"><strong>Q:</strong> O一的发布是否可以视为下半场的一个信号？</div>
+<div class="answer"><strong>A:</strong> 是的，O一的发布被认为是下半场的一个信号。尽管它是闭源且部分内容未公开，但其展示了强大的模型能力和向特定领域如金融、法律、医疗等方向fine tune的能力，标志着后训练阶段的开始。</div>
+</div>
+<div class="qa-item">
+<div class="question"><strong>Q:</strong> Deep seek的R1及之前发布的V3的工作原理和训练方式是什么？</div>
+<div class="answer"><strong>A:</strong> Deep seek通过训练三个模型实现多步骤思考和提升数学编码等逻辑思维能力。其中，R1模型采用了一种强化学习方法，让模型通过自我摸索来实现多步骤思考，并引入奖励机制仅关注最终结果而非中间过程，从而有效提高了模型在数学和多步推理方面的表现。</div>
+</div>
+<div class="qa-item">
+<div class="question"><strong>Q:</strong> RN zero为何选择只激励结果而不干预过程？</div>
+<div class="answer"><strong>A:</strong> Deep seek认为中间过程的内容难以量化和给出正确的激励结果，且理科问题（如数学题）有多种解法，直接干预过程不如关注最终答案。这种做法对于机器自然训练能取得优秀效果，但生成的思考过程可能难以理解和解读。</div>
+</div>
+<div class="qa-item">
+<div class="question"><strong>Q:</strong> 在研究多步骤推理方面，论文中提到的初步做法是什么？</div>
+<div class="answer"><strong>A:</strong> 初步做法是在一个预训练的deep seek v3模型基础上进行SST微调，使用COT数据来教导模型形成一种基本的回答套路，比如针对不同类型的题目给出一系列解决问题的步骤。</div>
+</div>
+<div class="qa-item">
+<div class="question"><strong>Q:</strong> 如何通过蒸馏和拒绝采样机制改善模型的回应方式？</div>
+<div class="answer"><strong>A:</strong> Deep sk通过将中间模型进行蒸馏，生成大量高质量的问答对，并采用拒绝采样机制筛选出与人类回答差异较大的样本，以保证模型的回答更符合人类习惯和语言一致性。</div>
+</div>
+<div class="qa-item">
+<div class="question"><strong>Q:</strong> deep sk是否采用了蒸馏方式来提升模型性能，以及是否超越了OpenAI的模型？</div>
+<div class="answer"><strong>A:</strong> 即使假设deep sk使用了蒸馏数据，但蒸馏过程主要用于学习基础回答套路，真正的能力提升来自于后续的强化学习阶段。至于是否超越OpenAI，仅靠蒸馏无法实现超越，因为蒸馏数据本质上来源于强化学习的大量扩写，而模型能力无法通过蒸馏他人而反向超越。</div>
+</div>
+<div class="qa-item">
+<div class="question"><strong>Q:</strong> deep sk成功的关键因素中，开源性的重要性如何？</div>
+<div class="answer"><strong>A:</strong> 在众多因素中，开源性被认为是最重要的。开源使得研究者能够有更多的资源和机会去进行实验，破解生成式AI的未知领域，而闭源模型则受限于条件，无法进行充分创新和探索。</div>
+</div>
+<div class="qa-item">
+<div class="question"><strong>Q:</strong> 开源性对deep sk成功的影响具体体现在哪些方面？</div>
+<div class="answer"><strong>A:</strong> 开源性降低了训练成本，使得deep sk能在有限资源下进行大量实验和改进，例如使用deep seek v3作为基础模型，再通过强化学习进行多步骤推理训练，从而实现了低成本高效率的模型优化。</div>
+</div>
+<div class="qa-item">
+<div class="question"><strong>Q:</strong> deep sk模型在强化学习过程中，如何确保在效果不理想或出现下降时仍能坚持下去，并获得足够的资源支持？</div>
+<div class="answer"><strong>A:</strong> 这需要更好的管理支持，偏向于research和开源的方式才能孕育出这样的先进技术。例如，在deep sk的案例中，其对模型进行了8000步的强化学习，这是一个非常罕见且挑战性极高的尝试。研究者们通过精心设计的方法，如使用专门的评测集和GRPO的reward model，对模型的表现进行打分并筛选出好的答案，让模型重新学习，逐步提升其能力。</div>
+</div>
+<div class="qa-item">
+<div class="question"><strong>Q:</strong> 这8000步具体意味着什么？</div>
+<div class="answer"><strong>A:</strong> 8000步代表了deep sk在训练过程中，让模型在一无所知的情况下回答8000个种子数学题，并根据模型回答的正确率进行迭代和优化的过程。每一轮结束后，正确率会随着模型能力的增强而增加，但提升斜率并非始终保持线性增长，存在一定的起伏变化。</div>
+</div>
+<div class="qa-item">
+<div class="question"><strong>Q:</strong> GRPO的reward model在强化学习中起到什么关键作用？</div>
+<div class="answer"><strong>A:</strong> GRPO的reward model是deep sk训练思路中的重要组成部分，它通过量化新训练出来的套路更新程度，决定哪些新知和旧知应以何种概率提供给模型进行学习。该方法利用统计学上的Z分数来区分模型对题型掌握的程度，从而实现模型不断优中选优，关注新知，减少对旧知的重复训练，有效避免过度拟合，提高了模型的学习效率和效果。</div>
+</div>
+<div class="qa-item">
+<div class="question"><strong>Q:</strong> deep sk低成本训练成功的关键因素有哪些？</div>
+<div class="answer"><strong>A:</strong> deep sk低成本训练成功的关键因素包括底层优化（如Moe混合专家模型和芯片限制下的创新）、高效的通信和计算编排优化，以及利用H800芯片的低精度特性。此外，李飞飞团队使用50美元训练出的AI推理模型，其论文也强调了在大模型基础上（如671B的MOE模型）通过强化学习和蒸馏的方式，可使小模型具备出色的多步骤推理能力。</div>
+</div>
+<div class="qa-item">
+<div class="question"><strong>Q:</strong> 那么，这个1000条数据是怎么来的呢？使用这1000条题目训练模型的效果如何？</div>
+<div class="answer"><strong>A:</strong> 这1000条数据是从google的gym I2.0 flash thinking模型蒸馏而来的59000条高质量回答问题中精选出来的，李飞飞按照题目难度、独特性和覆盖面广的原则进行筛选。用这1000条题目训练模型后，可以得到与R one max性能相媲美的结果。并且，论文中提到仅需16张H100卡训练26分钟，成本约为50美元就能实现这一效果。</div>
+</div>
+<div class="qa-item">
+<div class="question"><strong>Q:</strong> 这1000条题目涵盖了哪些内容？</div>
+<div class="answer"><strong>A:</strong> 这1000道题目包括了各种理科问题，从相对简单的线性代数、微积分，到复杂的十倍函数序微分方程以及量子物理等。</div>
+</div>
+<div class="qa-item">
+<div class="question"><strong>Q:</strong> V3模型的预训练和后训练所需算力情况如何？</div>
+<div class="answer"><strong>A:</strong> 预训练V3模型需要大约260万GPU小时，但其后训练所用算力相比预训练来说微乎其微。V3模型的成功背后是基于V2模型在节省模型参数和优化attention计算消耗算力等方面的贡献。</div>
+</div>
+<div class="qa-item">
+<div class="question"><strong>Q:</strong> 对于论文的精彩程度，您会从哪些角度评价？</div>
+<div class="answer"><strong>A:</strong> 我会从论文提供的干货含量角度来评判一篇论文是否精彩。这篇论文的干货极其丰富，内容含量极高，甚至可能相当于一般论文的十篇甚至更多。</div>
+</div>
+<div class="qa-item">
+<div class="question"><strong>Q:</strong> 您认为DeepSak对中国科技行业和商业世界的影响是什么？</div>
+<div class="answer"><strong>A:</strong> DeepSak证明了中国研究人员和AI从业人员有能力独立做出最先进的成果，增强了民族自豪感。然而，我们不应因此认为已完全超越美国，AI领域的原创想法和技术创新仍主要来自美国。</div>
+</div>
+<div class="qa-item">
+<div class="question"><strong>Q:</strong> 为什么梁文峰能带领DeepSak取得这样的成绩，而其他国内大厂做不到？</div>
+<div class="answer"><strong>A:</strong> 主观上，梁文峰团队可能没有受到KPI压力，更多秉持纯粹的研究态度，敢于尝试不同路线并坚持科学探索，这与某些大厂受制于KPI压力，倾向于保守和路径依赖的做法形成对比。</div>
+</div>
+<div class="qa-item">
+<div class="question"><strong>Q:</strong> 在AI时代，产品经理应如何定位和发挥作用？</div>
+<div class="answer"><strong>A:</strong> 产品经理在AI时代至关重要，他们是定义产品边界的人，明确AI无法完成的任务，并将逻辑部分交给传统程序处理。产品经理决定了AI技术在真实应用中的实际效果和边界。</div>
+</div>
+<div class="qa-item">
+<div class="question"><strong>Q:</strong> 在大模型中，RAG和LM各自的作用是什么，目前存在什么问题？</div>
+<div class="answer"><strong>A:</strong> 在RAG和LM的组合中，RAG提供知识，而LM提供语言理解与总结等能力。实际应用中，由于边界难以精确控制，模型输入结果可能会耦合RAG的知识和模型自身知识，导致出现幻觉。或者虽完全应用了RAG的知识，但RAG的数据可能压制了LM的部分能力。</div>
+</div>
+<div class="qa-item">
+<div class="question"><strong>Q:</strong> 面对大模型存在的问题，有没有解决方案？</div>
+<div class="answer"><strong>A:</strong> 改变现有大模型的训练是困难的，因此通常需要在模型之外采用额外的方式解决，比如让小模型承担更多逻辑和稳定性的工作，而大模型专注于核心算法。</div>
+</div>
+<div class="qa-item">
+<div class="question"><strong>Q:</strong> Deep Sacks发布后对To C产品带来了哪些影响？Deep Sacks发布对To D（AI coding to developer）领域的影响是什么？</div>
+<div class="answer"><strong>A:</strong> 对于To C产业，Deep Sacks的发布降低了AI应用的成本，使得预算更多地用于人工介入，从而可能提升To C产品的质量和让更多原本受限于成本的AI功能得以实现。To D领域中，Deep Sacks可能带来的影响较小，因为开发者方向已有成熟的云服务提供商如OpenAI等，在该领域持续发展。Deep Sacks可能会间接影响模型选择和开发工具的发展，但To D领域竞争激烈，技术迭代迅速，最终受益的是开发者，会有更好的AI工具帮助他们完成编程、测试和文档编写等工作。</div>
+</div>
+<div class="qa-item">
+<div class="question"><strong>Q:</strong> Deep Sacks是否淹没了很多产品？</div>
+<div class="answer"><strong>A:</strong> 不认为Deep Sacks完全取代或淹没了很多产品。目前AI应用的用户时长和使用频次不高，这反映出尚未准确抓住用户需求痛点，产品经理的角色在于定义和满足这些需求。随着市场成熟和优秀产品经理增多，这一情况会有所改善。</div>
+</div>
+<div class="qa-item">
+<div class="question"><strong>Q:</strong> Deep Sacks对于To B和To G市场的影响如何？</div>
+<div class="answer"><strong>A:</strong> 对To B和To G市场影响深远，随着各大云服务商支持使用Deep Sacks作为推理模型，企业将转向使用开源模型，减少技术升级带来的生存危机，并将研究重点转移到超越现有模型的技术上。同时，由于开源模型的普及，预计中国乃至全球的To B市场将产生深远影响。</div>
+</div>
+<div class="qa-item">
+<div class="question"><strong>Q:</strong> Deep Sacks发布后对AI应用领域的影响是什么？</div>
+<div class="answer"><strong>A:</strong> Deep Sacks的发布对AI应用的影响类似于To B市场的转变，即转向使用开源模型。尽管应用可能会因Deep Sacks而大幅前进，但目前大多数应用仍需解决现有LM无法解决的问题，且倾向于使用小模型和RAG等技术。Deep Sacks作为一款应用迅速走红，但其内部训练问题可能会影响对C端用户的稳定服务维护。</div>
+</div>
+<div class="qa-item">
+<div class="question"><strong>Q:</strong> 在提到deep sick时，梁峰曾表达过什么样的观点？</div>
+<div class="answer"><strong>A:</strong> 梁峰认为deep seek不在乎商业化，甚至不做商业化，因为他认为商业化尝试会分散团队在科研上的注意力和投入。</div>
+</div>
+<div class="qa-item">
+<div class="question"><strong>Q:</strong> 在未来算力是否还重要？</div>
+<div class="answer"><strong>A:</strong> 我坚持认为算力投资不应再被重视，而是应关注retrain和模型能力的提升。随着开源模型的应用增多以及大厂不再进行军备竞赛，训练算力的需求将会下降，但推理阶段可能会因小模型的应用而阶段性下降，待AI应用迈过产品化门槛后会再次上升。现阶段没有必要过度追求算力，应更多地聚焦于算法和超越transformer的知识学习。</div>
+</div>
+<div class="qa-item">
+<div class="question"><strong>Q:</strong> 未来数据对于公司而言是否还构成壁垒？</div>
+<div class="answer"><strong>A:</strong> 数据比算力更为重要，尤其是在垂直方向上，拥有独家数据对于提升质量具有重大价值。基础性数据是一个重要的壁垒，而垂直领域或行业认知形成的壁垒更为关键。</div>
+</div>
+<div class="qa-item">
+<div class="question"><strong>Q:</strong> 对于deep sick下一步的预测是什么？</div>
+<div class="answer"><strong>A:</strong> 预测deep sick团队将继续探索r one zero的上限，并尝试通过纯强化学习解决模型的局限性问题。同时，他们会继续进行新的实验，如MTP multi token和新的路由算法，并考虑探索超越transformer的其他模型。</div>
+</div>
+<div class="qa-item">
+<div class="question"><strong>Q:</strong> 对于字节、腾讯、阿里等大厂未来动向的预测是怎样的？</div>
+<div class="answer"><strong>A:</strong> 商业公司在面临技术威胁时，会根据技术发展状况和成本降低趋势，结合开源技术进行review和策略调整，采取改进现有技术、内部研发以及面向未来探索的综合策略。</div>
+</div>
+<div class="qa-item">
+<div class="question"><strong>Q:</strong> 美国科技公司如Meta、Google、微软等的下一步计划如何？</div>
+<div class="answer"><strong>A:</strong> 美国科技公司在面对中国在科技领域的挑战时，可能会被迫审视其巨额投入的有效性，并可能跟进推出对标deep seek的开源产品以满足自身需求。同时，美国仍将是原创技术的重要输出地，但需要时间来实现新的突破。</div>
+</div>
+<div class="qa-item">
+<div class="question"><strong>Q:</strong> 模型商品化及低成本推理对各个厂商的影响是什么？</div>
+<div class="answer"><strong>A:</strong> 模型商品化和低成本推理的趋势在推进应用中不可改变，预计会进一步降低模型的成本和使用门槛。虽然这一趋势并非由deep seek单独引发，但deep seek在开源领域的规模化应用起到了重要作用。</div>
+</div>
+<h1>节目文稿</h1>
+<p class="transcript-line">
+<span class="time"><strong>[00:00:02]</strong> </span>
+<span class="speaker"><strong>发言人1: </strong></span>
+欢迎收听十字路口，我们关注新一代AI技术浪潮带来的行业新变化和创业新机会。十字路口是乔布斯对苹果公司的一个比喻，形容他站在科技与人文的十字路口，伟大的产品往往诞生在这里。AI正在给各行各业带来改变。我们寻找、访谈和凝聚AI时代的积极行动者，和他们一起探索和拥抱新变化、新的可能性。我是主播科技杨元成，联合创办了街旁新石像和唐岛。我相信科技尤其是AI会在未来十年彻底改变社会，赋能人类。欢迎大家找我聊天，碰撞想法，链接下一个可能性。
+</p>
+<p class="transcript-line">
+<span class="time"><strong>[00:00:47]</strong> </span>
+<span class="speaker"><strong>发言人2: </strong></span>
+我是主播戎慧，目前在一家专注科技投资的风险投资机构工作，之前在第一财经周刊担任驻硅谷记者。
+</p>
+<p class="transcript-line">
+<span class="time"><strong>[00:00:58]</strong> </span>
+<span class="speaker"><strong>发言人1: </strong></span>
+本周的十字路口，我们准备了20个问题，一起来探讨deep sick将如何改变2025年开始的未来十年。
+</p>
+<p class="transcript-line">
+<span class="time"><strong>[00:01:06]</strong> </span>
+<span class="speaker"><strong>发言人1: </strong></span>
+大概三周前，deep sick的R一的发布在全球掀起了轩然大波，相关的讨论铺天盖地。十字路口向来都不是很擅长追逐热点，我们也认为等热度稍微退去之后，往往也能够更加全面和理性的来讨论一个话题，而不被一时的情绪所左右。因此本周我们邀请到的嘉宾李乐町曾经在百度担任了10年的主任高级架构师。此前李老师也做客过十字路口，他上次来分享的博客题为我想击碎你们对于AI不切实际的幻想，并重建一个正确的认知。这一期播客成为了我们去年45期节目当中收听量最高的一期，可以说好评如潮。因此我们也非常荣幸能够在deep seek引发的热潮渐渐平息之际，再次邀请到李老师来和我们聊AI来探讨deep seek。我们准备的这20个关于depp sic的问题，涵盖了从算法、算力、数据应用以及商业等多个方面，人的一生当中能遇到的技术大事件可以说是屈指可数，而deep sick的发布无疑是其中之一。我也相信每个人都值得投入时间去了解deep sak究竟是什么，它又意味着什么，以及它将如何改变我们每个人的未来。
+</p>
+<p class="transcript-line">
+<span class="time"><strong>[00:02:26]</strong> </span>
+<span class="speaker"><strong>发言人1: </strong></span>
+李老师，我们的第一个问题就直接开始哈那第一个问题是其实网上有一个很流行的说法是deep sick的发布为标志着AI进入了下半场。你会认可这个说法吗？可不可以给大家讲一讲上半场、下半场分别是什么？
+</p>
+<p class="transcript-line">
+<span class="time"><strong>[00:02:40]</strong> </span>
+<span class="speaker"><strong>发言人3: </strong></span>
+大家好，关于AI其实我们上次聊过，其实更多的是关于在预训练方面的事情。经过两年时间的发展，其实基本上大家会发现过去两年来AI在预训练方面的上限的提升，实际上是一个逐步趋缓的过程。我们从GPT3.5到GPT four的时候，是看到了一个非常大的跨越。但从four开始之后的应该到现在将近两年的时间，他的眼向上的演进其实是不多的。逐渐的包括几个月之前，美国那边也是开始有更多的讨论在说预训练是不是已经到顶了，包括伊利亚给出的他自己的判断。
+</p>
+<p class="transcript-line">
+<span class="time"><strong>[00:03:25]</strong> </span>
+<span class="speaker"><strong>发言人3: </strong></span>
+其实基本上目前大家在形成一个基本共识，就是retrain已经走到了一个阶段性的顶点。我们不太希望在训练更大的模型了。这方面的原因，一方面是因为数据公开的高质量的且有足够多样性的数据，已经基本上都被使用到了。
+</p>
+<p class="transcript-line">
+<span class="time"><strong>[00:03:47]</strong> </span>
+<span class="speaker"><strong>发言人3: </strong></span>
+因为这里还比之前说到的一个东西，就是关于多样性。因为AI需要很多很多方向方面的知识。并不是说我在某一方面的知识我增加十倍，能力就会变得更多。而是说我们现在需要的是每一个方向其实都已经很多了，我们需要一个新的方向。这从这个角度来说，多样性的高质量公开的数据也已经非常稀少了。所以从数据的这个角度来说，我们很难再扩的更大了。
+</p>
+<p class="transcript-line">
+<span class="time"><strong>[00:04:15]</strong> </span>
+<span class="speaker"><strong>发言人3: </strong></span>
+而关于合成数据这方面其实也有很多的讨论。现在基本共识是如果你任意的生成合成数据，然后直接喂给预训练的模型的话，会导致它的崩溃。这个在很多大学有有相关的paper去论证这方面的内容。然后除了数据之外，其实还有一个debate，但是目前没有形成完全的共识。
+</p>
+<p class="transcript-line">
+<span class="time"><strong>[00:04:38]</strong> </span>
+<span class="speaker"><strong>发言人3: </strong></span>
+但是也说很多人开始意识到这件事情，也就是之前咱们上次就说到了坤教授其实提到了，由于transformer它模型架构的限制，导致AI今天的生成式AI它的数据的学习效率太低了。我们向他训练了几万亿的token的数据，然而他们仍然很难具备像你家猫一样的智能。所以这里面我们仍然是就会觉得可能需要有一种新的方法。所以从这两个角度来说，大家都还是觉得可能预训练是到头了。我们可以采取一些其他新的方向。特别是之前ONI的欧文发布之后，大家开始逐步把更多的眼光放到了后训练部分。
+</p>
+<p class="transcript-line">
+<span class="time"><strong>[00:05:25]</strong> </span>
+<span class="speaker"><strong>发言人3: </strong></span>
+Post training让模型增加更多的垂直方面的技能。比如说o one会增加各种math code等等STEM类型的能力，那么你可以在垂直方向增加一些特定的fine tune，来让它变成一个金融模型，变成一个法律模型，变成一个医疗模型等等这些方向。现在post training正在是大家主要发力的地方。所以是不是上半场。
+</p>
+<p class="transcript-line">
+<span class="time"><strong>[00:05:52]</strong> </span>
+<span class="speaker"><strong>发言人1: </strong></span>
+下半场也是以pre training和post training这样来划分的。
+</p>
+<p class="transcript-line">
+<span class="time"><strong>[00:05:57]</strong> </span>
+<span class="speaker"><strong>发言人3: </strong></span>
+对我觉得是上半场是我们为模增加更多的知识free training。然后下半场是我们让模型在已有的知识的基础上形成更多的能力。
+</p>
+<p class="transcript-line">
+<span class="time"><strong>[00:06:09]</strong> </span>
+<span class="speaker"><strong>发言人1: </strong></span>
+所以是不是也可以认为O一的发布它是下半场的一个信号，只是O一它是闭源的，所以他当时也没有把所有的技术细节拿出来给大家看，又包括它是收费的，同时他的思维链也没有公开。所以其实虽然能力强，但是并没有被业界也好，普通用户也好那么强烈的感知到。所以才让deep sick r一的发布得到了如此的风头。对我觉得。
+</p>
+<p class="transcript-line">
+<span class="time"><strong>[00:06:33]</strong> </span>
+<span class="speaker"><strong>发言人3: </strong></span>
+经验是肯定的。欧曼的发布就像当年我们第一次看到ChatGPT1样。我们首次看到能够在完全不依赖人类的情况下，我们竟然能够直接去解应用题，我们竟然能够直接让机器生成非常高质量的头顶，这是非常惊艳的。但确实OpenAI今天已经变成了close AI它的很多方法虽然应该在一线的研究者中是有一定的了解的，但他毕竟没有发布相关的具体内容，他甚至直接封锁了o one对于思考过程中升降人的token，让大家不知道他在它具体是如何进行思考的。所以R一的发布相当于是给全世界揭秘了最先进的技术是如何完成的。所以从这个角度来说，R一就相当于下半场时代的拉玛。
+</p>
+<p class="transcript-line">
+<span class="time"><strong>[00:07:25]</strong> </span>
+<span class="speaker"><strong>发言人1: </strong></span>
+那我们也进到第二个问题，就是我们来请李老师给大家科普一下。Deep seek的R1，包括在发R一前几个月发的V3，他们的工作原理，他们的训练方式分别是什么。
+</p>
+<p class="transcript-line">
+<span class="time"><strong>[00:07:37]</strong> </span>
+<span class="speaker"><strong>发言人3: </strong></span>
+我们先有一个基本的了解。好的，deep sip这次直接发了论文，包括r one和deep sip v3。除此之外大家如果想深入了解的话，还可以看他之前发布的另外两篇论文。咱们凑在一起看，其实就能形成一个全貌。前面两篇一个是deep seek的R的V2，就上一个版本的M1OE以及deep seek math。
+</p>
+<p class="transcript-line">
+<span class="time"><strong>[00:08:01]</strong> </span>
+<span class="speaker"><strong>发言人3: </strong></span>
+它如何将数学能力引入的那咱们先从R一说起，r one这次直接将模型的数学和多步推理能力的带到了o one的级别，那它怎么实现的，其实是大家最关心的事情。这篇论文应该是我最近两年看到的让我觉得最精彩的论文。实际上deep sic在r one这篇论文中，他训练了三个模型，而不是一个。
+</p>
+<p class="transcript-line">
+<span class="time"><strong>[00:08:28]</strong> </span>
+<span class="speaker"><strong>发言人3: </strong></span>
+我觉得最有价值的是一开始的r one zero。R one zero使用了一个非常优雅的想法，就是我们是否有可能纯粹的依靠强化学习，让模型自己去摸索的方式来实现多步骤的思考，从而提升模型在数学编码等等的逻辑思维能力。答案是肯定的那这个在这里它引入了一个非常不同于以往我们使用强化学习的方法。之前很多特别是美国对于强化学习的使用方法，大家往往是尝试去reward中间的过程。比如说我来解一道数学应用题，那一个直观的想法是这个应用题将由一步一步的推理完成。那么对于每一步我的强化学习系统都要对这一步是否做得正确，是否做得好进行一次激励。
+</p>
+<p class="transcript-line">
+<span class="time"><strong>[00:09:22]</strong> </span>
+<span class="speaker"><strong>发言人3: </strong></span>
+通过这个不断的激励让系统得到反馈，从而实现优化。但是deep seek非常精彩的分析了这个问题，他们的结果是要去激励模型的结果，而不是去干预中间的过程。RN zero最终它的奖励模型可以说是非常简单，简单到他只判断两件事。第一，他只判断模型最终输出的结果是不是正确答案，而不关心中间的思考过程，对中间思考中没有任何的激励。第二就是他引入了一个格式，格式系统的作用其实本质上是让后面的reward model能够专注于去判定输出的结果，而不要去被中间过程污染。它的格式实际上就是把中间的思考过程和最终的结果区分了开来，明确区分。这样我只看结果不关心过程。仅仅通过这一个方法就可以让模型的效果直逼OpenAI的o one。这是一个非常优雅的方法。在这里其实为什么我们只激励结果而不甘于过程能够成功呢？
+</p>
+<p class="transcript-line">
+<span class="time"><strong>[00:10:36]</strong> </span>
+<span class="speaker"><strong>发言人3: </strong></span>
+Deep sic在论文中有非常精彩的论述，他这样认为的是因为我们中间过程的内容非常难以量化和给出正确的激励结果。比如说我们在文科的时候，我们讨论一个文偏文科的内容的时候，我们都知道人的说话中上一句和下一句之间是要有关联性的，是要统一被放在一起的。我们有一句成语叫做断章取义，这是一个贬义词。那也就意味着我们将一组我们将你的连续的绘画中任何一句话单独抽出来的时候，它都不能代表你的全貌。所以我们很难对其中人说的某一句话进行精确打分。你说的是对还是不对，高还是低？这个是不能的。
+</p>
+<p class="transcript-line">
+<span class="time"><strong>[00:11:22]</strong> </span>
+<span class="speaker"><strong>发言人3: </strong></span>
+而对于偏理科的东西，即便比如说一道数学题，我们都知道一道数学题往往它会有多个解法。比如说高中的很多题，我可以用代数的方法解，也可以用几何的方法解，我也可以用分析的方式解。同样就算只局限到代数上，我也可以先合并同类项，在两边乘平方，也可以反过来。也就是说对于一个理科的题来说，它的推理过程是无限多的，我们很难穷举。因此与其让模型去干预中间的过程，不如直接看结果。
+</p>
+<p class="transcript-line">
+<span class="time"><strong>[00:11:56]</strong> </span>
+<span class="speaker"><strong>发言人3: </strong></span>
+或者说我们从也就是说从这个角度来说，就是机器的思考过程与人类是完全不同的。我们不能强求机器和人一样的想法，因为他的知识可能比我们所有的人脑中的知识储备都要多得多。他的预训练里学了几万亿的token。通过让他去不断的实验，以一种对于机器最自然的方式进行训练的话，我们是可以达到一个优秀的效果的这篇是r one zero给我们一个最大的启示，证明了强化学习直接使用是可用。
+</p>
+<p class="transcript-line">
+<span class="time"><strong>[00:12:28]</strong> </span>
+<span class="speaker"><strong>发言人2: </strong></span>
+这里我想补充一个问题，就是你提到的他的这个创新的想法，之前有没有其他的模型厂商尝试过。然后因为其实我看一些报道里面也提到，OpenAI的研究员在比较早的时候，其实做一个分享也提到过模型需要的是激励不是干预。是的。
+</p>
+<p class="transcript-line">
+<span class="time"><strong>[00:12:47]</strong> </span>
+<span class="speaker"><strong>发言人3: </strong></span>
+这件事情做的最早的确实就是OpenAI，当然以及还有强化学习的，可以说这个宗师级选手就是deep mind。其实这个想法在阿尔法zero就出现过，在阿尔法food中同样也都出现过，我们更多的去关心结果，open I也有相应的讨论。但是从开源方面的话，r one是首个直接告诉我们可以这么做的。我相信ONI和deep my的内部都会有大量相关的研究。我甚至相信o one很有可能就走过了r one整篇论文中的路程，最终形成了他们自己的模型。所以这块应该是有很多的前沿的研究者在做的。
+</p>
+<p class="transcript-line">
+<span class="time"><strong>[00:13:31]</strong> </span>
+<span class="speaker"><strong>发言人3: </strong></span>
+但是开源的是2万首首个阿富汗zero是一个非常棒的创新，但是论文中也非常明确的写出了RN zero它也有两个缺点。这两个缺点不适合把它真作为一个日常使用的模型给大家使用。这两个缺点其实很容易想到，首先就是既然模型是通过他自己的方式摸索出了推理的步骤，那么很可能这个步骤对人而言是难以理解的这就是他说的第一个问题。或者说网上今天现在也有很多人在形象的说，就是RY zero的思考过程不是人话，人很难理解，这是第一个问题。
+</p>
+<p class="transcript-line">
+<span class="time"><strong>[00:14:16]</strong> </span>
+<span class="speaker"><strong>发言人3: </strong></span>
+第二个问题就是语言去混合它的中间思考过程。会中文、英文或者其他的语言混合使用，这个也很正常。这是因为模型本身它学会的是所有语言，它并不局限于中文，它并不局限于英文。对模型来说，所有的语言都是token，所有的计算都是选择概率，都是计算attention。对他而言语言之间不同的语言之间没有代沟，没有区隔。那哪个词更好的表达了当前推理的方向，他就会选哪个词。所以就会形成RN zero的这样的一个效果。
+</p>
+<p class="transcript-line">
+<span class="time"><strong>[00:14:52]</strong> </span>
+<span class="speaker"><strong>发言人3: </strong></span>
+但这样的结果显然我们如果拿来日用的话是不合适的。日用的情况下，我还是希望看一看中间的思考过程，希望人能够看懂，希望他能够要么使用中文，要么使用英文，或者是要么是你你预设他使用法语，他就是使用法语，使用一个一致的语言，这个更像人类的习惯。所以要为解决这两个问题，那么deep seek又增加了更多的方法来形成从r one zero变成了R1。
+</p>
+<p class="transcript-line">
+<span class="time"><strong>[00:15:21]</strong> </span>
+<span class="speaker"><strong>发言人3: </strong></span>
+做法方面的论文里讲的非常细致。首先第一步是在一个deep seek v3的基础模型上进行SST微调。这里会用一批的COT数据，这里相当于给模型一个基础的回答套路。比如说他会告诉你，如果碰到某一类型的题目，应该先第一步是什么，第二步是什么，第三步是什么，第四步是什么。比如说要我们做一次总结陈述，第一步先应该看各种材料，第二步进行对比，第三步写总结。他会写出类似这样的回答套路。
+</p>
+<p class="transcript-line">
+<span class="time"><strong>[00:16:01]</strong> </span>
+<span class="speaker"><strong>发言人3: </strong></span>
+这些套路经过翻译之后，会让模型在回答的时候相对而言更靠近人的说法。会保证模型在回答的时候使用一致的语言，这是克服了语言一致性的问题。然后在这个基础上再去使用强化学习。相当于我只告诉你几个基本的套路，让模型沿着这个基本套路的方式再去自行摸索所有对所有其他的多步骤思考的问题该如何解。经过这样训练之后，得到了一个中间模型。
+</p>
+<p class="transcript-line">
+<span class="time"><strong>[00:16:40]</strong> </span>
+<span class="speaker"><strong>发言人3: </strong></span>
+这个中间模型实际上它还是有一定的问题的。虽然语言可能一致了，但是由于他使用了强化学习进行大量的能力扩展。显然扩展出来的很多能力回答的方式还不完全像人话。所以怎么解决这个问题呢？Deep sk使用了蒸馏，它在这里就将这个中间模型进行了蒸馏，得到一批的问答。对，这里问答对就包含了大量的题和回答方式。
+</p>
+<p class="transcript-line">
+<span class="time"><strong>[00:17:10]</strong> </span>
+<span class="speaker"><strong>发言人3: </strong></span>
+对这些回答方式进行筛选，筛选的方式使用了一个叫做拒绝采样的机制。这个算法很常见，这个并不是什么特别的。他的思想其实就是人通过举例的方式算出人在回答问题时的套路与蒸馏出来的数据在回答问题的是套路是不是差异太大。对于那些差异特别大，特别不像人话的东西，就拒绝他，我不采样这样的信息。实际上这是一个P图的筛选算法。
+</p>
+<p class="transcript-line">
+<span class="time"><strong>[00:17:40]</strong> </span>
+<span class="speaker"><strong>发言人3: </strong></span>
+经过这样处理之后，dixi k得到了60万条非常高质量的多步骤推理的问答。有了这个数据为基础，然后再增加20万条传统的泛听的数据。这传统发送数据就是让模型具备比如说语言对话、然后文本创作、然后阅读理解等等传统LM的能力。这些能力使用翻译是最佳实践。然后加在一起80万条数据，以这80万条数据再去重新翻译它的deep CV3基础模型。这时候得到的就是R问这样的一个模型。它既具有传统大语言模型的各项能力，又具备多步骤思考的推理能力。同时它的推理结果符合人类的思考习惯，并且使用一致的语言，这就是欧曼的效果了。非常精彩，整个过程非常精彩。
+</p>
+<p class="transcript-line">
+<span class="time"><strong>[00:18:40]</strong> </span>
+<span class="speaker"><strong>发言人1: </strong></span>
+确实听起来感觉一气呵成。李老师讲的也很漂亮，像给我们讲了一个纪录片一样，听起来很有意思。然后正好第三个问题，也是刚才李老师有提到的，就是关于蒸馏。其实网上有很多争议，就是deep sik到底有没有蒸馏OpenAI呢？那伴随着这个争议的，除了这个原创与否或者侵权与否的这些先不说。然后有另一个问题，就是如果只是用蒸馏的话，它有没有可能超越OpenAI，超越sota模型OK。
+</p>
+<p class="transcript-line">
+<span class="time"><strong>[00:19:08]</strong> </span>
+<span class="speaker"><strong>发言人3: </strong></span>
+关于这个，首先我相信deep sk没有使用OpenAI的数据，我觉得没有必要。那咱咱们就回到这个，咱们就假设它使用了蒸馏数据，那这个蒸馏是干什么用的呢？实际上我们通过前面整个论文的论述过程，我们可以看到，唯一使用了外部数据的是一开始从deep seek v3的base model做第一步SFT的时候，使用了一批COT的数据。这些数据就是让模型学会基本的回答套路。这部分数据就算使用了open I的一些成果，那又如何？因为最后真正的能力完全是来自于后面的强化学习。如果没有使用的，没有使用也没关系。O en deep这个完全可以自己找专家进行标住，这方面不是什么特别大的困难。
+</p>
+<p class="transcript-line">
+<span class="time"><strong>[00:20:02]</strong> </span>
+<span class="speaker"><strong>发言人3: </strong></span>
+可能这里会稍微的如果没有更多没有前人的数据拿来参考的话，可能会稍微走一些弯路。比如说我们现在已经发现R一的这条道路更适合做数学题，那不太适合做可能不太适合做文科。也许他做了一些大量的是文科COT，然后进行蒸馏进行实验，发现效果不好，回过头来重新写更多的数学题，仅此而已，无非浪费一些时间，最终他一定会摸索出一套合适的种子COT数据，所以没有任何必要去争流OpenAI。也许一开始有一些参考，那又如何呢？全世界我们每一个人都在参考别人的工作，这我觉得不是什么问题。
+</p>
+<p class="transcript-line">
+<span class="time"><strong>[00:20:45]</strong> </span>
+<span class="speaker"><strong>发言人3: </strong></span>
+那回到第二个问题，就是仅靠蒸馏能够超越搜他吗？我说绝对不能。那这个不能不是说你拿出最终一个成品，然后看他的奔驰mark发现我不如目前的第一名，这是有可能的，不可能的。原因在于你拿出的这个模型如果是蒸馏的那它一开始的蒸馏数据从何而来呢？这个蒸馏数据必然只能来自于强化学习的大量扩写，而不是蒸馏别人。如果蒸馏别人，你的能力一定小于它，这个是我们既定的经验。传统蒸馏一定是大模型争到小模型，这时候小模型将具备大模型可能百分之八十九十这个看你的蒸馏技巧的能力，但绝不可能反向超过大模型，那就左脚踩右脚上天了，这是错误的。所以中间一定想要让我们的模型在推理方面做好，中间一定要引入强化学习，这时候它就超越蒸馏了。
+</p>
+<p class="transcript-line">
+<span class="time"><strong>[00:21:43]</strong> </span>
+<span class="speaker"><strong>发言人1: </strong></span>
+其实业界的共识还是说是o one，它是带来了一个范式的革新，它的原创的这种革新启发了后面的很多人。不管是deep sick的R1，其实也包括KMI的推理模型K1.5。我觉得整个这种知识的接力，或者站在别人的肩膀上面再去做创新，其实这个是一个最近让人感到有点感动的某种技术理想主义在推动人类不断进步的一种感受。
+</p>
+<p class="transcript-line">
+<span class="time"><strong>[00:22:13]</strong> </span>
+<span class="speaker"><strong>发言人1: </strong></span>
+最近也有一个被大家喷的很厉害的人，就是anthropic的CEO dario。他之前其实还蛮受业内人士尊重的。可是在deep sick r一发布之后，他跳出来写了一篇叫什么代表某些美国观点的文章，要对中国进一步的限制芯片，以保护美国在大模型领域，在AI领域的绝对领先。这是不是也是意味着也是我们的第四个问题，就deep seek r一它所用的post trending路线当中的RL和at topic一直在用的RLHF的路线之中，RL已经显然胜出了。所以anthy c受到了威胁才会有darrel的一系列的反应呢。
+</p>
+<p class="transcript-line">
+<span class="time"><strong>[00:22:56]</strong> </span>
+<span class="speaker"><strong>发言人3: </strong></span>
+这篇文章确实可以说火遍全网。然后我觉得我们要客观去看待，就是把这里面的不同的地方区分出来。我觉得可能从三个层面来说。
+</p>
+<p class="transcript-line">
+<span class="time"><strong>[00:23:10]</strong> </span>
+<span class="speaker"><strong>发言人3: </strong></span>
+首先如果从整体角度来说，这篇文章完全就是在中国阴谋论，就试图通过强化中国的威胁来掩盖现在SO pic和ONI的能力已经被中国追上这样的事实。所以这里面这部分内容可以说纯粹的就是阴谋论。但是他文章中关于纯粹技术这部分的论述是非常中肯的。对于deep sik内部大量的技术的论述是中肯的，这部分我们是可以采纳的，我觉得说的也都非常好。
+</p>
+<p class="transcript-line">
+<span class="time"><strong>[00:23:52]</strong> </span>
+<span class="speaker"><strong>发言人3: </strong></span>
+其中他确实说了一句事实，就是deep seek的能力仍然跟他们有六个月的差距，这个我们没有必要回避，就是今天咱们不要拿空头支票就直接上奔驰。Mark从这里我没看到，确实我们还是没有超越open I也没有超越SO pick。比如R一的效果只是达到了O一的下限，但现在open I已经有了O3了，这一点我们确实是有差距。但当然他没说的是这六个月时间SRF自己的进展也不大，所以确实有差距，但是也没有那么大。他们前方的两个最前的人，他们已经非常放缓了，我们再追上来。
+</p>
+<p class="transcript-line">
+<span class="time"><strong>[00:24:37]</strong> </span>
+<span class="speaker"><strong>发言人3: </strong></span>
+说到技术这块，我觉得应该保持一个开放的心态。就是我们不能预设某一项技术一定是正确的或者一定是错误的。如果我们这样预测的话，实际上deep sk不可能做出今天的RY。因为在此之前最主流的正确方式是拉玛，而lama的体结构跟DFC可以说是完全不一样，中间会有巨大的差距。
+</p>
+<p class="transcript-line">
+<span class="time"><strong>[00:25:06]</strong> </span>
+<span class="speaker"><strong>发言人3: </strong></span>
+我非常同意梁文峰之前他接受采访时说的一个观点。他的采访应该最近也是火遍全网吧。它中间一个很重要的观点就是现在的大模型研究更像是一个research阶段。而在research阶段的典型方式就是我只提出一个假设，然后通过实验的方式去证实它。在实验给出结论之前，我都不能说这个假设一定正确或者是一定错误。所以我确实我我我无法回答到底是纯强化学习这条路是正确的，还是anthropic这条路正确的。
+</p>
+<p class="transcript-line">
+<span class="time"><strong>[00:25:45]</strong> </span>
+<span class="speaker"><strong>发言人3: </strong></span>
+Anodic认为模型的能力应该是一个连续的光谱，应该是在基础模型之内，就让它具备偏文科的回答能力和偏理科的多步骤思考能力。同样这也是一个非常厉害的idea。我不知知道也许他后面能够有更好的方法来实现这一点。我觉得咱们就从抱抱着一种科学的心态去关注他们，看大家什么时候能证实自己的idea。但当然另一方面就是对于义气的方面，显然我们是不认同的。美国已经没有任何能力去阻止中国研发大模型了，我们已经完全具备了关于生成式AI的全部的技巧。可能仅仅就是硬件方面造卡还有点困难，但我们国内也有卡，我们中国也有自己的AI训练卡。所以这块无论如何他们是不能组织我们做出世界上最好的模型。
+</p>
+<p class="transcript-line">
+<span class="time"><strong>[00:26:46]</strong> </span>
+<span class="speaker"><strong>发言人1: </strong></span>
+所以我们现在是推理卡，我知道是已经被尤其被R一证明了，就像这个规矩流动，他们这一次发的API也是在华为的这个推理卡，华为云的推理卡上做的那李老师现在训练卡我们到什么程度？
+</p>
+<p class="transcript-line">
+<span class="time"><strong>[00:27:02]</strong> </span>
+<span class="speaker"><strong>发言人3: </strong></span>
+训练卡目前我觉得目前的阶段是属于可用，但确实有点难用。如果你想三个月复现deep sk那么恐怕最佳的方案还是全套英伟达，还是用GPU，还是用它的NV link，最好你的网络还是用它的infect band。因为整套体系是非常完备的，以及如果你想要探索一些完全不同的新的模型，那恐怕扩大为你提供的支持也是最完备的，这个我们没必要回避。但是国内的卡完全可以进行训练，只不过需要一段时间的模型适配。这块儿我之前有几个朋友，其实做做相关硬件方面，一般来说训练的适配的时间会在三个月上下这种但是这是前提，是是这是一个比较确定的固定的一个模型。如果是要做自定义的算子要探索的话，恐怕要花的时间更长。
+</p>
+<p class="transcript-line">
+<span class="time"><strong>[00:28:04]</strong> </span>
+<span class="speaker"><strong>发言人1: </strong></span>
+所以我们前面四个问题都是有点硬核的问题。我们为了照顾到大家收听的节奏，所以我们第五个问题会轻松一点，也是大家都关心的，就deep seek这一仗打的非常的漂亮，他这种大获全胜的这些因素里面，我们认为它有开源，技术也做得好，然后成本也很低，然后产品体验也不错。李老师在你看来，这些因素谁最重要，或者说他们分别占比多少，能不能够来分享一下你的看法？
+</p>
+<p class="transcript-line">
+<span class="time"><strong>[00:28:35]</strong> </span>
+<span class="speaker"><strong>发言人3: </strong></span>
+如果在我看来让我看看的话，我觉得是开源是最重要的。我觉得冷坤教授给了一个非常好的评价，就是他说与其说这是中国战胜了美国，不如说这是开源战胜了闭源。其实我们回过头来，我们还是回过头来看deep seek的论文。我们从RY在倒退之前看V3，V3里面有MLE，有MLA，再倒退回来看前面的V2，再回到看deep sik mass中间对于强化学习的一开始的探索。
+</p>
+<p class="transcript-line">
+<span class="time"><strong>[00:29:08]</strong> </span>
+<span class="speaker"><strong>发言人3: </strong></span>
+其实我们能够非常明确的感受到，业内的一线研究者对于这种未来的方向是有感知的。他们不是不知道，所以阻碍他们的问原因是什么？很可能是没有足够的条件让他们去在这种创新的方式上做实验。这里我觉得很多时候实验是要付出代价的。比如说像deep seek，其中它的里面做了大量的实验，去论证某些方法可以，某些方法不可以。比如说R万他们也尝试去激励过程，结果是不好。在V三里他也去比较使用它新的MTP多token输出到底对于模型的效果改善有多少。其实这就意味着要想做好一个大模型需要大量的实验，因为没有人真正知道模型正确的道路是什么。
+</p>
+<p class="transcript-line">
+<span class="time"><strong>[00:30:02]</strong> </span>
+<span class="speaker"><strong>发言人3: </strong></span>
+可以说整个生成式AI乃至说整个AI我们的理论层面是不完备的。不像computer science有图灵完备性，完全告诉你了一切。AI并没有很多时候该用什么方法是需要做实验的。所以更重要的是要有足够的机会让研究者去做实验。而不能因为这次实验训出来的模型效果比上一版本降了百分之之2，那就处罚它，那就不让自带拥有资源。如果这样的话，那是做不出最好的模型的。
+</p>
+<p class="transcript-line">
+<span class="time"><strong>[00:30:33]</strong> </span>
+<span class="speaker"><strong>发言人3: </strong></span>
+所以我们看欧曼的产生，一定我认为一定背后有两方面原因。一方面是得益于deep sig v三这个模型，使得模型的训练成本大幅降低。V3的整体训练只需要550万美元，两千多张卡。而它在它基础之上再去做推理，再去做其他的强化学习，它的成本也比传统我们使用那种超大模型要低得多得多。那就意味着在同等的资源投入下，deep sk可以做更多的实验。
+</p>
+<p class="transcript-line">
+<span class="time"><strong>[00:31:04]</strong> </span>
+<span class="speaker"><strong>发言人3: </strong></span>
+另外一方面我就觉得我觉得是因为deep sk本身它有一个坚持了一个很好的初心。就像梁文峰说的，他不去做商业化纯粹research。在这种情况下，我可以接受模型失败，我可以接受这次的效果不好，甚至我可以接受在一段时间内效果不好。
+</p>
+<p class="transcript-line">
+<span class="time"><strong>[00:31:23]</strong> </span>
+<span class="speaker"><strong>发言人3: </strong></span>
+比如说我们还是如果我们仔细看论文的话，会发现它将强化学习进行了8000步，这几乎是绝无罕见的。之前没有公开的论文会把强化学习推到这么远的距离。那不是因为我们的研究者想不到这一点，无论中国还是美国，我们都有非常优秀的研究者。大家能想到问题是从0到8000步，效果的提升不是线性提升的，中间会下降，中间会有反复。那如何保证你有足够的资源，在比如说到了两千步，你的强化学习的斜率不再快速上升的时候，甚至出现阶段性向下的时候还能坚持呢？我觉得这一点都是需要更好的管理的支持的。所以一个偏向于research，偏向于开源的方式，才能孕育出这样的先进技术。
+</p>
+<p class="transcript-line">
+<span class="time"><strong>[00:32:10]</strong> </span>
+<span class="speaker"><strong>发言人2: </strong></span>
+看到一些分析就说到说大家其实看到的都是deep sik这次的一个巨大的成功。其实它的成功背后其实是有非常多的失败的。然后只是我们可能不知道，李老师你刚才提到这个8000步，可以再具体的就是比如再通俗的解释一下这八。
+</p>
+<p class="transcript-line">
+<span class="time"><strong>[00:32:28]</strong> </span>
+<span class="speaker"><strong>发言人3: </strong></span>
+千步意味着什么吗？OK好的，咱们可以稍微说一说，就是r one zero里面用的一。这里相当于我们可以这样理解，就是我首先让模型在一无所知的情况下回答数学题。那这些数学题的源头在哪呢？我们参考deep sk mh这篇论文，它使用了8000个种子数学题，这是有专门的评测集提出的，然后这里面有题和标准答案，他让机器自己去生成答案，那显然大部分题应该答的是错的，只有极少部分回答的是正确的。然后这时候强化学习系统会进行打分，把正确的标出来，把错误的也标出来。当然这里面还有一个重要非常重要的技巧，就是它里面的GRPO的reward model。咱们可以稍后再咱们再说。
+</p>
+<p class="transcript-line">
+<span class="time"><strong>[00:33:22]</strong> </span>
+<span class="speaker"><strong>发言人3: </strong></span>
+在这个过程中，我可以将模型进行打分，把好的回答选出来，把差大的踢掉。然后让模型重新用好的这些数据去重新翻出我的基础模型，这时候模型相当于它能力就提升了一步。比如说这时候8000道题，他可能第一步下来8000道题只回答十道，那这时候我的正确率就是8000分之10。然后我把这十道正确答案重新翻出模型之后，开始进行强化学习的。第二个我还是得把这道题继续让他回答。大概率它会从对十道变成对20道，对30道，是数字，这个是随便说的。会几十道题，然后还是reward model选出好的答案，踢掉差的答案，把更多好的答案重新回馈给模型。
+</p>
+<p class="transcript-line">
+<span class="time"><strong>[00:34:08]</strong> </span>
+<span class="speaker"><strong>发言人3: </strong></span>
+好，然后再进行第三轮，以此类推。第四轮、第五轮、第六轮。这时候我们是从如果粗看的话，我们会看到模型每一轮生成的它的思考中间这个token树，思考中间流程会变得越来越长。这论文里也有非常好的表述，这个基本上是线性编程模型说的话越来越多，它也就是说意味着它思考的越来越多。同时我们看到随着步数的增加，整体的正确率在提升。但是有意思的是，我们看这个模型会发现这个提升它不是线性增长的模型。在前4000步的时候，它的正确率提升的斜率基本上是一条斜线，斜线直接向上效果变得很好。
+</p>
+<p class="transcript-line">
+<span class="time"><strong>[00:34:56]</strong> </span>
+<span class="speaker"><strong>发言人3: </strong></span>
+但从4000到6000步的时候开始，它的斜率衰减了，从一个非常快的增长变成了一个相对缓慢的增长。而到6000步之后，模型的正确率甚至下降了一下，到7000步左右的时候甚至在下降。然后应该是在7500步之后，模型的效的准确率又开始上扬，是形成这样的一条曲线。这个中间当然可能deep sig因为前面做了大量的前置工作，做了很多的探索，所以它的这个曲线非常漂亮。
+</p>
+<p class="transcript-line">
+<span class="time"><strong>[00:35:31]</strong> </span>
+<span class="speaker"><strong>发言人3: </strong></span>
+很多强化学习的研究可能是我在一千步的时候，我的效果提升就衰减了。到2000步的时候就平了，甚至下了或者掉头向下。这时候可能大家就不愿意再去花资源去做后面四五千步了。
+</p>
+<p class="transcript-line">
+<span class="time"><strong>[00:35:47]</strong> </span>
+<span class="speaker"><strong>发言人2: </strong></span>
+那是不是可以说他们其实是为了想要测试跟证明这个方向，这个选择，想要去看他能够得到什么样子的结果，其实是非常的坚持。
+</p>
+<p class="transcript-line">
+<span class="time"><strong>[00:35:58]</strong> </span>
+<span class="speaker"><strong>发言人3: </strong></span>
+对，是的，一定是大家。首先就是我觉得咱们一会儿插入一下关于GRPO的那个reward model。其实就是当你们看当我们看这篇论文，当我们觉得真的想清楚之后，会发现整个r one的训练的思路是如此自然的时候。一定会他会对他有信心，你会相信这个东西一定可以成。然后再加上狄浦斯克有很好的低成本训练，以及有一个很好的老板，我觉得大家会形成一个共同的决策。那咱们来吧，咱们把它拉到一个别人都没想象到的次数，我们看看它到底怎么样。所以这个是成功的对，所以我想再说一下，他的GRPO就是如何reward整个R一大部分的技术都来源于一些朴素的想法。我们通过直觉其实就可以大面上判断说他们是一是OK的，而GRPO是其中最为复杂的一项思路。
+</p>
+<p class="transcript-line">
+<span class="time"><strong>[00:37:00]</strong> </span>
+<span class="speaker"><strong>发言人3: </strong></span>
+回到原先整个强化学习的过程，我们可以简化来看，就是先让系统去尝试回答，比如说100道题，然后将其中正确的十道题拿回来重新去翻译模型。到下一次再训练的时候，这100道题就可能有20道题是正确的那此时我们要不要将这20道题全部送给模型进行翻去呢？这会存在一个问题，就是这20道正确的题中，可能会有相当一部分的内容是与前面的十道题重复的。从两年前我们训练大模型的free train阶段的时候，其实我们就会发现数据虽然重要，但最好别重复重复使用数据来训练模型，很容易造成模型的过渡拟合。从形象角度来说，当模型在这个训强化学习的过程中，持续训练的时候，我们更希望他多去关心那些新摸索出来的套路，而不是一遍一遍的去重复和背诵之前已经学会的技能。所以gr pu的工作就是尝试去量化哪些新训练出来的套路更新更好。
+</p>
+<p class="transcript-line">
+<span class="time"><strong>[00:38:24]</strong> </span>
+<span class="speaker"><strong>发言人3: </strong></span>
+RY的做法是这样的，首先对于每一道题系统会让他做多个回答，这里是选了八个，然后对这八个答案依次评分，答对了给一分，答错了给零分。然后将这八个分转换成一个称之为递分数的统计学数据。这个分数在统计学上我们是经常被使用的，它的作用是什么呢？它的作用是做更好的区分度。比如说这八道题中如果绝大多数的这八个答案中如果绝大多数的答案都是做对的，那么我们就认为模型对这个题型基本上已经学的很好了，于是它的Z分数就会比较低。相反如果八个答案中只有少数几个答对，那么我们就认为模型学到了新的套路。这少数几个答对的地方他们的积分数就会非常高。恰好的是从数学角度来说，Z分数刚好是一个落到零和一之间的小数，所以它可以被直接看作是一个采样的概率。
+</p>
+<p class="transcript-line">
+<span class="time"><strong>[00:39:44]</strong> </span>
+<span class="speaker"><strong>发言人3: </strong></span>
+有了这样的一个分数和采样概率之后，我们就可以将那些新学习的套路，以更大的概率让模型去翻听。而那些已经学会了，已经掌握的旧知识，以更低的概率交给模型去复习。多关注于新知，少关注于旧时。这样如此往复，模型就会不断的优中选优，从而实现整个过程。
+</p>
+<p class="transcript-line">
+<span class="time"><strong>[00:40:13]</strong> </span>
+<span class="speaker"><strong>发言人3: </strong></span>
+当然GRPO除了在这方面思考上的优势之外，他也同样由于是我们只激励结果而不关注中间阶段。它与传统的像PPO、DPO等等强化学习算法相比，它在计算量，在内存的消耗量等等方面也有很大的优势。综合起来就形成了RY使用的这一项非常优秀的算法。
+</p>
+<p class="transcript-line">
+<span class="time"><strong>[00:40:37]</strong> </span>
+<span class="speaker"><strong>发言人2: </strong></span>
+我看到lex freeman那个博客里面详细的解释了deep sig在底层优化上做了一些事情。甚至他还把这个列到了他认为这个低成本的训练成功的关键。他提了三点，第一个就前面其实你就提了就是MOE这个混合专家MLA和因为芯片限制，它不得不通过底层优化来提高效率。NVIDIA本身有的这个NCCL的这个库的他们没有这个东西的前提下做了很多创新，这个你了解吗？比如说他们做的是哪些创新。
+</p>
+<p class="transcript-line">
+<span class="time"><strong>[00:41:09]</strong> </span>
+<span class="speaker"><strong>发言人3: </strong></span>
+具体他们做了什么事，其实论文里都写的很清楚。其实就是通过一些底层的哭大的优化，以及他训练过程中不同计算和通信之间编排优化，来保证它这套系统有足够的带宽的带宽够它通信不会卡住。但是通读他这个论文下来，我觉得deep seek手里的卡就是H800。它既没有H100也没有H20，这是为什么呢？就是H800跟H100主要差的就是那个NV link带宽卡了半了。所以他逼着他他必须得做这个优化，他不做不行。但另一方面H20它的通信能力和算力跟H800差距又特别大。按他现在那个优化方式，在H20上跑可能不是这效果，我觉得它就是H800，但这个现在他不说也没人知道。
+</p>
+<p class="transcript-line">
+<span class="time"><strong>[00:42:08]</strong> </span>
+<span class="speaker"><strong>发言人2: </strong></span>
+就觉得还挺让人启发的。就是卡住他的地方，他把这个地方变成了他的创新。
+</p>
+<p class="transcript-line">
+<span class="time"><strong>[00:42:13]</strong> </span>
+<span class="speaker"><strong>发言人3: </strong></span>
+对，是的，但如果有H100的话，它效果会更好。我觉得这肯定的这一他那个如果H800的确实条件是真的是太有限了。
+</p>
+<p class="transcript-line">
+<span class="time"><strong>[00:42:25]</strong> </span>
+<span class="speaker"><strong>发言人2: </strong></span>
+Relax他把这三点列成最重要的，你同意这个观点吗？
+</p>
+<p class="transcript-line">
+<span class="time"><strong>[00:42:29]</strong> </span>
+<span class="speaker"><strong>发言人3: </strong></span>
+基本同意。我觉得还有一点就是IP8它那个低精度，我觉得这个是很重要的东西，这些其实是起主要作用的，美国人在分析技术方面基本上都是靠谱的，这个说的都对，但是观点上面这个咱们就仅供参考。
+</p>
+<p class="transcript-line">
+<span class="time"><strong>[00:42:47]</strong> </span>
+<span class="speaker"><strong>发言人1: </strong></span>
+我们第六个问题，紧接着就是deep sick的V三为什么可以只花550万美元呢？而且前不久还有另一个新闻，就是李飞飞的团队用50美元也训出了据说可以媲美depp sic r一和OpenAI o一的AI推理模型。这又是怎么回事？可不可以也请李老师来分享一下？
+</p>
+<p class="transcript-line">
+<span class="time"><strong>[00:43:06]</strong> </span>
+<span class="speaker"><strong>发言人3: </strong></span>
+咱们还是这是两个问题，一个是V3的550万，一个是李飞飞。我觉得咱们先从李飞飞这块说起，就是这50美元训出R万的这确实有点标题党。但是这篇论文同样它非常重要，要明白它的重要性，其实咱们还是要回到R1R万这篇论文实在是过于精彩，以至于他把最后的甜点都变成了主菜。
+</p>
+<p class="transcript-line">
+<span class="time"><strong>[00:43:31]</strong> </span>
+<span class="speaker"><strong>发言人3: </strong></span>
+刚才一开始我说到RY其实最终续了三个模型。咱前面说了两个，一个是r one zero，一个是RY还有第三组是什么？实际上deep sik尝试在回答这么一个问题，它的R1和r one zero分别是都是在它的deep sik v3这个超大的模型底座上完成的。就是在一个671B虽然是MOE，也是一个非常大的模型上进行的训练。在这个非常大的模型上训练，我们证实了通过强化学习的方式和通过蒸馏的方式，都能让它获得非常棒的多步骤推理能力。那么问题自然就来了，我在一个没有这么大我在一个小模型上使用强化学习和使用蒸馏的方式，能让它具备很好的多步骤思考能力吗？
+</p>
+<p class="transcript-line">
+<span class="time"><strong>[00:44:15]</strong> </span>
+<span class="speaker"><strong>发言人3: </strong></span>
+第PK做了实验，他的方法就是将前面咱们说的从那个中间模型蒸馏出来的80万条非常珍贵的数据，用这个数据去翻译千问和lama这两个相对小的模型。它硬度我看的论文应该是没记错，应该是7B30B用它去反听，这实际上就是蒸馏，用数据去蒸馏？答案是ok在小模型上用珍贵的蒸馏数据，我也可以让它具备非常棒的math能力。它论文里也有相应的奔驰bug，成绩非常好。但是论文里也告诉你，如果我在小模型里面直接使用强化学习，使用urban zero的这套思路行吗？不太行。论文认为是因为小模型具备的知识还是太少了。
+</p>
+<p class="transcript-line">
+<span class="time"><strong>[00:45:04]</strong> </span>
+<span class="speaker"><strong>发言人3: </strong></span>
+其实就像你要想自己修炼的话，还是最好多有点知识，完全没有的话就容易走火入魔。这块可以说这绝不是一个甜点，而这是一个主菜。因为这意味着你拿一个30B的这个小模型，甚至7B的小模型都能有类似于欧曼的步骤推理能力。
+</p>
+<p class="transcript-line">
+<span class="time"><strong>[00:45:27]</strong> </span>
+<span class="speaker"><strong>发言人3: </strong></span>
+沿着这个思路咱们可以继续再想，就是我用了小模型80万条数据翻译，那8万条行不行？我翻庆也想少一点，翻译少一点的话，对于应用获得自己的能力也是有好处的。8万条行不行？8000套行不行？这块儿就走到了李飞飞的s one这篇论文了。在这里他最终给我们的答案是，如果你想max数学效果好的话，1000条就可以。
+</p>
+<p class="transcript-line">
+<span class="time"><strong>[00:45:52]</strong> </span>
+<span class="speaker"><strong>发言人3: </strong></span>
+那他怎么来的呢？它是先从google的gym I2.0 flash thinking，也是一个非常棒的推理模型。咱们客观说它这个模型的效果不比R版差。从这里蒸馏出了59000条高质量的回答问题。然后李飞飞对这些问题我他说进行精选，因为他的目标就是看到底我用我这个，我可以把这个争流数据压缩到多小让模型学会能力。它中间用了三个原则，就是这题要够难，然后题别重复，然后覆盖面足够广。最终得到了1000条。
+</p>
+<p class="transcript-line">
+<span class="time"><strong>[00:46:31]</strong> </span>
+<span class="speaker"><strong>发言人3: </strong></span>
+这个论文里非常清楚的告诉你这一千条大概是什么。就包括各种各样的数学。从相对简单的线性代数、微积分，到比较复杂的十倍函数序微分方程，然后还有很多量子物理等等，反正都是理科题。
+</p>
+<p class="transcript-line">
+<span class="time"><strong>[00:46:44]</strong> </span>
+<span class="speaker"><strong>发言人3: </strong></span>
+1000条仅仅用它，然后拿它去find time千问我可以得到媲美与r one的max性能。所以李薇薇这里就告诉你，如果你就是想在一个小在一个普通的模型上得到一快速得到一RY使用蒸馏的话，你只需要1000条数据。而这一千条数据论文里写泛听只需要16张H100，训练26分钟，算下来就是50美元。当然50美元这个最这是一个非常极限的测试。所以我说50美元比较标题党，实际的话肯定会比这个多。但是这也意味着如果你仅仅想获得垂直能力的话，你的成本可以非常低，后训练的成本是非常低的。
+</p>
+<p class="transcript-line">
+<span class="time"><strong>[00:47:34]</strong> </span>
+<span class="speaker"><strong>发言人3: </strong></span>
+咱们这再关联上V3，V3的论文中不仅告诉你了预训练550万就是200，应该是260万GPU hour。咱们就按GPU小时来说，因为那个单价它各地不一样，这260万GPU hour就可以预训练出V3同时他告诉你它的后训练所用的算力连预训练的零头都不到。所以有时候我比较讨厌，今天网上很多人说这个预训练scaling落结束之后，后面就是后训练的scaling落，然后算力继续无限膨胀。后训练确实有scale，但是他的skill规模跟预训练是不能比的，会差好几个数量级。
+</p>
+<p class="transcript-line">
+<span class="time"><strong>[00:48:18]</strong> </span>
+<span class="speaker"><strong>发言人3: </strong></span>
+然后至于V3的550万美元，这个260万GPUR如何做到？那就要再回归到它的v two，可以说就是过去很长一段时厚积薄发而来。里面最重要的就是如何节省模型参数的技术是技巧是在V2完成的，就是MOE到V3做了进一步的优化。如何降低在每一次计算过程中算attention消耗的算力？这个也是V2完成的，就是它的MMLA attention这个V三继承了得到了优化。
+</p>
+<p class="transcript-line">
+<span class="time"><strong>[00:48:53]</strong> </span>
+<span class="speaker"><strong>发言人3: </strong></span>
+V3做的是使用f PPR训练。其实这个我觉得。真的，美国人其实早就应该做这个，因为FB8是H100卡最重要的一个卖点。美国人手里有这么多H100，他们不去试这个东西的，确实我觉得也是有点资源诅咒的味道了。做它其实不是什么神奇的东西，就是大量做实验。我要摸索出在整个正向和反向传播过程中，哪些是可以使用IP8的那这块又贡献了一部分，其实这三个加在一起贡献了绝大多数的力量，把他们都放在一起，260万GPUR基本上可以完成一个训练。
+</p>
+<p class="transcript-line">
+<span class="time"><strong>[00:49:34]</strong> </span>
+<span class="speaker"><strong>发言人1: </strong></span>
+我觉得李老师讲的太好了，在没有这个视频和没有PPT的情况下，能够把事情讲的那么清楚。
+</p>
+<p class="transcript-line">
+<span class="time"><strong>[00:49:41]</strong> </span>
+<span class="speaker"><strong>发言人3: </strong></span>
+真的挺不容易的。这两篇论文我看了好久，确实写的非常好。
+</p>
+<p class="transcript-line">
+<span class="time"><strong>[00:49:46]</strong> </span>
+<span class="speaker"><strong>发言人2: </strong></span>
+对对对，我其实还挺想问这个问题的，就是你刚才其实提了好几遍，然后head cloud的那个分享里面，其实他也重复了好几遍这个话就是说这个论文写的太精彩了。我今天还问ChatGPT，一般业内是怎么来衡量一个论文写的特别精彩？他给了我一些维度。其实我想问问你的主观判断，就是你会从哪些角度觉得这个论文写的太精彩了。
+</p>
+<p class="transcript-line">
+<span class="time"><strong>[00:50:11]</strong> </span>
+<span class="speaker"><strong>发言人3: </strong></span>
+其实这个通俗来说就是干货足够多。这篇论文他的干货实在是太多了。坦白说坦白说虽然我一直非常关注AI但是过去两年其实我越来越不愿意读论文。是因为大部分论文给出的内容是有效内容实在是不太多。
+</p>
+<p class="transcript-line">
+<span class="time"><strong>[00:50:33]</strong> </span>
+<span class="speaker"><strong>发言人3: </strong></span>
+这篇论文可以说他这一篇论文的就是他的硬内容的含量，可能相当于一般论文的十篇甚至不止。就比如说像RY那种是三个模型的事情，完全可以写成三篇论文。然后至于deep sick v3的那里面它如此巨多的各种各样的优化技巧，虽然很多优化技巧咱们坦率说应该是dpc还没有做的足够完善，这些技巧都效果不大的，比较可能后面的V4V5会逐渐做出来。但是这么多实验，这么多事情的话，如果普通来发的，很可能发他5篇6篇论文也都是可以的。所以确实它的内容含量实在是太高了。
+</p>
+<p class="transcript-line">
+<span class="time"><strong>[00:51:21]</strong> </span>
+<span class="speaker"><strong>发言人2: </strong></span>
+而且我觉得他这个方式其实也很符合开源这个世界的沟通方式。就是他发一篇论文，然后大家会通过社区的人会通过论文去解读，其实等于帮他做了非常多次的二次传播。
+</p>
+<p class="transcript-line">
+<span class="time"><strong>[00:51:35]</strong> </span>
+<span class="speaker"><strong>发言人3: </strong></span>
+是的，这才是社区精神。
+</p>
+<p class="transcript-line">
+<span class="time"><strong>[00:51:39]</strong> </span>
+<span class="speaker"><strong>发言人1: </strong></span>
+那我们就进到我们的整个第二大部分，就是如何来正确看待deep sak所带来的一系列影响。也是我们的第七个问题。Deep sak显然是带来了我们非常强的民族的情绪，尤其还要考虑到deep sick这个背后他的团队里面的每一个人，都是在国内的工科高校的系里面所培养出来的对，甚至前两天我听到一个投资大佬，他在一个私下的聚会上，我就非常激动的说，这认为是中国的国运，如果没有国运，我们很可能就进到通缩了。这个deep sk的发布，甚至避免了中国进到类似日本的失落30年的这么一个境地。那李老师你会怎么看待deep sak对于中国的科技行业乃至整个中国商业世界的影响？
+</p>
+<p class="transcript-line">
+<span class="time"><strong>[00:52:28]</strong> </span>
+<span class="speaker"><strong>发言人3: </strong></span>
+这个太宏大的问题，这个我确实回答不了。这就就从我的感受来说，我觉得有一点是非常明确的。就是deep sik证明了我们中国的无论说是研究人员，还是我们的软件AI的从业人员，我们掌握的知识，我们的掌握能力一点不比没我差。我们用完全的全部的知识，然后我们可以在几乎是完全独立的情况下做出最先进的东西，这个是非常好的。至于说他对于更大层面的影响，我觉得我不知道，但我相信大家会一定会因此而感到兴奋的。当然这还是我觉得还是还要有一点，我觉得最近有一些确实我看到了很多网上的传播，我觉得有一点不太好的地方，就是不要因此就觉得我们一下子完全超越美国了。
+</p>
+<p class="transcript-line">
+<span class="time"><strong>[00:53:30]</strong> </span>
+<span class="speaker"><strong>发言人3: </strong></span>
+梁文峰在他的采访中，我前面说他有两个观点非常喜欢。其中第一个是前面说过，第二个我觉得还是就是在他看来，中国和美国的差距到底在哪？中国和美国的差距可能比如说在在AI这个领域，我们可能只差一年甚至半年。但与其说这是时间上的差别，不如说更文章是原创和跟随的差别。我们必须说不得不承认，也必须承认，或者说应该承认，AI几乎所有的原创性的想法和idea依然来自于美国。
+</p>
+<p class="transcript-line">
+<span class="time"><strong>[00:54:08]</strong> </span>
+<span class="speaker"><strong>发言人3: </strong></span>
+强化学习是谁？最早在产业中真正使用的是deep I对GPT这种scaling的方式，增加模型参数来提升能力的方式。最早从哪儿来的open I都是来源于美国。所以如果我们这个阶段不能够去转换，从一个跟随者变成一个原创者的话，那我们与美国的差距可能永远会留在一年两年。我们可以跟锤子很近，我们可以学会，但是我们不能超越它。
+</p>
+<p class="transcript-line">
+<span class="time"><strong>[00:54:39]</strong> </span>
+<span class="speaker"><strong>发言人3: </strong></span>
+我有点感触，感觉就是deep seek。现在的deep seek更像是伊利亚时代的OpenAI，而不是sam时代的OpenAI。现在的我们还我觉得他太过于路径依赖于它对的，它当然它是完全的close。一是他太过于沉迷于scaling就增加算力，另外就是产品化纠缠了他太多的精力。其实大家对我们AI最大的期望还是把GPT5做出来，去超越原先的东西，去做这些事情才是大家希望看到的。
+</p>
+<p class="transcript-line">
+<span class="time"><strong>[00:55:12]</strong> </span>
+<span class="speaker"><strong>发言人1: </strong></span>
+我们正好就问到第八个问题，就是为什么梁文峰能够带队deep seek做出来这样的成绩？而其他国内的大厂，我们就不点名了，反正也就那么几个。大家都知道是谁，为什么他们做不出来呢？
+</p>
+<p class="transcript-line">
+<span class="time"><strong>[00:55:26]</strong> </span>
+<span class="speaker"><strong>发言人3: </strong></span>
+主主主观上我觉得很多时候还是KPI压力太大，KPI的压力设置可能不太合理。因为应该是说梁文芬他们团队是没有KPI的，大家还是更多的秉承着纯粹的researcher的态度。我们不一开始假设某一条路一定正确，我们就是大家一起讨论看看哪条路OKOK了，我们就投资源去做做不成那便做不成，效果差可能我们再坚持。如果实在看出来效果差，可能换一台路线等等我觉得这个是这是一个正常的进行科学探索的道路，对吧？
+</p>
+<p class="transcript-line">
+<span class="time"><strong>[00:56:05]</strong> </span>
+<span class="speaker"><strong>发言人3: </strong></span>
+我们之前从小我们就学爱迪生如何发明灯泡，试了那么多次，那你不失败哪来的成功呢？但是恐怕在大厂工作，他不是这样。大厂虽然资源多得多，而且大厂的人才肯定也多得多，数据也多得多，但是压力也大。如果很多时候如果你这一版模型不能把效果提升个3%、5%，可能就保不住工作了。这个确实会影响大家做事儿的方法，可能不太愿意去尝试那些目前看起来不行的东西，更愿意说就是萧规曹随。前人这么做了，然后我在他的基础上扩大点规模再去做，这样的话是能够活下去的方式。我这主观一家之言。
+</p>
+<p class="transcript-line">
+<span class="time"><strong>[00:56:54]</strong> </span>
+<span class="speaker"><strong>发言人1: </strong></span>
+其实这里又到了第九个问题，就是看上去deep sick的胜利是工科生的胜利，技术的胜利。那问题来了，AI时代的产品经理们要怎么办呢？
+</p>
+<p class="transcript-line">
+<span class="time"><strong>[00:57:05]</strong> </span>
+<span class="speaker"><strong>发言人3: </strong></span>
+我觉得产品经理对于AI太重要了，太重要是灵魂，这是这个是灵魂的。这个之前我觉得咱们也别都说好，咱们也再说点儿不好，咱们也泼个冷水。说实话现在的AIAI的模型的发展与AI应用真正的诉求是不一致的那对r one确实非常棒，o one o three都非常棒。但是应用需要的不是这样的，应用需要的是稳定可复现的能力，而不是稳定可复现。且应用需要的是稳定可复现且可scale横向扩展不同领域的能力，而不是在某一个MaaS这个纯粹的领域上做的很好，但是又不能百分之百正确。这个是跟应用的需求不一样的。
+</p>
+<p class="transcript-line">
+<span class="time"><strong>[00:57:59]</strong> </span>
+<span class="speaker"><strong>发言人3: </strong></span>
+比如说我们其实前面说到就是大家一个共识。除了说free train的撞墙，post train的希望，还有一个第三共识就是应用并不会选择最强大的模型。现在应用的普遍做法是用小模型，甚至非常小的模型，不再追求模型有很强的推理思考等等能力。把这些所有的问题交给其他，交给比如说产品经理写的prompt engineer，交给我的RAG系统，交给我的一个外部程序来进行判断。将逻辑留给传统的地方，然后只让AI去承担类似于传统NRP的工作，这个是现在应用的实际用法。因为从应用的反馈来看，现在的模型确实达不到大家想要的质量。所以我们只能退而求其次，把他最好的那部分东西，能用的那部分东西拿过来。
+</p>
+<p class="transcript-line">
+<span class="time"><strong>[00:58:54]</strong> </span>
+<span class="speaker"><strong>发言人3: </strong></span>
+他于是乎咱们这里说了这么远，产品经理的作用是什么？那简直无比太重要。产品经理要去定义产品中的边界，要去明确哪些那些AI真的在现实中完成不了的事情该如何做。
+</p>
+<p class="transcript-line">
+<span class="time"><strong>[00:59:09]</strong> </span>
+<span class="speaker"><strong>发言人3: </strong></span>
+就像我觉得咱们上次在聊的时候，我就举过这样一个例子。就比如说我让AI去订机票。你无法想象两年过去了，这样的产品还是没做出来。为什么？哪怕有了o one，其实o one美国人用上六个月了也没做出来，也没变得更好。为什么？就是因为实际在做的时候，他订票的不是一锤子买卖。
+</p>
+<p class="transcript-line">
+<span class="time"><strong>[00:59:31]</strong> </span>
+<span class="speaker"><strong>发言人3: </strong></span>
+你是不能一开始就提前跟AI说清楚你到底要什么票的。不可能的说你给我订一张明天北京到上海几点钟，哪个航空公司的经济舱，还是什么公务舱，我还是你要不要升舱等等，我是不可能提前说出来的，我一定是中间需要不断的看。需要不断的想跟我的行程做对比，中间会有很复杂的流程。这个流程是AI不可能一步提升的。中间如何来提升整体效，这一定是产品经理。
+</p>
+<p class="transcript-line">
+<span class="time"><strong>[01:00:00]</strong> </span>
+<span class="speaker"><strong>发言人3: </strong></span>
+所以可以说产品经理才是真正AI走向应用的灵魂，它是决定了这里面的工作。我们完全在这个层面上没有替代到人。我们可以看这样的一个例子，就是现在比如说RAG，RAG的大量的应用是做企业内网搜索。做过RAG的同学其实都能想到最好的实践是什么呢？是RG的检索。
+</p>
+<p class="transcript-line">
+<span class="time"><strong>[01:00:25]</strong> </span>
+<span class="speaker"><strong>发言人3: </strong></span>
+RG要的语料的内容是指通过你的搜索系统内部联网检索系统查出来的。而你要用RAG里面的知识，而不是让用模型自己的知识。因为模型自己的知识和幻觉，但是你要用模型的语言的能力完成LM的理解总结等等的事情。这应该是一个RAG提供知识，LM提供能力这样的一个好的组合。但现状是真正用起来发现他们两个边界是不能精确控制的那经常出现的情况就是模型输入结果耦合了RAG的知识和模型自己的知识，甚至模型自己的知识用的更多，这就出现了幻觉。而反过来，有时候经常会出现，虽然完全应用了RG的知识，但是RAG的数据又反向压制了LM自身的能力。
+</p>
+<p class="transcript-line">
+<span class="time"><strong>[01:01:18]</strong> </span>
+<span class="speaker"><strong>发言人3: </strong></span>
+这些情况经常出现，但是想要改变挺难的，因为你不能重新训一个模型，这就只能在你的rng系统之外再加额外的方式去做。所以从这个角度来说，就是大模型用起来它也有这个问题。而大模型你也不能去改它，然后你的翻新成本又更高。那不如用一个小模型把更多的活逻辑的工作，这些稳定性的工作留给RAG.
+</p>
+<p class="transcript-line">
+<span class="time"><strong>[01:01:42]</strong> </span>
+<span class="speaker"><strong>发言人1: </strong></span>
+这个很清晰。好，我们进到第三部分，就是deep sik发布之后，对于to C2B以及to d就to developer的各种各样的影响。第十个问题就是deep seek的发布，尤其是R一李老师你会认为他对to c的各种各样的产品带来了哪些影响？
+</p>
+<p class="transcript-line">
+<span class="time"><strong>[01:02:03]</strong> </span>
+<span class="speaker"><strong>发言人3: </strong></span>
+我觉得他对于to c其实它对于整个产业都是有非常大的影响。因为成本实实在在的被降低了一个数量级。今天当然我们的AI应用，很多时候并不是卡在成本上，而是卡在能力上。如果这部分成本降低的话，我是可以将更多的预算留下来，去引入人工的那这时候我的让让我让产品经理在在人偏人工这部分去做更多的这种规划和设计，那这样to c的产品可能会做的更好，这是其一。其二就是原先那些确实已经用AI的地方，但是因为成本原因，比如说基础的LP理解，比如说基础的规划等等，这些东西都可以用起来。这块可能会带来一个阶段性的一个高潮，让大家都去尝试。
+</p>
+<p class="transcript-line">
+<span class="time"><strong>[01:03:03]</strong> </span>
+<span class="speaker"><strong>发言人1: </strong></span>
+那对to c的这些产品的影响，比如说大家会认为现在好像模型就变成了产品，它会淹没掉很多的产品。你有这样的感受吗？
+</p>
+<p class="transcript-line">
+<span class="time"><strong>[01:03:15]</strong> </span>
+<span class="speaker"><strong>发言人3: </strong></span>
+我不认为这是这样的，我确实不认为是这样。在我看来就是你有没有观察到，实际上open无论是OpenAI的APP，还是像其他的jima，或者是国内的一些APP。他如果你看现在的数据分析的话，会发现他们的用户时长都不是特别长。包括我们从自己使用，其实每天使用的次数都不是特别多。
+</p>
+<p class="transcript-line">
+<span class="time"><strong>[01:03:42]</strong> </span>
+<span class="speaker"><strong>发言人3: </strong></span>
+其实这很大程度反映到是我们现在还没有准确的抓到大家的需求痛点上。可能确实是因为这个行业它技术发展的太快了，还缺乏足够优秀的产品经理过来去定义什么样的东西用来解决的最好。以至于当大家的需求没有被正确的定义定位满足的时候，大家只能去尝鲜，去去看谁家的技术更好一些。所以才带来了这样的影响。我觉得后面整个当整个市场进入到一个更加完备的运转的时候，有更多的产品经理进来去界定的话，就不会是这样。
+</p>
+<p class="transcript-line">
+<span class="time"><strong>[01:04:24]</strong> </span>
+<span class="speaker"><strong>发言人1: </strong></span>
+除非AJI对我也是这么认为的。好，我们第11个问题就是deep sick的发布对于to b那to b又分为true enterprise和to government，你会认为带来了哪些？
+</p>
+<p class="transcript-line">
+<span class="time"><strong>[01:04:37]</strong> </span>
+<span class="speaker"><strong>发言人3: </strong></span>
+对于to b和to g这两个方向，我觉得影响可能是很深远的。你们观察到就是在deep seek上线之后，非常短的时间error就开始支持使用dipstick了。然后AWS很快也跟进，对，今天几乎所有的一线云都跟进了。允许你使用的是一个作为你的推理模型。
+</p>
+<p class="transcript-line">
+<span class="time"><strong>[01:05:03]</strong> </span>
+<span class="speaker"><strong>发言人3: </strong></span>
+其实这会产生这样的一个问题。我们在之前开源中我们就观察到，如果一项技术它的上限提升不再快速前进的时候，那这时候对于各家商业公司来说，它的生存危机就消除了。因为不会出再出现。如果我没有立即跟进最先进的模型，六个月之后别人出来的模型巨幅改善的效果直接隔了我的命，这种情况可能就不会出现。那在这种情况下，各家可能就会将它的模型研究重点从军备竞赛卷，谁能够做出一个GPT4级别的模型，变成更加理性。我让我的研究团队转向于类似于deep sick的这种方式，去探索超越transformer的下一代模型，这部分什么时候能做出来不着急。
+</p>
+<p class="transcript-line">
+<span class="time"><strong>[01:05:58]</strong> </span>
+<span class="speaker"><strong>发言人3: </strong></span>
+而与此同时，在产品方面直接使用开源的deep sik，大家都具有同样的产品。我们几乎所有的中国的互联网公司，包括美国的互联网公司，都大量使用开源软件。大家都使用linux，大家都使用redis，开源软件使用量非常巨大。无非是就是大家发现当开源真的已经是业界最好的时候，不再有生存危机的时候，没有道理不用。所以可能整个to b都会产生影响，尤其是中国这块，我觉得会有深远影响。
+</p>
+<p class="transcript-line">
+<span class="time"><strong>[01:06:30]</strong> </span>
+<span class="speaker"><strong>发言人3: </strong></span>
+但是美国这块我觉得美国可能也会有自己的deep sick。因为毕竟由于像SOP等等，以及由于今天现在美国的这个政治环境，它可能对于中国还是有敌视的。很他们很可能不愿意看到一个来自中国的产品在美国也做大生态，可能他们自己会做一个类似的东西出来。但我觉得如果大模型上线不再提升的话，可能将来to b方向大家用的都是开源模型。
+</p>
+<p class="transcript-line">
+<span class="time"><strong>[01:07:05]</strong> </span>
+<span class="speaker"><strong>发言人1: </strong></span>
+好，我们的第12个问题就是对to d因为to d也是这个大语言模型一个非常重要的方向。AI coding to developer。李老师你会认为deep thick它有带去什么样的影响吗？因为我看到是curse r他们有官方出来发言说，其实目前不管是他们自己的评测还是用户的反馈，仍然认为cloud 3.5 sonnet在写代码上还是。
+</p>
+<p class="transcript-line">
+<span class="time"><strong>[01:07:31]</strong> </span>
+<span class="speaker"><strong>发言人3: </strong></span>
+一枝独秀的对，是的，我觉得对于to developer来说可能是影响最小的。因为刚好developer的这个方向是cloud，是open o3是r one，他们都在最擅长的方向。而这个方向后面还在快速的发展，所以谁能够领先都不确定。可能中间之后还会有很大他们的之间的base还会大量的变动。而这些模型能力的好坏直接决定了像类似于cursor这样的to develop for软件会使用这样什么样的模型。但我觉得没关系，就是这样的竞争才会诞生出新的技术。
+</p>
+<p class="transcript-line">
+<span class="time"><strong>[01:08:18]</strong> </span>
+<span class="speaker"><strong>发言人3: </strong></span>
+也许我们确实这个阶段性的又落后于美国了，那又如何呢？再过一段时间我们有很好的研究，我们还会超过他。可能最终受益的就是开发者。每个人手里都会有一个很好的AI chat ort，帮助他去做一些写code的，写测试，写文档等等这些事情。这是好事。
+</p>
+<p class="transcript-line">
+<span class="time"><strong>[01:08:42]</strong> </span>
+<span class="speaker"><strong>发言人1: </strong></span>
+确实很精彩。我其实刚才突然想再回忆，就在我人生前面三十几年，有什么时候有如此感觉到科技的进步就是在你的眼皮底下发生的。之前好像并没有如此强烈的感受。
+</p>
+<p class="transcript-line">
+<span class="time"><strong>[01:08:58]</strong> </span>
+<span class="speaker"><strong>发言人2: </strong></span>
+但这个就好像是用iphone的时候。
+</p>
+<p class="transcript-line">
+<span class="time"><strong>[01:09:01]</strong> </span>
+<span class="speaker"><strong>发言人1: </strong></span>
+对，但是第一次用iphone之后并没有出现你追我赶。比如说今天用了iphone，过了三个月发了一个iphone。没有，所以这个感受还蛮奇特的，我觉得可能也是人生仅此一次。
+</p>
+<p class="transcript-line">
+<span class="time"><strong>[01:09:15]</strong> </span>
+<span class="speaker"><strong>发言人1: </strong></span>
+我们第13个问题是想看一看deep sick的发布对于AI应用的影响。对，因为其实在deep sak发之前，我不知道大家是不是还记得，因为现在新闻实在是太多。但十字路口在那个时候是做了两期内容，我们其实是很激动的。David的发布会意味着它标志着2025年，甚至是这个AI agent落地的一个元年。但现在deep sc这么一发布，会对整个应用领域又带来哪些影响呢？这个李老师其实前面也提到了一些，看看在这里有没有一些额外的补充。
+</p>
+<p class="transcript-line">
+<span class="time"><strong>[01:09:48]</strong> </span>
+<span class="speaker"><strong>发言人3: </strong></span>
+对于应用来说，我觉得其实它相当于to b的一个延展。一个就是是应用我使用什么样的技术栈这件事情，我觉得就是to b的问题可能大家都会转向开源模型，这个情况我觉得是很有可能会发生的那另外一个就是应用本身会不会因为r one的发布而大幅前进的。我对这个事情是比较question的。因为站在应用的角度上还是那个大问题，就是应用需要的能力是确实是现在的LM不具备的。其实我们看到o one出来几个月，大家也没有哪个APP说，因此我的我原先解决不了的问题就解决了。然后我们会看到越来越多的应用在他他不在使用在尝试过所有模型之后，觉得我可以不需要不必使用GPT four这种超强的模型，我不必使甚至我不必使用cloud的这种非常强大的模型。
+</p>
+<p class="transcript-line">
+<span class="time"><strong>[01:10:48]</strong> </span>
+<span class="speaker"><strong>发言人3: </strong></span>
+我在美国看到一个特别有意思的事情，就是当你去问到很多人，你问到google的G那个APP怎么样的时候，大部分人都想我说不太好，这是这个模型有点笨，没有差距，别好。但是如果你问他gym I的API怎么样的时候，大家都说好。因为gin的API gin flash确实又便宜又快又好。从性价比来说，GBI2.0 flash甚至比deep sik更高。我们可以看大家的实际定价，尤其是google有TPU的支持之后，它的成本是非常低的。所以对于应用而言，我们早就走向了一个可能跟今天LM研发方向不太一样的道路。应用大家都在用小模型，都在玩RAG，都在在玩crime engineering，跟这个不太一样。所以我觉得从应用前端这部分角度来说，可能变化不会太多。
+</p>
+<p class="transcript-line">
+<span class="time"><strong>[01:11:50]</strong> </span>
+<span class="speaker"><strong>发言人2: </strong></span>
+这个gym I flash它其实也是一个推理模型，但是它几乎没有什么名气好像。
+</p>
+<p class="transcript-line">
+<span class="time"><strong>[01:11:56]</strong> </span>
+<span class="speaker"><strong>发言人3: </strong></span>
+对，是的，这可能是google在PR方面这次做的，效果实际上是很好。它的gym 2.0 flash的效果也是sosa级的。它它跟原先的那些GP four等等也是同等级别的，但是它的成本非常的低廉。然后同时还有一个G2.0 flash thinking是一个带推理的思考的模型，也是效仿这李飞飞的论文，就是从它里面去蒸馏的。数据能力也很强，只不过在奔驰mark上现在打榜可能还差一点。而google最近也发还发了别的模型，他还发了他的flash light模型，就进一步降成本。
+</p>
+<p class="transcript-line">
+<span class="time"><strong>[01:12:37]</strong> </span>
+<span class="speaker"><strong>发言人3: </strong></span>
+我觉得google在这方面看的很清楚。因为google实际上是全球最大的应用玩家，最大的AI应用就是搜索。他之前看的很清楚，将AI的成本降低绝对是推进已有应用更大规模上AI的一个重要手段。所以他一直在讲这个东西。确实这个google可能也是大公司病缠身，他最近这个PR方面做的确实不太好。
+</p>
+<p class="transcript-line">
+<span class="time"><strong>[01:13:06]</strong> </span>
+<span class="speaker"><strong>发言人1: </strong></span>
+所以我觉得产品也做的很差。就是这个GMI2.0 flash thinking，它是藏在google AS studio里面。而那个google US studio那个那个界面真的不是给普通用户用的。我一开始他发的时候我也用了好几次，确实非常impressive。但是后面就这个入口太深，每次使用还要再重新去想一想我要怎么点。好几次之后我也懒得用了，确实这个有点可惜。好，我们到第14个问题，就是deep sik这一波出来之后，非常快的在好几十个国家的up store都上榜到榜一大哥的位置。而且同时也是历史上，好像是最快从零到3000万到4000万日活的这么一个用一个应用。
+</p>
+<p class="transcript-line">
+<span class="time"><strong>[01:13:52]</strong> </span>
+<span class="speaker"><strong>发言人1: </strong></span>
+但是另一方面我们也看到deep sick它内部卡本来也不太够。那应用的这个大规模流行其实影响了他的，据说影响他们的训练。所以他们其实也迟迟的并没有把这个对应用稳定的维护好像放在第一优先级。貌似他们仍然是想把这个更多的卡拿去做训练，而不是拿去服务C端的用户。李老师你会怎么想？就是chatbot对deep sick重要吗？他们之后你预测会如何去进一步的做他们的chat port，还是会慢慢的觉得也不重要就不做了。
+</p>
+<p class="transcript-line">
+<span class="time"><strong>[01:14:30]</strong> </span>
+<span class="speaker"><strong>发言人3: </strong></span>
+这个问题会不会重不重要？这个问题我回答不了，这可能只有梁文峰自己想自己来决定。但我就说从我的情感角度来说，我不希望他做chatbot。因为一旦做chatbot的话，就会耦合大量的产品化的工作。因为大量实际用户，我们在真正用的时候，不会天天的去问复杂的应用题，不会问问这个你，你多步骤思考一定考不好。
+</p>
+<p class="transcript-line">
+<span class="time"><strong>[01:14:56]</strong> </span>
+<span class="speaker"><strong>发言人3: </strong></span>
+我们的考量点不是这样的。产品化会关注更多日用性的问题，而这些问题的话会做很多额外的工作。也以及如果你放了产品的话，你会关心更多的产品的质量，你的可维护性等等。这些东西都会牵扯大量的精力，就像今天NI遇到的问题一样。所以从情感角度来说，我觉得中国不需要another APP，中国需要一个OpenAI。所以我希望它别做这些东西的，就是简单做一做，让大家体验一下就可以了别把精力放在这儿，还是继续做我们的原创技术，我觉得这个是让大家最兴奋的地方。
+</p>
+<p class="transcript-line">
+<span class="time"><strong>[01:15:34]</strong> </span>
+<span class="speaker"><strong>发言人1: </strong></span>
+其实我们年底，就大概去年12月，有一期内容是和晚点的曼琪来复盘大模型这一年。然后这里面其实有盘点各个国内的模型厂商，其实当时也提到了deep sick。然后在提到deep sick的时候，我记得当时有一个印象非常深刻的故事。就是梁峰在一次对外的表达里面提到deep seek不在乎商业化，而且是不做商业化。因为他认为任何对商业化上的尝试都会影响，都会稀释，都会分散掉他们在科研上的注意力和投入。所以其实刚才李老师你讲的这个愿望和他不做商业化有点一脉相承。就是啊不要做商业化，甚至to c产品都不要做，就好好做科研。在这里可能才是最能搞出ROI最高的回报的地方。
+</p>
+<p class="transcript-line">
+<span class="time"><strong>[01:16:23]</strong> </span>
+<span class="speaker"><strong>发言人3: </strong></span>
+是的，是。
+</p>
+<p class="transcript-line">
+<span class="time"><strong>[01:16:24]</strong> </span>
+<span class="speaker"><strong>发言人1: </strong></span>
+好，我们到第四部分，我们来聊一聊未来。第四部分的问题当中的第一个，也是我们整体的第15个问题，就是在未来算力还重要吗？这个其实是牵动着万千股民的心，因为很多人都买了英伟达，因为如果这个算力不重要，那意味着巨头们的持续在芯片上，在算力上的投资也会下降。李老师你怎么看。
+</p>
+<p class="transcript-line">
+<span class="time"><strong>[01:16:53]</strong> </span>
+<span class="speaker"><strong>发言人3: </strong></span>
+我坚持我一直以来的暴论，我就我我觉得算力不要去再投资算力了。就是投资算力其实还是归根到底还是去坚持retrain的sky联络。但这件事情我明显看出它的上限到哪儿。
+</p>
+<p class="transcript-line">
+<span class="time"><strong>[01:17:10]</strong> </span>
+<span class="speaker"><strong>发言人3: </strong></span>
+然后到了open，其实降成本的方式有很多，只是很多说大家没用。然后DC既然出来了，大家都会关注去降成本，以及说推理这块。推理的实际应用也是大家在用更多的小模型。所以我觉得阶段性的而言，对于算力的需求一定会下降。特别是如果我们吃前面的那个预测，就是当模型能力不再上升to b都开始选择走开源模型的情况下，大厂不再做军备竞赛的情况下。那么也就没有什么再消耗的训练算力了。
+</p>
+<p class="transcript-line">
+<span class="time"><strong>[01:17:49]</strong> </span>
+<span class="speaker"><strong>发言人3: </strong></span>
+而推理可能阶段性的还会下降。因为大家都会用小模型，直到说我们的AI应用迈过了产品化的门槛之后再去上升。所以中间阶段性来说，我觉得现在没有必要再去卷算力了。应该大家把精力还是放回来去卷算法，去卷那些超越transformer的知识。我们让模型学了1万亿的token，几万亿的token，他还没学明白为什么3加5等于8，这是不对的。
+</p>
+<p class="transcript-line">
+<span class="time"><strong>[01:18:21]</strong> </span>
+<span class="speaker"><strong>发言人1: </strong></span>
+有趣。如果你要是这个暴论是认为算力不重要了，不要再搞芯片了，不要再投资买芯片了。第16个问题就是你认为在未来数据还重要吗？拥有独家数据的公司，这还能不能构成他们的壁垒？
+</p>
+<p class="transcript-line">
+<span class="time"><strong>[01:18:37]</strong> </span>
+<span class="speaker"><strong>发言人3: </strong></span>
+我觉得数据比算力更现实，这个还是很重要的，尤其是垂直方向，还是很重要。其实我们之前的各种各样的应用，无论是搜索还是推荐，还是短视频等等，都证明拥有数据的分布对于提升质量的价值有多么重大。因为归根到底，今天的无论无论是AI还是大数据等等，这些都是统计模型。所以数据越多，统计的效果也就越准。所以这个还是很重要的。但是不要迈过一个太高的门槛，就不是说当我已经积累了几万亿token，然后训练模型，然后还继续堆数据，其实那个就我觉得就没有必要了。但是基础性的这种数据还是一个非常重要的壁垒。而垂直应用方面的数据，或者说垂直数据，就是垂直知识和行业认知，这个永远是壁垒。
+</p>
+<p class="transcript-line">
+<span class="time"><strong>[01:19:37]</strong> </span>
+<span class="speaker"><strong>发言人1: </strong></span>
+我们来到第17个问题，我们来大胆的预测一下deep sick的下一步，或者说正我们正在录播课的此时此刻，梁文峰和deep sik的团队他们在想着下一步要做什么，他们的to do list里面包括些什么？李老师你有一些大胆的预测吗？
+</p>
+<p class="transcript-line">
+<span class="time"><strong>[01:19:54]</strong> </span>
+<span class="speaker"><strong>发言人3: </strong></span>
+我觉得如果是我的话，我会沿着V3现在和r one未竟的事业继续去做。我觉得一个事情是我们要继续探索一下r one zero这条路它的上限在哪里。我觉得这个值得说，我们已经走了8000步了，那再往后走会怎么样？我觉得大概率走到1万步2万步，可能效果都是都都会提升。但是走到什多少步骤的时候，这个边际效应会递减，这个值得去探索。以及另外一个很重要的问题，就是能不能通过纯强化学习问题，真的就直接解决了模型不说人话和语言混合的问题。毕竟它蒸馏一轮，这不是一个特别优雅的方式。做技术我们还是要追求一些优雅性，我觉得这些都值得去做。
+</p>
+<p class="transcript-line">
+<span class="time"><strong>[01:20:44]</strong> </span>
+<span class="speaker"><strong>发言人3: </strong></span>
+以及说它的V3里其实开了很多很多新的探索。比如他那个MTP multi token，还有他的这个新的路由算法，这些路由算法在V三里收益都不明显。他他做了明确的实验，这个论文数据里都有。但是这些东西也是都是很promising的，我们完全可以有资源的话到V4V5去继续做实验，这个我觉得他们会去做。然后我觉得还有一点，其实他在论文中也写了，后面去探索超越transformer的其他的新的模型，其实这一点是我最希望他去做的。这样就前两天那还在他还在去讲，就是未来如果你真的想实现AJI那一定不是自回归模型，一定要去尝试通过概念，通过这个世界知识等等方式去做。我还是希望能看到我们的这些研究部门去尝试真的从大的idea方面去超越AI去超越deep mind，去去想一想完全迈向AJI应该怎么走。
+</p>
+<p class="transcript-line">
+<span class="time"><strong>[01:21:48]</strong> </span>
+<span class="speaker"><strong>发言人1: </strong></span>
+我觉得李老师还是对deep sick寄予厚望，我觉得和大家都一样，感觉如果我们真的要期待更多奇迹的话，感觉deep seek确实是很有可能能够不断的带给我们这种信念感和力量感。好，这个时候就第18个问题了。除了deep sick，我们还是有非常多其他牛逼的公司和主要的玩家的。也想请李老师来帮我们大胆的预测一下，接下来字节、腾讯、阿里他们分别会做什么。
+</p>
+<p class="transcript-line">
+<span class="time"><strong>[01:22:18]</strong> </span>
+<span class="speaker"><strong>发言人3: </strong></span>
+我觉得作为商业公司来说的话，如果没有切身的生命威胁，就不如果短期观察不到某项技术会快速发展，直接颠覆自己的话。那么他们的策尤其是同时又观察到这项技术成本可以大幅降低。有开源的时候，他们的策略一定会做一些review，做一些调整。可能没必要在原先那条路上继续巨额投入去去去烧了不不如说我们也在这个开源的基础上去改，去做一些更多的改进，以及说我们也去做research。其实我觉得就是用开源做改进，再加上一部分针对于自己的第一方研发，然后再加上一个面向未来的探索，其实这个才是大厂工作的常态。过去十年来这个大大厂工作常态是这样的，而不是说我就一定在某一项还没有定论的基础上疯狂投入，觉得这个不正常，可能他们一段时间之后都会有所调整，我觉得OK.
+</p>
+<p class="transcript-line">
+<span class="time"><strong>[01:23:33]</strong> </span>
+<span class="speaker"><strong>发言人1: </strong></span>
+我们第19个问题，我们再来聊一聊美国。美国不管是meta google、微软、亚马逊还是open a和Anthony他们下一步要做什么？李老师你会有一些信息或者有一些预测吗？
+</p>
+<p class="transcript-line">
+<span class="time"><strong>[01:23:48]</strong> </span>
+<span class="speaker"><strong>发言人3: </strong></span>
+美国这边我觉得美国人肯定是被吓着了，这一点是肯定的。但是不同的人他吓着的地方不一样。如果说研究者们，其实咱们客观说就是一流的researcher，其实大家都知道前进的方向大概是什么样子的。所以在这个方面的话，我觉得美国目前来说仍然会是这个原创者。所以很有可能下一个小突破，或者或者是或者是大突破，还是有更高的概率会出现在美国，大家会做另外方面的事情。这个就就就客观看待，还是需要时间追赶的。
+</p>
+<p class="transcript-line">
+<span class="time"><strong>[01:24:28]</strong> </span>
+<span class="speaker"><strong>发言人3: </strong></span>
+然后另外美国的那些大公司其实也一样，就是我了解像meta也在review自己对lama的巨额投入是否是一个正确的方式。想来他们应该也会跟中国这些商业公司是一样的会去做。然后我觉得美国很有可能我这我这我我大胆猜测美国很可能也会有一个跟deep seek对标的一个开源产品，满足美国人自己的自我安全感。
+</p>
+<p class="transcript-line">
+<span class="time"><strong>[01:24:58]</strong> </span>
+<span class="speaker"><strong>发言人3: </strong></span>
+但与此同时，对于其他的就更多在业界之外的人来说，这简直太可怕了。本来他们觉得世界独一无二的技术，结果不光技术上被中国破解了，成本上也被中国大幅压低了。他们应该恐怕会做出很多这个行为，但又又如何呢又如何，对不对？今天我们必须得承认，今天中美就是全球唯二掌握最先进科技的国家。只有这两边，我们实验科技，我们有互联网，有云计算，有人工智能，有新能源，有自动化机器人，这些中国已经有了你拦是拦不住的。所以与其花那个时间去搞阴谋论，不如自己多努力。
+</p>
+<p class="transcript-line">
+<span class="time"><strong>[01:25:49]</strong> </span>
+<span class="speaker"><strong>发言人2: </strong></span>
+我看到几个分析在说目前看到可能受影响比较大的，可能是偏向负面影响的。主要是anthropic跟google.
+</p>
+<p class="transcript-line">
+<span class="time"><strong>[01:25:59]</strong> </span>
+<span class="speaker"><strong>发言人3: </strong></span>
+比和OVI可能压力比较，但最大的可能还是拉玛。这毕竟以前是开源第一，现在可能这个地位不保。
+</p>
+<p class="transcript-line">
+<span class="time"><strong>[01:26:08]</strong> </span>
+<span class="speaker"><strong>发言人2: </strong></span>
+我看就是很多人都在讨论这个模型商品化。然后模型商品化跟推理成本的降低给各个厂商接下来带来的比较大的影响。
+</p>
+<p class="transcript-line">
+<span class="time"><strong>[01:26:18]</strong> </span>
+<span class="speaker"><strong>发言人3: </strong></span>
+我觉得模型商品化这个东西是对的。但于是再说这个一定是deep seek导致的，我觉得也未必。这只能说是大众终于感受到这一点了。其实即使没有deep seek，模型的低成本化，商品化一直在进行，过去一年一直在进行。我们会看到模型大家日用的模型，从一开始千亿模型迅速降到百亿模型，降到甚至几亿几十亿。这个下降的趋势还在继续继续。我们要推进应用一定是要降低成本，这个是不可改变的。
+</p>
+<p class="transcript-line">
+<span class="time"><strong>[01:26:56]</strong> </span>
+<span class="speaker"><strong>发言人2: </strong></span>
+OK第20个问题就是看对deep sick的一些分析的时候，有想到想想到之前Peter theil他曾经讲过的。就是说他觉得一个真正的创新是要在许多不同层面的创新必须同时发生，并且是以高度的协同的方式组合在一起。如果李老师总结一下，就是deep sick他在这个应该说其实是这个R一在低成本推理的这个方面的巨大的成功。如果按照Peter sale的这个说法的话，你总结下来是在哪些方面？
+</p>
+<p class="transcript-line">
+<span class="time"><strong>[01:27:28]</strong> </span>
+<span class="speaker"><strong>发言人3: </strong></span>
+OPI, sorry，狄浦斯克他的创新其实蛮多的。但是咱们坦白说，其实就是很多创新也并非DBC的原创。我们在跟论文它的引用里，其实都会看到很多的想法是在一些研究者中他们率先提出的。D deep seek是首先将它在开源的里面去大规模的去应用了起来。就是我就很难说一家公司就把所有的原创都都囊括了。但我觉得最重要的一点，还是说能够坚持搞科学的一个基本原则。就是无论是科学还是创新都是没有固定方向的，它是不可预知的，它会有很多很多不同的方向。在这些方向中你要去认真的去试验、去尝试、去做，我觉得去做这件事儿才是最重要的。
+</p>
+<p class="transcript-line">
+<span class="time"><strong>[01:28:33]</strong> </span>
+<span class="speaker"><strong>发言人1: </strong></span>
+我们先谢谢李老师，这也是十字路口第一次尝试用这个20问的方式来去聊一个话题。我们希望这种方式可以让我们比较全面的从各个层面去了解一个热门的议题，了解一个热门的技术或者一个热门的产品。再次感谢李老师的时间，也欢迎你以后再来十字路口。然后deep seek也是一个我相信会热度持续很久很久的产品。
+</p>
+<p class="transcript-line">
+<span class="time"><strong>[01:28:59]</strong> </span>
+<span class="speaker"><strong>发言人1: </strong></span>
+如果听到这个的朋友有什么想要分享的，或者有什么想要提问的，欢迎大家在评论区给我们留言，我们看到都会回复。好，谢谢大家，也再谢谢李老师。如果你认为有朋友也会喜欢本期十字路口的内容，请转发微信推荐给他们。最后欢迎你加入十字路口的会员群，我们鼓励大家在群里聊天互动，交朋友，寻找未来的同路人。
+</p>]]></content:encoded>
+            <pubDate>Sun, 16 Feb 2025 16:00:00 GMT</pubDate>
+            <guid>67b14fc6606e5c5940b6b7aa</guid>
+        </item>
         <item>
             <title>40亿美金卖掉公司后，一个创业者的过去、现在和未来规划｜对谈沐瞳科技联合创始人袁菁</title>
             <link>https://www.xiaoyuzhoufm.com/episode/67a380fa247d51713cceb135</link>
@@ -2234,7 +3319,7 @@ Part 3. 良渚生活：环境看起来更幽闭，但心更敞开
 🎄 本播客由「新世相声音森林播客计划」支持
 🌳 本周推荐试用产品：
 * 🥷 Ninjafy AI Interview Copilot and Assistant
-* 📚 MyBookDigest - 15-Minute Book Summaries</description>
+* 📚 DeepSummary - The #1 Book Summary Platform</description>
             <content:encoded><![CDATA[<h1>转写链接</h1>
 <link>https://tongyi.aliyun.com/efficiency/doc/transcripts/dexp9j6mj57kq5ol</link><br>
 <h1>节目摘要</h1>
@@ -29468,1065 +30553,6 @@ OK是的，这样子奥特曼也在说电影的未来是游戏游戏的未来不
 </p>]]></content:encoded>
             <pubDate>Sun, 23 Jun 2024 16:00:00 GMT</pubDate>
             <guid>66778d74d3fc5dd62759ba5f</guid>
-        </item>
-        <item>
-            <title>从焦虑到自由：AI时代每个人如何拥有自己的小生意? | 对谈硬地骇客、Podwise联创Saito</title>
-            <link>https://www.xiaoyuzhoufm.com/episode/666e4326c26e396a360f1314</link>
-            <description>「十字路口」想要寻找、访谈和凝聚 AI 时代的积极行动者。本期节目的嘉宾是 Saito 就是这样一位积极行动者，他做播客、创业、写书、同时构建了中国最活跃的独立开发者社区之一，聚集起一大群和他一样的积极行动者。
-Saito 是播客「硬地骇客」和基于 AI 的播客产品 Podwise 的联合创始人之一。「硬地骇客」是一个关于 Indie Hacker（独立开发者）故事的播客节目，里面有很多精彩的独立开发者故事；Podwise 则是一个基于 AI 的播客产品，根据公开的资料，Podwise 在两个月就做到 1.2 万美元 ARR（年度经常性收入，Annual Recurring Revenue）；前不久，Saito 和他的团队也把创业心得写成了一本书：《硬地骇客 - 两个月 $12000 ARR 实践之路》。
-在这期播客里，我们和 Saito 聊了聊硬地骇客团队做播客、做基于 AI 的播客产品和写书的故事，其中让我们印象最深刻的就是 Saito 和他的团队针对独立开发者如何做营销的总结，非常具有参考价值。
-我们还和 Saito 聊了聊他对独立开发者群体的观察，请他分享了一些独立开发者的成功案例，希望能用这些故事鼓励更多的人，得到一些理性的分析和积极的能量。如果你打算在 AI 时代创造属于自己的小生意，可以通过本期播客获得启发。
-——
-🎬 时间轴：
-02:06 Part 1 硬地骇客介绍
-* 02:42 三个创始人遇见、首次创业经历
-* 04:32 决定做硬地骇客的原因
-* 06:25 发生了什么变化，再次创业内心平和
-* 07:00 在哪里观察独立开发者的日常状态
-* 09:07 关于独立开发者的故事访谈「硬地访谈」栏目怎么来的
-10:23 Part 2 把创业经验写成书
-* 11:55 一本凝聚了真实经历的小书：播客应用 Podwise 如何在两个月做到 1.2 万美元 ARR
-* 13:40 播客应用 Podwise 是什么？
-* 15:55 深入聊书的内容，哪些书里的经历是自己从零开始学的
-* 16:25 独立开发者做营销、增长的心得总结
-* 17:00 去杠杆高的地方做营销
-* 17:31 去一个有论坛的地方：互动，回复有营养的内容，抓住长尾流量
-* 25:08 内容营销三点：喜闻乐见、感同身受、对我有用
-* 26:23 关于大模型必须知道的 5 件事
-* 28:45 找 Podwise 灵感的过程
-* 29:51 考虑做产品的过程中，放弃过哪些想法
-* 32:18 为什么做了 Podwise
-* 37:40 Podwise 找 PMF 的几点关键步骤
-* 40:05 Indie Hacker 是不是不需要产品经理了
-* 41:42 做 AI 产品的这个产品，它首先得是一个产品
-42:32 Part 3 对独立开发者人群的观察
-* 43:37 中国最赚钱的独立开发者，一年能有多少收入
-* 44:27 焦虑与自由，独立开发者的状态
-* 45:44 独立开发者的成功故事：沉浸式翻译创始人欧文
-* 46:31 独立开发者的成功故事：极简时钟创始人道哥
-* 47:54 独立开发者身上的共同特点
-* 50:00 独立开发者面对的最大挑战是什么，怎么克服
-* 53:42 做得很好但还没有被看到的产品
-* 55:34 宣传做得不够好的产品，有什么共同特点
-* 57:07 自己成为 KOL 的好处
-* 58:56 在观望是不是成为独立开发者的 KOL，先赶紧输出内容，然后 build in public
-* 1:02:07 build in public 的经典案例
-* 1:05:50 @levelsio，独立开发者精神和商业的践行者
-——
-🚦 欢迎订阅「十字路口」，我们关注新一代 AI 技术浪潮带来的行业新变化和创业新机会。十字路口是乔布斯对苹果公司的一个比喻，形容它站在科技与人文的十字路口，伟大的产品往往诞生在这里。AI 正在给各行各业带来改变，我们寻找、访谈和凝聚 AI 时代的「积极行动者」，和他们一起，探索和拥抱，新变化，新的可能性。
-👦🏻 主播 Koji：新世相/躺岛的联合创始人，也是一个正在积极行动投身 AI 的人，即刻，一份 Koji 的自我介绍
-👧🏻 主播 Ronghui：供职于科技 VC，前《第一财经周刊》驻硅谷记者，即刻
-——
-欢迎加入十字路口的会员群：
-☀️ 每天放送《AI 新鲜事小报》
-👫🏻 鼓励大家谈恋爱/交朋友/寻找未来的同路人
-🦀 添加小助理微信入群：Rwkfbcianvd
-——
-💡 灵感海报
-——
-🎄 本播客由「新世相声音森林播客计划」支持。</description>
-            <content:encoded><![CDATA[<h1>转写链接</h1>
-<link>https://tongyi.aliyun.com/efficiency/doc/transcripts/klrbn2ywmv5p95zy</link><br>
-<h1>节目摘要</h1>
-<div class="summary">本期《十字路口》节目探讨了人工智能（AI）对创业领域的影响，强调了站在科技与人文交汇点的重要性。节目中，通过案例分析和嘉宾分享，展示了AI如何激发行业变革和创业者机遇。特别聚焦于一个科技创业团队，他们如何通过媒体品牌和播客，聚焦开发者社群，探索AI时代下的创新可能性。讨论了AI产品开发的关键点，如选择合适的应用领域、确保可靠性和安全性，以及有效的市场宣传策略。同时，强调了独立开发者需具备市场洞察力和营销技巧的重要性，并分享了面对市场竞争和自我成长的挑战与解决方案。最后，节目强调了保持专注、持续学习和创新，以及关注市场需求和用户反馈的重要性，旨在帮助听众在快速变化的AI领域中找到自己的位置。</div><br>
-<h1>章节速览</h1>
-<div class="chapters">
-<div class="chapter-item">
-<span class="time"><strong>[00:00:00]</strong> </span>
-<span class="chapter-title"><strong>探索AI时代下的印度骇客与创业新机遇</strong></span>
-<div class="chapter-summary">本期节目聚焦于印度骇客群体及AI技术如何影响创业和行业变化。主讲人介绍了印第骇客，一个致力于关注开发者群体的媒体品牌，及其播客的影响力。他们不仅通过媒体推广黑客文化，还开发了pod wise产品，同时深入探讨了独立开发者在当前环境下的观察和分析。节目通过与印第骇客创始人之一的对话，揭示了AI时代下积极行动者的新面貌和机遇。</div>
-</div>
-<div class="chapter-item">
-<span class="time"><strong>[00:02:09]</strong> </span>
-<span class="chapter-title"><strong>印第骇客团队的创业旅程与理念</strong></span>
-<div class="chapter-summary">印第骇客团队，由三位超过15年交情的伙伴组成，他们曾共同在淘宝工作并一起创业，成功将企业推向独角兽级别。然而，融资带来的压力和不满促使他们相继退出。受书籍《小而美》启发，决定转型专注于to C市场，避免过度融资，追求更自由的发展道路。他们注意到疫情后互联网行业的人员变化，决定创建一个服务于独立开发者的媒体。随着ChatGPT 3.5的发布，他们看到了提升生产力的可能，进而发布了播客节目《印第安克》，探讨焦虑与自由的主题。</div>
-</div>
-<div class="chapter-item">
-<span class="time"><strong>[00:05:42]</strong> </span>
-<span class="chapter-title"><strong>平衡焦虑与自由：独立开发者的追求</strong></span>
-<div class="chapter-summary">在当前社会节点中，许多人因失业等原因感到焦虑。一群曾经追求独角兽企业规模的创业者，现在选择了一条不同的道路。他们不追求大规模扩张，而是希望通过创建一个媒体平台，帮助人们更好地进行独立开发，同时为自己赚取一份舒适的生活收入。这种变化源于对生活品质和个人、家庭付出与收获平衡的深刻理解。他们通过Twitter和一些国内外论坛，如V2EX和way to solo，来接触和了解独立开发者的生活和工作状态。这一群体大多技术背景，性格腼腆，但他们中的许多人愿意分享自己的故事。</div>
-</div>
-<div class="chapter-item">
-<span class="time"><strong>[00:08:06]</strong> </span>
-<span class="chapter-title"><strong>探索独立开发者社群与《印度骇客》节目的演变</strong></span>
-<div class="chapter-summary">在推特等社交平台上，独立开发者群体的故事激发了制作团队对这一主题的深入探讨。起初，节目未专门关注国内独立开发者，但随着内容的丰富，开始规划包括异地访谈、印地产品、印地创业和印地职场四个板块。经过一段时间的制作，团队逐渐意识到国内独立开发者群体的庞大和活力，因此开始有意识地采访更多国内的独立开发者，这使得关于独立开发者的系列成为了节目的主流和观众喜爱的内容。</div>
-</div>
-<div class="chapter-item">
-<span class="time"><strong>[00:10:23]</strong> </span>
-<span class="chapter-title"><strong>开源书籍《Power Wise从零开始》的创作和发布经历</strong></span>
-<div class="chapter-summary">创作团队受到国外成功案例的启发，决定写一本关于播客工具Power Wise从零开始，两个月内实现12000美金收入全过程的书。这本书分为灵感、构建、发布、营销、发布增长及复盘六个部分，全部基于团队的真实经验和干货分享。为扩大影响和收益，他们选择将书籍开源，放在GitHub上，并通过链接引导读者加入知识星球，形成免费分享与付费转化的模式。</div>
-</div>
-<div class="chapter-item">
-<span class="time"><strong>[00:13:37]</strong> </span>
-<span class="chapter-title"><strong>Pod Wise：改变你听播客的方式</strong></span>
-<div class="chapter-summary">播客市场在美国最为成熟，但个人每周仅能投入6到7小时收听，对于希望获取丰富知识的投资者和知识追求者而言，时间显得尤为宝贵。Pod Wise 提供了一种解决方案，通过展现播客内容的知识结构图，帮助用户快速定位到最关心的部分，有效节省时间并提升听播客的效率。这种创新方式使得用户能够在有限的时间内，吸收更多播客内容，特别是在关注如AI等领域的最新信息和见解时。</div>
-</div>
-<div class="chapter-item">
-<span class="time"><strong>[00:15:54]</strong> </span>
-<span class="chapter-title"><strong>独立开发者从零开始的营销学习</strong></span>
-<div class="chapter-summary">在将一个产品从构想带到市场的过程中，独立开发者需要掌握五个关键步骤。尤其在营销部分，许多开发者发现自己几乎是从零开始学习，因为To B和To C的增长模式大相径庭，且面向全球市场的营销又增加了复杂度。对话中总结了三点提高营销效率的策略：首先，选择影响力高的人群进行营销，因为他们能带来二次传播；其次，利用类似论坛的平台进行发声，因为这类平台的帖子更容易被看到；最后，强调了找到正确的营销渠道的重要性，比如专门的小组或社区，这些地方的用户密度高，更易产生互动和传播。</div>
-</div>
-<div class="chapter-item">
-<span class="time"><strong>[00:18:00]</strong> </span>
-<span class="chapter-title"><strong>利用论坛平权特性提升内容可见性和粉丝积累</strong></span>
-<div class="chapter-summary">对话中讨论了在平权的论坛环境中，如何通过策略性互动和内容优化来提升个人或产品的可见性及粉丝积累。首先，提倡在能平权发声的平台上（如小红书）进行第一波宣传，以突出自己并积累粉丝。其次，分享了与他人互动、回复有营养的内容和抓取长尾流量三个关键策略：一是通过人为制造话题（formal）来增加影响，如提供免费服务或限量优惠以吸引关注；二是回复有价值的内容，尤其是针对热点话题的深入分析，以官方账号的身份引起注意；三是利用长尾关键词在小红书、Reddit等平台捕获目标流量，针对小众但有特定需求的群体进行优化。这些方法对于小型产品或初创企业来说尤为重要，能有效提升其在线上的曝光度和用户参与度。</div>
-</div>
-<div class="chapter-item">
-<span class="time"><strong>[00:23:32]</strong> </span>
-<span class="chapter-title"><strong>内容营销与AI应用的策略与挑战</strong></span>
-<div class="chapter-summary">对话内容围绕内容营销的有效策略和AI应用的挑战进行了深入讨论。首先，提出了通过内容营销吸引用户参与的重要性，强调了提供有价值内容的必要性，比如通过正面情绪入手，避免可能伤害品牌或用户的负面情绪营销。其次，讨论了营销内容中对用户吸引力的三个层次：喜闻乐见、感同身受、对我有用，强调了针对不同目标群体采取不同策略的重要性。接着，深入探讨了AI应用的五个关键点：AI与传统互联网应用的不同、一次回答成功率、输出稳定性、成本考虑和创新总结方法，特别强调了并行AI总结的潜力。整体上，对话强调了内容营销的策略性和AI应用的挑战性，以及在实际操作中需要考虑的多种因素。</div>
-</div>
-<div class="chapter-item">
-<span class="time"><strong>[00:28:46]</strong> </span>
-<span class="chapter-title"><strong>播客产品的灵感来源与用户定位</strong></span>
-<div class="chapter-summary">在开发播客产品的过程中，团队原本考虑了多种变现方式和产品方向，但最终决定专注于制作一个产品。他们探索了AI剪辑工具的可行性，但由于市场已有强大竞争对手且产品开发周期长，团队放弃了这个方向。经过一系列的思考和讨论，团队决定开发一个针对女性用户的播客笔记应用，灵感来源于对播客内容消费的需求和笔记的便利性。他们基于对市场需求的分析和对特定用户群体的了解，认为提供给女性用户一个可以方便记录播客内容的产品具有较高的市场潜力。</div>
-</div>
-<div class="chapter-item">
-<span class="time"><strong>[00:35:02]</strong> </span>
-<span class="chapter-title"><strong>播客创业之路：从灵感到产品实现</strong></span>
-<div class="chapter-summary">播客团队在积累了三千粉丝之后，意识到仅靠爱发电无法长久维持，因此开始探索播客的盈利模式。他们考虑了多种盈利方式，包括办留学、线下开课和接广告等，但由于粉丝基数较小，这些方式都不太可行。最终决定开发自己的产品，并通过内部脑暴会确定了产品方向。在开发过程中，他们意识到需要一个实证来证明自己的产品，进而决定利用自己的播客推广这个产品，形成了一个闭环的宣传策略。通过不断的自我宣传，他们成功吸引了第一批用户。</div>
-</div>
-<div class="chapter-item">
-<span class="time"><strong>[00:37:26]</strong> </span>
-<span class="chapter-title"><strong>产品经理在AI时代的核心价值与挑战</strong></span>
-<div class="chapter-summary">在讨论中，重点强调了产品经理在AI时代的重要性，特别是对于独立开发者和小团队而言，产品经理角色不仅需要理解产品面向的用户和市场需求，而且还需要具备营销等综合能力。此外，也提到了开发产品的策略，即首先需要解决实际问题，然后才考虑如何利用AI技术来提升解决方案的效能。讨论还涉及了在极客和小红书等平台上进行产品宣传的重要性，以及如何通过观察竞争对手和市场需求来优化产品特性，比如通过PC端开始的产品开发，利用大屏幕优势，并提供脑图功能以增强用户体验。最后，提出了对于AI产品开发的观点，强调产品应首先解决实际问题，之后再考虑如何整合AI技术以提高效率和效果。</div>
-</div>
-<div class="chapter-item">
-<span class="time"><strong>[00:42:30]</strong> </span>
-<span class="chapter-title"><strong>独立开发者现状及心态分析</strong></span>
-<div class="chapter-summary">讨论集中在独立开发者的观察与分析上，指出尽管有许多人对独立开发充满兴趣，但实际着手行动的人并不多。大多数独立开发者处于不温饱的状态，只有极少数能够获得较好的收入。此外，也提到了一些成功案例，如通过坚持和创新获得成功的开发者，以及一些通过独特产品获得收入的团队。讨论还涵盖了独立开发者面临的挑战，包括收入不稳定带来的焦虑，以及不断寻找新的项目以维持生计的必要性。独立开发者群体性格多样，包括积极行动者和有设计背景的开发者，后者因为能够创造美观且用户体验良好的产品而具有明显优势。</div>
-</div>
-<div class="chapter-item">
-<span class="time"><strong>[00:49:58]</strong> </span>
-<span class="chapter-title"><strong>独立开发者面临的挑战与建议</strong></span>
-<div class="chapter-summary">独立开发者在成长过程中面临的主要挑战包括确定产品方向和宣传问题。很多人找不到正确的项目方向，做出来的产品不符合市场需求，或是尽管产品有潜力，却因宣传不力而未能获得关注。建议独立开发者需具备更多技能，如产品管理和市场营销，来应对这些挑战。同时，通过分享宣传技巧和参加相关节目，可以提高产品的可见度。</div>
-</div>
-<div class="chapter-item">
-<span class="time"><strong>[00:55:33]</strong> </span>
-<span class="chapter-title"><strong>独立开发者如何通过成为KOL提升产品宣发效果</strong></span>
-<div class="chapter-summary">在当前时代，独立开发者必须掌握自我宣传的能力，转变为KOL（关键意见领袖）来提升产品的市场影响力。通过在极客小组、豆瓣小组等平台分享有价值的内容，开发者可以吸引更多粉丝，利用自身的流量快速宣发产品。同时，通过公开开发过程（build in public）和分享产品收益情况，能够激发社区成员的兴趣和支持，进而促进产品的成长和优化。这种策略不仅能够快速验证产品的市场需求，还能够有效节约试错成本，加速产品迭代和用户增长。</div>
-</div>
-<div class="chapter-item">
-<span class="time"><strong>[01:02:03]</strong> </span>
-<span class="chapter-title"><strong>从社区互动到成功创业的经典案例</strong></span>
-<div class="chapter-summary">一个经典的社区互动到成功创业的例子是关于一个人通过不断回复论坛问题、制作视频解答，最终创立一个受欢迎的网站，并实现财务成功的故事。这个人最初在Rails论坛上积极回答问题，发现文字回复不够高效后开始制作视频解答，持续四年。后来，他基于社区的反馈和自己的观察，创立了RealCosts网站，通过不断更新内容和最终引入付费内容，实现了超过100万美金的年收入。这个例子强调了与用户建立信任、紧密合作的重要性，以及将用户反馈转化为产品改进和服务提升的价值。此外，还提到了另外两个通过与社区互动并满足社区需求而获得成功的项目，进一步证明了建立在社区信任和互动基础上的商业模式的潜力。</div>
-</div>
-<div class="chapter-item">
-<span class="time"><strong>[01:07:25]</strong> </span>
-<span class="chapter-title"><strong>独立开发者如何利用海外资源与社群互助提升自我</strong></span>
-<div class="chapter-summary">对话中提出了独立开发者可以通过观察海外同行在Twitter上的活动，寻找灵感并进行内容创作的建议。此外，还强调了地理套利的概念，即利用中国低成本的优势，赚取高成本地区的收入。对话也介绍了十字路口社群的两个主要活动：发布AI新鲜事日报和鼓励社群成员相互交友、合作。最后，邀请更多人加入社群，以便邀请更大牌的嘉宾，创造更多有价值的内容。</div>
-</div>
-</div><br>
-<h1>问题回顾</h1>
-<div class="qa-item">
-<div class="question"><strong>Q:</strong> 在做印度骇客之前，你们的背景是怎样的？是怎么认识的？</div>
-<div class="answer"><strong>A:</strong> 我们三个人背景非常相似，已经认识超过15年了。我（settle）与一笑是大学同学，归归曾在淘宝工作过一段时间后加入我们。当时我们看到一个to b企业服务市场的机会，于是在17年左右与另一些人合伙创办了一家公司并融资至独角兽级别。但在拿到融资后，团队内部压力大、状况不佳，我先退出来，之后他们也退出。在寻找新的创业方向时，我们读到了一本书《小而美》，并产生了创办面向全球的to c公司的想法，而印度骇客就是由此诞生。</div>
-</div>
-<div class="qa-item">
-<div class="question"><strong>Q:</strong> 为什么决定去做印度骇客这样的项目？</div>
-<div class="answer"><strong>A:</strong> 在2012年疫情后的一段时间里，互联网行业经历了一轮裁员潮，但独立开发者的群体并未因此减少，反而越来越大。我们意识到这是一个可以做深度挖掘的领域，并希望利用自身经验和资源，帮助独立开发者更好地提升生产力，实现价值最大化。因此，我们在2023年3月发出了第一期印度骇客播客，主题为“焦虑与自由”。</div>
-</div>
-<div class="qa-item">
-<div class="question"><strong>Q:</strong> 你们如何了解和接触到这些独立开发者的群体？</div>
-<div class="answer"><strong>A:</strong> 我们主要通过Twitter和国内的一些论坛如v2EX、way to solo等渠道来了解和接触到独立开发者。在这些平台上，很多开发者会分享自己的建站、开发过程，我们会主动联系他们进行采访和交流。</div>
-</div>
-<div class="qa-item">
-<div class="question"><strong>Q:</strong> 你们最初做印度骇客时是否关注过国内独立开发者群体？</div>
-<div class="answer"><strong>A:</strong> 最初我们并没有瞄准国内独立开发者群体，而是基于国外的经验帮助没有做过生意的人把生意做起来。随着节目的推进和市场发展，我们逐渐意识到国内独立开发者群体也很庞大，于是开始更多地关注和采访国内独立开发者，并将这一系列采访内容作为节目的主要板块之一。</div>
-</div>
-<div class="qa-item">
-<div class="question"><strong>Q:</strong> 你们最近推出了一本关于印度骇客的小书，这本书的目的是什么？</div>
-<div class="answer"><strong>A:</strong> 我们写这本书是受到国外一位标杆人物BroughtLevels的启发，他通过写书《Make》赚取了可观收入。我们也想将自己的经验写成一本类似的作品，希望在国内市场能以较低的价格（例如9.9元人民币）销售，尽管初衷是为了赚钱，但同时也希望这本书能够成为独立开发者实用的经验分享。</div>
-</div>
-<div class="qa-item">
-<div class="question"><strong>Q:</strong> 可以介绍一下这本书的内容吗？</div>
-<div class="answer"><strong>A:</strong> 我们出版的这本书名为《从零开始：印度骇客全流程指南》，书中包含五个部分的内容，分别是灵感获取、构建产品、发布、营销以及增长复盘，这些都是我们真实经历和干货的忠实记录，旨在为读者提供有价值的经验分享。</div>
-</div>
-<div class="qa-item">
-<div class="question"><strong>Q:</strong> 开源这本书有什么初衷？</div>
-<div class="answer"><strong>A:</strong> 我们决定把这本书开源并放在github上，挂了一个星球链接，目的是让大家免费获取书籍内容并进行讨论。同时，通过这种方式转化流量，让更多人了解和使用我们的博客以及Pod VST工具。</div>
-</div>
-<div class="qa-item">
-<div class="question"><strong>Q:</strong> 如果用简单几句话来介绍Pod VST，你会怎么介绍？</div>
-<div class="answer"><strong>A:</strong> Pod VST是一个帮助用户高效获取博客内容的工具，尤其适合那些时间有限但又渴望获取大量知识和信息的人群，比如投资人或AI领域的学习者。它能够帮助用户快速定位并理解播客中的关键内容，如结构图、比较分析等，从而节省大量听播客的时间。</div>
-</div>
-<div class="qa-item">
-<div class="question"><strong>Q:</strong> 这本书《Pod VST营销实战》主要分为哪几个部分？</div>
-<div class="answer"><strong>A:</strong> 这本书共分为五个部分，对应独立开发产品从想法到上线完成的五个步骤。其中，关于增长的部分是我们从零开始学习并总结出来的经验。</div>
-</div>
-<div class="qa-item">
-<div class="question"><strong>Q:</strong> 在独立开发者的营销过程中，有哪些心得可以分享？</div>
-<div class="answer"><strong>A:</strong> 营销是独立开发者面临的一大挑战。我们从零开始学习营销，并总结出三点心得：首先，要在杠杆高的地方做营销，比如影响力人群密集的社区；其次，利用论坛性质的平台，如小组、豆瓣小组、小红书等进行平权发声；最后，要注重长尾关键词的优化，在各种社区搜索中抓住长尾流量，提供稀缺且有价值的内容吸引用户参与和关注。</div>
-</div>
-<div class="qa-item">
-<div class="question"><strong>Q:</strong> 营销时如何制造formal（形式感）来增加互动？</div>
-<div class="answer"><strong>A:</strong> 制造formal可以通过人为设计一些有吸引力的互动方式，例如，提供免费服务或资源，但设定一定的名额限制，引发竞争心理和好奇心理，从而提高互动率和影响力。</div>
-</div>
-<div class="qa-item">
-<div class="question"><strong>Q:</strong> 你们在内容营销上似乎没有花一分钱做投放，而是通过自己制作内容、互动和社区运营来吸引用户，能谈谈你们是如何做到的吗？</div>
-<div class="answer"><strong>A:</strong> 是的，我们主要依靠自身在社区内挖掘热门内容，并从用户喜爱的内容类型出发，比如喜闻乐见、感同身受和对自己有用的内容。坚持做“对我有用”的内容，在各个平台上涨粉效果显著，尤其是专业内容更容易吸引用户。</div>
-</div>
-<div class="qa-item">
-<div class="question"><strong>Q:</strong> 在AI应用方面，您提到的大模型必须知道的五件事儿有哪些？</div>
-<div class="answer"><strong>A:</strong> 第一点，当前AI应用的模式与互联网高流量大并发应用不同；第二点，AI回答的成功率并非特别高，需要理解其边界，例如多次尝试可能提高正确率；第三点，AI输出内容不太稳定，需要进行防御式编程和格式校对以保证内容稳定；第四点，要考虑成本问题，因为AI应用是有成本的；第五点，AI应用除了能完成一些基础功能外，还可以做一些传统应用难以做到的事情，例如分段总结等，但这种方式成本较高且响应时间较长。</div>
-</div>
-<div class="qa-item">
-<div class="question"><strong>Q:</strong> 你们是如何找到制作《Pod Vice》这一产品的灵感的？</div>
-<div class="answer"><strong>A:</strong> 在寻找变现路径的过程中，我们考虑过做博客广告，但市场状况并不理想。后来决定做产品，团队在讨论多个主题时，考虑到音频剪辑领域的市场需求及自身能力，最终选择了做一款面向播客主的AI剪辑产品。然而，在深入分析后，发现由于技术复杂性和竞争激烈，这个方向不适合我们。最终回归到为社区服务的初心，基于用户记录笔记的需求，阴差阳错地选择了制作针对女性用户的播客记录产品，并利用社区资源推广，从而找到了产品的切入点和市场定位。</div>
-</div>
-<div class="qa-item">
-<div class="question"><strong>Q:</strong> 在决定做播客记录产品之前，你们是如何确定值得投入时间和精力去开发这个产品的？</div>
-<div class="answer"><strong>A:</strong> 在播客形式盈利方式有限的情况下，考虑到长期发展和社区互动，我们意识到不能仅依赖爱发电，于是探讨了多种可能的盈利模式，包括留学服务、线下课程和接广告等。但由于当时粉丝基数较小，这些方式均不理想。最终，在内部讨论和灵感碰撞中，结合自身播客内容和社区特性，发现了为播客用户提供便捷记录工具的机会，从而下定决心开发这款产品。</div>
-</div>
-<div class="qa-item">
-<div class="question"><strong>Q:</strong> 在推广pod wise时，你们是如何通过播客和社交媒体获得第一批用户的？</div>
-<div class="answer"><strong>A:</strong> 我们每一期播客都会做广告推广pod wise，并且在发布pod wise后，制作了一期专门讲解什么是pod OS以及为什么要使用todos的节目，那期节目反响热烈，帮助我们吸引了第一批用户。此外，我们在极客、小红书等平台进行宣传，进一步扩大了影响力。</div>
-</div>
-<div class="qa-item">
-<div class="question"><strong>Q:</strong> 你们为什么认为做这个产品能够成功？</div>
-<div class="answer"><strong>A:</strong> 我们在极客社区发现很多投资人是snap的用户，但snap没有中文博客和PC端应用，这导致了用户体验不佳和使用不便。同时，snap的笔记方式（通过语音操控）并不适合所有人，特别是缺乏PC端支持。基于这些观察，我们决定开发一个以PC端为核心，拥有大屏幕优势的产品，利用用户对脑图的喜爱，提供一个结构化的知识获取方式。</div>
-</div>
-<div class="qa-item">
-<div class="question"><strong>Q:</strong> 对于独立开发者是否需要产品经理的问题，您怎么看？做AI产品的首要条件是什么？</div>
-<div class="answer"><strong>A:</strong> 独立开发者实际上必须扮演产品经理的角色，他们需要了解产品面向的用户群体、定位和目标。虽然现在一些团队中可能有专门的产品经理，但对于独立开发者而言，必须自己具备产品经理的能力。做AI产品首先要确保这个产品本身是一个好的产品，然后再考虑叠加AI能力来解决问题。这意味着必须先解决实际问题，然后借助AI技术提高解决方案的质量或效率。</div>
-</div>
-<div class="qa-item">
-<div class="question"><strong>Q:</strong> 您如何描述目前独立开发者的群体状态和社区氛围？</div>
-<div class="answer"><strong>A:</strong> 目前独立开发者的群体中，观望的人较多，真正动手的人较少。大部分开发者处于不够温饱的状态，少部分能够达到温饱水平，极少数能过上相对宽裕的生活。社区氛围中，大家普遍焦虑与自由并存，由于经济压力和职业不稳定，很多人会在找工作与自由追求之间挣扎。</div>
-</div>
-<div class="qa-item">
-<div class="question"><strong>Q:</strong> 独立开发者身上有哪些共同的性格特点？</div>
-<div class="answer"><strong>A:</strong> 独立开发者群体多样，性格各异，既有积极行动型，也有按自己节奏做事并最终成功的案例。这个群体并不单一，各种类型的人都有，他们面对挑战时表现出不同的态度和应对方式。</div>
-</div>
-<div class="qa-item">
-<div class="question"><strong>Q:</strong> 独立开发者成长过程中面临的最大挑战是什么？有没有建议帮助他们克服这些挑战？</div>
-<div class="answer"><strong>A:</strong> 目前独立开发者在成长过程中尚未明确指出最大的挑战是什么，但讨论了不同背景的人加入独立开发行列的情况，以及设计背景的人利用美作为第一生产力的优势。尽管有一部分开发者可能利用AI辅助工具进行开发，但大多数还是从工程师或程序员转型而来。关于如何克服成长过程中的挑战，虽未直接给出建议，但强调了观察和了解独立开发者群体及其需求的重要性。</div>
-</div>
-<div class="qa-item">
-<div class="question"><strong>Q:</strong> 独立开发者在产品开发中面临的第一个主要难关是什么？第二个难关是什么？</div>
-<div class="answer"><strong>A:</strong> 第一个难关是独立开发者往往找不到自己产品的定位，不清楚面向的客户群体和盈利模式，甚至有些产品一开始设计为免费，这让人感觉他们没有明确的目标和方向。第二个难关是即使找到了产品定位，很多开发者却不知道如何有效地进行宣传推广，即使产品本身做得很好，但由于宣传手段不得当，导致产品难以被市场发现和接纳。</div>
-</div>
-<div class="qa-item">
-<div class="question"><strong>Q:</strong> 这是否意味着独立开发者需要具备更全面的技能，包括市场营销？</div>
-<div class="answer"><strong>A:</strong> 是的，现在独立开发者不仅需要精通开发技术，还需要掌握一定的营销技能，这确实是一个很高的要求，与资本主义分工细化的传统模式有所不同，增加了时间和精力上的压力。</div>
-</div>
-<div class="qa-item">
-<div class="question"><strong>Q:</strong> 是否观察到许多独立开发者处于观望状态？</div>
-<div class="answer"><strong>A:</strong> 是的，很多独立开发者可能处于观望状态，这与他们希望辞职去做自媒体的心理相似，东亚社会对成功的单一定义以及生活负担较重是原因之一。</div>
-</div>
-<div class="qa-item">
-<div class="question"><strong>Q:</strong> 对于那些认为产品好但未被大众知晓的开发者，是否可以在此帮忙宣传？</div>
-<div class="answer"><strong>A:</strong> 当然可以，例如提到的一个华为推出的AI图片修图产品，在市场上反响不错，但销量并不理想。另一个图片压缩工具产品设计优秀且有市场需求，但由于宣传不足，未能获得预期的关注和成功。</div>
-</div>
-<div class="qa-item">
-<div class="question"><strong>Q:</strong> 这些产品宣传效果不佳的共同特点是什么？</div>
-<div class="answer"><strong>A:</strong> 共同特点是尝试不够多，很多开发者可能仅依赖微博、推特等单一平台增加粉丝，而没有充分利用论坛、极客小组或豆瓣小组等“发信息平权”的地方进行推广。</div>
-</div>
-<div class="qa-item">
-<div class="question"><strong>Q:</strong> 对于独立开发者来说，建立个人影响力（KOL）的重要性是什么？</div>
-<div class="answer"><strong>A:</strong> 建立个人影响力能够带来固定的流量，进而转化为销售机会和快速验证产品效果。同时，作为KOL可以借助粉丝群体进行高效宣发，减少试错成本，并通过分享产品制作过程、营收状况等经历吸引并激励社区用户。</div>
-</div>
-<div class="qa-item">
-<div class="question"><strong>Q:</strong> 对于正在犹豫或观望的独立开发者，有什么立即可以做的事情？</div>
-<div class="answer"><strong>A:</strong> 建议先输出内容，提供对自身领域有用且原创的内容以吸引粉丝；其次，要抓住宣发的窍门，尝试“build in public”，即公开透明地展示产品开发过程、决策以及收益情况，与社区建立紧密联系，获取用户的持续支持和动力。</div>
-</div>
-<div class="qa-item">
-<div class="question"><strong>Q:</strong> 在reels平台上，用户Ryan Bets做了什么事情来帮助解决社区的问题？</div>
-<div class="answer"><strong>A:</strong> Ryan Bets在reels平台的论坛中，没日没夜地回复用户关于real的问题，并且为了提高用户理解度，他同时制作了视频进行详细解答。</div>
-</div>
-<div class="qa-item">
-<div class="question"><strong>Q:</strong> Ryan Bets是如何将他的回复内容转化为一个网站的？“Real Costs”网站的发展状况如何？</div>
-<div class="answer"><strong>A:</strong> 在社区内外部人士的鼓励下，Ryan Bets将自己回复短视频的内容整合起来，创建了一个名为“Real Costs”的网站，并成功吸引了社区的关注与支持。Ryan Bets不断更新网站内容，从最初的免费回复转变为每月更新四期节目，后来又加入了两期付费节目（pro节目）。经过一年时间，该网站实现了超过100万美金的AR（年收入）。</div>
-</div>
-<div class="qa-item">
-<div class="question"><strong>Q:</strong> Ryan Bets的成功案例中体现的核心策略是什么？</div>
-<div class="answer"><strong>A:</strong> Ryan Bets的成功在于他花大量时间先建立用户信任，坚持与用户待在一起，通过人力和服务的形式帮助用户解决问题，然后将服务经验转化为SOP，最终发展成APP或其他可规模化运营的产品。</div>
-</div>
-<div class="qa-item">
-<div class="question"><strong>Q:</strong> Peter Levels是如何践行与用户待在一起理念的？</div>
-<div class="answer"><strong>A:</strong> Peter Levels作为独立开发者中的知名人物，拥有大量粉丝。他创建了针对数字游民和独立开发者的社区“remote OK”，并开发了帮助他们找工作的工具“Norman list”。他公开透明地展示所有项目的收益，利用这种方式吸引更多独立开发者关注他，并形成了一个正向循环。</div>
-</div>
-<div class="qa-item">
-<div class="question"><strong>Q:</strong> 对于独立开发者，有什么关于KOL和内容创作的建议吗？</div>
-<div class="answer"><strong>A:</strong> 建议独立开发者每天花5到10分钟时间浏览Twitter上的海外独立开发者KOL内容，思考如何将同样的内容适应中文语境并进行发布，以此寻找灵感和输出内容的方式。</div>
-</div>
-<div class="qa-item">
-<div class="question"><strong>Q:</strong> 地理套利对于独立开发者意味着什么？</div>
-<div class="answer"><strong>A:</strong> 地理套利是指独立开发者利用成本和时薪差异，在高成本和高时薪地区赚取收入。这为独立开发者提供了另一个思考角度，鼓励他们考虑在全球范围内开展业务或服务以获取更高收益。</div>
-</div>
-<h1>节目文稿</h1>
-<p class="transcript-line">
-<span class="time"><strong>[00:00:01]</strong> </span>
-<span class="speaker"><strong>发言人1: </strong></span>
-欢迎收听十字路口，我们关注新一代AI技术浪潮带来的行业新变化和创业新机会。十字路口是乔布斯对苹果公司的一个比喻，形容他站在科技与人文的十字路口，伟大的产品往往诞生在这里。AI正在给各行各业带来改变。我们寻找、访谈和凝聚AI时代的积极行动者，和他们一起探索和拥抱新变化、新的可能性。我是主播科技杨元成，是新世相和唐导的联合创始人，也是一个正在积极行动投身AI的人。
-</p>
-<p class="transcript-line">
-<span class="time"><strong>[00:00:41]</strong> </span>
-<span class="speaker"><strong>发言人2: </strong></span>
-我是主播戎慧，目前在一家专注科技投资的风险投资机构工作，之前在第一财经周刊担任驻硅谷记者。
-</p>
-<p class="transcript-line">
-<span class="time"><strong>[00:00:52]</strong> </span>
-<span class="speaker"><strong>发言人1: </strong></span>
-Hello, 欢迎来到新一期的十字路口。这一期的十字路口我们的嘉宾是来自印度骇客和pod wise的创始人之一。1 seto十字路口一直想要寻找反弹和凝聚在AI时代的积极行动者。印第骇客就是这样一个非常典型的代表。
-</p>
-<p class="transcript-line">
-<span class="time"><strong>[00:01:08]</strong> </span>
-<span class="speaker"><strong>发言人1: </strong></span>
-三头和他的两位好朋友，他们三个人合伙先是做印第骇客这一个媒体品牌，也有一个播放量和关注度非常高的播客。他们聚焦的人群全部是的hacker为开发者。他们为了自己把握hacker印度骇客这个概念做得非常的深入。不但做了这一档媒体和博客，他们自己也做了一个产品叫做pod once。我们希望这一次通过和settle的谈话，了解印第骇客的这个群体，和他们一起来感受一下这一波的积极行动者是什么样的。所以我们今天反馈分成两个部分。一部分是settle和他的团队自己的故事，他们的产品，他们的博客以及他们做的一本新书。第二个部分是我们也想和seal聊一聊，他们在做印度骇客的过程中访谈了非常多的独立开发者，想听听他对这个群体在当下的观察和分析。我们请settle先介绍一下自己和胤第骇客。
-</p>
-<p class="transcript-line">
-<span class="time"><strong>[00:02:10]</strong> </span>
-<span class="speaker"><strong>发言人3: </strong></span>
-好的，大家好，我是setter，我们是印第骇客团队，印蒂亚克是我们团队专门为印第安克制作的一个播客节目。对，然后我们有一个口号是每个人都应该有一个小生命。就像科技刚才介绍的，我们自己还在build一个AI的一个播客产品，然后这个播客产品的名字叫pod wax。Pod wise的初衷是为了帮助用户去提取博客里面的干货，然后快速的去定位一些自己感兴趣的内容。主要其实服务的人群是高效获取博客信息，然后有笔记需求的一些人。现在的pod DLYS其实也在持续成长中。
-</p>
-<p class="transcript-line">
-<span class="time"><strong>[00:02:43]</strong> </span>
-<span class="speaker"><strong>发言人2: </strong></span>
-可以介绍一下你跟另外两位合伙人大概都是什么样的背景，是怎么认识的？
-</p>
-<p class="transcript-line">
-<span class="time"><strong>[00:02:49]</strong> </span>
-<span class="speaker"><strong>发言人3: </strong></span>
-背景其实三个人背景是非常相似的，我们已经认识超过15年了。我跟一笑是大学同学，然后我跟归归在在淘宝工作了一段时间，之后大概工作了三年左右。然后我们两个人就一起合伙出来，跟我们另外一个之前的老板。对，就是我们有大概五个人一起出来创业。当时其实是看准了一个to b的一个企业服务市场，大概从17年的时候融入了阿里云的。然后后来拿了一些包括红杉，华平的一些钱。最后在大概22年的时候，应该是融到了独角兽级别。
-</p>
-<p class="transcript-line">
-<span class="time"><strong>[00:03:21]</strong> </span>
-<span class="speaker"><strong>发言人3: </strong></span>
-但是其实拿了钱之后，大家其实都过得不是很开心。因为不断的会有人push你，你要拿到结果，这个结果这里面又会包含说你需要在什么时间点上市等一系列的对，反正在那个阶段里面大家压力都很大，然后整个团队的大家状况也都不是很好。所以说在那个阶段之后，我就先退出来了。后来他们两个也觉得不是太舒服，对，然后他们也就一起退出来了。其实他们退出来并没有想着去做印太克这个事情，我们就想着说，要不然做点别的事情，就恰好在那个时候，然后我们三个人就一起发现那本书，那本书现在有中文翻译版，然后叫小而美，然后它又能叫minimal interpreteth。对，然后是刚road的一个作者写。
-</p>
-<p class="transcript-line">
-<span class="time"><strong>[00:04:03]</strong> </span>
-<span class="speaker"><strong>发言人3: </strong></span>
-当时就形成一个共识说，to b这个市场简直太难做了。那为什么我们不做一个to c的？一开始就面向全球的一个公司。然后我们就觉得说在这个节点上面，我们可能不太会想要去拿融资。因为其实拿融资不光是你拿了钱，感觉好像自己身价翻了很多倍，但是你的责任会越来越大。还有另外一件事儿，就是我们发现在之前的公司里面，其实你想把一个公司让大是很容易的，但是你想管好是很难的。
-</p>
-<p class="transcript-line">
-<span class="time"><strong>[00:04:31]</strong> </span>
-<span class="speaker"><strong>发言人3: </strong></span>
-然后我们为什么最后决定说想去做应急骇客这件事儿？其实有一个很大的原因是什么呢？就是我们当时觉得其实2012年疫情过后，互联网招过一波人。
-</p>
-<p class="transcript-line">
-<span class="time"><strong>[00:04:42]</strong> </span>
-<span class="speaker"><strong>发言人3: </strong></span>
-但是招完之后大概一两年，其实大家都在裁员。在裁员的这个过程里面，我们发现其实这个群体会越来越大，而不是越来越小。所以其实我们觉得说在这个时间点上，是可以做一下类似于独立开发者印蒂亚克这样的事儿。因为这是踩在一个所谓的人员的一个变化的情况上。
-</p>
-<p class="transcript-line">
-<span class="time"><strong>[00:05:02]</strong> </span>
-<span class="speaker"><strong>发言人3: </strong></span>
-当时其实我们想出来做这件事的时候，还没有ChatGPT3.5。我们大概在22年8 9月份的时候商量的说，要不然去做一个类似这样的独立开发者的一个媒体也好，干嘛也好。对，去做一个这样的事儿。当时就赶巧了，大概11月份在海外发了XGT3.5，然后大概1 2月份在国内这个时间点上发酵。然后发酵过后我们发现其实XGT是一个能够提升生产力的一件事儿。所以这件事儿又反过来加成独立开发者，可以把自己的生产力去提升。但其实我们当时还没有开始做，大家都在干。到二三年的大概三月份的时候，我们发了第一期的印第安克。然后这个印第安亚克其实我们第一期的内容叫焦虑与自由。
-</p>
-<p class="transcript-line">
-<span class="time"><strong>[00:05:43]</strong> </span>
-<span class="speaker"><strong>发言人3: </strong></span>
-其实大家在当下那个节点里边，我们其实本身个人都很焦虑。因为之前的那些过程，再加上其实有很多人因为失业去焦虑。然后我们就在讲说焦虑跟自由这件事到底应该怎么权衡，做了一件这样的事儿，我们自己为什么去做这样的一件事儿？我觉得就是之前因为各种各样的经历的原因，就是我们现在其实并不想把这件事儿做到很大。说我们自己要招100个人，1000个人，干几个亿、几十个亿、几百个亿，我们并不想干这样的事儿。我们只是想说，有这样一个媒体，然后能够帮助大家把这件事儿，就是把独立开发这件事能够做好。然后我们自己能够赚一份舒服的收入，能够养活自己的收入就可以了。
-</p>
-<p class="transcript-line">
-<span class="time"><strong>[00:06:24]</strong> </span>
-<span class="speaker"><strong>发言人1: </strong></span>
-因为过去你们其实做的还是比如说到独角兽这样的规。我在那个时候的创业应该是野心更大，或者说对财富的欲望更强。现在是就发生了什么样的变化，让你们做出目前这样的决定呢？感觉现在这个决定你们还蛮内心平和这个状态。
-</p>
-<p class="transcript-line">
-<span class="time"><strong>[00:06:42]</strong> </span>
-<span class="speaker"><strong>发言人3: </strong></span>
-其实并不是因为我们都有钱了，只不过在这个过程里面，是因为我们发现你要take更多的时候，你就要付出更多。对，但是付出更多的这件事儿里边，不管对你个人还是对家庭，其实都是有很大的对的，就是你需要折中很多事情。你们观察。
-</p>
-<p class="transcript-line">
-<span class="time"><strong>[00:07:00]</strong> </span>
-<span class="speaker"><strong>发言人2: </strong></span>
-这些独立开发者的地方在哪儿呢？就了解这些人的生活状态，工作状态的信息是从哪里获取。
-</p>
-<p class="transcript-line">
-<span class="time"><strong>[00:07:08]</strong> </span>
-<span class="speaker"><strong>发言人3: </strong></span>
-有几个比较大的渠道，就是一个渠道是通过twitter，twitter里面是有很多人人在build in public，当然在国内build in in public的这件事儿，做这个事儿的人比较少，但是在海外其实做拜登派了的人很多。然后这是一个国内国外的人其实都可以从上面了解。然后另外一个就是其实像国内的有些论坛，像v two EX也好，还有一个论坛叫做way to solo。对，way to solo其实也是很多开发者在做的对，其实这个是有一些这样的论坛。然后我们其实现在在市面上面，我们做过的博客里面邀请的人大部分都是在twitter里面我们去撩的对，我们觉得说他的故事挺有意思的对，我们会跟他发个私信，然后说有没有兴趣，然后大家一起聊一下。包括其实还有还会有些人，其实大家会比较腼腆，因为这个群体大部分都是做技术的。对，很多人可能会比较腼腆说可能不太愿意接受或者说没有准备好。对，但是其实我们聊过很多人，然后现在也有在排队，还有很多独立开发者。
-</p>
-<p class="transcript-line">
-<span class="time"><strong>[00:08:07]</strong> </span>
-<span class="speaker"><strong>发言人2: </strong></span>
-你当时就比如说在推特上，或者在这些其他的这些社群里面看到的这些人的故事。除了你像你刚刚说的职业的一个变化的一个这么一个大的一个趋势，就独立开发者越来越多。然后这些人有哪些？比如说他们的故事或者是他们做的什么事情。有当时在你决定要做这个in the hacker之前的前后，就是让你觉得这个很有意思，我想要去更多了解这个人群，讲更多他们的故事。
-</p>
-<p class="transcript-line">
-<span class="time"><strong>[00:08:35]</strong> </span>
-<span class="speaker"><strong>发言人3: </strong></span>
-其实我们一开始做印度骇客并没有采访的这个板块。就是我们印第骇客的前面很多期都是我们三个人在扯。直到后来大概十几二十期的时候，我们才开始规划了。大概有四个板块，包括有做异地访谈，有做印地产品，有做印地创业，然后还有一个印地职场，反正就是大概四类。对，这四类是我们节目的选题范围，我们会每隔一段时间可能会出一些东西。但其实硬地访谈这个系列是我们等到十几期的时候才开始有的。
-</p>
-<p class="transcript-line">
-<span class="time"><strong>[00:09:11]</strong> </span>
-<span class="speaker"><strong>发言人3: </strong></span>
-第一个我们一开始其实并没有国内的独立开发者群体，也没有瞄准独立开发者群体。我们只是觉得说以我们以前做to b的商业经验，我们以前开过公司。对，我们以前做过这个事儿，我们觉得说我们可以帮助很多没有做过生意的人，让他们把生意做起来，仅此而已。所以我们在前期其实聊了很多，比如说你做开源你应该怎么赚钱，然后就类似于这些事情，我们聊了很多国外的独立开发者，他们是怎么赚钱的？对，但其实我们当时的眼光并没有瞄准国内。国内的独立开发者。我们知道有些群体做的很好了，但是个人的群体里面谁做的比较好，其实我们并不太清楚。
-</p>
-<p class="transcript-line">
-<span class="time"><strong>[00:09:54]</strong> </span>
-<span class="speaker"><strong>发言人3: </strong></span>
-再后来我们越做越多，大概可能做了大概半年，可能九个月类似这样的市场的时候，我们发现国内这个群体其实也是挺多的，然后后续会越来越多。所以说我们才有意识的去采访了很多国内的都开发者。然后这个系列现在变成了我们现在主流的一个系列。然后大家现在也都比较喜欢去听跟独立开发者的采访等等之类的对，就是这个系列是大家愿意听的一些经验，对，是后续不断的去发展出来。
-</p>
-<p class="transcript-line">
-<span class="time"><strong>[00:10:23]</strong> </span>
-<span class="speaker"><strong>发言人2: </strong></span>
-最近看到你们不仅除了做除了播客工具，还做了一本小书。这个书的目的是什么？
-</p>
-<p class="transcript-line">
-<span class="time"><strong>[00:10:29]</strong> </span>
-<span class="speaker"><strong>发言人3: </strong></span>
-其实我们当时就是有过一个想法，就是我们当时其实想写一本书，因为在国外有一个标杆性的人物叫bitter levels。他大概做了有七十几个应用，然后成了大概六个。对，然后赚了现在应该是有20万美金一个月。对，然后他的收入来源，其中有一个收入来源就是他写了一本书叫make，然后mac那本书大概卖19.9刀。对，然后他反正那本书也赚了很多钱，国内有很多独立开发者也买过他make那本书。对，其实我们当时想法很简单，我们就想把pod wifi e的这个经验跟经历写成一本mac然后我们希望他卖19.9美金或者国内。因为我们可能主要是写中文的，还有中文生态的对，所以说可能卖不了那么多的话，我们想卖9.9美金。
-</p>
-<p class="transcript-line">
-<span class="time"><strong>[00:11:23]</strong> </span>
-<span class="speaker"><strong>发言人3: </strong></span>
-对，然后我们当时其实很单纯，就是想靠卖书赚钱。其实我们很单纯，没有现在大家这么高尚。说这个人分享了很多经验，没有这些东西。我们当时就有一个共识，说我们想靠写这本书然后能够赚钱。这个共识之后我们就想到说到底要怎么赚钱。怎么赚钱是透过10.9美金去卖呢？就是直接去卖上strap去卖，上demonstrate上去卖，还是去上小爆头上去卖，还是去上知识星球上面去卖。我们只纠结过这个，对，没有借鉴过别的。
-</p>
-<p class="transcript-line">
-<span class="time"><strong>[00:11:55]</strong> </span>
-<span class="speaker"><strong>发言人1: </strong></span>
-可以介绍一下这本书是什么吗？因为听我们播客的的朋友们还你知道这是一本什么书。
-</p>
-<p class="transcript-line">
-<span class="time"><strong>[00:12:01]</strong> </span>
-<span class="speaker"><strong>发言人3: </strong></span>
-我们就写了一本power wise从零开始。前两个月做到了12000美金的的全过程的一本书。对，然后这本书里面就包含我们在做的五个部分，就是包含有灵感、然后构建、然后发布、然后营销，然后再加上发布增长，再加上我们的复盘。对，就是几个部分其实是全部都是我们的真实经历跟干货，它全部都是忠实记录的内容。所以说这些东西其实是我们觉得说我们的经验的一个着实分享。这个分享是我们觉得是一定会对很多人非常有用。然后我们就决定说最终就想来想去说要不然把这个事儿开源。
-</p>
-<p class="transcript-line">
-<span class="time"><strong>[00:12:42]</strong> </span>
-<span class="speaker"><strong>发言人3: </strong></span>
-这个事儿开源就有几个好处。第一个好处说看完之后一定有很多人喜欢。其次这本书里边又宣传了我们的播客，我们在这本书里面开头就讲了我们的博客里面有几期重点内容。然而这些重点内容里面促使我们去做potos。对，然后在这个节目里面，在这本书里面又宣传了我们的pod s对，因为在这个过程里面我们又讲了说为什么需要pod vst，pod VS能做什么事情？然后pod vise里面能帮你解决什么问题。
-</p>
-<p class="transcript-line">
-<span class="time"><strong>[00:13:13]</strong> </span>
-<span class="speaker"><strong>发言人3: </strong></span>
-对，就这本书里面既又宣传了博客，又宣传了power wise，然后我们又觉得说对大家都有用，这三件事是都齐全的那最终只是缺一个怎么收钱？对，我们就决定说把这本书开源了，然后放在github上面。然后最终挂了一个星球链接。那个星球链接其实是大家觉得想讨论书籍的内容也好，干嘛也好，可以加这个星球，变成了一个免费放送加上转化的一个逻辑。
-</p>
-<p class="transcript-line">
-<span class="time"><strong>[00:13:37]</strong> </span>
-<span class="speaker"><strong>发言人1: </strong></span>
-对，要不介绍一下pod wise，比如说如果你现在要用简单几句话让人听完你的介绍，就立即想现在打开手机冲向电脑来使用po to wise的话，我会就怎么介绍他。
-</p>
-<p class="transcript-line">
-<span class="time"><strong>[00:13:51]</strong> </span>
-<span class="speaker"><strong>发言人3: </strong></span>
-其实我们是这样觉得，就是听播客这件事儿，美国这个市场听播客是最成熟的市场。但美国这个市场里边平均一个人一周也最多只有6到7个小时听播客的时间。这是大家的调查结果。
-</p>
-<p class="transcript-line">
-<span class="time"><strong>[00:14:05]</strong> </span>
-<span class="speaker"><strong>发言人3: </strong></span>
-对，这是一个事实，不是我在这乱吹。对，就你只有6到7个小时。但是我能告诉你的是next friday跟huberman大家都在听这两个博客，一期都是3个小时起步。那你还听不听别的呢？对你根本没有时间听别的。对，然后再加上如果你是一个投资人，你是一个知识获取者，你希望获取很多的知识，你希望获取很多的内容。博客是一个非常好的一个媒介，尤其是像如果你做投资如果你不听播课，你可能会损失非常多的信息。很多很多的投资人，包括现在你做AI对吧？其实小扎第一次讲拉玛three就是在一个博客里面。所以说其实像这些内容，其实你不听播客是你你根本了解不到的。
-</p>
-<p class="transcript-line">
-<span class="time"><strong>[00:14:50]</strong> </span>
-<span class="speaker"><strong>发言人1: </strong></span>
-而且我们发现今年中国搞AI的创始人也好，投资人也好，出来做PR或者出来做分享，几乎百分百用博客。这是一个巨大的2024年和2023年的不同。
-</p>
-<p class="transcript-line">
-<span class="time"><strong>[00:15:01]</strong> </span>
-<span class="speaker"><strong>发言人2: </strong></span>
-对它其实已经是一个巨大的媒体介质的一个转移了。
-</p>
-<p class="transcript-line">
-<span class="time"><strong>[00:15:07]</strong> </span>
-<span class="speaker"><strong>发言人3: </strong></span>
-所以说如果你是一个希望通过博客拿到关键内容的人，然后你又是一个对知识比较渴求的人，然后你又觉得说这个事儿我好像不能不听，不能不知道。那么你用pod LS就对了。对，因为pot west可以帮你做到什么呢？就比如说你知道有一期是小扎讲lamer 3，对吧？那你可以在pod west平台上面可以直接看到小扎讲lama 3的所有的知识结构图。他那一期到底在讲什么，你就听你最关心的。比如说拉马three这一期里边到底它的性能是怎么样子的对，然后有没有对标GPT5的对吧？你看类似的这样去找一下，找到之后你可以直接去听就可以了。然后你可能一期的内容里面，你可能只听了十分钟。最关键的那这样的话你可以多听很多很多期的播客。对，所以这个是我们的一个核心理念了。
-</p>
-<p class="transcript-line">
-<span class="time"><strong>[00:15:54]</strong> </span>
-<span class="speaker"><strong>发言人1: </strong></span>
-我们来聊一下书的内容，那本书分成五个部分，其实对应的是一个独立开发。他自己要把一个产品从想法到最后上线完成的五个步骤。然后这五个部分里面你们自己，因为在过去的这个工作和创业经历里面肯定也有很多积累。但做独立开发者之后，就这五个部分中的哪些部分是你们完全从零开始学的？
-</p>
-<p class="transcript-line">
-<span class="time"><strong>[00:16:17]</strong> </span>
-<span class="speaker"><strong>发言人3: </strong></span>
-基本上增长的部分我们是零。因为我们以前在做to b的这个过程里边，其实to b的增长模式跟to c增长模式完全不一样。
-</p>
-<p class="transcript-line">
-<span class="time"><strong>[00:16:25]</strong> </span>
-<span class="speaker"><strong>发言人1: </strong></span>
-而且游戏里面又是做一个全球的一个生意，所以这个增长不只是在国内市场，也要在国外市场。那这里面有什么心得吗？就写在书里面的，你觉得也可以在这个博客上和大家分享一下。
-</p>
-<p class="transcript-line">
-<span class="time"><strong>[00:16:36]</strong> </span>
-<span class="speaker"><strong>发言人3: </strong></span>
-对我觉得营销这个部分应该是所有做独立开发者都会觉得最难的一件事儿。因为做独立开发者来讲，大家的本职工作就除了说可能设计不太会，但是营销是可能完全没有概念。所以说营销这件事我们自己其实也是从零开始的。我们自己在做的过程里面总结了大概三点，可以去帮助你去把营销做的更好。
-</p>
-<p class="transcript-line">
-<span class="time"><strong>[00:17:00]</strong> </span>
-<span class="speaker"><strong>发言人3: </strong></span>
-第一点我们就总结了说你在做营销这个过程里边，首先你得去一些杠杆高的地方去做营销。什么叫杠杆高？就是比如说我们去极客里边做，因为极客的人群其实有很多投资人也好，然后有很多KOL也好，精英密度是比较高的。我可以我可以对可以暂时这样说，就是他的KOL密度是比较高的。所以说你在里面去做营销更容易产生二次传播。所以说我们要先去找这样杠杆高的地方。
-</p>
-<p class="transcript-line">
-<span class="time"><strong>[00:17:27]</strong> </span>
-<span class="speaker"><strong>发言人1: </strong></span>
-所以叫影响有影响力的人。
-</p>
-<p class="transcript-line">
-<span class="time"><strong>[00:17:29]</strong> </span>
-<span class="speaker"><strong>发言人3: </strong></span>
-对，影响有影响力的人。对，是的。对。
-</p>
-<p class="transcript-line">
-<span class="time"><strong>[00:17:31]</strong> </span>
-<span class="speaker"><strong>发言人3: </strong></span>
-然后第二点就是要去一个类似于有论坛的地方去。其实今天你在推特上也好，你在微博上也好，你发声是远远没有人看到。但是你在极客上面发生，你是有可能被别人看到的。因为你可以发到极客的小组里面，然后小组是有可能会被别人看到的。比如说你发到一起听播客小组，对，可能会有很多人没事干会去刷那个一起听播客对吧？类似于豆瓣的小组一起听播客小组，其实他都是小组。小组其实是一个类似论坛的地方。
-</p>
-<p class="transcript-line">
-<span class="time"><strong>[00:18:00]</strong> </span>
-<span class="speaker"><strong>发言人3: </strong></span>
-论坛的地方意味着说其实大家是平权的。在平权的这个过程里面，你是有可能把好内容浮现出来的对，然后其实在国内还有几个比较好的地方，比如说你去小红书，其实小红书看似是一个跟抖音一样的地方，但其实小红书是一个大论坛，小红书其实每个人都可以火在这个点上。其实我们当时就总结说，其实你在第一波宣传的时候，要去一个大家能够平权发声的地方。这样你才有可能能够突出，你才有可能能够积累粉丝。
-</p>
-<p class="transcript-line">
-<span class="time"><strong>[00:18:27]</strong> </span>
-<span class="speaker"><strong>发言人3: </strong></span>
-对，其实海外也有这样的平台，比如说你去ready to blunt里面去发。对，其实plan count里面现在当然比较，大家可能会有一些所谓刷票等等之类的一系列的不太好的地方。但是其实不太好的，其实你发上去之后确实会有人看到。
-</p>
-<p class="transcript-line">
-<span class="time"><strong>[00:18:42]</strong> </span>
-<span class="speaker"><strong>发言人3: </strong></span>
-然后在这些平权的地方里面，我觉得说有几点策略是你可以用的，战术是可以用的对，第一点也是我们最近在跟一些独立开发者聊天的时候学到的。然后我们自己之前我们总结说要跟别人互动。但是互动其实我们没有这个要点。他就讲了这个要点，他说这个要点是要人为制造一些formal。比如说我们以前在互动的时候，我们在在那个极客里面去做互动的时候，制造的formal是什么？其实我们也用了这招制造formal就是。
-</p>
-<p class="transcript-line">
-<span class="time"><strong>[00:19:10]</strong> </span>
-<span class="speaker"><strong>发言人3: </strong></span>
-你如果艾特pod wise的话，然后我可以免费帮你去转录一期。对，因为我们其实转入是要钱的对，但是你艾特我的话，我就免费帮你转入一期。然后你因为你一个月可以看四期，所以你只要让我帮你转的话，其实理论上的那一期是可以看的对，其实这个就是一个人为的一个formal。对，你可以艾特我，但是我告诉你说我一天只有十期可以。对，但这个在前期其实给我们增加了很多影响。因为他艾特我的过程里边，他的粉丝都会看到他艾特过我，所以这个是一个互动的一招。然后这一招的话，其实再加上你人为制造一些风。因为我们去采访的那个是出海去社区的百顺，百顺他就讲说他一开始在做这个东西的过程里面，他就利用了一招。
-</p>
-<p class="transcript-line">
-<span class="time"><strong>[00:19:55]</strong> </span>
-<span class="speaker"><strong>发言人3: </strong></span>
-他说我可以免费帮你们rost，你们的landing page免费，但一天只有五个名额。对，然后他那一期就火了，就他那个帖子就火了。对，所以说这个其实就是人为制造formal，然后跟大家互动，我觉得这个是一个挺好的一招，是可以火的这是其中一招。
-</p>
-<p class="transcript-line">
-<span class="time"><strong>[00:20:11]</strong> </span>
-<span class="speaker"><strong>发言人3: </strong></span>
-然后第二招就是回复，我们在极客里边其实有很多次火，是因为我们回复了别人。对，有一次其实是极氪的老板，然后他发了一期应该是马斯克跟lex friend的一期的博客。对，然后因为lex friend在那一期里面就问到马斯克说你对中国的EV也好，中国的这些东西你们是怎么看的？我就在下面回复了马斯克的那一期的脑图。对，然后大家觉得说竟然有这个，然后我还同时在脑图下面又分享了几个金句，就是马斯克在那期播客里面讲的金句，尤其我摘出来他针对中国人的评价，这个是大家会比较关心的，就根据这个事儿然后也转化了不少。对，这是第二点，就是去回复你，回复一些有营养的内容。大家会关注到你是一个官方账号，然后你能干这件事儿。对，这个事儿我觉得也是很重要的一点。
-</p>
-<p class="transcript-line">
-<span class="time"><strong>[00:21:04]</strong> </span>
-<span class="speaker"><strong>发言人3: </strong></span>
-第三点是在论坛这样的生态里边，一定要注重长尾，尤其我们其实着重去做了小红书，因为小红书其实是21世纪新青年的搜索引擎。在小红书里面实际上我们其实是怎么发现小红书应该要去做长尾的。是因为我们经常会在小红书里面搜索pod OS。对，然后我们就会发现说小红书里面会给你做提示，说大家会搜pod wise的时候，他后面会给你续一些词。大家是怎么搜pod wise？我们发现大家搜的很多的是pod wise，怎么用pod wise是什么？再就是一个什么pod wise语音转文字等等这一系列的会有这些东西。但是其实我发现并没有针对性的文章，所以我就发了一篇说我就在小红书里面用我们官方账号发了一篇，说我找一下这个内容，能提出名字还挺那个什么的名字是我觉得挺经典的，小红书的，小红书的那个语气，然后那一篇就火了。
-</p>
-<p class="transcript-line">
-<span class="time"><strong>[00:22:03]</strong> </span>
-<span class="speaker"><strong>发言人2: </strong></span>
-找小红书的语气谁懂，家人们。
-</p>
-<p class="transcript-line">
-<span class="time"><strong>[00:22:07]</strong> </span>
-<span class="speaker"><strong>发言人3: </strong></span>
-对对对，然后我就发了一篇说我真的哭死，这么用心做的APP值得被看见。对，然后就这样一篇就火了。对，然后七号的时候就靠这一篇了，然后这一篇现在的点赞有七百多个点赞。再后来就又发了一个比较火的，就是人人都能学会，手把手教你用podd wise。然后这个就是包括怎么用，对，就是针对的这个名词。对。
-</p>
-<p class="transcript-line">
-<span class="time"><strong>[00:22:32]</strong> </span>
-<span class="speaker"><strong>发言人3: </strong></span>
-所以说在整个的这个生态里面，实际上就是要靠这样的长尾的关键词。你不光可以在ICEO里面做关键词，然后同时你也可以在小红书，在redit里面去做这样的关键词。因为其实redit里面会有很多人搜索，我们最近也是在蹭别人。有很多人会搜索red，可能会搜索说step VS谁谁谁versus谁。然后我们就蹭说比如说senate v versus pod s对，然后就会有很多人搜到他想找snapped alternative的时候，他就会找到PODOIS。
-</p>
-<p class="transcript-line">
-<span class="time"><strong>[00:23:05]</strong> </span>
-<span class="speaker"><strong>发言人3: </strong></span>
-我们总结了大概三点比较有效的。第一点是互动，人为制造formal。然后第二点是回复一些有营养的内容。然后第三点是能够去抓一些长尾的一些流量。长尾阶段对于像我们这种小产品其实还是蛮重要的对如果你是一个大产品，你可能不太关心这些常委。对于我们这些小产品，如果你有长尾流量不断的去攒去堆，其实你最终的你的就是你的流量也好，最终你的转化的金额也好，会越来越高。对。
-</p>
-<p class="transcript-line">
-<span class="time"><strong>[00:23:33]</strong> </span>
-<span class="speaker"><strong>发言人1: </strong></span>
-因为我听的时候觉得说到这些其实是settle里的总结。但其实就是我也觉得他背后营销的一些方法论是相通的。比如我你说的时候我的一些感受，一个是你说你们去和slip去抱他大腿，蹭他关键词。这个其实是非常经典的一个营销办法，甚至大家会用二分法，是什么意思呢？就是比如当年我们做聚美的时候，那个时候京东非常火，所以我们就尝试去定义说男人用京东，女人用聚美，就是让那些还不知道聚美的人，尤其是女孩子觉得这个是什么，就勾起强烈的好奇。
-</p>
-<p class="transcript-line">
-<span class="time"><strong>[00:24:11]</strong> </span>
-<span class="speaker"><strong>发言人1: </strong></span>
-然后一开始你提到的这个用formal情绪，但其实我会有不同视角的理解。因为我自己认为，我们做营销还是尽量要从正面情绪去入手。如果从负面情绪去入手，到最后很可能会伤到自己或者伤到品牌。其实你刚才说那些事情，我如果从另外一个角度去解读它，我会认为他其实还是在通过提供价值，让用户愿意主动的来去参与。因为本质上你举的例子或者出海去举的例子，都是你们在提供一个稀缺的价值。这个价值是大家想要，而且甚至值得付出一点努力去获取的。
-</p>
-<p class="transcript-line">
-<span class="time"><strong>[00:24:45]</strong> </span>
-<span class="speaker"><strong>发言人1: </strong></span>
-整个听下来，我觉得你们非常善于用内容营销的手段。不管是做书还是去评论，这些其实说来说去都是内容营销。而且到现在为止，我听起来好像你们没有花一分钱去做投放。对，我们没有什么投放，都是自己在做内容，做互动，做社区的方法。这个还是挺了不起的。
-</p>
-<p class="transcript-line">
-<span class="time"><strong>[00:25:05]</strong> </span>
-<span class="speaker"><strong>发言人3: </strong></span>
-主要我们也没钱。对，其实我觉得有一点是我们自己在做power wise的时候，有一期，就是因为我们经常会看我们自己社区里面的热门内容，然后有一期就是潘乱老师他的那个乱翻书，然后有一期突然上了我们的热门了。对，然后我在那个热门里面就发现了一句我觉得特别有意义的。
-</p>
-<p class="transcript-line">
-<span class="time"><strong>[00:25:26]</strong> </span>
-<span class="speaker"><strong>发言人3: </strong></span>
-我现在经常会跟别人去讲，他就讲了一句，他说用户最爱转发的内容就是第一个是喜闻乐见，然后第二个是感同身受，第三个是对我有用。对，然后这个是我在pot west里面的京剧里面去出来的。我是觉得如果你这个人你要做到大火，你可能要喜闻乐见，你要做到中火，你可能要经常的去让别人感同身受。对，但是像我们这种你可能做不到这样的人设等等这些东西你可能都做不到的情况下，你就坚持做对我有用，你也能想。然后我现在在营销的所有内容里面，几乎都是在做对我有用的内容。因为其实喜闻乐见跟感同身受是要抓情绪的对，然后这件事儿其实不是每个人都能做的。然后对我有用这件事儿其实在各个平台里面涨粉是非常有效的一件事儿，尤其是你做专业内容对我有用，其实就是你做到10万以内应该都能做得到。
-</p>
-<p class="transcript-line">
-<span class="time"><strong>[00:26:23]</strong> </span>
-<span class="speaker"><strong>发言人2: </strong></span>
-必须回到书的那个书里面的问题。书里面提到这个关于大模型必须知道的五件事儿。
-</p>
-<p class="transcript-line">
-<span class="time"><strong>[00:26:28]</strong> </span>
-<span class="speaker"><strong>发言人3: </strong></span>
-第一个是我们讲说AI应用的，今天的这种模式跟以前互联网应用的高流量大并发是有很大不一样的。然后第二点是其实大家要明确类似AI应用这样的东西，它的一次回答率其实是不是特别好的。对，就是大家要明白它的边界在哪里。比如说今天rapped r one，今天AIP其实都翻车了。翻车原因就是他一次的回答成功率其实不是很高。但是其实一次回答成功率不高的情况下，三次成功率可能就99%了。
-</p>
-<p class="transcript-line">
-<span class="time"><strong>[00:26:59]</strong> </span>
-<span class="speaker"><strong>发言人3: </strong></span>
-对，这是一个概率问题。所以说如果你有多次的情况下，它可能效果就会比较好。但是其实当下没有人能够判断他哪一次效果好，只有人能判断。
-</p>
-<p class="transcript-line">
-<span class="time"><strong>[00:27:09]</strong> </span>
-<span class="speaker"><strong>发言人3: </strong></span>
-然后第三个就是其实IOM其实它不是它的输出不是很稳定，所以你要做一些防御式编程，然后把它的输出给它校对稳定。对，但是你只能校对它的格式也好，因为你做这样的产品，你必须要格式稳定等等一系列的编排稳定，排版稳定。对，但是你其实很难做到你的内容，就是你输出的那个内容是不是稳定。所以说我们透过总结把他的temperature调成0，这样子让他的总结的结果变得稳定。
-</p>
-<p class="transcript-line">
-<span class="time"><strong>[00:27:36]</strong> </span>
-<span class="speaker"><strong>发言人3: </strong></span>
-第四个是我们刚才讲过的成本问题，就是你必须要考虑成本。因为今天AI应用是一定有成本。然后第五个就是其实今天AI应用除了它不像我们之前的那个应用之外，其实它也能做一些犯病行的一件事。
-</p>
-<p class="transcript-line">
-<span class="time"><strong>[00:27:50]</strong> </span>
-<span class="speaker"><strong>发言人3: </strong></span>
-就比如说今天我们去做总结的时候，很多时候可能不同的人他可能做的总结的形式是说我把一篇文章直接给了ChatGPT，然后让他去做总结。但其实你可以把那个总结做分段总结。很多人做分段总结还是串行分段总结，我一篇丢给他，然后他回来再一篇丢给他他回来这是创新总结。创新总结的话，他其实就是他的那个成本就很高，就是他的那个。响应时间就很长。对你要不断的等AI的反馈。
-</p>
-<p class="transcript-line">
-<span class="time"><strong>[00:28:19]</strong> </span>
-<span class="speaker"><strong>发言人3: </strong></span>
-所以说你其实在这个过程里面，你可以考虑一下你的产品里面是不是适合做一些并行AI总结。因为今天OpenAI它有它的并行能力。如果你去做并行总结的话，那你的响应时间会比别人低很多。这是不同于传统的那种互联网高频、高流量大并发的这种总结形式。今天对于AI来讲，其实也有他自己的总结模式，我觉得这件事是一个很不一样的。大概就这五点。
-</p>
-<p class="transcript-line">
-<span class="time"><strong>[00:28:46]</strong> </span>
-<span class="speaker"><strong>发言人1: </strong></span>
-找pod vice的这个灵感的过程，可以分享一下这中间的故事吗？因为你们书里面的第一部分其实就是如何找到一个PMF的灵感。
-</p>
-<p class="transcript-line">
-<span class="time"><strong>[00:28:55]</strong> </span>
-<span class="speaker"><strong>发言人3: </strong></span>
-其实这个过程挺奇妙的。就是因为我刚才有讲过我们的这个路径，就是我们在做这个硬币骇客的这个博客的时候，我们前面十几期都是我们自己在那儿嘚啵嘚。然后突然我们就发现了一个问题，我们就想着说我们做播客这个节目，最终也是要考虑去变现的。因为我们自己在教别人说你要拥有一个小生意，你要去考虑这件事对然后我们就当时就在考虑这件事儿的时候，我们就在想说，我们到底要怎么变现？那变现的路径无非说你做博客，你做广告，对吧？其实博客的广告其实现在不是特别理想，对这个市场其实并没有想象中的那么好。后来我们就想说，要不然去迈克，那迈克的话就牵扯到一个很尴尬的问题，我们自己没有产品，然后我们再教别人怎么做独立开发，我们自己没有独立开发的产品。对，后来倒吧倒吧就想过来想过去，最终就决定说还是要去做一个产品。
-</p>
-<p class="transcript-line">
-<span class="time"><strong>[00:29:51]</strong> </span>
-<span class="speaker"><strong>发言人3: </strong></span>
-然后做产品的话，我们其实之间就想了几个主题，其中有几个我可以给大家分享一下。有一个是做AI剪辑，就是今天解决像我们这样的播客主不好解的问题。然后最终我们放掉了，考虑了一下，考虑了几件事儿，我觉得这个事儿可能不太能做。第一件事是剪辑的链条特别长，你得有片头，你得有片尾。然后你要做剪辑的话，你不能只做一个单纯的说我做文字剪辑的那个剪辑。
-</p>
-<p class="transcript-line">
-<span class="time"><strong>[00:30:20]</strong> </span>
-<span class="speaker"><strong>发言人3: </strong></span>
-就是我我把语音转成文字，我剪文字的剪辑这个事儿是不能达到一条龙出货的，你就又要得调音，干嘛的一大堆。这件事我们觉得说我们自己做不好，而且真正要把这个事儿做好的话，它的时长会很长。比如说我们现在做pot wise，我们可能一两个月就做出来了，就上线了。但是如果我要做AI剪辑的话，可能没有六个月是做不出来的。对它周期很长，它而且你没法做MVP，就是你很难把这个事儿变成一个MVP说我上线，因为大家其实都用不起来。
-</p>
-<p class="transcript-line">
-<span class="time"><strong>[00:30:51]</strong> </span>
-<span class="speaker"><strong>发言人3: </strong></span>
-对，然后再加上当时其实我们也碰到一些，像最近有拿到融资的podcasts，还有一些像包括比那个时候也在做AI剪辑。但是adobe其实放了一个很大的空炮。对，他除了有addition之外，adobe自己现在有一个podcast点，adobe点com他放了一个很大的空炮，这个站很早就有了。然后也放出来一个很大的怎么剪辑的一个视频，很早就有了，今天也没退出。
-</p>
-<p class="transcript-line">
-<span class="time"><strong>[00:31:18]</strong> </span>
-<span class="speaker"><strong>发言人3: </strong></span>
-对，但是我们在那个节点里面就去判断说这个事儿可能未来竞争会很激烈。而且像我们今天在用的river side，它其实现在已经有完整的剪辑流程。对，他其实从播客的录制到制作到剪辑，到最终产生show notes全部都能给你做。他把整个播客to b的就to主主主理人的这一端已经全部做完了。而且pod castle其实跟report set是竞对关系，他也从前到后全做完了。
-</p>
-<p class="transcript-line">
-<span class="time"><strong>[00:31:48]</strong> </span>
-<span class="speaker"><strong>发言人3: </strong></span>
-所以说我们也比较庆幸当时没有选这个赛道去做。如果去选的话，我觉得今天如果不拿钱是做不起来的，不可能做起来。然后今天我也有试用了国内的，包括小宇宙，包括喜马拉雅，包括国内的一些创业小团队。然后做的这些产品都达不到我今天剪辑的要求。所以没办法，我今天还是在用rapper去剪辑。所以说这件事儿是我们当时为什么没有选去做对，但是当时我们就选了一，为什么要去选power SE？
-</p>
-<p class="transcript-line">
-<span class="time"><strong>[00:32:18]</strong> </span>
-<span class="speaker"><strong>发言人3: </strong></span>
-其实也是个也也是一个很奇妙的一件事儿，就是我们团队里面的一笑，他老婆他很喜欢去听得到里边的课，但是听得到的话他就要记笔记，但是得到是音频的，没有笔记。当然有些得到的课背后会加一些笔记，对他会有一些有一定的笔记，但是可能会有很多得到的课里面没有笔记。当时一校没有太了解清楚，他就以为说这个事儿是podcast。那我们就商量说，其实podcast是大家可以全网拉到RSS的。因为RSS其实podcast RS是大家都在公开发布的对，所以所有人都能拉得到。然后你就去捞echo podcast里面的这东西就可以。
-</p>
-<p class="transcript-line">
-<span class="time"><strong>[00:33:00]</strong> </span>
-<span class="speaker"><strong>发言人3: </strong></span>
-当时我们就考虑说，他都喜欢用，他又是女生对吧？女生有有做笔记干嘛的这些需求。其实我自己也有，因为我自己会听很多，像最早的前面我会听风投圈，然后会有很多海外的那些投资的博客，可能我也会去听，就类似于这样的对。所以说当时我们就阴差阳错的觉得说还是应该做一个女性愿意用的一个产品。对。
-</p>
-<p class="transcript-line">
-<span class="time"><strong>[00:33:26]</strong> </span>
-<span class="speaker"><strong>发言人3: </strong></span>
-然后因为我们自己去排序做to c的情况下，一定是女性大于小孩，大于老人，大于宠物，然后再大于男人。男人的男人里面再细分一下，就是像我们这种程序员。因为我们这种程序员是极其理性的。我们觉得说自己没有这样的能力去赚程序员的钱。
-</p>
-<p class="transcript-line">
-<span class="time"><strong>[00:33:45]</strong> </span>
-<span class="speaker"><strong>发言人3: </strong></span>
-其实对我们来讲，如果我们讲说从社区出发，其实我们就应该做一个程序员的对，因为我们自己就是从这个社区里面来的对。但其实最终我们没有选这个产品的原因是我们觉得说我们没有能力赚程序员的钱，因为程序员的钱非常难。所以说在这个过程里边，我们最终就选择了去做podcast。
-</p>
-<p class="transcript-line">
-<span class="time"><strong>[00:34:03]</strong> </span>
-<span class="speaker"><strong>发言人3: </strong></span>
-其实阴差阳错，我们后来在做的过程里面才发现的，得到内容我们是拉不到的，因为得到内容是付费内容。对，但是其实不影响在podcast里面其实有大量的优质内容是可以帮大家去学习的。包括他老婆其实现在也是我们的忠实用户。还有包括其实今天在小红书上自发帮我们宣传的，很多都是这样的女性用户。对他们可能在家里在听播客的过程里面，听到了很多很有意思的知识性的博客，想去做笔记，想去记录。还有很多就是像他们喜欢做健身，喜欢做营养的这些人，他可能会去听很多海外的hubbert，其实就是一个类似营养学的身心健康的一个博客，还有很多干货内容。对，很多人可能会去听这些东西，然后最终去反向记录一下笔记干嘛的。其实我们有很多这样的女性户，我们整个产品的女性用户是远远大于男性用户的对，所以说我觉得这也是我们阴差阳错感觉做对了的一件事儿。对，其实这个里面有很多运气成分在那。
-</p>
-<p class="transcript-line">
-<span class="time"><strong>[00:35:02]</strong> </span>
-<span class="speaker"><strong>发言人1: </strong></span>
-所以一开始其实这个事儿我理解他其实灵感出现的还是蛮完整的。就是你们因为做了播客，然后要说服别人你们是厉害的印第harker，你们就要自己做个产品，然后就是想我到底要做啥产品。但其实你们真的要投入开发这个产品，前面还是要花不少的时间精力和成本的那就是是什么时候让你们下定决心，觉得这个事儿值得干呢？我理解应该也不是说一校的老婆他自己是用户，你们就能够就下了这个决心。有没有更进一步的去找这个PMF的当时的那个关键时刻。对。
-</p>
-<p class="transcript-line">
-<span class="time"><strong>[00:35:38]</strong> </span>
-<span class="speaker"><strong>发言人3: </strong></span>
-关键时刻前后顺序是这样的，是我们做了十几期之后，我们觉得说不能用爱发电。因为我们一直在节目里面去教别人说，做什么事情都不要用爱发电，因为用爱发电这件事不长久。所以说我们现在考虑说播客这个形式到底应该怎么盈利。那有几种盈利方式？比如说像很多人他可能会去办留学，这是现在很火的一种？还有很多人可能会去在做线下班线下开课？还有就是接广告，就这几种。
-</p>
-<p class="transcript-line">
-<span class="time"><strong>[00:36:07]</strong> </span>
-<span class="speaker"><strong>发言人3: </strong></span>
-但以当时我们的体量，我们当时其实大概只有三千粉丝，其实做啥都不行。对，最多就是接接广告。但接广告其实当下那件事里面不是太稳定，我们就想着说要不然去麦克，那就只能去麦克了。麦克的话我们当前没有test marial，就是没有别人的一个实证，你自己也没有证务。其实把我们自己逼到了一定要去做产品这条路。
-</p>
-<p class="transcript-line">
-<span class="time"><strong>[00:36:27]</strong> </span>
-<span class="speaker"><strong>发言人3: </strong></span>
-所以在做产品的过程中，我们又在我们的飞书里面，我们自己内部有一个小飞书了。在飞书里面拍了一个脑暴的一个表格，每个人都写几个。然后在这个脑暴表格里面，大家在思考的过程里面，才出现了一小他老婆想去听播客这件事儿。然后再加上我们自己其实就是在做过客。我们一想说这件事好像又跟我们的社区相关了。然后做完之后我们就能干的一件事儿是什么呢？就是我们可以用自己的博客去宣传自己的产品，就闭环了。
-</p>
-<p class="transcript-line">
-<span class="time"><strong>[00:37:01]</strong> </span>
-<span class="speaker"><strong>发言人3: </strong></span>
-因为听我们播客的人一定是听播客的人群，听播客的人群里面就有可能转化pod wise的用户。出完这个产品之后，我们每一期播客的广告都是pod vise。在我们发完我们的pod vse之后，我们就紧急又出了一期专门去。做广告给别人讲pod OS是什么？为什么要做todos？然后那一期节目其实也是挺火的对，然后就这不断的宣传过程里面，其实起了我们大概第一批用户。
-</p>
-<p class="transcript-line">
-<span class="time"><strong>[00:37:27]</strong> </span>
-<span class="speaker"><strong>发言人3: </strong></span>
-然后再一个就是我们后续在包括极客，小红书各个地方再去做宣传，对，这样子才过来的对，然后这个PMS的话，我觉得其实很核心的是有几个小点，我觉得可以给大家讲一下。就是我们为什么觉得这个事儿能做的一个很重要的一点是我们在极客上面发现很多投资人是snap的用户，很多投资人是slim的用户。但是当时我们有这个idea的时候，其实大家我们也不知道slim，我们其实根本不知道这件事儿。对然后后来当有当我们有了这个idea之后，我们就去极客、小红书各个地方去搜索一下。我们就发现说有人在提这个snap但是snap的其实他没有中文博客，他搞不了中文，他只能搞英文的。然后他搞应用的过程里面，其实阿里面的outline的结果也好，然后他的所谓的转录的结果也好，其实大家有很多评价就不是那么的佳，不是那么的好。
-</p>
-<p class="transcript-line">
-<span class="time"><strong>[00:38:25]</strong> </span>
-<span class="speaker"><strong>发言人3: </strong></span>
-然后还有一点是很多人在抱怨snap的其实做笔记并不是很方便。因为snap的做笔记的方式是透过点耳朵，点耳机。然后点几下它就会帮你stepped到那一节，然后帮你发到notion也好，干嘛也好，它是这样的笔记方式。但是其实他没有PC端，然后我们就发现很多人在抱怨就是他没有PC端。其实不是一个很好的做笔记的一个媒介。所以我们思来想去就做了一个这样的产品。但是我们的产品其实是从PC端开始的对，但从PC端开始，其实因为PC端有这样屏幕大的这样一个优势。
-</p>
-<p class="transcript-line">
-<span class="time"><strong>[00:39:01]</strong> </span>
-<span class="speaker"><strong>发言人3: </strong></span>
-所以其实我们最核心的优势跟snap有一个巨大的不同。就是我们的老图是用户非常喜欢的对。因为脑图其实是知识的一个结构，其实大家已经在用你的产品想去获取知识了。如果你再有结构的话，其实这件事是很好的一个东西。所以说其实我们一开始的这个脑图是让我们得到大家很多的赞许的，或者说大家认可的对，所以这个我觉得是一个过程。
-</p>
-<p class="transcript-line">
-<span class="time"><strong>[00:39:26]</strong> </span>
-<span class="speaker"><strong>发言人1: </strong></span>
-其实看你们做pod vice三个人他们slipped做到今天的规模。四个人其实今天的团队越来越小，包括你们一直在倡导的独立开发者。然后十字路口其实有一系列的内容在关注AI时代的产品经理。比如我们聊了之前被誉为AI顶级产品经理的had cloud，然后同时我们还有一些正在准备请到某宇宙大厂的AI产品负责人，他自己主动找过来，他说他最近面了五十多位快100位AI产品的候选人，然后他有非常多的心得想和大家分享。所以我们在积极的想要关注在AI时代产品经理应该怎么行动。所以想听一听从你的角度会怎么看。因为the hacker是不是不需要产品经理了，或者说indie hacker在什么情况下需要产品经理？产品经理要培养自己哪方面的技能才能被印第hacker们看得上。
-</p>
-<p class="transcript-line">
-<span class="time"><strong>[00:40:15]</strong> </span>
-<span class="speaker"><strong>发言人3: </strong></span>
-其实我觉得不是印第安O不需要产品清理，而是本身就必须是产品经理。如果你不是产品经理的话，你的这件事一定做不起来。对，就是你得知道你的产品面向的是谁，今天产品经理关心的所有事情，一年二月都得关。对，只不过今天可能我们不是必须的说产品经理画个图我去怎么去实现，我们可能把这一步省略掉了，但是那个脑子里面的所有内容其实都得有你得知道你的产品面向什么用户，然后你要打什么客，对，这些事你都得知道。
-</p>
-<p class="transcript-line">
-<span class="time"><strong>[00:40:48]</strong> </span>
-<span class="speaker"><strong>发言人2: </strong></span>
-所以能不能理解为其实这个是一个反过来的，就是过去大家想象的一个团队是产品经理、工程师，现在反而是反过来。
-</p>
-<p class="transcript-line">
-<span class="time"><strong>[00:40:57]</strong> </span>
-<span class="speaker"><strong>发言人3: </strong></span>
-其实还有包括营销的能力也得结合。其实今天我们讲独立开发者，讲印地骇客，其实就是讲说这个人是一个挺综合的能力。或者说你组了一个小团队，这个小团队里边其实大家的能力大家的能力相互之间是挺综合的，然后大家相互之间可以互补。但是其实我今天也有看到一些团队是有专门的产品经理在做这样的事儿。但是对于你想做独立，你就想做一个人的话，那么你必须得有产品经理。对，就是你自己必须就得是产品经理。我觉得这件事儿里面是大家都得去抓的一个点。
-</p>
-<p class="transcript-line">
-<span class="time"><strong>[00:41:32]</strong> </span>
-<span class="speaker"><strong>发言人3: </strong></span>
-对，还有一个点是我觉得今天想给很多做AI的同学，然后我其实特别想提一点，就是做AI产品的这个产品，它首先得是一个产品。我不知道这句话大家能不能理解，就是这个产品本身得先是一个产品，是什么意思呢？就是你在做pod wise这个产品对吗？那pod s这个产品首先它得是一个产品，然后其次才是A但我们现在今天很多人可能他就是在做AI套。AI套了AI之后，反过来说我这个AI应用在哪个上面，然后让他看起来有点用。这个是反过来的，就是我觉得这个逻辑是不对的对，就是你必须得先考虑你解决什么问题，然后再把这个问题背后叠加上AI的能力，让它解决的更好。或者说解决一个以前要靠大量人力才能解决的一个事儿。然后今天你通过AI然后你自己可以做了。对，但是首先你得先解决实际问题。
-</p>
-<p class="transcript-line">
-<span class="time"><strong>[00:42:30]</strong> </span>
-<span class="speaker"><strong>发言人2: </strong></span>
-对，我们接下来到第二部分，就是我们想用想通过你们也聊一聊对独立开发者这个团这个人群的观察跟分析。因为我们其实自己也感觉到有越来越多这样子的人。从你们的角度就是你们观察这些独立开发者的画像是什么样子的，就是他们一个大概的一个普遍的一个状态。然后你们跟他们聊天的这个社区的氛围大概都是什么样？
-</p>
-<p class="transcript-line">
-<span class="time"><strong>[00:42:57]</strong> </span>
-<span class="speaker"><strong>发言人3: </strong></span>
-首先其实我自己的观察，其实这个人群观望的很多，行动的没有那么多。你可以发现听我们节目的人很多，但是真正手头有产品的人没有那么多。对，这是我我认为是一个当下的一个现状的对，但是我觉得很多人可能在观望，或者说很多人可能他觉得自己欠缺某一部分能力，他可能不太好动手。所以说我觉得当下我我我自己认为是一个这样的情况。然后第二个是我觉得当下这个群体里面，99%是不够温饱的状态，然后可能有0.1%的人是过得比较好的。
-</p>
-<p class="transcript-line">
-<span class="time"><strong>[00:43:37]</strong> </span>
-<span class="speaker"><strong>发言人1: </strong></span>
-就据你所知，目前中国最赚钱的独立开发者一年能够有多少收入？
-</p>
-<p class="transcript-line">
-<span class="time"><strong>[00:43:42]</strong> </span>
-<span class="speaker"><strong>发言人3: </strong></span>
-他可能不是单纯你一个人了，他是有一个小团队的那种。然后现在国内有很多这样的工作室，工作室的收入都在千万以上，是做的很好的对。但这些工作室的团队你们可能也能感觉到，就是很多以前做移动互联网出来的很多这样的团队。对，然后还有很多现在做AI的也起来一波。对，但是他们的收入可能没有之前的那一波的人高。对，那就不包括现在的一些什么office等等这些人。因为这些人是最近刚起来的，然后他们也不算是独立开发的团队，因为他们已经拿到钱了，拿到融资了。对，其实大部分人其实大家都首先绝大部分人都是没怎么赚钱的。其次有大概0.9%的人可能是够温饱的对，然后有0.1%的人是活的比较舒服的。
-</p>
-<p class="transcript-line">
-<span class="time"><strong>[00:44:27]</strong> </span>
-<span class="speaker"><strong>发言人1: </strong></span>
-你刚才提到焦虑与自由这两个关键词，可不可以感性的来描述一下这个群体的状态，就是从这个角度能不能分享一下。
-</p>
-<p class="transcript-line">
-<span class="time"><strong>[00:44:36]</strong> </span>
-<span class="speaker"><strong>发言人3: </strong></span>
-其实我觉得大部分的人，由于大家之前可能没有积蓄也好，或者说没有一部分的固定的收入支撑也好。大部分人可能在包括被裁也好，包括自己想gap也好，可能在半年到一年之内都会回工作岗。大部分对然后很多人最终会在工作岗位上面，他可能怀揣着这样一个梦，可能会做3 project。
-</p>
-<p class="transcript-line">
-<span class="time"><strong>[00:45:02]</strong> </span>
-<span class="speaker"><strong>发言人3: </strong></span>
-对，因为其实没有收入是很焦虑的一件事，尤其是当你有家庭的情况下是非常焦虑的。因为有可能家庭的收入你是占大头，对，然后你被裁了。然后如果你去做独立开发者，其实独立开发见效没有那么快，我们其实现在也没有那么赚钱。所以说在这个过程里面，其实大部分人最终都是会回到工作岗位。对我觉得这是一个必然。因为如果独立开发者大家都这么赚钱的话，其实是不正常的。
-</p>
-<p class="transcript-line">
-<span class="time"><strong>[00:45:33]</strong> </span>
-<span class="speaker"><strong>发言人1: </strong></span>
-你看到的就是做的好的故事，他是怎么做的，然后大家可以从这些榜样。
-</p>
-<p class="transcript-line">
-<span class="time"><strong>[00:45:38]</strong> </span>
-<span class="speaker"><strong>发言人3: </strong></span>
-的身上找到力量。OK我可以分享一下我们上一期上首页的欧文的故事，沉浸式翻译欧文的故事，他的过程是挺妙的一件事儿。就是欧文其实已经在家干了三年了，在第三年的时候才火。
-</p>
-<p class="transcript-line">
-<span class="time"><strong>[00:45:52]</strong> </span>
-<span class="speaker"><strong>发言人3: </strong></span>
-我觉得欧文有一个点，就是他自己之前因为是在腾讯做工作的对，所以他在腾讯的过程里面，他三年时间攒了一部分钱。到惠州之后，他的整个房租，生活成本就压的很低。他就在这个阶段里边，一边充实自己，一边在做独立开发。对他其实前面几个产品都不是那么成功，直到做了整体式翻译。然后神经翻译在做了大概半年左右的时候，其实是被收购了。然后他自己现在也在晨间翻译团队里边持续在做，然后他靠晨间翻译这一个产品赚了很多钱。对，七位数以上。
-</p>
-<p class="transcript-line">
-<span class="time"><strong>[00:46:31]</strong> </span>
-<span class="speaker"><strong>发言人3: </strong></span>
-我觉得有挺多挺有意思的一些团队，就比如说我们其实在很早以前还聊过一期道格。道哥其实也很有意思，就是他是做极简时钟的。我不知道你们有没有听过这个APP，他做极简时钟就是在手机上面可以展示一个时钟的模样。然后这个模样里面，比如说你在录的时候，然后你就把手机搭在那儿，然后他就给你一个倒计时，就类似于这种。然后他是很早以前自己好像就辞职了，去做这样的极简时钟。
-</p>
-<p class="transcript-line">
-<span class="time"><strong>[00:47:03]</strong> </span>
-<span class="speaker"><strong>发言人3: </strong></span>
-然后他做了之后是经过了小红书，还有就是微博，然后还有好像还有B站的一系列的这样的转发之后，然后就火了。火了之后现在每年也有几十万的营收。对，就是吃了很多年了。其实像这种极简时钟本身也没有太多的功能要做，可能更多的就是他要不断的去开发皮肤，让大家去买皮肤。对，就跟手表上面的皮肤一样，只不过他的皮肤可能是要付费。对嗯，然后就在做这样的生意，然后这个生意其实也持续了很多年，其实他自己也蛮自由的一个状态。对，但他现在可能有点焦虑，因为他这个流量高峰在不断下滑，可能稍微有点焦虑，他自己也在做第二个第三个产品。对，因为毕竟所有产品都在都有生命周期。
-</p>
-<p class="transcript-line">
-<span class="time"><strong>[00:47:50]</strong> </span>
-<span class="speaker"><strong>发言人1: </strong></span>
-对，焦虑也是自然的，人生就是一场不停的战斗。你觉得独立开发者身上没有一些就他们共同的，比如说性格特点。
-</p>
-<p class="transcript-line">
-<span class="time"><strong>[00:48:00]</strong> </span>
-<span class="speaker"><strong>发言人3: </strong></span>
-我现在接触的独立开发者还是什么人都有，就是有一些是那种很积极行动的，属于什么时候有机会之后他立马冲上去，这种人也有。还有就是像欧文那种，属于就是我就是做我自己想做的，然后我也成了对然后那种积极行动的人，他可能就是冲上去做了一件这个事儿，他也成了都有。对，这个群体它不是一个有那种类似于众生相一样的，说大家好像都是这样的人都是一个感觉默不作声的，然后每天在那里写代码的，然后一个比较挨着这样一个人，就不是这样的。其实这个群体里面各种人也很多，所以说我们经常去邀请的时候，很多人，他接到我们的邀请之后，他一口就答应了，然后还特别高兴。但有些人就我们给他发了邀请之后，他就有点犹豫，然后有些人可能就直接拒绝，其实各种各样的人群都有。
-</p>
-<p class="transcript-line">
-<span class="time"><strong>[00:48:57]</strong> </span>
-<span class="speaker"><strong>发言人1: </strong></span>
-对，你观察到的独立开发者有多少是原来就是工程师，有多少是决定做独立开发者，然后从头开始学编程。
-</p>
-<p class="transcript-line">
-<span class="time"><strong>[00:49:05]</strong> </span>
-<span class="speaker"><strong>发言人3: </strong></span>
-我认识就是我接触到的人里面绝大部分都是工程师绝大部分都是工程师。然后有一小部分人是以前做设计的。其实我觉得做设计的人做独立开发有一个很大的优势。其实现在尤其是大家用这种小产品就是美。我一直在讲一句话，美就是第一生产力。然后如果他能够把这个产品设计的很美很漂亮，然后用户体验很好，其实他就成功一大半。然后会有一些人现在利用x GPT的这种编程能力，copilot的这种编程能力，然后去做开发也好，干嘛也好。
-</p>
-<p class="transcript-line">
-<span class="time"><strong>[00:49:42]</strong> </span>
-<span class="speaker"><strong>发言人3: </strong></span>
-对，然后这部分是我觉得现在是有的。对，但是这部分人群不多，因为毕竟其实做程序开发还是需要有一点计算机背景的。你得知道说有些事情是怎么回事。对，但是绝大部分人其实都是从程序员，从工程师开始。
-</p>
-<p class="transcript-line">
-<span class="time"><strong>[00:49:59]</strong> </span>
-<span class="speaker"><strong>发言人1: </strong></span>
-现在独立开发者是一个群体，就据你的观察，他们在成长过程中面对的最大的挑战是什么？有没有一些建议来帮他们克服这些关卡？
-</p>
-<p class="transcript-line">
-<span class="time"><strong>[00:50:09]</strong> </span>
-<span class="speaker"><strong>发言人3: </strong></span>
-我现在能感觉到的，我觉得有两个比较大的难关。第一个难关是大家找不对要做什么东西。很多时候我发现有些独立开发者做的那个产品，以我现在自己看啊，反正这是我自己个人的看法了。就是那个产品他做的那个产品我就觉得他一定不会成。你感觉不到说他自己到底在面对的客户是谁，他想赚的一分钱。甚至很多人他做的那个产品一上来是免费的。其实我觉得这部分就是找不到做什么这件事儿我觉得是非常痛苦的。
-</p>
-<p class="transcript-line">
-<span class="time"><strong>[00:50:42]</strong> </span>
-<span class="speaker"><strong>发言人3: </strong></span>
-还有第二件事，他找到了做什么，他不知道怎么宣传，这里我觉得更痛苦。也就说我找到了那些，就我觉得有些产品做的挺好的，但他就是宣传不出去。我有时候也挺心急的，有些时候这个时候我可能就会找他过来说要不要过来上我们一期节目。因为其实我挺看好那个产品的，但是他没有宣传出去。我有时候也会在twitter，在即刻会分享一些宣传的一些小手法。其实这就跟我们今天这本书一样。然后可能也会跟他说一下，说你其实应该这么去宣传，因为我觉得他产品确实挺好。
-</p>
-<p class="transcript-line">
-<span class="time"><strong>[00:51:15]</strong> </span>
-<span class="speaker"><strong>发言人1: </strong></span>
-其实你刚才描述的这两个困境都是PM和营销在传统的这个公司里面做的事情。现在是需要独立开发者他具备更多的技能了。这个确实是一个蛮高的要求，而且它其实有一点点腻。资本主义。因为资本主义其实就是让这个人术业有专攻，大家精细分工，然后共同一加一大于2 1加1加1大于3。所以其实这个事儿他是在追求更加的时间和身体的自由，但其实也给人更大的压力和挑战。所以其实好像说回来很多事情他都是一体两面的。
-</p>
-<p class="transcript-line">
-<span class="time"><strong>[00:51:50]</strong> </span>
-<span class="speaker"><strong>发言人3: </strong></span>
-对对对，是的。
-</p>
-<p class="transcript-line">
-<span class="time"><strong>[00:51:52]</strong> </span>
-<span class="speaker"><strong>发言人2: </strong></span>
-我自己的感觉是就像你刚刚说，可能很多人是一个观望的状态。我觉得这个叙事跟很多人想辞职躺平去做自媒体的这个背后的这个原理是一样的。我觉得我们东亚社会对于成功的定义相对来说比较单一。然后大家对于生活的要求跟身上的负担还是比较重。跟那种就是我经常刷到的那种什么在巴厘岛做digital roma的数字游民的那些就形成一个非常鲜明的对比。
-</p>
-<p class="transcript-line">
-<span class="time"><strong>[00:52:23]</strong> </span>
-<span class="speaker"><strong>发言人2: </strong></span>
-虽然已经有很多人尝试去做了，但是感觉还是我觉得可以理解，你说很多人是在一个观望的状态。然后另外就你刚刚提到的这几点，我觉得就是靠近说的。其实有一点像是把过去一个团队的事情，现在是一个人在做。然后这个人他就会需要就就需要他的能力非常强对。
-</p>
-<p class="transcript-line">
-<span class="time"><strong>[00:52:43]</strong> </span>
-<span class="speaker"><strong>发言人3: </strong></span>
-其实我们为什么今天能做这个事儿，是因为我们之前在创业的过程里面，其实我们三个人基本都是从后到前全干过。我们从开发、后端、前端、运维、销售，我们三个人其实都是售前。但只不过我们不是最终敲单的那个人，就是我们其实是要给客户讲说你这个产品到底怎么样。
-</p>
-<p class="transcript-line">
-<span class="time"><strong>[00:53:04]</strong> </span>
-<span class="speaker"><strong>发言人3: </strong></span>
-售前其实我们从一开始有公司开始一直在做对，还有包括我们在做PM对，我们三个人其实都是PM。所以说这些事情上面我们其实背后是有点经验了。所以说很多时候看到今天在新开始在做的这些独立开发者，他们在选择的这个路径、产品，然后还有包括他们的一些宣发手段，其实挺想帮一下他们的。其实最开始我们也是希望说能够帮助独立开发者把这个群体能不能让大家大家都赚到钱。我们其实口号也是说每个人都应该拥有一个小生意。对，就是让大家都有一些税后收入。对你说白了就是这样。
-</p>
-<p class="transcript-line">
-<span class="time"><strong>[00:53:42]</strong> </span>
-<span class="speaker"><strong>发言人1: </strong></span>
-你有提到你看到一些产品，你认为他们做的很好，但是他们还没有被大家看到。可不可以在这里也给他们宣传一下？
-</p>
-<p class="transcript-line">
-<span class="time"><strong>[00:53:49]</strong> </span>
-<span class="speaker"><strong>发言人3: </strong></span>
-我记得有两个产品，一个产品是现在的华为最近才刚开始推出的。但是之前其实已经有了，华为做了一个那种AI的做图片修图的。比如你照了一个张照片，背后有个人，然后你可以磨两下就把那个人去掉。这个在adobe上面是已经有的，但是AI华为的好像手机上面最近才有。但那个哥们儿是做了一个开源项目，还有大概两万个star应该是对。然后他同时也做了一个产品，但是他的产品其实并没有想象中的那么大卖。对，其实我还挺想帮他去宣传一下的，但是那哥们儿不太愿意上我们节目，他比较人比较腼腆，我邀约过他了。然后还有另外一个是我觉得他设计什么的做的都挺好的，但是也是没有宣传开，就是他做了一个图片压缩的一个工具。
-</p>
-<p class="transcript-line">
-<span class="time"><strong>[00:54:37]</strong> </span>
-<span class="speaker"><strong>发言人3: </strong></span>
-对，就是很多时候其实我们去发飞书可能没有你发discord或者去某些地方去上传图片的时候，大家可能都会有一个五照，或者几兆的一个上传的一个限制，你就上传不了了。对，但是现在其实麦克上面一截图随便就十几张、20张，还有手机上面你拍的照片随便就很大。所以说他做了那个东西，其实他设计，产品体验其实都挺好的。对，但是就是没有现场看。对，那其实就这些产品其实我觉得都是做的挺好的，就是有一定亮点的，而且有需求的对，如果没有宣传开，对我觉得这些东西其实都是我认为是可以卖钱的。
-</p>
-<p class="transcript-line">
-<span class="time"><strong>[00:55:11]</strong> </span>
-<span class="speaker"><strong>发言人3: </strong></span>
-但是就像很多别的产品，可能给程序员做的一个产品什么保存，我之前有见过成员做的团队里边保存配置信息等等的。就这些东西我可能一眼看上去觉得他肯定不会赚钱。因为我就是程序，我就觉得我觉得如果是我的话，我不会给他掏钱的，我自己一定会想办法不掏钱，我也把这个事儿解决了。
-</p>
-<p class="transcript-line">
-<span class="time"><strong>[00:55:34]</strong> </span>
-<span class="speaker"><strong>发言人2: </strong></span>
-对这些你觉得宣发做的不是宣传做的不是很好的，他们有什么共同的特点？
-</p>
-<p class="transcript-line">
-<span class="time"><strong>[00:55:40]</strong> </span>
-<span class="speaker"><strong>发言人3: </strong></span>
-共同特点其实我觉得尝试不够多，有很多人可能要不然就是在用同一种方式。比如说他可能就是觉得说我去推特上面涨粉丝，我去微博上面涨粉丝，对吧？他可能没有领悟到说我应该去大家发信息平权的地方去去去吧，要不然你被别人看不到。
-</p>
-<p class="transcript-line">
-<span class="time"><strong>[00:56:01]</strong> </span>
-<span class="speaker"><strong>发言人1: </strong></span>
-发信息平权的地方就指的是不是靠你的粉丝量来去决定你的这个影响力。对，而是在论坛只要你发了，你就会被大家看到，或者在极客小组或豆瓣小组。对对对。
-</p>
-<p class="transcript-line">
-<span class="time"><strong>[00:56:13]</strong> </span>
-<span class="speaker"><strong>发言人2: </strong></span>
-我自己感觉上他的一个宣传，所谓宣传其实它有一个转移。就是从过去可能大家会觉得我不需要宣传，我就什么酒香不怕巷子深。
-</p>
-<p class="transcript-line">
-<span class="time"><strong>[00:56:24]</strong> </span>
-<span class="speaker"><strong>发言人1: </strong></span>
-我从来不这么认为，或者可能也需要打广告。
-</p>
-<p class="transcript-line">
-<span class="time"><strong>[00:56:28]</strong> </span>
-<span class="speaker"><strong>发言人2: </strong></span>
-对，就是我前两天也是听到一个博客里面在说到，说这首先就是这个时代早就过去了。就是你做一个东西，你指望他这个口碑突然爆炸式增长，这个时代早就已经结束。然后其次是可能是一种借助其他比如说媒体传播的力量。但其实现在已经变成这个是不是也是在你的观察里面，一个独立开发者可能一个必须的能力，就是你得自己就做KOL。
-</p>
-<p class="transcript-line">
-<span class="time"><strong>[00:56:55]</strong> </span>
-<span class="speaker"><strong>发言人3: </strong></span>
-我就我自己现在就是在践行这一点，我想办法让自己变成那个KOI。对我觉得这一点是我认为是啊每一个独立开发者应该要做的。因为做KOL有几个点，我觉得是就就是我觉得是很大的一个优势。第一个点是我觉得你如果你自带流量，举个例子，今天你在极客有两万多粉丝，你今天做了一个AI的套壳你也会赚钱。这个事是我闭着眼睛想他也一定会赚钱的一件事。对，所以说如果你在有一定固定量粉丝的情况下，你的声量其实就是流量。你的流量就能够带来转化，只不过是转化比例的对，就是你能转化几单的问题，这个事儿是一定的对，然后还有一件事是当你有了这样的声量之后，你可以做几件事儿。
-</p>
-<p class="transcript-line">
-<span class="time"><strong>[00:57:46]</strong> </span>
-<span class="speaker"><strong>发言人3: </strong></span>
-第一件事儿是你可以快速宣发，就是你可以用你的粉丝当成第一波宣发。因为流量其实都是一波一波的，很少有那种流量是持续的。很多时候产品的增长都是一个尖峰一个尖峰一个尖峰不断顶上来的。然后后续的长尾在不断的跟上，类似这样子的一个形式在做的对。
-</p>
-<p class="transcript-line">
-<span class="time"><strong>[00:58:04]</strong> </span>
-<span class="speaker"><strong>发言人3: </strong></span>
-然后你这样的话你快速验证过后，你就可能会带来另外一个很优秀的点。就是比如说今天我有大概一两万个粉丝，然后我想说我想我要做一个这样的事情，我甚至已经做了MAP出来了，甚至我只做了一个wait list出来。可能我的粉丝就告诉我说这个事儿一定不能成，反正我不要，你就节约了很多快速试错的机会。你就不需要说我等到我一定MVP做出来了，然后我还没有那么广的人群，我要不断的先推广。推广完之后才知道说，原来有200个用户过来了，然后都流失了。
-</p>
-<p class="transcript-line">
-<span class="time"><strong>[00:58:36]</strong> </span>
-<span class="speaker"><strong>发言人3: </strong></span>
-你可能比如说你作为一个大V来讲，你可能喊一嗓子你就知道这个事成不成，有没有人买。对我觉得这件事是很不一样的。所以说我强烈建议大家要把自己经营成一个网红。而且我看到的海外比较成功的独立开发者，几乎自己都是网红。
-</p>
-<p class="transcript-line">
-<span class="time"><strong>[00:58:56]</strong> </span>
-<span class="speaker"><strong>发言人2: </strong></span>
-如果有一些特别让让在观望或者正在犹豫这个事情的独立开发者，有什么现在立刻马上可以做的事情，你有什么建议吗？就在这个方向上。
-</p>
-<p class="transcript-line">
-<span class="time"><strong>[00:59:09]</strong> </span>
-<span class="speaker"><strong>发言人3: </strong></span>
-我觉得自己先赶紧先输出内容，就想办法把一些对我有用的事情，当然对我用的事情你要就是你不能说我从别的地方抄一个，因为最终你人设会塌的，所以核心还是你自己本身有能力，然后你去给大家提供这样的对我有用的内容。然后对我有用的内容其实是很容易在各个以粉丝为大家的追求数量来讲的话，对于独立开发者来讲，它是很好衡量的，而且它是很容易增长的对，就对我有用的内容这件事是一定要开始要做的。
-</p>
-<p class="transcript-line">
-<span class="time"><strong>[00:59:42]</strong> </span>
-<span class="speaker"><strong>发言人3: </strong></span>
-然后第二件事是我觉得大家一定要抓住宣发的一个窍门，或者想办法去做build in public。因为在宣发的这个里面，尤其像个人宣发里面，其实所有人都有窥私欲。对，就是这个愧思域里面就包含说你到底是怎么做这个产品的，你做这个产品到底赚多少钱？对，你是怎么做营销的对，尤其是像做这个东西赚多少钱，这个话题是很吸粉的，这个东西在自媒体里面屡见不鲜了，其实我们只是去抄别人的而已。因为自媒体里面经常会说，我做这个自媒体赚多少8万等等之类的对。但其实在独立开发者领域里边，大家也应该做类似这样的尝试。而且独立开发者里边我不用讲说我赚了几101000个月。然后你讲这个大家也不信，对吧？
-</p>
-<p class="transcript-line">
-<span class="time"><strong>[01:00:34]</strong> </span>
-<span class="speaker"><strong>发言人3: </strong></span>
-你就讲说我在这个月里边我透过做什么事儿，然后我的MR我的AR增长了多少，你就讲这件事儿，然后你就讲说你的产品决策是怎么样子的。然后大家其实都愿意看这个经历。有时候很多人可能愿意看这个结果。就比如说这个人到底赚了这么多钱，他是怎么赚的？把这个经历再回看看，回看过后自己突然就有了动力了，他也行，我也行，对吧？就类似这样子，觉得反正佩斯这件事儿对照的就是building public。
-</p>
-<p class="transcript-line">
-<span class="time"><strong>[01:01:06]</strong> </span>
-<span class="speaker"><strong>发言人2: </strong></span>
-这里你讲的发布等于社区吗？
-</p>
-<p class="transcript-line">
-<span class="time"><strong>[01:01:09]</strong> </span>
-<span class="speaker"><strong>发言人3: </strong></span>
-其实是等于的，你可以等于。对，但是这个前提是什么？就是首先你在做产品的时候，你优先要跟你的社区要能够连接起来。就是你在做什么样的产品，你在什么地方去build in public。对。
-</p>
-<p class="transcript-line">
-<span class="time"><strong>[01:01:23]</strong> </span>
-<span class="speaker"><strong>发言人3: </strong></span>
-然后public里面如果你的社区的人对于你赚多少钱这件事尤其这样。其实我我是这么觉得，就是对于独立开发者来讲的话，如果别人不知道你赚多少钱，你又是一个没什么名气的人，大家其实还挺害怕你这个产品没了的。比如说我投入了很多时间，然后精力，搞了半天你这个产品没了，对吧？如果说你能在这个社区里面同时也去做be in public，你也告诉大家说我其实一直在增长。然后我再帮你们做什么样的产品，做什么样的功能。这些事全部都跟你们社区的用户讲了之后，其实大家也能够对你给予更大的支持。然后你的产品也能够越来越大，就是也能够越做越好。
-</p>
-<p class="transcript-line">
-<span class="time"><strong>[01:02:04]</strong> </span>
-<span class="speaker"><strong>发言人3: </strong></span>
-其实我这里有一个例子，我给大家分享一下。Public这件事儿有一个很经典的例子。有一个框架就是有一个以前外部的一个框架非常火，叫rials rose。这个框架其实从03年开始有了之后，大概到0607年的时候，他当时就已经比较火了。
-</p>
-<p class="transcript-line">
-<span class="time"><strong>[01:02:23]</strong> </span>
-<span class="speaker"><strong>发言人3: </strong></span>
-比较火了之后，然后当时reels里面就有一个论坛，论坛里面就会有很多人提问题说这个real的问题应该怎么解决。当时就有一个人叫ryan bets，他就干了一件事儿，就是他没日没夜的在里面去回复大家，说这个事儿应该怎么弄。但是他当时就发现了一个问题，就是他回复的那个过程里边，大家不一定能够一下就懂。所以他就干了一件事儿，就是他在回复的过程里边，他同时做了一个视频，花费的时间做了个视频。他的视频一开始就是大概1分钟到2分钟时间去录个屏等等之类的去做这样的事儿。然后后来他就持续不断的在做，然后做了大概有四年左右的时间，一直是用爱发电做了四年。就是去回复这样的短视频等等之类的。
-</p>
-<p class="transcript-line">
-<span class="time"><strong>[01:03:08]</strong> </span>
-<span class="speaker"><strong>发言人3: </strong></span>
-突然有一天他觉得说自己要把这个产品变成一个他他自己觉得说也有外界很多人鼓励了，就是让他把回复的这个视频的这部分内容，变成一个网站。然后他就做了一个网站叫做real costs。然后这个网站在译作出来之后，然后在rives社区里面就积极响应。
-</p>
-<p class="transcript-line">
-<span class="time"><strong>[01:03:27]</strong> </span>
-<span class="speaker"><strong>发言人3: </strong></span>
-因为大家知道说这个人原来就是那个经常回复我的人，他做了这个里面去之后，然后他就不断的在更新内容，也是在不断的在更新这个内容。在更新的内容过程之后，他就觉得说很多人在鼓励他他自己也觉得说好像不能一直用爱发电，我自己得有点正向反馈。然后他本来是一个月的时候会更新四期，他后来把它做成节目了，就一个月会更新四期。后来他在做了大概一两年这个网站之后，然后把这四期的节目里边同时又加上了两期付费，变成了两期pro的节目。然后他在做了一年的时候，他的整个AR就超过100万美金了。这个网站加了付费之后，一年的时间就超过100万美金了。它是一个非常好的一个在社区起步的一个例子，这个例子简直太经典了。
-</p>
-<p class="transcript-line">
-<span class="time"><strong>[01:04:16]</strong> </span>
-<span class="speaker"><strong>发言人2: </strong></span>
-感觉上他花了很多的时间先来建立这个信任。首先当然这个人的坚持，其次是我觉得这个信任感其实是他的护城河。你的产品面向的用户，其实你是要跟你的用户待在一起。
-</p>
-<p class="transcript-line">
-<span class="time"><strong>[01:04:29]</strong> </span>
-<span class="speaker"><strong>发言人3: </strong></span>
-对对对，是的。
-</p>
-<p class="transcript-line">
-<span class="time"><strong>[01:04:30]</strong> </span>
-<span class="speaker"><strong>发言人2: </strong></span>
-然后以前这个YC不是有一个故事，是两个创始人，应该是LBNB，两个创始人跟power ham说，我们在纽约增长的特别好，就是纽约的房东增长的特别好。然后包括他们说客户都在纽约，你们俩现在竟然在mountain view坐着，然后他俩立刻去纽约。
-</p>
-<p class="transcript-line">
-<span class="time"><strong>[01:04:51]</strong> </span>
-<span class="speaker"><strong>发言人3: </strong></span>
-对，就是跟用户待在一起。其实我觉得这件事儿挺重要的对，其实用户待在一起，大家可能很多人在讲说跟用户待在一起是你成了之后跟用户待在一起。但其实你成事之前有一个很好的一个策略，就是你先跟用户待在一起，你先尝试帮他们解决问题。然后你这个过程中你可能是以人力，你可能是以服务的形式在做的。然后在后期你再把这个服务的形式抽成一份SOP，然后再想办法把这个SOP最终转换成一个APP也好，转换成一个可加杠杆这个东西，那你就能赚钱了。然后再加上今天其实对于像APP也好，互联网也好，已经给我们带来一个很好的一个扩张的手段。就是你可能以前你做就我们刚才讲汽配的这个生意，你可能只能服务周边的100公里的以内的人，对吧？但是你今天可能在网上做了一个，做了一个摩托车的一个越野路线，你可能服务很多很多人，对这个是一个很不一样的一个事。
-</p>
-<p class="transcript-line">
-<span class="time"><strong>[01:05:50]</strong> </span>
-<span class="speaker"><strong>发言人1: </strong></span>
-其实推特上最有名的独立开发者之一Peter levels，他也是这个事儿的一个就是刚才我们聊到的这个理念的一个巨大践行者。他首先是一个大型KOL42万的粉丝，然后同时他做的最赚钱的服务也是和他的粉丝有关系的。比如他其中一个服务叫做remote OK，这个是针对所有想做数字游民的，所有想做独立开发者的人做的一个社区。你可以在remote OK的网站上去看到适合这个做数字游民的城市，他们为什么适合？有几十个几百个不同的维度，并且可以在上面找到对应城市的社区，可以参加他们的活动。
-</p>
-<p class="transcript-line">
-<span class="time"><strong>[01:06:28]</strong> </span>
-<span class="speaker"><strong>发言人1: </strong></span>
-然后第二个针对数字游民，就他的粉丝们做的这个工具叫做Norman list。这个应该是一个帮数字游民找工作。就是你做数字游民的，你总得找到这个可以做freeLance，可以接外包，或者可以做一些自由自在，在任何的地点，任何的时间都能接的工作。所以他做了社区，又做了这两个网站，这两个网站又是他最赚钱的项目之一，而且他也building public，并且他像刚才settle说的，把自己所有的项目的收入都挂在自己的这个twitter的主页上。比如现在我们打开主页看到remo TOK上个月就赚了5万美金，罗曼t list上个月是27000美金。然后同时他还把另外好几个也很赚钱的项目，到底一个月能赚多少全部放出来。所以用这种方式，他又再次吸引到更多的独立开发者去关注他。所以他自己就是这个事儿的一个巨大闭环。
-</p>
-<p class="transcript-line">
-<span class="time"><strong>[01:07:26]</strong> </span>
-<span class="speaker"><strong>发言人1: </strong></span>
-刚才在都在说建议独立开发者都去做KOL的时候，其实我有一个比较小的行动建议。因为做KOL意味着你要输出内容，而做内容这个事儿就到底发什么，这个是很困扰人。我的建议就是每天早上都给自己，比如说5到10分钟的时间去刷twitter，就看看海外的你认可的那些独立开发者QL们他们在发生。然后思考一下，同样他们发的内容如果放到中文语境里面来发，可以用什么样的角度，什么样不同的选题去发。就是把这个当成一个routine动作。
-</p>
-<p class="transcript-line">
-<span class="time"><strong>[01:08:04]</strong> </span>
-<span class="speaker"><strong>发言人3: </strong></span>
-对，确实这个我觉得是一个很好的找灵感的方式。
-</p>
-<p class="transcript-line">
-<span class="time"><strong>[01:08:07]</strong> </span>
-<span class="speaker"><strong>发言人1: </strong></span>
-之前我看你们的书里面还讲了一个点叫地理套利。就是我们人在中国享受着中国的低成本，同时也享受着中国的低时薪，但是我们可以去赚高成本和高时薪地区的这个人的钱。这其实也是一个很有意思的，鼓励大家思考一下要不要做独立开发者，要不要做印第hiker的一个角度。
-</p>
-<p class="transcript-line">
-<span class="time"><strong>[01:08:28]</strong> </span>
-<span class="speaker"><strong>发言人3: </strong></span>
-我觉得地理套利这件事很重要。
-</p>
-<p class="transcript-line">
-<span class="time"><strong>[01:08:31]</strong> </span>
-<span class="speaker"><strong>发言人1: </strong></span>
-今天谢谢settle来做客十字路口。然后我们从settle和他的团队，还有他们整个印度骇客这个社群的身上，感受到了非常多积极行动者的正能量。这其实也是十字路口一直在努力寻找访谈并且想要凝聚的群体，就是AI时代的积极行动者。如果你想要和我们一起在AI时代积极行动，欢迎在show note里面找到我们小助理的微信，加入十字路口的微信群。在群里面我们做两件事情，一个是每天给大家发新鲜事日报，第二是我们鼓励大家在群里面找对象，鼓励大家谈恋爱，也鼓励大家在群里面找到自己未来的合作伙伴。今天谢谢settle，也欢迎你有机会再来十字路口。
-</p>
-<p class="transcript-line">
-<span class="time"><strong>[01:09:12]</strong> </span>
-<span class="speaker"><strong>发言人3: </strong></span>
-好的，谢谢靠近。好，拜拜。
-</p>
-<p class="transcript-line">
-<span class="time"><strong>[01:09:18]</strong> </span>
-<span class="speaker"><strong>发言人1: </strong></span>
-欢迎你十字路的友群，我们和别的微信群都不一样，我们在群里就干两件事儿。第一是发布AI新鲜事日报，帮你掌握信息，掌握优势。第二是我们在群里会鼓励大家谈恋爱、交朋友、找伙伴，寻找未来的同路人。请到修豆子里面添加小助理的微信，请他加你入群。如果你认为有朋友也会喜欢十字路口的内容，请转发微信推荐给他们的十字路口。有了更多的会员，我们就能更有底气去邀请到更大牌的嘉宾们，为大家创作出更多有价值的好内容。谢谢你们的支持。
-</p>]]></content:encoded>
-            <pubDate>Sun, 16 Jun 2024 16:00:00 GMT</pubDate>
-            <guid>666e4326c26e396a360f1314</guid>
         </item>
     </channel>
 </rss>
