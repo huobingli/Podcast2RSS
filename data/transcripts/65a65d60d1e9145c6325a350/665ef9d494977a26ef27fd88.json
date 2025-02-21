@@ -1,0 +1,230 @@
+{
+  "pid": "65a65d60d1e9145c6325a350",
+  "eid": "665ef9d494977a26ef27fd88",
+  "title": "49. 微软难道也要加入独立开发者的竞争？｜开辟AI应用盲区",
+  "task_id": "yg7k9wob5k85nxwd",
+  "transcription": [
+    {
+      "time": "00:00:01",
+      "text": "欢迎来到AI产品观察，我是李自然。在给大家聊AI产品之前，首先推荐给大家一个菲格玛插件。这个插件叫做blocks的PM，它里面有各种各样where frame的组件，非常适合画圆形图。Where是在product on上面看到了这个产品，推荐给大家。如果你想做一些低保真的原型图，并且在团队内部进行协作的话，这个blocks点PM会是一个比较好的选择。",
+      "speaker": "发言人1"
+    },
+    {
+      "time": "00:00:26",
+      "text": "今天给大家带来的第一个AI产品叫做super demo点com。这个产品是一个录屏生成交互demo或者是演示教程的一个工具。如果你想快速的做一些演示教程、demo，或者说想把这些内容放到你的这个网站里面，或者做一些营销推广的内容，或者做在一个产品演示的文档里面，那其实这个产品还是比较容易使用的。它是一个chrome的插件，你运行之后，就可以通过先给屏幕截图，再添加文本注释，就可以做成一个小demo，带着你的用户一步一步的走完整个流程。它还提供了很多种分享方式，你可以把它生成的HTML的代码嵌入到你的网站里面，也可以导出的notion，或者说生成图文、视频等等格式。",
+      "speaker": "发言人1"
+    },
+    {
+      "time": "00:01:13",
+      "text": "今天带来的第2个AI产品是ellia labs推出的一个可嵌入网页的一个AI阅读播放器，叫做auto native。它依托eleven labs的技术，可以在你的网站上面加一个小播放器，用户需要点击这个播放按钮，就可以用语音来听你的网站的内容了。你可以选择你喜欢的声音，选择播放器的外观，它就生成一段嵌入代码，你就可以把这个嵌入代码复制粘贴到你的网站上面。而且，如果你的网站是reacted ghost create space word flow frame或者wordpress，它还有一些集成指南供你更好把它嵌入到你的网站上面。",
+      "speaker": "发言人1"
+    },
+    {
+      "time": "00:01:51",
+      "text": "看到这个功能，我在想这个工具是面向开发者的，有没有可能直接面向C端的用户给它做成一个小插件什么的。这样的话他就不需要网站本身支持这个功能了，这样你做给C端用户一个小插件，对吧？用户可以在任何的有文本的插件上都可以来听这个网页。这会不会是一个idea呢？也还不知道有没有人做，这回头我可以再看一下，分享给大家。而且我记得在移动互联网的早期，有很多类似redit、dator或者说pocket这些工具，当时用的也蛮多的。就是你可以添加一个文章稍后再读。现在有没有可能添加一篇文章稍后再听呢？",
+      "speaker": "发言人1"
+    },
+    {
+      "time": "00:02:29",
+      "text": "还有一个消息是微软在telegram上做了一个bot一个机器人，它是一个GPT驱动的免费AI伴侣。难道现在微软也要加入独立开发者的竞争了吗？前段时间levels IO还发了一条twitter，他说telegram有10亿用户，是这个世界上数一数二的聊天APP，而且很多独立开发者都忽视了这个方向，是一个独立开发者的盲区。但是telegram其实对聊天bus的支持API是非常的完善的。Lib 3O我们前面也聊过哈他本身也在这个telegram上做了一个心理咨询的一个surface的一个工具所以我觉得他的说话还是有一定发言权的。我觉得独立开发者也可以重点的关注一下在telegram上做机器人的各种机会。有一个基于perplexity做的AI搜索引擎，还是开源的，叫做发发的，它可以使用云端的模型，比如说OpenAI，也可以使用本地的模型来回答问题。我们测试了一下，发现它这个结果内容的丰富度和排版还是不错的。",
+      "speaker": "发言人1"
+    },
+    {
+      "time": "00:03:30",
+      "text": "今天分享的最后一个产品叫做chat TTS，是一个中国团队开发的一个开源语言模型。这个产品的作者在5月27号把一个视频传到了B站。我现在看这个视频，已经有7.2万次播放了，而且在我录播客的当下，竟然有六百多个人正在看啊，比我做的视频可是要火多了。而且5月28号的时候，这个项目开源上线到了github，短短的两天时间已经有了5800个stars。这个产品的效果号称开源天花板，我看了一下效果确实还是不错的那今天的AI产品就和大家分享到这里，欢迎大家加入我们的听友群，相关的产品信息我会放到我的show note里面，感谢大家的关注，我们下次再见，拜拜。",
+      "speaker": "发言人1"
+    }
+  ],
+  "lab_info": {
+    "summary": "介绍了多种AI产品和工具，包括适合制作低保真原型图并促进团队协作的菲格玛插件blocks PM，以及录屏生成交互演示的superdemo.com，能够快速创建并分享演示教程。auto native是Ellia Labs推出的AI阅读播放器，允许用户语音听取网页内容，支持网站集成。提出了开发面向C端用户的插件想法，使用户能在任意文本页面上听内容。还提到了基于Perplexity的AI搜索引擎和由中国团队开发的开源语言模型chat TTS，后者以出色性能和开源特性迅速获得关注。鼓励听众参与讨论并分享更多产品信息。",
+    "qa_pairs": [
+      {
+        "question": "在AI产品观察中，您推荐的第一个AI产品是什么？接下来您提到的第二个AI产品是什么，以及它的主要功能是什么？",
+        "answer": "第一个推荐的AI产品是super demo.com，它是一个录屏生成交互demo或演示教程的工具，适用于快速制作演示内容，并能将其嵌入到网站、Notion或其他文档中，通过截图和添加文本注释即可创建小demo，并提供多种分享方式。第二个AI产品是ellia labs推出的名为auto native的可嵌入网页的AI阅读播放器。该播放器依托于eleven labs的技术，允许用户在网站上添加一个小播放器，通过点击播放按钮，用户可以用语音听取网站上的内容，支持自定义声音和播放器外观，并生成嵌入代码以集成到各种支持reacted ghost create space word flow frame或wordpress的网站上。",
+        "time": "00:00:26"
+      },
+      {
+        "question": "您是否考虑将auto native这样的AI工具直接面向C端用户制作插件？",
+        "answer": "我在思考是否有可能将auto native这样的工具做成一个小插件，以便C端用户能够在任何有文本内容的网页上直接使用语音阅读功能，但目前还不清楚是否有开发者已经实现了这样的idea，后续会继续关注并分享进展。",
+        "time": "00:01:51"
+      },
+      {
+        "question": "微软在Telegram上做了一个什么样的AI相关项目？",
+        "answer": "微软在Telegram上创建了一个GPT驱动的免费AI伴侣bot，这可能意味着微软也开始涉足独立开发者领域的竞争。Telegram拥有10亿用户，对于独立开发者来说是一个值得关注的开发机会，因为Telegram对聊天bot的支持API非常完善。",
+        "time": "00:02:29"
+      },
+      {
+        "question": "最后一个分享的产品是什么，以及它的特点是什么？",
+        "answer": "最后一个分享的产品是中国团队开发的一款名为chat TTS的开源语言模型。该产品在B站上发布的视频获得广泛关注，短短两天内就在GitHub上开源并收获了5800个stars，其效果被宣传为开源天花板，实际测试后发现其效果确实不错。",
+        "time": "00:03:30"
+      }
+    ],
+    "chapters": [
+      {
+        "time": "00:00:00",
+        "title": "AI产品观察：从高效设计到智能交互",
+        "summary": "本期内容介绍了多个AI产品和工具，包括菲格玛插件blocks PM，用于快速制作原型图；super demo.com，用于生成交互演示和教程；Eleven Labs的Auto Native，一个AI阅读播放器，能将网站内容转化为语音；以及微软在Telegram上推出的GPT驱动的免费AI伴侣。此外，还提到了一个开源的AI搜索引擎“发发的”，以及中国团队开发的开源语言模型chat TTS，后者在B站和GitHub上引起了广泛关注。"
+      }
+    ],
+    "mindmap": {
+      "children": [
+        {
+          "children": [
+            {
+              "children": [],
+              "content": "描述: 菲格玛插件，包含各种where frame组件，适合绘制圆形图"
+            },
+            {
+              "children": [],
+              "content": "适用场景: 低保真原型图制作与团队内部协作"
+            },
+            {
+              "children": [],
+              "content": "特点: 提供多样化的组件，便于快速原型设计"
+            }
+          ],
+          "content": "推荐插件: Blocks PM"
+        },
+        {
+          "children": [
+            {
+              "children": [],
+              "content": "功能: 录屏生成交互式Demo或演示教程"
+            },
+            {
+              "children": [],
+              "content": "使用场景: 网站内容展示、营销推广、产品演示文档"
+            },
+            {
+              "children": [],
+              "content": "工具类型: Chrome插件"
+            },
+            {
+              "children": [],
+              "content": "操作流程: 屏幕截图 -> 添加文本注释 -> 制作小Demo"
+            },
+            {
+              "children": [],
+              "content": "分享方式: 生成HTML代码嵌入网站、导出至Notion、生成图文/视频格式"
+            }
+          ],
+          "content": "AI产品: Super Demo"
+        },
+        {
+          "children": [
+            {
+              "children": [],
+              "content": "开发者: Ellia Labs"
+            },
+            {
+              "children": [],
+              "content": "功能: 可嵌入网页的AI阅读播放器"
+            },
+            {
+              "children": [],
+              "content": "技术依托: Eleven Labs"
+            },
+            {
+              "children": [],
+              "content": "用户体验: 点击播放按钮即可语音听取网站内容"
+            },
+            {
+              "children": [],
+              "content": "定制选项: 选择声音、播放器外观"
+            },
+            {
+              "children": [],
+              "content": "集成指南: React、Ghost、Create Space、WordFlow、Frame、WordPress"
+            },
+            {
+              "children": [],
+              "content": "潜在发展方向: 面向C端用户的插件，实现任何文本网页的语音阅读"
+            }
+          ],
+          "content": "AI产品: Auto Native"
+        },
+        {
+          "children": [
+            {
+              "children": [],
+              "content": "形式: GPT驱动的免费AI机器人"
+            },
+            {
+              "children": [],
+              "content": "用户基数: Telegram拥有10亿用户"
+            },
+            {
+              "children": [],
+              "content": "独立开发者机会: Telegram的聊天bot API完善，值得探索"
+            }
+          ],
+          "content": "微软在Telegram上的AI伴侣"
+        },
+        {
+          "children": [
+            {
+              "children": [],
+              "content": "技术基础: Perplexity"
+            },
+            {
+              "children": [],
+              "content": "特性: 支持云端模型（如OpenAI）和本地模型回答问题"
+            },
+            {
+              "children": [],
+              "content": "测试反馈: 结果内容丰富，排版良好"
+            }
+          ],
+          "content": "开源AI搜索引擎: Fafa"
+        },
+        {
+          "children": [
+            {
+              "children": [],
+              "content": "开发团队: 中国团队"
+            },
+            {
+              "children": [],
+              "content": "发布平台: B站视频、GitHub"
+            },
+            {
+              "children": [],
+              "content": "视频播放量: 7.2万次"
+            },
+            {
+              "children": [],
+              "content": "GitHub星星数: 5800个（两天内）"
+            },
+            {
+              "children": [],
+              "content": "称号: 开源天花板"
+            },
+            {
+              "children": [],
+              "content": "效果评价: 高质量，获得广泛认可"
+            }
+          ],
+          "content": "开源语言模型: Chat TTS"
+        },
+        {
+          "children": [
+            {
+              "children": [],
+              "content": "邀请加入听友群"
+            },
+            {
+              "children": [],
+              "content": "产品信息分享至show note"
+            },
+            {
+              "children": [],
+              "content": "感谢关注，期待下次再见"
+            }
+          ],
+          "content": "结语"
+        }
+      ],
+      "content": "AI产品观察"
+    }
+  }
+}
