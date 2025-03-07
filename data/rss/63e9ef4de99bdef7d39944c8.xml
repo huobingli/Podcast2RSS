@@ -4,7 +4,1464 @@
         <title>AI炼金术</title>
         <link>https://www.xiaoyuzhoufm.com/podcast/63e9ef4de99bdef7d39944c8</link>
         <description>关注 AI 带来的本质变化和商业机会</description>
-        <lastBuildDate>Sat, 22 Feb 2025 00:48:21 +0800</lastBuildDate>
+        <lastBuildDate>Sat, 08 Mar 2025 05:09:56 +0800</lastBuildDate>
+        <item>
+            <title>DeepSeek 开源周 | 全景解读与我们的思考，开源加速 AI 创新</title>
+            <link>https://www.xiaoyuzhoufm.com/episode/67cae3c579129523d447fb5a</link>
+            <description>大家好，欢迎来到新一期的AI炼金术。本期我们聊聊 DeepSeek 的开源周——从2月24日到3月1日，六天里他们带来了令人惊喜的技术发布。
+DeepSeek这样的中国团队正在全球AI技术竞争中展现出强大的创新实力，通过开源战略不仅推动了AI领域的技术突破，还降低了开发门槛和成本，让全球AI社区能够共享技术成果并加速创新。
+与此同时，&quot;杭州七小龙&quot;等创新集群正在崛起，宇树科技等新锐企业不断开拓疆土。阿里钉钉则凭借To B领域优势，将AI无缝融入日常办公场景，让用户真切感受到AI带来的效率提升。
+这些中国力量的崛起，正在重塑全球AI产业格局，开源浪潮也在加速整个AI行业的竞争与洗牌，为各类应用开发者创造了前所未有的机会。让我们一起走进 DeepSeek 开源周的精彩内容。
+时间线：
+02:18 DeepSeek发布会Day 1：FlashMLA 大幅提升GPU的内存带宽和计算性能
+17:07 DeepSeek发布会Day 2：DeepEP 专家并行（EP）通信库，降低模型推理延迟
+23:00 DeepSeek开源策略及其对生态的影响
+28:16 阿里：AI模型竞争下，规模和场景成为护城河
+33:34 钉钉：AI在日常办公的应用潜力
+39:14 DeepSeek发布会Day 3：DeepGEMM 大模型计算优化矩阵乘法库，提高计算效率
+47:09 DeepSeek发布会Day 4：DualPipe 优化流水线并行策略，提升模型训练和推理效率
+55:57 DeepSeek发布会Day 5：EPLB 专家负载均衡器，提升模型性能
+1:01:02 DeepSeek发布会Day 6：DeepSeek-V3/R1 专家咨询（EP）增大batch size、隐藏通信延迟、执行负载均衡，提高推理吞吐量和更低延迟
+1:12:14 DeepSeek开源战略对AI行业的影响
+*提醒：本期涉及观点不构成任何投资建议，投资需谨慎。
+欢迎订阅「AI 炼金术」的播客，以及同名公众号、视频号
+「AI 炼金术」是一档由徐文浩和任鑫——两位多年老友、AI 领域的资深从业者——打造的播客。这里是探讨 AI 和创业的理想聚集地，我们会邀请一线创业者、产品产品和科研学者，深入探讨 AI 如何重塑行业、变革生活，以及如何从 0 到 1 打造 AI 原生产品。 我们的讨论会涵盖多个话题：从 AI 如何改变世界的未来，到如何找到 AI 创业的 PMF；从如何利用 AI 降本增效，到怎样将 AI 技术融入日常生活……如果你对 AI、产品、创业感兴趣，这里有满满的干货和一线实战经验，欢迎关注并推荐给你的朋友，共同探索未来的无限可能！
+商务合作：公众号 「AI炼金术 」菜单栏中【商务】获取联系方式
+节目主理人：
+徐文浩：某AI创业公司联合创始人，正在面向全球市场开发AI应用。连续创业者，参与过多家创业公司，拼多多早期员工。广告科技公司MediaV的算法和数据负责人，后被360收购。离开后加入成立不到1个月的拼多多。后创办了基于AI的海外客服聊天机器人公司BotHub. AI和 海外社交电商平台 Bukito 都宣告失败。2023年再次下场创业。
+任鑫：云九资本合伙人，主要在投资和孵化面向全球市场的 AI 应用。之前是连续创业者，曾经打造“今夜酒店特价”用移动互联网应用特价销售酒店尾房；被京东并购后内部创业“京东到家”开展本地即时零售业务；2015 年再次创业 Get 探索对话式人工智能助理成为先烈；2021 年出售公司，2023 年重新回到 AI 世界。
+BGM：
+片头：Shortwire - Reconfig
+片尾：Forester - The Flood</description>
+            <content:encoded><![CDATA[<h1>转写链接</h1>
+<link>https://tongyi.aliyun.com/efficiency/doc/transcripts/dej8nbywwrd59pog</link><br>
+<h1>节目摘要</h1>
+<div class="summary">在这次讨论中，参与者探讨了人工智能（AI）领域的发展，特别是深度学习和开源项目的未来趋势。他们指出，计算资源的有效利用是当前面临的重大挑战，强调了GPU和TPU等硬件技术的重要性，以及优化算法和架构对提高计算效率的必要性。开源项目被看作是推动AI领域进步的关键，通过分享技术、模型和工具，促进了社区的发展和创新。讨论也涉及了模型大小与计算效率之间的关系，以及如何通过模型量化、低精度算术和模型剪枝等技术来优化模型。此外，还谈到了AI模型在不同场景中的实际应用，以及选择合适模型的重要性。最后，讨论者展望了AI未来的发展，表达了对依靠技术创新取胜的公司在AI领域取得更大成功的期待。</div><br>
+<h1>章节速览</h1>
+<div class="chapters">
+<div class="chapter-item">
+<span class="time"><strong>[00:00:00]</strong> </span>
+<span class="chapter-title"><strong>探讨AI技术开源的意义与应用场景</strong></span>
+<div class="chapter-summary">对话围绕AI技术开源的深层意义和具体应用场景展开。首先讨论了开源技术如Deep seek如何通过公开代码和技术实现良性循环，增加公司规模和应用场景。进一步探讨了AI技术在实际业务场景中的应用，例如通过AI代理完成门店调研和数据分析，展示了AI技术在提升工作效率和决策质量方面的潜力。最后，提到了开源周发布的一系列技术，包括flash MLA，探讨了这些技术的优化空间以及开源对行业发展的推动作用。整体讨论体现了AI技术的快速发展和其在不同领域的广泛应用前景。</div>
+</div>
+<div class="chapter-item">
+<span class="time"><strong>[00:02:23]</strong> </span>
+<span class="chapter-title"><strong>Transformer模型中的Flash Attention优化机制</strong></span>
+<div class="chapter-summary">对话深入探讨了Transformer模型及其核心机制——Attention。在讨论中，提到了MLA和Flash Attention两种模型结构，以及GQA技术。MLA和Flash Attention旨在优化Attention机制中的计算效率，减少内存访问次数，从而提高模型的运行速度。Attention机制通过加权平均的方式，判断先前的token与后续预测的相关性，而GQA则通过组合多个头来减少计算量。Flash Attention通过巧妙的数学代换方式，虽然保持计算结果不变，但显著减少了读取显存的次数，从而优化了GPU的计算性能。此外，讨论还提到了在不同的维度上，如数学原理、文字顺序和语气风格等方面，Attention头是如何从不同角度分析文本的。整体上，优化方向着重于减少数据的搬移，即使这意味着需要进行更多的计算。</div>
+</div>
+<div class="chapter-item">
+<span class="time"><strong>[00:06:40]</strong> </span>
+<span class="chapter-title"><strong>Flash MLA和Flash Attention的机制与优化策略</strong></span>
+<div class="chapter-summary">对话深入讨论了Flash MLA和Flash Attention的技术细节及其优化策略。首先，MLA被描述为一种通过低秩压缩技术来减少计算量和内存占用的机制，类似于将高维空间的信息映射到低维空间中，从而实现高效处理。此外，Flash MLA和Flash Attention的优化思路在于通过增加计算量来换取减少带宽占用，以解决在GPU计算中内存访问速度慢的问题。这种策略在当前大型模型应用中尤为重要，因为它有助于减少推理延迟，提升效率。</div>
+</div>
+<div class="chapter-item">
+<span class="time"><strong>[00:11:17]</strong> </span>
+<span class="chapter-title"><strong>Flash Attention与NSA算法优化策略探讨</strong></span>
+<div class="chapter-summary">对话深入讨论了Flash Attention算法的优化策略，将其比喻为解决魔方问题，通过灵活调整计算与存储、通信与计算的平衡，以实现更高效能。同时，提到了NSA算法作为对比，指出其在attention计算中采取更粗略后再精细化的策略，以此来提升效率。</div>
+</div>
+<div class="chapter-item">
+<span class="time"><strong>[00:12:20]</strong> </span>
+<span class="chapter-title"><strong>长上下文处理与高效注意力机制</strong></span>
+<div class="chapter-summary">对话围绕如何处理长上下文和优化注意力机制展开。讨论指出，传统的注意力机制在处理长上下文时面临计算量大的问题，因此提出NSA（稀疏注意力）等方法，通过模型结构层面的优化来解决这一问题，而不是仅仅依靠推理优化。举例说明了分块计算和聚合方法，并强调在模型优化过程中不仅要考虑速度，还要保证效果不会下降。最后，提到了fast attention机制和deep EP等方法，旨在提高计算效率和专家间的通讯机制。</div>
+</div>
+<div class="chapter-item">
+<span class="time"><strong>[00:17:16]</strong> </span>
+<span class="chapter-title"><strong>专家并行在大模型中的应用与挑战</strong></span>
+<div class="chapter-summary">对话解释了专家并行（expert parallelism）的概念，特别是它在大规模模型，如混合专家模型（MOE）中的应用。专家并行不仅涉及问题的分类，而是在每个token级别上决定将数据分给哪个专家处理。此外，讨论了在计算过程中，专家之间的通信挑战，特别是在GPU上，由于计算和通信资源的共享，需要高效地分配和优化。</div>
+</div>
+<div class="chapter-item">
+<span class="time"><strong>[00:21:04]</strong> </span>
+<span class="chapter-title"><strong>动态路由和专家模型在大脑理解中的应用</strong></span>
+<div class="chapter-summary">对话围绕理解大脑如何通过分布式模块进行动态调度和协同处理信息展开。讨论提到假设大脑的处理模块分布于多个容器中，这些模块在处理不同类型的信息时会被调动，例如听觉、视觉或特定的专家模块。此外，还探讨了技术进步对理解和应对这些复杂过程的影响，以及如何通过类比技术领域的mixture of experts模型来更好地理解大脑的工作机制。最后，询问了将这些研究成果公开而非秘密进行的可能意义，讨论了公开这些技术进步对于品牌建设和市场先机的重要性。</div>
+</div>
+<div class="chapter-item">
+<span class="time"><strong>[00:23:18]</strong> </span>
+<span class="chapter-title"><strong>开源技术发布对生态和成本的影响</strong></span>
+<div class="chapter-summary">对话围绕开源技术发布对行业生态和成本的影响展开讨论。一方面，发布新技术被视作一种展示实力的方式，即便这些技术可能对追赶者来说难以立即超越。另一方面，公开这些技术能够帮助其他公司降低服务成本，提高效率，从而促进整个生态系统的增长。特别提到，对于拥有庞大算力资源的大公司，开源技术可能仅作为辅助手段，但对于其他公司而言，这些技术的开源能够带来实质性的帮助和节省成本。此外，通过开源技术，可以吸引更多用户使用其模型和生态，为未来官方应用的推出打下坚实基础。</div>
+</div>
+<div class="chapter-item">
+<span class="time"><strong>[00:27:15]</strong> </span>
+<span class="chapter-title"><strong>AI模型竞争及产业影响探讨</strong></span>
+<div class="chapter-summary">对话围绕AI模型特别是MOE模型的竞争和产业影响展开。讨论指出，虽然竞争激烈，但MOE模型因其推理时激活参数较小的特点，对云服务提供商和整个产业带来收益。此外，提及了中国公司在AI领域的追赶态势，以及阿里在AI领域的投资布局和相关产品，如阿里云和钉钉，展示了AI技术在实际业务中的应用与价值。同时，也表达了对于国内AI企业面临巨大竞争压力的看法。</div>
+</div>
+<div class="chapter-item">
+<span class="time"><strong>[00:30:33]</strong> </span>
+<span class="chapter-title"><strong>AI技术革新对钉钉等企业级应用的影响及优势</strong></span>
+<div class="chapter-summary">讨论集中于AI技术的进步如何为企业级应用，尤其是钉钉这样的IM平台带来显著的生态利好。AI技术的提升，比如在模型优化和性价比提高方面，使得像钉钉这样的平台能够在企业级场景中提供更多价值，如通过AI实现更高效的工作流管理和自动化任务执行。此外，拥有较大市场份额和用户基础的应用，如钉钉，能够在技术进步带来的‘雨’（即利益或红利）中接收更多的好处，从而进一步巩固其市场地位。同时，随着AI与智能机器人等技术的结合，这些应用还能在实际工作场景中提供更丰富的功能，包括远程操作和自动化数据收集等，从而大幅提升工作效率和用户体验。</div>
+</div>
+<div class="chapter-item">
+<span class="time"><strong>[00:37:55]</strong> </span>
+<span class="chapter-title"><strong>AI模型训练中的精度问题与优化策略</strong></span>
+<div class="chapter-summary">对话深入探讨了在人工智能模型训练中遇到的精度问题，特别是浮点数运算中的精度丢失，以及如何通过使用不同精度的浮点数（如FP32、FP16、BF16、FP8）来优化计算效率和内存占用。讨论还提到了深度学习框架如Deep Jam的作用，以及英伟达等公司在提升FP8等低精度计算速度方面的努力，强调了在保证精度的同时提高计算效率的重要性。</div>
+</div>
+<div class="chapter-item">
+<span class="time"><strong>[00:45:38]</strong> </span>
+<span class="chapter-title"><strong>探讨GPU计算库和精度优化</strong></span>
+<div class="chapter-summary">对话讨论了英伟达的计算库和如何在GPU上优化机器学习计算精度的问题，提到了使用300行代码实现的优化方案，以及对官方库性能的批评。此外，还提到了deal pipe和1PLB等相关话题。</div>
+</div>
+<div class="chapter-item">
+<span class="time"><strong>[00:47:15]</strong> </span>
+<span class="chapter-title"><strong>利用技术优化多机多卡训练和推理效率</strong></span>
+<div class="chapter-summary">这段对话讨论了在多机多卡的训练和推理过程中，通过技术手段提升效率的方法。重点介绍了流水线并行、专家并行（DPEP）、以及Do Pipe和EPLB等技术，探讨了它们如何减少计算过程中的空闲时间（气泡），从而提高显卡利用率和整体性能。同时，也提到了在资源有限的情况下，如何通过创新技术手段来弥补硬件不足的问题。</div>
+</div>
+<div class="chapter-item">
+<span class="time"><strong>[00:54:12]</strong> </span>
+<span class="chapter-title"><strong>EPLB在MOE模型中的专家负载均衡策略</strong></span>
+<div class="chapter-summary">EPLB是一种在MOE（Mixture of Experts）模型中实现专家负载均衡的技术。在模型计算过程中，不同专家的需求是不平衡的，比如AI专家的需求可能远高于IOS开发或植物学专家。EPLB通过动态的分层策略和推理压力策略，根据专家在训练和推理过程中的实际需求来复制和分配专家，将需求高的专家多复制几份，需求低的专家则少复制，从而确保GPU的高效利用，实现专家负载的优化均衡。</div>
+</div>
+<div class="chapter-item">
+<span class="time"><strong>[00:55:51]</strong> </span>
+<span class="chapter-title"><strong>低成本高性能模型训练存储解决方案</strong></span>
+<div class="chapter-summary">讨论围绕一种名为3FS的分布式文件系统展开，该系统旨在通过使用SSD硬盘和高性能网卡，为模型训练和推理提供一种成本效益高且性能接近高端解决方案的存储方式。与使用昂贵的SRAM或内存集群相比，3FS利用普通服务器和SSD硬盘，通过优化数据处理和配比，实现数据的快速读写和高吞吐量，从而提高ROI。此外，该系统还体现了技术团队在面对成本和性能需求时的创新思维和深厚技术积累，为模型训练和数据处理提供了一种更为经济高效的存储解决方案。</div>
+</div>
+<div class="chapter-item">
+<span class="time"><strong>[01:01:02]</strong> </span>
+<span class="chapter-title"><strong>高科技项目成本与人才策略讨论</strong></span>
+<div class="chapter-summary">对话围绕高科技项目的成本估算、盈利模式及人才招聘策略展开。讨论者认为，虽然外界传言项目存在巨大亏损，但实际可能只是微亏，项目团队不会允许过度亏损。他们强调，项目成本中包含了免费提供给用户的网页APP服务，即使如此，项目仍能实现微利。此外，讨论者提到了量化团队的强大实力和团队中拥有多个OI金牌得主，暗示了在基础模型训练和量化交易领域，高智商人才的重要性。他们还分析了基础模型训练的高昂成本，指出算力投入巨大，且团队成员的人均算力成本远超人力成本。最后，讨论者建议在特定领域如量化交易和基础模型训练中，应积极招募最聪明的人才，而其他领域则无需过分追求此类人才。</div>
+</div>
+<div class="chapter-item">
+<span class="time"><strong>[01:05:54]</strong> </span>
+<span class="chapter-title"><strong>开源生态崛起对技术应用与商业机会的影响</strong></span>
+<div class="chapter-summary">对话围绕开源生态的崛起及其对技术应用和商业机会的影响展开。讨论指出，随着像通义万相这样的项目被开源，整个开源生态得到了显著的提升，吸引了不少人才和关注。特别提到阿里云等平台通过开源技术和内部积累，进一步提升了应用内AI能力，为用户场景提供了更深入的嵌入和优化。此外，开源生态的爆发不仅对掌握用户场景的公司如钉钉带来益处，也给应用开发者提供了新的机遇，通过技术品牌的建立和人才的吸引，推动了商业和技术的双重进步。同时，开源技术的进步也间接提高了用户对于软件和服务的期望，进一步强调了占据用户场景和不断优化应用的重要性。</div>
+</div>
+<div class="chapter-item">
+<span class="time"><strong>[01:10:44]</strong> </span>
+<span class="chapter-title"><strong>开源模型对应用开发的影响与策略</strong></span>
+<div class="chapter-summary">对话围绕开源模型，特别是Deep SK开源后的应用开发机会进行了深入讨论。首先，指出开源模型为用户场景提供便利，降低了技术门槛，使得应用开发者能够更专注于场景应用的开发，而无需从零开始构建模型。其次，讨论了Deep SK开源对于基模公司价值的影响，以及对整个社区的激励作用，预示着全链路开源可能成为未来趋势。此外，提到了国内开源模型如千问、kimi的进展，以及它们如何借鉴Deep SK进行提升，达到国际一流水平。最后，提出了对于应用创业者的重要策略：预判AI能力的未来提升方向，提前占领应用场景，等待模型成熟后享受红利。整个对话强调了开源模型的普及对应用开发领域带来的机遇与挑战。</div>
+</div>
+<div class="chapter-item">
+<span class="time"><strong>[01:15:14]</strong> </span>
+<span class="chapter-title"><strong>详解科技公司开源技术及其影响力</strong></span>
+<div class="chapter-summary">对话深入探讨了一个科技公司在六天内连续发布的开源技术，包括优化模型架构、通讯性能库、矩阵计算库、计算与通讯重叠工具、文件系统以及技术报告。这些技术旨在提升MOE模型的训练和推理效率，降低成本，并展示公司在硬核计算领域的实力。此外，讨论中还提到了通过使用更廉价硬件实现相近效果的策略，以及公司通过展示其技术优势以吸引更多用户和关注的方式。</div>
+</div>
+</div><br>
+<h1>问题回顾</h1>
+<div class="qa-item">
+<div class="question"><strong>Q:</strong> Deep seek开源周发布的开源项目有什么特点？今天的主题是什么？</div>
+<div class="answer"><strong>A:</strong> Deep seek开源的一些项目中，有些是基于模型训练和分布式模型训练框架，例如PPTPEP等。尽管对于不熟悉底层技术的人来说可能存在很多优化空间，但Deep seek声称他们开源的代码量并不需要大量人力投入，并且相对容易理解。今天讨论的主题是关于AI领域的一个开源项目或技术，具体细节在后续对话中会详细说明。</div>
+</div>
+<div class="qa-item">
+<div class="question"><strong>Q:</strong> 我们先来探讨一下flash MLA是做什么的？</div>
+<div class="answer"><strong>A:</strong> flash MLA是针对transformer模型中attention机制的一种优化方法。在transformer模型中，attention机制用于计算当前词与之前所有词的关系，是一个计算量大且消耗算力的部分。而flash attention通过巧妙利用数学代换方式，在不影响结果的前提下减少内存读取次数，从而优化了这一过程。</div>
+</div>
+<div class="qa-item">
+<div class="question"><strong>Q:</strong> transformer模型中的attention机制是如何工作的？</div>
+<div class="answer"><strong>A:</strong> attention机制在transformer模型中可以理解为每个词在生成下一个词时考虑其与前面所有词的关系。它通过加权平均的方式，根据各个词的重要性来决定其对下一个词的影响程度。而在实际的模型结构中，attention通常包含多个头，从不同维度捕捉信息，以实现并行计算和高效利用资源。</div>
+</div>
+<div class="qa-item">
+<div class="question"><strong>Q:</strong> 为什么在计算attention时会遇到瓶颈？</div>
+<div class="answer"><strong>A:</strong> 计算attention的瓶颈主要不在计算本身，而在于数据在GPU芯片之间及GPU与CPU之间的搬移。由于数据需要在一级缓存、二级缓存和主内存之间频繁交换，而这些环节成为性能瓶颈。</div>
+</div>
+<div class="qa-item">
+<div class="question"><strong>Q:</strong> flash attention和MLA（multi head linear attention）有何异同？</div>
+<div class="answer"><strong>A:</strong> flash attention专注于优化计算过程中的内存访问和带宽问题，而MLA则是在模型结构上进行创新，采用低秩压缩的方式来减少参数空间的维度，实现更高效的信息表示和处理。两者都是为了在不同环节减少计算和存储的开销，提高模型推理效率。</div>
+</div>
+<div class="qa-item">
+<div class="question"><strong>Q:</strong> NSA在解决什么问题上与标准的attention机制不同？NSA本质上是通过何种方式来处理长上下文问题的？</div>
+<div class="answer"><strong>A:</strong> NSA主要是为了解决长文本处理时的上下文问题，即当一个token需要读取前面所有token时，由于计算量大且受限于模型训练和推理的效率，NSA提供了一种模型结构层面的解决方案，允许在保持效果的同时减少计算复杂性。NSA本质上是在模型结构层面做文章，比如通过分块计算后再聚合的方式，来证明即使在减少计算量的情况下，也能保证模型效果不下降。</div>
+</div>
+<div class="qa-item">
+<div class="question"><strong>Q:</strong> 对于长文本处理，目前面临的核心挑战是什么？</div>
+<div class="answer"><strong>A:</strong> 核心挑战是要在保证模型效果的同时，有效降低计算复杂性和训练时间，尤其是要证明所采用的方法不仅速度快，而且计算结果准确或误差很小，甚至在量化测试中误差可以忽略不计。</div>
+</div>
+<div class="qa-item">
+<div class="question"><strong>Q:</strong> 是否可以将NSA的工作原理比喻为红楼梦中的甄别重点内容，只关注与前后章节相关的内容？</div>
+<div class="answer"><strong>A:</strong> 是的，这个比喻基本恰当，NSA就像在阅读红楼梦时，能快速定位到与当前章节相关的第四章和第八章内容，而不是逐字逐句阅读所有章节。</div>
+</div>
+<div class="qa-item">
+<div class="question"><strong>Q:</strong> Fast Attention机制的主要目标是什么？</div>
+<div class="answer"><strong>A:</strong> Fast Attention机制的目标是在保持模型性能的同时，尽可能利用GPU硬件特性，实现无论是训练还是推理过程中的高效计算，它是一个综合性的论文，既涉及理论研究也关注与硬件结合的实际应用效果。</div>
+</div>
+<div class="qa-item">
+<div class="question"><strong>Q:</strong> deep MLP（混合专家模型）的工作机制是怎样的？deep MLP中的专家并行通信机制的作用是什么？</div>
+<div class="answer"><strong>A:</strong> deep MLP中的混合专家模型在处理每个token时动态决定将其路由给哪个专家进行处理，而不是预先设定好固定分组。这就好比人的大脑中各个模块（如听觉、视觉等）在处理信息时并非固定配合，而是根据当前信息动态调整并行工作的专家模块。deep MLP中的专家并行通信机制是为了解决分布式计算中不同专家间的通信问题，确保在路由选择和中间结果传输过程中，计算单元既能高效地进行计算也能灵活地与其他模块协同工作，从而提高整体性能。</div>
+</div>
+<div class="qa-item">
+<div class="question"><strong>Q:</strong> OpenAI发布的新技术，是否意味着其他公司如果拥有同等算力，也能迅速应用并节省成本？</div>
+<div class="answer"><strong>A:</strong> 是的，OpenAI发布的一些技术进步，即使其他公司没有同等规模的集群（例如10万卡集群或大几万卡集群），如果算力充足，他们也可以通过使用这些技术加速模型训练和应用，从而降低成本。</div>
+</div>
+<div class="qa-item">
+<div class="question"><strong>Q:</strong> 您提到的DPEP和DGMM deep game这两个模型为何对所有用户都有用？</div>
+<div class="answer"><strong>A:</strong> DPEP和DGMM deep game等技术能够帮助任何人更快地部署和使用DeepSK的推理服务，降低服务成本和加快速度，让更多人有机会使用DeepSK的模型，扩大生态规模。</div>
+</div>
+<div class="qa-item">
+<div class="question"><strong>Q:</strong> OpenAI分享的技术对于整个行业有何影响？</div>
+<div class="answer"><strong>A:</strong> OpenAI分享的技术不仅展示了其肌肉，还通过降低服务成本、提高速度来促进其生态增长。对于整个行业而言，这将带来竞争加剧，同时也可能促使云服务提供商降低价格，从而惠及所有用户，尤其是那些可以利用其技术和平台的公司。</div>
+</div>
+<div class="qa-item">
+<div class="question"><strong>Q:</strong> OpenAI在技术上的领先是否会对竞争对手带来压力？</div>
+<div class="answer"><strong>A:</strong> 竞争对手肯定会感受到压力，尤其是当OpenAI展示出显著的技术优势时，这会引发新一轮的竞争，挑战各公司在该领域的市场份额和影响力。</div>
+</div>
+<div class="qa-item">
+<div class="question"><strong>Q:</strong> 钉钉作为办公应用，在接入AI功能后，如何受益于AI发展？</div>
+<div class="answer"><strong>A:</strong> 钉钉作为国内最大的办公应用，通过在其一级入口集成AI功能，用户可以直接在钉钉平台上使用AI服务，无需额外安装其他工具。随着AI技术和性价比的提升，钉钉将能更好地渗透企业级市场，成为最先享受到AI红利的平台之一。</div>
+</div>
+<div class="qa-item">
+<div class="question"><strong>Q:</strong> 在企业中，AI如何帮助进行门店巡查或数据统计工作？</div>
+<div class="answer"><strong>A:</strong> 在企业中，例如语数公司，可以通过钉钉上的AI agent下达指令，让机器人操作起来。比如，让机器人在5G网络下到万达广场等地巡查新开了多少餐馆，并能联网联网实时统计人流。机器人完成任务后，将数据反馈回钉钉平台，同时AI还能根据分析结果进一步指导后续的调研方向。</div>
+</div>
+<div class="qa-item">
+<div class="question"><strong>Q:</strong> AI在企业级应用中，特别是结合钉钉平台的优势体现在哪里？</div>
+<div class="answer"><strong>A:</strong> AI在企业级应用中的优势在于其规模化发展和场景多样性，当底层科技进步时，接入钉钉等平台能获得最大的市场红利。此外，由于AI以对话形式作为最有效的智能交互形式，因此在企业中能够自然地应用和扩展。</div>
+</div>
+<div class="qa-item">
+<div class="question"><strong>Q:</strong> Deep Jen是什么？</div>
+<div class="answer"><strong>A:</strong> Deep Jen是一个计算库，主要用于高效、高精度地计算矩阵乘法，尤其在深度神经网络中起着关键作用。</div>
+</div>
+<div class="qa-item">
+<div class="question"><strong>Q:</strong> 计算库如Deep Jen是否存在优化空间？</div>
+<div class="answer"><strong>A:</strong> 计算库存在优化空间，因为计算机计算存在精度问题。在有限的浮点数表示下，精度会受限，特别是在处理像深度神经网络这样的复杂计算场景时，精度问题尤为突出。</div>
+</div>
+<div class="qa-item">
+<div class="question"><strong>Q:</strong> 为什么会出现浮点数运算精度问题？</div>
+<div class="answer"><strong>A:</strong> 浮点数运算精度问题是由于计算机内部存储和计算的限制，无法精确表示所有小数，导致在连续累加或减小数值时可能出现累积误差。例如，当使用浮点数表示时，大量计算后可能会出现原本应该相等的数值由于精度丢失而无法精确反映其真实值。</div>
+</div>
+<div class="qa-item">
+<div class="question"><strong>Q:</strong> 针对精度问题，如何进行优化？</div>
+<div class="answer"><strong>A:</strong> 为了解决精度问题，研究人员开发了诸如FP16、BF16和FP8等不同精度的数据类型，通过权衡精度与计算效率，在保证模型训练效果的同时，尽量减少显存占用和加快计算速度。例如，权重参数可能用FP8表示，而在损失函数计算时则可能采用FP32或BF16以保证精度。</div>
+</div>
+<div class="qa-item">
+<div class="question"><strong>Q:</strong> 在训练深度神经网络时，流水线并行是如何实现的？</div>
+<div class="answer"><strong>A:</strong> 流水线并行是通过将深度神经网络的多层拆分并分配到不同的GPU上计算。例如，一层的计算在一个GPU上完成之后，结果会传到下一张卡继续计算下一层，这样就形成了流水线的效果。但这种情况下，卡无法始终保持满负荷运行，因为每次计算都需要等待前一层的结果传递过来。</div>
+</div>
+<div class="qa-item">
+<div class="question"><strong>Q:</strong> 如何减少在流水线并行过程中的“气泡”（空闲时间）？</div>
+<div class="answer"><strong>A:</strong> “气泡”是指在神经网络训练过程中由于批处理和计算同步导致的GPU空闲时间。为了减少气泡，可以尝试同时进行正向（forward）和反向（backward）的计算，因为这两部分计算之间通常没有依赖关系。通过使用不同的数据和并行执行这两部分计算，可以有效减少气泡，提高GPU利用率。</div>
+</div>
+<div class="qa-item">
+<div class="question"><strong>Q:</strong> 在模型训练中如何实现正向和反向传播的同时进行？</div>
+<div class="answer"><strong>A:</strong> 逻辑上可以实现正向和反向传播的同时进行，即在计算的同时更新参数。正向传播和反向传播可以交替地分配GPU计算单元，有时候用于计算，有时候用于通信。尽管如此，实际调度和实现起来相对复杂，需要合理安排通信和计算的任务分配。</div>
+</div>
+<div class="qa-item">
+<div class="question"><strong>Q:</strong> EPLB技术与之前所讨论的模型训练负载均衡有何异同？</div>
+<div class="answer"><strong>A:</strong> EPLB技术主要关注于专家负载均衡，即根据每个专家在模型训练或推理过程中的负载情况动态复制并放置到不同的GPU上，以实现负载均衡。而之前讨论的模型训练瓶颈和优化方法则更侧重于如何利用有限资源（如内存、显卡）进行高效的数据处理和模型训练，例如通过改变数据配比、使用分布式文件系统等方式来降低对昂贵硬件的依赖，从而提高性价比。</div>
+</div>
+<div class="qa-item">
+<div class="question"><strong>Q:</strong> 在能力上和mindset上，3FS团队和其他团队有何不同？</div>
+<div class="answer"><strong>A:</strong> 3FS团队在能力上更强，并且在mindset上也有差别，这种mindset往往来自于长期的积累。他们在3FS技术上拥有深厚的基础，并非短期内才开始涉及。</div>
+</div>
+<div class="qa-item">
+<div class="question"><strong>Q:</strong> 最后一个提到的王魔定是做什么的？</div>
+<div class="answer"><strong>A:</strong> 王魔定技术报告主要是关于将多种高科技组合起来计算大概的成本。</div>
+</div>
+<div class="qa-item">
+<div class="question"><strong>Q:</strong> 外网上有人提到他们每天都在狂亏，实际情况是怎样的？</div>
+<div class="answer"><strong>A:</strong> 那些说法纯属误解，实际上大家可能是微亏或者为了快速扩张而亏损，但不至于亏那么多钱。并且做推理和平台的人也不会轻易亏损。</div>
+</div>
+<div class="qa-item">
+<div class="question"><strong>Q:</strong> 对于某平台盈利情况的看法是什么？</div>
+<div class="answer"><strong>A:</strong> 当时预计会有推理优化，会挣钱，但实际上他们通过网页APP免费提供服务，成本已包含在内，目前能稍微赚钱。</div>
+</div>
+<div class="qa-item">
+<div class="question"><strong>Q:</strong> 量化的团队有多强大？</div>
+<div class="answer"><strong>A:</strong> 量化团队非常强大，拥有4个IOI金牌得主，而在过去的竞争环境下，中国国家队成员几乎都能拿到IOI金牌，这表明他们具备碾压性的实力。</div>
+</div>
+<div class="qa-item">
+<div class="question"><strong>Q:</strong> 对于基础模型训练领域人才的需求和现状的看法？</div>
+<div class="answer"><strong>A:</strong> 基础模型训练领域的方向不明确，经验的有效性有限，且投入巨大，人均300块H100的成本相当高。这意味着不是所有团队都能轻易挖掘到顶尖人才。</div>
+</div>
+<div class="qa-item">
+<div class="question"><strong>Q:</strong> 除了Deep Seek外，开源世界还有哪些值得关注的事情？</div>
+<div class="answer"><strong>A:</strong> 通义万相是一个值得关注的开源项目，它在私有化部署方面的表现很出色。同时，KIMI开源的一些技术和论文也值得关注，这可能会影响技术人才的吸引和行业格局的变化。</div>
+</div>
+<div class="qa-item">
+<div class="question"><strong>Q:</strong> 如果开源生态爆发，对做应用或模型的开发者会带来哪些影响和机会？</div>
+<div class="answer"><strong>A:</strong> 第一波受益者可能是掌握用户场景的公司，如阿里云、钉钉等，他们可以通过进一步嵌入AI能力来提升产品。此外，围绕用户场景“套壳”应用也会有巨大机会，同时，随着全链路开源的趋势发展，所有做应用的人都将受益，因为开源模型的进步将使他们更容易利用和集成最先进的技术。</div>
+</div>
+<h1>节目文稿</h1>
+<p class="transcript-line">
+<span class="time"><strong>[00:00:05]</strong> </span>
+<span class="speaker"><strong>发言人1: </strong></span>
+Deep seek把这些东西都放出来，这个意义是什么？
+</p>
+<p class="transcript-line">
+<span class="time"><strong>[00:00:08]</strong> </span>
+<span class="speaker"><strong>发言人2: </strong></span>
+我有一个感受就是放出来又怎么了？放出来你也跟不上我秀了一把肌肉。
+</p>
+<p class="transcript-line">
+<span class="time"><strong>[00:00:18]</strong> </span>
+<span class="speaker"><strong>发言人1: </strong></span>
+以前说AI没有护城河，最后发现护城河是规模。然后你有了规模，你就有了场景，然后你再公开出来的话，反正它就有一个良性循环。
+</p>
+<p class="transcript-line">
+<span class="time"><strong>[00:00:30]</strong> </span>
+<span class="speaker"><strong>发言人2: </strong></span>
+比如我一个公司，比如说语数，他们说他有钉钉，我要去线下，比如说去门店去看一圈，我就可以派一个机器人。我的AI是钉钉里的一个agent，我下了一个指令，他就出门坐个地铁加加电，看下来还能帮你数一下人头数完就回来了。然后在钉钉上告诉你，然后你这个agent再想一想分析一下对吧？Deep seek thinking一下说我应该调研哪个品类，这完了失业了。
+</p>
+<p class="transcript-line">
+<span class="time"><strong>[00:01:04]</strong> </span>
+<span class="speaker"><strong>发言人1: </strong></span>
+欢迎大家来到AI炼金术。今天是把徐文浩又拽上来。其实是因为deep seek然后有一个开源周，然后开源周发布了很多奇奇怪怪的东西，然后我看不懂，所以得找专家问一下，说每一个到底是什么意思。
+</p>
+<p class="transcript-line">
+<span class="time"><strong>[00:01:21]</strong> </span>
+<span class="speaker"><strong>发言人2: </strong></span>
+我也看不懂。
+</p>
+<p class="transcript-line">
+<span class="time"><strong>[00:01:21]</strong> </span>
+<span class="speaker"><strong>发言人1: </strong></span>
+呵呵呵好的，然后听众们默默的开始关掉了这一期播客，说两个看不懂的人，然后再来聊这个？
+</p>
+<p class="transcript-line">
+<span class="time"><strong>[00:01:29]</strong> </span>
+<span class="speaker"><strong>发言人2: </strong></span>
+我觉得他大概是讲什么，其实还是比较容易理解的。如果就是你就做模型训练，或者你去大概了解过这些底层的这些分布式模型训练的这些框架什么的，PPTPEP这些东西对吧？但是他怎么做到的？就是你直观感受是说你觉得肯定有很大优化空间。但是如果你像我们这种没有深入研究过这个东西，就会觉得这个肯定有很大的优化空间。但肯定需要很多厉害的人花很多时间，对吧？但是别人就说我们开源一下，而且从他们开源的代码量来说，估计也没有花很多人很多时间。
+</p>
+<p class="transcript-line">
+<span class="time"><strong>[00:02:05]</strong> </span>
+<span class="speaker"><strong>发言人1: </strong></span>
+那就大家就放心。对，因为我们也没有深入看代码，所以不会讲到特别的晦涩。如果你也只是半同学或者水不多的话，也很容易听懂。那这样子的话就相当于我们大家一起相互讨论了。OK那那那我先问你，就是从第一天开始讲起那个flash MLA是干嘛的？
+</p>
+<p class="transcript-line">
+<span class="time"><strong>[00:02:23]</strong> </span>
+<span class="speaker"><strong>发言人2: </strong></span>
+Flash MLA就是是是这样的，就是dipt que的模型结构其实跟我们大部分人用的模型结构其实不太一样的。这个是他们最早的论文里就讲了他们用的一个叫MLA，都能就是我们现在用的都是transformer模型，这个大家都理解，大家都知道对吧？然后里面有个东西叫做attention，对不对？大家也都能知道对吧？Attention你可以直观理解说我接下来预测下一个投，我去整体的看前面的整个窗口的所有token对吧？然后有个注意力机制，你可以认为你简单讲就是每一次你都去看加权平均，你觉得哪些前面的哪些token跟我们后面有关系，这个就叫attention的机制。实际上在模型里attention是有很多层，也有很多头的。你可以认为不同的头代表不同的方向，那算attention其实是一个成本很高的事情。
+</p>
+<p class="transcript-line">
+<span class="time"><strong>[00:03:14]</strong> </span>
+<span class="speaker"><strong>发言人2: </strong></span>
+你可以认为是其实是整个模型当中最消耗算力的部分。之前其实就为了优化这一部分，有有在模型结构上有什么什么叫GQA，就是把一些头组成一个组对吧？就是可以少做一些计算。
+</p>
+<p class="transcript-line">
+<span class="time"><strong>[00:03:30]</strong> </span>
+<span class="speaker"><strong>发言人2: </strong></span>
+然后计算优化上也有东西叫做这个flash attention，就是这个flash tension，你可以认为是说它巧妙的利用了一些数学的代换方式，使得我每次计算的时候，我计算出来的结果是不变的。但是因为我这个计算顺序的差异，使得我读取内存的次数减少了，读取显存的次数减少了。因为GPU芯片上也是说一级缓存和二级缓存里的数据算起来比较快，如果要读到无显存的话，它会比较慢。就大概是这么一个这么这么一个原理。
+</p>
+<p class="transcript-line">
+<span class="time"><strong>[00:04:03]</strong> </span>
+<span class="speaker"><strong>发言人1: </strong></span>
+我先确认一下我有没有理解。第一个我们讲transformer它有attention，其实就是说我接下来说的话跟我们前面聊的那些事儿相关，对吧？就比如说你你你前面也说了很多话。
+</p>
+<p class="transcript-line">
+<span class="time"><strong>[00:04:16]</strong> </span>
+<span class="speaker"><strong>发言人2: </strong></span>
+对。
+</p>
+<p class="transcript-line">
+<span class="time"><strong>[00:04:17]</strong> </span>
+<span class="speaker"><strong>发言人1: </strong></span>
+你可以直观这样理解。我现在要说的话应该跟我们上下文是相关的那上下文相关我们刚刚已经可能说了一千多个字了。那可能我下面说的每个字就得去看，说它它受到了前面哪些字儿的影响，然后这个影响到底是大是小，往左影响还是往右影响。那这个时候其实就是attention。比如说我要把前面1000个字都过一下的话，就是很很费劲。然后算起来，尤其是你一万个字10万个字。
+</p>
+<p class="transcript-line">
+<span class="time"><strong>[00:04:42]</strong> </span>
+<span class="speaker"><strong>发言人2: </strong></span>
+那倒不是就是1万个字，是过一遍是不费劲的。就是说attention本身的好处，它就是容易并行计算。对，因为attention的机制跟传统的这种什么air，跟在之前的叫sequence to sequence，就是序列到序列的模型比，它的好处是它的并行计算。比如我算一个token，我不是前面一个个读的，我是一起读的。
+</p>
+<p class="transcript-line">
+<span class="time"><strong>[00:05:00]</strong> </span>
+<span class="speaker"><strong>发言人1: </strong></span>
+你可以认为那它就占内存，它如果不费劲的话。
+</p>
+<p class="transcript-line">
+<span class="time"><strong>[00:05:03]</strong> </span>
+<span class="speaker"><strong>发言人2: </strong></span>
+对它它因为它但实际它又很费劲。我说为什么很费劲？因为实际上模型的主要算力就耗在这个算这些attention上。你可以认为同时大家不要觉得说我算attention就是一个看不是的，你可以认为它有很多个头，就是它从不同的维度去看这个东西，它从不同的维度看，比如说这个attention头，这个是用来看说前后的。比如说数学原理上有没有关系，那个是看比方说文字顺序上有没有关系，后面是看语气风格有没有关系，当然这个是我拍脑袋举例子，其实这个是打比方容易理解对吧？实际原理上实际鬼。
+</p>
+<p class="transcript-line">
+<span class="time"><strong>[00:05:38]</strong> </span>
+<span class="speaker"><strong>发言人1: </strong></span>
+知道他在看什么是吧？
+</p>
+<p class="transcript-line">
+<span class="time"><strong>[00:05:40]</strong> </span>
+<span class="speaker"><strong>发言人2: </strong></span>
+对，鬼知道他在看什么东西。对，第二个是但是算的这个过程，你会发现因为要算的东西很多，其实所以在算attention的时候，之前的瓶颈其实是不在计算上。就是你算attention它其实不是GPU跑不动了。所以你每次算你每次或者换一个头，或者算你需要把很多数据挪来挪去。GPU跟这个CPU其实是一样的，它有什么一级缓存、二级缓存、主内存，对吧？一级缓存就用比较贵的这种SD RAM的这叫s RAM的这种芯片。主内存就是我们现在这种HBM的芯片。那你会发现它的瓶颈其实在这些数据的换入换出上。
+</p>
+<p class="transcript-line">
+<span class="time"><strong>[00:06:19]</strong> </span>
+<span class="speaker"><strong>发言人1: </strong></span>
+所以优化的方向就不是说让你算的更快，而是说我提前做好规划，让你就是搬东西搬的更少。
+</p>
+<p class="transcript-line">
+<span class="time"><strong>[00:06:26]</strong> </span>
+<span class="speaker"><strong>发言人2: </strong></span>
+你应该这样理解，就是说我宁愿多算一点也少搬一点。如果我可以多算一点代替少搬一点，我就多算一点代替少搬一点。
+</p>
+<p class="transcript-line">
+<span class="time"><strong>[00:06:35]</strong> </span>
+<span class="speaker"><strong>发言人1: </strong></span>
+OK这是那个flash的flash attention.
+</p>
+<p class="transcript-line">
+<span class="time"><strong>[00:06:40]</strong> </span>
+<span class="speaker"><strong>发言人2: </strong></span>
+你可以认为这样理解，这flash MLA本质上也是类似的。因为第一个是说MLA是那个deep sk他自己提出的，他其实没有用标准的。大家这些看到的lama，或者说看到这些主流开源模型用的这些attention技术，他用了一个叫做它的全称叫做multi head letten mute head。这个大家都是一样，大家所有的现在的机制都是多头注意力机制。第二个所有的人的机制都是attention机制，这个都没有问题对吧？那之前大家用的一些叫什么，就是什么group attention？就是说多个头，但是算比方说权重是共享的那它的做法是说我能不能把它叫latin attention。Latin就是这个我觉得是在很多机器学习论文里都会有这个思路，叫做隐空间。就是我能不能把一个你的真实空间放到一个隐空间里去。
+</p>
+<p class="transcript-line">
+<span class="time"><strong>[00:07:31]</strong> </span>
+<span class="speaker"><strong>发言人1: </strong></span>
+我可以把它理解成一个，比如说有一个数据，一个矩阵太大了，我把它压缩成一个维度往下降压缩一下，让它好放一点。
+</p>
+<p class="transcript-line">
+<span class="time"><strong>[00:07:40]</strong> </span>
+<span class="speaker"><strong>发言人2: </strong></span>
+对，letter你可以认为基本上就是这个思路。你得理解就是说我们学到的这些权重对吧？它的实际的空间是非常大的。比如说你有一个2048维的空间，它其实这个空间是无穷大的。你学你号称学出来有不同的有那么多的参数。每他如果把把它变成一个歌曲，这其实那些据就变成一个向量，那总的向量在这个空间中是非常稀疏的。本质上是能不能通过一个更小的维度，同样能表示出这么大空间中的信息，对吧？这个是常常见的，我们叫latin的latin这个思路。
+</p>
+<p class="transcript-line">
+<span class="time"><strong>[00:08:18]</strong> </span>
+<span class="speaker"><strong>发言人2: </strong></span>
+所以FLA其实我没有仔细看过他的推理跟论文，但是他我我我理解他本质上是说它是对这个矩阵的QKV这些向量做了一个低质的压缩。就是你可以认为它压缩到一个更低质的空间当中去了。那么压到更低质的空间当中去，这个就是MLA对吧？就是attention，就是我原来的那些高的矩阵，我变成一个更更小空间更小空间内就能表达出来的东西。
+</p>
+<p class="transcript-line">
+<span class="time"><strong>[00:08:48]</strong> </span>
+<span class="speaker"><strong>发言人2: </strong></span>
+Flash ML其实我你可以认为跟flash attention本质上思路还是一样的。那就是我在ML这个结构下，因为模型跟别人长得不一样，对不对？因为它不是标准的multi head attention，它不是一个标准的，或者说之前大家用的这种group attention的这种机制。他做的事情说，那我能不能写个库，我让我这个的计算也能够通过这个计算换存储，计算换带宽它不能叫存储。
+</p>
+<p class="transcript-line">
+<span class="time"><strong>[00:09:14]</strong> </span>
+<span class="speaker"><strong>发言人2: </strong></span>
+他不是说存储它的瓶颈不是存不下，而是每次去读内存他觉得太慢。我觉得核心思路是说用计算换这个带宽。这件事情其实是现在GPU计算的中国人比较需要，是吧？大家都需要。因为你今天的模型你还是会你真的在很多场景应用，你就觉得它的延时太长了。
+</p>
+<p class="transcript-line">
+<span class="time"><strong>[00:09:34]</strong> </span>
+<span class="speaker"><strong>发言人2: </strong></span>
+有另有另外一个公司有一段时间也很火，它也叫brock。我不知道大家听说过没有？GROQ.
+</p>
+<p class="transcript-line">
+<span class="time"><strong>[00:09:41]</strong> </span>
+<span class="speaker"><strong>发言人1: </strong></span>
+还有就是那个超级快的那个inference那个东西。
+</p>
+<p class="transcript-line">
+<span class="time"><strong>[00:09:44]</strong> </span>
+<span class="speaker"><strong>发言人2: </strong></span>
+对，超级那块的。他们的做法就是说我就把这种比较贵的s RAM的芯片贴多一点，SBM的这个内存换进来，换出来太快，那我就都给你贴s RAM，s RAM多点就贵一点。对，你可以认为本质上是那么个思路，但是这个dip sic我觉得做两个事。一个是MLA，就是他觉得你其实传统的attention机制里，其实还是挺浪费的，对不对？我用一个更小计算量我就能好。那更小计算量我实际要去推理优化的时候，我还是一样要去做这个通过各种工程优化使得我的内存访问，我的计算不要成为瓶颈。
+</p>
+<p class="transcript-line">
+<span class="time"><strong>[00:10:20]</strong> </span>
+<span class="speaker"><strong>发言人1: </strong></span>
+对，那我可不可以这样理解，首先它因为自己用的是MLA，MLA我就理解成，比如说上海上海是一个3D的一个空间，但是我们看地图就把它变成了一个二维的地图，对吧？最多你就在地图上标注一下这栋楼有多高。那这样子其实这张地图也你大概靠猜也大概能想象上海是什么样子。
+</p>
+<p class="transcript-line">
+<span class="time"><strong>[00:10:40]</strong> </span>
+<span class="speaker"><strong>发言人1: </strong></span>
+如果有一个张地图，告诉你每个点有多高的话，那这样子就省事儿了。他在那个那个矩阵变换的时候，有一个大矩阵就至少降降了点维度。你刚说降智什么的，然后的话他首先就省省了一些地方。然后的话你就说flash就是让他在计算的时候的话，除了省了一层意外的话，又把它比如说想办法说那你多算一点，然后少占我点带宽。因为带宽太有限了，你宁可在这边浪费点计算，也节约一些带宽，不要搬来搬去的。每次就把一整个一大大搂进来搂出去，主要就这两件事情。
+</p>
+<p class="transcript-line">
+<span class="time"><strong>[00:11:17]</strong> </span>
+<span class="speaker"><strong>发言人2: </strong></span>
+对，就是flash attention。然后到flash m一个代码我没有看过，但我理解本质上其实是一样的。它本质上是我我的模型结构就是这样特殊的。我到底去把所有的推理过程是怎么去切，就是我切成是说我能够通过计算换存储的时候就计算换存储，我能够通过通信换计算的时候就通信换计算。
+</p>
+<p class="transcript-line">
+<span class="time"><strong>[00:11:38]</strong> </span>
+<span class="speaker"><strong>发言人2: </strong></span>
+你可以认为在玩一个魔方是不是？就是魔方有标准还原套路。去拿一个魔方的这个手册，有一个标准还原套路对吧？你但是这个可能要转很多下，你可能一个普通人你也能背出来，对吧？这个就是标准，我去attention计算它的做法来说，它在不同的环节你可以这里转一下，那里转一下，可以少转很多步，我就能把它转出来。
+</p>
+<p class="transcript-line">
+<span class="time"><strong>[00:11:57]</strong> </span>
+<span class="speaker"><strong>发言人1: </strong></span>
+我判断具体情况，我可以有具体的更优化的小策略，但是这样子你可能就要多备20个策略.
+</p>
+<p class="transcript-line">
+<span class="time"><strong>[00:12:04]</strong> </span>
+<span class="speaker"><strong>发言人2: </strong></span>
+对。
+</p>
+<p class="transcript-line">
+<span class="time"><strong>[00:12:04]</strong> </span>
+<span class="speaker"><strong>发言人1: </strong></span>
+你可以这样认为了解。那你这个东西跟之前那个他们不是早几天发了一个NSA，跟NSA的关系的话就是NSA就是说那我在attention的时候更方块attention，然后更就是粗粗的attention一下，再细细attention。
+</p>
+<p class="transcript-line">
+<span class="time"><strong>[00:12:21]</strong> </span>
+<span class="speaker"><strong>发言人2: </strong></span>
+我觉得是这样的。NSA我觉得是又是另一个领域了，还有另外一种NSA为是为了解决的是长上下文。NSA是说因为你今天用attention，你今天不管是MLA也好，还是用其他的attention标准的attention也好，你都会面临一个问题。就是我读一个token，要读前面的所有token。这个所有的token的长度始终还是有限的，对不对？而且长度越长我的计算量越大。理论上讲我也可以训练无线或者说特别长的上下文，但是硬训肯定是个不经济的方法。NSA本质上是去解解一个长上下文的问题的，你可以认为是。
+</p>
+<p class="transcript-line">
+<span class="time"><strong>[00:12:57]</strong> </span>
+<span class="speaker"><strong>发言人1: </strong></span>
+那它的解法的话我粗略，因为我看到它稀疏。
+</p>
+<p class="transcript-line">
+<span class="time"><strong>[00:13:00]</strong> </span>
+<span class="speaker"><strong>发言人2: </strong></span>
+它的解法本质上还是一个模型结构层面的解法。因为我大概读了一下，看来summary我理解它还是一个模型结构层面的解法，而不是就它不是个推理优化层面的解法。当然这个模型结构的解法未来你也可以去做新一步的推理优化，对吧？
+</p>
+<p class="transcript-line">
+<span class="time"><strong>[00:13:16]</strong> </span>
+<span class="speaker"><strong>发言人1: </strong></span>
+所以他其实不是attention，这个不对，它是推理。所以你说的是它是前面的事情，不是后面的事情。
+</p>
+<p class="transcript-line">
+<span class="time"><strong>[00:13:24]</strong> </span>
+<span class="speaker"><strong>发言人2: </strong></span>
+你现在解决一个原理问题就是attention是说我一个token要读前面所有的token，对不对？那理论上讲我要做的事情就是我要运算前面所有的token。我训练的时候也得这么做，推理的时候也得这么做。我如果希望前面的token很长，但是我又能训出来，又能算出来，你先得在原理上证明这个事情是有一个办法的。
+</p>
+<p class="transcript-line">
+<span class="time"><strong>[00:13:46]</strong> </span>
+<span class="speaker"><strong>发言人2: </strong></span>
+你现在不是靠推理优化，因为推理优化它计算量就是这么大，你再怎么优化你也得算这么多。你现在从模型结构的层面去做，有些比如说这个长上下文其实有很多paper，比方说分块去算，然后再聚合起来。那你先得这你不是说这个算法是不是有效，你有很多优化我不算不就行了吗，对不对？我少放几个头不就行了吗？但是你先得证你先得做一件事，证明说我这个模型结构用了这个方式之后，我的效果就不下降。
+</p>
+<p class="transcript-line">
+<span class="time"><strong>[00:14:14]</strong> </span>
+<span class="speaker"><strong>发言人2: </strong></span>
+这个是所有的这些长上下文或者其他方式的tension，或者这种混合的线性加tension混合的方式先要解决的问题。你用那些方式，它一定速度会变快，对不对？但是光快不对是没有用的。
+</p>
+<p class="transcript-line">
+<span class="time"><strong>[00:14:28]</strong> </span>
+<span class="speaker"><strong>发言人1: </strong></span>
+你就说我算的快。
+</p>
+<p class="transcript-line">
+<span class="time"><strong>[00:14:30]</strong> </span>
+<span class="speaker"><strong>发言人2: </strong></span>
+不快对，那那没有用，对不对？你算的不对，那没有用。他先要证明说，我这样算，他是算出来是对的，或者说他即使不是精确，对他近似对它的误差很小。那那也是个说法，就包括量化，就是说我告诉你，我这样算出来误差很小，然后我效果上测下来这个影响也很小。
+</p>
+<p class="transcript-line">
+<span class="time"><strong>[00:14:51]</strong> </span>
+<span class="speaker"><strong>发言人1: </strong></span>
+理解。那我如果从一个文科的角度来理解这事儿，是不是他有点像那个红楼梦。比如说我要判断56章第几个字怎么写的时候，本来我就要把前56章全看一遍，现在我大概知道说我这一章主要跟第四章和第八章相关。我先判断这类这件事儿就分了块儿，然后我就然后只把第四章和第八章打开，我再复习，然后再去判断我下一个字儿可不可以这样子。
+</p>
+<p class="transcript-line">
+<span class="time"><strong>[00:15:17]</strong> </span>
+<span class="speaker"><strong>发言人2: </strong></span>
+是这个意思吗？我觉得打比方没有问题，对吧？然后精确的回答我那篇论文我也没有仔细读过。
+</p>
+<p class="transcript-line">
+<span class="time"><strong>[00:15:24]</strong> </span>
+<span class="speaker"><strong>发言人1: </strong></span>
+K比方上大概是这样，因为我想直观的理解一下到底在干嘛。
+</p>
+<p class="transcript-line">
+<span class="time"><strong>[00:15:29]</strong> </span>
+<span class="speaker"><strong>发言人2: </strong></span>
+直观上大家在想就是那个论文的title叫什么fast attention机制。Fast attention机制就是说肯定是我没法多看我得挑一些我觉得重要的东西看。然后我怎么就尽可能的跟这个现有的GPU硬件结合，然后我这个东西是无论是训练还是推理都能比较快对吧？我觉得它是个综合的论文，它它不是一个纯理论论文，它也不是个纯推理优化论文，对吧？这个我觉得也是DC和这家公司比较厉害的一点，就是他他说他们不是个象牙塔，就是说思考问题出发点很多时候不完全是一个纯学术角度创新。
+</p>
+<p class="transcript-line">
+<span class="time"><strong>[00:16:03]</strong> </span>
+<span class="speaker"><strong>发言人2: </strong></span>
+我举一个例子，最近或者说纯学术角度把一个东西弄，或者说唇想说我硬想一个新结构要work。然后他更多的是说我它能高度跟对这个GPU的硬件结合起来说。我觉得这个方法它理论上可能是work的那我们也来证明一下。但是用这个方法它对更有一个好处，它跟硬件高度和使得硬件的性能能发挥的更好，那么它理论上可能我又能证明他是work的，他就特别有用。比方说你找工程，纯工程出发的人会想，我们就简单粗暴，我不需要理论上证明一条work。我就这样裁剪一下，然后我训出来，我或者我这样用起来效果也还凑合。不，这也是一种路子。所以说还有一种就是学术上，我会觉得说我能够想出一个学术上很精妙，但是我先不去想啥它在GPU上用起来好不好使。
+</p>
+<p class="transcript-line">
+<span class="time"><strong>[00:16:52]</strong> </span>
+<span class="speaker"><strong>发言人1: </strong></span>
+了解了OK，所以我们先就简单一点，下面那个flash MLA大概就是比如说可以用计算，然后因为瓶颈假设是在传输的话，就用计算换一点传输，对吧？就多多算一点，少少搬一点。OK这个理解了。然后他们第二天发的是那个deep EP是吧？是干嘛的？是多多专家之间的通讯机制，让让专家好配合还是干嘛？
+</p>
+<p class="transcript-line">
+<span class="time"><strong>[00:17:16]</strong> </span>
+<span class="speaker"><strong>发言人2: </strong></span>
+它就是个通讯库，它是一个叫expert paralus，对吧？就是专家行，我们现在解释一下，就是大家现在理解一下什么叫专家并行，就是是专家并行，我觉得是特别容易，大家听到一个名字之后容易被混淆了。第一个就是说大家都知道，应该都听说过迪普提克用的叫做一个MOE模型，叫做混合专家模型。对。然后混合专家模型大家很容易有一个误解，是混合专家是说我问的这个问题应该是这个专家来处理我问的问题应该是那个专家来处理。
+</p>
+<p class="transcript-line">
+<span class="time"><strong>[00:17:46]</strong> </span>
+<span class="speaker"><strong>发言人1: </strong></span>
+对对对，一般的科普都是这么讲的，说有一个调度员，你是眼科，我就给你一个眼科大夫。
+</p>
+<p class="transcript-line">
+<span class="time"><strong>[00:17:52]</strong> </span>
+<span class="speaker"><strong>发言人2: </strong></span>
+这句话既有道理又没有道理，但是去调度给哪个专家不是在你整个问题级别的，它是在某一个token级别的。
+</p>
+<p class="transcript-line">
+<span class="time"><strong>[00:18:00]</strong> </span>
+<span class="speaker"><strong>发言人1: </strong></span>
+token级别的。我不能理解这个问题，什么叫token级别调度专家？你你你说一下。
+</p>
+<p class="transcript-line">
+<span class="time"><strong>[00:18:06]</strong> </span>
+<span class="speaker"><strong>发言人2: </strong></span>
+你不能把它当成是个先分类问题，然后比如说它有很多组参数，对不对？你不能把它当成是一个分类问题。说好，这个问题进来，我分好类了，都往那个专家送。他不是这样的，他是每一个token的时候都要决定往哪个专家送。你可以这样理解吗？
+</p>
+<p class="transcript-line">
+<span class="time"><strong>[00:18:22]</strong> </span>
+<span class="speaker"><strong>发言人1: </strong></span>
+我明白了，有点像我们人的脑子，其实我现在比如说我脑子里面有有处理音频的模块，视觉模块，其实它也是每一个毫秒就有信息。它其实每一个毫秒的信息都已经散在我的各个模块也都。参与他他会挑一个，比如说我听你的声音可能就怎么样，我大概理解了是是是是是应该是这样的。
+</p>
+<p class="transcript-line">
+<span class="time"><strong>[00:18:42]</strong> </span>
+<span class="speaker"><strong>发言人2: </strong></span>
+对你能理解这个就能理解是你第二个要理解就是说很多时候就是我第一个我需要能够决定这在计算的时候，其实它也不只是有一个专家参与计算，这个也能能理解吧？
+</p>
+<p class="transcript-line">
+<span class="time"><strong>[00:18:55]</strong> </span>
+<span class="speaker"><strong>发言人1: </strong></span>
+能理解。我听你说话的时候，我的思考也在转，我的听觉也在转，我的视觉也在看着你。反正各种很多我的大脑反正肯定有一些地方激活了，一些地方没激活。但是不是只每次只每次只激活了一小坨，不是固定一小坨。
+</p>
+<p class="transcript-line">
+<span class="time"><strong>[00:19:11]</strong> </span>
+<span class="speaker"><strong>发言人2: </strong></span>
+对，然后deep sic的那个模型的专家数量特别多。
+</p>
+<p class="transcript-line">
+<span class="time"><strong>[00:19:15]</strong> </span>
+<span class="speaker"><strong>发言人1: </strong></span>
+这个也能理解吧？嗯，能理解脑子大。
+</p>
+<p class="transcript-line">
+<span class="time"><strong>[00:19:18]</strong> </span>
+<span class="speaker"><strong>发言人2: </strong></span>
+所以正常来讲，但是你可以认为一般来说一个专家类的计算是高度紧密耦合的对吧？就是它是一组attention。我们我们就先这样说吧，那你还所以在实际在推理的过程中就面临是说因为这些模型都很大，它其实是分布在很多不同的卡上，甚至不同的机器上。那DPTK那个模型是六百多B。
+</p>
+<p class="transcript-line">
+<span class="time"><strong>[00:19:39]</strong> </span>
+<span class="speaker"><strong>发言人2: </strong></span>
+所以你需要解决的一个问题就是说专家跟专家之间是要通信的。一方面我要路由对吧？我我有一个人去决定到底分给谁。第二个是说很多时候我去做这个，无论是训练还是计算的时候，我需要把这个计算的中间结果传来传去。还是回到这一轮大模型跟GPU遇到了很多挑战，它的瓶颈又不在计算上了，它的瓶颈也可能是在通信上。
+</p>
+<p class="transcript-line">
+<span class="time"><strong>[00:20:09]</strong> </span>
+<span class="speaker"><strong>发言人2: </strong></span>
+其实比较奇妙的事情是说，它跟我们的CPU还不太一样。CPU你可以认为说通信跟计算，其实跟CPU只管计算，它其实不管通信的。你今天你的电脑是这样通信是靠网卡，然后我有没有什么direct member sense，你可以认为虽然你把那个网络流量打高，它也会占CPU。但是GPU的计算单元，那计算单元叫什么？SM32那些东西它既要负责通信也要负责计算。它叫streaming multi processor对吧？叫做流式多处理器。所以他干的这个事情就是说你这些计算单元在我的这个场景下，我第一个怎么能够做到怎么边做计算跟边做通信，怎么去动态分配他是最高效的。
+</p>
+<p class="transcript-line">
+<span class="time"><strong>[00:20:57]</strong> </span>
+<span class="speaker"><strong>发言人1: </strong></span>
+反正就是要压榨到死。对。
+</p>
+<p class="transcript-line">
+<span class="time"><strong>[00:21:00]</strong> </span>
+<span class="speaker"><strong>发言人2: </strong></span>
+所以它其实是个很底层的，你可以认为是一个性能优化库OK我。
+</p>
+<p class="transcript-line">
+<span class="time"><strong>[00:21:04]</strong> </span>
+<span class="speaker"><strong>发言人1: </strong></span>
+我的我的理解我现在就完全按照自己的大脑在理解。我就想我大脑当中，比如说脑细胞假设分散到了，比如说分布式在1000个容器里面说我大脑变大了。这个时候其实那些比如说有比如说跟你聊天的时候，可能我的那个学习的模块什么的，然后我也要听声音模块，反正很多模块就会被调动。但是一次可能调动三五个，他们之间还得配合。比如说我要听懂了你的我才能够讲。但是如果比如说你是个大美女的话，可能我的视觉模块就会再被调动的多一点。那其实要调动的不一样的，就是专家或者说那个求偶模块可能就会调动的多一点。
+</p>
+<p class="transcript-line">
+<span class="time"><strong>[00:21:40]</strong> </span>
+<span class="speaker"><strong>发言人2: </strong></span>
+对它比较厉害的，你可以认为它就是一个动态的。
+</p>
+<p class="transcript-line">
+<span class="time"><strong>[00:21:43]</strong> </span>
+<span class="speaker"><strong>发言人1: </strong></span>
+对它就会不停的变。
+</p>
+<p class="transcript-line">
+<span class="time"><strong>[00:21:45]</strong> </span>
+<span class="speaker"><strong>发言人2: </strong></span>
+对对对。
+</p>
+<p class="transcript-line">
+<span class="time"><strong>[00:21:46]</strong> </span>
+<span class="speaker"><strong>发言人1: </strong></span>
+然后它那那这里面就怎么调度和怎么协同。
+</p>
+<p class="transcript-line">
+<span class="time"><strong>[00:21:50]</strong> </span>
+<span class="speaker"><strong>发言人2: </strong></span>
+对他是个adaptive routing，对吧？就动态路由。所以这个事情我觉得很简单，就是大部分人跟你没关系。这件事情就是你说科进步了，你享受他的成果。
+</p>
+<p class="transcript-line">
+<span class="time"><strong>[00:22:02]</strong> </span>
+<span class="speaker"><strong>发言人1: </strong></span>
+我觉得还是挺好的。我知道一下，因为我我我之前就知道我脑子里面关于那个mixture of experts那个模型，我的心理印象是不对的。我知道不是那样的，但是我也没有知道他到底是什么样的。今天听你讲，我大概知道是什么样了，就更进一步了。
+</p>
+<p class="transcript-line">
+<span class="time"><strong>[00:22:19]</strong> </span>
+<span class="speaker"><strong>发言人2: </strong></span>
+对我因为解因为如果不是token level的那其实跟我去很多小模型，然后前面有个分类本身没区别对吧？以及说这个事情也没有那么复杂了，就是科技的确在进步，所以大家有时候你也跟不太上。有时候你从觉得从学习的角度，你有时候觉得自己跟不太上。就是你会发现每件事情就大概跟你讲一讲觉得有道理，一看细节有没有这什么玩意儿。
+</p>
+<p class="transcript-line">
+<span class="time"><strong>[00:22:45]</strong> </span>
+<span class="speaker"><strong>发言人1: </strong></span>
+对，了解了OK，为了规避我们搞的，对我觉得还是有意义的。因为其实大部分科普的话不会到这一笔了，他科普到这里就会把把听众都吓走，为了让听众不被我们吓走话，我中间插一个问题，他deep seek把这些东西都放出来，你觉得这个意义是什么？就是他自己偷偷搞着不行吗？还是说他反正已经占了市场的这个先机了，他先放出来把自己在自己才是真正的OpenAI这个技术品牌先做实对它的好处是什么？
+</p>
+<p class="transcript-line">
+<span class="time"><strong>[00:23:18]</strong> </span>
+<span class="speaker"><strong>发言人2: </strong></span>
+我觉得有几个，其实就从开源的角度，他肯我觉得他肯定有很多内部的决策或者想法，其实我们是不知道的。我从一个外人的角度去看他们放出来，我有一个感受就是放出来又怎么了？放出来你也跟不上。我学术界那些什么菲尔兹奖或者什么论文都是公开的，论文公开就显得我很厉害。但是你看了你虽然演的进步，但你还是没有我厉害。我我我我觉得所以第一个是说我觉得像他现在放出来的这些东西，我觉得还是比较秀了一把肌肉，其实没有带来太大的坏处。
+</p>
+<p class="transcript-line">
+<span class="time"><strong>[00:23:52]</strong> </span>
+<span class="speaker"><strong>发言人1: </strong></span>
+比如说我现在要做东西。
+</p>
+<p class="transcript-line">
+<span class="time"><strong>[00:23:55]</strong> </span>
+<span class="speaker"><strong>发言人2: </strong></span>
+不能学他吗？可以学，没问题，你可以学，但是他肯定内部在做新的东西，对不对？今天还是一个技术快速发快速变化发展的时期。这个时候我把我去年的，因为今天发的这些东西都不是今天做的。就比方说他发的这些东西大概率都是DPKV3的时候，它肯定都已经有了。那V3是去年12月份发表的那从你正常从一个模型我训练完有效果，整理完发表怎么也得个几个礼拜到个把月。你之前的所有的前置工作都要再往前，就是他今天发的至少是半年以前他已经成熟使用的东西。第四个，这次发的东西其实是如果你算力很充足，你不一定需要。
+</p>
+<p class="transcript-line">
+<span class="time"><strong>[00:24:41]</strong> </span>
+<span class="speaker"><strong>发言人1: </strong></span>
+它的方向是那种我们还是穷苦，我们要逼性能的方向。
+</p>
+<p class="transcript-line">
+<span class="time"><strong>[00:24:47]</strong> </span>
+<span class="speaker"><strong>发言人2: </strong></span>
+我这样举个例子，比如说rock手上肯定人很少，他肯定没干这事儿。就SAI他搞了10万卡集群，OpenAI大概率也有一个大几万卡的集群。第一个我觉得他大概率我觉得也许有也许没有，我不知道，但是我觉得他不是一定要有的。
+</p>
+<p class="transcript-line">
+<span class="time"><strong>[00:25:03]</strong> </span>
+<span class="speaker"><strong>发言人1: </strong></span>
+但是从这个角度上来讲的话，他把这一块哪怕只是他半年前的，别人不一定要有的。那现在他公开出来是不是那个grack，还有那个OpenAI什么的，他们把这一坨加上的话，其实对他们帮助会有很大的帮助，就省钱了，就是带着富贵人家也要省钱。
+</p>
+<p class="transcript-line">
+<span class="time"><strong>[00:25:21]</strong> </span>
+<span class="speaker"><strong>发言人2: </strong></span>
+这是这周发了很多东西，咱们是发了，其实发了六天，还有个文模型对吧？那发了六天，我觉得这当中有几个就有些东西可能对大家是有用的，比如DPEP跟那个DGMM deep game，这两个东西可能是对所有人都比较有用的，这是第一个。那么deep flash m我觉得就不一定，为什么？我解释一下，比如说他们用了MLA这个架构，MA这个架构他们也证明是挺好用的。但是别的公司可能有别的架构，对不对？那别的公司的架构这路线跟你不一样，他要把他过去历史累积的经验参数这个东西推倒重来，用你的MLA训一遍，对吧？是不是？不一定，所以给你就flash MA。
+</p>
+<p class="transcript-line">
+<span class="time"><strong>[00:26:03]</strong> </span>
+<span class="speaker"><strong>发言人2: </strong></span>
+我其实flash MA这个东西是最容易猜到的。因为这个东西开源对dept k是只有好处没有坏处。它能更快的让deep sk的模型在更多的地方被用起来。
+</p>
+<p class="transcript-line">
+<span class="time"><strong>[00:26:15]</strong> </span>
+<span class="speaker"><strong>发言人1: </strong></span>
+对我我听他们内部的人来讲说，就是非常希望把用户都到别的地方去。我们不会改良我们的用户体验，赶紧去别的地方，我们要用我们的卡做训练。然后就觉得说天哪，别人花了那么多钱，搞的人你们都不要。
+</p>
+<p class="transcript-line">
+<span class="time"><strong>[00:26:32]</strong> </span>
+<span class="speaker"><strong>发言人2: </strong></span>
+对，但像DPPDGMM其实都有这个好处。就是说开给大家，任何人想要去后host一个deep seek的推理服务都能变快。而且这个意味着有更多的人有可能会去用deep c的模型，对吧？而不是用一个蒸馏的千问更多的人用我的模型，我的生态会更大吗？我的生态会更大我下一版模型出来也会有更多的人用。有一天我出个官方的应用，大家也会蜂拥而来用了解。
+</p>
+<p class="transcript-line">
+<span class="time"><strong>[00:26:57]</strong> </span>
+<span class="speaker"><strong>发言人1: </strong></span>
+所以这里面的话就是第一个秀肌肉。第二个的话，其实我分享出来的一些东西，可以让我的生态，比如说他们服务成本降低，然后速度变快，这样子我的生态可以涨起来。对对对，我们在讲这个东西差一点，这种文科的讨论这样子比较好，所以大家缓一缓。
+</p>
+<p class="transcript-line">
+<span class="time"><strong>[00:27:15]</strong> </span>
+<span class="speaker"><strong>发言人2: </strong></span>
+对我觉得你也很难判断它的对错。因为本质上竞争不是在就dip这个跟我们的这种公司竞争，对吧？其实真正能拿去用的这些公司的人也都挺厉害的那你就像说open I grow这些人肯定也都很厉害。他看了你这个东西。肯定也是说你如果完全从竞争的角度去考虑，比如DPEP。
+</p>
+<p class="transcript-line">
+<span class="time"><strong>[00:27:35]</strong> </span>
+<span class="speaker"><strong>发言人2: </strong></span>
+有一个前提是说你如果用MOE模型，它的价值会比较大对，如果你还是个dance的模型，它的价值可能就没有那么大。但是大家也都传闻说，各家其实现在都在MOE上模型跑通了。因为MOE模型还是有个好处，它的每次推理出来的激活参数小。就是说如果考虑激活参数的话，它同等比例下的激活参数还是比那个dance的这种密集参数的模型的要划得来或者效果更好。所以其实各家肯定都在训练MOE模型，但是是不是训练很好或者到什么阶段，这个其实不知道，对吧？
+</p>
+<p class="transcript-line">
+<span class="time"><strong>[00:28:16]</strong> </span>
+<span class="speaker"><strong>发言人1: </strong></span>
+刚刚讲说他其实比如说对于要提供这个服务的厂商是收益的那是不是云是收益的呢？
+</p>
+<p class="transcript-line">
+<span class="time"><strong>[00:28:23]</strong> </span>
+<span class="speaker"><strong>发言人2: </strong></span>
+而云肯定是受益的，我觉得对整个产业其实是收益的。因为一开始大家是零收益的，就我成本降低了，我能就更赚钱了。但立刻我相信这个云的价格也会打下来，因为大家会竞争，对不对？所以我们用token的人是不是token也便宜了，所以你应用其实也收益了。
+</p>
+<p class="transcript-line">
+<span class="time"><strong>[00:28:41]</strong> </span>
+<span class="speaker"><strong>发言人1: </strong></span>
+对对对，我们现在就发现说这个用token就是可以很很随便用，很爽。
+</p>
+<p class="transcript-line">
+<span class="time"><strong>[00:28:47]</strong> </span>
+<span class="speaker"><strong>发言人2: </strong></span>
+我觉得对所有人其实都受益的。我觉得压力最大的是头对头的竞对，就是国内的六小龙对吧？这个压力最大就是别人告诉你，我我我比你强十倍，那么你们这些公司还要不要融资？
+</p>
+<p class="transcript-line">
+<span class="time"><strong>[00:29:01]</strong> </span>
+<span class="speaker"><strong>发言人1: </strong></span>
+太惨了。而你刚讲的六小龙的话，我刚刚想到另外一个我自己的段子。就是我之前的判断是中国人还是我们还是挺牛的。所以我觉得中国一定可以出一家家公司的话，可以追上或者超过OpenAI，只要路是明确的，就是探路这件事儿，老美还真的是有蛮多奇奇怪怪的想法。但只要路是明确的，我们我们总有一天会赶上去的。
+</p>
+<p class="transcript-line">
+<span class="time"><strong>[00:29:26]</strong> </span>
+<span class="speaker"><strong>发言人1: </strong></span>
+我个人其实你也很难个人投进去。我当时就看到阿里巴巴几乎投了每一家，然后我当时看到他几乎投了每一家之后，我就买了一点阿里的股票，然后现在已经涨了很。我当时买的心态就是我就相当于买中国AI的etf然后发现果然是顺的。但是在当时，这不构成投资建议，只是跟大家分享一个段子理解。
+</p>
+<p class="transcript-line">
+<span class="time"><strong>[00:29:50]</strong> </span>
+<span class="speaker"><strong>发言人2: </strong></span>
+换句话说是这样的，就是因为阿里最近股价也大涨。如果你去看阿里手上的产品，他他当然有一大块核心业务是电商。但是它其实第二大板块就是to b的这些业务，对吧？有云有阿里云什么，有有钉钉对吧？那钉钉可能是今天是国内第一大办公应用，里面也加了这些AI的功能对吧？就是我看了，因为我们做业务是所有的IM都要用的，所以我也装上了钉钉。就是你你要跟很多人去沟通，你要跟不同的人沟通，你要去不管你是甲方还是别人是对你基本上把市面上所有的im都要装一遍。以前我们做海外业务也是的，海外所有的im都装一遍，一台电脑就是卡的不行。
+</p>
+<p class="transcript-line">
+<span class="time"><strong>[00:30:34]</strong> </span>
+<span class="speaker"><strong>发言人1: </strong></span>
+你刚讲讲这个，你要装所有的，我就想到你刚刚讲的就是它对于整个生态是利好。但是整个生态的话，就比如说假设是IM这个领域，那假设是对整个生态利好，那其实这个利好就像下雨。那其实就是看谁的那个谁的面积大谁接的雨就多。谁的市场占有率，比如说钉钉的市场占有率，阿里云的市场占有率，它的市占最大。
+</p>
+<p class="transcript-line">
+<span class="time"><strong>[00:31:00]</strong> </span>
+<span class="speaker"><strong>发言人1: </strong></span>
+然后的话雨就降到它身上降到最多，然后他身上长出来的长他就他身上就更容易长出场景出来。然后他根据这个场景去服务的话，然后token变便宜的话，大家就觉得是其实可能是千万。比如说下一版进步了，但是大家就会说是钉钉牛，然后也可能是阿里云。比如说用到了deep stick某个框架，然后变便宜了。大家觉得阿里云牛，我以后要一定要终身用阿里云。其实谁的市场份额大，其实谁可能就在这次的竞争当中会站到前面，谁站在用户场景。
+</p>
+<p class="transcript-line">
+<span class="time"><strong>[00:31:32]</strong> </span>
+<span class="speaker"><strong>发言人2: </strong></span>
+我是这样的，而且IM是个天然的入口。今天大家可能说大家用海外都会去开一个什么ChatGPT，我的这个入口对吧？但是的确你会觉得说国内这件事情对大家来讲，我们就发现还是个挺大的障碍，而且像很多公司还有合规要求。
+</p>
+<p class="transcript-line">
+<span class="time"><strong>[00:31:51]</strong> </span>
+<span class="speaker"><strong>发言人2: </strong></span>
+但是比方说你假设你今天办公用的是钉钉，钉钉其实在我看了一下，他在一级入口就留了这个AI的入口了，他现在在一级入口就留这个入口了。这就意味着什么呢？意味着其实如果你想要用一下，比如说天问对吧？你其实也不需要再去找别的地方，你在那个入口就能干这个事儿了。你就直接去去问他他就能回答你的问题。你不需要去说我再去另外开一个窗口什么，我再打开某一个别的什么AI的入口或者怎么样，对吧？
+</p>
+<p class="transcript-line">
+<span class="time"><strong>[00:32:21]</strong> </span>
+<span class="speaker"><strong>发言人2: </strong></span>
+理论上来讲就是说阿里可以把所有的，反正我有云，对不对？我这个云上我一边你可以私有化部署我们API，我挪一部分这个API所有的开源模型我都可以接过来，你想用都能用。它其实是一个办公场景的入口，然后我的办公场景渗透的用户又足够多。
+</p>
+<p class="transcript-line">
+<span class="time"><strong>[00:32:42]</strong> </span>
+<span class="speaker"><strong>发言人1: </strong></span>
+那这样子的话其实就是不管是模型变得更厉害了，还是比如说我们的效性价比提高了。这个时候最先被吃到这个红利的其实就是掌握这种企业级场景的。比如说其实我要的是个OKR，然后我要的是一个算KPI的工具，我要的是一个比如说帮我做会议引导员。那这个时候的话我其实额外装一个工具就很麻烦了。
+</p>
+<p class="transcript-line">
+<span class="time"><strong>[00:33:09]</strong> </span>
+<span class="speaker"><strong>发言人1: </strong></span>
+但是钉钉里面的话，其实就可以用AI把这些模块一个一个的套进来，那我就all in one把它给搞定了。搞定了之后的话，我就会觉得是钉钉好。其实有可能是背后的模型好，或者背后的那个infor info好，info提高了。但是因为只要80%的人，比如说原本用的是哪个IM他就继续在这个IM上面了，这样子就谁面积大谁天降甘霖就爽。对。
+</p>
+<p class="transcript-line">
+<span class="time"><strong>[00:33:34]</strong> </span>
+<span class="speaker"><strong>发言人2: </strong></span>
+我觉得这就是你刚才讲的那个叫什么中国a ietf这个逻辑，对吧？你想当初OpenAI上的时候，谁的股价或谁收益短期内收益最大，其实当时收益最大的是微软。因为open I是个闭源模型，所以说微软我独家对吧？你要用OBONI的，你一旦要在企业用它最牛，你就用我的就好了。而且微软又是微软，本质上就是跟阿里很像，它是最大的云之一，对吧？海外也比较竞竞争也比较激烈。第二个是说它是最大的办公场景。
+</p>
+<p class="transcript-line">
+<span class="time"><strong>[00:34:03]</strong> </span>
+<span class="speaker"><strong>发言人1: </strong></span>
+你这几乎一模一样，这样几几乎一模一样。
+</p>
+<p class="transcript-line">
+<span class="time"><strong>[00:34:07]</strong> </span>
+<span class="speaker"><strong>发言人2: </strong></span>
+只是大家的入手不一样。就是海外它是office，国内你可能今天是最大的办公场景是中小企业的话是钉钉对吧？
+</p>
+<p class="transcript-line">
+<span class="time"><strong>[00:34:14]</strong> </span>
+<span class="speaker"><strong>发言人1: </strong></span>
+对，那如果往这边再推演一步的话，就会因为其实除了火以外的话，最近不是还火了语数，都都跑杭州的这批公司，什么语数，还有那个生老生老吃奶就带个圈圈。
+</p>
+<p class="transcript-line">
+<span class="time"><strong>[00:34:28]</strong> </span>
+<span class="speaker"><strong>发言人2: </strong></span>
+在头上抢脑。
+</p>
+<p class="transcript-line">
+<span class="time"><strong>[00:34:29]</strong> </span>
+<span class="speaker"><strong>发言人1: </strong></span>
+对我很神的一个公司。对我之前还在练冥想的时候，还想过要买一个圈圈来着，但是觉得实在是有点贵，觉得是不是智商税？杭州漆小龙，听说有四家都在用钉钉，可能因为都在杭州，然后所有的公司感觉钉钉都是第一选择。然后那个语数春节联欢晚会上面跳舞的那个那个机器人，他们好像也都在用钉钉。听说一个场景，就是他们那个公司里面用钉钉的话，比如说我们用钉钉的话，最多也就是跟聊个天然后开个会议记录。然后听说语速那边是可以直接用钉钉指挥那个机器人去干活的，就给机器人同事发个钉钉，让他去把会议室的桌子擦一下。
+</p>
+<p class="transcript-line">
+<span class="time"><strong>[00:35:12]</strong> </span>
+<span class="speaker"><strong>发言人2: </strong></span>
+我觉得这个合理，这个其实非常合理，这个就把AI跟聚生智能串起来了。
+</p>
+<p class="transcript-line">
+<span class="time"><strong>[00:35:18]</strong> </span>
+<span class="speaker"><strong>发言人1: </strong></span>
+你的机器人同事你去帮我定个会议室，定个会议室不光是在软件上定了一个会议室。对，还是你把会议室定好之后，还帮我做桌子擦了，把白板给擦了。看起来语速他既然可以丢手绢的话，擦个白板也能擦。
+</p>
+<p class="transcript-line">
+<span class="time"><strong>[00:35:34]</strong> </span>
+<span class="speaker"><strong>发言人2: </strong></span>
+我觉得这个其实还就是如果是这样想象的话，它它的价值其实还不是在办公室内部，而是机器人你其实可以派出去的对吧？就理论上讲，你说你说这个机器人的作用不是在办公室内部帮你擦一下桌子，而是语数。这个机器人可以跑到跑到户外去，对吧？我帮你把甚至我办公室在上海，我可以操作他在北京。
+</p>
+<p class="transcript-line">
+<span class="time"><strong>[00:35:57]</strong> </span>
+<span class="speaker"><strong>发言人1: </strong></span>
+这个事儿是得做一些。
+</p>
+<p class="transcript-line">
+<span class="time"><strong>[00:35:59]</strong> </span>
+<span class="speaker"><strong>发言人2: </strong></span>
+我不想做就是插到办公室什么的。他其实做个demo其实特别好。但是我举个例子就是我觉得短期内其实最大的价值可能还是在那些风险系数比较高的场地。所以我让他去野外，我去把排个雷。这当然是一种了，对吧？这个就不一定是器人了，你就可以是机器狗了对吧？
+</p>
+<p class="transcript-line">
+<span class="time"><strong>[00:36:20]</strong> </span>
+<span class="speaker"><strong>发言人1: </strong></span>
+或者机器鸟了。语数也有机器搞，我看的那个真的非常酷炫。
+</p>
+<p class="transcript-line">
+<span class="time"><strong>[00:36:24]</strong> </span>
+<span class="speaker"><strong>发言人2: </strong></span>
+这样的话你就是说我这个比如我一个公司，比如说语数，他们说他用滴滴，我在办公室里我随便打比方我不知道，就是我要去线下，比如说去门店去看一圈，巡查一圈，我要去大街上统计这里新开了多少餐馆，我就可以派一个机器人，我的AI是钉钉里的一个agent，我下了一个指令，然后他就让语速，他就操作这个机器人去看了。他说跑到这个对吧？他也联网，我们国家5G也很发达，随时随地都能联网。他就出门坐个地铁跑到这个万达广场，从地下一楼一家店看下来，还能帮你数一下人头数完就回来了。然后在钉钉上告诉你。然后你这个agent再想一想分析一下对吧？Deep sk thinking一下说我应该调研哪个品类，再放他出去，再在那儿干个活儿，然后再走一圈回来对吧？你也不用，这完了失业了。
+</p>
+<p class="transcript-line">
+<span class="time"><strong>[00:37:25]</strong> </span>
+<span class="speaker"><strong>发言人1: </strong></span>
+你说的对，你这个场景比较科幻。那我想说语速他们用的话感觉就是突然想到说他们好像用钉钉也比较。因为做实验的，我们造机器的就感觉说这方面的高科技，如果是做实业的话，感觉确实是在钉钉的这个场景下就比较和。然后刚刚我们讲说它如果底层的那个科技进步了的话，那他们的面积最大，用户场景最多可收到的那个收到的好处也就最多，红利街的盆儿最大，这样也挺好的。
+</p>
+<p class="transcript-line">
+<span class="time"><strong>[00:37:55]</strong> </span>
+<span class="speaker"><strong>发言人2: </strong></span>
+我觉得是的，客观来讲就是这件事情，这个就跟疫情的时候您受益最大是一样的。其实它其实取决于说我今天有足够多的中小企业的市场占有率。然后说而且这个事情接入它又非常自然，因为你今天的所有的模型还是以对话形式，chat PT其实告诉了我们说AI的当前AI你从智能的角度最有效的形式还是对话这个形式。
+</p>
+<p class="transcript-line">
+<span class="time"><strong>[00:38:18]</strong> </span>
+<span class="speaker"><strong>发言人1: </strong></span>
+所以最后你会发现说以前说那个AI没有护城河，最后发现护城河是规模，然后你有了规模你就有了场景，有了场景你就练更多的，把更多的市场的红利，像开源，什么乱七八糟都可以弄出去进去。然后自己还有千万，前面也很牛，然后再把这一套东西再转起来，再转起来之后的话，它就或者像deep sk deep sik的话，现在也是有一个飞轮已经起来了。因为我牛，然后我就成为了全村的希望。大家都希望着你成，然后所有的资源向你聚集，然后你再公开出来的话，反正它就有一个良性循环。我都不需要市场费用，我就可以做到。比如说DAUDE，然后因为有了DAUDE，因为又有了这么多用户的话，有那钱什么方面人才的品牌又出来又不缺，所以感觉都是一个良性的循环。刚刚那个是中场休息过去的话，我们再来讲第三个，我怕直接全部讲技术就晕过去了。
+</p>
+<p class="transcript-line">
+<span class="time"><strong>[00:39:13]</strong> </span>
+<span class="speaker"><strong>发言人2: </strong></span>
+Deep jam是干嘛的？Deep jen我觉得更简就是个计算库，就是算矩阵乘法，算的更八位精度，算矩阵群矩阵乘法算的更快。
+</p>
+<p class="transcript-line">
+<span class="time"><strong>[00:39:23]</strong> </span>
+<span class="speaker"><strong>发言人1: </strong></span>
+这有啥？它是一个标准的东西吗？这还能优化吗？我以为矩阵乘法就是一个相当于它它是一个整体，叫做矩阵乘法。这个东西本身还有优化空间，为什么？这不是个数学吗？
+</p>
+<p class="transcript-line">
+<span class="time"><strong>[00:39:37]</strong> </span>
+<span class="speaker"><strong>发言人2: </strong></span>
+第一个是如果其实传统的商业计算库本来就很贵，是这样的，数学是一个本质上是个无限空间，但是你一旦用计算机来算，它其实是有精度问题的。能能我不知道能不能解释。
+</p>
+<p class="transcript-line">
+<span class="time"><strong>[00:39:51]</strong> </span>
+<span class="speaker"><strong>发言人1: </strong></span>
+知道了。理解计算机。
+</p>
+<p class="transcript-line">
+<span class="time"><strong>[00:39:53]</strong> </span>
+<span class="speaker"><strong>发言人2: </strong></span>
+就是我们无论是浮点数还是整数。比如说我今天用浮点数，它其实是有个精度问题的。精度问题就是说我只能表示到小数后点后多少位。然后比方说我用无穷和0.0001一直往上加加到后来你会发现再往上加0.01，它这个值不变，对吧？这个就是精度问题，这个是计算库带来的精度问题。在那个深度神经网络里，其实这个问题就是你一直是要面对的。就是你弄得不好就会有就会你发现其实算的是精度不准，就带来效果就是差的。
+</p>
+<p class="transcript-line">
+<span class="time"><strong>[00:40:22]</strong> </span>
+<span class="speaker"><strong>发言人2: </strong></span>
+这个也很容易理解对吧？你明明一开始其实加了100万次，它其实加到第10万次，后面是90万次。每次去加的时候等于没加就会出问题，这个很容易理解？理解这个时候你可能合适的加法是说这一万个加在一，你应该把它分成100组，每个1万组加完这个结果再去累加，它加出来就不会错，这个是精度问题。
+</p>
+<p class="transcript-line">
+<span class="time"><strong>[00:40:43]</strong> </span>
+<span class="speaker"><strong>发言人2: </strong></span>
+如果我们只能表示小数点后三位，就是说我只能有三位进度，对吧？我只能表示1.005或者0.01或者0.001。因为零我都可以去掉，用指数位表示那0.01，100个0.01加到1加一直能加到0.99，再加0.1的时候，它就一直0.99不变了，它表示不出来了。
+</p>
+<p class="transcript-line">
+<span class="time"><strong>[00:41:06]</strong> </span>
+<span class="speaker"><strong>发言人1: </strong></span>
+为什么表示不出来？他又不是加在后面，它是变成一了。
+</p>
+<p class="transcript-line">
+<span class="time"><strong>[00:41:10]</strong> </span>
+<span class="speaker"><strong>发言人2: </strong></span>
+不是，这个是，那它表示出来还是0.99.
+</p>
+<p class="transcript-line">
+<span class="time"><strong>[00:41:14]</strong> </span>
+<span class="speaker"><strong>发言人1: </strong></span>
+我知道你你是说他表示不出来，其实就是在在电脑里面。
+</p>
+<p class="transcript-line">
+<span class="time"><strong>[00:41:18]</strong> </span>
+<span class="speaker"><strong>发言人2: </strong></span>
+应该这样讲，他你没法拿一个大大数跟小数相。在浮点数计算机里，你拿一个超大的数跟一个超小的数相加，它最后保留下的精度是有限的，所以它还等于那个超大数。
+</p>
+<p class="transcript-line">
+<span class="time"><strong>[00:41:32]</strong> </span>
+<span class="speaker"><strong>发言人1: </strong></span>
+你是说在表示上面，就比如说它有多少位来表示，是你说的。
+</p>
+<p class="transcript-line">
+<span class="time"><strong>[00:41:37]</strong> </span>
+<span class="speaker"><strong>发言人2: </strong></span>
+对他就是比如说就假设我只能显示两个数字，就是当0.99跟0.001相加的时候，它还是0.99。然后计算结果你存下来是0.99，那个一其实被扔掉了，但是0.99加0.99它就会变成2，就能表示下来。
+</p>
+<p class="transcript-line">
+<span class="time"><strong>[00:41:53]</strong> </span>
+<span class="speaker"><strong>发言人1: </strong></span>
+好，我假装你是对的。
+</p>
+<p class="transcript-line">
+<span class="time"><strong>[00:41:56]</strong> </span>
+<span class="speaker"><strong>发言人2: </strong></span>
+这个是浮点数计算的问题。这就就是这样的，就是你这个你要相信我。
+</p>
+<p class="transcript-line">
+<span class="time"><strong>[00:42:01]</strong> </span>
+<span class="speaker"><strong>发言人1: </strong></span>
+我也想起很久你在搞这个那广告的时候，然后有一天你在加班，我就问你在加什么班，然后你在说你们的那个卡什么？运行了多少亿次之后，累积了一个浮点数运算的错误，我当时就崩溃了。你想你还要考虑浮点数运算错误。
+</p>
+<p class="transcript-line">
+<span class="time"><strong>[00:42:19]</strong> </span>
+<span class="speaker"><strong>发言人2: </strong></span>
+你应该这样理解，就是这个在计算机和数学领域叫数据计算，它是一个专门的领域叫数值计算，对吧？你我书架里还有一本巨厚的叫矩阵计算，大概这么厚一本矩阵计算就是告诉你，你如果就是用浮点数在精度有限的情况下去去去去各种矩阵计算，它怎么才能准？对，你可以去看我计算机组成原理里原来专门讲过，有一个section就是专门讲这个bug的。对对对。
+</p>
+<p class="transcript-line">
+<span class="time"><strong>[00:42:46]</strong> </span>
+<span class="speaker"><strong>发言人1: </strong></span>
+徐文浩老师还讲过计算机原理，我也学过，但是全部都还给老师。
+</p>
+<p class="transcript-line">
+<span class="time"><strong>[00:42:51]</strong> </span>
+<span class="speaker"><strong>发言人2: </strong></span>
+对你你大家不要小看，所以大家有个精度问题。那第一个精度问题就大家又回到那个东西，就是我们的显存是有限的。所以无论是现在的很多优化都是说我训练是用浮点数。最简单的是我用FP32加32位浮点数，那它的表示的空间也比较大，但它占的显存也比较大，它算起来也比较慢。你容不容易理解？我就假设你理解了，为了训练模型，然后就我硬件扩展是有限的，那么我软件技巧上能不能优化呢？所以就有了叫FP16，就16位浮点数对吧？
+</p>
+<p class="transcript-line">
+<span class="time"><strong>[00:43:24]</strong> </span>
+<span class="speaker"><strong>发言人2: </strong></span>
+然后又有了叫BF16，叫做混合精度的16位浮点数。就是有时候我用一种方式来表达，有时候我用另外一种方式表达，它能让我这个数能够表示的空间能够大一点，对吧？叫BF16。后来发现BF16的不够，所以叫FP8。我用一个FP叫float point point，就浮点8位浮点数来表达，但是我需要占的空间是不是更小了？
+</p>
+<p class="transcript-line">
+<span class="time"><strong>[00:43:50]</strong> </span>
+<span class="speaker"><strong>发言人2: </strong></span>
+所以现在的所有的模型训练都是一个混合的。比如说我权重一个模型的权重通常都是用FP8来表示的。因为一般来讲我们都会把数据去做归一化中心化。就是你训练一个模型。
+</p>
+<p class="transcript-line">
+<span class="time"><strong>[00:44:03]</strong> </span>
+<span class="speaker"><strong>发言人1: </strong></span>
+那不是更短了吗？
+</p>
+<p class="transcript-line">
+<span class="time"><strong>[00:44:05]</strong> </span>
+<span class="speaker"><strong>发言人2: </strong></span>
+不是，就是尽量让这个东西在，比如说在零附近或者在一附近，都在-1到1的区间之间，离得很远就没关系。但是你比如说在一些计算loss或者梯度累加的时候，你是拿大量的训练集，你现在加在一起，然后再除再去算一个方向或者怎么样，那个值会很大。那你就用FP32或者BF16之类的东西来表示。所以它就是说你可以认为整个模型里虽然有很多参数，但不同的参数是用不同的精度来表示的。
+</p>
+<p class="transcript-line">
+<span class="time"><strong>[00:44:32]</strong> </span>
+<span class="speaker"><strong>发言人2: </strong></span>
+其实大家都在做这个事情，包括英伟达在做一个事情对吧？就是英伟达你看他发了很多吹牛皮的东西，说我的一块新显卡，这个速度是原来的好几倍。他那个好几倍说的不是FP30FP16这种，它传统的，他说他在FP8上，FP4上，它的计算速度是原来的五倍10倍。它其实在FP16上可能是原来的1.5倍。
+</p>
+<p class="transcript-line">
+<span class="time"><strong>[00:44:56]</strong> </span>
+<span class="speaker"><strong>发言人2: </strong></span>
+但是大家都想要干一个事情，就是英伟达这个FP8它的确算快了很多。那我能不能尽可能的多用FP8？但是多用FP8就是第一个是你得算的对对吧？我们极端点讲说你先得算的。对你别精度丢着他算错了那就没意义。所以你现在这保证它精度准确，那精度准确就是然后第二个你得保证它的确它金伟达说算的快，但你是不是真的能算得快？所以deep jam它其实就是一个FP8的计算库。他为了能够去解决这个问题，他就是要解决FP它因为你表示的位数很小，你如果有海量的累加的话，它精度就会丢失。
+</p>
+<p class="transcript-line">
+<span class="time"><strong>[00:45:38]</strong> </span>
+<span class="speaker"><strong>发言人2: </strong></span>
+精度丢失就有一些英伟达其实也有计算库，叫cut last。如果你是大家在传统CPU上计算过做过这个机器学习。就我以前跟你说的，比如说我们用plus这种库，它也有去解决这种精度计算的这个问题。
+</p>
+<p class="transcript-line">
+<span class="time"><strong>[00:45:53]</strong> </span>
+<span class="speaker"><strong>发言人2: </strong></span>
+积分器可告诉你说，官方的库不好，官方的库太慢了，官方的库太慢。我来给你写一个，我花三百行代码来写一写，他不要依赖库特拉斯这些巴拉巴拉其他的这个三方库，那个三方库搞了一堆模C加加模板什么的，太慢了。我来给你写一个，这么写就我们去读一下英伟达的官方的文档，我们这样写一下它就快了。大概就是这么个意思，大家能理解吧？300行python代码。
+</p>
+<p class="transcript-line">
+<span class="time"><strong>[00:46:22]</strong> </span>
+<span class="speaker"><strong>发言人1: </strong></span>
+对吧？所以其实就是不是说因为比如说7乘以八这是个数学。但是怎么让它在最先进的GPU上呢？就是因为它不是7乘以8，它是一个巨大的矩阵乘矩阵。那那这个时候的话，怎么怎么让让它的表示和它的运算是能够最大化的用好它。最高性能。比如说你刚刚说那个FP8是最快的，那怎么把这个给用上，但是又把那些比如说连续累加的精度损失给补上来，就有一些精妙的想法，但是300行代码就实现了，就比英伟达自己出的还好。
+</p>
+<p class="transcript-line">
+<span class="time"><strong>[00:46:57]</strong> </span>
+<span class="speaker"><strong>发言人2: </strong></span>
+对你你可以是你可以这么讲。好的。
+</p>
+<p class="transcript-line">
+<span class="time"><strong>[00:46:59]</strong> </span>
+<span class="speaker"><strong>发言人1: </strong></span>
+大该理解了。没有我之前经常跟外面说，我现在已经不懂技术了，大家都觉得我谦虚。听完这期播客之后，大家可以是对对我多多了一些信任。好的，第四个deal pipe是干嘛的？Deal pipe和1PLB。对。
+</p>
+<p class="transcript-line">
+<span class="time"><strong>[00:47:15]</strong> </span>
+<span class="speaker"><strong>发言人2: </strong></span>
+deal pip其实跟DDEP我觉得其实挺像的。其实解决就是大的他他宏观领域很像的就是DPEP是叫专家并行，就是我提升专家并行的性能。
+</p>
+<p class="transcript-line">
+<span class="time"><strong>[00:47:27]</strong> </span>
+<span class="speaker"><strong>发言人1: </strong></span>
+EPLB比较。
+</p>
+<p class="transcript-line">
+<span class="time"><strong>[00:47:29]</strong> </span>
+<span class="speaker"><strong>发言人2: </strong></span>
+EPLB对，就是第四天他其实发了三个东西，就do pipe EPLB。但这两个东西我觉得跟前面的那个DPEP的价值其实是类似的是类似价值是类似的，内容肯定不一样。它本质上还是说我从因为我还是一个多机多卡的训练和推理的过程，我通过什么技术手段能够让这个效率尽量高，我解释一下。
+</p>
+<p class="transcript-line">
+<span class="time"><strong>[00:47:54]</strong> </span>
+<span class="speaker"><strong>发言人2: </strong></span>
+Do pepe在干一个什么事情呢？Do pepe干一个事情叫做我刚才讲的叫专家并行，对吧？我们这里要再科普一下，有一个东西叫做流水线并行。什么叫流水线并行呢？就是这个跟CPU的流水线并行也是一样的，或者说CPU的指令流水线也是很像的。
+</p>
+<p class="transcript-line">
+<span class="time"><strong>[00:48:10]</strong> </span>
+<span class="speaker"><strong>发言人2: </strong></span>
+今天我们去训练一个模型是模型也很大，所以我们没办法放在一张卡上，放在很多张卡上。流水线并行我们也说过，就是说这个深度神经网络它其实有很多层。他的做法是说，我能不能把这一层计算这一层放在这张卡上算完的结果传到另外一张卡上，然后另外展开上来算下一层。我们先现在这样解释，这个也很容易理解，对不对？但是光这样做，其实卡是用不满的。因为我那张卡在等我这里算的时候，它其实不能跑，他得等你把算的结果传给我。他最好的方式是说我算的这批卡传给你，再算下一批的时候，我这张卡已经在算下一批了。这个叫流水线。
+</p>
+<p class="transcript-line">
+<span class="time"><strong>[00:48:52]</strong> </span>
+<span class="speaker"><strong>发言人2: </strong></span>
+但是流水线你是没有办法完全跑满的，你没办法是这非常精确的预测到说是神经网络训练的时候，比如说它有反向要算梯度，你总得算完一个batch再算下一层。所以我们会把它切成很小的一小批的数据，对不对？但它中间总是会有一些空隙，说这些卡这段时间它是空着的这这个空着呢在这个我们叫它气泡，那气泡就气泡越少意味着我对卡的利用率越高。迪普杰克说。那我能不能这样算，我让气泡尽量少的方式是不是只算一个方向？就是一般来讲这个气泡我是推理，我先是正向做forward的计算，算完再反向算梯度。我能不能在forward的计算跟back我的计算的时候是同时进行，它的这个气泡就会少。因为forward的计算和反向这个book的计算，这两个计算之间互相之间是没什么依赖的。
+</p>
+<p class="transcript-line">
+<span class="time"><strong>[00:49:46]</strong> </span>
+<span class="speaker"><strong>发言人1: </strong></span>
+它怎么可以同时进行的？
+</p>
+<p class="transcript-line">
+<span class="time"><strong>[00:49:48]</strong> </span>
+<span class="speaker"><strong>发言人2: </strong></span>
+同时进行是他拿的是不同的数据，在做不同的事情。我们这样讲还是。
+</p>
+<p class="transcript-line">
+<span class="time"><strong>[00:49:53]</strong> </span>
+<span class="speaker"><strong>发言人1: </strong></span>
+说比如说我有100张卡，我看哪些闲着的。
+</p>
+<p class="transcript-line">
+<span class="time"><strong>[00:49:57]</strong> </span>
+<span class="speaker"><strong>发言人2: </strong></span>
+比如说我在做，不是不是为他什么同时进行，我觉得没有完全讲清楚，我刚才应该没有讲清楚，就是流水线这件事情，我们现在讲清楚流水线的逻辑是说就模型计算去做很多这种矩阵的计算。就矩阵计算它是我们刚才先讲了，它得拆成流水线，就是说拆成流水线的角度，就是这当中有很多个矩阵算很多个tension，上一层的tension等等，下一层的tension算完对不对？上一层的attention在算的是而第二个，我的数据是有很多个批次。比如我训练的时候，现在一个H都很，比如说有100万条数据，它其实是比如说我五千条数据去算可不可以？那五千条数据在这个卡上算的时候，另外一张卡再算，算完了他传到了下一张卡，第二张卡算这5000条数据的第二层attention的这个值，我们假设这样去算后面那张卡就可以算同batch里的另外5000条数据。这个我们叫micro batch或者叫mini batch。
+</p>
+<p class="transcript-line">
+<span class="time"><strong>[00:50:53]</strong> </span>
+<span class="speaker"><strong>发言人2: </strong></span>
+这所有这些东西全都算完之后会累加，才会去做一次梯度下降。但是这个当中就是像的会做很多优化。第一个是我流水线这个batch size是多少，然后我怎么去切模型，怎么去分配这些计算单元的通信跟计算的配比，使得我这个显卡竟然能被用满。但是通常我们优化只考虑，比如说我只考虑反向传播这一路，或者我只考虑正向计算这一路。但其实是模型推理的过程，你可以认为是说它其实是一个先正向再反向的过程。所有的模型计算都是我当前的权重，我把这个输入就输入进来去叭叭算算完这个结果跟我预期的结果对比算一个差距，然后反向算梯度再反向回来，对不对？所以正常人的想法是说，我先我优化一路，我正向传播我怎么还算算完，我反向传播怎么算算完。那么他的想法是说我能不能同时算算盘。
+</p>
+<p class="transcript-line">
+<span class="time"><strong>[00:51:53]</strong> </span>
+<span class="speaker"><strong>发言人1: </strong></span>
+这个在逻辑上怎么做到呢？还是我这一次的正向和上一次的反向一起。
+</p>
+<p class="transcript-line">
+<span class="time"><strong>[00:51:58]</strong> </span>
+<span class="speaker"><strong>发言人2: </strong></span>
+逻辑上能做到。逻辑上的挑战是你其实不太好调度，反向传播是的时候是我一般在算一边一边算一边去更新参数。正向传播我只做计算，但是正向传播和反向传播之间是可以同时做到的。因为你卡的计算单元，你可以有时候调配给正向传播，有时候调配给反向传播，有时候给调配给为正向传播往后传的数据的通信，有时候调配给反向传播往后传的数据，但它肯定是更难的。假设我的这些模型的某一系列的权重会计算放在某一块卡上，你让他有时候这项计算有它肯定是更难的。它其实是do pipe在干的事儿。
+</p>
+<p class="transcript-line">
+<span class="time"><strong>[00:52:38]</strong> </span>
+<span class="speaker"><strong>发言人1: </strong></span>
+OK了解了，他就把正反向的活儿拼起来，让工人累死，让生产线没有任何空档。
+</p>
+<p class="transcript-line">
+<span class="time"><strong>[00:52:45]</strong> </span>
+<span class="speaker"><strong>发言人2: </strong></span>
+对对对，你在这边做通信的时候，那边做计算，你在这边那边做计算的时候这边做通信。这本质上还是个尽量把海域买的逻辑。Do pipe? 就很就我觉得为什么那天我在朋友圈发，我觉得他们发了几个东西就特别像google，特别像早年的google。就是你我手上反正硬件不太行，我想了一些技术上很牛逼的方法。
+</p>
+<p class="transcript-line">
+<span class="time"><strong>[00:53:07]</strong> </span>
+<span class="speaker"><strong>发言人1: </strong></span>
+对，google之前也是这样，google之前拼那个大规模的服务器对吧？
+</p>
+<p class="transcript-line">
+<span class="time"><strong>[00:53:12]</strong> </span>
+<span class="speaker"><strong>发言人2: </strong></span>
+对，就是中国的对吧？它本质上就是特别像google，就是说我的我的设备其实最好的设备没有那么多，我可能也没那么多有钱。因为它也不是融资烧钱的，他自有资金大家就会花的就会比较谨慎。那我想想，道理上这个事情是可以这么干的对，就是你觉得理论上这个事情可干的，我觉得事实上这个事情就是可干的，我们就花点时间把它干出来，也不用很久。
+</p>
+<p class="transcript-line">
+<span class="time"><strong>[00:53:38]</strong> </span>
+<span class="speaker"><strong>发言人1: </strong></span>
+这也有点心酸，是不是还是因为没有卡？有卡的话他们会低到这么狠吗？
+</p>
+<p class="transcript-line">
+<span class="time"><strong>[00:53:43]</strong> </span>
+<span class="speaker"><strong>发言人2: </strong></span>
+就是我觉得有卡可能不一定有卡，你的打法思路可能也会有差别。我觉得如果你有卡，你手上有很多卡，是不是一定会这样？我觉得真的会打一个问号，对吧？就假设他跟open I手上一样，什么融了一千亿美金，或者说brock一样融了几百五六百亿美金，手上有10万张卡，你说他会不会干这个事情？
+</p>
+<p class="transcript-line">
+<span class="time"><strong>[00:54:03]</strong> </span>
+<span class="speaker"><strong>发言人1: </strong></span>
+真不一定，他们现在都不缺钱，就缺卡，然后问大家要钱吗？不要，你们能搞卡吗？OK那EPLB是类似的一个东西吗？
+</p>
+<p class="transcript-line">
+<span class="time"><strong>[00:54:12]</strong> </span>
+<span class="speaker"><strong>发言人2: </strong></span>
+EPLB其实我就没怎么看了，但是我看它的简单说明就是我没有仔细看。但是我看这个名字跟大概的描述，我觉得其实是比较容易理解的。就是我刚才跟你解释过，我们说了MOE模型它的专家是你可以认为是在每算一个token的时候就要平衡的。所以实际在计算的时候，每个专家的这个世界上对于专家的需求是不平衡的。今天世界上比方说对于AI的专家的需求在暴涨，对于IOS开发的专家的需求在减少，对于植物学专家的需求没有那么旺盛。
+</p>
+<p class="transcript-line">
+<span class="time"><strong>[00:54:50]</strong> </span>
+<span class="speaker"><strong>发言人2: </strong></span>
+所以在你训模型的时候和你推理模型的时候，其实你是不知道到底哪个专家负载会重，哪个专家比较算的比较多，哪个专家算的比较少的。实际在训练的时候，他跟密集模型有一个区别。你不是说我权重简单分一分就完事儿了。如果这个专家在推理跟训练的时候要用的比较多，我应该多copy几份放在我这整个的网络结构里。我算的时候就是GPU又能应用满了。就是算的少的专家你就算的少的专家你就少放一点，你就只放一份算的专家你可以放多的专家，可以放100份。那他其实就是干这个事儿的，叫做专家的负载均衡。它的负载均衡不只是说负载放在那里，我去路游。而是说根据一个分层的策略，甚至是说推理的动态的压力的策略去复制一个专家，然后放到不同的GPU上，就是负载多的专家就会用的比较多，负载少的专家就会用的比较少。
+</p>
+<p class="transcript-line">
+<span class="time"><strong>[00:55:57]</strong> </span>
+<span class="speaker"><strong>发言人1: </strong></span>
+OK好，我们进入到了第五题，3FS是干嘛的？
+</p>
+<p class="transcript-line">
+<span class="time"><strong>[00:56:02]</strong> </span>
+<span class="speaker"><strong>发言人2: </strong></span>
+3FS就是又是一个穷人特别重视的事情，这个事情我就特别感兴趣，就是因为我们也很穷，就是模型训练。我们讲过模型训练其实很多时候它的瓶颈跟这个其实就很像google，我觉得又很像google发big table跟发这种的感觉。就是说我们很穷，我们不可能像glock一样我买很多s rap，我很有钱，我像glock一样我买很多s RAM。S RAM比内存贵十倍，对不对？我自己做个芯片我都贴在里面。第二个是说，我差一点我就用好的显卡，然后我用那个input band，然后我用这个东西把所有的东西都存到这个内存里，那不就更快吗？我们更好的网卡。实际上他们干了个什么事，他们觉得说对的。
+</p>
+<p class="transcript-line">
+<span class="time"><strong>[00:56:49]</strong> </span>
+<span class="speaker"><strong>发言人2: </strong></span>
+在模型训练，模型推理，特别是模型很多时候要去做数据处理。就是你如果今天去训练一个模型，你有海量的数据。有一种方式是说，今天我想把数据的配比改一下，对不对？有一种方式是说我把数据用一个计算机群重新按照这个配比计算一遍存下来，然后就用这个东西加载进来做训练。那存下来这个东西，我可以放在一个高性能存储上。之前大家比如说用NFS或者用这个，现在大家都知道用vass的存储。
+</p>
+<p class="transcript-line">
+<span class="time"><strong>[00:57:21]</strong> </span>
+<span class="speaker"><strong>发言人2: </strong></span>
+更有钱的就是我搞个真正有钱的公司。我猜像rock这种公司说没关系，我们有钱，我们为了追进度，我给你搞一个内存集群。这个东西专门用来放数据，用内存当这个数据cache。他们就说我们要做个我们搞个分布式文件系统，用SSD硬盘，用这个网卡使得我能够比较快的去。
+</p>
+<p class="transcript-line">
+<span class="time"><strong>[00:57:47]</strong> </span>
+<span class="speaker"><strong>发言人2: </strong></span>
+第一个可能我不需要说每次预计算，我完全可能是说我这个数据配比，原始数据就是这些我就都加载进来。我动态的通过计算节点去改配比，然后我再给下有管道去用，我就用普通的SSD，我就用普通的server，我用高性能的网卡串起来。我必须用更贵我不需要用更贵的存储设备，我也不需要用内存来去做各种缓存。无论是数据还是说我们计算中的KV cache。这样能够带来的一个结果就是说我用更廉价的存储，能够跟你们有差不多的性能，或者性能比你差一点没关系。
+</p>
+<p class="transcript-line">
+<span class="time"><strong>[00:58:24]</strong> </span>
+<span class="speaker"><strong>发言人1: </strong></span>
+但我ROI高，所以它是用相当于用SSD就可以达比较好的一个并行的，比如说吞吐数据的一个方案，可以这样理解。
+</p>
+<p class="transcript-line">
+<span class="time"><strong>[00:58:35]</strong> </span>
+<span class="speaker"><strong>发言人2: </strong></span>
+对，他把它封装成一个文件系统。这个事情我觉得特别像第一次看big table那种论文的时候，大家都知道。比如说我顺序读写快，是传统机械硬盘顺序读写快，随机读写慢。同时我又想做一个文件系统，我又要对外部要透明。你不能说调用的人我得知道这块数据存在哪块盘上。同时我就只能买得起廉价盘，我又得高可用。
+</p>
+<p class="transcript-line">
+<span class="time"><strong>[00:59:01]</strong> </span>
+<span class="speaker"><strong>发言人2: </strong></span>
+他们相当于说我根据我的应用场景下，而且他这个3FS其实不是他最近写的，是他们在做换方的时候写的。他是一个三四年前他们其实就发过那个3FS的技术报告，因为现在开源了，对吧？换句话说就是这个团队的技术积累也很强，他也不是说我今年临时凑了一波人，又又又干了这么一个这干了这么一个事儿。我一直是觉得这样的，就是你今天去看模型的所有的人的这些推理优化，或者你觉得从理论之上肯定有大量的优化空间。
+</p>
+<p class="transcript-line">
+<span class="time"><strong>[00:59:32]</strong> </span>
+<span class="speaker"><strong>发言人2: </strong></span>
+我觉得大部分团队面临的第一个问题都是说，我们为了赶时间，我们先不管这些事情，我先花点钱。就跟存储。大家一开始都用很贵的NFS对吧？可能要一TB。你现在在云上租个NFS，其实给你打个折可能是200美金一TB的存储。你搞这种多模态数据，你搞个几百tb的存储或者上一PB的存储，就是一个月就20万美金就走掉了。所以你得省钱，对吧？就大家就像我们也省钱，就是我们也要省钱。
+</p>
+<p class="transcript-line">
+<span class="time"><strong>[00:59:59]</strong> </span>
+<span class="speaker"><strong>发言人2: </strong></span>
+我们一些方案市场上也有一些方案，说我怎么把更廉价的对象存储包装成个文件存储，就是有各种各样的方式，我们也只用了很多省钱的方式去优化这个事情。但我们肯定不会想说我们自己来写个文件系统，我们自己搞一堆ACCD盘，对吧？因为大部分人第一个反应是搞这个东西，他不很不确定，你搞不搞得出来很不确定，或者你确定他一定能搞出来，但是什么时候能搞出来你不确定。对，大家都会挑low high数据，我们也去做了一些优化，都是些low high fruits。就是找一些商业上的一些方案或者怎么样怎么组合一下，觉得一个月就能搞出来，我已经省了70%的钱，老板你不得夸夸我吗？但人家不是这么想的，人家说，你们这些东西也都不太行，要不我自己搞一个。
+</p>
+<p class="transcript-line">
+<span class="time"><strong>[01:00:41]</strong> </span>
+<span class="speaker"><strong>发言人2: </strong></span>
+就是我我觉得这个事情，我觉得一个是能力上肯定有差别，第二个mindset上也有差别。我觉得而且这个mindset有些是来自他的积累。我相信3FS这个事情也是他们比较强。而且就3FS这个事情，因为他应该是很多年前他们就发过技术报告的，所以这个肯定不是最近在干的，最近才干的。
+</p>
+<p class="transcript-line">
+<span class="time"><strong>[01:01:02]</strong> </span>
+<span class="speaker"><strong>发言人1: </strong></span>
+那最后一个虽然说是说五个，最后不是有个王魔定吗？王魔定那个你是是是是干嘛的？
+</p>
+<p class="transcript-line">
+<span class="time"><strong>[01:01:09]</strong> </span>
+<span class="speaker"><strong>发言人2: </strong></span>
+文博性我觉得是个技术报告。文博性就是说我们把我们所有这些高科技组合起来，我告诉你大概你的成本应该是多少。
+</p>
+<p class="transcript-line">
+<span class="time"><strong>[01:01:17]</strong> </span>
+<span class="speaker"><strong>发言人1: </strong></span>
+你们要好好干。对，之前外网确实有人在说他们每天在狂亏什么的，他就直接拍出来说。
+</p>
+<p class="transcript-line">
+<span class="time"><strong>[01:01:24]</strong> </span>
+<span class="speaker"><strong>发言人2: </strong></span>
+那个我觉得是纯属不会算。我大概也估了一下，我觉得大家可能是微亏，大家开始可能是亏钱的，或者为了快速，但是不会亏那么多钱的，就没有理由。你也得理解那些做推理，做平台的人也不傻，就是说让他亏点钱是OK的，让他海亏是没人干这个事儿，谁也拍不了这个板。而且你对比一下就知道，它那个因为V3跟R一模型尺寸是一样的，它R一卖的很贵，它VV三卖的并不贵，而且V3 600是一个MOE。你就去想一想，比如说拉05B这种密集的模型，它卖的也没多贵。
+</p>
+<p class="transcript-line">
+<span class="time"><strong>[01:02:03]</strong> </span>
+<span class="speaker"><strong>发言人2: </strong></span>
+我当时的心态是说，迪普提克之前不是有人出来说过，说我们不亏钱的，但是我们微利，我们稍微赚一点钱。当时大家的我的假设说，肯定会发一些这种推理优化，肯定会是告诉你他肯定是能挣钱的。但是你没有想到他的威力，是说他现在告诉你，他说我现在稍微赚钱是因为什么？网页APP免费给你们用的，这个成本我们也都算进去了，我们也是稍微赚点钱的。
+</p>
+<p class="transcript-line">
+<span class="time"><strong>[01:02:27]</strong> </span>
+<span class="speaker"><strong>发言人1: </strong></span>
+这帮做量化的真的是太强了。他们在他们那边是不是塞了很多OI金牌？
+</p>
+<p class="transcript-line">
+<span class="time"><strong>[01:02:32]</strong> </span>
+<span class="speaker"><strong>发言人2: </strong></span>
+他们有4个IOI金牌，4个IOI金牌就是大家听说过的，就是说有就现在市场上有两有有两个人也是IOI金牌，大家都听说过，第一个人叫王小川对吧？应该但是百川应该他只有他一个LI金牌对吧？而且他肯定现在也不不写代码对吧，他肯定不干这个事儿。对，而且你得理解就是那个时代的IOI竞争没有现在的LI竞争激烈。就特别在中国队，那个时候你肯定是最聪明的，你能拿LY金牌。应该这样讲，中国的集训队可能出去是个人就是IOI金牌。所以现在国籍不是说不是那个之前看谁也是也是好像也是个LY金牌，在是是在说说他爆料说换方有4个LY金牌，所以意味着其实他们可以拿十几块LI金牌。
+</p>
+<p class="transcript-line">
+<span class="time"><strong>[01:03:18]</strong> </span>
+<span class="speaker"><strong>发言人2: </strong></span>
+因为现在是这样的，你拿过L金牌对吧？你下次集训队或者比赛你就不用参加了，你去干别的，留点机会给其他人就会。所以明年会有另外下一个高一或者高二的小朋友再拿个IOS金牌。一个是王小川是IOS金牌，第二个是现在拼多多的CEO陈磊是LY金牌。对，就我已经说了，这个事情是这样的，就是说是个智商碾压。
+</p>
+<p class="transcript-line">
+<span class="time"><strong>[01:03:40]</strong> </span>
+<span class="speaker"><strong>发言人1: </strong></span>
+我在想我是不是应该去，我高中应该有很多块金牌，我应该去高中的那高中奥赛群，我好歹也混在那个群里了，从来不冒泡。最近应该过去多跟大家哈拉的，每个人的微信加上，然后说你最近要创业吗？你需要钱吗？还是得挖最牛最聪明的这些小朋友。
+</p>
+<p class="transcript-line">
+<span class="time"><strong>[01:04:01]</strong> </span>
+<span class="speaker"><strong>发言人2: </strong></span>
+我我我觉得你看干什么，你要干我觉得你要干量化跟基础模型训练这两件事情。特别是你这个sit告诉大家说基础训练模型训练它。我觉得基础模型训练今天其实有一个特点，一个是说方向其实是不明确的，就是你的经验其实有效性是有限的。你的经验半年一年也就是个半年一年的有效经验。
+</p>
+<p class="transcript-line">
+<span class="time"><strong>[01:04:24]</strong> </span>
+<span class="speaker"><strong>发言人2: </strong></span>
+第二个是你如果为了把这个事情挖掘到极致，特别是因为你的算力的投入非常大，基本上基础模型训练的团队人均300块H100，即使是国内这些团队，就基本上人均300块H100。300块H100是啥概念呢？300块H100大概一个月的成本。我来算一下，一块H100大概一个月的成本是1500美金，300块钱H100大概就是50万美金一个月。所以你会发现小天才们的工资虽然高，但跟卡的成本比起来其实也还好。
+</p>
+<p class="transcript-line">
+<span class="time"><strong>[01:05:02]</strong> </span>
+<span class="speaker"><strong>发言人1: </strong></span>
+是跟卡比起来人也没有那么贵了。对我之前聊另外一个朋友，他就说他们现在挖人都是直接出并购一家公司的钱，不夸张。
+</p>
+<p class="transcript-line">
+<span class="time"><strong>[01:05:15]</strong> </span>
+<span class="speaker"><strong>发言人2: </strong></span>
+那就换句话说，如果你不是干这个事儿，你其实也没有必要找这些人，这些人也未必挖得来。这个问题上面，我觉得这个问题很多时候是这样的，就是说你到底在打什么仗？你今天如果是打一个说我要做个应用，像莫妮卡做的很好啊，他连NOI比赛都不需要打，对不对？
+</p>
+<p class="transcript-line">
+<span class="time"><strong>[01:05:33]</strong> </span>
+<span class="speaker"><strong>发言人1: </strong></span>
+但是里面现在也有一个小天才，pick记忆超。现在我上周刚跟他在那个那个混沌我们一起搞了场直播，记忆超现在在莫妮卡，对吧？这也是少年天才。
+</p>
+<p class="transcript-line">
+<span class="time"><strong>[01:05:44]</strong> </span>
+<span class="speaker"><strong>发言人2: </strong></span>
+是吧？OK哪怕。
+</p>
+<p class="transcript-line">
+<span class="time"><strong>[01:05:45]</strong> </span>
+<span class="speaker"><strong>发言人1: </strong></span>
+就是你觉得他们服务不需要小天才的，他们现在也在疯狂的搞小天才。
+</p>
+<p class="transcript-line">
+<span class="time"><strong>[01:05:50]</strong> </span>
+<span class="speaker"><strong>发言人2: </strong></span>
+那我觉得那就不一样了，莫妮卡肯定要想搞点大事了。
+</p>
+<p class="transcript-line">
+<span class="time"><strong>[01:05:54]</strong> </span>
+<span class="speaker"><strong>发言人1: </strong></span>
+那那你觉得说除了deep seek之外的话，还有没有什么其他开源世界值得关注的事情？就比如说我看到那个千问一直也是开源的。然后另外的话他最近不是放了那个万相，通义万相对对对，通义万相。然后我自己没有部署，然后看了一下别人搞的效果真的是非常吓人，而且很多人在私有化部署，他觉得可以做很多偷偷摸摸的想要好玩的事情，觉得这整个开源生态是被DFCK1下子又带起来了，还是本来就是这样的天问好像本来就一直开源。
+</p>
+<p class="transcript-line">
+<span class="time"><strong>[01:06:30]</strong> </span>
+<span class="speaker"><strong>发言人2: </strong></span>
+我觉得是一下子带起来了，为什么？我觉得第一个是说你看连kimi都开源了一个MOE的那个那个优化器。其实kimi e kimi也有很多厉害的人，也就比方说rope的作者那个苏建林就一直在kimi对吧？其实kimi之前的策略是他做他不开源，他想打to c，对吧？但是我觉得这次绝对被一棒子打翻了，打乱了阵脚。
+</p>
+<p class="transcript-line">
+<span class="time"><strong>[01:06:55]</strong> </span>
+<span class="speaker"><strong>发言人1: </strong></span>
+他们好像有两篇论文都跟deep seek发在差不多的时间。然后其实也是很高质量的，就K1.5和后面发了一个啥，好像跟NSA有撞的。
+</p>
+<p class="transcript-line">
+<span class="time"><strong>[01:07:07]</strong> </span>
+<span class="speaker"><strong>发言人2: </strong></span>
+对的，一个长上下文的。我这个问题就回到那个问题，就是这种竞争你要不要参与？你要参与也有可能是说你虽然很你拿了IOY银牌就很尴尬。
+</p>
+<p class="transcript-line">
+<span class="time"><strong>[01:07:17]</strong> </span>
+<span class="speaker"><strong>发言人1: </strong></span>
+你知道吧？像我这种就比较不尴尬。我在高中奥赛的时候，在我们的黄金时期，我们彻底被学校放弃掉。因为我们在高二作为主力的时候，高一有两个天才，然后初一有一个天才。初一的何霖小朋友是跟我们一起参加高中的比赛，然后他的成绩比我们好。我们这一届就被说，你们也就在省里面拿个一等奖，你们肯定闭着眼睛也能拿个一等奖。但是你们要去进校队是没有可能的，因为校队约等于国家队。
+</p>
+<p class="transcript-line">
+<span class="time"><strong>[01:07:47]</strong> </span>
+<span class="speaker"><strong>发言人2: </strong></span>
+我觉得k km I其实还是很强的，kimi无论是发的paper，他们的团队包括这也是个战略决策。如果kimi很早就开源，比如说这些东西更早开源，或者说也许也更容易吸引人才。我们极端一点讲。
+</p>
+<p class="transcript-line">
+<span class="time"><strong>[01:08:00]</strong> </span>
+<span class="speaker"><strong>发言人1: </strong></span>
+mini MAX那个创始人就讲了，他觉得就要做技术品牌，他就觉得DBC可做的很好。他在那个DBC更火之前好像接受采访说的，他说这个是虽然不见得对于吸引用户有用，但是对于吸引技术人才，可能一两个人就改变很多。最后回到商业上，你觉得如果开源生态爆发的话，就是对我们做应用或者你可能还做一点模型啥的对做应用做模型来讲的话，会有什么样的格局，会有什么变化，会有什么机会吗？除了我们刚刚可能已经聊过的，就是比如说像阿里，钉钉这种，阿里云这种其实掌握用户场景的，他就会是第一波受益者。就比如说杭州的像什么什么那些公司都用钉钉，那他们以后钉钉好用了，然后加各种各样的AI能力的话，自然而然就是对钉钉就是最大的受益者。但是还有没有什么其他的机会吗？
+</p>
+<p class="transcript-line">
+<span class="time"><strong>[01:08:54]</strong> </span>
+<span class="speaker"><strong>发言人2: </strong></span>
+第一个我的结论是说，我觉得两拨人其实还是都有大机会。第一波还是说我们就套壳，就做应用。做应用，不管是你说我们讲回到比如钉钉这种在to b内，我相信我的假设是说像钉钉，像这些大概率还会进一步去挖掘应用内深入嵌入AI的能力。
+</p>
+<p class="transcript-line">
+<span class="time"><strong>[01:09:14]</strong> </span>
+<span class="speaker"><strong>发言人1: </strong></span>
+他们有场景继续找呗。
+</p>
+<p class="transcript-line">
+<span class="time"><strong>[01:09:15]</strong> </span>
+<span class="speaker"><strong>发言人2: </strong></span>
+对，第一个有场景，第二个也能进一步去拓展用户。换句话说就是你长期投入是会有回报的，这个跟这个是一样，就是CFS它不是今天我干的，其实是我很久之前就干的。他去聚拢这些最top的人才，也不光是靠GPT。可能之前做化妆量化的时候，其实已经在干这个事儿了。
+</p>
+<p class="transcript-line">
+<span class="time"><strong>[01:09:33]</strong> </span>
+<span class="speaker"><strong>发言人1: </strong></span>
+其实还是会有很多积累的。你刚才我想到就是其实像我们去年不是尝试孵化一个视频方面的应用。然后当时就结果找到最好的是就是我们想找一些开源的拼，结果看到开源的没有开源，但开了论文的最好的就是阿里出的MIMOMIMO。然后我还当时在各种关系联络阿里内部的人，说这个东西能不能借我们用一下。但是他们内部的积累其实还蛮蛮多的。内部又积累，外面也有开源的，然后阿里云又可以把它塞进来，钉钉又可以塞进来，然后又有用应用场景。其实在这种情况下的话，那个就是水涨船高。那那比如说我们现在你刚刚说那个我们录播课，我们录播课现在同时也在开着riverside，这个软件每个月我们要交几十美金的对，然后那交了这个钱的话，如果大模型或者说语音识别，或者各方面它的进步，那其实我们会以为是riverside的进步了，然后我们就可以给我更多的钱。因为他空了，我们这个场景有可能是后台的那那个模型进步了，可能是自研的，可能是开源的那这个时候的话，其实谁占用户，场景好像就变得更重要。
+</p>
+<p class="transcript-line">
+<span class="time"><strong>[01:10:44]</strong> </span>
+<span class="speaker"><strong>发言人2: </strong></span>
+第一个我觉得其实还是说围绕用户场景，我我我称之为叫套壳。就是用户还是有很多可的场景，你用开源模型，开源模型大家就套壳，套的更安心了。第二个是说，如果说dipstick，比如下一个版本仍然是开源的话，那我觉得第一个我认为基模公司的价值其实在大幅度下降。就是DPT其实干了一个事儿，本质上是先桌子的事儿，对吧？就是他就告诉你，你不值那么多钱。第二个是很多占了场景的公司，比如海外像比如科技这种编程工具。我觉得cursor一直是一直我其实觉得说在没有deep sk这个级别的开源模型之前，科技其实一直有一个问题。比如说cloud有一些时候我自己来做一个，你特色就。
+</p>
+<p class="transcript-line">
+<span class="time"><strong>[01:11:24]</strong> </span>
+<span class="speaker"><strong>发言人1: </strong></span>
+没得活了。对，3.7里面好像还专门做了一点什么就是什么这种事情。
+</p>
+<p class="transcript-line">
+<span class="time"><strong>[01:11:29]</strong> </span>
+<span class="speaker"><strong>发言人2: </strong></span>
+对对对，而且现在其实有人开始，我觉得d psk也给整个社区一个信息，有人开始组织说我能真正的做到全链路开源，就从训练数据到训练代码，到最后的模型权重全开源。这个可能会接下来我觉得是甚至有可能这件事情我觉得会是未来的一个趋势。因为我觉得有一个特点，就是说至少文本模型现在的一个第一个结论是大家的token数反正也就用到这点了。20个确定的token，对吧？特别是GPT4.5出来之后，大家就说我是这么个破玩意儿。
+</p>
+<p class="transcript-line">
+<span class="time"><strong>[01:12:01]</strong> </span>
+<span class="speaker"><strong>发言人1: </strong></span>
+对我我这几天体验也是毫无感觉，对吧？
+</p>
+<p class="transcript-line">
+<span class="time"><strong>[01:12:04]</strong> </span>
+<span class="speaker"><strong>发言人2: </strong></span>
+大家都觉得是这么个破玩意儿，你为什么要开个发布会，你是嫌这太值钱了，对吧？那就是意味着说全链路开源是有可能的那意味着所有做应用的人都是个利好。我也不用去做开源，有人会做的，社区会做，或者有一些公司会做，然后我就去做好我的应用，我套好，可我觉得机会会变大，特别是国内的机会它会变大。对，因为国内之前其实是一直缺一个一线的模型，最好的是当时最好的是其实是千问，那千问多少有给大家一种就是离一线就差那么一点点那种感觉。它是最好的开源模型，但是大家一定会打上开源最好的开源模型，就是一定要打上开源两个字才能加最好。今天deep sk告诉他是最好的模型之一，给人以这种感觉。
+</p>
+<p class="transcript-line">
+<span class="time"><strong>[01:12:49]</strong> </span>
+<span class="speaker"><strong>发言人1: </strong></span>
+Deep sik开源了之后，会不会其实马上不管是千万也好，kimi也好，其实马上因为可以学习的，也马上就可以吸收进来，是不是？其实理论上来讲，比如说四月份的时候，我们就可以看到说新的kimi新的千问其实也会达到世界一流水平，就自己也在进步，然后也可以？吧拿来一点。
+</p>
+<p class="transcript-line">
+<span class="time"><strong>[01:13:11]</strong> </span>
+<span class="speaker"><strong>发言人2: </strong></span>
+我觉得会的，而且kimi不已经在搞了吗？好像已经在内测一点。
+</p>
+<p class="transcript-line">
+<span class="time"><strong>[01:13:16]</strong> </span>
+<span class="speaker"><strong>发言人1: </strong></span>
+kimi 1.6了OK挺好的，中国终于大家都雄起了。
+</p>
+<p class="transcript-line">
+<span class="time"><strong>[01:13:20]</strong> </span>
+<span class="speaker"><strong>发言人2: </strong></span>
+对，然后千万我觉得。大概率会不断的继续投入来做这个现在是2.5，据说在哪里看到？不是大家说那个千问之前最大的模型是不开源的，千问其实都开的都是只开到72B，他们之前一直有那个千问2.5 max，这也是个MOE的超大尺寸模型。然后其实之前一直没有说过要开源，最近船可能也要开源，而且那个是个多模态模型，又能补上deep sik没做多模态的这个差别。所以我觉得做应用。
+</p>
+<p class="transcript-line">
+<span class="time"><strong>[01:13:54]</strong> </span>
+<span class="speaker"><strong>发言人1: </strong></span>
+创业的同学们都跟我一样。就是我们得提前判断一下，模型会在哪些方面有重大进步。然后我们可以提前到那边去占个位置，去占应用场景。就在那边做做一堆比如说工程上的事情，产品上的事情，把那个应用场景给占下来，哪怕效果不那么好，对吧？然后我们在那边干嘛呢？就可以等着模型成熟，模型成熟一旦成熟，我们就吃到了这大口的红利。
+</p>
+<p class="transcript-line">
+<span class="time"><strong>[01:14:19]</strong> </span>
+<span class="speaker"><strong>发言人1: </strong></span>
+就好像做AI编程的curson，之前是不温不火，直到cloud 3.5代码能力一下子到位了，咳嗽火了，然后直接收了1亿美金收入。前面我们提到阿里的股票涨了，好像也是类似的情况。就阿里云、钉钉在to b的场景里面占绝对优势，那AI能力提高，他们就一下子吃到了最大口的一口红利。
+</p>
+<p class="transcript-line">
+<span class="time"><strong>[01:14:40]</strong> </span>
+<span class="speaker"><strong>发言人1: </strong></span>
+所以我觉得这种策略可能是更广泛适用的一个策略。因为真的能做模型，能用上deep seek这些开源代码的朋友们应该很少。我刚刚听完也就是大概了解了个大概是吧？但是我们都可以预判一下，就是未来一年AI能力可以在哪些方面有巨大提升。我们可以提前找到应用场景，先占个位置，然后等水涨等船高，这是我们可以用的策略。最后今天我们不是聊了好多开源模型吗？我估计已经忘掉了，你能不能再帮大家梳理一下到底讲了些啥，哪个到底是用来干嘛的？
+</p>
+<p class="transcript-line">
+<span class="time"><strong>[01:15:14]</strong> </span>
+<span class="speaker"><strong>发言人2: </strong></span>
+哦哦哦好呀好，其实就是我觉得这四个其实他做了六天的发布有三天。第一天、第二天、第三天、第四天都是围绕着他自己的MOE模型跟他自己的MLA的架构，开源了各个小的计算或者通讯的优化组件。第一天的flash MLA其实是优化了它的那个叫做mult head let attention，就是叫做潜在注意力的这么一个模型架构下的快速推理，它其实把推理性能给提升了。第二天是他开源了一个东西叫做DFEP，它其实是把专家之间的通讯性能通讯库给开源了让MOE模型的训练跟推理能够更快。第三天他开源了一个叫deep game，就是GEM。MGM的全称叫做general math multiplication，就是通用的这个矩阵计算的库，矩阵乘法的一个库。它其实是把FP8，就是八位浮点数的矩阵计算的库重写了一下，会让这个计算会加快了。
+</p>
+<p class="transcript-line">
+<span class="time"><strong>[01:16:24]</strong> </span>
+<span class="speaker"><strong>发言人2: </strong></span>
+第四天它是开源了do pipe跟EPLB跟一个分析计算通讯overlap的一个小工具。它其实是它解决的是这个GPU计算的时候，我们叫流水线并行器下，尽可能的让通讯跟计算能够有交叉，让GPU尽量被用满。EPRB其实是就是在专家专家运行的情况下，怎么去调度专家，让这负载重的专家去复制更多的专家投，然后让这个也是其实本质上让GPU计算更慢。
+</p>
+<p class="transcript-line">
+<span class="time"><strong>[01:16:59]</strong> </span>
+<span class="speaker"><strong>发言人2: </strong></span>
+前四天开源的机都是比较硬核的，其中很大一部分是只要你去MOE模型就能用。只有第一天的MLA是你如果用MMOA架构才能用。后面几天你基本上可以认为你只要去MOE模型训超大模型对你就有用。
+</p>
+<p class="transcript-line">
+<span class="time"><strong>[01:17:15]</strong> </span>
+<span class="speaker"><strong>发言人2: </strong></span>
+那么这四个比较硬核的计算库，第五天，他开源了一个文件系统。文件系统换句话说也是一个降成本的事儿。它其实是能够说，比如说KV cash，就是说传统我们的都是说要么缓存在GPU里，再差一点缓存在内存里，它能够缓存到这些SSD的盘上对吧？第二个是说他用这个SSD的这些盘，通过RDMA的网络趋势能够更快的去读写数据，对吧？相当于它能用更廉价的硬件设备达到跟你差不多的效果。那第六天他其实是把他写的技术报告，对吧？你可以认为综合了一下，我们有给你的这些技术硬实力。我帮你算一算，到来讲，我你按我的价格卖GPU，你有80%的利润，一块钱你成本应该只有2毛.
+</p>
+<p class="transcript-line">
+<span class="time"><strong>[01:18:07]</strong> </span>
+<span class="speaker"><strong>发言人1: </strong></span>
+没有两毛，你自己回去反省。
+</p>
+<p class="transcript-line">
+<span class="time"><strong>[01:18:09]</strong> </span>
+<span class="speaker"><strong>发言人2: </strong></span>
+扎扎实实秀了一把肌肉，大概就是告诉大家就是你看我还是比你厉害，对不对？我给你看看我比你厉害在哪里，你好好用用，接下来我会有更厉害的东西的。
+</p>
+<p class="transcript-line">
+<span class="time"><strong>[01:18:21]</strong> </span>
+<span class="speaker"><strong>发言人1: </strong></span>
+牛真的就有的时候看到这种你还是会很真的是心生敬仰。对，真的是完全靠硬实力赢，还是很很感动的。因为像你说打黑神话悟空啥的对，你看到这个是真的是好东西，它是靠好东西赢的。希望这样的公司中国越多越好。
+</p>
+<p class="transcript-line">
+<span class="time"><strong>[01:18:42]</strong> </span>
+<span class="speaker"><strong>发言人2: </strong></span>
+好，我们今天先聊到这边，欢迎大家继续关注AR炼金术。
+</p>
+<p class="transcript-line">
+<span class="time"><strong>[01:18:46]</strong> </span>
+<span class="speaker"><strong>发言人1: </strong></span>
+对的，各大平台都有，然后点赞转发。如果你觉得朋你的朋友可能对什么deep seeker感兴趣的话，这一期的话是可以发给他的，对吧？你已经听到这里了，能听这么长时间对吧？然后这边的话就是会一个稍微小白一点的，然后就去问问题的话，就可以有助于大家听懂。欢迎大家转发推荐给朋友们，给我们涨点粉丝，谢谢。好，那就先这样。好，谢谢，拜拜拜。
+</p>
+<p class="transcript-line">
+<span class="time"><strong>[01:19:10]</strong> </span>
+<span class="speaker"><strong>发言人2: </strong></span>
+拜拜拜拜拜拜。Get the world in your hands with .
+</p>
+<p class="transcript-line">
+<span class="time"><strong>[01:19:22]</strong> </span>
+<span class="speaker"><strong>发言人1: </strong></span>
+an anty .
+</p>
+<p class="transcript-line">
+<span class="time"><strong>[01:19:23]</strong> </span>
+<span class="speaker"><strong>发言人2: </strong></span>
+gave爱在艰难的再多位。You know how feels the living place? How you are the.
+</p>
+<p class="transcript-line">
+<span class="time"><strong>[01:19:38]</strong> </span>
+<span class="speaker"><strong>发言人2: </strong></span>
+走进了天大的路。could. If no one.
+</p>
+<p class="transcript-line">
+<span class="time"><strong>[01:19:57]</strong> </span>
+<span class="speaker"><strong>发言人2: </strong></span>
+为了你发色。
+</p>]]></content:encoded>
+            <pubDate>Fri, 07 Mar 2025 11:55:26 GMT</pubDate>
+            <guid>67cae3c579129523d447fb5a</guid>
+        </item>
         <item>
             <title>从失败到成功：AI 投资里的那些陷阱与机会 | 对话财经作家沈帅波</title>
             <link>https://www.xiaoyuzhoufm.com/episode/67b86afeb47e8edbe9b7b054</link>
@@ -32949,803 +34406,6 @@ We are we go to see there. And have. Can driver my one? No rider, i&#x27;m takin
 </p>]]></content:encoded>
             <pubDate>Tue, 02 Jan 2024 11:56:47 GMT</pubDate>
             <guid>6593ff42897b980fffb1f5d5</guid>
-        </item>
-        <item>
-            <title>对话Super黄：AI 陪伴产品的终极解法</title>
-            <link>https://www.xiaoyuzhoufm.com/episode/6583deb646b817e448f2604c</link>
-            <description>嘉宾 | Super 黄的念想 主理人
-大家好，之所以有这期的主题，是因为我自己对于 AI 如何用于情感陪伴这个领域的话题很感兴趣，发现AI 产品黄叔已经在做这个方向的研究，就赶紧抓过来聊一聊，好好学习一下。我们两围绕 AI 在现实生活中的逃避情绪、AI 与社交的关系、AI在情感陪伴领域的可能性等进行了交流，话不多说，欢迎大家收听
-时间线：
-09:01 : AI 产品提供了一个满足需求的空间：用户通过AI 产品获得情感关系、陪伴和认可，逃避生活中的压力和不如意
-18:24 ：IP 在建议情感羁绊中所起到的作用以及重要性
-42:15 ： AI 产品中的情感链接和沉浸式设计：如何通过获得用户情感来放到产品价值
-51 :21 ：AI 产品需求：满足陪伴的同时提高生产力
-关于AI炼金术
-每周更新文章，公众号：AI炼金术
-每周直播，视频号：AI炼金术
-商务合作：在公众号：AI炼金术 菜单栏中【商务】获取联系方式
-相关 AI 实战课程
-任鑫《AI新商业机会洞察22讲》
-https://tools.hundun.cn/h5Bin/wxpay/dhy-selected-course-pay.html?page_type=&amp;package_id=509&amp;user_package_id=&amp;channel=appshare&amp;ambass_id=fabe90b3548513a654965aef6a1e65eb&amp;channel_id=181&amp;pid=TMI6&amp;sale_channel=
-徐文浩《AI 大模型之美》
-https://time.geekbang.org/column/intro/100541001</description>
-            <content:encoded><![CDATA[<h1>转写链接</h1>
-<link>https://tongyi.aliyun.com/efficiency/doc/transcripts/gpjbqkmbd8dlnk2a</link><br>
-<h1>节目摘要</h1>
-<div class="summary">本次讨论深入探讨了人工智能（AI）在情感陪伴、社交互动与生产力提升等领域的应用。AI不仅为人们提供了逃避现实的途径，还促进了情感连接的建立，同时在工作与学习中展现出提高效率的潜力。讨论着重于AI产品设计的重要性，强调了提供良好用户体验与深刻情感投入的必要性。此外，触及了AI在教育、咨询等多领域的应用可能性，以及面临的挑战，如多模态交互与沉浸感营造。最后，强调了准确理解用户需求、建立情感连接以及AI技术如何更好地服务于人类生活的关键性，展现了AI未来发展的广阔前景与潜力。</div><br>
-<h1>章节速览</h1>
-<div class="chapters">
-<div class="chapter-item">
-<span class="time"><strong>[00:00:00]</strong> </span>
-<span class="chapter-title"><strong>AI情感陪伴产品及其社会需求探讨</strong></span>
-<div class="chapter-summary">对话围绕AI在情感陪伴领域的应用展开，讨论了人们在现实生活中不如意时，通过在游戏中逃避现实的需求。参与者包括产品经理、产品新手、传统企业代表、社交专家以及AI代表，他们从各自的角度分享了对AI情感陪伴的理解、应用计划以及对现有观点的质疑。特别提到了Character AI作为标杆模式的火热，以及AI在改变世界、满足创业者需求方面的潜力。讨论强调了AI情感陪伴产品持久性和粘性的重要性，指出与用户建立超越产品本身的情感羁绊是核心。</div>
-</div>
-<div class="chapter-item">
-<span class="time"><strong>[00:04:52]</strong> </span>
-<span class="chapter-title"><strong>AI社交与游戏的边界与未来</strong></span>
-<div class="chapter-summary">对话探讨了AI在社交和游戏领域中的定位。虽然AI产品常被归类为社交，但实际上它可能同时具备社交和游戏的特性。随着AI技术的发展，特别是AI2.0时代，AI产品有可能以游戏化的方式吸引更多用户，从而改变人们对社交的传统理解。此外，AI社交产品可能对现有社交网络构成冲击，因为重度用户可能选择与AI而非现实中的朋友进行交流。未来，AI社交可能会衍生出元宇宙等新形态，将社交和游戏的界限进一步模糊，同时可能替代传统社交和游戏的应用场景。</div>
-</div>
-<div class="chapter-item">
-<span class="time"><strong>[00:09:01]</strong> </span>
-<span class="chapter-title"><strong>虚拟游戏中的情感需求与现实逃避</strong></span>
-<div class="chapter-summary">对话探讨了用户在虚拟游戏中获得的情感需求，包括情感关系、陪伴、认同等，特别是对于现实生活中感到不如意的人来说，游戏提供了一种逃避现实、获得快乐的方式。此外，讨论还涉及了时代情绪对用户选择的影响，以及在当前社会环境下，人们对职场竞争的反感和对精英表达的反感，促使更多人选择通过虚拟游戏来寻找慰藉和快乐。</div>
-</div>
-<div class="chapter-item">
-<span class="time"><strong>[00:13:59]</strong> </span>
-<span class="chapter-title"><strong>现实与虚拟：AI在情感慰藉中的角色</strong></span>
-<div class="chapter-summary">对话围绕现实生活的不足与AI在情感慰藉中的应用展开。提及游戏设计理论认为现实世界设计不佳，缺乏量化反馈和即时满足。讨论了女性向情感市场的需求，以及AI男友如何为缺乏自信的用户提供鼓励和陪伴。此外，通过个人经历分享，展示了AI在陪伴聊天、提供暖心建议和记录日记等方面的应用，强调了AI在满足人类情感需求和提供精神慰藉方面的作用。</div>
-</div>
-<div class="chapter-item">
-<span class="time"><strong>[00:18:24]</strong> </span>
-<span class="chapter-title"><strong>Carry点CI中的明星IP重要性及情感羁绊的建立</strong></span>
-<div class="chapter-summary">对话围绕Carry点CI和点点Carry点AI平台上的明星IP使用及其重要性展开。虽然明星IP，无论是真人还是虚拟角色，能吸引用户并创造情感羁绊，但其作用主要在于初期的破冰阶段。用户在与这些IP角色互动后，更关心能否通过AI建立超越IP本身的情感联系，形成持续的深度互动。同时，讨论也触及了版权问题和明星对AI技术的担忧，强调了在当前技术成熟度和国内法律环境下，IP授权的复杂性和风险。整体而言，明星IP在吸引用户和初步互动中起到关键作用，但长期的用户粘性依赖于AI能否建立起真正的情感连接。</div>
-</div>
-<div class="chapter-item">
-<span class="time"><strong>[00:24:20]</strong> </span>
-<span class="chapter-title"><strong>二次元用户偏好与AI陪伴产品互动性研究</strong></span>
-<div class="chapter-summary">对话讨论了国内乙女用户的偏好，指出男性用户倾向于塑造心目中的理想形象，而女性用户更喜欢通过二次元或泛二次元角色构建心中的形象，从而更偏好纸片人卡牌游戏。同时，对话探讨了AI陪伴性产品的互动性问题，指出目前产品主要基于文本输入，要求用户有较高参与度，而像抖音、爽剧和爽文等低参与度的内容消费方式更受欢迎。讨论提出，未来AI陪伴产品可能需要探索一种低参与度但能提供个性化满足的新形态。</div>
-</div>
-<div class="chapter-item">
-<span class="time"><strong>[00:27:24]</strong> </span>
-<span class="chapter-title"><strong>爽文爽剧与互动游戏的用户偏好差异分析</strong></span>
-<div class="chapter-summary">对话探讨了爽文爽剧与互动游戏的市场切割及其背后的用户偏好差异。一方用户追求精美的游戏体验、沉浸感以及角色互动，愿意为提升游戏体验付费；另一方用户则更注重个性化、高自由度的参与感和创造性的表达，他们可能时间充裕但经济条件有限，更倾向于通过高参与度来获取满足感。这两类用户在消费意愿、参与度和时间资源上呈现出明显的差异，揭示了市场细分的深层原因。</div>
-</div>
-<div class="chapter-item">
-<span class="time"><strong>[00:31:55]</strong> </span>
-<span class="chapter-title"><strong>探讨AGI产品策略及长期视角</strong></span>
-<div class="chapter-summary">对话围绕AGI（人工通用智能）产品的市场策略和长期视角展开，分析了在国内市场针对低龄用户群体的商业变现难度。尽管这类用户能提供高质量的数据以迭代模型，但短期内实现盈利困难。AGI公司倾向于从长远角度看待这些用户，期望随着用户成长和模型能力的提升，未来能实现商业价值。同时，讨论了利用成熟大模型进行定制化情感模拟的可能性，以及长文本处理技术在企业应用中的优势和争议。</div>
-</div>
-<div class="chapter-item">
-<span class="time"><strong>[00:37:15]</strong> </span>
-<span class="chapter-title"><strong>大模型在情感陪伴及业务场景中的应用挑战</strong></span>
-<div class="chapter-summary">对话讨论了大模型在情感陪伴及增强业务场景中的应用问题。大模型放话后，其命中率可能更高，但因缺乏直接的负反馈机制，难以精确调整。情感陪伴方面，基于通用大模型可能难以达到高质量要求，特别是对于角色性格和行为的精准模拟。此外，提及使用微信等平台可能引发的竞争和角色混淆问题，以及多个API结合使用以应对不同需求和成本的策略。</div>
-</div>
-<div class="chapter-item">
-<span class="time"><strong>[00:39:15]</strong> </span>
-<span class="chapter-title"><strong>情感依赖与信任在产品设计中的价值</strong></span>
-<div class="chapter-summary">对话探讨了在产品设计中利用情感依赖和信任的重要性，特别是通过情感陪伴和关系建立来提升用户粘性与产品价值。通过分析不同类型产品的成功案例，如情感陪伴类和虚拟助手类产品，指出一旦用户对产品产生情感依赖和高度信任，其对产品的忠诚度和使用频率将大幅提高，从而实现商业上的成功。同时，强调在AI时代，如何有效获取并利用用户的情感投射，将成为产品设计和优化的关键策略。</div>
-</div>
-<div class="chapter-item">
-<span class="time"><strong>[00:43:06]</strong> </span>
-<span class="chapter-title"><strong>内容合规性与用户生态构建的挑战</strong></span>
-<div class="chapter-summary">讨论集中在内容合规性、用户生态构建以及如何平衡吸引新用户与维护老用户的关系上。提到在初期阶段，内容合规性可能可以适当放宽以吸引用户，但随着用户量的增长，合规性需要逐渐收紧，以避免潜在的风险。此外，也提到了产品调性变化对用户生态的影响，以及某些内容虽然短期内能吸引大量用户，但不一定能构成长期的健康生态。还讨论了内容的综合性体验，包括角色设定、剧情设计和对话质量等对用户吸引力的重要性。</div>
-</div>
-<div class="chapter-item">
-<span class="time"><strong>[00:46:37]</strong> </span>
-<span class="chapter-title"><strong>情感连接：用户与产品深度交互的核心</strong></span>
-<div class="chapter-summary">用户在使用产品或平台时，情感连接是至关重要的因素。用户在Reddit上的投诉主要集中在服务器故障、聊天记录丢失和长时间排队等待上，这些都反映了用户对产品的情感投入。进一步探讨表明，让用户快速且平滑地与产品角色建立情感连接是设计中非常有价值的一点，这也是游戏化设计能够提供强大沉浸感的原因。</div>
-</div>
-<div class="chapter-item">
-<span class="time"><strong>[00:48:52]</strong> </span>
-<span class="chapter-title"><strong>构建沉浸感：游戏与VR中的情感连接设计</strong></span>
-<div class="chapter-summary">讨论了在游戏和VR产品设计中，如何通过构建沉浸感让用户快速与角色建立情感连接。提到了使用第一人称视角、多模态交互以及角色设计等方法来增强用户体验，以及这些设计在实际应用中的效果和重要性。此外，还提到了通过AI技术创造真实感和情感联系的尝试。</div>
-</div>
-<div class="chapter-item">
-<span class="time"><strong>[00:51:44]</strong> </span>
-<span class="chapter-title"><strong>利用AI提升工作与学习效率的探讨</strong></span>
-<div class="chapter-summary">对话围绕一款能够匹配用户共同进行编程或学习的产品展开，探讨了AI在提升工作与学习效率、满足情感需求方面的潜力。参与者讨论了这种陪伴式学习或工作的模式，以及如何利用AI技术如虚拟形象、屏幕监控和番茄时钟等，来增强沉浸感和提高生产力。此外，还提到了直播流量成本等实际运营挑战。</div>
-</div>
-<div class="chapter-item">
-<span class="time"><strong>[00:55:40]</strong> </span>
-<span class="chapter-title"><strong>探讨教育和咨询领域中的AI情感产品设计</strong></span>
-<div class="chapter-summary">对话围绕在教育和咨询领域中应用AI情感产品展开，探讨了如何通过与不同背景的人（如资深产品经理、产品小白、传统企业代表等）共同学习，提升在线学习的互动性和沉浸感。讨论中提及了合作教育机构的项目尚处于idea阶段，以及如何将现实生活中需要代理（如中介、黄牛）的角色功能投射到线上，以更好地满足用户需求。最终，强调了利用最新科技解决已被验证的老需求的重要性。</div>
-</div>
-</div><br>
-<h1>问题回顾</h1>
-<div class="qa-item">
-<div class="question"><strong>Q:</strong> 在当下社会，逃避现实是否成为一种主流情绪，以及在游戏中的社交互动为何具有持久性？</div>
-<div class="answer"><strong>A:</strong> 是的，在当前时间节点，逃避现实确实成为了社会的一个主流情绪。游戏中的社交互动之所以持久性强，是因为它能与玩家建立超越游戏本身的深度情感联系，比如通过聊天、交流，形成知心朋友般的羁绊。</div>
-</div>
-<div class="qa-item">
-<div class="question"><strong>Q:</strong> AI如何用于情感陪伴领域，以及你为何对此感兴趣？</div>
-<div class="answer"><strong>A:</strong> 我作为一个对AI有深厚兴趣的产品经理，在看到AIGC生成式报告以及SD开源后，意识到这是一波大机遇。我与朋友一起开发了SD纹身图工具并获得大量用户，这让我坚信AI可能会带来巨大势能。最近写的一篇关于color code AI的文章阅读量极高，引发大家对情感陪伴类AI产品的关注，因此开始深入研究这个领域。</div>
-</div>
-<div class="qa-item">
-<div class="question"><strong>Q:</strong> character这类产品到底更偏向社交还是游戏？</div>
-<div class="answer"><strong>A:</strong> character这类产品很难简单归类为社交或游戏，它可能兼具两者特性。随着研究深入和与创业者的交流，我发现AI有可能商业化落地，并且能够吸引大量用户，往游戏化方向发展。同时，它对原有社交网络构成挑战，用户可能更倾向于与AI进行高频、深度的交流，甚至替代部分现实社交时间。</div>
-</div>
-<div class="qa-item">
-<div class="question"><strong>Q:</strong> 用户在character等AI社交产品中获得的本质需求是什么？</div>
-<div class="answer"><strong>A:</strong> 用户在这些AI社交产品中获得的不仅仅是情感关系或陪伴，还包括认同感、被讨好以及情感认同等深层次需求。从用户评论中可以看出，他们在现实生活中可能遭受挫折，而在游戏中找到了难得的关注和情感寄托，这让他们感到温暖又绝望。</div>
-</div>
-<div class="qa-item">
-<div class="question"><strong>Q:</strong> 在当前职场环境下，为什么做IP变现的难度增大了？</div>
-<div class="answer"><strong>A:</strong> 当前职场中，由于经济环境的影响以及社会普遍存在的悲观情绪，大家对于精英主义表达产生反感，不再热衷于通过职场竞争来实现向上社交和成功。这种社会情绪的变化使得职场内变现的路径不如前两年那样容易。</div>
-</div>
-<div class="qa-item">
-<div class="question"><strong>Q:</strong> 完蛋这款产品为何能吸引大量用户并获得成功？这种逃避现实的现象对于产品设计意味着什么？</div>
-<div class="answer"><strong>A:</strong> 完蛋产品的成功在于其产品设计、选角、沉浸感等方面，更重要的是它抓住了时代情绪的比重。许多用户在现实生活中遭遇挫折，通过在游戏中以较低成本购买虚拟身份和快乐，实现逃避现实，从而获得大脑中的愉悦感。这种逃避现实的情绪在当下社会中成为主流。这种现象意味着产品设计需要更多地考虑如何满足用户在现实生活中难以实现的情感需求，如建立关系、情感陪伴等。同时，游戏等娱乐形式因其能够提供即时反馈和情感慰藉，成为了许多人的精神慰藉来源，特别是在面对现实压力时，如工作压力大、缺乏精神交流等情境下，AI或虚拟角色可以扮演重要角色，给予用户支持与安慰。</div>
-</div>
-<div class="qa-item">
-<div class="question"><strong>Q:</strong> AI在IP内容创作中的作用重要吗？</div>
-<div class="answer"><strong>A:</strong> 虽然传统观念中，IP角色对于建立情感羁绊和增加用户黏性至关重要，但在一些案例中，用户与AI交互的核心内容更多关注的是与IP角色的关系而非IP角色本身。例如，在Carry点AI平台上，尽管有明星IP入驻，但用户实际关注的是与AI交互带来的更多可能性和情感交流，而非仅仅停留在IP授权层面。因此，AI在IP内容创作中的重要性取决于如何建立和维护与用户的情感连接，以及能否提供超越传统IP授权的附加价值。</div>
-</div>
-<div class="qa-item">
-<div class="question"><strong>Q:</strong> 在推进明星IP数字分身与用户互动的过程中，遇到了哪些挑战？</div>
-<div class="answer"><strong>A:</strong> 在推进过程中，发现很多明星对这种形式存在风险顾虑，不敢参与。同时，国内对于AI技术成熟度和角色设定的不确定性也导致明星IP对与AI结合的项目持保留态度，担心二创违法或流量获取存疑。此外，数据留存问题也是一个大难题，擦边行为的存在进一步加剧了对项目合法性和安全性的担忧。</div>
-</div>
-<div class="qa-item">
-<div class="question"><strong>Q:</strong> 对于类似CAI的产品，为何70%的对话量基于大模型，而文章中并未详细描述与角色IP相关的内容？</div>
-<div class="answer"><strong>A:</strong> 这是因为用户更关心自身的体验，角色IP只是破冰工具，关键在于建立超越IP本身的情感羁绊。用户通过与角色互动获得新鲜感，但持久性主要来自于情感联系，而非单纯的角色扮演。</div>
-</div>
-<div class="qa-item">
-<div class="question"><strong>Q:</strong> IP在产品中的作用是什么？</div>
-<div class="answer"><strong>A:</strong> IP在开始阶段非常重要，能吸引用户进行初步交流，但之后用户是否愿意深入互动取决于角色的魅力和个人情感连接，即能否超越IP本身建立深层次的关系。</div>
-</div>
-<div class="qa-item">
-<div class="question"><strong>Q:</strong> 国内乙女用户对于虚拟角色的偏好有何特点？</div>
-<div class="answer"><strong>A:</strong> 国内乙女用户更倾向于二次元或泛二次元的角色设定，喜欢将其构想成理想化的形象，这种心理与现有IP的关联度并不紧密，形成了一个有趣的市场细分。</div>
-</div>
-<div class="qa-item">
-<div class="question"><strong>Q:</strong> AI陪伴类产品是否可以通过降低互动性或参与度来满足更多用户需求？</div>
-<div class="answer"><strong>A:</strong> 是的，目前市场中大部分AI陪伴产品基于高互动性文本交互，存在较高参与成本。而用户也有在低互动性、低参与度内容消费中获得满足的需求，例如抖音等平台。因此，探索低参与度但能针对性提供个性化交互的新形态AI产品是值得研究的方向。</div>
-</div>
-<div class="qa-item">
-<div class="question"><strong>Q:</strong> AI陪伴类产品能否从爽文爽剧市场中获取用户，主要优势在于个性化、互动参与感还是创造感？</div>
-<div class="answer"><strong>A:</strong> 优势因人群而异。一部分用户更看重个性化体验和沉浸感，比如在高质量视觉和关卡式游戏中愿意付费；另一部分用户则追求高度自由度和强烈的分享欲，通过高度参与和互动来满足自我表达和情感寄托的需求。</div>
-</div>
-<div class="qa-item">
-<div class="question"><strong>Q:</strong> 那么，用户参与度高的产品是否意味着用户没有太多钱？</div>
-<div class="answer"><strong>A:</strong> 不一定能得出这样的结论，但可能存在反比关系。高用户参与度和价值可能与用户的经济状况有关，短期来看，这类产品可能难以实现商业变现。</div>
-</div>
-<div class="qa-item">
-<div class="question"><strong>Q:</strong> 针对国内切低龄溢油用户的商业变现问题，您怎么看？</div>
-<div class="answer"><strong>A:</strong> 国内大量产品在切这个方向，短期内很难获得变现，更多是作为免费获客手段来积累数据和用户粘性。AGI领域中，若想依靠快速迁移的用户实现变现，目前的技术水平和用户水平可能还不足以支撑这一模式。</div>
-</div>
-<div class="qa-item">
-<div class="question"><strong>Q:</strong> 对于AGI公司的长期视角和未来设想是怎样的？</div>
-<div class="answer"><strong>A:</strong> 做AGI的公司从长期视角看待当前用户群，即使短期内难以变现，但如果能在模型能力上达到一定高度，随着用户成长和需求变化，未来有可能解决更多问题，甚至超越现有商业模式。</div>
-</div>
-<div class="qa-item">
-<div class="question"><strong>Q:</strong> 使用成熟大模型如GPT等模拟情感是否可行？</div>
-<div class="answer"><strong>A:</strong> 理论上可以通过设置用户肖像和custom instructions等方式让大模型模拟情感，但成本较高，且效果可能不如专门针对情感项目训练的模型。</div>
-</div>
-<div class="qa-item">
-<div class="question"><strong>Q:</strong> 对于利用长文本训练大模型替代知识库的做法，您怎么看？</div>
-<div class="answer"><strong>A:</strong> 这种方法有一定争议，虽然理论上可以提供更长文本训练，但在实践中，大模型的升级会影响其与原有知识库的匹配，且无法提供直接负反馈，仅能提高内容生成关联性，无法完全框定模型行为。</div>
-</div>
-<div class="qa-item">
-<div class="question"><strong>Q:</strong> 如果要做情感陪伴产品，是否只能依赖于特定情境下的垂直模型？</div>
-<div class="answer"><strong>A:</strong> 如果对质量要求较高，仅依赖大模型可能不够，但若降低要求或结合多种API使用，也可应用于增强其他产品中的关系建立能力，例如销售或教育场景。</div>
-</div>
-<div class="qa-item">
-<div class="question"><strong>Q:</strong> 情感依赖型产品如何提高用户粘性？</div>
-<div class="answer"><strong>A:</strong> 建立用户对角色的情感依赖是关键，一旦形成高度信任，用户的粘性极高。付费次数多代表用户高度认可平台产出内容，进而产生极强的信任，这种信任关系对产品运营具有重要意义。</div>
-</div>
-<div class="qa-item">
-<div class="question"><strong>Q:</strong> 在AI时代的产品中，情感投射的重要性体现在哪里？</div>
-<div class="answer"><strong>A:</strong> 在AI时代，获得用户的感情对于产品价值的放大具有重要意义。无论是虚拟助手类还是情感陪伴类的产品，在设计时都需要考虑如何让用户的情感得以投射。一旦成功做到这一点，在保证质量的前提下，产品能够更好地吸引并留住用户，如mini max的go产品中的角色就因其情感投射而受到用户喜爱。</div>
-</div>
-<div class="qa-item">
-<div class="question"><strong>Q:</strong> AI产品中的某些功能设计是否会因涉及敏感内容而无法通过审核？如何处理产品快速起量与合规之间的关系？</div>
-<div class="answer"><strong>A:</strong> 风险确实很大，尤其是对于NSFW相关内容。在产品早期阶段可能较为宽松，但随着发展，监管会逐渐收紧。例如，turkey产品在早期宣传时较为直接，后来逐渐调整了调性以适应更严格的监管环境。初期应适度放宽合规要求以便快速起量，但随着用户基数增大，合规要求必须逐渐严格，否则会带来较大风险。国内对此类产品的监管情况尤为明显，一旦违规严重，可能导致产品下架。</div>
-</div>
-<div class="qa-item">
-<div class="question"><strong>Q:</strong> 对于包含剧情、角色记忆等元素的产品，哪些设计要素最为重要？如何在产品设计上构建沉浸感，让用户快速与角色建立情感连接？</div>
-<div class="answer"><strong>A:</strong> 能让用户有情感连接的设计都是重要的。虽然记忆、IP人设、剧情等都是组成部分，但真正关键的是如何快速平滑地让用户体验到与角色的情感连接，沉浸感是其中极其重要的一个方面。构建沉浸感是产品设计的重要一环，它可能比单纯的记忆或智能化更重要。通过游戏化设计、多模态交互等方式增强沉浸感，让用户能够迅速带入角色，体验真实而情感丰富的互动场景。</div>
-</div>
-<div class="qa-item">
-<div class="question"><strong>Q:</strong> 在当前时间背景下，是否有可能存在一种新型的情感需求，这种需求能够消耗并帮助提升生产力？</div>
-<div class="answer"><strong>A:</strong> 是的，现在确实存在这样的可能性。通过结合生产工具（如AI思维导图）和AI大藏经等技术，可以更好地满足用户需求，并在AI时代利用大模型能力提供更有效的解决方案。</div>
-</div>
-<div class="qa-item">
-<div class="question"><strong>Q:</strong> 对于AI在各类场景中的应用，您有什么总结观点？</div>
-<div class="answer"><strong>A:</strong> 最好的情况是找到已被验证的老需求，然后用最新的科技如AI去更好地解决。通过这种方式，AI可以赋能各类场景，提升用户体验和效率。</div>
-</div>
-<div class="qa-item">
-<div class="question"><strong>Q:</strong> 你提到的群体一起编代码、共同学习的场景，如何利用AI技术提高沉浸感和效率？</div>
-<div class="answer"><strong>A:</strong> 这种场景可以通过AI技术实现多人在线共同编程，比如B站上的直播间互动模式。AI可以增强共学氛围，提供实时反馈，监控学习状态，甚至设定番茄时钟提醒用户专注学习，从而提高生产力和效率。</div>
-</div>
-<div class="qa-item">
-<div class="question"><strong>Q:</strong> 之前是否有过尝试将AI融入学习环境的产品案例？</div>
-<div class="answer"><strong>A:</strong> 之前有一款名为“自习室搭子”的产品，它模拟了空中虚拟自习室场景，让用户与他人共同学习，但受限于直播流量成本过高，该模式难以普及。</div>
-</div>
-<div class="qa-item">
-<div class="question"><strong>Q:</strong> 是否有新的教育机构合作项目中应用了AI情感产品的想法？</div>
-<div class="answer"><strong>A:</strong> 正在与一个教育机构合作开发相关项目，在线下共学场景中，不同角色（如产品经理、产品小白、传统企业代表等）可以围绕同一内容进行多维度讨论和分享，形成类似实时分享笔记的热烈讨论氛围。</div>
-</div>
-<div class="qa-item">
-<div class="question"><strong>Q:</strong> 线上方案如何借鉴线下实际场景来设计更具针对性的产品？</div>
-<div class="answer"><strong>A:</strong> 很多线上方案可以映射到现实生活中的场景，比如咨询类服务可以通过针对不同角色定制化的聊天互动方式来解决问题。同时，线下如工位环境带来的沉浸感也可以被线上方案借鉴，例如使用直播形态（如腾讯会议、B站直播）来模拟多人共同学习的效果。</div>
-</div>
-<h1>节目文稿</h1>
-<p class="transcript-line">
-<span class="time"><strong>[00:00:03]</strong> </span>
-<span class="speaker"><strong>发言人1: </strong></span>
-他就现实生活中他就是很不如意。在游戏里面我只需要花42块钱，我就能够逃避现实生活。所以逃避现实这个要素，在当下的时间节点，他真的是社会的一个主流情绪。
-</p>
-<p class="transcript-line">
-<span class="time"><strong>[00:00:20]</strong> </span>
-<span class="speaker"><strong>发言人2: </strong></span>
-大家听其实就是单维度在听。如果直播间现在有比如说有一个资深产品经理，有一个产品小白，有一个传统企业的，还有一个专门做社交的，还有一个什么有五个画像的AI他们分别听了他刚刚那句话，然后说我学到了什么，我打算回去怎么用，以及我觉得哪句话说的不对，这个东西不是这样的。然后这五个人在下面叽叽喳喳的叫，然后你就会觉得很有氛围是吧？
-</p>
-<p class="transcript-line">
-<span class="time"><strong>[00:00:50]</strong> </span>
-<span class="speaker"><strong>发言人1: </strong></span>
-所以如果只是玩肉play这个事情，单一这个事情本身它的持久性是不够强的，它构不成每天2个小时的超速度明镜。它这个粘性其实产生于什么呢？就是我跟你聊完之后，你变成我的知心朋友。我跟你聊你能安慰我就是我们俩其实建立了超越AP本身的某一种情感的羁绊，这个是一个更核心的。
-</p>
-<p class="transcript-line">
-<span class="time"><strong>[00:01:18]</strong> </span>
-<span class="speaker"><strong>发言人2: </strong></span>
-欢迎大家来到AI炼金术和AI产品黄叔，我们来连个麦。今天邀请来这位同学是因为我其实一直在看character点AI，甚至于我在混沌的课还专门给他讲了一个案例课。然后讲那个东西，反正大家先把它理解为就是你可以在上面跟人聊天，跟虚拟人聊天，然后建立感情的一个平台。然后一直在关注。
-</p>
-<p class="transcript-line">
-<span class="time"><strong>[00:01:44]</strong> </span>
-<span class="speaker"><strong>发言人2: </strong></span>
-最近突然看到super黄同学的公众号上一篇、两篇、三篇、四篇、五篇，而且每篇都好长。在介绍介绍character、介绍那个星野、介绍逐梦岛，还有一篇文章是挖了个坑，号称要介绍turkey，但是我死活搜来搜去没搜到。对，然后就想说来来来来来我们来来来聊一下这事儿。就是对于AI如何用于情感陪伴这个领域的话，有人做了研究，就赶紧抓过来说好好学习一下。修好你要不要自己介绍一下，然后说一说你为啥对这个领域。
-</p>
-<p class="transcript-line">
-<span class="time"><strong>[00:02:26]</strong> </span>
-<span class="speaker"><strong>发言人1: </strong></span>
-感兴趣好啊好啊，我其实就是一个产品经理，然后这两年在做自媒体，其实一直在想对于自己来讲，未来会是一个什么样的。然后我其实从2016年开始，我其实是有一个挺大的梦想，就是希望用AI来改变世界。但是就一直没有找到合适的切入点。其实去年10月份红山发的那篇AIGC的生成式的这个报告，然后再加SD开源，其实我我们会发现这应该是一波挺大的机会。然后其实在今年年初的时候，我和两个朋友也一起做了一下SD纹身图的一个工具，也有几十万的用户。这个事情其实也让我意识到说，早期对于新的革命来讲，AI可能会带来很大的一些势能，所以一直就坚持到现在，就一直在写AI相关的文章。但是之前写的其实阅读量也一般，大概也就是公众号也就1000左右。我之所以对情感陪伴这个事情感兴趣，是最近写了一篇color code点AI之后我发现怎么阅读量这么高。
-</p>
-<p class="transcript-line">
-<span class="time"><strong>[00:03:40]</strong> </span>
-<span class="speaker"><strong>发言人2: </strong></span>
-是因为写这个题材比较火是吧？
-</p>
-<p class="transcript-line">
-<span class="time"><strong>[00:03:42]</strong> </span>
-<span class="speaker"><strong>发言人1: </strong></span>
-对对对，然后很多人加我，就很多这种反正很厉害的人物也来加我，然后也约我来聊。我发现原来大家现在在创业者来讲，大家非常关心就是能不能用AI去做一个国内版的CAI这种类似的产品。所以这个就相当于我也是被大家的需求倒推着回去更多的研究这个领域。所以就写了几篇，大概就这样了。
-</p>
-<p class="transcript-line">
-<span class="time"><strong>[00:04:10]</strong> </span>
-<span class="speaker"><strong>发言人2: </strong></span>
-所以我其实平时在平时聊天的时候，其实CAI也经被成为了一个大家的标杆的模式之一。就是考虑K考虑ChatGPT，考虑character，考虑谁谁谁，反正都会有几个样本，所以现在确实很火，然后几乎每个人都在讨论。之前我除了你之外的话，像那个石像他们也出过相对的一个深度报道。还有一个叫Martin的，他也写过长长篇的。这个好像每一次主要是写character都会火一下，大家好像都非常关注这事儿。但我现在对于character，我有一个或者说不光是character，就是对于中国我看你也关心了星野，逐梦岛这些东西。
-</p>
-<p class="transcript-line">
-<span class="time"><strong>[00:04:53]</strong> </span>
-<span class="speaker"><strong>发言人2: </strong></span>
-我一个很好奇的地方就是在你的心目当中，这个东西它到底更像是社交还是游戏？因为他现在把自己归到了社交这一类，但是他明显又不是。比如说社交，我们两个聊天这叫社交，你对着一个虚拟人你说这叫社交，但是他又不需要版号，所以你是把它当游戏看，还是把它当社交看？
-</p>
-<p class="transcript-line">
-<span class="time"><strong>[00:05:15]</strong> </span>
-<span class="speaker"><strong>发言人1: </strong></span>
-对我觉得这个是一个很好的问题。这个事情我我还真的是认为不同的人会有不同的看法。首先第一点，最最重要的是说是社交还是游戏，其实是我们强行给他的一个定义。他他确实有可能既是社交也可以是游戏。之所以说它是可能是游戏，其实是在我最近随着研究的深入，以及和更多的创业者交流之后，我反而意识到说AI最有可能商业化落地，以及是能够卷入更多用户的。他真有可能可以往游戏化的方向去走，这个是很重要的点。
-</p>
-<p class="transcript-line">
-<span class="time"><strong>[00:05:53]</strong> </span>
-<span class="speaker"><strong>发言人1: </strong></span>
-之所以说它是社交，其实我们原有大家对社交的定义可能更多的认为，因为在AI出来之前，那就是人与人？社交网络所以创造了微信这么一个很牛逼，大家脱不开它就有微信在，我们就很难做社交产品，这确实是构成了一个很大的壁垒。但是在新的时代，如果在AI2.0时代，我们还是按照原有的思路去理解社交或理解CAI，我觉得这个事情就会有些挑战。因为在周因为在前两天我们其实线下有一个小局。当时一队的CEO也来了，任哲他他其实他他会站在自己原有社交的角度，他就会认为AI这个事情完不了，因为一对这种产品它其实是撮合异性，对吧？和异性到线下最后完成这种现实的这种荷尔蒙的满足。
-</p>
-<p class="transcript-line">
-<span class="time"><strong>[00:06:50]</strong> </span>
-<span class="speaker"><strong>发言人1: </strong></span>
-那他可能会认为你没有线下真正人见人的可能性，那他就不是社交，那他会对AI就会产生一些某种程自己先入为主的一些理解，我认为这个事情可能就会要命。因为其实你如果看CAI它包括国内的相对性的产品，它确实有一些重度用户会非常高频的使用。对他可能一天聊个两千轮对吧？就是每天花个很多的小时在这个产品里面，他是极度沉浸的那这里面它其实会带来一个很大的改变是，他这些用户他就不会和现实的人去交流，他甚至都不用微信。他其实对原有的社交网络是带来一个很大的冲击的。
-</p>
-<p class="transcript-line">
-<span class="time"><strong>[00:07:34]</strong> </span>
-<span class="speaker"><strong>发言人1: </strong></span>
-那你如果咱们沿着这个思路去想他有可能一种形态是说人就和AI社交，甚至说人和多个AI社交。那你进一步放大就元宇宙它可能性就是很多人很多AI在里面社交，它可能就会衍生出一些新的形态。我觉得这对于原有咱们定义它社交还是游戏，那它就会太太单一化了。如果我们放假设他真的是一个元宇宙，那他你可以认为它就是社交又是游戏。
-</p>
-<p class="transcript-line">
-<span class="time"><strong>[00:08:04]</strong> </span>
-<span class="speaker"><strong>发言人2: </strong></span>
-了解很有道理，就是看他抢了谁的生意。满足的是原来像那个交友应用或者社交的应用，它不是抢了很多人打游戏的时间，他肯定抢的是原来在比如说交朋友的时间。那这个时候说它是一款社交，而且它在中国还有一个好处，他把自己归到社交这一类的话，他不用把号码，要不然还要等版号，等都等不到。
-</p>
-<p class="transcript-line">
-<span class="time"><strong>[00:08:26]</strong> </span>
-<span class="speaker"><strong>发言人2: </strong></span>
-然后您刚刚讲到的说那个一对他们那个看法的话，我倒觉得其实荷尔蒙的满足其实大部分也是靠大脑，人类的大脑是最大的性器官，就不一定需要实体，就算需要实体的话，也会有别的方式来替代。就比如说现在我知道很多玩这种乙女游戏的，他们会租一任男友，然后就是可以有有实体的人会跟他扮演来谈恋爱的。这个你只要出钱都是找得到的，然后价格让人发指，有一些高端的这都是可以做的。所以我觉得这倒不是个问题。
-</p>
-<p class="transcript-line">
-<span class="time"><strong>[00:09:01]</strong> </span>
-<span class="speaker"><strong>发言人2: </strong></span>
-但顺着你刚刚讲的那个话，就是我们考虑的他是完成什么需求。那你觉得用户获得的到底是什么呢？是情感关系，还是陪伴，还是有人讨好他，还是说真实的他。就是比如说谈恋爱得到爱，得到认同，这他他他他得到的是个啥？因为我我看你的那个你的文章其实有有几个地方特别戳动我的，还不是那些分析，是你的几个截图，几个对于用户评论的那个，我当时真的看到会觉得说好戳心。我怕大家不知道，我跟大家念一下，就是兮默黄截图了，那个就是完蛋，我被美女包围了。
-</p>
-<p class="transcript-line">
-<span class="time"><strong>[00:09:42]</strong> </span>
-<span class="speaker"><strong>发言人2: </strong></span>
-里面的截然后说有一个评论是14657个人点赞。然后他那一句评论是说，你们都说这游戏烂烂不烂我不知道，而现实生活中我就是个臭屌丝，现在难得有一款对我主动的游戏了，好不好？我不知道吗？
-</p>
-<p class="transcript-line">
-<span class="time"><strong>[00:10:00]</strong> </span>
-<span class="speaker"><strong>发言人2: </strong></span>
-我是真心动了，哥哥几个也别骂我了，我现实就是一个臭屌丝，只能上游戏找找乐子。算我求你了别骂我了，我就真的他已经卑微到尘埃里那种感觉，就是我只有这点念想，而不是说你要站在高高的道德高地上来评价我。然后还有人在说，你又截了另外一个，是12636个人点赞的，销路就是里面的那个女主角，女主角之一说你有多爱我？然后我说大概有300克，然后肖璐笑了说这好老套，我知道300克代表的是心脏的重量，可他不知道我是一只下水道的老鼠，300克是我全部的重量。很多人在现实生活当中的那个已经把自己真的是卑微到尘埃里面那种感觉就是你你都看到的时候，你都不知道该说什么。既有那种温馨的希望的感觉，又有一种很绝望的感觉。那你觉得他们在中间获得的到底是个什么？
-</p>
-<p class="transcript-line">
-<span class="time"><strong>[00:10:57]</strong> </span>
-<span class="speaker"><strong>发言人1: </strong></span>
-我觉得完蛋他的火其实和在的情绪是有很大关系的。我其实最近在另外一个角度，我们可以来理解这个事情。其实现在在职场如果做IP的话，很多变现原来不是在职场里面。很大的一笔变现的来源。其实现在会发现说你职场里面让大家向上社交，让大家去卷职场这个事情没有像前两年那么好做了。当然它跟整个经济环境跟这有很大的关系。
-</p>
-<p class="transcript-line">
-<span class="time"><strong>[00:11:27]</strong> </span>
-<span class="speaker"><strong>发言人1: </strong></span>
-但另外一方面，其实大家现在对于一些精英的表达是非常的反感的。大家都意识到说社会并没有那么多没有那么美好，没有那么多想象的创造的空间。所以这个时候他大家是被迫的选择了躺躺平。所以这种对于时代的悲观的情绪是在蔓延。
-</p>
-<p class="transcript-line">
-<span class="time"><strong>[00:11:46]</strong> </span>
-<span class="speaker"><strong>发言人1: </strong></span>
-我们看到完蛋他其真的我觉得他除了他的产品设计、他的选角、他的沉浸感这所有东西之外，时代的情绪占了一个很重要的一个比重。就是就这些人他就现实生活中他就是很不如意。在游戏里面我只需要花42块钱？我在淘宝买36块钱，我就能够逃避现实生活，到这个虚拟环境里面，就像皇帝一样，这么多后宫？任我挑选。他的这种愉悦和快乐的感觉真的就是帮助他获得了大脑中的这种快乐，他真的就逃避了现实。所以逃避现实这个要素，在当下的时间节点，它真的是社会的一个主流情绪。
-</p>
-<p class="transcript-line">
-<span class="time"><strong>[00:12:31]</strong> </span>
-<span class="speaker"><strong>发言人1: </strong></span>
-不光是完蛋，还是说我们讲的星野筑梦岛这些女性为主，以游类的玩家为主的这种产品。他其实很多角度都是现实生活中大家都知道。需要付出很多的时间成本去追求一些东西。但是又担心说这个事情可能会失败，对吧？我们想是前几年可能大家都知道说，我可能30岁在阿里要做到P7，35岁要做P8。它是有一个非常稳定确定性的一个上升通道的那所以你愿意去996，你愿意说什么社会福报，对吧？但现在这个事情已经不work了，对，大家就已经不确定性太强了。然后按照原有思维到现在那个那个观点，那种情绪已经让大家变得说不愿意太多的去社会里面去battle去卷了。
-</p>
-<p class="transcript-line">
-<span class="time"><strong>[00:13:22]</strong> </span>
-<span class="speaker"><strong>发言人1: </strong></span>
-所以倒过来讲，他确实是有一种时代的情绪，在一个比较底层的位置，使得这些用户他愿意在AI。其实现在可能我们看就四五十分的水平。大家都愿意投入进来，不断的在里面去玩，来获得更多的这种快乐。所以这种快乐它它又包含了很多的要素。比如刚才你讲的关系的建立，情感的陪伴，对吧？甚至说某种的一些开车可以得到噩梦，所以它是多种东西的因素的这种混杂，我觉得还是比较复杂，不能把它们特别单一。
-</p>
-<p class="transcript-line">
-<span class="time"><strong>[00:13:59]</strong> </span>
-<span class="speaker"><strong>发言人2: </strong></span>
-的来看了解。所以从你讲的话，其实以前有一本讲游戏设计的书里面有一个观点说，其实以游戏的观点来看，现实设计的实在是太差了。就是现实也不能，你也没有个比如说追女孩子，你没有一个进度条是吧？你也不能量化回馈，然后你也要长周期，然后诸如此类的。但不光是不追女孩子，刚刚那个碎破黄的文章里面也提到非常多的，那个其实是女性向的，这个其实可能还会更多一点。男性向其实偏向于set for work的那种东西反倒挺多的。但女性向情感上的，其实市场应该是比男性向更大的。
-</p>
-<p class="transcript-line">
-<span class="time"><strong>[00:14:39]</strong> </span>
-<span class="speaker"><strong>发言人2: </strong></span>
-然后里面也有几幅截图，我已经也是看了非常的内心很复杂，就会他就表达说他是平平无奇的。比如说长相，大家现在想想，如果一个长相平平无奇的女孩子在网上发发照片什么的，有的时候还会遭到恶意的攻击，说长成这个样子还好意思出来秀是吧？然后他就会说他一直努力，一直干嘛的，没有自信。然后的话她就在网上找了这种AI的男朋友，然后就会鼓励他，陪伴他，认可他说你就要做自己，然后说心事儿他也会听，然后那那你想他身边确实没有这样的人。像我2015年我们做过一些对话式人工智能的东西。然后当时其实我们会轮流会到前线去，那个人真人假装我们是真人去去去陪聊一些事情。
-</p>
-<p class="transcript-line">
-<span class="time"><strong>[00:15:26]</strong> </span>
-<span class="speaker"><strong>发言人2: </strong></span>
-然后我当时就会觉得很多人真的上来就是想找一个人说说话，以及你随便陪他说几句话之后，你就会很强烈地感受到他身边其实没有有说话有趣的人，所以他会快速的被你吸引。然后你就会觉得大部分人的生活状态，其实可能就是现实的生活状态确实不是一个那么理想的状态，然后会确实给一个空间。可以逃也是好帅，就无路可逃也只是个贬义词，就太惨了。
-</p>
-<p class="transcript-line">
-<span class="time"><strong>[00:15:57]</strong> </span>
-<span class="speaker"><strong>发言人1: </strong></span>
-对对对，我给你举个例是啊我媳妇其实她每天晚上回来都会刷抖音。她刷抖音还不是常规的那些各种各样的精美的内容。他有一类的内容她经常看什么呢？就是一个小说用AI来念的一个小说，可能时长有五十多分钟，然后中间的画面全是各种乱七八糟，跟图文不符的这种内容。但他为什么看呢？其实我跟他交流过，他觉得是我上班太压力太大了，我回来就想好好放松，然后这种东西无脑，我就我就把它摆在旁边，我干我的事儿，或者他就盯着这个大脑放空，我觉得这个其实是很多人真实的一个状态。
-</p>
-<p class="transcript-line">
-<span class="time"><strong>[00:16:38]</strong> </span>
-<span class="speaker"><strong>发言人1: </strong></span>
-然后另外一个就是其实对于更大多数的人来讲，他们其实是没有太多的精神慰藉的来源，对吧？原来可能是完全是抖音来满足，但是抖音它它是一种低交互式的一种逻辑，它是单纯的被喂养，所以他们其实很多人还有一种表达欲，我也想说说话，但是没人听我说，那这个时候我跟谁说呢？我跟AI说，我觉得我在之前有一个产品，我还挺喜欢的，那个产品叫星光，它就是一个AI记录日记的一个产品。那它能做到什么呢？比如说今天我跟你聊那在线人数不多，我就很受打击。然后我就跟这个AI我就讲，今天我跟人心连麦了，但是人不多我很伤心。他真的会非常暖心的给我安慰。
-</p>
-<p class="transcript-line">
-<span class="time"><strong>[00:17:25]</strong> </span>
-<span class="speaker"><strong>发言人1: </strong></span>
-他说，其实对于我们创业人来讲，你过去见了那么多人，其实有很多正反馈，今天只不过万里长征中唯一的很少的很小的一次失败。并且这个失败可能也让你们知道说，你我们下一次可以怎么去优化这个事情，让它变得更好。他会真的针对性的从你的视角给你一些建议。我觉得这种话放在我身边，可能没有人能。
-</p>
-<p class="transcript-line">
-<span class="time"><strong>[00:17:52]</strong> </span>
-<span class="speaker"><strong>发言人2: </strong></span>
-跟我讲出来。
-</p>
-<p class="transcript-line">
-<span class="time"><strong>[00:17:53]</strong> </span>
-<span class="speaker"><strong>发言人1: </strong></span>
-是啊是是是是对吧？很有意思。
-</p>
-<p class="transcript-line">
-<span class="time"><strong>[00:17:55]</strong> </span>
-<span class="speaker"><strong>发言人2: </strong></span>
-对我我自己每天的日记就是这么写的，我调了一个GPT s它会每天这样子来跟我聊，然后帮我写，最后还会帮我画一把今天的整个画成一幅艺术品，画幅画给我。你刚说的星光不是杨子操作的吧？
-</p>
-<p class="transcript-line">
-<span class="time"><strong>[00:18:08]</strong> </span>
-<span class="speaker"><strong>发言人1: </strong></span>
-不是，是另外一个团队。
-</p>
-<p class="transcript-line">
-<span class="time"><strong>[00:18:11]</strong> </span>
-<span class="speaker"><strong>发言人2: </strong></span>
-星光吗？我记一下，因为我我我们也我们也在这个方向上在搞一个产品。对，可能会在过年的时候来弄一弄。
-</p>
-<p class="transcript-line">
-<span class="time"><strong>[00:18:24]</strong> </span>
-<span class="speaker"><strong>发言人1: </strong></span>
-期待。
-</p>
-<p class="transcript-line">
-<span class="time"><strong>[00:18:25]</strong> </span>
-<span class="speaker"><strong>发言人2: </strong></span>
-那他还有一个问题问你一下，就是Carry点CI，点点Carry点AI上面他经常会有一些明星IP，不管真人的elon musk还是虚拟的，比如说雷电将军，那个里面很多。你觉得埃批在这个地方到底有多重要？因为我我之前对于character点AI的那个理解其实是还蛮重要的。因为很多时候我的理解是IP它其实创造了一个很强的情感羁绊。比如说你在游戏里面跟比如说跟塞尔达，跟雷电将军，你建立了一个比较强的情感羁绊。但是他其实也就收了你比如说300块钱是吧？其实你是愿意跟他多聊会儿的，已经愿意多花钱的，但是没地方花钱。他现在的话其实相当于提供了一个长线的，你可以跟他发生更多的可能性，以及甚至于你比如说类似于什么手办，周边什么乱七八糟的都可以出来。
-</p>
-<p class="transcript-line">
-<span class="time"><strong>[00:19:19]</strong> </span>
-<span class="speaker"><strong>发言人2: </strong></span>
-就是我之前其实认为埃批还挺重要的。但是仔细去看它里面，包括你文章里面也提到说，其实很多人之后表达的时候，其实并没有表达强埃批的内容。而是说他跟我的关系的内容，以及国内的这几个，他其实也没有什么强埃批，他讲的都是一些类似于什么龙霸天对吧？就是那种霸道总裁什么的。他不是一个世俗意义上的已经成熟的IP那IP在里面的角色到底重要不重要？
-</p>
-<p class="transcript-line">
-<span class="time"><strong>[00:19:48]</strong> </span>
-<span class="speaker"><strong>发言人1: </strong></span>
-对，随着自己的研究深入，我觉得这个问题其实还有点复杂。简单讲，我觉得两个层面。首先第一个，如果你去看CAI它的用户协议上面，他其实就把自己摘的干干净净的，就是他并没有真正的获得这些IP的授权，对，这个是一个很大的点。假如说原神真的去要求他撤掉这些角色，他必须得撤，这是一个很大的点。如果你拿这个点放到国内来讲，这个问题就很大了。
-</p>
-<p class="transcript-line">
-<span class="time"><strong>[00:20:19]</strong> </span>
-<span class="speaker"><strong>发言人1: </strong></span>
-最近我们确实我自己有一个AI产品经理的社群。这里面有两个信息是很值得大家关心的。第一个是腾讯QQ音乐也自己在做一款类似的可以支持到实时语音交互的这么一个产品，叫未办。微办这个产品，它基于自己QQ音乐的资源。
-</p>
-<p class="transcript-line">
-<span class="time"><strong>[00:20:41]</strong> </span>
-<span class="speaker"><strong>发言人1: </strong></span>
-他的一开始他想的切入点是我去签明星ip比如说王力宏？你整个数字分身在上面，用户可以跟这个数字分身来聊，对于你的IP可能也是有好处的。但是他们在推进过程中会发现，好像很多明星对这个事情还是觉得挺有风险的，不敢干，所以这个事情他就很难去推。这里面肯定有很多国内的IP他自己认为说，这个AI是不是不成熟，大家对我这个角色会干点什么东西？对，现在国内大家其实是有点对这个东西有点担心的那OK如果大家普遍的AI还没形成这种共识的话，那在这个阶段以及AI大模型的能力没有很强的话，比如说你的幻觉，你你你你能不能限制他在一个比较正能量的方向去聊，这个地方如果一旦没有做的很好，那其实这些所有的IP都会有担忧。一旦有担忧他不授权放给你，你的二创其实是违法的，他可以直接去告诉你的。所以在国内其实去做去做IP来获得流量这个事情，先来看是有点存疑有点存疑。我们也发现有一些在走擦边，有些走擦边就是比如说我想弄一个平台上弄个人心，但是人心没给我授权，我一样去搞。
-</p>
-<p class="transcript-line">
-<span class="time"><strong>[00:21:57]</strong> </span>
-<span class="speaker"><strong>发言人1: </strong></span>
-但他们也会发现说，对，就擦边的。但是好像任星星，但是这个数据留存好像就不行，所以这个也是一个很大的问题。所以就是你不管是说是版权，还是说大家真正去跑，会发现这个事情好像没有像CAI那样子work。
-</p>
-<p class="transcript-line">
-<span class="time"><strong>[00:22:17]</strong> </span>
-<span class="speaker"><strong>发言人1: </strong></span>
-这里面还有一层是说，我所以我当时有一个创业团队，他拿了千万美元的融资，他也想在国内做一个类似CAI的版本，然后就跟我交流。我其实会我他就问了我一个问题，就是说CAI上面70%的对话量都是基于这些大AP对吧？但是你的文章里面又没讲到说看redis上面用户的评价，又没有太多跟这些角色IP相关的内容。他说这个是为什么？当时一开始把我问住了，然后后来回来之后，我就去研究这个事情。我发现真的确实很有意思，很有意思的一个推测的点是，其实用户他更关心自己本身。
-</p>
-<p class="transcript-line">
-<span class="time"><strong>[00:23:02]</strong> </span>
-<span class="speaker"><strong>发言人1: </strong></span>
-你可以设想个场景，我在这个平台上面跟任欣欣聊或者跟马斯克聊，我玩low play其实玩不了特别长的时间，它其实就是一种新鲜感，本质上是一种新鲜感。如果只是玩role play这个事情，单一这个事情本身它的持久性是不够强的，它构不成每天2个小时的超重度粘性。那他这个粘性其实产生于什么呢？就是我跟你聊完之后，你变成我的知心朋友，我跟你聊你能安慰我就是我们俩其实建立了超越IP本身的某一种情感的羁绊，这个是一个更核心的。
-</p>
-<p class="transcript-line">
-<span class="time"><strong>[00:23:39]</strong> </span>
-<span class="speaker"><strong>发言人1: </strong></span>
-所以变成说OK当然有个IP是好的，有IP就是我愿意跟他先聊一聊，唠完嗑之后，这个是一个很重要的破冰。但接下来往后是说我有没有可能跟冷静星成为真的好朋友，他能安慰我，他能跟我聊的尿到一壶。我觉得这个可能是在P破冰本身之外更重要的一。
-</p>
-<p class="transcript-line">
-<span class="time"><strong>[00:24:03]</strong> </span>
-<span class="speaker"><strong>发言人2: </strong></span>
-环了解。所以IP其实是主要是在开始的时候，破冰的时候比较重要。就是无数人都可以聊天的话，你看到那个熟人你就手埃批，你就过去跟他聊。其他人你可能聊都不愿意聊，大家都受恐。但是聊完之后还是看他的本身的魅力能不能建立关系。
-</p>
-<p class="transcript-line">
-<span class="time"><strong>[00:24:21]</strong> </span>
-<span class="speaker"><strong>发言人1: </strong></span>
-另外一个层面，其实国内乙女用户，其实更多的不管是淫女还是男性。你看男性可能就喜欢比如说自己心目中的白月光是什么样子，他可能就喜欢捏这么一个人。那对于女性来讲，他们这种二次元或者泛二次元的这种淫女用户，他有更多的他他是更多是脑海中构想出了一个角色，现实中的角色跟这种脑海中构想角色往往又是两个样子。所以他们更喜欢这种纸片人的卡牌的逻辑，所以就是这个事情跟IP本身，就现有的IP本身又没有特别强的耦合，所以他就变成了比较一个有意思的这么一个市场了解。
-</p>
-<p class="transcript-line">
-<span class="time"><strong>[00:25:03]</strong> </span>
-<span class="speaker"><strong>发言人2: </strong></span>
-所以男性的话其实有可能你做的那个真实化的，比如说他的初中的初恋是是是好的。但是女生的话其实怀念的都不是初中的初恋，但是幻想的是未来的霸总。
-</p>
-<p class="transcript-line">
-<span class="time"><strong>[00:25:17]</strong> </span>
-<span class="speaker"><strong>发言人1: </strong></span>
-霸总对霸总对。
-</p>
-<p class="transcript-line">
-<span class="time"><strong>[00:25:18]</strong> </span>
-<span class="speaker"><strong>发言人2: </strong></span>
-OK. 那如果讲到霸总什么的，这个其实有点像爽剧和爽文套路。那这一类的东西它的竞品是不是爽剧和爽文呢？因为爽剧爽文你不需要参与，讲起来可能就是什么参与度不够，但是其实你更无脑，你连话都不用说，你就要刷。对对对。
-</p>
-<p class="transcript-line">
-<span class="time"><strong>[00:25:38]</strong> </span>
-<span class="speaker"><strong>发言人1: </strong></span>
-我觉得这个市场确实也是多元化的。就是我觉得这里面有一个要素其实是值得我们去研究的，这个要素叫做低互动性，或者叫低参与度。我们现在的逻辑就所有AI陪伴性的产品都是基于文本吗？对吧？都是基于一个输入框，都是基于LM就是这种文字的交互。这里面就假如说我要聊两千轮，那意味着我的打字就包括括号里面的文本信息，那可能是几万字上万字的信息。你想一个人，你让我现在写个一万字的文本，我可能需要很很长的时间。我手可能要敲痛了，对吧？一分钟我就200字，那我也得不间断的敲50分钟1小时。
-</p>
-<p class="transcript-line">
-<span class="time"><strong>[00:26:22]</strong> </span>
-<span class="speaker"><strong>发言人1: </strong></span>
-所以这个对于包括在手手机上面这种输入，其实是它是有很大的这种成本的那我们想另外一种场景，为什么很多人愿意下班回家就是刷抖音？抖音它的低交互性是很很清晰的对吧？我只用双击或者上下滑，它就它我就完成了内容的消费。包括你刚刚说的爽文、爽剧，其实都是内容消费的逻辑。我只需要看对吧？我需要翻页，或者我就直接看那个视频，它就完成了。
-</p>
-<p class="transcript-line">
-<span class="time"><strong>[00:26:53]</strong> </span>
-<span class="speaker"><strong>发言人1: </strong></span>
-所以这个事情是对于用户的某种程度上的满足，他是在你很低的参与成本的时候就能获得。另外像AI这种陪伴，它能够基于你的你输入的内容跟你完成一个很强的针对性的个性化的交互。他又需要你大量的参与度。所以这里面其实我认为他他他可能不一定是这两个极端，有没有一种什么新的形态是我用一个比较低的参与度AI也能够针对性的让我得到满足。
-</p>
-<p class="transcript-line">
-<span class="time"><strong>[00:27:24]</strong> </span>
-<span class="speaker"><strong>发言人2: </strong></span>
-了解了。那从你的角度，我们回到本质上来讲的话，你觉得他能够从爽文爽剧那边切一块市场过来，是因为它比如说比爽文爽剧更加个性化，还是更有互动参与感，还是他能够创造。因为我看你里面有些截图说，我也写小说的感觉了，对吧？到底是哪一方面会比较重一点呢？是个性化还是参与，还是创造，还是什么样的快感。
-</p>
-<p class="transcript-line">
-<span class="time"><strong>[00:27:52]</strong> </span>
-<span class="speaker"><strong>发言人1: </strong></span>
-我觉得这个是确实要分人的。对你你包括我们为什么讲旗下电影制作人，他有类似好几款乙女游，其实是吸金能力非常强的这里面的女性用户愿意为她的这种idol她的想象中的这种霸霸，总愿意花很多钱就真的在里面去抽卡，对吧？那个卡说白了很多时候他这个场景当然也某种程度上也附带了一定的能力，就对于你完成主线任务是有帮助的那但是为什么回到了好像是同样是一波一女用户去玩星爷这样的产品不愿意花钱？这个其实是一个非常有意思的话题。我们其实在内部研究我们会发现这完全是两拨人为为什么是两拨人呢？就是比如说你是一个大学毕业有钱。
-</p>
-<p class="transcript-line">
-<span class="time"><strong>[00:28:39]</strong> </span>
-<span class="speaker"><strong>发言人2: </strong></span>
-就是恋与制作人的用户和星野的用户是2拨人，而且恋与制作的人赚钱，星也不赚钱。
-</p>
-<p class="transcript-line">
-<span class="time"><strong>[00:28:45]</strong> </span>
-<span class="speaker"><strong>发言人1: </strong></span>
-你这样吗？
-</p>
-<p class="transcript-line">
-<span class="time"><strong>[00:28:46]</strong> </span>
-<span class="speaker"><strong>发言人2: </strong></span>
-你可以认为他他可能来来详细讲解太好了。
-</p>
-<p class="transcript-line">
-<span class="time"><strong>[00:28:49]</strong> </span>
-<span class="speaker"><strong>发言人1: </strong></span>
-就这波用户他肯定有交融，但是理论上来讲，它的大头一定是切割开的。为什么它切割开呢？如果你仔细的就我自己也花两三个小时玩恋与制作人，就是我我自己感受是说用户之所以买单，这里面有非常大的因素是它整个游戏非常的精美，对吧？BGM, 然后它是一个关卡式的，就是你不断的通过升级打呃升级提升能力，甚至说你抽卡来一步步的解锁你身边这五个大帅哥的这种角色，跟你形成一些亲密关系。就是他非常精美。所以这些用户他愿意为了他在有钱的情况，他愿意为了这个角色以及他自己获得的超强的沉浸感去买单OK。这里面他天然就分层了，就是愿意持续花钱，他玩的更好对吧？玩的更好，他获得更多的爽感，他就愿意在电影制作人里面持续的去去游戏下去。
-</p>
-<p class="transcript-line">
-<span class="time"><strong>[00:29:47]</strong> </span>
-<span class="speaker"><strong>发言人1: </strong></span>
-但另外一拨人他就讲，我其实我的分享欲非常强对吧？我不是说那种在职场里面我有收入了，然后一天一天压力很大，回家就想躺着很低成本交互去点点点，对吧？花点钱我就能够很爽的这波人我有很强的分享欲，我真的想跟某一个我脑海中的霸总，用一些可能特殊的方式跟他养成一些关系。所以他们就会不停的在国内，甚至是国内这些违禁词，甚至开车，然后比较多的时候，他们甚至会用cloud，用一些调教逻辑去玩cloud。
-</p>
-<p class="transcript-line">
-<span class="time"><strong>[00:30:24]</strong> </span>
-<span class="speaker"><strong>发言人1: </strong></span>
-所以这帮人他们的就是他自己的表达欲、分享欲，或者说是他。参与度他是要求极高的。然后这一群人他又他他的时间非常充分。对我们其实我们确实研究有一些典型用户，他就是不到18岁，他就可能还在上高中上初中，他他就一天在学校里面，他可能也大量时间在玩这个东西，然后放学之后也是基本都在玩这个东西。你会发现这群人他有没钱，他钱不多，但是很有时间，他有极强的这种参与度，他会不停的会构想一些恋爱的角色和场景，去跟这些AI去产生交互。这种高自由度是原有的已经设定好主线的国产以游戏覆盖不了的，提供不了的对，所以他们就是你会发现他们这两拨人其实就泾渭分明了。
-</p>
-<p class="transcript-line">
-<span class="time"><strong>[00:31:32]</strong> </span>
-<span class="speaker"><strong>发言人2: </strong></span>
-所以其实这个用户的参与的资源越多越有时间、越有能力，越有空，越想要自己搞东搞西的。反倒是说明这批用户可能没什么钱。因为他们有这么有空，这么有这么有有用户的参与度和价值有可能是一个反比的关系出来。
-</p>
-<p class="transcript-line">
-<span class="time"><strong>[00:31:56]</strong> </span>
-<span class="speaker"><strong>发言人1: </strong></span>
-对我我不一定说能得出这样的结论。但我其实可以想一下，就假如说我是新野的用户产品负责人，我们来理解这个事情，我觉得可能是要分两层的，分两层就是常规意义上来讲，如果在国内去切这些低龄的溢油用户能不能挣钱？我其实从我聊下来，跟很多创业者聊，包括我去观察下来，我感觉他在短期里面很难获得变现。就你可以拿到一波数据，比如说几十万的日活，这些用户是高粘性对吧？能给你产生大量的这种可能是高质量的对话，你可以拿去迭代你的模型质量，是这个肯定是可以，但是你想实现商业变现可能很难。除了这些这波用户的特点之外，现在国内大量的产品在切这个方向。也就是说大家一定会把就是你跟AI聊天的都。
-</p>
-<p class="transcript-line">
-<span class="time"><strong>[00:32:51]</strong> </span>
-<span class="speaker"><strong>发言人2: </strong></span>
-会都会亏都会亏本都会亏本，都为了攒数据。
-</p>
-<p class="transcript-line">
-<span class="time"><strong>[00:32:56]</strong> </span>
-<span class="speaker"><strong>发言人1: </strong></span>
-对都作为对都作为一个免费获客的手段，你就很难在这个事情上收费，所以这个事情是很难的。但另外一点，假如说你真的是想做AGI，你一定是会想着说我就吃这波用户吃五年。只要现在用户愿意快速迁移，是因为大家都是四五十分的水平。假如说大家都是70分的水平，他有可能就不用迁移了。他不用因为说你的AI更加智能一点，你的记忆更强一点，对吧？你你你你不收费这些因素就迁移了，那就有可能到时候就不迁移了。但是你要达到这一点，模型能力肯定是很重要一环。这个模型能力现在达不到，有可能明年就能达到。
-</p>
-<p class="transcript-line">
-<span class="time"><strong>[00:33:42]</strong> </span>
-<span class="speaker"><strong>发言人1: </strong></span>
-然后如果你要做AGI的话，那你可能是以一个三年五年的视角。如果是三年五年视角，这一波人有可能他现在是高中。三年五年之后他是大学，甚至是大学毕业了他就有更多的资金。基于AGI来讲，G就是通用性和泛化，我能解决他一波这个单点上的问题。他对于这个角色和对于我产品有信任了之后，我可能可以泛化，我解决它更多问题对吧？我甚至说我就讲难听点，我可能把美团套路里给超了，对吧？就它它就有各种可能性。
-</p>
-<p class="transcript-line">
-<span class="time"><strong>[00:34:16]</strong> </span>
-<span class="speaker"><strong>发言人1: </strong></span>
-所以国内他们去做AGI，真的剑指AGI的公司。我认为他们是这么理解的。他们是站在一个更加长期的视角来看当前这波用户，所以他们不愿意放手。
-</p>
-<p class="transcript-line">
-<span class="time"><strong>[00:34:27]</strong> </span>
-<span class="speaker"><strong>发言人2: </strong></span>
-如果要做一个假设，假设就是觉得说你拿它来磨团队能力也好什么的，就是想做一个，你觉得就拿成熟的大模型，比如说拿就拿GPT，或者就拿比如说文心，或者就拿number two搞一个对吧？我感觉上好像你给他设置一些用户肖像，然后设置一些custom instructions，好像他也可以模拟，也可以。讲的很有感情，就很多人批评ChatGPT没感情，但实际上你让他有感情，他也是可以有感情的对，是不是？也能做出来，只是成本高一点而已，不像mini max或者什么零星，他们是单独做情感项目，好像用ChatGPT拉马也能调出来。
-</p>
-<p class="transcript-line">
-<span class="time"><strong>[00:35:13]</strong> </span>
-<span class="speaker"><strong>发言人1: </strong></span>
-是的，我觉得这个事情确实可能要更深的从技术层面来考量。我简单说一些基础的理解。这里面其实他他挺有意思的，就是我最近在研究蒙的就是月之暗面、杨紫琳他们。
-</p>
-<p class="transcript-line">
-<span class="time"><strong>[00:35:30]</strong> </span>
-<span class="speaker"><strong>发言人2: </strong></span>
-他就据说他们的long context很强。对的，都是好评。
-</p>
-<p class="transcript-line">
-<span class="time"><strong>[00:35:35]</strong> </span>
-<span class="speaker"><strong>发言人1: </strong></span>
-对，就他现在的逻辑就是说我直接干个200K200K他能替代什么呢？他其实想替代的是原来很多企业想上大模型的时候，他们会基于。比如说你你你在GPT3.5某个版本，我去做一个find to对吧？我把我原有知识库全部给嵌进去，这是一种逻辑。但是这种逻辑它会带来一个问题是说，一旦ChatGPT它升级了一个版本，你是跟还是不跟？如果你要跟，那你翻译又得重新做。所以他就说OK，我的第一性原理就是我直接上长文本，我干了200K500K对吧？甚至一兆。那这个长度你就可以把所有的，就像你刚刚说的，用pro把所有东西给框住。
-</p>
-<p class="transcript-line">
-<span class="time"><strong>[00:36:20]</strong> </span>
-<span class="speaker"><strong>发言人1: </strong></span>
-所以就是说这个事情是不是OK的，我当然我觉得这是一个其实一个挺强的争议点。但我在当前这个节点我来理解，就是我我如果说我抛开特别技术范儿的这种角度来想，我觉得这个事情不OK这个事情不OK的。它的差别点可能出现在几个点。第一个其实你prom即使是你给他很多的示例，它只是给大模型本身提供了few shot，对吧？提供了若干个样本，让大模型按照这个方向去去学习。但是我其实在看GPT3到4的这种论文的时候，我发现few shot它能提高一些这种内容生成的关联性。但他提高或者说他他这个命中率，他并不是说马上能够升到特别高，就是few shot或者是never。
-</p>
-<p class="transcript-line">
-<span class="time"><strong>[00:37:16]</strong> </span>
-<span class="speaker"><strong>发言人1: </strong></span>
-他只是说这个大模型放话之后，他的命中率会更高一点。就是你你的朋友们写的好的话，你给他实力更多的话，他能参照这个角度去模拟。这个普罗姆它的一个最大问题是说，它没有办法给模型很强或者是很直接的一个负反馈。我告诉你，你不能这么回答。
-</p>
-<p class="transcript-line">
-<span class="time"><strong>[00:37:37]</strong> </span>
-<span class="speaker"><strong>发言人2: </strong></span>
-那你的意思就是说如果要做情感上的，可能还是要自己搞吗？还是不能基于一个通用的大模型来搞？
-</p>
-<p class="transcript-line">
-<span class="time"><strong>[00:37:47]</strong> </span>
-<span class="speaker"><strong>发言人1: </strong></span>
-这个看你你对质量要求到什么程度。
-</p>
-<p class="transcript-line">
-<span class="time"><strong>[00:37:49]</strong> </span>
-<span class="speaker"><strong>发言人2: </strong></span>
-做到新野那个程度。
-</p>
-<p class="transcript-line">
-<span class="time"><strong>[00:37:52]</strong> </span>
-<span class="speaker"><strong>发言人1: </strong></span>
-我我觉得可能不行我觉得可能不行。当然这个事情我也是听了，比如说一些像人工智能他们的这些分享，他们认为这个事情不太能跑得通。如果只用po m来做的话，不太能跑得通。因为你特别是这种角色，他自己保持这个性格，行为这件事情是很难用plan把它给完全给框住的对。
-</p>
-<p class="transcript-line">
-<span class="time"><strong>[00:38:16]</strong> </span>
-<span class="speaker"><strong>发言人2: </strong></span>
-我也跟林星连过一次麦，但是也是很困惑他们。因为我觉得我如果我想做一个，比如说我想做一个另外一个版本的星爷，我是一定不敢用微信。因为我会觉得说我万一做成了，你们肯定也要做，对吧？就觉得说我也不敢用它的，因为他们现在的这种垂直模型也在找出路，也在找应用场景，就是觉得尴尬，相互怀疑。
-</p>
-<p class="transcript-line">
-<span class="time"><strong>[00:38:44]</strong> </span>
-<span class="speaker"><strong>发言人1: </strong></span>
-对他也讲过这个问题，就是说你既当裁判又当选手。然后另外一点，其实现在对于很多的产品来讲，基本都是接多个API.
-</p>
-<p class="transcript-line">
-<span class="time"><strong>[00:38:54]</strong> </span>
-<span class="speaker"><strong>发言人2: </strong></span>
-我们也是这样，因为有些有贵。有些聪明的就是干聪明的事儿，有些傻的就干傻的事儿，拼起来用呗。然后还有一个问题，就是很多的应用其实他想的并不是说我要做情感陪伴，但是他想的是说在他的实际业务场景当中，增强他的agent搞关系的能力。
-</p>
-<p class="transcript-line">
-<span class="time"><strong>[00:39:15]</strong> </span>
-<span class="speaker"><strong>发言人2: </strong></span>
-就有点像我们，比如说你说一个陪聊小姐姐，她是专门做情感陪伴的。但是很多的销售他其实他的目的是卖东西，但是他很希望说跟你就是，嘘寒问暖，黄叔最近怎么样什么对吧？就是想第一跟你聊得下去，第二时不时可以跟你聊会儿。然后他其实是希望说你们可以建立一个关系，只是这个关系其实是for另外的目的的。比如说他是销售，比如说他是老师，他也希望说学生更喜欢他，这其实也是关系建立对吧？但他跟那边就不太一样。那你觉得说这些专门用来搞情感搞关系、搞陪伴的这些产品设计上有没有什么？这边其实他不是干这个的，但是他需要建立关系，他可以从这边偷什么样的认知过来，用用在用在另一头。
-</p>
-<p class="transcript-line">
-<span class="time"><strong>[00:40:06]</strong> </span>
-<span class="speaker"><strong>发言人1: </strong></span>
-因为我自己也算是做埃批吧。做IP里面其实很重要的一个商业变现的点是大家要都要做私域。那私域其实我也请教过一些，就是他可能他不靠公域导流，它可能靠很少的私域能够挣很多钱的这帮人。我发现他们其实一个很大的一个理解，就包括微商，包括这种知识付费的人，他们其实有很大的点是说我要让对方感觉我是他的朋友。他其实先把肯定是先把这个信任给打下来。现在打下来之后，在不断的给你就是用各种方式让你去去买他的东西。他可能就发个朋友圈，也不直接给你强硬推销。但他所有这些东西，他他很核心一点就是信任，对吧？
-</p>
-<p class="transcript-line">
-<span class="time"><strong>[00:40:53]</strong> </span>
-<span class="speaker"><strong>发言人1: </strong></span>
-我们做IP其实也是不光是干货，也就是说你能不能信我信任是一个很重要的点。那现在这为什么它是一个很重要的点呢？我其实在在研究了这些产品之后，我发现一旦你用户对于角色他有一个很强的这种情感依赖之后，它的粘性是极高的。这个极高有没有可能迁移到你的产品上面，这是有可能的。我们原来在得到的时候，我们看过一个数据，就假如说一个用户在得到上面付费了43次，非常具体的数字，因为它是一个曲线。一旦你付费到43次之后，它的次日留存，你猜一个数字大概可能会到多少？
-</p>
-<p class="transcript-line">
-<span class="time"><strong>[00:41:37]</strong> </span>
-<span class="speaker"><strong>发言人2: </strong></span>
-次日留存95%.
-</p>
-<p class="transcript-line">
-<span class="time"><strong>[00:41:39]</strong> </span>
-<span class="speaker"><strong>发言人1: </strong></span>
-99.5。
-</p>
-<p class="transcript-line">
-<span class="time"><strong>[00:41:42]</strong> </span>
-<span class="speaker"><strong>发言人2: </strong></span>
-行。
-</p>
-<p class="transcript-line">
-<span class="time"><strong>[00:41:44]</strong> </span>
-<span class="speaker"><strong>发言人1: </strong></span>
-就是非常夸张，他基本不会再跑了，他会每天都来。我们也分析过这个事情到底为什么？因为他付费次数多，其代表着他对于你平台产出的内容的高度信任，他会完全认可你平台。就是你只要一出我觉得你挠到我的眼睛了，我肯定就直接掏钱。所以他其实是就对对对得到这个平台，它产生了非常强的信任。这种信任的关系，它其实对于你做任何事情，你都是更加轻松和容易的。
-</p>
-<p class="transcript-line">
-<span class="time"><strong>[00:42:15]</strong> </span>
-<span class="speaker"><strong>发言人1: </strong></span>
-我们其实现在你看这种AI类型的产品，它就可能有两类，一种是说虚拟助手类的，另外一类就是情感陪伴类的那他们是不是完全的中间要切一刀，对吧？我们肯定会觉得他不是，那这里面怎么样把那些东西给引用过来，所以在里面我个人认为说你一旦获得了用户的这种情感，它的价值会极大的放大。所以在AI时代，你在很多点上你要去想你怎么用获得用户的这种情感投射。你只要获得了，你可认为你的质量不掉的情况下，你肯定能守得住你的三头。你即使到现在你再去看mini max，它的go这个已经下架了他妈了半年的产品，绝对所有人都说里面的角色就是他的白月光。
-</p>
-<p class="transcript-line">
-<span class="time"><strong>[00:43:06]</strong> </span>
-<span class="speaker"><strong>发言人2: </strong></span>
-是所以也是可以借鉴和学习这边，但大家看看怎么融合，或者说其实可能两边都在学传统的心理学。比如说学你刚刚说的，比如说学思域，学微商，其实人性是共通的，可能反过来都要学这个东西。然后再问几个细节的小问题，就是我看到你的那个文章里面也有一些那种截图的话，其实有一点点黄报。有什么你抽出绳子，什么你只要乖乖听话，我就不会伤害你我就在想这种东西可以过审吗？他不会就是哪句话讲到稍微过线一点，然后被一张截图，然后就会被拔网线吗？
-</p>
-<p class="transcript-line">
-<span class="time"><strong>[00:43:45]</strong> </span>
-<span class="speaker"><strong>发言人1: </strong></span>
-风险很大确实风险很大。就说这个事情它可能也分阶段，就是说对于NSFW这个事情到底是不是要一刀切，确实最近也有人在问我这个事情，我个人认为是其实在一开始的时候可能可以放的稍微松一点，你越往后一定是要越收紧的。不管是国内还是国外，因为走走这种开车路线，它其实特别是我在研究turkey的时候，我发现它整个产品对于这个调性的把控，它中间是有过一些很大的变化的。他可能在早期他甚至连宣传的时候都会非常的官方，都很直接对吧？就啪啪给你讲这一堆大胸妹，大家赶紧来。但到后面它其实会慢慢的收紧。
-</p>
-<p class="transcript-line">
-<span class="time"><strong>[00:44:31]</strong> </span>
-<span class="speaker"><strong>发言人1: </strong></span>
-我也发现在disco上面就很多人说你最近怎么回事？特别是在某个节点，你会发大量的用户在骂怎么回事？怎么不能聊了，不能开车了。包括我跟他们内部人聊，我也发现他们会知道说这个东西它在短期用户你一定能够大量的吸引这些用户。但这个东西不构成不构成长期的一个生态。就是我作为一个男性，我他妈不会天天开车，我开不起，我我身体受不了，所以这个事情它不是一个它不像情感陪伴这样是一种高频的，很很超年薪的这一种形态。
-</p>
-<p class="transcript-line">
-<span class="time"><strong>[00:45:10]</strong> </span>
-<span class="speaker"><strong>发言人1: </strong></span>
-所以就是你你一开始的时候合规可能放宽点，因为确实你应该想想先起来，先起点量，以及说你小的时候其实没有太多人会关注你，但是你一旦起量了，那这个事情是很危险，的确实在国内很危险。对，我们也不猜测说阁楼W怎么下的。但现在对于很多用户来讲，他们就会说，你做梦到别直播，你为啥直播？直播之后你知道原来阁楼怎么怎么挂的吗？他们就不希望说我们我们这些重度用户，我们天天在上面玩就行了，你别再去搞东搞西的，让更多人知道回头你这一卦我们去哪玩。对老用户他就会有这种。
-</p>
-<p class="transcript-line">
-<span class="time"><strong>[00:45:53]</strong> </span>
-<span class="speaker"><strong>发言人2: </strong></span>
-所以nothing for work不一定是件好事。虽然听起来好像是个强刚需一点，但是可能用户价值并不高，然后也并不长久，反倒不能当做一个生意来做，除非干脆就去做做做网站。还有一个问题，就是因为它里面其实感觉到用户其实他在享受一个综合性的一个体验。这个体验里面比如说可能关系到IP这个人设，是霸总还是雷电将军，也关系到有一些比如说像星野、逐梦岛都是带剧情的，就比如说他是什么三生三世，什么是展示修仙，然后也有那个人他说话要有EQ和IQ，他说话不能太傻吗？
-</p>
-<p class="transcript-line">
-<span class="time"><strong>[00:46:37]</strong> </span>
-<span class="speaker"><strong>发言人2: </strong></span>
-有些人我看到也在抱怨说最近实在老崩，那个太蠢了。还有一些就是说记性好不好，我上我前上周跟他讲的事儿，他还记不记得对吧？这事儿很重要，反正还有各各种各方各面。有些还有你刚刚讲的，比如说像像恋与的制作人的话，他们就还会有漂亮的BGM，漂亮的图这些东西。你会觉得什么东西是比较重要的，什么东西其实只是锦上添花。到底是啥呢？还是说他们必须要构成一个整体。
-</p>
-<p class="transcript-line">
-<span class="time"><strong>[00:47:08]</strong> </span>
-<span class="speaker"><strong>发言人1: </strong></span>
-这是一个好问题。我目前的理解的话，我可能会倾向于只要能够让用户有情感连接的设计都是重要的因素。回看其实我在文章里面我也讲了，就是用户在reddit的上面的投诉，没有任何人在讲IP，没有在讲记忆，当然会有这样的帖子，我说他绝对不是高赞贴，对吧？
-</p>
-<p class="transcript-line">
-<span class="time"><strong>[00:47:35]</strong> </span>
-<span class="speaker"><strong>发言人1: </strong></span>
-高赞一定意味着说大家用户这种反馈是共性的，里面投诉最多的就三点。第一个是我操你服务器挂了，老是玩不了。第二之后挂了之后你恢复了，我上去我操我聊天记录没了。对，这里面其实可以延伸出来说，他的聊天记录其实是用户留在产品或者平台上的资产，这个资产就包含了他的情感要素。对，所以就这个丢了他是很很伤心的，很烦的。
-</p>
-<p class="transcript-line">
-<span class="time"><strong>[00:48:04]</strong> </span>
-<span class="speaker"><strong>发言人1: </strong></span>
-然后第三个点是说需要排队，我想见这个，我想跟角色聊，你像你像让我要等1个小时。所以你看如果你从这个角度去观察用户，你会发现这些重度用户他其实构成了一个很强的连接。这个连接的背后是他的情感。所以他其实某种程度上它无关于记忆无关于记忆。而是说我个人认为在钢琴阶段，如果非要讲一个比较重要的点，它一定是你怎么让他快速平滑的跟角色去建立这种情感连接，这一点是很有价值的那如果围绕这一点，我觉得在产品设计上，为什么我下一步会研究游戏化？因为游戏化它天然的就是让你能够有很强的沉浸感，对吧？
-</p>
-<p class="transcript-line">
-<span class="time"><strong>[00:48:52]</strong> </span>
-<span class="speaker"><strong>发言人1: </strong></span>
-完蛋，它其实就是一个很典型的氛围。这个团队他原来是做这种VR的，但是现在他是放在这屏幕上面，然后让你用第一视角，就是这种美女就直接跟你对话，那个感觉跟我用pickle用VR看啊看直播非常的像。因为这些美女她都会用这种方式，就比如说拉着你的领带，跟你来完成一些交互，那种感觉就很像。如果你看过pico的话，你会发现很多直播间他们会有大量这种行为设计来完成跟用户的这互动。所以这种感觉，这种沉浸感是能让人很快的进入到剧情里面。
-</p>
-<p class="transcript-line">
-<span class="time"><strong>[00:49:36]</strong> </span>
-<span class="speaker"><strong>发言人1: </strong></span>
-你包括其实在玩这个游戏里面，他们讲过一个很重要的设计，是很多人吐槽这个男主角太弱了。但是这个恰恰是很重要的对吧？如果这个男主角他很有特性会很强，其实我们这些屌丝是很难带入的。或者我们讲的更更那个一点，其实我在屁股上面我也下过日本的一些动作片，就是很大很N个G的这种动作片。放到pico里面去看。他那个角度其实就是男主角最多露出腿，他绝对不会说放这个男主的，然后女生就是跟这个就完成这种交互。所以他这个沉浸感我觉得是一个极其重要的点。
-</p>
-<p class="transcript-line">
-<span class="time"><strong>[00:50:16]</strong> </span>
-<span class="speaker"><strong>发言人1: </strong></span>
-所以在产品设计上面，你怎么样在模型能力之外构建这个沉浸感，让用户快速的跟角色建立情感连接。在我目前的理解上来讲，我觉得这一点的产品设计是非常重要的。它可能会超包括我们所谓的记忆，所谓的智能化。当然就是构成这种情感连接，它肯定是多要素。但我如果非要讲个重要性的话，我觉得还是快速让用沉浸感，让用户建立情感连接。
-</p>
-<p class="transcript-line">
-<span class="time"><strong>[00:50:43]</strong> </span>
-<span class="speaker"><strong>发言人2: </strong></span>
-这个是最核心的。OK沉浸感的话其实它也有各种各样多模态其实对于创造沉浸感和创造真实体验的感觉就会好很多。我之前也用过一些说话类型的，然后后来我就觉得那种AI gl friend什么的没有意义。但是当我第一次用colony，那已经是好久以前。然后他的眼睛直勾勾的看着你的时候，你就感觉又不一样。后来又用了一些软件，它里面就纯声音的，但是它的那个声音会湿哒哒黏糊糊的，就是故意的那那种声音。然后你一下子那个感受又不一样，所以确实它是可以通过多模态来创造沉浸感的。我们这个播客的主理人，他刚好也有问题想要请教你我先把他也拉上来。你的文章里面还介绍过他们公司的产品，他是孙芳的同事，然后他在做那个，也是我们这个播客的主理人，他在做AI大藏经，然后他在做什么拆麦的，刚刚说来来来来来，你要问啥来？
-</p>
-<p class="transcript-line">
-<span class="time"><strong>[00:51:45]</strong> </span>
-<span class="speaker"><strong>发言人3: </strong></span>
-Hello, 黄叔好，也一直关注您的这个内容，很开心这次可以一起聊聊。然后刚一直在听，很有启发。我我也我也有一个小的问题，因为最近发现了一个很有趣的小的产品。有一个程序员同学，他最近在用一个产品，当然可能不是AI产品，但是我觉得这是一个需求。它是一个海外的产品，两个人可以在这个产品上面匹配。比如说我我我现在在打代码，但是我想要有个人跟我一起工作，然后这个他他就对，真的会还不便宜。对，然后就找一个人，就此刻在线的一个match一个人，然后两个人就一起打代码，可能也不不怎么说话。对，然后他就跟我聊起来说，其实这种就是一方面你既在工作，然后另外一方面其实也有这种陪伴的这种需求。
-</p>
-<p class="transcript-line">
-<span class="time"><strong>[00:52:33]</strong> </span>
-<span class="speaker"><strong>发言人3: </strong></span>
-然后我刚刚就在想两位刚刚聊到很多就是跟情感相关的。我在想说现在是不是在这个时间下，是不是还有另外一种可能是说又有一定的这种情感需求，然后他又是能够消耗帮助生产力的。因为多稍微介绍一下，就是我在XY负责AI方面的业务，其实我们也在往两个方向走。一个是这个生产工具，就不管是XY扣坏了还是这样AI思维导图。然后另外一个方面像AI大藏经，其实它也是往另外一个在走。所以我在想是不是这两个的结合也是有可能，也想请教一下杨老师。
-</p>
-<p class="transcript-line">
-<span class="time"><strong>[00:53:09]</strong> </span>
-<span class="speaker"><strong>发言人1: </strong></span>
-对对对，肯定有可能。但你们实践获得的经验，我觉得是更有价值的。包括我其实在分享很多产品的时候，我的出发点是用户他到底是一个什么样的人，他有什么样的需求，当前他用什么方式去满足。在AI时代，我们可能用这些大模型的能力，用什么更好的方式来满足他们。只要你的出发点是对的，你确实发现了用户的某一些共性需求，那你确实就可以用AI更好的来解决这个需求。
-</p>
-<p class="transcript-line">
-<span class="time"><strong>[00:53:46]</strong> </span>
-<span class="speaker"><strong>发言人1: </strong></span>
-所以像你刚刚说的这种一起去编代码的，其实你如果需要去看B站，就有很多的直播间就一起在学习，这个是一个很强的对，很强的这么一个场景。只要他是学习工作，他一定也有有人在一起，那他就构成一种环境。这种环境会让人更好的沉浸在当下，它某种程度上也是一种沉浸感的打造，我觉得他肯定是OK的，你甚至说你的屏幕上面就有一个虚拟的形象，它它可能就是甚至说你上面开着摄像头，它就能够看到你当时的表情。你看可能看你眼睛有点眯了？要不要休息一下，喝杯咖啡，你这种对你的这种感受体验也很好，甚至他可以开始监控你屏幕，还是说你现在我们要不要设定一个番茄时钟？接下来30分钟我们把某个事情干了，然后你没干你去聊天去了，他可能他就会提醒你。对我觉得这种肯定就你说的三号就是提高生产力对吧？提高人的效率，用某种AI更好的手段来满足，我觉得这个是可以的。
-</p>
-<p class="transcript-line">
-<span class="time"><strong>[00:54:53]</strong> </span>
-<span class="speaker"><strong>发言人2: </strong></span>
-对我我这边补充一个就是严格之前有过这款产品，我刚刚搜了一下没搜到。我早两天还跟那个创始人刚聊过，对他不是做这种搭子，他是做自习室搭子。自习搭子就相当于有八个人可以都一起在一个屏幕上，大家都各自在自习。对，然后就相当于空中虚拟自习室，然后看到别人在学习，那个学习氛围会感召你。
-</p>
-<p class="transcript-line">
-<span class="time"><strong>[00:55:19]</strong> </span>
-<span class="speaker"><strong>发言人2: </strong></span>
-但是最后他们当时的问题主要是卡在直播的流量成本太贵了。像腾讯什么，他们补贴的起的创业公司还是补贴不太起。当时我印象中好像一个人一个直播大概0.81元小时八毛钱还是多少。这其实你想想一个字就还挺贵的。因为用户不太愿意出钱的，出钱还是很少的。
-</p>
-<p class="transcript-line">
-<span class="time"><strong>[00:55:40]</strong> </span>
-<span class="speaker"><strong>发言人2: </strong></span>
-所以一个是这个，另外一个的话，我们最近正在跟一个教育机构合作，有一些这方面的还是idea阶段还没有开发，在大家共学的这个场景，比如说现在大家一起在听那个那个水果黄，在说怎么做AI的情感产品，那大家听其实就是单维度在听。如果直播间现在有比如说有一个资深产品经理，有一个产品小白，有一个传统企业的，还有一个专门做社交的，还一个什么有五个画像的AI他们分别听了他刚刚那句话，然后说我学到了什么，我打算回去怎么用，以及我觉得哪句话说的不对，这个东西不是这样的。然后这五个人在下面叽叽喳喳身上，你就会觉得很有氛围是吧？而且会相当于他会把super黄，比如说讲的一个对于character点AI的一个认知，变成说我看到的一个跟我类似画像的人他的习得，因为说和你听到什么是不太一样的，就相当于别人有点像实时分享笔记，那下面就开始热火朝天。所以我们也在帮他们设计的一个这样的一个方向，但是最后没有还没有决定要不要做。
-</p>
-<p class="transcript-line">
-<span class="time"><strong>[00:56:57]</strong> </span>
-<span class="speaker"><strong>发言人2: </strong></span>
-因为设计的方向有茫茫多个，我们我们一我们理了二三十个可以做的小东西，然后说我们最后只做两个。对，但是你如果要看的话，到时候可以跟你聊一下，有有这么奇奇怪怪的设计角度。对，都是可以做的对。
-</p>
-<p class="transcript-line">
-<span class="time"><strong>[00:57:14]</strong> </span>
-<span class="speaker"><strong>发言人3: </strong></span>
-是这个很有启发。因为我们最近也在想这个关键的两个人群，一个是教育类，一个是咨询类。然后其实在具体的场景里面，这个给我的启发就是比如说咨询类的。然后他可能也可以针对不同的这种角色，针对同一个问题。就比如说我的chat里面，它可能就是这种方式来进行这种互动，而不是一个通用的这种方式来进行互动。
-</p>
-<p class="transcript-line">
-<span class="time"><strong>[00:57:39]</strong> </span>
-<span class="speaker"><strong>发言人2: </strong></span>
-对，所以都可以有有变化。
-</p>
-<p class="transcript-line">
-<span class="time"><strong>[00:57:42]</strong> </span>
-<span class="speaker"><strong>发言人1: </strong></span>
-对我我觉得我觉得其实很多线上的方案跟线下实际的场景都是有关联的。你比如说你去思考agent的时候，你想一想你需要agent的，你现实生活中需要这些agent来干嘛？比如说中介在干嘛，你找黄牛是能能干嘛。对，想一想他其实很多是他能够投射过来的。
-</p>
-<p class="transcript-line">
-<span class="time"><strong>[00:58:02]</strong> </span>
-<span class="speaker"><strong>发言人1: </strong></span>
-你包括你刚才讲的这种沉浸感，我线下我现在就一个人在家里面，别人可能效率更高，是说晚上人少，但是周边有一个一大片工位对吧？在这种场景可能大家的沉浸感更强，所以它就会产生出线下自己死这么一种场景，对吧？我原来也在，我也待过蛮长一段时间，我发现这个感觉确实不一样，一堆人跟你一起在学习的感觉。现在的方案可能是说线上用用这种直播的形态，不管是腾讯会议还是B站直播，对吧？很多人用各种形态来满足自己需求，它其实都是已经被验证的一些场景。无非是说我们在AI时代用什么手段更好的解决。
-</p>
-<p class="transcript-line">
-<span class="time"><strong>[00:58:45]</strong> </span>
-<span class="speaker"><strong>发言人2: </strong></span>
-是所以最好的情况就是找到已经被验证的老需求，用最新的科技去解决不发明需求。好，今天非常感谢孙鹏华，谢谢大家。欢迎大家关注那个水火簧的账号，然后欢迎我关注我们的账号。反正关注一切地方去搜这两个名字就完了，然后总会搜得到的。OK欢迎大家关注，我们会时不时聊各种天儿，然后聊聊AI，聊聊怎么做商业，怎么做产品。好，再次感谢，谢谢。我们今天就聊到这里，谢谢拜拜拜拜拜拜。
-</p>
-<p class="transcript-line">
-<span class="time"><strong>[00:59:22]</strong> </span>
-<span class="speaker"><strong>发言人1: </strong></span>
-谢谢拜拜。
-</p>]]></content:encoded>
-            <pubDate>Thu, 21 Dec 2023 06:18:30 GMT</pubDate>
-            <guid>6583deb646b817e448f2604c</guid>
         </item>
     </channel>
 </rss>
