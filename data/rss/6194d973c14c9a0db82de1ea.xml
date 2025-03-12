@@ -4,7 +4,909 @@
         <title>代码之外 Beyond Code</title>
         <link>https://www.xiaoyuzhoufm.com/podcast/6194d973c14c9a0db82de1ea</link>
         <description>程序员闲聊播客</description>
-        <lastBuildDate>Thu, 27 Feb 2025 17:50:57 +0800</lastBuildDate>
+        <lastBuildDate>Wed, 12 Mar 2025 17:45:04 +0800</lastBuildDate>
+        <item>
+            <title>听众来信 #18 办公室恋情，界限与选择，追还是不追？</title>
+            <link>https://www.xiaoyuzhoufm.com/episode/67cfc62de924d4525ac67c0e</link>
+            <description>来自 听众的来信：
+「想聊聊對於職場愛情的看法
+小故事分享
+2019年，座標台灣，本身是一名資歷一年的前端工程師，因為公司業務擴張的緣故，意外成為前端主管，公司人數大概二十人。
+由於我們公司默默無名招人不易，各組主管得親自上人力網站挑選合適的人才，寄信詢問是否有意願參與面試。
+想到公司都是男生，大家平常閒聊時，常說希望可以招到女同事，詢問老闆是不是可以接受招女工程師，即使能力差一點點，大家平常多照顧一下，讓女同事有辦法交付工作，老闆說可以。 所以我就寄出大約四十個面試意願邀請給人力網站上的女工程師們，後來只有兩個女生回覆同意面試，她們本身沒有相關工作經驗，只有在求學時期寫過一些Vue，還需要多一些實戰經驗才有辦法應付工作。
+在面試的時候，其中一位女工程師一走進辦公室，香味直接撲鼻而來，即使我與她隔了一張桌子的距離，味道還是聞香而來，真是有點難冷靜好好面試。 面試過後，她給我的印象是相對比較好的，所以當下就決定要把她招進來，後來兩位女工程師都招進公司。
+因為另一名女同事比較年輕，加上是嬌小可愛型的，所以男同事們就說他們要一起帶她，就把味道很香年紀稍長的女同事交給我帶。
+相處兩個月後，就漸漸得喜歡上她，但心裡不曉得為什麼就一直覺得職場歸職場，尤其我跟她又是主管跟組員的關係，所以頂多就是單獨出去吃過一次飯而已。 半年多後，我主動提離職，她也在一個多月後和後來的主管合不來而離開公司。
+幾年過後，回想當時，如果我不是主管，我想我會主動追求她，但如果我依然是主管，就會做出跟當初一樣的決定，選擇保持距離。
+--
+提問
+你們會跟女同事發展戀情嗎？
+狀況 1. 新加入的女同事，同崗位的女工程師，你們同一組 狀況 2. 你是主管，她是你招進來的組員」
+主播：Randy, GeekPlux, 勾股
+---
+代码之外 Beyond Code 是一档由 GeekPlux 和 Randy 共同主持的程序员闲聊播客节目。节目地址：bento.me 我们的节目同时会发布视频版，在 YouTube 和 Bilibili 搜索「代码之外」都能找到我们。
+欢迎在 forms.office.com 向我们来信，我们会在下一期节目分享你的来信或解答你的疑惑。
+也欢迎在爱发电 afdian.net 赞助我们。也欢迎赞助商联系我们商业合作。
+---
+金牌赞助商 / Golden Sponsor
+感谢 Relingo 赞助本期节目。Relingo 是一款借助 AI 来帮助你轻松扩大词汇量的工具。它提供了很多功能，比如网页查词、高亮显示、沉浸式翻译、PDF 文档翻译、以及 YouTube、Netflix 等多个视频网站的实时字幕翻译。让你在不影响阅读及观看体验的同时就能巩固和扩大英语词汇量。在 Relingo 官网输入优惠码 BEYONDCODE 下单可以享受 7 折优惠！
+* Relingo 官网链接：relingo.net
+* 7 折优惠码：BEYONDCODE
+金牌赞助商 / Golden Sponsor
+PaddingLeft 是主播 Randy 创立的创意工作者周边品牌。你可以在这里买到程序员贴纸和项链。我们每售出一张开源项目贴纸，会为该项目捐赠 1 元人民币。
+* 官方淘宝店：pdlft.taobao.com
+赞助商 / Sponsor
+* Notepal 一键同步微信读书笔记到 Notion, Readwise, Logseq, 思源笔记等笔记软件
+* EpubKit 把网页、博客、文档一键生成 ePub 电子书
+---
+时间线
+00:00 Intro
+02:30 读听众来信
+05:14 叠甲
+06:26 办公室恋情
+08:10 是不是接触女生的机会少
+09:51 主播们对办公室恋情的态度
+11:27 会和下属、老板、同组组员谈恋爱吗
+16:51 工作确实更容易建立战时友谊
+17:17 结论
+18:44 欢迎有职场恋爱经验的同学留言
+20:06 等一下，如果问题变成了要不要去追...
+21:12 GeekPlux 疯狂代入自己
+22:37 GeekPlux 疯狂代入自己 again
+24:18 不后悔的思维模型</description>
+            <content:encoded><![CDATA[<h1>转写链接</h1>
+<link>https://tongyi.aliyun.com/efficiency/doc/transcripts/pev8qdo3436xnkga</link><br>
+<h1>节目摘要</h1>
+<div class="summary">在这次讨论中，参与者深入探讨了职场恋情的多维度复杂性，包括跨组、与下属及老板发展关系的可能性。讨论触及个人情感、职业伦理、性别平等与职业发展等关键议题，强调处理职场恋情时需保持理智和界限。通过分享个人经历和鼓励观众互动，探讨了有效管理此类关系的策略，共同揭示了职场恋情的微妙与挑战。</div><br>
+<h1>章节速览</h1>
+<div class="chapters">
+<div class="chapter-item">
+<span class="time"><strong>[00:00:00]</strong> </span>
+<span class="chapter-title"><strong>职场恋情：主管与下属的界限</strong></span>
+<div class="chapter-summary">一位前端工程师在成为主管后，面临是否与新加入的女同事发展恋情的问题。他分享了自己在职场中遇到的挑战，包括与女同事相处的尴尬和对职场关系的顾虑。他还提到，如果自己不是主管，可能会主动追求她，但在主管与下属的关系中，他选择保持距离。最后，他询问听众和观众对于职场恋情的看法。同时，本期节目还介绍了瑞麟狗，一款通过AI帮助用户扩大词汇量的工具，并提供了优惠信息。</div>
+</div>
+<div class="chapter-item">
+<span class="time"><strong>[00:04:58]</strong> </span>
+<span class="chapter-title"><strong>办公室恋情：主管与直系下属应不应该谈恋爱</strong></span>
+<div class="chapter-summary">对话讨论了主管与直系下属谈恋爱的问题，提出这虽然在职场中是敏感话题，但许多人内心可能都有类似的问题或矛盾。来信者回顾自己过去的情况，表示如果自己不是主管可能会主动追求喜欢的人，但作为主管则会保持克制。讨论中也提到了性别平等和职场伦理的重要性，强调主管在处理个人情感时应保持理性和专业。</div>
+</div>
+<div class="chapter-item">
+<span class="time"><strong>[00:07:59]</strong> </span>
+<span class="chapter-title"><strong>办公室恋情的接受度和可能性探讨</strong></span>
+<div class="chapter-summary">对话围绕办公室恋情展开，讨论了在工作环境尤其是程序员圈子中，接触异性机会较少可能导致的纠结和困惑。参与者普遍表示能够接受办公室恋情，无论是发生在自己身上还是同组同事之间。同时，他们也提到了解决方案，如多与设计师等不同圈子的人交流，以增加接触异性的机会。最后，当被问及是否会与同组的女性同事谈恋爱时，大家均表示开放态度。</div>
+</div>
+<div class="chapter-item">
+<span class="time"><strong>[00:10:35]</strong> </span>
+<span class="chapter-title"><strong>职场恋情：缘分与避嫌</strong></span>
+<div class="chapter-summary">对话围绕职场恋情展开，讨论了公司政策、个人态度以及上下级之间的恋爱问题。参与者普遍认为，虽然缘分重要，但在职场尤其是上下级之间谈恋爱需要谨慎，应避免可能的尴尬和冲突，倾向于回避此类情况。</div>
+</div>
+<div class="chapter-item">
+<span class="time"><strong>[00:11:46]</strong> </span>
+<span class="chapter-title"><strong>避免职场恋情中的利益冲突与困扰</strong></span>
+<div class="chapter-summary">对话探讨了上司与下属之间发展恋情可能带来的利害关系重叠问题，指出这种关系容易引起不必要的困扰和麻烦，尤其是在职级晋升时，可能会让人怀疑公正性。此外，还提到在这种直接的利益关系下，难以确定对方的感情真实性，因此建议避免跨越这一步，以防职场关系的不对等引发问题。</div>
+</div>
+<div class="chapter-item">
+<span class="time"><strong>[00:13:52]</strong> </span>
+<span class="chapter-title"><strong>职场恋情：与直接上级和隔级上级的恋爱区别</strong></span>
+<div class="chapter-summary">对话探讨了在职场中与直接上级（manager）和隔级上级（skip manager）谈恋爱的区别。认为与skip manager谈恋爱可能涉及更多利益冲突，因此更复杂和严重。同时，讨论了在这种情况下，直接上级如何自处的问题，以及当VP成为恋爱对象时的不同态度。</div>
+</div>
+<div class="chapter-item">
+<span class="time"><strong>[00:15:15]</strong> </span>
+<span class="chapter-title"><strong>职场恋情的界限与影响</strong></span>
+<div class="chapter-summary">对话围绕职场恋情的界限和影响展开，讨论了与同事谈恋爱的不同情况，包括同组同事、有上下级关系的同事，以及不同部门的同事。参与者认为与八竿子打不着的部门同事谈恋爱影响较小，而与同组同事恋爱则可能需要在关系发展到一定阶段时，有一方退出该组以规避风险。此外，讨论还提到工作中容易培养出更进一步的关系，尤其是经过共同加班或共患难后，更容易产生感情。最后，对于主管与其招进来的组员之间的恋情，建议应避嫌。</div>
+</div>
+<div class="chapter-item">
+<span class="time"><strong>[00:17:29]</strong> </span>
+<span class="chapter-title"><strong>职场恋爱关系的处理与建议</strong></span>
+<div class="chapter-summary">对话围绕职场恋爱关系展开，讨论了如何在工作中处理恋爱关系的问题。提到了不同人可能有不同的处理方式，有些人可能处理得游刃有余，而对其他人则可能造成困扰。此外，也分享了具体的例子，比如一对恋爱中的情侣通过一方离职来解决职场恋情的问题，强调了处理此类问题需要根据各自的情况和家庭进行分析。最后，鼓励有类似经验的听众分享自己的处理方式，作为他人的参考。</div>
+</div>
+<div class="chapter-item">
+<span class="time"><strong>[00:19:55]</strong> </span>
+<span class="chapter-title"><strong>职场恋情：追与不追的纠结与抉择</strong></span>
+<div class="chapter-summary">对话围绕在职场环境中遇到喜欢的人是否应该追求的问题展开。讨论者认为，如果真的喜欢，应该勇敢去追，即使可能影响职场关系，因为找到真爱的机会比换工作更为难得和重要。他们强调，在追求过程中应保持真诚，避免给对方造成骚扰，同时考虑策略和职场环境，以温和的方式表达心意。最终，是否追求取决于个人是否会因此后悔，以及是否有能力接受可能的结果和变化。</div>
+</div>
+</div><br>
+<h1>问题回顾</h1>
+<div class="qa-item">
+<div class="question"><strong>Q:</strong> 那么关键的来了，现在扫描我们视频左侧的二维码或reino官网输入优惠码beyond code下单可以享受7折优惠。优惠码是什么？</div>
+<div class="answer"><strong>A:</strong> 优惠码是BEYONDCODE，即“代码之外”的英文名。</div>
+</div>
+<div class="qa-item">
+<div class="question"><strong>Q:</strong> 这封信主要想聊什么话题？</div>
+<div class="answer"><strong>A:</strong> 这封信主要想聊聊对于职场爱情的看法，并分享了一个关于前端工程师与女同事的故事。</div>
+</div>
+<div class="qa-item">
+<div class="question"><strong>Q:</strong> 来信中提到的情况是什么？</div>
+<div class="answer"><strong>A:</strong> 来信者在公司业务扩张时成为前端主管，因公司人数较少且招人不易，他们主动询问人力网站上的女工程师们是否愿意参加面试。其中一位女工程师在面试时给来信者留下了深刻印象，但考虑到职场伦理和他们的角色关系，来信者没有进一步发展恋情。</div>
+</div>
+<div class="qa-item">
+<div class="question"><strong>Q:</strong> 对于职场恋情，特别是主管与直系下属之间的恋情，你们怎么看？</div>
+<div class="answer"><strong>A:</strong> 我们先不表明立场，赞同来信者提出这个问题并给予肯定。讨论职场恋情是非常重要的，尤其是在存在诸如男女匹配机会较少等背景情况下，这种问题更具现实意义。同时，来信者表现出对这一问题的克制和理性思考，这也是很了不起的品质。</div>
+</div>
+<div class="qa-item">
+<div class="question"><strong>Q:</strong> 针对来信者的困惑，你们有什么看法或建议吗？</div>
+<div class="answer"><strong>A:</strong> 来信者纠结的原因可能在于其工作环境和生活环境接触女生的机会较少，这使得他在面对职场恋情时陷入左右为难的境地。建议多接触不同行业的人群，比如设计师，以增加更多机会。</div>
+</div>
+<div class="qa-item">
+<div class="question"><strong>Q:</strong> 你们能接受办公室恋情吗？</div>
+<div class="answer"><strong>A:</strong> 我个人是能接受的。</div>
+</div>
+<div class="qa-item">
+<div class="question"><strong>Q:</strong> 如果同组的同事跟其他同事谈恋爱，你会怎么看待？</div>
+<div class="answer"><strong>A:</strong> 我觉得无所谓的。</div>
+</div>
+<div class="qa-item">
+<div class="question"><strong>Q:</strong> 你会跟同组的女生谈恋爱吗？</div>
+<div class="answer"><strong>A:</strong> 看缘分，如果公司没有明令禁止且彼此看对眼了，可以接受。</div>
+</div>
+<div class="qa-item">
+<div class="question"><strong>Q:</strong> 你是否愿意与下属谈恋爱？</div>
+<div class="answer"><strong>A:</strong> 我不会。</div>
+</div>
+<div class="qa-item">
+<div class="question"><strong>Q:</strong> 你会跟你的老板（上司）谈恋爱吗？</div>
+<div class="answer"><strong>A:</strong> 我觉得作为上司和下属去谈是不同的，但由于存在双重关系，可能会带来不必要的困扰和麻烦，所以我的立场是避免这种关系。</div>
+</div>
+<div class="qa-item">
+<div class="question"><strong>Q:</strong> 如果跟skip manager（上级的上级）谈恋爱，和跟manager谈恋爱有何区别？</div>
+<div class="answer"><strong>A:</strong> 区别更大，与skip manager谈恋爱更严重，因为它涉及到两层利益关系。</div>
+</div>
+<div class="qa-item">
+<div class="question"><strong>Q:</strong> 如果跟VP（高级副总裁）谈恋爱，你会如何处理？</div>
+<div class="answer"><strong>A:</strong> 与偶像剧中的霸道总裁不同，现实情况中与VP谈恋爱则较为少见且复杂。</div>
+</div>
+<div class="qa-item">
+<div class="question"><strong>Q:</strong> 对于不同组的同事恋爱，你们怎么看？</div>
+<div class="answer"><strong>A:</strong> 如果是跟同等级别的同事恋爱，可能也就看缘分；如果是上级招进来的组员，则应避嫌。</div>
+</div>
+<div class="qa-item">
+<div class="question"><strong>Q:</strong> 在职场恋爱中，是否有人能处理得游刃有余？</div>
+<div class="answer"><strong>A:</strong> 是的，世界上大约有10%的人在处理职场恋爱关系时能够应对自如，不会让这个问题影响到他们的生活和工作。</div>
+</div>
+<div class="qa-item">
+<div class="question"><strong>Q:</strong> 对于职场恋爱中的道德判断，应该如何看待？</div>
+<div class="answer"><strong>A:</strong> 每个人的情况和家庭不同，需要各自分析。重要的是，在处理职场恋爱问题时要进行自我审查，并结合实际情况做出合适的选择。</div>
+</div>
+<div class="qa-item">
+<div class="question"><strong>Q:</strong> 如果听众朋友遇到职场恋爱问题，是否应该去追喜欢的人？</div>
+<div class="answer"><strong>A:</strong> 如果遇到喜欢的人，我的回答是肯定要去追。即使在纠结是否要追求的关系中，也建议去追，因为碰到喜欢的人是难得的机会，追不到再想办法。</div>
+</div>
+<div class="qa-item">
+<div class="question"><strong>Q:</strong> 如果追到了对方，应该如何处理职场关系的变化？</div>
+<div class="answer"><strong>A:</strong> 追到之后再考虑是否建立关系，并根据情况做出相应的权衡。在此之前，做好心理准备并讲究追求策略，避免对对方造成不适或骚扰，展示真诚并维持良好的职场关系。</div>
+</div>
+<div class="qa-item">
+<div class="question"><strong>Q:</strong> 在追求过程中，如何权衡工作与感情的关系？</div>
+<div class="answer"><strong>A:</strong> 在找真爱面前，工作并非最重要的，但如果追求方式得当且不影响他人，可以尝试追求。即使失败，也几乎没有什么损失，成功了则可以再考虑其他问题。</div>
+</div>
+<div class="qa-item">
+<div class="question"><strong>Q:</strong> 如何在不后悔的前提下进行决定？</div>
+<div class="answer"><strong>A:</strong> 以不后悔为原则来思考问题，如果将来可能会后悔某个决定，那么现在就应该采取行动。追求喜欢的人时，要做好分析和规划，确保不会对自身造成太大影响。</div>
+</div>
+<h1>节目文稿</h1>
+<p class="transcript-line">
+<span class="time"><strong>[00:00:00]</strong> </span>
+<span class="speaker"><strong>发言人1: </strong></span>
+既然人家就这么大胆问了，咱们也大胆回答。
+</p>
+<p class="transcript-line">
+<span class="time"><strong>[00:00:03]</strong> </span>
+<span class="speaker"><strong>发言人2: </strong></span>
+你们能接受有办公室恋情吗？你们会跟同组的女生谈恋爱吗？你会跟下属谈恋爱吗？
+</p>
+<p class="transcript-line">
+<span class="time"><strong>[00:00:11]</strong> </span>
+<span class="speaker"><strong>发言人3: </strong></span>
+那你会跟你的老板吗？假设。
+</p>
+<p class="transcript-line">
+<span class="time"><strong>[00:00:15]</strong> </span>
+<span class="speaker"><strong>发言人4: </strong></span>
+呃。欢迎收听代码之外听众来信栏目。我是Randy.
+</p>
+<p class="transcript-line">
+<span class="time"><strong>[00:00:23]</strong> </span>
+<span class="speaker"><strong>发言人2: </strong></span>
+我是gig plus。
+</p>
+<p class="transcript-line">
+<span class="time"><strong>[00:00:30]</strong> </span>
+<span class="speaker"><strong>发言人2: </strong></span>
+感谢瑞林狗赞助本期节目。亲爱的听众和观众朋友们，本期节目不好意思又有广告了。瑞麟狗是一款借助AI来帮助你轻松扩大词汇量的工具，它本身提供了很多功能，比如网页查词、高亮显示这种基本的还有沉浸式翻译、PDF文档翻译，以及UP netflix等多个视频网站的实时字幕翻译，我自己用的最多的是reino浏览器插件的网页生词高亮和youtube字幕。因为我平时阅读英文文章比较多，所以我遇到生死的时候都是直接右键regino查询。然后reino不仅会将它自动加入我的生词本，还会在之后遇到的网页中再高亮出这个生词，这就帮助我每一次遇到这个生词的时候都能记忆一遍。同样我在看youtube的时候也会打开retinal的实时翻译字幕，然后可以直接鼠标悬停查词。在之后遇到这个生词的时候，它也会在屏幕中高亮度。所以说这种不影响我阅读和观看体验的同时，又能增加我词汇量的方法，我觉得对我的信息吸收效率都提升了很多。
+</p>
+<p class="transcript-line">
+<span class="time"><strong>[00:01:40]</strong> </span>
+<span class="speaker"><strong>发言人2: </strong></span>
+那么关键的来了，现在扫描我们视频左侧的二维码，或者reino官网输入优惠码beyond扣下单可以享受7折优惠。我再稍微重复一遍，观众以及听众朋友们可以直接扫码或者到reino官网输入beyond code下单即可享受7折优惠。BEYONDCODE也就是我们代码之外的英文名。详细的链接和优惠码各位朋友都可以在我们的视频或者播客简介评论区中找到。感谢各位，现在正式开始我们今天的节目。
+</p>
+<p class="transcript-line">
+<span class="time"><strong>[00:02:20]</strong> </span>
+<span class="speaker"><strong>发言人4: </strong></span>
+这一封信来自这个，要说名字吗？我感觉不说名字会比较好一点。
+</p>
+<p class="transcript-line">
+<span class="time"><strong>[00:02:28]</strong> </span>
+<span class="speaker"><strong>发言人2: </strong></span>
+我们犹豫再三。
+</p>
+<p class="transcript-line">
+<span class="time"><strong>[00:02:29]</strong> </span>
+<span class="speaker"><strong>发言人5: </strong></span>
+要来录这个戏。
+</p>
+<p class="transcript-line">
+<span class="time"><strong>[00:02:32]</strong> </span>
+<span class="speaker"><strong>发言人4: </strong></span>
+反正这是一个情感问题，所以我就不念名字了。
+</p>
+<p class="transcript-line">
+<span class="time"><strong>[00:02:38]</strong> </span>
+<span class="speaker"><strong>发言人2: </strong></span>
+不用念名字。
+</p>
+<p class="transcript-line">
+<span class="time"><strong>[00:02:39]</strong> </span>
+<span class="speaker"><strong>发言人4: </strong></span>
+他说想聊聊对于职场爱情的看法，小故事分享。
+</p>
+<p class="transcript-line">
+<span class="time"><strong>[00:02:46]</strong> </span>
+<span class="speaker"><strong>发言人4: </strong></span>
+2019年，坐标台湾，本身是一名资历一年的前端工程师，因为公司业务扩张的缘故，意外成为前端主管，公司人数大概20人，由于我们公司默默无名，招人不易，各组主管得亲自上人力网站挑选合适的人才，即兴询问是否有意参加面试。想到公司都是男生，大家平时闲聊时常说希望可以招到女同事，询问老板是不是可以直接招女工程师，即使能力差一点点，大家平时多照顾一下，让女同事有办法交付工作。老板说可以，所以我就寄出大约40个面试意愿邀请给人力网站上的女工程师们。后来只有两个女生回复同意面试。他们本身没有相关的工作经验，只有在求学时期写过一些view，还需要多一些实战经验，才有办法应付工作。在面试的时候，其中一位女工程师一走进办公室，香味直接扑鼻而来，即使我与他隔了一张桌子的距离，味道还是闻香而来，真是有点冷，真是有点难冷静好好面试。因为另一名女同事比较年轻，加上是娇小可爱型的，所以男同事们就说他们要带一起带，她就把味道很香。年纪稍长的女同事交给我带，相处两个月后就渐渐觉得喜欢上了她，但心里不晓得为什么，就一直觉得职场归职场，尤其我跟他又是主管跟组员的关系，所以顶多就是单独出去吃过一次饭而已。
+</p>
+<p class="transcript-line">
+<span class="time"><strong>[00:04:30]</strong> </span>
+<span class="speaker"><strong>发言人4: </strong></span>
+半年多后我主动提离职，他在一个多月后和后来的主管合不来而离开公司，几年过后回想当时如果我不是主管，我想我会主动追求她，如果，但如果我依然是主管，就会做出跟当初一样的决定，选择保持距离。好提问，你们会跟女同事发展恋情吗？状况一新加入的女同事，同岗位的女工程师，你们同一组。
+</p>
+<p class="transcript-line">
+<span class="time"><strong>[00:04:59]</strong> </span>
+<span class="speaker"><strong>发言人4: </strong></span>
+状况2，你是主管，他是你招进来的组员。好，这就是这封来信的全部内容。我先说我觉得这封信提到里面有一个，反正他的言论可能我感觉会被性别主义的人攻击，所以不代表本台立场。
+</p>
+<p class="transcript-line">
+<span class="time"><strong>[00:05:31]</strong> </span>
+<span class="speaker"><strong>发言人2: </strong></span>
+好。
+</p>
+<p class="transcript-line">
+<span class="time"><strong>[00:05:31]</strong> </span>
+<span class="speaker"><strong>发言人4: </strong></span>
+你先叠甲是吧？我先叠个甲，不就是它里面提到说可以招女工程师，技术能力差一点点。我我觉得他的意思也不是说女工程师就会能力差一点点的意思。所以然后。
+</p>
+<p class="transcript-line">
+<span class="time"><strong>[00:05:46]</strong> </span>
+<span class="speaker"><strong>发言人5: </strong></span>
+我们一个。
+</p>
+<p class="transcript-line">
+<span class="time"><strong>[00:05:47]</strong> </span>
+<span class="speaker"><strong>发言人4: </strong></span>
+一个来分析，我觉得我觉得这一封信大致上来说有几个点，我觉得可以值得一起讨论一下的。第一个点就是说主管跟直系下属应不应该谈恋爱，这是一个。另外一个就是职场的恋爱的不能说问题，这个情况我们可以讨论一下。
+</p>
+<p class="transcript-line">
+<span class="time"><strong>[00:06:16]</strong> </span>
+<span class="speaker"><strong>发言人3: </strong></span>
+就通俗的就是办公室恋情。
+</p>
+<p class="transcript-line">
+<span class="time"><strong>[00:06:18]</strong> </span>
+<span class="speaker"><strong>发言人4: </strong></span>
+对办公室恋情。
+</p>
+<p class="transcript-line">
+<span class="time"><strong>[00:06:20]</strong> </span>
+<span class="speaker"><strong>发言人3: </strong></span>
+我觉得首先这是一个非常坦诚的问题。我觉得我还是要对我还是要给这封来信点点个赞的。虽然有的时候大家比较避讳谈这个，但是我觉得我相信很多人内心是有类似的问题的，或者说也许这个事情不是发生在自己身上，但是他可能内心有一些比如说不同价值观或者不同立场的矛盾跟冲突。我觉得首先他非常大胆的问出这个问题，首先我是愿意给这个问题本身一个肯定的对，因为有的时候大家忌讳谈这个问题，不代表这些问题不存在。那既然人家就。
+</p>
+<p class="transcript-line">
+<span class="time"><strong>[00:06:55]</strong> </span>
+<span class="speaker"><strong>发言人1: </strong></span>
+这么大胆问了，咱们也大胆回答。
+</p>
+<p class="transcript-line">
+<span class="time"><strong>[00:06:59]</strong> </span>
+<span class="speaker"><strong>发言人4: </strong></span>
+而且我觉得说什么，而且我觉得他也很克制。我觉得因为他他说如回想当年，因为这个应该是过了几年之后的一个回想。他说回想当时如果我不是主管，我想我应该主动追她。但如果我依然是主管，就会做出跟当初一样的决定。那我觉得她其实也挺克制的，就是说他很嗯他很他很清楚自己的状况，他也知道可能主管不应该跟直接下属谈恋爱。所以他即使是喜欢这个女生的，但他还是选择他的理性上面，还是可以让他保持住克制，让他没有去追求他。先不管他应不应该，主管应不应该跟直系下属谈恋爱，反正如果他认定了这个可能是不行的话，那他还能保持这种克制。我觉得这也是一个很了不起的一个品质。
+</p>
+<p class="transcript-line">
+<span class="time"><strong>[00:08:01]</strong> </span>
+<span class="speaker"><strong>发言人3: </strong></span>
+我其实想把这个问话题稍微延伸一下，就说这么纠结这么困惑，可能也是因为在这个背景里面，就是在他的这个工作环境里边，是我我甚至猜测了是甚至包括生活环境里边，可能接触女生的机会没有那么多。这是一个背景，导致说遇到这个情况的时候，你就左右为难。因为如果我我我只是在设想了，我只是在设想，如果我们平时就有更多的机会，有更多更开放的机会的话，也许我们不会把自己丢在这个困境里面，就是左右为难这个困境，你可能很容易就做出所谓的取舍，或者做出所谓明智的选择。
+</p>
+<p class="transcript-line">
+<span class="time"><strong>[00:08:48]</strong> </span>
+<span class="speaker"><strong>发言人2: </strong></span>
+我会这样觉得，我感觉程序员绝大多数还是真的接触到女生的机会比较少。我觉得第一你加班时间也比较长，工作时间也比较长。第二确实我觉得任何职业都有些职业病。我觉得面对电脑时间长了之后，自己的表达能力会下降很多。然后第三就是真的那个圈子，就是你程序员，你很多圈子跟那个女生接触的那几个圈子overlap不是很大，所以确实比较难了。大部分都是设计师，那就是跟前端最接近的群体了。
+</p>
+<p class="transcript-line">
+<span class="time"><strong>[00:09:28]</strong> </span>
+<span class="speaker"><strong>发言人1: </strong></span>
+你这不是就说出解决方案了吗？就去多跟设计师交流。
+</p>
+<p class="transcript-line">
+<span class="time"><strong>[00:09:32]</strong> </span>
+<span class="speaker"><strong>发言人2: </strong></span>
+对所以好多我看很多前端同事大部分都是跟设计师在一起，就是没办法，这就是正常的很自然的一种现象。我来直接问你们问我们三个问题，我先回答，然后我来问你们好问题，然后你们也回答好吗？好啊，你们能接受有办公室恋情吗？我自己是能接受。
+</p>
+<p class="transcript-line">
+<span class="time"><strong>[00:09:56]</strong> </span>
+<span class="speaker"><strong>发言人4: </strong></span>
+我也可以接受。你指的接受指的是你发生在自己身上。
+</p>
+<p class="transcript-line">
+<span class="time"><strong>[00:10:01]</strong> </span>
+<span class="speaker"><strong>发言人2: </strong></span>
+就是在。
+</p>
+<p class="transcript-line">
+<span class="time"><strong>[00:10:01]</strong> </span>
+<span class="speaker"><strong>发言人3: </strong></span>
+你就是周围同组发生。
+</p>
+<p class="transcript-line">
+<span class="time"><strong>[00:10:04]</strong> </span>
+<span class="speaker"><strong>发言人2: </strong></span>
+你们我们就限定好是同组的，或者说同组的成员跟另一个同事在一起了，不一定是这两个人都是我们组的，但是有可能其中一个是你们组的，反正就跟你关系比较近，然后这个人跟另一个同事谈恋爱了。
+</p>
+<p class="transcript-line">
+<span class="time"><strong>[00:10:21]</strong> </span>
+<span class="speaker"><strong>发言人4: </strong></span>
+我觉得无所谓的。
+</p>
+<p class="transcript-line">
+<span class="time"><strong>[00:10:23]</strong> </span>
+<span class="speaker"><strong>发言人2: </strong></span>
+还是不能。
+</p>
+<p class="transcript-line">
+<span class="time"><strong>[00:10:24]</strong> </span>
+<span class="speaker"><strong>发言人3: </strong></span>
+我觉得是OK的，我觉得。
+</p>
+<p class="transcript-line">
+<span class="time"><strong>[00:10:27]</strong> </span>
+<span class="speaker"><strong>发言人2: </strong></span>
+对我也OK。然后第二个问题，你们会跟同组的女生谈恋爱吗？是同组的。
+</p>
+<p class="transcript-line">
+<span class="time"><strong>[00:10:37]</strong> </span>
+<span class="speaker"><strong>发言人4: </strong></span>
+看缘分，有时候我觉得如果你看对眼了，那如果比如说公司不是明令禁止这个事情的话，我觉得就是看缘分。如果你喜欢的那也没有办法。
+</p>
+<p class="transcript-line">
+<span class="time"><strong>[00:10:54]</strong> </span>
+<span class="speaker"><strong>发言人5: </strong></span>
+我自己是不接受。
+</p>
+<p class="transcript-line">
+<span class="time"><strong>[00:10:57]</strong> </span>
+<span class="speaker"><strong>发言人3: </strong></span>
+我觉得我的话，如果是我的话，假设我现在处在那个环，我可能不会主动这样去选择。但我觉得你说的也有道理。
+</p>
+<p class="transcript-line">
+<span class="time"><strong>[00:11:07]</strong> </span>
+<span class="speaker"><strong>发言人2: </strong></span>
+就是在给别人看。
+</p>
+<p class="transcript-line">
+<span class="time"><strong>[00:11:09]</strong> </span>
+<span class="speaker"><strong>发言人3: </strong></span>
+如果真的觉得合适，对对对，你至少心里会想，我觉得你自己至少心里会有想法。
+</p>
+<p class="transcript-line">
+<span class="time"><strong>[00:11:16]</strong> </span>
+<span class="speaker"><strong>发言人2: </strong></span>
+OK第三个问题是你会跟下属谈恋爱吗？我觉得这个我不会。
+</p>
+<p class="transcript-line">
+<span class="time"><strong>[00:11:22]</strong> </span>
+<span class="speaker"><strong>发言人3: </strong></span>
+我也不会站在我角度，我不会。对我觉得这个还是要避讳，至少要避嫌的。我觉得对对对对我觉得这个是要回避的。
+</p>
+<p class="transcript-line">
+<span class="time"><strong>[00:11:31]</strong> </span>
+<span class="speaker"><strong>发言人2: </strong></span>
+OK所以我们三个人的答案差不多了。
+</p>
+<p class="transcript-line">
+<span class="time"><strong>[00:11:34]</strong> </span>
+<span class="speaker"><strong>发言人3: </strong></span>
+其实差不多。
+</p>
+<p class="transcript-line">
+<span class="time"><strong>[00:11:35]</strong> </span>
+<span class="speaker"><strong>发言人4: </strong></span>
+看来我没有我没有没我没有试过有下属，所以我不太确定。但是我现在你让我这样想的话，我觉得我应该也很不没有办法接受。
+</p>
+<p class="transcript-line">
+<span class="time"><strong>[00:11:47]</strong> </span>
+<span class="speaker"><strong>发言人3: </strong></span>
+那你会跟你的老板吗？假设。
+</p>
+<p class="transcript-line">
+<span class="time"><strong>[00:11:51]</strong> </span>
+<span class="speaker"><strong>发言人4: </strong></span>
+呃。
+</p>
+<p class="transcript-line">
+<span class="time"><strong>[00:11:57]</strong> </span>
+<span class="speaker"><strong>发言人2: </strong></span>
+我觉得就是你作为上司跟下属去谈，跟你作为下属去跟上司谈，又是另一种又不太一样感觉。
+</p>
+<p class="transcript-line">
+<span class="time"><strong>[00:12:07]</strong> </span>
+<span class="speaker"><strong>发言人3: </strong></span>
+这确实。但我是觉得怎么讲，从利害我们就从利害关系角度讲，就是你本身有从就就你们两个之间有双重的这个关系。这两个关系重叠在一起的时候，对，重叠在一起的时候，坦白讲有的时候你很难分得清楚，或者说你自己觉得分得清楚。别人在别人眼中你们两个没有把这件事情分清楚，这个会带来很多不必要的。我们就不讲那些大的道理了，我觉得这个本质上就会带来一些不必要的困扰跟麻烦。所以我个人会觉得对我觉得这可能就是我的我心中自己心中那条线，就是不要到这里。
+</p>
+<p class="transcript-line">
+<span class="time"><strong>[00:12:46]</strong> </span>
+<span class="speaker"><strong>发言人4: </strong></span>
+尤其是有管理关系的话，这更容易会让人比如说跟在职级晋升的时候，不管你是否公正，但是在别人看来都会怀疑你的公正性。
+</p>
+<p class="transcript-line">
+<span class="time"><strong>[00:13:02]</strong> </span>
+<span class="speaker"><strong>发言人3: </strong></span>
+对对对，这个到时候你不好解释，那你何必甚至我们都不说工作上的问题，就说我我们打我我打这样一个可能不恰当的比方好了。就是说你不论是作为主管还是作为下属，那你们本身有这个非常直接的利益关系的话，你怎么确定对方是真的因为喜欢你的？
+</p>
+<p class="transcript-line">
+<span class="time"><strong>[00:13:25]</strong> </span>
+<span class="speaker"><strong>发言人2: </strong></span>
+你懂我意思吗？
+</p>
+<p class="transcript-line">
+<span class="time"><strong>[00:13:27]</strong> </span>
+<span class="speaker"><strong>发言人3: </strong></span>
+确实对，这个问题你自己都回答不了，所以我觉得就是我我觉得。
+</p>
+<p class="transcript-line">
+<span class="time"><strong>[00:13:32]</strong> </span>
+<span class="speaker"><strong>发言人1: </strong></span>
+从这个角度就算了。对我我就是这么朴素的想法，你其实自己都不知道他是不是真的喜欢你才跟你在一起。
+</p>
+<p class="transcript-line">
+<span class="time"><strong>[00:13:40]</strong> </span>
+<span class="speaker"><strong>发言人3: </strong></span>
+那就不要那那就不要跨过这一步。
+</p>
+<p class="transcript-line">
+<span class="time"><strong>[00:13:42]</strong> </span>
+<span class="speaker"><strong>发言人2: </strong></span>
+对，而且上司跟下属本来就存在这种不对等的关系。所以在这段关系里一开始就不对的话，是容易出问题。
+</p>
+<p class="transcript-line">
+<span class="time"><strong>[00:13:52]</strong> </span>
+<span class="speaker"><strong>发言人4: </strong></span>
+我引申一下，这种关系里面如果是manager跟skip manager会有差吗？就如果你跟你的skip manager谈恋爱，和你跟你的manager谈恋爱会有差吗？
+</p>
+<p class="transcript-line">
+<span class="time"><strong>[00:14:08]</strong> </span>
+<span class="speaker"><strong>发言人3: </strong></span>
+什么是skip manager？
+</p>
+<p class="transcript-line">
+<span class="time"><strong>[00:14:10]</strong> </span>
+<span class="speaker"><strong>发言人2: </strong></span>
+就你manager那句。
+</p>
+<p class="transcript-line">
+<span class="time"><strong>[00:14:16]</strong> </span>
+<span class="speaker"><strong>发言人1: </strong></span>
+这关系更复杂了。
+</p>
+<p class="transcript-line">
+<span class="time"><strong>[00:14:18]</strong> </span>
+<span class="speaker"><strong>发言人4: </strong></span>
+不是。
+</p>
+<p class="transcript-line">
+<span class="time"><strong>[00:14:18]</strong> </span>
+<span class="speaker"><strong>发言人1: </strong></span>
+就是说从来没有遇到过这个情况。
+</p>
+<p class="transcript-line">
+<span class="time"><strong>[00:14:21]</strong> </span>
+<span class="speaker"><strong>发言人2: </strong></span>
+这个情况太少了。
+</p>
+<p class="transcript-line">
+<span class="time"><strong>[00:14:23]</strong> </span>
+<span class="speaker"><strong>发言人4: </strong></span>
+不是，就是两种情况，一种就是你跟你的manager谈恋爱，或者说你跟你的skip manager谈恋爱。这两种是有区别吗？你们觉得肯定。
+</p>
+<p class="transcript-line">
+<span class="time"><strong>[00:14:33]</strong> </span>
+<span class="speaker"><strong>发言人2: </strong></span>
+那区别更大都都挺严重，但是跟skip manager谈的话更严重一点。我觉得因为涉及到两层利益了，要所以霸道总裁。
+</p>
+<p class="transcript-line">
+<span class="time"><strong>[00:14:43]</strong> </span>
+<span class="speaker"><strong>发言人4: </strong></span>
+你的manager.
+</p>
+<p class="transcript-line">
+<span class="time"><strong>[00:14:45]</strong> </span>
+<span class="speaker"><strong>发言人2: </strong></span>
+如何自处？谈的时候你的manager如何自处？他怎么办？
+</p>
+<p class="transcript-line">
+<span class="time"><strong>[00:14:53]</strong> </span>
+<span class="speaker"><strong>发言人4: </strong></span>
+要是VP跟你谈恋爱你会怎么样？
+</p>
+<p class="transcript-line">
+<span class="time"><strong>[00:14:55]</strong> </span>
+<span class="speaker"><strong>发言人1: </strong></span>
+你如果是要想等一下，你你你如果只是想影视到霸道总裁，那他就是霸道总裁。霸道总裁就是说了什么时候算的？我们不要往偶像剧那个方向延续。
+</p>
+<p class="transcript-line">
+<span class="time"><strong>[00:15:08]</strong> </span>
+<span class="speaker"><strong>发言人2: </strong></span>
+如果如果跟VG谈的话，就反而又又无所谓了。因为差的特别远。不是我们是不行。
+</p>
+<p class="transcript-line">
+<span class="time"><strong>[00:15:15]</strong> </span>
+<span class="speaker"><strong>发言人1: </strong></span>
+霸道总裁那是剧情需要。你看那些什么的对偶像剧什么破坏时空秩序也要跟你在一起，那都是剧情需要，好吧？我跟这个混在一起就不严肃了，对不对？
+</p>
+<p class="transcript-line">
+<span class="time"><strong>[00:15:29]</strong> </span>
+<span class="speaker"><strong>发言人2: </strong></span>
+对，但是我刚才我是想说，就是我我问了几个问题，我感觉其实蛮好界定，就是要不要跟同事谈恋爱这个关系的。因为我我问的都是同组的，还有有上下级关系的对，那种比较亲密的情况。如果你是跟你八竿子都打不着的那种部门的同事谈恋爱，我觉得就无所谓。
+</p>
+<p class="transcript-line">
+<span class="time"><strong>[00:15:50]</strong> </span>
+<span class="speaker"><strong>发言人3: </strong></span>
+其实还好还好。
+</p>
+<p class="transcript-line">
+<span class="time"><strong>[00:15:52]</strong> </span>
+<span class="speaker"><strong>发言人2: </strong></span>
+而且这种情况还挺普遍的。其实对，挺普遍的。
+</p>
+<p class="transcript-line">
+<span class="time"><strong>[00:15:55]</strong> </span>
+<span class="speaker"><strong>发言人3: </strong></span>
+我觉得对，我觉得之前我们是不是聊过一次，咱们其实都是熟人社交。我周围很我我周围的很多人，几乎所有人其实都是不一定是同一个组的同事，但基本都是通过工作认识的，就是男女朋友或者甚至是变成夫妻，最后都都是都是工作通过工作关系认识的这这个我觉得还是挺普遍的，所以我觉得这个没什么。
+</p>
+<p class="transcript-line">
+<span class="time"><strong>[00:16:20]</strong> </span>
+<span class="speaker"><strong>发言人2: </strong></span>
+我觉得跟同组的谈恋爱，如果是刚开始的话也还可以。但是发展到一定阶段的话，一定有一个人是需要退出这个组的。
+</p>
+<p class="transcript-line">
+<span class="time"><strong>[00:16:28]</strong> </span>
+<span class="speaker"><strong>发言人3: </strong></span>
+也有这种情况，挺也挺多的对，大家也是主动，对，都会主动做。
+</p>
+<p class="transcript-line">
+<span class="time"><strong>[00:16:33]</strong> </span>
+<span class="speaker"><strong>发言人2: </strong></span>
+这个事对，主动规避一些风险。对自己对自己的这个情侣关系跟对公司都好感觉我觉得是工作中确实很容易培养出这种更进一步的关系。男的之间我们谈，如果之前经常参加那种什么通宵的加班，很容易就建立起那种战时友谊，你知道吗？对，如果男的跟女生如果也参加这种，好像共患难过之后，吊桥效应容易对，就容易产生这种更进一步的关系。
+</p>
+<p class="transcript-line">
+<span class="time"><strong>[00:17:06]</strong> </span>
+<span class="speaker"><strong>发言人4: </strong></span>
+所以他的提问我们基本都已经覆盖到了。他的提问就是状况一新加入的女同事，同岗位的女工程师，你们在同一组会不会发展恋情？我们的意见是，如果是同等级的，可能也就看缘分。状况二他你是主管，他是你招进来的组员，那我们觉得都是应该是避嫌。
+</p>
+<p class="transcript-line">
+<span class="time"><strong>[00:17:30]</strong> </span>
+<span class="speaker"><strong>发言人4: </strong></span>
+其实这也就是有关于如何去做选择。像比如说我们现在看这种问题，肯定我们以客观的角度去看，肯定能分析出很多问题。因为这是大部分人都有可能遇到的问题。但是万一你能这位听众朋友他可能可以handle的很好也说不定。对，可能就是这个世界上总会有10%的人，可能在这种职场的恋爱关系里面处理的游刃有余，她不会被这种东西影响。
+</p>
+<p class="transcript-line">
+<span class="time"><strong>[00:18:03]</strong> </span>
+<span class="speaker"><strong>发言人4: </strong></span>
+那谁说的准呢？我们只你？我们也只能给一个做个参考。对保守的这种建议，因为我们一看肯定是权势问题，但没有人了解自己的状况，吧？嗯。
+</p>
+<p class="transcript-line">
+<span class="time"><strong>[00:18:19]</strong> </span>
+<span class="speaker"><strong>发言人2: </strong></span>
+对所以感性的问题就要感性的回答。
+</p>
+<p class="transcript-line">
+<span class="time"><strong>[00:18:24]</strong> </span>
+<span class="speaker"><strong>发言人1: </strong></span>
+对，好。
+</p>
+<p class="transcript-line">
+<span class="time"><strong>[00:18:26]</strong> </span>
+<span class="speaker"><strong>发言人4: </strong></span>
+好，那就这封就这样吧。谢谢这位来信的朋友。
+</p>
+<p class="transcript-line">
+<span class="time"><strong>[00:18:32]</strong> </span>
+<span class="speaker"><strong>发言人2: </strong></span>
+如果听众朋友们觉得有什么任何想法，也欢迎留言。对我觉得这种真诚的来信都非常的欢迎。
+</p>
+<p class="transcript-line">
+<span class="time"><strong>[00:18:40]</strong> </span>
+<span class="speaker"><strong>发言人4: </strong></span>
+我觉得欢迎。如果有一些职场恋爱经验的朋友，可以留言给我们分享一下是如何处理这样的问题的。对我觉得这对很多人来说也是一个不错的这种参考。
+</p>
+<p class="transcript-line">
+<span class="time"><strong>[00:18:57]</strong> </span>
+<span class="speaker"><strong>发言人2: </strong></span>
+我听过一个例子，就是他跟他老婆恋爱了，他把他老婆劝到离职。
+</p>
+<p class="transcript-line">
+<span class="time"><strong>[00:19:05]</strong> </span>
+<span class="speaker"><strong>发言人4: </strong></span>
+这时候有人问，为什么不是这个老公离职？
+</p>
+<p class="transcript-line">
+<span class="time"><strong>[00:19:09]</strong> </span>
+<span class="speaker"><strong>发言人2: </strong></span>
+对，那没那各自的情况各自分析，各自的家庭各自分析。人家俩现在也挺幸福的，反正。
+</p>
+<p class="transcript-line">
+<span class="time"><strong>[00:19:17]</strong> </span>
+<span class="speaker"><strong>发言人1: </strong></span>
+软件现在。
+</p>
+<p class="transcript-line">
+<span class="time"><strong>[00:19:19]</strong> </span>
+<span class="speaker"><strong>发言人5: </strong></span>
+非常。
+</p>
+<p class="transcript-line">
+<span class="time"><strong>[00:19:20]</strong> </span>
+<span class="speaker"><strong>发言人4: </strong></span>
+敏感。
+</p>
+<p class="transcript-line">
+<span class="time"><strong>[00:19:21]</strong> </span>
+<span class="speaker"><strong>发言人1: </strong></span>
+无时无刻充当这个道德判官的角色。挺好的。你先自我审查是吧？
+</p>
+<p class="transcript-line">
+<span class="time"><strong>[00:19:26]</strong> </span>
+<span class="speaker"><strong>发言人2: </strong></span>
+对。
+</p>
+<p class="transcript-line">
+<span class="time"><strong>[00:19:27]</strong> </span>
+<span class="speaker"><strong>发言人4: </strong></span>
+帮我叠加。
+</p>
+<p class="transcript-line">
+<span class="time"><strong>[00:19:29]</strong> </span>
+<span class="speaker"><strong>发言人2: </strong></span>
+很很害怕哪天我被骂的时候。
+</p>
+<p class="transcript-line">
+<span class="time"><strong>[00:19:33]</strong> </span>
+<span class="speaker"><strong>发言人5: </strong></span>
+问题。
+</p>
+<p class="transcript-line">
+<span class="time"><strong>[00:19:34]</strong> </span>
+<span class="speaker"><strong>发言人4: </strong></span>
+好的。
+</p>
+<p class="transcript-line">
+<span class="time"><strong>[00:19:35]</strong> </span>
+<span class="speaker"><strong>发言人3: </strong></span>
+以上就是本期节目的全部内容，欢迎给我们点赞、转发和评论。想订阅我们的节目请在小宇宙、苹果播客、哔哩哔哩和youtube搜索代码之外，也欢迎您在爱发电或上述任意平台给我们打赏。想提供任何素材或话题，欢迎通过show notes中的听众来信链接给我们提问，我们下期节目不见不散。
+</p>
+<p class="transcript-line">
+<span class="time"><strong>[00:19:57]</strong> </span>
+<span class="speaker"><strong>发言人2: </strong></span>
+但是如果问题是他要不要去追的话，我的问题是我的回答是肯定要去追。怎么怎么说？就是不是如果他这个问题回退了一步，就是我现在不是说这个恋情的关系要不要建立，我是说要不要去追他。如果我是要去追，就是在纠结要不要去追这个问题的话，那肯定是要去追。你都碰到喜欢的人了，你还不去追，你管他是什么关系？
+</p>
+<p class="transcript-line">
+<span class="time"><strong>[00:20:27]</strong> </span>
+<span class="speaker"><strong>发言人4: </strong></span>
+那万一追到了。
+</p>
+<p class="transcript-line">
+<span class="time"><strong>[00:20:29]</strong> </span>
+<span class="speaker"><strong>发言人3: </strong></span>
+对对对。
+</p>
+<p class="transcript-line">
+<span class="time"><strong>[00:20:29]</strong> </span>
+<span class="speaker"><strong>发言人1: </strong></span>
+万一追到再想办法是吧，追不到就算了，追到再想办法是吧？对，是这个意思是吧？
+</p>
+<p class="transcript-line">
+<span class="time"><strong>[00:20:35]</strong> </span>
+<span class="speaker"><strong>发言人3: </strong></span>
+是自己追到的话，再按照我们之前讨论那些原则在在处理是吧？
+</p>
+<p class="transcript-line">
+<span class="time"><strong>[00:20:40]</strong> </span>
+<span class="speaker"><strong>发言人2: </strong></span>
+没错，追到之后再考虑要不要建立这个关系，建立关系然后每个人要做什么样的trade off这类话题，那是下一步了。
+</p>
+<p class="transcript-line">
+<span class="time"><strong>[00:20:50]</strong> </span>
+<span class="speaker"><strong>发言人4: </strong></span>
+我觉得只要开始追求的话，就多多少少会有影响这个职场上的关系。
+</p>
+<p class="transcript-line">
+<span class="time"><strong>[00:21:00]</strong> </span>
+<span class="speaker"><strong>发言人5: </strong></span>
+对。
+</p>
+<p class="transcript-line">
+<span class="time"><strong>[00:21:00]</strong> </span>
+<span class="speaker"><strong>发言人2: </strong></span>
+但是我只是就以我个人的例子来看的话，我是肯定会去追的。
+</p>
+<p class="transcript-line">
+<span class="time"><strong>[00:21:07]</strong> </span>
+<span class="speaker"><strong>发言人5: </strong></span>
+我不会管那个。
+</p>
+<p class="transcript-line">
+<span class="time"><strong>[00:21:11]</strong> </span>
+<span class="speaker"><strong>发言人2: </strong></span>
+你说你都遇到一个，就是你喜欢一个人也蛮难的。你看你一遇到一个喜欢的人了，你还不去追还在这儿纠结，OK就感觉迟早会后悔，那为什么等一下。
+</p>
+<p class="transcript-line">
+<span class="time"><strong>[00:21:20]</strong> </span>
+<span class="speaker"><strong>发言人1: </strong></span>
+让自己后悔？我我听懂你的逻辑了，我听懂你的逻辑了。这个逻辑的重点就是在于追到一个女生难，还是找一份新工作更难。
+</p>
+<p class="transcript-line">
+<span class="time"><strong>[00:21:32]</strong> </span>
+<span class="speaker"><strong>发言人2: </strong></span>
+有一定道理，就是说我的逻辑就是。
+</p>
+<p class="transcript-line">
+<span class="time"><strong>[00:21:36]</strong> </span>
+<span class="speaker"><strong>发言人1: </strong></span>
+核心就是自己。
+</p>
+<p class="transcript-line">
+<span class="time"><strong>[00:21:37]</strong> </span>
+<span class="speaker"><strong>发言人3: </strong></span>
+我懂你的，大就是大不了工作不要了是吧。
+</p>
+<p class="transcript-line">
+<span class="time"><strong>[00:21:42]</strong> </span>
+<span class="speaker"><strong>发言人2: </strong></span>
+我也不到。
+</p>
+<p class="transcript-line">
+<span class="time"><strong>[00:21:45]</strong> </span>
+<span class="speaker"><strong>发言人4: </strong></span>
+确实在在你找真爱面前，我觉得工作也没有那么重要。
+</p>
+<p class="transcript-line">
+<span class="time"><strong>[00:21:52]</strong> </span>
+<span class="speaker"><strong>发言人1: </strong></span>
+是吗？
+</p>
+<p class="transcript-line">
+<span class="time"><strong>[00:21:54]</strong> </span>
+<span class="speaker"><strong>发言人4: </strong></span>
+你找到一个好的对象对你来说是一辈子的事情。
+</p>
+<p class="transcript-line">
+<span class="time"><strong>[00:21:58]</strong> </span>
+<span class="speaker"><strong>发言人2: </strong></span>
+而且这个追求成不成功的概率是50%。你那一不成，你其实是什么nothing to lose，几乎是。但是如果你成功了，你可以再考虑其他的问题。
+</p>
+<p class="transcript-line">
+<span class="time"><strong>[00:22:13]</strong> </span>
+<span class="speaker"><strong>发言人4: </strong></span>
+对，其实只要你的追求的方式不是。
+</p>
+<p class="transcript-line">
+<span class="time"><strong>[00:22:17]</strong> </span>
+<span class="speaker"><strong>发言人5: </strong></span>
+那么的对别人。
+</p>
+<p class="transcript-line">
+<span class="time"><strong>[00:22:19]</strong> </span>
+<span class="speaker"><strong>发言人4: </strong></span>
+造成一种骚扰，我觉得追求的也好像也没有什么问题。
+</p>
+<p class="transcript-line">
+<span class="time"><strong>[00:22:24]</strong> </span>
+<span class="speaker"><strong>发言人3: </strong></span>
+对，我觉得这人的自然的感情，对。
+</p>
+<p class="transcript-line">
+<span class="time"><strong>[00:22:28]</strong> </span>
+<span class="speaker"><strong>发言人2: </strong></span>
+如果是我的话。
+</p>
+<p class="transcript-line">
+<span class="time"><strong>[00:22:33]</strong> </span>
+<span class="speaker"><strong>发言人1: </strong></span>
+你今天怎么代入感这么强？
+</p>
+<p class="transcript-line">
+<span class="time"><strong>[00:22:36]</strong> </span>
+<span class="speaker"><strong>发言人2: </strong></span>
+没有，我在想这个问题，我在想如果是我这种人的话，那是不是肯定就是放弃主管这个身份。
+</p>
+<p class="transcript-line">
+<span class="time"><strong>[00:22:45]</strong> </span>
+<span class="speaker"><strong>发言人1: </strong></span>
+就是我可能会，那你还没追到，你就先放弃。
+</p>
+<p class="transcript-line">
+<span class="time"><strong>[00:22:50]</strong> </span>
+<span class="speaker"><strong>发言人4: </strong></span>
+不是，就是对，做好这种准备了，就做好这种心理准备。
+</p>
+<p class="transcript-line">
+<span class="time"><strong>[00:22:54]</strong> </span>
+<span class="speaker"><strong>发言人2: </strong></span>
+我随时做好心我心理上已经做好准备了，我就是这种感觉。对，而且其实而且我会这个时候考验情商了。你追一个女生肯定不是那么容易的，你肯定要讲究策略什么的。就是你要让对方不感觉到被侵犯，不是被骚扰，而是表现出你的真诚，然后又不影响双方的本来的关系。比如说你如果很鲁莽的去说，我是你主管，我想追你那人家肯定觉得你是谁？然后你这个人是不是那肯定不太好，对吧？
+</p>
+<p class="transcript-line">
+<span class="time"><strong>[00:23:27]</strong> </span>
+<span class="speaker"><strong>发言人2: </strong></span>
+这就考验你的自己的分析当时情况的能力了。然后结合自己的情况，还有当时职场的环境，你看一下怎么以一个比较温和的方式，慢慢的找到一个比较好的方法，表达出自己的真心话。然后在你觉得有80%的概率拿下的时候，可能你就你要考虑真的要把这个职场的关系改变了。我觉得是对。
+</p>
+<p class="transcript-line">
+<span class="time"><strong>[00:23:52]</strong> </span>
+<span class="speaker"><strong>发言人4: </strong></span>
+所以我就觉得说其实如果是我的话，可能我也没有，我也不会管那么多，我还是会追。我觉得我也是会，所以我才说来信的这位朋友，其实他的这种克制，我觉得是我挺佩服的。
+</p>
+<p class="transcript-line">
+<span class="time"><strong>[00:24:07]</strong> </span>
+<span class="speaker"><strong>发言人2: </strong></span>
+我觉得反正我的原则就是以不后悔为原则。如果我将来会觉得这个事儿后悔，那我肯定就是我我思考的方法就是如果我将来会觉得这个事情后悔，那我现在肯定。
+</p>
+<p class="transcript-line">
+<span class="time"><strong>[00:24:20]</strong> </span>
+<span class="speaker"><strong>发言人3: </strong></span>
+要做OK.
+</p>
+<p class="transcript-line">
+<span class="time"><strong>[00:24:22]</strong> </span>
+<span class="speaker"><strong>发言人5: </strong></span>
+你既然。
+</p>
+<p class="transcript-line">
+<span class="time"><strong>[00:24:23]</strong> </span>
+<span class="speaker"><strong>发言人2: </strong></span>
+决定要做，然后就开始想办法想策略就好了。
+</p>
+<p class="transcript-line">
+<span class="time"><strong>[00:24:30]</strong> </span>
+<span class="speaker"><strong>发言人3: </strong></span>
+所以你的最终的这个判断标准就是自己会不会后悔。
+</p>
+<p class="transcript-line">
+<span class="time"><strong>[00:24:37]</strong> </span>
+<span class="speaker"><strong>发言人2: </strong></span>
+对，有一点很好。
+</p>
+<p class="transcript-line">
+<span class="time"><strong>[00:24:42]</strong> </span>
+<span class="speaker"><strong>发言人3: </strong></span>
+觉得会后悔的事情就要寻求一些变化了。
+</p>
+<p class="transcript-line">
+<span class="time"><strong>[00:24:47]</strong> </span>
+<span class="speaker"><strong>发言人2: </strong></span>
+没错，我都是这样想的。我当初来美国去香港都是这种大的决定都是这样做的。
+</p>
+<p class="transcript-line">
+<span class="time"><strong>[00:24:52]</strong> </span>
+<span class="speaker"><strong>发言人3: </strong></span>
+OK怕后悔是吧？对。
+</p>
+<p class="transcript-line">
+<span class="time"><strong>[00:24:55]</strong> </span>
+<span class="speaker"><strong>发言人2: </strong></span>
+我就说我既然都决定，就是我决定出来肯定会要牺牲很多东西。但是如果我不出来，我将来心里肯定会纠结这个事儿。我心里肯定会想，如果我当初去了美国怎么样，那我既然如此，我大不了就去了。去了之后如果我跟我想象中有差距，那我再回去，我觉得我是能接受这些回退，或者说一些插曲。人生中的插曲不是指主流路线的，我都可以接受，只要我心理上不后悔就好了。我觉得这个其实很简单。
+</p>
+<p class="transcript-line">
+<span class="time"><strong>[00:25:33]</strong> </span>
+<span class="speaker"><strong>发言人3: </strong></span>
+对我觉得这个至少这个思维模型是合理的。
+</p>]]></content:encoded>
+            <pubDate>Wed, 12 Mar 2025 00:30:00 GMT</pubDate>
+            <guid>67cfc62de924d4525ac67c0e</guid>
+        </item>
         <item>
             <title>番外：和二分电台聊聊 2024 年买了什么</title>
             <link>https://www.xiaoyuzhoufm.com/episode/67bfde0d05a90dfd0d243b45</link>
@@ -35292,786 +36194,6 @@ manager之后他就要变得冷酷。
 </p>]]></content:encoded>
             <pubDate>Fri, 08 Dec 2023 01:00:00 GMT</pubDate>
             <guid>656f243bf6f2b065f0b3bbee</guid>
-        </item>
-        <item>
-            <title>第 7 集 | 节目复盘、什么是公司的什么是自己的、mentor 的作用、「大神」只是比你多做了一些</title>
-            <link>https://www.xiaoyuzhoufm.com/episode/651bb5a519dde7bf6aed7201</link>
-            <description>感谢 zolplay 佐玩 (https://zolplay.com/) 对本节目的赞助。
-代码之外 Beyond Code 是一档由 GeekPlux 和 Randy 共同主持的程序员闲聊播客节目。节目地址：https://bento.me/beyondcode 我们的节目同时会发布视频版，在 YouTube 和 Bilibili 搜索「代码之外 Beyond Code」都能找到我们。
-如果你也有什么想分享给我们或问题，欢迎在 https://forms.office.com/r/RknWt97QPL 向我们来信，我们会在下一期节目分享你的来信或解答你的疑惑。
-0:00:41 往期节目回顾
-0:07:22 辞职后的变化
-0:21:03 人和人之间的连接
-0:28:04 寻找 mentor
-0:37:04 「大神」只是比你多做了一些
-0:46:08 分清“你会的”和“你擅长的”
-0:49:19 自由职业的作息
-0:52:16 读书习惯
-0:55:04 回忆上学时光</description>
-            <content:encoded><![CDATA[<h1>转写链接</h1>
-<link>https://tongyi.aliyun.com/efficiency/doc/transcripts/kvjony7mrz7gnlx3</link><br>
-<h1>节目摘要</h1>
-<div class="summary">两位主持人回顾了他们共同主持的节目“代码之外”的发展情况，对节目意外获得的高传播度以及超出预期的听众群体表示惊喜。他们特别提到了听众来信栏目的受欢迎程度。在与某位嘉宾交流时，他们遇到了准备不足和对话深度问题的挑战，因此计划加强对嘉宾的准备和沟通。一位主持人分享了离职后个人生活和职业发展的变化，包括对个人身份的重新认识、对工作与生活平衡的探索，以及对独立开发和精神健康的关注。他们强调了持续学习和个人成长的重要性，并鼓励听众积极参与和提供反馈。</div><br>
-<h1>章节速览</h1>
-<div class="chapters">
-<div class="chapter-item">
-<span class="time"><strong>[00:00:00]</strong> </span>
-<span class="chapter-title"><strong>代码之外第七集：播客的意外收获与未来展望</strong></span>
-<div class="chapter-summary">Randy分享了关于《代码之外》播客节目的体验和感悟，包括节目传播度的意外之喜、听众反馈以及对节目内容和形式的反思。他提到，尽管节目初期没有过多规划，但收到了积极的听众反馈，尤其是“听众来信”栏目深受欢迎。同时，他也指出了节目在邀请嘉宾方面的不足，如与郭宇的对话因准备不足而显得浅显，承诺未来将做更多准备工作以提高节目质量。Randy还反思了节目定位，认为其主要作用是提供心理慰藉，而非深入的技术或金融内容，展望未来将更加注重内容的深度和广度。</div>
-</div>
-<div class="chapter-item">
-<span class="time"><strong>[00:07:28]</strong> </span>
-<span class="chapter-title"><strong>离职后自我认知与价值的反思</strong></span>
-<div class="chapter-summary">讨论者分享了自己离职后的感受和变化，尤其是对于自我身份和价值的重新认识。离职让人开始思考在没有公司title和光环后，个人真正拥有的东西和能力。离职后意识到，以前在公司获得的成就和地位很大程度上是由公司赋予的，而非完全属于个人。讨论还涉及了在公司内部利用资源提升自我，以及程序员相较于销售在离职时能带走的资源较少的情况。最后，讨论转向了如何将公司给予的资源转化为个人所有，并提出了在公司内部项目经验对于个人发展的重要性。</div>
-</div>
-<div class="chapter-item">
-<span class="time"><strong>[00:15:25]</strong> </span>
-<span class="chapter-title"><strong>阿里工作经历对个人成长的影响</strong></span>
-<div class="chapter-summary">分享者谈及离开阿里后的感受，强调在阿里不仅技术得到锻炼，更重要的是学会了如何有效沟通、汇报工作、推进项目和自我展示等软技能。这些经验帮助其在独立工作时更加谨慎，特别是在代码审查方面，避免问题出现。</div>
-</div>
-<div class="chapter-item">
-<span class="time"><strong>[00:17:05]</strong> </span>
-<span class="chapter-title"><strong>反馈机制在项目管理和个人成长中的应用</strong></span>
-<div class="chapter-summary">对话内容强调了反馈机制在项目管理和个人成长中的重要性。通过实例分享，阐述了如何利用听众来信、评论以及舆情监控等手段收集反馈，从而不断优化和调整工作计划与产品。特别指出，在工作环境中学习到的舆情平台的应用，能有效监控和分析公众对产品的反馈，进而指导产品改进。此外，还提到了与运营和市场人员合作的重要性，认为程序员与这些部门的协作能加速业务发展。</div>
-</div>
-<div class="chapter-item">
-<span class="time"><strong>[00:20:59]</strong> </span>
-<span class="chapter-title"><strong>离职后的生活变化与人际关系探索</strong></span>
-<div class="chapter-summary">离职后，个人突然感到与世界的连接减少，之前的日常社交活动不再，导致感到孤立。虽然不喜欢线上社交，但通过参与线下活动重新找到了社交的快乐。表达了对未来不想单独工作，更倾向于与人合作共事的愿望。此外，讨论了随着年龄增长对人际关系的重视增加，以及在人际关系中利用与被利用的复杂性。最后，提到了处理人际关系的困难和对精神导师的需要。</div>
-</div>
-<div class="chapter-item">
-<span class="time"><strong>[00:25:45]</strong> </span>
-<span class="chapter-title"><strong>探索心理治疗与自我成长的价值</strong></span>
-<div class="chapter-summary">对话内容涉及个人对寻求心理治疗以改善心理健康状态的思考，以及通过与业界导师交流获得启发和成长的经历。一方面，表达了对心理治疗能够帮助人们处理内心深处不愿面对的问题，从而达到更健康的心理状态的期待。另一方面，分享了与职场导师交流后获得的深刻启示，强调了持续学习、阅读和吸收新知识对个人成长的重要性。通过这些经历，突出了心理治疗和学习新知识在个人自我完善过程中的作用。</div>
-</div>
-<div class="chapter-item">
-<span class="time"><strong>[00:33:13]</strong> </span>
-<span class="chapter-title"><strong>寻找精神导师与自我暗示的重要性</strong></span>
-<div class="chapter-summary">对话内容涉及个人在困难时期寻求精神导师的帮助，以及通过与导师的交流获得启发和能量的过程。导师不仅提供了解决问题的方法，更重要的是成为了个人成长的精神支柱。此外，还讨论了自我暗示对个人心态和行为的积极影响，通过持续的心理暗示，个人可以实现从悲观到乐观的转变。</div>
-</div>
-<div class="chapter-item">
-<span class="time"><strong>[00:37:03]</strong> </span>
-<span class="chapter-title"><strong>从仰望到被仰望的转变</strong></span>
-<div class="chapter-summary">发言者分享了自己近年来的一个重大变化，即从一个默默无闻的博客写作者，变成了被人视为学习目标和榜样。这种转变让他深感惊奇和自豪，同时也让他意识到，即使是自己曾经仰望的偶像，也都是通过不断努力和分享而获得认可的。他强调，驱使他不断写作和分享的，主要是好奇心和想要对别人有所帮助的愿望，而不是为了追求光环或成就。通过这个过程，他更加明白到每个人都是通过一步步努力走过来的，包括那些被人们视为大神或偶像的人。</div>
-</div>
-<div class="chapter-item">
-<span class="time"><strong>[00:41:36]</strong> </span>
-<span class="chapter-title"><strong>坚持创作与个人成长的洞见</strong></span>
-<div class="chapter-summary">在创作和职业生涯中，人们常遇到期望与现实之间的差距。讨论强调，不应期望初次尝试就能获得巨大成功，而是应视每次尝试为向目标迈进的一步。提及写作、开源项目和YouTube视频制作等领域，指出持续产出比单次产出的质量更为重要。此外，讨论还涵盖了离职后对个人能力和兴趣的再认识，以及在技术选择上的成长，强调了找到并专注于自己真正擅长和热爱的领域的重要性。最后，通过一个关于技术选型和项目执行的例子，说明了在实际工作中，应更加注重实用性而非仅仅追求新技术的诱惑。</div>
-</div>
-<div class="chapter-item">
-<span class="time"><strong>[00:49:16]</strong> </span>
-<span class="chapter-title"><strong>个人开发者的一天安排和生活习惯</strong></span>
-<div class="chapter-summary">作为个人开发者，有限的时间需要高效利用。一天通常从刷Twitter开始，以了解最新的资讯和朋友、崇拜之人的动态，随后考虑当天要做的事情。虽然不刻意规划，但会随手记录需要处理的事项。睡前习惯阅读书籍或文章，将阅读主要安排在周末。强调全力以赴完成工作可以有效减少晚间焦虑，提高睡眠质量。近期阅读的书籍包括《模仿欲望》和《埃隆·马斯克》专辑。</div>
-</div>
-<div class="chapter-item">
-<span class="time"><strong>[00:52:15]</strong> </span>
-<span class="chapter-title"><strong>阅读习惯和偏好分享</strong></span>
-<div class="chapter-summary">对话中讨论了阅读习惯，包括同时阅读多本书的可能性，以及根据兴趣跳读而非从头到尾阅读的策略。讨论还触及了如何发现新书的途径，如通过社交网络或图书馆，以及个人的学科偏好和学习方法。最后，提到通过各种平台支持内容创作的重要性。</div>
-</div>
-</div><br>
-<h1>问题回顾</h1>
-<div class="qa-item">
-<div class="question"><strong>Q:</strong> 我们对这六集《代码之外》的感受如何，特别是传播度方面？</div>
-<div class="answer"><strong>A:</strong> 最大的感受是这个节目的传播度超出了预期，比我预想的要高很多。在zo play的一个线下活动中，发现现场大部分人都听过我们的节目，这让我很惊喜。另外，听众来信这个栏目反响很好，很多人专门收听这个部分。</div>
-</div>
-<div class="qa-item">
-<div class="question"><strong>Q:</strong> 在邀请嘉宾和准备节目内容方面，我们之前有何不足之处？对于郭宇那期节目，听众有哪些具体反馈？</div>
-<div class="answer"><strong>A:</strong> 我们之前在准备节目的素材和话题上不够充分，没有像其他博主那样提前规划很久。例如郭宇那期节目，虽然他是我们正式邀请的嘉宾，但我们经验不足，没有事先准备深度问题，导致节目效果不尽如人意，收到了一些负面评论。对此，我们进行了反思，并决定以后邀请嘉宾时会提前做好准备，与嘉宾多沟通，以提高节目的质量。听众反馈中提到，郭宇的内容信息输出速度很快，而我们在跟进提问时显得有些跟不上节奏，甚至有评论说主持人被郭宇碾压，无法有效互动。这些反馈促使我们认识到需要改进节目准备，包括提前做笔记记录关键点，以便挑选合适的问题提问。</div>
-</div>
-<div class="qa-item">
-<div class="question"><strong>Q:</strong> 郭宇那期节目为何效果不佳？</div>
-<div class="answer"><strong>A:</strong> 郭宇那期主要是我们的眼界和经验还没有达到邀请他来的高度，我们在财富积累和阅历上的阶段与他不在同一水平线上，所以很难深入地聊到一起去。而且由于我们与郭宇在网络上认识，关系不够密切，导致在聊天时无法完全放松和自由发挥。</div>
-</div>
-<div class="qa-item">
-<div class="question"><strong>Q:</strong> 最近一年你自己有哪些变化？</div>
-<div class="answer"><strong>A:</strong> 我最近一年最大的变化是离职，从有固定工作转为自由职业者。这个转变让我开始重新思考自己的身份和价值，不再依赖于公司的title和薪资等标签来定义自己。同时，也意识到在公司体系中获得的一切荣誉和资源，在脱离后可能会失去原有的价值和社会认可。通过这个过程，我更加关注并思考什么是真正属于自己的东西。</div>
-</div>
-<div class="qa-item">
-<div class="question"><strong>Q:</strong> 在公司工作是否可以视为一种创业实践，对个人能力是一种检验？在公司积累的经验和技术，如何转化为个人优势？</div>
-<div class="answer"><strong>A:</strong> 是的，在公司尤其是大公司中参与项目，就像在拥有资源、队友甚至下属的支持下进行创业。这种环境能帮助检验个人的能力和潜力。在公司工作中，虽然获得的稳定资源和经验不能直接带走，但应努力将公司提供的资源和经验转化为自己的知识与技能。例如，在大厂如阿里锻炼出来的工作方法和沟通技巧等，这些软实力比单纯的技术项目更具有长期价值。</div>
-</div>
-<div class="qa-item">
-<div class="question"><strong>Q:</strong> 从公司离职后，如何保持与外界的连接以避免与世隔绝的感觉？</div>
-<div class="answer"><strong>A:</strong> 离职后，由于失去了职场上的日常社交，需要主动寻找线下交流的机会，比如参加线下活动，与朋友定期见面聊天等，以维持与社会的连接，避免孤独感和心理压力。</div>
-</div>
-<div class="qa-item">
-<div class="question"><strong>Q:</strong> 如何看待线上社交与线下社交的差异，并处理好两者的关系？</div>
-<div class="answer"><strong>A:</strong> 线上社交虽然便捷，但仍无法替代线下交流的真实感和紧密度。随着年龄增长，越来越多人开始意识到人际交往的重要性，尤其是需要定期进行线下互动，以达到心理按摩的效果，平衡线上与线下社交的关系。</div>
-</div>
-<div class="qa-item">
-<div class="question"><strong>Q:</strong> 你是否考虑过找心理治疗师来帮助自己修复心理上的问题，尤其是在国外看到大家都定期进行心理交流后？心理暗示在个人成长中是否也有重要作用？</div>
-<div class="answer"><strong>A:</strong> 是的，我确实有这样的想法。在国内，虽然心理治疗体系不够完善，但我认为心理治疗师能像一块伤疤一样，帮助我们温和地揭开内心深处的阴暗面，并提供一个第三方视角去审视自己不愿意面对的问题或内心的病变。通过心理治疗，我甚至会好奇是否能到达一个完全康复、达到百分百健康状态的“200%状态”。是的，心理暗示对我个人成长一直非常有用。例如，虽然我内心有时会冒出悲观甚至虚无主义的想法，但我通过不断暗示自己世界是美好的，最终真的转变为一个乐观的人。这种心理暗示的力量可以让人逐渐改变思维模式，塑造更好的自我认知。</div>
-</div>
-<div class="qa-item">
-<div class="question"><strong>Q:</strong> 在寻求职业和生活指导方面，你有没有找过导师或者有类似经验可以分享？</div>
-<div class="answer"><strong>A:</strong> 是的，公司在职期间，我曾找过两位导师，一位是公司内部安排的，另一位是我主动寻找的，这些导师在职业和社会阅历上比我丰富许多。与他们交流能获得很多启发，特别是随着年龄的增长，更能接受并认真思考他们的建议，并按其路径去实践，这对我的成长非常有帮助。</div>
-</div>
-<div class="qa-item">
-<div class="question"><strong>Q:</strong> 是否有一位导师给过你印象深刻且改变你思维模式的建议？</div>
-<div class="answer"><strong>A:</strong> 是的，曾经与一位业界非常有名的老师交流了半小时，他的言谈举止就像给我脱胎换骨一般的影响。他强调终身学习的重要性，每天都在不间断地阅读、学习，将自己视为一个AI model，通过不断输入知识来塑造现在的自己。他的生活方式和学习态度深深打动了我，让我意识到只有持续不断地学习和吸收新知识，才能快速提升并保持进步。</div>
-</div>
-<div class="qa-item">
-<div class="question"><strong>Q:</strong> 这位导师的具体观点有哪些让你特别震撼的地方？</div>
-<div class="answer"><strong>A:</strong> 导师提到他每天都在学习，即使周末也保持与工作日一样的学习强度，对于任何未知事物都抱有强烈的好奇心和探索精神。他的知识储备源于日积月累的阅读和学习，而且他坚信这种持续学习的逻辑是提升个人能力的关键。他的真诚、热爱学习的态度以及用行动和语言感化他人的教育方式，让我感受到了拨云见日的效果。</div>
-</div>
-<div class="qa-item">
-<div class="question"><strong>Q:</strong> 在遇到困难时期，是否渴望有一位全能的答案提供者？</div>
-<div class="answer"><strong>A:</strong> 确，在遇到挫折和困惑时，我曾希望有一个全能的答案提供者，但后来幸运地遇到了像我未来目标一样的精神导师。他不仅给予我具体的建议，更成为了我的榜样，让我在与他交流的过程中感受到强大的精神支柱作用，促使我在各个方面都有所进步。</div>
-</div>
-<div class="qa-item">
-<div class="question"><strong>Q:</strong> 你是否觉得年轻时的偶像与现在自己作为学习目标的体验有所变化？</div>
-<div class="answer"><strong>A:</strong> 是的，我之前是仰望偶像学习的对象，但近几年发现很多人开始把我当作他们的学习目标。从默默无闻到有人关注、感谢，这种身份转变让我认识到原来偶像并非想象中那么遥不可及，他们也是一步步走过来的，做的只是比别人更多一些。</div>
-</div>
-<div class="qa-item">
-<div class="question"><strong>Q:</strong> 对于从默默无闻到有一定影响力的过程，你有什么特别的感触吗？做博客、录播客背后的驱动是什么？</div>
-<div class="answer"><strong>A:</strong> 这个过程让我意识到，无论是偶像还是普通人，我们所遇到的问题其实是一样的，并非他们比我们厉害很多。而且，成为人们学习目标的过程中，并不是因为自己特别出色，而是比别人更愿意分享和付出努力。最深层次的驱动是好奇心，希望通过分享自己觉得有价值的内容，了解这些分享对大家是否有帮助，以及听取大家对自己的看法和评价。同时，也强调了做事情时往往无法预知其长远价值和影响，但只要持续输出，总会被人看到。</div>
-</div>
-<div class="qa-item">
-<div class="question"><strong>Q:</strong> 如何看待创作初期的期待与实际产出之间的错配？</div>
-<div class="answer"><strong>A:</strong> 很多人期望一开始就得到大量关注，但实际上，就像扔石头入水一样，不可能第一下就能激起大浪。需要不断积累和坚持，通过持续创作，最终可能会产生意想不到的效果。对于阅读量或数据表现，不应过分纠结，应该相信自己产出的东西并坚持做下去。</div>
-</div>
-<div class="qa-item">
-<div class="question"><strong>Q:</strong> 在个人开发中应该如何定位自己的擅长之处？</div>
-<div class="answer"><strong>A:</strong> 在个人开发中，应该更多地聚焦于自己真正擅长的事情，而不是被职责所限或追求最新技术。由于时间和资源有限，应集中精力发挥自身优势，而不是追求多元化和技术的新颖性。年轻时可能更倾向于学习新东西，但在个人开发阶段，应更加注重实用性和效率，剔除不实用的技术，以便更好地完成项目。</div>
-</div>
-<div class="qa-item">
-<div class="question"><strong>Q:</strong> 作为一个个人开发者，你是如何安排自己一天的？有什么个人作息习惯吗？</div>
-<div class="answer"><strong>A:</strong> 我每天醒来首先刷Twitter了解最新的事情，因为Twitter虽然有缺陷，但它是获取最新信息的最佳工具。之后会考虑当天要做的事情，目前代码上的工作不算多。我不喜欢提前规划，比如不做To Do List或设定明确的截止日期，但我确实会记下需要做的事情。晚上睡前会安排看书，这个时间通常是半小时到一小时。</div>
-</div>
-<div class="qa-item">
-<div class="question"><strong>Q:</strong> 你会提前规划工作吗？例如制作To Do List或设定截止日期？</div>
-<div class="answer"><strong>A:</strong> 不会特意规划，但如果有必要，我会记下要做的事情。晚上睡前看书是固定的习惯。</div>
-</div>
-<div class="qa-item">
-<div class="question"><strong>Q:</strong> 看文章是什么时候？会集中阅读吗？</div>
-<div class="answer"><strong>A:</strong> 我将阅读文章集中在周六周日进行，周一到周五则较少看。遵循“白天释放精力”的原则，确保晚上能放松并容易入睡。</div>
-</div>
-<div class="qa-item">
-<div class="question"><strong>Q:</strong> 看图书是否会从头到尾看完？</div>
-<div class="answer"><strong>A:</strong> 对于虚构类书籍，我会跳着看，根据兴趣选择阅读目录中的部分内容；而非虚构类书籍则会从头看到尾。</div>
-</div>
-<div class="qa-item">
-<div class="question"><strong>Q:</strong> 你会同时读多本书吗？会有上下文切换的问题吗？</div>
-<div class="answer"><strong>A:</strong> 会同时读多本书，但不会遇到上下文切换的问题，通常只看小说时会有这种困扰。</div>
-</div>
-<div class="qa-item">
-<div class="question"><strong>Q:</strong> 你是如何得知这些书的？</div>
-<div class="answer"><strong>A:</strong> 主要通过社交网络和关注的人获取信息，同时也会去图书馆寻找书籍。</div>
-</div>
-<h1>节目文稿</h1>
-<p class="transcript-line">
-<span class="time"><strong>[00:00:00]</strong> </span>
-<span class="speaker"><strong>发言人1: </strong></span>
-欢迎收听代码之外第七集，我是Randy.
-</p>
-<p class="transcript-line">
-<span class="time"><strong>[00:00:04]</strong> </span>
-<span class="speaker"><strong>发言人2: </strong></span>
-我是gig plus。
-</p>
-<p class="transcript-line">
-<span class="time"><strong>[00:00:13]</strong> </span>
-<span class="speaker"><strong>发言人2: </strong></span>
-我本来还想说问你到底是多少集了，有一个月没录了。
-</p>
-<p class="transcript-line">
-<span class="time"><strong>[00:00:17]</strong> </span>
-<span class="speaker"><strong>发言人1: </strong></span>
-对，没有。其实我们前几个星期录了一次，只是对没有要素材，没有要觉得不是他聊的不是很好。
-</p>
-<p class="transcript-line">
-<span class="time"><strong>[00:00:28]</strong> </span>
-<span class="speaker"><strong>发言人2: </strong></span>
-我感觉那天其实不是状态的问题是聊的状态好的都没办法播出来。然后。能播的就感觉很很寡淡，索然无味。
-</p>
-<p class="transcript-line">
-<span class="time"><strong>[00:00:41]</strong> </span>
-<span class="speaker"><strong>发言人1: </strong></span>
-我们我们其实可以简单的聊一两句我们当时聊的一些核心的内容，就是我们怎么看待我们这六集，就从开播以来的一个感受。我最大的感受就是这是我意想不到的传播度那么高。就是像我之前参加那个zo play走完的那个线下活动。因为我其实预有预期说肯定有会有现场的朋友听过我们的节目。但是我预想不到的是原来这么多，可能我本来的期预期是可能在场的3分之1听过。但是后来我发现原来现场基本有3分之2的人都听过这个节目，我就很惊喜。然后另外一个惊喜的就是说他们挺多人说听众来信这个栏目挺好听的。我甚至觉得可能有一些人就是专门听众来信，然后组建部可能跳着听吧。
-</p>
-<p class="transcript-line">
-<span class="time"><strong>[00:01:46]</strong> </span>
-<span class="speaker"><strong>发言人2: </strong></span>
-我觉得可能就是听众来信比较短，而且每个人遇到的问题都会找到这个共同的声音。就不只是肯定这个世界上不是你一个人遇到同样的问题，所以他有人问出来就会觉得很开心。然后我从我这块儿看，我感觉我们其实蛮超出预期的。我们俩之前也说过几次，就是做的时候没想太多，然后没有像其他那些博主有一些事先的筹备，然后提前规划很久的这个素材或者说话题什么的。其实每次大概都是我跟redy即兴，就闲聊出一个什么话题，然后就开始录了。然后印象最深的就是郭宇那期，其实郭宇算得上是我们代码之外这个节目正式邀请的一个嘉宾。因为之前嘉宾他可能就是要么自己想来，或者要不就是聊着说来串个台什么的。
-</p>
-<p class="transcript-line">
-<span class="time"><strong>[00:02:49]</strong> </span>
-<span class="speaker"><strong>发言人1: </strong></span>
-然后郭宇就是朋友。
-</p>
-<p class="transcript-line">
-<span class="time"><strong>[00:02:51]</strong> </span>
-<span class="speaker"><strong>发言人2: </strong></span>
-对，要不就本来就朋友。然后郭宇的话就是我们当时觉得可以请他来聊一下这些财富，还有他个人生活方面他背后的一些故事。但是我们因为经验不是特别丰富，所以没有事先准备一些特别有深度的问题。这个在后来的听友的一些反馈里，还有评论里感觉都感受到了。其实我们收到那些负面的评论的时候，我们也是第一时间就反思了。其实如果说我们做的足够好的话，我们是完全不care这些负面评论的。就是因为我们可能确实心理上有一些觉得没有认真准备，所以还是认真阅读，并且我们反思一下之后怎么改进。然后之后的嘉宾邀请的话，我们可能会，当然主要是我们两个人闲聊了，但是之后的嘉宾我们邀请可能会做一些提前的准备，然后跟嘉宾事先多沟通，暖暖场之类的。这样的话就是比较好的能就达到一个更好的节目效果。
-</p>
-<p class="transcript-line">
-<span class="time"><strong>[00:04:05]</strong> </span>
-<span class="speaker"><strong>发言人1: </strong></span>
-对我觉得郭宇那一集其实主要还是我们的眼界还没有达到我们邀请的嘉宾的这这种高度。
-</p>
-<p class="transcript-line">
-<span class="time"><strong>[00:04:17]</strong> </span>
-<span class="speaker"><strong>发言人2: </strong></span>
-主要还是太穷了，太穷了。
-</p>
-<p class="transcript-line">
-<span class="time"><strong>[00:04:19]</strong> </span>
-<span class="speaker"><strong>发言人1: </strong></span>
-然后确实可能我录到一半的时候，其实已经觉得自己已经不知道可以问什么了。所以评论上有很多人就评论说我们两个我他们怎么说的，我忘了他们怎么说的。
-</p>
-<p class="transcript-line">
-<span class="time"><strong>[00:04:36]</strong> </span>
-<span class="speaker"><strong>发言人2: </strong></span>
-比如说这个人是不是没做过投资，到后来都完全跟不上郭宇了。
-</p>
-<p class="transcript-line">
-<span class="time"><strong>[00:04:42]</strong> </span>
-<span class="speaker"><strong>发言人1: </strong></span>
-对，还有什么主持人被碾压了，多提升一下。对，说对不上话的，很多这种评论其实我们都虚心接受，因为说的确实是这样子。对，因为本来一来其实可能我们算是在网络上认识过于，但是我们没有很熟。所以这也让我们很难很放得开的去聊，或者说聊很多我们比较熟悉的话题。然后另外一方面，我们确实在财富的积累上面，跟我们的阅历上面都不是同一个，就不在同一个阶段，所以就更加难聊了。所以我我也我甚至也会觉得跟网友说的一样，就是我们可能好像浪费了一个这么好的嘉宾。我也会这么想。
-</p>
-<p class="transcript-line">
-<span class="time"><strong>[00:05:34]</strong> </span>
-<span class="speaker"><strong>发言人2: </strong></span>
-反正就是感觉在这个什么理论层面，就是你没有到达那个财富的程度，你是没办法感受很多事情的。你如果去聊一些金融的一些术语或者资产的配置，你也可以聊。但是你肯定是没办法感同身受，或者说郭宇说了一大堆，你也肯定是get不到的。
-</p>
-<p class="transcript-line">
-<span class="time"><strong>[00:05:59]</strong> </span>
-<span class="speaker"><strong>发言人2: </strong></span>
-然后从技术角度来讲，郭宇其实他说话蛮和蔼可亲的。然后整个沟通的速度，就是他输出信息的速度还是蛮快的。所以很多时候在我们跟他聊的时候，其实脑子里有不停的在想，然后不停的在反思，然后不停的在想问就是有一些问题是想问，但是由于他说的太快了，然后很多事情很多时候我也不太想打断郭宇的说话的速度。因为不只是郭宇了，其实任何一个嘉宾他在表达的时候，我们都不太想打断。然后等他说完的时候，我又觉得好像已经有很多的信息量了。具体该问哪个问题，不知道该从何问起。所以之后可能会想办法做一些笔记，就是哪怕是很小的几个字之类的，这样的话有助于我们很快的去挑出一个值得问的问题。其实我们这个节目我后来想了想，可能主打就是心理按摩。
-</p>
-<p class="transcript-line">
-<span class="time"><strong>[00:07:04]</strong> </span>
-<span class="speaker"><strong>发言人1: </strong></span>
-是有很多人其实也不太喜欢在podcast里面去听一些很深度很很硬核的内容，因为还挺累的OK我们可以正式聊一些我们想聊的这一期的话题了。第一个话题，我看你列出的是最近一年的变化太大了，你的变化。
-</p>
-<p class="transcript-line">
-<span class="time"><strong>[00:07:28]</strong> </span>
-<span class="speaker"><strong>发言人2: </strong></span>
-是没有？不是上次你跟我说的吗？说你说你辞职了，感觉最近一年变化太大了，我也变化很大。对。
-</p>
-<p class="transcript-line">
-<span class="time"><strong>[00:07:38]</strong> </span>
-<span class="speaker"><strong>发言人1: </strong></span>
-我的变化主要就是离职。离职我到现在我是五月份离职的，到现在是有四个月了，四个月快五个月了，也没有到半年。但是我觉得整个人就是从想事情，从做决策，从对自己的看法上面都发生了很大的变化。就是从从一个有工作，而且可能七年来都是有工作的一个人，突然之间就没有工作，就不用工作。这个转换让我等一下。
-</p>
-<p class="transcript-line">
-<span class="time"><strong>[00:08:13]</strong> </span>
-<span class="speaker"><strong>发言人2: </strong></span>
-很多七年怎么感觉你工作的时间比我还长。
-</p>
-<p class="transcript-line">
-<span class="time"><strong>[00:08:17]</strong> </span>
-<span class="speaker"><strong>发言人1: </strong></span>
-这不是很正常吗？我在阿里一年之后，你才入职的，我工号是一万多，1万0几。
-</p>
-<p class="transcript-line">
-<span class="time"><strong>[00:08:29]</strong> </span>
-<span class="speaker"><strong>发言人2: </strong></span>
-看来辍学优势是大。
-</p>
-<p class="transcript-line">
-<span class="time"><strong>[00:08:32]</strong> </span>
-<span class="speaker"><strong>发言人1: </strong></span>
-太大我之前就跟gip lu s聊天的时候，我其实提到的第一个变化就是说当我离开了公司之后，就会开始去想我是谁这个问题。因为你在我们之前在公司的时候，我们很清楚我是谁。比如说我就是我就是阿里的程序员，对吧？P6、P7、P8这样子，或者说我是微软的程序员。当你在社交或者说你认识新的朋友的时候，你就很容易用这个title去给对方一个定义，你是谁。但是当我没有工作的时候，假设说我没有没我没有一个产品，我不可能说我是我几年前在阿里工作，或者说我曾经在微软工作。那好像就是只能从以前的事情里面，或者说只能从你的背景，你的以前的一个光环里面去定义你自己。
-</p>
-<p class="transcript-line">
-<span class="time"><strong>[00:09:39]</strong> </span>
-<span class="speaker"><strong>发言人1: </strong></span>
-所以说我就觉得我一直就在想，我离开了公司之后，我到底是谁？我怎么去跟别人介绍我自己，我做了什么？就我拥有的东西是什么？
-</p>
-<p class="transcript-line">
-<span class="time"><strong>[00:09:50]</strong> </span>
-<span class="speaker"><strong>发言人1: </strong></span>
-然后又引发了另外一个问题，就是突然发现我们以前在公司的时候，很容易没有分清楚什么是公司给你的，什么是你自己的。就像这些title，你的月薪，你的title？你的光环其实都是公司给你的。当我脱离了公司的这个组织之后，我剩下来的我自属于我自己的东西是什么呢？
-</p>
-<p class="transcript-line">
-<span class="time"><strong>[00:10:20]</strong> </span>
-<span class="speaker"><strong>发言人1: </strong></span>
-你在你做到P8P9，你有一笔很巨额的月薪薪水。然后你在这个组织架构里面玩的都是这个组织架构给你的游戏，你在这个游戏里面玩的很厉害。但是当你脱离了这个组织之后，你就发现原来这些都是他创造给你的一种幻想，创造给你出来的一种社会环境的子集。然后你在这个子集里面玩的太久了，然后真正的重新进入了这个社会。进入了这个市场之后，你会发现原来我之前玩的一直都是一个子集。当我脱离了这个子集之后，别人不是这么跟你玩的时候，你的价值突然之间就化为乌有了，这是很恐怖的。所以我也听很多被裁掉或者说离职的人，他们也会这样想说。
-</p>
-<p class="transcript-line">
-<span class="time"><strong>[00:11:18]</strong> </span>
-<span class="speaker"><strong>发言人1: </strong></span>
-我们离职之后，才发现什么东西是我们真正自己拥有的。比如说可能做销售的可能更有这个体会。比如说我在想我我我在阿里做销售的话，那可能我积累下来的这些人脉其实是我自己的。这是我离职之后，我也是可以通过我这些积累上积累的人脉去做一些其他事情，这就是我自己的。而月薪title都不是我自己的。
-</p>
-<p class="transcript-line">
-<span class="time"><strong>[00:11:51]</strong> </span>
-<span class="speaker"><strong>发言人1: </strong></span>
-所以程序员可能更苦逼一点。我觉得在阿里做销售，你甚至你你你起码可以带走一些你的人脉。但是在你在阿里做，你在厂这些国内的大厂里面做程序员，或者说国内外都是一样的。就是在大厂里面做程序员，你能带走的东西很少。我忽然发现。
-</p>
-<p class="transcript-line">
-<span class="time"><strong>[00:12:12]</strong> </span>
-<span class="speaker"><strong>发言人2: </strong></span>
-对，但什么事都是相对的。我感觉你现在的心态就是从之前打工人的心态，现在变成一个逐步往超级个体这个方向去走。所以很多事情你肯定会优先从个人的角度去出发去想，就什么东西是你真正掌握的，什么东西是真正属于你的。
-</p>
-<p class="transcript-line">
-<span class="time"><strong>[00:12:34]</strong> </span>
-<span class="speaker"><strong>发言人2: </strong></span>
-对，但是在公司里有在公司的好处。那些东西虽然带不走，但是假如你身处公司，还是一个打工者的时候，我觉得可以最大化的利用公司给你所有的资源，然后去提升自己也好，或者说换一个角度去培养自己。就是你在公司尤其是大公司里，其实很多项目就有点像自己去创业，几乎一模一样。所以你可以想象你在公司里相当于是一个有资源，然后有人帮助，还有队友，还有甚至有的时候有下属的时候去做一个就是好，就不像外界你自己单独出来之后，毫无准备的创业。在公司里就是有各种资源辅助你去创业。所以你在有这种优势的情况下，能否做出东西而已。其实已经是检验你就是能力的一个标准了。
-</p>
-<p class="transcript-line">
-<span class="time"><strong>[00:13:37]</strong> </span>
-<span class="speaker"><strong>发言人2: </strong></span>
-那之后你再出来，对，因为咱俩肯定都是最终肯定不想当打工人，所以都会有这个心态。有的人他可能就一辈子想爬那个职级的梯子。我我我们也不是说这个不好，就各有各的追求。但如果你将来是想成为一个超级个体的话，那确实你在公司里如果能创业成功，那很大程度上说明你将来出来独自做也是可以的。
-</p>
-<p class="transcript-line">
-<span class="time"><strong>[00:14:04]</strong> </span>
-<span class="speaker"><strong>发言人1: </strong></span>
-我我其实我我想表达的就是说，我不是说固定的月薪不好，在在厂里面做做程序员不好。只是说我们应该在在稳定别人给你的这个东西之中，要不断的去把别人给你的东西转化成自己的东西。就是有很多人意识不到，当当他意识到的时候已经太晚了。
-</p>
-<p class="transcript-line">
-<span class="time"><strong>[00:14:29]</strong> </span>
-<span class="speaker"><strong>发言人2: </strong></span>
-但是有一种奇怪的，其实我不知道算不算悖论，就是你在公司里做的其实很多程度上是依赖于公司现有的工具。然后你做的那个就你掌握的知识，慢慢就会变成好像被公司定制化了之后的知识。然后你做出来的项目也是肯定适用于公司。我们之前跟勾股那一期也聊过，比如说vx它肯定是从阿里的这个需求出发做出来的。大的项目不一定适用于小的企业。那你出去宣讲自己的这个项目的时候，其实不一定能真的帮助到别人，就感觉这个是错配的。很多个人开发者他去听，他肯定觉得vix有点太重了。然后小的企业去听音，他就觉得我们后面没有阿里这么强力的工程师团队去支持，那也不太适用于我们的这个环境。
-</p>
-<p class="transcript-line">
-<span class="time"><strong>[00:15:26]</strong> </span>
-<span class="speaker"><strong>发言人2: </strong></span>
-对，反正总体来说，我觉得可能沉淀下来的是一些这些项目，还有技术，我就是指编程技术，编程技术，我觉得都不算是一个能带走的东西，你知道吗？因为我后来离开阿里，因为我之前待过的大厂也就阿里了。我后来离开阿里，其实我还是很感激阿里的，就发现阿里锻炼了我工作的能力。他不是说在我在阿里的这个生涯中，把我的技术提升到了什么层级。而是说一些做事的方法。
-</p>
-<p class="transcript-line">
-<span class="time"><strong>[00:16:02]</strong> </span>
-<span class="speaker"><strong>发言人2: </strong></span>
-比如说如何跟同事之间沟通，如何跟领导汇报，还有很多事情你要怎么推进，然后怎么把这个汇报做到阶段性汇报，然后怎么总结自己的工作，然后怎么给领导展示自己做的项目，或者说怎么拉资源之类。就是整整一系列的东西。虽然我可能没有那么熟练，但是我是觉得明显比以前进步很多很多。所以这种东西就是技术项目或者说任何，总之就是任何很很抽象的东西才是真正沉淀下来的。你觉得这个之前的职业经历对你最大的帮助，就是现在你独立出来之后，对你最大帮助的点。
-</p>
-<p class="transcript-line">
-<span class="time"><strong>[00:16:50]</strong> </span>
-<span class="speaker"><strong>发言人1: </strong></span>
-是我在每次发布之前都会变得很谨慎。我会疯狂review自己的commit这些diff，去看会不会有问题，我会很我很很怕出问题。
-</p>
-<p class="transcript-line">
-<span class="time"><strong>[00:17:06]</strong> </span>
-<span class="speaker"><strong>发言人2: </strong></span>
-我能想到的对我的反馈机制，就是我可能会不管是做任何事情，可能哪怕是组织一个会议或者说发布，就总之就是自己的每一个操作，或者说每一个项目，每一个里程碑，我都想知道有什么反馈，然后通过反馈去提升接下来的计划。要不然我会觉得对很多事情我自己心里没底，我不知道我发出来的感觉和别人感受的感觉是什么样的。比如说像我们做的代码之外，有一个听众来信还有评论，我就觉得这个是一个很好的反馈机制。如果没有的话，就你永远不知道你做是什么程度，对吧？哪怕那个数字是多好，但是实际上就是不一定是得到大家的认可的，就像前两天我做的那个项目，你不是说数字感觉没啥用，主要是想要一个舆情监控，就把评论都收集起来。对，其实评论感觉很重要，你只有有收到反馈。
-</p>
-<p class="transcript-line">
-<span class="time"><strong>[00:18:22]</strong> </span>
-<span class="speaker"><strong>发言人2: </strong></span>
-然后有一些有一个叫叫feedback feed back loop。然后有有这个feedback loop的时候，就会觉得自己心里有底了。然后很多事情接下来怎么推进就一目了然。
-</p>
-<p class="transcript-line">
-<span class="time"><strong>[00:18:36]</strong> </span>
-<span class="speaker"><strong>发言人1: </strong></span>
-对，这也是我在厂里面学到的，就是之前跟你聊的这个舆情平台。因为我们之前会各种平台里面去搜我们代码之外，看一下有没有人发微博，发发其他的社交网络评价我们的这个节目。然后我就想到我们在厂里面，其实就内部就会有这个舆情平台。就比如说你花呗这个业务，你可以设定一些关键词，然后他就会全网给你去搜这个花呗的这些跟花呗相关的这些公共的言论。然后还会跟还会通过这种判断这个内容是积极的还是消极的。这个东西对然对，然后你就可以看到消极的关于花呗消极的评论，然后看一下有什么可以改进的地方。
-</p>
-<p class="transcript-line">
-<span class="time"><strong>[00:19:32]</strong> </span>
-<span class="speaker"><strong>发言人1: </strong></span>
-对，还有就是像以前我们在我们做厂里面的这些产品都是要买点，对吧？这个按钮点击买点，曝光的买点。我觉得这也影响到我现在做，像我这个no pal，no pal我也买了很多点，就是这个错误日志我都收集了。然后还有每天有多少人去同步，从这里同步到那里，同步到什么软件平台，这些我都是有做记录的。所以我每天都能在那个后台看到每天多少人在用我的这个产品，然后在用我这个产品的人，他们是用哪一个功能，他们是同步到哪一个笔记软件。我还可以看到他们购买我的产品是因为他们用了哪一个功能。这些数据都是我之前在厂里面工作，然后跟运营他们学到的一些东西。
-</p>
-<p class="transcript-line">
-<span class="time"><strong>[00:20:35]</strong> </span>
-<span class="speaker"><strong>发言人1: </strong></span>
-不过说个题外话，我所以说为什么我很想邀请一些做运营做市场的人过来跟我们聊。因为我觉得他们有很多需求是程序员可以实现的，来加速这个业务。但是程序员很少，程序员会主动去接触这一步这一类的人。所以他们根本就像两个孤岛，但是他们是可以有机会去一起干一些事情。
-</p>
-<p class="transcript-line">
-<span class="time"><strong>[00:21:01]</strong> </span>
-<span class="speaker"><strong>发言人1: </strong></span>
-讲回那个一年的变化，我觉得离职之后的另外一个很大的变化，对我来说，就是我突然失去了跟这个世界的连接。就是以前你在公司，你天天有人跟你有交集。然后有时候也可以跟同学同事们去吃饭什么的，然后也还可以聊聊八卦，聊聊发生的一些社会事件，就讲讲笑笑。但是离职之后，我自己一个人在家里面，就所有一切的连接都变成了互联网上面的连接。
-</p>
-<p class="transcript-line">
-<span class="time"><strong>[00:21:36]</strong> </span>
-<span class="speaker"><strong>发言人1: </strong></span>
-我其实不太喜欢线上的这种社交，说实话。所以为什么之前我我我去做完的那个线下活动，其实我挺开心的。因为就终于有一个场景可以让我重新的回归线下的社交，线下的跟这个世界的连接。所以为什么有很多人说我是不是在做独立开发？其实我不想做独立开发，我如果有条件，我会成立一个像611样成立一个小团队。
-</p>
-<p class="transcript-line">
-<span class="time"><strong>[00:22:07]</strong> </span>
-<span class="speaker"><strong>发言人2: </strong></span>
-不是先成立夫妻店。
-</p>
-<p class="transcript-line">
-<span class="time"><strong>[00:22:14]</strong> </span>
-<span class="speaker"><strong>发言人1: </strong></span>
-反正我我我是不想一个人工作的，我觉得几个人一起工作才会是你起码得两个人，对吧？像我们做节目的两个人，做产品你起码两个人或者一个小团队，我觉得才是一件对我来说是一件开心的事情。
-</p>
-<p class="transcript-line">
-<span class="time"><strong>[00:22:35]</strong> </span>
-<span class="speaker"><strong>发言人2: </strong></span>
-就是呃脱离这个职场的话，其实跟社会的连接真的很少。这也是我自己，因为我我我老婆她现在是家庭主妇，我就发现他不工作的话，就是很难拓展那个社交圈了。这个事情感觉是如果你不主动的话，真的是几乎就是与世隔绝的感觉。然后线上的这些社交，你又觉得有一些不能说距离感，我觉得有种不真实感。
-</p>
-<p class="transcript-line">
-<span class="time"><strong>[00:23:12]</strong> </span>
-<span class="speaker"><strong>发言人1: </strong></span>
-就是你对不真实都是假的。
-</p>
-<p class="transcript-line">
-<span class="time"><strong>[00:23:14]</strong> </span>
-<span class="speaker"><strong>发言人2: </strong></span>
-对你跟这个人很熟感觉，但是肯定没有你俩见面聊得嗨，就是这样。对，而且我感觉因为我比你大几岁，我感觉就好像年纪越大，特别依赖于这个人际关系，就越来越依赖于人际关系。好像因为我我年轻的时候很讨厌人脉这个词，我现在其实有点对这个词有点灰色，就是我我不不是很讨厌这个词，因为有一部分人真的就是你很难界定他在你所有的network里面到底是什么样的定位。你说刚认识一个人，就算是一见如故，你肯定不可能把自己所有的这个信息全部交给他。然后即使是聊的很来，总得是来来回回几次才能建立一个信任感。有的人就是你即使对他没有信任感，但是也能合作做一些事情。所以像这类人你就真的很难界定他到底就是你的朋友，还是说你的合作伙伴。
-</p>
-<p class="transcript-line">
-<span class="time"><strong>[00:24:29]</strong> </span>
-<span class="speaker"><strong>发言人2: </strong></span>
-对，然后越到就越到现在有点这种利用跟被利用的感觉。我不能说利用这个词就是一个贬义词，就是它它不是贬义词。就换成英语的leverage，你会感觉别人在leverage你。
-</p>
-<p class="transcript-line">
-<span class="time"><strong>[00:24:49]</strong> </span>
-<span class="speaker"><strong>发言人1: </strong></span>
-你在leverage在撬你的杠杆。
-</p>
-<p class="transcript-line">
-<span class="time"><strong>[00:24:52]</strong> </span>
-<span class="speaker"><strong>发言人2: </strong></span>
-对然后这种感觉其实它不是对双方有害的，有的时候是双赢的。对，所以你很难界定这个人际关系之间怎么处理。所以如果我是做一个独立开发的话，我可能会想办法每周去去一个固定的就有一个固定流程去搜索。或者说每隔一段时间跟自己的朋友见个面什么的就聊一聊。对我觉得太需要这种线下见面聊天了。就有的时候我真的对，尤其是最近一年，也是觉得有时候很焦虑。你说我这么乐观的一个人，有时候也会觉得很焦虑，所以可见这种心理按摩的必要性还是在的。我最近感觉这个精神导师是越来越需要了。
-</p>
-<p class="transcript-line">
-<span class="time"><strong>[00:25:45]</strong> </span>
-<span class="speaker"><strong>发言人2: </strong></span>
-其实我现在有两方面的想法，一方面是我我可能会想找一个心理治疗师去去给自己的心理治病什么的修复。或者说因为身体我们每年都要定期检查，然后出现一些亚健康的状态的时候，你可能会去想办法去修复它。但是心理上我感觉尤其对于我们国人来说，很少接触这个领域，国内的这一套还不是特别完善。然后到了国外我发现几乎是所有人他们都有自己的一个，你可以理解成就是每周固定时间去找这个人聊天吐苦水，然后交换一些鸡汤什么的。就是这个作用它不一定是，它虽然title是什么心理治疗师或者是咨询师，但是他实际做的作用可能就是静静的听你大概半个小时，你说一些自己这周的困惑什么的。
-</p>
-<p class="transcript-line">
-<span class="time"><strong>[00:26:49]</strong> </span>
-<span class="speaker"><strong>发言人2: </strong></span>
-对我我觉得我这个是我需要的一方面的东西。其实我我倒是没那么严重，但是我是在想我们内心深处肯定是有一些比较阴暗的东西，就不想被别人看到，或者说自己也不想看到的东西。然后心理治疗师可能会就有点像一块伤疤，身体上一块伤疤，他会帮你慢慢的揭开，这个伤疤肯定比你自己揭开的时候要缓和很多。然后你也可以得到一个第三方的视角去看待自己的一些不想聊到的东西，或者说自己从来没想过的，自己心里有的一些病变之类的。对我我觉得病变这个词可能太严重，就是我自己其实没那么严重，但是我是会想完善自己心理的健康的。我我我有时候会好奇我自己，如果我现在觉得我心里是百分百健康，但是我会在想如果在心理治疗师的治疗下，我会不会达到一个200%的状态，或者说达到的那个200的状态才是我真正的百分之百的状态，就是是完全康复的状态。
-</p>
-<p class="transcript-line">
-<span class="time"><strong>[00:28:00]</strong> </span>
-<span class="speaker"><strong>发言人2: </strong></span>
-对，这个是我最近一直在想的一件事情。其实我在公司内部是有之前找过一个导师，然后两个导师之类的，有的是被安排的，有的是自己主动去找的。跟这些稍长自己几岁或者说年长自己很多，然后在不管是职业社会还是阅历上都比自己丰富的人，跟他们去聊天的话，我觉得会得到很多的启发。
-</p>
-<p class="transcript-line">
-<span class="time"><strong>[00:28:30]</strong> </span>
-<span class="speaker"><strong>发言人2: </strong></span>
-有的时候我我我经常会想，如果我是一个年轻人，以我现在的这个智商，以我现在这个心智去过我的初中大学，那我肯定是无敌对吧？但是我在初中大学的时候，也有肯定也有这种前辈跟我循循善诱说一堆是吧？我早就跟你这样说了，你还不听我的这种话，我是听不进去的。但是到我现在这个年纪，我又觉得很多事听，一个50岁的人跟我说，我是完完全全能听得进去的，然后我可能会认真的思考他说的每句话，然后去跟着他的这个路径去走，对我觉得是很有帮助的。
-</p>
-<p class="transcript-line">
-<span class="time"><strong>[00:29:14]</strong> </span>
-<span class="speaker"><strong>发言人2: </strong></span>
-之前我跟一个业界的非常有名的一个老师只聊了半个小时。然后我觉得那半个小时就有种让你脱胎换骨的感觉，你知道吗？他的每一句话，我感觉你现在想来就是浓浓的鸡汤。但是当他很认真的跟你说，而且关键是他就是这样身体力行的。他不是说作为一个，我告诉你这样做，这样做特别好，他就说我就是这样做的，然后你也能日常就看到他就是这么做的，就觉得他说的话很有说服力。
-</p>
-<p class="transcript-line">
-<span class="time"><strong>[00:29:50]</strong> </span>
-<span class="speaker"><strong>发言人2: </strong></span>
-比如说他他他跟我说我就是怎么说what IMS what I read，就是我读的东西造就了现在的我，然后他就把自己当成一个AI model。他说我每天就是keep learning，keep reading twenty four hours, 然后不停的把那些materials消化掉。他说我每天输出的时间肯定很少，我都在不停的input自己。然后他说只有这样他才觉得这个东西造就了他现在，就是他所有的阅读、所有的学习、所有的经历，造就了他现在的自己。然后他觉得他对世界一切都感兴趣，只不过恰好就是成为了现在这个样子。他说如果我不是做现在这个职业，我可能会以其他的形式存在。但是我一定还是要keep reading，keep learning.
-</p>
-<p class="transcript-line">
-<span class="time"><strong>[00:30:45]</strong> </span>
-<span class="speaker"><strong>发言人2: </strong></span>
-然后twenty four hours，他说他周六周日跟周一到周五完全没有区别，就是不停的在学习。然后他对世界任何事情都感觉，他说你只要跟我聊起来一个东西，我不知道，我会立马去学，然后立马去搜。然后我当时听的就是特别的振奋人心，你知道吗？然后他说你你你没有想到我这个人其实是没有个人生活，个人搜索的。他说我这个人基本不搜索的，都是别人来找我搜索。他说的时候就很很那种很认真，你知道吗？我当时听到觉得也蛮震惊。
-</p>
-<p class="transcript-line">
-<span class="time"><strong>[00:31:23]</strong> </span>
-<span class="speaker"><strong>发言人2: </strong></span>
-他说因为我的知识，我是在阅读24小时，别人在可能学8个小时就累了。所以当我以三倍的阅读量碾压他的时候，他就会主动来找我。他说只要我后来觉得我还能学习，就是跟对方学习，通过聊天的方式，那这个人一定是比我还厉害的人。我又是在input自己。所以他就说一定要有不停input的自己的这个逻辑在，然后整个人就会提升的特别快。我当时觉得震惊了，对，关键他自己做到了，我就觉得很害怕这种人。
-</p>
-<p class="transcript-line">
-<span class="time"><strong>[00:32:03]</strong> </span>
-<span class="speaker"><strong>发言人2: </strong></span>
-然后他非常严，他非常enjoy自己这过程。对，他说他就是把自己当成一个完全怎么说碎纸机，他说特别逗。对，除当然除了这一点，他还给了一些其他的建议。但是我大部分都是跟职场或者说其他的东西相关。
-</p>
-<p class="transcript-line">
-<span class="time"><strong>[00:32:26]</strong> </span>
-<span class="speaker"><strong>发言人2: </strong></span>
-但是我就想说以这样的一个精神导师，他用行动和语言感化你我觉得一下就会有一种拨云见日的感觉。很多事情我自己其实肯定有很多困惑，而且我自己也心里也知道答案。但是当一个这样的人去告诉你的话，你就会觉得它是真实的。然后你按着他的脚步走你也能达到这样的效果，就很还是很触动。你知道我只表达出了大佬表达的可能50%都不到，而且只是仅仅是这两三句话，我都觉得说的没人家的好。他说的语言很简单，他用的英语很简单，但是很有穿透力，我就觉得击穿我的心智，用阿里的话就是击穿心智了，我靠。
-</p>
-<p class="transcript-line">
-<span class="time"><strong>[00:33:15]</strong> </span>
-<span class="speaker"><strong>发言人1: </strong></span>
-我之前也有一段很困难的时间，就是每天都在想能不能有一个他好像全能的人一样的人来告诉我一个答案。但是我就觉得我可好像找谁都不对，甚至有时候我觉得连我自己连问题都不知道是什么，我都不知道我应该问什么问题，但是我就觉得我有一大堆问题不知道什么答案。
-</p>
-<p class="transcript-line">
-<span class="time"><strong>[00:33:44]</strong> </span>
-<span class="speaker"><strong>发言人2: </strong></span>
-是这种感觉，就我去跟我的导师去聊，跟我的们同学们去聊的时候，他们都不用我问问题的。你知道到了这个程度，就是我可能说我想问大概什么方面的内容。我可能刚起个半句话，他就说我知道你是什么困扰的，我你这种人见的太多了是吧？然后啪啪啪啪给你说一大堆。我觉得你一下就get到了，你好好懂。然后中间当然也有几次，也不能说几次，就是有那么一寥寥无几的几次，就是你会觉得这个人可能已经给不了你一些更多的东西了。
-</p>
-<p class="transcript-line">
-<span class="time"><strong>[00:34:30]</strong> </span>
-<span class="speaker"><strong>发言人2: </strong></span>
-后来就很幸运的遇到一个就是你想成为的人，成为了你的导师。太幸运了。他都不用说什么，你知道吗？他有时候就是在你面前坐着，你都能觉得他能给你一些能量，超夸张对吧？就是等坐在你面前的这个人，就是你将来十年后想成为的那个人。而且他成功的路径不能说完全一模一样，但是说他就是一个精神支柱站在你面前。你写的每一行代码，你都会觉得哇塞我可能就是在这个人百分之起步5%的阶段了，可能还需要再努力是吧？达到50%。
-</p>
-<p class="transcript-line">
-<span class="time"><strong>[00:35:12]</strong> </span>
-<span class="speaker"><strong>发言人2: </strong></span>
-我也不太奢求能完成完全成为人家。但是我会觉得有这样的精神导师在你面前，你写的那个你做任何事情都会非常有动力。关键是啥？关键是这个人，他这真的非常幸运，这个人正好是你想成为的那个人的时候，他会经历过你所有经历过的困惑。他甚至你都不就是我刚才说你不用问他他就能大概想到在你这个年龄段有什么什么困惑。你说人跟人之间确实每个人都不一样，但是能差多少呢？就是如果以一个50岁的人看30岁人的角度，或者说我现在30岁去看一个中学生，15岁他心里想的那点破事儿，我什么都知道，对吧？就这种感觉，对，就跟你知道那种感觉，就是把所有的书买回来也不看，但是摆在自己的旁边，你就会有种读了好多书的感觉，然后不停的心里暗示自己，然后最终就会成为一个博学的人。
-</p>
-<p class="transcript-line">
-<span class="time"><strong>[00:36:20]</strong> </span>
-<span class="speaker"><strong>发言人2: </strong></span>
-你知道就这种心理暗示其实是很恐怖的，就像我之前一直暗示自己是一个乐观的人，因为我我觉得我骨子里是一个悲观主义的人，我一直觉得我是乐观的。悲观主义就是我可能有时候心里有那么一瞬间会冒出这种虚无主义的想法。我会觉得世间什么事儿都是狗屁，就完全没有意义，活着都没有意义，这种感觉就虚无主义。但是我会强迫自己，比如说或者每天暗示自己，就暗示自己这个世界有很多事情是美好的。然后这样不停的暗示之后，你就会发现真的会变成一个乐观的人。所以我觉得心理暗示对自己一直是非常有用的。
-</p>
-<p class="transcript-line">
-<span class="time"><strong>[00:37:05]</strong> </span>
-<span class="speaker"><strong>发言人1: </strong></span>
-你刚刚提到mentor这个事情，其实也顺便让我想到一个我这这近一近近一两年来吧，一个挺大的感触，也是一个挺大的变化。就是以前我是一个就像你刚刚说的，就会仰望我的这个偶像学习的对象，对吧？然后近几年来就会突然发现，就是从线下的社交或者说网络上面的这种社交，就会发现有很多人开始把你当成一个学习的目标了。就他们愿意去听你的说的这种这些话。就以前我是一个默默无闻的，你看我写写博客都写了十年了，我可能前六七年都是没有什么人看。然后突然就开始有一些人来看，或者有一些人来感谢我，然后我就是就觉得这种体验还挺神奇的。
-</p>
-<p class="transcript-line">
-<span class="time"><strong>[00:38:09]</strong> </span>
-<span class="speaker"><strong>发言人2: </strong></span>
-你这么说倒是也有，但是每次我都会觉得因为他们还年轻。
-</p>
-<p class="transcript-line">
-<span class="time"><strong>[00:38:15]</strong> </span>
-<span class="speaker"><strong>发言人1: </strong></span>
-但是你不觉得你也经历过那种年轻，所以你会特别有感触吗？是的，然后对另外一个让我想到的事情就是说，我从这种默默无闻的网友，到现在有些人会听我们节目，或者说会看我们的博客的人，就从这个身份做了一个这样的转变之后，我就发现原来我们以前仰望的这些偶像，仰望的这些目标，其实也没有那么没有我们想象之中那么，对。
-</p>
-<p class="transcript-line">
-<span class="time"><strong>[00:38:52]</strong> </span>
-<span class="speaker"><strong>发言人2: </strong></span>
-怎么就也是一步一步走过来的一样。
-</p>
-<p class="transcript-line">
-<span class="time"><strong>[00:38:54]</strong> </span>
-<span class="speaker"><strong>发言人1: </strong></span>
-对，遇到的问我我们他遇到的问题跟我们遇到的问题是一样的。对，而且他们也不是说什么我们想象之中的所谓的大神，或者说这么的厉害，这么的什么的，只是说他比你做的更多了一些。比如说我就写博客，有些人就不写，我是比他们厉害吗？不是吧？我只是比他们做的更多了一点，我愿意把我想要分享的东西，觉得有价值的东西分享出来。然后别人看到我的博客那什么，然后就认识我。那不是因为我比另外一部分人厉害，只是说我比他们做的更多了一些。
-</p>
-<p class="transcript-line">
-<span class="time"><strong>[00:39:39]</strong> </span>
-<span class="speaker"><strong>发言人2: </strong></span>
-其实我觉得归根到底其实不是说你说我们就是多写博客，比如说我们现在在录podcast是为了什么？在很大程度上，我觉得最深层次的能驱动我们的东西还是好奇心。当然驱动我是好奇心，我不知道驱动你就是因为我可能会好奇，有些事情我觉得我是应该分享给大家的，然后我不知道这个对大家有没有帮助。但是我就特别好奇，我分享出去之后，大家觉得这个东西有没有帮助。我想知道我现在在做的事情是不是有用，我想知道大家对一些事情的看法，然后我想知道我说完一些事情之后，大家对我或者说对我的这个看法有什么评价。很多事情我也是一个百分百好奇的人。对，但是可能经历是没有那个大佬那么丰富。对。
-</p>
-<p class="transcript-line">
-<span class="time"><strong>[00:40:39]</strong> </span>
-<span class="speaker"><strong>发言人1: </strong></span>
-反正对经历这个没办法，这经历是需要时间来来来实现的。
-</p>
-<p class="transcript-line">
-<span class="time"><strong>[00:40:46]</strong> </span>
-<span class="speaker"><strong>发言人2: </strong></span>
-对我能理解。很多时候其实不是，我们就是按你刚才说，我们之前憧憬的偶像，其实也是一步一步走过来的。然后从年轻人角度看，我们现在可能会有一些些许的光环，就是一些虚无缥缈的光环，但是其实我们也是一步一步做东西，然后写东西，然后慢慢输出，这样一步一步走过来的。很多时候其实我们有时候都没有想过说自己做什么东西，背后会有什么能量，会有什么样的后果，会有什么样将来的价值，都没想过。比如说我们做这个博客，我们做之前是没有想过我们之后可能会对年轻人有什么帮助，这些都没想过。但是你只要做了，就是在这个世界上产出了一点东西，然后这个东西是总会被人看到的。
-</p>
-<p class="transcript-line">
-<span class="time"><strong>[00:41:36]</strong> </span>
-<span class="speaker"><strong>发言人2: </strong></span>
-你知道很多时候，有的人会他们找我那个弯弯聊天的时候，他们会问我说我写了一篇博客完全没人看。我说不可能没人看啊。我说哪怕是一个人两个人，或者我觉得至少有50个reuse，肯定是有人看过的。我说只要有人看，那就可以了。你不能说我从来没写过博客，然后我写两篇我就要有上万个人看我的博客，那不太可能，对吧？这个事情就是你你是一点一点往水里扔石头，击那个水花，你不可能第一下扔的那个水花就特别大，不可能？
-</p>
-<p class="transcript-line">
-<span class="time"><strong>[00:42:16]</strong> </span>
-<span class="speaker"><strong>发言人2: </strong></span>
-你肯定是慢慢的把那个整个水积起来，然后可能最后一颗石头怎么样，或者是某某颗石头，你突然激起了一个特别大的水花，从此大家发现了你这片蓝海？就感觉对，然后就是期望跟那个实际的产出是错配的。就是你可能比如说咱俩都写了10年的博客，那他们可能没有写这么多年，那他们就要期望达到说像我们俩现在一样的，这个怎么说就阅读量什么的，我觉得也不太现实，所以大家都是一步步走过来的。我在20岁的时候也是看redy博客走过来的一样，当时我也是露出了一种崇拜的眼神。
-</p>
-<p class="transcript-line">
-<span class="time"><strong>[00:43:03]</strong> </span>
-<span class="speaker"><strong>发言人1: </strong></span>
-看着软化了，夸张了。好了。
-</p>
-<p class="transcript-line">
-<span class="time"><strong>[00:43:06]</strong> </span>
-<span class="speaker"><strong>发言人2: </strong></span>
-一样的一样夸张了。
-</p>
-<p class="transcript-line">
-<span class="time"><strong>[00:43:08]</strong> </span>
-<span class="speaker"><strong>发言人1: </strong></span>
-没有你刚你这一集其实也跟我们好像前几集youtube什么的秘诀，做youtube频道的秘诀其实就是做的多。对你发100个视频你总有一天。
-</p>
-<p class="transcript-line">
-<span class="time"><strong>[00:43:20]</strong> </span>
-<span class="speaker"><strong>发言人2: </strong></span>
-会火的对，就是这样。我也觉得。
-</p>
-<p class="transcript-line">
-<span class="time"><strong>[00:43:24]</strong> </span>
-<span class="speaker"><strong>发言人1: </strong></span>
-所以我后来就我年轻的时候也是一样，就是觉得说发个博客没有人看，写写的开源项目没有star就不想做了。后来我就发现其实如果你去关注这些东西，来决定你要不要继续做的话，那只能说明你不相信这个东西，你不相信你产出了这个东西。如果你相信他的话，你无所谓他这个浏览量或者说这些数据怎么样。
-</p>
-<p class="transcript-line">
-<span class="time"><strong>[00:43:57]</strong> </span>
-<span class="speaker"><strong>发言人2: </strong></span>
-你做就对了。
-</p>
-<p class="transcript-line">
-<span class="time"><strong>[00:43:59]</strong> </span>
-<span class="speaker"><strong>发言人1: </strong></span>
-只要你觉得它是有价值的，你看我写写博客，我前几年我都没有人看的，但还是写我就觉得这个东西我写给自己看也挺不错的，而且我也相信他对别人是有用的就行了。对。
-</p>
-<p class="transcript-line">
-<span class="time"><strong>[00:44:17]</strong> </span>
-<span class="speaker"><strong>发言人2: </strong></span>
-其实有的时候写的时候，我我我大部分的文章，我到后期基本上都是有一种有一种输出的冲动。你很多时候抓住那个灵感，我觉得人的表达欲，尤其是我现在表达欲肯定没以前那么强了。我但凡有一点表达欲的时候，我就赶紧写下来，要不然我怕我过段时间这个东西就不想写了，而且甚至有的时候我会写下来。你知道很多时候有有比如说一篇文章，我可能在有灵感的时候，就有表达的欲望，说先写个一段话，或者把后后来后来再补充个一两段话，然后其实是可以发了，但是你就会不想发。因为你觉得可能不够完美，或者说觉得这种东西大家都知道没必要写出来之类的。所以我有的时候我会就是我发出来的文章大部分都是我当下写完一口气合成，然后直接就发了，毫不犹豫，不要不要纠结什么这个东西有没有人看，不要纠结写的好不好，也不要纠结说有没有价值，完全不要管这些。你有表达欲的时候，抓住写下来，然后发出去就你但凡迟疑一秒钟或者迟一个一天，你就会没有发出去的欲望了。
-</p>
-<p class="transcript-line">
-<span class="time"><strong>[00:45:34]</strong> </span>
-<span class="speaker"><strong>发言人2: </strong></span>
-这个冲动其实都是转瞬即逝的，所以我很多时候都是抓住自己三分钟热度。那个三分钟热度一定要抓住，做一些事情对他的尤其是有那个冲动的时候，那个效率绝对是比没有冲动的时候效率高太多了。写代码也是这样的对吧？你想到一个idea去优化你的产品的时候，那个效率肯定是比你绞尽脑汁想一个改进的这个方法，然后去绞尽脑汁的写要快多了。
-</p>
-<p class="transcript-line">
-<span class="time"><strong>[00:46:08]</strong> </span>
-<span class="speaker"><strong>发言人1: </strong></span>
-说回离职这个话题，就是离职之后的变化，就是还会去想自己擅长的东西是什么。因为以前在厂里面工作，你就是一个很specific的，你要你你做了很很具体的事情。比如说你你写前端，你就写前端，你不用管这么多，你写全，你好好写这个前端页面，你就有薪水，对吧？不用管这么多。所以你就不会去想说你到底是不是真正擅长这个东西，到底是你会做这个东西，还是说你的特长就是这个东西。比如说你写写代码，你会写代码跟你擅长的是不是写代码是两回事。
-</p>
-<p class="transcript-line">
-<span class="time"><strong>[00:46:52]</strong> </span>
-<span class="speaker"><strong>发言人2: </strong></span>
-我get到了如果把事情分成我应该去做的和我想要做的，和我擅长做的。你是觉得在变成个人开发之后，应该着眼于自己擅长做的，而不是其他两种，对吧？
-</p>
-<p class="transcript-line">
-<span class="time"><strong>[00:47:11]</strong> </span>
-<span class="speaker"><strong>发言人1: </strong></span>
-对，就是因为你一个人干，或者说你一个团队去干的时候，你就会觉得说你的时间是有限的。因为你身兼数职身身兼数职了。
-</p>
-<p class="transcript-line">
-<span class="time"><strong>[00:47:26]</strong> </span>
-<span class="speaker"><strong>发言人2: </strong></span>
-就是我们可以call back回刚才那个公司，就是因为公司里面有很多资源你可以利用，然后你自己开发的话资源太有限了，所以你一定要集中自己的火力，发挥自己的优势，我觉得我有一个阶段，就是年轻时候接外包的那个阶段，就是有一种别人付费让我去学习的感觉。我就一定要用上最新的技术，最花里胡哨的东西。然后每天你说那个代码的工作量，可能我可能比如说一个外包一个月就做完了。但是由于我深陷入各种花里胡哨的fancy的feature里面，我可能会花两个月的时间才能搞定它。如果我用我最擅长的技术，那可能别说一个月半个月说不定就搞定了。但是就是你要享受那个学习的过程，所以就是花的时间会很长。现在做个人开发，你肯定不可能把不实用的东西肯定会要剔除掉，要不然真的很难把事情做完。
-</p>
-<p class="transcript-line">
-<span class="time"><strong>[00:48:33]</strong> </span>
-<span class="speaker"><strong>发言人1: </strong></span>
-昨天我听那个破印第骇客他们最新那集不是讲他们开发那个pot wise的经历吗？它里面提到有一个就是说他们用next JS的那个server action。然后他们说他们用了之后还挺多坑。有一天next又发了一个新版本，说什么构建速度提高了20%，然后这个什么什么速度又提高了50%。那他一看那肯定要升一下，对吧？然后医生发现那个super action就出了各种各样的问题，而且都是很隐蔽的对，然后一番操作之后还是把它回滚。
-</p>
-<p class="transcript-line">
-<span class="time"><strong>[00:49:19]</strong> </span>
-<span class="speaker"><strong>发言人2: </strong></span>
-对，那现在就是作为一个个人开发者，你的时间肯定很有限。那你是怎么样安排自己的一天的？你有什么个人的作息习惯吗？
-</p>
-<p class="transcript-line">
-<span class="time"><strong>[00:49:28]</strong> </span>
-<span class="speaker"><strong>发言人1: </strong></span>
-现在我每天睡醒了就是刷twitter，刷twitter是因为要了解每天在发生最新的事情是什么。我觉得twitter虽然很烂，但是达到这个目的，twitter已经是最好的工具了。是就是你朋友在重要是你关你朋友在关注的最新的事情是什么，这也很重要。就你崇拜的那些人，他们在关注的最新的东西是什么？是我觉得这对我来说还是挺重要的一个每天都需要知道的东西。然后刷完之后就想一下今天有什么事情要做。其实最近我要做的事情已经不算太多了，就代码上的事情已经不多了。
-</p>
-<p class="transcript-line">
-<span class="time"><strong>[00:50:14]</strong> </span>
-<span class="speaker"><strong>发言人2: </strong></span>
-你会提前规划吗？这些就是你会比如说做to do list，或者说你或者给自己设一个什么deadline之类的吗？
-</p>
-<p class="transcript-line">
-<span class="time"><strong>[00:50:23]</strong> </span>
-<span class="speaker"><strong>发言人1: </strong></span>
-不会，就很随意。是我i&#x27;m not a planner，但是我会记下来，如果真的有东西要做的话，我会记下来。对，然后就是可能睡前会看书，睡前看书基本是没没不出意外都会都会的。我每天看书的时间基本就是我睡前半个小时1个小时这样子。睡前我觉得这是一个比较适合的时间去看书或者处理一下自己的那些稍后读的文章。
-</p>
-<p class="transcript-line">
-<span class="time"><strong>[00:50:55]</strong> </span>
-<span class="speaker"><strong>发言人2: </strong></span>
-读文章我现在都是集中周六周日去读了，周一到周五一点都不想看。前段时间看到有一个人说治疗失眠的方法，其中有一条很重要，就是说你白天一定要把自己的精力全部释放光。如果你在你的工作上，比如说你能做到100分，但是你肯定就想浑水摸鱼，或者划划水，就跟同事聊聊天。只做到了60分，那你肯定晚上会有一些焦虑，觉得今天又浪费了一天。但是如果你全力以赴把这个工作做到了100分，那你晚上不会有这种感觉。所以你晚上就会下班之后会很放松，然后想玩玩游戏，听听歌，看点自己喜欢的视频，反正完全没有负罪感。然后到了该睡觉的点儿就很快就会睡着了，我以前没有这种感觉，其实就说明在工作上没有花百分百的精力。你最近在看什么书？
-</p>
-<p class="transcript-line">
-<span class="time"><strong>[00:52:03]</strong> </span>
-<span class="speaker"><strong>发言人1: </strong></span>
-我最近就是跟你说的，最近一本就是模仿欲望。然后还有elon musk的那个专辑。
-</p>
-<p class="transcript-line">
-<span class="time"><strong>[00:52:16]</strong> </span>
-<span class="speaker"><strong>发言人2: </strong></span>
-你看的还挺新的，都是听完你说最近在读的书，我有我有三个问题，你看我现在就有能力记住所有要问的了。第一个问题就是你会同时读多本书吗？
-</p>
-<p class="transcript-line">
-<span class="time"><strong>[00:52:35]</strong> </span>
-<span class="speaker"><strong>发言人1: </strong></span>
-会。
-</p>
-<p class="transcript-line">
-<span class="time"><strong>[00:52:37]</strong> </span>
-<span class="speaker"><strong>发言人2: </strong></span>
-但是你同时读多本书不会有一种这种怎么说上下文切换的这种问题。不会。你想你一天。
-</p>
-<p class="transcript-line">
-<span class="time"><strong>[00:52:47]</strong> </span>
-<span class="speaker"><strong>发言人1: </strong></span>
-就看半场长篇小说。
-</p>
-<p class="transcript-line">
-<span class="time"><strong>[00:52:49]</strong> </span>
-<span class="speaker"><strong>发言人2: </strong></span>
-对，你一天看半小时1个小时，你可能明天就忘了自己今天看了什么这种。对。
-</p>
-<p class="transcript-line">
-<span class="time"><strong>[00:52:56]</strong> </span>
-<span class="speaker"><strong>发言人1: </strong></span>
-只有小说会这样子。所以我现在很少看小说了，我很想看我很少看虚构类的作品了。如果是虚构类的，我会一我会连着读完。
-</p>
-<p class="transcript-line">
-<span class="time"><strong>[00:53:06]</strong> </span>
-<span class="speaker"><strong>发言人2: </strong></span>
-那那我第二个问题就是你看这种书会全部从头到尾看完，还是说就是挑自己感兴趣的章读一下。
-</p>
-<p class="transcript-line">
-<span class="time"><strong>[00:53:17]</strong> </span>
-<span class="speaker"><strong>发言人1: </strong></span>
-虚构类的非虚构类的我就会跳的，我会看目录跳，我会我以前会很有洁癖想要从头到尾看完，后来我发现根本没必要。就是我发现现在跳着读书很爽，就看目录，自己感兴趣的就看。就比如一楼musk那个传记，我就不会从头到尾看我对他以前发生过的事情一点兴趣都没有我就从比如说我会挑着看他这个特斯拉这个公司从成立到他拯救特斯拉这个过程，我就会挑这几张看。然后他收购X我也会看，就挑着看就行了。其他没兴趣的没有，不用强迫自己看。
-</p>
-<p class="transcript-line">
-<span class="time"><strong>[00:53:59]</strong> </span>
-<span class="speaker"><strong>发言人2: </strong></span>
-这个我应该跟你学习一下。对我就是那种必须要一个字，我连前言都一字不落就很痛苦。其实有时候会把读书当成一种任务，对，本来就是一件享受的事情，然后一有这种任务感就会觉得读不下去，很难受。第三个问题就是你是从哪知道这些书的？
-</p>
-<p class="transcript-line">
-<span class="time"><strong>[00:54:21]</strong> </span>
-<span class="speaker"><strong>发言人1: </strong></span>
-其实就是你接触的社交网络，你follow的那些人。
-</p>
-<p class="transcript-line">
-<span class="time"><strong>[00:54:25]</strong> </span>
-<span class="speaker"><strong>发言人2: </strong></span>
-不过我跟你不一样，我一般都是去图书馆，直接去去那个书架上去看。这样我之前在杭州也喜欢去图书馆，就那种公共的图书馆，就办那种市民卡，你就可以去。对，然后其实我觉得还很有氛围的，比比那个咖啡馆我觉得更好一点。有些人就跟在上学一样，就跟在大学的图书馆一样，他会写写画画在那里。
-</p>
-<p class="transcript-line">
-<span class="time"><strong>[00:54:53]</strong> </span>
-<span class="speaker"><strong>发言人1: </strong></span>
-对，然后我不是很喜欢你。
-</p>
-<p class="transcript-line">
-<span class="time"><strong>[00:54:55]</strong> </span>
-<span class="speaker"><strong>发言人2: </strong></span>
-不是很喜欢。
-</p>
-<p class="transcript-line">
-<span class="time"><strong>[00:54:57]</strong> </span>
-<span class="speaker"><strong>发言人1: </strong></span>
-不对，我不是很喜欢这种氛围。
-</p>
-<p class="transcript-line">
-<span class="time"><strong>[00:55:00]</strong> </span>
-<span class="speaker"><strong>发言人2: </strong></span>
-是啊太认真了，他们这就是你辍学的原因了。
-</p>
-<p class="transcript-line">
-<span class="time"><strong>[00:55:06]</strong> </span>
-<span class="speaker"><strong>发言人1: </strong></span>
-我告诉你，我高中前两年天天在学校图书馆就课都不上的那种，上政治课我必逃，这也是为什么我高中成绩突然变差了的原因。我发现我逃课没人管我，我觉得很爽。地理课政治课我都会去学校图书馆里面看书，疯狂看书。我看到我那个借书证都已经烂掉了。
-</p>
-<p class="transcript-line">
-<span class="time"><strong>[00:55:32]</strong> </span>
-<span class="speaker"><strong>发言人2: </strong></span>
-没有我跟你是相反的，你知道吗？我的政治特别好，我政治大概能考100分。我考100分是因为他卷面只有100分。
-</p>
-<p class="transcript-line">
-<span class="time"><strong>[00:55:44]</strong> </span>
-<span class="speaker"><strong>发言人1: </strong></span>
-太牛逼了，想不到我不行。
-</p>
-<p class="transcript-line">
-<span class="time"><strong>[00:55:47]</strong> </span>
-<span class="speaker"><strong>发言人2: </strong></span>
-我的文科都挺好的。我我我历史一般，历史课一般不太会听，然后地理课我听得非常认真，我特别喜欢地理。对，但是历史为啥不听？因为我已经都知道了，就那些就一般历史教材发下来，还没开学我就已经看了好多遍了。
-</p>
-<p class="transcript-line">
-<span class="time"><strong>[00:56:08]</strong> </span>
-<span class="speaker"><strong>发言人2: </strong></span>
-对我比较喜欢文科，然后语文课我是真的一句都不听。语语文课我永远是在做化学，因为我化学比较差。我都不知道我为什么要学理科，真的是我我就应该学一个文科专业。我在推特上也说，我应该学一个文科专业。那编程这种东西反正能自学。然后大学你就选一个文科专业入学，你看郭宇就是对吧？我跟财富自由的人就差在这儿了，你知道吗？
-</p>
-<p class="transcript-line">
-<span class="time"><strong>[00:56:36]</strong> </span>
-<span class="speaker"><strong>发言人1: </strong></span>
-我地理是很差，我最差是地理。我们当时那个班是体育生跟我们混在一起的，我们那个班有十个体育生，所以有一次因为体育生他们课业也不太好，因为他们不怎么上课。然后有一次我那个地理老师有一次他把我叫去办公室，他说你这个地理作业不交，然后这个成绩也这么差。你虽然是体育生，但是你也不应该这样子。
-</p>
-<p class="transcript-line">
-<span class="time"><strong>[00:57:11]</strong> </span>
-<span class="speaker"><strong>发言人2: </strong></span>
-然后我说那你说我不是地方。
-</p>
-<p class="transcript-line">
-<span class="time"><strong>[00:57:15]</strong> </span>
-<span class="speaker"><strong>发言人1: </strong></span>
-然后我说。
-</p>
-<p class="transcript-line">
-<span class="time"><strong>[00:57:16]</strong> </span>
-<span class="speaker"><strong>发言人2: </strong></span>
-我不是体育生。
-</p>
-<p class="transcript-line">
-<span class="time"><strong>[00:57:21]</strong> </span>
-<span class="speaker"><strong>发言人1: </strong></span>
-然后语文我也不怎么听课，但是我跟你一样，我跟你的地理，跟你的历史一样。语文课语文只要他把那个卷子或者练习册发下来，里面所有的阅读理解我都要看一遍。然后语文课本也是，语文课本我直接就看看看一遍。然后那个练习册我最喜欢他们发练习册，就是因为里面有很这么这么厚的练习册，里面有很多阅读理解。我就特别喜欢从那个阅读里面理解里面去看那些有一些是民国的民国时期的一些作品，有一些是当代作品，我就会在里面看到很多这种就跟你看书一样的，没错，而且它是一个很好的渠道，让你去发现新的书。这就是本期节目的所有内容。
-</p>
-<p class="transcript-line">
-<span class="time"><strong>[00:58:12]</strong> </span>
-<span class="speaker"><strong>发言人1: </strong></span>
-如果你喜欢我们的节目，欢迎通过爱发电成为我们的小粉丝。对，或者在小宇宙也可以赞赏我，赞助我们哔哩哔哩。对，哔哩哔哩跟youtube留言，留言就好了。其实也不一定要花钱对吧？起码可以留个言，感谢一下我们的付出，让我们知道我们录这个节目还是能帮助到人的，就OK了。如果你有什么职业发展或者说生活上的烦恼，也可以通过我们show note里面的链接给我们来信。我们会在听众来信这个栏目里面解答大家的问题，谢谢大家，拜拜。
-</p>]]></content:encoded>
-            <pubDate>Fri, 06 Oct 2023 09:00:00 GMT</pubDate>
-            <guid>651bb5a519dde7bf6aed7201</guid>
         </item>
     </channel>
 </rss>
