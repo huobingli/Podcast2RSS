@@ -4,9 +4,691 @@
         <title>人民公园说AI</title>
         <link>https://www.xiaoyuzhoufm.com/podcast/65257ff6e8ce9deaf70a65e9</link>
         <description>❤️算法之外，数据之上！</description>
-        <lastBuildDate>Thu, 20 Mar 2025 17:41:18 +0800</lastBuildDate>
+        <lastBuildDate>Thu, 27 Mar 2025 04:41:21 +0800</lastBuildDate>
         <item>
-            <title>YC新成员95%代码由AI生成，“口述型”产品经理崛起？｜Cursor+Claude3.7重构编程</title>
+            <title>Gemini放大招：谷歌老矣，百度尚能饭否？｜聊聊谷歌和百度的第二曲线</title>
+            <link>https://www.xiaoyuzhoufm.com/episode/67e3c4cf51d887b229fed533</link>
+            <description>（截止发稿，Gemini2.5带AI搜索的Google上线了）今天借此我们聊聊是不是Google老了？一旁的百度尚能饭否？
+01:30 虽迟但香的Gemini2.0 Flash。让我觉得谷歌像个中年人，上有老下有下，瞻前顾后。不过抖一抖家底还是很厚的～
+Google近期发布了Gemini 2.0 Flash，增强了多模态能力，并推出了Deep Research 2.0、Canvas和Audio Overview等新功能，提升了AI的研究、协作和内容转换能力。
+18:03 N次打脸的百度，AI时代还能打吗？聊聊谷歌和百度躺在现金流水上，发育不全的第二曲线
+百度发布了新一代预训练模型“文心大模型4.5”和推理模型X1，声称X1性能可与DeepSeek-R1媲美且成本更低；同时，百度搜索业务全面接入DeepSeek和文心大模型的深度搜索功能；此外，副总裁谢广军的13岁女儿因“开盒”他人隐私信息引发公众关注，谢广军对此公开致歉
+33:18 每到AI的转折点，李开复博士一定会上来敲黑板~
+NVIDIA GTC大会上，英伟达CEO黄仁勋发布了新一代AI芯片Blackwell Ultra和Vera Rubin，展示了在AI推理和机器人技术方面的重大进展。 与此同时，李开复在采访中表示，随着开源模型的崛起，OpenAI的商业模式可能难以为继，并预测未来只有DeepSeek、阿里巴巴的Qwen和字节跳动的模型等三家大模型能够持续发展。
+【关注主播】：
+📕小红书：叫我小苏就好啊
+📺B站：叫我小苏就好啊
+📱微信：Roisu117
+【关注频道】：
+📕小红书：人民公园说AI
+▶️油管：人民公园说AI
+🐦推特：人民公园说AI</description>
+            <content:encoded><![CDATA[<h1>转写链接</h1>
+<link>https://tongyi.aliyun.com/efficiency/doc/transcripts/2yjoqzbrxa4bq68l</link><br>
+<h1>节目摘要</h1>
+<div class="summary">讨论集中于谷歌与百度在人工智能领域的竞争态势，以及双方面临的挑战。一方担忧谷歌在AI技术上落后，但认为其深厚积累可能助其后来居上；另一方则指出百度虽投入巨大，但因商业化与内部管理问题，在大模型和技术创新方面受阻。提及李开复观点，大模型竞争可能仅剩少数玩家。讨论强调AI技术、开源模型和企业级应用的重要性，指出在快速变化的AI领域保持竞争力需关注前沿研究与最新成果。整体而言，讨论凸显了寻找创业机会和在大公司内部推动技术创新的难度与机遇。</div><br>
+<h1>章节速览</h1>
+<div class="chapters">
+<div class="chapter-item">
+<span class="time"><strong>[00:00:00]</strong> </span>
+<span class="chapter-title"><strong>谷歌与百度的AI竞争与技术迭代</strong></span>
+<div class="chapter-summary">对话围绕谷歌和百度在人工智能领域的竞争展开，讨论了谷歌近期的更新，特别是其deep research功能的惊艳表现，以及谷歌深厚的内功使其在AI领域保持竞争力。同时，提到了百度在AI领域的努力和面临的挑战，包括其新推出的模型和公司内部的风波。此外，还探讨了谷歌内部技术迭代的加速，尤其是deep mind团队在AI基础研究方面的贡献及其与外部应用的快速结合。</div>
+</div>
+<div class="chapter-item">
+<span class="time"><strong>[00:05:34]</strong> </span>
+<span class="chapter-title"><strong>谷歌和百度的AI搜索策略与未来展望</strong></span>
+<div class="chapter-summary">对话围绕谷歌和百度在AI搜索领域的进展与挑战展开。谷歌不断迭代其产品，包括整合AI搜索、AI博客等实验室功能，以及最近的AI更新，显示出其在AI领域的活跃探索。然而，谷歌的AI搜索功能仍停留在实验阶段，仅在特定条件下触发，未能充分满足用户需求。相比之下，其他应用如小红书、知乎和抖音等正在分流传统搜索引擎的市场份额，各自成为特定内容领域的搜索引擎。AI有潜力整合这些分散的信息源，为用户提供综合答案，可能引发用户需求的转变。同时，谷歌和百度面临着寻找第二增长曲线的挑战，尽管拥有大量现金流，但在开发新的成功产品方面进展有限。讨论还涉及组织文化、战略方向等因素对创新的影响。</div>
+</div>
+<div class="chapter-item">
+<span class="time"><strong>[00:09:36]</strong> </span>
+<span class="chapter-title"><strong>大公司创新困境与小企业自由探索</strong></span>
+<div class="chapter-summary">讨论指出，无论是个人还是公司，追求经济收益是推动发展的关键动力。以Google收购DeepMind为例，分析了大公司在面临创新和传统业务冲突时的困境，特别是在需要平衡创新项目与主要收入来源之间的矛盾。同时，对比了初创公司如OpenAI在资金和资源有限的情况下，因其无束缚而拥有更多创新自由的优势。结论强调，大公司若要保持技术领先地位，必须摆脱对传统收入的依赖，勇于创新。</div>
+</div>
+<div class="chapter-item">
+<span class="time"><strong>[00:13:36]</strong> </span>
+<span class="chapter-title"><strong>AGI创新与商业垄断的博弈</strong></span>
+<div class="chapter-summary">对话围绕AGI（人工通用智能）领域的创新与商业公司垄断之间的关系展开。早期，马斯克和山姆奥特曼等人网罗人才时，这些人才并不完全清楚目标，但他们看到了AGI的潜力和避免商业垄断的重要性，尤其是避免被谷歌等大公司完全垄断。虽然创业公司拥有自由度，但资源有限，难以成功。Open AI通过与微软合作，获得了足够的资金，但也因此部分违背了其初衷，转而采取商业公司的方式运作。讨论指出，资源的束缚可能反而促进创新，因为过多的资源和诱惑可能导致人们不愿意冒险创新。</div>
+</div>
+<div class="chapter-item">
+<span class="time"><strong>[00:15:42]</strong> </span>
+<span class="chapter-title"><strong>互联网巨头的官僚主义与业绩压力</strong></span>
+<div class="chapter-summary">对话深入探讨了百度和谷歌两家公司在快速发展过程中遇到的问题，特别是官僚主义的严重性和被业绩绑架的现象。讨论者指出，尽管这两家公司特别努力且盈利能力强，但随着规模的扩大，管理与组织文化的问题日益凸显，导致内部矛盾和对外形象的负面影响。特别是技术创始人的能力和视野可能不足以支撑如此庞大的企业，导致了公司内部的官僚化和部门对立。此外，讨论还提到了百度在AI领域的挑战和压力，以及其在搜索和云服务上的相对落后，从而质疑其AI舰队的维系能力和模型的领先性。</div>
+</div>
+<div class="chapter-item">
+<span class="time"><strong>[00:19:17]</strong> </span>
+<span class="chapter-title"><strong>百度AI技术商业化过度影响技术突破</strong></span>
+<div class="chapter-summary">百度在AI技术领域投入巨大，技术储备丰富，但其商业化策略过度干扰了技术突破。尽管百度推出了文心一言等产品，但创业者反映，百度更关注如何将其产品商业化，而非提供实质性的技术支持和模型迭代，这导致其核心大模型并未显著超越竞争对手。此外，百度的高成本和捆绑销售策略也让开发者和企业感到负担，缺乏选择百度服务的必要性。相比之下，其他创新公司更注重开发者的需求并提供补贴和支持，而百度则更多地由销售导向，这让技术圈内人士感到被算计和过度商业化。百度虽然在非AI业务上有所盈利，但在AI领域的商业化策略可能成为其发展的硬伤。</div>
+</div>
+<div class="chapter-item">
+<span class="time"><strong>[00:23:35]</strong> </span>
+<span class="chapter-title"><strong>百度AI商业化困境与技术挑战</strong></span>
+<div class="chapter-summary">讨论集中在百度在AI领域的商业化挑战和技术难题。近年来，尽管百度在AI领域投入巨大，但该领域大部分项目处于亏损状态，且存在商业化衡量标准的压力，导致其发展方向可能变得不伦不类。特别提到百度在DeepMind技术发布后决定开源，但技术团队未提前准备，需耗费六个月时间从闭源转向开源，这一转变不仅被动，还影响了原有大模型的迭代进度，从而可能影响技术领先性和商业表现。百度目前面临技术难以达到顶尖甚至下滑，以及商业上可能守不住搜索市场的综合困境。</div>
+</div>
+<div class="chapter-item">
+<span class="time"><strong>[00:25:23]</strong> </span>
+<span class="chapter-title"><strong>专注与创新：打造伟大公司的关键</strong></span>
+<div class="chapter-summary">对话强调了专注在构建伟大公司中的重要性，指出过度分散的业务和过多的思考可能影响专注力。以DeepMind为例，展示了专注在特定领域（如大语言模型）所带来的成功。同时，讨论了Google在AI领域的策略，指出其更多采取保守的防守姿态，而非义无反顾地追求最先进技术，这可能限制了其在未来社会中的影响力。最终，提出在AI时代，产品思路需要转变，以适应新的市场需求和技术发展。</div>
+</div>
+<div class="chapter-item">
+<span class="time"><strong>[00:28:36]</strong> </span>
+<span class="chapter-title"><strong>专注与协同：公司成长中的关键要素</strong></span>
+<div class="chapter-summary">对话围绕公司成长中专注与协同的重要性展开。一方认为，真正的专注并不意味着只做一件事情，而是找到核心业务后，围绕这个核心进行相关业务的延伸和协同，形成有机的关联和成长。而像Google、百度这样的公司，虽然核心业务是搜索，但其后续的业务与核心关联性不大，导致组织庞大但效率低下，大部分人的工作没有产出。此外，还探讨了国内创业公司普遍存在的问题，即公司做大更多出于对权力的渴望，而非实际业务需求，导致资源浪费和管理效率下降。最后，提出了AI创业阶段，小公司更具活力和效率，公司间通过AI协作，无需大量人力沟通即可实现高效合作的观点。</div>
+</div>
+<div class="chapter-item">
+<span class="time"><strong>[00:30:58]</strong> </span>
+<span class="chapter-title"><strong>李开复与杨丽坤对AI大模型未来的预测</strong></span>
+<div class="chapter-summary">在最近的外媒采访中，李开复表达了对OpenAI模式持续性的质疑，并预测大模型市场最终只会剩下三家，包括国内的deep sick和一家未提及的公司，以及国际上的Google、OpenAI和cloud。这一观点与NVIDIA的GTC大会上，Meta首席科学家杨丽坤的看法不谋而合，杨丽坤认为当前基于token处理的大模型训练方式无法实现AGI，暗示未来AI发展方向需重新审视。尽管目前行业仍在沿用该方法，但对未来的AI路径存在广泛争议和不确定性。</div>
+</div>
+<div class="chapter-item">
+<span class="time"><strong>[00:34:12]</strong> </span>
+<span class="chapter-title"><strong>李开复的AI应用私有化部署与企业服务商业化转型</strong></span>
+<div class="chapter-summary">对话讨论了李开复将其AI项目转向私有化部署和企业服务的聪明策略，强调了这种转型在定制化服务和持续盈利方面的优势。通过将大模型团队整合至通义，专注于中间件和应用开发，李开复可能找到了一个可持续盈利的商业模式，尤其是在企业服务领域。此外，对话还提到了李开复在第一季度就接近实现去年全年收入的目标，显示出转型后的显著成效。最后，讨论转向了AI基础设施建设的重要性，以及开放生态对于推动行业整体发展的关键作用。</div>
+</div>
+<div class="chapter-item">
+<span class="time"><strong>[00:38:01]</strong> </span>
+<span class="chapter-title"><strong>AI时代创业机会与算力需求</strong></span>
+<div class="chapter-summary">对话聚焦于AI时代的创业机会，特别是李开复和黄仁勋等人的观点和市场动态。讨论指出，尽管市场对AI算力的需求存在质疑，但AI技术的普及为小型企业和项目提供了大量创业机会。强调了提出和解决实际问题的重要性，以及AI技术如何可能颠覆现有商业巨头，为创业者提供了广阔的前景和机遇。同时，提到了算力已不再是主要障碍，而是如何找到和解决好问题成为关键。</div>
+</div>
+<div class="chapter-item">
+<span class="time"><strong>[00:41:17]</strong> </span>
+<span class="chapter-title"><strong>关注谷歌前沿技术助力AI创业</strong></span>
+<div class="chapter-summary">创业者应密切关注谷歌的最新研究成果，尤其是那些在理论上有突破但尚未完全工程化应用的领域，这为创业者提供了机会。谷歌的开放性使其研究成果成为创业者借鉴和创新的宝贵资源。此外，通过收听谷歌研究员的播客，创业者可以获取一手信息，加深对前沿技术的理解。这种关注和学习有助于在AI领域发现新的创业机会。</div>
+</div>
+</div><br>
+<h1>问题回顾</h1>
+<div class="qa-item">
+<div class="question"><strong>Q:</strong> 最近百度的情况怎么样？</div>
+<div class="answer"><strong>A:</strong> 百度在接了deep sick后，在被批评后又推出了新模型，并且副总裁因开合事件引发争议。百度与谷歌类似，都面临第一曲线强大而第二曲线续力不足的问题。</div>
+</div>
+<div class="qa-item">
+<div class="question"><strong>Q:</strong> 你用完Google的deep research后，感觉如何？</div>
+<div class="answer"><strong>A:</strong> deep research背后谷歌做了很多底层的工程化和模型调整。它是一个独立的模型，不同于普通大模型简单加一点就工作。尽管从周期上看可能较慢，但最终成果扎实，虽不惊艳却稳定可靠。</div>
+</div>
+<div class="qa-item">
+<div class="question"><strong>Q:</strong> 对于诺曼底团队在平回归后的表现有何看法？</div>
+<div class="answer"><strong>A:</strong> 诺曼底团队回归后进步迅速，半年内的迭代速度比以前快很多，很多基础研究成果不仅被内部采用，也很快被外部世界所借鉴和应用。</div>
+</div>
+<div class="qa-item">
+<div class="question"><strong>Q:</strong> 谷歌在AI领域的态度和动作是怎样的？对于谷歌近期的AI搜索功能有何评价？</div>
+<div class="answer"><strong>A:</strong> 谷歌仍然非常饥渴地探索新技术，不断在APP中加入实验室功能，如AI搜索和AI博客等，并且这些功能的迭代速度加快，感觉更加统一。例如，no book LM的一些功能已被整合进GM I中，同时AI搜索也展现出一定的刚需潜力。谷歌的AI搜索功能经过迭代后变得更加强大，能够完成诸如生成播客等实用任务，并且在生成论文级别的大纲方面表现出色，让人印象深刻。</div>
+</div>
+<div class="qa-item">
+<div class="question"><strong>Q:</strong> 谷歌AI搜索目前的应用情况是怎样的？</div>
+<div class="answer"><strong>A:</strong> 谷歌的AI搜索目前还停留在实验功能阶段，只在特定条件下（如英文环境）触发部分AI功能，例如置顶结果或校验内容准确性。尽管在边缘功能上表现不错，但其整体应用范围相对较窄。</div>
+</div>
+<div class="qa-item">
+<div class="question"><strong>Q:</strong> 当前搜索领域的格局发生了哪些变化？</div>
+<div class="answer"><strong>A:</strong> 搜索领域已经从中心化转向去中心化，各大APP如知乎、小红书和抖音等各自成为各自内容领域的搜索引擎，如抖音成为视频搜索引擎，小红书变为图文搜索引擎。同时，AI技术整合了这些来源的结果，为用户提供一站式搜索体验。</div>
+</div>
+<div class="qa-item">
+<div class="question"><strong>Q:</strong> 对于互联网巨头百度在搜索后的其他产品发展，您有何看法？</div>
+<div class="answer"><strong>A:</strong> 百度在搜索之后很难再找到一款让人印象深刻且能形成第二增长曲线的产品，部分原因可能是百度在面对新机遇时未能及时调整战略，以及在自动驾驶等领域的投入未见显著成效。</div>
+</div>
+<div class="qa-item">
+<div class="question"><strong>Q:</strong> 公司发展到一定阶段后，为何会面临挑战并错过机会？</div>
+<div class="answer"><strong>A:</strong> 当公司变得非常赚钱时，往往趋于保守，不愿冒险和创新，这就像个人生活改善后不再追求冒险一样。而像Google这样的大公司，在面对新兴技术时，由于内部体制、审核流程等问题，导致新事物难以孕育和成长，从而错失机会。</div>
+</div>
+<div class="qa-item">
+<div class="question"><strong>Q:</strong> 为何大公司如Google难以摆脱对广告业务收入的依赖并成为技术领先者？</div>
+<div class="answer"><strong>A:</strong> 大公司如Google深陷于对既有商业模式的依赖，如果不能摆脱对广告业务收入的过度依赖，就难以再次成为技术前沿的领导者。而初创公司在早期虽然资源有限，却拥有探索未知、自由发展的空间，反而可能在技术和创新上取得突破。</div>
+</div>
+<div class="qa-item">
+<div class="question"><strong>Q:</strong> 当初马斯克和山姆奥特曼他们去网罗人才时，为什么会有那么多人愿意加入他们？</div>
+<div class="answer"><strong>A:</strong> 大家之所以愿意加入，是因为他们看到了AGI（通用人工智能）领域的巨大机会，并且不想让自己陷入被商业公司如谷歌完全垄断的局面。</div>
+</div>
+<div class="qa-item">
+<div class="question"><strong>Q:</strong> 创业公司在资源和自由度方面存在怎样的矛盾？</div>
+<div class="answer"><strong>A:</strong> 创业公司虽然相对自由，但缺乏资源时会面临很大困难。例如OpenAI在初期通过微软的资金支持得以实现目标，某种程度上达成了初衷，但这是一种权衡的结果。</div>
+</div>
+<div class="qa-item">
+<div class="question"><strong>Q:</strong> 从创新的角度来看，资源束缚是否有助于创新机会？</div>
+<div class="answer"><strong>A:</strong> 资源上的束缚有时可以激发创新机会，因为过多的诱惑可能导致缺乏创新动力，只有在极限挑战下才可能产生真正的创新。</div>
+</div>
+<div class="qa-item">
+<div class="question"><strong>Q:</strong> 您如何看待百度和谷歌这两家公司的发展和管理问题？</div>
+<div class="answer"><strong>A:</strong> 百度和谷歌都经历了从技术创业公司到大型企业的转变，过程中都表现出努力但同时也存在官僚主义严重的问题。百度在管理上可能被业绩绑架，缺乏有效的文化建设和团队凝聚力。</div>
+</div>
+<div class="qa-item">
+<div class="question"><strong>Q:</strong> 对于百度目前的AI模型及其领先地位，您怎么看？</div>
+<div class="answer"><strong>A:</strong> 百度在技术储备上并不差，但由于商业化干扰较大，尤其是在ChatGPT等新兴技术出现时，百度未能给予创业者足够的支持和迭代优化其模型，反而过于关注商业应用和盈利模式，这可能影响了其在AI领域的长期发展优势。</div>
+</div>
+<div class="qa-item">
+<div class="question"><strong>Q:</strong> 百度在AI技术商业化方面表现如何？对比其他AI公司，百度在技术和商业化方面的表现有何不同？</div>
+<div class="answer"><strong>A:</strong> 百度在AI技术商业化上取得了不少成果，产品线完善且面向销售和商业化，但其核心技术（大模型）相较于业界顶尖水平并未有显著超越。开发者可能会因为价格、全盘采用百度产品以及对其他AI平台的顾虑而犹豫不决，导致百度在技术和商业上的竞争力受到挑战。其他一些创新公司在技术方面更受欢迎，它们对开发者开放并持续提供补贴和技术支持。相比之下，百度更侧重于商业化的运作模式，销售人员往往比技术人员直接与开发者接触，这种过于侧重商业化的方式让部分开发者感觉被“算计”和“被弄过去”，从而对百度的好评有所保留。</div>
+</div>
+<div class="qa-item">
+<div class="question"><strong>Q:</strong> 百度开源计划是否准备充分？</div>
+<div class="answer"><strong>A:</strong> 百度在大模型开源计划上显得较为被动，原本专注闭源研发的团队需临时调整方向进行开源准备，这导致了技术迭代速度放缓，可能影响到百度在技术领域的领先地位。开源计划的准备不充分反映出百度在面对新技术趋势时的应对策略和组织灵活性问题。</div>
+</div>
+<div class="qa-item">
+<div class="question"><strong>Q:</strong> 对于创业者来说，专注的重要性体现在哪里？</div>
+<div class="answer"><strong>A:</strong> 专注对于创业者至关重要，他们需要在一个领域持续投入，而非朝三暮四。像DeepMind这样的公司因其高度专注在大语言模型上而取得显著成就，这种专注度是伟大公司的重要基石，因为它致力于创造有价值、对社会有贡献的新事物，而非仅仅为了商业需求或短期利益而创业。</div>
+</div>
+<div class="qa-item">
+<div class="question"><strong>Q:</strong> 在未来的几年中，Google作为一个商业公司表现如何？</div>
+<div class="answer"><strong>A:</strong> 我认为Google在未来几年仍可能是一个表现不错的商业公司，其股市表现也可能较好，因为它能继续利用自身资源制造话题。但在未来人类社会中，它是否仍能发挥举足轻重的作用，则未必。在我个人看来，现在我对Google产品的使用已经显著降低，仅限于chrome浏览器、邮箱等基础工具，而以前常用的如Google翻译、搜索等已不再是我必需的，因为市场上出现了更多更好的替代品。</div>
+</div>
+<div class="qa-item">
+<div class="question"><strong>Q:</strong> 专注的理解是否是指只专注于一件事情做到极致？</div>
+<div class="answer"><strong>A:</strong> 不是这个意思。我理解的专注更多是指找到一个核心点，例如搜索，并围绕这个核心进行延伸，各个部分之间存在协同关联，共同成长。而像Google和百度这样的公司，虽然都围绕搜索这个核心，但其拓展的其他业务之间关联性不大，导致组织庞大而分散，大部分人的工作产出并不能带来显著贡献，这种状态显得较为尴尬。</div>
+</div>
+<div class="qa-item">
+<div class="question"><strong>Q:</strong> 国内一些创业公司做大是因为什么原因？</div>
+<div class="answer"><strong>A:</strong> 国内很多创业公司做大往往源于对权力的渴望，表现为公司规模大、人员众多，老板一声令下大家纷纷响应，营造出一种繁荣景象。但实际上，这种模式下的公司效率可能并不高，超过一定规模后，管理沟通等方面的效率会急剧下降。</div>
+</div>
+<div class="qa-item">
+<div class="question"><strong>Q:</strong> AI创业阶段，您认为理想的公司规模应该是怎样的？</div>
+<div class="answer"><strong>A:</strong> 我认为在AI创业阶段以及未来，理想的公司规模应该是小而精，最好是20人以下的小公司，这样的公司能够保持高效协作，并且公司间可通过AI技术实现无交流沟通的合作。因为随着公司人数增多，管理沟通等方面的效率会指数级下降。</div>
+</div>
+<div class="qa-item">
+<div class="question"><strong>Q:</strong> 您如何看待李开复博士关于OpenAI模式难以为继以及最终市场只会剩下三家的看法？</div>
+<div class="answer"><strong>A:</strong> 李开复博士的观点与近期一些业界专家的看法相似，他们认为基于当前大模型训练方式（如OpenAI所采用的scaling law）难以实现真正意义上的AGI（人工智能的通用性），并且像OpenAI和 Nvidia 这样的公司也无法仅靠现有路径继续领先。李开复博士将业务转向应用层面，尤其是将DeepSeek私有化部署，这一举措非常聪明且及时。</div>
+</div>
+<div class="qa-item">
+<div class="question"><strong>Q:</strong> 大模型团队通义的定位是什么？国外在AI模型应用上有什么特点？</div>
+<div class="answer"><strong>A:</strong> 通义团队可能在做中间件工厂，致力于开发能够批量生成各种应用并整合不同大模型的中间件。国外可能采用不同的开源模型，并且可能从商业化的角度进行较大变化，以实现持续盈利。</div>
+</div>
+<div class="qa-item">
+<div class="question"><strong>Q:</strong> 通义在商业化方面有哪些变化和成果？</div>
+<div class="answer"><strong>A:</strong> 通义在企业服务领域找到了现金流盈利的方式，去年通过DP Sig产品获得了一亿多美金的收入，并且今年第一季度接近完成同样金额的订单，表现出了较强的商业化成功。</div>
+</div>
+<div class="qa-item">
+<div class="question"><strong>Q:</strong> 对于AI基础建设的发展状况有何看法？</div>
+<div class="answer"><strong>A:</strong> 目前AI的基础建设还很欠缺，如同电脑的type c接口虽然普遍，但应用较少，未来很多基础通信将由AI自动完成，这将带来数万甚至数百万级的应用需求。</div>
+</div>
+<div class="qa-item">
+<div class="question"><strong>Q:</strong> 李开复老师在AI应用生态中的角色是什么？</div>
+<div class="answer"><strong>A:</strong> 李开复老师可能正在努力卡住企业级应用生态的一个好生态位，希望有更多人参与进来共同推动生态繁荣。</div>
+</div>
+<div class="qa-item">
+<div class="question"><strong>Q:</strong> 黄仁勋在GTC演讲中表现如何，以及市场对DPC需求的质疑点是什么？</div>
+<div class="answer"><strong>A:</strong> 黄仁勋的演讲较为平淡，未超出市场预期的新东西，引发了对未来算力需求真实性的质疑。但在中国创业市场中，AI包括开源环境确实存在大量机会。</div>
+</div>
+<div class="qa-item">
+<div class="question"><strong>Q:</strong> 创业者应如何看待谷歌的新研究和成果？</div>
+<div class="answer"><strong>A:</strong> 创业者应密切关注谷歌等顶级研究机构的新研究，因为它们虽然可能不会直接去做应用，但其理论性能突破会给创业者带来工程化和应用层面的机会。同时，谷歌在底层前沿技术的开放程度较高，值得创业者关注并从中获取灵感。</div>
+</div>
+<h1>节目文稿</h1>
+<p class="transcript-line">
+<span class="time"><strong>[00:00:00]</strong> </span>
+<span class="speaker"><strong>发言人1: </strong></span>
+Google老矣，百度尚能饭否？
+</p>
+<p class="transcript-line">
+<span class="time"><strong>[00:00:03]</strong> </span>
+<span class="speaker"><strong>发言人2: </strong></span>
+搞的这种文学。
+</p>
+<p class="transcript-line">
+<span class="time"><strong>[00:00:06]</strong> </span>
+<span class="speaker"><strong>发言人1: </strong></span>
+上周gi的一些更新还是很厉害的。包括他的那个deep research，然后还有一个什么canvas功能，我都用了一下，我觉得还是蛮惊艳的。大家都会以为说谷歌可能在这一波AI会不会掉队了。但其实我觉得他还有很深厚的内功，能够让他可以后发制人的。所以想说今天聊一下这个话题，然后结合一些八卦，最近百度的新闻也比较多，对吧？
+</p>
+<p class="transcript-line">
+<span class="time"><strong>[00:00:34]</strong> </span>
+<span class="speaker"><strong>发言人1: </strong></span>
+百度好像说接了deep sick以后，被众人骂骂完以后自己又推出了一个新的模型，号称是很强，我也不知道强不强。好死不死模型发了几天，他副总裁又出事了，那个什么什么开合的事情对吧？对，就搞得整个大家对于百度的的这种褒贬不一，评判等等。其实在这一波里面，百度也算是一个起的大早赶了晚集。所以我想说这两家公司有相似性，都是第一曲线特别强，然后第二曲线续不上这样一个情况。所以且当一个笑谈，我们今天来聊一聊。
+</p>
+<p class="transcript-line">
+<span class="time"><strong>[00:01:21]</strong> </span>
+<span class="speaker"><strong>发言人1: </strong></span>
+对，然后先问一下老秋，就是你你用完这个p research以后，你的感觉是怎么样的？
+</p>
+<p class="transcript-line">
+<span class="time"><strong>[00:01:31]</strong> </span>
+<span class="speaker"><strong>发言人3: </strong></span>
+他们背后其实做了很多真的底层的工程化和模型的调整。其实这个东西有一个概念是挺重要的。就是很多人可能以为deep research只是普通大模型加了一点点，然后就能工作了。其实不是。其实特别是谷歌还有OpenAI，他们都是从都是用重新训练的方式重新训练一个模型。就是他的你可以注意到他不是在卷面那边直接掉的。他实际上是他你要去选一下那个deep research，然后他他才去那个deep research，实际上它是一个独立的模型。对那他的整个的能力的话当然有问题。
+</p>
+<p class="transcript-line">
+<span class="time"><strong>[00:02:10]</strong> </span>
+<span class="speaker"><strong>发言人3: </strong></span>
+我们说我一直觉得说网上流传的一个比喻是比较贴切的，就是像是个中年男人的那种问题。我这个中年男人又要持家，又要有撑冷面，还对外得有很好的得体的谈吐，还得注意到各种各样的正确，特别是全球范围的各种各样的正确肤色重对吧？这个性别，然后很多的这个方面有非常多的东西，他得都得照顾好，所以他做做这个东西，一般来说我们从周期上来讲都慢。别人3到6个月才能够把菜给端上来。端上来的时候一看，人家那个可能都已经迭代过了的，他现在才刚刚上，人家六个月前拿出来的，心态差不多是这样子的。但是他拿出来的东西你不会不会说绝对不会感觉他差，但是就是不觉得惊艳，其实就是这么个问题，其实就跟我们很多不是说中年男人，可能经常你看中年男人拿出来的这个讲的话，或者是交付的方式，就是稳对吧？我可能也不经验，但对，但是我这个东西就是人有我也有，然后人无我有可能人家没有的，我可能又还能够搞得那个好一点，是吧？大概是这样，我也没比他好多少，但我能力比他又好一点点，大概是这样子的一个状态，能维持住，也就是像你刚才讲的那个第一曲线太强了，他这个第二曲线其实就是说也没有那么大的压力。
+</p>
+<p class="transcript-line">
+<span class="time"><strong>[00:03:33]</strong> </span>
+<span class="speaker"><strong>发言人3: </strong></span>
+我就最近是听了一下，他们有一个很很有意思的博客，是那个诺曼底。中文不知道是怎么翻译，是诺曼还是谁，其实就是那个character AI的那个那个CEO，他是不是后来我们去年在聊他的时候，他后来被并购回去了吗？其实就把团队给并回去了。对，他是那个transformer attention is oil need的里面的联合作者，然后还有另外一个联合作者，他们有一个采访，其实就是他们现在在平，应该说回去刚好半年差不多。他们就讲了说这半年其实是一个进步特别快的。这一段时间就是说他们自己都会觉得自己的迭代比以前快很多。以前他们基本上就是出最基本的发一个transformer的论文，然后后面搞一些各种各样的博客，发一下还有一下。然后接下来就很多人借着他们的博客或者论文就能突破了，包括open OAI，OpenAI很多的都是基于他们的理论去做的。
+</p>
+<p class="transcript-line">
+<span class="time"><strong>[00:04:32]</strong> </span>
+<span class="speaker"><strong>发言人3: </strong></span>
+然后他们自己其实做的比较慢，因为像在他们有个很重要的分支是deep deep mind，就是搞阿尔法狗的那那他们其实在半年前做的很多新的东西，像jm的这些新的东西，很多新的还有transformer的一些新的东西。包括像这个Norman是也是早期的MOE混合专家训练的最早提出的几个人，这些都是deep seek后面又在优化过的东西，所以这些东西的话他们都是奠基人。他们在说这一年时间他们其实很多这种基础的东西再拿出来。不光是外面的人用的快，他内部的人现在都用的很快。他内部很多的像deep mind的这边是非常close了。他们就是那个进的一些搞出来的新东西都会很快，在他们那边就会有人用起来。用了以后大家会发现外面也会很快有人用起来，就是这个速度，他说比前面几年的速度都会快很多。虽然说外面可能大家会感觉好像谷歌比较慢，但是从他们的角度，他们觉得他们也现在被加速了很多，是这么个节奏。
+</p>
+<p class="transcript-line">
+<span class="time"><strong>[00:05:35]</strong> </span>
+<span class="speaker"><strong>发言人1: </strong></span>
+是是我我看谷歌其实还是挺挺饥渴的。因为你你如果打开谷歌的APP，你就会发现它其实一直在做一些实验室功能。包括AI搜索，它也做成了一个实验室功能，包括AI博客这些能力。然后其实迭代的我可以看得出他组织背后的整个产品的方向，迭代其实是非常活跃的。但有可能不是很统一的那个感觉。
+</p>
+<p class="transcript-line">
+<span class="time"><strong>[00:06:01]</strong> </span>
+<span class="speaker"><strong>发言人1: </strong></span>
+但是这次german I的这个更新，让我感觉说这种有点统一起来了。你看像之前很火的no book LM的一些功能就直接被整合上去。Audio overview就直接生成播客，你传一个文档它就可以生成播客，这个能力就被整合进去了。然后包括他我们做这集播客的很多的素材，也是用deep research去帮我们做的长推理，然后做的调研，然后查了几百条的信息源，来给我们生成了一个大纲，虽然我还没认真看。
+</p>
+<p class="transcript-line">
+<span class="time"><strong>[00:06:34]</strong> </span>
+<span class="speaker"><strong>发言人3: </strong></span>
+其实看不完。他现在随便一生成就是十几页。
+</p>
+<p class="transcript-line">
+<span class="time"><strong>[00:06:38]</strong> </span>
+<span class="speaker"><strong>发言人1: </strong></span>
+太长了。就论文级别的大纲，我就觉得就是不明觉厉。但是我就是觉得在下不配谷歌，是不是努力错了方向呢？你看这么久的一个近一年来的一个演变，包括他收购了这个cake点AI然后他原本那个bug也被毙掉了，变成gm I对吧？然后包括AI搜索已经被证明是一个还蛮刚需的或者还不错的一个场景了。
+</p>
+<p class="transcript-line">
+<span class="time"><strong>[00:07:06]</strong> </span>
+<span class="speaker"><strong>发言人1: </strong></span>
+但是在这一块上面，谷歌的AI搜索还一直停留在实验功能，或者他只做了一些边角的功能。我上次有分享给你们，就是有可能你要在英文的环境下，你才能触发他的AI的搜索。那可能只是在置顶的那一块的结果。或者是说你用AI让居民去生成一些内容的时候，你可以用google搜索去校验它这个内容的准确性。但仅仅是这一些边角的功能，虽然做的还不错。其实像我几个月前也做了一个博客，就是在聊小红书的日搜索量已经达到了百分百度的1半了。这个趋势其实到今天来看已经是晚了，因为这个趋势在去年已经非常明显了。
+</p>
+<p class="transcript-line">
+<span class="time"><strong>[00:07:51]</strong> </span>
+<span class="speaker"><strong>发言人1: </strong></span>
+各种的APP它已经分流了搜索的这个搜索的份额。比如说有些答案在知乎，有些内容在小红书，然后也是有些东西在抖音，包括抖音自己也变成了一个搜索引擎了。那就变成说时代又回到了最早google百度帮别人做站内的搜索引擎。然后现在又回到了各大战，又自己又变成了自己这个内容载体的搜索引擎。比如抖音变成了视频的搜索引擎，小红书变成了图文的搜索引擎，对吧？那知乎可能变成专业问答的搜索引擎，那他又被分流了，就被各个APP给分流，又又回到一个去中心化的时代。然后现在AI又把它给结合起来，就是他可能无法直接把这些结果给你，但是他可以整合这么多的地方的搜索的结果给你一个答案。那可能整个用户的需求可能又会面临到一个改变。
+</p>
+<p class="transcript-line">
+<span class="time"><strong>[00:08:47]</strong> </span>
+<span class="speaker"><strong>发言人1: </strong></span>
+那你刚才说你看他们现在可能还赚着非常多的钱，非常大的现金流，可能其实他们也意识到了危险的到来。但是其实很多努力，我总感觉是就是这个第二曲线续不上，很多努力其实是徒劳的。你看百度在搜索之后，还有没有任何能够让你记得住的产品，我觉得你现在想一想应该是没有的，要么卖掉了，要么就是自己作死了，对吧？最近还闹出了一个集约他撤资的事情。在自动驾驶上面好像也没有特别，所以说真的旭成了他的第二曲线。所以你那两位认为说这个原因是什么呢？真的是只是因为他特别赚钱吗？还是有组织的，还是有文化的，还是有等等的原因呢？
+</p>
+<p class="transcript-line">
+<span class="time"><strong>[00:09:37]</strong> </span>
+<span class="speaker"><strong>发言人2: </strong></span>
+我觉得我先表达一下，我觉得本质就是应该他特别赚钱。为什么这么说？举个例子，如果说像咱们小家庭一样，如果我们不赚钱对吧？那大家可能比如说家庭里面很多矛盾，大家会吵架，贫贱夫妻百事哀，对吧？但是同样我们大家都会想更更多想的是赚钱，就怎么去赚钱，去改善生活。然后很多时候我们会就就是很多时候我们愿意冒风险，我们愿意去努力，甚至说为了多赚点钱，我们少睡点觉对吧？但是如果你有了钱之后，很多时候你不愿意去冒险，或者说你没必要去冒那些险，你可以花钱去解决吗？
+</p>
+<p class="transcript-line">
+<span class="time"><strong>[00:10:09]</strong> </span>
+<span class="speaker"><strong>发言人2: </strong></span>
+好多能力你都不需要了，对吧？那我们干嘛还需要自己去走路呢？我们有能是有车开，然后为什么还要自己开车？有司机对吧？
+</p>
+<p class="transcript-line">
+<span class="time"><strong>[00:10:16]</strong> </span>
+<span class="speaker"><strong>发言人2: </strong></span>
+那这些时候的话，作为个人来讲，我们的生活水平提高了，我们的可以去享受生活。但是公司其实也一样，有了更多钱，那我们就要做很多。怎么说呢？就是说非必要，但是是可以做的事儿，就锦上添花的事。这个其实涉及到很具体的问题了，我觉得不必要在这讨论。
+</p>
+<p class="transcript-line">
+<span class="time"><strong>[00:10:35]</strong> </span>
+<span class="speaker"><strong>发言人2: </strong></span>
+但是咱就回归到这个本身，咱就以google举例。因为百度毕竟是国内企业，我们不方便多说。就google举例，你说他当年收购deep mind对吧？然后成为了最有潜力做成人工智能的企业。然后这也侧面的应该叫直接的，激发了OpenAI的产生。因为当时就是为了对抗google，所以马斯克他们这帮人才会成立OpenAI对吧？然后那可是问题是就是deep mind被收购之后，他和google的那个brian就本身的团队两个水火不容，在内部打的一塌糊涂。
+</p>
+<p class="transcript-line">
+<span class="time"><strong>[00:11:06]</strong> </span>
+<span class="speaker"><strong>发言人2: </strong></span>
+对然后最后做出来东西，因为又又需要几个部门传签。因为为什么要什么法务部、伦理部，各种地方去审核？因为不能影响到广告业务，广告业务是它的所有的生命来源。对我之所以这么浪，就是因为我有钱赚的我才能浪。对，然后那那这些东西，所有的新东西都不能影响到我赚钱的根本。
+</p>
+<p class="transcript-line">
+<span class="time"><strong>[00:11:26]</strong> </span>
+<span class="speaker"><strong>发言人2: </strong></span>
+这变成什么了？这变成就是说新东西往往会被被会被会被挑战，或者说会被先被敌视，那在内部就很难产生了。他养这些人进来，反倒是把这些人养死了。就好像本来是一只很牛逼的狼，结果你给弄进来变成狗。然后你还想让狗变成那特别能看家护院，不可能。它之所以牛逼，就是因为它在野外生长它才牛。所以这就造成了说他最后错过了整个机会。所以我并不觉得是决策问题或者整个事物发展这个阶段。咱们中国人其实最明白就是朝代是不可能永续的对吧？
+</p>
+<p class="transcript-line">
+<span class="time"><strong>[00:11:58]</strong> </span>
+<span class="speaker"><strong>发言人2: </strong></span>
+就算最长的朝代就是周朝也才八百多年，那这中间还是还其实还是春秋战国，真正的就是后面朝代基本就几百年。那哪个朝代不希望自己长治久安，哪个皇帝不希望自己千秋万代，还写资治通鉴，还看史记。每个人都学历史经验，有哪个真正能把自己朝代做在七年以上？就不可能。所以我觉得任何公司也差不多，对吧？我们所谓的百年企业很多都是很小的公司，他们就是靠一个一些很简单的所谓的东西，能够有一些固定消费者什么样。但作为大公司来讲，我觉得很难的。所以对于像像google这样的公司，我认为他现在如果不能摆脱自己对广告业务收入的依赖，不能够直接装上断腕的话，他不可能再成为技术的领先者。
+</p>
+<p class="transcript-line">
+<span class="time"><strong>[00:12:42]</strong> </span>
+<span class="speaker"><strong>发言人3: </strong></span>
+然后我说一下，其实我觉得有一个最近有一个评论讲的跟这个有关。其实他浓缩一句话就叫做说束缚才是自由。其实他们现在的一个状态就是说我他因为是成功者，已经在已经在领先。那这个阶段其实他好像看起来是自由的，但其实他有很多束缚。像反而是创业者，像OpenAI这种后面做的，虽然他也有很多问题，到现在这个阶段，但是相对而言他是有很多的束缚。就是说他没有钱，也没有太多的研究员，也没有其实要做什么也不知道，他全部都得靠自己去探索。就是他的束缚是在于全部都不确定，但是他要去把自己活下来的那条想活下来或者想拿到的那个结果，当时是为了对抗google这个结果拿到，那他反而是有相应的自由，他什么事情都可以去搞，什么事情都敢干，对吧？
+</p>
+<p class="transcript-line">
+<span class="time"><strong>[00:13:36]</strong> </span>
+<span class="speaker"><strong>发言人3: </strong></span>
+当时什么当我我们看我I早期有马斯克和山姆奥特曼他们去网罗人才的时候，其实很他们网罗到的人才是真的都不知道自己要去干什么的，我们都愿意去跟他干。因为他们就是看到了AGI这个机会，而且也看到了你要去对抗的是不要去沦入一个商业公司的，就比如说被被谷歌这样子完全垄断掉。因为当时就大家看得出来是垄断，虽然有很多各种各样的方式好像在拆他，再让他降慢一点，但是你没办法阻止他是事实上的垄断。对，那大家就是会就这么一个出发点，大家愿意去干嘛？
+</p>
+<p class="transcript-line">
+<span class="time"><strong>[00:14:12]</strong> </span>
+<span class="speaker"><strong>发言人3: </strong></span>
+虽然说好像有很多的束缚，但是大家其实很自由。这个东西就是我觉得到最后来讲，我是觉得挺我从刚才贤哥讲的那个角度是可能是很本质的问题。就是确实可能就是挣钱太多了，所以他最后会变成这样子。
+</p>
+<p class="transcript-line">
+<span class="time"><strong>[00:14:29]</strong> </span>
+<span class="speaker"><strong>发言人3: </strong></span>
+但是我觉得说刚才我想讲的这个点就是，虽然说创业公司他算没有那么多的束缚，可以自由去做。但是没有这些资源，确实也是特别的特别特别难去做成。就是open I它其实能做成，后面还是其实还是出卖了自己的初心，就是去去找到了这个大腿，微软去把这个拿到了足够多的钱，然后去真正的把它做起来。现在也想转回一个商业公司闭环的那本来也一直在那个封闭的情况，不是真正的open，然后也是用商业公司的方式去运作了。但是他的他还是能某种程度上达成了他的一些目标。那那这个过程就是说我觉得可能没有绝对的一个对错。
+</p>
+<p class="transcript-line">
+<span class="time"><strong>[00:15:17]</strong> </span>
+<span class="speaker"><strong>发言人3: </strong></span>
+但是确实就是如果从创新的角度来讲，你得有这种资源上的束缚，你可能比较容易有创新的机会。否则你其实从人的本质来讲，是没有办法去让自己创新的。因为你你有太多的东西诱惑你不去做创新，你会躺躺在一个地方，不会去做这个创新。只有逼到极致了，你可能才有这是我觉得是这么一个情况。
+</p>
+<p class="transcript-line">
+<span class="time"><strong>[00:15:43]</strong> </span>
+<span class="speaker"><strong>发言人1: </strong></span>
+但从我的角度，我觉得两家都是特别努力的公司，哪怕他们赚钱特别多，但这两家公司都特别的努力。但是又有一个共性，又特别的官僚。我不知道大家有没有感觉，百度我们可能不方便说太多，因为多少都会在国内会有接触。Google的话，你其实从产品线上，包括他做的一些事情上面，你可以感受到他官僚主义特别严重。
+</p>
+<p class="transcript-line">
+<span class="time"><strong>[00:16:09]</strong> </span>
+<span class="speaker"><strong>发言人1: </strong></span>
+我在想我的一个角度是什么呢？2000年那个时候的互联网浪潮，然后赶上了大运，然后一个技术创始人走上了他人生的巅峰。然后他的能力其实并不足以去支撑这么大的一家公司。你像包括到后期谷歌的两位创始人也退下来，换上了职业的经理人施密特对吧？那这个背后肯定有很多政治的因素，有很多党派的因素在里面了。最后谷歌变成了这样一家公司。
+</p>
+<p class="transcript-line">
+<span class="time"><strong>[00:16:38]</strong> </span>
+<span class="speaker"><strong>发言人1: </strong></span>
+你看所有在宣扬硅谷的这个餐食堂多好，对吧？那个公司有滑滑梯这一套的组合拳的包装，然后包装它的自由？包装它的整个无拘无束的工作环境。你想一想哪一件事情跟它的主业有关，其实都是在做一些锦上添花的一些炒作，更多的是带有一些意识太色彩的一个包装。所以你在今天来看你会看得非常明显，就是公司做大了，你hold不住了，你控制不住了。坦白说你像百度这样的公司，李彦宏是一个非常nice的老板没错。但是你在看他下面去卖广告的团队是什么样的。
+</p>
+<p class="transcript-line">
+<span class="time"><strong>[00:17:18]</strong> </span>
+<span class="speaker"><strong>发言人1: </strong></span>
+对，那你为什么会相信他？或者是说你为什么到最后会变成尾大不掉？这里面其实有非常多值得我们去思考的原因。所以我在想说从我的角度来讲，从团队上面来看，其实他们的共性除了特别赚钱以外，我觉得还有一点就是已经是某种程度上被业绩绑架了，有点尾大不掉。然后在组织的文化上面，它是忽视去建设的，特别是技术创始人会非常忽视去做文化上面的建设。导致于整个官僚，包括整个这种，包括销售部门跟技术部门的对立。我觉得都可以从一些旁枝末节里面，大家可以去窥探12。
+</p>
+<p class="transcript-line">
+<span class="time"><strong>[00:18:04]</strong> </span>
+<span class="speaker"><strong>发言人1: </strong></span>
+我看到最近百度有一些新闻，他百度又出了一个新模型对吧？之前是因为接了deep sick被人家骂的要死，然后最近赶紧又出了一个新模型，想给自己长长脸，又出了他副总裁那个开合的事情。我又联想到之前他又丢了苹果AI的合作等等等等这些东西。再再往前想他还李彦宏还公开讲过，开源就是智商税。就没有一件事情他不是打脸的。我觉得这个事情打脸打一次也就够了，打脸打五次，我觉得这也是绝了。
+</p>
+<p class="transcript-line">
+<span class="time"><strong>[00:18:37]</strong> </span>
+<span class="speaker"><strong>发言人3: </strong></span>
+也是短时间内连续打脸。
+</p>
+<p class="transcript-line">
+<span class="time"><strong>[00:18:40]</strong> </span>
+<span class="speaker"><strong>发言人1: </strong></span>
+这个就意想不到的连续打脸对吧？
+</p>
+<p class="transcript-line">
+<span class="time"><strong>[00:18:42]</strong> </span>
+<span class="speaker"><strong>发言人3: </strong></span>
+平均每两个月打一次。
+</p>
+<p class="transcript-line">
+<span class="time"><strong>[00:18:44]</strong> </span>
+<span class="speaker"><strong>发言人1: </strong></span>
+对，但是我们抽丝剥茧来看，老兄你觉得百度的模型它现在领先性还在吗？或者他实际上它的优势是什么？你看谷歌，还有谷歌云，还有谷歌搜索，两个东西还能够作为它的支撑。那百度它搜索量其实你看都已经被小红书快快快赶超了，对吧？然后它的云这一块可能也没有像谷歌云这么强大，那它还有什么来维系他这么大的一个AI的舰队呢？你觉得它的模型现在还有什么可以打的地方吗？
+</p>
+<p class="transcript-line">
+<span class="time"><strong>[00:19:18]</strong> </span>
+<span class="speaker"><strong>发言人3: </strong></span>
+其实百度应该说基就是说它它从技术上，你可以讲他的技术储备不会很差的，很他这个投入也很大，他早期都差点把今年那个新盾就是获得诺贝尔奖的那个人工智能支付，他都差点把他给请过去了。只是当时PK没PK过谷歌，被谷歌给抢走了。对，其实他当时的眼光，我是觉得已经是非常好了。当时敢出了很高的天价去请他们，只是最后还是没有人家出的多。人家出的实在太狠了，那硬是把人给抢走了。但是这里面就是你比如说他看他做了很多动作也没做错。但是这里面从技术储备上来讲，我觉得可能真的受到了大量的商业化的干扰。
+</p>
+<p class="transcript-line">
+<span class="time"><strong>[00:20:04]</strong> </span>
+<span class="speaker"><strong>发言人3: </strong></span>
+就我们比如说在去年和前年这两个很好的时间，就是ChatGPT刚出来国内完全没模型的时候，他不是文心一言这个东西比较早出了。但是出了之后，我们马上发现它的最大的问题就是我们自己在创业者中间发现的最大的问题。就是他他想的没有说我们没有看到他一个模型怎么样迭代的一个东西给到创业者，反而是告诉创业者你怎么用我这个东西进入到它的生态里面，在哪里训练，怎么搞钱，每天搞一次多少钱，私有化部署一下多少钱，然后各种各样的东西弄一下，怎么样搞一下钱，然后怎么样充值一下这个服务会更好，又是搞钱。反正就是你搞到最后，在那个时候你作为一个创业者，你觉得你没有得到他太多的帮助。虽然说好像业务能跑，但是你到处都在准备要搞我钱的那种感觉，就就是那种感觉。
+</p>
+<p class="transcript-line">
+<span class="time"><strong>[00:20:55]</strong> </span>
+<span class="speaker"><strong>发言人3: </strong></span>
+然后不是说你要做这个技术突破OK。虽然它里面内部，比如说我们记得当时也有一些听友，是也有在百度里面去实习的，就是专门做AI agent这个概念的。像a agent我们最近不是讲了很多期，他们在去年的时候，其实智能体这块已经做到挺多的东西了，到至少从产品端销售端全部都是完善的。也就是说看到他所有的东西都是冲着商业化，最后能卖钱这样子的一个方式去搞的那当然东西交付的也特别多，但是问题就是在于说你最核心的这个大模型的大脑并没有超越人家很多。就是我们可以从各种各样的评测上来讲，他不会说很差。他有在可能第二梯队跟第一梯队之间上下徘徊，就是这样子的一个水平。他不会很差，但也不会很好。
+</p>
+<p class="transcript-line">
+<span class="time"><strong>[00:21:45]</strong> </span>
+<span class="speaker"><strong>发言人3: </strong></span>
+加上就是我觉得在国内碰到的情况，就是大家从开发者企业可能碰到的就是我那我用你这个东西可能还是觉得太贵了，或者是你我我一怕用你一个东西，我的全套都得用你那个东西，那就就有很多这方面的担心。那到最后就变成说你的好像没有一个长板，然后感觉就是我不没有非要用你的必要，对吧？其他的AI6小龙，你至少在什么质谱，然后kimi，然后月之暗面等等各种各样的东西，我大家都会去选择，我用其他的，反正这些的感觉好像也差不多。然后这确实实际上可能有一些是不如百度的。但是因为这些综合的因素下来，因为别人可能很多创新的这些公司，他没有说你可以看得到创新公司更欢迎你开发者入驻进来做，然后时不时要不断的给他补贴，然后关注他们到底需要什么东西。
+</p>
+<p class="transcript-line">
+<span class="time"><strong>[00:22:41]</strong> </span>
+<span class="speaker"><strong>发言人3: </strong></span>
+其实百度不是，百度大部分的时候就关注你怎么给我钱，你怎么样续费，要不要私有化部署等等，怎么怎么再搞一笔钱等等。你碰到的很多是这种销售的人在跟你打交道，这不是那种技术的人直接在跟你打交道。虽然百度也有做，但是问题是至少我们可能做技术圈里面面的人，大部分感觉到的就是他这个商业化销售搞搞钱的这个太美味，太浓了。
+</p>
+<p class="transcript-line">
+<span class="time"><strong>[00:23:06]</strong> </span>
+<span class="speaker"><strong>发言人3: </strong></span>
+对，就是你跟别的比的话，我不是说你没有做该做的一些技术方面的一些事情。但是你跟别人一比，你总感觉好像要被他算计，被他弄过去的那种感觉，就要被他搞钱的感觉。对，所以这种事情我觉得说是很大的硬伤。因为我们今天其实可能讲AI是讲了很多，因为百度还有其他非AI的业务吗？除了搜索之外，它还有大量非AI的业务。那这里面的话也是一样，就是可能其他的东西比较赚钱。
+</p>
+<p class="transcript-line">
+<span class="time"><strong>[00:23:35]</strong> </span>
+<span class="speaker"><strong>发言人3: </strong></span>
+然后那你到AI这个地方，AI我们又知道这两三年其实很难挣到钱，大部分地方是亏钱的那他又非得搞出一个可能得能用商业化衡量你的挣钱能力的一个东西，然后最后可能就不伦不类了。比如说我们说个很硬的事情，就是他不是deep sik出来以后的反应是说，原来说这个开源是智商税的，他马上也跟进了，说我六月份要开源。其实这句话出来以后，可能也许你们两位不太知道，但是从技术端就知道六月份要开年，六月的时候是一月份喊六月份开园。然后我们从技术端会知道，他这次可能是真的要开源了。
+</p>
+<p class="transcript-line">
+<span class="time"><strong>[00:24:16]</strong> </span>
+<span class="speaker"><strong>发言人3: </strong></span>
+但是问题就是在于从来技术组团队从来没有准备过开源，才需要准备这么久，要至少要六个月。因为这里面本身开源是要做出很多准备的那他在那个时候喊要开源，一定是被领导喊了这个事情要做。我才开始组团队，然后开始去设定原来里面各种各样的东西，去做成能够开源的那个版本。这个东西其实就很被动了。因为这个从技术上来讲，我们想都想得到在内部我可能所有的团队都是做闭源的团队。那我突然要做一个开源的东西，我还是从原来的这些人里面拨一部分人去做开源，那我是不是原来那个又更慢了，我这个大模型的迭代又又受到了影响。所以其实这里面，我觉得是真的是很很综合的一堆的状况。
+</p>
+<p class="transcript-line">
+<span class="time"><strong>[00:25:04]</strong> </span>
+<span class="speaker"><strong>发言人3: </strong></span>
+就是导致他这个技术，你可能一直做不到很好的顶尖，甚至在下滑。商业上就像刚才讲的，你可能搜索的守不住，那其他的也会受到很多的影响。所以百度还是我觉得现在是蛮蛮被动的。在这个过程中间，虽然模型不差，就这就是这么一个情况。
+</p>
+<p class="transcript-line">
+<span class="time"><strong>[00:25:25]</strong> </span>
+<span class="speaker"><strong>发言人1: </strong></span>
+所以其实专注还是蛮重要的。但是有时候很多东西会影响你的专注。对，包括可能的你的组织太大了，你的业务太多了，然后你想的太多了，有可能都会影响到你的专注。但是你看像deep sick就是一个非常专注的公司，就是专注在大语言模型上面，好像也很少碰到多模态其他方面的东西。好像最近有一些动作了，但是更多还是在以他这个语言模型的基础上去去去发力的。像类似这样的专注度，其实还是蛮值得大家去去敬畏一下的。
+</p>
+<p class="transcript-line">
+<span class="time"><strong>[00:26:02]</strong> </span>
+<span class="speaker"><strong>发言人2: </strong></span>
+对于创业者来讲，我觉得这个是必须的，就是必须的能力，对吧？你不能朝三暮四，你也不能说我觉得很多以前的企业可能是为了国家补贴，或者说是为了能够被这个BAT收购来去创业的。我觉得这种公司说说成功不成功，咱们不好用，这个就是我们的广试点来评价。
+</p>
+<p class="transcript-line">
+<span class="time"><strong>[00:26:24]</strong> </span>
+<span class="speaker"><strong>发言人2: </strong></span>
+但起码我觉得很难做到伟大。就是一个伟大的公司。我觉得首先的就是你专注，你这个专注并不是因为商业上的专注，就觉得我确实满足了某方的需求去做。而是我真的觉得这件事情对整个怎么说呢？有价值，对社会有价值。它可以创造出一些现在还没有的东西，我觉得这是伟大的前提。
+</p>
+<p class="transcript-line">
+<span class="time"><strong>[00:26:44]</strong> </span>
+<span class="speaker"><strong>发言人2: </strong></span>
+当然了咱不说百度，因为百度确实我觉得不方便多谈。我觉得可以说说google对吧？Google来说，你说他无论当年收购deep mind也好，还是说他自己的本身的其实他的科研能力也好，其实都是很强的。可以说到现在来讲，他还是举足轻重的非常棒的一家公司。但是他在AI上的频频出昏招，包括他他之前LI apple ONI出来之后，他不是很着急开了一个发布会，然后发布会上很连演示的东西都出现问题。后来那个那个巴尔的出来之后，也是频频的遭到这个质疑，后来现在又改又更名了，对吧？更名Jimmy的卖出来之后，你说现在产品就像刚才小苏说的似的，就产品不错。
+</p>
+<p class="transcript-line">
+<span class="time"><strong>[00:27:26]</strong> </span>
+<span class="speaker"><strong>发言人2: </strong></span>
+但是你说他有什么的惊喜没有，他可能还是一直在后面。我认为就是我我个人的偏见，我觉得还是因为它不是一个技术领先型公司了，它的技术并不重，并不是真正去为下一代去做准备的，他也没有说在这个自己的企业之内，真正的就是义无反顾的往最先进的技术去冲刺。而是更多的是什么保守的防守，让自己的商业领域，商业的这个版图变得更加健壮。
+</p>
+<p class="transcript-line">
+<span class="time"><strong>[00:27:53]</strong> </span>
+<span class="speaker"><strong>发言人2: </strong></span>
+所以对我认为可能在未来的几年之中，这个google还是一个很好的一商业公司，包括这个股市的表现也可能还不错。因为它可以继续利用自己的资源去制造话题。但是在未来这个人类社会中，它是不是还是举足轻重的？像他曾经的曾经，20年前，或者在过去的20年间的这种贡献来讲，我觉得不见得。起码在我个人来讲，我对他的产品的使用已经完全降低了很多。我现在可能只是用他的chrome的浏览器，用他的这个邮箱，用他的一些东西。但是其他的比如说像以前我经常用的一些google翻译，对吧？我们搜索那是肯定是躲不开的那现在在OI面前的话，这些东西都已经不再成为必须的了，都有了更多更好替代品。整个AI时代的思路，我觉得产品思路也是不一样的。因为大家。
+</p>
+<p class="transcript-line">
+<span class="time"><strong>[00:28:36]</strong> </span>
+<span class="speaker"><strong>发言人1: </strong></span>
+就是在训你，你说的专注更多的不是说只做一件事情做到死那种，什么匠人精神那种。
+</p>
+<p class="transcript-line">
+<span class="time"><strong>[00:28:42]</strong> </span>
+<span class="speaker"><strong>发言人2: </strong></span>
+不是这种。对对对。
+</p>
+<p class="transcript-line">
+<span class="time"><strong>[00:28:45]</strong> </span>
+<span class="speaker"><strong>发言人1: </strong></span>
+我我我理解的专注更多是说你找到了一个一，比如说是搜索，但是你的2345都是围绕这个一来做延伸的，它彼此是有协同关联的，都是围绕这个基因来长大的。但是你会看像google百度这样的公司。他找到的一是搜索，但是他的234是跟搜索没有太多的关系。很多是天马行空的一些投资，一些天马行空的一些创意，或者说是一些所谓就是我我旁人也不不太明白他为什么为什么会这么做对，所以自己所以他跟你关联性对关联性不大对，关联性不大，所以他就变成一个非常庞大的一个组织。90%人做的事情他是没有产出的那只有那10%的事情，他产出了90%的贡献，有可能就变成这样子，所以就是一个特别尴尬的一个状态。对那你刚才讲贤哥刚才讲了很多国内的例子，它其实是我觉得是或多或少受到这样的影响。然后觉得公司要很大，人要很多，老板一声令下，大家哥们冲上去。这个公司看起来好像人丁兴旺的样子，但在国内很多创业公司去做大，它是更多是一种我感觉是一种对于权力的渴望。
+</p>
+<p class="transcript-line">
+<span class="time"><strong>[00:30:01]</strong> </span>
+<span class="speaker"><strong>发言人2: </strong></span>
+这个是确实也是我个人就经历过的，确实是就是我觉得任何人都是普通人。
+</p>
+<p class="transcript-line">
+<span class="time"><strong>[00:30:06]</strong> </span>
+<span class="speaker"><strong>发言人1: </strong></span>
+到了潜意识里面，有的人包装的很好啊，有的人包装的很好很nice，对吧？但是内心里面还是一个权力欲望很强的人。有的人可能他就表面上他就告诉你，我就是想要家大业大，看起来很拽。对，所以在不同的国家，它的这个形式不一样，但最终展现出来结果好像又特别的像人性。
+</p>
+<p class="transcript-line">
+<span class="time"><strong>[00:30:28]</strong> </span>
+<span class="speaker"><strong>发言人2: </strong></span>
+都是共通的。
+</p>
+<p class="transcript-line">
+<span class="time"><strong>[00:30:29]</strong> </span>
+<span class="speaker"><strong>发言人3: </strong></span>
+对，人性是共通的。
+</p>
+<p class="transcript-line">
+<span class="time"><strong>[00:30:30]</strong> </span>
+<span class="speaker"><strong>发言人2: </strong></span>
+但在AI创业阶段，我还是觉得就是小公司。不咱不说艺人公司，我觉得那个概念可能已经太太超前了。起码我觉得应该是小公司，我认为在未来的公司都应该成功的公司，或者说有这个有活力公司，都有20人以下的公司，公司和公司之间可以合作，或者甚至通过AI不大家不需要交流都可以合作。但是整个的管理上来讲，或者说沟通上来讲的话，我觉得超过一定数量级一定会有指数级的下降，没能力的话完全就会打折了。
+</p>
+<p class="transcript-line">
+<span class="time"><strong>[00:30:59]</strong> </span>
+<span class="speaker"><strong>发言人1: </strong></span>
+我们今天还有一个话题，就是你讲到这个小公司的话，我最近看到李开复在外媒的一个采访，然后我觉得他有几个观点让我觉得印象很深刻。然后第一个，OpenAI这样的模式它是难以为继的对第二个，最终他认为大模型只会剩下三家来在统一这个市场不会有这么多的百模大战，最后只会剩下三家。那问他最看好的是哪三家，他认为至少在国内，一个是同意，一个是deep sick，然后还有一家是谁啊？忘记了。对，还有叫我忘了。对，反正就是最后就是他认为会三家。那国际上可能就是google，然后OpenAI，然后cloud，可能最后就是三家。但是他的判断是像open I这样就是遵循scaling lord这样的公司，他其实难以为继的。所以我觉得这个观点也特别有意思。
+</p>
+<p class="transcript-line">
+<span class="time"><strong>[00:31:54]</strong> </span>
+<span class="speaker"><strong>发言人1: </strong></span>
+就是李开复经常在一些历史的转折点出来做一些采访，然后做了一些也非常神奇的角色。比如说上一次的采访，他就把这个灵异万物给并给阿里了阿里云了。那这一次的话，其实他完全拥抱了deep seek，然后做了一个中间件，帮助企业去部署思私有化，部署deep sik。
+</p>
+<p class="transcript-line">
+<span class="time"><strong>[00:32:16]</strong> </span>
+<span class="speaker"><strong>发言人2: </strong></span>
+这个很聪明，非常聪明。
+</p>
+<p class="transcript-line">
+<span class="time"><strong>[00:32:18]</strong> </span>
+<span class="speaker"><strong>发言人1: </strong></span>
+对，所以跳转。
+</p>
+<p class="transcript-line">
+<span class="time"><strong>[00:32:20]</strong> </span>
+<span class="speaker"><strong>发言人3: </strong></span>
+非常快。
+</p>
+<p class="transcript-line">
+<span class="time"><strong>[00:32:21]</strong> </span>
+<span class="speaker"><strong>发言人1: </strong></span>
+对，老兄你怎么看李开复博士的这个观点？
+</p>
+<p class="transcript-line">
+<span class="time"><strong>[00:32:26]</strong> </span>
+<span class="speaker"><strong>发言人3: </strong></span>
+对，其实他的观点跟最近不是上周黄教主，就我们说的NVIDIA的那个G黄那个黄仁勋，他不是有一个GTC大会？GTC大会上面也请了大家各种顶级的人来讲。然后今年其实好像是在哪个session里面，meta的首席科学家，也是AI的里面的重要人物。
+</p>
+<p class="transcript-line">
+<span class="time"><strong>[00:32:47]</strong> </span>
+<span class="speaker"><strong>发言人3: </strong></span>
+那个杨丽坤，是中文叫杨丽坤的有个中文名的科学家。他其实也一直在讲这个事情，就是说他是直接打脸黄正熙的，他直接说就是我他说黄仁勋定义的这个AI的基础是基于在各种各样的token处理时上，也就是预测下面下一个token。然后基于各种各样的token去往往后面的这个时代去迭代。那就是更快的更多的token，更快的token、更便宜的token等等等等。他所有东西都是token，他觉得说这个东西从本质上他会觉得说是站不住脚了。
+</p>
+<p class="transcript-line">
+<span class="time"><strong>[00:33:21]</strong> </span>
+<span class="speaker"><strong>发言人3: </strong></span>
+他认为说你现在的大模型的训练方式，其实也是在讲这个skin落的问题。他觉得以现在大模型的训练方式是无法出现这个AGI的。但是下一步到底怎么做，大家也都没有就是了。所以现在会这么大家还是朝着这个方向在搞，但是他不觉得这个东西是个对的方向，包括也就是说像OpenAI和video这两家的，现在这个顶级的可能拥有了这样子的算力和各种各样的人才算法，他觉得还是没有办法做出来。所以我会觉得李开复的那个评论是是是我觉得跟这个其实在GT上GTGTC上面杨丽坤等等的人的判断是一样的。就是你cost跟你no再往下跑这个东西应该也是一样一致的一个观点就是不会说有几家公司再接着这么做下去了。
+</p>
+<p class="transcript-line">
+<span class="time"><strong>[00:34:13]</strong> </span>
+<span class="speaker"><strong>发言人3: </strong></span>
+然后实际李开复接下去这一步去切到这个应用，也我觉得是非常聪明的。因为而且聪明到有点惊讶，就是他直接去把deep seek的这种私有化部署，企业端的这个私有化部署给接起来了。因为这个to b其实我们之前做过很多to b的项目，知道这个其实还蛮麻烦的。就这个过程中间其实你要做大量的定制，到最后还是有大量的定制的，不是说做个通用的东西就行，但是这个点踩的特别好。就是你一月份发，二月份就已经转型了，对吧？二月份就已经转型去做他的私有化了。
+</p>
+<p class="transcript-line">
+<span class="time"><strong>[00:34:46]</strong> </span>
+<span class="speaker"><strong>发言人3: </strong></span>
+然后那个大模型团队也已经并给了通义，通义这边就是做中间件跟应用。我觉得说他的可能是从看到了说在这个里面有一个我不知道是不是类似他以前做创新工厂一样的感觉，就是我反正能做了一个应用工厂。对，但是这个工厂有可能是中间件工厂，就是我能出这个批量的各种各样的应用，然后能而且能够把这个大大各种各样大模型都装进去。只不过现在先做了DP sig，那后面也许会有别的模型。
+</p>
+<p class="transcript-line">
+<span class="time"><strong>[00:35:17]</strong> </span>
+<span class="speaker"><strong>发言人3: </strong></span>
+只是国内有可能是deep sik，但是国外应该还会有别的什么开源的模型。我觉得相对他肯定也能做，但是他有可能就可以踩住这里面的。我觉得是一个他可能是不是从商业化的角度会做了很大的一个变化这样子因为可以更接近于说这个东西可以持续的去盈利。
+</p>
+<p class="transcript-line">
+<span class="time"><strong>[00:35:35]</strong> </span>
+<span class="speaker"><strong>发言人3: </strong></span>
+我看到他也有讲，他说去年他们to b的时候大概是挣了一亿多美金。然后今年的第一季度，也就是到3月份，他说已经接近完成1亿美金的量了。就是去年跟今年的那那我觉得相信很多是可能在二月份、三月份拿到DPCK的订单应该是非常多的。然后直接把去年的这个一年的钱都挣了，那接下来还有三个季度，那那还可以干很多类似这样的事情。
+</p>
+<p class="transcript-line">
+<span class="time"><strong>[00:36:00]</strong> </span>
+<span class="speaker"><strong>发言人3: </strong></span>
+然后至少是我觉得他可能在企业服务这一段，可能能找到一个现金流能赚起来的方式，就是不会再像以前大模型那个烧钱其实烧不到，不知道什么时候能赚到钱。那至少商业化上有可能是一个很重要的一步，也许也是值得大家去借鉴的。就他是做大的，那其实很多他可以做小的。对的，我觉得是很坦诚，而且也直接告诉大家就这么干。因为这玩意儿其实我们做to b都知道，其实你就算知道人家是怎么做的，你也很难抢人家的客户，就是这么回事。
+</p>
+<p class="transcript-line">
+<span class="time"><strong>[00:36:32]</strong> </span>
+<span class="speaker"><strong>发言人1: </strong></span>
+你就国外做to c，国内做to b，非常聪明，非常坦诚。
+</p>
+<p class="transcript-line">
+<span class="time"><strong>[00:36:37]</strong> </span>
+<span class="speaker"><strong>发言人3: </strong></span>
+对对对，所以这可能是一个特别好的方向。然后他拿出来也跟大家讲，我觉得到最终可能就像马斯克会说，我把我的很多的技术开源给大家，希望大家电动化多1.1样的。那这个电动化起来了才有机会。那现在的话就是你大家都都来做企业级的应用，你才有更有机会。
+</p>
+<p class="transcript-line">
+<span class="time"><strong>[00:36:57]</strong> </span>
+<span class="speaker"><strong>发言人3: </strong></span>
+因为他的基建差太多了，就像我们我们上次可能讲到那个AI agent里面有很大的进步，但是其实还有很多基建的东西没做，还有很多很多基建的东西没做。就比如说cloud去年做的那个基础的通信MCP这样子的一个东西，像类似我们电脑的type c一样，就是你大家都有type c的接口，但是这个东西里面的应用还很少，就是应用可能只有几千个。然后这样子的那那其实你可能要达到可能数万、数百万级都有可能。因为以后这里面很多的这些基础的通信，应该已经不是人在跟他接的，都是AI跟AI在接了。就很多很多的通信可能已经不是人去写的，都是AI在做。
+</p>
+<p class="transcript-line">
+<span class="time"><strong>[00:37:39]</strong> </span>
+<span class="speaker"><strong>发言人3: </strong></span>
+那这个量级是很大的那那可能谁能卡住这个样子的一个生态的一个好的生态位可能挺重要。我会觉得李开复老师很可能去卡这个生态位了，而且卡的位置应该还不错。但是而且很希望这个生态位宽一点，就大家多一点人进来，这样大家会互惠互利。因为都做不完，太多的不需要做的，大概是这样。
+</p>
+<p class="transcript-line">
+<span class="time"><strong>[00:38:02]</strong> </span>
+<span class="speaker"><strong>发言人2: </strong></span>
+没错，我觉得咱们说回来，刚才那个老师也提到了，李开复，我觉得这个问题确实是。就是非常有启发。又提到黄仁勋，黄仁勋就是前一段时间在这GTC的这个发言演讲对吧？然后大家可能有人看了，有人没看，但其实给我的感觉就是说比较平淡，因为并没有超出什么市场的预期的这个新的东西，而他也是在给大家画饼，树立信心。因为毕竟DPC出来之后，整个股价，它的股价下跌范围也比较大。然后大家对这个就是未来算力是否有这么强的需求，像他描绘的这么宏大的需求的这个饼是不是还有这么真的这么大也有质疑。
+</p>
+<p class="transcript-line">
+<span class="time"><strong>[00:38:43]</strong> </span>
+<span class="speaker"><strong>发言人2: </strong></span>
+但是我觉得从咱们中国，咱们创业市场来看的话，确实DB这个包括开带动的所谓带动开源的环境，可以说是有特别多的机会。就像刚才说李开复，他可能服务的是大型企业，或者说是一些政府项目。所以人家可能在几个月之内就收到了大量订单。那同样有很多小的私营企业，或者说我们小的项目都需要去去接入AI的模型。或者在AI的应用上面有细致的工程化的需求。其实这里面有大量的创业新机会，或者说创业机会。不管怎么样，我就先融入进来。就像咱们今天说到这个google，google未来还是一家商业化公司，或者说一家成功的商业化公司。但是同样就是因为这样的公司在在互联网时代打败了前互联网时代的这些大企业，对吧？
+</p>
+<p class="transcript-line">
+<span class="time"><strong>[00:39:28]</strong> </span>
+<span class="speaker"><strong>发言人2: </strong></span>
+包括什么诺基亚，包括什么这是搜狐等等的这些公司。那现在总会有AI时代新的企业出来打败他们，或者说颠覆他们。在这里面的机会就是我们新的创业者所需要去寻找的，所需要去先要去先要去就是说现在来就置身其中的。这是我看到的积极的一面，或者说我觉得毕竟我们并不在google打工，也不在百度打工，所以我们也不需要帮人操心。更多的是作为咱们节目来讲的话，是给这些创业者们大家一些陪伴的勇气。这是我我觉得今天这个话题更有意义的一个对我个人来讲更有意义的一点。
+</p>
+<p class="transcript-line">
+<span class="time"><strong>[00:40:04]</strong> </span>
+<span class="speaker"><strong>发言人3: </strong></span>
+对，我觉得特别是谷歌那边，还是很值得关注的。就是我从他们的这个顶级研究员的结果来看，他们其实都讲的很直白了，就是说从算力和他们现在优化的程度来讲，觉得其实车库创业讲的是车库。因为老美很喜欢车库创业。在车库创业里面，你随便现在能买到那些硬件，都比他们在做transformer七八年前做transformer做大规模训练的那个硬件的算力要强多了。
+</p>
+<p class="transcript-line">
+<span class="time"><strong>[00:40:34]</strong> </span>
+<span class="speaker"><strong>发言人3: </strong></span>
+其实最核心的问题根本不是算力的，就是对于大部分的出创业者都不是，算力已经不是问题，你以为是问题，但其实不是问题。那更多的还是说你怎么去找到说你去提出好的问题，就是你帮助你的行业提出好的问题。可能提出这个好的问题，找到或者说找到能提出好的问题的人合作你这个东西，你可能在这个行业里面做出一个小的东西，这个突破的机会是很大的那这个事情就是因为他们其实是在解决更底层的那种大环境方面的问题。然后他们可能也有资源去做这个事。但是他们其实更期望的也是看到说整个环境的繁荣。所以他们会不断的抛出一些他们的最新那些研究。
+</p>
+<p class="transcript-line">
+<span class="time"><strong>[00:41:17]</strong> </span>
+<span class="speaker"><strong>发言人3: </strong></span>
+我是觉得作为，创业者的话，还是要很关注谷歌的那边的一些新的研究的。因为这些研究大概率他们自己不会去真正的去做应用。但是就像OpenAI一样，OpenAI剪了他几个好的这些论文，后面发展的都很好。
+</p>
+<p class="transcript-line">
+<span class="time"><strong>[00:41:32]</strong> </span>
+<span class="speaker"><strong>发言人3: </strong></span>
+甚至还有很多其他的创业者一样的。我们在国内比如说像kimi他们，也做了很长的那种无线上下文的这个能力的开源的一些框架。就跟谷歌的那个那个现在商业化的不东西是类似的，我相信肯定是有所借鉴的。因为这个东西在当模型应用里面其实特别的关键。这个东西对方也是老早就发了各样的paper，各种各样的论文，什么东西都搞出来了。那那这样子的话，那你盯着他的一些新的东西，你应该在里面能找到机会。因为他只是给你了一个理论上的，基本上他谷歌做的都是理论性能突破，然后工程化他就还远没那么快。这些都是时间差上就直接本来就创造了一些机会。
+</p>
+<p class="transcript-line">
+<span class="time"><strong>[00:42:15]</strong> </span>
+<span class="speaker"><strong>发言人3: </strong></span>
+对我觉得这些还是很值得去关注的那至少在谷歌是特别的开放。当然可能国内的百度我就不太确定了。因为这块我们从国内的氛围来讲，可能开放的东西是相对比较少。对，开放的东西相对比较少。
+</p>
+<p class="transcript-line">
+<span class="time"><strong>[00:42:31]</strong> </span>
+<span class="speaker"><strong>发言人3: </strong></span>
+这个的话我觉得以谷歌这边还是特别值得去去关注这种底层前沿的一些技术的变化。一些观点还特别还可以多听听播客。现在就是最近因为调研他们，所以其实会发现有很多他们很好的研究员有出来做一些这种采访。然后讲的也都挺深的，很多都能讲到一两个小时、两三个小时。里面的信息都挺不错，因为现在得益于大模型的这个能力，其实现在听英文没那么难了。
+</p>
+<p class="transcript-line">
+<span class="time"><strong>[00:43:02]</strong> </span>
+<span class="speaker"><strong>发言人3: </strong></span>
+因为听这种几个小时的，你听听一些关键的总结，然后再捞出来再听听细节，然后自己再看看。可能很多大部分都有发到公开的，像youtube是油管上面去了，你都可以去去去看他原来讲的是怎么回事。这些的话我觉得都收获蛮大的那还是很很建议大家去关注他们，然后及时的去听这些一手的信息，你应该会蛮有收获的，至少做AI这一块。好。
+</p>
+<p class="transcript-line">
+<span class="time"><strong>[00:43:28]</strong> </span>
+<span class="speaker"><strong>发言人2: </strong></span>
+所谓这个一经落万物生，我觉得就是大公司它随随便便掉下来一些东西，对于个人创业者来讲都会有非常大的收获。就看大家是真的有心要去创业。
+</p>
+<p class="transcript-line">
+<span class="time"><strong>[00:43:40]</strong> </span>
+<span class="speaker"><strong>发言人1: </strong></span>
+所以听播客也可以听人民公园说AI.
+</p>
+<p class="transcript-line">
+<span class="time"><strong>[00:43:42]</strong> </span>
+<span class="speaker"><strong>发言人3: </strong></span>
+对大家。
+</p>
+<p class="transcript-line">
+<span class="time"><strong>[00:43:43]</strong> </span>
+<span class="speaker"><strong>发言人2: </strong></span>
+想听什么我们也去搜罗，我们也愿意讲。
+</p>
+<p class="transcript-line">
+<span class="time"><strong>[00:43:46]</strong> </span>
+<span class="speaker"><strong>发言人1: </strong></span>
+是这期节目就到这里了，谢谢大家收听。
+</p>
+<p class="transcript-line">
+<span class="time"><strong>[00:43:51]</strong> </span>
+<span class="speaker"><strong>发言人2: </strong></span>
+大家多帮我们，谢谢，拜拜，下期见了，拜拜。
+</p>
+<p class="transcript-line">
+<span class="time"><strong>[00:43:53]</strong> </span>
+<span class="speaker"><strong>发言人3: </strong></span>
+期待多多关注，多交流，拜拜。好，拜拜。
+</p>]]></content:encoded>
+            <pubDate>Wed, 26 Mar 2025 09:25:23 GMT</pubDate>
+            <guid>67e3c4cf51d887b229fed533</guid>
+        </item>
+        <item>
+            <title>程序员对冲失业最强Buff，“口述型”产品经理崛起？｜Cursor+Claude3.7重构编程</title>
             <link>https://www.xiaoyuzhoufm.com/episode/67daf79ddd11f9c8c1c81851</link>
             <description>Cursor+Claude 3.7混合推理模型，让“口述式编程”成为现实！美国已有25%的代码由AI生成，YC新投资的初创公司中，这一比例甚至高达95%。这是否意味着程序员会被AI淘汰？讲真，程序员对冲失业的终极Buff，是无脑拥抱AI编程！“口述型产品经理”+“意识流编程”是否是未来我不知道，但我确定的是1）程序员一定会分化为“产品工程师”和“技术工程师”，区别是你和人沟通还是和代码沟通！2）让你失业的不是AI，而是对于优秀程序员的评价标准变了！
 01:05YC新公司95%代码由AI生成，口述型产品经理崛起？
@@ -17,7 +699,15 @@
 28:39 未来人才会分为”产品工程师“和”技术工程师“，区别是愿不愿意和人沟通
 31:02 淘汰你的不是AI，而是对程序员的评价方式会变
 36:38 AI原生一代和现程序员都怎么看AI编程
-43:43 程序员对冲失业的终极Buff，是拥抱AI编程</description>
+43:43 程序员对冲失业的终极Buff，是拥抱AI编程
+【关注主播】：
+📕小红书：叫我小苏就好啊
+📺B站：叫我小苏就好啊
+📱微信：Roisu117
+【关注频道】：
+📕小红书：人民公园说AI
+▶️油管：人民公园说AI
+🐦推特：人民公园说AI</description>
             <content:encoded><![CDATA[<h1>转写链接</h1>
 <link>https://tongyi.aliyun.com/efficiency/doc/transcripts/klrbn2ygwkl795zy</link><br>
 <h1>问题回顾</h1>
@@ -19152,37 +19842,6 @@ APP唤醒一个APP。
             <content:encoded><![CDATA[]]></content:encoded>
             <pubDate>Thu, 19 Sep 2024 00:00:00 GMT</pubDate>
             <guid>66ea873a5ca6d0ace3aeb0a4</guid>
-        </item>
-        <item>
-            <title>Vol.6 自从用了Cursor，程序员再也不怕失业了？｜AI创投内参会</title>
-            <link>https://www.xiaoyuzhoufm.com/episode/66ea8fd53a5ff0a0ca3426ae</link>
-            <description>这次，和返场嘉宾Gus一起聊聊Cursor！AI编程会不会取代程序员？AI能帮程序员背锅吗？为什么Cursor更适合做教育？以及Cursor对于AI创业的启发，Enjoy！
-【嘉宾介绍】Gus（叶坚白）中国科学技术大学计算机博士，连续创业者, 两次奇绩创坛录取。同时也是Linux foundation reviewer、腾讯犀牛鸟计划人才、光年之外ChatGPT框架实现负责人。（欢迎对开源、数据库(with or without 向量)研发有经验的同学👉联系Gus，一起探讨下一代RAG基础设施的可能性）
-【购买方式】：
-1） 音频版：小宇宙《AI创投内参会》全集；
-2）视频版：打包全集（可入微信群和我们互动～还可以参与直播录制，和视频/逐字文本等），请复制👉这个链接，用微信购买
-【电梯】
-03:52 Cursor的火爆，并不是模型的创新，而是Claude 3.5+IDE
-10:08 为什我只是Cursor的轻度用户？Cursor和GitHub Co-Pilot有何不同？
-16:12 AI编程不会干掉程序员，毕竟AI不能背锅
-20:03 其实AI的使用门槛很高，input的质量决定了output的质量
-22:23 其实AI更适合做MVP和Demo，毕竟爆了没人管你
-31:05 自然语言的使用成本是很高的，语言是有边界的
-36:37 其实Cursor更适合教育，编程会从闭卷考变为开卷考？
-53:39 Cursor对于AI创业的启发，反而是原本有深厚积累的旧公司+AI容易成功？
-59:18 创新者的窘境
-【关注我们】：
-📕小红书：叫我小苏就好啊、JustSayAI
-📺B站：叫我小苏就好啊
-▶️油管：JustSayAI
-♻️视频号/公众号：JustSayAI
-【听友福利】：
-我们特别邀请你加入“人民公园说AI”创业社区。
-✨我们是谁？
-我们是一个总部位于加拿大面向全球的“AI出海孵化器”，为全球AI创业者提供：技术孵化、投融资连接、项目出海等服务，让好项目、好技术、好团队少踩点坑，走得更远！</description>
-            <content:encoded><![CDATA[]]></content:encoded>
-            <pubDate>Wed, 18 Sep 2024 08:31:16 GMT</pubDate>
-            <guid>66ea8fd53a5ff0a0ca3426ae</guid>
         </item>
     </channel>
 </rss>
