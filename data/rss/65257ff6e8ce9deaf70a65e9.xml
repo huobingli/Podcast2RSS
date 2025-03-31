@@ -4,11 +4,812 @@
         <title>人民公园说AI</title>
         <link>https://www.xiaoyuzhoufm.com/podcast/65257ff6e8ce9deaf70a65e9</link>
         <description>❤️算法之外说AI，数据之上聊创业</description>
-        <lastBuildDate>Sat, 29 Mar 2025 04:41:22 +0800</lastBuildDate>
+        <lastBuildDate>Tue, 01 Apr 2025 04:42:14 +0800</lastBuildDate>
+        <item>
+            <title>OpenAI狂蹭吉卜力，大模型正在吞噬一切产品？</title>
+            <link>https://www.xiaoyuzhoufm.com/episode/67ea6628f9578163d613e999</link>
+            <description>真正的技术变革不会以颠覆的姿态突然降临，而是通过“玩”的形式被社会悄然接纳。吉卜力风格的AI图像，正是这个“玩具”——它让新技术带来的陌生感变得安全，引导人们拥抱而非恐惧未来。
+01:23 为什么宫崎骏风格的图片席卷全网？
+真的变革是糖衣炮弹， 吉卜力风格是AI技术与社会情绪的完美接口。就像当年chatgpt破圈一样，科技进步总是伴随情绪价值
+05:48 文生图早就有了，GPT-4O强在哪里？
+OpenAI 大幅提升了“文本-图像对齐”（text-image alignment）能力，所以语言模型的质量决定了多模态模型的上限。
+12:12为什么每次大模型更新，都要死掉一波公司？
+技术还有不稳定性，LLM或许会被推翻
+23:48 技术变革更要看生产关系的变化，组织方式的迭代
+27:29 纯技术驱动，必然被技术反噬
+33:13普通人和创业公司怎么办？未来，没有骑墙派
+39:11技术是中立的，AI是创意的“杠杆”，但支点必须握在“能定义AI的人”手中
+40:44 为什么不是谷歌，Gemini2.5封了个假神？创新者的窘境
+44:46 整个社会请给创新者，留一点灰度
+【关注主播】：
+📕小红书：叫我小苏就好啊
+📺B站：叫我小苏就好啊
+📱微信：Roisu117
+【关注频道】：
+📕小红书：人民公园说AI
+▶️油管：人民公园说AI
+🐦推特：人民公园说AI</description>
+            <content:encoded><![CDATA[<h1>转写链接</h1>
+<link>https://tongyi.aliyun.com/efficiency/doc/transcripts/zj78qp4j4plvqxdp</link><br>
+<h1>节目摘要</h1>
+<div class="summary">人工智能（AI）技术，尤其是OpenAI的GPT-4技术，对艺术创作、创业环境和个人职业发展产生了深远影响。它能模仿并生成具有特定艺术家风格的作品，如宫崎骏的动画风格，这引发了关于艺术原创性、版权和创作者权益的深刻讨论，促使社会思考技术进步的伦理和社会影响。技术的革新不仅为创作和商业带来了新机遇，也对传统技能和职业构成了挑战，要求创业者和企业思考如何应对技术变革。此外，AI技术的普及还对社会文化、教育及人们的就业观念产生了潜在影响，展现了对AI技术发展及其复杂社会影响的深入思考。</div><br>
+<h1>章节速览</h1>
+<div class="chapters">
+<div class="chapter-item">
+<span class="time"><strong>[00:00:00]</strong> </span>
+<span class="chapter-title"><strong>大模型崛起：创业者和普通人的未来何在？</strong></span>
+<div class="chapter-summary">讨论聚焦于大模型技术，特别是GPT4O，如何影响普通人的生活和创业者的生存空间。提出技术虽然带来变革，但仅聚焦技术而不考虑其在社会关系和组织方式中的作用可能导致失败。强调技术不是全部，定义权和风格创造者如宫崎骏、LV等将受益。同时，呼吁社会对创新者保持宽容，以促进社会进步。通过分析宫崎骏风格图片的广泛传播现象，探讨技术与人文空间之间的平衡与思考。</div>
+</div>
+<div class="chapter-item">
+<span class="time"><strong>[00:02:22]</strong> </span>
+<span class="chapter-title"><strong>AI技术革命与社会情绪的交汇</strong></span>
+<div class="chapter-summary">对话探讨了AI技术，尤其是GPT和宫崎骏事件如何成为科技革命的象征，以及这些技术如何与社会情绪相交汇。讨论还涉及技术突破如何无需刻意推广就能引起社会狂欢，以及技术突破背后的深层文化和社会情绪的力量。此外，还提到了创业公司和从业者在面对技术进步时的挑战和困惑，强调技术虽是根本，但文化、情绪和独特性同样重要。</div>
+</div>
+<div class="chapter-item">
+<span class="time"><strong>[00:05:25]</strong> </span>
+<span class="chapter-title"><strong>GPT-4图像生成技术的突破与多模态能力</strong></span>
+<div class="chapter-summary">讨论了GPT-4在图像生成技术上的显著进步，特别是其自回归生成逻辑与传统扩散模型的不同。GPT-4通过逐像素预测和修改，实现了图像修改的一致性和精确性，允许用户指定修改图像的特定部分而不影响其他部分。此外，GPT-4的多模态能力使其能够处理音频、视频等多样数据，融入更多文化元素和背景知识，从而在生成图像时更好地捕捉和表达特定风格，如宫崎骏的动画风格。这种技术突破基于强大的语言模型，展现了OpenAI在技术路线上的一贯性和深度，以及对多模态生成上限的提升。</div>
+</div>
+<div class="chapter-item">
+<span class="time"><strong>[00:10:00]</strong> </span>
+<span class="chapter-title"><strong>大模型技术路线的风险与挑战</strong></span>
+<div class="chapter-summary">对话讨论了在当前技术条件下，依赖纯视觉方案进行复杂任务处理（如数烧烤签子）的局限性，以及大模型在特定场景下可能不如传统模型有效。提及了技术路线选择的豪赌性质，创业者和技术人员面临的风险，以及大模型在迅速发展过程中对产品和机会的吞噬效应。</div>
+</div>
+<div class="chapter-item">
+<span class="time"><strong>[00:12:56]</strong> </span>
+<span class="chapter-title"><strong>AI技术在用户需求和成本考量中的角色</strong></span>
+<div class="chapter-summary">对话围绕AI技术，尤其是GPT在满足用户需求和成本考量中的角色展开。从用户的角度，讨论了AI在时间成本和效率上的优势，以及在高精度和创意需求下仍需人工介入的必要性。进一步分析了OpenAI的盈利模式和行业定位，指出AI技术虽然在某些领域展现出巨大潜力，但在商用环节，如校对、修改和审核等，仍需人工参与。最后，强调了AI技术在现阶段更多适用于打样和草稿性质的任务，而真正高质量的工作仍需依赖人力。</div>
+</div>
+<div class="chapter-item">
+<span class="time"><strong>[00:17:32]</strong> </span>
+<span class="chapter-title"><strong>大模型未来及多Agent协作的挑战与机遇</strong></span>
+<div class="chapter-summary">对话讨论了大元模型在未来可能被淘汰的观点，指出其架构难以满足日益增长的需求，尤其是在多Agent协作场景中，稳定性与风险问题突出。参与者提到了技术风险、生成内容的可用性风险以及回炉风险，并分析了内容创作者、插画师等群体对新技术的反抗情绪。讨论还涉及了技术进步的空间、模型生成图片的限制，以及通过逆向输出提示词来优化生成效果的方法。最后，探讨了未来创业公司如何在大模型基础上开发AI应用的选择与策略。</div>
+</div>
+<div class="chapter-item">
+<span class="time"><strong>[00:21:19]</strong> </span>
+<span class="chapter-title"><strong>技术创新与文化通俗化的影响与挑战</strong></span>
+<div class="chapter-summary">对话探讨了工业革命后技术革新如何简化生产流程，以及技术创新对传统行业和个体的影响。强调了单点技术创新与组合创新的区别，指出未能全面理解变革可能导致对新技术的负面情绪。以宫崎骏对AI的态度为例，分析了顶尖艺术家面对技术进步的复杂情感，同时提出技术通俗化使得创意内容的生产更加普及，从而促进了文化的大众化。此外，还提到了技术社区中人们利用AI编程实现创意并将其商业化，展现了技术进步对个人创新能力和市场渠道的积极影响。</div>
+</div>
+<div class="chapter-item">
+<span class="time"><strong>[00:24:29]</strong> </span>
+<span class="chapter-title"><strong>AI编程辅助工具助力非专业人员快速实现创意</strong></span>
+<div class="chapter-summary">对话讨论了通过AI编程辅助工具，非专业人员能够快速将创意转化为实际产品的现象。参与者们通过互相学习和帮助，利用这些工具将想法变成原型，甚至上线网站和应用。这种模式不仅加速了创意实现的过程，还催生了一些有技术背景的人充当教练，帮助他人，同时也有一些人通过提供资金支持来参与。这种趋势反映了AI技术在改变社会生产关系和组织方式方面的重要作用，强调了这一变革对提高生产力的积极影响。</div>
+</div>
+<div class="chapter-item">
+<span class="time"><strong>[00:27:50]</strong> </span>
+<span class="chapter-title"><strong>大模型更新对创业公司的影响与技术迭代风险</strong></span>
+<div class="chapter-summary">对话讨论了大模型更新对创业公司的影响，特别是对依赖特定技术的公司构成的挑战。提到了技术细节的重要性，如选择0.45版还是0.47版，以及技术迭代带来的成本降低趋势。分析了技术驱动型公司忽视人与人协作、组织关系和客户关系的风险，以及技术压铸带来的成本和人员招聘的挑战。讨论还提到了AI技术在电商自动化领域的应用，以及未来AI可能替代人力的潜在威胁。最后，预告了与吉瑞科技关于AI自动化在电商领域影响的进一步讨论。</div>
+</div>
+<div class="chapter-item">
+<span class="time"><strong>[00:33:13]</strong> </span>
+<span class="chapter-title"><strong>个人创业者在技术浪潮中的定位与机遇</strong></span>
+<div class="chapter-summary">在技术不断发展的背景下，个人创业者面临的选择是没有中间地带的。他们要么紧随大型科技公司，利用自己的专业优势在特定生态位中生存，如作为技术的普及者和顾问；要么拥有独特的“金刚钻”，即在应用层面的深度理解和创新，比如对特定行业或风格的熟悉。创业者不应试图在技术层面与大公司竞争，而应专注于在应用层面建立独特性，如通过定义和引领潮流来获得竞争优势。这种策略不仅有利于创业者自身，也为社会带来了新的机会，比如唤醒人们的记忆，满足个性化需求。技术的进步最终将为能够定义风格和潮流的创作者和品牌带来更大的利益。</div>
+</div>
+<div class="chapter-item">
+<span class="time"><strong>[00:37:00]</strong> </span>
+<span class="chapter-title"><strong>AI技术的未来与文科视角的辩证</strong></span>
+<div class="chapter-summary">对话围绕AI技术的未来展开了深入讨论，指出OpenAI当前路径的局限性和未来可能的技术组合变革。讨论者认为，AI技术虽强大，但其发展和应用仍需人文视角的引导，强调技术中立性与人文判断的重要性。同时，提出在AI时代，成功需文理兼备，创业者应具备全面的能力。</div>
+</div>
+<div class="chapter-item">
+<span class="time"><strong>[00:39:42]</strong> </span>
+<span class="chapter-title"><strong>技术创新与法律边界：谷歌与OpenAI的对比</strong></span>
+<div class="chapter-summary">讨论集中在技术创新与法律风险之间的平衡问题，以及不同公司如谷歌和OpenAI在面对这些问题时的不同态度和做法。一方认为技术创新需要野蛮生长的阶段，不应被限制，而另一方则担忧法律问题可能导致的严重后果。同时，对话还提到公司内部决策过程的复杂性，以及创新者的窘境和领先者的束缚。</div>
+</div>
+<div class="chapter-item">
+<span class="time"><strong>[00:43:24]</strong> </span>
+<span class="chapter-title"><strong>AI技术革新与社会舆论的互动探讨</strong></span>
+<div class="chapter-summary">在这段对话中，讨论了在AI技术快速发展的大背景下，大型公司如Google在应对这一变化时所面临的挑战。特别提到了Google在AI模型技术上的快速进步，及其在破圈传播中的复杂情况。同时，讨论也涉及到了技术进步对社会舆论的影响，以及对于创新者在社会进步中应有的宽容度和空间。最后，强调了通过各种角度讨论AI进步的重要性，以帮助人们更好地理解和接纳技术变革。</div>
+</div>
+</div><br>
+<h1>问题回顾</h1>
+<div class="qa-item">
+<div class="question"><strong>Q:</strong> 大模型是否让普通创业者感到生存压力，担心会有大量创业公司倒闭？</div>
+<div class="answer"><strong>A:</strong> 我认为这是一个强者恒强的现象，技术溢出会淘汰部分公司，但真正受益的是那些能制造风格和潮流的品牌，如LV、香奈儿等。对于普通创业者和普通人来说，技术虽是根本，但并非全部，很多创业公司的问题在于只聚焦于技术。技术革新中，如果组织方式和社会关系未发生深刻变化，社会进步就会受阻。</div>
+</div>
+<div class="qa-item">
+<div class="question"><strong>Q:</strong> GPT4O生成宫崎骏风格图片的现象反映了什么？</div>
+<div class="answer"><strong>A:</strong> 这不仅体现了AI技术的普及，更是科技革命的一种象征。它与社会情绪结合，如当年GPT引发的热潮一样，背后蕴含着推动AI进步的力量。此外，文化出圈也是重要因素，技术与文化相融合才能实现广泛传播和接受。</div>
+</div>
+<div class="qa-item">
+<div class="question"><strong>Q:</strong> GPT4O相较于其他生成图像模型有何独特之处？</div>
+<div class="answer"><strong>A:</strong> GPT4O采用了自回归生成逻辑，而非传统的扩散模型，这使得它在生成图像时能够保持一致性和细节精准度，例如用户可以指定修改图片的某个部分而不影响其他部分。同时，GPT4O是一个多模态模型，理解多种媒体形式的信息，并能基于大语言模型的能力进行文本和图像的对齐，从而在生成高质量图像方面具有显著优势。</div>
+</div>
+<div class="qa-item">
+<div class="question"><strong>Q:</strong> 在大模型校对方面，是否有人采用纯视觉的方式去做，与传统模型有何不同？</div>
+<div class="answer"><strong>A:</strong> 是的，现在确实有人用纯视觉的方式去校对大模型，这种方法与传统模型在特定场景下表现不同。传统模型可能更依赖于特定条件和训练方式，而视觉校对则可能更多地依靠图像本身的信息。</div>
+</div>
+<div class="qa-item">
+<div class="question"><strong>Q:</strong> 技术路线是否可以被视为一种豪赌？AI技术的发展对普通人和行业有何影响？</div>
+<div class="answer"><strong>A:</strong> 确如此，技术路线就像一场豪赌。创业者们可能会选择all in某条技术路线，但当技术发展到极限或被技术溢出时，最先面临挑战的就是这些选择单一技术路线的企业。对于用户而言，AI技术降低了使用成本，提高了效率，但当对精度和创意要求较高时，仍需人工参与。从长远看，AI与人的交流将更为简单便捷，但在目前阶段，只有少数团队能实现技术突破。</div>
+</div>
+<div class="qa-item">
+<div class="question"><strong>Q:</strong> 目前AI生成内容的技术是否已达到成熟商用的程度？</div>
+<div class="answer"><strong>A:</strong> 目前AI生成内容的技术尚未成熟到可以广泛应用在商用环节，如漫画创作、小说转译等领域，存在诸多限制和高昂的成本，且稳定性差，风险较高。真正精品的内容仍需人类创作者的加工和投入。</div>
+</div>
+<div class="qa-item">
+<div class="question"><strong>Q:</strong> OpenAI在文生图方面的表现如何？</div>
+<div class="answer"><strong>A:</strong> OpenAI在文生图方面的技术很惊艳，尤其是在文字一致性识别和创意表现上有所提升，但在真实工作性需求的连续性、一致性图片生成方面还有待改进。</div>
+</div>
+<div class="qa-item">
+<div class="question"><strong>Q:</strong> OpenAI变成盈利性公司后，其主要盈利方式是什么？</div>
+<div class="answer"><strong>A:</strong> OpenAI可能会通过技术赋能来盈利，重点可能是to b业务，利用其技术为大公司提供服务，并带动to c业务的发展。在这个过程中，人的角色不可或缺，人和技术将共同协作以满足客户需求。</div>
+</div>
+<div class="qa-item">
+<div class="question"><strong>Q:</strong> 大模型能否完全取代人的工作，特别是在内容创作领域？</div>
+<div class="answer"><strong>A:</strong> 大模型在未来可能无法完全取代人的工作，尤其是在需要深度加工、校对和合规审核的内容创作领域。人的独特优势在于对细节的把握和高质量产出，而大模型在多agent协作和适应复杂需求时可能存在局限性。</div>
+</div>
+<div class="qa-item">
+<div class="question"><strong>Q:</strong> 在AI技术的发展中，用户与大模型交互的方式是如何变化的？</div>
+<div class="answer"><strong>A:</strong> 以前生成一张图需要提供大量文字描述（提示词），但现在用户可以直接给定一张图片或照片，让模型根据特定风格（如吉普利风格）生成图像，并且还能逆向让模型输出对应的提示词，这些提示词非常全面且具有逻辑性。</div>
+</div>
+<div class="qa-item">
+<div class="question"><strong>Q:</strong> 这种变化对未来创业公司意味着什么？</div>
+<div class="answer"><strong>A:</strong> 未来许多创业公司面临的选择节点在于是否跟随大模型厂商的步伐，还是独立开发一款AI应用。大模型厂商会整合基础步骤和关键环节，将它们封装在内部流程中，用户只需简单操作即可使用。</div>
+</div>
+<div class="qa-item">
+<div class="question"><strong>Q:</strong> 技术进步对产业变革的影响是怎样的？</div>
+<div class="answer"><strong>A:</strong> 技术进步是一个套嵌式的过程，就像工业革命后工具和技术的不断升级，使得原本繁琐的工作流程得以极大简化和整合。单点的技术创新往往无法全面理解变革全貌，只有看到整体的技术组合创新才能真正把握其先进性和落后性。</div>
+</div>
+<div class="qa-item">
+<div class="question"><strong>Q:</strong> 为什么每次大模型更新都会有一批公司“死亡”？</div>
+<div class="answer"><strong>A:</strong> 死亡的公司或失业的人通常是因为他们只专注于技术的某一个点，而没有认识到技术整体的发展趋势和变革全貌。技术进步会淘汰那些仅依赖单点技术、固守传统的人或企业。</div>
+</div>
+<div class="qa-item">
+<div class="question"><strong>Q:</strong> AI技术普及对普通人有何影响？</div>
+<div class="answer"><strong>A:</strong> AI技术让普通人有机会实现自己的创意，降低创作门槛，比如通过AI编程工具，无需专业编程知识也能快速创建网站、APP等产品。社群中大量用户通过学习和实践，成功将自己的想法变为现实，这体现了AI技术对生产力的提升和社会关系的演变。</div>
+</div>
+<div class="qa-item">
+<div class="question"><strong>Q:</strong> 在AI技术快速发展的背景下，对于依赖初级美工或技术劳动的企业来说，他们面临什么样的挑战？</div>
+<div class="answer"><strong>A:</strong> 这些企业面临的挑战在于，由于技术迭代和技术成本的不断降低，未来几年AI自动化技术的下限会大幅降低，成本可能变为现在的十分之一，而质量却会显著提高。这意味着，如果企业不及时更新技术和人力成本结构，可能会因为人工成本高于AI生成内容的成本，导致人力成本较高的员工被更便宜且高效的AI所取代。</div>
+</div>
+<div class="qa-item">
+<div class="question"><strong>Q:</strong> 当AI技术发展到一定程度，是否会出现一个转折点，使得公司需要提前准备并调整策略？</div>
+<div class="answer"><strong>A:</strong> 是的，存在这样一个转折点，大约在8到10个月后，甚至更早，尤其是对于大公司而言，需要开始考虑如何适应这种变化，并更新人力资源和工作方法。而对于小规模初创公司，虽然适应过程可能稍慢，但同样需要关注行业动态和技术趋势，以免在技术迭代过程中落后于竞争对手。</div>
+</div>
+<div class="qa-item">
+<div class="question"><strong>Q:</strong> 创业者如何应对技术发展的不确定性，在保持现有业务的同时，还能利用新技术？</div>
+<div class="answer"><strong>A:</strong> 创业者不能坐等技术成熟，而应主动选择适合自己的道路。可以紧跟大公司步伐，在大趋势中找到自己的生态位；或者发挥自身优势，在应用层面比大公司做得更好，例如深入理解某一行业或者某种特定画风，通过训练出适应客户需求的模型来提供高质量的服务，从而建立独特性和竞争力。</div>
+</div>
+<div class="qa-item">
+<div class="question"><strong>Q:</strong> 在文生图等领域中，定义风格和把握潮流的重要性如何？</div>
+<div class="answer"><strong>A:</strong> 定义风格和把握潮流对于最终胜出至关重要，因为使用者无法同时掌握最先进工具和技术，并靠技术本身赚钱。那些能够定义独特风格和潮流的品牌，如宫崎骏、LV等将从中受益，因为他们掌握了对潮流的控制权。此外，通过训练模型来适应不同审美偏好，也能创造出符合市场需求的作品，为社会带来新的机遇。</div>
+</div>
+<div class="qa-item">
+<div class="question"><strong>Q:</strong> 技术与文科、理科的关系是怎样的？</div>
+<div class="answer"><strong>A:</strong> 技术是中立的，无法做善恶判断，而文科如道德和哲学可以判断善恶；理科（技术）可以改造世界，但作为工具本身是中性的。</div>
+</div>
+<div class="qa-item">
+<div class="question"><strong>Q:</strong> 对于用技术解决具有灰度的事件，比如AI生成艺术作品，您怎么看？</div>
+<div class="answer"><strong>A:</strong> 这个问题很深刻，因为世界是灰度的，而技术可能没有灰度，用它来解决有灰度的事件会很困难。</div>
+</div>
+<div class="qa-item">
+<div class="question"><strong>Q:</strong> 您对OpenAI在该事件中的表现有何看法？</div>
+<div class="answer"><strong>A:</strong> 我支持OpenAI，认为技术创新应有野蛮生长的空间，即使面临法律和道德争议，也应该在可控范围内尝试和推进。</div>
+</div>
+<div class="qa-item">
+<div class="question"><strong>Q:</strong> 谷歌为何没有像OpenAI那样推出类似的破圈应用？</div>
+<div class="answer"><strong>A:</strong> 谷歌可能由于其作为领先企业的角色结构、官僚系统以及内部决策流程等原因，不敢轻易尝试此类创新项目。</div>
+</div>
+<div class="qa-item">
+<div class="question"><strong>Q:</strong> AI技术进步迅速，大型公司在其中的角色是什么？</div>
+<div class="answer"><strong>A:</strong> 大型公司在AI快速发展的背景下，由于其固有的稳定结构和决策链条，往往会显得被动，无法迅速适应新技术的发展节奏。</div>
+</div>
+<div class="qa-item">
+<div class="question"><strong>Q:</strong> 对于社会舆论对AI创新的态度，您有什么建议？</div>
+<div class="answer"><strong>A:</strong> 社会舆论应给予创新者一定的宽容度和灰度空间，尤其是在AI等前沿技术领域，要鼓励创新，包容争议，这样才能推动社会进步。</div>
+</div>
+<div class="qa-item">
+<div class="question"><strong>Q:</strong> 您如何看待宫崎骏对AI生成其风格作品的态度？</div>
+<div class="answer"><strong>A:</strong> 宫崎骏对AI生成其风格作品表示不满，这涉及到版权和法律问题。尽管存在争议，但风格本身在版权界定上可能存在模糊地带，且有争议才会有讨论和进步的空间。</div>
+</div>
+<h1>节目文稿</h1>
+<p class="transcript-line">
+<span class="time"><strong>[00:00:00]</strong> </span>
+<span class="speaker"><strong>发言人1: </strong></span>
+是不是大模型又不给我们普通人留活路了？是不是有一大批创业者哭晕在厕所了？
+</p>
+<p class="transcript-line">
+<span class="time"><strong>[00:00:06]</strong> </span>
+<span class="speaker"><strong>发言人2: </strong></span>
+我认为就选择没有中间派，你不可能既吃技术的红利，又可以说靠技术本身赚钱。
+</p>
+<p class="transcript-line">
+<span class="time"><strong>[00:00:11]</strong> </span>
+<span class="speaker"><strong>发言人1: </strong></span>
+但我觉得这个事情它是一个强者恒强的事情。这个事情最终利好的是宫崎骏，我觉得或者利好的是像LV、香奈儿这些能够制造风格，制造潮流的东西。因为定义权在他手上，他只是把他自己复制出来了。
+</p>
+<p class="transcript-line">
+<span class="time"><strong>[00:00:26]</strong> </span>
+<span class="speaker"><strong>发言人1: </strong></span>
+技术是根本，但技术不是全部。为什么有很多创业公司觉得要哭晕在厕所了？为什么有很多人他觉得他要失业了？其实我觉得大部分的问题还是因为他只聚焦在技术。你不管是all in这条技术路线，还是all in那条技术路线，其实最后可能就是被技术溢出的时候，第一个死的就是你。
+</p>
+<p class="transcript-line">
+<span class="time"><strong>[00:00:46]</strong> </span>
+<span class="speaker"><strong>发言人1: </strong></span>
+所以很多时候看一个变革，不是看说他在表面上做了什么，而是要看整个组织方式或者一个社会关系变了没有。就是我们整个社会包括舆论的宽容度，一定要留一些灰度给到这些真正去做创新的人，否则这个社会怎么进步。对你当然可以选择不进步了，我他妈回去做个匠人？我去手绘我自己很开心，但是你不能影响整个社会的进步。
+</p>
+<p class="transcript-line">
+<span class="time"><strong>[00:01:16]</strong> </span>
+<span class="speaker"><strong>发言人1: </strong></span>
+最近很火的一件事情要聊一下，就是GP4O出来以后，全网都在搞那个宫崎骏风格吉普力的那种图片。然后我们自己也搞了一下，真的还原的非常好。然后我感觉这个事情又是在ChatGPT出来以后的又一次出圈，又一次爆火了。所以我觉得说我们可以今天录一期节目来聊聊这个背后是不是大模型又不给我们普通人留活路了，然后是不是有一大批创业者要哭哭晕在厕所了。但这背后其实我觉得有蛮多在模型跟人之间的一些空间值和值得大家去思考的。所以我才想说，我们一起来聊一下。首先我们讲一下这个现象，如果大家有关注到网上很多这种漫画风、动画风的这种图片，其实很多是用GPT4O去生成的。这个宫崎骏的风格，其实基本上我不知道国内怎么样，反正外网是绝对是刷屏。
+</p>
+<p class="transcript-line">
+<span class="time"><strong>[00:02:22]</strong> </span>
+<span class="speaker"><strong>发言人2: </strong></span>
+被DCK压着打了有两个多月了，然后终于又又靠一个东西扬眉吐气了。但就这两天其实朋友圈里面晒的也好，还是说这外网也好，大家都在谈论征途这个事儿。其实这个事情我觉得在我看来没有那么简单，就没有说是简单的只是说增加了一个功能这么一件事儿。我觉得它是另一种AI技术普及的象征。
+</p>
+<p class="transcript-line">
+<span class="time"><strong>[00:02:44]</strong> </span>
+<span class="speaker"><strong>发言人1: </strong></span>
+往往就是科技革命都是诞生在一些大家情绪的风口，或者情绪的一些点上面的对吧？那很多的这种社会情绪，其实你看起来你会觉得说这个事情没什么，或者这事情只是情绪。但其实背后情绪背后其实藏着是一种更科技革命的一个力量，就像当年GPT去破圈一样。大家觉得这就聊天，对，聊天有什么呢？但是聊天背后的智能其实推动了整个AI的进步。就是宫崎骏这个事情确实是AI跟情绪社会情绪的一个非常完美的一个接口。对。
+</p>
+<p class="transcript-line">
+<span class="time"><strong>[00:03:24]</strong> </span>
+<span class="speaker"><strong>发言人3: </strong></span>
+我觉得是说除了情绪之外，我觉得跟去年我们的黑神话悟空会出圈是很像的。最近黑神话悟空的那个缝剂有接受新的一些采访，也是在讲他觉得最终其实这个东西能出圈还是文化的出圈。就是有大量的老外会不远千里万里来到中国去去看。大家可能正好也需要这样的一个东西，他就破圈的特别快。当然他也同时提到了，技术是根本。如果说我技术都实现不了当下最新的一些能力，让大家真的可以沉浸其中的去感受到这个跟以前的不一样。这些我话他也发挥不出来，所以这个我觉得还是体会挺深的。
+</p>
+<p class="transcript-line">
+<span class="time"><strong>[00:04:03]</strong> </span>
+<span class="speaker"><strong>发言人1: </strong></span>
+我觉得你讲到点上了，技术是根本，但技术不是全部。我觉得后面我也想跟大家讨论的是这个话题。就是为什么有很多创业公司觉得要哭晕在厕所了。然后又为什么又会会有很多人他觉得他要失业了？其实我觉得大部分的问题还是因为他只聚焦在技术，而不聚焦在技术以外的情绪，文化或者自己独有的东西。这个我觉得后面我们会聊到。
+</p>
+<p class="transcript-line">
+<span class="time"><strong>[00:04:28]</strong> </span>
+<span class="speaker"><strong>发言人1: </strong></span>
+刚才讲到这个话题，我觉得还有一个点，我觉得其实一旦一个技术的突破，成为整个社会的狂欢，我觉得我自己的思考背后还有一个点就是真的革命性的技术，它是不需要去步道的。就以前我们去步道走到企业里面跟CEO讲，你要做数字化，你要做什么数字营销，你要转型，对吧？讲了半天推不动，为什么呢？他没有直观的感觉。但是真正的革命往往是以一种像资本主义糖衣炮弹的这种方式来扶持你的。然后往往是让人能够举一反三，发现自己我也行这样的一种姿态进来的。所以我觉得这个事情是非常之值得大家注意的。在什么失业，在这种创业公司倒闭的这种情绪后面，我觉得是所有人可能应该要去值得注意的一件事情。
+</p>
+<p class="transcript-line">
+<span class="time"><strong>[00:05:25]</strong> </span>
+<span class="speaker"><strong>发言人1: </strong></span>
+我觉得我们可以从技术上面来拆解一下。因为刚才老师讲到技术，为什么这一次会出圈呢？除了宫崎骏的风格以外，我觉得还有一些点其实是非常明显，就是它的还原特别好对吧？技术还原的细节，然后对于文本的理解，包括它能够把上面的文字能够非常精准的还原出来。中文、英文，包括很多做这种研究的板书？他都能够精准的识别到。我就想问老兄，其实图生文很早就有了，对不对？也有很多在这个领域非常领先的一些产品的，但是GPT four o它到底是强在哪里呢？就这次的更新到底能够这么破圈，从技术上来讲它牛的点在哪里呢？
+</p>
+<p class="transcript-line">
+<span class="time"><strong>[00:06:15]</strong> </span>
+<span class="speaker"><strong>发言人3: </strong></span>
+对，因为它其实有一个很本质的一个底层模型，生成的逻辑不一样。UCCO它是用自回归的方式去生成图的那以前的就是我们说的像mid journey和Steve的diffusion这些模型，就是扩散模型，这些是在ChatGPT这种大语言模型之前就存在的。传统的我们说的是人工智能的机器学习相关的一些模型，然后那这些模型的话它的特点就是说我生成，比如说我们现在三个人这个视频图像，它生成的时候是不是整张图一下就出来了。然后再通过降噪把各种各样的东西降到最后我们的图片清楚了。
+</p>
+<p class="transcript-line">
+<span class="time"><strong>[00:06:51]</strong> </span>
+<span class="speaker"><strong>发言人3: </strong></span>
+像GPT4O这种自回归的这种它就不一样。在做纹身图的时候，它有一个顺序，是从左要有从下到上等等这样子的一个顺序。你可以理解成，我觉得理解成就像画圆，它从圆心开始不断的往外面画。他这一边画一边预测下一个到底是什么。所以他们两边就会有一个显著的用户体验不一样。
+</p>
+<p class="transcript-line">
+<span class="time"><strong>[00:07:15]</strong> </span>
+<span class="speaker"><strong>发言人3: </strong></span>
+像GPT4O的这种，允许你用户圈出图上的任何一个地方，然后让他改变他的样子，然后他只改那个地方，其他地方不改。但是你如果是下面的journey和那个Steve division这种传统模型的话，它一定是整张图重新生成了，然后把你那个地方改了。那这个时候就会出现你想改那个地方确实改了，但是其他一些地方不小心也被改了，就是很容易出现这种情况。这个就是我们刚才说的那种可能小的细节，为什么他这边会做的好？他他的一致性就是他可以从很小的地方做一致性。我觉得总的来讲，其实像GP4O我们知道它完全已经是多模态的一个模型。也就是说它还知道音频，除了照片之外还知道音频，还知道视频，就是多张图合在一起怎么动起来，就是手软那一套他这些全部都是知道的，它融汇了一定的空间物理方面的其他的知识了。
+</p>
+<p class="transcript-line">
+<span class="time"><strong>[00:08:07]</strong> </span>
+<span class="speaker"><strong>发言人3: </strong></span>
+我觉得可能比喻上就像我们像正常人，我们是有各种各样的视觉、听觉、味觉各种觉。那它相当于就是打开了这一些，它不是只看视觉。那我们可以如果是传统的模型，你可以理解它是主要是以视觉的这个像素点这些各种地方去分析。他有其他的这种编码的形式去理解现在要画这个东西是什么。某种程度上它其实也就相当于把我们刚才提到的文化里面的很多东西进去了。像吉普力这个宫崎骏的这是一种文化的风格，它本身就包含了它的风格，就是不光光是视觉能看到的那些，还有它整个视觉传递的一些背后的一些人文的东西，他其实会理解在里面。所以它的配色，它的各种颜色的构图，一些构图等等都会都会都会受影响，都会不太一样。那是他更改的时候他也一样，他会尽量去保持它的这个一致性。
+</p>
+<p class="transcript-line">
+<span class="time"><strong>[00:09:01]</strong> </span>
+<span class="speaker"><strong>发言人1: </strong></span>
+所以他这个就从架构上面到这种模型上面的领先就实现的。就是我们一个普通用户就能够口述PS，指哪打哪，指哪改哪，对吧？我觉得这个还是我觉得从技术上我的理解是他可能是做了一个非常大的一个应该这件事情就是做了文本和图像的对齐。然后这个事情其实还是基于它的大语言模型就足够强。所以很多原本的刚才老师讲原本那个图像模型的那套方式，其实它不是基于大语言模型这条路的对，不是，所以对，所以就是等于我觉得和OpenAI是一个非常极端的公司，就是在技术上就是一条路走到黑，就是以单元模型为这个根基。它一定要确保这语言足够强，衍生出来的多模态，不管是图片、视频、音频，在此基础上才能够提高它的上限。对。
+</p>
+<p class="transcript-line">
+<span class="time"><strong>[00:10:00]</strong> </span>
+<span class="speaker"><strong>发言人3: </strong></span>
+有可能也是没有更好的路，从技术上看，对，可能是没有，就是现阶段你去做其他的复杂度更高。其实如果光做图的那个对齐，如果图对图的对齐是非常崩溃的。我们其实之前我不知道有没有印象有人找过我们去数签子有没有印象。对，就说能不能用大模型去数那个烧烤摊上面吃完之后剩下到底有多少个签子，跟我送给他的和最后的剩下的到底差多少等等的。这种事情其实你用大模型去做，他就非常的崩溃。他其实他是。
+</p>
+<p class="transcript-line">
+<span class="time"><strong>[00:10:31]</strong> </span>
+<span class="speaker"><strong>发言人1: </strong></span>
+纯视觉的方案，纯就没有文本能够介入去干预他的整个决策。
+</p>
+<p class="transcript-line">
+<span class="time"><strong>[00:10:35]</strong> </span>
+<span class="speaker"><strong>发言人3: </strong></span>
+对他最后根本用不上。那你这种纯视觉的去校对大模型的话，那你他的校对是其实现在有很多地方真的是有人这么去做。那你你不如以前的那个传统模型的，因为他在那种特定场景下，他还是这个好是的是的，那那然后所以他找出的这个路子确实你就是相当于不能说我要训练一个图，我就靠图。他就是说我训练图，我靠的是语言。
+</p>
+<p class="transcript-line">
+<span class="time"><strong>[00:11:02]</strong> </span>
+<span class="speaker"><strong>发言人1: </strong></span>
+我靠的是其他的面楼层一角。
+</p>
+<p class="transcript-line">
+<span class="time"><strong>[00:11:05]</strong> </span>
+<span class="speaker"><strong>发言人3: </strong></span>
+对我用别的方式，但是因为他知道文字这个地方是就是现在说的这个skating law还是有用的，就是大力能出奇迹，但是这个奇迹到底怎么样出都不不太知道。其实所以多大还自己的这个研究员都会说，其实某种程度上来讲，还是很像15世纪炼金术士一样。就是你你知道了物理世界的一些化学合成方法，好像是可以合出来。但是你并不是很清楚的知道，像我们后面知道的分子式，我们知道了什么东西加什么东西，什么条件下会出什么，加个什么催化剂会出什么样的都不知道。他就是不断的在试试了，他可以试出那个效果。现在是知道scale o在大多数时候他已经摸索出了一套，基本上能练出比较好的精子的一个路子了。那那其他的更难，其他的就一个图像的就已经搞崩溃了。因为他们搞机器人的训练，就那种图像训练已经试过很多次了，就不太行，很多时候还有空间的训练，都都难度都很大那种的。我们刚才说的人工的对齐和人工后面的事情对还还很多的。
+</p>
+<p class="transcript-line">
+<span class="time"><strong>[00:12:03]</strong> </span>
+<span class="speaker"><strong>发言人1: </strong></span>
+所以其实技术路线是一种豪赌，对吧？大家可以理解技术路线真的是一种豪赌。所以你在上面去做任何的所谓all in的动作，你不管是all in这条技术路线还是all in那条技术路线。其实最后可能就是被技术溢出的时候，第一个死的就是你。
+</p>
+<p class="transcript-line">
+<span class="time"><strong>[00:12:21]</strong> </span>
+<span class="speaker"><strong>发言人1: </strong></span>
+所以为什么说很多创业者又哭晕在厕所，然后很多人比如说一些美工，他就觉得他要失业了。那可能就是因为他在技术上做了一个all in，做了一个豪赌。所以在行业的初期做这件事情其实特别危险，吧？就大模型其实还是在以一个非常快的一个进步，在吞噬一切的产品跟一切的一些可能的机会。所以我就想问贤哥，就是我们刚才讲的技术路线，因为必须要先讲到技术的根本，我们才能去讲它未来会怎么样这样的，否则就只是情绪。
+</p>
+<p class="transcript-line">
+<span class="time"><strong>[00:12:56]</strong> </span>
+<span class="speaker"><strong>发言人2: </strong></span>
+我觉得这个事情咱们是站在哪个角度来谈。如果说咱们在用户的角度来看，就是我需要什么我需要什么东西，对吧？那我用的什么工具其实是在于成本，我是这么觉得。举个例子，就是现在GPT让我来做做这个事情的时间成本和我需要花费的成本都很低，那我就不需要找一个人了。但如果我对这个东西精度要求很高，然后对这个东西创意要求很高，那我还是要去相信一个人。所以我认为这个东西还是在于从就是从用户这个角度来讲的话，我只考虑成本。这个成本包括时间，包括就是我能找到合适人，包括能签这些东西的成本。
+</p>
+<p class="transcript-line">
+<span class="time"><strong>[00:13:31]</strong> </span>
+<span class="speaker"><strong>发言人2: </strong></span>
+如果说从长远来看，那肯定跟AI交流会比跟人交流要简单很多，对吧？在在跟人交流中，我们还有很多的这种人情世故的东西，还有很多技术以外的东西。但是在现在这个阶段上来讲的话，只有少数的几个团队可以做这种技术的开发的突破。
+</p>
+<p class="transcript-line">
+<span class="time"><strong>[00:13:48]</strong> </span>
+<span class="speaker"><strong>发言人2: </strong></span>
+当然OpenAI肯定是领先的之一。所以在我看这个事情的时候，当这个东西出现之后，首先我觉得open I很聪明。这个聪明只在于是说从这个现象本身他成功了。他通过这么一个图片的文生图的这么一个方式，又把自己的名字排在前面，又把自己枫推到风口浪尖上来了。但是从这个行业上来讲的话，我觉得还远远不够。因为我也试了很多他这个文生图的功能，确实很惊艳。
+</p>
+<p class="transcript-line">
+<span class="time"><strong>[00:14:13]</strong> </span>
+<span class="speaker"><strong>发言人2: </strong></span>
+尤其是说比如说文字的这种一致性，包括这种识别，都比以前要强太多了。然后以前我用my journey的时候也发现他可能对一些想象的东西很好。比如说我们生成一个什么桌面或者怎么样的话，他可以有很多创意。但是从如果我们需要一些真实的、工作性的，比如工具性的一些需求的时候，要求他能生成一致性的图片或者连续图片时候很难。
+</p>
+<p class="transcript-line">
+<span class="time"><strong>[00:14:34]</strong> </span>
+<span class="speaker"><strong>发言人2: </strong></span>
+但是open I给了我一个，怎么说呢？希望我相信它未来会更好，我相信他未来一定可以。对，但是你如果说我会不会一定选择他，就是说相信他有了他我就不需要人了，我不这么想，为什么会有？
+</p>
+<p class="transcript-line">
+<span class="time"><strong>[00:14:48]</strong> </span>
+<span class="speaker"><strong>发言人2: </strong></span>
+我有两个原因，第一个原因就是说我觉得open I他马上要变成一个盈利性的公司。这大家可能也看到新闻了，就是说他是他要在今年年底变成一个纯盈利性的公司，对吧？他因为要吸收软银的资本，当然从我个人角度来看，我觉得这是互相为托词。就是他说我要融资，要达成这个融资，所以我要变成这个事儿。其实更多可能是说他先跟投资人说，我们借这个机会？就变成盈利性公司了，摆脱以前这个所谓开源公司的这么一个负担精神负担。
+</p>
+<p class="transcript-line">
+<span class="time"><strong>[00:15:15]</strong> </span>
+<span class="speaker"><strong>发言人2: </strong></span>
+当然所以说如果从欧盟的盈利来说，那你大家来看他能靠什么盈利？他如果靠订阅盈利，我觉得是很棒。他肯定靠的是技术的溢出之后的这个赋能。那他赋能给谁呢？
+</p>
+<p class="transcript-line">
+<span class="time"><strong>[00:15:26]</strong> </span>
+<span class="speaker"><strong>发言人2: </strong></span>
+父母能给的还是这些能付得起钱的大公司。就是我觉得他还是要做to b的生意，然后带动to c的业务的发展，这是我的感受这是我感受。所以大量的公司还是要去接业务，然后接了业务之后用他的工具来实现，吧？所以跟中间关还是脱离不了人的，中间还是有人的这么一个环节来来翻译这个需求，吧？可能就是说哪些公司能利用好它的技术，就变成了这个行业中的翘楚。而不是说中间直接跳过中间商，直接不需要人了。就是人和机器人和技术本身了，还是人人技术这样一个路径，所以这是第一点。
+</p>
+<p class="transcript-line">
+<span class="time"><strong>[00:15:59]</strong> </span>
+<span class="speaker"><strong>发言人2: </strong></span>
+第二点来讲，就像老师刚才说的，就是从技术手段来讲，其实现在并没有定论的，就并不是说像当年CD刚发生的时候，发出的时候还有几种格式之争，最终确定了就是用这一种，所有的音乐行业都用这种标准。其实还没有你像DBC的出现就代表了一种新的这种思路，对吧？包括在这个文生图这件事上，我觉得还远远没有到达。最后真的是我们一说就能出手漫画对吧？把我的小说自己写的小说搁里头，直接告诉说人物是什么样子，就能生成一本漫画，或者把金庸的书直接翻译成原画，我就还到远到了那个能力。
+</p>
+<p class="transcript-line">
+<span class="time"><strong>[00:16:32]</strong> </span>
+<span class="speaker"><strong>发言人1: </strong></span>
+所以我觉得行业内的人跟行业外的人看这件事情就会不太一样。其实你刚才讲的，他远无法用口述生成一本绘本或者漫画，对吧？就是他无法进入真正的商用环节。因为商用环节里面要校对、要修改、要金条，然后要合规、要审核，对吧？那这里面的往复成本其实是特别高的那你通过人跟AI的交互，它它其实很多程度上变成再次生成的这种成本也是非常高的这往复成本非常高，然后也对也结合很多我们之前聊过的case，就是很多AI在商用里面还是更适合打样。所以会很多个体人他就会看到机会，我可以通过口述做漫画等等，但是这些东西往往是精度不高的，或者是一个草稿性质的这样一个东西。
+</p>
+<p class="transcript-line">
+<span class="time"><strong>[00:17:22]</strong> </span>
+<span class="speaker"><strong>发言人2: </strong></span>
+如果想做出真正精品，肯定人的加工能力，就加工的时间肯定要投入很多，普通人还是做不了。所以还是那些真正的精英，或者是真正擅长用这个的人才占到便宜。
+</p>
+<p class="transcript-line">
+<span class="time"><strong>[00:17:32]</strong> </span>
+<span class="speaker"><strong>发言人1: </strong></span>
+对对对，像我们刚才开头在讲的，包括昨天我看到杨丽坤有一个新的暴论，他就是说现在的大元模型就是未来迟早会被淘汰。因为架构是跟不上整个我们需求的爆发。他的好比说我今天要做一个漫画好了，那有可能我需要有一个agent来帮我去做。比如说大纲文本，有一个agent帮我去做草稿，有一个agent去帮我去做修图。它可能是涉及一个多agent协作的形式，但这里面可能哪一个A卷出了问题，或哪个A卷迭代了，哪个大模型迭代了，他可能就跟不上了。
+</p>
+<p class="transcript-line">
+<span class="time"><strong>[00:18:13]</strong> </span>
+<span class="speaker"><strong>发言人1: </strong></span>
+也就是纯靠这种大元模型架构的这种商用场景，其实稳定性非常差。对，其实稳定性是不高的，或者是说这种风险特别高。其实技术不管技术的风险，还是生成内容可用性的这种风险，或者是回炉的这种风险，其实都特别高。所以这个是很多人焦虑背后，他没有去真正走到行业里面，他没有去注意到的。
+</p>
+<p class="transcript-line">
+<span class="time"><strong>[00:18:40]</strong> </span>
+<span class="speaker"><strong>发言人1: </strong></span>
+包括很多像自媒体，内容创作者、插画师，他会有反抗的情绪。对，但我不能说这个反抗的情绪不对，只是说好一个好的技术就是会让人举一反三，包括激进的拥抱是举一反三。你觉得未来会这样吗？是举一反三，那你包括你要失业了，或者你会有厌恶情绪，也是一种举一反三。因为大部分产生这种情绪的时候，他其实内心有个点被触动到了。他可能觉得说那我的优势在哪里？他想不清楚这个事情。对，所以我会觉得说就杰乾哥刚才讲的一个点，就是我会觉得说你变成说除此之外，你还是要有更强的定义风格跟定义需求的能力。其实这个是比模型去帮你实现更重要的一件事情。
+</p>
+<p class="transcript-line">
+<span class="time"><strong>[00:19:30]</strong> </span>
+<span class="speaker"><strong>发言人2: </strong></span>
+对，然后我倒是觉得我因为我这两天一直在试它的边界。比如说我先做两个人的合影，三个人的合影，四个人合影。等我到6个人的时候，就会出现问题了，有的时候就是这个有些人物就抓不到了，或者说人物的细节就漏掉了。如果说比如文字很多的时候他就做不到了，对吧？比如说超过十几个字之后，他就可能出现的混乱。所以就是说技术本身肯定还有大量的空间去前进，很大的空间。
+</p>
+<p class="transcript-line">
+<span class="time"><strong>[00:19:56]</strong> </span>
+<span class="speaker"><strong>发言人2: </strong></span>
+但是里面有一点特别有意思，我跟大家就是说跟你们两个分享。就是以前你看比如说我要生成一张图的时候，我需要做大量文字描述，就提示词。当然包括有很多课程都是卖在卖所谓提示词。那这回我就直接扔给他一张图片或者是我自己的照片，让他生成一个吉普利风格的一个东西，就OK了，就这几句话，但是我会逆向的让他去把他的提示词给我输出来。你会发现一个特别有意思的事，就是说他的提示词还是非常全面的。他会定义说比如说色彩丰富，然后的色彩是柔和的还是怎么样的，光影是什么样的，是什么季节，其实它是内部做了A镇，就是我我把它理解成就是所谓的A镇的，就是他自己给自己搞了个A证出来。就是说当客人提出这种要求的时候，我需要先编一套这个提示词给到语言模型，然后让模型再去生成图片，对吧？所以我认为这是一个思路。
+</p>
+<p class="transcript-line">
+<span class="time"><strong>[00:20:43]</strong> </span>
+<span class="speaker"><strong>发言人2: </strong></span>
+就是未来大大模型也好，或者说很多公司也好，都会把这些所谓的基础步骤，或者叫必要的关键的环节整合到内部的这个流程里面来，让用户看不到了。就像我们现在打开一个APP之后，我不需要去完成很多很多步骤才能够真正开直接开始使用。但这些过程是封装在里头的，就是我们所谓封装在里头的，对吧？那未来是不是很多创业公司就是在这个基础上，是你到底是要跟着大模型的大厂商走，还是说你要自己独立的做一款AI应用。我觉得这是一个选择的节点了，这是我个人的一种感受。这个问题我不知道，我就我描述清楚没有。
+</p>
+<p class="transcript-line">
+<span class="time"><strong>[00:21:19]</strong> </span>
+<span class="speaker"><strong>发言人1: </strong></span>
+反正我的描述你描述的非常清楚，其实就是有点像工业革命之后的技术，工具套工具，那一个一个生产一颗螺丝钉。原本在手工业时代可能有108道工序。但是可能蒸汽机出来以后，车床出来以后，这个工序可能从108个变成三个。但这三个核心的工序里面又融合了以前的可能一百多个工序在里面。那就是一个技术套技术，工具套工具的一个过程。我觉得确实是这样的。但如果你只看到单点的技术创新，没有看到一个组合的技术创新，那其实你很难去看到这个变革的全貌。这没有看到变革全貌的时候，你就不知道到他的先进性，也不知道他的这种落后性在哪里，那你就会产生情绪，这是一个很正常的。
+</p>
+<p class="transcript-line">
+<span class="time"><strong>[00:22:07]</strong> </span>
+<span class="speaker"><strong>发言人1: </strong></span>
+所以为什么说很多舆论说每次大模型更新都要死掉一波公司。其实死掉的这波公司或者是失业的这些人，他就是在单点上面做聚焦，单点上面守着这块一亩三分地，他没有去看到这个事情的全貌。比如说你说宫崎骏为什么会反对AI？我觉得很正常。就是你你做了一辈子这样人，然后突然有一个东西做出来达到你的60分，你肯定不爽，对不对？虽然可能每一张图在宫崎骏的眼里都是不合格的，但是大众没有这样的评判能力。大众只会觉得说我离宫崎骏更近了，对吧？
+</p>
+<p class="transcript-line">
+<span class="time"><strong>[00:22:48]</strong> </span>
+<span class="speaker"><strong>发言人1: </strong></span>
+那站在这个象牙塔顶端的人一定会反抗的，但是享受这个狂欢的人，他是真的受益者，所有的进步的背后都是从象牙塔走到百姓家，都是这样的。从诗歌词曲戏曲、唐诗宋词元曲，都是从贵族权贵精英阶层走到了朗朗上口，平民传唱才能流芳百世。所以我觉得从这个角度看，我觉得如果我是宫崎骏，我当然会不爽。但是我觉得换个角度，如果我们每个人都把自己变成一个60分的宫崎骏，那是不是这个世界上就多了很多有创意的内容。因为你可以用宫崎骏的60分的审美去做很多快速的生产很多我觉得相对优秀的内容，其实是个好事。通俗化对不对？
+</p>
+<p class="transcript-line">
+<span class="time"><strong>[00:23:39]</strong> </span>
+<span class="speaker"><strong>发言人3: </strong></span>
+这个通俗话其实特别重要。我也补充一个，因为从技术端我看到的东西很有意思，就是我我自己在一些相当于一些可能搞钱的一些社区。这些社区它也比较大了，好多人了，就是个五六万人这样子的那我会发现他们现在在里面自发在组织的是什么？就是去用这个AI编程去做自己，把自己原来没有能力，根本想都不敢想的创意给他做出来。而且很直接的就是要做，做到什么程度？第一就是要能做到，可以相当于把这个商业渠道做出来。一个是上线海外的网站，可以直接在上面放自己的内容，销售自己的产品。第二个就是去苹果的apple store去做APP，而且他们采用的方式是直接上。我用上我们之前讲的像这个咳嗽或者。
+</p>
+<p class="transcript-line">
+<span class="time"><strong>[00:24:29]</strong> </span>
+<span class="speaker"><strong>发言人1: </strong></span>
+windows .
+</p>
+<p class="transcript-line">
+<span class="time"><strong>[00:24:31]</strong> </span>
+<span class="speaker"><strong>发言人3: </strong></span>
+ve全自动这些对这些AI编程的辅助工具，把自己的想法快速的做出原型。这里面组一波有一些会写代码的人去做教练，然后大家互相帮忙。然后过程中后面有一些分层的方式就做成了有一些分成的方式。甚至里面有些人就做比较有钱，但是技术上实在自己上手还是特别有困难的那他就出一些天使基金都有就这样这样子的。
+</p>
+<p class="transcript-line">
+<span class="time"><strong>[00:24:58]</strong> </span>
+<span class="speaker"><strong>发言人3: </strong></span>
+我看到像这6万人的这样的社群里面，我们大概有有超过几千人，差不多有三千多人。三千多人这样子的一个比例还蛮高的，已经到达到5%的。然后这里面的几千人，他们就是自己在用这个编程的方式，就是真的开始用这些工具，然后去把自己原来想过的一些想法，对没不敢根本不敢想去做。现在他们就敢拿起来去做，而且确实很快。我看到他们很多人真的没摸过这些东西的，就是去去开通这个账号，然后去搞一个该怎么科学上网，还有什么样的事情，反正都是原来从来都没做过的，障碍非常大的，现在都能搞，下来就开始写代码，写代码都是靠口述的，从来没自己写一行代码。但是这个东西网站就出来了，APP能上线，他们大部分人可以在两周左右，就是可能有一半的人，可以在两周左右把自己从来没做过的这个事情给做了，还买域名配服务器干啥。
+</p>
+<p class="transcript-line">
+<span class="time"><strong>[00:25:57]</strong> </span>
+<span class="speaker"><strong>发言人1: </strong></span>
+全部都是很重要。以前他们讲的是要不要做，现在是能不能做。
+</p>
+<p class="transcript-line">
+<span class="time"><strong>[00:26:02]</strong> </span>
+<span class="speaker"><strong>发言人3: </strong></span>
+我在想的就什么时候做，现在想的时候不做就是什么时候做。然后大家有一些人可能发起了之后，就是有些人会出来做教练，或者是给一些各种各样的资料给到位。其实就有看到有这么多的人已经干起来了，而且还挺快的，而且真的干出来了。我觉得我自己也在其中去去试了一下，就是我看了一下这些群友们整理的一些资料，我发现确实可以。虽然说有些东西我从专业的角度看，可能可能写的比较硬，就是跟你说到了哪个地方干什么事，然后也但是就够了，就可以上，就这个东西可以上。对，然后后面先上了再说。
+</p>
+<p class="transcript-line">
+<span class="time"><strong>[00:26:40]</strong> </span>
+<span class="speaker"><strong>发言人3: </strong></span>
+他们其实大部分都是以搞钱经商的这个角度来想的。比如说这些站点和APP，最重要的是你先上网站的话，一定是先让这个网站开始，每天问你的问题就是你现在网站上了没有？现在每天流量有多少人看你的网站每天问的这个问题，IOS就是问你，你的订阅付费什么时候开？就是天天问这个问题，开了以后挣了多少钱，那个到了多少的那个有多少国家的曝光，其实就问这些。他用最后你交付给用户的那个东西来反过来让你去用这个工具把它做出来而已。它是是这么个过程，我会看到大量的人这么在做，我觉得这个其实是已经是AI在改变大家的这个是的。
+</p>
+<p class="transcript-line">
+<span class="time"><strong>[00:27:20]</strong> </span>
+<span class="speaker"><strong>发言人1: </strong></span>
+生产力。你讲到点上了。因为很多时候看一个变革，不是看说他在纸面上或者是表面上做了什么，而是要看整个组织方式或者一个社会关系变了没有你刚才讲的，其实一个社会关系的演变，或者生产关系的变化。那这个趋势我觉得比较明显，就特别明晰的对，这个趋势是看得见的，然后正在悄悄发生的。只是很多人只是去讲技术的变化，没有去讲生产关系跟组织的变化。但是这个点特别重要。
+</p>
+<p class="transcript-line">
+<span class="time"><strong>[00:27:51]</strong> </span>
+<span class="speaker"><strong>发言人3: </strong></span>
+真的很重要。我就发现他们里面的细节抠的都很好，就是实干型。比如说歌手到底要用0.45版还是0.47版，这两个版本有什么差别？你现在是什么阶段的人？如果你现在是什么也不懂你最好用0.45版。如果你有一点点懂了，你用0.47。就是这么个交流，大家交流的都是这种细节了。
+</p>
+<p class="transcript-line">
+<span class="time"><strong>[00:28:11]</strong> </span>
+<span class="speaker"><strong>发言人2: </strong></span>
+所以其实干的人多了，自然就会有很多这种所谓的这种宽藏的经验出来，对吧？就是实打实的真正应用的经验出来。而这种东西是可能连这个技术开发者都不太是的。
+</p>
+<p class="transcript-line">
+<span class="time"><strong>[00:28:23]</strong> </span>
+<span class="speaker"><strong>发言人3: </strong></span>
+所以其实我就会这点，因为我自己是做技术开发的，我就像你提到的，我会发现他们连对这个版本的细微的版本差别都有注意到。因为这里面其实跟我专业的人没什么差别。但是对他非专业的人可能是个门槛。他就知道要用更早的版本，更可以更快的做出他要的东西。所以这些东西我就觉得很好。
+</p>
+<p class="transcript-line">
+<span class="time"><strong>[00:28:43]</strong> </span>
+<span class="speaker"><strong>发言人1: </strong></span>
+所以说为什么回到那个问题？每次大模型更新都会死掉一波创业公司。我觉得这个问题的背后就是你如果是依附于技术，all in all in于技术或者纯技术驱动的那你最后是必然被技术反噬的。我觉得这个理论非常正常，因为你只是聚焦把眼睛放在技术上面。但是你忽视了人跟人的协作，你忽视了组织关系，你忽视了客户关系。很多变化其实来自于技术之外，技术只是最后临门一脚破窗的人。但是你如果去放大它，比如说我觉得现在死的最多就是那些做做那个me journey套可做教程的，然后还有这种电商作图的。
+</p>
+<p class="transcript-line">
+<span class="time"><strong>[00:29:27]</strong> </span>
+<span class="speaker"><strong>发言人1: </strong></span>
+很多to b的公司。他们其实原本做了一堆这种大的模型，投入好几个亿去做这种换图换装，然后去做到商用。那这下又被open I溢出给打打懵掉了，不能说死掉，因为to b还是关系比较稳固的。
+</p>
+<p class="transcript-line">
+<span class="time"><strong>[00:29:43]</strong> </span>
+<span class="speaker"><strong>发言人1: </strong></span>
+对，那还有很多比如说像原本的一些初级的美工，就是叫你帮我P个图，改个色，logo大一点这种美工，当然也很危险。对，那这肯定是看得到，因为你就只会做这件事情，或者你眼光就只在技术上面，你没有去看别的东西。这是。
+</p>
+<p class="transcript-line">
+<span class="time"><strong>[00:30:02]</strong> </span>
+<span class="speaker"><strong>发言人3: </strong></span>
+尤其是像刚才说的，可能做AI电商，或者是很多本身在做自动化领域的对，反正现在这个东西你可以看到它的上限很强。当然下限有个问题，就是成本上还是有问题的。就让你自己调API去跑，他可能还很贵。问题是这个有一个趋势，大家能看到的就是说他至少这三年每年的成本可以降十倍左右。对，就降为10分之1左右。也就是说我如果再过两三年是现在的1%的成本，然后质量还比现在好。
+</p>
+<p class="transcript-line">
+<span class="time"><strong>[00:30:32]</strong> </span>
+<span class="speaker"><strong>发言人3: </strong></span>
+那这个时候也就是这里面会有一个竞赛的关系，就是我这个调API去生成出来以后，有可能一个是本身的价格，还有个就是可能我还要加工一下的一些成本。这两个成本加在一起，我比请你这个人，请你好几个人来干要接近了这个事情可能很可能就会被换掉。因为还有一个成本。
+</p>
+<p class="transcript-line">
+<span class="time"><strong>[00:30:53]</strong> </span>
+<span class="speaker"><strong>发言人1: </strong></span>
+一定要技术迭代压铸技术的成本。比如说我原本走走stable diffusion这条路的，然后突然到OpenAI这条路了，整个技术整个行业切换了，然后你以前的是投入全部打水漂了。
+</p>
+<p class="transcript-line">
+<span class="time"><strong>[00:31:07]</strong> </span>
+<span class="speaker"><strong>发言人3: </strong></span>
+对，尤其还有就是其实包括连自己招聘的人员可能也跟不上这个星座，这这也这也都是切换的成本。但是老板必须得想这个事情，因为你能看到也许再过两三年，这个AI的就我们说可能是个AI的一个员工了，能够过来帮你干事的那这个员工的。
+</p>
+<p class="transcript-line">
+<span class="time"><strong>[00:31:25]</strong> </span>
+<span class="speaker"><strong>发言人2: </strong></span>
+两三年。
+</p>
+<p class="transcript-line">
+<span class="time"><strong>[00:31:26]</strong> </span>
+<span class="speaker"><strong>发言人3: </strong></span>
+对这个成本大部分。
+</p>
+<p class="transcript-line">
+<span class="time"><strong>[00:31:27]</strong> </span>
+<span class="speaker"><strong>发言人2: </strong></span>
+可能发就是8到10个月，可能就开始要准备这件事了。
+</p>
+<p class="transcript-line">
+<span class="time"><strong>[00:31:30]</strong> </span>
+<span class="speaker"><strong>发言人3: </strong></span>
+就越大的公司会越快。但是我们如果到小公初创一点，这可能是几十个人十几个人或者几个人的公司的话，可能会好一点。因为也不会那么快，大家的人力成本都低一点。但是这里面就是可能突然到了一个我们可能说是基点，就是突然一个转折点。到那个时候你会发现，直接可能换这个会比那个好，那在这个时候就得提前去想一下，我什么时候应该把什么东西，就是相当于我们像上次聊百度跟谷歌一样，就是创业者还是得一直去想自己的第二曲线。就是你你现在看到这个东西，我觉得要得得想你可能在人力和做事方法上要更新一下思路来看一下。这个也许不是现在两三个月，33到6个月的事，但是6到12个月到24个月，可能你这里面就得换。不然的话你可能现在的很多东西到时候一切换，那那你的会赶不及，然后你可能就主营业务收入敏感性，对，会受影响。
+</p>
+<p class="transcript-line">
+<span class="time"><strong>[00:32:28]</strong> </span>
+<span class="speaker"><strong>发言人1: </strong></span>
+比如说你像日本all in个氢能源对吧？然后突然中国跟美国说，我们两个搞电，他就哭晕在厕所，对吧？那这种技术压铸的风险其实特别高的，所以我刚好也做一个预告。因为我下周可能会跟吉瑞科技的斌一起来聊一下这个话题。因为他们是做也是电商领域的AI的自动化的这一块，包括换装全流程的这种，我我想我也想通过跟他聊天知道说这个事情对他们的影响，对to b的影响究竟有多大，或者他们的直观的感觉是怎么样。所以跟大家做做一个预告，也多关注人民公园说AI的后续的关于这种纹身图的一些讨论。对。
+</p>
+<p class="transcript-line">
+<span class="time"><strong>[00:33:13]</strong> </span>
+<span class="speaker"><strong>发言人2: </strong></span>
+但是回到从个人角度来说，尤其是个人创业者来讲，谈这个技术在在技术还在不断涌现和前进的过程中的创业。我觉得在极端点说，就是选择是没有中间派的。所以选择没有中间派，要不然你就跟着大大公司走，亦步亦趋。
+</p>
+<p class="transcript-line">
+<span class="time"><strong>[00:33:28]</strong> </span>
+<span class="speaker"><strong>发言人2: </strong></span>
+就是你做那个犀牛或者河马旁边那只小鸟，从他们牙缝里面叼吃的，你永远活得很开心，对吧？就是你伴游，你就是说你就是跟得紧跟得紧的话，总有一些人是后知后觉的。比如说像刚才说到这个普及度是很高的那大家都都开始尝试了，然后很多人会不太就不太清楚怎么搞，甚至说不知道怎么开账户。而你是他们所有人身边最懂那个人，那大家会倾向于先找到你，对吧？他们不能直接联系OpenAI，就把你当成一个免费客服了。那在这个过程中，你的责任体现出来了，对吧？就像那会儿会修电脑，男生就可以进女生宿舍一个道理。
+</p>
+<p class="transcript-line">
+<span class="time"><strong>[00:34:03]</strong> </span>
+<span class="speaker"><strong>发言人2: </strong></span>
+就是你要会你要会在大趋势之下找到自己的生态位，然后要不然就是什么呢？我觉得要不然就是说你有自己的真就是金刚钻。这个金刚钻不是在技术层面的。像刚才小苏说的，我特别同意，就是说你不要去跟大的技术公司赌技术，你觉得你一定可以比他强。我觉得那个有点井底之蛙，或者说有点有点这个怎么说呢？不知天高地厚。但你可以在应用层面上比应用的。对你你可以在比如说你对行业的熟悉，然后你对这个比如举个例子，就说文生图，你是是是特别熟悉一种画风，比如你特别熟悉哥特风，对吧？那在这件事情上大模型的训练是绝对不够的对吧？
+</p>
+<p class="transcript-line">
+<span class="time"><strong>[00:34:39]</strong> </span>
+<span class="speaker"><strong>发言人3: </strong></span>
+特别是他特别了解某个大客户的偏好，这个其实很重要。
+</p>
+<p class="transcript-line">
+<span class="time"><strong>[00:34:43]</strong> </span>
+<span class="speaker"><strong>发言人2: </strong></span>
+这个特别重要这个客群在哪儿吧？而且你在客群里面建立了自信或者建立了信，那个就是你的声望，然后你去用大模型，然后你去用大模型的时候，你可以不告诉大家你该怎么做。但你生成质量很好，永远都超过别人，那你就OK了。这时候技术再怎么进步，也只是为你所用，而你又不会说被某某个技术给绑定。所以这个时候还是要建立自己的独特性。所以我认为就选择没有中间派，你不可能既就是既吃技术的红利，然后又可以说靠技术本身赚钱。我觉得这是不太可能的。
+</p>
+<p class="transcript-line">
+<span class="time"><strong>[00:35:13]</strong> </span>
+<span class="speaker"><strong>发言人1: </strong></span>
+对，但我觉得这个事情它是一个强者恒强的事情。就是永远最后会胜出的一定不是你用了多先进的的工具，而是你有多先进的思想，或者你多么能定义风格。如果说从文生图的角度来讲，我觉得你对定义风格，你能把握潮流这个事情更重要。所以这个事情最终利好的是宫崎骏，我觉得坦白说真的，或者利好的是像LV这些香奈儿，这些能够制造风格，制造潮流的东西，对吧？因为定义权在他手上，他只是把他自己复制出来了。永远举个例，在那些不能定义风格的人手上。
+</p>
+<p class="transcript-line">
+<span class="time"><strong>[00:35:51]</strong> </span>
+<span class="speaker"><strong>发言人2: </strong></span>
+对举个例子，比如说咱们不说宫崎骏吉普力了，我就说我当时用的时候我特别想什么？就是如果他现在因为当时三特曼是用吉普利E风格做的，举例就是他在原始的时候，所以大家都来搞这个，发现确实差不多。所以我内部的感觉就是说他在内部是在做培训训训基训基础训练的时候，模型训练的时候，一定是用了大量吉普力的训练来做调校，所以生成的效果才好，对吧？那我要让它生成上海美术的这种风格，就是老版的哪吒和大明宫的风格，他就不行对吧？那举个例子，就是说在这种情况下，相对于尚美，他可不可以授权deep sik去训练，然后也用这种方式来做。我们的自己的模型就能生成符合中国人审美的这个东西。
+</p>
+<p class="transcript-line">
+<span class="time"><strong>[00:36:34]</strong> </span>
+<span class="speaker"><strong>发言人2: </strong></span>
+从授权方来讲，从模型上来讲都是受益的那从大众来讲，可能就能把很多儿时的一些记忆唤醒，用这种风格去做自己的照片，和这个合影的小学同学合影等等的。所以这都是大家我觉得整个社会都会受益的东西。所以这个本身我觉得open爱是打开了一条文生图的思路。这个技术本身并不是说被垄断的，但这个思路被提出来之后，被大众所接受，就会产生很多新的机会。所以我我我。
+</p>
+<p class="transcript-line">
+<span class="time"><strong>[00:37:00]</strong> </span>
+<span class="speaker"><strong>发言人1: </strong></span>
+特别同意之前李开复讲的观点，OpenAI这条路它是不可为继的。因为他一个人不可能穷尽这些所有的需求场景。对然后之前杨丽坤也讲了，目前的大约模型可能在未来会被淘汰。因为架构是落后的，就整个整整个的不符合我们所有的物理，包括视觉的这样一个，它仅是一个文本模型。所以我觉得要实现你刚才讲的这个东西，要么OpenAI特别强，要么就是每一个用AI的人特别强。所以这里面会我觉得可能后面还会有一个技术组合上面，不能说架构，就是说技术组合上面的一个变革还是蛮大的，所以也没有必要去焦虑。
+</p>
+<p class="transcript-line">
+<span class="time"><strong>[00:37:45]</strong> </span>
+<span class="speaker"><strong>发言人1: </strong></span>
+我觉得这个事情因为还很浅，或者只是让你看到了举一反三，我也变能变成宫崎骏的可能，但是你远远还达不到你能够变成宫崎骏，首先你可能也没准备好，对吧？是第二可能技术也没那么的强我觉得这个是要跟大家讲的，但是贤哥讲的这个观点就是没有中间路，我是认同的。你要么就走技术派，你完全相信我技术，那要么你就是回归到最终的，就是我去做好我的基本功，我定义风格，我去做好一个优秀的设计师，我去定义，我去开宗立派，我去创办风格。所以这个事情是没有中间道路可选的。我又要做一个预告了，刚好这个事情我可能最近还会跟另外一个频道的，无穷动的那个Jennifer来做一个串台聊这个事情。
+</p>
+<p class="transcript-line">
+<span class="time"><strong>[00:38:41]</strong> </span>
+<span class="speaker"><strong>发言人1: </strong></span>
+他是做营销的，营销人他们可能更多是从文科的视角，他觉得说这对宫崎骏不公平，对吧？那这个事情需要来辩论一下，我觉得我也挺愿意去聊这个事情的。就是从我的观点，我觉得技术永远是中立的对，技术他无法去做善恶的判断，但是人可以？道德可以，哲学可以。也就是说文科它是能够去判断善恶的，但是理科但是技术他只能去帮你去应该说文科可以去认识世界，可以定义世界，但是理科可以去改造世界。我只能这么说，但是到世界的工具它是中性的，对他没有善恶判断的。所以我觉得这个问题再聊下去，就是一个很很蛮深的一个问题。
+</p>
+<p class="transcript-line">
+<span class="time"><strong>[00:39:31]</strong> </span>
+<span class="speaker"><strong>发言人3: </strong></span>
+要进入哲学范围了。
+</p>
+<p class="transcript-line">
+<span class="time"><strong>[00:39:33]</strong> </span>
+<span class="speaker"><strong>发言人2: </strong></span>
+对对对，我觉得也没有那么黑白分明。因为创业者本身我就所以也是文理兼续的。任何我觉得任何一个成功的创业者都得是雌雄同体，文理兼备。对。
+</p>
+<p class="transcript-line">
+<span class="time"><strong>[00:39:42]</strong> </span>
+<span class="speaker"><strong>发言人1: </strong></span>
+因为世界本身就是灰度的，那对你你你你技术它是没有灰度的，但是世界是灰度的那你怎么用一个没有灰度的东西去去解决这个这就是对这一个有灰度的事件呢？我觉得很难。对，反正就是也跟大家做一个预告，关于这种这种更更偏这种人文层面的探讨，我会放在后面几期的节目来做一个串台。但我们节目的观点既然叫做人民公园说对不对？我觉得我还是站这个效率派，我还是站技术的对，我相信技术的对，但是我觉得像贤哥讲的，我们其实我们频道也更就叫什么雌雄同体，对不对？
+</p>
+<p class="transcript-line">
+<span class="time"><strong>[00:40:31]</strong> </span>
+<span class="speaker"><strong>发言人2: </strong></span>
+但是借这个话题，我想call back一下，上次我们谈google，我就这open I把这件事情推出来之后，我第一个可惜的就是我觉得这个事应该oogly来做。说真话，那就是说google如果想出来早一点，因为你想它本身的模型也可以，算力也够，素材也多，对吧？然后反正人员也跟，就为什么他没有想到一个像这样破圈的方式呢？就是他的技术能力为什么没有达到这个高度。
+</p>
+<p class="transcript-line">
+<span class="time"><strong>[00:40:58]</strong> </span>
+<span class="speaker"><strong>发言人3: </strong></span>
+或者我这个我得说这个他可能是不敢做。因为你一开始已经讲了，宫崎骏就准备要起诉公积金，这边就是很不满。其实这就涉及的一些法律问题的，就是你在直接在应用我的这个东西，大量的应用其实我估计没有得到合适的授权的。为什么？你如果你今天你今天去用一下那个4O去生成宫崎骏的这个，会发现有一些限制，我今天已经发现了，所以你说你如果跟大家说生成这个宫崎骏风吉普利风格，他会直接说，由于法律法规的限制。
+</p>
+<p class="transcript-line">
+<span class="time"><strong>[00:41:33]</strong> </span>
+<span class="speaker"><strong>发言人1: </strong></span>
+我你要电图一下，你要垫个图。对你要让A图做成B图的样子。
+</p>
+<p class="transcript-line">
+<span class="time"><strong>[00:41:37]</strong> </span>
+<span class="speaker"><strong>发言人3: </strong></span>
+对，已经有限制了。这个事情就跟我们S干过好几次。你记不记得他做那个声音的时候，他他把那个应该是黑寡妇的那那个谁的声音拿来做，就是贺。那黑寡妇是贺的配音，他就直接拿去配音了。然后对方是非常火大，根本没跟我通知，你就把声音给我。全世界都是。
+</p>
+<p class="transcript-line">
+<span class="time"><strong>[00:41:56]</strong> </span>
+<span class="speaker"><strong>发言人1: </strong></span>
+我插个话，我就是这个事情我是占OpenAI的。就是任何的技术或者任何的创新都是从野蛮生长开始的。就是这个野蛮生长的那个苗头，我们是不能给它掐掉的对，所以我是占open I的对。
+</p>
+<p class="transcript-line">
+<span class="time"><strong>[00:42:11]</strong> </span>
+<span class="speaker"><strong>发言人3: </strong></span>
+所以为什么又会这call back到google？就是说你看像这种事情，他是真的绝对不能做，他伤不起。他这个东西要干起来，他可能就从这个赔偿乱七八糟的事情上他得硬，他的他他他可能要赔很多，他自己都不敢干这个事情。
+</p>
+<p class="transcript-line">
+<span class="time"><strong>[00:42:25]</strong> </span>
+<span class="speaker"><strong>发言人1: </strong></span>
+对，就是创新者的窘境的。
+</p>
+<p class="transcript-line">
+<span class="time"><strong>[00:42:27]</strong> </span>
+<span class="speaker"><strong>发言人3: </strong></span>
+你不是你看不行，不是他那个你应该。
+</p>
+<p class="transcript-line">
+<span class="time"><strong>[00:42:30]</strong> </span>
+<span class="speaker"><strong>发言人2: </strong></span>
+这叫领先者的窘境，我觉得他作为领先者之后，他不敢随便乱来他很多东西会受会束缚，反倒是一种初生牛犊不怕虎的。
+</p>
+<p class="transcript-line">
+<span class="time"><strong>[00:42:39]</strong> </span>
+<span class="speaker"><strong>发言人3: </strong></span>
+就随便。对，你看我本来就想大不了我赔，你有多少人我也能陪那个谷歌，谷歌都不敢的，他可能有很多事情会。
+</p>
+<p class="transcript-line">
+<span class="time"><strong>[00:42:46]</strong> </span>
+<span class="speaker"><strong>发言人2: </strong></span>
+所以其实不是我觉得这个敢和不敢，不，我们是有的把它简单化了。就是我们把把一个公司想成一个人了。他这个敢和不敢，其实google里面内部肯定是有很多人敢的。但是真正去做这个角色，谁来承担这个责任，就开始推诿了，因为这个人员太长了，对吧？
+</p>
+<p class="transcript-line">
+<span class="time"><strong>[00:43:02]</strong> </span>
+<span class="speaker"><strong>发言人1: </strong></span>
+就上次我们谈谷歌，你是懂的。
+</p>
+<p class="transcript-line">
+<span class="time"><strong>[00:43:04]</strong> </span>
+<span class="speaker"><strong>发言人2: </strong></span>
+对他一个角。
+</p>
+<p class="transcript-line">
+<span class="time"><strong>[00:43:05]</strong> </span>
+<span class="speaker"><strong>发言人3: </strong></span>
+必须。
+</p>
+<p class="transcript-line">
+<span class="time"><strong>[00:43:06]</strong> </span>
+<span class="speaker"><strong>发言人2: </strong></span>
+的一个十个人连签，那可能open I就三个人就够了，甚至两个人干了，对吧？所以是的，这个事情并不是敢不敢的问题。
+</p>
+<p class="transcript-line">
+<span class="time"><strong>[00:43:12]</strong> </span>
+<span class="speaker"><strong>发言人3: </strong></span>
+而且奥特曼自己敢出来讲，就自己把自己头像都换了，我就这么干对吧？就怎么样了。对你说谷歌那个劈柴那些人敢出，后来把自己给弄了，我就肯定绝对不敢。
+</p>
+<p class="transcript-line">
+<span class="time"><strong>[00:43:24]</strong> </span>
+<span class="speaker"><strong>发言人2: </strong></span>
+没错，所以这回来说回来就是在在这个AI整个大浪潮之下，我觉得官僚的公司或者说这种大型公司都是非常被动的。因为他们角色链条已经在那儿了，官僚的系统已经在那儿了，对吧？官僚这个词本身没有贬义，就是说它是本身是有一个结这个稳定结构的。但在AI变化这么快的技术前提之下，再用这么稳定的结构去应付这么样的这样的一个快速发展的节奏，这是不配套的。
+</p>
+<p class="transcript-line">
+<span class="time"><strong>[00:43:47]</strong> </span>
+<span class="speaker"><strong>发言人1: </strong></span>
+Call back一下刚才的观点，看技术进步先看生产关系对吧？
+</p>
+<p class="transcript-line">
+<span class="time"><strong>[00:43:52]</strong> </span>
+<span class="speaker"><strong>发言人2: </strong></span>
+对，就练习没错。所以就是我回到我的观点，就是当时我看到这个新闻，我看了一晚上这个就是GPT它新更新的这个功能之后，我就特别为google晚期。我说如果google把这个事做了，他能够扳回一局，而且是很大的一局，肯定会有更多的人可能就不觉得我无所谓了。我就用google的这个新的AI模型就可以了，我能做好多好多自己的尝试。
+</p>
+<p class="transcript-line">
+<span class="time"><strong>[00:44:17]</strong> </span>
+<span class="speaker"><strong>发言人1: </strong></span>
+其实google的技术的进步是特别快的。像我们刚录完那个节目以后，上期的节目录完以后，全平台2.5就出来了。然后直接就霸榜各大这种AI的评测的榜单。这技术角度来看？它是非常强的。但是在破圈这个事情总有点又当又立。但是我就不得不说，我还是坚定的对，就是为创新者要点赞。就是我们整个社会包括舆论的宽容度，一定要留给灰度，留一些灰度给到这些真正去做创新的人，否则这个社会怎么进步。
+</p>
+<p class="transcript-line">
+<span class="time"><strong>[00:44:52]</strong> </span>
+<span class="speaker"><strong>发言人1: </strong></span>
+对你当然可以选择不进步了。我他妈回去做宫崎骏，我做个匠人？我去手绘，我去做个匠人，我自己很开心。但是你能够你不能够影响一整个行业的人多赚钱，你不能影响整个社会的进步？你可以自己开心，但是你不要影响别人，你不要出来说一些不合时宜的话。所以这一点的话，我觉得说整个社会跟舆论一定要留空间给他的。但是其实他这个宫崎骏风格这个事情，还是法律上是有灰度的。因为风格这个东西它本身不构成版权。
+</p>
+<p class="transcript-line">
+<span class="time"><strong>[00:45:29]</strong> </span>
+<span class="speaker"><strong>发言人3: </strong></span>
+有很多东西很难定义。
+</p>
+<p class="transcript-line">
+<span class="time"><strong>[00:45:30]</strong> </span>
+<span class="speaker"><strong>发言人1: </strong></span>
+对，很难定义。
+</p>
+<p class="transcript-line">
+<span class="time"><strong>[00:45:32]</strong> </span>
+<span class="speaker"><strong>发言人3: </strong></span>
+对，但是有争议是肯定的。
+</p>
+<p class="transcript-line">
+<span class="time"><strong>[00:45:34]</strong> </span>
+<span class="speaker"><strong>发言人2: </strong></span>
+有争议就是好事。对，有争议的话大家才有话题才可以讨论。
+</p>
+<p class="transcript-line">
+<span class="time"><strong>[00:45:37]</strong> </span>
+<span class="speaker"><strong>发言人1: </strong></span>
+就能搞。但是都不好搞，很难搞，要搞很久。
+</p>
+<p class="transcript-line">
+<span class="time"><strong>[00:45:40]</strong> </span>
+<span class="speaker"><strong>发言人3: </strong></span>
+是谷歌可能也说不定，也是给宫崎骏发过了一些请求了，但是直接都被拒了。对对对。
+</p>
+<p class="transcript-line">
+<span class="time"><strong>[00:45:47]</strong> </span>
+<span class="speaker"><strong>发言人1: </strong></span>
+就是道可道非常道，就是能这个事情能搞，但不能正常搞。
+</p>
+<p class="transcript-line">
+<span class="time"><strong>[00:45:51]</strong> </span>
+<span class="speaker"><strong>发言人3: </strong></span>
+对吧？对。
+</p>
+<p class="transcript-line">
+<span class="time"><strong>[00:45:52]</strong> </span>
+<span class="speaker"><strong>发言人2: </strong></span>
+实际就是这么前进的，对吧？那什么时候也不是非黑即白的。
+</p>
+<p class="transcript-line">
+<span class="time"><strong>[00:45:56]</strong> </span>
+<span class="speaker"><strong>发言人1: </strong></span>
+对对对，所以我觉得反正就聊到这里，应该是给大家整个还原一下。从技术角度，从舆论角度，从未来的技术迭代，包括哪些公司将会失业，从各个角度跟大家串讲一下。就是GPT for o这个事情跟宫崎骏这个事情的一个发酵。所以也希望大家说能够从更多的观点，更客观的来看待AI的进步。当然就是关于这个话题的讨论，我在后面的两级博客也会跟产业里面就正在面临这个OpenAI文声图威胁的创业者，以及站在这个产业里面坚定支持创意人的保护的，包括一些营销人、内容人来聊这个GPT for o的这个事情。所以也请大家多关注我们的节目。未来我们的节目也尽量希望帮助大家多打开一个视野。
+</p>
+<p class="transcript-line">
+<span class="time"><strong>[00:46:52]</strong> </span>
+<span class="speaker"><strong>发言人1: </strong></span>
+虽然我们是说AI，但是我们可能会从不同角度，会从你各种想不到的角度来谈一个具体的AI的进步。就给整个历史的进步做一个叫做注脚。所以这是我们非常希望做的事情。然后对于创业者来讲，我们是希望就是做你创业路上的BGM，这还是我们的对核心。
+</p>
+<p class="transcript-line">
+<span class="time"><strong>[00:47:12]</strong> </span>
+<span class="speaker"><strong>发言人2: </strong></span>
+不会变核心。对，这也是我们我们和大家一起接触AI的一个方式，我们一起来来尝试最新的东西。欢迎大家一块儿去赶快试用。
+</p>
+<p class="transcript-line">
+<span class="time"><strong>[00:47:23]</strong> </span>
+<span class="speaker"><strong>发言人1: </strong></span>
+最后我引用一个推特上面一个观点，我觉得这个观点给我们这个节目做一个总结特别好。他说真正的技术变革不会以颠覆者的姿态突然来临，他会更多通过玩具的形式被整个社会悄悄的接纳。吉普力风格的这个AI图像就是这个玩具的滤镜，或者这个玩具就会变革的一个奶嘴。我觉得就是一个变革的奶嘴，它让整个技术带来的这种陌生感，让人家会感觉更安全，然后更放心。从而引导人们去用拥抱对于恐惧的未来。我觉得他这段话讲的特别好。稍后我会把英文的原文贴在我们的整个show note里面，给我们整个节目做一些助教。我觉得他讲的非常好，这也是我非常认可的一个观点。
+</p>
+<p class="transcript-line">
+<span class="time"><strong>[00:48:14]</strong> </span>
+<span class="speaker"><strong>发言人2: </strong></span>
+非常有感知派对。我觉得我补充一句，我觉得恐惧来自于未知。只要我们去试了，未来一点都不恐惧，未来充满希望，大家尽快去试就对了。
+</p>
+<p class="transcript-line">
+<span class="time"><strong>[00:48:22]</strong> </span>
+<span class="speaker"><strong>发言人3: </strong></span>
+对过去的汽车店都已经说明了一切，最开始真的很恐怖的。
+</p>
+<p class="transcript-line">
+<span class="time"><strong>[00:48:28]</strong> </span>
+<span class="speaker"><strong>发言人1: </strong></span>
+好，这期节目就到这里结束。
+</p>
+<p class="transcript-line">
+<span class="time"><strong>[00:48:31]</strong> </span>
+<span class="speaker"><strong>发言人2: </strong></span>
+这期聊的很开心。好，大家再见。谢谢大家关注我们人民，大家说AI拜拜。
+</p>
+<p class="transcript-line">
+<span class="time"><strong>[00:48:35]</strong> </span>
+<span class="speaker"><strong>发言人3: </strong></span>
+期待下次再聊，拜拜。
+</p>]]></content:encoded>
+            <pubDate>Mon, 31 Mar 2025 09:54:50 GMT</pubDate>
+            <guid>67ea6628f9578163d613e999</guid>
+        </item>
         <item>
             <title>EP.10｜背锅，竟是AI时代对冲失业最好的方式？对谈安踏儿童小程序负责人阿林</title>
             <link>https://www.xiaoyuzhoufm.com/episode/67e67f7a8eecdbeb60b992ee</link>
-            <description>一则来自安踏的采访，谢谢前同事阿林，目前阿林在某运动大厂负责运营，一起聊聊AI和运营人的未来～
+            <description>一则采访，谢谢前同事阿林，目前阿林在安踏负责运营，一起聊聊AI和运营人的未来～
 00:00 创业vs打工
 03:00 选人vs育人
 05:30 背锅vs上位
@@ -19345,898 +20146,6 @@ cap你说这个FSD是吗？
 </p>]]></content:encoded>
             <pubDate>Fri, 11 Oct 2024 08:41:01 GMT</pubDate>
             <guid>6708e49d6c7f8177864d9ec8</guid>
-        </item>
-        <item>
-            <title>苹果AI的野望：Apple Intelligence硬核解读</title>
-            <link>https://www.xiaoyuzhoufm.com/episode/66f6852e81cdab3a937e6853</link>
-            <description>看似鸡肋的苹果AI（apple intelligence）背后，究竟有哪些大的平台级机会？
-【如果你也关注AI产品，请订阅我们的专题】：
-1） 音频版：小宇宙《AI创投内参会》全集；
-2）视频版：打包全集（可入微信群和我们互动～还可以参与直播录制，和视频/逐字文本等），请复制👉这个链接，用微信购买
-【电梯】
-01:55 重要信号：App时代不开放的权限，AI时代苹果都开放了
-10:50 苹果的软件布局：AI+Siri是大脑，而真正的四肢早就悄悄发育好了
-22:46 AI的硬件入口：为什么只在硬件上做减法的苹果，会加一个实体按键？
-31:24 苹果AI是不是弱智？端侧能玩出什么新花样？
-39:40 苹果本质上还是在定义AI时代的体验+入口
-48:25 AI时代还值得做App吗？
-【关注我们】：
-📕小红书：叫我小苏就好啊、JustSayAI
-📺B站：叫我小苏就好啊
-▶️油管：JustSayAI
-♻️视频号/公众号：JustSayAI
-【听友福利】：
-我们特别邀请你加入“人民公园说AI”创业社区。
-✨我们是谁？
-我们是一个总部位于加拿大面向全球的“AI出海孵化器”，为全球AI创业者提供：技术孵化、投融资连接、项目出海等服务，让好项目、好技术、好团队少踩点坑，走得更远！</description>
-            <content:encoded><![CDATA[<h1>转写链接</h1>
-<link>https://tongyi.aliyun.com/efficiency/doc/transcripts/p7g395y8mgobqz65</link><br>
-<h1>节目摘要</h1>
-<div class="summary">讨论集中于苹果公司发布的AI技术及其对开发者和市场的影响。起初，外界对苹果AI发布的评价平淡，但深入分析后发现，苹果实际上开放了大量具有商业潜力的功能和接口，预示着巨大机会。苹果通过提升Siri和其他应用权限，为开发者提供了创新空间，可能重新定义人机交互，并打开AI领域的系统级机会。苹果的AI布局显示出其技术的深度和广度，暗示其正加速AI技术的整合与应用。讨论强调，苹果的AI战略可能改变市场结构，带来新商业模式，鼓励开发者利用AI优化应用、开发智能服务，并把握硬件与软件结合的创新机会。整体上，对话强调关注大公司技术动向的重要性，鼓励开发者探索苹果AI带来的机遇。</div><br>
-<h1>章节速览</h1>
-<div class="chapters">
-<div class="chapter-item">
-<span class="time"><strong>[00:00:00]</strong> </span>
-<span class="chapter-title"><strong>苹果AI发布：开发者的新机遇</strong></span>
-<div class="chapter-summary">苹果的AI发布看似不被大众理解，实则隐藏着众多商业机会。分析认为，苹果的战略布局、资源及数据掌握超前，其AI的发布不仅仅是技术进步，更是对整个iPhone系统层面的全面打通，预示着AI加RPA（机器人流程自动化）的实现。特别地，硬件层面为AI预留的入口，及对Siri功能的升级，标志着苹果已经在AI领域进行了深思熟虑的布局。尽管外界可能对苹果AI的实用性持怀疑态度，但深入分析其战略意图后，可发现这是苹果的一个进攻性举措，而非防守。对于开发者而言，理解并抓住苹果AI带来的系统级机会，将是未来发展的关键。</div>
-</div>
-<div class="chapter-item">
-<span class="time"><strong>[00:02:51]</strong> </span>
-<span class="chapter-title"><strong>苹果iOS18更新：对开发者开放更多权限及AI能力</strong></span>
-<div class="chapter-summary">随着iOS18的发布，苹果似乎在战略上做出了重大调整，尤其是对Siri和Clips给予了极高的系统级权限，显示出苹果在推动APP之间更紧密合作和增强AI功能方面的意图。这次更新似乎标志着苹果正尝试打破自家APP之间的壁垒，为开发者提供了更多可能，尽管目前这些变化大多处于beta版本阶段，尚未完全开放给所有开发者。通过开放API，苹果预示着普通开发者将有机会访问其他APP的数据和功能，这标志着苹果在向更开放的生态系统迈进。此举动也被视为苹果对未来AI交互技术的押注，特别是在智能手机之后的新一代交互终端尚未明朗的当下，苹果正在努力定义这个未来。</div>
-</div>
-<div class="chapter-item">
-<span class="time"><strong>[00:10:49]</strong> </span>
-<span class="chapter-title"><strong>探讨智能设备与语音助手未来发展</strong></span>
-<div class="chapter-summary">讨论重点在于语音助手，特别是Siri的未来发展，以及其在智能设备中的核心地位。语音作为未来设备交互的重要入口，苹果和其他大公司如Meta（前Facebook）都在积极布局，通过各种设备（如头戴设备、AR眼镜）强化声音控制的智能化。苹果通过Siri和App Clips等技术，试图实现更智能、便捷的用户交互体验，减少对APP的依赖，直接通过语音指令完成更多操作。这显示了技术公司在探索未来设备交互模式上的竞争与布局，以及对用户日常使用习惯的深远影响。</div>
-</div>
-<div class="chapter-item">
-<span class="time"><strong>[00:15:46]</strong> </span>
-<span class="chapter-title"><strong>苹果学习微信创新与AI战略转型</strong></span>
-<div class="chapter-summary">讨论集中在苹果如何从微信的创新（如扫一扫、小程序）中汲取灵感，进行自身产品的升级和新功能的开发。苹果的策略被视为从防守转为进攻，特别是通过提高Siri和App Clips的权限，为未来的AI发展奠定基础。对话中也提到苹果放弃造车项目转而全力投入AI领域，显示出苹果对于AI战略的高度重视。同时，探讨了开发者和商业机会的视角，以及技术公告和官方消息之间的差异可能带来的机会。</div>
-</div>
-<div class="chapter-item">
-<span class="time"><strong>[00:20:04]</strong> </span>
-<span class="chapter-title"><strong>探讨iOS捷径功能的发展与应用</strong></span>
-<div class="chapter-summary">捷径功能在iOS系统中，原本被认为是一个较为鸡肋的特性，仅适合技术极客用户，不适用于普通用户。然而，随着时间的推移，捷径功能展现了其在系统级应用中连接不同APP的深度动作的潜力，被认为是iOS系统中的RPA（机器人流程自动化）。通过Siri与苹果AI的结合，苹果逐步将捷径、Clips等功能布局，旨在通过语音交互实现更加自然的人机交互。此外，从iPhone 16开始，全系列将配备自定义按键，可用于唤醒AI相关操作，显示了苹果对于捷径功能及其在人机交互中角色的重视。</div>
-</div>
-<div class="chapter-item">
-<span class="time"><strong>[00:23:08]</strong> </span>
-<span class="chapter-title"><strong>探讨自定义按键在手机中的应用与潜在价值</strong></span>
-<div class="chapter-summary">对话中讨论了自定义按键在智能手机中的重要性及其对未来AI应用场景的潜在影响。认为自定义按键不仅能够增强手机的实用性，还能作为AI技术硬件层面上的一个重要入口，开启更多应用场景的可能性。比如，通过自定义按键，用户可以快速访问特定功能，如拍照、录音、调用特定应用等，从而大大提升工作效率。此外，还提到了自定义按键对于开发者和用户来说，都是一个探索和实验新技术的机会，有助于推动AI应用的繁荣。</div>
-</div>
-<div class="chapter-item">
-<span class="time"><strong>[00:28:09]</strong> </span>
-<span class="chapter-title"><strong>苹果公司设计哲学与AI策略探讨</strong></span>
-<div class="chapter-summary">在探讨苹果公司的设计哲学时，发现苹果在硬件设计上持续做减法，如逐步减少物理元素（如刘海屏、按键等），同时朝着无线化方向发展。这种减法策略背后，苹果也在特定领域做加法，如在物理捷径上进行创新，并将这些硬件策略与软件层面的AI技术相结合，展现出对未来技术的前瞻布局。苹果通过不断迭代iOS系统，打通了AI技术在软件层面的应用，同时在硬件上为AI应用预留了入口。尽管当前苹果的AI技术（如Siri）在某些方面表现不如预期，但其在处理速度和本地化反应上的表现仍然突出，展现了苹果在技术实现上的努力和未来潜力。</div>
-</div>
-<div class="chapter-item">
-<span class="time"><strong>[00:32:24]</strong> </span>
-<span class="chapter-title"><strong>探讨本地处理与云端处理的优劣以及安全性问题</strong></span>
-<div class="chapter-summary">对话集中在讨论当前技术，特别是关于设备在联网与不联网状态下的表现和功能。强调了本地处理速度的优势和隐私数据的安全性，同时指出其在智能程度上的限制。另外，也讨论了通过远程学习提升智能水平的潜力，以及安卓系统在此方面的先行优势。最后，提到了开发者社区可能的动向，尤其是对于工具类应用的开发。</div>
-</div>
-<div class="chapter-item">
-<span class="time"><strong>[00:34:18]</strong> </span>
-<span class="chapter-title"><strong>探讨人工智能在移动设备上的应用与挑战</strong></span>
-<div class="chapter-summary">讨论重点在于移动设备上人工智能应用的限制和潜力，特别是图形处理和复杂任务处理的局限性。讨论者认为，尽管硬件进步，如iPhone的先进制程技术，但移动设备的算力和内存限制仍然是个挑战。他们提出了一个观点，即简单任务可以在本地完成，而复杂任务需要云端处理。此外，通过小模型和低成本模型的高效利用，可以优化AI应用，强调了端云共存的长期趋势。特别提到苹果在AI领域的策略，即不追求最智能的AI，而是专注于提升用户体验，通过硬件、软件一体化和APP间的优化实现。最后，讨论强调了AI在实际应用中的重要性，并指出苹果有能力定义使用场景和体验，强调体验和用户习惯的重要性。</div>
-</div>
-<div class="chapter-item">
-<span class="time"><strong>[00:42:17]</strong> </span>
-<span class="chapter-title"><strong>AI技术在日常应用中的实用价值</strong></span>
-<div class="chapter-summary">对话中讨论了Open I作为全球最强AI应用之一，尽管活跃用户数仅达数千万，而苹果手机用户量级则以亿计，体现了AI技术广泛的应用潜力。AI在提升用户体验方面的作用显著，如通过智能化推送减少信息过载，本地AI识别技术帮助家长更好地关注孩子状态等。这些例子展示了AI技术在优化日常生活应用中的重要性，同时强调了AI含量不是越高越好的观点，有效的AI应用应该是透明且无缝集成到用户日常体验中的。</div>
-</div>
-<div class="chapter-item">
-<span class="time"><strong>[00:47:05]</strong> </span>
-<span class="chapter-title"><strong>苹果AI对创业者的影响及应对策略</strong></span>
-<div class="chapter-summary">对话中讨论了苹果AI技术对创业者带来的机遇，强调了利用本地处理能力和通过Siri接入提升应用体验的重要性。分析了工具类、图形类应用以及通知类应用的机会，同时指出了电商类应用面临的挑战。强调了创业者应关注系统级别的红利机会，把握先机，而非过多纠结于与大公司的竞争关系。还探讨了苹果AI可能带来的行业变革，如原生应用对第三方应用的替代趋势，以及苹果通过AI加强生态系统控制的策略。最后，提出了创业者应利用好苹果开放的能力，如端侧AI和云端AI，来降低开发成本，创造新的应用体验。</div>
-</div>
-</div><br>
-<h1>问题回顾</h1>
-<div class="qa-item">
-<div class="question"><strong>Q:</strong> 苹果AI发布的时候，为什么建议开发者要关注其背后的商业机会和战略布局？</div>
-<div class="answer"><strong>A:</strong> 在苹果AI发布时，尽管表面上看起来可能只是产品的小幅升级，但实际上它可能隐藏着巨大的商业机会。苹果公司在战略部署上往往具有超前性，其对技术和信息源的掌握、资源调配以及战略判断的能力非常强大。一旦苹果有了重大动作，尤其是当这些动作与公众理解存在较大差距时，作为开发者应当特别留意。</div>
-</div>
-<div class="qa-item">
-<div class="question"><strong>Q:</strong> 系统级权限给Siri和Clips应用带来的意义是什么？</div>
-<div class="answer"><strong>A:</strong> 系统级权限意味着Siri和Clips获得了几乎对所有APP进行深度集成和协同工作的能力，尽管目前在beta版本中未完全开放所有功能，但默认情况下已经允许这两个应用以系统级权限调用所有APP间协作内容，这打破了iOS之前不允许APP之间直接互通的限制，体现了苹果在系统底层进行的一次重要革新。</div>
-</div>
-<div class="qa-item">
-<div class="question"><strong>Q:</strong> 这次苹果AI发布会的核心亮点是什么？</div>
-<div class="answer"><strong>A:</strong> 发布会的核心亮点是Siri变得更聪明，并获得了系统级最高的权限，能够调配整个iPhone实现AI加RPA，在软件层面全局打通，构建了一个类似于四肢和五官发育完备但目前“脑子”还未发育成熟的智能体系。此外，在硬件层面，苹果可能已经预留了AI入口。</div>
-</div>
-<div class="qa-item">
-<div class="question"><strong>Q:</strong> 苹果AI战略上的取舍是否代表了对未来趋势的预判？</div>
-<div class="answer"><strong>A:</strong> 是的，苹果AI的战略取舍显示出了对未来交互终端趋势的深刻洞察。它可能认为下一个时代的入口并非汽车，而是手机或其他智能设备。通过在AI时代敢于革新并押注未来交互方式，苹果正在积极定义新的交互模式，以确保在未来技术更新迭代中保持领先地位，避免成为下一个被时代淘汰的品牌。</div>
-</div>
-<div class="qa-item">
-<div class="question"><strong>Q:</strong> 对于普通开发者来说，苹果AI开放的新权限意味着什么机会？</div>
-<div class="answer"><strong>A:</strong> 对于开发者而言，苹果AI开放的新权限意味着在AI时代有机会接触到之前移动互联网时代未曾开放过的系统级调用能力。虽然苹果自身拥有强大的系统级接口，但接下来会逐步开放API给开发者，允许他们的APP在满足一定条件的情况下被系统调用，从而在AI时代实现新的交互和功能扩展，这为开发者提供了前所未有的机会。</div>
-</div>
-<div class="qa-item">
-<div class="question"><strong>Q:</strong> 在最近的meta（Facebook）发布中，有哪些与声音相关的重要内容？</div>
-<div class="answer"><strong>A:</strong> 在meta的最新发布中，重点是他们推出了一款头戴设备和AR眼镜，这些产品具有强大的声音控制功能，实现了智能且便捷的交互体验。</div>
-</div>
-<div class="qa-item">
-<div class="question"><strong>Q:</strong> 苹果在声音控制和动作执行方面做了哪些布局？苹果对AI助理Siri和APP clips的布局意味着什么？</div>
-<div class="answer"><strong>A:</strong> 苹果在声音控制上通过Siri进行了深度布局，并提升了其智能性。此外，还提到了APP clips这一苹果版小程序功能，它能够通过声音指令（如Siri）或摄像头、NFC等硬件触发操作，无需手动打开APP就能完成诸如下单、支付等动作，这体现了苹果在战略上对声音控制到动作执行全流程的布局。苹果通过赋予Siri最高权限、提升APP clips能力等方式，实际上是在构建一个系统级的交互生态，类似于微信在人与线下场景交互上的创新。这意味着苹果不仅在学习微信的设计理念，也在积极跟进并发展类似的系统级机会，将对商业业态产生重要影响。</div>
-</div>
-<div class="qa-item">
-<div class="question"><strong>Q:</strong> Clips如何与支付宝线下碰一碰功能相联系？</div>
-<div class="answer"><strong>A:</strong> 支付宝的线下碰一碰功能可能就调用了Clips的能力，利用摄像头或NFC识别技术触发操作，实现了类似“手”的交互方式。这表明苹果在底层技术层面与支付宝有一定的互动和可能的合作。</div>
-</div>
-<div class="qa-item">
-<div class="question"><strong>Q:</strong> Clips在此次发布会上有何新进展？</div>
-<div class="answer"><strong>A:</strong> 这次发布会上，Clips因其与声音控制结合可能被更广泛地应用。用户可以通过语音指令直接启动Clips，完成如支付、导航等操作，无需唤醒APP，实现了无缝衔接的场景体验。</div>
-</div>
-<div class="qa-item">
-<div class="question"><strong>Q:</strong> 对于苹果AI战略，你们的看法是什么？</div>
-<div class="answer"><strong>A:</strong> 我们认为苹果AI是一个战略级别的决策而非防守动作，其在AI相关技术上的布局，如赋予Siri和APP clips最高权限等，预示着苹果正在为构建强大的人工智能大脑做底层能力的布局，即使当前AI智能程度尚处于初级阶段，但其长远规划和布局已经十分明确，决心在AI领域取得突破，这场AI竞赛中苹果绝不会放弃，而是选择全力投入新的战略判断。</div>
-</div>
-<div class="qa-item">
-<div class="question"><strong>Q:</strong> 这次苹果在新iPhone中加入了自定义按键，这个按键的主要作用是什么？对于新加入的自定义按键，它的设计背后的逻辑是什么？</div>
-<div class="answer"><strong>A:</strong> 这个自定义按键主要用于唤起AI的系列操作，它是为了预留出一个硬件入口，方便用户在不同场景下通过手机调用AI应用，实现快速、便捷的操作，比如变成寻呼机、对讲广播，甚至在企业级工作中通过按键调用特定的知识库或启动多个APP协作完成任务。设计这个按键的逻辑可能是为了在用户日常使用中捕捉和收集关于如何使用这个新功能的数据，从而帮助苹果了解用户需求并进一步优化该功能。同时，普通用户可能不会经常更改这个按键设置，而有一定技术知识的用户则可以利用它作为物理快捷途径，提高操作效率。</div>
-</div>
-<div class="qa-item">
-<div class="question"><strong>Q:</strong> 这个自定义按键是否意味着苹果在为未来可能的视觉交互做准备？</div>
-<div class="answer"><strong>A:</strong> 很有可能。虽然目前还不清楚具体用途，但加入这个按键可能是在为后续与现实世界视觉层面的交互留出接口和可能性，尽管现阶段尚不清楚其具体应用场景和功能。</div>
-</div>
-<div class="qa-item">
-<div class="question"><strong>Q:</strong> 苹果在硬件设计上通常遵循怎样的策略？</div>
-<div class="answer"><strong>A:</strong> 苹果在硬件设计上的策略倾向于做减法，比如逐步淘汰物理充电接口、刘海设计等。然而，在新iPhone全系列支持自定义按键这一案例中，苹果实际上是在做加法，添加了一个新的物理交互入口，这在某种程度上与Siri和AI的深度融合有关，体现了苹果超前的战略部署和信息源。</div>
-</div>
-<div class="qa-item">
-<div class="question"><strong>Q:</strong> 新版本的Siri和苹果AI目前的表现如何？</div>
-<div class="answer"><strong>A:</strong> 目前Siri和苹果AI的表现相比期望可能较弱，尤其是在远端请求方面受限，只能依赖本地处理。但在本地反应速度上做得较好，例如抠图速度很快，整体体验上已经实现了全局打通，初步构建了一个面向用户的AI入口。随着技术进步，尤其是联网状态下与GPT等远程服务的连接，苹果AI的表现有望得到提升。</div>
-</div>
-<div class="qa-item">
-<div class="question"><strong>Q:</strong> 苹果的端侧AI主要解决了什么问题？</div>
-<div class="answer"><strong>A:</strong> 苹果的端侧AI主要解决了安全性问题，尤其是隐私数据保护。通过本地处理，即使数据被盗，也无法获取用户的隐私信息，因为相关的密钥等安全保障措施都做得很好。</div>
-</div>
-<div class="qa-item">
-<div class="question"><strong>Q:</strong> 在智能体验方面，端侧和云端是如何配合的？</div>
-<div class="answer"><strong>A:</strong> 端侧AI负责快速响应和基础功能实现，类似于执行命令或自动化任务的“基层指挥官”，当遇到复杂情况时，会向云端的大模型寻求帮助，即通过云端大模型进行推理和决策，同时端侧也具备一定的智能理解和执行能力。</div>
-</div>
-<div class="qa-item">
-<div class="question"><strong>Q:</strong> 对于用户来说，苹果的AI体验有何特点？苹果AI是否注重智能程度？</div>
-<div class="answer"><strong>A:</strong> 苹果的AI体验以快速响应和无缝整合为核心，通过硬件软件一体化以及自控APP之间的优化，创造出独特的用户体验，让人感觉仿佛在使用全新的手机，而非以往的产品。苹果并不特别关注AI的智能程度，而是更注重体验的定义和场景适应性，通过优化端侧AI的响应速度和场景理解能力，让用户感受到显著的提升和流畅性。</div>
-</div>
-<div class="qa-item">
-<div class="question"><strong>Q:</strong> Open I的活跃用户数量是多少？苹果手机的用户基数有多大？</div>
-<div class="answer"><strong>A:</strong> Open I现在全球活跃用户不到一亿，大约在三千多万到五千万之间。苹果手机用户数是以十亿计的级别，即使是最新款的iPhone 16和上一代的iPhone 15 pro、pro max，加在一起的用户数量接近2亿。</div>
-</div>
-<div class="qa-item">
-<div class="question"><strong>Q:</strong> 苹果如何将AI应用融入到用户日常生活中？</div>
-<div class="answer"><strong>A:</strong> 苹果将AI技术深度集成到手机的各个方面，如短信处理、照片管理等日常功能中，使得用户在使用手机时能感受到AI带来的便捷体验，例如消息推送的总结功能，能够快速筛选出用户感兴趣的摘要内容。</div>
-</div>
-<div class="qa-item">
-<div class="question"><strong>Q:</strong> AI如何帮助改善用户接收到的通知信息体验？AI在哪些场景中表现出快速改造效果？</div>
-<div class="answer"><strong>A:</strong> AI可以自动对通知进行总结和分类，比如记录并总结孩子哭闹的次数，以推送通知的形式直接呈现给用户，无需用户逐一查看APP，大大提升了用户的推送消息体验，并且AI还能学习用户的行为习惯，智能调整通知的优先级。AI在诸如监测小孩哭闹这类场景中表现出快速改造效果，不仅提供通知总结，还能通过学习用户行为优化推送内容，让用户感觉非常上头且实用。</div>
-</div>
-<div class="qa-item">
-<div class="question"><strong>Q:</strong> 苹果在AI时代采取了哪些策略？</div>
-<div class="answer"><strong>A:</strong> 苹果通过抢占高频应用生态位，推出自家原生应用来替代第三方应用，利用系统级别的优势整合数据、算力等资源，以实现对用户行为习惯的深入理解，并在此基础上为开发者提供新的创作空间和机会。</div>
-</div>
-<div class="qa-item">
-<div class="question"><strong>Q:</strong> 对于创业者来说，在AI时代有哪些机会？</div>
-<div class="answer"><strong>A:</strong> 创业者可以从本地处理能力、成熟APP与AI结合、通知类APP、工作工具类和日常生活类等方面寻找机会，同时还可以关注硬件入口结合端侧AI的发展趋势。</div>
-</div>
-<div class="qa-item">
-<div class="question"><strong>Q:</strong> 对于开发者和创业者而言，面对巨头布局AI时应如何应对？</div>
-<div class="answer"><strong>A:</strong> 开发者和创业者应抓住系统级别的红利机会，先发制人，抢占生态位，积累原始资本，同时关注巨头的战略决策，通过提供优质体验来吸引用户，而不是过分纠结于商业分成或知识产权问题。</div>
-</div>
-<h1>节目文稿</h1>
-<p class="transcript-line">
-<span class="time"><strong>[00:00:00]</strong> </span>
-<span class="speaker"><strong>发言人1: </strong></span>
-就是大家都觉得苹果AI发布了个寂寞的时候，你应该把开发文档拿起来看一看它开放了什么。这里面可能全部都是生意的机会。我们为什么会这么去从细枝末节或者从这个边边角角正史野史去讲这个苹果的一些东西，也是觉得这是一个伟大的公司。然后他做的很多战略其实是超前投资，超前部署的。然后他的战略判断的能力跟他的信息源，跟他资源，跟他掌握的数据，并不是我们对马上能够理解的。是的。但是一旦他有了大动作，尤其在这个大动作跟公众的理解有一个非常大的gap的时候。
-</p>
-<p class="transcript-line">
-<span class="time"><strong>[00:00:39]</strong> </span>
-<span class="speaker"><strong>发言人2: </strong></span>
-一定要大家去注意。就是这个反共识。这个反共特别注意。
-</p>
-<p class="transcript-line">
-<span class="time"><strong>[00:00:42]</strong> </span>
-<span class="speaker"><strong>发言人1: </strong></span>
-这个反共识是我们非常敏感的一个点。总结来讲，就是一个更聪明的一个siri.
-</p>
-<p class="transcript-line">
-<span class="time"><strong>[00:00:49]</strong> </span>
-<span class="speaker"><strong>发言人2: </strong></span>
-获得了系统级最高的权限。
-</p>
-<p class="transcript-line">
-<span class="time"><strong>[00:00:51]</strong> </span>
-<span class="speaker"><strong>发言人1: </strong></span>
-对，来调配整个iphone，实现了一个AI加RPA。在软件层面我觉得应该是已经全局打通了。也就是说相当于说苹果在还没做AI这就是脑子还没发育的时候，他先把siri这个耳朵跟嘴巴，还有这个clips这个手，先把他的四肢和5官先已经给发育起来了。但是他脑子可能还是一个一岁小孩，对吧？对我相信这个事情是一个已经是有节奏的布局。还有一个就是硬件层面，就硬件层面的AI的入口也可能已经提前预留好了，对吧？不说它芯片，我们就说这些它为什么会加一个按键？这个事情对用户。
-</p>
-<p class="transcript-line">
-<span class="time"><strong>[00:01:34]</strong> </span>
-<span class="speaker"><strong>发言人2: </strong></span>
-的一个AI入口，对用户的用户。
-</p>
-<p class="transcript-line">
-<span class="time"><strong>[00:01:37]</strong> </span>
-<span class="speaker"><strong>发言人1: </strong></span>
-可能已经是初具雏形了。剩下的就是说他这个脑子到底好不好使的问题了。大家最关心的他的脑子好不好用，对苹果A是不是弱智。
-</p>
-<p class="transcript-line">
-<span class="time"><strong>[00:01:57]</strong> </span>
-<span class="speaker"><strong>发言人1: </strong></span>
-一定要关注一下这一块。虽然我们很多普通人看这个苹果A的发布会都觉得你发了个毛线，我觉得我不知道翻了个寂寞对吧？这个苹果AI是不是一个防守动作。但其实我们在仔细聊了以后发现这个事情可能它是一个进攻动作，它不是一个防守动作。有可能你看他发布的一些苹果AI的能力，可能只是隔靴搔痒，或者是说就看起来不是那么刚需。但其实我们在从背后去看它整个战略布局，它整个从开放的这种能力上面的这种程度来讲。我觉得这个可能是很多人会错过的一个系统级的机会。所以想说今天也就录一期播客来系统的讲一下，苹果ai对于开发者未来来讲应该要抓住的哪些机会。
-</p>
-<p class="transcript-line">
-<span class="time"><strong>[00:02:51]</strong> </span>
-<span class="speaker"><strong>发言人1: </strong></span>
-对，因为我们看它整个发布会的发布，然后包括我们下载IOS18来体验其实它整个核心我觉得还是苹果它没有给大家看到的跟他想做的，我感觉可能是两件事情，其实大家看到的可能更多的是siri变聪明了。然后可能是你在不管是邮件的内容生成，然后包括抠图等等这些二级三级的功能，加入了一些AI端测AI的能力之外，其实并没有看到特别惊艳的东西。但实际上我们去研究这个它的开发文档，包括我们去下了IOS18以后来看以后就美版的，就解锁以后的这个IOS18能够体验这个AI版本的这个，我发现就是两个权限非常大的应用，一个是siri，一个是clips，就几乎是系统级别的权限。从这个也是老修告诉我的，这个就是我想问一下，从技术的角度来看，这么高的权限给到clips跟siri这个是代表什么东西？
-</p>
-<p class="transcript-line">
-<span class="time"><strong>[00:04:07]</strong> </span>
-<span class="speaker"><strong>发言人2: </strong></span>
-这一块其实也就是我们最开始讲的那个系统级的那个更新里面，就是属于功能上看不到，但是他默认全给你搞开了。对，就是说他默认可以用siri去调所有APP之间协作一个内容。当然在beta版本你也提不到，是因为他没给你开放。现在就是beta版本，开发者的beta版本也还应用不了这个东西。因为它远程端测的这个open NI的这个大模型，或者是后面有JJI等等，他也还没开放。现在你只能看到的是刚才说的第三集的这些总结，然后那个什么AI消除这些的对，那那这块虽然看不到，但是我们可以在那个就是破解版的这个设置里面可以看到，它是默认高权处理。Access这个clips APP clips和所有的单个的这些IOSAPP。
-</p>
-<p class="transcript-line">
-<span class="time"><strong>[00:05:07]</strong> </span>
-<span class="speaker"><strong>发言人2: </strong></span>
-那那这里面就意味着说，其实大家其实做可能比较熟悉安卓跟IOS的小伙伴会知道，这两个最大的一个差异就是安卓是大家APP之间本身就是可以互通的对，那苹果就是不互通的对，这个是一个最基本的一个差异。那在在这一次的话，其实他已经把这一点作为一个破局的破墙，自己破自己了，自己革自己的命了。我允许这个多个APP之间可以去写作。但是这里面苹果到现在，因为它也是比较仓促，它其实相对比较被动他做到的这个允许的相当于APP之间串门，他一直做好了他自己的那个场景。比如说在那个发布会上，他当时举的那个例子是应该是一个前面一个会议推迟了。对，然后他后面他这个小孩子去接小孩子还来不来得及这件事对，那他这样的一个事情全部都是苹果自己自带的那个APP。就是我自家人，我亲儿子，我随便调都都不会有问题。对，这里面也不涉及什么利益问题，也不涉及数据隐私的问题，都是我自己控制好了的，我完全控。
-</p>
-<p class="transcript-line">
-<span class="time"><strong>[00:06:20]</strong> </span>
-<span class="speaker"><strong>发言人2: </strong></span>
-因为它这里面已经有技术的保障，说把所有的客户的敏感信息做了一层的类似这种保险箱密钥各方面的一个加固。这些东西普通的APP可能是没有，是对这个至少要上得得得要有一套的一个开发的过程，你可能才能匹配。那那在这样子的一个前提之下，它其实已经可以体现出很好的智能。这么看起来很小的一件事情，但是它体验非常线来解决这些。对对对，这个体验非常的丝滑。
-</p>
-<p class="transcript-line">
-<span class="time"><strong>[00:06:52]</strong> </span>
-<span class="speaker"><strong>发言人2: </strong></span>
-那这个时候其实如果到下一步，它的下一步其实就是一定是要说能够给我们普通的开发者的这个APP一个什么样的权限。我去访问其他APP的数据，或者是访问其他APP的一些能力。那这个东西的话，现在他讲的故事是说我会开放API。那那这里的话其实还是会有一个比较大的一个差异，就是至少说前面苹果自己拿了系统级的调用能力，但是给开发者给的是API。API是全称中文名是应用开放接口，应用的接口。那应用级的接口是肯定跟系统级接口是不是一个层级的那在但是在这里面，如果我们刚才前面讲的就是apple AI它能够说在你提供的数据强这个充足，数据结构内容好的情况下，他自己去判断到底要不要调用你的APP。那这里面其实又会回到说，如果你的APP提供的一个内容，确实是跟是在他的系统里面是一个优质的供给。那我相信它的整个FAI是可以去调用好你的这个APP和他原生的APP去写作，然后把这个事情给完成了。那那这个东西。
-</p>
-<p class="transcript-line">
-<span class="time"><strong>[00:08:12]</strong> </span>
-<span class="speaker"><strong>发言人1: </strong></span>
-应该其实就是在智能手机时代，APP时代他不开放的东西。但是在AI时代他愿意开放，他愿意开其实最核心的就是这个点对，所以从看机会的角度来讲，可能我们不能只看发布会，也不能只看他表面说了什么。对，而是真的看他做了什么。对，就是做了就是在之前APP那个时代或者移动互联网时代，他不开放的权限，他在AI时代开放了。是的，所以我是觉得我们在聊这种大平台大公司带来给普通开发者或者创业者机会的时候，一定要特别注意的一个点就是他实实在在的做了什么。然后以及你看到他说的什么之间的差异。我觉得这个差异是一个非常大的非共识的一个机会。其实这代表说他在战略上做了某些取舍。
-</p>
-<p class="transcript-line">
-<span class="time"><strong>[00:09:07]</strong> </span>
-<span class="speaker"><strong>发言人1: </strong></span>
-其实很多人说苹果AI可能还是防守跟挤牙膏。但反而其实我我跟老师聊完以后，我觉得这个可能是一个非常大的一个战略判断。因为他抽调的是坐车的人来干的这个事情。对，那说明就是他判断下一个时代的入口可能不是车，或者车不那么重要。对，或者不如现在去做手机端侧的AI对，可能比坐车更重要。是的，对，因为你在下一代的这种交互的终端都还没出来，就手机之后的这个终端还没出来。但是在还没出来之前，这个生成式大模型让苹果已经体验了一把未来的感觉。对他在这个时间点再不革自己的命，有可能下一个终端轮不到他了。
-</p>
-<p class="transcript-line">
-<span class="time"><strong>[00:09:58]</strong> </span>
-<span class="speaker"><strong>发言人2: </strong></span>
-他就变成之前他干掉了诺基亚的。
-</p>
-<p class="transcript-line">
-<span class="time"><strong>[00:10:01]</strong> </span>
-<span class="speaker"><strong>发言人1: </strong></span>
-对对对，他可能就下一个终端就轮不到他了。那那在还没在智能手机，在iphone还是这个时代，或者可能是未来I时代的一个终端之一的情况下，他必须赶紧来定义这个新的交互。如果他不定义这个新的交互就来不及了。所以你会看说为什么库克他要做这种体验那么差的眼镜，这个没办法，这个战略上你必须得做。虽然很傻，对，戴那个眼镜在街上到处走，但是你还是必须得做这个事情。所以是的，我我从我从我的解读的角度，我是会认为说你要相信大公司在战略上的判断，在战略上面足够多深度的讨论跟对未来趋势的押注。对，一旦他压住一件事情的时候，我觉得你跟他大概率不会错。
-</p>
-<p class="transcript-line">
-<span class="time"><strong>[00:10:49]</strong> </span>
-<span class="speaker"><strong>发言人2: </strong></span>
-是尤其是就是我觉得现在大家都在赌一个事情。就刚才小苏问的第一个问题是说觉得哪个点他可能是一个大的入口，那讲的还是siri，应该这个方向是大家比较看起来siri其实在，因为大家看起来是，但可能不是对，但对，就是UC上用用了很久了也知道它的这个一些缺点。对那但是为什么说是他还会会先做siri？我觉得很重要的是音频这个入口其实是声音。因为你现在手机在身上这个东西是因为我们现在这个阶段大家都带着手机。但是下一个阶段有可能你只是我们戴着眼镜是吧，或者手上的一个手表，或者是一个耳钉，或者是一个什么小的东西挂在身上的那个你你你你只是身上的一个配饰了，有可能那那这个东西的竞争其实已经很激烈了。
-</p>
-<p class="transcript-line">
-<span class="time"><strong>[00:11:44]</strong> </span>
-<span class="speaker"><strong>发言人2: </strong></span>
-就到我觉得到今天早上应该是meta就是facebook meta那边扎扎特伯格刚刚做了他的最新的发布。它里面其实很重要的东西也是声音相关的，就是它有有头戴的那个设备，然后也有眼镜眼镜AR眼镜。对，那其实它的很多东西都是声控的，而且它这里面已经把。声音的一个东西又做到了一个新的层次，就是它是的可以做的处理的很好又很智能。这些东西其实对于苹果不可能不知道。其实作为大厂，刚才讲这个趋势就是大厂的市场调研一定比我们这个没错，要他那个是深度非常多，严谨的多。
-</p>
-<p class="transcript-line">
-<span class="time"><strong>[00:12:22]</strong> </span>
-<span class="speaker"><strong>发言人1: </strong></span>
-因为这是他的命脉，对，而且它是全方位布局的一个事情。刚才忘记讲了，就是除了siri有最高权限以外，还有一个叫APP clips这个东西。这个大家clips大家可能不知道，就是苹果版的小程序。
-</p>
-<p class="transcript-line">
-<span class="time"><strong>[00:12:38]</strong> </span>
-<span class="speaker"><strong>发言人2: </strong></span>
-对，很多人都不知道。
-</p>
-<p class="transcript-line">
-<span class="time"><strong>[00:12:39]</strong> </span>
-<span class="speaker"><strong>发言人1: </strong></span>
-很多人都不知道成功。对，但是它最基础的操作，我给大家举个例子，最近的支付宝线下碰一碰这个功能，就是调用了clips的能力。也就是说clips这个事情他可以用摄像头或者用NFC去触发一个操作，这相当于是手对吧？这相当于是手了。对，那siri相当于是你的耳朵跟这个嘴巴。那也就是说他在做这个大脑之前，他已经在做布局了。对，先把siri搞不智障了，先把这个clips的权限抬出来了。我甚至怀疑支付宝碰一碰这个事情都跟苹果有关。
-</p>
-<p class="transcript-line">
-<span class="time"><strong>[00:13:22]</strong> </span>
-<span class="speaker"><strong>发言人2: </strong></span>
-对，就是他其实相当于在战略上，他是把头尾已经是同时在做的，就是你有声音之后你肯定会完成一个动作。是的，这个动作是由clips去完成。那clips的话在这一次其实他在发布会上其实有有稍微讲到了一点，就是因为他每次其实都经常会带他一下，但是这一次其实是真的有可能带起来，是因为你声音控制了之后，你可能要完成一个动作。就像我们刚才说去要不要去接小孩，要不要去订机票，要不要订房子什么的。那你这个时候的一个clips它的效应就是说我siri叫完之后的下面的clips我可以直接吊起来，也不用开。
-</p>
-<p class="transcript-line">
-<span class="time"><strong>[00:14:03]</strong> </span>
-<span class="speaker"><strong>发言人1: </strong></span>
-APP唤醒一个APP。
-</p>
-<p class="transcript-line">
-<span class="time"><strong>[00:14:04]</strong> </span>
-<span class="speaker"><strong>发言人2: </strong></span>
-它可以不用开APP直接完成一个小的动作。比如说是一个place，一个order，就下一个订单它是完全可以做到就电商级的对。但是如果说深一点的那那可能现在做一个小的动作，后面再去唤起这个APP，那siri就可以直接完成。包括说它甚至这种场景的衔接已经很完善。
-</p>
-<p class="transcript-line">
-<span class="time"><strong>[00:14:23]</strong> </span>
-<span class="speaker"><strong>发言人2: </strong></span>
-因为我从我产品角度来讲，就是说siri有可能是因为我们在跟实时跟一个AI助理siri在聊的时候，可能有些东西我也不会现在干嘛。那我可能聊的差不多了，我可能是到一个时间点我再干。那那这个时候他其实通过clips这样子的一个入口。因为clips它可以后面我给你一个email，或者说我给你一个其他的东西，给你一个里面是个链接就行了。因为你不管说是一个原来用摄像头去识别还是怎么样，它是可以通过二维码，然后通过链接，最后转化成链接去唤醒去唤醒这个APP的。
-</p>
-<p class="transcript-line">
-<span class="time"><strong>[00:15:00]</strong> </span>
-<span class="speaker"><strong>发言人2: </strong></span>
-它本质其实是如果开发者可能会熟悉，就是APP的一个叫skin APP的一串URL。一串UIL里面包含了各种各样的一些参数。那我可以快速的把你这个直接跳到相应的页面去完成这个动作。这样的一个事情，它其实就是在在现在有了系统级OS level OS level系统级的这个调用。因为在apple intelligence的里面的设置里对他特别讲了，就是说他在monitor就是a apple AI在监控这个APP clips里面的各种交互。而且他特别讲了，他会在合适的时机去切入调用这个APP的clips。那那这个其实是一个特别重要的一个底层的一个能力。
-</p>
-<p class="transcript-line">
-<span class="time"><strong>[00:15:46]</strong> </span>
-<span class="speaker"><strong>发言人1: </strong></span>
-其实这个东西我觉得现在是苹果反过来学微信。对，当然这一套在安卓都已经玩烂了，但是安卓厂商毕竟没有定义标准的这个能力。那确实我觉得可能是苹果在看到微信这几个重要的创新，比如说扫一扫，这个是由微信来定义的这样一个线下跟线上交互的动作。比如这个小程序是这个微信创新的一个交互的，就是人跟这个线下或者跟人跟订单，人跟交易的一个交互的一个动作。其实你会看到就是苹果也在跟进这个事情。其实微信很多能力的开放跟设计是学苹果的。但是现在苹果反过头来在学微信的这些这些设计，我觉得这是一个很有意思的东西。而且我觉得两个东西是有有可可互通之处的，有非常强的可互通。
-</p>
-<p class="transcript-line">
-<span class="time"><strong>[00:16:42]</strong> </span>
-<span class="speaker"><strong>发言人1: </strong></span>
-是我刚才讲说苹果这一次的这个AI的开放，有点像当年这个微信小程序这样一个系统级的机会。其实是我们是经历过这两波的，我经历过我跟老师经历过小腾讯那一波最疯狂的那一波的机会，然后也拿到了很好的结果。老修也经历过更早之前IOSAPP那波的红利，就整个系统级的机会，对整个商业业态，对很多人造富的一个改变，其实我们都经历过。所以会有这个敏感度想要聊apple AI这个事情，它到底是不是一个挤牙膏的事情，还是真的是一个战略级别的事情。从今天的角度来看，其实刚才看我们零零散散讲那么多。其实我们的观点，我跟老薛的观点，我们是认为这个是一个战略上面的判断，而且绝对不是一个防守的动作，而是一个进攻动作。
-</p>
-<p class="transcript-line">
-<span class="time"><strong>[00:17:42]</strong> </span>
-<span class="speaker"><strong>发言人1: </strong></span>
-是的，怎么讲呢？首先我们刚才聊到了一个siri有了最高的权限。然后第2个APP clips这个事情也有了最高的权限。也就是相当于说苹果在还没做AI就跟脑子还没发育的时候，他先把siri这个眼这个耳朵跟嘴巴，还有这个clips这个手，先把他的四肢跟5官现在已经给发育起来了，但是他脑子可能还是一个一岁小孩，对吧？对，这个事情他已经先去做布局了。我相信这个事情是一个已经是有节奏的布局，甚至我们刚才讲的没时间展开讲。
-</p>
-<p class="transcript-line">
-<span class="time"><strong>[00:18:22]</strong> </span>
-<span class="speaker"><strong>发言人1: </strong></span>
-大家最近在线下体验支付宝的碰一碰这个事情，我相信都跟未来的这个clips的权限有一个非常大的一个关系。甚至我觉得背后有苹果的一些支持在里面，这个都是有可能的。凭我们一些过去的经验来判断，当然这个不代表真实的消息，这个只是纯个人的经验。
-</p>
-<p class="transcript-line">
-<span class="time"><strong>[00:18:46]</strong> </span>
-<span class="speaker"><strong>发言人1: </strong></span>
-对，那话说回来，就是在你大脑没发育好，就苹果AI这个大脑还没发育好的情况下，我先把手脚、眼睛、五官这些东西先给猥琐发育起来。那你就很明白他要做什么，他一定是要做大脑这件事情。所以不需要再去质疑他这个大脑到底好不好，要不要这个大脑，他是肯定要这个大脑的对对吧？苹果AI这个事情是一定不能输的对吧？对，我们刚才也讲过了，为什么要把造车这个事情给干掉了来做AI并不是说优化了一帮人安置在另外一个岗位上，完全不可能是这样。对，不可能一定是放弃的一个判战略判断，而重新all in的一个新的战略判断，对那就是AI这个事情。
-</p>
-<p class="transcript-line">
-<span class="time"><strong>[00:19:33]</strong> </span>
-<span class="speaker"><strong>发言人1: </strong></span>
-对对，所以这个是我觉得总结一下，刚才跟老师讨论了那么多，我们从技术文档这种从开发者的角度解读到的一些这种商业机会。包括跟大家看发布会，大家看这个官宣的一些gap的一些冲突，我觉得如只要这个东西有冲突，我觉得可能就会有有机会在在里面。对，还有刚才我们漏讲了一个很重要的事情，老兄就是那个捷径。
-</p>
-<p class="transcript-line">
-<span class="time"><strong>[00:20:04]</strong> </span>
-<span class="speaker"><strong>发言人1: </strong></span>
-说是对这个事情在过往几代的这个IOS里面，捷径是一个很鸡肋的东西。对我觉得这个东西不是人用的对吧？对，然后当时出来的时候，我就觉得说这个东西很奇怪。然后这个东西好像更适合那种技术极客用户，并不太适合普通的小白，甚至不可能做成一个洁净市场了。对，但是今天来看，好像感觉这个东西是不是有挺有搞头的，而且很核心对吧？
-</p>
-<p class="transcript-line">
-<span class="time"><strong>[00:20:35]</strong> </span>
-<span class="speaker"><strong>发言人2: </strong></span>
-因为这个其实就是属于我们，就是说你可能做开发者，或者是说这些极客会熟悉这个东西。现在刚才讲了一个很重要的是系统级的，他能访问各种APP的那你把捷径当成也是一个APP，对吧？那也就是相当于本来捷径就是用来串一个APP里面的多个动作，或者是几个。这样子的话，你现在有了全局的这样子的一个情况之后，你后面就可以很深度的去多个APP里面的一个深度动作。
-</p>
-<p class="transcript-line">
-<span class="time"><strong>[00:21:06]</strong> </span>
-<span class="speaker"><strong>发言人1: </strong></span>
-怎么比喻它呢？就是它可能是一个神经系统，或者是人的这个对。
-</p>
-<p class="transcript-line">
-<span class="time"><strong>[00:21:13]</strong> </span>
-<span class="speaker"><strong>发言人2: </strong></span>
-其实可能用网就是大家会经常讲到的那种自动化，叫什么机器人自动化RPA。其实它相当于就是IOS系统里面的RPAA。对它就是它的IPA只不过原来权限不太够，所以就很鸡肋。你每次好像都是在一个APP深入的去做这个RPA，好像大家很少会做这么深的。是的，但是如果你是多个APP，各自有自己的深度的RPA，这自动化连在一起，变成了一个像一个机器人能做连贯的动作和场景之后，这个的RPA的价值就起来了。
-</p>
-<p class="transcript-line">
-<span class="time"><strong>[00:21:48]</strong> </span>
-<span class="speaker"><strong>发言人1: </strong></span>
-对，所以这个事情就破案了，就是这个步骤。苹果的这盘棋它是一步一步走的，从这个捷径到这个clips，再到现在siri加上AI以后，这整个其实布局就是通过siri把他所有的这些能力，五官四肢毛细血管的这些能力都串起来。
-</p>
-<p class="transcript-line">
-<span class="time"><strong>[00:22:07]</strong> </span>
-<span class="speaker"><strong>发言人2: </strong></span>
-对，而且其实这一次有个有意思的，他可能不能说叫通过siri串，而是siri和苹果AI为什么他现在等把这个东西放在一起，对它叫siri和苹果AI，所设置的所有东西都放在一起了。他认为这两个东西就是一个不可密密切不可分的，它就是一个东西，而且特别自然。因为在下一步这个阶段的人机交互里面，你可能就是通过有有声音去帮你完成很多东西。这是一个现在可以看得到，判断得到的一个东西。对，而且同时可能刚才我觉得你讲到这个show case，我觉得还有一个也有一个看起来没那么重要。但是讲到show case，它就重要的就是从这个IOL，就是iphone 16开始，它多所有全系列都有一个自定义的应按键的全系列都有一个自定义的按键，这个按键可以用来唤起这个AI的所有的系列操作。
-</p>
-<p class="transcript-line">
-<span class="time"><strong>[00:23:00]</strong> </span>
-<span class="speaker"><strong>发言人1: </strong></span>
-说这个案件其实我是没看得太懂，就是他按道理以苹果的尿性来讲，他不会随便去做一个案件。
-</p>
-<p class="transcript-line">
-<span class="time"><strong>[00:23:08]</strong> </span>
-<span class="speaker"><strong>发言人2: </strong></span>
-对。
-</p>
-<p class="transcript-line">
-<span class="time"><strong>[00:23:09]</strong> </span>
-<span class="speaker"><strong>发言人1: </strong></span>
-是的，对，但是确实你再帮忙解释一下这个案件我看不太懂。不是。
-</p>
-<p class="transcript-line">
-<span class="time"><strong>[00:23:15]</strong> </span>
-<span class="speaker"><strong>发言人2: </strong></span>
-对，这个案件其实我我会觉得说他还是在预留，就是下一个到底口是什么？新的交互的对对对对，可能性就是这个案件它属于过度的鸡肋产品。应该是啊但是你没有这个按键就没有可能性。就是从从手机的角度来讲，我们大家都习惯了手机的没有一个按键是可以自定义的对对，你就不会有一个案件给你自定义，就是你所有的案件都是被厂商预设好的。那它能够支持你自定义。其实我是觉得说是本身是在为这个AI的应用的繁荣上留下了一个硬件的入口。因为其实这个相当于你这个手持的这个手机，它可以在很多场景下变成应AI应用场景下的一个快捷的入口。
-</p>
-<p class="transcript-line">
-<span class="time"><strong>[00:24:01]</strong> </span>
-<span class="speaker"><strong>发言人1: </strong></span>
-比如变成一个寻呼机，比如变成一个对讲广播。
-</p>
-<p class="transcript-line">
-<span class="time"><strong>[00:24:07]</strong> </span>
-<span class="speaker"><strong>发言人2: </strong></span>
-甚至就是说我比如说我是一个工厂里面的人我现在要检检修一个什么东西，我直接把它摁那个键，就是调用了我自己工厂里面的某个，就我自己的一个知识库里面才有的知道的某个设备。机绝对不止不只是相机，它这个里面绝对不止相机，默认是相机。因为相机最好理解，就是你拍拍这个东西，拍了以后原来拍就是识别。那我现在拍了以后，我可以调多个APP去协作完成一个事情。相当于企业级的工作流已经是可以做了。
-</p>
-<p class="transcript-line">
-<span class="time"><strong>[00:24:40]</strong> </span>
-<span class="speaker"><strong>发言人2: </strong></span>
-明白，那那这个东西的话，那可以不是拍，就是看你你想你可以把手机能干的事情都再想一遍，能看到能听到。那我可以我摁一下我是录音。比如他有一些场景已经可以串，就是我摁一下是录音，录音同时把那个转译的那个会议纪要出来，然后再把什么东西弄一下。那这里面都是可以通过这一个按键就完成了。就我一个按键就像我相当于我们两个在在播播客，对吧？那我按一个按键，最后这个音频文件就剪，那个文档就出来了。
-</p>
-<p class="transcript-line">
-<span class="time"><strong>[00:25:12]</strong> </span>
-<span class="speaker"><strong>发言人1: </strong></span>
-很有可能这样是是是给他的眼睛留一个口。我觉得因为摄像头就是整个交互里面刚才讲的耳朵对吧？嘴巴，但是有一个眼睛可能是摄像头。那摄像头的话，过去大家知道很多做应用的朋友，就是在苹果开放了一些摄像头的一些能力以后，很多做这种专业摄影的APP的一些开发者都赚很多钱的。对，就是因为它可以调整这个拍摄，包括一些后期的一些参数了。对，那可能这个案件也是在为后面的，就是跟现实世界的，也眼睛视觉上面的交互，可能留一个口，也许是这样，但是我是看不太懂。对，所以暂时我还没那个想象力，对，想象出来说他是怎么样。
-</p>
-<p class="transcript-line">
-<span class="time"><strong>[00:25:58]</strong> </span>
-<span class="speaker"><strong>发言人2: </strong></span>
-对，就是我我从我从产品的角度，就是这个口一定是一个入口。其实如果我们做产品的人可能会如果有些产品经理在可能会听到这个，可能会有一些感觉就是当你可能没有办法去验证一个可能没有马上能验证的一些能力的时候，那最好是在这个上面先埋个点对吧？就是买个点，大家经过这个点的时候，他会怎么做？用利用这个点来做一个事情，你就慢慢就知道，好的，你这个点以后怎么做挺好的。
-</p>
-<p class="transcript-line">
-<span class="time"><strong>[00:26:33]</strong> </span>
-<span class="speaker"><strong>发言人2: </strong></span>
-对，假如其实很多人可能是用它来去总结一些声音或者是拍一些东西。但我有一些能力可能以后就直接坐在摄像头跟那个录音的里面去就完事了，对吧？然后还有甚至就是有些东西我可能直接做，比如说苹果现在应该好像是没有你没有便携的眼镜。那个vision pro是一个大家每个人都想着买不起，也觉得很鸡肋的东西。对那但他现在其实也已经在做策略调整，就是说那个高端的版本可能不会很快出出更新了，反而要出一个廉价的版本。
-</p>
-<p class="transcript-line">
-<span class="time"><strong>[00:27:06]</strong> </span>
-<span class="speaker"><strong>发言人2: </strong></span>
-其实这很多事情其实我相信是通过很多数据去决定了。不过销量肯定是一个是卖的不好。对，但是一定也有很多这些日常的这些操作，它有数据的支撑。我觉得说在十六全系列开始支持有自定自定义按键以后，它算是一个很好的口。就是说可以知道大家怎么去用这个东西。
-</p>
-<p class="transcript-line">
-<span class="time"><strong>[00:27:27]</strong> </span>
-<span class="speaker"><strong>发言人2: </strong></span>
-至少而且这种自定义按键其实我觉得正常普通老百姓可能不太会用去改的，一般就是一直就是用拍照了。对，但是稍微有一些的人就会真的去用它。那这个时候他可以更好的知道这个场景跟他的是一个物理的捷径。对，它是它就是物理的收看的。所以我你说那个说看我会想说一下这个东西，明白有这个东西也会被大家低估的。因为说我觉得说从做产品的角度，在硬件上面加一个按键，绝对是那很有有很多想象的才会做的那这上面我不说别的，就一个成本它还是有的。你在你这个有硬件成本，然后后面的这个学习成本也上来了，你得学习说这个东西配什么。
-</p>
-<p class="transcript-line">
-<span class="time"><strong>[00:28:09]</strong> </span>
-<span class="speaker"><strong>发言人1: </strong></span>
-对，为什么会有这个敏感度？就是因为我研究苹果的设计比较多的时候，我会发现，但是大家会发现就是说苹果永远在硬件上面，在外观上面是做减法。就是它有一个既定的low map。比如说iphone那个刘海那个事情，它是有一个既定的roman p最终把这个刘海给消灭的。但是他是有一个行动，是一步一步去消灭它。对，包括按键这个事情。所以苹果其实最先最最极端的消灭的就是充电这件事情。就无线充电或者无线连接，耳机线这些。
-</p>
-<p class="transcript-line">
-<span class="time"><strong>[00:28:49]</strong> </span>
-<span class="speaker"><strong>发言人1: </strong></span>
-他整个在硬件上面的一个战略跟一个策略，我个人理解是一个做减法。但是为什么他会做一个加法？这个是会让我很奇怪的，但我当然就是不解了，所以我就问老师，然后问老师这个问题。如果这么一讲，就是它如果是一个物理上面的一个shortcut的物理上面的一个捷径，我感觉这个是有道理的。而且这个是可能值得跟我们前一趴讲的他在做siri加AI这个事情，可能要联系起来看的对，这个里面我觉得我们为什么会这么去从细枝末节，或者从这个边边角角正史野史去讲这个苹果的一些东西，也是觉得我觉得这是一个伟大的公司。然后他做的很多战略其实是超前的，包括超前投资，超前部署的。然后他的战略判断的能力跟他的信息源、跟他资源，跟他掌握的数据，可能并不是我们对马上能够理解的。是的。
-</p>
-<p class="transcript-line">
-<span class="time"><strong>[00:29:50]</strong> </span>
-<span class="speaker"><strong>发言人1: </strong></span>
-但是一旦他有了大动作，尤其在这个大动作跟公众的这个理解有一个非常大的gap的时候，一定要大家去注意，就是这个反共识，这个反共识别这个反共识是我们非常敏感的一个点。就是大家都觉得你发布AI苹果AI发布了个寂寞的时候，你应该把开发文档拿起来看一看它开放了什么。这个时候你就会发现特别有意思的点就这里面可能全部都是生意的机会。对，是的，是。那总结来讲，就是一个更聪明的一个siri，他会来去调配整个获得了系统。
-</p>
-<p class="transcript-line">
-<span class="time"><strong>[00:30:28]</strong> </span>
-<span class="speaker"><strong>发言人2: </strong></span>
-级最高的权限。
-</p>
-<p class="transcript-line">
-<span class="time"><strong>[00:30:30]</strong> </span>
-<span class="speaker"><strong>发言人1: </strong></span>
-对，来调配整个iphone，实现了一个AI加RPA在软件层面的一个，我觉得应该是已经全局打通了。对，基本上是打通了。全局通的能够阻碍苹果在软件层面做AI这个事情的卡点基本上全通了，基本上全通了，或者通过过去几代的这种IOS的迭代，对，基本上都打通了。还有一个就是刚才总结一下，就是硬件层面，就硬件层面的AI的入口也可能已经提前预留好了，对吧？对，不说他芯片，我们就说这些他为什么会加一个按键？这个事情对用户。
-</p>
-<p class="transcript-line">
-<span class="time"><strong>[00:31:09]</strong> </span>
-<span class="speaker"><strong>发言人2: </strong></span>
-的一个AI入口，对用户的用户。
-</p>
-<p class="transcript-line">
-<span class="time"><strong>[00:31:12]</strong> </span>
-<span class="speaker"><strong>发言人1: </strong></span>
-级的这个可能已经是初具雏形了。那剩下的就是说他这个脑子到底好不好使的问题了。大家最关心的他的脑子好不好用。对苹果AI是不是弱智？老师讲了一下，新经实测现在的苹果AI是不是弱智？
-</p>
-<p class="transcript-line">
-<span class="time"><strong>[00:31:28]</strong> </span>
-<span class="speaker"><strong>发言人2: </strong></span>
-比较比较弱比较弱。但是这个也是现在实测的过程的一个限制，就是远端的那个那个open I没办法掉。现在是这样子的，也就是说本地弱的时候，他没办法请求远端来来帮忙的。
-</p>
-<p class="transcript-line">
-<span class="time"><strong>[00:31:43]</strong> </span>
-<span class="speaker"><strong>发言人2: </strong></span>
-这个事情是现在的体验，但是同时惊艳的一点就是他本地的这个东西的反应。那比你那个，比那个GPT的o one那个时候做的那种还要快，你那个时候至少也要响应个一两秒，他的抠图快吗？抠图也挺快的，抠图也挺快是吧？本地都很快，这里面就是说一个不可能三角，它已经做的很好了，正常来讲你这个模型小就比较笨，然后处处理速度慢，但是它处理速度快，它有一点笨，但是速度还是挺快的那像聊siri就是实时的，你可以他就是相当于有上下文的了。以前siri不行，以前siri没有上下文，你干一件事情，下一件事情就是独立的那现在他是上下文，你可以连续的跟他聊。
-</p>
-<p class="transcript-line">
-<span class="time"><strong>[00:32:24]</strong> </span>
-<span class="speaker"><strong>发言人1: </strong></span>
-一个就是说在要联网的时候，他是会告诉你这个事情要连GPT的，是吧？
-</p>
-<p class="transcript-line">
-<span class="time"><strong>[00:32:28]</strong> </span>
-<span class="speaker"><strong>发言人2: </strong></span>
-就是现在是联网是没因为没通GPT没通，通了他就可以连了，通了他就会知道有一些他做不了的。
-</p>
-<p class="transcript-line">
-<span class="time"><strong>[00:32:35]</strong> </span>
-<span class="speaker"><strong>发言人1: </strong></span>
-他所以现在你体验的那个版本几乎是纯本地的。
-</p>
-<p class="transcript-line">
-<span class="time"><strong>[00:32:39]</strong> </span>
-<span class="speaker"><strong>发言人2: </strong></span>
-他就纯本地的爽点就是特别快。你真的感觉就是一个活人在跟你聊天一样，那他聊天的能力也比较强对，但是智力肯定还差一点。对，但是这个事情本身就是苹果的架构已经设计好了，那本地解决的就是安全性的问题，就是隐私数据我给你弄好，就算被人盗了也也没有办法去真的去取到你的隐私。对，密钥什么东西都做的很很OK。然后那就是说有问题的就是说我自己不够聪明的时候，我去远端这个open I还后面还有杰米的，还有谁谁谁，反正就是田忌赛马对吧？大家去赛马，我就在旁边学你们的各种好的bad case就好了，对吧？然后最后把我自己的训练起来就行了，对吧？
-</p>
-<p class="transcript-line">
-<span class="time"><strong>[00:33:22]</strong> </span>
-<span class="speaker"><strong>发言人1: </strong></span>
-这个肯定是他的套路也都是安卓完胜的。但是安卓的体验可能未必做得那么好啊。对安卓的像之前的小米的小爱也已经开放了大模型。对，然后更不要讲那些什么抠图，那些其实安卓早就有了。是只是说可能在实现方式上，包括这种技术路线上可能是不一样的，或者用户体验上最终会有有有差。
-</p>
-<p class="transcript-line">
-<span class="time"><strong>[00:33:44]</strong> </span>
-<span class="speaker"><strong>发言人2: </strong></span>
-可能因为体验会差别比较大。
-</p>
-<p class="transcript-line">
-<span class="time"><strong>[00:33:46]</strong> </span>
-<span class="speaker"><strong>发言人1: </strong></span>
-因为端侧这个东西也不是什么新东西了。对以电脑为例，就是像现在photoshop的一些能力，一些神经网络的一些能力，也都是调用端侧的一个GPU对来做的，或者是用端侧的一些模型来实现的那只是说这个事情他可能要搬到手机上面来，对他可能会实现一个还不错的体验。这个可能是我觉得对开发者来讲，应该第一波的还会不会还是那些做工具的那些人。
-</p>
-<p class="transcript-line">
-<span class="time"><strong>[00:34:19]</strong> </span>
-<span class="speaker"><strong>发言人2: </strong></span>
-对，正常人都是做工具。
-</p>
-<p class="transcript-line">
-<span class="time"><strong>[00:34:20]</strong> </span>
-<span class="speaker"><strong>发言人1: </strong></span>
-特别是做图行的。
-</p>
-<p class="transcript-line">
-<span class="time"><strong>[00:34:21]</strong> </span>
-<span class="speaker"><strong>发言人2: </strong></span>
-我觉得对图形比较显性，显性就是像他那个本直接划一下，这图就抠掉了。但是他这里面也也就是抠图这件事情，就是本地能抠一部分。但是如果真的碰到比较复杂的，他还是要去要要去云端简单的才能在本地。对对对，是这样的，有甚至云端都要转好久，比如说生成一个头像，有的这个转转。
-</p>
-<p class="transcript-line">
-<span class="time"><strong>[00:34:46]</strong> </span>
-<span class="speaker"><strong>发言人1: </strong></span>
-但是如果本地十分钟足够强的话，那就相当于是说任何一个小白开发者，他都有了这个所谓美图秀秀的这样的能力吗？
-</p>
-<p class="transcript-line">
-<span class="time"><strong>[00:34:55]</strong> </span>
-<span class="speaker"><strong>发言人2: </strong></span>
-对，但是这个东西可能硬件上没有快没有那么快突破。是比如说到iphone 16，它现在已经是台积电最积电最近的一套几纳米的知识的在做了。对这里面的缺点就是因为手机只有那么大，手机只有那么大，它的算力在那么小的空间里面面要提到很高，它就是很困难的算力和内存，它特别还有内存也不行。
-</p>
-<p class="transcript-line">
-<span class="time"><strong>[00:35:19]</strong> </span>
-<span class="speaker"><strong>发言人1: </strong></span>
-可能像我们电脑端的一些像adobe的一些软件，它用到这个神经网络的话，要专门去下一个包，那个包也不小。对，但从手机来讲的话，估计没有这样的空间去支持。
-</p>
-<p class="transcript-line">
-<span class="time"><strong>[00:35:31]</strong> </span>
-<span class="speaker"><strong>发言人2: </strong></span>
-你就是就是硬件的那个算力就不够。所以简单的说是这样。
-</p>
-<p class="transcript-line">
-<span class="time"><strong>[00:35:35]</strong> </span>
-<span class="speaker"><strong>发言人1: </strong></span>
-可能长期来讲还是端云会有一个共存的一个阶段。
-</p>
-<p class="transcript-line">
-<span class="time"><strong>[00:35:40]</strong> </span>
-<span class="speaker"><strong>发言人2: </strong></span>
-对，应该会长期会共存。而且其实这里面我觉得很多我们日常的东西也不需要那么聪明的大脑。
-</p>
-<p class="transcript-line">
-<span class="time"><strong>[00:35:49]</strong> </span>
-<span class="speaker"><strong>发言人1: </strong></span>
-确实是这样。因为从我们实际很多做AI的创业项目来看，对用一些小模型，低成本的小模型可能都已经比这个最新的大模型用起来更稳定了，而且也更节省token了。是啊，并不是模型越大越好，对吧？的是的，所以我觉得这个也是一个目前已经在AI这个创业的一些赛道里面已经被证实了很多。就是是移动。
-</p>
-<p class="transcript-line">
-<span class="time"><strong>[00:36:14]</strong> </span>
-<span class="speaker"><strong>发言人2: </strong></span>
-端之外的，我们至少都看到了他这就是很小的比例，是真的需要AI去新的AI大模型去处理。
-</p>
-<p class="transcript-line">
-<span class="time"><strong>[00:36:22]</strong> </span>
-<span class="speaker"><strong>发言人1: </strong></span>
-的对对对对对，应该是说大模型来解决一些不能叫复杂他的事情，其复杂的事情更适合用小模型加RPA来做对吧？大模型可能更解决一些这种生成类的一些工作。但其实生成类不是AI最对我觉得最好的一个应用了。对，像他很飘。
-</p>
-<p class="transcript-line">
-<span class="time"><strong>[00:36:44]</strong> </span>
-<span class="speaker"><strong>发言人2: </strong></span>
-是的，就是像这个可能比较好的应用，我觉得方向上最近其实open I最新的这个OEOE的这个东西其实也是一条很很好的路线。就是说它的它实际上是一个思考的能力了。对，这个能力实际上是最核心的，就是我我的思考推理能力，把以前原来说需要用那个推理链思考链就是chain of salt COT这样的一个东西，变成了说现在是内化在它的模型里了，你就不用写这些东西了。
-</p>
-<p class="transcript-line">
-<span class="time"><strong>[00:37:15]</strong> </span>
-<span class="speaker"><strong>发言人1: </strong></span>
-小模型就是听话无脑做，能做到这两个事情就好了。那大模型就是能够更好的去推理。
-</p>
-<p class="transcript-line">
-<span class="time"><strong>[00:37:23]</strong> </span>
-<span class="speaker"><strong>发言人2: </strong></span>
-对他们去真的去推理复杂的情况。就是说人我们人之所以能够处理复杂情况，其实我们也是经过了长达十几年的教育的训练的。
-</p>
-<p class="transcript-line">
-<span class="time"><strong>[00:37:32]</strong> </span>
-<span class="speaker"><strong>发言人1: </strong></span>
-所以这么看，苹果是很鸡贼的，就基本上把整个行业踩的坑都看完了以后。
-</p>
-<p class="transcript-line">
-<span class="time"><strong>[00:37:38]</strong> </span>
-<span class="speaker"><strong>发言人2: </strong></span>
-最后一个出手了。对他最后出手，而且拿着黑盒子，他把最核心的端侧和那个远端都都他都包住了。
-</p>
-<p class="transcript-line">
-<span class="time"><strong>[00:37:46]</strong> </span>
-<span class="speaker"><strong>发言人1: </strong></span>
-其实你刚才按我们刚才聊的这个点来看，其实苹果端侧的AI他不需要智能，他只要能理解你要干嘛，听话，然后能把事情做出来。用不管用show cut，用那个URL scheme，或者是说用这个siri的一些自动化把它做出来就好了。能听话能。
-</p>
-<p class="transcript-line">
-<span class="time"><strong>[00:38:03]</strong> </span>
-<span class="speaker"><strong>发言人2: </strong></span>
-看出来它就比较像。我可能想到了一个类比，就有点像他就像部队里面可能最基层的指挥官就可以了。就是我不用懂那么多，但是我得懂一点就是了，就是对党忠诚。对我就是激战这个枪杆子指哪儿我就打哪儿。对，指哪儿，但是得我得懂枪杆子。对我得懂这个没指的时候也不能乱开枪，就这个意思就是所以他的算力到这个程度，我是觉得够用了。
-</p>
-<p class="transcript-line">
-<span class="time"><strong>[00:38:30]</strong> </span>
-<span class="speaker"><strong>发言人1: </strong></span>
-就是够用。你这个比喻很好，就是在我解决不了的时候，我再去请示这个云端的这个大模型。
-</p>
-<p class="transcript-line">
-<span class="time"><strong>[00:38:37]</strong> </span>
-<span class="speaker"><strong>发言人2: </strong></span>
-对我去找总总指挥官，我就是前面的那个冲锋陷阵的小那个一级长一级的领域很好。
-</p>
-<p class="transcript-line">
-<span class="time"><strong>[00:38:44]</strong> </span>
-<span class="speaker"><strong>发言人1: </strong></span>
-这个领域很好。所以刚好聊到这里，也回答了很多大家都在怀疑说苹果AI智不智能的问题。所以这个答案就是苹果他根本不care他智不智能。
-</p>
-<p class="transcript-line">
-<span class="time"><strong>[00:38:55]</strong> </span>
-<span class="speaker"><strong>发言人2: </strong></span>
-对，但是他的体验，他这一点我觉得说是打的很好。体验我跟他说体验响应非常快。那你感觉就是本地上这也是他自己把他的硬件软件一体化，还有包括他自己自控的这些APP之间的优化做的很好。
-</p>
-<p class="transcript-line">
-<span class="time"><strong>[00:39:10]</strong> </span>
-<span class="speaker"><strong>发言人1: </strong></span>
-这就是定义体验，叫定义体验的能力。对我觉得目前可能只有苹果能做到。
-</p>
-<p class="transcript-line">
-<span class="time"><strong>[00:39:17]</strong> </span>
-<span class="speaker"><strong>发言人2: </strong></span>
-对他这个体验就是让你会真的感觉到是一个你会感觉这个东西不一样了，就是跟你以前的手机完全不同了。但是这个事情就是你用其他的，你说用open I ChatGPT，你肯定没这个感觉。没有，因为ChatGPT那个demo的那个GPT4O的时候，那个是demo的感觉，你真的我们端侧在用的时候没有那么快，对他是在他那边是演示他才有那么快。对，所以这个就是所以说我从我觉得说体验，所以到最后真的好的体验。就苹果其实。
-</p>
-<p class="transcript-line">
-<span class="time"><strong>[00:39:50]</strong> </span>
-<span class="speaker"><strong>发言人1: </strong></span>
-体验跟场景应该这么讲。
-</p>
-<p class="transcript-line">
-<span class="time"><strong>[00:39:51]</strong> </span>
-<span class="speaker"><strong>发言人2: </strong></span>
-对，它的体验跟场景，你看在我们那种，比如说我们教育教教这个助理起来喊siri这种东西起来干个事。那这种情况下我们其实已经习惯了，他比较笨对不对？
-</p>
-<p class="transcript-line">
-<span class="time"><strong>[00:40:04]</strong> </span>
-<span class="speaker"><strong>发言人1: </strong></span>
-只是我习惯这个场景不代表不成立。对，可能只是他体验不好。是的。
-</p>
-<p class="transcript-line">
-<span class="time"><strong>[00:40:09]</strong> </span>
-<span class="speaker"><strong>发言人2: </strong></span>
-然后也习惯了他以前各种东西不行。那你现在会发现他跟你对答如流，然后理解你的句式。然后理解你的一些问题，然后他不懂他会很诚实的告诉你。
-</p>
-<p class="transcript-line">
-<span class="time"><strong>[00:40:20]</strong> </span>
-<span class="speaker"><strong>发言人1: </strong></span>
-他不懂。确实就是我会跟你讲我最近那个例子吗？你知道最近豆包不是日活特别高。对，我体我我体验完我发现他为什么日活特别高？很重要一点就是他那个实时通话。
-</p>
-<p class="transcript-line">
-<span class="time"><strong>[00:40:35]</strong> </span>
-<span class="speaker"><strong>发言人2: </strong></span>
-给你打电话的那个样子。
-</p>
-<p class="transcript-line">
-<span class="time"><strong>[00:40:36]</strong> </span>
-<span class="speaker"><strong>发言人1: </strong></span>
-就你挂在那边跟他打电话，然后你可以跟他聊一天。比如说我就是给小朋友讲故事，就是讲一个晚上讲到睡着了，我都不知道他有么自动挂，我也不知道，但是这个体验非常的流畅。你说豆包模型多智能吗？没有我用的是豆包。对，最免费的那个。
-</p>
-<p class="transcript-line">
-<span class="time"><strong>[00:40:54]</strong> </span>
-<span class="speaker"><strong>发言人2: </strong></span>
-对，就是light那样的。
-</p>
-<p class="transcript-line">
-<span class="time"><strong>[00:40:56]</strong> </span>
-<span class="speaker"><strong>发言人1: </strong></span>
-那个模型生成的一些东西意义还不太好。但是整个他这个体验是一个我觉得是有创新的。对对对，所以说到这个就是刚才讲的，就是我们讲了那么多，其实有可能苹果在在搞一个事情，还是说把体验跟入口这两个事情给搞定了，那这个习惯就起来了。习惯起来了你就会把人留在你这里，把人留在终端上，或者AI，这个事情基本上就做成了。因为我们现在很多做AI软件创业的最重要一个原因就是他不掌握这个使用用的场景，对，也不掌握使用的体验。是的，对，就你拿OpenAI去开发一个东西，这个开发的平台你不能叫平台，就网页对或者APP这都不是你说的算的对对吧？那这个体验open I说的算对。
-</p>
-<p class="transcript-line">
-<span class="time"><strong>[00:41:47]</strong> </span>
-<span class="speaker"><strong>发言人2: </strong></span>
-这NPI宕机了你就。
-</p>
-<p class="transcript-line">
-<span class="time"><strong>[00:41:49]</strong> </span>
-<span class="speaker"><strong>发言人1: </strong></span>
-淡机了是吧？你说的算的他卡就卡，基本没有。对对对，你说的算算的基本没有，就是你最多就是一些行业的能耗，行业的数据。但是苹果来做这个事情不一样，它是可以定义这个场景，定义体验，而且可以定义用户习惯的对所以这个事情是一个非常key的一个核心的一个思路。这个是这最近我们聊这些聊下来，我觉得对这个可能反而是一个大家不会去注意到的一个点。
-</p>
-<p class="transcript-line">
-<span class="time"><strong>[00:42:17]</strong> </span>
-<span class="speaker"><strong>发言人2: </strong></span>
-对，甚至另外一个角度，我突然想想起来就是拿open I来比。Open I现在的那个其实它的整个的应用，也就是活跃用户只有几千万人，应该不到一个亿，就是几千万人大几千万人，三千多万到5000万，这是全球最强的AI应用。但是你想想苹果手机是多少人？苹果手机是的，苹果手机这个东西它是数以10亿计的一个水平。然后哪怕是最新的16和已经原来的上一代的15 pro和pro max，这两个是还支持open，就支持apple AI的。这个加在一起，他们差不多也有快两两亿人，差不多快2亿。他就预期16的销售应该会在九千多万到1个亿的样子。然后那个十五原来这些加起来可能也就就有那么多了，那就是这个受众它其实还是挺广，就是非常大，而且尤其是门槛降到那么低了。
-</p>
-<p class="transcript-line">
-<span class="time"><strong>[00:43:17]</strong> </span>
-<span class="speaker"><strong>发言人2: </strong></span>
-就是因为苹果所有的AI应用都是融融在它每一个小小的东西里面写作，写写短信处理的照片，对吧？就都是这些小小的东西。其实你的你日常使用都已经被它就量治百病，对，量解决一些量就在那儿。你看我其实升级到它的这个AI之后，我觉得最爽的就是它的推送我已经很舒服了。他推送我经常其实一个比如说一个twitter就X点com 1天就能推100条。那他给我总结成三句话，讲了哪三就这100条消息就讲了哪三个东西，就在你推送的那个那那一栏上就可以看得到。那我可以想一下，这三个问这三个话题我都不感兴趣我今天就不看了，我根本不用点，不用等着开推特的APP去看我今天这个直接叉掉，后面这再等下来100个有感兴趣的再点进去。对对对，就这么简单。
-</p>
-<p class="transcript-line">
-<span class="time"><strong>[00:44:08]</strong> </span>
-<span class="speaker"><strong>发言人1: </strong></span>
-很轻。对对对，是因为你仔细看，就一开始看他的时候，你就觉得可能他就做了一些summary，好像也做不了别的。其实这个体验在日常的体验来讲，其实是非常上头。
-</p>
-<p class="transcript-line">
-<span class="time"><strong>[00:44:23]</strong> </span>
-<span class="speaker"><strong>发言人2: </strong></span>
-非常好。还牛哥我再举个例子很好笑，就是什么是比如说我现在小孩子很小，然后他每天可能哭闹很多回，但我大概知道原来是没办法知道的。我那我我那个小米的那米家他就它里面是它它的很好，它有一个本地的AI可以识别。小孩哭闹。对，然后它就会给你推个小孩哭闹。
-</p>
-<p class="transcript-line">
-<span class="time"><strong>[00:44:43]</strong> </span>
-<span class="speaker"><strong>发言人2: </strong></span>
-对，我以前的话其实是没办法，只能点进去，然后好几层，然后去看到底怎么回事。现在的话他这个通通通知过来，一天可能有100个通知。然后他里面告诉我星期天就哭了三次，他就会直接在summary里面就写哭闹三次，就这样。然后我觉得这个很好啊，我不用再点进去算，实际挺上头的对，实际就很上头。因为一天其实有很多的，你因为你知道那种监控，一天其实人跑来跑去一直会触发。但是它里面我其实只关心哭闹，那他还给我总结了。
-</p>
-<p class="transcript-line">
-<span class="time"><strong>[00:45:15]</strong> </span>
-<span class="speaker"><strong>发言人1: </strong></span>
-哭闹就三次。我推送这个场景可能是被AI改造的最快的一个场景。原来那种基于规则型跟时序的这种推送，然后其实现在大家都已经恨不得全关了。对，但是有了AI以后，其实你就不用去关这个推送消息了，他自动会帮你总结对吧？
-</p>
-<p class="transcript-line">
-<span class="time"><strong>[00:45:31]</strong> </span>
-<span class="speaker"><strong>发言人2: </strong></span>
-他会帮你总结，而且他还有一点是背后他在学习你的行为，就是你其实每次会擦掉的那些通知他下，他就知道下次不应该在优先级里面告诉你了。OK然后还对。
-</p>
-<p class="transcript-line">
-<span class="time"><strong>[00:45:43]</strong> </span>
-<span class="speaker"><strong>发言人1: </strong></span>
-所以这个就是用AI去定义了一个新的体验。虽然就是很细枝末节，很。
-</p>
-<p class="transcript-line">
-<span class="time"><strong>[00:45:49]</strong> </span>
-<span class="speaker"><strong>发言人2: </strong></span>
-边边角角，你好像。
-</p>
-<p class="transcript-line">
-<span class="time"><strong>[00:45:50]</strong> </span>
-<span class="speaker"><strong>发言人1: </strong></span>
-看不到这个很上头。
-</p>
-<p class="transcript-line">
-<span class="time"><strong>[00:45:52]</strong> </span>
-<span class="speaker"><strong>发言人2: </strong></span>
-是这个时候我会真的有一种感觉，我不是我不是像以前觉得siri是你的个人助理了，我现在会觉得整个iphone是我的助理。因为我的操作习惯和这些东西，你在根据我的习惯对在在在那个在行为的。因为你看他刚才的通知肯定不跟siri没有毛线关系，因为siri是一个主动唤醒的事情。但我觉得其实更好的是这些被动的东西。我我我正在用APP的时候，我不知道你背后有AI，但是你给我端上来的这个结果就是我一看就很舒服。
-</p>
-<p class="transcript-line">
-<span class="time"><strong>[00:46:26]</strong> </span>
-<span class="speaker"><strong>发言人1: </strong></span>
-还是那个观点，AI含量不是越高越好的，对不对？如果我做这个事情，几乎就是把AI含量降到最低了。
-</p>
-<p class="transcript-line">
-<span class="time"><strong>[00:46:34]</strong> </span>
-<span class="speaker"><strong>发言人2: </strong></span>
-真的是力道让大家觉得好像没没有。
-</p>
-<p class="transcript-line">
-<span class="time"><strong>[00:46:36]</strong> </span>
-<span class="speaker"><strong>发言人1: </strong></span>
-好像没有AI一样。对，但实际你可能用下来，像老师你讲这个我觉得这个功能听起来就很上头，好吧，我虽然我还没体验过。
-</p>
-<p class="transcript-line">
-<span class="time"><strong>[00:46:46]</strong> </span>
-<span class="speaker"><strong>发言人2: </strong></span>
-对，是的，这些我觉得真的。所以说作为如果是创业者的角度来讲，你现在开始提前进来去学习，去布局，去看看美国首发会变成什么样子。然后这些东西我觉得行动起来一定会有一些机会的。
-</p>
-<p class="transcript-line">
-<span class="time"><strong>[00:47:05]</strong> </span>
-<span class="speaker"><strong>发言人1: </strong></span>
-其实我觉得对创业者来讲，刚才讲了几个机会。一个就是利用他本地的一些处理能力，像做工具类的，做这种图形类的可能是一波比较好的机会对吧？然后还有一个就是怎么讲，就是原本已经有了很好基础的一些APP和一些成熟的APP，然后原本可能就做过这个捷径上面的一些入口，有做过布局的那这次可能通过siri的接入，你又可以有很多新的加上AI的体验出来了。
-</p>
-<p class="transcript-line">
-<span class="time"><strong>[00:47:41]</strong> </span>
-<span class="speaker"><strong>发言人1: </strong></span>
-对，包括你刚才讲的那个通知类也算一块。对，就是那种强通知的APP，我觉得可能也有很大的机会。对，可以被这个siri AI把它的体验提升上来。是的，比如说但重灾区肯定是电商类的。这个电商类可能不太好过，但是这就是这种工作工具类的，日常生活类的，就是跟你每天息息相关的对，这种通知类的一些消息可能会体验会更好。我觉得这里面应该有有蛮多的机会，不管是老老应用还是新应用都会有。
-</p>
-<p class="transcript-line">
-<span class="time"><strong>[00:48:15]</strong> </span>
-<span class="speaker"><strong>发言人2: </strong></span>
-对对对，是这样的那。
-</p>
-<p class="transcript-line">
-<span class="time"><strong>[00:48:17]</strong> </span>
-<span class="speaker"><strong>发言人1: </strong></span>
-可能再往后面看，就是你刚才讲的那个硬件入口结合端侧AI的一个机会了，可能到更晚一点看。对，但这个我觉得还是得去看一下别人怎么做，看一下这个美国市场会不会出一些新的应用。是然后可能看一些这种新的创意，更更就更能其实苹果也在看，其实苹果做这个事情，也就是说你先去跑给我看。
-</p>
-<p class="transcript-line">
-<span class="time"><strong>[00:48:46]</strong> </span>
-<span class="speaker"><strong>发言人2: </strong></span>
-对我有一个支数据的支撑。我知道你每天的使用习惯，我可能就大概可以创造一个新的硬件。
-</p>
-<p class="transcript-line">
-<span class="time"><strong>[00:48:53]</strong> </span>
-<span class="speaker"><strong>发言人1: </strong></span>
-反正我是一定要收割的对。
-</p>
-<p class="transcript-line">
-<span class="time"><strong>[00:48:55]</strong> </span>
-<span class="speaker"><strong>发言人2: </strong></span>
-就是从苹果的角度，就是它核心的把把控了算力数据。这些事情都在，还有那么多的用户这些东西在他手上。那你后面就是只要推出好的产品去满足大家就完事了。那这个。
-</p>
-<p class="transcript-line">
-<span class="time"><strong>[00:49:09]</strong> </span>
-<span class="speaker"><strong>发言人1: </strong></span>
-事情还是所以说大家说这个美国软件市场都比较克制，其实不是的。我觉得这一次像最新mac OS发布以后，其实我已经卸载了很多ipad了，就窗口管理的那些。然后包括密码管理那个one password我都删掉了，就几几乎就是好多这种原生应用，它已经是以这种很可怕的速度去取代第三方应用。那这里面当然就是在过去那个时代，我觉得他不会干这个事情。但是在新的AI时代，他必须要占领这些对高频应用的第三方应用的生生位生态位，否则他AI可能会做不下去。
-</p>
-<p class="transcript-line">
-<span class="time"><strong>[00:49:52]</strong> </span>
-<span class="speaker"><strong>发言人1: </strong></span>
-是比如说我们之前经常用一些日程加代办清单，像滴答清单，类似这种东西。他可以在一个日程表上面填清单，写代办这个事情。那这次也是被他给苹果给给取代了，他自己默认把这个事情给做了。OK很简单，就是看到的这个高频的应用，这一波AI你不跟我必须得跟我必须自己要打打样。
-</p>
-<p class="transcript-line">
-<span class="time"><strong>[00:50:18]</strong> </span>
-<span class="speaker"><strong>发言人2: </strong></span>
-他自己要打样。对，尤其是其实这里面背后如果分析的话，他在至少在这个时期，他要抢一个快快的一个东西的话，他自己原生构建1点APP。没有那么多的法律，然后利益上面的问题，你不然的话，你跟其他的开发者去到底怎么分钱？是的，然后哪些数据我可以读？是的，这个事情还是蛮敏感的，所以他最好的当时还是自己先做一些这些比较高频比较常用的一些应用，自己先做起来，同时也打样。你打完了以后核心的东西，反正大模型最后的数据，客户的这些习惯，他有办法可以管理获取，同时在演进。那他后面这些应用它就可以开放给开这个开发者。大家跟大家搞了没问题。
-</p>
-<p class="transcript-line">
-<span class="time"><strong>[00:51:08]</strong> </span>
-<span class="speaker"><strong>发言人1: </strong></span>
-反正蛋糕一起做大完以后我就我就不更新了，我就把体验就故意做烂一点，你们继续繁荣你的。
-</p>
-<p class="transcript-line">
-<span class="time"><strong>[00:51:15]</strong> </span>
-<span class="speaker"><strong>发言人2: </strong></span>
-所以你们去繁荣，然后看看苹果税是不是要再加一点。
-</p>
-<p class="transcript-line">
-<span class="time"><strong>[00:51:20]</strong> </span>
-<span class="speaker"><strong>发言人1: </strong></span>
-对，所以就这个事情可能也是帮大家去魅一下。可能中美的巨头可能殊途同归，最后也可能都是这样子。但是作为一个开发者，我觉得或者是作为一个创业者，就是这种系统级别的红利机会，还是要逐字逐句的去看、去解读、去抓住的。因为对我们来讲就是机会是最大的一个成本。那对巨头来讲，可能他要布局，他有很多的思考，那我们可能没有办法去跟他计较说什么苹果税睡不睡，或者是说苹果抄不抄你的问题。我觉得这个不是我们应该去计较的，我们计较的可能更多的是先发快，然后抢占住你自己的这个生态位，去累积您的这个原始的资本。我觉得这个对可能我们就所有的创业者跟开发者可能是比比这个去思考这个巨头为什么这样子。可能更重要的一件事情。
-</p>
-<p class="transcript-line">
-<span class="time"><strong>[00:52:15]</strong> </span>
-<span class="speaker"><strong>发言人2: </strong></span>
-相当于我们自己做了一个跟苹果一样做了一个战略决定。对，我们可能为未来的三年、五年，我觉得这个东西应该会有能能碰出火花来。所以对，现在去下这个种子。
-</p>
-<p class="transcript-line">
-<span class="time"><strong>[00:52:29]</strong> </span>
-<span class="speaker"><strong>发言人1: </strong></span>
-对对对，包括我们刚才有一段没有录到的，就是说苹果AI跟这个小程序，其实我们认为是本质上是一个同等的一个战略上面的一个风口。对，就是苹果这一波AI我们刚才讲到了他的开放的摄像头，包括开放摄像头硬件的这个入口，包括更聪明的这个siri，把siri跟APP clipsed的这个权限提到了最高，包括这个shortcut这个事情，也因为加了这个AI，把这个自动化这个事情又提升到一个很高的一个级别。也就是他眼睛、耳朵、手脚都打通了，就差一个大脑AI了。对，那这个事情就好比类比到当年微信微信。
-</p>
-<p class="transcript-line">
-<span class="time"><strong>[00:53:14]</strong> </span>
-<span class="speaker"><strong>发言人2: </strong></span>
-里面的小程序微信。
-</p>
-<p class="transcript-line">
-<span class="time"><strong>[00:53:16]</strong> </span>
-<span class="speaker"><strong>发言人1: </strong></span>
-支付这个打车大战，把这个支付这个习惯给养成了。通过这个扫一扫，把这个线下扫码，线下到线上的入口。
-</p>
-<p class="transcript-line">
-<span class="time"><strong>[00:53:28]</strong> </span>
-<span class="speaker"><strong>发言人2: </strong></span>
-移动互联网入口给定下来了。
-</p>
-<p class="transcript-line">
-<span class="time"><strong>[00:53:30]</strong> </span>
-<span class="speaker"><strong>发言人1: </strong></span>
-把这个入口给定下来了。对，然后就差一个小程序，把这整整个从入口到出口这个事情给串联起来，闭环起来了。对对对，所以很多人看不懂。当时说做个小程序说你怎么去中心化，我要中心化，你给我去中心化。但是恰恰去中心化用到整个平台不同的触点，不同的能力，我觉得恰恰是一个非常大的机会。所以今天可能大家都已经习以为常了，不会有人再去做一个APP了。
-</p>
-<p class="transcript-line">
-<span class="time"><strong>[00:54:00]</strong> </span>
-<span class="speaker"><strong>发言人1: </strong></span>
-对，可能都去做个小程序了。但可能今天你回过来看拼搏AI，当你大家都不做APP的时候，今天可能正是你应该做APP的时候。我觉得有可能是这样子。对，因为现在做一个APP的成本反而这么看其实是更低的。就无非你就是利用好端车AI加上云端AI加上你自己的数据。结合苹果的这些开放能力，然后把这个URL skin这个事情结合suka，你把这些基础做好，其实做一个所以说AI加自动化的一个APP，其实成本巨低无比了。
-</p>
-<p class="transcript-line">
-<span class="time"><strong>[00:54:37]</strong> </span>
-<span class="speaker"><strong>发言人2: </strong></span>
-我觉得就比以前要低，因为以前的话大家在那个交互上要花很大的精力。就IOS native苹果原生交互就一堆东西，但你现在不用，现在其实因为有了这个新的AI之后，你的AAPP的交互其实也会被颠覆的。而且就算是用现在成熟的一些东西，也都都已经很成熟。是的，成熟到你到处都有。
-</p>
-<p class="transcript-line">
-<span class="time"><strong>[00:54:58]</strong> </span>
-<span class="speaker"><strong>发言人1: </strong></span>
-而且把siri的权限开到这么高的时候，就你连别人东西你都能掉，他说不好听一点。对，是的。所以我觉得可能这个时候回过来看，我觉得苹果这个事情应该是一个非常里程碑的动作。我觉得苹果的AI应该不至于做的太差。是然后我们自己肯定也会做一些动作了，我们包括我们会在英国、美国，我们都会做一些APP去试水一下这个事情。如果到时候有关键的这个know how或者踩了哪些坑，再来跟大家汇报。对，我们这期也讲了挺久了。
-</p>
-<p class="transcript-line">
-<span class="time"><strong>[00:55:35]</strong> </span>
-<span class="speaker"><strong>发言人2: </strong></span>
-是啊一下一个多小时了，可能不止一个多小时了。对对对。
-</p>
-<p class="transcript-line">
-<span class="time"><strong>[00:55:40]</strong> </span>
-<span class="speaker"><strong>发言人1: </strong></span>
-我们我跟老肖也是第一次在线下反正想到什么就聊什么。刚好最近我们一直密集的在聊apple AI这个事情，包括我们也打算自己做一些应用，所以我们就直接干脆就是办公室现场开麦就录了一集这个博客。如果大家觉得说这种形式特别的好啊，我们也可以多录一点。对，我们以后可能更新频率也会更高一点。我们可能就平时聊什么，我们就直接把这个麦克风架起来就录了。对，所以就是欢迎大家也多多订阅我们的频道。好，那就希望这一期对你有帮助。好了，拜拜，希望有帮助。拜拜。
-</p>]]></content:encoded>
-            <pubDate>Sat, 28 Sep 2024 23:30:00 GMT</pubDate>
-            <guid>66f6852e81cdab3a937e6853</guid>
         </item>
     </channel>
 </rss>
