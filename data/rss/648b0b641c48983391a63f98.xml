@@ -4,7 +4,1398 @@
         <title>42章经</title>
         <link>https://www.xiaoyuzhoufm.com/podcast/648b0b641c48983391a63f98</link>
         <description>和有趣、有独到认知的聪明人聊天</description>
-        <lastBuildDate>Sun, 23 Mar 2025 04:43:44 +0800</lastBuildDate>
+        <lastBuildDate>Sun, 06 Apr 2025 04:48:09 +0800</lastBuildDate>
+        <item>
+            <title>一堂「强化学习」大师课｜对谈清华叉院助理教授吴翼</title>
+            <link>https://www.xiaoyuzhoufm.com/episode/67efcaf5f9578163d601286a</link>
+            <description>当 AI 预训练的 scaling law 开始放缓，强化学习 (RL) 接过接力棒，拉出了一条漂亮的第二曲线。
+在当下的 Agent 热里，有 RL 能力的团队，也是最被看好和押注的。
+但很多人对 RL 都没有一个足够清晰的理解，包括我自己。
+所以这期我们请到了国内 RL 领域的专家、清华大学交叉信息研究院助理教授吴翼，来讲讲 RL 的原理到底是啥、RL+LLM 的路径是怎么发展起来的、目前存在哪些非共识、未来还会怎么演变等等（聊完感觉像上了一堂免费大师课）。
+而且聊着聊着，我们发现，人生就是一个 RL 的过程，区别是 RL 有明确的奖励函数，但是人生没有。可能如吴翼教授所说，我们首先都要以一种「最大熵」的方式去主动和不确定的世界交互，才能找到自己的奖励函数，优化自己的人生曲线。
+最后，吴翼教授的团队最近开源了一个 RL 框架 AReaL-boba，在 SOTA 7B 上跑出了 AIME24 61.9 的分数，也欢迎大家去 GitHub 关注。
+【人类博物馆】
+导游：曲凯，42章经创始人
+32 号珍藏：吴翼，清华大学交叉信息研究院助理教授，蚂蚁集团强化学习实验室首席科学家，前 OpenAI 研究员。
+【时光机】
+* 1:51 到底什么是 RL？
+* 4:25 人生就是一个强化学习的过程
+* 6:22 RL 和 LLM 是怎么结合起来的？
+  
+  * 7:01 强强联手第一步：InstructGPT，实现指令遵从
+  * 10:07 过程中衍生出了 RLHF
+  * 11:41「慢思考」的需求催生了 RL 的应用
+* 16:10 为什么说 Anthropic RL 做得特别好？
+* 21:17 行业对 RL+LLM 的最优路径形成共识了吗？
+* 25:11 RL 起来之后，对 Agent 的影响是什么？
+* 32:11 Intelligence = LLM (理解) × RL (决策)，二者缺一不可
+* 34:14 Scaling law 的未来
+  
+  * 34:33 Pretraining 的两个发展方向
+  * 36:43 RL 还处于早期，进入深水区后可能会走向分化
+* 40:02 大模型团队的组织架构要如何设计？
+* 43:21 一个反常识：对 AI 来说，理解比生成更难，token 消耗更大
+* 47:38 现在做 Agent 一定需要一个懂 RL 的人吗？
+* 49:32 为什么 RL 人才这么稀缺？
+* 56:10 RL 目前三大分支：泛化 (DeepSeek)、代码 (Anthropic)、Agent (OpenAI)
+* 58:55 框架对 RL 意味着什么？
+* 1:02:51 RL 在海内外进展还有明显差距
+* 1:04:42 想做好 RL，基建≫数据＞算法
+* 1:06:05 研究 RL 收获的一些人生启发
+【Reference】
+* 吴翼的 PhD 毕业论文：On Building Generalizable Learning Agents
+* 吴翼获机器学习顶级会议 NIPS2016 最佳论文奖的论文： Value Iteration Network
+* 吴翼提到的他非常喜欢的一篇论文：Diversity-Driven Exploration Strategy for Deep Reinforcement Learning
+* 吴翼团队和蚂蚁研究院开源的强化学习训练框架：AReaL-boba
+【The gang that made this happen】
+* 制作人：陈皮、Celia
+* 剪辑：陈皮
+* Bgm：Mondo Bongo - Joe Strummer &amp; The Mescaleros</description>
+            <content:encoded><![CDATA[<h1>转写链接</h1>
+<link>https://tongyi.aliyun.com/efficiency/doc/transcripts/yg7k9w76jxrmqxwd</link><br>
+<h1>节目摘要</h1>
+<div class="summary">本次对话深入探讨了强化学习（RL）的发展、应用及其面临的挑战。强化学习通过智能体与环境交互学习最优策略，区别于传统机器学习。讨论强调了强化学习在复杂决策问题和与深度学习结合后的进展，特别是在游戏和机器人控制领域的应用。特别提到“模仿学习”作为快速掌握复杂任务的方法。虽然取得成就，但处理复杂决策空间、提高算法泛化能力、实现自然人机交互仍存挑战，尤其是在大规模强化学习训练中需要高效稳定框架和算法。实际应用需解决奖励机制设计、模型可解释性和安全性等。未来，强化学习可能发展的方向包括算法创新、更高效训练方法和实际应用的拓展。</div><br>
+<h1>章节速览</h1>
+<div class="chapters">
+<div class="chapter-item">
+<span class="time"><strong>[00:00:00]</strong> </span>
+<span class="chapter-title"><strong>探讨强化学习及其发展：吴毅教授的见解</strong></span>
+<div class="chapter-summary">吴毅教授分享了他在强化学习领域的研究和经验，强调了IO算法和强化学习在当前科技领域的热度和重要性。他详细介绍了IL（强化学习）的概念，及其在泛化性和多智能体系统中的应用。吴毅还提及了他在清华大学教授深度学习课程的经历，表明了今天对强化学习的深入讨论旨在帮助听众更好地理解和掌握这一领域的核心知识和发展历程。</div>
+</div>
+<div class="chapter-item">
+<span class="time"><strong>[00:01:55]</strong> </span>
+<span class="chapter-title"><strong>强化学习与传统机器学习的区别及其在复杂决策中的应用</strong></span>
+<div class="chapter-summary">对话探讨了强化学习与传统机器学习的区别，强调强化学习适用于需要做出一系列复杂决策且结果好坏无明确标准答案的情境，如游戏和生活决策。传统机器学习则基于大量有明确标签的数据进行学习。强化学习的目标是在一系列决策后获得好坏反馈，更接近人类生活中的泛化智能体。然而，强化学习面临的问题更复杂，求解难度大，且假设已知奖励函数，这在实际生活中可能并不成立，因为人们往往需要探索和理解真实的奖励函数。</div>
+</div>
+<div class="chapter-item">
+<span class="time"><strong>[00:06:22]</strong> </span>
+<span class="chapter-title"><strong>大模型与强化学习在指令遵从中的融合</strong></span>
+<div class="chapter-summary">对话讨论了大模型与强化学习如何结合以解决指令遵从问题。大模型通过大量文本训练实现泛化，但最初并未针对特定指令进行优化，导致其在处理特定任务时表现不佳。为解决这一问题，OpenAI提出使用强化学习方法，通过人类反馈来训练模型，使其输出的内容更符合给定指令的要求。这种方法被称为“从人类反馈中学习的强化学习”（RLHF），通过收集人类标注的数据训练奖励模型，进而指导大模型的决策过程，实现更精准的任务执行。</div>
+</div>
+<div class="chapter-item">
+<span class="time"><strong>[00:10:52]</strong> </span>
+<span class="chapter-title"><strong>大模型的慢思考与强化学习</strong></span>
+<div class="chapter-summary">对话探讨了大模型通过慢思考（slow thinking）提升智力的方法，特别是OpenAI提出的让模型在给出答案前多输出文字（称为thinking token）的策略。这种策略允许模型在生成最终答案前进行更深层次的思考，从而提高答案的准确性。然而，如何训练模型具备这种慢思考的能力涉及到了强化学习，特别是通过让模型自由探索并仅关注最终结果的正确性，而不是中间过程。此外，讨论还涉及了在训练过程中使用有标准答案的问题来评估和强化模型的推理能力，因为中间的思考过程难以由人直接评判。</div>
+</div>
+<div class="chapter-item">
+<span class="time"><strong>[00:16:10]</strong> </span>
+<span class="chapter-title"><strong>AI模型的思考过程与泛化能力探讨</strong></span>
+<div class="chapter-summary">对话围绕AI模型的思考过程、成本效率以及泛化能力展开。讨论指出，Anthropic在处理简单和复杂问题时表现优秀，可能通过多模型组合或优秀的模型训练实现。此外，大模型的泛化能力使其在没有标准答案的问题上也能给出合理解释，但需结合文科训练以避免过度理性，实现思考能力与人文关怀的平衡。最后，如何将极端理性的模型与人文模型有效结合，成为一个挑战性的问题。</div>
+</div>
+<div class="chapter-item">
+<span class="time"><strong>[00:19:10]</strong> </span>
+<span class="chapter-title"><strong>强化学习在深度探索中的关键应用与挑战</strong></span>
+<div class="chapter-summary">对话重点讨论了强化学习在深度探索（Deep Seek）项目中的应用和突破。首先，提到Deep Seek项目证明了强化学习的可行性，极大地增强了行业信心，明确了研究方向。接着，强调了基础模型和训练系统的重要性，指出强大的基座模型与高效的训练引擎是实现长序列输出和大规模并行训练的关键。最后，肯定了DPCK团队在国内强化学习系统开发中的领先地位，强调了专注、早起和扎实工作的重要性。</div>
+</div>
+<div class="chapter-item">
+<span class="time"><strong>[00:21:16]</strong> </span>
+<span class="chapter-title"><strong>大模型和Agent技术的发展与探索</strong></span>
+<div class="chapter-summary">对话探讨了蒂普提克在探索最优路径方面取得的进展，以及Deep Sick、字节跳动等团队在AI模型，特别是具有编码能力的模型方面的探索。提及了OpenAI在强化学习领域的突破，如通过强化学习不仅实现推理，还能在虚拟世界中进行交互，展示了从单轮范式到多轮范式的转变及其带来的复杂性。同时，讨论了agent概念的定义及其技术实现，包括如何通过与外部世界或虚拟世界交互来产生影响，以及早期agent框架如auto GPT和LangChain如何通过prompt和脚本实现这一功能。</div>
+</div>
+<div class="chapter-item">
+<span class="time"><strong>[00:25:46]</strong> </span>
+<span class="chapter-title"><strong>大模型在多模态任务中的决策能力提升</strong></span>
+<div class="chapter-summary">对话讨论了Open I的Operator或深度研究如何通过强化学习提升大模型的决策能力，使其在多模态任务中不再需要大量的人为prompt和流程图，而是能够端到端地处理复杂任务。举例说明，一个强大的多模态模型能够自主完成如给狗穿衣服并改变风格的任务，而不需要详细的指令或拆解步骤。此外，对话还探讨了历史上为何没有出现仅基于IO（输入输出）的模型来处理复杂决策任务的原因。</div>
+</div>
+<div class="chapter-item">
+<span class="time"><strong>[00:28:18]</strong> </span>
+<span class="chapter-title"><strong>OpenAI的历史尝试与预训练模型的重要性</strong></span>
+<div class="chapter-summary">2016年，OpenAI尝试通过强化学习在网页上购买机票，但项目未成功，导致团队解散。随后，2019年，OpenAI的机器人项目试图通过强化学习控制机器人拧魔方和整理桌面，同样遭遇失败。直到2021年底，通过引入预训练模型，特别是多模态预训练模块CLIP，OpenAI才在语言控制机器人方面取得突破。这表明，强化学习虽能提供决策能力，但缺乏理解能力，而预训练模型能有效补充这一短板，从而激发出强化学习的潜力。</div>
+</div>
+<div class="chapter-item">
+<span class="time"><strong>[00:32:26]</strong> </span>
+<span class="chapter-title"><strong>预训练与强化学习在智能体发展中的乘法关系</strong></span>
+<div class="chapter-summary">对话探讨了预训练和强化学习在构建智能体中的关键作用，强调两者之间的乘法关系对于实现完整智能的重要性。预训练负责提升模型的理解、记忆和基础逻辑能力，而强化学习则专注于决策和行动，两者结合有望产生更强大的决策模型和通用智能体。虽然当前的最佳模型已通过此方法实现，但强化学习算法本身仍有巨大改进空间，预示着未来智能体发展的潜力和方向。</div>
+</div>
+<div class="chapter-item">
+<span class="time"><strong>[00:34:14]</strong> </span>
+<span class="chapter-title"><strong>预训练模型的未来发展方向与挑战</strong></span>
+<div class="chapter-summary">讨论了预训练模型在当前阶段的发展方向和面临的挑战，指出尽管预训练模型已经取得了显著的成就，但收益正在变小。强化学习在初始阶段表现出较高的效率，被认为是突破点。讨论了数据挖掘的重要性，强调了从浅水区（容易获取的数据）转向深水区（更复杂、合成的数据）的必要性。同时，面对模型规模的持续扩大，提出了探索更小模型以实现相同能力的可能性，以应对训练复杂度的挑战。</div>
+</div>
+<div class="chapter-item">
+<span class="time"><strong>[00:36:43]</strong> </span>
+<span class="chapter-title"><strong>强化学习在AI模型训练中的应用与挑战</strong></span>
+<div class="chapter-summary">对话围绕强化学习在人工智能模型训练中的早期阶段及其挑战展开，强调了模型在决策能力和特定任务执行上的局限性。讨论指出，尽管各家模型有其特色，如在编程任务或交互式任务上的优势，但强化学习的训练过程仍面临诸多不确定性，包括数据选择、算法调整和基础设施优化。此外，强化学习的效果难以预测，往往需要通过最终指标和实际使用体验来评估模型性能，这涉及到复杂的过程，包括参数调整、算法创新和高质量数据的利用。</div>
+</div>
+<div class="chapter-item">
+<span class="time"><strong>[00:40:01]</strong> </span>
+<span class="chapter-title"><strong>大模型团队结构与训练方法的探讨</strong></span>
+<div class="chapter-summary">对话围绕大模型团队的组织结构和训练方法展开，提出团队分工应不过度细分，强调预训练与后训练的差异及重要性。讨论了模型理解与生成能力的提升，以及多模态理解与生成的关系，指出理解能力在预训练阶段奠定基础，而理解图片比生成图片需要更多的token，说明理解难度更高。同时强调团队成员需具备跨领域知识，以避免问题发生。</div>
+</div>
+<div class="chapter-item">
+<span class="time"><strong>[00:43:20]</strong> </span>
+<span class="chapter-title"><strong>探讨AI学习与泛化能力的挑战与进展</strong></span>
+<div class="chapter-summary">讨论围绕早期AI（特别是L系统）在理解和决策方面的局限性，以及如何通过不断试错和理论进展，如IO、强化学习（RL）和大规模预训练模型（如GPT3）的发展，逐步提高了AI的泛化能力。讨论还涉及了数据量、监督学习与对比学习的作用，以及AI从特定任务泛化到新任务的挑战。最终，这段讨论强调了AI领域的探索性和偶然性，以及如何通过时间和实践逐渐认识到有效的方法和路径。</div>
+</div>
+<div class="chapter-item">
+<span class="time"><strong>[00:47:34]</strong> </span>
+<span class="chapter-title"><strong>强化学习人才及技术在工业界的挑战与机遇</strong></span>
+<div class="chapter-summary">对话讨论了强化学习（RL）在工业界的应用及人才需求问题。认为尽管RL技术门槛高，人才相对稀缺，但随着技术门槛的降低和开源项目的推进，未来创业公司有机会通过微调等方法应用RL技术。同时，对话强调了工业界对RL技术的实际应用机会相对较少，且对工程化要求高，导致人才实践机会有限。创业公司应抓住当前市场空白，利用现有技术快速推出产品，而非过度关注技术的终极形态。此外，开源项目和大规模强化学习框架的开发对于推动技术普及和人才培养具有重要意义。</div>
+</div>
+<div class="chapter-item">
+<span class="time"><strong>[00:51:37]</strong> </span>
+<span class="chapter-title"><strong>强化学习的兴起与未来发展</strong></span>
+<div class="chapter-summary">对话围绕强化学习（Reinforcement Learning，RL）的兴起、个人学习经历、以及领域未来的发展进行了深入探讨。讨论者提到，2016年AlphaGo的出现推动了一波强化学习的热潮，然而随后热度有所下降，很多人转向了机器人研究。对话者自述从2014年开始攻读博士学位，当时强化学习还是一个相对冷门的领域，但在伯克利良好的合作氛围和几位教授的引领下，他们得以深入研究并取得成果。此外，对话中还提到了强化学习领域的重要人物，如Sutton，并指出许多AI研究者背景多样，非传统科班出身。最后，讨论者强调了动手实践和持续学习的重要性，并对强化学习的未来发展保持乐观态度，指出在当前开源和信息丰富的环境下，愿意学习和动手实践的人都是可培养的。</div>
+</div>
+<div class="chapter-item">
+<span class="time"><strong>[00:55:59]</strong> </span>
+<span class="chapter-title"><strong>智能模型的规模化与多方向发展</strong></span>
+<div class="chapter-summary">对话围绕智能模型的规模化发展和多方向创新展开。首先强调了智能模型通过预训练和规模化提升智能的持续可能性。随后，讨论了不同公司在智能模型方面的特色发展，包括泛化性、专业代码编写和代理功能的强化。提出了决策、准确率、交互体验以及多轮交互等作为评价智能模型的重要方面，特别指出适时的个性化交互和提问在提高模型效能中的重要性。</div>
+</div>
+<div class="chapter-item">
+<span class="time"><strong>[00:58:55]</strong> </span>
+<span class="chapter-title"><strong>强化学习框架的开发与优化</strong></span>
+<div class="chapter-summary">对话围绕强化学习框架的开发和优化展开。首先讨论了强化学习中的scaling law概念及其在大规模训练中的应用，强调了框架对于实现大规模强化学习的重要性。随后，讨论了框架在提升训练速度和稳定性方面所做的努力，包括与推理引擎团队的合作，以期提高模型的效率和性能。最后，提到了当前框架的进展和未来研究方向，包括提升32B模型的稳定性以及加快后续版本的开发。</div>
+</div>
+<div class="chapter-item">
+<span class="time"><strong>[01:02:03]</strong> </span>
+<span class="chapter-title"><strong>AI与人类交互的强化学习探索</strong></span>
+<div class="chapter-summary">对话聚焦于AI与人类交互的强化学习方式，强调了在交互过程中处理partial或hidden信息的重要性。讨论了追赶一流AI技术的挑战，特别是与OpenAI和Cloud等国际领先团队的差距，以及国内AI研究在某些领域如多模态探索上的相对滞后。同时，提到了对国内AI进展的谨慎乐观态度，以及像DeepSick这样的团队在专注领域取得的成就。</div>
+</div>
+<div class="chapter-item">
+<span class="time"><strong>[01:04:43]</strong> </span>
+<span class="chapter-title"><strong>强化学习与人生决策：基建、多样性与探索</strong></span>
+<div class="chapter-summary">对话强调了在强化学习领域，数据和基础设施的重要性远超算法本身，指出工程与算法的紧密结合对于构建高效系统至关重要。此外，通过讨论“diversity driven reinforcement”的概念，将强化学习的多样性原理应用到人生决策上，鼓励人们在面对选择时，不应仅追求最安全的路径，而应探索多样性和最大熵的生活，以获得更丰富的人生体验。</div>
+</div>
+<div class="chapter-item">
+<span class="time"><strong>[01:08:45]</strong> </span>
+<span class="chapter-title"><strong>强化学习在仿真世界中的无限选择与人机合作探索</strong></span>
+<div class="chapter-summary">对话围绕强化学习在仿真环境中的无限次选择能力展开，强调了其不产生后悔情绪的特点，并与人类决策中的后悔情绪和选择恐惧进行了对比。进一步讨论了人生选择的有限次数与强化学习中主动探索（active seeking）的重要性，特别是在人机合作和多智能体学习中，通过交互获取信号以确定reward的过程。此外，还提到了深度学习和强化学习在目标设定与调整方面的挑战，以及对未来预测的不确定性。最后，介绍了开源框架a real的更新版本，该框架致力于提供高效的强化学习训练，且已在特定模型上实现了显著成果，邀请更多研究者参与使用和贡献。</div>
+</div>
+</div><br>
+<h1>问题回顾</h1>
+<div class="qa-item">
+<div class="question"><strong>Q:</strong> 首先请你自我介绍一下。</div>
+<div class="answer"><strong>A:</strong> 大家好，我叫吴逸，20年从OpenAI回国并在清华当老师，一直在做强化学习相关工作。我在加州大学伯克利分校获得博士学位，博士论文题目是“building generalizable learning agents”，专注于强化学习、泛化性以及多智能体强化学习领域。目前是清华大学交叉信息学院助理教授，负责讲授深度学习课程。</div>
+</div>
+<div class="qa-item">
+<div class="question"><strong>Q:</strong> 强化学习中的“一般”是指什么？</div>
+<div class="answer"><strong>A:</strong> “一般”意味着强化学习能够应用于更广泛的场景，比如日常生活中的决策过程，其中许多决策并没有明确的标准答案，而是通过最终结果的好坏来评判。这与传统机器学习处理的问题相比更为复杂和泛化。</div>
+</div>
+<div class="qa-item">
+<div class="question"><strong>Q:</strong> 今天我们要聊的是IL强化学习，能否请你先解释一下什么是IL这个概念？</div>
+<div class="answer"><strong>A:</strong> 当然可以。强化学习（IL）是一种机器学习方法，它与传统机器学习（如分类、人脸识别等）的主要区别在于处理问题的方式。在强化学习中，系统通过执行一系列动作来解决复杂决策问题，并在完成所有决策后获得对错反馈。强化学习的目标是针对那些有多个决策步骤且没有明确标准答案的问题，通过优化累积奖励来构建智能体。</div>
+</div>
+<div class="qa-item">
+<div class="question"><strong>Q:</strong> 传统机器学习的问题相对标准，那强化学习是否适合解决没有标准解的问题，例如人生中的决策过程？</div>
+<div class="answer"><strong>A:</strong> 强化学习虽然在解决复杂决策问题上有优势，但在处理类似人生决策这样没有明确奖励函数的问题时，其适用性存在争议。因为人生中的决策往往是在探索未知奖励函数的过程中进行的，而强化学习需要一定的目标或奖励作为导向。</div>
+</div>
+<div class="qa-item">
+<div class="question"><strong>Q:</strong> 大模型与强化学习有何关联？大模型是否可以应用于强化学习？</div>
+<div class="answer"><strong>A:</strong> 大模型（next token prediction）本身并不直接涉及强化学习，其主要功能是通过大量文本数据训练得到一个概率模型，能够对接下来的单词进行预测。然而，随着OpenAI提出的InstructGPT工作，人们开始尝试将指令遵从性（instruction following）融入强化学习中，从而使得大模型能够更好地根据特定指令完成任务，这就是当前讨论的强化学习与大模型结合的一种应用方式。</div>
+</div>
+<div class="qa-item">
+<div class="question"><strong>Q:</strong> OpenAI提出的让模型多涂点字（thinking token）的方法是如何工作的？</div>
+<div class="answer"><strong>A:</strong> 这个方法是让模型先生成大量文字，比如1万个字，然后基于这些内容再进行推理和得出答案，这个过程被称为inference time scaling。模型会在纸上“写字”，通过思考更久来提高答案的准确性。</div>
+</div>
+<div class="qa-item">
+<div class="question"><strong>Q:</strong> 为什么OpenAI的slow thinking方法有效，其背后的原理是什么？</div>
+<div class="answer"><strong>A:</strong> 目前尚没有一个明确的理论解释为何这种方法有效，但它通过强化学习让模型在训练过程中自由探索，只关注最终结果是否正确。OpenAI花了大约一年半到两年的时间来实现这个想法。</div>
+</div>
+<div class="qa-item">
+<div class="question"><strong>Q:</strong> 如何设计强化学习训练以解决中间过程难以评判的问题？</div>
+<div class="answer"><strong>A:</strong> OpenAI采用了一种简单的方式，只训练那些有标准答案的问题，例如数学函数求解等。这样可以判断模型输出的答案是否正确，尽管过程中涉及的成本和效率等问题仍有待解决。</div>
+</div>
+<div class="qa-item">
+<div class="question"><strong>Q:</strong> 是否可以通过小模型评判大模型的推理过程好坏？</div>
+<div class="answer"><strong>A:</strong> 目前还无法用小模型有效评判大模型在整个推理过程中的好坏，因为对于像OpenAI的模型来说，其思考过程过于复杂，难以提供具体反馈。</div>
+</div>
+<div class="qa-item">
+<div class="question"><strong>Q:</strong> OpenAI的强化学习训练最厉害的地方在哪里？</div>
+<div class="answer"><strong>A:</strong> OpenAI的强化学习训练最厉害之处在于它证明了这种方法确实可行，并且在探索出一条可行路径后，能够保持一定的思考能力并应用到实际产品中，如网页交互和多轮对话场景。</div>
+</div>
+<div class="qa-item">
+<div class="question"><strong>Q:</strong> 首先，我们如何定义agent？</div>
+<div class="answer"><strong>A:</strong> 我个人认为，agent的定义主要是指能够对现实世界或虚拟世界产生影响的模型，比如通过执行动作如开灯或关灯等，不再局限于仅能输出文字的AI。</div>
+</div>
+<div class="qa-item">
+<div class="question"><strong>Q:</strong> 现在大家最关注的agent是什么样的？</div>
+<div class="answer"><strong>A:</strong> 当下最关注的是具有决策能力和对现实世界或虚拟世界产生影响的agent。</div>
+</div>
+<div class="qa-item">
+<div class="question"><strong>Q:</strong> 早期的auto GPT和LangChain是否属于agent？</div>
+<div class="answer"><strong>A:</strong> 早期的auto GPT和LangChain虽然实现了某些agent功能，但它们主要依赖prompt engineering来构建与现实世界的交互，通过脚本或特定模式将模型输出与实际操作结合。</div>
+</div>
+<div class="qa-item">
+<div class="question"><strong>Q:</strong> 对于OpenAI的改进，比如Operator或deep research，有何改变？</div>
+<div class="answer"><strong>A:</strong> Operator或deep research的改变在于减少人工prompt，只需给出指令，模型就能端到端地完成任务，例如多模态模型可以实现从图像、衣物到风格转换的自动化流程，而无需详细步骤指导。</div>
+</div>
+<div class="qa-item">
+<div class="question"><strong>Q:</strong> 在使用prompt时是否存在探索可能性的问题？</div>
+<div class="answer"><strong>A:</strong> 是的，使用prompt时隐含着对每一步的操作有明确指导。然而，在实际应用中，用户可能并不了解具体操作细节，需要模型具备探索未知和适应复杂指令的能力。</div>
+</div>
+<div class="qa-item">
+<div class="question"><strong>Q:</strong> OpenAI在探索agent方面的历程如何？</div>
+<div class="answer"><strong>A:</strong> OpenAI早在2016年就尝试通过强化学习实现类似功能，历经多次失败，直到2021年底，结合预训练模型后才取得突破性进展，最终通过GPT4等预训练模型构建出强大的通用agent模型。</div>
+</div>
+<div class="qa-item">
+<div class="question"><strong>Q:</strong> 历史上为何没有出现仅以IO为基础的复杂决策模型？</div>
+<div class="answer"><strong>A:</strong> 历史上出现过尝试通过强化学习在网页上完成购买机票等任务，但受限于当时技术条件，未能成功。直到预训练模型出现后，才逐渐解决了这个问题。</div>
+</div>
+<div class="qa-item">
+<div class="question"><strong>Q:</strong> 预训练和强化学习的关系是什么？</div>
+<div class="answer"><strong>A:</strong> 预训练和强化学习之间存在乘法关系，两者结合才能构建出完整的智能体。预训练负责理解和记忆，强化学习负责决策和行动，两者相辅相成，共同发展。</div>
+</div>
+<div class="qa-item">
+<div class="question"><strong>Q:</strong> 强化学习未来发展的方向和可能存在的挑战是什么？</div>
+<div class="answer"><strong>A:</strong> 强化学习的未来发展方向仍然广阔，尽管当前面临数据稀缺和模型规模增大带来的挑战，但预训练的收益可能减少而非完全失效，尤其是在合成数据和模型精简方面还有很大的发展空间。同时，OpenAI在构建小型高效模型方面的成果也表明，强化学习还有很大的改进空间。</div>
+</div>
+<div class="qa-item">
+<div class="question"><strong>Q:</strong> 那么对于强化学习，目前它处于什么阶段？各家在强化学习上是否有不同的特色？</div>
+<div class="answer"><strong>A:</strong> 目前强化学习还在早期阶段，还有很大的提升空间，智能水平仍有待提高。是的，不同平台有各自的特色。例如cloud在编程任务和交互式体验上有独特优势，Deep sick的基座模型也展示了其在特定领域内的专业化。</div>
+</div>
+<div class="qa-item">
+<div class="question"><strong>Q:</strong> 强化学习如何做到训练得更好？</div>
+<div class="answer"><strong>A:</strong> 训练强化学习模型时，主要依靠调参数、改动训练算法以及优化数据集。就像为学生做奥数培训，老师出题的质量至关重要，同时数据、算法和基建都是关键因素。</div>
+</div>
+<div class="qa-item">
+<div class="question"><strong>Q:</strong> 在大模型组织结构中，模型理解和训练是否由不同人负责？</div>
+<div class="answer"><strong>A:</strong> 最好的情况是预训练和后训练团队间有协作，而不是完全分开。后训练阶段也会涉及到预训练模型的数据补充和冷启动等问题。</div>
+</div>
+<div class="qa-item">
+<div class="question"><strong>Q:</strong> 为什么大家摸索了这么多年才认识到IO的重要性？</div>
+<div class="answer"><strong>A:</strong> 首先大家花了很长时间去发现强化学习的局限性；其次，在数据广度和泛化能力上找到了新的共识，例如GPT3 scaling law的成功，以及对预训练和微调方法的探索。最终发现提供标准答案和答案的明确性对于模型学习是必要的。</div>
+</div>
+<div class="qa-item">
+<div class="question"><strong>Q:</strong> 模型理解与IO（指令跟随）之间有何关系？</div>
+<div class="answer"><strong>A:</strong> 模型理解在预训练阶段尤为重要，而IO更多关乎如何根据指令执行任务，两者存在一定的关联但并非直接相关。理解一张图片所需的token数量可能比生成还要多，因为理解是更难的事情，它涉及到能否准确理解并遵循指令。</div>
+</div>
+<div class="qa-item">
+<div class="question"><strong>Q:</strong> 创业公司在模型训练能力方面如何利用机会？</div>
+<div class="answer"><strong>A:</strong> 创业公司应该抓住机会，在终局未到来之前，通过微调、调API等方式快速提供可用的产品。如果总是期待有一天能用，那么不如趁早投资其他项目。</div>
+</div>
+<div class="qa-item">
+<div class="question"><strong>Q:</strong> 为什么现在强化学习领域人才仍然稀缺？</div>
+<div class="answer"><strong>A:</strong> 首先，强化学习相关的高质量论文引用数相对较低，尤其是与CV、NLP等领域相比，入门门槛较高。其次，尽管强化学习研究已有十年历史，但在工业界大规模应用的机会相对较少，导致缺乏相应的工业人才池。最后，强化学习对工程要求极高，很多公司业务场景有限，难以提供实践机会，从而限制了该领域人才的发展。</div>
+</div>
+<div class="qa-item">
+<div class="question"><strong>Q:</strong> 您是什么时候开始读PHD的？</div>
+<div class="answer"><strong>A:</strong> 我是在2014年读的PHD。</div>
+</div>
+<div class="qa-item">
+<div class="question"><strong>Q:</strong> 当时强化学习是否算是冷门专业？</div>
+<div class="answer"><strong>A:</strong> 当时对于我所在的团队而言，强化学习可以算作冷门专业，但我在伯克利大学的经历非常幸运，得到了多位教授的支持和合作机会。</div>
+</div>
+<div class="qa-item">
+<div class="question"><strong>Q:</strong> 如果国内公司现在想招或培养强化学习人才，应该怎么做？</div>
+<div class="answer"><strong>A:</strong> 招人和培养强化学习人才具有很强的个人风格和公司阶段差异，没有固定建议。不过，在当前时代，最重要的是动手能力和持续学习的态度，无论哪个领域，只要有热情和愿意尝试的精神，都是可培养的。</div>
+</div>
+<div class="qa-item">
+<div class="question"><strong>Q:</strong> 强化学习未来的发展路线和可能性有哪些？决策和提问在强化学习中的占比如何？</div>
+<div class="answer"><strong>A:</strong> 未来强化学习将重点在于scaling（提升智能）和结合预训练等技术。同时，会出现不同的特色分支，如泛化性好、专业代码能力强或agent功能强大的模型，这些都是可能的发展方向。决策和提问是相互影响的综合结果，无法明确划分各自占比，它们共同构成了智能体理解和执行任务的过程。</div>
+</div>
+<div class="qa-item">
+<div class="question"><strong>Q:</strong> 框架对于规模化训练强化学习的重要性是什么？</div>
+<div class="answer"><strong>A:</strong> 首先，规模化训练需要一个能有效支撑大规模强化学习训练的框架，就像进行大规模实验时需要合适的工具一样。其次，强化学习系统复杂，框架可以提高实验效率，帮助快速迭代和优化算法性能。</div>
+</div>
+<div class="qa-item">
+<div class="question"><strong>Q:</strong> 你们现在核心框架的主要进步体现在哪些方面？</div>
+<div class="answer"><strong>A:</strong> 我们框架的进步主要在于速度和稳定性。目前在7B和32B上都能保持稳定性，但32B还未达到预期效果，仍在训练中。此外，这个版本比之前的版本快了很多，是一个可发布的版本，但内部还有更多我们想做的内容，并且已经开发出更快的版本，只是还未完全达到满意状态。</div>
+</div>
+<div class="qa-item">
+<div class="question"><strong>Q:</strong> 你们团队在AI和人交互方面的研究方向是什么？</div>
+<div class="answer"><strong>A:</strong> 我个人最感兴趣的是如何实现自然且高效的AI与人交互方式，这涉及到强化学习以及处理人的partial或hidden information。短期目标是追赶世界一流水平，首先确保能跟上主干技术的发展，才能有更多的技术路线选择。</div>
+</div>
+<div class="qa-item">
+<div class="question"><strong>Q:</strong> 团队目前在追赶世界一流的过程中，与海外团队相比，在强化学习领域的差距体现在哪些方面？</div>
+<div class="answer"><strong>A:</strong> 差距主要体现在大规模训练agent的能力上，例如OpenAI和云服务在强化学习环眼镜方面的表现优于我们。从已公开的信息看，国内团队在推理和单方面代码方面表现还可以，但在细节和算法探索上仍有差距。</div>
+</div>
+<div class="qa-item">
+<div class="question"><strong>Q:</strong> 是否认为基建（框架）对于强化学习的重要性被行业忽视了？</div>
+<div class="answer"><strong>A:</strong> 是的，行业内可能没有充分意识到基建（框架）的重要性，数据大于算法，基建远大于算法。一个好的基建需要工程算法同学参与，它为算法服务，并且打磨起来非常困难。当一个团队拥有强大的基建时，其算法性能通常也不会差。</div>
+</div>
+<div class="qa-item">
+<div class="question"><strong>Q:</strong> 是否可以理解为现在国内与海外在retraining和post training等方面都有差距，只是在post training上，DeepMind走得更前一步？</div>
+<div class="answer"><strong>A:</strong> 是的，retraining和post training方面都有差距，DeepMind在post training上取得了一定突破，同时技术模型也做得很好，不过要注意DeepMind专注于特定领域，所以整体差距还需要综合判断。</div>
+</div>
+<div class="qa-item">
+<div class="question"><strong>Q:</strong> 是否有一些强化学习的研究成果可以泛化到人生决策上，作为参照？</div>
+<div class="answer"><strong>A:</strong> 强化学习中追求多样性驱动的策略可以类比到人生决策上，人应该追求多元化和独特性，而不是仅仅追求高效和稳定。通过让AI在强化学习过程中加入约束条件，使其不仅追求高奖励，还要与之前找到的解决方案保持多样性，这样的方法或许能启示我们在人生决策中追求更丰富多彩的经历，而不是一味选择最保险或最明确的路径。</div>
+</div>
+<h1>节目文稿</h1>
+<p class="transcript-line">
+<span class="time"><strong>[00:00:02]</strong> </span>
+<span class="speaker"><strong>发言人1: </strong></span>
+Do something there.
+</p>
+<p class="transcript-line">
+<span class="time"><strong>[00:00:20]</strong> </span>
+<span class="speaker"><strong>发言人2: </strong></span>
+我们今天很开心请到了吴毅来跟我们一起来聊IL强化学习这件事情。这个的初衷我觉得是因为去年IO这件事儿已经开始火起来。但今年我一个特别明显的体感是在今天大家都在讲agent然后一个团队里面如果有一个IO算法能力特别强的人，好像就特别吃香。这件事是基本上现在彻底起来了，所以大家非常认这件事儿。所以今天我们可以聊一下强化学习，尽量把它聊透。首先还是先请你自我介绍一下。
+</p>
+<p class="transcript-line">
+<span class="time"><strong>[00:00:48]</strong> </span>
+<span class="speaker"><strong>发言人1: </strong></span>
+大家好，我叫吴逸，20年从OpenAI回国，然后在清华当老师的，然后一直都在做强化学习相关的工作。我的博士是在加州大学伯克利分校博士，我的题目就叫building generalizable learning agents。所以就有一些强化学习的关键词，有一些泛化的关键词，有一些agent.
+</p>
+<p class="transcript-line">
+<span class="time"><strong>[00:01:07]</strong> </span>
+<span class="speaker"><strong>发言人2: </strong></span>
+的关键词全齐了。
+</p>
+<p class="transcript-line">
+<span class="time"><strong>[00:01:09]</strong> </span>
+<span class="speaker"><strong>发言人1: </strong></span>
+对，那个博士论文的题目起的还不错，算是最早做强化学习和强化学习泛化性以及多智能体强化学习的人。我现在是清华大学交叉信息学院的助理教授，叫清华大学交叉信息院的本科生的一门课是深度学习。
+</p>
+<p class="transcript-line">
+<span class="time"><strong>[00:01:26]</strong> </span>
+<span class="speaker"><strong>发言人2: </strong></span>
+所以我觉得今天我们其实有一点像上大师课的感觉。但我们的受众可能大多大家不一定是有那么深的技术背景。包括我自己在内，我们可能通过各种渠道了解了很多强化学习这个概念或者相关的。大家都在讲对吧？就是说deep seek用了很多IO什么的。但真正这件事的它的发展的历程，它里面的一些细节可能很多人是没有那么了解的。对我觉得我们今天就把它深入浅出的聊一下。所以我的第一个问题就是到底什么是IL这个概念，可不可以给大家简单解释一下。
+</p>
+<p class="transcript-line">
+<span class="time"><strong>[00:01:55]</strong> </span>
+<span class="speaker"><strong>发言人1: </strong></span>
+首先我觉得强化学你是机器学习这个大概念。下一个比较特殊的问题，传统大家讲机器学习的，就是比如说我们讲分类问题，讲人脸识别，讲指纹识别，去讲我给你张图片判断它是猫还是狗。就是传统的这种深度学习也好，机器学习也好，它本质上都是你有很多的数据和人类标出的准确答案。这样的对，比如说我给你一万张猫的照片，一万张狗的照片，我每一张照片都是人标注好正确答的。然后收集大量的数据丢给神经网络也好，或者是丢给之前别的模型也好，让机器学习去记住它。当然它会产生一些泛化的能力。所以基本上我觉得在上一个人工智能浪潮，比如说我们之前讲的这个人工智能四小龙，人脸识别时代、安防时代，其实都是在这一套机器学习的框架下面。
+</p>
+<p class="transcript-line">
+<span class="time"><strong>[00:02:50]</strong> </span>
+<span class="speaker"><strong>发言人1: </strong></span>
+强化学习跟它有什么差别？强化学习最早是用来打游戏的，就比如说我们想去玩一个切西瓜的游戏，俄罗斯方块，或者说我们想去玩一个打乒乓球的游戏。它的特点是有两件事情。第一件事情是打游戏中间你要做很多的动作。比如说我打个乒乓球，我要从发球、接球、回球，每一个动作都要做出一个决定，到底我应该是往前伸拍子，拍子应该是转一转还是怎么样，或者游戏机里面我是往左走还是往右走还是跳。
+</p>
+<p class="transcript-line">
+<span class="time"><strong>[00:03:22]</strong> </span>
+<span class="speaker"><strong>发言人1: </strong></span>
+这里跟传统的机器学习不一样。比如传统机器学习，一张图片判断它是猫还是狗，这是一个动作结束了。但是打游戏不是，打游戏需要我做很多很多的动作，最后才会有一个结果，这是第一条。
+</p>
+<p class="transcript-line">
+<span class="time"><strong>[00:03:36]</strong> </span>
+<span class="speaker"><strong>发言人1: </strong></span>
+第二条是对于传统的图片识别来说，它是猫还是狗，这个是有标准答案的。但是对于打游戏来说，其实你说我打一个dota我是出门向左走还是出门向右走，差别不大的。你有100万种方法去完成这样的操作。因为它的选择有很多很多，所以它没有一个标准答案的概念，它只有最后好坏的概念。比如说我打游戏打赢了这是好的，但是具体怎么打没有标准答案，所以这是两个最大的差别。那么强化学习就是一套算法框架，他希望去解决的就是这么一个。我有很多个决策要做，并且最后我也不知道好坏，只有一个评判标准。做完了所有决策之后，我告诉你它好还是不好的反馈机制的这么一个问题。所以说强化学习它会更一般一些。
+</p>
+<p class="transcript-line">
+<span class="time"><strong>[00:04:21]</strong> </span>
+<span class="speaker"><strong>发言人2: </strong></span>
+你说一般的时候指的就是泛化吗？
+</p>
+<p class="transcript-line">
+<span class="time"><strong>[00:04:24]</strong> </span>
+<span class="speaker"><strong>发言人1: </strong></span>
+我可以理解什么？就是我们人的生活当中更多的问题，其实是应该通过强化学习建模的。比如说我想去美国出差，那怎么区域呢？中间好多步决策，你只有说我成功去了，我开心的回来了，这是一个好的奖励。
+</p>
+<p class="transcript-line">
+<span class="time"><strong>[00:04:37]</strong> </span>
+<span class="speaker"><strong>发言人1: </strong></span>
+他很难把它归约成传统机器学习那样，这是一个标准的问题，每一步都有标准答案。其实不是的。人生就是一个强化学习的过程。因为有很多种选择，没人告诉你正确答案。所以说强化学习它更像是一个可以针对通用？像人一样这种泛化智能体可以去做的一个更一般的框架。但只是说这个问题它如此之广大，可以把生活中的几乎所有问题都包含进去，它一定会更难解。因为一个问题它的范围越大，你就会越难求解。
+</p>
+<p class="transcript-line">
+<span class="time"><strong>[00:05:09]</strong> </span>
+<span class="speaker"><strong>发言人1: </strong></span>
+传统机器学习，因为它问题非常标准，非常简单，所以求解起来会容易。所以强化学习这个技术其实一直要到。比如说你去时阿法狗这件事情才出圈。但是人脸识别那事儿其实很早就出圈了。所以也本身是因为强化学习它处理的问题更复杂更难。
+</p>
+<p class="transcript-line">
+<span class="time"><strong>[00:05:26]</strong> </span>
+<span class="speaker"><strong>发言人2: </strong></span>
+对。但其实你刚才提到人生本身市场强化学习这个点我觉得很有意思。但是我想追问一下，就是你看你刚才讲简单来讲就是机器学习它是一种简单问题的解。比如判断一张照片是猫是狗，然后强化学习是一系列复杂决策的解但人生其实是可能没有一个标准的解那这种。
+</p>
+<p class="transcript-line">
+<span class="time"><strong>[00:05:46]</strong> </span>
+<span class="speaker"><strong>发言人1: </strong></span>
+时候强化。
+</p>
+<p class="transcript-line">
+<span class="time"><strong>[00:05:46]</strong> </span>
+<span class="speaker"><strong>发言人2: </strong></span>
+学习到底是不是适合他。
+</p>
+<p class="transcript-line">
+<span class="time"><strong>[00:05:48]</strong> </span>
+<span class="speaker"><strong>发言人1: </strong></span>
+没有一个客观的结。所以我就说就是我觉得人生还有一个很好玩的事情是强化学习。很多时候是假设你知道那个打分的，比如说我到底是赢还是输。所以确实也得说强化学有个前提是你知道那个奖励函数是什么。但是我觉得人生的差别是在于人生你不知道那个reward的方式，那个奖励函数是什么。所以可能人生中很大的时间是你在探索那个奖励函数是什么。就是他是在一个你不知道奖励函数，或者你以为你在优化这一件事情，可能你最后到了结果你发现好像你的奖励函数不是这样。
+</p>
+<p class="transcript-line">
+<span class="time"><strong>[00:06:22]</strong> </span>
+<span class="speaker"><strong>发言人2: </strong></span>
+对。所以我们听到的比较多的一些案例，比如说用消化棋去打游戏对吧？比如下棋，比如说迷宫，怎么样最快的找到那个路径？对对对，但我们听到都是这种。但确实在大模型这个时代，包括很多agent完成的任务，它其实没有一个明确的解。那这种情况下该怎么办？
+</p>
+<p class="transcript-line">
+<span class="time"><strong>[00:06:40]</strong> </span>
+<span class="speaker"><strong>发言人1: </strong></span>
+所以这里就是有一个历史的原因，就是说强化学习跟大模型是怎么在一起的。我们先说大模型是一个什么样的东西，大模型是next token prediction，我们用俗话说就是熟读唐诗三百首，不会做诗也会赢。让他读好多好多的文章，他就发现这个AI它就通用了，就泛化了，他就做很多的事情。但是这个事情其实跟强化学习一直是没有关系的。因为我们也知道强化学习是有目标的。但是大模型的这种熟读唐诗三百首，它是没什么目标的，它就是压缩news and prediction。
+</p>
+<p class="transcript-line">
+<span class="time"><strong>[00:07:11]</strong> </span>
+<span class="speaker"><strong>发言人1: </strong></span>
+这里面其实有一个重要的问题叫instruction following指令遵从。它这个背景是什么呢？是open a有一个很著名的工作叫InstructGPT，就是在ChatGPT之前的一个前身，就指令的那个GPT，他就讲了一件事情是GPT3训练完了之后，大家会发现说这个东西很强。但是如果你把GPT3这个API给一个外行人去用，在那个年代19年20年的时候，他会反映说这个API不好用。比如说你跟他说，请帮我解释一下登月是什么。他说can you explain the moon landing for me？然后你让GPT往后续写，他会重复，他会说explain the moon landing for me，explain the moon landing for me, 他就讲好多好多遍。
+</p>
+<p class="transcript-line">
+<span class="time"><strong>[00:07:53]</strong> </span>
+<span class="speaker"><strong>发言人2: </strong></span>
+经常会出现我去年用一些友商的大模型也会还是就是仍然有这个问题。
+</p>
+<p class="transcript-line">
+<span class="time"><strong>[00:07:58]</strong> </span>
+<span class="speaker"><strong>发言人1: </strong></span>
+就是说这是一个很常见的问题，所以很多人就会说大模型不好用。好，我们来分析一下，一个人说这东西不好用的时候是为什么？是因为这个人其实给了大模型一个指令，这件事情其实并不是让大模型把它当成一段文章补全。
+</p>
+<p class="transcript-line">
+<span class="time"><strong>[00:08:16]</strong> </span>
+<span class="speaker"><strong>发言人1: </strong></span>
+Next token prediction, 它其实的意思是说我告诉你一个指令，你看的这个指令把它完成。比如说explain the moon landing for me，这件事情其实是说好，你给我讲一下登月是什么？我发一个火箭，然后有阿波罗计划，有嫦娥计划，对吧？这些东西我希望GPT在看到这个指令之后，输出的内容是能够满足这个指令的指示的，这个叫instruction following，指令遵从。所以GPT当时它next token production，其实它的训练目标只是为了预测下个词而已，没有指令和遵从这个东西的概念。
+</p>
+<p class="transcript-line">
+<span class="time"><strong>[00:08:54]</strong> </span>
+<span class="speaker"><strong>发言人2: </strong></span>
+对，我们一直说它本质是个概率模型。
+</p>
+<p class="transcript-line">
+<span class="time"><strong>[00:08:56]</strong> </span>
+<span class="speaker"><strong>发言人1: </strong></span>
+所以直到InstructGPT open I第四说我们有没有方法能让这个大模型可用，就是我给你一个指令，你输出的话是符合指令的要求的那这时候怎么办呢？就是有很多方法去做。所以当时InstructGPT提出来说，我们要不然用强化学习来做，那强化学习需要一个任务，需要一个奖励，还需要决策动作，对吧？他们说我们这么来建模，这个也没有谁对谁错，只是OpenAI这么做了，最后发现效果还不错。
+</p>
+<p class="transcript-line">
+<span class="time"><strong>[00:09:25]</strong> </span>
+<span class="speaker"><strong>发言人1: </strong></span>
+怎么建模呢？那我怎么定义任务？任务首先就是我有一个指令，我说explain molding这件事情就是我的任务。之后你的强化学习所有决策都是指定于explain lending for me。
+</p>
+<p class="transcript-line">
+<span class="time"><strong>[00:09:37]</strong> </span>
+<span class="speaker"><strong>发言人1: </strong></span>
+好动作是什么呢？决策是什么呢？我从看到这个指令之后说的每一个词。就是我的决策，那你就基本上就全了，那就剩reward是什么对吧？那reward就是你说出来的话，最后是不是和我指令描述的内容一致。那我就可以完整的用一个强化学习的过程来描述这个训练过程。就给你一个指令，好大模型开始输出reaction，输出很多词，最后你输完了，给你个end。好，我最后来判断一下你是不是跟我的指令答案一致。
+</p>
+<p class="transcript-line">
+<span class="time"><strong>[00:10:07]</strong> </span>
+<span class="speaker"><strong>发言人2: </strong></span>
+这个一致是怎么定义呢？
+</p>
+<p class="transcript-line">
+<span class="time"><strong>[00:10:08]</strong> </span>
+<span class="speaker"><strong>发言人1: </strong></span>
+这是一个非常好的问题，大家发现怎么定一致呢？
+</p>
+<p class="transcript-line">
+<span class="time"><strong>[00:10:11]</strong> </span>
+<span class="speaker"><strong>发言人2: </strong></span>
+发现定不了对吧？然后就得靠人来就得靠人。
+</p>
+<p class="transcript-line">
+<span class="time"><strong>[00:10:14]</strong> </span>
+<span class="speaker"><strong>发言人1: </strong></span>
+所以最后这个东西就叫reinforcement learning from human feedback。
+</p>
+<p class="transcript-line">
+<span class="time"><strong>[00:10:18]</strong> </span>
+<span class="speaker"><strong>发言人2: </strong></span>
+所以RRLHF对。
+</p>
+<p class="transcript-line">
+<span class="time"><strong>[00:10:20]</strong> </span>
+<span class="speaker"><strong>发言人1: </strong></span>
+所以当时说的事儿怎么办呢？那指令遵从，那是人说了他确实遵从指令。所以我本来找了一堆人写这个指令，再让大模型输出。他们来判断大模型输出个十个指令，他们排序说哪个好哪个不好，他们也去写一些人觉得好的指令，最后训练出了一个奖励模型。因为确实没有这种金标准的奖励模型，所以需要人来定义。那人来定义之后有很多数据，然后把它训练出一个模型之后作为奖励模型。这就是RLHF的由来。
+</p>
+<p class="transcript-line">
+<span class="time"><strong>[00:10:52]</strong> </span>
+<span class="speaker"><strong>发言人2: </strong></span>
+对，但去年其实这个词很火，包括随着这个词一起起来就是aligned这件事情。但也有我觉得是open a里面的人在讲说，他觉得IOHF其实本质上不是一个reward model，觉得它就是一个跟人对齐的一件事情，它并不是一个真的强化学习的事情，就今天大家讲的L和当时的那个LHF的区别是什么？
+</p>
+<p class="transcript-line">
+<span class="time"><strong>[00:11:16]</strong> </span>
+<span class="speaker"><strong>发言人1: </strong></span>
+对，这还确实不太一样。这里我还得说一下，就是IHF到去年为止存在的主要价值是让大模型好用。就是让一个聪明的清华北大的同学经过实习之后，他能变成这个公司里很能打的一个员工。他并不能让大模型更聪明，他也不存在scaling law skating loss说我有更多的计算、更多的数据、更多的资源，这个模型的智力水平会提升，对吧？直到欧文IO一用了另一种强化学习的方式发现，我靠这玩意儿可以提升智力。
+</p>
+<p class="transcript-line">
+<span class="time"><strong>[00:11:48]</strong> </span>
+<span class="speaker"><strong>发言人1: </strong></span>
+那这事儿是怎么来的呢？就是预训练，就是说我有一个更好的基础模型。很长一段时间大家都在想是说我除了预训练之后有没有第二曲线？除了预训练阶段对更多的数据和更多算力更大的模型之外，能不能还让模型变得更聪明？
+</p>
+<p class="transcript-line">
+<span class="time"><strong>[00:12:03]</strong> </span>
+<span class="speaker"><strong>发言人1: </strong></span>
+当时这个事儿还得说伊利亚牛逼，这个事儿是伊利亚想出来的，只是说最后实现是其他人想出来的那伊利亚当时想的想法是说那人是怎么样更聪明的。他就说其实人在很多复杂的问题之前他会先思考。因为现在传统大模型给他之后，他立马next token production就把答案给你了。但是很多问题其实是要思考的。这有个问题是如何让大模型思考，这是OBI希望解决的问题。思考有很多种方法，比如说我可以搞一个小模型，一个大模型，或者模型结构上做一些创新。
+</p>
+<p class="transcript-line">
+<span class="time"><strong>[00:12:39]</strong> </span>
+<span class="speaker"><strong>发言人1: </strong></span>
+但是最后open I发现了一种方法是work的，这个叫让模型多涂点字。就是你先让模型吐它个1万个字，吐完了你再说。好，你现在说答案，这个叫thinking token。就是现在我们就是deep sick I want会先想一会儿，所以这个有个名词叫inference time scaling。也就是说我模型训练好之后，我让他想一会儿。但是这个想其实就是在纸上写字，写完了之后你说想10秒，想30秒、想100秒。最后你给我的答案发现想的越久答案越准。这个通过写字的方式让模型想更久的这种范式是OpenAI想出来的。所以open I在欧旺上实现了这件事情。
+</p>
+<p class="transcript-line">
+<span class="time"><strong>[00:13:15]</strong> </span>
+<span class="speaker"><strong>发言人2: </strong></span>
+但这个到底是啥呢？为啥他吐的字多不知道，目前到今天为止也没知道。
+</p>
+<p class="transcript-line">
+<span class="time"><strong>[00:13:21]</strong> </span>
+<span class="speaker"><strong>发言人1: </strong></span>
+很多人试图去理解这件事情，当然就是你可以去说，因为人会打草稿或者怎么样，这都是很直觉的解释，其实没有一个特别理论上的解释他为什么会work。所以open I从要做slow thinking到他真的做出来这件事情，花了得有一年半到两年的时间，这个是不容易的这是要坚持的。我告诉你说，好像这样就可以了。但是你为什么能从slow thinking想到他？土废话可以，这事也不知道。所以这个paradise确定之后，好我们来说怎么训练一个模型让他吐那么多废话，这就又回到强化学习了。因为我们是希望最后结果对中间你吐了1万个字，吐什么字无所谓的。是不是？
+</p>
+<p class="transcript-line">
+<span class="time"><strong>[00:14:01]</strong> </span>
+<span class="speaker"><strong>发言人1: </strong></span>
+回到刚才打游戏的那个想法了，一开始我管你游戏是怎么操作，最后你只要赢就行了。所以怎么才能训练一个模型能有slow thinking的能力呢？大家发现强化学习就是我通过强化学习中间到底你吐什么字，自己探索，我只要你最后结果对就可以了。但是你们怎么设计这样的数据，他的问题是说他跟IHF来说，它中间的探索过程太大了。因为IHF是说输出的文字是不是跟我想的一样，我可能才输出几百个字，这个慢思考模型可能输出10万个字或者几十万个token.
+</p>
+<p class="transcript-line">
+<span class="time"><strong>[00:14:36]</strong> </span>
+<span class="speaker"><strong>发言人2: </strong></span>
+非常大对这两个问题有点像我们刚才讲的机器学习和深度学习之间的区别关系了。
+</p>
+<p class="transcript-line">
+<span class="time"><strong>[00:14:41]</strong> </span>
+<span class="speaker"><strong>发言人1: </strong></span>
+所以在传统的如果是对齐问题上来说，那你你还可以说输出的问题都比较短，对吧？找一些人来给他打点标排排序。那现在这个AI说他想了1万个字，另一个AI想了2万个字。最后输出的结果分别是，比如说国庆是每天有人说我想了1万个字，我说国庆是10月1号还是想了2万个字？说国庆10月1号，你说是想了一万个字的人好，还是想了2万个字的人好？不知道。因为你脑子里怎么想的，我怎么评断哪个好呢？所以没办法评判了。
+</p>
+<p class="transcript-line">
+<span class="time"><strong>[00:15:14]</strong> </span>
+<span class="speaker"><strong>发言人1: </strong></span>
+那怎么才能做强化学习训练呢？因为中间我其实很难用人来评判你的这个推理过程哪个是好，哪个是不好。因为这个事儿解决不了，所以最后大家发现open I用了一种非常简单的方式，就是训练推理。我只用有标准答案的问题，比如说一个二项函数帮我解一个X是多少，对吧？那我算出来X等于3，那你写X等于3就是完全正确的，你写X等于4就是不对。所以欧一开始一开始还有我们最近发布的这个a real系统做的所有这样的强化学习推理模型，它都只让大模型去训练。
+</p>
+<p class="transcript-line">
+<span class="time"><strong>[00:15:53]</strong> </span>
+<span class="speaker"><strong>发言人1: </strong></span>
+答案是能够标准检验的问题。当然这肯定会有一个spectrum了，稍微含糊点行不行？有也行。但是核心的原因是因为这个思考的过程太复杂了，所以我们只能判断答案。你可以让模型自由探索，你怎么想？你发散思维，反正答案对就行。
+</p>
+<p class="transcript-line">
+<span class="time"><strong>[00:16:11]</strong> </span>
+<span class="speaker"><strong>发言人2: </strong></span>
+有好多个问题。首先这里它结果对了以后，但过程当中涉及到它的成本，它的效率等等问题。对，所以这个也有谁做的好和坏的区别吗？
+</p>
+<p class="transcript-line">
+<span class="time"><strong>[00:16:20]</strong> </span>
+<span class="speaker"><strong>发言人1: </strong></span>
+有做的好和坏，我们其实觉得这里面and thor pic就是做的特别好的。因为你看我们刚才的这个思维范式，大家对你中间怎么想的很难限制。所以经常出现的问题就是大家也经常complain说我问deep CK的1加1，他给我想了半天，为什么呢？因为你不管AI是怎么想的，对吧？或者你想对他的这个思考过程，给他一个好坏的信息，其实挺难的。
+</p>
+<p class="transcript-line">
+<span class="time"><strong>[00:16:46]</strong> </span>
+<span class="speaker"><strong>发言人1: </strong></span>
+那么自然你如果不管它AI就说一加一到底啥意思？你是不是有什么别的意图？我来想一想，想半天，然后你就会发现这个AI什么情况，一加一都要想半天。那么anthropic其实它的thinking就做的很好，你给他一加一他就不想。你给他一个很复杂，比如说算个24点，他就响个10秒钟。
+</p>
+<p class="transcript-line">
+<span class="time"><strong>[00:17:03]</strong> </span>
+<span class="speaker"><strong>发言人2: </strong></span>
+对这个按我们惯常的理解来讲，是不是就可以用一个小模型先去判断这个问题什么之类。
+</p>
+<p class="transcript-line">
+<span class="time"><strong>[00:17:09]</strong> </span>
+<span class="speaker"><strong>发言人1: </strong></span>
+首先我不知道它是怎么做的，我们当然会觉得有没有可能anthropic背后是放了它的五个模型。因为欧班也会，欧班安它现在是也是说让你可以选择O3 low、o3 medium、o3 high，对吧？它就是三个模型，所以s topic也有可能是把这三个东西藏起来了也有可能就是他模型训练的好。这事儿是不得而知的。
+</p>
+<p class="transcript-line">
+<span class="time"><strong>[00:17:30]</strong> </span>
+<span class="speaker"><strong>发言人1: </strong></span>
+然后第二件事情其实还有我们知道，因为我们对这个模型思考的过程其实是没有限制的。但是像比如说dept sick I want它好玩的一个地方就是你发现虽然它的训练上没有对这个思考过程做限制，但是你确实发现，比如说我给你一个文科题，这个明显是没有标准答案的。你让DBC可想一想，他也能跟你讲出一些道理来。这事儿是怎么做到的？其实这是靠大模型的泛化能力。他的文科题上发现，摁着你的头让你想一想，他也能给我想点东西出来。所以这个也是比较有意思的一件事情。
+</p>
+<p class="transcript-line">
+<span class="time"><strong>[00:18:05]</strong> </span>
+<span class="speaker"><strong>发言人2: </strong></span>
+对，这也是我刚才想问的，就是我们用标准答案学完以后，他会做了这些更偏数理逻辑之类的东西。对对对，但目前看起来确实是能泛化到一些其他领域的。
+</p>
+<p class="transcript-line">
+<span class="time"><strong>[00:18:15]</strong> </span>
+<span class="speaker"><strong>发言人1: </strong></span>
+这有两个事情，第一个事情是它确实会有泛化能力。第二是你也不能单靠他的泛化能力。所以最后当你做强化学习这样大规模理科训练之后，最后还要用一些文科训练让他掰回来一点，不然你是一个极致理性思维的人。
+</p>
+<p class="transcript-line">
+<span class="time"><strong>[00:18:33]</strong> </span>
+<span class="speaker"><strong>发言人2: </strong></span>
+就那着来回家。
+</p>
+<p class="transcript-line">
+<span class="time"><strong>[00:18:34]</strong> </span>
+<span class="speaker"><strong>发言人1: </strong></span>
+Nar的回答哲学也不行。所以你如果去看DB sick的那个report，其实他们最后是做了一下合并的。它有一个极致的nerd模型，再加上它的base模型，两边合起来，最后再做了SFT，再做IHF，让他最后起码是一个能用的模型。然后你会发现最后得到的这个模型，它真的是会有一个比较好的在中间的位置。他生思考能力也保留的不错，他也能跟你讲做IHF普通的这些事儿，所以到底怎么才能用一个特别nd的模型和一个特别人文的模型把它合起来，也是一个挺挑战的事情。
+</p>
+<p class="transcript-line">
+<span class="time"><strong>[00:19:11]</strong> </span>
+<span class="speaker"><strong>发言人2: </strong></span>
+所以dipt sick在强化学习这件事儿上，它的应用最主要是强在哪儿？
+</p>
+<p class="transcript-line">
+<span class="time"><strong>[00:19:15]</strong> </span>
+<span class="speaker"><strong>发言人1: </strong></span>
+我觉得首先IHF这个事情大家都在做deep seek也是最早做21的团队。我觉得deep seek最重要的事情是它证明这个东西真的可做。因为我们就像我们说的，就是欧文安在推出欧旺的时候，从他真正开始立项，想这个事情他发出来可能过了两年的时间，大家都会觉得，就比如说当时我自己的判断也会觉得这个事情好难，这么难，大家估计要花很长的时间去摸索。的确是最重要的事情是他团队特别专注，他们其实做这个事儿可能就做了个把月，这就发现原来真的可以。
+</p>
+<p class="transcript-line">
+<span class="time"><strong>[00:19:54]</strong> </span>
+<span class="speaker"><strong>发言人1: </strong></span>
+所以我觉得open I的厉害之处是在于茫茫人海本来是365度都是黑暗。我们还说你看我告诉你东方有个灯塔，大家说得往东方走，但是到底咋走的？好害怕，对吧？到底是多远呢？是不是万丈深渊？DB说我说哥们我回来了，灯塔就在这个方向往前走一个月就到了。大家说原来是这样。这个信心是很难的，所以一下子就变成路径非常清晰。
+</p>
+<p class="transcript-line">
+<span class="time"><strong>[00:20:20]</strong> </span>
+<span class="speaker"><strong>发言人1: </strong></span>
+当然你真的去做了之后，你会发现它也还是有很多挑战的。比如说你还是要有个好的去做模型，这也是感谢很多开源社区没有去做模型。这人要是个小学水平，他想的再深也没用，他怎么着也得是个高中生，你让他思考一下能做大学题，所以基座模型很重要。第二是整个训练系统非常重要。因为强化学习它的输出的长度变得特别长。
+</p>
+<p class="transcript-line">
+<span class="time"><strong>[00:20:42]</strong> </span>
+<span class="speaker"><strong>发言人1: </strong></span>
+你要允许一个模型自由探索1万个字，那你要有一个很强的训练引擎能够支撑这个大模型在那瞎说话，而且你还要很多并行的，让很多大模型去想想了之后还要判断，判断了之后还要拿回来再训练。而且大模型在不断想的越来越长，这个系统的稳定性和训练效率要求是非常高的。所以DPCK也是最早我觉得是在国内有比较好的强化学习系统的团队。所以很多事情我觉得也不是说他们做了什么大家都做不了的事情，而是他们很专注，做的很早并且很扎实。
+</p>
+<p class="transcript-line">
+<span class="time"><strong>[00:21:17]</strong> </span>
+<span class="speaker"><strong>发言人2: </strong></span>
+但你刚才其实提一个点，就是说你觉得蒂普提克是相当于说他已经到那个灯台回来，然后探索出来一条可行的路径了。对这个事儿现在是整个行业的一个共识，说这个就是一个最优路径，后面大家就按这个做就好了，还是说大家其实也还在同时探索其他的一些路径。
+</p>
+<p class="transcript-line">
+<span class="time"><strong>[00:21:33]</strong> </span>
+<span class="speaker"><strong>发言人1: </strong></span>
+我觉得国内可能做的比较好的团队，比如说deep sick，比如说字节，像字节的豆包团队有那么多人，他们肯定是在同时探索很多方向的。然后这个也是比较前沿，他们肯定还会做他们下一代的模型，比如说他们最近放的这个324的模型，就coding能力特别强对吧？也在探索。其他的很多团队，其实我觉得也是在一个相对追赶的位置，大家都会都有自己的思考，但是第一步先追，因为你看国内也真的很难有一个做的跟阿旺一样好的模型。大家都说差不多，但你说真的能全面超过，其实也没有。但是我觉得海外还是有很多团队有不同的自己的belief，像OpenAI自己还是有好东西没有拿出来。
+</p>
+<p class="transcript-line">
+<span class="time"><strong>[00:22:14]</strong> </span>
+<span class="speaker"><strong>发言人1: </strong></span>
+我们就知道open I其中强化学习已经不光是做推理了，它通过强化学习还能去做很多。比如说他之前的Operator，比如它的deep research。其实它的强化学习已经通过纯推理变成agent的反式了，这个是有差别的。比如说我们做数学题，你实际是给了他一个指令，然后想半天给个答案。但是你想deeper research或者Operator，其实是一个指令响一会儿操作，又看到一个新指令或者新的反馈，再想一会儿再操作。所以他这个训练范式从一个指令输出答案，就从当年的InstructGPT这样的一轮的范式到ChatGPT多轮范式，而且还是要有虚拟世界交互的。所以其实你看OpenAI它的强化学习训练系统，以及从传统的做题，只要思考开始有交互了，这也是一个很大的概念。并且它其实已经产品化了。
+</p>
+<p class="transcript-line">
+<span class="time"><strong>[00:23:03]</strong> </span>
+<span class="speaker"><strong>发言人2: </strong></span>
+多轮的难度为什么不是一轮加一轮，加一轮是同样的难度，而是更高的难度。
+</p>
+<p class="transcript-line">
+<span class="time"><strong>[00:23:09]</strong> </span>
+<span class="speaker"><strong>发言人1: </strong></span>
+它会更复杂，因为就是有没有交互。比如说最简单我们从系统的模块上说，我只做数学题的话，那么我的模块就只有让AI想判断答案对不对，然后加上训练三个模块就OK了，对不对？如果我要去做一个deep research，或者说我要去做一个Operator，至少你还有第四个模块叫一个虚拟的网页，你得跟他交互。我们都知道一个复杂系统。
+</p>
+<p class="transcript-line">
+<span class="time"><strong>[00:23:36]</strong> </span>
+<span class="speaker"><strong>发言人2: </strong></span>
+模块。
+</p>
+<p class="transcript-line">
+<span class="time"><strong>[00:23:37]</strong> </span>
+<span class="speaker"><strong>发言人1: </strong></span>
+越多越容易出问题，越容易不稳定。那你还去想那个模块的设计出来到底是什么？你真的是不是能够边跟这个大模型训练，边真的在网页上做搜索，对吧？所以就整个会复杂很多。明白。
+</p>
+<p class="transcript-line">
+<span class="time"><strong>[00:23:49]</strong> </span>
+<span class="speaker"><strong>发言人2: </strong></span>
+你看agent的这个概念，我记得二三年初就有了，从auto GPT什么那个时候开始。对对对，但如果我们回头来看，是不是那个时候其实完全不具备agent的技术？A智能应该是从真正强化学习起来，OI什么起来才开始可以做的。
+</p>
+<p class="transcript-line">
+<span class="time"><strong>[00:24:04]</strong> </span>
+<span class="speaker"><strong>发言人1: </strong></span>
+首先咱们得定义什么是agent，我个人认为现在通行的定义就是说做数学题到做交互的差别。就是你传统的大模型它只是写字，他不会对于任何别的软件或者硬件，或者任何网页什么这样的虚拟世界也好，电子世界也好产生影响。只要你能产生影响，大家其实就认为它是agent了。比如说特简单一件事儿，我如果家里有个开关，然后大模型自己输出开还是关。我这里随便搞个电线连过去，他说关灯灯就关了，它还是大模型输出了一个叫开或者关。但是他因为对世界产生了影响，所以我就认为它叫agent。我一直认为这个是一个agent最常见的理解应该是这件事情。
+</p>
+<p class="transcript-line">
+<span class="time"><strong>[00:24:49]</strong> </span>
+<span class="speaker"><strong>发言人2: </strong></span>
+对我觉得agent大家定义太多了，对吧？有的人觉得说一个也叫一个agent，有的时候就copeland也容易跟agent混淆。但我觉得当下大家最关注的应该就是的决策，加上对现实世界或者虚拟世界的一些action的影响，对叫做agent。
+</p>
+<p class="transcript-line">
+<span class="time"><strong>[00:25:05]</strong> </span>
+<span class="speaker"><strong>发言人1: </strong></span>
+所以我觉得这里面重要的点是对文本之外的世界产生影响。当年我觉得auto GPT也好，LangChain也好，就是早期的某一些agent框架也好，他们是不是有这样的能力呢？他们是不是agent它显然是只是说它实现这个agent功能的方式是靠什么？靠problem engineer。我写你是一个什么样的AI对吧？你有这样的功能，你如果什么时候你就输这个。我再写了一些脚本，把这个东西它输出的某一个函数调用也好，还是某种特定的模式动作也好，把它给跟现实世界去执行。所以LangChain也好，还是auto GPT也好，都是通过prompt的方式把很多不同的大模型的输出组合起来。
+</p>
+<p class="transcript-line">
+<span class="time"><strong>[00:25:47]</strong> </span>
+<span class="speaker"><strong>发言人1: </strong></span>
+到现在来看，对于open I来说，他们的Operator或者deep research做了什么改变呢？他的改变是在于你不需要那么多人为prompt，你只要给一个指令，剩下的所有的事情每一步该怎么做，是大模自己端到端做的这里面其实特别好的一个例子，就是最近四欧特别火，是就是你给他一张狗，给他个衣服，把狗穿上衣服了，还换了一个风格，对不对？那你想传统这个事情在一年前两年前大家能不能做？能做叫come for UI大家可以说我搞一个流程图，每一步都用一个diffusion model把它换一换，也可以实现同样的工作。但是你会发现有了一个特强的多模态模型，可以多轮交互的模型之后，这些事儿都不要了。所以我觉得agent是一样的，就是传统的就是说因为我发现模型能力不够，所以我需要这prompt一下这prompt，然后中间通过一个流程图把它连起来。
+</p>
+<p class="transcript-line">
+<span class="time"><strong>[00:26:40]</strong> </span>
+<span class="speaker"><strong>发言人1: </strong></span>
+你会发现如果你有一个特别强的决策模型，那你就发现传统的大量的prom，大量的这种流程工作不需要了一个模型解决了。所以这个也是强化学习。你会发现它除了提升推理能力，它也能让模型有决策能力。当你有个特别好的多模态模型的时候，最后你会发现有一个第四，我给你画图，你就会有一个deep research，会有Operator。
+</p>
+<p class="transcript-line">
+<span class="time"><strong>[00:27:04]</strong> </span>
+<span class="speaker"><strong>发言人2: </strong></span>
+对我觉得这里面还有一个点，就是当你说用prob的时候，这里面其实隐含了一个意思，就是说我其实非常明确每一步要做什么。然后我告诉他，但其实大家在提要求的时候，我可能都不知道这个事要怎么做。就是他要去探索各种可能性。
+</p>
+<p class="transcript-line">
+<span class="time"><strong>[00:27:20]</strong> </span>
+<span class="speaker"><strong>发言人1: </strong></span>
+所以你需要这个模型被这样训练过。传统的只是说原来的基础模型，它没有这种对于非常未知的或者描述不清楚的指令，有自己探索能力的模型，那你就必须拆解。这事儿也挺正常的，就是像我们第一次做饭的时候，爸妈都会说第一步先干嘛？开火倒油。但是如果你是一个大厨，你会说你这个菜这里要注重一点炒菜技术，刀工要怎么样就结束了，对不对？所以就是好的模型和坏的模型会有这样的差别。
+</p>
+<p class="transcript-line">
+<span class="time"><strong>[00:27:53]</strong> </span>
+<span class="speaker"><strong>发言人2: </strong></span>
+所以其实最早的那些模型，它更多具备的还是文本的一些东西。
+</p>
+<p class="transcript-line">
+<span class="time"><strong>[00:27:58]</strong> </span>
+<span class="speaker"><strong>发言人1: </strong></span>
+没有长城探索和思维的能力。
+</p>
+<p class="transcript-line">
+<span class="time"><strong>[00:28:01]</strong> </span>
+<span class="speaker"><strong>发言人2: </strong></span>
+对，就是IO加上了更多复杂决策的这个解决方案的东西。但我就想到一个问题，如果我们把大模型抛开，单纯只是IO它仍然具备这些复杂决策的能力。为什么历史上没有出现单独以IO为基础的一个模型？然后就去做这些事儿。
+</p>
+<p class="transcript-line">
+<span class="time"><strong>[00:28:18]</strong> </span>
+<span class="speaker"><strong>发言人1: </strong></span>
+我可以说一些历史。OVI在2016年的时候。
+</p>
+<p class="transcript-line">
+<span class="time"><strong>[00:28:22]</strong> </span>
+<span class="speaker"><strong>发言人2: </strong></span>
+这个真的很历史很历史。
+</p>
+<p class="transcript-line">
+<span class="time"><strong>[00:28:24]</strong> </span>
+<span class="speaker"><strong>发言人1: </strong></span>
+其实我在一些分享上提过这个事儿。2016年的时候，欧巴当时有一个项目叫universe，大家可以搜一下，就OpenAI universe或者word of bits比特的世界这个paper。2016年的时候，当时强化学习是如日中天的时候，open I说我们能不能通过强化学习在网页上买机票？哼就这么一件事情对吧？你是不是想这个事儿跟现在的大模型特别像是吧？所以当时VAI搞了一个几十人的一个团队，去搭了一个真的可以在本机跑的网页环境。因为他要真的能够上网，那个还是挺炫的。什么打开美联航的网页，输入旧金山到纽约，然后敲回车买机票。
+</p>
+<p class="transcript-line">
+<span class="time"><strong>[00:29:05]</strong> </span>
+<span class="speaker"><strong>发言人2: </strong></span>
+跟现在的common柚子其实一样的一样。
+</p>
+<p class="transcript-line">
+<span class="time"><strong>[00:29:07]</strong> </span>
+<span class="speaker"><strong>发言人1: </strong></span>
+所以他想做的事儿是exactly open a可能九年后做成的事情。在那个时代，他就是搞了一个团队去做了仿真器，然后搞了大规模强化学习。那时候android aci还在ONI失败，所以那是欧班牙第一次。
+</p>
+<p class="transcript-line">
+<span class="time"><strong>[00:29:21]</strong> </span>
+<span class="speaker"><strong>发言人2: </strong></span>
+大规模裁员。
+</p>
+<p class="transcript-line">
+<span class="time"><strong>[00:29:22]</strong> </span>
+<span class="speaker"><strong>发言人1: </strong></span>
+OK他把这个团队裁了。当时我还特好玩，我当时我去问庄叔们，当时钟叔们还在。然后我说你们欧洲裁员，大家reputation不太好，他说咋办呢？那些人都是写networking的，我们也不知道他们来做啥，或者写前端。对，他说我也给了他们很多好的recommendation，但是确实就开了。所以open I其实在很早的时候就想干这事儿，但是通过强化学习失败了，这是第一次失败。
+</p>
+<p class="transcript-line">
+<span class="time"><strong>[00:29:49]</strong> </span>
+<span class="speaker"><strong>发言人1: </strong></span>
+第二次失败，什么是机器人的时候，因为OBI在2019年有个特别有名的项目叫grubs cube。这种强化学习控制机器人的一个灵巧手去拧魔方。大家想想拧魔方这事挺难的，因为人手我一只手拧魔方都很难。我们有个机器手去拧魔方，这是很厉害的一件事儿。
+</p>
+<p class="transcript-line">
+<span class="time"><strong>[00:30:06]</strong> </span>
+<span class="speaker"><strong>发言人1: </strong></span>
+19年机器人团队做了这件事情，这20年他们就做了另外一件事情，他们是说通过图像输入在桌上整理桌面。这个是不是现在聚升智能公司做的事情，对吧？是google的那german Robert和那个拍一做的事情。这是open I机器人团队在2020年当时想做的事情。然后他们当时还发了一个不太成功的一个report，反正就是挺失败的，全失败。
+</p>
+<p class="transcript-line">
+<span class="time"><strong>[00:30:32]</strong> </span>
+<span class="speaker"><strong>发言人1: </strong></span>
+那什么时候开始成功的？大家发现这里面缺了啥？缺了预训练模型。之前两次所有的失败都是大家仅仅通过强化学习，直接学出一个通用模型，发现这事儿不行。
+</p>
+<p class="transcript-line">
+<span class="time"><strong>[00:30:46]</strong> </span>
+<span class="speaker"><strong>发言人1: </strong></span>
+机器人是什么时候第一次可以通过语言控制机器人去抓这个桌上的东西的呢？欧巴是2021年机器人团队解散的，当年年底有university washington那个团队，当时就搞出了一个控制。唯一的差别是当时鸥本来搞了那个图片生成模型，也叫dari，dari中间有一个小的模块叫clip。Clip是一个预训练的多模态模块，它是可以把语言和图片经过预训练有一个好的表征。这个模块是欧布澜自己发的，但是在机器人上把它做通，做成一个语言控制机器人。叠衣服的那个demo是university wall，它用了这个模块加到强化学习或者说数据上，然后实现了这个事情。
+</p>
+<p class="transcript-line">
+<span class="time"><strong>[00:31:29]</strong> </span>
+<span class="speaker"><strong>发言人1: </strong></span>
+所以你最后就看发现这个世界特别遗憾。其实OpenAI16年就想做这个事儿，失败了。20年又做了一次，又失败了，21年解散，年底发现预训练模型有了，对吧？然后之后的故事大家也都知道了，大家发现原来我有一个GPT4O这样强的预训练模型，那就机器人也能在家，虽然都是demo，但是也能做很通用的事情，对吧？我给他这两张图片编辑一下也能给我弄出来，帮我去做deep research也可以。所以这件事情我说了这么多，我想的是说历史上有很多人，其实我自己也做过。当时我自己17年的时候在facebook，我们当时做in body的agent。
+</p>
+<p class="transcript-line">
+<span class="time"><strong>[00:32:08]</strong> </span>
+<span class="speaker"><strong>发言人1: </strong></span>
+那时候也是希望通过强化学习去做，也失败了。原因就是你会发现强化学习是决策能力。但是理解能力这件事情，强化学习是给不了的，需要通过预训练。所以你依然是需要一个非常好的预训练模型，才能激发出强化学习的能力。
+</p>
+<p class="transcript-line">
+<span class="time"><strong>[00:32:26]</strong> </span>
+<span class="speaker"><strong>发言人1: </strong></span>
+所以这里也得说预计的到现在是不是重要的？依然是重要的。因为即使你说我最后是通过强化学习实现出了我最后的决策模型的效果，那你是不是在预训练的时候可以为这件事情做考虑？我是不是在预训练的时候就能训练更好的理解模型，训练更好的记忆训练，更好的基础的长城逻辑能力，最后我加上一个特别强的强化学习，就会有一个完整的智能体。所以这里面我一直是说预训练和强化学习是一个乘法的关系。它是两个人乘起来才有最后的智能，就起码你得有不能是空的，对吧？对。
+</p>
+<p class="transcript-line">
+<span class="time"><strong>[00:33:01]</strong> </span>
+<span class="speaker"><strong>发言人2: </strong></span>
+这样其实就很合理了。这么一讲，其实很多东西都串起来了。就是为什么OpenAI把强化学习人事做起来，因为他本来先做的就是强化学习，对，失败若干次，所以它后面再加起来是非常正常的一件事情，很然的一件事情。所以相当于说预训练，或者说我们之前讲大语言模型，它做的就是理解记忆这些东西。然后强化学习进来的做的更多是决策跟一些action.
+</p>
+<p class="transcript-line">
+<span class="time"><strong>[00:33:23]</strong> </span>
+<span class="speaker"><strong>发言人1: </strong></span>
+就像他有决策和尝试思维的能力。
+</p>
+<p class="transcript-line">
+<span class="time"><strong>[00:33:26]</strong> </span>
+<span class="speaker"><strong>发言人2: </strong></span>
+那能不能说这两个在放到一起就是一个完成体？
+</p>
+<p class="transcript-line">
+<span class="time"><strong>[00:33:31]</strong> </span>
+<span class="speaker"><strong>发言人1: </strong></span>
+我只能说我不知道，只能说我们现在看到的最好的agent模型或者这种决策模型，确实它是通过强化学习，通过好的基座模型整合出来的。但是它有没有更好的方式，或者下一步强化学习算法本身有没有什么改动，这件事情我觉得是空间是很大的。因为我还是觉得它是个起步阶段，也是说强化学习这个skating，就是说我通过决策思考也好，提升它的智能，这个skating law才刚刚起步。所以你也不知道下面会往哪里走。但是你确定的事情是他可能天花板还没到。就是我觉得在至少今年年底，大家都会看到更好的决策模型，更好的通用agent模型出现。
+</p>
+<p class="transcript-line">
+<span class="time"><strong>[00:34:14]</strong> </span>
+<span class="speaker"><strong>发言人2: </strong></span>
+这个未来发展的方向是什么呢？现在听起来其实已经做的挺好的了，但在哪些方面是要？再比如我们知道裕巽练习之前，就是反正我扩大规模，我们讲的那个scaling law，我现在似乎大家觉得说这个东西已经不太work了。那在强化学习这条路线上，后面再发展会是怎么发展？
+</p>
+<p class="transcript-line">
+<span class="time"><strong>[00:34:32]</strong> </span>
+<span class="speaker"><strong>发言人1: </strong></span>
+两个问题。第一个问题是retraining是不是不work了？其实这里要更正，pre training不是不work了，而是它的收益变小了。强化学习只是说它在sri o的初始阶段斜率够高，所以大家觉得它比较好做。就像我们作为一个刚开始的团队，我也就是强化学习比较好突破。你让我现在从零开始做一个GPT4我也做不出来，但是我可能做一个单点突破的推理模型是比较好做的。
+</p>
+<p class="transcript-line">
+<span class="time"><strong>[00:35:00]</strong> </span>
+<span class="speaker"><strong>发言人1: </strong></span>
+我们回到这个retraining的话题，retraining是不是没有收益还是有的。一大家还是在洗数据，就我们老说数据是一个叫挖矿的过程，对吧？你地表的石油挖完了，还有页岩油加压，吧？还是能洗出数据来，这个差别是很大的。
+</p>
+<p class="transcript-line">
+<span class="time"><strong>[00:35:16]</strong> </span>
+<span class="speaker"><strong>发言人1: </strong></span>
+第二是合成数据。比如说我们想一想，我们如果希望训练一个能够很好的做视频理解或者说多模态理解的AI我们希望给他做预训练，那么这个数据该从哪儿来？文本还好说，互联网上都是文本数据好。有没有那么多图片和文字混在一起的，并且前后有强关系的数据？有，但是量远比你文本数据少好。如果你要训练一个好的多模态理解模型数据，哪来构造实操合成数据的？所以这里面其实大家就是从一个浅水区走进深水区了。就是石油的没有了，现在我要加添加剂。石油好，你添加个啥，这个石油能够燃料好，这个就空间特别大了，这是一个。
+</p>
+<p class="transcript-line">
+<span class="time"><strong>[00:36:08]</strong> </span>
+<span class="speaker"><strong>发言人1: </strong></span>
+第二是说比如说我们说scaling是要变大，对不对？那你想强化学习这个模块已经这么复杂了，你要来个一T的模型或者10T的模型，那么大训练不了，所以怎么把模型变小也是一个好的问题。所以你看open a它牛逼的地方就在于它真的有mini模型做的很厉害。所以我们老说蒸馏可耻，我说争流不可耻，你能蒸馏个像O3M那么好的模型吗？也不容易。所以预训练几个方面，一从浅水区走到深水区，走向合成数据。第二规模能不能有可能小一点的尺寸，同样做到一样的能力，允许你整理，所以预训练还是有的。
+</p>
+<p class="transcript-line">
+<span class="time"><strong>[00:36:43]</strong> </span>
+<span class="speaker"><strong>发言人1: </strong></span>
+那么讲强化学习，强化学习我还是说它是在早期的阶段。就比如说我们还是发现能刷的榜其实还没有完全刷完，还是有人在说你决策能力还是不够好，我们在做对吧？所以它还是个早期的阶段，智能还能提升，这是第一方面。
+</p>
+<p class="transcript-line">
+<span class="time"><strong>[00:36:55]</strong> </span>
+<span class="speaker"><strong>发言人1: </strong></span>
+第二方面也是说你会发现其实各家是有特色的。举个例子，比如说cloud，大家会发现其实大部分的编程任务喜欢用cloud是吧？他刷分可能没有欧旺强，但刷分刷的是什么分？是一个编程题，是一个独立的项目帮我做好。大部分人的use case不是这个，大家是说我现在就想这个PPT帮我画出来，这个网页帮我画出来，然后你帮我抵个bug。有交互的，所以跟人用交互的方式有很好的编程体验。你会发现cloud这件事情上做的特别好。
+</p>
+<p class="transcript-line">
+<span class="time"><strong>[00:37:29]</strong> </span>
+<span class="speaker"><strong>发言人1: </strong></span>
+Deep sick最新的这个基座模型也是这样。所以你会发现我到底是要一个特别全面的模型，还是说有这样的一个模型，就是专注于代码，把代码做的特别好。所以还是有分化。这个其实也是跟比如说合成数据有关系，然后跟他们的训练方式也有关系。
+</p>
+<p class="transcript-line">
+<span class="time"><strong>[00:37:47]</strong> </span>
+<span class="speaker"><strong>发言人1: </strong></span>
+所以这也有另一种可能不确定，就是有可能不同的大模型公司走向深水区之后，他们会有不同的个性。可能你去做deeper research，做这种网页agent，你就喜欢用GPT。然后你说我写，那可能你就喜欢用cloud，然后你说喜欢什么都会一点的，你就用clock。所以这里面还是有差别。
+</p>
+<p class="transcript-line">
+<span class="time"><strong>[00:38:08]</strong> </span>
+<span class="speaker"><strong>发言人2: </strong></span>
+但我还是想追问一下，就是像大家都理解retraining大概能理解，就是反正我帮你对更多高质量的数据或者做些算法调优调参对。那到底强化学习这件事儿是怎么样算训练的更好？
+</p>
+<p class="transcript-line">
+<span class="time"><strong>[00:38:22]</strong> </span>
+<span class="speaker"><strong>发言人1: </strong></span>
+我觉得首先还是看指标，就是你指标都不够好。
+</p>
+<p class="transcript-line">
+<span class="time"><strong>[00:38:25]</strong> </span>
+<span class="speaker"><strong>发言人2: </strong></span>
+那你一定训练的不够好。
+</p>
+<p class="transcript-line">
+<span class="time"><strong>[00:38:27]</strong> </span>
+<span class="speaker"><strong>发言人1: </strong></span>
+你指标只是拿那些指标，比如说代码的指标，比如说你强化学习，那你起码在数学的分数上要刷的足够高。
+</p>
+<p class="transcript-line">
+<span class="time"><strong>[00:38:35]</strong> </span>
+<span class="speaker"><strong>发言人2: </strong></span>
+对我我想问的是这个过程是怎么做到的？是靠调参数还是靠什么东西？
+</p>
+<p class="transcript-line">
+<span class="time"><strong>[00:38:40]</strong> </span>
+<span class="speaker"><strong>发言人1: </strong></span>
+这个真的是炼丹，这就是炼丹。它有很多单，就是你有调参数，你有训练算法上的改动，然后你有数据特简单。你就想我找一个学生，我想让他做奥数培训，那老师出什么题也关键，对吧？有的老师说你这个地方有能力欠缺，我给你来两道题回家做做完你就这是高级教师对吧？有些学的不好的，你可以他天天灌小学数学题，说你去刷题，刷了半天没用，对吧？所以出题也很数据也很重要，然后算法很重要，基建很重要。比如说我们的基建，我们说7B的模型两天就可以训完，但我们最早的一版模型可能7B模型是要训一个州的那你想我一天多两天，一周迭代四次试错的机会，对吧？我训练一个模型七天才能看到效果，那这个完蛋。
+</p>
+<p class="transcript-line">
+<span class="time"><strong>[00:39:26]</strong> </span>
+<span class="speaker"><strong>发言人1: </strong></span>
+所以有很多这样的因素耦合起来，但确实要看最后的结果。因为强化学习是一个你过程很难讲的东西，就是他经常会发现你看着它涨得很好，但是后来突然不涨了，或者说训练一直不太长，突然开始猛增都有可能。所以这个事儿就是我们DBC老说啊哈我们怎么就是他顿悟时刻，这是很难的，所以判断只能看它最后的结果到底好还是不好。那么你要看最难的几个指标，但是高也不代表模型真的好。你最后就是体感，体感这块儿怎么说呢？就是你自己去试了。
+</p>
+<p class="transcript-line">
+<span class="time"><strong>[00:40:02]</strong> </span>
+<span class="speaker"><strong>发言人2: </strong></span>
+所以其实我能不能理解大模型里面现在反正就两条主线。一条是训练往理解方面加深，一条往节奏方面加深。但我好奇的是比如说我们说现在大模型的组织结构来讲，可能这个比较好理解一点。就这两件事儿现在是一个人核心在负责，这个人是他具备多种能力，都很强，还是这两件事儿是分别两个人在平行的线上去跑。
+</p>
+<p class="transcript-line">
+<span class="time"><strong>[00:40:24]</strong> </span>
+<span class="speaker"><strong>发言人1: </strong></span>
+首先最好的情况就是大家分的没有那么开。当然我觉得预训练和后训练，其实这两个范式还是差别比较大的。所以可能至少你有个预训练团队和个后训练的团。对，但是我理解最好的情况是分工不要分的那么多。
+</p>
+<p class="transcript-line">
+<span class="time"><strong>[00:40:39]</strong> </span>
+<span class="speaker"><strong>发言人1: </strong></span>
+比如说我们举个例子，那你做强化学习后训练，你要不要去考虑数据？要的那你有一个预训练好的预训练模型之后，你得先做冷启动去做SFT。那SFT有什么数据？所以你说后训练的人完全不管这样的监督数据吗？你可能也不是，可能训练之后你说可能这个基座模型缺某些能力，你还得跟有人说你帮我补一些这样的数据。
+</p>
+<p class="transcript-line">
+<span class="time"><strong>[00:41:01]</strong> </span>
+<span class="speaker"><strong>发言人1: </strong></span>
+所以我觉得大致还是可以分成，比如说预训练，比如说多模态的一些训练。然后比如说做语音的肯定跟预训练不太一样，后训练跟这个也不太一样，然后做IHF的人可能不太一样，我觉得大概还是可以通过目标来区分的。但是我觉得AI时代团队的最大的差别是在于需要每个人有破圈的意识，就是你最好所有东西都知道才不容易出问题。
+</p>
+<p class="transcript-line">
+<span class="time"><strong>[00:41:28]</strong> </span>
+<span class="speaker"><strong>发言人2: </strong></span>
+所以模型理解这件事情，包括所有的刚才我们说图片理解这个东西，理解本身跟IO是完全不相关的。
+</p>
+<p class="transcript-line">
+<span class="time"><strong>[00:41:36]</strong> </span>
+<span class="speaker"><strong>发言人1: </strong></span>
+可以这么理解，我认为它大量的理解是出现在预训练阶段。我觉得大家显然是会有理解能力的提升的。但是我会觉得他的基础能力是在预训练奠定的，就R更多的是激发他的理解能力。就是我知道你的能力要这么被用起来，但是它不会带来这种基础能力的越深。
+</p>
+<p class="transcript-line">
+<span class="time"><strong>[00:42:00]</strong> </span>
+<span class="speaker"><strong>发言人2: </strong></span>
+明白，这样的话多模态生成什么的，其实也是跟L其实现阶段是关系不大的。
+</p>
+<p class="transcript-line">
+<span class="time"><strong>[00:42:06]</strong> </span>
+<span class="speaker"><strong>发言人1: </strong></span>
+生成应该是没有太大的关系。所以我一直觉得生成都是容易的，理解是困难。
+</p>
+<p class="transcript-line">
+<span class="time"><strong>[00:42:13]</strong> </span>
+<span class="speaker"><strong>发言人2: </strong></span>
+所以多态理解其实也跟没什么关系。对我前段时间还刚听了一个事实，可能很多人是想不到的，就是去理解一张图片花费的token其实比生成是要高的。是这个背后。
+</p>
+<p class="transcript-line">
+<span class="time"><strong>[00:42:25]</strong> </span>
+<span class="speaker"><strong>发言人1: </strong></span>
+的原因是什么？就是理解是一件更难的事情，或者我这么说，因为其实核心是可控，或者说instruction following的能力，是你现在理解指令是什么，那么你首先得看得懂那个字。比如说我举个极端的例子，你没学过俄文，我把那个指令写成俄文，你阿尧学一辈子你也学。不但不是说没有可能，有可能你刷了大量的题之后，你也可以他是一个效率极低的过程。你最好是你这哥们儿，你预训练的时候你就会俄文。但是我摇就是你先认识俄文字。那我摇的时候，我经过给你训练，我可以比较快的让你说，我就知道我的文体怎么做，画画也是一样，对吧？你画画本身有个能力，我发现你只要有能力之后，我能跟你讲明白你就能画了，对不对？就是只生成这个事情本身是都能做，但核心是说我给你两张图，给你三张图，然后交互式的让你把最后给生成出来。
+</p>
+<p class="transcript-line">
+<span class="time"><strong>[00:43:20]</strong> </span>
+<span class="speaker"><strong>发言人2: </strong></span>
+这个是难的。对我这里还想再追问一个点，就是我们刚才讲到，比如说最早的L买票就不太行，因为他理解能力不够。这个点对那理论来说，我的理解是IO他反正是一个奖励，你得到那个结果，然后去用各种方法去试对。只要我最后要判断那个结果是他成功了，买，但我想要这个机票就OK对那为什么他一定要理解前面的所有东西欧。
+</p>
+<p class="transcript-line">
+<span class="time"><strong>[00:43:45]</strong> </span>
+<span class="speaker"><strong>发言人1: </strong></span>
+文澜最早就是这么想的，所以他们失败了好几次，就是头铁。这里面的核心是泛化能力的问题。比如说我们去想下围棋，我们知道只要强化学习就可以了。但是你说让一个下围棋的AI去下象棋，他行不行？这个就不行，为什么？因为他的所有训练过程是在那一个围棋棋盘上进行的，所以他的所有的推理逻辑是基于那一个棋盘进行的那买机票也是你世界上的主要公司几十家，你几十家机票都能买的又怎么样呢？我给你再来个新的航空公司，你很难保证这个AI到底是记下来了，还是他真的说，我知道看图片上的我理解的，但理论上说我如果世界上我有一亿种网页，我就让你狂点。理论上也可以，但它肯定是效率很低下的一种方式。
+</p>
+<p class="transcript-line">
+<span class="time"><strong>[00:44:37]</strong> </span>
+<span class="speaker"><strong>发言人2: </strong></span>
+我理解我觉得这个简单来讲就是当时的L纯粹就是死记硬背。
+</p>
+<p class="transcript-line">
+<span class="time"><strong>[00:44:41]</strong> </span>
+<span class="speaker"><strong>发言人1: </strong></span>
+对，或者说你希望他能够学出一种更高级的理解。不好意思，数据真的不够，或者数据广度不够。
+</p>
+<p class="transcript-line">
+<span class="time"><strong>[00:44:50]</strong> </span>
+<span class="speaker"><strong>发言人2: </strong></span>
+然后问一个很马后炮，甚至于可能有点白痴的问题。你看我们觉得要训练一个人工智能，首先他肯定是得理解这个世界，或者说大家先但是我要做有用的东西，所以他要具备决策能力，所以我先用L来做用L来做发现它理解上是欠缺的对，所以我要训一个能理解的模型。对，或者说有公司可能我先训的一个理解的模型，然后发现他要做一直能要做东西的话，肯定要加决策。那这时候决策最好的肯定是IO然后我要把IO训好，他肯定最好的就是说我给他有标准答案的能获得的东西来训对。所以这里面就是数学题之类的对，这个逻辑听起来非常顺。为什么大家摸索了这么多年才摸索出来，就听起来是很必然的一个结果。为什么IO这个事是最近才得到共识？
+</p>
+<p class="transcript-line">
+<span class="time"><strong>[00:45:35]</strong> </span>
+<span class="speaker"><strong>发言人1: </strong></span>
+对我觉得我们简单来说一些事儿，比如说我们发现RL不够这件事情，这个事情是大家反复试错。直到比如说我觉得对于我自己，我可能最早一批做这个事情的人，我自己意识到这件事情是可能18年的时候，我充分意识到当时具身智能的所有瓶颈在视觉跟阿瑶毛的关系没有，所以我放弃了，我不做了。对，现在其实也是。所以首先大家花了很长的时间去发现它真的不行，OK碰壁了对吧？第二件事情是大家发现，你到底需要多少数据可以让它泛化呢？这是skating law。这事情又要变成当年到底是bert这种监督性的学习，还是next token prediction。其实比较像，也一直很长时间都是说我们要contracted learning，我们不要用生成方式去学，我们要用一些别的监督的对比的方式去学，对吧？
+</p>
+<p class="transcript-line">
+<span class="time"><strong>[00:46:30]</strong> </span>
+<span class="speaker"><strong>发言人1: </strong></span>
+直到GPT3 scaling law，有人在还不是图像，是在文本上实现了这件事情。而且这个中间有很多偶然，比如说伊利亚说想做，没人帮他做。I like grape ford. 说我试试，这哥们够强，这根本就是个菜鸟也干不出来。所以大家可能又到了scaling law，发现原来这个scaling law这么牛。
+</p>
+<p class="transcript-line">
+<span class="time"><strong>[00:46:52]</strong> </span>
+<span class="speaker"><strong>发言人1: </strong></span>
+然后再往后说，我们来试一试，我们来做这件事情，大模型是不是能有通用的推理能力，这件事情也是不知道的。是也是可能有人坚信这件事情，然后一帮人探索了一年两年。我现在回头告诉你，觉得这逻辑通，是因为每一步逻辑你都知道它是对的。我们又回到那个年代，是战争迷雾的时候，为什么阿里不行？有人说我要做预训练，完的时候没人做预训练，或者说预训练要用深沉式做预训练，还不是用监督式的方式做预训练。这个事情又要落后了。所以我觉得现在只能从后验来看这件事情是顺的。他确实是因为答案往往都是简单，如果它不简单说明答案是错的，对不对？
+</p>
+<p class="transcript-line">
+<span class="time"><strong>[00:47:34]</strong> </span>
+<span class="speaker"><strong>发言人2: </strong></span>
+是，所以确实是一个马后炮的问题。对对对，然后现在好多做agent的公司，其实他内部可能都会想要说我要配一个L的人。你觉得这个事儿是make sense是有必要的吗？
+</p>
+<p class="transcript-line">
+<span class="time"><strong>[00:47:46]</strong> </span>
+<span class="speaker"><strong>发言人1: </strong></span>
+我觉得make sense就是你至少有一个人对这件事情有认知。因为我觉得虽然现在IL的门槛还是很高，就像我们自己在做开源。我们做开源的一个目的也是希望让这个门槛降下来。比如说一年两年总是能降下来的。最终你说大家有没有可能自己都简单微调，像强化学习做微调，我觉得肯定这一天会来的多久，只是你不知道吗？你先储备一些人总是没错的。
+</p>
+<p class="transcript-line">
+<span class="time"><strong>[00:48:13]</strong> </span>
+<span class="speaker"><strong>发言人2: </strong></span>
+但你看类比的话，其实前两年大家都在讨论说英语公司到底要不要自己做providing，吧？要不要自己的一个模型，现在基本上没人讨论这个问题了。那过两年会不会说就模型能力，也包括它的agent包括他各种角色L能力也足够强了。那创业公司或者说一些应用公司也不需要自己做相关的事情。
+</p>
+<p class="transcript-line">
+<span class="time"><strong>[00:48:34]</strong> </span>
+<span class="speaker"><strong>发言人1: </strong></span>
+这个其实我觉得就是创业公司可能需要思考的问题，我解不出它到底是答案是怎么样的。就是我觉得创业公司是不能想终局思维的，他一定是在想一个partial思路，什么该怎么做。因为我觉得创业公司如果去想终极没意义，那别活了对吧？
+</p>
+<p class="transcript-line">
+<span class="time"><strong>[00:48:51]</strong> </span>
+<span class="speaker"><strong>发言人2: </strong></span>
+这世界没有你的机会，尤其是现在AI变化这么对。
+</p>
+<p class="transcript-line">
+<span class="time"><strong>[00:48:54]</strong> </span>
+<span class="speaker"><strong>发言人1: </strong></span>
+所以这里面的关键在，比如说我觉得minus就是一个特别好的，我特别喜欢他们。因为他们其实就是有一定的模型训练能力，是你可以说他最终没有意义。没关系，创业公司你的切口就是在一个终局没有到来的时候，你把这件事情做了，对吧？所以其实manus是说你看他们在这个市场上没有这样一款产品的时候，他们用最快的方式用微调也好，调API也好，给你传出了一个可用的东西，这个就是创业公司的机会。如果你创业公司老想的是啊最后有一天就会能用，拜托那那你还做啥呢？那你就趁早投资节呗，对吧？
+</p>
+<p class="transcript-line">
+<span class="time"><strong>[00:49:32]</strong> </span>
+<span class="speaker"><strong>发言人2: </strong></span>
+对，然后你看大模型训练的人，其实前两年是非常缺的，现在肯定好的人也仍然是缺的。因为这个事儿也就是这两三年，尤其在国内才起来。但是RL这件事情已经至少十年了，为什么现在大家还是觉得这个人才非常缺乏？
+</p>
+<p class="transcript-line">
+<span class="time"><strong>[00:49:49]</strong> </span>
+<span class="speaker"><strong>发言人1: </strong></span>
+我觉得首先客观上讲，我们去看论文引用数对吧？你是做CV的，做NLP的引用数都很高。然后你说你是在RL的，读书就会少一个order，这个就是本质上还是门槛变高了，特简单。那你机器学习的问题定义简单，你RL把环境配好跑下来能复现。这已经筛掉好多人了，然后他数学还会更麻烦一些，所以它本身的门槛就高。所以客观上讲，研究RL的人，他就是比做这些视觉大家做NLP，去做推荐的这些人就少。第二件事情我觉得挺遗憾的，就是可能在工业界大规模使用强化学习的机会其实是相对比较少的。比起NLP，比起视觉，所以你想很多人他可能在学校里面做，但是他没有一个工业界的人才池，所以这个人也会少。
+</p>
+<p class="transcript-line">
+<span class="time"><strong>[00:50:46]</strong> </span>
+<span class="speaker"><strong>发言人1: </strong></span>
+第三件事情也是强化学习。其实对工程的要求非常高。我所以也说很遗憾，就是很多公司其实它的业务场景肯定是少的，所以导致很多人也没有这样的机会去去用大的好的基建，用工程化的方式把这个强化为skill up。所以其实我回国的时候做了很多工作。比如说我们当时做了一个多智能体的一个框架叫MAPPO，到后来我们就做大规模强化学习框架SRL，到最近我们做a real，其实都是我们希望。因为我们发现国内做这个工程化的强化学的人真的好少。所以我们也是自己会去做一些这样的工作，去做开源。所以多个方向，一确实是很高，第二确实是人少，第三是他的工程门槛比大家想象的厉害。然后大家有没有这样的实践的机会，所以总体上就会少。
+</p>
+<p class="transcript-line">
+<span class="time"><strong>[00:51:37]</strong> </span>
+<span class="speaker"><strong>发言人2: </strong></span>
+对，而且我觉得16年那波就是d band的那个阿尔法go起来，其实带动了一波，但后面好像L的热度是不是又下去了？
+</p>
+<p class="transcript-line">
+<span class="time"><strong>[00:51:44]</strong> </span>
+<span class="speaker"><strong>发言人1: </strong></span>
+现在对，是的，就像欧文安也碰壁了而且很多L的人其实转向机器人了。
+</p>
+<p class="transcript-line">
+<span class="time"><strong>[00:51:49]</strong> </span>
+<span class="speaker"><strong>发言人2: </strong></span>
+对，所以我在想你当年学这个的，你是哪年开始读PHD的？
+</p>
+<p class="transcript-line">
+<span class="time"><strong>[00:51:53]</strong> </span>
+<span class="speaker"><strong>发言人1: </strong></span>
+我14年读PHD。对。
+</p>
+<p class="transcript-line">
+<span class="time"><strong>[00:51:55]</strong> </span>
+<span class="speaker"><strong>发言人2: </strong></span>
+那个时候算是一个冷门专业吗？或者说你可能有过几年比较难过的日子。
+</p>
+<p class="transcript-line">
+<span class="time"><strong>[00:52:00]</strong> </span>
+<span class="speaker"><strong>发言人1: </strong></span>
+我是运气比较好，因为我在伯克利，我觉得北美强化学习高效的大本营是berkeley。这个也是感谢当时的几个professor，当时是Peter bill老师，然后serge lovin老师。当时我印象特别深刻是可能14年底还是15年初的时候。当时Peter比我跟组里面开会，他是做机器人的。他说不行，这个时候我们全组all in deep enforcement能力，我们不做别的了。然后伯克利又是一个合作起来风气非常好的。所以因为我早是still Russell，但是我其实也跟Peter做了很多的工作，然后还有别的组。也是感谢伯克利当时那个氛围，让我们具有了这样的合作。
+</p>
+<p class="transcript-line">
+<span class="time"><strong>[00:52:40]</strong> </span>
+<span class="speaker"><strong>发言人1: </strong></span>
+因为我最早做强化学习，我第一篇工作value using network，当时拿best paper。那个工作其实也是合作的，我是敲Peter的门，我说Peter我想试试这玩意儿。Peter说你这些项目你挑一个，我说我挑这个挑了个best paper，然后open I早期的时候，其实Peter bill在OpenAI，当然后他也让OpenAI跟伯克利有很强的联系。所以这也是比如说我当时引用最高的工作，就是跟OpenAI的同事一起做的。所以我得说这个也不是说我就多牛，或者我选的特别强，就是运气。我在那个地方。
+</p>
+<p class="transcript-line">
+<span class="time"><strong>[00:53:16]</strong> </span>
+<span class="speaker"><strong>发言人2: </strong></span>
+所以今年应该是IO设立起来，因为图片奖也颁给了那2个IO的人，对吧？对对对，这里我看有比较有意思点，就是图灵奖那个萨顿，他其实本科是学心理学的。是对，所以我就回到你开头讲的，就是人生本身，你觉得就是一场强化学习，对吧？我觉得好像有点呼应的感觉。
+</p>
+<p class="transcript-line">
+<span class="time"><strong>[00:53:35]</strong> </span>
+<span class="speaker"><strong>发言人1: </strong></span>
+其实蛮有意思的，就是很多做AI的人，就本科不知道学啥的，国外其实有蛮多的稀奇古怪专业出身的人，非科班的人其实有不少。尤其其实强化学习在很长一段时间是个冷门领域。他真的到出圈，我讲句也不怕别人笑话。就是我升PHD的时候，我2014年入学的，我当时拿了CMDF，拿了4 of，我说不知道世界上有个东西叫reinforcement learning。我第一次听说是campus visit的时候，alex smaller.
+</p>
+<p class="transcript-line">
+<span class="time"><strong>[00:54:06]</strong> </span>
+<span class="speaker"><strong>发言人1: </strong></span>
+当时他那个办公室说我太忙了，我学生约不过来，你们俩人一起来，我去在那儿跟他讲。Large skill machine system旁边一个小哥进来说，我们能不能搞拉着skill reinforcement，说reinforcement是什么东西？所以真的你想我们其实也是接受了最好的中国的计算机的科班教育了。不知道，我真的不知道要强化学习这个东西，我们的教科书上是没有的。所以我们得说中国的整个起步是晚的。
+</p>
+<p class="transcript-line">
+<span class="time"><strong>[00:54:32]</strong> </span>
+<span class="speaker"><strong>发言人1: </strong></span>
+但是美国。就不一样，美国就是你想反正是小众领域，多少年前都有人研究。高校那么多，所以你想suton他们一直在阿尔伯塔大学，对吧？You must am host, 在中国人看来绝对不是主流高校。中国人哈耶普斯、斯坦福、伯克利、斯MU就是阿尔伯塔，you must I am host啥学校？你要是放十年前，如果不是图灵奖，你说让学生你这里有个offer肯定不愿意去，对吧？所以有很多有这种人，他是在犄角旮旯里边，然后最后有一天把它做成是。
+</p>
+<p class="transcript-line">
+<span class="time"><strong>[00:55:04]</strong> </span>
+<span class="speaker"><strong>发言人2: </strong></span>
+所以现在如果国内的公司，他真的现在想招一个L的人，或者想培养一个L的人，大概需要做什么，或者包括怎么判断？
+</p>
+<p class="transcript-line">
+<span class="time"><strong>[00:55:12]</strong> </span>
+<span class="speaker"><strong>发言人1: </strong></span>
+我觉得这事儿挺难的，而且我不太想给这样的建议，因为我觉得这个东西是非常带个人风格的，而且不同公司不同阶段他需要的人就不一样。我比如说我大公司可能你觉得招一些研究背景更强的对吧？然后你可能小的公司你可能需要的是动手能力特别强的对吧？所以我觉得这里面挺难讲的明白。但其实我觉得在这个时代，尤其大家开源这么多，自媒体这么多，然后途径也这么多，大家也愿意去宣传。其实更重要的事情是动手。如果培养的话，我会觉得是一个不要有边界意识，他愿意去做很多东西，他愿意去学发自内心的想学，去动手。我觉得这个人都是可培养的。
+</p>
+<p class="transcript-line">
+<span class="time"><strong>[00:55:53]</strong> </span>
+<span class="speaker"><strong>发言人2: </strong></span>
+不管什么领域都是。然后你强化学习未来的一些发展的路线和可能性是什么？
+</p>
+<p class="transcript-line">
+<span class="time"><strong>[00:55:59]</strong> </span>
+<span class="speaker"><strong>发言人1: </strong></span>
+其实刚才大差不差也说了，我觉得首先肯定是scaling，就是你肯定还是可以提升智能。这个scaling law没有停下来。当然它这个scaling law的本身可能是跟预训练结合起来，这是第一条。
+</p>
+<p class="transcript-line">
+<span class="time"><strong>[00:56:11]</strong> </span>
+<span class="speaker"><strong>发言人1: </strong></span>
+Scaler完了之后，就像我说的，其实很多公司开始做不同的特色了。比如说有一些公司泛化性做的很好，比如说deep sick吧？它突出那个大的原因就是说他哲学体现的跟你想一想，泛化性做的很好，比如说cloud代码做的特别好，还有比如说agent就open I就是agent做的特别好，我一个模型从头到尾deep research，不要你写特别复杂的代码，但是你要很多次的交互去调函数。所以我觉得这个方向，比如说泛化性，比如说professional code，比如说agent function code，我觉得是分叉的这些点。当然我觉得还有别的点了，我只是举例子。我觉得首先是一个主的树干，然后会有分叉，所以这也是我自己最近在想的，就是说我们这个团队往后走，往那个方向走，但我觉得大家都可以讨论。
+</p>
+<p class="transcript-line">
+<span class="time"><strong>[00:56:55]</strong> </span>
+<span class="speaker"><strong>发言人2: </strong></span>
+你那天好像是提了一个我在三个方向什么的。
+</p>
+<p class="transcript-line">
+<span class="time"><strong>[00:56:57]</strong> </span>
+<span class="speaker"><strong>发言人1: </strong></span>
+对我就说泛化代码和agent OK，这是三个挺大的分支，而且都可以长出非常大的东西了。
+</p>
+<p class="transcript-line">
+<span class="time"><strong>[00:57:06]</strong> </span>
+<span class="speaker"><strong>发言人2: </strong></span>
+我在想决策这件事儿的skin law最后在用户端体现的感知是什么？你文字其实是很明确的对吧？谁写的更好，谁写的不好之类的。但角色这件事儿，最后整个结果的准确率还是什么几个东西。
+</p>
+<p class="transcript-line">
+<span class="time"><strong>[00:57:21]</strong> </span>
+<span class="speaker"><strong>发言人1: </strong></span>
+首先是结果准确率，比如说我们去做数学题，我们给你写一个分析报告对吧？帮你去deep research或者Operator，帮你去网站上完成一些操作，这是准确率可以判断的。当然交互体验也是，就比如说cloud那个前端代码写的就是好，对吧？它本质上还是可验证，只是说到底是benchmark验证还是人的体感验证。
+</p>
+<p class="transcript-line">
+<span class="time"><strong>[00:57:42]</strong> </span>
+<span class="speaker"><strong>发言人1: </strong></span>
+还有一个我觉得特别重要的东西是多轮交互，比如说我觉得cloud特别强的一个地方，一般你正常的模型给他一段代码，让它第八个他就说我来帮你看看这东西怎么抵。Bug可能在这儿，克劳德会问你问题的，克拉会说你装的环境包是什么？你装的who version是什么，这就不一样。你想本质上跟你做个性化交互的时候是要有交互的，他是要问问题的。那么能不能有一个agent他除了做事儿，他能适时的去给你问问题，适时的能给你做一些个性化的选择。这里面其实水很深的。
+</p>
+<p class="transcript-line">
+<span class="time"><strong>[00:58:19]</strong> </span>
+<span class="speaker"><strong>发言人2: </strong></span>
+我觉得问问题里面到底理解跟决策的一个占比是怎么样的？
+</p>
+<p class="transcript-line">
+<span class="time"><strong>[00:58:25]</strong> </span>
+<span class="speaker"><strong>发言人1: </strong></span>
+我觉得这很难说。
+</p>
+<p class="transcript-line">
+<span class="time"><strong>[00:58:26]</strong> </span>
+<span class="speaker"><strong>发言人2: </strong></span>
+都是一个综合的结果。
+</p>
+<p class="transcript-line">
+<span class="time"><strong>[00:58:27]</strong> </span>
+<span class="speaker"><strong>发言人1: </strong></span>
+对，就是我觉得它是A乘B就比如说你让他看看屏幕，屏幕上的字，你这玩意看不清，让他分各个图像里面有几个物体他都点不出来。那不好意思，我觉得你肯定完成不了，你去上网帮他，比如说买东西的任务对吧？
+</p>
+<p class="transcript-line">
+<span class="time"><strong>[00:58:43]</strong> </span>
+<span class="speaker"><strong>发言人2: </strong></span>
+对，但我就说他在哪个节点提问，什么时候提问，提什么问题。
+</p>
+<p class="transcript-line">
+<span class="time"><strong>[00:58:47]</strong> </span>
+<span class="speaker"><strong>发言人1: </strong></span>
+更多的这可能是推理了，还是IO对吧？这还是IO来的，就是你能理解过去发生了什么，然后你能做出正确的决定。
+</p>
+<p class="transcript-line">
+<span class="time"><strong>[00:58:55]</strong> </span>
+<span class="speaker"><strong>发言人2: </strong></span>
+明白，然后你们其实一直在做强化学习的框架，对吧？然后你正好这周新发的一个框架，对，能不能给大家解释下，就框架这个事儿对于小区到底是个什么概念？
+</p>
+<p class="transcript-line">
+<span class="time"><strong>[00:59:05]</strong> </span>
+<span class="speaker"><strong>发言人1: </strong></span>
+两个事儿。第一件事情是首先因为强化学习还是一个scaling law，它是propose training scaling law，或者说这种叫强化学skin law。
+</p>
+<p class="transcript-line">
+<span class="time"><strong>[00:59:15]</strong> </span>
+<span class="speaker"><strong>发言人2: </strong></span>
+那我打断一下，我追加一个问题。就是之前大家讲post training，讲skin law的时候，不一定是一定是强化学习的对吧？
+</p>
+<p class="transcript-line">
+<span class="time"><strong>[00:59:22]</strong> </span>
+<span class="speaker"><strong>发言人1: </strong></span>
+其实是我觉得他原来只讲post training。对，因为在IHF时代做alignment。但是讲上skating law这个事儿，是因为欧旺阿旺出来了之后，在强化学习连上了才讲scaling law的。
+</p>
+<p class="transcript-line">
+<span class="time"><strong>[00:59:34]</strong> </span>
+<span class="speaker"><strong>发言人2: </strong></span>
+你对你继续讲框架问题。
+</p>
+<p class="transcript-line">
+<span class="time"><strong>[00:59:35]</strong> </span>
+<span class="speaker"><strong>发言人1: </strong></span>
+框架我觉得这两条，因为第一它首先是scaling law，那你首先要能scale，一定要skill up。所以你好歹要有一个框架能让你真的在一万张卡上去做大规模强化学习训练。这就是说你要宰牛，你好歹得有牛刀，对吧？
+</p>
+<p class="transcript-line">
+<span class="time"><strong>[00:59:53]</strong> </span>
+<span class="speaker"><strong>发言人1: </strong></span>
+很多公司的这个框架是不开源的，就像我们这个框架的前身或者再往前的前身，就是当时我们发现OpenAI在打游戏时代，打游戏也有一个需要框架，对吧？你要去打dota那你要大规模并行模拟dota，这个框架怎么来？所以当时我们说那开源的没有，那只能自己写。现在也是就开源有好的，但是可能没有我们自己用的趁手的，所以我们有些自己对于框架的想法，所以就搭了。所以一是你得有牛刀，你好歹先跑起来对吧？跑上一个月，这个已经很了不起了。
+</p>
+<p class="transcript-line">
+<span class="time"><strong>[01:00:28]</strong> </span>
+<span class="speaker"><strong>发言人1: </strong></span>
+第二件事情就是快RL我们知道这个模块太多了，它是个复杂系统。之前说max就三个模块加上agent四个模块，每个模块本身都很复杂，而且这个交互的模式还不可预测。你怎么知道这个agent会怎么跟环境交互，所以中间就会有很多很多的可快可慢的东西。一个复杂系统就像一个公司对吧？因为好多部门效率差个十倍不夸张，对吧？那你就想AI在算法迭代阶段，本质上是一个你能做多少实验，你就有多少instrument的地方。那么你想一个info一个系统如果能十倍，你就能多做十倍实验，那进度可不快。
+</p>
+<p class="transcript-line">
+<span class="time"><strong>[01:01:10]</strong> </span>
+<span class="speaker"><strong>发言人1: </strong></span>
+所以我们一是先得有牛刀，得能跑agent强化学习。第二是也希望这个东西尽量能快。所以我们最近也是跟很多做推理引擎的团队，比如说跟SG long就做了一些联动。然后我们希望后面跟他们做一些合作的开发，能让这个模型尽量快。
+</p>
+<p class="transcript-line">
+<span class="time"><strong>[01:01:28]</strong> </span>
+<span class="speaker"><strong>发言人2: </strong></span>
+所以你们现在核心就像这周发的那个框架，主要进步的地方。
+</p>
+<p class="transcript-line">
+<span class="time"><strong>[01:01:33]</strong> </span>
+<span class="speaker"><strong>发言人1: </strong></span>
+就是快一还是稳定，能在7B32B都能做稳定性，但32B还没有达到我们想要的效果，我们还在训练。第二是它确实快了很多，两件事情都让我们觉得它是一个可发的版本。但是其实我们内部还有很多想做的东西，而且我们内部其实也有更快的版本。但我们没有把它完全做到我们一个满意的状态，所以应该会很快有下一个版本。
+</p>
+<p class="transcript-line">
+<span class="time"><strong>[01:01:57]</strong> </span>
+<span class="speaker"><strong>发言人2: </strong></span>
+对你后面最主要研究的方向，或者自己在花时间的一些方向是什么？
+</p>
+<p class="transcript-line">
+<span class="time"><strong>[01:02:03]</strong> </span>
+<span class="speaker"><strong>发言人1: </strong></span>
+首先我自己最感兴趣的就像是我说的，就是AI和人交互应该是一个怎么样的方式。我觉得它是一个非常强化学习。而且它有意思的地方是在于，如果对面是个人，那么人一定有partial或者hidden information。就是很多时候大家去做指令，遵从是假设的指令，讲完了所有事情，但是大部分骑手其实不是，对吧？所以你才有交互，才需要决策。因为你需要去猜人是想什么，有什么信息可以去问。所以这个其实像因为我过去做泛化性，做多智能体学习，可能在这条线上这是我最感兴趣的问题。短期其实我们就是在做追赶的问题，对吧？因为我们首先得先追上，主干skating law能顶上来才有后面技术路线的选择，毕竟是个起步比较晚的团队。
+</p>
+<p class="transcript-line">
+<span class="time"><strong>[01:02:46]</strong> </span>
+<span class="speaker"><strong>发言人2: </strong></span>
+你说追赶是说你们团队在追赶。
+</p>
+<p class="transcript-line">
+<span class="time"><strong>[01:02:49]</strong> </span>
+<span class="speaker"><strong>发言人1: </strong></span>
+对，追赶世界一流。
+</p>
+<p class="transcript-line">
+<span class="time"><strong>[01:02:51]</strong> </span>
+<span class="speaker"><strong>发言人2: </strong></span>
+对，我们一直都觉得说，比如之前两年我们总讲说玉群店国内还是对，至少比海外晚个一两年对吧？现在在慢慢在追上。对，所以你觉得好学习这件事情，现在国内跟海外的进展的区别。
+</p>
+<p class="transcript-line">
+<span class="time"><strong>[01:03:04]</strong> </span>
+<span class="speaker"><strong>发言人1: </strong></span>
+大概是怎么样？至少你能看到明显的差距。我举个例子，比如说OpenAI和cloud特别明显，他没有在强化学习环眼镜里面大规模训练agent的能力。Cloud那个模型sonnet肯定是强化学习出来的。
+</p>
+<p class="transcript-line">
+<span class="time"><strong>[01:03:20]</strong> </span>
+<span class="speaker"><strong>发言人1: </strong></span>
+然后open a deep research，不是他已经说了，它就是那国内似乎还我不知道deep sick做成什么样了，至少我们从放出来的东西来看，至少我们看这里面是有gap的。大家就是推理做的还都可以，对吧？单做代码做的也都还可以。但是你说做到那么细，那还是有差距的。而且这里面也有很多算法探索的东西。所以我个人因为我其实三月份GDC我也去了一趟，跟美国的朋友们也get up一下。我还是觉得美国还是比较领先的，尤其这种探索性的东西，国内是追，但是到底差多少，这个我不能随便下判断明白。
+</p>
+<p class="transcript-line">
+<span class="time"><strong>[01:03:57]</strong> </span>
+<span class="speaker"><strong>发言人2: </strong></span>
+如果按你讲的，就是我们把模型的效果等于一个retraining乘以post training，或者说理解乘以决策。我是不是能理解成现在其实retraining也是有差距，POS training也是有差距，只是deep seek在post trading上走得更前了一步。
+</p>
+<p class="transcript-line">
+<span class="time"><strong>[01:04:11]</strong> </span>
+<span class="speaker"><strong>发言人1: </strong></span>
+它其实技术模型也很好。但是你要注意到deep sik一直没有做多模态e，deep sik也是一个非常专注的团队，所以deep sik我还是很佩服他的事情。就是一个小的团队在有限的资源下，他把一件事情做到极致。所以这个可能也是open I开始slow down的原因，因为它变成google了。对我觉得它现在特别像google。对，但是google你说他目标明确的时候，他做的东西也挺好。是对。
+</p>
+<p class="transcript-line">
+<span class="time"><strong>[01:04:36]</strong> </span>
+<span class="speaker"><strong>发言人2: </strong></span>
+所以反正总体而言其实差距还是在的对。
+</p>
+<p class="transcript-line">
+<span class="time"><strong>[01:04:40]</strong> </span>
+<span class="speaker"><strong>发言人1: </strong></span>
+但是我觉得对他就是谨慎乐观。哼然后。
+</p>
+<p class="transcript-line">
+<span class="time"><strong>[01:04:43]</strong> </span>
+<span class="speaker"><strong>发言人2: </strong></span>
+关于你觉得有没有什么是你比较认同，或者你觉得目前行业里面是有些错误的判断或者共识的东西呢？
+</p>
+<p class="transcript-line">
+<span class="time"><strong>[01:04:51]</strong> </span>
+<span class="speaker"><strong>发言人1: </strong></span>
+我觉得其实大家可能没有意识到，就是阿瑶的数据，阿瑶的基建非常重要。数据大于算法。我觉得基建远大于所有基建。
+</p>
+<p class="transcript-line">
+<span class="time"><strong>[01:05:02]</strong> </span>
+<span class="speaker"><strong>发言人2: </strong></span>
+就是指的是你们做的框架。
+</p>
+<p class="transcript-line">
+<span class="time"><strong>[01:05:03]</strong> </span>
+<span class="speaker"><strong>发言人1: </strong></span>
+对，框架就是当你有屠龙刀了然刀能比较锋利了，这个基建是非常难的。而且基建需要有能做工程的算法同学去做。因为这个东西最后是个复杂系统，它是为算法服务的。
+</p>
+<p class="transcript-line">
+<span class="time"><strong>[01:05:19]</strong> </span>
+<span class="speaker"><strong>发言人1: </strong></span>
+所以这个其实要破除很多概念，就是很多人觉得工程是工程，算法是算法，强化学习真的不行。因为你很难标准化去定义我要什么。所以有一个好的基建是非常难的，而且需要很多时间打磨的。然后它远远比算法本身重要。当你有一个团队能搭出个贼牛逼的基建的时候，他算法不会做的差的。其实DBC也证明了这件事情，然后它数据也很好。
+</p>
+<p class="transcript-line">
+<span class="time"><strong>[01:05:46]</strong> </span>
+<span class="speaker"><strong>发言人1: </strong></span>
+很多人会觉得强化学习听起来好算法的一个东西，是不是还能用预训练的方式去想这个数据？但我觉得它其实是一个小范围的共识，但只是需要被人听到。就是基建非常重要，数据重要，算法重要，但不那么关键。就是算法你只要有一两个能判断对错的人就可以了。
+</p>
+<p class="transcript-line">
+<span class="time"><strong>[01:06:06]</strong> </span>
+<span class="speaker"><strong>发言人2: </strong></span>
+明白，我最后一个问题，还是回到你刚才讲的人生的一个问题。它很像是研究各种决策，研究各种路径方法等等。你觉得你在这么多年研究强化学习，有没有其中的一些点是能够泛化到人生这件事上，是给你很多启发，或者你能够用在一些决策上的点，各种算把各种paper里面研究的东西，这些是不是其实放在人身上做决策也会有些参照性的。
+</p>
+<p class="transcript-line">
+<span class="time"><strong>[01:06:34]</strong> </span>
+<span class="speaker"><strong>发言人1: </strong></span>
+就是我做强化学习有一套我很喜欢的论文，但它其实没什么引用，叫diversity driven reinforcement。Early传统强化学习其实我只要赢，所以你会发现强化学习打游戏，他一旦发现那个赢的策略之后，他就在哪儿，我就不停的打。比如说我要踢足球，我中路一个人带球单刀，我赢了之后我就会每次都这么单刀，这是最efficient的，最稳定能赢的方法。但是你会发现人一般玩游戏的实际上不是这样。你会想我玩的我腻了，再给我换一个，我要短传渗透，我要传中国投球，这个是人生的样子。所以我觉得diversity这件事很有意思。因为其实人之所以为人，是因为有不同的人他有diversity driven，就是我一定要跟你不一样这件事情才导致了大家有各种不一样的生活，不用那样的决策。
+</p>
+<p class="transcript-line">
+<span class="time"><strong>[01:07:20]</strong> </span>
+<span class="speaker"><strong>发言人2: </strong></span>
+对，我们之前录过一期德芙主题的博客。那天就在讲说他现在发现最好的牌手越来越趋同，就是大家都学AI对，然后这个游戏就变得没有意思就没有意思了。
+</p>
+<p class="transcript-line">
+<span class="time"><strong>[01:07:33]</strong> </span>
+<span class="speaker"><strong>发言人1: </strong></span>
+对，所以我很喜欢那个系列的工作，就是你发现你就是让一个AI在强化学习的时候，你加一个constraint，就说不光你要reward要高，还要跟之前你找到的所有solution都不一样。然后你会发现很自然的就会推动这个模型，去发现一些很好玩的东西，虽然你也不知道有什么用，对吧？所以我其实想跟大家讲的是我发现其实现在的很多同学也都喜欢去一个风险最低的路径。因为跟很多学生聊，他们老说老师我去美国，我有签证风险，我要保研。保研是一个稳妥的选择，我要怎么样。我觉得人生还是要追求高尚的一个过程。我觉得很多我的学生是20岁的年纪，我觉得是大家做所有的事情都是对的，但是你只有去选。就比如说我觉得我确实运气很好，我当时在博客里读书，但是如果我不去敲Peter的门，我不会有机会去选。就像我当时我不回国选择来看一看，我不会我后来的各种人生的经历。所以我倒会觉得这里可能会建议大家可能可以想想diversity driven reinforcement，可能去追求最大熵的生活。
+</p>
+<p class="transcript-line">
+<span class="time"><strong>[01:08:45]</strong> </span>
+<span class="speaker"><strong>发言人2: </strong></span>
+强化学习是怎么选的呢？
+</p>
+<p class="transcript-line">
+<span class="time"><strong>[01:08:46]</strong> </span>
+<span class="speaker"><strong>发言人1: </strong></span>
+强化学习它在仿真世界里面不会出错，就是不是因为。
+</p>
+<p class="transcript-line">
+<span class="time"><strong>[01:08:49]</strong> </span>
+<span class="speaker"><strong>发言人2: </strong></span>
+强化学习它理论上来说它是无限次的。
+</p>
+<p class="transcript-line">
+<span class="time"><strong>[01:08:52]</strong> </span>
+<span class="speaker"><strong>发言人1: </strong></span>
+对它可以无限次的。但是我是觉得即使你在一个很强的限制条件下，就像你打牌，你别一般也不会怎么样。
+</p>
+<p class="transcript-line">
+<span class="time"><strong>[01:09:01]</strong> </span>
+<span class="speaker"><strong>发言人2: </strong></span>
+对，但我觉得问题是无限次，所以他可以是所有选择。对，所以他不会有一个情绪叫做后悔。人经常有这种情绪叫后悔。就是只要你没选的东西你就会后悔，你就觉得那可能更好。
+</p>
+<p class="transcript-line">
+<span class="time"><strong>[01:09:12]</strong> </span>
+<span class="speaker"><strong>发言人1: </strong></span>
+对，所以我昨天还跟我老婆在聊，就是当你选择之后，其实期望是变高的那你的vance也变大了。如果你只看期望是大概率会变高，但只是它有很小的概率你会变差。大家因为恐惧这个变差，所以导致大家不愿意去选。所以我觉得这事是一件蛮遗憾的事情，是因为差其实大家差不到哪里去。但是你如果不选，你永远不会去explore的膜。就像你在阿瑶里面，在一个local optimal里出不来，出去跳一跳，大不了再跳回来。其实我觉得人生只有一次，其实也不是我觉得人生怎么着也能选个三四次。
+</p>
+<p class="transcript-line">
+<span class="time"><strong>[01:09:49]</strong> </span>
+<span class="speaker"><strong>发言人2: </strong></span>
+然后reward这件事情我也想再跟你探讨一下。就是你刚才提到的说其实人很容易说我这段时间奋斗最后发现我那个目标或者那个东西不是我想要的。对，在深度学习里面会遇到类似的问题吗？就是你中途比如改reward还是怎么样呢？
+</p>
+<p class="transcript-line">
+<span class="time"><strong>[01:10:04]</strong> </span>
+<span class="speaker"><strong>发言人1: </strong></span>
+会有一些参照吗？我觉得这也是我喜欢的一些研究，就是传统的深度学习或者强化学都不是。大家做算法的同学都希望这个问题提示formulate的非常标准。我知道这个objective是什么，但因为我做多智能体学习，我做人机合作的那你跟人一起玩游戏不会，就比如说我们当时跟人做一个什么overcook的游戏，一起玩厨房做菜，所以我们就希望那个AI能够猜人想干嘛，就跟人合作。所以其实这个东西是一个information seeking的过程，就是你只有去试了有交互你才有signal，你才能知道那个reward是什么，对吧？你要是不看你永远不知道他report的是啥。所以跟一个不确定的世界交互，一定要去active seek，你才能看清。
+</p>
+<p class="transcript-line">
+<span class="time"><strong>[01:10:53]</strong> </span>
+<span class="speaker"><strong>发言人2: </strong></span>
+对，就是有的时候不是我一直找到目标再去做，而是做的过程当中在找目标。是这样的。
+</p>
+<p class="transcript-line">
+<span class="time"><strong>[01:10:58]</strong> </span>
+<span class="speaker"><strong>发言人1: </strong></span>
+因为不可能想清楚。就是我觉得我读书的时候还说大家判断未来只能判断三年。我觉得现在判断未来最多一年半，对吧？
+</p>
+<p class="transcript-line">
+<span class="time"><strong>[01:11:06]</strong> </span>
+<span class="speaker"><strong>发言人2: </strong></span>
+挺厉害的，我一年半已经挺厉害了。对，因为你真的你现在回头想一年半之前的那个大模型那些事情。
+</p>
+<p class="transcript-line">
+<span class="time"><strong>[01:11:12]</strong> </span>
+<span class="speaker"><strong>发言人1: </strong></span>
+我老劝我那些学生，然后我那些学生就会说我先读个博，读个博再怎么样。我说哇靠你读完博六年过去了，我的天哪，你做这个预测有什么意义呢？对，但是我觉得很多人可能就希望是这样，但是可能是一厢情愿。
+</p>
+<p class="transcript-line">
+<span class="time"><strong>[01:11:29]</strong> </span>
+<span class="speaker"><strong>发言人2: </strong></span>
+OK. 最后再来讲一下你们那个框架。再来宣传一个。
+</p>
+<p class="transcript-line">
+<span class="time"><strong>[01:11:33]</strong> </span>
+<span class="speaker"><strong>发言人1: </strong></span>
+我们最近开源了一个框架叫a real，然后我们这其实是a real的第二个版本叫a real包，就是一杯真正的珍珠奶茶。但它全称是and reasoning reinforcement learning，是一个我们跟蚂蚁研究院一起做的一个强化学习训练框架。然后我们要把它开源出来，基本上自己测下来，应该是开源里面非常快的一个框架。同时我们也把所有的源代码、所有的数据、所有的模型、所有的评测脚本都开放出来。然后我们也在7B的尺寸上是用强化学习做到了一个sota的标准。我们应该是第一次我觉得公开汇报在7B模型上，在AME24做到60以上的一个挺高的一个分数。所以我们也觉得这个框架也算还不错。然后也确实开源了之后，我们也希望有更多的人，如果想要强化学习做尝试的话，可以来尝试一下我们这个框架，也可以来关注我们这个项目。然后我们后面也会持续的发布，跟蚂蚁一块儿，大家都是一个完全开源的状态。
+</p>
+<p class="transcript-line">
+<span class="time"><strong>[01:12:35]</strong> </span>
+<span class="speaker"><strong>发言人2: </strong></span>
+然后欢迎大家去github点赞。
+</p>
+<p class="transcript-line">
+<span class="time"><strong>[01:12:37]</strong> </span>
+<span class="speaker"><strong>发言人1: </strong></span>
+对，谢谢谢好。
+</p>
+<p class="transcript-line">
+<span class="time"><strong>[01:12:39]</strong> </span>
+<span class="speaker"><strong>发言人2: </strong></span>
+谢谢。
+</p>]]></content:encoded>
+            <pubDate>Sat, 05 Apr 2025 14:00:00 GMT</pubDate>
+            <guid>67efcaf5f9578163d601286a</guid>
+        </item>
         <item>
             <title>世界怎么就「东升西落」了？聊聊二级市场与 DeepSeek+Manus 的热潮｜对谈莫傑麟</title>
             <link>https://www.xiaoyuzhoufm.com/episode/67de36c4dd11f9c8c150b8f0</link>
@@ -29577,1030 +30968,6 @@ Texture就是文字到一个文字贴图的对对，texture这其实就很说明
 </p>]]></content:encoded>
             <pubDate>Sat, 16 Dec 2023 16:00:00 GMT</pubDate>
             <guid>657d446d3d5d24e9cb3a6b86</guid>
-        </item>
-        <item>
-            <title>为什么我们开始乐观？关于经济发展的明线暗线、AI 与最佳实践 | 对谈莫傑麟</title>
-            <link>https://www.xiaoyuzhoufm.com/episode/656aeffd0500be931c4eb099</link>
-            <description>其实我一直都挺乐观的。但今年有太多人倾向于悲观，有太多人对未来持消极的态度，但我一直都觉得悲观是最没有用的，悲观能怎样呢，能化为什么行动吗，能改变什么现实吗，如果都不能，那为什么不乐观一些呢？尤其是我们都知道最伟大的公司都是从周期底部成长起来的，我们也知道市场最悲观的时候就是抄底的时候，我们还知道如果一个人或一件事处于谷底，那不管你像哪个方向走，只要动起来就都是在上升。
-所以，我一直觉得自己有一种使命感，就是要让身边的人也都乐观起来，但这件事只凭口头呼吁肯定是不够的，还得有理有据才行，所以这期我们就请到了我身边这个同样乐观的好朋友，而且他的乐观是基于他多年对全球一二级市场和各种资产的实际观察分析和交易经验得来的，何况他还提到了他们当下确实在为乐观而付出体力或金钱上的行动。
-在这期播客中，我们聊到了现在市场到底在发生什么，什么变了、什么没变，为什么大家其实不是悲观而是消极，为什么我们认为目前市场处于底部，我们是如何用库存、明线、暗线等方式去判断市场机会的，以及我们也谈到了 AI 这件事为什么会是未来一个重要的方向和希望。
-正如这期播客结尾所说，我真心觉得年轻人没有悲观的本钱，我也真心希望你听完这期播客能够乐观起来，下次再和朋友聊起来，也可以和他说，你看我们应该更乐观一些的，不信？你可以去听一下42章经的那期播客……
-【人类博物馆】
-导游：曲凯，42章经创始人
-九号珍藏：莫傑麟，家族办公室资深从业者
-【时光机】
-Part 1 悲观与乐观
-* 00:46 你对未来是乐观还是悲观？
-* 02:16 大家情绪上悲观，但行动上反而更拼了
-* 3:17 未来不是没有回报了，而是回报的反馈周期变长了
-Part 2 时代的乐观指数：ROE (净资产回报率)
-* 4:37 公式： ROE = 毛利 × 杠杆倍数 × 周转率
-* 5:26 行业拆解①：房地产的 ROE
-* 6:31 行业拆解②：作为个体的 ROE
-* 9:35 行业拆解③：互联网的 ROE
-* 11:33 新时代的范式迁移：低毛利→高毛利
-Part 3 经济发展的明线与暗线
-* 16:03 明线：新的产业趋势与发展机会
-* 16:22 暗线：宏观政策、经济周期等个体只能认知，无法改变的因子
-* 22:48 做事情最好的节点不是拐点到来的那一刻，而是预期拐点将要来的那一刻
-* 23:49 暗线展望：去库存接近尾声，积蓄的问题在稳步消解
-* 25:59 明线展望：AI 未来可期
-Part 4 美国的 AI 市场观察
-* 28:40 美国对 AI 的信念感极其强烈
-* 32:20 从模型数据来看，中国的可利用数据其实比美国要好
-* 35:15 美国的一二级市场近些年有哪些变化？
-Part 5 寻找最佳实践
-* 35:56 乐观背后的行动是什么？如何为拐点做准备？
-* 39:13 最佳实践的概念
-* 45:38 年轻人不具备悲观的本钱
-【The gang that made this happen】
-* 制作人：Celia
-* 剪辑：思娜
-* 片头 bgm：Mondo Bongo - Joe Strummer &amp; The Mescaleros
-最后，我们的 AI 私董会也在持续报名中，目前已经聚集了一批市场上最好的 AI 创始人，欢迎点击链接报名（里面也有目前已加入的成员名单，可点击查看）
-傑麟 (左)、我与万年不变的我家沙发</description>
-            <content:encoded><![CDATA[<h1>转写链接</h1>
-<link>https://tongyi.aliyun.com/efficiency/doc/transcripts/82xz94v657339m6v</link><br>
-<h1>节目摘要</h1>
-<div class="summary">在当前经济环境下，讨论者深入探讨了悲观与乐观情绪对投资和创业决策的影响，指出宏观经济变化、行业趋势和技术发展，尤其是人工智能AI，为寻找新机会和应对挑战提供了视角。尽管存在不确定性，建立个人投资框架、紧跟技术进步步伐被视为成功的关键。全球市场动态、资本流动以及不同经济体的挑战与机遇也被提及，特别强调了中国在AI领域的潜在领先地位。整体上，对话持相对乐观态度，强调创新和持续学习的重要性，认为通过适应性调整，可在未来找到成功的机会。</div><br>
-<h1>章节速览</h1>
-<div class="chapters">
-<div class="chapter-item">
-<span class="time"><strong>[00:00:00]</strong> </span>
-<span class="chapter-title"><strong>探讨市场悲观与乐观态度</strong></span>
-<div class="chapter-summary">讨论集中在市场投资的悲观与乐观态度上。一位嘉宾分享了他对市场的乐观看法，认为虽然当前存在诸多问题，但对未来发展持谨慎乐观态度。他认为，作为投资者，应该保持积极心态，因为积极主动的行动更有助于实现目标。他还指出，一些基金的管理者表达悲观观点可能与他们赚取乐观投资收益的初衷相悖。此外，讨论还涉及了认知与行动之间的重要性，强调了即使在面临挑战时也要保持积极态度，并通过实际行动来寻求改善和反馈，避免因缺乏正向反馈而陷入消极。</div>
-</div>
-<div class="chapter-item">
-<span class="time"><strong>[00:03:03]</strong> </span>
-<span class="chapter-title"><strong>应对阶级固化与市场变化的策略</strong></span>
-<div class="chapter-summary">在面对阶级固化和社会、市场变化时，个体常感到努力无望，认为自己没有上升的空间。然而，通过建立自我反馈体系，可以改变这一心态。自我反馈机制允许个体在外界反馈减少、市场不景气时，依然能够自我激励，持续进步。举例来说，AI领域虽然被看作是当前的风口，但成功前需经历长时间的积累和努力。对乐观与悲观态度的转变，可以通过计算投资回报率（OE）的公式来理解，即通过分析毛利、杠杆和周转次数三个关键因素，来判断一个行动或投资的乐观或悲观程度。这提示我们，认知到反馈时间的延长，并通过建立正向反馈和自我激励的机制，是保持积极态度、应对挑战的关键。</div>
-</div>
-<div class="chapter-item">
-<span class="time"><strong>[00:05:25]</strong> </span>
-<span class="chapter-title"><strong>中国地产行业的发展与变化</strong></span>
-<div class="chapter-summary">过去20年，中国地产行业通过高杠杆和快速周转实现了快速增长，成为推动GDP增长的重要力量。然而，随着城镇化率接近市场饱和和出生率下降，加上政策调控导致的去杠杆化，行业面临着增长放缓和回报下降的挑战。个人和投资者也感受到了杠杆减少和投资机会减少的影响，标志着行业进入了一个新的发展阶段。</div>
-</div>
-<div class="chapter-item">
-<span class="time"><strong>[00:09:26]</strong> </span>
-<span class="chapter-title"><strong>互联网公司增速放缓及影响分析</strong></span>
-<div class="chapter-summary">互联网公司近年来的业绩依然亮眼，表现出高毛利率和稳健的商业模式，尽管扩张速度减缓。这种情形与美国科技公司类似，尽管裁员，财报表现良好。互联网企业凭借其商业模式、规模和网络效应，展现出较强的防守性。然而，国内互联网企业增速下降，尽管仍保持盈利，利润并未充分反映在员工收入上。此外，为提高利润，公司可能压缩成本，包括裁员。整个行业面临宏观经济发展放缓的挑战，人们对未来持悲观态度。</div>
-</div>
-<div class="chapter-item">
-<span class="time"><strong>[00:11:34]</strong> </span>
-<span class="chapter-title"><strong>适应模式转变，追求高附加值产业</strong></span>
-<div class="chapter-summary">在当前经济环境下，许多行业和投资领域的模式正在发生结构性变化。这一现象要求企业和投资者不仅要识别并适应这些变化，而且要向高附加值产业转型，如智能制造，以提高毛利率。以往通过复制海外模式并加速周转速度来实现回报的方式已经不够。现在更加强调创新和创造具有高毛利的产品或服务，并建立壁垒。同时，需要注意的是高毛利与高周转难以兼得，美国的经验表明，将高毛利的活动（如芯片设计）保留在国内，而将低周转的部分转移给其他国家。这一策略显示了对于追求高附加值经济模式的重视，企业和投资者需要找到方法来提升毛利率，哪怕只是略微提高。</div>
-</div>
-<div class="chapter-item">
-<span class="time"><strong>[00:13:49]</strong> </span>
-<span class="chapter-title"><strong>追求高毛利与创新的商业策略</strong></span>
-<div class="chapter-summary">过去的商业策略着重于低毛利高周转和高杠杆，追求规模效应，但这种方式导致了高工作强度和持续亏损。未来的商业趋势可能转向追求高毛利，即使是在有限的地区或领域内开展业务也能实现盈利。强调了科技公司通过研发投入和建立独特的反馈指标，实现高毛利和市场独占性的潜力。同时，比较了不同公司如联想和特斯拉的商业模式，突出了反馈指标在企业战略中的重要性以及耐心和技术创新的必要性。</div>
-</div>
-<div class="chapter-item">
-<span class="time"><strong>[00:16:02]</strong> </span>
-<span class="chapter-title"><strong>探讨经济周期中的明线与暗线</strong></span>
-<div class="chapter-summary">对话深入分析了经济周期中的明线与暗线，其中明线指的是创造新的产业趋势和产品，代表着新的经济增长点；暗线则指这些创新背后的基础条件，如宏观经济政策、资金储备、地缘政治冲突等，这些因素构成经济发展的基本框架。特别指出，暗线问题需要时间去化解，强调了周期性问题的本质逻辑是时间。同时，讨论了当前暗线状况，关注于是否会出现突破水位线的事件，以及如何评估当前经济周期的持续时间。</div>
-</div>
-<div class="chapter-item">
-<span class="time"><strong>[00:19:07]</strong> </span>
-<span class="chapter-title"><strong>中国经济发展与外资流动分析</strong></span>
-<div class="chapter-summary">讨论首先指出，城投债问题已经得到积极处理，不再是主要问题。房地产市场受情绪影响，需求恢复缓慢，但政府机构如深圳市国资委表示将兜底，显示出市场对突破困难的信心。接着，讨论转向外资流出问题，指出美元加息使得外资追求稳定收益，暂时减少对新兴市场的投资。然而，中国经济增速和质量被看好，预示着未来外资有望回流。最后，指出中国目前处于去库存周期，经济调整正在进行中。</div>
-</div>
-<div class="chapter-item">
-<span class="time"><strong>[00:22:04]</strong> </span>
-<span class="chapter-title"><strong>预测市场拐点与投资机遇</strong></span>
-<div class="chapter-summary">对话内容涉及大宗商品库存、美元加息周期及市场预期对投资的影响。讨论重点在于如何通过观察市场信号（如库存水平和货币政策变化）来预测市场的拐点，从而把握投资机会。特别提到了在预期到市场拐点时进行投资的重要性，并以英伟达的案例和过去两年美国的经济刺激措施对股市的影响为例，说明了在拐点来临前布局的策略。最后，探讨了未来一年基于当前宏观经济环境的变化和可能的投资机会。</div>
-</div>
-<div class="chapter-item">
-<span class="time"><strong>[00:24:01]</strong> </span>
-<span class="chapter-title"><strong>全球经济趋势与AI产业展望</strong></span>
-<div class="chapter-summary">讨论集中在两个主要变化上：一是担忧中的美国硬着陆问题及其全球经济复苏的可能性将趋于平稳，这一过程被称为估值修复，完成时间因地区而异。二是美国和中国共同关注的产业趋势，即AI主线的发展，在未来12个月内将进入所谓的揭牌期。此外，还提到市场对于确定性的追求及产业趋势可能带来的变革，强调了对于投资者和创业者来说，了解和准备参与这些变化的重要性。特别指出，如果AI继续以当前速度发展，可能会产生新的经济增长点，打破旧有模式，从而对于投资决策有着重大影响。</div>
-</div>
-<div class="chapter-item">
-<span class="time"><strong>[00:27:02]</strong> </span>
-<span class="chapter-title"><strong>探讨人工智能对未来经济的影响及发展趋势</strong></span>
-<div class="chapter-summary">对话内容涉及了人工智能（AI）及其相关技术对宏观经济的影响，以及AI领域内的发展和预期。一方面，技术的不确定性与日俱增的影响力被讨论，特别是在解决通胀等问题上的潜在能力。另一方面，讨论指出AI技术的发展速度和应用范围似乎落后于预期，特别是在企业采用方面，但对AI的信仰和投入并未减弱，人们相信随着技术的进步，尤其是通过增加模型长度和算力，能够加速产品市场匹配（PMF）的实现。此外，对于中美两国在AI领域的进展进行了对比分析，指出尽管起初担忧中国在模型进展上可能落后，但通过加大算力和芯片投入，成功缩短了与美国的差距。</div>
-</div>
-<div class="chapter-item">
-<span class="time"><strong>[00:30:26]</strong> </span>
-<span class="chapter-title"><strong>中美AI产业发展及商业模式比较</strong></span>
-<div class="chapter-summary">讨论集中在中美两国AI产业的发展、商业模式的差异以及对未来技术落地的预期。一方面，美国AI产业信仰不断增强，注重模型的持续投入和从0到1场景的建立，商业模式主要依赖API；而中国则倾向于端到端一体化服务，寻求模型与数据场景的紧密结合。特别关注模型长度进展、算力成本下降、关注重点公司及商业模式。美国的数据质量和场景应用在特定条件下可能不如中国，因为中国在to C领域有更多成功案例和数据应用场景。最后，对AI产业整体持乐观态度，并积极准备相关投资方向。</div>
-</div>
-<div class="chapter-item">
-<span class="time"><strong>[00:36:25]</strong> </span>
-<span class="chapter-title"><strong>信息处理与投资策略的演变</strong></span>
-<div class="chapter-summary">对话内容涉及性噪比在信息处理中的重要性，强调了在处理信息时必然产生噪音和有用信息，但当性噪比过低，信息的价值就会低于接受的阈值。讨论了投资领域对行业头部投资的关注，以及如何在信息爆炸的时代降低对性价比的要求以处理更多信息。强调了暴露风险、理解未知和把握产业趋势的重要性。同时，指出在行业和职业发展中，人们越来越卷，准备和研究工作变得更加深入和专业，强调了提前准备和把握拐点的重要性，避免成为接盘侠。整体上，对话反映了信息处理、投资策略以及职业发展等方面的变化和挑战。</div>
-</div>
-<div class="chapter-item">
-<span class="time"><strong>[00:39:13]</strong> </span>
-<span class="chapter-title"><strong>探讨创投行业的未来趋势和最佳实践</strong></span>
-<div class="chapter-summary">在投资领域，过去的观点认为某些商业模式或位置具有天然优势。然而，随着周期的更替，可能会出现某些人通过不同做法脱颖而出，而不一定是依赖于新的商业模式。过去二十年，融资能力逐渐成为衡量一个项目或投资者成功与否的重要标准。未来，评价标准可能会转向是否能提升整个行业的实践标准，特别是在创投领域，最佳实践的定义和实施成为关注焦点。讨论还涉及到结构性变化对经济和创投行业的影响，以及质量需求的增加对创投行业提出了新的要求。最后，讨论指出，创投行业的下一个兴奋点可能来自于寻找和实施新的最佳实践，特别是那些能显著提高行业标准和效率的做法。</div>
-</div>
-<div class="chapter-item">
-<span class="time"><strong>[00:43:14]</strong> </span>
-<span class="chapter-title"><strong>应对投资和创业的周期性挑战</strong></span>
-<div class="chapter-summary">在投资和创业领域，目前处于去库存周期的末期，导致市场上存在不确定性，引起人们的困惑而非彻底的悲观。面对这种困惑，强调了建立坚定信念和自我体系的重要性，不应过度依赖外部反馈。提到了准确度在现今投资中的重要性，并以Elon Musk的XAI项目为例，说明了准确识别行业需求和人才的重要性。同时，建议创业者和投资人应更加注重对行业范式的理解和把握，通过总结、演绎来提高自身定位的准确性。还提到，尽管中国在某些领域的信息通畅程度不如其他国家，但应努力从更高的起点开始迭代。最后，强调了年轻一代面对行业周期应保持乐观态度，历史证明底部会诞生最优秀的企业。</div>
-</div>
-</div><br>
-<h1>问题回顾</h1>
-<div class="qa-item">
-<div class="question"><strong>Q:</strong> 你对当前整个市场是持乐观态度还是悲观态度？</div>
-<div class="answer"><strong>A:</strong> 我比较乐观，但这是一个综合的看法。对未来的预期是慢慢乐观起来，对过去和现在则需面对一些问题，需要时间去解决和消化。</div>
-</div>
-<div class="qa-item">
-<div class="question"><strong>Q:</strong> 对于现在一些基金GP表达悲观看法的现象，你怎么看？</div>
-<div class="answer"><strong>A:</strong> 我认为他们的心态可能受制于基金赚钱的本质，如果自身悲观，LP为何还要投资给他们？不过，这简化了逻辑，但从某种角度看是有道理的。职业角度上，乐观的心态有助于成功完成投资动作，但并非盲目乐观，而是偏向积极。</div>
-</div>
-<div class="qa-item">
-<div class="question"><strong>Q:</strong> 那些看似悲观但实际上行动上并未明显改变的人，是什么原因？</div>
-<div class="answer"><strong>A:</strong> 这类人可能行为上还保持积极，但由于没有得到及时反馈，导致意识上变得消极。他们可能需要建立自己的体系来获取反馈感，若认知不清楚，就可能逐渐变得消极甚至躺平。</div>
-</div>
-<div class="qa-item">
-<div class="question"><strong>Q:</strong> 对于建立正反馈以让自己更积极起来，有何建议？</div>
-<div class="answer"><strong>A:</strong> 首先，要认知到当前反馈时间可能拉长，并理解过去乐观的原因以及现在变化为何让人感到悲观。此外，可以借鉴CFA中的资产回报率公式（OE=毛利×杠杆×周转次数）来直观判断乐观或悲观。</div>
-</div>
-<div class="qa-item">
-<div class="question"><strong>Q:</strong> 为什么过去地产行业容易让人感觉乐观？</div>
-<div class="answer"><strong>A:</strong> 地产行业的毛利率虽不高，但由于商业模式简单稳定，能快速加杠杆并实现周转率的提升，从而获得较高的整体回报率。然而，随着城镇化率饱和、出生率下降以及政策监管加强，地产行业已进入高周转、高杠杆模式的调整期，整体投入回报呈现下降趋势。</div>
-</div>
-<div class="qa-item">
-<div class="question"><strong>Q:</strong> 增速变慢对互联网公司的影响如何？</div>
-<div class="answer"><strong>A:</strong> 增速变慢对于互联网公司来说也很让人难受，尽管它们的业绩整体上仍然保持不错，毛利率较高且商业模式相对稳定。但当增速放缓时，扩张速度减缓意味着在当前商业模式下，虽然能稳定赚钱，但增速的下降可能会让投资者或内部人员感到不安。</div>
-</div>
-<div class="qa-item">
-<div class="question"><strong>Q:</strong> 为什么国内很多互联网公司的状况似乎不如之前好？</div>
-<div class="answer"><strong>A:</strong> 国内一些互联网公司在增速下降的同时仍能维持盈利，但这些利润并未明显反映到互联网打工族身上。这主要是由于为了提高利润而压缩成本，导致一些人力成本较高的个体被削减。</div>
-</div>
-<div class="qa-item">
-<div class="question"><strong>Q:</strong> 当前经济环境对各行各业有何影响？</div>
-<div class="answer"><strong>A:</strong> 宏观经济的发展阶段使得许多行业面临市场空间收窄的挑战，比如过去20年地产行业的发展状况以及互联网行业的发展成熟度。在此背景下，悲观情绪合理存在，大家都在适应宏观环境的变化。</div>
-</div>
-<div class="qa-item">
-<div class="question"><strong>Q:</strong> 高附加值产业在经济发展中的重要性体现在哪里？</div>
-<div class="answer"><strong>A:</strong> 高附加值产业如智能制造能通过提高毛利来支持企业逐步加杠杆和提高增速。与以往复制海外模式、依靠加杠杆和加快周转速度实现回报的方式不同，现在更强调创造具有壁垒的产品和高毛利业务，再通过验证毛利后逐步拓展规模。</div>
-</div>
-<div class="qa-item">
-<div class="question"><strong>Q:</strong> 高周转与高毛利之间的关系是什么？在当前环境下，企业应该如何调整经营策略？</div>
-<div class="answer"><strong>A:</strong> 高周转通常对应低毛利，而低周转高毛利相对常见，但两者很难同时拥有高毛利和高周转的特点。美国已经经历了这一过程，将高毛利部分留在国内，如芯片设计，而将低周转部分转移到其他国家。企业应逐步从追求低毛利高周转转向追求高毛利，并通过建立自己的反馈指标和耐心投入研发，发展只有自己能做的高毛利业务，并尝试叠加周转和杠杆。同时，理解并适应宏观经济中的暗线（如资金储备、地缘冲突等深层次因素）对新产业趋势形成的影响。</div>
-</div>
-<div class="qa-item">
-<div class="question"><strong>Q:</strong> 在看周期性行业时，为什么库存是一个重要的观察指标？</div>
-<div class="answer"><strong>A:</strong> 库存是观察周期性行业的重要指标，因为它可以帮助判断库存是否接近底部，以及是否存在突破水位线的风险，比如08年的美国次贷危机就是突破了水位线。目前全球关注的是各大经济体如中国和美国是否会进入恶性硬着陆区域，从资产价格上看，大家普遍认为不会发生这样的情况，而更关心的是经济周期会持续多久。</div>
-</div>
-<div class="qa-item">
-<div class="question"><strong>Q:</strong> 当前中国的问题焦点是什么？</div>
-<div class="answer"><strong>A:</strong> 当前中国的问题焦点主要集中在城投债和房地产硬着陆上。不过，城投债已得到各机构积极处理，不构成问题；房地产方面，虽然需求回升较慢，但有国资委等机构承诺兜底，因此突破水位线的可能性较小。</div>
-</div>
-<div class="qa-item">
-<div class="question"><strong>Q:</strong> 外资流出对中国市场的影响是什么？</div>
-<div class="answer"><strong>A:</strong> 外资流出确实有一定影响，但大家对外资减少投资的理解存在误差，过于主观化。美元加息背景下，外资倾向于持有美元以获取固定收益，但若其他新兴市场出现突破性的增速进展，尤其是中国经济在高质量增速中，一旦美元加息周期结束，外资很可能会重新流入中国市场。</div>
-</div>
-<div class="qa-item">
-<div class="question"><strong>Q:</strong> 对于市场拐点的判断和投资决策的重要性是什么？</div>
-<div class="answer"><strong>A:</strong> 市场拐点对于投资至关重要，最佳的决策时机往往是在预期拐点到来之前。例如，在去年12月时，尽管英伟达库存尚未见底，但市场已预期到未来几个月其库存会逐渐减少，并且AI业务将占据主导地位，提前布局能够捕捉到拐点带来的收益。</div>
-</div>
-<div class="qa-item">
-<div class="question"><strong>Q:</strong> 未来一年基于暗线和宏观市场变化，哪些领域可能会有机会？</div>
-<div class="answer"><strong>A:</strong> 未来一年，几个大型经济体将趋向平稳，带来估值修复的机会；同时，产业趋势尤其是AI主线将在接下来12个月内进入一个较为精彩的阶段，叠加经济复苏的背景，将对投资和创业决策产生重大影响。此外，虽然现在市场追求确定性，但在某些情况下，追求不确定性（upset）和寻找新的增长点同样重要，尤其是当技术发展如AI等带来的变革无法预估其最终上限时，它们将深刻影响未来的市场格局。</div>
-</div>
-<div class="qa-item">
-<div class="question"><strong>Q:</strong> 对于AI在国内和国外的发展，你认为AI作为产业趋势所创造的市场空间是否比其他高科技先进制造领域更大？</div>
-<div class="answer"><strong>A:</strong> 我觉得AI大概率上在创造的市场空间方面是领先的。它影响范围广泛，中美两国都在不计成本地投入AI领域，这背后的原因是技术上的可行性以及其所代表的巨大市场空间。</div>
-</div>
-<div class="qa-item">
-<div class="question"><strong>Q:</strong> 美国在AI领域的发展和进展如何？为什么AI的发展似乎高于预期？</div>
-<div class="answer"><strong>A:</strong> 从应用角度看，美国AI领域的发展落后于市场预期，尤其是在企业采纳度（adoption）上。然而，大家对AI的信念（conviction）并未减弱，反而在增强，各企业在快速积累知识并寻求如何更好地投入和应用AI。这是因为大家相信scaling law仍然成立，即随着模型参数增加，效果会变得更有效。虽然目前不知道具体应用场景，但普遍认为更强大的模型有助于更快找到PMF（产品市场契合点）。</div>
-</div>
-<div class="qa-item">
-<div class="question"><strong>Q:</strong> 中国在AI领域的进展是否也超过预期？</div>
-<div class="answer"><strong>A:</strong> 是的，中国在AI模型方面的进展高于预期，尤其是在模型长度增长带来的效果提升上，比年初时的预期要快很多。</div>
-</div>
-<div class="qa-item">
-<div class="question"><strong>Q:</strong> 对于AI落地的时间预期是什么样的？</div>
-<div class="answer"><strong>A:</strong> 我会关注模型长度的增长、算力的降价、顶尖公司的发展方向以及商业模式等方面。中美两国的商业模式有所不同，美国以API为主要商业模式，而中国倾向于一体化解决方案。</div>
-</div>
-<div class="qa-item">
-<div class="question"><strong>Q:</strong> 是否认为中国在运营和数据场景结合方面的优势会让中国创业公司在AI领域有机会？</div>
-<div class="answer"><strong>A:</strong> 是的，中国在运营和场景整合方面的能力较强，而美国更依赖于模型本身解决问题，较少考虑运营层面的问题。这使得中国创业公司在某些场景下具备竞争优势。</div>
-</div>
-<div class="qa-item">
-<div class="question"><strong>Q:</strong> 数据质量上，美国是否真的比中国更好？</div>
-<div class="answer"><strong>A:</strong> 美国数据质量是否更好存在争议。由于美国对to c投资减少，其高质量数据集的构建不如中国丰富多样，而中国通过to c领域的活跃发展积累了大量数据资源。</div>
-</div>
-<div class="qa-item">
-<div class="question"><strong>Q:</strong> 对于AI整体发展趋势的看法是乐观还是悲观？</div>
-<div class="answer"><strong>A:</strong> 整体上我持乐观态度，因为AI确实能带来效率提升，尤其在中国这样庞大的经济体中，即使微小的效率提升也能产生巨大的经济效益。尽管存在地区差异和不确定性，但对AI领域的发展仍然保持积极展望。</div>
-</div>
-<div class="qa-item">
-<div class="question"><strong>Q:</strong> 你认为当前社会各行业从业者的态度如何？</div>
-<div class="answer"><strong>A:</strong> 我觉得现在大家在工作上更加勤恳、专业和脚踏实地，各行各业都在努力提升自己的专业水平和实际操作能力，这是一个好现象。</div>
-</div>
-<div class="qa-item">
-<div class="question"><strong>Q:</strong> 那么，拐点进来为什么就不行了？</div>
-<div class="answer"><strong>A:</strong> 因为在拐点出现之前，就已经有很多人在做准备工作，建立关系网、研究深入，如果你等到拐点再行动，可能就已经晚了，那时只能成为接盘侠或者新的竞争劣势方。</div>
-</div>
-<div class="qa-item">
-<div class="question"><strong>Q:</strong> 下一个周期中，是否存在某个时刻行业内部会被注水，导致新人成为接盘侠？</div>
-<div class="answer"><strong>A:</strong> 是的，就像一个密度不断增加的球体，在下一个周期杠杆速度起来后可能会被注水，而那些较晚进入的人可能就变成了新的接盘侠或炮灰。</div>
-</div>
-<div class="qa-item">
-<div class="question"><strong>Q:</strong> 投资行业中，未来的评价标准是否会有所改变？</div>
-<div class="answer"><strong>A:</strong> 未来可能会出现更注重最佳实践的变化，而不仅仅是商业模式或融资能力。比如看投资人能否将整个行业的实践提升到最佳水平，这将作为新的评价指标。</div>
-</div>
-<div class="qa-item">
-<div class="question"><strong>Q:</strong> 最佳实践的变化是否会伴随去库存和行业优胜劣汰的过程？</div>
-<div class="answer"><strong>A:</strong> 是的，最佳实践的变化会导致行业内分化，做得好的人会提出更高要求并取得更好结果，而表现不佳的人则会经历去库存和出清阶段，行业将通过这种方式实现自我革新。</div>
-</div>
-<div class="qa-item">
-<div class="question"><strong>Q:</strong> 对于创投行业未来的建议是什么？</div>
-<div class="answer"><strong>A:</strong> 在当前去库存末期阶段，建议创投行业参与者要准确把握投资方向和标的，借鉴其他行业的成功经验和最佳实践，建立自己的体系，避免因短期困扰而自我怀疑，保持积极乐观的态度，并做好迎接新一轮周期的准备。</div>
-</div>
-<div class="qa-item">
-<div class="question"><strong>Q:</strong> 对于创业和投资来说，准确性的重要性体现在哪里？</div>
-<div class="answer"><strong>A:</strong> 准确性在创业和投资中变得至关重要，因为现在我们有能力通过总结、演绎和讨论，更准确地理解行业规律和发展趋势，从而在正确的时机以相对准确的方式进行迭代和创新。</div>
-</div>
-<h1>节目文稿</h1>
-<p class="transcript-line">
-<span class="time"><strong>[00:00:02]</strong> </span>
-<span class="speaker"><strong>发言人1: </strong></span>
-Is something that.
-</p>
-<p class="transcript-line">
-<span class="time"><strong>[00:00:19]</strong> </span>
-<span class="speaker"><strong>发言人2: </strong></span>
-大家好，我们今天请到的嘉宾是莫杰林。他之前最早是做一级市场，然后后来现在是在做一些一二级市场的。所谓的用他自己话讲叫alo tor的角色，对吧？就是分配资金的角色。所以他其实会把资金分配到一二级，也会把资金分配到中美等各个国家，基本就是哪里有钱去哪里，哪里能赚钱去哪里。所以其实他有比较宏观的视角，能看到当下所有的地区和所有资产的情况，然后我们这次请他来，主要就是为了聊一聊当下我们很关注一个话题，叫做悲观和乐观的话题。我看现在其实很多人都在提这个话题，我去跟很多人聊天的时候，大家经常会往比较悲观的方向去引导，所以这个事情是我本人特别不喜欢的一个点。然后莫麒麟正好说你是比较乐观的是吧？对你现在对整个市场也是比较乐观的。
-</p>
-<p class="transcript-line">
-<span class="time"><strong>[00:01:09]</strong> </span>
-<span class="speaker"><strong>发言人1: </strong></span>
-偏乐观。但是它是一个比较综合的事情，比如说你对未来肯定还是偏慢慢乐观起来，你对过去悲观，对现在任何一个地方都有问题需要解决，是需要时间的。那这个东西我定义可能不叫悲观，是需要时间去消化掉一些问题。所以现在我们这个问题还在消化的过程当中。
-</p>
-<p class="transcript-line">
-<span class="time"><strong>[00:01:30]</strong> </span>
-<span class="speaker"><strong>发言人2: </strong></span>
-对我之前我们今年投的一些AI公司的创始人，他提了一个点，就是今年其实好多基金的GP会出来发声，是偏悲观一些看法。包括说有一些人会说不相信AI之类的。他其实提了一个点，我觉得特别有道理。他就觉得他们是不是想不开。因为他们基金本来赚的就是乐观的投资的钱。如果他们自己都悲观的LP为什么要给他们钱？当然这个东西是非常简化的这个逻辑，但我觉得从某个角度来讲是有道理的。
-</p>
-<p class="transcript-line">
-<span class="time"><strong>[00:01:55]</strong> </span>
-<span class="speaker"><strong>发言人1: </strong></span>
-我觉得是因为当你在主动做一个动作的时候，你的心态如果是更乐观的，你才会有可能性把这个事情做成。所以从职业的角度上来讲，他不能是说是盲目乐观，但他一定是偏向于积极的。
-</p>
-<p class="transcript-line">
-<span class="time"><strong>[00:02:09]</strong> </span>
-<span class="speaker"><strong>发言人2: </strong></span>
-对你讲积极这个词我觉得很好啊。有些人他其实也不一定是悲观或者乐观，他有的人就是消极或者积极。我就发现大家出来聊，其实很多人是偏悲观的。但实际落到行动上，我发现他们好像也没有做什么行动，对吧？他也没有说我非常悲观，所以我就把资产都卖掉。他也没有说我非常悲观，我就不努力了，我就不做事情了，吧？
-</p>
-<p class="transcript-line">
-<span class="time"><strong>[00:02:29]</strong> </span>
-<span class="speaker"><strong>发言人2: </strong></span>
-大家还是996或者甚至于是更努力更拼，但我觉得这个就挺有意思，就是他其实没有付诸到行动上。我在想是不是就是因为他行动上更积极的，但是没有很好的反馈，造成他的意识上更消极了。我觉得是对对，就是他的行为还在这个惯性上，他还在更积极。但如果他更积极还是拿不到反馈的话，也许再下一步才是躺平。
-</p>
-<p class="transcript-line">
-<span class="time"><strong>[00:02:52]</strong> </span>
-<span class="speaker"><strong>发言人1: </strong></span>
-是的，或者看他怎么去认知这个事情。认知的清楚的人，他会建立自己的这个体系，自己去找反馈感。如果认知不清楚，他找不到反馈，他就会慢慢的躺平。
-</p>
-<p class="transcript-line">
-<span class="time"><strong>[00:03:03]</strong> </span>
-<span class="speaker"><strong>发言人2: </strong></span>
-对，就是大家所谓的比如说觉得阶级固化了，他就不往上走了。他觉得自己没有希望了，再努力也没有用了，他就认命了。但你刚才讲的一点，你说他要自己建立一个体系给自己反馈是怎么讲？
-</p>
-<p class="transcript-line">
-<span class="time"><strong>[00:03:15]</strong> </span>
-<span class="speaker"><strong>发言人1: </strong></span>
-我觉得很重要。就是说二级市场的有个词叫有贝塔。什么叫有贝塔呢？就是说你做对一件事情的难度不是很高，同时做完这件事情你得到的反馈感会很大，很及时。
-</p>
-<p class="transcript-line">
-<span class="time"><strong>[00:03:27]</strong> </span>
-<span class="speaker"><strong>发言人1: </strong></span>
-那之前的创业概念里面就什么风口，这些其实都是讲同样的事情。现在的一个状态就是说这些风口可能不明显了，或者说这些风口需要付出的代价也好，它需要付出的时间其实是在拉长的。比如说像AI这个事情很典型，现在大家都觉得AI是一个风口。但其实这一次我们觉得不太一样的是就是open NAI在今年1月份被大家广泛的讨论之前，其实他有大概3到4年的一个窗口期。这3到4年的时间其实他是默默的做了很多很多工作的。
-</p>
-<p class="transcript-line">
-<span class="time"><strong>[00:04:01]</strong> </span>
-<span class="speaker"><strong>发言人2: </strong></span>
-就是当市场不好的时候，大家反馈少的时候，他其实可以自己去建立一个正反馈，自己去建立一个新的架构跟评价体系的。那他该怎么建立一个正反馈，让自己更积极起来？
-</p>
-<p class="transcript-line">
-<span class="time"><strong>[00:04:14]</strong> </span>
-<span class="speaker"><strong>发言人1: </strong></span>
-我觉得首先认知到就会好很多。
-</p>
-<p class="transcript-line">
-<span class="time"><strong>[00:04:17]</strong> </span>
-<span class="speaker"><strong>发言人2: </strong></span>
-你说的第一个点就是说其实不是说我要做什么改变，而是我要认知到说并不是没有反馈，而是天然的反馈的时间就是拉长。我们可以先从这个逻辑理一下，首先之前到底是什么事情让大家觉得很乐观，然后现在是什么事情变了，然后让大家觉得说好像有点悲观。
-</p>
-<p class="transcript-line">
-<span class="time"><strong>[00:04:37]</strong> </span>
-<span class="speaker"><strong>发言人1: </strong></span>
-我觉得你说的这个乐观悲观其实是一个体感，把它换成一个公式，其实CFA里面有个公式叫OE，就是人做一件事情他的投资回报率是什么？
-</p>
-<p class="transcript-line">
-<span class="time"><strong>[00:04:47]</strong> </span>
-<span class="speaker"><strong>发言人2: </strong></span>
-对，其实像我们刚才讲的，就你的乐观的就是说我付出了，然后我得到更多的回报，对我自然就会乐观了。是的，我付出没有得到回报自然就悲观了。很像这个CFA里面这个资产回报率的概念。
-</p>
-<p class="transcript-line">
-<span class="time"><strong>[00:04:58]</strong> </span>
-<span class="speaker"><strong>发言人1: </strong></span>
-用这个公式来替代，其实会很直观。就抛一点有三个比较关键的部分。第一个部分其实就是三件事情的毛利，就你做这件事情得到多少的回报毛利对。第二个东西其实你加了多少杠杆。第三个东西uncover，就是你的周转底次，它的公式是43个东西相乘，它是乘法的关系。
-</p>
-<p class="transcript-line">
-<span class="time"><strong>[00:05:16]</strong> </span>
-<span class="speaker"><strong>发言人2: </strong></span>
-资产回报率等于毛利乘以杠杆再乘以周转次数。所以其实你觉得乐观悲观，用这个公式来判断就可以了。
-</p>
-<p class="transcript-line">
-<span class="time"><strong>[00:05:25]</strong> </span>
-<span class="speaker"><strong>发言人1: </strong></span>
-对，其实很简单。比如说在更早一点时间是我们在做城镇化，就是地产。
-</p>
-<p class="transcript-line">
-<span class="time"><strong>[00:05:29]</strong> </span>
-<span class="speaker"><strong>发言人2: </strong></span>
-就是大概过去十年，对，过去20年.
-</p>
-<p class="transcript-line">
-<span class="time"><strong>[00:05:32]</strong> </span>
-<span class="speaker"><strong>发言人1: </strong></span>
-OK其实地产是最容易让人乐观的，为什么呢？其实本质上是因为地产公司它的毛利率虽然不是很高，但他家的杠杆和周转率会特别快。地产公司的毛利是多少？他们的毛利率通常都是在10%几、20左右。OK只是它毛利率不算高毛利，但是因为它是一个相对简单的商业模式。简单就意味着稳定，同时它能往上不断的加杠杆，然后不断的加完杠杆之后，它还能快周转。
-</p>
-<p class="transcript-line">
-<span class="time"><strong>[00:05:56]</strong> </span>
-<span class="speaker"><strong>发言人2: </strong></span>
-就是毛利其实是定的，它是一个相对低毛利的事情，它反向的就是茅台对吧？百分之八九十的矛盾。第二个指标就是杠杆，杠杆就是地产，其实是因为我们众所周知的之前的政策的原因，它可以上极高的杠杆。第三个就是周转率，周转次数。
-</p>
-<p class="transcript-line">
-<span class="time"><strong>[00:06:14]</strong> </span>
-<span class="speaker"><strong>发言人1: </strong></span>
-他可以把钱周转的很快。
-</p>
-<p class="transcript-line">
-<span class="time"><strong>[00:06:16]</strong> </span>
-<span class="speaker"><strong>发言人2: </strong></span>
-地产之前能把钱周转很快的原因。
-</p>
-<p class="transcript-line">
-<span class="time"><strong>[00:06:18]</strong> </span>
-<span class="speaker"><strong>发言人1: </strong></span>
-是因为商业模式。就是地产公司会把很多。
-</p>
-<p class="transcript-line">
-<span class="time"><strong>[00:06:22]</strong> </span>
-<span class="speaker"><strong>发言人2: </strong></span>
-比如说我可以先卖楼房，我先收钱，然后再去盖下的DP，然后就是可以无限的城市的就把这个就无限沉下去了。无限沉下去如果是一个人，其实是一样的。一个人的毛利就是他付出的时间跟他的工资相关的对吧？对。然后第二个点是什么？
-</p>
-<p class="transcript-line">
-<span class="time"><strong>[00:06:40]</strong> </span>
-<span class="speaker"><strong>发言人1: </strong></span>
-他的杠杆，杠杆就是他这个工作能带来了其他的附属的价值。比如说像我们是做投资人，可能有一些投资人管自己的PA就是personal account。
-</p>
-<p class="transcript-line">
-<span class="time"><strong>[00:06:49]</strong> </span>
-<span class="speaker"><strong>发言人2: </strong></span>
-他可以把自己的钱对和去融资募资。对他也可以加杠杆。是的，对，然后周转就是。
-</p>
-<p class="transcript-line">
-<span class="time"><strong>[00:06:56]</strong> </span>
-<span class="speaker"><strong>发言人1: </strong></span>
-几年一个基金，几年一个基金。对，其实就是这个逻辑。所以他会在过去的很长一段时间，他会很容易拿到结果。
-</p>
-<p class="transcript-line">
-<span class="time"><strong>[00:07:03]</strong> </span>
-<span class="speaker"><strong>发言人2: </strong></span>
-是，然后我们再分别讲一下地产现在发生了什么变化。我再顺便讲就是其实地产我记得占GDP的30%多对吧？整个地产相关的时间。所以其实这个30%多的GDP都是由地产来驱动来带领的。
-</p>
-<p class="transcript-line">
-<span class="time"><strong>[00:07:18]</strong> </span>
-<span class="speaker"><strong>发言人2: </strong></span>
-是的，地产有这个结果，就是它是一个高周转，然后它高杠杆的。所以自然它下沿的这些产业也都是类似的，就一定周转也都很快。可以这么理解，大多都一定底下也会有那个低周转的一些细分领域，但大体上都是偏高周转的。对，所以就把整个市场都带。是的，那现在发生的变化是毛利其实是没变的对对吧？然后杠杆不给上了，甚至于是去杠杆以及。
-</p>
-<p class="transcript-line">
-<span class="time"><strong>[00:07:44]</strong> </span>
-<span class="speaker"><strong>发言人1: </strong></span>
-周转也没有这么快了。
-</p>
-<p class="transcript-line">
-<span class="time"><strong>[00:07:46]</strong> </span>
-<span class="speaker"><strong>发言人2: </strong></span>
-这两个的原因分别是。
-</p>
-<p class="transcript-line">
-<span class="time"><strong>[00:07:47]</strong> </span>
-<span class="speaker"><strong>发言人1: </strong></span>
-其实最底层的原因是因为我们城镇化率差不多到一个市场饱和的市场饱和了，就是我们走完了这一段需求的区间。只是这个驱动地产最本质原因其实是出生率和城镇化。我们过去这种供求关系是严重失衡的，就是供是严重小于求的。那在这个过程中就很容易产生这种增长。对它最本质是因为城镇化率。表面城镇化率到头了之后，因为这种过分的杠杆率或者说充足的这种周转模式，它一定会受到各种监管。到这个时候就会去说，我不能让这个事情在无限的下去，会引发很多其他的金融系统的问题。
-</p>
-<p class="transcript-line">
-<span class="time"><strong>[00:08:23]</strong> </span>
-<span class="speaker"><strong>发言人1: </strong></span>
-所以静态的从表面上看起来其实是政策它本质的原因实际上是因为我们过去那种高周转高杠杆的模式，是建立在需求非常旺盛。那需求非常旺盛的底层其实是人口加城镇化率。这个东西其实已经我们还在增长，但它其实已经不像过去增长那么快了。所以如果是地产行业的从业者就会感觉到很难受。因为整个行业的投入回报其实已经到了一个下降的周期，而且是快速下降的中。
-</p>
-<p class="transcript-line">
-<span class="time"><strong>[00:08:51]</strong> </span>
-<span class="speaker"><strong>发言人2: </strong></span>
-对个人来讲，比如这个还是回到基金对基金来讲。影响的是杠杆。首先钱少了。
-</p>
-<p class="transcript-line">
-<span class="time"><strong>[00:08:57]</strong> </span>
-<span class="speaker"><strong>发言人1: </strong></span>
-我觉得是我觉得对于杠杆来说，很多时候其实是大家的机会。比如说投资机会、创业机会，其实大家能够体感上很明显就变少了，就是所谓能加的杠杆变少了，这个其实是最客观的。然后另外一个，就是说目前很多行业来说，说我做一份工作，我能拿到的回报其实也到了一个瓶颈了。这两个事情同时加在一起，这件事情就会让人跟过去那种很爽的感觉，很有希望的感觉比起来，其实就是不同的东西了。
-</p>
-<p class="transcript-line">
-<span class="time"><strong>[00:09:26]</strong> </span>
-<span class="speaker"><strong>发言人2: </strong></span>
-是增速变慢这件事情本身就已经让人觉得很难受。是的，就是他倒不一定是要负增长，就增速变慢已经让人觉得很难受了。是的。然后对于互联网公司来讲，你觉得因为很多互联网公司，其实大家也觉得很难受，对吧？如果用你这个公式去拆的话。
-</p>
-<p class="transcript-line">
-<span class="time"><strong>[00:09:42]</strong> </span>
-<span class="speaker"><strong>发言人1: </strong></span>
-对互联网公司其实这两年，比如说我们硬去拆它的业绩的话，互联网公司的业绩其实是很不错的。业绩很不错代表什么意思呢？就是这个公司里面的第一个部分是它的毛利率还是很高。也就是说它还是一个很稳定和很好的商业模式。所以这个时候，他只是感觉是说我的扩张速度没有这么快了。但是至少我做这件事情我是稳定的，然后我还是能赚钱的那这个时候他还是取得了一定的成果。这件事情在去年之前其实也发生在美国的科技公司上面。你会发现google这些巨头也在裁员，但是他报出来的财报其实是很漂亮的。
-</p>
-<p class="transcript-line">
-<span class="time"><strong>[00:10:18]</strong> </span>
-<span class="speaker"><strong>发言人1: </strong></span>
-互联网公司有一个比较大的区别是它的商业模式还是很不错的，而且它有一定的规模和这个网络的效应，所以导致它的防守性其实是比较强。所以这个点上三个里面，它可能另外两个其实跟大家一样。但是因为它本身经营的这个商业模式很好，所以导致他还是感觉上还是OK的。
-</p>
-<p class="transcript-line">
-<span class="time"><strong>[00:10:38]</strong> </span>
-<span class="speaker"><strong>发言人2: </strong></span>
-但现在国内的很多互联网公司，感觉好像也不是那么OK了。就至少像我们刚才讲，至少增速肯定是在下降的对，但是他还是赚钱的，他是赚钱。对，但这个赚的钱好像没有反映到互联网打工族的身上，会是有这种感觉。
-</p>
-<p class="transcript-line">
-<span class="time"><strong>[00:10:55]</strong> </span>
-<span class="speaker"><strong>发言人1: </strong></span>
-他跟人是相反的。如果说我的增速不是我的第一目标了，我就肯定会以利润为我的第一目标。
-</p>
-<p class="transcript-line">
-<span class="time"><strong>[00:11:02]</strong> </span>
-<span class="speaker"><strong>发言人2: </strong></span>
-所以说你就回到你的第一个指标，毛利这个指标。对，为了提高利润，那就是压缩成本。然后人就是里面非常重要的很贵的一成本。是的，所以很多个体就被作为成本压缩掉了。
-</p>
-<p class="transcript-line">
-<span class="time"><strong>[00:11:13]</strong> </span>
-<span class="speaker"><strong>发言人2: </strong></span>
-对，但我觉得你提的很多点，其实还是在讲说宏观确实是这样，对吧？就是经济发展到这个程度，比如过去20年地产确实到现在就是没有那么多的市场空间了，对吧？互联网也正好在这个时候，也发展差不多了。但这个就是宏观就是这样的，大家好像悲观也合理，就是没有什么别的办法。我觉得。
-</p>
-<p class="transcript-line">
-<span class="time"><strong>[00:11:34]</strong> </span>
-<span class="speaker"><strong>发言人1: </strong></span>
-有一个非常重要的一个原因是因为所有东西的pattern都在变化。因为我我们会看非常多的基金会，看非常多的直接投资的机会，我们甚至会去看一些很细分产业。我最大的感受很多东西的pattern结构性是在发生变化的。
-</p>
-<p class="transcript-line">
-<span class="time"><strong>[00:11:53]</strong> </span>
-<span class="speaker"><strong>发言人1: </strong></span>
-这个事情很多人还没有适应，硅谷有个词叫paradise shift。这个办事迁移它可能不是方向上的迁移，它可能是整个社会蕴含的内部投资报酬率，其实发生很明显的迁移。我们在这个阶段不太能够靠加更多的杠杆，加更快的周转增速去做实现这个ROE的增长。
-</p>
-<p class="transcript-line">
-<span class="time"><strong>[00:12:11]</strong> </span>
-<span class="speaker"><strong>发言人1: </strong></span>
-我们现在第一个要加的就是我们所谓的叫高附加值产业。比如智能制造是一个非常典型的高附加值产业。为什么是低端制造？向这个智能制造转，其实本质上提高的是你的毛利。你只有毛利提高的情况之下，你才能够去慢慢的去加杠杆和加这个增速。所以这个事情对大家的体感影响是非常强的。
-</p>
-<p class="transcript-line">
-<span class="time"><strong>[00:12:31]</strong> </span>
-<span class="speaker"><strong>发言人1: </strong></span>
-以前可能我们比如说我们有一段时间我们就去复制海外的模式，我们就在上面加杠杆，加周转的这个速度，其实我们能够实现非常大的回报。其实那个周期只要你执行力足够强，足够稳定，其实都是比较好的。现在我们开始涉及到一个概念叫创作。就你需要创造出来一个产品和一个壁垒，它能够先去拿到比较高的毛利，然后你这个毛利验证了之后，你再去加后面的东西。
-</p>
-<p class="transcript-line">
-<span class="time"><strong>[00:12:57]</strong> </span>
-<span class="speaker"><strong>发言人2: </strong></span>
-你刚讲的其实也符合客观规律了，就是一般高周转的都是低毛利的对吧？低周转高毛利也会常见一些，很难有很完美的是你有高毛利又高周转。
-</p>
-<p class="transcript-line">
-<span class="time"><strong>[00:13:07]</strong> </span>
-<span class="speaker"><strong>发言人1: </strong></span>
-你说的非常有意思，它会有一个上限，上限是什么？像美国就完整的发生了这个事情。它的高毛利低周转的东西之后，它把像芯片的设计这种高毛利的部分留在了美国。但他把低周转的部分逐渐的通过这种像方锐这种模式转移给了其他国家。他自己去做那个那个高毛利的事情。
-</p>
-<p class="transcript-line">
-<span class="time"><strong>[00:13:29]</strong> </span>
-<span class="speaker"><strong>发言人1: </strong></span>
-这个事情好与不好，在更长时间维度我们是值得去debate的。但是你看它内部的规律还是什么？美国希望自己的经济体是一个高LE的这么一个经济体，这个东西决定了它的发展。其实我们会认为说这个事情是一个很重要的一个范式迁移。我们要逐步的把毛利率哪怕提升一个点、两个点，要想到方法去把这个毛利率给做高。
-</p>
-<p class="transcript-line">
-<span class="time"><strong>[00:13:49]</strong> </span>
-<span class="speaker"><strong>发言人2: </strong></span>
-之前其实我们做的很多事情还是在追求低毛利高周转这件事情上，还有高杠杆。所以大家就做起来都会很累，然后大家都算规模效应。其实本质上也是这样，对吧？都算的是说我一个外卖员，那每天跑多少单怎么样？然后一定要全国要什么千万单什么以上的才能把账算回来。
-</p>
-<p class="transcript-line">
-<span class="time"><strong>[00:14:09]</strong> </span>
-<span class="speaker"><strong>发言人2: </strong></span>
-是啊，所以未来有可能你再讲就是大家就是追求高毛利就好了，有可能说比如说我就像你刚才举的硅谷那个例子，我可能就是在某几个城市做一个生意。对，但生意就是高毛利，他最后赚的钱可能也不一定比全国性的少，对吧？因为我们之前看到非常多的公司讲一个很大的故事，最后每年亏钱，对吧？就是你规模小了就起不来，然后就一直亏钱。最后可能还不如说你在某一个城市做一个什么教育公司，是公司赚钱。
-</p>
-<p class="transcript-line">
-<span class="time"><strong>[00:14:36]</strong> </span>
-<span class="speaker"><strong>发言人1: </strong></span>
-多是的是的。然后我觉得慢慢的会发生这个迁移。有一些产业它高毛利一定是有原因的。比如说你刚刚提到，比如说他在某一个地区做一个什么教育业务，他可能是来地区性的一些品牌。那这种品牌的延伸其实是有问题，他没办法迁移到另外一个省。但是像英伟达这种产业，它的高毛利是来自于只有它能做。
-</p>
-<p class="transcript-line">
-<span class="time"><strong>[00:14:59]</strong> </span>
-<span class="speaker"><strong>发言人2: </strong></span>
-我觉得科技还是对我。
-</p>
-<p class="transcript-line">
-<span class="time"><strong>[00:15:01]</strong> </span>
-<span class="speaker"><strong>发言人1: </strong></span>
-觉得慢慢的在中国也会出现越来越多这样的公司。就是只有他能做这个东西，然后这种高毛利是能够去慢慢的也能加上杠杆。
-</p>
-<p class="transcript-line">
-<span class="time"><strong>[00:15:10]</strong> </span>
-<span class="speaker"><strong>发言人2: </strong></span>
-但这个的前提就是大家要有耐心，然后先投入很多研发。
-</p>
-<p class="transcript-line">
-<span class="time"><strong>[00:15:15]</strong> </span>
-<span class="speaker"><strong>发言人1: </strong></span>
-然后建立自己的反馈的这个指标。他不一定day one就能够去用别人的反馈指标去做这件事情。我至今还记得当年有一个很重要的一个话题，就是当时联想跟英伦max聊话的时候，联想的这个高管他们的商业模式里面决定他们的最主要的反馈指标是什么？我卖了多少数量的这个终端。但是对于伊隆马斯克来讲，不是还是前几季，它要解决的其实是设计成本这些东西相关的问题。所以两边的反馈指标其实是不一样的。
-</p>
-<p class="transcript-line">
-<span class="time"><strong>[00:15:47]</strong> </span>
-<span class="speaker"><strong>发言人2: </strong></span>
-对，这就很典型对吧？您想就是说我低毛利高周转类似于低毛利高周转。对，但特斯拉做起来以后，他就也可以再去。
-</p>
-<p class="transcript-line">
-<span class="time"><strong>[00:15:56]</strong> </span>
-<span class="speaker"><strong>发言人1: </strong></span>
-追求叠加那个周转和那个杠杆。
-</p>
-<p class="transcript-line">
-<span class="time"><strong>[00:15:59]</strong> </span>
-<span class="speaker"><strong>发言人2: </strong></span>
-对，但他前期可能就是先追求把技术突破。是的。
-</p>
-<p class="transcript-line">
-<span class="time"><strong>[00:16:03]</strong> </span>
-<span class="speaker"><strong>发言人1: </strong></span>
-我们今天在经历的，我们内部是分明线跟暗线。暗线里面比如说经济出现一些周期性的问题，其实每个周期其实是差不太多的。
-</p>
-<p class="transcript-line">
-<span class="time"><strong>[00:16:11]</strong> </span>
-<span class="speaker"><strong>发言人2: </strong></span>
-对你再解释一下明线和暗线的。明线相当于。
-</p>
-<p class="transcript-line">
-<span class="time"><strong>[00:16:14]</strong> </span>
-<span class="speaker"><strong>发言人1: </strong></span>
-就是说我们创造新的产业趋势，创造新的产品，就是做新的事情，才一个新的增速，一个大的共识。对暗线指的是说创造这些东西的基本条件。比如说宏观的资金上的这些储备，比如说地缘上面是不是会有一些冲突。比如说我们能用的工具箱，就是宏观的工具箱有哪些，然后比如说市场是哪些，比如说有一段时间其实我们是受于整个市场上我们打开，然后这些其实都叫暗线。对你的暗线是一个更大的贝塔。更大的贝塔就是说我们做不了做国运是其中的一个概念，就是我们个体做不了什么的事情，我们只能去认知的事情是其实大部分的经济的低谷的周期都是由暗线产生的。就比如说我新发货币，我发到一个程度就会产生通胀，就会产生新一个周期。所以从这个角度上来讲，其实这次没有之前的真的大的经济危机严重。其实当时有很多二级市场宏观的分析师会去类比说我们这一次会更像哪一年到目前为止共识的结论，其实都觉得这次其实不严重。
-</p>
-<p class="transcript-line">
-<span class="time"><strong>[00:17:13]</strong> </span>
-<span class="speaker"><strong>发言人1: </strong></span>
-其实如果大家有数据可以去查一下，整个风险投资的市场份额其实是在越来越大的。就往风险投资里面投入的金额越来越大。但是项目数量其现在变少的这个事情说明一个什么问题呢？第一个是头部集中，就是越头部的项目会融到更多的钱。但它还有一个另外一个这个含义是什么呢？真的要做出新的增量和新的创新，客观上就是变得越来越。
-</p>
-<p class="transcript-line">
-<span class="time"><strong>[00:17:37]</strong> </span>
-<span class="speaker"><strong>发言人2: </strong></span>
-难的对我们拆开来讲一讲明线和暗线，你们先讲暗线，暗线低层的，你觉得现在暗线到底是一个什么情况？
-</p>
-<p class="transcript-line">
-<span class="time"><strong>[00:17:45]</strong> </span>
-<span class="speaker"><strong>发言人1: </strong></span>
-我觉得暗线有一个情况，就是说它需要时间去化解。这个其实是大家感受上最难的地方。就是周期这个概念其实本质的逻辑就是时间。我花时间去享受了一部分高速增长，我需要花接近的时间去化解。所以其实我们会提到很多问题。比如说二级市场中国会提到一些问题叫化寨，叫房地产这些问题它本质上都是需要时间去消化之前的所谓的库存，消化之前的问题。所以案件里面最难受的一个点其实是时间，他没有办法着急，他跟明显不一样，是说你靠去做什么去解决其实是比较难的。他就是需要花时间去化解这个库存。
-</p>
-<p class="transcript-line">
-<span class="time"><strong>[00:18:23]</strong> </span>
-<span class="speaker"><strong>发言人1: </strong></span>
-所以很多二级市场的同学，他们在看周期性行业的时候，他们会去观察一个指标就是库存。我这个库存是不是快要到最底部了。暗线里面其实有一个非常重要的标准叫水位线，就是它会不会发生一些突破水位线的事情。比如说08年的就是像美国的次贷危机，它就突破了那个水位线。这个事情目前来看，全世界其实都很关注这个问题。大家达成的共识从资产价格上来看的话，其实接近的是大家觉得不会突破水位线。美国的水位线是什么呢？是我们会不会进入到恶性的所谓的硬着陆这个地区。但目前大家从资产价格上很明显，大家觉得不会。然后大家现在只是在争议说在这个周期会待多久，这个cycle会待多久。
-</p>
-<p class="transcript-line">
-<span class="time"><strong>[00:19:07]</strong> </span>
-<span class="speaker"><strong>发言人1: </strong></span>
-中国的问题，大家之前会特别担心这个城投债，或者特别担心房地产的硬着陆。目前来看，城投债肯定不是一个问题了。因为其实我们的各个机构已经在非常积极的处理。然后从房地产现在碰到的问题，就确实是说大家受到情绪的影响，需求它的重新的爬升是有一点缓慢。但其实从房地产的这些问题上能看到，像之前万科出现了这个问题能看到，其实像深圳市国资委也出来说，他们会无限的去兜底这件事情。所以你会有个感觉，就是说要去突破这个水位线本身就是很难的。因为像中国、美国这种这么大的经济体，他真的要轻易的发生一个经济危机。
-</p>
-<p class="transcript-line">
-<span class="time"><strong>[00:19:47]</strong> </span>
-<span class="speaker"><strong>发言人2: </strong></span>
-其实不容易的。现在大家经常会说，现在的这个情况，很多问题是外资流出的问题，对吧？包括我看最近有个指标说外资在好像在国内的投入以此为负？对，所以那到底是散户在卖还是外资在卖呢？
-</p>
-<p class="transcript-line">
-<span class="time"><strong>[00:20:02]</strong> </span>
-<span class="speaker"><strong>发言人1: </strong></span>
-现在我觉得外资肯定是有影响。但是我自己观察大家对外资减少投资这件事情的理解是有一点误差的。大家会把这个东西大量的归于一些主观的东西，因为美国是特别注重这个逻辑正确的，他肯定是会有这种影响，都会有一个选择题。
-</p>
-<p class="transcript-line">
-<span class="time"><strong>[00:20:20]</strong> </span>
-<span class="speaker"><strong>发言人1: </strong></span>
-现在像美元加息到这个程度，我坐着不动可以拿4到5个点的收益。那你新兴市场国家可能并没有什么太突破性的进展和增速的时候，大部分人一定会选择是说我去拿美元的4到5个点的这个固定的收益。我觉得这个是一个特别大的基础。就是我听听很多朋友畅想过这个事情，如果像其他国家出现一些很突破性的增速的进展，尤其像中国这么高的增速，其实在全世界很难找出第二个的。以及其实我们分析下来，就中国经济增速的质量其实是很好的，它其实并不是一个平庸的增速，并不是说我对城镇化率，其实我们已经过了那个阶段。然后这么高质量的增速里面，如果它再一次出现，然后我们在整个美元的这个加息周期结束了之后，其实美元是会做相应的动作的。
-</p>
-<p class="transcript-line">
-<span class="time"><strong>[00:21:07]</strong> </span>
-<span class="speaker"><strong>发言人1: </strong></span>
-美元代表的一个很重要的精神是什么呢？它非常的市场化。说的更直接一点，它是以赚钱为目的的。这个东西它不是稳态，有可能慢慢在未来一两个季度，我们就慢慢能看到很多外资又重新的开始去反映这个事情。
-</p>
-<p class="transcript-line">
-<span class="time"><strong>[00:21:23]</strong> </span>
-<span class="speaker"><strong>发言人2: </strong></span>
-对他其实最后跟散户也是一样，可能一根阳线或者两根阳线也会改变信仰。
-</p>
-<p class="transcript-line">
-<span class="time"><strong>[00:21:30]</strong> </span>
-<span class="speaker"><strong>发言人1: </strong></span>
-其实所有人的角色逻辑到最后其实是一样的，只是他在这个决策逻辑里面你会提前多久。比如说非专业人士看的可能是更表面的表征，是稍微专业一点，他会去看很多前置的指标，所以他只是决策的这个顺序不一样而已。
-</p>
-<p class="transcript-line">
-<span class="time"><strong>[00:21:46]</strong> </span>
-<span class="speaker"><strong>发言人2: </strong></span>
-是所以暗线比如说你说外资，反正它是一个结果，对吧？它会流出，它还会再流回来。房地产跟一些承诺债的问题，其实已经缓慢在解决。但现在大体的结论就是现在还在那个去库存的周期里面，那这个周期什么时候会过去。
-</p>
-<p class="transcript-line">
-<span class="time"><strong>[00:22:04]</strong> </span>
-<span class="speaker"><strong>发言人1: </strong></span>
-你觉得它会有很多前置指标。比如说你去看一些大宗商品的库存，比如说其实今年很多大宗商品的行情其实已经演绎过了，你可以去看库存。因为本质上你库存到低点了，你就会涉及到一个行业里面叫rebuild up，你就会涉及到这个新的库存的周期是。然后现在有一个很重要的事情是看美元的加息周期什么时候结束。这个感觉大家说了一年了，说了一年。对，然后现在有一种可能是美元停到这个高息的这个位置上，会停比大家想了更久的时间。但这个东西其实我觉得它的所谓的边际的影响其实已经在放缓了。只要你不要再继续加息，全世界该流入美国的钱其实已经接近尾声了。
-</p>
-<p class="transcript-line">
-<span class="time"><strong>[00:22:43]</strong> </span>
-<span class="speaker"><strong>发言人1: </strong></span>
-大家其实需要的是拐点。对，你说的很对，大家其实需要的是拐点。所以通常来讲周期里面做事情最好的位置不是说到拐点真正来的时候，是在你预期到拐点会来的时候。比如说我再举一个例，去年12月份的时候，英伟达是最典型的周期性行业。其实当时英伟达的库存并没有见底，如果从手机电脑这些去看，但大家已经预期到说我次年的3月6月这些东西会陆续的见底。这个时候出现AI了，那AI肯定会占主角，我它对应的就是它data center的这个业务。其实我做事情最好的阶段不是说我看到拐点了，而是说我预期到拐点要来了。通常是那个时间前置一步。
-</p>
-<p class="transcript-line">
-<span class="time"><strong>[00:23:25]</strong> </span>
-<span class="speaker"><strong>发言人2: </strong></span>
-对，你看然后美国那两年发钱，最后变就变成2021年股票的暴涨，对吧？但在那个时间点的话，大家能预期到这件事情吗？就好像如果我们今天这个博客是20年或者21年来录的话，专业的投资者他能在那个点上已经预测到了二年的暴涨。
-</p>
-<p class="transcript-line">
-<span class="time"><strong>[00:23:44]</strong> </span>
-<span class="speaker"><strong>发言人1: </strong></span>
-是可以。事实上很多人是预测到的。
-</p>
-<p class="transcript-line">
-<span class="time"><strong>[00:23:46]</strong> </span>
-<span class="speaker"><strong>发言人2: </strong></span>
-所以很多人在那波是赚到钱的那如果我们把那个点就放在当下的话，你的未来一年基于暗线和宏观市场会发生哪些变化？然后哪些领域可能会有机会，大家该去做什么事情？
-</p>
-<p class="transcript-line">
-<span class="time"><strong>[00:24:02]</strong> </span>
-<span class="speaker"><strong>发言人1: </strong></span>
-我觉得两个最主要的变化就是说几个大的经济体肯定会走向平稳。比如说大家现在所担心的美国的这个硬着陆的问题，担心的我们的经济是不是能复苏的问题，可能都会走向一个平稳态。这个在二级市场叫估值修复，就这一步我觉得大概率是会完成，只是看完成的时间，每个地方不太一样。
-</p>
-<p class="transcript-line">
-<span class="time"><strong>[00:24:21]</strong> </span>
-<span class="speaker"><strong>发言人1: </strong></span>
-还有我美国现在最值得关注的一个东西就是产业趋势。而且中国美国关注的产业趋势比较雷同，主线都是AI主线上。这个事情的发展在未来一年12个月的时间会进入到一个我们所谓的揭牌期。这个揭牌期其实是比较精彩的，就是在叠加暗线。我刚刚说的经济体走向平稳主线逐步的就是开始各方唱罢你登场的这个状态。这两条东西会是未来12个月的一个主线，那它所影响大家投资创业的很多决策，到现在其实已经在发生了。然后大家已经需要去做准备，需要去看说到底应该是什么样的位置去参与，可能已经是到这个阶段了。
-</p>
-<p class="transcript-line">
-<span class="time"><strong>[00:25:02]</strong> </span>
-<span class="speaker"><strong>发言人2: </strong></span>
-但我另外一个观察就是现在其实大家都非常的追求确定性这个事情。我说你这个事情从你的暗线和宏观是有迹可循的？
-</p>
-<p class="transcript-line">
-<span class="time"><strong>[00:25:14]</strong> </span>
-<span class="speaker"><strong>发言人1: </strong></span>
-我觉得这是个误解，就是追求确定性它是两面，我像我们内部看东西些是分两面去看的，就是确定性的反面就是upset，当你upset不够的时候，当然更明显的是追求确定性是对。但是当你upset够的时候，其实从人的主观上来讲，一定会去追求upset.
-</p>
-<p class="transcript-line">
-<span class="time"><strong>[00:25:35]</strong> </span>
-<span class="speaker"><strong>发言人2: </strong></span>
-的是就是缺少增长点。所以我总结下，就我们刚才反正把暗线聊完，暗线有各种各样的问题。然后我们刚才预估的是未来一年里面对它会陆续去库存也好，怎么样也好，去解决掉这些问题，至少它会是一个比较平稳的状态。当贝塔是相对平稳的对，就看阿尔法了。对。
-</p>
-<p class="transcript-line">
-<span class="time"><strong>[00:25:53]</strong> </span>
-<span class="speaker"><strong>发言人1: </strong></span>
-看谁来引领这个周期的高质量的增速。
-</p>
-<p class="transcript-line">
-<span class="time"><strong>[00:25:57]</strong> </span>
-<span class="speaker"><strong>发言人2: </strong></span>
-其实就是明显了。对，所以你们怎么但现在的明显。
-</p>
-<p class="transcript-line">
-<span class="time"><strong>[00:26:00]</strong> </span>
-<span class="speaker"><strong>发言人1: </strong></span>
-你像我们做allocators，就是看各种资产，就各种资产的表征和特征是很重要，但现在所有东西都在为明线让步，就比如说我讲一个很重要的点，如果说AI的这个事情就是像今年这样持续的发展下去，产生了新的摩尔定律，就是整个事情疯狂的往前发展。刚刚你说到确定性这个事情，确定性这件事情可能是4%到5%的固定的这个债的收益就不重要了。因为它会引领一个新的周期，也会引领一个新的范式。比如说我们之前英伟达，大家最热烈的时候会讨论说我们有生之年会不会见到2万亿、3万亿的英伟达。其实是有可能的，因为你不知道这个产业趋势会发展到什么状态底下去。比如说像meta它到底它的上限是哪，其实没有人知道。所以我想说的事情就在于是说暗线被解决，你刚刚总结的非常好，需要时间。但是大家的目标都是冲着平稳去过渡。等到这个东西平稳了之后，主线的发展才是会超过所有人认知的东西。
-</p>
-<p class="transcript-line">
-<span class="time"><strong>[00:27:03]</strong> </span>
-<span class="speaker"><strong>发言人1: </strong></span>
-你不知道这个东西最终会settle在哪儿，它会影响所有的，它甚至会影响到宏观，甚至像现在的技术对宏观的影响是非常明显的。然后你看去年12月份大家知道有这个大模型这件事情，大家从宏观上的解读就把它解读为是说这是可以帮助美国去解决通胀的一个东西，它已经演绎到这个逻辑了。所以现在技术的发展，第一它是不太能够看到上限的。第二个东西是说它对今天的所有暗线里面的东西产生了非常大的影响。它唯一的就是我们看见所谓的缺点，就跟这个缺点加引号，是在于是说它不太好估计，它还是一个你需要在过程当中逐步去演绎的东西。
-</p>
-<p class="transcript-line">
-<span class="time"><strong>[00:27:44]</strong> </span>
-<span class="speaker"><strong>发言人2: </strong></span>
-如果是确定也没有什么可讨论的东西，这个对，现在还是我觉得听你讲完，我觉得就是暗线，或者说这个贝塔相对是已经被拆解了对吧？
-</p>
-<p class="transcript-line">
-<span class="time"><strong>[00:27:54]</strong> </span>
-<span class="speaker"><strong>发言人1: </strong></span>
-或者说被消解了、被拆解、被解决、被认知的东西。
-</p>
-<p class="transcript-line">
-<span class="time"><strong>[00:27:57]</strong> </span>
-<span class="speaker"><strong>发言人2: </strong></span>
-对这个过程当中它不会有太大的问题。但大家的迷茫仍然是说，我做我的增长点在哪里？就是阿尔法到底是什么？你现在看起来这个东西你觉得是AI国内其实同时有两条线，对吧？一个是AI一个是偏高科技先进制造的一些东西。你你就你怎么看这两条线。
-</p>
-<p class="transcript-line">
-<span class="time"><strong>[00:28:16]</strong> </span>
-<span class="speaker"><strong>发言人1: </strong></span>
-我觉得大概率是AI从AI所代表的这个产业趋势，它能创造的市场空间来讲，目前来看起来是当之无愧的。它影响了太多东西了。所以你像美国投入在AI里面的东西，其实是不计成本的在投入的。我们国家其实也是，然后两边其实加在一起，这个很核心的一个原因是当然技术上成立。第二个原因是因为它所代表的这个市场空间足够大。
-</p>
-<p class="transcript-line">
-<span class="time"><strong>[00:28:40]</strong> </span>
-<span class="speaker"><strong>发言人2: </strong></span>
-你现在针对美国的一些AI领域的发展和进展怎么看？
-</p>
-<p class="transcript-line">
-<span class="time"><strong>[00:28:44]</strong> </span>
-<span class="speaker"><strong>发言人1: </strong></span>
-我觉得进展从应用上来讲，其实是落后于大家预期的。因为它最主要一个指标就是企业的adoption，其实是不够的，是落后于大家预期蛮多的。但是超过大家预期的东西是有的，就是大家的所谓的信仰就是conviction，是他其实没有变弱。大家越来越意识到这个事情是企业需要持续去投入的东西。谁去投入？大家也在不断的积累这个知识，就是说我应该怎么做，我应该做什么。大家每个企业在快速的进展。所以如果我们把conviction，把新娘当成一个指标的话，这个实验室是超过预期的。
-</p>
-<p class="transcript-line">
-<span class="time"><strong>[00:29:20]</strong> </span>
-<span class="speaker"><strong>发言人1: </strong></span>
-如果进一步去拆解是为什么？其实就是因为大家觉得所谓的scaling law还成立，什么skin的成立，就是我怼芯片，我怼模型的长度就是摩尔定律。摩尔定律其实我还是会得到更好的模型的效果，但是确实大家不知道这个模型好的效果能够用来做什么。但是大家会有一个相信是说我的模型长度变长更有效了之后，我势必事实上会减少很多PMF的这个到达的周期adoption做不出来。其实因为现在PMF很多层面还是没有找到，或者找到的那个点都比较小。比如说在法律上做一些事情，在医疗上可能有一些就大家在尝试的。但是大家会有一个信仰是说，当我的模型长度更长更有效，然后这个参数更多的时候，我可能能够更快或更容易的去达到PMF。所以大家在这个方面的信仰其实是比年初的时候还要更强了。
-</p>
-<p class="transcript-line">
-<span class="time"><strong>[00:30:10]</strong> </span>
-<span class="speaker"><strong>发言人1: </strong></span>
-如果从这个角度来讲的话，其实是高于预期的。中国这边我们觉得整体也是高于预期的。是一开始大家觉得我们模型的进展是不是会落后非常多，但后来发现这个东西就是摩尔定律，我队算力怼人怼芯片，其实就是能够做到缩短差距的。
-</p>
-<p class="transcript-line">
-<span class="time"><strong>[00:30:26]</strong> </span>
-<span class="speaker"><strong>发言人2: </strong></span>
-其实是比年初时候大家预期。
-</p>
-<p class="transcript-line">
-<span class="time"><strong>[00:30:28]</strong> </span>
-<span class="speaker"><strong>发言人1: </strong></span>
-的要快要快很多的。所以唯一的差距就是美国的信仰是越来越强。就是我就是要投入，我就是要不断的对对。
-</p>
-<p class="transcript-line">
-<span class="time"><strong>[00:30:37]</strong> </span>
-<span class="speaker"><strong>发言人2: </strong></span>
-所以贝塔可能是一个类似于从1到0解决问题的阶段。是的，阿尔法是一个从0到1去建立场景的阶段。对，但你觉得就alpha这件事情，AI这件事情，你的时间预期是怎么样的？比如说就是AI电视到底多久能落地呢？
-</p>
-<p class="transcript-line">
-<span class="time"><strong>[00:30:54]</strong> </span>
-<span class="speaker"><strong>发言人1: </strong></span>
-我举几个例子，我们在观察什么。第一个问题就是说模型的长度，几家在模型长度上未来一年会有什么样的进展？因为这个是摩尔定律最最根本的一个东西。第二个东西，我们特别会关注这个算力，这些东西什么时候降价，像open a其实前两天已经降价了。然后第三件事情，我们会特别关注他们内部在关注什么公司，然后他们在哪些东西上在做什么。第四个东西，我要特别关注他们商业模式是什么。
-</p>
-<p class="transcript-line">
-<span class="time"><strong>[00:31:19]</strong> </span>
-<span class="speaker"><strong>发言人1: </strong></span>
-美国那边的现在最主流的商业模式还是API，就是他们会把这个当成他们商业模式的最重要的部分。但中国这边的公司的商业模式其实不是API，中国还是想做一体化，自己做模型端到端。我们一直在debate的一件事情，比如说到底是API这种商业模式好，它当然有它的规律，就是美国整个to b的这个商业模式演习这么多年之下，它就API是一个最好的商业模式手法来讲。然后在中国的创业公司，其实从内心来讲，隐隐的我们感觉都想做端到端。但两个东西到底哪个好，其实说不清楚的，有可能就是端到端更好一点。因为我们像我们的思维去理解，我们都还是会认为说模型应该跟数据场景结合，它才能跑出真正的下一代的东西。但美国人的思维可能有一部分其实就不是这个。
-</p>
-<p class="transcript-line">
-<span class="time"><strong>[00:32:03]</strong> </span>
-<span class="speaker"><strong>发言人2: </strong></span>
-我觉得美国人他们是不喜欢重运营的事情的，但国而且他们很可能也没有能力做这个事情。对，但国内很擅长做对。
-</p>
-<p class="transcript-line">
-<span class="time"><strong>[00:32:10]</strong> </span>
-<span class="speaker"><strong>发言人1: </strong></span>
-但有没有可能中运营就是好的。因为逻辑上来讲，中文云可能是的。如果最后这个事情还是一个场景端的事情的话，那其实中国的创业公司会非常有机会。
-</p>
-<p class="transcript-line">
-<span class="time"><strong>[00:32:19]</strong> </span>
-<span class="speaker"><strong>发言人2: </strong></span>
-然后你上次提那个数据上的一个点也挺有意思的，可以讲讲。就是大家都觉得美国的数据质量是更好的，在国内是落后的。但其实你觉得有可能是反过来的。
-</p>
-<p class="transcript-line">
-<span class="time"><strong>[00:32:28]</strong> </span>
-<span class="speaker"><strong>发言人1: </strong></span>
-我觉得有可能是反过来是因为场景的问，就是跟刚刚中云云和端的那个点是非常像的。其实美国20 1314年之后，to c的投资变得非常的少，而且他们就没有跑出太多to c的成功标准出来。像我们这边还有非常多，像拼多多，像自己还有多非常多to c的公司。其实在这个周期跑出来的，我们还有很多垂直的公司，就不说了。但是美国two c的投资在13年之后变得非常的少。他们所有的投资其实都在投to b各种安全info和这种SaaS也是以这个为主的那如果从纯数据的dataset的角度上来讲的话，其实美国质量最好的公司其实是meta因为它有ins有WhatsApp，所以最好的公司其实是它。
-</p>
-<p class="transcript-line">
-<span class="time"><strong>[00:33:12]</strong> </span>
-<span class="speaker"><strong>发言人1: </strong></span>
-但除此之外，就像google，google的电台质量一定是最好的。但是google内部在做一些模型的时候，它能够用吗？它其实不太能。它面对的障碍其实还是没有当时open I的时候那么好。Open I其实隐隐暗暗的做了几年，当时所享受的数据值其实是要比今年更好的。
-</p>
-<p class="transcript-line">
-<span class="time"><strong>[00:33:32]</strong> </span>
-<span class="speaker"><strong>发言人2: </strong></span>
-你说的是他还是有很多灰色地带的，那些东西和数据。
-</p>
-<p class="transcript-line">
-<span class="time"><strong>[00:33:36]</strong> </span>
-<span class="speaker"><strong>发言人1: </strong></span>
-是或者说对可以叫灰色地带。对，就是可能今天作为大厂它不能够随意用的一些数据。当时open其实早期时间是可以用的对。
-</p>
-<p class="transcript-line">
-<span class="time"><strong>[00:33:45]</strong> </span>
-<span class="speaker"><strong>发言人2: </strong></span>
-就是美国或者欧洲的那些数据合规。
-</p>
-<p class="transcript-line">
-<span class="time"><strong>[00:33:47]</strong> </span>
-<span class="speaker"><strong>发言人1: </strong></span>
-的要求确实是很复杂的对，再叠加他们其实没有那么多to c的场景。但是其实中国不是，但是在美国我觉得他们就是不投to c之后有一个问题，就是他们现在exactly在面临问题。他们找场景的时候，他们老想做一步到位的事情，就是靠模型一步到位。他们其实内心更愿意做这件事情，他们才不用去面对多重运营和dataset的这个问题。是对，但是中国的创业者是另外一端的，就是说你越复杂可能越好，然后我能去解决。所以两边到底哪个是这个事情的winner patent其实就不是一个百分之百确定的事情。
-</p>
-<p class="transcript-line">
-<span class="time"><strong>[00:34:24]</strong> </span>
-<span class="speaker"><strong>发言人2: </strong></span>
-所以最后就是你看美国的公司，大家都在讲它包括蜜汁牛棚等等，人数其实都是相对比较少的。
-</p>
-<p class="transcript-line">
-<span class="time"><strong>[00:34:31]</strong> </span>
-<span class="speaker"><strong>发言人1: </strong></span>
-对，他们其实还是希望说我通过模型去解决所有的问题。
-</p>
-<p class="transcript-line">
-<span class="time"><strong>[00:34:36]</strong> </span>
-<span class="speaker"><strong>发言人2: </strong></span>
-对他跟国内这个人数的差异就在于说它的运营跟产品的人上的差异。是的，倒不是说他的技术就比国内牛，他就是一个人能做国内十个人的事情，对吧？是对这个人数差还是在运营和比较重的那些事情。是的，所以反正你对于整体包括AI也还是偏乐观的。
-</p>
-<p class="transcript-line">
-<span class="time"><strong>[00:34:53]</strong> </span>
-<span class="speaker"><strong>发言人1: </strong></span>
-我们整体是偏乐观的。因为这个事情他确实就是能看到效率上确实有提升。这么大的GDP的体量体，我们效率提高一点点，其实它所带来的这个反馈其实是非常大的。现在只是刚好我们处在一个前夕，就是不知道这个东西会先发生在什么地区。
-</p>
-<p class="transcript-line">
-<span class="time"><strong>[00:35:10]</strong> </span>
-<span class="speaker"><strong>发言人2: </strong></span>
-是，但整体美国应该是，我也听很多人讲，他们对于这件事是极度乐观的。对你觉得美国的一二级市场，包括他们机构有没有什么新的看法变化？
-</p>
-<p class="transcript-line">
-<span class="time"><strong>[00:35:21]</strong> </span>
-<span class="speaker"><strong>发言人1: </strong></span>
-他们的疫情之后其实有非常大的变化，他们衍生为两派。第一派就相当于是说我足够特别，我足够灵活，然后我足够有行业的纵深，我去换取更高的这个收益率。但这一派的市场份额其实是在变小的，它更重要的一派是我怎么确定性的获取收益。原来这两个部分其实是有一点融合在一起的。要么你就是更系统，要么就是你更有特点，追求更高的收益。两条线其实在不断的拉开。
-</p>
-<p class="transcript-line">
-<span class="time"><strong>[00:35:49]</strong> </span>
-<span class="speaker"><strong>发言人2: </strong></span>
-也是因为更卷了一个人的结果，就是大家更追求自己的差异化。所以作为结论来讲，其实你是偏乐观的那如果是这样的话，能不能给大家讲讲说你乐观付诸实践的一些行动到底是什么？
-</p>
-<p class="transcript-line">
-<span class="time"><strong>[00:36:02]</strong> </span>
-<span class="speaker"><strong>发言人1: </strong></span>
-乐观的结果是我们内部现在投研在很积极的准备之后的一些投资的方向。比如说我们在AI上的研究，其实现在很深入产业链。因为我们还是认为这个是我们刚刚提到明线里面很重要的一个转折点。我们需要很时刻的知道这个转折点是什么。所以我们其实还是做了很多偏专家访谈和读paper各种各样的准备工作。
-</p>
-<p class="transcript-line">
-<span class="time"><strong>[00:36:25]</strong> </span>
-<span class="speaker"><strong>发言人1: </strong></span>
-研究里面有一个很重要的东西叫性噪比，什么意思呢？就是说我去处理一个信息，我一定会产生噪音，也会产生很有用的信息。但是当这个性价比过低的时候，会低于一个阀值的时候，我宁可不要这个信息。最简单的一个投资案例是说，比如在某一个阶段，比如说我去投一个行业头部和我去处理很多行业第二名、第三名的这个信息要重要的多得多。我就投头部带来超额收益其实会更大，这个是在当时投资里面很重要的一个反思。但现在发生了非常严重的变化，就是可以这么说，我们应该去降低对性价比的要求，只要他及格就可以。
-</p>
-<p class="transcript-line">
-<span class="time"><strong>[00:37:03]</strong> </span>
-<span class="speaker"><strong>发言人1: </strong></span>
-为什么呢？我们需要尽可能处理越来越多的信息，因为你需要暴露风险，你需要看到自己我不知道的是什么，你要看到像AI这种产业趋势，实际上你不应该防守。然后承认说我再多的信息进来之后，我发现我对他的未知度还是很强。这个时候你是不能做防守的动作。
-</p>
-<p class="transcript-line">
-<span class="time"><strong>[00:37:21]</strong> </span>
-<span class="speaker"><strong>发言人2: </strong></span>
-就是你们在做准备等待那个拐点。对但如果是这样的话，比如说任何一个其他人，他在拐点出现以后再进来好像也不晚。
-</p>
-<p class="transcript-line">
-<span class="time"><strong>[00:37:31]</strong> </span>
-<span class="speaker"><strong>发言人1: </strong></span>
-完全不是。其实刚刚你一开始提到说一个观察，就是大家可能嘴巴上有一些抱怨，但其实做事情上还是很很勤勤恳恳的。这个跟我们的观察是一模一样，大家其实反而是越来越卷的。但是这个卷我其实指的是一个褒义词。比如说去投资，大家还是会做非常多的工作准备工作。其实我们发现各行各业其实都是这么一个状态。
-</p>
-<p class="transcript-line">
-<span class="time"><strong>[00:37:52]</strong> </span>
-<span class="speaker"><strong>发言人2: </strong></span>
-对我觉得其实是一个好事情，我真的感觉是个好事情，大家都变得更专业，更脚踏实地，更实际做事情。
-</p>
-<p class="transcript-line">
-<span class="time"><strong>[00:37:59]</strong> </span>
-<span class="speaker"><strong>发言人1: </strong></span>
-是的，大家会想的更清楚、更细，执行上会使得自己更强。
-</p>
-<p class="transcript-line">
-<span class="time"><strong>[00:38:04]</strong> </span>
-<span class="speaker"><strong>发言人2: </strong></span>
-你讲的非常好啊，但是我的问题是那个拐点以后进来为什么不行的？
-</p>
-<p class="transcript-line">
-<span class="time"><strong>[00:38:09]</strong> </span>
-<span class="speaker"><strong>发言人1: </strong></span>
-一样的，那已经有那么多人在做准备工作了。
-</p>
-<p class="transcript-line">
-<span class="time"><strong>[00:38:12]</strong> </span>
-<span class="speaker"><strong>发言人2: </strong></span>
-你就觉得拐点进来就完了。
-</p>
-<p class="transcript-line">
-<span class="time"><strong>[00:38:14]</strong> </span>
-<span class="speaker"><strong>发言人1: </strong></span>
-对，比如说我们投资这个行业，可能我们在研究AI可能已经有很多人研究的很细了。他已建立好各种的关系网，把很多配件都读完了，然后他可能已经准备好了。如果你等到拐点来的时候，你根据那个信号再去做准备的话，可能已经晚了。接盘侠其实这个词语是不好的。
-</p>
-<p class="transcript-line">
-<span class="time"><strong>[00:38:33]</strong> </span>
-<span class="speaker"><strong>发言人2: </strong></span>
-它本质上也是一种去库存。对从业者来讲也好，对大家的所谓的花的一些时间等等也好，其实都是一种去库存。
-</p>
-<p class="transcript-line">
-<span class="time"><strong>[00:38:42]</strong> </span>
-<span class="speaker"><strong>发言人1: </strong></span>
-对，就要求每个行业越来越专业，越来越适者生存了。
-</p>
-<p class="transcript-line">
-<span class="time"><strong>[00:38:47]</strong> </span>
-<span class="speaker"><strong>发言人2: </strong></span>
-对我其实在你讲的时候，我大概有一个感觉，就是它就好像一个球，就是他这个球的密度是在不断增加的。现在其实是这么一个过程。是的，对，然后那你后面如果到下一个周期，比如杠杆速度再起来以后，对这个就可能里面就又会被注水。但那些水可能就晚进来的那些人，他可能就是从实际意义上来讲，它就会变成一个接盘侠或者一个新的炮灰。大概是其实我们。
-</p>
-<p class="transcript-line">
-<span class="time"><strong>[00:39:13]</strong> </span>
-<span class="speaker"><strong>发言人1: </strong></span>
-内部一直在思考一件事情。比如说你讲投资这个事情，过去我们一直在讲模式，就是有些商业模式它就是更好的，有些位置它就是更好的。但是在下一个周期来了之后，会不会出现一个情况，就确实有一些人做一些事情，他确实做的就是比别人更好的。他可能就没有说，他因为是做这个事情，他用的是不同的商业模式，所以他更有优势。比如说投资这个事情，我们一直在想一个问题，我们一直在分析某一个投资人很优秀原因是因为他有什么方法论，他有什么投资哲学，他相信什么？以后会不会出现这种情况？就是说这个投资本身它的投研能力就是更突出的。
-</p>
-<p class="transcript-line">
-<span class="time"><strong>[00:39:53]</strong> </span>
-<span class="speaker"><strong>发言人2: </strong></span>
-明白，我觉得倒不一定是这样的结果，但我get到你讲的就是每个时代有自己的一个评价的指标。你比如说20年前，大家不会觉得说你融多少钱就厉害。是的，对吧？你可能融资这件事儿都不存在，大家就觉得说你今年能赚多少钱你就是厉害。然后过去的十年、20年，可能因为融资这个体系发展起来了。所以大家判断说，你三年融五轮，你融个什么十亿美金，你就是牛逼。是的。但再往后可能就是又一个新的叙事体系了，对吧？
-</p>
-<p class="transcript-line">
-<span class="time"><strong>[00:40:24]</strong> </span>
-<span class="speaker"><strong>发言人1: </strong></span>
-我们内部觉得这个叙事体系是说你有没有把整个行业的实践往上提，最佳实践往上提升。包括我们看很多的GPT PM，我们很重要一个标准是它整个投资流程，投研流程到底有没有往最佳实践往前迈一步。
-</p>
-<p class="transcript-line">
-<span class="time"><strong>[00:40:40]</strong> </span>
-<span class="speaker"><strong>发言人2: </strong></span>
-对你说这个其实还是卷的结果，就是卷完以后它质量是不是提高了。
-</p>
-<p class="transcript-line">
-<span class="time"><strong>[00:40:45]</strong> </span>
-<span class="speaker"><strong>发言人1: </strong></span>
-其实卷我们觉得有一些是负向的，有一些是正向的，我们觉得这是一个正向的卷法。是所以其实。
-</p>
-<p class="transcript-line">
-<span class="time"><strong>[00:40:51]</strong> </span>
-<span class="speaker"><strong>发言人2: </strong></span>
-背后也还是一个结构性的变化带来的这些东西。是的，包括我在看说你看GDP，虽然大家总觉得不好，但GDP涨还是涨的对吧？然后体量仍然是这么大的。对的，你仍然在全球找不出来第二个可能更好的选择。但大家仍然觉得好像不管悲观也好，confusion也好，是这个结果，就不知为什么呢？就是这个所谓的结构性变化的结果到底是什么？
-</p>
-<p class="transcript-line">
-<span class="time"><strong>[00:41:17]</strong> </span>
-<span class="speaker"><strong>发言人1: </strong></span>
-其实我觉得还是对于我刚刚说的那个，就是大家对于质量的需求还是太大，为什么呢？因为我们现在需要照顾的整个经济的范围太大了。原来我们是靠经济本身拉动经济，增速本身拉动经济。但现在可能真的是要靠结构的分工，高效率的分工，真的是要靠一些新的东西去拉动这个事情。所以我们自己内部定义的下一个变化，可能来还是来自于最佳范式的变化。
-</p>
-<p class="transcript-line">
-<span class="time"><strong>[00:41:44]</strong> </span>
-<span class="speaker"><strong>发言人2: </strong></span>
-最佳范式的变化其实就是做的最好的人，他对自己提出更高要求，然后通过更多的努力得到更好的结果。这个结果而且它可能跟外部的评价体系不一定是挂钩的对吧？还是实打实的一个结果。然后同时一些本来做的没有那么好的人，渐渐也是经历一个去库存和出清的一个阶段。是的，我觉得每个人都可以站在自己的视角去想一下自己的所在的行业去库存的一个情况。
-</p>
-<p class="transcript-line">
-<span class="time"><strong>[00:42:08]</strong> </span>
-<span class="speaker"><strong>发言人1: </strong></span>
-以及最佳实践可能会发生在什么地方。
-</p>
-<p class="transcript-line">
-<span class="time"><strong>[00:42:11]</strong> </span>
-<span class="speaker"><strong>发言人2: </strong></span>
-我觉得至少比如说从创投领域来讲，我感觉去库存的已经差不多了。
-</p>
-<p class="transcript-line">
-<span class="time"><strong>[00:42:16]</strong> </span>
-<span class="speaker"><strong>发言人1: </strong></span>
-去库存差不多其实是一条暗线。但是民间就在于是说，下一个创投行业的最佳时间是什么？是比如说我们在美国，如果我发现中国的创投圈的人是会听twenty SBC的对吧？那它是不是代表一个新的实践呢？
-</p>
-<p class="transcript-line">
-<span class="time"><strong>[00:42:30]</strong> </span>
-<span class="speaker"><strong>发言人2: </strong></span>
-包括美国的solo VC是不是。
-</p>
-<p class="transcript-line">
-<span class="time"><strong>[00:42:32]</strong> </span>
-<span class="speaker"><strong>发言人1: </strong></span>
-一个新的时间呢？包括我们看到有一些VC基金，其实在day one的时候是融资的，就它的GP本身是融资的，问原因就是为了自己也去做自己的大模型和算法。这个算不算一个最佳实践？我觉得就是VC和AI的结合。
-</p>
-<p class="transcript-line">
-<span class="time"><strong>[00:42:46]</strong> </span>
-<span class="speaker"><strong>发言人1: </strong></span>
-是的，但这些东西太早了，我们不应该过早的去下定义。但是很多最佳实践的努力是绝对不会错的。只要你有这个资源能力去做这个事情。就是我觉得创投行业大家最后真正兴奋的一可还是来自于更好的时间出现的时候。是那这种更好的时间出现的时候，刚刚你提到会不会晚，怎么去定义呢？你是不是这个东西的一部分，你有多大的参与度，就是这个准备的周期肯定是越早越好的。
-</p>
-<p class="transcript-line">
-<span class="time"><strong>[00:43:14]</strong> </span>
-<span class="speaker"><strong>发言人2: </strong></span>
-所以你看我们聊到说，其实当下的肯定是一个去库存的末期的一个阶段，所以大家可能暂时还是受到一些影响，得不到一些很明确的正反馈。所以大家可能会有confusion，倒不一定是一个绝对的悲观，可能只是confusion。这confusion需要的是我们更强的conviction来应对这个周期的。然后这里面具体的体现就是我们不应该过于去因为外部的评价和反馈而自我怀疑，或者说感到悲观。更多的是建立自己一套体系。这个体系可能就是我要真的把事情做好，我要去像你讲的树立更好的一个最佳标杆。最后对于国内的不管是投资行业从业者，还是创业者，或者想要创业的人，你觉得未来一两年有没有什么建议给他们？
-</p>
-<p class="transcript-line">
-<span class="time"><strong>[00:44:05]</strong> </span>
-<span class="speaker"><strong>发言人1: </strong></span>
-我觉得很重要的一点就是要准确。以前像我们做投资会有一个隐含的逻辑，就是我试一试。但现在的投资，从我因为我们是投研这个角度，我们会觉得准确度是很重要。
-</p>
-<p class="transcript-line">
-<span class="time"><strong>[00:44:19]</strong> </span>
-<span class="speaker"><strong>发言人1: </strong></span>
-比如说我们你看elon musk他去做XAI这件事情，它的积累是什么？是OpenAI这么几年的发展。这一年AI的发展，它积累了大量的信息和认知了。他在去做XAI的时候，他的定位，他的这个role map，他招人，只是本质上他会越来越准确。比如说XAI到现在其实就几个人，就是可能十个人左右。但是他对于他该招什么样的人，他就比上一个时代要更精准。
-</p>
-<p class="transcript-line">
-<span class="time"><strong>[00:44:47]</strong> </span>
-<span class="speaker"><strong>发言人1: </strong></span>
-然后我觉得对于我们的创业和投资其实是一样的。因为我们现在有能力去看清楚这个事情了，因为有太多的素材了。比如今天是没有什么太新的行业的，你去看一个行业，其实跑不出什么太新的东西出来。它的范式就在那个地方，它的规律就在那个地方。需要花更多的时间去总结、演绎、讨论，让自己尽量的站在对的位置上面和相对准确的这个picture上面去做。
-</p>
-<p class="transcript-line">
-<span class="time"><strong>[00:45:13]</strong> </span>
-<span class="speaker"><strong>发言人1: </strong></span>
-以前我们的特点是说我们的迭代能力非常强。其实中国创业者和中国投资人真的就是迭代能力非常强。以前我们可能是从60分开始，我们不断迭代到100分。然后美国的创业范式现在可能已经变成我从80分开始，但我们可能也做不到80分。因为我们的信息通畅程度其实在某一些领域是没有他们高。但我们尽量让自己做到从70分开始再去迭代。
-</p>
-<p class="transcript-line">
-<span class="time"><strong>[00:45:37]</strong> </span>
-<span class="speaker"><strong>发言人2: </strong></span>
-然后结果就是当这波周期走光以后，对吧？就是当我们的暗线处理完毕以后，然后应该就是在近一两年。那这个时候当明线要出来，应该大概率是比如AI或者其他的一些领域，那就会有更好的机会去发展。
-</p>
-<p class="transcript-line">
-<span class="time"><strong>[00:45:56]</strong> </span>
-<span class="speaker"><strong>发言人2: </strong></span>
-是的，对，而且其实我之前也跟很多人聊说，现在比如至少我们同龄人大家都是年轻人。然后大家都会有一个想法说，我当时如果早入行几年，对吧？然后我当时如果早生几年，如果赶上某某播的机会会怎么样？我觉得大家还都年轻对吧？还都年轻的那那既然没有赶上那一波，那就赶下一波呗，对吧？年轻的人其实是没有本钱去悲观的，大家还是要努力，不管主观客观，总之都要乐观。
-</p>
-<p class="transcript-line">
-<span class="time"><strong>[00:46:26]</strong> </span>
-<span class="speaker"><strong>发言人1: </strong></span>
-有一个比较刻舟求剑的方式，就是说其实像google这些公司，在当年互联网泡沫之后的三年四年左右的时间上市的。是但这个东西不能做绝对的刻舟求剑，但是其实是一个积极的信号。
-</p>
-<p class="transcript-line">
-<span class="time"><strong>[00:46:40]</strong> </span>
-<span class="speaker"><strong>发言人2: </strong></span>
-对，就是底部里面一定会成长出来最优秀的公司的对，因为他真的是靠自己实打实的做出来。是的是的，好，感谢杰霖，谢谢。
-</p>]]></content:encoded>
-            <pubDate>Sat, 02 Dec 2023 16:00:00 GMT</pubDate>
-            <guid>656aeffd0500be931c4eb099</guid>
         </item>
     </channel>
 </rss>
