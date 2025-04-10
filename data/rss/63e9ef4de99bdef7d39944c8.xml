@@ -4,11 +4,930 @@
         <title>AI炼金术</title>
         <link>https://www.xiaoyuzhoufm.com/podcast/63e9ef4de99bdef7d39944c8</link>
         <description>关注 AI 带来的本质变化和商业机会</description>
-        <lastBuildDate>Fri, 28 Mar 2025 04:53:52 +0800</lastBuildDate>
+        <lastBuildDate>Fri, 11 Apr 2025 05:12:45 +0800</lastBuildDate>
         <item>
-            <title>技术驱动 VS 业务需求 | 聊聊投入 AI 的速度、合理性与落地</title>
+            <title>400万用户的 Stress Watch 是一个 bad idea ？？| 对话100 Bad Ideas工作室创始人Alex</title>
+            <link>https://www.xiaoyuzhoufm.com/episode/67f7b214f5dc0d5e150e0452</link>
+            <description>大家好，欢迎大家来到新一期的AI炼金术。今天邀请的嘉宾是 Alex ，他是健康与健身领域产品工作室 100 Bad Ideas 的创始人，压力检测应用StressWatch和运动记录工具PeakWatch刚好都是我在用的两个APP，所以找他赶紧来聊一聊。Alex分享了对健康数据产品的四层理解——从数据、解释、洞察到干预，产品不应制造焦虑，而是通过柔软的设计语言传递温暖。面对独立开发者三件套的同质化挑战，团队选择深耕细分场景，通过小红书冷启动、用户打卡活动撬动自然流量，海外市场探索增长可能。
+其他兑换信息在时间戳下方
+嘉宾：
+Alex |「100 Bad Ideas」工作室创始人
+时间线：
+02:40 压力检测器 StressWatch 的开发背景及过程
+04:21 手表应用市场的机会与挑战
+11:21 压力监测产品的设计理念与用户群体
+16:18 AI 技术在工具产品中的价值评估与商业化策略
+17:43 通过用户访谈与数据分析优化产品定位
+22:07 通过用户打卡和 KOL 推广打造自然流量
+25:32 海外营收增长策略：依靠数据化投放与 KOC 营销
+31:09 手表应用与 AI 结合的开发挑战及创意案例
+34:32 AI 在健康硬件产品中的应用与发展
+相关
+关注小红书「StressWatch APP」和「PeakWatch」账号，领取 StressWatch 和 PeakWatch 终生会员减券，兑换码：2025AI
+欢迎订阅「AI 炼金术」的播客，以及同名公众号、视频号
+「AI 炼金术」是一档由徐文浩和任鑫——两位多年老友、AI 领域的资深从业者——打造的播客。这里是探讨 AI 和创业的理想聚集地，我们会邀请一线创业者、产品产品和科研学者，深入探讨 AI 如何重塑行业、变革生活，以及如何从 0 到 1 打造 AI 原生产品。我们的讨论会涵盖多个话题：从 AI 如何改变世界的未来，到如何找到 AI 创业的 PMF；从如何利用 AI 降本增效，到怎样将 AI 技术融入日常生活……如果你对 AI、产品、创业感兴趣，这里有满满的干货和一线实战经验，欢迎关注并推荐给你的朋友，共同探索未来的无限可能！
+商务合作：公众号 「AI炼金术 」菜单栏中【商务】获取联系方式
+节目主理人：
+徐文浩：某AI创业公司联合创始人，正在面向全球市场开发AI应用。连续创业者，参与过多家创业公司，拼多多早期员工。广告科技公司MediaV的算法和数据负责人，后被360收购。离开后加入成立不到1个月的拼多多。后创办了基于AI的海外客服聊天机器人公司 BotHub.AI 和 海外社交电商平台 Bukito 都宣告失败。2023年再次下场创业。
+任鑫：云九资本合伙人，主要在投资和孵化面向全球市场的 AI 应用。之前是连续创业者，曾经打造“今夜酒店特价”用移动互联网应用特价销售酒店尾房；被京东并购后内部创业“京东到家”开展本地即时零售业务；2015 年再次创业 Get 探索对话式人工智能助理成为先烈；2021 年出售公司，2023 年重新回到 AI 世界。
+BGM：
+片头：Shortwire - Reconfig
+片尾：Joshua Hyslop - Home</description>
+            <content:encoded><![CDATA[<h1>转写链接</h1>
+<link>https://tongyi.aliyun.com/efficiency/doc/transcripts/klrbn277mgk395zy</link><br>
+<h1>节目摘要</h1>
+<div class="summary">一位经验丰富的专业人士介绍了他所参与的工作室One Hundred Five Ideas，该工作室专注于健康和健身领域的创新应用开发。在离开Future Fitness Magic Mirror公司后，他负责创新部门和北美产品设计，主导了两个核心产品的开发：Stress Watch，一款通过监测心率变异性来评估压力水平的智能手表；以及Pick Watch，旨在帮助用户记录和分析运动数据，提升健康管理和压力缓解效果。强调了从数据收集到提供个性化健康建议的完整服务链，同时指出产品开发面临的挑战，如系统稳定性和用户体验优化，并探讨了通过社交媒体平台获取用户反馈的策略。此外，对未来AI技术在产品中的应用持开放态度，并表达了对探索更多硬件项目可能性的兴趣。</div><br>
+<h1>章节速览</h1>
+<div class="chapters">
+<div class="chapter-item">
+<span class="time"><strong>[00:00:00]</strong> </span>
+<span class="chapter-title"><strong>健康科技：手表APP的AI炼金术</strong></span>
+<div class="chapter-summary">对话围绕健康数据产品的四个层次展开：数据本身、数据解释、洞察和干预。重点探讨了一款名为stress watcher的压力检测器和一款名为pick的运动记录APP，这两款产品均出自名为one hundred five ideas的工作室。该工作室专注于健康和健身领域的产品开发，特别是结合AI技术以提供更个性化的用户体验。</div>
+</div>
+<div class="chapter-item">
+<span class="time"><strong>[00:02:40]</strong> </span>
+<span class="chapter-title"><strong>从压力检测器到产品的创新之路</strong></span>
+<div class="chapter-summary">团队在22年底开始关注并研究基于心率变异性来判断压力情况的方向，最终开发出第一款产品stress watch。此过程中，他们尝试了许多不同的想法，并在团队仅有两人的情况下，用三个月时间完成了MVP的开发。尽管已推出多款产品，但真正成功的只有少数几款。</div>
+</div>
+<div class="chapter-item">
+<span class="time"><strong>[00:04:22]</strong> </span>
+<span class="chapter-title"><strong>手表应用市场的机会与挑战</strong></span>
+<div class="chapter-summary">讨论围绕在智能手表应用市场的开发和机会。尽管手表市场被认为较小，但购买手表的用户通常有较高的付费意愿和支付能力，这为开发手表应用提供了有利条件。此外，相较于手机应用市场的激烈竞争，手表表盘之争可能更容易获得立足之地。通过案例分享，展示了小规模产品的开发流程和经验，以及找到产品与市场需求匹配（PMF）的重要性。</div>
+</div>
+<div class="chapter-item">
+<span class="time"><strong>[00:06:49]</strong> </span>
+<span class="chapter-title"><strong>通过社交媒体验证产品市场匹配度（PMF）的策略</strong></span>
+<div class="chapter-summary">讨论了在产品尚未开发完成时，如何通过社交媒体平台如小红书进行产品市场匹配度（PMF）的快速验证。通过发布产品概念和功能描述，吸引了大量用户报名内测，显示了市场对产品的潜在需求。此外，还讨论了产品设计的萌系风格，旨在提供用户温暖和柔软的感觉，以应对压力这一核心功能。最初目标市场为中国，但考虑到产品性质，未来计划扩展至海外市场。</div>
+</div>
+<div class="chapter-item">
+<span class="time"><strong>[00:11:54]</strong> </span>
+<span class="chapter-title"><strong>压力监测应用的用户群体与产品发展策略</strong></span>
+<div class="chapter-summary">该对话讨论了一款名为stress watch的压力监测应用，其主要用户群体为60%以上的女性，特别是学生和刚入社会的年轻人。尽管中年人群压力大，但青少年用户因学业压力而对监测自身压力有强烈需求。用户表达了对产品能提供压力缓解建议和相关性分析的期望，如运动和饮食对压力的影响。开发团队解释了产品目前处于数据解释和洞察阶段，正逐步向干预阶段发展，如通过呼吸训练降低压力，并计划进一步提升产品功能，以更有效地帮助用户理解和管理压力。</div>
+</div>
+<div class="chapter-item">
+<span class="time"><strong>[00:15:28]</strong> </span>
+<span class="chapter-title"><strong>将AI融入健康监控产品的策略与考量</strong></span>
+<div class="chapter-summary">讨论集中在如何有效地将人工智能（AI）技术融入到监控压力水平（如HRV和静息心率）的健康产品中。虽然AI的应用能提升产品体验，团队强调不希望以粗暴的方式如直接添加聊天机器人来实现，而是寻找能与具体场景和数据有机结合的方式。决策逻辑基于两点：一是AI的加入能否明确提升用户体验，二是考虑到成本，尤其是对终身会员的影响，需探讨是否需要通过增值会员服务来覆盖AI带来的额外成本。</div>
+</div>
+<div class="chapter-item">
+<span class="time"><strong>[00:17:19]</strong> </span>
+<span class="chapter-title"><strong>商业产品价值判断与市场策略</strong></span>
+<div class="chapter-summary">对话围绕商业产品的价值判断、成本考量及市场策略展开。在产品开发早期，主要通过大量用户访谈了解目标用户的需求和反应；产品上线后，则主要依赖数据分析评估价值。曾考虑个人助理方向，但鉴于巨头竞争，转向关注苹果健康数据的利用，试图寻找产品与用户互动的新切口。强调在与巨头竞争中，专注细分领域，深入开发特定功能，以寻找与原生产品不同的定位，从而在市场中生存。</div>
+</div>
+<div class="chapter-item">
+<span class="time"><strong>[00:19:54]</strong> </span>
+<span class="chapter-title"><strong>健康追踪应用与Apple的对比及设计价值</strong></span>
+<div class="chapter-summary">对话围绕健康追踪应用与Apple设备数据准确性的对比展开，探讨了应用如何通过提供情感支持和个性化设计来弥补数据科学性的不足。用户表达了对Apple数据严谨性的信任，但同时也认可了第三方应用在提供温暖提醒和满足表盘装饰需求方面的独特价值。设计的商业价值被强调，特别是在吸引用户下载和使用应用时，美观的设计起到了关键作用。</div>
+</div>
+<div class="chapter-item">
+<span class="time"><strong>[00:22:07]</strong> </span>
+<span class="chapter-title"><strong>通过用户打卡和KOL合作打造自然流量</strong></span>
+<div class="chapter-summary">该对话讨论了通过自然流量推广产品的方法，包括在小红书上进行用户打卡活动、与KOL和KOC合作推广，以及利用爆款帖子带来的流量效应。特别提到一次成功的用户自发帖子引起了巨大反响，导致服务器挤爆。同时，对话还讨论了产品在海外市场推广的策略，以及面对同类产品增多和变现能力受挑战时的应对措施。</div>
+</div>
+<div class="chapter-item">
+<span class="time"><strong>[00:26:02]</strong> </span>
+<span class="chapter-title"><strong>海外营销策略：数据化投放与KOC选择</strong></span>
+<div class="chapter-summary">海外营销主要依赖数据化投放和关键意见消费者（KOC）。通过不同阶段测试不同类型的影响力者，以曝光和互动数评估效果。鉴于预算有限，目前更倾向于在YouTube和Instagram上投放，因Twitter的转化效果不佳且成本效益比低。在Meta平台投放的同时，自家账号也能获得关注和流量，实现与影响力者的互动，形成交叉推广效应。</div>
+</div>
+<div class="chapter-item">
+<span class="time"><strong>[00:27:24]</strong> </span>
+<span class="chapter-title"><strong>提高最大摄氧量的健身策略</strong></span>
+<div class="chapter-summary">对话围绕如何提高最大摄氧量（VO2 max）展开，讨论了结合游泳和力量训练的效果，以及使用智能设备监测训练强度和体能输出的体验。参与者提到了在健身过程中遇到的挑战，包括VO2 max数值的波动性，以及如何根据个人训练模式调整训练强度以避免过度训练。此外，还探讨了不同训练模式对达到推荐目标区间的影响，以及算法调整对于国内和海外用户的不同适用性。</div>
+</div>
+<div class="chapter-item">
+<span class="time"><strong>[00:31:09]</strong> </span>
+<span class="chapter-title"><strong>开发手表应用的挑战与创意案例</strong></span>
+<div class="chapter-summary">对话围绕开发与手表结合的AI产品展开，探讨了手表应用的独特性和面临的挑战，特别是苹果手表上的系统级bug问题。同时，讨论了创意应用案例，如基于上下文提供圣经章节的软件和面向特定宗教需求的应用，展示了手表应用在个性化和装饰性方面的潜力。</div>
+</div>
+<div class="chapter-item">
+<span class="time"><strong>[00:34:32]</strong> </span>
+<span class="chapter-title"><strong>探讨AI和健康硬件的潜力与挑战</strong></span>
+<div class="chapter-summary">对话围绕AI在提升研发效率和产品体验增益中的作用展开，同时讨论了开发与健康相关的AI硬件的可能性，特别是考虑到海外市场。提到了床头灯和宠物产品作为潜在的硬件方向，并强调了产品定位和供应链的重要性。尽管面临资金和供应链的挑战，团队表达了对探索这些领域的兴趣，并分享了他们在设计和供应链管理方面的经验。</div>
+</div>
+</div><br>
+<h1>问题回顾</h1>
+<div class="qa-item">
+<div class="question"><strong>Q:</strong> 你们公司为什么叫做one hundred five ideas？</div>
+<div class="answer"><strong>A:</strong> 刚开始的时候我们开了一个在线文档，里面有很多各种各样的想法，那个文档的名字就叫“我想去拜拜”。当我们考虑公司名字时，有个朋友看到这个文档的名字，建议就用这个名字，然后我们就采用了它。</div>
+</div>
+<div class="qa-item">
+<div class="question"><strong>Q:</strong> 这个名字是可以被注册下来的吗？</div>
+<div class="answer"><strong>A:</strong> 我在香港注册了这个名称，所以是可以被注册的。</div>
+</div>
+<div class="qa-item">
+<div class="question"><strong>Q:</strong> 你们上线一款APP大概需要多长时间？</div>
+<div class="answer"><strong>A:</strong> 这取决于具体要做什么。例如stress watch第一版，我们只有两个人团队，我负责产品和研发，用了三个月左右的时间做出一个MVP（最小可行产品）。</div>
+</div>
+<div class="qa-item">
+<div class="question"><strong>Q:</strong> stress watch是不是特别需要有苹果手表来使用？</div>
+<div class="answer"><strong>A:</strong> 我们并不是刻意设计成这样，但确实认为手表市场存在一定的付费意愿和支付能力筛选作用，并且手表表盘市场相对较小，更容易占领重要入口，相比手机应用更容易生存下来。</div>
+</div>
+<div class="qa-item">
+<div class="question"><strong>Q:</strong> 你们为何选择手表市场，并最终撞中了市场需求点（PMF）？</div>
+<div class="answer"><strong>A:</strong> 我们尝试了很多产品，不只是选择了手表市场，而是做了很多尝试，包括一个白噪音播放器——beside，用一个月左右的时间跑通了从设计到研发到上架的全流程，虽然初期销量不佳，但随后推出的stress watch成功地找到了市场需求点，证明了有PMF的存在。</div>
+</div>
+<div class="qa-item">
+<div class="question"><strong>Q:</strong> 你们如何通过小红书来验证产品是否具有市场潜力（PMF）？</div>
+<div class="answer"><strong>A:</strong> 我们很早就在小红书上开始发布内容，甚至在产品还没完全成型时就开始了。我们通过描述产品功能并宣布开始内测，短时间内就收到了近2000份内测申请，这表明即使只是一个初步的概念，也吸引了大量用户关注，验证了市场需求的存在。因此，我们进一步加快了产品研发步伐。</div>
+</div>
+<div class="qa-item">
+<div class="question"><strong>Q:</strong> 你们最初瞄准的是海外市场还是中国市场？</div>
+<div class="answer"><strong>A:</strong> 初期我们主要瞄准的是中国市场，因为离我们更近，且知道这是一个工具型产品，未来出海会相对容易。先在国内市场做好产品，然后再考虑出海。</div>
+</div>
+<div class="qa-item">
+<div class="question"><strong>Q:</strong> 小红书上做产品推广时，你们采取了哪些特别的策略？</div>
+<div class="answer"><strong>A:</strong> 在小红书上，我们可以购买一些服务（如薯条）给自己的帖子加热，看看能有多少扩散效果。此外，我们一开始就组织了很多人来内测，这些天使用户不仅帮助我们测试产品，还能通过与他们的交流了解早期版本的反馈，并借助用户的传播实现冷启动阶段的成功。</div>
+</div>
+<div class="qa-item">
+<div class="question"><strong>Q:</strong> 当时大家被吸引加入内测，主要是因为产品功能、设计还是截图的可爱程度？</div>
+<div class="answer"><strong>A:</strong> 主要还是因为产品功能，当时设计还在草图阶段，但通过强调疫情后人们对健康的意识提升以及打工族的压力问题，成功吸引了用户。功能设计上，我们希望提供一个直观感受压力并给予温暖支持的产品，而非冰冷的数据指标。</div>
+</div>
+<div class="qa-item">
+<div class="question"><strong>Q:</strong> 你们产品的真正用户群体主要是男性还是女性？</div>
+<div class="answer"><strong>A:</strong> 我们的产品真正的用户群体中，超过60%是女性，年龄层相对偏轻，包括学生和刚入社会的年轻人，其中高中生用户也因备考期间的压力大而使用较多。</div>
+</div>
+<div class="qa-item">
+<div class="question"><strong>Q:</strong> 为什么年轻用户会更注重监测自己的压力？你们的产品是否提供了压力减轻的相关性分析，比如运动量与压力的关系？</div>
+<div class="answer"><strong>A:</strong> 青少年面临的压力非常大，我们在他们中发现了一大批使用免费版本监测压力的用户，特别是在备考期间。我们产品的定位是提供关于健康数据的四个层次信息：数据本身、数据解释、洞察和干预。我们目前并未做算命式的压力相关性分析，而是更注重科学原理和用户行为习惯之间的关联指导。</div>
+</div>
+<div class="qa-item">
+<div class="question"><strong>Q:</strong> 在stress watch和p watch中，目前阶段主要在做哪些尝试，特别是在如何洞察压力与行为之间的关系？</div>
+<div class="answer"><strong>A:</strong> 目前阶段，我们正在尝试通过添加新tab（如actions tab）来探索用户行为对其压力的影响。这个tab会展示不同行为如何对压力产生影响的数据和关联。</div>
+</div>
+<div class="qa-item">
+<div class="question"><strong>Q:</strong> 你们如何利用AI技术帮助用户了解并管理压力？</div>
+<div class="answer"><strong>A:</strong> 目前AI主要用于对特定情况的压力解读，并非直接整合聊天机器人功能。我们的目标是找到一个与场景和数据结合得比较有机的方式来引入AI能力，例如在产品中提供一些简单的呼吸训练法以帮助用户快速降低压力。</div>
+</div>
+<div class="qa-item">
+<div class="question"><strong>Q:</strong> 你们如何评估是否以及如何在产品中加入AI功能，例如chatbot或其他形态？你们在决定是否加入AI功能时，有没有具体的框架或决策逻辑？</div>
+<div class="answer"><strong>A:</strong> 我们的决策逻辑有两个维度：首先，我们作为一家做工具产品的团队，会考虑加入AI后是否能明显提升用户体验。如果答案肯定，则进一步评估成本，包括开发和运维成本，并结合商业化策略（如终身会员服务）来判断投入的价值。我们的决策方式较为直接，早期主要通过大量用户访谈获取反馈，上线后则主要依赖数据进行判断。在不同阶段采用不同的方法，比如早期通过访谈，上线后看数据表现。</div>
+</div>
+<div class="qa-item">
+<div class="question"><strong>Q:</strong> 是否有考虑将产品扩展到更大的场景，比如个人助理方向？</div>
+<div class="answer"><strong>A:</strong> 我们曾考虑过个人助理方向，但由于该领域竞争激烈且难以找到合适的切入点，最终回归到基于健康数据的小点切入，如training load等功能，并致力于找到与苹果原生产品不同的定位来生存和发展。</div>
+</div>
+<div class="qa-item">
+<div class="question"><strong>Q:</strong> 对于像auto sleep这类功能，如何解决用户对于准确性不够科学的疑虑？</div>
+<div class="answer"><strong>A:</strong> 对于类似stress watch这样的产品，我们更注重在压力高时给予用户提醒和温暖的感觉，而非过分强调科学性和准确性。我们利用苹果提供的数据源，在特定场景下为用户提供更具人文关怀的体验。</div>
+</div>
+<div class="qa-item">
+<div class="question"><strong>Q:</strong> 你们的产品除了IP形象合作外，还有什么重要的需求？</div>
+<div class="answer"><strong>A:</strong> 另一个重要的需求是表盘装饰的需求，这也是我们合作众多IP的原因之一，目的是让表盘变得更美观。</div>
+</div>
+<div class="qa-item">
+<div class="question"><strong>Q:</strong> 在推广方面，你提过“流量要自己造”，具体做了哪些动作并哪些有效？</div>
+<div class="answer"><strong>A:</strong> 我们主要在国内依靠自然量增长，在小红书上举办用户打卡活动。去年年底开始，在海外通过投放广告来获取流量。此外，我们每个月都会做一些与品牌合作的用户打卡活动，并在小红书上找KOC和KOL帮助推广，利用产品本身的吸引力引发自发传播。</div>
+</div>
+<div class="qa-item">
+<div class="question"><strong>Q:</strong> 对于stress watcher这类产品，如何在众多竞品中脱颖而出并吸引用户？</div>
+<div class="answer"><strong>A:</strong> 由于这个产品具有较高的认知度，我们的策略更多是强调其独特性和优势，而非从零开始教育市场。同时，我们会结合场景营销，比如与明星结合推广，以及讲好故事，让用户了解它是一个好东西。</div>
+</div>
+<div class="qa-item">
+<div class="question"><strong>Q:</strong> 当独立开发者三件套都做类似产品时，如何保持你们的变现能力？</div>
+<div class="answer"><strong>A:</strong> 虽然存在竞争压力，但我们已经开始将重心转向海外市场，海外营收逐渐增大，未来增量主要依靠海外市场。在海外营销上，我们会采用数据化投放和KOC策略。</div>
+</div>
+<div class="qa-item">
+<div class="question"><strong>Q:</strong> 在海外市场，你们主要依赖哪个平台做营销？</div>
+<div class="answer"><strong>A:</strong> 目前阶段，我们在Youtube上的投放较多，因为预算有限。同时也在Instagram上投放，并且我们的官方账号也能获得关注和流量，而Twitter暂时不在我们的投放计划内。</div>
+</div>
+<div class="qa-item">
+<div class="question"><strong>Q:</strong> 在运动监测方面，你们的产品能提供怎样的数据反馈？</div>
+<div class="answer"><strong>A:</strong> 我们的产品在运动时会根据不同的运动类型和强度给出相应的反馈，例如在长时间户外行走或跑步时提供最大摄氧量等数据。此外，还有一个称为ATCTL的指标，它反映了训练强度、压力以及长期体能能力，并且相比最大摄氧量，这个指标更加灵敏。</div>
+</div>
+<div class="qa-item">
+<div class="question"><strong>Q:</strong> 如果用户按照个人训练强度设定使用产品，会出现什么情况？</div>
+<div class="answer"><strong>A:</strong> 如果按照个人训练强度设定，产品会在当天运动后提醒用户训练量适中或过量。并且，我们会根据用户的训练模式调整算法，以适应不同用户的运动需求，包括专业级、减肥型等不同类型的用户。</div>
+</div>
+<div class="qa-item">
+<div class="question"><strong>Q:</strong> 对于想要开发与手表结合的AI产品，有什么建议吗？</div>
+<div class="answer"><strong>A:</strong> 建议在开发时充分利用手表的提醒功能和表盘定制能力，比如可以实现手表直接开启运动并展示自定义的训练计划和数据。同时要注意苹果手表系统存在一些已知的系统级bug，可能会在大规模用户使用时出现各种问题，例如表盘刷新不及时、APP无法正常加载等问题。</div>
+</div>
+<div class="qa-item">
+<div class="question"><strong>Q:</strong> 是否可以在手表表盘上实时获取与用户上下文相关的数据，如圣经内容？</div>
+<div class="answer"><strong>A:</strong> 表盘是可以刷新并展示自定义信息的，因此理论上是可以实现手表显示随机圣经内容或其他上下文相关的信息。目前已有针对不同宗教需求的表盘设计，如伊斯兰教方向的钟表，以及根据圣经章节显示时间的钟表。</div>
+</div>
+<div class="qa-item">
+<div class="question"><strong>Q:</strong> 你们公司现在关注AI技术吗？有没有考虑过做硬件产品？</div>
+<div class="answer"><strong>A:</strong> 我们关注AI主要是为了提升研发效率和优化现有产品的用户体验。至于硬件产品，目前由于资金限制没有考虑，但如果有钱并且有合适的产品定位和供应链资源，我们也会考虑涉足健康和AI相关的硬件领域，尤其是海外市场。</div>
+</div>
+<div class="qa-item">
+<div class="question"><strong>Q:</strong> 在过去的几年中，你们团队关注过哪些产品方向，并最终决定聚焦哪两个产品？</div>
+<div class="answer"><strong>A:</strong> 我们之前研究过一些方向，比如助眠产品中的床头灯，它可以与睡眠监测、氛围、冥想和健康等多种功能结合，以及宠物相关产品。但在2024年，我们决定专注于将这两个产品做好并扩大规模。</div>
+</div>
+<div class="qa-item">
+<div class="question"><strong>Q:</strong> 你们团队在硬件设计、供应链管理和产品场景方面有哪些优势？</div>
+<div class="answer"><strong>A:</strong> 我们团队拥有来自北美的研发和设计人才，以及一部分产品经验。我们不仅有设计能力，能够打造出漂亮的产品，还擅长供应链管理，并且能够找到适合用户的产品场景。</div>
+</div>
+<div class="qa-item">
+<div class="question"><strong>Q:</strong> 你们的产品是否经过用户实际使用验证，能否分享一下s watch的表现？</div>
+<div class="answer"><strong>A:</strong> s watch在实际使用中表现很好，尤其对于压力监测方面，它能够在我压力较大、倒时差时提醒我调整呼吸。我曾带着测试心态使用，发现其确实能有效监测。</div>
+</div>
+<div class="qa-item">
+<div class="question"><strong>Q:</strong> pick watch的设计感觉如何？能否介绍一下pick watch设计团队的成员情况？</div>
+<div class="answer"><strong>A:</strong> pick watch的设计虽然画风较为好看，但相较于pro watch，感觉空旷一些，特别是屏幕下方的空档较大。pick watch的设计主要由我和patch负责，另一位设计合伙人王超负责p cos的设计，他之前在魅族担任重要设计师，负责手机操作系统的设计。</div>
+</div>
+<div class="qa-item">
+<div class="question"><strong>Q:</strong> 对于pick watch设计上的空旷感，您怎么看？</div>
+<div class="answer"><strong>A:</strong> 我们意识到pick watch的设计可能存在一定的空旷感，这在设计时有所考虑，也欢迎大家提出意见和吐槽。</div>
+</div>
+<h1>节目文稿</h1>
+<p class="transcript-line">
+<span class="time"><strong>[00:00:05]</strong> </span>
+<span class="speaker"><strong>发言人1: </strong></span>
+手机的桌面之战，你是打不过互联网公司的，但是手表表盘之争，你指不定是能够活下来。我们对于健康数据类的产品的理解始终有四个层次。第一个层次就是数据本身，第二个层次是关于数据的解释，第三个层次是洞察，第四个层次是干预。大家本来压力就很大了，然后我们不想给大家是一个数字，然后去说我怎么优化这个数字。我们想要说在你被通知到有压力的时候，至少我们能够提供给你一点温暖和柔软的感觉，这个是核心的出发点。
+</p>
+<p class="transcript-line">
+<span class="time"><strong>[00:00:52]</strong> </span>
+<span class="speaker"><strong>发言人2: </strong></span>
+欢迎大家来到AI炼金术。今天请来的是alex，为什么请他来呢？是因为我自己下载了好几个软件用，然后用着用着我连钱都付了。然后发现原来是自己朋友做的，认识两个非常知名的产品都是我主动用的，我都不知道是他做的，我就在主动用。
+</p>
+<p class="transcript-line">
+<span class="time"><strong>[00:01:09]</strong> </span>
+<span class="speaker"><strong>发言人2: </strong></span>
+第一个是那个stress watcher，就是那个压力的检测器。我有一次倒时差的时候，他会每隔几分钟就跟我讲一次，说你现在压力太大了。另外我最近在运动，然后又下载了一个叫pick，好像叫你们全名是叫pick还是叫pick watch。然后又下载了这个就很好看的一个帮你剪记录运动的一个APP，这两个我都用了，然后就赶紧说来来来来来你做的来来来请教一下。刚好我非常感兴趣这种做手表的APP，然后你们又号称搞AI，对吧？里面加了什么AI元素，所以就把alex抓过来说，来来来请教一下手表AI怎么做？大概这么个件事儿。你要不要自我介绍一下？
+</p>
+<p class="transcript-line">
+<span class="time"><strong>[00:01:47]</strong> </span>
+<span class="speaker"><strong>发言人1: </strong></span>
+我叫alex，我们这个工作室的名字叫one hundred five ideas。我们主要的产品是集中在健康和健身这个赛道里面，只做这个细分领域里面的一些事儿。那为什么会这样来做？是因为之前在一家叫future健身魔镜的公司，负责他们的这个创新部门和北美的产品。我在feature待了差不多两三年左右。然后刚开始的时候是负责有一个叫x lab的部门，然后公司包括像镜面和手机端的所有的体验，以及说体验内容和AI怎么结合，都是我们来负责做设计和搭建的整整体的体验框架。公司开始进入美国，然后在美国开展业务。那我就开始我就搬去纽约去做在北美的整体的产品的设计，然后包括跟技术跟产品和内容的融合。
+</p>
+<p class="transcript-line">
+<span class="time"><strong>[00:02:40]</strong> </span>
+<span class="speaker"><strong>发言人2: </strong></span>
+再见。因为太卷了，所以就做了一个压力检测器。
+</p>
+<p class="transcript-line">
+<span class="time"><strong>[00:02:43]</strong> </span>
+<span class="speaker"><strong>发言人1: </strong></span>
+其实是在22年年底的时候，其实我们我开始关注这个事情，就因为其实在face内部我们也有一些前瞻性的研究的一些事儿。然后觉得这是一个可行的方向，就做了不少研究。差不多是在二三年的时候，我们开始写这个验证的代码，然后开始做这个事儿。对的，第一款产品是stress watch，它主要是基于心率变异性来帮助判断你当前的压力的情况。
+</p>
+<p class="transcript-line">
+<span class="time"><strong>[00:03:11]</strong> </span>
+<span class="speaker"><strong>发言人2: </strong></span>
+了解，我两个问题，一个就是你们公司为什么one hundred bad bad ideas？
+</p>
+<p class="transcript-line">
+<span class="time"><strong>[00:03:16]</strong> </span>
+<span class="speaker"><strong>发言人1: </strong></span>
+刚开始的时候也不知道要干嘛，我们就开了一个在线的文档。然后那里面有很多很多各种各样的想法，然后那个文档的名字叫我想去拜拜。然后我们在想说这个小的那叫到底叫什么名字，还是脑报名字？然后有个朋友正好过来说，你们的名字已经写在了这个屏幕上，对吧？然后这就是一个很好的名字OK.
+</p>
+<p class="transcript-line">
+<span class="time"><strong>[00:03:37]</strong> </span>
+<span class="speaker"><strong>发言人2: </strong></span>
+这个名字是可以被注册下来的。
+</p>
+<p class="transcript-line">
+<span class="time"><strong>[00:03:39]</strong> </span>
+<span class="speaker"><strong>发言人1: </strong></span>
+我没有在国内注册，在在香港注册，所以这个是可以被注册的。OK成事之前肯定要尝试很多不同的想法，那先试100个再说，那万一有一个中了呢？对吧？
+</p>
+<p class="transcript-line">
+<span class="time"><strong>[00:03:49]</strong> </span>
+<span class="speaker"><strong>发言人2: </strong></span>
+你们第一个就中了没有。
+</p>
+<p class="transcript-line">
+<span class="time"><strong>[00:03:52]</strong> </span>
+<span class="speaker"><strong>发言人1: </strong></span>
+我们其实在过程当中做了很多产品，我们到目前为止已经做了不下十几款产品了，但真正跑出来的只有那么一两款。
+</p>
+<p class="transcript-line">
+<span class="time"><strong>[00:04:00]</strong> </span>
+<span class="speaker"><strong>发言人2: </strong></span>
+OK你们上线一款这种APP的话，大概多长时间可以搞一个。
+</p>
+<p class="transcript-line">
+<span class="time"><strong>[00:04:04]</strong> </span>
+<span class="speaker"><strong>发言人1: </strong></span>
+这取决于到底做什么吗？
+</p>
+<p class="transcript-line">
+<span class="time"><strong>[00:04:06]</strong> </span>
+<span class="speaker"><strong>发言人2: </strong></span>
+就stress watch第一版那种规模的东西。
+</p>
+<p class="transcript-line">
+<span class="time"><strong>[00:04:09]</strong> </span>
+<span class="speaker"><strong>发言人1: </strong></span>
+当时做stress watch的时候我们只有两个人，然后我是负责这个产品和研发，就是我自己写代码，然后另外一个设计师负责设计。对，然后我们差不多用了三个月做了一个MVP了解。
+</p>
+<p class="transcript-line">
+<span class="time"><strong>[00:04:22]</strong> </span>
+<span class="speaker"><strong>发言人2: </strong></span>
+我用stress watch有一个感觉，就是还有picker，就感觉你们特别的非常需要这个人要有一个苹果手表。你们是刻意这样设计的吗？还是因为我有的时候也在纠结，因为我我在做一个孵化器，然后我们也在想说要不要出一些专门做手表的应用，但是又想说这个市场好像太小了，因为戴手表的买买手表的人也不一定带。然后觉得手表市场很小，但是又觉得说这个市场好像确实也挺缺应用的。你们是怎么考虑的？是觉得这边有机会吗？
+</p>
+<p class="transcript-line">
+<span class="time"><strong>[00:04:54]</strong> </span>
+<span class="speaker"><strong>发言人1: </strong></span>
+是这样，就是我们自己本来也不大对吧？然后我们做这件事情的出现，也不是想要说做一家非常大的公司。我们只是想说做一款自己能用得到，然后对其他人可能会有一些帮助的产品，它不需要很大。其实手表从另外一个角度来讲，它不是一个门槛，它更像是一个过滤器。就是但凡能买得起手表的人，他的付费意愿和支付能力是像已经被过滤过的。这样我们在上面再增加收费的这些选项的话，其实他们的付费意愿可能会比手机纯手机应用要来的高，这是第一。
+</p>
+<p class="transcript-line">
+<span class="time"><strong>[00:05:33]</strong> </span>
+<span class="speaker"><strong>发言人1: </strong></span>
+然后第二点，很重要的一点就是手机的桌面之战你是打不过互联网公司的。但是手表表盘之争你指不定是能够活下来的。举个例子，我们现在所有的表盘，只要你占领的表盘对吧？然后你的这个很重要的入口，台湾就可以看到的入口被占了。而且这个手表表盘很小，就这么点大，然后被你占了，那那其他人也没什么位置了是吧？那其实占这个入口，我们还是相较于去占手机上的一个应用图标的入口，桌面应用图标的入口是会更有把握一些。
+</p>
+<p class="transcript-line">
+<span class="time"><strong>[00:06:05]</strong> </span>
+<span class="speaker"><strong>发言人2: </strong></span>
+所以你是one hundred bad ideas，所以你们不是选择了这个市场，而是你们可能选择了十个，然后最后这个撞中了是吧？这个打到了PMF。
+</p>
+<p class="transcript-line">
+<span class="time"><strong>[00:06:15]</strong> </span>
+<span class="speaker"><strong>发言人1: </strong></span>
+对我们做了很多。我们第一个是一个白噪音播放器，叫做beside那个的主要目标就是先把整个从设计到研发到上架，到微小的运营的流程的跑通。就有一个quick给我和那个patch，我们两个人一点信心，至少有些就小规模产品我们是能做的。然后那个东西做了大概一个月左右就上线了，但那个很惨，大概就基本上没什么销量。然后后面我们又做了stress watch，stress was, 基本上是啊比较早就能够被证明有PMF的。
+</p>
+<p class="transcript-line">
+<span class="time"><strong>[00:06:49]</strong> </span>
+<span class="speaker"><strong>发言人2: </strong></span>
+你是怎么看待他有PMF的？是比如说被苹果推荐，还是说有人有很多人付钱，还是有很自然增长。
+</p>
+<p class="transcript-line">
+<span class="time"><strong>[00:06:57]</strong> </span>
+<span class="speaker"><strong>发言人1: </strong></span>
+我们试图用很快速的方法去验证它是不是有PMF。举个例子，产品还没上线，就是产品还没做，然后我们就开始发小红书。小红书的号是从产品还没就开始构思，就开始发小红书了。我们所谓building pop更多是希望跟用户产生互动，然后去测试说这个想法有没有人愿意买单。最开始的方式就是大概说一下功能，然后说我们开始到内测，然后看有多少用户来报名这个内测。第一篇帖子大概发出去之后，很快我们就收到将近有1000将近接近2000的这个内测申请。这就很明显，一个新的账号在还没有上线任何产品的情况下，只是做了一个功能描述，就有这么多人想要来做内测申请，那就说明这东西是有一定需求的那在这样的情况下，我们再加紧这个步伐去研发这个东西。
+</p>
+<p class="transcript-line">
+<span class="time"><strong>[00:07:48]</strong> </span>
+<span class="speaker"><strong>发言人2: </strong></span>
+很很赞，这是经典的做MVP的方法。但一般来讲，比如说独立开发者来做，一般是瞄准海外市场。因为老外付钱还是稍微大方一点。你们开始在小红书上做的话，你们目瞄准的是老外，还是瞄准的是中国市场？
+</p>
+<p class="transcript-line">
+<span class="time"><strong>[00:08:05]</strong> </span>
+<span class="speaker"><strong>发言人1: </strong></span>
+刚开始的时候其实是还是瞄中国市场，原因是因为说我们和这个市场的距离比较近。然后我们知道这个产品它肯定是一个工具型的产品，他未来去出海不会是一个很难的事儿。但我现在比较距离近的市场，把产品磨磨好了再去出海也来得及。
+</p>
+<p class="transcript-line">
+<span class="time"><strong>[00:08:27]</strong> </span>
+<span class="speaker"><strong>发言人2: </strong></span>
+OK所以小红书可以做。我有的时候我们在测试的时候就会纠结要不要用小红书。
+</p>
+<p class="transcript-line">
+<span class="time"><strong>[00:08:33]</strong> </span>
+<span class="speaker"><strong>发言人1: </strong></span>
+对，然后小红书还是有一些很有意思的点，就是你甚至还能买一点薯条给自己的帖子加热是吧？然后看看到底能扩散出去多少。
+</p>
+<p class="transcript-line">
+<span class="time"><strong>[00:08:45]</strong> </span>
+<span class="speaker"><strong>发言人2: </strong></span>
+有道理，所以你们一开始就搞了很多人来内测，相当于这些天使用户你们就可以跟他们聊一聊，然后把早期的版本给他们看一看。
+</p>
+<p class="transcript-line">
+<span class="time"><strong>[00:08:54]</strong> </span>
+<span class="speaker"><strong>发言人1: </strong></span>
+其实我们啥都没做，我们只是大概贴了几张设计的截图，讲一下核心的痛点，然后大家开始有共鸣了。有共鸣之后，最开始我们拉了一个只有100个人的测试群，就那一波都发了终身会员出去，然后后面他们再进一步传播，所以冷启动的时候做的还是相对比较顺利的状态。
+</p>
+<p class="transcript-line">
+<span class="time"><strong>[00:09:17]</strong> </span>
+<span class="speaker"><strong>发言人2: </strong></span>
+那你觉得说当时大家被你吸引，多大程度是因为这个功能大家想要，多大程度上是因为因为你们的设计很萌，多大程度上是因为你那幅几幅截图比较可爱？
+</p>
+<p class="transcript-line">
+<span class="time"><strong>[00:09:30]</strong> </span>
+<span class="speaker"><strong>发言人1: </strong></span>
+我觉得主要是因为功能，因为刚开始的时候其实设计都没出来，我们都是草图对吧？都是铅笔画的那种草图。大的趋势上trend上是很明确的。就是疫情之后，你像22年年底放开了之后，大家对于健康这件事情的awareness会是快速提升的一个状态。然后我记得刚才那个时候，大家不是经常是用苹果去测血氧吗？
+</p>
+<p class="transcript-line">
+<span class="time"><strong>[00:09:58]</strong> </span>
+<span class="speaker"><strong>发言人2: </strong></span>
+我的我的手表当时有一个角网络专门看炫耀，生怕自己95以上。
+</p>
+<p class="transcript-line">
+<span class="time"><strong>[00:10:03]</strong> </span>
+<span class="speaker"><strong>发言人1: </strong></span>
+对，所以我们也是借助着这一波起来的。其实大家对于健康的wireless在后疫情时代是变得非常的高了。然后另外还有一个点就是打工族大家都是牛马。然后这个压力是一个无形的东西。但怎么样让这个无形的压力变得可见和可被感知？就是我觉得压力这件事情，就很多的用户也在说，就是用了我们的产品之后自己变得更焦虑。对但反过来说恐怖的事情是你没用产品都自己有压力，但自己不知道还在卷，然后这个对身体造成的伤害其实是更大的。
+</p>
+<p class="transcript-line">
+<span class="time"><strong>[00:10:38]</strong> </span>
+<span class="speaker"><strong>发言人2: </strong></span>
+你是这个道理把它讲回来，所以你们讲那个鼓励继续战斗，也掩护做逃兵。就是你先知道，知道了之后你不一定要继续转动。
+</p>
+<p class="transcript-line">
+<span class="time"><strong>[00:10:47]</strong> </span>
+<span class="speaker"><strong>发言人1: </strong></span>
+对，因为从生理学的角度来说，压力无非是你肾上腺素分泌之后，会让你做这个fight of flight这个选择，你是逃还是吃吃干，对吧？我们其实没有推荐你到底应该逃还是应该继续战斗。我们只是说告诉你，你现在压力大了，至于你怎么选择这个权利还在你自己了解了。
+</p>
+<p class="transcript-line">
+<span class="time"><strong>[00:11:08]</strong> </span>
+<span class="speaker"><strong>发言人2: </strong></span>
+刚刚讲到设计，就是你们的那个设计还挺萌的。然后另外我也用过另外一款软件叫grow，他们也挺萌的。为什么这种东西都做这么萌？是女性比较好会付钱吗？
+</p>
+<p class="transcript-line">
+<span class="time"><strong>[00:11:21]</strong> </span>
+<span class="speaker"><strong>发言人1: </strong></span>
+我们当时的设计出发点是说压力这件事情，本来就大家本来压力就很大了。然后我们不想给大家是一个数字，就像考试一样，你每天有一个压力评价指标对吧？然后你开始去害怕自己的身体，然后去说我怎么优化这个数字，那大家压力已经很大。所以我们想说整个设计语言它是一个柔软的设计语言。我们想要说在你被通知到有压力的时候，你至少我们能够提供给你一点温暖和柔软的感觉。对，这个是核心的出发点。
+</p>
+<p class="transcript-line">
+<span class="time"><strong>[00:11:55]</strong> </span>
+<span class="speaker"><strong>发言人2: </strong></span>
+那你们真正的用户主要是比如说是男性还是女性，就是stress .
+</p>
+<p class="transcript-line">
+<span class="time"><strong>[00:12:00]</strong> </span>
+<span class="speaker"><strong>发言人1: </strong></span>
+watch这个真正的用户其实60%以上都是女性用户，基本上都是学生或者是刚入社会的这帮同学，年龄层相对偏轻一点。
+</p>
+<p class="transcript-line">
+<span class="time"><strong>[00:12:11]</strong> </span>
+<span class="speaker"><strong>发言人2: </strong></span>
+为什么呢？为什么会年龄层偏轻一点呢？反倒会更注重压力，观测自己的压力呢？不是中年是压力比较大吗？
+</p>
+<p class="transcript-line">
+<span class="time"><strong>[00:12:19]</strong> </span>
+<span class="speaker"><strong>发言人1: </strong></span>
+没有，我们有一个很有意思的观察，就是我们有一帮高中生用户，其实青少年现在面临的压力非常大。然后他们使用我们的免费版本去监测自己的压力，特别是在备考期间，然后在学校里学生用户也很多。
+</p>
+<p class="transcript-line">
+<span class="time"><strong>[00:12:37]</strong> </span>
+<span class="speaker"><strong>发言人2: </strong></span>
+了解了。我之前用你们产品的时候，其实我当时非常的，因为我当时还有另外一个软件，我咬没有付钱，就是有一个很贵的，好像一两百美金的一年的。它就是会把你所有的数据全部统整起来，然后帮你去看相关性。它的那个单词好像跟什么罗盘之类相关，我忘了，反正一个巨难的单词。
+</p>
+<p class="transcript-line">
+<span class="time"><strong>[00:12:57]</strong> </span>
+<span class="speaker"><strong>发言人2: </strong></span>
+我当时用那个的时候就在想说，你能不能告诉我一下，说我就是怎么样可以减轻压力。对，你们好像没做这个，比如说我告诉你，你比如说今天我运动了，你看你比如说每次运动，你今天压力就比较小对吧？或者说你什么三次今天喝咖啡喝的比较少，你压力比较小。你告诉我一些这种相关性的，相当于算命一样的玄学，好歹让我有点盼头。你就告诉我压力很大，我也不知道该怎么办。你们为什么没有做这些东西？就科学算命。
+</p>
+<p class="transcript-line">
+<span class="time"><strong>[00:13:28]</strong> </span>
+<span class="speaker"><strong>发言人1: </strong></span>
+我们对于健康数据类的产品的理解始终有四个层次。第一个层次就是数据本身，第二个层次是关于数据的解释。我把当中科学原理和这个数代表什么意义解释清楚。然后第三个层次是洞察，是告诉你说你可能有五个不同的数据，这五个不同的数据现在出现这种情况，对于你来说代表着什么，对吧？然后第四个层次是干预，就是我告诉你你现在出现这个状况了，你应该怎么调整，然后能能反过去去影响数据。
+</p>
+<p class="transcript-line">
+<span class="time"><strong>[00:14:02]</strong> </span>
+<span class="speaker"><strong>发言人1: </strong></span>
+无论是stress watch还是p watch，我们现在都处于差不多是差不多2.5到3的这样的一个阶段性。就是他在解释之上洞察左右的这样一个状况，我们没有去做这个干预的这部分，这部分相对做起来会比较困难一点的，需要一些时间。我们现在正在做一些尝试，包括像stress watch。我们我们原本只有三个tab，就是今天趋势那个资料，然后我们现在加了一个tab叫actions。然后这个actions tap就是你所有的行为对你的压力到底是什么样的一个影响。
+</p>
+<p class="transcript-line">
+<span class="time"><strong>[00:14:39]</strong> </span>
+<span class="speaker"><strong>发言人2: </strong></span>
+我现在有这个了。好的，你等你给我码，我就装回来。
+</p>
+<p class="transcript-line">
+<span class="time"><strong>[00:14:42]</strong> </span>
+<span class="speaker"><strong>发言人1: </strong></span>
+没问题。好，这个节目的观众都可以就输入某一个码，到时候有一个折扣。
+</p>
+<p class="transcript-line">
+<span class="time"><strong>[00:14:49]</strong> </span>
+<span class="speaker"><strong>发言人2: </strong></span>
+好好好，我们放在圈子里面。OK .
+</p>
+<p class="transcript-line">
+<span class="time"><strong>[00:14:52]</strong> </span>
+<span class="speaker"><strong>发言人1: </strong></span>
+actions这里其实我们加了不同的这些数据和压力之间的关联到底是什么样子的那目前我们在做的就是给予一定的干预。就是当你感受到压力的时候，你可以通过一些简单的呼吸训练法去快速有效的降低自己的压力。然后包括批货也是一样的，就是它也是处于我们现在只能告诉你的这些数据代表着什么意思。可能甚至我们现在都没有办法很好的解释清楚这些数据之间的关联是什么样子的。但我们未来就是会往我说的那三四个层次的，就是最后一个一个方向去走。
+</p>
+<p class="transcript-line">
+<span class="time"><strong>[00:15:29]</strong> </span>
+<span class="speaker"><strong>发言人2: </strong></span>
+了解监控那个压力的话，主要是HRV和静息心率。对，主要是这两个。对了解，然后你们就根据一个算法把它弄出来，然后说你的压力现在大小，这里面你们有用到AI吗？
+</p>
+<p class="transcript-line">
+<span class="time"><strong>[00:15:42]</strong> </span>
+<span class="speaker"><strong>发言人1: </strong></span>
+在目前的情况下，我们这当中的AI只是对特定情况的解读，其实是用一些AI但产品本身我们不想说直接塞一个聊天机器人进去，我觉得那个是一个比较粗暴的不负责任的做产品的方式。然后我们希望这当中还是能够和场景和数据结合的比较有机的形式来把AI的能力放进去。对这两款产品其实我们都有非常深入的讨论过，AI应该怎么去结合？只是说得要找到一个比较好的场景去去把这个功能做进去。
+</p>
+<p class="transcript-line">
+<span class="time"><strong>[00:16:18]</strong> </span>
+<span class="speaker"><strong>发言人2: </strong></span>
+我就是很好奇你们这方面的思路，因为其实我现在主要在看AI，如果是你们想把AI结合进去，你们会怎么来排查这种可能的机会点，以及怎么做判断。就是说这里要加AI那里要加AI我要不要加个chatbot，还是要用什么形态？你们的决策逻辑是什么？
+</p>
+<p class="transcript-line">
+<span class="time"><strong>[00:16:36]</strong> </span>
+<span class="speaker"><strong>发言人1: </strong></span>
+实际上我们决策逻辑其实是两个维度的那一个维度就是就因为我我们其实是一个做工具产品的小团队，就加了AI之后，能让这个工具产品的体验增益能够得到非常明确的体验增益，我们就可以去做。那就这一道关的回答是肯定的话，那下一步就应该去看的是说这个成本大概是什么样子。因为这里面会退回来看到说在国内，因为我们是有终身会员的。有终身会员就意味着说可能AI会带来成本的一个动会一直消耗，对吧？那我到底是去在终身会员的基础上，再去搞一个什么增值会员的服务去卖，还是怎样？对那个就是我们后面也不要考虑的事儿了。
+</p>
+<p class="transcript-line">
+<span class="time"><strong>[00:17:19]</strong> </span>
+<span class="speaker"><strong>发言人2: </strong></span>
+这是个商业化的问题，所以WPS被人骂就是这个原因。层层叠叠的会员就可能就是因为做了这种事情，所以还就是一个很简单的说到底有没有价值。然后你为了这个价值，我要我的成本大概多少？除了我的开发成本，还有我的支持的成本。那你们怎么去判断有没有价值呢？就是有没有什么framework，或者你自己平时考虑这个事情，你们怎么考虑的？
+</p>
+<p class="transcript-line">
+<span class="time"><strong>[00:17:44]</strong> </span>
+<span class="speaker"><strong>发言人1: </strong></span>
+其实我们的方式还比较粗暴的，就是说在功能的不同阶段，它是有两种不同的判断方法。就是在早期的时候，主要还是靠跟用户聊，就要做大量用户访谈，去跟目标用户或者是现有的用户去聊，看他们到底他的反应是什么样，对吧？然后上线了之后可能还是主要看数据。
+</p>
+<p class="transcript-line">
+<span class="time"><strong>[00:18:04]</strong> </span>
+<span class="speaker"><strong>发言人2: </strong></span>
+我们之前其实在孵化器之前在其实考虑过做个人助理方向。只是当时觉得做个人助理是这是巨头的赛道，你没有什么由头。比如说你像你跟一个APP，一个独立第三方的个人助理，其实你就是上来调戏他，测试他一下，后面其实你没有由头来聊天。以及那个个人助理也没有什么由头来找你聊。所以我们当时就看到说，其实看到的是苹果的健康数据，觉得这个东西它每天会变吗？比如说告诉你说你昨天多喝了一杯咖啡，随你心率便利性变化提高了1%，就管他有道理没道理，这至少是个由头是吧？就可以跟你聊两句了。所以当时其实不是考虑的是一个类似于什么是watch watch之类的方面，而是想的是说这个东西有没有可能是一个更大的东西的一个由头。就是那个福哥协约模型，模型里面其实很多的产品缺prompt，他其实是创造那个油头的这个切口。所以当时这么想过，你没有想过把这个东西做大，把这个切口撕开吗？
+</p>
+<p class="transcript-line">
+<span class="time"><strong>[00:19:06]</strong> </span>
+<span class="speaker"><strong>发言人1: </strong></span>
+我们不是特别敢。就举个例子，比如说P过去我们在24年年初的时候就开始做了。然后当中有一个很重要的功能叫training load。刚开始就花了很大力气，是自己写的算法做出来了。然后听过发布会直接说他们也出了一个类似的功能。
+</p>
+<p class="transcript-line">
+<span class="time"><strong>[00:19:23]</strong> </span>
+<span class="speaker"><strong>发言人1: </strong></span>
+对，所以当你把这就作为三方把这个口子撕大的时候，可能很容易就撕到那个苹果那头。就包括你刚刚提的那个点，这不是传闻苹果会做一个类似要就college burberry的这样的一个个人助，就是基于健康数据的个人助理。所以我们的逻辑可能更多的还是我们会专注在一些很小的点上，然后把它做的深入一些。然后去找到一个跟苹果原生产品很不一样的定位，然后这样在夹缝当中活下来。
+</p>
+<p class="transcript-line">
+<span class="time"><strong>[00:19:54]</strong> </span>
+<span class="speaker"><strong>发言人2: </strong></span>
+了解。比如说我其实像睡眠的话，我也会用auto sleep。就是因为苹果给的那些数据感觉就太少了。但是有的时候我看到auto sleep那些花里胡哨的圈圈弯弯，也会去想说是不是因为苹果比较严谨一点，然后你们就敢在这边胡说，就我每每天都看的时候他sleep你们怎么解决这个用户觉得说你们不够科学，没有那么准这个问题呢？就觉得苹果的可能比较准一点。
+</p>
+<p class="transcript-line">
+<span class="time"><strong>[00:20:19]</strong> </span>
+<span class="speaker"><strong>发言人1: </strong></span>
+应该是看具体数据，或者说是看具体功能到底是指的哪一部分了。我们来拿stress works举例的话，其实我们想要提供的更多的是当你压力高的时候给你一个提醒，然后给你一些温暖的感觉。这就是核心的产品的点。我们并不会去一直强调它的科学性和准确性。因为我们的核心的数据来源始终是来自苹果的，就是我们不会去自己做硬件。接一个不一样数据源。
+</p>
+<p class="transcript-line">
+<span class="time"><strong>[00:20:47]</strong> </span>
+<span class="speaker"><strong>发言人2: </strong></span>
+所以其实你交付的就是你你把温暖的感觉其实是放在更数据，都是那些数据，但是你们是可以在特定的场景下交付一个温暖的感觉，温暖的提醒。但是苹果是一些冷冰冰的树。
+</p>
+<p class="transcript-line">
+<span class="time"><strong>[00:21:01]</strong> </span>
+<span class="speaker"><strong>发言人1: </strong></span>
+我觉得苹果应该不大会往这种细分的方向去做，它还要满足相对比较大众的需求。
+</p>
+<p class="transcript-line">
+<span class="time"><strong>[00:21:09]</strong> </span>
+<span class="speaker"><strong>发言人2: </strong></span>
+那如果是这样的定位的话，是不是你们的那个UI上那些可爱的泡泡什么的，其实是比AI更重要的。
+</p>
+<p class="transcript-line">
+<span class="time"><strong>[00:21:17]</strong> </span>
+<span class="speaker"><strong>发言人1: </strong></span>
+东西是就是我们的形IP形象，就是我们自己的IP形象压力泡泡以及说我们合作的IP形象，其实这些是非常重要的东西。然后除了些之外，其实还有一个非常重要的需求是表盘装饰的需求。这是为什么我们合作了非常多的IP，然后满足大家能够让这个表盘变得更好看这样的一个的需求。
+</p>
+<p class="transcript-line">
+<span class="time"><strong>[00:21:42]</strong> </span>
+<span class="speaker"><strong>发言人2: </strong></span>
+对，好看蛮重要的。我其实之前我一直那个运动有zones，然后是在朋友的那个朋友圈里面看到了他的pick的截图，觉得那个颜色比这种色好看。然后我就去问他这是啥，他说是pink，然后我就去下载了。就是这么朴素的非常肤浅的原因，跟功能一毛钱。
+</p>
+<p class="transcript-line">
+<span class="time"><strong>[00:22:03]</strong> </span>
+<span class="speaker"><strong>发言人1: </strong></span>
+关系就是设计本身是具有非常高的商业价值的对。
+</p>
+<p class="transcript-line">
+<span class="time"><strong>[00:22:07]</strong> </span>
+<span class="speaker"><strong>发言人2: </strong></span>
+那再问你一下，推广这个东西的时候的话，你我让AI帮我想了一个什么采访提纲，然后他就提到说你提过一句话叫流量要自己造，那你具体做了什么流量自己造的动作，哪些有效？你可以分享一下吗？
+</p>
+<p class="transcript-line">
+<span class="time"><strong>[00:22:22]</strong> </span>
+<span class="speaker"><strong>发言人1: </strong></span>
+我不知道我什么时候。
+</p>
+<p class="transcript-line">
+<span class="time"><strong>[00:22:25]</strong> </span>
+<span class="speaker"><strong>发言人2: </strong></span>
+我待会。
+</p>
+<p class="transcript-line">
+<span class="time"><strong>[00:22:26]</strong> </span>
+<span class="speaker"><strong>发言人1: </strong></span>
+AI觉得你说过AI在在幻想。从增长的角度上来说，其实流量的来源就那一些。其实最好的方式是我们有有自然量，对吧？我们在国内其实没有做任何的投放的动作的。我们在海外是有啊stress，是从去年年终的时候，我们开始非常认真的去做了一些海外的推广。国内的话主要还是靠自然量在在起量，所以我们在小红书上做了很多各种各样的用户打卡的活动。
+</p>
+<p class="transcript-line">
+<span class="time"><strong>[00:22:54]</strong> </span>
+<span class="speaker"><strong>发言人1: </strong></span>
+其实是在24年的春节期间，有一篇用户他自己主动发的帖子，他爆了。那个帖子是一个女生发的，就是相亲，她带着apple watch去相亲，对他没有遇到一个心仪的对象，然后他的苹果手表发出了报名，然后那篇帖子上了小红书的热搜，热搜第一名。当天就把我们的服务器给挤爆了，然后半夜起来去修复器，对那一波自然的量其实对我们来说帮助非常大。
+</p>
+<p class="transcript-line">
+<span class="time"><strong>[00:23:22]</strong> </span>
+<span class="speaker"><strong>发言人2: </strong></span>
+但这个看有点看命，这个不是你我刚查了一下，果然是你那个合伙人说的，但是deep research把它归到了你的头上，是Patrick说的OK。但是这种事情有点看命，你们有什么做什么主动的事情来来搞流量。
+</p>
+<p class="transcript-line">
+<span class="time"><strong>[00:23:39]</strong> </span>
+<span class="speaker"><strong>发言人1: </strong></span>
+其实我们坚持在每个月都会出一些，哪怕跟其他品牌合作的用户打卡活动，这些是能够带来一些基础量的。然后还有包括说我们在小红书上也找了很多KOC和KOL的，这些用户来帮忙我们推广。因为产品本身有PMF，我们稍微推一下，其实用户愿意发，那他就能造成比较大的传播。同时小红书算法会觉得说，这东西有关注，它就会推流给这些帖子。用户又看到说，我发这个就有人看，他就愿意发更多，然后这样就等于雪球就滚起来了。
+</p>
+<p class="transcript-line">
+<span class="time"><strong>[00:24:14]</strong> </span>
+<span class="speaker"><strong>发言人2: </strong></span>
+不过换句话讲，就是比如说我要推一个，比如说蛋白粉好了。因为蛋白粉很多，其实大家就看着比较无感。我除了要讲我是蛋白粉之外，我还要讲我比带别的蛋白粉好在哪里，诸如此类，讲一堆新的概念。但是stress watcher是这种东西的话，就感觉其实大家很有可能是第一个知道的。就是我从小红书看到那篇帖子，所以你只需要知道它是个什么东西，有什么用，不需要讲说他为什么比别人好，只要他打中了就蛋白粉。
+</p>
+<p class="transcript-line">
+<span class="time"><strong>[00:24:44]</strong> </span>
+<span class="speaker"><strong>发言人1: </strong></span>
+是因为这个东西大家对于它的认知非常对非常多了。所以更多的是我我得去跟竞品对比，我有什么更强的地方。但我们这个东西更像是说我发现了一个好东西让大家知道，对吧？可能之前没有很多人知道，我觉得这在早期是这样，现在已经做的人非常多了。就是我觉得像做HRV心理压力的产品，现在感觉已经成了独立开发者三件套之一了。就是是个独立开发者，想做一下这个产这个赛道里的产品。
+</p>
+<p class="transcript-line">
+<span class="time"><strong>[00:25:13]</strong> </span>
+<span class="speaker"><strong>发言人1: </strong></span>
+然后现在更多的就是去讲场景，就包括我们的竞品也开始做很多类似讲场景的东西。甚至是说你去追星，就比如说追星他能有流量，他就会说你追某某某明星，你得带上apple watch，然后再把自己的产品给嵌进去一起卖了。对，更多是说场景了。
+</p>
+<p class="transcript-line">
+<span class="time"><strong>[00:25:32]</strong> </span>
+<span class="speaker"><strong>发言人2: </strong></span>
+如果大家比如说独立开发者三件套都来做这个东西，像to do一样，那有无数，那会影响到你们的变现能力。大家就可能还会用一下你们是头牌，但是一看到要交钱就去挑一个免费的。
+</p>
+<p class="transcript-line">
+<span class="time"><strong>[00:25:45]</strong> </span>
+<span class="speaker"><strong>发言人1: </strong></span>
+我觉得会影响这肯定是会影响的。但是这件事情的天花板想象的比我们想象的要再高一点。包括目前我们其实重心开始往海去转移我们的营收，其实海外的营收开始逐渐变大了，未来其实主要的增量还是在海外市场。
+</p>
+<p class="transcript-line">
+<span class="time"><strong>[00:26:02]</strong> </span>
+<span class="speaker"><strong>发言人2: </strong></span>
+海外主要怎么靠什么营销呢？
+</p>
+<p class="transcript-line">
+<span class="time"><strong>[00:26:05]</strong> </span>
+<span class="speaker"><strong>发言人1: </strong></span>
+其实主要靠数据化投放和KOC.
+</p>
+<p class="transcript-line">
+<span class="time"><strong>[00:26:07]</strong> </span>
+<span class="speaker"><strong>发言人2: </strong></span>
+用KKOC的投放的话不是效果的，只是说你投了就是赌运气。对。
+</p>
+<p class="transcript-line">
+<span class="time"><strong>[00:26:13]</strong> </span>
+<span class="speaker"><strong>发言人1: </strong></span>
+就买彩票的逻辑但我们会相对来说就是在不同的阶段看一些不同类型的influence，一个不同类型去测看哪个的。因为我只能看放到比较上面的那那部分，就是看它的曝光和互动数是什么样，只能在那个维度上进行评价。
+</p>
+<p class="transcript-line">
+<span class="time"><strong>[00:26:32]</strong> </span>
+<span class="speaker"><strong>发言人2: </strong></span>
+你们会找youtube br还是类似于tiktok ker，还是什么什么就是instagram还是哪两个上面的会。因为国内一提就是小红书种草，海外的话一提的话主要是哪个平台？
+</p>
+<p class="transcript-line">
+<span class="time"><strong>[00:26:44]</strong> </span>
+<span class="speaker"><strong>发言人1: </strong></span>
+目前我们的预算非常有限，在控预算。Youtube其实它的预算会比较高一点，所以我们现在目前阶段还在上面会比较多一些。
+</p>
+<p class="transcript-line">
+<span class="time"><strong>[00:26:53]</strong> </span>
+<span class="speaker"><strong>发言人2: </strong></span>
+那X就是twitter，twitter有用吗？
+</p>
+<p class="transcript-line">
+<span class="time"><strong>[00:26:56]</strong> </span>
+<span class="speaker"><strong>发言人1: </strong></span>
+推特我们不做，为什么？
+</p>
+<p class="transcript-line">
+<span class="time"><strong>[00:26:58]</strong> </span>
+<span class="speaker"><strong>发言人2: </strong></span>
+Twitter不是应该更便宜吗？
+</p>
+<p class="transcript-line">
+<span class="time"><strong>[00:26:59]</strong> </span>
+<span class="speaker"><strong>发言人1: </strong></span>
+但他转化效果应该不是特别好找起来也挺费劲的感觉。Instagram我们同时还在投放，就等于投我们在meta做投放的同时，我们自己那个号也能获得关注，获得流量。然后就是那些influence还能跟我们的号做互动，这样就会有一些交叉。但推特上我们不会去投，都不会自己去花钱投流，所以短期应该不会考虑在策略上去做。
+</p>
+<p class="transcript-line">
+<span class="time"><strong>[00:27:24]</strong> </span>
+<span class="speaker"><strong>发言人2: </strong></span>
+因为我还有一个跟产品没有关系的问题，是因为我最近在健身，然后我想提高自己的最大摄氧量，我最大摄氧量一塌糊涂，远远低于我的应该的平均值。看那个超越百岁就。说你每周要有十分钟的zoom five，然后要有180分钟zoom two。我现在拼命凑，你应该是这方面很专业了。这有什么。
+</p>
+<p class="transcript-line">
+<span class="time"><strong>[00:27:44]</strong> </span>
+<span class="speaker"><strong>发言人1: </strong></span>
+快一点的办法吗？我觉得这应该没有什么特别好的办法。我之前不会游泳，然后我是在做这个产品的过程当中，就开始不停的练游泳。看得到这个心肺功能有一些提升的。但是另外还有就是游泳加力量训练，我同时也做力量训练，所以这两个结合起来。
+</p>
+<p class="transcript-line">
+<span class="time"><strong>[00:28:04]</strong> </span>
+<span class="speaker"><strong>发言人2: </strong></span>
+对我也做力量训练，对光做力量训练。那个view 2 max上不去，有氧的话本来上的挺快的，但是就上升了一节之后，然后就停在那里，然后不停往，只要我两天没练，他就往下掉。
+</p>
+<p class="transcript-line">
+<span class="time"><strong>[00:28:17]</strong> </span>
+<span class="speaker"><strong>发言人1: </strong></span>
+View 2 next的苹苹果的view 2 next的那个数值，它的波动很缓慢的。
+</p>
+<p class="transcript-line">
+<span class="time"><strong>[00:28:22]</strong> </span>
+<span class="speaker"><strong>发言人2: </strong></span>
+我就是看那个不缓慢，每一天变我只要运动了，它第二天就上升个0.05。然后我比如说两天没运动，他就可以给我掉0.2，就巨敏感。有一段时间就我那个正反馈负反馈来的这12个小时给你正反馈负反馈。
+</p>
+<p class="transcript-line">
+<span class="time"><strong>[00:28:40]</strong> </span>
+<span class="speaker"><strong>发言人1: </strong></span>
+你可以看一下PS的那个第二个tab。
+</p>
+<p class="transcript-line">
+<span class="time"><strong>[00:28:43]</strong> </span>
+<span class="speaker"><strong>发言人2: </strong></span>
+我看了你们也有，你你们你们在运动的时候会给一个，苹果只有在长时间户外行走和户外跑步的时候会给你。但是你们的话是会在我今天打拳了，然后还会在打拳的时候给我一个说，你打拳的时候，比如说那个最大摄氧量。
+</p>
+<p class="transcript-line">
+<span class="time"><strong>[00:29:00]</strong> </span>
+<span class="speaker"><strong>发言人1: </strong></span>
+但是这个对我们那个是有氧势能，就是说你在这一次运动当中，身体去消耗氧气的这个能量能力。然后我们还有一个在trend里面，其实是有一个我们称之为ATCTL。ATL就是你的训练的强度和压力，然后CTL就是你长期的finish的长期的体能的能力，你可以看一下那个那个其实会比最大生长量它更加的明灵敏一些。
+</p>
+<p class="transcript-line">
+<span class="time"><strong>[00:29:32]</strong> </span>
+<span class="speaker"><strong>发言人2: </strong></span>
+不过你们这个是跟我之前也用过grow有一个同样一个问题，就是因为你们感觉上又做的很专业，但是实际上我肯定不算是我肯定不算是专业的人。但是如果我按照我的那个训练强度往里面写，他就会都会提醒我说你们练的太过了。
+</p>
+<p class="transcript-line">
+<span class="time"><strong>[00:29:48]</strong> </span>
+<span class="speaker"><strong>发言人1: </strong></span>
+但是那个是应该是在应该是在当天你练完之后。
+</p>
+<p class="transcript-line">
+<span class="time"><strong>[00:29:51]</strong> </span>
+<span class="speaker"><strong>发言人2: </strong></span>
+对练了一段时间，他会说你今天已经很好了，你不用再练了，然后我再练一段，他就会说你今天已经过量了，然后我就说拼命在里面喊。
+</p>
+<p class="transcript-line">
+<span class="time"><strong>[00:29:59]</strong> </span>
+<span class="speaker"><strong>发言人1: </strong></span>
+对，但我们的那个算法应该还是蛮有挑战的，就取决于说你设定的自己的训练模式是什么。就是我们是可以调整训练模式的。
+</p>
+<p class="transcript-line">
+<span class="time"><strong>[00:30:08]</strong> </span>
+<span class="speaker"><strong>发言人2: </strong></span>
+对我我好像调了一个比较有挑战性的模式，但是它还是非常的柔和。我就在想是不是大部分人其实是那种减肥型的，根本也不怎么练。
+</p>
+<p class="transcript-line">
+<span class="time"><strong>[00:30:18]</strong> </span>
+<span class="speaker"><strong>发言人1: </strong></span>
+其实我们对算法做过很多调整的，就是之前有一版算法就是调的比较更柔和一点。然后我不知道是什么原因，其实国内用户会更容易达不到一个推荐的目标区间。但是海外一些用户他就是练的比较猛的话，他很容易就会超过那个时间，这当中还是需要做一些坚固的对。
+</p>
+<p class="transcript-line">
+<span class="time"><strong>[00:30:43]</strong> </span>
+<span class="speaker"><strong>发言人2: </strong></span>
+对我好像也总超过，然后感觉会好像很紧张的样子。我就在想我好像应该也不算是很猛的那种人我都会超过。何必呢？当然了很满足虚荣心了。
+</p>
+<p class="transcript-line">
+<span class="time"><strong>[00:30:52]</strong> </span>
+<span class="speaker"><strong>发言人1: </strong></span>
+你看体能输出，我们会有一个推荐的体能输出区间，因为我们的体能输出不是纯的。比如说卡路里消耗，我们是其实是一个心率的，简单来说是一个心率在时间上的积分，然后看你心率的那个情况来定的。
+</p>
+<p class="transcript-line">
+<span class="time"><strong>[00:31:09]</strong> </span>
+<span class="speaker"><strong>发言人2: </strong></span>
+那我最后再问你一下，现在假设说有人要做一个AI的产品，然后要跟手表结合，然后是也是做手表相关的应用，不管是什么类型，那你建你有什么建议给他们？比如说我们其实也挺想做一些，刚刚听你讲觉得很有道理，手表是过滤器，挺好。那如果也想做手表的应用的话，因为我之前从来没有做过。对我做过我做过很多的那个APP的，做手表有什么不太一样的地方吗？有什么要需要的独特的想想的地方吗？
+</p>
+<p class="transcript-line">
+<span class="time"><strong>[00:31:38]</strong> </span>
+<span class="speaker"><strong>发言人1: </strong></span>
+因为我们这两款产品其实就是在手表上工作的部分其实很少。主要核心在手表上发挥价值的是，比如说stress watch，它是提醒的功能，在你的手腕上可以提醒你去装饰你表盘的这个能力就没了。然后劈过去更多的是就现在他我们我们正在做的是你以后可以直接在PS手表APP里面开启一个运动。然后这个运动的过程当中，有一些我们自己的算法给你的数据就可以直接反映出来。然后甚至可以把一些训练计划直接塞到手表上去发挥作用。就是苹果现在在利用手表做的事儿。作为苹果表，它最大的作用无非是采的那些数据写到了健康里面。所以我们在起这个项目的时候，只要能从健康里读到一些数据，如果不需要手表，那其实是能够把这个TA的范围扩的更更大一些的。
+</p>
+<p class="transcript-line">
+<span class="time"><strong>[00:32:32]</strong> </span>
+<span class="speaker"><strong>发言人1: </strong></span>
+你刚刚问的那个问题是一个好问题，我不知道答案。就是我们现在其实也在思考说什么时候需要去开一个新的产品，特别是说能够结合手表和AR相AI的这个产品。不过这里面坑我倒是可以分享一下，就是苹果手表里面有巨多坑。那个watch OS其实有很多很多系统级的bug.
+</p>
+<p class="transcript-line">
+<span class="time"><strong>[00:32:54]</strong> </span>
+<span class="speaker"><strong>发言人2: </strong></span>
+系统级的bug这都多少代了。
+</p>
+<p class="transcript-line">
+<span class="time"><strong>[00:32:57]</strong> </span>
+<span class="speaker"><strong>发言人1: </strong></span>
+对对对，系统级的bug可能用数量不多的时候你发现不了。但是比如说你的用户量到了几百万的时候，这个就会出现各种各样1蛾子一样的问题。比如说你加表盘的时候会很容易出现全黑的情况，有可能是因为用户没装好APP，但是有的时候他装好APP也会出现全黑的情况。甚至有的时候你在语言设置和一些设置里面都找不到你自己的这个产品。然后还有就是比如说有很多表盘的刷新的不够及时，这些是比较容易踩的坑。对。
+</p>
+<p class="transcript-line">
+<span class="time"><strong>[00:33:28]</strong> </span>
+<span class="speaker"><strong>发言人2: </strong></span>
+我问一下，比如说假设我想做一个，我随便乱讲，比如说我想做一个基督教的软件，然后我每次抬起表盘的时候就随机给我一段圣经。或者说他不是随机，他其实是偷听了我的话，然后给我一段上下文相关的，用AI给我了一段圣经。像这种东西的话，它我是可以直接做一个表，反正我一打开就是那个时间写旁边就一句圣经，是是是可以做到这样吗？还是其实做不到？
+</p>
+<p class="transcript-line">
+<span class="time"><strong>[00:33:54]</strong> </span>
+<span class="speaker"><strong>发言人1: </strong></span>
+表盘是可以去刷新的，是可以做得到的。对我还看到我有一款产品是一个给伊斯兰教用的，可以一直看到那个卖家的方向在哪里。然后你吵声的时候就可以就会对这么一个方向。
+</p>
+<p class="transcript-line">
+<span class="time"><strong>[00:34:08]</strong> </span>
+<span class="speaker"><strong>发言人2: </strong></span>
+我还我还见过一个钟，那个钟的话，它的上面显示的时间就都是一句圣经。因为圣经有比如说11.02的第几章第几节那个东西，他就都是用圣经来显示，然后觉得这个也挺好玩的。
+</p>
+<p class="transcript-line">
+<span class="time"><strong>[00:34:24]</strong> </span>
+<span class="speaker"><strong>发言人1: </strong></span>
+然后还有包括IOS的小组件也有很多，它刚出现的时候，其实有很多装饰的这些需求也是存在的。
+</p>
+<p class="transcript-line">
+<span class="time"><strong>[00:34:32]</strong> </span>
+<span class="speaker"><strong>发言人2: </strong></span>
+了解了，所以手表的话大概是这样。然后另外问你一下，你现在关注AI吗？
+</p>
+<p class="transcript-line">
+<span class="time"><strong>[00:34:40]</strong> </span>
+<span class="speaker"><strong>发言人1: </strong></span>
+我们没有特别关注AI我们关注AI主要是两方面，一方面是怎么样提升我们的研发效率，然后另外一方面就是看什么样的方式可以给我们现在的几款产品带来体验的增益。
+</p>
+<p class="transcript-line">
+<span class="time"><strong>[00:34:54]</strong> </span>
+<span class="speaker"><strong>发言人2: </strong></span>
+你有考虑过做硬件吗？
+</p>
+<p class="transcript-line">
+<span class="time"><strong>[00:34:56]</strong> </span>
+<span class="speaker"><strong>发言人1: </strong></span>
+我们没钱所以不考虑，因为硬件在这个坑还是比较大。
+</p>
+<p class="transcript-line">
+<span class="time"><strong>[00:35:00]</strong> </span>
+<span class="speaker"><strong>发言人2: </strong></span>
+如果有钱，假设我们有一些想法，太适合来大家一起搞个搞跟健康有关，跟AI有关的硬件，做海外市场。
+</p>
+<p class="transcript-line">
+<span class="time"><strong>[00:35:09]</strong> </span>
+<span class="speaker"><strong>发言人1: </strong></span>
+对，因为硬件这个供应链和渠道其实还比较重要，其实最重是那个那个产品的定位和inside能不能抓得准。因为这个不像软件可以改，对吧？我开下去了就没有回头路了。对。
+</p>
+<p class="transcript-line">
+<span class="time"><strong>[00:35:22]</strong> </span>
+<span class="speaker"><strong>发言人2: </strong></span>
+如果钱不是问题的话，你会考虑吗？
+</p>
+<p class="transcript-line">
+<span class="time"><strong>[00:35:24]</strong> </span>
+<span class="speaker"><strong>发言人1: </strong></span>
+我们其实是之前有看过一些可能的方向的。比如说有一些助眠的产品，比如说床头灯。其实床头灯是一个很有意思的东西，体量不是特别大，但是可以玩出很多花。它可以跟睡眠监测、跟氛围、跟冥想、跟健康有很多的连接，还有很多场景可以玩。也稍微看过一些宠物的这些可能性，但是二三年的时候看的比较多一点，但后面24年就决定说专注先把这两个产品做到一定规模。
+</p>
+<p class="transcript-line">
+<span class="time"><strong>[00:35:55]</strong> </span>
+<span class="speaker"><strong>发言人2: </strong></span>
+再说OK了，这有什么想法，到时候让我们可以聊聊。刚刚你听清知道你是那个镜子的那个。对，那就有这方面经验。你之前我也知道，你之前也做过供应链那边你也跑过工厂什么的，难得有经验。然后你们也有设计能力，无非也就是最后就是硬件，然后搞供应链那边搞得出来，然后设计的漂漂亮亮的，然后又能够找用户场景，好像你们都凑齐了。
+</p>
+<p class="transcript-line">
+<span class="time"><strong>[00:36:19]</strong> </span>
+<span class="speaker"><strong>发言人1: </strong></span>
+从人的角度上来说，因为我们这个team其实大部分来自确实之前北美的那个题，然后包括研发和设计，还有一部分的产品。
+</p>
+<p class="transcript-line">
+<span class="time"><strong>[00:36:30]</strong> </span>
+<span class="speaker"><strong>发言人2: </strong></span>
+好的，非常感谢。主要是我是用户，所以想应该像一个钱钱钟书说的，就是吃到一个鸡蛋很好吃，非常想回头去抓老母鸡过来看一下。对对对，然后顺便问你要一些码，对吧？到时候我们发到评论区。给点打折券啥的，我们我们来来来吆喝一嗓子。
+</p>
+<p class="transcript-line">
+<span class="time"><strong>[00:36:50]</strong> </span>
+<span class="speaker"><strong>发言人2: </strong></span>
+他跟大家说一下，s watch，反正我之前用就觉得好萌。然后他确实是在监控，我平时压力很大，因为我会自己会调呼吸，所以他不太看得出来。但是在我又在倒时差又压力很大的时候，他就会隔一下段时间提醒我一下，隔一段时间提醒我一下。
+</p>
+<p class="transcript-line">
+<span class="time"><strong>[00:37:08]</strong> </span>
+<span class="speaker"><strong>发言人2: </strong></span>
+然后我当时就发现说，你还是真的测得出来的，我当时还我我其实是带着一个测试的心态在在用，然后发现还真的是测得出来。然后pick的话是我用过的那个健康类的软件里面，我就觉得是画的比较好看的。当时我从zoom s换过来，纯粹就是因为说那个颜色黑色的底，然后五颜六色的那个图。因为我我每周要晒一下图说我这周运动的有多好，我多牛逼这种。对，所以有这两个软件，大家可以试试用一下。然后本来是想抓，他说看看怎么可以拿AI可以做做东西的那你最后发一点码过来。
+</p>
+<p class="transcript-line">
+<span class="time"><strong>[00:37:43]</strong> </span>
+<span class="speaker"><strong>发言人1: </strong></span>
+没问题。
+</p>
+<p class="transcript-line">
+<span class="time"><strong>[00:37:44]</strong> </span>
+<span class="speaker"><strong>发言人2: </strong></span>
+谢谢。六个人的公司，两个那么大体量的软件。
+</p>
+<p class="transcript-line">
+<span class="time"><strong>[00:37:47]</strong> </span>
+<span class="speaker"><strong>发言人1: </strong></span>
+苹果现在还是比较小的一个状态。
+</p>
+<p class="transcript-line">
+<span class="time"><strong>[00:37:50]</strong> </span>
+<span class="speaker"><strong>发言人2: </strong></span>
+然后那个thresh watch看起来还很大的对，你们pick watch的那个设计感觉也没有pro dress那么用心，感觉空格空档好大，对于我截图无所谓的，整幅就会觉得说无限的空旷的感觉。
+</p>
+<p class="transcript-line">
+<span class="time"><strong>[00:38:03]</strong> </span>
+<span class="speaker"><strong>发言人1: </strong></span>
+对，因为我们是这样的，就是说我们在做产品的时候，也是从团队的构建上也是有一些区隔的。就是stress是主要是我和patch在搞，然后批货是有另外一位设计的合伙人，他叫王超。然后他之前是在魅族的一个比较重要的设计师，设计他们的手机操作系统的，他就他在负责这个p cos的这个设计。对，也欢迎大家吐槽。
+</p>
+<p class="transcript-line">
+<span class="time"><strong>[00:38:30]</strong> </span>
+<span class="speaker"><strong>发言人2: </strong></span>
+对对对，很漂亮，就是略空旷。对，适合我截图。好的，今天谢谢X，以后做做apple，做做watch APP APP的时候再去问，向你详细请教。谢谢，也谢谢大家关注AI炼金术。然后今天虽然讲起来跟AI没什么关系，其实是我想搞一些跟AI跟watch有关的事情，然后赶紧抓过来聊一聊，请教一下，谢谢录播课的名义好好请教一下。好，谢谢gale x谢谢大家好拜拜。
+</p>
+<p class="transcript-line">
+<span class="time"><strong>[00:38:57]</strong> </span>
+<span class="speaker"><strong>发言人1: </strong></span>
+好，谢谢大家好，拜拜。
+</p>
+<p class="transcript-line">
+<span class="time"><strong>[00:39:00]</strong> </span>
+<span class="speaker"><strong>发言人3: </strong></span>
+In the dark and every light go out. And there&#x27;s nothing left to say. I hear avoid softly calling.
+</p>
+<p class="transcript-line">
+<span class="time"><strong>[00:39:21]</strong> </span>
+<span class="speaker"><strong>发言人3: </strong></span>
+To go the death and feel the weight. When the night are long. And the things go on.
+</p>
+<p class="transcript-line">
+<span class="time"><strong>[00:39:45]</strong> </span>
+<span class="speaker"><strong>发言人3: </strong></span>
+那谁别你梦？
+</p>
+<p class="transcript-line">
+<span class="time"><strong>[00:40:04]</strong> </span>
+<span class="speaker"><strong>发言人3: </strong></span>
+And they did go on.
+</p>
+<p class="transcript-line">
+<span class="time"><strong>[00:40:11]</strong> </span>
+<span class="speaker"><strong>发言人3: </strong></span>
+And you feel back home.
+</p>]]></content:encoded>
+            <pubDate>Thu, 10 Apr 2025 11:45:15 GMT</pubDate>
+            <guid>67f7b214f5dc0d5e150e0452</guid>
+        </item>
+        <item>
+            <title>耐心试错，逐步加码 | 聊聊企业的 AI 投资之道</title>
             <link>https://www.xiaoyuzhoufm.com/episode/67e540d7da2632c5ea9e7415</link>
-            <description>大家好，欢迎大家来到新一期的「AI 炼金术」。在现代工作环境中，传统的分工管理方式效率存疑，创新思维和快速迭代在项目管理与团队协作中至关重要。在产品开发中，设计合理性优于开发速度，尽管AI应用面临挑战，但提高工作效率、解放人力，企业应以耐心和系统化方法投入AI，避免短期期望，注重长期投资和逐步迭代。AI的应用不仅改变了产品开发方式，也促使企业内部运作模式变革，组织需适应并利用AI变化以维持竞争优势。
+            <description>大家好，欢迎大家来到新一期的「AI 炼金术」。本期内容是徐文浩和任鑫两个人的“老友闲聊”。期间探讨了人工智能（AI）在企业应用中的多个维度，指出了AI 对组织的变革性影响以及如何定义清晰问题以引导 AI 模型训练的重要性。强调了逐步增加 AI 投资的策略，不期望快速见效，而是将其视为一个需要持续投入和调整的过程。AI不仅改变企业的技术应用，还根本性地改变组织的内部结构和运作方式，建议企业采取灵活和智能的方式管理组织，以适应 AI 技术带来的机遇和挑战。
 时间线：
 01:21 AI产品公司转向自建模型训练团队
 04:24 AI产品开发路径与传统产品区别
@@ -32443,1886 +33362,6 @@ Baby, you are the rest in peace.
 </p>]]></content:encoded>
             <pubDate>Sun, 24 Mar 2024 12:13:32 GMT</pubDate>
             <guid>66001fe5066f8f9252e0c8ae</guid>
-        </item>
-        <item>
-            <title>打脸还是神预测？看看去年都被我猜中了啥</title>
-            <link>https://www.xiaoyuzhoufm.com/episode/65d0b82abdad0abd3ced0692</link>
-            <description>大家好，欢迎收听「AI 炼金术」新一期的播客内容。这一期主要回顾了我们去年的预测，看哪些验证了，哪些打脸了，然后又不长记性地预测了一下2025年会发生什么~~
-时间线：
-0:00：原以为套壳产品没价值，后来发现……
-10:04：原来判断是不要着急，看一年再说，重来一次我会……
-16:27：不要把自己太当回事，不要以为自己有包袱
-22:41：承认自己在沙滩上了，要靠后浪年轻人了
-24:25：小切口切入，直接可以赚钱？
-27:02：6到9个月追上3.5，这个判断是对的
-33:39：再次预测，2024年10个团队做到GPT-4水平
-39:12：既要自己 hands-on，又要做好 tech HR
-43:30：垂直大模型有价值么？
-50:30：套壳应用的下一步是垂直微调大模型？
-51:25：从数据的分布角度，看是“垂直”还是“通用”
-55:44：不要做 productivity！
-1:01:12：公司到底会变大还是变小？
-1:10:35：对2024年的预测是？
-1:17:28：可以送算力？
-1:23:21：中国人一定卷得过！
-关于AI炼金术
-每周更新文章，公众号：AI炼金术
-每周直播，视频号：AI炼金术
-商务合作：在公众号：AI炼金术 菜单栏中【商务】获取联系方式
-相关 AI 实战课程
-任鑫《AI新商业机会洞察22讲》
-https://tools.hundun.cn/h5Bin/wxpay/dhy-selected-course-pay.html?page_type=&amp;package_id=509&amp;user_package_id=&amp;channel=appshare&amp;ambass_id=fabe90b3548513a654965aef6a1e65eb&amp;channel_id=181&amp;pid=TMI6&amp;sale_channel=
-徐文浩《AI大模型之美》
-https://time.geekbang.org/column/intro/100541001</description>
-            <content:encoded><![CDATA[<h1>转写链接</h1>
-<link>https://tongyi.aliyun.com/efficiency/doc/transcripts/dexp9j6bmrm2q5ol</link><br>
-<h1>节目摘要</h1>
-<div class="summary">在这次讨论中，参与者探讨了人工智能（AI）的发展趋势及其对工作协作、文档自动化和人机协作的影响。他们强调了以工具如飞书文档为核心的数字化协作方式，以及AI在工作安排和任务协调中的潜力。讨论还覆盖了AI模型的持续进步，如GPT系列的迭代，以及AI技术如何重塑未来的工作方式、软件开发和产品设计。讨论者预测了AI技术，特别是大模型，如何推动创新和出现新的杀手级应用。同时，讨论也关注了AI硬件的依赖、创新方向的多样性以及AI对社会和文化的影响。最后，讨论者认为持续创新和尝试新应用至关重要，并对AI的未来发展持乐观态度。此次对话不仅展现了对AI技术进步和市场发展趋势的深刻见解，也反映了科技预测的复杂性和市场发展的不确定性。</div><br>
-<h1>章节速览</h1>
-<div class="chapters">
-<div class="chapter-item">
-<span class="time"><strong>[00:00:00]</strong> </span>
-<span class="chapter-title"><strong>从套壳产品到有价值的产品迭代</strong></span>
-<div class="chapter-summary">对话围绕从套壳产品逐步演进为具有价值和壁垒的产品这一过程展开。讨论者分享了对AI领域中套壳产品初期可能看似简单，但经过不断迭代后，能够吸引用户并形成有价值的产品形态的观察。此外，还讨论了通过降低服务价格以扩大市场的可能性，以及在AI领域先发优势和人才的重要性。对话中提到了对未来预测的反思和对新产品方向的讨论，强调了迭代速度和数据积累的重要性，以及如何通过解决实际问题来提升产品价值。</div>
-</div>
-<div class="chapter-item">
-<span class="time"><strong>[00:04:51]</strong> </span>
-<span class="chapter-title"><strong>AI技术在现代产品中的应用与价值评估</strong></span>
-<div class="chapter-summary">对话围绕AI技术在产品中的应用及其价值展开，提及莫妮卡等具体产品案例。讨论指出，尽管初期产品可能被看作简单套壳，但随着技术的成熟和市场的接受，AI产品展现出了巨大的商业潜力和价值。同时，通过比较Perplexities、Arc浏览器等案例，分析了不同团队在AI技术应用上的策略差异，以及由此带来的市场反响和商业机会。</div>
-</div>
-<div class="chapter-item">
-<span class="time"><strong>[00:07:43]</strong> </span>
-<span class="chapter-title"><strong>AI技术在现有产品交互形式的创新及市场机遇</strong></span>
-<div class="chapter-summary">对话探讨了AI技术如何通过改变现有产品的交互形式来创造价值，而非完全创造新的业务模式。讨论者认为，尽管大公司有能力整合AI技术，但小公司通过快速响应市场需求，提供创新的AI应用，也能在市场中找到立足点。早期进入市场不仅能享受流量红利，还能吸引早期核心用户，即使面临大公司的竞争，这些产品也因其独特价值而具有较高的收购潜力。同时，技术的普及速度比预期慢，这意味着将复杂技术封装成易于理解的产品形态至关重要。最后，对话提到了预见未来趋势与实际执行之间的挑战，强调了洞察力与执行能力的重要性。</div>
-</div>
-<div class="chapter-item">
-<span class="time"><strong>[00:13:44]</strong> </span>
-<span class="chapter-title"><strong>探讨投资与创新：从套壳应用到未来战场</strong></span>
-<div class="chapter-summary">对话围绕投资和创新展开，强调了个人和团队在不同领域的能力，比如执行、创意、预测未来和产品迭代。讨论指出，虽然某些团队可能不擅长直接追逐流量红利或从零开始打造产品，但通过持续迭代和补足现有AI应用的不足，可以构建出有价值的产品壁垒。此外，还提到了即使不直接参与“套壳”应用的开发，也应该更早地参与到创新项目中，并通过积极宣传来抓住各种机会。</div>
-</div>
-<div class="chapter-item">
-<span class="time"><strong>[00:16:52]</strong> </span>
-<span class="chapter-title"><strong>创业心态与成本的世代差异</strong></span>
-<div class="chapter-summary">对话围绕创业心态和成本在不同年龄段之间的差异展开。讨论者认为，年轻人在创业时较少受到历史包袱的束缚，愿意尝试新的项目，而中老年人则可能因顾虑机会成本而犹豫。此外，随着技术的发展，创建新产品和服务的成本降低，需求刚性，这为年轻人提供了更多创业机会。讨论还提及，通过技术手段快速搭建原型，即使成本很低，也能给需求方带来强烈的技术能力印象，从而快速获得正反馈。整体上，这种乐观和天真的态度，以及较低的创业门槛，为初次创业者提供了良好的环境。</div>
-</div>
-<div class="chapter-item">
-<span class="time"><strong>[00:20:09]</strong> </span>
-<span class="chapter-title"><strong>创业、责任与新时代的浪潮</strong></span>
-<div class="chapter-summary">对话围绕创业和资金投入展开，讨论了创业初期的资金需求和随着年龄增长而增加的责任感。提及了个人在不同阶段的心态变化，从年轻时的敢为天下先到中年时对家庭和职业责任的重视。同时，讨论了在新时代浪潮下，创业的逻辑和比较的意义，并强调了动手实践的重要性。最后，通过两位同学的对比，探讨了团队合作和年轻一代在AI领域的崛起。</div>
-</div>
-<div class="chapter-item">
-<span class="time"><strong>[00:23:55]</strong> </span>
-<span class="chapter-title"><strong>科技创新与AI项目的商业化探索</strong></span>
-<div class="chapter-summary">讨论集中在科技创新项目和AI项目的商业化上，特别是关于如何通过专注于小而精准的市场痛点来实现快速盈利。提及了即便是在道德或法律边缘的项目，只要能解决用户的强烈需求，也能获得强大的付费意愿。此外，通过降低成本和利用新技术，可以大幅扩展市场规模，从而开辟出新的商业机会。</div>
-</div>
-<div class="chapter-item">
-<span class="time"><strong>[00:26:58]</strong> </span>
-<span class="chapter-title"><strong>大模型技术的快速发展与竞争格局</strong></span>
-<div class="chapter-summary">对话围绕大模型技术的发展速度和竞争状况展开。讨论者预测，中国人和开源社区在6到9个月内能实现GPT3.5的能力，这一预测基本准确。他们指出，技术扩散迅速，没有太多秘密，OpenAI的优势在于先发和人才而非独家技巧。此外，讨论者对谷歌追上大模型技术的速度表示惊讶，认为谷歌尚未在产品级GPT4上追上竞争对手。他们认为，大模型技术的提升需要时间，且是实验科学而非理论科学，多方面因素使得追赶周期不可忽视。同时，国内多家开源模型已达到GPT3.5水平，大厂和初创公司之间的差距并未显著拉开，反映出实验和团队磨合的时间成本对所有参与者都是挑战。</div>
-</div>
-<div class="chapter-item">
-<span class="time"><strong>[00:30:44]</strong> </span>
-<span class="chapter-title"><strong>大模型实验室竞争与技术突破</strong></span>
-<div class="chapter-summary">对话围绕实验科学和人工智能大模型的研究展开，讨论了资源丰富的实验室与资源较少实验室在突破速度上的差异，以及初创企业与大企业在实验室建设和团队协作方面的优势与劣势。提及了GPT4的进展和未来可能的竞争格局，包括全球范围内可能达到GPT4水平的团队数量预测。此外，还探讨了谷歌在AI领域的压力和挑战，以及大公司在面对新技术和竞争时的固有局限性。</div>
-</div>
-<div class="chapter-item">
-<span class="time"><strong>[00:39:12]</strong> </span>
-<span class="chapter-title"><strong>年长者在技术行业中的角色转变与未来预测</strong></span>
-<div class="chapter-summary">对话探讨了年长者在技术行业中应如何调整自己的角色，从直接参与技术工作转向发现和培养年轻人才。强调了保持一线经验的重要性，以避免与行业脱节，并提到了OpenAI内部的例子，说明高层管理者持续动手实践对于团队信心和项目成功的影响。同时，讨论了技术预测的准确性，包括对GPT3.5追赶情况的预测以及对未来的展望，指出开源和头部公司自主研发将推动AI技术的快速发展。</div>
-</div>
-<div class="chapter-item">
-<span class="time"><strong>[00:43:24]</strong> </span>
-<span class="chapter-title"><strong>垂直领域大模型的价值与微调实践</strong></span>
-<div class="chapter-summary">对话围绕垂直领域大模型的价值和微调实践展开，早期认为大模型在垂直领域有很高价值，但中后期观点转向认为其价值有限。讨论中提出，实际操作中许多团队并未真正进行预训练，而是进行微调，特别是在医疗、法律等特定行业。随着技术进步，通用模型能力提升，但在特定子领域的能力反而下降，显示出垂直细分领域模型微调的重要性。此外，还讨论了微调成本、模型安全性和应用场景的具体需求，强调了在特定场景下，微调对于提高模型效能和安全性的必要性。</div>
-</div>
-<div class="chapter-item">
-<span class="time"><strong>[00:50:02]</strong> </span>
-<span class="chapter-title"><strong>探讨垂直大模型在特定领域的应用与发展</strong></span>
-<div class="chapter-summary">对话围绕垂直大模型在特定领域中的应用展开，讨论了其成本效益、技术壁垒以及微调基座模型的必要性。参与者分析了不同场景下，如法律、医学、情感陪伴等领域的模型调整策略，强调了数据质量和相关性对于模型性能的关键作用。同时，也提到了预训练模型的高成本和挑战，指出微调现有基座模型是更实际的选择。最后，对话转向了未来预测，探讨了垂直大模型在2024年的潜在发展。</div>
-</div>
-<div class="chapter-item">
-<span class="time"><strong>[00:55:35]</strong> </span>
-<span class="chapter-title"><strong>对人工智能和生产力影响的深入探讨</strong></span>
-<div class="chapter-summary">对话围绕人工智能（AI）尤其是大模型进展、其对生产力的影响以及个人在AI领域的投资和创业选择进行了深入讨论。一方认为，尽管AI在理论上能显著提升生产力，但实际应用中的进展比预期慢，这主要是由于企业内部复杂的利益结构和资本家对成本效益的考虑。此外，讨论中提到了个人对远离将人类视为生产工具的倾向，倾向于关注那些不把人作为工具，而是将其视为目的的领域，如生活品质、心理健康等。同时，对于AI技术的快速发展，尽管存在技术理解和应用上的挑战，但通过投资和教育课程的分享，可以看出对AI商业应用和未来趋势的洞察依然具有前瞻性和价值。</div>
-</div>
-<div class="chapter-item">
-<span class="time"><strong>[01:01:11]</strong> </span>
-<span class="chapter-title"><strong>AI技术对组织管理边界的影响与未来展望</strong></span>
-<div class="chapter-summary">对话围绕AI技术对组织管理的影响展开，讨论了AI如何降低对传统管理人才的需求，使得组织规模可以变得更大。通过分析瑞幸咖啡等案例，展示了数字化管理在提升效率、减少对现场管理依赖方面的应用。同时，提出了AI技术可能替代管理者角色的观点，探讨了知识工作者和实体经营者的组织管理差异，以及这种技术变革对未来投资选择的潜在影响。</div>
-</div>
-<div class="chapter-item">
-<span class="time"><strong>[01:06:25]</strong> </span>
-<span class="chapter-title"><strong>从OKR到GPT5：未来工作的数字化转型与AI发展预测</strong></span>
-<div class="chapter-summary">对话围绕工作标准化与数字化的转型展开，探讨了从字节跳动的OKR系统到飞书文档的自动化协作，以及这些工具如何可能转变人类的工作方式。进一步讨论了AI技术，特别是GPT系列模型的发展，预测GPT4水平的模型将被广泛追上，甚至有开源模型达到类似水平。此外，对未来AI技术，包括GPT5的发展和其对工作流程、协作方式的影响进行了展望，强调了AI技术的快速发展对未来工作模式的潜在重塑作用。</div>
-</div>
-<div class="chapter-item">
-<span class="time"><strong>[01:13:07]</strong> </span>
-<span class="chapter-title"><strong>GPT4与未来AI应用的展望及挑战</strong></span>
-<div class="chapter-summary">对话中双方讨论了对GPT4性能的期待，认为其虽有显著进步但仍存在误导性输出的问题，距离真正的AGI仍有差距。他们探讨了今年是否会诞生杀手级应用（killer APP），并预测这类应用可能是全新的、偏娱乐性，且在中国市场出现的概率较大。同时，他们表达了对创造此类应用的期望和挑战。</div>
-</div>
-<div class="chapter-item">
-<span class="time"><strong>[01:17:02]</strong> </span>
-<span class="chapter-title"><strong>探讨AI应用探索与算力合作</strong></span>
-<div class="chapter-summary">对话聚焦于AI技术的应用探索和算力资源的高效利用。讨论指出，不应过多纠结于理论探讨，而应关注实际产品开发和市场反馈。双方表达了在算力使用、模型微调和资源共享上的合作意愿，强调了技术壁垒实际比想象中的要低，特别是在追赶和使用GPT3.5或GPT4等技术时。此外，还探讨了中国AI团队出海的趋势，对2024年可能出现的成功案例进行了预测。</div>
-</div>
-<div class="chapter-item">
-<span class="time"><strong>[01:20:18]</strong> </span>
-<span class="chapter-title"><strong>中国团队出海的机遇与优势</strong></span>
-<div class="chapter-summary">对话聚焦于中国团队出海的优势和机遇，强调中国团队在迭代速度和快速适应市场变化方面具有显著优势。由于AI技术的兴起，使得在重新定义交互范式和设计硬件时，中国团队与国际竞争者站在了同一起跑线上，甚至因更谦卑的态度和对海外市场的积极探索而获得额外优势。此外，讨论中提到中国团队在软件开发和人才储备方面的实力，认为在全球范围内竞争中，中国团队不仅有实力与国际顶尖团队抗衡，甚至在某些方面可能更胜一筹。</div>
-</div>
-<div class="chapter-item">
-<span class="time"><strong>[01:25:27]</strong> </span>
-<span class="chapter-title"><strong>探讨AI技术发展及其国际竞争</strong></span>
-<div class="chapter-summary">对话深入探讨了AI技术特别是大语言模型的发展，以及其在国际间的激烈竞争。讨论者从不同角度分析了OpenAI在AI领域的领先地位，以及这种领先是否可被其他参与者，包括国家层面的竞争者所超越。此外，还讨论了硬件技术，如GPU的发展和对AI进步的影响，以及中国在这一领域的机遇和挑战。最后，提及了AI技术的迅速发展可能带来的全球统一效应，表达了对AI未来发展的乐观态度。</div>
-</div>
-</div><br>
-<h1>问题回顾</h1>
-<div class="qa-item">
-<div class="question"><strong>Q:</strong> 对于一开始看似只是套壳的产品，现在是否还有其价值？是否有一些早期看似简单的套壳产品实际上拥有长远价值的例子？</div>
-<div class="answer"><strong>A:</strong> 是的，从长远角度看，即使最初只是简单套壳吸引用户的产品，在不断迭代后也发展出了自身的价值和壁垒。它们通过收集数据和用户反馈，逐渐演变为具有实用价值和较大想象空间的产品。是的，例如莫妮卡收购的chat for google插件，虽然最初看似套壳，但因其快速捕捉到用户需求并提供一定价值，被有远见的团队高价收购，展现出长远价值。</div>
-</div>
-<div class="qa-item">
-<div class="question"><strong>Q:</strong> 对于当前流行的AI套壳产品，它们的价值和未来发展方向是什么？</div>
-<div class="answer"><strong>A:</strong> 这些产品初期可能只解决了用户访问AI模型的问题，但随着发展，它们逐渐转变为具有场景、用户基础和实用价值的产品，并且随着技术进步和应用形态的改变，其商业潜力和想象空间正在逐渐打开。</div>
-</div>
-<div class="qa-item">
-<div class="question"><strong>Q:</strong> 所有之前存在的知识服务领域是否都可以通过类似方式重塑并降低客单价以扩大市场空间？</div>
-<div class="answer"><strong>A:</strong> 是的，许多人类知识服务领域可能都存在这样的机会，通过降低服务价格点，原本被价格限制住的庞大市场可以得到释放，细分市场也会因此炸开来。</div>
-</div>
-<div class="qa-item">
-<div class="question"><strong>Q:</strong> OpenAI的优势主要体现在哪些方面？</div>
-<div class="answer"><strong>A:</strong> OpenAI的优势在于先发优势和人才储备，但并没有掌握明显的技术秘密以保持长期领先。其瓶颈可能在于谁更聪明、叠代速度更快以及投入资源更多。</div>
-</div>
-<div class="qa-item">
-<div class="question"><strong>Q:</strong> 这一期我们要聊什么主题？</div>
-<div class="answer"><strong>A:</strong> 我们打算回顾过去一年关于AI领域的预测与实际发展之间的差异，并对未来做出新的预测。</div>
-</div>
-<div class="qa-item">
-<div class="question"><strong>Q:</strong> 是否有过去认为不应该做的项目，现在回头看结论有所改变？</div>
-<div class="answer"><strong>A:</strong> 是的，有些过去认为价值不高或不应该做的项目，在重新复盘后发现其实有一定的价值，比如套壳产品在积累数据和解决用户实际需求方面的作用。</div>
-</div>
-<div class="qa-item">
-<div class="question"><strong>Q:</strong> 在投资和孵化项目时，怎样判断一个idea的价值和可行性？</div>
-<div class="answer"><strong>A:</strong> 投资和孵化项目时，关键在于对人的判断能力和对事物发展走向的洞察力。不同人擅长不同的角色，如执行、预测未来、竞争或坐冷板凳等。对于套壳类应用，尽管表面上看似简单复制现有技术，但实际在补足用户场景中的不足并不断迭代的过程中，也能建立起壁垒和价值。因此，即使不做套壳，也应在早期阶段寻找并抓住机会。</div>
-</div>
-<div class="qa-item">
-<div class="question"><strong>Q:</strong> 如何看待套壳类应用的价值？</div>
-<div class="answer"><strong>A:</strong> 虽然有人认为套壳价值不大，但从产品演进的角度看，套壳应用通过不断迭代也能创造出有价值且有壁垒的产品。以AR炼金术为例，即使不是最擅长追赶流量红利的团队，但通过套壳并结合自身优势，在细分品类中也能做得非常精专。</div>
-</div>
-<div class="qa-item">
-<div class="question"><strong>Q:</strong> 对于创业者的心态和起步阶段的看法是什么？</div>
-<div class="answer"><strong>A:</strong> 创业者应摒弃历史包袱带来的机会成本担忧，以一种天真而乐观的态度去尝试和探索。现在创业成本降低，需求强烈，许多年轻创业者能够迅速获得正反馈并投身其中。作为经验丰富的创业者，更擅长的是动手实践，敢于为天下先，而不是过分纠结于项目的规模和融资金额。</div>
-</div>
-<div class="qa-item">
-<div class="question"><strong>Q:</strong> 年龄因素如何影响创业决策？</div>
-<div class="answer"><strong>A:</strong> 随着年龄增长，人们会承担更多的家庭责任和社会包袱，可能会觉得创业规模需更大才能起步。但实际上，即使是很小的事情也可以作为切入点，关键是要有行动力。年纪大一些的创业者不应过分拿上班的收入与创业规模比较，而应更多地将创业视为一种谈判力，在融资时通过策略争取更多资金，同时始终保持愿意尝试新事物的心态。</div>
-</div>
-<div class="qa-item">
-<div class="question"><strong>Q:</strong> 在付费意愿方面，有哪些具体的例子可以说明人们对于即时获得结果的强烈需求？</div>
-<div class="answer"><strong>A:</strong> 一个假设的例子是考试作弊器，它可以在考试过程中直接帮助考生答题，尽管道德和法律上存在问题，但在某些场景下，如远程机考或严格的比赛机考中，为了得到好成绩，很多人可能愿意付费购买这种作弊工具，因为其带来的收益（通过考试）具有很强的即时性和确定性。</div>
-</div>
-<div class="qa-item">
-<div class="question"><strong>Q:</strong> 开源模型的发展现状是否意味着多家公司都能快速达到GPT3.5水平？</div>
-<div class="answer"><strong>A:</strong> 是的，目前多家国内开源模型做到了GPT3.5水平，并非只有单一团队或公司能做到。同时，大厂在初期追赶周期上并没有拉开显著差距，因为实验室搭建、团队磨合、实验流程制定等都需要时间，而初创公司在这些方面可能具有一定优势。</div>
-</div>
-<div class="qa-item">
-<div class="question"><strong>Q:</strong> 对于那些认为在主战场容易被覆盖的细分市场，您怎么看？</div>
-<div class="answer"><strong>A:</strong> 我认为先不要过多担忧这个问题，重要的是先去做，尝试抓住这些细分市场的机会，很多细分市场可能因为价格卡点而未被充分开发，但随着技术进步和市场需求的变化，这些市场可能会迅速扩大。</div>
-</div>
-<div class="qa-item">
-<div class="question"><strong>Q:</strong> 您之前预测的关于中国团队做出GPT3.5的时间是多久？对于Google追赶GPT4的速度，您有何看法？</div>
-<div class="answer"><strong>A:</strong> 我当时的预测是6到9个月，而实际上到年底大家基本都有了3.5的能力。这证明了技术扩散速度很快，并且OpenAI的优势主要体现在先发和人才储备上，而非拥有保密的trick。我对Google追赶GPT4的速度感到远超预期，虽然Google自豪地认为他们的模型已超过GPT4，但从用户角度看，两者之间还未达到完全追上。尽管存在算力、数据累积和团队磨合等因素，但长期来看，Google追上GPT4只是时间问题。</div>
-</div>
-<div class="qa-item">
-<div class="question"><strong>Q:</strong> 为什么实验科学理论上可以通过多个实验室并行研发来加速突破？</div>
-<div class="answer"><strong>A:</strong> 虽然理论上可以同时开启多个实验室以加速突破，但实际上物理世界中存在诸多条件限制，比如资源获取、团队转换、科研流程等方面，这些都需要时间，并非所有因素都能短期内迅速解决。不过，随着技术进步和竞争加剧，未来有望有更多的团队达到GPT4的水平。</div>
-</div>
-<div class="qa-item">
-<div class="question"><strong>Q:</strong> Google在发布新技术时，为什么选择强调基础设施层面而非算法和数据层面？</div>
-<div class="answer"><strong>A:</strong> Google在发布新技术时，着重介绍了基础设施层面，如使用TPU以及其跨数据中心通信的能力，因为他们的核心优势原本是在基础设施方面，而非算法。GFDN（可能是Google的某个研究团队）的成名作就是基于强大的基础设施构建的，这包括内存、缓存、访问速度等硬件层面的优化。大厂在竞争中可能因过于依赖历史经验和擅长领域而忽视了探索未知的重要性。</div>
-</div>
-<div class="qa-item">
-<div class="question"><strong>Q:</strong> 大厂在追赶前沿技术时是否具备优势？</div>
-<div class="answer"><strong>A:</strong> 对于像GPT4这样的前沿技术，大厂可能较易追上，但要领先则存在困难，比如追上GPT5就不一定有优势了。这是因为探索未知领域时，以往的经验可能不再有效。</div>
-</div>
-<div class="qa-item">
-<div class="question"><strong>Q:</strong> 如何看待当前阶段对于年轻人的培养和使用？</div>
-<div class="answer"><strong>A:</strong> 应该更多地从人力资源的角度出发，去发现并培养优秀的年轻人，并给予他们资源和支持，帮助他们成长，同时避免周期性的错误。</div>
-</div>
-<div class="qa-item">
-<div class="question"><strong>Q:</strong> 是否有预测过AI领域的发展方向或技术趋势？</div>
-<div class="answer"><strong>A:</strong> 曾经预测过一些方向，例如年初时预测GPT3.5可以被追上，现在看来这个预测基本准确。另外，关于垂直领域大模型的价值，早期认为有价值，但现在观察到微调模型在特定场景下更具价值，尤其是在法律、医疗等垂直领域的微调应用。</div>
-</div>
-<div class="qa-item">
-<div class="question"><strong>Q:</strong> 微调模型是否在特定场景中有其独特价值？</div>
-<div class="answer"><strong>A:</strong> 是的，微调模型在特定场景下具有明显价值。尽管通用模型能力在增强，但在某些特定领域，微调模型能够更好地适应和满足特定需求，保持良好的对话能力和符合人类价值观的安全性。并且，在实践中，许多团队在应用场景中确实进行了微调，取得了较好的效果。</div>
-</div>
-<div class="qa-item">
-<div class="question"><strong>Q:</strong> 假设使用70B的大模型进行训练，大概需要多少成本？</div>
-<div class="answer"><strong>A:</strong> 使用大模型一般只需三台A100显卡调教两三天即可，成本大概在5000到2万块钱之间。如果数据量较大或缺乏经验，可能需要更多次尝试和调整。</div>
-</div>
-<div class="qa-item">
-<div class="question"><strong>Q:</strong> 2024年垂直大模型会起来吗？</div>
-<div class="answer"><strong>A:</strong> 在特定领域内，垂直大模型可能会出现。</div>
-</div>
-<div class="qa-item">
-<div class="question"><strong>Q:</strong> 垂直大模型是指基于公开基座模型微调吗？对于套壳应用，在特定场景下，是否应该考虑基于基座模型进行微调？</div>
-<div class="answer"><strong>A:</strong> 是的，是基于已有的大模型进行微调，而不是从零开始训练，因为零开始训练成本太高。如果内部有AI人才，并且希望针对特定场景优化模型性能，可以考虑基于基座模型进行微调，但这也存在一定挑战。</div>
-</div>
-<div class="qa-item">
-<div class="question"><strong>Q:</strong> 总结类应用（如总结）和垂直领域应用（如兽医APP或专业总结工具）在使用大模型时，是宽泛还是垂直领域？</div>
-<div class="answer"><strong>A:</strong> 总结类应用倾向于使用较宽泛的大模型，因为其处理的数据具有一定的通用性；而垂直领域应用则可能需要更针对性的模型。</div>
-</div>
-<div class="qa-item">
-<div class="question"><strong>Q:</strong> 情感陪伴或心理咨询类应用算宽领域还是窄领域？</div>
-<div class="answer"><strong>A:</strong> 情感陪伴或心理咨询类应用算作窄领域，因为真实的对话式文本数据在基座模型的数据集中占比小且具有独特性。</div>
-</div>
-<div class="qa-item">
-<div class="question"><strong>Q:</strong> 对于智能是数据的一个属性这一观点，您怎么看？</div>
-<div class="answer"><strong>A:</strong> 虽然有这个观点，但个人对其完整性和严谨性持保留意见，认为智能并非仅由数据决定，而是取决于数据的质量、相关性和分布情况。</div>
-</div>
-<div class="qa-item">
-<div class="question"><strong>Q:</strong> 关于大模型技术的发展进展，您有什么看法？</div>
-<div class="answer"><strong>A:</strong> 大模型技术的发展比我预想的要难，尤其在生产力领域，虽然资本家追求降本增效，但新技术在企业中的广泛应用速度相对较慢，这与现有企业复杂架构和技术扩散有关。</div>
-</div>
-<div class="qa-item">
-<div class="question"><strong>Q:</strong> 在AI变得强大的背景下，公司管理边界是否可能变得无限大，由一个超级大脑来管理整个公司？</div>
-<div class="answer"><strong>A:</strong> 是的，有观点认为随着AI技术的发展，公司的管理边界可能会变得无线，不再受限于传统的小公司模式。例如，在新消费领域的创业中，数字化技术和AI已经使得一些企业能够通过智能化系统管理大量店面，降低了对传统店长等全方位经营型人才的需求，从而实现了组织规模的扩大。</div>
-</div>
-<div class="qa-item">
-<div class="question"><strong>Q:</strong> AI是否更有可能替代管理者，尤其是处理信息、分发信息和协调工作的角色？</div>
-<div class="answer"><strong>A:</strong> 确如此，AI在很大程度上可以替代管理者的工作，因为这类工作本质上是在接收、传递信息并进行协调，而这些任务正是AI擅长处理的。如果AI取代了管理者，那么一个管理者就能协调和管理更多的人和事务，从而理论上可以极大地扩大公司的组织边界。</div>
-</div>
-<div class="qa-item">
-<div class="question"><strong>Q:</strong> 新消费模式下，开设大量店铺是否靠谱？</div>
-<div class="answer"><strong>A:</strong> 开设大量店铺在很多情况下可能并不靠谱，因为新消费领域曾经历偃旗息鼓的阶段。但也有成功的例子，比如瑞幸咖啡，通过数字化和自动化技术降低了对现场管理能力的要求，实现了快速扩张。</div>
-</div>
-<div class="qa-item">
-<div class="question"><strong>Q:</strong> 瑞幸咖啡的成功是因为数字化技术大幅降低了管理成本吗？</div>
-<div class="answer"><strong>A:</strong> 是的，瑞幸咖啡等品牌利用数字化技术简化了店铺管理流程，大部分日常运营问题可通过数字化解决，现场只需要处理极少数意外情况，从而降低了对传统店长的依赖，实现了有效扩张。</div>
-</div>
-<div class="qa-item">
-<div class="question"><strong>Q:</strong> 是否认为数字化管控下，像阿里、字节跳动这样的大公司与瑞幸等小型公司之间存在本质区别？</div>
-<div class="answer"><strong>A:</strong> 实际上，大公司和瑞幸这样的公司并非绝对不同，工作是否标准化是一个光谱而非非黑即白的问题。比如阿里、字节跳动也有类似瑞幸的数字化协作工具，如OKR、飞书等，将协作流程数字化，以便于团队成员间的高效协作和任务对齐。如果进一步发展，可能会出现以数字化工具为主导，自动安排和协调工作的新型工作模式，这时大公司和小公司之间的界限将更加模糊。</div>
-</div>
-<div class="qa-item">
-<div class="question"><strong>Q:</strong> 对于未来AI的发展和应用，有哪些预测？</div>
-<div class="answer"><strong>A:</strong> 预测之一是到2024年底，会有10家公司能够开发出达到GPT4水平的模型，并且能够公开使用；另一个预测是短期内AI领域的热度会有所回调，但在2025年AI技术将再次加速进步。此外，OpenAI可能会在接下来的一两年内发布GPT4的迭代版本。</div>
-</div>
-<div class="qa-item">
-<div class="question"><strong>Q:</strong> GPT4在面对专业问题时能否给出准确信息？</div>
-<div class="answer"><strong>A:</strong> 目前GPT4在面对专业问题时有时会给出不准确或瞎编的信息，它离真正的AGI还有一段距离。</div>
-</div>
-<div class="qa-item">
-<div class="question"><strong>Q:</strong> 今年可能会出现什么样的“killer app”？</div>
-<div class="answer"><strong>A:</strong> 今年可能不会出现像愤怒的小鸟那样大规模、全民使用的“killer app”，但可能会出现用户体量规模更大、粘性更强的AI应用，比如比妙鸭相机更大型且具有更高用户粘性的产品。</div>
-</div>
-<div class="qa-item">
-<div class="question"><strong>Q:</strong> 这种新的AI应用更可能在海外还是国内出现？</div>
-<div class="answer"><strong>A:</strong> 国内出现新AI应用的概率大于海外，因为中国人在娱乐性方面投入的时间和精力更多。</div>
-</div>
-<div class="qa-item">
-<div class="question"><strong>Q:</strong> 对于中国团队出海，您预测2024年会有哪些成功的案例吗？</div>
-<div class="answer"><strong>A:</strong> 预测2024年中国团队出海会有成功的案例，主要是由于中国团队迭代速度快，能够快速抓住机会并放大成功项目的效果。特别是在AI化进程中，文化壁垒被降低，为中国团队提供了更多机会。</div>
-</div>
-<div class="qa-item">
-<div class="question"><strong>Q:</strong> 对于中国团队在技术和产品上的竞争力有何看法？</div>
-<div class="answer"><strong>A:</strong> 认为中国团队在技术和产品上具有很强的竞争力，尤其是在快速迭代和抓住机会的能力上。同时，中国团队出海还有硬件能力的优势，因此是有机会在全球市场中取得成功的。</div>
-</div>
-<div class="qa-item">
-<div class="question"><strong>Q:</strong> 在当前的科技背景下，您认为AGI（人工智能的通用性）的出现是否需要天才级别的智慧？</div>
-<div class="answer"><strong>A:</strong> 不是的，即使存在天才般的洞察力，但并非所有人都必须是天才才能参与并推进这项工作。就像20世纪二三十年代的量子物理一样，尽管爱因斯坦和波尔等人的天才思想引领了领域发展，但在正确方向指引下，众多才华横溢的人才也会不断加入，共同推动技术进步，例如原子弹的研发。</div>
-</div>
-<div class="qa-item">
-<div class="question"><strong>Q:</strong> 您对未来AI技术发展趋势的看法是什么？</div>
-<div class="answer"><strong>A:</strong> 我长期预测认为，随着激励机制和经济利益的驱动，会有无数聪明人寻找创新途径突破技术瓶颈，就像摩尔定律所描述的那样，AI技术可能会以每年翻倍甚至18个月翻倍的速度发展。</div>
-</div>
-<div class="qa-item">
-<div class="question"><strong>Q:</strong> 对于中国在AI领域的机会，您怎么看？</div>
-<div class="answer"><strong>A:</strong> 如果竞争激烈，这将加速AI技术的发展。以中国为例，即使在模型能力上存在一些限制，但鉴于国内强大的创新能力，通过各种“歪门邪道”（非正式方法）也可能找到解决方案，并且随着英伟达GPU出货量大幅提升，更多公司会加入冲刺，中国的模型能力有可能迅速提升。</div>
-</div>
-<div class="qa-item">
-<div class="question"><strong>Q:</strong> 华为等公司能否自主制造与英伟达相当的AI芯片？</div>
-<div class="answer"><strong>A:</strong> 虽然硬件研发周期较长，相较于英伟达在训练和推理卡上的领先地位，其他公司包括华为在内的云服务商，都在努力减少对英伟达的依赖，研发自己的软硬件解决方案。虽然追赶硬件技术需要较长时间，但降低对单一供应商的依赖性是一个确定的趋势。若华为能够替代英伟达的H100芯片，意味着中国在模型能力上已经接近甚至超越了英伟达。</div>
-</div>
-<h1>节目文稿</h1>
-<p class="transcript-line">
-<span class="time"><strong>[00:00:04]</strong> </span>
-<span class="speaker"><strong>发言人1: </strong></span>
-实际上从产品侧我看到，当简单的套壳吸引了用户，逐步延伸之后，它现在就是一个有价值有壁垒的产品。你如果只看它第一天的产品形态，你也很容易觉得这不就套个壳。但如果你看他今天的产品形态，他并不是说我收割了一波流量，然后我完全做了一个完全不一样的产品。而是他在原来那个产品上不断迭代起来的。我是说从这个视角的判断上，我觉得是说套可仍然有价值。
-</p>
-<p class="transcript-line">
-<span class="time"><strong>[00:00:33]</strong> </span>
-<span class="speaker"><strong>发言人2: </strong></span>
-所有的之前存在人类的知识服务的领域可能都可以重做。因为原来的人类知识服务会把客单价拉到，比如说时薪至少是200人民币。假如说你可以把它打到，比如说五毛钱人民币，市场是以前是被这个价格卡在那里了，那现在可能可以扩大1000倍。所以无数的细分市场，现在我看到确实正在炸出来。
-</p>
-<p class="transcript-line">
-<span class="time"><strong>[00:00:57]</strong> </span>
-<span class="speaker"><strong>发言人1: </strong></span>
-觉得OpenAI的优势是在于先发，在于人才上有一定的优势。但是并没有太多的说，我知道了一个保密的一个trick，能够守住这个优势，特别超长时间，别人没法知道。这目前来讲不存在代差级别的秘密。那其实就是比谁聪明，谁叠代快，谁的这个数量多。可能的瓶颈真的最后会变成存在卡上。
-</p>
-<p class="transcript-line">
-<span class="time"><strong>[00:01:24]</strong> </span>
-<span class="speaker"><strong>发言人2: </strong></span>
-我们这个非常不定时不规律，然后不勤勉的更新，终于又到了新的一期炼金术，不知道上一期什么时候了。Hello, 你是说这一期我们就聊回顾这一年吗？
-</p>
-<p class="transcript-line">
-<span class="time"><strong>[00:01:35]</strong> </span>
-<span class="speaker"><strong>发言人1: </strong></span>
-还是聊啥？对对对，我之前说我们可以聊一聊说，因为其实去年年初大家对这个东西都有很多预测，我们也有一些预测对吧？然后我相信外部也有各种各样的预测。其实大家过去一年前对于这个AI的这个预测或者观点，其实差别还是千差万别的。今年下来我觉得是说其实跑了一年，有些事情其实是我我们可以来回顾一下对吧？就看我们当时预测对不对，然后也可以对新的一年做点新的预测。
-</p>
-<p class="transcript-line">
-<span class="time"><strong>[00:02:05]</strong> </span>
-<span class="speaker"><strong>发言人1: </strong></span>
-因为我也是有有一些感触，因为最近也跟一些朋友聊了一下，包括在一些产品方向上。其实看了那个一些东西之后，我觉得说我们当时想做的一些事情，或者看好不看好的一些项目，今天重新复盘来看也是错的。其实这个事情。
-</p>
-<p class="transcript-line">
-<span class="time"><strong>[00:02:26]</strong> </span>
-<span class="speaker"><strong>发言人2: </strong></span>
-就会比较有价值。OK那挺好的。对我最近也是聊了比较多的人。对，但是我脑子里面现在还是一团浆糊，就是属于没有说什么已经复盘说我之前哪里对哪里错的阶段。所以今天那就你多说点了。
-</p>
-<p class="transcript-line">
-<span class="time"><strong>[00:02:42]</strong> </span>
-<span class="speaker"><strong>发言人1: </strong></span>
-没有问题。对对对，因为我也是因为我觉得有些预测，肯定包括有些项目的观点，我们一年前肯定都聊过。只是你可能已经忘记了对吧？或者你可能没有想起来说这个事情。因为我最近在下下海干活对吧？然后就在看自己在尝试做各种项目的时候，我觉的是说也会有一些反思。你就会觉得说有些事情当时觉得不应该做，或者觉得这个项目就这一类型的产品或者项目价值不高。但是现在如果回过头来看的话，结论可能不太一样。
-</p>
-<p class="transcript-line">
-<span class="time"><strong>[00:03:14]</strong> </span>
-<span class="speaker"><strong>发言人2: </strong></span>
-比如说你当时觉得不应该做套壳？后来觉得其实套可攒攒数据挺好的。
-</p>
-<p class="transcript-line">
-<span class="time"><strong>[00:03:21]</strong> </span>
-<span class="speaker"><strong>发言人1: </strong></span>
-对我而且我觉得这个观点一直在变。就是说从套壳这个逻辑开始，我觉得我当初最早认为不应该套。可后来中间有一段时间发现做套壳的这些人，不管他干了什么，他至少收到了一波数据？然后这个数据可能对于你去做一个自己的场景，或者调一个效果好一点的模型是有价值的。
-</p>
-<p class="transcript-line">
-<span class="time"><strong>[00:03:41]</strong> </span>
-<span class="speaker"><strong>发言人1: </strong></span>
-再后来其实我又观察到一个现象，我就觉得说现在其实很多累积了很多用户的产品数据也还不不错，也拿了融资。关键是说他做套壳。其实也解决了普通用户跟G1个GP4这样一个纯粹的聊天窗口之间的这样一个gap。它变成了一个有场景、有用户、有实用价值的产品，而且后面的想象空间其实是很大的。所以从这个视角来讲，我觉得说而你也很难在第一天就下一个很大的投入就能想到说我第一天推出的产品就是他今天这个形态，甚至半年以后的形态。
-</p>
-<p class="transcript-line">
-<span class="time"><strong>[00:04:18]</strong> </span>
-<span class="speaker"><strong>发言人1: </strong></span>
-我我们我举几个例子，我觉得还是举几个例也就是说就最简粗浅的套壳的确没有看到太大的价值。就是说你套壳只是为了解决中国用户访问不了GPT4这个事情，就是我做了跟GPT41样的界面。这件事情除了纯粹的你是说我为了赚一波快钱，当时我觉得可能是有价值的，大部分这样的产品的确也就消失了。但是我觉得当时其实我们看了几类套盒的产品。第一类是一些浏览器插件，我觉得这个是比较典型的一些产品。包括当时有人做了叫chat for google，当时我们看。
-</p>
-<p class="transcript-line">
-<span class="time"><strong>[00:04:51]</strong> </span>
-<span class="speaker"><strong>发言人2: </strong></span>
-他的被莫妮卡买了。
-</p>
-<p class="transcript-line">
-<span class="time"><strong>[00:04:53]</strong> </span>
-<span class="speaker"><strong>发言人1: </strong></span>
-对对对，而且他们做的决策是很快就卖掉了。我理解当方的决定很快把它卖掉的时候，意味着他的判断是说这个东西其实也没有太大的价值。但有团队愿意花一个不错的价格去买，肯定是觉得这个东西比较有长远的价值，对吧？就当这个交易发生的时候，其实已经是两个观念在对撞了，所以我觉得这是个特别有意思的案例。但是如果我们今天就我不知道大家今天有没有在用莫妮卡，或者说有没有尝试用一下莫妮卡。它其实已经是一个比较复杂的产品了。
-</p>
-<p class="transcript-line">
-<span class="time"><strong>[00:05:24]</strong> </span>
-<span class="speaker"><strong>发言人2: </strong></span>
-是啥都有对吧？
-</p>
-<p class="transcript-line">
-<span class="time"><strong>[00:05:26]</strong> </span>
-<span class="speaker"><strong>发言人1: </strong></span>
-它已经不是一个最简单的一层的套壳，不是最早的那种chat call google的形式是我再讲一个talk，我觉得比较典型的是那个inversions translate。就是说这个沉浸式的翻译，包括当时有很多人做这种什么youtube的summarize的插件。
-</p>
-<p class="transcript-line">
-<span class="time"><strong>[00:05:40]</strong> </span>
-<span class="speaker"><strong>发言人1: </strong></span>
-其实总的来讲，我当时的感觉是说这些产品有价值。我觉得去年年初的时候，我觉得是这些产品有价值，但是价值可能没有那么大，或者说竞争也很。就是不管因为什么原因不想做，你肯定找了一堆理由，你觉得他可能价值就是个套个壳，你觉得竞争也很激烈，商业化的上限也很有限。但是到今天如果我去反思这个逻辑，我觉得其实是它空间其实是非常大的。甚至是说我觉得有两个。一个是这个产品中，包括我们刚才说的这些，再包括我再举两个产品，我不知道大家可能也很，最近新闻也很多，大家也比较关注。一个是per publicity，publicity不就是我把chat for google做成了一个网站，对吧？就我们我们如果说用一个倚老卖老，那待会儿你不就是把chat for google做成了个网站，你就是用搜索结果拿回来，然后大家会觉得这不是谷歌自己做，或者病自己做就完事儿了。
-</p>
-<p class="transcript-line">
-<span class="time"><strong>[00:06:33]</strong> </span>
-<span class="speaker"><strong>发言人2: </strong></span>
-所以贾扬青不是搞了五百行代码复刻perplexities，然后还被xi给怼了，1 500行代码搞定。
-</p>
-<p class="transcript-line">
-<span class="time"><strong>[00:06:41]</strong> </span>
-<span class="speaker"><strong>发言人1: </strong></span>
-对，但当然我相信那个那个可能更低，更多的多的是为了秀一下肌肉，更多的是为了显示我能快速做一个demo。你真的说在产品技术体验上要做好的，就从60分做到八九十分，那个投入可能要大很多。但是你的直观感受是说这事儿也没有什么深入，对吧？
-</p>
-<p class="transcript-line">
-<span class="time"><strong>[00:06:59]</strong> </span>
-<span class="speaker"><strong>发言人1: </strong></span>
-第三个我觉得比较典型的是arc，就是现在很火的那个浏览器。那你回到arc浏览器本账户，它还是在套，可就这些公司第一个他没有做太多的底层模型的事情，我们客观来讲。第二个是说他更多的用的技在他的模型技术其实用的就是开源，或者说是别人的商业模型的API，我觉得这个是他的第一个决策。
-</p>
-<p class="transcript-line">
-<span class="time"><strong>[00:07:24]</strong> </span>
-<span class="speaker"><strong>发言人2: </strong></span>
-但是arc不以AI为中心，所以二可好像。
-</p>
-<p class="transcript-line">
-<span class="time"><strong>[00:07:29]</strong> </span>
-<span class="speaker"><strong>发言人1: </strong></span>
-我觉得艾尔可现在明显的在转向逐步以AI为中心。
-</p>
-<p class="transcript-line">
-<span class="time"><strong>[00:07:33]</strong> </span>
-<span class="speaker"><strong>发言人2: </strong></span>
-这样行，我我的感受。
-</p>
-<p class="transcript-line">
-<span class="time"><strong>[00:07:35]</strong> </span>
-<span class="speaker"><strong>发言人1: </strong></span>
-我的感受或者说OK他现在看又一波新的流量是通过以AI为。
-</p>
-<p class="transcript-line">
-<span class="time"><strong>[00:07:41]</strong> </span>
-<span class="speaker"><strong>发言人2: </strong></span>
-中心AI来的。OK了解。
-</p>
-<p class="transcript-line">
-<span class="time"><strong>[00:07:43]</strong> </span>
-<span class="speaker"><strong>发言人1: </strong></span>
-对我我觉得这样去描述对吧？第二个是说这些公司其实解决的是把现有的模型的能力，在现有的所有的应用产品上改变了交互形式。它不是说我利用现有的这个AI技术，我去做了一个新的业务，跟移动互联网的时候，我去做外卖打车的逻辑还不太一样。他比方说大家去做这些插件那个内容，那个消费的内容，其实还是原来的那些网站。我还是去youtube上看视频去。比如说你想看科技类的，你看可能去什么weird的，去什么各种各样的blog上去看你还是去那些地方看你只是说他帮你去做了summarized，做了一些能问答的交互或者这样的这个形式。
-</p>
-<p class="transcript-line">
-<span class="time"><strong>[00:08:26]</strong> </span>
-<span class="speaker"><strong>发言人1: </strong></span>
-从这个角度来讲，其实交互形式本身的改变，我觉得就已经极大的提供了价值。这个是我我的一个体会。就是说你可能同时这些产品也证明了说这个是有机会的。这个机会不在于说大厂不会做，我理解我在想做的这些事情或者Monica做的这些事情，未来google是不是有可能也会做，或者其他大厂的浏览器厂商也会做。我觉得仍然是有可能的。因为它跟大厂的这些产品现在并不矛盾，它不是大厂的我你叫做反关节，或者说是一个他很难内部很难自洽的，就是说内部会阻力很大的的产品，对吧？就好像说当淘宝要做消费升级的时候，他去做一个跟拼多多比价的这个逻辑，他很难做这样的产品。但是他是完全chrome说我去加一些AI能力，其实是很自然的一个能力。
-</p>
-<p class="transcript-line">
-<span class="time"><strong>[00:09:17]</strong> </span>
-<span class="speaker"><strong>发言人2: </strong></span>
-就一定会加。
-</p>
-<p class="transcript-line">
-<span class="time"><strong>[00:09:18]</strong> </span>
-<span class="speaker"><strong>发言人1: </strong></span>
-对。但是实际上这些产品仍然跑得很很好。我觉得也是说某种程度上讲证明了公司找到了一个需求点，做的快一点，仍然至少可以很快的涨很大。特别我觉得是在海外，即使是他没有独立IPO，面临跟大厂竞争的时候，从商业上他被收购的价值现在也不小了当你有每天有个几百万DU的时候，你其实光从这个流量角度，你被收购的价值都已经有了。对，这个是我我觉得就第一个复盘，就是说回过头来讲，就是你还是得到一线把这个东西动手做出来，就像我们这样坐而论道是不行的。就是说光吹牛不下场，这个事情是有问记得是吧？
-</p>
-<p class="transcript-line">
-<span class="time"><strong>[00:10:01]</strong> </span>
-<span class="speaker"><strong>发言人2: </strong></span>
-下场了下场了，我们不是分头都已经开工了吗？
-</p>
-<p class="transcript-line">
-<span class="time"><strong>[00:10:04]</strong> </span>
-<span class="speaker"><strong>发言人1: </strong></span>
-对，但是我觉得从这个视角来讲太慢了，我稍微其实动作有点慢。因为我去年聊的时候，我去年年初跟别的朋友聊，也是一个原来做明晰的朋友。当时我跟大家的想法就是说，其实不用着急，可以看一年再说，对吧？这个结论我觉得不能算全错，但也不能算全对。就是说找一些下场并没有什么坏处，只是说你在心理上要做好准备，是说这。不一定是说必须在一年决胜负，不是说我必须一年燃烧自己，对吧？什么十二期可能没有必要这么干，但是你早一点下场其实没有什么坏处。因为他也有从先发做的迭代快的角度，他也是吸引了大量的早期的核心用户。
-</p>
-<p class="transcript-line">
-<span class="time"><strong>[00:10:45]</strong> </span>
-<span class="speaker"><strong>发言人2: </strong></span>
-你刚讲这个我会想到几层。第一层就是早期下场，其实会比较有流量的红利。比如说你刚说ChatGPT google就没什么技术含量，但是他只要抢到那个点，甚至于后来我用像比如说GPT s hunter之类的，这个其实就是很敏锐，很快的出了一个东西。你说出这个东西，等到GPT store官方store出来之后，它还有多大价值不一定，它有可能会像早期的什么APP推荐站一样。但是其实他也可以就你在做下一件事情，你就有了一个基础。所以其实吃一波流量红利也挺好的，这是第一点。
-</p>
-<p class="transcript-line">
-<span class="time"><strong>[00:11:20]</strong> </span>
-<span class="speaker"><strong>发言人2: </strong></span>
-然后第二个的话，我想到的是因为我最近也自己在看很多项目，然后现在在换换了一个视角，那会发现说其实用户测的那个技术扩散是很慢的。就是我们在这边天天讲，比如说我们聊的时候会觉得，比如说二可是一个大家都听得懂的词汇。但是实际上我估计，比如说现在直播间90%的人不知道阿可是什么。对，所以那个技术扩散比我们想象中要慢很多。
-</p>
-<p class="transcript-line">
-<span class="time"><strong>[00:11:46]</strong> </span>
-<span class="speaker"><strong>发言人2: </strong></span>
-就不是最近接触了，就是一直在跟一些传统企业有一些合作。他们已经过去好几个月，岳的一些事情的话就进步非常的慢，甚至于年轻的小朋友们也没有我们想象当中的，好像大家都已经很嗨，都已经会用了。没有的，不是的，99%的人不会用的。谁先把它封装成一个大家感兴趣的能够理解的形态，然后到他面前，这件事情是最重要的这这样这样就是是早期套壳做简单应用，确实是过去可以做的。而且我我我还想到一个跟这件事情相关的一个更极端的例子，是你刚才讲说其实很难有人想象到最终的形态。我反过来其实就是想到了也没什么用。
-</p>
-<p class="transcript-line">
-<span class="time"><strong>[00:12:30]</strong> </span>
-<span class="speaker"><strong>发言人2: </strong></span>
-最近就意识到了有一位同学的那个天才之处，就是王建硕。就现在出的，比如说GPT这一套的那个理论会怎么做？甚至于包括说艾特一下的这种这个交互方式，在大半年前百姓网就已经做了大半年前讲的理论已经理论基础全有。
-</p>
-<p class="transcript-line">
-<span class="time"><strong>[00:12:51]</strong> </span>
-<span class="speaker"><strong>发言人2: </strong></span>
-甚至于他们当时用的是那个and那个符号，就是整个的打法比赛猫那边要早，但是好像也想到能够看见未来，就是你有深刻的洞察，能够预见未来和当下这个抓得到的机会。这两件事情其实很难匹配。当下其实有可能我们的能力更匹配在比如说流量红利，或者说什么一个应用，或者但是你真的看到什么很本质很未来，其实那个东西需要的那个资源和那个能力太大了。所以有可能就是不一定是你看到了，就看到又怎么样呢？就也挺难的。我现在就在感叹说太天才了。这样一看看每件事情发生，就感觉说就在感叹人与人之间差距很大，有些人就是跨越周期的眼光，但是其实那个眼光你要把它变现，其实难度也是蛮高。
-</p>
-<p class="transcript-line">
-<span class="time"><strong>[00:13:44]</strong> </span>
-<span class="speaker"><strong>发言人1: </strong></span>
-的那做投资，对，做投资做孵化器就是现在你这个逻辑，就是说我有这个idea但我能不能做到，那我其实只要对人的判断能力比较强对这个事情的判断能力比较强。因为我觉得这个事情是这样的，就是有人擅长做执行，有人人擅长想idea做预测未来，有人擅长卷，有人擅长说我们就在既定赛场上跟人打架。有人擅长有vision看未来是怎么样的，有人能够做这个冷板凳一直做下去，有人不行。所以我觉得这个事情还是回到自己擅长的这个战场上。得打一下。
-</p>
-<p class="transcript-line">
-<span class="time"><strong>[00:14:18]</strong> </span>
-<span class="speaker"><strong>发言人1: </strong></span>
-就换句话上来说，因为从预测的角度说，我们自己不做套，可我觉得没啥问题，因为其实我们并不最擅长干这个事情。但是我们预测说套壳价值不大，这句逻辑，我觉得是错的。我觉得错还不不是说错在说它短期内能不能收割流量，而是与我们现在实际上从产品侧，我看到当简单的套壳吸引了用户，逐步延伸之后，它现在就是一个有价值有壁垒的产品。我觉得不管是Monica也好，不管是immersive translate也好，不管是像比如说像request这样的launcher也好。对你如果真的看他的AI能力，它其实都没有多复杂。你如果只看他第一天的产品，你看你也很容易觉得这不就套个壳。但如果你看他今天的产品形态，他也并不是说他并不是说我收割了一波流量，然后我完全做了一个完全不一样的产品，扩大了一点技术。
-</p>
-<p class="transcript-line">
-<span class="time"><strong>[00:15:11]</strong> </span>
-<span class="speaker"><strong>发言人1: </strong></span>
-而是他在原来那个产品上不断迭代开起来的。我是说从这个视角的判断上，我觉得是说套可仍然有价值，我觉得这个是比较打脸的。就比如我们自己没去做套壳，或者说是说我觉得倒还好。就包括我觉得就像你说王建硕，我觉得他们去做这个事情本身也不发挥他们的优势。就是说他们可能并不是最擅长去赶流量红利，或者说是从零去摸一个小产品的这么一个团队。我这是假设，因为我我对他们不够了解，所以我觉得这是从两个角度去想这个。
-</p>
-<p class="transcript-line">
-<span class="time"><strong>[00:15:43]</strong> </span>
-<span class="speaker"><strong>发言人2: </strong></span>
-事情了解。我是觉得像套壳这一类的应用的话，他们其实因为我们有的时候会把比如说AI现在能力还不够当做一个缺点在讨论。但它可能不是一个缺点，它是一个feature。那基于这个feature，你套完壳之后，就必然对于你的用沪场景，其实你还有各种各样不能完全满足和没有不够爽的地方。你在补这些坑的时候，其实你就在把自己做后面就在做各种奇奇怪怪的事情，其实他就把自己给做起来了。
-</p>
-<p class="transcript-line">
-<span class="time"><strong>[00:16:14]</strong> </span>
-<span class="speaker"><strong>发言人1: </strong></span>
-回到那个下场的时间的这个问题，其实也许我们不应该做套壳，但是其实我们应该更早下场去做一些东西。
-</p>
-<p class="transcript-line">
-<span class="time"><strong>[00:16:22]</strong> </span>
-<span class="speaker"><strong>发言人2: </strong></span>
-对吧？对，我们当时我们下面做了。
-</p>
-<p class="transcript-line">
-<span class="time"><strong>[00:16:24]</strong> </span>
-<span class="speaker"><strong>发言人1: </strong></span>
-AR炼金术了。
-</p>
-<p class="transcript-line">
-<span class="time"><strong>[00:16:27]</strong> </span>
-<span class="speaker"><strong>发言人2: </strong></span>
-吆喝也很重要的，不吆喝的话就对对对，就那很多其他的奇奇怪怪的机会。所以大家就是你你哪怕啥都不干，你至少得吆喝一嗓子。而且你套壳的话，就是因为我不是受你刺激，我也去了一趟硅谷，对吧？虽然我到了硅谷我都不知道我到底是去干嘛的，就纯纯的受你刺激。
-</p>
-<p class="transcript-line">
-<span class="time"><strong>[00:16:49]</strong> </span>
-<span class="speaker"><strong>发言人1: </strong></span>
-但你聊完之后是什么感觉？觉得去该不该去？
-</p>
-<p class="transcript-line">
-<span class="time"><strong>[00:16:52]</strong> </span>
-<span class="speaker"><strong>发言人2: </strong></span>
-我觉得挺该去的。我现在在想说，我夏天的时候，如果比如说给娃如果能够找了一个训练营的话，我应该在那边待两个月，就是待一周确实是太太短了，因为他总是人传人，要不断介绍，你至少要待两个月才能混到那个圈子里面去。当然我聊了两类公司，一类是有黑科技的，那个是就是那那一类其实也很鬼扯，就是你其实也不敢怎么样，因为那些黑科技你也没有能力判断，你也看不懂。还有一类其实本质上来讲就是都是套壳。但是那些套壳套的理直气壮的，他们就在一个个细分品类里面做的非常的精专。你看着就是一个小功能，你有的时候跟他们聊几句说这件事情GPT不是以后也可以做吗？他们好像也不是很关心这个问题，就觉得说那就先做。整体上来讲，我觉得美国的创业者们洋溢着一关一股非常之天真而乐观的态度。
-</p>
-<p class="transcript-line">
-<span class="time"><strong>[00:17:45]</strong> </span>
-<span class="speaker"><strong>发言人1: </strong></span>
-革命乐观主义精神。
-</p>
-<p class="transcript-line">
-<span class="time"><strong>[00:17:47]</strong> </span>
-<span class="speaker"><strong>发言人2: </strong></span>
-对，然后你聊几个之后，你自己都不好意思问这个什么壁垒之类的问题，就觉得说好像你们都不是很关心这个问题。
-</p>
-<p class="transcript-line">
-<span class="time"><strong>[00:17:55]</strong> </span>
-<span class="speaker"><strong>发言人1: </strong></span>
-我自己最近在反思，我觉得这个的核心逻辑是什么样？就是中老年人在这个时候的历史有一堆历史包袱，其实在竞争中没有什么优势，就真的是背了一堆历史包袱。你老觉得机会成本很高，但是其实没有什么机会成本，因为你现在也没什么特别有价值正经的事情要做。
-</p>
-<p class="transcript-line">
-<span class="time"><strong>[00:18:14]</strong> </span>
-<span class="speaker"><strong>发言人2: </strong></span>
-太扎心了。
-</p>
-<p class="transcript-line">
-<span class="time"><strong>[00:18:15]</strong> </span>
-<span class="speaker"><strong>发言人1: </strong></span>
-你说的对吧？就是大我们做这个事情的时候，为什么总觉得不该做？是因为你觉得你干了这个就干不了别的，对吧？或者你觉得干这个东西看起来它不会变得特别大。所以我称之就是大家会觉得说好像干这个事情不值当。我觉得更多的心态不是说这个东西不值值不值得试一试，但是可能觉得不值当，可能觉得说花很多时间做了，可能也大概率没结果。对，但年轻人没有这个包袱。对他可能也第一次创业，他也不觉得有什么东西就先做了再说。
-</p>
-<p class="transcript-line">
-<span class="time"><strong>[00:18:44]</strong> </span>
-<span class="speaker"><strong>发言人2: </strong></span>
-而且结合你讲的第一点来看的话，确实现在做东西的成本也很低。不光是我们的机会成本，就是做东西的成本，而且需求又非常的刚。我刚想到一个例子，就是最近有一些宗教人士，包括活佛什么的，会找我打听说怎么样干嘛。
-</p>
-<p class="transcript-line">
-<span class="time"><strong>[00:19:06]</strong> </span>
-<span class="speaker"><strong>发言人2: </strong></span>
-然后有的时候就会聊起来，我说其实可以做个什么，他们就会说那这个我就说比如说我们可以先出个demo再怎么样，他们就会问出demo多少钱？我一边开会就一边帮你们免费做了就好了，就就一边聊，我就一边帮他们再搭一个，比如说那个GPGPTS，对吧？然后我就说你给我一些什么东西，然后你要什么？然后就比如说花个20分钟就帮他搭完了，人家就觉得说天哪，你们技术能力好强，你们背后的AI好强。然后我就在想，这不就搭了一个GPT s吗？就是你你做一个东西的成本和需求方的这个信息差，现在还是真的是蛮大的。所以确实会有很多小朋友会马上接受到正反馈就可以扑进来，确实是一个机会。我们有的时候确实也是年年年年纪大了是吧？
-</p>
-<p class="transcript-line">
-<span class="time"><strong>[00:19:49]</strong> </span>
-<span class="speaker"><strong>发言人1: </strong></span>
-不，我觉得是说这个是这个很难了。因为我觉得很多是客观历史规律，就跟人性老师跟你你就你今天出来创业，你觉得这个东西出来只能比如说融融个50万美金就能起步，你可能会就觉得太小了对吧？但是对很多很多就fresh graduate干了一两年，他就融了天使轮50万美金就真的起步了，他觉得这很正常。
-</p>
-<p class="transcript-line">
-<span class="time"><strong>[00:20:10]</strong> </span>
-<span class="speaker"><strong>发言人2: </strong></span>
-对我现在做这个孵化器打算就是50万美金，一个50万美金，然后没有这要多的钱也没有了，就这样吧。
-</p>
-<p class="transcript-line">
-<span class="time"><strong>[00:20:17]</strong> </span>
-<span class="speaker"><strong>发言人1: </strong></span>
-但是我觉得这个逻辑其实是这样，就是可能倒戈11 5年前你要你给我50万美金。对，就是包括我第一次创业的时候，可能就拿着这个融资就开始跑了，你没有那么多包袱。但是现在你可能会觉得说，当你年纪上来了，对吧？这我觉得有客观因素。什么？一方面是客观因素，就是你有家庭，有有你的责任更多了。以前快乐的单身汉？这一人吃饱全家不饿。另外一方面也是说，你总觉得说你自己出去，如果你去个公司上班能挣多少钱，对吧？
-</p>
-<p class="transcript-line">
-<span class="time"><strong>[00:20:45]</strong> </span>
-<span class="speaker"><strong>发言人1: </strong></span>
-你很不自觉的，你会拿这个东西跟一个创业的这个事情的规模去做比较。当然这个比较其实在这一轮一个完全新时代的浪潮下，其实是没有意义的。你做这个事情更多的你可以把它当成一个bargain power。就在融资的时候通过这个爬行靠要去融更多的钱。但是你不能把它太当真了，就是说觉得我必须得做个特别大的事情，因为还是得从一个小的事情能够切进去，先动手。因为我觉得大部分像我大部分就是见了某位同学，某位同学说，终于意识到我们自己是个平凡的人。我想大哥你还平凡吗？对吧？
-</p>
-<p class="transcript-line">
-<span class="time"><strong>[00:21:21]</strong> </span>
-<span class="speaker"><strong>发言人2: </strong></span>
-我知道你在说谁，我们分头见了两个我们的牛逼的同学是吧？
-</p>
-<p class="transcript-line">
-<span class="time"><strong>[00:21:27]</strong> </span>
-<span class="speaker"><strong>发言人1: </strong></span>
-对对对，我说大哥你还频繁吗？对吧？但是实际上这个心态就是我觉得像我们更多的原来年轻的时候也是说因为自己敢为天下先，就愿意去创业公司，愿意去试。并不是说真的说我就比别人聪明十倍，厉害十倍，所以获得了一些机会。个别人我觉得那个时代有些人是比较厉害，是真的是能做敢为天下后，或者说是说能站着思考比较清楚的。但是我觉得其实说至少我们即使今天有了很多的经验，这个能力也没有到说的那么厉害的地步。我这个是我自己的判断，你可能比我还再厉害一点，在这方面就是在idea在脑洞、在这个思考上。但我自己想想我其实现在比较擅长的还是立刻动手把全干了。
-</p>
-<p class="transcript-line">
-<span class="time"><strong>[00:22:10]</strong> </span>
-<span class="speaker"><strong>发言人2: </strong></span>
-最后要需要搭配，需要有人胡思乱想让人干活。
-</p>
-<p class="transcript-line">
-<span class="time"><strong>[00:22:14]</strong> </span>
-<span class="speaker"><strong>发言人1: </strong></span>
-对我想了想说，即使我到40岁，我最擅长的事情，当然坑可能踩的比别人多一点。就是说你是个稍微但这个也谈不上有多大优势，比较擅长就是真正你回归到你原点，你这干干更擅长的事情，还是愿意去做新的东西。敢为天下先，就是愿意去试新的东西，而不是说说我就是想想的比别人多，我比别人聪明，我能够别人只能想出一个值100万美金的事情，我能想出一个1000万美金的事情。
-</p>
-<p class="transcript-line">
-<span class="time"><strong>[00:22:41]</strong> </span>
-<span class="speaker"><strong>发言人2: </strong></span>
-你刚刚我突然想到一个搞笑的角度，就是你刚刚提到有你你去见的那个同学，然后我不是同期在硅谷见另外一个同学吗？你在想说光光我们班的这些同学的话，假设说能够拼起来的话，这就是世界级的大模型团队。你想想如果这两个不重要，就假设他们两个。对，假设他们两个拼出来，我们在下面打个杂什么的，对吧？绝对是世界级的的就超过。
-</p>
-<p class="transcript-line">
-<span class="time"><strong>[00:23:08]</strong> </span>
-<span class="speaker"><strong>发言人1: </strong></span>
-这至少牌面上是这样，看上去牌面上肯定是这样的。
-</p>
-<p class="transcript-line">
-<span class="time"><strong>[00:23:12]</strong> </span>
-<span class="speaker"><strong>发言人2: </strong></span>
-牌面上直接超国内一线，太吓人了。想想。
-</p>
-<p class="transcript-line">
-<span class="time"><strong>[00:23:16]</strong> </span>
-<span class="speaker"><strong>发言人1: </strong></span>
-对对对，但实际上我觉得就是真打起来，即使是大家能磨合的很好，这是另外一个倒不是预测了，就是我跟那个某同学沟通完之后，他就他的结论就是他危机感很强烈。虽然他的结论还是说就是要靠年轻人。江山代有人才出，对吧？就是长江后浪拍前浪，前浪死在沙滩上。
-</p>
-<p class="transcript-line">
-<span class="time"><strong>[00:23:37]</strong> </span>
-<span class="speaker"><strong>发言人2: </strong></span>
-其实上一代的成绩和这一代的AI基本上没什么关系，对吧？所以其实就要看新的，是的牛人。我这次也过去看了很多有黑科技的，一群华人的牛的PHD，真的是很吓人就很吓人。
-</p>
-<p class="transcript-line">
-<span class="time"><strong>[00:23:55]</strong> </span>
-<span class="speaker"><strong>发言人1: </strong></span>
-这个我相信相信对。
-</p>
-<p class="transcript-line">
-<span class="time"><strong>[00:23:57]</strong> </span>
-<span class="speaker"><strong>发言人2: </strong></span>
-就是每一个的课题的话都是属于感觉应该被美国盯起来的那种，就不就美国不想让他们回国的那种。然后你就会觉得这帮小朋友就一个个也很爱玩，还是小朋友。估计里面十个项目最后也就能成一个，但是那一个就会是改变，就能真的能够对世界产生改变的那种科技。然后就觉得小朋友们太强了，为什么我年轻的时候就离离他们好远感觉。然后另外一个角度就是你刚刚讲到我也会想到说现在我也建了一些项目的话，AI的项目他们跟我们当时因为你刚刚讲的，很多时候你还提到一个词叫融资，什么50万500万美金什么的。但是现在我见到很多项目是上来就赚钱的，所以这确实也是更好。
-</p>
-<p class="transcript-line">
-<span class="time"><strong>[00:24:41]</strong> </span>
-<span class="speaker"><strong>发言人1: </strong></span>
-那那那更理想了。
-</p>
-<p class="transcript-line">
-<span class="time"><strong>[00:24:43]</strong> </span>
-<span class="speaker"><strong>发言人2: </strong></span>
-对，更更美好的一种情况。他们做的那个切口就特别小，但是那个切口就特别疼，然后的话这个切口就直接上来赚钱。我虚构一个例子，就是类比一下，我不能说那个案子就比如说一个教你学习的学习机，你可能为他付钱，可能就不愿意付，比如说200美金。但是假设你做一个叫做考试作弊器，他就是在你考试的时候给你当场答那个卷子。
-</p>
-<p class="transcript-line">
-<span class="time"><strong>[00:25:13]</strong> </span>
-<span class="speaker"><strong>发言人1: </strong></span>
-我已经知道你要说什么例子了。
-</p>
-<p class="transcript-line">
-<span class="time"><strong>[00:25:15]</strong> </span>
-<span class="speaker"><strong>发言人2: </strong></span>
-对他就是我我讲的就是这把它换了一个场景的例子。然后那那这个的话他他当场就可以赚钱。
-</p>
-<p class="transcript-line">
-<span class="time"><strong>[00:25:21]</strong> </span>
-<span class="speaker"><strong>发言人1: </strong></span>
-是是的是的是的，就是付费意愿非常强烈。
-</p>
-<p class="transcript-line">
-<span class="time"><strong>[00:25:25]</strong> </span>
-<span class="speaker"><strong>发言人2: </strong></span>
-对我发现有一些公司就可以达到这种点。
-</p>
-<p class="transcript-line">
-<span class="time"><strong>[00:25:27]</strong> </span>
-<span class="speaker"><strong>发言人1: </strong></span>
-马上赚钱，我知道就不是你说的不是真实的案例，但真的只是说考试做笔记你做了。这个当然道德上或者法律上有各种各样的问题，但是假设不考虑这些应用，你今天做了，你想我觉得好几类人群，因为现在因为远程很多人是机考，对不对？你可能是可以在家机考，或者说包括有很多家庭的学生是参加各种比赛。因为疫情也是机考，但现在比较严格。比如说他要你拿两个手机摄像头，对，就是正面跟侧面都有手机照着，对吧？但是如果你说你那个电脑有个software在底层其实就hack了，能够把你这个答案在屏幕上提示你，然后你读出来。我相信一定有很多人为了说我想得到这个结果，我愿意付费，而且付费能力肯定非常强。那你去换一个类似的这种，就是我考过了跟没考过能够拿结果的这个场景，其实都可以做一遍。
-</p>
-<p class="transcript-line">
-<span class="time"><strong>[00:26:17]</strong> </span>
-<span class="speaker"><strong>发言人2: </strong></span>
-这种地方都可以做，然后都是强刚需，或者说所有的之前存在人类的知识服务的领域，可能都可以重做。不仅仅是重做，因为原来的人类知识服务会把客单价拉到，比如说时薪至少是200人民币。假如说你可以把它打到，比如说五毛钱人民币，那可能这个市场是以前是被这个价格卡在那里了，那现在可能可以扩大1000倍。所以无数的细分市场，现在我看到确实正在炸出来。只是以前确实像你讲的，就是会critical一点，就是会觉得你这个在主战场马上就会被覆盖掉了。但现在觉得先不要想那么多，就是先干，就这样吧，想了也没啥用。
-</p>
-<p class="transcript-line">
-<span class="time"><strong>[00:27:01]</strong> </span>
-<span class="speaker"><strong>发言人1: </strong></span>
-聊聊第二个预测，我猜也有很多，特别是媒体特别关注。在年初的时候，就是说中国人什么时候能做出一个GPT3.5，中国人什么能做出一个GPT4？然后开源什么时候能做出GPT3.5，开源什么时候能做出GPT4？但我觉得这个当时我我我当时的预测是6到9个月，就基本上到2013年年底，我当时两三月份的时候预测。对，但是我觉得这个预测基本准确。
-</p>
-<p class="transcript-line">
-<span class="time"><strong>[00:27:25]</strong> </span>
-<span class="speaker"><strong>发言人2: </strong></span>
-你预测的是6到9个月到3.5.
-</p>
-<p class="transcript-line">
-<span class="time"><strong>[00:27:27]</strong> </span>
-<span class="speaker"><strong>发言人1: </strong></span>
-还是到43.5。
-</p>
-<p class="transcript-line">
-<span class="time"><strong>[00:27:29]</strong> </span>
-<span class="speaker"><strong>发言人2: </strong></span>
-那你预测完全准确，3.5还是到了。
-</p>
-<p class="transcript-line">
-<span class="time"><strong>[00:27:32]</strong> </span>
-<span class="speaker"><strong>发言人1: </strong></span>
-的对对我觉得基本准确。到了年底基本上大家都有3.5的这个能力了。然后这个我觉得也侧面印证了一点，就是说这个技术还是扩散的很快的，然后也没有太多的秘密。其实大家想象中的这个就换句话说，我觉得OpenAI的优势是在于先发，在于人才上有一定的优势。但是并没有太多的说我知道了一个保密的一个trick，能够守住这个优势特别太长时间，别人没法知道。
-</p>
-<p class="transcript-line">
-<span class="time"><strong>[00:27:59]</strong> </span>
-<span class="speaker"><strong>发言人2: </strong></span>
-你这个我有一半同意，就是到3.5我是同意的。但是有一件事情其实想象的比我之前拍脑袋想的时间要长，就是google追上的速度。虽然我还去了一趟google，然后他们的人就是很很自豪，觉得GM超远远超过gbt 4。但是从我从一个用户的角度，我真心觉得还没有追上。你不管什么你的底层模型，什么多么原生多、模态多，这是你从供给侧，就我就纯用户的角度觉得google追这么久还没追上。
-</p>
-<p class="transcript-line">
-<span class="time"><strong>[00:28:28]</strong> </span>
-<span class="speaker"><strong>发言人2: </strong></span>
-然后这件事情是远远超乎我想象的。我以为到今年年底google应该是产品级的GPT4就出来了。然后google这么久没追上这件事情，其实是我我会以为觉得说他那个GVD4那个难度超过了我之前的那个想象。因为google都追不上，我就对其他人追上就信心就往下跌了一层。
-</p>
-<p class="transcript-line">
-<span class="time"><strong>[00:28:49]</strong> </span>
-<span class="speaker"><strong>发言人1: </strong></span>
-这个是我反正聊完之后，我觉得在至少我接触下来，包括我们现在看开源模型的进展，我的结论就是说这真的只是个时间问题，就是google追谁追都需要一定的时间。我觉得这第一个强假设就是谁追都需要一定的时间。第二个我觉得强假设是说那个算力跟数据的累积或者这个摸索，它本身是需要时间的，但是它本身来讲就没有太多秘密。第三个是说大大语言模型它是个实验科学，不是个理论科学。我我我这样来讲，我相信谷GLE将来会越追越快，这是一个角一方面。
-</p>
-<p class="transcript-line">
-<span class="time"><strong>[00:29:25]</strong> </span>
-<span class="speaker"><strong>发言人1: </strong></span>
-第二个是说为什么我觉得就没有那么难，是说我们去看所有的这些国内的各种各样的开源模型，其实做到3.5水平的并不只是一家，对，是好几家。就从这个视角来讲，我觉得说同时并没有哪一家因为？因为跟我同学聊了，就是这结论，就是说他们虽然投入了几倍的人力物力，对吧？但是你的确你在市场上并没有看到某一家。因为说我的财力更雄厚，我就跟就国内你同样去对比，头部的大厂字节、百度、阿里并没有拉开百川什么月之暗面这类公司的距离。所以你从这两个现象观察，我的结论是说，当然这当中有人的因素，有各种各样的因素。但是我觉得两个视角，带来一个视角是说他是你这个实验，特别第一年他的追赶周期就是你逃不掉的。
-</p>
-<p class="transcript-line">
-<span class="time"><strong>[00:30:18]</strong> </span>
-<span class="speaker"><strong>发言人1: </strong></span>
-因为你组团队买卡搭基建，初始做实验可能就三四个月就过去了。真正你能够发力去追的这个周期，团队磨合它其实都是需要时间的。越是大厂在这个磨合上的成本可能比一个创业公司反而要大。所以我觉得从国内的大厂跟头部的sara没有拉开差距来看，这只是这大厂第一年追的，并没有比sara p快。
-</p>
-<p class="transcript-line">
-<span class="time"><strong>[00:30:44]</strong> </span>
-<span class="speaker"><strong>发言人2: </strong></span>
-是挺正常的。就模模糊糊的理解了你的意思。但是为什么一个实验科学的话，那理论上来讲我有能力可以同期开十个实验室，不是比那种资源少的人只能开两个实验室。理论上我的突破会更快。
-</p>
-<p class="transcript-line">
-<span class="time"><strong>[00:30:59]</strong> </span>
-<span class="speaker"><strong>发言人1: </strong></span>
-我觉得会更快，所以我觉得未来就会更快。一开始第一年你会面临两个问题是说你先要把实验室给搭起来，你要把实验室的这个日常的生产流程给搭起来。你要让团队之间不打架，就决定就是你团队内先要决定是说我到底应该很多人一起做个大实验，还是十个人一起做各做一个小实验。我到底应该找什么样人进来做实验。这件事情上start up天然的比大厂有优势。
-</p>
-<p class="transcript-line">
-<span class="time"><strong>[00:31:25]</strong> </span>
-<span class="speaker"><strong>发言人1: </strong></span>
-第二个是说，毕竟我们生活在一个物理世界，就是你有很多的条件。比如说你要买你要拿卡，他是有时间的，你要搭团队把人转过来。这个人之前不是做大模型，他熟悉大模型是需要有时间的。这个可能原来做搜索跟推荐的特别厉害，但是你让他转过来做大模型，他还是会带很多旧的minus set他自己的转变，或者说他他一定是要得到一些负反馈才会改变。这个我们看看了一年，是自己很多的预测或者判断是错的，是一样的。
-</p>
-<p class="transcript-line">
-<span class="time"><strong>[00:31:56]</strong> </span>
-<span class="speaker"><strong>发言人2: </strong></span>
-对最最极端的那个说法，以前物理学上是说物理学的进步有赖于一代科学家的死掉。
-</p>
-<p class="transcript-line">
-<span class="time"><strong>[00:32:03]</strong> </span>
-<span class="speaker"><strong>发言人1: </strong></span>
-对我我觉得这个是客观历史规律，这个是就是说从某种程度上讲，我觉得不过也许会追的快，但也未必他就是真正能追上那个人。但是我的感觉是就是已经做出来的就GPT4，它可能是22年底可能已经有了。22年底就现在24年初.
-</p>
-<p class="transcript-line">
-<span class="time"><strong>[00:32:23]</strong> </span>
-<span class="speaker"><strong>发言人2: </strong></span>
-我觉得在二对至少22年。
-</p>
-<p class="transcript-line">
-<span class="time"><strong>[00:32:25]</strong> </span>
-<span class="speaker"><strong>发言人1: </strong></span>
-24年底我觉得至少我接触下来，我聊下来，包括我自己看到。因为今天大家知道不知道有没有看到一个新闻，就AI2就add an sitution of AAIA tivo intelligence也是美国的头部的研究中心，就是paul Allen建的这个AI的research。AI2他们说做了一个真正开源的模型，就原来的模型是对对，只给你。比如说训完的模型参数你可以用，对吧？然后推理代码可以给你，你通过模型结构你基本上也能推出倒推出来训练代码大概应该怎么写。但他这次是把全过程公开，就从训练代码到什么中间用了什么数据什么，基本上就是说就脱光了给你看，就就长就长这样。从这个视角来看，就是我觉得是说接下来竞争会加速，追上GPT4我觉得应该没有太大的不确定性，大家应该都会追上。
-</p>
-<p class="transcript-line">
-<span class="time"><strong>[00:33:17]</strong> </span>
-<span class="speaker"><strong>发言人2: </strong></span>
-但你刚刚讲的这个文化，因为也跟一些这种模型团队聊天，就纯粹感性上也会觉得这个战场非常的血腥，你每天睡一觉醒来的话就感的海平面要往上提高了。就是你你辛辛苦苦搞了几个月的事情，说不定海平面又提高了。我辛辛苦苦六个月搞的事情就是海平面崩上去了，太可怕了。对，这个印象是来自于昨天看的关于那个人叫什么记忆超吗？就以前那个少年天才写那个猛犸浏览器的，他好像之前就一直在做那个相当于用语义的那个网络在做一个其实很有点像GPT的东西，就相当于一个新时代的搜索。但是GPT出来的话，那整个摧枯拉朽是吧？你就彻底拜拜，这就很可怕。所以按照你的就是去年你预测基本上是对的，那你预测2024年大家能到GPT4吗？
-</p>
-<p class="transcript-line">
-<span class="time"><strong>[00:34:11]</strong> </span>
-<span class="speaker"><strong>发言人1: </strong></span>
-我觉得能，我觉得2024年可能全球会有十个团队到GPT4。话就放这儿了，就等来打脸了。
-</p>
-<p class="transcript-line">
-<span class="time"><strong>[00:34:17]</strong> </span>
-<span class="speaker"><strong>发言人2: </strong></span>
-那就应该七个美国三个中国了，对吧？或者五个中国，五个美国。
-</p>
-<p class="transcript-line">
-<span class="time"><strong>[00:34:23]</strong> </span>
-<span class="speaker"><strong>发言人1: </strong></span>
-差不多还会有个欧洲的。
-</p>
-<p class="transcript-line">
-<span class="time"><strong>[00:34:24]</strong> </span>
-<span class="speaker"><strong>发言人2: </strong></span>
-就是mr对对对。
-</p>
-<p class="transcript-line">
-<span class="time"><strong>[00:34:26]</strong> </span>
-<span class="speaker"><strong>发言人1: </strong></span>
-mr也我觉得也挺也应该挺有希望的。
-</p>
-<p class="transcript-line">
-<span class="time"><strong>[00:34:29]</strong> </span>
-<span class="speaker"><strong>发言人2: </strong></span>
-我昨天看一张图在讽刺那个jim男，然后和mr然后就把那个一个叫做说做一个叫说，然后就把那个google放在了说好多好多坐地铁点那个上面，然后把那个mysore放在说不怎么说，但是做了好多好多上面，笑死了，就讽刺。
-</p>
-<p class="transcript-line">
-<span class="time"><strong>[00:34:47]</strong> </span>
-<span class="speaker"><strong>发言人1: </strong></span>
-我觉得是两边的策略不太一样，就是我觉得google其实压力挺大的，因为原来大家觉得你遥遥领先，对吧？特别是阿尔法go阿尔法zero之后那个阶段就google说了deep mind做了阿尔zero那个阶，大家会觉得什么叫打着望远镜也找不到竞争对手，对吧？就有点像阿里这个电商做着做着突然发现拼多多市值超过我了那种感觉，对不对？就这些一样的，就是我觉得他压力一定会特别大，然后这个压力也会导致有些事情未必进展会变快，内部也会人心思动。有很多人就觉得当很多内部的优秀的人才在一个大的体制下，觉得你动作比较慢的时候，就会考虑出去google。
-</p>
-<p class="transcript-line">
-<span class="time"><strong>[00:35:27]</strong> </span>
-<span class="speaker"><strong>发言人2: </strong></span>
-我我我就晃悠了一圈，就是觉得氛围上也非常的舒适。就过去蹭了个饭，蹭了杯咖啡，整个就感觉大家都拖家带口的在那边带着一帮小孩什么在那边吃饭。然后工作时间的话，足球场上面全是人在踢球，然后全就一派安宁祥和的气氛。是对。
-</p>
-<p class="transcript-line">
-<span class="time"><strong>[00:35:48]</strong> </span>
-<span class="speaker"><strong>发言人1: </strong></span>
-这个我觉得就很难。就是我觉得说有些氛围你能改变，比方说你说工作场在球场上踢球，也许你能掰的回来。所以这个公司二十多年的公司，他差不多97年还是99年成立。
-</p>
-<p class="transcript-line">
-<span class="time"><strong>[00:36:00]</strong> </span>
-<span class="speaker"><strong>发言人1: </strong></span>
-二十多年的公司，它的核心的年纪都不轻了，都一定是拖家带口的。而且这些人很多人其中是战功赫赫的。可能这个人原来做chrome的那个人，原来做youtube的，这个人原来做essence的那个人，原来做google maps？这个人是曾经怎么怎么把广告收入提高了多少，这个人是怎么怎么把搜索的某一个，这些人肯定现在都是拖家带口的那你回避免不了，所以他不可能来给你卷99996.
-</p>
-<p class="transcript-line">
-<span class="time"><strong>[00:36:28]</strong> </span>
-<span class="speaker"><strong>发言人2: </strong></span>
-而且他就算去卷的话，他已经老了。他们的的知识结构和mindset是上一个时代，对吧？他们说不定是上上个时代，我们两个是上一个时代。年轻人他现在真的在一个时代。
-</p>
-<p class="transcript-line">
-<span class="time"><strong>[00:36:41]</strong> </span>
-<span class="speaker"><strong>发言人1: </strong></span>
-对你不一定有劣势，但是你肯定没有。
-</p>
-<p class="transcript-line">
-<span class="time"><strong>[00:36:44]</strong> </span>
-<span class="speaker"><strong>发言人2: </strong></span>
-什么优势，这确实不好做。
-</p>
-<p class="transcript-line">
-<span class="time"><strong>[00:36:47]</strong> </span>
-<span class="speaker"><strong>发言人1: </strong></span>
-所以我觉得是说大家是他要去追上GPT4，我觉得不难。就是你本质上是跟随或者复现负担，他要超越变重新变成领先者，我觉得还是非常难的。就是有很多笑话，我记得那个文章发出来之后，那个时候我正好在硅谷，然后当时也看了很多新闻，有很多人说google就是做了非常严重的Cherry pick，他当比各种指标的时候，都是挑各种细，用各种雕高端的角度比出来，这个情况下我比别人好。
-</p>
-<p class="transcript-line">
-<span class="time"><strong>[00:37:16]</strong> </span>
-<span class="speaker"><strong>发言人2: </strong></span>
-对，那些图有些是32个里面挑出一个最好的图说什么鬼，打一行小字。
-</p>
-<p class="transcript-line">
-<span class="time"><strong>[00:37:24]</strong> </span>
-<span class="speaker"><strong>发言人1: </strong></span>
-对，他是说我做什么chain of salt，说我给五个examples，给一个zero shot、fire shot、32 shot。他说这个对比下我选32 shot，那个对比下我选zero shot。但是google肯定不能发一个说，我们好不容易推出了个东西，比别人稍微都差一点。第二个我觉得很典型的，我我我我当然我觉得也是个笑话了。就是当时google发了说google发那个GM，他其实没有发太细的算法跟数据层面的东西，但他发了大量的infrastructure层面的东西。就是说他们有跨他们用TPU，TPU只能跨数据通信中心通信，然后他们说有有整整九页写的是infrastructure。
-</p>
-<p class="transcript-line">
-<span class="time"><strong>[00:38:03]</strong> </span>
-<span class="speaker"><strong>发言人1: </strong></span>
-我在网上就看到一哥们儿评论说，那不杰FDN最爱吗？对吧？就是因为google的核心原来最强的其实不是算法，是info，是基础设施，就是GFDN的成名作，大家所以这个是所有我们这些做工程的人以前都会看GFDN说说你需要关注的整个inf就是说说比方说内存LE缓存是多少V，多少纳秒的访问速度，什么L是这个内存是多少微秒的访问速度，什么磁盘是多少毫秒的访问速度。这个也是包袱，就是你的团队的核心，你所有的历史经验，你最擅长的事情还是那个事情，对吧？而不是现在可能大家关注的那个事情。这个可能是我觉得说就大厂在这个竞争上未必是优势。我觉得追随很容易，但要领先你就去探索未知。
-</p>
-<p class="transcript-line">
-<span class="time"><strong>[00:38:50]</strong> </span>
-<span class="speaker"><strong>发言人1: </strong></span>
-但是探索未知你拿老的经验就不一定有效了。GP就是我相信如果今年追上GPT4，我觉得没有任何难度。包括我觉得国内的大厂，国内花很多前大家去追随你，其实是追别人两年前。
-</p>
-<p class="transcript-line">
-<span class="time"><strong>[00:39:03]</strong> </span>
-<span class="speaker"><strong>发言人2: </strong></span>
-的一个效果。对OpenAI数据P我们了吗？
-</p>
-<p class="transcript-line">
-<span class="time"><strong>[00:39:06]</strong> </span>
-<span class="speaker"><strong>发言人1: </strong></span>
-你们追上对吧？但是做GPT5，我觉得就不一定了，就不是说大厂一定有优势了。
-</p>
-<p class="transcript-line">
-<span class="time"><strong>[00:39:12]</strong> </span>
-<span class="speaker"><strong>发言人2: </strong></span>
-你刚讲这个关于历史包袱的问题的话，就是我觉得你前两天就是你分享我的一段话的话，我觉得蛮有启发的。我们现在其实应该更多的就是我们年纪也大了。对，更多的应该把自己往HR的角度定义，就是如何去发现优秀的年轻人，如何帮助他们。
-</p>
-<p class="transcript-line">
-<span class="time"><strong>[00:39:32]</strong> </span>
-<span class="speaker"><strong>发言人1: </strong></span>
-这是某同学指导我的。对对对。
-</p>
-<p class="transcript-line">
-<span class="time"><strong>[00:39:34]</strong> </span>
-<span class="speaker"><strong>发言人2: </strong></span>
-规避错误。但是不要以为自己了不起，我撸起袖子我就干的比你好。还是得让年轻人冲在前面。然后挑挑出好的年轻人，给他们资源配资源，然后给他们好机会。规避一些明显的跨越是周期性的错误。
-</p>
-<p class="transcript-line">
-<span class="time"><strong>[00:39:52]</strong> </span>
-<span class="speaker"><strong>发言人1: </strong></span>
-对的，而且我自己也在反思，就是我我自己其实过去一年我自己放的时间还挺多的，就自己动手写了很多代码，这还挺开心的。从另外一个角度就是说我觉得你又回到了一个自己每天干这个事情会挺开心，很舒服的一个状态，包括我现在跟我们自己做一些招聘，包括一些朋友聊，就是你也会发现是说真的你四五年不碰这个东西，你就没有手感。就跟你如果离一线时间短一点，离一线时间远一点问题不大。你这半年一年可能问题还好，真的三年四年我觉得对手感动手迭代速度影响还是挺大的。包括我觉得我是花了一年时间我才调回来，我其实也有一段时间不太动手了。去年底之前我有一段时间你创业杂事儿也很多，你很快招了一些人，你有十几二十个人，你总觉得说要做一个ROI最大的事情。但是我在想就是说之前OpenAI内部不是就是去年sam altman被罢免的那个闹剧的时候，不是传了很多新闻出来，包括说内部很多人都很尊重。Greg brock man说那个他们training.
-</p>
-<p class="transcript-line">
-<span class="time"><strong>[00:40:53]</strong> </span>
-<span class="speaker"><strong>发言人2: </strong></span>
-因为说代码80%是他写的对。
-</p>
-<p class="transcript-line">
-<span class="time"><strong>[00:40:55]</strong> </span>
-<span class="speaker"><strong>发言人1: </strong></span>
-说他们training的info中的百分之七八十的代码是他写的。我就在想也许就是因为说他是open I的总裁，对吧？他不是open I的什么CTO对吧？都不是什么是这样的头衔，都不是什么科学，它是欧洲的总裁，是不是？
-</p>
-<p class="transcript-line">
-<span class="time"><strong>[00:41:10]</strong> </span>
-<span class="speaker"><strong>发言人1: </strong></span>
-就是因为他一直在一线一直hand down，所以他们比较有信心相信这个东西能做出来。所以他们比较有信心能组织一个团队把这个东西快速的迭代出来。对，所以我我我其实是在想这个事儿，就是不能也不能完全真的只做技术也差对吧？就是说你还是得在一线干活，对吧？毕竟这个时代在变化。
-</p>
-<p class="transcript-line">
-<span class="time"><strong>[00:41:32]</strong> </span>
-<span class="speaker"><strong>发言人2: </strong></span>
-要不然你也不知道要挑什么样的人，但就很很尴尬。就是这个时候你怎么知道什么时候我们是一个asset，什么时候我们是那个瓶颈呢？
-</p>
-<p class="transcript-line">
-<span class="time"><strong>[00:41:42]</strong> </span>
-<span class="speaker"><strong>发言人1: </strong></span>
-对，就是我觉得就把放低，我称之为叫放低姿态，说你不要觉得你一定能做正确的决策，你还是要把更多的决策尝试的权限给到一线动手在做这个事情的人身上，对吧？你也参与去一线干活，你跟大家一样有些权限，然后你靠经验大家稍微避点坑。我最近反正是在调整心态跟姿态，就是说到底自己该干嘛？
-</p>
-<p class="transcript-line">
-<span class="time"><strong>[00:42:05]</strong> </span>
-<span class="speaker"><strong>发言人2: </strong></span>
-我现在也是就规避那些人类的坑，因为这个是不变的。而是但是那些创新的探索性的未来的东西，尽量不要以为自己比人家看的好。但是人类会犯的错误的这这这种亘古不变的事情的话，就可以帮忙在旁边指导一下，规避一下。所以第一个是说我们早期其实可以做点套壳什么的，我们就早点动手，其实挺好的。第二个第这个预期预测算对了一半。
-</p>
-<p class="transcript-line">
-<span class="time"><strong>[00:42:35]</strong> </span>
-<span class="speaker"><strong>发言人1: </strong></span>
-我觉得算错错了大半。我们当时的预测是说不要做talk，做啥talk。
-</p>
-<p class="transcript-line">
-<span class="time"><strong>[00:42:40]</strong> </span>
-<span class="speaker"><strong>发言人2: </strong></span>
-对，第二个预测基本上是对了，你预测就一年，反正GPT3.5是可以追上的，应该没有那么难。现在看起来都追上3.5了。四你反正觉得今年也差不多。对。
-</p>
-<p class="transcript-line">
-<span class="time"><strong>[00:42:50]</strong> </span>
-<span class="speaker"><strong>发言人1: </strong></span>
-所以这里又放了一个新的预测，就看年到时候年底会不会打脸对吧？
-</p>
-<p class="transcript-line">
-<span class="time"><strong>[00:42:55]</strong> </span>
-<span class="speaker"><strong>发言人2: </strong></span>
-对对对，今年如果拉玛三出来又有一个很大的进步的话，大家应该也会进步更快一点。只要有有开源的话，然后各个上市公司就可以自主研发了。
-</p>
-<p class="transcript-line">
-<span class="time"><strong>[00:43:05]</strong> </span>
-<span class="speaker"><strong>发言人1: </strong></span>
-是吧？对，不是你看那个AI two发布的那叫欧盟。我觉得那个时候出来接下来自主研发就要大放异彩了。
-</p>
-<p class="transcript-line">
-<span class="time"><strong>[00:43:11]</strong> </span>
-<span class="speaker"><strong>发言人2: </strong></span>
-对吧？但是现在其实也没有谁关心那些莫名其妙的公司出的那些东西。大家还是关心几个头部的，也不会想到真的要去用一个莫名其妙公司出的模型吗？太奇怪了。好的，那你第三个你还做过什么预测？
-</p>
-<p class="transcript-line">
-<span class="time"><strong>[00:43:24]</strong> </span>
-<span class="speaker"><strong>发言人1: </strong></span>
-做过一个预测，就是垂直领域的大模型到底你有没有价值？
-</p>
-<p class="transcript-line">
-<span class="time"><strong>[00:43:28]</strong> </span>
-<span class="speaker"><strong>发言人2: </strong></span>
-好像一直在讨论。
-</p>
-<p class="transcript-line">
-<span class="time"><strong>[00:43:29]</strong> </span>
-<span class="speaker"><strong>发言人1: </strong></span>
-我们有结论吗？我觉得一直在讨论，但是我觉得就因为我们也没把话说太死，就是我心里的预测，我觉得不同阶段的想法是不一样的。早期偏向于认为很有价值，然后到了偏中后期，我偏向于不太有价值。现在我处于我觉得这个名字要换一换的这个状态。
-</p>
-<p class="transcript-line">
-<span class="time"><strong>[00:43:48]</strong> </span>
-<span class="speaker"><strong>发言人2: </strong></span>
-换成什么叫垂直行业应用吗？
-</p>
-<p class="transcript-line">
-<span class="time"><strong>[00:43:51]</strong> </span>
-<span class="speaker"><strong>发言人1: </strong></span>
-我觉得叫垂直场景的模微调模型，那就没有垂模型了。原来因为我我记得最早很多人讲这个的逻辑，还是说我还是要预训练的，我要做一个很大的模型。但是我是做这个行业的，比如说我们觉得做要做个医疗的，做个法律的，然后用这个名义去融更多的钱。但实际上他在做一个微调的事儿，我们也不确定他是不是真的会去做这个预训练，吧？就是我觉得年初很多团队本质上在干这么个事儿，但年底来看，也没有真的有人做了很大的投入去做这个预训练，还是做了微调。很多人做了微调，做了项目。我现在自己的观察是说微调是很有价值的。
-</p>
-<p class="transcript-line">
-<span class="time"><strong>[00:44:32]</strong> </span>
-<span class="speaker"><strong>发言人1: </strong></span>
-还是回到那个东西，就是现在都做的通用模型，本质上还是把这个通用模型要变成个人，尽量变成一个人。但是变成一个人他还是会面临说你就会有目标。但是这个目标在一些特定的场景领域下，他其实就是不合适的。我觉得还不是模型的知识跟数据的这个问题，就是我包括前一阵跟一些朋。也是跟一些大厂他们交流，他们说他们的通用模型能力迭代了3版。就是说通用模型能力的确变得更强了，但是在一些特定子领域能力反而变更弱了。他们原来在一些场景，比如教育的场景是是教育还是什么场景，我也忘了，是微调。他们早因为早期他的模型能力比较弱，所以他们用自己的数据微调了一版，效果很好。往后说他们公司里说要集中资源，就不要大家不要总去微调模型，尽量用基座大模型写一些front，对不对？然后的确基座大模型能力也变强了，但是他们发现不管在基座大模型上用prompt还是去用一些数据微调，还不如早期的那个比较差的大模型微调的结果。
-</p>
-<p class="transcript-line">
-<span class="time"><strong>[00:45:32]</strong> </span>
-<span class="speaker"><strong>发言人2: </strong></span>
-所以还是可以做垂直。
-</p>
-<p class="transcript-line">
-<span class="time"><strong>[00:45:33]</strong> </span>
-<span class="speaker"><strong>发言人1: </strong></span>
-所以我觉得从这个视角来讲，还是说垂直细分领域还是有价值。因为垂直细分领域的追求跟你做一个通用人工智能，做一个跟一个普通比较聪明的人的能力，可能差别还挺大的。
-</p>
-<p class="transcript-line">
-<span class="time"><strong>[00:45:45]</strong> </span>
-<span class="speaker"><strong>发言人2: </strong></span>
-但是你说的这个它是一个比如说未来两三年都会有的一个机会的可能性。还是仅仅是因为比如说大家现在的基座，比如说不如果我们不讨论G第4，平均的市场水平还只在3.5，那还是因为它太弱了。假设平均的水平到4.5 open I初五的时候，比如说一年之内假设完成这个是不是你这个假设就不成立了？
-</p>
-<p class="transcript-line">
-<span class="time"><strong>[00:46:12]</strong> </span>
-<span class="speaker"><strong>发言人1: </strong></span>
-我觉得不是讲一点偏技术，就是现在的模型一般大家拿出来用的是两种模型，一个叫做基座模型，就没有做过微调，就是训练完的那个模型其实不能够用来做聊天机器人的那个模型就是你输点什么，他回点什么。一般都会做一层叫alignment跟做微调跟element变成一个聊天机器人，然后他再会开放一个模型出来，比如lama就有lama跟lama chat，对吧？Master就会有master跟master instruct chat的模型，我我我自己观我们观测下来有一个比较大的特点是什么呢？就是它alipay很好。因为他们其实不只是做微调，有对话能力，还要让他符合人类价值观。
-</p>
-<p class="transcript-line">
-<span class="time"><strong>[00:46:50]</strong> </span>
-<span class="speaker"><strong>发言人1: </strong></span>
-他变乖了就导致什么呢？就是这个世界上你先不咱不讲做违法乱纪的事情，就算你做一个普通人，你在公司打工，你或者你要干什么，你也会有谦和的一面跟aggressive的一面。你的生活中会有很多个角色，就有些场景你不能是个特别谦和的，也不能太客气。有时候太客气，你最后发现这个事儿反而办不成。
-</p>
-<p class="transcript-line">
-<span class="time"><strong>[00:47:13]</strong> </span>
-<span class="speaker"><strong>发言人2: </strong></span>
-微软的那个测试就很明显，就是他们拿到的那个没有element的比后来element的要好好多聪明好多。
-</p>
-<p class="transcript-line">
-<span class="time"><strong>[00:47:21]</strong> </span>
-<span class="speaker"><strong>发言人1: </strong></span>
-这个是我觉得说回到这个逻辑上，但是你要用又不能不得不做element就你不能把原始的模型报直接用，那又会出很多别的问题，就是他会可能会跑偏对吧？教唆你违法犯罪犯罪那也不合适。所以我觉得从这从从目前的这个gap来看，如果说我们的模型，因为我们的预面的原理决定了它就是一个接龙的模型，就你说什么我跟什么的模型，然后alliant它的确又做了这种，你要在一定的数据下，让他既有保持一定的能力，但是又得这样它比较安全。所以我的感觉是说，可能很有可能这个不同的领域需要根据他的特定的场景去做element这件事情可能是逃不掉的。
-</p>
-<p class="transcript-line">
-<span class="time"><strong>[00:48:03]</strong> </span>
-<span class="speaker"><strong>发言人2: </strong></span>
-你说的有道理，而且最极端情况下我还不再想element，最极端情况下就是特定领域可以放弃的。但是我用特定场景下，我把一切无关的话直接就不回答了，或者不用回答的模型，不用回答那个方式。因为你来我这里，比如说你就是银行柜台，对吧？那凡是跟存取钱没有关系的事情的话，什么李白是谁啊，就你去死不知道。对，就结束了。所以其实也可以很粗暴的应用场景里面就干脆不过了。这个界的所有的一切，就是我不知道结束了不不用不用钱。
-</p>
-<p class="transcript-line">
-<span class="time"><strong>[00:48:39]</strong> </span>
-<span class="speaker"><strong>发言人1: </strong></span>
-我觉得是这么一个逻辑。因为我们因为实际上我也跟外部交流下来，就是说我觉得大部分团队其实真的在应用场景里做都还是做了微调的。大部分的各种各样的厂，大厂小厂，你真的说想要做这个场景还是都做了微调的，就不是to c的产品，to b的场景其实都干了这个事情。
-</p>
-<p class="transcript-line">
-<span class="time"><strong>[00:49:00]</strong> </span>
-<span class="speaker"><strong>发言人2: </strong></span>
-我如果要拿一个lama 2微调，比如说拿我的是一千本书的历史数据微调一个模型大概成本要多少钱？就拿拉玛二调的话不高。
-</p>
-<p class="transcript-line">
-<span class="time"><strong>[00:49:10]</strong> </span>
-<span class="speaker"><strong>发言人1: </strong></span>
-就是假设拉玛二因为你还有大模型还是小模型，你是70B的大模型还是7B的小模型？大的那个你基本上拿3台，比方说拿个三台的A100调个两三天可能一般也就够了，再再多数据也未必效果更好。一台机器一天可能1500，三台就5000块钱，2 3000一两万块钱，调一次这么便宜。对调一次。当然你如果没有经验，你可能数据什么的可能要多试几次，或者你在小的上调两次之后再到大的上调，取决于你的数据量，就是你的数据量。对我觉得这有几个级别，一个是这个领域知识，它那个基础模型里没有，那你要做持续训练，那个成本会高一个数量级，但比预训练肯定要小非常多。如果你只是做这种指令微调，只是做指令微调好，你可能几万块钱肯定可以干的了解了。
-</p>
-<p class="transcript-line">
-<span class="time"><strong>[00:50:02]</strong> </span>
-<span class="speaker"><strong>发言人2: </strong></span>
-所以哪怕是高一个数量级的话，反正也就是百万人民币以内。那其实听起来就是一个很affordable的一个事情。好的，所以第三件事情就是垂直大模型。那你现在是啥想法？2024年垂直大模型会起来吗？
-</p>
-<p class="transcript-line">
-<span class="time"><strong>[00:50:17]</strong> </span>
-<span class="speaker"><strong>发言人1: </strong></span>
-我觉得在特定的领域会的。
-</p>
-<p class="transcript-line">
-<span class="time"><strong>[00:50:19]</strong> </span>
-<span class="speaker"><strong>发言人2: </strong></span>
-但是是微调的是吧？拿着公开的基座模型微调的对。
-</p>
-<p class="transcript-line">
-<span class="time"><strong>[00:50:23]</strong> </span>
-<span class="speaker"><strong>发言人1: </strong></span>
-拿着好的基座大模型再去调的，而不是从零开始训的。因为基座大模型的训练成本实在太高了。
-</p>
-<p class="transcript-line">
-<span class="time"><strong>[00:50:29]</strong> </span>
-<span class="speaker"><strong>发言人2: </strong></span>
-或者。如果从这个角度上来讲的话，就是我们说没有门槛的那些套壳应用。它如果比如说内部也有几个搞AI的人的话，他就应该说我基于这个场景的话，假设发现OpenAI或者什么不能完全符合的时候，我就应该自己去微调一个成本的考虑，也是那个性能的考虑，我觉得是。
-</p>
-<p class="transcript-line">
-<span class="time"><strong>[00:50:51]</strong> </span>
-<span class="speaker"><strong>发言人1: </strong></span>
-这样的那这。
-</p>
-<p class="transcript-line">
-<span class="time"><strong>[00:50:52]</strong> </span>
-<span class="speaker"><strong>发言人2: </strong></span>
-样子就稍微有点壁垒了。
-</p>
-<p class="transcript-line">
-<span class="time"><strong>[00:50:54]</strong> </span>
-<span class="speaker"><strong>发言人1: </strong></span>
-对吧？但会有一些挑战，因为这些套壳的一般都是to c。你希望你的用户基数大，因为你你覆盖的领域会很广。就比方说我们说做immersive translate，你肯定不是说我这个immersive translate只翻译。比如说法律文书跟医学资料，你肯定说我都能翻译，我才能吸引很多用户。那你不可能说我每个领域给你去调一个模型，对吧？这个事情其实是个是有trade off，就是你得自己去考虑。我觉得最终还是会比拼到说你得想明白你的用户是谁，是一个什么样的场景。所以我选一个什么样。
-</p>
-<p class="transcript-line">
-<span class="time"><strong>[00:51:25]</strong> </span>
-<span class="speaker"><strong>发言人2: </strong></span>
-的技术路线，刚好问一下你刚刚说的这种领域，感觉就是知识领域。比如说immersive translate就做不了。但是比如说我做一个兽医APP应该就可以做对吧？那我如果做一个专门用来帮你做总结，他别的啥事儿都不能干，他只能帮你做总结。那这事他到底应该用一个宽，他算宽的，还是他其实是一个垂直帮你做总结？
-</p>
-<p class="transcript-line">
-<span class="time"><strong>[00:51:48]</strong> </span>
-<span class="speaker"><strong>发言人1: </strong></span>
-我觉得偏宽的OK所以。
-</p>
-<p class="transcript-line">
-<span class="time"><strong>[00:51:50]</strong> </span>
-<span class="speaker"><strong>发言人2: </strong></span>
-他的知识因为还是宽的。
-</p>
-<p class="transcript-line">
-<span class="time"><strong>[00:51:52]</strong> </span>
-<span class="speaker"><strong>发言人1: </strong></span>
-到今年大家国内那么多人摸过之后，我觉得一个结论其实是说，虽然这个东西看起来像magic，但是从大家实验的体感来讲，它跟上一代的AI有一点上本质上是一样的。上一代叫有多少人工，有多少智能，稍微改一改就是有多少数据就有多少智能。你要让这个模型有这个能力，你就要去找相关的数据。你得琢磨用哪里能找到这样的数据，他就能学出来。
-</p>
-<p class="transcript-line">
-<span class="time"><strong>[00:52:18]</strong> </span>
-<span class="speaker"><strong>发言人2: </strong></span>
-是啊，我还聊了个人专门搞数据的那我问你我也再问一个，就谈恋爱这事儿的话，就是情感陪伴这事儿，或者说什么心理顾问，这事算宽还是算窄？
-</p>
-<p class="transcript-line">
-<span class="time"><strong>[00:52:28]</strong> </span>
-<span class="speaker"><strong>发言人1: </strong></span>
-我觉得算窄。
-</p>
-<p class="transcript-line">
-<span class="time"><strong>[00:52:29]</strong> </span>
-<span class="speaker"><strong>发言人2: </strong></span>
-为什么为什么总结算宽，但是因为谈恋爱不是也会谈到各种各样奇奇怪怪的事情吗？或者心理咨询。
-</p>
-<p class="transcript-line">
-<span class="time"><strong>[00:52:36]</strong> </span>
-<span class="speaker"><strong>发言人1: </strong></span>
-我觉得不是事情，而是这个场景下的pattern是不是跟日常的pattern，或者说基座模型的数据的pattern差异特别大。总结我觉得是说其实是你的你在你的基座模型的数据里，你可以大量看到这种总结评论相关的这种描述。但是我在相信基座模型的数据里，比如说谈恋爱，真实生活中跟谈恋爱相关的内容文本，特别是真实的这种对话式的文本是很少的。如果回归技术角度，你还是去想说。
-</p>
-<p class="transcript-line">
-<span class="time"><strong>[00:53:06]</strong> </span>
-<span class="speaker"><strong>发言人2: </strong></span>
-你还是从数据来讲角度在考虑，其实它是什么数据长出什么智能。
-</p>
-<p class="transcript-line">
-<span class="time"><strong>[00:53:10]</strong> </span>
-<span class="speaker"><strong>发言人1: </strong></span>
-就是你看基座模型里那么多数据，到底说在我这个问题上，它的数据是数多还是少，质量是高还是低。因为日常是人类日常生活中的大量的数据现在没有体现，基座模型里其实并没有捕捉到。你如果是搞娱乐八卦，我相信基座模型的数据肯定是充足的。你如果是说教别人什么谈恋爱的这种书可能有。但是谈恋爱的核心是两个人真实的日常互动的这个过程，这种口语化的聊天怎么这个素材真的很多吗？我觉得可能我的假设是那个数据很少，如果你能搞到很大一份数据，你的确能做出一个很好的这样的模型。
-</p>
-<p class="transcript-line">
-<span class="time"><strong>[00:53:49]</strong> </span>
-<span class="speaker"><strong>发言人2: </strong></span>
-可能只有微信有这个数据。然后你刚刚讲这个就是上一期的我们的AI炼金术的那个，其实里面就有一篇，我反正看了非常嗨的那篇。文章它其实有一个非常之妖怪的观点，就是认为说智能是数据的一个feature。
-</p>
-<p class="transcript-line">
-<span class="time"><strong>[00:54:06]</strong> </span>
-<span class="speaker"><strong>发言人1: </strong></span>
-对于那篇文章的评价，我没有你那么高了，我就觉得看了我也不知道他在到底想表达啥，我觉得他不知道他想要表达啥，或者说他给了很多论断，但是我觉得没有什么依据。
-</p>
-<p class="transcript-line">
-<span class="time"><strong>[00:54:17]</strong> </span>
-<span class="speaker"><strong>发言人2: </strong></span>
-我是觉得他给了我完全不同的视角，因为我之前从来没有想过说叫做以前觉得智能是一个东西，对吧？但是他把它智能当做数据的一个属性。然后你刚刚在解答我的问题的时候，其实我感觉有一点点那个味道。就是你你其实不是在说，对对对，你是在说其实是看这坨数据在不在它里面，是还是它是专有的一坨数据。
-</p>
-<p class="transcript-line">
-<span class="time"><strong>[00:54:39]</strong> </span>
-<span class="speaker"><strong>发言人1: </strong></span>
-以及跟它那个整体的数据的分布像不像。
-</p>
-<p class="transcript-line">
-<span class="time"><strong>[00:54:43]</strong> </span>
-<span class="speaker"><strong>发言人2: </strong></span>
-对对对。
-</p>
-<p class="transcript-line">
-<span class="time"><strong>[00:54:43]</strong> </span>
-<span class="speaker"><strong>发言人1: </strong></span>
-就比如说我理解总结这个事情，跟我们日里能够收集到的道德大量高质量文本的数据可能是高度相似的。但是谈恋爱就在两个人打情骂俏的这个数据跟那个是高度不相似的。同时它的占比肯定也不会很多，他的量也不会很多。所以我觉得说你今天拿现有的基础大模型，想搞一个很好的谈恋爱的模型的效果，跟别人说我真的能够搞到这个数据的人。
-</p>
-<p class="transcript-line">
-<span class="time"><strong>[00:55:07]</strong> </span>
-<span class="speaker"><strong>发言人2: </strong></span>
-可能是有差距的，很有道理。所以还是也有可能有，但是应该是基座上面做微调，不应该自己做预训练。预训练一个垂类大模型有点傻。
-</p>
-<p class="transcript-line">
-<span class="time"><strong>[00:55:17]</strong> </span>
-<span class="speaker"><strong>发言人1: </strong></span>
-对，或者你最多做一些增量训练，你可能没有办法去做预训，因为预训练的门坎一定会越来越高。而且那个模型的智能跟数据质量，别人肯定是做了投入了大量的实验来做。因为它不只是说训练一次的成本。
-</p>
-<p class="transcript-line">
-<span class="time"><strong>[00:55:34]</strong> </span>
-<span class="speaker"><strong>发言人2: </strong></span>
-那你第四个预测是啥？
-</p>
-<p class="transcript-line">
-<span class="time"><strong>[00:55:35]</strong> </span>
-<span class="speaker"><strong>发言人1: </strong></span>
-我觉得我们本质上是想说，你可能没做预测，但你心里是这么想你有哪些观点跟更加坚定了，有哪些观点是彻底反转了。
-</p>
-<p class="transcript-line">
-<span class="time"><strong>[00:55:44]</strong> </span>
-<span class="speaker"><strong>发言人2: </strong></span>
-我有一个观点也不是说那个反转还是不反转，就是好像我目前正在朝这条路上划过去。就是我一开始就觉得说我要远离生产力，我会觉得productivity其实就是把人类当工具。因为你要讲你是人类是生产资料的时候，你才会想讲生产力。但是我会觉得有两个问题，一个就是你把人类当工具的时候，我会觉得人类作为工具，它真的没有机器好使。所以我觉得反正过两年他就打不过工具了，你为什么要为一个工具人做工具呢？
-</p>
-<p class="transcript-line">
-<span class="time"><strong>[00:56:20]</strong> </span>
-<span class="speaker"><strong>发言人2: </strong></span>
-第二个是觉得这个主战场的话，他其实就是巨头都看到了。他还不像我们做移动互联网的时候，其实当时真的是还在吵架的。甚至于包括云的时候，你还可以看到李彦宏和马云什么的，还在就发表不同的观点，现在没有谁发表不同的观点，现在都是说要我隐A。所以在这么明确的一件事儿，我又不觉得靠谱，而且又觉得所有的巨头都在做。所以我的第一个第一判断就是我一定是尽可能的远离生产力，然后做的事情都是不把人类当工具，而是当目的的事情。所以现在我自己最近要孵化，也在看的都是这种哪怕是吃吃喝喝，算个命，什么感恩，什么响应宇宙的能量，对吧？我会更倾向于这种，就会觉得这种可能是不一定靠谱，但是它不在那个主赛道上面，所以我的脑子会很多的往这个方向偏。
-</p>
-<p class="transcript-line">
-<span class="time"><strong>[00:57:14]</strong> </span>
-<span class="speaker"><strong>发言人2: </strong></span>
-现在其实还是会往这个方向偏，因为其他方向上我还是觉得人山人海的。你聊你你你类似的项目，你可以看到10个，然后就会觉得咋说哪个好哪个不好。但是那些奇奇怪怪的领域确实还少很多。对，所以会觉得画面还是蛮有可能性的，所以我会觉得这个倒是一直没变。
-</p>
-<p class="transcript-line">
-<span class="time"><strong>[00:57:36]</strong> </span>
-<span class="speaker"><strong>发言人2: </strong></span>
-但是对于那个大模型本身的一个进展的话，其实我本来也没什么观点，因为我确实没有怎么看明白。我的论文都是只是听了李牧同学在youtube讲解了一下，对吧？论文我都看不进去了，就没有能力做判断。对，只是刚刚讲的，我就是被google追上的速度让我稍微的震惊了一下，说这么久还没搞搞出来吗？以前可能会觉得说他应该去年怎么都追上了，但是从我的一个消费者的角度，他去年是没追上的。所以就会觉得这事儿可能比我想象当中难。
-</p>
-<p class="transcript-line">
-<span class="time"><strong>[00:58:09]</strong> </span>
-<span class="speaker"><strong>发言人1: </strong></span>
-我我我觉得就除了google内部的PR可能包括我相信过了这一两个月。一开始可能gym刚发布的时候，谷歌内部的员工可能还挺有信心的。但是我相信过了这一两个月，大家也能够感受到，至少我觉得跟GPT4比还是有些差距的。
-</p>
-<p class="transcript-line">
-<span class="time"><strong>[00:58:25]</strong> </span>
-<span class="speaker"><strong>发言人2: </strong></span>
-不过我当然觉得你刚刚有一句话讲的还蛮有道理。就是如果你是觉得说自己眼光比较好，然后看的比较透的话，就应该来做投资，对吧？你比我更早，你不是录了个课，对吧？然后我也录了一个关于商业的课，就是AI商业的，在混沌大学讲那个课。我现在觉得那个课讲的还蛮好的。因为我会觉得后来的很多的发展都是按照我的课纲，就是后面会说其实是怎么样，它的本质逻辑是什么？后面确实没有AI日新月异。但是其实那个东西没有过时。
-</p>
-<p class="transcript-line">
-<span class="time"><strong>[00:58:55]</strong> </span>
-<span class="speaker"><strong>发言人1: </strong></span>
-历史规律和客观规律现在并没有变，对吧？这个商业规律其实没有变。
-</p>
-<p class="transcript-line">
-<span class="time"><strong>[00:59:00]</strong> </span>
-<span class="speaker"><strong>发言人2: </strong></span>
-对，所以从这个角度上来讲，就是后来讲的还挺好的，就我们现在看也不过时的话，那我从这个角度上来讲，就是我应该去做投资。你既然看到了，但是其实有些机会不一定是自己有能力抓到的话，那么其实就可以搞起来。我还有一个观点上的变化的话，会越来越深的一个观点。就是早期的时候，虽然我也觉得说那个技术扩散需要时间的，但是我会觉得说在生产力方面，因为资本家都是无情的，对吧？所以就理论上来讲，应该一个东西它能显著降本增效这件事情应该他会不不会那么慢，会挺快的。因为它它不是C端的一个好玩的东西。但是这件事情发展的比我想象中要慢。就是比如说用一个东西可以明显的让你开掉十个人，这件事情他的企业和企业之间的这个感染的速度比我想象中要慢很多。
-</p>
-<p class="transcript-line">
-<span class="time"><strong>[01:00:01]</strong> </span>
-<span class="speaker"><strong>发言人1: </strong></span>
-我觉得这很容易理解。因为企现有现代企业技术是个很复杂的层级制。对大部分企业的所有权在各种股东手里。对，就是现在的企业是个是非常复杂的架构，对吧？你可能是说某一个贝莱德是你的最大股东，但贝莱德的那个投影的那个人，他其实也不是贝莱德的这个黑石，他们也不是那个钱的所有人。所以每个人在这个当中都有一堆复杂的利益。提升生产力并不符合那个人的就是身在中的每一个人的利益，这个力其实特别复杂。
-</p>
-<p class="transcript-line">
-<span class="time"><strong>[01:00:33]</strong> </span>
-<span class="speaker"><strong>发言人2: </strong></span>
-对，所以就会慢。而且因为这件事情，他又哪怕他有一个实控人，因为这一次他发的东西不像是氢弹。氢弹就是哪个国家领导人搞出原子弹，太牛逼，但是这次是给先发到了个体手里的AK47。这样子其实他是自下而上的，很多人我觉得也有可能是小朋友们会把它藏起来，他让我可以早点下班挺好的，但是他也不要让整个公司改了，知道我就已经这个科技整建制的来配AK47怎么样来训练什么的。很多聪明的小朋友就会自己开始用，但是也不会把它变成一个公司行为。
-</p>
-<p class="transcript-line">
-<span class="time"><strong>[01:01:11]</strong> </span>
-<span class="speaker"><strong>发言人1: </strong></span>
-对，但是回到这个事情，我正好想起来这也不是个预测，是另外最近听到一个比较厉害的产品经理的一个观点。就是说我们去年大家都在聊说，那么有生产力了，对吧？那带来的大家当时我觉得大家都有一个预测，就是公司会变小。我几个人就可以做一个star hub或者做一个比较厉害公司。如果我们去美国看那些创业公司，的确有这个趋势。就是现在star hub都很小，就两三个，反正就干了。
-</p>
-<p class="transcript-line">
-<span class="time"><strong>[01:01:37]</strong> </span>
-<span class="speaker"><strong>发言人1: </strong></span>
-但是这个朋友有一个观点，我觉得特别有意思，是说他说能不能反过来，有没有可能最终结果是反过来的？就是当AI变得特别强大之后，使得公司的管理边界变成无线的。它跟一个特别聪明的超级大脑来管你们每天干什么就完了，而不是变成一个很多个小公司。
-</p>
-<p class="transcript-line">
-<span class="time"><strong>[01:01:56]</strong> </span>
-<span class="speaker"><strong>发言人2: </strong></span>
-这件事情其实已经发生了，就在我们刚毕业的时候，不是就比如说互联网发展之后，然后就会有很多什么互联网去做实体创业，然后就失败的例子吗？但是你在那个新消费那一波的时候，比如说我就会见到一个9995后小姑娘，然后他就说我上个月刚开300家店，然后你就你会心里捧一下，然后觉得你是怎么开出300家店的，就很猛。但后来我就慢慢意识到这个过程当中，就是因为AI和数字化技术。原来的话其实你是每一家店就相当于一个诸侯，你需要一个小皇帝才能管好。然后怎么样？但是现在的话他们已经就比如说这瓶水应该放到第二个货架第三格对吧？已经就是一个ipad在管理了，相当于就雇佣人的手，已经不太需要店，就传统的店长真的是一个全方位经营型人才，现在就对这个人才的要求显著的下降。你就真的可以一次性开300家店了。
-</p>
-<p class="transcript-line">
-<span class="time"><strong>[01:02:54]</strong> </span>
-<span class="speaker"><strong>发言人2: </strong></span>
-但是以前是真的做不到的。你300家店是需要300个会动脑子的人。但是如果你中央大脑足够强，可以赋能的话，300个店你要请300个，比如说搬货的人，以及还有一个机器人在检查的货，对不对？那这个时候确实就组织的话其实是可以变得更大的那不光是可以变得更小，而且另外一个角度的话，就是我其实觉得因为我们经常会讲AI可以替代什么？经常讲的是他替代写字儿的，替代画画的。
-</p>
-<p class="transcript-line">
-<span class="time"><strong>[01:03:24]</strong> </span>
-<span class="speaker"><strong>发言人2: </strong></span>
-但是我觉得其实他最应该替代的反倒是管理者。因为管理者往往是你其实是一个收信息、分信息和协调的这个工作。他的信息吞吐量很大，但是其实我们的带宽又特别小。它其实如果他把管理这个鞋给取代掉的话，其实可以管更多的人人的管服。比如说不是说最终只有七个人向你汇报，你就已经疯了，对吧？超过七个人，但是他可以700个人，那这样子确实像你讲的，就是组织是可以变得更大的。
-</p>
-<p class="transcript-line">
-<span class="time"><strong>[01:03:54]</strong> </span>
-<span class="speaker"><strong>发言人1: </strong></span>
-是可以做到的。你知道这是一个这是别某某一个人的观点了。就是我也在想这个事情，就是这个结论到底是对还是错。因为你刚才举的这个东西，我其实想到了，我觉得有好几种不同。第一种是说新消费开几百家店，这件事情靠谱不靠谱？我觉得其实在很多场景下最终是不靠谱的。就是因为他的过程中，新消费又不是又偃旗息鼓了吗？
-</p>
-<p class="transcript-line">
-<span class="time"><strong>[01:04:17]</strong> </span>
-<span class="speaker"><strong>发言人2: </strong></span>
-现在不不不，他开他能开出那些店和那些店赚不赚钱这两件事以前开都开不出来，你完全不可能。
-</p>
-<p class="transcript-line">
-<span class="time"><strong>[01:04:25]</strong> </span>
-<span class="speaker"><strong>发言人1: </strong></span>
-我我我的但是我的理解说，如果验证最后是就这样，这个模式是不挣钱的，只是做了一个失败的社会实验的。但是我觉得这是有成功的例子的。我觉得比较典型的像瑞幸咖啡，就是我在想因为我。
-</p>
-<p class="transcript-line">
-<span class="time"><strong>[01:04:37]</strong> </span>
-<span class="speaker"><strong>发言人1: </strong></span>
-每天早上正好到公司，一杯9.9块。他的这个店你需要很强的管理能力吗？的确也不太需要。对，他可我我相信他的内部肯定还是有店长或者副店店长的区别。但的确他对这个管理能力的要求肯定是大幅度下降了。因为他靠数字化，靠这个东西把大量的问题已经不需要现场那个人解决了。现场可能只要处理极少数的意外情况，什么我送过来的东西漏了、坏了、洒了这些情况，或者有人要换班什么的。但是大部分情况仍有紧急情况的换班，但大部分情况的确是能够做到。
-</p>
-<p class="transcript-line">
-<span class="time"><strong>[01:05:10]</strong> </span>
-<span class="speaker"><strong>发言人2: </strong></span>
-了全部数字化了吗？
-</p>
-<p class="transcript-line">
-<span class="time"><strong>[01:05:12]</strong> </span>
-<span class="speaker"><strong>发言人1: </strong></span>
-对。但是我也在想说，其实我们这个时代有两类组织，至少之前我们认为这两类组织是不一样的。就是我们以前认为瑞幸跟字节跳动是两类公司，对吧？瑞幸跟阿里阿里也不是说不不不说他收购的大润发或者瑞幸跟腾讯。就是腾讯我们称之以前我们叫知识工作者，就是自己也有10万以上的员工，阿里也有10万以上的员工，对吧？瑞幸可能也就他开个1万家店，可能也就10万个员工。一般来讲我们觉得能替代的是就是我们来讲靠数字化管控，讲的都是瑞幸这种，对吧？
-</p>
-<p class="transcript-line">
-<span class="time"><strong>[01:05:46]</strong> </span>
-<span class="speaker"><strong>发言人1: </strong></span>
-你觉得他的那个事情比较简单，机器的确能够把它非常流程化。我们会觉得像阿里字节这个事情其实没有那么容易。包括大家在文化上宣传的时候，就大家觉得阿里跟拼多多的文化差别是很大。很多人觉得拼多多是一个偏新的文化，对吧？就字节是一个偏偏就是你自发，你自己给你一个目标，你自己去想怎么解决的这个文化。我的问题就是说是不是说是这两个再回到这个场景下，这两种工作到底有没有本质上有没有区别？当然这是个很抽象没有也许是很抽象没有意义的话题，对吧？但是我觉得倒过来，假设真的它能扩大公司的边界，那从投资的角度意义上来讲，也许你应该买大公司股票对吧？
-</p>
-<p class="transcript-line">
-<span class="time"><strong>[01:06:25]</strong> </span>
-<span class="speaker"><strong>发言人2: </strong></span>
-对，其实我我会觉得没有那么大的区别，只是说你的工作是否标准化，它是一个光谱，它不是一个非黑即白。如果是光谱的话，比如说我们拿字节为例，字节比较经典的外观外面广为传颂的其实是它的OKR。那你仔细想想，OKR其实也就是部分是为了大家方便协作，方便对齐的一个工具，做到文档里面。另外的话，比如说飞书，飞书它会自动的根据比如说谁然后给谁安排了什么任务，谁应该看得到，然后它的时间窗什么什么。这个时候其实他也是把大家之间的协作把它数字化。
-</p>
-<p class="transcript-line">
-<span class="time"><strong>[01:07:02]</strong> </span>
-<span class="speaker"><strong>发言人2: </strong></span>
-如果我们反过来，因为我们现在的思考还是说我们现在人类的默认的思考是人在使用工具。比如说我在用飞书文档，但是如果你极端的思考，假设是以飞书文档为主，飞书文档上面写了我的OKR，写了我这周要干嘛，写了我应该怎么做，上面甚至于飞书还流行写一个个人说明，使用说明书，对吧？就是应该怎么调用我什么什么的那这个时候其实是应该文档和文档之间他们来聊天，然后来协调工作。因为他们知道彼此怎么对齐，然后他们做不了的事情，他们来安排自己的主人去把这事儿给干了。所以如果你换成这个角度的话，其实他跟瑞幸和那个比如说外卖小哥就没什么差别了。
-</p>
-<p class="transcript-line">
-<span class="time"><strong>[01:07:44]</strong> </span>
-<span class="speaker"><strong>发言人2: </strong></span>
-但是如果你是人去使用飞书文档，那就有很大差别。但是如果我们是以比如说飞书文档为主体，OKR和使用说明书和我的我的什么日程表和什么它为主体。然后他来安排这个主人的工作，以及主人应该什么时候跟谁开一个会。你记得会后告诉我说这件事儿到底往左走往右走。如果是这样的话，就被派单的区别就不大了。应该往这个角度走的话，效率会提高很多。因为人类就不适合一起干活。
-</p>
-<p class="transcript-line">
-<span class="time"><strong>[01:08:12]</strong> </span>
-<span class="speaker"><strong>发言人1: </strong></span>
-我还在琢磨这个事，虽然这个就瞎琢磨一下，因为我觉得跟实际立刻能动手干活还差别比较大。就是那个可以无限扩张的边界，并不是立刻就能做到。就像你说的这个文档，就是我们的工作即使都文档化了，它其实有大量的隐信息，其实在文档里没有体现了。此时此刻跟瑞信里说，他主要的工作其实通过一个标准的流程手册已经体现了，是还是有差别的了。但是的确有就你说的这个可能性，我是在想说说实话当你在一个巨型公司里的时候，大家每天在干的事情的确是觉得比较数字，就比较KPI或者OKI，是我甚至认为叫KPI驱动。因为很多OKR里也是为了一个数字，而不是为了那个，而不是真的说有一个抽票的。越是大，越是确定性成熟的业务，越是这样。
-</p>
-<p class="transcript-line">
-<span class="time"><strong>[01:09:04]</strong> </span>
-<span class="speaker"><strong>发言人2: </strong></span>
-我觉得如果是按照这种推论下去的话，其实无所谓了。其实我们还是基于静态的，就假设说我们先不讨论这个问题的话，假设今年可以出GPT5，我们认为说智能的这次迭代的话，因为它无非就是算力和数据。假设数据是可以用合成数据，然后算力无非就燥。
-</p>
-<p class="transcript-line">
-<span class="time"><strong>[01:09:26]</strong> </span>
-<span class="speaker"><strong>发言人1: </strong></span>
-数据不用合成数据，只要我用数据它产生的价值，人去写数据的成本低于它的产生的价值，你理论上讲你也可以无限投入。
-</p>
-<p class="transcript-line">
-<span class="time"><strong>[01:09:36]</strong> </span>
-<span class="speaker"><strong>发言人2: </strong></span>
-不停的去干这个事儿。所以最后我会觉得说假设是这样的话，其实就是就我们现在讨论还有什么文档什么东西。但是如果真的是以GPT3.5到4的这个水平每年进步一次的话，每年进步百分之乘以2倍，这真是太吓人了。这就三五年后的世界，理论上来讲就是我们完全没法想象的事情。
-</p>
-<p class="transcript-line">
-<span class="time"><strong>[01:09:58]</strong> </span>
-<span class="speaker"><strong>发言人1: </strong></span>
-物理世界还是很慢的物理世界还是很慢，你飞到美国那十几个小时对吧？这个短期内还加速不了，所以这个事情的速度它还是有一个上限的。
-</p>
-<p class="transcript-line">
-<span class="time"><strong>[01:10:08]</strong> </span>
-<span class="speaker"><strong>发言人2: </strong></span>
-我昨天才知道一个数据，就是中国去中跟中东的来往的航班大幅度的超过中美。
-</p>
-<p class="transcript-line">
-<span class="time"><strong>[01:10:14]</strong> </span>
-<span class="speaker"><strong>发言人1: </strong></span>
-不对，这是因为中美现在航班特别少。
-</p>
-<p class="transcript-line">
-<span class="time"><strong>[01:10:17]</strong> </span>
-<span class="speaker"><strong>发言人2: </strong></span>
-这个好像也超过了。这就中中东好像跟疫情前中美的，现在已经差不多了。但是中美还掉了一笔，比如掉了一半。我觉得这个世界现在是这样的那机会在哪里呢？假如说我们真的是，那你对2024年有什么判断吗？
-</p>
-<p class="transcript-line">
-<span class="time"><strong>[01:10:35]</strong> </span>
-<span class="speaker"><strong>发言人1: </strong></span>
-我觉得第一个预测我们前面已经做了，我觉得GPT4就大家都会追上GPT4，我甚至愿意做一个更激进的预测，就是会有开源的模型。追上GPT4就不一定到欧姆那种开源的地步，可能lama这种开源的地步，就没有lama 3或者年底的什么mr whatever，或者国内的某一个开源的模型差不多会到GPT4的水平，这个是比较激进的预测。
-</p>
-<p class="transcript-line">
-<span class="time"><strong>[01:10:58]</strong> </span>
-<span class="speaker"><strong>发言人2: </strong></span>
-2到GPT4，那不就市面上会出现100加到GPT4.
-</p>
-<p class="transcript-line">
-<span class="time"><strong>[01:11:01]</strong> </span>
-<span class="speaker"><strong>发言人1: </strong></span>
-这这个这个是激进的预测，这个预测其实打脸就打脸了，但是我觉得不太会打脸的。我个人的判断是过年底会有10，全世界除了open I会有十家公司能够做到GPT4水准的模型，并且让大家可以用。对我觉得这是一个预测。
-</p>
-<p class="transcript-line">
-<span class="time"><strong>[01:11:17]</strong> </span>
-<span class="speaker"><strong>发言人1: </strong></span>
-第二个我觉得预测是短期内从AI会进入一个稍微消停一点，就是不会像去年那么热。因为的确去年从最终的渗透跟就是从这个商业是不是立刻起飞能够赚钱来讲，没有那么好。但是我觉得这也是个短期的回调而已。如果我更愿意预测2025年它会变得更厉害。
-</p>
-<p class="transcript-line">
-<span class="time"><strong>[01:11:37]</strong> </span>
-<span class="speaker"><strong>发言人2: </strong></span>
-那你预测2024年会有一个排头兵，就是会有一个至少到从3.5到4的这样一个进步。
-</p>
-<p class="transcript-line">
-<span class="time"><strong>[01:11:46]</strong> </span>
-<span class="speaker"><strong>发言人1: </strong></span>
-会不会有GPT5？这个可难预测了，我想一想。
-</p>
-<p class="transcript-line">
-<span class="time"><strong>[01:11:49]</strong> </span>
-<span class="speaker"><strong>发言人2: </strong></span>
-不一定是五，我的意思就是行业最高水平会不会出现一个从四上面再长出一个3.5到4的那个那那个叫什么？
-</p>
-<p class="transcript-line">
-<span class="time"><strong>[01:11:58]</strong> </span>
-<span class="speaker"><strong>发言人1: </strong></span>
-那个叫DR对我觉得会我都会，而且就基本上就是OpenAI我觉得会，因为毕竟GPT4是一年半以前的东西了。你再给他一年两年半做一个迭代发布出来，我觉得既应该有这个能力，而且也有这个必要，对吧？如果大家都赶上了，他如果再不出来，那不就黄，那在这公司不就危险了吗？对吧？所以我觉得他们既有这个动力，也有这个能力干这个。因为至少我觉得理解说无论是从数据的角度，从模型规模的角度，其实还是都有空间的了解。
-</p>
-<p class="transcript-line">
-<span class="time"><strong>[01:12:32]</strong> </span>
-<span class="speaker"><strong>发言人2: </strong></span>
-所以今年的话因为三胞他们其实已经讲了，就是你要基于一个有一个上帝般的厉害的AI来做工具了。对。
-</p>
-<p class="transcript-line">
-<span class="time"><strong>[01:12:40]</strong> </span>
-<span class="speaker"><strong>发言人1: </strong></span>
-但是我觉得4.5没有到真正理想中的AGI那个地步。就是大家对四的判断是我觉得对四的判断是类似的。如果你觉得他跟一个普通的人比，他能力已经非常强，你也可以说他是AGI。但是你如果真的又深入用一用，你就觉得他其实没有到那个，就是因为AGR本身很难定义，但是所以我觉得说至少今年我们还看不到有一个上帝般的AI，这是一个上下限的一个判断。
-</p>
-<p class="transcript-line">
-<span class="time"><strong>[01:13:07]</strong> </span>
-<span class="speaker"><strong>发言人2: </strong></span>
-对，我期待比较低了，我期待就是他只要有一个3.5到4的进步，我就已经非常觉得非常牛了，就非常棒了。你相当于那个引擎已经又升级了，乘以二了，就很牛了。
-</p>
-<p class="transcript-line">
-<span class="time"><strong>[01:13:18]</strong> </span>
-<span class="speaker"><strong>发言人1: </strong></span>
-还有啥判断吗？对，但是我不知道，因为我用的很重度，还经常用它写写代码，写写，他有时候也骗我就是四经常还是会骗骗我的。就是给了我一个幻觉，一个完全不存在不不不成功的东西。从这个视角来讲，我觉得它其实离那个四还是离AGI还差距挺远。就是我如果去问朋友，比如说我认为问某一个领域我有一个技术的问题。如果我觉得这个人是专家的话，他一定是他如果不知道，他一定会告诉我不知道他如果要查一下资料才知道，他肯定会查下资料，告诉我一个准确的信息。他如果知道给我东西基本上八九不离十的。但是GPT4至少目前还是一个时不时会瞎编一下的状态。
-</p>
-<p class="transcript-line">
-<span class="time"><strong>[01:13:58]</strong> </span>
-<span class="speaker"><strong>发言人2: </strong></span>
-那你觉得今年会出现killed APP吗？不管这个killer APP定义是像比如说愤怒的小鸟，还是定义成tiktok.
-</p>
-<p class="transcript-line">
-<span class="time"><strong>[01:14:06]</strong> </span>
-<span class="speaker"><strong>发言人1: </strong></span>
-就什么样的规模算killed up，就比如说2或者plexi算killed up吗？
-</p>
-<p class="transcript-line">
-<span class="time"><strong>[01:14:11]</strong> </span>
-<span class="speaker"><strong>发言人2: </strong></span>
-现在比方说还不算，就是老百姓没用，愤怒的小鸟是老百姓也会用，我们两个的太太会用的工具。
-</p>
-<p class="transcript-line">
-<span class="time"><strong>[01:14:19]</strong> </span>
-<span class="speaker"><strong>发言人1: </strong></span>
-叫做clap我的我太太现在偶尔也有用一下ChatGPT的需求。
-</p>
-<p class="transcript-line">
-<span class="time"><strong>[01:14:24]</strong> </span>
-<span class="speaker"><strong>发言人2: </strong></span>
-对我太太也有，而且我就不小心帮他又买了一个账号，然后觉得好亏。
-</p>
-<p class="transcript-line">
-<span class="time"><strong>[01:14:29]</strong> </span>
-<span class="speaker"><strong>发言人1: </strong></span>
-就没专业这个级别算kid APP了吗？
-</p>
-<p class="transcript-line">
-<span class="time"><strong>[01:14:32]</strong> </span>
-<span class="speaker"><strong>发言人2: </strong></span>
-还是还没有到那个还没有到愤怒的小鸟。我觉得愤怒的小鸟算算移动互联网的kid apple，或者忍水果忍者。对，这是第一波。然后后面你再说什么tiktok这种像原生的cap.
-</p>
-<p class="transcript-line">
-<span class="time"><strong>[01:14:44]</strong> </span>
-<span class="speaker"><strong>发言人1: </strong></span>
-微信吗？妙鸭相机算吗？
-</p>
-<p class="transcript-line">
-<span class="time"><strong>[01:14:47]</strong> </span>
-<span class="speaker"><strong>发言人2: </strong></span>
-他也没，现在已经快快快破圈了。但是其实如果我我们两个太太没有自己用，我们会帮他用？
-</p>
-<p class="transcript-line">
-<span class="time"><strong>[01:14:56]</strong> </span>
-<span class="speaker"><strong>发言人1: </strong></span>
-我这样讲，因为我觉得k lab这太难用，但是我觉得今年有机会出现比妙鸭相机用户体量规模更大，粘性更强的AI APP。
-</p>
-<p class="transcript-line">
-<span class="time"><strong>[01:15:05]</strong> </span>
-<span class="speaker"><strong>发言人2: </strong></span>
-就大一个数量级算大对吧？
-</p>
-<p class="transcript-line">
-<span class="time"><strong>[01:15:07]</strong> </span>
-<span class="speaker"><strong>发言人1: </strong></span>
-就明显大几倍，我觉得这不一定能到一个数据，比如说三倍。对，我们瞎胡说。对，就是大个几倍，就是明显他能够再上一个台阶，能不能到一个数量级我觉得不好说。然后粘性也能做到更长，就是它不是一个我相信今年会有你相信。
-</p>
-<p class="transcript-line">
-<span class="time"><strong>[01:15:23]</strong> </span>
-<span class="speaker"><strong>发言人2: </strong></span>
-的这个killer apple.
-</p>
-<p class="transcript-line">
-<span class="time"><strong>[01:15:26]</strong> </span>
-<span class="speaker"><strong>发言人1: </strong></span>
-而且我希望我们能做出来。
-</p>
-<p class="transcript-line">
-<span class="time"><strong>[01:15:27]</strong> </span>
-<span class="speaker"><strong>发言人2: </strong></span>
-你家有我。
-</p>
-<p class="transcript-line">
-<span class="time"><strong>[01:15:29]</strong> </span>
-<span class="speaker"><strong>发言人1: </strong></span>
-我家没有我，我希望我们能奔着这个目标能做出这样的应用来。
-</p>
-<p class="transcript-line">
-<span class="time"><strong>[01:15:33]</strong> </span>
-<span class="speaker"><strong>发言人2: </strong></span>
-是是是，我今年期待可以做20个，就看能不能赌中一个。对，按照我们之前花钱的那种尿性的话，现在做20个大概也就是原来会做一个大的了。那你觉得今年会出现的这个大的ky APP的话，它会是已有的巨头的一个。比如说微软copilot这种，海鸥canvas AI这种，notion AI这种，还是会是像妙鸭这种凭空产生的一个新应用。
-</p>
-<p class="transcript-line">
-<span class="time"><strong>[01:16:02]</strong> </span>
-<span class="speaker"><strong>发言人1: </strong></span>
-所以第一个我认为从产品跟品牌的角度来讲，应该是凭空产生一个新的。但是它背后也可能是大公司。因为妙鸭其实就是阿里夫阿里内的一个项目，对吧？所以但是从外部来看，可能就是或者刚出来的时候，大家会以为是个新的，我是倾向于是个新的产品，而且是偏娱乐性的，而不是功能性。
-</p>
-<p class="transcript-line">
-<span class="time"><strong>[01:16:21]</strong> </span>
-<span class="speaker"><strong>发言人2: </strong></span>
-的那你会觉得说这个应用的话是会在海外还是在国内？
-</p>
-<p class="transcript-line">
-<span class="time"><strong>[01:16:26]</strong> </span>
-<span class="speaker"><strong>发言人1: </strong></span>
-我觉得国内的概率大于海外。
-</p>
-<p class="transcript-line">
-<span class="time"><strong>[01:16:28]</strong> </span>
-<span class="speaker"><strong>发言人2: </strong></span>
-为什么？
-</p>
-<p class="transcript-line">
-<span class="time"><strong>[01:16:28]</strong> </span>
-<span class="speaker"><strong>发言人1: </strong></span>
-我觉得中国人在娱乐性上的愿意花的时间精力比比海外要大很多。对，这个是预测。预测就是说我自己在反思，在我自己在思考，我觉得这件事情在国内的概率可能高于海外。当然这个可能是因为我对海外的C端市场还是不够了解。
-</p>
-<p class="transcript-line">
-<span class="time"><strong>[01:16:46]</strong> </span>
-<span class="speaker"><strong>发言人2: </strong></span>
-好，那我们在2024年年底的时候再看一下，看看预测对没有？对你还好，你还有一些判断。我现在脑子就是一团浆糊，就忽左忽左忽右的跟你聊会儿。有的时候觉得这样是对的，跟别人聊会觉得那样是对的。
-</p>
-<p class="transcript-line">
-<span class="time"><strong>[01:17:03]</strong> </span>
-<span class="speaker"><strong>发言人1: </strong></span>
-我的建议是说，不管对不对就下海了，下海了。对，就是用不同的方式。我觉得下海了还是得去看实际产品做的过程跟反馈是什么样子的。而不能是说因为我觉得已经过，因为再再去反复去做哲学命题讨论，我觉得意义已经不是特别大。毕竟我们不是哲学家，就是我们以那个为本质，我们本质上还是个喜欢折腾那些东西的普通人。
-</p>
-<p class="transcript-line">
-<span class="time"><strong>[01:17:27]</strong> </span>
-<span class="speaker"><strong>发言人2: </strong></span>
-对吧？我这边孵化一些自己做做一点，可以用你们的模型来做。
-</p>
-<p class="transcript-line">
-<span class="time"><strong>[01:17:34]</strong> </span>
-<span class="speaker"><strong>发言人1: </strong></span>
-可以可以可以可以甚至可以考虑一下是不是比如说什么需要一些算力，然后什么什么互相做一些交流，这个都我们。
-</p>
-<p class="transcript-line">
-<span class="time"><strong>[01:17:43]</strong> </span>
-<span class="speaker"><strong>发言人2: </strong></span>
-都很欢迎算力，你未必可以送算力。
-</p>
-<p class="transcript-line">
-<span class="time"><strong>[01:17:46]</strong> </span>
-<span class="speaker"><strong>发言人1: </strong></span>
-不是送，就是比方说我们我们因为我们肯定会买一些算力做信用，但是不可能保持。我们毕竟不在训练基础大模型，所以你也很难做到24小时把算力用满，比方说我们在训练一下，有些场景它的确相对闲一点，但是我如果完全on demand用的话，是比我买断的要贵三五倍。所以理论上讲我只要用满一半我就划得来。但是我也而且我要完全能用满，其实是有难度的对吧？因为你还是得跟着业务节奏来，你也不能？就早期我们一开始拿这些说，我们说不能浪费算力，多做一些实验。你的很多消融时，就你很多对比实验做完了之后，你也没有必要不停的说硬派，一个人不停的把那个卡给跑起来，对吧？
-</p>
-<p class="transcript-line">
-<span class="time"><strong>[01:18:29]</strong> </span>
-<span class="speaker"><strong>发言人2: </strong></span>
-有道理好的以后可以过去蹭蹭卡，知道了。
-</p>
-<p class="transcript-line">
-<span class="time"><strong>[01:18:32]</strong> </span>
-<span class="speaker"><strong>发言人1: </strong></span>
-对对对，这个我觉得可以做一些交流，用一些什么样的方式来合作，我觉得这都不是太大的问题。
-</p>
-<p class="transcript-line">
-<span class="time"><strong>[01:18:38]</strong> </span>
-<span class="speaker"><strong>发言人2: </strong></span>
-其实也可以考虑说，你们如果要大规模的探索应用的方向的话，这边外面可以孵化一些。但是他们稍微探索出来，比如说PMF探索出来了，然后就跟你们开始合作，说后面要不要微调个模型啥的，然后要不要做点避雷，对吧？但是前面的那部分其实是纯粹一个碰运气的事情，就是小朋友是先去前面去冲，你们没有必要一帮科学家去冲冲冲，去投丢骰子。
-</p>
-<p class="transcript-line">
-<span class="time"><strong>[01:19:07]</strong> </span>
-<span class="speaker"><strong>发言人1: </strong></span>
-我们现在团队虽然也有很多博士，但是我们都觉得自己就是动手干活的，谈不上科学家。
-</p>
-<p class="transcript-line">
-<span class="time"><strong>[01:19:13]</strong> </span>
-<span class="speaker"><strong>发言人2: </strong></span>
-我们搞一帮小朋友去丢骰子，然后丢中了哪个的话，来来来，然后开始布布防。
-</p>
-<p class="transcript-line">
-<span class="time"><strong>[01:19:20]</strong> </span>
-<span class="speaker"><strong>发言人1: </strong></span>
-我觉得其实也是因为软件这个问题，因为开源的存在，因为这个迭代协同很容易。我是觉得说其实技术的壁垒远比大家想象的要浅，特别是对行越是离技术越远的人，越觉得这当中很神秘。但是你越深入进去，我相信很深入的你做大家在冲GPT4，就是大家在追随GPT4，探索GPT5。这个可能不同的产团队的能力差距会非常大。但如果大家是今天去追赶使用GPT3.5，微调一下使用GP4，这个门槛其实并没有那么高。所以我是觉得说还是说要不停的去尝试新的场景，新的应用，这个当中会有很大的机会。
-</p>
-<p class="transcript-line">
-<span class="time"><strong>[01:19:58]</strong> </span>
-<span class="speaker"><strong>发言人2: </strong></span>
-好的，还有什么不要给我们一年之后打脸留留资料的吗？
-</p>
-<p class="transcript-line">
-<span class="time"><strong>[01:20:03]</strong> </span>
-<span class="speaker"><strong>发言人1: </strong></span>
-我觉得没有预测，我想请你预测一下一个事情，就是其实今年AI还有一个趋势，就是大家都在讲中国的团队出海。就是你预测这件事情在2024年会成为一个会有什么比较成功的案例吗？就新的成功。
-</p>
-<p class="transcript-line">
-<span class="time"><strong>[01:20:18]</strong> </span>
-<span class="speaker"><strong>发言人2: </strong></span>
-案例我觉得会有。对，因为我我我现在自己做孵化的路径的话，现在当下拍脑袋想其实就是走这条路，就是把中国的好的团队的话往海外做。我聊下来的话会感觉还是蛮有优势的，还不是因为什么便宜什么的，而是因为中国的团队迭代快。别人一个月迭代一版，中国团队可能一个月迭代400。如果是在一个高度不确定性去摸机会的环境下的话，迭代快你转身快的话，你你你去抓到机会以及快速把比如说做十个项目可能才2个PMF了。但PMF之后马上把它放大的能力，我觉得都是中国团队比较擅长的。
-</p>
-<p class="transcript-line">
-<span class="time"><strong>[01:21:05]</strong> </span>
-<span class="speaker"><strong>发言人2: </strong></span>
-我觉得中国团队出海会非常强，本来还有一些壁垒在，当然你可能会遇到一些比如说国际政治方面的壁垒的话，就是没有办法。但是你真的遇到那个时候，你已经做做起来了，这已经被对于我们来讲已经挺好的了。但是在那之前你遇到的其实是文化壁垒，就比如说你做的APP的长相，虽然你跟老美做的好多了，但是其实不好用。但是这一波因为他AI化了之后，我觉得这就不是个问题。因为对于我们来讲和对于老美的产品经理来讲，其实都是新的，大家都在拍脑袋重新来定义我们的交互范式。所以其实就被迫拉到了同一起跑线。甚至于可能会因为我们对于比如说去做海外市场，因为是外国人，所以可能还会更谦卑一点。
-</p>
-<p class="transcript-line">
-<span class="time"><strong>[01:21:56]</strong> </span>
-<span class="speaker"><strong>发言人2: </strong></span>
-就是因为确实你可以说我不懂，对吧？根据AI来重新设计交互形态，甚至于包括说有可能重新设计硬件。因为中国的硬件能力也很强，就你做个小收音机什么的。对所以我会觉得中国团队出海是蛮有机会的一件事情，所以我现在其实看的也都是这方面的团队。
-</p>
-<p class="transcript-line">
-<span class="time"><strong>[01:22:18]</strong> </span>
-<span class="speaker"><strong>发言人2: </strong></span>
-对，希望可以孵出来一个，也会夹带私货，把自己的几个idea放进去。夫几个。对对对，希望对，但是也不一定是我我我想的就靠谱吗？
-</p>
-<p class="transcript-line">
-<span class="time"><strong>[01:22:30]</strong> </span>
-<span class="speaker"><strong>发言人2: </strong></span>
-对，如果有别人想的，然后我在旁边就添油加醋把它给加出来的话，那正好以后也可以吹牛说这个是我搞出来的对吧？也是很自豪的。孵化器的好处就是量可以大一点，那总归有一两个出来的，就可以号称是自己搞出来的很长的样子。希望如此，而且我确实觉得应该如此，因为真的是long chinese太强了。我之前不是我在20 0708年，我是在美国上班。确实你比较一下，确实会发现中国人还真的是蛮拼的，而且又脑子确实也蛮好的。然后这样子没有理由去打全国全球市场打不过，而且我们又是在这么卷的环境下被磨练出来的一批产品经理和研发，对吧？你要说卷大模型卷不过是有可能的，就是老美在那个不。
-</p>
-<p class="transcript-line">
-<span class="time"><strong>[01:23:21]</strong> </span>
-<span class="speaker"><strong>发言人1: </strong></span>
-我觉得卷大模型也卷得过。我跟某个同学聊完之后，我们的我我听他聊完之后，我觉得卷大模型也卷的过。
-</p>
-<p class="transcript-line">
-<span class="time"><strong>[01:23:27]</strong> </span>
-<span class="speaker"><strong>发言人2: </strong></span>
-一定卷的过。为什么？你是觉得人家出5的时候我们出六吗？或者人家出9的时候我们出十的水平。
-</p>
-<p class="transcript-line">
-<span class="time"><strong>[01:23:34]</strong> </span>
-<span class="speaker"><strong>发言人1: </strong></span>
-我觉得很有可能就是人家出5的时候我们出5.5，或者人家出到6的时候我们出6.5的水平。
-</p>
-<p class="transcript-line">
-<span class="time"><strong>[01:23:40]</strong> </span>
-<span class="speaker"><strong>发言人2: </strong></span>
-这么牛逼吗？为什么？
-</p>
-<p class="transcript-line">
-<span class="time"><strong>[01:23:42]</strong> </span>
-<span class="speaker"><strong>发言人1: </strong></span>
-因为我觉得这位同学有一个逻辑，我觉得是对的。因为就这个事情就是个软件的事情，这个观点我是认同的，就是一个software的事情，对，这第一个是。至少目前这两代人的人口基数，聪明才智卷的程度，都是深受了我们传统文化的熏陶的。所以这个事情也没有那么多秘密。这个事情就是目前来讲不存在代差级别的秘密，那其实就是比谁聪明，谁叠代快，谁的这个数量多。可能的瓶颈真的最后会变成存在卡上。
-</p>
-<p class="transcript-line">
-<span class="time"><strong>[01:24:15]</strong> </span>
-<span class="speaker"><strong>发言人2: </strong></span>
-我刚想说这个难道卡那那假设卡不是问题的话，现在其实觉得说他就是堆人才，大家都是在炼金术去试，并不存在着一个基础科学方面的东西。我你觉得基础科学其实老美也没想出来是吧？
-</p>
-<p class="transcript-line">
-<span class="time"><strong>[01:24:29]</strong> </span>
-<span class="speaker"><strong>发言人1: </strong></span>
-对，就是我或者这样说，这的确比方说OpenAI有一个更强的vision，但是这个大的方向确定了之后，这个当中很多是需要聪明才智的。他不只是说简单的事，他还需要聪明才智去琢磨，说我怎么去试这个事情。但是从这个视角上来讲，就是中国不缺这样的有聪明才智的人。就是我其实不太同意之前那个广密还是谁的，他们做了一个基金，他们的判断是说3分之2的头部人才都在OpenAI。
-</p>
-<p class="transcript-line">
-<span class="time"><strong>[01:24:58]</strong> </span>
-<span class="speaker"><strong>发言人2: </strong></span>
-对石像他们的判断十项。
-</p>
-<p class="transcript-line">
-<span class="time"><strong>[01:25:00]</strong> </span>
-<span class="speaker"><strong>发言人1: </strong></span>
-对，就十项。广密他们就是我的看下来的，我的感觉就是我我偏向于跟朱同学的想法是类似的，全球现在有1万个聪明人在干这个事情，然后你open I也只有1000个人而已。那个人的结果更好，并不是因为那个人更聪明，也许是因为那个人更lucky。很多事情就是大家同时在探索很多方向，你最后在你这里卷出来，未必是因为你更聪明，是因为你更幸运。就你最早做出来，我觉得至少从我过去我是不太相信决定论。
-</p>
-<p class="transcript-line">
-<span class="time"><strong>[01:25:28]</strong> </span>
-<span class="speaker"><strong>发言人2: </strong></span>
-这个话可以分两个角度理，两个完全相反的方向理解。一个就是如果是因为lucky的话，因为我们比如说人多，就可以卷的人多，我们未来可能卷过去概率提高。但是还有一个理解就是说因为OpenAI足够lucky，他们比如说在1000张彩票里面抽到了一张，然后他们已经跨过了这个坎儿。但是后面的人要追的时候，你要在比如说抽一张十亿美金，10亿美金买张彩票，10亿美金买了他可能抽三张，抽中了后面的人其实很崩溃的。你抽不起1万亿美元金去抽。
-</p>
-<p class="transcript-line">
-<span class="time"><strong>[01:26:00]</strong> </span>
-<span class="speaker"><strong>发言人1: </strong></span>
-如果大家觉得这个东西是核武器。
-</p>
-<p class="transcript-line">
-<span class="time"><strong>[01:26:03]</strong> </span>
-<span class="speaker"><strong>发言人2: </strong></span>
-就按照万亿美金抽了。
-</p>
-<p class="transcript-line">
-<span class="time"><strong>[01:26:04]</strong> </span>
-<span class="speaker"><strong>发言人1: </strong></span>
-对吧？我就会倾家荡产的干这个事情。但是现在很明显，我觉得有很多人，甚至从国家层面，大家都觉得这是核武器。
-</p>
-<p class="transcript-line">
-<span class="time"><strong>[01:26:13]</strong> </span>
-<span class="speaker"><strong>发言人2: </strong></span>
-对，这肯定是核武器。
-</p>
-<p class="transcript-line">
-<span class="time"><strong>[01:26:14]</strong> </span>
-<span class="speaker"><strong>发言人1: </strong></span>
-这个现在比核武器重要。那就完事儿了。那你第一个抽出来没问题。
-</p>
-<p class="transcript-line">
-<span class="time"><strong>[01:26:19]</strong> </span>
-<span class="speaker"><strong>发言人2: </strong></span>
-就是这一千张我老子也会抽10亿美金，一张一万亿，也是可以的对你说的对。然后人才的话，确实你们的判断是其实没有那么夸张。
-</p>
-<p class="transcript-line">
-<span class="time"><strong>[01:26:30]</strong> </span>
-<span class="speaker"><strong>发言人1: </strong></span>
-就是我觉得是这样的，就是说这个事情是不是一个天才的vision，也许是，但是他是不是需要天才到都是天才才能执行，我觉得不是一样的。就跟我觉得就跟比如说二三十年代这个量子物理是一样的，对吧？可能是爱因斯坦是个天才，他想出了狭义相对论和广义相对论。波尔是天才，他想出了量子力学或者什么。但是当很多聪明人看到这个方向正确之后，会有无穷的错多的聪明人进来卷这个事情。当在这个程度下，我要卷出一个怎么做原子弹，或者做这个做那个，会有很多人都能做出来。
-</p>
-<p class="transcript-line">
-<span class="time"><strong>[01:27:06]</strong> </span>
-<span class="speaker"><strong>发言人2: </strong></span>
-那就更更有意思了。
-</p>
-<p class="transcript-line">
-<span class="time"><strong>[01:27:10]</strong> </span>
-<span class="speaker"><strong>发言人1: </strong></span>
-对，这个是我对这个事情的长期的一个预测。
-</p>
-<p class="transcript-line">
-<span class="time"><strong>[01:27:13]</strong> </span>
-<span class="speaker"><strong>发言人2: </strong></span>
-如果激烈这么激烈的话，其实他也会加快这件事情的进展。就是跟那个我讲两个我想到的相关的事情，一个就是摩尔定律。摩尔定律其实它的从硬件上来讲的话，就是每过一两年都会觉得它是支持不下去了。但是其实只要足够多的这里面经济利益足够大，就会有无数的聪明人想出一个奇旁门左道的事情，把那个原有的瓶颈给破掉。这边的话如果真的是跟摩尔定律对应的话，那其实它就是比如说每年翻倍的进展的话，其实就毫不夸张，对吧？18个月什么智能翻倍，这个哪怕不是OpenAI做出来，只要大家都信这件事情。
-</p>
-<p class="transcript-line">
-<span class="time"><strong>[01:27:54]</strong> </span>
-<span class="speaker"><strong>发言人2: </strong></span>
-然后第二个是我不是去硅谷也聊了另外一个科学家同学，对吧？然后我跟他说觉得十年之内AGI能不能出来，然后他说不确定。但是我们后来聊着就感觉但是在我们有生之年大概率应该是可以看到，对，就我们还能活几十年，对吧？那如果是这样的话，真的就是好科幻。
-</p>
-<p class="transcript-line">
-<span class="time"><strong>[01:28:17]</strong> </span>
-<span class="speaker"><strong>发言人1: </strong></span>
-对你就想他原来也不是做大语言模型的，他原来其实是偏向于做reinforcement learning，做那种A就偏agent的，偏智能吧。但是他其实现在也来卷来干这个事儿。
-</p>
-<p class="transcript-line">
-<span class="time"><strong>[01:28:28]</strong> </span>
-<span class="speaker"><strong>发言人2: </strong></span>
-对的，他也现在卷大模型了。去想一想这个其实就很简单。
-</p>
-<p class="transcript-line">
-<span class="time"><strong>[01:28:31]</strong> </span>
-<span class="speaker"><strong>发言人1: </strong></span>
-就是说他原来卷的那个方向就一定比transformer这个就是他选择了那个方向跟另外一个人选择transformer或者做语言模型这个方向。谁先选出来有智能，我觉得就是lucky的差别。当然也许它不一定是伊利娅或者谁那个级别的还没它比那个还有点距离。但是我理解说也一定会有很多人像他一样在卷一些别的方向在卷。有些人在卷视觉的diffusion，有些人在卷这个别的。但是现在可能很多聪明人都来干这个了。
-</p>
-<p class="transcript-line">
-<span class="time"><strong>[01:28:59]</strong> </span>
-<span class="speaker"><strong>发言人2: </strong></span>
-至少他是会亲自挖的那个级别的对象。
-</p>
-<p class="transcript-line">
-<span class="time"><strong>[01:29:03]</strong> </span>
-<span class="speaker"><strong>发言人1: </strong></span>
-对对对。
-</p>
-<p class="transcript-line">
-<span class="time"><strong>[01:29:04]</strong> </span>
-<span class="speaker"><strong>发言人2: </strong></span>
-了解，所以说那那更好玩了。我是觉得说如果这样的话，中国这边其实机会就更大了。就是你不会受限于模型吗？现在我的基础假设其实是在国内做的话，你还会受限于模型的能力。
-</p>
-<p class="transcript-line">
-<span class="time"><strong>[01:29:17]</strong> </span>
-<span class="speaker"><strong>发言人1: </strong></span>
-我觉得现在观察，我觉得至少现在这个点我觉得不会。我觉得国内现在的一个风险是卡，但是卡这个事情除非发生极端战争风险，我觉得总有适用各种歪门邪道的人会想办法帮你解决。
-</p>
-<p class="transcript-line">
-<span class="time"><strong>[01:29:31]</strong> </span>
-<span class="speaker"><strong>发言人2: </strong></span>
-的这是个钱的问题是吧？
-</p>
-<p class="transcript-line">
-<span class="time"><strong>[01:29:33]</strong> </span>
-<span class="speaker"><strong>发言人1: </strong></span>
-这个也是基本上今年的今年英伟达的出货量会是去年的三倍。就就意味着卡的数量会市场的供给会大幅提升，当然消耗也会大幅提升，肯定有更多的公司想要去冲刺，要买更多的卡。
-</p>
-<p class="transcript-line">
-<span class="time"><strong>[01:29:47]</strong> </span>
-<span class="speaker"><strong>发言人2: </strong></span>
-我问一个技术上的问题，就刚好聊到这里。因为之前的话因为打的卡是因为它很通用，那如果我们都确定了大家都是卷transformer这个方向的话，是不是其实华为各家其实也都能造出来inference或者说训练的卡，其实就假设我们只做这一件事情，就就通用性追他可能要追20年，那是不是其实有可能18个月也就追到了，我们的卡相当于A100，相当于H100就都能用了。
-</p>
-<p class="transcript-line">
-<span class="time"><strong>[01:30:16]</strong> </span>
-<span class="speaker"><strong>发言人1: </strong></span>
-对，第一个硬件我也不太懂，所以我觉得我没法回答你这个问题。至少从但是从目前来看，我觉得说其他家不会就没有人会放任英伟达高利润收大家钱，对吧？就大家去想是不是这么回事儿，不管他的竞对MD不管是被卡脖子，像中国的什么华为什么还是云厂商，就都在想各种办法说能不能不用英伟达，对不对？或者说我能减少对英伟达的依赖，所以无论是软件栈技术上，其实大家各种各样都有人在做这个事情。所以我觉得依赖降低是一定会发生的。
-</p>
-<p class="transcript-line">
-<span class="time"><strong>[01:30:51]</strong> </span>
-<span class="speaker"><strong>发言人1: </strong></span>
-但是到底因为毕竟英伟达做这个事情，我觉得英伟达跟OVI的情况类似。就是他很早有一个vision下了重注，做了一个事情，最后也吃了很多也做了很多年冷板凳或者不赚钱的事情。现在到了回报期，这个回报期有多长不知道，但不可能是永远，也不可能是特别长，对吧？
-</p>
-<p class="transcript-line">
-<span class="time"><strong>[01:31:13]</strong> </span>
-<span class="speaker"><strong>发言人1: </strong></span>
-但是硬件的周期比软件长，因为软件这个周期迭代更短，google说他们一个礼拜就能训一版模型，现在那个那个gym的paper里说他们一个礼拜内就能训一版模型。我相信中国人搞出过多的卡，可能也许也能说迭代到比如两个礼拜训练版模型。但是硬件它毕竟有一个流片投产，整个周期可能就是两年，吧？即使你能缩短两年，你缩到一年是可能的。但你没法短期内缩到一个礼拜，这不现实。所以我觉得从那个角度来讲说，他肯定时间会更慢一些。如果你觉得华为已经能够替代英伟达的H100了，那中国的模型能力肯定已经赶上四了。我觉得你这样去思，我就我会这样来思考这个问题挺好的。
-</p>
-<p class="transcript-line">
-<span class="time"><strong>[01:31:55]</strong> </span>
-<span class="speaker"><strong>发言人2: </strong></span>
-反正都还有希望。然后赶紧把这些东西搞出来，搞些这种奇奇怪怪的东西出来，世界也会更和平一点。人类统一看到一个像妖怪一样的AI出来了之后，人类自己那些小事情就不要吵来吵去。好的，那我们差不多了，感谢各位的支持，就这种这么随机的一个文出文章，随机的出连麦，随机的发博客的一个，感谢大家厚爱，谢谢。可以各个平台关注AI炼金术，祝大家新年快乐，新年快乐。
-</p>
-<p class="transcript-line">
-<span class="time"><strong>[01:32:29]</strong> </span>
-<span class="speaker"><strong>发言人1: </strong></span>
-对，祝大家新年快乐。
-</p>
-<p class="transcript-line">
-<span class="time"><strong>[01:32:30]</strong> </span>
-<span class="speaker"><strong>发言人2: </strong></span>
-提前给大家拜个年。好好好，拜拜。Really got A.
-</p>
-<p class="transcript-line">
-<span class="time"><strong>[01:32:46]</strong> </span>
-<span class="speaker"><strong>发言人1: </strong></span>
-run away.
-</p>
-<p class="transcript-line">
-<span class="time"><strong>[01:32:47]</strong> </span>
-<span class="speaker"><strong>发言人2: </strong></span>
-eating nothing personal.
-</p>
-<p class="transcript-line">
-<span class="time"><strong>[01:32:50]</strong> </span>
-<span class="speaker"><strong>发言人1: </strong></span>
-not something .
-</p>
-<p class="transcript-line">
-<span class="time"><strong>[01:32:51]</strong> </span>
-<span class="speaker"><strong>发言人2: </strong></span>
-you can change, maybe in a few .
-</p>
-<p class="transcript-line">
-<span class="time"><strong>[01:32:54]</strong> </span>
-<span class="speaker"><strong>发言人1: </strong></span>
-light .
-</p>
-<p class="transcript-line">
-<span class="time"><strong>[01:32:54]</strong> </span>
-<span class="speaker"><strong>发言人2: </strong></span>
-who learn.
-</p>
-<p class="transcript-line">
-<span class="time"><strong>[01:32:58]</strong> </span>
-<span class="speaker"><strong>发言人1: </strong></span>
-Me, not today.
-</p>
-<p class="transcript-line">
-<span class="time"><strong>[01:33:04]</strong> </span>
-<span class="speaker"><strong>发言人2: </strong></span>
-So much.
-</p>
-<p class="transcript-line">
-<span class="time"><strong>[01:33:11]</strong> </span>
-<span class="speaker"><strong>发言人2: </strong></span>
-The broken boy, you will .
-</p>
-<p class="transcript-line">
-<span class="time"><strong>[01:33:13]</strong> </span>
-<span class="speaker"><strong>发言人1: </strong></span>
-never .
-</p>
-<p class="transcript-line">
-<span class="time"><strong>[01:33:14]</strong> </span>
-<span class="speaker"><strong>发言人2: </strong></span>
-feel that down, please.
-</p>
-<p class="transcript-line">
-<span class="time"><strong>[01:33:16]</strong> </span>
-<span class="speaker"><strong>发言人1: </strong></span>
-Broken toy, her people, people like just me.
-</p>
-<p class="transcript-line">
-<span class="time"><strong>[01:33:23]</strong> </span>
-<span class="speaker"><strong>发言人2: </strong></span>
-我想。You&#x27;ll just get her with a broken boy. You just. Get her. I want a喝酒。
-</p>
-<p class="transcript-line">
-<span class="time"><strong>[01:33:47]</strong> </span>
-<span class="speaker"><strong>发言人1: </strong></span>
-Leave before .
-</p>
-<p class="transcript-line">
-<span class="time"><strong>[01:33:48]</strong> </span>
-<span class="speaker"><strong>发言人2: </strong></span>
-you miss me, do what you .
-</p>
-<p class="transcript-line">
-<span class="time"><strong>[01:33:51]</strong> </span>
-<span class="speaker"><strong>发言人1: </strong></span>
-got to cause. If you .
-</p>
-<p class="transcript-line">
-<span class="time"><strong>[01:33:54]</strong> </span>
-<span class="speaker"><strong>发言人2: </strong></span>
-try to fix me, you&#x27;ll be fix you.
-</p>]]></content:encoded>
-            <pubDate>Sat, 17 Feb 2024 13:17:11 GMT</pubDate>
-            <guid>65d0b82abdad0abd3ced0692</guid>
         </item>
     </channel>
 </rss>
