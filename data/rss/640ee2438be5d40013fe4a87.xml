@@ -4,7 +4,864 @@
         <title>硬地骇客</title>
         <link>https://www.xiaoyuzhoufm.com/podcast/640ee2438be5d40013fe4a87</link>
         <description>一起探讨技术、产品和商业之美</description>
-        <lastBuildDate>Thu, 10 Apr 2025 18:09:36 +0800</lastBuildDate>
+        <lastBuildDate>Mon, 21 Apr 2025 18:02:24 +0800</lastBuildDate>
+        <item>
+            <title>EP99 调酒笔记：在家调酒，比你想的更简单，更有趣！</title>
+            <link>https://www.xiaoyuzhoufm.com/episode/6804c7a6cdd692da157ef12d</link>
+            <description>一杯鸡尾酒的成本究竟是多少？为什么酒吧里的鸡尾酒那么贵？
+本期节目我们邀请到了90后程序员兼调酒爱好者阿越，他开发了一款名为“调酒笔记”的APP，旨在让更多人轻松享受在家调酒的乐趣。阿越分享了他从酒吧高价鸡尾酒到自学调酒，再到开发APP的经历，分享了鸡尾酒的基础知识、调酒技巧以及APP的开发理念和未来规划。如果你对调酒或独立开发感兴趣，不要错过这期访谈！
+更多内容信息和时间线参考下文的硬地笔记，欢迎收听本期节目。
+嘉宾介绍
+阿越：00 后程序员，鸡尾酒爱好者，调酒笔记App作者。
+* 小红书搜 “调酒笔记”
+* 调酒笔记官网：https://cocktailnotes.cn/
+* Apple store： https://apps.apple.com/
+本期赞助
+Podwise.ai - Podcast knowledge at 10x speed 🚀
+Apple Store 下载👉🏻 https://apps.apple.com/cn/app/podwise-ai/id6499190232?l=en-GB
+硬地笔记
+00:00:04 节目开场及嘉宾介绍
+00:01:23 嘉宾阿越的自我介绍及调酒笔记 APP 介绍
+00:04:20 阿越的调酒兴趣来源及鸡尾酒基础知识
+00:18:04 调酒工具及便利店调酒
+00:24:50 在家调酒的建议及调酒笔记 APP 的开发理念
+00:34:32 调酒笔记 APP 的未来规划及节目总结
+提到的名词：
+* 鸡尾酒 (Cocktail): 一种混合酒精饮料，通常由烈酒、果汁、苏打水或其他调味料混合而成。节目中讨论了多种鸡尾酒的制作方法和配方，以及不同类型的基酒和调味料。
+* 基酒 (Base Spirit): 指鸡尾酒中主要的酒精成分，例如伏特加、金酒、朗姆酒、威士忌和龙舌兰酒等。节目中详细介绍了六大基酒的种类和特点，以及它们在调制不同鸡尾酒中的应用。
+* 利口酒 (Liqueur): 一种甜味酒精饮料，通常由烈酒、水果、香料或草药浸泡而成，具有各种不同的风味。节目中提到了许多利口酒，例如君度、蓝橙利口酒等，它们可以为鸡尾酒增添独特的风味层次。
+* Highball: 一种鸡尾酒的调制方法，通常以高杯盛装，将基酒与苏打水或其他非酒精饮料混合。节目中以金汤力为例，解释了 Highball 结构的特点。
+* IBA: 国际调酒师协会（International Bartenders Association）的缩写。该协会制定了众多经典鸡尾酒的标准配方，被调酒师广泛学习和参考。节目中提到 IBA 的配方是经典鸡尾酒的可靠来源。
+* 金汤力 (Gin and Tonic): 一种经典的 Highball 鸡尾酒，由金酒和汤力水混合而成，通常还会加入柠檬片或黄瓜片等装饰。节目中多次提及金汤力，作为简单易学的鸡尾酒入门款。
+* 螺丝刀 (Screwdriver): 一种简单的鸡尾酒，由伏特加和橙汁混合而成。节目中提到其独特的历史起源，以及作为入门鸡尾酒的简单易操作性。
+* 莫吉托 (Mojito): 一种以朗姆酒为基酒的经典鸡尾酒，通常还会加入薄荷叶、青柠汁、糖和苏打水。节目中提到周杰伦的歌曲也提到了这款鸡尾酒。
+* 老冰 (Aged Ice): 一种经过特殊处理的大块冰块，融化速度较慢，可以更好地保持鸡尾酒的温度和口感。节目中讨论了老冰的制作方法和在调酒中的重要性。
+欢迎关注我们
+* 知识星球: t.zsxq.com
+* 官网: hardhacker.com
+* 小手册: book.hardhacker.com
+* 用爱发电不容易，请我们喝咖啡☕️: afdian.net
+* 公众号/小红书: 硬地骇客
+* 商务合作: hardhackerlabs@gmail.com
+* 另外，现在加入「硬地骇客」会员服务，即可在会员专属的微信群与其他朋友一起畅所欲言，成为会员也是对我们持续更新最大的鼓励！</description>
+            <content:encoded><![CDATA[<h1>转写链接</h1>
+<link>https://tongyi.aliyun.com/efficiency/doc/transcripts/yg7k9w7v7oa5qxwd</link><br>
+<h1>问题回顾</h1>
+<div class="qa-item">
+<div class="question"><strong>Q:</strong> 大家好，我是阿月，我是调酒笔记APP的创始人。首先，能否请你介绍一下你自己以及你的产品调酒笔记？</div>
+<div class="answer"><strong>A:</strong> Hello大家好，我叫阿月。我是一个00后的程序员，也是一名酒精爱好者。通过一些途径接触到了鸡尾酒后，成为了调酒的爱好者，并制作了调酒笔记APP。这个APP提供了一系列经典的鸡尾酒配方，包括IBA的配方和其他便利店的配方，让用户在家中就能体验调酒的乐趣。</div>
+</div>
+<div class="qa-item">
+<div class="question"><strong>Q:</strong> 那么调酒笔记这个产品是否可以视为鸡尾酒的百科全书？</div>
+<div class="answer"><strong>A:</strong> 可以说它是一个百科全书，但更像是一把螺丝刀，是一个工具。在需要调制鸡尾酒时，它会提供很大的帮助。</div>
+</div>
+<div class="qa-item">
+<div class="question"><strong>Q:</strong> 调酒和我们平时听说的鸡尾酒是否属于等同关系？你是在什么情况下开始自己在家调酒的？</div>
+<div class="answer"><strong>A:</strong> 在非严谨的情况下，从爱好者的角度出发，两者可以视为等同概念，即调酒就是调制鸡尾酒。在大学期间，由于鸡尾酒在国内较贵且不易购买，我开始通过小红书等平台搜索配方并自己尝试制作。毕业后，和一位喜欢喝酒的姐姐一起住，受其影响开始进行家庭调酒，甚至一度家中积累了二十多瓶不同类型的酒。</div>
+</div>
+<div class="qa-item">
+<div class="question"><strong>Q:</strong> 你是怎么对调酒产生兴趣的？</div>
+<div class="answer"><strong>A:</strong> 我原本也是个喜欢喝酒的人，但大学时期因朋友有痛风不能喝啤酒，转而尝试了白酒，发现其口感苦辣不易入口。后来接触到了调酒，开始在酒吧里喝各种鸡尾酒，并逐渐对调酒产生了兴趣。</div>
+</div>
+<div class="qa-item">
+<div class="question"><strong>Q:</strong> 自己在家调制鸡尾酒的成本和酒吧相比如何？</div>
+<div class="answer"><strong>A:</strong> 自己在家调制鸡尾酒的成本非常低，以酒吧常用的基酒为例，一瓶100元以内就可以解决，而一杯鸡尾酒在酒吧可能要68元起步，成本差距较大。加上鸡尾酒在酒吧还不是很普及，所以客单价相对较高。</div>
+</div>
+<div class="qa-item">
+<div class="question"><strong>Q:</strong> 在外国的卖酒商店里，酒的种类和分类方式是怎样的？</div>
+<div class="answer"><strong>A:</strong> 国外的卖酒商店里酒的种类非常丰富，与国内的酒商店不同。国内的酒商店通常以啤酒或白酒为主，而国外则有专门的一排排按照不同酒类划分的区域，如伏特加区、龙舌兰区、劲酒区等，而且有很多我们不太常见的酒款，比如taki a voda等。</div>
+</div>
+<div class="qa-item">
+<div class="question"><strong>Q:</strong> 做鸡尾酒时，一般会用哪些基酒？除了基酒外，在调酒时还需要搭配些什么？</div>
+<div class="answer"><strong>A:</strong> 做鸡尾酒常用的六大基酒包括金酒、伏特加、龙舌兰、提拉威士忌、朗姆酒和白兰地，这些基酒可以直接用来调制鸡尾酒，也可以作为鸡尾酒调制的基础原材料。在调酒时，除了基酒外，还可以搭配各种利口酒来增加风味，例如军度（陈皮风味）、蓝橙利口酒、绿薄荷利口酒等。此外，还可以加入果汁如橙汁、柠檬汁，或者糖浆、蜂蜜等甜味调料，以及气泡水、汤力水等碳酸饮料，来平衡酒的口感和味道。</div>
+</div>
+<div class="qa-item">
+<div class="question"><strong>Q:</strong> 啤酒、白酒以及刚才提到的基酒（如金酒、伏特加等）它们之间的区别是什么？</div>
+<div class="answer"><strong>A:</strong> 啤酒是以小麦为原料，经过糖化发酵和蒸馏制成；白酒则是以五谷杂粮为原料，通过类似的过程制作而成。而金酒（杜松子酒）和伏特加等基酒，它们有的是用谷物原料经过糖化发酵和蒸馏后，再添加特定植物浸泡或串香；朗姆酒则是由甘蔗制作而成的蒸馏酒；龙舌兰则是以龙舌兰植物为原料酿制的酒。</div>
+</div>
+<div class="qa-item">
+<div class="question"><strong>Q:</strong> 除了基酒和利口酒外，调酒还需要搭配哪些成分？</div>
+<div class="answer"><strong>A:</strong> 除了基酒和利口酒外，调酒还可以根据需要搭配酸性调料（如柠檬、青柠）、甜味调料（如糖浆、蜂蜜）、以及各种果汁（如橙汁、葡萄汁、西瓜汁、西柚汁等）和碳酸饮料（如汤力水、可乐）。通过这些简单的搭配，就能制作出各种经典且美味的鸡尾酒。</div>
+</div>
+<div class="qa-item">
+<div class="question"><strong>Q:</strong> 对于酒吧新手，如何点酒才能显得自己对鸡尾酒有所了解？</div>
+<div class="answer"><strong>A:</strong> 其实不用刻意装作内行，真诚交流很重要。可以告诉调酒师你喜欢甜味或草本风味，并且能承受微醺感觉的程度，调酒师会根据你的喜好推荐一款适合的鸡尾酒。</div>
+</div>
+<div class="qa-item">
+<div class="question"><strong>Q:</strong> 如果不满意调酒师按照个人口味推荐的鸡尾酒怎么办？</div>
+<div class="answer"><strong>A:</strong> 如果对调酒师推荐的鸡尾酒不满意，可以在吧台不忙的情况下及时沟通，很多调酒师都会乐意为你更换一杯。</div>
+</div>
+<div class="qa-item">
+<div class="question"><strong>Q:</strong> 制作鸡尾酒时，有没有必备工具？摇晃鸡尾酒的目的是什么？</div>
+<div class="answer"><strong>A:</strong> 鸡尾酒制作必备工具包括量杯和冰块。量杯用于准确测量配料，冰块则影响酒品口感，推荐使用大块冰以减少融化速度。此外，新鲜水果材料也很重要，如使用新鲜柠檬制作柠檬汁。摇晃鸡尾酒是为了让不同风味的酒液充分混合，达到平衡口感的效果。对于需要分层的鸡尾酒，则不需要摇晃，因为分层是为了视觉效果，实际饮用前需要搅拌均匀。</div>
+</div>
+<div class="qa-item">
+<div class="question"><strong>Q:</strong> 日本酒吧中那种不易融化的冰块是如何制作的？</div>
+<div class="answer"><strong>A:</strong> 日本酒吧中的不易融化的冰块通常是通过煮沸后冷却的水制成的大冰块，或者购买便利店提供的大冰块。自己在家也可以购买大冰模具，用煮沸过的凉白开冷冻，这样可以获得透明且不易融化的冰块。</div>
+</div>
+<div class="qa-item">
+<div class="question"><strong>Q:</strong> 便利店调酒是什么情况，具体如何操作？</div>
+<div class="answer"><strong>A:</strong> 便利店调酒就是在便利店购买基酒、冰杯等小包装材料，例如50毫升的朗姆酒和可乐，倒入冰杯中即可调配出一杯简单的鸡尾酒，非常方便快捷。</div>
+</div>
+<div class="qa-item">
+<div class="question"><strong>Q:</strong> 如果在家自己调酒，应该配备哪些工具和基酒？</div>
+<div class="answer"><strong>A:</strong> 建议家里先准备金酒，因为它可以制作多种鸡尾酒。之后可逐步购买伏特加、朗姆酒和威士忌这四款基础酒。至于工具，需要一个量杯、搅拌棒以及摇壶（瑶湖）。</div>
+</div>
+<div class="qa-item">
+<div class="question"><strong>Q:</strong> 量杯和摇壶有什么具体要求吗？</div>
+<div class="answer"><strong>A:</strong> 量杯只要带有刻度即可，而摇壶（瑶湖）则基本款即可满足需求，甚至保温杯也可以用来摇酒。</div>
+</div>
+<div class="qa-item">
+<div class="question"><strong>Q:</strong> 调酒壶是否会成为一种收藏品或军备竞赛？最夸张的调酒壶是什么样的，价格大约多少？</div>
+<div class="answer"><strong>A:</strong> 是的，很多调酒师会把调酒壶当作一种收藏品，并进行军备竞赛，互相展示各自的精美调酒壶。最夸张的调酒壶可能来自日本的Birdy品牌，一个壶可能要1000多块钱，但他们更追求限量版和独一无二的设计。</div>
+</div>
+<div class="qa-item">
+<div class="question"><strong>Q:</strong> 调酒笔记这个产品的初衷和定位是什么？</div>
+<div class="answer"><strong>A:</strong> 调酒笔记产品是出于我个人爱好，为了解决找寻配方耗时长的问题，提供一个信息聚合的专业平台，让调酒变得更加简单高效，避免网络上不准确或乱来的配方。</div>
+</div>
+<div class="qa-item">
+<div class="question"><strong>Q:</strong> 调酒笔记是如何在小红书上做推广并吸引用户的？</div>
+<div class="answer"><strong>A:</strong> 在没有产品时，先在小红书上发布召集用户需求的笔记，并称他们为“云股东”，通过持续更新开发进度并与用户互动，最终实现了用户共创，成功推广了产品。</div>
+</div>
+<div class="qa-item">
+<div class="question"><strong>Q:</strong> 那你这个云股东当的也太好了，他也没有投资，他还有分红，我能不能也分享？</div>
+<div class="answer"><strong>A:</strong> 可以，我们明天还会分一波鸿，对是吗？对，会抽也是酒具瑶湖这些。</div>
+</div>
+<div class="qa-item">
+<div class="question"><strong>Q:</strong> 你这个真的是为爱发电了，现在这个APP还没有盈利，虽然叫云股东，但实际上他们也没有花钱来占有这个股份，你是怎么考虑的？</div>
+<div class="answer"><strong>A:</strong> 对，为爱发电。我一开始就通过调酒笔记这款产品进行市场验证，如果第一篇笔记反响不好，可能就不会继续做下去。现在已经有云股东并且还在给大家发福利，但调酒笔记还未盈利。对于营收和持续性，我们计划推出pro用户计划，提供个性化酒单推荐，并可能与商家合作做一些营销活动，如酒鬼地图等，通过从商家处获得收入来给用户发分红。</div>
+</div>
+<div class="qa-item">
+<div class="question"><strong>Q:</strong> 对于调酒笔记的未来营收和持续性规划，具体有哪些打算？</div>
+<div class="answer"><strong>A:</strong> 我们可能会推出一个pro计划，允许用户将家里的材料存入数据库，我们根据用户现有材料推荐可调制的酒单，这涉及到服务器资源，需要收费。此外，我们会对接鸡尾酒商家，开展联合营销活动，通过导流给商家并从中抽取佣金。</div>
+</div>
+<div class="qa-item">
+<div class="question"><strong>Q:</strong> 为什么在工作如此繁忙的情况下，你还有精力去做独立开发并维护调酒笔记这款APP呢？你的工作状态如何？是否会影响到你进行独立开发？</div>
+<div class="answer"><strong>A:</strong> 首先，我对鸡尾酒有着热爱，其次，拥有自己的产品是每个程序员的梦想。我在爱好领域追逐梦想，所以做这件事时精力非常充足。即使在晚上回家后也会花费时间写代码，有时会写到深夜。我的工作状态还好，虽然有时会忙，但并非每周都要加班，因此相对而言工作生活平衡比较好。</div>
+</div>
+<div class="qa-item">
+<div class="question"><strong>Q:</strong> 阿月，能否分享一下你的第一杯鸡尾酒是什么？并推荐一款入门级的鸡尾酒给大家尝试？</div>
+<div class="answer"><strong>A:</strong> 我的第一杯鸡尾酒是威士忌酸，它口感酸甜平衡，若做得好还会带有奶香味道。作为入门级鸡尾酒，我推荐螺丝起子，包括伏特加加上任意果汁即可自制。如果去酒吧，可以选择金汤力或椰林飘香。</div>
+</div>
+<h1>节目文稿</h1>
+<p class="transcript-line">
+<span class="time"><strong>[00:00:04]</strong> </span>
+<span class="speaker"><strong>发言人1: </strong></span>
+大家好，欢迎收听异地骇客。我是seattle，我是一笑。
+</p>
+<p class="transcript-line">
+<span class="time"><strong>[00:00:08]</strong> </span>
+<span class="speaker"><strong>发言人3: </strong></span>
+我是龟龟。
+</p>
+<p class="transcript-line">
+<span class="time"><strong>[00:00:09]</strong> </span>
+<span class="speaker"><strong>发言人1: </strong></span>
+本期节目由power wise赞助播出。Auto wise是一款为播客听众制作的AI学习软件产品的slogan是read before listen。Auto wise通过AI对播客内容进行转录提取、总结分析等一系列操作，帮你掰开了揉碎了硬核的播客内容。同时与notion read wise等平台的打通，嵌入知识管理工作流，协助您的其他包括新闻news letter blog的内容，帮你打造第二大脑。Hot wise也为本期听众准备了三个5折优惠码。针对本期在小宇宙与我们互动的精选回复，欢迎大家踊跃来玩。
+</p>
+<p class="transcript-line">
+<span class="time"><strong>[00:00:46]</strong> </span>
+<span class="speaker"><strong>发言人1: </strong></span>
+好的，那开始我们本期的节目。不知道大家有没有下班后小酌一杯的爱好之前我家里夏天会时不时采购一些啤酒，但说实话就主流的我们国内，不管是喝啤酒还喝白酒，我自己觉得口感其实都不好，一个苦一个辣。如果说你想要微醺的话，还是得付出一些小的代价。那在家放松的话，其实除了喝些这个，还能不能喝点别的？为此我今天特别邀请到调酒笔记APP的阿月，然后让他来跟我们分享一下在家调酒的乐趣和入门的方法，当然还有他创造这款使用APP的故事。欢迎阿月来我们节目阿月能不能先给大家介绍一下你自己，还有你的产品调酒笔记。
+</p>
+<p class="transcript-line">
+<span class="time"><strong>[00:01:27]</strong> </span>
+<span class="speaker"><strong>发言人2: </strong></span>
+Hello大家好，我叫阿月。我是一个00后的程序员，同时也是一个酒精爱好者，通过一些途径接触触到了鸡尾酒，然后成为了个调酒的爱好者。我喝过很多的酒吧，然后也自己动手调制过很多的鸡尾酒。机缘巧合下就做了这个百度笔记这个APP。我们这个APP它提供了一些配方，有可能是很经典的配方。比如IBA的配方，然后里面会有很多很多的经典的鸡尾酒配方，还有一些便利店的配方，让你只需要进入到便利店里面，你就可以享受到一个调酒的一个乐趣。
+</p>
+<p class="transcript-line">
+<span class="time"><strong>[00:02:08]</strong> </span>
+<span class="speaker"><strong>发言人1: </strong></span>
+OK相当于你这个调酒笔记是个百科全书，是吧？我想喝什么酒我就去上面翻一下。
+</p>
+<p class="transcript-line">
+<span class="time"><strong>[00:02:14]</strong> </span>
+<span class="speaker"><strong>发言人2: </strong></span>
+可以说是一个百科全书。但我觉得更像是一把螺丝刀，它是一个工具，平时没用的时候它就在一边。对，然后等你微获得微醺的感觉的时候，他可能会给你提供不小的帮助。对。
+</p>
+<p class="transcript-line">
+<span class="time"><strong>[00:02:29]</strong> </span>
+<span class="speaker"><strong>发言人1: </strong></span>
+了解我想先理清一个概念，就是因为我们讲调酒，或者说你的这个产品叫调酒笔记。那调酒跟我们平时听到的这个鸡尾酒，他们是等同关系吗？
+</p>
+<p class="transcript-line">
+<span class="time"><strong>[00:02:43]</strong> </span>
+<span class="speaker"><strong>发言人2: </strong></span>
+不严谨的的情况下，就从我们爱好者的角度出发，他们确实是一个可以说是一个等同的一个概念，就是调酒，就是调制鸡尾酒。就比如在我们我是一个写前端的，我们用我用的编程语言是javascript后，里面有双等号，有三等号。就不严谨的情况下，他们可以画双等号，但不能画三等号。
+</p>
+<p class="transcript-line">
+<span class="time"><strong>[00:03:06]</strong> </span>
+<span class="speaker"><strong>发言人2: </strong></span>
+因为我们的精酿啤酒，它其实也算是调酒的一种。对它可能会有各种风味的精酿。对，但精酿不能算是鸡尾酒。调酒就包括了精酿跟鸡尾酒，可能还有其他的OK。
+</p>
+<p class="transcript-line">
+<span class="time"><strong>[00:03:21]</strong> </span>
+<span class="speaker"><strong>发言人1: </strong></span>
+那你能不能跟我们分享一下，你是怎么对调酒产生兴趣的。因为我们一般情况下接触调酒，我估计十有八九的人可能都是在酒吧里面。对，但是我其实不太常去酒吧，或者说我去酒吧可能也只喝精酿。我就想问一下你，你是怎么对调酒产生兴趣的？
+</p>
+<p class="transcript-line">
+<span class="time"><strong>[00:03:38]</strong> </span>
+<span class="speaker"><strong>发言人2: </strong></span>
+首先我自己也比较也是一个比较爱喝酒的人，但之前也是跟settle一样，我们喝的就是啤酒比较多。对，然后到了大学之后，身边有几个朋友他好像是有一点痛风，然后他们喝不了啤酒。对，他们是对，他们是遗传的。然后后面我就觉得说那白酒，对，白酒其实就有点苦，有点辣，不太好入口。对，然后就慢慢的接触到了调酒，后面就慢慢的去那个基酒酒吧喝。什么威士忌酸、金汤力、莫吉托、长岛冰茶、尼格罗尼，这些经典的鸡尾酒就基本都被我喝了个遍。
+</p>
+<p class="transcript-line">
+<span class="time"><strong>[00:04:20]</strong> </span>
+<span class="speaker"><strong>发言人2: </strong></span>
+但由于在大学的时候我是学生，鸡尾酒在国内还是很贵的，一杯可能就68、78、88，更贵的还有108这一些。然后就慢慢自己尝试说去小红书或者说其他的平台搜索一些配方。然后后面发现其实不是很难做。
+</p>
+<p class="transcript-line">
+<span class="time"><strong>[00:04:43]</strong> </span>
+<span class="speaker"><strong>发言人2: </strong></span>
+之后就到大学毕业之后了，我第一份工作的是跟我姐姐一起住的。我姐姐也爱喝酒，女孩子就鸡尾酒它是一个比较好出片的一个酒，就是拉他一起入坑玩家庭调调酒了。然后巅峰的时候我们家甚至有二十多瓶不一样的酒，各种颜色。
+</p>
+<p class="transcript-line">
+<span class="time"><strong>[00:05:09]</strong> </span>
+<span class="speaker"><strong>发言人1: </strong></span>
+对我还真的不知道，因为我自己没有在酒吧里面点过这些什么莫吉托、金汤力等等这些东西。我还没真的不知道说一杯这样的酒在酒吧里面要这么贵，其实它的成本没有那么多钱。你自己如果在家调的话，其实价差应该挺大的。
+</p>
+<p class="transcript-line">
+<span class="time"><strong>[00:05:24]</strong> </span>
+<span class="speaker"><strong>发言人2: </strong></span>
+对，鸡尾酒如果按我们这种成本价去算的话，它确实很贵。但是还我们还要考虑到一般机会酒吧都装修什么的都挺好，都非常好看。对，非常有氛围感。
+</p>
+<p class="transcript-line">
+<span class="time"><strong>[00:05:37]</strong> </span>
+<span class="speaker"><strong>发言人2: </strong></span>
+自己买的话成本是非常低的，就比如我们一般用的基酒比较好的，就酒吧用的基酒。一般我们自己买可能一瓶就100元以内就可以解决了。然后一瓶是750毫升。我们做一杯酒的话，大概就是用到45到60毫升左右。然后加上一些莫吉托，加上一些薄荷、冰块，然后还有一些其他的装饰什么的。其实一杯酒的成本是非常低的。
+</p>
+<p class="transcript-line">
+<span class="time"><strong>[00:06:09]</strong> </span>
+<span class="speaker"><strong>发言人1: </strong></span>
+算一下假如说一百多块钱的话，你到个不到10分之1，对吗？不到20块钱可能就解决了那边68的成本，对吧？
+</p>
+<p class="transcript-line">
+<span class="time"><strong>[00:06:19]</strong> </span>
+<span class="speaker"><strong>发言人2: </strong></span>
+对对对，可能说是因为鸡尾酒在那还不是很普及，对，所以喝的人比较少，所以客单价会比较高。
+</p>
+<p class="transcript-line">
+<span class="time"><strong>[00:06:29]</strong> </span>
+<span class="speaker"><strong>发言人1: </strong></span>
+对对对，是有时候总觉得说好像去酒吧里面点鸡尾酒，感觉女孩子喝的会比较多一些。我不确定，我不知道你是不是也有这样的观察。
+</p>
+<p class="transcript-line">
+<span class="time"><strong>[00:06:38]</strong> </span>
+<span class="speaker"><strong>发言人2: </strong></span>
+我观察的情况下应该都一半一半，但女孩子去去喝的话会拍很多很多的照片。对，因为鸡尾酒非常出片。
+</p>
+<p class="transcript-line">
+<span class="time"><strong>[00:06:49]</strong> </span>
+<span class="speaker"><strong>发言人1: </strong></span>
+对对对，可能是我自己的这种观察，就是可能看到了很多人在小红书或者在哪里发的这些鸡尾酒的片子，可能都是女孩子拍的，所以我觉得女孩子喝的比较多。对对对，OK我自己是这样的，就是我有一次在我们街道上面，在散步，就是我一个邻居突然在街上拦住我，他说你过来试试这个，他就给我现场拿了一瓶金酒，然后还有一个汤力水叫tonic的一个水，然后在里边泡了一个黄瓜给我。对，然后我就喝了一口。我觉得这个酒还挺好喝的，就很清爽。其实喝下去的感觉有点像气泡水，它没什么酒味儿。对，但是过了一会儿，可能过了大概20分钟半个小时，然后你就会觉得说有一点微醺的感觉。对，然后我当下我就觉得说这个酒还挺好喝的。他当时给我倒了这杯酒的时候，他给我看了一下说你如果你想复刻的话，你就去买这个酒。
+</p>
+<p class="transcript-line">
+<span class="time"><strong>[00:07:44]</strong> </span>
+<span class="speaker"><strong>发言人1: </strong></span>
+对，后来我才去查了一下网上，我才知道说，原来他给我做了一杯叫金汤力，就是劲酒加tonic的水对吧？然后里边不管加柠檬也好，加黄瓜也好，对吧？但是后来我自己觉得说，我觉得这个还真的挺好喝的。然后我就跟我老婆两个人去当地的这些卖酒的这个商店里面去买。
+</p>
+<p class="transcript-line">
+<span class="time"><strong>[00:08:03]</strong> </span>
+<span class="speaker"><strong>发言人1: </strong></span>
+对，但是我到商店里面去之后，我才发现其实商店里面有非常多种的酒。它跟我们国内的这种酒的商店是完全不一样的。因为国内的酒的商店，要不然你卖啤酒，要不然你卖白酒，而且很多卖酒的商店里面卖白酒的会比较多。然后再就是很多很多各种各样的啤酒，尤其是什么比利时、德国进口的各种各样的啤酒，对吧？但是其实我们卖这种金酒，然后什么龙舌兰，什么伏特加等等，这些酒其实很少。
+</p>
+<p class="transcript-line">
+<span class="time"><strong>[00:08:30]</strong> </span>
+<span class="speaker"><strong>发言人1: </strong></span>
+对，但是在国外的这些卖酒的这些商店里面，我会发现说他有很大的一批里面，他会告诉你说这一排全部都是伏特加，这一排全部都是獭K了，然后这一排全部都是劲酒等等一系列的。他会他他有很多很多这种乱七八糟的东西。对，然后我就产生兴趣了，我觉得他给我倒了一杯他做的金汤力的酒。对，里边其实还有很多什么taki a voda等等之类的。
+</p>
+<p class="transcript-line">
+<span class="time"><strong>[00:08:54]</strong> </span>
+<span class="speaker"><strong>发言人1: </strong></span>
+我相信那些酒肯定也有别的调制的方法，只不过我们不知道我们以前喝酒，从我们自身出发喝酒，其实我们的逻辑就是这个酒就是倒出来直接喝的，其实我们不知道它需要调的。所以我们发现说很多国外的很多酒，你觉得说它不好喝，其实你可能你不会调，对吧？所以说你能不能给我们介绍一下，就是一般你做调酒的话，会有哪些基酒是可以调的，是不是我刚才讲的那些什么voda，什么tequila进等等，这些酒其实都是鸡尾酒的范围，然后一般就是大家会用什么酒去调？
+</p>
+<p class="transcript-line">
+<span class="time"><strong>[00:09:28]</strong> </span>
+<span class="speaker"><strong>发言人2: </strong></span>
+刚你刚刚说的这一种，其实它算是一个基酒，对它是一个基酒的一个很重要的一个组成部分。然后我们一般有六六大基酒，你看六大基酒。对，金酒、伏特加、龙舌兰、就是提拉威士忌，还有一个朗姆，一个朗姆酒，然后还有一个白兰地。对，这些基酒都是可以去调制鸡尾酒的，而且也非常简单。对，他们不算是鸡尾酒，算是鸡尾酒的一个原材料，一般我们调酒会用到这些。
+</p>
+<p class="transcript-line">
+<span class="time"><strong>[00:10:00]</strong> </span>
+<span class="speaker"><strong>发言人2: </strong></span>
+啤酒之外还会用到一些利口酒，它算是有风味的。比如说军杜军度，它就是一个有陈皮风味的一个的一款酒。然后它会带一点点甜，然后有一点点陈皮的风味。有一款经典鸡尾酒叫边车，它就是用白兰地，然后还有军度，然后再用一个柠檬进行一个尧禾。对，相传说这杯酒是第一杯鸡尾酒。
+</p>
+<p class="transcript-line">
+<span class="time"><strong>[00:10:27]</strong> </span>
+<span class="speaker"><strong>发言人1: </strong></span>
+对，OK利口酒。
+</p>
+<p class="transcript-line">
+<span class="time"><strong>[00:10:29]</strong> </span>
+<span class="speaker"><strong>发言人2: </strong></span>
+会有很多很多的风味，像是小红书上很流行的一个蓝橙利口酒。对，然后它做出来就会非常的好看，它会有一个蓝色的利口酒，有很多很多颜色的。绿薄荷利口酒，紫罗兰它就是紫色的，然后蓝橙就是我刚刚说的，它就是蓝色的，他们都会有不一样的风味。对它指的就是一个基酒，然后通过或者蒸馏的方式做成一个甜味的酒。可能是草本的风味，一些水果的风味，或者说融合一些花香的风味。
+</p>
+<p class="transcript-line">
+<span class="time"><strong>[00:11:11]</strong> </span>
+<span class="speaker"><strong>发言人1: </strong></span>
+OK对。
+</p>
+<p class="transcript-line">
+<span class="time"><strong>[00:11:13]</strong> </span>
+<span class="speaker"><strong>发言人2: </strong></span>
+还有一个百利甜，百利甜它就是奶油风味，它非常的多样性，它就是为给我们一杯这杯鸡尾酒提供更好的一个风味。对。
+</p>
+<p class="transcript-line">
+<span class="time"><strong>[00:11:23]</strong> </span>
+<span class="speaker"><strong>发言人1: </strong></span>
+OK了解，你能不能给我们介绍一下？因为我们知道说啤酒是用小麦酿的，我们的白酒其实是五谷杂粮，对吧？就像类似于这些金9伏特加、威士忌、塔克拉等等这些东西，这些玩意儿是它跟我们的白酒有什么区别吗？它不是用这种五谷杂粮酿的吗？
+</p>
+<p class="transcript-line">
+<span class="time"><strong>[00:11:45]</strong> </span>
+<span class="speaker"><strong>发言人2: </strong></span>
+我们就说金酒吧金酒，它又可能又会被称为杜松子酒。对它也是一种以谷粮谷粮为原料，然后经过糖化发酵，然后蒸馏得到的一个基酒，然后再加上杜松子去进行一个浸泡或者串香，各种各样的一个工艺，然后所得的一个白色的一个烈酒。然后朗姆的话它就不是由谷物制作了，它是由甘蔗制作而成的一款蒸馏酒。对，然后他提拉它就是以一个龙舌兰植物来做的一个酒。对，就基本都是原料不太一样。对，但可能工艺可能会有有点相似。
+</p>
+<p class="transcript-line">
+<span class="time"><strong>[00:12:29]</strong> </span>
+<span class="speaker"><strong>发言人1: </strong></span>
+我们刚才讲了有6种所谓基酒，对吧？然后刚才有讲了说在基酒里面可以再兑一些利口酒。然后除了这些之外，调酒的话还需要去搭配一些什么东西吗？比如说你刚才有讲说橙汁，能不能给我们介绍一下，还有什么别的搭配方式？
+</p>
+<p class="transcript-line">
+<span class="time"><strong>[00:12:44]</strong> </span>
+<span class="speaker"><strong>发言人2: </strong></span>
+最简单的我们可能有一个结构，就一款基酒，然后加上一些酸，比如柠檬、青柠，或者说加上一点甜糖浆、蜂蜜，最后再补上一点，比如说气泡水，然后汤力水这一些，甚至橙汁、鸡肉汁、葡萄汁这些都可以。最简单的就比如我们举一个海报结构的，金汤力，金汤力它就是一个海报结，它是金酒，它的基酒是金酒，然后加上一个酸柠檬，然后再加上一个汤力水，那它就是一杯鸡尾酒，它是一杯嗨爆结果的鸡尾酒。还有一个自由古巴，自由古巴它是由朗姆还有加上可乐，对吧？这已经很很简单了。你只要买一瓶可乐，买个冰杯，倒上一点朗姆，倒上一点可乐，OK你的自由古巴的鸡尾酒就已经做好了。
+</p>
+<p class="transcript-line">
+<span class="time"><strong>[00:13:41]</strong> </span>
+<span class="speaker"><strong>发言人2: </strong></span>
+还有刚刚提到的伏特加，伏特加有一款很经典的调酒，就是螺丝起子，它就是由伏特加加上橙汁。对你如果不喜欢喝橙汁的话，你也可以加入你任何你喜欢的果汁，葡萄汁、西柚汁、西瓜汁。对，调节就是这么简单。
+</p>
+<p class="transcript-line">
+<span class="time"><strong>[00:13:59]</strong> </span>
+<span class="speaker"><strong>发言人1: </strong></span>
+现在一讲我立马可能就记住几个。比如说自由古巴，我就去买一个朗姆酒，然后倒点可乐就行了对吧？然后刚才讲的这个螺丝起子，我就用伏特加里面加点橙汁对吧？对，就是如此的简单。对，嗯，然后他就会很好喝是吗？因为毕竟他都有名字了，对吧？他肯定不难喝，对吧？
+</p>
+<p class="transcript-line">
+<span class="time"><strong>[00:14:19]</strong> </span>
+<span class="speaker"><strong>发言人2: </strong></span>
+说到这个螺丝起子，它其实有一个很有趣的一个来源。它就是以前禁酒令的时候，禁酒令的时期就不让喝酒，然后工人们就偷偷把伏特加带到到工地之类的，然后就偷偷加上伏特加，伏特加他是无色无味的。对，然后就怼到那个城市里面，然后拿起他们的螺丝刀叫叫，这就是这杯这这杯酒的一个起源，所以它叫螺丝棋子。对。
+</p>
+<p class="transcript-line">
+<span class="time"><strong>[00:14:51]</strong> </span>
+<span class="speaker"><strong>发言人1: </strong></span>
+OK. 我觉得你刚才讲的这些名字，比如说自由古巴，比如说罗斯奇斯，他们都有名字，对吧？然后我们还知道有一些很知名的这些鸡尾酒，比如说周杰伦那首歌莫吉托对吧，还有什么血腥玛丽，什么marti等等这些酒。我就感觉说其实你到酒吧里面去，你告诉他说我就要抹黑头，我就要血腥玛丽等等这些酒其实巴特的都会直接给你做，对吧？他们肯定都知道。对，然后我就想问一下，我怎么知道有哪些酒可以点？
+</p>
+<p class="transcript-line">
+<span class="time"><strong>[00:15:21]</strong> </span>
+<span class="speaker"><strong>发言人2: </strong></span>
+第一点的话，你如果是第一次去，你是一个完完全全的小白。那你就看酒单，他可能会有一些经典鸡尾酒。经典鸡尾酒相当于是一个可能是从上世纪或者说几十年前、几百年前，可能鸡尾酒出现的时候，他们就已经就有的了。对，这些就相当于很多but tender他们需要学习的一些案例，然后每家店都会有他们不一样的特调，特调就是他们定的but tender他们研究的一些等独特的风味的一些调酒经典鸡尾酒。就比如你刚刚说的mokete、血腥玛、马提尼、金汤力、海报、威士忌酸，这些都算是经典调酒。
+</p>
+<p class="transcript-line">
+<span class="time"><strong>[00:16:07]</strong> </span>
+<span class="speaker"><strong>发言人2: </strong></span>
+具体可以到我的开始笔记上面看IBA。对，IBA上面的就基本都是经典鸡尾酒。你只要说出来八天的，他们就会IBA它是一个鸡尾酒的一个世界的鸡尾酒公益组织。对他会通过年限去进行一个分类，可能鸡尾酒在哪一哪一段时年限出现的。
+</p>
+<p class="transcript-line">
+<span class="time"><strong>[00:16:31]</strong> </span>
+<span class="speaker"><strong>发言人2: </strong></span>
+一开始最经典的鸡尾酒，他们的配料原料配方都是非常简单的。因为以前的工艺复杂，就是比较落后。然后到近代的话就会有一些比较好的工艺，去处理一些比较新的一些原材料出来来做鸡尾酒OK。
+</p>
+<p class="transcript-line">
+<span class="time"><strong>[00:16:48]</strong> </span>
+<span class="speaker"><strong>发言人1: </strong></span>
+假如我现在我还不知道，然后我要去酒吧，可能请一个兄弟一起去喝酒，我要装作我经常去的样子，我要怎么点酒能让大家感觉到这个兄弟是什么都懂的对吧？
+</p>
+<p class="transcript-line">
+<span class="time"><strong>[00:17:05]</strong> </span>
+<span class="speaker"><strong>发言人2: </strong></span>
+其实你不用装，因为如果你是一个小白，你很容易露馅的，还不如争取一点是吧？对你可能会很容易露馅。对，然后其实跟真心换真心，调酒师如果觉得你很有趣，他会可能会给你奖励一个shot。
+</p>
+<p class="transcript-line">
+<span class="time"><strong>[00:17:25]</strong> </span>
+<span class="speaker"><strong>发言人1: </strong></span>
+OK就是一个。
+</p>
+<p class="transcript-line">
+<span class="time"><strong>[00:17:27]</strong> </span>
+<span class="speaker"><strong>发言人2: </strong></span>
+小小杯的一个一个小杯，然后给你倒上一个sap这是调酒师他们表达友好的一个方式。
+</p>
+<p class="transcript-line">
+<span class="time"><strong>[00:17:38]</strong> </span>
+<span class="speaker"><strong>发言人1: </strong></span>
+对。
+</p>
+<p class="transcript-line">
+<span class="time"><strong>[00:17:38]</strong> </span>
+<span class="speaker"><strong>发言人2: </strong></span>
+OK对于如果是第一次去酒吧的话，我有下面的建议，就是不要再去为难调酒师了，不要让他们给你算命了。然后看你是说你是什么星座的，然后性格怎么样，然后根据这些去让调酒师给你调制一杯酒。这已经超出调酒师的一个业务范围了，他们哪里会算命，对吧？然后有一个比较正确的一个碘酒的一个方式。假如你不知道点什么，对，你可以跟调酒师说，我喜欢喝甜的对，然后我可能会喜欢一些草本的风味，但是我的酒量比较差。但是我又有一想获得一点微醺的感觉，让调酒师了解你喜爱的风味，然后他自然就会推荐给你，你大概率会喜欢的一款鸡尾酒。
+</p>
+<p class="transcript-line">
+<span class="time"><strong>[00:18:33]</strong> </span>
+<span class="speaker"><strong>发言人1: </strong></span>
+对，OK. 假如你自己搞来搞去，你说我酒量差，然后微醺要甜的，结果调酒师给你来了一杯，但那一杯你不喜欢怎么办？
+</p>
+<p class="transcript-line">
+<span class="time"><strong>[00:18:43]</strong> </span>
+<span class="speaker"><strong>发言人2: </strong></span>
+你可以及时沟通，如果实在不喜欢的话，可以反馈一下，在吧台不忙的情况下，很多调酒师都会很乐意给你换换一杯的。
+</p>
+<p class="transcript-line">
+<span class="time"><strong>[00:18:53]</strong> </span>
+<span class="speaker"><strong>发言人1: </strong></span>
+OK了解，我们经常在不管是在酒吧也好，在电视什么各个地方有戏，对吧？里边都会看到butner他去做鸡尾酒的时候，倒来倒去摇来摇去，shake来shake去，各种各样的姿势。对我就想问一下，如果要做鸡尾酒的话，有没有什么是必备的工具？因为我们刚才讲了说有鸡酒，有利口酒，然后有这些比如橙汁等等这些东西的，有配料，对吧？那工具的话有没有什么是必备的？
+</p>
+<p class="transcript-line">
+<span class="time"><strong>[00:19:24]</strong> </span>
+<span class="speaker"><strong>发言人2: </strong></span>
+工具的话我觉得必备的是一个量杯，一个量杯是最重要的。OK不能说我大概就到这么多，然后等一下你可能就会突然晕倒。
+</p>
+<p class="transcript-line">
+<span class="time"><strong>[00:19:39]</strong> </span>
+<span class="speaker"><strong>发言人1: </strong></span>
+OK了解。对，然后。
+</p>
+<p class="transcript-line">
+<span class="time"><strong>[00:19:41]</strong> </span>
+<span class="speaker"><strong>发言人2: </strong></span>
+还有一个是冰块，冰块也是非常重要的一环。然后如果是小冰块的话，你做鸡尾酒的话，它如果那个小冰块融化水化得非常快，那你这杯酒就会被很这这些融化的很快的冰小冰块给毁了。还有一个就是我们自己喝的话，我们我建议是尽可能的用一些新鲜的水果材料。比如说柠檬，我们就用新鲜的柠檬去做柠檬汁，然后不要贪嫌麻烦去买一些预制好的一些柠檬汁，它会对一杯酒产生非常大的影响。如果是用具的话，两倍数就是最重要的。其他的比如你要做sa类的，就是威士忌酸这一类的那你就可能还需要一个瑶湖。
+</p>
+<p class="transcript-line">
+<span class="time"><strong>[00:20:32]</strong> </span>
+<span class="speaker"><strong>发言人1: </strong></span>
+就是我用手盖在那个杯子上面摇一摇是不是可以？
+</p>
+<p class="transcript-line">
+<span class="time"><strong>[00:20:36]</strong> </span>
+<span class="speaker"><strong>发言人2: </strong></span>
+对，也也是可以的，也也是可以的，也是可以的。
+</p>
+<p class="transcript-line">
+<span class="time"><strong>[00:20:39]</strong> </span>
+<span class="speaker"><strong>发言人3: </strong></span>
+但是我拿螺丝刀搅一搅，其实也是可以的。
+</p>
+<p class="transcript-line">
+<span class="time"><strong>[00:20:41]</strong> </span>
+<span class="speaker"><strong>发言人2: </strong></span>
+是不是用螺丝刀那这种就得分九型了。就比如说我刚刚说的那种开爆结构的那就是确实用你用个杯子，然后拿个拿拿个螺拿个螺丝刀，拿个筷子搅一搅，那这杯酒就完成了。然后像一些少儿类的，就是酸类的酒，它有机酒，然后有柠檬，还有可能会加一些甜。那你就需要用一个剧烈的摇晃来来让他们这三个风味给它融合到一起，让他的让这杯酒更加的平的风味更加平衡。OK甚至拿一个水瓶对你的保温壶加上几块冰，把材料倒进去，然后使劲摇摇完倒出来就可以了。OK.
+</p>
+<p class="transcript-line">
+<span class="time"><strong>[00:21:27]</strong> </span>
+<span class="speaker"><strong>发言人1: </strong></span>
+你刚才讲的这种是摇的，对吧？他一定要摇的。我们之前就是我们印象中的那种鸡尾酒，就是大众印象中的鸡尾酒是分层的，分层的那种鸡尾酒是不能摇的，是吗？
+</p>
+<p class="transcript-line">
+<span class="time"><strong>[00:21:40]</strong> </span>
+<span class="speaker"><strong>发言人2: </strong></span>
+对，分层是为了出片。因为看到一杯每一杯分层的酒，他拍完照片也是要搅拌均匀才能喝的。OK因为你分层就是因为它的密度不一样，对吧？那可能你正常的你的气泡水它的密度比较小，然后你的糖浆密度比较大，所以它会沉到下面，所以分成了。那你总不能说我就这样喝喝到最后全部都是糖浆。
+</p>
+<p class="transcript-line">
+<span class="time"><strong>[00:22:11]</strong> </span>
+<span class="speaker"><strong>发言人1: </strong></span>
+是是是，对，你刚才就讲说冰块很重要，对吧？然后我们冰块的话，我们自己家庭的话，自己拿那个冰格去做，那个冰很容易就化掉了，对吧？然后我们去看日本的那些电视节目也好，日本的那些but tender大家就拿一个老兵对吗？他们讲老兵然后拿一个刀子在那里咯咯咯咯咯，然后放到whisky里边吧？那我们怎么去弄一个那样的冰出来呢？
+</p>
+<p class="transcript-line">
+<span class="time"><strong>[00:22:39]</strong> </span>
+<span class="speaker"><strong>发言人2: </strong></span>
+有一个最快速的方式到便利店买便利。便利店这几年因为便利店调酒非常的的火，然后其实便利店他们相应也提供了一些比较大的冰块。对，你可以到里面去买那种冰块就非常好用。但如果你要自己在家里冻的话，你可以买大一点的模具，然后用煮完的开水，就是凉白开去动，它的气泡就会少一点。那你就比较有可能获得一块比较透明比较好看的的冰。
+</p>
+<p class="transcript-line">
+<span class="time"><strong>[00:23:16]</strong> </span>
+<span class="speaker"><strong>发言人1: </strong></span>
+OK。所以说他们的那些老兵为什么能感觉不容易化？是因为它其实是是煮开过的对吧？
+</p>
+<p class="transcript-line">
+<span class="time"><strong>[00:23:25]</strong> </span>
+<span class="speaker"><strong>发言人2: </strong></span>
+对，然后他们也动了很久，他们确实是。
+</p>
+<p class="transcript-line">
+<span class="time"><strong>[00:23:28]</strong> </span>
+<span class="speaker"><strong>发言人1: </strong></span>
+老兵OK，了解。对你刚才有讲说最近便利店调酒这件事儿比较火。我就想问一下，因为我看你的产品里面其实也有便利店调酒这个东西。我想问一下，在现在的便利店里边，我能比较方便的获取到什么样的原材料，然后能调出什么样的酒？
+</p>
+<p class="transcript-line">
+<span class="time"><strong>[00:23:49]</strong> </span>
+<span class="speaker"><strong>发言人2: </strong></span>
+现在其实便利店调酒，就是说我们在深圳对我楼下的全家便利店，它基本什么样的基酒它都有了。然后它会是一个小的酒板，它可能就50毫升。对它就50毫升，然后你可以买买一个冰杯，然后把小酒板里面的酒倒进去，可能是朗姆酒。对你把朗姆酒倒进去，再买一罐可乐倒进去，倒进冰杯里面，这样你就获得了一杯自由。
+</p>
+<p class="transcript-line">
+<span class="time"><strong>[00:24:18]</strong> </span>
+<span class="speaker"><strong>发言人1: </strong></span>
+古巴我只要买一点朗姆酒，然后再买一杯可乐，对吧？倒在冰杯里我就已经调好一杯了，对，所以说我感觉便利店调酒还挺方便的。比如说我们自己平时互联网从业者，每天下班估计都十点以后了？然后到楼下的全家便利店7 eleven？买一点这样的东西，走到家里可能就喝完了？然后该睡觉睡觉，该干嘛干嘛。对，确实挺方便的。
+</p>
+<p class="transcript-line">
+<span class="time"><strong>[00:24:43]</strong> </span>
+<span class="speaker"><strong>发言人2: </strong></span>
+对，这样非常舒服。对，而且大概率也会是你喜欢喝的。你喜欢喝橙汁，那就买个伏特加。对，你喜欢有一颗一点点草本的感觉，那你就买个金酒，然后兑点金汤力或者对。倒水也都是可以的。
+</p>
+<p class="transcript-line">
+<span class="time"><strong>[00:25:03]</strong> </span>
+<span class="speaker"><strong>发言人1: </strong></span>
+那如果我们在家里边去调的话，是不是就刚才讲的那些工具的话，你会建议我们在家里调的话会配什么样的工具？然后比如说基酒的话，你会建议我们每种机啤酒都来一点，还是说看自己的喜好等等之类的。
+</p>
+<p class="transcript-line">
+<span class="time"><strong>[00:25:17]</strong> </span>
+<span class="speaker"><strong>发言人2: </strong></span>
+家里的话我的建议是你可以先买一瓶。第一瓶基酒你可以选择是金酒，因为金酒可以做的鸡尾酒类非常的多。然后后面你可以买伏特加、买朗姆酒、买威士忌。对，这四款酒是我比较推荐的。酒具的话可以买一个量杯，一个搅拌棒，一个瑶湖。对，这就足够了。大概只有三个材料，最重要的还是你的冰块OK了解。
+</p>
+<p class="transcript-line">
+<span class="time"><strong>[00:25:51]</strong> </span>
+<span class="speaker"><strong>发言人1: </strong></span>
+对你刚才讲说一个小的一个量杯对吧？然后再一个瑶湖，因为量杯的话，其实什么样的量杯都可可以吗？只要它有刻度就可以，对吧？然后对我想问一下你刚才讲的这个瑶湖，瑶湖是有专业的这种酒吧的瑶湖，还是说你的建议是什么样的摇壶就可以？
+</p>
+<p class="transcript-line">
+<span class="time"><strong>[00:26:12]</strong> </span>
+<span class="speaker"><strong>发言人2: </strong></span>
+我的建议是瑶湖的话基本有个样就是可以了，它是个瑶湖就可以用了。
+</p>
+<p class="transcript-line">
+<span class="time"><strong>[00:26:20]</strong> </span>
+<span class="speaker"><strong>发言人1: </strong></span>
+OK就是自己的保温杯也可以摇。
+</p>
+<p class="transcript-line">
+<span class="time"><strong>[00:26:22]</strong> </span>
+<span class="speaker"><strong>发言人2: </strong></span>
+对吗？保温杯也是可以摇的。
+</p>
+<p class="transcript-line">
+<span class="time"><strong>[00:26:25]</strong> </span>
+<span class="speaker"><strong>发言人1: </strong></span>
+OK了解。
+</p>
+<p class="transcript-line">
+<span class="time"><strong>[00:26:26]</strong> </span>
+<span class="speaker"><strong>发言人3: </strong></span>
+但我感觉这种东西就会变成一个玩具，但你就是得如果你真的玩上了，你就会去找各种各样，他可能不实用，但是它好看或者怎么样的东西来，对吧？
+</p>
+<p class="transcript-line">
+<span class="time"><strong>[00:26:37]</strong> </span>
+<span class="speaker"><strong>发言人2: </strong></span>
+对我认识很多调酒师，他们把这些当成是他们的一些军备竞赛。他们军我在群群里的话，他如果发了一个很好看的调酒壶，对，一个瑶湖，那其他人就会陆陆续续的把他们的调酒壶也发上来，然后给让让大家去羡慕。
+</p>
+<p class="transcript-line">
+<span class="time"><strong>[00:26:59]</strong> </span>
+<span class="speaker"><strong>发言人1: </strong></span>
+我想问一下他们的调酒壶，就你刚才讲的他们那种军备竞赛的调酒壶，你有见到过最夸张的调酒壶大概多少钱？
+</p>
+<p class="transcript-line">
+<span class="time"><strong>[00:27:07]</strong> </span>
+<span class="speaker"><strong>发言人2: </strong></span>
+最夸张的调酒壶它可能是就是birdy。Birdy它是一个日本的一个做做这种酒壶很久很久，它可能一个壶都要1000来块，一千多块钱。其实这种对对对对，这种他们其实是不care的，他们喜欢的是那种限量的，买不到的，可能上面有有很多很多不一样的风格，比如说印一些小花，印一些图腾之类的对，他们可能追求的是一个独一无二，我有你没有，但body的话每个人花钱就可以买到。
+</p>
+<p class="transcript-line">
+<span class="time"><strong>[00:27:46]</strong> </span>
+<span class="speaker"><strong>发言人1: </strong></span>
+OK了解，所以还是要有那种定制专属的感觉，对吧？对。
+</p>
+<p class="transcript-line">
+<span class="time"><strong>[00:27:50]</strong> </span>
+<span class="speaker"><strong>发言人3: </strong></span>
+就感觉什么圈子都是这样的，小圈子里面都全都是这种有个什么小东西，然后我是限量的，反正圈子也没有什么代餐，大家就哐哐买。
+</p>
+<p class="transcript-line">
+<span class="time"><strong>[00:28:03]</strong> </span>
+<span class="speaker"><strong>发言人2: </strong></span>
+对对对。
+</p>
+<p class="transcript-line">
+<span class="time"><strong>[00:28:04]</strong> </span>
+<span class="speaker"><strong>发言人1: </strong></span>
+那那我们再回到你的这个产品，就是调酒笔记的这个产品，然后我自己也下载了，然后我看了一下，就是我觉得我照你的那个上面的那些配方等等，就是你的那些产品介绍，我就感觉我可以很轻松很容易的去找到很多可以调的酒。对，然后你能不能跟我分享一下，你当初是怎么想去做这个产品的？
+</p>
+<p class="transcript-line">
+<span class="time"><strong>[00:28:24]</strong> </span>
+<span class="speaker"><strong>发言人2: </strong></span>
+首先还是出于我个人的爱好，我喜欢喝酒，然后我乐意去调这些酒。但每一次我都要。虽然我看了很多书，但我每次想调制一杯酒，我还是得去社交平台上，小红书上面去搜索，去找一找不一样的一些配方。我姐姐也是这样，我姐姐就是看那种分层的酒，对，就刚刚说的分成的酒。然后他就要照着配方一点点调。然后每次可能都要在我们的桌我们坐久的那个桌子前面站个15分钟，才开始动手去调制。我觉得这是一个很长的一个时间成本。如果提前把冰拿出来，冰都可能快化完了，所以我就想缩短这一个茶的一个时间。
+</p>
+<p class="transcript-line">
+<span class="time"><strong>[00:29:12]</strong> </span>
+<span class="speaker"><strong>发言人2: </strong></span>
+给更多的爱好者们提供一个信息聚合的一个工具。让找配方这件事变得更快更简单的同时，也更加的一个有一个专业性。对，因为其实小红书上它很多配方都是乱来的。
+</p>
+<p class="transcript-line">
+<span class="time"><strong>[00:29:34]</strong> </span>
+<span class="speaker"><strong>发言人1: </strong></span>
+OK就是相当于说你你你可以把它当成一份类似于官方的专业的调酒的配方，对吧？然后你到我这里来，他一定他调酒的方式就是对的，是吗？
+</p>
+<p class="transcript-line">
+<span class="time"><strong>[00:29:48]</strong> </span>
+<span class="speaker"><strong>发言人2: </strong></span>
+不能这么说是专业的，但是不会错的太离谱。对。
+</p>
+<p class="transcript-line">
+<span class="time"><strong>[00:29:52]</strong> </span>
+<span class="speaker"><strong>发言人1: </strong></span>
+OK, 对，对你刚才有讲说小红书，对吧？你自己其实之前在没做APP之前，其实你可能去查这些酒干嘛的，可能都是去小红书上查的。然后我看你自己做这个调节笔记的APP，然后你在小红书上的粉丝还做的运营还做的挺好的。对，能不能给我们介绍一下你当时是怎么做这个产品推广的？
+</p>
+<p class="transcript-line">
+<span class="time"><strong>[00:30:12]</strong> </span>
+<span class="speaker"><strong>发言人2: </strong></span>
+产品推广的话，我其实没有产品的时候，我就在。
+</p>
+<p class="transcript-line">
+<span class="time"><strong>[00:30:16]</strong> </span>
+<span class="speaker"><strong>发言人1: </strong></span>
+推广对我第一条。
+</p>
+<p class="transcript-line">
+<span class="time"><strong>[00:30:18]</strong> </span>
+<span class="speaker"><strong>发言人2: </strong></span>
+笔记就是一条召集小红书的用户们一起来做一个这样的一个产品。对我第一条笔记就是这样的，就是说我想我跟用户们说，我想做一个调酒类的APP，然后暂定它的名字叫调酒笔记。然后希望你们来给他提需求，来给我提需求，你来提我来做对，然后第一条笔记就报了，第一条笔记就报了，然后后面我就称他们为云股东。我每天给他们汇报一下我的开发进度，我的APP开发到哪里了，什么时候差不多可以上线。对，他们确确实实是我的云股东，然后他们也成参与了我这个APP的一个开发，包括网页上线，一个安卓上线，一个APP store的内测，APP store上线，再加上最近安卓可能也要也很快要上线了，他们都是在一陪伴着我来做这样一件事情的。然后我觉得我这个推广能成功的原因，是因为我真正做到了一个用户共创，对小红书上的粉丝非常的热情，然后我也很成功的做了一个用户共创，给他们及时的反应，告诉他们我们这个产品做到哪里了。然后同时我还会给他们分红。对。
+</p>
+<p class="transcript-line">
+<span class="time"><strong>[00:31:42]</strong> </span>
+<span class="speaker"><strong>发言人1: </strong></span>
+会给他们抽一个分红法抽奖是吗？OK, 对。
+</p>
+<p class="transcript-line">
+<span class="time"><strong>[00:31:46]</strong> </span>
+<span class="speaker"><strong>发言人2: </strong></span>
+我会给他们抽奖。对，虽然这个软件还没有盈利。
+</p>
+<p class="transcript-line">
+<span class="time"><strong>[00:31:51]</strong> </span>
+<span class="speaker"><strong>发言人3: </strong></span>
+那那你这个云股东当的也太好了，他也没有投资，他还有分红，我能不能也分享？
+</p>
+<p class="transcript-line">
+<span class="time"><strong>[00:32:00]</strong> </span>
+<span class="speaker"><strong>发言人2: </strong></span>
+可以，我们明天还会分一波鸿，对是吗？对，会抽也是酒具瑶湖这些。
+</p>
+<p class="transcript-line">
+<span class="time"><strong>[00:32:10]</strong> </span>
+<span class="speaker"><strong>发言人3: </strong></span>
+你这个我觉得真的是为爱发电了，就是现在这个APP也没有盈利，对吧？你虽然叫他们云股东，但是实际上他们也没有花钱来来占有这个股份。你这个真的是对为爱发电很彻底，不光是做了APP，还搞活动。
+</p>
+<p class="transcript-line">
+<span class="time"><strong>[00:32:27]</strong> </span>
+<span class="speaker"><strong>发言人2: </strong></span>
+对，为爱发电。
+</p>
+<p class="transcript-line">
+<span class="time"><strong>[00:32:28]</strong> </span>
+<span class="speaker"><strong>发言人1: </strong></span>
+对我觉得你这个思路跟想法就特别好。就是你在一上来的时候，你说我要做一款产品叫调酒笔记。然后大家如果对这个有兴趣就过来提需求，对吧？其实我觉得你这个就一开始就把市场验证了。如果你第一篇笔记不报的话，你说不定就不会做了，对吧？因为你觉得说这个市场可能没有那么多人有需求。对我觉得你这个思路跟想法还是挺对的。
+</p>
+<p class="transcript-line">
+<span class="time"><strong>[00:32:49]</strong> </span>
+<span class="speaker"><strong>发言人3: </strong></span>
+对，其实就是我们一直说PMF要前置。
+</p>
+<p class="transcript-line">
+<span class="time"><strong>[00:32:52]</strong> </span>
+<span class="speaker"><strong>发言人1: </strong></span>
+对吧？对对对，是的。
+</p>
+<p class="transcript-line">
+<span class="time"><strong>[00:32:54]</strong> </span>
+<span class="speaker"><strong>发言人2: </strong></span>
+然后我还听过一句让我很感动的话。我们有一个群，然后群里的有一个用户说，我从第一篇笔记看到现在到现在APP store的一个上线，我真的跟看我的孩子长大一样。
+</p>
+<p class="transcript-line">
+<span class="time"><strong>[00:33:12]</strong> </span>
+<span class="speaker"><strong>发言人1: </strong></span>
+是你已经变成一个养成系的APP了。
+</p>
+<p class="transcript-line">
+<span class="time"><strong>[00:33:16]</strong> </span>
+<span class="speaker"><strong>发言人2: </strong></span>
+对对对。
+</p>
+<p class="transcript-line">
+<span class="time"><strong>[00:33:19]</strong> </span>
+<span class="speaker"><strong>发言人1: </strong></span>
+真挺好的。对，但是你刚才有讲说，你说你这个调酒笔记虽然有很多云股东，然后你还在给大家去发福利对吧？但是其实你还没有盈利对吧？然后你后续你对于营收跟这个持续性这块你有什么打算吗？因为毕竟你如果长期的一直在不断的再去投入再去做，但是收不到钱的话，我觉得这个事儿可能持续性会存疑我不确定你后续对于营收跟对这块持续性这块有什么打算。
+</p>
+<p class="transcript-line">
+<span class="time"><strong>[00:33:45]</strong> </span>
+<span class="speaker"><strong>发言人2: </strong></span>
+第一点的话，我们可能会有一个pro用户，对，可能会推推出一个pro计划。然后pro计划它就可以把他们家里有的材料存到我们的数据库里面。然后我们根据他有的材料来为他们推荐他们能调制的一个酒单。对，因为涉及到这涉及到一些服务器的资源，所以我们。
+</p>
+<p class="transcript-line">
+<span class="time"><strong>[00:34:10]</strong> </span>
+<span class="speaker"><strong>发言人1: </strong></span>
+不得不收费。OK了解。
+</p>
+<p class="transcript-line">
+<span class="time"><strong>[00:34:13]</strong> </span>
+<span class="speaker"><strong>发言人2: </strong></span>
+对，还有一点可能我们会去对接一些鸡尾酒，对接一些，然后可能会联合他们做一些营销活动，像是酒鬼地图之类的对然后对，然后薅商家的钱给来给发分红。
+</p>
+<p class="transcript-line">
+<span class="time"><strong>[00:34:31]</strong> </span>
+<span class="speaker"><strong>发言人1: </strong></span>
+OK了解，我觉得你这两个思路还挺有意思的对，因为只有一个清单的话，其实我是要找说我有这个材料，我有这个材料我才能做这个酒。那现在你给我一个思路，就是我只要把原材料告诉你，你帮我说我能做什么酒，我觉得这个就对挺好的，是一个挺好的付费点对，还有一个就是把我的流量导给商家，我从里面抽佣，对吧？对，是的。
+</p>
+<p class="transcript-line">
+<span class="time"><strong>[00:34:55]</strong> </span>
+<span class="speaker"><strong>发言人3: </strong></span>
+所以你说这个原材料我想到一个东西，因为我之前在网上在那看看B站看的就是有人用AI来创造菜谱。我就跟那个大模型说，我我我想创造一个新的一个菜，然后有一些什么要求，然后他那个AI他就会给他创造一个菜谱，说你要用什么材料，一步步的怎么做。我觉得你可以可以考虑一下这个？有什么材料，然后说。你给我来个random，你给我来一个？给我创造一个新的鸡尾酒，反正我就尝尝看吧，说不定很好喝。我觉得这个也是一个对挺有意思的东西。
+</p>
+<p class="transcript-line">
+<span class="time"><strong>[00:35:31]</strong> </span>
+<span class="speaker"><strong>发言人2: </strong></span>
+对对对，后续可能也会，因为我们现在其实有随机喝一杯的功能。你只要在你的这个你可以调制的这个列表里面点击随机喝一杯，那你就不用想你今晚想喝什么了。
+</p>
+<p class="transcript-line">
+<span class="time"><strong>[00:35:45]</strong> </span>
+<span class="speaker"><strong>发言人1: </strong></span>
+挺好。对我觉得你这个功能点还挺好的。对我我就想问一下，因为阿月你本身其实不是全职在做这个调酒笔记，对吧？因为现在毕竟为爱发电，然后你可能因为你有本职工作，大家其实现在工作的状态都挺类似的。尤其像我们做互联网相关的，可能每天下班可能都90点了，对吧？而且都很卷，工作上班的时候还要勾心斗角，对吧？我就想问一下你，你就是你为什么还会有精力来去做独立开发去做这样。
+</p>
+<p class="transcript-line">
+<span class="time"><strong>[00:36:14]</strong> </span>
+<span class="speaker"><strong>发言人2: </strong></span>
+一款APP。首先是我热爱鸡尾酒这个东西，其次是我我觉得拥有一款自己的产品是每一个程序员的梦想。然后其实我也算是在爱好这个领域里面追逐自己的梦想了，所以我做这件事情我的精力是非常足的。对我可能坐在晚上洗完澡回家，回到家洗完澡可能会调一杯鸡尾酒，然后放在旁边，然后开始写代码，写到可能一写就是两三个钟，三四个钟，写到晚上2.3点。对。
+</p>
+<p class="transcript-line">
+<span class="time"><strong>[00:36:49]</strong> </span>
+<span class="speaker"><strong>发言人1: </strong></span>
+OK了解。然后你自己的工作有那么累吗？
+</p>
+<p class="transcript-line">
+<span class="time"><strong>[00:36:53]</strong> </span>
+<span class="speaker"><strong>发言人2: </strong></span>
+我自己的工作其实还好。对，可能有时候忙有时候不忙，但没有说每个星期都要加班。对。
+</p>
+<p class="transcript-line">
+<span class="time"><strong>[00:37:02]</strong> </span>
+<span class="speaker"><strong>发言人1: </strong></span>
+OK了解，所以说还是worklife baLance的对吧？相对来讲比较baLance。
+</p>
+<p class="transcript-line">
+<span class="time"><strong>[00:37:08]</strong> </span>
+<span class="speaker"><strong>发言人2: </strong></span>
+对对对，相对来讲叫baLance。
+</p>
+<p class="transcript-line">
+<span class="time"><strong>[00:37:11]</strong> </span>
+<span class="speaker"><strong>发言人1: </strong></span>
+阿月你能不能给大家介绍一下你自己的第一杯鸡尾酒是什么？然后你会推荐大家在家调制的鸡尾酒是什么？
+</p>
+<p class="transcript-line">
+<span class="time"><strong>[00:37:18]</strong> </span>
+<span class="speaker"><strong>发言人2: </strong></span>
+我第一杯喝的鸡尾酒是威士忌酸。对，它是一杯酸甜非常平衡的一杯酒。然后他如果做得好的话，他可能还会有一点点奶香的味道。他虽然没有用到一个奶味的一个风味，但是他可能会出现这样一个很很神奇的风味。然后推荐一款入门款的鸡尾酒。如果是自己做的话，我就推荐螺丝起子，包括它的所有变形伏特加，然后加上任意你喜欢的果汁，这就是一杯自己调制的入门的鸡尾酒了。
+</p>
+<p class="transcript-line">
+<span class="time"><strong>[00:37:56]</strong> </span>
+<span class="speaker"><strong>发言人2: </strong></span>
+如果是去酒吧喝的话，我推荐可能说是金汤力，或者说椰林飘香。椰林飘香它是一款椰奶菠萝，对，一款比较热带的一款一一款酒也是很好喝的。包括我刚刚提到的威士忌酸，是一款酸碱平衡的一款酒。
+</p>
+<p class="transcript-line">
+<span class="time"><strong>[00:38:17]</strong> </span>
+<span class="speaker"><strong>发言人1: </strong></span>
+对OK了解。感谢阿月的时间，今天聊了很多跟调酒相关的，对我现在就有很大的冲动，但是我现在这边商店关门了，我有很大的冲动跑去商店然后买点基酒，对，买点果汁？至少先调一杯螺丝起子，或者说来一个自由古巴？对，先感受一下。对。
+</p>
+<p class="transcript-line">
+<span class="time"><strong>[00:38:41]</strong> </span>
+<span class="speaker"><strong>发言人3: </strong></span>
+那你这个我想起来以前我自己有一个故事，因为不算是鸡尾酒爱好者，但是以前去跟他们去酒吧喝，因为他们会弄一些，我也不知道它算不算鸡尾酒，可能算，反正有烈酒的基底。但他会兑果汁，或者兑可乐，或者说兑雪碧之类的。然后这个酒你喝起来就因为它甜的对，然后对酒精味就没有那么明显，其实你不知道自己喝了多少。
+</p>
+<p class="transcript-line">
+<span class="time"><strong>[00:39:06]</strong> </span>
+<span class="speaker"><strong>发言人1: </strong></span>
+对对对，是。
+</p>
+<p class="transcript-line">
+<span class="time"><strong>[00:39:07]</strong> </span>
+<span class="speaker"><strong>发言人2: </strong></span>
+对对对，然后我们一起。
+</p>
+<p class="transcript-line">
+<span class="time"><strong>[00:39:09]</strong> </span>
+<span class="speaker"><strong>发言人3: </strong></span>
+去的那有一个哥们儿，他就是最后喝到在上厕所的途中，你懂我意思吗？他在上厕所的途中，直接就倒过去了，那就搞得场面非常的混乱，但我觉得挺有意思的。我觉得自己调这个要稍微小心一点，因为它喝起来确实不像酒很好喝。
+</p>
+<p class="transcript-line">
+<span class="time"><strong>[00:39:31]</strong> </span>
+<span class="speaker"><strong>发言人2: </strong></span>
+对对对，鸡尾酒就可以更让你更轻松的获得一个微醺的感觉。
+</p>
+<p class="transcript-line">
+<span class="time"><strong>[00:39:37]</strong> </span>
+<span class="speaker"><strong>发言人1: </strong></span>
+对对对。
+</p>
+<p class="transcript-line">
+<span class="time"><strong>[00:39:38]</strong> </span>
+<span class="speaker"><strong>发言人2: </strong></span>
+而且更重要的一个是你自己调的酒，无论再怪他都值得你去尝一口。
+</p>
+<p class="transcript-line">
+<span class="time"><strong>[00:39:46]</strong> </span>
+<span class="speaker"><strong>发言人1: </strong></span>
+是，所以说我觉得阿月提的第一点非常重要，就是你一定得有一个量杯对吧？要不然你自己倒一下，你根本不知道你倒了多少。
+</p>
+<p class="transcript-line">
+<span class="time"><strong>[00:39:56]</strong> </span>
+<span class="speaker"><strong>发言人2: </strong></span>
+对对对。
+</p>
+<p class="transcript-line">
+<span class="time"><strong>[00:39:58]</strong> </span>
+<span class="speaker"><strong>发言人1: </strong></span>
+好，感谢阿月的时间，然后最后再给你一分钟广告时间，你可以再发挥一下。对，给大家再推广你的调酒笔记。
+</p>
+<p class="transcript-line">
+<span class="time"><strong>[00:40:07]</strong> </span>
+<span class="speaker"><strong>发言人3: </strong></span>
+我先说一段，我想说是因为阿乐这个状态是我感觉是独立开发者很幸福的一种状态。就是他找到一个自己的爱好的东西，然后能够投入其中。因为有的时候独立开发，你想着说我能够从哪里赚到钱，这是一种状态。然后在二月是另外一种状态，就是我就是喜欢这个东西，所以我要为他做的东西。那另外一种状态。对对对，后者这种状态如果再能赚到钱，那就是最幸福的。然后我觉得阿月这个有那么多云股东，我觉得应该也也不远。
+</p>
+<p class="transcript-line">
+<span class="time"><strong>[00:40:41]</strong> </span>
+<span class="speaker"><strong>发言人2: </strong></span>
+对，应该也不远。因为我们现在APP store可能只上了一个星期，应该有差不多一两万的一个下载量了。
+</p>
+<p class="transcript-line">
+<span class="time"><strong>[00:40:51]</strong> </span>
+<span class="speaker"><strong>发言人1: </strong></span>
+是吧？那还是很夸张的对对。
+</p>
+<p class="transcript-line">
+<span class="time"><strong>[00:40:53]</strong> </span>
+<span class="speaker"><strong>发言人2: </strong></span>
+OK我我我来打一个广告，想象一个这样的场景，我们加班加到了晚上9点10点，坐电梯走到楼下，可能只有便利店了，我们剩下的时间也不足以让我们去酒吧喝一杯。那我们就走进便利店，打开调酒笔记，选到便利店调酒那个分类下面点击随机喝一杯OK。我们今晚的微醺的结果就在这里，选择乔治走在路上慢慢享受你的一杯鸡尾酒OK。
+</p>
+<p class="transcript-line">
+<span class="time"><strong>[00:41:26]</strong> </span>
+<span class="speaker"><strong>发言人1: </strong></span>
+对我觉得这个是一个很好的一个场景。对，就是在下班已经很累的时候，然后打开调酒笔记？随机喝一杯，我觉得这个场景非常好。对我今天特别开心，因为今天是我带着点私心的，因为我想跟阿乐学习怎么调酒，因为我想喝。然后我希望大家在今天听完这期调酒笔记的节目之后，大家能够对鸡尾酒产生兴趣。
+</p>
+<p class="transcript-line">
+<span class="time"><strong>[00:41:52]</strong> </span>
+<span class="speaker"><strong>发言人1: </strong></span>
+当你产生兴趣的时候，你不妨可以下载一下阿月的调休笔记？可以在专业知识上再加强一下？知道说有哪些鸡尾酒，然后要怎么调。哪天等你自己觉得想放松的时候，也可以点击一下随机喝一杯对吗？我觉得这些功能都是蛮好的功能。
+</p>
+<p class="transcript-line">
+<span class="time"><strong>[00:42:10]</strong> </span>
+<span class="speaker"><strong>发言人1: </strong></span>
+对我觉得在现在大家都很忙忙碌碌的这种环境里面，然后能随时享受这种没有负担的这种微醺，就是不会说苦，不会说辣？然后都甜甜的，也能享受微醺。对我觉得这件事儿非常好。好吧，感谢阿月今天的时间。对，然后希望你的调酒笔记后续能越来越好啊。
+</p>
+<p class="transcript-line">
+<span class="time"><strong>[00:42:33]</strong> </span>
+<span class="speaker"><strong>发言人2: </strong></span>
+OK OK感谢下头，感谢归归。
+</p>
+<p class="transcript-line">
+<span class="time"><strong>[00:42:35]</strong> </span>
+<span class="speaker"><strong>发言人1: </strong></span>
+好的，我们今天的节目就先到这里，我们下期再见，拜拜OK.
+</p>
+<p class="transcript-line">
+<span class="time"><strong>[00:42:42]</strong> </span>
+<span class="speaker"><strong>发言人2: </strong></span>
+拜拜。
+</p>
+<p class="transcript-line">
+<span class="time"><strong>[00:42:42]</strong> </span>
+<span class="speaker"><strong>发言人3: </strong></span>
+以上就是我们本期。
+</p>
+<p class="transcript-line">
+<span class="time"><strong>[00:42:44]</strong> </span>
+<span class="speaker"><strong>发言人1: </strong></span>
+播客的全部内容，感谢大家收听，也欢迎大家踊跃留言。如果你喜欢我们，欢迎点赞并分享给感兴趣的朋友。如果你在用苹果播客收听，也希望你花几秒钟给我们一个好评。这会让更多的人了解到我们要是能再点击一下订阅，那就再好不过了。我们下周见。
+</p>]]></content:encoded>
+            <pubDate>Sun, 20 Apr 2025 22:00:00 GMT</pubDate>
+            <guid>6804c7a6cdd692da157ef12d</guid>
+        </item>
         <item>
             <title>EP98 对话Shawn：如何用一款晒太阳App，在健康赛道中脱颖而出？</title>
             <link>https://www.xiaoyuzhoufm.com/episode/67f698cd623bc78c399a1ee8</link>
@@ -22009,1842 +22866,6 @@ OK好，明白了，谢谢。居然我们今天就聊到这儿，然后大家再
 </p>]]></content:encoded>
             <pubDate>Mon, 29 Jul 2024 22:00:00 GMT</pubDate>
             <guid>66a7affb33ddcbb53cf07f86</guid>
-        </item>
-        <item>
-            <title>EP69 从油管、摆摊到AI产品，看斜杠青年如何搞钱 |对话楚豪灵芝</title>
-            <link>https://www.xiaoyuzhoufm.com/episode/669e659237236c546ef416c5</link>
-            <description>本期节目我们访谈了生活在澳洲的一对斜杠夫妻，他们是博士，也是 youtube 20万粉丝的网红博主；摆地摊的同时也是 AI 产品创始人。丰富的人生经历，永不停歇的折腾，希望本期节目能够帮助大家打开新视野，开辟生活的多样性。
-Sunflower AI专注于提供现场活动的实时字幕解决方案，旨在提升活动的包容性和无缝字幕体验。公司使用最先进的大语言模型，确保字幕的高准确性（达95%）和低延迟（小于2秒），支持64种语言的实时翻译。客户可以在活动现场或在观众手机中展示字幕和翻译。Sunflower AI由三位悉尼创业中心的博士创立，获得了多个全国奖项。创立半年已获得天使投资以及CSIRO（澳洲最大科研机构），昆士兰大学等早期客户。欲了解更多信息，请访问 Sunflower AI官方网站(www.sunflowerai.io)。
-更多内容信息和时间线参考下文的硬地笔记，欢迎收听本期节目。
-另外，现在加入「硬地骇客」会员服务，即可在会员专属的微信群与其他朋友一起畅所欲言，成为会员也是对我们持续更新最大的鼓励。现在就扫描下方二维码加入吧！
-嘉宾介绍
-刘楚豪是Sunflower AI的联合创始人兼CEO。他拥有北京的工程学学士学位、德克萨斯州的硕士学位，并在悉尼攻读博士学位期间辍学。作为澳大利亚全球人才签证的获得者，刘楚豪曾赢得数项澳大利亚全国大奖。他热衷于创业、组织AI交流活动以及跑马拉松。他的创业公司获得了澳洲知名杂志Startup Daily的Best New Idea提名并在澳洲知名电视台SBS获得专题采访。
-康灵芝，生物学博士，钩针博主（YouTube20万粉，Ins10万粉），Sunflower AI人工智能字幕公司联合创始人，2娃妈。
-Youtube 地址：www.youtube.com
-本期赞助
-MemFree 是一个开源的混合 AI 搜索引擎，可以同时对您的个人知识库（如书签、笔记、文档等）和互联网进行搜索。
-亮点：
-* 混合 AI 搜索引擎
-* 自托管的极速无服务器向量数据库
-* 自托管的极速Local Embedding and Rerank Service
-* 一键 Chrome 书签索引
-* 完整代码开源
-* - 前后端一键部署
-Podwise.ai
-硬地笔记
-00:00:04 斜杠青年的创业之路：从生物博士到 YouTube 网红
-00:04:02 钩针的魅力：爱好、冥想和商业杠杆
-00:08:08 从 YouTube 网红到线下活动字幕：意外的转折
-00:12:13 悉尼跳蚤市场：寻找灵感和测试市场
-00:17:02 挑战舒适圈：不断学习和突破自我
-00:20:50 悉尼摆摊指南：申请流程、成本和盈利
-00:23:35 YouTube 广告收入：增长瓶颈和短视频趋势
-00:26:17 多元化收入来源：网店、课程和摆摊
-00:28:29 建立个人品牌：打造持久的影响力
-00:30:07 从爱好到创业：钩针的独特魅力
-00:33:27 从 YouTube 字幕到线下会议字幕：技术和市场双重挑战
-00:37:29 抓住机遇：从首个付费客户到市场拓展
-00:40:04 澳洲创业环境：本地支持和客户关系
-00:45:12 突破语言障碍：演讲技巧和自信表达
-00:48:26 竞争优势：纯软件模式和市场需求
-00:50:01 扩大客群：从场地到 Event Copilot
-00:52:02 融资后的方向：策略升级和市场突破
-00:55:21 华人 AI 创业圈：共同进步和技术分享
-00:57:41 出海计划：瞄准美国市场
-00:58:21 SunflowerAI：Event Copilot 的未来
-欢迎关注我们
-* 知识星球: t.zsxq.com
-* 官网: hardhacker.com
-* 小手册: book.hardhacker.com
-* 用爱发电不容易，请我们喝咖啡☕️: afdian.net
-* 公众号/小红书: 硬地骇客
-* 商务合作: hardhackerlabs@gmail.com</description>
-            <content:encoded><![CDATA[<h1>转写链接</h1>
-<link>https://tongyi.aliyun.com/efficiency/doc/transcripts/3kprqlgb85b69xgd</link><br>
-<h1>节目摘要</h1>
-<div class="summary">在这次深入的交流中，几位主持人和嘉宾共同探讨了播客赞助、AI学习软件的特点、创业经历与挑战、个人品牌建设及社交媒体推广策略等多方面内容。特别关注了如何平衡育儿与创业、拓展海外市场、利用AI技术解决实际问题以及从失败中学习等关键议题。讨论强调了在新媒体时代，个人IP和社交媒体在推动产品或服务销售中的重要作用，同时展示了澳洲创业生态的现状与挑战。整个对话不仅提供了实用的创业建议，也分享了创业团队如何有效应对和克服各种困难的经验。</div><br>
-<h1>章节速览</h1>
-<div class="chapters">
-<div class="chapter-item">
-<span class="time"><strong>[00:00:00]</strong> </span>
-<span class="chapter-title"><strong>Sunflower AI创始人谈实时字幕技术及斜杠青年的创业故事</strong></span>
-<div class="chapter-summary">本期节目邀请了Sunflower AI的创始人，一个专注于为线下活动提供实时字幕的产品。创始人之一具有生物医学工程背景，另一位则是在土木工程领域有着深厚研究的湖南人。除了创业，他们还经营一个有近20万粉丝的YouTube频道，教授钩针毛线技术，同时参与悉尼历史悠久的跳蚤市场。节目中，他们分享了从学术背景转向AI创业的经历，以及如何平衡多元身份的生活和工作。此外，节目还介绍了Power Wise赞助的AI学习软件Model Wise，以及为听众准备的优惠活动。</div>
-</div>
-<div class="chapter-item">
-<span class="time"><strong>[00:02:17]</strong> </span>
-<span class="chapter-title"><strong>通过AI创业获得澳大利亚全球人才签证的经历</strong></span>
-<div class="chapter-summary">对话者分享了他们在读博期间通过AI创业项目，最终获得澳大利亚全球人才计划签证的经历。他们最初参与了一个与AI字幕相关的创业项目，并在澳大利亚国家科学院机构CSIRO的支持下取得了一些成就。基于对AI字幕需求的洞察，他们决定将公司命名为Sunflower AI，这一名字灵感来源于他们希望在展会上脱颖而出的想法，以及与Sunflower相关的视频和产品在YouTube上的良好表现。</div>
-</div>
-<div class="chapter-item">
-<span class="time"><strong>[00:04:02]</strong> </span>
-<span class="chapter-title"><strong>从博士到YouTube博主：创业初心与转型之路</strong></span>
-<div class="chapter-summary">一对博士在2020年疫情期间，面对居家隔离和未来职业的不确定性，决定探索创业而非传统就业。受一本书中关于商业杠杆理论的启发，他们认识到代码和媒体是边际成本为零的创业方向。最初尝试书评动画视频，但因耗时耗力且效果一般而暂停。怀孕期间，转向毛线钩针手工，并制作教学视频，意外获得良好反响，迅速积累粉丝，开启了YouTube创业的新篇章。</div>
-</div>
-<div class="chapter-item">
-<span class="time"><strong>[00:06:40]</strong> </span>
-<span class="chapter-title"><strong>女性在科研与家庭平衡及职业转变中的挑战与选择</strong></span>
-<div class="chapter-summary">对话围绕女性在科研事业与家庭生活之间的平衡展开，讨论了如何在生孩子期间维持科研工作，以及在面对家庭责任时探索新的职业方向。对话中提到了从科研领域转向媒体领域的选择，以及通过制作英文钩针教学视频来提升英语能力、扩大国际观众群和增加收入的可能性。这些选择反映了个人在事业和家庭之间寻求平衡的努力，以及在职业道路上不断探索和挑战自我的精神。</div>
-</div>
-<div class="chapter-item">
-<span class="time"><strong>[00:09:12]</strong> </span>
-<span class="chapter-title"><strong>疫情期间通过钩针教学在YouTube成功涨粉</strong></span>
-<div class="chapter-summary">对话围绕在疫情期间通过钩针教学在YouTube上成功涨粉的经历展开。对话者分享了起初学习钩针时的动机，指出在学习过程中发现他人的教学视频不尽人意，从而激发了自己去创建更有效的教学方法。通过这种方式，他的频道迅速增长并收到了大量积极反馈。此外，他还提到疫情对人们生活方式的改变，如何推动了DIY和手工艺领域的兴趣，以及如何利用这一趋势在YouTube上吸引了大量关注。尽管没有进行额外宣传，该频道的增长主要得益于YouTube的推荐系统和疫情期间人们寻找新的爱好和消遣的需求。</div>
-</div>
-<div class="chapter-item">
-<span class="time"><strong>[00:11:41]</strong> </span>
-<span class="chapter-title"><strong>短视频和YouTube对网店引流与增长的影响</strong></span>
-<div class="chapter-summary">对话讨论了短视频在Instagram上达到500万观看量对YouTube频道和网店的积极引流效果，以及由此带来的订单增长。尽管YouTube前两年未出现爆款视频，但稳定增长的趋势与当前podcast的订阅增长类似，均体现出持续稳定的用户增长。两年前，每月新增关注者可达约15000人，反映出内容创作者的稳定受众基础。</div>
-</div>
-<div class="chapter-item">
-<span class="time"><strong>[00:12:44]</strong> </span>
-<span class="chapter-title"><strong>钩针：爱好、冥想与克服焦虑的力量</strong></span>
-<div class="chapter-summary">这段对话探讨了钩针作为一种爱好，如何成为个人克服焦虑、实现冥想和平静的有效方式。尽管前期并未带来经济收益，但钩针活动带来的乐趣和冥想效果，使其成为持续进行的动力。特别是在生活充满不确定性和焦虑的时期，钩针成为了创造平静、对抗焦虑的手段，与传统冥想相比，它提供了一种更为实际和易于操作的方法。</div>
-</div>
-<div class="chapter-item">
-<span class="time"><strong>[00:15:06]</strong> </span>
-<span class="chapter-title"><strong>通过摆摊锻炼英语和表达能力并获取短视频素材</strong></span>
-<div class="chapter-summary">对话中的人通过在glib market摆摊来锻炼自己的英语交流和表达能力，同时也拍摄短视频素材用于社交媒体，如Instagram和YouTube。他提到摆摊虽然具有挑战性，但能让他面对陌生人并提高与人交流的能力。此外，他还提到自己的Instagram账号有近10万粉丝，通过摆摊和分享相关内容，不仅提升了表达能力，也为他的AI创业公司带来了直接的收入和曝光。</div>
-</div>
-<div class="chapter-item">
-<span class="time"><strong>[00:16:42]</strong> </span>
-<span class="chapter-title"><strong>通过挑战自我实现成长和团队建设</strong></span>
-<div class="chapter-summary">对话聚焦于通过挑战自我来实现个人成长和团队建设的重要性。团队通过钉钉推荐算法找到了核心成员，这些成员不仅免费为团队编写程序，还激发了团队的斗志和创新精神。此外，团队成员通过走出舒适圈，如用英文制作YouTube视频、摆摊等方式，不断挑战自我，锻炼了英语能力、表达能力和收集视频素材等技能，即使结果不确定，也优先考虑能控制的方面，以提升个人能力和团队实力。这种积极进取的态度吸引了天使投资人的注意，证明了挑战自我对于个人和团队成长的积极影响。</div>
-</div>
-<div class="chapter-item">
-<span class="time"><strong>[00:18:12]</strong> </span>
-<span class="chapter-title"><strong>悉尼摆摊流程及经验分享</strong></span>
-<div class="chapter-summary">对话中详细介绍了在悉尼摆摊的流程和经验。悉尼政府鼓励本地商业，周末有很多集市，摆摊需申请，摊位费根据等级有所不同，流动摊位一天费用约为135澳元。除了摊位费，还需要考虑保险、桌子和伞的租赁费用。产品定价和选品非常关键，小而便宜的商品，如书签和洞洞鞋上的装饰，容易吸引消费者。定价在十到二十澳元之间的商品销售较好，因为消费者对价格敏感。此外，运输成本和沉默成本也是主要的考虑因素。悉尼的集市通常将相同品类的商品聚集在一起，便于顾客挑选，但这也可能导致竞争加剧。因此，专注于特定产品类别，如钩针毛线花和带有花的包，有助于在市场中脱颖而出。</div>
-</div>
-<div class="chapter-item">
-<span class="time"><strong>[00:23:20]</strong> </span>
-<span class="chapter-title"><strong>YouTube频道运营与收入来源探讨</strong></span>
-<div class="chapter-summary">对话围绕一个拥有20万粉丝的YouTube频道展开，主要讨论其广告收入范围在1500至3000美元之间，以及观看量下降可能的原因，包括视频质量、竞争加剧和市场转向短视频。此外，还探讨了YouTube Shorts与Instagram视频表现的差异，以及除了广告收入外，通过网店销售商品和课程作为额外收入渠道的做法。</div>
-</div>
-<div class="chapter-item">
-<span class="time"><strong>[00:24:33]</strong> </span>
-<span class="chapter-title"><strong>从线上教程到毛线产品：多渠道电商策略</strong></span>
-<div class="chapter-summary">网店主要销售数字教程和钩针毛线产品，采用自动发货和国内工厂直接发货的模式，以减少售后处理和时间成本。虽然摆摊销售钩针成品有一定利润，但考虑到时间成本和无法持续积累的特点，已逐渐放弃。营销活动则主要为了收集素材和测试市场反应，而非追求短期收入。</div>
-</div>
-<div class="chapter-item">
-<span class="time"><strong>[00:26:19]</strong> </span>
-<span class="chapter-title"><strong>探讨个人品牌建设和社交媒体平台选择</strong></span>
-<div class="chapter-summary">对话中讨论了在不同社交媒体平台上建立个人品牌和个人IP的重要性，以及如何根据个人兴趣和行业特性选择适合的平台，如YouTube、Instagram、TikTok等。同时强调了平台的选择并不固定，应随流量和趋势的变化而灵活调整。</div>
-</div>
-<div class="chapter-item">
-<span class="time"><strong>[00:28:27]</strong> </span>
-<span class="chapter-title"><strong>钩针艺术与审美：源于热爱与灵感</strong></span>
-<div class="chapter-summary">对话者表达了对钩针艺术美感来源的思考，认为这种美感源自天生的审美和对艺术的热爱，而非刻意学习。他通过参观艺术展览和研究大师作品的配色来获取创作灵感，将这种感觉自然融入到钩针创作和摄影中。相比之下，他对书评则缺乏同样的感觉和优势，书评更多是基于媒体角度而非纯粹的爱好。</div>
-</div>
-<div class="chapter-item">
-<span class="time"><strong>[00:30:15]</strong> </span>
-<span class="chapter-title"><strong>从痛苦的书评到享受钩针：通过兴趣缓解焦虑与创业</strong></span>
-<div class="chapter-summary">对话围绕一位女性在生完第一个孩子后，通过制作钩针视频来缓解身心焦虑的经历展开。尽管初期没有明显收入，但坚持让她与社会保持联系，避免了与社会脱节的感觉。她提到在youtube上做视频起初不被家人理解，但随着账号粉丝增长和广告收入的增加，家人逐渐接受了她的选择。此外，她还分享了如何通过外包一些重复性工作来提高效率，从而有更多时间投入到创造性工作中，包括让亲戚参与其中，提升了她在家庭中的尊重和地位。</div>
-</div>
-<div class="chapter-item">
-<span class="time"><strong>[00:33:27]</strong> </span>
-<span class="chapter-title"><strong>从YouTube字幕到线下会议AI转录的创业历程</strong></span>
-<div class="chapter-summary">最初的创业想法源于解决YouTube频道字幕制作中的问题，特别是对于包含专业词汇和非标准口音的英语。尽管YouTube频道已经拥有20万粉丝，但创业者决定进一步探索AI技术的应用，以解决实际业务中的痛点。最初的目标是优化YouTube视频的字幕生成，但一次路演比赛中，一位观众提出了线下会议字幕的需求，这促使他们转向了线下会议的AI转录市场。通过解决这一市场痛点，他们吸引了第一个付费客户，一家主办大型会议的公司，并由此开启了线下会议字幕服务的新业务。创业过程中，他们意识到市场调研和实际需求的重要性，不再仅仅基于假设，而是从真实的市场痛点出发，寻找和提供解决方案。</div>
-</div>
-<div class="chapter-item">
-<span class="time"><strong>[00:37:40]</strong> </span>
-<span class="chapter-title"><strong>从YouTube字幕到线下会议：创业公司的转型与挑战</strong></span>
-<div class="chapter-summary">这段对话围绕一家创业公司从为YouTube制作字幕转为提供线下会议实时字幕服务的转型经历展开。公司接到第一个线下会议项目时，仅用了两周时间重新开发产品，尽管过程中遇到了技术挑战，如API不适合实时应用导致的卡顿问题，但最终通过人工干预解决了这些问题。客户对服务的精准度表示满意，并给予了正面的反馈和推荐信，这帮助公司获得了更多客户。对话还提到澳大利亚市场对初创企业的包容性和对本地企业的支持，以及公司如何根据市场调研定价，通过比人工服务更优惠的价格吸引客户。后续客户拓展中，公司通过直接沟通和展示产品优势来推销其服务。</div>
-</div>
-<div class="chapter-item">
-<span class="time"><strong>[00:42:26]</strong> </span>
-<span class="chapter-title"><strong>创业演讲成功心得与Warm Introduction的建立</strong></span>
-<div class="chapter-summary">对话围绕创业初期如何通过演讲和warm introduction吸引投资和客户展开。强调了讲故事和情绪传达在演讲中的重要性，分享了通过社区和人脉网络扩大影响力的方法。还特别提到，非英语母语者在演讲时利用简单词汇传达清晰信息可能成为优势。此外，还分享了通过演讲比赛获得资金支持和建立品牌认知的成功经验。</div>
-</div>
-<div class="chapter-item">
-<span class="time"><strong>[00:45:59]</strong> </span>
-<span class="chapter-title"><strong>非母语英语演讲者与翻译服务的竞争与挑战</strong></span>
-<div class="chapter-summary">对话中讨论了非母语英语演讲者如何通过自由表达和反复练习提高演讲技巧，以及在与竞争对手的比较中，他们的服务如何通过纯软件解决方案、更高的灵活性和更低的成本，解决了客户在使用传统翻译服务时遇到的抱怨和问题。具体抱怨包括服务不够灵活、人工成本高昂和准备过程耗时等问题。</div>
-</div>
-<div class="chapter-item">
-<span class="time"><strong>[00:48:59]</strong> </span>
-<span class="chapter-title"><strong>场地合作与AI字幕服务的商业模式</strong></span>
-<div class="chapter-summary">对话主要围绕一个公司通过与会议场地和活动策划者合作，提供AI字幕服务的商业模式展开。公司通过为场地和活动策划者提供这项服务，使他们能向客户收取额外费用，同时也满足了澳大利亚会议的无障碍需求，尤其是对听障人士的支持。此外，还提到了公司最近完成的一轮融资，以及在学校创业比赛中获得的资金，未来将重点放在进一步发展和推广这项服务上。</div>
-</div>
-<div class="chapter-item">
-<span class="time"><strong>[00:51:39]</strong> </span>
-<span class="chapter-title"><strong>产品改进与市场突破策略讨论</strong></span>
-<div class="chapter-summary">对话中讨论了产品改进后集中精力突破市场的策略，包括增强自身的公关活动以及是否需要增加市场和编程人员。讨论者提到了目前市场的非规模化状态以及通过与客户一对一的交流来学习和解决痛点的重要性。同时，也提及了投资人在投资时主要看重团队的创始人，而非当前的营收和策略清晰度。</div>
-</div>
-<div class="chapter-item">
-<span class="time"><strong>[00:53:43]</strong> </span>
-<span class="chapter-title"><strong>悉尼华人AI协会及其创新项目探索</strong></span>
-<div class="chapter-summary">对话围绕悉尼华人AI协会的成立动机及其成员的创新项目展开。发起者出于对科技发展和国家荣誉的情怀，以及希望通过协会促进交流和互助，从而推动AI领域的发展。协会成员涉及多个AI创业项目，包括与联邦税务局合作的税务咨询AI、文本生成音乐、室内设计报价生成、无人剪草机以及AI接线员等，展示了华人社群在AI领域的活跃创新和实际应用。</div>
-</div>
-<div class="chapter-item">
-<span class="time"><strong>[00:57:20]</strong> </span>
-<span class="chapter-title"><strong>澳洲创业企业拓展北美市场策略探讨</strong></span>
-<div class="chapter-summary">对话聚焦于澳洲创业企业在本地市场与北美市场的拓展策略。讨论指出，尽管澳洲市场人口较少，但许多创业企业，包括对话参与者，初期可能扎根于澳洲，最终目标往往是进入美国市场，因其市场规模远超澳洲，且用户付费意愿较高。同时，对话还提及中国创业企业出海趋势，尤其是瞄准北美市场。最后，对话者介绍了他们的实时翻译和活动笔记服务，以及如何帮助用户更好地回顾和查询活动信息，并提供了服务网站的名称。</div>
-</div>
-</div><br>
-<h1>问题回顾</h1>
-<div class="qa-item">
-<div class="question"><strong>Q:</strong> 你们为什么给自己的公司起名叫sunflower AI？这个名字和你们的产品定位有什么联系吗？</div>
-<div class="answer"><strong>A:</strong> 我们选择这个名字是因为在做YouTube期间，我们发现需要给YouTube视频做字幕，就想用AI解决这个问题。当时打算布置一个展会，想做一个显眼的标志，就设想了一个像太阳花一样的human side放在那里，于是就有了“sunflower AI”的想法。而且，在YouTube上的相关视频和产品中，“sunflower”主题的视频表现都很好，销量也不错，所以就以此命名了公司。</div>
-</div>
-<div class="qa-item">
-<div class="question"><strong>Q:</strong> 你们两位博士为什么会选择去做YouTube，这个决定背后有什么故事吗？</div>
-<div class="answer"><strong>A:</strong> 这个决定是在2020年的时候开始的，当时我（灵芝）博士即将毕业，疫情严重导致大家居家隔离，同时那一年我也结婚怀孕。在思考未来职业方向时，我受到《创意》这本书中关于致富需要商业杠杆的观点启发，认为代码和媒体是轻资产创业的好方向。于是我们开始学习AI，并结合我的个人兴趣——手工钩针，制作教学视频。</div>
-</div>
-<div class="qa-item">
-<div class="question"><strong>Q:</strong> 为什么当初没有在澳洲选择一个生物相关的就业道路，而是选择了创业和做YouTube？</div>
-<div class="answer"><strong>A:</strong> 当时面临的一个现实问题是作为女性如何平衡事业与家庭，尤其是在科研领域中，如果选择传统的科研工作，可能会受到生育和家庭的影响。为了保持科研的可能性，同时也想探索新的发展方向，我选择了先结婚生子，然后利用这段时期探索媒体方向，最终发现更喜欢也更适合自己的是媒体行业。</div>
-</div>
-<div class="qa-item">
-<div class="question"><strong>Q:</strong> 你最初做书评视频时是中文还是英文内容，为什么后来转向了英文的钩针教学视频？</div>
-<div class="answer"><strong>A:</strong> 最初做书评视频时是中文内容。转做英文钩针教学视频的初衷是想逼迫自己练习英语，不想让英语水平退化，并且希望挑战自己，如果能成功创建一个国际知名的YouTube频道是一件很酷的事情。同时，英文视频面向的是国际观众，潜在的广告价值更高。</div>
-</div>
-<div class="qa-item">
-<div class="question"><strong>Q:</strong> 在创建账号初期，你们有没有对标成功运营的其他账号？</div>
-<div class="answer"><strong>A:</strong> 当时并没有明确对标其他成功的账号，而是基于自己从零开始学习钩针的经验，发现市场上的教学视频并不理想，于是决定自己拍摄高质量的教学视频，并采用了一种新颖的教学方法，这也成为了频道快速增长的原因之一。</div>
-</div>
-<div class="qa-item">
-<div class="question"><strong>Q:</strong> 在疫情期间，你通过收集并分享他人在家办公时的桌搭照片，在社交媒体上获得了怎样的反响？</div>
-<div class="answer"><strong>A:</strong> 疫情确实改变了很多人生活，我的一个视频发布后粉丝增长迅速，现在已经有将近20万粉丝。其中，有两三个短视频在Instagram上观看量超过500万。</div>
-</div>
-<div class="qa-item">
-<div class="question"><strong>Q:</strong> 这些爆款视频对你的YouTube频道和网店带来了哪些具体影响？</div>
-<div class="answer"><strong>A:</strong> 这些短视频为我的YouTube频道吸引了大量流量，并且也带动了网店订单的增长。</div>
-</div>
-<div class="qa-item">
-<div class="question"><strong>Q:</strong> 你之前提到的稳定增长时期，是什么驱动力让你持续拍摄视频内容呢？</div>
-<div class="answer"><strong>A:</strong> 驱动力主要有两点：首先，钩针是我热爱的爱好，即便不为赚钱也会继续做下去；其次，在过去三年经历结婚生子、疫情结束及学习过程中的不确定性，钩针成为了我平静内心、克服焦虑的方式，它不仅是赚钱手段，也是冥想和获得平静的空间。</div>
-</div>
-<div class="qa-item">
-<div class="question"><strong>Q:</strong> 摆摊过程中，你是如何通过摆摊来测试拍摄视频内容并锻炼自己的？摆摊经历是否帮助你在其他领域也取得了进展？</div>
-<div class="answer"><strong>A:</strong> 摆摊对我是一个挑战，通过摆摊我既锻炼了英语表达能力，也收集了短视频素材。我会在摆摊时拍摄五条短视频和十张照片，这样可以为我的Instagram账号积累内容。摆摊不仅提升了个人技能，还通过LinkedIn平台获得了一些商业机会，比如有核心成员通过看到我在LinkedIn上发布的摆摊照片而加入我们，甚至有人因此为我们提供了免费的编程课程。</div>
-</div>
-<div class="qa-item">
-<div class="question"><strong>Q:</strong> 你目前在Instagram上的粉丝数量是多少？</div>
-<div class="answer"><strong>A:</strong> 目前我在Instagram上有98K多粉丝，接近10万。</div>
-</div>
-<div class="qa-item">
-<div class="question"><strong>Q:</strong> 摆摊在澳洲的流程是怎样的？</div>
-<div class="answer"><strong>A:</strong> 在澳洲悉尼，摆摊需要申请摊位，例如在格力普市场，摊位费有多个等级，流动摊位一天大约需要135澳元，加上可能租用的桌子和保险等费用，成本大概在160至180澳元左右。摆摊的收益因人而异，平均而言，每次摆摊能赚到500至1000澳元，最高纪录是950澳元。</div>
-</div>
-<div class="qa-item">
-<div class="question"><strong>Q:</strong> 在市场中，二十刀和三十刀的差价是不是很显著？</div>
-<div class="answer"><strong>A:</strong> 是的，二十刀与三十刀之间的差距确实很大，消费者对价格非常敏感。</div>
-</div>
-<div class="qa-item">
-<div class="question"><strong>Q:</strong> 义乌的小商品在该市场中占据多大的份额？</div>
-<div class="answer"><strong>A:</strong> 义乌的小商品占据了市场中很大一部分，尤其是手工品，绝大部分可能都来自义乌，而且商家的利润空间较高，主要看他们追求销量还是打造品牌。</div>
-</div>
-<div class="qa-item">
-<div class="question"><strong>Q:</strong> 较大的成本主要是什么？</div>
-<div class="answer"><strong>A:</strong> 较大的成本主要是运输成本以及沉默成本，即商品卖不出去所造成的成本损失。</div>
-</div>
-<div class="qa-item">
-<div class="question"><strong>Q:</strong> 当某个产品卖得好的时候，竞争对手会怎么做？</div>
-<div class="answer"><strong>A:</strong> 当一个产品销量好时，周围的商家会迅速跟风复制这个产品。</div>
-</div>
-<div class="qa-item">
-<div class="question"><strong>Q:</strong> Glib market里的商品是如何分类的？</div>
-<div class="answer"><strong>A:</strong> 在Glib market里，相同品类的商品会被聚集在一起，例如衣服类商品放在一起，手工品也集中在一起。</div>
-</div>
-<div class="qa-item">
-<div class="question"><strong>Q:</strong> 现在你们的YouTube账号粉丝量达到20万，广告收入大概有多少？</div>
-<div class="answer"><strong>A:</strong> 目前YouTube的广告收入每月在1500到3000美金之间波动，并且观察到观看量增长有所下降，可能受到视频内容、竞争加剧或谷歌GPT影响等因素。</div>
-</div>
-<div class="qa-item">
-<div class="question"><strong>Q:</strong> 是否有尝试制作YouTube短片（shorts）并取得好的效果？</div>
-<div class="answer"><strong>A:</strong> 已经制作YouTube短片，但表现一般，相比之下Instagram上的表现更好一些，但由于Instagram没有广告，需要通过引流到网店或其他商品课程来获取收入。</div>
-</div>
-<div class="qa-item">
-<div class="question"><strong>Q:</strong> 除了广告收入外，还有哪些收入渠道？</div>
-<div class="answer"><strong>A:</strong> 主要收入渠道包括网店中售卖digital教程（自动发货）和钩针毛线制品。此外，通过网店销售钩针材料包等商品，采用drop shipping模式，由国内工厂直接发货。</div>
-</div>
-<div class="qa-item">
-<div class="question"><strong>Q:</strong> 摆摊销售与创业相比，哪个更值得投入时间和精力？</div>
-<div class="answer"><strong>A:</strong> 摆摊虽然短期内可能赚取一定利润，但其占用的时间成本高，且对长期积累不利，相比之下，将时间用于录制可长期销售的在线课程能创造更多价值。</div>
-</div>
-<div class="qa-item">
-<div class="question"><strong>Q:</strong> 如果想要进入YouTube市场，是否会推荐这样做？</div>
-<div class="answer"><strong>A:</strong> 是否推荐进入YouTube市场取决于个人兴趣和选定的领域，关键是建立个人IP和个人品牌，选择哪个平台主要看行业特点和个人喜好，同时要能坚持长期投入并不断积累。</div>
-</div>
-<div class="qa-item">
-<div class="question"><strong>Q:</strong> 你们视频和Instagram上的内容美感是如何形成的？</div>
-<div class="answer"><strong>A:</strong> 视频和图片的美感主要源于个人对钩针工艺的热爱和艺术创作的背景，会从大师画作中获取灵感，运用到拍摄构图和配色上，使其看起来自然且具有美感。</div>
-</div>
-<div class="qa-item">
-<div class="question"><strong>Q:</strong> 你们做字幕的初衷是因为Youtube上的广告收入翻倍吗？</div>
-<div class="answer"><strong>A:</strong> 其实最开始做字幕是为了解决自己在使用Youtube时遇到的问题，比如由于口音和专业词汇导致语音转文字的准确率不高。随着需求增加，我们意识到这是一个更大的市场，并非仅仅为了广告收入翻倍。</div>
-</div>
-<div class="qa-item">
-<div class="question"><strong>Q:</strong> 当时在决定做线下会议字幕时，你们进行了市场调研吗？</div>
-<div class="answer"><strong>A:</strong> 当时主要是在解决自己的家庭内部问题，并未进行专门的市场调研。但在第一次创业经历中，我们吸取了教训，从市场痛点出发，观察并尝试解决真实市场中的问题，如线下活动字幕的需求。</div>
-</div>
-<div class="qa-item">
-<div class="question"><strong>Q:</strong> 这个转向线下的经历对你们后续的发展有何影响？</div>
-<div class="answer"><strong>A:</strong> 这段经历成为我们向员工讲述公司发展历程时非常有趣的一部分。客户对产品的反馈比较正面，推荐信也帮助我们获得了其他机构的关注。同时，澳大利亚对初创企业的包容性很强，即使我们成立初期没有任何参考背书，也得到了大型机构的信任和支持。</div>
-</div>
-<div class="qa-item">
-<div class="question"><strong>Q:</strong> 从为Youtube做字幕转向为线下会议提供服务，你们做了哪些产品上的调整？</div>
-<div class="answer"><strong>A:</strong> 为了满足线下会议场景的需求，我们几乎全部重新做了产品，包括与音频视频团队配合，确保技术方案可行且能适应现场环境。尽管效果还可以，但因API限制会出现短暂卡顿，需要人工刷新。</div>
-</div>
-<div class="qa-item">
-<div class="question"><strong>Q:</strong> 当时为那位观众提供的线下会议字幕服务是如何定价的？</div>
-<div class="answer"><strong>A:</strong> 根据了解到的人工打字报价（约230-250澳元/小时），我们将其对折，以150澳元/小时的价格报价，最终客户非常满意并欣然接受，而实际的软件使用费用远低于人工成本。</div>
-</div>
-<div class="qa-item">
-<div class="question"><strong>Q:</strong> 在澳洲，你是如何接触并吸引客户的？</div>
-<div class="answer"><strong>A:</strong> 我会通过社交媒体、口碑传播以及与影响力较大的people builder club AI builder club等组织合作，他们会在平台上推广我们的产品。同时，也会通过warm introduction（中间人推荐）的方式与潜在客户建立联系。</div>
-</div>
-<div class="qa-item">
-<div class="question"><strong>Q:</strong> 你的warm introduction是如何获得的？</div>
-<div class="answer"><strong>A:</strong> 主要是在一些创业俱乐部和社群中积极推广，通过影响力较大的成员帮助宣传，以及利用已合作过的项目作为信誉背书来吸引新的客户。</div>
-</div>
-<div class="qa-item">
-<div class="question"><strong>Q:</strong> 演讲和路演在你们获取客户中扮演了什么角色？</div>
-<div class="answer"><strong>A:</strong> 楚豪（公司创始人）的演讲和路演能力非常强，早期的两笔投资都是通过他的演讲获得的。他能高效地传达产品故事和愿景，使演讲成为一种高效的广告宣传方式。</div>
-</div>
-<div class="qa-item">
-<div class="question"><strong>Q:</strong> 你是否背稿进行演讲？</div>
-<div class="answer"><strong>A:</strong> 不是背稿，而是通过反复练习形成自己的表达框架，在讲述过程中进行自由表达，注重讲述故事和情感传递。</div>
-</div>
-<div class="qa-item">
-<div class="question"><strong>Q:</strong> 在面对竞争对手时，客户反馈集中在哪些方面？</div>
-<div class="answer"><strong>A:</strong> 客户主要抱怨竞争对手的产品无法快速响应需求变化，不支持大规模同时使用，且人工操作成本高，不如我们的纯软件解决方案灵活便捷。</div>
-</div>
-<div class="qa-item">
-<div class="question"><strong>Q:</strong> 目前的主要客户群体是什么？</div>
-<div class="answer"><strong>A:</strong> 目前的主要客户群体是经常组织会议的场地提供方，以及负责外包活动组织的服务提供商，他们通过使用我们的产品来增加会议功能并提高客户满意度。</div>
-</div>
-<div class="qa-item">
-<div class="question"><strong>Q:</strong> 你们在完成融资后，接下来的重点是什么？</div>
-<div class="answer"><strong>A:</strong> 我们接下来的重点是想清楚我们的策略，因为我们产品已经有所改善，接下来要集中精力在某个点上突破市场。</div>
-</div>
-<div class="qa-item">
-<div class="question"><strong>Q:</strong> 对于目前的市场工作，你是否觉得精力不足？</div>
-<div class="answer"><strong>A:</strong> 是的，有时候精力确实会感到不足，因为除了市场工作外，还需要帮助客户在线下测试等，但通过与客户的实时交流，我们能学到很多无法从编程中直接获取的痛点和问题，这种学习过程非常有价值。</div>
-</div>
-<div class="qa-item">
-<div class="question"><strong>Q:</strong> 在拿到投资后，你们是否会增加人员，比如市场人员或编程人员？</div>
-<div class="answer"><strong>A:</strong> 我们已经增加了编程人员，但暂时还没有增加市场人员。</div>
-</div>
-<div class="qa-item">
-<div class="question"><strong>Q:</strong> 投资人为什么看好你们？</div>
-<div class="answer"><strong>A:</strong> 投资人主要看重的是我们的 founding team，即团队成员。</div>
-</div>
-<div class="qa-item">
-<div class="question"><strong>Q:</strong> 你为何要组织华人AI协会？</div>
-<div class="answer"><strong>A:</strong> 底层逻辑是对第四次工业革命的关注，不想让科技上落后，并希望通过协会与大家共同探讨、解决问题。同时，协会也带来实际好处，如结识新朋友、获得客户资源和技术支持。</div>
-</div>
-<div class="qa-item">
-<div class="question"><strong>Q:</strong> 在协会或交流中，有没有做AI创业的有意思的项目？</div>
-<div class="answer"><strong>A:</strong> 有的，例如 Pod wise、empathetic AIOK、3X点AI等，它们分别在文本生成、税务咨询、音乐生成、室内设计报价、无人剪草机等方面有创新应用。</div>
-</div>
-<div class="qa-item">
-<div class="question"><strong>Q:</strong> 澳洲创业企业是否会扎根澳洲还是拓展到其他国家市场？</div>
-<div class="answer"><strong>A:</strong> 大多数澳洲创业企业最终目标是进入美国市场，因为美国市场规模大约是澳洲的十倍，且更容易复制成功模式。澳洲创业企业通常会先立足本土，之后再进军北美、英国等英语区市场。</div>
-</div>
-<h1>节目文稿</h1>
-<p class="transcript-line">
-<span class="time"><strong>[00:00:04]</strong> </span>
-<span class="speaker"><strong>发言人1: </strong></span>
-大家好，欢迎收听异地骇客。我是seattle，我是一笑，我是龟龟。本期节目由power wise赞助播出。Hot wise是一款为播客听众制作的AI学习软件产品的slogan是read before listen。Model wise通过AI对播客内容进行转录提取、总结分析等一系列操作，帮你掰开了揉碎了硬核的播客内容。同时与notion read wise等平台的打通，嵌入知识管理工作流，协助您的其他包括新闻news letter blog的内容，帮你打造第二大脑。Hot wise也为本期听众准备了三个5折优惠码，针对本期在小宇宙与我们互动的精选回复，欢迎大家踊跃来玩。
-</p>
-<p class="transcript-line">
-<span class="time"><strong>[00:00:46]</strong> </span>
-<span class="speaker"><strong>发言人1: </strong></span>
-好的，那开始我们本期的节目。大家好，欢迎收听一年骇客。本期我们非常荣幸邀请到su n flower AI的创始人楚豪和灵芝sunflower AI是一个专为线下活动提供实时字幕的产品，然后他俩也是典型的斜杠青年，除了创业之外，还拥有一个将近20万粉丝的youtube账号，叫做灵芝handmade，做钩针毛线的教学。然后周末的时候还会去悉尼历史最悠久的跳蚤市场glek market去练摊。我跟着他们也去体验了一次，非常有意思。我们先欢迎土豪跟灵芝，两位可以先介绍一下自己。
-</p>
-<p class="transcript-line">
-<span class="time"><strong>[00:01:20]</strong> </span>
-<span class="speaker"><strong>发言人2: </strong></span>
-Hello大家好，我叫灵芝，我现在定居在悉尼澳大利亚。我国内是本科是在北京理工大学读的生物医学，工程硕士就去山东大学国家糖工程技术研究中心。但是这个糖不是咱们吃的糖，是个生物材料的糖。然后博士又在农工大学读的3D打印人工皮肤，后面也做youtube还有做AI的创业，这个后面继续跟大家讲。
-</p>
-<p class="transcript-line">
-<span class="time"><strong>[00:01:51]</strong> </span>
-<span class="speaker"><strong>发言人3: </strong></span>
-大家好，我叫刘楚豪，湖南人，湖南的。我是也是在北京中国矿业大学读的书，后面去美国的这种农工大学读的硕士。之后来澳大利亚卧龙岗大学读博士期间，我都是学土木工程，后面期间认识了我现在的妻子，后面我决定drop out我的博士去做全职的AI创业。你们能给我们介绍一下。
-</p>
-<p class="transcript-line">
-<span class="time"><strong>[00:02:17]</strong> </span>
-<span class="speaker"><strong>发言人1: </strong></span>
-因为我知道你们是澳洲的全球人才计划引进的吗？有VISA。然后你们能给我们讲一下你们是怎么拿到这个。
-</p>
-<p class="transcript-line">
-<span class="time"><strong>[00:02:25]</strong> </span>
-<span class="speaker"><strong>发言人3: </strong></span>
-对吧？我是在读博士期间，我们就一起做了AI的创业。然后通过那个AI的创业拿到一些澳大利亚这边一个最大的国家的科学院机构，叫CSIRO的一些方鼎。但是也不多，也就3 4200校园，但是赢了一些奖，然后就是把这个东西写的比较好，刚好他有个全球人才计划，然后他就给了我们这个为啥？就是两周夏天绿卡。
-</p>
-<p class="transcript-line">
-<span class="time"><strong>[00:02:52]</strong> </span>
-<span class="speaker"><strong>发言人2: </strong></span>
-全全程D.
-</p>
-<p class="transcript-line">
-<span class="time"><strong>[00:02:53]</strong> </span>
-<span class="speaker"><strong>发言人1: </strong></span>
-IY全程。
-</p>
-<p class="transcript-line">
-<span class="time"><strong>[00:02:54]</strong> </span>
-<span class="speaker"><strong>发言人3: </strong></span>
-DIY。我们当时有时候抱着岁数的态度，也不知道自己行不行，然后就是去做一下，没想到就行了。
-</p>
-<p class="transcript-line">
-<span class="time"><strong>[00:03:03]</strong> </span>
-<span class="speaker"><strong>发言人1: </strong></span>
-这个经历太传奇了。我想问一下，你们为什么给自己的公司起名叫sunflower AI？因为我自己觉得说通过这个名字，我很难想到他是一个做AI字幕的。
-</p>
-<p class="transcript-line">
-<span class="time"><strong>[00:03:14]</strong> </span>
-<span class="speaker"><strong>发言人2: </strong></span>
-因为我在做youtube，然后youtube期间我就发现一个需求，我需要每次给youtube做字幕。然后我们就想能不能用AI的方法来解决做youtube字幕的事情，因为每次还挺费时间的。然后那时候刚好要去参加一个展会，展会的话我们就想着布置一下这个展会。我们就想不如我们怎么让我们自己成为显眼包呢？我就想做一个human side的一个sunflower，放在那里我觉得比较好。然后这时候我们那个CTO就觉得，既然这样，我们干脆叫suns flower AI。而且我youtube里边本身sunflower相关的视频也都是表现最好的，包括我卖的产品里也是sunflower卖的最好，所以就起了叫some power AI这个名字。
-</p>
-<p class="transcript-line">
-<span class="time"><strong>[00:04:02]</strong> </span>
-<span class="speaker"><strong>发言人1: </strong></span>
-对，觉得这个还挺好奇的。就是你们做这个youtube，因为你们两个都是博士了，对吗？博士为什么会想去做youtube？这个事儿是怎么开始的对。
-</p>
-<p class="transcript-line">
-<span class="time"><strong>[00:04:13]</strong> </span>
-<span class="speaker"><strong>发言人2: </strong></span>
-我的youtube博士从2020年开始的，我能记得比较清，因为那年发生很多事情。首先那是我博士的最后一年，其次那一年疫情比较严重，就是大家都居家隔离，然后我就在家里写论文，再加上那一年结婚怀孕，就刚好也是疫情。就想停下来想一想后面的人生往哪里走，再加上本身我们俩也想创业，也不想走传统的去上班这条路，但是创什么呢？也不知道。那时候刚好我遇到一本书，我觉得对我影响特别大。醮那玩意儿宝典。
-</p>
-<p class="transcript-line">
-<span class="time"><strong>[00:04:49]</strong> </span>
-<span class="speaker"><strong>发言人1: </strong></span>
-是创意那本书，我知道。
-</p>
-<p class="transcript-line">
-<span class="time"><strong>[00:04:51]</strong> </span>
-<span class="speaker"><strong>发言人2: </strong></span>
-然后这里边有一个观点非常打动我，就是说致富需要一些商业杠杆。商业杠杆他指的是资本劳动力复制的边际成本为零的产品。对，这里指的就是代码和媒体。对对对，当时这个话我看完就觉得非常的醍醐灌顶。因为在疫情这个期间又不方方便出去找工作。对那呆在家里想创业，代码和媒体就是很好的轻资产开始的一个方向。这时候他就开始学了AI fast点AIOK然后我开始想往媒体的方向做，但是没有一开始就去做勾针，因为我也去youtube去搜怎么样去选一个话题，这个还挺难。我最开始做的是书评。
-</p>
-<p class="transcript-line">
-<span class="time"><strong>[00:05:37]</strong> </span>
-<span class="speaker"><strong>发言人1: </strong></span>
-书评OK.
-</p>
-<p class="transcript-line">
-<span class="time"><strong>[00:05:38]</strong> </span>
-<span class="speaker"><strong>发言人2: </strong></span>
-第一本书讲的是牛奶可乐经济学，它作为一个动画版的，但是首先做出来之后表现一般，其次它非常的耗时耗力，再加上那时候我要做写博士论文，还有怀孕就觉得放弃了，然后停了五个月下一条视频是关于毛线钩针的。因为那个时候怀孕，自然而然的会想做一些手工，对，给小孩子做一些东西。然后再加上我做事儿也有一些习惯，就是我不太喜欢一次性的或者说零散的。就是我这个事情做完时间就浪费了，不能积累的，我不喜欢这样。就是我想既然做了，我花了时间勾了这个毛线，我想我可以拍成照片或者拍成视频去扩大它的影响，持续他的影响。于是拍了第一条钩针教学视频，那个视频就是反应非常好，是我开始获得粉丝，可能几天时间就有100个，前100个弗洛尔就有了。就是纯的organic的traffic。因为表现好，我就后面就继续往下做了。
-</p>
-<p class="transcript-line">
-<span class="time"><strong>[00:06:41]</strong> </span>
-<span class="speaker"><strong>发言人1: </strong></span>
-我就想问，因为你自己在生物，在这个上面你都这么长时间了吗？为什么当初没有在澳洲去选择做一个生物相关的就业，干嘛的？
-</p>
-<p class="transcript-line">
-<span class="time"><strong>[00:06:51]</strong> </span>
-<span class="speaker"><strong>发言人2: </strong></span>
-这里一个非常实际的一个问题是我当时结婚就是博士毕业的时候，有快30岁9岁。就是女生到结婚生孩子，就是你怎么去平衡你的事业和家庭。你怎么能找到一个我总被打断的一个事业方向？我觉得这是每个女性或者每个家庭都要去考虑的事情。我当时也考虑，如果我这三年生孩子，那我怎么样能在科研这个领域里继续保持我的发论文、科研我怎么做呢？或者如果我想生二胎，我怎么维持我的这个科研生涯的继续呢？就是我当时没有想好这个事情我该怎么办？所以我的选择是先生孩子在生孩子期间探索媒体的这个方向，OK同时保持着科研的可能性。
-</p>
-<p class="transcript-line">
-<span class="time"><strong>[00:07:46]</strong> </span>
-<span class="speaker"><strong>发言人1: </strong></span>
-对，但现在就不考虑了是吧？
-</p>
-<p class="transcript-line">
-<span class="time"><strong>[00:07:48]</strong> </span>
-<span class="speaker"><strong>发言人2: </strong></span>
-因为现在我更喜欢媒体这个方向。你会觉得他你会接触非常多的新鲜的事物，你会学习如何用AI来提升自己的生产力。你可以完全规划自己的时间，自己的事情，他跟你在一个所里去上班，他是不一样的感觉。
-</p>
-<p class="transcript-line">
-<span class="time"><strong>[00:08:07]</strong> </span>
-<span class="speaker"><strong>发言人1: </strong></span>
-对对对，是，因为我有看过你的视频，你的勾针教学的话是不是从第一期开始就是英文内容。对，然后这个能简单介绍一下为什么当初没有做中，我相信你第一个我不确定你的那个牛奶可乐经济学是中文的书评还是英文书评。
-</p>
-<p class="transcript-line">
-<span class="time"><strong>[00:08:23]</strong> </span>
-<span class="speaker"><strong>发言人2: </strong></span>
-那个时候是中文书评。
-</p>
-<p class="transcript-line">
-<span class="time"><strong>[00:08:25]</strong> </span>
-<span class="speaker"><strong>发言人1: </strong></span>
-那你为什么做了中文书评之后，要转过头来做英文的构建教学呢？
-</p>
-<p class="transcript-line">
-<span class="time"><strong>[00:08:30]</strong> </span>
-<span class="speaker"><strong>发言人2: </strong></span>
-首先第一个出发点是想逼自己练英语，不想让英语退化，当时这也是主要的出发点。OK就是挑战一下自己，因为会觉得如果我能做成一个international的，有知名的youtube r这是一件非常酷的事情，会是一件我很为自己骄傲的事情。
-</p>
-<p class="transcript-line">
-<span class="time"><strong>[00:08:49]</strong> </span>
-<span class="speaker"><strong>发言人1: </strong></span>
-OK单纯从英语这个角度就开始做钩针的英语教学，对。
-</p>
-<p class="transcript-line">
-<span class="time"><strong>[00:08:54]</strong> </span>
-<span class="speaker"><strong>发言人2: </strong></span>
-我也想增大这个事情的可能性，因为如果我说中文，我的观众就只是对华人，但是如果我说英语，我的观众是international的。对对对，而现在也证明事实也证明，如果我的粉丝里美国的观众比较多，那我的收到的广告费也是更多的。因为美国的。
-</p>
-<p class="transcript-line">
-<span class="time"><strong>[00:09:12]</strong> </span>
-<span class="speaker"><strong>发言人1: </strong></span>
-人均广告价值会比中文的广告价值要高。对，你们当时在做这个账号的时候，当时有对标账号吗？你当时有看到谁已经做成功了，然后你说我其实也可以做这个事儿，有这样的对标账号吗？
-</p>
-<p class="transcript-line">
-<span class="time"><strong>[00:09:27]</strong> </span>
-<span class="speaker"><strong>发言人2: </strong></span>
-当时其实没有，当时我的出发点是我的钩针是我从头开始学的，不是我本来就会。而是说在我学钩针的时候，我发现别人的账号他教视频他教的不好。我也知道如果我去教，我可以教的更好，事实也是证明，我现在经常收到我的follower的反馈，说我教的非常的清楚，跟着我们能够完全勾出来，所以我当时应该是自己开创了一种教学方法，这也是我的channel能长得非常快的原因了解。而且我记得费曼学习法里面会说，你学习一个事情最好的方法是你把它教出来。
-</p>
-<p class="transcript-line">
-<span class="time"><strong>[00:10:07]</strong> </span>
-<span class="speaker"><strong>发言人1: </strong></span>
-对你教别人。对。
-</p>
-<p class="transcript-line">
-<span class="time"><strong>[00:10:09]</strong> </span>
-<span class="speaker"><strong>发言人2: </strong></span>
-如果你能交出来。
-</p>
-<p class="transcript-line">
-<span class="time"><strong>[00:10:10]</strong> </span>
-<span class="speaker"><strong>发言人1: </strong></span>
-说明你选好了。对，这个是我想问你，你刚才讲说你自己的那个视频出来之后，你发到youtube上面涨了100个粉丝，是youtube帮你推的是吗？你自己有在别的渠道有去做宣传吗？
-</p>
-<p class="transcript-line">
-<span class="time"><strong>[00:10:23]</strong> </span>
-<span class="speaker"><strong>发言人2: </strong></span>
-我没有做宣传，当时我不知道。
-</p>
-<p class="transcript-line">
-<span class="time"><strong>[00:10:26]</strong> </span>
-<span class="speaker"><strong>发言人1: </strong></span>
-怎么宣传。
-</p>
-<p class="transcript-line">
-<span class="time"><strong>[00:10:26]</strong> </span>
-<span class="speaker"><strong>发言人2: </strong></span>
-OK. 对我现在回看我的这个号能起来，我觉得和当时疫情是有关系的。因为我也记得当时k mart开始上架毛线了，我就印象中在疫情之前KMAT是不卖毛线的，但是在疫情期间k mart开始卖毛线了。我理解的是在疫情期间，很多人每天呆在家里，他需要建立一个hobby，或者打发时间，或者摆脱焦虑。然后钩针他就刚好能实现这种效果，所以我才是我当时刚好在那么一个trending上面，DIY craft的这个领域有一个trending有流量。
-</p>
-<p class="transcript-line">
-<span class="time"><strong>[00:11:04]</strong> </span>
-<span class="speaker"><strong>发言人1: </strong></span>
-对，我们之前也有介绍过一个人，他在这个疫情期间他就帮别人做桌搭，就是他收集了很多桌搭，因为很多人work from home，然后大家就觉得说他的那个桌子的样子不好看，他就去拍很多别人好看的桌子，或者说他就在twitter或者在哪个地方收集别人的好看的桌子，然后就发到自己的一个newsletter上面，也收集了很多钱。所以说我觉得确实疫情改变了很多人的生活，对吧？对，你说你第一个视频出来之后就涨了一百多个粉丝，因为你现在已经将近20万了。你这个过程里面有哪几个视频是爆掉的？就是突然可能一下涨了1万个粉丝，有类似那种吗？
-</p>
-<p class="transcript-line">
-<span class="time"><strong>[00:11:42]</strong> </span>
-<span class="speaker"><strong>发言人2: </strong></span>
-前面两年其实没有非常爆款的视频，它就是非常平稳的在增长，或者加速度在增加。倒是有ins上有两三个报的短视频观看量都超过500万.
-</p>
-<p class="transcript-line">
-<span class="time"><strong>[00:11:58]</strong> </span>
-<span class="speaker"><strong>发言人1: </strong></span>
-这个很多了。
-</p>
-<p class="transcript-line">
-<span class="time"><strong>[00:12:00]</strong> </span>
-<span class="speaker"><strong>发言人2: </strong></span>
-对，这几个短视频首先给我的youtube实现了引流是肯定的，也给我的网店带来很多订单也是确定的。对，但是我youtube里边前两年没有这样的爆款视频，两年多的时候应该有一些sampler相关的视频，就是我说他表现比较好OK所以说。
-</p>
-<p class="transcript-line">
-<span class="time"><strong>[00:12:19]</strong> </span>
-<span class="speaker"><strong>发言人1: </strong></span>
-在这个过程里面，你说你两年前的时候可能都是稳定增长，可能跟我们现在podcast有点像。我们现在podcast基本上每周可能大概四五百个订阅，可能就类似于这样子，也是持续稳步在增长。我相信你们可能因为你们数量要多，可能每周一两千。
-</p>
-<p class="transcript-line">
-<span class="time"><strong>[00:12:36]</strong> </span>
-<span class="speaker"><strong>发言人2: </strong></span>
-对，之前一二年的时候，每个月的新增加的follower能到15000左右。对。
-</p>
-<p class="transcript-line">
-<span class="time"><strong>[00:12:45]</strong> </span>
-<span class="speaker"><strong>发言人1: </strong></span>
-那你们现在你想一下，从第一个视频到现在已经有将近三年多时间了。对，然后你前期肯定不怎么赚钱，是什么驱动力持续勾下去，持续拍下去的，这是个。
-</p>
-<p class="transcript-line">
-<span class="time"><strong>[00:12:59]</strong> </span>
-<span class="speaker"><strong>发言人2: </strong></span>
-好问题。首先如果我put end first的话，就是说我假设我八九十岁了，我衣食无忧，我孩子也长大了，事业也很成功，有很多时间我会干什么？那个时候我可能会痒痒，只养只狗，养点花，然后就是钩针我肯定是还是会做。
-</p>
-<p class="transcript-line">
-<span class="time"><strong>[00:13:18]</strong> </span>
-<span class="speaker"><strong>发言人2: </strong></span>
-首先钩针对于我来说，它是那种我的爱好，就是没有人给我付钱我依然会做的爱好。每个人都会有这样的东西，可以是看书、打游戏或者运动，每人都有这样的东西。勾针对于我来说是这么一个存在。
-</p>
-<p class="transcript-line">
-<span class="time"><strong>[00:13:34]</strong> </span>
-<span class="speaker"><strong>发言人2: </strong></span>
-另外就是我过去的三年，对我个人来讲是比较强一点的三年。因为结婚生了两个孩子，还有疫情也结束了这个学习的二十多年的学习的过程。然后也没有走传统的路去上班领工资。所以整个人生都是非常不确定的状态，有时候会非常焦虑。
-</p>
-<p class="transcript-line">
-<span class="time"><strong>[00:13:58]</strong> </span>
-<span class="speaker"><strong>发言人2: </strong></span>
-每个人可能都有一些自己克服焦虑的方法。对于我来说钩针是能让我平静下来，不那么焦虑。或者说对于我来说，钩针像一个动态的冥想，能让我平静下来。我相信每个人也都有不同的方法能让自己克服焦虑。所以从另一方面来讲，勾针对于我来说，它不光是一个赚钱不赚钱的事情，它是一个爱好，它是一个能让我冥想获得平静的一个角落。对，这也是驱动我去一直往下做的。
-</p>
-<p class="transcript-line">
-<span class="time"><strong>[00:14:29]</strong> </span>
-<span class="speaker"><strong>发言人1: </strong></span>
-对我觉得这个特别好。很多人就是现在因为尤其在国内，海外，你们可能之前读书的时候可能也会比较焦虑，但国内现在很多人上班会比较焦虑。对，然后我觉得就是冥想，要不然就你讲的这种钩针来代替冥想，对吧？就是做一些看似很机械的事，但其实很治愈。
-</p>
-<p class="transcript-line">
-<span class="time"><strong>[00:14:48]</strong> </span>
-<span class="speaker"><strong>发言人2: </strong></span>
-因为纯粹的冥想我觉得很难就是坐在那里不动，让自己的脑子不动，这其实非常难的一个行为。但是如果说你有一些简单的不动脑子的事情，比如go的人，比如家务，比如走路这种让自己达到一个理想的状态，我觉得已经非常棒了。
-</p>
-<p class="transcript-line">
-<span class="time"><strong>[00:15:07]</strong> </span>
-<span class="speaker"><strong>发言人1: </strong></span>
-是的，在前面有在介绍你们去glib market去摆摊，对吧？那在摆摊的这个过程里面，你们会去通过摆摊去测说你到底要拍什么视频吗？没错。
-</p>
-<p class="transcript-line">
-<span class="time"><strong>[00:15:21]</strong> </span>
-<span class="speaker"><strong>发言人2: </strong></span>
-首先摆摊它是一个怎么说对自己也是一个有挑战的一个。
-</p>
-<p class="transcript-line">
-<span class="time"><strong>[00:15:26]</strong> </span>
-<span class="speaker"><strong>发言人1: </strong></span>
-对我跟你们去过一次，我觉得确实还挺有意思的对，而且里边卖什么都有，然后什么人都有。对。
-</p>
-<p class="transcript-line">
-<span class="time"><strong>[00:15:33]</strong> </span>
-<span class="speaker"><strong>发言人2: </strong></span>
-那意思。对，因为我我以前觉得我的表达能力差，因为我是个内向的人我表达能力差。然后摆摊的话对于我来说挑战的地方在于我要面对很多陌生人，我要跟他们用英语交流。一个是锻炼英语，一个是锻炼表达能力，这是我的一个出发点。另外的话我会在摆摊的时候去拍我的短视频的素材。就是说当天的业绩我是无法控制的，但是我可以控制我今天拍，比方说五条短视频，OK一条长视频，拍十张照片，这样我下一个月的instagram或者。
-</p>
-<p class="transcript-line">
-<span class="time"><strong>[00:16:09]</strong> </span>
-<span class="speaker"><strong>发言人1: </strong></span>
-就有素材了。
-</p>
-<p class="transcript-line">
-<span class="time"><strong>[00:16:10]</strong> </span>
-<span class="speaker"><strong>发言人2: </strong></span>
-对，就可以，这是一个主要的。
-</p>
-<p class="transcript-line">
-<span class="time"><strong>[00:16:12]</strong> </span>
-<span class="speaker"><strong>发言人1: </strong></span>
-对，刚才一直在说youtube，然后你instagram现在有多少粉丝？
-</p>
-<p class="transcript-line">
-<span class="time"><strong>[00:16:16]</strong> </span>
-<span class="speaker"><strong>发言人2: </strong></span>
-现在是98点几K就是快到100k.
-</p>
-<p class="transcript-line">
-<span class="time"><strong>[00:16:20]</strong> </span>
-<span class="speaker"><strong>发言人1: </strong></span>
-OK就是将近10万的粉丝对吧？你这个instagram也很大。
-</p>
-<p class="transcript-line">
-<span class="time"><strong>[00:16:26]</strong> </span>
-<span class="speaker"><strong>发言人3: </strong></span>
-他那个其实也给我带来了好处，我不是全职创业。对，当然那时候给我们带一些直接的收入。第二个事情是我们就发我这边摆摊，我边在那里边吃，为我们AI创业公司，我发一张这一张照片，然后就报了在linked in上面。
-</p>
-<p class="transcript-line">
-<span class="time"><strong>[00:16:42]</strong> </span>
-<span class="speaker"><strong>发言人1: </strong></span>
-OK在link in上报的是吧？
-</p>
-<p class="transcript-line">
-<span class="time"><strong>[00:16:44]</strong> </span>
-<span class="speaker"><strong>发言人3: </strong></span>
-然后最后就是很多人评论说就是inspiring，鼓舞人心，这样OK。然后我们现在一个比较核心的成员就是通过这个钉钉推荐算法找到我们，然后他有两个人免费给我们编了半年的程序。就因为这个跟偏post.
-</p>
-<p class="transcript-line">
-<span class="time"><strong>[00:17:02]</strong> </span>
-<span class="speaker"><strong>发言人2: </strong></span>
-大家觉得我们很拼。
-</p>
-<p class="transcript-line">
-<span class="time"><strong>[00:17:05]</strong> </span>
-<span class="speaker"><strong>发言人1: </strong></span>
-确实挺拼的对。
-</p>
-<p class="transcript-line">
-<span class="time"><strong>[00:17:07]</strong> </span>
-<span class="speaker"><strong>发言人3: </strong></span>
-包括我现在天使投资人也是通过这个cost达到的。
-</p>
-<p class="transcript-line">
-<span class="time"><strong>[00:17:11]</strong> </span>
-<span class="speaker"><strong>发言人1: </strong></span>
-我觉得灵芝是一个很我我不太想用这个词，但是我现在找不到更好的词。就是很上进的人，就是你会不断挑战自己，对吧？比如说为什么我一开始问你说你去做youtube做媒体，然后你一上来你就讲说我用英文做是锻炼我们的英语，然后可能有更多广告收入等等之类的，就是用英语做。然后去摆摊也是。我发现你不管做一个退款还是去做摆摊，你的第一感觉可能是找一个事儿去挑战自己，我觉得这个还挺特别的，因为很多人可能他不会去走过舒适圈。
-</p>
-<p class="transcript-line">
-<span class="time"><strong>[00:17:43]</strong> </span>
-<span class="speaker"><strong>发言人2: </strong></span>
-对吧？另外就是像做youtube他不一定能做成功。但是如果我能确定这个过程，我锻炼了英语，对。
-</p>
-<p class="transcript-line">
-<span class="time"><strong>[00:17:54]</strong> </span>
-<span class="speaker"><strong>发言人1: </strong></span>
-这也是我能确定的。
-</p>
-<p class="transcript-line">
-<span class="time"><strong>[00:17:56]</strong> </span>
-<span class="speaker"><strong>发言人2: </strong></span>
-或者说摆摊那天是赚钱了，是赔钱了我不确定。但是我锻炼了我的表达能力，我收集了视频素材，这些我会优先考虑哪些是我能控制的，我把它做好。我不能控制的那个就看看运气。
-</p>
-<p class="transcript-line">
-<span class="time"><strong>[00:18:12]</strong> </span>
-<span class="speaker"><strong>发言人1: </strong></span>
-就是把自己能做好的或者自己想要的做好，然后其他的收益就是听天由命，反正有就有没有就没有，对你来讲无所谓，对吧？对，我觉得这个心态特别好。对我其实替大家问一下，国内其实摆摊不是随便能摆摊的对悉尼摆摊是一个什么样的流程？能不能给大家介绍一下？
-</p>
-<p class="transcript-line">
-<span class="time"><strong>[00:18:33]</strong> </span>
-<span class="speaker"><strong>发言人2: </strong></span>
-首先悉尼它很有趣，就是一到周末它有非常多的集市，我觉得是政府在鼓励local business OK。
-</p>
-<p class="transcript-line">
-<span class="time"><strong>[00:18:42]</strong> </span>
-<span class="speaker"><strong>发言人1: </strong></span>
-其次的话。
-</p>
-<p class="transcript-line">
-<span class="time"><strong>[00:18:43]</strong> </span>
-<span class="speaker"><strong>发言人2: </strong></span>
-就是摆摊都是要去申请。以这个格力普market为例子，他的摊位费有很多等级，然后我这种流动摊位现在就是一天135刀。如果你没有保险，就是public instance。你要么自己买个保险，要不然就是用the market，你交20到个人一个保险。如果你没有桌子，就在10到1张租个桌子。如果没有伞，你就在15到1张租个伞。就大概成本大概会一百六七OK一百六七10刀。
-</p>
-<p class="transcript-line">
-<span class="time"><strong>[00:19:16]</strong> </span>
-<span class="speaker"><strong>发言人1: </strong></span>
-然后现在人民币的奥币，反正基本上算1乘5，对吧？对，就是相当于八九百块钱。
-</p>
-<p class="transcript-line">
-<span class="time"><strong>[00:19:23]</strong> </span>
-<span class="speaker"><strong>发言人2: </strong></span>
-对对对吧？你再算上你的产品的成本，OK。
-</p>
-<p class="transcript-line">
-<span class="time"><strong>[00:19:27]</strong> </span>
-<span class="speaker"><strong>发言人1: </strong></span>
-然后一天你们知道的周围的这些人，或者说包括你们就一天大致能赚多少钱。
-</p>
-<p class="transcript-line">
-<span class="time"><strong>[00:19:34]</strong> </span>
-<span class="speaker"><strong>发言人2: </strong></span>
-我回顾我摆摊应该有十次吗？不到10次OK就是收益平均应该是在500到1000刀之间。
-</p>
-<p class="transcript-line">
-<span class="time"><strong>[00:19:44]</strong> </span>
-<span class="speaker"><strong>发言人1: </strong></span>
-五百刀到1000刀千刀.
-</p>
-<p class="transcript-line">
-<span class="time"><strong>[00:19:47]</strong> </span>
-<span class="speaker"><strong>发言人2: </strong></span>
-500刀最好收入。
-</p>
-<p class="transcript-line">
-<span class="time"><strong>[00:19:49]</strong> </span>
-<span class="speaker"><strong>发言人3: </strong></span>
-对，零收入。
-</p>
-<p class="transcript-line">
-<span class="time"><strong>[00:19:50]</strong> </span>
-<span class="speaker"><strong>发言人2: </strong></span>
-最好的一天应该是950刀。那一天卖了很多向日葵。
-</p>
-<p class="transcript-line">
-<span class="time"><strong>[00:19:55]</strong> </span>
-<span class="speaker"><strong>发言人1: </strong></span>
-卖了很多sunflower是吗？对。
-</p>
-<p class="transcript-line">
-<span class="time"><strong>[00:19:59]</strong> </span>
-<span class="speaker"><strong>发言人2: </strong></span>
-然后我了解到的摆摊卖的特别好的，他一天能够卖两千刀。对，这个他都是。
-</p>
-<p class="transcript-line">
-<span class="time"><strong>[00:20:09]</strong> </span>
-<span class="speaker"><strong>发言人3: </strong></span>
-平均水平。
-</p>
-<p class="transcript-line">
-<span class="time"><strong>[00:20:10]</strong> </span>
-<span class="speaker"><strong>发言人2: </strong></span>
-对他这个选品会选的比较好，是比较特殊的一些书签，就非常精致，然后单价又比较低。比方说拾到一个书签，但是这个书签我们知道的肯定是从中国买的。对，可能是三五块人民币一个，这样的利润率就很高。而且这个书签体积非常小，你运输的。
-</p>
-<p class="transcript-line">
-<span class="time"><strong>[00:20:31]</strong> </span>
-<span class="speaker"><strong>发言人1: </strong></span>
-时候成本也比较低。
-</p>
-<p class="transcript-line">
-<span class="time"><strong>[00:20:33]</strong> </span>
-<span class="speaker"><strong>发言人2: </strong></span>
-对，所以去摆摊的话，选品非常重要。
-</p>
-<p class="transcript-line">
-<span class="time"><strong>[00:20:36]</strong> </span>
-<span class="speaker"><strong>发言人3: </strong></span>
-而且它是长久摊位，永久摊位他就一直在一个比较好的角落，转角那个地方。
-</p>
-<p class="transcript-line">
-<span class="time"><strong>[00:20:42]</strong> </span>
-<span class="speaker"><strong>发言人2: </strong></span>
-的比较大。
-</p>
-<p class="transcript-line">
-<span class="time"><strong>[00:20:44]</strong> </span>
-<span class="speaker"><strong>发言人1: </strong></span>
-你们在摆摊过程里面，你们发现澳洲的本地人，就local的一些人。他们喜欢什么东西？首先我确定他们喜欢sunflower，对吧？除了3 flower之外，你刚才讲的那个书签他们可能也喜欢。你们有没有大致什么样的东西会在那个摊位里面会比较火？
-</p>
-<p class="transcript-line">
-<span class="time"><strong>[00:21:02]</strong> </span>
-<span class="speaker"><strong>发言人3: </strong></span>
-我感觉我还看观察一些比较火的东西，还有那种斜贴，就是这个洞洞鞋。
-</p>
-<p class="transcript-line">
-<span class="time"><strong>[00:21:08]</strong> </span>
-<span class="speaker"><strong>发言人1: </strong></span>
-拖鞋上面，OK洞洞鞋。
-</p>
-<p class="transcript-line">
-<span class="time"><strong>[00:21:11]</strong> </span>
-<span class="speaker"><strong>发言人3: </strong></span>
-见过就这种小东西，很便宜。然后你可能比如说买三送一这种，OK就是这种几个朋友大家就一起拼着买，这种因为特推导市场，那其实没有说具体的想买什么目的过去了，而是去逛逛。也就是说我这种二十多以内我可以承受，然后大家一起这种小东西给装修。
-</p>
-<p class="transcript-line">
-<span class="time"><strong>[00:21:33]</strong> </span>
-<span class="speaker"><strong>发言人2: </strong></span>
-他做一个购买的决定的。
-</p>
-<p class="transcript-line">
-<span class="time"><strong>[00:21:35]</strong> </span>
-<span class="speaker"><strong>发言人1: </strong></span>
-这个不冲动消费会比较强对对对对对。
-</p>
-<p class="transcript-line">
-<span class="time"><strong>[00:21:37]</strong> </span>
-<span class="speaker"><strong>发言人2: </strong></span>
-不要定价有100到以上，这个很难十刀、20刀或者五刀一个。对，这样他们很容易就做这个决定。
-</p>
-<p class="transcript-line">
-<span class="time"><strong>[00:21:45]</strong> </span>
-<span class="speaker"><strong>发言人3: </strong></span>
-OK就这种小东西这个定价很重要。我们有一个产品，我记得是本来定三十五刀，我们就降了五刀，降成比如说二十九刀，然后就卖了很多。
-</p>
-<p class="transcript-line">
-<span class="time"><strong>[00:21:55]</strong> </span>
-<span class="speaker"><strong>发言人1: </strong></span>
-二十刀跟三十刀差距是巨大的，是吧？
-</p>
-<p class="transcript-line">
-<span class="time"><strong>[00:21:57]</strong> </span>
-<span class="speaker"><strong>发言人2: </strong></span>
-大家对价格非常敏感。
-</p>
-<p class="transcript-line">
-<span class="time"><strong>[00:22:01]</strong> </span>
-<span class="speaker"><strong>发言人1: </strong></span>
-市场里面因为大部分的人大概描个眼，除了前面卖衣服的，后面可能很多都是手工品，对吧？汉美的手工品，这手工品我发现应该我不说百分之八九十，绝大部分可能都是从义乌那里来的对吧？很多都是从那里，而且大家毛利应该都特别高就基本上你只要定价定好了，无非就是你赚五块跟赚15块的区别，对吧，反正你肯定是能赚的，就看你到底是要销量，还是我是要我是要打自己的品牌或者干嘛的对吧？这里边其实盈利空间还是挺高的对。
-</p>
-<p class="transcript-line">
-<span class="time"><strong>[00:22:32]</strong> </span>
-<span class="speaker"><strong>发言人3: </strong></span>
-那比较大的成本是这种运输成本，然后沉默成本就他们卖不出去。对。
-</p>
-<p class="transcript-line">
-<span class="time"><strong>[00:22:38]</strong> </span>
-<span class="speaker"><strong>发言人2: </strong></span>
-以及当你一个产品卖的很好的时候，边上的人会迅速跟上来。
-</p>
-<p class="transcript-line">
-<span class="time"><strong>[00:22:43]</strong> </span>
-<span class="speaker"><strong>发言人1: </strong></span>
-对，会copy你是我也可以。其实大家货源大家都知道是从哪来的，是吧？
-</p>
-<p class="transcript-line">
-<span class="time"><strong>[00:22:48]</strong> </span>
-<span class="speaker"><strong>发言人3: </strong></span>
-但是其实后面卖着卖着大家都会有一些。
-</p>
-<p class="transcript-line">
-<span class="time"><strong>[00:22:51]</strong> </span>
-<span class="speaker"><strong>发言人1: </strong></span>
-区分细微的。是是是，对，但是好像在glib market里边，大家会把相同品类的东西会聚在一起，对吧？比如说衣服的大家就全部都在一起，你们可能卖手工品的全部都在一起对吧？
-</p>
-<p class="transcript-line">
-<span class="time"><strong>[00:23:04]</strong> </span>
-<span class="speaker"><strong>发言人3: </strong></span>
-对对对对。
-</p>
-<p class="transcript-line">
-<span class="time"><strong>[00:23:06]</strong> </span>
-<span class="speaker"><strong>发言人1: </strong></span>
-聚在一起之后大家相互之间。
-</p>
-<p class="transcript-line">
-<span class="time"><strong>[00:23:08]</strong> </span>
-<span class="speaker"><strong>发言人3: </strong></span>
-就会吵了。是的是的对，是的。但是其实我们后面也发现了一个问题，我们卖就专业了，我们就只卖钩针的毛线花和带花的一些包这样OK，其他我们就不买。对。
-</p>
-<p class="transcript-line">
-<span class="time"><strong>[00:23:20]</strong> </span>
-<span class="speaker"><strong>发言人1: </strong></span>
-那能不能再给大家分享一下，就是你们现在做youtube已经20万粉丝了吗？刚才也在讲说你们在主做英文市场，大致现在20万粉丝这个体量的youtube账号，然后大致它的广告收入能有多少？
-</p>
-<p class="transcript-line">
-<span class="time"><strong>[00:23:35]</strong> </span>
-<span class="speaker"><strong>发言人2: </strong></span>
-我现在youtube的广告每个月应该是在1500到3000美金之间浮动。而且我最近观察到是youtube我这边的观看量增长在下降。我不知道是我的视频的问题，还是说竞争变多了，还是说整个谷歌就被GPT影响了。
-</p>
-<p class="transcript-line">
-<span class="time"><strong>[00:23:54]</strong> </span>
-<span class="speaker"><strong>发言人3: </strong></span>
-就是转向短视云市场。
-</p>
-<p class="transcript-line">
-<span class="time"><strong>[00:23:56]</strong> </span>
-<span class="speaker"><strong>发言人1: </strong></span>
-KK对，那你有去做shorts吗？
-</p>
-<p class="transcript-line">
-<span class="time"><strong>[00:23:59]</strong> </span>
-<span class="speaker"><strong>发言人2: </strong></span>
-我有做youtube的shorts，但是表现一般。就是我同样的视频发在instagram上跟发在youtube shots上。
-</p>
-<p class="transcript-line">
-<span class="time"><strong>[00:24:07]</strong> </span>
-<span class="speaker"><strong>发言人1: </strong></span>
-instagram会表现更好一些。对，但instagram没有广告。
-</p>
-<p class="transcript-line">
-<span class="time"><strong>[00:24:12]</strong> </span>
-<span class="speaker"><strong>发言人2: </strong></span>
-没有没有instagram的话，要靠自己引流到你的网店或者你的商品的课程。
-</p>
-<p class="transcript-line">
-<span class="time"><strong>[00:24:20]</strong> </span>
-<span class="speaker"><strong>发言人1: </strong></span>
-刚好就顺到这个课程的这个事儿了。很多youtube b它除了广告之外，它下面都会带很多的费，对吧？他都会说我这里有卖这个的，卖那个，你们现在还有什么别的收入渠道吗？因为你刚才有讲说你有网店。
-</p>
-<p class="transcript-line">
-<span class="time"><strong>[00:24:33]</strong> </span>
-<span class="speaker"><strong>发言人2: </strong></span>
-对我现在主要是我的网店里面是一些digital的教程，就是可以自动发货的对，然后还有一些钩针，比如毛线。你看了我的视频需要买毛线，你直接来我的网店买就可以了。而这个是类似于drop shipping的，就是订单到国内的工厂直接发货的。
-</p>
-<p class="transcript-line">
-<span class="time"><strong>[00:24:54]</strong> </span>
-<span class="speaker"><strong>发言人1: </strong></span>
-直接发货。
-</p>
-<p class="transcript-line">
-<span class="time"><strong>[00:24:54]</strong> </span>
-<span class="speaker"><strong>发言人2: </strong></span>
-对我可能只要处理一点点售后的事情，这是目前两个主要渠道。之前尝试过摆摊，也是为了测试大家对钩针成品的接受程度，对价格的接受程度。我的验证结果的话就是在摆摊那里卖钩针的毛线花或者包，也有一定的利润。但是像你摆摊的成本，我的时间成本，对对对，这都是要考虑的。所以我慢慢的就把那一项砍掉了，因为他对我的时间的占用太多了。对对对。
-</p>
-<p class="transcript-line">
-<span class="time"><strong>[00:25:30]</strong> </span>
-<span class="speaker"><strong>发言人1: </strong></span>
-比如说你自己摆一天摊，然后你看似赚了四五百刀。但是如果你用在创业上的话，可能能创造四五十万的价值，对吧？
-</p>
-<p class="transcript-line">
-<span class="time"><strong>[00:25:37]</strong> </span>
-<span class="speaker"><strong>发言人2: </strong></span>
-对他就不一样了。对对对，再回到我之前说的，我做事情的一个习惯，我不喜欢就是一次性的就无法积累的东西。但是如果说我的一天的时间，我录了课程，可能这个课程五年以后还有人买。但是如果摆摊，那么那一天就结束了，就是这样的事情。我除非我有别的目标，否则的话如果单纯只是当天的收入的话，这种事情我把它砍掉。
-</p>
-<p class="transcript-line">
-<span class="time"><strong>[00:26:02]</strong> </span>
-<span class="speaker"><strong>发言人1: </strong></span>
-对，就除非你们要去摆摊去测评是吗？除了测评之外你可能就不干了。
-</p>
-<p class="transcript-line">
-<span class="time"><strong>[00:26:07]</strong> </span>
-<span class="speaker"><strong>发言人3: </strong></span>
-还有营销。
-</p>
-<p class="transcript-line">
-<span class="time"><strong>[00:26:08]</strong> </span>
-<span class="speaker"><strong>发言人2: </strong></span>
-营销买单。
-</p>
-<p class="transcript-line">
-<span class="time"><strong>[00:26:09]</strong> </span>
-<span class="speaker"><strong>发言人1: </strong></span>
-是为了发令费，是为了尝试。
-</p>
-<p class="transcript-line">
-<span class="time"><strong>[00:26:13]</strong> </span>
-<span class="speaker"><strong>发言人2: </strong></span>
-是为了收集各种营销素材。
-</p>
-<p class="transcript-line">
-<span class="time"><strong>[00:26:16]</strong> </span>
-<span class="speaker"><strong>发言人1: </strong></span>
-OK.
-</p>
-<p class="transcript-line">
-<span class="time"><strong>[00:26:18]</strong> </span>
-<span class="speaker"><strong>发言人3: </strong></span>
-挺好。
-</p>
-<p class="transcript-line">
-<span class="time"><strong>[00:26:20]</strong> </span>
-<span class="speaker"><strong>发言人1: </strong></span>
-你现在你看你已经做到20万了吗？你用了三年时间。然后比如说现在我想做youtube的话，你会推荐我去做吗？还是你就说你就去做instagram，你去做tiktok就可以了。你有tiktok账号吗？
-</p>
-<p class="transcript-line">
-<span class="time"><strong>[00:26:33]</strong> </span>
-<span class="speaker"><strong>发言人2: </strong></span>
-有tiktok一万多份。
-</p>
-<p class="transcript-line">
-<span class="time"><strong>[00:26:36]</strong> </span>
-<span class="speaker"><strong>发言人1: </strong></span>
-那也很多了。
-</p>
-<p class="transcript-line">
-<span class="time"><strong>[00:26:37]</strong> </span>
-<span class="speaker"><strong>发言人2: </strong></span>
-因为tiktok我观察国外的比较火一点的狗真的账号，我会觉得这个跟文化还是非常有关系的。国内的在我理解是不是有一点内敛的东方的文化，但是老外的话他们会比较夸张，或者说情绪比较强。在他们的视频里，这种视频说实话对我来说很难做，我的视频还是比较平静。所以那是我理解的为什么我的tiktok的表现并没有像ins那么好啊。Ins它主要是图片，你把照片拍的很漂亮。
-</p>
-<p class="transcript-line">
-<span class="time"><strong>[00:27:10]</strong> </span>
-<span class="speaker"><strong>发言人1: </strong></span>
-对对对。
-</p>
-<p class="transcript-line">
-<span class="time"><strong>[00:27:11]</strong> </span>
-<span class="speaker"><strong>发言人2: </strong></span>
-可以。但是tiktok的话你要有趣，或者你要能激发一些情绪，让大家觉得很跟你一起开心，跟你一起生气。这种情绪性的东西就是现在是我不擅长的，所以说我的短视频tiktok短视频表现一般，了解。然后youtube我对。
-</p>
-<p class="transcript-line">
-<span class="time"><strong>[00:27:31]</strong> </span>
-<span class="speaker"><strong>发言人1: </strong></span>
-就你觉得你现在推荐大家进入youtube市场吗？因为他们毕竟已经很多很多年了。对，你觉得现在做起来的概率大吗？或者说要找什么角度去做？
-</p>
-<p class="transcript-line">
-<span class="time"><strong>[00:27:41]</strong> </span>
-<span class="speaker"><strong>发言人2: </strong></span>
-这个我首先觉得是看个人，看你想做什么领域。其次我会觉得不管是在哪个平台，哪个平台是要看具体的细节。但是我一直推荐的，我觉得每个人都应该做的是建立个人的IP打造personal的branding。不管你是工作还是创业，我觉得都是该做的对。然后确定这个大方向之后，至于你是选youtube还是选ins，是linked in还是tiktok，这个要看你具体的行业以及个人的爱好。
-</p>
-<p class="transcript-line">
-<span class="time"><strong>[00:28:14]</strong> </span>
-<span class="speaker"><strong>发言人1: </strong></span>
-OK, 我特别认同你这个，就是做personal planning这件事儿是持续要做的，至于你到底在哪做不重要。
-</p>
-<p class="transcript-line">
-<span class="time"><strong>[00:28:20]</strong> </span>
-<span class="speaker"><strong>发言人2: </strong></span>
-对，因为平台起起落落，可能几年以后youtube倒了起来了，新的平台那你就去新的平台好了，哪里有流量去哪里。
-</p>
-<p class="transcript-line">
-<span class="time"><strong>[00:28:28]</strong> </span>
-<span class="speaker"><strong>发言人1: </strong></span>
-这个挺好的。因为我看你们的视频也好，包括你们的ins格也好，我觉得特别有美感。这个美感是从哪儿来的？从你们的youtube的第一个视频开始，你们的风格是固定的，就所有的东西都是一样的。对，然后那个拍的就挺有美感的，看着你拍的那个视频也舒服，这是我的感觉，这是我的体感。对，然后包括你们instagram拍的照片也挺好的，就不确定这个美感是怎么来的，就是天生就有这么好的审美吗？
-</p>
-<p class="transcript-line">
-<span class="time"><strong>[00:28:56]</strong> </span>
-<span class="speaker"><strong>发言人2: </strong></span>
-这个可能是当时我选了钩针没选输的一个原因，因为钩针我不知道怎么来的。我有感觉，我知道怎么把这个事情做得好，做的不一样。但是书评我现在没有那种感觉。凭什么别人看我的书评觉得非常的有观点。
-</p>
-<p class="transcript-line">
-<span class="time"><strong>[00:29:16]</strong> </span>
-<span class="speaker"><strong>发言人1: </strong></span>
-非常的区别在哪里？
-</p>
-<p class="transcript-line">
-<span class="time"><strong>[00:29:17]</strong> </span>
-<span class="speaker"><strong>发言人2: </strong></span>
-对书评方面我不知道我的我的优势在哪里，但是勾针这边我是一个。
-</p>
-<p class="transcript-line">
-<span class="time"><strong>[00:29:24]</strong> </span>
-<span class="speaker"><strong>发言人1: </strong></span>
-有感觉的。
-</p>
-<p class="transcript-line">
-<span class="time"><strong>[00:29:26]</strong> </span>
-<span class="speaker"><strong>发言人2: </strong></span>
-然后我自己我可能是也有一点文艺青年，会喜欢看一些艺术馆。最近刚去看悉尼的木像的画展，这个还没去，因为穆夏的作品里也有很多花。然后跟我的勾针的创作，我也是主要是毛线花我会。
-</p>
-<p class="transcript-line">
-<span class="time"><strong>[00:29:44]</strong> </span>
-<span class="speaker"><strong>发言人1: </strong></span>
-找点灵感是吧？
-</p>
-<p class="transcript-line">
-<span class="time"><strong>[00:29:45]</strong> </span>
-<span class="speaker"><strong>发言人2: </strong></span>
-对，我会去找灵感。我也会去看一些大师的画的配色，来引导我的照片的拍摄构图配色我会去去研究。但是这个对于我来说，它就不像是你去非常努力的学一门东西。它对我来说好像是非常自然而然的。
-</p>
-<p class="transcript-line">
-<span class="time"><strong>[00:30:02]</strong> </span>
-<span class="speaker"><strong>发言人1: </strong></span>
-就是我的兴趣确实就是真正热爱做的东西就是不一样，对吧？对，比如说书评这个事儿，你可能当初纯粹是以媒体的角度说，我就要做一个媒体对去做的。但是这个事儿是纯爱好了。
-</p>
-<p class="transcript-line">
-<span class="time"><strong>[00:30:15]</strong> </span>
-<span class="speaker"><strong>发言人2: </strong></span>
-对你做书评那一周你感觉很痛苦。
-</p>
-<p class="transcript-line">
-<span class="time"><strong>[00:30:19]</strong> </span>
-<span class="speaker"><strong>发言人1: </strong></span>
-是但是。
-</p>
-<p class="transcript-line">
-<span class="time"><strong>[00:30:20]</strong> </span>
-<span class="speaker"><strong>发言人2: </strong></span>
-你做钩针就是很愉悦。你不觉得你是在工作，而是你在享受你的个人的兴趣爱好，这个完全不一样。
-</p>
-<p class="transcript-line">
-<span class="time"><strong>[00:30:30]</strong> </span>
-<span class="speaker"><strong>发言人3: </strong></span>
-我举个例子，那个时候小孩子刚出生，第一个孩子他晚上给他四点钟起来喂奶，喂完奶之后他就开始做视频了。早上四点。
-</p>
-<p class="transcript-line">
-<span class="time"><strong>[00:30:40]</strong> </span>
-<span class="speaker"><strong>发言人2: </strong></span>
-每天每天都是因为你喂完奶，小孩睡了。
-</p>
-<p class="transcript-line">
-<span class="time"><strong>[00:30:43]</strong> </span>
-<span class="speaker"><strong>发言人1: </strong></span>
-你非常精神。
-</p>
-<p class="transcript-line">
-<span class="time"><strong>[00:30:45]</strong> </span>
-<span class="speaker"><strong>发言人3: </strong></span>
-就是能把你叫醒的一般都是你想做的事情。是是是。
-</p>
-<p class="transcript-line">
-<span class="time"><strong>[00:30:49]</strong> </span>
-<span class="speaker"><strong>发言人1: </strong></span>
-确实我觉得这个事儿你想一下能坚持三年，可能前一两年都没什么收入，对吧？那这个事儿就是坚持，我们现在也做了一年多了也没什么收入，估计快了。我们争取在两年过后也能有像你们这样的收入。而且。
-</p>
-<p class="transcript-line">
-<span class="time"><strong>[00:31:04]</strong> </span>
-<span class="speaker"><strong>发言人2: </strong></span>
-我还记得就是我刚生完小孩的前一年，其实对于女性，我觉得生孩子对于女性，不管是身体还是精神上，它这个变化还是挺大的。因为那一年我身体上我是非常累，那是肯定的，但是更多的是精神上的焦虑。你会担心你跟这个社会脱节，你的事业怎么办？你读了这么多年的博士怎么办？对，当时没有解决方案，但是你会很焦虑，你会担心。当然对于我来说，至少我在做youtube，至少我跟这个媒体是联系的，我没有完全跟社会脱节。
-</p>
-<p class="transcript-line">
-<span class="time"><strong>[00:31:41]</strong> </span>
-<span class="speaker"><strong>发言人1: </strong></span>
-我没有被抛弃。
-</p>
-<p class="transcript-line">
-<span class="time"><strong>[00:31:43]</strong> </span>
-<span class="speaker"><strong>发言人2: </strong></span>
-是你总要找到一些方法来缓解内心的焦虑。
-</p>
-<p class="transcript-line">
-<span class="time"><strong>[00:31:47]</strong> </span>
-<span class="speaker"><strong>发言人1: </strong></span>
-对，我相信你焦虑层面上面应该也有来自家庭的。毕竟上学上了这么多年，然后突然说我做一个youtube有有家里人肯定不理解。
-</p>
-<p class="transcript-line">
-<span class="time"><strong>[00:31:55]</strong> </span>
-<span class="speaker"><strong>发言人2: </strong></span>
-有。对，所以那两年内心是非常挣扎的，然后钩针或者UT5这个事情就像一根救命稻草，能够保证你的。
-</p>
-<p class="transcript-line">
-<span class="time"><strong>[00:32:06]</strong> </span>
-<span class="speaker"><strong>发言人1: </strong></span>
-情绪是稳定的。OK, 对，那现在家里人理解了吗？家里人现在知道你有一个二十多万粉丝的一个youtube的账号吗？他知道这个东西的价值吗？
-</p>
-<p class="transcript-line">
-<span class="time"><strong>[00:32:16]</strong> </span>
-<span class="speaker"><strong>发言人2: </strong></span>
-价值他们可能会知道，我坐在家里每个月都可以赚几万块钱的广告费，他们会觉得很开心。
-</p>
-<p class="transcript-line">
-<span class="time"><strong>[00:32:23]</strong> </span>
-<span class="speaker"><strong>发言人3: </strong></span>
-不知道怎么做到的。他们家里面还有人替他工作，包一些花产品寄过去寄到全世界，就是他对单人产能上的工作。
-</p>
-<p class="transcript-line">
-<span class="time"><strong>[00:32:32]</strong> </span>
-<span class="speaker"><strong>发言人1: </strong></span>
-对对对。
-</p>
-<p class="transcript-line">
-<span class="time"><strong>[00:32:32]</strong> </span>
-<span class="speaker"><strong>发言人2: </strong></span>
-因为现在就是我我的。
-</p>
-<p class="transcript-line">
-<span class="time"><strong>[00:32:34]</strong> </span>
-<span class="speaker"><strong>发言人3: </strong></span>
-respect都高了很多。
-</p>
-<p class="transcript-line">
-<span class="time"><strong>[00:32:36]</strong> </span>
-<span class="speaker"><strong>发言人2: </strong></span>
-我还说你在我在goole外甥女帮我写图解，就是一些简单的工作，我在外外派给别人。因为当时我也看了一本书叫four our working week。OK那里边一些思想就是说我们每天的所有的事情里，可能首先可能80%都是要砍掉的，那些不那么重要，剩下的20%里你可能又能挑出来80%是可以outsource的，外包给别人的。你的时间可以放在更重要的那个4%上面去对去创造，或者说是去去让自己跟别人区分开。所以我勾针里边就是慢慢的我会把一些重复性的工作外包给别人。对，包括我的家人，就是我的亲戚。
-</p>
-<p class="transcript-line">
-<span class="time"><strong>[00:33:21]</strong> </span>
-<span class="speaker"><strong>发言人1: </strong></span>
-所以这个respect就来了对吧？对对对，别人创造。
-</p>
-<p class="transcript-line">
-<span class="time"><strong>[00:33:24]</strong> </span>
-<span class="speaker"><strong>发言人3: </strong></span>
-工作了，创造就来了。对对对。
-</p>
-<p class="transcript-line">
-<span class="time"><strong>[00:33:28]</strong> </span>
-<span class="speaker"><strong>发言人1: </strong></span>
-你们你想youtube已经做这么好了，已经20万粉丝了，为什么又想出来做这个字幕呢？因为你youtube比如说你20万，你明年做到40万，你可能广告收入翻倍对吗？你可能专注做这一件事儿就好了。为什么当初又想出来？就现在相当于两个人又除了这个youtube之外，又开启一个新的事业了。
-</p>
-<p class="transcript-line">
-<span class="time"><strong>[00:33:47]</strong> </span>
-<span class="speaker"><strong>发言人3: </strong></span>
-其实做AI创业应该是我我可能我主导了，因为youtube主要是灵芝的主业。
-</p>
-<p class="transcript-line">
-<span class="time"><strong>[00:33:53]</strong> </span>
-<span class="speaker"><strong>发言人2: </strong></span>
-因为刚刚说到媒体跟代码杠杆，一人一个是吧？一人一个我就是媒体，他就是研究代码去了，OK这期间他帮我做过其他的一些插件。就比方说我做small business，我发现S跟australian post它不是联系的。就是当我在IZ拿到订单以后，我还要手动的输到australian post。这个时候他就做过一些APP，把这两个东西联系起来就是类似的。
-</p>
-<p class="transcript-line">
-<span class="time"><strong>[00:34:20]</strong> </span>
-<span class="speaker"><strong>发言人2: </strong></span>
-当我在实际的business里发现了痛点的时候，他会尝试用AI去解决。而这个3 lower AI就是来自我在youtube里面需要做字幕，然后现在市面上的语音转文字的给我的准确率只能到80%左右。因为首先我说英语有口音，其次我讲很多高深的专业词汇。对对对，当时我们就想用AI来解决这个事情。
-</p>
-<p class="transcript-line">
-<span class="time"><strong>[00:34:47]</strong> </span>
-<span class="speaker"><strong>发言人1: </strong></span>
-是当时一开始的目的是帮你解决问题，对吧？但你真正要把这个事情做成一个business的时候，其实你要考虑更大的市场，你不能只为你们自己去做。所以说你们在做的时候，你们当时有没有做过一些市场调研，说你们觉得说这个市场到底有多大？
-</p>
-<p class="transcript-line">
-<span class="time"><strong>[00:35:02]</strong> </span>
-<span class="speaker"><strong>发言人3: </strong></span>
-当时没有，当时为了就是为了解决自己的家庭内部的问题。
-</p>
-<p class="transcript-line">
-<span class="time"><strong>[00:35:07]</strong> </span>
-<span class="speaker"><strong>发言人2: </strong></span>
-以及我们结合我们第一次创业，就刚刚说到博士期间有过一次创业，做的是把AI用到铁路方向。那个创业最终的结果是拿了个绿卡，那个创业为什么不继续往下做了呢？首先那个出发点是基于我们完全的一个假设poses，这是基于一个假设就去往下做了。后面我们就反思那一次创业就觉得不能只是基于自己脑子里的假设，而是要去发现市场里面的痛点，从市场的痛点去往下走。所以在我们这次创业里面，我们俩都会观察我在做林芝山的妹的这个过程中，这个真实的市场里有过哪些痛点，并尝试给这些痛点提出解决方案。然后用3 cloud AI给youtube做砧木。当时我们target的就是youtube r OK，我们假设他们都有这样的痛点。
-</p>
-<p class="transcript-line">
-<span class="time"><strong>[00:36:01]</strong> </span>
-<span class="speaker"><strong>发言人1: </strong></span>
-OK那现在为什么就把它转换成了一个线下会议字幕的场景？因为这个场景跟线上youtube r其实还挺不一样的。而且你在线上的话，你可能peach的是C端甚至是小B的用户。但是你到线下的话，你可能peach的是一些大客户，甚至是企业客户可能很大。就这两个的客户群体其实也不太一样。
-</p>
-<p class="transcript-line">
-<span class="time"><strong>[00:36:22]</strong> </span>
-<span class="speaker"><strong>发言人3: </strong></span>
-对，我们是参加悉尼当地一个比较大的一个路演比赛，然后我们这里领了一万刀的澳元的奖金。下面有个观众，他是成都这边一个比较大的机构的一个工作人员。还是说你可以用到我们线下的年会上面，因为我们很需要这个事情，就这个周末准确度这个事情上不用过去了，我们就发现这好像是一个很大的没有人在做的市场。另外一个是我们在发现做youtube这个过程中有一个问题，就是你很难reach到那些youtube。对，但是这个线下活动你比较好rich，你就一套活动就行了呗，就比较好开始，以及别人找我们的又又有更多人来找我们，就是没有停下来，主要是一个customer的人。
-</p>
-<p class="transcript-line">
-<span class="time"><strong>[00:37:08]</strong> </span>
-<span class="speaker"><strong>发言人1: </strong></span>
-所以说你们在参加那一次你赢一万刀的那个比赛是吗？对吧？对，一个比赛你在参加那个一万刀穿越项目比赛的时候，其实你展示的是一个给youtube r做的一个lab caption是吧？对，OK。但是最后就机缘巧合的变成了线下有一个观众找你，对吧？然后就变成了给线下会议做的，然后直到今天就做到线下会议了。
-</p>
-<p class="transcript-line">
-<span class="time"><strong>[00:37:29]</strong> </span>
-<span class="speaker"><strong>发言人2: </strong></span>
-对对，然后那个观众给我们介绍了我们的第一个付费的客户，那个客户就是做主办大会的，然后我们的产品就是给他们的大会做现场直播。
-</p>
-<p class="transcript-line">
-<span class="time"><strong>[00:37:42]</strong> </span>
-<span class="speaker"><strong>发言人1: </strong></span>
-这个还挺有意思的对，做youtube的字幕跟你做线下会议的字幕，不管从技术上面还是从你的实践上面，可能都有很大的不一样。就当时你们做完youtube那个东之后，你要去服务第一个客户，他介绍你说做线下会议，你们当时有去改产品吗？有去做了什么事情。
-</p>
-<p class="transcript-line">
-<span class="time"><strong>[00:38:00]</strong> </span>
-<span class="speaker"><strong>发言人3: </strong></span>
-全部都改了，全部都他当时给我们的时间只有两周，他问我行不行做，我说可以，然后就告诉我时间，我们就把它做出来。问了很多朋友，因为我们对这个活动线下活动的场景一点都不了解。对他其实难的不是语音转文字，难的是什么应用在那个层面怎么结合。
-</p>
-<p class="transcript-line">
-<span class="time"><strong>[00:38:19]</strong> </span>
-<span class="speaker"><strong>发言人2: </strong></span>
-对你要和他的audio video team对配合。
-</p>
-<p class="transcript-line">
-<span class="time"><strong>[00:38:23]</strong> </span>
-<span class="speaker"><strong>发言人3: </strong></span>
-对对对，问了很多朋友，然后很多朋友告诉我们这些想法，然后他们就我们就搞定了，都是去他们现场装的代码。
-</p>
-<p class="transcript-line">
-<span class="time"><strong>[00:38:33]</strong> </span>
-<span class="speaker"><strong>发言人1: </strong></span>
-OK就是利用这一个机会，相当于用了两周的时间，然后重新做了一个小产品对吧？然后就用在上面，当时效果怎么样？
-</p>
-<p class="transcript-line">
-<span class="time"><strong>[00:38:43]</strong> </span>
-<span class="speaker"><strong>发言人3: </strong></span>
-当然效果其实还是可以的，但是它时不时它会卡一下，因为我们用的API，因为我们发现的API它不是专门用来做实时的API。然后我们就是每五分钟它会卡一下，我们就是人工的给它refresh一下。
-</p>
-<p class="transcript-line">
-<span class="time"><strong>[00:39:00]</strong> </span>
-<span class="speaker"><strong>发言人1: </strong></span>
-在前面大家正在讲，你们在后台就对对对。
-</p>
-<p class="transcript-line">
-<span class="time"><strong>[00:39:04]</strong> </span>
-<span class="speaker"><strong>发言人3: </strong></span>
-整个活动可能六七个小时，就经常坐那里看看吧，赶紧没出来。
-</p>
-<p class="transcript-line">
-<span class="time"><strong>[00:39:10]</strong> </span>
-<span class="speaker"><strong>发言人1: </strong></span>
-这个经历挺有意思的，相信是你们后续在给，包括你们做大了之后给员工讲干嘛的，我觉得还挺有意思的一个经历。对，然后你们当时用完之后，客户的反馈怎么样？因为你们在后台fresh客户也不知道，对吧？那客户当时有什么反馈吗？
-</p>
-<p class="transcript-line">
-<span class="time"><strong>[00:39:25]</strong> </span>
-<span class="speaker"><strong>发言人3: </strong></span>
-客户其实还是觉得他这个比较精准，他觉得比较精准，他然后也给我们写一个这种评价，就是推荐信。推荐信然后通过因为他是奥利亚比较大的机构，从这个推荐信我们找到其他机构。
-</p>
-<p class="transcript-line">
-<span class="time"><strong>[00:39:38]</strong> </span>
-<span class="speaker"><strong>发言人1: </strong></span>
-OK。所以说我我我想问你的就是在澳洲这种推荐的这种是不是比较容易让你去拿到客户的？就是只要有一个推荐信，你可以在同行业里面可以去拿客户干嘛的对。
-</p>
-<p class="transcript-line">
-<span class="time"><strong>[00:39:50]</strong> </span>
-<span class="speaker"><strong>发言人3: </strong></span>
-推荐确实比较重要，特别是这是一个比较大机构给我们的背书。
-</p>
-<p class="transcript-line">
-<span class="time"><strong>[00:39:55]</strong> </span>
-<span class="speaker"><strong>发言人1: </strong></span>
-OK就更重要了。对，了解。
-</p>
-<p class="transcript-line">
-<span class="time"><strong>[00:39:57]</strong> </span>
-<span class="speaker"><strong>发言人2: </strong></span>
-另外通过这个事情我们也发现澳大利亚他对start up的包容性很强。像当时我们就刚成立公司，对，就是没有任何的reference。对，reference他们就选择相信我们。因为他们是一个很大的机构的很大的会议。我想这种事情在国内。
-</p>
-<p class="transcript-line">
-<span class="time"><strong>[00:40:16]</strong> </span>
-<span class="speaker"><strong>发言人1: </strong></span>
-对这个基本上不太可能。
-</p>
-<p class="transcript-line">
-<span class="time"><strong>[00:40:18]</strong> </span>
-<span class="speaker"><strong>发言人2: </strong></span>
-对。
-</p>
-<p class="transcript-line">
-<span class="time"><strong>[00:40:18]</strong> </span>
-<span class="speaker"><strong>发言人3: </strong></span>
-我们当年会对。
-</p>
-<p class="transcript-line">
-<span class="time"><strong>[00:40:19]</strong> </span>
-<span class="speaker"><strong>发言人2: </strong></span>
-我们就是nobody，就是他们选择相信我们我们很感动。
-</p>
-<p class="transcript-line">
-<span class="time"><strong>[00:40:25]</strong> </span>
-<span class="speaker"><strong>发言人3: </strong></span>
-他也知道我们不是做这个产品的。
-</p>
-<p class="transcript-line">
-<span class="time"><strong>[00:40:28]</strong> </span>
-<span class="speaker"><strong>发言人1: </strong></span>
-对，但是他就愿意给你们这个机会，对吧？我觉得这个确实挺好的。我有听说过别人跟我讲过，就是因为我自己没有在澳洲做生意。澳洲人特别support自己local的business，对吧？是的，你自己在做的过程里面有这个感觉吗？
-</p>
-<p class="transcript-line">
-<span class="time"><strong>[00:40:44]</strong> </span>
-<span class="speaker"><strong>发言人3: </strong></span>
-会有，他们会非常的骄傲说你们是悉尼本地的创业公司，我们就得用你的产品，我们就要去support这个equal system这样子的。
-</p>
-<p class="transcript-line">
-<span class="time"><strong>[00:40:52]</strong> </span>
-<span class="speaker"><strong>发言人1: </strong></span>
-这个跟国内是完全不一样的。对我想问你刚才讲说那个客户直接给你们带来一个付费客户，对吧？你们当时定价是怎么定的？说多少钱定价的逻辑是什么？
-</p>
-<p class="transcript-line">
-<span class="time"><strong>[00:41:03]</strong> </span>
-<span class="speaker"><strong>发言人3: </strong></span>
-当时他问我们多少钱，其实我们也不知道去了解一下，如果他请人工，因为他们之前是准备请人工打字的对，我们了解一下他们多少钱，他们是大概230、250，奥元1小时，一小时OK对，然后我们就打了个对折，我说150澳元1小时.
-</p>
-<p class="transcript-line">
-<span class="time"><strong>[00:41:22]</strong> </span>
-<span class="speaker"><strong>发言人1: </strong></span>
-这样子然后就OK了。
-</p>
-<p class="transcript-line">
-<span class="time"><strong>[00:41:24]</strong> </span>
-<span class="speaker"><strong>发言人3: </strong></span>
-对，然后就OK了。他们很高兴，身上很高兴。其实我们说的远远便宜了。因为他们人工的话就是我们只是说这个软件在运行的时候收钱。对，那他之前的测试其实人工也是收钱的，因为他人也是一直在在那个是是是。那比如说你这个比如说中间这个吃吃中餐的时候，人也是一直在。就是人最终给他报价是8000刀，我们最终给他报价只有1000刀，因为我们只是在他用的时候才收钱。
-</p>
-<p class="transcript-line">
-<span class="time"><strong>[00:41:51]</strong> </span>
-<span class="speaker"><strong>发言人2: </strong></span>
-对，而且他的会议是一天，但是两个场馆同时进行，所以人工的话他至少要两个人。
-</p>
-<p class="transcript-line">
-<span class="time"><strong>[00:41:58]</strong> </span>
-<span class="speaker"><strong>发言人3: </strong></span>
-对，甚至你包括你就是一个场馆，他大概率也是要换人的对，因为你一直长时间的打字。
-</p>
-<p class="transcript-line">
-<span class="time"><strong>[00:42:05]</strong> </span>
-<span class="speaker"><strong>发言人1: </strong></span>
-对，是不行的，肯定要故多个人。对对对，一个人8个小时连续做肯定吃不消的对，那你能给我们介绍一下，因为你之前第一个客户是介绍的，那后续的这个客户肯定要你自己跑了，对吧？那你能给我们讲一下在澳洲是怎么peach客户的吗？就是怎么跟客户讲说能不能用我们的产品，我们产品怎么样怎么怎么好啊。
-</p>
-<p class="transcript-line">
-<span class="time"><strong>[00:42:26]</strong> </span>
-<span class="speaker"><strong>发言人3: </strong></span>
-对这个问题其实非常好。我一般会从这种没事给我们的李宁的post点个赞这种人，也有一些客户找到我们，然后从这里开始找，然后也会有一些这种去联系别人去联系别人。其实别人也教我一些方法，比较简单直接一点，说你们是干嘛的，你们能给他提供什么东西，这样子。但是其实最重要还是通过这个叫什么wall introduction，warm时代。对，就别人已经对你有些了解了，中间有个中间认识的人，或者用过的产品了，比较简单一点。OK.
-</p>
-<p class="transcript-line">
-<span class="time"><strong>[00:43:00]</strong> </span>
-<span class="speaker"><strong>发言人1: </strong></span>
-那你能给我们讲一下你的warm introduction都是怎么来的？就是一个推荐来的吗？
-</p>
-<p class="transcript-line">
-<span class="time"><strong>[00:43:06]</strong> </span>
-<span class="speaker"><strong>发言人3: </strong></span>
-我们在当地比如说有个叫做build club AI builder club本全是AI start up方的。我们在里面，然后他这个club影响力比较大，他就会会发我们的产品的宣传，会包括会讲我们的故事，整个都是在卖一个故事。好，然后通过这个也是零，或者是推特X然后别人也看到了。比如说我这个产品需要。
-</p>
-<p class="transcript-line">
-<span class="time"><strong>[00:43:31]</strong> </span>
-<span class="speaker"><strong>发言人1: </strong></span>
-然后就找到我了。OK所以说你很多时候还是被动接收到别人，对吧？对。
-</p>
-<p class="transcript-line">
-<span class="time"><strong>[00:43:36]</strong> </span>
-<span class="speaker"><strong>发言人2: </strong></span>
-还有我可以补充一点，就是楚豪的演讲的能力或者路演的能力非常强，就是我们公司早期的两笔钱都是靠他演讲，每次赢一万刀，然后没有钱了再出去演讲。好，而且每次演讲的时候你不是一对一的，你是一对多的对对这个效率宣传的效率非常高。
-</p>
-<p class="transcript-line">
-<span class="time"><strong>[00:43:57]</strong> </span>
-<span class="speaker"><strong>发言人1: </strong></span>
-你每次演讲的都是一次广告宣传。
-</p>
-<p class="transcript-line">
-<span class="time"><strong>[00:43:59]</strong> </span>
-<span class="speaker"><strong>发言人2: </strong></span>
-对，在我们读博士的时候，他是我们学校博士生三分钟演讲的全校的冠军。他讲故事的能力非常强。
-</p>
-<p class="transcript-line">
-<span class="time"><strong>[00:44:09]</strong> </span>
-<span class="speaker"><strong>发言人1: </strong></span>
-这个是创业核心能力之一是吧？讲故事这件事儿是CEO的最核心能力。
-</p>
-<p class="transcript-line">
-<span class="time"><strong>[00:44:14]</strong> </span>
-<span class="speaker"><strong>发言人2: </strong></span>
-因为我们其实老有同学过来很诧异的就问他，就是说你又不是native的english speaker。对你怎么能在英语演讲这个事情上做的这么好呢？对，我们也看就是发现我们不是native english speaker，有时候可能还是个优势。我们会把事情说的非常简单，用非常简单的词，因为我们不会复杂的词，这样就会容易让观众听懂我们在说什么。对。
-</p>
-<p class="transcript-line">
-<span class="time"><strong>[00:44:40]</strong> </span>
-<span class="speaker"><strong>发言人1: </strong></span>
-你能给我们简单的教一下你是怎么练的吗？
-</p>
-<p class="transcript-line">
-<span class="time"><strong>[00:44:43]</strong> </span>
-<span class="speaker"><strong>发言人3: </strong></span>
-我这个还真有点心得。我是之前有一次演讲比赛，我觉得必赢的就要输了。因为我那天我在草地上。
-</p>
-<p class="transcript-line">
-<span class="time"><strong>[00:44:50]</strong> </span>
-<span class="speaker"><strong>发言人1: </strong></span>
-我就都是英文的演讲比赛。
-</p>
-<p class="transcript-line">
-<span class="time"><strong>[00:44:51]</strong> </span>
-<span class="speaker"><strong>发言人3: </strong></span>
-对，都是英文的。就是我本来是初赛输了，那个学院的比赛输了，然后结果通过大家投票。因为中国的人比较多，投进去了，就是给了我第二次复活的机会。对，然后就又大家参加学校级别的决赛了，但是只有一周的时间。
-</p>
-<p class="transcript-line">
-<span class="time"><strong>[00:45:07]</strong> </span>
-<span class="speaker"><strong>发言人3: </strong></span>
-我那天在草地上走我就顿悟了，顿悟了，我就突然理解演讲到底是怎么回事了。以前我演讲的时候我会想，我这个时候得停顿了，我这个时候手得怎么样？OK我我得注意我的发音什么的。但我突然意识到，如果我去给自己洗脑，我让我真的很相信我在讲这个东西，就是我在那个地方的时候我就是会停顿，我在这个时候我手就会举起来，是因为我去改变我的想法，对，去相信这个东西，然后我的情绪才跟过来。然后他更多的是关于情绪，而不是关于你的发音。所以说就那下顿悟了。所以我后面的比如说创业的演讲比赛里面，很多这种很厉害的企业都没有讲赢我们。因为我们在讲的不是一个产品，我们讲的是一个愿景，一个梦想，传达的是这个情绪。
-</p>
-<p class="transcript-line">
-<span class="time"><strong>[00:46:00]</strong> </span>
-<span class="speaker"><strong>发言人1: </strong></span>
-对我我就特别想问你，因为我们不是native speaker，所以你在讲的时候你是背稿的吗？还是你是自由表达？
-</p>
-<p class="transcript-line">
-<span class="time"><strong>[00:46:08]</strong> </span>
-<span class="speaker"><strong>发言人3: </strong></span>
-我是自由表达的。
-</p>
-<p class="transcript-line">
-<span class="time"><strong>[00:46:10]</strong> </span>
-<span class="speaker"><strong>发言人1: </strong></span>
-所以说这个就很不一样。
-</p>
-<p class="transcript-line">
-<span class="time"><strong>[00:46:12]</strong> </span>
-<span class="speaker"><strong>发言人3: </strong></span>
-非常不一样，就是说被搞的话会比较差。但是我在讲之前我都会练习很久。练习的过程中不是说我写下来去练，而是我边讲讲了可能有四五十遍，然后基本上其实也就形成一个自己的稿子。对，然后讲的过程中都是自由返回的，但是大概的框架都不会这样。
-</p>
-<p class="transcript-line">
-<span class="time"><strong>[00:46:30]</strong> </span>
-<span class="speaker"><strong>发言人1: </strong></span>
-对对对，就是在讲的过程里面，其实你就是当下觉得应该这样表达，就这样表达的对，所以这个就是很自然的一种表达方式。
-</p>
-<p class="transcript-line">
-<span class="time"><strong>[00:46:36]</strong> </span>
-<span class="speaker"><strong>发言人3: </strong></span>
-对，就是一定要自然。
-</p>
-<p class="transcript-line">
-<span class="time"><strong>[00:46:38]</strong> </span>
-<span class="speaker"><strong>发言人1: </strong></span>
-再一个就是调整story对吧？
-</p>
-<p class="transcript-line">
-<span class="time"><strong>[00:46:39]</strong> </span>
-<span class="speaker"><strong>发言人3: </strong></span>
-对对对，讲一个故事。对对对。而且有的时候我感觉我们作为一个non native english speaker，有时候还是比较自豪。是我你看我这多厉害，多勇敢。
-</p>
-<p class="transcript-line">
-<span class="time"><strong>[00:46:50]</strong> </span>
-<span class="speaker"><strong>发言人1: </strong></span>
-我对，这样子的对。
-</p>
-<p class="transcript-line">
-<span class="time"><strong>[00:46:53]</strong> </span>
-<span class="speaker"><strong>发言人3: </strong></span>
-对对对。
-</p>
-<p class="transcript-line">
-<span class="time"><strong>[00:46:54]</strong> </span>
-<span class="speaker"><strong>发言人1: </strong></span>
-你们现在peach了这么多客户，你们有遇到竞争对手吗？有谁是跟你们在线直接竞争的，还是你们竞争对手，就是别人手机的那些真正的翻译员。
-</p>
-<p class="transcript-line">
-<span class="time"><strong>[00:47:05]</strong> </span>
-<span class="speaker"><strong>发言人3: </strong></span>
-有竞争对手这边一个上市公司。对，然后我们还去了他们的展销会，打开了一些敌情，就当做我们这个客户看一下他们的报价。
-</p>
-<p class="transcript-line">
-<span class="time"><strong>[00:47:16]</strong> </span>
-<span class="speaker"><strong>发言人1: </strong></span>
-什么之类的。OK. 那你们现在在这客户的过程里面，有没有客户直接告诉你说，我们其实之前用的是他，或者说我们知道有它它比你们便宜，他比你们贵等等这些他比你们准确度高，会有类似碰到这种吗？
-</p>
-<p class="transcript-line">
-<span class="time"><strong>[00:47:27]</strong> </span>
-<span class="speaker"><strong>发言人3: </strong></span>
-其实没有，我们更多的是听到客户的抱怨，他说这个说这么贵，然后他们临时也搞不了这个事情，然后这个又搞错了，我们更多听到的是抱怨。
-</p>
-<p class="transcript-line">
-<span class="time"><strong>[00:47:38]</strong> </span>
-<span class="speaker"><strong>发言人1: </strong></span>
-对，抱怨才有机会。
-</p>
-<p class="transcript-line">
-<span class="time"><strong>[00:47:39]</strong> </span>
-<span class="speaker"><strong>发言人3: </strong></span>
-对对对。
-</p>
-<p class="transcript-line">
-<span class="time"><strong>[00:47:41]</strong> </span>
-<span class="speaker"><strong>发言人1: </strong></span>
-你能给我们再简单讲一下，就是现在客户的抱怨都集中在哪些方面是比较大的。
-</p>
-<p class="transcript-line">
-<span class="time"><strong>[00:47:46]</strong> </span>
-<span class="speaker"><strong>发言人3: </strong></span>
-我觉得首先表达他不是很叫做scalable，因为有些活动他都是临时说我想在我要加个房间，然后这个房间我也想要。比如说他二三这个房间，他一开始只带六个人过来，你只能提供六个环节的话，他临时想变成十个款，它就变不了。
-</p>
-<p class="transcript-line">
-<span class="time"><strong>[00:48:04]</strong> </span>
-<span class="speaker"><strong>发言人2: </strong></span>
-就是我们的竞争对手他的产品是需要一个硬件，就每个房间需要放一个硬件，要有一个人操作。
-</p>
-<p class="transcript-line">
-<span class="time"><strong>[00:48:10]</strong> </span>
-<span class="speaker"><strong>发言人1: </strong></span>
-硬件之前运过来，那这个成本就很高了。对，然后我们是纯软件的。
-</p>
-<p class="transcript-line">
-<span class="time"><strong>[00:48:15]</strong> </span>
-<span class="speaker"><strong>发言人3: </strong></span>
-纯软件的。对。
-</p>
-<p class="transcript-line">
-<span class="time"><strong>[00:48:17]</strong> </span>
-<span class="speaker"><strong>发言人2: </strong></span>
-因为很多大会他可能一天有十个房间的会议同时进行，那这样的话我们那个竞争对手他handle不了这样的局面。
-</p>
-<p class="transcript-line">
-<span class="time"><strong>[00:48:25]</strong> </span>
-<span class="speaker"><strong>发言人3: </strong></span>
-对，另外一个事情就是人工，你必须得提前打电话去联系，他就教你怎么把这东西筛查好。什么什么你问这个有很多其实准备的过程。
-</p>
-<p class="transcript-line">
-<span class="time"><strong>[00:48:36]</strong> </span>
-<span class="speaker"><strong>发言人1: </strong></span>
-对，但其实这个准备过程里面还挺耗人工的，而且澳洲的人工很贵。如果你只要派人过去的话，或者怎么给你送一下，这个成本一下就上来了。对，如果我是纯软件的，我直接给你一个软件，直接给你一个网址。对你自己来操作的话，其实我这个人工就省下很多。那我的成本就降低很多。对对对，所以还是个挺大的优势。
-</p>
-<p class="transcript-line">
-<span class="time"><strong>[00:48:54]</strong> </span>
-<span class="speaker"><strong>发言人3: </strong></span>
-是就是他们如果请人工过来，他们本来的这个现场的成本也会增加。
-</p>
-<p class="transcript-line">
-<span class="time"><strong>[00:48:59]</strong> </span>
-<span class="speaker"><strong>发言人1: </strong></span>
-对对对对，那你们现在一直这么多客户，你们的主要客群主要是什么？还是以会议为主吗？还是有什么新的客群？
-</p>
-<p class="transcript-line">
-<span class="time"><strong>[00:49:08]</strong> </span>
-<span class="speaker"><strong>发言人3: </strong></span>
-对，我们现在暂时只能说给我们付钱的经常组织会议的一些场地OK或者是。
-</p>
-<p class="transcript-line">
-<span class="time"><strong>[00:49:15]</strong> </span>
-<span class="speaker"><strong>发言人1: </strong></span>
-场地付你们钱。对。
-</p>
-<p class="transcript-line">
-<span class="time"><strong>[00:49:16]</strong> </span>
-<span class="speaker"><strong>发言人3: </strong></span>
-因为比如说一个客户一年也要做三四次活动，但是一个场地一周就有三次活动。对对对，场地就是给我们付钱OK，然后他们跟他们在建立这种合作伙伴关系。另外一个就是有一种人就叫做专门给帮别人做活动的人。你们公司要做活动，就是你会外包给这个人，他去定场地，他去搞这种服务。
-</p>
-<p class="transcript-line">
-<span class="time"><strong>[00:49:38]</strong> </span>
-<span class="speaker"><strong>发言人1: </strong></span>
-然后跟这种人也在合作。OK. 那你像你给场地做的话，场地他必须要at value到这个会议上面去，可能要最终要帮别人多收钱的对吧？所以场地给你们掏钱是为了场地多给别人收钱，场地在这过程里面，他要去给他的组织会议的这个人讲说，我们这个场地现在有一个新的一个AI字幕的一个功能，你们要不要？要的话加多少钱？是类似这样的形式去做的吗？
-</p>
-<p class="transcript-line">
-<span class="time"><strong>[00:50:04]</strong> </span>
-<span class="speaker"><strong>发言人3: </strong></span>
-是的，那你从加钱中他们会收一些费用。OK就是因为他们是会说一个set up fit。对，就他们也首先也会赚赚一点，但是我觉得那个是比较少的，最重要的是他们给客户带来value。
-</p>
-<p class="transcript-line">
-<span class="time"><strong>[00:50:17]</strong> </span>
-<span class="speaker"><strong>发言人2: </strong></span>
-另外一种形式是在澳大利亚举行会议，会有一个要求，要确保event的accessibility。就是说听障人士你要给他配翻译或者配手语人翻译。所以说当一个客户来到一个场地的时候，客户尤其是政府的客户，他必须确保会议对听障人士，对视觉障碍人士是友好的，要有友好。所以说客户可能会对场地提要求，你能不能给我们放上字幕？不管是你雇人来打字也好，还是你有什么产品也好。如果场地跟我们合作的话，场地就可以去获得更多的客户。因为场地能确保这个event accessibility。
-</p>
-<p class="transcript-line">
-<span class="time"><strong>[00:51:00]</strong> </span>
-<span class="speaker"><strong>发言人3: </strong></span>
-对对对，政治正确。
-</p>
-<p class="transcript-line">
-<span class="time"><strong>[00:51:02]</strong> </span>
-<span class="speaker"><strong>发言人1: </strong></span>
-对，这是另外一种政治正确。就是我要在一个公共public一个场所里面保证所有人是平等的对对对对吧？对，大家都能平等的。
-</p>
-<p class="transcript-line">
-<span class="time"><strong>[00:51:11]</strong> </span>
-<span class="speaker"><strong>发言人3: </strong></span>
-尤其是这种听力残障人士。
-</p>
-<p class="transcript-line">
-<span class="time"><strong>[00:51:14]</strong> </span>
-<span class="speaker"><strong>发言人2: </strong></span>
-否则他可以去投诉或者抱怨。
-</p>
-<p class="transcript-line">
-<span class="time"><strong>[00:51:16]</strong> </span>
-<span class="speaker"><strong>发言人3: </strong></span>
-OK越大的活动他越需要这个。对。
-</p>
-<p class="transcript-line">
-<span class="time"><strong>[00:51:18]</strong> </span>
-<span class="speaker"><strong>发言人1: </strong></span>
-这个在国内是很难想象的，国内不太会有这种。对，但是澳洲这里其实可能他已经形成法律法规条款，对，类似于这样子。对，然后我也知道你们最近不是刚完成一轮融资，对吧？然后包括你刚才讲有学校的那种创业比赛里面拿到的钱，然后有私人私下投资人的钱。然后你们在拿到钱之后，接下来的重点是哪个部分？
-</p>
-<p class="transcript-line">
-<span class="time"><strong>[00:51:41]</strong> </span>
-<span class="speaker"><strong>发言人3: </strong></span>
-这个问题问的很好，我觉得其他重点是想清楚我们的策略，就是我们产品已经比之前有很好的改善了，因为我们用来雇了一些人。然后接下来就是想好我们要集中精力在哪个点去突破这个市场去助力。
-</p>
-<p class="transcript-line">
-<span class="time"><strong>[00:51:57]</strong> </span>
-<span class="speaker"><strong>发言人1: </strong></span>
-对，就包括因为你们拿到钱了？首先更好的PR你们自己现在在包括在的link上，在instagram各个地方，你们现在都在发，对吧？会不会包括增加一些人员帮你去做市场，增加一些人员帮你去做一些，比如说编程等等一系列，会不会有这些人员什么的增加？
-</p>
-<p class="transcript-line">
-<span class="time"><strong>[00:52:16]</strong> </span>
-<span class="speaker"><strong>发言人3: </strong></span>
-我们倒是增加了做编程的人员，市场人员暂时还没有增加。
-</p>
-<p class="transcript-line">
-<span class="time"><strong>[00:52:20]</strong> </span>
-<span class="speaker"><strong>发言人1: </strong></span>
-暂时还没有。对，那你市场的话，比如说以你现在的经历，因为你自己要一个人，你跟灵芝两个人去跑，你在跑的这个过程里面，你会觉得自己精力不够吗？会，然后有时候甚至跑完之后还要帮客户在线下帮他去测试，然后再再去干嘛，可能一个周期就很长了。
-</p>
-<p class="transcript-line">
-<span class="time"><strong>[00:52:42]</strong> </span>
-<span class="speaker"><strong>发言人3: </strong></span>
-对，是的。但是我们也在follow YCY combined的一个很火的文章，叫做do things not scale。我们现在确实不是很scalable，但是我们普通的学习是无限的，我们在线下一点对点的跟客户实时的交流。我们知道他这里不知道怎么点，不知道怎么回事，这里有那个问题我们是没有想到过的，这种学习是非常有价值的。
-</p>
-<p class="transcript-line">
-<span class="time"><strong>[00:53:08]</strong> </span>
-<span class="speaker"><strong>发言人1: </strong></span>
-do things don&#x27;t scalable的目的是don&#x27;t think scalable。
-</p>
-<p class="transcript-line">
-<span class="time"><strong>[00:53:12]</strong> </span>
-<span class="speaker"><strong>发言人3: </strong></span>
-对对对，就是学到那些痛点，那些问题，就是你是不是你编程可以学到的。需要你去现场真的看他去使用各种应用场景才会需要的不断交流过程才会知道。
-</p>
-<p class="transcript-line">
-<span class="time"><strong>[00:53:23]</strong> </span>
-<span class="speaker"><strong>发言人1: </strong></span>
-对，就我有一个点，现在的这些投资人在投你们的时候，他们看好你们的那些点。
-</p>
-<p class="transcript-line">
-<span class="time"><strong>[00:53:29]</strong> </span>
-<span class="speaker"><strong>发言人3: </strong></span>
-他们其实最重要还是看我们的方的founding。对对对，还是看人。对。
-</p>
-<p class="transcript-line">
-<span class="time"><strong>[00:53:34]</strong> </span>
-<span class="speaker"><strong>发言人1: </strong></span>
-现在主要还是看人。对，因为你们当前的营收不是那么大对对吧？
-</p>
-<p class="transcript-line">
-<span class="time"><strong>[00:53:39]</strong> </span>
-<span class="speaker"><strong>发言人3: </strong></span>
-包括整个的策略思路，其实也不是那么清楚。对对对。
-</p>
-<p class="transcript-line">
-<span class="time"><strong>[00:53:43]</strong> </span>
-<span class="speaker"><strong>发言人1: </strong></span>
-因为我知道楚豪自己也在组织AI meeting。其实我跟你认识也是因为在小红书上看到你在做PR对吧？然后我后续我再联系你的。对，然后你最近也组织了一个华人的一个AI协会，对吗？在悉尼这边我就挺好奇的，你为什么想去做这种协会这种事儿？因为协会不赚钱，然后协会还挺累人的。你本身也在做创业，挺消耗精力的。
-</p>
-<p class="transcript-line">
-<span class="time"><strong>[00:54:07]</strong> </span>
-<span class="speaker"><strong>发言人3: </strong></span>
-我觉得最底层的是一个，你可能说有点情怀，可能上可以上升到爱国情怀了。
-</p>
-<p class="transcript-line">
-<span class="time"><strong>[00:54:14]</strong> </span>
-<span class="speaker"><strong>发言人1: </strong></span>
-国情怀或者说。
-</p>
-<p class="transcript-line">
-<span class="time"><strong>[00:54:15]</strong> </span>
-<span class="speaker"><strong>发言人3: </strong></span>
-感觉这是一个比如说第四次工业革命，如果我我们不去做点啥的话，比如说我们科技上会落后这种，然后现在我们在海外能能很好，就比如说很多参考，也就是他会专门有中文的翻译。对，就是因为我们比较强大。我觉得这是一个比较底层的逻辑，就觉得我是不是可以稍微做一点事情。
-</p>
-<p class="transcript-line">
-<span class="time"><strong>[00:54:38]</strong> </span>
-<span class="speaker"><strong>发言人3: </strong></span>
-第二个事情比较实际的是我发小红书，做PM或者宣传很多，就总是找我聊一聊一堆堆。我说要不一大家一起来聊呗。对对对，我就慢慢就主持这种一个月，因为我又不好意思拒绝别人，一个月大家一起聚在一起聊一聊。
-</p>
-<p class="transcript-line">
-<span class="time"><strong>[00:54:54]</strong> </span>
-<span class="speaker"><strong>发言人3: </strong></span>
-然后第三个比较实际的事情是，他其实确实很累，甚至每次都给我带来实际的好处。首先你可以认识人，对，认识人之后，他比如说他会有时候会给我介绍一些客户，比如说他会给我解决一些技术问题。其实跟你聊天的过程我们就解决了很多技术，就是我完全是没想到这个一点，就是很多反而是你去做一些被遗弃的事情，你收获反而很大，就很神奇。
-</p>
-<p class="transcript-line">
-<span class="time"><strong>[00:55:20]</strong> </span>
-<span class="speaker"><strong>发言人1: </strong></span>
-对对对，你能帮我们介绍一下，就是当前在协会里边也好，或者说你认识的这些有跟你交流的人里边，大家有在做AI创业的，有什么特别有意思的东西吗？
-</p>
-<p class="transcript-line">
-<span class="time"><strong>[00:55:30]</strong> </span>
-<span class="speaker"><strong>发言人3: </strong></span>
-有啊，比如说pod wise。
-</p>
-<p class="transcript-line">
-<span class="time"><strong>[00:55:35]</strong> </span>
-<span class="speaker"><strong>发言人1: </strong></span>
-有没有其他的？我们的听众对我们很熟悉，我们每天都在做广告。
-</p>
-<p class="transcript-line">
-<span class="time"><strong>[00:55:41]</strong> </span>
-<span class="speaker"><strong>发言人3: </strong></span>
-不用添加广告了。有个叫做empathetic AIOK，他跟澳大利亚的联邦税务局在合作，他知道过去遗忘所有的戴法。然后每次这个税务律师在调的时候，他可以直接就用这种chat board的形式，直接去调用。找到最相关的那个数据data，就告诉他这个文档，你可以基于这个文档去做这个税务的事情。
-</p>
-<p class="transcript-line">
-<span class="time"><strong>[00:56:03]</strong> </span>
-<span class="speaker"><strong>发言人2: </strong></span>
-在做text copilot .
-</p>
-<p class="transcript-line">
-<span class="time"><strong>[00:56:06]</strong> </span>
-<span class="speaker"><strong>发言人3: </strong></span>
-OK然后还有一个版本，他做的叫3X点AI，他就是只能用文字生成音乐，然后生成web OK那个也很酷。然后还有一个是做这种designing的AI，比如说made journey生成一张图，它没有办法给你生成报价。对，室内设计它可以给你生成报价，因为它有那些data。然后还有一个是无人剪草机。
-</p>
-<p class="transcript-line">
-<span class="time"><strong>[00:56:27]</strong> </span>
-<span class="speaker"><strong>发言人1: </strong></span>
-无人剪草。
-</p>
-<p class="transcript-line">
-<span class="time"><strong>[00:56:28]</strong> </span>
-<span class="speaker"><strong>发言人3: </strong></span>
-对，因为澳大利亚很多高尔夫球场什么之类的，然后很耗人工。对，然后他就用这种视觉处理人工上面的事情，还有很多很酷的华人AIG创业企业有没有。
-</p>
-<p class="transcript-line">
-<span class="time"><strong>[00:56:40]</strong> </span>
-<span class="speaker"><strong>发言人1: </strong></span>
-已经做的很好很大的了。
-</p>
-<p class="transcript-line">
-<span class="time"><strong>[00:56:43]</strong> </span>
-<span class="speaker"><strong>发言人3: </strong></span>
-有啊叫curious things AI就是一个华人做的。他本身也是我经常从事的人。对，然后他叫做ai接线员。有很多这种比如说前台，比如说这种音乐的前台，天天接很多电话，对他总会miss掉一些电话，他就可以帮你接电话，然后你要延了。
-</p>
-<p class="transcript-line">
-<span class="time"><strong>[00:57:00]</strong> </span>
-<span class="speaker"><strong>发言人1: </strong></span>
-这样子的OK.
-</p>
-<p class="transcript-line">
-<span class="time"><strong>[00:57:02]</strong> </span>
-<span class="speaker"><strong>发言人3: </strong></span>
-还有一个澳大利亚比较大的企业，最近去年融了1300万美元，叫做redant AI他们就是专门做AI agent。你比如说你们公司有一些这种automatic的事情，可以用这个AI完全去替代这些比较机械重复性的事。
-</p>
-<p class="transcript-line">
-<span class="time"><strong>[00:57:20]</strong> </span>
-<span class="speaker"><strong>发言人1: </strong></span>
-OK了解现在不是澳洲的这个市场，本身澳洲的人也不多，就只有2700万人。那在澳洲这些创业企业，包括你们也一样，你们会扎根在澳洲？还是说未来其实有有想机会说，除了澳洲之外去做做北美市场，做做英国市场，做做这些英语区的市场。对。
-</p>
-<p class="transcript-line">
-<span class="time"><strong>[00:57:41]</strong> </span>
-<span class="speaker"><strong>发言人3: </strong></span>
-每个澳洲的创业企业最终都要去美国OK.
-</p>
-<p class="transcript-line">
-<span class="time"><strong>[00:57:44]</strong> </span>
-<span class="speaker"><strong>发言人1: </strong></span>
-一个是宿命是吧？对。
-</p>
-<p class="transcript-line">
-<span class="time"><strong>[00:57:46]</strong> </span>
-<span class="speaker"><strong>发言人3: </strong></span>
-因为美国的市场是澳洲的十倍，一般都乘以10。对，然后一般都比较好复制。其实也没有什么东西能阻止我们去复制，我们其实完全就是be global and day one。
-</p>
-<p class="transcript-line">
-<span class="time"><strong>[00:57:58]</strong> </span>
-<span class="speaker"><strong>发言人1: </strong></span>
-OK所以说在澳洲的创业企业，其实大家的目标一开始可能扎根在澳洲，可能后续可能都是要去美国。
-</p>
-<p class="transcript-line">
-<span class="time"><strong>[00:58:05]</strong> </span>
-<span class="speaker"><strong>发言人3: </strong></span>
-对。
-</p>
-<p class="transcript-line">
-<span class="time"><strong>[00:58:05]</strong> </span>
-<span class="speaker"><strong>发言人1: </strong></span>
-都是要去美国，这个也是一样。现在在中国的创业企业大家也都要去出海。对，珠海的话无非就是去北美。因为北美其实市场比较大，然后大家付费意愿比较高。
-</p>
-<p class="transcript-line">
-<span class="time"><strong>[00:58:15]</strong> </span>
-<span class="speaker"><strong>发言人3: </strong></span>
-对，有没有钱？
-</p>
-<p class="transcript-line">
-<span class="time"><strong>[00:58:17]</strong> </span>
-<span class="speaker"><strong>发言人1: </strong></span>
-比较有钱。对，这是真的好的。我觉得今天聊了很多，特别有意思。最后给你们一分钟时间吧，你们可以打个广告。
-</p>
-<p class="transcript-line">
-<span class="time"><strong>[00:58:24]</strong> </span>
-<span class="speaker"><strong>发言人3: </strong></span>
-可以我们就是你们线下的活动，我们能提供非常准确的实时的转入和实时的翻译。然后更多的是我们会做一个这种event的copilot。现场的观众可以看到这些整个的活动的笔记，就是说事后的一些总结什么之类的。然后还可以他跟他chat就check with这个event transcript，就问一些比如说能不能把这个speak的名字都给我念一下。然后这个speaker他是哪个公司的？他们公司主要做什么的？可能你在听活动的过程中，你可能已经忘了这些信息，或者你没有时间去记录。比如说那个演讲人他推荐那本书叫什么名字去了，就是这样子的。
-</p>
-<p class="transcript-line">
-<span class="time"><strong>[00:59:06]</strong> </span>
-<span class="speaker"><strong>发言人1: </strong></span>
-OK最后再讲一下名字，sunflower AI点IO OK sunflower AI点IO好的，今天我们特别开心，然后跟楚豪跟灵芝聊了很多关于澳洲的创业，关于youtube r关于摆摊儿？聊了很多信息。对，反正我们后续有时间可以再约楚豪跟灵芝一起再聊。我们今天的节目就先到这里，大家再见。
-</p>
-<p class="transcript-line">
-<span class="time"><strong>[00:59:29]</strong> </span>
-<span class="speaker"><strong>发言人3: </strong></span>
-拜拜。
-</p>
-<p class="transcript-line">
-<span class="time"><strong>[00:59:31]</strong> </span>
-<span class="speaker"><strong>发言人1: </strong></span>
-以上就是我们本期播客的全部内容，感谢大家收听，也欢迎大家踊跃留言。如果你喜欢我们，欢迎点赞并分享给感兴趣的朋友。如果你在用苹果播客收听，也希望你花几秒钟给我们一个好评。这会让更多的人了解到我们要是能再点击一下订阅，那就再好不过了。我们下周见。
-</p>]]></content:encoded>
-            <pubDate>Mon, 22 Jul 2024 22:00:00 GMT</pubDate>
-            <guid>669e659237236c546ef416c5</guid>
         </item>
     </channel>
 </rss>
