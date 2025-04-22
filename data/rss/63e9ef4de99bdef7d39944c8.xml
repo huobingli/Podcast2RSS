@@ -4,7 +4,864 @@
         <title>AI炼金术</title>
         <link>https://www.xiaoyuzhoufm.com/podcast/63e9ef4de99bdef7d39944c8</link>
         <description>关注 AI 带来的本质变化和商业机会</description>
-        <lastBuildDate>Fri, 11 Apr 2025 05:12:45 +0800</lastBuildDate>
+        <lastBuildDate>Wed, 23 Apr 2025 05:05:17 +0800</lastBuildDate>
+        <item>
+            <title>MCP 协议彻底打开潘多拉魔盒！AI 变身万能助手？</title>
+            <link>https://www.xiaoyuzhoufm.com/episode/6807879a777ec593813a7630</link>
+            <description>大家好，欢迎大家来到新一期的AI炼金术。最近AI领域最热话题——MCP协议（Model Context Protocol），这是一种新型协议，旨在使大语言模型能操作工具和访问服务，通过封装外部函数调用来实现。协议展示了大语言模型能力的增强以及对工具操作需求的增长，灵活性支持远程API调用和本地应用操作。MCP的普及反映了AI领域对工具操作能力的重视，对比于传统函数调用，MCP在企业场景中的应用潜力巨大，能促进自动化工具的标准化与互操作性。MCP还能推动AI在工业软件、编程工具等领域应用和创新的关键技术，面临技术挑战，带来的市场机遇不容小觑。
+时间线：
+01:01 MCP 协议在 AI 中的应用
+04:07 大语言模型操作工具的能力与实现方法
+09:10 MCP 协议及其应用
+23:26 通过后训练优化 AI 在特定领域的能力
+31:46 工业软件与 Agent 技术的未来机会
+38:22 巨头与新公司的机会及产品周期
+40:30 AI 技术在各领域应用及发展趋势
+46:17 AI 编程趋势与评估挑战
+欢迎订阅「AI 炼金术」的播客，以及同名公众号、视频号
+「AI 炼金术」是一档由徐文浩和任鑫——两位多年老友、AI 领域的资深从业者——打造的播客。这里是探讨 AI 和创业的理想聚集地，我们会邀请一线创业者、产品产品和科研学者，深入探讨 AI 如何重塑行业、变革生活，以及如何从 0 到 1 打造 AI 原生产品。我们的讨论会涵盖多个话题：从 AI 如何改变世界的未来，到如何找到 AI 创业的 PMF；从如何利用 AI 降本增效，到怎样将 AI 技术融入日常生活……如果你对 AI、产品、创业感兴趣，这里有满满的干货和一线实战经验，欢迎关注并推荐给你的朋友，共同探索未来的无限可能！
+商务合作：公众号 「AI炼金术 」菜单栏中【商务】获取联系方式
+节目主理人：
+徐文浩：某AI创业公司联合创始人，正在面向全球市场开发AI应用。连续创业者，参与过多家创业公司，拼多多早期员工。广告科技公司MediaV的算法和数据负责人，后被360收购。离开后加入成立不到1个月的拼多多。后创办了基于AI的海外客服聊天机器人公司 BotHub.AI 和 海外社交电商平台 Bukito 都宣告失败。2023年再次下场创业。
+任鑫：云九资本合伙人，主要在投资和孵化面向全球市场的 AI 应用。之前是连续创业者，曾经打造“今夜酒店特价”用移动互联网应用特价销售酒店尾房；被京东并购后内部创业“京东到家”开展本地即时零售业务；2015 年再次创业 Get 探索对话式人工智能助理成为先烈；2021 年出售公司，2023 年重新回到 AI 世界。
+BGM：
+片头：Shortwire - Reconfig
+片尾：Tyler Brown Williams - Secret Place</description>
+            <content:encoded><![CDATA[<h1>转写链接</h1>
+<link>https://tongyi.aliyun.com/efficiency/doc/transcripts/wg57n32pog6j9kr3</link><br>
+<h1>节目摘要</h1>
+<div class="summary">讨论了MCP（Model Context Proto）协议的概念和应用，该协议旨在使大语言模型能更方便地调用外部服务，无论这些服务基于云还是本地，通过STDIO或HTTP接口实现。MCP的灵活性体现在能封装任何可调用服务。AI技术在处理复杂任务时面临挑战，尽管在生成流行音乐或代码等简化任务上取得进展，但在需要人类专业知识和复杂评估标准的问题上，AI表现仍有局限。未来，AI在工业软件、自动化流程等领域应用广泛，随着AI能力提升，更多任务可通过自动化和智能化处理。对AI的未来发展持乐观态度，尽管存在技术和评估挑战。</div><br>
+<h1>章节速览</h1>
+<div class="chapters">
+<div class="chapter-item">
+<span class="time"><strong>[00:00:00]</strong> </span>
+<span class="chapter-title"><strong>AI炼金术：MCP协议与大模型的Agent能力</strong></span>
+<div class="chapter-summary">讨论聚焦于MCP协议，一种允许大语言模型通过HTTP或标准输入输出协议调用外部功能和服务的机制。MCP（Model Context Proto）通过封装外部函数调用或功能，使大模型能够统一识别和调用各种服务的能力，从而增强其作为代理（agent）的决策和执行能力。该协议旨在解决AI面临的复杂问题，通过关联多个MCP服务，大模型可以展现出更强大的代理功能。</div>
+</div>
+<div class="chapter-item">
+<span class="time"><strong>[00:02:16]</strong> </span>
+<span class="chapter-title"><strong>大语言模型与工具操作能力的统一化</strong></span>
+<div class="chapter-summary">对话围绕大语言模型如何操作工具以及如何统一这些操作的能力展开。首先讨论了过去AI在处理文字、编码等方面的能力局限，以及通过使用工具（如打开地图、浏览器等）来扩展功能的必要性。接着探讨了不同公司对于工具调用（function call）定义的差异，提出了采用统一格式（如MCP）来简化和标准化这些操作的建议。最后，提到了GPT4的function call功能和OpenAI之前提供的标准化协议，强调了标准化解决方法对于提供工具能力的重要性。</div>
+</div>
+<div class="chapter-item">
+<span class="time"><strong>[00:06:12]</strong> </span>
+<span class="chapter-title"><strong>MCP协议的创新及其在模型调用中的应用</strong></span>
+<div class="chapter-summary">MCP协议通过定义更为松散的调用协议，使得服务的包装更为灵活，不仅支持HTTP调用，还引入了标准输入输出（STDIO）协议，理论上可以调用任何服务。此外，MCP引入了客户端（client）的概念，允许开发者将调用工具的能力封装成MCP的client，从而形成网状的组合结构，使得多个server和client之间可以互相调用。这种模式随着模型能力的提升变得更为有价值，尤其是在本地APP应用场景中，通过标准输入输出调用，可以更简单地封装和交互。</div>
+</div>
+<div class="chapter-item">
+<span class="time"><strong>[00:10:25]</strong> </span>
+<span class="chapter-title"><strong>通过MCP和RPA实现本地应用自动化</strong></span>
+<div class="chapter-summary">对话围绕在本地主机上使用MCP（机器客户端协议）和RPA（机器人流程自动化）技术来管理和操作软件，如OA系统。讨论指出，即使没有API，也可以通过RPA工具实现与软件的交互，例如填报销流程。此外，提到了MCP协议与HTTP API、OpenAI的API等技术在本质上并无显著差异，更多是关于协议和标准的定义。最后，讨论了在工业界中孵化此类项目的机会，以及通过RPA将传统应用与现代技术连接的可能性。</div>
+</div>
+<div class="chapter-item">
+<span class="time"><strong>[00:14:18]</strong> </span>
+<span class="chapter-title"><strong>MCP与A2A协议的比较及其应用</strong></span>
+<div class="chapter-summary">对话讨论了MCP（Microservice Control Plane）和A2A（Agent-to-Agent）两种交互模式的特性和应用场景。MCP主要提供细颗粒度的原子能力，通过API调用管理工具，而A2A则更侧重于代理（agent）之间的互动，实现更抽象的逻辑层处理。A2A在解决权限问题、任务状态通知、任务取消以及代理发现等方面提供了更完善的功能，适合企业级应用的复杂需求。此外，讨论还涉及了MCP和A2A在实际应用中的竞争关系以及功能封装的抽象程度。</div>
+</div>
+<div class="chapter-item">
+<span class="time"><strong>[00:18:52]</strong> </span>
+<span class="chapter-title"><strong>MCP协议在工具封装与能力分配中的应用探讨</strong></span>
+<div class="chapter-summary">讨论集中在MCP协议在工具封装与能力分配中的应用策略。参与者讨论了如何在MCP server与MCP client之间合理分配能力和知识，指出不应将过多能力固化在MCP server端，以避免降低agent的作用和灵活性。通过3D打印机操作和工业软件使用等例子，阐述了知识和能力应如何在系统不同层级之间分配，强调了在长线发展中，MCP server主要作为暴露操作动作或工具的标准接口，而真正的能力和决策应集中在MCP client端，以实现更高级别的抽象和决策功能。</div>
+</div>
+<div class="chapter-item">
+<span class="time"><strong>[00:23:26]</strong> </span>
+<span class="chapter-title"><strong>通过强化学习优化专业软件操作的可行性探讨</strong></span>
+<div class="chapter-summary">对话围绕在特定垂直领域（如使用Blender等软件）通过强化学习和post training训练agent，以实现自动化操作和提高效率的可行性。讨论中指出，主要成本和挑战在于定义问题、构造数据和评估能力，而非模型训练本身。有10万条真实数据被认为已经足够训练出有效的模型，且存在通过为专业软件提供MCP（模型控制平台）和定制agent来占领细分市场的商业机会。</div>
+</div>
+<div class="chapter-item">
+<span class="time"><strong>[00:26:55]</strong> </span>
+<span class="chapter-title"><strong>AI在软件开发与BPO行业的应用与挑战</strong></span>
+<div class="chapter-summary">对话主要探讨了人工智能（AI）在软件开发和BPO（商业流程外包）行业的应用及其面临的挑战。指出尽管AI极大提高了应用开发程序员的工作效率，但程序员的主要工作并非单纯操作软件，而是大量时间用于沟通和协调。同时，AI在BPO领域虽有强大能力，但在成本控制和准确率方面仍面临挑战，尤其是在需要大量沟通和审价的场景中，人工仍然不可或缺。此外，讨论还提到AI辅助在提高效率方面的价值，特别是在工业软件领域，因其流程较为固定，AI的应用前景更为广阔。</div>
+</div>
+<div class="chapter-item">
+<span class="time"><strong>[00:32:25]</strong> </span>
+<span class="chapter-title"><strong>Agent技术在软件开发领域的快速发展与红利捕获</strong></span>
+<div class="chapter-summary">对话讨论了Agent技术在软件开发领域的快速发展及其带来的红利。指出Agent技术在coding领域发展最快，而跨领域的专业知识对成功应用该技术至关重要。讨论还涉及了如何通过MCP（可能是某种协议或技术）来捕获未来的价值，包括培训普及、外包实施、私有化部署以及将企业内部系统转换为MCP服务。同时，提出在企业服务领域，需要解决权限、数据隐私、服务监控等技术问题，并探索如何创建一个MCP搜索站，为机器提供服务注册和评估功能。最后，讨论指出，未来可能的机会在于通过单一入口整合多个工具的能力，这可能是科技巨头而非初创公司的机会。</div>
+</div>
+<div class="chapter-item">
+<span class="time"><strong>[00:38:36]</strong> </span>
+<span class="chapter-title"><strong>探讨在细分领域中利用技术工具提高效率及市场机会</strong></span>
+<div class="chapter-summary">对话围绕在特定垂直领域中，如何通过技术工具如钉钉、微信等提高工作效率以及市场机会进行了深入探讨。讨论者认为，虽然通用工具在某些场景下效率不高，但在细分领域中，定制化工具或平台可以提供更有效的交互和问题解决方式。此外，对话还提到，市场机会具有周期性，应抓住当前机会，而非过分担忧未来可能的变数，比喻为“正在融化的冰棍”，强调及时把握和利用现有机会的重要性。</div>
+</div>
+<div class="chapter-item">
+<span class="time"><strong>[00:40:30]</strong> </span>
+<span class="chapter-title"><strong>AI技术在图像生成和视频生成中的进展与应用</strong></span>
+<div class="chapter-summary">讨论集中在OpenAI和Google在图像与视频生成领域的最新进展，特别是Google在视频生成方面展现出的强劲实力。同时，对话还提到了AI技术在企业级应用中的快速渗透，以及未来产品设计可能更多地面向AI agent而非人类用户的发展趋势。此外，还探讨了AI技术如何改变传统行业，如医疗和广告，通过AI native的方式重做系统，实现快速迭代和优化，以及小团队利用AI技术实现高效开发的可能性。</div>
+</div>
+<div class="chapter-item">
+<span class="time"><strong>[00:46:47]</strong> </span>
+<span class="chapter-title"><strong>从编码到用户获取：业务发展的挑战与评估</strong></span>
+<div class="chapter-summary">对话讨论了随着业务的发展，挑战逐渐从编码转向获取用户和注意力，即获取真实用户的难度。同时，提到了数据可能存在的泡沫和不确定性，以及评估一个原本不确定的问题的重要性。特别指出，评估AI生成内容的质量，如流行音乐和图像，远比编写代码复杂，因为缺乏明确的标准答案。此外，还探讨了在不同行业应用AI时评估标准的挑战，以及即使是编程任务评估的复杂性和不合理要求。</div>
+</div>
+<div class="chapter-item">
+<span class="time"><strong>[00:50:28]</strong> </span>
+<span class="chapter-title"><strong>AI音乐评估与人机意见一致性探讨</strong></span>
+<div class="chapter-summary">对话围绕AI在音乐评估中的应用展开，探讨了人与AI在判断两首流行音乐哪首更好听时的一致性问题，指出人与人、AI与人之间的一致性大致在40%到60%之间，反映出简单问题AI已能较好解决，但复杂问题上人与AI均存在挑战。此外，讨论了个人偏见在产品调整中的无效性以及AI表现的不稳定性，提及AI在处理中文提问时的表现差异。最后，邀请听众关注公众号以获取更多AI领域的一线见解和实践分享。</div>
+</div>
+</div><br>
+<h1>问题回顾</h1>
+<div class="qa-item">
+<div class="question"><strong>Q:</strong> MCP在技术上的创新点有哪些？</div>
+<div class="answer"><strong>A:</strong> MCP在技术上的创新点主要有两点：首先，它定义了一个更为松散的协议，不再局限于HTTP服务或本地API调用，而是涵盖了所有可以使用标准输入输出（STDOUT）的工具和服务；其次，MCP引入了client的概念，允许开发者将调用工具的能力包装成MCP client，从而实现更灵活和抽象的网状结构，理论上任何一个MCP client都可以调用任意多的MCP server。</div>
+</div>
+<div class="qa-item">
+<div class="question"><strong>Q:</strong> MCP是什么？</div>
+<div class="answer"><strong>A:</strong> MCP全称是model context proto，它本质上是为各种软件或API暴露一个标准接口，让大语言模型能够调用。通过封装外部函数调用或功能，MCP使得大语言模型能更方便地发现和利用服务的能力，并通过协议来统一接口，便于模型调用工具执行任务。</div>
+</div>
+<div class="qa-item">
+<div class="question"><strong>Q:</strong> MCP火起来的原因是什么？</div>
+<div class="answer"><strong>A:</strong> MCP火起来的原因有两个方面：一是随着模型能力的提升，规划执行任务的agent能力也随之增强，需要有如MCP这样能够有效组织和调用众多工具的结构；二是MCP简化了与本地应用交互的过程，通过标准输入输出协议能更容易地封装和操作本地浏览器、客户端软件等场景，相较于传统的通过SARS等方式实现，开发工作变得更为简洁高效。</div>
+</div>
+<div class="qa-item">
+<div class="question"><strong>Q:</strong> 如果主机上的软件没有API，是否还能通过RPA进行交互和操作？</div>
+<div class="answer"><strong>A:</strong> 没有API也可以通过RPA（机器人流程自动化）的方式去管理调用软件，将软件界面变成标准输入输出，通过定义MCP服务和协议，以本机的标准输入输出与MCP进行交互。</div>
+</div>
+<div class="qa-item">
+<div class="question"><strong>Q:</strong> MCP实际上可以做哪些事情？</div>
+<div class="answer"><strong>A:</strong> 理论上讲，MCP可以做任何事情，它提供了一种更简单的本地标准服务接口，可以替代复杂的HTTP服务作为接口，让客户端通过定义好的协议与服务进行交互。</div>
+</div>
+<div class="qa-item">
+<div class="question"><strong>Q:</strong> MCP和现在流行的类似技术有何本质区别？</div>
+<div class="answer"><strong>A:</strong> MCP本质上是企业级应用中挣脱话语权、定义新协议标准的一种尝试，与RPA等技术相比，其技术含量并不高，但生态若能发展起来，早期参与将更容易被连接到主流网络。</div>
+</div>
+<div class="qa-item">
+<div class="question"><strong>Q:</strong> OpenAI的MCP与HTTP API有何异同？</div>
+<div class="answer"><strong>A:</strong> MCP与基于HTTP的API在本质上并无太大差别，都是为了封装和提供服务，但MCP提出了一种新的交互方式，并且在某种程度上更加简化了接口使用。不过，MCP并没有像OpenAI之前推广的标准化注册体系那样得到广泛应用和坚持。</div>
+</div>
+<div class="qa-item">
+<div class="question"><strong>Q:</strong> 传统应用能否通过RPA进一步扩展其功能？</div>
+<div class="answer"><strong>A:</strong> 传统应用理论上也可以通过RPA再连接一次，因为微软在Windows系统上提供了许多协议层面的能力，可以进一步包装利用。</div>
+</div>
+<div class="qa-item">
+<div class="question"><strong>Q:</strong> MCP和A2A（agent to agent）之间的主要差异是什么？</div>
+<div class="answer"><strong>A:</strong> MCP提供细颗粒度的原子能力供客户端或主机调用，而A2A则是更抽象的一层逻辑，允许agent之间互相协商互动，解决了一些MCP未能解决的常见场景，如权限控制、任务状态通知及取消、以及agent间的发现机制等。</div>
+</div>
+<div class="qa-item">
+<div class="question"><strong>Q:</strong> MCP封装的功能抽象程度如何？</div>
+<div class="answer"><strong>A:</strong> MCP封装的功能抽象程度取决于提供服务的开发者，可以选择将功能封装得非常抽象，也可以细化到每个具体操作。这取决于MCP客户端的需求，但一次性封装过多的能力可能会导致模型难以有效选择和执行正确操作。</div>
+</div>
+<div class="qa-item">
+<div class="question"><strong>Q:</strong> 在MCP server中，是否应该放置大量具体行业的专业知识（no industryknow how）？如果将工程师的know how封装在MCP server中，这意味着什么？</div>
+<div class="answer"><strong>A:</strong> 不应该把太多的行业专业知识放在MCP server里，因为那样会让agent失去其灵活性和意义。agent应该通过MCP server暴露一个标准的操作或工具接口，而实际的业务逻辑和能力应保留在agent（client端）。这意味着对于特殊或复杂的工具，由于模型理解不足或无法规划好能力，导致agent能力被固化在server端，这实际上退化了agent的角色，使其更像是执行固定流程的工作流。</div>
+</div>
+<div class="qa-item">
+<div class="question"><strong>Q:</strong> 对于像Blender这样的工业软件，其专业知识是否应该放在server端？</div>
+<div class="answer"><strong>A:</strong> 不应将Blender等工业软件的专业知识放在server端，而应该在client端（agent）实现，除非是迫不得已的情况或者需要做更抽象的决策。这样分层设计可以类比于现实世界中不同层级管理者各自发挥决策作用的例子。</div>
+</div>
+<div class="qa-item">
+<div class="question"><strong>Q:</strong> 是否可以通过post training训练一个能更好地管理工具的agent？</div>
+<div class="answer"><strong>A:</strong> 可以考虑通过post training训练agent来适应特定工具的使用，尤其是在一些特殊垂直领域中，但主要的成本可能在于数据构造和评估能力上，而非模型训练本身。</div>
+</div>
+<div class="qa-item">
+<div class="question"><strong>Q:</strong> 如果有大量真实操作Blender的真实数据，是否可以用来训练agent？</div>
+<div class="answer"><strong>A:</strong> 如果有百万级别的真实操作Blender的数据，包括人类操作记录、需求说明书以及人工批改的真实结果，这些数据是有价值的，理论上可以通过强化学习等方法将这些能力转化为agent的行为。</div>
+</div>
+<div class="qa-item">
+<div class="question"><strong>Q:</strong> 是否有可能通过MCP和agent结合，为细分产业软件创造市场机会？</div>
+<div class="answer"><strong>A:</strong> 从技术上讲，这个故事是通的，可以将MCP与agent结合，通过agent操作软件来交付结果，满足市场需求。不过，实际挑战在于区分真正只是操作软件的人工智能辅助工作与那些需要更多沟通协调工作的场景。</div>
+</div>
+<div class="qa-item">
+<div class="question"><strong>Q:</strong> 对于那些看似只需操作软件即可完成的工作，实际情况如何？</div>
+<div class="answer"><strong>A:</strong> 实际情况是，许多工作人员并非仅仅在操作软件，他们还需要与产品经理、其他程序员进行大量沟通交流。虽然AI技术可以辅助完成部分工作，但在很多情况下，仍需人工介入以解决AI无法完美处理的问题。</div>
+</div>
+<div class="qa-item">
+<div class="question"><strong>Q:</strong> 在MCP协议中，机器和人工触发操作的情况是怎样的？</div>
+<div class="answer"><strong>A:</strong> 在MCP协议下，操作既可以由机器发起，也可以由人看到反馈后发起。例如，现在的ID生成等都是MCP的client，用户通过软件应用并确认结果后执行动作，或者发现问题并触发相应流程，这些都属于MCP class的一部分。</div>
+</div>
+<div class="qa-item">
+<div class="question"><strong>Q:</strong> 工业软件领域是否会有更多机会，因为它相对复杂度较低且更偏向人类使用？</div>
+<div class="answer"><strong>A:</strong> 是的，工业软件领域有更多的机会，因为其工作内容相对固定，很多工程师每天重复做同一件事情，这与白领办公环境中的程序员不同，他们可能需要掌握多领域知识。对于有工业软件开发背景的朋友，欢迎联系交流。</div>
+</div>
+<div class="qa-item">
+<div class="question"><strong>Q:</strong> 在coding领域中，为什么agent的发展速度很快？</div>
+<div class="answer"><strong>A:</strong> 因为coding领域的技术专家同时也是agent coding的产品专家，他们只需关注agent或AI能干什么，而不像其他领域还需要深入理解特定领域知识，这种组合使得agent在coding领域发展迅速。</div>
+</div>
+<div class="qa-item">
+<div class="question"><strong>Q:</strong> MCP最近很火，这是否意味着agent能力逐渐成熟，以及红利在哪里？</div>
+<div class="answer"><strong>A:</strong> MCP的流行确实反映了agent能力的成熟，红利在于，当MCP半成熟时，一些公司如manus通过展示良好的demo抢占了红利。下一个红利点可能出现在如何构建一个能让机器有效发现和使用MCP server的搜索站，或者围绕MCP server提供相关服务。</div>
+</div>
+<div class="qa-item">
+<div class="question"><strong>Q:</strong> 从需求角度看，MCP在哪些层面上具有价值捕获潜力？</div>
+<div class="answer"><strong>A:</strong> 价值捕获主要在几个层面：一是培训和普及层面；二是类似AI普及后的外包实施层面，这些都属于捡钢镚式的逻辑。此外，随着MCP的应用普及，未来所有公司都会将其内部系统和服务转化为MCP全球需求，形成新的价值点。</div>
+</div>
+<div class="qa-item">
+<div class="question"><strong>Q:</strong> 是否有可能在某一垂直领域创造基于MCP的小型机会？</div>
+<div class="answer"><strong>A:</strong> 虽然巨头如微信、钉钉等在某些领域可能会占据优势，但在特定垂直领域确实存在基于MCP的小型机会。例如，针对某一行业的工具公司，可以构建自己的MCP server和client，逐渐整合其他工具，并通过优化交互界面和问题确认方式来提高效率。</div>
+</div>
+<div class="qa-item">
+<div class="question"><strong>Q:</strong> 在AI技术中，你目前使用效果最好的是什么？</div>
+<div class="answer"><strong>A:</strong> 我目前用下来效果最好的是Google的AI技术，它的表现非常出色，特别是在关节理解方面，即使对于虚构的机器人也能准确识别。</div>
+</div>
+<div class="qa-item">
+<div class="question"><strong>Q:</strong> 大家为什么会觉得拉马在AI领域无人问津？</div>
+<div class="answer"><strong>A:</strong> 拉马在AI领域的表现相对较弱，可能是因为在市场方面，尤其是主流市场的竞争激烈，且被其他大公司占据较大份额。此外，企业级市场海外渗透较快，而国内渗透较浅，这与国内to b业务的传统难点有关。</div>
+</div>
+<div class="qa-item">
+<div class="question"><strong>Q:</strong> 现在有哪些值得关注的AI发展方向？</div>
+<div class="answer"><strong>A:</strong> 一个值得关注的方向是MCP一脉相承的产品，越来越多的产品不再直接为人类服务，而是为agent设计。例如，构建适应agent使用的基础设施，如MCP server、浏览器和搜索功能等。现在的产品趋势是越来越多地考虑agent的使用场景，甚至有些小公司立志做all in one的解决方案，利用AI重构原有复杂的系统，以实现更高效的闭环运作。</div>
+</div>
+<div class="qa-item">
+<div class="question"><strong>Q:</strong> 这些小公司能通过什么方式获得成功？</div>
+<div class="answer"><strong>A:</strong> 这些小公司之所以能成功，一方面是因为AI技术的快速发展，使得他们能够开发出以前需要庞大团队才能完成的系统；另一方面，他们通过AI native的方式重做原有系统，大幅减少了功能冗余，并且利用AI优化，极大地提高了效率和响应速度，从而在某些行业中实现了快速突破。</div>
+</div>
+<div class="qa-item">
+<div class="question"><strong>Q:</strong> AI评估在行业改造中的重要性是什么？</div>
+<div class="answer"><strong>A:</strong> 在AI改造各行业时，评估成为一个关键问题，因为它涉及到如何定义并衡量“好”的标准。比如，对于AI生成音乐的质量评估，难度不在于生成音乐本身，而在于如何定义和评估什么是好的音乐。随着AI技术在各领域的深入应用，如何建立有效的评估机制变得尤为重要。</div>
+</div>
+<h1>节目文稿</h1>
+<p class="transcript-line">
+<span class="time"><strong>[00:00:05]</strong> </span>
+<span class="speaker"><strong>发言人1: </strong></span>
+MCP它其实是现在它的盖的这个协议是提供了两类的。一类叫做还是你可以通过HTTP的方式去调用。第二类，他其实调用了一个协议，说你就用标准叫standard into output STDIO。这个标准的输入输出协议，你任何东西都可以作为一个标准输入输出的服务去调用。
+</p>
+<p class="transcript-line">
+<span class="time"><strong>[00:00:30]</strong> </span>
+<span class="speaker"><strong>发言人2: </strong></span>
+现在你找到的机会就是一个正在融化的冰棍。它一边融化你一边赶紧吃，然后吃点力气赶紧去找下一根冰棍儿。你千万不要想你可以吃到一个是百年的什么东西，你吃的就是冰棍。
+</p>
+<p class="transcript-line">
+<span class="time"><strong>[00:00:45]</strong> </span>
+<span class="speaker"><strong>发言人1: </strong></span>
+这个就是我觉得现在有很多问题我们希望AI来解决，但是其实不太好解决。你换句话说就是简单的问题，AI已经解决的差不多了，难的问题感觉人好像也解决不是很好。
+</p>
+<p class="transcript-line">
+<span class="time"><strong>[00:01:00]</strong> </span>
+<span class="speaker"><strong>发言人2: </strong></span>
+欢迎大家来到AI炼金术。今天的话是我抓着徐文浩同学问一问MCP的事儿。徐文浩老师来解释一下MCP是啥？
+</p>
+<p class="transcript-line">
+<span class="time"><strong>[00:01:09]</strong> </span>
+<span class="speaker"><strong>发言人1: </strong></span>
+应该这样讲，反正最近很流行一个东西叫做agent，然后我觉得MCP就是因为有了agent，所以要在原来的function call这个事情上再用新瓶装个旧酒。无非是你把任何可以使用的这些外部的函数调用或者功能，用一个协议封装起来，然后方便让这个大元模型说，有一个统一的说我去说这个服务有哪些能力，有哪些可以用的工具，然后我自己决策怎么用这个工具，然后这个工具执行的结果能够返回给我，他既可以去支持外部的这些API的调用，也可以支持本地的。比如说你本地有个程序，它可以用标准输入输出接口，把自己的能力用MCP的协议暴露出来。
+</p>
+<p class="transcript-line">
+<span class="time"><strong>[00:01:55]</strong> </span>
+<span class="speaker"><strong>发言人1: </strong></span>
+MCP的全称就是叫model context proto。我觉得大家不要被那一堆名字，一堆什么东西给忽悠住。本质上它就是把你叫SARS也好，各种软件也好，暴露一个标准的接口，让大语言模型可以调用。那大应用模型只要去关联很多MCP的服务，就看似有所谓的很强的agent的能力。
+</p>
+<p class="transcript-line">
+<span class="time"><strong>[00:02:17]</strong> </span>
+<span class="speaker"><strong>发言人2: </strong></span>
+我讲一下我在文学上的理解，然后你从理工科来指导一下。对我理解是就是过去的AI的话，其实就是个耍嘴皮子的，他就是只能说话，哪怕我们说他的什么推理什么的，其实本质上还是文字。哪怕是他写写coding，其实coding也是语言的一种。
+</p>
+<p class="transcript-line">
+<span class="time"><strong>[00:02:35]</strong> </span>
+<span class="speaker"><strong>发言人2: </strong></span>
+那你需要他干更多的事儿的时候，其实你就需要他学会使用工具。比如说它能够打开地图，对吧？它能够打开浏览器，它能够用我们各用的各种软件，他需要操作这个世界。那他操作这个世界的时候，每一个大语言的模型就会说，那你得把这个工具写个写，按照我的要求告诉我你这个工具咋用，对吧？你得给我写个说明书，就相当于function call你得给我写个说明，告诉我怎么扩你，对吧？那我就会扩了。
+</p>
+<p class="transcript-line">
+<span class="time"><strong>[00:03:02]</strong> </span>
+<span class="speaker"><strong>发言人2: </strong></span>
+但是每一家其实function call的定义都有点不太一样。比如说你为了anthropic写了一个，你给open I还得写一个，你给deep c还得写一个，就挺烦躁的这是第一个。所以的话有人就说，要不然我们都用同一种格式，对吧？大家都满足同一个抽象格式，都按照MCP写，大家都按照这个写，工具不就说明书就统一了，你给中国人看，给美国人看，都都按这份说明书，你给哪？每个大模型看，都看同一份说明书就够了，这是第一点。第二点就是我的感觉，但是这点我就是技术上非常不确定。
+</p>
+<p class="transcript-line">
+<span class="time"><strong>[00:03:33]</strong> </span>
+<span class="speaker"><strong>发言人2: </strong></span>
+好像我印象之前那个那个function call，好像那个定义是不是都是要自己定义？就是你是这个产品的owner，然后你来定义这个API，我把它怎么包。现在的话好像MCP有一个风潮，就是你只要知道它的API，你把它包成MCP server的话，大家都在也可以帮别人包，对吧？你帮photoshop，帮什么blender包一个。那那这样子的话，其实他他把中间做这一层那个那个server的话，好像可以独立的有这么一层存在了。第一点我觉得好像我应该大致是对的。第二点我模模糊糊有个感觉。
+</p>
+<p class="transcript-line">
+<span class="time"><strong>[00:04:07]</strong> </span>
+<span class="speaker"><strong>发言人1: </strong></span>
+这是对的吗？其实我没有太get到你讲的那个东西是什么。第一个我觉得是说我觉得大的思跟你讲的讲的是对的，是一样的。就是说我们希望大语言模型能够去操作一些工具，对吧？就大家就讲过很多，比如说过去很火的probability，它本质上说我大语言模型能够去做一些搜索。
+</p>
+<p class="transcript-line">
+<span class="time"><strong>[00:04:26]</strong> </span>
+<span class="speaker"><strong>发言人1: </strong></span>
+然后比方说现在的很多这种编程工具，或者说他用过cloud，或者用GPT，它有一个canvas。他就说我大元模型去生成了一段代码之后，这个代码可以在一个沙盒环境把这个东西渲染一下。不只是语言模型，纯粹吐文字的这个能力。或者说我可以查一下天气，或者说我想电商下个单买个东西，这个就是单元模型需要有给他提供操作工具的能力。
+</p>
+<p class="transcript-line">
+<span class="time"><strong>[00:04:53]</strong> </span>
+<span class="speaker"><strong>发言人1: </strong></span>
+操作工具的这个能力其实在MCP之前也是有的，通常是用两个方式来实现。第一个是如果你大家用过GPT4的这个API的话，它有一个东西就叫做function call，对吧？或者叫to calling。典型的场景其实是这样的，是说你自己需要定义一个说我有哪些工具调用，这个工具的调用的接口长什么样子。它其实比较严格，而且当这个接口的格式长什么样子，当你的这个大约模型输出一些结构化的内容之后，其实还是自己要主动触发去触发这些任务去执行。
+</p>
+<p class="transcript-line">
+<span class="time"><strong>[00:05:29]</strong> </span>
+<span class="speaker"><strong>发言人1: </strong></span>
+第二个是我不知道你还记不记得，就是OpenAI有一段时间它其实是提供了一个像有点类似于MCP的。就是说如果你是一个开发者，你可以把你的这个API接口，根据他定义的一个格式，他定义了一个schema的格式，你可以注册在OpenAI。我记得当时像克拉娜还是有一堆服务，就是在OpenAI上提供了一些类似于GPT s的这个能力。这个能力就是利用o OpenAI当时提供的一个标准化的协议去干的这个事儿。但这个就是我觉得之前大家对提供工具能力的这个事儿的想法。这个想法其实是一个偏向于说，好像我们已经找到了一个标准化的解决方法。
+</p>
+<p class="transcript-line">
+<span class="time"><strong>[00:06:12]</strong> </span>
+<span class="speaker"><strong>发言人1: </strong></span>
+但是我觉得MCP其实做了两个比较有意思的事儿。第一个是说他把这个协议，你可以认为他定义的更加松散了。怎么就更加松散了呢？就是之前你要去做包装的一个服务，你比通常大家都是包装一个HTTP的服务，或者包装本地的一个API的调用。
+</p>
+<p class="transcript-line">
+<span class="time"><strong>[00:06:36]</strong> </span>
+<span class="speaker"><strong>发言人2: </strong></span>
+他可以包一切是吧？
+</p>
+<p class="transcript-line">
+<span class="time"><strong>[00:06:37]</strong> </span>
+<span class="speaker"><strong>发言人1: </strong></span>
+现在对MCP它其实是现在既提供了它的这个盖的这个协议是提供了两类的。一类叫做还是你可以通过HTTP的方式去调用。第二类，它其实调用了一个协议，说你就用标准叫standard input output，STDIO，就是标准的输入输出协议。那理论上讲任何东西都可以。你如果是个unix like或者linux这样的服务，你任何东西都可以作为一个标准输入输出的服务去调用，对吧？就是你你的电脑上的浏览器，你电脑上的某一个客户端软件，你就更容，所以我称之为它变成更容易的去包装的这个事儿。
+</p>
+<p class="transcript-line">
+<span class="time"><strong>[00:07:18]</strong> </span>
+<span class="speaker"><strong>发言人1: </strong></span>
+第二个是它其实引入了原来大家讲的to calling，是说我只关心我是那个服务，我要定一个服务的这个接口出来。那现在它其实引入了一个叫client，对吧？就是你自己可以去写一个client。以前大家其实都觉得client就是我自己定义的一个业务，或者定义的一个workload。但是现在其实他把这个client的定义也清楚了之后，你会发现大家在开发自己的应用的时候，会把自己去调用工具的能力包装成一个MCP的client。
+</p>
+<p class="transcript-line">
+<span class="time"><strong>[00:07:53]</strong> </span>
+<span class="speaker"><strong>发言人2: </strong></span>
+他做了更多层，然后更多抽象。
+</p>
+<p class="transcript-line">
+<span class="time"><strong>[00:07:56]</strong> </span>
+<span class="speaker"><strong>发言人1: </strong></span>
+这样带来的好处是理论上讲就是它变成了一个网状的组合，有很多server，有很多client，理论上讲你都是可以直接互相调用的。它不是而不是原来是通常说有很多API调用，我自己写我的一个应用，我调到说我能去调用哪些。现在大家会假设我有很多MPC server，我自己写的。理论上讲，任何一个MPCP的client都可以去任意的调用任意多的MTCP的server。我觉得是说它其实定义了这样一个方式你说它本质上和之前的function call有什么区别吗？我觉得其实也没啥区别。
+</p>
+<p class="transcript-line">
+<span class="time"><strong>[00:08:34]</strong> </span>
+<span class="speaker"><strong>发言人2: </strong></span>
+以前就没有出现类似于这种MCP server导航站，或者像你说的也没有出现这种网状的结构。理论上来讲，以前OpenAI一家独大的时候，它应该也可以出现这种网状结网状结构。
+</p>
+<p class="transcript-line">
+<span class="time"><strong>[00:08:48]</strong> </span>
+<span class="speaker"><strong>发言人1: </strong></span>
+那没有吗？为啥我觉得有两个，一个是它是跟伴随着模型的能力提升是相关的。要出现这个网状结构就意味着模型本身的我们叫agent能力，就是我规划执行任务，就是我给了你很多工具，你的正确的规划执行任务的能力要强，那他一定是模型能力提升到一定地步，这个能力才有价值。
+</p>
+<p class="transcript-line">
+<span class="time"><strong>[00:09:11]</strong> </span>
+<span class="speaker"><strong>发言人1: </strong></span>
+因为MCP其实最近火的，但MCP不是最近提出的。MCP提出可能也有至少有半年了。MCP肯定是去年下半年提出的，所以最近火。我觉得也是说当大家看到模型能力越来越强，有越来越多的工具调用的场景开始爆发了之后，MCP才火的。我觉得这是第一个。
+</p>
+<p class="transcript-line">
+<span class="time"><strong>[00:09:33]</strong> </span>
+<span class="speaker"><strong>发言人1: </strong></span>
+第二个我觉得或者说MCP当时半年前刚出来，我觉得它比较有价值的是说，因为通过本地的标准，标准是标准输入输出的调用，其实你很容易的能够封装很多本地的APP的应用场景。因为我举个例子，就比方说理论上讲你用MCP你很容易能够操作本地的浏览器，或者你本地有一个什么客户端软件或者怎么样它。但在没有MCP，就是大家还习惯HTP请求的时候，大家都想我得做个SARS。然后这个SARS里我去做一个沙盒的浏览器，这个是对很多的小的应用场景来讲就是。开发会变得有点重。就是我现在开发一个沙盒浏览器，然后你调任务的时候，我随时能把这个沙盒浏览器，就是把这个开发工作做复杂了。标准输入输出的确是一个比较简单粗暴的跟现有的应用去交互或者去服务的这个方式。
+</p>
+<p class="transcript-line">
+<span class="time"><strong>[00:10:26]</strong> </span>
+<span class="speaker"><strong>发言人2: </strong></span>
+你这个部分我追问一下，我怀疑我误解了你的意思。就比如说我现在的主机上面，假设我在用一台windows电脑，我的主机上面有一个比假设说有一个我们自己公司开发的一个OA系统。这就是你刚刚讲的，就是我主机上有一个客户端软件，或者说我这个是采购的好了，我采购了一个OA系统是一个软件，我现在可以帮这个软件写一个MCP，我的理解是我需要有他的API才能写。对他如果不给我API我也写不了了。
+</p>
+<p class="transcript-line">
+<span class="time"><strong>[00:10:55]</strong> </span>
+<span class="speaker"><strong>发言人1: </strong></span>
+没有API你也可以通过一些RPA的方式去管理去调用。我跟它交互，我可以我需要通过一些RPA的方式可以把它的界面，比如说变成一个标准输入输出。我举个例子，就是你定义的MCP服务说假设这个软件可以比方说填报销对不对？然后你定义了一个格式，那你的M你的客户端跟这个MCP的协议叫就通过你自己本机的这个标准输入输出。我那个MCP protocol说我说你帮我去填一下不报销。那他实际可能是拿到这个报销指令之后，你可以通过一些RPA的工具或者系统的户口，把这个软件打开，移到那个屏幕上去，点击这些东西一样是可以操作的。
+</p>
+<p class="transcript-line">
+<span class="time"><strong>[00:11:43]</strong> </span>
+<span class="speaker"><strong>发言人2: </strong></span>
+那这样子就可以做一切了。
+</p>
+<p class="transcript-line">
+<span class="time"><strong>[00:11:45]</strong> </span>
+<span class="speaker"><strong>发言人1: </strong></span>
+对，所以理论上讲它可以做做一切。当然你原来HTP方式也可以，但就会其实是变得稍微麻烦一点，因为它本身本质上是在本地，你没有必要一定要写着HT服务来作为接口。在本地用标准服务，标准输入输出是一个更简单的接口。但是本质上我觉得这个其实跟什么function code跟定义的HT服务，包括跟OpenAI之前定义的一些API，我觉得没有本质差别。就是它不是个什么，它并没有什么技术上的先进性。更多的是他提出来有人做了一些应用，这个模型的能力也到了一定的程度。感觉欧文I也已经忘记了要推广他们之前定义的那个OpenAI.
+</p>
+<p class="transcript-line">
+<span class="time"><strong>[00:12:28]</strong> </span>
+<span class="speaker"><strong>发言人2: </strong></span>
+现在支持MCP对。
+</p>
+<p class="transcript-line">
+<span class="time"><strong>[00:12:30]</strong> </span>
+<span class="speaker"><strong>发言人1: </strong></span>
+但是他们没有再去坚持。是他们那个时候把那个东西叫什么，就是他们当时提过，就是说你可以申请他的，当然欧欧巴那个路子不太一样，欧拜那个路子相当于他把自己变成了一个中心化的服务注册体系。而不是说我协议开出来，你就可以网上到处可以去找，对吧？但是OpenAI至少在MCP协议出来之后，也没有坚持说我推一套我那种标准化注册的基于HTTAPI的HTTP的API的路径了。那段时间也有很多人去做了这些服务，我觉得有些人还薅到1波流量，因为还是有一波开发者很感兴趣，只要有新的在opi那里注册过来的。
+</p>
+<p class="transcript-line">
+<span class="time"><strong>[00:13:13]</strong> </span>
+<span class="speaker"><strong>发言人2: </strong></span>
+就有IOP要抓到一波流量。
+</p>
+<p class="transcript-line">
+<span class="time"><strong>[00:13:16]</strong> </span>
+<span class="speaker"><strong>发言人1: </strong></span>
+对，就会有尝鲜的人进来。MCP也好，还包括现在google推的a to a也好，它不是什么底层技术，本质上是大家想挣脱话语权，或者说去定义的一些协议标准，对吧？那你说有什么特别高的技术含量，那也没有。
+</p>
+<p class="transcript-line">
+<span class="time"><strong>[00:13:33]</strong> </span>
+<span class="speaker"><strong>发言人2: </strong></span>
+我倒是因为反正我也没有什么技术含量。所以我们看的到是说，如果这个生态会涨起来，比如说你刚刚讲的那个网状结构会涨起来，那现在的话你提前进这个网，你就更容易被连接到早期的网络。所以我们现在也在其实已经在孵化这方面的项目了，就是在离主流圈更远一点，我们在工业界正在做这个东西。对，但是你刚刚讲的就是如果是通过RPA再连一次的话，那我那个故事就放的更大一点。
+</p>
+<p class="transcript-line">
+<span class="time"><strong>[00:14:02]</strong> </span>
+<span class="speaker"><strong>发言人1: </strong></span>
+对，那我觉得传统应用理论上也都可以通过RPA再连一次。因为本身微软其实在windows上，其实过去几年为了IPA也提供了很多协议层面的能力，你可以再包装一下就可以去干这个事儿了。
+</p>
+<p class="transcript-line">
+<span class="time"><strong>[00:14:18]</strong> </span>
+<span class="speaker"><strong>发言人2: </strong></span>
+OK那那故事就更大了，挺好的。那ANA呢？ANA的话就是agent和agent交互了，那他们需要相互聊啥呢？
+</p>
+<p class="transcript-line">
+<span class="time"><strong>[00:14:27]</strong> </span>
+<span class="speaker"><strong>发言人1: </strong></span>
+A to a就可能就他想再往往外再抽象一层。就是说理论上来讲MCP还是说我有一些工具，我然后你可以开发一个client或者一个host去调动调用管理这些工具，那这个host或者client就是一个agent，a推说那agent和agent之间能不能是agent和agent互动，而不是agent跟MCP互动。这个逻辑就是MCP本质上暴露的还是细颗粒度的原子能力。
+</p>
+<p class="transcript-line">
+<span class="time"><strong>[00:14:56]</strong> </span>
+<span class="speaker"><strong>发言人1: </strong></span>
+我举个例子，MCP更像说我是个电商。我通过提供MCP server，然后我这个MCP的这个server，我提供了很多能力对吧？我可以去查询上搜索商品，我可以让你帮我推荐商品，然后我可以下单，我可以退货。那A2A是说这个是个电商的agent对吧？那个是个本地生活帮我去订旅游出行的agent，这里是一个我的管家的H的，你们三个之间可以互相协商商量一下，对吧？这就是a to a，它就是个更抽象的一层逻辑。但是我觉得a to a它比较好的是就是谷歌推这个a to a的。
+</p>
+<p class="transcript-line">
+<span class="time"><strong>[00:15:33]</strong> </span>
+<span class="speaker"><strong>发言人1: </strong></span>
+我觉得比较好是说他把很多实际场景你需要解决的问题其实都定义出来了。因为比较典型的就是说我觉得其实MCP没有解决，或者AG的没有解决的常见的一些场景。第一个比如说权限问题。理论上讲权限问题在一个企业级的应用场景基本上是必须的。你不可能说任何人这个MCP在你公司里其实有很多MCP的server。然后你希望让大家效率高一点，大家可能自己写MCP clan就不能打把活干了。但是你不可能把MCP的server的那个API，比如说你老板可以直接审批一个100万美金的订单，不可能开放给所有人，那他就需要有有健全，对不对？这个是一个。
+</p>
+<p class="transcript-line">
+<span class="time"><strong>[00:16:18]</strong> </span>
+<span class="speaker"><strong>发言人1: </strong></span>
+第2个MCP的agent，它还是有个很强的假设，叫做我的活都是agents主动发起的，什么意思呢？就是说我调了你的MCP server对吧？然后你帮我去干活，但是我是通过标准输入输出拿到了这个结果。然后我再去看下一步那A推，他说有些活他其实不是那个人就一直在那等，而是说我活干完了，你能不能把结果通知我。所以他还把那些什么push的通知，把这些健全，把这些东西，包括说我做了很久，你这个东西还没做完，那你要不别做了。对，就是他可以把这个一个任务的cancel的能力，对吧？你看你去看他的文档，你就说他agent说我可以去发起一个任务，我可以获得一个任务当前的状态，我还能把这个任务取消了，我有健全的解决，我还能说你做完了你可以反向通知我。
+</p>
+<p class="transcript-line">
+<span class="time"><strong>[00:17:14]</strong> </span>
+<span class="speaker"><strong>发言人1: </strong></span>
+第三个是说，这个agent之间互相怎么发现呢？就MCP是不考虑这个事情，所以现在有很多MCP的导航站，我猜未来可能还会有MCP的这种中心注册化的协议，那个就退回到OpenAI当时推他们那个标准化的function code API那个逻辑了。但是a to a是说，我把这个agent discovery这个能力也直接在我这个协议里面定义清楚了。所以我觉得本质上还是说如果干的这个事儿还是比较偏向于说把一个在工业界或者说在一个企业应用场景下需要考虑的所有因素其实都考虑进来了。但是我觉得本质上多少AA推跟MCP也是，虽然说它是不同力度的协议，但我觉得多少还是有竞争关系的。如果A2A特别流行的话，你可能也不太需要MCP。就是别人用了一个更更高度的抽象提供了能力给你，你就不太需要那个细粒度的能力了，特别是对于普通用户或者说是一般的应用开发者。
+</p>
+<p class="transcript-line">
+<span class="time"><strong>[00:18:17]</strong> </span>
+<span class="speaker"><strong>发言人2: </strong></span>
+那行，我问你一下，因为我们团队在做，我其实技术上没有搞得那么明白。就是MCP他们封装这个，比如说它其实里面也是function，那究竟是多抽象？就比如说photoshop它有很多的功能，是它里面每一个可能性它都要比如说描述一下，还是说其实它可以更抽象的描述说比如说叫做把他的头把头发换颜色，这是一种抽象描述。他就自己会去里面调度它的几个方式来达成这个功能。它的颗粒度是细到它1万个功能就是1万个吗？还是怎么样？
+</p>
+<p class="transcript-line">
+<span class="time"><strong>[00:18:52]</strong> </span>
+<span class="speaker"><strong>发言人1: </strong></span>
+我觉得这个是一个选择问题，不是个对错问题。你可以选择说我只封装到，比如说把头发换个颜色，你也可以细化到把每一个任何一个操作都封装成一个MCP里的server的以下能力。
+</p>
+<p class="transcript-line">
+<span class="time"><strong>[00:19:10]</strong> </span>
+<span class="speaker"><strong>发言人2: </strong></span>
+跟协议有没有关系？
+</p>
+<p class="transcript-line">
+<span class="time"><strong>[00:19:12]</strong> </span>
+<span class="speaker"><strong>发言人1: </strong></span>
+跟协议本身没有关系。因为MCP的这个协议没有规定说你因为你这个工具有十个能力，你必须给我封装了十个能力出来。你实际对于你的能力的封装是其实是一个你的MCP对外提供服务的时候，你要做决策，它的力度要放的多细，就取决于那就取决于那个MCP的client。你希望这个client提供一个什么样的能力？但是我觉得比如把10万项能力都封装出来，这个事情目前来看肯定还是不太靠谱的。就你能力太多，本质上还是那个模型没有能力在10万个API里帮你选出一个正确的十个选出一个正确的，或者100个选出一个正确的能力。他可能今天已经有了，但是你真的给他10万个，让他选一个正确的这件事情，我觉得这对他来讲可能也比较难。当然我也没有试过说我们就给10万个能力，你选一个看看能不能选对。
+</p>
+<p class="transcript-line">
+<span class="time"><strong>[00:20:05]</strong> </span>
+<span class="speaker"><strong>发言人2: </strong></span>
+老姐我换一个例子，就是我不用那个真实的例子，我就讲我们我们办公室最近买了一个3D打印机。3D打印机操作它的话，其实用的是b blender做3D的模型，对吧？Blender是有一个MCP的server的。然后的话我们其实可能通过一个agent一个MCP client去操作这个MCP server。这个过程当中其实有两部分的知识，一部分可能是叫做，比如说叫做建审美的知识，或者叫做模型的特殊的这方面的知识。比如说我就是要做3D手办的知识。还有一部分的知识其实是关于这个blender的各种怎么用的知识。
+</p>
+<p class="transcript-line">
+<span class="time"><strong>[00:20:44]</strong> </span>
+<span class="speaker"><strong>发言人2: </strong></span>
+我现在的理解其实是关于它怎么用的知识。其实我是封在那个MCP server里面的。但是关于比如说模型手办怎么做会的会达到效果的知识，其实我是封在client这边的。但是我现在被告知说其实都是放在MCP server说能力的那个no行业know how，其实也是装在下面那一层。但是我实际的例子不是这个，实际的例子是另外一个工业软件。对，就是说工业软件可以把它的工程师的know how全部封到MCP server这一层。这个是这样吗？从你的观点来看。
+</p>
+<p class="transcript-line">
+<span class="time"><strong>[00:21:19]</strong> </span>
+<span class="speaker"><strong>发言人1: </strong></span>
+我觉得你的你你原来的想法才是对的。就是你其实不应该把太多的号放在MCC server里，这样agent就失去它的意义了。就你从长线来看，长线来看agent你可以用MCP server，只是一个让一个东西暴露一个标准的可以操作的动作或者工具给到agent。然后能耗的能力一般都是放在agent的，而不是放在那个工具的。换句话说你今天去操作blender能耗的能力，我知道我知道要做一个模型的时候，我不懂blinder。但是比如你操作photoshop，你说我要换背景，我应该点哪一个菜单，这件事情其实是知道的是你而不是photoshop。对，hot shop他当然知道，但他没有办法来跟你描述这个事情，而是那个熟练工，那个agent对吧？那个时候当你有一个员工，他是专门去帮你P图的，他其实就是你的那个agent。
+</p>
+<p class="transcript-line">
+<span class="time"><strong>[00:22:19]</strong> </span>
+<span class="speaker"><strong>发言人1: </strong></span>
+你肯定希望那些能力其实都应该是agent的能力，也就是都应该是在MCP client端的能力，而不是应该在server端的能力。放在server端往往是说明两种可能性。一种是说这个工具比较特殊，然后我的模型发现你发现我用的这些头部的模型理解不了这些能力，或者是说没有办法规划好这个能力。但这个其实就把你的agent退化成一个标准化的workflow了。就在MC surfer那段，你相当于把一些固定的能力的流程都定义死了。
+</p>
+<p class="transcript-line">
+<span class="time"><strong>[00:22:53]</strong> </span>
+<span class="speaker"><strong>发言人1: </strong></span>
+所以我觉得是说除非是迫不得已，一般尽量不把能力固化到server端，或者说你本身你的agent要做的是一个更抽象的做决策。那你可能把一些细节的东西，我觉得这个就跟人去做事情是一样的。它是分层的。你不可能让一个CEO高层管理者、中层管理者、一线员工，可能每个人要做决策不一样。你如果希望你那个agent同时所有能力都非常强，其实也是有难度的。但是这种方式你可以用MCP跳F套MCP或者a to a的方式来做。
+</p>
+<p class="transcript-line">
+<span class="time"><strong>[00:23:26]</strong> </span>
+<span class="speaker"><strong>发言人2: </strong></span>
+对我觉得那可能都是对的。因为你刚刚讲了一句说，除非那个比较特殊，如果是比较特殊的垂直领域的东西，就有可能要在里面要分多一点。因为确实在有点搞不懂你到底要干嘛。
+</p>
+<p class="transcript-line">
+<span class="time"><strong>[00:23:39]</strong> </span>
+<span class="speaker"><strong>发言人1: </strong></span>
+对很多的人另外一个思路不是多一点，而是通过post training去训一个自己的能管理这些工具的agent。
+</p>
+<p class="transcript-line">
+<span class="time"><strong>[00:23:48]</strong> </span>
+<span class="speaker"><strong>发言人2: </strong></span>
+对，也可以放在那边。反正对。
+</p>
+<p class="transcript-line">
+<span class="time"><strong>[00:23:50]</strong> </span>
+<span class="speaker"><strong>发言人1: </strong></span>
+就是一般大家期望是这样的。因为你把它都封在MCP server里，那本质上和你之前做标准化的流程自动化，做过flow，做SARS从这是其实是一回事儿，对吧？他其实没有用到什么AI能力。
+</p>
+<p class="transcript-line">
+<span class="time"><strong>[00:24:05]</strong> </span>
+<span class="speaker"><strong>发言人2: </strong></span>
+那如果我要post确定成本高，比如说a post training一个更会用blender的。
+</p>
+<p class="transcript-line">
+<span class="time"><strong>[00:24:10]</strong> </span>
+<span class="speaker"><strong>发言人1: </strong></span>
+我觉得这些所有的成本都不在现在来看。对的，主要成本还是怎么定义描述问题以及怎么构造数据的问题。本身在显卡算力这些的成本，其实现在都已经不算高了。
+</p>
+<p class="transcript-line">
+<span class="time"><strong>[00:24:24]</strong> </span>
+<span class="speaker"><strong>发言人2: </strong></span>
+你说的不算高，是比如说小于几百万美元还是小于几万美元的不算高。
+</p>
+<p class="transcript-line">
+<span class="time"><strong>[00:24:29]</strong> </span>
+<span class="speaker"><strong>发言人1: </strong></span>
+小于几万美元的不算高，或者小于二三十万美元这个量级的不算高。
+</p>
+<p class="transcript-line">
+<span class="time"><strong>[00:24:36]</strong> </span>
+<span class="speaker"><strong>发言人2: </strong></span>
+好的，那要做的时候可以问一下您，你几百万美金我也不说。
+</p>
+<p class="transcript-line">
+<span class="time"><strong>[00:24:39]</strong> </span>
+<span class="speaker"><strong>发言人1: </strong></span>
+我也就不看了。我觉得主要的挑战，现在大部分agent大部分这个东西主要的挑战其实还是在数据构造跟怎么评估它的能力上，而不是在模型训练上。所以模型训练其实用一些30B左右的比较头部的开源模型做一些post training的效果，我其实都还可以。当然跟最头部的模型比，可能还有差距，当然最头部的模型很多也不让你微调，比如crowd，你也没有办法当到你的这个工业软件的这个领域，你也不能去微调它它在那个领域的能力是不是非常好。不太确定。
+</p>
+<p class="transcript-line">
+<span class="time"><strong>[00:25:16]</strong> </span>
+<span class="speaker"><strong>发言人2: </strong></span>
+如果我有那个，我们先不讲构不构造数据。假如我有真实数据，比如说有100万条都是人类的，比如说他就是操作blender的，比如说需求说明书以及人类的有一个改说你其实哪几个点做的不好。然后人类的真实批改，比如说10万条，以及真正做出来的那个图，发现哪里对哪里不对，就全都是真实的。这种数据是有价值的对吧？
+</p>
+<p class="transcript-line">
+<span class="time"><strong>[00:25:42]</strong> </span>
+<span class="speaker"><strong>发言人1: </strong></span>
+有价值。那那可能要更如果去细聊可能要更细一点。就是说你大概率你是做一个强化学习的，你一般是说用强化学习去把那个步骤，能够把这个能力写出来。那就得取决于说你这个数据量是10万条，一般就看你的任务复杂程度，但10万条我认为一般已经非常足够了。
+</p>
+<p class="transcript-line">
+<span class="time"><strong>[00:26:04]</strong> </span>
+<span class="speaker"><strong>发言人2: </strong></span>
+这个还挺有意思的，因为我现在就在假想一个，就是我我是我是讲故事的人，对吧？然后我现在想讲一个故事，就是比如说像blender这种东西，它它其实世界上有非常多类似于这种的软件，然后有非常多细分的产业的软件。然后细分产业的软件其实都就就线上的，你看那些MCP都不会做到这些东西上来。但是blender会有人做，更细分的都不会有人做。但是其实都有很多的工程师在用。那其实有一层机会就是给这种软件的话包MCP，然后另外再在上面做一层agent，然后agent他就会用了。其实很多的工作其实就是某个人他会用某个软件，他的工作就是操作这个软件。那这样子的话，我们来其实可以直接交付result，它可以来吃这个市场。所以有这么一个故事的存在，你觉得这个故事在技术上是通的对吧？
+</p>
+<p class="transcript-line">
+<span class="time"><strong>[00:26:56]</strong> </span>
+<span class="speaker"><strong>发言人1: </strong></span>
+我自己的观察主要的挑战在于，很多时候大家觉得这个人只是在操作这个软件，但是你发现实际并不是。大家觉得我能把程序员的工作给选下来，对吧？对，肯定还是对的，他的确极大的提高了应用开发程序员的代价。但是他好像你会发现open I人也不少，open现在也一两千号人，对吧？那那为什么呢？就是你会发现这些人的主要工作，他其实不是在操作那个软件，他操操在操作那个软件上花的时间其实是非常少的。他大量的时间你会发现，比如以程序员为例，他其实在跟人沟通，比如说在跟产品经理沟通，然后他可能是在跟另外一个程序员沟通，而不是说他就是坐在那里对着那个屏幕去操作他的那个ID就好了。我相信这那些大家认为都只是在操作软件的这个事儿可能也没有只是在操作那个软件，这个是我觉得可能会比较容易面临的一个问题。
+</p>
+<p class="transcript-line">
+<span class="time"><strong>[00:27:58]</strong> </span>
+<span class="speaker"><strong>发言人2: </strong></span>
+有可能对，但是我们在找的其实是那种有BPO存在的，就是寄件的一流程外包的这种。如果有这个的话，其实很多时候就是非常的他既然市场上都存在BPO的话，应该而且是计件的BPO的话，那应该还是蛮蛮标准的。
+</p>
+<p class="transcript-line">
+<span class="time"><strong>[00:28:16]</strong> </span>
+<span class="speaker"><strong>发言人1: </strong></span>
+或者我这样说，我一半乐观一半不乐观。不乐观的是什么呢？是说在传统的BPO的流程里，很多事儿成本其实已经被压得很低了，而且已经做了很多AI辅助的优化。
+</p>
+<p class="transcript-line">
+<span class="time"><strong>[00:28:30]</strong> </span>
+<span class="speaker"><strong>发言人1: </strong></span>
+举个例子，现在这些大模型能力那么强。那我先讲，比如说我们找人去标注数据对吧？理论上讲我是不是只要调？理论上讲不论是说我在一个图片里去识别一个什么东西。说框一个，这个是裤子，那个是衣服。理论上讲今天大模型是不是都已经能做了。但是那为什么？
+</p>
+<p class="transcript-line">
+<span class="time"><strong>[00:28:50]</strong> </span>
+<span class="speaker"><strong>发言人1: </strong></span>
+但是我你如果你去看那些做大模型的公司，他可能还是花了不少精力找一些外国公司在标这些数据。第一个是人干这个数据的成本真的很低，可能并不比模型高多少。第二个是AI的准确率已经很高了，但是没有人那么高，或者说你还是有很多case，希望人去帮助你去修复。同时其实人在标这个当中，现在已经引入了大量的AI辅助。他可能比方说他已经把那个框架在那个图里，比如说拍一张照，标出你这里是眼镜，这里是积蓄，对不对？那现在的做法是AI其实框都已经帮你框好了，连那个文字对应的那个东西，人只是去做审价的过程。但是审价这个过程你其实已经没有办法再靠AI去解决了。因为需要审价，就是因为AI可能现在准确率还没到100%。
+</p>
+<p class="transcript-line">
+<span class="time"><strong>[00:29:42]</strong> </span>
+<span class="speaker"><strong>发言人1: </strong></span>
+所以这个是我说既乐观也不乐观，说我相信AI这个能力已经很强。不乐观是很多BPO我理解成本已经降的比较低了。在很多场景下，你最终还是会留下一部分人去干那些需要大量沟通的事儿。就是你今天可能能够把传统的客服能够砍掉80%，是因为那些自动的立刻回一个立刻你发消息立刻响应你，或者去问一些你，你的东西没收到货，你能不能把这个图片贴上来，你能不能把那个什么你就橘子烂了，你能不能拍张照给我？这些事情然后在一些常见的标准流程下，我就能答应你退你五块钱行不行，这些都能做了。但还是会有一些看似简单，感觉是说你觉得他的主要工作就是写代码也好，只是操作软件也好，但是你发现那个反而是他就是操作具体。当这个东西确定就是要干这个事儿，所以我去做一走一遍这个流程，可能占这个人的工作中的很小的一部分，比较大的挑战。其实很多白领的工作还是在做，说我确定到底要不要这么干。
+</p>
+<p class="transcript-line">
+<span class="time"><strong>[00:30:58]</strong> </span>
+<span class="speaker"><strong>发言人2: </strong></span>
+还是想到了一些领域的话，比较符合你刚刚说的那个条件。其实很多领域还没有到那个辅助，其实不一定要直接去取代，很多时候也就是提效50%，其实大家就很开心了。
+</p>
+<p class="transcript-line">
+<span class="time"><strong>[00:31:09]</strong> </span>
+<span class="speaker"><strong>发言人1: </strong></span>
+对对对，而且我觉得辅助挺有价值的，这个也是我觉得MP协议的一个好处，对吧？你作为一个MCP的client，这个操作可以是由机器发起的，也可以是由人看到了一些反馈之后发起的。举个例子，现在的这些ID什么curse什么的，都是个MCP的client。但是你人去应用这个软件，apply去去confirm返回的结果被应用上去，然后再去发起。或者你提起一个问题，其实是你也是那个MCP class的一部分。只要你去触发这个class去做动作的，而不是完全agent，就是完全agent自动把所有的动作都做了。
+</p>
+<p class="transcript-line">
+<span class="time"><strong>[00:31:52]</strong> </span>
+<span class="speaker"><strong>发言人2: </strong></span>
+工业软件那边会有更多的机会，因为它相对白领的这边没有那么复杂，它更偏向于人类。就是那个翻译器就不是像比如说你们公司的程序员可能今天在做这个，明天再做那个。工业界很多的工程师真的就是每天重复一件事情，重复500遍。所以如果有做工业软件的朋友听到博客也可以找跟我联系一下。最近对这方面比较好，比较好奇，主要是做to c我们做了好几个东西都砸掉了，离徐文浩这种人远一点，就是我们离to c现在往回退一点。
+</p>
+<p class="transcript-line">
+<span class="time"><strong>[00:32:25]</strong> </span>
+<span class="speaker"><strong>发言人1: </strong></span>
+这个是最近有看到一个别人的说说为什么agent这个领域在那个写在在coding这个领域，其实是agent发展最快的。就是coding的技术专家，其实也是agent coding的产品专家？他不用领域知识，这个东西需要去学？但你换任何一个其他的领域，其实你既需要说我很理解agent或者AI能干什么，我还很懂这个领域。
+</p>
+<p class="transcript-line">
+<span class="time"><strong>[00:32:51]</strong> </span>
+<span class="speaker"><strong>发言人1: </strong></span>
+这个组合其实是难的，就像你说的，工业界的这个能不能把两拨人互相能不能正常沟通，把这个事情跑起来，确实难的对吧？我觉得做C端产品也是的，就是有些领域相对容易一些，有些领域就会更难一些。这个领域的专家离program越远，这个事情就越难做。但好处也是说它的竞争不是一个纯粹的，我聪明我手快对吧？我年轻。
+</p>
+<p class="transcript-line">
+<span class="time"><strong>[00:33:16]</strong> </span>
+<span class="speaker"><strong>发言人2: </strong></span>
+我是反过来想，就是MCP这么其实至少在业内最近火了一下，它其实反过来像你讲的就证明了说其实是因为agent的能力慢慢开始成熟。那其实这里面到底红利在哪里？就比如说manus，我就觉得吃到了一波红利，其实就是agent半成熟不成熟的时候，他是第一个号称我们已经做出来了，对吧？就至少demo是好的。那其实他就占到了这个红利。那下一个可以占到这个红利的那个踩点是踩在哪里？当然有一些小的，比如做个导航站，但这一波已经过去了。那下一个可以踩到这个点的红利这口的话到底在哪里呢？
+</p>
+<p class="transcript-line">
+<span class="time"><strong>[00:33:57]</strong> </span>
+<span class="speaker"><strong>发言人1: </strong></span>
+非常不擅长判断红利在哪里。因为我我的观察是就红利这个事儿真的是叫踩着了强行发现还是有难度的那反过来讲。
+</p>
+<p class="transcript-line">
+<span class="time"><strong>[00:34:07]</strong> </span>
+<span class="speaker"><strong>发言人2: </strong></span>
+就是我们不去判断红利，而是认为说比如说到明年的时候，比如说明年底的时候，就是世界上所有的软件都有MCP server，然后也会有无数的cint在调无数的server。假设明年底会发生这件事情，这个过程当中的价值捕获到底在哪一层？就是你是在做个导航站会捕获到这个价值，因为这肯定创造了很多价值。对，那其实可以做的事情忙忙多，因为你已经知道，假设知道明年底未来就是这个样子了。那从现在你可以做server，可以做个导航，这样可以都可以干。但是总归会觉得好像里面哪一层都拿不到价值，就是你会觉得价值捕获在哪里。
+</p>
+<p class="transcript-line">
+<span class="time"><strong>[00:34:43]</strong> </span>
+<span class="speaker"><strong>发言人1: </strong></span>
+你说从需求的角度，我觉得有好多层，就是说大家不是每层都有钱的。我先解释一下第一层，我一直说第一层的钱还是在培训和普及。我们客观点来讲。第二层我觉得是一个就跟deep seek出来之后，大家都要上AI一样。第二层也是在传统的外包实施，这些都是只要普及了，你就是去这两层都不是发大财的逻辑，我觉得本质还是捡钢镚的逻辑。
+</p>
+<p class="transcript-line">
+<span class="time"><strong>[00:35:11]</strong> </span>
+<span class="speaker"><strong>发言人1: </strong></span>
+这个火了就会有私有化部署的需求。MCP火了到最后一定也会说，我觉得所有公司都后来都会做。然后就是大家都会说我能不能把我内部的系统的所有的服务都变成MCP能够暴露出来。然后我内部所有的我内部的企业未来的流程，能不能我有一个工具说我想干个什么事儿，他自动告诉我说我能通过这些MCP就把这个事儿干了。那所有的理论上讲，你企业内部的应用都有一层，把它再包装一遍，变成MCP global的需求。
+</p>
+<p class="transcript-line">
+<span class="time"><strong>[00:35:44]</strong> </span>
+<span class="speaker"><strong>发言人1: </strong></span>
+这个是为什么我说这个剪钢板的逻辑，这个就跟当年移动互联网出来说，我们企业原来有PC端的这种portal门户OA对不对？我要做个i iphone和安卓的APP，我企业内部的AOOA在移动端也会用这个。第一个它的确有用。今天你很少会见到你那些最传统的邮箱、飞书、OA、流程，其实都移动化了。
+</p>
+<p class="transcript-line">
+<span class="time"><strong>[00:36:09]</strong> </span>
+<span class="speaker"><strong>发言人1: </strong></span>
+我觉得MCP如果说AG的能力上升，那理论上讲原来的服务，原来的原子能力，你都应该用MMCP包装一层提供出来，然后围绕这个东西提供出来。我就说了MCP有很多事情没有做好。你如果是做企业服务，你就需要把这些权限、数据隐私、使用统计、什么服务监控可观测性什么这一套东西你这都都需要。
+</p>
+<p class="transcript-line">
+<span class="time"><strong>[00:36:38]</strong> </span>
+<span class="speaker"><strong>发言人1: </strong></span>
+第二个就是说我觉得大家需要的就是MCP本质上还是给机器用的。所以你需要的其实不是一个导航站，而是一个搜索站。就是你需要的是一个可以给MCP client直接去搜索，说有哪些MCP server，GMC server好不好，对吧？就是能不能不要让人去发现这个东西，而让机器去发现这个东西，怎么让你自己变成一个？然后这些MCP server能不能统计出来他们调用的成功率，他们的结果的采纳率，它变成了一个是服务注册乃至有价值的地方。就是你能不能做一个MCP的真正做一个MCP且给机器用的大众点评。
+</p>
+<p class="transcript-line">
+<span class="time"><strong>[00:37:20]</strong> </span>
+<span class="speaker"><strong>发言人2: </strong></span>
+我在想一个更垂直的小机会，你觉得有这层机会吗？比如说我随便讲，比如说你是一个运输车队公司，然后你可能用了十个工具，然后我是你中间用的比较大的那个工具。然后的话我把自己先做一层map server，然后做一个client给你用。你就说说话就可以把我的各种东西，你就反正我的能力肯定就让你用的很爽。但是因为你习惯了跟我的client说话，我就慢慢的总归还会你十个工具里面会有第2个MCP设备出来，实在不行我帮他做，以及甚至于有你没有用的，但是其实也满足那个功能的，就是竞品他会做好MCP。
+</p>
+<p class="transcript-line">
+<span class="time"><strong>[00:37:58]</strong> </span>
+<span class="speaker"><strong>发言人2: </strong></span>
+其实我只要站了，你比如说你工作的这个对话框，然后的话我就慢慢的可以把别人吃进来。因为最后其实看谁占，这个占其实就是入口逻辑。现在因为你要打你要打开不同的UI去g graphic interface，所以你可以有十个入口，未来client很有可能是一个入口。那我先湛，我有可能把别人吃进去。
+</p>
+<p class="transcript-line">
+<span class="time"><strong>[00:38:22]</strong> </span>
+<span class="speaker"><strong>发言人1: </strong></span>
+对我觉得这个机会不是一个新的公司的这个机会，其实是巨头的这个机会是微信、钉钉、飞书拆GPT、google what&#x27;s up, 对吧？这个机会我觉得不属于一个新公司。
+</p>
+<p class="transcript-line">
+<span class="time"><strong>[00:38:36]</strong> </span>
+<span class="speaker"><strong>发言人2: </strong></span>
+不一定。你如果的就就你如果堵在比如说白领的办公室里面，可能是这样。我们现在躲得很远，就生活和白领办公室我觉得都吃不进去。但是直接第一步就躲远一点，躲到产线上去。
+</p>
+<p class="transcript-line">
+<span class="time"><strong>[00:38:49]</strong> </span>
+<span class="speaker"><strong>发言人1: </strong></span>
+走到产线上。我举个例子，他我为什么不能用钉钉的，或者不为什么不能用微信就把这事儿干了呢？对。
+</p>
+<p class="transcript-line">
+<span class="time"><strong>[00:38:56]</strong> </span>
+<span class="speaker"><strong>发言人2: </strong></span>
+就是他在上面再吃一口，就是你可以吃小鱼，然后这背后还有一个更大的鱼。
+</p>
+<p class="transcript-line">
+<span class="time"><strong>[00:39:01]</strong> </span>
+<span class="speaker"><strong>发言人1: </strong></span>
+对对对对我我觉得是说你当然了，你说细分到一个任何一个垂直领域或者什么，这当然都有。这个当然我觉得这个机会当然存在，我不是说这个机会不存在，我说机会肯定是在的。因为一旦你应用到这个领域，你你你收窄到一个垂直领域，你就会发现通用工具的效率往往不是最高的。它提供的交互界面，它提供的确认问题的方式，它提供所有东西未必是最有效的。但我觉得这也是个周期，可能一开始你会做一个APP，慢慢的你会发现会变成一个微信小程序，可能是个你的客户更愿意接受的方式。对，但是我觉得某种程度上讲，这个就是为什么不能听我们。
+</p>
+<p class="transcript-line">
+<span class="time"><strong>[00:39:43]</strong> </span>
+<span class="speaker"><strong>发言人2: </strong></span>
+这种人就想太多。
+</p>
+<p class="transcript-line">
+<span class="time"><strong>[00:39:45]</strong> </span>
+<span class="speaker"><strong>发言人1: </strong></span>
+对他是个周期，我们老想到我们老容易想到说，五年以后这个事情就没了。但实际上事儿不能这么做，事儿就是可能今年火了就火了，对不对？火了你先把这个钱给挣了，或者你先把这个估值融资先给搞了，你也不知道三年五年以后到底是什么。你老想着说，这个微信一进来，这个事情不就没了吗？那就是啥事儿都做不了，对不对？
+</p>
+<p class="transcript-line">
+<span class="time"><strong>[00:40:08]</strong> </span>
+<span class="speaker"><strong>发言人2: </strong></span>
+我忘记是谁说的了，说现在你找到的机会就是一个正在融化的冰棍儿。它一边融化你一边赶紧吃，然后吃点力气赶紧去找下一根冰棍儿，反正都是冰棍儿。你千万不要想你可以吃到一个什么百年的什么东西，你吃的就是冰棍儿。
+</p>
+<p class="transcript-line">
+<span class="time"><strong>[00:40:24]</strong> </span>
+<span class="speaker"><strong>发言人1: </strong></span>
+对，而我觉得还挺难的。
+</p>
+<p class="transcript-line">
+<span class="time"><strong>[00:40:26]</strong> </span>
+<span class="speaker"><strong>发言人2: </strong></span>
+了解了，那你最近除了MCP之外，有看什么别的好玩的东西吗？
+</p>
+<p class="transcript-line">
+<span class="time"><strong>[00:40:30]</strong> </span>
+<span class="speaker"><strong>发言人1: </strong></span>
+这大家应该都在看吧，大家都在看两个，一个是OpenAI新出的生图的那个。
+</p>
+<p class="transcript-line">
+<span class="time"><strong>[00:40:36]</strong> </span>
+<span class="speaker"><strong>发言人2: </strong></span>
+那个肯定我已经玩的不亦乐乎了，我宝宝刚刚还拿我手机在那边疯狂的玩。
+</p>
+<p class="transcript-line">
+<span class="time"><strong>[00:40:43]</strong> </span>
+<span class="speaker"><strong>发言人1: </strong></span>
+第二个是大家今年应该都在关注这个视频生成。
+</p>
+<p class="transcript-line">
+<span class="time"><strong>[00:40:48]</strong> </span>
+<span class="speaker"><strong>发言人2: </strong></span>
+对，我用现在用下来效果最好的是google那个。Google那个太强了，will two它是免费的。我在我快手可伶，我还给了钱。Google那个就我宝宝画的那个，我宝宝做的那个机器人，然后我就让他们生成视频的话，google对于那个关节的理解，因为那是虚构的机器人，全是对的。然后可零的话就是画面会更漂亮，但是其实他对关节的理解是错的。
+</p>
+<p class="transcript-line">
+<span class="time"><strong>[00:41:14]</strong> </span>
+<span class="speaker"><strong>发言人1: </strong></span>
+我觉得google还是挺厉害的，一个是人家财大气粗，投入也大，积累也重，你不管是G2.5 pro对吧，包括vio，包括现在他们又推了新一代的TPU，感觉还是说没有被落下。第二个大家可能关注的是拉马是比较拉跨。
+</p>
+<p class="transcript-line">
+<span class="time"><strong>[00:41:33]</strong> </span>
+<span class="speaker"><strong>发言人2: </strong></span>
+对，为什么会就感觉就完全没有人搭理他了。
+</p>
+<p class="transcript-line">
+<span class="time"><strong>[00:41:38]</strong> </span>
+<span class="speaker"><strong>发言人1: </strong></span>
+效果比较拉垮。大家觉得原因不知道，原因就大家听听八卦。现在的主要的挑战在于说，就是local food已经被剪的差不多了。感觉就是不管从模型的角度还是从应用的角度，反正最简单最主流的这个市场还是被瓜分的挺快的。然后企业侧我觉得海外渗透的比较快，国内渗透的还比较浅，对吧？但是国内的to b业务自古以来都不是很好做。
+</p>
+<p class="transcript-line">
+<span class="time"><strong>[00:42:09]</strong> </span>
+<span class="speaker"><strong>发言人2: </strong></span>
+我分享两个我看到的比较有意思的方向。一个方向就是跟MCP一脉相承的这一类的东西。我看了一些现在有越来越多的产品其实不是为人类做的。就是之前我们是默认我们在为帮人类做东西，现在越来越多了，你会看到茫茫多多的东西其实都在为agent做。未来如果人类越来越懒，我们认为agent来做最多的事情的话，你会发现现在的基建都不对，都得为他们比如说MCP server一下，或者说帮他做个浏览器，帮他做个搜索，帮他做个ID这一系列的东西，能起码100个，都是full agent的。把人类的那套基础设施，因为他现在还是打开一个人类的什么网站什么的。因为人类搜索引擎就很奇怪，那打开浏览器还在那边翻页，神经病。对，所以像Brown rose什么的，看到一个大的好像有一个很明显的趋势，就是for agent的东西变多了。
+</p>
+<p class="transcript-line">
+<span class="time"><strong>[00:43:08]</strong> </span>
+<span class="speaker"><strong>发言人1: </strong></span>
+就是把网页变成了LM点TST是吧？
+</p>
+<p class="transcript-line">
+<span class="time"><strong>[00:43:11]</strong> </span>
+<span class="speaker"><strong>发言人2: </strong></span>
+对，比如说brass use，对吧？就这种功公司，或者说像那个搜索引擎，那个叫什么EXA什么的，这种其实都是for agent的用。所以就是你的用户不一定是人。其实MCP你做MCP server其实也是这个心态，就是你不是在优化这个产品，让他什么加了AI而是说它更容易被大语言模型用。所以它其实这个思路，它其实是你的目标对象变了。我看到的一个趋势是越来越多的产品是这个思路，看到一个思路非常让我就是我看到了一些非常野心非常大的小产品。
+</p>
+<p class="transcript-line">
+<span class="time"><strong>[00:43:47]</strong> </span>
+<span class="speaker"><strong>发言人2: </strong></span>
+就是之前的话，比如说我跟你讲，比如说讲医疗好了。那你以前会想我们讲一个创业公司，你肯定医疗你就要找一个细分领域去做，对吧？你肯定要找什么小切口。但是你就会发现有创业公司，他在做全部all in one，就是他会做all in one。
+</p>
+<p class="transcript-line">
+<span class="time"><strong>[00:44:05]</strong> </span>
+<span class="speaker"><strong>发言人2: </strong></span>
+然后第一个就是他们是小公司，第一个就是他们会说我们的代码都是AI写的。所以历史上比如说一个医院要52个系统的话，我们全用AI你就会觉得一口鲜血喷出来。然后第二点就是你会发现好像那个产能在蓬勃。然后第二点就是他们会把因为是52套系统，原来的52套系统可能他们我也不觉得他一定做好了。但是第一个就是他会觉得这个时代变了，这52套系统我全部用AI native的方式重做了。比如说你以前需要干嘛，现在都是AI生图，所以你以前那些都不需要了。
+</p>
+<p class="transcript-line">
+<span class="time"><strong>[00:44:37]</strong> </span>
+<span class="speaker"><strong>发言人2: </strong></span>
+虽然我比你少99个功能，但是你只需要一个了。好，他全部重做。第二个就是很多的产业其实是有，比如说你以前做那个广告，智能广告投放，对吧？那广告投放其实是有一个闭环的对吧？那如果是人类参与到其中，原来的那个模式的话，其实那个闭环是很慢的。比如说你这一次什么品牌营销，最后发现小红书上大家都说这个丑颜色好丑，你再改，然后再重新投放几个月过去了。但是如果全是像你们之前的那种投放的话，很有可能你就直接搬的，就自动开始改了，对吧？就自动投放的就变了。那现在的话如果是它更细颗粒度的，假如它那52个系统全是AI的那其实就是瞬间把它全部铺出去，瞬间数据全部收回来，瞬间这边从源头开始策略改，然后全套打通。他们现在这一类的公司就是小公司，但是做all in one。
+</p>
+<p class="transcript-line">
+<span class="time"><strong>[00:45:29]</strong> </span>
+<span class="speaker"><strong>发言人2: </strong></span>
+然后他们的整个的故事线就变成了说第一个就是因为现在的代码能力蓬勃，所以我们可以做得出来。第二点就是我把它全部按AN native的方式做的话，其实其中95%的功能可以删掉了。因为你之前是因为人类做才需要那么多功能。第三点的话就是因为我全套都是我的，所以我的那个闭环出来了，可能每一个我都不如你。但是你以前那个闭环很慢，我的闭环就飞快，它就相当于AI来做优化了。哪怕我是不是你比你白痴的，但是我的优化比好像更快了。所以我整整个的是更先进的是下一代，我就可以靠比如说个创业团队做all in one的solution的话，居然可以干大事。如果是放在五年前，你肯定会教育他的。然后你现在就会觉得被他教育了，觉得好像也有点道理。
+</p>
+<p class="transcript-line">
+<span class="time"><strong>[00:46:17]</strong> </span>
+<span class="speaker"><strong>发言人1: </strong></span>
+这个趋势其实跟跟AI coding的这个趋势是绑定的。大家的假设是我用一个agent，我能够很快的生成一个solution，对吧？就是我不太需要写代码，我可能用一个cursor或者之类的。然后我定义好一些MCP的server，然后我自动生成代码，自动生成3，甚至在sandbox的去运行或者调试。拿到一个结果。然后用一个比较小的团队，就号称说我十个人团队能干别的公司1000个人的活。
+</p>
+<p class="transcript-line">
+<span class="time"><strong>[00:46:47]</strong> </span>
+<span class="speaker"><strong>发言人1: </strong></span>
+因为我们现在这个业务也做了一段时间，你越往后做，你越来越发现这个写代码画的是就是难度越来越不在写代码上，对吧？所以它的越多的难度不是说我有一个功能今天要做，就是越来越多的挑战会变成说还是在我怎么acquire user，acquire attention, 就怎么获取外部的真实的用户。而不是说这个功能本身我能不能做出来的。
+</p>
+<p class="transcript-line">
+<span class="time"><strong>[00:47:11]</strong> </span>
+<span class="speaker"><strong>发言人2: </strong></span>
+所以他们的逻辑的话就是这些公司往往现在已经有量了。就是他们说你因为我们直接做出了效果，所以我们现在获客非常容易。但是其实你也不知道它的量是真的假的，因为那些体量都是可以造的。对，但是数据都很好，所以你就会觉得说受到了震撼。
+</p>
+<p class="transcript-line">
+<span class="time"><strong>[00:47:29]</strong> </span>
+<span class="speaker"><strong>发言人1: </strong></span>
+这个也很正常。有很多这种hive，我们叫hive就是有很多这种泡沫一样的东西在里面。就现在不是有一个梗吗？说ARR？就像神圣罗马帝国一样，他既不神圣也不是罗马，更不是帝国，他既不是annual，也不recurrent，更不是revenue，更不是对不对？
+</p>
+<p class="transcript-line">
+<span class="time"><strong>[00:47:51]</strong> </span>
+<span class="speaker"><strong>发言人2: </strong></span>
+要不容易Carry.
+</p>
+<p class="transcript-line">
+<span class="time"><strong>[00:47:52]</strong> </span>
+<span class="speaker"><strong>发言人1: </strong></span>
+所以这个我不知道。第二个我觉得是比较重要的一个事儿，我觉得这个是大家形成了共识，就是大家越来越关注怎么去评估一个原来不确定的问题。这个是就前两天不是OpenAI那个尧舜禹还专门写了一篇blog吗？这个事儿其实我记得三四个月前之前这个google一个debug也写过，就是今天的难度就跟我前面跟你说去训一个post training。它的难度其实不在于说我有没有那些代码能够去change的东西。就是代码现在是非常廉价的对吧？因为有开源社区。
+</p>
+<p class="transcript-line">
+<span class="time"><strong>[00:48:28]</strong> </span>
+<span class="speaker"><strong>发言人2: </strong></span>
+有AI定义问题和定义evaluation。
+</p>
+<p class="transcript-line">
+<span class="time"><strong>[00:48:31]</strong> </span>
+<span class="speaker"><strong>发言人1: </strong></span>
+对对对，就是我举个例子，我也是不能举一个，我知道我只能举一个。比方说你今天说我想定义出能不能让AI生成好的流行音乐。那它的难度不在于AI能不能生成音乐，而是我怎么评估这是个好的流行音乐。所以它会变成这样一个问题。
+</p>
+<p class="transcript-line">
+<span class="time"><strong>[00:48:51]</strong> </span>
+<span class="speaker"><strong>发言人1: </strong></span>
+其实我当然我们不是我不是音乐人我也不懂对吧？但是说实话好像也从来没有在哪里，它不像一个数学题或者怎么样有个标准答案，就是什么是好的流行音乐，就跟AI现在画这个图就怎么是好的，对吧？就像你刚才说BO你觉得他重要的是他的关节理解都是对的对吧？但有些人会可能会觉得说这个图不够漂亮，但也有些人可能会觉得说他的光影不对。那那还有的人可能觉得他为什么左边眼睛跟右边眼睛大小不一样？
+</p>
+<p class="transcript-line">
+<span class="time"><strong>[00:49:23]</strong> </span>
+<span class="speaker"><strong>发言人1: </strong></span>
+当你发现这个事情是我能够以为我定义了一个评估选择，然后模型的输出结果最终跟我的商业结果又是强关联的那这个事情会变得比较重要，对吧？我觉得coding的好处是说，它的确相对比较容易评估，这也是他能够跑的比较快的原因。但是我们想你当我们想要说用AI改造每一个行业的时候，你会发现有很多领域它不太好评估。
+</p>
+<p class="transcript-line">
+<span class="time"><strong>[00:49:50]</strong> </span>
+<span class="speaker"><strong>发言人2: </strong></span>
+其实coding也没有你想的那么好评估，就是我们曾经去研究过那个outlier上面发的各类的coding任务，然后去。去仔细的全部研究过一遍，然后跑过非常可怕。他他也不是说有U的case就行了，他会把人逼疯。然后是给了你一套类似于你刚刚说的光影什么的，给了你六个维度，然后还要你自己去提需求。提完之后他写写出来了之后，让你按照六个维度去评估它。然后甚至于会让你要眼睛看代码，不准跑一遍，找出它的bug之类的很荒谬的各种要求。我觉得啥我们。
+</p>
+<p class="transcript-line">
+<span class="time"><strong>[00:50:28]</strong> </span>
+<span class="speaker"><strong>发言人1: </strong></span>
+其实也做过一些数据评估。我举一个例子，但是也不是我们做的，我们做的我不能举个例，就类似于说我想生成流行音乐，对吧？那这两首流行音乐哪首更好听呢？对不对？你想找人来标一标这么个问题，然后你这样，你既然AM帮你标两首流行音乐，哪首更好听呢？
+</p>
+<p class="transcript-line">
+<span class="time"><strong>[00:50:49]</strong> </span>
+<span class="speaker"><strong>发言人1: </strong></span>
+有让人表你会发现不同的人跟AI比如说你找了100对，发现基本上跟随机选没区别。就是人跟人之间就两个人之间说一致性等于48.7%，什么意思呢？就是说有一半我们意见是一样的，还有一半我们意见不一样。那三个人，两两之间是基本上在40%到60%之间，然后AI跟人之间，基本上也就在40%到60%之间。这个就是我觉得现在有很多问题，我们希望AI来解决，但是其实不太好解决的地方。你换句话说就是简单的问题AI已经解决的差不多了，难的问题感觉人好像也解决的不是很好。
+</p>
+<p class="transcript-line">
+<span class="time"><strong>[00:51:27]</strong> </span>
+<span class="speaker"><strong>发言人2: </strong></span>
+对人的意见现在已经不知道该怎么听了。对我我们早几天内部有一个demo是类似于一个播客的。然后我就觉得里面那个人讲话太呆板，然后芒果就跟我讲说你的意见没有信息量。一个这个叫个人偏见，就是像你讲的，就是我觉得这个音乐好听，我觉得不好听。
+</p>
+<p class="transcript-line">
+<span class="time"><strong>[00:51:47]</strong> </span>
+<span class="speaker"><strong>发言人2: </strong></span>
+这个东西对于调这个产品一点帮助都没有，这就是你的个人观点，怎么怎么调？不知道，好难，那怎么办呢？有什么方法吗？有什么最佳实践吗？写evaluation有最佳实践吗？
+</p>
+<p class="transcript-line">
+<span class="time"><strong>[00:52:00]</strong> </span>
+<span class="speaker"><strong>发言人1: </strong></span>
+没有，我觉得这个就是个就是看你我就是个团队迭代的过程，而且我觉得是说可能每个领域都还不太一样。
+</p>
+<p class="transcript-line">
+<span class="time"><strong>[00:52:08]</strong> </span>
+<span class="speaker"><strong>发言人2: </strong></span>
+最后再问你一个，我刚刚想到问题，你最近用了O3吗？
+</p>
+<p class="transcript-line">
+<span class="time"><strong>[00:52:12]</strong> </span>
+<span class="speaker"><strong>发言人1: </strong></span>
+最近你说最新刚发的没还没用，还没怎么用。
+</p>
+<p class="transcript-line">
+<span class="time"><strong>[00:52:16]</strong> </span>
+<span class="speaker"><strong>发言人2: </strong></span>
+OKOK我还想问你一下，他一会儿聪明一会儿笨的，我就是觉得说他到底是一个什么逻辑？就是一会儿你会聊到嗨，一会儿他就会明显的我觉得他在降智，在哄我，然后就觉得说这到底是个啥？
+</p>
+<p class="transcript-line">
+<span class="time"><strong>[00:52:29]</strong> </span>
+<span class="speaker"><strong>发言人1: </strong></span>
+不是有人说不能用中文提问吗？一用中文体温就降智。
+</p>
+<p class="transcript-line">
+<span class="time"><strong>[00:52:33]</strong> </span>
+<span class="speaker"><strong>发言人2: </strong></span>
+不有就用中文，他一会儿又聪明，一会儿就会他会深思熟虑，然后给我的东西会把我震掉。一会我就觉得你丫明显就是在偷懒，这难道要持续的用英文问吗？好的，我们今天就到这里，欢迎大家关注AI炼金术。我们有一个公众号，然后公众号就是徐文浩老师说他会去写什么PC往事，以后会很精彩的。大家去公众号上留言催。好的，好，希望大家支持我们关注公众号，关注AI炼金书。然后我们是比较就在一线的，然后那个我是在做投资跟孵化，然后看过很多项目，徐文浩是真的在一线，他是可以干的。
+</p>
+<p class="transcript-line">
+<span class="time"><strong>[00:53:09]</strong> </span>
+<span class="speaker"><strong>发言人2: </strong></span>
+对对对，我看到上一期有人问说你们两个到底懂不懂？我们是一线的从业者。对对对，但是有很多东西也不一定是对的，但是我们会聊一些我们真的看到的东西。所以大家对，就是两个人持续聊，就跟其他的博客比较不一样。就是因为老师这两个人聊，所以我们每次聊的东西还会不太一样。但是比如说我去上人家的博客，人家反反复复就问了几个问题，对吧？所以你每次讲的东西都有50%是重合的对，我们两个讲的东西大部分时候还是比较新的东西。所以大家欢迎关注，欢迎推荐给朋友。
+</p>
+<p class="transcript-line">
+<span class="time"><strong>[00:53:41]</strong> </span>
+<span class="speaker"><strong>发言人2: </strong></span>
+然后如果你是什么搞什么工业软件什么的，然后最近想要什么AI转型也可以，反正关注我们公众号跟我联系一下。觉得互联网那太可怕了。好，我们今天先这样，然后结束了。好，拜拜。
+</p>]]></content:encoded>
+            <pubDate>Tue, 22 Apr 2025 11:48:18 GMT</pubDate>
+            <guid>6807879a777ec593813a7630</guid>
+        </item>
         <item>
             <title>400万用户的 Stress Watch 是一个 bad idea ？？| 对话100 Bad Ideas工作室创始人Alex</title>
             <link>https://www.xiaoyuzhoufm.com/episode/67f7b214f5dc0d5e150e0452</link>
@@ -32670,698 +33527,6 @@ in the, but I don&#x27;t think I pans all work by seeking so long you can I was 
 </p>]]></content:encoded>
             <pubDate>Tue, 30 Apr 2024 05:00:26 GMT</pubDate>
             <guid>663081dfeb65b42d2d8bca18</guid>
-        </item>
-        <item>
-            <title>AI 原生：做 AI 产品的 12 条反共识</title>
-            <link>https://www.xiaoyuzhoufm.com/episode/66001fe5066f8f9252e0c8ae</link>
-            <description>本期是任鑫的单口秀，来跟大家聊聊怎么做好 AI 产品，他在播客中分享了12个反共识的洞见，话不多说，一起来听听吧~
-时间线：
-02:43 CUI 不见得是好事情
-09:50 UI 不止有 GUI 和 CUI
-12:30 把 LLM 当计算器，而非大脑
-16:15 谈恋爱和身心灵才是正经事
-17:40 AI 原生：讲生产力，人类才应该是 CoPilot
-26:20 拆解流程，才能用上 AI；重构流程，才能用好 AI
-29:19 AI 是高效小偷
-33:13 AI 是相机不是引擎
-35:49 AI 产品经理的第一性原理
-40:17 产品的用户是用户的老板
-42:32 穷惯了，要学习过富裕的日子
-46:03 非用户，才是新用户、好用户
-关于AI炼金术
-每周更新文章，公众号：AI炼金术
-每周直播，视频号：AI炼金术
-商务合作：在公众号：AI炼金术 菜单栏中【商务】获取联系方式
-相关 AI 实战课程
-任鑫《AI新商业机会洞察22讲》
-https://tools.hundun.cn/h5Bin/wxpay/dhy-selected-course-pay.html?page_type=&amp;package_id=509&amp;user_package_id=&amp;channel=appshare&amp;ambass_id=fabe90b3548513a654965aef6a1e65eb&amp;channel_id=181&amp;pid=TMI6&amp;sale_channel=
-徐文浩《AI大模型之美》
-xuwenhao.com</description>
-            <content:encoded><![CDATA[<h1>转写链接</h1>
-<link>https://tongyi.aliyun.com/efficiency/doc/transcripts/p7g395yd8j8wqz65</link><br>
-<h1>节目摘要</h1>
-<div class="summary">讨论集中于人工智能（AI）在产品设计、用户界面、生产力提升及用户群体拓展中的应用与影响。指出基于自然语言的用户界面（CUI）在复杂任务处理中可能不足，强调UI多样性的重要性，建议探索视觉感知等新交互方式。讨论中批判了将AI视为拥有独立智慧实体的传统观念，倡导将其视为高效工具，通过数据驱动探索其本质。强调产品设计应面向被边缘化的潜在新用户群体，利用AI解决特定社会需求。同时，讨论了AI在知识产权、作为工具而非引擎的角色，以及通过AI实现成本效益的策略。最后，展望AI技术对未来增进了人类福祉的潜力，鼓励创新以满足更广泛用户需求，关注技术趋势发展。</div><br>
-<h1>章节速览</h1>
-<div class="chapters">
-<div class="chapter-item">
-<span class="time"><strong>[00:00:00]</strong> </span>
-<span class="chapter-title"><strong>AI产品设计的十二条非共识</strong></span>
-<div class="chapter-summary">本期内容聚焦于AI产品设计中的非共识观点，旨在通过提出一些乍听起来似乎不合理的想法，激发听众对产品设计的全新思考。演讲者分享了在产品设计和孵化器运作过程中的独特见解，强调了AI在提升效率和生产力方面的潜力，以及如何通过AI产品瞄准那些被现有市场门槛阻挡的新用户群体。通过这些非共识的观点，演讲者鼓励听众拓宽思路，探索AI产品设计的新天地。</div>
-</div>
-<div class="chapter-item">
-<span class="time"><strong>[00:02:39]</strong> </span>
-<span class="chapter-title"><strong>自然语言交互界面的局限与问题</strong></span>
-<div class="chapter-summary">自然语言交互界面（CUI或LUI）在用户侧和商业侧存在一些严重问题。主要问题包括缺乏场景感和上下文，意图识别不精确，以及在频繁操作时效率较低。在特定场景下，如Excel操作，结合图形界面和快捷键可能更为高效。因此，创业者在开发AI产品时应考虑是否完全依赖自然语言交互，以及是否需要结合其他UI形式以提升用户体验和执行效率。</div>
-</div>
-<div class="chapter-item">
-<span class="time"><strong>[00:06:02]</strong> </span>
-<span class="chapter-title"><strong>自然语言交互界面的局限与未来趋势</strong></span>
-<div class="chapter-summary">讨论了自然语言交互界面（CUI）的局限性以及设计策略，强调了在设计CUI时需要考虑context和intent识别，以提升用户行动的便捷性。同时，指出CUI可能对创业者在商业上不利，因为其高度的通用性使得产品容易被大型AI平台如ChatGPT、Copilot或Siri所取代。因此，建议创业者专注于构建独特的、非AI的核心能力，并考虑将产品直接API化以避免被同质化。最后，提到除了图形用户界面（GUI）和CUI之外，还有其他类型的交互界面值得探索。</div>
-</div>
-<div class="chapter-item">
-<span class="time"><strong>[00:10:13]</strong> </span>
-<span class="chapter-title"><strong>探讨AI视觉感知与用户交互的新可能性</strong></span>
-<div class="chapter-summary">讨论了AI，特别是像ChatGPT这样的系统，如果配备了视觉感知能力，能够通过摄像头观察用户的行为和表情，从而更自然地与用户进行交互。此外，提到了AI在游戏、阅读等场景中理解用户表情和环境的能力，以及如何结合视觉识别和常识理解来提供更丰富、直观的用户界面（UI）。最后，鼓励大家拓宽思路，探索AI与人类交互的更多可能性。</div>
-</div>
-<div class="chapter-item">
-<span class="time"><strong>[00:12:41]</strong> </span>
-<span class="chapter-title"><strong>大语言模型的非拟人化应用及未来交互设计</strong></span>
-<div class="chapter-summary">讨论了将大语言模型视为计算器而非大脑的可能性，强调了这种视角能够拓展模型的应用场景，尤其是通过直观的交互设计实现文字、图片和声音等数字实体之间的运算。此外，提出了关注娱乐、情感和陪伴领域的发展建议，而非仅仅聚焦于生产力提升。</div>
-</div>
-<div class="chapter-item">
-<span class="time"><strong>[00:16:40]</strong> </span>
-<span class="chapter-title"><strong>AI在宗教、情感和生产力领域的应用探索</strong></span>
-<div class="chapter-summary">对话探讨了AI在娱乐陪伴、情感支持、宗教领域以及生产力提升方面的应用。特别提到AI在宗教领域的尝试，如通过AI回应信徒的祈祷，以及在情感领域促进个人成长和宗教觉醒。此外，讨论了人类不应仅仅被视为生产力工具，而应与AI共同担任副驾驶的角色，特别是在AI能力已显著提升的背景下。</div>
-</div>
-<div class="chapter-item">
-<span class="time"><strong>[00:19:24]</strong> </span>
-<span class="chapter-title"><strong>AI与人类在生产力领域的角色定位</strong></span>
-<div class="chapter-summary">讨论了在追求生产力提高的过程中，人类与AI应有的角色。提出，为了情感上的接受，常将AI描述为辅助人类的copilot，但实际上，工具性的工作应由AI承担，人类应作为目的而非工具存在。指出人类在遵循工具理性上的困难，建议将工具性策略交由AI执行，让人类在需要时介入。并讨论了AI在特定任务上的潜力，如设计PPT，通过为AI原生设计任务流程，可能实现AI主导、人类辅助的新模式。</div>
-</div>
-<div class="chapter-item">
-<span class="time"><strong>[00:23:12]</strong> </span>
-<span class="chapter-title"><strong>重新定义工作：AI在多领域应用的可能性</strong></span>
-<div class="chapter-summary">对话探讨了在设计工作岗位时，通常不会要求跨多个领域的综合知识，而AI却非常适合横跨多个领域的工作。举例说明，如果将AI比作猫，其工作定义应根据其智能方向进行调整，如利用AI在信息收集、决策制定和教练式沟通管理方面的优势。强调了不应将人类社会的隐喻和框架套用在AI产品设计上，而应开放思路，探索AI的原生产品设计。</div>
-</div>
-<div class="chapter-item">
-<span class="time"><strong>[00:26:15]</strong> </span>
-<span class="chapter-title"><strong>AI转型：拆解流程与知识产权液化</strong></span>
-<div class="chapter-summary">对话围绕AI在企业转型中的应用展开，强调了拆解现有流程以融入AI的重要性，同时指出仅此不足以充分发挥AI潜力。提出应从工作目的出发，重新设计工作流和任务，而非简单将AI嵌入原有流程。此外，讨论了AI在知识产权领域的革命性影响，即AI能将固态的知识产权转化为液态，从而引发知识产权保护的新挑战。</div>
-</div>
-<div class="chapter-item">
-<span class="time"><strong>[00:31:23]</strong> </span>
-<span class="chapter-title"><strong>探讨技术发展中的侵权与合理性问题</strong></span>
-<div class="chapter-summary">对话围绕技术发展，特别是非AI领域中的搜索引擎、樊登读书、短视频以及小红书爆款文章的侵权与合理性问题展开。讨论了这些领域在发展初期面临法律挑战和侵权争议，以及AI技术在模仿和创造内容时可能触及的法律和道德边界。提出了新技术可能带来的“偷窃技术”概念，以及在拥抱新技术时如何找到创新与保护知识产权之间的平衡点。</div>
-</div>
-<div class="chapter-item">
-<span class="time"><strong>[00:33:12]</strong> </span>
-<span class="chapter-title"><strong>AI是照相机还是引擎：智能的本质探讨</strong></span>
-<div class="chapter-summary">对话围绕AI的本质展开，探讨AI是作为一种创造者（引擎）存在，还是仅仅作为观察和理解世界的工具（照相机）。进一步分析了智慧是否是数据的特性，还是独立的能力，提出了通过积累特定领域的数据来产生智能，以及AI在人与万物之间充当翻译器的角色的设想。</div>
-</div>
-<div class="chapter-item">
-<span class="time"><strong>[00:35:53]</strong> </span>
-<span class="chapter-title"><strong>AI产品经理的创新思维与创业机会</strong></span>
-<div class="chapter-summary">在AI产品设计中，产品经理应摆脱现有解决方案的束缚，通过理念先行和借鉴过去的思想来创新。理念先行能帮助设计者忽视当下隐含假设的限制，而阅读过去几十年的文章则能带来未受现代技术影响的天真想法，从而拓宽视野。此外，还介绍了面向海外市场的AI孵化器项目，强调需要真实的海外市场洞察和营销能力，而非仅限于产品理念，提供启动资金、产品研发和海外营销等支持。</div>
-</div>
-<div class="chapter-item">
-<span class="time"><strong>[00:40:16]</strong> </span>
-<span class="chapter-title"><strong>重新定义用户：从专业用户到决策者及智能资源的浪费式设计</strong></span>
-<div class="chapter-summary">在设计产品时，需认识到最终用户可能是原用户的老板或甲方，产品应服务的可能是更抽象的需求。此外，随着智能资源变得不再稀缺，设计思维应从节约转向浪费，即利用丰富的智能资源提供更个性化、创造性的服务，而非局限于传统的优化和改进路径。</div>
-</div>
-<div class="chapter-item">
-<span class="time"><strong>[00:46:02]</strong> </span>
-<span class="chapter-title"><strong>面向非用户：AI产品的广阔新市场</strong></span>
-<div class="chapter-summary">对话强调了在开发AI产品时，不应仅针对现有用户，而是应着眼于非用户，即那些被传统产品高门槛排除在外的潜在用户群体。通过AI技术，可以为这些新用户提供易于使用、满足其需求的解决方案，从而开辟更广阔的市场。举例说明了如Midjourney、ChatGPT和美图秀秀等产品如何成功吸引非用户，以及AI在教育、法律服务和辅助残障人士等方面的潜在应用。这种策略不仅具有商业价值，还能为社会带来积极影响。</div>
-</div>
-</div><br>
-<h1>问题回顾</h1>
-<div class="qa-item">
-<div class="question"><strong>Q:</strong> 对于AI产品的设计原则，是否应完全依赖自然语言交互界面？</div>
-<div class="answer"><strong>A:</strong> 不是的，创业者不应仅凭自然语言交互界面作为产品的核心交互方式。尽管自然语言交互看似统一且易于使用，但在效率、灵活性及独特性方面可能存在不足。如果产品形态非常适合自然语言交互，那么很可能面临赢家通吃的市场局面，竞争对手可能是已有的成熟AI技术如ChatGPT、Copilot等。在这种情况下，除了提升自然语言交互体验外，还应考虑结合其他UI形式，甚至API化核心能力，以避免被取代。</div>
-</div>
-<div class="qa-item">
-<div class="question"><strong>Q:</strong> AI产品设计中是否应该优先考虑自然语言交互界面？</div>
-<div class="answer"><strong>A:</strong> 不一定。虽然自然语言交互界面（CUI）看似灵活方便，但从用户侧和商业侧都有其局限性。在用户交互层面，自然语言缺乏场景感和上下文信息，可能导致理解混乱；意图识别方面可能不够精确，不如图形化界面或键盘快捷键直接高效。此外，从商业角度看，过于依赖自然语言交互可能会使产品在众多类似交互方式的竞争中陷入同质化困境，容易被诸如ChatGPT、Copilot等技术取代，因此需要寻找独特的非AI层面的竞争优势。</div>
-</div>
-<div class="qa-item">
-<div class="question"><strong>Q:</strong> UI设计是否仅限于GUI（图形用户界面）和CUI（语音用户界面）？</div>
-<div class="answer"><strong>A:</strong> 并非如此。UI设计远不止于此，例如AI工程领域展示的具有视觉感知能力的交互方式，可以根据用户行为自动切换输入方式，如从打字变为语音对讲，这拓宽了UI设计的可能性。未来AI产品的UI设计可能会更加智能化和个性化，不再局限于传统的点选操作或语音输入。</div>
-</div>
-<div class="qa-item">
-<div class="question"><strong>Q:</strong> 在AI技术中，是否需要明确的UI定义，例如button，还是能够理解更多常识和视觉识别？</div>
-<div class="answer"><strong>A:</strong> AI技术不一定需要明确的UI定义，它可能通过常识理解、视觉识别以及结合实际环境来获取用户意图。例如，在vision pro的游戏场景中，AI可以根据用户的表情和情境来推测其需求，而不是依赖于明确的按钮操作。</div>
-</div>
-<div class="qa-item">
-<div class="question"><strong>Q:</strong> 大语言模型是否应该被看作一个大脑还是计算器，并且是否存在人类未意识到的应用场景？</div>
-<div class="answer"><strong>A:</strong> 人们往往将大语言模型拟人化为大脑，但实际上也可以将其视为计算器，即执行算术运算。例如，用户可以直观地调整文章长度或改变图形大小，而不仅仅是改变文字样式或数量，这种交互方式更加开放且具有创新性。</div>
-</div>
-<div class="qa-item">
-<div class="question"><strong>Q:</strong> 对于数字实体的交互设计，应该如何拓展思路？</div>
-<div class="answer"><strong>A:</strong> 在数字实体交互设计上，应考虑对操作对象如距离、空间大小进行直接运算，而不只是传统的点选操作。所有数字对象都应成为可操作的对象，以此为基础可以创造出不同于聊天或点击操作的新交互界面。</div>
-</div>
-<div class="qa-item">
-<div class="question"><strong>Q:</strong> 娱乐情感和陪伴类产品赛道有何潜力？</div>
-<div class="answer"><strong>A:</strong> 娱乐、情感和陪伴类产品具有巨大潜力，它们不仅限于性暗示内容，还可以涵盖自我成长、宗教性觉醒等领域。这部分市场对人们的情感需求进行了关注，是一个值得关注的发展方向。</div>
-</div>
-<div class="qa-item">
-<div class="question"><strong>Q:</strong> 为何强调人类在AI时代应作为co pilot而非单纯工具？</div>
-<div class="answer"><strong>A:</strong> 人类作为co pilot强调了人类与AI之间的协作关系，而非简单地将人类作为评价工具优劣的标准。历史上和政治上，人类不应被完全工具化，而应该追求自身的价值实现，而非单纯追求工作效率或生产力增长。同时，这也为AI能力超过人类的情况提供了更合理的情感接受度。</div>
-</div>
-<div class="qa-item">
-<div class="question"><strong>Q:</strong> 在投资领域中，为什么工具理性能够帮助我们做出更好的决策，而人类往往做不到？</div>
-<div class="answer"><strong>A:</strong> 因为人类在情绪控制、贪婪与恐惧等方面存在局限性，而工具理性可以设定明确的投资策略，如不贪婪、在他人贪婪时恐惧等，并通过AI等工具执行这些策略，从而发挥其价值。</div>
-</div>
-<div class="qa-item">
-<div class="question"><strong>Q:</strong> 如何看待AI目前的表现以及未来的发展潜力？</div>
-<div class="answer"><strong>A:</strong> AI的进步速度远超人类智商的进步。尽管当前AI在某些领域如开车的表现不如人类，但随着技术发展，AI将不断进步，并且衡量标准可能存在偏见，即以人类为中心来评价AI的表现。</div>
-</div>
-<div class="qa-item">
-<div class="question"><strong>Q:</strong> 如何设想下一代AI产品的设计，以及如何更有效地利用AI完成工作？</div>
-<div class="answer"><strong>A:</strong> 下一代AI产品可以尝试打破常规工作流程，例如设计PPT时，不是让AI模仿人的工作流，而是设定目标（如生成20条故事线证明市场策略），让AI利用其速度快、搜索范围广的优势去探索更多可能性，甚至可能发现比人类更好的解决方案。</div>
-</div>
-<div class="qa-item">
-<div class="question"><strong>Q:</strong> 在工作岗位设计上，人类是否应该考虑AI的特性来重新定义任务？</div>
-<div class="answer"><strong>A:</strong> 是的，我们应摒弃传统思维，设想AI能在多个领域横跨并高效处理信息，因此，在设计岗位时，应当考虑AI擅长的广泛性和快速信息吸收能力，重构工作内容以适应AI的特点。</div>
-</div>
-<div class="qa-item">
-<div class="question"><strong>Q:</strong> 如何正确拆解并重构流程以充分利用AI技术？AI如何成为一种“高效的小偷”，以及这种特性带来的影响？</div>
-<div class="answer"><strong>A:</strong> 拆解流程并将其拆分成多个任务，判断哪些任务适合AI执行，采用双钻模型等方法优化工作流。但实践中需注意，很多人难以真正拆分原有流程，且专业人士对AI产出常常不满意，建议从目的出发重新设计任务，而不是硬套原有流程。AI能够将固态的知识转化为液态的形态，再根据需求重新凝结成固态，使得知识产权变得难以识别和追踪。例如，AI可以将播客内容整合在一个网站上，使得内容的所有权变得模糊不清，这种特性对于知识产权保护带来了挑战。</div>
-</div>
-<div class="qa-item">
-<div class="question"><strong>Q:</strong> 在AI技术的发展下，知识产权是否会被液化，从而带来很大的冲击？</div>
-<div class="answer"><strong>A:</strong> 是的，随着AI革命的发展，知识产权可能会变得难以保护，因为人们可以利用AI模型学习、模仿他人的知识表达，这在一定程度上类似于偷窃行为。例如，通过训练AI模型来模拟特定风格的对话或创作，如果算不算侵权是一个值得探讨的问题。</div>
-</div>
-<div class="qa-item">
-<div class="question"><strong>Q:</strong> AI是否应该被视为一种工具，如照相机或引擎，来帮助我们更好地理解和处理世界？</div>
-<div class="answer"><strong>A:</strong> 这个观点认为AI并非像CAD等工具那样能无中生有，而是像望远镜一样帮助我们更清晰地看到世界的细节。智慧的本质被讨论为是数据特性还是独立能力，如果是数据特性，那么通过积累不同领域的数据，AI可能会自行产生特定领域的智能，而人类则扮演着翻译者的角色，通过AI与万物沟通。</div>
-</div>
-<div class="qa-item">
-<div class="question"><strong>Q:</strong> AI产品经理的核心理念是什么？</div>
-<div class="answer"><strong>A:</strong> AI产品经理的核心理念是要忘掉现有的解决方案，因为默认的解决方案往往是基于过去某个时刻的决策，而非最优解。为了创新，需要摆脱当前观念的束缚，可以采用理念先行的方法，或者借鉴几十年前未受现代隐含假设影响的想法，以更开阔的视野审视问题本质。</div>
-</div>
-<div class="qa-item">
-<div class="question"><strong>Q:</strong> 是否有面向海外市场的AI孵化器项目可以参与？</div>
-<div class="answer"><strong>A:</strong> 目前正在运营一个面向海外市场的AI孵化器项目，为符合条件的AI创业项目提供高达几十万至一百万美金的启动资金，并且可以按照VC投资逻辑进行投资。此外，还提供海外营销、产品化及研发支持。特别看重项目的海外市场洞察和真实的营销获客能力，而非仅限于创新的想法。</div>
-</div>
-<div class="qa-item">
-<div class="question"><strong>Q:</strong> 在定义产品的用户时，为什么最终的使用者可能是用户的老板或客户？</div>
-<div class="answer"><strong>A:</strong> 这主要是因为在实际使用场景中，虽然最初的产品使用者可能是专业人士如设计师，但随着技术的发展和普及，原本需要专业人员执行的任务（如画图、设计稿修改）可能会被AI取代，进而导致需求方（即用户的老板或客户）直接成为最终使用产品的主体。</div>
-</div>
-<div class="qa-item">
-<div class="question"><strong>Q:</strong> “穷惯了”在智能稀缺时代如何影响我们的设计思路，以及批改作文的例子说明了什么问题？</div>
-<div class="answer"><strong>A:</strong> “穷惯了”意味着习惯于节约和智慧的稀缺，在智能丰富的今天，我们需要改变原有的节约智慧的设计思路。以批改作文为例，在智能稀缺时代，老师通过点评而非创作来节省智力资源。而现在，我们应考虑利用丰富的智能资源去创造更多价值，比如根据个人风格给出多样化的写作建议，而非仅仅优化批改功能。</div>
-</div>
-<div class="qa-item">
-<div class="question"><strong>Q:</strong> AI产品的抽象层次会如何变化，对下游用户有何影响？针对老用户和新用户的市场策略有何不同？</div>
-<div class="answer"><strong>A:</strong> 随着AI技术的进步，产品的抽象层次逐渐提高。例如，从操作像素到设计稿，再到基于意图的AI操作。这会导致原本具体功能岗位的用户可能受到冲击，因为他们可能会被AI取代，成为AI的上游用户。针对老用户市场时，产品难以突破已有的成熟产品和用户习惯，往往难以取得成功。而面向新用户，尤其是那些被现有产品门槛阻挡在外的新市场，可以带来更广阔的发展机会。例如，Midjourney让非设计师也能轻松设计logo，ChatGPT则帮助大量不具备复杂建模能力的人进行初步的数据分析。</div>
-</div>
-<div class="qa-item">
-<div class="question"><strong>Q:</strong> 如何利用科技帮助被忽视的群体，如残障人士？</div>
-<div class="answer"><strong>A:</strong> 通过科技降低使用门槛，可以为残障群体提供便利服务，如为盲人提供识别物品颜色和过期信息的功能。同时，也可以探索更多类似“拼多多模式”，关注并服务于那些尚未被充分满足需求的新用户群体，让他们也能享受到科技带来的便利。</div>
-</div>
-<h1>节目文稿</h1>
-<p class="transcript-line">
-<span class="time"><strong>[00:00:04]</strong> </span>
-<span class="speaker"><strong>发言人1: </strong></span>
-DUI不见得是件好事儿，从用户侧和从商业侧他都未必见得是件好事。如果你的产品形态就是非常的适合CUI的话，你只要做到越来越大，那很有可能你面对的是一个赢家通吃的一个战场。其实本质上效率和生产力是用来形容工具的，所以人类其实就不是好工具。所以理论上来讲，我们应该把这些工具的策略给工具，让工去发挥更好的价值。人类就是他们有什么地方需要帮忙的时候，人类过去帮帮忙。在生产力的领域，其实人类应该是扣牌了，然后应该让AI.
-</p>
-<p class="transcript-line">
-<span class="time"><strong>[00:00:43]</strong> </span>
-<span class="speaker"><strong>发言人2: </strong></span>
-做pilot。
-</p>
-<p class="transcript-line">
-<span class="time"><strong>[00:00:45]</strong> </span>
-<span class="speaker"><strong>发言人1: </strong></span>
-非用户才是新用户，才是好用户。大家可以考虑说用AI做出来的产品，可以不要去瞄向已有的老市场，要瞄向一个拥有更广泛的需求，但是被已有的产品的门槛挡在外面的那个新市场，这批用户会更好伺候一点。大家好，欢迎大家来到AI炼金术新一期。今天我来给大家讲一个单口。因为徐荣浩老师最近有事儿，然后我们又太久没有更新了，然后我又特别想把这个内容分享出来。所以今天我一个人来讲一段，大家捧个场。今天讲什么呢？讲AI的产品设计。一般来讲AI产品设计就会讲什么？你要理解用户AI原生的设计原则，会讲一堆有的没的东西。
-</p>
-<p class="transcript-line">
-<span class="time"><strong>[00:01:34]</strong> </span>
-<span class="speaker"><strong>发言人1: </strong></span>
-今天不讲这些，今天讲什么呢？讲十二条非共识。什么叫非共识？非共识就是听起来不太对的东西。因为我相信大家听那种一听就觉得好有道理的话，已经听了很多了。
-</p>
-<p class="transcript-line">
-<span class="time"><strong>[00:01:48]</strong> </span>
-<span class="speaker"><strong>发言人1: </strong></span>
-今天我跟大家来讲一些听起来没有那么有道理的话，这也是我们自己在产品设计和孵化器的运作过程当中的话，经常给项目分享的一些看问题的方式，听起来都不太对。但是就可以帮助大家更广阔的打开一下思路。就是精神病人思路广，那个弱智儿童欢乐多。所以大家可以听一听我一些暴论。虽然都在AI炼金术的公众号上聊过这些暴论，但是大家可以听一下这12条里面有没有可以让你一听觉得这肯定是错的。然后如果你觉得他肯定是错的，我又讲了一点点道理，然后那可能就可以激发你更多的发现一块思考的盲区。可以过去想想，很有可能我真是错的对吧？但是如果万一不是的话，可能就打开了一片新的天地。
-</p>
-<p class="transcript-line">
-<span class="time"><strong>[00:02:39]</strong> </span>
-<span class="speaker"><strong>发言人1: </strong></span>
-OK好，开场到这里我们就直接开始聊起来。第一个非共识，就是跟大家讲一讲自然语言的交互界面不见得是一件好事儿。可能有的时候我们管自然语言界面叫CUI conversation对吧？有的时候叫LUI language UI对吧？它不见得是件好事儿。因为我现在发现越来越多的创业者的话，天然的思考我要做一个AI产品就会思考说我要做一个chatbot，我要做一个聊天机器人，然后我要用自然语言解决问题。但是实际上在用户侧和商业侧自然语言交互页界面的话，都会有一些非常严重的问题所在。
-</p>
-<p class="transcript-line">
-<span class="time"><strong>[00:03:18]</strong> </span>
-<span class="speaker"><strong>发言人1: </strong></span>
-在用户这一侧的话，主要问题有几个方面。第一个就是完全的这种交互的话，它其实缺乏场景的场景感和上下文。比如说我自己来跟你聊天，我说帮我递过来那个杯子。如果我们都在一个场景下面，你看到桌子上有一个杯子，你就很自然的会帮我递过来这个杯子，对吧？所以我们其实是有一个场景和上下文的。但是如果我不考虑场景和张上下文，我只考虑我们的对话本身。我说给我那个杯子，其实你就会想说给你哪个杯子的你说的是啥？所以这个时候的话，纯粹的自然语言对话，它其实缺乏上下文的。
-</p>
-<p class="transcript-line">
-<span class="time"><strong>[00:03:57]</strong> </span>
-<span class="speaker"><strong>发言人1: </strong></span>
-什么叫有上下文呢？比如说你在一个excel里面，然后你说把第二格的那个数字考到第三格拷贝过去。那这个时候其实你是在一个上下文的旁边有一个excel的格子。然后这样子的话，你在旁边说话的时候，它是可以引用到这个上下文。这个时候反倒是更合理的一个处境。所以我觉得大家要考虑说，很多东西未必是完全要用自然语言来理解的那第二个就是假设桌子上有一个杯子，我把这个杯子拿起来，其实我的操作对象是非常之明确的，就是我要操作的是这个对象。
-</p>
-<p class="transcript-line">
-<span class="time"><strong>[00:04:31]</strong> </span>
-<span class="speaker"><strong>发言人1: </strong></span>
-比如说我刚刚说的那个excel的例子好了，其实我去点出来那个B2格子和点出来B3格子，其实这个时候的我的意图的表达和对象的识别会更精确一些。反倒我用嘴巴来说说第二格拷贝到DB3格其实还挺麻烦的。所以在意图识别上的话，站源交互也是不是最完美的一个方案。
-</p>
-<p class="transcript-line">
-<span class="time"><strong>[00:04:54]</strong> </span>
-<span class="speaker"><strong>发言人1: </strong></span>
-最后一个就是如果这件事情操作上的话，我要经常操作对吧？那我其实手点来点去，然后用那个拖来拖去可能还会更方便一点。比我每一次都要说B2这个挪到B3，B4挪到B5，这样子其实更麻烦。就有点像什么呢？有点像我们现在虽然大部分时候都是在用那个叫做图形化交互界面GUY。但是实际上的话，很多时候你会用那个键盘的快捷键还是更方便的，虽然就是更不符合直觉对吧？那当然是我们对着一个图形界面更符合直觉。那为什么要按O键，它就会怎么存档，就按O键就会打开，这很不很不make sense。
-</p>
-<p class="transcript-line">
-<span class="time"><strong>[00:05:35]</strong> </span>
-<span class="speaker"><strong>发言人1: </strong></span>
-但是其实在熟练工，假设你一个任务是要长期快速进行。这个时候讲的其实不是说要灵活性，要更加宽广的空间，而是讲执行效率的时候。其实自然语言交互界面也未必见得是最好的方式，这是在用户侧。所以大家可以考虑一下说，你的产品就是自然语言是不是最好的交互方式。然后有没有可能他要结合一些其他的UI来实现。
-</p>
-<p class="transcript-line">
-<span class="time"><strong>[00:06:02]</strong> </span>
-<span class="speaker"><strong>发言人1: </strong></span>
-这方面讲的最好的其实叫做lintas lee，他是notion AI的合伙人。所以的话大家可以去搜索lillee或者看AI炼金术。以前的文章里面有很多他的演讲在讲说自然语言交互界面的局限性，以及我们应该怎么样去设计context设计intent就是的识别，然后让用户有更加方便的action行动的方式。大家可以去看一下，所以可以打开更多的思路。当然了，如果光是从用户交互界面来看，无非也就是牺牲一点效率，对吧？但是自然语言交互界面灵活，那总归好像是一个可以搞定一切事情更方便的方案，所以好像还不一定说得通。
-</p>
-<p class="transcript-line">
-<span class="time"><strong>[00:06:46]</strong> </span>
-<span class="speaker"><strong>发言人1: </strong></span>
-还有另外一个原因，我觉得不应该完全靠自然语言交互界面，是因为他对创业者在商业上其实不是很有利。因为如果都是一个boat可以解决问题，你都通过说话解决问题，其实很这个交互界面是统一的，就你对着siri说话的方式和你对着那个ChatGPT的那个语音版说话的方式其实是一样的，都是在聊天。就是你都是把对方拟人化，然后你跟他说你要干嘛。如果点评也是这样子一个交互界面，比如说那个脑图也是这样，然后excel也是这样，都是一个框的话，理论上来讲所有人的那个界面上是可以相互替代的那理论上来讲，你就你的这个产品功能，不管你是做啥的，比如说你是做excel的，你就非常容易会被ChatGPT或者copilot或者siri给吃进去。因为你也是一个框，对吧？跟一个机器人在聊天，他也是一个框跟机器人在聊天，所以这个时候把你吃进去就非常容易。所以不管CUI是不是更好，如果你的产品形态就是非常的适合CUI的话，那很有可能你面对的是一个赢家通吃的一个战场。你的竞争对手虽然好像现在没有什么关系，你的竞争对手很有可能是ChatGPT，是copilot，是siri，甚至于你的竞争对手是character，所以这就很尴尬。
-</p>
-<p class="transcript-line">
-<span class="time"><strong>[00:08:09]</strong> </span>
-<span class="speaker"><strong>发言人1: </strong></span>
-如果说你认为说竞争就竞争，将来你可能是他的一个子模块，那很有可能这一部分的话我们抢入口是抢不过的那这个时候就会变成纯粹的能力输出。比如说ChatGPT会调用你来生成脑图，调用你生成什么什么表格，对吧？调用你生成图片，那这样子就是一个纯粹的能力输出了。
-</p>
-<p class="transcript-line">
-<span class="time"><strong>[00:08:31]</strong> </span>
-<span class="speaker"><strong>发言人1: </strong></span>
-因为CUI的控制能力肯定不是门槛，模型升级就会搞定它。那这个时候就只能是我们有独特的在AI之外的一些门槛。比如说我可以调度线下的快递员去送餐，那其实就是这样的能力了。
-</p>
-<p class="transcript-line">
-<span class="time"><strong>[00:08:45]</strong> </span>
-<span class="speaker"><strong>发言人1: </strong></span>
-但如果你是真的是考虑这样的能力，就应该更加极端化，就把自己直接API化，就不要做什么AI交互界面了，对吧？没有意义，迟早会被吃进去的时候，那现在就应该更加极端一点，就在建设我们的的核心能力。而不是要去说我要做一个界面，我要什么优化我的什么自然语言交互，让我的什么使用体验更好。如果你的那个使用体验是叫是一个纯粹的对话框的话，这是没有利的。所以也是我在劝，有一些朋友他的界面本来是一个非自然语言的界面，他把自然语言界面做的越来越大我就在劝他说，不管这条路是错的还是对的，你只要做到越来越大，然后之后是自然语言为界面为主导。你原来的界面为辅的话，那理论上来讲你就应该会被那个siri被拆之类的那平台给吃掉，你其实是没有机会的。
-</p>
-<p class="transcript-line">
-<span class="time"><strong>[00:09:41]</strong> </span>
-<span class="speaker"><strong>发言人1: </strong></span>
-所以这是我的第一条暴论，就是CUI不见得是件好事，从用户侧和从商业侧它都未必见得是件好事儿。大家可以想想，那第二个跟大家分享的点就是UI不止只有GUI和CUI对吧？不止只有说图形交互界面和这种点来点去一堆按钮，一堆菜单。也不仅仅除了这个之外，也不仅仅只有你跟他说话这种方式，还有很多比如说在AI engineering那个大会上面有一些展示。
-</p>
-<p class="transcript-line">
-<span class="time"><strong>[00:10:13]</strong> </span>
-<span class="speaker"><strong>发言人1: </strong></span>
-假设说你跟ChatGPT在对话的时候，理论上来讲的话，它有摄像头，它可以看到你是不是在他的电脑的正面前。那如果发现你在正面前的话，他就跟你打字。然后如果发现说你已经走开了，他这个时候应该切换到语音对吧？他是可以有视觉感知的那其实我们就除了在屏幕上点来点去以及跟他说话之外的话，他既然有眼睛的话，他应该可以看到我们的行动，看到我们在不在。
-</p>
-<p class="transcript-line">
-<span class="time"><strong>[00:10:41]</strong> </span>
-<span class="speaker"><strong>发言人1: </strong></span>
-除了看到我们在不在之外的话，他也应该可以理解更多的常识。比如说我们之前在AI炼金术公众号上讲过的一个例子，就是比如说有一个电话，然后是你很不想接的，你就直接竖一个中指。这个时候他也大概能够get到说你其实不想接这个电话，对吧？所以他不一定不需要说我们要有定义的。比如说一个button或者你要明示的一个语言，这个时候也是能够理解你的。
-</p>
-<p class="transcript-line">
-<span class="time"><strong>[00:11:07]</strong> </span>
-<span class="speaker"><strong>发言人1: </strong></span>
-或者说我们再反过来，比如说最近大家经常有朋友找我聊vision pro的体验，诸如此类的那vision pro里面假设说在玩游戏，vision pro现在不是可以看到表情吗？那其实的话比如说有人他里面的那个假设是个谈恋爱游戏，对方跟你聊的时候，他其实就应该看到你的表情说今天晚上要不要去看烟花？然后你就皱皱眉头，他就应该问说你不喜欢烟花吗？或者说你有什么别的安排，而不见得需要你去两个按钮说看烟花不看烟花，对吧？
-</p>
-<p class="transcript-line">
-<span class="time"><strong>[00:11:38]</strong> </span>
-<span class="speaker"><strong>发言人1: </strong></span>
-所以的话应该还有常识的理解，有视觉的识别，甚至于它应该还可以跟我们的环境相结合。比如说AI engineer那个大会上的一个案例，就是你在看书的时候，书上面会有很多插图。你应该知道那个插图，然后说这个图帮我搞下来，对吧？他应该看见这张图，然后帮你搞下来。所以他应该可以跟我们的实际生活当中的环境相结合。所以总体上来讲，大家可能可以考虑说把思路更放放的宽广一点。就是所谓的UI不见得只有我们iphone上的那些点来点去的东西和ChatGPT这种聊来聊去的东西，还会有很多种其他的可能性。
-</p>
-<p class="transcript-line">
-<span class="time"><strong>[00:12:21]</strong> </span>
-<span class="speaker"><strong>发言人1: </strong></span>
-这方面的话大家感兴趣的话，可以去youtube上看AI engineer那个大会。它上面有无数的例子，都很有意思。OK, 这是第二个观点。然后第三个观点的话，其实这仅仅是个观点，我就是为了给大家打开思路，我觉得非常开我的脑洞，但是并不见得就是对的。
-</p>
-<p class="transcript-line">
-<span class="time"><strong>[00:12:41]</strong> </span>
-<span class="speaker"><strong>发言人1: </strong></span>
-大家可以思考一下说你现在考虑大语言模型是不是已经把它拟人化了当一个大脑在看，对吧？你把它当当一个brain，当一个computer。但是实际上你有可能大家往往没有把它弱化到当做一个calculator，当做一个计算器。那什么叫做当做计算器呢？就是什么叫当做一个大脑？什么叫当做一个计算器？比如说你看到一段文字，如果你把它当一个大脑的话，你就会想到的都是说，帮我写长一点，帮我写短一点，帮我润个色，帮我加个例子。这是你对着一个人的方式，对吧？
-</p>
-<p class="transcript-line">
-<span class="time"><strong>[00:13:15]</strong> </span>
-<span class="speaker"><strong>发言人1: </strong></span>
-你把它拟人化了之后的话，就会有一个问题，就是我们会不自然的在脑子当中把人类的限制框定到我们的大语言模型上。你刚刚我们说的什么把它写长一点，写短一点，什么加个例子都是人类能做到的。所以你就想得到这种应用场景。但是还有很多人类想不到的做不到的事情，我们就会默认他做不到，但是其实他更适合let us lee曾经举过一个例子，他就是比如说在一个界面上面有一篇原文，他就把那篇原文拖来拖去的。拖得越远的时候那篇文章就改的越大，拖得越近的时候就改的越小。其实他是把一个文章乘以了一个距离，对吧？他把它做了一个相当于算术，所以我说是计算器，他把它做做了一个算术，然后得到了一个答案。
-</p>
-<p class="transcript-line">
-<span class="time"><strong>[00:14:02]</strong> </span>
-<span class="speaker"><strong>发言人1: </strong></span>
-或者说一篇文章。比如说你写了一个300字的文章，然后我们把那篇文章的那个框给拉大。以前我们把一个框给拉大的话，就是那些字儿变大，对吧？但是现在的话完全可以，你把框拉大的时候，300字就变成了600字。你把框缩小的时候，300字就变成了比如说50个字。那这样子的话其实是把一个图形的空间的大小乘以了原来的那个文字向量，对吧？然后看到说我们得到了一个结果，其实它里面是进行了一个计算。
-</p>
-<p class="transcript-line">
-<span class="time"><strong>[00:14:32]</strong> </span>
-<span class="speaker"><strong>发言人1: </strong></span>
-这种交互界面其实就不是拟人化的说你帮我多写一点，少写一点，大一点、小一点，而是更加的直观的在对我们的操作物体和一些我们的操作元素，比如说距离，比如说空间大小进行运算。我们的在交互界面上可以考虑的设计点就更多了，然后脑子也会更更开放一点。主要是我现在看到太多的产品，几乎都是一目了然，就发现说这个东西太显然了。对，所以给大家开开脑洞。
-</p>
-<p class="transcript-line">
-<span class="time"><strong>[00:15:07]</strong> </span>
-<span class="speaker"><strong>发言人1: </strong></span>
-再往下一个例子的话，就是莱纳斯利给的一个也是他给的例子。我说他启发蛮多的，然后他就给了例子，就是他自己的照片，然后加上乘以一些词汇。比如说乘以悲伤，照片乘以悲伤那就更更难过了。然后照片成一个悲伤的人那就更更难过了，对吧？成一张悲伤的小老鼠的照片更更难过了。
-</p>
-<p class="transcript-line">
-<span class="time"><strong>[00:15:27]</strong> </span>
-<span class="speaker"><strong>发言人1: </strong></span>
-所以的话你会发现图片跟文字，甚至于跟声音，它们相互之间，如果我们把它全部向量化的话，其实它就是一个东西，对吧？那就是一个东西之后的话，所有的这些东西应该理论上相互之间是可以做运算的，所有的数字实体都是可操作的对象。我们自己对于跟这些数字实体的交互。比如说我刚刚说的，把那个文字的框变大一点，变小一点，或者把它距离拉远一点，拉近一点，远近大小这些我们的交互这种input和所有的数字对象本身，他们其实都是可操作对象。基于这个设计理念的话，你就可以做出很多既不是聊天，又不是原来那种点点暗暗的那种新的交互界面了，对吧？大家可以打开思路想一想。
-</p>
-<p class="transcript-line">
-<span class="time"><strong>[00:16:15]</strong> </span>
-<span class="speaker"><strong>发言人1: </strong></span>
-好，这是前三条。第四个就是我觉得谈恋爱和身心灵才是正经事儿，就是干活不是正经事儿。大家如果前一段时间关注过的话，就是那个完蛋我被美女包围了，就很很热。因为大部分人其实还是很渴望陪伴和被看见被关注的，所以大家可以更关注一下娱乐情感和陪伴这个赛道，不要老是停留生产力。
-</p>
-<p class="transcript-line">
-<span class="time"><strong>[00:16:40]</strong> </span>
-<span class="speaker"><strong>发言人1: </strong></span>
-娱乐陪伴和情感的话也不一定。因为一想到这里大家就会想到说，这不就是搞涩涩，对吧？不一定，我讲一个梨黄色最远的东西，甚至于在宗教领域，其实这边也已经有很多尝试。就是你想想以前，比如说你求神拜佛，我都不我也不理你，然后上帝也不回应你那现在其实都是可以有回应的。这边其实有很多机会，如果你感兴趣这个领域的话，欢迎联系我，我们正在孵化这一类的项目。对，如果你是虔诚的，不管是哪个宗教的教徒的话，然后非常欢迎你联系我们OK。
-</p>
-<p class="transcript-line">
-<span class="time"><strong>[00:17:17]</strong> </span>
-<span class="speaker"><strong>发言人1: </strong></span>
-所以这边的话不光是有性，其实他有各种各样的。比如说我的自我成长，我的什么宗教性的觉醒，这其实都是关系，有什么关系？比跟神的关系要更神圣的对吧？有更更有约束力呢？所以我觉得大家可以多看看情感领域，多从非效率的角度去理解问题，这是我们讲第四个点。
-</p>
-<p class="transcript-line">
-<span class="time"><strong>[00:17:40]</strong> </span>
-<span class="speaker"><strong>发言人1: </strong></span>
-那为什么讲非效率呢？就讲到我们的讲效率，讲生产力。其实本质上效率和生产力是用来形容工具的。在如果你是形容一工具的话，说实在的我觉得人类自己应该是co pilot。我们现在是管机器管AI叫co pilot，说你是副驾驶。
-</p>
-<p class="transcript-line">
-<span class="time"><strong>[00:17:58]</strong> </span>
-<span class="speaker"><strong>发言人1: </strong></span>
-但是你仔细想想，如果是在讲效率，讲讲生产力的话，那其实我们是在以一个评价工具的指标在评价。人类是一个好的工具吗？人类其实不是一个好的工具，我们还要吃喝拉撒，我们还有各种小心思。人类不是好的工具，就好像福特说的，我其实只是想雇佣一双手，但是不得不他们还带了一个脑子是吧？所以人类其实就不是好工具，或者人类不应在生产力发展到一定程度之后，人类不应该被当做工具，所以这里面就人类应该是做copilot，应该让机器去做pilot。
-</p>
-<p class="transcript-line">
-<span class="time"><strong>[00:18:33]</strong> </span>
-<span class="speaker"><strong>发言人1: </strong></span>
-那之所以做co pilot，其实是历史原因和政治原因造就的。这个应该是github最先做叫copilot的。他们之前在在微软的时候，因为他们当时拿到的是GPT3，然后经常出错。他们当时思考的就是如何定位这个github copilot，让他在经常出错的情况下，仍然被认为是一个有价值的存在，就把它定位成了copilot。副驾驶说我就是个提意见的，我是个幕僚是吧？我给主攻线上中下三策，然后最后的责任是主攻的那这样子就比较合理一点。但是现在其实我们的用到的那个AI的能力，哪怕是国产的，其实也已经超过了当年的GPT3，至少就大部分已经达到了GPT3.5左右的水平。所以这其实当年是因为能力不够，现在能力已经比当年好很多了。
-</p>
-<p class="transcript-line">
-<span class="time"><strong>[00:19:24]</strong> </span>
-<span class="speaker"><strong>发言人1: </strong></span>
-第二点就是因为讲copilot其实是为了政治正确，然后为了表达说人类还是需要的，未来不能用AI替代人。只是我因为这样讲会，大家情感上接受起来会舒服一点。然后你直接讲说凡是工具性的事情应该AI，就是替代人。那讲这句话就很容易引起情绪上的不适，就会很想留言来骂我一句，对吧？所以的话大部分人不会这么说，所以我觉得这个是不对的对，如果你真的要讲生产力的话，其实就是把人类工具化。人类应该是目的不是工具，对吧？当我们把自己当做目的的时候，就是我就是本自具足的，我就本身就有价值。吃吃喝喝，睡懒觉我们就觉得很舒服。但是如果你把自己当工具，你就会觉得说我总应该做点什么，我应该总应该做出点什么，我总应该证明点什么？才能够证明我有价值，所以就会天天不开心。
-</p>
-<p class="transcript-line">
-<span class="time"><strong>[00:20:21]</strong> </span>
-<span class="speaker"><strong>发言人1: </strong></span>
-但是我们跟真正的工具相比，我们又很难真正的按照工具理性上的最优策略去行动。就比如说大家投资都知道那些大道理，但是都投不好？都知道要早睡早起，做不到？都知道每周要运动三次，做不到？都知道刷刷抖音刷一会儿就要停掉，或者不要刷，做不到是吧？
-</p>
-<p class="transcript-line">
-<span class="time"><strong>[00:20:42]</strong> </span>
-<span class="speaker"><strong>发言人1: </strong></span>
-对，所以我们都知道很多道理，就是工具理性上，其实我们脑子里框条条框框挺多，但是反正我们做不到，投资策略什么不要贪婪，或者别人贪婪的时候我恐惧，别人恐惧，这种道理每个人都讲得出来，做不到，但是工具做得到。所以理论上来讲，我们应该把这些工具的策略给工具，让工具发挥更好的价值。人类就是他们有什么地方需要帮忙的时候，人类过去帮帮忙。所以人类在生产力的领域，其实人类应该是co pilot，然后应该让AI做pilot。
-</p>
-<p class="transcript-line">
-<span class="time"><strong>[00:21:14]</strong> </span>
-<span class="speaker"><strong>发言人1: </strong></span>
-那你可能会说其实AI现在不靠谱，比如说AI开车开不好什么的。但是我觉得其实第一个就是AI会不断进步，对他的进步速度远远的大于人类的智商的进步。第二点，就算他没有进步，我们现在衡量他们的标准是有问题的。比如说我们觉得人类开车比那个机器开的更好，说不放心他开。其实我就觉得说，开车肯定开的比我好，我都不太敢上路。对，所以的话人类开车更好，只是因为车子是为人类设计的，所以你那辆车大部分是还是为我们我们设计的。我们这个任务设计的本身就是为人类的优缺点设计的，所以你让他硬塞进来就会觉得有多种不合适的地方。
-</p>
-<p class="transcript-line">
-<span class="time"><strong>[00:21:55]</strong> </span>
-<span class="speaker"><strong>发言人1: </strong></span>
-那这边的话下一代的AI产品我们可以再开放思路一下，可以想一想有没有可能会为AI原生设计。比如说做PPT。如果你已经有了一整套的思考，然后你让AI帮你完善，帮你做，你会发现他他想的总归没有你想的好。因为PPT这种做事儿的方法就是人类的工作流，你把它套进来就套不合适。
-</p>
-<p class="transcript-line">
-<span class="time"><strong>[00:22:17]</strong> </span>
-<span class="speaker"><strong>发言人1: </strong></span>
-但是如果你告诉他说你设计PPT的目的是什么，让他去生成20条故事线，然后来证明。比如说证明说明年我们应该打下沉市场，然后他去设计20个故事线，然后在网上自己根据这20个故事线去找材料支撑，找那些漂亮的数字、图，什么麦肯锡的报告什么支撑。发现中间有15条故事线找不到资料走不通，还有五条故事线走得通。然后把这五条走得通的故事线，帮你塞了一堆资料，给你看，然后让你挑一个。
-</p>
-<p class="transcript-line">
-<span class="time"><strong>[00:22:48]</strong> </span>
-<span class="speaker"><strong>发言人1: </strong></span>
-就不是说你已经想出来一个故事线，然后让让他做一个类似的，或者做一个比你更好的。而是他会去探索更多用他的那个速度快，然后搜索广的优势来覆盖它。可能在第一步思考可能没有你想的好这个优势上，就把做PPT这个任务完全工作流改掉之后，改造成更加适合AI来做。很有可能你就会发现，其实应该以他为主，以我们为辅。
-</p>
-<p class="transcript-line">
-<span class="time"><strong>[00:23:12]</strong> </span>
-<span class="speaker"><strong>发言人1: </strong></span>
-或者说我们现在设计一个工作岗位的话，很少涉及一个岗位。又要懂比如说中国古典诗词，又要懂西班牙语，又要懂法语，又要懂什么微积分，又要懂量子力学，对吧？我们不会设计一个东西，它需要你100个领域的60分的知识。
-</p>
-<p class="transcript-line">
-<span class="time"><strong>[00:23:31]</strong> </span>
-<span class="speaker"><strong>发言人1: </strong></span>
-我们大部分是专业岗，但是AI其实非常适合做AI100个领域的横跨100个领域的这种事情。然后的话只是我们现在没有这方面的工作而已。如果我们发现说未来AI哪怕不进步，他我们为了适合它的特点，应该重新定义工作，重新定义任务。
-</p>
-<p class="transcript-line">
-<span class="time"><strong>[00:23:50]</strong> </span>
-<span class="speaker"><strong>发言人1: </strong></span>
-这边举一个例子，这个在AI炼金术的公众号上也说过，就是如果这个世界是猫统治的对吧？他一定会去把任务，比如说抓老鼠这个任务，他一定会去测评测说他做出来这个猫工智能会不会爬树，能不能钻洞这些东西对吧？但是实际上他做出来的那个猫工智能很有可能是一种一种智能，就是跟他的那个智能的方向发展方向是不一致的那这种一种智能很有可能是比如说像狗，像狗的话其实就应该出去闻味道，去识别说老鼠会经过哪些地方，然后提前埋伏。整体的来讲，你就不要去测评它会不会爬树和会不会钻洞，你应该去设想的是它如何更好的去抓住老鼠。应该采用比如说叫做通过嗅觉识别老鼠路径，然后提前埋伏的方法。那整个的工作的定义应该改掉，然后用它把它给用好，然后自己做辅助。比如说去洞口堵住是吧？所以大家想一想，就是我们很有可能还是自己被自己的思维给局限了，我们可以思考的点会更多一点。
-</p>
-<p class="transcript-line">
-<span class="time"><strong>[00:24:54]</strong> </span>
-<span class="speaker"><strong>发言人1: </strong></span>
-这边我也想到说，前几天在跟朋友在沟通的时候就在讲说，其实大家有的时候我们用人类的方式去沟通的时候，还是太多的地方我们用了人类社会的隐喻，就会给我们形成条条框框。比如说在人类社会里面，你会觉得说一家公司的CEO是比较难当的。然后一家公司的实习生这个岗位是比较好拿的。所以我们就总想说，可能AI也要一级一级去搞。但是实际上你想想，实习生往往要做具体的事情对吧？他要完成具体的任务他完成不了的。但CEO往往是吸收大量信息，然后来做决策？或者提醒或者在点评比如说副总发过来的东西，说来你给我三个方案让我挑一下，然后再质疑说你有没有考虑这个点那个点。所以你会发现说，其实在管理大量信息的收集和权衡，就是信息的广广谱的吸收，然后再做决理性的决策。
-</p>
-<p class="transcript-line">
-<span class="time"><strong>[00:25:49]</strong> </span>
-<span class="speaker"><strong>发言人1: </strong></span>
-甚至于在教练式沟通管理方面，其实AI会做得更好。他不需要干实事，反倒干得更好。所以很有可能AI会先做CEO，最后才能做成一个合格的实习生。所以讲这么多其实就是为了给大家讲一堆有的没的的话。大家可以开放一下思路去去想AI产品的原生产品的设计，不要框住了就把它想象成一个人，然后又把人类社会这一套奇奇怪怪外面就套进来了。
-</p>
-<p class="transcript-line">
-<span class="time"><strong>[00:26:20]</strong> </span>
-<span class="speaker"><strong>发言人1: </strong></span>
-第六条就是讲拆解流程，我们才能用上AI但是重构流程才能用好ai，我现在也是几家上市公司的AI方面的顾问。然后会跟大家讲说，你们要拆流程，然后把它拆成一个一个的task，把这一个工作拆成很多的任务。然后任务里面我们再看哪些可以用AI不能用AI的，我们用双钻模型先发散再收敛巴拉巴。对，这个往往是大家最好接受的，因为他其实就没有改你的工作流。然后大家一看说，AI可以做这个AI可以做那个，降本增效棒棒的对，但是实际上你会发现说这样的叫做AI转型的方法的话，在实际过程当中还是会遇到很多问题。因为第一个大家其实拆不下去，就是拆流程。很多时候之所以这是一个岗位，就是因为拆不清楚，然后模模糊糊的就这么干，对吧？
-</p>
-<p class="transcript-line">
-<span class="time"><strong>[00:27:12]</strong> </span>
-<span class="speaker"><strong>发言人1: </strong></span>
-然后另外一件事情就是专业人士对于AI做出来的东西都是不满意的。比如说他是一个编辑，然后你让AI帮他写东西，然后按照他的风格写，反正写出来他永远能够挑出毛病来。但是你反过来想说，如果我们不是去讨好他，因为讨好他的话就是去套原有的流程，你就会发现AI是一个叫做考备考试的角色。就是你会把原来那个东西当做100分，或者哪怕不是100分，原来那个东西做的也不好。但是你会去问原来那个人说他做AI做的好不好，他肯定给他评分不高，他会挑出他各种各样的毛病。所以的话建议是反过来让他去做新的题目改过来。
-</p>
-<p class="transcript-line">
-<span class="time"><strong>[00:27:52]</strong> </span>
-<span class="speaker"><strong>发言人1: </strong></span>
-比如说那个编辑就说，我写出来的东西是90分，那个AI做出来的又这里扣五分，那里扣五分，他就70分，还是不能用它来取代。那我们就说好不能用它来取代，我们来重新设计这个任务。我们不完成原来那个任务了，看看你原来那个任务是为了啥。比如说为了吸引流量，比如说每周发出一篇好文章，让我们的粉丝量变多，那我们就变成说那那主要是为了吸引流量。那有没有可能我用比如说一千篇70分的文章，做到比你原来一篇90分的文章更好的来吸引流量呢？比如说你原来一篇好文章只能发一个媒体，那现在是不是可以去知乎上找到1000个跟我们略微有点关系的问答。
-</p>
-<p class="transcript-line">
-<span class="time"><strong>[00:28:36]</strong> </span>
-<span class="speaker"><strong>发言人1: </strong></span>
-然后的话上去答题，回答的问题过程当中把自己的产品也带进去，对吧？那这样子的话对于要求就不高了。对于文章的要求，因为你不是说一篇文章你还要花3000块钱媒体费用去推，而是就到知乎上去发，对吧？那我一周可以搞一千片，你一周只能搞一篇，那我能不能以量取胜？我们可以重新退回到我们工作的目的，然后从目的再重新设计我们的工作流和任务，而不见得是要把AI欠到原有的工作流里面。你切到原来的工作流里面。就是会比较在我发现比较在沟通的时候会比较受欢迎，但是之后会遇到另外的其他的问题。
-</p>
-<p class="transcript-line">
-<span class="time"><strong>[00:29:16]</strong> </span>
-<span class="speaker"><strong>发言人1: </strong></span>
-这是第六条非共识。那我再讲第七条非共识，这个就更加政治不正确了。目前来看的话，AI其实是一个非常高效的小偷。因为传统的知识都是固态的。比如说一本书，他写了一个字儿的一首诗，然后一幅画。那现在的话其实AI做到的事情是他把所有原有固态的这些知识产权把它变成了水。就是原本都是冰块，它把它变成了水，把它变成了液态。但是它又有一个方法可以让它在不同的模具里面重新凝结成固态。
-</p>
-<p class="transcript-line">
-<span class="time"><strong>[00:29:51]</strong> </span>
-<span class="speaker"><strong>发言人1: </strong></span>
-那这个时候的话，你偷东西就很难被看出来。比如说有一个网站，就是那个cuba什么东西。然后的话你看到这个网站里面的话，他就会发现说那个那个人是个讲播客的，每一期播客讲两三个小时可长了。然后就有一个网站，就是把他的那个播客都放进去了。
-</p>
-<p class="transcript-line">
-<span class="time"><strong>[00:30:09]</strong> </span>
-<span class="speaker"><strong>发言人1: </strong></span>
-然后的话就会跟大家聊说这个博客，你可以跟他的那个用他的播客语训练出来的这个人，跟他去沟通，然后去问他，比如说我昨天晚上没睡好是什么原因，然后他就会跟从什么神经学角度跟你讲，然后引用他自己播客里面的材料。这个网站好像是他自己做的，所以没有什么问题。他好像叫做什么huberman lab，然后好像没什么问题。但是你想想这个是不是其实我也不需要经过他同意，因为他的博客都放出来了，我可以帮他做一个是吧？那我帮他做一个其实本质上是在偷他的知识。但是我会偷的好像又跟原来不一样，原来我会把他的一段话考过来，对吧？
-</p>
-<p class="transcript-line">
-<span class="time"><strong>[00:30:49]</strong> </span>
-<span class="speaker"><strong>发言人1: </strong></span>
-但我现在没考，我只是用它来训练了我的模型，说你要根据他的回答来说，然后我甚至就可以说的时候说请模仿比如说海绵宝宝的说话风格来说，这样子你就更看不出来了。所以这样子的话你就会发现说，其实这一次AI的革命的话，会带来一个非常大的变化。就是它会让知识产权会液化。液化完了之后的话，其实存在着一波很大的冲击。就是原有你是掌握知识产权的人的话，很有可能你的东西是没法保护的。以及如果你是土匪的话，现在你是很有可能拿这个东西来抢东西。
-</p>
-<p class="transcript-line">
-<span class="time"><strong>[00:31:24]</strong> </span>
-<span class="speaker"><strong>发言人1: </strong></span>
-我再举几个例子，举几个非AI领域域的例子让大家想想。就比如说搜索引擎，大家现在觉得百度能够搜到东西，google能够搜到东西合情合理是吧？但是其实他们刚刚出来的时候，天天被打官司，天天被告说凭什么你可以收录，对吧？后来有一个什么协议？Robot什么的。然后大家现在想想说搜索引擎合不合理。
-</p>
-<p class="transcript-line">
-<span class="time"><strong>[00:31:45]</strong> </span>
-<span class="speaker"><strong>发言人1: </strong></span>
-还有一个例子就是中国的例子，就是樊登读书合不合理。因为樊登读书，樊登就是把书里面的段子和一些好玩很多东西会讲出来，用他的语言讲出来。但是那个知识其实是经过他的大脑吸收了，然后再讲出来的那这个算侵权吗？对，那如果AI把所有的东西也是他读懂了，然后讲出来，然后甚至于根据你的当下的情况跟你有针对性的讲出来。这个算侵权吗？如果不算侵权的话，那那那怎么办？如果算侵权怎么办？
-</p>
-<p class="transcript-line">
-<span class="time"><strong>[00:32:14]</strong> </span>
-<span class="speaker"><strong>发言人1: </strong></span>
-然后短视频？现在经常经经常大家会看到什么？这个男人叫小强，这个女人叫小美小帅，对吧？那短视频平把那个电影给模块化剪成五分钟，这个合不合理？
-</p>
-<p class="transcript-line">
-<span class="time"><strong>[00:32:26]</strong> </span>
-<span class="speaker"><strong>发言人1: </strong></span>
-然后比如说你看了一个小红书，你的竞品他的那个小红书的文章爆款风格特别好。你就跟AI说，来学一下这篇风格，然后把帮我写一篇。其实他是根据那篇小红书的爆款文案的风格帮你写的，你模仿了他的风格，这个时候算不算偷东西？所以这边我也不知道答案，就是给大家想一想有没有可能这次是一个新的偷窃技术。然后如果它是一个新的偷窃技术的话，你如果有资产的话，有没有可能保护，还是说你要拥抱。如果你是拥抱的话，你是做土匪这一方，做强盗这一方的话，那如何去抢东西是又有效的，但是晚上又是睡得着觉的那怎么找到这个平衡点到底在哪里？
-</p>
-<p class="transcript-line">
-<span class="time"><strong>[00:33:13]</strong> </span>
-<span class="speaker"><strong>发言人1: </strong></span>
-好，第八条过得快一点，因为这一条挺挺晦涩的，叫做AI是照相机不是引擎。对，这有一篇文章其实我看了，我觉得真的是让我整个人都震掉了。但是我给徐同学看，徐同学说我真的没有理解你为什么这么那么喜欢这篇文章。
-</p>
-<p class="transcript-line">
-<span class="time"><strong>[00:33:29]</strong> </span>
-<span class="speaker"><strong>发言人1: </strong></span>
-那篇文章的观点就叫做AI式照相机，不是引擎。因为如果它是引擎的话，它就更像是比如说CAD就是你可以用它画画对吧？用它做出什么3D设计，它是无中生有。但如果它是一个照相机，它是一个望远镜的话，它其实不是无中生有。它是帮助我们把一件事儿给看更清楚，对吧？比如说你一个望远镜，你去盯着月亮看你没法改月亮是吧？你最多也就改，你比如说颜色看的清楚一点，不清楚一点，分辨率高一点点，低一点，但是月亮还是月亮，对吧？你不能改月亮。
-</p>
-<p class="transcript-line">
-<span class="time"><strong>[00:34:03]</strong> </span>
-<span class="speaker"><strong>发言人1: </strong></span>
-所以的话这边其实一直也不是一直，就是偶尔会有一些人有观点说，我们现在都把它当引擎在做，我们甚至于认为它是一个智慧，那它究竟是不是一种智慧，还是一个它其实只是帮助我们看清世界的一个方式。那这里面关键的底层的哲学上的想法，其实就是叫做说智慧是数据的特性，还是说一种独立的能力。数据是数据的特性，就是攒到足够多的数据之后，它就会产生一种东西叫做智慧。
-</p>
-<p class="transcript-line">
-<span class="time"><strong>[00:34:37]</strong> </span>
-<span class="speaker"><strong>发言人1: </strong></span>
-还是说智慧是一种单独发展的一种很独特的能力，它是用来处理数据的那如果智能是数据的特性的话，那可能我们就并不是要培养各种各样的那个培养一个AGI去解决各种问题。而是可能我们需要积累不同领域的数据，然后它会自己产生它的一种特别的智能。然后我们做出一个翻译来搭个桥让我们理解。比如说对于太阳来说，可能我们就会把太阳的各种数据灌进去。灌到足够多的太阳的数据之后的话，它会自己产生智能。然后这个时候我们的一个AI和太阳的那个AI他们就可以聊天。我们就问我们的AI说，你帮我问一下，你下一次太阳黑子爆炸什么时候？然后他就说我会在什么时候爆炸，然后说的他听懂，然后中间我们的AI帮。
-</p>
-<p class="transcript-line">
-<span class="time"><strong>[00:35:23]</strong> </span>
-<span class="speaker"><strong>发言人1: </strong></span>
-翻译一下，就是假设这个判断是正确的，智能是数据的属性，而不是一种独立的能力的话。那我们有可能会通过喂养不同的数据，产生不同的一种智能，然后让他们开始沟通，然后人类成为智能中间的一种。我们所做的AI其实最主要的是我们的一个翻译器的功能，让我们跟万物有灵，然后去跟万物的灵去沟通。但是这讲的有点玄幻了OK这是第八条。
-</p>
-<p class="transcript-line">
-<span class="time"><strong>[00:35:53]</strong> </span>
-<span class="speaker"><strong>发言人1: </strong></span>
-第九条就是我觉得AI产品经理的第一性原理就是忘掉现在的解决方案。因为我们都会默认现在的解决方案是合理的，对吧？但是实际上都是某个人某年拍脑袋拍出来的这句话往再书面化一点讲，这个也在AI炼金术的那个公众号上提过。
-</p>
-<p class="transcript-line">
-<span class="time"><strong>[00:36:13]</strong> </span>
-<span class="speaker"><strong>发言人1: </strong></span>
-当下状态是一种构建，而不是一种天经地义。比如说我们就会很自然的觉得说你修改网页应该是独立的修改。然后再在一个浏览器里面去那看他到底修改的对不对，对吧？你修改一个网页是啥？但是我们默认说你在word里面你打出来那个字的话，就应该最后就比如说打印出来那个字就在那里，所见即所得。那为什么我们是先发明的所见即所得，但是后搞的那个网页这些东西，那为什么网页没有做成所见即所得的呢？这其实就是一个很奇怪的一个路径的选择。所以在这个时候的话，很有可能我们会要求说我们对于新的产品的设计。
-</p>
-<p class="transcript-line">
-<span class="time"><strong>[00:36:54]</strong> </span>
-<span class="speaker"><strong>发言人1: </strong></span>
-为了摆脱现在的一些我们习惯的观念的束缚的话，可能有不同的方法。一种方法就是理念先行。比如说你就觉得这个世界应该所见即所得，然后你用这个理念去重新设计一切的产品。这样子因为有一个理念把我们往前带，这样子可以让我们忽略掉当下的很多的惯性，我们看不见的隐含假设的束缚，这个会有价值。
-</p>
-<p class="transcript-line">
-<span class="time"><strong>[00:37:20]</strong> </span>
-<span class="speaker"><strong>发言人1: </strong></span>
-还有一种的话，就是我会觉得说现在越来越理解到要去看几十年前的人的想法。因为他们比如说没有经过移动互联网，那他们的想法的话其实是基于当时的一些隐含假设的对，所以他们有的时候对于未来的那种很科幻的想法的话，反倒是没有被污染的一些非常天真的或者非常没有边界的想法。那些想法反倒可以帮助我们看见问题的本质，而不是在想在现在的一些产品上加个button，或者加个AI的框在旁边什么copilot一下，我们就他就想象力太有限了。
-</p>
-<p class="transcript-line">
-<span class="time"><strong>[00:37:56]</strong> </span>
-<span class="speaker"><strong>发言人1: </strong></span>
-对，所以可以多去看看老文章。之前我一直是在订阅少男他们的那个产品城思路，他们经常发一些那种很古老的文章。对，然后我之前其实就随便看看，然后最近就在非常认真的看这方面的东西，就会觉得说这个东西真的是有用的，就是因为他过时了，所以没有用。对，当下的东西真的就是我们都在同一个bubble里面，同一个隐含假设的约束里面，我们自己看不见。然后同时代的人，我们看上一个时代的人，他的隐含假设他的bubble不太一样。这个时候往往就能够帮我们显著的打开视野。所以我就应该认认真真的看他们上面的一些老文章。
-</p>
-<p class="transcript-line">
-<span class="time"><strong>[00:38:37]</strong> </span>
-<span class="speaker"><strong>发言人1: </strong></span>
-OK, 这是第九条。在这里面插播一个广告，就是我现在在做一个面向海外市场的AI方面的孵化器。所以如果你是AI方面想要创业的话，可以联系会有大家应该可以再想办法找到我的公众号，或者找到我的那个邮箱。
-</p>
-<p class="transcript-line">
-<span class="time"><strong>[00:38:57]</strong> </span>
-<span class="speaker"><strong>发言人1: </strong></span>
-这边的话可以提供几十万美金，100万美金的一个启动资金。然后每个项目的话如果要多的话也是可以的。我也可以按照VC的投资的逻辑来投，也不一定是孵化。但是如果你是孵化的话，除了这些之外的话，我们可以提供海外的一些营销能力。甚至于也可以帮你提供产品能力，或者帮你把AI产品化。
-</p>
-<p class="transcript-line">
-<span class="time"><strong>[00:39:18]</strong> </span>
-<span class="speaker"><strong>发言人1: </strong></span>
-但是希望说你的东西不是一个idea，因为idea真的不缺我现在比较缺的两个东西，反倒是我需要的是海外市场的真实的洞察。这个东西你得告诉我说做了真的卖得掉了。然后他上来的话，比如说多几多少个月可以打平，多少个月可以做大，对吧？所以海外市场的洞察和真正的营销获客能力，其实在我这边看起来是比产品能力更重要。因为实在不行，产品我帮你做，只要你确认说上线就能卖掉1万个，对吧？每一个卖100美金，那也开开心心的。所以的话希望说是你是海外的市场洞察，而且这个洞察要有证据，然后最好你有把这个洞察给抓住，变成钱，变成用户的能力。那这边可以给你配那个研发也可以配，然后钱也可以配，海外营销也可以配对。
-</p>
-<p class="transcript-line">
-<span class="time"><strong>[00:40:07]</strong> </span>
-<span class="speaker"><strong>发言人1: </strong></span>
-但是最关键就是这东西能卖掉，这是关键。然后一定要有证据，没有证据的都当是瞎说。对，所以好，广告插播完毕，我们讲第十条。
-</p>
-<p class="transcript-line">
-<span class="time"><strong>[00:40:17]</strong> </span>
-<span class="speaker"><strong>发言人1: </strong></span>
-第十条就是我们定义的产品的用户很有可能不是用户，而是用户的老板。什么意思呢？就是比如说你做个画图的应用，对吧，那我们就会说那个图应该画的怎么好啊怎么好。但是很有可能你会发现你做的画图应用是在不断的替换掉现在在使用你这个产品的人的。
-</p>
-<p class="transcript-line">
-<span class="time"><strong>[00:40:37]</strong> </span>
-<span class="speaker"><strong>发言人1: </strong></span>
-那最终使用这个产品的人会是当下的这个用户的老板。因为他其实是比如说一个画图好了，原本的话他就在指挥自己的那个设计师说，你要把这个黑色改亮一点，改改暗一点，然后设计师就在吭哧吭哧改。然后一开始可能是设计师在用你这个画图的这个AI，但是用着用着老板就会发现说，好像他他也是在跟他说，你要把这个背景改亮一点，改暗一点。那我可以直接说。所以的话就是你会发现说很有可能最终的使用场景并不是当下的第一批early doctor，就是这些专业人士，而是使用这些专业人士的他们的老板或者客户，对吧？
-</p>
-<p class="transcript-line">
-<span class="time"><strong>[00:41:18]</strong> </span>
-<span class="speaker"><strong>发言人1: </strong></span>
-我们的产品所服务的对应的那个droops to be done的话，可能会越来越抽象。原本比如说PS它对应的是像素，它操作的那个东西也是像素。然后菲格玛对应的是比如说设计稿，然后如果说AI的话，它可能对应的是意图。
-</p>
-<p class="transcript-line">
-<span class="time"><strong>[00:41:33]</strong> </span>
-<span class="speaker"><strong>发言人1: </strong></span>
-再往上，如果是在一家公司里面，很有可能你的用户的话就从原来那个干活的人变成了指挥干活的人的那个老板。或者说你如果是在一个链条上面的话，就变成了原有那个人的甲方。所以这边的话也就变成说，如果它本来是个降本增效的应用的话，很有可能砍的是第一刀，就是用户本身，然后你成为他的上游。那对于如果他是一个降本增效的一个项目的话，我现在在有一些公司也发现说他就会变成AI。革自己的命很难，但是他砍挥刀砍上下游会比较简单。比如说你让设计部门去思考说AI怎么样辅助设计，它就可以挑出100个毛病。但是你让营销部门说你要不要有些设计稿，有些海报自己出，大家都会觉得好像还挺好用的对所以很有可能会这个抽象层次往上走的话，那么原来的具体的功能岗可能会受到的第一波冲击。我们在设计我们的用户究竟是谁的时候，可以往上想一想。
-</p>
-<p class="transcript-line">
-<span class="time"><strong>[00:42:32]</strong> </span>
-<span class="speaker"><strong>发言人1: </strong></span>
-第11条倒数第二条叫做穷惯了，要学习过富裕日子。什么叫做穷惯了呢？就有点像是比如说大家经常听到这种故事，就是家里住个大别墅，结果什么妈妈爸爸来了之后还出去捡那个废纸，然后去卖，然后堆满了，对吧？就在那个时代的话，就是东西很稀缺，他就总想多攒点钱什么的。但是如果东西不稀，就哪怕到了东西不稀缺的时候，有钱的时候，我们也很难转过来。
-</p>
-<p class="transcript-line">
-<span class="time"><strong>[00:43:01]</strong> </span>
-<span class="speaker"><strong>发言人1: </strong></span>
-比如说我们过去什么是稀缺的呢？我们过去就是智慧是稀缺的，智能是稀缺的。所以我们在做一切设计的时候都会有一个默认假设，就是尽量节约。有点像假如我们小时候的接受过教育，叫节约用电。那我们其实有一个默认的叫做智慧是很贵的，我们要节约用智慧。
-</p>
-<p class="transcript-line">
-<span class="time"><strong>[00:43:23]</strong> </span>
-<span class="speaker"><strong>发言人1: </strong></span>
-你举个例子，比如说批改作文这件事情。我们如第一步想到你要用AI如何批改作文，你就会想说让AI提出来意见，让他取代老师。老师的批改的话他可以做的更仔细，一定要把什么好话，每每篇什么作文勾选出什么优秀的地方，然后给孩子好的建议。不拉，很容易往这个方向想。但你仔细想想，就是批改作文这件事情本身就有问题。这是在智能稀缺的时代的不得不的产物。
-</p>
-<p class="transcript-line">
-<span class="time"><strong>[00:43:55]</strong> </span>
-<span class="speaker"><strong>发言人1: </strong></span>
-老师为什么要批改作文？你仔细想想，为什么老师不给学生打样？是因为在上面圈一圈，然后提两句意见，说说好坏坏的话。点评是比创造在智力上消耗更小的操作。你想让老师比如说帮不同的孩子根据他的个性写50篇文章比较容易，还是他去打50个分数，然后写几句评语比较容易，吧？那一定是点评比创作容易。那那我们如果在之前的这种智力稀缺的时候，我们思考的点的话就是把它变成点评批改？批和改。
-</p>
-<p class="transcript-line">
-<span class="time"><strong>[00:44:30]</strong> </span>
-<span class="speaker"><strong>发言人1: </strong></span>
-这个时候的话，我们在做AI的时候仍然想着是优化批改，就会掉到老路的坑里面，用新科技走老路？没有用。那这个时候的话，其实如果创造很简单的话，其实孩子写完作文之后应该是告诉他说，哪一段你写的这这哪几段。的话我觉得写的挺好的。然后这一段的话我告诉你说还有几种不同的搞法。
-</p>
-<p class="transcript-line">
-<span class="time"><strong>[00:44:54]</strong> </span>
-<span class="speaker"><strong>发言人1: </strong></span>
-就比如说我用朱自清的方法写一遍，我用老舍的方法写一遍，我用比如说李白的方法写一遍，然后分别让你看。然后孩子你更喜欢哪一种？然后发现你更喜欢这个风格，下次我就按照这个风格告诉你说其实可以怎么改。那你觉得你跟这个风格的差异主要是哪里？你看其实你只要改这两个字，是不是就更像比如说李白的风格了？是的，然后那我再演示几个给你看。孩子你看这个李白的风格，比如说你很喜欢那个奥特曼，那我们就讲一个奥特曼的故事。用李白这种风格再搞一个奥特曼的故事，那相当于我们在这里面投入了一个巨大的智能的资源帮他就是写，然后根据他的偏好去去引导。
-</p>
-<p class="transcript-line">
-<span class="time"><strong>[00:45:35]</strong> </span>
-<span class="speaker"><strong>发言人1: </strong></span>
-原本是做不到的，但是其实因为现在智能很便宜，所以我们就要朝着这个浪费的方法去做吧。而不应该是原本我们受限于智能很贵的时候，定义了一个比如说对作文的一个反馈叫做批改。我们现在就用批改这种方式，这是一种智力上的偷懒，就是用新科技走老路。所以大家可以打开思路一下，想想看有没有可能我们基于浪费来设计，而不要基于稀缺来设计。
-</p>
-<p class="transcript-line">
-<span class="time"><strong>[00:46:03]</strong> </span>
-<span class="speaker"><strong>发言人1: </strong></span>
-好，最后一个就是叫做非用户，才是新用户，才是好用户。很多时候我们设想的AI的产品的话，打的其实是原来已经在用某种产品的人。然后再说我的东西比他更好，你比如说你那个那个脑图不好用，我的脑图更好用，你的那个excel不好用，我的有AI我的旁边还可以教你写公式，我的更好用。很多是这个其实不太好。
-</p>
-<p class="transcript-line">
-<span class="time"><strong>[00:46:29]</strong> </span>
-<span class="speaker"><strong>发言人1: </strong></span>
-对我觉得主要是两点不太好，一个就是打不过，如果你是在打一个老市场的话，那么老市场已经有用户了，已经有成熟的产品。比如说已经有office，已经有PS对吧？那这个时候的话，他们也会加AI，他们也不傻，最多也就是因为他们因为合规什么的事情会慢一点，但是迟早会加的。所以你做好之后的话，大概率别人还是会在，我我看我见到现在有很多人在做office AI就是在做一整套什么新的AI过AI什么的。我就会觉得说人家会是word本身office他们本身就会出copilot。你在这边做的话，当然不如他上面直接加一个。所以你和他最后会殊途同归，都是一个大的工具加上AI你是从AI走过去，他是从工具走过来，他那边已经有了强极强的用户习惯和极大的用户的base，所以这样走过去是打不动的。所以我觉得面向老用户的老应用场景是真的是没有用的。
-</p>
-<p class="transcript-line">
-<span class="time"><strong>[00:47:27]</strong> </span>
-<span class="speaker"><strong>发言人1: </strong></span>
-但是我觉得新用户才是好的，就比如说像那个Midjourney，像我跟徐文浩这个炼金术的这这个logo。其实当时就是在一个群里面，大家就用midjan y在画logo，画了十分钟，画了好多个。然后说那我们就这个大家可以看到大概是一两年前的mid june的水平，你可以看到那个字写的乱七八糟的就用了呗。所以对于我来讲的话，之前我是不会想到我自己去画个logo的。所以我其实在之前的叫做美术设计市场，我是个非用户。那这个时候的话，把我抓进去不就更好了，对吧？把我抓进去就去就就我不会去挑剔说你看这个字这个构图比例不对，对于我来讲能出张图就很好了。所以的话其实这才是一个更广的用户。
-</p>
-<p class="transcript-line">
-<span class="time"><strong>[00:48:11]</strong> </span>
-<span class="speaker"><strong>发言人1: </strong></span>
-或者再举一个例子，就是比如说ChatGPT，很多东西他会数学也不太好，他只能做简单的线性回归分析，对吧？你要稍微深度一点的建模，就建得乱七八糟的。但是中国或者整个全球来讲，大部分的营销的人其实数学都没那么好的能见能建个什么线性回归，什么归因分析的人我估计100个里面最多找出来半个。那这个时候的话，他把99个人都有了一个最简单的建模能力。说哪个因素比如说对于销售影响最大，那这个时候你就是一个很好的产品了。他不是说原来的那些，比如说那个会用什么SSPSS，SaaS，对还什么SP叉叉叉什么status，它不不或者更高级的工具。他不是说这些人的，你说这些人的话，你就会觉得AI工具屁用没有。但是世界上99.9%的人不知会用这些。
-</p>
-<p class="transcript-line">
-<span class="time"><strong>[00:49:00]</strong> </span>
-<span class="speaker"><strong>发言人1: </strong></span>
-那你打一个更广阔的新市场不好吗？这个新市场也有需求的，只是他们被原有的产品拦在了外面。这有点像昨天有人给我发美图秀秀的那个那个报告，是吧？就是他们今年赚了很多钱，去年赚了很多钱，那美图秀秀就是一种，对吧？
-</p>
-<p class="transcript-line">
-<span class="time"><strong>[00:49:15]</strong> </span>
-<span class="speaker"><strong>发言人1: </strong></span>
-美图它你去想说它比PS更好吗？它是说什么？那个做设计的人更好的用PS？不是，对吧？但是他可以让每个人都可以把自己的皮肤弄好一点，照片好看一点，什么眼睛放大一点，这就是一个更广阔的市场。所以大家可以考虑说，用AI做出来的产品，可以不要去瞄向已有的老市场，要瞄向一个拥有更广泛的需求，但是被已有的产品的门槛挡在外面的那个新市场，这批用户会更好伺候一点。
-</p>
-<p class="transcript-line">
-<span class="time"><strong>[00:49:46]</strong> </span>
-<span class="speaker"><strong>发言人1: </strong></span>
-其实有点像比如说做法律的AI有像harvey这种to大律所的那就是巨头的打法。但是你也可以做什么呢？你也可以做就是做像do not pay这种，就是帮你去做特别小的什么几十美金、几百美金的案子。你原本不可能请一个律师去帮你处理一个几百美金的案子，对吧？你请他的律师费都不止。但是现在如果AI来做这个市场的话，他就没有原有的人类竞争对手。你比如说高速上被开了一张罚单，你也可以让AI律师帮你去想办法把这个罚单给取消掉。这其实就是一个很广阔的市场，或者说像教育，像原本没有的市场，原本被工具挡在外面的这个市场才是更大的一个市场。
-</p>
-<p class="transcript-line">
-<span class="time"><strong>[00:50:29]</strong> </span>
-<span class="speaker"><strong>发言人1: </strong></span>
-大家仔细想去想想，拼多多怎么做起来的？早期其也是这么做起来的。他早期抢的并不是天天用京东和淘宝的人，他早期抢的很多的用户，我根本手机上没有京东、淘宝，是他们手机上只有微信。然后他们也不理解那购物车概念，也不理解说那个分类导航概念。是这样一批新人才把拼多多的第一步的基本盘给弄起来了。因为微信把整个的移动互联网上网的门槛给拉下去了，存在了一批新的网民，他把这批新网民给抓住了。所以我们也那也要看看说科技是不是可以把一批被我们忽略掉的人拉进了整个数字时代。
-</p>
-<p class="transcript-line">
-<span class="time"><strong>[00:51:07]</strong> </span>
-<span class="speaker"><strong>发言人1: </strong></span>
-然后这批人的话，我们可以为他们做点什么。然后这边有一个我举了千百次的例子，就是他不给盲人用的。然后盲人的话其实平时出去穿衣服，我不知道哪条裙子更的颜色更衬我。我也不知道这瓶酱油到底跟那瓶酱油有什么区别，甚至于牛奶有没有过期。现在的话只要拿着手机对着他的话，我问他他就会都告诉我。像这种盲人的这种服务的话，我们之前想都没想过是吧？甚至于我早两天听那个vision pro的一个forecast的话，他在说很多的残障人士，就是比如说他不能离开家或者生病了，然后你让他带上微信pro就是感受到他在爬山什么的，这个感受就可以让人直接流泪。然后我就说对对对，我之前从来没有这样想过，我就会觉得我去看个风景。
-</p>
-<p class="transcript-line">
-<span class="time"><strong>[00:51:53]</strong> </span>
-<span class="speaker"><strong>发言人1: </strong></span>
-对，所以很多的用户是在我们的思考范围外的那如果我们可以帮助到那些真正需要帮助的人，而不是帮助那些已经用office，已经用什么用的挺好的。然后我们想办法通过打折补贴把他们抢过来，而是去帮助真正有需要，但是被成本也好，被使用门槛也好，挡在外面的人。然后我们让他们能够比如说看见这个世界。这种事情第一在商业价值上更高。第二如果真的做出来be my ice这种这种东西，你会觉得说好像就更值得。比如说有个当有孙子的时候，有孙女的时候，对吧？爷爷当年做了这个东西就很值得炫耀，就是为人类做贡献，就不光是赚钱。所以我会觉得大家也可以想一想，非用户而不是去抢老市场，这里面可能有更大的机会。所以的话就是我们在做产品的时候的一些非共识。
-</p>
-<p class="transcript-line">
-<span class="time"><strong>[00:52:46]</strong> </span>
-<span class="speaker"><strong>发言人1: </strong></span>
-大部分如果你想了解详细一点的话，大部分应该在之前的AI炼金术的公众号上有相关的文章写过，也可以过去翻一翻。欢迎大家留言讨论。然后也欢迎大家把AI炼金的公众号和我们的这个播客评论、点赞、然后好评，推荐给更多的人，发到各种各样的群里。看到数字上涨，虽然我们不靠这个挣钱，但是看到数字上涨，还是会能够很满足我们的虚荣心的。
-</p>
-<p class="transcript-line">
-<span class="time"><strong>[00:53:17]</strong> </span>
-<span class="speaker"><strong>发言人1: </strong></span>
-然后的话如果你是啊想要创业的话，然后又有海外的市场洞察和搞得定海外用户的话，尤其是你对于海外的influence or的marketing这方面比较有研究的话，欢迎找我来聊。可以发邮件给我，上面注明AI炼金术就好。然后的话如果你是这方面的什么产品经理什么的，你想找个工作或者看创业机会，或者你是一个这方面AI方面的研发的话，也可以发邮件给我我我跟徐文浩最近也在还除了孵化项目以外也在招人，对吧？我们两个是在各自在做不同的事情，他做的比较高科技一点，我做的比较偏商业一点。对，单口讲1个小时好累。好，拜拜，谢谢大家，拜拜。
-</p>
-<p class="transcript-line">
-<span class="time"><strong>[00:54:02]</strong> </span>
-<span class="speaker"><strong>发言人2: </strong></span>
-later.
-</p>
-<p class="transcript-line">
-<span class="time"><strong>[00:54:11]</strong> </span>
-<span class="speaker"><strong>发言人2: </strong></span>
-why? Honest don&#x27;t know. why?
-</p>
-<p class="transcript-line">
-<span class="time"><strong>[00:54:25]</strong> </span>
-<span class="speaker"><strong>发言人2: </strong></span>
-I always so good and.
-</p>
-<p class="transcript-line">
-<span class="time"><strong>[00:54:38]</strong> </span>
-<span class="speaker"><strong>发言人2: </strong></span>
-Super big skies and cheap whatever happened.
-</p>
-<p class="transcript-line">
-<span class="time"><strong>[00:55:00]</strong> </span>
-<span class="speaker"><strong>发言人2: </strong></span>
-Baby, you are the rest in peace.
-</p>]]></content:encoded>
-            <pubDate>Sun, 24 Mar 2024 12:13:32 GMT</pubDate>
-            <guid>66001fe5066f8f9252e0c8ae</guid>
         </item>
     </channel>
 </rss>
