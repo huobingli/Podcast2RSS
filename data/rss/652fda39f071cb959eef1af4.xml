@@ -4,7 +4,1545 @@
         <title>虚实之间True Imagination</title>
         <link>https://www.xiaoyuzhoufm.com/podcast/652fda39f071cb959eef1af4</link>
         <description>以独特视角拆解商业、社会与前沿科技</description>
-        <lastBuildDate>Sat, 12 Apr 2025 04:49:27 +0800</lastBuildDate>
+        <lastBuildDate>Wed, 23 Apr 2025 18:22:07 +0800</lastBuildDate>
+        <item>
+            <title>E069 无处安放的隐私---“开盒”黑产、社工学与网暴情绪密码</title>
+            <link>https://www.xiaoyuzhoufm.com/episode/680765dd8aed253fa3d56dbd</link>
+            <description>近期，互联网上出现的“开盒”事件再次引起了大家关于隐私保护及网络暴力的注意，这期节目，我们从事件本身切入，为大家讲述“开盒”背后的黑产链条、科学上网减少隐私泄露的方法以及在本次事件所体现出的网暴背后的情绪问题，用不一样的视角来分析这次事件。
+本期主播：
+老饕、活在当下
+本期内容：
+02:01 “开盒”事件回顾
+04:45 “社工库”和其交易载体Telegram
+10:14 隐私数据贩卖产业链的上游和中游
+18:47 社会工程学和隐私泄露的关系
+25:15 我们是如何主动奉上隐私信息的
+29:58 如何科学上网才能减少隐私泄露
+35:47 愤怒、怨恨、愤慨三种情绪的学术区分
+41:05 事件中各方究竟产生了哪种情绪
+44:07 我们如何应对来自互联网的恶意
+50:32 恶行不能以所谓的“正义”立场来做包装
+本期音乐：
+Float --- Notize
+本期参考新闻报道、行业报告、论文：
+《饭圈网暴漩涡》 财新周刊 关聪 著
+《「人肉」产业游戏：起底外网空间里的个人隐私交易》 财经杂志 王勇 著
+《“人肉开盒”深度调查：谁在售卖你的隐私》 第一财经 杜清韵等人 著
+《数据黑市起底：市场规模估计已超1500亿，“一切需求皆可爬”》 证券日报 刘琪 著
+《揭秘互联网大厂的隐私贩卖产业链》 李婷、舒怡然 著
+《50多项个人隐私信息被明码标价，“开盒”灰产链曝光》 第一财经 吕倩等人 著
+《电子商务生态安全白皮书》 电商生态安全联盟 发布
+《Anger and Its Cousins》 Maria Miceli，Cristiano Castelfranchi 著
+本期推荐影视作品：
+《我是谁：没有绝对安全的系统》 导演：巴伦·博·欧达尔
+《你安全吗》 导演：曹盾
+本期文稿后续将发布在微信公众号：虚实之间True Imagination
+节目微博：虚实de老饕、虚实de活在当下</description>
+            <content:encoded><![CDATA[<h1>转写链接</h1>
+<link>https://tongyi.aliyun.com/efficiency/doc/transcripts/47z39vpw4vwm9edg</link><br>
+<h1>节目摘要</h1>
+<div class="summary">本次讨论深入剖析了网络安全、个人隐私保护、舆论极化及网络暴力等多重议题。指出网络黑产规模庞大，对社会构成重大威胁，通过“开盒”事件等案例强调了网络安全的紧迫性。建议采取多样化网名、限制信息共享及使用虚拟手机号等措施加强个人防护。同时，强调了网络情绪管理与舆论引导的重要性，倡导反对网络暴力，主张通过法律与道德手段维护网络环境的健康与正义。最后，强调了发展网络安全技术的必要性，以有效保护个人隐私和打击网络犯罪，整体目的是提升公众对网络安全问题的认识，并促进积极措施的实施。</div><br>
+<h1>章节速览</h1>
+<div class="chapters">
+<div class="chapter-item">
+<span class="time"><strong>[00:00:00]</strong> </span>
+<span class="chapter-title"><strong>互联网个人信息安全与黑产产业链揭秘</strong></span>
+<div class="chapter-summary">讨论了互联网上个人信息安全的问题，特别是涉及个人信息的网络黑产，其从业人员超过150万，市场规模超过千亿元人民币。通过分析“开合事件”，探讨了黑产背后的产业链以及如何通过科学上网避免个人信息泄露。此外，还强调了网民对于愤怒、怨恨和恐惧等情绪的混淆，以及在众多宏观事件中，个人信息安全问题仍受到高度关注。</div>
+</div>
+<div class="chapter-item">
+<span class="time"><strong>[00:02:01]</strong> </span>
+<span class="chapter-title"><strong>百度高管子女涉入开盒事件引热议</strong></span>
+<div class="chapter-summary">开盒事件指的是通过技术手段挖掘并公开他人个人信息的行为，现已立法禁止。近期，百度一位高管的未成年子女主动参与开盒他人，引起广泛关注。事件涉及一名孕妇被开盒后引发公众强烈反应，随后多位正义感路人也被牵连。在反击过程中，发现其中一位开盒者的父亲是百度副总裁，引发更多讨论。百度对此事进行了声明，否认了开盒信息由家长提供。此次事件再次给百度带来负面舆论，加剧了其公众形象的负面影响。</div>
+</div>
+<div class="chapter-item">
+<span class="time"><strong>[00:04:37]</strong> </span>
+<span class="chapter-title"><strong>Telegram平台涉嫌纵容非法活动及隐私信息交易</strong></span>
+<div class="chapter-summary">讨论了百度提及的海外聊天软件Telegram（电报）在中文互联网圈中的负面信息，包括其创始人被捕、被指控纵容非法交易传播儿童色情制品、贩毒、诈骗、洗钱等罪名。此外，还提到了Telegram作为非法隐私信息交易的载体，以及软件上存在的社工库，即黑客窃取的个人信息数据库。这些因素共同体现了该平台上的灰产和黑产活动。</div>
+</div>
+<div class="chapter-item">
+<span class="time"><strong>[00:06:13]</strong> </span>
+<span class="chapter-title"><strong>社工库信息非法交易渠道揭秘</strong></span>
+<div class="chapter-summary">通过虚拟货币在Telegram平台上进行社工库信息交易的两种主要方式被揭示：一是通过销售机器人充值并购买信息，二是加入特定群组获取数据包或发布定制化的信息窃取需求。充值通常使用以太坊、比特币等稳定虚拟货币，且存在技术门槛，对于没有虚拟货币的用户，有人提供代充值服务。搜索一次信息需花费约十元人民币，而加入群组则可直接购买完整的数据包，或发布招聘信息以特定价格窃取指定个人的信息，包括身份证号、家庭住址、车牌号、手机号、开房记录等。</div>
+</div>
+<div class="chapter-item">
+<span class="time"><strong>[00:08:25]</strong> </span>
+<span class="chapter-title"><strong>Telegram成为个人信息交易和犯罪活动的温床</strong></span>
+<div class="chapter-summary">对话反映了个人信息在社工群和社工机器人等渠道被低价交易的现象，用户通过付款获取他人隐私信息，提供信息的不法分子被称为“料商”。截至2024年，Telegram的总用户数超过7亿，其群组人数上限高达20万，被称为“公海”，暗示在这些大群中进行非法活动难以被追究责任。尽管Telegram自2018年起向执法当局分享违法交易用户的用户名和IP地址，但数量之巨使得全面追查几乎不可能，需要借助AI技术。因此，Telegram至今仍是违法犯罪交易和犯罪分子沟通的平台。</div>
+</div>
+<div class="chapter-item">
+<span class="time"><strong>[00:10:00]</strong> </span>
+<span class="chapter-title"><strong>Telegram被指为暗网交易的公开平台</strong></span>
+<div class="chapter-summary">对话讨论了Telegram被称作“公开的暗网”的现象，指出该平台上的隐私数据贩卖等非法交易触目惊心。进一步探讨了隐私数据贩卖黑产的上下游链条，其中最上游是收集隐私信息，包括黑客通过技术窃取和内鬼违法出售信息两种方式。特别提到黑客通过技术手段对数据库进行攻击，批量窃取隐私数据的手段，如撞库刷库等。</div>
+</div>
+<div class="chapter-item">
+<span class="time"><strong>[00:11:16]</strong> </span>
+<span class="chapter-title"><strong>个人信息泄露：黑客攻击与内鬼贩卖</strong></span>
+<div class="chapter-summary">对话围绕个人信息泄露问题展开，讨论了黑客通过撞库攻击获取酒店客人入住信息，以及从Telegram群接单定向窃取个人信息的案例。提到了服务行业企业如电信公司、快递站点、房产中介和APP运营商内部人员违法出售客户隐私数据的现象，这类信息通常以批发价出售，每条价格在几毛到几元人民币之间。尽管姓名、住址、电话等信息看似不那么敏感，但大量泄露仍对个人隐私构成威胁。</div>
+</div>
+<div class="chapter-item">
+<span class="time"><strong>[00:13:06]</strong> </span>
+<span class="chapter-title"><strong>揭秘黑产中游：隐私数据的分类、销售与非法利用</strong></span>
+<div class="chapter-summary">对话揭示了黑产中游的运作模式，即服务提供商从上游购买隐私数据，进行分类打包或建立可检索数据库，通过发展代理和下线来扩大客户群。代理们在社交软件和群组中向潜在客户，包括未成年群体，兜售这些服务。除了用于诈骗和网贷追债，更严重的非法行为包括通过获取的四件套（身份证、银行卡号、手机号、U盾信息）进行洗钱活动，利用普通人的银行账户进行违法操作。</div>
+</div>
+<div class="chapter-item">
+<span class="time"><strong>[00:16:15]</strong> </span>
+<span class="chapter-title"><strong>网络黑产规模及个人信息保护挑战</strong></span>
+<div class="chapter-summary">讨论了网络黑产的规模和影响，指出其从业人员超过150万，市场规模超千亿元人民币，相当于新能源产业规模的三分之一。尽管国家采取了多项措施保护用户信息，但黑产活动已转移至海外，并使用难以追踪的虚拟货币进行交易，导致监管和打击难度加大。面对信息泄露的严重情况，个人很难完全守住自己的个人信息。</div>
+</div>
+<div class="chapter-item">
+<span class="time"><strong>[00:19:09]</strong> </span>
+<span class="chapter-title"><strong>防范个人信息泄露：揭秘社会工程学手法</strong></span>
+<div class="chapter-summary">对话深入探讨了在当前环境下如何最大限度地减少个人信息泄露的问题，重点介绍了社会工程学及其在黑客窃取私人信息中的应用。通过电影《我是谁》中的实例和日常生活中的案例，解释了社会工程学如何利用人性的弱点，如认知偏差、信任与权威依赖，以及紧急情境下的冲动行为，来诱导人们泄露机密信息。此外，还分享了公司内部进行的钓鱼邮件测试经历，强调了即使在高度警惕的情况下，人们仍可能因社会工程学的巧妙伪装而上当受骗。</div>
+</div>
+<div class="chapter-item">
+<span class="time"><strong>[00:25:27]</strong> </span>
+<span class="chapter-title"><strong>如何防止手机APP泄露隐私数据</strong></span>
+<div class="chapter-summary">对话讨论了手机APP如何在用户不知情的情况下收集隐私数据，包括位置信息和其他敏感信息。提到了购物APP通过调用系统后台的其他应用信息来获取用户位置，以及通过收集公开信息改善使用体验的弹窗。此外，还讨论了个人信息泄露可能导致的风险，如通过电话号码搜索社交账号，以及通过爬虫工具获取用户习惯和公开网络上的信息。最后，提出了一些简单的上网习惯改变建议，以减少个人信息被泄露的可能性。</div>
+</div>
+<div class="chapter-item">
+<span class="time"><strong>[00:30:31]</strong> </span>
+<span class="chapter-title"><strong>互联网个人隐私保护策略</strong></span>
+<div class="chapter-summary">对话讨论了在互联网上保护个人隐私的多种策略。首先强调了在不同网站上使用多样化网名的重要性，以避免信息被轻易关联。其次，提出在社交媒体上关闭“推荐给好友”和“通过手机号搜索”等功能，以及删除照片元数据来保护位置信息。还讨论了使用虚拟手机号注册以避免实名手机号泄露，尽管这一方法存在门槛和可靠性问题。在公开平台上发言时，建议模糊化处理个人信息，如学校、公司或行业等。对话最后指出，尽管有技术手段可避免在互联网上留痕，但对于大多数人而言，这些措施主要是为了提高他人获取个人信息的门槛，而不是完全避免信息泄露。特别提醒女性要格外注意保护私人信息，以确保人身安全。</div>
+</div>
+<div class="chapter-item">
+<span class="time"><strong>[00:34:04]</strong> </span>
+<span class="chapter-title"><strong>网络情绪管理：避免开盒与舆论极化</strong></span>
+<div class="chapter-summary">讨论了在互联网上如何避免被开盒和网暴的问题，强调了互联网并非法外之地，需要谨慎发言。通过分析一起具体事件，指出网民往往混淆愤怒、怨恨和愤慨这三种情绪，并引用了一篇SCI论文来探讨这三种情绪的核心差异。此外，还提到舆论极化现象及其背后的心理机制，强调了不被自己的观点异化的重要性。</div>
+</div>
+<div class="chapter-item">
+<span class="time"><strong>[00:36:22]</strong> </span>
+<span class="chapter-title"><strong>愤怒、怨恨与愤慨的差异及其动机探讨</strong></span>
+<div class="chapter-summary">本次对话探讨了愤怒、怨恨与愤慨这三种情绪的区别及其动机。愤怒是由感知到的伤害引发，不涉及道德判断，而其动机是使伤害源受苦；怨恨是对个人遭受的不公正伤害的反应，其动机是通过报复来追求扯平，并伴有主观的正义判断；愤慨则源自感知到他人遭受的错误或社会规范被违反，旨在维护社会规范或集体利益，动机是惩罚这种恶行并采取规范性制裁。对话通过具体例子解释了这三种情绪在具体情境中的表现，以及它们在社会接受度和道德判断上的差异。</div>
+</div>
+<div class="chapter-item">
+<span class="time"><strong>[00:41:04]</strong> </span>
+<span class="chapter-title"><strong>网络暴力情绪分析：愤慨与怨恨</strong></span>
+<div class="chapter-summary">对话围绕网络暴力中的情绪表达进行了深入探讨，特别是针对开盒事件中的愤慨和怨恨情绪。分析指出，被开盒的孕妇和开盒者的言论反映了不同的社会情绪，其中一方因对偶像行为的批评感到愤慨，而另一方则通过开盒行为表达怨恨。讨论进一步指出，通过报复性行为来回应网络暴力只会形成怨恨的循环，而通过法律手段和道德判断才是维护网络秩序的正确途径。此外，对话强调了区分不同情绪以及选择合适回应方式的重要性。</div>
+</div>
+<div class="chapter-item">
+<span class="time"><strong>[00:45:45]</strong> </span>
+<span class="chapter-title"><strong>如何有效处理网络上的恶意评论</strong></span>
+<div class="chapter-summary">对话围绕如何处理网络上的恶意评论展开。讨论指出，面对无理或无关的评论，直接拉黑是一种维护个人及平台纯净环境的有效方法。此外，讨论还提到了作为内容创作者，维护评论区的纯净度是其责任之一，这不仅包括删除不当评论，也包括对评论的管理和回复。最后，还提到在处理此类问题时，应考虑到发言者的年龄和认知水平，避免与未成年人进行过多的争执。</div>
+</div>
+<div class="chapter-item">
+<span class="time"><strong>[00:49:57]</strong> </span>
+<span class="chapter-title"><strong>揭露开盒行为的危害及其道德与法律问题</strong></span>
+<div class="chapter-summary">对话围绕开盒行为的危害和道德法律问题展开，强调开盒不仅是一种违法行为，也是一种违反道德的行为。讨论指出，开盒可能导致个人信息泄露和对个人及其家人的安全威胁，强调了保护身边人的首要性。此外，讨论反对将开盒行为美化或合理化，指出即便是被开盒的人有道德瑕疵，开盒行为本身仍是不正义的。最后，强调公众应避免参与此类行为，以防止怨恨和报复的循环，保护网络空间的健康与安全。</div>
+</div>
+<div class="chapter-item">
+<span class="time"><strong>[00:56:17]</strong> </span>
+<span class="chapter-title"><strong>从电视剧《你安全吗》探讨网络安全与隐私保护</strong></span>
+<div class="chapter-summary">本次讨论起始于金融圈八卦引出的话题，进一步探讨了电视剧《你安全吗》中所呈现的网络安全产业。剧中通过分析人物的网络行为揭示出轨行为，展示了大数据在个人行为分析中的应用，尽管这种行为存在争议。同时，网络安全在保护个人隐私、打击线上犯罪（如境外电诈和线上赌博）等方面的重要性被强调。尽管在境外追查犯罪存在难度，但网络安全产业的发展被认为有助于提升个人隐私保护水平。本次讨论旨在提供对网络安全和隐私保护的有趣视角，鼓励听众在评论区分享自己的想法。</div>
+</div>
+</div><br>
+<h1>问题回顾</h1>
+<div class="qa-item">
+<div class="question"><strong>Q:</strong> 在互联网黑产中，经典四件套包括哪些内容？</div>
+<div class="answer"><strong>A:</strong> 经典四件套包括身份证、银行卡号、手机号和U盾。</div>
+</div>
+<div class="qa-item">
+<div class="question"><strong>Q:</strong> 目前涉及到个人信息的网络黑产从业人员人数以及市场规模大约是多少？</div>
+<div class="answer"><strong>A:</strong> 根据17年的数据，网络黑产从业人员人数已超过150万，市场规模超过了千亿元人民币。</div>
+</div>
+<div class="qa-item">
+<div class="question"><strong>Q:</strong> 开合事件是什么？它为何能在众多热门话题中出圈？</div>
+<div class="answer"><strong>A:</strong> 开合事件是一种通过技术手段挖掘并公开他人完整个人信息，进而引发网民谩骂的行为。这次事件出圈是因为涉及到了百度高管的未成年子女，并且该事件在网络上造成了连坐效应，引发公众对网络安全和个人信息保护的关注。</div>
+</div>
+<div class="qa-item">
+<div class="question"><strong>Q:</strong> 开盒（开合）行为是否违法？</div>
+<div class="answer"><strong>A:</strong> 是的，开盒行为已经犯法并会受到法律判刑。</div>
+</div>
+<div class="qa-item">
+<div class="question"><strong>Q:</strong> Telegram在此次开盒事件中扮演了什么角色？</div>
+<div class="answer"><strong>A:</strong> Telegram作为载体，支持用户进行加密和自毁消息的传输，其上聚集了大量非法隐私信息交易，为黑产提供了便利条件。</div>
+</div>
+<div class="qa-item">
+<div class="question"><strong>Q:</strong> 开盒事件中的关键人物是否是百度副总裁的女儿？百度对此有何回应？</div>
+<div class="answer"><strong>A:</strong> 是的，关键人物是百度副总裁的女儿，但百度发声明否认了其从父母处获取开盒信息的说法，声明称该信息是绝对的造谣。</div>
+</div>
+<div class="qa-item">
+<div class="question"><strong>Q:</strong> Telegram上买卖个人信息的方式有哪些？</div>
+<div class="answer"><strong>A:</strong> 买卖个人信息可通过Telegram上的销售机器人购买或加入特定群组直接购买，其中包含身份证号、家庭住址、车牌号、手机号、开房记录等全套信息，价格根据需求和报价而定。</div>
+</div>
+<div class="qa-item">
+<div class="question"><strong>Q:</strong> Telegram上的群组人数上限是多少？</div>
+<div class="answer"><strong>A:</strong> Telegram上一个群组的上限人数是20万。</div>
+</div>
+<div class="qa-item">
+<div class="question"><strong>Q:</strong> 对于Telegram上存在大量违法犯罪交易的情况，相关执法部门有何回应？</div>
+<div class="answer"><strong>A:</strong> 帕维尔·杜罗夫承认自2018年起，Telegram就开始向各国执法当局分享在Telegram上进行违法交易的用户的用户名和IP地址，尽管如此，由于数量庞大，执法部门难以逐一追查所有违法行为。</div>
+</div>
+<div class="qa-item">
+<div class="question"><strong>Q:</strong> 黑客窃取个人信息的第一种方式是什么？什么是“撞库刷酷”？</div>
+<div class="answer"><strong>A:</strong> 黑客窃取个人信息的第一种方式是通过直接攻击公司或机构的数据库，利用撞库刷酷等技术手段批量窃取大量隐私数据。“撞库刷酷”是黑客术语，通过技术手段大规模窃取机构内部数据的一种方式。</div>
+</div>
+<div class="qa-item">
+<div class="question"><strong>Q:</strong> 酒店客人信息泄露是如何发生的？个人信息是否容易被他人获取并售卖？</div>
+<div class="answer"><strong>A:</strong> 酒店客人信息泄露通常是由于黑客在后台发动撞库攻击获取信息。是的，我们的个人信息可能已被各种渠道售卖，导致频繁接到推销电话。例如，苹果手机可通过标记功能识别骚扰电话，但安卓手机用户可能接收到大量未经标记的陌生电话。</div>
+</div>
+<div class="qa-item">
+<div class="question"><strong>Q:</strong> 个人信息是如何被窃取的另一种途径？黑产业链中是否出售更为详细的个人信息？</div>
+<div class="answer"><strong>A:</strong> 另一种途径是通过Telegram群等渠道定向窃取个人数据，以及服务行业内部人员违法出售客户隐私数据，如电信公司、快递站点、房产中介和部分APP运营商等掌握私人信息的企业。是的，黑产业链中存在出售更详细的个人信息，如身份证、银行卡号、手机号及U盾等，这些信息可用于诈骗、洗钱等非法活动。</div>
+</div>
+<div class="qa-item">
+<div class="question"><strong>Q:</strong> 黑产业链中如何处理窃取到的个人信息？</div>
+<div class="answer"><strong>A:</strong> 黑产业链中游的服务提供商从上游购买隐私数据进行分类打包、整理，并可能利用机器人建立可检索数据库，发展下线代理拉新客户，再由这些代理在社交软件、网络论坛等地方推广服务，卖给有需求的下游客户，如电诈团伙和网贷追债者。</div>
+</div>
+<div class="qa-item">
+<div class="question"><strong>Q:</strong> 对于个人而言，如何尽量保护个人信息安全？</div>
+<div class="answer"><strong>A:</strong> 在当前环境下，很难完全守住个人信息，但了解信息泄露源头和盗窃方法有助于最大限度地减少个人信息泄露。同时，提高上网习惯的安全性，比如注意防范社会工程学攻击，是保护个人信息的重要一环。</div>
+</div>
+<div class="qa-item">
+<div class="question"><strong>Q:</strong> 社会工程学中有哪些常见的手段？</div>
+<div class="answer"><strong>A:</strong> 社会工程学中常见的手段包括诱饵攻击和水坑攻击等。例如，诱饵攻击会利用图片、U盘等媒介作为特洛伊木马，通过诱使用户点击含有病毒的文件来实现对电脑的入侵。</div>
+</div>
+<div class="qa-item">
+<div class="question"><strong>Q:</strong> 现实生活中有哪些常见的诱饵攻击例子？</div>
+<div class="answer"><strong>A:</strong> 在现实生活中，微信群中经常会看到一些引人入胜的故事或链接，但往往最后会指向一些商业推广或欺诈行为，利用人们的猎奇心理来达到目的。</div>
+</div>
+<div class="qa-item">
+<div class="question"><strong>Q:</strong> 您能否分享一个亲身经历的钓鱼邮件事件？</div>
+<div class="answer"><strong>A:</strong> 当然可以。我虽然没被外部钓鱼邮件骗过，但我们公司内部会定期进行钓鱼测试，伪装成常见的系统邮件，如人力资源系统或培训课程通知，并放置看似正常的链接。员工若点击这些链接，可能会被引导至伪造页面输入账号密码，而这些钓鱼邮件的发件地址与真实系统邮件地址仅差一个字母，容易让人忽略。</div>
+</div>
+<div class="qa-item">
+<div class="question"><strong>Q:</strong> 这些钓鱼邮件是否造成了实际的信息泄露？</div>
+<div class="answer"><strong>A:</strong> 是的，之前有一次外部钓鱼邮件攻击导致部分员工的信息被窃取，公司因此采取了一系列措施，如网络安全培训和修改受影响员工的密码，并强调了保密工作的重要性。</div>
+</div>
+<div class="qa-item">
+<div class="question"><strong>Q:</strong> 社会工程学是如何利用人性弱点进行操作的？</div>
+<div class="answer"><strong>A:</strong> 社会工程学主要利用人性弱点，如信任与权威依赖，通过伪装成熟人或权威机构，激发信任并降低警惕性，从而让用户忽视或放弃对信息来源的检查，或者在紧急场景下抑制理性思考，进而获取敏感信息。</div>
+</div>
+<div class="qa-item">
+<div class="question"><strong>Q:</strong> 手机APP如何通过用户授权获取用户隐私数据？</div>
+<div class="answer"><strong>A:</strong> 手机APP在安装时会申请一系列后台调用系统信息的权限，用户通常会直接同意所有权限请求而不仔细阅读具体权限内容。即使用户拒绝了某个权限，APP仍可能通过其他已获取的权限间接获取用户信息，例如通过调用系统后台获取位置信息。</div>
+</div>
+<div class="qa-item">
+<div class="question"><strong>Q:</strong> 除了APP，还有哪些途径可能导致个人信息泄露？</div>
+<div class="answer"><strong>A:</strong> 个人信息可能在用户在购物网站填写地址和手机号后，由于内鬼或其他原因被泄露并出售给其他人，这些人可以通过公开网络信息推断出用户的更多生活细节，甚至结合银行记录、二手交易记录等进一步了解用户情况。因此，在互联网上保持个人信息的透明度是必要的，但也可以通过一些简单的实操方法减少信息被完整获取的可能性。</div>
+</div>
+<div class="qa-item">
+<div class="question"><strong>Q:</strong> 在不同网站上使用相同的昵称有什么风险？</div>
+<div class="answer"><strong>A:</strong> 如果在多个网站上使用相同的网名，一旦在其中一个平台上被发现不良行为或信息泄露，就可能导致你在所有使用该昵称的公开平台上的信息被关联曝光。</div>
+</div>
+<div class="qa-item">
+<div class="question"><strong>Q:</strong> 如何避免个人信息通过照片泄露？</div>
+<div class="answer"><strong>A:</strong> 可以通过关闭手机定位权限、使用专门的应用程序来删除照片中的时间和地点信息，以及尽量避免在社交媒体上暴露过多个人信息。</div>
+</div>
+<div class="qa-item">
+<div class="question"><strong>Q:</strong> 为何不建议在软件或网站注册时使用实名手机号？</div>
+<div class="answer"><strong>A:</strong> 虽然实名制有助于建立清朗网络环境和个人负责，但也会增加信息泄露的风险。现在许多平台强制要求绑定手机号，即使使用虚拟手机号服务也可能存在可靠性问题。</div>
+</div>
+<div class="qa-item">
+<div class="question"><strong>Q:</strong> 对于女性用户来说，保护个人信息有何特殊重要性？</div>
+<div class="answer"><strong>A:</strong> 因为个人信息泄露可能涉及到人身安全问题，尤其是女性，因此要格外注意私人信息的保护。</div>
+</div>
+<div class="qa-item">
+<div class="question"><strong>Q:</strong> 在公开平台上发言时应注意哪些事项？是否存在有效的方法来防止个人信息被公开后被开盒？</div>
+<div class="answer"><strong>A:</strong> 应避免串连其他平台的信息，并对可能涉及个人信息的内容进行模糊化处理，如学校名称、公司名称等，以防被不法分子利用。虽然有一些技术手段如隐私浏览器、Linux系统可以减少网络痕迹，但这些方法并不能完全阻止信息泄露。更重要的是改善上网习惯，避免无意间提高他人追踪自己的门槛。</div>
+</div>
+<div class="qa-item">
+<div class="question"><strong>Q:</strong> 如何看待网络舆论中愤怒、怨恨和愤慨这三种情绪的混淆现象？</div>
+<div class="answer"><strong>A:</strong> 在这次事件中，网民混淆了三种情绪，论文《anger and its cousins》指出它们之间的核心差异。愤怒主要源于感知到的伤害，怨恨是对个人遭受不公正伤害的反应，而愤慨则是对他人遭受错误或社会规范被违反的反应，且倾向于采取规范性制裁行动。在社交互动中，愤怒往往被认为不合理或没必要，而怨恨和愤慨因其道德判断而更容易被接受。</div>
+</div>
+<div class="qa-item">
+<div class="question"><strong>Q:</strong> 在侠之大者，为国为民的观念下，如何区分私刑与愤慨行为？</div>
+<div class="answer"><strong>A:</strong> 私刑是个人滥用私力对他人进行审判，而愤慨则是出于对社会道德、法律的维护，以及为了集体或社会规范的利益而进行的程序正义上的审判。</div>
+</div>
+<div class="qa-item">
+<div class="question"><strong>Q:</strong> 论文中如何解释愤慨情绪？</div>
+<div class="answer"><strong>A:</strong> 论文认为愤慨的核心在于维护社会规范或集体利益，而非个人利益的补偿，其道德判断基于客观规范而非个人得失。</div>
+</div>
+<div class="qa-item">
+<div class="question"><strong>Q:</strong> 对于开盒事件中各方情绪的分析是什么？</div>
+<div class="answer"><strong>A:</strong> 开盒事件中，部分粉丝因偶像坐头等舱等言论感到被冒犯，认为需要纠正错误，表达的是愤慨情绪；而被开合的孕妇本人的行为则是典型的怨恨情绪表达；饭圈中一些未成年人可能误以为自己的偶像遭受抹黑，也表现出愤慨情绪，但实际上更接近于怨恨。</div>
+</div>
+<div class="qa-item">
+<div class="question"><strong>Q:</strong> 如何看待开盒行为的情绪性质？</div>
+<div class="answer"><strong>A:</strong> 开盒行为首先是一种施暴行为，其次类似于社会性谋杀，它缺乏讨论和分清是非的过程，本质上是一种纯粹的报复行为。</div>
+</div>
+<div class="qa-item">
+<div class="question"><strong>Q:</strong> 在面对网络言论攻击时，应该如何处理以维护公平正义？</div>
+<div class="answer"><strong>A:</strong> 应当分清自己内心的情绪是愤慨、怨恨还是公平正义，并通过举报、拉黑等手段来维护互联网上的公序良俗和社会规范，而非选择以牙还牙的方式陷入怨恨循环。</div>
+</div>
+<div class="qa-item">
+<div class="question"><strong>Q:</strong> 遇到网友对喷的情况，如何做出合适的回应？</div>
+<div class="answer"><strong>A:</strong> 可以采取拉黑的方式来避免进一步的冲突和负面观感影响，同时保护自己免受骚扰。但要注意，拉黑功能仅限于自身平台，且应针对极端言论或无意义的争论，而非正常表达不同意见的言论。</div>
+</div>
+<div class="qa-item">
+<div class="question"><strong>Q:</strong> 在饭圈事件中，为什么需要避免与未成年人过多交流？</div>
+<div class="answer"><strong>A:</strong> 因为未成年人在饭圈中占了很大比例，他们的认知和经历可能与成人不同，导致其发言不合理或难以理解。当双方认知水平不一致时，建议减少不必要的交流，避免被其言论影响。</div>
+</div>
+<div class="qa-item">
+<div class="question"><strong>Q:</strong> 开合行为在不同情况下会产生怎样的影响？当遭受开合时，应该如何应对？</div>
+<div class="answer"><strong>A:</strong> 开合行为在愉快场景下可能会产生火花，但在不愉快条件下，则会迅速变成怨恨循环和互相指责，甚至可能导致严重的威胁和诈骗。被开合后首要任务是保护自己身边的人，并且要认识到开合行为无论是否涉及个人隐私，都是错误且违反道德的。遭受开合时，首先要保护好自己在乎的人，其次要站出来反对开合行为，因为无论是出于何种原因，开合都是不正义的。无论被开合者是否有道德瑕疵，开合行为本身是错误的，应当坚决反对。</div>
+</div>
+<div class="qa-item">
+<div class="question"><strong>Q:</strong> 对于那些被开盒且道德上有瑕疵的人，开合行为是否合理？如何正确对待开盒行为以及参与其中的舆论声讨？</div>
+<div class="answer"><strong>A:</strong> 即使被开盒者存在道德瑕疵，但这并不能成为开合行为正当化的理由。开合行为无论在道德上还是法律上都是错误的，每个人都应承担起维护正义、反对不正义行为的责任。应认识到开盒行为是绝对错误的，无论出于何种目的，都不应参与其中。作为有能力控制自己行为的成年人，应当避免成为暴力活动的参与者，而是通过合理合法的方式表达观点，如写作文章、公开声明等，来维护正义。</div>
+</div>
+<div class="qa-item">
+<div class="question"><strong>Q:</strong> 如何看待私刑与程序正义的关系？</div>
+<div class="answer"><strong>A:</strong> 私刑代表个人或群体私自采取行动报复，如开盒行为就属于这种情况。虽然人们可能出于情感上的理解，但私刑并不具备正当性，而应当通过正当程序来伸张正义。开盒行为本质上是一种利用舆论煽动网络暴力的行为，而非私刑，它破坏了程序正义，应当被谴责和抵制。</div>
+</div>
+<h1>节目文稿</h1>
+<p class="transcript-line">
+<span class="time"><strong>[00:00:13]</strong> </span>
+<span class="speaker"><strong>发言人1: </strong></span>
+如果你出价1000元左右可以买到存款信息，更可怕的是可以集齐买料的这个经典的四件套。
+</p>
+<p class="transcript-line">
+<span class="time"><strong>[00:00:21]</strong> </span>
+<span class="speaker"><strong>发言人2: </strong></span>
+经典四件套。
+</p>
+<p class="transcript-line">
+<span class="time"><strong>[00:00:22]</strong> </span>
+<span class="speaker"><strong>发言人1: </strong></span>
+这个四件套包括什么？身份证、银行卡号、手机号，还有U盾。这个白皮书里面提到，现在这种涉及到个人信息的网络黑产从业人员人数已经超过了150万，这么多人整体的市场规模已经超过了千亿元人民币。
+</p>
+<p class="transcript-line">
+<span class="time"><strong>[00:00:39]</strong> </span>
+<span class="speaker"><strong>发言人2: </strong></span>
+这可是17年的数据。是的。
+</p>
+<p class="transcript-line">
+<span class="time"><strong>[00:00:41]</strong> </span>
+<span class="speaker"><strong>发言人1: </strong></span>
+非常恐怖。这些年其实被开合的人，或者说因为一些发言被网暴的人，这都不计其数了。其实我觉得在这个事件里面，我感受到的是我们在互联网上的这些网民们，他们对于愤怒、怨恨和凯这三种情绪的混淆。
+</p>
+<p class="transcript-line">
+<span class="time"><strong>[00:01:08]</strong> </span>
+<span class="speaker"><strong>发言人1: </strong></span>
+大家好，欢迎来到新的一期虚实之间。我是老饕。
+</p>
+<p class="transcript-line">
+<span class="time"><strong>[00:01:11]</strong> </span>
+<span class="speaker"><strong>发言人2: </strong></span>
+我是活在当下。
+</p>
+<p class="transcript-line">
+<span class="time"><strong>[00:01:13]</strong> </span>
+<span class="speaker"><strong>发言人1: </strong></span>
+近期中文互联网上出现了一个事件，大家现在把它俗称为开合事件。你有听说过这个事儿吗？其实没有了，其实现在在互联网上热门话题很多，你看包括我们什么关税战等等这些话题。但是这个话题还是在众多热门话题之间出圈了。
+</p>
+<p class="transcript-line">
+<span class="time"><strong>[00:01:32]</strong> </span>
+<span class="speaker"><strong>发言人2: </strong></span>
+能在现在这么多宏观事件爆发期间还出圈的话。
+</p>
+<p class="transcript-line">
+<span class="time"><strong>[00:01:35]</strong> </span>
+<span class="speaker"><strong>发言人1: </strong></span>
+说明这个问题大家关注度比较高。对，值得一聊的。所以我们今天就来想说说这件事儿。这期节目我是想从这个事件入手，来聊一聊这个商业层面开合背后的这个产业链其实是黑产还有就是个人层面，我们怎么样通过科学上网的这个手段，来避免因为这种黑客的社会工程学被开合，以及跟我们个人信息安全关系很大的这个网络安全工程的市场的情况。
+</p>
+<p class="transcript-line">
+<span class="time"><strong>[00:02:02]</strong> </span>
+<span class="speaker"><strong>发言人1: </strong></span>
+我先给没关注这个事儿的朋友们解释一下这个事儿是什么。你看刚刚对张总也没听说过这事儿是什么。这个开盒，它其实就类似于是我们以前说的人肉搜索，它就是通过技术手段挖出来其他人的完整个人信息，然后公之于众，随后就煽动其他的网民对这个人进行谩骂。这不犯法吗？现在已经犯法了。
+</p>
+<p class="transcript-line">
+<span class="time"><strong>[00:02:24]</strong> </span>
+<span class="speaker"><strong>发言人2: </strong></span>
+已经犯法了。对。
+</p>
+<p class="transcript-line">
+<span class="time"><strong>[00:02:25]</strong> </span>
+<span class="speaker"><strong>发言人1: </strong></span>
+已经立法了，就是开阖现在是犯法，是要判刑的。这次开合事件出圈的这个原因，主要是因为他涉及到了一位百度高管的未成年子女，哼而且他不是被开合的那个，他是主动开别人。2025年3月12日的时候，韩国有一个当红的idol叫张元英。他的一个粉丝在微博里说，张元英这个行程非常的紧张，堪称魔鬼行程，特别辛苦。下面就有网友评论了，又不是他自己开飞机，头等舱睡觉不要太舒服，还魔鬼行程，真是什么话都说出来了。这个评论一发是吧？那对饭圈这个风格比较熟悉的听众们应该就能知道，那肯定是要口诛笔伐了。对这个人开始带着粉丝们听了就不干了。但是有两个粉丝就开盒了，这个评论的网友，而偏偏这个网友她是一名孕妇，所以被开合了之后，就有很多人觉得这种开合的行为太过分了，就出来替这位孕妇说话。
+</p>
+<p class="transcript-line">
+<span class="time"><strong>[00:03:28]</strong> </span>
+<span class="speaker"><strong>发言人2: </strong></span>
+有一些有正义感的路人们。
+</p>
+<p class="transcript-line">
+<span class="time"><strong>[00:03:29]</strong> </span>
+<span class="speaker"><strong>发言人1: </strong></span>
+对，结果这些路人们也就有一部分人陆续也被开合。
+</p>
+<p class="transcript-line">
+<span class="time"><strong>[00:03:34]</strong> </span>
+<span class="speaker"><strong>发言人2: </strong></span>
+好家伙，这搞连坐是吧？
+</p>
+<p class="transcript-line">
+<span class="time"><strong>[00:03:36]</strong> </span>
+<span class="speaker"><strong>发言人1: </strong></span>
+对，那这个攻击范围扩大了之后，就有人开始反击了，就开盒别人的这粉丝自己也被开盒了。
+</p>
+<p class="transcript-line">
+<span class="time"><strong>[00:03:44]</strong> </span>
+<span class="speaker"><strong>发言人2: </strong></span>
+用魔法打败魔法。
+</p>
+<p class="transcript-line">
+<span class="time"><strong>[00:03:46]</strong> </span>
+<span class="speaker"><strong>发言人1: </strong></span>
+结果发现其中一个小姑娘就在微博上发过，自己的父亲是现任百度副总裁。
+</p>
+<p class="transcript-line">
+<span class="time"><strong>[00:03:52]</strong> </span>
+<span class="speaker"><strong>发言人2: </strong></span>
+百度怎么总是通过这种方法出圈。
+</p>
+<p class="transcript-line">
+<span class="time"><strong>[00:03:54]</strong> </span>
+<span class="speaker"><strong>发言人1: </strong></span>
+这简直了。今年我觉得百度这舆论场全是坏消息，而且还有人传言说这个小姑娘曾经利用自己的一个小号跟其他人说她开盒这个信息是家长给的，这个事儿就很严重了。对，后来虽然他是百度副总裁的女儿，这件事儿是确认了的。但是百度也发了声明，说开核信息是家长给的这句话是绝对的造谣。这个姑娘自己并没有说过这个事儿。这百度去年已经有过一次曲靖的公关危机，然后今年又有苹果放弃文心一言，转而成阿里合作AI的这个事儿。现在又有了开合这件事儿，我觉得简直大家对于百度的评价，这个负面形象越来越深入人心了。
+</p>
+<p class="transcript-line">
+<span class="time"><strong>[00:04:37]</strong> </span>
+<span class="speaker"><strong>发言人2: </strong></span>
+你要这么说，之前萝卜快跑跟武汉出租车司机抢工作这事儿，其实也算是百度的。
+</p>
+<p class="transcript-line">
+<span class="time"><strong>[00:04:43]</strong> </span>
+<span class="speaker"><strong>发言人1: </strong></span>
+也算是负面信息。那根据百度给出的说法，这个信息是来自海外的一个聊天软件叫telegram，中文名字叫电报。他在中文互联网圈里，尤其是在饭圈里，还有一个代称叫小飞机。因为他那个图标，对，因为他的logo是个飞机。相信也有很多听友都知道，这个软件的创始人帕维尔杜罗夫在他去年8月在法国被捕了，是吧？对他被捕了，罪名是涉嫌未能有效管理犯罪内容。
+</p>
+<p class="transcript-line">
+<span class="time"><strong>[00:05:12]</strong> </span>
+<span class="speaker"><strong>发言人2: </strong></span>
+管不了也他就没想过知道。
+</p>
+<p class="transcript-line">
+<span class="time"><strong>[00:05:15]</strong> </span>
+<span class="speaker"><strong>发言人1: </strong></span>
+巴黎检方是指控telegram涉嫌纵容非法交易传播儿童色情制品，然后贩毒、诈骗、洗钱，这都是很重的罪，以及拒绝按执法机构要求提供信息或者文件，并且向犯罪分子提供加密服务等等。而这次这个开合事件所体现出来的这个灰产或者叫黑产，它也是以telegram作为载体的。在这个软件上支持用户相互交换加密和自毁的消息。首先这个加密就不用解释了，自毁消息大家应该也有听说过。
+</p>
+<p class="transcript-line">
+<span class="time"><strong>[00:05:46]</strong> </span>
+<span class="speaker"><strong>发言人2: </strong></span>
+就那种越狱后即焚。对。
+</p>
+<p class="transcript-line">
+<span class="time"><strong>[00:05:48]</strong> </span>
+<span class="speaker"><strong>发言人1: </strong></span>
+而且这个软件可以发送照片，影片等所有类型的文件。所以他就给这种非法的隐私信息的交易也提供了很多便利。这个软件上聚集了很多的所谓的社工库。这个详细的概念我们一会儿再给大家解释，在这儿我们简单粗暴的理解一下社工库，就可以理解为是聚集了很多黑客利用技术手段窃取的个人信息的数据库。
+</p>
+<p class="transcript-line">
+<span class="time"><strong>[00:06:14]</strong> </span>
+<span class="speaker"><strong>发言人1: </strong></span>
+获取这些社工库里的信息的方法整体来说有两种，都是通过虚拟货币来进行交易的，肯定不能用法币来交易。一种就是通过telegram的这个销售机器人购买，另外一种就是进入群组之后购买。这个销售机器人说白了就是一个写好的程序。你注册telegram之后，找到这个相应的机器人，然后你就可以充值。一般这个机器人它会有不同的设置，要么就是换成这个系统可以识别的代币，要么就是类似于积分，就需要通过花费虚拟货币来购买这种代币或者积分。这虚拟货币大概就是以太坊、比特币。
+</p>
+<p class="transcript-line">
+<span class="time"><strong>[00:06:50]</strong> </span>
+<span class="speaker"><strong>发言人2: </strong></span>
+usdt等等这些。对，就是这种比较大的比较稳定的币。对。
+</p>
+<p class="transcript-line">
+<span class="time"><strong>[00:06:54]</strong> </span>
+<span class="speaker"><strong>发言人1: </strong></span>
+如果你没有虚拟货币，大家知道这个东西其实是有一定技术门槛的，不是谁说有就能有的。那你还可以在telegram上找到很多这种待充值的账号，人家帮你充。我们并没有实际去实践这个过程。
+</p>
+<p class="transcript-line">
+<span class="time"><strong>[00:07:08]</strong> </span>
+<span class="speaker"><strong>发言人2: </strong></span>
+实践了也不会告诉你。
+</p>
+<p class="transcript-line">
+<span class="time"><strong>[00:07:10]</strong> </span>
+<span class="speaker"><strong>发言人1: </strong></span>
+这个违法交易我们肯定不碰。但是根据财经杂志，他们在2020年发布的一篇报道里面写到，基本上充值一次大概要300块左右人民币充值之后差不多十块左右，可以在程序中进行一次搜索。
+</p>
+<p class="transcript-line">
+<span class="time"><strong>[00:07:25]</strong> </span>
+<span class="speaker"><strong>发言人2: </strong></span>
+搜索一次就要十块钱。
+</p>
+<p class="transcript-line">
+<span class="time"><strong>[00:07:26]</strong> </span>
+<span class="speaker"><strong>发言人1: </strong></span>
+对，搜索一次就要十块钱，要不然那人家这不是一锤子买卖了，对吧？卖给你这就就不值钱了。对对对，这是第一种的方式。
+</p>
+<p class="transcript-line">
+<span class="time"><strong>[00:07:35]</strong> </span>
+<span class="speaker"><strong>发言人1: </strong></span>
+另外一种方式，就是我们刚才说的加群组。这个群组的路子就更野一点。就你在telegram上进群之后，你不仅可以直接在这个群里找到帮你代充比特币，以及这个群里你就可以付费直接买到这种高达几个G的现成的完整的数据包。他就提供。
+</p>
+<p class="transcript-line">
+<span class="time"><strong>[00:07:53]</strong> </span>
+<span class="speaker"><strong>发言人2: </strong></span>
+这种一条龙服务。
+</p>
+<p class="transcript-line">
+<span class="time"><strong>[00:07:55]</strong> </span>
+<span class="speaker"><strong>发言人1: </strong></span>
+对，这一条龙服务里更多了一项增值服务，就是什么呢？就你直接在群里发一个招聘信息，什么叫招聘信息呢？就是你直接说我出多少钱，我有一个什么样的需求，我要开盒什么样的一个人。如果你开出去的这个价码，有人愿意接单的话，那就可以根据你给的这个需求去窃取这个人的信息。一般就包含什么身份证号、家庭住址、车牌号、手机号、开房记录等等这一套的信息。最便宜的甚至几十美元就可以买到。
+</p>
+<p class="transcript-line">
+<span class="time"><strong>[00:08:26]</strong> </span>
+<span class="speaker"><strong>发言人2: </strong></span>
+所以现在的这个个人信息。
+</p>
+<p class="transcript-line">
+<span class="time"><strong>[00:08:28]</strong> </span>
+<span class="speaker"><strong>发言人1: </strong></span>
+个人隐私也太不值钱了。你往后听，真的我后边还会提供一些其他的这种，真的我们的个人信息太不值钱了。然后用户通过付款来获取他人隐私信息的这个行为就叫做从这种社工群或者社工机器人这儿买料。提供这些信息的不法分子就叫料商，就是黑化，都有黑化。
+</p>
+<p class="transcript-line">
+<span class="time"><strong>[00:08:49]</strong> </span>
+<span class="speaker"><strong>发言人1: </strong></span>
+截止2024年的时候，telegram的总用户数量已经超过7亿了。然后telegram这个软件它有一个特别牛的地方是什么呢？他的这个群组人数的上限。
+</p>
+<p class="transcript-line">
+<span class="time"><strong>[00:09:00]</strong> </span>
+<span class="speaker"><strong>发言人2: </strong></span>
+是20万20万.
+</p>
+<p class="transcript-line">
+<span class="time"><strong>[00:09:02]</strong> </span>
+<span class="speaker"><strong>发言人1: </strong></span>
+是不是听起来天文数字？我们平常一个微信群500人，上限是啊telegram上一个群20万。这些telegram上的大群还有一个特别形象的别称，叫公海。
+</p>
+<p class="transcript-line">
+<span class="time"><strong>[00:09:13]</strong> </span>
+<span class="speaker"><strong>发言人2: </strong></span>
+好家伙这一听感觉就是公海上就不犯法了。
+</p>
+<p class="transcript-line">
+<span class="time"><strong>[00:09:16]</strong> </span>
+<span class="speaker"><strong>发言人1: </strong></span>
+是吧？对，就是我干什么都没有人追究我的责任。对，帕维尔杜罗夫去年被捕之后，他是在十月份承认，其实telegram自从2018年起就会向各国执法当局分享在telegram上进行违法交易的用户的用户名和埃批地址了。他是为了洗脱一部分自己的罪名但是显然，一是他分享的这些数据应该不可能是全部的违法行为用户的数据。对，第二个是你这个数量之大，就算给了当局，他也不可能每个人这么去追查。
+</p>
+<p class="transcript-line">
+<span class="time"><strong>[00:09:49]</strong> </span>
+<span class="speaker"><strong>发言人2: </strong></span>
+需要AI了。
+</p>
+<p class="transcript-line">
+<span class="time"><strong>[00:09:50]</strong> </span>
+<span class="speaker"><strong>发言人1: </strong></span>
+需要AI对。所以直到现在telegram依然还是很多这种违法犯罪交易的平台。同时也是很多犯罪分子来互相进行沟通优选媒介。
+</p>
+<p class="transcript-line">
+<span class="time"><strong>[00:10:00]</strong> </span>
+<span class="speaker"><strong>发言人2: </strong></span>
+我感觉这个telegram已经变成了这个暗网微信了。对。
+</p>
+<p class="transcript-line">
+<span class="time"><strong>[00:10:04]</strong> </span>
+<span class="speaker"><strong>发言人1: </strong></span>
+就这种感觉是吧，很多人就把telegram称为是公开的暗网，所以抓帕维尔杜罗夫也不冤。
+</p>
+<p class="transcript-line">
+<span class="time"><strong>[00:10:11]</strong> </span>
+<span class="speaker"><strong>发言人2: </strong></span>
+有一个抓一个可能都不冤。
+</p>
+<p class="transcript-line">
+<span class="time"><strong>[00:10:14]</strong> </span>
+<span class="speaker"><strong>发言人1: </strong></span>
+虽然telegram上这种种交易都触目惊心，但是对于隐私数据贩卖这个黑产来说，其实这个已经是下游了。对，就是已经涉及到实际的这个所谓的消费者了。对这个产业链它肯定还有上游跟中游，对吧？那由于非法交易它不可能有很多特别全的公开资料，所以我们只能从过往的很多这种新闻报道里面就大致总结一下。最上游其实就是收集这些隐私信息的人。根据2022年证券日报的一篇深度的报道，一般这个上游是两个来源，一个就是黑客通过技术来窃取，另外一个就是内鬼违法出售信息。
+</p>
+<p class="transcript-line">
+<span class="time"><strong>[00:10:50]</strong> </span>
+<span class="speaker"><strong>发言人2: </strong></span>
+有内鬼停止交易。对。
+</p>
+<p class="transcript-line">
+<span class="time"><strong>[00:10:53]</strong> </span>
+<span class="speaker"><strong>发言人1: </strong></span>
+第一种这个黑客窃取的这种方式，它有的是通过直接对某个公司或者机构的数据库进行攻击，来批量窃取大量的这种隐私数据。就是经常出现的这种手段，好像学名叫撞库刷酷，这就是一些黑客的术语，通过一些这种技术手段，可以大规模的去窃取一些机构里面的数据。
+</p>
+<p class="transcript-line">
+<span class="time"><strong>[00:11:15]</strong> </span>
+<span class="speaker"><strong>发言人2: </strong></span>
+之前你说什么肖恩帕克。
+</p>
+<p class="transcript-line">
+<span class="time"><strong>[00:11:16]</strong> </span>
+<span class="speaker"><strong>发言人1: </strong></span>
+我就是小时候就干这个。比如我们以前听说过的那种酒店的客人的入住信息泄露了，这个就是典型的黑客在后台发动了这种撞库的攻击。明白获取的。还有一种，就是我们前面提到过的，你从telegram群里面接单去扒某个人的信息就定向窃取对吧？那我们刚才说的另外一个上游的这个来源就是内鬼往外卖信息，这个其实指的就是掌握私人信息的这种服务行业的企业。比如说电信公司、快递站点、房产中介，还有好多APP的运营商。
+</p>
+<p class="transcript-line">
+<span class="time"><strong>[00:11:49]</strong> </span>
+<span class="speaker"><strong>发言人2: </strong></span>
+对吧？对我感觉我们的信息已经被别人各种卖了，你要不然你天天怎么接收那么多推销广告的电话。
+</p>
+<p class="transcript-line">
+<span class="time"><strong>[00:11:56]</strong> </span>
+<span class="speaker"><strong>发言人1: </strong></span>
+是不是？对，就我现在可能苹果手机没有这个功能，就安卓手机现在它是有那个标记功能的。对，标记过你是能看见这个电话它是什么样子的。是的，我基本上现在接到的陌生电话就全部都是被标记过骚扰电话，什么房产中介，或者什么推销，全都已经被标记过。对我现在。
+</p>
+<p class="transcript-line">
+<span class="time"><strong>[00:12:13]</strong> </span>
+<span class="speaker"><strong>发言人2: </strong></span>
+基本上都不接电话，你有时候微信联系我就行了。
+</p>
+<p class="transcript-line">
+<span class="time"><strong>[00:12:17]</strong> </span>
+<span class="speaker"><strong>发言人1: </strong></span>
+这些有个人信息的服务行业的企业里，他们就内部人员可能会违法出售大量的客户隐私数据。这个数据一般就包括什么姓名、住址、电话等等这种比较简单的信息。根据第一财经2023年的一篇报道，这类信息大概就是每条几毛到几元人民币不等的价格，通常都是成千上万条信息打包一起卖。对。
+</p>
+<p class="transcript-line">
+<span class="time"><strong>[00:12:41]</strong> </span>
+<span class="speaker"><strong>发言人2: </strong></span>
+这就是批发价。对。
+</p>
+<p class="transcript-line">
+<span class="time"><strong>[00:12:43]</strong> </span>
+<span class="speaker"><strong>发言人1: </strong></span>
+所以你看我们的个人信息真的很不值钱。但其实你说姓名、住址、电话，这对于个人来说是很敏感的信息了。哎也没那么敏感。
+</p>
+<p class="transcript-line">
+<span class="time"><strong>[00:12:52]</strong> </span>
+<span class="speaker"><strong>发言人2: </strong></span>
+也不是很在乎是吧？你不是不在乎，就是对比说那个开盒开出来的肯定是更详细的细节信息。
+</p>
+<p class="transcript-line">
+<span class="time"><strong>[00:12:57]</strong> </span>
+<span class="speaker"><strong>发言人1: </strong></span>
+对，就是工作，对家人都会有。
+</p>
+<p class="transcript-line">
+<span class="time"><strong>[00:13:00]</strong> </span>
+<span class="speaker"><strong>发言人2: </strong></span>
+对，但就是姓名、住址、电话这种可能有的时候你这个名片上都会有，所以他他倒不是那么的敏感，对吧？对。
+</p>
+<p class="transcript-line">
+<span class="time"><strong>[00:13:06]</strong> </span>
+<span class="speaker"><strong>发言人1: </strong></span>
+确实这个黑产业链的中游，就是一些所谓的服务提供商，他们负责从上游的这些人购买这些隐私数据来进行分类打包，就还进行内容整理，就把它打包成一个可以售卖的产品。要么就是通过这个机器人来建立这种可检索的数据库，要么就是开个群，或者还可以发展各种下线的代理，还给这个代理抽成，还有代理让他们去拉新。就是你想这个telegram大家都懂，就是你还是需要一些科学上网的手段，这个科学上网够吗？这一期后面说那个科学上网不是一个概念，大家懂的都懂。就是你可能是有一点点的技术门槛的，所以你就可能没有办法直接获取很多新的客户。那你就需要发展这种代理，这些代理干什么呢？他们就去国内的各种什么QQ群，或者各种什么本地什么闲置交易群这种地方去拉新，尤其是像这些社交软件里面，去向这些饭圈的未成年们去兜售他们的这种服务。
+</p>
+<p class="transcript-line">
+<span class="time"><strong>[00:14:07]</strong> </span>
+<span class="speaker"><strong>发言人2: </strong></span>
+所以是这些人是开盒的大客户们。是的，就是除了那些商用的，比如说很多人他想诈骗，电诈他要需要你电话。
+</p>
+<p class="transcript-line">
+<span class="time"><strong>[00:14:14]</strong> </span>
+<span class="speaker"><strong>发言人1: </strong></span>
+除了这些商用的，对你想要电站那些人，人家肯定是人家有各种各样的渠道，什么上telegram，这都是小问题，对吧？人家还能去暗网获取一些信息。
+</p>
+<p class="transcript-line">
+<span class="time"><strong>[00:14:23]</strong> </span>
+<span class="speaker"><strong>发言人2: </strong></span>
+人家都是从批发价买的，就一百买成千上万条那种。是的。
+</p>
+<p class="transcript-line">
+<span class="time"><strong>[00:14:27]</strong> </span>
+<span class="speaker"><strong>发言人1: </strong></span>
+或者他们可以通过一些所谓的这种关系来认识一些有这种需求的人。由此你就可以不断的拉新的客户，就是把你的这个服务的信息要推广给你觉得有这个需求的客户，你刚才说的那种，比如说电诈网贷那种，他们肯定也是需要的。你看就网贷你拿来追债用，对吧？电诈团伙就更不用说了，我得知道你一系列的信息，我才能骗你，不然你怎么能上钩？最可怕的是啊也是根据媒体的报道里面写到的，就是如果你出价1000元左右可以买到存款信息。更可怕的是可以集齐买料的这个经典的四件套。
+</p>
+<p class="transcript-line">
+<span class="time"><strong>[00:15:05]</strong> </span>
+<span class="speaker"><strong>发言人2: </strong></span>
+经典四件套。
+</p>
+<p class="transcript-line">
+<span class="time"><strong>[00:15:06]</strong> </span>
+<span class="speaker"><strong>发言人1: </strong></span>
+这个四件套包括什么身份证、银行卡号、手机号，还有U盾，连U盾都可以给你盗取，基本上就把你银行卡里的钱刷走，这都是最简单的。
+</p>
+<p class="transcript-line">
+<span class="time"><strong>[00:15:20]</strong> </span>
+<span class="speaker"><strong>发言人2: </strong></span>
+可以吗？U盾它可能只是知道你U盾号，但他没有你的U盾。
+</p>
+<p class="transcript-line">
+<span class="time"><strong>[00:15:25]</strong> </span>
+<span class="speaker"><strong>发言人1: </strong></span>
+对理论上来说，U盾在你手里是不能被那个什么的刷走的。具体的这个技术信息我没有再去细究，但是通过这四件套，他就算不能把你卡里的钱刷走，但是可以做到一件事儿是什么呢？就是可以往里打钱，但是打的这个钱它是用来洗钱的，就是很多普通人的正常的账户是被当做了这种洗钱的账户用。
+</p>
+<p class="transcript-line">
+<span class="time"><strong>[00:15:48]</strong> </span>
+<span class="speaker"><strong>发言人2: </strong></span>
+这样。
+</p>
+<p class="transcript-line">
+<span class="time"><strong>[00:15:49]</strong> </span>
+<span class="speaker"><strong>发言人1: </strong></span>
+尤其是那种大家可能有一类账户，二类账户。你可能一类账户你有好多。
+</p>
+<p class="transcript-line">
+<span class="time"><strong>[00:15:54]</strong> </span>
+<span class="speaker"><strong>发言人2: </strong></span>
+那种安全加密的短信。
+</p>
+<p class="transcript-line">
+<span class="time"><strong>[00:15:55]</strong> </span>
+<span class="speaker"><strong>发言人1: </strong></span>
+微信通知都会有。但是二类有可能就没有，二类你打不进去那么多钱，你可能就成千上万个，就把你这个资金就给你分散掉。这当然这我这只是很表皮的一些操作，就是他们获取所有这些人的信息，都可以用你的这个银行账户来进行一系列的违法操作。
+</p>
+<p class="transcript-line">
+<span class="time"><strong>[00:16:12]</strong> </span>
+<span class="speaker"><strong>发言人2: </strong></span>
+所以突然感觉我们这个世界水好深。
+</p>
+<p class="transcript-line">
+<span class="time"><strong>[00:16:17]</strong> </span>
+<span class="speaker"><strong>发言人1: </strong></span>
+而且我最近看到一个新闻报道，就是类似于这种洗黑钱。好像提成现在可以高达40%.
+</p>
+<p class="transcript-line">
+<span class="time"><strong>[00:16:23]</strong> </span>
+<span class="speaker"><strong>发言人2: </strong></span>
+那是啊你洗了就跟白来的一样，这黑钱相当于对。
+</p>
+<p class="transcript-line">
+<span class="time"><strong>[00:16:27]</strong> </span>
+<span class="speaker"><strong>发言人1: </strong></span>
+也是你说违法犯罪的这个产业，你不是暴力谁干？对，当然也有这个黑客，他从窃取信息、整合信息到出售信息都自己一个人干了，就上中下游自己全包，就不让别人赚这份钱。
+</p>
+<p class="transcript-line">
+<span class="time"><strong>[00:16:39]</strong> </span>
+<span class="speaker"><strong>发言人2: </strong></span>
+抓就抓我一个人，我没有同伙。
+</p>
+<p class="transcript-line">
+<span class="time"><strong>[00:16:42]</strong> </span>
+<span class="speaker"><strong>发言人1: </strong></span>
+就。毕竟对于技术能力特别强的人，这种操作其实很简单。相当于是非常反面的利用了我们之前说过的这个算力钢板。
+</p>
+<p class="transcript-line">
+<span class="time"><strong>[00:16:51]</strong> </span>
+<span class="speaker"><strong>发言人2: </strong></span>
+这可能就是能力越大责任越大的那种诠释。对目前中国。
+</p>
+<p class="transcript-line">
+<span class="time"><strong>[00:16:55]</strong> </span>
+<span class="speaker"><strong>发言人1: </strong></span>
+网络黑产的这个整体规模没有特别权威的统计。但是我找到了一个叫做电商生态安全联盟的组织。他们在2017年的一个网络安全生态峰会的会议期间，发布了一个电商生态安全联盟白皮书。我一开始完全不知道这个是什么东西的。电商生态安全联盟我查了一下，这个联盟是2016年7月阿里发起的，而且还联合了腾讯、百度、360，还有清华以及中国金融认证中心的一些技术专家组成的。所以他们发布的这个白皮书，我觉得还是有一定的公信力的。这个白皮书里面提到，现在这种涉及到个人信息的网络黑产从业人员人数已经超过了150万，这么多人整体的市场规模已经超过了千亿元人民币。
+</p>
+<p class="transcript-line">
+<span class="time"><strong>[00:17:39]</strong> </span>
+<span class="speaker"><strong>发言人2: </strong></span>
+这可是17年的数据。
+</p>
+<p class="transcript-line">
+<span class="time"><strong>[00:17:40]</strong> </span>
+<span class="speaker"><strong>发言人1: </strong></span>
+是的，非常恐怖。这千亿元什么概念？相当于现在3分之1新能源产业的规模。
+</p>
+<p class="transcript-line">
+<span class="time"><strong>[00:17:46]</strong> </span>
+<span class="speaker"><strong>发言人2: </strong></span>
+是吗？新能源是有3000亿规模.
+</p>
+<p class="transcript-line">
+<span class="time"><strong>[00:17:48]</strong> </span>
+<span class="speaker"><strong>发言人1: </strong></span>
+不是新能源汽车，就是新能源储能，还有类似于相关包括固态电池，这些产业加起来差不多应该是四千多亿。所以这个超过千亿的规模差不多相当于3分之1。当然这么大的黑产规模，国家也不可能坐视不管。所以从2019年起，咱们国家就陆续发布了一系列的文件，就来加强对于互联网，还有各种软件里面的用户信息的保护。而且2021年11月还实施了一个个人信息保护法。虽然采取了很多措施，也很有效降低了国内的这些违法行为的发生，但是产生了一个不好的结果，就是这些黑产从业者基本都转移到了海外，交易的场景也基本都转移到海外了。而且这个交易的货币也从法币变成了虚拟货币，超难追踪。所以现在你很难去抓人，也很难去调查。所以现在其实这个黑产的现象还是屡禁不止。
+</p>
+<p class="transcript-line">
+<span class="time"><strong>[00:18:42]</strong> </span>
+<span class="speaker"><strong>发言人2: </strong></span>
+是我们管不了别人那块地儿，只能管自己这块地儿。没办法。是的。
+</p>
+<p class="transcript-line">
+<span class="time"><strong>[00:18:48]</strong> </span>
+<span class="speaker"><strong>发言人1: </strong></span>
+但是我们光是说这个黑产有多猖狂，或者是说这个市场规模有多大，这个只能给大家增加焦虑，对吧？对，这更关键的问题是在信息泄露已经很严重的情况下，我们有没有办法守住自己的个人信息呢？有没有办法避免被开合呢？我看了一圈，非常抱歉的告诉大家，基本是不太可能完全守住的。
+</p>
+<p class="transcript-line">
+<span class="time"><strong>[00:19:09]</strong> </span>
+<span class="speaker"><strong>发言人2: </strong></span>
+就是你都已经泄露了，你还怎么守住，你这不是矛盾吗？
+</p>
+<p class="transcript-line">
+<span class="time"><strong>[00:19:13]</strong> </span>
+<span class="speaker"><strong>发言人1: </strong></span>
+就是哪怕是没有泄露，在现在的这个环境之下，你也很难能完全守住。
+</p>
+<p class="transcript-line">
+<span class="time"><strong>[00:19:17]</strong> </span>
+<span class="speaker"><strong>发言人2: </strong></span>
+是的。
+</p>
+<p class="transcript-line">
+<span class="time"><strong>[00:19:18]</strong> </span>
+<span class="speaker"><strong>发言人1: </strong></span>
+但是我们还是想把一些实际的信息泄露的这个源头，或者说盗窃信息的这个方法告诉大家。
+</p>
+<p class="transcript-line">
+<span class="time"><strong>[00:19:25]</strong> </span>
+<span class="speaker"><strong>发言人2: </strong></span>
+争取让大家信息的方法告诉大家。
+</p>
+<p class="transcript-line">
+<span class="time"><strong>[00:19:27]</strong> </span>
+<span class="speaker"><strong>发言人1: </strong></span>
+对你得是一场记忆。
+</p>
+<p class="transcript-line">
+<span class="time"><strong>[00:19:30]</strong> </span>
+<span class="speaker"><strong>发言人2: </strong></span>
+行，可以。
+</p>
+<p class="transcript-line">
+<span class="time"><strong>[00:19:32]</strong> </span>
+<span class="speaker"><strong>发言人1: </strong></span>
+争取让大家就最大限度的减少自己个人信息的泄露。这个其实就涉及到我们的上网习惯了。说到上网习惯，我们就要给大家解释一下前面我们提到的社工库里的社工这两个字了。这个社工不是什么社区工作者，它是社会工程学的简称。黑客爬取私人信息的方法很大程度上就是依赖社会工程学。
+</p>
+<p class="transcript-line">
+<span class="time"><strong>[00:19:54]</strong> </span>
+<span class="speaker"><strong>发言人1: </strong></span>
+在信息安全领域，社会工程学是指的利用心理影响让人们采取行动或泄露机密信息的手段。还有另外一个定义是任何影响一个人采取可能符合或不符合其自身最大利益的行动的行为。所有的社会工程学的技巧，基本都是基于人类在决策过程中可以被利用的弱点，也就是认知偏差。这么说概念有点抽象，我们具体一些。
+</p>
+<p class="transcript-line">
+<span class="time"><strong>[00:20:21]</strong> </span>
+<span class="speaker"><strong>发言人1: </strong></span>
+2014年的时候有一部网络安全主题的德国电影叫我是谁。没有绝对安全的系统，这个里面有很多对于社会工程学非常直观的体现，大家有机会可以去看看。我是觉得这个电影还挺好看的。
+</p>
+<p class="transcript-line">
+<span class="time"><strong>[00:20:34]</strong> </span>
+<span class="speaker"><strong>发言人1: </strong></span>
+社会工程学里面有很多类型的手段，比如说诱饵攻击、水坑攻击等等。电影里面有一个很典型的诱饵攻击的例子。右耳攻击它指的是利用图片U盘等等媒介作为特洛伊木马，把这个病毒植入到电脑里面，实现入侵。电影中这个主角发现一家他们想要攻击的公司的职员，很喜欢在网上浏览各种小动物的照片，所以就发了一封邮件给这个人。这里面有非常可爱的小猫的照片。你看到这个特别喜欢的小动物的照片，你第一反应是什么？你肯定点开这个照片，你放大了想看看对不对？点开照片的一瞬间，这个入侵的程序就自动在后台运行了，最后就实现了对这家公司的入侵。
+</p>
+<p class="transcript-line">
+<span class="time"><strong>[00:21:17]</strong> </span>
+<span class="speaker"><strong>发言人2: </strong></span>
+听到这个我给你举一个，现实生活中大家在微信群里随处可见的这个诱饵攻击的例子。就是你在微信群里打开，比如说发现群里或者朋友发给你一个开头很引人入胜离奇曲折的故事。你读到最后一行，他都不出意外的是肯德基疯狂星期四V我50。对吧是这逻辑。
+</p>
+<p class="transcript-line">
+<span class="time"><strong>[00:21:39]</strong> </span>
+<span class="speaker"><strong>发言人1: </strong></span>
+差不多是这意思。总之先把你骗进来，骗进来之后你就可以载你了。对，其实这东西听起来没多高级，对吧？大家可能也想说，这不就老生常谈，天天国家这个网络安全宣传，什么反诈宣传都说了很多次了。但是道理听听都懂，一旦实际操作起来就很容易出问题。
+</p>
+<p class="transcript-line">
+<span class="time"><strong>[00:21:58]</strong> </span>
+<span class="speaker"><strong>发言人1: </strong></span>
+我说一下我自己的亲身经历，我没有直接的被这种钓鱼邮件骗过，但是我们公司的IT他经常会搞这种内部钓鱼测试，就是内部群发一个钓鱼邮件给一部分的员工。当然这个肯定不会造成实际信息被盗，就只是作为测试，这个钓鱼邮件伪装程度特别的高。我们内部有很多个这种系统，它平时会自动的发一些邮件给员工。比如说你人力资源部有一个系统，还有什么线上的培训或者课程也有系统，他都会定期发这种通知的邮件给你。而这个钓鱼邮件，它一般就会伪装成这个形式，它格式内容和平时我们收到的那些其他邮件都一样。而且他也会在平常这个邮件里面放链接的那个位置给你放一个链接。你如果点开那个链接的话，有的时候是直接点开链接你就完了。有的时候是点开这个链接，你会发现那个页面跟我们平时那个系统长得也一样，然后它会要求你输入平时你登录系统那个账号跟密码。当然内部人伪造你确实肯定比外部人更具迷惑性，因为就是一套东西。但是很少有人会发现的一个点是，那个发件地址跟我们平时收到系统邮件的一个邮箱地址差了一个字母。
+</p>
+<p class="transcript-line">
+<span class="time"><strong>[00:23:13]</strong> </span>
+<span class="speaker"><strong>发言人2: </strong></span>
+妈呀谁会看到这么细。
+</p>
+<p class="transcript-line">
+<span class="time"><strong>[00:23:15]</strong> </span>
+<span class="speaker"><strong>发言人1: </strong></span>
+但是你知道钓鱼邮件是我们公司之前真的出现过一次钓鱼邮件，导致了一部分人的信息被窃取，就是特别相近的一个邮箱地址。
+</p>
+<p class="transcript-line">
+<span class="time"><strong>[00:23:26]</strong> </span>
+<span class="speaker"><strong>发言人2: </strong></span>
+这是外部的这不是测试。
+</p>
+<p class="transcript-line">
+<span class="time"><strong>[00:23:27]</strong> </span>
+<span class="speaker"><strong>发言人1: </strong></span>
+对，是外部的一个真的是一个纯钓鱼的邮件。当时搞的好多人临时系统的账号都被封了，然后又改了密码。基本上，每一次我们埃踢发这种钓鱼邮件都会有好多人中招。然后IT就会在内网公示出来，我们这次钓鱼行动又有多少。
+</p>
+<p class="transcript-line">
+<span class="time"><strong>[00:23:47]</strong> </span>
+<span class="speaker"><strong>发言人2: </strong></span>
+人中招了。你这还挺有意思。
+</p>
+<p class="transcript-line">
+<span class="time"><strong>[00:23:49]</strong> </span>
+<span class="speaker"><strong>发言人1: </strong></span>
+然后又要给大家办这种网络安全培训，然后还要考试。
+</p>
+<p class="transcript-line">
+<span class="time"><strong>[00:23:53]</strong> </span>
+<span class="speaker"><strong>发言人2: </strong></span>
+你是在什么国家保密安全机关是吧？天天要搞这么这种反侦察意识这种东西。
+</p>
+<p class="transcript-line">
+<span class="time"><strong>[00:23:58]</strong> </span>
+<span class="speaker"><strong>发言人1: </strong></span>
+其实现在咱们国家整体对于保密工作其实就很重视，所以现在这种东西就内部演练就越来越勤。有的人肯定也会想，这个东西我自己注意一下不就行了吗？对吧？我每一个邮件我都仔细看，我不点这个链接，它还能入侵吗？但是我们说的这只是一个例子，就社会工程学它利用的其实是人性的弱点，跟你觉得自己学识是不是渊博，什么年龄高低这些都没关系。我们第四期节目里面曾经提到过，容易被骗，可能是基因的错，是吧？对，我们被骗可能是因为比如说默认真话原则，或者我们出现了一些超越性的需求。社会工程学利用的人性弱点也有类似的道理。就比如说信任与权威依赖，就是通过伪装成你的熟人，或者是你信任的网站、机构等等，让你卸下这种心房。
+</p>
+<p class="transcript-line">
+<span class="time"><strong>[00:24:47]</strong> </span>
+<span class="speaker"><strong>发言人2: </strong></span>
+而且他伪装成你常见的这种东西的话，你很难去怀疑它。因为你每天都在干这个事儿。
+</p>
+<p class="transcript-line">
+<span class="time"><strong>[00:24:52]</strong> </span>
+<span class="speaker"><strong>发言人1: </strong></span>
+而且你会自动的忽略掉一些你本来应该去检查的信息。或者是创造一个紧急场景，激发你这个战逃犯，从而抑制你理性思考。就比如说你涉嫌洗钱什么。
+</p>
+<p class="transcript-line">
+<span class="time"><strong>[00:25:04]</strong> </span>
+<span class="speaker"><strong>发言人2: </strong></span>
+就这种法院给你发传票了，给我打电话那种。
+</p>
+<p class="transcript-line">
+<span class="time"><strong>[00:25:09]</strong> </span>
+<span class="speaker"><strong>发言人1: </strong></span>
+或者是干脆伪装成你的家人说出事儿了，你赶紧给我打钱。
+</p>
+<p class="transcript-line">
+<span class="time"><strong>[00:25:13]</strong> </span>
+<span class="speaker"><strong>发言人2: </strong></span>
+就类似这种。对。
+</p>
+<p class="transcript-line">
+<span class="time"><strong>[00:25:15]</strong> </span>
+<span class="speaker"><strong>发言人1: </strong></span>
+通过这些简单的手段，入侵系统只是社会工程学里面很小的一环。那为什么开合能够把一个人的信息迅速准确的都开出来呢？有相当一部分原因是这个信息是我们自己送上门的。
+</p>
+<p class="transcript-line">
+<span class="time"><strong>[00:25:28]</strong> </span>
+<span class="speaker"><strong>发言人1: </strong></span>
+2020年凤凰网有一篇报道，当时是详细讲了手机APP是如何悄悄拿走大家的隐私数据的。这里面也举了一些例子，就是这个APP它在安装的时候都会向你发出一些申请，就是几十条后台调用系统信息的这种权限。我不知道有多少人会按条去看自己的安装的APP都调用了什么权限，而且你还要去想这个APP需要这个权限吗？对你应该都不会去看这种东西。
+</p>
+<p class="transcript-line">
+<span class="time"><strong>[00:25:55]</strong> </span>
+<span class="speaker"><strong>发言人2: </strong></span>
+一般都直接点同意。对。
+</p>
+<p class="transcript-line">
+<span class="time"><strong>[00:25:57]</strong> </span>
+<span class="speaker"><strong>发言人1: </strong></span>
+比如说某个购物APP它要调用你的位置信息，你拒绝了。你觉得购物APP不需要调用位置信息，对吧？没有关系，你只是拒绝了他直接调用位置信息的权限，你可能并没有拒绝他调用其他应用的后台信息的权限，你总要把你的位置信息给其他一些APP调用。比如说导航软件、打车软件。
+</p>
+<p class="transcript-line">
+<span class="time"><strong>[00:26:19]</strong> </span>
+<span class="speaker"><strong>发言人2: </strong></span>
+你不定位你用不了。还有外卖的你肯定得用，你肯定得用。
+</p>
+<p class="transcript-line">
+<span class="time"><strong>[00:26:23]</strong> </span>
+<span class="speaker"><strong>发言人1: </strong></span>
+包括很多年轻人现在喜欢用的这种速配约会软件，你肯定也得分享自己的位置信息。
+</p>
+<p class="transcript-line">
+<span class="time"><strong>[00:26:30]</strong> </span>
+<span class="speaker"><strong>发言人2: </strong></span>
+对，哇塞你不说我都没想到，因为我们这老年人都没有这种需求了，已经原来感觉自己又又out了。
+</p>
+<p class="transcript-line">
+<span class="time"><strong>[00:26:36]</strong> </span>
+<span class="speaker"><strong>发言人1: </strong></span>
+对，而且你想这种位置信息又真的很具体，都很敏感。对，所以这个购物APP它可以通过调用系统后台其他这些APP的信息来获取你的位置。当然2021年的时候，我们国家是出台了规范APP的权限使用，还有个人信息保护的相关的规定，这种情况已经少很多了。
+</p>
+<p class="transcript-line">
+<span class="time"><strong>[00:26:56]</strong> </span>
+<span class="speaker"><strong>发言人1: </strong></span>
+但是我不知道大家有没有看到过自己的手机上出现一种弹窗，就不管是苹果还是安卓，有的时候在你使用APP的时候，它会突然间蹦出来。上面写着为了改善您的使用体验，我们申请收集您在其他网站上的公开信息。你有看到过这种弹窗吧？对，其实这种弹窗还是一样的这样的目的。
+</p>
+<p class="transcript-line">
+<span class="time"><strong>[00:27:16]</strong> </span>
+<span class="speaker"><strong>发言人1: </strong></span>
+如果大家还是觉得这么说很泛泛的话，我们就给大家举一个再具体一点的例子。你在购物网站上填写过你的公司地址和手机号，对吧？不要觉得快递公司在面单上给你搞一个虚拟号码你就安全了。这个只能保证快递站点他拿到你的快递的时候，没有办法直接卖掉你的信息。对，而且这我提据，就是为什么之前曾经一段时间之内，快递站点卖个人信息的这个问题特别严重。是因为好多这种快递站点，它其实是加盟制的，它不是各个快递公司直属的对。
+</p>
+<p class="transcript-line">
+<span class="time"><strong>[00:27:48]</strong> </span>
+<span class="speaker"><strong>发言人2: </strong></span>
+所以他根本没有义务维护这些东西。
+</p>
+<p class="transcript-line">
+<span class="time"><strong>[00:27:50]</strong> </span>
+<span class="speaker"><strong>发言人1: </strong></span>
+是的，他觉得我拿到手这些信息，我能多卖点钱，是能降低我成本高，增加盈利的对那我们接着说我们这个例子，就算是快递站这儿看不到你的准确的电话信息，但是你的信息在购物网站上总是有留存的。对，如果你的电话，比如说通过内鬼卖信息的这种方式泄露了，那就可以通过你的电话搜索到你的微信，钉钉等等的账号，或者是你用手机号注册过的一切的社交平台的账号。是的，然后可以获取你的头像，用户名信息，看你都发过什么东西。还可以通过爬虫工具爬到你的手机号注册过的所有的这些平台，由此可以推断出你的习惯。然后再通过姓名、手机号、用户名、所在城市等等这些信息，综合起来寻找你在公开网络上发布的各种信息。
+</p>
+<p class="transcript-line">
+<span class="time"><strong>[00:28:42]</strong> </span>
+<span class="speaker"><strong>发言人1: </strong></span>
+这就不止于是什么社交网络上面的这种了。那可能就涉及到比如说银行的一些记录，或者是二手交易的这个记录。如果你还在社交媒体上发布过很多自己生活的细节，那简直了，那就更方便。对。
+</p>
+<p class="transcript-line">
+<span class="time"><strong>[00:28:56]</strong> </span>
+<span class="speaker"><strong>发言人2: </strong></span>
+直接给你查一底儿掉是，说到这个我插一句，就是好多人可能反向利用你说的这个点。我前两天看了一个文章，我不知道是真实的还是搞笑的，但它是一个思路挺逗的说现在很多人去比如说闲鱼这种二手交易平台相亲，就是看这些人卖二手都卖了什么，然后由此推断这个人人品，性格怎么着，跟自己符不符合。我觉得这个挺神奇的，就跟你这个思路好像。
+</p>
+<p class="transcript-line">
+<span class="time"><strong>[00:29:22]</strong> </span>
+<span class="speaker"><strong>发言人1: </strong></span>
+挺这其实是社会工程学的一种应用。
+</p>
+<p class="transcript-line">
+<span class="time"><strong>[00:29:25]</strong> </span>
+<span class="speaker"><strong>发言人2: </strong></span>
+对吧？是吧？社会工程学。
+</p>
+<p class="transcript-line">
+<span class="time"><strong>[00:29:26]</strong> </span>
+<span class="speaker"><strong>发言人1: </strong></span>
+那你想就是你有这么多这些细节在网上，甚至就是包括你亲友有哪些，你家里人是干什么的，有可能都能被挖出来。就比如说这次百度的这个高管加了这个女儿的事情，这么一拼凑，你的个人情况基本就7788了。然而我们说的这个，这还只是最最皮毛的对人家那些专业的高超的黑客是吧？我们刚才说了，连你银行卡所有那些信息都能给你挖出来。
+</p>
+<p class="transcript-line">
+<span class="time"><strong>[00:29:52]</strong> </span>
+<span class="speaker"><strong>发言人2: </strong></span>
+他他可能比你自己还了解你自己。
+</p>
+<p class="transcript-line">
+<span class="time"><strong>[00:29:53]</strong> </span>
+<span class="speaker"><strong>发言人1: </strong></span>
+对，就基本上你在互联网上就是。
+</p>
+<p class="transcript-line">
+<span class="time"><strong>[00:29:56]</strong> </span>
+<span class="speaker"><strong>发言人2: </strong></span>
+完全透明的。
+</p>
+<p class="transcript-line">
+<span class="time"><strong>[00:29:58]</strong> </span>
+<span class="speaker"><strong>发言人1: </strong></span>
+所以我们应该怎么改变自己上网的习惯，才能减少这种被人看光被人开合的可能性呢？虽然就是我们说了这个东西真的没有办法完全避免掉。我们也不是技术人员，没有办法告诉大家一对一这个非常高超的编程或者这些网络安全技巧。但是结合我们前面介绍的这些内容，我觉得我们还可以提供一些简单的实操性比较强的方法，让大家信息也不至于完全太透明，对吧？我想大概有以下这么几条。
+</p>
+<p class="transcript-line">
+<span class="time"><strong>[00:30:31]</strong> </span>
+<span class="speaker"><strong>发言人1: </strong></span>
+第一个就是网名要多样化，就你在不同网站上不要使用相同的昵称。因为这样就很容易通过一点点儿的信息就可以找到你的全部公开平台上发布的所有的信息。第二个就是尽量在各种社交媒体上关闭掉一个功能，就比如说把我推荐给好友。或者允许通过手机号搜索到我等等这些功能。
+</p>
+<p class="transcript-line">
+<span class="time"><strong>[00:30:55]</strong> </span>
+<span class="speaker"><strong>发言人1: </strong></span>
+第三个就是你发布或者发送出去的照片，这种类似的文件，要么去照片内部内涵的原信息，这个可能有一部分人听说过这个照片，尤其你现在用智能手机拍的这个照片，它这个照片的文件后台它是会包含时间跟地点的。这个可以通过比如说在iphone上把这个照片的定位权限关掉，或者也有一些专门的应用来可以干这件事儿。这个大家在网上搜一搜就能找到很多的方法。
+</p>
+<p class="transcript-line">
+<span class="time"><strong>[00:31:23]</strong> </span>
+<span class="speaker"><strong>发言人1: </strong></span>
+第四个就是尽量避免在各种软件或者网站中使用自己的实名手机号去进行注册。但是现在我发现真的这些个网站真的很过分。你现在不用手机号注册，他不让你用。对，哪怕你说我用微信登录，或者说我用什么什么登录，他也会跟你说你得绑定一个手机号。
+</p>
+<p class="transcript-line">
+<span class="time"><strong>[00:31:41]</strong> </span>
+<span class="speaker"><strong>发言人2: </strong></span>
+而且这种其实我觉得它是两面性的。就是你看我们国家不是要打造这个清朗的网络环境。对那很多时候你实名是为了让大家为自己的言论负责，或者说为了清朗。是的，对吧？
+</p>
+<p class="transcript-line">
+<span class="time"><strong>[00:31:52]</strong> </span>
+<span class="speaker"><strong>发言人1: </strong></span>
+但是实名又会带来很多。
+</p>
+<p class="transcript-line">
+<span class="time"><strong>[00:31:54]</strong> </span>
+<span class="speaker"><strong>发言人2: </strong></span>
+信息泄露的问题。
+</p>
+<p class="transcript-line">
+<span class="time"><strong>[00:31:56]</strong> </span>
+<span class="speaker"><strong>发言人1: </strong></span>
+对，我们单纯说就是不想泄露信息这一点，其实网络上是可以找到很多这种类似于虚拟手机号的服务的。对我知道注册的时候可以利用这种虚拟手机号来避免自己的这个手机号泄露。
+</p>
+<p class="transcript-line">
+<span class="time"><strong>[00:32:07]</strong> </span>
+<span class="speaker"><strong>发言人2: </strong></span>
+对，但多少也有点门槛。
+</p>
+<p class="transcript-line">
+<span class="time"><strong>[00:32:08]</strong> </span>
+<span class="speaker"><strong>发言人1: </strong></span>
+反正对而且这个虚拟手机号这个服务提供商也不一定可靠。是的。
+</p>
+<p class="transcript-line">
+<span class="time"><strong>[00:32:15]</strong> </span>
+<span class="speaker"><strong>发言人2: </strong></span>
+这就是个悖论。对还不如我把这个给平台？我感觉平台可能至少国家还可以查他是吧？
+</p>
+<p class="transcript-line">
+<span class="time"><strong>[00:32:19]</strong> </span>
+<span class="speaker"><strong>发言人1: </strong></span>
+是的，第五个就是如果要在公开平台上发言，那你尽量不要串其他平台的信息。
+</p>
+<p class="transcript-line">
+<span class="time"><strong>[00:32:26]</strong> </span>
+<span class="speaker"><strong>发言人2: </strong></span>
+就不要像我们这样。
+</p>
+<p class="transcript-line">
+<span class="time"><strong>[00:32:27]</strong> </span>
+<span class="speaker"><strong>发言人1: </strong></span>
+我们这天天串。对，我们都微博小红书发的都是一样的东西。但没办法，我们这个本来就是公众的账号，对吧？对，另外就是在平台上的发言，如果涉及到你的个人信息，比如你所在的学校或者公司，或者所学的专业，你所从事的行业等等，一定要做一些模糊化的处理。比如说我在北京什么某某高校，你不要直接说自己是哪个大学的。你说我在北京某什么财经类高校是吧？北京某综合大学这种。对，当然还有一些网站可以查询自己的账号是不是已经泄露了。这种首先是很难确定这个网站本身的是不是钓鱼的。
+</p>
+<p class="transcript-line">
+<span class="time"><strong>[00:33:05]</strong> </span>
+<span class="speaker"><strong>发言人2: </strong></span>
+就本来就没泄露，然后你查了一下泄露。
+</p>
+<p class="transcript-line">
+<span class="time"><strong>[00:33:08]</strong> </span>
+<span class="speaker"><strong>发言人1: </strong></span>
+其次这个数据的准确性其实你也很难核实，你也不知道他说的是真的假的。所以我们也就不推荐这个方法。当然如果我们的听友里面有技术大牛的话，那你完全可以选择什么隐私浏览器，或者什么linux系统，这种完全可以避免在互联网上留痕。这样的技术大牛不在我们讨论范围。
+</p>
+<p class="transcript-line">
+<span class="time"><strong>[00:33:27]</strong> </span>
+<span class="speaker"><strong>发言人2: </strong></span>
+对，其实听下来的话，这些更多是对于一个个人心理安慰的作用。就是人如果人家真想开合你的话，你肯定就被开盒了，这个已经没有什么可以很好避免的方法了。
+</p>
+<p class="transcript-line">
+<span class="time"><strong>[00:33:37]</strong> </span>
+<span class="speaker"><strong>发言人1: </strong></span>
+对我觉得我们说的这些，他唯一能做到的一点就是说别整的人家都不需要找专门人开盒，你人家大概自己在网上搜搜就能给你搜明。
+</p>
+<p class="transcript-line">
+<span class="time"><strong>[00:33:47]</strong> </span>
+<span class="speaker"><strong>发言人2: </strong></span>
+就是给其实就是给别人提高一下门槛，但不是说完全做不到。是的。
+</p>
+<p class="transcript-line">
+<span class="time"><strong>[00:33:51]</strong> </span>
+<span class="speaker"><strong>发言人1: </strong></span>
+尤其是女生，我觉得要格外注意自己的这种私人信息。
+</p>
+<p class="transcript-line">
+<span class="time"><strong>[00:33:55]</strong> </span>
+<span class="speaker"><strong>发言人2: </strong></span>
+因为这个还涉及到人身安全的问题。就可能男性可能稍微还好一点，对吧？但是现在可能也安全了，毕竟现在我们这个社会各方面的都比较混乱，对吧？
+</p>
+<p class="transcript-line">
+<span class="time"><strong>[00:34:05]</strong> </span>
+<span class="speaker"><strong>发言人1: </strong></span>
+对。那我们说完了这个上网习惯上的改善来避免被开合，我们可能要回到这个事件本身，就是我们在网络上这个情绪或者说发言这一方面上，我们到底怎么避免被开合？
+</p>
+<p class="transcript-line">
+<span class="time"><strong>[00:34:19]</strong> </span>
+<span class="speaker"><strong>发言人2: </strong></span>
+互联网不是法外之地。
+</p>
+<p class="transcript-line">
+<span class="time"><strong>[00:34:20]</strong> </span>
+<span class="speaker"><strong>发言人1: </strong></span>
+大家说话注意一点是吧？对，就是这意思。但是你说不是法外之地，单纯从这次这个事件里面那个孕妇的发言，其实也不是什么很过分的发言。
+</p>
+<p class="transcript-line">
+<span class="time"><strong>[00:34:29]</strong> </span>
+<span class="speaker"><strong>发言人2: </strong></span>
+对，说实话你家爱豆，你家哥哥很辛苦，这世界上谁活的不辛苦？我觉得这个。
+</p>
+<p class="transcript-line">
+<span class="time"><strong>[00:34:34]</strong> </span>
+<span class="speaker"><strong>发言人1: </strong></span>
+发言其实没什么太大问题。
+</p>
+<p class="transcript-line">
+<span class="time"><strong>[00:34:36]</strong> </span>
+<span class="speaker"><strong>发言人2: </strong></span>
+没什么太大问题。对。
+</p>
+<p class="transcript-line">
+<span class="time"><strong>[00:34:37]</strong> </span>
+<span class="speaker"><strong>发言人1: </strong></span>
+但是这个是你以一个有社会经验的成年人的视角来看的对，其实这次这个事件它出圈，它是集齐了很多平日里面很难同时集齐的要素，才导致他出圈的。你比如说你开盒，首先你开到了一个孕妇，对吧？你得引起民愤了。然后开合者被反开盒之后，这个反开出来的竟然还是大厂高管的子女。
+</p>
+<p class="transcript-line">
+<span class="time"><strong>[00:34:59]</strong> </span>
+<span class="speaker"><strong>发言人2: </strong></span>
+就觉得戏剧性有点张力的。
+</p>
+<p class="transcript-line">
+<span class="time"><strong>[00:35:02]</strong> </span>
+<span class="speaker"><strong>发言人1: </strong></span>
+所以其实这个问题它出圈还是因为有这些戏剧化的要素。在这些年其实被开合的人，或者说因为一些发言被网暴的人，这都不计其数了。其实关于舆论极化的这个话题，我们其实已经专门聊过一期了。那期里我们也说了很多什么，比如不被自己的观点异化，还有极端的言论来自于内心中的比较等等。这一期里我们不再赘述这些东西了。这一期里我就想从这个现象解读更具体到特定的行为本身。
+</p>
+<p class="transcript-line">
+<span class="time"><strong>[00:35:34]</strong> </span>
+<span class="speaker"><strong>发言人2: </strong></span>
+就是开合这个更具体的行为本身。
+</p>
+<p class="transcript-line">
+<span class="time"><strong>[00:35:36]</strong> </span>
+<span class="speaker"><strong>发言人1: </strong></span>
+对我觉得在这个事件里面，我感受到的是我们在互联网上的这些网民们，他们对于愤怒、怨恨和愤慨这三种情绪的混淆。
+</p>
+<p class="transcript-line">
+<span class="time"><strong>[00:35:45]</strong> </span>
+<span class="speaker"><strong>发言人2: </strong></span>
+这三种情绪还有这么具体的区分是吧？
+</p>
+<p class="transcript-line">
+<span class="time"><strong>[00:35:48]</strong> </span>
+<span class="speaker"><strong>发言人1: </strong></span>
+我为什么把这三个分开呢？就是因为看到了一篇论文，这也是在SCI1区的一篇论文，他叫anger and its cousins，反正只以为愤怒与其同辈近亲。在这篇论文里，两位学者是通过信念愿望这个心理理论。这个理论其实大家可以去找一下，也很简单。尤其是在婴幼儿，他们的大脑在发育的时候，在形成很多自我意识的时候会出现的一个理论。他们是用这个理论来分析了愤怒、怨恨和愤慨这三个情绪的核心差异。
+</p>
+<p class="transcript-line">
+<span class="time"><strong>[00:36:23]</strong> </span>
+<span class="speaker"><strong>发言人1: </strong></span>
+这个里面提到的愤怒，它用的是anger这个词，它有感知到的伤害来引发这个伤害。原文用词是harm，这个文章中也对这个词给出了准确的定义，就是任何阻碍目标实现的消极事件。这个消极事件可以由人或者自然或者偶然事件引发。所以你看这个引发的因素它不一定是可追责的对这种情绪的动机就是愤怒，这种情绪的动机是使这个伤害源受苦，但是不必涉及道德判断。
+</p>
+<p class="transcript-line">
+<span class="time"><strong>[00:36:57]</strong> </span>
+<span class="speaker"><strong>发言人1: </strong></span>
+这么说很抽象，我们打个具体的比方，比如说你在一个自动贩卖机那儿付了钱买了瓶水，但是这个水它没出来，这个很常见。是不是对你这个时候会感受到什么情绪？愤怒。因为这个时候你直接反应就是你是不是想敲那个机器。对对对，你可能敲的前两下是说你是不是敲两下觉得那个水能掉下来，对吧？敲两下这个水没掉下来，你还想再敲，为什么呢？这就是一个典型的愤怒情绪的体现，就是你这个时候很想通过敲打这个机器来泄愤。
+</p>
+<p class="transcript-line">
+<span class="time"><strong>[00:37:28]</strong> </span>
+<span class="speaker"><strong>发言人1: </strong></span>
+对而第二种怨恨这个情绪原文用的是resentment这个词，它是对个人遭受的不公正伤害的反应。它的核心诱因是感知到个人遭受的错误或者恶行。这个错误或者恶行在原文里是同一个词，叫做wrong doing。这个论文中对wrong doing的定义是责任性且不公正的伤害由可追责主体导致，且伤害被视为违反规范或权利。这种行为需要满足，可以责任归因，并且涉及权利侵犯。而这种怨恨的情绪的动机，他就是通过报复来追求扯平。这种报复行动常常伴有主观的正义判断，也就是认为自身的行为是正当的。
+</p>
+<p class="transcript-line">
+<span class="time"><strong>[00:38:17]</strong> </span>
+<span class="speaker"><strong>发言人1: </strong></span>
+我们也打个比方，就比如说你排队买一东西，你排了半天了，突然有一个人进来插队，还大言不惭的跟你说这位置就是我的。你是不是下意识想抽他一大嘴巴，然后抢回你自己的位置，让他站在你后面，对吧？对，你看这就是一个典型的怨恨情绪。因为你想让他站在你后面，这其实是一种报复，包括你抽他一大嘴巴。
+</p>
+<p class="transcript-line">
+<span class="time"><strong>[00:38:37]</strong> </span>
+<span class="speaker"><strong>发言人2: </strong></span>
+就是大嘴巴。不是，他站在我后面是应该的。
+</p>
+<p class="transcript-line">
+<span class="time"><strong>[00:38:39]</strong> </span>
+<span class="speaker"><strong>发言人1: </strong></span>
+对，但是你还是希望通过这种行动来扯平。
+</p>
+<p class="transcript-line">
+<span class="time"><strong>[00:38:42]</strong> </span>
+<span class="speaker"><strong>发言人2: </strong></span>
+对，而且这个认为自身行为是正当的这是肯定的。
+</p>
+<p class="transcript-line">
+<span class="time"><strong>[00:38:45]</strong> </span>
+<span class="speaker"><strong>发言人1: </strong></span>
+没错。所以这就是一个典型的怨恨情绪。而愤慨原文用的这个词是indignation。它的核心诱因是感知到他人遭受的错误，或者社会规范被违反。这种诱因里面不一定涉及到自己的利益。这种情绪的动机是要惩罚这种恶行，这个恶行也是wrong doing这个词。这种情绪最后的倾向往往是采用规范性制裁，比如说举报、公开谴责、诉诸法律途径等等。
+</p>
+<p class="transcript-line">
+<span class="time"><strong>[00:39:18]</strong> </span>
+<span class="speaker"><strong>发言人2: </strong></span>
+那这个跟怨恨的区别是不是在于就是说怨恨是自己的，而愤慨可能是社会性的。
+</p>
+<p class="transcript-line">
+<span class="time"><strong>[00:39:25]</strong> </span>
+<span class="speaker"><strong>发言人1: </strong></span>
+对，以及包括你是倾向于采取什么样的行动来解决这件事情。在这三个情绪里，因为愤怒他不涉及到道德判断，所以他经常被视为不合理。比如说你生气去砸那个自动贩卖机的时候，你旁边有一个朋友他可能就会跟你说，你砸他有啥用，对吧？就几块钱你就别跟他较劲了。对，当然我们不是说这样的话是对的，这话也挺气人的。
+</p>
+<p class="transcript-line">
+<span class="time"><strong>[00:39:48]</strong> </span>
+<span class="speaker"><strong>发言人2: </strong></span>
+还行。
+</p>
+<p class="transcript-line">
+<span class="time"><strong>[00:39:49]</strong> </span>
+<span class="speaker"><strong>发言人1: </strong></span>
+没那么气人。但是确实这个是在社会中比较常见的情况，就是愤怒会被视为不合理，或者是说没必要的这么一种情绪。对，但是另外两种情绪，他因为涉及到道德判断了，所以它相对而言更容易被社会接受。但是在这两种情绪里，我们是不是下意识地觉得愤慨往往被视为更高级更超脱的情绪。
+</p>
+<p class="transcript-line">
+<span class="time"><strong>[00:40:12]</strong> </span>
+<span class="speaker"><strong>发言人2: </strong></span>
+对，就有点。侠之大者，为国为民。就是你如果自己私刑，你就是任侠，就是自己滥用私刑。是的。但是如果你愤慨了，你想改变这个社会道德，改变社会法律，去进行更程序正义上的这种审判的话，那就变成你的侠之大者，为国为民了。
+</p>
+<p class="transcript-line">
+<span class="time"><strong>[00:40:29]</strong> </span>
+<span class="speaker"><strong>发言人1: </strong></span>
+是吧？他这个论文里面对这个的解释是这个愤慨除了不需要涉及到自己或者自己关心的人的利益以外，还以为愤慨的核心是去维护社会规范或者集体的利益，而非个人利益的补偿。这个道德判断是基于客观的规范，而不是个人的得失。
+</p>
+<p class="transcript-line">
+<span class="time"><strong>[00:40:51]</strong> </span>
+<span class="speaker"><strong>发言人2: </strong></span>
+对，这个愤慨就比如说很多像比如说我们的大使馆被人家轰炸了，然后我们群情激愤上街游行，这个当然就属于愤慨。
+</p>
+<p class="transcript-line">
+<span class="time"><strong>[00:40:58]</strong> </span>
+<span class="speaker"><strong>发言人1: </strong></span>
+对吧？但你不能说我期望美国人也一样，他们人被炸死，你这样就是一个怨恨情绪。
+</p>
+<p class="transcript-line">
+<span class="time"><strong>[00:41:04]</strong> </span>
+<span class="speaker"><strong>发言人2: </strong></span>
+对吧？
+</p>
+<p class="transcript-line">
+<span class="time"><strong>[00:41:04]</strong> </span>
+<span class="speaker"><strong>发言人1: </strong></span>
+对他不是一个怨恨。那我们翻回来看看，就在开盒这件事儿里边，各方的情绪到底是哪一种？如果大家去看这名被开合的孕妇此前的这个评论，其实你能明显感受到他是认为粉丝觉得偶像坐头等舱还魔鬼行程，你这个脱离群众脱离现实对吧？对，就是你这个对普通人是很大的冒犯，你觉得这是一句被需要被纠正的错误的话，他觉得自己的情绪是愤慨的表达。对。
+</p>
+<p class="transcript-line">
+<span class="time"><strong>[00:41:33]</strong> </span>
+<span class="speaker"><strong>发言人2: </strong></span>
+因为说实话这个事儿跟他自己没有什么太大关系，对，所以不能算是怨恨。对。
+</p>
+<p class="transcript-line">
+<span class="time"><strong>[00:41:38]</strong> </span>
+<span class="speaker"><strong>发言人1: </strong></span>
+但是他结尾的这句话真是什么话都说出来了。这句话我们虽然不是想抠字眼儿，但是其实你能感觉到这句话一说出来，它其实变成了一个想让发这条微博的人难受的这么一个定性的言论了。所以这个时候其实它是一个偏向于愤怒的表达。
+</p>
+<p class="transcript-line">
+<span class="time"><strong>[00:41:57]</strong> </span>
+<span class="speaker"><strong>发言人2: </strong></span>
+而且这个确实讲道理没什么道理，因为人家可以说这些话，对吧？是的，他就算说的不对，他也可以说。
+</p>
+<p class="transcript-line">
+<span class="time"><strong>[00:42:03]</strong> </span>
+<span class="speaker"><strong>发言人1: </strong></span>
+对你说你怎么什么话都能说得出来。这其实就是偏离了愤慨这种情绪的一种表达。那再反观这个把孕妇开合，后来又被反开合的女生，他的行为不用太多分析了，典型的怨恨情绪的表达，对吧？是，但是饭圈的很多人或者范围扩大一些，很多未成年人群他们处于成长的这个阶段，他没有完全形成自己的三观。所以他很容易认为自己的偶像，或者说不只是偶像，就自己所相信的一些事情，如果有其他人的反对意见的话，他觉得这是遭到其他人的抹黑了。
+</p>
+<p class="transcript-line">
+<span class="time"><strong>[00:42:38]</strong> </span>
+<span class="speaker"><strong>发言人2: </strong></span>
+只要是反对就是抹黑。
+</p>
+<p class="transcript-line">
+<span class="time"><strong>[00:42:40]</strong> </span>
+<span class="speaker"><strong>发言人1: </strong></span>
+对你这是一种不公正的行为，需要制止。所以他是误以为自己是愤慨的情绪。
+</p>
+<p class="transcript-line">
+<span class="time"><strong>[00:42:47]</strong> </span>
+<span class="speaker"><strong>发言人2: </strong></span>
+或者说其实这个东西也看他所在的群体。如果你对一个整个社会而言的话，他这个当然算不上是愤慨的情绪。对。但是具体到他这个小圈子，就比如说这个粉丝的圈子而言，假设他们这个圈子把它当成一个社会的话，他这个就变成愤慨的一种。
+</p>
+<p class="transcript-line">
+<span class="time"><strong>[00:43:02]</strong> </span>
+<span class="speaker"><strong>发言人1: </strong></span>
+情绪了哦也确实如果这么来说的话，其实这三个情绪的概念也是相对的对看你的这个主体是以多大的范围来分析。是的，但是我还是想说，就是他这个开合的行为有个最不好的地方。首先它肯定是一个施暴行为。其次我觉得它类似于是一个社会性谋杀的行为。
+</p>
+<p class="transcript-line">
+<span class="time"><strong>[00:43:20]</strong> </span>
+<span class="speaker"><strong>发言人2: </strong></span>
+而且他说白了他的这种行为不像说那个孕妇我发了一个东西还是有些依据的。就比如说对，至少她提到了我是睡头等舱什么等等这种东西，他这种开合行为是非常纯粹的报复。是的，他没有说我想把这个话题再进行进一步的讨论，分一个是非黑白，没有这些过程。对。
+</p>
+<p class="transcript-line">
+<span class="time"><strong>[00:43:39]</strong> </span>
+<span class="speaker"><strong>发言人1: </strong></span>
+因为如果是讨论的话。
+</p>
+<p class="transcript-line">
+<span class="time"><strong>[00:43:40]</strong> </span>
+<span class="speaker"><strong>发言人2: </strong></span>
+他就没必要开盒。
+</p>
+<p class="transcript-line">
+<span class="time"><strong>[00:43:42]</strong> </span>
+<span class="speaker"><strong>发言人1: </strong></span>
+对，就没必要开盒了。我们再来看看其他几个帮助这位被曝光的孕妇说话的网友，他们的这个行为是一开始是最完美符合愤慨的情绪表达的。
+</p>
+<p class="transcript-line">
+<span class="time"><strong>[00:43:51]</strong> </span>
+<span class="speaker"><strong>发言人2: </strong></span>
+因为就是纯粹利人的对，跟自己没关系的。是的。
+</p>
+<p class="transcript-line">
+<span class="time"><strong>[00:43:54]</strong> </span>
+<span class="speaker"><strong>发言人1: </strong></span>
+但是反开合这个事件一发生之后，这个行为也偏离了。当然不是每个受攻击的网友都去开合这个姑娘了，但是当你用反开合来进行报复的时候，其实又变成了一个怨恨的情绪的循环了。我想一定有听友想说，你这么说，那我要是在网上就看到有恶人在这瞎喷，对吧？我看不到他们受惩罚，我不喷他们，我心里难受。
+</p>
+<p class="transcript-line">
+<span class="time"><strong>[00:44:18]</strong> </span>
+<span class="speaker"><strong>发言人2: </strong></span>
+怎么办呢？其实是一个很朴素的公平正义的心理。
+</p>
+<p class="transcript-line">
+<span class="time"><strong>[00:44:21]</strong> </span>
+<span class="speaker"><strong>发言人1: </strong></span>
+对我觉得这个的关键就在于，其实我们就是要分清自己的内心。在这个时刻你是上面三种情绪里面的哪一种。当你觉得一个人应该受惩罚的时候，你也是相信自己的这个情绪偏向于愤慨的这个方向。你觉得你在道德上是正义的。对你会相信自己要维护的是社会规范或者集体利益。
+</p>
+<p class="transcript-line">
+<span class="time"><strong>[00:44:43]</strong> </span>
+<span class="speaker"><strong>发言人2: </strong></span>
+是最起码我维护的是这个互联网上的公序良俗，对吧？错。
+</p>
+<p class="transcript-line">
+<span class="time"><strong>[00:44:47]</strong> </span>
+<span class="speaker"><strong>发言人1: </strong></span>
+但你如果选择跟人对喷，或者是说以牙还牙的这种行为的时候，其实你开启的就是怨恨的循环。就是根据我们前面的这个结论，简单来说你通过举报、报这种诉诸公权力的这种规范性制裁的手段？这个才是真正能维护社会规范的。
+</p>
+<p class="transcript-line">
+<span class="time"><strong>[00:45:06]</strong> </span>
+<span class="speaker"><strong>发言人2: </strong></span>
+就是接受我的律师函。你而且。
+</p>
+<p class="transcript-line">
+<span class="time"><strong>[00:45:08]</strong> </span>
+<span class="speaker"><strong>发言人1: </strong></span>
+你更重要的是什么？是结合我们这一期所说的这个主题，你可以避免因为这种言论造成自己被开合，或者是说有更大范围的伤害，或者更大范围的更差的影响。
+</p>
+<p class="transcript-line">
+<span class="time"><strong>[00:45:22]</strong> </span>
+<span class="speaker"><strong>发言人2: </strong></span>
+对，其实就是说如果你为了反对开合而开盒的话，大家就相当于在手段上是一样肮脏了。
+</p>
+<p class="transcript-line">
+<span class="time"><strong>[00:45:28]</strong> </span>
+<span class="speaker"><strong>发言人1: </strong></span>
+对，就是很平实的说狗咬你，你不能咬狗的这个逻辑。其实我们今天就是用情绪的这几种分类来给大家分析一下，为什么是这样。其实你在网上以牙还牙，逞口舌之快，从这样我们今天的结论来看，这就是最差的一种选择。对。
+</p>
+<p class="transcript-line">
+<span class="time"><strong>[00:45:46]</strong> </span>
+<span class="speaker"><strong>发言人2: </strong></span>
+既然聊到这儿了，我们就说看来其实这个话题没有一个特别好的解决方案，或者说一个一定在实操环节和逻辑上和道德上都没有瑕疵的很完美的解决方案。那如果比如说真的遇到了这样的事情，比如说我们现在从比较浅的层次开始说，当有网友开始出现跟我们对喷的时候，你觉得我们怎么处理这个问题比较好？
+</p>
+<p class="transcript-line">
+<span class="time"><strong>[00:46:12]</strong> </span>
+<span class="speaker"><strong>发言人1: </strong></span>
+其实我们节目之前真的是相当遇见过一些让我很想喷的评论。
+</p>
+<p class="transcript-line">
+<span class="time"><strong>[00:46:19]</strong> </span>
+<span class="speaker"><strong>发言人2: </strong></span>
+然后老头就直接拉黑了是吧？
+</p>
+<p class="transcript-line">
+<span class="time"><strong>[00:46:20]</strong> </span>
+<span class="speaker"><strong>发言人1: </strong></span>
+对我最后是选择直接拉黑了。其实我觉得帮自己说句话，我觉得根据我今天的结论，我其实是维护了社会规范的。我觉得也是。对，这个其实在我这儿，我觉得比如说拉黑跟举报是差不多的功能。就是当我拉黑这个人我不仅停止了他能骚扰我的这个机会，同时我觉得我减少了这个人在互联网上乱发言影响大家的观感的一个可能性。对。
+</p>
+<p class="transcript-line">
+<span class="time"><strong>[00:46:47]</strong> </span>
+<span class="speaker"><strong>发言人2: </strong></span>
+而且这句话反过来说，就是我们也没有禁止他们有什么言论自由的。就是你想在自己的平台说，或者你想在自己的社交账号说，你还是随便说，我没有权利在你自己的社交上拉黑。没错，我只说在我的评论里把拉黑了。就是你扯到一些很极端的言论，或者说一些跟我们本期讨论的内容完全没关，莫须有的东西的时候。
+</p>
+<p class="transcript-line">
+<span class="time"><strong>[00:47:07]</strong> </span>
+<span class="speaker"><strong>发言人1: </strong></span>
+对，或者你甚至明显的看那个评论，你根本就没有听我在说什么。
+</p>
+<p class="transcript-line">
+<span class="time"><strong>[00:47:12]</strong> </span>
+<span class="speaker"><strong>发言人2: </strong></span>
+显然是听完显然是引战的是吧？
+</p>
+<p class="transcript-line">
+<span class="time"><strong>[00:47:15]</strong> </span>
+<span class="speaker"><strong>发言人1: </strong></span>
+对，你就是来引战，你就是为了纯来说一句你自己的看法，甚至跟我的内容关系都不大，这种情况下那我必拉黑你对吧？对，而且上次我去参加完小宇宙的线下的那个活动，那天晚上我们一块儿吃饭的时候，大家就聊到这个问题，真的有的时候看到很多评论，就是你哪怕说自己在不在乎，对吧？我知道他们说那些东西不对，我还是会难受，这是很正常的一种情绪。
+</p>
+<p class="transcript-line">
+<span class="time"><strong>[00:47:40]</strong> </span>
+<span class="speaker"><strong>发言人2: </strong></span>
+对，就是他恶心了你一下。
+</p>
+<p class="transcript-line">
+<span class="time"><strong>[00:47:41]</strong> </span>
+<span class="speaker"><strong>发言人1: </strong></span>
+对你觉得你自己很用心，做出来的这些内容就获得了这样的一些评价。哪怕你心里再强大，你还是会觉得很烦。当时我就跟他们说，我就说可能确实有一些评论对我们的批评是对的，但是那些我觉得是无稽之谈，是乱喷的那种评论我就必拉黑。有一个拉黑一个，有1000个拉黑1000个，为什么呢？就是我刚才说的这个理论，我们从一开始只是一个小博客，到现在我们可能比如说在小宇宙上就已经五万多的电影院了。我们每一期的节目内容底下的评论是有很多是有几万人要去看的。我觉得作为一个主播，你是有这个责任跟义务去维护你评论区的这个纯净的。其实你发出来的这一期节目，它不只是这个音频，是你的内容。
+</p>
+<p class="transcript-line">
+<span class="time"><strong>[00:48:24]</strong> </span>
+<span class="speaker"><strong>发言人2: </strong></span>
+对，评论是跟我们共建的一个内容的一部分。
+</p>
+<p class="transcript-line">
+<span class="time"><strong>[00:48:26]</strong> </span>
+<span class="speaker"><strong>发言人1: </strong></span>
+你的show notes，你的评论区，还有你怎么回复评论区，这都是你内容的一部分。
+</p>
+<p class="transcript-line">
+<span class="time"><strong>[00:48:31]</strong> </span>
+<span class="speaker"><strong>发言人2: </strong></span>
+有道理。
+</p>
+<p class="transcript-line">
+<span class="time"><strong>[00:48:32]</strong> </span>
+<span class="speaker"><strong>发言人1: </strong></span>
+所以你作为一个主播，你就是要维护好这些东西。
+</p>
+<p class="transcript-line">
+<span class="time"><strong>[00:48:35]</strong> </span>
+<span class="speaker"><strong>发言人2: </strong></span>
+而且实际上的话就是因为我是搞金融的，学经济学的。所以我从经济的角度讲的话，我觉得这个可能是一个当一个负面的言论出现的时候，你把它对你来说的成本最小化的方式。就是我没有回击，我也没有予以回应，或者说我也没有拿出来再翻出来说，我只是就默默把它拉黑了。这可能是对这种不实言论，或者说这种极端言论、报复性言论、谣言这些统称的这种不良信息的一种比较好的回应方式。就是我让他的影响最小化，至少对我自己的影响是最小化的。是的。
+</p>
+<p class="transcript-line">
+<span class="time"><strong>[00:49:09]</strong> </span>
+<span class="speaker"><strong>发言人1: </strong></span>
+而且其实如果具体到我们今天说的开合这个事件里面，它还有另外一个点，我前面没有说就是。可能涉及到就比如说饭圈的，其实我们国家对饭圈已经真的下了狠手的整治了，是吧？对，就已经在清朗行动里面就搞了很多这种什么清除网络利器的行动。但是毕竟这个圈子里面真的未成年人占95%了，我觉得差不多得。其实很多时候成人去看未成年人的很多发言，你一定会觉得你理解不了，或者是说你觉得他很不合理。我觉得当你知道这个人或者是说发表言论的这个人，他跟你的认知不在一个阶段，或者说他跟你的年龄，跟你的经历都不在一个水平的时候，你应该避免去跟这种人做过多的交流。
+</p>
+<p class="transcript-line">
+<span class="time"><strong>[00:49:57]</strong> </span>
+<span class="speaker"><strong>发言人2: </strong></span>
+这就是其实又回到言论极化那一期我们讲到的，人家说了，在这个极化里，本来大家有一种科学上的之前的说法叫做暴露疗法，或者说就是多接触就会变好。但那期我讲了，多接触多暴露反而会导致大家更分化成两个阵营。
+</p>
+<p class="transcript-line">
+<span class="time"><strong>[00:50:13]</strong> </span>
+<span class="speaker"><strong>发言人1: </strong></span>
+对吧？是的，而且如果说是在那种很愉快的场景下，不同阶级不同年龄段的人互相的交流，你可能会迸发很多火花。但是如果是在不愉快的这种条件下，你基本上这种交流它不能叫交流。基本上最后很快就会变成一个怨恨循环，就变成互相指责。
+</p>
+<p class="transcript-line">
+<span class="time"><strong>[00:50:32]</strong> </span>
+<span class="speaker"><strong>发言人2: </strong></span>
+那我们直接互喷就不说了，我们说一个跟今天更相关的，也更危险的情况。假设我们被人开合了，假设咱俩被人开合了，你被人开合了，那你觉得你会怎么做呢？
+</p>
+<p class="transcript-line">
+<span class="time"><strong>[00:50:44]</strong> </span>
+<span class="speaker"><strong>发言人1: </strong></span>
+这个涉及到你有没有什么见不得人的事儿，你知道吗？我觉得被人开合之后，最关键的一点就是先保护好自己身边的人，就先保护好自己在乎的人，这是最重要的。因为一般现在的开盒不是就看你自己，像这种饭圈开合只是为了攻击你一下，这都是好的。你像别的开合是为了诈骗你，或者说威胁你整个家人安全什么的，这种就更可怕。所以我觉得被开合的第一点，我第一个能想到的就是我要保护好自己身边我所爱的人。第二点就是你看自己的信息什么都公开了，对吧？这个其实我个人觉得没啥是吧？
+</p>
+<p class="transcript-line">
+<span class="time"><strong>[00:51:22]</strong> </span>
+<span class="speaker"><strong>发言人2: </strong></span>
+对对我我觉得。
+</p>
+<p class="transcript-line">
+<span class="time"><strong>[00:51:23]</strong> </span>
+<span class="speaker"><strong>发言人1: </strong></span>
+我这危险发现就大家先去开。
+</p>
+<p class="transcript-line">
+<span class="time"><strong>[00:51:26]</strong> </span>
+<span class="speaker"><strong>发言人2: </strong></span>
+我的天没有，我说说我的想法。首先假设我被开合了，我必须先站出来说，我认为所有开合的人都是不对的。首先这个你刚才说了，如果他已经被定义成一个违法行为了，它就是违法的。但即便它不是一个违法行为，它显然也是一个绝对违反道德的行为。是的，因为这个本来就是个人隐私。我觉得这个不能说你本人是不是做了一些见不得人的事儿。比如我们金融圈流行吃瓜，你基本上每天都能见到大家在这种这小道消息的微信群里，传播一些什么某金融高管，然后又出轨了，什么找小三了，就这样这样的瓜。当然找小三跟出轨这件事儿肯定也是道德上很有瑕疵的，就特别不对的。
+</p>
+<p class="transcript-line">
+<span class="time"><strong>[00:52:09]</strong> </span>
+<span class="speaker"><strong>发言人2: </strong></span>
+但是开合人家就很对吗？也不一定，我觉得大家各有各的不对。比如说我们说我们有的听众朋友啊，或者说你见了类似的这些人，他们被开合了，可能他们确实道德上有些瑕疵。但你一定要认识到，并不是因为他们道德上有瑕疵，开他们和这件事就变成对的了。开合这件事仍然是不对的。所以我首先说被开盒了，不管这个被开合的人是不是有料有瓜吃。但是大家要认识到，你首先要站出来反对这些开合的人站出来反对这个开合的行为，因为这在程序上就是绝对不正义的。
+</p>
+<p class="transcript-line">
+<span class="time"><strong>[00:52:40]</strong> </span>
+<span class="speaker"><strong>发言人1: </strong></span>
+是的，这个其实就是包括很多的那种超级英雄电影里面反复提到过的这种话题。也是比如说你真的有很大的能力，你抓到这个坏人，你很想处决他，但你不能用私刑。因为你一旦用了私刑，你采取的这种措施就会让你跟你想触觉的这个人是一模一样的了。
+</p>
+<p class="transcript-line">
+<span class="time"><strong>[00:52:58]</strong> </span>
+<span class="speaker"><strong>发言人2: </strong></span>
+他甚至谈不上到这么高的高度。就比如说即便有人用私刑，像是我们国家著名的这个案例，就是施剑翘为父报仇，大家应该看过，就是民国时期的一个著名的典型。最后他被总统特赦了，就被民国的总统特赦了。
+</p>
+<p class="transcript-line">
+<span class="time"><strong>[00:53:14]</strong> </span>
+<span class="speaker"><strong>发言人2: </strong></span>
+应该是我记得那这种我觉得私刑其实是作为普通的人民群众的情感都是可以理解的。但是像开盒这件事情，完全不是他不是说我通过堂堂正正的，就哪怕你说我就是这个人跟我有血海深仇，但是我已经有充足的证据了。但可能公权力就是包庇他或者没答出来。这个在古代，当然可能在别的国家都是有可能发生的对吧？然后我就是当街把他刺死了或者怎么样，出于一种报复，在这种情况下可能绝对会有人站出来为你发声的。是的，舆论上肯定会站出两派，就有人会支持你的。他的可能就是说会更多讨论到当公权力，当这个程序正义不能帮你解决正义的时候会怎么办。
+</p>
+<p class="transcript-line">
+<span class="time"><strong>[00:53:55]</strong> </span>
+<span class="speaker"><strong>发言人2: </strong></span>
+但是像开合这件事情，它实际上是我个人其实没有能力或者说甚至没有勇气直面你，或者说跟你堂堂正正的来一场对决。来用我自己的私刑报复你都不是。他是我做了一些很阴暗的手段，然后把它放到舆论中去，希望煽动别人用网络暴力来对你执行一种公刑。其实这不是私刑。对，是公司不是公司。因为是网络暴力来对你进行的这种为。所以我第一就是大家要认识到所有的开合都是不对的那程序也不正义，他甚至称不上一种正当的思想。对。
+</p>
+<p class="transcript-line">
+<span class="time"><strong>[00:54:28]</strong> </span>
+<span class="speaker"><strong>发言人1: </strong></span>
+包括我们说的就是有其他网友开盒的这个姑娘本身这个程序也是不对的这也是不对的。
+</p>
+<p class="transcript-line">
+<span class="time"><strong>[00:54:34]</strong> </span>
+<span class="speaker"><strong>发言人2: </strong></span>
+第二点我想说的就是绝对不要参与别人开盒之后在这个舆论声讨中的过程，因为你就是绝对的帮凶。是的，我觉得大家可以说，就比如说像施剑翘这样的人，他做了这种为负报酬这样的思想。我们可以写文章为他发声，我们可以站街出来为他游行，我觉得这都是朴素的正义感允许的。但是像开盒这种事情，你本身在这个滥用暴力的过程中，你参与进去了，你就没有说再有资格站出来说他是对的或者是错的了。你已经脱离开我们支持或者不支持审判不审判的这个阶段了。你本身就是参与者了，已经你是整个暴力活动中的一个参与者。所以一是大家认识到这是绝对不对的，无论出于什么目的，无论被开口的人是不是有问题。第二个就是不要参与这种行为，大家不要把它美化成一种，就是说我好像是一个比如说有调查记者调查出来了一个政府丑闻，然后我上街游行了，这是完全两码事情。是的。
+</p>
+<p class="transcript-line">
+<span class="time"><strong>[00:55:33]</strong> </span>
+<span class="speaker"><strong>发言人1: </strong></span>
+而且我们今天说到的就是怨恨的这种情绪，他的动机是为了去报复来扯平。报复有一个最大的负面影响，就是报复永远是循环的对。
+</p>
+<p class="transcript-line">
+<span class="time"><strong>[00:55:43]</strong> </span>
+<span class="speaker"><strong>发言人2: </strong></span>
+冤冤相报何时了。
+</p>
+<p class="transcript-line">
+<span class="time"><strong>[00:55:44]</strong> </span>
+<span class="speaker"><strong>发言人1: </strong></span>
+对，就是一个报复就会接来另外更多的报复，所以这个东西最终它不会起到任何正面的作用。
+</p>
+<p class="transcript-line">
+<span class="time"><strong>[00:55:52]</strong> </span>
+<span class="speaker"><strong>发言人2: </strong></span>
+所以其实开合这个行为它本身就是一个错误。如果这个错误可能有一些无知的，或者说没有一个完全行为能力的这些人，他们去进行了这种错误的开始。至少让我们其他的成年人，我们听这期节目的朋友，我们有能力控制自己行为的人，不要把这个错误再加大，不要让这个错误再持续下去，这是我们可以做到的。是的。
+</p>
+<p class="transcript-line">
+<span class="time"><strong>[00:56:17]</strong> </span>
+<span class="speaker"><strong>发言人1: </strong></span>
+不过刚才你我们就聊远点，就刚才你说到这金融圈经常有各种八卦，什么谁出轨了什么这种事儿。我突然间想到就是之前有个电视剧是檀健次跟荣梓杉主演的，叫你安全吗。其实这个电视剧讲的是网络安全这个产业，其实跟我们今天这个主题。
+</p>
+<p class="transcript-line">
+<span class="time"><strong>[00:56:35]</strong> </span>
+<span class="speaker"><strong>发言人2: </strong></span>
+也相关是息息相关。对。
+</p>
+<p class="transcript-line">
+<span class="time"><strong>[00:56:37]</strong> </span>
+<span class="speaker"><strong>发言人1: </strong></span>
+他们那个里面，我看那个电视剧的开头，就是某企业高管的老婆觉得自己老公有可能出轨了。然后找这个网络安全公司的这个老板，就檀健次演的帮她查她老公是不是出轨了，他都不需要真的跟私家侦探一样去查他是不是什么行踪，因为私家侦探在咱们国家是违法的。他只是通过分析他的很多网络行为，你就能发现这绝对有问题。
+</p>
+<p class="transcript-line">
+<span class="time"><strong>[00:57:01]</strong> </span>
+<span class="speaker"><strong>发言人2: </strong></span>
+对，这就是为什么很多的APP或者说很多的网站，它通过你的这个购买行为或者一些行为的记录，就能给你建立出一个用户画像。是。
+</p>
+<p class="transcript-line">
+<span class="time"><strong>[00:57:11]</strong> </span>
+<span class="speaker"><strong>发言人1: </strong></span>
+不过虽然说这种大数据捉奸这种行为可能也有一点点争议。但是其实网络安全这个行业整体还是对于保护我们个人的隐私是很重要的。那个电视剧里也体现了很多，比如说什么境外的电诈，还有什么线上赌博，这种的相关的这种犯罪。其实能通过网络安全这个产业的发展，也是能解决掉相当一部分的案子。虽然大部分的可能在境外比较难追查，但是我觉得如果网络安全这个产业能够蓬勃发展的话，应该我们个人隐私也能得到更好的保护。那我们今天的讨论就到此结束。
+</p>
+<p class="transcript-line">
+<span class="time"><strong>[00:57:45]</strong> </span>
+<span class="speaker"><strong>发言人1: </strong></span>
+如果大家喜欢你们听到的内容的话，欢迎点赞、订阅、转发。我们很希望提供一些有趣的视角来观察这个世界，也很希望和评论区的你进行交流，所以不要犹豫，在评论区留下你的想法。以上就是本期叙事之间的全部内容，感谢大家的收听，再见再见。
+</p>]]></content:encoded>
+            <pubDate>Wed, 23 Apr 2025 04:00:00 GMT</pubDate>
+            <guid>680765dd8aed253fa3d56dbd</guid>
+        </item>
         <item>
             <title>E068 关税2：关税背后的美国困境</title>
             <link>https://www.xiaoyuzhoufm.com/episode/67f93caf623bc78c390e5bc6</link>
@@ -27041,683 +28579,6 @@ Footprints --- Joey Alexander
 </p>]]></content:encoded>
             <pubDate>Wed, 07 Aug 2024 04:00:00 GMT</pubDate>
             <guid>66b07a537349f7a557d50b4a</guid>
-        </item>
-        <item>
-            <title>E039 奢牌巡礼番外：历峰集团，不一样的华丽转身</title>
-            <link>https://www.xiaoyuzhoufm.com/episode/66a700067349f7a55733953f</link>
-            <description>奢牌巡礼系列很久没有更新了，这周我们为大家更新一期奢牌巡礼系列的番外节目，我们此前的节目中讲到了LVMH集团和开云集团，但是对于全球另一大奢侈品行业巨头历峰集团还没有详细讲过，所以这一期番外节目，我们不具体讲某个品牌，而是给大家带来历峰集团的故事。
-本期主播：
-老饕、活在裆下
-本期内容：
-00:55 简单回顾巴黎奥运会开幕式上LVMH集团的超强存在感
-04:04 安东·鲁伯特从大学讲师到创立烟草公司的经历
-07:09 推出伦勃朗牌卷烟、收购乐富门及登喜路并成功上市
-09:16 参与大陆商业财团，收购卡地亚
-12:57 通过登喜路收购万宝龙
-14:03 南非政局动荡在即，约翰·鲁伯特向父亲献策
-16:55 伦勃朗集团拆分海外业务，历峰集团成立
-17:47 品牌管理架构混乱，约翰通过换股成立旺多姆集团，整合奢侈品业务
-20:20 现金流充足，历峰开启收购模式
-21:04 亚洲金融危机来临，历峰回购旺多姆集团股权
-21:43 通过换股出售乐富门，持股英美烟草
-23:48 收购梵克雅宝和LMH的故事
-29:16 剥离烟草业务，收购罗杰杜彼和卡地亚剩余股权
-32:03 投身奢侈品电商业务，押宝发发奇失败
-34:47 历峰集团的近期业绩表现
-36:06 历峰的故事带来的对于企业和个人发展的变革的感悟
-40:25 温和和中庸的方式在商业竞争中也可以走得很远
-本期音乐：
-Wonder --- J. T. Peterson
-本期推荐书籍&amp;文章：
-《吕氏春秋》 吕不韦 等 著
-《论自然》 赫拉克利特 著
-《重新思考》 亚当·格兰特 著
-本期文稿后续将发布在微信公众号：虚实之间True Imagination
-节目微博：虚实de老饕</description>
-            <content:encoded><![CDATA[<h1>转写链接</h1>
-<link>https://tongyi.aliyun.com/efficiency/doc/transcripts/g34dn8ewpra3nwjz</link><br>
-<h1>节目摘要</h1>
-<div class="summary">一家源自南非的集团，最初以烟草业起步，历经数十年，通过一系列的战略收购与重组，成功蜕变，最终确立了其在奢侈品领域的全球领导者地位。集团发展过程中，创始团队展现了卓越的创新与变革能力，不仅成功收购并整合了卡地亚、乐富门、登喜路等标志性品牌，还适时剥离非核心业务，集中资源于奢侈品的深化与拓展。面对行业挑战，集团灵活调整策略，探索电商等新兴销售渠道，虽遭遇一些挫折，但整体仍保持稳健增长。此历程强调了企业面对市场变化时的转型勇气与创新精神的重要性，以及温和合作、追求共赢的商业策略在推动企业发展中所扮演的关键角色。</div><br>
-<h1>章节速览</h1>
-<div class="chapters">
-<div class="chapter-item">
-<span class="time"><strong>[00:00:00]</strong> </span>
-<span class="chapter-title"><strong>从烟草到奢侈品：利丰集团的转型之旅</strong></span>
-<div class="chapter-summary">巴黎奥运会开幕式上，LVMH集团的品牌得到显著曝光，特别是路易威登为火炬和奖牌特制的行李箱，以及尚美巴黎制作的奖牌和Fenty Beauty提供的彩妆产品。此次奥运会展示了LVMH在营销决策上的出色能力。然而，本期节目转向讨论奢侈品领域的另一个重要集团——利丰集团，探讨其从一家烟草企业成功转型为全球知名奢侈品集团的过程。</div>
-</div>
-<div class="chapter-item">
-<span class="time"><strong>[00:04:04]</strong> </span>
-<span class="chapter-title"><strong>安东鲁伯特与利丰集团的创业历程</strong></span>
-<div class="chapter-summary">安东鲁伯特，南非著名企业家，原本希望成为一名医生，后因家庭经济原因转而攻读化学，并最终投身商界。他首次创业开了一家干洗店，后在二战期间与朋友以极低价格收购濒临破产的烟草工厂，创立了沃尔烟草公司。随着业务的扩展，他成立了技术与工业投资公司，投资多个行业，并在1948年推出伦勃朗牌卷烟，迅速占领市场份额。1954年，通过收购获得英国烟草制造商乐富门的控股权，并于1956年在约翰内斯堡证券交易所上市。此后，他继续扩张，收购了多个烟草集团，并进军奢侈品行业，展现了其卓越的商业头脑和追求卓越的品质理念。</div>
-</div>
-<div class="chapter-item">
-<span class="time"><strong>[00:08:25]</strong> </span>
-<span class="chapter-title"><strong>安东收购登喜路及卡地亚品牌的战略布局</strong></span>
-<div class="chapter-summary">安东最初对登喜路的兴趣在于其烟草产品，而后通过收购登喜路进一步扩张了其在烟草领域的业务。随后，安东通过伦勃朗股份有限公司整合投资、采矿等业务。在卡地亚方面，经过与Silver Match的罗伯特霍克的合作，安东利用卡地亚美国的股权交换，成功进入收购卡地亚的财团，并最终协助完成了对卡地亚巴黎、伦敦、纽约三地公司的收购，将卡地亚品牌纳入自己的品牌矩阵中。此外，安东还通过登喜路品牌收购了万宝龙，显示出其对奢侈品牌价值的认可和布局。</div>
-</div>
-<div class="chapter-item">
-<span class="time"><strong>[00:13:20]</strong> </span>
-<span class="chapter-title"><strong>卡地亚发展历程与鲁伯特家族策略调整</strong></span>
-<div class="chapter-summary">1979年，霍克在巴黎遭遇车祸离世后，娜塔莉霍克接任卡地亚总裁。随后，卡地亚经历重组，佩兰成为新任总裁。在此期间，安东鲁伯特作为财务投资者参与其中，同时面对南非种族隔离制度带来的社会矛盾和财产威胁，他和儿子约翰采取措施保护海外资产，约翰建议将伦勃朗集团拆分为专注南非业务和管理国际资产的两个部分。</div>
-</div>
-<div class="chapter-item">
-<span class="time"><strong>[00:16:50]</strong> </span>
-<span class="chapter-title"><strong>利丰集团及旺多姆集团发展历程概览</strong></span>
-<div class="chapter-summary">1988年，伦勃朗集团拆分为南非的伦勃朗控股和海外业务的利丰集团。利丰集团由IMR公司转型而来，业务从矿业转向奢侈品，由约翰领导，在瑞士上市。集团持有卡地亚、伯爵名等品牌股权，同时通过乐福门控制登喜路和万宝龙。面对品牌管理的混乱和业务多元化，约翰实施改革，将奢侈品品牌整合至旺多姆集团，并将烟草业务转移至乐福门，专注于奢侈品品牌收购与经营。此期间，旺多姆集团通过收购增强了在亚洲市场的表现，年度营收达17亿瑞士法郎。</div>
-</div>
-<div class="chapter-item">
-<span class="time"><strong>[00:21:03]</strong> </span>
-<span class="chapter-title"><strong>约翰如何通过战略投资和并购强化利丰集团</strong></span>
-<div class="chapter-summary">1997年亚洲金融危机对依赖亚洲销售的旺多姆集团造成重创，导致股价大跌40%。约翰利用烟草业带来的现金流回购市场上的30%股权，巩固了对旺多姆的控制，并决定将奢侈品品牌经营提升到新高度。1999年，利丰集团通过换股方式与英美烟草集团合并，形成世界第三大烟草公司，同时保持了对烟草业务利润的获取。利丰集团与伦勃朗集团通过RR控股公司持有英美烟草35%股权。此外，约翰通过换股获得法国媒体集团维旺迪2.9%的股权，进一步剥离烟草业务，专注奢侈品领域。1999年，利丰集团收购梵克雅宝品牌，巩固其在奢侈品市场的地位。</div>
-</div>
-<div class="chapter-item">
-<span class="time"><strong>[00:24:30]</strong> </span>
-<span class="chapter-title"><strong>利丰集团收购战胜利与约翰的策略</strong></span>
-<div class="chapter-summary">利丰集团在2000年成功收购了拥有积家、万国、朗格等知名腕表品牌的LMH公司，击败了LVMH集团和斯沃琪集团等竞争对手。约翰的收购策略强调真诚和共赢，不同于伯纳德的强势收购方式。利丰集团通过提前与艾比集团协商，确保了收购的诚意，最终以30.8亿瑞士法郎完成收购，显示了约翰在收购策略上的人情味和策略性。</div>
-</div>
-<div class="chapter-item">
-<span class="time"><strong>[00:29:43]</strong> </span>
-<span class="chapter-title"><strong>利丰集团战略转型与财务调整</strong></span>
-<div class="chapter-summary">利丰集团在经历多笔巨额收购后，因运营费用高涨导致财务状况不佳。通过出售部分英美烟草股权，集团偿还了巨额债务并缓解了财务压力。此后，集团通过引入品牌CEO和创意总监，推动设计创新，逐步减轻经营压力。2008年，为应对全球反烟情绪和税收政策变化，利丰彻底剥离英美烟草股份，转型为奢侈品集团。随后，集团继续收购步伐，成功收购腕表品牌罗杰杜比及卡地亚品牌剩余股权，巩固了其在奢侈品行业的地位。</div>
-</div>
-<div class="chapter-item">
-<span class="time"><strong>[00:32:03]</strong> </span>
-<span class="chapter-title"><strong>利丰集团奢侈品电商投资历程与挑战</strong></span>
-<div class="chapter-summary">利丰集团在奢侈品电商领域进行了多次尝试和投资，包括收购奢侈品交易网站并推动合并，以及与阿里巴巴等企业合作。尽管进行了多次换股和资金投入，如与阿里巴巴共同投资英国奢侈品电商，并尝试通过发发奇平台扩展线上销售业务，但最终遭遇财务危机，不得不将发发奇售予韩国跨境电商巨头库棚以避免破产，导致利丰集团在奢侈品电商上的尝试未达预期，显示了在该领域投资的复杂性和挑战性。</div>
-</div>
-<div class="chapter-item">
-<span class="time"><strong>[00:34:55]</strong> </span>
-<span class="chapter-title"><strong>利丰集团业绩创新高与战略转型成功</strong></span>
-<div class="chapter-summary">利丰集团在2024财年实现了历史性的业绩增长，全年营收达到206.16亿欧元，营业利润48亿欧元，同比增长13%。即便在奢侈品行业普遍承压的背景下，新财年第一季度的营收仍同比增长1%，达到53亿欧元，其中珠宝品类增长4%，手表品类下降13%。亚太市场销售下降18%，但日本市场销售同比增长59%，主要由于中国和韩国旅客的消费。利丰的成功不仅体现在业绩上，还包括了其战略转型和业务整合的魄力，安东和约翰鲁伯特两位掌门人通过果断改革，如集团拆分、整合奢侈品牌、剥离烟草业务等措施，确保了集团的稳健发展和适应市场变化。</div>
-</div>
-<div class="chapter-item">
-<span class="time"><strong>[00:37:53]</strong> </span>
-<span class="chapter-title"><strong>适应时代变革的企业和个人发展策略</strong></span>
-<div class="chapter-summary">对话强调了随着时代和环境的变化，企业和个人都需不断调整自身的奋斗方式和目标。提到吕氏春秋的观点，鼓励抛弃旧有制度，学习制定这些制度的根本原因。指出过去的制度是适应当时经济和市场竞争情况的，新时代下更重要的是找到企业安身立命的根本并进行变革。同时，个人也应随着时代变化而改变，以满足内心和社会的需求。引用赫拉克利特的理论和《重新思考》一书，强调了变化是常态，必须重新审视和思考解决问题的方法，避免路径依赖。通过利丰集团的例子，展示了通过温和的方式进行企业转型和商业竞争，体现了中庸和温和思想的智慧。</div>
-</div>
-</div><br>
-<h1>问题回顾</h1>
-<div class="qa-item">
-<div class="question"><strong>Q:</strong> 在巴黎奥运会开幕式上，LVMH集团有哪些显著的品牌露出？</div>
-<div class="answer"><strong>A:</strong> 在巴黎奥运会开幕式上，LVMH集团的品牌露出非常显著。开幕式展示了路易威登为运送火炬和奖牌而特制的行李箱；奖牌由尚美巴黎制作；志愿者们脸上画的彩妆产品来自fenty beauty，该品牌由歌手蕾哈娜创立，现隶属于LVMH旗下。此外，入场代表队经过的船只上印有LV标识，而奥运会官方香槟则是轩尼诗旗下的明月香槟。</div>
-</div>
-<div class="qa-item">
-<div class="question"><strong>Q:</strong> 为什么LVMH集团选择赞助巴黎奥运会，并且这种赞助决策带来的广告价值如何？</div>
-<div class="answer"><strong>A:</strong> LVMH集团赞助巴黎奥运会，其品牌长时间、高曝光的展示带来了巨大的等效广告价值，数十倍于其1.5亿欧元的赞助成本。通过开幕式这样的国际盛事，LVMH集团成功地在全球范围内推广了自己的品牌，感叹于伯纳德在营销决策方面的卓越能力。</div>
-</div>
-<div class="qa-item">
-<div class="question"><strong>Q:</strong> 利丰集团是如何从一家烟草企业发展成为奢侈品巨头的？</div>
-<div class="answer"><strong>A:</strong> 利丰集团起源于南非企业家安东·鲁伯特于1941年收购的一个濒临破产的小型烟草工厂——vu brand vehicle company（沃尔烟草公司）。经过一系列发展，包括1947年收购磨面厂并获得生产卷烟机器，在二战结束后进口设备，最终于1948年将公司改名为伦勃朗集团，并推出伦勃朗牌卷烟。凭借高质量的产品和市场策略，伦勃朗牌卷烟市场份额迅速增长，至1960年已达到南非市场的60%。随着业务的成功，安东开始拓展其他类型业务，最终发展成为全球知名的奢侈品集团利丰集团。</div>
-</div>
-<div class="qa-item">
-<div class="question"><strong>Q:</strong> 安东在1954年通过收购获得了哪家公司的控股权，这家公司后来帮助伦勃朗集团上市？</div>
-<div class="answer"><strong>A:</strong> 安东在1954年通过收购获得了老牌英国烟草制造商rothmans international（中文译名乐富门）的控股权。这家公司在1956年伦勃朗集团在约翰内斯堡证券交易所上市时起到了关键作用。</div>
-</div>
-<div class="qa-item">
-<div class="question"><strong>Q:</strong> 安东为何收购登喜路集团，是因为看中了奢侈品行业还是烟草业务？</div>
-<div class="answer"><strong>A:</strong> 安东最初看中登喜路是因为其香烟、打火机和烟斗等产品，尽管他有进军奢侈品行业的打算，但初期主要是为了进一步扩张自己在烟草方面的业务。</div>
-</div>
-<div class="qa-item">
-<div class="question"><strong>Q:</strong> 伦勃朗集团何时将投资业务整合并注册为伦勃朗股份有限公司？银色火柴公司与卡地亚的合作是如何开始的？</div>
-<div class="answer"><strong>A:</strong> 在收购登喜路后的第二年，即1968年，伦勃朗集团将其旗下的投资控股公司正式注册为伦勃朗股份有限公司，从此集团旗下的投资业务、采矿业务和其他工业业务都由这家股份有限公司控制。银色火柴公司（silver match）是全球第一个生产气体打火机的厂商，其打火机大受欢迎。1968年，卡地亚同意与银色火柴合作生产高端打火机，并签订了特许经营协议，由银色火柴生产并贴上卡地亚牌子进行销售。</div>
-</div>
-<div class="qa-item">
-<div class="question"><strong>Q:</strong> 霍克如何与安东合作并最终成功收购卡地亚？安东在卡地亚收购过程中的角色是什么？</div>
-<div class="answer"><strong>A:</strong> 霍克提出以卡地亚美国20%的股权换取生产卡地亚品牌卷烟执照的方案，吸引了安东参与。他们共同组建了一个名为大陆商业财团的财团，在1972年成功收购了卡地亚巴黎，并在后续几年里逐步收购了伦敦和纽约的卡地亚公司，最终于1979年成立了卡地亚环球公司。在卡地亚收购过程中，安东作为财务投资者出现，虽然他积极参与并提出关键性建议，但他并没有直接在经营层面担任任何职务。</div>
-</div>
-<div class="qa-item">
-<div class="question"><strong>Q:</strong> 面对南非种族隔离制度引发的社会矛盾激化，安东如何保护海外产业？</div>
-<div class="answer"><strong>A:</strong> 面对南非国内推翻种族隔离制度的呼声越来越高，安东担心家族财产受到威胁，虽然支持废除种族隔离制度并采取了一些措施缓和矛盾，但他更加关注如何保护好自己在海外的产业，如卡地亚股权以及其他收购的品牌。</div>
-</div>
-<div class="qa-item">
-<div class="question"><strong>Q:</strong> 约翰在哪些银行工作过，以及他在南非创建了什么？兰德商业银行在何时与兰德投资公司合并，并形成了什么？</div>
-<div class="answer"><strong>A:</strong> 约翰在大通曼哈顿银行工作了两年，之后在拉扎德公司工作了三年。1979年，他返回南非并创立了兰德商业银行。在1984年，约翰操作合并了兰德商业银行和兰德投资公司的业务，形成了兰德商业银行控股公司。</div>
-</div>
-<div class="qa-item">
-<div class="question"><strong>Q:</strong> 约翰为何建议父亲将伦勃朗集团拆分，并具体拆分为哪两个部分？</div>
-<div class="answer"><strong>A:</strong> 在父亲安东担忧海外财产安全性时，约翰建议将其拆分为专注南非业务的部分和管理国际资产与奢侈品牌的新的控股公司，形成了伦勃朗南非和伦勃朗环球两个部分。</div>
-</div>
-<div class="qa-item">
-<div class="question"><strong>Q:</strong> 1988年伦勃朗集团如何拆分，以及利丰集团是如何形成的？</div>
-<div class="answer"><strong>A:</strong> 1988年，伦勃朗集团正式拆分为两个部分：南非业务成为伦勃朗控股公司；海外业务由IMR公司转型而来，形成了新的集团——利丰集团。</div>
-</div>
-<div class="qa-item">
-<div class="question"><strong>Q:</strong> 利丰集团为何会更名为RICHOMON，并且后来又回归到利丰这个名字？</div>
-<div class="answer"><strong>A:</strong> 关于RICHOMON这个名字的具体由来没有明确说明，如果有听众知道原因可以在评论区分享。后来，利丰集团回归到“利丰”这个名字。</div>
-</div>
-<div class="qa-item">
-<div class="question"><strong>Q:</strong> 约翰如何改革利丰集团并将其奢侈品业务整合？</div>
-<div class="answer"><strong>A:</strong> 约翰在1993年开始改革，将利丰集团旗下的所有奢侈品牌整合到新成立的子公司——旺多姆集团下，并将烟草业务划归至乐福门旗下管理，使旺多姆集团专注于奢侈品品牌的收购与经营。</div>
-</div>
-<div class="qa-item">
-<div class="question"><strong>Q:</strong> 约翰如何通过回购股权取得旺多姆集团的完全控制权？</div>
-<div class="answer"><strong>A:</strong> 在1997年亚洲金融危机导致旺多姆集团业绩受创后，约翰利用集团带来的现金流，花费约20亿美元回购了市场上的30%旺多姆股权，从而取得完全控制权。</div>
-</div>
-<div class="qa-item">
-<div class="question"><strong>Q:</strong> 约翰在出售乐福门后，如何保持对烟草业务的利润获取？</div>
-<div class="answer"><strong>A:</strong> 约翰通过换股的方式将乐福门卖给了英美烟草，并通过一家名为r and r holdings的投资公司，使利丰集团和伦勃朗集团共同持有英美烟草35%的股权，从而作为财务投资者获得烟草业务带来的利润。</div>
-</div>
-<div class="qa-item">
-<div class="question"><strong>Q:</strong> 约翰在剥离烟草业务后，利丰集团的主营业务是什么？</div>
-<div class="answer"><strong>A:</strong> 剥离烟草业务后，利丰集团的主营业务正式成为了奢侈品。</div>
-</div>
-<div class="qa-item">
-<div class="question"><strong>Q:</strong> 利丰集团是如何获得梵克雅宝品牌的控制权的？</div>
-<div class="answer"><strong>A:</strong> 利丰集团在1999年联合意大利服装及地产集团风琴集团以1.1亿瑞士法郎的价格收购了梵克雅宝60%的股权，从而取得了对梵克雅宝品牌的控制权。</div>
-</div>
-<div class="qa-item">
-<div class="question"><strong>Q:</strong> 约翰在收购过程中展现出了怎样的风格？</div>
-<div class="answer"><strong>A:</strong> 约翰在收购过程中并非赶尽杀绝类型，他更倾向于给予对方投资，并希望双方能一起赚钱，达成双赢局面。</div>
-</div>
-<div class="qa-item">
-<div class="question"><strong>Q:</strong> 在2000年的那场硬仗中，利丰集团是如何胜出的？</div>
-<div class="answer"><strong>A:</strong> 利丰集团胜出的原因在于其提前联系了知名腕表集团艾比集团，并购回了技嘉品牌剩余的40%股权，最终通过展示诚意和付出更高的成本确保了交易成功。</div>
-</div>
-<div class="qa-item">
-<div class="question"><strong>Q:</strong> 利丰集团收购LMH集团花费了多少资金，以及资金来源是什么？</div>
-<div class="answer"><strong>A:</strong> 利丰集团共花费30.8亿瑞士法郎收购LMH集团，其中28亿用于收购LMH，剩余2.8亿用于收购技嘉剩余股权。部分资金来源于出售英美烟草1.3%的股权。</div>
-</div>
-<div class="qa-item">
-<div class="question"><strong>Q:</strong> LVMH集团为了此次收购做出了什么牺牲？</div>
-<div class="answer"><strong>A:</strong> LVMH集团为了能够收购LMH旗下的腕表品牌，甚至卖出了其持有的11亿美元烈酒集团DRGO的股份，显示出这笔收购对伯纳德来说非常重要且决心坚定。</div>
-</div>
-<div class="qa-item">
-<div class="question"><strong>Q:</strong> 利丰集团在02年遇到了什么问题，是如何解决财务压力的？利丰集团2024财年的经营状况如何？</div>
-<div class="answer"><strong>A:</strong> 在2002年，利丰集团因为运营费用高企导致财务状况不佳。约翰果断地出售了部分持有的英美烟草股权，套现约10亿美元来偿还债务。根据财报，利丰集团2024财年全年营收达到206.16亿欧元，创历史新高，营业利润为48亿欧元；新财年第一季度营收同比增长1%，达到53亿欧元。</div>
-</div>
-<div class="qa-item">
-<div class="question"><strong>Q:</strong> 利丰剥离英美烟草股份的原因有哪些？</div>
-<div class="answer"><strong>A:</strong> 剥离的原因主要有两层：一是全球反烟情绪高涨，影响烟草相关企业的市场估值；二是卢森堡政府宣布从2010年起逐步减少税收优惠政策，这将使RNR公司每年增加约15%的税收成本。</div>
-</div>
-<div class="qa-item">
-<div class="question"><strong>Q:</strong> 约翰鲁伯特在收购方面有哪些重大行动？</div>
-<div class="answer"><strong>A:</strong> 约翰鲁伯特在2012年成功收购了卡地亚品牌剩余全部股权，使其成为利丰集团的全资品牌，并在同年收购了腕表品牌罗杰杜比。</div>
-</div>
-<div class="qa-item">
-<div class="question"><strong>Q:</strong> 利丰集团如何探索新的领域和销售形式？</div>
-<div class="answer"><strong>A:</strong> 利丰集团在2010年以约5000万英镑收购奢侈品交易网站net a porter，并推动其与奢侈品电商ux合并为ynap公司。此外，2018年与阿里巴巴成立合资公司开展线上销售业务，并进行多次换股操作及投资。</div>
-</div>
-<div class="qa-item">
-<div class="question"><strong>Q:</strong> 对于奢侈品电商的投资结果如何？</div>
-<div class="answer"><strong>A:</strong> 尽管利丰集团和其他投资者在奢侈品电商发发奇上投入重金，但发发奇最终陷入财务危机并被韩国跨境电商巨头库棚收购，利丰集团在奢侈品电商的投资未能达到预期回报，但在整体发展上仍保持增长势头。</div>
-</div>
-<div class="qa-item">
-<div class="question"><strong>Q:</strong> 在企业内部推行改革需要面对哪些挑战？</div>
-<div class="answer"><strong>A:</strong> 在企业内部推行任何一项改革，都需要承担高资金成本和沟通成本。一旦高管在改革期间意志不坚定，或者对改革后的发展方向缺乏清晰愿景，都可能导致原本能正常运营的企业加速走向衰败甚至破产。</div>
-</div>
-<div class="qa-item">
-<div class="question"><strong>Q:</strong> 企业应该如何对待过去的制度和市场竞争情况的变化？</div>
-<div class="answer"><strong>A:</strong> 企业不应盲目沿用现有的架构和体系来追求眼前稳定，而应抛弃旧的制度，寻找适应新时代和新市场环境的方法对企业进行变革，找到企业的安身立命之本。</div>
-</div>
-<div class="qa-item">
-<div class="question"><strong>Q:</strong> 对于个人而言，在时代变化中应如何应对？</div>
-<div class="answer"><strong>A:</strong> 个人也需要随着时代和环境的变化不断调整奋斗方式和目标，理解和接受变化本身是不变的真理，只有这样才能满足自己内心和社会的需求。</div>
-</div>
-<div class="qa-item">
-<div class="question"><strong>Q:</strong> 如何看待常规和解决问题方法的重要性？</div>
-<div class="answer"><strong>A:</strong> 常规往往是为当时特定问题而出现的解决办法，不应将其默认为真理并忽视问题是否已发生变化。应该时常重新思考面对的核心问题，审视以前奉为圭臬的常规是否仍是解决问题的有效方法，避免形成路径依赖。</div>
-</div>
-<div class="qa-item">
-<div class="question"><strong>Q:</strong> 利丰集团在转型过程中的特点是什么？</div>
-<div class="answer"><strong>A:</strong> 利丰集团的转型特点是温和且双方共赢，例如通过换股的方式将主营业务转移到英美烟草公司，并未彻底割裂原有业务，而是转变为财务投资者，既能享受现金流分红，也能根据新业务发展需要灵活运用原有业务资源。</div>
-</div>
-<div class="qa-item">
-<div class="question"><strong>Q:</strong> 这种温和合作的商业智慧有何价值？</div>
-<div class="answer"><strong>A:</strong> 这种温和合作的方式在残酷的商业竞争中不仅没有示弱，反而取得了成功，比如在收购过程中打败了LVMH。这种以和为贵、以温和方式解决问题的商业操作，可能是现实中更为常见的选择。</div>
-</div>
-<h1>节目文稿</h1>
-<p class="transcript-line">
-<span class="time"><strong>[00:00:11]</strong> </span>
-<span class="speaker"><strong>发言人1: </strong></span>
-于是他就和自己的投资顾问想努力的组成一个财团来收购卡地亚。这个时候安东鲁伯特的出资方案就进入了霍克的视野。当时安东提出的方案，就是用卡地亚美国20%的股权来换取一个可以生产卡地亚品牌卷烟的执照。换股完成之后，利丰集团和伦勃朗集团是共同持有英美烟草35%的股权。在剥离了烟草的这部分的经营业务之后，这个时候利丰集团的主营业务就正式成为了奢侈品。
-</p>
-<p class="transcript-line">
-<span class="time"><strong>[00:00:50]</strong> </span>
-<span class="speaker"><strong>发言人1: </strong></span>
-大家好，欢迎来到新的一期叙事之间，我是老饕，我是活在当下。大家从题目里已经看到了，我们这一期是奢牌巡礼系列的节目的更新。但是在这期节目开始之前，我想先说一下，我们录制这一天的凌晨，巴黎奥运会开幕式结束了。
-</p>
-<p class="transcript-line">
-<span class="time"><strong>[00:01:06]</strong> </span>
-<span class="speaker"><strong>发言人1: </strong></span>
-这个开幕式的精彩程度就不说了，我看到简中互联网上已经好评如潮了。大家纷纷表示你可以质疑巴黎人的懒惰，但绝不能质疑巴黎人的审美。这个美轮美奂的开幕式上，我们之前涉牌巡礼系列节目中的主角LVMH集团可以说是赢麻了。因为这种非常直接的长时间的LV品牌的露出带来的这种宣传效果，可能是任何其他的广告形式都无法比拟的。
-</p>
-<p class="transcript-line">
-<span class="time"><strong>[00:01:35]</strong> </span>
-<span class="speaker"><strong>发言人1: </strong></span>
-开幕式上展示了路易威登为了运送火炬和奖牌而特制的这个行李箱。但是这还只是LVMH赞助本届奥运会的这个权益中的冰山一角。这次奥运会的奖牌是我们之前讲过的那一个品牌叫尚美巴黎来制作的。然后所有志愿者们的脸上画的这个妆，彩妆产品都是由fenty beauty这家公司赞助的。这个fenty beauty就是由全球最不务正业的知名歌手蕾哈娜创立的，现在fenty beauty也是LVMH旗下的品牌。
-</p>
-<p class="transcript-line">
-<span class="time"><strong>[00:02:07]</strong> </span>
-<span class="speaker"><strong>发言人1: </strong></span>
-开幕式的时候，每一个代表队都是乘坐船只入场，那这个船只也都会路过LV的总部。奥运会的官方香槟也是明悦轩尼诗旗下的明月香槟。就等等等等。之前我们在讲F1的那一期的时候，就提到过一个概念，叫做等效广告价值。我觉得基本上可以确定的说，LVMH赞助本次奥运会花的这1.5亿欧元，他所换来的可能是数十倍于这个成本的等效广告价值。对我觉得再次感叹于伯纳德的这个营销方面的决策能力。
-</p>
-<p class="transcript-line">
-<span class="time"><strong>[00:02:41]</strong> </span>
-<span class="speaker"><strong>发言人2: </strong></span>
-我是感觉怎么说路易十四的光辉还在照耀着他是吗？对。
-</p>
-<p class="transcript-line">
-<span class="time"><strong>[00:02:47]</strong> </span>
-<span class="speaker"><strong>发言人1: </strong></span>
-回头你要是看那个开幕式也能感觉到，法国人还是真的有老底儿，文化确实很丰富，开幕式元素特别的多。我们就回到今天的节目，这个是拍巡礼系列，也很久没有更新了。之前有有在我们的节目下面留言说想听一下梵克雅宝品牌的故事。我虽然没有马上想讲梵克雅宝，但是猛然让我意识到，我们之前讲了这么多期涉牌群里的节目，大部分都是以LVMH集团为主。
-</p>
-<p class="transcript-line">
-<span class="time"><strong>[00:03:14]</strong> </span>
-<span class="speaker"><strong>发言人2: </strong></span>
-对，就是不管一开始是谁的。
-</p>
-<p class="transcript-line">
-<span class="time"><strong>[00:03:15]</strong> </span>
-<span class="speaker"><strong>发言人1: </strong></span>
-最后都是他。对。同时我们在讲古时那一期，其实也讲到了开云集团。但是讲了这么多，我们还没有讲到在这个服装配饰领域排名第三的重要的集团，就是利丰集团。为了给大家补上这个缺口，我们这一期就做一期奢牌巡礼系列节目的番外。
-</p>
-<p class="transcript-line">
-<span class="time"><strong>[00:03:35]</strong> </span>
-<span class="speaker"><strong>发言人1: </strong></span>
-我们这一期不讲某个品牌，我们就来给大家讲讲利丰集团。这个如今全球知名的奢侈品集团，他竟然是从一家烟草企业发展而来的。我们就一起来看看，这到底是个怎样的神奇的发展过程。因为利丰集团的发展历程，它涉及的业务类型特别的广为了贴合我们的主题，也为了大家的听感。所以我们这一期还是主要讲利丰在奢侈品产业上的发展，以及它是如何从它的前身发展成为后来的奢侈品巨头的。
-</p>
-<p class="transcript-line">
-<span class="time"><strong>[00:04:04]</strong> </span>
-<span class="speaker"><strong>发言人1: </strong></span>
-利丰集团的创始家族名为鲁伯特家族。利丰集团的故事是始于安东爱德华鲁伯特，他是南非一位非常著名的企业家。安东是在1916年10月出生于南非的格拉夫雷内特。安东本来是希望成为一名医生，他在比勒陀利亚大学攻读医学学位。但是当时他的父母在资金上没有办法指使他继续去攻读这个学费很高昂的医学专业。
-</p>
-<p class="transcript-line">
-<span class="time"><strong>[00:04:30]</strong> </span>
-<span class="speaker"><strong>发言人2: </strong></span>
-我还以为是他觉得学医救不了南非人。
-</p>
-<p class="transcript-line">
-<span class="time"><strong>[00:04:34]</strong> </span>
-<span class="speaker"><strong>发言人1: </strong></span>
-南非鲁迅是吧？没有，是因为没钱了，所以他就转去攻读了同一所学校的化学专业。并且在1939年获得了化学学位之后，他还留在了比勒陀利亚大学当了一段时间的讲师。安东本人其实还是对商业更感兴趣，所以这个讲师的职业也没有持续很久，他很快就开始了自己的第一次创业。他第一次创业是什么呢？他开了一家干洗店店，我也没有找到具体这个原因，为什么他选择用干洗店来开启自己的创业生涯？
-</p>
-<p class="transcript-line">
-<span class="time"><strong>[00:05:07]</strong> </span>
-<span class="speaker"><strong>发言人2: </strong></span>
-可能是咱们那期讲的就是先快速试错。
-</p>
-<p class="transcript-line">
-<span class="time"><strong>[00:05:09]</strong> </span>
-<span class="speaker"><strong>发言人1: </strong></span>
-小成本试错是吧？先试试也有可能。但是我还猜想有可能是跟这时候是二战期间，其实很多的行业都不太景气有关系。但是干洗店相对而言，它有比较稳定的客户群和需求。再加上他不是化学专业毕业的吗？就是对于这种纺织品和化学品的这种处理应该是很了解的，所以选择了干这一行。但是以安东的商业头脑，他肯定不能满足于只开一个干洗店。虽然经济非常的惨淡，普通人可支配收入也会大幅度下降，但是有两样东西是可以维持住销售的势头的，甚至还出现了增长。
-</p>
-<p class="transcript-line">
-<span class="time"><strong>[00:05:46]</strong> </span>
-<span class="speaker"><strong>发言人2: </strong></span>
-也就是酒精和烟草，因为大家需要麻痹自己是吧？
-</p>
-<p class="transcript-line">
-<span class="time"><strong>[00:05:49]</strong> </span>
-<span class="speaker"><strong>发言人1: </strong></span>
-对，但安东尼意识到这就是一个巨大的商机。1941年的时候，他和两个朋友就用非常低的价格收购了一个濒临破产的小型烟草工厂。这个价格有多低呢？他们一共花了10英镑，那为什么价格这么低呢？一个是因为这时候是二战期间所以整个南非能够生产卷烟的这种机器都很难找到。而且因为二战期间南非其实是实施了进口控制的，所以他们想要进口这种机器也非常的难。所以安东和他的朋友们一开始就只能加工斗烟，就是烟斗用的那种烟丝。其实那种烟丝当时就已经逐渐的式微了，需求不是很大，所以这个工厂也是基本就是倒闭状态，所以他们才能以10亿英镑的这种低价来收购这个烟草工厂。收购了之后，安东就把这家烟草公司命名为了vu brand vehicle company，直译过来类似于是沃尔烟草公司。
-</p>
-<p class="transcript-line">
-<span class="time"><strong>[00:06:43]</strong> </span>
-<span class="speaker"><strong>发言人1: </strong></span>
-随着这个公司的烟草业务盈利逐步的稳定了，安东就开始想发展其他类型的业务了。1943年，他与德克贺资格这个人共同成立了一家投资公司，名字叫technical and industrial investment，直译过来就应该是技术与工业投资公司。这家小型的投资公司，他们就主要投资烟草、烈酒、煤矿、羊毛茶、咖啡等等这些的行业。1947年的时候，安东又收购了一家小型的磨面厂，并且成功拿到了生产卷烟的机器。这是终于等到2战结束了，可以进口了。这个时候安东就正式将公司的名称更改为了伦勃朗集团，并且在1948年推出了第一条伦勃朗牌卷烟。安东对于这个卷烟的质量追求特别的高，所以伦勃朗牌香烟的质量也是日益提升。到了1960年的时候，伦勃朗牌卷烟在南非的卷烟市场份额已经达到了60%。
-</p>
-<p class="transcript-line">
-<span class="time"><strong>[00:07:41]</strong> </span>
-<span class="speaker"><strong>发言人1: </strong></span>
-但是在此前的1954年，其实安东还做了一笔非常重要的投资，就是通过收购获得了老牌的英国烟草制造商rothmans international这家公司的控股权。这个公司的中文译名应该叫乐富门。乐富门是一家成立于1890年的烟草企业。在拥有了乐福门之后，1956年伦勃朗集团就在约翰内斯堡证券交易所上市了。但是追求集团更大发展的安东还没有满足，他希望继续扩张自己的烟草帝国。所以在1958年的时候，他就继续收购了karas烟草集团。并且在1967年的时候，通过careers又收购了另外一个集团51%的股份，这个集团就是登喜路集团。
-</p>
-<p class="transcript-line">
-<span class="time"><strong>[00:08:23]</strong> </span>
-<span class="speaker"><strong>发言人2: </strong></span>
-终于进军到奢侈品行业了。
-</p>
-<p class="transcript-line">
-<span class="time"><strong>[00:08:25]</strong> </span>
-<span class="speaker"><strong>发言人1: </strong></span>
-第一感觉就是收购了登喜路就要开启奢侈品的产业了，对吧？其实不是，因为最一开始，安东看中的其实是登喜路品牌的香烟、打火机和烟斗这些产品。登喜路品牌的创始人阿尔弗雷德登喜路早年间其实是继承了父亲的衣钵的。他本来是销售汽车配件的，直到1907年他才开设了这种小型的烟草商店，逐步就声名鹊起。所以其实登喜路品牌早年是以烟草业务起家的，此时安东收购登喜路就还是为了继续扩张自己在烟草方面的业务。
-</p>
-<p class="transcript-line">
-<span class="time"><strong>[00:08:58]</strong> </span>
-<span class="speaker"><strong>发言人1: </strong></span>
-在收购登喜路之后的第二年，1968年，安东就将此前集团旗下的投资控股公司正式注册为伦勃朗股份有限公司。而自此伦勃朗集团旗下的投资业务、采矿业务、其他工业业务，这些全部都由这家股份有限公司控制。随着伦勃朗集团的投资业务越做越好，有另外一个如今在全球奢侈品界赫赫有名的品牌就要进入安东的视野了。这个品牌就是卡地亚，而卡地亚和伦勃朗集团的故事就又涉及到另外一家公司，这家公司的名字叫silver match，直译过来应该是银色火柴silver match是由罗伯特霍克在1959年于巴黎成立的，根据目前的记载，应该是全球第一个生产气体打火机的厂商。Silver match的气体打火机面世之后，就大受欢迎，每年的销量就可以达到数百万只。
-</p>
-<p class="transcript-line">
-<span class="time"><strong>[00:09:53]</strong> </span>
-<span class="speaker"><strong>发言人1: </strong></span>
-到了1960年代，罗伯特霍克想到了一个很好的营销创意，就是他想去找珠宝品牌合作生产这种奢侈高端的打火机。他就带着这个想法去找了梵克雅宝品牌，但是被梵克雅宝无情拒绝。最终在1968年的时候，卡地亚同意了这个合作，并且与霍克签订了授权协议，也就是licensing agreement。这个词我们在讲迪奥的那一期也提到过，其实就类似于是特许经营协议，允许他可以生产打火机，并且贴上卡地亚的牌子进行销售。对，这个带有流线型凹槽设计的非常奢侈的打火机的项目，是由年轻的阿兰多米尼克佩兰这个人负责的。事实证明这个跨界合作非常的成功，很快这款打火机就成为了权贵阶层的身份和地位的象征。到了1970年代的时候，这款打火机的年销量已经达到了数十万只，就这一款打火机数十万支。
-</p>
-<p class="transcript-line">
-<span class="time"><strong>[00:10:50]</strong> </span>
-<span class="speaker"><strong>发言人1: </strong></span>
-看到了卡地亚品牌的销售潜力，霍克就萌生了想收购卡地亚的念头。于是他就和自己的投资顾问，一个法国的银行家叫约瑟夫卡努。一起想努力的组成一个财团来收购卡地亚。
-</p>
-<p class="transcript-line">
-<span class="time"><strong>[00:11:04]</strong> </span>
-<span class="speaker"><strong>发言人1: </strong></span>
-这个时候安东鲁伯特的出资方案就进入了霍克的视野。当时安东提出的方案就是用卡地亚美国20%的股权来换取一个可以生产卡地亚品牌卷烟的执照。因为安东手里是有生产卷烟的执照的所以对于生产打火机发家的霍克来说，安东的这个提议还是非常的有诱惑力的。所以安东就被拉进了这个收购卡地亚的群聊里面，他们最终成立的这个财团名字叫continental business syndicate，直译过来就是大陆商业财团。这个财团努力了很久，在1972年的时候，他们就成功收购了卡地亚巴黎。并且在1973年由罗伯特霍克和多米尼克佩兰开发出了一个概念，叫the master GTA的概念。就是每个人的一生都要拥有一个卡地亚产品这么一个造出来的营销的概念。而且他们单独以此为名字成立了一家公司，专门生产一些平价的卡地亚产品，就相当于让普通的消费者也都能购买到卡地亚。
-</p>
-<p class="transcript-line">
-<span class="time"><strong>[00:12:04]</strong> </span>
-<span class="speaker"><strong>发言人2: </strong></span>
-相当于给你一个类似于我们那次说的首充门槛。对。
-</p>
-<p class="transcript-line">
-<span class="time"><strong>[00:12:08]</strong> </span>
-<span class="speaker"><strong>发言人1: </strong></span>
-1974年的时候，这个财团就继续收购了卡地亚伦敦。1979年的时候，又收购了卡地亚纽约。再把这三部分全部收入囊中之后，这个财团就成立了gi mont公司，把这三家卡地亚公司合并到了一起。这个词在法语里就是世界的意思。所以我们就可以简单的把这家合并后的公司，就把它翻译成卡地亚环球。
-</p>
-<p class="transcript-line">
-<span class="time"><strong>[00:12:33]</strong> </span>
-<span class="speaker"><strong>发言人1: </strong></span>
-卡地亚的品牌故事其实是一个体量非常庞大的故事，我正在研究，因为他有一本七百多页的书，哇塞这故事特别的多。然后具体为什么这会儿这个品牌就分成了巴黎、伦敦、纽约这三家公司呢？我们未来在讲卡地亚的时候再详细讲。在整合完成之后，霍克也是成为了卡地亚环球公司的总裁，这个卡努伊就是成为了副总裁。
-</p>
-<p class="transcript-line">
-<span class="time"><strong>[00:12:58]</strong> </span>
-<span class="speaker"><strong>发言人1: </strong></span>
-在卡地亚这个故事线里，我们插入一个小插曲，就是在1977年的时候，安东又通过此前收购的这个登喜路品牌，收购了一个以制作钢笔著称的品牌，这个品牌就是万宝龙。其实从这儿可以看出，参与大陆商业财团也确实是让安东看到了奢侈品牌的价值。所以他也开始自己动手布局自己的品牌矩阵了。
-</p>
-<p class="transcript-line">
-<span class="time"><strong>[00:13:20]</strong> </span>
-<span class="speaker"><strong>发言人1: </strong></span>
-我们继续回到卡地亚这个时间线上来，非常遗憾的是1979年的时候，霍克在巴黎出了一场车祸，不幸离世了。这个时候罗伯特霍克的女儿娜塔莉霍克就成为了卡地亚的总裁。到了1981年，品牌又经历了重组，佩兰又成为了新一任的总裁。这个佩兰还记得吗？就是刚才负责生产卡地亚的打火机的那个项目的那个年轻人，他在1981年的时候成为了新一任的卡地亚的总裁。而也是在这个时候，之前于1973年成立的这个销售平价卡地亚商品的子公司，也就被收编进了卡地亚环球。在整个的这个变迁过程中，安东都是作为一个财务投资者出现的，还并没有直接在经营层面担任任何的职务。
-</p>
-<p class="transcript-line">
-<span class="time"><strong>[00:14:04]</strong> </span>
-<span class="speaker"><strong>发言人1: </strong></span>
-不过在这个时间段，其实在安东的老家南非这个状况不容乐观。这个时候南非种族隔离制度引发的这种社会矛盾越来越激化。我相信大家都听说过纳尔逊曼德拉的这个故事。对，肯定也知道当时南非的这个种族隔离制度在全球引起了多大的轰动。所以当时南非国内推翻这种种族隔离制度的呼声就越来越高。作为白人的安东鲁伯特，他这个时候也非常担心家族的财产会受到威胁。虽然他表面上还是支持废除种族隔离制度的，而且据说他是给有色人种和白人开同等的工资的，并且还建立了一个专门贷款给这种不分人种的创立的小微企业的这种基金，而且据说他和纳尔逊曼德拉的关系也非常的密切。但是哪怕如此，他依然觉得自己很危险。
-</p>
-<p class="transcript-line">
-<span class="time"><strong>[00:14:52]</strong> </span>
-<span class="speaker"><strong>发言人2: </strong></span>
-对，这叫防患于未然。对。
-</p>
-<p class="transcript-line">
-<span class="time"><strong>[00:14:54]</strong> </span>
-<span class="speaker"><strong>发言人1: </strong></span>
-所以他就很担心自己整体的公司的资产将来就都会受到影响。那在南非这部分产业它确实转移不走了，没办法，但是他就比较想保护好自己在海外的产业，因为这个时候伦勃朗集团的这个海外的产业已经非常的大了。包括自己的卡地亚的股权，以及收购的乐福门、登喜路、万宝龙等等的这些品牌。
-</p>
-<p class="transcript-line">
-<span class="time"><strong>[00:15:16]</strong> </span>
-<span class="speaker"><strong>发言人1: </strong></span>
-那这个时候安东的儿子约翰鲁伯特就要登场了。约翰曾经是在南非的斯坦林布什大学学习经济学和公司法的，但是他提前辍学就开始了自己的职业生涯。所以你看这个有钱人家的小孩也经常辍学，包括创业成功的大佬们好多都是辍学。
-</p>
-<p class="transcript-line">
-<span class="time"><strong>[00:15:33]</strong> </span>
-<span class="speaker"><strong>发言人2: </strong></span>
-那次我讲有钱人家的孩子就是有无限的培养机会，所以辍了就辍了。对。
-</p>
-<p class="transcript-line">
-<span class="time"><strong>[00:15:38]</strong> </span>
-<span class="speaker"><strong>发言人1: </strong></span>
-约翰是在大通曼哈顿银行工作了两年，然后又在另外一个我们这个系列节目里高频出现的银行工作了三年。就是拉扎德哇哇塞他在纽约的拉扎格工作了三年，随后在1979年的时候，他就返回了南非，并且创立了兰德商业银行。也是在这一年，父亲安东成立了伦勃朗集团的又一家子公司，叫into continental mining and resources SA，就是洲际矿业及资源公司，简称IMR，由这家公司来管理集团旗下在全球的采矿业务。那在1984年，约翰操作合并了兰德商业银行和兰德投资公司的业务，形成了兰德商业银行控股公司。在完成了他这么多的成绩之后，他就选择加入了自己父亲创立的伦勃朗集团。其实后续兰德控股也是成为了鲁伯特自家家族集团参股的公司。
-</p>
-<p class="transcript-line">
-<span class="time"><strong>[00:16:31]</strong> </span>
-<span class="speaker"><strong>发言人1: </strong></span>
-在他父亲日渐担忧海外财产安全性的时候，约翰给了父亲一个非常重要的建议。他就建议父亲将伦勃朗集团拆分成两个部分，一个部分是专注南非的业务，另外一部分作为管理国际资产和奢侈品牌的新的控股公司。他的父亲也听从了他的建议。
-</p>
-<p class="transcript-line">
-<span class="time"><strong>[00:16:50]</strong> </span>
-<span class="speaker"><strong>发言人2: </strong></span>
-就是伦勃朗南非和伦勃朗环球是吧？
-</p>
-<p class="transcript-line">
-<span class="time"><strong>[00:16:53]</strong> </span>
-<span class="speaker"><strong>发言人1: </strong></span>
-你听名字没有这么简单。1988年正式将伦勃朗集团拆分成了两个部分。南非这部分的业务就是伦勃朗控股公司。而海外业务的这家公司，是由1979年成立的IMR公司转型而来，这个业务内容就由矿业转换到了奢侈品业务以及乐富门旗下的业务，形成了一个新的集团，这个集团的名字就叫利丰集团。
-</p>
-<p class="transcript-line">
-<span class="time"><strong>[00:17:19]</strong> </span>
-<span class="speaker"><strong>发言人2: </strong></span>
-为什么呢？为什么突然这个名字转变这么大了？
-</p>
-<p class="transcript-line">
-<span class="time"><strong>[00:17:23]</strong> </span>
-<span class="speaker"><strong>发言人1: </strong></span>
-你问住我了，就是RICHOMON这个名字到底是哪来的，我没有找到。这确实是没有跟伦勃朗集团有任何的名字上的关系。如果有听友们知道为什么利丰这个名字是怎么来的，也可以在评论区告诉我们。成立了利丰集团之后，安东的儿子约翰也就正式成为了利丰的董事会主席。在他的运作之下，1989年利丰集团就顺利在瑞士苏黎世证券交易所上市。
-</p>
-<p class="transcript-line">
-<span class="time"><strong>[00:17:47]</strong> </span>
-<span class="speaker"><strong>发言人1: </strong></span>
-不过这个时候，由于利丰集团旗下的业务还比较的多元化，所以对于奢侈品品牌的管理也有些混乱。首先利丰集团直接持有卡地亚品牌的股权，而且卡地亚又在1988年的时候收购了伯爵名，是两个珠宝腕表品牌。同时1990年的时候，利丰还直接持有乐福门63.2%的股权，又通过乐福门间接控制着登喜路。登喜路又拥有万宝龙的控制权，这还没算1985年的时候，登喜路还收购了Chloe，就是扣一品牌。所以这种三级控制的品牌就越来越多。那这个其实就对你整个集团的运营产生的挑战就会越来越大对，因为你的控制权不足，但是你又希望能掌握这部分的业绩。
-</p>
-<p class="transcript-line">
-<span class="time"><strong>[00:18:31]</strong> </span>
-<span class="speaker"><strong>发言人1: </strong></span>
-这个时候从这个架构里我们能看得出来，利丰集团的这个烟草业务和奢侈品业务其实是被混在一起的。就是乐福门那边又有烟草又有奢侈品，而且烟草业务贡献的利润是要明显大于奢侈品业务的。但是对于约翰本人来说，他是非常希望大力发展奢侈品这部分的业务线的。所以他就觉得这个改革就势在必行。
-</p>
-<p class="transcript-line">
-<span class="time"><strong>[00:18:55]</strong> </span>
-<span class="speaker"><strong>发言人1: </strong></span>
-在1993年的时候，约翰就开始了自己大刀阔斧的改革。那这时候他爸退了，这个我其实没有细说。他在成为利丰集团的董事会主席的第二年，就成为了整个伦勃朗集团的董事会副主席。其实这个时候他的父亲逐渐就把权力就交给他接班了。
-</p>
-<p class="transcript-line">
-<span class="time"><strong>[00:19:12]</strong> </span>
-<span class="speaker"><strong>发言人1: </strong></span>
-对约翰从1993年开始，将利丰集团旗下的所有奢侈品牌，不管是直接持股还是间接持股，就全部整合到了同一个新成立的子公司旗下。这个子公司的名字叫做旺多姆集团。这个名字如果听过我们讲尚美巴黎那一期的听友应该不会陌生。这个巴黎的旺多姆广场曾经是全球最重要的珠宝交易中心之一。而约翰也是把利丰旗下管理奢侈品业务的公司命名为了旺多姆集团。
-</p>
-<p class="transcript-line">
-<span class="time"><strong>[00:19:40]</strong> </span>
-<span class="speaker"><strong>发言人1: </strong></span>
-在这个旺多姆集团里，利丰集团保留70%的股权，而剩余30%的股权就在公开市场出售了。除此以外，约翰还将利丰旗下的烟草业务全部划归到了乐福门旗下进行管理，就让旺多姆集团专注于奢侈品品牌的收购与经营。但是因为这个涉及到把一些乐富门旗下的业务转移到旺多姆这边来。所以根据有限的记载，当时约翰应该是采用了换股的方式，实现了这种业务性的调整。但是具体这个换股的详细的方式，我没有找到相关的记载。而换股这种方式，其实后来也成为了约翰非常喜欢的一种交易方式。
-</p>
-<p class="transcript-line">
-<span class="time"><strong>[00:20:18]</strong> </span>
-<span class="speaker"><strong>发言人1: </strong></span>
-我们后面也会提到，由于烟草业务利润非常的高，所以这个给利丰集团提供了充足的现金流，他就有了充足的弹药来开始进行接下来一系列的收购了。首先在1993年的时候，他带领旺多姆集团收购了卡地亚品牌的股权，实现了控股。在1996年的时候，他又收购了顶级的瑞士腕表品牌江诗丹顿。在1997年的时候，他又收购了意大利的腕表品牌沛纳海。93年到97年期间，借助旗下品牌在亚洲地区业绩的快速增长，旺多姆集团的年度整体营收一度达到了17亿瑞士法郎。最高峰的时候，它的旗下部分的品牌在亚洲的销售额能够占到他品牌整体营收的60%。
-</p>
-<p class="transcript-line">
-<span class="time"><strong>[00:21:04]</strong> </span>
-<span class="speaker"><strong>发言人1: </strong></span>
-但是到了1997年，我相信对经济石油了解的听友们都知道这些年亚洲发生了什么，就亚洲金融危机来了，对这个让非常依赖亚洲地区销售的旺多姆集团的业绩就受到了重创，当年旺图姆的股价的跌幅高达40%。此时约翰就再次用上了烟草业后给力丰集团带来的这个巨大现金流。他对外宣称资本市场完全不懂旺多姆集团旗下的这些奢侈品牌的价值，所以他花费了约20亿美元回购，对，收回了市场上的30%的旺多姆的股权。
-</p>
-<p class="transcript-line">
-<span class="time"><strong>[00:21:37]</strong> </span>
-<span class="speaker"><strong>发言人1: </strong></span>
-在取得旺多姆的完全控制权之后，约翰也是下定决心要将奢侈品品牌的经营拉上新的高度。为了保证这个集团业务的纯粹性，1999年1月利丰集团就同意让旗下的乐福门和英美烟草集团合并。这也形成了当时世界上第三大的烟草公司。但其实约翰虽然是将乐福门出售了，但是并没有完全放弃掉烟草这部分业务的利润。因为他又是通过换股的方式将乐福门卖给了英美烟草。
-</p>
-<p class="transcript-line">
-<span class="time"><strong>[00:22:06]</strong> </span>
-<span class="speaker"><strong>发言人1: </strong></span>
-换股完成之后，利丰集团和伦勃朗集团是共同通过一家注册在卢森堡的投资公司叫r and r holdings，持有英美烟草35%的股权。这35%里面，其中利丰持股是19.6%，所以利丰依然可以作为财务投资者来获得烟草业务带来的利润。这个r and are holding的名字其实也很容易看出来，它就是伦勃朗集团和利丰集团的首字母的组合。对，在这家RR控股公司里，伦勃朗是持股33%点，三笠峰是持股66.7%，其实是66.666666。
-</p>
-<p class="transcript-line">
-<span class="time"><strong>[00:22:41]</strong> </span>
-<span class="speaker"><strong>发言人1: </strong></span>
-对，到了2000年9月的时候，南非部分的伦勃朗集团也进行了重组，就分成了RAM grow集团和one fun集团。这个one fun就是VENFIN，其中RAM grow就掌管集团的烟草和金融业务，还有采矿其他的工业业务。而湾泛集团则主要管理伦勃朗集团自1993年成立的电信业务。所以你可想而知，这伦勃朗的在南非就是只手遮天，就是每个产业都有它。
-</p>
-<p class="transcript-line">
-<span class="time"><strong>[00:23:10]</strong> </span>
-<span class="speaker"><strong>发言人1: </strong></span>
-而在利丰这边，在完成了乐福门的出售之后，约翰将自己在法国付费电视台戛纳普里斯的15%的股权，通过换股转换成了在法国媒体集团维旺迪2.9%的股权。所以你看换股又来了，我们这么大会儿已经说了他三次换股了。在剥离了烟草的这部分的经营业务之后，此时旺多姆已经是利丰百分之百控股的子公司了。所以其实旺多姆这个名字就没有太多存在的必要性了，所以他就直接就被利丰集团给吸收了。这个时候利丰集团的主营业务就正式成为了奢侈品，而约翰也就继续了自己的收购之路。
-</p>
-<p class="transcript-line">
-<span class="time"><strong>[00:23:48]</strong> </span>
-<span class="speaker"><strong>发言人1: </strong></span>
-在1999年的时候，利丰集团联合意大利的服装及地产集团风琴集团收购了梵克雅宝品牌。还记不记得当时罗伯特霍克想和珠宝品牌生产联名款打火机的时候，找梵克雅宝被拒绝了。现在梵克雅宝被利丰给收了让他们开始生产打火机了吗？没有是吧？已经过去了。这事对对对，反正梵克雅宝这个命运终究还是要跟利丰绑定在一起的。利丰最终是以1.1亿瑞士法郎的价格收购了梵克雅宝60%的股权，而风琴集团则是收购了梵克雅宝20%的股权。品牌剩余的20%股权是留给了品牌创始家族的继承人的，自此利丰集团也就正式取得了梵克雅宝品牌的控制权。
-</p>
-<p class="transcript-line">
-<span class="time"><strong>[00:24:31]</strong> </span>
-<span class="speaker"><strong>发言人1: </strong></span>
-其实你从这儿能看得出来，就约翰他搞收购真的不是像伯纳德一样赶尽杀绝类型的。他其实是每一次都做人留一线，他日好相见的这种风格。我往后说你会越来越发现这样，他在收购方面不是一个特别强势的人。他更希望是我只是给你投资，让你把业务做好，一起赚钱，你情我愿的对，这个在后面也会让他在跟伯纳德的一场竞争中出到了2000年，利丰就参与了一场收购的硬仗。在二月的时候，德国工业品集团曼内斯曼被电信巨头沃达丰收购了。而沃达丰当时就明确表示了，此后会将集团的业务专注在电信业务上。这也就代表着呢曼内斯曼旗下的其他业务线就都面临出售了。
-</p>
-<p class="transcript-line">
-<span class="time"><strong>[00:25:16]</strong> </span>
-<span class="speaker"><strong>发言人1: </strong></span>
-而这些其他业务线里面就有一家公司叫做LMH。这家公司是拥有着积家、万国、朗格这几个知名的腕表品牌的。而持股比例分别是技嘉60%、万国百分之百和朗格90%。
-</p>
-<p class="transcript-line">
-<span class="time"><strong>[00:25:32]</strong> </span>
-<span class="speaker"><strong>发言人1: </strong></span>
-这些居然以前在一个电信公司旗下一个工业公司的工业公司。工业公司出售的消息一放出，约翰就率领着利丰集团立马下场报价。但是这个时候，就有另外两名竞争对手出现了，就是LVMH集团和斯沃琪集团。此时在珠宝腕表这些品牌方面，LVMH是拥有尚美巴黎、真力时、泰格豪雅这个品牌，而斯沃琪是拥有着宝鸡格拉苏蒂和雅克德罗这些品牌。
-</p>
-<p class="transcript-line">
-<span class="time"><strong>[00:26:00]</strong> </span>
-<span class="speaker"><strong>发言人1: </strong></span>
-最终力丰集团是在这场收购战中胜出了。但是他是靠什么胜出的呢？就是我们刚才说的，是靠真心。直到这个交易结束，都公布了相关的细节，大家才懂为什么力丰集团胜出了，是因为力丰提前联系了另一个知名的腕表集团艾比集团，就是adm SPK这个集团。
-</p>
-<p class="transcript-line">
-<span class="time"><strong>[00:26:21]</strong> </span>
-<span class="speaker"><strong>发言人1: </strong></span>
-刚刚我们说过，LMH持股基价是60%，是他拥有的三个牌子里持股最少的一个。而另外这40%就是在艾比集团手上，在公布收购LMH交易的时候，利丰同时公布自己已经将技嘉品牌剩余40%的股权从艾彼集团手中购回。并且在完成LMH的收购之后，会让这部分股权通过转让的形式重新回归到LMH集团旗下的品牌，也是重新还给几家。同样都是收购，显然人家利丰集团拿出的这个诚意就更足一些。对我愿意用更高的成本来换取品牌的真正的经营的完整性和自主权。是的，所以在收购战中这个胜出就也不足为奇了。
-</p>
-<p class="transcript-line">
-<span class="time"><strong>[00:27:05]</strong> </span>
-<span class="speaker"><strong>发言人2: </strong></span>
-而且他在收购之前，其实已经打动了另一个股权方向。
-</p>
-<p class="transcript-line">
-<span class="time"><strong>[00:27:08]</strong> </span>
-<span class="speaker"><strong>发言人1: </strong></span>
-对，是的。最终这笔收购一共是花费了利丰集团30.8亿瑞士法郎。其中28亿是用于收购了LM集团，剩余2.8亿就是用于去收购技嘉剩余的那40%的股权的。这些资金中，其中有一部分就是通过利丰售出了1.3%的英美烟草的股权获得的，这个时候利丰在英美烟草的持股比例也是下降到了18.3%了。
-</p>
-<p class="transcript-line">
-<span class="time"><strong>[00:27:34]</strong> </span>
-<span class="speaker"><strong>发言人2: </strong></span>
-虽然咱还没讲完，但是我说我听到这儿，我就觉得他跟博纳德不在一个级别上竞争。你看博纳德要收购一个什么品牌，他都要满仓满杠杆，相当于对，而且猛虎扑食。对，因为他可能就是资本金少，然后他也没有一个之前那么庞大的像烟草这样的业务，给他提供充足的现金流。对，但是这些约翰都不一样，就是我有的是钱，你知道吧？所以做什么东西就。
-</p>
-<p class="transcript-line">
-<span class="time"><strong>[00:27:58]</strong> </span>
-<span class="speaker"><strong>发言人1: </strong></span>
-感觉很平和，对，很宽容，大家和和气气的把钱赚了就好了。对，是利丰。对于LVMH这场的胜利也其实来之不易，因为LVMH那边也是下了很大的决心的。据说伯纳德为了这笔收购，是售出了11亿美元的烈酒集团DRGO的股份的。这家DRGO集团我们在之前讲LV那期的时候说到过，之后如果我们开酒类品牌巡礼的这个系列的时候，我们肯定还会再详细讲。这个烈酒巨头DRGO和LVMH是在98年的时候就签署了合资协议的，至今这两个集团依然是深度合作。不过据说今年好像他们的合资方式要发生变化了，具体细节还没有公布。所以LVMH为了能够收购这三个品牌，他竟然卖出了11亿美元的DRGO的股份。你可想而知当时伯纳德有多重视这笔收购，势在必得。对，我们这个系列里讲到过，其实古驰、爱马仕都曾经让伯纳德收购失败过。但是利丰这次战胜LVMH其实是在00年，是在古驰和爱马仕这两场败仗中间，他在古驰那儿是输给了开云，在LMH这就输给了立峰，所以虽然LVMH是奢侈品界的巨无霸，但是在收购里它并不是常胜将军。
-</p>
-<p class="transcript-line">
-<span class="time"><strong>[00:29:11]</strong> </span>
-<span class="speaker"><strong>发言人2: </strong></span>
-因为他这个方式确实就是吃这一套的人就吃这一套，不吃一套的人就是宁愿我把这个卖给别人。
-</p>
-<p class="transcript-line">
-<span class="time"><strong>[00:29:16]</strong> </span>
-<span class="speaker"><strong>发言人1: </strong></span>
-在完成00年这笔大收购之前，其实利丰集团在90年代也完成了一些其他非腕表品牌的收购。比如说像兰兹、西格苏卡，还有上海滩等等服装品牌。这个都属于典型的提升集团业务的多元化程度的这个操作。同时约翰也售出了利丰集团所持有的媒体集团维旺迪的全部股权。就是我们刚才说的通过换股那个法国电视台的那个对，自此他就彻底剥离了利丰集团的媒体业务。
-</p>
-<p class="transcript-line">
-<span class="time"><strong>[00:29:44]</strong> </span>
-<span class="speaker"><strong>发言人1: </strong></span>
-但是在完成了多笔巨大金额的收购之后，利丰自己开始出现问题了。02年的时候，利丰集团因为运营费用高企，导致企业的财务状况非常的不理想。因为你想你收购了那么多的品牌，你现在的运营费用肯定是直线上升。那这个时候，约翰就果断套现了部分利丰集团持有的英美烟草的股权，偿还了近10亿美元的债务。所以你看他每次我需要钱，我就卖我烟草集团的股权，对这个烟草还是持续给他输血。而且他在缓解了这个财务压力之后，就开始招兵买马，招了很多个品牌的CEO还有创意总监进来，大力推动旗下的品牌进行设计上的创新，逐渐的也就缓解了品牌的经营上的压力。2008年的时候，利丰集团和RAM brow集团共同宣布，通过RN的R控股公司持有的那30.1%的英美烟草股权将进行拆分和剥离。除了大部分的股权进行出售以外，有3%的股权将转移到一家利丰集团在08年10月份拆分出来的投资公司，叫rennet investments到这家公司里面。
-</p>
-<p class="transcript-line">
-<span class="time"><strong>[00:30:50]</strong> </span>
-<span class="speaker"><strong>发言人1: </strong></span>
-其实这个时候利丰完全剥离英美烟草的股份有两层原因。我觉得第一层就是从20世纪90年代开始，其实全球的反烟的情绪特别的高涨，要是有这种反烟运动，所以在公开市场上，很多人其实是会降低对于烟草相关企业的估值的。其实侧面一直对于利丰的股价有影响，其次伦勃朗集团和利丰之前将RNR公司注册在卢森堡的原因，显然是考虑到了卢森堡当时的这个税收优惠政策。但是08年的时候，卢森堡政府宣布将从2010年起逐步减少企业的税收优惠政策。这个税收优惠减少了之后，RNR至少每年要多增加15%的税收成本。所以在综合考虑之下，利丰这个时候就把自己在英美烟草的股权彻底售出了，也就彻彻底底变成了一家奢侈品的集团。
-</p>
-<p class="transcript-line">
-<span class="time"><strong>[00:31:41]</strong> </span>
-<span class="speaker"><strong>发言人1: </strong></span>
-同年约翰鲁伯特就带领集团继续了自己的收购的步伐，他收购了腕表品牌罗杰杜比，这也是一个很知名的腕表品牌。在此之后，约翰终于做成了一件他此前一直没有完成的事情。他在2012年的时候收购了卡地亚品牌在外的剩余全部股权，让卡地亚变成了利丰集团的全资品牌。
-</p>
-<p class="transcript-line">
-<span class="time"><strong>[00:32:03]</strong> </span>
-<span class="speaker"><strong>发言人1: </strong></span>
-约翰在不断收购的同时，他其实也在探索一些新的领域和销售形式。比如说他在2010年的时候，以大概5000万英镑的价格收购了奢侈品交易网站net a porter，并且推动了奢侈品电商ux和net porter在2015年的合并，就成为了yuks net porter公司，我们就简称为y nap公司，就是这个首字母的缩写。这家公司，利丰集团持股的比例是50%，但是他的投票权被限制在了25%。
-</p>
-<p class="transcript-line">
-<span class="time"><strong>[00:32:35]</strong> </span>
-<span class="speaker"><strong>发言人1: </strong></span>
-真正有权利运营这家公司的人，其实是ux这家公司的创始人叫马尔凯蒂。所以在合并之后，net porter的创始人娜塔莉马奈斯特也就离开了公司。其实从这你也能看得出来，她是有50%的股权，但是只有25%的投票权。但是约翰也能接受，他觉得这个东西你实际运营的人比我懂，所以我不是非要有你的运营权利的。
-</p>
-<p class="transcript-line">
-<span class="time"><strong>[00:32:58]</strong> </span>
-<span class="speaker"><strong>发言人2: </strong></span>
-所以他就是很甘心退回到一个财务投资者的位置上。
-</p>
-<p class="transcript-line">
-<span class="time"><strong>[00:33:03]</strong> </span>
-<span class="speaker"><strong>发言人1: </strong></span>
-为了进一步发展这个奢侈品电商的业务，2018年的时候利丰集团就宣布ONNAP和阿里巴巴成立了合资公司，开展线上销售的业务。2020年12月的时候，利丰集团和阿里巴巴表示将各出资3亿美元购入英国奢侈品电商发发奇发行的可转换债券。2 02年8月24日的时候，利丰集团又宣布了一项涉及ONNAB公司的交易，就是由发发奇以及阿联酋企业家穆哈迈德阿拉巴分别收购YNAP47.5%和3.2%的股权，以换股的形式让利丰集团持有发起11%的股份。换股又一次出现了，第四次了。同时利丰集团将采用发发奇平台的解决方案，并且启动他旗下的品牌在发发奇平台上的线上专柜特许经营权，就是允许利丰集团旗下的品牌在发发器平台上线上销售。
-</p>
-<p class="transcript-line">
-<span class="time"><strong>[00:33:58]</strong> </span>
-<span class="speaker"><strong>发言人1: </strong></span>
-其实当时不只是利丰和阿里在发发器身上花了重金，17年的时候京东也给发发器投资过3.97亿美元。包括腾讯也和美国投资公司dragon er一起向发发奇投资了2.5亿美元。但是融资融得这么热闹的发发奇，飞速的就陨落了，仅仅过了一年不到，发发奇就陷入了财务危机，不得不在2023年12月的时候，以5亿美元的身价卖身给了韩国跨境电商巨头库棚来避免破产。血亏血亏。此前发华奇向利丰集团发行的那3亿美元的可转换债券也没有办法兑现了。所以在2024年6月，也就是刚刚过去不久，vn APP直接宣布退出了中国市场。可以说这次奢侈品电商上面的尝试，利丰集团是完完全全失败了的。虽然在奢侈品电商的投资方面还没有收到预期的回报，但是利丰集团整体的发展还是保持了增长的势头的。
-</p>
-<p class="transcript-line">
-<span class="time"><strong>[00:34:55]</strong> </span>
-<span class="speaker"><strong>发言人1: </strong></span>
-利丰的财年就是每年的4月1号到次年的三月31号。根据利丰发布的2024年，也就是截止到2024年3月31日的这个全年财报，他们全年的营收是达到了206.16亿欧元，是创下历史新高的，营业利润也达到了48亿欧元。如果按照固定汇率去测算，是同比增长了13%的。而在各大奢侈品集团业绩都承压的情况下，利丰又公布了他们新财年的第一季度，也就是2024年4月1号到6月30号的这个财报。在这份财报里体现，他们还是实现了营收同比增长1%，达到了53亿欧元。其中珠宝品类是增长了4%，手表品类是下降了13%。所以其实珠宝的增长拉回来手表的下降，同时整个亚太市场的销售是下降了18%。但是按照固定汇率计算，日本市场的销售同比增长了59%。
-</p>
-<p class="transcript-line">
-<span class="time"><strong>[00:35:50]</strong> </span>
-<span class="speaker"><strong>发言人2: </strong></span>
-这也不一定是日本人贡献的，也有可能很多亚太人去日本贡献。
-</p>
-<p class="transcript-line">
-<span class="time"><strong>[00:35:54]</strong> </span>
-<span class="speaker"><strong>发言人1: </strong></span>
-利丰自己就解释说，这里面有相当一部分增长是来自于中国和韩国的旅客在日本的旅行消费。对，所以花钱的还是那波人，只不过花钱的地方不一样。是啊说完了利丰的这个发展历程，我其实还是非常惊讶于安东鲁伯特和约翰鲁伯特这两位掌门人的魄力和眼光的长远的。有句俗话说船大难掉头，越是大型的企业在面临这种市场变化，或者说经营出现问题的时候，他就越难及时做出改变来适应现状。历史上其实也有很多的企业因为这样的原因而死掉了。但是从伦勃朗集团到利丰集团，可以说这个集团的规模都不小，而且涉及的业务线也非常的多，对进行业务整合的难度非常的大。尤其他又是跨国公司加上市公司这种双重的身份，这个就只会让他们企业内部的改革难上加难。但是这两代掌门人还是在每次遇到问题的和困难的时候，都非常勇于善于去及时进行改革的。安东在面对可能的政治风险的时候，他就果断听从了他儿子的建议，他就将集团拆分成了两部分，这其实是一个很大他的动作，保证了海外资产的安全以及他业务的顺利开展。
-</p>
-<p class="transcript-line">
-<span class="time"><strong>[00:37:04]</strong> </span>
-<span class="speaker"><strong>发言人1: </strong></span>
-而约翰就更不用说了，就不管是他成立旺多姆集团，整合所有的奢侈品牌的经营，还是集团面临发展空间受限的时候，他能果断剥离这个持续给他提供现金流的烟草业务，其实都需要比较大的魄力和勇气的，但是他也都做成了。我们现在说起这种改革的时候就非常简单，就直接抛给大家一个结果，就是他改革成功了。可是我相信任何一个在企业内部当过打工人的听友都知道，尤其你职位越高，你越会感受到，在一个大的企业里面推行任何一项改革，都需要特别高的资金成本和沟通成本。就你一旦高管在这个改革期间一直不坚定，或者是说你意志哪怕很坚定，但你对于改革之后的这个方向，你没有清晰的愿景。都有可能让本来改革之前这个企业还能处在可以运营的状态。
-</p>
-<p class="transcript-line">
-<span class="time"><strong>[00:37:50]</strong> </span>
-<span class="speaker"><strong>发言人2: </strong></span>
-就可能就加速他的从半死不活变成彻底挂掉。
-</p>
-<p class="transcript-line">
-<span class="time"><strong>[00:37:53]</strong> </span>
-<span class="speaker"><strong>发言人1: </strong></span>
-就直接死掉。吕氏春秋里面有一篇吕不韦组织他下属的门客创作的茶经，这一篇里面就有一个话也很好懂，叫顾释先王之成法，而法其所以为法。就是说我们要抛弃先王的制度，而去学习先王为何这样去制定这个制度。
-</p>
-<p class="transcript-line">
-<span class="time"><strong>[00:38:09]</strong> </span>
-<span class="speaker"><strong>发言人1: </strong></span>
-对于企业而言其实就是这样的。过去的企业的制度，它是适应当时的经济情况和市场竞争情况的。而新的时代和环境之下，其实更重要的是找到企业安身立命的根本，同时选择适合新的市场环境的方法对企业进行变革，而不是一味沿用企业现有的架构和体系来追求所谓眼前一时的稳定。
-</p>
-<p class="transcript-line">
-<span class="time"><strong>[00:38:30]</strong> </span>
-<span class="speaker"><strong>发言人1: </strong></span>
-那从企业我们如果再往微观的层面看，其实个人也是一样，你要随着时代和环境的变化而不断改变自己奋斗的方式和目标。不管是之前张总讲的三型社会的演变，还是上一期讲的这个躺平经济学，其实也都不断的印证着。就是随着时代的变化，每个人的选择，甚至说价值观都需要做出相应的调整，你才能实现逻辑自洽，对吧？赫拉克利特就有一个非常经典的理论，叫万物流变，无物常住。就是人不可能两次踏进同一条河流，世界上唯一不变的其实就是变化本身。个人必须要跟随环境做出改变，你才能满足自己内心和社会的需求。
-</p>
-<p class="transcript-line">
-<span class="time"><strong>[00:39:09]</strong> </span>
-<span class="speaker"><strong>发言人2: </strong></span>
-老饕说的这些感触和想法，让我想起我之前读一本书叫做重新思考。大家可以去查一查这本书，它主要讲的内容其实跟老涛说的这个核心思想就很像。就是说在任何时候，其实已经现有的常规，它只是对应当时那个社会、那个时代、那个问题而出现的一种解决办法。但是大量的人会把这种解决办法，因为可能这种解决办法很有效，或者说在一段时间内都很有效，就把这种常规默认为真理了可能对啊，然后导致了他已经忽视了现在这个问题到底还是不是原来那个问题，而盲目的使用这种常规这种现成的解决办法。是的，其实解决办法本身只是一种手段，而解决问题才是目的。时不时的去重新思考我现在面对的核心的问题到底是什么？我遵从我的奉为圭臬的以前的这些常规，是不是解决我现在这个问题的解决方法呢？
-</p>
-<p class="transcript-line">
-<span class="time"><strong>[00:40:06]</strong> </span>
-<span class="speaker"><strong>发言人1: </strong></span>
-就不能简单的就形成这种路径依赖是吧？是的，所以其实我们这一期的社会群里的节目，通过讲这些翻案，讲利丰集团的故事，也是希望能让大家从利丰的故事中吸取一些他们勇于转身，乐于改变的这种精神。因为你守旧换来的是淘汰，只有改变其实换来的才是稳定。
-</p>
-<p class="transcript-line">
-<span class="time"><strong>[00:40:25]</strong> </span>
-<span class="speaker"><strong>发言人2: </strong></span>
-但是说到这儿，我加一句利丰其实我觉得他跟别的很多企业去做转型的时候，我感觉他不一样。就是他每次的转型都是很温和的，比如说就像老饕总提到他以换股的形式。本来比如说烟草是我的主营业务，是我的绝对主营业务，对吧？奢侈品其实是我的副营业务。对，那么在这种情况下，我通过换股，把我的这个本来的主营业务换到这个英美烟草公司里了。我从一个主营业务退化为一个财务投资者了。但是我并没有说直接对他进行一个割裂，就是我把这些全卖掉了，或者说我就再也不做这些业务了，他不是，而是退化成一个财务投资者了。我仍然能享受到烟草业务给我带来的充足的现金流的分红。当我在新的业务有需要的时候，我还可以不断的通过去售卖这些原来业务的这个公司的股权，来得到现金流，来维持和补充，或者去发展我的新的业务。
-</p>
-<p class="transcript-line">
-<span class="time"><strong>[00:41:16]</strong> </span>
-<span class="speaker"><strong>发言人1: </strong></span>
-从这个角度上来看，感觉利丰有一些中国人的智慧在里面，是我左也不偏右。是的。
-</p>
-<p class="transcript-line">
-<span class="time"><strong>[00:41:21]</strong> </span>
-<span class="speaker"><strong>发言人2: </strong></span>
-我不是一个极端思维，就是说我不想做这个业务了，我就壮士断腕，我就全都割了。并不是这样。对。
-</p>
-<p class="transcript-line">
-<span class="time"><strong>[00:41:27]</strong> </span>
-<span class="speaker"><strong>发言人1: </strong></span>
-包括其实他收购用换股这种方式，他也不是说我要收购你我就要彻彻底底的把你吃掉。对，都是用这种温和的方式双方来进行合作，把这个业务继续下去。所以这种中庸和温和的思想，可能确实是他跟伯纳德很不一样的地方。
-</p>
-<p class="transcript-line">
-<span class="time"><strong>[00:41:43]</strong> </span>
-<span class="speaker"><strong>发言人2: </strong></span>
-而且确实在很残酷的这个商业竞争领域，他这种方法非但没有示弱，反而走得很远。
-</p>
-<p class="transcript-line">
-<span class="time"><strong>[00:41:50]</strong> </span>
-<span class="speaker"><strong>发言人1: </strong></span>
-甚至还打赢了LVMV是在收购里面的报价，所以有的时候可能一口吃掉一家公司，或者是这种特别精彩的商战，我完全那你打败这种听起来和看起来是很爽，但他往往可能不是现实中最好的选择。对的，这种以温和的方式，以双方合作都能共赢的方式来做生意，这个可能才是真正的。现实中更多的时候所谓的商业里面的一种操作。
-</p>
-<p class="transcript-line">
-<span class="time"><strong>[00:42:15]</strong> </span>
-<span class="speaker"><strong>发言人2: </strong></span>
-以和为贵，和气生财。
-</p>
-<p class="transcript-line">
-<span class="time"><strong>[00:42:18]</strong> </span>
-<span class="speaker"><strong>发言人1: </strong></span>
-也希望这一期的节目能给大家带来一些关于商业不一样的理解，以及关于个人发展，甚至说企业发展里面的变革方面的不一样的认识。那我们本期的讨论就到此结束，如果大家喜欢你们听到的内容的话，欢迎点赞，订阅，转发。我们很希望提供一些有趣的视角来观察这个世界，也很希望和评论区的你进行交流，所以不要犹豫，在评论区留下你的想法。以上就是本期叙事之间的全部内容，感谢大家的收听，再见再见。
-</p>]]></content:encoded>
-            <pubDate>Wed, 31 Jul 2024 04:00:00 GMT</pubDate>
-            <guid>66a700067349f7a55733953f</guid>
         </item>
     </channel>
 </rss>
