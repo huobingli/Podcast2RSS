@@ -4,7 +4,942 @@
         <title>42章经</title>
         <link>https://www.xiaoyuzhoufm.com/podcast/648b0b641c48983391a63f98</link>
         <description>和有趣、有独到认知的聪明人聊天</description>
-        <lastBuildDate>Sun, 20 Apr 2025 04:40:14 +0800</lastBuildDate>
+        <lastBuildDate>Tue, 06 May 2025 04:47:32 +0800</lastBuildDate>
+        <item>
+            <title>AI 下半场：聊透 Benchmark 与 Evaluation | 对谈前 Kimi 产品经理丁丁</title>
+            <link>https://www.xiaoyuzhoufm.com/episode/6818517a6970cc7b4db62789</link>
+            <description>活动预告🥳：5 月 24 日，我们会请到丁丁和 Fellou 创始人谢扬办一场线上活动，大家记得翻到 shownotes 末尾查看报名信息！
+像 RL 这个概念一样，Benchmark 和 Evaluation 也是做 AI 的人经常挂在嘴边的词，但到底该怎么理解这个概念，该如何正确的设定这些问题和数值呢？
+正巧前不久 OpenAI 研究员姚顺雨的那篇《AI 即将进入下半场》特别火，他核心讲的就是「我们当下已经进入了 AI 的第二阶段——从解决问题转向定义问题，评估的意义会超过训练本身。而这其中，评估最关键的不是设置更难的基准测试，而是要在实际落地的场景中重新设计一套实用的评估标准」。
+所以这期我们请到了前 Kimi 产品经理丁丁，从她在大模型公司一年多的实践经验出发，请她分享些对于 Benchmark 和 Evaluation 的思考，相信大多数人听完这期都会对这些概念有更深的理解，也可以开始自己设定一些评估问题和标准了。
+P.S. 丁丁之前曾在微信做过 5 年的搜索产品，也在美团做过策略产品，所以在节目最后她也分享了一些从古典产品转型 AI 产品经理的心得。
+【人类博物馆】
+导游：曲凯，42章经创始人
+34 号珍藏：丁丁，前微信、美团、Moonshot 产品（负责 Kimi App）
+【时光机】
+* 1:27 进入 AI 下半场，「重新定义 Benchmark」比「刷榜提分」更关键
+* 3:23 回顾 AI 上半场，国内大模型公司的发展重心历经了哪些变化？
+* 5:51 一味追求 DAU 是一种偷懒的经验主义
+* 7:07 数据固然重要，但更多的用户数据 ≠ 更好的模型智能
+* 9:28 如果你是梁文锋，你要不要承接这波泼天的用户？
+* 9:59 Evaluation 和 Benchmark 是拉开模型差距的一大关键
+* 14:40 对于没有标准答案的问题，该怎么制定 Benchmark？
+* 17:55 怎么衡量 Benchmark 的好坏？
+* 22:14 创业公司的 Benchmark 有多少道题比较合理？
+* 22:38 能通过高频的用户 Prompt 反推出一套 Benchmark 吗？
+* 24:23 让模型「突出长板」好，还是「全面均衡」好？
+* 25:42 以 C.AI 类产品为例，示范一下该怎么设计 Benchmark
+* 29:28 Benchmark 是团队的核心机密，算法同学都不应该告诉
+* 30:07 AI 产品经理和古典产品经理有什么异同？
+* 31:49 怎么更好地理解模型边界？
+* 33:38 未来每个人都要具备全栈能力
+* 35:38 做微信产品积累下来的 knowhow
+* 39:52 分享一些招 AI 产品经理的标准
+【Reference】
+* OpenAI Agent Researcher 姚顺雨的最新博客内容，探讨了 AI 发展的「下半场」：ysymyth.github.io
+* 一个顶级 AI 产品经理的自我修养 | 对谈光年之外产品负责人 Hidecloud
+【活动预告🥳】
+5 月 24 日，我们会办一场线上活动。感兴趣的朋友欢迎点击链接或扫描下面的二维码，一起来认识&amp;交流！
+【The gang that made this happen】
+* 制作人：陈皮、Celia
+* 剪辑：陈皮
+* Bgm：Mondo Bongo - Joe Strummer &amp; The Mescaleros</description>
+            <content:encoded><![CDATA[<h1>转写链接</h1>
+<link>https://tongyi.aliyun.com/efficiency/doc/transcripts/82xz9447vwko9m6v</link><br>
+<h1>节目摘要</h1>
+<div class="summary">本次讨论深入剖析了人工智能行业的发展，着重强调了模型评估和基准测试在确保AI产品性能上的关键作用，以及AI产品经理在推动产品创新、满足多样化用户需求中的核心地位。讨论涵盖了AI模型评估的方法论、提升模型能力的策略、以及AI产品在实际场景中的应用成效，强调理解模型局限性、用户真实需求及个性化服务的重要性。同时，探讨了通过采用多模型策略来满足不同用户群体的需求，以及AI产品如何基于数据与模型能力实现创新。对话还围绕AI产品经理所需具备的技术洞察力、创新思维以及寻找或培养具备这些特质人才的策略进行了讨论，特别指出在创业公司招募AI产品经理时面临的挑战，强调了实际工作经验、对AI技术的热忱及深刻行业理解的重要性。</div><br>
+<h1>章节速览</h1>
+<div class="chapters">
+<div class="chapter-item">
+<span class="time"><strong>[00:00:00]</strong> </span>
+<span class="chapter-title"><strong>AI下半场：从模型能力到实际应用的挑战</strong></span>
+<div class="chapter-summary">对话讨论了AI技术发展的当前阶段，特别是从模型能力开发到实际应用落地的转变。提到了一篇文章，该文章指出当前AI模型在基准测试（benchmark）中的表现虽高，但实际应用效果仍有限，强调了定义实际问题和关注用户体验的重要性。文章鼓励研究者采用产品经理的思维方式，关注模型在真实业务场景中的效率和体验，指出仅依靠基准测试分数来评估AI模型的能力存在局限性。</div>
+</div>
+<div class="chapter-item">
+<span class="time"><strong>[00:03:23]</strong> </span>
+<span class="chapter-title"><strong>大模型公司上半场发展回顾与认知提炼</strong></span>
+<div class="chapter-summary">对话总结了大模型公司发展的上半场，强调了从2023年初至2024年底或2025年初这一时间段内的主要阶段和核心认知。初期，各公司专注于提升基座模型的能力和挖掘预训练的潜力，同时认识到强化学习（RL）的重要性以及基础模型质量对指令学习（IL）效果的决定性影响。随后，公司尝试利用现有模型能力开发生产力产品，提示词工程一度成为关键环节，但随着基座模型能力的提升，提示词的需求转向更简单明确的描述。近期，多家模型商转向追求无监督训练和AGI，表明智能提升后，先前的关注点如DAU（日活跃用户数）变得次要。然而，DAU仍然是衡量产品成功的重要指标，因为它能提供用户反馈和真实输入，但高质量用户数据与模型智能提升的对齐至关重要。</div>
+</div>
+<div class="chapter-item">
+<span class="time"><strong>[00:07:48]</strong> </span>
+<span class="chapter-title"><strong>数据对模型优化和智能提升的重要性</strong></span>
+<div class="chapter-summary">对话围绕数据对模型效果和智能水平提升的重要作用展开，强调了用户数据对于模型公司理解和定义更好的基准测试至关重要。同时，讨论了数据量虽重要，但模型训练、后训练过程、强化学习（RL）等环节对最终模型表现的影响同样关键。资源充足情况下，公司倾向于接入更多用户数据，但现实中资源有限制。对话还探讨了在模型公司工作期间，最大的收获和经验包括对数据价值、模型优化流程的理解，以及如何在资源有限的情况下做出最佳决策。</div>
+</div>
+<div class="chapter-item">
+<span class="time"><strong>[00:10:08]</strong> </span>
+<span class="chapter-title"><strong>模型评估与benchmark在不同业务场景中的应用</strong></span>
+<div class="chapter-summary">对话围绕模型评估和benchmark在不同业务场景中的应用展开。在搜索产品中，评测数据集的变化速度较慢，可以使用相对通用的测试集较长时间。但在模型公司，随着模型能力的动态迭代，需要不断定义不同维度和梯度的benchmark来推动模型进步，最终模型的智能体现在benchmark的难度上。通过benchmark评估模型表现，不同业务场景对评测标准的关注点差异很大，例如深度搜索注重输出的真实性和全面性，而情感陪伴场景则侧重情感互动而非结构化输出。这些差异在评价模型表现时非常重要。</div>
+</div>
+<div class="chapter-item">
+<span class="time"><strong>[00:12:51]</strong> </span>
+<span class="chapter-title"><strong>模型评估的多维度标准与优先级</strong></span>
+<div class="chapter-summary">讨论集中在模型评估时面临的复杂性，特别是在没有明确对错标准的场景中。评估可能需要根据多个维度来进行，如口语化程度、长度适中等，这些维度有时会相互矛盾。在不同场景下，如CI场景，对用户意图的理解和口语化可能比事实性和完整性更重要，体现了评估标准的优先级和重要性抽象。以DeepSeek为例，其文风的哲学性和优雅性受到赞赏，这反映出团队对于“好”的隐含标准。整体而言，模型评估是一个挑战性任务，特别是在缺乏绝对正确性标准的领域，如语言风格和表达方式，这往往依赖于人类的主观偏好。</div>
+</div>
+<div class="chapter-item">
+<span class="time"><strong>[00:15:07]</strong> </span>
+<span class="chapter-title"><strong>未来模型个性化及基准测试的发展趋势</strong></span>
+<div class="chapter-summary">对话探讨了未来人工智能模型可能的发展方向，包括每个模型具有独特性格以满足不同用户偏好，以及根据用户群体细分基准测试的可能性。讨论还涉及了如何通过模型的内在能力实现个性化服务，例如通过记忆功能满足用户的特定需求。此外，还提到了即使用户偏好低智商的交互方式，高度智能的模型也能适应并模仿这种需求，体现了大智若愚的理念。最后，讨论了如何通过巧妙设定基准测试来显著提升模型和产品的效能，强调了不同公司设定的基准测试可能带来的差异化结果。</div>
+</div>
+<div class="chapter-item">
+<span class="time"><strong>[00:17:21]</strong> </span>
+<span class="chapter-title"><strong>模型迭代与业务需求的关联与挑战</strong></span>
+<div class="chapter-summary">对话探讨了在AI模型迭代过程中，如何通过真实的业务需求设置有效的benchmark以衡量模型性能。强调了随着模型能力的提升，benchmark的难度和复杂度也需要相应调整，以确保能够准确反映模型的真实能力。此外，讨论了模型性能的评估不应仅依赖于主观判断，而应与客观的用户指标，如对话轮次、留存率等挂钩，以更全面地反映模型的好坏。最后，提出了在不同业务场景下，可能需要探索新的用户指标，以更准确地衡量模型的价值和效果。</div>
+</div>
+<div class="chapter-item">
+<span class="time"><strong>[00:19:56]</strong> </span>
+<span class="chapter-title"><strong>模型评估与用户指标的关联性及动态校验</strong></span>
+<div class="chapter-summary">讨论指出，benchmark与最终用户指标之间应存在强关联关系，即模型性能的提升理论上应伴随用户指标的改善。若未见改善，则需调整benchmark以确保评估的有效性。此外，自动评估(auto eva)与人工评估(human eva)在模型任务完成效果评价中均需被不断校验，以防模型自评结果与真实用户体验之间产生差距，强调了评估过程的动态性和必要性。</div>
+</div>
+<div class="chapter-item">
+<span class="time"><strong>[00:20:42]</strong> </span>
+<span class="chapter-title"><strong>AI公司对benchmark实践的差异化理解与实践</strong></span>
+<div class="chapter-summary">在AI公司中，产品经理对于benchmark的理解和实践存在差异化，大厂和创业公司之间尤为明显。大厂内，不同团队间如数据团队、评测团队及功能产品团队之间存在流转和沟通的断点，而创业公司由于团队小、组织灵活，认知迭代速度较快。benchmark的更新频率没有固定标准，越快通常意味着模型能力迭代的越快。创业公司若不动模型，更多的是迭代预制prompt和工程侧的能力来影响结果。此外，随着用户基数的增加，用户需求分布变化，评价维度需要相应调整以适应不同用户群体，这要求标准也进行相应的补充和调整。</div>
+</div>
+<div class="chapter-item">
+<span class="time"><strong>[00:22:13]</strong> </span>
+<span class="chapter-title"><strong>创业公司如何设定合理的模型基准</strong></span>
+<div class="chapter-summary">对话围绕创业公司如何设定合理的模型基准展开。讨论了创业公司初期设置的题量和benchmark的重要性，以及如何通过用户数据来优化这个基准。还提到了模型表现的评估需要考虑到不同领域的梯度和需求分布，强调了关注负反馈信号对于判断底线问题的重要性。此外，还探讨了是否应该将所有资源集中在某一项能力上以突出长板，或是平均分配资源，以及基座模型的能力和垂直产品的优化机会。最后，强调了工程能力、独家数据和业务理解在设计基于模型的产品中的作用。</div>
+</div>
+<div class="chapter-item">
+<span class="time"><strong>[00:25:42]</strong> </span>
+<span class="chapter-title"><strong>AI陪聊产品的挑战与评估标准</strong></span>
+<div class="chapter-summary">对话探讨了开发AI陪聊产品时面临的难点，特别是如何设定评估标准，因为聊天或陪伴场景缺乏明确的正确答案。举例说明了在用户失恋时，AI模型可能给出的不同回复，强调了情绪识别、个性化记忆和倾听能力的重要性。指出由于个体差异，难以定义一个通用的高质量回复标准，预见到未来可能会出现满足小众需求的AI产品。</div>
+</div>
+<div class="chapter-item">
+<span class="time"><strong>[00:28:13]</strong> </span>
+<span class="chapter-title"><strong>人类价值观映射与抽象问题的探讨</strong></span>
+<div class="chapter-summary">对话围绕人类价值观在抽象问题中的映射及其正确性展开。讨论指出，评价标准和价值观往往是人类共识的体现，但这种映射是否完全正确值得商榷。问题的答案被分为社会约定俗成的和更高级版本的两种，后者往往来自于专家或深入思考。在生产力相关的场景中，这种映射较为准确和可衡量，而在其他场景中则可能存疑。此外，对话还提及了未来可能的趋势，如公司将核心资产转移到维护私有benchmark上，以避免模型在训练过程中被引导或被黑客攻击。</div>
+</div>
+<div class="chapter-item">
+<span class="time"><strong>[00:30:02]</strong> </span>
+<span class="chapter-title"><strong>AI产品经理与传统产品经理的异同</strong></span>
+<div class="chapter-summary">对话探讨了AI产品经理与传统产品经理在能力需求上的相同与不同之处。相同点在于都需要具备理解用户、抽象业务场景的能力，以及对用户体验的敏锐感知。不同之处在于AI产品经理更重视数据质量，需要深刻理解模型能力的边界，并设计合适的反馈机制以促进模型迭代。</div>
+</div>
+<div class="chapter-item">
+<span class="time"><strong>[00:31:48]</strong> </span>
+<span class="chapter-title"><strong>AI模型进展对产品经理的影响与应对策略</strong></span>
+<div class="chapter-summary">对话深入探讨了当前AI模型的快速发展对产品经理的影响，以及如何应对这些变化。强调了产品经理应多使用不同模型和API来理解模型在不同领域和能力上的表现，并持续跟进模型版本的更新。建议产品经理通过AI实现自己的想法，以此探索模型的能力边界，并且要提升自己的动手能力和多角色融合能力，包括产品经理、设计师和前端角色。此外，了解和阅读相关论文也被认为是理解模型原理和验证方法的重要途径。最后，讨论了创业公司和AI产品开发人员如何在模型快速发展的背景下，通过深入的领域知识和对模型的理解，形成产品壁垒和积累用户。</div>
+</div>
+<div class="chapter-item">
+<span class="time"><strong>[00:35:37]</strong> </span>
+<span class="chapter-title"><strong>微信产品经验对现代产品经理的影响</strong></span>
+<div class="chapter-summary">对话深入探讨了微信产品经历中的深刻印象和产品原则，包括先构建产品结构再关注细节、功能模块之间的有机联系以及不主动强教育用户使用特定功能。这些原则不仅适用于微信，也被认为在其他公司和AI产品设计中同样有效。讨论还对比了古典产品经理与数据驱动产品经理的不同，强调了基于全局视角思考用户体验的重要性，以及AB测试在现代产品设计中的应用与局限。</div>
+</div>
+<div class="chapter-item">
+<span class="time"><strong>[00:38:45]</strong> </span>
+<span class="chapter-title"><strong>产品个性、指标取向与AI产品经理的招聘与培养</strong></span>
+<div class="chapter-summary">讨论指出，产品应具备独特的个性和感觉，如微信的内敛和极致简单，Instagram的时髦与美观。这种调性无法通过AB实验获得，而是一种古典产品视角的价值观取向。随着公司规模扩大，各部门的指标可能与整体的大指标存在冲突，需注意指标选择的正确性。对于创业公司招聘AI产品经理，建议寻找在初创公司或小公司中完成从0到1项目的经验丰富的全栈型人才。此外，有业余时间制作小demo或产品、对模型有深入理解和热情的候选人也是好的选择。</div>
+</div>
+</div><br>
+<h1>问题回顾</h1>
+<div class="qa-item">
+<div class="question"><strong>Q:</strong> 上半场大家在模型上的核心认知和提炼出来的答案有哪些？</div>
+<div class="answer"><strong>A:</strong> 上半场大家集中于提升基座模型能力，同时意识到RL的重要性，并以deep seek的成功经验验证了良好的训练环节基础模型的重要性。此外，大家都在积极尝试将现有基座模型能力用于构建生产力产品，并关注提示词工程在模型包装过程中的角色变化。</div>
+</div>
+<div class="qa-item">
+<div class="question"><strong>Q:</strong> 从二三年开始，模型商追求free training程度和AGI，最近又似乎都回归了追求AGI的路线，从你的视角看是不是这样？对于只追求DAU的现象，你怎么看？</div>
+<div class="answer"><strong>A:</strong> 是的，我同意这种看法。过去一段时间内，各家公司可能因单一追求DAU而显得有些经验主义或偷懒，但实际上，用户规模并不能客观评价模型能力的提升。现在大家开始意识到，DAU虽重要，但它并不能直接反映模型能力的进步，因此又开始回归追求更为全面的AGI目标。一味地追求DAU某种程度上是一种经验惯性或偷懒行为，在移动端互联网时代，用户规模常被用作衡量产品成功的重要指标。然而，在缺乏客观模型性能评价标准的情况下（如基准测试mark），DAU成为唯一可衡量的标准，这可能导致对模型能力提升的忽视。</div>
+</div>
+<div class="qa-item">
+<div class="question"><strong>Q:</strong> 那么DAU和基准测试的关系是什么？</div>
+<div class="answer"><strong>A:</strong> DAU可以积累用户的使用反馈，形成一定程度上的“用户基准”，具有一定规模的DAU有助于获取真实用户输入。但要注意的是，过度依赖DAU而不关注模型能力提升并不是理想策略，因为还有其他类型的基准测试来源，例如人工构造的基准、合成数据基准等。</div>
+</div>
+<div class="qa-item">
+<div class="question"><strong>Q:</strong> 这些用户数据对于模型进展和智能水平提升的作用有多大？</div>
+<div class="answer"><strong>A:</strong> 数据对于模型来讲是非常重要的，长期来看也是壁垒之一。高质量的数据有助于提升模型智能，但关键在于数据是否能与模型需求有效对齐，即挑选准确且有行业视角的数据。OpenAI拥有大量数据并取得了显著效果，这表明数据是有用的，但在某种程度上尚未充分利用。</div>
+</div>
+<div class="qa-item">
+<div class="question"><strong>Q:</strong> 你如果作为半年前的梁文峰，是否会接那些DAU和数据？</div>
+<div class="answer"><strong>A:</strong> 如果资源充足，我一定会想接。</div>
+</div>
+<div class="qa-item">
+<div class="question"><strong>Q:</strong> 在模型公司工作的经历中，你最大的收获和经验是什么？</div>
+<div class="answer"><strong>A:</strong> 最大的收获是对模型评估以及整个benchmark的认知。在模型公司中，由于模型能力动态迭代，需要不断定义不同维度、不同梯度的benchmark来推进模型进步。</div>
+</div>
+<div class="qa-item">
+<div class="question"><strong>Q:</strong> 是否可以简单理解为evaluation（评估）是最重要的，通过benchmark（基准）来评估和实现模型表现？</div>
+<div class="answer"><strong>A:</strong> 是的，evaluation通过benchmark来评估模型表现，并实现模型产品最终的表现。benchmark是由第三方或内部团队制定的一套题目，用于评价模型输出的好坏。</div>
+</div>
+<div class="qa-item">
+<div class="question"><strong>Q:</strong> 能否举例说明一个典型的深度搜索题目？</div>
+<div class="answer"><strong>A:</strong> 一个深度搜索的典型题目可能是要求模型找出腾讯过去十年的财报并预测今年净利润上升幅度，根据模型输出的质量给出评价，从而构成一个benchmark的基础单元。</div>
+</div>
+<div class="qa-item">
+<div class="question"><strong>Q:</strong> 在不同业务场景下，评测标准会有很大区别，比如情感陪伴类应用和深度搜索的应用，对吧？</div>
+<div class="answer"><strong>A:</strong> 对，不同业务场景的评测标准确实差异很大。例如，深度搜索注重输出的全面性和真实性，而情感陪伴类应用可能更看重口语化和情感表达的贴切性，而不是结构化输出。</div>
+</div>
+<div class="qa-item">
+<div class="question"><strong>Q:</strong> 在多元评价标准下，如何确定“好”的定义？</div>
+<div class="answer"><strong>A:</strong> “好”的定义会回归到真实的用户场景，并结合产品业务视角进行判断。不同的应用场景可能有多个评价维度，且这些维度可能相互矛盾，最终需要根据用户需求和场景特性来抽象出重要性优先级。</div>
+</div>
+<div class="qa-item">
+<div class="question"><strong>Q:</strong> 对于像deep seek那样因独特文风而出圈的案例，如何评价模型好坏的标准？</div>
+<div class="answer"><strong>A:</strong> 模型的好坏评价标准往往隐含在团队对于“好”的共识之中，可能并非所有人都认为显而易见的标准。例如，deep seek的文风被认为优雅且有哲思，这背后反映了团队对于输出品质的独特认知，而在此之前，这样的文风并未被普遍视为评价模型好坏的标准。</div>
+</div>
+<div class="qa-item">
+<div class="question"><strong>Q:</strong> 是否存在一种可能，即未来的基准测试（benchmark）会更加细分，为不同人群设计不同的测试，以反映个性化偏好？</div>
+<div class="answer"><strong>A:</strong> 确实有这样的可能性，未来基准测试可能会根据用户群体进行分类，甚至为每个用户提供个性化的基准，确保每个人得到的结果都是独一无二的。</div>
+</div>
+<div class="qa-item">
+<div class="question"><strong>Q:</strong> OpenAI等公司在追求产品同时具备高智商和情商时，如何处理用户个性化调教产品的情况，例如用户希望产品变得更“蠢”？</div>
+<div class="answer"><strong>A:</strong> 这种情况下，底层模型应足够智能，以至于能够根据用户的个性化需求调整表现。顶尖的产品应该能够在遵循基本能力的同时，灵活迎合用户的特定喜好。</div>
+</div>
+<div class="qa-item">
+<div class="question"><strong>Q:</strong> 基准测试的设定好坏是否较为主观？是否存在客观指标来衡量基准测试的质量？</div>
+<div class="answer"><strong>A:</strong> 基准测试的好坏虽有一定主观性，但可以从几个原则衡量，如真实反映线上用户需求、具有难度区分度并随模型迭代生命周期流转。同时，基准测试与用户指标（如对话轮次、留存率等）存在强关联关系，因为基准测试反映的是模型能力在实际应用中的表现。</div>
+</div>
+<div class="qa-item">
+<div class="question"><strong>Q:</strong> 是否可以通过观察基准测试性能的变化来评估用户指标的提升情况？</div>
+<div class="answer"><strong>A:</strong> 是的，如果基准测试变得更优，理论上对应的用户指标也应该有所改善。若未见明显提升，则需要重新审视和调整基准测试。</div>
+</div>
+<div class="qa-item">
+<div class="question"><strong>Q:</strong> 在评估模型效果时，会用到auto eval和human eval，这两种评价方式是否需要不断校验以确保一致性？</div>
+<div class="answer"><strong>A:</strong> 是的，auto eval和human eval这两种评价方式都需要不断校验，以确保模型自我评价与真实的用户体验之间不存在显著差距。</div>
+</div>
+<div class="qa-item">
+<div class="question"><strong>Q:</strong> 创业公司和大厂在理解和实践benchmark方面是否存在差异？</div>
+<div class="answer"><strong>A:</strong> 创业公司由于团队规模较小、组织方式灵活，其在理解和实践benchmark方面的认知迭代速度相对较快，而大厂可能仍沿用传统方式，存在数据团队和产品团队之间的沟通断点。</div>
+</div>
+<div class="qa-item">
+<div class="question"><strong>Q:</strong> 关于benchmark多久更新一次最为合理，是否存在标准答案？</div>
+<div class="answer"><strong>A:</strong> 没有标准答案，但更新频率应根据模型能力迭代的速度来决定，越快越好，因为快速迭代意味着模型能力的提升。</div>
+</div>
+<div class="qa-item">
+<div class="question"><strong>Q:</strong> 对于创业公司而言，在模型迭代过程中，是否应该关注用户基数较少时的评价维度？</div>
+<div class="answer"><strong>A:</strong> 是的，在用户基数较少时，评价维度可能会较为单一，因为用户分化不严重。但随着用户群体扩大，用户需求分布会越来越多样化，这时仍需适应不同用户需求的最佳效果。</div>
+</div>
+<div class="qa-item">
+<div class="question"><strong>Q:</strong> 创业公司在起步阶段，大概会准备多少道题来测试产品？</div>
+<div class="answer"><strong>A:</strong> 我可能会给自己400道题作为基准来衡量模型表现。</div>
+</div>
+<div class="qa-item">
+<div class="question"><strong>Q:</strong> 这400道题的数量是越多越好还是越少越好？</div>
+<div class="answer"><strong>A:</strong> 不是数量绝对越多或越少越好，关键在于能否有效衡量模型的表现。</div>
+</div>
+<div class="qa-item">
+<div class="question"><strong>Q:</strong> 是否可以先上线产品，然后根据用户使用情况和prompt排序来确定400个数据点作为基准？</div>
+<div class="answer"><strong>A:</strong> 这个方法理论上可行，但需要注意过滤噪音数据，并关注长尾需求。不仅要解决头部的400个问题，也要尽量符合线上用户的分布情况。</div>
+</div>
+<div class="qa-item">
+<div class="question"><strong>Q:</strong> 如果一家公司的benchmark只有40道题或100道题，能否快速分辨出模型的好坏？</div>
+<div class="answer"><strong>A:</strong> 能否分辨好坏取决于对业务领域的理解以及benchmark是否有梯度和符合真实用户需求的分布。</div>
+</div>
+<div class="qa-item">
+<div class="question"><strong>Q:</strong> 是否可以通过在某一项上投入所有资源，使长板足够突出，从而脱颖而出？</div>
+<div class="answer"><strong>A:</strong> 这需要从两个层面来看，一方面，基座模型能力越强，在特定垂类中表现越好；另一方面，垂直产品或模型可以通过结合工程能力、独家数据和对业务的理解来设计更好的产品。</div>
+</div>
+<div class="qa-item">
+<div class="question"><strong>Q:</strong> 如果做一个AI陪聊类的产品，难点在哪里？应该如何做？</div>
+<div class="answer"><strong>A:</strong> 难点在于缺乏ground truth和标准答案，因此需要关注模型对用户情绪的变化、记忆能力以及能否提供有深度的情感交互，而无法像传统问题解答那样确定确切的评估标准。</div>
+</div>
+<div class="qa-item">
+<div class="question"><strong>Q:</strong> 在构建评价标准或价值观时，是否是对人类整体价值观的一种映射？</div>
+<div class="answer"><strong>A:</strong> 确实如此，我们在制定评价标准时，通常是在映射人类世界中某个问题上的相对好的答案。但这种映射是否正确，是一个值得探讨的抽象问题。</div>
+</div>
+<div class="qa-item">
+<div class="question"><strong>Q:</strong> 对于答案的来源，有哪些可能性？</div>
+<div class="answer"><strong>A:</strong> 答案来源有两种：一种是社会约定俗成的共识答案，另一种是更高级别的专业见解，例如讨论问题时，有人能给出不同于大众的深入答案。</div>
+</div>
+<div class="qa-item">
+<div class="question"><strong>Q:</strong> 在生产力类的产品中，这种映射是否依然适用，以及未来是否会存在类似“偷benchmark”的情况？</div>
+<div class="answer"><strong>A:</strong> 在生产力类的产品中，这种映射目前仍然有效，且这类产品的标准和benchmark更容易确定。未来可能出现类似“偷benchmark”的现象，即获取竞争对手未公开的基准数据以优化自身模型。</div>
+</div>
+<div class="qa-item">
+<div class="question"><strong>Q:</strong> AI产品经理与古典产品经理在相同和不同之处？</div>
+<div class="answer"><strong>A:</strong> 相同之处在于都需要理解用户需求和具备抽象能力，将用户场景转化为产品需求；不同之处在于AI产品经理需要更多关注数据质量和理解模型能力边界，而古典产品经理则在交互体验设计上有更强的敏锐感知力。</div>
+</div>
+<div class="qa-item">
+<div class="question"><strong>Q:</strong> 如何理解和预判模型的边界？</div>
+<div class="answer"><strong>A:</strong> 理解模型边界的方法包括多尝试使用不同模型及其API，了解其在不同领域和能力上的表现；尝试用AI完成所有想要做的事情，如交互设计，以便摸清模型能力边界；同时，动手实践全流程闭环，增强对模型的理解。</div>
+</div>
+<div class="qa-item">
+<div class="question"><strong>Q:</strong> 是否每个AI产品经理未来都会变成全栈式人才，阅读论文是否成为必备技能？</div>
+<div class="answer"><strong>A:</strong> 阅读论文对AI产品经理来说非常重要，因为理解原理并结合实践验证是相辅相成的。虽然不同人对论文理解的深度不同，但看论文的习惯对于产品经理而言是至关重要的。</div>
+</div>
+<div class="qa-item">
+<div class="question"><strong>Q:</strong> 从你作为模型产品背景来看，创业公司或AI产品团队在哪些方面不会被模型未来所碾压？</div>
+<div class="answer"><strong>A:</strong> 创业公司或AI产品团队若想不被模型未来所碾压，应当具备深入的领域专业知识和对模型的理解，并能在结合这两者的基础上快速形成产品壁垒、行业认知和用户基础。</div>
+</div>
+<div class="qa-item">
+<div class="question"><strong>Q:</strong> 在你的微信产品经历中，有哪些印象深刻的产品原则或实践？</div>
+<div class="answer"><strong>A:</strong> 微信产品设计强调底层结构清晰，如一开始就确定了四大tab布局，并抽象出扫码等服务型入口。功能模块间存在有机联系，例如用户需求是展示更多头像照片，而非单点设计，因此需求通过朋友圈承载。此外，微信不会主动强教育用户使用特定功能，而是在用户自然探索过程中触发新的体验。</div>
+</div>
+<div class="qa-item">
+<div class="question"><strong>Q:</strong> 微信的产品理念和方法论在其他公司，包括模型产品公司中是否适用？</div>
+<div class="answer"><strong>A:</strong> 这些底层原理是适用的，关键在于从全局视角考虑用户体验。但现在一些公司因为AB实验的便捷性可能导致产品经理忽视用户真实需求和全局联系。</div>
+</div>
+<div class="qa-item">
+<div class="question"><strong>Q:</strong> 是否同意古典产品经理依赖个人经验和用户感知来设计产品，而非仅看数据结果？</div>
+<div class="answer"><strong>A:</strong> 同意，古典产品经理确实依靠个人经验和用户感知做产品，而AB测试数据驱动的产品经理更多关注数据指标，可能牺牲掉对产品整体调性和价值观的体现。</div>
+</div>
+<div class="qa-item">
+<div class="question"><strong>Q:</strong> 如何寻找或培养优秀的AI产品经理？</div>
+<div class="answer"><strong>A:</strong> 优秀的AI产品经理通常具备全栈能力，从0到1完成过完整项目，业余时间能独立做出demo或产品，且熟悉常用模型及其应用场景。面试时可询问其最喜欢的模型、常用模型以及应用场景，以了解其行业理解、热情和专注度。</div>
+</div>
+<h1>节目文稿</h1>
+<p class="transcript-line">
+<span class="time"><strong>[00:00:02]</strong> </span>
+<span class="speaker"><strong>发言人1: </strong></span>
+Do something there.
+</p>
+<p class="transcript-line">
+<span class="time"><strong>[00:00:19]</strong> </span>
+<span class="speaker"><strong>发言人2: </strong></span>
+我们今天很开心请到钉钉，因为钉钉之前从24年初开始加入KIMI。对，然后那个时候是kimi的APP刚上线。
+</p>
+<p class="transcript-line">
+<span class="time"><strong>[00:00:27]</strong> </span>
+<span class="speaker"><strong>发言人1: </strong></span>
+对，相当于是去了以后上线了kimi的APP.
+</p>
+<p class="transcript-line">
+<span class="time"><strong>[00:00:30]</strong> </span>
+<span class="speaker"><strong>发言人2: </strong></span>
+然后就是一直做kimi的APP，然后做了大概。
+</p>
+<p class="transcript-line">
+<span class="time"><strong>[00:00:33]</strong> </span>
+<span class="speaker"><strong>发言人1: </strong></span>
+一年多的时间，也算是kimi的早期的产品同学之一。
+</p>
+<p class="transcript-line">
+<span class="time"><strong>[00:00:37]</strong> </span>
+<span class="speaker"><strong>发言人2: </strong></span>
+然后最近是刚出来。对，然后我们可以从最近比较火的一篇文章先切入进来，正好通过那篇文章聊一下模型的上下半场的问题。就是前两天OpenAI的那个人，他写了一篇文章，然后标题大概就是AI的下半场。然后我看他里面讲的核心的点是说，大家对于当下模型的能力的开发，其实已经到一定阶段。然后之前的很多evaluation用的一些benchmark可能没有那么有效了，应该需要一些新的更偏向于实际落地的一些evaluation。The bank, 我不知道你是怎么看这个问题的。
+</p>
+<p class="transcript-line">
+<span class="time"><strong>[00:01:10]</strong> </span>
+<span class="speaker"><strong>发言人1: </strong></span>
+在聊这个问题之前，可能我们也是要有一个最基础的概念。一个是关于evaluation。什么是evaluation？其实就是你对模型的性能的好坏进行分析和评估的一个过程。而benchmark其实就是一系列的基准的测试。你也可以理解为给模型出的一套套题，然后来看它表现怎么样，然后下半场那篇文章传播非常广，它其中最重要的提出了一个观点，就是在这个阶段可能定义问题会比原来的去把现有的一些benchmark刷分更重要。
+</p>
+<p class="transcript-line">
+<span class="time"><strong>[00:01:40]</strong> </span>
+<span class="speaker"><strong>发言人1: </strong></span>
+其实这些benchmark可能跟业务的真实的场景或者用户实际的需求之间还是有gap的。所以我记得这个文章里面也有个观点说，就是鼓励研究者是需要产品经理的这个思维去关注实际的产品体验和效率的问题。不然就会出现可能所谓的智能的水平越来越高，但是实际解决问题的效用并没有被提升的状况。
+</p>
+<p class="transcript-line">
+<span class="time"><strong>[00:02:02]</strong> </span>
+<span class="speaker"><strong>发言人2: </strong></span>
+对它里面提了一个点，我觉得确实挺对的。就是现在的各种看他那个刷分的结果来讲，可能很多AI已经达到研究生博士生的水平了。但实际上在落地的时候，可能最多连个实习生的水平都还算不上。这个背后的原因到底是什么？就是班级mark设定的问题。
+</p>
+<p class="transcript-line">
+<span class="time"><strong>[00:02:19]</strong> </span>
+<span class="speaker"><strong>发言人1: </strong></span>
+因为实际上在我们真实的业务场景，至少我感受到的除了基准测试之外，我们其实还会关注很多结合业务以及结合用户真实使用的这个benchmark。因为上述的我们刚刚提到的这些基准测试，它和真实世界中模型产品不同业务的出入之间的偏差还是会比较大的。比如说你是一个端到端的这个模型产品，那你要去评估的除了基座模型本身的能力之外，你可能还会有在整个流程当中的system prompt，包括搜索API，可能你还会有知识库，然后接口等等一系列的这个流程，最终共同构成这个用户的体验。然后另外就是你在不同业务或者不同领域内，实际上你的出入可能跟我们看到的那些基准测试的所谓的题目是完全不一样的。基于这个前提也会表现出来说，benchmark的分数很高。但是如果你完全拿来即用的话，可能你在真实的业务场景当中的表现并不会特别的好。
+</p>
+<p class="transcript-line">
+<span class="time"><strong>[00:03:18]</strong> </span>
+<span class="speaker"><strong>发言人2: </strong></span>
+所以你是认可AI下半场整个这个说法的吗？
+</p>
+<p class="transcript-line">
+<span class="time"><strong>[00:03:22]</strong> </span>
+<span class="speaker"><strong>发言人1: </strong></span>
+我完全认可。
+</p>
+<p class="transcript-line">
+<span class="time"><strong>[00:03:23]</strong> </span>
+<span class="speaker"><strong>发言人2: </strong></span>
+所以回顾上半场，至少国内的认知来讲，应该是从二三年初开始，一直到可能24年底或者25年初这两年的时间。然后在你从的这些经验里面，包括你看到国内这些大模型公司的发展来讲，你的上半场我们能总结哪几个阶段？然后大家核心提炼了哪些认知跟一些答案。
+</p>
+<p class="transcript-line">
+<span class="time"><strong>[00:03:44]</strong> </span>
+<span class="speaker"><strong>发言人1: </strong></span>
+首先是上半场大家还是在努力的提升基座模型的能力，或者说是还在努力的挖掘print train的潜力。对kimi来讲，其实也很早就意识到了RL的重要性，但是IL的效果最终是必须base在一个很好的基础模型，或者在很好的print环节上的那其实从deep seek这个成功的经验也验证了这一点。然后另外是我觉得大家在过去的一年当中，都在积极的尝试用现有的基座模型的能力去包装出一些好的生产力的产品。但是我们也会同时看到，比如说在过去基座模型能力不足够OK的情况下，或者训练范式没有调整的情况下，提示词工程会被提到一个非常重要的一个维度。甚至可能我记得应该是在去年的上半年，大家还在说你一定要去成为一个提示词工程师，或者这可能是一种新的职业。今天不是说提示词不重要，那它可能相比过去非常复杂的这个提示词。由于基座模型的能力的提升，它可能会只需要你更加简单清晰明确的描述你想要的这个结果，就能输出跟以前一样，甚至超越之前的一些结果的能力。
+</p>
+<p class="transcript-line">
+<span class="time"><strong>[00:04:55]</strong> </span>
+<span class="speaker"><strong>发言人2: </strong></span>
+我记得之前sam奥特曼说过，好像其实是工程未来是不存在的。
+</p>
+<p class="transcript-line">
+<span class="time"><strong>[00:05:00]</strong> </span>
+<span class="speaker"><strong>发言人1: </strong></span>
+我觉得他说那个不存在的意思是指，比如说专门的提示词，工程这个职业不存在，但是我觉得提示词本身是一定会存在。
+</p>
+<p class="transcript-line">
+<span class="time"><strong>[00:05:09]</strong> </span>
+<span class="speaker"><strong>发言人2: </strong></span>
+明白，我的感知是好像从二三年开始，几家模型商大家开始追求free training的程度，然后追求AGI。但过去的一年多的时间吧，大家其实各自都落在了像刚才讲一些产品上面。比如说kimi是落在他的APP上，字节落在兜包上，mini max可能最后选的是token星野这些方向上。然后大家开始去卷说谁的DAU更高。然后deep sik出来以后，反而好像一个类似警钟还是什么样这个东西。大家又发现说原来智能更高以后，前面这些东西可能都没有那么重要，对吧？所以现在我的感觉是大家又回到去追求AGI的路线。从你的视角来讲是不是这么。
+</p>
+<p class="transcript-line">
+<span class="time"><strong>[00:05:51]</strong> </span>
+<span class="speaker"><strong>发言人1: </strong></span>
+首先我觉得一味的或者单一指标去追求DAU，某种程度上是一种经验的惯性，或者有点偷懒的行为。因为过去在移动端互联网时代，你说大家用什么去衡量你的产品是否成功？用户规模可能就是一个非常直接的。
+</p>
+<p class="transcript-line">
+<span class="time"><strong>[00:06:07]</strong> </span>
+<span class="speaker"><strong>发言人2: </strong></span>
+这个其实正好可能跟benchmark也是相关的。就是大家没有一个客观的指标能够评价说你这个东西到底做怎么样。你很难讲说我的模型做了一年就比别人强多少，就搬出mark。因为大家都知道其实它是可以刷，可以怎么样的。所以大家要去评判这个东西，不管是要内部定OKRKPI，还是外部去面向资本市场也好，面向用户也好，那能评价的可能就是DAU了。所以我觉得这个也是一个必然的结果。
+</p>
+<p class="transcript-line">
+<span class="time"><strong>[00:06:33]</strong> </span>
+<span class="speaker"><strong>发言人1: </strong></span>
+我觉得DAU并不是不重要，而且其实你必须要有用户，你才能获得反馈，获得真实的用户输入。只是说一味的去追求DAU，其实对比如说模型能力的提升，它可能是没有帮助的这里面我觉得也可以去引入奔驰mark来源来理解这件事情。比如说我们所说的benchmark有哪几种来源？一种是刚刚说的一些基准通用的benchmark，然后还有一种可能就是用户线上真实的反馈，可能是关联，比如说DAU或者用户使用的。然后还有一种是人工构造的benchmark，然后包括合成数据的benchmark。但是刚刚我们说的这个DAU它会积累用户的benched mark，且你有一定的DAU规模，一定是能够帮助你获得独家数据。
+</p>
+<p class="transcript-line">
+<span class="time"><strong>[00:07:17]</strong> </span>
+<span class="speaker"><strong>发言人1: </strong></span>
+但是问题就是用户的输入很多时候的噪音太大了。比如说一个快手来的用户和一个真正的生产力工具聊。比如说50轮上下文，最终输出一个调研报告的用它的数据可能完全不一样。也就是说用户的数据仍然重要。但是高质量的用户数据和我们想要提升的模型能力之间，它必须是align。就是你必须得挑选准确的，才对你的模型智能的提升是有帮助的。
+</p>
+<p class="transcript-line">
+<span class="time"><strong>[00:07:50]</strong> </span>
+<span class="speaker"><strong>发言人2: </strong></span>
+我们一直在讲说数据是对于模型来讲特别重要的，可能长期来讲数据也是壁垒。然后大家也在讲说这个ChatGPT早发了，然后这么多用户用都有很多数据，所以它的模型效果会更好。但同时过去几个月的时间，很多人在讨论说deep到底要不要接这些用户，这些数据到底对dept sick有没有用。所以你觉得这些数据到底对于模型进展，对于智能水平提升的作用有多大？
+</p>
+<p class="transcript-line">
+<span class="time"><strong>[00:08:16]</strong> </span>
+<span class="speaker"><strong>发言人1: </strong></span>
+当然是重要的。因为当你没有用户数据的时候，其实公司的人或者产品经理本身也是局限的。他也不是一个每个行业的专家，他也没有自己去尝试模型所有的用法，他也没有尝试各种模态的混合的输入。而我觉得用户的数据或者高质量的数据，恰恰是去提供了这些行业的这个视角。如果你能结合一些，比如说专家的这种，不管是访谈也好，调研也好，那我觉得就能帮助每一家基座模型公司更好的理解用户，以及定义出更好的benchmark出来。
+</p>
+<p class="transcript-line">
+<span class="time"><strong>[00:08:51]</strong> </span>
+<span class="speaker"><strong>发言人2: </strong></span>
+对，但你看OpenAI的数据肯定是远高于其他家的，anthropic一样追上了。所以这个的原因是什么？是不是数据在里面是有用，但是用处还没有那么大。
+</p>
+<p class="transcript-line">
+<span class="time"><strong>[00:09:02]</strong> </span>
+<span class="speaker"><strong>发言人1: </strong></span>
+还是是因为最终的表现，它其实有非常多的环节，你说的这个基模训的好不好，那后训练的过程当中你做的好不好，你用SFT激活的好不好？然后你当时有没有在用RL，还是大家都在用这个SFT，因为RL也依赖一个高效的info的基建，然后包括对这个范式的绝对的笃定，所以这个里面就是层层沉积出来，然后最终构成了它是不是一个好的体验。
+</p>
+<p class="transcript-line">
+<span class="time"><strong>[00:09:28]</strong> </span>
+<span class="speaker"><strong>发言人2: </strong></span>
+所以以你的模型产品的视角，如果你是半年前的梁文峰，你要不要接那些DAU跟数据？
+</p>
+<p class="transcript-line">
+<span class="time"><strong>[00:09:38]</strong> </span>
+<span class="speaker"><strong>发言人1: </strong></span>
+我如果资源充足我一定想接。
+</p>
+<p class="transcript-line">
+<span class="time"><strong>[00:09:40]</strong> </span>
+<span class="speaker"><strong>发言人2: </strong></span>
+但是你前提是资源充足，对吧？但恰恰就是不够充足。
+</p>
+<p class="transcript-line">
+<span class="time"><strong>[00:09:46]</strong> </span>
+<span class="speaker"><strong>发言人1: </strong></span>
+还是想见那是不是。
+</p>
+<p class="transcript-line">
+<span class="time"><strong>[00:09:48]</strong> </span>
+<span class="speaker"><strong>发言人2: </strong></span>
+古典产品经理的通病。
+</p>
+<p class="transcript-line">
+<span class="time"><strong>[00:09:50]</strong> </span>
+<span class="speaker"><strong>发言人1: </strong></span>
+你会吧对吧？你这么多用户来还是有这个想法的。
+</p>
+<p class="transcript-line">
+<span class="time"><strong>[00:09:54]</strong> </span>
+<span class="speaker"><strong>发言人2: </strong></span>
+我觉得但从最后结果来讲，他们好像就顺其自然。对他也没有特意的要去接这个东西。是然后。我们讲回到你在模型公司里面做的那段时间，最终你总结下来，你觉得你最大的几个收获和经验是什么？
+</p>
+<p class="transcript-line">
+<span class="time"><strong>[00:10:08]</strong> </span>
+<span class="speaker"><strong>发言人1: </strong></span>
+我觉得还是对模型评估，然后包括对整个benchmark的认知。因为我之前是做过搜索的产品的搜索可能之前也会有一些评测，这个工作还是有点类似的。但只是说在过去做搜索的时候，你的评测的数据集变化的速度可能没有那么快。你可能能用相对比较通用的一套测试集，然后用很长的一段时间。但是你在模型公司，因为模型的能力它其实也是在动态的迭代的那当模型某一个维度上的这个能力通过一个benchmark已经解决了，那这个benchmark的生命周期可能就结束了。那你可能就需要定义很多不同维度，不同梯度的benchmark，来一步步的推进模型的进步。
+</p>
+<p class="transcript-line">
+<span class="time"><strong>[00:10:52]</strong> </span>
+<span class="speaker"><strong>发言人1: </strong></span>
+最终这个模型智能的体现就是benchmark的难度。无非就是说你出什么样的题？然后你得到一个什么样的结果。而最终让各家模型产品拉开差距或表现出各自特点的，恰恰是可能他们对benchmark在出题上这件事的不同的定义。
+</p>
+<p class="transcript-line">
+<span class="time"><strong>[00:11:10]</strong> </span>
+<span class="speaker"><strong>发言人2: </strong></span>
+对我能不能简单理解说，就是evaluation肯定是最重要的。对于模型的表现和产品最终表现来讲，然后evaluation就是通过benchmark来去评估跟实现。然后benchmark就是可能比如说第三方或者内部的产品自己出了一套题。所以你能不能举一些例子，这个题大概到底是什么样子的一些题。
+</p>
+<p class="transcript-line">
+<span class="time"><strong>[00:11:29]</strong> </span>
+<span class="speaker"><strong>发言人1: </strong></span>
+比如说一个典型深度搜索的题，可能就会有一道题是你能帮我把腾讯过去十年的财报都找出来，并且预测一下今年它的净利润会上升多少。那这个时候模型可能会有一个输出，那就会有另外一个比如说reward来评价这个模型的输出到底好不好。刚刚我们看到的那样一个输入输出，以及评价它可能就构成了一个benchmark基础的一个最小颗粒度单位。
+</p>
+<p class="transcript-line">
+<span class="time"><strong>[00:11:58]</strong> </span>
+<span class="speaker"><strong>发言人1: </strong></span>
+但是实际上在不同的业务当中，评测的标准或者在意的点是非常不一样的。可以举一个例子，比如说刚刚我们讲到的，如果你是做深度搜索，那你会希望模型的输出是什么？我觉得大概率你会希望他能够基于你索引到的所有的数据源，给出一个尽量真实的并且全面的这样子的一个要求。但如果你是一个，比如说CAI，它可能是一个情感陪伴类的那刚刚那个标准就变得不重要了。你不希望他在情感陪伴的时候说出，根据你的心情状态，我对你有以下几个建议，一什么，二什么。但也许这个结构化的输出在比如说研报等等很多场景下是非常适用的。所以这又call back了刚刚我们讲的，其实在不同的业务场景，这种评估的标准的好坏是有非常大的一个区分度的对所以我。
+</p>
+<p class="transcript-line">
+<span class="time"><strong>[00:12:51]</strong> </span>
+<span class="speaker"><strong>发言人2: </strong></span>
+听起来这个问题其实就是用户可能真实场景中会给了一段prompt，吧？它是作为一个问题，然后你去评估的时候，它可能不是一个这个东西对错或者好坏。它可能会分好几个维度，可能甚至一个很复杂的表格来去评价这段话。
+</p>
+<p class="transcript-line">
+<span class="time"><strong>[00:13:07]</strong> </span>
+<span class="speaker"><strong>发言人1: </strong></span>
+对我觉得你最终一定能够抽象出来几个维度，然后你去让模型学习你这种对好的判断。
+</p>
+<p class="transcript-line">
+<span class="time"><strong>[00:13:15]</strong> </span>
+<span class="speaker"><strong>发言人2: </strong></span>
+但这几个好也是会分优先级。我在想有的场景里面，比如说他给用户的是不是口语化足够，然后长度是不是适中之类的对吧？它可能是好几个标准，那这几个标准有可能有时候是相悖的对吧？有可能这个是A好，那个是B好。那最后怎么定义好呢？
+</p>
+<p class="transcript-line">
+<span class="time"><strong>[00:13:31]</strong> </span>
+<span class="speaker"><strong>发言人1: </strong></span>
+还是会回到那个真实的用户场景，比如说CI的那个场景。那个时候其实事实性和完整性或者真实性就不那么重要。在产品侧的业务视角已经做了一层判断，比如说对用户意图的理解和口语化可能就会比其他的指标更重要。所以在这个过程当中，你抽象不只抽象的是元素和分类，你同时还会抽象它的重要性。
+</p>
+<p class="transcript-line">
+<span class="time"><strong>[00:13:54]</strong> </span>
+<span class="speaker"><strong>发言人1: </strong></span>
+然后这里面有一个非常有意思的例子，就是当时deep seek出圈的时候，很大的原因是大家觉得deep sick的文风特别的有意思，因为显得非常的有哲思和优雅。但是其实他背后反映的是他们团队对于什么是好这件事情，一定有这一条隐含的标准，就是模型这样回答是好的。因为在那之前没有任何一家公司，哪怕比如说我们把时间倒回去，在dip sick没出来之前，我们在内部说这个文风是重要的。大家一定会觉得它是一个好的指标，我觉得也未必。所以其实模型评估本身就是特别难的一件事情。因为我觉得所有人都有共识的，且100%正确性的这个评价标准其实是不太好制定的。
+</p>
+<p class="transcript-line">
+<span class="time"><strong>[00:14:40]</strong> </span>
+<span class="speaker"><strong>发言人2: </strong></span>
+我听起来这个世界上好像就没有百分百，它还是一个比较偏人类喜好的一个结果。
+</p>
+<p class="transcript-line">
+<span class="time"><strong>[00:14:45]</strong> </span>
+<span class="speaker"><strong>发言人1: </strong></span>
+看你是哪些领域，数学题肯定有对吧？代码题肯定有这种有ground truth的，我觉得就比较好做。然后我觉得今天也是大家会非常偏好采用的，因为它就是有个标准答案。但是比如说对于一些不好量化的层面，比如说刚刚我们提到的语言风格，包括表达等等我觉得这些其实是不太好制定，甚至是没有共识的。
+</p>
+<p class="transcript-line">
+<span class="time"><strong>[00:15:07]</strong> </span>
+<span class="speaker"><strong>发言人2: </strong></span>
+所以从这个角度我在想两个问题。一个问题是如果是这样的话，那会不会未来应该多模型，每个模型有自己的性格，有的人就喜欢这个人，就喜欢那个，这是第一个问题。然后另外我觉得还有一种可能性是未来benchmark会不会细到说他会给不同的人群做分类。就是我有1000个用户，但我甚至于极端我会有1000个benchmark给不同的用户，然后每个人得到的结果是不一样的。
+</p>
+<p class="transcript-line">
+<span class="time"><strong>[00:15:32]</strong> </span>
+<span class="speaker"><strong>发言人1: </strong></span>
+对于第一点，我觉得是的，其实现在就已经有一些偏好了。比如说当你编程的时候，你肯定第一优先级就选择cloud，但是比如说你可能做一些深度搜索的时候，你可能今天就会去用O3。然后对于第二个问题，我觉得他可以转换一下。最终还是要把这种个性化抽象到某一种模型能力或者产品能力上。比如说我举个最简单的例子，我能不能通过memory来解决你刚刚的个性化的这个偏好？我觉得是有这个可能性。其实OpenAI本身也自己在努力，所以可能不一定需要像你说的那么细分的这个benchmark。但它一定是通过某种模型内化的能力，能够帮你去达成你最终的那个目标。
+</p>
+<p class="transcript-line">
+<span class="time"><strong>[00:16:10]</strong> </span>
+<span class="speaker"><strong>发言人2: </strong></span>
+我又想了一个极端的例子，比如说假设还是一个CAI产品，然后CEI这个公司本身应该是说希望这个产品的情商越来越高智商越来越高。但如果这时候有个用户说我就喜欢蠢的那他相当于说他自己去通过各种对话去调教这个boss。当然他希望这个box变得越来越蠢，但同时这个公司的底模就是想把这个变得越来越聪明。那是不是一个矛盾的事情呢？
+</p>
+<p class="transcript-line">
+<span class="time"><strong>[00:16:33]</strong> </span>
+<span class="speaker"><strong>发言人1: </strong></span>
+我觉得不是，因为他希望他是纯本质上是一种只能遵循的能力，也是模型的基础能力。
+</p>
+<p class="transcript-line">
+<span class="time"><strong>[00:16:38]</strong> </span>
+<span class="speaker"><strong>发言人2: </strong></span>
+所以就是要让他足够聪明，以至于他可以办蠢。
+</p>
+<p class="transcript-line">
+<span class="time"><strong>[00:16:41]</strong> </span>
+<span class="speaker"><strong>发言人1: </strong></span>
+对，最顶尖的我觉得人也是可以做到。
+</p>
+<p class="transcript-line">
+<span class="time"><strong>[00:16:44]</strong> </span>
+<span class="speaker"><strong>发言人2: </strong></span>
+这样大智若愚。
+</p>
+<p class="transcript-line">
+<span class="time"><strong>[00:16:46]</strong> </span>
+<span class="speaker"><strong>发言人1: </strong></span>
+面对不同的人完全可以去迎合你的喜好。
+</p>
+<p class="transcript-line">
+<span class="time"><strong>[00:16:49]</strong> </span>
+<span class="speaker"><strong>发言人2: </strong></span>
+OK明白benchmark我听起来我觉得好像大家能想到的应该差不太多，所以没有一两个例子就是你觉得这个benchmark真的是很巧妙，别人想不太到。但定出来以后对产品提升，模型提升特别有帮助的这种。因为你刚才那种我觉得就是比如大家坐在那儿就硬想，总归能写出来各种。包括你去看用户的，比如他互动的一些数据，提问的数据，去做个排序之类的，也大概能分成一些。最终A和B两个公司它通过benchmark定义的不同带来结果不同。那这个benchmark不同到底体现在哪儿？
+</p>
+<p class="transcript-line">
+<span class="time"><strong>[00:17:21]</strong> </span>
+<span class="speaker"><strong>发言人1: </strong></span>
+首先在同一领域benchmark的难度可能就会不一样，而这个难度通过什么体现呢？就通过你怎么理解这个业务。比如说一开始你可能做搜索的时候，你会用一些特别简单的题目。但你当时可能会觉得这就是用户的输入。但是再过一段时间你会发现，你看到有一些比如说金融领域的人，他可能通过上下5到10轮的对话，然后你发现其实完全可以通过一个比较复杂的prompt的提问。然后也能让模型直接一步到位输出那个结果。那这个时候可能你就会有一个更难的一个benchmark，那对于这个benchmark你觉得什么是好？
+</p>
+<p class="transcript-line">
+<span class="time"><strong>[00:17:58]</strong> </span>
+<span class="speaker"><strong>发言人1: </strong></span>
+这个标准各家公司其实也一定会有差异的。而这个差异会直接引领着这个模型迭代的方向。然后另外一个是我觉得就过去可能模型确实会出现。比如说你训好了A你可能就丢到了B但是我们最希望出现的场景是在前一代模型的这个基础上，你新的能力又不断的增长。那你这个时候你更看重哪个方向的能力？其实我觉得也是一种取舍。
+</p>
+<p class="transcript-line">
+<span class="time"><strong>[00:18:24]</strong> </span>
+<span class="speaker"><strong>发言人2: </strong></span>
+那benchmark好坏是不是还是一个相对偏主观的一个事情？就有哪些客观的指标能够衡量呢？
+</p>
+<p class="transcript-line">
+<span class="time"><strong>[00:18:31]</strong> </span>
+<span class="speaker"><strong>发言人1: </strong></span>
+一个比较好的一个benchmark可能有几个原则，比如说它首先一定是真实的，能够反映线上用户的需求。然后也有一定的难度和区分度，它不是所有的难度都是一样的。再其次可能就是这个benchmark是随着你整个模型迭代的生命周期去进行流转的。就刚刚说的这个，你可能会抛弃这个bank mark，你也可能会加一些新的题。
+</p>
+<p class="transcript-line">
+<span class="time"><strong>[00:18:58]</strong> </span>
+<span class="speaker"><strong>发言人2: </strong></span>
+你看古典产品经理可能他看的指标就是用户的一些使用频次，使用时长对吧？放到AI里面可能就是对话轮次，然后包括一些典型的像留存这种数据，benchmark和这些数据是挂钩的关系吗？
+</p>
+<p class="transcript-line">
+<span class="time"><strong>[00:19:11]</strong> </span>
+<span class="speaker"><strong>发言人1: </strong></span>
+它一定是有个关联关系。因为benchmark本质上反映的是模型某一方面能力到底好不好用。好不好用本质上又会被转化成用户指标，只不过今天的这个用户指标可能。就像我们刚刚说的，你模型好并不一定代表你的DAU好。然后你在不同的业务下关联的用户指标可能就会变化。
+</p>
+<p class="transcript-line">
+<span class="time"><strong>[00:19:35]</strong> </span>
+<span class="speaker"><strong>发言人1: </strong></span>
+以及它的最佳用户指标是什么？会不会是一种我们没有想到过的，但是更好的指标？我前两天还在想一个事情，就是minus火出圈了，那minus的核心的用户指标有可能会是什么？比如说我能想到的是最少步骤，但是结果被用户下载或者引用的这个比率。
+</p>
+<p class="transcript-line">
+<span class="time"><strong>[00:19:56]</strong> </span>
+<span class="speaker"><strong>发言人2: </strong></span>
+所以benchmark跟最终的用户指标是一个强关联关系吗？就是你们会看，比如说我今天出那个benchmark，然后如果它变得更好，理论来说这些用户指标应该变更好才对。是的，对，如果没有变更好，就是你要去改你的benchmark.
+</p>
+<p class="transcript-line">
+<span class="time"><strong>[00:20:08]</strong> </span>
+<span class="speaker"><strong>发言人1: </strong></span>
+至少要让他们去不断的alive，不然你的评估就没有意义。
+</p>
+<p class="transcript-line">
+<span class="time"><strong>[00:20:13]</strong> </span>
+<span class="speaker"><strong>发言人2: </strong></span>
+是它应该是个关联的对对。
+</p>
+<p class="transcript-line">
+<span class="time"><strong>[00:20:14]</strong> </span>
+<span class="speaker"><strong>发言人1: </strong></span>
+然后包括比如说可能我们在做evaluation的时候，会涉及到auto eva和human ever。你用大模型去评价自己模型的任务完成的效果，和你用人最终去评价你端到端的这个效果。然后我理解这两种的这个evil，其实它也是需要被不断校验的。不然就会存在着模型去自动打分，然后打出来发现跟真实的用户体验之间，它其实是有gap。这个过程本身也是动态的。
+</p>
+<p class="transcript-line">
+<span class="time"><strong>[00:20:42]</strong> </span>
+<span class="speaker"><strong>发言人2: </strong></span>
+就你现在跟AI公司产品经理交流下来看你觉得大家对于benchmark这个事儿的理解跟实践是都已经在一个差不多的水平，还是会有哪些差异化的东西。
+</p>
+<p class="transcript-line">
+<span class="time"><strong>[00:20:53]</strong> </span>
+<span class="speaker"><strong>发言人1: </strong></span>
+首先创业公司和大厂可能会有一些话，大厂我看到的是不同团队还在像以前那种方式流转。比如说你的高质量的这个数据标注，然后包括这个评测集，它完全是由数据团队去做的。然后一个评测或者策略产品拿到这个结果，然后再去跟比如说功能侧的或者端侧的产品再去做沟通。我觉得他的这个断点其实是比较多的。但是我觉得对创业公司来讲，因为团队足够小，或者组织方式的不一样。其实我觉得大家认知迭代的是比较快的。
+</p>
+<p class="transcript-line">
+<span class="time"><strong>[00:21:33]</strong> </span>
+<span class="speaker"><strong>发言人2: </strong></span>
+多久benchmark变一次是比较合理的。
+</p>
+<p class="transcript-line">
+<span class="time"><strong>[00:21:36]</strong> </span>
+<span class="speaker"><strong>发言人1: </strong></span>
+我觉得没有标准答案，越快越好。
+</p>
+<p class="transcript-line">
+<span class="time"><strong>[00:21:38]</strong> </span>
+<span class="speaker"><strong>发言人2: </strong></span>
+还是看数据什么的。
+</p>
+<p class="transcript-line">
+<span class="time"><strong>[00:21:39]</strong> </span>
+<span class="speaker"><strong>发言人1: </strong></span>
+对，越快说明你模型能力迭代的很快。
+</p>
+<p class="transcript-line">
+<span class="time"><strong>[00:21:42]</strong> </span>
+<span class="speaker"><strong>发言人2: </strong></span>
+但对于很多创业公司来讲，他如果不去动模型的话，其实它迭代的应该是他的一些比如预制的prompt和他的工程测的能力，对吧？然后影响他的结果。
+</p>
+<p class="transcript-line">
+<span class="time"><strong>[00:21:51]</strong> </span>
+<span class="speaker"><strong>发言人1: </strong></span>
+对我有一个补充的点是你在一开始用户基数比较少的时候，你的评价维度可能会相对来讲单11点。因为你的用户分化也不严重。然后当用户变得更广之后，用户需求分布也会越来越不一样。在那个不一样的情况下，你仍然要去适合不同用户的一个最好的效果。那你的标准可能也会进行补充。
+</p>
+<p class="transcript-line">
+<span class="time"><strong>[00:22:14]</strong> </span>
+<span class="speaker"><strong>发言人2: </strong></span>
+我的调整。对我又想到几个问题。一个是你觉得市场里面，尤其是这些创业公司来讲，它的benchmark大概在多少量级是相对你觉得比较合理的。就比如说你今天自己要做一个创业公司，你大概会一开始出多少道题来去测这个产品。
+</p>
+<p class="transcript-line">
+<span class="time"><strong>[00:22:28]</strong> </span>
+<span class="speaker"><strong>发言人1: </strong></span>
+我可能会给自己比如说400道题.
+</p>
+<p class="transcript-line">
+<span class="time"><strong>[00:22:31]</strong> </span>
+<span class="speaker"><strong>发言人2: </strong></span>
+这个题会越多越好或者越小越好吗？
+</p>
+<p class="transcript-line">
+<span class="time"><strong>[00:22:33]</strong> </span>
+<span class="speaker"><strong>发言人1: </strong></span>
+我觉得不是，就是你能够去衡量你的模型的表现就OK了。
+</p>
+<p class="transcript-line">
+<span class="time"><strong>[00:22:38]</strong> </span>
+<span class="speaker"><strong>发言人2: </strong></span>
+那我能不能说我先产品上线，然后用户使用起来。然后我把用户所有的prompt排序，或者做一个什么类似模糊搜索这些东西，最后我就排出来前面400个，然后我就说这个就是我的benchmark。
+</p>
+<p class="transcript-line">
+<span class="time"><strong>[00:22:52]</strong> </span>
+<span class="speaker"><strong>发言人1: </strong></span>
+你说的这个特别有意思，因为这个就是以前搜索的就斑马之一，对高频query的这个效果。但是还是那个问题，就是你可能要过滤一些噪音，或者是没有那么有效的这个用户数据。然后另外一个是就是就跟搜索一样，你很多的需求你可能非常的长尾，那你只解决头部的400，那剩下的比如说你假设整个QV量是100万，然后头部400可能占了比如说中间的20万，那剩下的80万要不要解决？肯定要解决。所以就是又回到我们刚刚说的原则，你还是要尽量的去符合线上用户的这个分布，而不是说单一的说有一个top的。但是我们确实会更关注，比如说大家都会去看点彩，就这种很强烈的负反馈的信号，这种可能更能帮助你去判断一些底线的问题。
+</p>
+<p class="transcript-line">
+<span class="time"><strong>[00:23:39]</strong> </span>
+<span class="speaker"><strong>发言人2: </strong></span>
+如果现在比如给你一家公司，它的benchmark比如说是比如说400道题，比如40道题或者100道题，你能很快的分辨出来这个奔驰马的好坏吗？
+</p>
+<p class="transcript-line">
+<span class="time"><strong>[00:23:48]</strong> </span>
+<span class="speaker"><strong>发言人1: </strong></span>
+大概会是什么样的？我觉得首先要看它是不是一个我所了解的领域。假设是，我觉得当然能，因为你能知道它，比如说这些benchmark它是不是有梯度的，然后是不是符合你对产品理解的，比如说用户需求，或者你一些真实的分布的。
+</p>
+<p class="transcript-line">
+<span class="time"><strong>[00:24:03]</strong> </span>
+<span class="speaker"><strong>发言人2: </strong></span>
+你举一个典型的坏的38个例子。
+</p>
+<p class="transcript-line">
+<span class="time"><strong>[00:24:06]</strong> </span>
+<span class="speaker"><strong>发言人1: </strong></span>
+我这搞了这么多好的benchmark，从来没让别人问我说一个坏的benched mark长啥样。比如说他特别简单，或者说它benchmark里面单一的都是类似的某一个维度的，然后某一个困难程度的，就是一个非常糟糕的一个book mark。
+</p>
+<p class="transcript-line">
+<span class="time"><strong>[00:24:23]</strong> </span>
+<span class="speaker"><strong>发言人2: </strong></span>
+然后我另外一个问题就是我听到这，我感觉去给模型的表现做奔驰mark有点像给你一堆点数，你去点不同的技能树的感觉。所以有没有一种可能是我就是把所有点数点在某一项上，让长板足够长，然后用户对我这个产品的这个长板感知就足够明显，然后我反而能脱颖而出。还是说我要去平均去点这个点数才是最好的选择。
+</p>
+<p class="transcript-line">
+<span class="time"><strong>[00:24:46]</strong> </span>
+<span class="speaker"><strong>发言人1: </strong></span>
+这个问题可能得分为两层看，一个是基座模型的能力。我们会看到的是基座模型能力的越强，它会在一些垂类里面表现的确实也越好，就是泛化能力。对对对，你就什么都不做，你就天然一个人生就是比一个小学同学更聪明，这是一个视角。
+</p>
+<p class="transcript-line">
+<span class="time"><strong>[00:25:03]</strong> </span>
+<span class="speaker"><strong>发言人1: </strong></span>
+但另外一个视角，我觉得确实也有在这个之上的一些垂直产品或者模型或者agent的这种机会。但那个是不是完全只基于模型能力，而是加入很多其他的，比如说工程能力等等，包括一些独家的数据，包括加入对业务本身的理解。比如说可能有一个业务他就是做销售，那他可能对销售这件事情的这种交互也好，或者这种抽象的这种反馈的信号也好。它就是比其他任何一家公司或者任何一个人了解的更多。那它可能就能设计出更好的一个基于模型的产品。然后它也能告诉模型到底应该去奖励什么。
+</p>
+<p class="transcript-line">
+<span class="time"><strong>[00:25:42]</strong> </span>
+<span class="speaker"><strong>发言人2: </strong></span>
+明白，我们举一个例子，我觉得大家日常可能都用过的就是类似CII这种聊天类产品。所以假设现在你就是做一个AI陪聊类的产品，觉得难点可能会在哪儿？会要怎么做这件事情。
+</p>
+<p class="transcript-line">
+<span class="time"><strong>[00:25:56]</strong> </span>
+<span class="speaker"><strong>发言人1: </strong></span>
+感聊天或者陪伴的这个场景。因为它没有一个ground truth或者标准答案的。所以这个时候它的评估标准到底怎么定才是完全准确的，这件事情还挺难衡量的。比如说你现在在跟一个陪伴型的这个产品聊天，你说我今天失恋了，我和我的对象分手了，那你的预期模型会怎么回复你？比如说如果没有做过一些口语化或者是情绪识别回复的这个模型，他可能就会说听到这个很难过。
+</p>
+<p class="transcript-line">
+<span class="time"><strong>[00:26:28]</strong> </span>
+<span class="speaker"><strong>发言人1: </strong></span>
+我给你推荐以下几种方式去放松你的心情。一下楼跑一跑。二去见见朋友。
+</p>
+<p class="transcript-line">
+<span class="time"><strong>[00:26:35]</strong> </span>
+<span class="speaker"><strong>发言人2: </strong></span>
+非常有画面感，好多模型确实是这样的。
+</p>
+<p class="transcript-line">
+<span class="time"><strong>[00:26:37]</strong> </span>
+<span class="speaker"><strong>发言人1: </strong></span>
+对对对，但是你觉得肯定比较好的，你会希望他首先他就像一个真人一样，可能会问你说怎么了？如果他具有memory的能力，他可能甚至会问你说，不是上个星期你跟我讲你们俩之间还好好的吗？然后有的模型就会关心说具体是出了什么问题。但可能有的模型的回复就说抱抱你，我一直都在这里陪你。如果你有什么不开心的，可以仍然跟我分享，那一个真实的人，他在这种情况下，他到底预期获得一个什么样的回复？这件事情我们是没有一个非常细的百分百正确的一个答案的。我们只能尽量的去说。
+</p>
+<p class="transcript-line">
+<span class="time"><strong>[00:27:14]</strong> </span>
+<span class="speaker"><strong>发言人1: </strong></span>
+在这个情况下，我们希望模型首先关注到用户的情绪的变化。其次从memory的角度，我们希望他能够去知道这个用户的比如说情感的状态，要不要进行一些call back。比如说再从一些心理咨询师的所谓的专家的角度，我们会讲说我们不先急于给解决方案，我们是关心说这个背后到底发生了什么事情，让用户先把自己的情感的状态和具体的故事去倾诉出来。
+</p>
+<p class="transcript-line">
+<span class="time"><strong>[00:27:41]</strong> </span>
+<span class="speaker"><strong>发言人2: </strong></span>
+对我听起来就觉得这个事儿确实非常难定义。因为有的人可能就是喜欢解决问题。对，有的人喜欢解决问题，有的人喜欢别人可能就是怼他一下，说你失恋了又咋样，你就给他当个事儿什么的。有的人就喜欢有个像闺蜜一样去安慰他。对，几乎无法来定一个好的奔驰mark。所以从这个角度来讲，我觉得未来一定会出现一些小众猎奇的产品。因为你像你刚才讲你的奔驰mark定义的，它只能可能照顾到80%的用户。
+</p>
+<p class="transcript-line">
+<span class="time"><strong>[00:28:13]</strong> </span>
+<span class="speaker"><strong>发言人1: </strong></span>
+也许加上个性化和协作模型足够强的能力也能解决。但是我其实也在想一个更抽象的问题。就是我们刚刚在定很多评价的标准或者价值观的时候，你会发现我们整体上是一个人类价值观的一个映射。但这件事情对吗？这个确实很抽象，这个太抽象了。但是无非就是你觉得整个人类世界当中，一定有在某个问题上有一个相对好的一个答案，所以你再去做这个映射。但这种映射真的是对的吗？
+</p>
+<p class="transcript-line">
+<span class="time"><strong>[00:28:43]</strong> </span>
+<span class="speaker"><strong>发言人2: </strong></span>
+我不我在想确实就是答案，我觉得分两种，对吧？一种是说社会约定俗成的一种答案。另外一种是可能有一个更高级版本的答案。就是好像你在讨论一个问题的时候，可能你身边的朋友都会给你一个答案。但这时候可能会有一个类似教授角的人，他会给你另外一个答案。你会觉得这个可能是一个比较醍醐灌顶的一个答案。
+</p>
+<p class="transcript-line">
+<span class="time"><strong>[00:29:04]</strong> </span>
+<span class="speaker"><strong>发言人1: </strong></span>
+我觉得比如说就是在做题，然后在生产力的很多场景，这个现在还是work的。但是比如说刚刚我们讲的一些场景，有的时候就会想说，这样就是完全准确的吗？
+</p>
+<p class="transcript-line">
+<span class="time"><strong>[00:29:15]</strong> </span>
+<span class="speaker"><strong>发言人2: </strong></span>
+不好说。对，所以从这个角度来讲，确实做生产力类的一些。
+</p>
+<p class="transcript-line">
+<span class="time"><strong>[00:29:19]</strong> </span>
+<span class="speaker"><strong>发言人1: </strong></span>
+产品确定性更强，或者说它的标准相对来讲，我觉得应该是更好找吧。
+</p>
+<p class="transcript-line">
+<span class="time"><strong>[00:29:25]</strong> </span>
+<span class="speaker"><strong>发言人2: </strong></span>
+对，就更好做，这个benchmark肯定是更好定的对，所以未来就以前不是会有公司说偷金融对公司的代码，未来会不会说我偷benchmark？
+</p>
+<p class="transcript-line">
+<span class="time"><strong>[00:29:36]</strong> </span>
+<span class="speaker"><strong>发言人1: </strong></span>
+这个话题特别有意思，我觉得blog确实是一个核心资产。如果是我的话，我可能就会维护一个只有自己知道的一个benchmark。这个ban mark甚至我觉得算法团队的同学也不应该知道。因为如果知道了，他们可能在训练的过程当中会不由自主的让模型去打出这个问题，或者会不会被hack。我不确定，那我就会每次可能上线之前过来测，但是我不会公布这个benchmark具体是什么。
+</p>
+<p class="transcript-line">
+<span class="time"><strong>[00:30:02]</strong> </span>
+<span class="speaker"><strong>发言人2: </strong></span>
+所以就确实benchmark是一个特别重要的东西。是的，所以你觉得你做了，因为你之前其实最早在微信做搜索类产品，对吧？然后后来又在美团做过策略产品，然后你又在km ME做的模型产品。所以你回过头来看你觉得AI的产品经理和古典的产品经理来讲，大家的相同和不同的地方在哪？
+</p>
+<p class="transcript-line">
+<span class="time"><strong>[00:30:24]</strong> </span>
+<span class="speaker"><strong>发言人1: </strong></span>
+我觉得相同的地方是懂用户，然后相同的能力点叫做翻译能力。这个翻译能力可能仍然是发现问题，并把用户和业务的场景去做抽象。比如说可能过去的抽象是抽象在了交互的设计和整个结构的设计。可能今天在模型也就是把业务的整个的流程抽象出一种好的评估的标准，观测的指标。所以我觉得这个抽象能力，以及这种对用户场景需求的这种翻译能力仍然是重要的。
+</p>
+<p class="transcript-line">
+<span class="time"><strong>[00:30:53]</strong> </span>
+<span class="speaker"><strong>发言人1: </strong></span>
+然后另外一个是我觉得原来古典产品经理非常多的，还是说对交互体验这种敏锐的感知能。到底什么是美的，什么是丑的，什么是符合直觉的设计，什么又不是这种能力？我觉得仍然是需要的，而且我觉得是稀缺的。因为现在大家说了很多关于模型的，但今天一个不同的产品，基于模型能力的最好的交互其实还没有诞生。而在一些垂类的产品里面，可能交互会更加的重要。这个交互甚至直接反映了你能不能为模型的迭代或者产品的迭代设计出一种合适的反馈的节点或者反馈的信号。我觉得不同就在于对数据的重视程度会发生非常大的变化，就是现在会比以往更重视数据的质量。然后还有一个就是对于模型能力边界的理解，这个过程我觉得还是需要很多时间去积累的。
+</p>
+<p class="transcript-line">
+<span class="time"><strong>[00:31:48]</strong> </span>
+<span class="speaker"><strong>发言人2: </strong></span>
+这块我觉得可以展开讲讲，我觉得这块应该是最难也是最重要的一部分。就现在模型的进展其实还是很快的。有的人就担心说，是不是我现在做的这东西半年后就被模型颠覆掉了，就没有用了。或者说我做这整个这个产品是不是就在模型的发展路线上，就是怎么样去就像你讲的，能更理解模型的边界以及能够预判模型的边界。
+</p>
+<p class="transcript-line">
+<span class="time"><strong>[00:32:11]</strong> </span>
+<span class="speaker"><strong>发言人1: </strong></span>
+首先我先说方法层面，因为这个问题可能也会有很多之前的产品也会跟我去做讨论。我觉得你还是要多用，然后你去用不同的最好的模型，以及他们的API，你会理解不同模型在不同领域或者不同能力上的表现。你也会更加熟悉模型，每隔比如说一个月2个月，因为它一定会有新的版本的能力的提升，这是第一点。然后第二点是我觉得之前内部的同学也会在分享说，把所有你觉得你想做的事情先用AI做一遍。比如说以前C端我们除了PRD之外，可能我们先要画一个交互对吧？那你可以试着把你想要的这个交互逻辑清楚的说出来，然后让cloud可能帮你去制作一个交互。因为在这个过程当中，你就会去摸到这个模型能力的边界，以及帮你能够实现什么。然后在这个动态的跟模型一起迭代并使用的过程当中，你可能会发现它某个方向的能力，它会比你想象的变得越来越强。
+</p>
+<p class="transcript-line">
+<span class="time"><strong>[00:33:11]</strong> </span>
+<span class="speaker"><strong>发言人1: </strong></span>
+然后这个例子其实也可以去call back。前阵子非常火的4O的言出法随的图像生成。你在没体验到它的这个模型之前就会觉得说，你要可能生成一个指令遵循的，特别是上下文多轮修改的图是非常难的。但是你今天其实你会发现说，原来搜完全能做到，那它可能就是一个伴随着模型能力边界的迭代而产生的那在这个基础上你可能又能快速的去做出一些新的产品。
+</p>
+<p class="transcript-line">
+<span class="time"><strong>[00:33:38]</strong> </span>
+<span class="speaker"><strong>发言人1: </strong></span>
+然后另外一个是我觉得你的动手能力要很强。然后你不需要像过去的产品一样，有非常强的模块流转的这个意识。而是你要完全丢掉这个意识，你就把自己当一个产品经理，当一个设计师，同时再当一个前端。现在可能当后端不能完全实现，但也可以试一试。然后你去完成全流程的这个闭环。那我觉得对你理解模型这件事情也是会更有帮助的。
+</p>
+<p class="transcript-line">
+<span class="time"><strong>[00:34:05]</strong> </span>
+<span class="speaker"><strong>发言人2: </strong></span>
+所以未来你是不是也觉得每个人真的会变成全栈，我觉得是你自己会看论文吗？因为之前还有给我们做了一期博客，那期其实也很多人听。
+</p>
+<p class="transcript-line">
+<span class="time"><strong>[00:34:15]</strong> </span>
+<span class="speaker"><strong>发言人1: </strong></span>
+我是那期的忠实用户。
+</p>
+<p class="transcript-line">
+<span class="time"><strong>[00:34:17]</strong> </span>
+<span class="speaker"><strong>发言人2: </strong></span>
+对，所以张涛其实他讲了很多点，就是说他自己会日常想去看一些论文。我不知道你觉得这个是AI产品经理的必备的一个东西吗？
+</p>
+<p class="transcript-line">
+<span class="time"><strong>[00:34:25]</strong> </span>
+<span class="speaker"><strong>发言人1: </strong></span>
+我觉得是因为我觉得这个习惯是非常重要的。因为我觉得你去理解那个原理，以及你在理解原理的基础上去做验证，它本来就是一体的。我没有见过说哪个人去用，但哪个人完全不关心原理的实现。你肯定会知道说他为什么会这样，他某些能力做的比较强，但是我觉得可能不一样的是你理解论文的那个深度，跟算法同学理解论文的深度可能是完全不一样的。然后论文也分很多种类。比如说你如果完全是在讲算法的，我觉得可能我努力看也不一定看得懂。但是再讲一些比如说比较前沿的一些判断的论文，其实你也可以搭配着去看一些。
+</p>
+<p class="transcript-line">
+<span class="time"><strong>[00:35:05]</strong> </span>
+<span class="speaker"><strong>发言人2: </strong></span>
+所以从你做过模型产品的这个视角来讲，你觉得创业公司或者说在做AI产品的人，他们做哪些事情是不会被模型未来碾压掉的？能给一些大概的判断标准吗？
+</p>
+<p class="transcript-line">
+<span class="time"><strong>[00:35:20]</strong> </span>
+<span class="speaker"><strong>发言人1: </strong></span>
+首先我觉得它可能是有一个很深的领域内的弄好，然后它同时又具有对模型的理解。它可能会在这个阶段成为最快的把这两者结合在一起，然后形成一定的产品壁垒或者说行业认知，然后积累用户的这个公司。
+</p>
+<p class="transcript-line">
+<span class="time"><strong>[00:35:38]</strong> </span>
+<span class="speaker"><strong>发言人2: </strong></span>
+然后我们最后还是讲回到你微信那段经历里面。我们稍微回顾一下你在微信那段经历里面，你觉得有哪些印象很深刻的东西吗？因为我们前面讲了很多AI产品的东西，对吧？那段经历反而是大家会认可的，说古典产品经历可能很经典的一段经历了。
+</p>
+<p class="transcript-line">
+<span class="time"><strong>[00:35:54]</strong> </span>
+<span class="speaker"><strong>发言人1: </strong></span>
+我觉得有一些产品原则，一个是先做产品结构，然后才是细节。比如说我们会发现微信里面有很多的功能，如果把它都用比如说不同的tab来表现，不做层级的拆分，那可能今天会非常的冗余，然后也会非常的复杂。但是直到今天，可能微信还是比较简单的，然后也只有四个tap。
+</p>
+<p class="transcript-line">
+<span class="time"><strong>[00:36:16]</strong> </span>
+<span class="speaker"><strong>发言人2: </strong></span>
+这个真的是张小龙一上来就已经想好的，说我要这几个tap，然后我要怎么做朋友圈，做公众号再怎么做。
+</p>
+<p class="transcript-line">
+<span class="time"><strong>[00:36:23]</strong> </span>
+<span class="speaker"><strong>发言人1: </strong></span>
+对我觉得底层的结构，它是从一开始就想的非常清楚的。然后包括它也抽象了，像扫码就是一个新的一个入口，扫码提供的背后就是一个服务的一个能力。这些都是甚至是在小程序诞生的两年之前，龙哥就已经想好了。然后另外一个就是功能模块之间是有机联系的。比如说当时很多用户都说，要不是只有一个微信头像，你有多个头像。
+</p>
+<p class="transcript-line">
+<span class="time"><strong>[00:36:50]</strong> </span>
+<span class="speaker"><strong>发言人2: </strong></span>
+可以左滑右滑的那种感觉。
+</p>
+<p class="transcript-line">
+<span class="time"><strong>[00:36:52]</strong> </span>
+<span class="speaker"><strong>发言人1: </strong></span>
+对吧？但实际上你会发现用户的背后的需求叫做他想要有更多的头像的照片展示给别人看。所以本质上它的需求应该去被朋友圈去承载，而不是说我要在这个单点上去做设计。所以这个就是刚刚说的功能模块之间是有机联系的。然后另外一个是我们不会主动强教育用户去一定要用的哪个功能。而是可能用户在用这个功能又往下再下钻一层的时候，他发现可能有一些新的体验，然后他才会去触发到这个能力。
+</p>
+<p class="transcript-line">
+<span class="time"><strong>[00:37:23]</strong> </span>
+<span class="speaker"><strong>发言人2: </strong></span>
+不必要的。所以你后面在其他公司，包括模型产品公司做过以后，你的这些东西仍然是适用的吗？
+</p>
+<p class="transcript-line">
+<span class="time"><strong>[00:37:31]</strong> </span>
+<span class="speaker"><strong>发言人1: </strong></span>
+我觉得是适用的。
+</p>
+<p class="transcript-line">
+<span class="time"><strong>[00:37:32]</strong> </span>
+<span class="speaker"><strong>发言人2: </strong></span>
+就是它底层原理其实还是一样的。
+</p>
+<p class="transcript-line">
+<span class="time"><strong>[00:37:33]</strong> </span>
+<span class="speaker"><strong>发言人1: </strong></span>
+底层原理是一样的。我觉得微信出来的产品，它有一个被培训过的点，是大家都会基于一个更全局的视角去真正的想什么是好的体验。但是今天可能在一些公司，因为验证一些能力和功能的设计太简单了。然后上AB实验是非常方便的。你可以跑八个实验，甚至20个实验，你只要选那个最终把指标做正的就可以了。那你在做这个方案的时候，特别是年轻的同学吧，你就不会去真的想说用户需不需要这个，然后跟全局的联系，然后到底这么做是不是好的。因为我可能只要跑十年就好了。
+</p>
+<p class="transcript-line">
+<span class="time"><strong>[00:38:08]</strong> </span>
+<span class="speaker"><strong>发言人2: </strong></span>
+对，你看其实我们刚才讲过好几次古典产品经理。但其实这个概念最早提出来，我理解就是说古典产品经理是靠很多他个人的经验和感觉，靠用户感知来做事情。然后它应该最早对应的是更多的AB test和实验型的数据驱动的产品。这里面比较典型的像美国那边很多大厂，其实它是做很多AB test的，自己也是以这个出名的，对吧？他也做各种AB test，然后最终他应该是结果看数据，数据如果好的话，哪怕你解释不清楚这个事情为什么是这样，它也是好的。我不知道你最后会同意这个说法吗？
+</p>
+<p class="transcript-line">
+<span class="time"><strong>[00:38:45]</strong> </span>
+<span class="speaker"><strong>发言人1: </strong></span>
+谈这个问题之前，我觉得可能得要往上说一层。就是我觉得每个产品首先它是有自己的个性，或者他是有自己的感觉的。比如说微信给人的感觉就是他比较内敛，然后他又极致的简单。然后可能instagram它给人的感觉就是它很时髦，它也很漂亮，它是一个很fancy的感觉。所以我觉得这个调性肯定是不能通过AB实验去得到的。
+</p>
+<p class="transcript-line">
+<span class="time"><strong>[00:39:11]</strong> </span>
+<span class="speaker"><strong>发言人2: </strong></span>
+这个还是很古典产品的视角。就是我这个产品打开就是很乱，但是它留存就是比原来高了。
+</p>
+<p class="transcript-line">
+<span class="time"><strong>[00:39:17]</strong> </span>
+<span class="speaker"><strong>发言人1: </strong></span>
+所以这是一种价值观的取向。你是不是就为了比如说追求指标，我就是能容忍加那么多，但是就比如说微信的取向就是绝对不可以。然后第二个是关于指标，你选的到底对不对这件事情。因为一旦公司大了以后，你每个部门的指标和每个业务的指标，它其实还是会存在被hack的空间的。因为他关注的不是一个统一的一个大指标，他不会去遵循某一个所谓的调性或者价值观的体现。他可能只要坐正我这个业务的指标就可以了。即使他可能非常违反直觉和到最后对大指标来讲，它可能甚至是负的。
+</p>
+<p class="transcript-line">
+<span class="time"><strong>[00:39:52]</strong> </span>
+<span class="speaker"><strong>发言人2: </strong></span>
+明白。好，那我问最后一个问题，就是现在如果一个创业公司，他想要招一个好的AI产品经理，因为现在其实挺难找的对吧？没有一个画像是典型的说这个人就是可以做AI产品经理的。你觉得到底大家要怎么找这个人或怎么培养这个人？
+</p>
+<p class="transcript-line">
+<span class="time"><strong>[00:40:08]</strong> </span>
+<span class="speaker"><strong>发言人1: </strong></span>
+首先如果从一些背景上来讲，我觉得可能我确实会更偏好初创的模型产品或者更小公司里面就是完成这个从0到1或者端到端的这个同学。
+</p>
+<p class="transcript-line">
+<span class="time"><strong>[00:40:18]</strong> </span>
+<span class="speaker"><strong>发言人2: </strong></span>
+就是更全栈，更自己从头到尾做过一些东西。
+</p>
+<p class="transcript-line">
+<span class="time"><strong>[00:40:22]</strong> </span>
+<span class="speaker"><strong>发言人1: </strong></span>
+然后第二个是因为我也也看到过有一些同学他会用自己的业余的时间，他会去做一些小的demo或者小的产品出来。然后我觉得这是一个非常好的信号。因为如果你是一个好的AI产品经理，你本身就像你说的，他可能是个全站，你这个产品可能不用特别突出，但是你肯定自己一定跑过一些东西，验证过一些东西。然后第三是我觉得确实你可以直接问他，就是说你最喜欢的模型是哪个？你平时用的最多的模型是什么？你一般在什么场景下用，然后为什么你用那些？即使可能他前面那两条没有满足的话。其实从第三点你也可以看出他对整个行业的理解，包括热情，包括整个的专注度。
+</p>
+<p class="transcript-line">
+<span class="time"><strong>[00:40:59]</strong> </span>
+<span class="speaker"><strong>发言人2: </strong></span>
+好，感谢丁丁。
+</p>
+<p class="transcript-line">
+<span class="time"><strong>[00:41:01]</strong> </span>
+<span class="speaker"><strong>发言人1: </strong></span>
+谢谢曲老师。
+</p>]]></content:encoded>
+            <pubDate>Mon, 05 May 2025 14:00:00 GMT</pubDate>
+            <guid>6818517a6970cc7b4db62789</guid>
+        </item>
         <item>
             <title>Agent 开发的上半场: 环境、Tools 和 Context 如何决定 Agent｜对谈 Sheet0 创始人王文锋</title>
             <link>https://www.xiaoyuzhoufm.com/episode/68032a401f1db84a563d5d83</link>
@@ -30010,1237 +30945,6 @@ It&#x27;s something there.
 </p>]]></content:encoded>
             <pubDate>Sat, 13 Jan 2024 15:08:15 GMT</pubDate>
             <guid>65a2a75fb5e4856c70801eba</guid>
-        </item>
-        <item>
-            <title>插件、套壳、收购产品? Monica 从 0 到百万用户的 AI 助手之路 | 对谈 Monica 创始人肖弘</title>
-            <link>https://www.xiaoyuzhoufm.com/episode/6586ca30157cd445eebb399c</link>
-            <description>很开心这期我们又请来了一家标杆式的 AI 企业的创始人。
-Monica 是今年很多人都听说过的一家公司，从年初开始起量，到目前有几百万的用户，而且主要市场就是海外，这在今年的 AI 产品来说，肯定算是少有的成功案例了。而在这个过程中市场上也流传了很多相关的故事，比如 Monica 作为一家初创公司竟然是靠收购了一个产品做起来的？比如 Monica 是否就是一个套壳产品？比如浏览器插件的价值到底在哪里？等等。
-在这期播客里，我们复盘了 Monica 的创业故事，讲了这个 idea 的由来、分享了收购其它产品和公司的故事及逻辑，创始人也回应了对于套壳等说法的看法。Monica 创始人肖弘在我眼中是个非典型的成熟创始人，可能是因为他曾经成功出售过一家公司的原因，他对于商业的理解很深，很擅长做商业化，也善于用资本的工具来构建自己的产品和业务，并且从第一天开始就格外关注组织建设，会不断理性地用 top down 的方式思考各种机会。
-所以，希望大家听完这期能从中汲取到一些不同的创业视角和逻辑，开拓一下思路。
-【人类博物馆】
-导游：曲凯，42章经创始人
-11 号珍藏：Red 肖弘，Monica.im 创始人
-【时光机】
-Part 1 Monica 背后的商业洞察
-* 1:51 早于 ChatGPT 的 Monica，立项是基于哪些洞察？
-* 3:43 浏览器插件的核心优势：实现对功能的分发
-* 9:15 我超过一半的精力在思考组织建设
-* 13:00 套壳到极致就是牛逼
-* 13:46 Jasper 最致命的战略失误：它给自己提了一个错误的问题
-Part 2 小红的创业故事
-* 19:14 定个小目标：每月额外挣出 50 万补贴公司主业
-* 20:43 从筹备亚马逊店/咖啡店，到发现商机做出拥有百万用户的 AI 应用
-* 22:10 通过收购独立开发者的小产品做业务增长
-* 24:28 收购 ChatGPT for Google 的估值逻辑&amp;谈判经验
-Part 3 比思考更重要的是如何形成这些思考
-* 34:10 Downside 由自己掌控，Upside 凭时局安排
-* 36:10 那些不一样的做事思路是如何形成的？
-* 36:46 从《详谈》,《金钱博弈》及安踏并购中分别收获的创业启发
-* 42:24 商业化能力决定增长能力
-* 45:41 问自己：有什么变化一旦发生会很了不起，然后去持续观察这件事
-* 47:25 一个思考 AI 产品设计的巧妙角度
-【The gang that made this happen】
-* 制作人：Celia
-* 剪辑：思娜
-* 片头 bgm：Mondo Bongo - Joe Strummer &amp; The Mescaleros
-【Reference】
-* 台积电创始人张忠谋演讲，关于 60 年创业和管理心得mp.weixin.qq.com
-* 《详谈：赵鹏》李翔 book.douban.com
-* 《金钱博弈》单伟建 book.douban.com
-最后，我们的 AI 私董会也在持续报名中，目前已经聚集了一批市场上最好的 AI 创始人，欢迎点击链接报名（里面也有目前已加入的成员名单，可点击查看）</description>
-            <content:encoded><![CDATA[<h1>转写链接</h1>
-<link>https://tongyi.aliyun.com/efficiency/doc/transcripts/3kprqlg8pbwm9xgd</link><br>
-<h1>节目摘要</h1>
-<div class="summary">一家名为莫妮卡的AI助手应用公司，由创始人介绍其发展轨迹与未来规划。莫妮卡最初以浏览器插件形式面世，旨在提升信息搜索与处理效率，凭借对市场趋势的敏锐洞察及产品定位的灵活调整，成功吸引数百万用户。公司强调，莫妮卡的核心价值在于提供高度定制化且无缝整合的AI服务，成为用户日常及工作中的智能助手。面对AI技术的快速演进，创始人探讨了公司如何通过持续创新，如与独立开发者合作，来应对技术与市场需求的变化，保持竞争优势。此外，对话还涵盖了创业过程中的挑战、决策重要性及团队建设，展现了对AI领域深刻理解与积极未来展望。</div><br>
-<h1>章节速览</h1>
-<div class="chapters">
-<div class="chapter-item">
-<span class="time"><strong>[00:00:00]</strong> </span>
-<span class="chapter-title"><strong>莫妮卡创始人小红介绍AI小助手</strong></span>
-<div class="chapter-summary">莫妮卡定位为AI小助手，目前以浏览器插件形式存在，可帮助用户搜索信息、总结文章，并与主流网站兼容。自3月份发布以来，已吸引几百万用户，日活跃用户接近大几十万。莫妮卡旨在成为具有通识能力的AI助手，能随时间深入了解用户。尽管在国外较为知名，国内许多人可能对此不太了解。讨论还涉及到为什么用户选择浏览器插件而不是其他AI服务。</div>
-</div>
-<div class="chapter-item">
-<span class="time"><strong>[00:01:49]</strong> </span>
-<span class="chapter-title"><strong>莫妮卡项目的发展与浏览器插件的优势</strong></span>
-<div class="chapter-summary">莫妮卡项目早在GPT发布前就已立项，最初计划针对jasper竞争，后因chat TP的发布重新定义产品形态，转向浏览器插件形式以适应AI时代的需要。项目主要面向C端用户，强调了浏览器插件对于功能分发的独特优势，如实现对youtube等网站内容的快速操作和翻译等功能，从而提升用户体验。</div>
-</div>
-<div class="chapter-item">
-<span class="time"><strong>[00:05:33]</strong> </span>
-<span class="chapter-title"><strong>探讨AI浏览器插件的发展与挑战</strong></span>
-<div class="chapter-summary">对话中讨论了AI浏览器插件的利弊，指出其能识别不同场景和网站，提供定制功能，但可能缺乏独立入口和用户深度连接。虽然历史表明以插件为起点可以成就不错的企业，但对于是否应直接开发AI浏览器提出了疑问，强调了基于用户需求和技术可能的发展路径。讨论还涉及了用户主要使用场景、信息处理需求，以及AI在提高生产效率场景中的应用，表达了对新旧场景并重的视角，以及对AI带来新场景可能性的关注。</div>
-</div>
-<div class="chapter-item">
-<span class="time"><strong>[00:09:08]</strong> </span>
-<span class="chapter-title"><strong>大模型公司与应用层公司的组织与战略差异</strong></span>
-<div class="chapter-summary">对话中讨论了大模型公司与应用层公司之间的根本差异，主要体现在组织结构和竞争要素上。大模型公司类似于芯片制造商，专注于技术研究和性价比；而应用层公司则像消费电子企业，强调品牌、渠道和差异化体验。这种差异导致两者在人力资源配置上的不同，前者更倾向于招聘研究人员，而后者则注重品牌建设和组织能力。此外，还提到了社会分工的重要性以及产品复杂度对价值认知的影响。</div>
-</div>
-<div class="chapter-item">
-<span class="time"><strong>[00:12:58]</strong> </span>
-<span class="chapter-title"><strong>探讨套壳产品价值及企业服务策略</strong></span>
-<div class="chapter-summary">讨论重点在于套壳产品的价值和企业级服务的策略。一方面，提出套壳到极致也能体现出其独特价值，关键在于是否满足用户需求和市场需求。另一方面，通过分析一家企业（Jasper）的案例，指出其因错误地聚焦于与ChatGPT的竞争而非专注解决企业级服务的核心问题而遇到困难。强调企业服务需关注用户需求，提供企业级安全审计等服务，以及如何通过正确的组织策略和产品方向来满足这些需求。</div>
-</div>
-<div class="chapter-item">
-<span class="time"><strong>[00:15:18]</strong> </span>
-<span class="chapter-title"><strong>从AI创新到专业SaaS的创业旅程</strong></span>
-<div class="chapter-summary">去年9月份，由于对生成式AI技术的关注，特别是OpenAI的文章和Stable Diffusion的应用，创业者开始探索AI技术的商业潜力。虽然最初对AI的某些应用不感兴趣，但对OpenAI平台的探索激发了他对AI技术商业应用的兴趣。他观察到，尽管OpenAI发展迅速，但其组织规模的快速扩大可能带来的问题，认为自己能够在这一领域取得成功。他决定开发一个针对分子生物学家的专业编辑器，解决该领域的特定需求，认为专注在垂直领域的SaaS服务更有发展潜力。此项目基于他对科技行业动态的敏感洞察和对特定市场需要的理解，体现了他对AI技术和专业SaaS市场潜力的乐观预估。</div>
-</div>
-<div class="chapter-item">
-<span class="time"><strong>[00:19:14]</strong> </span>
-<span class="chapter-title"><strong>创业者的资金策略与项目选择</strong></span>
-<div class="chapter-summary">创业者在22年决定转向做中学编辑器，意识到国内资本环境不佳，决心通过自身努力为公司盈利，目标是每月创造50万人民币的收入，以支持产品的持续发展和提升至世界级水平。创业者考虑了多种赚钱途径，包括亚马逊开店、加盟咖啡店等，最终选择了与自身技能和资源最匹配的项目进行。他强调，即使在资本价值不高的情况下，也能够通过现金流支持有潜力的项目，展现了其灵活的资金策略和项目选择逻辑。</div>
-</div>
-<div class="chapter-item">
-<span class="time"><strong>[00:22:10]</strong> </span>
-<span class="chapter-title"><strong>从Jasper到莫妮卡：一次创业转型和收购经历</strong></span>
-<div class="chapter-summary">创业者最初的目标是通过Jasper项目在一个月内赚取50万，但后来转向了莫妮卡项目。在对莫妮卡的产品定义进行重新设计后，关注到独立开发者社区中开始出现大量类似项目的开发，担心这将推高流量成本，认为找到有效的增长和验证PMF（产品市场匹配）是关键。之后，他注意到一个国内独立开发者开发的针对Google的产品快速增长，从10万用户增长到50万用户。深入了解后，发现这位开发者是其校友，曾开发过著名的小黄鸡AI回复产品。因此，决定收购这位独立开发者的项目，评估后以几百万人民币的价格完成收购，从而实现了从生物学编辑器到莫妮卡AI项目的转型。这次收购不仅是基于对产品价值的判断，也是对未来增长潜力的看好。</div>
-</div>
-<div class="chapter-item">
-<span class="time"><strong>[00:29:11]</strong> </span>
-<span class="chapter-title"><strong>产品增长和PMF验证策略讨论</strong></span>
-<div class="chapter-summary">在开发和推广两款产品过程中，团队面临了主次选择和产品定位的关键决策。讨论重点在于是否将一款产品升级为另一款产品的核心功能，以及如何通过收购来验证产品的市场匹配（PMF）。他们强调了自建增长能力的重要性，即便这可能会导致短期内进展放缓。同时，通过一次未成功的收购尝试，反思了在重要事务上应更加谨慎和积极。整个讨论揭示了在产品开发初期，验证PMF和构建增长能力是关键的策略方向。</div>
-</div>
-<div class="chapter-item">
-<span class="time"><strong>[00:32:58]</strong> </span>
-<span class="chapter-title"><strong>理解莫妮卡及其未来发展愿景</strong></span>
-<div class="chapter-summary">莫妮卡被理解为一个AI助手，能随着使用时间的延长而更了解用户，提升个性化体验。讨论集中在如何不将数据视为迁移的障碍，而强调提供差异化体验的重要性。此外，也探讨了在大厂竞争激烈的情况下，如何找到自己的定位和发展空间。重点在于不断解决客户问题，提升产品质量和用户体验，同时探索商业模式，比如通过广告和用户付费来实现盈利。对于未来，存在不确定性，但目前看来，还有发展空间和机会去实现更多的创新和改进。</div>
-</div>
-<div class="chapter-item">
-<span class="time"><strong>[00:36:09]</strong> </span>
-<span class="chapter-title"><strong>创业公司早期收购策略与管理思考</strong></span>
-<div class="chapter-summary">在创业旅程中，一些创业者采取了不同于常规的策略，通过金融手段和收购其他公司来推动业务增长。这种做法在早期创业公司中并不常见，显示出了一种投资者的思维方式，即将雇佣员工、开展业务等决策视为投资行为。通过研究相关案例，比如一家公司融资后收购职业点评网站，以及阅读《金钱博弈》中关于泰蒙如何收购韩国第一银行的故事，创业者可以学习到如何处理复杂交易、解决出现的问题，并最终实现成功的业务扩展和退出。</div>
-</div>
-<div class="chapter-item">
-<span class="time"><strong>[00:38:30]</strong> </span>
-<span class="chapter-title"><strong>安踏的多品牌战略与并购案例</strong></span>
-<div class="chapter-summary">年初腾讯组织的活动中，安踏分享了其如何通过并购手段将单一品牌转变为多品牌公司的经验。安踏的两个并购案例尤其引人注目：一是收购亚马逊旗下的始祖鸟品牌，另一个是收购菲拉品牌。菲拉品牌在国内没有店铺，保持了品牌的纯净性，而其在国外受到不少上个时代明星的青睐。安踏在经营菲拉时选择了完全自营的方式，以便更好地控制库存和品牌形象。这一策略反映了安踏对品牌运营有深刻的理解，以及跳出传统经营模式、探索新尝试的能力。这需要公司具备足够的资金实力和开放的格局。</div>
-</div>
-<div class="chapter-item">
-<span class="time"><strong>[00:40:59]</strong> </span>
-<span class="chapter-title"><strong>适应环境，运用多样工具实现盈利</strong></span>
-<div class="chapter-summary">在当前资本环境下，创始人应警惕过度专注于单一事务而忽略多元化工具的运用。招聘、组织人力、产品开发及购买力等都是重要的工具，能为公司带来更多的盈利机会。然而，工具的增加也可能意味着亏损的风险增加，因此需要谨慎使用并加以练习。特别地，对于有强烈赚钱欲望和信心的创始人来说，适应当前环境，灵活运用各种工具箱逻辑是关键。例如，通过加盟咖啡店为公司增加现金流或早期开始变现等策略，展示了对盈利有深刻理解和追求。</div>
-</div>
-<div class="chapter-item">
-<span class="time"><strong>[00:42:22]</strong> </span>
-<span class="chapter-title"><strong>探讨创业中的商业化和增长策略</strong></span>
-<div class="chapter-summary">对话强调了商业化在创业过程中的重要性，指出在面对成本上升时，创业者应更早考虑如何实现盈利。主讲人认为，强大的商业化能力与企业的增长能力正相关，且通过例子说明商业化不会阻碍增长。他还分享了个人的创业经验，强调在资金不充裕的情况下，企业被迫寻找盈利模式，从而培养出更强的赚钱能力。最后，他提到在市场不景气时，更能催生出伟大的公司，因为这要求企业拥有更健康的商业模式和组织结构。</div>
-</div>
-<div class="chapter-item">
-<span class="time"><strong>[00:45:13]</strong> </span>
-<span class="chapter-title"><strong>探讨AI技术的快速发展及其对市场的影响</strong></span>
-<div class="chapter-summary">AI技术的快速发展对组织和市场带来了显著影响。技术的迅速变化要求团队不断适应资本和技术环境，以确保能够在AI领域内成功。尽管近几个月AI技术的发展速度似乎有所放缓，但预计明年AI市场仍将继续快速变化，带来新的机会和挑战。特别地，开源模型的进步可能使得更多企业级服务成为可能，从而扩大了AI的应用范围。同时，讨论还强调了非连续变化的重要性，以及在这种变化中保持警惕和做出假设的必要性。</div>
-</div>
-<div class="chapter-item">
-<span class="time"><strong>[00:47:25]</strong> </span>
-<span class="chapter-title"><strong>探讨AI在产品设计中的应用与未来发展方向</strong></span>
-<div class="chapter-summary">对话集中在如何将AI技术有效整合到产品设计中，特别是探讨了从传统产品到AI原生产品的过渡。提出了一种观点，认为目前市面上的一些尝试还不够彻底，强调了在设计之初就融入AI思维，重新思考工作流程的重要性。同时，通过类比燃油车与未来汽车的发展，阐述了即使是传统行业，通过融入AI技术也可以实现创新和进步。最后，分享了对于竞争的看法，强调了通过观察竞争对手来更好地服务客户的重要性，并认为如果无法提供更好的服务，自然会被市场淘汰。</div>
-</div>
-<div class="chapter-item">
-<span class="time"><strong>[00:51:29]</strong> </span>
-<span class="chapter-title"><strong>莫妮卡产品价值及用户服务理念探讨</strong></span>
-<div class="chapter-summary">对话重点讨论了莫妮卡产品的核心价值在于深度理解并满足用户需求，通过提供一体化（all in one）的解决方案来提升用户体验。强调了产品设计的底层逻辑是创造用户价值，并通过解决用户问题来合理收费。对比其他类似产品如GPT和其他插件，莫妮卡的优势在于其整合多种功能，提供统一的UI界面，数据互通，从而为用户提供一致且便捷的体验。此外，还探讨了莫妮卡对于独立开发者的开放态度，鼓励他们加入并贡献自己的插件。</div>
-</div>
-</div><br>
-<h1>问题回顾</h1>
-<div class="qa-item">
-<div class="question"><strong>Q:</strong> 你先给大家介绍一下莫妮卡。</div>
-<div class="answer"><strong>A:</strong> 我是莫妮卡的方的，真名叫肖红，大家都叫我小红。莫妮卡我们希望它最终成为一个AI小助手，目前产品形态是一个浏览器插件，用户安装后可以进行搜索、总结文章，并在主流网站如youtube、twitter、gmail等实现兼容和适配。今年3月份发布后，已有几百万用户，日活跃用户接近几十万。我们希望莫妮卡是一个具备通识能力，能理解用户并提供帮助的AI小助手。</div>
-</div>
-<div class="qa-item">
-<div class="question"><strong>Q:</strong> 大家为什么会选择使用浏览器插件而不是像ChatGPT那样的产品？</div>
-<div class="answer"><strong>A:</strong> 莫妮卡立项时间较早，当时还未出现ChatGPT。最初的产品形态是web应用，但后来受到ChatGPT发布的影响，产品形态转变为浏览器插件。浏览器插件能够结合更多场景，比如针对特定网站（如推特、YouTube）进行功能分发，提供更好的用户体验。同时，作为一款面向C端市场的AI工具，浏览器插件形态更适应其特性。</div>
-</div>
-<div class="qa-item">
-<div class="question"><strong>Q:</strong> 浏览器插件的优势体现在哪里？</div>
-<div class="answer"><strong>A:</strong> 浏览器插件的优势在于可以根据用户当前浏览的网站或状态动态分发功能，例如我们的youtube sunrise功能可直接在YouTube网页右上角执行，而无需打开新页面，有效提升了用户体验。此外，插件还能根据场景识别并调用相应功能，如对照式翻译，实现了对原有功能的良好叠加。</div>
-</div>
-<div class="qa-item">
-<div class="question"><strong>Q:</strong> 对于有人认为插件形态无法拥有独立入口和深度用户连接的问题，你怎么看？</div>
-<div class="answer"><strong>A:</strong> 以历史上的例子来看，以插件为起点成功发展的公司并不少见。对于未来是否会转向独立浏览器或坚持插件形态，持开放态度。插件作为切入点，可以根据用户需求和产品能力的发展逐步演进。</div>
-</div>
-<div class="qa-item">
-<div class="question"><strong>Q:</strong> 用户在使用莫妮卡时主要关注哪些工作场景的需求？</div>
-<div class="answer"><strong>A:</strong> 莫妮卡在工作场景中被大量海外用户广泛应用，主要需求包括信息获取与搜索（通过对话或搜索功能）、信息处理（如文章总结、长视频摘要等）以及信息存储（如文章存储、PDF对话等）。尽管大模型有能力实现这些需求，但莫妮卡更关注旧场景的优化升级，而非探索全新的应用场景。</div>
-</div>
-<div class="qa-item">
-<div class="question"><strong>Q:</strong> 在组织层面上，模型厂公司和消费电子公司的竞争要素有何不同？</div>
-<div class="answer"><strong>A:</strong> 对于模型厂或芯片厂商来说，竞争焦点在于以更低的成本制造出更好的芯片，强调性价比和客户关系，尤其是to b业务中的典型逻辑。而消费电子公司则更看重品牌建设、渠道管理和差异化体验带来的毛利率，它们通过规模扩大和研发投入来提升品牌力，并投入更多资源于品牌宣传等方面。</div>
-</div>
-<div class="qa-item">
-<div class="question"><strong>Q:</strong> 是否认为目前的产品形态属于“套壳”现象，并且这种“套壳”是否有其价值？</div>
-<div class="answer"><strong>A:</strong> 我认为“套壳”也有其价值，关键在于是否解决了用户实际问题。如果仅将芯片简单封装成计算器，确实可能被认为是套壳无价值。但当芯片功能复杂，应用场景多样时，就需要各领域专业人士参与解决，这时“套壳”就不再只是简单复制，而是体现了解决方案的复杂性和创新性。</div>
-</div>
-<div class="qa-item">
-<div class="question"><strong>Q:</strong> 对于Jasper公司的现状及其问题的看法是什么？</div>
-<div class="answer"><strong>A:</strong> Jasper公司在面对竞争时，不应该直接回答如何与ChatGPT竞争的问题，而应聚焦于强化企业级服务，如做好客户关系管理、安全审计等服务。其组织当时的问题在于将注意力分散到不适合自身发展的方向上，而非关注用户需求和市场导向。若能回归核心问题，关注用户可获得性，Jasper仍有可能发展成一家较大的企业级服务公司。</div>
-</div>
-<div class="qa-item">
-<div class="question"><strong>Q:</strong> 为什么会有去做现有大模型产品替代方案的想法，以及之前创业经历的情况？</div>
-<div class="answer"><strong>A:</strong> 在去年9月份看到OpenAI生成AI相关文章后，对该公司及API印象深刻，并了解到Jasper刚完成一轮融资并宣称年收入达9000万美金。考虑到快速扩张可能导致管理问题，同时结合自己之前做科研工具的经验，认为有机会卷入这个行业并尝试挑战现有大模型产品。最初目标是在一个月内通过产品赚取几十万人民币利润。</div>
-</div>
-<div class="qa-item">
-<div class="question"><strong>Q:</strong> 你是否希望在公司运营中避免被迫融资的状态？</div>
-<div class="answer"><strong>A:</strong> 是的，我尽量避免在资金耗尽时被迫融资，因为那样会让我处于被动状态。</div>
-</div>
-<div class="qa-item">
-<div class="question"><strong>Q:</strong> 你的目标是寻找有现金流但不一定有资本价值的项目来赚钱，并用这些现金流投资有资本价值的项目，对吗？</div>
-<div class="answer"><strong>A:</strong> 是的，我追求的是通过一些可能没有资本价值的方式赚取现金流，然后用这笔现金流去投资更有资本价值的项目，就像巴菲特早年所做的那样。</div>
-</div>
-<div class="qa-item">
-<div class="question"><strong>Q:</strong> 当初考虑了哪些项目，最后为什么选择了与Jasper合作而非其他两个项目？</div>
-<div class="answer"><strong>A:</strong> 当时考虑了亚马逊开店、咖啡加盟等项目，但最终选择与Jasper合作是因为这项合作能快速上手且团队具备相关技能，而其他项目则需要更多时间和精力去学习和找合作伙伴。</div>
-</div>
-<div class="qa-item">
-<div class="question"><strong>Q:</strong> 当时为何决定从Jasper转向现在的莫妮卡项目，并且目标变为每月赚50万人民币？</div>
-<div class="answer"><strong>A:</strong> 在完成一些初步计划后，我发现独立开发者市场中产品增长和验证PMF（产品市场契合度）很关键。看到一款快速增长的产品后，我决定寻找合适的收购机会。最终，在农历新年后，我找到并收购了这款名为“采集for Google”的产品，将其并入现在的莫妮卡项目中。</div>
-</div>
-<div class="qa-item">
-<div class="question"><strong>Q:</strong> 当时收购这款产品的价格和价值如何界定？</div>
-<div class="answer"><strong>A:</strong> 价格主要依据其活跃用户数（50万周活用户）以及考虑到自己团队研发成本和潜在机会损失。虽然用户基数和价值难以精确衡量，但基于用户的活跃度和市场机会，我认为这个价格是合理的。</div>
-</div>
-<div class="qa-item">
-<div class="question"><strong>Q:</strong> 在没有明显变现路径的情况下，你是怎么大胆花高价购买这款产品的？</div>
-<div class="answer"><strong>A:</strong> 我基于产品现有的用户基础和潜在的增长潜力，结合自身团队的优势和技能点，认为这笔投资是必要的且有较高回报可能。同时，我也做好了充分的内部沟通和资金准备，对于可能存在的风险有所评估和接受。</div>
-</div>
-<div class="qa-item">
-<div class="question"><strong>Q:</strong> 那么，你们在讨论的实质是什么？是否要自己建设能力，最后还是选择Monica？</div>
-<div class="answer"><strong>A:</strong> 是的，经过讨论我们认为需要自己具备把产品增长做起来的能力。Monica在帮助我们完成PMF验证方面起到了关键作用，虽然存在一些误解，比如关于用户倒流失的问题，但实际上她是通过采集蜂库导入了初始用户来验证PMF水平。</div>
-</div>
-<div class="qa-item">
-<div class="question"><strong>Q:</strong> 关于“如果明天莫妮卡不存在了”的问题，大家的感受如何？</div>
-<div class="answer"><strong>A:</strong> 根据硅谷40%的人认为如果没有莫妮卡会感到痛苦的比例，我们进行了一次测试，发现大概35%的人对此感到遗憾。这说明了PMF对于产品测试的重要性。</div>
-</div>
-<div class="qa-item">
-<div class="question"><strong>Q:</strong> Monica在PMF验证阶段大概是几月份的事？</div>
-<div class="answer"><strong>A:</strong> 大概在三月份、四月份进行的PMF验证。</div>
-</div>
-<div class="qa-item">
-<div class="question"><strong>Q:</strong> 至今这两款应用分别有什么用户量级增长或收入利润表现？</div>
-<div class="answer"><strong>A:</strong> Monica大约有几百万用户，而另一款应用（未明确指出名称）用户量更大。</div>
-</div>
-<div class="qa-item">
-<div class="question"><strong>Q:</strong> 这两款应用是否还在独立运行，并且是否有很强的编辑能力？</div>
-<div class="answer"><strong>A:</strong> 是的，两款应用仍在独立运行，并且都有很强的编辑能力。其中莫妮卡更强一些，因为它覆盖的场景更复杂、更多元。</div>
-</div>
-<div class="qa-item">
-<div class="question"><strong>Q:</strong> 是否曾经与某位独立开发者有过合作尝试，但最终没有成功？</div>
-<div class="answer"><strong>A:</strong> 是的，曾经有一个合作意向，但因对方在其他地方签约而未能成功。这给我留下了教训，如果合作足够重要，应该更加重视和细致处理。</div>
-</div>
-<div class="qa-item">
-<div class="question"><strong>Q:</strong> 对于莫妮卡这个产品，你是如何定位它的？未来想要把它做成什么样的公司？</div>
-<div class="answer"><strong>A:</strong> 莫妮卡被视为AI小助手，能够随着用户使用时间的增长，更好地理解并服务于用户，提供个性化的体验，就像一个了解用户偏好的本科生助手。</div>
-</div>
-<div class="qa-item">
-<div class="question"><strong>Q:</strong> 在面临大厂竞争的情况下，如何看待个人助手类产品的发展前景？</div>
-<div class="answer"><strong>A:</strong> 我们没有从大厂竞争的角度去看问题，而是关注现有的环境能让我们做到多好，天花板在哪。虽然未来可能会有挑战，但目前仍是一个值得前行的状态，重点是解决客户问题和进一步提升产品。</div>
-</div>
-<div class="qa-item">
-<div class="question"><strong>Q:</strong> 提高当下的目标是产品做得更好、用户量更大还是商业化等方面？</div>
-<div class="answer"><strong>A:</strong> 提高当下的目标可以涵盖多个方面，比如产品优化、用户增长、商业化等。当产品拥有庞大的日活跃用户数（DAU）时，即便存在一些问题，整体表现也不会太差。</div>
-</div>
-<div class="qa-item">
-<div class="question"><strong>Q:</strong> 莫妮卡目前的盈利状况如何？</div>
-<div class="answer"><strong>A:</strong> 莫妮卡今年以来基本保持盈利状态，主要通过广告和用户付费来实现盈利。</div>
-</div>
-<div class="qa-item">
-<div class="question"><strong>Q:</strong> 在创业过程中，你是否运用了投资人的思路，并且如何看待通过收购公司手段来促进业务增长？</div>
-<div class="answer"><strong>A:</strong> 作为CEO，其实就是在做各种投资决策，例如招聘员工、开展新业务等。我从很多资料和故事中学习到这种操作方法和管理思考，比如通过并购或其他金融手段来推动业务增长。</div>
-</div>
-<div class="qa-item">
-<div class="question"><strong>Q:</strong> 安踏和菲拉在销售渠道上的不同做法有哪些启发？</div>
-<div class="answer"><strong>A:</strong> 安踏采用的是代理加盟商模式，而菲拉选择纯自营，这种转变体现了它们跳出原有模式，理解优势与劣势后进行的新尝试。尤其在面对资金量级、格局和团队提升等方面，这种转变对于早期创业公司来说很值得学习。</div>
-</div>
-<div class="qa-item">
-<div class="question"><strong>Q:</strong> 对于创始人在不同阶段的思维方式有何看法？</div>
-<div class="answer"><strong>A:</strong> 大多数创始人在早期可能更专注于埋头做好手头的事情，而一些成功的创始人具备更全面的工具箱，懂得利用各种工具如招聘、组织管理、产品研发等。但也需警惕工具过多可能导致的注意力分散或战略偏离。</div>
-</div>
-<div class="qa-item">
-<div class="question"><strong>Q:</strong> 您个人对于赚钱能力和商业化有何看法？</div>
-<div class="answer"><strong>A:</strong> 变现能力很重要，在中国，商业化讨论相对较少，尤其是在融资方式中。但商业化决定了增长潜力，尤其是在AI领域，拥有优秀的商业化能力能帮助公司在市场竞争中占据优势。</div>
-</div>
-<div class="qa-item">
-<div class="question"><strong>Q:</strong> 如何看待赚钱这件事以及对商业化的态度？</div>
-<div class="answer"><strong>A:</strong> 认为赚钱是对创业公司的核心追求，并且在资本环境较差时，商业化显得尤为重要。商业化与增长是正向相关的，拥有强大的商业化能力能决定增长能力，因为商业化能带来现金流，降低对融资的依赖，并提升组织能力和ROI。</div>
-</div>
-<div class="qa-item">
-<div class="question"><strong>Q:</strong> 您上一份创业经历中赚钱能力如何？</div>
-<div class="answer"><strong>A:</strong> 上一次创业中，我成功将一个产品做到赚钱，并通过孵化第二个产品进一步锻炼了自己的赚钱能力。</div>
-</div>
-<div class="qa-item">
-<div class="question"><strong>Q:</strong> 目前您最关心什么？</div>
-<div class="answer"><strong>A:</strong> 目前最关心的是组织建设，尤其是在快速变化的技术环境下搭建适应当前环境的团队。</div>
-</div>
-<div class="qa-item">
-<div class="question"><strong>Q:</strong> 对于AI市场的看法以及未来的变化趋势？</div>
-<div class="answer"><strong>A:</strong> AI市场变化迅速，明年可能会出现一些关键技术突破，如开源模型达到3.5水平，这将为许多企业级服务带来新的机会。同时，关注产品设计与AI结合的创新，而非简单地在传统工作流程中加入AI。</div>
-</div>
-<div class="qa-item">
-<div class="question"><strong>Q:</strong> 莫妮卡产品相较于其他插件的竞争优势是什么？</div>
-<div class="answer"><strong>A:</strong> 莫妮卡的优势在于便捷性和一体化，能够集成多个功能，提供一致的用户体验和数据打通，使用户在解决问题时获得更好的上下文和体验。此外，独立开发者的参与也是其竞争优势之一。</div>
-</div>
-<h1>节目文稿</h1>
-<p class="transcript-line">
-<span class="time"><strong>[00:00:02]</strong> </span>
-<span class="speaker"><strong>发言人1: </strong></span>
-It&#x27;s something there.
-</p>
-<p class="transcript-line">
-<span class="time"><strong>[00:00:19]</strong> </span>
-<span class="speaker"><strong>发言人2: </strong></span>
-我们今天请到了莫妮卡的创始人小红。然后莫妮卡今年是一个很成功，非常多人在用，而且知道的一个应用了。所以小红来先自我介绍一下。
-</p>
-<p class="transcript-line">
-<span class="time"><strong>[00:00:30]</strong> </span>
-<span class="speaker"><strong>发言人1: </strong></span>
-Hello, 我是莫妮卡的方的，真名叫肖红，然后大家都叫我小红。
-</p>
-<p class="transcript-line">
-<span class="time"><strong>[00:00:35]</strong> </span>
-<span class="speaker"><strong>发言人2: </strong></span>
-你要不先给大家介绍一下莫妮卡。
-</p>
-<p class="transcript-line">
-<span class="time"><strong>[00:00:37]</strong> </span>
-<span class="speaker"><strong>发言人1: </strong></span>
-莫妮卡我们自己是希望他最终成为一个AI小助手。他今天产品形态主要是一个浏览器插件，你安装完了之后，你可以问他一些问题，他帮你做一些搜索，总结一些文章。而且它在很多网站做了兼容和适配，比如youtube、twitter、gmail之类的主流的一些网站，功能很多很杂。当然这也是一个我觉得待会儿可以分享的一个点，就是为什么它功能那么多那么杂。但是我们也觉得是一个对的事情。它是今年3月份发布的，然后现在有几百万用户，接近大几十万日活跃用户，我们希望它还是一个类比，就是希望它是一个具有一些通识能力，就像一个大学毕业的本科生。也有一些如果你用的时间长了，能够对你有更多的了解的AI小助手。对，是这样一个定位。
-</p>
-<p class="transcript-line">
-<span class="time"><strong>[00:01:30]</strong> </span>
-<span class="speaker"><strong>发言人2: </strong></span>
-大家今年总提莫妮卡是因为莫妮卡钻石比较早就有很多的用户量，然后很多人在用的一个产品。但是你的用户可能大多数还是在海外的，主要在海外。对，所以可能国内的很多人是不太知道的，那它的形式就是一个浏览器插件。是但大家为什么会要去用浏览器插件，而不是用ChatGPT什么的。
-</p>
-<p class="transcript-line">
-<span class="time"><strong>[00:01:49]</strong> </span>
-<span class="speaker"><strong>发言人1: </strong></span>
-身先说一些故事，首先这个莫妮卡立项其实很早，是大概去年的11月20号左右。对，那个时候还没有下GPT，其实当时是想卷那个jasper的，所以一开始它的产品形态也不是浏览器插件，是一个web。但是后来很快chat TP发布了，发布了之后，我们就觉得产品形态还得重新定义。因为我自己问了一下自己，我觉得我会用下GPT，而不是用jasper这样的产品。
-</p>
-<p class="transcript-line">
-<span class="time"><strong>[00:02:18]</strong> </span>
-<span class="speaker"><strong>发言人1: </strong></span>
-对，当时也很有意思。那个jasper的founders其实在回答如何应对菜鸡P挑战的时候，他就说了他要赋能互联网上每一个输入框。我一看这句话，这就是要做浏览器插件了。对，但是他们的战略执行其实没有做好，他也做了浏览器插件，但是量比较小。另外今天肯定是一个企业级市场的一个产品，它定价各方面都是打enterprise市场的，他也不适合用浏览器插件这个形式。对百伦Monica主要还是to c，所以那个时候是启发了我。
-</p>
-<p class="transcript-line">
-<span class="time"><strong>[00:02:52]</strong> </span>
-<span class="speaker"><strong>发言人1: </strong></span>
-我们做了一轮产品定义，我觉得应该是啊首先有像chat p1样有一个对话，就是AS来的产品核心的一个设计的感觉。第二我觉得US插件是个很好的产品形态，如果不是AI时代最好的产品形态的话，当然有些网站它自己就会去揭露。我们看notion它自己的notion AI之类。
-</p>
-<p class="transcript-line">
-<span class="time"><strong>[00:03:13]</strong> </span>
-<span class="speaker"><strong>发言人1: </strong></span>
-但我觉得还是有大量的网站，它可能不会自己去接A不管是他自己慢，还是战略上的考量，或者有些网站它就是个人网站，他也没有这个动力再去做更新了。所以我们觉得OK浏览插件可以跟很多场景结合。这一波以LM为代表的AI，使得很多原有的流程可以被重新做一遍，或者可以得到大幅的优化。所以一开始莫妮卡是做了很多刚才说的推特，youtube这样的大的网站的兼容的。
-</p>
-<p class="transcript-line">
-<span class="time"><strong>[00:03:42]</strong> </span>
-<span class="speaker"><strong>发言人1: </strong></span>
-对我觉得最有趣的其实是啊浏览器插件这个产品形态实现了对功能的分发。因为AI史的很多功能可以被重新做。传统的这个比方说web或者是APP。你功能多了，你要么就是你的成层级变很复杂了，要么你加一个搜索框，但搜索框不是谁都支撑得起来的，可能微信它可以加搜索框给小程序去做分发。但是如果你的单个网站太复杂，你加速有况的话，当然还是不到你这搜，还是去谷GLE上搜了。
-</p>
-<p class="transcript-line">
-<span class="time"><strong>[00:04:14]</strong> </span>
-<span class="speaker"><strong>发言人1: </strong></span>
-但是浏览器插件，它是可以根据你浏览的网站，或者说你当前浏览的状态去把某个功能放出来。举两个例子，比方说我们做了一个功能叫youtube sunrise。你可以把一个youtube sum ride成一一张一张的内容，跳到特定的地方去看，然后用AI帮你去总结。我们当然也可以做个web去做，但是用浏览器插件的好处是这个功能的入口就在youtube这个网页的右上角。然后你点击的时候它就执行了这个事情，体验很好。但是你没有打开youtube的时候，它也不在任何地方，也不会干扰你，所以就特别好。
-</p>
-<p class="transcript-line">
-<span class="time"><strong>[00:04:53]</strong> </span>
-<span class="speaker"><strong>发言人1: </strong></span>
-然后第二是我们有个功能叫对照式翻译。它检测到你的语言不是你的母语的时候，就会出来一个按钮，说你要不要翻译一下。像这些它其实要基于你所浏览的这个网页或者场景去把功能给暴露出来的，我们叫做它事实上完成了对功能的分发。所以我们觉得以AN为代表AI使得很多过去的旧场景可以被重做，就多很重要。因为如果没有那么多场景的话，其实你也不用浏览器插件这个形态。对，然后有这么多，浏览器插件就可以获得相应的context，去把这个能力给分发到用户那去。
-</p>
-<p class="transcript-line">
-<span class="time"><strong>[00:05:33]</strong> </span>
-<span class="speaker"><strong>发言人2: </strong></span>
-是就是你的插件其实它会识别不同的场景，不同的网站，然后它去有不同的功能让大家可以选择。所以它其实是比较轻的一个对原有的功能的叠加是吧？是对，这个肯定是它好的地方。但它坏的地方也会有人讲说，你是不是没有自己的一个独立的一个入口，或者一个用户的一个比较深的连接跟记忆。然后包括现在也有人直接去做一个AI的新的AI的浏览器，是对吧？对，我不知道你们怎么看这些问题？
-</p>
-<p class="transcript-line">
-<span class="time"><strong>[00:05:58]</strong> </span>
-<span class="speaker"><strong>发言人1: </strong></span>
-好，我觉得这是几个问题。首先我们看历史上来说，以插件作为起点，是长出过一些相对来说不能说特别大，但也还不错的公司。像grammy我们都知道的。但这一波AI它受影响比较大。但是它在原来它的那个产品形态下，也是可能是100亿美金估值的公司，一年几个亿美金的收入。
-</p>
-<p class="transcript-line">
-<span class="time"><strong>[00:06:20]</strong> </span>
-<span class="speaker"><strong>发言人1: </strong></span>
-第二个可能很多人不知道的，最近收购的那个loom LM，它的day one就只有浏览器插件。当然它有了这个客户端，有了一个完整的web的work flow。所以大家也别混淆了一件事情，就是说你今天以这个为切入点，和你十年后还是不是都还在了解参加。对这个我坦白讲我自己是比较开放的心态的，他可能不同阶段要完成使命不一样。
-</p>
-<p class="transcript-line">
-<span class="time"><strong>[00:06:46]</strong> </span>
-<span class="speaker"><strong>发言人1: </strong></span>
-第二就是刚刚提到为什么不是一个直接是一个AI浏览器。我们也在想这个问题的正确问法是什么？就是到底什么能力是chrome没开放给我，使得我必须做个浏览器的。我今天可能还没有答案。
-</p>
-<p class="transcript-line">
-<span class="time"><strong>[00:07:00]</strong> </span>
-<span class="speaker"><strong>发言人2: </strong></span>
-是我觉得其实你思路就还是非常适合创业公司的发展路径，对吧？就是插件其实是很轻的一个切入点。那后面再看说用户需要什么，或者说我们还有能力做什么。你现在看起来你们几百万用户对吧？几十万的日活，大家最主要的在使用的都是什么东西？
-</p>
-<p class="transcript-line">
-<span class="time"><strong>[00:07:16]</strong> </span>
-<span class="speaker"><strong>发言人1: </strong></span>
-首先莫妮卡其实是一个非常典型的工作场景的产品，大量海外用户他用的也挺像中国用户用办公软件一样的。对他到周末他就下去。对我觉得无非就那么几件事。
-</p>
-<p class="transcript-line">
-<span class="time"><strong>[00:07:29]</strong> </span>
-<span class="speaker"><strong>发言人1: </strong></span>
-大家日常的在工作上会用到的是第一可能就是对话和搜索。对话说我觉得是一回事，本质上就是信息的获取。这种获取是可以来自LM也可以来自搜索。莫妮卡里面有一个搜索的功能，但用bin和以及IM的能力做的这是第一大块，就是外部信息的获取。第二个，信息获取过来之后，可能大家也需要更高效的去处理这些信息。所以有啊summize，youtube的长文的对。然后第三可能是你summarized完了之后，这些信息需要被存储下来。像莫妮卡里面有眉毛那个很多你读过的文章就存在里面，说过东西就放在里面。当然我们还内置很多小的工具。举个例子，就是可能大家也都用过的，就是你传给PDF能够去跟他对话。
-</p>
-<p class="transcript-line">
-<span class="time"><strong>[00:08:23]</strong> </span>
-<span class="speaker"><strong>发言人2: </strong></span>
-有没有什么场景跟用户的需求，是你在几十万用户几百万用户以后发现的跟之前想的不太一样的这种。
-</p>
-<p class="transcript-line">
-<span class="time"><strong>[00:08:32]</strong> </span>
-<span class="speaker"><strong>发言人1: </strong></span>
-这个可能真的没有，by the way, 当然可能不是个断言，这还没有确定。但是我觉得我关注度更多的还是说旧场景怎么在变新，而不是说我们要探索一个新东西。很多投资人或者创业者的朋友，他们更关心的事情AI有没有带来新的场景，比如类似开瑞AI这种产品，大家就觉得是带来新的场景，新的可能性的。但是我自己觉得生产效率场景可能更多的还是过去的事情，只是今天我们怎么用这个工具把它做的更好。所以从这个角度来讲，没有什么需求，特别让我surprise理解。
-</p>
-<p class="transcript-line">
-<span class="time"><strong>[00:09:08]</strong> </span>
-<span class="speaker"><strong>发言人2: </strong></span>
-但这样的话，其实你去实现的大多数场景的需求，一般来讲大模型是有能力一样去实现的对吧？所以那会不会有人就拆了，你们说你们不是大兴套壳什么的，应该很也还是很多人讲了这种东西。
-</p>
-<p class="transcript-line">
-<span class="time"><strong>[00:09:21]</strong> </span>
-<span class="speaker"><strong>发言人1: </strong></span>
-对我其实有个理论，我是觉得这个大模型公司跟应用层的公司或者套壳公司，它是完全不同的公司。对之前这个我们内部也分享，其实那个时候是我在思考一个组织问题。比如说我到底是更需要一个算法工程师，还是一个做渠道或者增长的同学。
-</p>
-<p class="transcript-line">
-<span class="time"><strong>[00:09:40]</strong> </span>
-<span class="speaker"><strong>发言人1: </strong></span>
-后来我想这个是很关键的一点是你要学什么样的公司，就是你的。组织阵型应该向什么先进的公司学习，by the way我是觉得这一波AI和大量东西都在变化，但是什么是不变的？我觉得组织的建设应该是一个一定不会错的事情。所以说我可能超过一半的精力其实在组织的问题的思考上。然后我自己有个类比，但是它可能没有逻辑推导，它只是一个类比工具。但是这个类比工具使得我们内部快速的达成很多一致，所以我觉得也可以share给大家，就是我们觉得说大模型厂商非常像芯片公司，像intel，像高通，像我们的话我们觉得说我们其实挺像消费电子公司，像苹果、像华为、像小米、像大疆这样的公司。
-</p>
-<p class="transcript-line">
-<span class="time"><strong>[00:10:22]</strong> </span>
-<span class="speaker"><strong>发言人1: </strong></span>
-对差异到底体现在哪？刚刚说的还是组织层面上，比方说一个模型厂的公司，他当然更愿意去花很多钱去招一个很好的研究员，对吧？但对我来说，我可能花很多钱去招个人做品牌这种组织能力的建设。
-</p>
-<p class="transcript-line">
-<span class="time"><strong>[00:10:37]</strong> </span>
-<span class="speaker"><strong>发言人1: </strong></span>
-其实我觉得差别会非常大。两类型的公司的竞争要素完全不一样。对于大模型公司来说，或者对芯片厂商来说，它更多的就是说我用更低的成本造出更好的芯片来。他是个性价比问题，客户关系问题，就是因为它是个非常典型to b生意。回头也可以分享那个link就是张忠谋当时他分享过他怎么去定台积电的战略的完全的to b声音。Turkey service要客户关系，这个要怎么样去做好这个性价比，反正这一套完全是to b的那个逻辑。
-</p>
-<p class="transcript-line">
-<span class="time"><strong>[00:11:12]</strong> </span>
-<span class="speaker"><strong>发言人1: </strong></span>
-消费电子公司它品牌很关键，然后它的渠道也很关键，它的差异化体验带来的毛利率也很关键。它有了毛利率以及规模更大了之后，它才能有钱去做这个研发投入、品牌宣传这些事。它是完全不同的两个游戏。所以我觉得他的组织方式是其实不一样的我觉得或者从另外一个视角看，就是大家今天用台机器用的爽吗？就是如果我忘掉他的fancy的模型能力，就是作为一个workflow的话，大家应该还是多多少少会遇到一些问题，那也没有那么好。对，所以我是相信这个社会分工的，其实我还真研究了一下talk这个事情。
-</p>
-<p class="transcript-line">
-<span class="time"><strong>[00:11:52]</strong> </span>
-<span class="speaker"><strong>发言人1: </strong></span>
-当德州仪器很早的时候，他造出这个芯片，当时那个什么晶体管那个东西造出那个芯片他干嘛？他就是做计算器，对吧？在他这个01这个输过去的能算出个数来，然后再套一个塑料的壳，这就是个计算器了，对吧？所以芯片寄产品，因为那个塑料壳很单纯，但是如果造出来的芯片不是计算器，芯片是一个CPU。它上面有非常多的场景的话，那这个上面场景上的那些事儿就很复杂，是很需要各种各样的场景，需要各种各样的专业人士去参与去解决的。
-</p>
-<p class="transcript-line">
-<span class="time"><strong>[00:12:28]</strong> </span>
-<span class="speaker"><strong>发言人2: </strong></span>
-我大概理解你的这些point，但我还是想在产品这一块，就是你说的那个计算器的逻辑，我觉得是很make sense，对吧？如果你基于那个晶体管，你就是套一层塑料壳做了一个计算器，大家就会觉得是套壳没有价值，对吧？大家就会觉得说德州仪器他自己随便找一个人也可以做对。但它其实是取决于说最后你实现的东西的结果的复杂度跟一开始的那个东西的区别。是，所以那那你后面是打算说要做的更复杂，还是你觉得现在就也不算是刀割。
-</p>
-<p class="transcript-line">
-<span class="time"><strong>[00:12:58]</strong> </span>
-<span class="speaker"><strong>发言人1: </strong></span>
-肯定是要更复行。
-</p>
-<p class="transcript-line">
-<span class="time"><strong>[00:13:00]</strong> </span>
-<span class="speaker"><strong>发言人2: </strong></span>
-或者我这么快速问你一下，其实两个问题，第一你觉得你们现在到底是不是套壳？第二是你觉得其实套可也不一定就不行，就不好，对吧？对。
-</p>
-<p class="transcript-line">
-<span class="time"><strong>[00:13:11]</strong> </span>
-<span class="speaker"><strong>发言人1: </strong></span>
-我觉得套盒挺好的，我觉得套盒到极致就是牛逼。
-</p>
-<p class="transcript-line">
-<span class="time"><strong>[00:13:15]</strong> </span>
-<span class="speaker"><strong>发言人2: </strong></span>
-我我其实我就觉得你应该是这种观点。
-</p>
-<p class="transcript-line">
-<span class="time"><strong>[00:13:18]</strong> </span>
-<span class="speaker"><strong>发言人1: </strong></span>
-套可到极致就是牛逼。
-</p>
-<p class="transcript-line">
-<span class="time"><strong>[00:13:20]</strong> </span>
-<span class="speaker"><strong>发言人2: </strong></span>
-对，别人会觉得说套可就不好，但我觉得你应该是更从用户需求和市场出发的对。
-</p>
-<p class="transcript-line">
-<span class="time"><strong>[00:13:25]</strong> </span>
-<span class="speaker"><strong>发言人1: </strong></span>
-其实我觉得top到壳子不是一个问题，核心是到底是你又没解决用户的问题。比如说你看传统商业，它的问题可能更加奇怪一些，它只是帮你让你在楼下就能买到水，但这是一个用户需求。所以同样的我觉得关注用户的可获得性，这个也是一个产品的很重要的一个属性。
-</p>
-<p class="transcript-line">
-<span class="time"><strong>[00:13:45]</strong> </span>
-<span class="speaker"><strong>发言人2: </strong></span>
-是所以jasper尔的问题是啥呢？
-</p>
-<p class="transcript-line">
-<span class="time"><strong>[00:13:47]</strong> </span>
-<span class="speaker"><strong>发言人1: </strong></span>
-我想过，其实我觉得家是我仍旧是个好生意，只是他当时脑子糊涂了，因为我当时不是说最开始要卷他，我是研究过这家公司的。先说最致命的问题，其实他当时不应该回答他怎么跟chat GP竞争的问题，他是个非常典型的to b生意。他关注的事情就是OK，我应该怎么去做好tank y service，我的销售团队怎么去。可能美国也需要code call，或者需要这个sales上门服务，对吧？需要手把手教做客户培训，然后需要企业级的那些什么安全审计这些需求。这些我觉得open I这家公司，它是没有这样的组织能力去完善这件事情的。Jasper在那个moment它它就应该去做好这件事情。
-</p>
-<p class="transcript-line">
-<span class="time"><strong>[00:14:29]</strong> </span>
-<span class="speaker"><strong>发言人1: </strong></span>
-他不应该去回答说我怎么跟ChatGPT竞争，这是一个错误的问题。当整个组织都去回答这个问题的时候，他肯定会出问题。大家去想一些莫名其妙的非用户导向的这个解决方案。对，但如果他回到说OK，我好好的去解决企业级服务的那些问题。我觉得这个方向上会长出一些相对来说比较大的企业级服务公司来的。
-</p>
-<p class="transcript-line">
-<span class="time"><strong>[00:14:55]</strong> </span>
-<span class="speaker"><strong>发言人2: </strong></span>
-是如果他当时更多的想就是用户需要什么，比如做一些多模态的事情或者其他的，可能就还是会有很多机会。
-</p>
-<p class="transcript-line">
-<span class="time"><strong>[00:15:02]</strong> </span>
-<span class="speaker"><strong>发言人1: </strong></span>
-是因为企业级服务它是一个很复杂的命题，它不像个体用户用TGP我就随时就可以决策的事情。在那个moment我觉得他们是自己问了一个自己错误的问题，整个组织去这样回答这个问题，所以他的数据就往下掉。
-</p>
-<p class="transcript-line">
-<span class="time"><strong>[00:15:18]</strong> </span>
-<span class="speaker"><strong>发言人2: </strong></span>
-对你刚才提到你是去年11月份开始有想要去做这样的事情的那你看到和想到可能更早。大多数国内的其实大家应该是今年春节后陆续开始关注的。对你你当时怎么会想到要做这件事情？包括你顺便可以讲一下之前的一些创业的故事，就是包括这次创业。
-</p>
-<p class="transcript-line">
-<span class="time"><strong>[00:15:39]</strong> </span>
-<span class="speaker"><strong>发言人1: </strong></span>
-好呀好，先说没那么远的。对，最开始我其实在去年9月份的时候下，大家可能也都看过那篇文章。就是红杉讲那个生成是AI改变世这个文章的那个moment，大家看的其实是stable diffusion，是造图相关的事儿。其实我当时也跳进去看了一下，但是确实盗图这个事他可能更梨纱时间，就是内容消费更近一些。我一直是做生产的工具相关的SARS相关的事情，我就没有get到那个点。但所有人都会提到open I这家公司，即便他还没有发布拆GP的时候，所以我就去注册了OpenAI，然后在它上面的playground上就用了GP3的AP大为震惊。同时当时贾斯伯刚融资，企业级服务，他当时也官宣，一年可能9000万美金的收入。
-</p>
-<p class="transcript-line">
-<span class="time"><strong>[00:16:30]</strong> </span>
-<span class="speaker"><strong>发言人1: </strong></span>
-然后我觉得太夸张了，而且说年初的时候只有九个人，你现在有200个人了，这个AR的增长我觉得是非常吓人的对，然后再加上我看那个open I的那个API，我觉得这个也是能做出来的。以及其实刚刚那一句话，他的CEO很自豪的宣布年初只有九个人，现在有200个人说我是觉得他一定会出问题的。回到组织上来说，就组织它本质上来说是一个是一个反规模小游戏。你人多了，你的难度就是更大的对吧？但是这个CEO在在炫耀或者说庆祝这个事情，我觉得是个问题的。因为理论上的人多你会很烦的。
-</p>
-<p class="transcript-line">
-<span class="time"><strong>[00:17:07]</strong> </span>
-<span class="speaker"><strong>发言人1: </strong></span>
-所以我是觉得它的组织快速扩张的情况下，它可能在应对一些问题的时候会更缓慢。所以其实当时我就单纯的觉得我可以卷过它。但我没有想到后面很快的夏季发布了，它遇到这么大的麻烦。对，但那个moment就是我觉得我是可以卷过他的。我其实当时想法很简单，就是卷他，然后一个月赚个几十万人民币出来。这个就一个月。
-</p>
-<p class="transcript-line">
-<span class="time"><strong>[00:17:33]</strong> </span>
-<span class="speaker"><strong>发言人2: </strong></span>
-赚几十万人民币。
-</p>
-<p class="transcript-line">
-<span class="time"><strong>[00:17:34]</strong> </span>
-<span class="speaker"><strong>发言人1: </strong></span>
-当时想的，对对对。
-</p>
-<p class="transcript-line">
-<span class="time"><strong>[00:17:36]</strong> </span>
-<span class="speaker"><strong>发言人2: </strong></span>
-因为但当时你们是多少个人。
-</p>
-<p class="transcript-line">
-<span class="time"><strong>[00:17:38]</strong> </span>
-<span class="speaker"><strong>发言人1: </strong></span>
-我们当时个位数的人数吗？
-</p>
-<p class="transcript-line">
-<span class="time"><strong>[00:17:40]</strong> </span>
-<span class="speaker"><strong>发言人2: </strong></span>
-OK, 但你那个之前其实已经做了一段时间的其他的产品了。
-</p>
-<p class="transcript-line">
-<span class="time"><strong>[00:17:43]</strong> </span>
-<span class="speaker"><strong>发言人1: </strong></span>
-对我是做了一个专业了分子生物学家的编辑器。
-</p>
-<p class="transcript-line">
-<span class="time"><strong>[00:17:48]</strong> </span>
-<span class="speaker"><strong>发言人2: </strong></span>
-在分子生物学家编辑器可以编辑出分子生物学家。
-</p>
-<p class="transcript-line">
-<span class="time"><strong>[00:17:51]</strong> </span>
-<span class="speaker"><strong>发言人1: </strong></span>
-不可以。就是帮大家回忆一下高中生物，可能大家见过那个基因的序列是ATGCU，反正这几个阶剪辑，然后他每天要去处理这样的剪辑序列。但是其实现在的分子生物学家用的这样的序列处理工具其实是很很传统的。
-</p>
-<p class="transcript-line">
-<span class="time"><strong>[00:18:10]</strong> </span>
-<span class="speaker"><strong>发言人2: </strong></span>
-总之简单来讲就是科研的sas软件。
-</p>
-<p class="transcript-line">
-<span class="time"><strong>[00:18:13]</strong> </span>
-<span class="speaker"><strong>发言人1: </strong></span>
-对，就是给分子生物学家用的fig。你可以这样理解。
-</p>
-<p class="transcript-line">
-<span class="time"><strong>[00:18:16]</strong> </span>
-<span class="speaker"><strong>发言人2: </strong></span>
-就是全球有多少分子生物学。
-</p>
-<p class="transcript-line">
-<span class="time"><strong>[00:18:19]</strong> </span>
-<span class="speaker"><strong>发言人1: </strong></span>
-我觉得几十万个肯定是有的。
-</p>
-<p class="transcript-line">
-<span class="time"><strong>[00:18:21]</strong> </span>
-<span class="speaker"><strong>发言人2: </strong></span>
-那你潜在的用户就是几十万，就还是一个很小的生意，很小的市场听起来。
-</p>
-<p class="transcript-line">
-<span class="time"><strong>[00:18:26]</strong> </span>
-<span class="speaker"><strong>发言人1: </strong></span>
-当然他国外有比较大的公司的，像bench是一家可能几十亿美金的公司。OK, 对我在那个moment，其实最开始是想做这个事儿的。因为我想做一个垂直领域的SARS。因为我觉得国内的SARS太卷了，就如果通用的话，所有人都会来，程序员都会来卷你那甚至更早的时候，我看到有人在github上开源抄袭了我们之前那个产品，然后把它开源了。然后说它的目的就是希望能够通过这个开源产品，有一些人找他做外包。我想我靠中国工程师红利对自己来说就是这个有问题，对吧？所以我觉得一个垂直领域的事情是不是更好一些？我高中是搞双竞赛的，所以这个事我也有一定的热情。当时我看国内的资本环境其实进一步糟糕。
-</p>
-<p class="transcript-line">
-<span class="time"><strong>[00:19:13]</strong> </span>
-<span class="speaker"><strong>发言人2: </strong></span>
-就是那年的时候。
-</p>
-<p class="transcript-line">
-<span class="time"><strong>[00:19:14]</strong> </span>
-<span class="speaker"><strong>发言人1: </strong></span>
-22年的时候，就是去年我已经开始做那个中学的编辑器，然后觉得国内的资本环境很差，可能接下来还会再差。所以当我把那个产品定义已经做完了之后，我觉得我最重要工作就是我我得给公司挣钱，我然后我当时一通算，我每个月帮公司挣50万人民币，这个分数学的编辑器，我就能就持续能做到一个我比较满意的状态了。对，by the way, 它的整个战略就是它应该做成世界级的水平。国内的科研软件很多时候又回到传统的那个to b里面，就是说做一半，然后完了之后又定制化项目，所以它的产品质量很多时候是不好的对，当时我做的时候我就想说，我比方说我们能不能两年只投研发，把它做的特别牛逼，直接就是世界级水平。这样真的是替代国产替代，可能还能卖到国外去。所以我觉得我当时每个月帮公司挣个几十万人民币，我就能够持续投这个事儿了，而且就是。
-</p>
-<p class="transcript-line">
-<span class="time"><strong>[00:20:06]</strong> </span>
-<span class="speaker"><strong>发言人2: </strong></span>
-贴补家用的感觉。对。
-</p>
-<p class="transcript-line">
-<span class="time"><strong>[00:20:08]</strong> </span>
-<span class="speaker"><strong>发言人1: </strong></span>
-就是你不要被迫融资对吧？就是一旦你把钱烧完了，你没钱的时候，你必须融资或者挂掉。这个时候事实上你是很被动的，是那我不希望进入这个被动的状态。
-</p>
-<p class="transcript-line">
-<span class="time"><strong>[00:20:20]</strong> </span>
-<span class="speaker"><strong>发言人1: </strong></span>
-我觉得我应该有办法去赚一些有现金流但是没有资本价值的事情。你看又有现金流又有资本价值是很好的事，对吧？但是有些没有资本价值的事，我觉得哎也挺好。因为我我可以用这个赚到的现金流去投一个有资本价值的事情。没比你像巴菲特早年他干过很多这样的事情。对，所以我就觉得我当时应该这么干，当时给自己定的目标就是每个月挣50万人民币给公司。
-</p>
-<p class="transcript-line">
-<span class="time"><strong>[00:20:48]</strong> </span>
-<span class="speaker"><strong>发言人1: </strong></span>
-其实AI不是我看的第一个事儿，当时也做了很多功课。比如说亚马逊上开个店，去深圳进货卖东西到美国去。比如去咖啡加盟，当时看过好几家咖啡店。
-</p>
-<p class="transcript-line">
-<span class="time"><strong>[00:21:02]</strong> </span>
-<span class="speaker"><strong>发言人2: </strong></span>
-包括瑞幸。你所以你的目标就真的是现金流，真的是啥都行。
-</p>
-<p class="transcript-line">
-<span class="time"><strong>[00:21:06]</strong> </span>
-<span class="speaker"><strong>发言人1: </strong></span>
-对，不看对，没关系都行。对。
-</p>
-<p class="transcript-line">
-<span class="time"><strong>[00:21:08]</strong> </span>
-<span class="speaker"><strong>发言人2: </strong></span>
-钱就是钱。对，所以是亚马逊店，然后加盟咖啡还然后还有别的吗？当时想的然后。
-</p>
-<p class="transcript-line">
-<span class="time"><strong>[00:21:15]</strong> </span>
-<span class="speaker"><strong>发言人1: </strong></span>
-就到AI了，反正也差不多了。
-</p>
-<p class="transcript-line">
-<span class="time"><strong>[00:21:17]</strong> </span>
-<span class="speaker"><strong>发言人2: </strong></span>
-这几个事就jasper在这个时刻跟这个加盟咖啡店合作，亚马逊店排在了一起。那你为什么抛弃了另外两个？
-</p>
-<p class="transcript-line">
-<span class="time"><strong>[00:21:27]</strong> </span>
-<span class="speaker"><strong>发言人1: </strong></span>
-所以还是本质上是你的机会成本问题？那机会层对应过来就是开店也能开。对，甚至我其实当时我自己现金都准备好了。
-</p>
-<p class="transcript-line">
-<span class="time"><strong>[00:21:37]</strong> </span>
-<span class="speaker"><strong>发言人2: </strong></span>
-你是想自己去加盟，还是想跟公司的钱去加盟？
-</p>
-<p class="transcript-line">
-<span class="time"><strong>[00:21:41]</strong> </span>
-<span class="speaker"><strong>发言人1: </strong></span>
-我打算先自己。
-</p>
-<p class="transcript-line">
-<span class="time"><strong>[00:21:42]</strong> </span>
-<span class="speaker"><strong>发言人2: </strong></span>
-加盟再赚钱了。
-</p>
-<p class="transcript-line">
-<span class="time"><strong>[00:21:43]</strong> </span>
-<span class="speaker"><strong>发言人1: </strong></span>
-再再跟再跟公司说，再跟投资人商量一下，是不是也可以，还是先准备了一些自己的钱？对，但核心还是你擅长不擅长的事。这些东西我估计其实要做也能做，但是还是得费点劲。还有这个再找有相关经验的同学，但贾斯伯那个事，我立马就看得懂的事，立马同学们的这个技能点都有的事，所以就立马就上手做了。
-</p>
-<p class="transcript-line">
-<span class="time"><strong>[00:22:10]</strong> </span>
-<span class="speaker"><strong>发言人2: </strong></span>
-但是最后你选择了做jasper a然后当时的目标是一个月赚50万。对，然后那那后来是怎么变成了现在的莫妮卡这件事情呢？
-</p>
-<p class="transcript-line">
-<span class="time"><strong>[00:22:19]</strong> </span>
-<span class="speaker"><strong>发言人1: </strong></span>
-刚刚说的下一期就发布了之后，我们先把莫妮卡的产品定义重新做了一遍。更像今天大家都能看到那个样子，而不是jasper那个样子。在这件事完成了之后，我觉得一个隐忧是什么呢？就是我在推特上关注了很多独立开发者，我发现大家都掏起家伙开始做套壳对套壳的事情。然后我想这个流量成本可能会很贵，就会变贵。怎么搞量是很关键的问题，就是产品做出来就PMF，那marketing的市场工作也很重要。对，然后在那个时候非常巧，就是看到国内独立开发者做了一个采集for google的产品，量涨得很快，它发布的第一天我就知道，然后到我觉得可能一月份的时候，他就发布了差不多一个月的时候。一月初的时候大概是10万用户，十万收回用到了过年的时候，就是这个农历新年1月中下旬的时候，我会发现他已经50万。做活动就长得太夸张了。而且因为我知道他是个独立开发者，他肯定也没有砸钱去做，可能都是口碑。
-</p>
-<p class="transcript-line">
-<span class="time"><strong>[00:23:27]</strong> </span>
-<span class="speaker"><strong>发言人2: </strong></span>
-自然的心理。那个产品确实很好的。
-</p>
-<p class="transcript-line">
-<span class="time"><strong>[00:23:29]</strong> </span>
-<span class="speaker"><strong>发言人1: </strong></span>
-做的非常早。对对对，然后我就找到了这个独立开的特别巧，他其实是华科的一位师兄，而且他也很神奇，他在十年前可能很多听众朋友用过他的产品，他在某网上做了一个小黄鸡，你在艾特小黄鸡，他就会用当时的这个AI能力去回复你。所以他的ID我就一直记得，然后是一个知名的学长加了他好友。然后我就跟偶尔人说了一下，说我觉得这个产品应该对于马上要发布，莫妮卡的增长和验证PMF特别重要。过完农历新年的第一天，我其实没有去公司，我就直接去上海找了这个作为独立开发者师兄，我自己大概评估了一下，如果我们自己没有很好的验证PMF以及这个产品本身的用户基数。所以就是准备了一笔钱的，然后找到他，就把那个DO谈下来了。对。
-</p>
-<p class="transcript-line">
-<span class="time"><strong>[00:24:24]</strong> </span>
-<span class="speaker"><strong>发言人2: </strong></span>
-就是你你去找的时候就是冲着要把它买下来的。是的，就是要买下来。那你当时这个价格和价值怎么去界定呢？
-</p>
-<p class="transcript-line">
-<span class="time"><strong>[00:24:31]</strong> </span>
-<span class="speaker"><strong>发言人1: </strong></span>
-很核心的一点就是说，首先它那个活跃用户数，它就是一个很重要的指标。对，就是那50万周活用户的产品，而且是主要是欧美用户，它其实是应该挺值钱的，但有多值钱这个不知道，但是挺值钱的对，第二我觉得也衡量自己的机会什么就是然后我们自己要投研发，投能力去开发。如果三个月没有PMF，你三个月的研发成本约等于是浪费了，对吧？那你可能上百万的损失以及潜在的外部的这一波浪潮，对吧？潜在的这个错误的机会。所以估了一个价。
-</p>
-<p class="transcript-line">
-<span class="time"><strong>[00:25:07]</strong> </span>
-<span class="speaker"><strong>发言人2: </strong></span>
-大概是什么量级可以降，几百万人民币OK那还是有一个，因为从他的视角来讲，就是做两个月的一个插件，对吧？
-</p>
-<p class="transcript-line">
-<span class="time"><strong>[00:25:17]</strong> </span>
-<span class="speaker"><strong>发言人1: </strong></span>
-对。
-</p>
-<p class="transcript-line">
-<span class="time"><strong>[00:25:18]</strong> </span>
-<span class="speaker"><strong>发言人2: </strong></span>
-所以确实其他的人如果想要赚钱就可以自己做一个东西。对，因为我觉得我们我们今天也聊了很多独立开发者，其实很多是很有动手能力是的一批人。但他可能确实不太擅长变现，是第一版。
-</p>
-<p class="transcript-line">
-<span class="time"><strong>[00:25:32]</strong> </span>
-<span class="speaker"><strong>发言人1: </strong></span>
-只有两百行代码，然后两个月之后900万人民币.
-</p>
-<p class="transcript-line">
-<span class="time"><strong>[00:25:35]</strong> </span>
-<span class="speaker"><strong>发言人2: </strong></span>
-对我一行代码1万人民币区别加。对，那当时你不心虚吗？就是你怎么敢花这个钱，这个价值很难衡量，对吧？
-</p>
-<p class="transcript-line">
-<span class="time"><strong>[00:25:45]</strong> </span>
-<span class="speaker"><strong>发言人1: </strong></span>
-是我觉得其实也还好，因为因为用户数在那里，然后我觉得我我我总有办法能变现的这可能是一个盲目的自信，但我权衡利弊之后，我觉得这个事还是得干。第二我就他说的有一个很大的转变，就是我从主要做生物学编辑器变到做莫妮卡，对吧？那是因为我之前买了这个产品，然后跟投资人说好，我买了一个AI产品，然后我们打算把莫妮卡当做主要的事情了。所以这个转变就很自然。你都已经花了几百万去买个产品，那么你确实应该去做这件事情。就是你看事实上来说，分子生物学的那个产品，我充当的角色也更像是一个财务投资人，或者是药管业务的投资。因为我在帮他赚现金流去持续投入的那AI这个事是一个我的技能是可以直接用上的一件事情。所以我觉得我应该把自己的时间放在AI这件事情上，赚取的现金流我可以再投生物能源社。
-</p>
-<p class="transcript-line">
-<span class="time"><strong>[00:26:47]</strong> </span>
-<span class="speaker"><strong>发言人2: </strong></span>
-所以当时你找他，就是你约他见了个面，然后你就跟他提出来你要买。
-</p>
-<p class="transcript-line">
-<span class="time"><strong>[00:26:52]</strong> </span>
-<span class="speaker"><strong>发言人1: </strong></span>
-对，首先这个是在事先就要评估好的，其实我已经是准备好这么多钱的，就是随时能打打出去的这个状态。对，嗯，然后内部的沟通也是全部做完了的。第二其实就是见面之前去看了一下，他最近发了一些推特什么的，特别巧。就是看到当时可能有国外的其他的这个小团队，跟他提了议了一个报价，可能几万美金这个级别的钱。我们吃饭的时候当做了很好的一个切入点，听说有别的团队可能也提议说这个产品，然后他可能说太少了。对，但是我们的决心是很大。对我知道他要不我们来聊个天啊，用十倍的价格，对，然后全部的现金马上就可以打钱。对。
-</p>
-<p class="transcript-line">
-<span class="time"><strong>[00:27:41]</strong> </span>
-<span class="speaker"><strong>发言人2: </strong></span>
-正常人应该都会先提一个，比如两倍、三倍是吧？那你当时直接就提了一个十倍的价格，这个你不怕给高的。
-</p>
-<p class="transcript-line">
-<span class="time"><strong>[00:27:50]</strong> </span>
-<span class="speaker"><strong>发言人1: </strong></span>
-首先我觉得还是你自己要有一个估值，这个事对你来说到底值多少钱，首先一定要自己想明白的事。当然如果对方报了一个便宜的价格，你take也OK。但是我觉得还好，我倒没有赚便宜的心态。比方说有些企业家的故事，当然可能是故事我还挺信的。就是比方说段永平他们说他当年买某个商标的时候，他就是付了一个更高的价格。对面的人没有提的这没有这么高的价格，他觉得我就是直接的价格，他就应该给他那个价格。
-</p>
-<p class="transcript-line">
-<span class="time"><strong>[00:28:21]</strong> </span>
-<span class="speaker"><strong>发言人1: </strong></span>
-对，所以我觉得首先我自己是很清楚，他对我的价值是大于我付出自己的钱的，所以我就不后悔。第二我觉得他足够重要的话，那就是应该这么干，就是没有必要在一些很小的现象，如果你后面能基于它能够再涨1000倍，那么你为什么要在乎或者因为一个很小的钱去让这个事情变得更复杂。对。
-</p>
-<p class="transcript-line">
-<span class="time"><strong>[00:28:46]</strong> </span>
-<span class="speaker"><strong>发言人2: </strong></span>
-所以你报完他就等于是答应了。
-</p>
-<p class="transcript-line">
-<span class="time"><strong>[00:28:48]</strong> </span>
-<span class="speaker"><strong>发言人1: </strong></span>
-对，他说他要跟家里人商量一下，我觉得应该问题就不大了。对，但我也还是比较担心，所以其实我就陪他到他家楼下，然后他上去跟家人商量，然后我就在楼下等他他说OK了，然后我才放心。对，然后很快就把钱打了OK.
-</p>
-<p class="transcript-line">
-<span class="time"><strong>[00:29:07]</strong> </span>
-<span class="speaker"><strong>发言人2: </strong></span>
-然后就是完成了一笔成功的收购。
-</p>
-<p class="transcript-line">
-<span class="time"><strong>[00:29:11]</strong> </span>
-<span class="speaker"><strong>发言人1: </strong></span>
-对。
-</p>
-<p class="transcript-line">
-<span class="time"><strong>[00:29:11]</strong> </span>
-<span class="speaker"><strong>发言人2: </strong></span>
-后来就是两款产品同时在跑，相当于你买的这款可以给你Monica去做一些导流。
-</p>
-<p class="transcript-line">
-<span class="time"><strong>[00:29:19]</strong> </span>
-<span class="speaker"><strong>发言人1: </strong></span>
-对，其实当时有一个很关键的选择是你到底是谁主谁次？或者换个逻辑，也有一些朋友说，你是不是可以把它升级成你的莫妮卡，对吧？就是你买了你有一个插件，你知道吧？他的用户基数直接升级过去，这是一个很核心的问题。
-</p>
-<p class="transcript-line">
-<span class="time"><strong>[00:29:35]</strong> </span>
-<span class="speaker"><strong>发言人1: </strong></span>
-这个问题我们花了很多时间讨论，他没有想象中那么简单，那背后实质是什么？你到底要不要自己建设自己的能力？最后我是还是Monica？是Monica。然后change for google本质上来说是我们觉得我们需要有能力，自己能够把一个产品的增长给做起来。所以其实一个误解是莫妮卡的增长都是可能有些同学听过一些传言，说是蔡吉夫倒过去了没有，其实他倒了一些用户，它最大的价值是帮我们完成了PMF的验证。就是因为你到底这个流程怎么样，这个是需要一定数量级的用户才能反映出来的对对，所以买过来之后，我们还是做莫妮卡，还是发布莫妮卡，然后当然用采集蜂库导入了一些初始用户，他帮我们去验证PMF水平。
-</p>
-<p class="transcript-line">
-<span class="time"><strong>[00:30:30]</strong> </span>
-<span class="speaker"><strong>发言人1: </strong></span>
-这是我第一次做海外产品，所以就学海外的一些做法。比方说很经典的问题说，如果世界上明天就没有了莫妮卡，会非常的遗憾吗？还是完全不care硅谷的这个说法是40%的人觉得是非常痛苦的话。那就基本上PMF我们第一版去测，大概35%的人觉得遗憾。
-</p>
-<p class="transcript-line">
-<span class="time"><strong>[00:30:50]</strong> </span>
-<span class="speaker"><strong>发言人1: </strong></span>
-到后来花了一个月，他到了55%，你就觉得OK PMF对test for google，对Monica的重要意义，主要是在验证PMF的这件事上。因为PMF是一个从0到1的过程，就没有就是没有你三个月没有，五个月、八个月可能都没有。但是一旦它初步的PMF之后，它就会进入到这个正向循环当中去，我觉得这个是很根本性的价值。对，然后之所以没有升级成莫妮卡这一方面，就是说可能用户也会confuse说怎么突然变成这个东西了。第二是我觉得我们的组织需要自己有增长能力。它短期可能会让我们慢一点，但是你让大家逼自己去积累这个能力，是一个长期更有价值的事情。
-</p>
-<p class="transcript-line">
-<span class="time"><strong>[00:31:33]</strong> </span>
-<span class="speaker"><strong>发言人2: </strong></span>
-理解。你的Monica就是你说的PMF验证的时候是大概几月份的时候。
-</p>
-<p class="transcript-line">
-<span class="time"><strong>[00:31:38]</strong> </span>
-<span class="speaker"><strong>发言人1: </strong></span>
-就三月份、四月份。
-</p>
-<p class="transcript-line">
-<span class="time"><strong>[00:31:40]</strong> </span>
-<span class="speaker"><strong>发言人2: </strong></span>
-所以到今天为止，这两款应用，它分别是一个什么样的用户量级增长或者带来的收入利润。
-</p>
-<p class="transcript-line">
-<span class="time"><strong>[00:31:47]</strong> </span>
-<span class="speaker"><strong>发言人1: </strong></span>
-Monica大概是几百万用户，然后大于采集风格。
-</p>
-<p class="transcript-line">
-<span class="time"><strong>[00:31:52]</strong> </span>
-<span class="speaker"><strong>发言人2: </strong></span>
-所以现在两个仍然是同时独立在运行，独立运行的。那两个都有很强的编辑能力。
-</p>
-<p class="transcript-line">
-<span class="time"><strong>[00:31:58]</strong> </span>
-<span class="speaker"><strong>发言人1: </strong></span>
-莫妮卡更强一些。原因是它更复杂一些，就是它所覆盖场景更多，check for google是一个很单纯的搜索场景的一个产品。
-</p>
-<p class="transcript-line">
-<span class="time"><strong>[00:32:08]</strong> </span>
-<span class="speaker"><strong>发言人2: </strong></span>
-对，然后我记得后来你其实沿着这个路径又聊了很多的独立开发者，然后还想做一些类似的事情，是吧？
-</p>
-<p class="transcript-line">
-<span class="time"><strong>[00:32:16]</strong> </span>
-<span class="speaker"><strong>发言人1: </strong></span>
-对，具体哪一家就不说了。当时这位独立开发者我看到他的产品的时候非常喜欢的，然后其实我们聊的挺好的，没什么问题，价格条款反正这个协议都ready了。对，但是那几天她可能刚好在别的地方，有另外一家公司刚好在别的地方，他们就签了。所以这个事看就说我自己复盘，我们前一次把作者送到楼下，然后等他后面那一次的话，其实大家在出差能远程，所以也就没有搞定。所以我觉得可能对我来说也是教训，如果他足够重要的话，应该更仔细一些。
-</p>
-<p class="transcript-line">
-<span class="time"><strong>[00:32:54]</strong> </span>
-<span class="speaker"><strong>发言人2: </strong></span>
-明白，所以这个是没有谈成的一个对。
-</p>
-<p class="transcript-line">
-<span class="time"><strong>[00:32:57]</strong> </span>
-<span class="speaker"><strong>发言人1: </strong></span>
-比较遗憾。
-</p>
-<p class="transcript-line">
-<span class="time"><strong>[00:32:58]</strong> </span>
-<span class="speaker"><strong>发言人2: </strong></span>
-所以莫妮卡这件事情你是怎么理解的？你后面到底要把它做成一家什么样的公司？
-</p>
-<p class="transcript-line">
-<span class="time"><strong>[00:33:03]</strong> </span>
-<span class="speaker"><strong>发言人1: </strong></span>
-我就觉得他就是AI小助手，它就像一个本科生今天帮你收东西查东西，这是通识技能对吧？然后你用的时间越长的时候，它会更了解你，你会沉淀很多数据给他。当然数据不是关键，千万不要把数据当做迁移的门槛，数据绝对不是迁移的门槛。你说不用哪个笔记软件就不用了，但是你能够有这些数据作为contest一起给IM，他能够给你差异化的体验，就落脚到体验上去。他就是你的特别的小助手了。对，这也很符合直觉。我觉得就好像你招一个本科生，第一天他只会干基础的办公活，但是他跟你的时间呆长了之后，他知道你这个喜好偏好读过什么，看过什么。
-</p>
-<p class="transcript-line">
-<span class="time"><strong>[00:33:49]</strong> </span>
-<span class="speaker"><strong>发言人2: </strong></span>
-因为像这种国内的电视剧里面，小助手到底怎么样？七一杯老板爱喝的咖啡是吧？这个奶和咖啡的比例到底是怎么样？
-</p>
-<p class="transcript-line">
-<span class="time"><strong>[00:33:58]</strong> </span>
-<span class="speaker"><strong>发言人1: </strong></span>
-我举个例子，比方说我的同事帮我订票，他永远是订F座的，为什么呢？因为他发现我买的时候每次都是买F座的。我觉得这actual就是一个技术搞定的一件事情。
-</p>
-<p class="transcript-line">
-<span class="time"><strong>[00:34:10]</strong> </span>
-<span class="speaker"><strong>发言人2: </strong></span>
-但你如果做个人助手，会不会担心各种大厂的竞争，吧？哪怕你做海外的google会怎么样，卖家会怎么样？微软已经有copilot对吧？包括最后的苹果会怎么样？他自己如果在手机上就已经预置了一个个人助手等等。
-</p>
-<p class="transcript-line">
-<span class="time"><strong>[00:34:23]</strong> </span>
-<span class="speaker"><strong>发言人1: </strong></span>
-是对我觉得我们没有用这样的视角去看这个问题。更多的是说你能够在现有的环境下做到多好。这个天花板到底在哪？我觉得今天他可能是很高的，当然更有可能确实某一天就被别人把这个天花板给摁得很低了。但是我觉得今天还是一个值得往前走的一个状态。所以说更多的还是思考我们自己和我们有没有进一步的解决客户的问题。
-</p>
-<p class="transcript-line">
-<span class="time"><strong>[00:34:52]</strong> </span>
-<span class="speaker"><strong>发言人1: </strong></span>
-我最近也跟一些大公司聊，我觉得大公司其实比我想象的更没想清楚。这可能是一个大家更不应该有犹豫的时候。所以我觉得还可以做upside。到今天为止，我觉得还没有看到一个迹象，是有人把它往下分的很矮的这个状态。
-</p>
-<p class="transcript-line">
-<span class="time"><strong>[00:35:08]</strong> </span>
-<span class="speaker"><strong>发言人1: </strong></span>
-他当赛的我觉得挺好的，逐步在提高当赛的对，反正我自己觉得我每天工作其实不断的提高。我的当赛的opposite是一个看命看运气，看各种环境的事情。有道理。对。
-</p>
-<p class="transcript-line">
-<span class="time"><strong>[00:35:23]</strong> </span>
-<span class="speaker"><strong>发言人2: </strong></span>
-是，但你提高当下的是说你的产品做的更好，还是用户量更大，还是商业化，还是什么都在这里面。
-</p>
-<p class="transcript-line">
-<span class="time"><strong>[00:35:29]</strong> </span>
-<span class="speaker"><strong>发言人1: </strong></span>
-你如果你有一天有1000万DAU，你再差也不会太差。
-</p>
-<p class="transcript-line">
-<span class="time"><strong>[00:35:32]</strong> </span>
-<span class="speaker"><strong>发言人2: </strong></span>
-然后现在莫妮卡本身就是应该说今年以来一直基本是赚钱的一个状态。对，他赚钱主要是靠广告和用户付费付费，主要还是付费来赚钱。
-</p>
-<p class="transcript-line">
-<span class="time"><strong>[00:35:44]</strong> </span>
-<span class="speaker"><strong>发言人1: </strong></span>
-对，因为我觉得这一次AI可能也是商业模式上跟原来不太一样。因为可能从显卡到算力都是贵的。所以除了大厂发布的那些产品以外，独立开发做的很多东西都是直接上来收费的，就是订阅。对，然后我觉得这可能是一个好现象，也比较适合老司机。因为这个很复杂，又涉及到定价什么的。
-</p>
-<p class="transcript-line">
-<span class="time"><strong>[00:36:09]</strong> </span>
-<span class="speaker"><strong>发言人2: </strong></span>
-我整体感觉其实你因为你之前去上一家公司是做SaaS，然后卖掉了。对，然后在你这次创业的很多的历程和思考，我觉得其实还挺偏投资人思路的。是吧就是你会top down的去梳理OK你会通过买公司来去，但这个买公司可能我觉得已经超过投资人思维。还挺少听到一家创业公司在很早期的时候是通过一些金融的手段，收购公司手段来去做业务增长。是啊，我不知道你这套东西是其实背后有什么一个过程形成你现在这种操作方法跟对管理、组织思考还是怎么样。
-</p>
-<p class="transcript-line">
-<span class="time"><strong>[00:36:46]</strong> </span>
-<span class="speaker"><strong>发言人1: </strong></span>
-我觉得CEO本身就是在做各种样的投资，比方说你决定招一个这样的人，然后你决定做这一块业务，他可能事实上就是一个投资行为。只是很多方的他在day one的时候，他没想这他是有一个idea，然后把自己投进去，然后解决这些问题。所以这可能就是我想学的一个技能点。所以其实看了很多相关的材料，而且在看这些故事这个文章内容的时候，我会格外的去注意这件事。我随便举几个例子，比方说我当时看那个详谈讲那个boss直聘，他可能刚融了一笔钱，就去把一个做这个职业点评的网站给买买了过来。我觉得这是一个特别厉害的一个操作，对我这个。
-</p>
-<p class="transcript-line">
-<span class="time"><strong>[00:37:32]</strong> </span>
-<span class="speaker"><strong>发言人2: </strong></span>
-对应性非常强的这。
-</p>
-<p class="transcript-line">
-<span class="time"><strong>[00:37:34]</strong> </span>
-<span class="speaker"><strong>发言人1: </strong></span>
-是一个一个案例。第二去大家看一本书，就是看金钱博弈。来讲泰蒙的这个老板早年的时候怎么去把韩国第一银行买下来。这本书我很推荐大家看啊。虽然那个体量的钱和这个交易对手他是韩国政府，可能我们早期创业者大部分都没有这样的机会。但是我是发给他，我说看这本书治好了我的这个内耗。
-</p>
-<p class="transcript-line">
-<span class="time"><strong>[00:38:01]</strong> </span>
-<span class="speaker"><strong>发言人1: </strong></span>
-因为你可能看到第30页的时候，觉得这个第二就已经搞定了。但后面又出现各种各样的问题，反反复复各种各样的去改条款，或者是各种的人际问题，这个你会怎么处理？对吧？然后我看的时候我的感受就是这么难，这么复杂，甚至很多时候你都觉得这个地方要黄掉了。对，但是最后搞定了。而且买完之后，他过几年很成功的退出了，赚了很多钱，所以这又是一本书。
-</p>
-<p class="transcript-line">
-<span class="time"><strong>[00:38:30]</strong> </span>
-<span class="speaker"><strong>发言人1: </strong></span>
-然后再有年初的时候是腾讯组织的一个活动去安踏。他们讲他们怎么去把安踏在单一的品牌，通过并购这种手段变成了多品牌的一个公司。安踏的两个案例我觉得印象都很深。一个是并购亚马逊，就是始祖鸟那个牌子。很多文章都有讲，我觉得就不赘述了让我印象更深的其实是菲拉，具体哪一年我忘了，可能09之类的和0709年当时可能已经有了安踏了，很不错了。对，但是他们觉得可能需要一个品牌定位更高的一个产品。
-</p>
-<p class="transcript-line">
-<span class="time"><strong>[00:39:08]</strong> </span>
-<span class="speaker"><strong>发言人1: </strong></span>
-然后就看到菲拉这个品牌，它的点很有意思，就是国内是没有店的。菲拉在国内是没有店，他们觉得挺好，没有被污染过。如果有别人先经营了一下，然后如果乱经营的话，其实消费者对这个品牌的印象就不好。他说这个没有在国内没有，但是在国外你会看到很多上个时代的一些明星，他可能穿菲拉的这样的照片，港台的或者国外的对，这个就是他的品牌的源头。所以我理解就是说他们对品牌这件事情理解是非常深的，因为他们才把安踏做起。那按理说我可以单独再做个新品牌，不他花了很多钱去买了菲拉的品牌在中国的这个经营权和使用权。
-</p>
-<p class="transcript-line">
-<span class="time"><strong>[00:39:53]</strong> </span>
-<span class="speaker"><strong>发言人1: </strong></span>
-第二是安踏实际上有很多代理，就是经销商之类的加盟商。但是菲拉他们用高端线，他就决定是纯纯自营，然后也可以对库存有更好的管理。对，所以全部是自营的，所以这个启发倒不是具体这两个事儿。我觉得厉害的点在于说它是跳出了它原有的东西。比方说你原来可能是做过品牌的时候，我不再做一个品，我买一个品牌，我原来是经销商的，我不再复用经销商，我用自营的方式。这个过程他对原来的那个事情的优势和劣势都很理解，然后再去做了一个新的尝试，可能团队也得到了提升，我觉得是非常厉害。
-</p>
-<p class="transcript-line">
-<span class="time"><strong>[00:40:35]</strong> </span>
-<span class="speaker"><strong>发言人2: </strong></span>
-对，但这种我感觉一般都是比较大规模体量的才会做这样的事情。这样他我觉得一方面是他资金的量级是足够的，是另外他其实到那个层次还是格局打开的。是对，但大多数创始人我觉得在早期的时候，可能就是钱也不够多，就是埋头做好自己的手头的事情。对，但你是觉得说其实在开头的时候有一些这样的不一样的思路还是挺好。
-</p>
-<p class="transcript-line">
-<span class="time"><strong>[00:40:59]</strong> </span>
-<span class="speaker"><strong>发言人1: </strong></span>
-对，或者大家也得警惕一点，就是你天天脑子只有这件事对，这个也废掉了，这个也是有问题。
-</p>
-<p class="transcript-line">
-<span class="time"><strong>[00:41:05]</strong> </span>
-<span class="speaker"><strong>发言人2: </strong></span>
-就变成对，就真变成战略或者投资型的创始人就也废了。
-</p>
-<p class="transcript-line">
-<span class="time"><strong>[00:41:09]</strong> </span>
-<span class="speaker"><strong>发言人1: </strong></span>
-对，这也是不对的。应该你把它当做你有更多的工具。比方说你招聘是一个工具，对吧？你会组织人是一个工具，你会做产品是个工具，那你会买东西也是一个工具，你会用了更多工具，这是一个技能点对。
-</p>
-<p class="transcript-line">
-<span class="time"><strong>[00:41:25]</strong> </span>
-<span class="speaker"><strong>发言人2: </strong></span>
-但这个我想到跟那个炒股有点像，就你的工具越多，其实对有的来讲，你的亏钱的手段就越多。
-</p>
-<p class="transcript-line">
-<span class="time"><strong>[00:41:32]</strong> </span>
-<span class="speaker"><strong>发言人1: </strong></span>
-对，所以你要谨慎，可能也需要练习。
-</p>
-<p class="transcript-line">
-<span class="time"><strong>[00:41:34]</strong> </span>
-<span class="speaker"><strong>发言人2: </strong></span>
-但我觉得你是有个特点，就是你刚才其实小提过一下，就是你对于赚钱这件事情是很有信心的。那你对于赚钱这件事是有追求也有信心的。很少有创始人会在中间想到说我需要我要去加盟一家咖啡店，来为公司每个月赚50万现金流，但你的这个意识我觉得是很强的。
-</p>
-<p class="transcript-line">
-<span class="time"><strong>[00:41:53]</strong> </span>
-<span class="speaker"><strong>发言人1: </strong></span>
-这件事情可能在资本环境差的时候是最值得说。但是更多时候，比方在可能十年前你这样说的话，大家可能觉得你不务正业。对我觉得最核心是要你适应当前的环境，它是一个还是工具箱逻辑，然后今天你让我再去开一个，这个是我觉得我就在浪费我的机会成本了。对。
-</p>
-<p class="transcript-line">
-<span class="time"><strong>[00:42:13]</strong> </span>
-<span class="speaker"><strong>发言人2: </strong></span>
-那你像你把那个chat beauty for google收过来，包括你帮你看，其实都是比较早就开始做变现了对吧？就是你你觉得你是一个擅长赚钱的人吗？
-</p>
-<p class="transcript-line">
-<span class="time"><strong>[00:42:23]</strong> </span>
-<span class="speaker"><strong>发言人1: </strong></span>
-我觉得变现很重要。我觉得商业化这件事情在很大程度上在中国的方的里面，我不知道是有意还是无意的，就是被很少的讨论。
-</p>
-<p class="transcript-line">
-<span class="time"><strong>[00:42:32]</strong> </span>
-<span class="speaker"><strong>发言人2: </strong></span>
-对，尤其是在就是我就在融资的方式里面。
-</p>
-<p class="transcript-line">
-<span class="time"><strong>[00:42:37]</strong> </span>
-<span class="speaker"><strong>发言人1: </strong></span>
-对，为什么呢？因为反正我的感受，刚才也说了，AI这一步大家都愿意付钱，对吧？而且本身也有成本，所以应该不太有人，除非真的是巨头非常下大决心，他有别的计算方式了。但是我觉得这波的创业者应该更早的问自己商业化的东西。因为原来没成本的时候你都要更早的问，你现在有成本那应该更早问。
-</p>
-<p class="transcript-line">
-<span class="time"><strong>[00:43:01]</strong> </span>
-<span class="speaker"><strong>发言人1: </strong></span>
-某种程度上来说，我自己觉得商业化跟增长是非常正向相关的。就之前有位投资人问我，这个商业化会影响增长？我说不会，你商业化越牛逼，你真越牛逼。对，这个可能有点反直觉，但事实上就是这样子。比方说我也没有数据，也没有跟自己的早期员工聊过。但是我觉得他们可能很早就已经挺挣钱的，就是单纯看今日头条这个缓存。
-</p>
-<p class="transcript-line">
-<span class="time"><strong>[00:43:25]</strong> </span>
-<span class="speaker"><strong>发言人2: </strong></span>
-对，而且我觉得核心是ROI肯定是要大于一。
-</p>
-<p class="transcript-line">
-<span class="time"><strong>[00:43:28]</strong> </span>
-<span class="speaker"><strong>发言人1: </strong></span>
-对你有更多钱，你可以用更好的人，你的组织能力会更强，甚至你RY是正的对吧？你投一块钱投出去，然后回来三块钱，那你就无限游戏了。所以我是觉得商业化能力是决定了增长能力的。否则的话VC市场上去融钱，首先AI这一波可能也会更困难一些。第二是我觉得可能也不持久。对，真正意义上会把钱给你，钱不需要你还回来的只有用户。
-</p>
-<p class="transcript-line">
-<span class="time"><strong>[00:43:57]</strong> </span>
-<span class="speaker"><strong>发言人2: </strong></span>
-好吧，所以其实刚才我们也提到，就是现在国内其实过去这么多年，大多数创始人还是一个增长和融资的逻辑，对吧？大家其实挺少是回到一个赚钱的逻辑里面来。但未来几年的市场应该会越来越多的。
-</p>
-<p class="transcript-line">
-<span class="time"><strong>[00:44:12]</strong> </span>
-<span class="speaker"><strong>发言人1: </strong></span>
-回到赚钱的逻辑。
-</p>
-<p class="transcript-line">
-<span class="time"><strong>[00:44:14]</strong> </span>
-<span class="speaker"><strong>发言人2: </strong></span>
-那你上一份创业的时候，你赚钱的能力也是OK的吗？还是从这一份开始。
-</p>
-<p class="transcript-line">
-<span class="time"><strong>[00:44:20]</strong> </span>
-<span class="speaker"><strong>发言人1: </strong></span>
-对我上一次创业其实做了两个产品。第一个产品我确实是把它做到赚钱的，然后再孵化出了第二个产品。所以其实赚钱能力是在那个时候被训练出来。
-</p>
-<p class="transcript-line">
-<span class="time"><strong>[00:44:32]</strong> </span>
-<span class="speaker"><strong>发言人2: </strong></span>
-但那个时候也是拿了融资。
-</p>
-<p class="transcript-line">
-<span class="time"><strong>[00:44:34]</strong> </span>
-<span class="speaker"><strong>发言人1: </strong></span>
-对，拿到融资。但是你可以认为拿很少融资，而且融资都花完了，然后不得不赚钱。
-</p>
-<p class="transcript-line">
-<span class="time"><strong>[00:44:39]</strong> </span>
-<span class="speaker"><strong>发言人2: </strong></span>
-对我这是我想问的，其实有的时候还是要被逼一下，我觉得这个也是为什么我们总讲说市场不好的时候能出来更伟大的公司。因为它的组织结构，它的这个商业模式可能都更健康一些。是其实。
-</p>
-<p class="transcript-line">
-<span class="time"><strong>[00:44:53]</strong> </span>
-<span class="speaker"><strong>发言人1: </strong></span>
-对我觉得在钱泛滥的时候，大家也容易做错误的决策，或者说一些应该被重要的审视的问题，就更容易的随意的去看待。而且再包括资本导向的竞争心态之类的，我觉得都会在企业经营上带来很大的问题。
-</p>
-<p class="transcript-line">
-<span class="time"><strong>[00:45:13]</strong> </span>
-<span class="speaker"><strong>发言人2: </strong></span>
-那你现在自己最关心的是什么东西？
-</p>
-<p class="transcript-line">
-<span class="time"><strong>[00:45:18]</strong> </span>
-<span class="speaker"><strong>发言人1: </strong></span>
-我说组织你相信吗？
-</p>
-<p class="transcript-line">
-<span class="time"><strong>[00:45:20]</strong> </span>
-<span class="speaker"><strong>发言人2: </strong></span>
-我猜到了，你大概会说这个。
-</p>
-<p class="transcript-line">
-<span class="time"><strong>[00:45:22]</strong> </span>
-<span class="speaker"><strong>发言人1: </strong></span>
-对，因为我觉得AI这一波变还是技术变化太大了。我们追求一些不变的东西，我们把适应这个环境下，不管是资本环境还是技术环境下的团队搭建好，我觉得是一个无悔行动。
-</p>
-<p class="transcript-line">
-<span class="time"><strong>[00:45:35]</strong> </span>
-<span class="speaker"><strong>发言人2: </strong></span>
-是然后你做了一年，应该也算是最大的用户体量的AI公司之一。对吧？你现在是怎么看AI这件事情。
-</p>
-<p class="transcript-line">
-<span class="time"><strong>[00:45:44]</strong> </span>
-<span class="speaker"><strong>发言人1: </strong></span>
-我觉得它变化还会很快。对。
-</p>
-<p class="transcript-line">
-<span class="time"><strong>[00:45:47]</strong> </span>
-<span class="speaker"><strong>发言人2: </strong></span>
-但大家都觉得近几个月应该是变化慢了一些了。
-</p>
-<p class="transcript-line">
-<span class="time"><strong>[00:45:51]</strong> </span>
-<span class="speaker"><strong>发言人1: </strong></span>
-怕就怕这个，举个例子，比方说你看像那个造图对吧？去年这个时候我跳进去看的时候，我靠太夸学术界工业界天天变化。对，分享一个小技巧，这个资本圈上头的事不一定是对的事，但是学术界和工业界变化很快的，是应该要多注意一下。或者我就从世界观上来说，很多机会和变化它就是非连续的，它不是那种线性变化，它可能是跳变的。所以在这种时候你最好做一些假设。然后对我来说，我就会经常问M如果有什么能力发生了，对我来说是会跳变的。我觉得在这一波里面它变化会很快。然后一个比较巧妙的方式就是可以问自己说有什么变化一旦发生他会很了不起。
-</p>
-<p class="transcript-line">
-<span class="time"><strong>[00:46:36]</strong> </span>
-<span class="speaker"><strong>发言人2: </strong></span>
-然后仔细去观察这件事情。所以刚才那个问题你自己有答案吗？什么东西变了会是一个。
-</p>
-<p class="transcript-line">
-<span class="time"><strong>[00:46:42]</strong> </span>
-<span class="speaker"><strong>发言人1: </strong></span>
-跳变的一个比方说幻觉解决很重要。如果是国内的话，我觉得明年可能大家都到3.5水平了。或者一些开源的模型到了3.5水平，那很多事也是能做的。比方企业级服务，很多大企业合规要求很高的企业，它是不愿意说我用API这种方式去使用的。但是如果开源的可以深化部署的模型能够到达3.5的水平，很多生意它可能就成立了。
-</p>
-<p class="transcript-line">
-<span class="time"><strong>[00:47:07]</strong> </span>
-<span class="speaker"><strong>发言人2: </strong></span>
-所以你觉得明年的AI市场还是会快速变化，有很多机会的。
-</p>
-<p class="transcript-line">
-<span class="time"><strong>[00:47:12]</strong> </span>
-<span class="speaker"><strong>发言人1: </strong></span>
-我觉得我刚才说那几个事明天可能都会发生，所以我觉得他带来的这个机会和竞争难度其实应该是大于今年的。
-</p>
-<p class="transcript-line">
-<span class="time"><strong>[00:47:20]</strong> </span>
-<span class="speaker"><strong>发言人2: </strong></span>
-就明年会好几跳，哼没比希望是啊。
-</p>
-<p class="transcript-line">
-<span class="time"><strong>[00:47:25]</strong> </span>
-<span class="speaker"><strong>发言人1: </strong></span>
-另外我最近在说产品设计这个事儿，就是为什么我关注旧的这些workflow，然后旧的场景就得重新被做。你想象一个轴，它最左侧是完全没有AI的产品，那最右边的是大家脑补出来的AGI，然后用对话或者是这个language UI就能够搞定所有事情的。是对，这是一个二元的一个轴对吧？有一些SARS公司，它开始集成了AI，我觉得他是在这个点往这里走了一点点。是对，但是我觉得这还不够好。这个像什么呢？像因为它还是有一些lexi，使得它的他他原有的我说了他往往里加吗？是我觉得还有一个点是你脑子得one设计的时候就有LM了，但是你还是把那个workflow做一遍。
-</p>
-<p class="transcript-line">
-<span class="time"><strong>[00:48:17]</strong> </span>
-<span class="speaker"><strong>发言人1: </strong></span>
-还有一个类比，我们想象一下，这可能是一个传统的燃油车。这个是大家幻想科幻电影里面的2030年的汽车会长大，是用概念车会飞的。然后这些人就像传统的燃油车公司去开始做电动车或者做智能车。这些是我脑子里就是有智能有电动，然后从成为定义汽车。但这个汽车还是一个汽车，不是会飞的汽车，但是它它是不一样的。所以我想表达的点是说，所谓的AI native产品，就传统的这个workflows加压已经有人做了，幻想中的这个agent的这个也有人在做。但我觉得往前退半步，就是那个脑子里已经有AI，但是重新设计workflow这件事没什么能做，我在做。
-</p>
-<p class="transcript-line">
-<span class="time"><strong>[00:49:05]</strong> </span>
-<span class="speaker"><strong>发言人2: </strong></span>
-明白有没有一个具体的产品上的例子是这种退半步的。其实你讲就一种是传统的fo加AI一种就是AI加一个什么东西，对吧？那你们自带比如各占五成的感觉。
-</p>
-<p class="transcript-line">
-<span class="time"><strong>[00:49:20]</strong> </span>
-<span class="speaker"><strong>发言人1: </strong></span>
-我举个例子，比方说你看就像policy它就是很典型，我觉得是这样，他还是个数，但是没有AI的时候它不存在，它没有一个lexi的这个worker。然后他也不是纯说我就是个机器人，你问我任何问题我就都能答。对，所以我开始对我来说就是这个解。
-</p>
-<p class="transcript-line">
-<span class="time"><strong>[00:49:37]</strong> </span>
-<span class="speaker"><strong>发言人2: </strong></span>
-所以你觉得未来大家是更需要用这种思路来去找什么事情都可以做对。
-</p>
-<p class="transcript-line">
-<span class="time"><strong>[00:49:42]</strong> </span>
-<span class="speaker"><strong>发言人1: </strong></span>
-我觉得这种思路是会有很多很有趣的东西出来。
-</p>
-<p class="transcript-line">
-<span class="time"><strong>[00:49:47]</strong> </span>
-<span class="speaker"><strong>发言人2: </strong></span>
-但你看你其实是一个传统的SaaS创业者，对吧？可以这么讲，对我在想是到底什么样的人比较适合用这种思路。因为如果他仍然是在做传统的SARS，对，可能下意识的就会在传统的上往上去加AI对吧？所以但就只能他从0到1去build一个东西。
-</p>
-<p class="transcript-line">
-<span class="time"><strong>[00:50:06]</strong> </span>
-<span class="speaker"><strong>发言人1: </strong></span>
-我觉得就是应该从。
-</p>
-<p class="transcript-line">
-<span class="time"><strong>[00:50:08]</strong> </span>
-<span class="speaker"><strong>发言人2: </strong></span>
-0到1就好像你买的那个还是要把莫妮卡发出。
-</p>
-<p class="transcript-line">
-<span class="time"><strong>[00:50:11]</strong> </span>
-<span class="speaker"><strong>发言人1: </strong></span>
-来堵这里是很好的，哪怕是从VC视角对吧？有了AI之后，你也别往那么A简单的方向去，然后加上一些workforce能力。那样的话可能会我觉得今天或者是一段时间内，他的片面服都很好。这个信念来自于哪里呢？来自于我认为只要设备没有变化，然后还是手机，还是电脑，那么传统GUI的那些能力还是非常重要的。
-</p>
-<p class="transcript-line">
-<span class="time"><strong>[00:50:37]</strong> </span>
-<span class="speaker"><strong>发言人2: </strong></span>
-非常重要的对，我们也跟在很很好几个场合讲过，除非是vrar时代真来的，可能才会有一个特别大的变化。是对当下其实就是应该是一个图形界面和对话结合的是一个场景。是对。但大家应该还没有看到一个特别惊艳的完美的案例，是大家可以去抄的。是现在也有些类似莫妮卡的这种工具和软件，对吧？你会担心其他这些竞争吗？
-</p>
-<p class="transcript-line">
-<span class="time"><strong>[00:51:03]</strong> </span>
-<span class="speaker"><strong>发言人1: </strong></span>
-我不太用竞争视角来看问题。你看贝索斯他在给股东的信里面是这么描述的，说我们跟竞争对手关系是什么呢？我们通过观察竞争对手做了什么事情，而来思考我们怎样更好的服务客户。我觉得就是应该用这样的视角去看待问题。如果我们真的做不出更好的，或者说我们真的持续比别人烂，那我们就应该消亡，这是规律。
-</p>
-<p class="transcript-line">
-<span class="time"><strong>[00:51:29]</strong> </span>
-<span class="speaker"><strong>发言人2: </strong></span>
-对，我觉得聊到这，我大概理解你的一个底层的一个逻辑。其中一点就是还是要为用户服务，对吧？就是我哪怕说我怎么套可到极致也好，我借鉴其他的产品到极致，但最终只要用户觉得说这个东西好，它其实就是好。但我觉得这个是一个点。另外一个点我也感觉就是你是很敢于和善于向用户收费？你觉得我完成了用户的需求，我解决了你的问题。对，本来我就是可以收到这个钱。
-</p>
-<p class="transcript-line">
-<span class="time"><strong>[00:51:58]</strong> </span>
-<span class="speaker"><strong>发言人1: </strong></span>
-对我觉得核心都是要要创造用户价值。用户价值一旦有了之后，商业化就是一个我觉得这个交换是一个很正常的一个交换。
-</p>
-<p class="transcript-line">
-<span class="time"><strong>[00:52:07]</strong> </span>
-<span class="speaker"><strong>发言人2: </strong></span>
-所以现在如果让你跟一个用户讲说莫妮卡的价值到底跟比如GPT或者其他的类似的插件产品比的话，它最强的地方到底在哪儿？你会怎么说？
-</p>
-<p class="transcript-line">
-<span class="time"><strong>[00:52:16]</strong> </span>
-<span class="speaker"><strong>发言人1: </strong></span>
-今天可能是更方便，未来我希望能做到更懂你你跟GPT比起来。
-</p>
-<p class="transcript-line">
-<span class="time"><strong>[00:52:21]</strong> </span>
-<span class="speaker"><strong>发言人2: </strong></span>
-插件肯定是方便的对，那你跟其他插件比起来的。
-</p>
-<p class="transcript-line">
-<span class="time"><strong>[00:52:25]</strong> </span>
-<span class="speaker"><strong>发言人1: </strong></span>
-我觉得某种意义上来说all in one很重要。别人也某个单点可以作为功能去做一个插件。但你会发现其实它是有一些问题的。第一，刚刚说的分发问题，如果都是像咱们这个职业的人天天去搜索，天天去寻找，当然没有问题。但这个是early adopt饿了么家里是不会就按跨越鸿沟理论，早期大众是不会天天去找这些产品的。所以这个时候你更应该关注他的可获得性，就是他怎么能够有了一个魔法之后，他得到快速的得到第二个魔法。对，所以我觉得第一，你装完莫妮卡之后，很多魔法会被集成进来，这是一个好处。
-</p>
-<p class="transcript-line">
-<span class="time"><strong>[00:53:06]</strong> </span>
-<span class="speaker"><strong>发言人1: </strong></span>
-第二，是你看很多零零散散的产品，它数据也不互通的。明明你读过的东西存下来之后，你下载问题的时候可以得到更好的体验。数据没有通，甚至他们的UI都长得不一样。你如果装五个插件你是受不了的，你绝对受不了。就是你会发现可能很多网页上它就打架了。
-</p>
-<p class="transcript-line">
-<span class="time"><strong>[00:53:27]</strong> </span>
-<span class="speaker"><strong>发言人1: </strong></span>
-所以我是觉得all in one的思路从用户价值上来说是更强的。对于用的用户来说，他一致的体验UI是一致的数据是打通功能。他可以在同样的问题上有更多的上下文，获取更好的体验。对他也不用再去寻找，不用多次去on board，多次去注册账号。所以我觉得这就是莫妮卡一直在做的一件事儿。
-</p>
-<p class="transcript-line">
-<span class="time"><strong>[00:53:52]</strong> </span>
-<span class="speaker"><strong>发言人2: </strong></span>
-也许我们聊完了后面大家就都去做独立开发者，都去开发插件，然后东西都卖给你挺好。
-</p>
-<p class="transcript-line">
-<span class="time"><strong>[00:53:59]</strong> </span>
-<span class="speaker"><strong>发言人1: </strong></span>
-对，这对我来说是好事。
-</p>
-<p class="transcript-line">
-<span class="time"><strong>[00:54:01]</strong> </span>
-<span class="speaker"><strong>发言人2: </strong></span>
-是最后面欢迎这个独立开发者联系我们，联系小红。好，感谢小红今天的时间。
-</p>
-<p class="transcript-line">
-<span class="time"><strong>[00:54:08]</strong> </span>
-<span class="speaker"><strong>发言人1: </strong></span>
-谢。
-</p>]]></content:encoded>
-            <pubDate>Sat, 23 Dec 2023 16:00:00 GMT</pubDate>
-            <guid>6586ca30157cd445eebb399c</guid>
         </item>
     </channel>
 </rss>
