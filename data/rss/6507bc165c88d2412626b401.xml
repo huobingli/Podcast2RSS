@@ -4,7 +4,1911 @@
         <title>屠龙之术</title>
         <link>https://www.xiaoyuzhoufm.com/podcast/6507bc165c88d2412626b401</link>
         <description>科技创业与投资相关的”屠龙之术“</description>
-        <lastBuildDate>Wed, 23 Apr 2025 04:50:22 +0800</lastBuildDate>
+        <lastBuildDate>Wed, 14 May 2025 18:24:58 +0800</lastBuildDate>
+        <item>
+            <title>Vol.59 2025 AI-Agent年，行业走向何方---狂喜播客节-贰狂</title>
+            <link>https://www.xiaoyuzhoufm.com/episode/6824330324f855934686b8da</link>
+            <description>这是一场发生在狂喜播客节贰狂的对谈，
+对谈的嘉宾分别是：
+* Ailing小狼：计算机历史博物馆 主播，大厂技术战略和产品负责人
+* 朱峰：科技乱炖 主播，津津乐道播客网络创始人，产品及技术专家
+* 于欣烈：叭叭呜 主播，知名汽车/科技博主
+* 庄明浩：屠龙之术 主播，互联网公司战略/投资负责人
+两天的播客节中，我参与了4场对谈，而这场是唯一一场我作为发起人的对谈。
+在两天整100场正式对谈（还有两场非正式对谈和闭幕式）中，有11场对谈在标题中就带有AI这个标签；
+而这11场对谈中的绝大部分其实集中在了偏“人文”的软性角度，
+所以在准备这场对谈的时候，我特意避开了这些大家可能都想聊但其实聊不出什么结论的话题。
+我甚至为这场对话准备了提纲
+当天现场我们大部分讨论的内容是跟这个提纲走的，当然最后因为时间原因并没有把所有问题都聊到。
+我也知道大部份听众听播客不是为学真正意义上的“知识”的，
+但任性的我还是绝对在这样一个空间中进行一次尝试……
+以及大概率，年底的贰狂plus（11月1-2日）我会和关老师要一个小一点的厅，做一场更硬核的专场尝试；
+初步计划是讲截止到那个时间点的25年AI行业综述，就像我去年做的AI行业年终总结一样……
+100页+的PPT，个人solo，1个半小时的时长，就当是我的再一次任性。
+（想加粉丝群的请先+微信：rosicky311)
+【时间线】
+04:16 嘉宾自我介绍
+第一章：技术部分
+07:52 Agent的概念理解
+13:52 大模型技术发展的趋势
+19:22 开源 VS 闭源
+25:30 中国与美国在生态上的不同
+30:15 一些热门的关键词：MCP/A2A、多模态、上下文记忆
+35:17 新闻联播中的一帧
+36:46 从“语言”到“行为”
+38:06 自然世界的AI渗透---VLA
+第二章：产品部分
+39:48 开始产品的叙事
+41:53 对于“通用”Agent的“通用”质疑
+49:58 交给Agent一个什么任务？
+54:32 AI coding
+1:02:45 Coding工具其实也是好的写作工具
+1:03:42 IDE会是新的“入口”么？
+1:04:32 如何看“套壳”？
+1:07:24 产品叙事会有么？
+第三章：产业/行业/资本
+1:08:11 干一票大的 VS 作坊
+1:14:15 自动驾驶的L3 VS AI的L3
+1:21:51 英伟达还能买吗？
+1:26:21 当前世界上的数据很多并不是为AI准备的
+1:27:55 中美AI差距
+1:29:33 Agent这个关键词是否适合写在PR文章和融资PPT里？
+1:31:25 让我们所有这些内容封存在这个对话的空间里
+音乐：AI音乐工具天谱乐生成
+【播客简介】
+屠龙之术是一档关注科技、互联网、风险投资的播客，
+主播庄明浩是一个游走在互联网和风险投资行业的边缘人士。
+其工作多年所积累的认知似乎都成为了某种意义上的”屠龙之术“……
+或许某天再有新的“龙”出现的时候，就是这档播客停更之时。</description>
+            <content:encoded><![CDATA[<h1>转写链接</h1>
+<link>https://tongyi.aliyun.com/efficiency/doc/transcripts/gpjbqkyxebmenk2a</link><br>
+<h1>节目摘要</h1>
+<div class="summary">本次讨论广泛覆盖了人工智能（AI）在智能汽车行业的应用，特别是自动驾驶技术，突出了AI如何提升专业人员的工作效率并实现技术的规模化应用。讨论详细分析了从L1到L5不同级别的自动驾驶技术，及其在实际应用中面临的挑战和限制。此外，对话还探讨了AI在产品设计、市场营销及投资领域的挑战和机遇，强调了AI agent的使用和市场接受度。活动还涉及了中美在AI技术发展上的差异，以及政策对AI行业发展的影响。最后，通过第三届狂喜播客节，展示了对AI话题的关注，强调了AI在播客内容创作中的重要性，并分享了技术发展、产品趋势以及行业资本等方面的深入见解。这次讨论不仅加深了对AI技术的理解，还探索了其在播客行业及更广泛领域的创新应用。</div><br>
+<h1>章节速览</h1>
+<div class="chapters">
+<div class="chapter-item">
+<span class="time"><strong>[00:00:00]</strong> </span>
+<span class="chapter-title"><strong>第三届狂喜播客节AI行业对话</strong></span>
+<div class="chapter-summary">在这场对话中，感谢了小红书、滴滴企业版飞书、微博音频对第三届狂喜播客节的支持。组织者和参与者讨论了关于AI的话题在活动中的普遍性，并强调本次对谈将聚焦于行业内的硬核干货，而非人文向的讨论。组织者询问了在场听众的技术背景，并决定让几位主播先做自我介绍后，正式开始主题讨论。</div>
+</div>
+<div class="chapter-item">
+<span class="time"><strong>[00:04:23]</strong> </span>
+<span class="chapter-title"><strong>技术与播客：从AI到智能电动汽车的跨界对话</strong></span>
+<div class="chapter-summary">小狼、朱峰和于先烈分别分享了他们在大厂技术战略、播客网络运营及智能电动汽车行业的经验。小狼专注于数据与AI领域的底层技术和应用，朱峰介绍了津津乐道播客网络的内容与技术业务，以及利用AI技术提供创作者服务的生态平台。于先烈则以其在智能电动汽车行业的背景，探讨了该领域的技术和商业趋势。三人围绕技术、产品创新和市场应用展开了深入交流。</div>
+</div>
+<div class="chapter-item">
+<span class="time"><strong>[00:06:25]</strong> </span>
+<span class="chapter-title"><strong>2025年AI Agent行业走向探讨</strong></span>
+<div class="chapter-summary">庄明浩与几位老师围绕2025年AI Agent行业的发展进行了深入讨论，从技术发展、产品趋势到行业商业和资本的多个板块进行了分析。讨论涵盖了AI Agent概念、当前产品的趋势以及行业可能的未来方向。通过对话，各方向专家分享了他们对于AI Agent在科技行业中的影响和预期的看法。</div>
+</div>
+<div class="chapter-item">
+<span class="time"><strong>[00:08:29]</strong> </span>
+<span class="chapter-title"><strong>从智能体（agent）到AGI：AI技术的演进与应用</strong></span>
+<div class="chapter-summary">对话讨论了OpenAI提出的从大模型到AGI（通用人工智能）的路径，特别是智能体（agent）的概念。智能体在L3层中加入了action能力，使其不仅具备基础模型的揣测需求能力，还能执行一些具体任务，这与传统的自动化工具相比，有了一定的自主性。尽管从技术角度看，智能体并未引入特别深奥的元素，但其概念跨越了技术层面，进入业务应用层面，触及更多非技术人士，这标志着AI从基础设施技术层面跃升至应用层面，引发了更广泛的讨论和应用前景。</div>
+</div>
+<div class="chapter-item">
+<span class="time"><strong>[00:10:14]</strong> </span>
+<span class="chapter-title"><strong>AI Agent的现状与未来发展</strong></span>
+<div class="chapter-summary">讨论围绕AI agent在当前技术实现和产品应用中的实际能力和预期展开了。发言者认为，短期内AI agent的能力被高估，而长期看则可能被低估。他们指出，尽管AI agent在工程化实现和产品应用方面取得进展，但普通人与AI的有效应用之间仍存在巨大的鸿沟。此外，讨论还涉及AI agent的定义和特性，以及模型技术的未来发展，包括对GPT5等新模型的期待和预测。</div>
+</div>
+<div class="chapter-item">
+<span class="time"><strong>[00:14:43]</strong> </span>
+<span class="chapter-title"><strong>AI Agent的未来及其在系统架构中的角色</strong></span>
+<div class="chapter-summary">对话围绕AI Agent在过去一年的发展以及其在未来的系统架构中的潜在角色展开。讨论者分享了个人认知的更新，认为AI Agent从最初被视为自动化延伸到现在可能彻底改变IT系统架构，实现更高效、自闭环的业务解决方案。此外，提到了开源大模型对加速AI技术进步的重要作用，以及开源社群和共识在推动这一进程中的关键角色。尽管未来的具体实现时间难以预测，但共识认为开源和社群将显著推动AI Agent的发展和应用。</div>
+</div>
+<div class="chapter-item">
+<span class="time"><strong>[00:19:22]</strong> </span>
+<span class="chapter-title"><strong>大模型开源与闭源的转变与共识</strong></span>
+<div class="chapter-summary">在过去两年半的时间里，关于AI大模型的开源与闭源问题一直存在争议。随着DeepMind等机构的崛起，开源逐渐成为行业共识，显示出其带来的显著好处。从数据效率和得分曲线来看，开源与闭源模型之间的差距已经变得微乎其微。这一变化与2021年半之前业界的普遍认知大相径庭，展示了AI行业对开源态度的迅速转变。</div>
+</div>
+<div class="chapter-item">
+<span class="time"><strong>[00:20:31]</strong> </span>
+<span class="chapter-title"><strong>开源与闭源在AI领域的比较及其影响</strong></span>
+<div class="chapter-summary">对话围绕开源和闭源在AI领域的对比展开，强调开源是一种开放协作模式，有助于加速技术和生态的共建，而闭源则侧重于保护商业机密和人才，追求直接的商业化。讨论指出，工程师倾向于支持开源，因其可提升技术发展、个人声誉和商业机会。此外，通过开放大模型，公司如deep seek不仅促进了技术生态的繁荣，也找到了自身的盈利模式，进而推动了整个产业链的发展。最后提到中国在开源领域的进展超过美国，部分原因在于美国公司更侧重于商业化。</div>
+</div>
+<div class="chapter-item">
+<span class="time"><strong>[00:23:36]</strong> </span>
+<span class="chapter-title"><strong>中国AI行业的弯道超车与开源策略</strong></span>
+<div class="chapter-summary">对话围绕中国在AI行业的弯道超车策略展开，讨论了中国如何利用自身优势，在全球化背景下，通过私有部署和开源加速AI技术的发展。提到了国外大公司通过核心团队和商业服务盈利，而中国则依靠大厂自主研发和开源模式推动行业进步，展现出蓬勃的生命力。这一策略与互联网时代的发展有相似之处，有望催生一批基于AI的新公司，加速中国AI基础设施的建设。</div>
+</div>
+<div class="chapter-item">
+<span class="time"><strong>[00:25:27]</strong> </span>
+<span class="chapter-title"><strong>中国与海外企业在IT服务采购偏好差异及AI影响</strong></span>
+<div class="chapter-summary">对话探讨了中国与海外市场在IT服务采购上的显著差异，海外企业倾向于选择SaaS系统，而中国企业则偏好采购自主可控的一体机，这种差异反映了国内企业对资产拥有和数据控制的重视。此外，讨论还提及了移动互联网与云服务在中美两国TMT发展中的不同主线，以及过去十年中国to B领域的投资表现不佳。然而，随着AI技术的兴起，对话参与者期待这一领域可能出现转机，为中国本土的to B服务提供商带来新的机遇。</div>
+</div>
+<div class="chapter-item">
+<span class="time"><strong>[00:30:15]</strong> </span>
+<span class="chapter-title"><strong>探讨MCP在AI多智能体系统中的应用及挑战</strong></span>
+<div class="chapter-summary">对话围绕MCP（多智能体通信协议）在AI领域中的重要性和应用展开，讨论了MCP如何在AI智能体之间建立通信接口，允许它们执行复杂任务，如预订酒店和支付。此外，讨论还涉及了MCP在国内应用的挑战，尤其是由于平台壁垒和移动互联网的主导地位导致的隔离问题。与会者还探讨了未来可能的解决方案，包括推动大平台开放度和建立新的商业模式，以及AI技术发展中的多agent互通和上下文记忆等关键技术点。</div>
+</div>
+<div class="chapter-item">
+<span class="time"><strong>[00:36:45]</strong> </span>
+<span class="chapter-title"><strong>大模型从语言到行为的发展趋势</strong></span>
+<div class="chapter-summary">大模型的发展正从语言能力向行为能力转变。过去两年多，AI大模型主要集中在语言和对话能力上，即大型语言模型（LLM）。随着技术进步，厂商开始注重提升AI的行为能力，使其能更有效地执行任务，从而演变为智能体或agent。此外，AI与现实世界工具之间的通信协议也得到了加强。同时，在物理世界，如车辆和机器人领域，也存在vision-action模型，这些模型正逐渐结合语言能力，形成端到端的解决方案。这一趋势表明，不论是语言模型还是物理世界的大模型，都在向多模态和更全面的智能方向演进。</div>
+</div>
+<div class="chapter-item">
+<span class="time"><strong>[00:39:38]</strong> </span>
+<span class="chapter-title"><strong>大模型技术下的通用Agent产品探讨</strong></span>
+<div class="chapter-summary">对话围绕大模型技术在通用Agent产品中的应用和发展趋势展开。讨论指出，虽然技术在不断进步，但用户实际使用的却是产品，强调了技术与产品之间的区别。提及了当前市场上热门的AI产品，如ChatGPT、Venus等，以及各大厂商如字节、百度等推出的类似产品。讨论者对“通用Agent”这一概念提出了质疑，认为其应更专业和垂直，而非泛化。同时，讨论也触及了大模型技术如何改变个人用户的学习、搜索等需求，以及未来通用Agent可能演变为集成工具的观点。最后，建议用户伴随这些技术产品一同成长，利用AI工具培养下一代的思维能力。</div>
+</div>
+<div class="chapter-item">
+<span class="time"><strong>[00:45:28]</strong> </span>
+<span class="chapter-title"><strong>通用Agent的实际应用与局限性探讨</strong></span>
+<div class="chapter-summary">对话聚焦于使用通用Agent的实际体验和局限性。讨论者指出，尽管通用Agent能够快速提供看似完整的信息或帮助完成任务，但其结果往往存在误差和“幻觉”现象，导致用户仍需依赖传统搜索方法进行多方面验证。此外，对于编程工具中的AI辅助，虽然能显著加速开发过程，但产生的代码可能含有逻辑错误，增加调试时间。因此，现阶段不应将通用Agent视为万能解决方案，用户需保持批判性思维，不断检验和纠正AI输出，避免将其结果视为绝对真理。同时，对话者认为，通用Agent与大模型的关系类似应用与操作系统，大模型能力的提升对Agent的优化和专业化具有积极影响。</div>
+</div>
+<div class="chapter-item">
+<span class="time"><strong>[00:49:55]</strong> </span>
+<span class="chapter-title"><strong>测评新型AI工具及其在领导力培养中的应用</strong></span>
+<div class="chapter-summary">对话讨论了一次对新型MaaS（Market as a Service）工具的测评经历，强调了在测试这类AI工具时面临的挑战，包括如何合理分配任务以充分发挥其能力。通过一个具体的例子——分析H6Z发布的AI领域Top 50网站和APP榜单，展示了与AI工具互动的过程，类比于训练实习生，逐步指导其完成任务。此外，还提到了通过使用AI工具，用户可以学习如何成为一个更好的领导者，以及如何有效分配和指导任务，促进AI能力的成长。</div>
+</div>
+<div class="chapter-item">
+<span class="time"><strong>[00:54:27]</strong> </span>
+<span class="chapter-title"><strong>AI编程的现状与未来发展</strong></span>
+<div class="chapter-summary">讨论围绕AI在编程领域的快速发展及其面临的挑战展开。过去大半年，AI编程增长迅速，因其构建虚拟世界的基础性和逻辑性，理论上AI应能深度理解编程。然而，即使是最资深的程序员使用AI编程工具时，也会发现调试时间超过了构建时间。虽然AI编码工具如Code Curse和Davin等展现了从代码编写到发布的一站式服务愿景，但实际应用中仍存在代码质量和系统稳定性问题，特别是在代码质量不佳的团队中叠加AI生成的代码可能导致进一步的技术债务。AI编程的未来方向被看好，尤其是在提升大厂内部效率方面，但其在复杂项目中的表现仍有限。此外，AI编程对个人开发者和创业者的辅助作用显著，能有效弥补人力不足的问题，特别是在前端设计和小型项目中。然而，国内各大科技公司也正积极推出自己的AI编程工具，这标志着AI编程已成为技术竞争的新战场。</div>
+</div>
+<div class="chapter-item">
+<span class="time"><strong>[01:02:39]</strong> </span>
+<span class="chapter-title"><strong>大模型演进中的技术与应用探索</strong></span>
+<div class="chapter-summary">对话围绕大模型技术的快速发展及其在编程、写作等领域的应用展开，探讨了大模型如何改变编程方式，提高个人效率。进一步讨论了IDE（集成开发环境）在未来可能成为编程的超级入口，以及AI技术可能取代部分编程需求的前景。此外，还分析了技术大模型公司与应用层公司之间的竞争与合作关系，以及在技术演进早期阶段，不断尝试和探索商业模式的重要性。</div>
+</div>
+<div class="chapter-item">
+<span class="time"><strong>[01:07:23]</strong> </span>
+<span class="chapter-title"><strong>从大叙事到小作坊：AI时代创业趋势的转变</strong></span>
+<div class="chapter-summary">讨论从过去的宏大叙事创业模式转向现在基于AI能力的个体放大效应，强调解决具体问题和实现现金流的重要性。探讨了电商行业作为例子，展示了其相较于软件行业的优势，以及AI技术如何为小规模创业者赋能，特别是在具有产业链长的行业中。此外，还提到了护城河的重要性，即创业者如何利用AI和其他能力积累，形成独特的解决方案或产品，以避免被快速模仿和取代。</div>
+</div>
+<div class="chapter-item">
+<span class="time"><strong>[01:14:12]</strong> </span>
+<span class="chapter-title"><strong>智能汽车行业L1-L5等级与AI自动驾驶的对比与挑战</strong></span>
+<div class="chapter-summary">讨论集中在智能汽车行业中的L1到L5等级与AI自动驾驶技术的对应关系以及所面临的挑战。特别提到，尽管自动驾驶技术经历了从L2到L3的热烈讨论，但目前仍处于L3的瓶颈期。从业者对于SOVEE分级体系感到痛恨，因其过于机械，不符合实际用户场景，但又因其易于与市场和用户沟通而被广泛采用。OpenAI定义的L3阶段与智能驾驶的L3开始对应，标志着从辅助驾驶转向自动驾驶的阶段，即车辆能够全自动完成驾驶任务，无需驾驶者全程参与。然而，由于技术、政策法规和责权区分的复杂性，L3及更高级别的自动驾驶在落地实施上仍面临巨大挑战。今年，华为有望在中国率先实现有条件的自动驾驶L3，但仅限于高速场景，且为了避免误导，所有智能驾驶系统均被统称为辅助驾驶。</div>
+</div>
+<div class="chapter-item">
+<span class="time"><strong>[01:17:51]</strong> </span>
+<span class="chapter-title"><strong>中国与美国自动驾驶技术路径与进展</strong></span>
+<div class="chapter-summary">对话围绕中国和美国在自动驾驶技术领域的不同进展和策略展开。中国正逐步推进智能辅助驾驶和有条件自动驾驶的落地，有望在今年颁布L3级别的管理法规，而美国则直接迈向L4级别，即无监督的全自动驾驶，特斯拉在这一领域处于领先地位。中国车企如理想汽车和小鹏正探索通过Vision-Language-Action（VLA）模型实现L3及L4级别的自动驾驶，以提高效率和准确性。然而，VLA模型仍被认为不是最高效的解决方案，但目前是可接受的前进方向。此外，对话还提及了无人快递车和小型送货机器人的应用，指出它们并未达到真正的L4级别，更多是基于规划规则的路径追随。</div>
+</div>
+<div class="chapter-item">
+<span class="time"><strong>[01:21:30]</strong> </span>
+<span class="chapter-title"><strong>英伟达在AI芯片市场的未来走势及投资前景</strong></span>
+<div class="chapter-summary">从22年底到24年底，投资美股最简单的策略被提及为购买英伟达股票，基于其在AI芯片市场的巨大共识和意义。然而，随着DPDPC等新技术的出现，基于算力芯片的叙事在AI领域面临挑战。讨论中提到，虽然成本下降和需求增加可能刺激行业，但英伟达是否能继续保持垄断地位存在争议，尤其是考虑到推理芯片需求的增长以及市场上其他玩家的自研芯片趋势。此外，英伟达在汽车支架芯片市场的份额也可能因自研芯片的兴起而下降。尽管如此，英伟达仍被视为市场上的重要玩家，但其未来的增长速度可能不如以往。在评估英伟达股票时，需考虑其估值是否合理，以及市场变化对其地位的影响。</div>
+</div>
+<div class="chapter-item">
+<span class="time"><strong>[01:26:21]</strong> </span>
+<span class="chapter-title"><strong>AI Agent应用及AI技术落地的挑战</strong></span>
+<div class="chapter-summary">讨论集中于为特定播客节目开发的AI agent及其在处理非结构化数据时面临的挑战，突出了目前AI技术落地时普遍存在的问题，即现有资料未针对AI进行友好设计。进一步讨论了中美在AI技术水平上的差距及AI技术全产业链的问题，强调了中国在AI领域的政策支持和市场潜力。最后，提到了AI agent这一概念在产品品牌推广和融资PPT中是否合适的讨论，以及当前AI产品和市场营销之间的割裂现象。</div>
+</div>
+</div><br>
+<h1>问题回顾</h1>
+<div class="qa-item">
+<div class="question"><strong>Q:</strong> 今天这场论坛我们打算聊什么话题？</div>
+<div class="answer"><strong>A:</strong> 我们今天这场论坛不聊虚的，只聊一些硬核的干货，特别是关于AI agent的发展、趋势和应用等内容。</div>
+</div>
+<div class="qa-item">
+<div class="question"><strong>Q:</strong> 在座的同学有多少人是有技术背景的？现场的同学有多少人是有技术背景的？</div>
+<div class="answer"><strong>A:</strong> 不多，但产品、市场运营等都算有技术背景。可以算算产品，怎么能不算呢？算对产研都算，市场运营都算。</div>
+</div>
+<div class="qa-item">
+<div class="question"><strong>Q:</strong> 对于AI agent的理解，能否请几位主播分享一下各自的看法？</div>
+<div class="answer"><strong>A:</strong> AI agent概念最早由OpenAI提出，是L3层级上的模型，具备了行动能力，能够自主完成一些任务。技术上，它相比之前的自动化工程有相似之处，但在应用层面，它更接近普通人，不仅工程师可以使用，普通人在日常工作中也能接触到AI agent。目前来看，短期内AI agent的能力可能被高估了，长期则可能被低估。此外，普通人真正能有效利用AI agent的程度还存在较大鸿沟。</div>
+</div>
+<div class="qa-item">
+<div class="question"><strong>Q:</strong> 是否有人在日常工作和生活中实际使用了超越简单聊天对话的AI agent功能？</div>
+<div class="answer"><strong>A:</strong> 多数人目前使用的还停留在类似chat的L2层面，而真正的AI agent能够调用外部工具并具有更强的能力，但其能力和可靠性仍有待提高和完善。</div>
+</div>
+<div class="qa-item">
+<div class="question"><strong>Q:</strong> 在当前时间点，大家热议的AI大模型发展中的一个焦点话题是什么？</div>
+<div class="answer"><strong>A:</strong> 现在热议的话题是关于AI整体会在接下来的时间里，尤其是今年年底，可能会达到什么样的技术状态，比如是否会出现传说中的GPT5或者达到一个什么样的程度。</div>
+</div>
+<div class="qa-item">
+<div class="question"><strong>Q:</strong> 在过去一年中，您对AGI（人工智能的通用性）的看法有哪些更新？</div>
+<div class="answer"><strong>A:</strong> 我过去认为AGI是自动化的一个延伸，主要帮助解决工程效率问题。但今年回顾时，我意识到AGI在未来有可能在系统层面承担更厚实的工程任务，尤其是在未来的IT架构中，它可能不再依赖传统的层级结构，而是以更垂直的方式生长，每个AI agent就能独立闭环解决具体业务问题。</div>
+</div>
+<div class="qa-item">
+<div class="question"><strong>Q:</strong> 对于开源与闭源之争，目前业界有什么新的共识吗？</div>
+<div class="answer"><strong>A:</strong> 目前业界普遍认为开源在当前阶段成为了一种共识。随着DeepMind等开源大模型的崛起，以及业界对于开源带来的好处越来越多的认识，很多公司开始转向支持开源。数据显示，开源模型与闭源模型在效能上的差距已经微乎其微。</div>
+</div>
+<div class="qa-item">
+<div class="question"><strong>Q:</strong> 开源对于AI大模型的发展有何影响？</div>
+<div class="answer"><strong>A:</strong> 开源加速了AI大模型的发展进程。之前闭源模型占据主导，但现在随着像DeepMind等开源大模型的出现，以及厂商对开源的共识，大家都在努力将这些模型整合到后端并构建生态。开源能够促进社区共识和持续贡献，形成一种共同构建的技术进步模式。</div>
+</div>
+<div class="qa-item">
+<div class="question"><strong>Q:</strong> 中国与美国在AI开源领域的发展有何不同？</div>
+<div class="answer"><strong>A:</strong> 目前中国的开源发展比美国要快，这主要是由于美国的头部公司在商业模式上选择商业化运作，投入大量资源进行BD（商业推广），而在国内，大模型厂商多采用自主研发，并倾向于采购国内一体机设备来部署模型，这与中国特有的企业服务选择偏好有关。</div>
+</div>
+<div class="qa-item">
+<div class="question"><strong>Q:</strong> 在2010年左右，美元基金在中国TMT领域的投资中，移动互联网和云服务分别扮演了怎样的角色？</div>
+<div class="answer"><strong>A:</strong> 当时中国的TMT发展主线是移动互联网，尤其是移动互联网与算法结合所带来的爆发式增长。而美国的主线除了移动互联网之外，还有一条云服务这条线，尤其是云SaaS这条面向企业的生态链。</div>
+</div>
+<div class="qa-item">
+<div class="question"><strong>Q:</strong> 当时美元基金内部是如何分配投资组的？</div>
+<div class="answer"><strong>A:</strong> 当时我们内部有两个最大的投资组，一个是专注于to c移动互联网项目的组，另一个是专注于to b领域的组。</div>
+</div>
+<div class="qa-item">
+<div class="question"><strong>Q:</strong> to b组在投资上遇到了什么情况？</div>
+<div class="answer"><strong>A:</strong> to b组遭遇了全军覆没的情况，尽管我们模仿美国的生态模式，选择各个层级如PaaS层、SaaS层，并细分到人力资源、财务、法务等领域进行投资布局，但最终在2022年左右这十年多的投资周期里，在风险投资的角度上并未取得理想成果。</div>
+</div>
+<div class="qa-item">
+<div class="question"><strong>Q:</strong> 以北森为例，为何某些国内的SaaS公司在资本市场表现不佳？</div>
+<div class="answer"><strong>A:</strong> 例如北森，作为中国最大的HR SaaS公司，在港股上市时估值高达几十亿美金，但上市后由于市场表现不佳，股价大幅下跌，一周之内市值缩水至30亿港币，这反映出传统的SaaS业务模式在国内可能存在挑战。</div>
+</div>
+<div class="qa-item">
+<div class="question"><strong>Q:</strong> AI的到来对B端企业服务市场是否可能带来转机？</div>
+<div class="answer"><strong>A:</strong> 是的，随着AI的到来，尤其是agent和GVI等形式的服务厂商开发适合中国本土的业务模式时，可能会出现一些转机，值得期待。</div>
+</div>
+<div class="qa-item">
+<div class="question"><strong>Q:</strong> MCP是什么，为什么最近讨论很多？</div>
+<div class="answer"><strong>A:</strong> MCP（可能是Misplaced Connection Point的缩写，具体含义需根据上下文确定）是一个应用程序接口，它允许AI智能体之间通过代码互相通信。比如在订房场景中，用户请求订房后，AI通过MCP接口调用订房服务提供商的信息，并能进一步完成付款等操作，形成一个多节点互连互通的体系。</div>
+</div>
+<div class="qa-item">
+<div class="question"><strong>Q:</strong> MCP在国内实施存在哪些困难？</div>
+<div class="answer"><strong>A:</strong> 国内存在天然的壁垒和生殖隔离现象，比如移动互联网环境下的“all in one”现象导致各工具间调用受限，而在海外PC为主的环境中则相对开放。因此，在国内建立类似MCP的互联互通体系面临较大挑战。</div>
+</div>
+<div class="qa-item">
+<div class="question"><strong>Q:</strong> 对于未来AI技术发展的趋势，有哪些关键点？</div>
+<div class="answer"><strong>A:</strong> 这一轮AI大模型的发展正从语言能力向行为能力转变，表现为多模态、上下文记忆增强以及多agent协作等方面。同时，物理世界中的视觉和行动模型也在演进，并开始与语言模型结合（如VLA），形成新的技术方案。</div>
+</div>
+<div class="qa-item">
+<div class="question"><strong>Q:</strong> 这一波以“agent”命名的产品讨论中，用户真正能体验到哪些变化？</div>
+<div class="answer"><strong>A:</strong> 这一波讨论中，许多打着“agent”旗号的产品实际上引发了大众对通用人工智能产品的更多关注。虽然很多产品可能只是概念上的创新，但至少到目前为止，以ChatGPT为代表的通用AI产品确实引发了广泛讨论和应用尝试。</div>
+</div>
+<div class="qa-item">
+<div class="question"><strong>Q:</strong> 大家对通用agent这个名字有什么质疑吗？</div>
+<div class="answer"><strong>A:</strong> 我对通用agent这个名字有质疑，因为在我的理解中，通用是大模型能力的表现，而agent更偏向于专业和垂直的工作流，把它产品化后应该更专业而非泛化通用。</div>
+</div>
+<div class="qa-item">
+<div class="question"><strong>Q:</strong> 对于当前阶段的通用agent，有什么使用建议吗？</div>
+<div class="answer"><strong>A:</strong> 建议大家在使用通用agent时，要锻炼出“杠精”般的批判性思维，不断反问、批判并提醒AI可能存在的错误或幻觉，同时通过这种方式帮助AI自我校准。</div>
+</div>
+<div class="qa-item">
+<div class="question"><strong>Q:</strong> 通用AI产品是否会随着技术演进变得越来越通用？</div>
+<div class="answer"><strong>A:</strong> 我个人认为，通用AI产品在未来可能会变成某种程度上的集成工具，单独放置而不解决具体需求较难。但随着技术发展，它有可能满足个人层面的成长、学习和搜索需求。</div>
+</div>
+<div class="qa-item">
+<div class="question"><strong>Q:</strong> 如何评价当前agent与大模型的关系及其优缺点？</div>
+<div class="answer"><strong>A:</strong> agent依托于大模型，无法摆脱其缺陷，但又担心过于强大的大模型会替代agent的作用。agent目前处于微妙位置，它更像是基于大模型操作系统的应用，需要通过管理、调配资源来适应不同需求，并随着大模型能力提升和专用agent丰富而变得更有用。</div>
+</div>
+<div class="qa-item">
+<div class="question"><strong>Q:</strong> 对于初代MaaS时代的agent，你们在测评过程中有什么有趣的发现？</div>
+<div class="answer"><strong>A:</strong> 在测评过程中，我们发现给agent的任务需要精心设计，不能过于简单或复杂，否则无法达到测试目的。例如，当交给agent一个关于知名VC机构H6Z发布的AI榜单分析任务时，agent在执行过程中表现出类似实习生的学习和成长过程，需经过多次指导和调优才能完成任务。</div>
+</div>
+<div class="qa-item">
+<div class="question"><strong>Q:</strong> AI coding在过去大半年的发展情况如何？对于AI coding未来发展方向的看法是怎样的？</div>
+<div class="answer"><strong>A:</strong> AI coding在过去大半年发展非常快，从底层逻辑来看，它构建了虚拟世界和数字世界的最基础部分，并且自带逻辑和框架。理论上AI应该能很好地理解这个领域，所以AI coding在过去发展迅速，但同时也出现了一些问题，例如资深程序员使用AI coding工具时，debug的时间甚至可能超过建模时间。我们认为AI coding未来一定是发展方向，它将广泛进入到各行各业。工程师需要适应这种变化，不仅要具备编写代码的能力，还要了解真实的业务需求和自己工作的价值所在。</div>
+</div>
+<div class="qa-item">
+<div class="question"><strong>Q:</strong> 对于个人开发者和创业者而言，AI coding有何作用？</div>
+<div class="answer"><strong>A:</strong> 对于个人开发者和创业者，AI coding提供了一个很好的能力提升工具。比如，AI可以帮助设计前端页面，生成现代且高质量的设计，甚至包括前端代码。但AI对于复杂项目构建仍然有限，更适合解决临时性的、模块化的小需求。</div>
+</div>
+<div class="qa-item">
+<div class="question"><strong>Q:</strong> AI coding产品例如curse r和davin的具体特点是什么？</div>
+<div class="answer"><strong>A:</strong> curse r和davin是两个阶段的产品，其中davin是一个一站式平台，用户可以告诉AI创建一个网站并完成发布。这些产品目前在代码工程质量和系统稳定性较强的企业中表现较好，但在代码质量较差的团队中叠加AI写出来的技术垃圾可能会导致问题。</div>
+</div>
+<div class="qa-item">
+<div class="question"><strong>Q:</strong> AI coding是否会成为coding领域的超级入口？</div>
+<div class="answer"><strong>A:</strong> 短期内，各种IDE加入AI能力后会成为入口；长期来看，如果技术演进到无需写代码就能完成工作的阶段，可能会出现新的交互方式，但目前这还很远。</div>
+</div>
+<div class="qa-item">
+<div class="question"><strong>Q:</strong> 如何看待当前大量公司在做类似“套壳”大模型的现象？</div>
+<div class="answer"><strong>A:</strong> 我们认为这是一种共创过程，大家在卷大模型的同时，也在不断发现底层需求、构建生态和支持，通过尝试和实践找到细分场景和商业模式，这是有意义的探索过程。</div>
+</div>
+<div class="qa-item">
+<div class="question"><strong>Q:</strong> 在当前时代背景下，创业的趋势或行业趋势发生了哪些变化？</div>
+<div class="answer"><strong>A:</strong> 当前由于各种原因，创业环境看似更具挑战性，但同时AI技术的发展也带来了杠杆效应，使得个体通过找准小需求、利用推广工具也能较容易地启动一个生意。相较于十年前，创业的门坎和实现方式已经发生了巨大变化。</div>
+</div>
+<div class="qa-item">
+<div class="question"><strong>Q:</strong> 您最近在研究的行业是什么？您觉得电商行业的特点或优势是什么？</div>
+<div class="answer"><strong>A:</strong> 我最近几年在研究电商行业。电商行业拥有现金流，且利润不错，虽然面临价格战，但如果产品品质好，就能做得很好，并能快速得到反馈。相比软件行业，电商商业模式更成立，产业链更长，每个人在其中都有可能赚到钱。</div>
+</div>
+<div class="qa-item">
+<div class="question"><strong>Q:</strong> 对于新进来的创业者来说，在智能汽车领域是否也会遇到类似的问题？</div>
+<div class="answer"><strong>A:</strong> 是的，在智能驾驶领域，尤其是L3至L5级别的划分，与OpenAI定义的agent分级存在对应关系。目前智能驾驶的L3阶段还未完全达到OpenAI L3的全自动完成驾驶工作的标准，而L4才是真正全自动的阶段。技术、法规及责任划分等因素导致L3及更高阶段的自动驾驶落地困难。中国有望率先实现有条件的自动驾驶L3，但在名称和法规管理上与美国有所不同。</div>
+</div>
+<div class="qa-item">
+<div class="question"><strong>Q:</strong> 现阶段主流的智能驾驶实现路线是什么？</div>
+<div class="answer"><strong>A:</strong> 目前中国采用的主要路线是将视觉、语言和行动整合在一起的VLA（Vision Language Action），这种方式被认为比传统的端到端加VRM更为高效。不过，无论是VLA还是其他技术路线，能否实现真正的L4仍需观察，特别是美国的进展将对全球产生重要影响。</div>
+</div>
+<div class="qa-item">
+<div class="question"><strong>Q:</strong> 在22年底到24年底的两年时间里，炒美股最简单的策略是什么？当DPDPC出现后，大家对基于算力芯片的叙事在AI领域的看法如何变化？</div>
+<div class="answer"><strong>A:</strong> 最简单的策略就是在那段时间内买英伟达股票，这一策略基于巨大的共识和意义。有人担忧AI这一轮发展中，基于算力芯片的叙事受到了挑战，尤其是agent对于算力消耗远大于chat book，这使得n media未来走势变得争议性较大。</div>
+</div>
+<div class="qa-item">
+<div class="question"><strong>Q:</strong> 观众提问：在当前情况下，是否还能购买英伟达股票？</div>
+<div class="answer"><strong>A:</strong> 对于这个问题，没有明确结论。尽管市场存在对英伟达能否持续垄断市场的担忧，但其仍可能是市场上的主要玩家，只是股价可能会从之前的高速增长转变为稳定增长。</div>
+</div>
+<div class="qa-item">
+<div class="question"><strong>Q:</strong> 针对汽车领域支架芯片的问题，英伟达的表现如何？</div>
+<div class="answer"><strong>A:</strong> 英伟达计划推出的索尔芯片由于架构问题不断推迟上市，导致中国很多新车型发布受影响，并且目前只能提供低算力版本。这表明英伟达在汽车领域支架芯片市场的份额正在逐渐下降。</div>
+</div>
+<div class="qa-item">
+<div class="question"><strong>Q:</strong> 针对AI落地应用，现在存在什么普遍性问题？</div>
+<div class="answer"><strong>A:</strong> 普遍性问题是现有的资料往往没有为AI友好设计，例如非结构化的文本和图片资料不利于AI理解和阅读，需要通过大模型处理后再导入知识库系统。</div>
+</div>
+<div class="qa-item">
+<div class="question"><strong>Q:</strong> 中美AI水平差距有多大？</div>
+<div class="answer"><strong>A:</strong> 中美AI水平差距并非单纯在AI技术本身，更多体现在全产业链上。中美两国各有优势，中国政府也在政策层面大力推动AI发展，预计会有新的突破和创新。</div>
+</div>
+<div class="qa-item">
+<div class="question"><strong>Q:</strong> “AI agent”这个词是否适合出现在产品 branding、推广以及创业融资PPT中？</div>
+<div class="answer"><strong>A:</strong> 不适合。当前市场环境下，“AI agent”这类术语与用户的认知之间存在割裂，且容易造成公司内部产研团队间的误解，不如将焦点放在具体的产品功能和价值上。</div>
+</div>
+<h1>节目文稿</h1>
+<p class="transcript-line">
+<span class="time"><strong>[00:00:07]</strong> </span>
+<span class="speaker"><strong>发言人1: </strong></span>
+感谢小红书、滴滴企业版飞书、微博音频对第三届狂喜播客节的支持。感谢所有狂喜播客好伙伴的一路支持，希望大家玩的开心。然后大家也可以随时写下话题卡，然后示意工作人员来收。好。
+</p>
+<p class="transcript-line">
+<span class="time"><strong>[00:00:24]</strong> </span>
+<span class="speaker"><strong>发言人2: </strong></span>
+谢谢金主爸爸。
+</p>
+<p class="transcript-line">
+<span class="time"><strong>[00:00:25]</strong> </span>
+<span class="speaker"><strong>发言人3: </strong></span>
+感谢我们正式开始今天的这一场的对谈。然后在对谈之前先做几个简单的小调查。就是在座有没有完全没有任何听过我们几位的博客的朋友可以举个手。我喝多，这我就放心了。这好啊，这我们可以聊拉新了，可以很好，这个是也好OK第一个问题是这样。
+</p>
+<p class="transcript-line">
+<span class="time"><strong>[00:00:49]</strong> </span>
+<span class="speaker"><strong>发言人3: </strong></span>
+然后第二个问题是在从昨天早上到现在这个时间点，可能狂喜已经经历了一天多一点点的时间。在你们所参与过的场次当中，是否有关于AI的话题，就是是否你们听过或者嘉宾聊到了AI的话题，也基本上绝大部分都有了，对吧？然后这个OK现在就有问题了，我的天太大家太认真了。然后我们一会儿再看，一会儿再看。
+</p>
+<p class="transcript-line">
+<span class="time"><strong>[00:01:19]</strong> </span>
+<span class="speaker"><strong>发言人3: </strong></span>
+然后我的下一个问题是大家对我们这场的这样一个标题。因为我特这个标题是我起的，就是不是一个特别人文像跟比较宽的话题，它其实相对是一个比较行业化的话题。然后我们在组织这场活动的时候，这个来龙去脉是这个样子的。当时郭亚迪老师在我们所有的主播的群里大概排了50场，是他的角度去排的。然后剩下的50场左右是我们主播之间的自由碰撞。然后在碰撞的过程中，其实就跟大家刚才那个调查一样。其实关于AI的话题应该是很多人的共识，所以很多很想聊。然后我们就是又拉了个小群，拉群包括整个的沟通过程中，你会发现很多的话题围绕在。
+</p>
+<p class="transcript-line">
+<span class="time"><strong>[00:02:08]</strong> </span>
+<span class="speaker"><strong>发言人1: </strong></span>
+了人文向焦虑。
+</p>
+<p class="transcript-line">
+<span class="time"><strong>[00:02:10]</strong> </span>
+<span class="speaker"><strong>发言人3: </strong></span>
+替代工作行业发展，行业发展可能比较少，比如说这个行业跟人的教育之类的相关的话，其实昨天我的两场论坛全都是聊这个的。拉的过程中，包括昨天经历两场之后，我发现一个问题，就是聊真正意义上的行业上的内容可能相对比较少。但是反过讲，可能听播客人大家并不是真的来学习的对吧？但是我会觉得如果大家今天希望听到一个偏人文像的，可能会比较难。所以我打了一张纸，本来我说我想跟关博说能不能打在屏幕上，但后来他12点半才回，我已经睡了对吧？没办法了，我打了一张纸。
+</p>
+<p class="transcript-line">
+<span class="time"><strong>[00:02:47]</strong> </span>
+<span class="speaker"><strong>发言人3: </strong></span>
+我说我们今天这场论坛，包括跟线下跟几位主播，昨晚上我也说过，为什么尽量不去碰那些跟人文相关的话题。因为在这两天的论坛里面，我昨天晚上数了一下课表，有11场关于AI的话题，就是名字跟标题一带AI或者智能有11场。其中有8场明确意义上的是人文话题，另外3场里面有两场我在即便名字不带人文话题，但也聊到了人文。所以如果大家想了解一些偏人文，更偏感性层面的东西，去听那些，我们在今天这个场合里就不聊这些事情了。所以我打一张这个题目的纸，叫我们不聊虚的，我们只聊一些硬核的干货。然后我们就正式开始简单的沟通一下。如果大家觉得这个话题可能跟你也没什么太大关系，那可以中途随时咱们就离开，也不强求大家。
+</p>
+<p class="transcript-line">
+<span class="time"><strong>[00:03:40]</strong> </span>
+<span class="speaker"><strong>发言人3: </strong></span>
+因为我会确实会觉得博客不是一个真正意义上来学习的。但是我们近期量尽希望的给大家提供一些信息的增量。然后要不我想追一个OK我想。
+</p>
+<p class="transcript-line">
+<span class="time"><strong>[00:03:49]</strong> </span>
+<span class="speaker"><strong>发言人1: </strong></span>
+追一个问题，就现场的同学有多少人是有技术背景的？
+</p>
+<p class="transcript-line">
+<span class="time"><strong>[00:03:55]</strong> </span>
+<span class="speaker"><strong>发言人3: </strong></span>
+不多不多。
+</p>
+<p class="transcript-line">
+<span class="time"><strong>[00:03:58]</strong> </span>
+<span class="speaker"><strong>发言人1: </strong></span>
+可以算算产品，怎么能不算呢？算对产研都算，市场运营都算。
+</p>
+<p class="transcript-line">
+<span class="time"><strong>[00:04:03]</strong> </span>
+<span class="speaker"><strong>发言人2: </strong></span>
+真的吗？
+</p>
+<p class="transcript-line">
+<span class="time"><strong>[00:04:06]</strong> </span>
+<span class="speaker"><strong>发言人1: </strong></span>
+我再看一眼好吧？
+</p>
+<p class="transcript-line">
+<span class="time"><strong>[00:04:08]</strong> </span>
+<span class="speaker"><strong>发言人3: </strong></span>
+还可以OKOK还可以。
+</p>
+<p class="transcript-line">
+<span class="time"><strong>[00:04:10]</strong> </span>
+<span class="speaker"><strong>发言人2: </strong></span>
+看来产品居多还可以。
+</p>
+<p class="transcript-line">
+<span class="time"><strong>[00:04:13]</strong> </span>
+<span class="speaker"><strong>发言人3: </strong></span>
+对。
+</p>
+<p class="transcript-line">
+<span class="time"><strong>[00:04:13]</strong> </span>
+<span class="speaker"><strong>发言人4: </strong></span>
+然后唱好好不好骗？
+</p>
+<p class="transcript-line">
+<span class="time"><strong>[00:04:15]</strong> </span>
+<span class="speaker"><strong>发言人3: </strong></span>
+对，然后这个我们要不就先比如几位主播先做个简单的自我介绍，然后我们就正式按话题开始了好吧？好。
+</p>
+<p class="transcript-line">
+<span class="time"><strong>[00:04:23]</strong> </span>
+<span class="speaker"><strong>发言人1: </strong></span>
+小狼开始。大家好，我是小狼。目前是在大厂做技术战略和产品创新，然后也是从技术到产品也代运营品牌市场这些东西。然后目前是计算机历史博物馆的主播，是一个非常闲散的这个号。想起来了就跟一下。然后最近这两年是在做data跟AI相关方向的一些工作，之前是在做云原声和音视频。所以某种程度上你算我的客户。
+</p>
+<p class="transcript-line">
+<span class="time"><strong>[00:04:49]</strong> </span>
+<span class="speaker"><strong>发言人2: </strong></span>
+算算你也算那算算算你算客户。
+</p>
+<p class="transcript-line">
+<span class="time"><strong>[00:04:51]</strong> </span>
+<span class="speaker"><strong>发言人1: </strong></span>
+对，然后现在是数据库跟AI的这个领域，所以有很多的对底层技术的一些观察。当然更多我们向上层是有很多的应用，然后也是今天这场觉得可以聊一下的一个原因。
+</p>
+<p class="transcript-line">
+<span class="time"><strong>[00:05:06]</strong> </span>
+<span class="speaker"><strong>发言人2: </strong></span>
+好大家好，我是津津乐道播客网络的朱峰。其实我是从2000年开始就在互联网领域创业。津津乐道应该算是我的第五家公司了。前几家公司都卖掉，然后算是一个连续创业者。
+</p>
+<p class="transcript-line">
+<span class="time"><strong>[00:05:23]</strong> </span>
+<span class="speaker"><strong>发言人2: </strong></span>
+然后津津乐道现在是有两块业务，一块是大家所听到的津津乐道播客网络旗下的这些节目，我们的内容业务。还有一块，其实是我们的这个技术业务，就是给各个博客提供一些包括AI在内的创作者服务领域相关的一些服务。算是其实还有一个技术平台，大家可以把我们的这个技术服务平台，它叫生态，理解成播客领域的尼尔森。他其实是做收听率调查的这么一个机构，所以也会用到很多现在用到很多的AI技术，确实是他们的客户。对，今天也很开心跟大家聊一聊。
+</p>
+<p class="transcript-line">
+<span class="time"><strong>[00:06:02]</strong> </span>
+<span class="speaker"><strong>发言人3: </strong></span>
+OK大家好。
+</p>
+<p class="transcript-line">
+<span class="time"><strong>[00:06:03]</strong> </span>
+<span class="speaker"><strong>发言人4: </strong></span>
+我叫于先烈，我是巴巴乌的主播。88屋是一档主要聊智能电动汽车行业的技术产品，商业这么一档节目。我之前也在国外和国内的新势力工作过，对在智能电动化方面有一些了解。希望这场博客跟大家多沟通，多聊天儿。
+</p>
+<p class="transcript-line">
+<span class="time"><strong>[00:06:25]</strong> </span>
+<span class="speaker"><strong>发言人3: </strong></span>
+OK我叫庄明浩，柏克叫屠龙之术。我原来是做风险投资的，然后现在在一家互联网公司做战略跟投资，然后一直关注科技行业的相关的发展。然后小狼的博客叫计算机历史博物馆，虽然已经一年没更新了是吧？但是他因为他生生宝宝的，然后这个朱老师经常出现的博客叫科技乱炖。科技乱炖大家有兴趣可以去关注一下。于老师叫巴巴乌，就是那个相声词的叭叭呜。
+</p>
+<p class="transcript-line">
+<span class="time"><strong>[00:06:56]</strong> </span>
+<span class="speaker"><strong>发言人4: </strong></span>
+这暴露年龄的对。
+</p>
+<p class="transcript-line">
+<span class="time"><strong>[00:06:58]</strong> </span>
+<span class="speaker"><strong>发言人3: </strong></span>
+对对对对对对，然后如果大家有兴趣可以去关注各位老师的博客，然后我们就正式开始今天的内容。为了准备这场内容，因为既然立了flag说我们不聊那些人文的跟偏虚的话题，对吧？我们准备了提刚。
+</p>
+<p class="transcript-line">
+<span class="time"><strong>[00:07:16]</strong> </span>
+<span class="speaker"><strong>发言人2: </strong></span>
+严肃真的要按提纲聊吗？
+</p>
+<p class="transcript-line">
+<span class="time"><strong>[00:07:19]</strong> </span>
+<span class="speaker"><strong>发言人3: </strong></span>
+当然是我的第二个问题。当然我们未必会严格的按照这个提纲来聊，但是我们大概会发划分了几个态度，态度这几个板块。这个板块大概我们设计的是三个板块，会聊一部分关于技术发展的板块，一部分了解，一部分聊偏产品的板块，就是这个行业在出现什么样的产品跟趋势。最后一块可能是偏行业商业跟资本的，就是三个区块的内容，然后未必会严格的那么划分，但是我们就看聊到哪儿算哪儿了，对吧？
+</p>
+<p class="transcript-line">
+<span class="time"><strong>[00:07:49]</strong> </span>
+<span class="speaker"><strong>发言人3: </strong></span>
+好，然后我们就先验着这个来说，我们从标题开始。我们今天的这个标题叫2025AI agent年行业走向何方。我们第一个关键词agent就是agent这个关键词，或者叫智能体，或者是其他一些翻译。可能在各位每天关注的各种新闻里面，在过去的这几个月时间里面，应该是疯狂轰炸的一个状态。我们就从这个开始聊起，比如说再问几在座几位老师，从你们的角度来看，比如说你们如何去理解今天这个时间点的大家所探讨的AI agent，无论是概念产品趋势还是方向还是什么。对，第一个问题小兰开始。
+</p>
+<p class="transcript-line">
+<span class="time"><strong>[00:08:30]</strong> </span>
+<span class="speaker"><strong>发言人1: </strong></span>
+A站这个概念，其实我们看到比较早的时候是OpenAI提出的v to AGI的一个路径。对，在L三的这一层当中有agent，他把这一层更多的除了原先的大模型的基础能力之外，加上了一些action，就是能够去自己干点事儿了，所以把它叫智能体。但是从技术的角度看，它本身其实并没有特别多深奥的东西在。因为原先我们在从AI的这个时代往前倒，数字化时代、信息化时代都有非常多的这种自动化的工程。是的，然后自动化的工程，自动化的工具其实都在代替人类做一些偏重复的冗余的工作。但是这一类工作跟现在聊到的癌症能做的工作最大的一个区别在于说，他加了那么一点点的自己能干的事情，不管是账号打通的事情，还是想法能够再去做一下。再加上他前面这个基础模型又有了一些揣测你的这个需求的一些能力之外，其实从技术本身来讲，它没有特别大的差别。但是我们也看到说AI这一波它跟原先的这个数字化或者说是自动化信息化。
+</p>
+<p class="transcript-line">
+<span class="time"><strong>[00:09:41]</strong> </span>
+<span class="speaker"><strong>发言人1: </strong></span>
+自动化最大的一个区别在于说这个概念跳到了普通人的面前。OK他从我们原先聊的这个info的层面，就基础设施技术的层面向上跳了一层，到了应用，到了业务。到了业务这一层时候，就涉及到的人就更多了，就不纯是工程师的事情。所以这是agent跳出来之后，大家讨论的我们在讨论的一个范畴。它更多的还是沿着这个自动化跟这个系统向前去讨论的。但是更多上面的东西，我们从技术角度可能就没有特别多讨论了。
+</p>
+<p class="transcript-line">
+<span class="time"><strong>[00:10:13]</strong> </span>
+<span class="speaker"><strong>发言人3: </strong></span>
+理解朱老师。
+</p>
+<p class="transcript-line">
+<span class="time"><strong>[00:10:15]</strong> </span>
+<span class="speaker"><strong>发言人2: </strong></span>
+其实我是觉得刚才小梁说了很多技术的问题，我今天发是不太聊这个高深的技术，因为我怕在座的同学们没有那么听，不特别明白。因为这个节咱这个也就是一个半小时时间很难展开。但是从最近的一些市场的反馈来看，第一我首先比较同意小狼前半截说的这些内容，对，这个我就不重复了。但是现在来看，其实AI agent在我们整个工程化实现和产品的角度来看，短期内我觉得是被高估了他的能力。是的，对他的实现。但长期看我觉得又被低估了，它是这样的一个东西。而且刚才小梁说这个AI agent金融了普通人的这个领域。但是我们现在来看，因为我总会面向素人普通人，或者是说根本他没有任何技术和产品背景的人去做一些调研。
+</p>
+<p class="transcript-line">
+<span class="time"><strong>[00:11:11]</strong> </span>
+<span class="speaker"><strong>发言人2: </strong></span>
+昨天节目也聊过，我会发现大家其实真的能够把AI用好在今天的这个时间点，其实还会存在一个巨大的鸿沟。对，巨大的一个鸿沟。我可以请问一下大家，日常生活和工作当中用到AI的可以举下手，不要放下来。对，然后只用到了chat对话框，就是chat的把手放下。
+</p>
+<p class="transcript-line">
+<span class="time"><strong>[00:11:43]</strong> </span>
+<span class="speaker"><strong>发言人1: </strong></span>
+比如说只用deep sick.
+</p>
+<p class="transcript-line">
+<span class="time"><strong>[00:11:44]</strong> </span>
+<span class="speaker"><strong>发言人2: </strong></span>
+对，你看就会放下很多是吧？
+</p>
+<p class="transcript-line">
+<span class="time"><strong>[00:11:47]</strong> </span>
+<span class="speaker"><strong>发言人1: </strong></span>
+谢谢大家。这是L2。
+</p>
+<p class="transcript-line">
+<span class="time"><strong>[00:11:49]</strong> </span>
+<span class="speaker"><strong>发言人2: </strong></span>
+对，就是L2的东西，大家可能现在绝大多数人还是在那个对话框里聊天，对吧？别管是用豆包还是用什么东西，他是在聊天真的能弄好，甚至说自己做一个agent可能还很少。对，包括这次我们的狂喜，我们也做了一个AI agent，对吧？
+</p>
+<p class="transcript-line">
+<span class="time"><strong>[00:12:09]</strong> </span>
+<span class="speaker"><strong>发言人2: </strong></span>
+可以搜那些课，大家也会发现他还是有很多的能力的边界。他能查，但是他很很依赖外部的数据的供应，很依赖于这个agent自身的能力。其实还有很多很多问题，我们今天不从技术角度去展开了。就是说我现在是觉得他的这个鸿沟还很大。而且agent在现在我们产品圈技术圈的人，可能每天都是兴奋于很多AI agent里面的新的东西。比如一会我还会聊到MCP等等这些东西，但是是不是被高估了？他的能力其实没有等他。对，其实今天特别想聊这样一个问题，OK于老师。于老师我。
+</p>
+<p class="transcript-line">
+<span class="time"><strong>[00:12:50]</strong> </span>
+<span class="speaker"><strong>发言人4: </strong></span>
+觉得对我来说首先还是希望能够搞清楚AN究竟是什么。因为大家其实每个人的agent的定义其实不太一样。是2024年以来，我觉得到今年其实确实慢慢收敛了。对我来说比较容易判断的几个特点。第一个，首先它能力是取决于模型的，依托于大模型本身。其次它是要自主的，因为很多它是辅助工具的话，它其实不是一个agent，对我来说它是autonomous。再一个它是能调用外部工具的。我觉得这几个特点是能够帮助我去判断一个agent它究竟是不是符合这个产品定义的。
+</p>
+<p class="transcript-line">
+<span class="time"><strong>[00:13:30]</strong> </span>
+<span class="speaker"><strong>发言人3: </strong></span>
+明白。
+</p>
+<p class="transcript-line">
+<span class="time"><strong>[00:13:30]</strong> </span>
+<span class="speaker"><strong>发言人4: </strong></span>
+我觉得是我对agent的了解理解。
+</p>
+<p class="transcript-line">
+<span class="time"><strong>[00:13:34]</strong> </span>
+<span class="speaker"><strong>发言人3: </strong></span>
+我因为准备去节目，特意回去翻了几位老师的博客。我刚才说小狼的计算机历史博物馆是在24年就停更了。但是他应该在24年甚至在二三年的播客的节目里面就已经聊过agents了。所以agent的不是一个全新的概念，其实它已经存在很久了。
+</p>
+<p class="transcript-line">
+<span class="time"><strong>[00:13:51]</strong> </span>
+<span class="speaker"><strong>发言人3: </strong></span>
+我们就顺着这个话题大家会聊到，其实本质来讲，可能A整今天确实成为了这个时间点，大家会在这一波AI大模型发展过程中的一个话题或者一个热议点。我们就往下沉，一沉沉到这。刚才我们聊过这个模型这一层，纯从模型本身的技术发展来看，无论是ONI定义的从L一到L5的这个路径，我们走到所谓的L2到L3。刚才也提到了，什么是L一跟L5，大家回去自己查。我们几个人博客应该都讲过，我们就不再展开了。那是不是今天这个时间点往后看，比如说纯大模型本身的技术的进展可见的，比如说在今年年底应该可能会到一个什么样的状态，比如说会不会有传说中的GPT5，还是什么样的东西，还是说达到一个什么样的程度，可能是在肉眼可见的这个时间点，比如到年底纯模型本身的进展的状态。
+</p>
+<p class="transcript-line">
+<span class="time"><strong>[00:14:45]</strong> </span>
+<span class="speaker"><strong>发言人1: </strong></span>
+我先echo像刚才讲说这个电台停更了这个小一年。对一个是我去生了一对双胞胎哎也算是train了两个小模型。
+</p>
+<p class="transcript-line">
+<span class="time"><strong>[00:14:57]</strong> </span>
+<span class="speaker"><strong>发言人3: </strong></span>
+对对对。
+</p>
+<p class="transcript-line">
+<span class="time"><strong>[00:14:58]</strong> </span>
+<span class="speaker"><strong>发言人1: </strong></span>
+非常小。然后另外一个是到去年年底的，因为我二三年我们就在聊聊AI聊agent，那个时候其实看不到非常多的这个应用，然后底层的技术迭代也有一段的时也有一定的时间。然后到了今年的时候，对我明天就会录新的一期。
+</p>
+<p class="transcript-line">
+<span class="time"><strong>[00:15:15]</strong> </span>
+<span class="speaker"><strong>发言人2: </strong></span>
+我会看你就把这期放进去。
+</p>
+<p class="transcript-line">
+<span class="time"><strong>[00:15:17]</strong> </span>
+<span class="speaker"><strong>发言人3: </strong></span>
+就好了吧。
+</p>
+<p class="transcript-line">
+<span class="time"><strong>[00:15:18]</strong> </span>
+<span class="speaker"><strong>发言人1: </strong></span>
+多一这一期放进来，多一今天就录了。然后我会去回顾一下，就在过去的这一年里面发生了一些什么。我想先去给自己的一个结论打个脸。就是我一年前辽A证的时候，我觉得它就是自动化的一个延伸。更多的还是帮工程师更好的去解决一些效率和工程上的问题。
+</p>
+<p class="transcript-line">
+<span class="time"><strong>[00:15:39]</strong> </span>
+<span class="speaker"><strong>发言人1: </strong></span>
+但是等到我今年再去看A证时候，我觉得如果从我不知道大家有没有架构的方面的知识，如果从系统架构或者说IT知识的角度来看的话，刚才朱峰也讲过的，他被低估的原因是在未来的未来，我不说不清有多远，未来的未来你可能不需要IT架构这回事了。你未来你比如说开家什么公司，然后你的整个IT系统就是你平台前端一个界面UI然后下面掉一堆agent，然后每一个A人都能解决一个具体的业务问题。然后这个具体的业务问题还能揣摩你的业务需求。所以到那个阶段的时候，他真的就是有用的一批工程师了。但是那阶段什么时候到？至少30年左右。但是又有讲说可能AGI30年之前会来，所以就也很说不清。
+</p>
+<p class="transcript-line">
+<span class="time"><strong>[00:16:32]</strong> </span>
+<span class="speaker"><strong>发言人1: </strong></span>
+然后这是我个人这一年来的一个认知上的更新。就是我认为AGI之所以被低估的原因就在于它未来能够在系统层面承担的这个工程的厚度会不一样。因为眼下我们的系统的架构或者说IT的架构是横着长的。最底下一层，然后再一层。如果你是电商，你可能有一层什么中间件。
+</p>
+<p class="transcript-line">
+<span class="time"><strong>[00:17:00]</strong> </span>
+<span class="speaker"><strong>发言人1: </strong></span>
+然后如果你是什么娱乐，你还有一层RTC？那到未来可能就不是一层一层这样长了，它可能就是纵着长的。然后每一个A站自己就能闭环自己的东西，让他比如说在基于，所以如果这样子想的话，那未来确实可。大有可为，所以这是一个很大的一个变化。然后这也是我觉得现在去聊agent比较好的一个时间吧。因为如果说我们我们认为这个范式在未来能够成立的话，那么逻辑上每个人都可以去。
+</p>
+<p class="transcript-line">
+<span class="time"><strong>[00:17:31]</strong> </span>
+<span class="speaker"><strong>发言人2: </strong></span>
+写一个A是对，但是具体什么时候能实现不好说，很难讲其实是很难讲。很多的时候录节目嘉宾都希望来做一下预测。我们也有的时候经常会挑战一下嘉宾，你做一下预测。但是往往这个预测是非常难的。
+</p>
+<p class="transcript-line">
+<span class="time"><strong>[00:17:48]</strong> </span>
+<span class="speaker"><strong>发言人1: </strong></span>
+但开源是加速了它的开源。
+</p>
+<p class="transcript-line">
+<span class="time"><strong>[00:17:50]</strong> </span>
+<span class="speaker"><strong>发言人2: </strong></span>
+我们如果提到这个开源的话题，确实是我前两天刚录了一期节目科技论坛。
+</p>
+<p class="transcript-line">
+<span class="time"><strong>[00:17:55]</strong> </span>
+<span class="speaker"><strong>发言人3: </strong></span>
+科技论坛上一期是聊开源。
+</p>
+<p class="transcript-line">
+<span class="time"><strong>[00:17:57]</strong> </span>
+<span class="speaker"><strong>发言人2: </strong></span>
+的开源大模型。对，聊开源大模型的，我是觉得从开源社群的这个角度，咱不也不一定是完完全全的就是狭义领域的开源。而从社群共识的这个角度，从共同构建的这个角度，我们肯定是能够加快这个进程。
+</p>
+<p class="transcript-line">
+<span class="time"><strong>[00:18:14]</strong> </span>
+<span class="speaker"><strong>发言人2: </strong></span>
+如果我们看三年前OpenAI刚出的时候，我们看到的应该是一个闭源的模型是吧？你只能去用。但是今天你们会看到大量的像deep c和前文等等这些开源的大模型。而这些开源的大模型，如果在座的各位接触到能够接触到工程化领域的一些事情之后，你们会发现其实每一个厂商现在做的是什么？做的就是在后端去怎么样把这些开源的大模型吊起来。他不一定会只用一个模型他不一定会用只用一个模型。所以这种整合，这种match再加上社群的持续的贡献，它会形成一种共识。
+</p>
+<p class="transcript-line">
+<span class="time"><strong>[00:18:58]</strong> </span>
+<span class="speaker"><strong>发言人2: </strong></span>
+包括我们还会提到MCP，其实也是今年刚刚大家开始关注的一个东西。它是不是能够通过一种共识，一种协议？因为从技术角度来讲，它很简单。能不能通过这种协议形成一个我们理想当中的一个网状的一个agent的一个架构。我不知道，对，很难预测，但是开源和社群一定会推动这个进程的发展。
+</p>
+<p class="transcript-line">
+<span class="time"><strong>[00:19:23]</strong> </span>
+<span class="speaker"><strong>发言人3: </strong></span>
+我们话题聊到这就是我觉得在过去这两年半左右时间里面，关于I大模型的开源还是闭源这件事情的争吵也一直在持续一段。
+</p>
+<p class="transcript-line">
+<span class="time"><strong>[00:19:35]</strong> </span>
+<span class="speaker"><strong>发言人1: </strong></span>
+现在已经有结论了。
+</p>
+<p class="transcript-line">
+<span class="time"><strong>[00:19:36]</strong> </span>
+<span class="speaker"><strong>发言人3: </strong></span>
+我觉得对之前的某一段时间，大家会认为可能必然的模型会更强。因为它需要很多的钱，需要商业化。但是随着比如deep sak的崛起，带来了这一波的探讨，包括很多厂商的态度来看，开源似乎成为了这个阶段的一种共识。是然后大家越来越多的看到了开源所带来的好处。然后从数据上来看，我们拉变模型開模型的效率跟打分的曲线来看，两者之间的差距今天已经微乎其微，对吧？
+</p>
+<p class="transcript-line">
+<span class="time"><strong>[00:20:06]</strong> </span>
+<span class="speaker"><strong>发言人3: </strong></span>
+就是这件事情其实可能也是这个的判断。你要知道在过去在可能2 1年半之前，整个业界的判断跟今天是完全不一样的。世界上最聪明跟最优秀的AI相关公司的认知还是在这一边的。但世界突然就变了。对，所以而且因为小狼原来是做开源社区的，对他在世界上最大跟最优秀的看书去做过，所以这个话题我觉得可以稍微的展开一点。
+</p>
+<p class="transcript-line">
+<span class="time"><strong>[00:20:33]</strong> </span>
+<span class="speaker"><strong>发言人1: </strong></span>
+现场有懂一点open source的知识的同学吗？
+</p>
+<p class="transcript-line">
+<span class="time"><strong>[00:20:38]</strong> </span>
+<span class="speaker"><strong>发言人3: </strong></span>
+举手。
+</p>
+<p class="transcript-line">
+<span class="time"><strong>[00:20:39]</strong> </span>
+<span class="speaker"><strong>发言人1: </strong></span>
+我来打个比方，因为大家应该如果关注AI的话，也会看到所谓的开源这两个字。它其实没有什么特别的。它就是以开放的方式让所有人都参与进来。一块写代码就是这么简单的一件事情。就大家一起去写代码，然后有需求一起去往往里提，然后让这个东西慢慢长起来。然后周围也会有一堆的项目围绕着他去建一个生态。那这样的话，我们刚才提到的未来的agent能够更快的解决你的业务诉求。或者说写很多很多个agent，这件事情就能够加速去实现，所以它其实是一个开放的协作模式，它并不是一个一项技术。
+</p>
+<p class="transcript-line">
+<span class="time"><strong>[00:21:16]</strong> </span>
+<span class="speaker"><strong>发言人1: </strong></span>
+然后在这个维度上，原先其实大模型开源跟闭源的point在哪里呢？闭源的公司认为说这个东西的所有权跟商业机密很重要。然后我的人才也是稀缺的，你肯定没有我人才多，然后你能那肯定也没有我强。所以我只要把人吃下来，就在湾区OpenAI吃。人吃的很凶，就给钱给的很多，然后把人挖过来，我把这个吃掉，然后我自己去不断的去迭代。我直接去进行商业化，卖给这个大企业五百强，他就能够完成他商业的这个迭代。我根本就不管这个生态发展成什么样。像不像当年的微软。对，不能这么说，微软love my microsoft，那也是后的事情了。
+</p>
+<p class="transcript-line">
+<span class="time"><strong>[00:22:00]</strong> </span>
+<span class="speaker"><strong>发言人2: </strong></span>
+对对对，逼逼了。
+</p>
+<p class="transcript-line">
+<span class="time"><strong>[00:22:02]</strong> </span>
+<span class="speaker"><strong>发言人1: </strong></span>
+对，但是就这个事件，工程师是很奇怪的一种生物，对吧？工程师永远都觉得这个资本主义是不好的，我要打破垄断，然后我要把这个封闭给它干掉，然后我要用开源的方式去打破封闭的商业化。所以它开放为什么呢？是因为工程师他确实生产能力非常强，他可以手搓大模型。然后他认为我今天打算哪怕不吃这碗饭，我也希望技术能够更好的发展。这是一个纯情怀的东西。那情怀东西背后就是他把这种开放出来之后，他可以有更好的reputation，他能拿到更高的工资，甚至他可以基于这个东西去做一家公司。
+</p>
+<p class="transcript-line">
+<span class="time"><strong>[00:22:44]</strong> </span>
+<span class="speaker"><strong>发言人1: </strong></span>
+然后其实deep seek我理解他也有这个出发点的，因为他并不想要基于他去变成一个大模型的mass商业模式的公司。他更对他更多的是通过这一把把他自己推到了一个生态位上。他到那生态位之后，怎么说呢？拍拍个大腿都知道自己该怎么赚钱。所以再加上他做了这件事情以后，大家可以看到国内的所有的这些APP的应用，然后大模型的上层的厂商，就借着这股这股东风，整个市场都能起来。这件事情绝对是利好整个产业链的。所以开源和闭源，我觉得这已经是目前的一个结论了。然后因为我们提纲里面还有一个中国跟美国的问题，大家可以看到说中国的开源跑得比美对对跑的比美国要快，是因为美国人家已经在赚钱了。
+</p>
+<p class="transcript-line">
+<span class="time"><strong>[00:23:37]</strong> </span>
+<span class="speaker"><strong>发言人3: </strong></span>
+所以我们选择了另外一种方式。对。
+</p>
+<p class="transcript-line">
+<span class="time"><strong>[00:23:39]</strong> </span>
+<span class="speaker"><strong>发言人2: </strong></span>
+中国还在后面掀桌子。
+</p>
+<p class="transcript-line">
+<span class="time"><strong>[00:23:41]</strong> </span>
+<span class="speaker"><strong>发言人3: </strong></span>
+弯道超车。
+</p>
+<p class="transcript-line">
+<span class="time"><strong>[00:23:42]</strong> </span>
+<span class="speaker"><strong>发言人1: </strong></span>
+对，人家在赚钱了，然后我们再掀桌子，然后呃他们赚钱是因为我们知道所谓的全球化，实际上就是世界500强。然后世界500强绝大部分的总部不都在美国，然后OKI它的新的版本出来以后，它基本上核心的团队都是BD，他养了大量的BD然后去这500强坐着卖自己的这个商业服务，然后在企业内部去布他们的大模型，他们赚的很好。
+</p>
+<p class="transcript-line">
+<span class="time"><strong>[00:24:13]</strong> </span>
+<span class="speaker"><strong>发言人2: </strong></span>
+然后他们也是私有部署。对。
+</p>
+<p class="transcript-line">
+<span class="time"><strong>[00:24:16]</strong> </span>
+<span class="speaker"><strong>发言人1: </strong></span>
+国外的原因没有那么没有那么好，所以但是国内不一样，国内大模型厂商就是大厂，基本上还是自己手搓。之前还在囤芯片的那轮大战里，对，然后自己搓，我也不会去采购一个商业公司的服务，因为没有一家做的比听起来做的比open要更好。所以国内就是这种蓬勃的生命力在这个时候展现出来，所以开源所以中国开源会做的更快一些。但这个东西它能带来的好处就是他会像当年互联网那波一样。
+</p>
+<p class="transcript-line">
+<span class="time"><strong>[00:24:52]</strong> </span>
+<span class="speaker"><strong>发言人2: </strong></span>
+对特别。
+</p>
+<p class="transcript-line">
+<span class="time"><strong>[00:24:53]</strong> </span>
+<span class="speaker"><strong>发言人1: </strong></span>
+像有一波弯道超车。然后中国的IT基础设施之差，这句话不能不太好讲。
+</p>
+<p class="transcript-line">
+<span class="time"><strong>[00:25:00]</strong> </span>
+<span class="speaker"><strong>发言人2: </strong></span>
+没尤其是是很客观。
+</p>
+<p class="transcript-line">
+<span class="time"><strong>[00:25:03]</strong> </span>
+<span class="speaker"><strong>发言人3: </strong></span>
+对，尤其是你不能我们节目不能讲，作为提供者是不能讲这句话。
+</p>
+<p class="transcript-line">
+<span class="time"><strong>[00:25:08]</strong> </span>
+<span class="speaker"><strong>发言人1: </strong></span>
+讲到你这。好，对就是对。基于这个现状，我们能够更好的未来还有一批新公司，基于AI去构建。所以他跟当年的互联网真的非常像，然后开源又加速了这件事情。所以这是为什么我从美国回来的原因？
+</p>
+<p class="transcript-line">
+<span class="time"><strong>[00:25:25]</strong> </span>
+<span class="speaker"><strong>发言人3: </strong></span>
+好，朱老师有什么补充？
+</p>
+<p class="transcript-line">
+<span class="time"><strong>[00:25:28]</strong> </span>
+<span class="speaker"><strong>发言人2: </strong></span>
+其实我觉得从这一轮上来看，其实中国和海外还有一个巨大的区别。海外在使用某些服务的时候，他更愿意选择什么？选择一个SaaS系统对是吧？对我在云上我可以去用，比如SCP等等这些公司其实都是基于这一轮起来。
+</p>
+<p class="transcript-line">
+<span class="time"><strong>[00:25:47]</strong> </span>
+<span class="speaker"><strong>发言人2: </strong></span>
+但是你们会发现在中国to b的生意很难做。大家都想四个字叫什么自主可控一体机。所以中国有一个特殊的商业模式在，就是一体机。我给你搓一个一体机，把这显卡兑进去放你公司内部。这个是跟中国企业选择服务的一个偏好有关系的那你总不能说我去买一个闭源模型的东西，我放在我的企业内部去部署它很多的一体机，它所附带的可能都是deep seek千问等等这种东西。然后放在企业内部，然后再在上层再去做应用，它都是以这种模式来做。这跟中国企业的一个偏好也会有一定的关系。
+</p>
+<p class="transcript-line">
+<span class="time"><strong>[00:26:33]</strong> </span>
+<span class="speaker"><strong>发言人1: </strong></span>
+对，这是我们现在的商业模式。
+</p>
+<p class="transcript-line">
+<span class="time"><strong>[00:26:36]</strong> </span>
+<span class="speaker"><strong>发言人2: </strong></span>
+是吗？
+</p>
+<p class="transcript-line">
+<span class="time"><strong>[00:26:36]</strong> </span>
+<span class="speaker"><strong>发言人1: </strong></span>
+对我就是咱们我是说咱们。
+</p>
+<p class="transcript-line">
+<span class="time"><strong>[00:26:40]</strong> </span>
+<span class="speaker"><strong>发言人2: </strong></span>
+好的，我现在以为是你的商业模式。
+</p>
+<p class="transcript-line">
+<span class="time"><strong>[00:26:42]</strong> </span>
+<span class="speaker"><strong>发言人1: </strong></span>
+国内现在大厂的就是to b，企业对IT这一块的商业模式主要是以采购为主。
+</p>
+<p class="transcript-line">
+<span class="time"><strong>[00:26:48]</strong> </span>
+<span class="speaker"><strong>发言人2: </strong></span>
+对，要买设备。
+</p>
+<p class="transcript-line">
+<span class="time"><strong>[00:26:50]</strong> </span>
+<span class="speaker"><strong>发言人1: </strong></span>
+对，买设备，然后下订单，然后垃圾房。对，如果你不做采购这件事情的话，对于你来讲，它就不是一个企业资产。你用云服务，用sas然后你的数据在云上，这风险可大了。一你公司没有资产，你破产清算的时候，你连个机房都没有。
+</p>
+<p class="transcript-line">
+<span class="time"><strong>[00:27:07]</strong> </span>
+<span class="speaker"><strong>发言人2: </strong></span>
+对，然后是费用不是成本。
+</p>
+<p class="transcript-line">
+<span class="time"><strong>[00:27:09]</strong> </span>
+<span class="speaker"><strong>发言人1: </strong></span>
+对，是这这是非常关键的一个东西。然后第二个就是你你的数据如果说在云上OK，你自己在做数据确权或未来有可能做数据交易的时候，你也没有资产。你啥都没有。所以在国内的这个IT的商业模式的前提下，SARS就做的不是很好。
+</p>
+<p class="transcript-line">
+<span class="time"><strong>[00:27:30]</strong> </span>
+<span class="speaker"><strong>发言人3: </strong></span>
+对，但这个问题我多引申一句几句。是这样的，因为原来我是做这个美元的风险投资的。我们大概从2010年左右开始做中国的TMT的投资的时候，其实2010年正好差不多是移动互联网爆发了。然后其实从200年开始，我们看中美两国的TMT发展的主线其实是非常清楚的。中国的主线就是移动互联网加后期的算法，就这么一件事情，然后长成了今天我们在用的所有的东西。美国那边主线除了这条线之外，有另外一条线就是云，就是云的这条线就切腹cloud sas这条to b的这条生态链。
+</p>
+<p class="transcript-line">
+<span class="time"><strong>[00:28:04]</strong> </span>
+<span class="speaker"><strong>发言人3: </strong></span>
+所以在那个时间点，比如我们作为一个美元基金，我们其实内部有两个最大的组。一个组是to c的移动互联网组，一个就是to b的组。最后的成绩来看就是to c的组赚的盆满钵满，对吧？
+</p>
+<p class="transcript-line">
+<span class="time"><strong>[00:28:15]</strong> </span>
+<span class="speaker"><strong>发言人3: </strong></span>
+To b组全军覆没，很不好全军覆没。对，很不好。就是我们沿袭着看上去跟美国差不多的生态，我们也去找pass层、S层、sas层，到sas层再去细分HR财务、法务、物流、营销。所有的这些方式去选择中国合适的公司去做投资的选择。但最后可能在2 0223年，你布局了十年多的行业之后，从风险投资投资的角度来看，最后就是全军覆没。
+</p>
+<p class="transcript-line">
+<span class="time"><strong>[00:28:45]</strong> </span>
+<span class="speaker"><strong>发言人3: </strong></span>
+我记得特别清楚，就是二三年还是二年，有一家香港上市的港股公司叫北森。我不知道大家是否知道这家公司，北森是中国最大的HR sas公司，就是很多公司HR系统就是他们做的。我们认为HR至少在美国HR sas也是一个巨大的市场。
+</p>
+<p class="transcript-line">
+<span class="time"><strong>[00:29:03]</strong> </span>
+<span class="speaker"><strong>发言人3: </strong></span>
+这个公司可能在一市场融了几十亿的钱融了几十亿的钱，它的估值可能是几十亿美金估值。在意识上港股上市当天300亿港币，为什么是300亿港币？因为他在融资的条款中签约的合格IPO的条款叫300亿。如果低于这个是不能发出来的。但是你要知道二级市场是不会惯着你的。第一天三百一上去，第一天跌50%，第二天再跌50%，一周之后这公司只值30亿港币。
+</p>
+<p class="transcript-line">
+<span class="time"><strong>[00:29:39]</strong> </span>
+<span class="speaker"><strong>发言人1: </strong></span>
+今天要在香港上市。
+</p>
+<p class="transcript-line">
+<span class="time"><strong>[00:29:40]</strong> </span>
+<span class="speaker"><strong>发言人3: </strong></span>
+对这是另外一个话题，我们在这不展开了。至少原来那条路径可能在上一个我们习惯的的互联网发展领域不是特别理想。但是这轮可能会有一些变化，就当可能就跟我们今天话题是相关的。就是当AI来了之后，agent也好，实施也好，或者说更多的to b的企业的服务的厂商GVI在做适合中国本土的，无论是采购还是什么样的方式的业务的时候，可能这轮会有一些转机对吧？我们至少期待是这个样子。所以补充一点这个话题，然后我们继续往下走。
+</p>
+<p class="transcript-line">
+<span class="time"><strong>[00:30:15]</strong> </span>
+<span class="speaker"><strong>发言人3: </strong></span>
+就是刚才在聊的话题当中，我们无意的也出现了一些关键词。这些关键词可能是跟今年agent的差不多频率出现的，比如说MCP对吧，比如说a to a对吧，最近一个月也有很多人探讨，比如说多模态对吧，比如说刚才我们说的上下文的记忆。这些关键词对于因为我不是学技术的，对于我们这种不是学技术出身而言的，这些关键词，尤其是英文的几个字母出现的时候，你真的是满头问号，对吧？要我们就聊聊这个事情。比如说为什么最近一段时间MCP的讨论特别的多，或者说大家现场有人不知道MCP，就是大概完全没听过MCP的可以举下手吗？我还是有3分之1的到来。朱老师。
+</p>
+<p class="transcript-line">
+<span class="time"><strong>[00:31:01]</strong> </span>
+<span class="speaker"><strong>发言人2: </strong></span>
+那你来吧你来吧你来这个更是生态领域的事情是吧？对，其实MCB大家如果简单的理解的话，它其实就是在AI agent，或者我们现在可能说大一点叫AI智能体是吧？在这些之间建立了一个应用程序接口，就是他们之间可以用代码互相通信了。比如说我要订个房，我问AI我想明天在上海订一间房，什么位置？在比如说在融美影城附近订一间房，那么它的AI就会我们的AI的大模型的后端。如果它支持某个订房的MCP的接口的话，它就会调用这个接口，这个接口就会返回来一些关于订房的信息，就像我们在某些网站上去查房太一样，对吧？有哪些酒店在哪个附近，他通过应用程序，它通过这个接口把这个信息返回给你。
+</p>
+<p class="transcript-line">
+<span class="time"><strong>[00:31:58]</strong> </span>
+<span class="speaker"><strong>发言人2: </strong></span>
+然后你甚至可以做下一步操作，你帮我付款，或者你帮我选择进一步的选择他进一步的再去调。比如调支付宝的MCP，把款付掉。然后这些MCP其实它是有一个网状的结构，我们能互相连接起来，后面还可以做清算，做结算等等。它其实就是在AI的智能体之间，我们建立了一套互联互通的体系。我不知道我这么理这么讲大家能不能理解？对我讲的可能有一点技术。
+</p>
+<p class="transcript-line">
+<span class="time"><strong>[00:32:31]</strong> </span>
+<span class="speaker"><strong>发言人1: </strong></span>
+跟AI可以打电话了。
+</p>
+<p class="transcript-line">
+<span class="time"><strong>[00:32:32]</strong> </span>
+<span class="speaker"><strong>发言人2: </strong></span>
+对，AI和AI之间他们自己可以聊了，我不用管了，你最终我前端的大模型返回给我一个结果就行，让我选就好了，剩下的事情你们自己沟通去。是这样一个东西。对，那今年这也是很很火的一个概念。
+</p>
+<p class="transcript-line">
+<span class="time"><strong>[00:32:49]</strong> </span>
+<span class="speaker"><strong>发言人1: </strong></span>
+这个玩法其实是为下一个阶段准备的。是的，下一个阶段是向multi agent方向去发展。是的，但是如果没有MCP这一层的话，那对于用户来讲他也用的挺揪心。对，很多的action没有办法做。然后我其实觉得MCP的这套玩法在国内怎么讲有点困难，因为国内有天然。
+</p>
+<p class="transcript-line">
+<span class="time"><strong>[00:33:15]</strong> </span>
+<span class="speaker"><strong>发言人3: </strong></span>
+的壁垒障碍。
+</p>
+<p class="transcript-line">
+<span class="time"><strong>[00:33:17]</strong> </span>
+<span class="speaker"><strong>发言人1: </strong></span>
+生殖隔离。
+</p>
+<p class="transcript-line">
+<span class="time"><strong>[00:33:18]</strong> </span>
+<span class="speaker"><strong>发言人2: </strong></span>
+对对好。
+</p>
+<p class="transcript-line">
+<span class="time"><strong>[00:33:20]</strong> </span>
+<span class="speaker"><strong>发言人1: </strong></span>
+对，就比如说我们我们很流行干嘛都在这个微信公众号里，对吧？All in one, 对，all in one.
+</p>
+<p class="transcript-line">
+<span class="time"><strong>[00:33:27]</strong> </span>
+<span class="speaker"><strong>发言人2: </strong></span>
+然后在微信里。
+</p>
+<p class="transcript-line">
+<span class="time"><strong>[00:33:28]</strong> </span>
+<span class="speaker"><strong>发言人1: </strong></span>
+在小程序里。对，在小程序里，然后他跟其他的这个其他域的工具和流量都有挺大的隔离的。是的，但是海外其实PC比较多。大家可能不知道美国还挺美国的手机消费品市场是低端机的天下，就是大家手机里不需要装那么多APP，然后他们的APP也做的挺挺简单的。然后大家更多的说还是拿个电脑在那边对做有的没的，每天还要拿电脑去check email。
+</p>
+<p class="transcript-line">
+<span class="time"><strong>[00:34:05]</strong> </span>
+<span class="speaker"><strong>发言人2: </strong></span>
+对，哪怕在手机上弄一个东西。
+</p>
+<p class="transcript-line">
+<span class="time"><strong>[00:34:06]</strong> </span>
+<span class="speaker"><strong>发言人1: </strong></span>
+它也是打开一个网页，也是对，也是打开一个网页，然后发短信，人家发短信。但是国内就提前进入到了移动互联网的only one的里面。那这个里面它就会带来我刚刚讲的生殖隔离，生殖隔离就会导致你的很多的工具的调用其实是有比较大的block，所以就要看平台和平台之间谈的怎么样。对，如果平台和平台之间谈不好的话，那。
+</p>
+<p class="transcript-line">
+<span class="time"><strong>[00:34:34]</strong> </span>
+<span class="speaker"><strong>发言人3: </strong></span>
+就是。
+</p>
+<p class="transcript-line">
+<span class="time"><strong>[00:34:35]</strong> </span>
+<span class="speaker"><strong>发言人1: </strong></span>
+断的。
+</p>
+<p class="transcript-line">
+<span class="time"><strong>[00:34:36]</strong> </span>
+<span class="speaker"><strong>发言人3: </strong></span>
+就跟今天我们用各种APP1样。
+</p>
+<p class="transcript-line">
+<span class="time"><strong>[00:34:38]</strong> </span>
+<span class="speaker"><strong>发言人1: </strong></span>
+所以我们也希望说能够有人？推动一下各个大平台开放度再再大一点，然后让AI能够穿梭一下。但如果AI穿梭了，那这个流量的钱就跑散了。
+</p>
+<p class="transcript-line">
+<span class="time"><strong>[00:34:49]</strong> </span>
+<span class="speaker"><strong>发言人2: </strong></span>
+对对对，就可能从商业模式上可能要建立一个新的架构才有可能。或者是说，会不会就像我们当时的移动互联网打败传统互联网的时候一样，会出现一个新的巨头的新的入口。然后我们建立了一些新的标准，把传统的这些古典互联网的参与者打掉。对，比如就像微信打掉了百度一样是吧？
+</p>
+<p class="transcript-line">
+<span class="time"><strong>[00:35:17]</strong> </span>
+<span class="speaker"><strong>发言人3: </strong></span>
+对，前几天大胆来过这附近，大家知道这个就是上海的这个什么什么魔术空间，对吧？然后那天我不知道大家是否看了当天的新闻联播，如果没有看的话，我建议大家回去看一下。
+</p>
+<p class="transcript-line">
+<span class="time"><strong>[00:35:31]</strong> </span>
+<span class="speaker"><strong>发言人2: </strong></span>
+不是我我每次新闻联播都是AI自动给我总结的。
+</p>
+<p class="transcript-line">
+<span class="time"><strong>[00:35:35]</strong> </span>
+<span class="speaker"><strong>发言人3: </strong></span>
+就是我们刚才聊的这段话。我们看我们刚才大概聊了半个多小时，聊的技术，聊了AI agent，聊了开源跟闭源，聊了一些中国美国的对比，包括聊了今天这个时间点很热门的MCP对吧？听起来是一些非常散的点，但是为什么推荐大家回头去看那天的新闻联播呢？很有意思。那天新闻联播的时候有一个画面应该是大大去了一个公司拜访，那公司正好在开会，有一帧画面是那是会议室的白板，那会是白板写的是什么呢？叫下一代智能体的发展。
+</p>
+<p class="transcript-line">
+<span class="time"><strong>[00:36:07]</strong> </span>
+<span class="speaker"><strong>发言人2: </strong></span>
+下一代AI的问题。我看到这个对。
+</p>
+<p class="transcript-line">
+<span class="time"><strong>[00:36:08]</strong> </span>
+<span class="speaker"><strong>发言人3: </strong></span>
+然后列了几个细碎的小巷，下一代要干什么？上下文的记忆要变长，要实现多agent之间的互通，要让他做的任务的时间从原来可能一个人几个小时的工作变成了几个人一周的工作时间，任务的变复杂。然后多agent之间的通信协议，然后再往下记一个点，就是那一帧，有兴趣大家可以去翻，我不确定的是哪天，反正大家知道是哪一帧，哪天的通讯联播会可以回去找。然后这部分关于技术的讨论我们差不多到这儿。
+</p>
+<p class="transcript-line">
+<span class="time"><strong>[00:36:45]</strong> </span>
+<span class="speaker"><strong>发言人3: </strong></span>
+最后给大家一句话，可能也方便大家在过程中，包括以后去看到所有今天这个事情在发生的AI相关技术理论在发生的事情。怎么理解？这句话特别的简单。这一轮的AI大模型的发展在开始经历从语言到行为你会发现今天我们聊的很多事情全部都是这个逻辑。
+</p>
+<p class="transcript-line">
+<span class="time"><strong>[00:37:11]</strong> </span>
+<span class="speaker"><strong>发言人3: </strong></span>
+因为这轮的AI叫大语言模型，对吗？叫辣large language model，它是语言模型。所以在过去的两年多时间里面的模型的发展能力更多是在语言跟对话的行为上的。但是发展两年多，这个事情总要用起来了，用起来的时候它叫智能体也好，它叫agent也好多agent协作也好，干活也好，他要有行为。所以有些厂商在做的事情是把这个行为能力变得更强。为了行为能力更强，我要更强的上下文协议要更多的理解。同时有些厂商在做的事情是说，他要用现存的世界上的工具，工具之间要有跟AI的通信协议，所以有MCP，所以你会发现这个事情至少在技术这一层以这种方式被传起来了。对，就是关于这一节我们的一个小小的总结，这个我稍微。
+</p>
+<p class="transcript-line">
+<span class="time"><strong>[00:38:05]</strong> </span>
+<span class="speaker"><strong>发言人4: </strong></span>
+补充一点。对，因为刚才大家谈的还主要是LLM，就是大语言模型。其实在并行的世界还是在物理世界也有其他的大模型。是的，比如说在车的这个领域和机器人的领域，它实际上是vision action的模型。就是刚才那个明浩谈到了说现在我们从L到A对吧？Language action正在逐渐演进之前在这个简单来说通俗一点词儿什么那些时髦叫具身智能。不论是车还是说真正的这些人形机器人，它都可以是称视为一种机器人。他们的模型最开始是vision开始的，他们不是靠语言两条并行的路线，它是在物理世界去发生的，它是一个从vision到action的一个模型。
+</p>
+<p class="transcript-line">
+<span class="time"><strong>[00:38:49]</strong> </span>
+<span class="speaker"><strong>发言人4: </strong></span>
+随着大模型整个技术前面推进，现在进入了一个新的阶段。比如大家可能会听到一个很时髦的词叫端到端。比如像特斯拉大促开始实现的智能驾驶的这个技术方案。后续很多国内的第一梯队也纷纷实现了这样的方式。下一步他们一个国内厂商的一个方向叫VLA。他会在V和A中间加上L就是把language结合到之前的从vision action这个模型里面一起来训练。它跟之前的L到A是一个并行的方式。在物理世界也在发生这样的情况，不论是在车上还是在真正的人形机器人方面，他们在模型的多模态方面也在发生的一些演进。包括agent就是除了LOM还有另外一个世界在发生着进化。
+</p>
+<p class="transcript-line">
+<span class="time"><strong>[00:39:38]</strong> </span>
+<span class="speaker"><strong>发言人3: </strong></span>
+大家看车企的广告的时候，看到VLA肯定都是眼蒙的。但今天听完我们大概你就知道VLA分别是什么，对吧？我们继续往下看到。这个刚才也或多或少的开始渗透到了，我们开始聊到了产品的话题。
+</p>
+<p class="transcript-line">
+<span class="time"><strong>[00:39:55]</strong> </span>
+<span class="speaker"><strong>发言人3: </strong></span>
+我们上面大部分是在聊技术的发展跟技术的趋势的问题。但是技术是技术这一层的，我们作为普通的用户，无论是个人还是企业，我们要用的那个东西叫产品使用的一个东西。用XTP或者deep sik的比喻来讲，deep sik r一是模型，deep sik的APP是我们用的产品。
+</p>
+<p class="transcript-line">
+<span class="time"><strong>[00:40:13]</strong> </span>
+<span class="speaker"><strong>发言人3: </strong></span>
+那我们就开始聊聊产品的事情。比如说今年可能上半年最火的，我做过再做过这个调查。有人有多少人用过这个deeply research，就是ChatGPT的那个deeply的功能还可以，比让有人多少人用过中国国产的那个叫Venus的产品，这个就少很多。因为还在邀请对吧？对，然后那有多少人那那最近有多少人用了这个，比如说字节的cos空间也有是吧？然后比如说百度的心想这个好像没有，也有。好，可以。比如说这个蚂蚁不是。
+</p>
+<p class="transcript-line">
+<span class="time"><strong>[00:40:52]</strong> </span>
+<span class="speaker"><strong>发言人2: </strong></span>
+也做了一个吗？
+</p>
+<p class="transcript-line">
+<span class="time"><strong>[00:40:54]</strong> </span>
+<span class="speaker"><strong>发言人3: </strong></span>
+他们那个叫啥来着？
+</p>
+<p class="transcript-line">
+<span class="time"><strong>[00:40:55]</strong> </span>
+<span class="speaker"><strong>发言人2: </strong></span>
+不提了，不提了。好。
+</p>
+<p class="transcript-line">
+<span class="time"><strong>[00:40:58]</strong> </span>
+<span class="speaker"><strong>发言人3: </strong></span>
+没关系，好好好，你发现这一轮关于这个讨论当中，除了刚才我们聊到的技术本身的发展之外，更重要的是大家切身的开始用到一些打着agent名号的产品。那为什么用这个关键词叫打着agent名号的产品？就是说很多东西是挂羊头卖狗肉的对吧？很多都是新瓶装旧酒的。但是确实至少截止到25年上面这个时间点，我们叫通用的A类的那个产品，确实引发了这一波的比较多的讨论。
+</p>
+<p class="transcript-line">
+<span class="time"><strong>[00:41:27]</strong> </span>
+<span class="speaker"><strong>发言人3: </strong></span>
+我们就从这个话题作为开始的切入。如果大家没用过的话，我建议大家在这场结束之后可以去用一用。因为这几个大厂的现在的产品，国内的产品应该都是不需要邀请了。比如说字节的cos空间应该是不需要的对，这个百度的心想应该也是不需要的。然后各种AI搜索工具的deep reset功能现在越来越多，也应该是不太需要邀请大家如果有兴趣可以去试一试。对，要不我们从这个话题开始，比如说用过吗？或者感受怎么样。
+</p>
+<p class="transcript-line">
+<span class="time"><strong>[00:41:53]</strong> </span>
+<span class="speaker"><strong>发言人4: </strong></span>
+或者是我先提个问题。因为我从我自己的使用体验来看，其实我对通用agent这个名字其实是。
+</p>
+<p class="transcript-line">
+<span class="time"><strong>[00:42:02]</strong> </span>
+<span class="speaker"><strong>发言人3: </strong></span>
+有质疑对吧？对对对。
+</p>
+<p class="transcript-line">
+<span class="time"><strong>[00:42:03]</strong> </span>
+<span class="speaker"><strong>发言人4: </strong></span>
+这个问题非常好。对我我其实在我的理解，他通用其实本身是大模型的能力。是的，我其实agent对我来说它是一个更专业更垂直的工作流。它把它产品化了，他就应该是更专业的，而不是一个更泛化更通用的对对，所以我之前大概之前大家其实分两类，deep research一类这种所谓什么调研型，对，还有一种是生成型的对，类似于coding这种东西。基本上manus可能最牛，这俩加一块儿了他都能做。但是我觉得对我来说在使用上他们都不是通用型的。
+</p>
+<p class="transcript-line">
+<span class="time"><strong>[00:42:37]</strong> </span>
+<span class="speaker"><strong>发言人3: </strong></span>
+Ok我们这个话题就变成了这个话，我觉得这个话题也很有意思。通用还是垂直。其实我们回头来看，还是按open I的定义。LE叫chatbot，就是我们用到字节豆包ChatGPT。
+</p>
+<p class="transcript-line">
+<span class="time"><strong>[00:42:50]</strong> </span>
+<span class="speaker"><strong>发言人3: </strong></span>
+我们从早年的上一代的AI走到GPT的时候，是经历了一次通用的拆。GP发布第一天没有说任何他要做的垂直行业，他说我什么都能干对吧？L一的时候是通用的，L2的时候到了deep research，deep sak，到了O一的时候又经历了一次通用，吧？我是通用的推理模型，我也没有说我是专门做某个板块的通用。那这轮如果这个事情真的如OpenAI定义的，L1到L2到L3的话，agent这一轮是不是还应该是通用的？我们话题收敛。
+</p>
+<p class="transcript-line">
+<span class="time"><strong>[00:43:28]</strong> </span>
+<span class="speaker"><strong>发言人1: </strong></span>
+我个人对通用的理解，他可能是for个人的个人。
+</p>
+<p class="transcript-line">
+<span class="time"><strong>[00:43:33]</strong> </span>
+<span class="speaker"><strong>发言人3: </strong></span>
+个人开发者。
+</p>
+<p class="transcript-line">
+<span class="time"><strong>[00:43:34]</strong> </span>
+<span class="speaker"><strong>发言人1: </strong></span>
+个人用户。因为原先其实新的技术出现的时候，所谓的通用的技术它是for开发者的，更多的解决是开发者的工作诉求，然后开发者的一些小癖好的需求。但是这一波大模型，因为它是自然语言交互，它变革了交互形式，所以可以走到这个千家万户当中去。所以它的这个通用更多的是for个人，你满足你的个人的成长诉求，学习诉求，包括搜索诉求。这个我觉得是他通用的产品的逻辑。这也是为什么很多的通用的所谓的A正也好，check book也好，会被大模型本身的产品形态替代掉的原因。
+</p>
+<p class="transcript-line">
+<span class="time"><strong>[00:44:14]</strong> </span>
+<span class="speaker"><strong>发言人1: </strong></span>
+因为大模型它慢慢的演进能力上去之后，就可以解决这种个人视角层面的这些需求，这是跟他自己的技术演进路线相关的。但你说这个东西是不是会变成一个通用的产品，我认为未来应该会变成某种程度上的集成工具。就他单独作为一个产品放在那边，但不解决一个实际的具体需求是很难的。哼所以这是我对通用agent的理解。
+</p>
+<p class="transcript-line">
+<span class="time"><strong>[00:44:39]</strong> </span>
+<span class="speaker"><strong>发言人1: </strong></span>
+然后我也有一个建议，就是因为大家刚听了很多的技术之所以听起来很散的原因在于它的底层技术还在往前演进，对快速发展他他没有确定。所以上层的这个通用A证的所谓的工具，什么豆包、扣子这些东西大家可能之前用觉得傻不拉几的，然后你慢慢你会觉得过一段时间就聪明一点。然后等到了哪一天你会发现，他真的能够当个人了。那个时候就是他真正的能够在你的旁边去帮你解决问题的时候，我是觉得大家可以跟着他一起去成长，这是一个非常好的进入的时间。是的，如果说你当然如果有小孩的话，你可以现在就让他开始用AI他有问题就可以去问一下AI这是一个非常好的一个培养下一代新脑子的一个办法。然后这是通用A证。我的想法。
+</p>
+<p class="transcript-line">
+<span class="time"><strong>[00:45:28]</strong> </span>
+<span class="speaker"><strong>发言人3: </strong></span>
+主要是。
+</p>
+<p class="transcript-line">
+<span class="time"><strong>[00:45:29]</strong> </span>
+<span class="speaker"><strong>发言人2: </strong></span>
+其实对于我来讲，有了很多的所谓的通用的agent我反而不太敢用了。因为我会发现他的能力其实是有上限的，对他给我搭了一个茧房。比如说我用一些最简单搜索，对吧？我去搜的时候，他给到我的那些东西，他会给我一个很看上去很好的结果。但是往往这个结果好像不对。对，很多时候都是这样，他给你了一个非常完整的一个报告，然后发你会发现他说的不太对，然后你又不可能每一条的引用都点进去，结果会导致什么呢？我又用回了传统的搜索，我还是要用传统的搜索，我看多方面的这个结果，然后我再去check一遍，其实并没有给我省很多的事儿，这是非常典型的一个情况。包括这次我们去给我们的二狂去做这个AIA症的时候，我们也会发现他的。
+</p>
+<p class="transcript-line">
+<span class="time"><strong>[00:46:33]</strong> </span>
+<span class="speaker"><strong>发言人1: </strong></span>
+幻觉的现象。
+</p>
+<p class="transcript-line">
+<span class="time"><strong>[00:46:34]</strong> </span>
+<span class="speaker"><strong>发言人2: </strong></span>
+还是幻觉是相对比较大的。是的。
+</p>
+<p class="transcript-line">
+<span class="time"><strong>[00:46:37]</strong> </span>
+<span class="speaker"><strong>发言人3: </strong></span>
+当然这个可能取决于数据源的问题。
+</p>
+<p class="transcript-line">
+<span class="time"><strong>[00:46:39]</strong> </span>
+<span class="speaker"><strong>发言人2: </strong></span>
+一个是数据源的问题，一个可能是我没有加钱用更好的模型。默认的那个小模型可能确实是有一点问题。但是你会发现如果我们过于的作为个人用户，还是讲to c这块，对于个人用户来讲，如果你盲目的去使用这个模型，就把通用模型返回的结果当成一个结果或者一个真理的话，往往你可能会踩到坑里。对，就会有这方面的。但是我们今天也会发现延展一下，今天也会发现有一些开发者在用一些编程的工具是吧？Coding, 对，coding的工具也会有。但是每一个开发者都会用完了之后都会跟我讲，我虽然用两天的时间就完成了一个以前要写一周的东西，结果我调错又花两周。
+</p>
+<p class="transcript-line">
+<span class="time"><strong>[00:47:29]</strong> </span>
+<span class="speaker"><strong>发言人3: </strong></span>
+Debug的时间比减少的时间。
+</p>
+<p class="transcript-line">
+<span class="time"><strong>[00:47:31]</strong> </span>
+<span class="speaker"><strong>发言人2: </strong></span>
+因为我完全没有办法控制AI的行为，他给我写出来了，是一个又不是不能用。但是你仔细看你会发现里面有很多幻觉，带来了一些奇奇怪怪的逻辑，会有这种情况。所以今天我们是不是真的应该去把通用agent变成一个银弹？我觉得我远远没有到那个时候。
+</p>
+<p class="transcript-line">
+<span class="time"><strong>[00:47:57]</strong> </span>
+<span class="speaker"><strong>发言人1: </strong></span>
+对，同时我其实建议大家在这个阶段使用agent的时候，锻炼出自己的这个杠精的本事。就是你不断的去反问他，批判他，然后A他对PUA它，然后让他不断的自己去判断自己说的话，自己是不是在说胡话。甚至你可以告诉他，你就是在说胡话，然后看他怎么圆。在现在这个阶段，你需要通过用这样的方式让他自己心里有点数，同时你也需要通过这样的方式不断的每天去提醒自己，他很有可能在说胡话。你这个时候要对要要有这样的一个学习的能力，就不要把它当成正确答案。
+</p>
+<p class="transcript-line">
+<span class="time"><strong>[00:48:34]</strong> </span>
+<span class="speaker"><strong>发言人4: </strong></span>
+我补充一点，我觉得刚才朱老师谈到这个遭遇，其实恰恰说明了agent它比较微妙的这个位置。就是一方面他的能力是依托于大模型的，他不可能摆脱大模型本身的一些缺陷，自己变得更好？比这个模型能力还强。这个幻觉本身大模型本身就存在。第二他其又担心大模型能力特别好，把它给替代了。一方面我希望大模型好，也希望大模型不要那么好。
+</p>
+<p class="transcript-line">
+<span class="time"><strong>[00:49:02]</strong> </span>
+<span class="speaker"><strong>发言人4: </strong></span>
+我觉得这是agent的一个现在有一点微妙的一个位置。但我觉得对我来说，我会一个不恰当的用旧世界的方式来看它的话。比如大模型可能更像一个操作系统，agent可能更像一些应用。就是它需要不同的应用来满足不同的需求。但是它是成长在这个OS上面的，需要它不同的管理，不同的调配，包括它整个资源和算力，我觉得agent它其实不用担心过于担心。
+</p>
+<p class="transcript-line">
+<span class="time"><strong>[00:49:35]</strong> </span>
+<span class="speaker"><strong>发言人4: </strong></span>
+大模型本身的能力的提升。而且他只有大模型能力提升了，A才能变得越来越有用，以及不同的专用的agent的丰富起来。它其实就变成整体的一个通用的agent。就是它作为一个整体来说，它是可以泛化，可以通用的。作为一个agent的个体来说，它是一个垂直的专用的。
+</p>
+<p class="transcript-line">
+<span class="time"><strong>[00:49:56]</strong> </span>
+<span class="speaker"><strong>发言人3: </strong></span>
+OK在这轮的这这个MaaS火的时候，我做过一次测评。然后做测评的过程我觉得特别有意思，就是你的前置的思考特别的多。因为你要思考交给他一个什么样的任务。你能理解就是今天如果我交给他一个简单的搜索任务，他一定完成的不好。因为搜索今天的发展要远比这个AI agent早太多，并且深入的太多。如果交给一个过于复杂任务，他看上去也完成不了，那你就达不到测试他的目的，对吧？所以当这个新的工具来的时候，你会发现反过来要求我们作为使用者而言的要求变得更高。
+</p>
+<p class="transcript-line">
+<span class="time"><strong>[00:50:33]</strong> </span>
+<span class="speaker"><strong>发言人3: </strong></span>
+然后最后很巧合的是我跟上一场坐在这蓝溪老师找到了同一个任务，这个任务特别的匹配。我简单说一下，如果听我不会知道我们找到哪个任务。在minus发布的第二天，世界上知名的VC机构H6Z发了一个榜单，这个榜单是统计过去半年top 50的AI外部网站，以及top 50的AI的DAU的APP。它这个榜单是每半年更新的。然后又因为他这个榜单刚刚更新，所以世界上没有任何一个媒体或者新闻机构或者什么人写过这个榜单的详细分析，只有他自己写了一篇。
+</p>
+<p class="transcript-line">
+<span class="time"><strong>[00:51:10]</strong> </span>
+<span class="speaker"><strong>发言人3: </strong></span>
+我们发现了这个任务，这个任务是什么呢？你是列出来了50个网站加50个APP，当然中间有重合，比如chat GP的网站一定会在，chat GP的APP也会在。好，我交给你的任务是说，你帮我去查这个里面涉及的这100个网站，50个网站跟50F有多少中国公司。大家想象一个任务，这个任务的执行，那篇H6Z的文章有两张表，50个网站，50个APP。它有一篇文章简单解释一下所有的信息源，基础的信息源就是这样。
+</p>
+<p class="transcript-line">
+<span class="time"><strong>[00:51:41]</strong> </span>
+<span class="speaker"><strong>发言人3: </strong></span>
+我交给你之后，他第一次返回的结果，他说是九个还是七个，我说这不可能这么少。那为什么是这个数字呢？因为在H6Z官方那篇文章里面，他说了几个中国公司，所以第一次返回的结果就是一个最最偷懒的结果。听明白了吗？他只针对那篇文章做了分析。好，我告诉他，我说不可能这么少。他第二去做又去找第二回又给我返回来大概十几个结果，我说依然不可能这么少。然后我再去查他第二次的整个，因为你会发现他整个的实现的路径跟过程。
+</p>
+<p class="transcript-line">
+<span class="time"><strong>[00:52:18]</strong> </span>
+<span class="speaker"><strong>发言人3: </strong></span>
+他做的方式是说他去搜搜索，搜索的来源还是新闻。然后我说这种方式依然没有办法，我告诉你第三次我告诉你该怎么做。我说你的做事方式应该是把这50个I网站的APP网站的名字以及50个APP的APP的icon一个一个给我列出来，一个一个给我对应这背后公司是谁。再给我去搜每一家公司是否有过新闻，有过官网，有过工商注册信息，证明他是中国公司，他再去跑，返回的结果是上下文超限了。
+</p>
+<p class="transcript-line">
+<span class="time"><strong>[00:52:57]</strong> </span>
+<span class="speaker"><strong>发言人1: </strong></span>
+你看这像不像你就是训练实习生。
+</p>
+<p class="transcript-line">
+<span class="time"><strong>[00:53:00]</strong> </span>
+<span class="speaker"><strong>发言人3: </strong></span>
+这个过程你听完之后，你就知道他现在的状态应该是个什么样子。她很像一个实习生。
+</p>
+<p class="transcript-line">
+<span class="time"><strong>[00:53:06]</strong> </span>
+<span class="speaker"><strong>发言人2: </strong></span>
+非常像他，自然实习生不会上下文抄袭。
+</p>
+<p class="transcript-line">
+<span class="time"><strong>[00:53:09]</strong> </span>
+<span class="speaker"><strong>发言人3: </strong></span>
+对对对，他人类的第一反应就是偷懒，因你不干了，偷懒，第一反一定是偷懒。然后你会慢慢的过程中告诉他合理的方式应该是什么样的。你在中间不断的调优，期待的是更优秀的结果。他就是一个这样的至少在这个时间点我们能够见到的，我们普通人用户可以用到的产品的状态，可能是这个情况。
+</p>
+<p class="transcript-line">
+<span class="time"><strong>[00:53:33]</strong> </span>
+<span class="speaker"><strong>发言人1: </strong></span>
+对。
+</p>
+<p class="transcript-line">
+<span class="time"><strong>[00:53:33]</strong> </span>
+<span class="speaker"><strong>发言人3: </strong></span>
+而且他还不会骂你。对你随便跟他PA对我觉得。
+</p>
+<p class="transcript-line">
+<span class="time"><strong>[00:53:37]</strong> </span>
+<span class="speaker"><strong>发言人4: </strong></span>
+其实使用AI包括agent对每个个人来说，其实就是学习你如何成为一个领导的过程。就是你最开始这个小领导你要教实习生怎么做，你可能是一个小组组长，那以后随着AI能力增长也好，或者你逐渐的任务要做的更大也好。比如说你其实只要他能力强，你作为他他作为你的秘书或者助理，你吩咐他很简单的一些目的，很明确要求，很明确要付出什么，得出什么样结果的任务指向的时候，他就能交付给你结果。我觉得其实随着AI的能力成长，你在使用AI的过程中，你就要学会如何当领导，要不然你不会交给他什么样的任务。你不会你还是一个工作打工者心态，你跟他去沟通，你们俩互相这是都是牛马，他也完成不好交付好的任务。确实大家其实应该学好怎么当领导。
+</p>
+<p class="transcript-line">
+<span class="time"><strong>[00:54:26]</strong> </span>
+<span class="speaker"><strong>发言人2: </strong></span>
+好像又回到人文话题。
+</p>
+<p class="transcript-line">
+<span class="time"><strong>[00:54:27]</strong> </span>
+<span class="speaker"><strong>发言人3: </strong></span>
+对我经常会哪里有个人嫌我。我们下一个话题刚才也聊到，就是其实这一轮关于agent的，除了我们通用的agent外，另外一个最近最热的方向是AI的coding这个方向。其实从去年年底科技发布以来，coding这个板块的增长是非常快的那从底层逻辑来讲，其实也好理解，coding其实就是构建这个虚拟世界、数字世界最最基础的东西，而且他天生带着逻辑跟框架。那理论上来说I应该是最理解这个东西的。所以看上去AI coding在过去这可能大半年时间里面发展非常的快，对吧？但是也出现了问题，像朱峰老师讲的一样，今天用i coding工具，哪怕是一个最最资深的程序员，他也发现他debug的时间可能要超过他建build的时间。那当然现在整个的这个技术还在往前走，那大家就是比如说几位怎么看encoding未来的发展的这个方向。真的会像想象中的理想状态。说我今天跟一个AI说，你给我做个抖音出来，他就帮帮忙给我去做了，对吧？
+</p>
+<p class="transcript-line">
+<span class="time"><strong>[00:55:28]</strong> </span>
+<span class="speaker"><strong>发言人1: </strong></span>
+就我们这边列出了几个产品curse r还有davin，这两个产品其实是两个阶段的产品。是的。
+</p>
+<p class="transcript-line">
+<span class="time"><strong>[00:55:36]</strong> </span>
+<span class="speaker"><strong>发言人3: </strong></span>
+甚至再往前是github copy。
+</p>
+<p class="transcript-line">
+<span class="time"><strong>[00:55:39]</strong> </span>
+<span class="speaker"><strong>发言人1: </strong></span>
+对对对，我们先不聊口排雷，因为它是半成品。对，它是平台上的半成品。是是是这两个还算相对独立的科技它是算human in loop的产品。
+</p>
+<p class="transcript-line">
+<span class="time"><strong>[00:55:51]</strong> </span>
+<span class="speaker"><strong>发言人1: </strong></span>
+哼就是你需要跟他讲，你帮我写一段什么样的代码，他就能帮你写好，然后你再粘贴过去，粘过去不管到ID还是到什么，然后再去做发布，有的有的没的。但是David它就是一个and to and端端到端，它是一站式的。然后你告诉他帮我写一个网站，他就能帮你写一个网站，然后还能发布掉，这是他的愿景。然后他的官网的后面有一句话是developer，对，他他讲dave是一个这个程序师，这个工程师把它当成一个真正的工程师在用的。但David其实也是二三年二三年他们就已经出了。然后我早在113年我做代码托管平台的时候，我们就已经picture过未来能够有一个工程师帮你写代码。哼所以这件事情也不新奇，因为工程师永远都希望自己再找一个别的牛马来替代自己牛马的工作，这是工程师工作的本质。
+</p>
+<p class="transcript-line">
+<span class="time"><strong>[00:56:47]</strong> </span>
+<span class="speaker"><strong>发言人1: </strong></span>
+然后这两个产品到现在为止，我觉得比以前copy pace的要好用一点。对，但是它更多的可能还是要在一个相对的，比如说代码的工程质量和系统的稳定性强一点的场景去用。比如说你在大厂里面，你去用这样的工具去提效，现在已经就大厂里面已经非常成熟了。
+</p>
+<p class="transcript-line">
+<span class="time"><strong>[00:57:17]</strong> </span>
+<span class="speaker"><strong>发言人1: </strong></span>
+对，因为我们内部的不管是代码品味，然后代码规范这些都很成熟，然后代码质量也很高。所以你去用这个东西，因为内部还会有一些reg，然后内部去用了以后就效果都很好。但如果说你原先就在一个这个团队的代码质量就不怎么地。然后本身就是一对本身就是一堆建技术负债。你在那个基础上再去叠加一些AI写出来的技术垃圾，那也就？你想象一下。
+</p>
+<p class="transcript-line">
+<span class="time"><strong>[00:57:46]</strong> </span>
+<span class="speaker"><strong>发言人2: </strong></span>
+你这个东西就是面条和面条，对，就变银丝卷了。
+</p>
+<p class="transcript-line">
+<span class="time"><strong>[00:57:49]</strong> </span>
+<span class="speaker"><strong>发言人1: </strong></span>
+对，所以就不是很健康。所以你内部要不要用AI coding的产品，我觉得取决于你们公司的对吧？贵司的CTO，贵司的整个的技术架干不干净，代码干不干净？然后在那个基础上你可以再用它去做，如果不行的话，大不了重构。
+</p>
+<p class="transcript-line">
+<span class="time"><strong>[00:58:07]</strong> </span>
+<span class="speaker"><strong>发言人3: </strong></span>
+对于大不了重来，AI反正买。
+</p>
+<p class="transcript-line">
+<span class="time"><strong>[00:58:09]</strong> </span>
+<span class="speaker"><strong>发言人1: </strong></span>
+大不了重来，那是其他人也都可以开掉。反正但是我认为AI coding未来一定是个方向了，甚至the developer广泛的进入到各行各业也是确定的一件事情。那么工程师怎么办？这又回到人文的话题。
+</p>
+<p class="transcript-line">
+<span class="time"><strong>[00:58:28]</strong> </span>
+<span class="speaker"><strong>发言人3: </strong></span>
+对，绕不开的我们还是会涉及到这些。
+</p>
+<p class="transcript-line">
+<span class="time"><strong>[00:58:32]</strong> </span>
+<span class="speaker"><strong>发言人1: </strong></span>
+但是工程师怎么办呢？就是你你怎么样更好的去用好你自己的这个牛马一样的。只不过工程师你可能要再往前走一步。原先的工程师他不太愿意出来见人的，他需要很多人来帮他翻译，翻译客户业务的需求，翻译其他团队的诉求，然后自己坐在那边发脾气，对吧？我没有说你脾气不好的意思。
+</p>
+<p class="transcript-line">
+<span class="time"><strong>[00:58:54]</strong> </span>
+<span class="speaker"><strong>发言人1: </strong></span>
+对，但是未来可能你自己有人帮你写代码了。那你可能就要往前走一步，去了解一下真实的业务需求是什么。然后去了解一下我今天做的这个东西的价值在哪里。我觉得这也是对能力的一种锻炼。
+</p>
+<p class="transcript-line">
+<span class="time"><strong>[00:59:09]</strong> </span>
+<span class="speaker"><strong>发言人1: </strong></span>
+然后还有就是前端的，各位PD们、PM们，你们也可以做工程师。对，大家也知道工程师的这个工资要比PD和PM要高很多，所以大家也可以用另外一个维度去去判断自己。所以如果是产品经理的话，我觉得现在就可以用起来。
+</p>
+<p class="transcript-line">
+<span class="time"><strong>[00:59:26]</strong> </span>
+<span class="speaker"><strong>发言人2: </strong></span>
+其实我想补充的一点是，你说的是大厂的牛马们，我说的可能更多的是个人开发者和创业者。是是是对，其实对于他们来讲，AI提供了一个非常好的能力。艺人公司对，以前以我为例，有的时候我们公司去写一些这个我还不算是艺人公司。但是我们有时候我最头疼的事情是写前端或者是设计前端这件事情。因为我没有这么多的人手去搞这个设计的工作。因为你这么小公司，你养一个专职的设计其实不是特别现实。现在我其实会用这些工具让他来帮我设计前端的页面。以前可能设计的非常垃圾，在一开始的时候，现在我会发现他设计的越来越现代，越来越好了。我几乎不需要怎么改，我直接用，甚至他把前端代码也套进去了。
+</p>
+<p class="transcript-line">
+<span class="time"><strong>[01:00:18]</strong> </span>
+<span class="speaker"><strong>发言人1: </strong></span>
+因为前端的标准范式太好看了。
+</p>
+<p class="transcript-line">
+<span class="time"><strong>[01:00:21]</strong> </span>
+<span class="speaker"><strong>发言人2: </strong></span>
+对，而且他是你是可以指定用什么样的框架，什么样的架构去写的对，而且如果你公司内部的文档写的OK的话，那他调后端的对更代码都都。
+</p>
+<p class="transcript-line">
+<span class="time"><strong>[01:00:35]</strong> </span>
+<span class="speaker"><strong>发言人3: </strong></span>
+给你搞定了。
+</p>
+<p class="transcript-line">
+<span class="time"><strong>[01:00:36]</strong> </span>
+<span class="speaker"><strong>发言人2: </strong></span>
+对你就直接用就好了。其实这是没有问题。但是他的现在最大一个问题就是说，如果你做一个大的项目的话。
+</p>
+<p class="transcript-line">
+<span class="time"><strong>[01:00:43]</strong> </span>
+<span class="speaker"><strong>发言人1: </strong></span>
+他不行的。对他没有办法解决复杂度的问题。
+</p>
+<p class="transcript-line">
+<span class="time"><strong>[01:00:46]</strong> </span>
+<span class="speaker"><strong>发言人2: </strong></span>
+对他解决不了复杂度的问题，但是就是一个临时的活动页面，非常好。
+</p>
+<p class="transcript-line">
+<span class="time"><strong>[01:00:51]</strong> </span>
+<span class="speaker"><strong>发言人1: </strong></span>
+做个官网。
+</p>
+<p class="transcript-line">
+<span class="time"><strong>[01:00:52]</strong> </span>
+<span class="speaker"><strong>发言人2: </strong></span>
+对磋个临时的官网，类似于这种，比如我要备份备案某个域名是吧？对，把它怼上去，这种就特别的适合。因为独立开发者他的能力不一定是非常全面的，他一定有短板。但是用AI去补你的那个短板，是我觉得现在是非常好的一个工具。而且你一定要善于拆分你的需求，把你的需求拆开，模块化我甚至可以写一个又一个的那页，写一个又一个的微服务，再把它串起来，我的复杂度就降低了。我只需要解决这一个微服务内部的问题就好了，相当于原生。对对，这样的话其实你去用AI可能更舒服一点，让他写代码。如果你试图让他把整个的大的项目从前端到后端都构建起来，在一个项目里面往往可能现在的AI能力还是不够的。
+</p>
+<p class="transcript-line">
+<span class="time"><strong>[01:01:47]</strong> </span>
+<span class="speaker"><strong>发言人1: </strong></span>
+是的。
+</p>
+<p class="transcript-line">
+<span class="time"><strong>[01:01:49]</strong> </span>
+<span class="speaker"><strong>发言人3: </strong></span>
+这个coding的这个板块看起来应该是这个AI里面最先拿到阶段性成果的一个板块。然后这句话的下一句就是国内的厂商们当然也不会放过这个战场，对吧？所以基本上所有主流的头部大厂，尤其是模型大厂都在推自己的AI coding的工具，对吧？就是这个字节也好，阿里也好，都有相关的这个服务。
+</p>
+<p class="transcript-line">
+<span class="time"><strong>[01:02:14]</strong> </span>
+<span class="speaker"><strong>发言人3: </strong></span>
+如果是比如说有代码能力，或者说知道代码是怎么执行，需要一些代码的能力的朋友们，我们是建议这个时间点开始让自己这个武器加上。这是一个很好的时间点，而且确实越来越简单。就像我们这种完全不同代码能力，慢慢你也可以构建一些小东西。就是这个build的这个快感还是在今天非常好会拿到的对。
+</p>
+<p class="transcript-line">
+<span class="time"><strong>[01:02:39]</strong> </span>
+<span class="speaker"><strong>发言人1: </strong></span>
+而且大多数大厂这个时间段发的产品都不要钱，大家随便好。对对对，这个很重要。
+</p>
+<p class="transcript-line">
+<span class="time"><strong>[01:02:45]</strong> </span>
+<span class="speaker"><strong>发言人4: </strong></span>
+我卖个楼，其实code它也是一种语言艺术。大家除了用它来编程，其实很多的ID工具是非常好的写作工具。是的，文字写作工具。
+</p>
+<p class="transcript-line">
+<span class="time"><strong>[01:02:57]</strong> </span>
+<span class="speaker"><strong>发言人4: </strong></span>
+是的，就是有一个特别有意思服务。叫做deep cloud。它是利用deep sig它的COT生成非常好的这种逻辑思维链。把一个问题拆解或者写作需求，然后把这个思维链喂给像cloud这样非常擅长写作的或者这个coding的一个模型，然后用它来生成非常好的写作的文章。这是一个一个嫁接的一个服务。就是包括很多人用cursor来写东西的对，是他这个coding和写作writing是相通的。就是大家用好了这样的工具，其实个人效率提高是很大。
+</p>
+<p class="transcript-line">
+<span class="time"><strong>[01:03:35]</strong> </span>
+<span class="speaker"><strong>发言人3: </strong></span>
+因为很多牛逼的程序员都是拿记事本写代码的。
+</p>
+<p class="transcript-line">
+<span class="time"><strong>[01:03:39]</strong> </span>
+<span class="speaker"><strong>发言人2: </strong></span>
+是我现在很少了吧？
+</p>
+<p class="transcript-line">
+<span class="time"><strong>[01:03:40]</strong> </span>
+<span class="speaker"><strong>发言人3: </strong></span>
+现在很少了，早年是这样的对吧？
+</p>
+<p class="transcript-line">
+<span class="time"><strong>[01:03:42]</strong> </span>
+<span class="speaker"><strong>发言人1: </strong></span>
+我再歪个楼，朱老师你觉得ID有可能成为coding这一块的超级入口吗？如果未来还有IDE的话。
+</p>
+<p class="transcript-line">
+<span class="time"><strong>[01:03:50]</strong> </span>
+<span class="speaker"><strong>发言人2: </strong></span>
+对我觉得是分两个阶段。如果我们看短期的话，各种ID一定会加上AI的能力。别管他是嫁接别人的还是自己做一个，对吧？你看科他其实是把那个VS code魔改了，实际上他他做这么个东西，他一定会成为入口。但是如果长期看，会不会有这么一个可能？
+</p>
+<p class="transcript-line">
+<span class="time"><strong>[01:04:09]</strong> </span>
+<span class="speaker"><strong>发言人1: </strong></span>
+我不需要写代码了，PID都不需要。
+</p>
+<p class="transcript-line">
+<span class="time"><strong>[01:04:11]</strong> </span>
+<span class="speaker"><strong>发言人2: </strong></span>
+就直接把你把把你的活干，你为什么要写代码？告诉AI你帮我把这个图从绿的给我修成蓝的，你想写什么代码，直接给你修了。我觉得这是可能是有一个阶段的问题。一说这样的话，程序员可能又焦虑了是吧？
+</p>
+<p class="transcript-line">
+<span class="time"><strong>[01:04:28]</strong> </span>
+<span class="speaker"><strong>发言人3: </strong></span>
+这个还很远。
+</p>
+<p class="transcript-line">
+<span class="time"><strong>[01:04:29]</strong> </span>
+<span class="speaker"><strong>发言人2: </strong></span>
+对还很远。
+</p>
+<p class="transcript-line">
+<span class="time"><strong>[01:04:30]</strong> </span>
+<span class="speaker"><strong>发言人1: </strong></span>
+其实还很远。对。
+</p>
+<p class="transcript-line">
+<span class="time"><strong>[01:04:32]</strong> </span>
+<span class="speaker"><strong>发言人3: </strong></span>
+然后我们引发到另外一个问题。其实在刚才聊这个通用的时候也渗透到这个问题。就是今天无数人会说，因为大模型还在疯狂的演进。那大模型在演进的过程中一次一次的吞掉了看上去已经很值钱，被产品公司定义的功能。然后当然也有无数的新的公司在不断的去做类似我们双引号的叫套壳的事情。当然我不太喜欢套可这个说法，因为他带了太多的偏见跟情绪。但是没办法，既然是大家都会去议论这件事情，几位怎么看今天这个时间点的？比如说纯粹意义上的技术大模型公司，以及这些可能更多的不再做底层模型，但是做偏应用层偏上一层的公司之间的这种你说是竞争也好，竞合也好，或者是发展也好。
+</p>
+<p class="transcript-line">
+<span class="time"><strong>[01:05:23]</strong> </span>
+<span class="speaker"><strong>发言人1: </strong></span>
+我输入一个场外信息，我15年的时候创业，做这个工具，然后这个创业失败非常的棒。但我现在去看的话，我觉得现在跟那个时候有一个非常相像的场景。就是你可以一直套课，一直套对持续套对，持续套。
+</p>
+<p class="transcript-line">
+<span class="time"><strong>[01:05:47]</strong> </span>
+<span class="speaker"><strong>发言人2: </strong></span>
+他们投资人也在套课。
+</p>
+<p class="transcript-line">
+<span class="time"><strong>[01:05:49]</strong> </span>
+<span class="speaker"><strong>发言人1: </strong></span>
+对，这就是重点。你可以现在就开始投，然后你这家公司倒了，找好点钱再做一家再淘，然后你一直做，你就会变成一个非常资深的专家。因为在这个阶段里面，大家都还很早期，技术也还在演进，然后应用场景也还在找。然后这里面的很多技术也还在发展。
+</p>
+<p class="transcript-line">
+<span class="time"><strong>[01:06:12]</strong> </span>
+<span class="speaker"><strong>发言人1: </strong></span>
+就上一波我们在做所谓的这个云计算和互联网的时候，大家就是在前期的所谓的套壳。对，那时候可能没有特别大的东西可以套，但是概念都套壳。在那个talk的过程里面发现的需求，比如说发现它底层需要什么样的依赖，然后生态需要什么样子的support。然后你在这里面又能找到细分的场景。找到细分场景你就相当于找到了你的商业模式跟你的产品方向。所以我其实并不觉得talk是个坏事，我觉得他可能是大家一起在共创的过程。
+</p>
+<p class="transcript-line">
+<span class="time"><strong>[01:06:46]</strong> </span>
+<span class="speaker"><strong>发言人2: </strong></span>
+对我甚至觉得现在大家都去卷大模型往往是个坏事儿。对你不如在产品层面，你哪怕是talk儿，但是我特别不喜欢套可这个词儿，我就觉得一切皆套可，谁不是可呢？对吧？所以在产我们去做更多的尝试，它总是有意义的。就像刚才小狼说的，我们总会在这个过程当中发现你的模式，你的需求。不然的话你不做永远不会发现的。永远要往上走，往更靠近用户的那一侧去走，我觉得才会有意义。现在大家都去各个公司都去卷大模型，有的是真的在卷，有的可能就是一个概念。
+</p>
+<p class="transcript-line">
+<span class="time"><strong>[01:07:24]</strong> </span>
+<span class="speaker"><strong>发言人1: </strong></span>
+这个地方我觉得有一个明浩想问的问题，就所谓的纯的产品叙事是什么？因为如果说讲到醇的产品需求的时候，可能更多讨论的是超级入口，超级应用大的对，超级大的这个新的下一代微信、下一代字节、下一代头条。就是我觉得如果我在创业的话，我可能会放弃这个故事。
+</p>
+<p class="transcript-line">
+<span class="time"><strong>[01:07:46]</strong> </span>
+<span class="speaker"><strong>发言人3: </strong></span>
+的叙事方式。
+</p>
+<p class="transcript-line">
+<span class="time"><strong>[01:07:48]</strong> </span>
+<span class="speaker"><strong>发言人1: </strong></span>
+对对对，有可能更多的还是实事求是的去每天问自己一遍，你在解决什么问题。
+</p>
+<p class="transcript-line">
+<span class="time"><strong>[01:07:54]</strong> </span>
+<span class="speaker"><strong>发言人3: </strong></span>
+看我们的话题就悄无声息的就生下来了。就剩下的我们的第三个板块，我们上一个板块更多聊的全都是产品，对吧？刚才我们说第三个板块会聊行业对产业包括资本的事情。我其实我在这里第一个问题就是刚才小王那个问题。其实上一个时代，尤其是中国的移动互联网的这个年代，当然可能也感谢双引号，感谢，是不是真的感谢不知道。感谢这帮VC们做的事情。
+</p>
+<p class="transcript-line">
+<span class="time"><strong>[01:08:21]</strong> </span>
+<span class="speaker"><strong>发言人3: </strong></span>
+就是在那个叙事里面，所有人的叙事叫干一票大的，干一票大的，就是无论是投资人还是创业者的叙事都是这个样子。可是你会发现今天这个时间点因为各种各样的原因看起来比较难了。但反过来讲，今天这个时间点可能是因为AAI能力的杠杆的加持，你会发现一个个体能量的放大的效应，让类似金融公司或者是一个小而美的生意的可能性跟概率极大的提升了。
+</p>
+<p class="transcript-line">
+<span class="time"><strong>[01:08:50]</strong> </span>
+<span class="speaker"><strong>发言人3: </strong></span>
+所以这个叙事的改变，其实也是这一轮AI随着技术产品的更新产生的一种新的你说是创业的趋势也好，还是行业的趋势也好好，过去几年其实已经有非常多的这种案例出现了。他可能只是一个产品经理，也不会太多的代码。但是他找到一个非常小的需求，他也不需要一个特别大的故事把东西做出来，通过各样的推广他就转起来了。这个事情的门坎跟实现的方式，在今天相较于十年之前可能已经是一个巨大的变化了。
+</p>
+<p class="transcript-line">
+<span class="time"><strong>[01:09:25]</strong> </span>
+<span class="speaker"><strong>发言人2: </strong></span>
+你先说我最近。
+</p>
+<p class="transcript-line">
+<span class="time"><strong>[01:09:27]</strong> </span>
+<span class="speaker"><strong>发言人1: </strong></span>
+几年在研究电商。
+</p>
+<p class="transcript-line">
+<span class="time"><strong>[01:09:29]</strong> </span>
+<span class="speaker"><strong>发言人3: </strong></span>
+OK OK。
+</p>
+<p class="transcript-line">
+<span class="time"><strong>[01:09:31]</strong> </span>
+<span class="speaker"><strong>发言人1: </strong></span>
+因为我在想这年纪大了。
+</p>
+<p class="transcript-line">
+<span class="time"><strong>[01:09:33]</strong> </span>
+<span class="speaker"><strong>发言人3: </strong></span>
+以后得。
+</p>
+<p class="transcript-line">
+<span class="time"><strong>[01:09:34]</strong> </span>
+<span class="speaker"><strong>发言人1: </strong></span>
+干点什么，对不对？就是这种老讲大叙事，老讲宏大叙事非常的不solid。然后我就发现电商行业真香。就是你手里有个货，然后你对渠道比较了解。
+</p>
+<p class="transcript-line">
+<span class="time"><strong>[01:09:46]</strong> </span>
+<span class="speaker"><strong>发言人2: </strong></span>
+你就能去卖，有现金流，对。
+</p>
+<p class="transcript-line">
+<span class="time"><strong>[01:09:49]</strong> </span>
+<span class="speaker"><strong>发言人3: </strong></span>
+能转起来。这个话题应该找刘飞老师来聊。
+</p>
+<p class="transcript-line">
+<span class="time"><strong>[01:09:52]</strong> </span>
+<span class="speaker"><strong>发言人1: </strong></span>
+非常赚，然后利润也很好。虽然也有价格战的问题，但是如果你的品不错，然后其实你就能做的很。
+</p>
+<p class="transcript-line">
+<span class="time"><strong>[01:10:01]</strong> </span>
+<span class="speaker"><strong>发言人2: </strong></span>
+能非常快的得到反馈。
+</p>
+<p class="transcript-line">
+<span class="time"><strong>[01:10:03]</strong> </span>
+<span class="speaker"><strong>发言人1: </strong></span>
+那在我们软件行业真的就是穷的要死。他的商业模式，我觉得一没有那么成立，然后第二个就是这个产业链还是太短了。我们的上游下游每个环节玩家不够多，然后你的产业位置可能也有点奇奇怪怪，然后大厂又包揽太多。美国之所以好，是因为它的产业链的长度非常长，每个人都可以在其中做一个小小的东西赚到钱。当然也是因为他们有足够多的五百强本身就很赚钱，赚全世界的钱。
+</p>
+<p class="transcript-line">
+<span class="time"><strong>[01:10:40]</strong> </span>
+<span class="speaker"><strong>发言人1: </strong></span>
+回到这个话题的时候，我会觉得到了今天的这个叙事下，我们能够做的就是解决一个具体的问题。因为我们肉眼可见的是像电商这样子的，基于互联网的诞生了新的商业模式，然后又衍生出了产业链的产业会越来越多。中国的产业未来会越来越长，产业链会越来越长，然后产业链的位置会越来越好。因为政策什么也在推，大家慢慢的往上走。然后原先欠缺的很多的什么工业软件的基础，这些东西也都在在补。对，在补。如果这些东西都补齐的话，那我觉得未来不管大家是作为一个专家也好，还是做一个小生意也好，你在你熟悉的行业里面都可以有一个小生意。我从上海搬到北京，再搬到杭州之后，我学会了一句话叫做做生意不丢人。对，因为在上海跟北京的时候，我们更多讨论什么创业。
+</p>
+<p class="transcript-line">
+<span class="time"><strong>[01:11:39]</strong> </span>
+<span class="speaker"><strong>发言人2: </strong></span>
+干大的，尤其北京。
+</p>
+<p class="transcript-line">
+<span class="time"><strong>[01:11:41]</strong> </span>
+<span class="speaker"><strong>发言人1: </strong></span>
+对，尤其北京，什么中关村。对，然后搬到杭州之后就不一样，你做什么生意，今天在哪里发财，我做什么东西？对，就是浙江浙商的这个状态还是。
+</p>
+<p class="transcript-line">
+<span class="time"><strong>[01:11:52]</strong> </span>
+<span class="speaker"><strong>发言人3: </strong></span>
+不一样的。
+</p>
+<p class="transcript-line">
+<span class="time"><strong>[01:11:53]</strong> </span>
+<span class="speaker"><strong>发言人1: </strong></span>
+对，非常脚踏实地。然后大家就非常问的问题也很具体，你今天要做一个什么样的事情？这个事情成本怎么样，然后销量怎么样，然后能能赚多少钱，也不用赚大钱？一家人够就行了，然后每天生活也很乐呵。所以我觉得这是我作为一个搬到杭州的创业者的心态的转变。
+</p>
+<p class="transcript-line">
+<span class="time"><strong>[01:12:16]</strong> </span>
+<span class="speaker"><strong>发言人3: </strong></span>
+理解朱老师，朱老师经历过干。
+</p>
+<p class="transcript-line">
+<span class="time"><strong>[01:12:19]</strong> </span>
+<span class="speaker"><strong>发言人2: </strong></span>
+几票大的了是吧？对，干干了几票干了几票。对，干了几票，但是也是很累。这个就不细谈了，大家可以去网上搜去。
+</p>
+<p class="transcript-line">
+<span class="time"><strong>[01:12:29]</strong> </span>
+<span class="speaker"><strong>发言人2: </strong></span>
+现在其实我们科技论证节目的三个主播，平时也会做一些投资的工作。是对甚至我们科技乱炖自己还成立了一个创投工作室。那投的都是什么呢？其实都是作坊。
+</p>
+<p class="transcript-line">
+<span class="time"><strong>[01:12:43]</strong> </span>
+<span class="speaker"><strong>发言人3: </strong></span>
+作坊。
+</p>
+<p class="transcript-line">
+<span class="time"><strong>[01:12:44]</strong> </span>
+<span class="speaker"><strong>发言人2: </strong></span>
+对你最好一个人不要超过三个人。你能把一件事情别管是基于AI也好，还是基于什么也好，基于你的能力也好，你能够把这件事情的现金流做起来，做起来是非常重要的。但是这里有一个点，我觉得我不知道在座的有没有想自己做一个作坊的同学。这里还仍然会有传统的投资领域的一个问题要考问大家，就是你的护城河在哪儿？
+</p>
+<p class="transcript-line">
+<span class="time"><strong>[01:13:11]</strong> </span>
+<span class="speaker"><strong>发言人2: </strong></span>
+你如果用AI做一个非常薄的东西，我短期看可能是一个非常好的feature，我可以去卖，可以去做。但是很快你会发现，别管是大模型还是大其他人就直接把这个能力放进去了，你就败了。所以现在我们找的很多的小的创业者做的基本都是基于他此前的一些能力和积累掏出来的一些东西，就是一层一层套壳套出来的东西。比如说最近我们看我不是化解决方案，对，其实是一个解决方案，基于他我过往的能力和积累的一个解决方案才行。而最近我们找的一个项目是这样，我不知道不能不能说不能说我们回头就剪了。
+</p>
+<p class="transcript-line">
+<span class="time"><strong>[01:13:52]</strong> </span>
+<span class="speaker"><strong>发言人3: </strong></span>
+对，那就不对。
+</p>
+<p class="transcript-line">
+<span class="time"><strong>[01:13:54]</strong> </span>
+<span class="speaker"><strong>发言人2: </strong></span>
+其实找的往往是你在一个领域内有一定的经验能力，我用AI去给你赋能，你能把这件事情做的更好。或者你甚至说能够用AI给它规模化。对我觉得这才是一个比较漂亮的作坊。对。
+</p>
+<p class="transcript-line">
+<span class="time"><strong>[01:14:13]</strong> </span>
+<span class="speaker"><strong>发言人3: </strong></span>
+我们又回到了人文话题，对吧？不小心的我们再问一个，我想问其实我这场论坛就想问于于新月老师一个问题。因为大家知道于老师在智能汽车行业的经验非常的深。
+</p>
+<p class="transcript-line">
+<span class="time"><strong>[01:14:25]</strong> </span>
+<span class="speaker"><strong>发言人3: </strong></span>
+然后刚才我们讲open I定义的这个L一到L5，是严格按照自动驾驶的那个L1到L5去配的。很有意思的是，我在经常去做播客的时候，我的博客评论区经常会有一些汽车行业从业者，尤其是自动驾驶从业者。他说我们看到这个L一到L5的这个划分方式是体感上会有一些不太适应。
+</p>
+<p class="transcript-line">
+<span class="time"><strong>[01:14:42]</strong> </span>
+<span class="speaker"><strong>发言人3: </strong></span>
+因为上一轮的关于自动驾驶的最热烈的讨论，也是在自动驾驶在从经历L2到L3的阶段。我们今天看上去我们是变成一个新人的，我们以AI的角度我们是个新人，我们期待L3L4和L5牛逼AGI通起飞了，对吧？但其实在自动驾驶的时候，那个年代截止到今天还没有到，对吧？甚至看上去L三在经历非常大的瓶颈期，非常大。我想这个趋势，我觉得您既了解汽车又了解AI行业商业也非常熟悉。怎么看这个是不是会对比我们这些新进来者的体感会更强烈一些？
+</p>
+<p class="transcript-line">
+<span class="time"><strong>[01:15:23]</strong> </span>
+<span class="speaker"><strong>发言人4: </strong></span>
+是这样，在汽车行业，其实特别是智能驾驶的从业者是非常痛恨这个SOVEE。这个它是分级的。因为它分分的非常的机械，对不符合用户场景，但是大家又扔不掉这个东西。因为它是一个易于跟市场，跟用户来沟通的一个很容易达成共识的一个被压缩的概念。所以到今天依然延续到说会我说做L三要做L4，它是一个大家能够有共识，能够沟通的方式。
+</p>
+<p class="transcript-line">
+<span class="time"><strong>[01:15:57]</strong> </span>
+<span class="speaker"><strong>发言人4: </strong></span>
+刚才谈到OpenAI这个分级，它的三实际上就是agent。对，agent如果按它的标准定义来看，刚才我们谈到它其实有几个特点。一个特点是自主的，就是全自动的来完成。另一个特点是它可持续的调调用工具。从这点来看，其实在回到智能驾驶它的分级，在辅助驾驶那阶段，实际上它是达不到OpenAI l三这个阶段。它要是人人和车共驾，就是copilot它是不是autopilot？
+</p>
+<p class="transcript-line">
+<span class="time"><strong>[01:16:30]</strong> </span>
+<span class="speaker"><strong>发言人4: </strong></span>
+是，那么只有从L智能驾驶的L3开始，它才开始符合OpenAI的L3阶段的这个定义，它是自动的。换句话说，因为L3.23大家很很容易模糊，就觉得是不是搞不清楚。换句话说，自动驾驶的L4也是属于OpenAI的L3，就是真正能够它全自动的来完成替你完成驾驶这个工作。你不用去全程参与了，你去跟他沟通就可以了。这个就是在智能驾驶上相互的一个对应关系。另外其实因为技术的原因，以及政策法规的原因，以及责权要区分的这个原因就是这个真是发生了事故算谁的对吧？这是经常用户会问厂商的一个问题。所以在L3以及后续的所谓自动驾驶落地上一直非常难。
+</p>
+<p class="transcript-line">
+<span class="time"><strong>[01:17:21]</strong> </span>
+<span class="speaker"><strong>发言人4: </strong></span>
+今年有望华为在中国会率先实现有条件的自动驾驶L3，它只局限在于高速的场景，它不做市区。以及我国最近发布了智能驾驶的这个管理新规以后，大家不能叫智能驾驶了也不能叫自动驾驶。连人著名的特斯拉FSE在中国都改名了不允许你叫全自动驾驶，大家都统一叫辅助驾驶。只有华为遥遥领先在遥遥领先。
+</p>
+<p class="transcript-line">
+<span class="time"><strong>[01:17:51]</strong> </span>
+<span class="speaker"><strong>发言人3: </strong></span>
+中国可以。
+</p>
+<p class="transcript-line">
+<span class="time"><strong>[01:17:52]</strong> </span>
+<span class="speaker"><strong>发言人4: </strong></span>
+使用智能辅助驾驶以及有条件的自动驾驶这样的产品名称以及配合他今年中国有可能会颁布L三相应的管理的法规，在中国开始落地有条件的自动驾驶，这是在中国的叙事。我们是一个逐渐演进的一个过程。大家其实还是从乘用车市场的角度来出发，我买辆车它试驾怎么样，是不是第一梯队，能实现L3吗？我们会问这样的问题，在美国不一样，美国接下来下一步没有L3就基本上就是L4了。就是所谓的无监督的FSD就是特斯拉。特斯拉不仅在他的个体的乘用车上可以实现这样的宣称要实现这样的功能，以及在今年就要落地的robot taxi，他要把这个L4变成他真的出行服务。这也是他他的整个市值变化很大的一个原因，今年大概5 6月份就会在奥斯汀开始落地，它采用技术方案甚至跟中国不一样，这是非常有意思的一个情况。
+</p>
+<p class="transcript-line">
+<span class="time"><strong>[01:18:54]</strong> </span>
+<span class="speaker"><strong>发言人4: </strong></span>
+以前我们是某着特斯拉的技术路线来跟进的，就是中国做题家对吧？只要他路线清楚了，我们分分钟都会赶上。甚至做的可能产品体验比他还好，技术先天性可能不如他，但是在产品体验上我们甚至做的比他更好。但是在今天特斯拉已经不对外公布他的智能驾驶路线了，再也不开车了，我不告诉你我做的是什么。完全沙盒。下一步我们其实中国的路线就是刚才我们谈到的VLA。
+</p>
+<p class="transcript-line">
+<span class="time"><strong>[01:19:25]</strong> </span>
+<span class="speaker"><strong>发言人4: </strong></span>
+不论是像理想汽车、小鹏，他们判断自己下来下一步怎么能够实现L3以及L4，就是要通过VLV的这样的方式才能够实现传统的以前比如像端到端加v rm。为什么做不了？就是因为这个VRM就是vision language model，它其实是一个低效的手段。以前我是视觉跟这个视觉跟语言之间没法沟通。我要把它我看到的路牌，比如说前方右转几点到几点，我通过视觉识别出来，通过转化成自然语言，再告诉VA那个模型。就是它的效率非常低，在车上不是很难接受的。一个是时延的问题，一个是它的准确度的问题。
+</p>
+<p class="transcript-line">
+<span class="time"><strong>[01:20:09]</strong> </span>
+<span class="speaker"><strong>发言人4: </strong></span>
+现在VRA是把vision，language, action就都给你转一块儿了，都放在一起，你们自己拉一群自己聊吧。在这个内部就实现了，不用说两个模型之间来进行对话沟通。所以现在基本上中国采用这个路线。那未来这个路线能不能真正实现所谓的L4，大家都不知道，那今年就要看美国那边能不能实现真正的L四落地了。
+</p>
+<p class="transcript-line">
+<span class="time"><strong>[01:20:33]</strong> </span>
+<span class="speaker"><strong>发言人1: </strong></span>
+听起来是一个边缘的方案。
+</p>
+<p class="transcript-line">
+<span class="time"><strong>[01:20:35]</strong> </span>
+<span class="speaker"><strong>发言人4: </strong></span>
+对，就是包括李想前两天他那个talk，他也他也他自己也说，VLA他觉得不是一个非常高效的。
+</p>
+<p class="transcript-line">
+<span class="time"><strong>[01:20:43]</strong> </span>
+<span class="speaker"><strong>发言人3: </strong></span>
+一个一个是是坚是现实情况。
+</p>
+<p class="transcript-line">
+<span class="time"><strong>[01:20:45]</strong> </span>
+<span class="speaker"><strong>发言人4: </strong></span>
+但是是接受的当下。
+</p>
+<p class="transcript-line">
+<span class="time"><strong>[01:20:46]</strong> </span>
+<span class="speaker"><strong>发言人3: </strong></span>
+可可接做的一个方向。
+</p>
+<p class="transcript-line">
+<span class="time"><strong>[01:20:48]</strong> </span>
+<span class="speaker"><strong>发言人4: </strong></span>
+因为大家不能停滞不前，是他必须要找一个路接着往前走。这个确实是长久以来我们可能真的跟特斯拉要走不同的路线了。
+</p>
+<p class="transcript-line">
+<span class="time"><strong>[01:20:57]</strong> </span>
+<span class="speaker"><strong>发言人1: </strong></span>
+是是是，那有老师就是街上跑的无人的快递车，它算是到L3L4了吗？
+</p>
+<p class="transcript-line">
+<span class="time"><strong>[01:21:04]</strong> </span>
+<span class="speaker"><strong>发言人4: </strong></span>
+快递就是那萝卜快跑那类的吗？
+</p>
+<p class="transcript-line">
+<span class="time"><strong>[01:21:07]</strong> </span>
+<span class="speaker"><strong>发言人2: </strong></span>
+不是，就是拉快递的，拉快递的小，那好像背后有人遥控。
+</p>
+<p class="transcript-line">
+<span class="time"><strong>[01:21:11]</strong> </span>
+<span class="speaker"><strong>发言人4: </strong></span>
+没有人，他他有很多包括像我们酒店就给你送个小机器人，让开，我要进电梯了，这个基本上这种它都不是真正的，它是有这个规划规则的。
+</p>
+<p class="transcript-line">
+<span class="time"><strong>[01:21:21]</strong> </span>
+<span class="speaker"><strong>发言人1: </strong></span>
+就是路径追随的对对。
+</p>
+<p class="transcript-line">
+<span class="time"><strong>[01:21:24]</strong> </span>
+<span class="speaker"><strong>发言人4: </strong></span>
+就跟工厂的那些车似的。
+</p>
+<p class="transcript-line">
+<span class="time"><strong>[01:21:26]</strong> </span>
+<span class="speaker"><strong>发言人3: </strong></span>
+OK我们还有十分钟的时间，我们聊一些更大的话题。
+</p>
+<p class="transcript-line">
+<span class="time"><strong>[01:21:31]</strong> </span>
+<span class="speaker"><strong>发言人2: </strong></span>
+咱也咱可以给听众留点时间是吧？
+</p>
+<p class="transcript-line">
+<span class="time"><strong>[01:21:33]</strong> </span>
+<span class="speaker"><strong>发言人3: </strong></span>
+对，聊聊一个提纲上我们最后话题，然后留几个这个问题的时间。最后一个话题其实是你这样，我给你调整一下也行。
+</p>
+<p class="transcript-line">
+<span class="time"><strong>[01:21:40]</strong> </span>
+<span class="speaker"><strong>发言人1: </strong></span>
+那你来你最后一个大的话题告诉大家钱在哪儿。
+</p>
+<p class="transcript-line">
+<span class="time"><strong>[01:21:43]</strong> </span>
+<span class="speaker"><strong>发言人3: </strong></span>
+对。
+</p>
+<p class="transcript-line">
+<span class="time"><strong>[01:21:44]</strong> </span>
+<span class="speaker"><strong>发言人1: </strong></span>
+我就想问，这个你就总结一下大钱在哪充。
+</p>
+<p class="transcript-line">
+<span class="time"><strong>[01:21:47]</strong> </span>
+<span class="speaker"><strong>发言人3: </strong></span>
+对，就是基本上这个话题是这样的，就是从22年底到24年底，两年时间里面大家如果炒美股的话，最简单的策略就是买英伟达。这个是建立在一个巨大的共识跟巨大的意义之上的。但是当比如DPDPC出现之后，大家会担心基于算力芯片的这个叙事在AI这一轮受到了巨大的挑战。
+</p>
+<p class="transcript-line">
+<span class="time"><strong>[01:22:13]</strong> </span>
+<span class="speaker"><strong>发言人3: </strong></span>
+当然有反方的观点会说，就跟当年煤炭的那个贾维斯理论一样。就是当一个东西成本变低，它会带来这个行业爆发。反过来讲，它会刺激这个行业。就跟这轮AI的探讨一样，agent探讨一样，agent对于算力的消耗远大于chat book可能是几千倍。这个事情上的争议跟天平的左右，似乎就决定了n media未来的走势。所以昨天我们另外一场纯聊人文的时候，有一位观众问的问题就是没点还能买吗？有结论吗？我没结论，我又不会炒股。
+</p>
+<p class="transcript-line">
+<span class="time"><strong>[01:22:46]</strong> </span>
+<span class="speaker"><strong>发言人1: </strong></span>
+对吧？
+</p>
+<p class="transcript-line">
+<span class="time"><strong>[01:22:48]</strong> </span>
+<span class="speaker"><strong>发言人3: </strong></span>
+几位嘉宾怎么看？或者说我们不考虑股价，就是这个叙事本身，比如大家相信哪一边或者倾向于哪一边。
+</p>
+<p class="transcript-line">
+<span class="time"><strong>[01:22:54]</strong> </span>
+<span class="speaker"><strong>发言人4: </strong></span>
+你们先看着问题，我从一个细节入手，刚才你谈到这个规模效应，它未来的需求增加，成本下降，可能会获得更多的芯片的需求，我觉得这个逻辑是没问题的。但是这个问题在于那个需求是不是能够落在NVDA身上。因为随着比如说像deep sik这样的模型的出现，大家会看到训练的需求对芯片的需求相对放缓了。大家其实在这个后训练就是推理这方面的需求是为以后增长的主要的需求。那么在推理芯片上面，是不是NVAD还能像今天一样完全垄断市场？不一定。
+</p>
+<p class="transcript-line">
+<span class="time"><strong>[01:23:34]</strong> </span>
+<span class="speaker"><strong>发言人4: </strong></span>
+这个牵扯到一个问题，就是关于NVA的股价。我觉得一个大的问题是大家非黑即白，就要不这公司就垮了，大家就别买了。要不然他就是原地起飞，一定是垄断市场，在这个中间守状态的。他只不过之前大家对他的期望太高了，因为整个市场都是他掌握的，几乎是垄断的。那么它的整个的PP倍数，市场对它的期望增长其实非常高的。以后他可能不会像之前那么高速的增长了，但是他仍然是一个市场上最大的玩家，他可能是一个中间的状态。那么如何来评估那些股票股价，是一个更倾向于投资科学的一个问题了，不是一个非黑即白，说NVIDIA要不行，要不不行，就是投资不是这样来看的。所以NVA仍然是一个很重要的玩家。但是市场会发生变化的，以及之前给的估值是不是太高了，我觉得这是可以讨论的，而不是说他他就不行了。
+</p>
+<p class="transcript-line">
+<span class="time"><strong>[01:24:31]</strong> </span>
+<span class="speaker"><strong>发言人3: </strong></span>
+不想讨论也可以找。
+</p>
+<p class="transcript-line">
+<span class="time"><strong>[01:24:33]</strong> </span>
+<span class="speaker"><strong>发言人2: </strong></span>
+主要是证监我没有证监会的牌照。
+</p>
+<p class="transcript-line">
+<span class="time"><strong>[01:24:35]</strong> </span>
+<span class="speaker"><strong>发言人3: </strong></span>
+不能推荐股票。对，纯个人意见也没关系。那就大家比如说针对手里用户这个观众的问题，我们挑几个差不多就NVD。
+</p>
+<p class="transcript-line">
+<span class="time"><strong>[01:24:44]</strong> </span>
+<span class="speaker"><strong>发言人4: </strong></span>
+我再补充一点，关于汽车上的，就是这届在支架芯片，大家都知道算力要求非常高。特斯拉是自研芯片，今年NVDA应该推出索尔芯片，索尔它的一系列芯片，但是因为它的black架构问题，不断的推迟他的芯片的上市发布上车，以至于造成了我们中国很多新车型的今年的发布要延后，以及它的新上的芯片只能提供低算力的，叫索尔优。他的最高1000T的算力，现在一个是成本非常高，一个是它整个的能够上车的测试等等，没有真正的完成。所以今年他对中国的智能驾驶市场影响非常大的。
+</p>
+<p class="transcript-line">
+<span class="time"><strong>[01:25:30]</strong> </span>
+<span class="speaker"><strong>发言人4: </strong></span>
+以及目前各个公司都开始自研芯片了。不论是考虑到地缘政治的原因，还是因为成本的原因，还是因为技术的原因，不论是像魏小李对吧？华为就不说了，魏小李其实都在自研芯片，未来已经上车了，ET9已经发布了。小鹏今年Q2会上他的图灵芯片也会随着新车一起来上车发布。
+</p>
+<p class="transcript-line">
+<span class="time"><strong>[01:25:50]</strong> </span>
+<span class="speaker"><strong>发言人4: </strong></span>
+理想应该在明年发布的舒马赫的芯片，大家都在自研芯片，就是有这是在中国市场非常大的英伟达的买家，未来曾经是英伟达在中国第一大的买。随着这些芯片，它支架芯片在中国的市场份额会逐渐的下降。当然大家要明白明确一点，就是支架芯片对英伟达的收入占比非常低的对。
+</p>
+<p class="transcript-line">
+<span class="time"><strong>[01:26:09]</strong> </span>
+<span class="speaker"><strong>发言人3: </strong></span>
+贡献很小。
+</p>
+<p class="transcript-line">
+<span class="time"><strong>[01:26:10]</strong> </span>
+<span class="speaker"><strong>发言人4: </strong></span>
+没多少。虽然这块业务他可能哪怕他放弃了，他AI芯片那边还是非常赚钱的。
+</p>
+<p class="transcript-line">
+<span class="time"><strong>[01:26:16]</strong> </span>
+<span class="speaker"><strong>发言人3: </strong></span>
+所以应该去买台积电。听懂了吗？好，朱老师要不挑个问题。
+</p>
+<p class="transcript-line">
+<span class="time"><strong>[01:26:21]</strong> </span>
+<span class="speaker"><strong>发言人2: </strong></span>
+挑个问题。这个问题肯定是问我能介绍一下为狂喜做的AI agent吗？做什么怎么做的效果？对，其实他就是用扣子搭的一个知识库系统，我就把那个狂喜播客节的那个课表课表导进去的。但是这里有一个问题，我为什么想聊这个话题？
+</p>
+<p class="transcript-line">
+<span class="time"><strong>[01:26:36]</strong> </span>
+<span class="speaker"><strong>发言人2: </strong></span>
+实现很简单。但是在这个过程当中，我会发现AI落地的一个现在巨大的普遍性的问题。就是所有的我们的资料都没有为AI去做友好的设计。是的，大家打开手里那个课表，你看他那个排版的结构，它根本就不一不利于用AI去理解，它不是一个结构化的。所以我首先要把它扔给一个大模型，让他重新给我排一个CSV或者Jason格式的东西出来，然后我再给到知识库系统里，包括大家可能从AI agents这里面查不到嘉宾的信息资料，包括这次活动的资料。为什么？因为关老师给我的所有的资料都是一张一张的图片。我至今还没要来word版，估计结束了之后能要的。所以这个就是现在AI落地的一个问题，就是我们人原来准备给人类来读的东西，是不是适应了AI的理解和阅读的习惯，这是一个挺有意思的那是的。
+</p>
+<p class="transcript-line">
+<span class="time"><strong>[01:27:40]</strong> </span>
+<span class="speaker"><strong>发言人1: </strong></span>
+我觉得AI要成长一下，他应该意识到人类社会的数据就是这么脏。
+</p>
+<p class="transcript-line">
+<span class="time"><strong>[01:27:44]</strong> </span>
+<span class="speaker"><strong>发言人2: </strong></span>
+但是他要有过程，我们如果要马上就要用它来解决问题，那那就就是。
+</p>
+<p class="transcript-line">
+<span class="time"><strong>[01:27:49]</strong> </span>
+<span class="speaker"><strong>发言人1: </strong></span>
+要这这也是给到数据库对数据库层面的一个挑战。
+</p>
+<p class="transcript-line">
+<span class="time"><strong>[01:27:53]</strong> </span>
+<span class="speaker"><strong>发言人3: </strong></span>
+是小张要不挑一个？
+</p>
+<p class="transcript-line">
+<span class="time"><strong>[01:27:55]</strong> </span>
+<span class="speaker"><strong>发言人1: </strong></span>
+我知道有一个中美AI水平差距多大的问题。
+</p>
+<p class="transcript-line">
+<span class="time"><strong>[01:28:00]</strong> </span>
+<span class="speaker"><strong>发言人2: </strong></span>
+好大的命题。
+</p>
+<p class="transcript-line">
+<span class="time"><strong>[01:28:01]</strong> </span>
+<span class="speaker"><strong>发言人1: </strong></span>
+再聊1个小时，怎么说呢？我感觉就那样，它其实不是AI技术本身的差距是怎么样，它更多的是全产业链的问题。为AI是一个泛话题，它向上向下有很多层。然后美国它有它现在成熟的这个软件和sas的商业模式，中国也有中国可以弯道超车的贫瘠的土壤。所以未来的这个结果是怎么样的也不好说。但是能够看到的是就是我在对我能够在政策层面看到很多想要在这个AI这个方向上面大搞特搞的一些利好。然后我觉得以大家过去看的这个经验，如果说政策上想要大搞特搞。
+</p>
+<p class="transcript-line">
+<span class="time"><strong>[01:28:49]</strong> </span>
+<span class="speaker"><strong>发言人3: </strong></span>
+很难有失败的，基本都大力会出奇迹。
+</p>
+<p class="transcript-line">
+<span class="time"><strong>[01:28:52]</strong> </span>
+<span class="speaker"><strong>发言人1: </strong></span>
+对，大力会出奇迹的。我现在觉得大力会出奇迹。然后再加上如果AI真的是要往业务层面走，再加上什么一带一路这些大的政策，然后又能有新的场景，又能有这个对吧？沙特所有的IT都要重新搞，那我们拿AI给重新做一个，这不要太好，所以就是贫瘠的土壤更容易长出下一代的花，然后对于中国的用户来讲，我觉得大家的这个灵活度要比美国那帮stubber的这个。
+</p>
+<p class="transcript-line">
+<span class="time"><strong>[01:29:21]</strong> </span>
+<span class="speaker"><strong>发言人3: </strong></span>
+好。
+</p>
+<p class="transcript-line">
+<span class="time"><strong>[01:29:21]</strong> </span>
+<span class="speaker"><strong>发言人1: </strong></span>
+太多要好太多了。大家对新技术的接受程度，然后对新的东西的拥抱的状况要好很多。所以我觉得整体看肯定是向好的。
+</p>
+<p class="transcript-line">
+<span class="time"><strong>[01:29:33]</strong> </span>
+<span class="speaker"><strong>发言人3: </strong></span>
+好，我这边挑一个问题，我们作为最后一个问题就结束了。我觉得这个问题问的特别好，这个问题问的特别的细节。他说agent这个词是否还合适出现在，比如他是一个做营销，他说是否出现在何时出现在我们在做产品branding跟推广的过程中，以及这个词是否适合出现在我创业做融资的PPT里。我的答案是不适合。
+</p>
+<p class="transcript-line">
+<span class="time"><strong>[01:30:02]</strong> </span>
+<span class="speaker"><strong>发言人2: </strong></span>
+我们今天。
+</p>
+<p class="transcript-line">
+<span class="time"><strong>[01:30:03]</strong> </span>
+<span class="speaker"><strong>发言人3: </strong></span>
+讨论的话题AI agent年这么多的内容就让它封装在这个会议室里就好了，好吧。再举一个更小的例子，是我PPT里之前我的博客里提到过的。前几天国内的AI大模型头部公司质谱发布了一个他们新的产品，这个产品叫auto GLM沉思版。这是一个类似deep research的AI agent的产品。听懂这句话了吗？听懂人举个手好吗？没什么人听得懂对吗？因为这个句话里你听这是他官方的新闻稿，官方的，我再重复一遍，他发布了一个产品叫auto GLM沉思版，这是一个类似deep research的AI agent产品。听懂了吗？
+</p>
+<p class="transcript-line">
+<span class="time"><strong>[01:30:56]</strong> </span>
+<span class="speaker"><strong>发言人3: </strong></span>
+这个可能就是代表了当下这个时间点的状态。无数的这些关键词跟用户之间无限的割裂，对产品跟技术之间无限的割裂。公司的市场营销公关团队跟产研团队互道SB，没错，听懂了吗？
+</p>
+<p class="transcript-line">
+<span class="time"><strong>[01:31:14]</strong> </span>
+<span class="speaker"><strong>发言人1: </strong></span>
+所以一个非常实少说两句PR团PR就用在市场层面的，PR一定不是你的产品定位。对，这是两件事情。
+</p>
+<p class="transcript-line">
+<span class="time"><strong>[01:31:25]</strong> </span>
+<span class="speaker"><strong>发言人3: </strong></span>
+好，这个正好我还是刚才那句话，让我们把今天的这些话题，这些跟日常生活没有任何太多关系的话题，仅仅封存在这个四号厅里。好，谢谢大家。我们这场结束到这里。
+</p>]]></content:encoded>
+            <pubDate>Wed, 14 May 2025 06:10:48 GMT</pubDate>
+            <guid>6824330324f855934686b8da</guid>
+        </item>
         <item>
             <title>Vol.58 2B-AI Agent的若干问题探讨---2025生成式AI商业高峰论坛实录</title>
             <link>https://www.xiaoyuzhoufm.com/episode/6807255acdd692da15e5e9d3</link>
@@ -32325,1742 +34229,6 @@ AI就是人类。
 </p>]]></content:encoded>
             <pubDate>Fri, 23 Aug 2024 15:11:02 GMT</pubDate>
             <guid>66c8a688ead5fc3792fc06c2</guid>
-        </item>
-        <item>
-            <title>Vol.29 《黑神话：悟空》能带来游戏投资热吗？不能---with 阑夕/祝佳音</title>
-            <link>https://www.xiaoyuzhoufm.com/episode/66c735fc7ae3d6d8d26dbe6e</link>
-            <description>【写在前面】
-8.20，《黑神话：悟空》上线，然后爆了……
-2-3天的时间，你可能已经在无数的短视频平台、公众号、社交媒体上看到了成千上万的内容；
-各种角度、各种切入点、各种身份的解读也有很多。
-6月我做过一期讲游戏科学的节目，
-（Vol.26 聊聊《黑神话：悟空》---一个行业观察者和投资人的视角）
-那期节目做完我其实对这个话题就没有太多的表达欲了……
-那为什么还会有这起期播客呢？
-新浪微博的好友找到我说，来直播一场吧，
-让我找嘉宾，可以不用过度解读这款游戏的意义，行业的影响，
-甚至其实可以不围绕这个“投资热”的标题，就是好朋友闲聊……
-我一想，找了可能是最适合聊这个话题的两位老友：
-阑夕和祝佳音。
-直播有回放，视频在这里：
-视频回放地址
-【对谈嘉宾】
-阑夕
-阑大，专业发车老司机，知名科技自媒体人，以及更加重要的是他是核心游戏玩家，无论是氪金向的网游还是单机游戏；还有一点，阑夕当年也是斗战神的玩家……
-祝佳音
-游戏媒体触乐网CEO，编辑；前《大众软件》编辑；
-20年8月游戏科学第一篇揭秘文章《如今我风华正茂：游戏科学是如何制造《黑神话：悟空》的》作者；
-和两位老友其实都认识超过10年，类似上一期的播客，纯中年油腻大叔的闲扯局，
-希望听得开心。
-(需要加粉丝群的可以先添加微信Rosicky311)
-【时间线】
-02:22 为什么要找祝老和阑大来聊这个话题
-03:38 阑大最近的一条“戏谑”的微博
-05:03 看到游戏成品的第一反应
-11:15 他们给的太“满”了……
-12:41 精彩的过场动画
-6章过场动画
-《黑神话：悟空》背后的中国动画人
-15:57 3A作品中已经极度稀缺的作者表达
-17:41 堪称奇迹的“项目进度管理”
-23:49 是否有其他厂商也在跟进3A的立项
-31:01 黑神话本身真的是“奇迹”
-35:38 无限内卷的网游战场和单机买断的对比
-39:41 60美金一份的买断制商业模式是不是也出现了问题
-44:46 关于我们自己的“文化”这个事情
-50:48 西游记从文字到视觉的具象表达
-51:54 巨灵神超级大，那么超级大是多大？
-52:30 文艺创作其实就是一个补充细节的过程
-54:07 大圣已经“救”过我们很多次了
-56:00 孙悟空这个形象在每个时代也都有不同的“映射”
-57:16 《漫长的季节》对于东北人的意义
-59:29 西游记的各种解读可能性
-1:00:36 流程跑通可能是最大的意义
-1:04:06 米哈游其实是在另外一个战场也做了类似的事情（虽然这个说法很可能被喷）
-1:05:59 中小独立游戏团队的出路是不是可能好一些了？
-1:08:29 敖厂长翻车，当年的《大圣归来》游戏口碑崩塌，国产3A的困境……
-1:10:27 一个“幼稚”的道理：你只要有好的东西，就有人认
-1:12:09 大家真的是“乐见其成”，得道者多助……
-1:13:12 投资界到底怎么看待这件事？
-1:16:20 我本来想先在最开头给出结论
-1:17:15 游戏行业的产业资本呢？
-1:18:32 《过去的三年是弯路吗，从投资视角看中国游戏行业》
-1:19:36 AI这个饼大家至少还愿意试试
-1:20:35 一级市场是需要“妄念”的
-1:21:25 和电影行业的融资对比
-1:25:01 游戏科学是“幸运”的
-1:29:01 “吃点好的”……
-1:32:43 35-40岁中年人的心态变化
-1:33:59 中年男人的眼泪太不值钱了
-1:35:24 230万的同时在线
-【播客简介】
-屠龙之术是一档关注科技、互联网、风险投资的播客，
-主播庄明浩是一个游走在互联网和风险投资行业的边缘人士。
-其工作多年所积累的认知似乎都成为了某种意义上的”屠龙之术“……
-或许某天再有新的“龙”出现的时候，就是这档播客停更之时。</description>
-            <content:encoded><![CDATA[<h1>转写链接</h1>
-<link>https://tongyi.aliyun.com/efficiency/doc/transcripts/pev8qdo47jd7nkga</link><br>
-<h1>节目摘要</h1>
-<div class="summary">游戏行业在过去几年里经历了显著变化，尤其在20至21年间，受到疫情和元宇宙概念的影响，出现了投资热潮。讨论围绕游戏产业的现状与未来趋势展开，强调游戏内容对于文化认同和个人情感表达的重要性。同时，分析了如何在行业成熟和市场变化中保持内容的新鲜感。通过“黑神话悟空”游戏的例子，讨论揭示了游戏开发的商业成功与艺术表达的结合，以及中国游戏产业的发展方向。整体上，对话展现了游戏作为一种艺术和娱乐形式，其创新性和吸引力，强调了对创作者的理解和支持的重要性。</div><br>
-<h1>章节速览</h1>
-<div class="chapters">
-<div class="chapter-item">
-<span class="time"><strong>[00:00:00]</strong> </span>
-<span class="chapter-title"><strong>非生化悟空引发的产业投资讨论</strong></span>
-<div class="chapter-summary">对话围绕非生化悟空游戏引发的广泛讨论展开，特别从产业和投资角度进行探讨。讨论中，三位嘉宾从各自背景出发，分享了他们对这款游戏的观察、体验以及对游戏行业未来的看法。朱佳音提到，游戏科学公司的游戏在去年的预告片发布时就引起了广泛关注，而莱西作为科技互联网行业的自媒体和资深游戏玩家，分享了他连续24小时游戏的体验以及对游戏内容的见解。另外，讨论还涉及了游戏如何影响创业投资热潮、媒体对于游戏的报道角度以及三位嘉宾对游戏行业未来发展的预测。</div>
-</div>
-<div class="chapter-item">
-<span class="time"><strong>[00:05:13]</strong> </span>
-<span class="chapter-title"><strong>游戏体验分享及对游戏公司信任问题的探讨</strong></span>
-<div class="chapter-summary">对话者分享了自己在2020年之前，作为较早接触某款游戏的玩家的经历，强调了游戏的成熟度和高质量给其带来的震惊感受。此外，还讨论了玩家对游戏公司普遍存在不信任的问题，特别是在游戏演示与实际游戏体验不符的情况下。通过个人经历，对话者表达了对游戏制作团队持续努力和创新的赞赏，特别是他们对西游记题材的现代解读，以及游戏设计上的用心，让即便是新玩家也能迅速上手并感受到游戏的魅力。</div>
-</div>
-<div class="chapter-item">
-<span class="time"><strong>[00:08:35]</strong> </span>
-<span class="chapter-title"><strong>对斗战神和黑神话游戏的深度评论</strong></span>
-<div class="chapter-summary">评论者对斗战神的游戏设定给予了高度评价，特别是其故事背景和暗黑风格的创新性，以及游戏如何通过抹杀取经路上的妖怪来形成人间镇压的目的，给人一种强烈的颠覆感。然而，对于游戏后期不断推出新副本和装备导致的玩家疲劳表示担忧。对比之下，黑神话以一次性完整体验呈现给玩家，被视为艺术与娱乐的结合，给予了极高的评价。评论者还表达了对开发团队坚持理想、不妥协的工作态度的敬佩，尤其是在细节处理上的极致追求，让人感到惊喜和佩服。</div>
-</div>
-<div class="chapter-item">
-<span class="time"><strong>[00:11:13]</strong> </span>
-<span class="chapter-title"><strong>探讨创作热情与经验的平衡及动画制作的精进</strong></span>
-<div class="chapter-summary">对话者分享了关于创作过程中热情与经验平衡的观点，强调人在特定阶段能够产出一生中最好的作品。同时，通过对动画制作领域的深入讨论，展示了顶级工作室参与制作的项目，以及动画行业内部合作的细节，体现了对动画制作精进的羡慕和赞赏。此外，还提及了公众对高质量动画游戏难以区分的现象，反映了当前动画制作水平的高度。</div>
-</div>
-<div class="chapter-item">
-<span class="time"><strong>[00:14:37]</strong> </span>
-<span class="chapter-title"><strong>探讨游戏的文艺性与作者性表达</strong></span>
-<div class="chapter-summary">对话内容围绕着对游戏《守望者》的深度分析，特别强调了游戏不仅仅提供娱乐，更在内容体验上带来震撼。此外，讨论了游戏的文艺性地位和其能够体现的作者性表达，指出这种作者性在3A作品中较为稀缺，同时强调了技术投入与规模的重要性。</div>
-</div>
-<div class="chapter-item">
-<span class="time"><strong>[00:16:25]</strong> </span>
-<span class="chapter-title"><strong>黑神话：悟空的艺术性表达与团队成就</strong></span>
-<div class="chapter-summary">对话中讨论了黑神话当前版本中作者性表达的强烈体现，被视为对3A大作风格的反叛，通过艺术性表达和个性化展示突出游戏的独特魅力。此外，也提到了开发团队在成本控制和项目执行方面的出色表现，将黑神话的开发视为一个工程实现的奇迹。</div>
-</div>
-<div class="chapter-item">
-<span class="time"><strong>[00:18:18]</strong> </span>
-<span class="chapter-title"><strong>揭秘游戏开发中的工程管理和团队协作</strong></span>
-<div class="chapter-summary">在游戏开发领域，一款大作的诞生通常需要一个庞大的团队，包括核心制作人员可达300到400人，且基于先前项目的经验积累。一个案例是，某游戏项目初期团队人数不多，逐渐增至百人以上，通过科学的流程管理和外包合作，在不进行过度加班的情况下，成功避免了开发过程中的大错误，保持了项目初期构想框架和世界观的稳定性。开发过程中，特别注意了成本和资源的管理，通过创新的方法如留白，实现视野上的开阔性，而不是盲目追求开放世界的大制作。这种工程管理能力展现了制作团队在面对庞大项目时的高效和灵活。</div>
-</div>
-<div class="chapter-item">
-<span class="time"><strong>[00:23:47]</strong> </span>
-<span class="chapter-title"><strong>大厂对3A游戏的投资与市场策略</strong></span>
-<div class="chapter-summary">在当前的游戏行业中，腾讯、网易等大厂早已开始对大规模游戏进行投资，尽管市场上对于3A游戏或者大体量游戏的定义存在一定的讨论性。这些大厂在游戏品质上不亚于其他竞争者，但他们在收费模式上更倾向于服务性收费，如道具或时装收费，而非直接的买断制。尽管大厂可能因商业模式回报而难以接受买断制，但他们通过投资或收购的方式，对有潜力的项目保持开放态度。例如，腾讯推出的“三角洲行动”就体现了大厂在3A级游戏领域内的布局。</div>
-</div>
-<div class="chapter-item">
-<span class="time"><strong>[00:27:23]</strong> </span>
-<span class="chapter-title"><strong>中国游戏行业的现状与未来展望</strong></span>
-<div class="chapter-summary">对话内容涉及中国游戏行业在手游质量及内容开发方面的进步，以及游戏开发投入的巨大。讨论重点包括对特定游戏的评价、游戏对玩家的吸引力以及氪金问题的讨论。此外，还涉及中国科幻产业的崛起，特别是通过《流浪地球》电影提及的中国科幻国产化的讨论。对未来的展望持相对悲观态度，认为行业内的重大改变可能需要十年或更长时间才能显现，但同时强调了对年轻人激励作用的长远意义。</div>
-</div>
-<div class="chapter-item">
-<span class="time"><strong>[00:32:31]</strong> </span>
-<span class="chapter-title"><strong>刘慈欣科幻成就与游戏开发影响</strong></span>
-<div class="chapter-summary">刘慈欣在科幻领域的成就显著，与其他科幻作家形成鲜明对比。在游戏行业，游客公司凭借特定条件成功打造一款游戏，树立了高标准。这一案例激励了类似条件下的开发者，促使他们投身于高品质游戏的开发，尽管短时间内难以复制同样的成功。</div>
-</div>
-<div class="chapter-item">
-<span class="time"><strong>[00:35:37]</strong> </span>
-<span class="chapter-title"><strong>探讨二次元游戏市场现状与未来趋势</strong></span>
-<div class="chapter-summary">对话深入分析了二次元游戏市场的激烈竞争和高门槛现状，指出了市场内卷严重，美术画风和开放世界游戏的竞争导致开发者和玩家都感到疲惫。讨论了三买断制游戏的市场潜力变化，以及B站代理发行游戏的策略，强调了市场竞争的淘汰机制。同时，指出了电脑游戏和手游在市场上的不同表现，以及3A游戏制作成本的急剧上升对游戏创新和开发带来的挑战。最后，反思了3A游戏是否陷入困境，以及对未来游戏市场的预测。</div>
-</div>
-<div class="chapter-item">
-<span class="time"><strong>[00:42:18]</strong> </span>
-<span class="chapter-title"><strong>探讨二次元市场与3A游戏开发的挑战</strong></span>
-<div class="chapter-summary">对话中讨论了二次元市场相较于3A游戏市场的优势，特别是对于国内开发商来说，二次元市场的熟悉度、成本控制和收益预期更为可控。而3A游戏开发面临巨大挑战，包括高昂的开发成本、面向全球市场的压力以及文化差异带来的理解难题。讨论还涉及了文化输出的重要性，如通过西游记主题游戏探讨了文化共情与理解的跨文化交流可能性，同时也指出了在全球化背景下，保持本土文化特色与满足国际市场需求之间的平衡难题。</div>
-</div>
-<div class="chapter-item">
-<span class="time"><strong>[00:49:22]</strong> </span>
-<span class="chapter-title"><strong>文化传承与创新在游戏中的体现</strong></span>
-<div class="chapter-summary">对话中，一位人士深刻地谈论了中华文化，特别是西游记元素在游戏中的运用及其对玩家的影响。他强调了文化细节对本土玩家的特殊意义，比如西游记主题曲和特定角色的视觉表达，这些元素让玩家感到熟悉和亲近。此外，他还提到，尽管每个人对文化的接受程度不同，但通过游戏这样的媒介，可以促进不同文化之间的理解和交流。最后，他表达了对文化传承的自豪感，并认为通过文艺创作修补细节的过程，可以加深人们对历史和文学作品的理解和感受。</div>
-</div>
-<div class="chapter-item">
-<span class="time"><strong>[00:57:15]</strong> </span>
-<span class="chapter-title"><strong>文化共鸣与个人认同：从《漫长的季节》到《西游记》</strong></span>
-<div class="chapter-summary">对话者通过讨论《漫长的季节》这部讲述东北故事的电视剧，表达了作为东北人的自豪感。这种自豪不仅源于身份认同，更重要的是通过这部作品能够向外界传达东北人的生活与情感，从而让其他人更好地了解他们。此外，通过提到《西游记》及其相关的文化产品，对话者进一步探讨了文化作品对于集体记忆和个人成长的影响，强调了文化共鸣在形塑个人认同感中的重要性。</div>
-</div>
-<div class="chapter-item">
-<span class="time"><strong>[01:00:32]</strong> </span>
-<span class="chapter-title"><strong>探讨游戏开发对行业的影响与人才市场促进</strong></span>
-<div class="chapter-summary">对话集中在分析像《流浪地球》这样的游戏项目，如何通过其开发流程和成功案例，对游戏行业以及人才市场产生的积极影响。项目不仅促进了新的职位产生，如技术美术，还为其他公司提供了可参考的开发和生产流程。此外，讨论还指出，这类成功案例能激励人才市场，吸引更多人投身游戏开发，特别是对于端游市场的关注，有助于缓解该领域人才短缺的问题。</div>
-</div>
-<div class="chapter-item">
-<span class="time"><strong>[01:05:50]</strong> </span>
-<span class="chapter-title"><strong>中国游戏产业发展及市场现状分析</strong></span>
-<div class="chapter-summary">近年来，中国游戏开发商在Steam平台上取得了显著的成绩，不少中国厂商的产品成功占据显著位置，例如《鬼谷八荒》和《中国式家长》等作品，展现了中国游戏产业的崛起。不过，尽管存在乐观的趋势，对于中小规模和独立团队而言，面临的挑战仍然不小。讨论还提到了成功案例背后的艰辛努力，强调了高质量作品对于获得市场认可的重要性。此外，还提到了游戏开发者与玩家之间存在的一种期待与反馈的循环，以及社会各方对于优秀游戏作品的支持态度，这表明了一个积极向上的行业生态。</div>
-</div>
-<div class="chapter-item">
-<span class="time"><strong>[01:13:11]</strong> </span>
-<span class="chapter-title"><strong>游戏行业投资现状与展望</strong></span>
-<div class="chapter-summary">讨论集中在游戏行业，特别是单机买断制游戏的投资环境、可能性以及投资者的态度变化。虽然当前投资环境不佳，但行业内对游戏项目的关注度和投资意愿有所上升，表明投资界对游戏，尤其是能引发小规模变革的项目，持开放态度。同时，对于3A级游戏的投资热潮持悲观态度，短期内不太可能见到显著的投资增长。过去几年，游戏行业经历了从高度投机到逐渐回归理性的转变，投资更注重项目的实际价值和长期潜力。此外，讨论还触及了游戏成本上升、开发复杂度增加等问题，以及对未来游戏投资方向的预测，包括AI技术的可能影响。</div>
-</div>
-<div class="chapter-item">
-<span class="time"><strong>[01:24:16]</strong> </span>
-<span class="chapter-title"><strong>游戏科学公司的幸运与挑战</strong></span>
-<div class="chapter-summary">讨论集中在游戏科学公司自2014年成立以来的经历，强调了公司在正确的时间点上作出的关键决策和遇到的幸运机遇，如与网易和腾讯等大公司的合作，以及在手游、自走棋等领域的成功。同时，也探讨了行业环境的变化给公司带来的挑战和机遇，以及腾讯的投资为公司带来的资源和压力。整体上，这段对话体现了游戏开发领域内，时势、资本和运气如何共同作用于一个公司的成长路径。</div>
-</div>
-<div class="chapter-item">
-<span class="time"><strong>[01:27:13]</strong> </span>
-<span class="chapter-title"><strong>探讨国产游戏的文化自信与发展挑战</strong></span>
-<div class="chapter-summary">对话中讨论了关于某国产游戏系列的开发情况，包括团队的规模、面临的挑战，以及未来的发展方向。同时，也表达了对国产游戏文化的自信和对高质量国产游戏的期待，反映出对文化产业自由发展的呼吁和对文化根深蒂固的情感联系的认识。</div>
-</div>
-<div class="chapter-item">
-<span class="time"><strong>[01:32:41]</strong> </span>
-<span class="chapter-title"><strong>中年感悟与游戏体验分享</strong></span>
-<div class="chapter-summary">对话内容涉及多个主题，包括中年时期的生活感悟、对个人兴趣的追求以及对游戏《黑神话》的讨论。讨论者分享了年龄增长带来的对社会评价的不在乎，以及对于年轻时流行事物的新认识。同时，也讨论了《黑神话》游戏的玩家在线人数、游戏体验、多结局猜测及其对玩家挑战性的提升。</div>
-</div>
-</div><br>
-<h1>问题回顾</h1>
-<div class="qa-item">
-<div class="question"><strong>Q:</strong> 那么，从一个第一感官的角度出发，你们怎么评价这款游戏，并尝试描述一下内心的感受或关键词？两位嘉宾是如何接触到这款游戏并参与其中的？</div>
-<div class="answer"><strong>A:</strong> 朱佳音：我在早期试玩这款游戏时，感到非常震惊和惊喜。游戏的成熟度超乎想象，无论是画面效果、剧情推进还是操作反馈，都让我觉得它不像是一款初创团队制作的新游戏，反而展现出令人印象深刻的精细和成熟。关键词可以用“爽”来概括，因为它结合了熟悉的西游记背景和精良的制作质量，带给玩家一种熟悉而新鲜的游戏体验。朱佳音是在2020年8月，通过游客团队提供的游戏演示部分进行试玩的，当时就对游戏的成熟度印象深刻。而南大则是因为有一条关于恶搞黑神话悟空的氪金、充值微博走红，他的关注点在于游戏背后的制作团队对游戏品质的坚持和投入，以及游戏本身的深度和丰富性。</div>
-</div>
-<div class="qa-item">
-<div class="question"><strong>Q:</strong> 这款游戏中有哪些令你们印象深刻的部分？</div>
-<div class="answer"><strong>A:</strong> 朱佳音提到了游戏中丰富的细节，如图鉴、动画制作等方面，以及开发者对待作品的理想主义态度，不惜花费大量精力去完善每一个环节，这种付出与收益可能不对等的精神令人敬佩。此外，游戏所展现的团队热情和激情，以及他们在内容创作上的精益求精，都让人印象深刻。</div>
-</div>
-<div class="qa-item">
-<div class="question"><strong>Q:</strong> 对于这款游戏，你们有什么特别的关键词或者感受可以分享吗？</div>
-<div class="answer"><strong>A:</strong> 南大：这款游戏给我带来的关键词是“奢侈”，体现在开发者为了提供一个完整而丰富的游戏体验，在内容制作上的精良程度和对细节的关注，比如精心制作的过场动画和剧情推进，让人感到震撼。同时，游戏在商业化方面似乎有所突破，提供了超出预期的丰富内容，让人感觉像是得到了一份物超所值的艺术与娱乐结合体。</div>
-</div>
-<div class="qa-item">
-<div class="question"><strong>Q:</strong> 火影忍者中国制作人是否参与了某张动画的制作？</div>
-<div class="answer"><strong>A:</strong> 是的，那个制作人参与了某一张配置化的动画制作。</div>
-</div>
-<div class="qa-item">
-<div class="question"><strong>Q:</strong> 游戏中的动画风格和哪部电影有相似之处？</div>
-<div class="answer"><strong>A:</strong> 游戏中的某些动画风格让我联想到扎导（Zack Snyder）的电影《守望者》中那种独特的2D风格动画。</div>
-</div>
-<div class="qa-item">
-<div class="question"><strong>Q:</strong> 该动画作品是否引发了关于游戏与电影界限模糊的讨论？游戏在游戏性和提供内容体验上有何独特之处？</div>
-<div class="answer"><strong>A:</strong> 是的，这部作品让不玩游戏的妻子也分不清它是电影还是游戏，确实引发了大家对于体感状态和文艺性地位的强烈反响。游戏非常好玩，但更令人震撼的是它融合了顶级3A作品的技术投入和技术规模，同时具有非常稀缺的作者性表达，这在很多翻译作品中很难看到。</div>
-</div>
-<div class="qa-item">
-<div class="question"><strong>Q:</strong> 对于黑神话项目工程管理能力有何评价？</div>
-<div class="answer"><strong>A:</strong> 黑神话项目的工程管理能力相当恐怖，从预想构架到世界观逻辑，几乎没有大的改动，项目的成功很大程度上得益于高效的管理。</div>
-</div>
-<div class="qa-item">
-<div class="question"><strong>Q:</strong> 游戏团队在开发过程中面临了哪些挑战？</div>
-<div class="answer"><strong>A:</strong> 团队只有100多人完成了大型游戏的开发，这在行业里非常罕见。他们边开发边组建团队，并通过科学的流程和管线管理成功实现了项目的顺利推进。</div>
-</div>
-<div class="qa-item">
-<div class="question"><strong>Q:</strong> 是否有其他厂商也在尝试类似的大规模游戏项目？</div>
-<div class="answer"><strong>A:</strong> 腾讯、网易等大厂早已开始大规模投入游戏开发，不过他们的商业模式可能更倾向于服务性收费而非单次买断制。此外，大厂对于买断制游戏的接受度相对较低，更愿意通过投资或合作的方式进行尝试。</div>
-</div>
-<div class="qa-item">
-<div class="question"><strong>Q:</strong> 在手游行业，从游戏质量或内容堆料的角度看，中国游戏行业是否已经走了很远？</div>
-<div class="answer"><strong>A:</strong> 是的，很多游戏在开发投入上非常惊人，例如王者荣耀和原神等。尽管如此，提到黑神话悟空、明朝元神等游戏名字时，可能会引起争议，因为它们在内容堆料方面容易被误解。实际上，黑神话并非唯一具有开创性的例子，像原神在当时也是冒着很大风险去做开放式世界设计。</div>
-</div>
-<div class="qa-item">
-<div class="question"><strong>Q:</strong> 黑神话相比其他游戏为何更容易受到尊重？</div>
-<div class="answer"><strong>A:</strong> 这是因为黑神话选择了一种更平民化的商业模式，没有助长土豪的氪金文化，玩家一年只需花费较少金额即可享受游戏，这让它在用户中获得了较好的口碑。</div>
-</div>
-<div class="qa-item">
-<div class="question"><strong>Q:</strong> 对于中国科幻游戏或电影的崛起，您怎么看？</div>
-<div class="answer"><strong>A:</strong> 目前来看，中国科幻游戏或电影大规模崛起还存在不确定性，需要行业环境、消费习惯、监管政策等多种条件成熟。尽管如此，黑神话这类作品如同流浪地球一样，可能在未来十年甚至二十年后产生深远影响，激励新一代开发者进入游戏行业，并提升整体水平。</div>
-</div>
-<div class="qa-item">
-<div class="question"><strong>Q:</strong> 对于黑神话对未来游戏市场可能产生的具体影响，您有何看法？</div>
-<div class="answer"><strong>A:</strong> 虽然短期内可能难以看到显著变化，但黑神话就像体育界的梅西一样，为年轻一代开发者树立了榜样，可能会激发他们投身游戏开发，尤其是那些条件类似、有潜力的开发者，从而在未来一段时间内推动游戏市场的多样化发展。</div>
-</div>
-<div class="qa-item">
-<div class="question"><strong>Q:</strong> 针对当前二次元游戏市场的激烈竞争，以及单机买断制游戏与二次元游戏之间市场的对比，您觉得会出现怎样的变化？</div>
-<div class="answer"><strong>A:</strong> 目前二次元游戏市场竞争激烈，门槛极高，而单机买断制游戏市场相对较低。随着市场调整和淘汰机制的作用，可能会有一部分开发者因二次元市场的饱和而转向单机买断制游戏领域，导致该板块竞争力增强，市场份额可能发生转变。同时，B站等平台的存在也提供了一种相对灵活的市场退出机制，有助于市场自我调整和优化资源配置。</div>
-</div>
-<div class="qa-item">
-<div class="question"><strong>Q:</strong> 3A游戏是否正面临死路，因为过于依赖成本堆砌和老IP，缺乏创新？为什么在二次元市场投入巨大，但似乎比3A游戏更有估算和回报的可能性？</div>
-<div class="answer"><strong>A:</strong> 是的，现在很多人在讨论这个问题。3A游戏确实存在不敢轻易创新，过度依赖IP的现象，这导致市场变得相对保守和依赖投入巨大的成本，而很少有公司愿意承担风险去尝试新的题材或设计。二次元市场虽然残酷，但其投入产出比相对清晰，能找到预算、人才和测试方法来预估回报。而3A游戏由于面向全球市场，尤其是在国内单机买断制的动作类型及开放世界游戏领域，由于不确定因素太多，导致很难找到合适的开发团队，并且单个国家的用户量不足以支撑高昂的成本。</div>
-</div>
-<div class="qa-item">
-<div class="question"><strong>Q:</strong> 对于3A游戏的文化适应性和全球发行问题，是否存在文化差异带来的挑战？</div>
-<div class="answer"><strong>A:</strong> 确存在挑战。3A游戏往往依托于强势文化如美国或日本文化，并且为了全球用户群必须具有广泛的吸引力。像中国这样的国家，在制作面向全球市场的3A游戏时，面临找寻合适人才、确定商业模式以及确保内容能够跨越不同文化背景的难题。</div>
-</div>
-<div class="qa-item">
-<div class="question"><strong>Q:</strong> 文化因素如何影响外国玩家对含有中国文化元素游戏的理解和接受程度？</div>
-<div class="answer"><strong>A:</strong> 文化因素有两面性。一方面，底层情感是共通的，例如使用“魔界”与“西游记”题材并不妨碍全球玩家理解其核心故事；另一方面，部分外国玩家可能无法深入理解中国文化背景中的某些细节，但这并不妨碍他们体验游戏本身。创作者应当确保游戏底层逻辑流畅易懂，同时尽可能植根于本土环境以打动本国玩家，而外国玩家则可通过体验感受不同文化带来的独特魅力。</div>
-</div>
-<div class="qa-item">
-<div class="question"><strong>Q:</strong> 在86版西游记的形象中，孙悟空的形象是如何形成的？</div>
-<div class="answer"><strong>A:</strong> 孙悟空的形象来源于大量的京剧戏剧等文化产品，并随着时代的发展而推陈出新。它承载了丰富的文化内涵和社会变迁，与不同时期的社会环境和民众期待相匹配。</div>
-</div>
-<div class="qa-item">
-<div class="question"><strong>Q:</strong> 文化产品如何唤起集体记忆？</div>
-<div class="answer"><strong>A:</strong> 例如《漫长的季节》这部电视剧，它帮助东北人向外界更好地展示了东北文化和情感特质，唤醒了大家共同的记忆。同时，像漫威电影中的神奇4侠因其时间点设定，成功唤起了美国民众对某个时代的集体回忆。</div>
-</div>
-<div class="qa-item">
-<div class="question"><strong>Q:</strong> 对于游戏行业来说，类似《流浪地球》这样的成功作品有何意义？</div>
-<div class="answer"><strong>A:</strong> 这类作品的成功不仅激励了其他公司采用成熟的工业化生产流程，还促进了整个产业链的发展，提供了可参考的路径和依赖方式，激活了人才市场，让更多的创意人才有机会参与其中。</div>
-</div>
-<div class="qa-item">
-<div class="question"><strong>Q:</strong> 黑神话系列游戏在行业内的成功是否意味着中国单机游戏市场的春天即将到来？</div>
-<div class="answer"><strong>A:</strong> 虽然黑神话系列的成功对单机游戏市场有积极影响，但是否能带来大规模变化还需观察。目前中国单机游戏市场氛围相对较好，竞争不算激烈，但也存在诸多不确定性因素。不过，一些独立团队的作品在国际市场上的表现正逐渐变好，这预示着未来可能有一小波变化。</div>
-</div>
-<div class="qa-item">
-<div class="question"><strong>Q:</strong> 大圣归来和黑神话悟空在IP影响力上相比如何？为什么现在大家对游戏期待很高，追求真实体验？</div>
-<div class="answer"><strong>A:</strong> 如果放在同样的时间点上，大圣归来并不比黑神话悟空弱，它在动画圈积攒了很多粉丝，是一个优秀的IP。玩家长期没有得到理想的游戏体验，希望得到高品质、不缩水的产品，而不是需要大量投入才能完整体验的手游。</div>
-</div>
-<div class="qa-item">
-<div class="question"><strong>Q:</strong> 当前大家为何热衷于投资和关注游戏行业？</div>
-<div class="answer"><strong>A:</strong> 大家希望通过投资游戏项目来证明这条路能够走通，并期待有更多游戏能够成功，同时行业内外的人都愿意为此付出努力。</div>
-</div>
-<div class="qa-item">
-<div class="question"><strong>Q:</strong> 对于好作品，玩家会怎样反应？</div>
-<div class="answer"><strong>A:</strong> 只要游戏做得足够好，玩家会认可并接受其存在的一些缺点。真诚和高质量的游戏内容比玩家的情绪化更容易打动他们。</div>
-</div>
-<div class="qa-item">
-<div class="question"><strong>Q:</strong> 投资界如何看待单机买断制游戏及大投入面向全球的作品？</div>
-<div class="answer"><strong>A:</strong> 虽然当前投资环境并不乐观，但有一些微妙的变化正在发生，例如大厂内部立项游戏的可能性增大，以及愿意关注游戏项目的投资人增多。不过，整体而言，中短期内不太可能出现游戏创业投资热潮，尤其是3A游戏的投资热。</div>
-</div>
-<div class="qa-item">
-<div class="question"><strong>Q:</strong> 产业资本在游戏行业的表现如何？</div>
-<div class="answer"><strong>A:</strong> 过去两年，中国游戏行业的产业资本经历了疯狂阶段，但在2022年出现回调。尽管如此，一些大厂仍在积极布局，但整体投资情绪已从极度热情转向谨慎对待。</div>
-</div>
-<div class="qa-item">
-<div class="question"><strong>Q:</strong> 在悲观的市场环境下，对于游戏行业的投资趋势有何看法？</div>
-<div class="answer"><strong>A:</strong> 目前游戏行业的投资趋势是趋于保守和理性，投资人更注重项目的综合性和商业化潜力，而非盲目追求理想主义或快速暴富。</div>
-</div>
-<div class="qa-item">
-<div class="question"><strong>Q:</strong> 吃豆人这款游戏在上市后的表现如何？</div>
-<div class="answer"><strong>A:</strong> 吃豆人在上市半年内赚的钱相当于拉斯维加斯整个赌场一年的收入，这显示了它在供给匮乏年代作为游戏的良好商业性和高回报率。</div>
-</div>
-<div class="qa-item">
-<div class="question"><strong>Q:</strong> 为什么有些独立游戏的类似发行商没有成功起来？</div>
-<div class="answer"><strong>A:</strong> 虽然逻辑上可行，但由于各种其他原因，那个时期尝试做类似发行商的想法并未真正实现。但确实有人在这个时间点上有过这样的想法。</div>
-</div>
-<div class="qa-item">
-<div class="question"><strong>Q:</strong> 游戏科学这家公司的发展历程是怎样的？</div>
-<div class="answer"><strong>A:</strong> 游戏科学从2014年成立，第一款产品就给了网易，之后的作品赤潮和自走棋分别抓住了当时的手游市场、资本故事和DAU增长点，积累了资金并在2018年立项黑神话，原本计划在行业热潮中获得高估值和腾讯投资，但由于行业冷淡和腾讯心态变化，最终在困难中挺过来并取得成功。</div>
-</div>
-<div class="qa-item">
-<div class="question"><strong>Q:</strong> 游戏科学是否有计划扩展其三部曲系列？</div>
-<div class="answer"><strong>A:</strong> 虽然谈到过黑神话是一个系列，但不确定是否会有差别或整体计划，注册商标的情况也未明确说明。</div>
-</div>
-<div class="qa-item">
-<div class="question"><strong>Q:</strong> 对于游戏行业自由发展的看法是什么？</div>
-<div class="answer"><strong>A:</strong> 游戏行业自由发展很好，尤其对于回归到以国产游戏为主的愿望，渴望品尝到中国的文化特色，并提到一些工作室通过文化题材在抖音等平台获得成功，表明人们对于本国文化有更深的热情和共鸣。</div>
-</div>
-<div class="qa-item">
-<div class="question"><strong>Q:</strong> 对于黑神话同时在线人数的情况如何？</div>
-<div class="answer"><strong>A:</strong> 黑神话目前同时在线人数达到了230万，这是一个非常惊人的数字，尤其是在全球范围内取得的动作游戏单机游戏第一的位置。</div>
-</div>
-<h1>节目文稿</h1>
-<p class="transcript-line">
-<span class="time"><strong>[00:00:00]</strong> </span>
-<span class="speaker"><strong>发言人1: </strong></span>
-这两天可能关于非生化悟空的话题，应该是充斥着所有的社交平台，所有的媒体，所有的流量的地方，对吧？各种各样的解读，各种的视频已经看了非常多了。然后其实我在开始之前内心会觉得有一点有一点不知道该聊什么。因为从昨天晚上开始，几乎所有的我能想到的角度切入点，其实都有媒体的朋友已经写的非常的多了。
-</p>
-<p class="transcript-line">
-<span class="time"><strong>[00:00:27]</strong> </span>
-<span class="speaker"><strong>发言人1: </strong></span>
-然后包括我们今天聊这个话题对吧？其实因为是这个微博的官方财经频道找到我们聊的这个话题，所以可能更多还是基于比如说产业，投资这个角度去聊。可是这个也怪我，我在之前大概在昨天的时候，前天晚上有一个也是媒体朋友问我怎么看能不能带起所谓的3A的创业投资的热潮。但是他限定了一下叫创业投资热潮。反正我给大家说不能，对吧？当然这个投资分很多种，不止只有创业投资。所以我们今天会展开聊一下这个事情，然后再次感谢所有参与我们直播的听众。然后呃要不我们先简单做个自我介绍，从朱老朱老板开始。
-</p>
-<p class="transcript-line">
-<span class="time"><strong>[00:01:09]</strong> </span>
-<span class="speaker"><strong>发言人2: </strong></span>
-OK大家好，我叫朱佳音，我是初乐的创始人和编辑，也喜欢玩游戏，玩了很长时间，差不多就这样。
-</p>
-<p class="transcript-line">
-<span class="time"><strong>[00:01:24]</strong> </span>
-<span class="speaker"><strong>发言人3: </strong></span>
-我是莱西，是一个做科技互联网行业的一个自媒体，然后也是一个算是比较狂热的一个游戏玩家。反正我是玩了24个小时，今天早上刚睡，然后现在精神状态可能不是最好的，大家体谅一下。
-</p>
-<p class="transcript-line">
-<span class="time"><strong>[00:01:40]</strong> </span>
-<span class="speaker"><strong>发言人1: </strong></span>
-所以你直接打24小时了。
-</p>
-<p class="transcript-line">
-<span class="time"><strong>[00:01:42]</strong> </span>
-<span class="speaker"><strong>发言人3: </strong></span>
-已经。对对对。
-</p>
-<p class="transcript-line">
-<span class="time"><strong>[00:01:43]</strong> </span>
-<span class="speaker"><strong>发言人1: </strong></span>
-到底打到哪个。
-</p>
-<p class="transcript-line">
-<span class="time"><strong>[00:01:46]</strong> </span>
-<span class="speaker"><strong>发言人3: </strong></span>
-第二我是断断续续，我现在打到第二张那个虎先锋。
-</p>
-<p class="transcript-line">
-<span class="time"><strong>[00:01:50]</strong> </span>
-<span class="speaker"><strong>发言人1: </strong></span>
-虎先锋是一个比较那什么的关卡。
-</p>
-<p class="transcript-line">
-<span class="time"><strong>[00:01:53]</strong> </span>
-<span class="speaker"><strong>发言人3: </strong></span>
-对吧？对还打那个黄风怪是要找那个定风珠，也还没找。对。
-</p>
-<p class="transcript-line">
-<span class="time"><strong>[00:01:57]</strong> </span>
-<span class="speaker"><strong>发言人1: </strong></span>
-是的，要找定风珠。
-</p>
-<p class="transcript-line">
-<span class="time"><strong>[00:01:59]</strong> </span>
-<span class="speaker"><strong>发言人2: </strong></span>
-胡先锋在在之前去年，我记得去年游客的那个测试里头，就是他们邀请了一批人去测试。然后那个胡先锋非常凶，就杀死了非常多的测试者。
-</p>
-<p class="transcript-line">
-<span class="time"><strong>[00:02:11]</strong> </span>
-<span class="speaker"><strong>发言人3: </strong></span>
-这时间我觉得很长不见了，很长不够，当时我没有长。
-</p>
-<p class="transcript-line">
-<span class="time"><strong>[00:02:17]</strong> </span>
-<span class="speaker"><strong>发言人1: </strong></span>
-对，当时就有那个梗图出现了，就老虎叼了一堆。
-</p>
-<p class="transcript-line">
-<span class="time"><strong>[00:02:20]</strong> </span>
-<span class="speaker"><strong>发言人3: </strong></span>
-对对对。
-</p>
-<p class="transcript-line">
-<span class="time"><strong>[00:02:22]</strong> </span>
-<span class="speaker"><strong>发言人1: </strong></span>
-对，然后这个我也简单介绍。我记得我其实现在的这个工作是一家互联网公司做战略的投资。然后我们的业务是有游戏跟投资的，之前一直做的投资，平时也会写一些自己东西，包括做了一个博客来讲相关的这个事情。所以感谢微博找到我们组织一样这样的访谈。然后我再多介绍一下几位两位嘉宾如何找到他们。我觉得就是那天找朱老师，朱老师问我我们该聊什么，对吧？我是这样的，我说这个朱朱老师这个初乐的创始人。
-</p>
-<p class="transcript-line">
-<span class="time"><strong>[00:02:55]</strong> </span>
-<span class="speaker"><strong>发言人1: </strong></span>
-然后在20年8月，游客放第一个那个预告片的时候，在8月21号出了有篇文章。其实在当时引起非常多的讨论，甚至是可能是那个时间点第一篇真正意义上以一个全貌的方式揭开游戏科学家公司的状态的一篇文章，其实那篇文章对我的印象非常深。我前一段时间做了一期关于游客的博客，也用了非常多那篇文章的内容，包括杨琪的那个微博。也是因为那个那个文章被带被很多人所知道了。所以初乐以及朱老师他们的这个编译团队，包括对游客的关注，其实一直是这个行业非常自参与度非常高的一个。
-</p>
-<p class="transcript-line">
-<span class="time"><strong>[00:03:34]</strong> </span>
-<span class="speaker"><strong>发言人1: </strong></span>
-然后南大我觉得更更要多说一点，就是南大前阵有有一条微博也挺火的，是关于恶搞黑神话悟空的这个氪金、充值这个事情。然后我会觉得兰大因为是可能是科技媒体行业其实有很多的从业者。但是真正意义上对游戏理解比较深，并且又是一个非常资深的玩家的角度的人是非常少的。真正意义上花很多真金白银在这里面去氪金、去参与、去体验，包括甚至能把这些事情编成段子的人就更少了。
-</p>
-<p class="transcript-line">
-<span class="time"><strong>[00:04:06]</strong> </span>
-<span class="speaker"><strong>发言人1: </strong></span>
-对，所以就我们三个人，我觉得就是三个中年油腻大叔闲聊一下这件事情。因为我会觉得确实你说你就是你让我们自己聊这款游戏的意义，什么销量什么这种，我觉得不需要在我们这儿看这些事情了，你可以在无数的地方看看到。但我们希望今天晚上一个多小时的这个直播可以聊一点这个有意思一点。就像你看到三个老朋友在那闲扯，对吧？喝个茶大家闲聊一聊，聊聊这个东西。尤其是引发了很多的问题，或者引发了很多的传播。所以我们就第一个问题，一个问题其实我比较简单，因为其实咱们应该都算在很早的时候就关注到这件事情，并且相对有参与其中的过程。无论是出道的编辑们参与的试玩，包括南大过程中也看了很多这些相关东西，包括历史上也玩过很多游戏。真正意上这款游戏8月20号发出来，然后你看到了，甚至说你像你昨天也玩了一天之后，我们从一个第一感官的角度来讲，你怎么去评价这件事情，或者说你内心中比如那些关键词，或者你的感受，或者是情感情绪都可以。
-</p>
-<p class="transcript-line">
-<span class="time"><strong>[00:05:15]</strong> </span>
-<span class="speaker"><strong>发言人2: </strong></span>
-朱朱兆平，我先因为我可能算是看到这款游戏玩的比较早的人，就是因为在2000 2020年那时候，就是在实际上在那个视频发之前，我去游客他们是让我把这个游戏演示出来的部分玩了一遍。因为情况其实是这样的，其实当时也好，包括现在也好，我觉得玩家对于游戏公司其实是有不信任的。就是游戏公司用飞机用特效来做成一个好像是游戏的这个过程。实际上这种情况之前是非常多的，然后玩家也觉得经常总觉得受骗，所以包括游客，他其实大家也预想到了这种情况，所以他干脆就好。他在那视频一开始就是说实际游戏录制，对吧？他一开始其实有一行小说在说这个，然后包括我过去的时候，他们也实际上让我玩了。
-</p>
-<p class="transcript-line">
-<span class="time"><strong>[00:06:10]</strong> </span>
-<span class="speaker"><strong>发言人2: </strong></span>
-我玩的感觉，其实当时的感觉就很震惊，难以相信，虽然我表面上没有20年对20年虽然我表面上没有显示出来是，但是实际上心中感觉还是挺震惊的。因为一个游戏的成熟度，其实能感知到它确实超乎我想象的成熟。就是它不像是一个新的初创，没有在3A方面或者说在大型的单机动作方面没有经验团队做出来的，他一切都显得特别成熟。就是有很多游戏你可以看到它，包括现在市面上有很多发行的游戏，就是你看着画面也很好，非常精美，效果特别棒。但是实际上你一操作，一上手你就觉得好像哪都别扭。
-</p>
-<p class="transcript-line">
-<span class="time"><strong>[00:07:00]</strong> </span>
-<span class="speaker"><strong>发言人2: </strong></span>
-他有的时候他自己游戏给你的反馈跟你的预期不符。但是所有这些情况，至少在我当时玩过的版本里没有。这个其实当时让我感觉是最震惊的，后来我又参加过一次游戏测试，包括这次实际上玩这次我玩的感觉，其实因为我之前接触过几次，所以可能从玩的角度上来说没有之前那么精细。但是他所有的过程过场动画剧情推进就真的把我吓到了，那个那个特别吓人。是的，我的感觉其实是这样的。
-</p>
-<p class="transcript-line">
-<span class="time"><strong>[00:07:37]</strong> </span>
-<span class="speaker"><strong>发言人3: </strong></span>
-奶奶你要用关键词来说，其实就是爽。确实从因为我们都是玩很多动作游戏，包括混类游戏过来的，然后它的难度没有那么高。但是同时又用一种比较我们都耳熟能详的西游记的这样一个背景题材，还有东方的这种意境，然后玩起来就特别的熟悉的一个感觉。虽然游戏是个新游戏，但是玩家很熟悉。另外虽然我们是普通玩家，我们是从昨天还是前天才开始第一次玩，对吧？但是其实斗战神我是一个老玩家，他们在2011年，我是201年那个时候刚大学毕业不久，那个时候开始玩了很久。你可以看到他们我我个人我个人比较佩服游客的人，就是他们能够把一个事情能够做很长时间，是以数十年如一日的把它坚持下来。就是我要去通过一种解构西游的方式，然后来书写我们自己这一代的西游的一个新的一个图谱。
-</p>
-<p class="transcript-line">
-<span class="time"><strong>[00:08:35]</strong> </span>
-<span class="speaker"><strong>发言人3: </strong></span>
-这个是我非常尊重的一点，斗战神的设定当时我就觉得非常的，因为他的来他的故事的背景是清河在悟空传，这也是我们从小看到大的对，是的，然后他的整个设定其实也蛮有意思，也是暗黑类的。就是易经是西天的佛道那一派是用来控制世人的一种手段。然后他把那个金蝉子的记忆抹掉，把让他做唐僧，然后找了三个妖怪跟他一起去抹杀取经路上所有叛逆的妖怪，然后来形成一个人间的一个镇压的一个目的。
-</p>
-<p class="transcript-line">
-<span class="time"><strong>[00:09:06]</strong> </span>
-<span class="speaker"><strong>发言人3: </strong></span>
-当时我们玩这个东西就已经有一个非常强的一个颠覆感了。那个斗战神其实完了，后来你会发现他跟他们想做的事情其实是不符的。我说的不是氪金，我我我从来不反对氪金，关键是说你这个东西要做一个长期的版本，不断的更新下去，在你的本身的引擎的质上他会显得非常的疲劳。你会没有什么东西可以玩了，就不断的推新副本，然后推新的装备，然后就玩起来就没有意思了。
-</p>
-<p class="transcript-line">
-<span class="time"><strong>[00:09:30]</strong> </span>
-<span class="speaker"><strong>发言人3: </strong></span>
-然后从到从那个黑神话这个可以看出来，它其实比较适合他们的理想的一个载体，其实就是。我一次性把一个很好的东西，完整的一个游戏版本交付给你。你去用到二三十个小时，四五个小时完整的体验沉淀下来，你就能够得到非常大的，我觉得大部分人跟我一样的感觉就很爽很舒适。我玩到了一个艺术与娱乐的一个结合体的一个方式。不管你以后出DLC还是出一个黑神话，其他的一些系列我觉得都是一个非常好的一个有期待值的。他把一个期货真正的变成了一个物超所值的一个商品。这个是我觉得在很多游戏公司里很难得的。
-</p>
-<p class="transcript-line">
-<span class="time"><strong>[00:10:08]</strong> </span>
-<span class="speaker"><strong>发言人1: </strong></span>
-也就是开口一下两位的这个状态，反正我看到第一时间的反馈，因为确实过程中你也知道，然后你也大概知道他们的进度，包括看了很多试玩，然后真正意义上他这个交付的东西完整的呈现给你的时候，并且你看到这个东西的丰富程度比你预期的还要拉满，再拉满就是这个东西的状态。就是你你你你就特别的我是一种欣慰的感觉。但是这个说法可能有点太高高在上，但就是你会知道这个团队在过程中没有做折中的事情。
-</p>
-<p class="transcript-line">
-<span class="time"><strong>[00:10:41]</strong> </span>
-<span class="speaker"><strong>发言人2: </strong></span>
-甚至在就是我我觉得是被吓到的感觉。
-</p>
-<p class="transcript-line">
-<span class="time"><strong>[00:10:44]</strong> </span>
-<span class="speaker"><strong>发言人1: </strong></span>
-就是他对，就是你是就你甚至会觉得这太奢侈了对吗？就是你为了一个可能只是。
-</p>
-<p class="transcript-line">
-<span class="time"><strong>[00:10:51]</strong> </span>
-<span class="speaker"><strong>发言人2: </strong></span>
-太过分了，对。
-</p>
-<p class="transcript-line">
-<span class="time"><strong>[00:10:52]</strong> </span>
-<span class="speaker"><strong>发言人1: </strong></span>
-就是半分钟的过场，然后做一个这么大的、这么完整的、这么充分的一个素材的东西，对吧？当然你就非常的你会非常佩服，包括那个图鉴？包括所有的这些内容的充实的程度，你会觉得我觉得中年人真的是顶不住这种理想主义的现实版，我真的是太太太顶不住了这个状态。
-</p>
-<p class="transcript-line">
-<span class="time"><strong>[00:11:15]</strong> </span>
-<span class="speaker"><strong>发言人2: </strong></span>
-我觉得真的就是看到之后觉得太满了，他们那些东西就有很多东西其实是这样的，我是觉得有很多东西，我之前在微博里就曾经说，还是我在朋友圈我忘了，反正我的意思就是说对，就是人在某一个阶段才能产生他这一生最好的东西。在这个阶段之前他有非常大的热情激情，但是他的经验不够。在某一个阶段之后他可能有非常丰富的经验，但是他永远也回不去之前那个什么劲儿了。然后就是好的作品，我觉得他有一种有很多东西，就是他给你一桶水，他知道你只能喝一杯没关系，就是我就想挑，我就想把这桶装满，你喝一杯没关系，你就从这桶里舀一杯你喝。但我自己把这个桶装满我高兴。对，但是对于你来说，你从一个桶里舀一杯喝，和你只有一杯水，你的感觉是不一样的。你就非常经营于他们，做了太多的那种。其实有一些我觉得甚至是反商业化的那种东西，他可能付出和收益不对等。
-</p>
-<p class="transcript-line">
-<span class="time"><strong>[00:12:26]</strong> </span>
-<span class="speaker"><strong>发言人1: </strong></span>
-甚至都没想过收益。我觉得。
-</p>
-<p class="transcript-line">
-<span class="time"><strong>[00:12:28]</strong> </span>
-<span class="speaker"><strong>发言人2: </strong></span>
-对他就所有的东西给写了一套跟西游记差不多的介绍。然后所有的那个过场动画形态各异，简直可怕。对，就非常羡慕。
-</p>
-<p class="transcript-line">
-<span class="time"><strong>[00:12:41]</strong> </span>
-<span class="speaker"><strong>发言人1: </strong></span>
-而且刚才我在直播之前看到我关注的一个写动画专业的公众号。因为他们现在已经有一些CD结束了，你通关了，就开始发感谢名单了。感谢名单里是有每一集过场动画的背后的合作方的介绍，就是名字，然后公司那个公众号。因为它是专门写动画行业，它是专门给动画界的学生的公众号。他就开始去写这些人是谁做过什么，他们的公司做过什么。然后你会看，因为是六张，现在其实六章之后的那个结尾的司机的那个动画的风格都不一样。选择其实也看。
-</p>
-<p class="transcript-line">
-<span class="time"><strong>[00:13:21]</strong> </span>
-<span class="speaker"><strong>发言人2: </strong></span>
-他结尾的那个名单里头其实有挺多有意思的东西。但是单从他那个动画来说，里边集合了国内可能是最好的顶级的动画工作室，就是大火鸟。是的，大坨鸟是国内非常优秀的一个动画工作室。他比如说咒术回战、面具人、蓝色巨星，这都是他们做的相当可怕的一个事儿。
-</p>
-<p class="transcript-line">
-<span class="time"><strong>[00:13:46]</strong> </span>
-<span class="speaker"><strong>发言人1: </strong></span>
-包括火影的中国的制作人不也参与其中了吗？那个名人跟那个六道打对打的那一张，不是一个中国的资本来做的分镜，跟那个对打的镜头，就动画片。
-</p>
-<p class="transcript-line">
-<span class="time"><strong>[00:13:59]</strong> </span>
-<span class="speaker"><strong>发言人3: </strong></span>
-然后他有微博账号。
-</p>
-<p class="transcript-line">
-<span class="time"><strong>[00:14:01]</strong> </span>
-<span class="speaker"><strong>发言人1: </strong></span>
-对他对那个制作人的公司也参与了某一张的配置化的动画的制作。所以这个真是拉到满，真的是顶不住，真的是。过程中今天早上起来，我老婆跟我讲，我老婆是一个从来不玩游戏的。然后他就说昨晚刷抖音看了半宿的这个东西，他说这个到底是电影还是游戏？是的，就是他他分不清了已经。所以我的感受还是挺强烈的那大家看这个上手之后的体感的状态有什么别的想法？
-</p>
-<p class="transcript-line">
-<span class="time"><strong>[00:14:37]</strong> </span>
-<span class="speaker"><strong>发言人3: </strong></span>
-就包括像你们刚才说的动画，其实我想的我脑海里面一直在回想的其实是那个扎导的那个守望者。你叫守望者的那个电影中间也有一个二对对卡通22D风格的一个动。就是你会发现其实守望者在超级英雄的整个的体品类里面，它也是一个另类。包括扎导拍其他电影，其实拍的也挺狠的。但守望者就是说你可以质疑扎导，但是你不能质疑守望者。他的其实整个行业高度也在那了，就是对他的一整个的一个流行主流的一个品类的一个结构。
-</p>
-<p class="transcript-line">
-<span class="time"><strong>[00:15:08]</strong> </span>
-<span class="speaker"><strong>发言人3: </strong></span>
-就我我看我看那个动画，其实脑海里一直在跳，一直在想这个游戏它的一个文艺性的一个地位。其实我我我一直不想谈游戏性，因为游戏大家都玩了就知道了。这个其实我们不用再去争论或者再再去讨论，我觉得他就是很好玩的。但在好玩的游戏其实挺多的，但是游戏能够提供你的刺激感，提供你的娱乐感等等。但是我觉得在此之上，它能够给你带来的一种内容的一个体验，是我我我最大的一个震撼。这确实那个玩到。
-</p>
-<p class="transcript-line">
-<span class="time"><strong>[00:15:35]</strong> </span>
-<span class="speaker"><strong>发言人2: </strong></span>
-第几章了。
-</p>
-<p class="transcript-line">
-<span class="time"><strong>[00:15:36]</strong> </span>
-<span class="speaker"><strong>发言人3: </strong></span>
-现在才第二张调第二张我是玩的很慢的。
-</p>
-<p class="transcript-line">
-<span class="time"><strong>[00:15:40]</strong> </span>
-<span class="speaker"><strong>发言人2: </strong></span>
-好好看。就是往后看他每一集的那个过场动画。
-</p>
-<p class="transcript-line">
-<span class="time"><strong>[00:15:45]</strong> </span>
-<span class="speaker"><strong>发言人3: </strong></span>
-相当的我是我是没有忍住被剧透了。我现在是你刷刷设备，你不可能不被剧透，除非你不刷，对吧？我只要有刷，那没办法，我看你也忍不住必须要翻下去。
-</p>
-<p class="transcript-line">
-<span class="time"><strong>[00:15:57]</strong> </span>
-<span class="speaker"><strong>发言人2: </strong></span>
-那就剧透的。我觉得他让我最惊喜的就是他他是有一个那种顶级3A作品的技术投入和规模。但是实际上他有非常稀缺的，就是3A作品里头其实非常稀缺的作者性的表达。这个其实很少能看到。因为一般的那种翻译作品真的都是被工业洗洗爆了，就像那种模块化剧本一样。当然知道你什么时候会应该有什么东西，你也知道这个情况。
-</p>
-<p class="transcript-line">
-<span class="time"><strong>[00:16:26]</strong> </span>
-<span class="speaker"><strong>发言人2: </strong></span>
-但是至少在黑神话目前这个版本里头，我看到的是非常多的作者性的表达。他其实某种程度上是反3A大作的那种感觉的，就他很多都是非常艺术性的表达，而且对，就是我觉得这其中就是有包括冯琦和杨那个冯霁和杨琦在内的，他他就是憋不住的那种要表达，你知道吧？他就是憋不住了。对他就是真的憋不住，他做这件事儿特别高兴，然后我就要。
-</p>
-<p class="transcript-line">
-<span class="time"><strong>[00:16:57]</strong> </span>
-<span class="speaker"><strong>发言人1: </strong></span>
-是塞满拉拉满，就是要对。
-</p>
-<p class="transcript-line">
-<span class="time"><strong>[00:17:00]</strong> </span>
-<span class="speaker"><strong>发言人3: </strong></span>
-你知道像国洲有很多画家。他会在那个画面里边的不注意的地方留下自己的签名，就是那种那那那种感觉就是我一定要有自己的一个东西在里边，然后把我的作品传世的流传下去。他们当时很流行这种做法。
-</p>
-<p class="transcript-line">
-<span class="time"><strong>[00:17:16]</strong> </span>
-<span class="speaker"><strong>发言人2: </strong></span>
-对他那个真的表达就表达的感觉特别惊人，我非常欣赏这一点，能把这个配合的这么好，我觉得也只有非常少的机会能这样做。因为像那些大厂真的做三维做的很熟的，你就很少能看到这样坦率和这么有个性化的这么一个表达。
-</p>
-<p class="transcript-line">
-<span class="time"><strong>[00:17:42]</strong> </span>
-<span class="speaker"><strong>发言人1: </strong></span>
-我尤其由这个问题我引发另外一个延伸的问题，之前那个冯老板不是说他们现在就是按照平均成本算，1个小时的这个开发成本是1500到2000。是的，但是我们看现在游客的这个团队，其实最后出来一百多人，对吧？然后这个时间没超过150，这个时间做出来在考虑的钱跟这个我觉得某种意义上说，从项目实施或者叫工程实现角度来讲，这甚至可以说是个奇迹。我不是很对。
-</p>
-<p class="transcript-line">
-<span class="time"><strong>[00:18:19]</strong> </span>
-<span class="speaker"><strong>发言人2: </strong></span>
-就是他非常可怕，这个也不是我刻意的非常夸大他。因为像这种体量的游戏，基本上国外的所谓核心制作人员基本上都是300到400人起，就是那种大作。而且这个是建立在他们已经做过前面几座的这个基础上。
-</p>
-<p class="transcript-line">
-<span class="time"><strong>[00:18:41]</strong> </span>
-<span class="speaker"><strong>发言人1: </strong></span>
-流程非常清楚对吧？分工有效管理。
-</p>
-<p class="transcript-line">
-<span class="time"><strong>[00:18:44]</strong> </span>
-<span class="speaker"><strong>发言人2: </strong></span>
-他有经验，他有流程，他有成熟的管线，他有一大堆之前遗留下来的数字知识产，他不用重新做所有的树，所有的山什么之类的对吧？就他那些东西都是之前基数做好了。比如我做四个信条6，那我前面有五代的。但是所有这些其实都是游客用一百多人。而且我们也看了他的片尾的那个表，然后对他实际上是把他的那个人从入职的时间开始算起的。就是2018年入了几个人，一开始就十几个人，19年入了几个人，20年入了几个人。到21年22年的时候，才是他后边大量上人的时候，其实每年才进了三四十个人，然后就相当于他这个团队基本上是边边跑边组建，然后还要搞这么多东西。他当然其中有大量的外包工作，但是你知道外包这个活也不是那么好控制的。
-</p>
-<p class="transcript-line">
-<span class="time"><strong>[00:19:42]</strong> </span>
-<span class="speaker"><strong>发言人1: </strong></span>
-是你找外包合作，外包商都是问题。
-</p>
-<p class="transcript-line">
-<span class="time"><strong>[00:19:45]</strong> </span>
-<span class="speaker"><strong>发言人2: </strong></span>
-你找靠谱的外包商，你给他定这个流程，然后这个过程给他发包回来检查，这整个的过程是一个非常麻烦的过程。就是实际上而且据我所知，他们还不是往死里加班那种方法。就是他们的人一般都是中午或者下午到公司，晚上干到11点12点左右走，每天工作基本上不超过10个小时。所以你总体算下来的话，我觉得这个非常恐怖的事情就是他在开发的这个组成上没有走任何大的弯路，没有犯任何大的错误。
-</p>
-<p class="transcript-line">
-<span class="time"><strong>[00:20:22]</strong> </span>
-<span class="speaker"><strong>发言人1: </strong></span>
-就是某种上来说我不确定我忘了是不是你们写的。其实那就代表了他在项目设立之初的构想框架、世界观逻辑，甚至很多底层的东西其实就没有大改过。到今天。
-</p>
-<p class="transcript-line">
-<span class="time"><strong>[00:20:36]</strong> </span>
-<span class="speaker"><strong>发言人2: </strong></span>
-他中间有一次改是改引擎，那他换引擎，对吧？他虽然都是虚幻引擎，但是其实也不小。然后他他有大量的自己从头研发那一整套乱七八糟的，比如动图。然后你去看他们的视频会发现他们要解决四足动物的动捕问题，然后要有他们自己的那套管线什么之类的问题。然后据我所知，反正他们的流程还挺科学的。
-</p>
-<p class="transcript-line">
-<span class="time"><strong>[00:21:02]</strong> </span>
-<span class="speaker"><strong>发言人2: </strong></span>
-这个其实就是他之前因为冯霁和杨迪他们之前的之前做斗战什么那么一个大项目，他做下来其实对这些东西相当有经验。包括他一开始起来，比如说我要做一个商业游戏，那我一开始可能就只需要十几个人我把技术问题相关的问题解决了，确定这块好了之后我再上人。但是就只能说我说起来容易。对，这当然对，就当然你说这中间的坑。
-</p>
-<p class="transcript-line">
-<span class="time"><strong>[00:21:31]</strong> </span>
-<span class="speaker"><strong>发言人1: </strong></span>
-没准换一个公司得绕好几次。
-</p>
-<p class="transcript-line">
-<span class="time"><strong>[00:21:33]</strong> </span>
-<span class="speaker"><strong>发言人2: </strong></span>
-所以这个事情我其实一直是觉得冯契的工程管理能力，我不确定是不是他。但是他作为一个制作人我觉得他工程管理能力相当的恐怖。这部戏跟他一开始预想的基本上没跑偏，这是第一点。
-</p>
-<p class="transcript-line">
-<span class="time"><strong>[00:21:49]</strong> </span>
-<span class="speaker"><strong>发言人2: </strong></span>
-然后整个过程据我现在判断，我不清楚其中的情况。据我判断没有出现什么大雷，没有出现大规模的反攻什么之类的。然后整个公司整个开发过程管理的非常好。你到现在这整个过程中，这么大一个项目，所有的人都盯着各种各样的媒体，或者想办法从中找消息什么之类的。没有什么东西传出来。是你很难对你很难看到有个员工在论坛上说，我昨天做了什么东西，这种也都没有。就是你你想这么一个团队，做了四五年五六年的时间，做到这份儿上真的挺吓人的。
-</p>
-<p class="transcript-line">
-<span class="time"><strong>[00:22:29]</strong> </span>
-<span class="speaker"><strong>发言人1: </strong></span>
-是恐怖。
-</p>
-<p class="transcript-line">
-<span class="time"><strong>[00:22:32]</strong> </span>
-<span class="speaker"><strong>发言人3: </strong></span>
-所以我们从游戏的一些所谓的差评来说的话，其实也有跟他自己想做一个自己想要的东西有关的。比如说我们说的空气墙的问题，就是以前很流行的就是我要做一个沙拉拉的，我可能说比较做一个开放世界对吧？但是我觉得从有就可他自己的姑娘来说，自我扪心自问来说，可能他自己的体量做不了那种开放世界，所以做了一个偏箱体的一个东西。然后很多很多情况他是通过留白的方式去把这个地图让你逐渐显得开阔。但是有很多地方你去不了的，但是我没有通过一种石头或者一个墙把它堵住，而是给你看后面的风景。虽然你去不了，然后通过这种方式来实现的一个视野上的一个开阔性。然后顺着他的引导一步一步往下走。
-</p>
-<p class="transcript-line">
-<span class="time"><strong>[00:23:11]</strong> </span>
-<span class="speaker"><strong>发言人3: </strong></span>
-我觉得这个其实也是他们自己的一个成本管理上的一个优势。就是我知道我能够拿出来是什么东西，我尽量拿出我力所能及范围里面最好的东西。但是我不可能说跟对标所有的最顶级的，我要做叫做开放世界，要做一个无限大的一个多少平方米多少平方公里的一个世界。这个可能他现在还做不到，可能下一步作品可以做到。
-</p>
-<p class="transcript-line">
-<span class="time"><strong>[00:23:30]</strong> </span>
-<span class="speaker"><strong>发言人1: </strong></span>
-但是我我我看后面几张的地图，真的是我的天也不小了。对，也不小。第一张第二张我觉得某种程度是真的给用户在熟悉跟了解这个东西到底是什么。但后面那一张就开始真的我觉得有一定的阴间的成分就变越来越多了。
-</p>
-<p class="transcript-line">
-<span class="time"><strong>[00:23:49]</strong> </span>
-<span class="speaker"><strong>发言人1: </strong></span>
-对然后我们回到这个主题，我们毕竟是讲这个投资跟这个行业的事情。就是据了解知不知道比如说今天这个时间点，有没有一些其他厂商其实也在或者已经着手在做相关的这个事情。因为我你像大家经常媒体会提到梁志伟他们在做对吧？这个可能大家很多人都知道。然后这个可能有一些大厂或者是中场也在立项，对吧？就是居然会所大概这个状况跟这个趋势大概是什么样？在这件事情上，我我我先说行。
-</p>
-<p class="transcript-line">
-<span class="time"><strong>[00:24:27]</strong> </span>
-<span class="speaker"><strong>发言人2: </strong></span>
-我觉得其实就是比较大的厂商。其实如果明确一点说的话，比如腾讯、网易什么之类的，其实他们对这种大规模游戏的投入很早以前就开始了。但这其中其实我们我觉得首先要明确一个概念，就是我们所说的所谓3A游戏或者大体量游戏，它到底是个什么样的东西。
-</p>
-<p class="transcript-line">
-<span class="time"><strong>[00:24:48]</strong> </span>
-<span class="speaker"><strong>发言人2: </strong></span>
-我们现在来说黑神话的话，其实它是一个买断制游戏，这个是很关键的。对它是一个买断制的游戏。单从体量上来说，其实腾讯和网易有很多游戏，无论是从投入还是从研发，甚至从技术水平上其实不亚于他。但只不过是他用的这个收费方式，盈利方式不一样。从对从大小上来说，我觉得他们可能会采取一种，比如说品质上其实是比较大的3A级游戏。但是它的收费上可能不会或者说不一定是采取这种直接买断式的。他可能更倾向于用服务性的东西。它还是像比如说我们熟悉的那种方式一样，拆成几个来这么走，拆成一部分一部分收费，一部分收费，道具收费或者时装收费，这么分散的来说。
-</p>
-<p class="transcript-line">
-<span class="time"><strong>[00:25:39]</strong> </span>
-<span class="speaker"><strong>发言人2: </strong></span>
-对。然后我也知道其实比如说腾讯，网易，包括一些厂，其实都在有自己的这种比较大规模的优秀的游戏。在理想可能在最近的两三年里头就能看到有一些产品出来。
-</p>
-<p class="transcript-line">
-<span class="time"><strong>[00:25:57]</strong> </span>
-<span class="speaker"><strong>发言人3: </strong></span>
-我我我直接说名字，就是之前那个腾讯就找了一波媒体做宣发了，就是那个三角洲行动，对吧？这个他就直接把他直接不装了，亮底牌了，这个东西就是我要做的一个小开。但是他这个东西肯定也不是样板单制的，他就是要做做网游。就是我们在在在形容3A游戏当中，到底是一个仅限于单机，还是说我们可以把网游兼容进来。我觉得这个东西本身就存在一定的讨论性。
-</p>
-<p class="transcript-line">
-<span class="time"><strong>[00:26:23]</strong> </span>
-<span class="speaker"><strong>发言人3: </strong></span>
-然后包括像朱佳英刚才说的那你的收费方式，我觉得大厂他很难接受这种买断制。所以我觉得这个是他们天然基因，或者说他们直接从商业模式的回报上来说，我觉得他们很难考虑这个东西。反而是说如果你内部有人想做这个事情，然后我把你放出去，你做成了我再把它买买过来。我觉得这样一个这样这样一个形式，可能对于大厂来说更更容易接受一点。就是如果有人想做3A你不去自己做，我可能给你一笔投资，或者不给你或者怎么样的话，对你做长了我再帮你买回来。因为大厂它就这个其实有有一定的反常识，我们会觉得大厂试错成本会很低，因为有钱有资源。但其实大厂其实市场成本很高的，他们不缺钱。但他们宁愿是你做成了之后，我花更多的钱，更多倍数的钱去把你的东西买回来。
-</p>
-<p class="transcript-line">
-<span class="time"><strong>[00:27:09]</strong> </span>
-<span class="speaker"><strong>发言人3: </strong></span>
-甚至来说他们来说反而是能够接受像明浩，你知道就我们之前说在讨论过的那个cat AI就那个那个被谷歌收购的，他也是人从谷歌出来的。然后做长了顾客再把它买回去。其实这个大厂其实相对来说容易接受一点。
-</p>
-<p class="transcript-line">
-<span class="time"><strong>[00:27:25]</strong> </span>
-<span class="speaker"><strong>发言人1: </strong></span>
-也就是这个我想到另外一个有意思，就是昨天晚上今天应该是今天早上，虎嗅更新了一篇关于这个事情的文章。然后那个编辑跟我是朋友，他昨晚上半夜让我帮他审那个稿。他那个稿的初稿当中有一句话，就有一段话是这么写。他说原意就是大概意思就是说其实我们看整个中国的，哪怕是手游行业，在游戏质量或者游戏内容的堆料这件事情上，其实已经走了很远。然后他列了几个名字听，然后明朝元神，然后黑神话悟空。我说你这几个名字放在这儿，并且放在一起，两边人都会把你骂死，你赶紧把这几个名字拿掉。对他后来改了一个说法，他说就是没有指明他，然后他就说在堆料这件事情。其实我们已经走了很远。
-</p>
-<p class="transcript-line">
-<span class="time"><strong>[00:28:11]</strong> </span>
-<span class="speaker"><strong>发言人2: </strong></span>
-对，就是有很多游戏其实它的那个开发投入是相当惊人的对吧？王者荣耀原神这些都是很很可怕的，那个开发投入人也多，钱也多。
-</p>
-<p class="transcript-line">
-<span class="time"><strong>[00:28:23]</strong> </span>
-<span class="speaker"><strong>发言人3: </strong></span>
-对，如果我们说开创性，就是黑神话并不是唯一一个或者最早一个有开创性。我们原神一开始，原神当时出来之后，很多手游其实没有这么大的体，不可能在你们那里塞开放式的去做的。原生当时那个李浩然他们也是倾家荡产对吧？压了很大的风险去做。
-</p>
-<p class="transcript-line">
-<span class="time"><strong>[00:28:38]</strong> </span>
-<span class="speaker"><strong>发言人3: </strong></span>
-但其实还是回到最最根本的，就是为什么他他更容易受到，或者说这个可能会挨喷，不能这么说，就是相对来说比较容易受到尊重的原因，就是说他选择了一个大家更容易接受的一个买到这的一个方式，就非常的平民化。我不会有一个有那种助长土豪的这样一个氪金的这样一个方式。然后大家觉得一年下来玩玩，其实杀人游戏玩的很也很累的。大家不要觉得都在呼喊，那一年一个月给你玩100块，累的不行的。所以我觉得他作为一个做一个调味料说其实非相当于一个独相当相当独特的。但是我还是那个想法，我觉得大赏对他的兴趣不会那么大。
-</p>
-<p class="transcript-line">
-<span class="time"><strong>[00:29:16]</strong> </span>
-<span class="speaker"><strong>发言人3: </strong></span>
-像今年今天我发的那个预热，咱们这个连麦的底评论，其实也很多人说就浏览的。拿流浪地球来举例，对流浪地球变化很牛逼，大家当时也会讨论中国科幻国产化会的崛起。但虽然没有刘慈欣崛起了，郭凡崛起了，但是整个中国但是中国科幻这个东西可能还是要打个问号。我们至少目前没有看到大规模的一个涌入的勇的一个趋势。
-</p>
-<p class="transcript-line">
-<span class="time"><strong>[00:29:43]</strong> </span>
-<span class="speaker"><strong>发言人1: </strong></span>
-他是不是其实除了我们刚才聊的这些东西之外，还有另外一些前提条件也需要满足。就是行业也好，分工也好，上下游的厂商也好，用户的消费习惯也好，甚至在放大电影监管环境。这些外围的东西也好，可能监管环境是可以说的吗？嗯，就是这个大家都知道都懂，对吧？也没必要去研究什么对吧？
-</p>
-<p class="transcript-line">
-<span class="time"><strong>[00:30:05]</strong> </span>
-<span class="speaker"><strong>发言人1: </strong></span>
-所以我会觉得这个流浪地球也确实很多人拿来比喻。那大家就会开玩笑说中国电影高铁崛起了，然后接档流浪地球的是流浪地球二对吧？就是不是另外一个厂商的另外一个什么作品，那我们只能去期待流浪地球三了。那那这个事情算崛起吗？对吧？
-</p>
-<p class="transcript-line">
-<span class="time"><strong>[00:30:25]</strong> </span>
-<span class="speaker"><strong>发言人2: </strong></span>
-我就是其实也有很多有很多。
-</p>
-<p class="transcript-line">
-<span class="time"><strong>[00:30:27]</strong> </span>
-<span class="speaker"><strong>发言人1: </strong></span>
-用户会更悲观一点，会说我们见过太多的本来以为是开始，结果时间通的事情。
-</p>
-<p class="transcript-line">
-<span class="time"><strong>[00:30:34]</strong> </span>
-<span class="speaker"><strong>发言人2: </strong></span>
-我其实觉得就是太多的人，或者说现在大部分的人会觉得他他就是这个事情。我觉得可能在三五年之内，它不会有什么肉眼可见的改变，可能我比较悲观。当然这边我们会有一些比较优秀的发言游戏，比如那个梁启伟的游戏，或者什么之类的出来，这都是肯定的。因为这其实黑神话是个奇迹。对，就是他真的就像流浪地球或者三体那样。你看三体其实也是单枪匹马把中国科幻水平提高到了一个全世界顶级的高度。然后就他一个班级就出来了，他这个奇迹中太多的就非常多的，我我也我也很难说是可遇而不可求，因为这次毕竟都是人做出来的。
-</p>
-<p class="transcript-line">
-<span class="time"><strong>[00:31:27]</strong> </span>
-<span class="speaker"><strong>发言人2: </strong></span>
-但是怎么说呢？其实我想说的就是我相信它的作用和意义可能会在十年或者20年之后显示出来。他会激励很多人，他也会影响很多人。可能有现在的一个孩子，比如说12岁，他只有十几岁，他玩的这个游戏，从此之后他心中有这么一个梦想，进入游戏行业。然后对所有的如果你说它是一个种子的话，那它可能只有在十年或者15年之后才会发芽，但是它仍是有影响的。但你如果说他会不会，比如说我们希望很多人可能会希望三年之后，我们中国遍地是单机买断制3A大作满街跑，战神GTA这个不可能的对，大家如果这么想的人一定会失望，他一定会失望。是啊，但是我就觉得对我觉得真正的改变可能发生在十年或者20年之后，它的意义更多的可能深远到10年到20年之后。
-</p>
-<p class="transcript-line">
-<span class="time"><strong>[00:32:33]</strong> </span>
-<span class="speaker"><strong>发言人3: </strong></span>
-对，你们知道就刘慈欣当时在科幻世界上连载的时候，他是科幻世界四天王之一。最后你就是但是当一个工业化的的一个流一个机制找上流资金，然后跟他互相成就之后，你会发现其他三个人的名字你会忘记掉或者至少会漠视掉他，发现刘自己跟他们已经完全不是一个水平了。游客黑的话，其实这个游戏其实也有相当于一个特殊性。我觉得它是有一个例外性的，可能还不只是特殊性。我之前参加一个也是参加博客，就是我觉得游客这个公司有一个叫所谓我自己发明了一个概念，叫做富穷二象性。就是他有所谓的穷的一面，就是他他也很惨，之前过得过得怎么样，但它有负的一面，更关键是负的一面就是这个游戏从他2020年开始演示，开始放时机，然后一路过来。他其实从舆论上，从我们单机游戏或者通过玩家的这个口碑里面，它其实一直是一个含着金钥匙出身的一个游戏。
-</p>
-<p class="transcript-line">
-<span class="time"><strong>[00:33:31]</strong> </span>
-<span class="speaker"><strong>发言人3: </strong></span>
-你如果做第二款商业游戏的话，他可能没有游客这样天时地利的一个条件，没有他这样的一个土壤在。所以大家会有一个压力在里面，就是我如果做不到黑石化这个档次，他卖了多少万，他们卖了多少多多多少卖卖多少万份，对吧？那我可能只有一半或者说只有身份，那我能不能给我的投资人去说服他们，我能不能接受一点？如果投资人不能接受，那投资人要压大了，那可能我这边就很难把我的项目去推推下去了。对，这可能是我觉得虽然说的很多就是一个种子，我们我们可能谈体育比赛可能比较多，像去年前年阿根廷世界杯夺冠之后，那很多球员都是看着梅西踢球长大的，然后终于可以跟梅西一起去去踢球。
-</p>
-<p class="transcript-line">
-<span class="time"><strong>[00:34:15]</strong> </span>
-<span class="speaker"><strong>发言人3: </strong></span>
-其实一个道理，就你把这个种子种下来之后，它会有一段的时间。就反而可能现在可能下一个跟黑城堡一个档次的商业游戏，他现在还是个小学生，他可能刚他现在开了制作人可能是小学生。他刚刚看到了原来尤科，可能杨其冯骥他们做了这么一个东西，然后他心里有非常深的一个震撼，然后开始慢慢的去去调整，然后走上这条职业之路，可能是这样一个过程。我也觉得这短期内他可能是不会太可能会有一些影响。我更多的想。
-</p>
-<p class="transcript-line">
-<span class="time"><strong>[00:34:46]</strong> </span>
-<span class="speaker"><strong>发言人2: </strong></span>
-现在有一些影响对他他会激励一些其实跟他们条件相类似的开发者。你比如梁启伟，他整体来说条件包括审美，包括经历跟他们都相类似。然后他被激励，然后觉得这事儿至少是个榜样，验证了可行性，他就会用更大的决心去投入到这个东西上面。包括一些我所知道，比如说现在试图在立项，或者说在开发类似3A游戏，或者是单机买断制或者叙事性游戏的团队。他看到的这些这个游戏的前景，他可能会受到激励，然后这一部分可能会出来一波。但是这个东西。
-</p>
-<p class="transcript-line">
-<span class="time"><strong>[00:35:26]</strong> </span>
-<span class="speaker"><strong>发言人1: </strong></span>
-是前面十几年的鸡的。
-</p>
-<p class="transcript-line">
-<span class="time"><strong>[00:35:30]</strong> </span>
-<span class="speaker"><strong>发言人2: </strong></span>
-就是你希望改成超美，这个是不可能的对，这个基本上不太可能。是这样的。
-</p>
-<p class="transcript-line">
-<span class="time"><strong>[00:35:38]</strong> </span>
-<span class="speaker"><strong>发言人1: </strong></span>
-我我我看这个问题另外一个角度，我不太确定这么想对不对？就是因为你们两个也很熟，比如说我们看过去这一两年二次元游戏战场的这个狂热内卷，卷成今天这个样子对吧？我们只看结果就卷成现在这个样子了。
-</p>
-<p class="transcript-line">
-<span class="time"><strong>[00:35:55]</strong> </span>
-<span class="speaker"><strong>发言人1: </strong></span>
-无限堆高的门槛，无论是美术画风堆人，然开放世界就是他卷到了一个，其实所有人都非常累，跟几乎没有太多边际增加的空间的那个地方去了。这就是雪崩的时候，没有一片雪花是无辜的，反正就已经卷到那儿去了。然后它都很痛苦，对吧？哪怕是强如米哈游的新产品上线，你会发现它的持续性，它的很多东西也不会像当年原神那样，对吧？那就是这边看上去已经是一个卷无可卷，极限到不能再拉满的一个鳄鱼饿鳄鱼般难度的事情了。那是不是这边出现了一个这样新的东西之后，可能会让一些可能有一些想法是说我们授信就不要去卷那个事情。因为看上去那个难度的就是如果我们用一个纯数学概率的跟理性的角度去看，就是可能那个东西的难度，早年二次元成功的概率是比较高的，今天已经这个概率低到他妈的已经低到土里去了。反过来讲，三买断制的这个板块原来可能已经低到土里了，但是慢慢长出来，是不是这边比那边高了一些，所以这个天平可能有些变化。
-</p>
-<p class="transcript-line">
-<span class="time"><strong>[00:37:11]</strong> </span>
-<span class="speaker"><strong>发言人2: </strong></span>
-兰大怎么怎么觉得，我不确定这件事情。
-</p>
-<p class="transcript-line">
-<span class="time"><strong>[00:37:16]</strong> </span>
-<span class="speaker"><strong>发言人3: </strong></span>
-明涛你应该听过那个B站，还有一个我好像又喷这又喷平台了，这个无所谓，反正微微博喷B站可以的。就B站有一个绰号叫做二油粉炒粉炒吗？对他这我觉得这个就体现了一个二油卷虽卷，但是你可以止损。然后就因为B站有很多游戏做代理或者发行，然后一年不到的时间我发现这个游戏不挣钱了或者说亏了，我直接把它关掉，我做下一款，就他能够他虽然卷，但是我觉得这是一个正常的市场竞争，一个淘汰的一个机制。你不能所有的人都挣钱都挣大钱，这是不可能的。然后你卷把一些落后的落落落后一些产能把它卷出去，我觉得它是一个正常的一个淘汰机制。但是我觉得还是在于说他前期的所有的投入，他如果你最后的销量没有满足他的一个预期的话，他就是完完全全打水漂。我觉得这个他因为他是一个他这个后付费的一个方式，他不是一个长期运营的一个角度。
-</p>
-<p class="transcript-line">
-<span class="time"><strong>[00:38:09]</strong> </span>
-<span class="speaker"><strong>发言人3: </strong></span>
-你像我们当时玩环的时候，有很多化学家其实也很担心，我这个东西如果大家销量不好，然后工期高不干了，我这边肯定会有各种想法。对那我们是不是很有损失？我觉得这个东西是大家永远担心的一个风险。但是在放在手游上面的话可能还好，就二流，二流其实也不是一个很大的。刚刚就是你把你油挪出去之后，就你还油基本在50%到60%的左右。这个整个盘子对吧？
-</p>
-<p class="transcript-line">
-<span class="time"><strong>[00:38:35]</strong> </span>
-<span class="speaker"><strong>发言人3: </strong></span>
-它拿出去二流其实不是很难看的，只不过大家愿意卷。可能说因为整个人才或者整个资源体系都在往这边集中，也是这样一个东西。你抛开二流，其实手上还有很多其他的蓝图。但是29卷是确实的。你像那个那个完美，然后腾讯也出来一个微皮套的那那个手游都都在都在都在这么做。网易的做法无限大，也在立场，就大家愿意卷，我觉得这没办法。
-</p>
-<p class="transcript-line">
-<span class="time"><strong>[00:39:00]</strong> </span>
-<span class="speaker"><strong>发言人3: </strong></span>
-但是回到塞的这个角度来说，你还要考虑我们所谓的C作品很多是在电脑上玩，电脑其实是一个非常大的一个生产力的设备的。很多人他可能是没有电脑，或者说没有足够配置的一个电脑。我前段时间参加一个二有一本书名字的一个试玩会，他邀请了一批媒体。但是他当时的那个试玩是放在电脑上的，然后有很多媒体老师过来就发现他不玩了，就我在那玩。然后媒体老师在那说我他都玩不了，因为他只在手机上玩，他不懂得怎么在电脑上玩那个手机的那个那个。对，所以我觉得这也是一个很大的一个门槛，就是你的整个天花板会比会低一点，整个市场容量会低一点。
-</p>
-<p class="transcript-line">
-<span class="time"><strong>[00:39:42]</strong> </span>
-<span class="speaker"><strong>发言人1: </strong></span>
-当然我觉得这是个延展话题，就是你像前几年23分2077的时候出来的时候不是bug非常多。然后大家就去探讨的一个有一个逻辑是说，我们卖60美金一份license，就这个商业模式其实已经是一个几十年的商业模式了。对对对，是吧。然后可是过去几十年游戏开发的成本是急剧的在提升，尤其是商业这个品类对吧？那是不是某种说这件事情是有问题的？
-</p>
-<p class="transcript-line">
-<span class="time"><strong>[00:40:13]</strong> </span>
-<span class="speaker"><strong>发言人2: </strong></span>
-有啊，就是你们自己也受不了了，又又又琢磨着把游戏提到70，对吧？
-</p>
-<p class="transcript-line">
-<span class="time"><strong>[00:40:18]</strong> </span>
-<span class="speaker"><strong>发言人1: </strong></span>
-对，这个本身也是一个天花板，已经架在这里，并且可能是个几十年已经架在了天花板。然后那边是一个急剧提升的当这个事情接近的。
-</p>
-<p class="transcript-line">
-<span class="time"><strong>[00:40:30]</strong> </span>
-<span class="speaker"><strong>发言人2: </strong></span>
-我觉得是这样的，就是我们现在所谈的3A游戏。其实你往前看，其实就是这个欧美游戏开发公司暴打日本游戏开发公司的一个阳谋。其实你可以你甚至可以说是阳谋。就是他用特别高特别先进的图像技术，然后特别先进的成本，它就是用成本堆死你那日本的很多原来老牌的开发公司，从任天堂FC什么之类的时候过来的时候，其实都待在这个多媒体或者是这套东西上面了。他的那些巧妙小而美的匠人设计什么之类的，在那种全屏幕CG然后那个监控的我满屏特效面前就不够看。
-</p>
-<p class="transcript-line">
-<span class="time"><strong>[00:41:17]</strong> </span>
-<span class="speaker"><strong>发言人2: </strong></span>
-其实3A或者说大成本游戏制作，本来就是就当年其实就有很多游戏界泰斗忧心忡忡，就觉得这么下去不行，对不对？你你你成天在游戏机上播片儿，你这哪比得了，也没用，大家就喜欢这个。但是这边是他拼命的往上堆成本，人也多，投入也多，终于有一天卷到他们自己也受不了了。那现在3A游戏是不是已经开始陷入死路了？
-</p>
-<p class="transcript-line">
-<span class="time"><strong>[00:41:52]</strong> </span>
-<span class="speaker"><strong>发言人2: </strong></span>
-其实已经有很多人在讨论这个问题了。因为现在三人游戏的问题是什么？就是你你只你只敢做这个题材，你根本就不敢创新，以及你就只敢奔着老IP一直往下做。其实有点像好莱坞电影，就奔着一个IP往死里做。然后因为他投入实在太大了，就很少有公司敢冒得起这个风险。已经变成非常吓人的一件事情了一样的。
-</p>
-<p class="transcript-line">
-<span class="time"><strong>[00:42:18]</strong> </span>
-<span class="speaker"><strong>发言人2: </strong></span>
-但你回归到刚才那个话题，就是比如说在二次元卷，为什么不在范围卷？我个人猜测，因为我也不是很了解这个事情。但是我个人在这里个人来说，就二次元市场虽然残酷，但毕竟是一个我比较熟悉的市场。就是你你说花钱多，我有个数，你要找什么人，我知道到哪去找这个班子，我知道他能做得出来。你说到最后宣发要花个几千万上亿，我知道就是这个数。然后甚至说我知道花了多少钱，我能算出来。通过一系列的测试或者什么之类的公式，我算出来我能回收多少。虽然它很惨烈，但是我基本。
-</p>
-<p class="transcript-line">
-<span class="time"><strong>[00:43:03]</strong> </span>
-<span class="speaker"><strong>发言人1: </strong></span>
-我不知道。
-</p>
-<p class="transcript-line">
-<span class="time"><strong>[00:43:04]</strong> </span>
-<span class="speaker"><strong>发言人2: </strong></span>
-金融数据怎么说，但是我觉得还是我能估算出一个投入产出比。但是对于3A来说，它面临的尤其是国内这种单机买断制的，尤其是动作类型的，甚至你以后有可能很多人可能现在要说开放世界的那有太多不可预测的东西了。
-</p>
-<p class="transcript-line">
-<span class="time"><strong>[00:43:23]</strong> </span>
-<span class="speaker"><strong>发言人1: </strong></span>
-你到哪找这么多呢？
-</p>
-<p class="transcript-line">
-<span class="time"><strong>[00:43:25]</strong> </span>
-<span class="speaker"><strong>发言人2: </strong></span>
-那你到哪找这些人去呢？你现在到哪去找这些人，你这个班子都不知道去哪找人。然后以现在这种投入水平，你要是做3A你市场就必须面向全球。因为单一国家根本撑不起来你这个3A的用户成本。就是你你某一个国家的人再多你也撑不起来。
-</p>
-<p class="transcript-line">
-<span class="time"><strong>[00:43:47]</strong> </span>
-<span class="speaker"><strong>发言人2: </strong></span>
-所以现在我们看所谓的3A其实它都是依托于强势文化的。要美国文化、日本文化，你2077是多少人做的？但它本质上来说，它像一个美国游戏，因为它里头没有什么关东欧的什么东西。因为他必须他的用户群必须是广泛的全世界用户群才可以。他不可能你就很少看到德国3A我以德国神话为背景，或者以什么东西，他哪怕就是战神，他也是北欧神话，大家算是耳熟能详的东西。
-</p>
-<p class="transcript-line">
-<span class="time"><strong>[00:44:20]</strong> </span>
-<span class="speaker"><strong>发言人2: </strong></span>
-对，然后你让中国人去做面向世界的东西，全球发行，面向世界玩家。这里头我觉得有太多的未知。除了大厂之外，其他的真的除了有理想很难走到这一步。我觉得他宁可在旋卷卷。当然像米哈游这种公司，我相信他也会面向全球做一些3A的东西，但它不一定是买断制，因为它为什么要做买断制的对吧？
-</p>
-<p class="transcript-line">
-<span class="time"><strong>[00:44:44]</strong> </span>
-<span class="speaker"><strong>发言人1: </strong></span>
-对，就这一块。另外一个就是关于文化的事情，包括这个媒体评分，也很多探讨。就是因为我下午刚做了一场直播，我们在这个财经频道做的。然后很多在场的老师其实并不那么去理解人，然后他就问这个他说就因为问这个问题的人是一个政府的政策制定的官员。他问就是他问了一个很朴实的问题，就是说他用了这个西游这个题材，又是一个改编的西游，它也不是原始的西游，对吧？那他这个老外玩家能看懂吗？然后他引申了一些问题，就是说那个看不懂会不会影响这款游戏在海外的一些销量什么？
-</p>
-<p class="transcript-line">
-<span class="time"><strong>[00:45:26]</strong> </span>
-<span class="speaker"><strong>发言人1: </strong></span>
-然后我说这个问题的答案有两面。第一面就是冯记其实回答了在新华社的采访里回答的一个问题，吧？他说你去看魔界，本质上讲也是组队打怪，最后打赢boss的一个故事，吴承恩跟莎士比亚没有区别？他用了这样一个说法，就是人类的很多底层的这情感是共情？这是一个角。我说我有另外一个角，或者说我们猜测有另外一个角度是说他们就没想这事儿，就我就弄这个，我往死里弄，我根本不管你懂不懂，你去研究去吧，我也不care你怎么样了，反正我就要弄这个，我就擅长习惯跟喜欢我就是要把它弄弄到弄到心里像有个小恶魔一样。你们做视频的研究攻略，你们仔细研究去吧，对吧？所以网上有那个梗图，就是外国人现在回去翻那个西游记到底在讲什么，所以关于文化这个事儿，我觉得说不清。
-</p>
-<p class="transcript-line">
-<span class="time"><strong>[00:46:20]</strong> </span>
-<span class="speaker"><strong>发言人3: </strong></span>
-其实文化这个东西，它你如果排除噪音的话，就是大多数。因为我们还是要承认，不管那个黑神话或者其他的游戏作品，它再怎么有艺术性，但它本身还是一个底层，是商品属性。它是要交付给一个消费市场的一个要来买单一个一买单的一个东西。
-</p>
-<p class="transcript-line">
-<span class="time"><strong>[00:46:37]</strong> </span>
-<span class="speaker"><strong>发言人3: </strong></span>
-然后其实很多像漫改电影，它其实都会遇到这个问题。就是导演会有一个又会有一个权衡，就是我到底是拍给以前的那个书迷漫迷的，还是拍给大众。我在这个里面怎么水多了加加面面多了加水等等去勾兑。从我个人还是觉得他们应该还是有有一定的会注意的。因为说白了你如果你要确保一个没有了解任何西游文化的人，他至少都能够读到一个流畅和完整的故事，他可能体验不到这个故事里面的某种燃点、某种梗，或者某种内生性的一个共情的点地方。但是他至能够非常流畅的把这个东西走完，不会有各种莫名其妙的一个理解或者体验。我觉得这样就能够达到一个80分的一个水平了。
-</p>
-<p class="transcript-line">
-<span class="time"><strong>[00:47:24]</strong> </span>
-<span class="speaker"><strong>发言人2: </strong></span>
-对我觉得分两块来说。第一块就是它它每一个故事的底层逻辑，它理论上来说应该是流畅的。或者说就我们说比如说世界上所有的故事剧本都都离不开八类什么之类的。他其实故事可能说的就是那些，本质上就是那些。然后另外一个其实就是一个创作者，他他只有他只有植根于他自己的环境，他才能感动自己，然后才能感动他人。我觉得这种其实我觉得是非常宝贵的。
-</p>
-<p class="transcript-line">
-<span class="time"><strong>[00:47:55]</strong> </span>
-<span class="speaker"><strong>发言人2: </strong></span>
-就是我在包括看第一个黑色化第一提名的时候，我感触特别深的一点就是他最后的时候那个一棒下去，然后真的孙悟空用金箍棒给他拖住，然后那个棒身上就是如意金箍棒。四个亮起来的时候，你看那个B站的弹幕立刻就炸了，就完全炸掉了，所有的人就都在流泪。然后这个东西外国人其实他理解不了，就是他知道西游的故事什么之类的，但他也很难体会到。就包括我当时的那种心情，我其实觉得还挺骄傲的。虽然这个听起来特别主旋律，但是我后来心里想就是这样的。
-</p>
-<p class="transcript-line">
-<span class="time"><strong>[00:48:38]</strong> </span>
-<span class="speaker"><strong>发言人1: </strong></span>
-我觉得是一个个普。
-</p>
-<p class="transcript-line">
-<span class="time"><strong>[00:48:40]</strong> </span>
-<span class="speaker"><strong>发言人2: </strong></span>
-适的道理，也让你们感觉一下什么。你你你在这个文化接收过程中耗损30%的感觉是什么？你也就能接受70%。我看星战的时候，我也能理解，外国人一看look出来流泪了。我们对对对。
-</p>
-<p class="transcript-line">
-<span class="time"><strong>[00:48:58]</strong> </span>
-<span class="speaker"><strong>发言人3: </strong></span>
-对对对。
-</p>
-<p class="transcript-line">
-<span class="time"><strong>[00:48:59]</strong> </span>
-<span class="speaker"><strong>发言人2: </strong></span>
-他他看他看的哭，我就是我也我也高兴，但是我也知道我达不到他那个状态，我也很羡慕他。然后在这次的那个就这次黑深化的过程中，我处处感受到特权，就是作为中国文化接收者的特权。好多这个。
-</p>
-<p class="transcript-line">
-<span class="time"><strong>[00:49:22]</strong> </span>
-<span class="speaker"><strong>发言人1: </strong></span>
-是仲卿说的，说我们的玩家第一次享受了一等待遇。
-</p>
-<p class="transcript-line">
-<span class="time"><strong>[00:49:27]</strong> </span>
-<span class="speaker"><strong>发言人2: </strong></span>
-就是他太多的那种难以言表的地方了，包括里边有好多西游记主题曲、云宫迅变奏曲，我不相信外国人能听得出来，但是那个那个感觉就你一听就熟悉的那个感觉，马上的那个感觉就不一样。你看到所有的东西，其实我觉得感觉都会跟每在这种文化环境下成长起来的人不一样。我觉得也不算是我一直很很注意避免，比如说你不要搞狭隘的文化主义民族主义，觉对每一种文化其实都有它自己的独特的地方，这是肯定的。但是就这种感觉非常的珍贵，我觉得非常珍贵。然后你看到里面很多细节，不用他说，你自然能知道那个意思。你看到金箍棒，你看到他头上的那个箍，你看到那个圈儿，就那些所有的东西你都能接受，你觉得你自己能接受到百分之百。然后其他的东西，比如我也很喜欢美国的相关文化什么之类的，我从小也看电影玩游戏长大，但是我其实自己非常清楚的知道，我只能接受到80%，就是我就只能我的感觉跟他是不一样的。
-</p>
-<p class="transcript-line">
-<span class="time"><strong>[00:50:45]</strong> </span>
-<span class="speaker"><strong>发言人1: </strong></span>
-延续这个的话，我会觉得因为它是一个我们老少皆知的IP的主题。但是从文学到可视化的表达，其实每个人脑子里是有一个自己的幻想吧？当然过程中比如说有86版西游记的表达？有大话西游的表达，有张卫健版西游记的表达，甚至有西游伏魔伏魔录的这些东西的表达，就是他们都是可视化的，他们都是给了一个从我们文字到视觉表达的一个呈现。今天黑马武松也是一种表达，而且他表达的东西的丰富程度跟我我我感触最深的是因为他第一次的那个那个纪录片，就那个四大像那个四大天王那个那个形象，包括这一次的杨戬的那个那个形象里面也有，然后包括巨灵神。对吧？
-</p>
-<p class="transcript-line">
-<span class="time"><strong>[00:51:38]</strong> </span>
-<span class="speaker"><strong>发言人1: </strong></span>
-然后你就会觉得在我们小时候，我们看动画片也好，看书也好，包括看86版西游记也好，这几个人不就是小喽啰吗？一笔就过去了，特别战斗力特别差，对吧？但是你细想不是这样的，他们不应该是这样的一个状态，对吗？然后我们小时候就说巨灵神超级大，超级大是多大，对吧？就是他是他跟那个如果孙悟空是一个正常的人生，那精神应该多大？应该是石头身还是20还是50，还是就是他给了我们在很多事情上这样的一个具象的可视化，我们看得到的那个表达。而且又因为这个团队的能力，你很多东西就会觉得那个味儿非常的对。
-</p>
-<p class="transcript-line">
-<span class="time"><strong>[00:52:21]</strong> </span>
-<span class="speaker"><strong>发言人4: </strong></span>
-完全超乎预期。对对，非常超乎预期。在这里边杨琦真是居功至伟，太可怕了。这个人就像。
-</p>
-<p class="transcript-line">
-<span class="time"><strong>[00:52:30]</strong> </span>
-<span class="speaker"><strong>发言人3: </strong></span>
-文艺创作，其实就是一个不断的去修补细节的这样一个过程。就是我们看史书，可能三国那个时代，谁谁谁杀了，谁谁谁拿了片地，然后就过去了。但是我们通过三国演义，通过三国志等等文学的经典的著作，我能够去补充对于这个历史的更多的一个想象。哪怕它是虚构的，哪怕它是某种传闻，但是它都能够给读者的，给观众带来一种精神上的一个享受。我觉得这个正是我们在消费这种商品的一个最大的一个快感。其实你刚才你也举了很多例子，然后我其实还可以说一个更另类一点的。就是如果你把孙悟空这个词你放到海外去去谈的话，可能很多人他很多海外的观众他想到的可能不是西游记里面的孙悟空，而是龙珠里面的孙悟空。
-</p>
-<p class="transcript-line">
-<span class="time"><strong>[00:53:19]</strong> </span>
-<span class="speaker"><strong>发言人3: </strong></span>
-对，是的，其实这个东西它也是一个文化的一个延伸。我是我一直认为文化它一定是在流动，一直一直是在交换中。而我们在中国的游戏一直以来是接受外国的一个文化的一个熏陶。或者输出也好，我们终于可以对外输出或者说对外反补一个。然后来形成一个大家相互理解，更多的去理解对方的文化，理解对方的历史，理解对方的文学创作。我觉得这样一个事情本身他在客观上就是有益的，这个就是这个游戏的一个一个一个唯一的一个属性。它所代表。
-</p>
-<p class="transcript-line">
-<span class="time"><strong>[00:53:51]</strong> </span>
-<span class="speaker"><strong>发言人1: </strong></span>
-的对就是某种来说有自己的表达，其实也是一种双引号的奢侈品。就是能有资格做这样的表达本身，可能无论从国家角度太太奢侈了。
-</p>
-<p class="transcript-line">
-<span class="time"><strong>[00:54:05]</strong> </span>
-<span class="speaker"><strong>发言人4: </strong></span>
-我觉得而且特别奇怪，就是西游记这个在我国，我最近在想西游记在我国文化作品上面，他的那个地位特别奇怪。比如说最好的动画片大闹天宫也是西游记电视连续剧，优秀的作品86版西游记。然后就围绕着他出的所有的东西，烂的东西，但是好的东西特别好的东西。
-</p>
-<p class="transcript-line">
-<span class="time"><strong>[00:54:33]</strong> </span>
-<span class="speaker"><strong>发言人1: </strong></span>
-有一个媒体不是说了吗？就是大圣已经救过我们很多次了。
-</p>
-<p class="transcript-line">
-<span class="time"><strong>[00:54:36]</strong> </span>
-<span class="speaker"><strong>发言人4: </strong></span>
-对，包括那个动画片什么之类的都是这样，就非常奇怪。您说就是。
-</p>
-<p class="transcript-line">
-<span class="time"><strong>[00:54:45]</strong> </span>
-<span class="speaker"><strong>发言人1: </strong></span>
-传统的瑰宝，它就是这个。
-</p>
-<p class="transcript-line">
-<span class="time"><strong>[00:54:49]</strong> </span>
-<span class="speaker"><strong>发言人4: </strong></span>
-而且我们对这个东西的印象，其实是通过这些不同的文化产品一点一点递增上来的。我们现在谈到西游记的这个形象的时候，其实更多的脑子里来的这个形象就是86版西游记的形象。是的，对吧？然后这个孙悟空的形象其实来源于大量的京剧戏剧之类的东西，就是他们一系列的东西，然后就完就感觉完全推陈出新，就一直跟着时代走，特别有意思。然后包括这次在游戏里头，很多时候在战斗的时候，有些战斗的时候在开打的时候会出现京剧里的鼓点。对，就据我听到的是京剧里的起起起场的那个那个调子。所有这些我觉得你要说奢侈确实是很很难得。我只能说也不是对我。
-</p>
-<p class="transcript-line">
-<span class="time"><strong>[00:55:41]</strong> </span>
-<span class="speaker"><strong>发言人1: </strong></span>
-不是说。
-</p>
-<p class="transcript-line">
-<span class="time"><strong>[00:55:42]</strong> </span>
-<span class="speaker"><strong>发言人4: </strong></span>
-这个东西就比其他的文化强或者怎么样，但我只是说它是属于我的。你能感觉到这个是属于我们的记忆，或者说我们他跟我成长的这个经历是紧密关系。
-</p>
-<p class="transcript-line">
-<span class="time"><strong>[00:55:59]</strong> </span>
-<span class="speaker"><strong>发言人1: </strong></span>
-在一起的对，之前有有也也也是一个行业资深媒体，他们请了一位哪个大学的中文老师，他的老师那个老师就是专门研究孙悟空的，他写了一本书来去说各个时代时期的孙悟空所承担的责任，双引号的责任啊啊啊一般的念想跟民众对他的期待其实是一直在变化。这个东西已经很深了。就是从孙悟空在被写出来到今天无数的作品，无数的民众的这个过程中，他已经承载了太多的东西跟太多的变化。然后这个东西可能又匹配了当时的环境、当时的社会，当时的很多的问题。所以某一个时期的分红，它可能代表的是一种情绪。另外一个时期代表他代表的是另外一个角色的状态。所以就是你又会想，老祖宗留下的是瑰宝，这是瑰宝。
-</p>
-<p class="transcript-line">
-<span class="time"><strong>[00:57:02]</strong> </span>
-<span class="speaker"><strong>发言人4: </strong></span>
-是啊，反正你要说自豪，听起来就感觉挺事儿的对。
-</p>
-<p class="transcript-line">
-<span class="time"><strong>[00:57:10]</strong> </span>
-<span class="speaker"><strong>发言人1: </strong></span>
-是的，但确实就你你也你也找不到一个别的什么方式来去形容这种情感了。
-</p>
-<p class="transcript-line">
-<span class="time"><strong>[00:57:16]</strong> </span>
-<span class="speaker"><strong>发言人4: </strong></span>
-对我情感其实跟前一段时间那个那个电视剧叫什么那种就是讲述，让我想一想，你们可以先说别的，不是隐秘的角落，是什么就是。对不起，我想不起来了。就是讲述东北。
-</p>
-<p class="transcript-line">
-<span class="time"><strong>[00:57:36]</strong> </span>
-<span class="speaker"><strong>发言人1: </strong></span>
-讲述东北东北的。
-</p>
-<p class="transcript-line">
-<span class="time"><strong>[00:57:37]</strong> </span>
-<span class="speaker"><strong>发言人4: </strong></span>
-我知道你说那个了，就是那个那个电视剧。其实我作为一个东北人，我看的时候其实也是感觉到有一些自豪。自豪并不是说我因为我某一个身份或者这个东西就比别人的好而自豪。其实我自豪是有一个人或者说有一部作品能够向别人更多的解释。我就是让别人对让别人更多的了解。我他知道他了解我成长过程中接受的东西，了解我的情感，让我被更多的人了解。这个我觉得是非常难得的事情。
-</p>
-<p class="transcript-line">
-<span class="time"><strong>[00:58:11]</strong> </span>
-<span class="speaker"><strong>发言人1: </strong></span>
-漫长的季节。
-</p>
-<p class="transcript-line">
-<span class="time"><strong>[00:58:12]</strong> </span>
-<span class="speaker"><strong>发言人3: </strong></span>
-长对这个系统。
-</p>
-<p class="transcript-line">
-<span class="time"><strong>[00:58:13]</strong> </span>
-<span class="speaker"><strong>发言人4: </strong></span>
-漫长的季节。作为一个东北人，我看完之后我就觉得其他人可以更了解我了，他更知道我这个人的某一些特质，我的性为什么是怎么形成的，我都经历过。
-</p>
-<p class="transcript-line">
-<span class="time"><strong>[00:58:28]</strong> </span>
-<span class="speaker"><strong>发言人1: </strong></span>
-最近有这个马大帅的研究委员会已经成立了，太太抽象了，但是太太对味儿了。我觉得这个对。
-</p>
-<p class="transcript-line">
-<span class="time"><strong>[00:58:37]</strong> </span>
-<span class="speaker"><strong>发言人4: </strong></span>
-就是这种感觉，就是你们可以更多的了解我。
-</p>
-<p class="transcript-line">
-<span class="time"><strong>[00:58:41]</strong> </span>
-<span class="speaker"><strong>发言人3: </strong></span>
-其实就是一个大家有一个集体记忆被唤醒了，就是我们共同经历的包括西游记。我再举个例子，就是前段时间不是小罗伯特唐尼回漫威因为当时有个活动，然后其实当时除了小布鲁哈尼赢得最多第二多喝彩的其实是神奇4侠，因为他那个距把它的时间点设定到了一上世纪，就是20世纪六七十年代。它的所有的建筑风格，满大街的录像带，还有精肉的那种车，去路上跑的车，美国人一下就get到了点。因为在他们那个那个记忆里面，就是美国文化上，就是现在现在现在美国里面最辉煌的一个事件。所以那种怀念一个时代，然后一下就嗨了，我觉得其实就是这样一个点，就是一个文化产品，然后能够唤起你的某种集体记忆。
-</p>
-<p class="transcript-line">
-<span class="time"><strong>[00:59:28]</strong> </span>
-<span class="speaker"><strong>发言人3: </strong></span>
-不管是东北的还是我们对于西游这个东西实在是太老熟悉了。从小看到大，这个东西不是什么虚化，是真的从小看到大。你大的西游记的文化的那个作品可以看，小的也小的可以看。我还是很记得我当时看那个金额传的悟空传的时候，那个时候我还买了很多那种盗版的书。什么叫也不叫盗版，就说有什么唐僧传，有沙僧传，有点甜，有杀生日记的。是的，我现在特别迷。我发现原来西游记可以不用按照那种唯一的那种几个三个妖怪带着一个和尚去取经这样一个唯一的主流叙事去走。
-</p>
-<p class="transcript-line">
-<span class="time"><strong>[01:00:03]</strong> </span>
-<span class="speaker"><strong>发言人3: </strong></span>
-还有那么多的细节可以由创作者自己去诠释，自己去发挥。我觉得我当时还上初中，我那个时候觉得好震撼，就跟我读的语文书好像是不一样的。这个时候其实对我来说就一下子开阔起来了。我一直在我觉得真的西游记是个很好的一个精神土壤。就一万就有国外的人，或者说1万个1000多个人里面有一千哈姆雷特。我觉得孙悟空就是1000个中国人里面。
-</p>
-<p class="transcript-line">
-<span class="time"><strong>[01:00:29]</strong> </span>
-<span class="speaker"><strong>发言人1: </strong></span>
-他可能送货都代表着一千种意义。
-</p>
-<p class="transcript-line">
-<span class="time"><strong>[01:00:31]</strong> </span>
-<span class="speaker"><strong>发言人4: </strong></span>
-对，是啊。
-</p>
-<p class="transcript-line">
-<span class="time"><strong>[01:00:35]</strong> </span>
-<span class="speaker"><strong>发言人1: </strong></span>
-挺好啊。延伸另外一个问题的这个事情，其实刚才咱们也讲到了，就是类似的这个流浪地球的事情。大家会认为这个东西的流程跑通可能是这件事情最大的意义。对于行业的角度而言，是不是包括可能你像他们做这个一年纪录片是为了招人对吧？是为了让某一些可能原来的这个行业都没有的岗位，能够开始写岗位描述，他做了很多这样的事情，这些事情其实某种来说可能对行业的发展也会有短期长期的促进帮助。让更多的厂商有可参考的路径跟依赖的方式。就是作业大家至少知道该怎么抄了，对吧？就是这个角度。你们怎么看这件事情？
-</p>
-<p class="transcript-line">
-<span class="time"><strong>[01:01:30]</strong> </span>
-<span class="speaker"><strong>发言人4: </strong></span>
-我觉得大号是这样的，就是我看到很多很多报道，把他们写的很悲情化，对背背水一战，然后压上所有的东西什么之类的。
-</p>
-<p class="transcript-line">
-<span class="time"><strong>[01:01:47]</strong> </span>
-<span class="speaker"><strong>发言人1: </strong></span>
-这些其实没有。
-</p>
-<p class="transcript-line">
-<span class="time"><strong>[01:01:48]</strong> </span>
-<span class="speaker"><strong>发言人4: </strong></span>
-对，其实没有。包括我2000年见到他们的时候，他们也不停的在跟我说，如果要写这个东西的话，不要把我们写的很苦，因为我们真的不苦。
-</p>
-<p class="transcript-line">
-<span class="time"><strong>[01:01:58]</strong> </span>
-<span class="speaker"><strong>发言人1: </strong></span>
-对，腾讯来的时候，他是冯老板都说了，我们不缺钱。虽然可能有一点点打肿脸充胖子充胖子的样意图，但是确实没有那么缺。
-</p>
-<p class="transcript-line">
-<span class="time"><strong>[01:02:06]</strong> </span>
-<span class="speaker"><strong>发言人4: </strong></span>
-对，就游戏科学包括缝隙，我一直觉得缝隙是一个非常清醒的这么。
-</p>
-<p class="transcript-line">
-<span class="time"><strong>[01:02:15]</strong> </span>
-<span class="speaker"><strong>发言人1: </strong></span>
-一个是的。
-</p>
-<p class="transcript-line">
-<span class="time"><strong>[01:02:16]</strong> </span>
-<span class="speaker"><strong>发言人4: </strong></span>
-对，一个创也不是创业者，一个企业家也说的有点怪。就是他们当时其实其实就是这整个游，包括黑生化的开发，其实是一个非常理性的过程。他其实一开始算的很清楚，也不存在说哪怕开发失败了，这个公司就完了的的的可能性。其实我觉得基本上是没有的对，然后他们的开发就像刚才说的，其实也是逐步投入的。我觉得从整个生产流程上来说，跑通我不确定。就是因为有一些大厂的生产，包括比如说腾讯什么的，他们跟国外的很多公司其实一直有非常严密的合作。现在已经进化到比如跟他们配合非常严密，是的，特别共同开发的那种程度。
-</p>
-<p class="transcript-line">
-<span class="time"><strong>[01:03:06]</strong> </span>
-<span class="speaker"><strong>发言人4: </strong></span>
-对，这个流程其实有，但是一个人踏踏实实的把他从头跑下来，就一个单一商业大作跑的这么成功，很显然对其他公司肯定是有激励作用的。对我觉得就包括之前在这个在在。非生化2000年820之前，其实技术美术这个词大多数情况下不太为人所知。但是那时候大家已经知道了，技术美术这到底是一个什么奇怪的工种。
-</p>
-<p class="transcript-line">
-<span class="time"><strong>[01:03:37]</strong> </span>
-<span class="speaker"><strong>发言人1: </strong></span>
-是的。
-</p>
-<p class="transcript-line">
-<span class="time"><strong>[01:03:38]</strong> </span>
-<span class="speaker"><strong>发言人4: </strong></span>
-对，然后后来还有好多奇怪的莫名其妙的词，什么流程，什么技术流程什么之类的。负责把所有的艺术创作填到那个工业生产的流程里面，告诉他们在这个流程里头该用什么工具开发专门的工具，告诉他该怎么走什么的。对，全都是这些游戏工业化开发出来的新新职位，非常可怕。
-</p>
-<p class="transcript-line">
-<span class="time"><strong>[01:04:01]</strong> </span>
-<span class="speaker"><strong>发言人1: </strong></span>
-奶奶。
-</p>
-<p class="transcript-line">
-<span class="time"><strong>[01:04:06]</strong> </span>
-<span class="speaker"><strong>发言人3: </strong></span>
-其实我还是想我想刚开始还跟朱佳音老师说了很多，我其实想明浩游也做了很多类似的一个事情，就是规划的。虽然这两家两个游戏的粉丝可能会随后不如。其实我觉得就是好的公司，他就是他除了他自己的业绩有保证之外，他能够还带来一个产业的一个促进效应。就是我能够形成一个标准形形成一个标准化的一个方式。大家能够在一定程度上抄我的作业就可以了，就至少在我的整个生长上可以抄作业。至于因为游戏它本身还是一个创意性产业，对吧？创意你超不了，你只能自己干。但是有很多兜底的一个事情，你该怎么去做这样一个做做这个项目该怎么去招人。所以说我的成功能够让整个人才市场流动起来，活跃起来，这对大家来说都都是一个好事。
-</p>
-<p class="transcript-line">
-<span class="time"><strong>[01:04:53]</strong> </span>
-<span class="speaker"><strong>发言人3: </strong></span>
-说吧现在对于现在开发那个PC的，或者说整整个人才，在中国其实还我觉得还是偏少的。很多都是在直接大学，有很多计算机毕业大学生直接就做做做手做手游去了。他很难去再去考虑一个端游市场，我所以说人才其实也是蛮关键的。就是很多可能说我们相信有很多人才他潜伏在这个市场里面，只不过没有足够的岗位，没有足够的项目去去容纳他们。但是当黑社会，当游客，他取得了一定成功之后，他可以去激活这样一个供需的一个环境。我觉得这个对大家来说都是一个好事。
-</p>
-<p class="transcript-line">
-<span class="time"><strong>[01:05:28]</strong> </span>
-<span class="speaker"><strong>发言人3: </strong></span>
-因为说白了现在是一个并不是一个供过于求的一个。就是在单机游戏或者在买单机游戏里面没有那么强的一个竞争。而且我们也知道单机游戏的生命周期没有那么长，我不需要持续的运营。所以单机游戏厂商和单机游戏厂商之间的竞争关系，即使你们两个开发是同样的游戏，只要你们的档期是错开的，你们就不会有太强的一个竞争力关系在里面。所以我觉得这个市场氛围会好一点。
-</p>
-<p class="transcript-line">
-<span class="time"><strong>[01:05:52]</strong> </span>
-<span class="speaker"><strong>发言人1: </strong></span>
-那某种来说是不是我们可以期待一小波，可能期待不了太大波要有一小波变化，这个再往前延续，就是你比如说其实如果我们只看steam这个平台，过去几年其实频繁的会有中国厂商的产品站在前面。就我们抛开他做什么，我们只说在steam的这个买断制的平台上。其实我们已经在这几年看过很多中国厂商站在比较靠前的位置了？那帕特尼甚至是完蛋？就是鬼谷八荒，然后这个甚至中国式家长？这种东西这个类型就是某一段时间都承担了这个流量密码的角色？那是不是从这个角度来说，如果我们把问题放大到或者说把这个视角再拉高一点，而不局限在买断制3A的这个角度来说，偏中小规模的独立一点的团队的出入，可能在今天其实是再变好一些。这个结论能下吗？
-</p>
-<p class="transcript-line">
-<span class="time"><strong>[01:06:57]</strong> </span>
-<span class="speaker"><strong>发言人4: </strong></span>
-我只代表自己。
-</p>
-<p class="transcript-line">
-<span class="time"><strong>[01:07:00]</strong> </span>
-<span class="speaker"><strong>发言人1: </strong></span>
-对。
-</p>
-<p class="transcript-line">
-<span class="time"><strong>[01:07:00]</strong> </span>
-<span class="speaker"><strong>发言人4: </strong></span>
-当然了你代表不了任何人。对我仅代表自己持略悲观的态度。因为很多事情并不是单纯的由技术和市场来决定的。对它包括很多包括比如说各种各样奇怪的风险，我们也不太好提。
-</p>
-<p class="transcript-line">
-<span class="time"><strong>[01:07:16]</strong> </span>
-<span class="speaker"><strong>发言人1: </strong></span>
-对。
-</p>
-<p class="transcript-line">
-<span class="time"><strong>[01:07:19]</strong> </span>
-<span class="speaker"><strong>发言人4: </strong></span>
-但其实我想强调的是，就是黑生化它的成功其实在我看来可能像是一个结果，而不是一个他虽然很厉害了，但是他不是凭空冒出来的。就是对所有的文化产品，它本质上来说都像一个金字塔。只有只有足够多的地基，足够多的垃圾作品，就说说白了对就只有足够多的垃圾作品，最后才能顶出来好作品。其实他的地基其实就是过去很多我们那些喜欢的不喜欢的，是我们不知道名字的，被骂了千万遍的。包括比如说元神和他可能都属于各自金字塔上的顶尖。还有很多比如王者荣耀，比如各种各样的游戏，其实在他们底下就就是你吃到第九个馒头，前面八个也有用的。但是换句话说，你吃了前八个就是文化产品。其实就是你吃了第八个第九个馒头就一定会出来，你有了地基尖儿就会出来，就只是一个时间问题，就看这个尖儿轮到谁头上。
-</p>
-<p class="transcript-line">
-<span class="time"><strong>[01:08:28]</strong> </span>
-<span class="speaker"><strong>发言人1: </strong></span>
-对。
-</p>
-<p class="transcript-line">
-<span class="time"><strong>[01:08:29]</strong> </span>
-<span class="speaker"><strong>发言人3: </strong></span>
-明浩，你还记得敖厂长是敖厂长是怎么翻车的吗？你记得吗？就在20年前一年19年，大圣归来上了steam然后吹了一通。然后我现在我刚才搜了一下，你知道我搜的标题什么吗？就是就当时那个事件过后的媒体的标题，大声关的游戏口碑崩塌，国产3A游戏的困境。
-</p>
-<p class="transcript-line">
-<span class="time"><strong>[01:08:52]</strong> </span>
-<span class="speaker"><strong>发言人3: </strong></span>
-我觉得做黑社会已经完整的回答了这个东西。但我游戏玩家要的是什么？要的其实就是你给我一个好东西，我就能够把你买爆，就这么简单。
-</p>
-<p class="transcript-line">
-<span class="time"><strong>[01:09:01]</strong> </span>
-<span class="speaker"><strong>发言人3: </strong></span>
-但关键是我觉得对大圣归来，大圣有多少自然粉。我觉得大圣归来如果站在同样的时间点上，它并不比黑神话悟空要弱。他这个IP就当动画圈了很多粉，大家都觉得这是非常好的一个优秀的一个作品。然后出了游戏成了那么一个样子，就是玩家已经被喂食喂了太多年了。不管是好吃的屎还是垃圾的屎，不管是预算的好的一对对，大家就直接只是要一个你能不能给我一个好东西，能不能给我一个不省钱，你你你你不不不骗人的一个物料。对，要了这么多年就要了这么一点东西，然后大家一直不给，就是不给，然后给的都是一些手游，或者手游确实有不舍的，但是我要充很多钱才能有一个完整的体验，就要要不到。然后黑石化跑到这一点，我觉得这个东西就给我来说一个非常大的一个信心。这个东西对对对，可以赚钱的。
-</p>
-<p class="transcript-line">
-<span class="time"><strong>[01:09:51]</strong> </span>
-<span class="speaker"><strong>发言人3: </strong></span>
-为什么大家现在一定要那么多的场外信息去称自己？所谓对游客的一个支持，就是他卖了多少份，然后赚了多少钱。为什么就大家都愿意去当精神股东？就是为了去证明这样一条路是能够走通的。就是希望能够有越来越多的游戏找到能够去跟风，能够去投资。说白了你能够去投基金，因为这些投机是有回报的，不像以前就没连投机都没有人去投机，因为大家觉得很亏，只能搬出那种对吧？西游记是他未来这种游戏。
-</p>
-<p class="transcript-line">
-<span class="time"><strong>[01:10:21]</strong> </span>
-<span class="speaker"><strong>发言人4: </strong></span>
-就是这个事情给我的一个非常大的鼓舞，或者是也不算是鼓舞，就是你只要是好东西就有人认。这个听起来就非常的非常幼稚或者非常简单。对，但是实际上在在你做或者说你身处游戏行业也好，或者是内容行业也好，或者我们都在一定程度上涉足自媒体什么之类的东西也好，有的时候我们会怀疑这一点。因为我们两个对总能看到好多时候会不会用投机取巧的方式也会成功，或者是会不会有可能你自己付出了努力，但实际上败给那些投机取巧的人。但实际上就是就话给我的一个感触就是只要东西好，只要东西好人是会认的。用户没有，他们看得出来什么是什么是好东西。
-</p>
-<p class="transcript-line">
-<span class="time"><strong>[01:11:15]</strong> </span>
-<span class="speaker"><strong>发言人4: </strong></span>
-然后在这个前提之下，你可能会有一些缺点。比如说他他游戏的地图，其实确实因为地图设计，这就是个硬活。就是你对没错，对你没有经验就是没辙。玩家OK没关系，地图有问题可以游戏还是好游戏。你想要理解可以，有对吧？你想你想要支持有没问题，只要你东西做得好，什么都好说，这个是非常可贵的。我觉得很多时候有时候大家会把玩家形容成一些喜怒无常。
-</p>
-<p class="transcript-line">
-<span class="time"><strong>[01:11:50]</strong> </span>
-<span class="speaker"><strong>发言人3: </strong></span>
-讨厌，真非常。
-</p>
-<p class="transcript-line">
-<span class="time"><strong>[01:11:52]</strong> </span>
-<span class="speaker"><strong>发言人4: </strong></span>
-情绪化，很很容易就被触怒的人。但其实就只要你足够真诚，东西做的足够好，就OK。
-</p>
-<p class="transcript-line">
-<span class="time"><strong>[01:12:02]</strong> </span>
-<span class="speaker"><strong>发言人1: </strong></span>
-就同意这一点，就是我我甚至会觉得行业的，比如说除了游戏开发商之外的，我们叫外围的角色方面，所有人都希望他成功，就乐见其成，甚至愿意付出努力帮忙让这个事情主动的往前走。媒体、自媒体、up主、主播、平台发行商，甚至一些不相关的什么样的角色。方当他了解了这个故事，看到这个东西，他会发自内心的就是得道者多助，对吧？自强则万强。对对对，我们前老板经常想要提的一个问题，在这个事情上体验的非常的淋漓尽致。就是自来水特别多，大家就像一个梦想国一样，对吧？在尤其在当下的这个环境里，这件事情甚至盗版组织盗亦有道的时候，我们不会去碰这个对吧？就是一种江湖气的状态弥漫在今天这样一个流量氪金，然后什么样的氛围里，我觉得特别的难得。
-</p>
-<p class="transcript-line">
-<span class="time"><strong>[01:13:13]</strong> </span>
-<span class="speaker"><strong>发言人4: </strong></span>
-所以我也想问你们投资界怎么看这个产品，或者对所谓的单机买断制游戏，或者对这种大投入面向全球的这种作品。
-</p>
-<p class="transcript-line">
-<span class="time"><strong>[01:13:23]</strong> </span>
-<span class="speaker"><strong>发言人1: </strong></span>
-之前我觉得虽然就是我我我我觉得我的性格跟你是比较像，是偏悲观跟偏冷血的，所以内心的答案一定是。但是就是你还是期待有一些小的细微的变化。这种变化可能就来自于就是我我们刚才聊过，比如说一个很现实的角度是说今天我在大厂内部或者说我在大厂相关的旁边，我立一个这样的项目的可能性。我们不说成不成功，只说这个可能性跟概率肯定是远远大于减之前，对吧？结果我们不说，只说立项，就是我要干这件事儿，他的决心，然后他上面的领导通过这件事情的可能性，这个东西远远高于之前。同样的事情可能也发生在银行，就是投资行业是说投跟愿意看这个东西的立项，就我愿意把这个东西，比如说我一个月看十个项目，原来这个项目里面一个游戏都没有，但今天可能有一个游戏项目，我愿意去看一看，了解一下，参与一下，甚至是更多的关注一下。
-</p>
-<p class="transcript-line">
-<span class="time"><strong>[01:14:30]</strong> </span>
-<span class="speaker"><strong>发言人1: </strong></span>
-所以它解决的是这个问题，不是一个零跟一跟从一个天平极端到另一个天，它不是那样的一个事情。他就是在某些环节上，某些细小的东西上打碎了一点点，让这个事情提高了一点点。无论是沟通成本，然后意向的概率，然后关注度什么之类的，反正就是他以后这些东西要潜移默化的敲打了一下。
-</p>
-<p class="transcript-line">
-<span class="time"><strong>[01:14:55]</strong> </span>
-<span class="speaker"><strong>发言人1: </strong></span>
-所以但是我还是那个说法，就是本质上来讲，今天的投资环境就不是一个好的环境，对吧？这是一个巨大的前提条件，就盖在这就是我们再去探讨。所以那天我发了一条即刻被很多人转，被很多媒体去写，我觉得那是一个特别实的实话。就是说你问能不能引起3A游戏投资的创业热潮，创业投资热。我说今天中短期内连创业投资热都不会有，就不要想游戏的创业投资热，就更不要说什么3A游戏的创业投资了。对吧？这是一个太过简单朴素的道理。
-</p>
-<p class="transcript-line">
-<span class="time"><strong>[01:15:32]</strong> </span>
-<span class="speaker"><strong>发言人1: </strong></span>
-但是确实在这个巨大的悲观跟巨大的冷血的答案下，我愿意多说一句，是说有一些东西在被轻轻的改变跟轻轻的调整。有些愿意其中，愿意参与其中，愿意对这个行业有了就跟这跟做这个事情很像，就是能提供这种力量往前推动的，也是他对这个行业了解。他知道他不是一个像以前那样来暴富，来一腔热血，妈的去大本营，他不是那些了，他知道这个东西是什么，他也在去权衡，商业化、艺术表达、暴富，然后理性。就是他在权衡很多这个东西之后去做的一个综合性的决定。就跟冯骥杨琦为什么在那个时点要做一个看上去极端理想主义的现实的选择是一样。他也就也一样，就是都是这个状态。所以你问我答案，我答案一定是偏悲观。甚至我在组织这场直播的时候，我甚至想过一个方式。
-</p>
-<p class="transcript-line">
-<span class="time"><strong>[01:16:33]</strong> </span>
-<span class="speaker"><strong>发言人1: </strong></span>
-但是后来我说算了，不要为难微博的同事们。因为微博同事给的这个标题就是投资能不能？我本来是想我们在拍片直播的第一句话，我就说不能好了，这个问题我们不聊了，聊别的对。
-</p>
-<p class="transcript-line">
-<span class="time"><strong>[01:16:46]</strong> </span>
-<span class="speaker"><strong>发言人4: </strong></span>
-你说的非常有道理。
-</p>
-<p class="transcript-line">
-<span class="time"><strong>[01:16:48]</strong> </span>
-<span class="speaker"><strong>发言人1: </strong></span>
-对，但后来想想还是别这么聊了，我们还是以一个别的方来解释一下这个角度。对。所以这是我对这个问题的答案。对。
-</p>
-<p class="transcript-line">
-<span class="time"><strong>[01:17:00]</strong> </span>
-<span class="speaker"><strong>发言人4: </strong></span>
-所以有很多从业者现在私下里头非常快乐的在传说投资人闻风而动，现在开始纷纷去找。
-</p>
-<p class="transcript-line">
-<span class="time"><strong>[01:17:09]</strong> </span>
-<span class="speaker"><strong>发言人1: </strong></span>
-有他妈的中国的一市场都快没了，他还搞死人。
-</p>
-<p class="transcript-line">
-<span class="time"><strong>[01:17:15]</strong> </span>
-<span class="speaker"><strong>发言人3: </strong></span>
-产业资本产业资本会不会好一点？
-</p>
-<p class="transcript-line">
-<span class="time"><strong>[01:17:18]</strong> </span>
-<span class="speaker"><strong>发言人1: </strong></span>
-产业资本的话，产业资本是这样的，就是中国我们只说游戏行业对吧？游戏行业的产业资本其实在20到21年有一波疯狂。就是腾讯那时候，然后包括字节、快手、微博、B站疯狂弄20到21年，然后那一波就赶上了。首先有疫情红利，然后那个时候市面上非常缺产品，然后元神爆了，就是那个时间点对吧？然后接着元宇宙爆就是又续了一波对吧？一堆什么开放世界，UZC，RO blocks，就都来了，对吧？但是那个东西的这个热度在22年急转直下。
-</p>
-<p class="transcript-line">
-<span class="time"><strong>[01:18:04]</strong> </span>
-<span class="speaker"><strong>发言人4: </strong></span>
-就一波算是又一波引起了很大的力量把他硬顶上去的吗？
-</p>
-<p class="transcript-line">
-<span class="time"><strong>[01:18:10]</strong> </span>
-<span class="speaker"><strong>发言人1: </strong></span>
-对，然后那一波的喧嚣其实在今天已经在出现一些回调。你像前一段时间那个广州地质天的新闻不是蛮多的吗？今天就是典型那一波拿到很多钱的公司是吧？就是腾讯先给了钱，然后红杉又给了钱，然后他们上拉吉尔，然后表现也很好，然后就膨胀了。
-</p>
-<p class="transcript-line">
-<span class="time"><strong>[01:18:33]</strong> </span>
-<span class="speaker"><strong>发言人1: </strong></span>
-就那一段时间就是那段时间，所以我在去年那个狼叔，对，狼叔不是在那个茶馆上，狼叔他不是每天有什么会？年会去年还是二三年底，还是22年底，他们开年会的时候请我去讲。然后我当时起了一个标题，然后说这个标题写的非常好。他说我的当时的标题是说过去的三年是弯路，从普通的视角来看看中国就行。妈对，所以我有所指的用了这样一个标题，其实是房地产纯战略投资。
-</p>
-<p class="transcript-line">
-<span class="time"><strong>[01:19:02]</strong> </span>
-<span class="speaker"><strong>发言人1: </strong></span>
-其实游戏投资在过去的二三年基本上是就是断崖式的往下。现在有一点点回，这个东西它可能跟比如跟退出有关，对吧？你这段时间上市也很难，尤其海哪怕海外。然后并购其实是一个随机波动非常大的事情。有一个大案像暴雪说腾讯那个微软是暴雪。那那当然从你画那个柱状图，当然那个季度邦就涨上去了，对吧？这是肯定的，但它是一个意外的单单门的事件，你所影响它不是一个趋势化的变化。当然可能这一波比如AI，就是可能又来了对吧，可能又又有一些所谓的加成。所以他在一个慢慢慢慢从一个上一波的巨大的喧嚣迅速冷却，然后冷却到冰点。然后可能现在在慢慢的往回走这样一个状态，就大概的整个的趋势应该就是这个样子。
-</p>
-<p class="transcript-line">
-<span class="time"><strong>[01:19:56]</strong> </span>
-<span class="speaker"><strong>发言人4: </strong></span>
-行，往回走还算是好事儿。
-</p>
-<p class="transcript-line">
-<span class="time"><strong>[01:19:58]</strong> </span>
-<span class="speaker"><strong>发言人1: </strong></span>
-至少大家愿意吗？你反方讲，你说今天海外也好还是中国也好，比如说你想做一个AI结合的什么东西，至少这个饼大家是愿意相信的，对吧？就这个故事还是有的讲，不是说因为因因为反正其他的很多叙事结构已经完全被你不能说被被否定，至少投资人已经不认了。你说今天我出来做个是战略版的改版，那不会有人care这件事情的对吧？哪怕是战略方他也要挑一挑的对吧？三国最后轮到B站也是个意外，我觉得？对，一样是这样的，他他就是这样，就是之前的因为投资是一个，尤其是偏我觉得就我们所熟悉意义市场投资，它是个买饼的事情，这是一个買故事的事情，它不是一个那么理性的事情，他要有一定的这个就是你要信，对吧？你要有一个对未来的，哪怕是他他才可能有动作，你连那个都没有你动作就不会有，那你就要给他一些什么东西，让他有所谓的妄念才可可按。
-</p>
-<p class="transcript-line">
-<span class="time"><strong>[01:21:07]</strong> </span>
-<span class="speaker"><strong>发言人4: </strong></span>
-这个逻辑来说，黑神话算不算是一个非常好的网点。
-</p>
-<p class="transcript-line">
-<span class="time"><strong>[01:21:12]</strong> </span>
-<span class="speaker"><strong>发言人1: </strong></span>
-可能对一些完全不懂行业的从业者们可能有可能是吧。
-</p>
-<p class="transcript-line">
-<span class="time"><strong>[01:21:16]</strong> </span>
-<span class="speaker"><strong>发言人4: </strong></span>
-但现在的环境下，这种完全不懂行业的投资者也很少了是吧？
-</p>
-<p class="transcript-line">
-<span class="time"><strong>[01:21:20]</strong> </span>
-<span class="speaker"><strong>发言人1: </strong></span>
-也非常少，不太有了。对，就是已经早就被洗光了。
-</p>
-<p class="transcript-line">
-<span class="time"><strong>[01:21:25]</strong> </span>
-<span class="speaker"><strong>发言人3: </strong></span>
-所以你看这游戏游戏在投资标的里面已经算是一个非常古典的一个东西了。
-</p>
-<p class="transcript-line">
-<span class="time"><strong>[01:21:30]</strong> </span>
-<span class="speaker"><strong>发言人1: </strong></span>
-太古典了，太古典。如果没有移动互联网那一波，其实就是反过来讲，其实游戏你你我们看另外一个战场就好看电影。
-</p>
-<p class="transcript-line">
-<span class="time"><strong>[01:21:38]</strong> </span>
-<span class="speaker"><strong>发言人3: </strong></span>
-对吧？
-</p>
-<p class="transcript-line">
-<span class="time"><strong>[01:21:39]</strong> </span>
-<span class="speaker"><strong>发言人1: </strong></span>
-电影的投资基本上已经不太有什么所谓的风投参与。它就是全部产业链内的参与方，以一个非常成熟的方式，甚至类似双引号众筹的方式有一个很好的对吧？
-</p>
-<p class="transcript-line">
-<span class="time"><strong>[01:21:52]</strong> </span>
-<span class="speaker"><strong>发言人4: </strong></span>
-所以我经常看到就是好好多投资发行方什么的。
-</p>
-<p class="transcript-line">
-<span class="time"><strong>[01:21:56]</strong> </span>
-<span class="speaker"><strong>发言人3: </strong></span>
-对出品也是堆，就大家一起然后一起分钱。
-</p>
-<p class="transcript-line">
-<span class="time"><strong>[01:22:00]</strong> </span>
-<span class="speaker"><strong>发言人1: </strong></span>
-就是他已经变成那个样子了。但游戏现在其实没有，游戏现在很少是通过项目融资的，游戏还是以公司化融资的。除了外部三的领域对吧？除专业游戏可能有对吧？但是传我们意义上传统这些游戏厂商，无论是做网络，还是做单机，还是做买断的，其实很少是以项目去融资的。我还我们还没有进化到那个那个阶段。明白了。
-</p>
-<p class="transcript-line">
-<span class="time"><strong>[01:22:24]</strong> </span>
-<span class="speaker"><strong>发言人3: </strong></span>
-容易。我前几天看一个数据，好像今年是吃豆人那个游戏多少周年的一个纪念日。然后当吃豆人在上市的半年之内，他赚的钱是拉斯维加斯整个赌场一年的钱，1100年的钱。这就是其实我们就其实我们之前也讨论就是三游戏人家越来越重开，成本越来越多，然后越来越高等等。但其实我们从石头人这在在供给非常匮乏的年代，它其实是一个非常好的一个生意，回报率非常大的一个生意。然后越往后，包括我们现在是我们的游戏运行的设备，整个终端的一个多元化，直接导致它的整个开发怎么会越来越高。我觉得我倒是比较相对来说会想到可能会有更多的像类似发行出品一起的去去去负担这样一个风险。否则的话你都让所有的后面的3游戏都对标游客，我觉得这个有点过分，有点你看大家都去对面一例外，对不对？
-</p>
-<p class="transcript-line">
-<span class="time"><strong>[01:23:20]</strong> </span>
-<span class="speaker"><strong>发言人1: </strong></span>
-所以我引发另外一个小故事，基于这个点，就是在大概可能也差不多是那一波，刚才我讲2021年那一波热潮的时候，其实我身边有些朋友想做这样一件事情，就是他们想做独立游戏的类似发行商。就是因为你想那个时间点，首先就是我们看榜单上什么戴森球，什么他有护卷，然后忠实家长那些东西就是他的火，他的传播是有套路的。主播然后B站的主，然后我这个兄弟原来就是帮直播平台做广告的，接广告的就是他先套路玩法这些资源方这些钱都知道，然后他有个合作伙伴是做独立开发者的，类似什么协会，或者是类似这种公益组织。他说这件事情理论上说是可以在那个时间点以一个更成熟的或者更商业公司的方式去做的。理论说在那个场景是有这个机会，是有人在那个时间里想过这件事情了。
-</p>
-<p class="transcript-line">
-<span class="time"><strong>[01:24:17]</strong> </span>
-<span class="speaker"><strong>发言人4: </strong></span>
-但最后为什么没做起来？
-</p>
-<p class="transcript-line">
-<span class="time"><strong>[01:24:19]</strong> </span>
-<span class="speaker"><strong>发言人1: </strong></span>
-那就是别的各种其他原因没导致，反正从结果来看没有太开起来。但是你从逻辑来讲其实是通的。
-</p>
-<p class="transcript-line">
-<span class="time"><strong>[01:24:28]</strong> </span>
-<span class="speaker"><strong>发言人4: </strong></span>
-对我觉得从逻辑上是能跑通的对。
-</p>
-<p class="transcript-line">
-<span class="time"><strong>[01:24:30]</strong> </span>
-<span class="speaker"><strong>发言人1: </strong></span>
-就是它是一个它其实虽然没有很大，但是它那个圈是一个已经转起来的圈。
-</p>
-<p class="transcript-line">
-<span class="time"><strong>[01:24:35]</strong> </span>
-<span class="speaker"><strong>发言人4: </strong></span>
-对对对，就是你的预测而且跑通过，然后你有一套固定的流程，你按这个流程下来八九不离十，我觉得这是挺逗的。
-</p>
-<p class="transcript-line">
-<span class="time"><strong>[01:24:46]</strong> </span>
-<span class="speaker"><strong>发言人1: </strong></span>
-所以可能历史原因，反正在那个时间点他最后也没没做这件事情。但其实也有很多人想过做类似的事情，所以就是天时地利人和对吧？时间点过程中的行业的变化可能都跟这件事情相关。所以我前两天做了个博客讲游戏科学。
-</p>
-<p class="transcript-line">
-<span class="time"><strong>[01:25:02]</strong> </span>
-<span class="speaker"><strong>发言人1: </strong></span>
-回头来看这家公司，我觉得是非常幸运的。就是14年成立手游报的第一年，然后他们的第一款产品是给了网易。网易在那个时候迫切的想进游戏手游战场？然后第二个游戏赤潮给了用户娱，把用户鱼又赶上一波用户娱的资本故事？然后因为赤朝敕晁做完之后自走棋火了，他们做了自走棋又赶上了朝夕光年的方面，超级光年那个时候就想要大DAU的，要成熟IP的产品对吧？
-</p>
-<p class="transcript-line">
-<span class="time"><strong>[01:25:35]</strong> </span>
-<span class="speaker"><strong>发言人1: </strong></span>
-没有产品，然后赶上了这几波，然后积累了钱，然后开始做18年立项做黑深化，20年PV爆掉，就赶上刚才我说那一波投资热潮对吧？然后腾讯就来了，然后就给了足够的钱。给完钱之后，你知道那那笔钱首先很大，然后估值定的非常高。理论上说他应该在某一段时间要为这件事情交代。但是行业突然间冷了，突然间急转直下，让所有人对这件事情的预期打的抄底，对吧？我我我没有想过说？你要反过来，如果是那个时间点延续的话，他就他那个限制就被拉的太高。
-</p>
-<p class="transcript-line">
-<span class="time"><strong>[01:26:16]</strong> </span>
-<span class="speaker"><strong>发言人1: </strong></span>
-对对对，但是行业端掉下来了，然后腾讯又是一个本身来讲这些钱虽然很多，但对于腾讯来讲又不是什么特别多的钱，对吧？他他就会他的心态就变了，所以他就有更长的耐心，更多的空间跟更多的团队的带宽去处理那些应该处理的事情，不需要处理这些不应该处理的事情。所以给了这样一个周期，然后又赶到这个尖扎回来。这一路走来真的是幸运，真的挺幸运。
-</p>
-<p class="transcript-line">
-<span class="time"><strong>[01:26:49]</strong> </span>
-<span class="speaker"><strong>发言人4: </strong></span>
-时来天地齐立。你你就你感觉很多事情都在帮助他们。
-</p>
-<p class="transcript-line">
-<span class="time"><strong>[01:26:56]</strong> </span>
-<span class="speaker"><strong>发言人1: </strong></span>
-帮他。对，是的。所以当然了就是我觉得时间差不多了一个半小时，然后这个看有什么最后想说的什么方面都可以。游戏本身行业对这个团队，对期待甚至是冷血的都行。
-</p>
-<p class="transcript-line">
-<span class="time"><strong>[01:27:18]</strong> </span>
-<span class="speaker"><strong>发言人3: </strong></span>
-我问一下，他那个三部曲是是是实锤的吗？就是悟空，然后姜子牙和小倩是吧？
-</p>
-<p class="transcript-line">
-<span class="time"><strong>[01:27:28]</strong> </span>
-<span class="speaker"><strong>发言人4: </strong></span>
-我不确定是实锤的是什么东西，但是他谈过实际上黑神话是一个系列。
-</p>
-<p class="transcript-line">
-<span class="time"><strong>[01:27:34]</strong> </span>
-<span class="speaker"><strong>发言人3: </strong></span>
-对对对，这个我就我我们是看他的那个注册，对，商标去看的对，但他注册了没有人说。但也有人说它是一个偏防御性，保护性的对。
-</p>
-<p class="transcript-line">
-<span class="time"><strong>[01:27:45]</strong> </span>
-<span class="speaker"><strong>发言人4: </strong></span>
-有可能是一个保护性的东西。但实际上就是黑神话肯定是一个是一个系列，但是我不确定他们比如说是不是有在差别的，或者是整体的那个计划是什么样子的，这个不太知道。对。
-</p>
-<p class="transcript-line">
-<span class="time"><strong>[01:27:59]</strong> </span>
-<span class="speaker"><strong>发言人1: </strong></span>
-OKOK而且再开一条新的管线，我觉得还是一个挺大的挑战。
-</p>
-<p class="transcript-line">
-<span class="time"><strong>[01:28:07]</strong> </span>
-<span class="speaker"><strong>发言人4: </strong></span>
-他们现在一共才130多个人。对，是啊，就是现在现在我觉得他们都忙着改bug.
-</p>
-<p class="transcript-line">
-<span class="time"><strong>[01:28:13]</strong> </span>
-<span class="speaker"><strong>发言人1: </strong></span>
-根本然后你想他还有他马上他得准备DLC，对吧？他得准备这些，你想让他再开一个，我觉得难度有点大对。
-</p>
-<p class="transcript-line">
-<span class="time"><strong>[01:28:21]</strong> </span>
-<span class="speaker"><strong>发言人4: </strong></span>
-但是所有这些东西反正就都会变成他们的这个他们当时也谈过，就出来一个再做出来一个，这些都是他们的技术壁垒。对，所有这些经验这套东西，所以对做出来一个他们未来，他就比其他的没有这套东西，没跑过这套流程，没有这些东西的这个公司强太多了。
-</p>
-<p class="transcript-line">
-<span class="time"><strong>[01:28:43]</strong> </span>
-<span class="speaker"><strong>发言人1: </strong></span>
-这个是确实的。是的。
-</p>
-<p class="transcript-line">
-<span class="time"><strong>[01:28:47]</strong> </span>
-<span class="speaker"><strong>发言人4: </strong></span>
-为什么回归到一句话吗？
-</p>
-<p class="transcript-line">
-<span class="time"><strong>[01:28:49]</strong> </span>
-<span class="speaker"><strong>发言人1: </strong></span>
-对，或者随便都行。因为反正我们时间差不多就是闲聊，我希望想表达什么，我没聊到什么，想了想表达什么都行。
-</p>
-<p class="transcript-line">
-<span class="time"><strong>[01:29:00]</strong> </span>
-<span class="speaker"><strong>发言人4: </strong></span>
-对，文化产业自由发展你。
-</p>
-<p class="transcript-line">
-<span class="time"><strong>[01:29:06]</strong> </span>
-<span class="speaker"><strong>发言人1: </strong></span>
-为什么最后利益变得力量？
-</p>
-<p class="transcript-line">
-<span class="time"><strong>[01:29:07]</strong> </span>
-<span class="speaker"><strong>发言人4: </strong></span>
-这里就一直在想，对吧？就可以可以。
-</p>
-<p class="transcript-line">
-<span class="time"><strong>[01:29:13]</strong> </span>
-<span class="speaker"><strong>发言人1: </strong></span>
-可以。
-</p>
-<p class="transcript-line">
-<span class="time"><strong>[01:29:14]</strong> </span>
-<span class="speaker"><strong>发言人4: </strong></span>
-百家争鸣多么好，可以可以。
-</p>
-<p class="transcript-line">
-<span class="time"><strong>[01:29:18]</strong> </span>
-<span class="speaker"><strong>发言人1: </strong></span>
-来了。
-</p>
-<p class="transcript-line">
-<span class="time"><strong>[01:29:21]</strong> </span>
-<span class="speaker"><strong>发言人3: </strong></span>
-我刚还在想张楚有一首歌，那歌名就叫上帝保佑吃饱了饭的人民。自由就是我还是想吃点好的，游戏玩家想吃点好的，这是一个非常殷切和迫切的一个愿望。尤其是你把这个吃点好的再打个加上一个前缀，就是国产的。就是我们有有自己吃点好的，我们吃洋快餐，吃的西餐，吃的太多了，对吧？也不是说不好，确实好好的也好。像今天有的话，第二次我觉得也挺好的。是啊，但是我觉得从关键我觉得我小时候玩那个仙剑奇侠传的系列，其实玩的也挺开心的，去玩玩就很神秘。
-</p>
-<p class="transcript-line">
-<span class="time"><strong>[01:30:00]</strong> </span>
-<span class="speaker"><strong>发言人4: </strong></span>
-真的很神秘。就是我时间可以超吗？
-</p>
-<p class="transcript-line">
-<span class="time"><strong>[01:30:05]</strong> </span>
-<span class="speaker"><strong>发言人1: </strong></span>
-比如说可以，没关系，随便。
-</p>
-<p class="transcript-line">
-<span class="time"><strong>[01:30:07]</strong> </span>
-<span class="speaker"><strong>发言人4: </strong></span>
-就是我从小当然都是盗版的，美国的电影，日本的动画对吧？这几大强国伺候着我一个人就从小就是看这些东西长大的。所以理论上来说，我一直以为自己应该是一个相对来说全球化文化没有那么抵触的人。
-</p>
-<p class="transcript-line">
-<span class="time"><strong>[01:30:28]</strong> </span>
-<span class="speaker"><strong>发言人4: </strong></span>
-事实上可能我也是，比如说星战、魔戒，再往小众一点的话，DND的那一套东西什么之类的我都熟，我也喜欢，甚至有的时候还写过他们的同人作品。但是真的到某一个年龄节点之后，我就会忽然发现有一些东西我天然的就比其他的东西更有热情，或者说更能融入。我也不知道为什么，但感觉到像刚才兰大说的，吃点好的中国的东西。就是你你一听以前我也嗤之以鼻，汉堡怎么了？对吧？披萨我也很喜欢，没有好坏。但这个里头其实不涉及好坏的问题，就是我真的适合某一种东西。很奇怪，虽然听起来我有时候总觉得好像一个特别偏激的民族主义者一样，但是坦率的说就是有些东西我真的跟他更有共鸣。
-</p>
-<p class="transcript-line">
-<span class="time"><strong>[01:31:23]</strong> </span>
-<span class="speaker"><strong>发言人4: </strong></span>
-我以前写小说，我一直写小说，以前高中的时候，小说里的主角叫史密斯霍皮特什么之类的。到了某一个时间节点之后，开始给他们起中文名。老张老王不是特别顺，我也不知道为什么。
-</p>
-<p class="transcript-line">
-<span class="time"><strong>[01:31:39]</strong> </span>
-<span class="speaker"><strong>发言人1: </strong></span>
-你是刻在骨子里的东西。我觉得。
-</p>
-<p class="transcript-line">
-<span class="time"><strong>[01:31:41]</strong> </span>
-<span class="speaker"><strong>发言人3: </strong></span>
-今年其实抖音有很多网红就是讲的那个是主推的赛道，就是讲文化题材。比如讲杜甫，讲红楼，讲什么山海经，讲这个东西，抖音上出了很多这种类似说书的和或怎么样。其实我会发现就它的主要的市场其实也是虽然说是年轻人，但是他其实中年人的比例很很高就大家我觉得是有一个点，有一个共同点，就是到了一定程度之后，它有一定的返璞归真的一个一种一一种一种基因的密码在里边。就是突然会发现你还是回到你发现自己并没有读懂。我们读过西游记没有读懂，我们读过很多的中国历史上的文化或者战争之类的东西，发现现在还有很多新意。我发现我还是想回头把这个东西搞懂了之后，我才会发现一些新的电梯，它同时也是我们自己的一个舒适区。我觉得总有这样一个你确实觉得确实太舒适了，真的对回调的一个形式。
-</p>
-<p class="transcript-line">
-<span class="time"><strong>[01:32:43]</strong> </span>
-<span class="speaker"><strong>发言人3: </strong></span>
-然后包括像昨天，我之前看之前发一些作品，发一发一些帖子，有一个就是35岁到40岁之间，人他最大的一个改变是什么？我发现很多人会说一个话题，就是我不在意世俗的眼光了，就是我终于可以想做我自己想做的人。可能说我们在年轻的时候会说这个东西很时尚，这边很时髦，或者大家都在看这个东西，我必须去看一下。但是到了有一定能力之后，你会发现，去你妈的，我就想看我爱看的，你这个管管你怎么说。
-</p>
-<p class="transcript-line">
-<span class="time"><strong>[01:33:16]</strong> </span>
-<span class="speaker"><strong>发言人3: </strong></span>
-那这部分我就可能就我们以前会觉得这个东西很老旧，可能我已经翻烂了。我从小到大我翻把把这个连环册的翻烂了。我的第一本西游不是看的央视的，我是小时候看的那个连连环画连对，就那一个办法，这里面省了很多东西，但是我看的很津津有味。然后再看西游记，看我以前会觉得西游记这方面好像已经非常的落后了，甚至有一种六小龄童老师的感觉，改编不是胡编的，会有一种这个情况。现在我就想老我就想看湖边，我就想看大家还能够发挥出什么东西来。这种愉悦度，这种颅内的愉悦度其实非常高。
-</p>
-<p class="transcript-line">
-<span class="time"><strong>[01:33:54]</strong> </span>
-<span class="speaker"><strong>发言人4: </strong></span>
-的对对对对对，鲁队确实超宇。
-</p>
-<p class="transcript-line">
-<span class="time"><strong>[01:33:59]</strong> </span>
-<span class="speaker"><strong>发言人1: </strong></span>
-就是我最近经常感受这个中年男人的眼泪真太不值钱了。就是我去的那个新华社的采访30分钟，我哭了三回是吧？我那天中午是我去办一个什么事情，然后打车回到办公室，我上车开始看，正好到地方看完，就在出租车的后座，我就完整看了这个30分钟的曹操，哭三回，你也不知道哪来的这个情绪跟这个共情，跟这个东西就出来了。而且没有任何的假装或者没有任何的什么，你就是看到那些平时的表达跟的共情对吧？或者说你也知道他在他说这句话的时候，他为什么会停顿，为什么会沉默的几秒来去想组织的语言对吧？这些东西真的是包括上一次有这么大钱的感受，是那个鸟山明先生去世，然后也是播客的一个主播，就大内的杨凯去讲述这件事情的这个过程，对吧？他去重新回顾梁瑞明先生的这些作品，包括龙珠、阿拉蕾，然后就是你听的过程中，就是那些其实都是开心的事情，但你就是忍不住的泪水的表达就突然间出现，然后你就想起了很多这些东西。所以就是可能真的年纪到了，我觉得。
-</p>
-<p class="transcript-line">
-<span class="time"><strong>[01:35:23]</strong> </span>
-<span class="speaker"><strong>发言人4: </strong></span>
-对我插一句，我同事刚告诉我黑神话现在同时在线人数是230万。哥是昨天晚上高了呗，10万百万对比昨天晚上还高。
-</p>
-<p class="transcript-line">
-<span class="time"><strong>[01:35:34]</strong> </span>
-<span class="speaker"><strong>发言人1: </strong></span>
-对，看这周五，我觉得没准是一个还能。
-</p>
-<p class="transcript-line">
-<span class="time"><strong>[01:35:38]</strong> </span>
-<span class="speaker"><strong>发言人4: </strong></span>
-再创新高吗？理论上来说，我们都以为昨天应该是最高的了。
-</p>
-<p class="transcript-line">
-<span class="time"><strong>[01:35:41]</strong> </span>
-<span class="speaker"><strong>发言人1: </strong></span>
-对，理论上对，默认应该昨天是最那什么的。
-</p>
-<p class="transcript-line">
-<span class="time"><strong>[01:35:45]</strong> </span>
-<span class="speaker"><strong>发言人4: </strong></span>
-对吧？现在北京时间晚上21点36，231万，这还少20.
-</p>
-<p class="transcript-line">
-<span class="time"><strong>[01:35:50]</strong> </span>
-<span class="speaker"><strong>发言人3: </strong></span>
-这不还少三个人吗？对吧？三个人连麦完了再加一下。
-</p>
-<p class="transcript-line">
-<span class="time"><strong>[01:35:55]</strong> </span>
-<span class="speaker"><strong>发言人4: </strong></span>
-对对对，就很很吓人的一个数字，真是想想这么一个工作室，一个新游戏全球第二，单机游戏第一，什么概念？
-</p>
-<p class="transcript-line">
-<span class="time"><strong>[01:36:08]</strong> </span>
-<span class="speaker"><strong>发言人2: </strong></span>
-还是个。
-</p>
-<p class="transcript-line">
-<span class="time"><strong>[01:36:09]</strong> </span>
-<span class="speaker"><strong>发言人4: </strong></span>
-动作游戏，靠不是话说看。
-</p>
-<p class="transcript-line">
-<span class="time"><strong>[01:36:13]</strong> </span>
-<span class="speaker"><strong>发言人1: </strong></span>
-对不能联机对吧？虽然传说已经留了联机的口子，对吧？
-</p>
-<p class="transcript-line">
-<span class="time"><strong>[01:36:20]</strong> </span>
-<span class="speaker"><strong>发言人4: </strong></span>
-对对对，玩家操作还有要求，对，玩家机器还有要求，231万可怕。
-</p>
-<p class="transcript-line">
-<span class="time"><strong>[01:36:31]</strong> </span>
-<span class="speaker"><strong>发言人1: </strong></span>
-不说steam现在最大的那个已经是中文了吗？30%几了，应该是可能。
-</p>
-<p class="transcript-line">
-<span class="time"><strong>[01:36:37]</strong> </span>
-<span class="speaker"><strong>发言人4: </strong></span>
-是这样，反正我也偷看了好多过场飞机什么之类的在流泪。
-</p>
-<p class="transcript-line">
-<span class="time"><strong>[01:36:45]</strong> </span>
-<span class="speaker"><strong>发言人1: </strong></span>
-确实我也昨天晚上看完了，我昨晚上半夜看完了，他一边跟一边看，再让我看完第五章，他更了第六章。这看完真的，当然是这个传说，今天又更了，有新的不一样的结局，好几套应该。
-</p>
-<p class="transcript-line">
-<span class="time"><strong>[01:37:00]</strong> </span>
-<span class="speaker"><strong>发言人4: </strong></span>
-是确定吗？
-</p>
-<p class="transcript-line">
-<span class="time"><strong>[01:37:02]</strong> </span>
-<span class="speaker"><strong>发言人3: </strong></span>
-你还没，我看着就一周末的结局好像还挺伤的。他最近一直在猜，会不会有觉得你没有打那个二郎神，所以大家会觉得肯定会有多结局。
-</p>
-<p class="transcript-line">
-<span class="time"><strong>[01:37:13]</strong> </span>
-<span class="speaker"><strong>发言人4: </strong></span>
-去看看那，当然了你自己玩吧，对吧？如果你你觉得自己可能玩不到那儿的话，那就去看一看。如果如果一周目你看到的那个表现效果是十的话，二周目可能是400到600。
-</p>
-<p class="transcript-line">
-<span class="time"><strong>[01:37:31]</strong> </span>
-<span class="speaker"><strong>发言人1: </strong></span>
-就是我先就这个递进的这个包括地图的大小对吧？难度阴间程度真的是这个曲线拉的还是挺厉害的，我觉得。虽然他们在这个初期确实设定了很多已经是降门槛跟给大家更多的友好的这个东西了。但是还是团队还是很坏的。我去是是是。
-</p>
-<p class="transcript-line">
-<span class="time"><strong>[01:37:56]</strong> </span>
-<span class="speaker"><strong>发言人4: </strong></span>
-是是是。
-</p>
-<p class="transcript-line">
-<span class="time"><strong>[01:38:03]</strong> </span>
-<span class="speaker"><strong>发言人1: </strong></span>
-哎。
-</p>
-<p class="transcript-line">
-<span class="time"><strong>[01:38:07]</strong> </span>
-<span class="speaker"><strong>发言人4: </strong></span>
-所以。
-</p>
-<p class="transcript-line">
-<span class="time"><strong>[01:38:07]</strong> </span>
-<span class="speaker"><strong>发言人1: </strong></span>
-我们。
-</p>
-<p class="transcript-line">
-<span class="time"><strong>[01:38:08]</strong> </span>
-<span class="speaker"><strong>发言人4: </strong></span>
-就先互喷到这里。
-</p>
-<p class="transcript-line">
-<span class="time"><strong>[01:38:11]</strong> </span>
-<span class="speaker"><strong>发言人1: </strong></span>
-还是什么？
-</p>
-<p class="transcript-line">
-<span class="time"><strong>[01:38:13]</strong> </span>
-<span class="speaker"><strong>发言人4: </strong></span>
-行，我看你们也都要去玩游戏。
-</p>
-<p class="transcript-line">
-<span class="time"><strong>[01:38:16]</strong> </span>
-<span class="speaker"><strong>发言人3: </strong></span>
-对，看游戏去吧。
-</p>
-<p class="transcript-line">
-<span class="time"><strong>[01:38:17]</strong> </span>
-<span class="speaker"><strong>发言人1: </strong></span>
-去直面天命了。行好，感谢OK朱老师，感谢蓝大，感谢在直播间的朋友。我们听我们三个中年男油腻男的瞎白活了快2个小时。对。
-</p>
-<p class="transcript-line">
-<span class="time"><strong>[01:38:33]</strong> </span>
-<span class="speaker"><strong>发言人3: </strong></span>
-行，那也推荐各位观众没有那个犹豫的，还赶紧去爽一下。真的很爽，真的很爽，这个不需要犹豫了。
-</p>
-<p class="transcript-line">
-<span class="time"><strong>[01:38:42]</strong> </span>
-<span class="speaker"><strong>发言人4: </strong></span>
-真的很爽，真的很爽。
-</p>
-<p class="transcript-line">
-<span class="time"><strong>[01:38:45]</strong> </span>
-<span class="speaker"><strong>发言人1: </strong></span>
-那行，先这样。
-</p>
-<p class="transcript-line">
-<span class="time"><strong>[01:38:47]</strong> </span>
-<span class="speaker"><strong>发言人3: </strong></span>
-拜拜，晚安晚安晚安。
-</p>]]></content:encoded>
-            <pubDate>Thu, 22 Aug 2024 12:58:35 GMT</pubDate>
-            <guid>66c735fc7ae3d6d8d26dbe6e</guid>
         </item>
     </channel>
 </rss>
