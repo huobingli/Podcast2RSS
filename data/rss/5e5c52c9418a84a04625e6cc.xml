@@ -4,7 +4,1119 @@
         <title>硅谷101</title>
         <link>https://www.xiaoyuzhoufm.com/podcast/5e5c52c9418a84a04625e6cc</link>
         <description>分享当下最新鲜的技术、知识与思想</description>
-        <lastBuildDate>Fri, 02 May 2025 17:49:45 +0800</lastBuildDate>
+        <lastBuildDate>Fri, 16 May 2025 17:50:49 +0800</lastBuildDate>
+        <item>
+            <title>E191｜小而美的机会来了，聊聊这轮AI Agent进化新范式</title>
+            <link>https://www.xiaoyuzhoufm.com/episode/68268151d231129fe37b2503</link>
+            <description>进入2025年，AI Agent仿佛按下了加速键：从OpenAI推出自助浏览器Operator，到Manus爆火出圈并获7500万美元融资。究竟是什么引爆了这轮AI Agent的热潮？
+代码能力的提升为AI Agent的奠定了基础，RFT（强化学习微调）带来了大模型的“AlphaGo”时刻，嘉宾甚至都感叹“时代变了，开发产品成本低得有点恐怖”。但通用AI Agent是否真的是未来？数据壁垒、用户认知成本以及网络效应的缺失，都可能成为其发展的桎梏。 或许，更具前景的是那些深耕垂直领域的“小而美”的Agent？本期节目，我们将一同探讨AI Agent的核心技术、热门产品体验、创业机会与挑战，以及AI Agent的未来将走向何方？
+【主播】
+泓君Jane，硅谷101创始人，播客主理人
+【嘉宾】
+陶芳波，MindVerse心识宇宙创始人
+侯泰羽（Kolento Hou），纽约大学本科应用心理学，AI产品经理
+【你将听到】
+RFT推动的Agent热潮
+00:05 AI Agent进展大事件以及爆发三大核心原因
+04:55 机器学习视角下的Agent进化
+06:36 RFT（强化学习微调）技术促使Agent在2025年具有智能
+08:10 大语言模型的AlphaGo时刻：不仅具有思考能力，还根据环境反馈调整学习
+11:04 过去半年新趋势：Agent在环境中完成任务
+14:27 OpenAI Operator买菜的体验：速度慢、准确率不高
+17:32 内化工作流：新一代Agent能做出临场反应
+20:55 创造虚拟环境：Scrapybara帮我买秋裤
+22:39 Cursor与Windsurf编程Agent为何出圈？
+26:11 AI创业门槛降低，可以做平台上那些小而美的Agent
+Manus
+32:53 Manus搜集信息量大但质量低，适合广度而非深度工作
+38:05 Agent爆火背后的秘密：Sonnet 3.5代码质量的提升
+40:57 比训练更重要？Evaluation的三代进化
+44:02 SFT更便宜，RFT效果更优，行业会如何选择？
+45:41 Manus的三大困境：通用性的双刃剑；认知启动成本高；网络效应断裂
+垂类AI Agent推荐
+48:45 在关键场景请求人类对齐：Replit和Fellou的优秀交互体验
+50:13 最看好Cursor，有成为通用Agent的潜力
+52:25 Vantel：每周帮保险经纪人省10小时的保险垂类Agent
+53:29 Sweetspot：换了八九个邮箱也要用的，辅助申请资助类Agent
+54:23 Gamma：秒杀Canva的PPT设计类Agent
+行业快与慢
+57:48 做的200多个Agent中，商业化成功的案例
+59:20 “越做发现问题越多”：离普通人每天使用Agent仍有距离
+1:00:39 MCP的生态建设需以年为单位
+【相关名词解释】
+RFT：Reinforcement Fine-Tuning，强化学习微调
+SFT：Supervised Fine-Tuning，监督学习微调
+MCP：Model Communication Protocol，模型通信协议
+【监制】
+泓君
+【后期】
+AMEI
+【运营】
+孙泽平、Meisi、王梓沁
+【BGM】
+Anticipating a New Day - Stationary Sign
+City Phases STEMS INSTRUMENTS - John Abbot
+Hidden Agenda
+Clockmaker&#x27;s Daydream - 369
+【在这里找到我们】
+公众号：硅谷101
+收听渠道：Apple Podcast｜Spotify｜小宇宙｜喜马拉雅｜蜻蜓FM｜网易云音乐｜QQ音乐
+其他平台：YouTube｜Bilibili 搜索「硅谷101播客」
+联系我们：podcast@sv101.net
+Special Guests: 侯泰羽 and 陶芳波.</description>
+            <content:encoded><![CDATA[<h1>转写链接</h1>
+<link>https://tongyi.aliyun.com/efficiency/doc/transcripts/dej8nbpzwp5x9pog</link><br>
+<h1>节目摘要</h1>
+<div class="summary">本次讨论回顾了2025年上半段AI agent领域的显著进展，特别提到了OpenAI的Operator和Research Agent，以及中国AI agent Minos的突破。讨论着重于技术进步，如模型写代码能力的提升和RFT强化学习微调技术的作用，同时考虑了AI agent发展面临的挑战与机遇，及其对工作与生活方式的潜在影响。强调了评估AI产品质量的重要性及未来发展策略，和利用AI解决特定问题的可能。讨论还涉及了MCP协议在多智能体协作中的应用，指出其尚不完善，需生态系统支持；并探讨了AI如何更准确捕捉人类需求，开源项目面临的挑战，以及数据隐私和商业化保障的行业难题。未来节目将深入探讨AI agent的使用体验。</div><br>
+<h1>章节速览</h1>
+<div class="chapters">
+<div class="chapter-item">
+<span class="time"><strong>[00:00:00]</strong> </span>
+<span class="chapter-title"><strong>2025年AI agent的快速发展及关键技术</strong></span>
+<div class="chapter-summary">对话讨论了2025年以来AI agent领域的显著进展，包括OpenAI推出的自主浏览器使用AI agent Operator，以及中国首个通用AI agent Minos的爆火和融资情况。分析了AI agent加速发展的三个关键原因：模型写代码能力的提升、RFT强化学习微调技术的出现，以及MCP协议的推广。同时，探讨了明星AI agent崛起的核心技术点。</div>
+</div>
+<div class="chapter-item">
+<span class="time"><strong>[00:02:31]</strong> </span>
+<span class="chapter-title"><strong>AI Agent的开发与应用探索</strong></span>
+<div class="chapter-summary">对话中讨论了AI Agent在日常生活和工作中的应用，包括编程、产品开发以及播客内容生成等方面。参与者分享了自己在AI Agent开发上的经验，提及了创建的多个AI Agent以及致力于开发AI Agent平台的创业项目，强调了AI Agent时代即将到来，各种基础设施和组件正逐步完善，预示着一个由AI Agent组成的新世界的形成。</div>
+</div>
+<div class="chapter-item">
+<span class="time"><strong>[00:04:50]</strong> </span>
+<span class="chapter-title"><strong>机器学习视角下的agent概念与演化</strong></span>
+<div class="chapter-summary">在机器学习领域，特别是强化学习中，agent被定义为能基于环境反馈自主学习行动策略以达成目标的实体。随着大语言模型的发展，agent的概念被进一步泛化，不仅需要能够独立完成任务，还应具备记忆体系、推理能力以及与用户的交互界面。近年来，agent技术融合了强化学习和大语言模型，通过强化学习微调等技术，使得agent能在特定领域自主学习和探索，从而更智能地解决复杂问题，展现了将技术与实际应用相结合的新趋势。</div>
+</div>
+<div class="chapter-item">
+<span class="time"><strong>[00:07:42]</strong> </span>
+<span class="chapter-title"><strong>大语言模型与环境互动能力的进化</strong></span>
+<div class="chapter-summary">对话探讨了从强化学习中的agent到大语言模型在环境互动能力上的进化。早期的agent在游戏场景中展现出智能，但主要局限在预设环境中。随着技术的发展，尤其是结合了强化学习和操作电脑的能力，大语言模型开始能够在更广泛的环境中自主学习和调整策略。这种变化标志着大语言模型不再是简单的对话工具，而是能够根据环境反馈自我提升的智能体，预示着agent技术的显著进步和广泛应用的可能性。</div>
+</div>
+<div class="chapter-item">
+<span class="time"><strong>[00:12:25]</strong> </span>
+<span class="chapter-title"><strong>环境对AI代理任务执行的影响</strong></span>
+<div class="chapter-summary">对话中探讨了环境在AI代理任务执行中的重要性，通过编程、法律、医疗等领域为例，说明在特定的系统和工具环境下，AI代理需要被专门训练以适应并完成任务。强调了专家级任务需要有特定的方法论和工具集，这构成了AI代理操作的环境，进而影响其执行任务的有效性和适应性。</div>
+</div>
+<div class="chapter-item">
+<span class="time"><strong>[00:14:26]</strong> </span>
+<span class="chapter-title"><strong>使用OpenAI Operator进行日常任务的体验与技术分析</strong></span>
+<div class="chapter-summary">对话中讨论了使用OpenAI的Operator模型完成订机票、买菜等日常任务的体验。Operator通过在服务器端开启浏览器界面，根据用户指令在多个网站上搜索并比较价格，从而完成任务。尽管其速度较慢且准确率有待提高，但通过融合强化学习和大语言模型的微调技术，Operator的表现优于直接使用GPT4或原始的OE模型。此外，还提到了OpenAI推出的另一个基于相同技术的模型deep research。</div>
+</div>
+<div class="chapter-item">
+<span class="time"><strong>[00:15:37]</strong> </span>
+<span class="chapter-title"><strong>强化学习在动态思考和行为执行中的应用</strong></span>
+<div class="chapter-summary">讨论了一种利用强化学习改进操作电脑任务执行的方法。该方法将复杂任务分解为点击鼠标、键盘输入等简单行为，通过微调强化学习模型，将这些基本行为融入思考过程，实现动态组合和灵活反应。与传统基于大模型的agent相比，这种方法能够根据环境反馈调整行动，形成思考、执行、反馈、再思考的连续环节，从而提高智能体的灵活性和智能程度。例如，当检索信息与预期不符时，智能体能够自主进行冲突解决或重新检索，展现了更接近人类的智能行为。</div>
+</div>
+<div class="chapter-item">
+<span class="time"><strong>[00:17:22]</strong> </span>
+<span class="chapter-title"><strong>OpenAI Operator与传统Agent在电商订菜任务中的智能性差异</strong></span>
+<div class="chapter-summary">对话讨论了OpenAI的Operator与传统Agent在执行电商订菜任务时的智能性差异。传统Agent需要明确的步骤指导，其操作流程与环境无关，更像是手把手教学。而OpenAI的Operator通过强化学习，能够灵活生成完成任务的框架，而非遵循固定的步骤指南。这种智能性使得Operator在面对动态变化时，如网站故障，能够自主调整策略，表现出更高的灵活性和适应性，类似于人类的自然反应能力。</div>
+</div>
+<div class="chapter-item">
+<span class="time"><strong>[00:19:33]</strong> </span>
+<span class="chapter-title"><strong>Deep Research与Operator AI Agent的技术差异与RFT训练方法</strong></span>
+<div class="chapter-summary">讨论了Deep Research和Operator两种AI agent在底层技术和操作集上的区别，其中Deep Research专注于公开信息检索，而Operator则侧重于电脑技术操作。两者都使用了RFT（强化学习的fine tuning）技术进行训练。此外，提到了一个名为ScrapyBara的工具，它为AI agent提供了一个安全、可拓展的环境，以克服现有解决方案如API和浏览器的局限性。</div>
+</div>
+<div class="chapter-item">
+<span class="time"><strong>[00:21:41]</strong> </span>
+<span class="chapter-title"><strong>Scrappy Barrel的虚拟环境与编程Agent创新</strong></span>
+<div class="chapter-summary">讨论了Scrappy Barrel提供的一种即时安全的虚拟环境，该环境允许用户通过API快速启动，特别提到了其在销售开发代表查找潜在客户信息的应用场景。进一步探讨了Scrappy Barrel如何为Agent创造虚拟桌面，使所有操作都能在该平台上完成。同时，分析了Scrappy Barrel与市场上其他编程工具和Agent的区别，尤其是与Copilot、Cursor和David等公司的比较，探讨了其成功的原因是否在于对环境的深度理解和市场占有的速度。</div>
+</div>
+<div class="chapter-item">
+<span class="time"><strong>[00:23:06]</strong> </span>
+<span class="chapter-title"><strong>环境理解：AI编程助手的未来与发展</strong></span>
+<div class="chapter-summary">对话深入探讨了Winsor和Curse等编程助手在环境理解方面的优势，特别是Winsor通过Context Engine清晰地理解代码空间、数据、测试和配置的位置，以及其扩展功能如执行命令行操作和互联网搜索。David则进一步将IDE环境扩大，实现软件工程的闭环，甚至加入了笔记环境以优化系统设计。这些进步表明，对于环境的深入理解使得AI编程助手在4.2万亿美元的全球软件工程市场中占据领先地位。此外，对话还指出，随着环境理解变得比数据更重要，构建AI代理的门槛降低，为个人和小型创业者提供了更多机会，不再局限于大公司。</div>
+</div>
+<div class="chapter-item">
+<span class="time"><strong>[00:26:40]</strong> </span>
+<span class="chapter-title"><strong>AI Agent创业的挑战与个体机会</strong></span>
+<div class="chapter-summary">对话探讨了AI agent在减少数据依赖和算力投入方面的优势，但对消费者端（C端）的AI agent创业持怀疑态度，担忧其被大型模型和公司占据市场空间，导致创业机会减少。指出在AI网络形成后，可能会释放新的个体机会，如同移动互联网时代自媒体和网红利用平台表达个体性，进行小而美的创业。</div>
+</div>
+<div class="chapter-item">
+<span class="time"><strong>[00:29:45]</strong> </span>
+<span class="chapter-title"><strong>Minus AI Agent的产品体验与应用场景探讨</strong></span>
+<div class="chapter-summary">在行业快速发展的背景下，讨论了Minus AI Agent的最新融资情况及估值，同时也深入探讨了Minus在实际使用中的用户体验。使用者分享了对Minus产品的初次印象，包括其界面设计的美观以及与类似产品如ChatGPT、OpenAI在功能和用户体验上的差异。特别提到Minus在记忆功能和交互上的独特之处，以及在进行广度研究，如快速了解新领域和生成交互式网站方面的应用。此外，还对比了不同AI工具在执行任务前对齐用户需求的能力，强调了AI与人类交互时对齐的重要性。</div>
+</div>
+<div class="chapter-item">
+<span class="time"><strong>[00:33:47]</strong> </span>
+<span class="chapter-title"><strong>Minus与Deep Research的对比与AI代理的未来</strong></span>
+<div class="chapter-summary">对话中比较了Minus和Deep Research两种AI工具的使用体验，指出Minus在透明度、可打断性以及交互性方面的优势，尤其是在网页浏览和信息研究方面更为灵活和直观。同时讨论了AI代理在通用性方面的限制，认为数据壁垒是当前的主要挑战，影响了AI在不同环境和应用中的渗透能力。此外，提及了大模型能力的提升对AI代理产品成功的关键作用，强调了模型能力、工程能力和数据壁垒对AI代理发展的重要性。</div>
+</div>
+<div class="chapter-item">
+<span class="time"><strong>[00:37:21]</strong> </span>
+<span class="chapter-title"><strong>大模型升级对AI Coding Agent的影响及评价机制的重要性</strong></span>
+<div class="chapter-summary">讨论集中在AI Coding Agent，如Copilot，如何因底层模型能力的提升而展现出更强的编码能力，特别是Sonnet模型在解决编码问题上的突破。同时，强调了评价机制（evaluation）在AI产品持续迭代和质量保证中的核心作用，提出将evaluation视为产品框架的一部分，通过构建通用的评价模板库来适应不同场景，以提升AI agent在复杂环境中的表现和竞争力。</div>
+</div>
+<div class="chapter-item">
+<span class="time"><strong>[00:43:57]</strong> </span>
+<span class="chapter-title"><strong>RFT与SFT在AI Agent微调中的成本与效果权衡</strong></span>
+<div class="chapter-summary">对话围绕RFT（强化学习微调）和SFT（监督微调）在AI Agent技术中的应用及其成本和效果进行了深入讨论。RFT虽效果更佳，但成本可能数倍于SFT，引发了对于是否为25%的效果提升付出更多成本的考量。此外，还提到了使用SFT可能节省成本的原因，以及RFT技术的发布较新，导致一些团队如minus选择SFT进行微调。进一步讨论了AI Agent产品面临的困境，包括认知启动成本高、用户心智定位双刃剑效应，以及网络效应的断裂等问题。最后，提出了一种策略，即通过社区引导的方式深入了解用户需求，将通用定位逐步转化为更垂直的应用场景，以避免历史上的产品失败案例。</div>
+</div>
+<div class="chapter-item">
+<span class="time"><strong>[00:48:39]</strong> </span>
+<span class="chapter-title"><strong>AI Agent的表达与商业前景探讨</strong></span>
+<div class="chapter-summary">对话聚焦于AI agent的表达方式和交互体验，讨论了包括Ripple和Fellow在内的多个产品在用户交互、高危操作处理和商业前景方面的表现。提到了Fellow在任务执行前的可视化对齐和系统级权限操作的处理方式，以及Ripple在某些场景下缺乏对齐和权限导致的问题。此外，对话还探讨了当前市场上全人群全通用场景的AI产品尚不存在，但看好从特定角度切入的公司，如从技术人员角度切入的Cursor，以及从办公场景切入的Manner，强调通用AI代理的建设需要长期持续的积累。</div>
+</div>
+<div class="chapter-item">
+<span class="time"><strong>[00:52:36]</strong> </span>
+<span class="chapter-title"><strong>人工智能在商业保险和PPT设计中的创新应用</strong></span>
+<div class="chapter-summary">对话讨论了多个具有前景的人工智能应用，包括针对商业保险经纪人的自动化软件mental VANTEL，以及AI设计软件gamma GAMMA，后者能自动创建和设计PPT，大幅提高工作效率。此外，还提到了Sweet Spot AI，该平台通过AI帮助全球的商业机构和非营利组织申请联邦补助金，进行合同解读和招投标分析。这些创新应用展示了AI在特定垂直领域的巨大潜力和高效性。</div>
+</div>
+<div class="chapter-item">
+<span class="time"><strong>[00:56:46]</strong> </span>
+<span class="chapter-title"><strong>产品开发速度与商业化探索</strong></span>
+<div class="chapter-summary">对话讨论了产品开发速度的明显加快，特别是在matus推出后，以及如何在竞争激烈的环境中加速执行。提到了传统产品经理角色在规划和执行上的变化，以及现代公司对PRD（产品需求文档）的重视程度降低。分享了一个具体案例，即通过AI技术帮助东非中大型NGO申请联邦资助的成功商业化经验，以及在实习和工作中开发的多个chatbot在不同场景中的应用，尽管这些项目对公司有商业化价值，但对个人而言较为分散。最后提到了最近推出的second me产品。</div>
+</div>
+<div class="chapter-item">
+<span class="time"><strong>[00:59:14]</strong> </span>
+<span class="chapter-title"><strong>2025年AI代理技术的挑战与发展</strong></span>
+<div class="chapter-summary">对话讨论了AI代理（AI agent）在2025年的预期发展与面临的挑战。参与者指出，尽管AI代理被认为是AI技术的未来趋势，但要使其成为大众广泛使用的技术仍存在诸多难题。具体问题包括生态建设的漫长过程、多智能体协作协议（MCP）的不完善和低渗透率、以及如何有效获取和理解用户需求。此外，还探讨了MCP协议在数据隐私保护、商业化保障方面的障碍，强调了这些问题解决的复杂性和长期性。</div>
+</div>
+</div><br>
+<h1>问题回顾</h1>
+<div class="qa-item">
+<div class="question"><strong>Q:</strong> 2025年以来，AI agent有哪些显著的进展？目前AI agent的核心关键点是什么？</div>
+<div class="answer"><strong>A:</strong> 今年上半年AI agent取得了快速进展。一月份OpenAI推出了能够自主使用浏览器的AI agent Operator，并在二月份推出了研究复杂任务的deep research。三月份中国首个宣称通用的AI agent minos走红，并于五月份获得了7500万美元的融资。此外，5月6号OpenAI以30亿美元的价格收购了coding工具提供商winsor，同时其竞争对手anni fil也获得了9亿美元的融资，估值达90亿美元。核心关键点包括：一是模型写代码能力的提升，尤其是像SONY3.5这样的模型在代码生成方面的进步；二是RFT强化学习微调技术的应用；三是诸如MCP协议的新技术，使得AI agent能更自然地与用户交互并完成复杂任务。</div>
+</div>
+<div class="qa-item">
+<div class="question"><strong>Q:</strong> 为什么2025年AI agent发展仿佛按下了加速键？</div>
+<div class="answer"><strong>A:</strong> 主要有三点原因：首先，模型写代码能力显著提升，如anthology发布的SONY3.5在代码生成方面有质的飞跃，带动了一批写代码的AI agent快速发展；其次，RFT强化学习微调技术的出现，即使在有限训练数据下也能提升模型在特定任务上的表现；最后，anthropic提出的MCP协议将传统信息化服务转变为可与AI交流的形式，吸引了众多网站和服务接入。</div>
+</div>
+<div class="qa-item">
+<div class="question"><strong>Q:</strong> 现在与过去相比，AI agent有哪些不同之处？</div>
+<div class="answer"><strong>A:</strong> 过去几年中的agent更多依赖于预训练或人工配置的知识库和工作流，在特定领域中执行预设任务。而现在，通过强化学习微调技术，越来越多的agent能在大语言模型基础上，在实际环境中探索并学习实现路径，实现了自主学习和适应不同任务的能力，从而达到智能办事的状态。</div>
+</div>
+<div class="qa-item">
+<div class="question"><strong>Q:</strong> AI agent的定义是什么？能否举例说明当前AI agent的智能体现在何处？</div>
+<div class="answer"><strong>A:</strong> 在机器学习视角下，AI agent是一种基于强化学习环境，能够根据环境反馈自主学习行动策略以完成目标的实体。而在大众语境中，agent则表现为能独立完成任务、具备基础大模型或推理能力驱动、拥有记忆体系并与用户交互的智能体。当前的AI agent能通过强化学习微调技术，在特定环境下自主寻找解决问题的方法，比如订机票这样的完整任务执行过程。这标志着大语言模型学会了基于环境奖励自主调整策略和思考路径，实现了类似人类的智能行为，这是之前版本所不具备的能力。</div>
+</div>
+<div class="qa-item">
+<div class="question"><strong>Q:</strong> 对于创业公司来说，如何将不熟悉的环境转化为agent可以操作的空间？</div>
+<div class="answer"><strong>A:</strong> 创业公司需要找到适合其agent操作的环境，并定义一组有效、少量的数据以及一套奖励函数。例如，通过训练agent适应特定环境并完成任务。</div>
+</div>
+<div class="qa-item">
+<div class="question"><strong>Q:</strong> 在哪些领域可以类比于编程agent的任务执行方式？</div>
+<div class="answer"><strong>A:</strong> 法律、医疗等行业存在类似编程的案例，其中评判标准是有专家知识库支撑的任务。可以通过方法论来训练agent完成这些任务。</div>
+</div>
+<div class="qa-item">
+<div class="question"><strong>Q:</strong> OpenAI的Operator能否用于日常生活中的场景，比如订酒店或订机票？</div>
+<div class="answer"><strong>A:</strong> 是的，Operator可以用来做类似订酒店、订机票的任务。它基于新一代强化学习和大语言模型融合技术，能通过模拟人类操作电脑的方式，逐步拆分、尝试并反馈，从而优化任务完成过程。</div>
+</div>
+<div class="qa-item">
+<div class="question"><strong>Q:</strong> Operator在订票任务中的具体体验是怎样的？</div>
+<div class="answer"><strong>A:</strong> Operator会在服务器端开启一个浏览器界面，用户通过界面指示购买需求后，Operator会尝试各种网站获取价格信息，根据反馈继续思考和执行下一步行动。虽然速度较慢且准确率不高，但相比之前的方法有了显著提升。</div>
+</div>
+<div class="qa-item">
+<div class="question"><strong>Q:</strong> Operator与上一代agent的主要区别是什么？</div>
+<div class="answer"><strong>A:</strong> 上一代agent需要明确告诉每一步操作，而Operator通过强化学习微调，学习的是完成任务的大框架而非细节步骤。它能够灵活应对动态变化，如遇到失效网站时能迅速切换至其他选项。</div>
+</div>
+<div class="qa-item">
+<div class="question"><strong>Q:</strong> deep research与Operator在底层技术上有哪些不同？</div>
+<div class="answer"><strong>A:</strong> 主要区别在于训练数据集和可操作工具集的不同。Operator关注于电脑操作层面，而deep research则聚焦于各种公开信息检索库的检索能力。两者均采用RFT（强化学习微调）技术进行训练，但应用场景和工具集有所差异。</div>
+</div>
+<div class="qa-item">
+<div class="question"><strong>Q:</strong> Scrappy Barrel提供的服务是什么？</div>
+<div class="answer"><strong>A:</strong> Scrappy Barrel为agent创建了一个虚拟桌面环境，其中包含API提供的即时安全环境，使得agent能在其中执行复杂任务，如查找潜在客户信息等。</div>
+</div>
+<div class="qa-item">
+<div class="question"><strong>Q:</strong> 为什么Winserf和David等公司能做得更好，相较于其他编程工具？</div>
+<div class="answer"><strong>A:</strong> 这些公司更深入地理解了环境的重要性，如获取上下文、认知行动空间，并不断扩展环境边界，如搜索文档、执行命令行操作等。Winserf在迭代过程中逐渐增强对环境的理解和适应能力，而David则致力于打造一个超越IDE、功能更全面且细致的环境，让AI能更完整地完成软件工程闭环。</div>
+</div>
+<div class="qa-item">
+<div class="question"><strong>Q:</strong> 在AI agent的开发中，是否可以说只要对某个方向有深度理解，任何人都可以构建自己的AI agent？</div>
+<div class="answer"><strong>A:</strong> 是的，现在由于使用像IFT（if-then）的方式可以减少对数据的依赖，降低了构建AI agent的门槛，使得任何人都有可能构建自己的AI agent，它已经成为一种创业门槛相对较低的项目。</div>
+</div>
+<div class="qa-item">
+<div class="question"><strong>Q:</strong> 对于消费者端的AI agent创业机会，您是否认为会受到模型冲击或被大厂占据主导地位？</div>
+<div class="answer"><strong>A:</strong> 我对此持怀疑态度，因为许多场景可能被通用型AI agent如deep research完全覆盖，导致消费者端的agent创业机会相对较少。大厂可能会占据很大市场份额，留给创业公司的空间较小。</div>
+</div>
+<div class="qa-item">
+<div class="question"><strong>Q:</strong> 在当前时代背景下，普通人参与新领域的创业机会在哪里？</div>
+<div class="answer"><strong>A:</strong> 在这个时代，平台级的机会已经被巨头占据，但普通人可以通过在平台上表达个体性，比如成为自媒体网红或influencer，利用这些平台进行创新。此外，随着AI技术的发展，可能会释放出新的个体创业机会，例如通过打造个性化的agent来吸引特定领域的用户。</div>
+</div>
+<div class="qa-item">
+<div class="question"><strong>Q:</strong> 您对硅谷公司minus推出的DI agent有何感受？</div>
+<div class="answer"><strong>A:</strong> 我作为首批试用用户，对menus的DI agent有很强的moment，尤其是其UI设计美观，具有notion风格，并且在记忆功能、指令执行以及与用户的交互上表现出色，能够很好地理解和执行用户的指令，如在开始执行任务前先进行澄清性提问和对齐。相较于ChatGPT和OpenAI的global memory，menus的记忆功能更符合我的需求。在写网页和大量资料搜索研究场景中，我发现menus更适合做广度工作，帮助快速进入新领域并汇总信息，而不仅仅是深度研究。同时，其灵活的打断机制和跳转至live功能也优于deep research。</div>
+</div>
+<div class="qa-item">
+<div class="question"><strong>Q:</strong> 为何选择使用menus而非deep research？</div>
+<div class="answer"><strong>A:</strong> 主要原因是menus在响应速度、可打断性以及可溯源性等方面表现出优势，更适合我的使用场景。尽管两者都能进行网页搜索和生成报告，但menus在实际操作中更为灵活、高效，更能满足我对广度研究和快速获取信息的需求。</div>
+</div>
+<div class="qa-item">
+<div class="question"><strong>Q:</strong> 为什么现在的Copilot等AI coding agent看起来有些过时了？</div>
+<div class="answer"><strong>A:</strong> 主要是因为它们没有随着底层模型能力的提升而及时进行产品升级。此外，Copilot等agent之所以备受瞩目，最关键的原因在于底层模型能力的增强，这使得它们对任务的理解力和处理能力得到了显著提高。</div>
+</div>
+<div class="qa-item">
+<div class="question"><strong>Q:</strong> Sonnet模型为何如此强大？</div>
+<div class="answer"><strong>A:</strong> Sonnet不仅智力高，更重要的是它是首个解决编码问题的模型，它能够通过编码这一通用层，将各种任务转化为对背后数据的操作，极大地提升了agent处理复杂任务的能力。</div>
+</div>
+<div class="qa-item">
+<div class="question"><strong>Q:</strong> AI coding agent如Cursor或Win Serve是否有可能成为通用型AI agent？是否应优先考虑建立完善的evaluation框架以支持AI agent的发展？</div>
+<div class="answer"><strong>A:</strong> 是的，像Cursor和Win Serve这样的AI coding agent由于其强大的编码能力，加上不断增加的自定义接口，正朝着成为通用型、应用广泛的巨型AI agent的方向发展。是的，从一开始就应构建系统性的评估框架，让任何一次响应生成执行都经过评估机制，以实现自动化和语义化的评估，并逐步发展出通用的evaluation模板库，以便复用到不同场景中。</div>
+</div>
+<div class="qa-item">
+<div class="question"><strong>Q:</strong> 为何evaluation（评估）在AI产品质量中的重要性不亚于模型本身？</div>
+<div class="answer"><strong>A:</strong> Evaluation是对系统效果进行量化判断的关键工具，它比prompt工程和选择最新大模型更能决定产品质量。通过evaluation，可以持续衡量每次产品迭代的效果，并灵活适应不同场景，比如human evaluation、code base evaluation以及最新的LM base评估方法。</div>
+</div>
+<div class="qa-item">
+<div class="question"><strong>Q:</strong> AI agent如何定位才能更好地适应市场需求？</div>
+<div class="answer"><strong>A:</strong> AI agent需要找准定位，避免过于通用导致心智位置模糊。可以通过聚焦特定场景，降低用户认知启动成本，同时借助社区互动等方式了解用户需求，逐步向垂直领域发展，以避免类似Google Wave那样的失败案例。</div>
+</div>
+<div class="qa-item">
+<div class="question"><strong>Q:</strong> 在PC端的应用中，系统级权限是如何运作的？</div>
+<div class="answer"><strong>A:</strong> PC端的应用有系统级权限，在进行高危操作时会直接弹窗提示用户登录或输入密码。而像minishell这类没有足够权限的应用，在面对这类场景时会卡顿，可能会耗尽信用或无法完成任务。</div>
+</div>
+<div class="qa-item">
+<div class="question"><strong>Q:</strong> 您认为当前市场上有哪些值得关注、在用户使用体验和商业前景上有突出表现的AI agent公司？</div>
+<div class="answer"><strong>A:</strong> 目前市场上还没有出现适用于全人群全通用场景的AI产品，但特别看好一些公司，如从技术人员角度切入市场的Curren$y，以及拥有巨大潜力但被低估的Chris or。</div>
+</div>
+<div class="qa-item">
+<div class="question"><strong>Q:</strong> Chris or作为通用AI agent的潜力体现在何处？</div>
+<div class="answer"><strong>A:</strong> Chris or最初作为web coding工具存在，但随着MCP等基础建设的发展，它正转变为能够连接各种场景应用数据的开放性平台，并且有望通过不断拓展能力集，成为一个通用agent。</div>
+</div>
+<div class="qa-item">
+<div class="question"><strong>Q:</strong> 为什么更看好Curren$y而不是win serve？</div>
+<div class="answer"><strong>A:</strong> 尽管两者都是优秀的代码工具，Curren$y市场渗透率更高，且其团队在探索上更具进取心，被欧莱雅收购后可能获得更强动力，拥有更大的自由空间进行创新。</div>
+</div>
+<div class="qa-item">
+<div class="question"><strong>Q:</strong> 是否有一些垂类领域的AI agent有很好的发展前景？</div>
+<div class="answer"><strong>A:</strong> 是的，一些垂直领域的AI agent非常有前景，例如专门服务于商业保险经纪人的Mental VANTEL，以及帮助全球企业申请grant、阅读合同、做招投标分析的Sweet Spot。</div>
+</div>
+<div class="qa-item">
+<div class="question"><strong>Q:</strong> 过去两个月AI agent领域发展迅速，大家的心态或做事方式有何变化？</div>
+<div class="answer"><strong>A:</strong> 过去两个月，工作节奏明显加快，更注重快速执行和响应市场变化，对产品迭代速度的要求提高，相比传统的规划和文档编写方式，现在更强调高效沟通和紧密协作。</div>
+</div>
+<div class="qa-item">
+<div class="question"><strong>Q:</strong> 在您参与的两百多个项目中，有哪些商业化较为成功的案例？</div>
+<div class="answer"><strong>A:</strong> 成功的商业化案例较为分散，其中一个例子是在东非帮助中大型NGO申请联邦补助金的项目，通过构建一个包含搜索、筛选、对话和提交申请等环节的完整流程来提高效率。</div>
+</div>
+<h1>节目文稿</h1>
+<p class="transcript-line">
+<span class="time"><strong>[00:00:01]</strong> </span>
+<span class="speaker"><strong>发言人1: </strong></span>
+嗨大家好，欢迎收听硅谷101，我是红军。进入2025年以来，AI agent可以说进展很快。我来给大家简单复盘一下今年上半年的一些进展。一月份OpenAI推出了能够自主使用浏览器的AI agent Operator，二月份推出了研究复杂任务的deep research。我相信很多人到现在可能已经是这个产品的深度用户了。三月份中国第一个号称通用AI agent的minos爆火出圈。五月份minos拿到了硅谷老牌风险投资公司benchmark领投的7500万美元的融资。除此之外，就在我们第二次播客录制的当天，也就是5月6号，OpenAI宣布以30亿美元的价格收购winsor，另一款编程工具curse r的母公司annis fil也获得了9亿美元的融资，估值高达90亿美元。
+</p>
+<p class="transcript-line">
+<span class="time"><strong>[00:00:58]</strong> </span>
+<span class="speaker"><strong>发言人1: </strong></span>
+为什么我们说AI agent在2025年一开始就好像被按上了加速键？最近我也跟业内数十位从业者聊天，发现了三点原因。第一是模型写代码能力的提升。比如说antha o pic去年年中发布的SONY3.5，在代码生成方向有质的提升，由此它是带动了一批写代码的AI agent的快速发展。像我们上面提到的winter f还有cursor的这些公司。
+</p>
+<p class="transcript-line">
+<span class="time"><strong>[00:01:27]</strong> </span>
+<span class="speaker"><strong>发言人1: </strong></span>
+第二点是RFT强化学习微调技术的出现。这项技术让即使训练数据在有限的情况下，也可以提升模型在特定任务中的表现。这也给agent的发展按下了加速键。另外2024年11月底，anthropic他还提出了一套把传统的信息化服务转变成可以和AI交流的一套MCP协议。越来越多的网站与服务开始接入MCP行业，底层基础设施也开始搭建。
+</p>
+<p class="transcript-line">
+<span class="time"><strong>[00:01:59]</strong> </span>
+<span class="speaker"><strong>发言人1: </strong></span>
+我们今天这期播客的第一次录制是在三月初，那个时候minus还没有推出。我们尝试从技术的角度去理解，大家在2025年提到AI agent的时候，跟我们之前所说的AI agent有哪些不一样。我们也尝试着盘点一下我们刚刚提到的这些明星agent崛起的核心关键点。今天跟我们在一起的两位都是大家的老朋友，一位是medival星矢宇宙的创始人陶芳波。Hello方波，你好。
+</p>
+<p class="transcript-line">
+<span class="time"><strong>[00:02:31]</strong> </span>
+<span class="speaker"><strong>发言人2: </strong></span>
+嗨红军。
+</p>
+<p class="transcript-line">
+<span class="time"><strong>[00:02:32]</strong> </span>
+<span class="speaker"><strong>发言人1: </strong></span>
+对，还有一位是在大学生辽AI那一期里面非常火的，还被很多的听友认为是机器人的克兰to。Hello克兰to你好，hello大家好。克兰to的中文名字是侯泰宇，他现在是在纽约大学本科念应用心理学，同时也是一位AI的创业者。克兰托，你最近是花了多少时间在AI agent上？
+</p>
+<p class="transcript-line">
+<span class="time"><strong>[00:02:55]</strong> </span>
+<span class="speaker"><strong>发言人3: </strong></span>
+最近可能每天都在用各种各样的agent，自己因为会开发一些小的产品，所以我会在用这个replant agent，也可能会用一些cursor这样的coding agent。然后我自己平时也会去研究很多不同的agent，但可能我研究的类型更多偏向于agent builder，就是那些造agent的地方。比如说像微软copy的邮箱，字节的code等等的这种能够帮助你制造出来更多agent平台。
+</p>
+<p class="transcript-line">
+<span class="time"><strong>[00:03:19]</strong> </span>
+<span class="speaker"><strong>发言人1: </strong></span>
+对，然后我记得之前其实我们也一起讨论了，怎么一起去造一个写博客ono s的AI agent。所以你自己是造了多少个AI agent已经太多了。
+</p>
+<p class="transcript-line">
+<span class="time"><strong>[00:03:29]</strong> </span>
+<span class="speaker"><strong>发言人3: </strong></span>
+可能200个得有。如果说算上不同平台上的，因为我自己平时可能会用很多不同的IDE来在不同的场景。比如说之前有跟红漆姐分享，我们那天录完播客之后，其实突发奇想想想做一个AI生成播客的东西。而且当时也发现在平时生成show note的过程中很复杂，有没有可能会用AI来帮忙做一个提取？
+</p>
+<p class="transcript-line">
+<span class="time"><strong>[00:03:48]</strong> </span>
+<span class="speaker"><strong>发言人1: </strong></span>
+所以基本上你是遇到了一个场景，然后你就会去尝试。
+</p>
+<p class="transcript-line">
+<span class="time"><strong>[00:03:52]</strong> </span>
+<span class="speaker"><strong>发言人3: </strong></span>
+对对对，因为我感觉其实今天我还在跟我的朋友讲，时代变了。尤其是如果你知道怎么做产品，你看发一个产品的成本变得越来越低，甚至有点恐怖了。
+</p>
+<p class="transcript-line">
+<span class="time"><strong>[00:04:04]</strong> </span>
+<span class="speaker"><strong>发言人1: </strong></span>
+我觉得。OK那方波？
+</p>
+<p class="transcript-line">
+<span class="time"><strong>[00:04:05]</strong> </span>
+<span class="speaker"><strong>发言人2: </strong></span>
+一方面我自己用很多agent，尤其是coding agent，我每天都在用。但同时我可能没有造过那么多agent，但是我是做agent平台创业的，所以我造过造agent的平台是之前那个平台最早是做一个平台叫mini OS，还是蛮多人用过的。它就是造那种通用的专业性的agent。但是现在我们更多的focus专注在一个新的造agent的平台，叫做second me第二自我。它其实是一个开源的平台，而且也会马上就发布了。大家可以下载到自己的本地，就可以把能够代表你自己的agent给造出来。我觉得agent真的时代来了，我们的整个agent各种各样的基础设施的组件在慢慢的ready，马上就要组合成新的一个世界了。
+</p>
+<p class="transcript-line">
+<span class="time"><strong>[00:04:51]</strong> </span>
+<span class="speaker"><strong>发言人1: </strong></span>
+你觉得什么是agent？
+</p>
+<p class="transcript-line">
+<span class="time"><strong>[00:04:52]</strong> </span>
+<span class="speaker"><strong>发言人2: </strong></span>
+我的视角更多偏向于是机器学习的视角，它的确和大众语境下的agent是有一定的差别的。就机器学习里面的agent其实在我的学习和研究的过程当中，我们最早接触的是在强化学习里面的一个概念。就是在一个强化学习的环境里面，一个agent可以基于环境的反馈，自主的学习出一个行动的策略，从而完成他的一个目标。比方说我们知道下围棋的阿尔法go在强化学习的语境里面，它就是一个典型的agent但我感觉大语言模型来了之后，agent这个词的意义的确是它有点被泛化到那种偏大众语境去了。
+</p>
+<p class="transcript-line">
+<span class="time"><strong>[00:05:31]</strong> </span>
+<span class="speaker"><strong>发言人2: </strong></span>
+现在我们对于agent的概念就是它第一是更像是一个人可以独立的完成任务。第二是它背后是有一个基础的大约模型，或者带有思考能力的，像最新的这种推理模型来驱动的。第三是他可能有一个他自己的记忆的体系。第四是他有跟用户的一个交互的界面。比方说我们刚才看到的wind surf和David两个都是典型的coding agent或者rappid。但是其实他们都有各自的交互界面。有的可能直接是在编程的这个环境里面给开发者用的，有的可能是更像是给老板用的，他可能会直接完成网络的搜索，或者说完成了一个测试的过程。
+</p>
+<p class="transcript-line">
+<span class="time"><strong>[00:06:10]</strong> </span>
+<span class="speaker"><strong>发言人2: </strong></span>
+但我觉得过去三个月，我再发生一个很有意思的融合。最早的我们说的强化学习的agent第一是它的技术肯定是偏向于强化学习的。第二是它真的会在环境当中去学习。我刚才提到的大语言模型下，绝大部分agent是没有这个学习的能力的。其实它对于行业的认知，对于任务的认知，是由创造这个agent的人来配置的。比方说我给它配知识库，给它配workflow。但是现在越来越多的agent，尤其是思考模型，我们说的那个reasoning model出来了之后，很多人开始用一种新的叫做强化学习微调的技术，去让这个agent在大语言模型作为基础的情况下，也可以在环境当中探索实现的路径去学习。
+</p>
+<p class="transcript-line">
+<span class="time"><strong>[00:06:55]</strong> </span>
+<span class="speaker"><strong>发言人2: </strong></span>
+在一个特定的比如领域，比方说法律，或者说是操作电脑这些特定的领域下，它也有一个自主学习的过程。所以我觉得这是一个非常好的一个现象，就是相当于我们对于agent的发展又到了一个新的定义。它其实结合了传统的强化学习里面对于agent这种自主学习，自主探索的能力。加上他在大众语境当中觉得他可以完成通用的任务，可以跟人交互，可以帮你独立的解决复杂问题的这种目标。这就是为什么2025年以来，其实大家对agent就非常的兴奋。二三年、24年其实agent这个概念就出来了。就像我们也做过像mino OS这样的agent平台，但它更像是一个脚手架。现在真的觉得agent是有智能的，尤其是通过强化学习，通过思考能力的注入，觉得它达到了我们想要的技术办事的状态。
+</p>
+<p class="transcript-line">
+<span class="time"><strong>[00:07:43]</strong> </span>
+<span class="speaker"><strong>发言人1: </strong></span>
+你能不能举个例子，就是你怎么觉得agent有智能了。我不知道大家理解中的agent是怎么样，最早你说的那种强化学习中的agent就跟我理解的大家在训练一个游戏场景的agent比如说让两个小人推方块，然后他们怎么样去设计能把自己围起来，不让外界的这个东西打到他们。你会发现他们慢慢会涌现出智能，就是他们能有各种可能我们人都没有想到的方法去做这样的一些题。我印象中其实早期在2324年的时候，大家其实都是在一个游戏的场景里，让这些agent互相配合，来看他们的表现怎么样。现在你说2025年，因为强化学习加上跟操作电脑的结合，就感觉可能会有更多领域的agent了。就是我理解的agent。就比如说我告诉一个语言模型说我现在要回北京，然后帮我订一张机票，他能从头到尾把这一套执行完。我可能会限制，比如说给一个时间跟地点，它会偏向于早上的时间段直飞，就是他能把这一套动作做完，我可能就称之为它是一个很好的agent了。你觉得你提到的这个25年的agent跟之前的这些有什么不一样呢？
+</p>
+<p class="transcript-line">
+<span class="time"><strong>[00:08:51]</strong> </span>
+<span class="speaker"><strong>发言人2: </strong></span>
+你刚才两个比方都打的特别好，其实你提到的agent本质上都还是带有环境的。我指的他那个变化或者让大家兴奋的原因，还是因为一个底层能力的变化。原来大语言模型其实它是有一个很大的限制的。就是他的训练，无论是我们用的预训练还是就post training，就后面的那些训练，包括我们还会用RLHF这种所谓的具有强化学习来帮他去做人类对齐的能力。但事实上，原来的语言模型训练的环节当中是不带有和环境互动的这就导致了一个现象，就是它本身训练的目的就是为了跟人对话，而不是为了跟环境互动。虽然我可以强行让他作为一个脑子，然后去跟环境互动，但是原来二三年24年的那种agent，我们是尝试给他一些工具使用的能力，给他增加一个机库，让他去在环境当中完成任务。但由于他在训练的过程当中没有跟环境互动，所以他是非常机械的，他并没有办法在环境里面真的学会怎么样去应对这个环境。
+</p>
+<p class="transcript-line">
+<span class="time"><strong>[00:09:50]</strong> </span>
+<span class="speaker"><strong>发言人2: </strong></span>
+你刚才提到的两个例子，比方说两个小人在一个比赛场里面互相对打，看他怎么样能打得更好。他就是一个典型的在环境当中学习的一个agent，这就是传统意义上的强化学习的agent。原来我们二三年、24年为什么agent概念很火，但是一直没有很好的落地，就是因为环境的缺失导致的那现在回过头来，从技术上讲，我们拥有了一种新的能力。
+</p>
+<p class="transcript-line">
+<span class="time"><strong>[00:10:14]</strong> </span>
+<span class="speaker"><strong>发言人2: </strong></span>
+比方说你去看deep sick RE的那种文章，你会发现他最后的那个推理能力的训练，本质上是他自己和一个问题环境的自主学习的过程，并不是像以前我们通过SFT给他一个死记硬背的知识库，他给了一个问题集和一个他最终的结果。但是他怎么去解决这些问题是AI像人一样，他自己通过思考训练的过程完成的。就他自己不断在调整自己的策略，调整自己的思考路径，然后学会了我怎么样解答好更好的数学题，或者解答好更好的编程题。这个自主寻找路径解决它的这个过程，在以前的训练里面是完全没有的。所以这个我们可以称之为是大语言模型的阿尔法狗的时刻。简单讲就是大语言模型真的学会基于一个环境给出的奖励来自主的找到解决方法了。
+</p>
+<p class="transcript-line">
+<span class="time"><strong>[00:11:03]</strong> </span>
+<span class="speaker"><strong>发言人2: </strong></span>
+为什么以前其实很早的时候，二三年就GPT4刚出来的时候，很多人就说我要用这个模型来操作电脑，然后也有很多公司去这样做过，但是为什么都失败了呢？就是因为这个模型在训练的过程当中，根本没有在电脑操作的环境里面待过。他只是把互联网的语料喂进去了。所以他可能有一些操作电脑的概念，但他并不会真的执行这个行为。
+</p>
+<p class="transcript-line">
+<span class="time"><strong>[00:11:26]</strong> </span>
+<span class="speaker"><strong>发言人2: </strong></span>
+那为什么open a推出那个Operator？相对来讲好像就比较聪明一点，Operator是一个可以操作电脑的一个AI虽然还不够好，他的做法就是我在训练出一个大约模型了之后，尤其是一个推理性模型之后，比方说O1。然后我再让他在操作电脑的环境里面再去做强化学习。有点像你说的那个小人打架的那个感觉，或者是下围棋那种感觉。然后再去环境当中去学习怎么样操作电脑可以完成你说的订酒店订机票的这个任务。如果没有完成，我到底错在哪了？我应该怎么去调整整我的行动策略。
+</p>
+<p class="transcript-line">
+<span class="time"><strong>[00:12:01]</strong> </span>
+<span class="speaker"><strong>发言人2: </strong></span>
+这个事儿是其实过去半年才刚刚发生的。所以这件事情完成了之后，agent能够在环境里面更好的完成任务，更自主的去思考，更自主的去提升自己，我觉得就变成了可能了。所以2025年之后，大家就又开始兴奋说，agent真的来了。他不仅是说AI具有了一个思考能力，而是说他这个思考能力可以根据环境的反馈来调整，来学习了，这就是一个big gap。
+</p>
+<p class="transcript-line">
+<span class="time"><strong>[00:12:26]</strong> </span>
+<span class="speaker"><strong>发言人1: </strong></span>
+能举一个具体的例子解释一下环境吗？我的理解是以前我们问一个问题，我们会得到一个正确的答案。而加入了环境以后，我们再去问一个问问题，把它放在不同的场景下。这个时候我们寻求的不是一个正确答案，而是一个符合当下场景的回答我。
+</p>
+<p class="transcript-line">
+<span class="time"><strong>[00:12:46]</strong> </span>
+<span class="speaker"><strong>发言人2: </strong></span>
+的理解是这样的，比方说有一些领域里面，它的整个工作的环境是有特定的系统和特定的工具的。编程就是和一个很典型的例子。编程光靠浏览器是无法完成的，它必须有一个比如说IDE，然后有一个测试的工具，测试这个程序能不能跑，然后有一套部署的工具。同时还要知道怎么去访问get hub，去使用开源，然后访问一些编程社区，看某些问题怎么来解决。
+</p>
+<p class="transcript-line">
+<span class="time"><strong>[00:13:13]</strong> </span>
+<span class="speaker"><strong>发言人2: </strong></span>
+你看他这个环境是对于一个工程师来讲，他是非常熟悉的。但是对于普通人来讲，这个环境他就是不熟悉的。所以对于一家创业公司来讲，如果他找到了这个环境，他就要想办法把这些环境变成一个他所训练的这个agency在操作的空间。然后给他定义好一组有效的非常少量的数据，给它定义好一组有效的奖励函数，那就是一个典型的例子。所以编程的agent一定是需要公司重新来训练的，而不会是大公司说我做一个agent所有任务都可以完成。
+</p>
+<p class="transcript-line">
+<span class="time"><strong>[00:13:45]</strong> </span>
+<span class="speaker"><strong>发言人2: </strong></span>
+那么有没有类似编程这样的案例呢？我觉得是有的。比方说法律医疗，或者说至少我认为一个评判它的金标准是所有我们认为在现实世界里面是有一个专家，他有自己的一套武器库的这样的一个专家才能做的任务。
+</p>
+<p class="transcript-line">
+<span class="time"><strong>[00:14:01]</strong> </span>
+<span class="speaker"><strong>发言人1: </strong></span>
+有方法论的。比如说怎么做硅谷101把这档节目做出来。如果我有这个方法论，我就可以训练一个我的agent.
+</p>
+<p class="transcript-line">
+<span class="time"><strong>[00:14:09]</strong> </span>
+<span class="speaker"><strong>发言人2: </strong></span>
+甚至你有可能你自己在用一些你特有的工具在找信息。这些工具其实就是我所需要的环境的一部分。这样就可能构成了一个很小的环境，包括pantier，他不是做军事，军事里面就有很典型的环境。因为他可能要去操作一些武器，那这个武器操作的环境就是他特有。
+</p>
+<p class="transcript-line">
+<span class="time"><strong>[00:14:26]</strong> </span>
+<span class="speaker"><strong>发言人1: </strong></span>
+能够访问到的。你有用过OpenAI的Operator来做，比如说订酒店，订机票的事情吗？
+</p>
+<p class="transcript-line">
+<span class="time"><strong>[00:14:33]</strong> </span>
+<span class="speaker"><strong>发言人2: </strong></span>
+对我玩过，我拿它来买过菜。
+</p>
+<p class="transcript-line">
+<span class="time"><strong>[00:14:36]</strong> </span>
+<span class="speaker"><strong>发言人1: </strong></span>
+在哪买菜网站上吗？
+</p>
+<p class="transcript-line">
+<span class="time"><strong>[00:14:37]</strong> </span>
+<span class="speaker"><strong>发言人2: </strong></span>
+对，就是美国那个买菜的网站，我突然忘了叫什么名字了。
+</p>
+<p class="transcript-line">
+<span class="time"><strong>[00:14:41]</strong> </span>
+<span class="speaker"><strong>发言人1: </strong></span>
+能不能讲一下你的应用体验，然后分析一下它背后的执行的技术是什么？
+</p>
+<p class="transcript-line">
+<span class="time"><strong>[00:14:46]</strong> </span>
+<span class="speaker"><strong>发言人2: </strong></span>
+这是很好的问题。OBI其实它推出了两个agent的模型。而且这两个其实都是刚才我讲的，就是基于这种新一代的强化学习和大语言模型融合的微调技术来做的。分别是Operator和deep research，其实他们都是从OE微调过来的。
+</p>
+<p class="transcript-line">
+<span class="time"><strong>[00:15:02]</strong> </span>
+<span class="speaker"><strong>发言人2: </strong></span>
+Operator的体验很有意思，就是它会在服务器端给你开一个浏览器界面，然后你其实是通过浏览器来完成这种操作的。你就告诉他说，我要去买一个杭州到旧金山的机票，但是我要找最便宜的。他就开始拆分任务去试各种网站，看网站给出的价格的反馈。然后拿回这个结果之后再继续进行思考，然后再去想下一步是什么。其实这就是一个比较好的agent，但它那个速度很慢，准确率其实也不够高。但我相信它一定比之前我们直接拿GPT4，或者直接拿原始的OE去做这个任务会好很多。
+</p>
+<p class="transcript-line">
+<span class="time"><strong>[00:15:37]</strong> </span>
+<span class="speaker"><strong>发言人2: </strong></span>
+因为他的做法是，比如说我把操作电脑这件事情分成几个简单的行为。比如点击鼠标，然后键盘输入，然后打开浏览器的一个新的tap或者搜索谷歌。他把这些基本的行为定义起来。其实我们人使用电脑完成一个任务，尤其使用浏览器完成一个任务的时候，基本上是这些序列的一个动态组合。那么他就把这些序列的使用作为思考过程的一部分。
+</p>
+<p class="transcript-line">
+<span class="time"><strong>[00:16:02]</strong> </span>
+<span class="speaker"><strong>发言人2: </strong></span>
+因为OE模型不是能思考，他就用强化学习的微调的方法去微调这个思考的过程。使得他思考过程当中不只是在大脑内部想一个步骤，而是真的把这些动作也作为一个思考过程，怎么输出。然后他一旦有一个动作发现了，他就会停止这个思考过程，然后去操作这个动作。然后看这个动作之后返回的信息是什么。比如说网页呈现了什么信息，然后再拿回到他的这个思考过程来，然后继续去思考。所以他相当于是把思考执行反馈，继续思考这个环节做成了一个连续的环节。
+</p>
+<p class="transcript-line">
+<span class="time"><strong>[00:16:35]</strong> </span>
+<span class="speaker"><strong>发言人2: </strong></span>
+而这个环节以前在上一代我说的基于大模型的agent里面，是只能通过人的workflow的定义，就是人对于工作流的定义。但是人定义出来的工作的绝对是不灵活的，因为他没有办法假想这个AI在做这个事情的时候，环境会给他什么反馈？所以他往往是死板的，不灵活的那其实他是不智能的，从某种程度上来讲，所以这个是一个很大的变化。
+</p>
+<p class="transcript-line">
+<span class="time"><strong>[00:16:58]</strong> </span>
+<span class="speaker"><strong>发言人2: </strong></span>
+包括deep research也是这样的，就是你会看到他会先去检索，检索完了之后发现有些东西回来跟我的信息假设不一样。那我可能要再去检索，或者说我要做一些冲突的解决，对吧？因为信息源之间可能他的描述是冲突的，所以这个其实是把他的思考过程和他在环境里面的行动的能力，再把从环境当中的反馈拿回来继续思考的能力结合在一起，我觉得这是非常让人兴奋的。
+</p>
+<p class="transcript-line">
+<span class="time"><strong>[00:17:22]</strong> </span>
+<span class="speaker"><strong>发言人1: </strong></span>
+你刚刚提到的OpenAI的Operator用电商订菜应该是它是跟inter card合作的，对不对？
+</p>
+<p class="transcript-line">
+<span class="time"><strong>[00:17:29]</strong> </span>
+<span class="speaker"><strong>发言人2: </strong></span>
+对我刚才用的就是inter cut。
+</p>
+<p class="transcript-line">
+<span class="time"><strong>[00:17:32]</strong> </span>
+<span class="speaker"><strong>发言人1: </strong></span>
+对对对，inter card它是有集成在OpenAI的Operator里面的。比如说你让他去做一些订票的行为，他是把整个步骤分解成四步。比如说搜索、比价、选择、支付四个阶段。它其实也会分解，包括比如说你真的要到信用卡的弹出环节了，它还是会有一个人工验证的环节。就是你觉得他这个agent的智能性跟你还是在做一个workflow，它的核心的区别点在哪里呢？
+</p>
+<p class="transcript-line">
+<span class="time"><strong>[00:17:58]</strong> </span>
+<span class="speaker"><strong>发言人2: </strong></span>
+这个是一个很好的问题。我觉得人类在做任何事情的时候，其实他都有一定的workflow。比方说点餐厅，就是先要打开网页，然后看，然后比较。但是它和我们上一代，我指的是说像我们之前做的那种agent，或者说是像cos这样的agent里面的一个巨大的差别是上一代的agent需要你把每一步都告诉他，而且是他的步骤其实是跟环境甚至有的时候是无关的。就比方说我会告诉他，你这一步就是要打开三个网站，就是要找到最低的价格，就是要在里面找完价格之后，一定要点击那个按钮。其实有点手把手教的意思。
+</p>
+<p class="transcript-line">
+<span class="time"><strong>[00:18:37]</strong> </span>
+<span class="speaker"><strong>发言人2: </strong></span>
+但现在的agent他在强化学习的过程当中，他其实学到的是一个大的完成任务的框架，而非很细节的一步一步的操作指南。他只是学会说OK我大概需要去找几个网站，尤其是当你告诉我我需要比价的时候，我大概需要去找几个网站。但事实上它都是生成的，它背后并没有一个真正的work flow。它相当于把这种workflow用一种更灵活的，当时学到了整个模型的参数里面去，那么它整体上就会有专业性的一个使用的操作。但是它对于这种动态变化的灵活性又会高很多。
+</p>
+<p class="transcript-line">
+<span class="time"><strong>[00:19:09]</strong> </span>
+<span class="speaker"><strong>发言人2: </strong></span>
+如果真的发现，比如说一个网站失败了，举个例子他打不开了，他可能就会发现，他说这个网站可能下线了，或者说是他要故障了。那我再试一个别的网站。像这样的能力在以前的workflow是不太可能出现的。只有通过一个参数化的智能才可以临场去做反应，给予反馈，去调整它的策略。这其实是人本身很自然的一个能力，对不对？但是上一代基于大模型的A针其实是做不到的。
+</p>
+<p class="transcript-line">
+<span class="time"><strong>[00:19:35]</strong> </span>
+<span class="speaker"><strong>发言人1: </strong></span>
+那deep research跟Operator它相当于是不同方向上的AI agent。它的底层技术会有什么不一样呢？
+</p>
+<p class="transcript-line">
+<span class="time"><strong>[00:19:43]</strong> </span>
+<span class="speaker"><strong>发言人2: </strong></span>
+就是他训练的数据集和他的能操作的工具集不一样。就比如说Operator它的操作集是我使用电脑的那些技术操作，对吧？比如点开一个谷GLE搜索，然后去搜索一个关键词，或者是用手鼠标点击一个按钮，或者在一个框里面输入一段文字。它应该是定义的一组最基本的操作集。所以它是基于这种操作集上的数据来进行微调的。而deep research它的操作集其实是各种各样公开信息的检索库里面的一些检索能力。它是把各种不同的检索能力组合在一起，但是背后的目标定义会不一样，然后它的使用的工具集也会不一样。但是他训练的过程是一样的，都是用一种叫做RFT，就是强化学习的fine tuning.
+</p>
+<p class="transcript-line">
+<span class="time"><strong>[00:20:26]</strong> </span>
+<span class="speaker"><strong>发言人1: </strong></span>
+的技术来做的对，简单说一下RFT他其实是在2024年12月底，OpenAI当时在一系列的直播活动中，也就是他们当时搞各种圣诞大礼包的时候，第一次去公开了RFT的训练流程还有技术细节。我看从今年开始就已经有很多的公司，他们把这个RFT技术强化学习微调技术用在AI agent的训练里了。
+</p>
+<p class="transcript-line">
+<span class="time"><strong>[00:20:54]</strong> </span>
+<span class="speaker"><strong>发言人3: </strong></span>
+我刚才突然想到我用过一个agent，但它有点不太像一个agent，它有点像是一个环境，它叫scrappy bara.
+</p>
+<p class="transcript-line">
+<span class="time"><strong>[00:21:00]</strong> </span>
+<span class="speaker"><strong>发言人1: </strong></span>
+应该是怎么拼。
+</p>
+<p class="transcript-line">
+<span class="time"><strong>[00:21:02]</strong> </span>
+<span class="speaker"><strong>发言人3: </strong></span>
+SCRAPYBARA，我非常喜欢它它的slogan，我有点忘记类似于a computer for your agent，他给你的agent做了一个computer。因为他们发现一个问题，就是比如说现在agent你可以编代码，你可以分析数据，你可以执行各种复杂任务。但是你这个能力虽然在增强，但是你缺少一个关键要素，就是你需要一个安全的，你也需要一个可拓展的环境，能够让这些agent能够真正采取非常concrete的这些行动。但是现在的解决方案就需要让很多学界的人，或者是让一些工程界的人去选择。比如说第一种选择是你使用API，但API是有限的且不灵活。第二种情况是你使用浏览器，对吧？浏览器是不是很稳定的。
+</p>
+<p class="transcript-line">
+<span class="time"><strong>[00:21:41]</strong> </span>
+<span class="speaker"><strong>发言人3: </strong></span>
+但这个scrappy barrel他们认为你不要在自己的计算机上运行agent，他们应该给你创造一种类似于虚拟环境。他们为你的agent打造一款适用agent的计算机。他们应该是通过API去提供一种即时安全的虚拟环境，你可以几秒钟内就启动，有点像是那个Operator，我当时用它帮我买过秋裤。在amazon上对他就很快能创造环境。
+</p>
+<p class="transcript-line">
+<span class="time"><strong>[00:22:02]</strong> </span>
+<span class="speaker"><strong>发言人1: </strong></span>
+你刚刚提到了买秋裤是一个应用场景，它的agent主要是服务于什么应用场景的。
+</p>
+<p class="transcript-line">
+<span class="time"><strong>[00:22:07]</strong> </span>
+<span class="speaker"><strong>发言人3: </strong></span>
+他们官网上之前应该有写过。比如说他们给这些销售开发代表，你可以用A来查找这些潜在客户信息，应该是可以跟这个操作集成，你可以所有操作都在scrappy dara上完成。
+</p>
+<p class="transcript-line">
+<span class="time"><strong>[00:22:17]</strong> </span>
+<span class="speaker"><strong>发言人1: </strong></span>
+所以这是一款硬件吗？还是一款软件？
+</p>
+<p class="transcript-line">
+<span class="time"><strong>[00:22:21]</strong> </span>
+<span class="speaker"><strong>发言人3: </strong></span>
+他们是YC去年刚。
+</p>
+<p class="transcript-line">
+<span class="time"><strong>[00:22:23]</strong> </span>
+<span class="speaker"><strong>发言人1: </strong></span>
+投的OK，但是它里面是有环境的。
+</p>
+<p class="transcript-line">
+<span class="time"><strong>[00:22:25]</strong> </span>
+<span class="speaker"><strong>发言人3: </strong></span>
+就是它给A正创造一个虚拟桌面，你可以在这个虚拟桌面上去执行所有东西。开头就是一个输入框，你进去之后你可以直接输入你想让他干的事情，他就会基于这个截屏，他们后面应该也接了那个cloud computer use。
+</p>
+<p class="transcript-line">
+<span class="time"><strong>[00:22:37]</strong> </span>
+<span class="speaker"><strong>发言人1: </strong></span>
+对我了解市场上其实大家想做这种编程的工具跟编程的agent可以说几十家都是有的。比如说最早的从大家直接用大模型来编程，到微软的这个copilot到cursor到David，他其实是在一直迭代的那为什么是柯sir跟David这两家公司做出来了？他比其他人好在哪？是因为他更深度的理解了这个环境吗？还是因为他只是做的早，然后很快的占有了市场？
+</p>
+<p class="transcript-line">
+<span class="time"><strong>[00:23:06]</strong> </span>
+<span class="speaker"><strong>发言人2: </strong></span>
+对，因为我是几乎每天都会用winsor，或者说是curse的平替。类似的。因为curse r现在也在快速迭代，但在我使用的过程当中，其实vince f会更好用一点。
+</p>
+<p class="transcript-line">
+<span class="time"><strong>[00:23:16]</strong> </span>
+<span class="speaker"><strong>发言人2: </strong></span>
+我觉得你刚才提的那个问题非常的精准，我认为winsor cursor或者说是更进一步的David本质上就是对于环境这件事情的理解比别人要到位。比如我举一个win sf里面的例子，win serf并不只是一个简单的对代码的插件。其实他特别理解环境里面我要怎么样去获得上下文，我的行动空间是什么。所以在温瑟夫刚推出来的时候，他自己内部就有一个帖子，一个他内部的引擎说他们公司最擅长的第一是做了一个context engine。他非常知道他所操作的代码空间里面数据在哪里，测试在哪里，文件在哪里，配置在哪里。他对这个环境是有一个很清晰的认知的。
+</p>
+<p class="transcript-line">
+<span class="time"><strong>[00:23:59]</strong> </span>
+<span class="speaker"><strong>发言人2: </strong></span>
+第二，是因为以前我们最早用curse写的时候，他只会写代码。但他不会帮你跑命令行，他不会帮你去互联网上搜索。但是win surf在过去几个月的版本里面是有这个功能的。也就是他也知道我的这个环境里面不仅仅是在写代码，我还要去作为命令行里面去执行一些文件操作。我这个环境里面可能还有一个面向，是可以去互联网上找到相关的技术文档拿回来做参考。你看他把针对于copilot这类的编程工具的环境边界就扩大了很多。
+</p>
+<p class="transcript-line">
+<span class="time"><strong>[00:24:31]</strong> </span>
+<span class="speaker"><strong>发言人2: </strong></span>
+David他的野心更大，他从第一天开始的时候，就是说我要直接把IDE去掉，我根本不在IDE里面去考虑环境的问题。他上来就做了一个大概有四个子界面的一个窗口。左边开着一个浏览器，下面开着一个IDE，上面开着一个和用户交流的空间，然后在底下可能开着一个类似于测试环境。然后他不仅做了这几个，他说我的环境是要比ID大得多，并且也细致得多。
+</p>
+<p class="transcript-line">
+<span class="time"><strong>[00:24:57]</strong> </span>
+<span class="speaker"><strong>发言人2: </strong></span>
+同时他还有一个功能，我当时觉得特别好玩。就是因为他的目标是让一个AI可以更完整的完成一个软件工程的闭环。所以它这个时间会很长时间，特别长了之后，大模型它就理解不了所有过程当中所有的行为。然后它就有一个区域，就有点像人一样。
+</p>
+<p class="transcript-line">
+<span class="time"><strong>[00:25:15]</strong> </span>
+<span class="speaker"><strong>发言人2: </strong></span>
+比如说我开发一个比较长的事情，我要记笔记，而且我这个笔记要不断的修正。所以他还在自己的环境里面专门加了一个笔记环境。那么这个笔记环境就好像有点是他的一个策略，是作战室。他有什么新的思考他就丢进去。然后过了一会儿，他可能有一段时间他不是在写代码或者在检索，他可能在修改他自己的笔记，来优化这个笔记当中的一些问题，或者优化这个笔记里面对于这个系统设计的一个架构。回去就非常吓人了。其实就人会自主创造一些环境，让自己来学会怎么在这些环境里面去迭代。
+</p>
+<p class="transcript-line">
+<span class="time"><strong>[00:25:45]</strong> </span>
+<span class="speaker"><strong>发言人2: </strong></span>
+这个其实也是一个很有意思，他们给了一个范例，也可以加入到整个agent的一个武器库当中来。就是我的环境里面可以加入到一个自己思维的一个空间。他们就是因为做了这个，所以大家就觉得这个市场本身足够大。因为全世界每年的软件工程，我记得是4.2万亿美金的一个市场。同时他们又对context，对于environment的理解更好，所以他们就跑在了前面，然后就那么多的热度。
+</p>
+<p class="transcript-line">
+<span class="time"><strong>[00:26:09]</strong> </span>
+<span class="speaker"><strong>发言人1: </strong></span>
+这个分析挺有意思的。我问一个可能普通人更关心的问题。就是刚刚其实大家有提到说，现在如果大家要去做一个agent的话，其实环境已经比数据更重要了。我可不可以理解成，只要你对一个方向有非常深度的理解，任何人都可以去构建自己的AI agent。他可能已经成为了一种创业门槛没有那么高的一个创业项目。之前可能是大厂的机会，但是现在它的门槛降了很多。
+</p>
+<p class="transcript-line">
+<span class="time"><strong>[00:26:40]</strong> </span>
+<span class="speaker"><strong>发言人2: </strong></span>
+它其实具有两面性，它的一面是因为我们要做一个AI agent，做好它，我们要用这种IFT的方式可以去大大减少对数据的依赖。所以我的可能资本的投入，各种各样的算力的投入相对来讲就会少一些。这的确是对的。
+</p>
+<p class="transcript-line">
+<span class="time"><strong>[00:26:58]</strong> </span>
+<span class="speaker"><strong>发言人2: </strong></span>
+但是我其实最近一直也在思考一个问题，就是我对于agent创业不是特别乐观的一个点是在于说，如果那么多人都可以来做agent，他如果做的还是服务型agent，到底有多少agents是值得被重新做的，尤其是消费者端，就C端的。举个例子，就deep research出来，像以前我们可能做学术的有很多学术的工具，然后做市场调研的有很多市场调研的工具。但是deep research这种通用的agent，至少把做信息的调研和研究这件事情，似乎可以通过一个AI agent完全覆盖住。因为人的需求本身是分几个大块的。也许就是说Operator它也不只是帮你买菜和订餐，帮你制定旅行的plan，它也许可以覆盖到100个场景。但是你想这以前就意味着100个不同的创业项目，现在就变成了一个agent就可以解决了。所以在消费者端，agent创业到底有多少的机会，我其实是有一点点怀疑的。
+</p>
+<p class="transcript-line">
+<span class="time"><strong>[00:27:57]</strong> </span>
+<span class="speaker"><strong>发言人1: </strong></span>
+你觉得他会被模型冲击到吗？是模型。
+</p>
+<p class="transcript-line">
+<span class="time"><strong>[00:28:00]</strong> </span>
+<span class="speaker"><strong>发言人2: </strong></span>
+或者说他会被大厂和大模型公司在一些非常大的领域上给占住他们的位置。然后剩下的一些很小的机会，他的创业的机会会比原来的移动互联网时代创业机会要小很多。
+</p>
+<p class="transcript-line">
+<span class="time"><strong>[00:28:14]</strong> </span>
+<span class="speaker"><strong>发言人1: </strong></span>
+所以这个时代其实是更适合做小而美的。因为大的机会巨头会去做对。
+</p>
+<p class="transcript-line">
+<span class="time"><strong>[00:28:20]</strong> </span>
+<span class="speaker"><strong>发言人2: </strong></span>
+而且每一个机会的边界会比原来的边界，比如一个软件产品或者一个APP的边界更容易变得更大。所以每一个被大厂占住的机会，它其实可以覆盖住人们的需求和注意力的空间会更大。我现在其实在想说，就普通人在参与到这个新的时代里面，他的机会到底在哪里？后来我就想到一个很有意思的一个案例，就是微信和抖音在移动互联网时代，它分别推出了公众号平台和他的抖音那个视频的平台，对不对？那其实平台级的机会这两家完全已经拿住了。就是创业公司可能要去做这种平台级的机会很少。那普通人为什么在这样的时代里面，他依然还能赚到钱呢？你会是发现这些平台上，你也得想办法去表达自己的个体性。所以就会有很多自媒体网红，他就可以利用这些平台去做一些新的东西。
+</p>
+<p class="transcript-line">
+<span class="time"><strong>[00:29:12]</strong> </span>
+<span class="speaker"><strong>发言人2: </strong></span>
+所以我还是认为我们如果只考虑AI它的工具的生产力的提升，其实它对于很多人来讲，的确是剥夺了它原来的那些价值。我没有想清楚这个形态，但我觉得就是说当AI形成网络之后，可能会有一波新的个体被释放的机会出来。然后那个时候可能会有新的创业。就好像现在其实很多做influencer的，其实他自己也可以是一个小的创业，对吧？然后他自己做的这个agent，比如说他做的是一个表达自己的一个agent，那么他有他自己独特的市场。但你说我要做一个服务于很多人的agent，我觉得机会是很小的。
+</p>
+<p class="transcript-line">
+<span class="time"><strong>[00:29:53]</strong> </span>
+<span class="speaker"><strong>发言人1: </strong></span>
+行业在快速上升，融资也在快速发生。但是我发现嘉宾的心态却发生了很多的变化，真正在做agent的人发现问题也越来越多。我们下面来听一下第二次的声音。这次我们在补录的时候是硅谷时间的5月6号的晚上。然后minus它已经发布了应该是有一个多月了。他在硅谷也是从benchmark那里拿到了好大一笔融资，估值有5亿美元。我不知道方波跟克anto你们是不是有试用过minus的DI agent，你们的感受是什么？
+</p>
+<p class="transcript-line">
+<span class="time"><strong>[00:30:30]</strong> </span>
+<span class="speaker"><strong>发言人3: </strong></span>
+我记得是有一天早上，我看到了menus发布。然后我当时有adventure code，基本上我可以算他们第一批试用的用户。我自己去用的时候，我是有很强的moment。因为之前有用过类似产品，比如说像repeat或者是cursor winsor p其实他们在某种层面上都有相同的这种用户路径，但是跟menus有不一样的用户体验。因为我自己是一个比较重视觉的人，所以我会觉得我的这个UI做的挺好看的，有一种notion的风格，这是我最开始的第一印象。后面我自己也有。
+</p>
+<p class="transcript-line">
+<span class="time"><strong>[00:31:00]</strong> </span>
+<span class="speaker"><strong>发言人3: </strong></span>
+们很长时间去用menus做一些use case。比如说用它做过很多的网站。我记得前几个月他还不能把一些网站publish，它只能是单纯做一个网站，不能发布到他们的user galleries里面去。但是现在他们已经可以支持你把它变成一个永久的网站，而不是一个暂时的网站，然后可以发布到他们的社区里面去。
+</p>
+<p class="transcript-line">
+<span class="time"><strong>[00:31:18]</strong> </span>
+<span class="speaker"><strong>发言人3: </strong></span>
+我可能用这些功能比较多，我也挺喜欢他们的记忆功能的跟open AAI的不太一样。因为ChatGPT它也上了这个memory，然后跟gen的那个global memory也不太一样。他更多的是给你两个条件，一个条件是当用户执行某些指令的时候，这是第一个语句。然后第二个是minus进行什么操作，但是如果你看open I的这个mini的话，它更像是以rag的形式存了一条属于用户的信息在那儿。它并不是像MS是指令对这样的存储方式。所以在正常的交互上，GPT不会有给我作为用户那么强的感知。
+</p>
+<p class="transcript-line">
+<span class="time"><strong>[00:31:52]</strong> </span>
+<span class="speaker"><strong>发言人3: </strong></span>
+因为我给menus存了一个指令，也是我用在所有的AI产品中的一个指令。就是我希望他能够在我给他下达任何命令之前，一定要先问我尽可能多的澄清性问题，要先跟我对齐。因为我觉得AI跟人之间对齐的问题是非常重要的。但是显然现在很多AI跟人是不对齐的。Minus他其实记住了我这个指令，他能一直不断的在执行任何任务之前都在跟我对齐。但GPT他其实一直没有记住我觉得这是基本上两方面，从UI和一些功能上面我对minus使用的体验。
+</p>
+<p class="transcript-line">
+<span class="time"><strong>[00:32:20]</strong> </span>
+<span class="speaker"><strong>发言人1: </strong></span>
+所以你觉得其实他打动你的主要还是在产品的设计上。你用他的主要的场景就是写网页。你觉得他能做出来的产品，你用其他的AI agent的工具，它可以做到相同的程度，买哪个更好？
+</p>
+<p class="transcript-line">
+<span class="time"><strong>[00:32:33]</strong> </span>
+<span class="speaker"><strong>发言人3: </strong></span>
+我可能得澄清一下，就是写网页是最后的一个载体。我可能用他的比较多的场景是让他帮我上网。大量的八资料就是做研究，但不是学术研究。比如说有段时间我在思考一些关于比如说生物方面或者是一些脑科学方面的一些知识。但是我懒得自己在搜，就要搜。所以我就会让menus变成我的助手，然后让他帮我在所有的地方去搜索这些信息，最后汇总过来一个报告给我们。因为我最开始在用max的时候，我总觉得它有一些信息的量非常大，但里面的质却有点低。所以我就在想OK，也许menus更适合做的不是深度的工作，而是广度的工作。
+</p>
+<p class="transcript-line">
+<span class="time"><strong>[00:33:10]</strong> </span>
+<span class="speaker"><strong>发言人3: </strong></span>
+那什么场景需要广度工作呢？可能我觉得是那些当我需要快速进入一个领域的时候，这些scenario会是我比较常用的。所以有些时候因为平时我会自己看很多产品，我需要了解更多新的这种领域，所以我会用menus帮我做这么一个基础的广度的研究。这些场景是我用的比较多，然后最后把它变成了一个可交互的网站。因为视觉也挺重要的，很多时候一些表啊，分析图啊，尤其是市场的一些分析图，呈现成网站的形式会更好看一点。因为我想做这个case，是因为当年我看了他们demo上有一个对特斯拉股票分析，然后做成了一个网站。我觉得还挺有意思，所以我每次都会让他帮我把它生成成为一个可以被交互的网站。
+</p>
+<p class="transcript-line">
+<span class="time"><strong>[00:33:48]</strong> </span>
+<span class="speaker"><strong>发言人1: </strong></span>
+你为什么用minus不用deep research？还是说这两个你的用的场景是不一样的。因为你刚刚用的那个功能，其实我觉得跟OpenAI他们推出的deep research是非常相似的。
+</p>
+<p class="transcript-line">
+<span class="time"><strong>[00:34:00]</strong> </span>
+<span class="speaker"><strong>发言人3: </strong></span>
+首先有两方面，第一方面我觉的不是等的时间太长了，而且等的时间其实我是非常焦虑的，然后我也看不到他在干嘛。但是minus很好的做到这个处理，就是它能展开告诉我它每一步OK，我现在调用网站了，然后我现在干什么东西，包括我可以随时打断他。但是第一步research，说实话我没有打断过他，可能也是能被打断，但是minus我可以更灵活去打断他。比如说很多时候他们有一个jump to live的功能，就是能够让你直接接管电脑。然后你代替agent去浏览某些网页，然后告诉他该看哪个地方。这功能是我很喜欢的，我会经常点这个jump to live，包括中间我觉得哪儿做错了，我可以打断他。然后我也能知道他是这块现在在看网页，现在在写代码。它更白合相比于OpenAI d research，然后对于rearch来说。
+</p>
+<p class="transcript-line">
+<span class="time"><strong>[00:34:43]</strong> </span>
+<span class="speaker"><strong>发言人1: </strong></span>
+其实我需要更强的可溯源性。所以这两个工具你更喜欢用哪一个？
+</p>
+<p class="transcript-line">
+<span class="time"><strong>[00:34:48]</strong> </span>
+<span class="speaker"><strong>发言人3: </strong></span>
+从你个人来说，我个人更喜欢minus，我也确实用minus比deep更多。
+</p>
+<p class="transcript-line">
+<span class="time"><strong>[00:34:53]</strong> </span>
+<span class="speaker"><strong>发言人2: </strong></span>
+方波我觉得他们做的有几件事情非常好的。因为原来我们在做一些agent，包括deep research，其实他只是在用一个搜索引擎。但是minus找到了一个更通用的行动级的组合，就是coding加GUI加上命令行。他们相信这种中间的行动集合，它是可以像八爪鱼一样的去渗透到各种各样的工具的。所以你就不用一个一个去集成工具，一个一个去集成网站。然后他们在coding GUI和命令行上去做他的整个agent的行动的规划和行动的这个能力。那目的肯定是为了通用。
+</p>
+<p class="transcript-line">
+<span class="time"><strong>[00:35:27]</strong> </span>
+<span class="speaker"><strong>发言人2: </strong></span>
+但是真正你做的时候，你就会发现，第一大部分人在用minus，还是在比如说做网页，做deep research，或者说做一些简单的PPT的展示。其实它还是属于人群里面比较狭窄的一个使用的部分，所以其实他并没有破圈。它更多是一个比如白领人群在日常要做素材的过程当中，或者说要做一些信息研究的过程当中去做的。但更泛的人群，比如说他怎么来帮助人去比较，或者在小红书上寻找信息，其实这些他都还没有破圈。我觉得这个破圈里面，一方面其实我觉得跟这个产品交互有关系，包括这个AI的能力可能还没有那么通用。但其实我们后来也在反思一个事情，就是说所谓的这个通用agent，它的限制到底是来自于模型还是工程，还是来自于别的。我觉得更大的限制可能是来自于这个数据的壁垒。
+</p>
+<p class="transcript-line">
+<span class="time"><strong>[00:36:18]</strong> </span>
+<span class="speaker"><strong>发言人2: </strong></span>
+因为今天人本身作为一个通用agents，他的行动范围很广。但是它由于人本身作为一个验证的token，它可以进入到任何环境里面去的。但是AI可能就没有办法进到你的小红书，进到你的各种各样的环境里。所以当这些关键的人在使用了关键的孤岛性的节点，我们已经被打断了之后，其实他的能力范畴就会受到很大的限制。
+</p>
+<p class="transcript-line">
+<span class="time"><strong>[00:36:41]</strong> </span>
+<span class="speaker"><strong>发言人1: </strong></span>
+对，刚刚其实你有提到3种能力，一种是模型的能力，工程的能力，还有数据壁垒的能力。然后你觉得未来可能在真实的用户的实验中，数据壁垒是一个非常重要的点跟核心竞争力。但其实我是听了minus他们的创始人张涛分享他是怎么做出来的。他觉得他们其实做出来，他这个产品能引爆的一个核心点其实是cloud的SONY3.7这个模型的发布同步。我也看了那个curse r的创始人他们在lex freeman博客上的一个采访，他其实也提到了这件事情。就是他们觉得比如说这种自动写代码的AI agent能火，curse能火，也是因为整个大模型跟模型能力的提升。
+</p>
+<p class="transcript-line">
+<span class="time"><strong>[00:37:22]</strong> </span>
+<span class="speaker"><strong>发言人1: </strong></span>
+为什么我们现在觉得copilot它看上去是一个有一点点old的AI coding的agent了？是因为它其实没有根据这个模型的升级，及时把他们的产品做升级。但归根结底大家觉得所有agent它的爆火，它的突然出圈，可能最重要的还是这个底层模型它能力上的提升。
+</p>
+<p class="transcript-line">
+<span class="time"><strong>[00:37:42]</strong> </span>
+<span class="speaker"><strong>发言人2: </strong></span>
+对我非常同意。一个是说大模型本身能力的提升带来了他智力的提升，对吧？那智力越高肯定对一件事情的理解力就越强。但更重要的一个点，为什么大家都在提sonnet？是因为coding。你可以理解为是一种通用的行动的空间。
+</p>
+<p class="transcript-line">
+<span class="time"><strong>[00:38:02]</strong> </span>
+<span class="speaker"><strong>发言人2: </strong></span>
+Coding非常强。我们的这个数字世界是为代码适配过的。由于coding这么一个通用layer的存在，使得你可以几乎写出任意的代码来操作任意背后的数据和环境。
+</p>
+<p class="transcript-line">
+<span class="time"><strong>[00:38:17]</strong> </span>
+<span class="speaker"><strong>发言人2: </strong></span>
+那么sonnet为什么厉害？其实不只是它智力高，而是它是第一个correct the coding problem的模型。它让几乎所有的任务在用户的指令下，可以通过coding这个中间层变成了操作背后数据和其他能力的八爪鱼。然后这个对agent来讲是巨大的提升。所以你刚才讲的cursor或者说是manus，它会非常appreciate这个能力。
+</p>
+<p class="transcript-line">
+<span class="time"><strong>[00:38:44]</strong> </span>
+<span class="speaker"><strong>发言人2: </strong></span>
+但是我想说的就是说数据的问题。因为毕竟我们这个环境里面，哪怕只是数字环境里面，你会发现很多平台，很多数据壁垒是通过coding无法越过去的。比如说我真的要去让他通过写代码来访问任何一个人的facebook的情况，那我就回答不了。今天这个时间点来看，我觉得minus还是有很多事情，包括任何agent还要成为通用。凡是coding能接触到的东西，他们都可以纳入进来。但是如果coding都接触不到壁垒就不行了。
+</p>
+<p class="transcript-line">
+<span class="time"><strong>[00:39:12]</strong> </span>
+<span class="speaker"><strong>发言人1: </strong></span>
+所以你觉得像cursor还有win serve这些AI coding的agent，它可能最后反而是最容易杀出来的，成为一个通用的AI agent。甚至它可以成为一个应用非常广的巨型的agent。
+</p>
+<p class="transcript-line">
+<span class="time"><strong>[00:39:27]</strong> </span>
+<span class="speaker"><strong>发言人2: </strong></span>
+他今天已经有这么一个趋势了，cursor和wince or f他已经加了一些自定义的MCP的接口。也就是说对于专业的人来讲，虽然他看上去是个写代码的，他甚至可以把你的notion加进去。他甚至可以把你的各种各样的别的平台的MCP加进去，让那个AI不只是在编程，它甚至过程当中也在做类似于minus这样的事情，来编辑你的notion。
+</p>
+<p class="transcript-line">
+<span class="time"><strong>[00:39:49]</strong> </span>
+<span class="speaker"><strong>发言人1: </strong></span>
+对，因为我最近特别喜欢用那个cloud SONY做图，就是它有一个很好用的功能，我觉得很多人可能不知道。你可以给一段你的话，或者给一段你的逻辑关系。它是可以帮你生成一张类似于PPT的一个非常漂亮的表格的，然后他就是通过头顶的方式完成的。
+</p>
+<p class="transcript-line">
+<span class="time"><strong>[00:40:07]</strong> </span>
+<span class="speaker"><strong>发言人3: </strong></span>
+我一直想说就是minus，其实它有非常强的对模型的依赖。我们是想发展出来一个很好的趋势，就是模型越强反而我越强，而不是模型越强然后我就没了。因为之前不是有一段时间GPT在疯狂更新，很多YC的AI公司就全都不行了。因为他们构建的方法可能不太对我其实觉得minus也有一些方面的依赖。比如说它的能力是外包对吧？它的智能能力基本上全部都是托管给大元模型。比如靠3.7层的，比如说你的任务理解，工具调用等等我猜测这也是他们为什么要有dimension code。
+</p>
+<p class="transcript-line">
+<span class="time"><strong>[00:40:36]</strong> </span>
+<span class="speaker"><strong>发言人3: </strong></span>
+因为有成本和不稳定性的问题。比如说你的模型升级API波动，然后还有一些延迟的问题，包括你的输出幻觉，其实都会成为你在产品层的一个不可控的变量。因为我自己的本职是做产品经理，我也在想就是从产品侧该怎么更好的去解决这个问题。
+</p>
+<p class="transcript-line">
+<span class="time"><strong>[00:40:52]</strong> </span>
+<span class="speaker"><strong>发言人3: </strong></span>
+就是尧舜禹他写了一篇文章，就RL有三个东西，一个是算法，一个是环境，然后还有一个是先验的知识。另外他觉得是比training更重要的。我当时看到他说这句话的时候，我是非常认同的。然后包括我记得咱们三月份在录那期播客的时候，我记得咱们聊到一个话题，就是环境是不是优于数据的。
+</p>
+<p class="transcript-line">
+<span class="time"><strong>[00:41:09]</strong> </span>
+<span class="speaker"><strong>发言人3: </strong></span>
+不过我现在可能更想探讨的是，为什么evaluation那么重要。在之前我去把很多AI产品做好，我会过度聚焦在prompt工程，或者是我在挑选什么最新大模型。但其实我觉得真正决定产品质量的是对你系统效果的可衡量性的一种判断机制，也就是evaluation。如果比喻一下的话，就是prom是那把武器，但是evaluation是你的准星。
+</p>
+<p class="transcript-line">
+<span class="time"><strong>[00:41:32]</strong> </span>
+<span class="speaker"><strong>发言人3: </strong></span>
+因为一个AI产品它不可能靠一次成功的demo就火，对吧？它是要靠持续迭代的，所以evAlina会是你唯一可以量化每次产品你变更后效果的一个工具。但是它又跟传统测试不太一样，你需要非常灵活和语义化的系统。然后现在基本上就只有三种，一种是human evaluation，你好处就是你与用户的偏好直接相关的对吧？然后你有人类的语义理解，但是局限性也很明显。现在有很多论文都在讲human evolution，就是你的反馈很稀疏，很不精准，而且你的成本很高。所以就有人做出来了这个code base evaluation，它很快速，然后又便宜，它比较适用这种代码生成类的模型。但是它局限就很明显，你很不适用语义很复杂或者是用户的交互很丰富的应用。
+</p>
+<p class="transcript-line">
+<span class="time"><strong>[00:42:12]</strong> </span>
+<span class="speaker"><strong>发言人3: </strong></span>
+现在最新的论文在讲的点就是应该就是LM base的这个evaluation，就是纯自动的。也就是说让模型不但能够生成东西，又能够评估自己的表现，它自动化程度会变得更高。所以我会在想，如果说往后发展很多这种AI agent，让他们活下来并具有一定的竞争力，其实evaluation是非常必不可少的一个能力中心。
+</p>
+<p class="transcript-line">
+<span class="time"><strong>[00:42:33]</strong> </span>
+<span class="speaker"><strong>发言人3: </strong></span>
+应该从一开始就建立一个系统性的一个框架。Menus显然有很多模块，对吧？你的意图识别，你怎么调用工具，调用API，然后怎么生成，其实都需要单独定义一个event的逻辑。它不是一个附加测试，它应该是整个A正框架的一部分。因为类似于devil Operations就是AIA应该有自己的这种evaluation Operations。就你的任何一次响应生成执行都应该过一次评估机制。
+</p>
+<p class="transcript-line">
+<span class="time"><strong>[00:42:55]</strong> </span>
+<span class="speaker"><strong>发言人3: </strong></span>
+最终你可以发展出来一些，比如通用的这种evaluation模板库，然后你把它扩展到一些新任务上面，就有点像是photo x这种开源框架对吧？你可以抽象出event的模块，然后你复用到不同场景上。比如说有summary，然后有rag，然后有coding generation等等我觉得这个可能是后面的一个很重要的部分。
+</p>
+<p class="transcript-line">
+<span class="time"><strong>[00:43:12]</strong> </span>
+<span class="speaker"><strong>发言人2: </strong></span>
+对我觉得说的很对，尤其是要面向于真实环境的evaluation。未来的AI产品本质上可能都是agent产品。Agent产品。首先我们上次提到的是先要关注环境，那么在环境之上，其实我就要关注怎么去evaluate他在这个环境下的表现。但如果我们可以把这个evaluation上升到reward，那么这个reward我们具有一个可重复生成的特点。在这个环境上的evaluation是一个reward。那么AI在自己在探索自己优化的空间的时候，它就可以有一个可以随时参照的reward去对齐或者去学习。这个可能是接下来的agent产品更加重要的思考的一个路线。
+</p>
+<p class="transcript-line">
+<span class="time"><strong>[00:43:57]</strong> </span>
+<span class="speaker"><strong>发言人1: </strong></span>
+对evaluation确实是一个很重要的问题。也让我想起另一个技术问题，就是关于RFT强化学习微调与SFT监督微调这两种方式的区别。在OpenAI发布RFT的技术以后，我知道现在绝大部分的AI agent的创业者，他们都会选RFT的方式去做，因为效果更好。但是其实我们跟一些更加老牌的做agent的创业者聊，他们会觉得SFT它其实是更节省成本的一种方式。因为RFT的效果可能会比SFT好一个25%左右，就现在做出来大概是这样一个效果，但是在成本上可能是几倍的增加。那我们需不需要为了一个25%的效果？因为你的agent推出来，你可能是有一个大规模的用户去使用的。来去付出更多的成本，还是说先用SFT去节省成本，大家怎么看？我听说minus他们团队内部是用的SFT的技术。
+</p>
+<p class="transcript-line">
+<span class="time"><strong>[00:45:01]</strong> </span>
+<span class="speaker"><strong>发言人2: </strong></span>
+这是一个很好的问题。就是supervised by tuning还是reinforcement fine tuning。我认为技术圈在慢慢的往RFT去迁移。
+</p>
+<p class="transcript-line">
+<span class="time"><strong>[00:45:11]</strong> </span>
+<span class="speaker"><strong>发言人2: </strong></span>
+至于minus为什么当时没有用RFT呢？是因为RFT的发布本身也没有多久，而且IFT是要调背后的那个带有思维链的模型的。如果他们选择了用SUN net sunlight是不允许你去微调它。所以他们所谓的用SFT调的，其实并不是他中间做思维链过程的那个model，他其实是用SFT。我估计他们是在调，比如说那个computer use model，其实他是在调他们的手，而不是在调他们的脑子。
+</p>
+<p class="transcript-line">
+<span class="time"><strong>[00:45:35]</strong> </span>
+<span class="speaker"><strong>发言人3: </strong></span>
+其实红姐我还想再补充一个小点。对我其实觉得max有几个挺明显的困境。我记得他们最早能报，除了一方面像涛哥讲到的，他自己说到的，可能克劳散热器出来了，然后模型变得更强。他们做出来这么一个产品力很强的产品也被带动了。
+</p>
+<p class="transcript-line">
+<span class="time"><strong>[00:45:51]</strong> </span>
+<span class="speaker"><strong>发言人3: </strong></span>
+但我觉得还有另外一方面，就是他们把自己定位成了第一个world first general AI agent这样的一个定位。他们要去抓用户的一个心智。但是这个东西我觉得是一个非常双刃剑的事儿，因为你抓了用户心智。但其实journalist这样的一个定位其实是很悖论的。就是你能做任何事情听起来很强，但是用户永远不会想一个什么都能做的人来帮自己做这件事情。就是通用型，它其实更等于没有第一的联想场景，等于没有心智位置。所以他们最开始抓这种心智更像是一种hip。就是我抓到了那些early adopter，他们觉得OK你挺酷的，但是你后面该怎么做呢？
+</p>
+<p class="transcript-line">
+<span class="time"><strong>[00:46:29]</strong> </span>
+<span class="speaker"><strong>发言人3: </strong></span>
+可能这是一个很强的双刃剑的问题，就是定位上。然后另外其实我觉得对于AI agent这样的产品，你的认知启动成本其实是挺高的。因为通用agent的学习和使用都需要用户来理解agent的能力边界是什么，以及agent是怎么表达的。他比你单纯去按几个按钮是更难学会的。因为许多用户他根本不知道我该说什么。这也是我觉得现在业内聊的很多的一个问题。
+</p>
+<p class="transcript-line">
+<span class="time"><strong>[00:46:53]</strong> </span>
+<span class="speaker"><strong>发言人3: </strong></span>
+因为我现在用这种LEY的产品，说实话我都不知道该怎么去提这个问，然后我该怎么说，然后他能怎么做。这也是为什么我之前讲到，就是可能我会倾向于让他来问我，来跟我澄清，然后我再回答他的问题，再来到我觉得最重要的一个弊端点，就是网络效应。我觉得可能max的网络效应是断裂的。
+</p>
+<p class="transcript-line">
+<span class="time"><strong>[00:47:12]</strong> </span>
+<span class="speaker"><strong>发言人3: </strong></span>
+因为通用agent是没有统一场景的，也就是说你难以形成一个平台级的fly will。它不像notion slight，它是有组织单位，它不像ins吧？它是有一个社交结构的。现在就是有很多的这种user galli？用户上传的use case反馈和数据分散，所以它难以构建一个正反馈的机制。所以我觉得这三点可能是很大的一个问题。
+</p>
+<p class="transcript-line">
+<span class="time"><strong>[00:47:32]</strong> </span>
+<span class="speaker"><strong>发言人3: </strong></span>
+然后我也对应的想了想一些比较有意思的策略。因为其实通用的这种定位，历史上其实有挺多人栽过跟头的。比如说有一个产品挺老的，就是在09年的时候，它叫google wave，它是一个集合体。Google现在还有没有我不知道，可能已经被删掉。它集成了邮件、IM协作文档，还有一些可发布东西的这个平台。但它失败的点就是用户根本不知道它是啥，也不知道拿它来干嘛。现在我猜也没多少人知道这个产品了。但是我在挖掘以前google的一些产品的时候，google有个坟墓，那坟墓里面找到了这个google wave。但后来这些功能它被切分了，切成了现在的gmail，然后doc和现在的chat。
+</p>
+<p class="transcript-line">
+<span class="time"><strong>[00:48:07]</strong> </span>
+<span class="speaker"><strong>发言人3: </strong></span>
+其实我们能看到就是都是从通用的一个定位，然后慢慢切成更加垂直。现在我也能看到也有一些动作，包括curse也有一些动作，就是他们都在全球办了很多的活动，我觉得这是他们的一个策略，就是想通过community lead ross的方式去更好的接触用户，了解用户到底真正需要什么垂直场景的东西，以沉淀更好的use case以及user scenario。最后为他们找到方向，然后让menus往这些垂直的领域去走，避免google wave这样的产品的出现。对我觉得这可能是他在通用上面怎么解决的问题。
+</p>
+<p class="transcript-line">
+<span class="time"><strong>[00:48:40]</strong> </span>
+<span class="speaker"><strong>发言人1: </strong></span>
+你刚刚提到了AI agent如何表达？比如说你提到了一个例子，就是你让agent来问你一些问题，这是一种它的表达方式。在你现在试用过的这些agent当中，你觉得有哪些agent它的表达是非常好的，或者它的交互是非常好的。
+</p>
+<p class="transcript-line">
+<span class="time"><strong>[00:48:57]</strong> </span>
+<span class="speaker"><strong>发言人3: </strong></span>
+我其实觉得还是repeat，因为它能非常好的在我需要他来跟我澄清的环节来跟我进行澄清。其实我还想再提另外一个产品，就是它有可能是我的竞争对手，它叫fellow。这个产品也是最近才新发的，它是一个agent&#x27;s browser，是谢洋做的。它里面很符合我的一个预期，就是他在执行任何的任务之前，然后他会更可视化的跟我对齐。对齐完之后，我就可以让他自己去运行了。
+</p>
+<p class="transcript-line">
+<span class="time"><strong>[00:49:22]</strong> </span>
+<span class="speaker"><strong>发言人3: </strong></span>
+因为它是PC端，所以它其实是有系统级权限的。在每一次有高危的操作的时候，他会过来找我，他会系统级直接给我弹窗。比如说OK这块需要你登录一下，OK这块需要你输个密码。但minus经常会由于没有这样的对齐，由于这样的高危操作场景，它其实没有权限，所以它会直接卡在那儿。一方面可能直接消耗干净了我的credit，另外一方面可能直接没有完成任务。所以我觉得就是像fellow和ripple，他们都会在关键的场景让human in the loop，我们来跟他进行对接。
+</p>
+<p class="transcript-line">
+<span class="time"><strong>[00:49:51]</strong> </span>
+<span class="speaker"><strong>发言人1: </strong></span>
+对，因为其实我们今天聊AI agent也是一个比较大的话题，我想问一下，你们觉得现在在你们用过的agent里面，从整个的用户使用体验，包括我们从商业判断这个产品商业前景的角度，有哪些是你们特别看好的公司吗？
+</p>
+<p class="transcript-line">
+<span class="time"><strong>[00:50:07]</strong> </span>
+<span class="speaker"><strong>发言人2: </strong></span>
+我个人认为，今天这个市场上还并没有出现一个真正的说是全人群全通用场景的A的产品。但是我觉得大家其实还是在找一个角度切进去。我比较看好的一个实话实说还是curse他是从技术人员的角度切进去。但是我觉得我们都低估了Chris or作为一个未来的通用agent的潜力。
+</p>
+<p class="transcript-line">
+<span class="time"><strong>[00:50:29]</strong> </span>
+<span class="speaker"><strong>发言人2: </strong></span>
+很多人对科室的印象还是一个做web coding的一个工具，对吧？或者说是来辅助编程的一个工具。但随着MCP这样的基础的建设，科技其实很积极的在拥抱，把它由一个编程工具变成一个可以开放性的连接各种场景应用数据的一个平台。我就在想是不是有一天它这个界面都会改掉，也许它不是一个纯IDE的界面，或者说它会有一个模式。一种是以IDE为中心，我的目标还是做代码的产出，对吧？另外一种可能是代码产出只是辅助的，我的目标其实是为了完成任务。美国公司其实做这些事情的时候就有一个特点，就是它会先搭一个比较solid的底层，然后一层一层往上lair的上面去建设。我比较看好他们。
+</p>
+<p class="transcript-line">
+<span class="time"><strong>[00:51:13]</strong> </span>
+<span class="speaker"><strong>发言人1: </strong></span>
+为什么是cursor不是win serve呢？因为在我们今天录播课的时候，外媒还传出一个消息是OpenAI打算30亿美元收购we serve。然后win NRF它也是一个很好的代码工具。
+</p>
+<p class="transcript-line">
+<span class="time"><strong>[00:51:27]</strong> </span>
+<span class="speaker"><strong>发言人2: </strong></span>
+对，就是他们其实差不多。
+</p>
+<p class="transcript-line">
+<span class="time"><strong>[00:51:29]</strong> </span>
+<span class="speaker"><strong>发言人1: </strong></span>
+你想表达的是这一类不阻止这家公司。
+</p>
+<p class="transcript-line">
+<span class="time"><strong>[00:51:32]</strong> </span>
+<span class="speaker"><strong>发言人2: </strong></span>
+对对对，但是curse r他的整个市场渗透率还是更高一点。他毕竟还是在温瑟夫之前更早做出了这个心态，所以我比较相信他们团队在探索上的那种进取心。文瑟夫被欧莱雅收购也不代表他我不知道，也许他跟欧班牙也会给他注入一个很强的意志，让他变成一个通用agent。当一个独立的团队，我想他的自由空间会更大一点。
+</p>
+<p class="transcript-line">
+<span class="time"><strong>[00:51:54]</strong> </span>
+<span class="speaker"><strong>发言人1: </strong></span>
+明白，对。
+</p>
+<p class="transcript-line">
+<span class="time"><strong>[00:51:55]</strong> </span>
+<span class="speaker"><strong>发言人2: </strong></span>
+补充一句就是我觉得manner才是有机会的。他是从办公人群的一些办从场景去切入的，也不只是做deep research了，它也其实有蛮多做文件处理之类的能力，他都有的。但我觉得他也是从这个角度去切入，正确的做法是慢慢的去拓展它上面的能力集。其实通用agents的建设是一个很长期的持续积累的过程。
+</p>
+<p class="transcript-line">
+<span class="time"><strong>[00:52:18]</strong> </span>
+<span class="speaker"><strong>发言人1: </strong></span>
+可能有吗？
+</p>
+<p class="transcript-line">
+<span class="time"><strong>[00:52:20]</strong> </span>
+<span class="speaker"><strong>发言人3: </strong></span>
+可能我关注的A类产品，我觉得非常有前景的，都是那种特别垂的，可能也不是大部分人知道，但是他在他们那个领域应该是非常出名。
+</p>
+<p class="transcript-line">
+<span class="time"><strong>[00:52:28]</strong> </span>
+<span class="speaker"><strong>发言人1: </strong></span>
+这种很好。因为我自己是很喜欢用很垂的agent的，因为我觉得它可以解决一个非常具体的细分的需求，对我来说这就够了。
+</p>
+<p class="transcript-line">
+<span class="time"><strong>[00:52:37]</strong> </span>
+<span class="speaker"><strong>发言人3: </strong></span>
+对我用过超级多很垂的，然后我就觉得有几个非常的好，极其有前景的。比如说那个mental VANTEL，好像他其实还火了一下，他应该刚刚拿到YC的钱了。就是他专门给那些商业保险经纪人做的一个人工智能软件。就是因为很多那种做保险的人，他们80%的时间都是那种重复性的工作。比如说你要做很多保单分析，然后你要手动录入很多数据。所以他们专门帮insurance这类的user去做一个自动化流程。这么一个AI的agent，他们自己讲能每周帮一个经纪人省十个多小时的时间。然后他们的最开始的demo能够让一个经纪人在五分钟就能够比较什么长达几百页，富含多少个什么factor的报单。我觉得那个效果很好。我看了他们demo，然后看了很多user feed back，就是这个产品挺有意思的。
+</p>
+<p class="transcript-line">
+<span class="time"><strong>[00:53:23]</strong> </span>
+<span class="speaker"><strong>发言人3: </strong></span>
+另外还有一个是二三年的时候我很关注，他们现在做的也不错，他们叫sweet spot。我一直觉得这个产品未来大有前途，因为他们是做AI for granting的，跟我自己之前的创业小项目非常像。但他们虽然是做全球，就是他们帮助全球的business，以及NPO、NGO包括一些SMBS申请grant联邦补助金，帮他们读contract，然后还能帮他们做招投标的分析，以及帮他们招投标，这个做的非常好。就是我当时为了不付钱，我换了八九个邮箱，因为他每次是只给你48小时限定时用。最后我联系了他们的CEO，让他们能不能给我开一个会员，因为真的很好用，而他们里面的用户体验做的非常好，就是前期帮你搜各种的contract，搜出来之后能够帮你做很深的解读。所以他们的UI在23的时候做的就不错了。
+</p>
+<p class="transcript-line">
+<span class="time"><strong>[00:54:13]</strong> </span>
+<span class="speaker"><strong>发言人1: </strong></span>
+它叫sweet spot.
+</p>
+<p class="transcript-line">
+<span class="time"><strong>[00:54:15]</strong> </span>
+<span class="speaker"><strong>发言人3: </strong></span>
+就是甜蜜点。Sweet spot AI是一个粉色的。
+</p>
+<p class="transcript-line">
+<span class="time"><strong>[00:54:18]</strong> </span>
+<span class="speaker"><strong>发言人1: </strong></span>
+我自己用过一个，我觉得还挺不错的，也是非常垂类场景的。AI agent是叫gamma GAMMA，他是一个可以用AI去做PPT的设计软件。之前大家可能比较习惯用canvas，但是我用了它以后，我觉得它可以秒杀。看完我只用给他一个大概的框架，它所有的内容会用AI自动帮我生成，然后排版。假设我小朋友的学校给大家讲什么是pocket，让他给我做一个PPT，五分钟完事儿。而且如果你觉得哪个地方你稍微要修改一下，你给他一个框架或者你给他一个主题，他会直接去生成这样的一套PPT。他输出的PPT你觉得哪里有错误，你直接手动在里面改一下，然后把它导出就好了。我觉得非常方便，它排版也很好看。
+</p>
+<p class="transcript-line">
+<span class="time"><strong>[00:55:06]</strong> </span>
+<span class="speaker"><strong>发言人3: </strong></span>
+这个很巧，就是我是gamma的前好像是前100个用户，因为他们是2020年创始的，我的那个账号到现在的creasy应该是用不完的。就是我一直用伽马，很多人对伽马有印象，是像刚才您讲的，这个就是可以用AI generate的PPT。但是我当年用gama是根本就没有AI的时候，那个时候我觉得这个产品非常牛逼。我现在所有的presentation，还有我所有的PPT，我只用伽马做。而且我觉得不是因为它的AI功能，而是因为它的立体效果。
+</p>
+<p class="transcript-line">
+<span class="time"><strong>[00:55:33]</strong> </span>
+<span class="speaker"><strong>发言人1: </strong></span>
+对它的设计非常好。
+</p>
+<p class="transcript-line">
+<span class="time"><strong>[00:55:35]</strong> </span>
+<span class="speaker"><strong>发言人3: </strong></span>
+对对对，它是模块化的PPT，然后把不同的模块可以拖拽到不同的页面上去，所以会有很炸裂的视觉效果。当时我大概记得是疫情的时候，应该是21年20年的时候看了他们一个demo，怎么就能够在那种静态的这个PPT上啪炸出来一个视频，我觉得太帅了。然后我就觉得一定要用这个伽马去做一个PPT，然后效果就非常炸裂，所以我后面就一直用他们。然后他们现在又出了各种AI生成的功能，我觉得做的是非常完善的。因为我叫应该是刚announced他们出了AI功能，但其实gama他对用户的这种分析，虽然他们现在如果不付费的话只能用十张，但是这十张已经是我觉得覆盖到大部分人非常常见的需求了。然后包括他可以对每一页做很精细的微调，提供基本上所有的组件。是他还能对你每一个家的图片上面区分你是不是可以商用，还是说我可以去不同的这个图片库里面搜。就是我觉得每一个细节他们都考虑到了。
+</p>
+<p class="transcript-line">
+<span class="time"><strong>[00:56:22]</strong> </span>
+<span class="speaker"><strong>发言人1: </strong></span>
+对对对，他的能力就像你说的，不仅仅是在AI而是他在整个设计领域，包括PPT的交互上整个都做得非常好。我觉得他在这个垂直领域的积淀还是很深的。是的，还有一个是想问一下大家，这两个月就比我们上次录AI agent，你们觉得就是两个月过去了，但是是发展非常快的两个月。大家觉得你们在心态或者做事方式上有哪些变化吗？
+</p>
+<p class="transcript-line">
+<span class="time"><strong>[00:56:46]</strong> </span>
+<span class="speaker"><strong>发言人3: </strong></span>
+我觉得有非常明显的变化，尤其这几个月来讲，matus出来，然后各种产品都出来了，其实我做事情的这个速度会变得更加的快了当我去横向看很多的竞争对手的时候，我会觉得他们的速度非常快。不管是开源还是闭源世界，其实都会要求你对一个事情的执行，甚至有些时候要大于你的planning。因为之前可能我从产品经理角度来思考，很多时候我们的第一想法是先去拆解很多东西。所以你会把很多东西想得很细，然后你就会长篇大论的写了一堆东西。包括我们传统来讲，我们应该写PRD的。但实际上现在我觉得很多公司可能也对PRD这个事情是没有那么的重视。
+</p>
+<p class="transcript-line">
+<span class="time"><strong>[00:57:24]</strong> </span>
+<span class="speaker"><strong>发言人3: </strong></span>
+我们觉得应该打通更快的链路。比如说从产品的需求，然后到工程的实施。所以不但是个人的方面，包括在工作场景下，我觉得所有的事情都在加速。可能跟不管是行业内所有产品的浪潮，还跟这个时代的速度，我觉得都是有一个同样的速率。这是我最大的体验，就变快了。
+</p>
+<p class="transcript-line">
+<span class="time"><strong>[00:57:42]</strong> </span>
+<span class="speaker"><strong>发言人1: </strong></span>
+对，然后你上次说你自己断断续续的其实有做过两百多个agent，这两百多个agent有什么你商业化比较成功的吗？
+</p>
+<p class="transcript-line">
+<span class="time"><strong>[00:57:51]</strong> </span>
+<span class="speaker"><strong>发言人3: </strong></span>
+我觉得他们不能被称之为agent。上次可能我说应该是check out，我觉得agent还没有到那个程度。因为我觉得他不够智能，或者是他不够动态，更像是个workflow。然后我觉得里面比较好商业化的，其实还是我二三年做那个，它是一个很长的pipeline，我们当时服务的是东非的中大型的NGUNPU。
+</p>
+<p class="transcript-line">
+<span class="time"><strong>[00:58:10]</strong> </span>
+<span class="speaker"><strong>发言人3: </strong></span>
+帮他们去申请federal granting，因为他们是非常缺这笔钱的，所以帮他们从第一步就是做搜索。那时候用的是AI搜索。因为你以往去搜一个grand，就是你入口是非常深的，而且你需要去抓取各种网页的东西。所以我为什么不把他们搜索完之后直接展开一个答案给他们，而不是给他们一个结果列表。所以这个场景是很适合搜索的对，第一步就是先展开这个结果，然后用户可以去选择那些他们感兴趣看完结果的grant，然后再跟那个grant上面的文件进行对话，旁边就会有个口拍类的。第三步就是当你用户点击申请之后，可能我会把你跳转到action al的界面，然后你也可以回来在我们的这个编辑器上面去编辑你的这些文书。然后你写完之后，我们当时没有做一个协同这么一个功能。我们就是让用户自己登录到本地，然后再copy去XL的网站上面，帮他们去交申请，大概是这样的一个pipeline。
+</p>
+<p class="transcript-line">
+<span class="time"><strong>[00:58:54]</strong> </span>
+<span class="speaker"><strong>发言人3: </strong></span>
+我觉得那个时候还是人工需要看好每一步的。但是后面我做了很多chatbot，都是我在在实习或者各种工作中，就是在不同的场景里面做了一堆。但是那些都没有对个人有商业化，但对公司应该是有商业化的对，但是都比较分散。
+</p>
+<p class="transcript-line">
+<span class="time"><strong>[00:59:09]</strong> </span>
+<span class="speaker"><strong>发言人1: </strong></span>
+方波我觉得这两个月你们最大的变化应该是你们second me的这个产品lunch了。
+</p>
+<p class="transcript-line">
+<span class="time"><strong>[00:59:14]</strong> </span>
+<span class="speaker"><strong>发言人2: </strong></span>
+对我最大的关于整个agent主题的感受，我跟卡兰特反而是有一点反着的。因为2025年年初的时候，大家觉得今年是the year of agent。然后虽然menus发布的，虽然MCP也在变得越来越火。但是我现在反而认为agent在2025年如果要破茧而出，成为一个真的大众型的使用AI的一种方式，还是有很多很多就是越做你会发现问题越多。你比如说大大元模型，今天你会认为尤其在国内，像豆包这种，甚至我爸妈那样的人他们都会去用。它其实已经变成一个通用的产品形态了，就基于大于目前的聊天机器人。但如果我们说a agent，无论它是由一堆垂直的agent组成，还是说有一两个大的通用agent组成，真的可以让普通人每天也去用agent，我觉得距离还蛮大的。而且很多问题的解决可能它是一个行业性的解决，不是一个简单说哪家公司开发了一个什么技术，它就可以解决。
+</p>
+<p class="transcript-line">
+<span class="time"><strong>[01:00:14]</strong> </span>
+<span class="speaker"><strong>发言人2: </strong></span>
+我举两个例子，第一个例子就是我们刚才提到的，因为任何一个AI agent，它其实本质上它是在桥接用户和环境中间的一个，你可以理解为是一个转化器。他把用户的需求不断的挖掘出来，然后在环境当中不断的转化成行动。然后他在不断的进行这个双向通道的沟通。其实环境测虽然今天有MCP，但其实MCP这个协议还非常的不完善，包括它的整个渗透率也非常低。它就像任何我们所有的标准化协议要去渗透一样，需要生态去配合的时候，你可能对它的预期都是以年维度来计算的，而不是以月或者以周维度来计算。这是我的一个初步的判断，所以我觉得这里面有很长时间的生态的建设要去做。
+</p>
+<p class="transcript-line">
+<span class="time"><strong>[01:00:58]</strong> </span>
+<span class="speaker"><strong>发言人2: </strong></span>
+另外一个就是你们刚才一直在到关于AI到底怎么来问人，来获得更好的对你对于你需求的捕捉，或者对你偏好的捕捉。我们虽然发布了开源项目，现在大概一共有92K的star也有很多很多社区里面的人尝试在用我们这个东西。但我们发现它也是一个很难的问题。就是在未来的这个世界里面，人如果真的要去用好agent这个工具，他自己就有有一个很好的输出的一个通道。
+</p>
+<p class="transcript-line">
+<span class="time"><strong>[01:01:23]</strong> </span>
+<span class="speaker"><strong>发言人1: </strong></span>
+理解确实也是很根本的问题。简单一句话跟听众解释一下，这个MCP应该就是多智能体协作的一套协议，对不对？
+</p>
+<p class="transcript-line">
+<span class="time"><strong>[01:01:32]</strong> </span>
+<span class="speaker"><strong>发言人2: </strong></span>
+也不是，MCP是一个AI的智能体，一个agency怎么样去访问其他的信息源或者service的一个协议，它不是AI和AI之间的，是AI和一个服务之间的。
+</p>
+<p class="transcript-line">
+<span class="time"><strong>[01:01:45]</strong> </span>
+<span class="speaker"><strong>发言人1: </strong></span>
+你刚刚提到有一个细节点，就是你说MCP他可能也是以年为单位去进化的。可不可以简单列举一下，就是你觉得他现在带进化的一些点。
+</p>
+<p class="transcript-line">
+<span class="time"><strong>[01:01:55]</strong> </span>
+<span class="speaker"><strong>发言人2: </strong></span>
+我觉得以年维度来进化。第一个点还不是说他这个协议到底有什么特别大的根本性的缺点，当然它有很多待提升的地方。最大的点是当你说我要这个行业愿意去拥抱这个协议，把我的数据开放出来的时候，其实很多很多的平台他是不乐意的。因为这数据或者说这个接口本来在他们眼中是一个能够他们商业化整个依赖的一个基础。
+</p>
+<p class="transcript-line">
+<span class="time"><strong>[01:02:21]</strong> </span>
+<span class="speaker"><strong>发言人2: </strong></span>
+那今天我让别的agent可以来通过一种MCP型的协议来使用我的接口和数据。那里面的比如说identification的问题怎么解决？里面的数据隐私的问题怎么保护？最核心的是我把数据给你我的商业化怎么保障。这些问题其实今天并没有一个行业的标准去解好，现在只是说我有了一个技术的通道。
+</p>
+<p class="transcript-line">
+<span class="time"><strong>[01:02:42]</strong> </span>
+<span class="speaker"><strong>发言人2: </strong></span>
+在这种情况下，我觉得整个industry adoption是一个以年为单位去走的一个过程。所以在我看来，今天的MCP更多的还是一种对于API的AI化的一个封窗，而没有到真正的AI native的。让AI能够通过这个MCP的扇门进到对方的环境里面去做自由的操作这样一个阶段。
+</p>
+<p class="transcript-line">
+<span class="time"><strong>[01:03:04]</strong> </span>
+<span class="speaker"><strong>发言人1: </strong></span>
+好的，好好，那我们就先这样。谢谢大家好。
+</p>
+<p class="transcript-line">
+<span class="time"><strong>[01:03:08]</strong> </span>
+<span class="speaker"><strong>发言人2: </strong></span>
+谢谢。
+</p>
+<p class="transcript-line">
+<span class="time"><strong>[01:03:09]</strong> </span>
+<span class="speaker"><strong>发言人3: </strong></span>
+OK，谢谢。
+</p>
+<p class="transcript-line">
+<span class="time"><strong>[01:03:14]</strong> </span>
+<span class="speaker"><strong>发言人1: </strong></span>
+这就是我们今天的节目。如果大家听到这里还觉得不过瘾，可以持续的关注我们我们接下来还会推出一期AI agent使用体验的节目。而这期节目也很有意思，就是我们找了很多AI agent的资深用户和搭建者，一边是用户的吐槽，一边是搭建者的回应。我们可以看一下大家在具体使用上有哪些问题。
+</p>
+<p class="transcript-line">
+<span class="time"><strong>[01:03:38]</strong> </span>
+<span class="speaker"><strong>发言人1: </strong></span>
+好的，如果大家喜欢我们的节目，欢迎在你所收听的音频渠道来关注我们。比如说你可以在苹果播客、小宇宙spot 5、喜马拉雅、蜻蜓FM、网易云音乐、QQ音乐上来订阅我们。那如果你是在用视频的渠道来听播客，可以在youtube或者哔哩哔哩上搜索硅谷101播客来找到我们。我是红军，感谢大家的收听。
+</p>]]></content:encoded>
+            <pubDate>Fri, 16 May 2025 00:00:00 GMT</pubDate>
+            <guid>68268151d231129fe37b2503</guid>
+        </item>
         <item>
             <title>E190｜司美格鲁肽的新对手们：制药巨头混战减肥药下半场</title>
             <link>https://www.xiaoyuzhoufm.com/episode/68142d0c6a74c518bad4346c</link>
@@ -33011,981 +34123,6 @@ The contracts so much be ratified by the unions membership, but the deal include
 </p>]]></content:encoded>
             <pubDate>Thu, 22 Aug 2024 00:00:00 GMT</pubDate>
             <guid>66c681061b12cc3a6e3893a8</guid>
-        </item>
-        <item>
-            <title>E163｜与大疆Pocket首任产品经理聊聊：如何从无到有定义一款硬件产品？</title>
-            <link>https://www.xiaoyuzhoufm.com/episode/66be986ad1e0bac19174671e</link>
-            <description>如果有了手机，为什么还需要一台专门拍视频的便携相机？本期节目我们邀请到了大疆Pocket相机的首位产品经理Matt跟我们聊一聊如何去做一款受欢迎的硬件产品，他经历了大疆pocket团队从一个人发展成130人的发展历程。同时探讨在人工智能时代，什么样的智能硬件产品形态才能最好地承载AI技术。
-【主播】
-泓君Jane，硅谷101创始人，播客主理人
-【嘉宾】
-Matt, 大疆前产品经理
-Jeremy Bao, 硅谷101研究员，摄影工作室主理人
-【你将听到】
-01:59 可能搞砸视频的三个点：对焦、防抖和收音
-08:48 定于需求：先拍到、再拍好
-10:20 为什么要在手机之外做一款专门的拍照设备
-14:59 从他拍到Vlog神器，意外的风口
-20:39 挑战供应链管理：一个横跨软硬件的机器人项目
-23:30 关于画质的三次演进心得
-24:34 如何跟手机大厂卷光学：在资源有限的情况下分步骤解决关键问题
-26:31 研发人员的乌托邦：不做平庸的产品
-34:50 从无到有做一款产品是什么体验：在机械云台里解决五十多条线路的整合就花了一年时间
-39:03 产品实现度：原型机和量产版体积是一样大的
-43:53 “会做减法”是打造创新产品的关键
-47:53 未来算法可以取代机械云台
-49:21 相比于AI Pin和Rabbit 1，Meta Rayban可能是承载AI更好的硬件形态
-52:29 智能硬件产品要离手机更远一些才不会被轻易替代
-【补充信息】
-Osmo：大疆“灵眸”系列的产品，包括了运动相机、手机云台、以及口袋云台相机。
-Inspire：大疆出品的专业级无人机产品。
-如影：DJI Ronin，为专业级或影视级摄影师定制开发的一款三轴手持云台系统。
-【监制】
-杜秀
-【后期】
-AMEI
-【BGM】
-The Royal Kitchen- SCOREWIZARDS
-Victorian Era Classical Strings -Rafael Krux/Orchestralis
-【在这里找到我们】
-公众号：硅谷101
-收听渠道：苹果｜小宇宙｜喜马拉雅｜蜻蜓FM｜网易云音乐｜QQ音乐｜荔枝播客
-海外用户：Apple Podcast｜Spotify｜TuneIn｜Youtube｜Amazon Music
-联系我们：podcast@sv101.net
-Special Guests: Matt and 鲍天宇.</description>
-            <content:encoded><![CDATA[<h1>转写链接</h1>
-<link>https://tongyi.aliyun.com/efficiency/doc/transcripts/r28pn7e8mr2xq5mz</link><br>
-<h1>节目摘要</h1>
-<div class="summary">最近推出的大江Pocket 3相机因其便携性与出色视频拍摄能力受到关注，然而面临供应紧张问题。前产品经理回顾了产品设计中的重点，包括便携性和易用性，以及如何通过技术创新克服挑战。在技术上，Pocket 3展现了大江在画质和云台技术上的进步，超越了同价位旗舰手机的视频拍摄能力。讨论还触及了人工智能在智能硬件中的应用前景，以及与手机协同合作的重要性。未来，智能硬件趋势将侧重于AI在视频创作中的角色，同时产品策略将避开与手机功能的直接竞争，强调独立性和为用户创造价值。</div><br>
-<h1>章节速览</h1>
-<div class="chapters">
-<div class="chapter-item">
-<span class="time"><strong>[00:00:00]</strong> </span>
-<span class="chapter-title"><strong>硅谷101：深度探讨大疆Pocket 3相机</strong></span>
-<div class="chapter-summary">本期硅谷101邀请到大疆前产品经理Matt和硅谷101研究员Jeremy，共同讨论大疆的热门产品Pocket 3相机。这款相机因其独特的口红外形、便携性和三轴云台稳定视频拍摄能力而备受瞩目。节目中，Matt分享了从单人团队到130人团队的发展历程，以及为何这款产品在市场上一机难求。Jeremy，作为深度用户，也分享了他对这款产品的看法和使用体验。</div>
-</div>
-<div class="chapter-item">
-<span class="time"><strong>[00:01:58]</strong> </span>
-<span class="chapter-title"><strong>大疆Pocket相机的多方面性能评估</strong></span>
-<div class="chapter-summary">讨论集中于大疆Pocket相机在画质、防抖和收音等关键功能上的表现，以及其性价比。Sony和富士品牌也被提及，比较了它们在对焦、色彩表现和视频功能方面的优缺点。大疆Pocket被认为是视频制作领域的有力竞争者，特别是在防抖方面表现出色，同时也指出了其仅有单个焦段和非防水抗摔的不足。</div>
-</div>
-<div class="chapter-item">
-<span class="time"><strong>[00:05:48]</strong> </span>
-<span class="chapter-title"><strong>大疆前产品经理分享Pocket产品开发历程</strong></span>
-<div class="chapter-summary">大疆的前产品经理讲述了参与Pocket项目的过程，从2016年idea的初步诞生到2020年底第二代产品的发布，以及2021年早期对第三代产品的初步调研和定义。他提到，尽管面临技术挑战和市场压力，但基于个人对视频记录价值的深刻理解和市场趋势的敏锐洞察，成功推动了Pocket项目的立项和发展。他强调，产品的设计初衷是为了解决便携性和随时创作的需求，让每一个精彩瞬间都能被记录下来。</div>
-</div>
-<div class="chapter-item">
-<span class="time"><strong>[00:10:19]</strong> </span>
-<span class="chapter-title"><strong>个人拍摄设备的创新与发展</strong></span>
-<div class="chapter-summary">讨论围绕一款独立于手机之外的个人拍摄设备展开，强调其与手机摄影功能的核心区别。这款设备旨在解决手机在专业拍摄时的局限性，如电量管理、持握舒适度、以及暗光环境下的图像质量。通过引入三轴机械云台，提升稳定性和暗光拍摄质量，为用户提供更大的创作空间。此外，还探讨了设备的便携性、用户长时间持握的舒适度以及如何通过技术提升视频拍摄质量。</div>
-</div>
-<div class="chapter-item">
-<span class="time"><strong>[00:13:48]</strong> </span>
-<span class="chapter-title"><strong>解决拍摄难题，打造入门用户友好产品</strong></span>
-<div class="chapter-summary">本对话围绕一款旨在降低拍摄门槛、激发用户创作欲望的产品展开。产品初期关注于让用户能够简单快捷地记录下即时的创作灵感，特别强调了防抖和运镜云台技术的自然优势。在工程实现方面，面临将云台微型化同时保持高精度控制的挑战。目标用户群定位于入门级，通过提供辅助功能如模板化动作，帮助他们快速提升拍摄素材的质量。产品经历迭代，根据用户反馈调整，如更换镜头焦段以适应自拍等新兴拍摄形式，反映出对用户需求和市场变化的快速响应。</div>
-</div>
-<div class="chapter-item">
-<span class="time"><strong>[00:16:52]</strong> </span>
-<span class="chapter-title"><strong>大疆Osmo Pocket系列的发展历程与创新</strong></span>
-<div class="chapter-summary">大疆Osmo Pocket系列相机经历了从第一代到第三代的技术演进和市场需求适应。初代产品在vlog兴起前夕推出，虽未定位为vlog神器，但因其便携性和实用性受到用户喜爱。随着vlog的流行，第二代产品在保持便携性的同时，对焦距进行了调整，增加了广角镜头配件，改进了设计细节，如线缆固定方式，以更好地满足自拍和vlog拍摄需求。到了第三代，产品引入了更大尺寸的传感器和旋转屏幕等重大改进，提升了用户的拍摄体验。每代产品之间约有2到3年的研发周期，体现了大疆在技术创新和满足用户需求方面的持续努力。</div>
-</div>
-<div class="chapter-item">
-<span class="time"><strong>[00:20:54]</strong> </span>
-<span class="chapter-title"><strong>pocket项目开发周期及市场需求分析</strong></span>
-<div class="chapter-summary">pocket项目作为一个集成了传感器、算法、执行器等复杂组件的机器人项目，其开发周期通常在18个月到24个月之间。这主要是由于其横跨影像、音频以及AI功能，需要在嵌入式系统和移动端同时进行大量的开发工作。由于pocket在市场上是独一无二的产品，缺乏先例可供参考，且供应链中缺乏成熟的组件支持，导致必须自行研发和定制，从而延长了开发周期。此外，pocket的市场需求一直大于供给，这并非是饥饿营销的结果，而是因为产品深受视频创作者等用户的喜爱，他们自发地传播，导致销量超出预期，供应链难以迅速应对。</div>
-</div>
-<div class="chapter-item">
-<span class="time"><strong>[00:23:01]</strong> </span>
-<span class="chapter-title"><strong>大疆Pocket系列相机的画质进化及背后的研发理念</strong></span>
-<div class="chapter-summary">大疆的Pocket系列相机在画质上经历了从落后到追平再到超越手机的过程。这一成就得益于大疆强大的技术研发和高效的组织能力，尽管早期Pocket项目资源有限且面临质疑，大疆通过精准的产品定义和逐步改善，成功提升了产品画质，接近甚至超越了同期旗舰手机。此外，大疆对人才的重视，创造了一个允许员工犯错、快速成长的舒适环境，鼓励创新和自我提升，这些都是Pocket系列能够实现画质突破的关键因素。大疆不仅是一家以技术研发为核心的企业，其愿景驱动、以人为本的企业文化也是其成功的重要原因。</div>
-</div>
-<div class="chapter-item">
-<span class="time"><strong>[00:28:41]</strong> </span>
-<span class="chapter-title"><strong>应届毕业生体验和产品迭代分享</strong></span>
-<div class="chapter-summary">对话中，一位应届毕业生分享了在一家提供优厚住宿条件的公司工作的经历，强调了这对新手友好的环境帮助他将更多精力集中在个人成长和项目交付上。随后，讨论转向了某产品从第二代到第三代的迭代过程，包括收音改善、云台技术的提升、画质的显著增强，以及对一英寸感光元件大小的介绍，说明了画质的提升。最后，表达了对产品未来迭代中回归初代大小，同时保持现有性能的期望。</div>
-</div>
-<div class="chapter-item">
-<span class="time"><strong>[00:32:30]</strong> </span>
-<span class="chapter-title"><strong>探讨产品设计中的挑战与创新</strong></span>
-<div class="chapter-summary">对话主要围绕产品设计过程中的挑战、创新以及对最终用户体验的影响进行讨论。讨论者认为，尽管产品如手机在技术上已实现屏幕体积与显示面积的优化，但在追求产品极致的过程中仍面临诸多挑战。特别指出，产品大小的变化对用户体验有实质性影响，强调便携性对产品成功的重要性，并以云台的小型化为例，探讨了在有限体积内实现高性能的技术难题。此外，讨论还触及了产品经理在资源获取、产品定位及市场需求把控等方面的挑战，以及如何通过技术创新和严谨的需求分析来克服这些挑战。</div>
-</div>
-<div class="chapter-item">
-<span class="time"><strong>[00:37:04]</strong> </span>
-<span class="chapter-title"><strong>解决云台布线问题与产品设计挑战</strong></span>
-<div class="chapter-summary">解决云台的布线问题花费了近一年时间，展示了项目中遇到的众多挑战之一。讨论了从产品定义到稳定状态的过程，特别是一代OSMO使用无线连接的限制，以及二代通过可拆卸设计兼容苹果和安卓手机插头的改进。特别提到获得苹果MFI认证的挑战和成就，以及对产品设计坚持与创新的思考，最终实现了产品的体积和功能的完美结合，体现了对用户需求的精准把握和坚守。</div>
-</div>
-<div class="chapter-item">
-<span class="time"><strong>[00:41:02]</strong> </span>
-<span class="chapter-title"><strong>产品经理成长之路：需求把控与产品创新</strong></span>
-<div class="chapter-summary">从硬件产品经理的角度出发，分享了产品经理成长的不同阶段及其重点。强调了对需求把控的重要性，尤其是在初级阶段，刻意减少主观判断，更加注重用户声音和数据化的用户反馈。此外，也提到了做减法的重要性，即明确产品的核心定位，避免资源分散导致产品力下降。最后，指出保持热情和好奇心是驱动产品经理持续创新的关键。</div>
-</div>
-<div class="chapter-item">
-<span class="time"><strong>[00:45:16]</strong> </span>
-<span class="chapter-title"><strong>探讨视频制作门槛与AI技术的未来影响</strong></span>
-<div class="chapter-summary">随着技术的进步，视频和短视频制作的门槛正在逐年降低，但相比摄影，视频制作的门槛仍然较高。AI技术被看作是降低这一门槛的关键，特别是AI生成内容，能够突破传统光学技术的限制，比如夜间拍摄时捕捉可用光子的局限性。未来，通过AI技术，可能实现无需实际拍摄，仅通过坐标信息就能创造出丰富的视频内容。此外，视频编辑的自动化和算法防抖技术的发展，也可能大大降低视频制作的门槛，提高效率和质量。虽然目前机械云台在稳定性方面仍有优势，但算法防抖技术的进步预示着未来可能实现完全手持拍摄，无需依赖沉重的稳定设备。</div>
-</div>
-<div class="chapter-item">
-<span class="time"><strong>[00:48:10]</strong> </span>
-<span class="chapter-title"><strong>机械云台与AI智能硬件产品发展展望</strong></span>
-<div class="chapter-summary">机械云台在摄影领域仍有其优势，但未来可能被全景相机等AI技术突破取代。讨论集中在AI智能硬件产品上，如Meta Ribbon智能眼镜被认为在运动影像记录方面具有先天优势，尽管存在画质和隐私方面的挑战。对于AI硬件产品的发展，认为产品应与手机等主流设备保持一定距离，避免被其功能所替代。同时，强调小团队在资源和技术上与大企业竞争的挑战。</div>
-</div>
-<div class="chapter-item">
-<span class="time"><strong>[00:53:17]</strong> </span>
-<span class="chapter-title"><strong>智能硬件产品设计与市场策略探讨</strong></span>
-<div class="chapter-summary">对话中，一位产品经理分享了对于智能硬件产品设计的看法，强调了产品应提供实际用户价值而非仅吊高用户期望。特别提到了对Meta和Ribbon合作的智能眼镜产品的看好，认为其结合了时尚与功能，如视频拍摄、音频播放等，有潜力成为有价值的硬件产品。同时，通过比较分析，指出了一些智能硬件产品方向选择时应避免与手机等主流设备过于竞争，寻找独立价值和定位的重要性。最后，预告了将深入探讨Meta Ribbon智能眼镜的成功原因，引发市场关注。</div>
-</div>
-</div><br>
-<h1>问题回顾</h1>
-<div class="qa-item">
-<div class="question"><strong>Q:</strong> 大疆在pocket相机中的存在是如何的？它在这几个关键功能上表现如何？</div>
-<div class="answer"><strong>A:</strong> 大疆在pocket相机中算是一个综合表现较好的存在，其防抖功能尤为突出，接近甚至达到了目前量级设备中的最好水平。整体而言，大疆在对焦、色彩、防抖等方面平衡做得较好，降低了普通用户拍摄专业级视频的技术门槛。</div>
-</div>
-<div class="qa-item">
-<div class="question"><strong>Q:</strong> 大家好，欢迎来到硅谷101。首先能否请你简单介绍一下pocket相机是什么？为什么你会特别想要聊这个产品？</div>
-<div class="answer"><strong>A:</strong> pocket是一个形态独特的相机，它更像是一个大号的口红，可以单手握持。其特点是拥有三轴云台稳定装置，可以拍摄出稳定的视频画面，并且非常便携，方便携带。大疆是这种形态相机的创始者，将这一创新形态带入了市场。</div>
-</div>
-<div class="qa-item">
-<div class="question"><strong>Q:</strong> pocket相机在画质、防抖、收音等功能上表现如何，以及它在性价比方面的定位是什么样的？</div>
-<div class="answer"><strong>A:</strong> 目前市场上同时具备优秀画质、防抖和收音功能的厂商并不多。例如索尼相机在防抖方面表现较差，富士相机对焦存在问题，佳能则在这三项中做得相对均衡，尤其是对焦表现出色，色彩也很好，防抖也做得不错。</div>
-</div>
-<div class="qa-item">
-<div class="question"><strong>Q:</strong> pocket 3现在有什么样的不足呢？</div>
-<div class="answer"><strong>A:</strong> pocket 3虽然成熟度较高，但也存在一些不足之处。其最大不足是只有一个焦段，只能拍摄20毫米左右的广角或超广角视频，对于需要不同焦段的用户来说可能会感到局限。此外，由于三轴云台的存在，它并不防水防摔，不能当作运动相机使用；另外，美颜功能受限于手机APP传输速度慢，使用不便。</div>
-</div>
-<div class="qa-item">
-<div class="question"><strong>Q:</strong> 你能分享一下你在大疆参与开发pocket系列产品的时间线和过程吗？</div>
-<div class="answer"><strong>A:</strong> 我于2016年初提出pocket的idea，但在其他项目组工作。2017年上旬，项目正式立项并推进，我开始细化产品初步计划书。从2017年底pocket一代发布，收集用户反馈并进行技术迭代，至2020年底发布了第二代。在此期间，我也参与了pocket三代的初步调研和定义工作，直至离开大疆。</div>
-</div>
-<div class="qa-item">
-<div class="question"><strong>Q:</strong> 当时为什么你会想到要做一个pocket这样的产品呢？</div>
-<div class="answer"><strong>A:</strong> 这个想法来源于我个人的经历，尤其是在奥斯莫项目组工作的经历以及后来参与短视频拍摄的经历。我发现大家参与拍摄的本质是为了记录生活中的精彩瞬间和背后的故事，而pocket相机能解决便携性问题，让用户随时可以捕捉这些珍贵的画面，从而激发了我推动这个产品立项的热情。</div>
-</div>
-<div class="qa-item">
-<div class="question"><strong>Q:</strong> 在定义这款产品时，它与手机拍照的核心功能点有何区别？</div>
-<div class="answer"><strong>A:</strong> 当时我想做一个手机之外的个人拍摄设备，区别在于手机过于聚合，作为个人信息和数据终端，虽然有先进的影像系统和互联网接入能力，但在用户拍摄场景上不够专注。手机在拍摄时可能需要考虑电池电量、支付等功能，使用体验不够舒适，尤其是长时间手持。因此，我希望打造一个带有主权、独立自主的拍摄设备。</div>
-</div>
-<div class="qa-item">
-<div class="question"><strong>Q:</strong> 云台技术如何影响用户拍摄体验？</div>
-<div class="answer"><strong>A:</strong> 云台技术使得拍摄更加稳定自如，尤其在大范围移动时，可以有效避免新手拍视频时的严重抖动问题，大大提升了拍摄创作的空间和灵活性，使设备更易于携带和使用。</div>
-</div>
-<div class="qa-item">
-<div class="question"><strong>Q:</strong> 第一代产品中，防抖功能是否为核心卖点？</div>
-<div class="answer"><strong>A:</strong> 是的，第一代产品中，防抖功能是一个核心优势。由于它是一个手持拍摄设备，拥有三轴机械云台，能够实现手机无法做到的移动延时、轨迹延时拍摄，并在暗光环境下提升画质和流畅度，这些都是手机无法比拟的。</div>
-</div>
-<div class="qa-item">
-<div class="question"><strong>Q:</strong> 第一代就开始关注暗光质量提升了？</div>
-<div class="answer"><strong>A:</strong> 是的，机械云台相机带来的优势使得第一代就能实现对暗光质量的提升，解决手机受限于感光面积和算法，在夜间噪点较大、照片不可用的问题。</div>
-</div>
-<div class="qa-item">
-<div class="question"><strong>Q:</strong> 你们在做产品时，最开始想解决的主要问题是什么？如何攻克的？</div>
-<div class="answer"><strong>A:</strong> 最开始我想解决的主要问题是让用户便捷地记录下创作欲望，降低操作门槛，给入门用户勇气去拍摄和出片。防抖和云台带来的优势是水到渠成的结果，通过精巧的工程设计和实现，克服了将云台小型化并保证可靠性的挑战。</div>
-</div>
-<div class="qa-item">
-<div class="question"><strong>Q:</strong> pocket产品的目标用户人群是入门用户吗？他们主要拍摄什么内容？</div>
-<div class="answer"><strong>A:</strong> pocket作为一条入门民用产品线，目标用户主要是具备一定摄影能力但经验不足的群体。他们在拍摄过程中可能需要辅助来提升成片效果，因此产品设计中预制了一些模板化动作以帮助他们迅速达到可用水平。初期定位是用于他拍，捕捉日常生活中的新奇有趣瞬间，随着vlog的流行，产品逐渐适应了用户的实际需求，同时也关注到了自拍场景的优化。</div>
-</div>
-<div class="qa-item">
-<div class="question"><strong>Q:</strong> pocket的屏幕大小对用户的创作欲望有何影响？</div>
-<div class="answer"><strong>A:</strong> 大的屏幕会增强用户的创作欲望，而pocket team成功解决了大屏幕带来的技术挑战，实现了用户的良好体验。</div>
-</div>
-<div class="qa-item">
-<div class="question"><strong>Q:</strong> 为什么pocket每一代之间间隔了这么长的时间，大约是多久？</div>
-<div class="answer"><strong>A:</strong> 每一代pocket间隔大约是18个月到两年的研发周期。</div>
-</div>
-<div class="qa-item">
-<div class="question"><strong>Q:</strong> 这种长周期是否与硬件产品的供应链有关？</div>
-<div class="answer"><strong>A:</strong> 是的，主要原因是硬件产品的供应链开发和供应体系下行业的周期性，以及pocket作为复杂机器人项目的特性，横跨影像、音频、AI等多个领域，软硬件开发工作量巨大且周期自然较长。</div>
-</div>
-<div class="qa-item">
-<div class="question"><strong>Q:</strong> pocket为何一直保持供不应求的状态？</div>
-<div class="answer"><strong>A:</strong> pocket在市场上独一无二，需求旺盛，用户满意度高，口碑传播性强，每次销售都超出预期，加上工程技术难度高，导致供应链难以快速响应市场需求。</div>
-</div>
-<div class="qa-item">
-<div class="question"><strong>Q:</strong> pocket的画质是否优于同价位旗舰型手机？</div>
-<div class="answer"><strong>A:</strong> pocket确实在画质上从相对落后于手机到追评甚至超越的过程，这主要得益于大疆的技术研发实力和高效的组织能力，在有限资源下攻克技术难题，并根据市场需求逐步提升和完善产品性能。</div>
-</div>
-<div class="qa-item">
-<div class="question"><strong>Q:</strong> 大疆如何吸引并留住优秀人才，形成高人才密度？</div>
-<div class="answer"><strong>A:</strong> 大疆是一个愿景驱动的公司，为员工提供广阔的成长空间和舒适的环境，鼓励创新和梦想，让员工发挥最大价值。创始人及团队成员具有强烈的梦想追求和改变世界的决心，共同创造了一个肥沃的研发土壤。</div>
-</div>
-<div class="qa-item">
-<div class="question"><strong>Q:</strong> 能举例说明大疆为员工提供的舒适工作环境吗？</div>
-<div class="answer"><strong>A:</strong> 举例来说，大疆为新员工提供快速成长的机会，包容错误并鼓励向经验丰富的前辈学习。同时，公司内部有行政券制度，让员工可以自由选择工作任务并互惠互利。此外，公司还提供低廉的社会公租房员工宿舍，免除琐事，让员工能更专注于项目交付和个人成长。</div>
-</div>
-<div class="qa-item">
-<div class="question"><strong>Q:</strong> 二代产品在哪些方面得到了提升，并且有哪些用户认可的特性？</div>
-<div class="answer"><strong>A:</strong> 二代产品在保留便携性的同时做了很多提升，比如收音效果特别好，无论是机载收音还是无线麦克风系统都获得了用户的广泛认可。我们选择了合适的焦段并迭代了云台系数，使其零点几秒就能启动进入拍摄状态，同时增强了云台的可靠性，使其在跌落时能进行自我保护动作以防止机械云台受损。此外，我们在画质方面也进行了更新，使用了新的sensor，使得综合实力局部反超当时的旗舰手机。从音频、视频到使用体验和story模式智能剪辑，整个产品在多个场景下的可用度非常高，用户满意度也很高，但是一些专业用户对更高画质有所需求。</div>
-</div>
-<div class="qa-item">
-<div class="question"><strong>Q:</strong> 一英寸底是什么意思？</div>
-<div class="answer"><strong>A:</strong> 一英寸底是指相机传感器对角线长度为一英寸，这是一个之前很多专业卡片相机使用的感光元件大小。这个尺寸对于手机来说较大，很多旗舰手机目前可能已经达到了类似1/3英寸或1/17英寸大小。一英寸底能够接收更多的光线信息，因此在光线不足时拍摄出的画面更纯净、噪点更少。大疆P Pocket 3采用了较大一英寸底，带来了显著的画质提升。</div>
-</div>
-<div class="qa-item">
-<div class="question"><strong>Q:</strong> 您对P Pocket 3的哪些方面感到满意，哪些方面希望改进？</div>
-<div class="answer"><strong>A:</strong> 从产品经理的角度看，我对P Pocket 3在画质、使用流畅度、拍摄简易便捷程度以及旋转屏幕的交互体验等方面都非常满意，有很好的质感。唯一希望改进的是，希望项目组能在保持现有性能的基础上，尝试挑战物理极限，让产品在画质等方面有更大突破。</div>
-</div>
-<div class="qa-item">
-<div class="question"><strong>Q:</strong> 如果将P Pocket 3的屏幕变小到一代的大小，会对用户产生实质性影响吗？</div>
-<div class="answer"><strong>A:</strong> 虽然屏幕大小变化不是特别大，但对追求完美的用户来说，可能会感知到一些影响，不过由于该产品整体性能优秀，这个点并不构成致命缺陷。</div>
-</div>
-<div class="qa-item">
-<div class="question"><strong>Q:</strong> 作为产品经理，在供应链环节面对从无到有的需求定义和挑战时，您是如何克服这些挑战的？</div>
-<div class="answer"><strong>A:</strong> 面对挑战，首先需要谨慎把控需求，并努力消除周围人对新人的信任疑虑，让他们相信我能成功驾驭资源并创造出有前景的产品。在这个过程中，不断积累经验和资源，同时避免因决策失误导致研发资源浪费或产品定义错位。此外，面对云台布线等具体技术难题，需要耐心攻克，不断调试和完善细节，确保产品质量和可靠性。在整个过程中，尽管困难重重，但始终保持初心，不断探索和解决问题。</div>
-</div>
-<div class="qa-item">
-<div class="question"><strong>Q:</strong> 乔布斯曾说优秀的创意与产品之间存在巨大鸿沟，你认为pocket 1和pocket 2实现了多少的想象，你会给它打几分？</div>
-<div class="answer"><strong>A:</strong> 我觉得能打到9分。在保持体积不变的情况下，实现了对用户需求精准的把握和坚守。</div>
-</div>
-<div class="qa-item">
-<div class="question"><strong>Q:</strong> 作为一个产品人，您如何看待硬件产品创业与互联网行业的核心区别？</div>
-<div class="answer"><strong>A:</strong> 我不是互联网产品经理，但从硬件产品经理的角度出发，我认为在处理复杂项目时，对需求把控非常重要，要减少拍脑袋或做出伪需求的可能性，更多地去聆听用户的声音，保持开放和同理心。</div>
-</div>
-<div class="qa-item">
-<div class="question"><strong>Q:</strong> 您是如何定义pocket系列产品的核心需求，并从用户零散的反馈中找到产品方向的？</div>
-<div class="answer"><strong>A:</strong> 核心需求来源于数据化的用户反馈，通过成熟的方法论获取用户的真实需求。在pocket一代时，幸运的是无需太多数据支持也取得了成功，但在后续迭代中，更需通过访谈、定性定量等方式提炼用户的真实目的进行取舍。</div>
-</div>
-<div class="qa-item">
-<div class="question"><strong>Q:</strong> 在产品设计中如何做减法以保持清晰思路并找准定位？</div>
-<div class="answer"><strong>A:</strong> 做减法在产品设计中非常重要，尤其是在pocket系列中强调体积便携性这一点。避免大而全导致产品定位模糊、用户群体分散，同时也要警惕组织内部资源分散造成的研发效率降低。</div>
-</div>
-<div class="qa-item">
-<div class="question"><strong>Q:</strong> 对于未来降低视频或短视频门槛的技术趋势有何看法？</div>
-<div class="answer"><strong>A:</strong> 看好AI生成方向，AI能在突破光学限制，解决摩尔定律的枷锁，并可能实现用户只需留下坐标就能创作出新奇有趣的视频内容，降低剪辑和导出的门槛。</div>
-</div>
-<div class="qa-item">
-<div class="question"><strong>Q:</strong> AI能否取代机械云台成为视频拍摄的主流防抖技术？</div>
-<div class="answer"><strong>A:</strong> AI防抖算法将逐步发展，未来可能会有替代机械云台的一天，特别是在解决夜间画质、死角以及全景相机角度等问题后，机械云台最终可能会退出主流摄影设备的历史舞台。</div>
-</div>
-<div class="qa-item">
-<div class="question"><strong>Q:</strong> 您能否从产品经理的角度分析一下，目前市场上您认为哪些承载AI的智能硬件产品值得关注？对于AI pink和 rabbit这两个产品，您怎么看它们的市场前景和定位？</div>
-<div class="answer"><strong>A:</strong> 从产品经理的角度看，我目前最看好并购买的是Meta的Meta Ribbon智能眼镜。这款产品在运动穿戴和影像记录场景上有先天优势，能够实时、便捷地进行影像创作，非常贴合用户需求。它的小巧体积和融入拍摄环境的设计让人感觉不那么有侵入感，同时也带来了隐私保护方面的挑战。AI pink和 rabbit在产品策略上可能需要与手机保持一定距离，避免过于接近而被手机的先发优势所替代。由于这些AI硬件在数据传输、模型算力等方面受限于国内网络环境和特殊场景，用户体验可能受到影响。相比之下，Meta Ribbon作为Meta与Ribbon的联合之作，拥有大团队支持和市场验证的品牌优势，其综合表现更好。</div>
-</div>
-<div class="qa-item">
-<div class="question"><strong>Q:</strong> 您是否看好眼镜形态的智能硬件产品？</div>
-<div class="answer"><strong>A:</strong> 我更看好像Meta和Ribbon这样的强强联合，而不一定局限于眼镜形态。做好一个产品应脚踏实地提供用户价值，而不是吊高用户的胃口却无法交付合格的产品。例如，Meta Ribbon不仅可以作为拍摄设备，还能替代耳机等功能，具备一定的独立性和自主权。</div>
-</div>
-<div class="qa-item">
-<div class="question"><strong>Q:</strong> Pocket早期的产品定位决策是怎样的？</div>
-<div class="answer"><strong>A:</strong> 在做Pocket的早期时，面临过是否过于超前的重大决策。最终选择不完全依赖手机，而是打造一个有独立自主主权的拍摄设备，这样它才能在工作流中有更多的主动性，并提供手机无法比拟的价值。</div>
-</div>
-<h1>节目文稿</h1>
-<p class="transcript-line">
-<span class="time"><strong>[00:00:04]</strong> </span>
-<span class="speaker"><strong>发言人1: </strong></span>
-欢迎收听硅谷101，我是红军。今天我们的话题是大江最近很火的一款产品，叫做pocket 3的相机，而且这款相机到现在也是一机难求。最开始我在选题会上提出我们要不要做一个pocket这样的一个选题想法的时候，大家一下就沸腾了。因为我发现在我们选题会内部，有非常多的pocket的资深用户。今天我们的嘉宾也是非常重量级的。因为我们找到了提出pocket这个想法的产品经理，而且他经历了大疆的pocket的团队，从一个人扩展到了130人的发展历程。欢迎大疆的前产品经理matt。
-</p>
-<p class="transcript-line">
-<span class="time"><strong>[00:00:46]</strong> </span>
-<span class="speaker"><strong>发言人2: </strong></span>
-Hello matt你好。Hello，谢谢jane，谢谢大家的喜爱。我是matt，我是大疆的前产品经理。
-</p>
-<p class="transcript-line">
-<span class="time"><strong>[00:00:53]</strong> </span>
-<span class="speaker"><strong>发言人1: </strong></span>
-今天能采访到你非常的荣幸。今天跟我在一起的还有硅谷101的研究员jeremy。Hello jeremy.
-</p>
-<p class="transcript-line">
-<span class="time"><strong>[00:01:01]</strong> </span>
-<span class="speaker"><strong>发言人3: </strong></span>
-大家好。
-</p>
-<p class="transcript-line">
-<span class="time"><strong>[00:01:02]</strong> </span>
-<span class="speaker"><strong>发言人1: </strong></span>
-杰remy也是自己有一个摄影工作室，而且可以说是大疆pocket的深度用户。最开始我在选题会上聊这款产品的时候，我觉得当时你的那个反应状态是最兴奋的。你要不要先简单给不了解这款产品的听众介绍一下pocket相机它到底是什么？为什么你会特别想要聊这个产品？
-</p>
-<p class="transcript-line">
-<span class="time"><strong>[00:01:23]</strong> </span>
-<span class="speaker"><strong>发言人3: </strong></span>
-首先pocket是一个还蛮不一样的相机，你第一眼看到它的时候，你可能不觉得这是一台照相机。首先它是一个针对视频的产品，它不是专注于拍照。它的形态你可以理解，它像一个大号的口红，他可以一只手握持。在这个口红的顶上有一个三轴云台，三轴云台上有一个镜头，可以用这个三轴云台拍出很稳定的视频画面，而且非常的便携，可以揣在口袋里。可以说大疆是这个形态的相机的一个创始者。我看到后面其实有一些公司在跟风模仿，但是大疆把这个形态的相机带到了这个世界上。
-</p>
-<p class="transcript-line">
-<span class="time"><strong>[00:01:58]</strong> </span>
-<span class="speaker"><strong>发言人1: </strong></span>
-那你觉得如果我们把这个pocket放在画质、防抖，还有收音这样的一个必须要有的几个功能里面。包括他可能还有一些其他的，比如说性价比的一个功能。就是你觉得他的一个定位在哪儿，他在各个方面表现他怎么样。
-</p>
-<p class="transcript-line">
-<span class="time"><strong>[00:02:16]</strong> </span>
-<span class="speaker"><strong>发言人3: </strong></span>
-因为我自己用过好多家不同的相机，虽然我们已经到了2024年，但是其实把这几项都做的特好的厂商并不多。我举个例子，我们工作室干活的相机都是索尼，为什么选索尼？因为对焦我们觉得在这三项当中，唯一对焦是不能靠额外附加设备去弥补的对吧？你稳定可以上稳定器，收音可以接话筒，但是对焦挺难去弥补的。但是索尼其实这方面没有做全，索尼的防抖做的很差，这跟它的卡口，这跟它的感光元件大小有关系。但是索尼你是不敢放开了手持去拍摄的，你必须得上稳定器。我之前还用过一个牌子富士，富士这个牌子是可能在画面的观感，在植树颜色上有它非常长时间的积累，所以很多的小姐姐们都特别喜欢这个牌子。但是这个牌子起码在我用的机器上，对焦是非常有问题的，你会感觉到一种抓狂的感觉。
-</p>
-<p class="transcript-line">
-<span class="time"><strong>[00:03:11]</strong> </span>
-<span class="speaker"><strong>发言人1: </strong></span>
-复试是拍视频的吗？我以为他是照相，他主要是拍相片的。
-</p>
-<p class="transcript-line">
-<span class="time"><strong>[00:03:15]</strong> </span>
-<span class="speaker"><strong>发言人3: </strong></span>
-2024年或者是最近出的相机，一定都会有一些视频功能。所以富士也有一些偏向于视频的相机，他也在宣传他视频方面的能力。但就这个整体的品牌而言，我觉得现在对焦可能是他最大的短板。如果你要硬说一个牌子，这几个各方面做的都好，可能佳能做的都还不错。它的对焦是第一梯队的，它的色彩很好，它的防抖也在相机厂商里头可以说是做的最好的之一。收音其实各大家没有特别的区别。
-</p>
-<p class="transcript-line">
-<span class="time"><strong>[00:03:47]</strong> </span>
-<span class="speaker"><strong>发言人3: </strong></span>
-回答你刚才的问题，大疆在这个里边算是一个怎样的存在？这也是我挺惊讶的一点。我觉得他把视频这几个必备的要素做的都挺好，还挺平衡的。
-</p>
-<p class="transcript-line">
-<span class="time"><strong>[00:03:59]</strong> </span>
-<span class="speaker"><strong>发言人3: </strong></span>
-我们我先说这三个可以毁掉视频的事情。防抖不用说了，它可以说是目前这个量级设备当中，甚至比它大的设备当中防抖最好的之一了，可能甚至没有之一。它的其他方面确实它是一个很平衡的机器。我觉得他洞悉到了对一个平常人这几个点可能翻车。他把这几个点都解决的很不错，让平常人没有特别多的技术和经验就能拍出很不错的视频。我觉得这是这个产品很有突破的一点，再加上它的极强的便携性。
-</p>
-<p class="transcript-line">
-<span class="time"><strong>[00:04:31]</strong> </span>
-<span class="speaker"><strong>发言人1: </strong></span>
-是你觉得pocket 3现在有什么样的不足呢？
-</p>
-<p class="transcript-line">
-<span class="time"><strong>[00:04:34]</strong> </span>
-<span class="speaker"><strong>发言人3: </strong></span>
-整体我觉得这个产品还挺成熟的，但你要说不足确实也有一些，但我的评价维度可能跟一般的人不太一样。我觉得它最大的不足是它只有一个焦段，它只能拍摄20毫米，可以说是广角或者超广角的视角的视频。那对于我来说一直是这样的焦段是比较无聊的。但是对于记录生活的人来说，这也够你记录他人或者记录自己。其实这还是一个比较舒服的焦段。我很多照片我需要不同的焦段。手机是有好几个镜头可以切换的，他没有另外一个点，就是用这个东西得很小心，它不防水不抗摔。因为它有三轴云台的存在，所以你别想把它当成一台运动相机去使用。
-</p>
-<p class="transcript-line">
-<span class="time"><strong>[00:05:19]</strong> </span>
-<span class="speaker"><strong>发言人1: </strong></span>
-是我能感受到我有时候用完以后放在桌子上就得特别小心。你要仔细看一下自己有没有关机，不要卡到他那个云台了。
-</p>
-<p class="transcript-line">
-<span class="time"><strong>[00:05:27]</strong> </span>
-<span class="speaker"><strong>发言人3: </strong></span>
-还有一些细节的东西，比如说大疆这里边有一个很重要的功能是美颜。他希望拍小姐姐这个颜值更好看，但是它可能是这个机器算力的限制。美颜必须要通过手机的APP来实现。但是手机的APP感觉传输速度并不是很快，你录一个很长的视频要搞半天。所以很多时候我最终就放弃了这个功能，我觉得这点挺可惜的。
-</p>
-<p class="transcript-line">
-<span class="time"><strong>[00:05:48]</strong> </span>
-<span class="speaker"><strong>发言人1: </strong></span>
-好的，非常感谢杰瑞my在前面给我们的介绍。而且我觉得大疆这款产品它最厉害的是，它相当于是从无到有，它是定义了一个品类，它是把专业相机的门槛做得很低，让很多的非专业爱好者也可以使用。欢迎大疆的前产品经理matt，首先请meta跟我们介绍一下你自己在整个大江参与开发pocket的产品，以及整个的时间线是怎么样的。
-</p>
-<p class="transcript-line">
-<span class="time"><strong>[00:06:16]</strong> </span>
-<span class="speaker"><strong>发言人2: </strong></span>
-我其实参与pocket的项目比较简单。我16年初步诞生了有pocket的这个idea，但是当时我带宽不够，其实是在别的项目组。等这个项目结束了之后，17年上旬，然后我就在组织内把这个项目推动立项，然后把想法细化下来，列了一些产品初步的立项计划书。所以这个事儿就算正式跑起来了。
-</p>
-<p class="transcript-line">
-<span class="time"><strong>[00:06:39]</strong> </span>
-<span class="speaker"><strong>发言人2: </strong></span>
-一直到18年底，大家知道pocket的一代正式发布，然后我们收集了很多用户反馈。在这个过程中技术也有一些迭代，我们对这个产品的定位目标越来越清晰。所以在20年底的时候就跟着发布了第二代。在这之后我其实在21年的早期参与了一些抛开的三代的初步的调研和定义。在这之后离开了大疆。
-</p>
-<p class="transcript-line">
-<span class="time"><strong>[00:07:04]</strong> </span>
-<span class="speaker"><strong>发言人1: </strong></span>
-大概是这样一个过程。最开始在你17年提出这个产品的时候，其实当时在专业相机的市场可能说有佳能、索尼非专业相机的市场，大家可能就直接用手机拍照了。我记得当时智能手机也是非常的火，基本上我们换手机的需求就是说这个摄像头更新了，所以大家要去换一个手机。那在当时为什么你会想到要去做一个pocket这样的产品呢？
-</p>
-<p class="transcript-line">
-<span class="time"><strong>[00:07:30]</strong> </span>
-<span class="speaker"><strong>发言人2: </strong></span>
-对，这个要从我个人的一个经历说起。其实我15年毕业之后进入大疆是从工程师做起的。比较幸运的是我直接进入了当时的奥斯曼的项目组。奥斯莫就是之前最早的手持的云台项目。之前DJ有个项目是inspire，它的云台是可拆卸式的。所以当时我们尝试做一些技术的延展切换场景，把这个云台相机这种增稳技术从空中拿到地面来。但是这个项目在发布了之后，由于一些产品定义的问题和一些我觉得技术完善度、产品完成度的问题。导致其实他当时没有达到大家的预期，也没有取得我觉得他这种创新心态应该有的商业结果。
-</p>
-<p class="transcript-line">
-<span class="time"><strong>[00:08:13]</strong> </span>
-<span class="speaker"><strong>发言人2: </strong></span>
-他当时有很多设计的硬伤，比如说wifi连接不稳定，发热很严重，续航只有40分钟变焦的镜头。它还会在这个过程里面有热跑焦等等等一系列的问题。而且收声麦克风录音的质量也非常差，导致不得不打补丁，再放一个小的泥头插上去。所以这一系列让我这个工程师在这个过程中有了一些自己的思考。
-</p>
-<p class="transcript-line">
-<span class="time"><strong>[00:08:36]</strong> </span>
-<span class="speaker"><strong>发言人2: </strong></span>
-刚好在16年17年的时候，短视频有一波爆发。而我在里面也转生成了一个相对中度的视频用户。所以说就有了pocket的这个想法。
-</p>
-<p class="transcript-line">
-<span class="time"><strong>[00:08:48]</strong> </span>
-<span class="speaker"><strong>发言人2: </strong></span>
-对我来说，其实我当时很快的发现，大家参与拍摄这个事情，它本质上还是为了背后那个命令。当时按下快门的一瞬间所记录的那一个顺。它背后的意义才是拍摄这个事情所最重要最珍贵的事情。所以我在列了几个需求之后发现，其实我们虽然说在一代的基础上，或者说在老的奥斯莫的基础上，可以你去进一步精进它的技术。但是我觉得对于记录这个事情来说，它的价值是比较后置的这一段现在拍摄的视频，可能将来在20年、30年之后，在你再回首的时候，这张别人看来平平无奇，但是背后因为有这个故事，有这个场景，所以你内心感慨万千的这个片段，他首先要被拍得下来，然后才能说拍的好的事情。所以当时我坚定地站在先拍得下来这一边。
-</p>
-<p class="transcript-line">
-<span class="time"><strong>[00:09:41]</strong> </span>
-<span class="speaker"><strong>发言人2: </strong></span>
-我可能需要在pocket上面进一步的抓住它的便携性，解决了便携性的问题，然后你就能在使用过程中，但凡你想产生创作欲望的时候，它随时都在你手边，像一个随时待命的小伙伴。这样的话你就很难错失你的这些精彩瞬间。所以说我对这个产品有了一些全新的思考。一步你就把它带入了产品经理的角色，然后再尝试在这个过程里面做一些工程化的转换。发现好像能诞生出来一个世界上没有的东西，所以就很兴奋的去推动这个产品立项。然后当时我也是工程师，做了一些手板打样，然后向上反馈去拿组织资源，所以这个项目就正式跑起来了，是一个非常幸运的事情。
-</p>
-<p class="transcript-line">
-<span class="time"><strong>[00:10:20]</strong> </span>
-<span class="speaker"><strong>发言人1: </strong></span>
-那个时候其实我听出来了，你刚刚的这个想法里面就是需要他有便携性。那当时其实手机已经很便携了。你觉得它当时就是你在定义这款产品的时候，它跟手机拍照的这个核心功能点的区别是什么呢？
-</p>
-<p class="transcript-line">
-<span class="time"><strong>[00:10:35]</strong> </span>
-<span class="speaker"><strong>发言人2: </strong></span>
-首先就是看我想要做一个什么，其实我是想做的是一个手机之外的一个个人拍摄设备。而手机它太聚合了，它是一个个人的信息和数据终端。虽然说它也有当时比较领先的影像系统，然后它也能接入互联网的数据，有本地的算力。但是因为它太聚合了，导致它在用户场景上面其实切分的不是很仔细。用户拍摄的时候，这个手机对他来说，他既要拍是可能还要留着电量回去打滴滴，还要做支付等等的一些问题。包括他的手机这种纸板的形式，然后在watch使用整个体验里面也不是特别的舒适，尤其是在这个长时间的情况底下。所以说当时我是想完全脱离手机。定义一个带有主权的独立的自主的拍摄设备，大概是这样一个想法。
-</p>
-<p class="transcript-line">
-<span class="time"><strong>[00:11:20]</strong> </span>
-<span class="speaker"><strong>发言人1: </strong></span>
-第一代的时候，其实刚刚你有提到便携性，那防抖功能会是第一代的一个核心吗？
-</p>
-<p class="transcript-line">
-<span class="time"><strong>[00:11:26]</strong> </span>
-<span class="speaker"><strong>发言人2: </strong></span>
-当然首先怎么产生这个产品？首先我要做的是一个相机，所以它肯定在这个形态上面是有sensor有镜头的。就是我要做的是一个手持拍摄设备，所以我对这个形态上面把它定义成了一个长时间握持最舒适的一个形态，就是一个手柄的形状，这就是pocket其实最基本的要素。
-</p>
-<p class="transcript-line">
-<span class="time"><strong>[00:11:46]</strong> </span>
-<span class="speaker"><strong>发言人2: </strong></span>
-至于三轴的机械云台，因为刚才还是说了，我们要独立手机之外去切中一些非常重要的场景。而机械云台它所带来的可动可静，既能运动，既能做一些小的转动，可以做一些手机做不了的移动延时、轨迹延时。然后它也可以进在物理的空间里面三周增稳。它所带来的暗光质量提升，画面的流畅度的提升，都是手机做不到的。
-</p>
-<p class="transcript-line">
-<span class="time"><strong>[00:12:14]</strong> </span>
-<span class="speaker"><strong>发言人1: </strong></span>
-所以其实第一代你就已经开始想做这个暗光质量的提升了。
-</p>
-<p class="transcript-line">
-<span class="time"><strong>[00:12:18]</strong> </span>
-<span class="speaker"><strong>发言人2: </strong></span>
-是的，它是机械云台相机所带来的一个天然的优势。其实当时手机在16年17年的时候，大部分其实还是大家理解的日光机。就是在白天光照充足的情况下，能拍出成片很好的照片。但受限于感光面积，它在夜间的噪点是偏大的。如果没有当时很好的算法，当时还没卷到这一步，那么晚上的即使是照片，它是非常不可用的。而你的这些涂抹算法其实会带来视频解析度的各种下降，画面会变得很糊，而且会产生一些拖影。
-</p>
-<p class="transcript-line">
-<span class="time"><strong>[00:12:49]</strong> </span>
-<span class="speaker"><strong>发言人3: </strong></span>
-对，很多时候视频我是希望它动起来的，但当你一旦动的幅度大的时候，你就会担心这个算法能不能让它动得这么大且不抖。新手拍视频的时候很容易出现的问题就是它抖了抖的特别严重的时候，你看起来它是会晕的对，所以当你用一个单机去拍的时候，我觉得就会有一点束手束脚。但是有了这个云台下面确实可以让你非常自如的去运镜，可以移动。我觉得能给创作带来非常大的空间，这也是我一直非常喜欢pocket的一点。
-</p>
-<p class="transcript-line">
-<span class="time"><strong>[00:13:19]</strong> </span>
-<span class="speaker"><strong>发言人2: </strong></span>
-是的，有些人也是非常重度的用户。在这里面还有我额外补充一个点，其实越轻的设备越容易懂，因为它的惯量这些都比较小一些。比如说如影加一个比较大的相机，它因为比较重，你反而没那么陡。但是像pocket这种100克出头的东西，你很小的一个抖动在画面里面，这个市场的透视的关系的变都是非常大的。在这里面用户看着确实会晕，因为在人脑已经平常默认跟眼球这套系统已经把它过滤掉了。
-</p>
-<p class="transcript-line">
-<span class="time"><strong>[00:13:48]</strong> </span>
-<span class="speaker"><strong>发言人1: </strong></span>
-我相信你在做产品的时候，可能会定义它几个核心的功能点，然后你要把这个功能点优化到最优。我不知道你最开始想解决的几个主要问题是什么，然后他是怎么攻克的。
-</p>
-<p class="transcript-line">
-<span class="time"><strong>[00:14:00]</strong> </span>
-<span class="speaker"><strong>发言人2: </strong></span>
-最开始我想解决的主要问题其实就是应该回到这个事件上，回到拍摄的行为上面来说，就是让用户最便捷的把他当时产生的创作欲望最简单的记录下来。你换句话说就是给用户或者给一些入门用户降低他们的操作门槛，给他们拍摄和出片的勇气，就是这么一个事情。而防抖在整个这个过程里面，或者是运镜云台带来的一些其他的优势，在这里面是水到渠成。
-</p>
-<p class="transcript-line">
-<span class="time"><strong>[00:14:30]</strong> </span>
-<span class="speaker"><strong>发言人2: </strong></span>
-在云台这个技术方案上面天然会带来的一些结果。它当然在我们工程实现的过程中有很多的挑战。比如说你把云台从原来的苹果大小缩到一个乒乓球的大小，而里面的每一项控制都很精确。这个云台也很轻，它控制起来也会变困难一些。他在手里面也是一个相对来说比较脆弱的东西。你怎么把它的工程的可靠性做得更好？反而在工程里面确实也碰到了很多的挑战。
-</p>
-<p class="transcript-line">
-<span class="time"><strong>[00:14:58]</strong> </span>
-<span class="speaker"><strong>发言人3: </strong></span>
-我刚才听到您说说您希望能让更入门一点的用户在想拍的时候就能用这个设备把它拍下来。我很好奇你们是怎么定义这个产品的目标用户人群的呢？你们主要target的是入门用户吗？他们都会拍一些怎样的内容？你刚才也提到你在后续的产品迭代当中，有发生一些的改变和进化。你们是怎么看这些用户和这个用户的需求的对回到。
-</p>
-<p class="transcript-line">
-<span class="time"><strong>[00:15:25]</strong> </span>
-<span class="speaker"><strong>发言人2: </strong></span>
-我们的原点用户来说，其实我们对用户他的定义，首先我们是有一些他摄影能力的入门和一些专业之分的。Pocket本身我们是定义为一条入门的民用产品线，更多的你可以理解它确实不具备那么多的光学以及摄影构图等等的这些素养，或者说这些经验没有那么丰富。所以他需要依赖一些辅助来帮助他成片成一段效果还不好的片。你可以理解他在拍摄的过程中和拍摄完的后剪辑上面，我们需要预制一些模板化的动作，来帮助他迅速把这些素材达到一个可用的水平。
-</p>
-<p class="transcript-line">
-<span class="time"><strong>[00:16:03]</strong> </span>
-<span class="speaker"><strong>发言人2: </strong></span>
-当时在抛开有这个idea的时候，其实vlog这些自拍的形式还没有特别流行。所以说我们最开始的时候定位是一个他拍的一个项目，拍摄别人，拍摄自己生活里面新奇有趣的一些东西，一些风景或者一些事件。你可以从我们选的这个焦段上面就能看出来，抛开的一代是一个28毫米的一个镜头。
-</p>
-<p class="transcript-line">
-<span class="time"><strong>[00:16:25]</strong> </span>
-<span class="speaker"><strong>发言人3: </strong></span>
-我也想说这一点。对，感觉是一个他拍焦段。
-</p>
-<p class="transcript-line">
-<span class="time"><strong>[00:16:28]</strong> </span>
-<span class="speaker"><strong>发言人2: </strong></span>
-26至28的这个焦段，其实它都是一个不太广的一个焦段。所以说他在自拍的时候，在人的一臂伸出去的这个臂长里面，其实你的脸或者是你的身体如果自拍的话会占据过大的画幅。而当时其实这个形式没有特别流行，所以说我们在二代的时候也是迅速听到了这些反馈和反应。所以说改进了或者说是更换了这个焦段。
-</p>
-<p class="transcript-line">
-<span class="time"><strong>[00:16:52]</strong> </span>
-<span class="speaker"><strong>发言人1: </strong></span>
-对，然后这就说到pocket第二代了，就是我看见其实你们是把焦段更新到了20毫米，然后很多用户就说感觉大家能读懂他们的心声，同时你们还增加了一些比如说像那种广角镜头的小配件，就更加便于大家去自拍了。包括我看还有博主最开始你们把那个相机的线是卡在一代的那个壳上，但是二代你们是把线可以直接卡在相机上，这样他就可以把他的手再解放出来，就是用手拎着相机就可以。这种非常小的细节点，会让大家觉得大江是懂。
-</p>
-<p class="transcript-line">
-<span class="time"><strong>[00:17:27]</strong> </span>
-<span class="speaker"><strong>发言人2: </strong></span>
-用户的第一代。其实他在idea诞生的初期，在项目立项的初期是vlog还没有火，大家拍短视频拍的多是以一些旅途图或者生活分享为主。这个时候其实28毫米，26毫米的这个镜头是可以cover的住的。但是在这个项目，因为它有一定的开发周期，回到17年下旬或者是到18年的这个时候，其实vlog已经逐渐的开始有一些火，有一些苗头了。在这个过程里面，你想大更换方案肯定是来不及。而且在他发布的时候，其实那个时候才真正火起来。所以说pockets是赶在一个很奇妙的一个节点，前半程是短视频，后半程是vlog而他们中间的需求其实差别确实比较大。
-</p>
-<p class="transcript-line">
-<span class="time"><strong>[00:18:12]</strong> </span>
-<span class="speaker"><strong>发言人2: </strong></span>
-所以你看一代时候的宣传策略，大疆官方大疆的marketing team从来自始至终没有提过自己是一个vlog神器。但是奈何这个形态实在是太好用和太小巧了，用户非常的喜爱，他们会拿着这个产品，各种场景都会去用。而抛开的正是因为踩中了这些点，所以大家天然的认为这个产品即使是一代，我也想让他去拍vlog，非常想让他成为大家心中或者是一个民选出来的vlog神器。所以说我们也是受到了非常强烈的需求，也意识到了vlog来势势不可挡。所以我们尝试着二代的时候，其实本质上是一个我们技术有演进，然后有进步。在这个技术和需求都非常有演进和明确的情况下，我们做。这个一代的全面加强版。
-</p>
-<p class="transcript-line">
-<span class="time"><strong>[00:19:02]</strong> </span>
-<span class="speaker"><strong>发言人2: </strong></span>
-但是基本上你可以看到二代和一代的体积是一样大的。我们在做了众多的改进之后，依然没有丢失pocket的便携性。这点我觉得是一个让我非常自豪的一个事情。甚至像三代，其实在三代的时候，它已经在一个万事具备，只欠一英寸的这个阶段了。所以在定义的时候，当然一英寸的sensor其实没有那么好做。过往你可以看到大疆的产品线在macc pro上面，其实它是有一英寸的版本。但是那个一英寸的sensor是不带相位对焦的，所以它肯定是在手持拍摄里面。其实你也肯定知道对视频拍摄来说，对焦的重要性。
-</p>
-<p class="transcript-line">
-<span class="time"><strong>[00:19:38]</strong> </span>
-<span class="speaker"><strong>发言人3: </strong></span>
-非常重要。
-</p>
-<p class="transcript-line">
-<span class="time"><strong>[00:19:40]</strong> </span>
-<span class="speaker"><strong>发言人2: </strong></span>
-如果在技术先决条件我们还没有准备好的时候，我们不能在二代就贸然选择这个方案。但是在三代的时候，技术被攻克，所以一切都非常的顺理成章。而且三代还有一个当时我立了的一个非常大的改进，就是这个旋转屏幕太妙了。
-</p>
-<p class="transcript-line">
-<span class="time"><strong>[00:19:56]</strong> </span>
-<span class="speaker"><strong>发言人1: </strong></span>
-对这个屏幕的滑感太爽了。
-</p>
-<p class="transcript-line">
-<span class="time"><strong>[00:19:59]</strong> </span>
-<span class="speaker"><strong>发言人2: </strong></span>
-对这个屏幕的大小，它会完全的决定用户的创作欲望。小的屏幕会限制他的创作欲望的，而大的屏幕大家这个爽感就会来。但是这里面肯定你说从可靠性，从里面的堆叠，从技术方案的一些选用，肯定有很大的挑战。但是很庆幸的是，pocket的team非常好的，非常完美的完成了这项任务。这个也是我觉得非常大的一个改进。所以到了三代就说回来，有了今天重现一代的这个盛况，到处都缺货，然后用户反响也非常好，NPS的推荐值也非常高。
-</p>
-<p class="transcript-line">
-<span class="time"><strong>[00:20:32]</strong> </span>
-<span class="speaker"><strong>发言人1: </strong></span>
-是是是，所以网上还有一句话就是说买产品要买第三代。就是任何产品好像都有这样一个规律。其实我们看到刚刚你说的这个时间线，就是2018年推出的第一代，2020年是第二代，2023年是推出了pocket 3。为什么每一代之间他会隔这么长时间呢？比如说2到3年的这个研发周期之久。
-</p>
-<p class="transcript-line">
-<span class="time"><strong>[00:20:54]</strong> </span>
-<span class="speaker"><strong>发言人2: </strong></span>
-基本上是两年，或者是18个月到两年之间。
-</p>
-<p class="transcript-line">
-<span class="time"><strong>[00:20:58]</strong> </span>
-<span class="speaker"><strong>发言人1: </strong></span>
-是因为硬件产品的供应链吗？
-</p>
-<p class="transcript-line">
-<span class="time"><strong>[00:21:01]</strong> </span>
-<span class="speaker"><strong>发言人2: </strong></span>
-对我觉得它是一个在目前的开发和供应体系下一个行业的周期性的一个结果。就是因为pocket它本质上是一个你可以理解成一个机器人项目。它在里面有传感器、有算法，有执行器，有它的算力。所以它不是特别简单。它横跨的影像、音频，然后还有一些AI的功能，横跨的软硬件。它既要在本体的记载嵌入式上面做很多功能的固件，让这个小机器独立可以使用。然后它也要在手机的端做很多的事情。所以说这个开发工作量其实是巨大的，而这个开发的周期天然本身就长一些。
-</p>
-<p class="transcript-line">
-<span class="time"><strong>[00:21:36]</strong> </span>
-<span class="speaker"><strong>发言人2: </strong></span>
-而且pocket它是比较稀有的，就是市面上独一无二的这种物种，它过往没有很多的经验可以让我们来学习，都是摸着石头去过河去探索。供应链里面也没有像手机一样这种完善的规模化的组件供我们去使用。然后我们都需要自己去研发，自己去定制，这里面无形中也会加上这个周期。所以说对我来说，或者对我这个前从业者来说，18个月到24个月这个周期，我认为已经是非常了不起的一个时间了。它里面要克服的困难是巨大的。
-</p>
-<p class="transcript-line">
-<span class="time"><strong>[00:22:09]</strong> </span>
-<span class="speaker"><strong>发言人1: </strong></span>
-为什么pocket一直是在一种供不应求的状态中呢？
-</p>
-<p class="transcript-line">
-<span class="time"><strong>[00:22:13]</strong> </span>
-<span class="speaker"><strong>发言人2: </strong></span>
-这个我觉得对任何一个商业公司来说，或者是对pocket项目组来说，他没有动力也没有必要去饥饿营销。Pocket卖的其实是非常好。而且它因为让这些个人的视频创作者，这些ugc这些PUGC用的很爽，他们天生自带传播属性，所以这个就有了一些用户裂变的基础。所以说pockets的体量它是既快又急的，它的加速度非常大大到了让这个供应链很难在短时间内去应付下来。而且抛开它工程技术难度也是偏大的，它没有那么容易的产出来。所以说就一直会处在一个相对来说供不应求的一个状态。
-</p>
-<p class="transcript-line">
-<span class="time"><strong>[00:22:51]</strong> </span>
-<span class="speaker"><strong>发言人1: </strong></span>
-简单来说，其实每一次的销售都超出了你们之前的预期。
-</p>
-<p class="transcript-line">
-<span class="time"><strong>[00:22:55]</strong> </span>
-<span class="speaker"><strong>发言人2: </strong></span>
-是的，每次都超出了预期，然后尝试上调预期，然后发现似乎还能有更大的潜力去可以做。
-</p>
-<p class="transcript-line">
-<span class="time"><strong>[00:23:02]</strong> </span>
-<span class="speaker"><strong>发言人1: </strong></span>
-其实还有一个我不知道这个问题你能不能聊。因为我知道他可能是所有相机产品里面一个非常核心的商业机密的环节。其实大家去用一款相机，还是因为这个相机它的摄影功能或者摄像功能非常好。其实我们根据用户的评价来反馈的话，pocket一它的画质其实是不如同价位的旗舰型手机的。但是pocket 2其实当时已经跟手机做的差不多了。现在我们再去看pockets 3跟手机对比，比如说jeremy他个人是认为它是好于手机的，同时我其实也用了pocket 3。我觉得你们整个的色彩跟光线都调的非常的好。我就很好奇是怎么做到的？
-</p>
-<p class="transcript-line">
-<span class="time"><strong>[00:23:48]</strong> </span>
-<span class="speaker"><strong>发言人2: </strong></span>
-我尝试从没有商业机密，然后没有一些技术细节的角度来解答这个问题。首先pockets它确实在画质上面是从相对落后手机到追评再到超越的这么一个情况。本质上我觉得有几个点，最大的还是得益于大疆他的技术研发，以及他这个高效的组织能力。
-</p>
-<p class="transcript-line">
-<span class="time"><strong>[00:24:08]</strong> </span>
-<span class="speaker"><strong>发言人2: </strong></span>
-因为你知道其实pocket它在早期的时候，在DGI不是一个主力的产品线。甚至在更早期，在项目立项初期，没有人听说过，没有人接触它这个项目，或多或少都有一些质疑。我那个时候每天面对最多的就是一些灵魂拷问，用户已经有手机了，比如说为什么要用pocket，为什么要买你这个东西？在这个过程里面，在大家普遍没那么看好的情况下，你是很难拿得到很多的资源的。更别说其实大疆它的这个体量规模，它的研发人员的数量跟手机这些当时手机已经在卷光学了，跟手机这种天然的光学或者是整个影像的大team来说，它是差着量级的。所以说早期的时候是陷入了一个非常资源不对称的一个竞争。
-</p>
-<p class="transcript-line">
-<span class="time"><strong>[00:24:52]</strong> </span>
-<span class="speaker"><strong>发言人2: </strong></span>
-而在这个过程里面，DJI又是完全从零开始，白手起家。所以说当时在非常有限的资源底下，能做到攻破各种技术限制这种行业限制，切中用户需求，交付出来一个至少在画质上切入，接近当时主流旗舰手机的这么一个画质，我认为已经是相对了不起的一个状况。而且我们在对一代的时候，产品的定义其实非常的准确。一代最大的卖点其实就是便携性，就是解决它拍摄先拍的到。我们再说拍的好这个事情，在资源有限的情况下，我们做好取舍，一步一步来。在二代的时候，其实抛开的已经得到一些证明了他在市场的潜力。它相对来说在整个组织里面他拿资源会更容易一些。然后另外大江也在这个过程中完成了pocket的冷启动，有很多的影像的积累。
-</p>
-<p class="transcript-line">
-<span class="time"><strong>[00:25:44]</strong> </span>
-<span class="speaker"><strong>发言人2: </strong></span>
-虽然说这个时候团队开发人员的规模还是落后于手机这些传统的大厂的规模，而且落后很多。但是这里我就不得不再夸一句大疆的人才密度。这些天才工程师们，天才的程序员们，他们真的非常的能打。所以说人才在这里面我觉得也起到很大的关键的作用。
-</p>
-<p class="transcript-line">
-<span class="time"><strong>[00:26:03]</strong> </span>
-<span class="speaker"><strong>发言人1: </strong></span>
-怎么招到这波人的？
-</p>
-<p class="transcript-line">
-<span class="time"><strong>[00:26:06]</strong> </span>
-<span class="speaker"><strong>发言人2: </strong></span>
-这个就是我觉得大疆这个企业非常有魅力的地方。可能它是我认为一个研发人员心目中的一个乌托邦。在这里大家不用太担心商业的一些事情。我觉得大疆是国内为数不多的这种愿景驱动的公司。
-</p>
-<p class="transcript-line">
-<span class="time"><strong>[00:26:22]</strong> </span>
-<span class="speaker"><strong>发言人1: </strong></span>
-是他给你们比如说产品经理、工程师的空间非常大不过多的从商业目标上做产品的导向。
-</p>
-<p class="transcript-line">
-<span class="time"><strong>[00:26:30]</strong> </span>
-<span class="speaker"><strong>发言人2: </strong></span>
-这是一方面。而且更根源的你还要回到公司这个创始人他本身的一些特质上面。首先创始人就是这样的，他就是一个典型的这种航模爱好者。然后把自己的兴趣变成了自己的梦想，变成了自己的事业。而他下面招的这些人，包括我们都是在过往的学生时代非常喜欢机器人，然后打着各种比赛robot master、robot com、robot cup, 在过程中一路证明自己，并且非常希望去改变世界。非常有梦想，眼里有光的一群人。把这些人招进来之后，创造一个相对舒适的环境，让他们发挥最大的价值。我觉得是这个公司研发的土壤非常具有肥力和养殖的一部分。而且它的长线目标非常清晰，就是不做非常平庸的产品，就是做世界上最好的东西，做独一无二的东西，去做那些别人做不到的东西。
-</p>
-<p class="transcript-line">
-<span class="time"><strong>[00:27:20]</strong> </span>
-<span class="speaker"><strong>发言人1: </strong></span>
-能不能用一些具体的例子表达一下什么叫做舒适的环境？因为我其实对人才密度这一块是非常感兴趣的。
-</p>
-<p class="transcript-line">
-<span class="time"><strong>[00:27:29]</strong> </span>
-<span class="speaker"><strong>发言人2: </strong></span>
-就是以我自己的例子来说，我毕业之后以校招生的身份进入DJI，然后参加OSMO这个项目。在这个过程里面，其实我是没有完成一个学生到一个工程师的转换的。他会用项目给你大量的机会，然后去培养你去模拟。在这里面你会得到一个快速成长的空间，他对新手有非常高的包容，非常长的容错期。在这个过程里面你不用怕犯错，你要做的事情是成长，是向周围的这些非常聪明，非常有经验的前辈们去请教，快速的提升自己，武装自己。到了你能独挡一面咾当打之年的时候，他又会用很多公司内部的一些福利，比如说一些周围比较花你时间的事情。
-</p>
-<p class="transcript-line">
-<span class="time"><strong>[00:28:14]</strong> </span>
-<span class="speaker"><strong>发言人2: </strong></span>
-然后如果你不想干，其实内部很有意思，它是有一些小制度的。比如说他有一个内部的行政券的制度，有些事情你不想干，你可以每个人每个月有一些定额的一些行政券。你可以让想干这些的同事，然后你给他一些这个行政券的辛苦费，让他去干这个事情，大家互惠互利，然后就只让大家专注在自己想干的事情上。而这个行政券是可以兑换现金的，蛮有意思的，有一套内部的自己的小货币系统。
-</p>
-<p class="transcript-line">
-<span class="time"><strong>[00:28:40]</strong> </span>
-<span class="speaker"><strong>发言人1: </strong></span>
-这个有意思。
-</p>
-<p class="transcript-line">
-<span class="time"><strong>[00:28:41]</strong> </span>
-<span class="speaker"><strong>发言人2: </strong></span>
-对你想当时我是应届毕业生，其实我的社会经验不是很丰富。他会提供很多公司的公租房员工宿舍。你以一个非常低廉的价格，甚至包了水电这些直接去入住。你在这个过程里面是免去了跟房东来回拉扯，勾心斗角这些琐事的。所以说让将更多的精力集中在自己的成长和项目的交付上面，他对新手，对应届生来说是很友好的。
-</p>
-<p class="transcript-line">
-<span class="time"><strong>[00:29:07]</strong> </span>
-<span class="speaker"><strong>发言人1: </strong></span>
-对我刚刚打断你了，你刚刚讲到了二代，正准备说三代。
-</p>
-<p class="transcript-line">
-<span class="time"><strong>[00:29:11]</strong> </span>
-<span class="speaker"><strong>发言人2: </strong></span>
-就是二代的时候，你可以看到其实它在还是保留便携的这个情况下，他做了很多提升。首先它的这个收音特别的好，无论是这个机载的收音，还是我们给他出了一套无线麦克的系统，都得到了用户广泛的认可。然后我们选到了合适的焦段，我们迭代了云台的系数，然后这个云台零点几秒就立刻就启动了，直接进入一个拍摄状态。我们还改进了这个云台的可靠性，这些它跌落的时候会检测到，进行一个自我保护的动作，让机械云台不再那么脆弱。同时我们还在画质上面也更新了sensor，也有更好的画质，完全追平，甚至因为有这些机械云台等等等一些天然的优势，在综合的实力上其实是局部反超了当时的旗舰手机。然后它整个过程从音频到视频到使用体验，到中间的这个story模式智能的剪辑的部分，它在整个场景上其实已经到了一个很高的一个可用度，用户的满意度其实非常高。而唯一就是有一些相对专业的用户，他对画质开始有一些要求，有一些需求。这个时候其实就是到了我说的万事俱备，只欠一英寸的状态。第三代在底层的技术项目组得到突破了之后，那就把它产品化交给用户手里，大概就是这样一个过程。
-</p>
-<p class="transcript-line">
-<span class="time"><strong>[00:30:24]</strong> </span>
-<span class="speaker"><strong>发言人1: </strong></span>
-杰瑞米你要不要跟大家解释一下一英寸底是什么意思？
-</p>
-<p class="transcript-line">
-<span class="time"><strong>[00:30:28]</strong> </span>
-<span class="speaker"><strong>发言人3: </strong></span>
-我们这里说的一英寸底也好，二点3分之1英寸也好，指的是相机里的感光元件的大小。以前的相机是用胶卷来感光的，现在我们把胶卷换成了一个电子的感光元件。这个感光元件的大小直接决定了你能够接受多少光。感光元件越大，接收的光的信息就越多，那就意味着你拍出来的照片或者视频画质越好。尤其是在光线比较不充足的时候，它的画面会更加的纯净，更加的没有噪点。
-</p>
-<p class="transcript-line">
-<span class="time"><strong>[00:30:59]</strong> </span>
-<span class="speaker"><strong>发言人3: </strong></span>
-以前的时候，大部分手机的底或者感光元件只有二点3分之1英寸或者一点7分之1英寸，就像个芝麻粒那么大，非常的小。现在的很多旗舰手机已经达到了，比如一点3分之1英寸，一点17分之1英寸。我记得iphone 15可能已经到了这样的一个大小。
-</p>
-<p class="transcript-line">
-<span class="time"><strong>[00:31:18]</strong> </span>
-<span class="speaker"><strong>发言人3: </strong></span>
-一英寸底就是对角线的长度是一英寸，是之前很多专业的卡片相机使用的底的大小。现在很多手机也逼近了这个大小，到了这个底的大小之后，画质其实会比那些小底会有比较大的提升。大疆的pocket 3就是在这一代上使用了这个比较大的1英寸的底，所以它带来的画质的提升确实是很立竿见影的。但这个大小其实也并不是一个特别大的大小，再往上面还有非常多更大的画幅，比如说专业相机使用的全画幅APSC画幅等等我大概算了一下，一英寸底的大小可能是全画幅专业相机的8分之1大。
-</p>
-<p class="transcript-line">
-<span class="time"><strong>[00:31:56]</strong> </span>
-<span class="speaker"><strong>发言人2: </strong></span>
-他这个事情要拆开看，从产品经理的角度，对于三的比如说画质，整个使用的流畅度，整个拍摄的简易程度、便捷程度来说，甚至这个旋转屏幕你把它推开，咔嚓咔嚓这个交互带来的爽感来说，我都是很满意的，也挺有质感的。唯一你要说我觉得想要继续改进的地方，这里也希望好给的项目组能继续听到。就是我希望他能再变回一代的大小，回归初心，当然是在保留现在的这些产品性能的基础上，甚至挑战物理极限，把不可能变成可能。
-</p>
-<p class="transcript-line">
-<span class="time"><strong>[00:32:31]</strong> </span>
-<span class="speaker"><strong>发言人1: </strong></span>
-这个太有意思了。但是它变成一代的大小，会不会它那块屏就又变小了。
-</p>
-<p class="transcript-line">
-<span class="time"><strong>[00:32:36]</strong> </span>
-<span class="speaker"><strong>发言人2: </strong></span>
-我觉得能去解决。你看现在手机不是已经能在一个屏的体积里面能塞得下两倍的面积，我觉得肯定是有办法的。
-</p>
-<p class="transcript-line">
-<span class="time"><strong>[00:32:46]</strong> </span>
-<span class="speaker"><strong>发言人3: </strong></span>
-您提到这一点我还挺惊讶的，因为三代和一代二代的大小变化没有特别大，确实大了一些。但您觉得这一点对用户会有实质性的影响吗？
-</p>
-<p class="transcript-line">
-<span class="time"><strong>[00:32:58]</strong> </span>
-<span class="speaker"><strong>发言人2: </strong></span>
-我觉得其实大的还是蛮多的。如果你有一代二代的机器，你把它摆在一起，然后这个对比会比较一目了然。当然它没有，因为它整个性能实在太优秀了，它不足以是一个致命的点。但是现在我们要说的是一个追求完美的事情。
-</p>
-<p class="transcript-line">
-<span class="time"><strong>[00:33:13]</strong> </span>
-<span class="speaker"><strong>发言人1: </strong></span>
-就是追求一个极致的产品。
-</p>
-<p class="transcript-line">
-<span class="time"><strong>[00:33:15]</strong> </span>
-<span class="speaker"><strong>发言人2: </strong></span>
-对pocket它为什么能成功？本质上还是得益于最开始的便携性。始终要记得先拍的到再拍的好，现在确实拍的好了，我们需要让他再多拍得到一些。当然这是我一些个人看法，我不知道现在的项目组或者是用户可能跟我有一些不一样的期待，但是我希望这个初心还是在这里的。
-</p>
-<p class="transcript-line">
-<span class="time"><strong>[00:33:36]</strong> </span>
-<span class="speaker"><strong>发言人1: </strong></span>
-我可以想象，就比如说你刚刚提到其实还涉及到供应链的环节。它有很多的零部件，它可能在供应链上它都是从无到有的。然后这个需求的定义也是从无到有的那这对一个产品经理来说，他面临的挑战是什么？就是你是怎么去克服你的这些挑战的。
-</p>
-<p class="transcript-line">
-<span class="time"><strong>[00:33:55]</strong> </span>
-<span class="speaker"><strong>发言人2: </strong></span>
-我觉得这里面的挑战是全方位的。首先结合抛开的立项处，尤其那个时间阶段来说，在那个时期其实我还没有完全的完成一个产品经理的转身，就是我还是一个工程师占人格更多一点，占技能更多一点的这个状态。在这里面其实对需求的把控确实也很谨慎。而且这里还牵扯到一个信任度的问题，就是周围的人，周围的资源。其实对你一个毛头小子来说，为什么把这么宝贵的资源给你为什么要让你去做一个已经有了手机，而要在这么强大的对手里面直面他的这种选择？其实周围的人都会有很多的顾虑，如何消除他们的信任感，让大家相信你，相信你未来能够成功，相信这个产品有前景，是一个还蛮困难的事情。
-</p>
-<p class="transcript-line">
-<span class="time"><strong>[00:34:41]</strong> </span>
-<span class="speaker"><strong>发言人2: </strong></span>
-然后另外，在这个过程里面，让大家相信你才拿得到资源。有了资源，然后你要做定位。然后你也担心像可能之前的产品经理一样，做错一些决策，以将我能累死三军。在这里面因为自己的一些失误，造成了研发资源的浪费，产品的不成功，定义的错位。这里面的后果都是非常严重。其实自己给自己的这个压力和挑战也会比较大一些。而在真正的拿到的资源，想清楚的方向，真刀真枪上去干的时候，又发现每天真的都是嚼着玻璃凝视深渊，然后搞的这些事情。刚开始一腔热血冲到这个创新的浪潮里面，后来会迅速的感受到这个事情的难度，然后压迫感很强扑面而来。这个事情第一给你的感觉是啊，原来过往大家没有这么做，首先是有原因的，要么这个事儿真的是太难了，他要非常的长周期的投入。
-</p>
-<p class="transcript-line">
-<span class="time"><strong>[00:35:32]</strong> </span>
-<span class="speaker"><strong>发言人1: </strong></span>
-能举个例子吗？
-</p>
-<p class="transcript-line">
-<span class="time"><strong>[00:35:33]</strong> </span>
-<span class="speaker"><strong>发言人2: </strong></span>
-很多，比如说云台随便举个例子，你把它做小型化，然后把这些线都藏起来走在里面。你知道OK的一代的云台，它在早期的时候有相机，然后有电机，一个云台有三个电机，对吧？光这里面走信号和控制的线只有五十多根，每一根它其实是6股，里面还要有屏蔽层，还要有保护层。而如何让这么五十多根的线在云台这么一个有限的体积里面，它要从这个云台的轴中间穿过去。这个云台的电机也没有多大，这中间的轴孔的直径可能都不到2毫米，五十多根线穿进去，而且云台又是一直运动的，它在每个角度的弹力都会不一样。在这里面如何把这些事情搞定，让他既能完整的传输信号，又彼此之间不干扰，又能过各种国家、各个区域、各种电磁标准检测，且在用户长时间的使用中，这五十多根线不产生质量问题，不产生可靠性问题。不同的炉子不出意外就要便携。
-</p>
-<p class="transcript-line">
-<span class="time"><strong>[00:36:34]</strong> </span>
-<span class="speaker"><strong>发言人2: </strong></span>
-在这个云台的控制上面，让云台再尽可能在每一个角度受到的弹力都一致。光搞定这一根线还不行，你还要搞定几百万根线，让他们都一致，在一个一致的很小的区间内浮动。因为云台的力气太小了，你的弹力对它来说控制上面都是很大的挑战。这个事情你看加了这么多的约束，既要又要还要我还要马上要，真的很难。而过往其实没有特别多的一些经验在这里面，至少没有在这么苛刻的要求下面这么多要求。
-</p>
-<p class="transcript-line">
-<span class="time"><strong>[00:37:04]</strong> </span>
-<span class="speaker"><strong>发言人1: </strong></span>
-对你解决云台的这些布线的问题大概花了多久？就这一个问题。
-</p>
-<p class="transcript-line">
-<span class="time"><strong>[00:37:09]</strong> </span>
-<span class="speaker"><strong>发言人2: </strong></span>
-因为这个问题它不是并行的，它是项目组面临众多问题中的一个。这一个县可能从真正的出版，然后到一直稳定的状态，在这里面走了可能有将近一年的时间吧。
-</p>
-<p class="transcript-line">
-<span class="time"><strong>[00:37:23]</strong> </span>
-<span class="speaker"><strong>发言人1: </strong></span>
-能感受到有多不容易。
-</p>
-<p class="transcript-line">
-<span class="time"><strong>[00:37:25]</strong> </span>
-<span class="speaker"><strong>发言人2: </strong></span>
-对我这是随手举了一个小点，这个pocket从头到脚都充斥了这个问题。你回到产品定义上面来说，像一代的OSMO它是只用无线连接。但是那个时候受限于技术，受限于射频的性能。其实一代的时候跟手机经常断连或者经常连不上，周围有强电磁干扰的时候就完全就抓瞎了。
-</p>
-<p class="transcript-line">
-<span class="time"><strong>[00:37:47]</strong> </span>
-<span class="speaker"><strong>发言人2: </strong></span>
-二代的时候，为了解决这些问题，其实我们你还知道一代和二代Jimmy应该用过，它是有插头的对。而为了兼容苹果和安卓的手机的插头，我们做了可拆卸的设计。尤其是苹果的那个插头，它是要过苹果的MFI的认证的。而在苹果的MFI的这个文档里面，它是要求这个主机不能把苹果的MFI的插头和芯片拿下来的。因为担心你用作它用变成比如说了一个类似于USB的转换器质。类的。
-</p>
-<p class="transcript-line">
-<span class="time"><strong>[00:38:14]</strong> </span>
-<span class="speaker"><strong>发言人2: </strong></span>
-然后当时我是有了这些方案之后，朝着我的为数不多的500个词汇飞到vegas。然后很幸运的通过一些校友关系，通过一些同事关系，约到了苹果当时负责MFI的全球生态的VP Matthew。然后我用我为数不多的英语词汇，向他阐述了我的这个项目，我的愿景。然后我遇到的这些挑战也是说服了他相信我，给我取得了MFI的一个豁免。这个周期其实也非常长，苹果也是个大公司，我们从苹果的中国一路反馈问题，然后到了负责全球生态的VDP，然后把这个事情才搞定。然后拿到了产许可，可以给我们供应这个端子跑开的才有了稳定的数据链路连接，真的非常不容易。
-</p>
-<p class="transcript-line">
-<span class="time"><strong>[00:38:58]</strong> </span>
-<span class="speaker"><strong>发言人1: </strong></span>
-你中间有想过要放弃的时候。
-</p>
-<p class="transcript-line">
-<span class="time"><strong>[00:39:00]</strong> </span>
-<span class="speaker"><strong>发言人2: </strong></span>
-没有，一次都没有。
-</p>
-<p class="transcript-line">
-<span class="time"><strong>[00:39:02]</strong> </span>
-<span class="speaker"><strong>发言人1: </strong></span>
-对，我记得之前乔布斯有一段话，他说优秀的创意与产品之间是隔着巨大的鸿沟的那在实现创意的过程中，想法会发生变化，甚至是变得面目全非。因为总是有些问题是解决不了的。比如说塑料、玻璃材料，他们无法实现，或者说有一些是工厂还有机器人做不到的那设计一款产品，你得把五千多个问题装进脑子里，而且必须仔细梳理，尝试各种组合才能得到想要的结果。现在如果说让你自己给你设计的这个pocket一还有pocket 2的产品打分，你觉得他实现了你多少的想象？你给他打几分？
-</p>
-<p class="transcript-line">
-<span class="time"><strong>[00:39:47]</strong> </span>
-<span class="speaker"><strong>发言人2: </strong></span>
-我觉得能打到9分。很有意思的是，如果将来有机会回顾抛开的这个过程，如果有机会能观摩到pocket在每个阶段的一些原型机，一些手感，你会非常惊奇的发现pocket的第一版和最后一版它的体积是一样大的这是让我非常自豪的一个点。
-</p>
-<p class="transcript-line">
-<span class="time"><strong>[00:40:08]</strong> </span>
-<span class="speaker"><strong>发言人1: </strong></span>
-就是在体积上你没有做妥协。
-</p>
-<p class="transcript-line">
-<span class="time"><strong>[00:40:10]</strong> </span>
-<span class="speaker"><strong>发言人2: </strong></span>
-对我在产品定义的初期，其实想清楚了，拍得到比拍得好更重要。这个事情想清楚了便携性的重要程度。然后你会发现抛开的一代，其实抛去云台的部分，它的主机的机身部分跟绿箭的那个铁皮罐的薄荷糖是一样大的。就是我们在早期的一个立项会中，我们在大江搬家的这个临时间里，我们在思考口袋里面究竟还能容得下什么东西。然后我们觉得这个形态既好捏，然后又小又不侵占空间。跟AIRPOS这些耳机去抢夺用户口袋空间的时候也不吃亏，把它目标锁定在这里。而最后我们达到了这个过程，真的特别的热血。
-</p>
-<p class="transcript-line">
-<span class="time"><strong>[00:40:50]</strong> </span>
-<span class="speaker"><strong>发言人3: </strong></span>
-我听到您对这样一个用户需求这么精准的把握，以及这么坚守，包括您之前说对体积大小的坚守，作为一个产品人我觉得还是非常敬佩的。
-</p>
-<p class="transcript-line">
-<span class="time"><strong>[00:41:03]</strong> </span>
-<span class="speaker"><strong>发言人1: </strong></span>
-因为其实jeremy他自己除了是一个摄影的，可以说是专业人士，同时他自己也是一个产品经理。你觉得做硬件的这种产品创业跟互联网行业它的一些核心区别是什么呢？
-</p>
-<p class="transcript-line">
-<span class="time"><strong>[00:41:14]</strong> </span>
-<span class="speaker"><strong>发言人2: </strong></span>
-首先我不是一个互联网的产品经理，所以这里面可能我的回答不具备那么高的专业性。但我仅从一些复杂项目的硬件产品经理角度上来回答这个问题的话，我觉得有几个事情比较重要。首先产品经理可能会有一些阶段，然后每个阶段至少从我的成长轨迹来说，它会有一些特别重要的事情。回顾我的这些过程，比如说我在初级的阶段，我刚从工程师转身成产品经理。
-</p>
-<p class="transcript-line">
-<span class="time"><strong>[00:41:41]</strong> </span>
-<span class="speaker"><strong>发言人2: </strong></span>
-我觉得有一个很重要的事情是对需求的把控。我会刻意的减少我在项目中说我觉得这三个字的出现的频率。我很少说我觉得用户会怎么样，我觉得这个需求该怎么样做。这个是我意识到需求的重要性。他会只有很多资源，然后去哪里？有了对这个威力的认知之后，我可以对我自己施加了一个约束。我担心我自己做出拍脑袋的产品，或者是用户不需要的产品，做出伪需求，做出一些自嗨型的产品。而可以减少。我觉得去聆听用户的声音，去更开放，更有同理心，我觉得是那个阶段比较重要的事情。
-</p>
-<p class="transcript-line">
-<span class="time"><strong>[00:42:22]</strong> </span>
-<span class="speaker"><strong>发言人1: </strong></span>
-你说你要减少，我觉得你的这个产品需求的定义是从用户数据来的，还是从用户这种零散的反馈中来的。就是你怎么样去做这个产品的核心定义？如果他不是我觉得的话，驱动你的是数据还是用户反馈。
-</p>
-<p class="transcript-line">
-<span class="time"><strong>[00:42:41]</strong> </span>
-<span class="speaker"><strong>发言人2: </strong></span>
-那应该是数据化的用户反馈。就是他有很多相对来说比较成熟的一些方法论。但是我在pocket一代的时候其实比较幸运。在我拍不具备这个能力的时候，抛开的一代也成功了。但是在二代、三代你会发现我们很难聆听用户的声音。就是这里面用户真实的声音如何传递进来，然后怎么去对他他们做访谈，做定性定量的一些用言他的这些需求，你怎么把它抽象出来，找到他真实的一些目的，而不是说我要一个什么功能，在这里面做一些判断和取舍是比较重要的。
-</p>
-<p class="transcript-line">
-<span class="time"><strong>[00:43:13]</strong> </span>
-<span class="speaker"><strong>发言人2: </strong></span>
-用户其实就是举个例子，他就会到商店里去，然后告诉店员我要一个多少功率的一个电钻。但是产品经理要第一时间反应过来，他其实是想在什么场景下要打一个怎么样的一个孔，你对他的需求的这个抽象是要更理性一些的。第二点我觉得可能在掌握了用户的这些用眼，这些洞察，能聆听他们的声音之后，你脑子里会有各种各样的声音，会有各种各样的反馈。这个时候你的思路要是清晰的，所以你得学会做减法。
-</p>
-<p class="transcript-line">
-<span class="time"><strong>[00:43:43]</strong> </span>
-<span class="speaker"><strong>发言人2: </strong></span>
-非常幸运的是在pocket里面，至少从项目最开始，刚才大家应该也反复听我强调了这个体积便携性的重要性。然后我把它给了很高的权重。在这里面做减法也是一个非常有学问，非常重要的事情。做大而全，它会分散你的产品的定位，让它变得很模糊。
-</p>
-<p class="transcript-line">
-<span class="time"><strong>[00:44:02]</strong> </span>
-<span class="speaker"><strong>发言人2: </strong></span>
-它会让你的这些用户也变得很散，你不能去对他们发力，做出他们想要的东西。对组织内部也是一样，在大家都信息传递很混乱很松散的时候，且这个核心非常宝贵的研发资源，然后各种各样的资源被分散分摊之后，其实它的产品力会迅速跌的比较厉害，可能会跌破及格线。你反过来看这些成功的产品，他们往往是踩到了一些非常核心的点，而不是说非常的大而全。尤其是创新产品是这样做减法是非常重要的。
-</p>
-<p class="transcript-line">
-<span class="time"><strong>[00:44:36]</strong> </span>
-<span class="speaker"><strong>发言人2: </strong></span>
-后来在这个过程里面，我觉得更初心一点的，我觉得是保持热情和好奇心。它决定了产品经理在这个事情上的自驱和投入度。尤其是做这种世界上没有的，然后你需要把它开创出来的创新产品，你遇到的困难和阻力是极大的。你也需要自己的热情去维持一个类似自己坚定的信念，自己的带个引号的思想钢印。而好奇心能让你看见那些生活中往往大家习以为常，但是常常被忽略的事情。而抓住这些生活中细小的事情在上面做出改变，往往也能诞生出来成熟和伟大的产品。
-</p>
-<p class="transcript-line">
-<span class="time"><strong>[00:45:16]</strong> </span>
-<span class="speaker"><strong>发言人3: </strong></span>
-虽然我觉得vlog也好，拍短视频也好，现在门槛在逐年的降低，但我依旧觉得它跟摄影相比还是门槛高一些，我也知道您一直在努力的去降低这个门槛，你怎么看这两者之间的门槛的区别，你觉得未来会有怎么样的事情出现，能进一步的降低这个门槛，让视频或者短视频更加的普及？
-</p>
-<p class="transcript-line">
-<span class="time"><strong>[00:45:39]</strong> </span>
-<span class="speaker"><strong>发言人2: </strong></span>
-我比较看好的方向其实还是AI生成这一块，就是它其实你很像在技术的角度来看整个事情的话，其实AI是个大变量。然后你从需求的角度来看的话，其实视频跟照片，刚才我说的他俩和需求长期会共存。而AI其实在这里面能突破光学所不具有的这个摩尔定律，光学它真的就是抵达一级压死人。其实3 sir的这个感光效率还不错，但是夜间它真是能被你捕捉，可用的光子其实就那么少。如果你一直在这条固有的思维上面去做创新，去做迭代优化的话，那么很可能就变成一个卷3 sor卷对焦全镜头这么一个游戏学。
-</p>
-<p class="transcript-line">
-<span class="time"><strong>[00:46:20]</strong> </span>
-<span class="speaker"><strong>发言人2: </strong></span>
-如果你跳出这个框架，然后你让这些深层次的信息对你来说更有意义的话。甚至可能将来我随便脑暴随便说不代表未来的方向，就是可能你都不需要去那里。但是未来有这么一个世界，你只需要留下它的坐标，你可以诞生它的一年四季。然后你可以把你的各种亲朋好友的信息加入进去，你可以创造出这些新奇有趣的这些瞬间。我是比较看好这种方向的，它能突破光学，没有摩尔定律这个枷锁。
-</p>
-<p class="transcript-line">
-<span class="time"><strong>[00:46:47]</strong> </span>
-<span class="speaker"><strong>发言人1: </strong></span>
-刚刚你其实你提到了，你觉得视频的门槛会高很多，比纯粹的拍照而言，可能是视频的你指的是你要导出来，然后你的编辑的门槛。其实这里面如果加入AI生成，甚至它一键帮你发布的话，它也是可以去突破一个，比如说至少是一个相机的卖点的。
-</p>
-<p class="transcript-line">
-<span class="time"><strong>[00:47:06]</strong> </span>
-<span class="speaker"><strong>发言人3: </strong></span>
-对我曾经在买pocket 2的时候，着重的尝试了无论是大疆的APP也好，还是别家的APP的也好，就是自动帮你剪视频的功能。当时感觉还是有点差强人意，剪出来的东西让我觉得不是特别的想要反复去观看。对，我不知道这几年在这个技术上有没有什么改进。我自己也认为如果剪视频的事情能够被自动化，可能这个领域会有更大的颠覆。我指的是质量很高的自动化。
-</p>
-<p class="transcript-line">
-<span class="time"><strong>[00:47:34]</strong> </span>
-<span class="speaker"><strong>发言人2: </strong></span>
-是的，有AI这个变量之后，这些事情其实会被迎刃而解。
-</p>
-<p class="transcript-line">
-<span class="time"><strong>[00:47:38]</strong> </span>
-<span class="speaker"><strong>发言人3: </strong></span>
-还有一个相关的问题，就是我知道AI和算法在摄像领域的一个重要的应用就是防抖算法。我们之前聊了很多稳定器，聊了很多云台。我们知道机械的云台在现在比算法还是有非常多的优势的。但放眼未来十年，你觉得有一天我们会用算法防抖来取代机械云台吗？我自己作为一个拍视频的从业者，天天举着大疆的如影3，特别的沉，特别希望有一天我能够真正的手持拍摄。你觉得会有这样的一天吗？
-</p>
-<p class="transcript-line">
-<span class="time"><strong>[00:48:10]</strong> </span>
-<span class="speaker"><strong>发言人2: </strong></span>
-我觉得肯定会有的。此时此刻机械云台还没有完全的被取代掉，还是说它在场景上面有一些先天的优势，然后这些优势会被一些算法、一些算力、一些AI的方式去突破掉。但真正的比如说全景相机，它做算法的裁切，它的角度就很可能比这个机械云台要更广一些，因为它已经没什么死角了。在解决了夜间画质这些问题，然后通过AI来查漏补缺之后，可能会有这么一天。
-</p>
-<p class="transcript-line">
-<span class="time"><strong>[00:48:41]</strong> </span>
-<span class="speaker"><strong>发言人2: </strong></span>
-而站在整个行业的发展规律，机械云台从主流的摄影设备里面退出历史舞台，我觉得也是个必然现象。因为机械云台天生还是一个相对复杂的系统，然后它的可靠性就没有那么高。你比较少能看到机械云台像go for一样飞天遁地。所以这个角度上面来说，更简单的东西永远是更可靠的。我是比较看好这个方向。
-</p>
-<p class="transcript-line">
-<span class="time"><strong>[00:49:05]</strong> </span>
-<span class="speaker"><strong>发言人3: </strong></span>
-明白，我觉得您说的非常有道理，用pocket 3我会非常的小心。因为感觉这个云台一不小心摔一下可能就用不了了，没有办法像GOPRO这样，或者像大疆的action这样去随心所欲的用它。
-</p>
-<p class="transcript-line">
-<span class="time"><strong>[00:49:18]</strong> </span>
-<span class="speaker"><strong>发言人2: </strong></span>
-对它在坚固程度上会有些差距。
-</p>
-<p class="transcript-line">
-<span class="time"><strong>[00:49:20]</strong> </span>
-<span class="speaker"><strong>发言人1: </strong></span>
-对，其实刚刚你也提到AI了，然后我还有几个跟最近的AI硬件产品相关的问题。因为其实马上我们也会做一期跟meta智能眼镜相关的解读。其实我自己也非常想让您从产品人的角度去看一下，现在市面上什么是承载AI的智能硬件产品。在硅谷很火的有hum AE的AI pin，然后还有rabbit，还有meta的meta ribbon的智能眼镜儿。你能不能从产品经理的角度给我们分析一下，你怎么看这三个产品？
-</p>
-<p class="transcript-line">
-<span class="time"><strong>[00:49:53]</strong> </span>
-<span class="speaker"><strong>发言人2: </strong></span>
-怎么说呢？这三个产品里面我目前唯一购买且我比较看好的是meta ribon，我已经用脚投票了，本质上还是我觉得他有他很清晰的场景，他在一些运动穿戴的影像记录上有非常先天的优势。还是回到刚才我说的，先拍得到再拍的好。拍得到的前提是这个设备跟人足够的贴近，在你需要使用的时候，它就在你的手边，pocket可能待在这个口袋里。Meta ribbon戴在脸上，用户都只需要按一个按钮，就及时、立刻、马上、实时的在开始影像创作。对于这个新鲜感的保留，便捷程度的提升，我觉得是非常好的。而且meta跟pocket都是这种体积小巧，然后能非常容易融入在拍摄环境里面的设备。它天然的不会有很强的侵入感，无论是拍摄对象和被拍摄对象都会非常的自在。然后他们也有相同的一些困惑，正得益于他们这个小小的体积，那么如果被别有用心的人所用，可能在这些拍摄的隐私上面可能需要有一些机制去设计。
-</p>
-<p class="transcript-line">
-<span class="time"><strong>[00:50:57]</strong> </span>
-<span class="speaker"><strong>发言人2: </strong></span>
-总体来说在拍摄这个角度上面，他是是非常大的一个功能点。我至少目前用起来，虽然它画质确实也比较差强人意，它的色彩调教也不是很对我的胃口。但是我非常理解它它和pocket的一样，都是第一代的时候做了很多创新的事，但不是一个非常完美的产品。所以meta ribbon在影像拍摄角度是我比较看好的。
-</p>
-<p class="transcript-line">
-<span class="time"><strong>[00:51:20]</strong> </span>
-<span class="speaker"><strong>发言人2: </strong></span>
-而在AI这块更多的还是我在国内的这个使用环境，它会受到一些因为它没有本地的这些非常强大的模型算力，所以它会有数据传输的过程。怎么去消解等待的时间，保证这个模型传输的直通率，让你的问题可以更快的被拆解逻辑推演，然后给你反馈回来。这是将来需要去优化的一些部分，尤其是在国内的这些网络环境和这个特殊的场景底下。
-</p>
-<p class="transcript-line">
-<span class="time"><strong>[00:51:46]</strong> </span>
-<span class="speaker"><strong>发言人2: </strong></span>
-总体来说我会比较看好meta one这个产品。而且meta ribon我觉得它好的一个点，它既是meta又是ribbon e就是说它既是一个有native的一个大团队所做出来的比较有我的非常可用的一个大模型。然后它又是一个传统眼镜厂商带来的这么一套实体的外观产品，得到过市场的验证，且有品牌的加成。
-</p>
-<p class="transcript-line">
-<span class="time"><strong>[00:52:11]</strong> </span>
-<span class="speaker"><strong>发言人2: </strong></span>
-用户买起来的时候得益于他们，我觉得比较激进的商业的策略。我相信他们可能现在销售这么一台299美金起的这个meta ribbon，很可能是不赚钱，要赔掉一部分的。但是即使是这样，他们还在坚持这个事情，我觉得这也是比较宝贵，比较长期主义的，像AI pink跟rabbit，天然我觉得这些AI硬件回到产品策略上，我觉得还是可能需要他们躲得离手机远一些。他们在场景上面贴的手机太近的话，很有可能会被手机这么已经有先发优势且各方面很齐整的六边形选手去替代掉。其实在用户的使用场景里，同一个需求只需要一个设备来完成就好了。不一定非要去单独买一个可能算力没那么好，然后交互没那么顺畅的一个威埃批或者是一个rabbit。
-</p>
-<p class="transcript-line">
-<span class="time"><strong>[00:53:02]</strong> </span>
-<span class="speaker"><strong>发言人2: </strong></span>
-在这个角度上面他们也会碰到一些刚才我说到的资源错位的问题。这些小的start up的团队，它的开发资源和meta这种巨头相比，我相信能提供的弹药是不一样充足的。所以其实我不是特别看好那两个方向。
-</p>
-<p class="transcript-line">
-<span class="time"><strong>[00:53:18]</strong> </span>
-<span class="speaker"><strong>发言人1: </strong></span>
-所以其实你是非常看好眼镜这个形态的。
-</p>
-<p class="transcript-line">
-<span class="time"><strong>[00:53:21]</strong> </span>
-<span class="speaker"><strong>发言人2: </strong></span>
-我觉得作为产品经理的角度，我更看好meta和ribbon的强强联合，不一定是眼镜这个形态。我觉得想做好一个事情，想做好一个真正有价值的产品，它是要脚踏实地切身的去提供一些用户价值的，而不是把用户的胃口吊得很高，但是最后交给他们一个不达标，让他们非常失落失望的产品，并承受一定量的经济损失，这对整个的资源也是一些浪费。我觉得这个是应该比较极力去避免的事情。
-</p>
-<p class="transcript-line">
-<span class="time"><strong>[00:53:52]</strong> </span>
-<span class="speaker"><strong>发言人1: </strong></span>
-对所以我其实觉得AI pink跟rabbit他们的产品设计有一点点太超前了。但是比如说meta ribbon e我觉得它的点还是挺多的。首先就像你说的，它是meta跟ribbon的联合，它是一个好看的太阳眼镜。其次是刚刚你提到了它可以是一个拍视频的设备。同时我觉得它可以是一个听音频、听播客，甚至是接电话的一个设备。那我仅仅用它来替代耳机可能都是一个选择。对。
-</p>
-<p class="transcript-line">
-<span class="time"><strong>[00:54:17]</strong> </span>
-<span class="speaker"><strong>发言人2: </strong></span>
-其实这个事情不难理解。其实我在做pockets的早期的时候，也面临过一些类似的重大决策。
-</p>
-<p class="transcript-line">
-<span class="time"><strong>[00:54:26]</strong> </span>
-<span class="speaker"><strong>发言人1: </strong></span>
-要不要做过于超前的？
-</p>
-<p class="transcript-line">
-<span class="time"><strong>[00:54:27]</strong> </span>
-<span class="speaker"><strong>发言人2: </strong></span>
-不是过于超前的问题，就是这个产品究竟是什么？你去怎么定位它。Pocket以它来举例子，它是一个手机的配件，还是一个有独立自主主权的拍摄设备，脱离的手机也能用，我觉得这个是不一样的。在这个过程里面，我当时在我有限的sense和一些input底下，我是做的选择，我选择躲得离手机远一点。核心是因为一个是面临刚才说到的跟手机这些大厂资源的错配的竞争场景上面可能不占优，而且他们已经有先发优势，每个人都有一个手机机。
-</p>
-<p class="transcript-line">
-<span class="time"><strong>[00:55:00]</strong> </span>
-<span class="speaker"><strong>发言人2: </strong></span>
-而且我觉得更重要的一个点在于，我认为一个没有独立自主主权的一个设备，它真的永远都只能是一个硬件，它是没有话语权和主动性的。他只能去做那些可能像手机这样的设备做不了看不上的事情，然后它会丧失很多的主动性。所以这是为什么我要在pocket上面要加一块屏幕，要让它能够独立拍摄，要让它能够独立记录这些事情。你不依赖手机，也要让他在这个工作流里能干得很好。即使是一个比指甲盖大不了多少的屏幕，但是总比没有好。
-</p>
-<p class="transcript-line">
-<span class="time"><strong>[00:55:35]</strong> </span>
-<span class="speaker"><strong>发言人2: </strong></span>
-有就代表有主权。而像比如说rabbit这种产品，它其实能提供的价值真的手机都能提供。哪怕是像它这种小方盒子的形态，带一块时而触屏时而有按钮的这个物理按键的这种交互，都是现在这些小折叠的这些手机所能够提供到的。而手机上面的传感器的数量算力都比这些现在所谓的这些AI硬件要更完善全面。所以说我天然觉得这些硬件选方向的时候，可能应该躲得离手机尽量远一些，而找准自己本身的一些价值和定位。
-</p>
-<p class="transcript-line">
-<span class="time"><strong>[00:56:09]</strong> </span>
-<span class="speaker"><strong>发言人1: </strong></span>
-好的，对讲的非常好。
-</p>
-<p class="transcript-line">
-<span class="time"><strong>[00:56:16]</strong> </span>
-<span class="speaker"><strong>发言人1: </strong></span>
-非常感谢matt的精彩分享。今天我们也聊到了一些新的智能硬件的产品思路还有想法。我在这里也给大家做一个预告，我知道现在整个meta ribbon e的智能眼镜，它的销量也是非常的火，而且这款产品火了之后，又掀起了一股创业浪潮。接下来我们就会跟大家特别的聊一期关于meta ribbon的智能眼镜，他们整个的产品设计，还有为什么能够火。大家持续的关注我们好了，这就是我们今天的节目。
-</p>
-<p class="transcript-line">
-<span class="time"><strong>[00:56:48]</strong> </span>
-<span class="speaker"><strong>发言人1: </strong></span>
-如果大家喜欢我们的节目，可以在你所收听的音频渠道来订阅我们。中国的听众可以通过小宇宙、苹果播客、喜马拉雅、网易云音乐、QQ音乐、蜻蜓FM、励志FM来收听订阅。海外的听众可以通过苹果博客spot 5，可以在youtube上搜索硅谷101播客来收听订阅我们。感谢大家的收听，谢谢。
-</p>]]></content:encoded>
-            <pubDate>Fri, 16 Aug 2024 00:00:00 GMT</pubDate>
-            <guid>66be986ad1e0bac19174671e</guid>
         </item>
     </channel>
 </rss>
