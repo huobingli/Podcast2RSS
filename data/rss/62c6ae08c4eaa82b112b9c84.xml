@@ -4,7 +4,714 @@
         <title>高能量</title>
         <link>https://www.xiaoyuzhoufm.com/podcast/62c6ae08c4eaa82b112b9c84</link>
         <description>走进激流涌动的商业世界</description>
-        <lastBuildDate>Wed, 02 Jul 2025 04:51:50 +0800</lastBuildDate>
+        <lastBuildDate>Mon, 04 Aug 2025 01:47:06 +0800</lastBuildDate>
+        <item>
+            <title>Vol.176 产业观察31｜从模型“军备竞赛”到“万物皆可Agent”：2025年AI agent半年回顾</title>
+            <link>https://www.xiaoyuzhoufm.com/episode/6869e2f893fd2d72b8b98bfb</link>
+            <description>【本期课题】
+AI agent半年回顾。
+【栏目介绍】
+在《产业观察》这档专栏里，我们会为你厘清不同产业的历史沿革，希望能够从中找到一些底层的规律。虽然当下变化迭起，但是所有新风口都有迹可循，不同产业的发展其实也有很多相似之处。
+【免责声明】
+本节目的所有内容并非旨在提供任何形式的建议，包括但不限于投资、税收、会计或者法律上的建议。
+【本期嘉宾】
+刘鹏琦，峰瑞资本执行董事。
+颜黔杭，峰瑞资本副总裁。
+【内容索引】
+01:55 从年初DeepSeek的爆火到如今AI智能体（AI Agent）的涌现，这半年AI领域有哪些超预期的热点事件？
+07:43 在模型领域，大厂的介入将竞争推向“全民军备竞赛”，国内“六小龙”与大厂间的竞争也愈发白热化。在应用侧，部分垂直场景已初步实现产品市场匹配（Product Market Fit，PMF），但通用场景的长期商业化前景仍需观察。
+10:48 AI Agent概念怎么理解？这个赛道有哪些共识和分歧？
+11:23 自2022年底OpenAI推出ChatGPT以来，AI应用已从基于提示词（prompt）的直接对话交互模式，发展到AI 工作流（Workflow），再到今天的AI agent阶段。与前两者不同，AI agent的特点在于能够自主感知环境、做出决策并执行任务。
+14:05 Tool use（工具使用）和强化学习，如何赋能AI Agent？
+17:41 为什么AI编程能率先实现PMF？
+20:40 基于强化学习迭代的Agent，是AI应用迈向“终极智能”的路径吗？
+26:13 目前，Agent的技术路径大致分为两种：第一种是完全端到端、基于强化学习（RL）的agent，以OpenAI的Deep Research、Kimi近期发布的Researcher为代表；第二种是在工程框架下，将Agent按照不同的能力类型拆分，然后分别提升单点能力。
+33:03 听说“The Bitter Lesson”是OpenAI工程师必背的经典，它对AI Agent来说意味着什么？
+39:24 具身智能的垂直小模型与通用大模型之争。
+43:48 未来的AI agent会是什么样？大家的壁垒是什么？商业模式会如何演化？
+50:27 AI Agent赛道有哪些创业和投资机会？
+53:45 从一些C端智能硬件的发展来看，大多是从某一垂直场景切入并逐步成长，很少有人一开始就尝试在C端打造高度通用化的产品。毕竟，C端市场体量庞大，只要在垂直场景中把新品类做好、做深，就有机会把“蛋糕”做大，就像大疆、Insta360等。
+【相关文章】
+文字版内容，可在峰瑞资本公众号查看。
+【本期相关】
+本期提到的AI相关模型和产品：OpenAI的o3-pro、Anthropic的Claude 4系列、Google的Gemini 2.5 Pro、DeepSeek-R1-0528、Qwen3、豆包1.6、OpenAI的Operator与Deep Research、Cursor、Windsurf、Lovable、Replit、Bolt、Manus、Genspark、Grok-3、Fellou、Dify、Coze、LangFlow。
+“AI六小龙”公司：智谱、MiniMax、月之暗面、阶跃星辰、百川智能、零一万物。
+21:16 Reinforcement Learning: An Introduction
+33:03 The Bitter Lesson
+【往期链接】
+Vol.156 产业观察27｜关于DeepSeek的七个核心问题和DeepSeek关键技术拆解
+【制作团队】
+主理人：李翔 、李丰
+制作及统筹：张英海 （13514156656）、峰小瑞（pr@freesvc.com）
+如果你喜欢我们的节目，欢迎你分享到更多的地方，也欢迎你在我们的评论区留言交流。</description>
+            <content:encoded><![CDATA[<h1>转写链接</h1>
+<link>https://tongyi.aliyun.com/efficiency/doc/transcripts/wg57n35434pj9kr3</link><br>
+<h1>节目摘要</h1>
+<div class="summary">在过去一年半里，大模型因其在中美两国引起的高度关注而成为焦点，随后市场兴趣逐渐转向对AI agent及其广泛应用层的关注，包括企业级应用、编程和金融服务等领域。专家指出，尽管AI agent技术迅速发展，但仍面临评估其价值、构建商业模式以及进行长期投资的挑战。未来，AI agent的发展可能需要更复杂的多agent协同和对物理世界的交互，这对技术、商业模式和组织结构提出了新要求。投资界看好垂直领域AI应用和个性化产品，认为这些领域可能孕育新的商业机会和产品创新。同时，也强调了在快速变化的AI领域中持续学习和交流的重要性。总体而言，讨论涵盖了AI agent的最新进展、面临的挑战以及未来展望，反映了当前AI领域内的热点和潜在趋势。</div><br>
+<h1>章节速览</h1>
+<div class="chapters">
+<div class="chapter-item">
+<span class="time"><strong>[00:00:00]</strong> </span>
+<span class="chapter-title"><strong>峰瑞资本产业观察：AI Agent的进展与未来预期</strong></span>
+<div class="chapter-summary">本期产业观察由峰瑞资本的李峰主持，聚焦过去一年半中美政策及市场高度关注的大模型领域，特别是从纯技术转向AI agent应用层的热点趋势。两位科技组同事颜前行和刘鹏奇分享了AI agent市场近半年的关注热点、进展回顾及对未来预期的思考，重点讨论了AI agent在企业级应用、AI编程、金融服务等领域的表现及投资关注点。</div>
+</div>
+<div class="chapter-item">
+<span class="time"><strong>[00:01:54]</strong> </span>
+<span class="chapter-title"><strong>2023上半年AI大模型领域热点事件回顾</strong></span>
+<div class="chapter-summary">过去半年，AI大模型领域经历了快速发展，从DeepSig发布后赛道加速，到基于RL的强化学习推理模型受到广泛关注，以及各大模型厂商间的军备竞赛。海外方面，OpenAI推出Operator等产品，标志着AI agent赛道的正式开启。同时，模型迭代速度超预期，包括OpenAI的O3 Pro、Anthropic的Cloud 4等新模型不断涌现。在中国，厂商如DPCG紧随其后，R一的0528版本及预期的V4模型备受期待。应用层面，编程赛道率先验证了产品市场匹配，如Curse和WinRNF的火热，以及AI agent创业热潮，中国团队活跃其中，MiniMax和Kami等大模型厂商也相继加入。</div>
+</div>
+<div class="chapter-item">
+<span class="time"><strong>[00:06:02]</strong> </span>
+<span class="chapter-title"><strong>上半年AI模型推理性能及应用领域发展回顾</strong></span>
+<div class="chapter-summary">上半年，AI领域最具吸引力的发展在于模型本身的推理性能提升，尤其是从追求scaling law转向post train的scaling law。随着R一和马斯克投资的brock等项目的推进，行业关注点转向如何在其他领域推动模型进一步发展并应用。此外，全球范围内，不论是来自中国还是海外的团队，都在agent技术方面取得了显著进展，打破了原先模型厂商与应用公司界限分明的格局。大厂的介入使得AI模型的竞赛变成了全民的军备竞赛，同时也揭示了模型能力和应用数据壁垒的划分问题。在商业化方面，尽管部分垂直场景已经显示出产品市场匹配（PMF），但通用agent的长期商业化路径和交付结果仍需观察。此外，商业模式的不确定性也意味着未来的发展路径和竞争格局仍存在变数。</div>
+</div>
+<div class="chapter-item">
+<span class="time"><strong>[00:10:44]</strong> </span>
+<span class="chapter-title"><strong>AI Agent的兴起及其与传统AI应用的区别</strong></span>
+<div class="chapter-summary">自从2022年底OpenAI发布ChatGPT后，AI应用赛道开启，经历了三个发展阶段：用户直接与大模型通过聊天对话的初级阶段，接洽外部数据源并完成多步骤任务的workflow形式，以及今年开始的AI Agent阶段。AI Agent区别于前两者，能自主感知环境、决策和执行任务，展现更高级的智能和灵活性，标志着AI应用的新兴形态。</div>
+</div>
+<div class="chapter-item">
+<span class="time"><strong>[00:15:18]</strong> </span>
+<span class="chapter-title"><strong>AI Agent的进化与应用前景</strong></span>
+<div class="chapter-summary">对话深入探讨了AI Agent相较于传统对话模型的核心优势，特别是其感知环境、自主决策和使用工具的能力，以及这些能力如何显著增强AI的实用性。讨论指出，AI Agent在编程领域的应用已得到验证，这得益于其闭环操作能力，从代码生成到验证、编译和结果呈现形成完整闭环。此外，强化学习的引入和使用工具的能力极大地提升了AI的推理和交互能力。然而，AI Agent在涉及物理世界操作和结果反馈方面仍面临挑战，这需要解决从代码到物理世界映射的gap。总体而言，AI Agent的发展展示了其在虚拟环境中的强大潜力，包括形成超越人类的智能。</div>
+</div>
+<div class="chapter-item">
+<span class="time"><strong>[00:20:12]</strong> </span>
+<span class="chapter-title"><strong>强化学习与AI agent的未来融合</strong></span>
+<div class="chapter-summary">强化学习与AI agent的结合被视为未来AI应用走向中继智能的关键路径。强化学习概念最早在计算机领域提出，与AI agent的概念紧密相关，被视为实现智能迭代的核心方法。通过回顾强化学习的历史及其与agent的关系，可以看出，强化学习不仅在计算机科学领域有重要地位，还与认知科学、心理学和神经科学等领域相互促进。强化学习过程类似人类学习过程，包括自监督的模仿学习、监督微调和基于反馈的强化学习。在编程等有明确反馈的领域，强化学习使AI agent的能力快速迭代和演进，展现出巨大潜力。未来，为了让AI agent超越竞争对手甚至人类智能，强化学习的闭环过程将不可或缺。</div>
+</div>
+<div class="chapter-item">
+<span class="time"><strong>[00:24:07]</strong> </span>
+<span class="chapter-title"><strong>强化学习在AI模型和Agent性能提升中的应用</strong></span>
+<div class="chapter-summary">对话讨论了自2016年以来强化学习在推动AI进步中的基础作用，特别是在机器人和游戏AI应用中的早期尝试。随着大型预训练模型的发展，强化学习在提升基础模型性能至一定水平后的巨大价值被重新发现。以运动训练为类比，强调了基础技能的重要性以及在错误基础上强化学习可能导致的性能上限问题。进一步探讨了强化学习在两种不同类型的AI Agent中的应用：一种是完全通过强化学习端到端训练的Agent，由模型厂商主导；另一种则是将Agent能力拆分为多个模块，分别通过不同的技术和模型进行优化。这两种方法在提升Agent的推理、工具调用、记忆等能力方面展现了不同的优势和挑战。总结指出，强化学习在单点能力提升上有效，而实现端到端的强化学习则需要模型后训练和产品理解的深度结合，对团队能力提出了更高要求。</div>
+</div>
+<div class="chapter-item">
+<span class="time"><strong>[00:30:19]</strong> </span>
+<span class="chapter-title"><strong>AI Agent发展：从Workflow到RL驱动的未来探索</strong></span>
+<div class="chapter-summary">对话探讨了AI代理(agent)领域中workflow类型与强化学习(RL)驱动型代理的争议，强调了workflow代理的可视化和可解释性优势，以及RL驱动代理的长期潜力与挑战。提到了the bitter lesson理论，即AI进步应依赖于算力和通用方法而非直接嵌入人类知识，这一理论对OpenAI等机构的技术路线产生了深远影响。讨论中指出，基于学习的代理形态与the bitter lesson的结论相契合，强调了构建适合代理学习的环境、提供先验能力和丰富反馈闭环的重要性，以促进代理自我迭代和能力提升。同时，提到了图形用户界面(GUI)在多模态信息处理和用户反馈收集中的不可替代性，以及垂直领域专业知识在构建初始代理能力中的关键作用。</div>
+</div>
+<div class="chapter-item">
+<span class="time"><strong>[00:37:47]</strong> </span>
+<span class="chapter-title"><strong>AI创业与具身智能的长期路径与短期挑战</strong></span>
+<div class="chapter-summary">从产业角度看，创业者在开发AI代理(agent)时，不应局限于当前技术的边界，而应致力于提供最接近技术极限的产品体验。虽然长期目标可能指向通过IL驱动的模型，但短期重点在于找到技术与产品的交界点，确保产品能够适应技术边界的不断扩展。同时，创业者需预先规划，为未来的产品迭代和用户数据收集做好准备，以防被市场淘汰。对于具身智能，虽然处于早期科研阶段，业界存在是否会出现通用基础模型的争议，但建议行业参与者应着眼于长远，追求通向大规模应用的通用模型，充分利用数据和学习能力，避免局限于垂直场景的小模型训练。</div>
+</div>
+<div class="chapter-item">
+<span class="time"><strong>[00:41:10]</strong> </span>
+<span class="chapter-title"><strong>数据驱动的具身智能与多agent协作的未来</strong></span>
+<div class="chapter-summary">讨论强调了数据驱动方法在具身智能发展中的重要性，认为这是未来发展的必然路径，而非依赖传统的控制算法。虽然有能力通过完全数据驱动的路径实现相对智能的机器人，但对于能否达到通用智能存在不同看法。指出，未来的智能体可能会呈现多样化的形态，并可能以多物种或多agent的协作状态存在，而非单个agent完成所有任务。进一步讨论了当前AI应用在商业模式上的争议和挑战，包括模型的推理能力、管理记忆机制、与真实物理环境的交互能力等技术层面的瓶颈。</div>
+</div>
+<div class="chapter-item">
+<span class="time"><strong>[00:46:03]</strong> </span>
+<span class="chapter-title"><strong>AI Agent的未来壁垒、商业模式与投资方向</strong></span>
+<div class="chapter-summary">对话深入探讨了AI Agent领域未来的关键壁垒，包括网络效应、规模效应和用户反馈的重要性。讨论了当前商业模式的可持续性问题，尤其是订阅服务模式的局限性，以及替代模式如按使用量付费和按结果付费的挑战与可能性。此外，还分析了AI Agent与人类协作和付费机制的复杂性，以及AI如何可能改变生产关系和组织结构。最后，提到了投资人对未来1到2年内AI方向的投资偏好，强调了AI Agent在多劳多得模式下的理想商业价值状态。</div>
+</div>
+<div class="chapter-item">
+<span class="time"><strong>[00:50:43]</strong> </span>
+<span class="chapter-title"><strong>AI Agent在垂直领域和C端个性化需求的机遇与挑战</strong></span>
+<div class="chapter-summary">讨论集中在AI agent在垂直领域和C端个性化需求中的潜力与挑战。一方面，垂直领域的AI agent因其特定行业知识和用户关系的紧密性，被认为是具有巨大发展潜力的。随着模型能力的不断演进，从prompt到workflow再到agent的形态，将逐步实现更高效和智能化的服务。另一方面，C端个性化需求的市场同样巨大，尽管存在通用AI agent的竞争对手，但深挖小众个性化需求的垂直产品也有巨大的市场机会。展望未来，RL驱动的AI agent形态和AI技术在to c和to b各个垂直领域的应用将进一步发展，预计2025年后将迎来AI应用和agent产品的爆发期。在快速变化的时代，持续的交流与学习显得尤为重要。</div>
+</div>
+</div><br>
+<h1>问题回顾</h1>
+<div class="qa-item">
+<div class="question"><strong>Q:</strong> AI agent领域有哪些值得关注的动态？在应用层面，有哪些值得关注的现象？</div>
+<div class="answer"><strong>A:</strong> AI agent领域今年非常热闹，许多中国团队发布了号称全球第一家各类agent产品，例如Minus、Lora等。同时，全球第一大模型厂商也加入了这个领域，如MiniMax和KMI等公司相继发布了自家的agent产品，显示出整个市场处于一个非常火热的状态。应用层面上，AI agent成为了一个热门赛道，许多公司包括海外的大厂如Gami、OpenAI等都在自身产品中加入agent功能。虽然部分垂直场景已验证出较好的PMF（产品市场契合度），但长期来看通用型agent的商业化路径及其能提供的具体交付结果仍待观察。此外，模型厂商和三方创业公司在该领域的边界逐渐模糊，未来谁能长期跑赢尚未可知，商业模式的选择也还在探索阶段。</div>
+</div>
+<div class="qa-item">
+<div class="question"><strong>Q:</strong> 过去半年AI大模型领域有哪些重要的热点事件？</div>
+<div class="answer"><strong>A:</strong> 过去半年AI大模型领域信息爆炸密度非常高，从一月份Deep Sig的发布开始，市场赛道加速提速。在模型侧，Deep Sig R1为代表的推理模型迅速打开市场，各大模型厂商如OpenAI、Anthropic、Google等都在加速进入并展开军备竞赛。而在应用侧，OpenAI在今年一月份之后发布了Operator和两个偏应用层面的产品，正式开启了AI agent赛道，被认为是AIA的元年。</div>
+</div>
+<div class="qa-item">
+<div class="question"><strong>Q:</strong> 上半年AI领域中模型层面有什么令人印象深刻的发展？</div>
+<div class="answer"><strong>A:</strong> 上半年最引人注目的事情是模型本身的推理性能提升，大家开始从追求模型规模的增长转向后训练时期的优化和扩展。Deep Sig不仅复现了OpenAI的推理模式，还带动了整个行业对如何在其他领域进一步提升模型性能的关注。</div>
+</div>
+<div class="qa-item">
+<div class="question"><strong>Q:</strong> 在AI应用方面，早期观点认为与模型厂商保持一定距离的重要性，现在是否还适用？</div>
+<div class="answer"><strong>A:</strong> 现在看来，这一观点面临挑战。像AI agent这类看似与模型紧密相关的产品，在用户体验和市场位置上取得了不错的进展，表明即使在模型边界不确定的情况下，也能成功交付价值。</div>
+</div>
+<div class="qa-item">
+<div class="question"><strong>Q:</strong> AI agent的概念是什么？它与过去的ChatGPT或其他AI应用有何不同？AI agent相较于前两类应用的核心优势是什么？</div>
+<div class="answer"><strong>A:</strong> AI agent是一种能够自主感知环境、自主决策并执行任务来完成特定目标的智能系统。相比前两类应用，agent能够更进一步地与环境交互、感知信息并改变环境，且具备完全自主决策的能力，而不只是依赖预设流程。核心优势在于其能够自主感知环境、自主决策，并通过工具（如to use）去执行任务，这使得agent能够表现出超越传统ChatGPT等模型的能力，例如编程、操作浏览器、沙盒应用等，并且能够通过强化学习不断提升推理能力。</div>
+</div>
+<div class="qa-item">
+<div class="question"><strong>Q:</strong> 目前哪些赛道适合采用AI agent，并且哪些赛道长期发展会面临挑战？</div>
+<div class="answer"><strong>A:</strong> 目前，在开发和编程赛道上，AI agent已经通过像cursor这样的工具得到验证，能够完成闭环的操作，这是重要突破。此外，随着大模型训练技术的演进，尤其是强化学习后训练范式的开启，agent使用工具的能力显著增强，尤其在获取外部信息方面，大大拓宽了其发挥作用的领域。然而，挑战主要在于如何将agent所具备的能力映射到物理世界的一致性及操作任务上，这是一个目前尚未完全解决的问题。</div>
+</div>
+<div class="qa-item">
+<div class="question"><strong>Q:</strong> AI智能范式中，强化学习与AI agent的结合现状如何，以及为什么未来强化学习会被看作是与agent强耦合且是基础方法？强化学习如何影响AI agent的提升，特别是在编程领域是否存在类似效果？</div>
+<div class="answer"><strong>A:</strong> 当前AI agent的发展中，强化学习与agent的结合是一个非常紧密的状态，并且被认为是走向中继智能的重要路径。强化学习的历史始于计算机领域，并在强化学习经典教科书《reinforcement learning an introduction》中有详细讨论。强化学习框架中的agent被定义为能在环境中执行动作、根据反馈调整行为以达到长期目标的实体，这与现代AI领域讨论的agent概念形态相似。强化学习不仅在计算机科学领域有迭代演进的过程，还是一种普世的进化规律，例如个体学习过程和物种基因组合的进化过程。在编程领域，由于其具备明确的奖励和激励信号，强化学习能够快速迭代和演进，推动AI agent能力的提升，这也是编程领域能迅速发展出模型优化（PMF）的原因。而在其他领域，若想让agent具备超越竞争对手甚至人类智能的能力，也需要将其引入强化学习的闭环过程中进行探索和学习。</div>
+</div>
+<div class="qa-item">
+<div class="question"><strong>Q:</strong> 基础模型性能和强化学习的关系是怎样的？</div>
+<div class="answer"><strong>A:</strong> 强化模型的价值贡献在基础模型性能达到一定水平后会显著提升。就如同学习网球时，先要掌握正确的挥拍动作再通过练习优化，AI agent也需要在具备一定技术性能的基础上，通过强化学习来进一步提升性能上限。</div>
+</div>
+<div class="qa-item">
+<div class="question"><strong>Q:</strong> 目前强化学习在提升agent性能上有哪些具体体现？</div>
+<div class="answer"><strong>A:</strong> 目前强化学习在提升agent性能上主要有两种体现形态。一种是以OpenAI和KIMI为代表的完全端到端通过RL强化学习训练的agent，将模型、上下文、工具调用及多步思维链等完整融合；另一种是将agent能力拆分为推理规划、工具调用等不同模块，针对每个模块用不同的模型或技术进行提升，然后通过工程化框架整合起来。</div>
+</div>
+<div class="qa-item">
+<div class="question"><strong>Q:</strong> 在商业化角度上，大家会选择先去做workflow agent还是RL驱动的agent？从《the beta lesson》观点来看，对于agent的发展争议（如workflow agent与IL驱动的agent），有何启示？</div>
+<div class="answer"><strong>A:</strong> 目前大部分人认为短期内商业化会使用workflow agent，因为其可视化和可解释性更好且可控，而RL驱动的agent虽然理论上更优，但目前被认为不可控。所以从商业化角度看，大家更倾向于先投入研发workflow agent。《the beta lesson》的观点认为，不应过度依赖人类先验知识来提升AI性能，而应关注算力提升和数据利用率的提高。在agent的发展中，这可能意味着让agent通过学习迭代提高能力，构建适合其学习的环境至关重要，如提供充分上下文信息和明确奖励函数的环境，并结合充足算力，让agent自行迭代出更好的能力。</div>
+</div>
+<div class="qa-item">
+<div class="question"><strong>Q:</strong> 历史上关于AI进步的关键观点是什么？</div>
+<div class="answer"><strong>A:</strong> 19年的一篇经典论文《the beta lesson》指出，人工智能的长期进步应依赖于算力和通用方法的进步，而非人类知识的直接嵌入。这一观点对OpenAI及后续AI大模型机构的技术路线产生了深远影响。</div>
+</div>
+<div class="qa-item">
+<div class="question"><strong>Q:</strong> OpenAI的研究员是否有坚持朗读《the beta lesson》的习惯？</div>
+<div class="answer"><strong>A:</strong> 是的，OpenAI的研究员在每天开始工作之前会在X点com上发布其研究日程，并有一个必备仪式，即朗读《the beta lesson》这篇文章，之后向优化之神祈祷实验顺利进行。</div>
+</div>
+<div class="qa-item">
+<div class="question"><strong>Q:</strong> 在构建agent的过程中，如何处理先验能力和用户交互环境的问题？</div>
+<div class="answer"><strong>A:</strong> 构建agent时，需要赋予一定的先验能力，包括模型能力和垂直领域的专业知识。同时，要构建一个能提供丰富上下文和反馈闭环的交互环境，例如图形界面交互，以便收集用户的详细反馈，帮助agent和模型自我迭代和提升能力。</div>
+</div>
+<div class="qa-item">
+<div class="question"><strong>Q:</strong> 对于创业去做agent的团队，从产业角度看应该如何定位和发展产品？</div>
+<div class="answer"><strong>A:</strong> 创业团队不应盲目追求立即采用IL驱动的agent，而应在当前技术边界与产品需求之间找到平衡点，提供逼近技术极限的产品体验。同时，每个创业者心中都应有长远视野，关注未来可能的技术突破，并在产品设计中埋下伏笔，确保能在技术发展时迅速抓住机遇。</div>
+</div>
+<div class="qa-item">
+<div class="question"><strong>Q:</strong> 对于鞠生智能目前的科研阶段，您认为行业参与者应该朝着什么方向努力？</div>
+<div class="answer"><strong>A:</strong> 我认为行业参与者应当瞄准更长远且机会更大的通用型能通向screening up的模型角度发展，充分利用各种智能数据提升学习力，并非受限于当前垂直场景的小模型训练或具身智能简化应用。</div>
+</div>
+<div class="qa-item">
+<div class="question"><strong>Q:</strong> 您如何看待具身智能路径的发展趋势？</div>
+<div class="answer"><strong>A:</strong> 我同意在考虑具身智能路径时，需要尽量通过数据驱动的方式来实现。虽然未来有可能迭代出完全数据驱动的路径，实现相对智能的机器人，但对于通用性问题，我认为这是较难攻克的挑战。</div>
+</div>
+<div class="qa-item">
+<div class="question"><strong>Q:</strong> 您是否认为未来AI agent能够像物种演化一样适应多种环境并具有多样性？</div>
+<div class="answer"><strong>A:</strong> 我赞同未来AI agent会有多样化形态，可能会形成多物种协作状态，每个agent拥有不同的能力，组合起来发挥更好的整体效能，就像人类社会中个体间强大的协作能力。</div>
+</div>
+<div class="qa-item">
+<div class="question"><strong>Q:</strong> 当前AI应用在商业模式上存在哪些痛点或瓶颈？</div>
+<div class="answer"><strong>A:</strong> 目前AI应用在商业模式上的痛点包括技术层面的挑战，如上下文理解和记忆机制管理、推理能力的持续演进以及工具使用的交互性。此外，订阅模式的可持续性、按使用量付费的合理性以及结果付费的主观性等问题也是当前商业模式面临的挑战。</div>
+</div>
+<div class="qa-item">
+<div class="question"><strong>Q:</strong> AI改变的不仅是生产力，还会对生产关系产生何种影响？</div>
+<div class="answer"><strong>A:</strong> AI不仅会改变生产力，还会深刻影响生产关系，包括人与agent如何收费、协作以及企业管理等方面，这些都是未来需要探索和磨合的问题，期待最终能够实现基于AI交付结果的合理评估和价值回报的商业模式。</div>
+</div>
+<div class="qa-item">
+<div class="question"><strong>Q:</strong> 在未来的1到2年内，作为早期投资机构，彭奇更偏好什么样的AI方向？</div>
+<div class="answer"><strong>A:</strong> 我们会更加看重一些偏垂直领域的agent机会。虽然通用的agent在长远来看更依赖于模型能力，但在垂直领域中，深入理解和掌握特定行业知识的agent更能满足用户需求。我们看好在垂直方向上去创业的AI agent，初期可能以prompt或workflow形态存在，随着模型能力演进逐渐转变为agent workflow。</div>
+</div>
+<div class="qa-item">
+<div class="question"><strong>Q:</strong> 彦博对于to b垂直场景下的AI agent有何看法？</div>
+<div class="answer"><strong>A:</strong> 我比较认同彭奇的观点，并补充说在to c方向上，不应盲目追求通用化或平台化，C端有很多小众化、个性化的场景需求。例如，OpenAI等厂商推出的AI agent已经开始尝试面向to c的应用，而在个人C端的长链条任务规划、旅行内容生成、AI陪伴以及AI能力结合硬件的产品创新等方面，都是当前大家感兴趣且具有市场价值的方向。</div>
+</div>
+<div class="qa-item">
+<div class="question"><strong>Q:</strong> 对于AI深挖个性化产品价值的机会，如何看待？</div>
+<div class="answer"><strong>A:</strong> 深挖个性化产品价值是一个不错的探索方向，尤其是在完成短程任务和文字生成交互的场景中，已有厂商取得了一定进展。而对于C端用户更深层次的需求，如长链条任务规划和个人化内容生成等，也是未来AI产品的重要发展方向。</div>
+</div>
+<div class="qa-item">
+<div class="question"><strong>Q:</strong> 为什么认为to c不一定非要平台化或通用化，做垂直的to c也有市场价值？</div>
+<div class="answer"><strong>A:</strong> 回顾C端智能硬件的发展历程，许多成功案例都是从垂直场景做起，逐渐发展成大市场。即使在C端领域，针对某一垂直场景做好做深，也能创造出新的大市场或新品类，如同大疆inst 360等消费电子产品的智能化过程。因此，结合AI技术对C端垂直领域的需求进行创新，有望催生新的产品形态和市场机会。</div>
+</div>
+<div class="qa-item">
+<div class="question"><strong>Q:</strong> 对于AI与AI agent领域的发展及未来预期，有何总结？</div>
+<div class="answer"><strong>A:</strong> 我们长期看好基于RL驱动的agent形态，它在交互性能上限和交付价值提升上有巨大潜力。同时，从商业角度看，我们相信从2025年开始，随着模型发展到一定阶段，将迎来AI应用和agent类新产品爆发的机会。在这个快速变化的时代，交流学习至关重要，我们将持续更新观点。</div>
+</div>
+<h1>节目文稿</h1>
+<p class="transcript-line">
+<span class="time"><strong>[00:00:03]</strong> </span>
+<span class="speaker"><strong>发言人1: </strong></span>
+大家好，我是峰瑞资本的李峰，欢迎收听我们这一期的产业观察。因为大模型已经是过去一年半当中，不管是美国还是中国，还是政策，甚至是一级和二级市场都是最关注的最热点的方向。去年年底以来，其实最受关注的大模型已经从开始的大模型自己和大模型企业本身变成了大模型的应用层的东西。就是各种各样跟AI agent有关的这些事情。不管他是在企业级的应用，大模型本身自己公司开发的agent还是创业者开发出来的不同类型的agent它其中从中国美国都有的所谓叫AI coding，就是用AI应用来编程表现成一个不同类型的agent的形态。还是在金融企业的服务，甚至是像火了一下的minus等等。所有这些大概都是在讨论和投资当中大家关注的热点。这也说明大家的关注从纯技术，就从大模型企业开始，到了应用就到了agent。基于最近的这些热点，在这期的产业观察当中，我们请我们两位科技组的同事来跟大家一起聊一聊和回顾一下过去这半年AI agent本身市场在关注的热点。为什么关注，以及他们各自的一些不同角度的思考，供大家仅作参考，谢谢。
+</p>
+<p class="transcript-line">
+<span class="time"><strong>[00:01:27]</strong> </span>
+<span class="speaker"><strong>发言人2: </strong></span>
+大家好，我是峰瑞资本的颜前行，主要投资方向是前沿科技和泛科技领域。本期跟我同事刘鹏奇一起来聊一聊AI agent这半年的进展回顾跟我们对未来的预期。然后先请彭奇跟大家来打一个招呼。
+</p>
+<p class="transcript-line">
+<span class="time"><strong>[00:01:43]</strong> </span>
+<span class="speaker"><strong>发言人3: </strong></span>
+大家好，我是峰瑞资本的刘鹏奇，也是闫博士的同事。目前也是在公司负责泛科技领域的投资。然后近期也重点关注像巨神智能，尤其是AI应用的这些方向。
+</p>
+<p class="transcript-line">
+<span class="time"><strong>[00:01:55]</strong> </span>
+<span class="speaker"><strong>发言人2: </strong></span>
+好，我们先来一起聊一聊过去半年AI跟大模型领域的一些热点事件。因为过去半年其实AI大模型领域的信息爆炸密度是非常的高的。没错，从一月份的这个sik开始到现在的agent爆发，可以先让朋奇来说一说，就过去大家看到的有什么你特别感兴趣的，或者说让你超预期的时间。
+</p>
+<p class="transcript-line">
+<span class="time"><strong>[00:02:16]</strong> </span>
+<span class="speaker"><strong>发言人3: </strong></span>
+对，好，其实整个上半年自从deep sig发布之后，感觉整个赛道都快速提速了。上半年看起来最典型的事件，其实是在模型侧和应用侧都有非常大的变化。一个是模型侧，尤其是推理模型，以这个deep sik r一为代表，就是迅速打开了市场。然后各大模型厂商都在加速进入这个领域并开始军备竞赛。当然dipt QUE的重要贡献就是他把基于RL的强化学习的推理模型开始摆在了公众的视野之下。我觉得开启了一个新的大模型的赛道。
+</p>
+<p class="transcript-line">
+<span class="time"><strong>[00:02:50]</strong> </span>
+<span class="speaker"><strong>发言人3: </strong></span>
+海外的话在应用这一侧非常典型的一个事件就是OpenAI在今年就是一月份之后，就相继发布了Operator和这两个偏应用层面的产品。所以我觉得这个算是正式开启了AI agent这个赛道。今年大家也认为是AIA的元年，我觉得这是非常重要的一个事件的起点。
+</p>
+<p class="transcript-line">
+<span class="time"><strong>[00:03:12]</strong> </span>
+<span class="speaker"><strong>发言人3: </strong></span>
+当然除了这个产品层面以外，我觉得模型的迭代也是非常快的。包括像最近OpenAI已经迭代到了这个O3 pro对吧？包括前一段anthropic发布的这个cloud 4的这个系列模型，包括google发布的2.5 pro也是加入了这个军备竞赛，然后大家轮番打榜。整个的模型迭代的节奏，其实并不是像大家之前预期的可能会放缓，可能看起来也变得更快了。所以我觉得这也是一个开启新范式之后的情况。
+</p>
+<p class="transcript-line">
+<span class="time"><strong>[00:03:40]</strong> </span>
+<span class="speaker"><strong>发言人3: </strong></span>
+然后当然就是有些公司也在经历一些挑战，比如说像meta大家也都能看到它现在开源这一块被deep sick确实冲击的很厉害。然后他最近也打算重整旗鼓，然后再重组整个AI的部门，我觉得这件事儿也非常值得关注。当然他也打算花大概150亿美元去投资这个scale AI其实也是一个非常有意思的事儿。可能大家可以关注一下它对于未来整个AI产业的带来的一些影响。
+</p>
+<p class="transcript-line">
+<span class="time"><strong>[00:04:06]</strong> </span>
+<span class="speaker"><strong>发言人3: </strong></span>
+当然就是除了海外这些大模型公司，我觉得中国厂商肯定追的也很快。DPCG已经证明了我们其实跟海外的差距没有那么大。当然这个R一在五月份又发了一个0528的版本，它编程能力也在大幅提升。这个R一其实它还是基于上一代的V3模型，大家都非常期待它很快是不是会有V4，以及基于V4是不是会有这个我觉得也是很值得期待的事情。当然就是除了deep sic以外，可能很多别的国内的大模型厂商声浪可能不如原来。但其实大家的迭代速度也还是很快的，包括像千问3，包括像豆包的1.6，当然也包括其他的小龙公司，其实也都在持续的演进迭代。所以我觉得这件事情还是在一个快车道上。
+</p>
+<p class="transcript-line">
+<span class="time"><strong>[00:04:49]</strong> </span>
+<span class="speaker"><strong>发言人3: </strong></span>
+当然刚才可能谈的更多的是偏模型层面的，偏应用层面，我觉得回顾一下的话也是非常的热闹。首先就是整个编程赛道，我觉得已经率先去验证了。PMF就是product market fit。就是说你的产品需要跟市场的用户的需求非常好的匹配，包括像curse对吧？这个就是火的出圈的不行。然后这个win NRF被这个open I收购也是一个很大的事件。但是wind surf后来又被cloud断供了，大模型的这个API这个其实也是很有意思一件事儿。当然除了这两家公司以外，其他的像这个lavabo rap late boat这些其实也都在一个快车道上。
+</p>
+<p class="transcript-line">
+<span class="time"><strong>[00:05:28]</strong> </span>
+<span class="speaker"><strong>发言人3: </strong></span>
+当然更值得我们关注的，或者说更引起广泛热议的可能就是AI agent这波的创业的热潮。就是很多团队，尤其是中国团队，我们看到了很多中国团队的身影，发布了非常多号称全球第一家某某某agent的这样的产品。比如说像minus lobert，沾Spark等等等等。整个市场确实是在一个非常热的一个赛道的热潮之下。当然最近两周大模型厂商也加入了这个赛道，比如说mini max和k mi也都相继发布了自己的agent产品。所以是真的是很有意思一件事儿。我觉得大概总结一下可能是这些。
+</p>
+<p class="transcript-line">
+<span class="time"><strong>[00:06:03]</strong> </span>
+<span class="speaker"><strong>发言人2: </strong></span>
+其实从我的角度去回顾的话，其实上半年最有意思的事情还是模型的本身的推理性能。大家开始从过去的追求portraying的一个scaling law，转到了post train的scaling law上来。包括说推理的获得，其实R一最早也是第一个说复现了OpenAI o一的那套推理的模式。然后到后面马斯克投的那个brock，他其实做了一件力大砖飞，结果证明效果不算特别突出。所以反倒是来把大家的热度更多的吸引到了。怎么去在其他领域或者说在其他的方面推动模型进一步的做skin up。
+</p>
+<p class="transcript-line">
+<span class="time"><strong>[00:06:40]</strong> </span>
+<span class="speaker"><strong>发言人2: </strong></span>
+然后应用这一块确实就是像朋友聊的。其实今年上半年大家感受最大的冲击就是全球第一叉叉叉的agent团队可能来自中国，也可能来自海外，包括minus vt dress park或者flows fellow这些。然后这里倒有一个比较有意思的观察现象，就是其实对海外的大厂而言，他们也全部入局了agent的领域。甚至他们并不像我们当时预期的那样，模型厂就做模型厂的事儿，应用的交给应用公司来做。反而是像gami，或者说像OpenAI cloudy自身都在上面做了一些发力。大家甚至有一个比较有意思的论调，说OpenAI的ChatGPT是包着语言模型的一个agent公司。然后说比如说国内的fellow是一个agent broker，但是它背后其实也是一个AI agent。
+</p>
+<p class="transcript-line">
+<span class="time"><strong>[00:07:31]</strong> </span>
+<span class="speaker"><strong>发言人2: </strong></span>
+没错，所以大家就变成了一个万物皆可AI agent，大家都会去做的一个赛道，就非常的热。其实大概简单的介绍完，我们可以总结一下这些事儿。我可以先来讲一下，就是说模型这一侧的话，我觉得大厂介入的军备竞赛，其实把整个模型厂从过去大家认为的是OpenAI这一类的初创公司去带领的新的热潮，变成了一个全民的军备竞赛。包括说gm目前的反超G米的2.5非常好，甚至他提出AIOS的概念。然后国内的话明显可以看到6小龙跟大厂之间的竞争趋于白热化，而且六小龙中间也有部分公司也放弃了模型训练的这些工作。
+</p>
+<p class="transcript-line">
+<span class="time"><strong>[00:08:14]</strong> </span>
+<span class="speaker"><strong>发言人2: </strong></span>
+还有一个就是说应用这一侧，我们可以看得到就是通过manus以及说这类agents的公司，还有curr这些现有的在不同场景内去做的agents公司的推广和验证。其实在一些垂直场景我们可以看到PMF是有落地的。但是大家往更多的场景或者叫通用的agent来看，它的长期的一个商业化，或者是它到底要deliver给用户一个什么样的交付结果。这个事儿我觉得从我们角度看还是有待观察。也看看鹏奇有什么可以补充的。
+</p>
+<p class="transcript-line">
+<span class="time"><strong>[00:08:48]</strong> </span>
+<span class="speaker"><strong>发言人3: </strong></span>
+我觉得就刚才谈到编程赛道确实验证了部分的PMF。但是你说这个战争有没有结束，那肯定远远没有结束。以及包括像answer pipe也发他自己的一个coding的产品。然后很多人也认为这个效果其实是非常好的。
+</p>
+<p class="transcript-line">
+<span class="time"><strong>[00:09:03]</strong> </span>
+<span class="speaker"><strong>发言人3: </strong></span>
+刚才闫博士也讲了，模型厂商也在做自己的应用和agent产品。当然也有很多三方的创业公司也在做对吧？就是大家这个边界其实变得越来越模糊了。但是就是说未来到底谁更有可能长期跑赢这件事情其实还是有待观察的。当然这里面可能要着重关注说到底模型能力和应用的数据壁垒到底是怎么划分的。当然一会儿我们还可以再深入再聊一聊，所以我觉得这件事儿也才刚刚开始。当然其实还很多商业化的问题，比如说到底该是以什么样的商业模式？我觉得这个都还没有定论，所以还是很有意思。回顾上半年，可能每天都有新的事情发生，很多结论都在快速的就也在证伪。所以我们今天的很多观点可能也不一定是正确的，但是我也非常希望能够打脸，我觉得这才是一个我们不断去学习的过程。
+</p>
+<p class="transcript-line">
+<span class="time"><strong>[00:09:51]</strong> </span>
+<span class="speaker"><strong>发言人2: </strong></span>
+再回顾两年前，我们当时内部针对ChatGPT出来之后的一个比较阶段性的观点。当时认为做AI应用的话，一定要离模型厂商保持一定的距离，不然在模型边界不确定的情况下，你随时有可能被淹没掉。结果今天回过头来看，像AI gent这一波，反而是这些可能大家看来离模型上非常近。大家会就会说他们是套壳公司，跟模型没什么太大区别，或者说只在模型上做了很简单的工作。但他们也同样在交付用户体验，或者说在市场位置上，目前获得了一非常不错的进展跟市场声量。这个可能是我们第一个快速被冲击或者遇到的挑战的一个观点。当然我也非常期待说未来很多观点会不停的冲刷我们的思维，然后让我们重新去思考或者观察，更新我们的想法跟观点。
+</p>
+<p class="transcript-line">
+<span class="time"><strong>[00:10:44]</strong> </span>
+<span class="speaker"><strong>发言人2: </strong></span>
+既然刚刚我们也提到了，今年可能AI agent是一个爆发的元年。要不彭奇先给大家简单的介绍一下AI agent的概念。因为现在也有一种说法叫万物皆可agent，大家都会把概念什么都往一整个套。当一个概念火的时候，就像当年ChatGPT火的时候，所有的东西都会加上一个对话框，说自己是chatbot。所以今天agent跟过去的ChatGPT也好，跟过去的一些AI应用，或者说像过去的mid journey这类的纹身图的应用，各种各样的应用有什么样的区别，或者说它为什么特殊，为什么现在这么热？彭奇先帮我们解答一下。
+</p>
+<p class="transcript-line">
+<span class="time"><strong>[00:11:21]</strong> </span>
+<span class="speaker"><strong>发言人3: </strong></span>
+对我觉得可以简单回顾一下，自从2022年底open a发布ChatGPT之后，其实已经开启了所谓AI应用的赛道。因为ChatGPT其实就是一个AI应用。然后从那开始到今天可以大概分成三个阶段。我觉得第一个阶段其实就是简单的我们用户直接跟大模型通过聊天的方式去对话。就是你简单去prompt他他一个问题或者一个需求，然后他给你一个答案。这其实已经是一个最简单的AI应用的形态了。当然我觉得在今天占全网比如80%以上，可能目前还都是以这种非常简单的交互的形式去落地的AI应用，所以这可能是第一个阶段。
+</p>
+<p class="transcript-line">
+<span class="time"><strong>[00:11:59]</strong> </span>
+<span class="speaker"><strong>发言人3: </strong></span>
+第二个阶段其实就是大家也看到说简单的一个聊天。可能并不能够满足复杂需求。所以我们可能在一个需求里面还需要去比如外部接一些数据源。这数据源可能是搜索的数据，也可能是企业或者说用户自己的数据。当然完成一个任务可能也是多个步骤的，也不是说我简单一个步骤的一个问题就能够完成。所以慢慢可能会有一些应用过渡到一种叫workflow的形式。Work floor.
+</p>
+<p class="transcript-line">
+<span class="time"><strong>[00:12:26]</strong> </span>
+<span class="speaker"><strong>发言人3: </strong></span>
+我们指的就是通过人工预先定义好的一些节点的路径，去把大模型的一些能力编排进去。相对于单纯通过prompt的形式去跟大模型交互，多了一些其他的，比如说数据读取或者数据处理的路径。它其实就是把流程中的一些节点可能用大模型或者用一些其他的方式去完成。但是我们整体来看，它其实还是用一种工程化的方式把它拼起来。但是它已经能够完成相对比简单的去跟大模型做问答，能够有更复杂的这些应用了。对我觉得现在可能目前看落地的以及商业化比较好的应用，其实很多时候是以基于第二阶段的这种workflow的形态去落地的比较多。当然也有一些公司去给这些应用厂商提供这种workflow的架构，包括像defi cos或者说早期的lunch这样的公司。这个生意第二阶段，到今年开始，其实刚才前面也谈到了open I发布Operator到这个deep research开始，其实就慢慢开始过渡到第三阶段。但第二阶段看起来虽然今年很热，但也只是一个起点。
+</p>
+<p class="transcript-line">
+<span class="time"><strong>[00:13:35]</strong> </span>
+<span class="speaker"><strong>发言人3: </strong></span>
+这个agent这件事儿怎么来定义呢？就是它区别于前两类个相对广义的定义，就是它能够自主的感知环境，然后自主决策，然后同时能够去执行相应的任务，来完成特定的目标的这么一个智能系统。这里边有几个关键词，就是说首先它要能够跟环境去做交互，能够感知环境。比如说用户给他的这种需求和指令，以及他所处的上下文的信息，甚至包括一些长期和记忆，我觉得这都是一个感知环境的一部分。另外它更重要区别于之前的这个prompt和workflow的一点是它能够更进一步的去改变环境，以及它能够对环境做一些这样的操作和执行。这也就是我们看到这个tl use这个方面，就是一些工具使用的进展。其实对今天agent这件事情能做成提供了一个很大的助力。
+</p>
+<p class="transcript-line">
+<span class="time"><strong>[00:14:24]</strong> </span>
+<span class="speaker"><strong>发言人3: </strong></span>
+当然我觉得更重要一点就是说他需要能够去完全的自主去决策。就是他能够去规划他到底该按照什么样的一些步骤去完成一个任务。而不是像前面谈到的第二阶段workflow，它其实是相对固定的，其实还是靠这个专家就是人来编写一些相对固化的流程。当然这个有它的好处，就是它的是非常可控的。但它的坏处就是它肯定不够的灵活和通用和泛化。
+</p>
+<p class="transcript-line">
+<span class="time"><strong>[00:14:51]</strong> </span>
+<span class="speaker"><strong>发言人3: </strong></span>
+当这个智能体具备一定自主的去决策和规划能力之后，他就能够去表现出来超出我们可能想象的一些能力。当然现在有很早期，我觉得很多时候表现的其实还不够好，但我们至少看到了他这样的一些潜力。所以我觉得这几个点加在一起，就让我们在今年的上半年看到了agent这样的第三种的应用的形态开始逐渐的出现，然后走入大家的视野。我觉得可能是一个过程。
+</p>
+<p class="transcript-line">
+<span class="time"><strong>[00:15:18]</strong> </span>
+<span class="speaker"><strong>发言人2: </strong></span>
+刚彭奇提了非常重要的三个点，就是说他agent是需要感知环境，自主决策，并对通过to use这类的工具去做执行。这个过程可能跟传统的ChatGPT那种相比的话，觉得核心的优势会是哪些？然后另一个就是说展开来讲，去做具体应用的话，目前哪些赛道的具体应用比较适合去做这个事儿，以及说哪些赛道未来长期去做会比较难，挑战会在哪里？
+</p>
+<p class="transcript-line">
+<span class="time"><strong>[00:15:48]</strong> </span>
+<span class="speaker"><strong>发言人3: </strong></span>
+就从目前的情况来看，当时给大家信心就是agent这件事能做成。其实也是在这个开发和编程这个赛道有了一个PMF的验证。包括以cursor为代表的这样的一个工具，证明了说编程这件事情真的可以交给agent来完成一些这种闭环的操作。我觉得这个是很重要的一点。
+</p>
+<p class="transcript-line">
+<span class="time"><strong>[00:16:09]</strong> </span>
+<span class="speaker"><strong>发言人3: </strong></span>
+然后另外一点就是其实前面我们也谈到了，就大模型今年的演进。尤其是开启了通过强化学习来做后训练的这个范式之后，整个的这个推理能力的提升，其实是大大的增强了整个模型，包括AI应用的这样的能力。但是我觉得这个事情肯定还是在不断演进的过程中。但是现在能让它落地和显著优于比如拆GPT本身或者是O4这样的模型身的一个最显著的特点，其实就是使用工具的能力。我觉得这个是今年变化最大的一点。当然这个编程能力本身其实也是一种工具。当然还包括像这个浏览器的操作，包括沙盒的一些应用，computer use这样的应用，当然也包括这个普及率越来越高的这种MCP的这样的一些通用的接口。
+</p>
+<p class="transcript-line">
+<span class="time"><strong>[00:16:55]</strong> </span>
+<span class="speaker"><strong>发言人3: </strong></span>
+大家都说人区别于其他生物最重要能力是什么？其中一个观点也是使用工具的能力。我们如果只会纸上谈兵，其实也干不了什么事儿。但是AI有了使用工具的能力，那它就能够从外部去获取一些信息。
+</p>
+<p class="transcript-line">
+<span class="time"><strong>[00:17:09]</strong> </span>
+<span class="speaker"><strong>发言人3: </strong></span>
+因为我们原来最大诟病，比如大模型的问题就在于它的训练数据。比如截止到哪天，他大概就有哪天的数据。但是这些数据也都是公开数据，也没有任何私有数据。当AI具备了使用工具能够去自主去检索，然后通过工具去完成和外部世界的这样的一些交互之后，它其实能够发挥的能力就远远比原来我觉得高，肯定不止一个数量级了。所以我觉得这个可能确实是它和传统纯对话聊天室的预训练大模型最大的一个差别。
+</p>
+<p class="transcript-line">
+<span class="time"><strong>[00:17:39]</strong> </span>
+<span class="speaker"><strong>发言人2: </strong></span>
+我倒可以针对彭启刚的回答补充一下。就是说可能很多观众不清楚为什么今天一定要上来先做编程，反而是起的最快的量。因为最早其实chat GP刚出来的时候，大家都意识到编程本身就是很多文字加语言数据的结合。且它的输出或者它有大量的训练数据是非常结构化的。所以那时候ChatGPT当年刚出来的时候，其实在写代码上就能展现非常强的能力。但是chat GB当年写代码有一个非常大的问题，就是写出来的代码充斥着幻觉跟虚构代码。甚至是他写出来代码看起来行，但实际上你放到编译器里去run的时候，其实并不work。所以后面大家发现还有一件事情，就是刚彭奇也提到agent其实最重要的一件事情是in to our use。
+</p>
+<p class="transcript-line">
+<span class="time"><strong>[00:18:28]</strong> </span>
+<span class="speaker"><strong>发言人2: </strong></span>
+然后今天的话对于代码或者说对于整个agent体系来说，编程的一个验证跟编译，再到结果输出。其实今天这套编译工具，devo s的工具相对来说过去二三十发展非常完善了。所以反而对编程行业来说像是一个闭环。它从代码生成、代码验证，再到代码的编译实现跟代码的结果呈现，都能形成在虚拟计算机里的一套闭环。所以今天看来它是天然非常适合去做AI而且快速迭代的对。
+</p>
+<p class="transcript-line">
+<span class="time"><strong>[00:19:01]</strong> </span>
+<span class="speaker"><strong>发言人3: </strong></span>
+而且这个闭环其实非常有利于它就再往后做强化学习。当然这个可以一会儿再深入聊，我觉得他能不能闭环这件事情确实很重要。
+</p>
+<p class="transcript-line">
+<span class="time"><strong>[00:19:11]</strong> </span>
+<span class="speaker"><strong>发言人2: </strong></span>
+是然后回过头来，刚刚也提到说什么你特别难做，我觉得现在巨升相对比较难做的地方就在于巨身要涉及到一个物理世界的一致性跟操作任务。这个从代码到物理世界的映射这个过程中的gap，就会导致今天大家怎么去做壁画，以及说怎么把真实的结果反馈到物理世界去。这反而是一个比较chAllenge的事情，而不是说模型内测能发展强大之后就能立刻能解决好的。所以相对来说挑战会大一些。
+</p>
+<p class="transcript-line">
+<span class="time"><strong>[00:19:42]</strong> </span>
+<span class="speaker"><strong>发言人3: </strong></span>
+没错。
+</p>
+<p class="transcript-line">
+<span class="time"><strong>[00:19:42]</strong> </span>
+<span class="speaker"><strong>发言人2: </strong></span>
+对，刚刚我们也提到就是说闭环这个概念挺有意思的。一非常像在一个环境内，如果它具备所有的能力，智能思考。又能去执行，又能去验证它，还能反思的话，那它就回到了最早我们强化学习的那个框架里，就a alpha zero的那个框架里。在虚拟环境里它既能决策怎么下棋，又能评估自己下棋的好不好，还能通过对弈去大量的训练。它大一概率有可能会形成一定超越人类的智能。
+</p>
+<p class="transcript-line">
+<span class="time"><strong>[00:20:12]</strong> </span>
+<span class="speaker"><strong>发言人2: </strong></span>
+回过头来就是AI智能在这个范式上跟强化学习有比较接近的一个思路。我不知道对于现在的AI agent来说，强化学习跟a agent的结合是一个什么样的现状。以及说为什么未来过渡下去的话，强化学习会在大家的预期中会跟agent是一个非常强耦合，且是一个基础方法的状态。这个可以让朋友给大家介绍一下。
+</p>
+<p class="transcript-line">
+<span class="time"><strong>[00:20:39]</strong> </span>
+<span class="speaker"><strong>发言人3: </strong></span>
+我们刚才谈到了，反正这波落地最开始还是因为这个拖use能力的提升。但是再进一步的提升其实就要靠强化学习了。然后我的观点就是说基于强化学习去迭代的这个agent，可能才是未来AI应用走向所谓中继智能的一个路径。
+</p>
+<p class="transcript-line">
+<span class="time"><strong>[00:20:56]</strong> </span>
+<span class="speaker"><strong>发言人3: </strong></span>
+为什么这么说呢？首先我们可以再简单回顾一下强化学习的历史，以及它跟agent的关系。其实agent这个概念最早在计算机领域提出，包括被这个广泛认知，其实就是在强化学习里面被提出的。如果熟悉这个背景的同学可能都了解，强化学习领域有一本非常经典的教科书，叫reinforcement learning an introduction。然后这本书的两个作者获得了24年的领奖，我觉得这也某种程度说明了他们的贡献。在这本书里面，其实这个作者就详细讨论了agent这个概念。
+</p>
+<p class="transcript-line">
+<span class="time"><strong>[00:21:29]</strong> </span>
+<span class="speaker"><strong>发言人3: </strong></span>
+作为强化学习框架的一个核心的组成部分的角色。在强化学习里面的agent的其实就是被定义为在环境中能够执行动作。并根据环境的反馈，当然可能是奖励，可能是惩罚，然后来调整他的行为，从而达到一个长期目标这样的一个实体。通过这个概念其实就可以看出来，它其实和今天我们在AI领域讨论AI agent的这个概念的形态其实是很类似的。当然强化学习这个概念虽然是个计算机的名词，但是它被提出来之后，其实就一直在和包括认知科学、心理学，包括神经科学他们的发展互相在促进。所以我觉得强化学习不仅仅代表了是在计算机科学领域自己迭代和演进的这么一个路径，它其实更是一种普世的进化规律。
+</p>
+<p class="transcript-line">
+<span class="time"><strong>[00:22:20]</strong> </span>
+<span class="speaker"><strong>发言人3: </strong></span>
+比如拿我们每个个体来举例子，你在小时候上学的时候看书听讲的这个过程，其实就相当于是自监督的模仿学习。其实跟今天大模型的这个预训练的过程很像，老师有时候也会去帮我们讲解一些例题。这个我觉得其实就可以对应到是后训练当中的这个SFT，就是监督微调这个过程。如果我们真正想掌握一个知识点，其实我们还是要通过写作业，还包括测试来得到真实反馈。这个过程其实就是我们这个人的一个强化学习的过程。
+</p>
+<p class="transcript-line">
+<span class="time"><strong>[00:22:50]</strong> </span>
+<span class="speaker"><strong>发言人3: </strong></span>
+当然这个过程我觉得在进化领域里面也同样适用。比如说我们可以想象每个物种的基因的组合，其实也是不同环境当中的一个agent。它同样要通过这种适者生存的这样的一个进化过程来去让自己变得越来越强。所以我们今天讨论AI agent的话，他如果想变得更强，那我觉得就是需要走入一个强化学习的这样的迭代的路境当中。
+</p>
+<p class="transcript-line">
+<span class="time"><strong>[00:23:14]</strong> </span>
+<span class="speaker"><strong>发言人3: </strong></span>
+所以刚才闫博也提到了，其实在有些领域，比如像编程领域，已经有一个数据反馈的闭环环境。比如说你写段代码，它正确与否其实是很好验证的一件事情。它有非常明确的一些奖励和激励的这样的信号。在这样的一个环境当中，它这个agent的能力，尤其在代码这个能力上，就非常容易去快速的迭代和演进。这也是我们为什么看到，比如在编程这个方向上这么快走，就是发展出PMF的一个原因。
+</p>
+<p class="transcript-line">
+<span class="time"><strong>[00:23:43]</strong> </span>
+<span class="speaker"><strong>发言人3: </strong></span>
+但是在其他领域是不是也同样有这样的现象，这个大家也可以自己思考一下结论。其实就是说我们如果未来想让这个agent具有比如说超越你的竞争对手，甚至超越人类智能的能力。那就一定需要让他自己去走入一个强化学习的这种闭环的过程，去探索一个学习方法，而不是靠我们人去教他到底该怎么做的强化学习。
+</p>
+<p class="transcript-line">
+<span class="time"><strong>[00:24:07]</strong> </span>
+<span class="speaker"><strong>发言人2: </strong></span>
+其实作为当时16年到现在一直是推进AI往前走的一个基础学习方法。可能中间在大元模型预训练的时候，被预训练的自监督这套方法暂时的压低了一些声量。大家那时候可能尝试了蛮多去做强化学习去探索。包括说其实强化学习用在机器人或者用在游戏上。其实在1617年AI出来之后，已经有大量的应用。当时OpenAI最早出来的时候就是用强化学习去做机器人跟游戏AI应用是，但后来他转到了AGI这类生成式的模型上来。但回过头来就会发现说，当大源模型发展到了一定阶段，基础模型的性能足够强之后。今年我们在年初的时候R一里面也提到了，结果大家发现了强化学习在基础性能达到一定level之后，反而对模型的本身性能突破带来了一个巨大的提升。
+</p>
+<p class="transcript-line">
+<span class="time"><strong>[00:25:00]</strong> </span>
+<span class="speaker"><strong>发言人2: </strong></span>
+有一个结论就非常有意思，强化模型需要基础模型到达一定的能力表现之后，才能贡献出非常强价值观。这个怎么去对应到生活里来呢？以运动为例子，就是说大家打网球的时候，当你自己在那边反复的练习的时候，你必须要先有老师教会你，你学会网球基础的挥拍动作，你再通过练习去持续的优化迭代这个挥拍动作，你才能玩好。而不是说今天老师也没教你，或者说你可能学的动作不标准的情况下，你去大量的强化学习。就有可能把自己动作固化在一个错误的动作上，反而会影响它的性能，上限就很低了。所以模型的上限其实既有基础模型能力决定，又有强化学习的这个能力决定。
+</p>
+<p class="transcript-line">
+<span class="time"><strong>[00:25:42]</strong> </span>
+<span class="speaker"><strong>发言人2: </strong></span>
+但回过头来去看，agent里面，模型只是它的一个大脑，它又加上了一个感知，加上了工具。这个过程中我不知道强化学习去提升agent的性能的话，是否也有类似的一个规律，说需要agent本身具备非常好的一个技术性能，然后再由去提升象限。第一个问题是这个。第二个就是衍生下来，我觉得我们也可以瞎预判一下，或者猜一下什么时候会到了一个IL对agent带来巨幅提升的这么一个scanning阶段。
+</p>
+<p class="transcript-line">
+<span class="time"><strong>[00:26:12]</strong> </span>
+<span class="speaker"><strong>发言人3: </strong></span>
+这里面其实我们也可以先讲一讲我们观察到的一些现在的情况。我觉得现在虽然有很多厂商发布了自己的agent对吧？但是如果我们去细看大家的技术文档的话，我们会发现其实大家走的路径还是不太一样的。当然这个路径其实有很多了，比如说有三种、四种、五种、6种不同的形态。那我们就简单把它，我觉得可以理解为两种形态。
+</p>
+<p class="transcript-line">
+<span class="time"><strong>[00:26:36]</strong> </span>
+<span class="speaker"><strong>发言人3: </strong></span>
+一种形态是它的典型代表是open I的deep research，以及包括kimi最近它新发的这个researcher。就这两个agent他们是一个完全端到端通过RL强化学习训练的一个agent。怎么讲端到端呢？它就是训练的是一个模型。然后这一个模型包括它的memory、它的上下文、它的工具调用，包括这个多步思维链的这个过程，完整的是在一个端到端的流程下去完成的。它完全是在这么一个端到端的过程中去实现的那目前这样的能力的agent看起来只有模型厂商能做到，因为它本质上就是一个模型能力的体现。所以我们才看到可能只有OpenAI，包括像kimi这样的模型厂商才发布了类似的产品，我觉得这是一类。
+</p>
+<p class="transcript-line">
+<span class="time"><strong>[00:27:25]</strong> </span>
+<span class="speaker"><strong>发言人3: </strong></span>
+另外一类，它其实是把这个A正的能力做了拆分。就像我们刚才讲到的，比如说agent有推理规划能力，有调用工具的能力，有memory的需求等等。所以他把这几个不同的模块拆出来。比如说推理能力，用某一个模型或者agent来完成。然后这个memory一些外部的，比如说rag，或者说其他的一些工具的这种方式去集成。然后to use工具调用。可能会比如说search，它就接search的一些工具写代码，再接一个写代码的工具。所以它相当于是一个有一定工程框架下去去把这个agent能力做了拆分。
+</p>
+<p class="transcript-line">
+<span class="time"><strong>[00:28:02]</strong> </span>
+<span class="speaker"><strong>发言人3: </strong></span>
+然后在每个单点上，比如说推理规划能力上，可能依靠模型自己的L能力提升。比如说deep sick的R1，它可能deep sick自己并没有一个agent的应用，但是它R一可能是一个比较好的推理模型，所以他们就拿R一去做推理这一部分。比如说编程这一部分的能力，那我可能就暂时先不用R一就用cloud的能力去做编程的，所以它相当于是在外面自己架了一个工程化的agent框架，然后在里面单点的去提升不同模块的能力。
+</p>
+<p class="transcript-line">
+<span class="time"><strong>[00:28:32]</strong> </span>
+<span class="speaker"><strong>发言人3: </strong></span>
+所以强化学习的在这里面的体现就可以分成两类了。一类是像这个OpenAI，包括像kimi，它就是完全融入了一个端到端的过程去训练这个agent。但是我觉得这件事儿非常的前沿。它的好处可能就是它整体的上下文全部都在一个线性的链条里面。所以它能够去完整的把握用户的这个需求。但挑战可能就在于，比如说上下文如果爆炸了怎么办，以及说它是不是能够完成非常较复杂的任务。
+</p>
+<p class="transcript-line">
+<span class="time"><strong>[00:29:00]</strong> </span>
+<span class="speaker"><strong>发言人3: </strong></span>
+对于另外一类的regent的框架强化学习更多是发挥在对于单点能力的提升上。刚才我们讲到比如说它仅针对coding能力的提升，仅针对to use能力的提升，仅针对比如推理规划能力的提升，包括多模态能力的提升。然后再通过一些外部的这种软件和工程把它们连在一起。比如像minus大概就是这样的一种框架的形态。它并没有全局的去用RL去优化整个agency能力，它可能只是依靠着单点上，比如大模型自己本身的能力的提升，去提升它整体的效果。所以我觉得这是目前看到的两种强化学习对于agent能力提升的一个体现。
+</p>
+<p class="transcript-line">
+<span class="time"><strong>[00:29:40]</strong> </span>
+<span class="speaker"><strong>发言人2: </strong></span>
+其实可以总结一下，就是说目前。强化学习本身在单点能力上提升肯定是有效果的。因为不管你的能力值大或小，或者解决问题的大或小，你反复练习肯定是会有一定提升。如果想要实现端到端这种IL的话，我觉得这个情况下就非常像是模型的一个后训练了。就既需要懂模型后训练，又需要懂产品的人。这时候对做AI产品或者说对做AI agent的这么一个团队能力要求就会提升的非常多。所以目前看来，确实只有一些模型厂跟本身像kimi这样产品加模型能力都非常强的公司，才有能力去做这个事儿。
+</p>
+<p class="transcript-line">
+<span class="time"><strong>[00:30:20]</strong> </span>
+<span class="speaker"><strong>发言人2: </strong></span>
+今天其实agent里面有一个蛮争议的事情，就是workflow类型的agent。对比RL驱动的这种agent，现在大家更多强调的点就是workflow的可视化，或者说它是一个白盒，可解释性会更好而且可控。但IL虽然理论上上线更好，但目前大家都觉得不可控。所以有蛮多的人投入到了workflow agent里面，甚至认为目前其实短期的商业化会用workflow agent，且RL是一个长期且困难的事儿，也不一定有效，对吧？那从商业化角度来说，大家会选择先去做workflow agent。
+</p>
+<p class="transcript-line">
+<span class="time"><strong>[00:30:57]</strong> </span>
+<span class="speaker"><strong>发言人2: </strong></span>
+这里其实就有一个非常有意思的历史上的观察。就是19年其实有一篇文章也被大家奉为AI里面的一篇经典文章，叫the beta lesson，the betta lesson. 这篇文章是强化学习领域的奠基人rich sutton在2019年发表的一篇经典论文。他的核心观点就是说人工智能的长期进步应当依赖于算力和通用方法的进步，而不是人类知识的直接嵌入。这一观点就对OpenAI和后续的一些AI大模型机构的技术路线产生了非常深远的影响，也被大家视为大模型时代的理论基石。
+</p>
+<p class="transcript-line">
+<span class="time"><strong>[00:31:35]</strong> </span>
+<span class="speaker"><strong>发言人2: </strong></span>
+这里就有一个非常有意思的小故事，OpenAI的研究员在X点com上发布了他做研究的每一天行程。他每天早上9点45开启工作之前就有一个必备的仪式感。其中最重要的事情就是要去朗读the beat lesson这篇文章，最后再向优化之神祈祷今天的实验能够顺利进行。
+</p>
+<p class="transcript-line">
+<span class="time"><strong>[00:31:57]</strong> </span>
+<span class="speaker"><strong>发言人3: </strong></span>
+对。
+</p>
+<p class="transcript-line">
+<span class="time"><strong>[00:31:57]</strong> </span>
+<span class="speaker"><strong>发言人2: </strong></span>
+这个非常有名。The bitter lesson当时提出来就是说对于过去几十年的AI训练，大家都会发现，当在AI模型里加入了过多的人类先验知识的时候，或者说当你去你不依靠算力跟数据的提升去提升性能，而是依靠各种特征工程，各种人类先验知识去提升的时候，它的效果反而是不好的。最终自己能胜出的肯定是基于对未来算力提升，基于对数据利用率的提升带来的一个性能提升的路线，才会走到最后。所以今天the bit lesson回过头来已经知道了，大家看到了大源模型的诞生。
+</p>
+<p class="transcript-line">
+<span class="time"><strong>[00:32:34]</strong> </span>
+<span class="speaker"><strong>发言人2: </strong></span>
+回顾大元模型最早期的一个情况。最早transformer出来，到attention机制，到transformer的那篇文章发布，再到后来大家利用transformer去做一些NLP的工作。其实当时在路线架构上也有非常多的争议。各种架构里其实现在只有OpenAI坚持了decode only的架构，并趋向于大一统。其实他当时也是意识到这个在泛化性能，或者说它对算力跟对数据的skin up利用率是最高的。我不知道在蓬曦的角度来看，the bitter lesson提到的这些观点在agent里是不是有所体现。或者说对于刚刚我们提到的agent workflow跟IL驱动或者learning base驱动的agent发展这么个争议，你觉得会有什么样的一个启示吗？
+</p>
+<p class="transcript-line">
+<span class="time"><strong>[00:33:19]</strong> </span>
+<span class="speaker"><strong>发言人3: </strong></span>
+对我觉得其实就像我们刚才聊到的，我觉得learning based包括L驱动的这样的A阵的形态，其实挺完美的契合了刚才闫波谈到的bitter lesson里面的这个结论。就是211本质上就是你也不需要教模型太多东西，或者只给它一个鲜艳能力就可以了，但是它未来到底怎么迭代，怎么提高，是要靠他自己的。所以我觉得这是符合the biter lesson的这个结论的。但是怎么能够去让他真正通过自己学习去提高呢？这里面可能更重要的就是说我们怎么给它构建一个适合他学习的环境。如果这个环境需要有相对充分的上下文的信息，以及有相对定义明确的奖励函数。如果能够提供这样的环境，其实我们相信再加上足够多的算力，我觉得算力现在也不成问题。应该是有能力让这个agent自己迭代出来更好的能力的，而不是依靠比如说我们专家或者说去写这个workflow。
+</p>
+<p class="transcript-line">
+<span class="time"><strong>[00:34:17]</strong> </span>
+<span class="speaker"><strong>发言人3: </strong></span>
+当然这是个长期的愿景，如果你想走到这一步，我觉得需要关注两个点，就是一个点刚才也谈到了，他还是需要一定的先验的能力的。如果他完全是个小白，你让他自己迭代，这个探索路径就太复杂了，就是很难找到一个最优解。这个先验能力其实就一方面可能是模型能力，但是另外一方面，尤其是我们如果看一些垂直领域的一帧头的话，那它一定是在这个垂直领域积累的一些先验的know how和这个经验。
+</p>
+<p class="transcript-line">
+<span class="time"><strong>[00:34:47]</strong> </span>
+<span class="speaker"><strong>发言人3: </strong></span>
+我觉得这个事情在这个时代依然是不可或缺的。我们不可能说大模型本身就能够学万物，尤其是针对一些垂直领域的话，还是需要给他一些先验能力的。所以垂直领域的know how这件事情仍然是十分重要，这作为一个先验知识。
+</p>
+<p class="transcript-line">
+<span class="time"><strong>[00:35:02]</strong> </span>
+<span class="speaker"><strong>发言人3: </strong></span>
+另外一点就是我们要给他构建一个相对好的环境。环境也是今天一个很重要的争议点。可能有些共识有些非共识。就是目前市面上看到的通用agent其实都在追求纯粹通过一个比如说这个language UI就是通过对话聊天框的形式去用户提需求，然后他直接返回结果的方式去交付结果。但我们都知道这个语言只是一种信息的压缩形式。它其实在很多情况下并不能够很清楚的描述需求也好，或者交付结果也好。尤其是对于我们人来说，我觉得比如多模态的信息，视觉信息这些也非常重要。所以我觉得GUI的这种环境不是那么容易就被取代的。
+</p>
+<p class="transcript-line">
+<span class="time"><strong>[00:35:45]</strong> </span>
+<span class="speaker"><strong>发言人3: </strong></span>
+也就是说图形界面的这种交互其实还是很重要的。比如说对于一些做设计绘图，还是需要对图片某些地方做一些圈选，或者说做一些修改的时候，不可能仅仅通过语言来描述就能完成，还是需要有很多这样的交互的工具。另外就是通过这些更复杂的让用户参与到整个流程中交互，也可以去收集到更多用户对于模型本身，不包括agent的本身反馈的结果的一些评价。这些评价其实是一个很重要的反馈信号，这些反馈信号就能够再进一步去帮助agent去迭代它的能力。如果你只是说给一个需求返回一个结果，那结果好和不好甚至你都不知道。这个反馈信号对于agent和模型来说就太过于稀疏了。仅通过这些特别稀疏的信号，这个环境是不足以让模型和agent自己去迭代和提升能力的那这个the bitter lesson里边的这个结论其实也用不上。
+</p>
+<p class="transcript-line">
+<span class="time"><strong>[00:36:45]</strong> </span>
+<span class="speaker"><strong>发言人3: </strong></span>
+所以第二点很重要，就是我们在做产品的时候，其实也要去非常关注说我们是不是在模型和用户之间构建了一个有足够丰富上下文和反馈闭环的环境。这个环境当然可以是个浏览器。所以我们看到为什么很多人在做浏览器？然后可以是一个IDE？所以我们看到很多编程cursor成功，其实也是他没有直接扔掉IDE，还是用IDE来跟用户交互，这样采集到非常多用户的反馈信号。但这只是两个例子。在其他场景大家也可以去想一想，如何构建这么一个跟用户去交互的环境。
+</p>
+<p class="transcript-line">
+<span class="time"><strong>[00:37:20]</strong> </span>
+<span class="speaker"><strong>发言人3: </strong></span>
+所以总结一下的话，就是一个基于行业和这个垂直领域know how的专业能力，让这个产品先能做起来，有一个PMF。然后我们还需要给用户提供一个人机交互的，比如充分反馈和上下文的的环境。然后让这个agent他自己可以在这个环境下通过跟用户的交互去自我迭代。我觉得只要这两个条件如果能满足的话，是非常有可能agent和模型自己能够去迭代出来更强的能力的。
+</p>
+<p class="transcript-line">
+<span class="time"><strong>[00:37:48]</strong> </span>
+<span class="speaker"><strong>发言人2: </strong></span>
+从产业的角度来看，如果你想创业去做agent的话，也不是用bitter lesson去逼着大家都一步的追求IL驱动的。Agent作为一个最终的产品形态去交付。其实中间过渡过程中，怎么找到当前模型或者说当前技术供应的边界跟产品之间的一个交界地。然后给用户提供目前最逼近于技术极限的产品，体验最好的产品。这反而是各种AI创业的产品经理们应该去花心思去折腾的问题。
+</p>
+<p class="transcript-line">
+<span class="time"><strong>[00:38:20]</strong> </span>
+<span class="speaker"><strong>发言人2: </strong></span>
+从the bitter lesson的角度来说，更适用于researcher或者说追求极致这个事儿是给AI科研的人用的。回过头来，产品的the bitter lesson就是你不能忘记技术的边界会扩张。而是简单的局限在了当前的工程化的一些，也可以用雕花来形容，也可以用工程化的一些tricks来形容。局限在这里面，就像彭奇说的，后面如果你不去把用户数据收集为未来的事情做准备的话，你很有可能在未来新的一代产品出来之后，就会被更新或者是淘汰掉。这个我觉得可能更像是AI应用的bitter lesson。
+</p>
+<p class="transcript-line">
+<span class="time"><strong>[00:38:55]</strong> </span>
+<span class="speaker"><strong>发言人3: </strong></span>
+对我特别同意。虽然刚才我们讲的是一些长期的路径，对吧？但是从短期来看确实很难，比如一步现在就直接走向通过二一一去学习和迭代。但是我觉得每个创业者心里肯定都需要有这么一个弦儿。就是说你在搭建环境或者说怎么去跟用户交互的过程中，需要去埋下这些伏笔。未来你是不是有机会去进一步迭代，但在第一步可能确实先做成一个PMF，可能是更重要的一点。
+</p>
+<p class="transcript-line">
+<span class="time"><strong>[00:39:24]</strong> </span>
+<span class="speaker"><strong>发言人2: </strong></span>
+其实聚生智能我们也看的比较多。然后其实从我们的理解上来，具身智能跟a agent是同构的一类产品。具身智能算是。A agent的一个子集，从我们的角度更多更像是这么一个情况。今天去身智能力有没有什么的？
+</p>
+<p class="transcript-line">
+<span class="time"><strong>[00:39:39]</strong> </span>
+<span class="speaker"><strong>发言人2: </strong></span>
+Bata lesson, 因为我跟鹏系列都看的比较多，可以先说说我的想法，就是鞠生智能如果跟AI agent相比就非常早期，今天大家连狙生智能里基础模型的scaling law都没有找到。那目前也会有一些不同的声音，就认为具身智能可能不会出现foundation model这样的一个通用模型。可能大家也会强调说据身智能最后就像过去大家要基于任务去编程一样，变成各种各样的垂直小模型。也有比较相信的人，目前去坚持去往长期去探索，去寻求具身智能内的一个通用的鞠生智能基础大模型。所以这两条路目前会有争议。
+</p>
+<p class="transcript-line">
+<span class="time"><strong>[00:40:17]</strong> </span>
+<span class="speaker"><strong>发言人2: </strong></span>
+既然鞠生智能短期内还是一个相对非常早期的科研阶段，从我个人的观点，我觉得这个可能大家有不同想法。我还是希望整个行业或者所有的参与者们，大家都冲着，或者目标是放着更长远且机会更大的通用的能通向screening up的模型角度去考虑。去尽可能多利用好自身智能的各种各样的数据，或者说把数据的学习力提升。还有因为算力对矩阵智能来说不是一个问题，反而是数据是一个问题。假设数据足够慢慢的变得充分的情况下，大家我觉得做的事情就应该是像当年走一遍大元模型走过的那条路一样。而不是说现在因为觉得这事儿特别难，就停留在了一些垂直场景的小模型的训练，或者说垂直场景的一些具身智能简化的应用上。对，这是我的想法，也看看彭奇说对这块有没有什么样一个观察跟想法。
+</p>
+<p class="transcript-line">
+<span class="time"><strong>[00:41:11]</strong> </span>
+<span class="speaker"><strong>发言人3: </strong></span>
+这块儿我觉得我同意一部分，就是说我觉得我同意大家在思考具身智能路径的时候，肯定会需要去瞄着能够尽量通过数据驱动的方式去做这件事情。我觉得这是一个可能未来的必然的路径，而不是通过雕花的方式。因为这个可能是更多偏上一代，比如说这种控制算法就是大家做的事情，就是我觉得现在确实是有能力去迭代出完全数据驱动的路径，然后实现相对智能的这种机器人。
+</p>
+<p class="transcript-line">
+<span class="time"><strong>[00:41:40]</strong> </span>
+<span class="speaker"><strong>发言人3: </strong></span>
+但是是不是能够通用的这件事儿，我可能有一些不同的观点。我觉得通用这件事儿还是比较难的。其实就像我刚才讲的，就是他所有的agent也好，所有基于RLL训练的这些智能体也好，它本质上能达到什么样的能力和上限，完全取决于你这个RL的环境是个什么样子的那前面我们也谈到了LL它是一个世界的普世规律。
+</p>
+<p class="transcript-line">
+<span class="time"><strong>[00:42:01]</strong> </span>
+<span class="speaker"><strong>发言人3: </strong></span>
+比如说我们的物种，它其实也符合LL的这个规律。虽然我们所有的生物都生活在地球这一个环境下，我们可能都是一个起点，对吧？但是我们仍然分化出来了不同的物种，然后这些物种大家都适应自己的那部分环境。但是这个环境既包括这个自然环境，也包括你跟别的物种的这个边界和关系。其实这也是这个环境的一部分。所以我觉得未来大家都是在这么一个环境中自我迭代的。所以它通过数据驱动，这是没问题。
+</p>
+<p class="transcript-line">
+<span class="time"><strong>[00:42:33]</strong> </span>
+<span class="speaker"><strong>发言人3: </strong></span>
+但是它未来的形态可能确实会有非常多样化的形态。当然这里面其实就更引申了一个话题。就是说未来这些不同的形态的机身也好，或者说agent也好，它从长期更远的角度来讲，可能是一种多物种的这种协作状态。其实也是现在有的公司，包括有的人也在谈的这种多agent协同的状态。而不是说一个agent就能够完成所有任务。这个可能是一个更前沿大家在探索的方向。就是可能每个agents有它不同的能力，但大家组合在一起其实是能够发挥出更好的能力的。
+</p>
+<p class="transcript-line">
+<span class="time"><strong>[00:43:12]</strong> </span>
+<span class="speaker"><strong>发言人3: </strong></span>
+拿人类社会举例子也是，你说我们每个个体的人，其实他能力有多强。把一个人扔到自然环境中，可能他根本活不了两天。但人之所以能够统治其他的物种，其实就是因为我们有非常强的这种协作的能力。然后我们可以组织起来更大规模的协作。这些协作就让我们无论是从小到一个家庭，大到一个国家，包括中间的可能是不同的公司，就是包公司内部的组织。这种协作的形式可能是未来的一种终极形态，但是这可能有点远。我觉得这个可能是一个很有意思，可以去想象的未来。
+</p>
+<p class="transcript-line">
+<span class="time"><strong>[00:43:45]</strong> </span>
+<span class="speaker"><strong>发言人2: </strong></span>
+刚刚彭奇也把我想问的问题提到了一点，未来的话这个agent到底应该长啥样？今天大家谈到通用与垂直的争议，以及说未来到底通用到什么程度，这个问题有待讨论。今天其实大家说的大语言模型，它是一个通用模型。但是它也没有通用到我们预期的那样，什么场景或者说什么具体的任务都能做的非常好。所以这也衍生出来非常多的在模型之上往上搭建的应用。回到我对它商业模式或者说商业预期的观察。刚刚彭奇也提到，今天AI应用的商业模式上还是有争议或者说有待判断的。从商业跟落地的角度来看，目前AI应用在商业模式上有什么痛点或者比较瓶颈的地方吗？
+</p>
+<p class="transcript-line">
+<span class="time"><strong>[00:44:33]</strong> </span>
+<span class="speaker"><strong>发言人3: </strong></span>
+在这个问题上，其实我相信大家通过自己用产品就应该也有一些认知了。在比如说使用工具的能力上，包括模型的这个推理能力上，其实已经有了非常长足的进步。所以我们才能今天在25年上半年看到这么多agent落地。但其实大家对他们真实的效果还是褒贬不一的。这里面肯定还是有很多技术层面的挑战，包括是不是有足够长的上下文，以及怎么去管理你的这个记忆的机制，我觉得这个还是有很大挑战的。
+</p>
+<p class="transcript-line">
+<span class="time"><strong>[00:45:02]</strong> </span>
+<span class="speaker"><strong>发言人3: </strong></span>
+然后另外推理能力目前是不是还能持续演进？因为现在推理能力看起来都还是在用一些相对客观的数据去做的训练。比如说一些数学问题，一些编程的问题。但我们生活在社会当中，其实很多问题不是那么客观的，有很多问题都是需要主观判断的事情，以及它的结果是非常随机的。所以在这种情况下，怎么能够进一步迭代推理能力，其实是一个仍然具有挑战的话题。当然这个我觉得可能需要更多的依赖模型厂商去努力。
+</p>
+<p class="transcript-line">
+<span class="time"><strong>[00:45:33]</strong> </span>
+<span class="speaker"><strong>发言人3: </strong></span>
+然后另外一点就是使用工具上。虽然现在已经包括在浏览器，编程，访问搜索这些能力上已经很强了。但其实仍然有很大的差距，尤其是跟真实物理环境的这个包括企业内部，比如说非常复杂的软件也好，还是说真正到具身智能也好，怎么跟物理世界交互，其实使用工具上还有很大的一个差距。所以我觉得在这几点没有充分发展之前，其实agent的上线还是不会那么高的。对我觉得这个是技术层面的一个瓶颈和挑战。
+</p>
+<p class="transcript-line">
+<span class="time"><strong>[00:46:04]</strong> </span>
+<span class="speaker"><strong>发言人3: </strong></span>
+另外一个问题就是说到底大家未来的壁垒是什么？我们看了很多项目，我们也会去问自己，当然也会去问项目它的壁垒是什么？这个壁垒其实跟上一代我们看互联网的时候虽然不同，但是我觉得可以借鉴。本质上它其实还是一个网络效应的问题，就是包括规模效应的问题。你能不能通过更多的用户以及更多的使用，能够去反过来提升你的产品体验和模型能力。当然这里面刚才谈到你是不是能收到更多的反馈，这些可能都很重要。但我觉得现在还远远没有到这一步，这可能是今年下半年或者明年可能慢慢才能看出来的一些问题。所以产品这一点上还可以继续观察。
+</p>
+<p class="transcript-line">
+<span class="time"><strong>[00:46:40]</strong> </span>
+<span class="speaker"><strong>发言人3: </strong></span>
+我觉得第三点，这也是我自己这两天也在想的一个问题，商业模式上到底会怎么演化？现在我们看起来其实是很简单的，因为大家都是一种，比如订阅服务一个月不是二十刀。但未来大家都认为agent会很多，可能是有很多垂类的agent。但试想一下，我们总不能每个我都花20刀去订阅，可能一个月用不了几次。这个订阅模式是不是一个真正长期可持续的模式？如果不可持续，那现在大家算ARR这事可能也没有意义了。
+</p>
+<p class="transcript-line">
+<span class="time"><strong>[00:47:11]</strong> </span>
+<span class="speaker"><strong>发言人3: </strong></span>
+好，如果订阅模式不是一个未来的终局，大家可能就转向另外一种模式。比如说我们就按token的使用量去付费，但是token的使用是不是合理呢？比如一个agent的能力更强，他可能只需要消耗比如说1000个token就能帮你完成一个任务。但另外一个agent它可能需要消耗1万个token能帮你完成一个任务。咱们抛开结果不谈，那你就真的需要为那一万个token的付十倍的溢价吗？这个可能对用户来说也很难接受，所以这个事情也是一个悖论。
+</p>
+<p class="transcript-line">
+<span class="time"><strong>[00:47:39]</strong> </span>
+<span class="speaker"><strong>发言人3: </strong></span>
+再转向第三种模式，我们就为结果付费，我们去衡量这个结果对我价值高低。但价值高低这件事儿又是一个很主观的事情。比如对用户来说，可能帮我定一个旅行计划我觉得很重要。但对于另外一个用户来说，帮我做一个行业很重要。但可能他们消耗的token数量也许差一个数量级。但是对于用户来说，那我不管，我就是看他对我的价值是什么。这个对于A正厂商来说，它的商业模式就又会受到另外一个层面的挑战。以及未来刚才我们谈到如果是多A阵的这种协同的方式，比如说有通用的agent，通用可能还会掉一些垂直的agent他们互相之间怎么结算，这就是更复杂的问题。
+</p>
+<p class="transcript-line">
+<span class="time"><strong>[00:48:18]</strong> </span>
+<span class="speaker"><strong>发言人3: </strong></span>
+也有朋友谈到说，比如说未来是不是这种虚拟货币，或者在里面也能发挥作用。但我觉得这个事情现在肯定还看不到，但未来也许有可能。所以这里面我觉得还有很多的变量在发生，就是没有达成完全的共识。我觉得这也是很有意思一件事情。
+</p>
+<p class="transcript-line">
+<span class="time"><strong>[00:48:34]</strong> </span>
+<span class="speaker"><strong>发言人2: </strong></span>
+如果今天人类对于人的劳动结果，怎么去付费跟激励都没有太过清晰的判断。一个乙方的心态总会觉得甲方的钱给的少了。那回过头来以AI agent作为一个独立结果去交付的话，今年还有一个比较热的词儿叫以交付结果为商业。
+</p>
+<p class="transcript-line">
+<span class="time"><strong>[00:48:54]</strong> </span>
+<span class="speaker"><strong>发言人2: </strong></span>
+付费交付结果怎么去评估，也会成为一个基础的商业问题。也有可能更像是一个人与人之间的社会学问题。怎么样去评估人与人之间为别人的劳动付费，过渡到大家如何把AI看作一个类似于人的劳动付出，为AI agent付费，你愿意多少去接受这个定价？这个事情整个进展需要一个变化或者磨合的过程。当然我们会很期待的说，最终把AI agent的收费形式变成了你按它的交付结果去合理评估的付费，是AI一个多劳多得的模式，一个比较合理的价值回报。能实现的话肯定是理想的商业价值状态。
+</p>
+<p class="transcript-line">
+<span class="time"><strong>[00:49:40]</strong> </span>
+<span class="speaker"><strong>发言人3: </strong></span>
+所以其实可能AI改变的不光是生产力。大家可能一开始认为它改变了生产力，那这么来看，它其实也会改变很多生产关系。所以它到底无论是人和agent怎么收费，就怎么协作，以及包括还有人谈到怎么管理，以后什么企业管理还需不需要，反正就这些事情其实都很有意思。
+</p>
+<p class="transcript-line">
+<span class="time"><strong>[00:50:00]</strong> </span>
+<span class="speaker"><strong>发言人2: </strong></span>
+可以说这个宏观的组织就不再是单纯人的组织了。我觉得有可能也会变成人与AI之间的一个组织协同，或者说在这个组织里AI的行为怎么去管理整个组织的预期。今天大家会强调说对AI做一些优化，或者说给AI提供一些prompt，以及说做一些数据梳理，让AI能够更好的理解我们现在这个组织的任务目的。最后一个问题，作为我们投资人，我知道大家肯定未来都有一些自己的投资偏好。作为我们这样的早期投资机构，我不知道彭奇针对未来短期或者说1到2年内的投资，你更偏好什么样的AI方向。
+</p>
+<p class="transcript-line">
+<span class="time"><strong>[00:50:43]</strong> </span>
+<span class="speaker"><strong>发言人3: </strong></span>
+我们会更加看重一些偏垂直领域的agent的机会。其实前面也谈到了通用的这些agent，我觉得长期离模型能力其实是更近的。但垂直领域确实需要很多行业和领域的这种know how和知识，这些东西是模型并不了解和并不掌握的，以及它反而跟用户的关系会更近一些。所以我们更看好在垂直方向上去创业的agim，甚至一上来也不需要完全是agent的形态。现在多数应用还是prompt，然后一部分做成了workflow，很少一部分现在刚刚开始agent workflow的形态在做PMF的过程中，我觉得就已经能够发挥很多作用了。当然在这个过程当中，你再随着模型能力的这种演进，你再去把workflow逐渐变成一种所谓叫agents的一个workflow。到最后就变成完全的agent式的这种托管。我觉得这种演化路径是可期的。
+</p>
+<p class="transcript-line">
+<span class="time"><strong>[00:51:41]</strong> </span>
+<span class="speaker"><strong>发言人3: </strong></span>
+但是现在整个行业的竞争其实还是非常激烈的。就是说大家又都谈到，比如一个人就可以做一个独角兽的这个日子很快就会到了。我们在看方向以及我们在建议创业者选方向的时候，肯定也是说尽可能还是发挥它原来的经验和积累。然后把他的服务的这个链条尽可能做长从工具到服务到交付结果相对多的去覆盖会更好一些，这是我这边的看法。不知道彦博你觉得我确实。
+</p>
+<p class="transcript-line">
+<span class="time"><strong>[00:52:07]</strong> </span>
+<span class="speaker"><strong>发言人2: </strong></span>
+比较认同彭奇刚刚提到to b垂直场景agent的一些想法。我可以补充一些对于to c方向的想法。就是因为大家往往会有一个误解，就是认为to c的产品一定要做的非常通用或者平台化。比如说目前市面上比较火的通用to c的AI agent，像menus just pack这些。但其实to c的场景里会有蛮多的一些C端的小众化个性化的需求。城市上C端比较大的量，其实也是一个比较大的市场。所以我们比较看好C端这么一个环境下，有没有一些垂直个性化的需求去深挖出来。
+</p>
+<p class="transcript-line">
+<span class="time"><strong>[00:52:44]</strong> </span>
+<span class="speaker"><strong>发言人2: </strong></span>
+对于AI来说，深挖个性化产品价值的机会是一个不错的探索。如果今天大家只是做一些相对短程的任务，而且你文字生成交沪比较近的场景的话，那么像OpenAI mini max这一类的厂商做的已经差不多了。他们最近新推出的AI agent，包括说OpenAI的deep research，都是一个面向to c的AI应用的尝试。
+</p>
+<p class="transcript-line">
+<span class="time"><strong>[00:53:11]</strong> </span>
+<span class="speaker"><strong>发言人2: </strong></span>
+再往下走就是对于个人C端的一些长链条任务规划。或者说大家当时提到的一些旅行也好，长链条的内容生成也好，或者说过去大家提到的一些ai c端的陪伴，以及C端怎么把一些AI的能力结合成硬件，做成AI硬件的产品，都是今天这个时间点大家比较感兴趣的相关AI应用的方向。而且为什么说to c不一定要做平台化或者说通用化，去做垂直的to c也是有市场价值的？
+</p>
+<p class="transcript-line">
+<span class="time"><strong>[00:53:45]</strong> </span>
+<span class="speaker"><strong>发言人2: </strong></span>
+回头看我们C端很多智能硬件的诞生到最后的蓬勃发展，最早都是从一个很垂直的场景里做起来的。没有人上来就会在C端做一些非常通用的东西。因为C端的体量足够的大，那你即使在一个垂直场景把产品做好做深，把一个新品类做出来之后，你也有非常多的机会把原来的小蛋糕去做成一个大的蛋糕，或者创造一个新品类的蛋糕。也就是过去我们看到的像大疆inst 360这样的消费电子类产品。所以说我们过去可能看好的是消费电子C端产品的一个智能化。今天当AI出来之后，我们也比较期待说AI加上这类消费电子C端的需求，在中间找一些新的重合点，去诞生一些新的产品形态去交付给用户。这也是我们对AI产品to c的比较好的一个预期。
+</p>
+<p class="transcript-line">
+<span class="time"><strong>[00:54:41]</strong> </span>
+<span class="speaker"><strong>发言人2: </strong></span>
+今天我也跟彭奇跟大家简单回顾了一下过去半年AI跟AI agent领域的一些发展跟很多关键的变化。我们也聊到了对未来agent的一些预期。从长期技术的发展的层面，我们看好RL驱动的这一类agent的形态。它不仅在整个H交互性能的上限，以及说agent交付价值的提升上都有一个非常大的潜力。同时回归到商业角度，我们长期的看好to c和to b各个垂直领域的AI应用的进一步发展。我们也相信说从2025年开始，模型发展到一定阶段后将迎来AI应用和agent这一类新产品爆发的机会。
+</p>
+<p class="transcript-line">
+<span class="time"><strong>[00:55:23]</strong> </span>
+<span class="speaker"><strong>发言人2: </strong></span>
+最后再说一点，我们的很多观点可能明年或者在半年之内都会被快速的革新或者推翻掉。所以在这么一个激烈变化的时代里，我觉得交流跟学习都是必不可少的。希望跟大家多多交流，也随时更新自己的观点。最后感谢朋友的分享，感谢各位的收听。我们今天就聊到这里。
+</p>
+<p class="transcript-line">
+<span class="time"><strong>[00:55:45]</strong> </span>
+<span class="speaker"><strong>发言人3: </strong></span>
+拜拜。
+</p>]]></content:encoded>
+            <pubDate>Sun, 06 Jul 2025 02:46:38 GMT</pubDate>
+            <guid>6869e2f893fd2d72b8b98bfb</guid>
+        </item>
         <item>
             <title>Vol.175 宏观漫谈89｜继续谈“钱”的宏观流向和投资的相关问题（6.26录制）</title>
             <link>https://www.xiaoyuzhoufm.com/episode/6863d8f793fd2d72b8febdf3</link>
@@ -30006,790 +30713,6 @@ Vol.144 在采访过马斯克和奥尔特曼之后：与周恒星聊他的硅谷
 </p>]]></content:encoded>
             <pubDate>Sun, 08 Dec 2024 04:53:22 GMT</pubDate>
             <guid>675523e7bdb9877a97254135</guid>
-        </item>
-        <item>
-            <title>Vol.146 产业观察25｜漫谈中国未来产业之生物制造</title>
-            <link>https://www.xiaoyuzhoufm.com/episode/674ec76217cd5416ad19f01b</link>
-            <description>【本期课题】
-生物制造。
-【栏目介绍】
-在《产业观察》这档专栏里，我们会为你厘清不同产业的历史沿革，希望能够从中找到一些底层的规律。虽然当下变化迭起，但是所有新风口都有迹可循，不同产业的发展其实也有很多相似之处。
-【免责声明】
-本节目的所有内容并非旨在提供任何形式的建议，包括但不限于投资、税收、会计或者法律上的建议。
-【本期嘉宾】
-刘天罡，上海交通大学生命科学技术学院特聘教授、合生科技创始人。
-【内容索引】
-01:01 生物制造主要涉及分子的制造，根据分子量大小可以分为三类：第一类是分子量在100以下的物质，通常是细胞的主要代谢产物，如大宗氨基酸等；第二类是分子量在 100 到 1000 之间的天然产物，主要是生物活性的物质，广泛应用于药物、食品和化妆品等行业；第三类是大分子产品，通常是分子量几千到几万的多肽或蛋白质，比如抗体药物和功能性蛋白。
-02:49 从《地图里的人类史》看生物制造与人类历史及文明的关系。
-07:25 一个有趣的例子是玻尿酸，最初它是从鸡冠中提取的。但从动物组织中提取这个方法终究不够高效，研究发现，这是一种由特定菌种合成的产物。通过大规模发酵、分离纯化等工艺，才生产出了用于美容的玻尿酸。这种微生物发酵法成本可控、产量高、纯度高。
-09:16 生物制造是我们国家重要的未来产业之一，也是全球科技强国争相发展的前沿技术方向之一。今天，我们能够让微生物和细菌定向工作，生产高产率、高精度的产品。这一能力的背后，是如何发展到今天的水平？
-10:12 人类最早用到生物制造的其实是酿酒。
-12:28 在第二次世界大战期间，伤员们对于抗感染药物的需求极为迫切，青霉素被大规模生物制造出来。这是人类第一次全链条地将微生物产物投入到规模化的生产、提纯和制造，奠定了现代生物制造技术的基础。一些参与青霉素开发的公司也随之发展为现代制药行业的重要企业。
-15:50 DNA 双螺旋结构的发现，为基因工程的发展奠定了基础。我们开始能够对微生物、植物甚至动物的基因进行剪切和编辑。
-20:19 青霉素刚被研发出来时，生产成本非常高，一支青霉素的价格相当于一根金条。但现在青霉素制剂的成本甚至比输液管还低。
-22:11 关于“合成生物学”、“发酵工程”（Fermentation Engineering）和“代谢工程”（Metabolic Engineering）：传统酿酒时，先来筛选天然菌种，然后控制外部条件使其高效生产，这一过程被称为发酵工程；代谢工程，则是当找到一种天生就会做某种事的菌种，改变其代谢途径，使其产量和效率更高；至于合成生物学，可以理解为原来这个菌种不具备某种能力，但现在点石成金，即通过导入某种基因，它就能产生我们想要的物质。
-23:19 基因编辑技术的出现，对合成生物行业产生了什么影响？这和之前基因编辑技术对生物制药行业的影响有什么关联吗？
-26:21 到今天，人类大约已经发现了 40 万种天然产物。其中，我们日常用到的大约只有 5 千种，包括降血糖、降血脂、抗肿瘤药物，以及抗生素等各种药物，还有一类不常被注意的天然产物，如叶绿素、番茄红素，甚至还有橡胶这种材料类的天然产物。
-30:52 现在，基因组大数据、AI 预测算法、自动化实验技术和微生物底盘技术这四大要素，经过多年积累与发展到了一个新高度，成为了新的研究范式的起点。
-35:29 今天，在生物制造或合成生物学方面的研究和产业能力方面，中国、美国和欧洲分别处于什么位置和状态？
-40:41 未来，生物制造有哪些让人激动的蓝图和大方向？
-43:46 合生科技已经已具备量化生产几十种植物来源产品的能力。例如，番茄红素过去只能通过种植番茄提取，但现在可以借助酿酒酵母来实现工业化合成，成本远低于农业提取。这样不仅改变了番茄红素的生产模式，还能更好地利用土地资源，使番茄主要用来食用，而不是浪费在提取上。
-46:15 在物质研究与开发进程中，一种物质最初被发现时往往会先考虑其在药物领域的应用。随着研究深入，如果发现有些物质做药物活性不够，但它可能有非常好的气味，那么这些物质会被转而用于香精香料行业。如果再进一步研究，发现它还有杀虫的活性，又可以被用在农药领域。这是一条比较典型的物质利用链条。
-51:08 今年诺贝尔奖有两项与 AI 有关的研究成果，比如 AlphaFold 蛋白质结构预测。AlphaFold这类技术被认为是一个基座模型，展现出了广泛的适用性和实用性。那么，在合成生物学或生物制造领域，是否也可能出现类似的基础 AI 计算模型或预测模型？还是说AI 在这个领域更多会被当作一种工具，基于特定的需求、数据和组学结果来使用？
-54:35 作为一名创业者，你在做科技成果转化和产业化时，有什么心得体会？特别是从教授到创业者的角色转变中，你有什么特别的感悟？
-58:33 国家将生物制造列入未来产业规划，这一政策对你们有什么影响和变化？
-59:11 目前，把东西做出来其实不难，难点在于做出来的东西能否形成商业闭环并达到产业化规模。理想状态下，供需能实现匹配，也就是生产多少就能销售多少，但实际上这个通路往往不够畅通。
-【本期相关】
-生物基化学品代谢全图
-【本期福利】
-你最期待生物制造技术在哪个领域带来革命性的变化？欢迎大家在评论区留言，我们将为留言最走心的三位用户送上《地图里的人类史》各一本（评论截至2024年12月16日下午17点）。
-【相关文章】
-文字版内容请在峰瑞资本公众号查看。
-【制作团队】
-主理人：李翔 、李丰
-制作及统筹：张英海 （13514156656）、峰小瑞（pr@freesvc.com）
-如果你喜欢我们的节目，欢迎你分享到更多的地方，也欢迎你在我们的评论区留言交流。</description>
-            <content:encoded><![CDATA[<h1>转写链接</h1>
-<link>https://tongyi.aliyun.com/efficiency/doc/transcripts/g34dn8ewmzb5nwjz</link><br>
-<h1>节目摘要</h1>
-<div class="summary">生物制造作为一个迅速发展的领域，在中国的经济转型中扮演着重要角色。它利用生物技术，特别是基因编辑和合成生物学，优化微生物以高效生产生物燃料、天然产物和蛋白质等，从而解决环境问题并减少对化石燃料的依赖。生物制造技术的产业化历程表明，贴近市场需求、选择有前景的研究方向以及产学研结合是成功的关键。尽管面临提高生产效率、降低成本和扩大市场接受度等挑战，生物制造领域通过技术创新和政策支持展现出巨大潜力。跨学科合作、持续创新和关注可持续发展对于推动生物制造技术的发展至关重要。</div><br>
-<h1>章节速览</h1>
-<div class="chapters">
-<div class="chapter-item">
-<span class="time"><strong>[00:00:00]</strong> </span>
-<span class="chapter-title"><strong>生物制造技术及应用前景</strong></span>
-<div class="chapter-summary">本期讨论重点为生物制造，一种未来产业的重要方向。嘉宾刘天罡教授，作为生物制造领域的专家，分享了他在生物制造技术产业化方面的经验。他指出，生物制造涉及制造分子，主要分为三类：大宗化学品和能源品、天然产物以及大分子如抗体和蛋白。这些产品涵盖了生物燃料、生物材料、大宗氨基酸到药物、香精香料及化妆品等多个领域，体现了生物制造在经济和生活中的广泛应用和重要性。</div>
-</div>
-<div class="chapter-item">
-<span class="time"><strong>[00:02:40]</strong> </span>
-<span class="chapter-title"><strong>生物制造的现状与背景</strong></span>
-<div class="chapter-summary">讨论首先以人类文明的地理分布引入，说明文明的产生与太阳能的吸收和利用密切相关。通过分析碳基生命的形式，阐释了生物制造的基础，包括石化产品和天然产物的转化利用。接着，探讨了中国生物制造的现状，指出生物质能的利用形式多样，从食物到能源的不同转换方式。最后，通过化工制造和生物制造的对比，说明生物制造不仅仅是对传统化工制造的替代，而且在分子层面提供更多复杂性和多样性，展现了生物制造的广泛应用前景。</div>
-</div>
-<div class="chapter-item">
-<span class="time"><strong>[00:07:44]</strong> </span>
-<span class="chapter-title"><strong>生物制造与中国化工行业的转型</strong></span>
-<div class="chapter-summary">中国作为化工产品大国，拥有世界近半的化工总产能，其化工行业包括天然提取物、石油裂解、煤化工等，占能源消耗和工业碳排放的比重显著。随着对碳减排和降低能源消耗的需求增加，生物制造成为未来的重要产业之一。生物制造不仅能够降低对石油和煤化工的依赖，还能大幅度减少环境影响和碳排放，是科技发展的重要方向。通过合成生物学，实现了利用微生物等细胞定向生产高产率、高水平的产品，如玻尿酸，标志着生物制造技术达到了新的水平。</div>
-</div>
-<div class="chapter-item">
-<span class="time"><strong>[00:10:11]</strong> </span>
-<span class="chapter-title"><strong>生物制造的历史与进步</strong></span>
-<div class="chapter-summary">生物制造技术有着上万年的历史，从最初的酿酒到复杂的工业生产，经历了从简单到复杂的过程。初期，人们通过经验控制生物反应，如酿酒需避免氧气以防止变质。到了20世纪，西方在医学领域取得了显著进步，包括疫苗和抗生素的发现，如牛痘接种和青霉素的发现与应用，这些成就大大推动了生物制造技术的发展。随后，发酵工程成为一门学科和产业，特别是在战争期间，抗生素的需求推动了生物制造的工业化进程。发酵技术的进展，如对微生物的精确控制和选择，为现代生物制造奠定了基础。整个生物制造领域的进步，包括分子生物学的发展，标志着从传统发酵到现代生物技术的转变。</div>
-</div>
-<div class="chapter-item">
-<span class="time"><strong>[00:14:58]</strong> </span>
-<span class="chapter-title"><strong>微生物技术的进化与基因工程的突破</strong></span>
-<div class="chapter-summary">讨论重点在于如何通过人为刺激加速微生物的进化过程，提高生产效率和产品质量。通过使用不同类型的射线刺激微生物，筛选出高产率和高纯度的突变体，这一过程在上世纪六七十年代随着基因工程的发展而得以深化。基因工程技术使科学家能够从分子层面理解生物体如何执行特定功能，从而大大降低了研发成本，增加了研发成果。此外，还提到了研究范式的革命，如何从宏观的草药学到聚焦于分子层面的研究，以及这种转变如何导致了抗生素等重要物质的发现。</div>
-</div>
-<div class="chapter-item">
-<span class="time"><strong>[00:19:14]</strong> </span>
-<span class="chapter-title"><strong>生物制造和合成生物学的发展与应用</strong></span>
-<div class="chapter-summary">对话内容主要围绕生物制造和合成生物学的发展历程、应用及其社会意义展开。首先，通过青霉素和玻尿酸的生产成本变化，说明了技术进步如何降低了这些物质的生产成本，使得原本昂贵的药品变得更为普及。其次，讨论了合成生物学如何通过人为干预，优化微生物的基因组合，以实现更高效的物质生产。特别强调了合成生物学不同于传统的发酵工程和代谢工程，它能够使微生物产生原本无法产生的物质，这种技术的进步对于改变某些物质的生产方式，比如从熊胆中提取熊去氧胆酸的不人道方式，具有重要意义。最后，指出了合成生物学在未来生物制造领域的巨大潜力和面临的挑战。</div>
-</div>
-<div class="chapter-item">
-<span class="time"><strong>[00:23:16]</strong> </span>
-<span class="chapter-title"><strong>从基因编辑到合成生物学的发展历程</strong></span>
-<div class="chapter-summary">在过去的十多年里，基因编辑技术的发展极大地推动了生物制药行业，特别是从大肠杆菌中合成胰岛素的实现，标志着基因工程的早期成功。随着技术的进步，不仅仅局限于转移单个基因，科学家们能够进行大规模的基因组修改，去除不需要的部分，导入多个基因以实现更复杂的生物功能，从而推动了合成生物学的发展。这一过程从简单的基因操作到复杂的生物系统设计，标志着从传统基因工程到现代合成生物学的转变。</div>
-</div>
-<div class="chapter-item">
-<span class="time"><strong>[00:24:53]</strong> </span>
-<span class="chapter-title"><strong>生物过程和天然产物的未来探索</strong></span>
-<div class="chapter-summary">对话指出，大多数事物均可视为生物过程，本质上是碳链的改造。目前人类利用的天然提取物仅是已知的一小部分，而更多的物质尚未被发现或利用。随着生物制造技术的发展，未来将可能回归到对天然产物的深入探索。100年前，人们开始从自然界中分离并鉴定物质，这一研究范式促进了对大量天然物质的理解和应用，至今人类已发现约40万种天然物质，但这一数量仅是自然界中潜在物质的一小部分。尽管现有研究手段丰富，但新物质的发现速度正在减缓。海洋作为尚未充分探索的区域，可能成为未来发现新物质的重要来源。</div>
-</div>
-<div class="chapter-item">
-<span class="time"><strong>[00:28:21]</strong> </span>
-<span class="chapter-title"><strong>基因技术与AI在科研领域的新突破</strong></span>
-<div class="chapter-summary">最近的科技新闻报道了中国开发的一艘科考船，能够深入海平面以下1万米进行科考，持续航行120天，极大地拓展了我们对地球的了解范围。此外，通过基因技术，研究人员能够预测和发现新的物质，这种方法克服了传统方式的局限性。随着基因组学和人工智能技术的发展，科研人员能够从海量的基因数据中挖掘出新的物质，预测其功能，并通过在微生物平台上实验来验证这些预测。这一系列的技术进步，包括自动化实验和高通量测序，极大地提高了科研效率，预示着一种新的研究范式的出现。</div>
-</div>
-<div class="chapter-item">
-<span class="time"><strong>[00:34:10]</strong> </span>
-<span class="chapter-title"><strong>基因组学与技术革新推动生物制造范式转变</strong></span>
-<div class="chapter-summary">基于对基因的深入理解，我们能够预测并创造新的可能性，不再仅仅局限于发现后的研究。通过AI和大数据的支持，可以实现生产制造的自动化，将原本需要人力进行的实验过程转变为高效、低成本的自动化操作。特别是在合成生物学领域，通过改造底盘细胞（或称为细胞工厂），提高了微生物的生产效率和产品的纯度。这些技术进步共同推动了生物制造研究范式的转变，标志着从手工实验到自动化、规模化生产的飞跃。</div>
-</div>
-<div class="chapter-item">
-<span class="time"><strong>[00:35:55]</strong> </span>
-<span class="chapter-title"><strong>生物制造领域的全球竞争态势与未来展望</strong></span>
-<div class="chapter-summary">生物制造或合成生物学领域，全球研究能力和水平旗鼓相当，各自拥有优势。按产品分类，可分为大宗产品、天然产物及高附加值蛋白抗体医药产品，各国在这些领域内有着不同的优势。美国因其原料供应和能源成本的优势，在大宗产品生产方面处于领先地位。相比之下，中国在中等规模生产方面具有成本优势，尤其是对于生产品种多样的天然产物。欧洲在高附加值产品方面展现出原创性优势。从研究和投入角度看，中国展现出对生物制造领域发展的强大信心，具有人力要素方面的长远发展潜力。未来，如何将低碳资源高效转化为生物质，尤其是将二氧化碳转化为可用能源物质，是生物制造领域的关键发展方向，对实现碳减排和碳的高效利用具有重要意义。</div>
-</div>
-<div class="chapter-item">
-<span class="time"><strong>[00:42:44]</strong> </span>
-<span class="chapter-title"><strong>生物制造和天然产物研究的进展与突破</strong></span>
-<div class="chapter-summary">近年来，生物制造领域取得了显著进展，特别是将从自然资源中获取的产品生产过程转变为可控的发酵过程，实现了工业化生产。通过这种技术，已经能够量化生产数十种植物来源的产品，例如番茄红素，不再依赖于传统的种植和提取方式，而是通过工业化的酿酒酵母高效合成，大幅降低了成本。此外，研究范式的改变让人们重新回到了发现新物质的起点，开启了对未知天然产物的大规模探索。这不仅改变了对天然产物的利用方式，也为满足市场需求提供了新的可能性，特别是在制药、香精香料和农药等行业，展示了物质利用的广阔市场探索空间。</div>
-</div>
-<div class="chapter-item">
-<span class="time"><strong>[00:47:27]</strong> </span>
-<span class="chapter-title"><strong>合成生物学研究范式转变与AI应用前景</strong></span>
-<div class="chapter-summary">合成生物学领域正经历着一场研究范式的转变，这得益于新技术的发展，特别是基因组学、AI、自动化和底盘细胞改造等技术的应用。研究者通过基因的角度预测和发现新的化合物，扩展了我们对生物合成路径的理解，从而加速了对天然产物类型化合物的研究和开发。这种范式的转变不仅提升了研究效率，也为工业化生产提供了可能。特别是在AI的应用方面，虽然目前尚无统一的大模型，但AI在蛋白质结构预测、催化元件改造等方面的应用已经显示出其巨大潜力，预示着未来在精准设计和改造生物系统方面将取得更多成果。</div>
-</div>
-<div class="chapter-item">
-<span class="time"><strong>[00:54:34]</strong> </span>
-<span class="chapter-title"><strong>科技成果转化与市场需求对接的心得体会</strong></span>
-<div class="chapter-summary">在科技行业，从研究到产业化的转变过程中，最重要的是贴近市场需求，避免闭门造车。选择未被解决的问题，可能用较小的代价获得更大的成功。科研人员和创业者需要明确市场需求，针对性地进行研究，以实现研究成果的有效转化。同时，不同阶段面临的挑战不同，需针对性地解决问题。国家未来产业规划虽未直接带来显著变化，但对行业关注度提高，需要更多的合作和资源，特别是应用出口的需求确定性和产业规模的形成是关键。</div>
-</div>
-</div><br>
-<h1>问题回顾</h1>
-<div class="qa-item">
-<div class="question"><strong>Q:</strong> 生物制造主要可以分为哪几类？</div>
-<div class="answer"><strong>A:</strong> 生物制造可以按照分子量大小分为三大类。第一类是分子量较小的大宗化学品和能源品，这类物质通常是细胞内的代谢产物，以吨为计价单位；第二类是按照公斤报价的中等分子量产品，如生物燃料、生物材料以及部分大宗氨基酸等；第三类是大分子产品，如抗体、蛋白等，它们通常分子量更大，属于多肽或者几千到几万的范畴。</div>
-</div>
-<div class="qa-item">
-<div class="question"><strong>Q:</strong> 为什么选择非洲作为人类起源地，并且从非洲扩散到世界各地？</div>
-<div class="answer"><strong>A:</strong> 非洲之所以成为人类起源地，是因为其地表能更好地吸收和利用太阳能，拥有丰富的物种和食物资源，这使得非洲成为最早人类诞生和演化的地方。这种自然现象与生物制造有间接关联，因为它体现了自然界中资源利用和转化的过程。</div>
-</div>
-<div class="qa-item">
-<div class="question"><strong>Q:</strong> 生物制造与碳基生命有何关联？生物制造在中国的发展现状及重要性如何？</div>
-<div class="answer"><strong>A:</strong> 生物制造与碳基生命密切相关，因为无论是早期的人类演化还是现在的生物制造，都基于碳链结构。石油和煤炭作为储存太阳能的一种方式，经过数百万年形成的化石燃料中蕴含的热质丰富，当我们燃烧石油和煤时，产生的衍生化工产品如塑料袋等，就是通过转化和利用太阳能的方式制造出来的。中国是化工产品生产大国，占据全球化工产能接近一半，并且包括天然提取物、石油裂解和煤化工在内的原料行业对能源消耗和工业碳排放有很大影响。从石化、煤化产业转向生物制造，既是科技挑战，也是解决能源依赖、减少碳排放的重要途径。因此，生物制造被国家列为未来的重要产业之一，并在全球范围内受到广泛关注和积极研发。</div>
-</div>
-<div class="qa-item">
-<div class="question"><strong>Q:</strong> 生物制造与传统化工制造有何异同？</div>
-<div class="answer"><strong>A:</strong> 生物制造在一定程度上类似于传统的化工制造，但更侧重于利用微生物制造技术生产特定分子量的产品，尤其是那些难以通过化石燃料直接获取的复杂碳链化合物。比如天然产物和合成的胰岛素等生物制造产品，它们在分子结构上更为复杂，需要经过复杂的生物反应过程才能得到。</div>
-</div>
-<div class="qa-item">
-<div class="question"><strong>Q:</strong> 在生物制造领域，早期发展的两个标志性事件是什么？</div>
-<div class="answer"><strong>A:</strong> 早期生物制造发展的两个标志性事件包括天花疫苗的发现和青霉素的偶然发现。天花疫苗是通过人工接种人痘实现的，而英国医生则发现了牛痘可以替代人痘进行接种，并且能够大规模复制和推广。青霉素的发现源于一个偶然情况，在一次聚会中，科学家们观察到一种真菌能够在培养基上形成杀死其他污染微生物的透明圈，从而开启了抗生素的工业化生产之旅。</div>
-</div>
-<div class="qa-item">
-<div class="question"><strong>Q:</strong> 第二次世界大战期间生物制造有哪些重大进展？现代生物制造是如何进一步提升微生物生产效率的？</div>
-<div class="answer"><strong>A:</strong> 在第二次世界大战期间，生物制造实现了大规模工业化生产，这是第一次将微生物产物进行工业化放大和提升。制药公司开始参与其中，从筛选特定微生物、控制发酵条件（如养料、温度、氧气通入、搅拌程度等），到规模化生产、提纯等环节，这一系列过程奠定了现代生物制造的技术基础。现代生物制造通过分子生物学的进步，对微生物进行定向进化以提高其生产效率。这包括使用紫外线、太空射线等多种手段刺激微生物产生突变，然后筛选出高产率、高纯度产物的菌株，并通过基因工程手段理解微生物编码的酶及其催化功能，从而优化和控制微生物的合成过程。</div>
-</div>
-<div class="qa-item">
-<div class="question"><strong>Q:</strong> 从发现青霉素到现代生物制造的发展，研究范式发生了怎样的变化？</div>
-<div class="answer"><strong>A:</strong> 研究范式从笼统地发现物质转变为聚焦到分子层面，可以更精确地定位到单一物质及其功能。以前依靠自然进化和筛选，现在可以通过基因编辑等技术更有效地改造微生物，以满足特定需求。例如，通过增加目标产物基因拷贝数，减少其他基因干扰，以及优化代谢途径，显著降低了研发成本，提高了生产效率。</div>
-</div>
-<div class="qa-item">
-<div class="question"><strong>Q:</strong> 当前生物制造面临的主要挑战和未来发展方向是什么？</div>
-<div class="answer"><strong>A:</strong> 当前生物制造面临的一大挑战是如何解决从自然界获取物质的问题，如熊去氧胆酸等，其获取方式不人道且成本高昂。未来发展方向是利用合成生物学和代谢工程，将无法通过自然界获取的大量物质，通过人为设计和定向进化的方式，更高效地在微生物体内合成，从而实现可持续生产和替代传统获取方式。</div>
-</div>
-<div class="qa-item">
-<div class="question"><strong>Q:</strong> 那么合成中学是啥呢？</div>
-<div class="answer"><strong>A:</strong> 合成中学可以理解为通过基因编辑等技术，让生物体凭空产生原本不具备的物质，就像将“差学生”变成“好学生”一样。</div>
-</div>
-<div class="qa-item">
-<div class="question"><strong>Q:</strong> 从发酵到生物制造或合成生物学的过程中，基因编辑对上一轮生物制药行业的影响有关系吗？</div>
-<div class="answer"><strong>A:</strong> 有关系。基因编辑的发展使得我们能更灵活地改变生物体内的基因，不仅限于单个基因的替换，而是可以进行大规模的基因改造，让多个基因协同工作，这极大地推动了合成生物学和生物制造的进步。</div>
-</div>
-<div class="qa-item">
-<div class="question"><strong>Q:</strong> 合成中学的发展过程是怎样的？</div>
-<div class="answer"><strong>A:</strong> 合成中学的发展经历了从最初只能通过基因工程改变单一基因、合成单一蛋白（如胰岛素），到现在能够对生物体进行复杂改造的过程。随着技术进步，我们可以转多个基因，进行复杂的功能设计与实现。</div>
-</div>
-<div class="qa-item">
-<div class="question"><strong>Q:</strong> 天然产物研究的发展历程是怎样的？</div>
-<div class="answer"><strong>A:</strong> 天然产物研究早期主要依赖于从自然界获取物质并鉴定其功能，已知的天然产物种类约有40万种，但相对于可能存在的物质总量来说，这只是很小的一部分。随着研究手段的丰富，尤其是基因组大数据的积累和AI技术的应用，我们现在可以预测并挖掘更多未知的天然产物。</div>
-</div>
-<div class="qa-item">
-<div class="question"><strong>Q:</strong> 按照现有研究方式，为何发现新物质的速度正在急剧减少？</div>
-<div class="answer"><strong>A:</strong> 现有的研究方式就像挖矿一样，已知的资源（如土壤样本）已被深度挖掘，新的有效来源逐渐减少。而新技术的应用，例如基因组测序、AI预测以及自动化技术的发展，正促使我们进入一个新的研究范式，从基因层面发现和合成新的天然产物，从而提高发现速度。</div>
-</div>
-<div class="qa-item">
-<div class="question"><strong>Q:</strong> 在生物制造或合成生物学领域，全世界的研究能力和水平上，各个国家大概是什么样的状态和位置？</div>
-<div class="answer"><strong>A:</strong> 笼统来说，目前各国在这个领域大致处于旗鼓相当的状态，各有优势。按照生物制造产品分类，如大宗产品、天然产物类及高附加值蛋白抗体医药类产品，每个国家都有当下的优势。</div>
-</div>
-<div class="qa-item">
-<div class="question"><strong>Q:</strong> 为什么中国在做天然产物这类产品时具有优势？</div>
-<div class="answer"><strong>A:</strong> 对于天然产物类产品的生产，其成本构成中原材料成本占比适中，且产品种类多、规模小，非常适合中国目前工厂的规模和原材料配置，同时在基础设施投入、设备运行和劳动力成本等方面具有竞争力。</div>
-</div>
-<div class="qa-item">
-<div class="question"><strong>Q:</strong> 为什么美国大力提倡生物制造，尤其是在大宗产品方面？</div>
-<div class="answer"><strong>A:</strong> 美国在大宗产品方面具有优势，主要体现在原材料供应和能源成本上，他们的生物质资源丰富，能够以较低的成本生产大宗能源产品。</div>
-</div>
-<div class="qa-item">
-<div class="question"><strong>Q:</strong> 从研究角度或投入上看，中国有何竞争优势？</div>
-<div class="answer"><strong>A:</strong> 中国在工程师、在校大学生及科研院所人员的数量和整体投入上具有规模优势和稳定投入，从人力要素竞争角度看，具有长远的发展潜力。</div>
-</div>
-<div class="qa-item">
-<div class="question"><strong>Q:</strong> 对于生物制造领域未来激动人心的研究方向或蓝图是什么？</div>
-<div class="answer"><strong>A:</strong> 未来最激动人心的方向之一是利用低碳资源（如二氧化碳）进行转化，通过集中捕获、利用和转化，有望在大宗化学品合成与石油竞争中取得突破，实现碳减排和利用的重大变革。</div>
-</div>
-<div class="qa-item">
-<div class="question"><strong>Q:</strong> 在银座研究、产业化及产学研一体化方面，有哪些比较有意思的进展和突破？</div>
-<div class="answer"><strong>A:</strong> 目前能够量化生产几十种植物来源的产品，例如番茄红素，已经通过酿酒酵母进行高效合成，改变了以往依赖农业种植提取的模式，降低了成本并提高了效率，这种模式的转变是生物制造领域的一个重要进展。</div>
-</div>
-<div class="qa-item">
-<div class="question"><strong>Q:</strong> 在天然产物领域中，我们现在发现的40万个化合物是否只是冰山一角，还有多少未被发现的化合物存在？</div>
-<div class="answer"><strong>A:</strong> 我们并不清楚还有多少未被发现的化合物，可能是400万个，也可能是4万个。但新的研究范式可以填补这个空白，并让我们回到100年前那种探索未知的原点上。</div>
-</div>
-<div class="qa-item">
-<div class="question"><strong>Q:</strong> 在尚未发现的未知物质中，我们能否找到大量对现有需求有填补作用的新物质？</div>
-<div class="answer"><strong>A:</strong> 是的，随着研究方式改变，当收集到足够多的物质时，可以利用它们去满足大量未被满足的需求。例如制药、香精香料和农药行业就展示了物质利用链条的广阔市场潜力。</div>
-</div>
-<div class="qa-item">
-<div class="question"><strong>Q:</strong> 合成生物学领域的研究蓝图是否已经有所拓展，特别是在新技术推动下，能否看到初步成果和未来方向？</div>
-<div class="answer"><strong>A:</strong> 合成生物学的研究蓝图正在逐渐被拓展。以贴息类天然产物为例，通过基因预测和改造，能够发现更多未被发现的化合物，并拓宽主干线的研究范围。</div>
-</div>
-<div class="qa-item">
-<div class="question"><strong>Q:</strong> 从科研、公司到研发的角度，您期望实现什么样的目标？AI模型在合成生物学或生物制造领域是否会存在一种通用且适用性广泛的基座模型，还是每个方向都需要针对性的数据输入和AI工具？</div>
-<div class="answer"><strong>A:</strong> 期望能够利用新技术，在相对平等的起跑线上，通过不断积累和创新，无论是在AI技术还是底盘细胞改造等方面，都能在合成生物学或生物制造领域占据一席之地，实现快速发展。理论上存在一个统一的大模型应用于多个领域，但实际上，针对不同方向和维度的数据需求，可能会形成不同的AI模型。目前既有通用性强的基础模型，也有针对特定问题的定制化模型。</div>
-</div>
-<div class="qa-item">
-<div class="question"><strong>Q:</strong> 在科技行业研究成果转化和产业化的过程中，您有哪些心得体会？</div>
-<div class="answer"><strong>A:</strong> 在应用基础研究中，最重要的是贴近市场需求，解决实际问题。选择尚未被解决的问题，可能以较小代价取得更大成功。同时，在资源有限的情况下，找准尚未被触及的研究方向，更能提高成功的可能性。</div>
-</div>
-<div class="qa-item">
-<div class="question"><strong>Q:</strong> 政策变化对未来产业规划的影响下，现在科研和公司最需要什么样的合作资源？</div>
-<div class="answer"><strong>A:</strong> 目前对国家政策的变化还没有明显感觉，但大家对此非常关注。最需要的是能够将科研成果转化为实际产值的稳定出口和产业链条的畅通，确保科研成果能够顺利投入市场。</div>
-</div>
-<h1>节目文稿</h1>
-<p class="transcript-line">
-<span class="time"><strong>[00:00:03]</strong> </span>
-<span class="speaker"><strong>发言人1: </strong></span>
-大家好，欢迎来到这一期的高能量。这期我们主要讨论的是现在比较重要和也是时髦的一个话题。对于中国的经济发展来看，我们提出了一些未来产业。未来产业中其中有一个是大家听起来词汇都认识，但是不一定很熟悉的方向，叫生物制造。今天我们请到的嘉宾刘天罡教授，当然他也有比较长时间把生物制造技术进行产业化的经历和经验，当然也是一家跟我们合作的创业公司的CEO。我们先把时间交给刘老师，请他来简单做个介绍。
-</p>
-<p class="transcript-line">
-<span class="time"><strong>[00:00:39]</strong> </span>
-<span class="speaker"><strong>发言人2: </strong></span>
-我目前的话现在是武汉合生科技创始人，同时也是上海交通大学生命科学技术学院的特聘教授。然后更focus在这个微生物代谢，微生物制造方向。我主要是从事在生物制造里面偏天然产物这个强好的方向里面。
-</p>
-<p class="transcript-line">
-<span class="time"><strong>[00:01:01]</strong> </span>
-<span class="speaker"><strong>发言人2: </strong></span>
-我们说生物制造的话，我们是制造分子，制造这种物质。从分子的分子量大小可以分成大约三大类的东西。小的一点，就是这种大宗的化学品和能源品。我们可以说把它按照分子量100以下，基本上这些物质都是一些细胞里面的主要的代谢类物质。它是这种carbon数量比较少，化学的这种结构修饰也比较少。但是体量比较大的一些大宗的产品，从生物燃料到生物材料，到一些大宗的氨基酸，这些一般这些东西，可以简单按照说它是以吨来计价，就是我一报价的话就是一吨多少钱。第二类，就是按照公斤来报价，就是一般来讲我说这个东西说多少钱一公斤，而不会说这个东西多少钱一吨。
-</p>
-<p class="transcript-line">
-<span class="time"><strong>[00:01:54]</strong> </span>
-<span class="speaker"><strong>发言人2: </strong></span>
-这些大致落到天然产物这个范围，它分子量大约从100左右到1000这个范畴很多都是生活性的物质。主要的出口就是药物。这些几乎所有的我们目前化学的小分子的药物都是在这个质量范围里面。然后还有一个就是我们经常会关注说它是药物，但其实在食品行业里面，这个香精香料化妆品里面，还有一些日化里面，其实这些体量上面都不比药物的要小。是的，然后再一类的就是大分子的一些东西，生物制造的就偏抗体、蛋白这一类的那就是分子量可能更大都是多肽，几千几万的这样的东西。
-</p>
-<p class="transcript-line">
-<span class="time"><strong>[00:02:40]</strong> </span>
-<span class="speaker"><strong>发言人1: </strong></span>
-为了帮助大家理解生物制造也好，微生物制造也好，这个行业，我们先简单的做一点点我的能力范围之内的科普。你看因为我们有一本很好的书叫地图里的人类史。这本书当中讲了很多非常有趣的冷知识。其中有一个问题是为什么人类会诞生在非洲？然后为什么会从非洲出走？为什么主要的文明都在亚热带，或者亚热带往上一点到温带之间出现？所有的这些事情，当然也包括后来为什么会出现游牧民族。
-</p>
-<p class="transcript-line">
-<span class="time"><strong>[00:03:11]</strong> </span>
-<span class="speaker"><strong>发言人1: </strong></span>
-简单来讲，所有的这些冷知识背后，有一件事就跟我们今天讨论的生物制造有一点点关系。就是在最先开始人类改造自然能力很差的时候，文明或者叫做人类的诞生的原因是取决于地球表面在不同的纬度位置上，哪个纬度能更好的更大范围的吸收和利用转换太阳能。为什么我们都是从非洲开始的这个智人，然后走出了非洲之后，又产生了几次不同的演化？就是因为非洲大家可以想象它在地表层面吸收转换太阳能的总量比较大，所以它的物种也丰富，食物的资源也比较丰富。
-</p>
-<p class="transcript-line">
-<span class="time"><strong>[00:03:52]</strong> </span>
-<span class="speaker"><strong>发言人1: </strong></span>
-这件事跟我们今天讲的生物制造有什么关系呢？最近因为AI很盛行，大家老打个比方说叫碳基生物和规微生物。基本上所有的自然现象当中，当然也包括人类自己，不管是吃的喝的还是怎么样，大概都是所谓叫碳基生物，对不对？就是跟碳链有关的事情。当然这个碳链的来源，我们刚才讲的就是最早从植物这些分布，人类的演化开始的这个所谓叫碳基生命哈那回过头来讲，今天中国大概是个什么现状？为什么会有个生物制造的基础背景呢？是因为比如说刚才我们解释了，其实都是在转换和利用太阳能，只不过形式不同。它到底是作为食物还是作为矿产，当然它可能直接作为我们的电力，这个大概都是在转换太阳能。今天的生物制造当中，之前的部分是人类产生出的这些刚才刘老师讲的这个分子量比较小的这些部分。就是比如说我们用的塑料袋，我们用的餐盒，这些部分它们的来源是石油化工或者煤化工产品。
-</p>
-<p class="transcript-line">
-<span class="time"><strong>[00:04:50]</strong> </span>
-<span class="speaker"><strong>发言人1: </strong></span>
-石油和煤这两件事是另外一种储存太阳能的方法。因为它也是原来我们都知道的这个作为碳基生物，就是动物和植物被埋在了地底下，然后经过了各种各样的压力、温度、微生物的发酵等等等等。各种各样的情况下，经过了几万或者是几百万年，最后形成了我们今天探明的这些石油和煤。然后为什么呢？它作为了主要能量，是因为它蕴含的我们叫热质比较丰富，就是它单位的重量或者体积下，它蕴含的太阳能比较多，说白了就是这句话。所以我们在烧这个石油和煤的时候，就顺便产生出了刚才我们讲到慢慢被发现出的这些衍生的化工产品。就是我们这些塑料袋，比如说聚丙烯聚丙烯等等这些事情。这些事情大家发现说有一些特殊的材料性能，然后又被用在了我们的广义范围之内。
-</p>
-<p class="transcript-line">
-<span class="time"><strong>[00:05:40]</strong> </span>
-<span class="speaker"><strong>发言人1: </strong></span>
-当然刘老师刚才讲到了天然产物就是另外一种形态。就比如说我们最早的时候大家用的什么胭脂，就是从植物里浸泡或者提取出来的这种红色，或者我们用的染料等等，大概也是都是同样的逻辑。这是刚才讲到的第二个部分的一个天然产物。当然还有更多的部分，现在我们可以天然合成了胰岛素，它也是一种碳链产品。当然分子量越大的那个碳链越复杂，它在自然当中所经历的特殊过程也比较专业。碳链越短，基本上你就直接把所谓叫任何一种碳链的。比如说不管是油还是画，还是哪一种油或者哪一种煤所产生出来的结果，直接把它烧断就行了。就是把那个碳链给进行不同的改造，把长的变成短的，没之恋的变成有之恋的，把之链上变成越来越复杂。加了一些其他的我们叫功能团，或者加了一些其他的附属产品，就变成了今天我们所知道的这几种东西。当然你贪恋长得越长，怎么把它长成你想要的那个样就会越困难。
-</p>
-<p class="transcript-line">
-<span class="time"><strong>[00:06:38]</strong> </span>
-<span class="speaker"><strong>发言人1: </strong></span>
-短的当然是最简单的那长的就是我们人身体里边经过复杂的人的身体或者是植物的制造复杂过程。在某种专门的树，某种专门的草，或者某种专门的动物，或者人身体的某种专门的生物反应过程才能得到的这些更复杂的这些刚才讲的跟药有关的这些大分子的东西。就大概这个世界整个演变过程就是这样的。
-</p>
-<p class="transcript-line">
-<span class="time"><strong>[00:07:02]</strong> </span>
-<span class="speaker"><strong>发言人1: </strong></span>
-然后生物制造在今天我们其实把它对应过来，就有点像原来的化工制造。当然只是化工制造，刚才在几类当中比较擅长的是小的。然后中间的那个大家都只能从自然界当中努力去找到各种各样以前没有发现过的这种植物、这种叶片、这种种子、这种根茎，或者是这种动物里分泌的东西。你打个最好玩的例子，比如说这个玻尿酸之前就是来自于公鸡的鸡冠作为天然提取物。再往前追溯，后来就发现它有一个专门的合成过程，有个军的合成过程，把那个东西再提取出来，然后再往下经过了人工的加工、筛选、定向选择、变异等等，变成了我们今天的玻尿酸生产。
-</p>
-<p class="transcript-line">
-<span class="time"><strong>[00:07:45]</strong> </span>
-<span class="speaker"><strong>发言人1: </strong></span>
-跟刘老师讲到的碳链改造当中的这个中等分子量天然提取物的这些产品的生物制造有什么关系？当然生物制造跟我们中国有的关系是，中国是个化工总体产品的大国，占全世界化工总产能的接近一半了已经。同时包括天然提取物，石油裂解，煤化工，这些全算一块儿。化工整个这个行业和原料行业大概占我们能源消耗的可能有接近3分之1的样子。然后占了工业碳排放大概百分之接近20。但是占了整个全中国这边还有消费者的碳排放大概百分之不到10。大概这是今天我们整个大化工行业与大原料行业在中国的这个样子，就是在全世界的地位和在中国今天的样子。
-</p>
-<p class="transcript-line">
-<span class="time"><strong>[00:08:31]</strong> </span>
-<span class="speaker"><strong>发言人1: </strong></span>
-我们讲它的来源是最早烧石油烧煤产生出的副产物，衍生出了这么巨大的一个行业。当然这个行业在中国也是个几万亿的行业，而且中国还在世界处于接近半壁江山的位置。那从这个石化煤化产业转向生物制造，既是复杂的科技问题，又是个挑战科技前沿的问题。当然它也是个某种意义上降低能源消耗，在另外一个意义上又可以较大程度上的缓解我们到碳减排的问题。我们从这几个角度上来看，利用今天的科技减少对石油和煤化工的损耗，大幅度的依赖以及减少对环境的影响，减少碳排放，减少大规模的能源消耗。
-</p>
-<p class="transcript-line">
-<span class="time"><strong>[00:09:14]</strong> </span>
-<span class="speaker"><strong>发言人1: </strong></span>
-所有这些宏观的因素造成了今天生物制造变成了我们的未来重要产业，也是国家命令的未来产业之一。当然同时它也是几乎在今天，不管是中国、美国、欧洲，大家都在努力攀高峰的另外一个重要的科技方向。所以从背景上来看，这个生物制造和过往不管是石化、煤化和人的各种各样吃的、用的、喝的、穿的这些东西的转换，在碳链的这个形成过程上，跟太阳能的关系或者是跟动植物的关系，大概就是这么来源。我不知道从合成生物学或者叫生物制造来看，这个发展到今天这么神奇的地步，就是我们可以让微生物、细菌，各种各样的细胞帮我们定向的干活。就是你必须就帮我生产出高产率的同时又是高水平的玻尿酸。这个过程在过去的几十年，怎么会我们达到了今天的这个水平和能力上的。
-</p>
-<p class="transcript-line">
-<span class="time"><strong>[00:10:12]</strong> </span>
-<span class="speaker"><strong>发言人2: </strong></span>
-就是人类去掌握生物制造来讲，有上万年的历史了。但是是从简单一步一步到复杂这么过来的。最早的可能我们直接用到生物制造的其实就是酿酒。
-</p>
-<p class="transcript-line">
-<span class="time"><strong>[00:10:27]</strong> </span>
-<span class="speaker"><strong>发言人1: </strong></span>
-对对对。
-</p>
-<p class="transcript-line">
-<span class="time"><strong>[00:10:27]</strong> </span>
-<span class="speaker"><strong>发言人2: </strong></span>
-是好例子。最早的时候人类掌握了说OK用一个特定的过程。但是可能那个时候还没有很明确的说，它是一个微生物的反应，或者具体到一个没就这种蛋白质的催化剂发生这么一个过程。但是先人从经验上面能够去控制这个过程。那么知道说我在这个过程当中，如果是一个把氧气回避了这么一个过程，可能就是久了。但是如果氧气不是控制的好的，那就变成醋了。或者是臭豆腐，那是不同的微生物。臭豆腐可能是个真菌的发酵，那个是酵母的发酵。
-</p>
-<p class="transcript-line">
-<span class="time"><strong>[00:11:06]</strong> </span>
-<span class="speaker"><strong>发言人2: </strong></span>
-从最早期我们掌握了一个经验，然后开始松制造做酒。然后慢慢其实一个大幅度的发展是上世纪到100年前，大约在西方。我们最早开始就是从这些天然，特别是微生物的跟抗生素相关的发现，西方的科技进步碾压我们东方，主要是在医学上面。而两个标志性的东西，一个是天花这种疫苗的发现。我们在清朝的时候，或者在更早的时候，我们会用人痘去接种。但是秦娜这个医生在英国就发现了，可以用牛痘来去替代西医的这种利用。它是一个可以复制的，可以经验化的，可以大规模推广。
-</p>
-<p class="transcript-line">
-<span class="time"><strong>[00:11:54]</strong> </span>
-<span class="speaker"><strong>发言人2: </strong></span>
-第二个例子就是青霉素的发现。青霉素的发现它在一个偶然的聚会里面发现，有一组真菌可以在一个平板上面，这个平板长的是用土豆或者其他的这种培养基的情况下，它长出来一个真菌，这个真菌可以把其他污染的这些微生物可以杀死，形成了一个透明的圈。那这个圈就表示这个圈里面的微生物被这种微生物给杀死掉了。然后这种发现他一步一步去把这种物质具体是什么来源。
-</p>
-<p class="transcript-line">
-<span class="time"><strong>[00:12:27]</strong> </span>
-<span class="speaker"><strong>发言人2: </strong></span>
-再在第二次大战期间实行大规模的这种生物制造。其实那是第一次全链条的参与到把一个微生物它的产物进行工业化的放大，工业化的提升。而且整个参与了这个过程的这些制药公司，原来他们都不是制药公司。就我刚才提到所有这些你听说过的制药公司全是参与了从那个点开始，怎么把一个微生物它的产物进行有规模的生产，然后有规模的提纯，有规模的制造。然后整个这一套过程其实就奠定了现代的这些生物制造的技术。
-</p>
-<p class="transcript-line">
-<span class="time"><strong>[00:13:10]</strong> </span>
-<span class="speaker"><strong>发言人2: </strong></span>
-从那个时候往后，我们开始进行大规模的这种有控制的发酵。原来的发酵是在一个酒桶里面，我们控制好温度。其实这个过程也是一个自然接种的一个过程，自然空气当中的过程。但是后面就是我有一个很明确的微生物，我分到这么一个军。我知道这个菌产生青霉素，然后我又把这个菌进行有一个给它什么样的养料，用玉米粉会比较好，然后给他什么样一个控制的条件，在什么时候通氧气，什么时候不通氧气，我要搅拌，要搅拌到多大，让它进行规模的复制，然后让它有序的生产。一步一步我们就是实现了这种规模性的制造。
-</p>
-<p class="transcript-line">
-<span class="time"><strong>[00:13:52]</strong> </span>
-<span class="speaker"><strong>发言人2: </strong></span>
-但是这个时候，其实还跟现代的这种分子生物学这种进展还不搭。嘎就原来就是说我能找到一个军，我把这个菌进行很合理的控制就行了。这个菌的筛选的过程也是一个自然筛选，右边挑不停的去筛，哪个军产生这个圈儿更大我用紫外线照一照，我把它发到太空上面，用太空的射线去照一照，让它形成突变，这是第一个阶段。
-</p>
-<p class="transcript-line">
-<span class="time"><strong>[00:14:20]</strong> </span>
-<span class="speaker"><strong>发言人1: </strong></span>
-在这个阶段上就是发酵这件事儿刚刚成为了一门学科和一个产业，发酵工厂。对对对，fermentation idea就像您讲的，就是从历史上来看，其实是上一轮生物制造在促成了发酵工程这个产业的起点上，除了有科学发现之外，主要的外力是战争。就像那个时候镇痛剂和抗生素这两件事情。在战争的发生过程当中，为了解决伤员疼痛、失血、除菌、发炎等等问题，就产生出了这些最大的外推力。然后加上科学发现，变成了之后的发酵产业工业。
-</p>
-<p class="transcript-line">
-<span class="time"><strong>[00:14:59]</strong> </span>
-<span class="speaker"><strong>发言人1: </strong></span>
-然后刘老师刚讲到了一个对于内行很熟悉，对于外行不一定很熟悉的。就是我们在已经获得了某种微生物之后，怎么让它的效率再提高。就只生产这个事儿，最好生产的越多越好，产率越高越好，你就要想办法让它进化。但是自然环境当中进化的速度就会比较慢。所以我们就用各种各样的方法来刺激。不管是哪种刺激，比如说用各种各样的射线，不管是紫外线，或者是伽马，或者是其他的放射性的射线，或者是刚才刘老师讲把它放到外太空，用其他的各种不同类型的射线来刺激这个微生物，或者这个军，让它来加速向各个方向突变。然后我们来看所有的这些突变里边，哪些突变产生出了更高的产量，更高的产率和更纯净的产物。我们就把它选出来，然后再刺激它，再让它来这样一遍一遍的筛选，就得到最后更好的这些菌。
-</p>
-<p class="transcript-line">
-<span class="time"><strong>[00:15:50]</strong> </span>
-<span class="speaker"><strong>发言人2: </strong></span>
-然后这个过程其实发展到上世纪六七十年代，有了基因工程以后，就是有了DNA双螺旋。然后大家对这个东西可以说我进行剪切编辑就开始了去认识到底这些微生物或者植物或者动物，它从基因的层面到底它编码了哪些酶？这些酶作为催化剂它怎么去核。从他开始大范围的去进行这些物质的研究工作，经过了这么几十年，目前不敢说全部的都掌握了。但是对于目前我们所发现的这些分子的合成过程，基本上有一个全面的了解到。今天为止绝大多数的目前在用的这些偶然发现的这些物质，我们可以知道它到底是怎么来的。
-</p>
-<p class="transcript-line">
-<span class="time"><strong>[00:16:41]</strong> </span>
-<span class="speaker"><strong>发言人1: </strong></span>
-明白就是我们先经历了第一个过程，知道这个微生物能干这个事儿。然后经历了科技的再一次发展，从基因层面的角度来理解了这个生物为什么能干这个事儿。
-</p>
-<p class="transcript-line">
-<span class="time"><strong>[00:16:54]</strong> </span>
-<span class="speaker"><strong>发言人2: </strong></span>
-然后在这个过程当中要插一句，就是他研究的范式其实是带来了一个革命。以前的话我们发现一个物质的是笼统性的，我们没有说去聚焦的，就是这种物质这种分子去干的这个事情。我们以前这种草药学都是说我发现它大致有什么功能，但是没有聚焦到在分子层面，某一个分子是干什么。但是之所以青霉素的这种发现，我们发现我从土壤里面，从空气当中，我就可以把一个军或者把一个物质分到。这种研究范式就可以聚焦到很具体的单一的物质。
-</p>
-<p class="transcript-line">
-<span class="time"><strong>[00:17:36]</strong> </span>
-<span class="speaker"><strong>发言人2: </strong></span>
-然后这种发现的过程，以前又没有去探索过。所以从上世纪二三十年代发现青霉素开始，就掀起了一个找到各种各样微生物的过程。这种研究范式就是你可以花非常小的代价，你在家里后院土里面搓一嫖土。对，然后就可以在家里头弄一个培养基就可以分居。当时在各大的这种公司，只要出差的地方，哪个岛搓一瓢土回来，那我可以给你差旅费，可以给你报销。
-</p>
-<p class="transcript-line">
-<span class="time"><strong>[00:18:12]</strong> </span>
-<span class="speaker"><strong>发言人2: </strong></span>
-但是这种物质的发现，这个过程就是有的东西就是很容易被发现。比如像青霉素，它发现的几率其实是挺高的。像我们可能现在都不在用的一些抗生素，像可能我们这个年纪小的时候，土霉素我不知道你小时候吃没吃过，现在已经不给人吃了，这猪都不给吃了，它有副作用。然后我们发现第二代的、第三代的更好的。
-</p>
-<p class="transcript-line">
-<span class="time"><strong>[00:18:34]</strong> </span>
-<span class="speaker"><strong>发言人2: </strong></span>
-但是这些东西你很难想象，土霉素、金霉素其实是辉瑞最早期的专利。明星产品对明星产品挣了很多钱。那个时候就是每一家大的制药公司，这是他们的几乎第一桶金。
-</p>
-<p class="transcript-line">
-<span class="time"><strong>[00:18:48]</strong> </span>
-<span class="speaker"><strong>发言人1: </strong></span>
-是的，确实是从历史上看，确实是因为。
-</p>
-<p class="transcript-line">
-<span class="time"><strong>[00:18:50]</strong> </span>
-<span class="speaker"><strong>发言人2: </strong></span>
-那个过程就是研究范式的一个改变，导致你的研发的成本急剧的降低，你研发的成果急剧增加。每个公司都发现了一大片大陆。我就是插播一段技术革命的带来的工业上面的一个大的变化。在这个之后的话就有了基因工程。大家就去除了生产这种产品，再去研究它到底怎么合成的。
-</p>
-<p class="transcript-line">
-<span class="time"><strong>[00:19:14]</strong> </span>
-<span class="speaker"><strong>发言人2: </strong></span>
-它的直接带来的这种推动力是什么呢？就是当我用靠自然进化的手段，我还实现不了我的目标的时候，我采取人为的干预。我比如说合成一个天然产物的话，我争取说我理解了整个几千个基因在一个微生物里面。我大致知道说哪几个东西是干这个活儿的那我可以让干这个活的东西有很多个拷贝数，有很多个能干这个活的基因，这个东西还会被这个物种里面其他的基因分解掉。我要把分解掉的东西要人为的去掉它，然后我把它形成中间的这些产物，在分离提取的时候会增加成本，我又把它全部转化到化学产物中间，一点都不留。
-</p>
-<p class="transcript-line">
-<span class="time"><strong>[00:20:02]</strong> </span>
-<span class="speaker"><strong>发言人2: </strong></span>
-这一个过程的研发大致发生在上世纪90年代跟20世纪初，在全球开始进行这种革命。现在的这些工业菌种，目前基本上可以这么说，已经完成了这么一个迭代。可能以青霉素那种举例会更好。原来可能青霉素刚出来的时候，它的生产成本是很高的那就买一个青霉素可能是一根金条。在当年那个年代。但你现在的话就是可能青霉素的做出来制剂的成本都比那个输液的管子成本要便宜了。
-</p>
-<p class="transcript-line">
-<span class="time"><strong>[00:20:40]</strong> </span>
-<span class="speaker"><strong>发言人1: </strong></span>
-其实大概玻尿酸也经历了这个过程。
-</p>
-<p class="transcript-line">
-<span class="time"><strong>[00:20:42]</strong> </span>
-<span class="speaker"><strong>发言人2: </strong></span>
-因为最早的玻尿酸的成本还没有做到青霉素这个成本便宜。对，就是还没有足够多的interest去卷到这个行业。它的volume size还是没有antibodies这种万吨级别的这种刚需要打。
-</p>
-<p class="transcript-line">
-<span class="time"><strong>[00:20:56]</strong> </span>
-<span class="speaker"><strong>发言人1: </strong></span>
-确实抗生素主要是解决更严重的疾病健康问题，玻尿酸只是解决锦上添花的问题。您接着说刚才那条线。
-</p>
-<p class="transcript-line">
-<span class="time"><strong>[00:21:05]</strong> </span>
-<span class="speaker"><strong>发言人2: </strong></span>
-对，所以这条线就是我们去认识了整个这种物质合成的过程，然后人为定向化的把它做的更好。这个阶段大约已经完成了。下一个阶段是说我们还有很多东西还自备不出来。目前为什么现在大家这么看重生物制造呢？还有大量的物质其实是来自于自然界的获取。无论是动物来源的，大家听过从熊胆，当然就我们在治疗肝病里面的这个叫熊去氧胆酸，是一个刚需的大量用药物。它的最好的成分还是从熊胆里面提取的，而且这种提取的方式是非常不人道、非常残忍、非常残酷的。
-</p>
-<p class="transcript-line">
-<span class="time"><strong>[00:21:49]</strong> </span>
-<span class="speaker"><strong>发言人1: </strong></span>
-你们就必须得活体取，对不对？
-</p>
-<p class="transcript-line">
-<span class="time"><strong>[00:21:50]</strong> </span>
-<span class="speaker"><strong>发言人2: </strong></span>
-好，活体取。那我们如何去改变这种生产的方式？其实有很多这样的事情等着我们去解决。那你这种我们知道它要形成什么物质了，我们很明确。但是你原来没办法，你只能通过自然界这种获取。那你现在可以有手段，因为你认识了整个过程，合成生物学跟之前的发酵工程和代谢工程。
-</p>
-<p class="transcript-line">
-<span class="time"><strong>[00:22:15]</strong> </span>
-<span class="speaker"><strong>发言人2: </strong></span>
-我在这里给个简单的定义，就是自我的理解的这种定义，但不代表其他人，可以很简单的去分一下。原来酿酒这个过程天然分到这个菌，然后你让这个菌产的很好，你去通过各种外力的条件去改变它，让它做的到位。我们叫fermentation engineer发酵工厂。我能够找到这种一个特定的研究对象，对他这个特定的研究，他天生就干这个事情。你让他把这个干得更好，那就是叫代谢工程。你通过代谢途径，代谢流的改变去控制，让他干得更好，就是代谢工程。
-</p>
-<p class="transcript-line">
-<span class="time"><strong>[00:22:55]</strong> </span>
-<span class="speaker"><strong>发言人2: </strong></span>
-那么合成中学是啥呢？你就可以简单理解成原来他不干这个事情，原来他没有这个能力去干这个事情。然后你现在点石成金，你导进去一个基因也好，还是搞进去一堆也好，就让他凭空产生一个你想要产生的物质。我可以简单的大众化的理解，这就是合成程序。
-</p>
-<p class="transcript-line">
-<span class="time"><strong>[00:23:16]</strong> </span>
-<span class="speaker"><strong>发言人1: </strong></span>
-对，那我不知道刘老师请教一下，从发酵到生物制造这个过程里，或者叫合成生物学这个过程里边。大概在十多年前基因编辑这件事儿，就除了我们在基因组学上，就像您讲的，从上世纪六七十年代开始更好更多的从数据层面，从因果层面理解了它是怎么起作用的，酶是怎么起作用的，这些不同的基因片段或者基因的功能学上是怎么起作用的之外。那就像您刚才讲，改到最后一步，就是我把差学生直接改成好学生，或者把外校生直接改成尖子生。这种事儿跟十几年前我们在影响上一轮生物制药行业最大的这个基因编辑这个功能有关系吗？
-</p>
-<p class="transcript-line">
-<span class="time"><strong>[00:23:57]</strong> </span>
-<span class="speaker"><strong>发言人2: </strong></span>
-有关系。其实我们再回过头来，如果说你按照我这种思路来去命名这个过程的话，其实走到最早的原点是金泰克，他们实现了用大肠杆菌把胰岛素对合成出来。但是那个时候我转一个基因，我就可以叫genetic engineer，对对对，叫基因工程。对。
-</p>
-<p class="transcript-line">
-<span class="time"><strong>[00:24:19]</strong> </span>
-<span class="speaker"><strong>发言人2: </strong></span>
-但往往那个时候，其实我只能转一个级，然后我让这个物质干一件事情，比如说合成一个蛋白，就是胰岛素这种工具发展的越来越好。就是我不但可以转一个基因进去，我可以在这个里面进行大范围的改变。我把我不想要的东西都去掉，我想要的东西我不管导一个，我可以导几十个进来，然后让他复杂的要工作在一起，让他配合。就是发展到现在的合成中学，其实它是由一个简单的过程要变成一个复杂的过程。这么一个事情听懂了。
-</p>
-<p class="transcript-line">
-<span class="time"><strong>[00:24:54]</strong> </span>
-<span class="speaker"><strong>发言人1: </strong></span>
-可能从大的背景知识和方向上来看，各种各样的事情其实都是个生物过程。生物过程本质上也都是个碳链改造的过程。今天我们能发现的这些有用的各种各样的天然提取物，或者人的生物过程当中的产物。当然我们今天已经吃喝穿用的已经都是其中一些了。但是还有更多的部分，还有更大比例的部分，也许从来没有被发现过，从来没有被注意过，也许从来还没有被生产制造过。我不知道这件事儿跟往未来去看的生物制造和今天的生物制造相关的这些所有技术都在发展。大概最后往后看，它会变成一个怎么样的图景和怎么样的发展。
-</p>
-<p class="transcript-line">
-<span class="time"><strong>[00:25:33]</strong> </span>
-<span class="speaker"><strong>发言人2: </strong></span>
-未来其实回到天然产物我们发现的模式上面。以前的研究范式就是100年前大约这时候集中爆发开始。就是我从自然界里面无论是植物的，是动物的还是微生物的，大家开始去分到一个单独的点，把这种物质给它鉴定出来。但是它整个这个过程，是你先拿到一种物质，无论是一种植物还是动物的一个组织，还是说你微生物进行一个培养。这种研究范式它是一个革命，就是我们可以大量地获得一种原材料，然后再从我们要的这种原材料这里面把这种物质鉴定出来，提取出来，然后看这种物质是啥功能，那么这个研究范式的话带来了什么呢？现在我们说到天产物，这个家族里面大约人类发现了40万种这种物质。
-</p>
-<p class="transcript-line">
-<span class="time"><strong>[00:26:28]</strong> </span>
-<span class="speaker"><strong>发言人1: </strong></span>
-40万种40万种这是个大还是小的概念呢？针对可能的整个世界来看。
-</p>
-<p class="transcript-line">
-<span class="time"><strong>[00:26:33]</strong> </span>
-<span class="speaker"><strong>发言人2: </strong></span>
-从物质它理论上面能形成的这种还是很小的一个部分。就像我们一个银河系这里面的有限的跟宇宙里面的整体的数量，可能这个比例上差不多。在现有的这些已经发现这里面大约40万种里面，可能我们日常在用到的可能有5000种。
-</p>
-<p class="transcript-line">
-<span class="time"><strong>[00:26:55]</strong> </span>
-<span class="speaker"><strong>发言人1: </strong></span>
-好。
-</p>
-<p class="transcript-line">
-<span class="time"><strong>[00:26:55]</strong> </span>
-<span class="speaker"><strong>发言人2: </strong></span>
-那更就是除了这些5000种，有已经现有的我们用的这些药物，无论是降血糖的，还是降血脂的，还是抗肿瘤的，还是抗生素这些。还有一类是我们可能你天天在用，但是其实你并没有注意到它。比如说你看到绿色的，它叶绿素，然后你看到一个番茄是红颜色的，是番茄红素。那这些色素类的，然后我们闻到的花香，我们闻到的这种味道，它也都是天朝。当然这个里面最大的还是橡胶，材料类的那也是从植物里面来的，也是天朝只是形成一个聚合物抛离。
-</p>
-<p class="transcript-line">
-<span class="time"><strong>[00:27:35]</strong> </span>
-<span class="speaker"><strong>发言人2: </strong></span>
-然后现在的话就是我们如果按照现有的这种研究方式，你会发现我们的发现新物质的这种速度现在是急剧的在减少。虽然我们的研究手段比以前更丰富了，但是按照这种研究范式你去找就像挖矿一样。这种我们能看得见的矿已经被挖了100年了。就是家里后院的土以及别的地方，哪个岛上面的各个地方，还是说到南极到北极，我们到了深海去采样，我们能获得到这种物质的来源其实已经差不多了。但可能海洋是这一大片还没有被探索的地方。还有因为我们之前人到不了这些地方，采不到这些地方的样品。
-</p>
-<p class="transcript-line">
-<span class="time"><strong>[00:28:21]</strong> </span>
-<span class="speaker"><strong>发言人1: </strong></span>
-前两天刚有个新闻说中国新打造了一艘可以最高到海平面以下1万米的样品的科考船，还可以连续航行120天。
-</p>
-<p class="transcript-line">
-<span class="time"><strong>[00:28:30]</strong> </span>
-<span class="speaker"><strong>发言人2: </strong></span>
-就是这种可以就是它会把我们在原来的这种获得物质的范围会增加到更大。甚至说我们到外太空，我们去到火星，你也不知道说那边还有什么，有没有这种微生物，有没有这种生命的这种形式，不知道，但是这是一种获取物质的方式。但是现在我前面讲的这些技术的积累，导致有另外一种发现这种物质的模式，就是从基因去发现，就是原来你得知道他有个东西他惨，然后你去获得到它。但是往往是你去获得它的时候，它里面的基因并没有干活，并没有工作，或者是他工作的时候，他得需要。
-</p>
-<p class="transcript-line">
-<span class="time"><strong>[00:29:13]</strong> </span>
-<span class="speaker"><strong>发言人2: </strong></span>
-比如说一个植物产生一种驱虫的物质，你必须要这个虫子去咬它的时候，刺激它它才会去产生。对的。但是你并不可能说你去获得这些植物的时候，你还让虫子去咬它，然后你再去提，你很难去获得这些东西。
-</p>
-<p class="transcript-line">
-<span class="time"><strong>[00:29:27]</strong> </span>
-<span class="speaker"><strong>发言人2: </strong></span>
-但是你现在的话，你先知道它有基因，基因在这里，你sequence撤去了，你可以把这个物种的基因一个一个都读出来。那么这个技术变得越来越便宜。当然越来越多的物种被测序掉了，被编码破译掉了。然后我们现在就可以把这些基因拿回来，在一个我们微生物的平台上面，把这些物种的基因装在我们这个微生物里面。然后我们还可以用AI的方式去预测到底这些基因产生了什么样的东西。因为我们前面已经研究了说几十年大致这些知识的积累，就跟我们做AI一样，这些已经积累到一定的程度。
-</p>
-<p class="transcript-line">
-<span class="time"><strong>[00:30:10]</strong> </span>
-<span class="speaker"><strong>发言人2: </strong></span>
-我们现在的这种天天在做这些研究的人，如果看到这种你都不知道它是产生什么的，那意味着它产生的是一个很新的东西。肯定因为你没法用你前面的东西去解释它。还有一种就是你可以有很多已知的东西，然后你可以把它组装成一个你想要或者是你不知道的一个天产物，一个物质。然后这些技术的这种平台的诞生，会导致一种新的研究方式的涌现。
-</p>
-<p class="transcript-line">
-<span class="time"><strong>[00:30:39]</strong> </span>
-<span class="speaker"><strong>发言人1: </strong></span>
-所以您刚才讲的就假定他所需要的多种技术的进步，共同达到了某一个阶段之后，那个研究范式就可以。
-</p>
-<p class="transcript-line">
-<span class="time"><strong>[00:30:49]</strong> </span>
-<span class="speaker"><strong>发言人2: </strong></span>
-再变一下。现在已经到达了这个地方。你看第一基因组的大数据已经足够多。我们看到这种物种，但是你不知道它的潜力能合成多少种东西。比如青霉素，你看到它只产青霉素，但其实产青霉素那个青霉里面它还编码了另外几十种其他的东西。你并不知道那些其他东西都是形成什么的，或者功能是干什么，有可能那些东西是一个气味的东西。所以这是第一个基因组大数据慢慢带来的这种变化，就是我们现在所谓的挖矿，原来是从土里面找，现在这个矿已经在序列上面，已经在网上了。你现在从网上开始挖矿，这是第一个资源的发生了迁移。
-</p>
-<p class="transcript-line">
-<span class="time"><strong>[00:31:33]</strong> </span>
-<span class="speaker"><strong>发言人2: </strong></span>
-第二步，就是你的算法算力会对这种物质的这种理解上面也有上升了一个程度。无论是这种阿尔法二的出现，AI技术的出现，我可以用我原来的知识去预测。我不用做这么多具体的实验的工作，我就可以在预测上面就可以帮我算出来很多可能性。那我在干的时候可能说我算出来大致都靠谱的情况下，我再去干，不是说我盲目的一个去展开。
-</p>
-<p class="transcript-line">
-<span class="time"><strong>[00:32:03]</strong> </span>
-<span class="speaker"><strong>发言人2: </strong></span>
-第三个大的突破，就是自动化这些技术的突破。以前我们去挖就是矿工就挖矿的话，我们至少要培养这个劳动量或者是这种技术的。可复制性还是很差的，需要非常有技术的博士才能去干这个工作。它的产出可能像我读博士的时候，如果我现在描述这个工作，我五年可能干一个我就毕业了，我已经干的很好了。但是现在的话，那你按照这个速度来挖矿，很显然是不足以找到足够多的物质。你其实你做实验这个过程完全是可以现在被机器所替代。这个过程相对来讲都是重复性的可控的，机器可能干的比人更好的这个大规模的现在的技术也慢慢成熟了。还有一点就是你要把这些东西放到一个微生物里面来，你放到一个载体上面来。之前这种载体其实是不够的，就相当于你让他绽放的舞台，这个舞台不足够能让他在这里面play，而且可能放声器太小，听不到，看不见。
-</p>
-<p class="transcript-line">
-<span class="time"><strong>[00:33:18]</strong> </span>
-<span class="speaker"><strong>发言人2: </strong></span>
-随着这个工作的积累，因为对这些微生物，比如说青霉素这些军对他这些能可控的工业上面的这些微生物，你掌握的足够多。其实他们这些微生物就是展示的舞台。比如一个青霉素，它产很高产量的，你把它产青霉素的能力去掉。对，然后你让他去干跟青霉素类似的这些东西，你预测出来它可能跟青霉素长得有点像，但是又不是。那你就可以把它放在青霉素的这个微生物的底盘里面去，把它能力释放出来。这些东西也是经过逐年的积累，慢慢的这些技术也都七倍了。所以现在正好就这四个要素积累在一起，就能达到一个新的研究范式的这个原点上面明白。
-</p>
-<p class="transcript-line">
-<span class="time"><strong>[00:34:10]</strong> </span>
-<span class="speaker"><strong>发言人1: </strong></span>
-所以大概抽象总结一下，就是首先对基因的理解导致我们可以去正推了。不是发现了之后再来看研究它为什么会这样。而是我们基于已有的这些基因组学的理解，就可以正推说我们可能能做出什么样的东西来和应该怎么做。然后当然这些就像您讲的这些AI大数据，或者说这些AI能力的加持，可以基于现有知识也是正推了。这些广义上的生产制造的自动化，或者叫自动化工业的过程，可以把原来的这个通常我们叫师实验，就是把原来的这个探索当中，像我这样的肯定不是您了，需要花我这样的。比如说研究生水平的人去做的机械劳动，转换成自动化的这个过程就又快，规模又大，同时效率又高，成本又低。
-</p>
-<p class="transcript-line">
-<span class="time"><strong>[00:34:54]</strong> </span>
-<span class="speaker"><strong>发言人1: </strong></span>
-当然最后一件事就是在合成生物学上有个说法，就是我们对于所谓叫底盘细胞，或者说大家有个听起来另外一个更让人类觉得有厉害的词叫细胞工厂。就是怎么能让这个细胞为我们干活，把它修改成更适合这些微生物在里边生产这个生产那个，或者叫产量更高产率更高，纯净度更高，定向生产某一种东西的能力更强等等等等。大概这些在生物上的能力也得到了显著提高。就这四件事加起来大概就可以改一下所谓生物制造整体的这个研究范式。
-</p>
-<p class="transcript-line">
-<span class="time"><strong>[00:35:28]</strong> </span>
-<span class="speaker"><strong>发言人1: </strong></span>
-就像您刚才讲的，就是在100年前，当他还在做这个抗生素的时候，那个时候的西方国家们在这个技术上显然是非常领先的了。然后中间又经历了一些技术范式的变化，又经历了一些发展过程，也包括基因组学、基因编辑、大数据AI还有包括设备的自动化，就是合成制造筛选等等这些能力上的自动化。所有的这些都是非常多的产业聚集到了今天。
-</p>
-<p class="transcript-line">
-<span class="time"><strong>[00:35:55]</strong> </span>
-<span class="speaker"><strong>发言人1: </strong></span>
-在今天这个角度上，因为您在国外两个非常著名的大学，也包括当年在博士后，在斯坦福。在国内在也横跨了两三个中国做这个方向比较领先的大学，或者叫研究机构。横着比起来，在生物制造或者在合成生物学上，全世界在这个问题的研究能力和研究水平上，大家大概各自是个什么状态和什么个位置。
-</p>
-<p class="transcript-line">
-<span class="time"><strong>[00:36:20]</strong> </span>
-<span class="speaker"><strong>发言人2: </strong></span>
-笼统的说大家现在属于旗鼓相当，各有优势。明白，挺好，就是每个地方有每个地方的特色。按照生物制造的产品来分类，就是大宗的产品。我们中间的这些天然产物类的产品，以及高附加值的这种蛋白抗体医药类的产品。是的，这三块的话其实每一个国家有当下的这种优势。
-</p>
-<p class="transcript-line">
-<span class="time"><strong>[00:36:45]</strong> </span>
-<span class="speaker"><strong>发言人1: </strong></span>
-对，是的。
-</p>
-<p class="transcript-line">
-<span class="time"><strong>[00:36:46]</strong> </span>
-<span class="speaker"><strong>发言人2: </strong></span>
-有道理，不是说谁能够完全碾压通吃的。以这种大宗的产品来讲，为什么现在美国去大力的提倡生物制造？如果做大宗的产品，在原材料供应上面，在能源的成本上面，他们是有优势的。就是我们至少从生物质的这种量上面，我们是没有他们多的。
-</p>
-<p class="transcript-line">
-<span class="time"><strong>[00:37:08]</strong> </span>
-<span class="speaker"><strong>发言人2: </strong></span>
-再从研究这个机构的角度来讲，我们现在在中间的这个范畴，其实我们是有优势的。因为从生产制造的成本角度来分析，如果说我们做一个生物发酵的话，我们成本来源第一个是原材料的成本。第二个是基础设施的这种投入，包括建设维护的成本。然后第三个是人力资源的成本。我们从制造业来讲就是这三大块的成本。如果我做一个大宗的能源产品来讲，它的原材料的成本是占绝大头的，可能能占到90%。
-</p>
-<p class="transcript-line">
-<span class="time"><strong>[00:37:45]</strong> </span>
-<span class="speaker"><strong>发言人2: </strong></span>
-因为我把这个规模要放的很大的话，我可以用很少的人就可以去管理一个很大发酵类的工厂，现代化的。所以干这种产品取决于你的原材料的成本能降到多低。像我们国家就要大力的发展，比如这种低碳的这种利用，我们没还可以，但是我们石油可能相对少一些。比如说为什么我们从二氧化碳的普及，然后低碳的利用，那这是我们要在这个赛道里面要跟别人去PK的话，我们就逐利着重发力的地方。
-</p>
-<p class="transcript-line">
-<span class="time"><strong>[00:38:19]</strong> </span>
-<span class="speaker"><strong>发言人2: </strong></span>
-在中间为什么我们现在就相比来讲就是有优势呢？是因为在做天然产物这类的产品里面，成本的组成，那你就不是原材料，因为这些东西大致是几百块钱到几千块钱一公斤的这种成本范围，而且它生产的品种非常多，所以导致说你不可能你的原材料的成本要占的比例非常高。你的每个的产品的size都不是那么大，但是东西很少。这样的话非常适合中国的目前工厂的这种规模跟原材料的配置。那大约可能原材料成本占3分之1。我们的基础设施投入，还有设备的这种投入运行，还有能源的差不多3分之1。然后人工的我们这种劳动力的成本跟欧洲和美国比起来相对是低一些的，它大约占3分之1。所以在这种类型的成本里面，它要控制的很精细，他也要有一定的竞争力。
-</p>
-<p class="transcript-line">
-<span class="time"><strong>[00:39:19]</strong> </span>
-<span class="speaker"><strong>发言人2: </strong></span>
-在这些事上面就可以跟美国或者是欧洲去竞争。因为在这两个地方做这样类型的，你不可能说美国有5000家做生物肥制造的企业，不太现实。所以从要素上面，我们是占据了这一块的优势。在高端的附加值上面，比如说欧洲，那你看现在斯美格、鲁泰，你看他们的发现，他们的制造，那这块的生产制造的成本在总体产品的这种价值又很低。他的这种制造要素又不是在这里面最大的部分，有前期的大量的投入，有前期的这种积累。
-</p>
-<p class="transcript-line">
-<span class="time"><strong>[00:39:59]</strong> </span>
-<span class="speaker"><strong>发言人2: </strong></span>
-他们的在这方面的这种原创性的优势还是很明显的，需要我们大规模的去追赶。这是我说从生产要素上面来去看，现在三个地方各占的优势。从研究的角度或者说投入上面，我还是对中国非常有信心的。就是我们目前从工程师的这种人员，从在校的大学生，包括科研院所的这个人员的比例，整体的这种规模还是可以的，整体的投入也非常稳定。所以在未来的话，从人力要素的竞争还是很具有长远的发展潜力的。
-</p>
-<p class="transcript-line">
-<span class="time"><strong>[00:40:41]</strong> </span>
-<span class="speaker"><strong>发言人1: </strong></span>
-所以从这个产业的项目方向上发现上来看，您觉得往后看，比如说什么是激动人心的生物制造的大的这种蓝图和方向。
-</p>
-<p class="transcript-line">
-<span class="time"><strong>[00:40:51]</strong> </span>
-<span class="speaker"><strong>发言人2: </strong></span>
-还得从这三大类产品来说。从大宗的原料来讲，我们就是能看到大的突越来越接近发生。就是如何把低碳的这些资源能够很好的转化成生物质，就是二氧化碳。如何能把二氧化碳能够变成一个低碳的，变成一个长链的一个碳链，哪怕是从一个二氧化碳变成一个二碳的单位，变成一个乙醇，一个还原态的。我们如何能把这个过程能够集中捕获、集中利用、集中转化。看起来这个发展的非常迅速。这一块的突破，就会对大宗的化学品的合成跟石油去竞争。我觉得未来还是有非常大的机会的，从理论上面是可行的。就像您最早提到的，怎么样利用太阳能，就是太阳能赋予低碳的物质的能量，然后把它变成一个能够被利用的能源物质。
-</p>
-<p class="transcript-line">
-<span class="time"><strong>[00:41:53]</strong> </span>
-<span class="speaker"><strong>发言人1: </strong></span>
-我稍微打断一下，这个就是它听起来很有意思的原因。它就像是一个在技术和工业上来急速缩短了演化过程。因为最早其实也地球也都是无机物，就像您讲的是个低碳或者是个短叹的东西。然后我们变成今天就大家都叫有机物了。就是这些长碳链和复杂碳链的东西，基本上就是主要靠能量和环境，当然也包括温度、压力这些东西在冗长的历史或者叫地球演化过程当中来进行刺激和发生。然后变成了我们有这种简单的生物到复杂的生物，到高级的生物这些过程。
-</p>
-<p class="transcript-line">
-<span class="time"><strong>[00:42:30]</strong> </span>
-<span class="speaker"><strong>发言人2: </strong></span>
-这个是一定会发生的。我觉得而且这个是很激动人心的。如果能实现这块儿的话，那就是我们碳减排，碳的利用，就是完全取决于技术的变化。
-</p>
-<p class="transcript-line">
-<span class="time"><strong>[00:42:44]</strong> </span>
-<span class="speaker"><strong>发言人2: </strong></span>
-然后在第二块就是天然产物这块，最激动人心的两件事情。一件事情就是我们现在有能力把越来越多的原来靠从自然资源去获取。比如靠种地，种一种植物或者采集一种植物，或者是从动物获得。把它这种生产过程变成一个可规模放大的发酵，可控的一个发酵的过程，工业化生产的过程。这个是近年来就是一个一个的案例都被解决。因为这些案例被解决，这些事情在发生。所以现在生物制造被大家这么关注，而不是说完全还是摸不着看不见的东西。有大量的这种案例和事实不断的在发生，这是非常激动人心的一个过程。
-</p>
-<p class="transcript-line">
-<span class="time"><strong>[00:43:33]</strong> </span>
-<span class="speaker"><strong>发言人1: </strong></span>
-您觉得就是从目前在银座研究和产业化和我们叫产学研一体化来看。在这个部分当中有什么比较有意思的或者是激动人心的进展和突破。
-</p>
-<p class="transcript-line">
-<span class="time"><strong>[00:43:46]</strong> </span>
-<span class="speaker"><strong>发言人2: </strong></span>
-我们现在已经能量化生产几十个植物来源的产品，就原来都是从植物种植提取，比如说番茄红素，我们吃个番茄，看番茄的表面的这个红的颜色，其实它是一种物质，就叫番茄红素。是一种40个碳的碳链的这么长的一个就是碳氢和氧都没有这么一个物质，有11个双键这么一种物质，它产生的颜色就是我们看到的红颜色。之前的话只能从种番茄，从番茄里面再去提取。但凡是农业去生产这个物质的话，它都是今年种的人多了，那么价格就会下去，然后农民就会损失这种的少了价格就会涨起来。
-</p>
-<p class="transcript-line">
-<span class="time"><strong>[00:44:33]</strong> </span>
-<span class="speaker"><strong>发言人2: </strong></span>
-农业的一直是这样的过程，但你可以现在我们已经很工业化的把这个过程变成了用酿酒酵母，就是用做啤酒的这种酵母，可以把它高效的合成出来。然后它的成本是目前你没办法通过种番茄来去跟他竞争的。就是彻底的这种模式已经改变了。这种case在我们这已经发生了很多。我们现在就是聚焦能不能把原来这种模式改变掉，然后把这些土地能够用来去做更值得去做的东西。就是你种的番茄就给大家吃就好了。我们感受番茄的美味，而不是说我把番茄种完以后，还要去用有机溶剂去把它的这个物质提出来，然后剩下的东西只能扔掉了。很可惜这样的这种案例很多。
-</p>
-<p class="transcript-line">
-<span class="time"><strong>[00:45:23]</strong> </span>
-<span class="speaker"><strong>发言人2: </strong></span>
-然后我们在想说在中间这块天然产物，其实我并不是说制造类的一个一个这么做下去。更激动人心的是在于就刚才我们没有说完的那个话题。就是我们现在已经发现了40万个话后了，那么还有多少？有400万个，还是可能只有4万个了？其实我们是不知道的。你可以现在这种新的研究范式，可以把这个空白填上。现在进入到我觉得在这个领域跑马圈地的这么一个时代。因为研究方式改变了，你又回到了又把大家推回到了100年前这种发现的这种原点上面。
-</p>
-<p class="transcript-line">
-<span class="time"><strong>[00:46:04]</strong> </span>
-<span class="speaker"><strong>发言人2: </strong></span>
-到底大家能够在这个还有没被发现的未知的这些里面能找到多少东西？因为这些物质它是通过进化过来的对，是的，这些物质它不是一个随机产生，都是有功能的。只不过说你发现这个东西的时候，可能你觉得他没有用。但是可能在自然界里面他是干另外一件事。
-</p>
-<p class="transcript-line">
-<span class="time"><strong>[00:46:26]</strong> </span>
-<span class="speaker"><strong>发言人2: </strong></span>
-是的，当你这种物质收集到足够多的时候，就像我谈到另外一个industry的这个链条，它为什么呢？比如说你为什么瑞士有这么多的制药厂？但是制药厂它还有另外一个大的产业是在香精香料行业。随着这个行业还有做农药的行业，就是当时发现物质这个链条先去做药。那么做药筛下来的，我看到这个过程当中有味道，有个非常好的味道，但是它可能没有药物的活性，但是他就被塞回来去做香精香料去了。
-</p>
-<p class="transcript-line">
-<span class="time"><strong>[00:47:00]</strong> </span>
-<span class="speaker"><strong>发言人2: </strong></span>
-做香精香料如果再试一下，发现它好像还有杀虫的活性，那就被去做农药去了。所以这是一个物质利用的链条，并不是说我们发现了这些东西，他只能干这个事情。现在从需求端我们有大量的没有被满足的需求。那么能不能在这个发现的过程当中，把这些需求一个一个填补上。其实这是在智能制造或者是行业里面更广阔的一个市场探索的空间。
-</p>
-<p class="transcript-line">
-<span class="time"><strong>[00:47:27]</strong> </span>
-<span class="speaker"><strong>发言人1: </strong></span>
-我记得原来我们去学习合成生物学的时候，它有一张非常复杂的，像远远超过元素周期表的一个大的图。那里边像极其复杂的地铁图一样，就是拐来拐去的好几条这个轴，周围是各种各样的功能也好，产品也好。不知道刚才您讲的这个发现过程，就是假定这些新技术都发生，以至于凡是能够转变在今天可见的范围之内，这件事已经有初步的成果和样子吗？在整个这个方向上，或者在这种蓝图。
-</p>
-<p class="transcript-line">
-<span class="time"><strong>[00:47:59]</strong> </span>
-<span class="speaker"><strong>发言人2: </strong></span>
-里边已经曙光出现，这种蓝图就逐渐的在被拓展。以我自己的研究为例的话，比如我们讲到就这个叫贴息类的贴类的话，我就是贴的这个是占到天然产物里面大约4分之1，有目前8到10万种。我刚才说40万种，有8到10万种是它叫贴息的。就是它合成的通用的路径是一样的。只是说修了一条高速公路，然后在不同的高速公路的下口出去，再形成一堆其他的这些东西。其实我们之前研究就发现，原来你靠这种找到各种各样的植物，找到各样的微生物，你只能发现这么些。但是你现在通过基因的角度去预测的角度，你看哪些东西你看不懂，哪些东你预测不出来，还属于这个家族的，你去做，你会发现你把这个高速公路能够往前拓展了一下，但是之前你这个路口就是没有被发现的对。
-</p>
-<p class="transcript-line">
-<span class="time"><strong>[00:48:56]</strong> </span>
-<span class="speaker"><strong>发言人1: </strong></span>
-就是普通的就不知道的就是不知道。
-</p>
-<p class="transcript-line">
-<span class="time"><strong>[00:48:58]</strong> </span>
-<span class="speaker"><strong>发言人2: </strong></span>
-对，这就是研究范式的改变。然后帮我们把你说的那个已经很复杂的一个图又往边上拓展很多。而且这种拓展只是一个课题组，几个研究生用新的方式去干的。但是如果说把它变成一个工业化的可复制的过程，你会发现可能就这个map就会急速的去扩张。
-</p>
-<p class="transcript-line">
-<span class="time"><strong>[00:49:23]</strong> </span>
-<span class="speaker"><strong>发言人1: </strong></span>
-所以从您个人的理想上来看，就是因为这也是横跨了产学研了。最终比如说不管是做科研，做科学，还是做公司，还是做研发，希望做成个什么样的方式的事情和什么样类型的事情。
-</p>
-<p class="transcript-line">
-<span class="time"><strong>[00:49:38]</strong> </span>
-<span class="speaker"><strong>发言人2: </strong></span>
-就是我们回到从公司的层面，其实我们国家目前还没有公司能做到像西方方的这种大的这种像天然产物类型的公司。比如说像辉瑞、拜耳，像这样他们也是从原来发现的天然产物找到了，然后有一个一个明星的分子，要慢慢的把自己的蓝图又拓展到各个方向上面，包括像杜邦这样的过程。对他都是要经历这么一个过程。之前我们错过了这个过程，但现在的话这种新的技术给我们拉回到一个大约相对来讲比较平等的起跑线上面。有的可能说你在计算AI的技术上面先进一点，有的是在底盘的技术上面积累的丰富一点。但是可能大家现在并不是说谁比谁一下就强多少，大家的能力可能相对来讲是差不多的，综合打分差不多。所以现在就是谁能够在这种新的研究范式上面跑出来。你手里有足够多的化合物，然后你能生产足够多的东西，这样的话可能就会有一个快速成长的机会。
-</p>
-<p class="transcript-line">
-<span class="time"><strong>[00:50:53]</strong> </span>
-<span class="speaker"><strong>发言人1: </strong></span>
-刚才提到的这几个事情，比如说基因组学数据，AI对过往知识的综合性理解和正推，然后包括自动化，当然也包括对底盘细胞的改造，对细胞工厂或者底盘细胞的改造。所有这些事儿都放一块这个因素，我们就是这是范式。今年诺贝尔奖被披露之后，因为他有好几个跟AI有关的事儿。其中有一个是阿尔法fold蛋白质结构预测，在合成生物学或者在生物制造这个上，您觉得它会有一些所谓像阿尔法fold一样的这种我们叫基座模型。就是有一些这种通用范围比较宽的，但是适用性又很强的这种基础的AI计算模型，或者AI模型，或者AI预测模型的出现？还是各自输入了各自需要不同的这些方向的和维度的数据之后，来只是把AI当成一个纯工具，而不会有一个这种基础模型。这到底最后会往哪个方向去呢？
-</p>
-<p class="transcript-line">
-<span class="time"><strong>[00:51:48]</strong> </span>
-<span class="speaker"><strong>发言人2: </strong></span>
-首先我不是AI的专家，但我觉得你说的这两种情形都在发生，我觉得理论上面都是可行的。从生命的构成来讲，理论上应该会有一个统一的大模型，能够去应用到很多领域。从我上的最多的课在大学里面就是生物化学。他这里面所有的生命的基础，它的化学反应，其实我们目前至少在地球上面，我们已知的这个体系里面，它都是共用一套体系的。而不是说昆虫的它利用葡萄糖的这个过程，微生物利用葡萄糖过程跟我们人是完全不一样的。不是。
-</p>
-<p class="transcript-line">
-<span class="time"><strong>[00:52:29]</strong> </span>
-<span class="speaker"><strong>发言人2: </strong></span>
-从高速公路角度，从主干线的角度，大家都是一样的。只不过说有一些分支有一些不同。所以它从基本的原理来讲是一样的。所以从你第一个问题的话应该是可以。但是现在谁来做，谁能做的比较好，这个是我觉得挺有挑战性的。
-</p>
-<p class="transcript-line">
-<span class="time"><strong>[00:52:48]</strong> </span>
-<span class="speaker"><strong>发言人2: </strong></span>
-第二个，就是我相信没有人去排斥AI在具体大家去研究这个领域上面的应用。现在大家都是很去拥抱这种归纳性、经验性的东西，然后梳理出来一些体系来去帮助解决具体问题。那么就取决于你在具体解决问题的时候，你的数据的积累到底是什么样的。然后你能不能够把这些东西应用上来。特别在生物制造里面，在没这种元件，就是催化剂的每一上面，其实它可能是带来最快的变化。最大的变化其实目前可能已经在发生了，而且会发生的越来越多，这个会越来越快。比如以前我们做一个酶的改造，我们想说我让这个没反应的更快一点，或者我不想让它有一个副产物。
-</p>
-<p class="transcript-line">
-<span class="time"><strong>[00:53:40]</strong> </span>
-<span class="speaker"><strong>发言人2: </strong></span>
-到2018年的诺贝尔奖就是叫定向进化。你看没几年，定向进化的核心的理论就是我在一个单位时间单位点上面产生足够多的可能性。然后我用一种进化的手段来去把这些可能性进行筛选，然后得到一个我想要的美。但其实过了这么几年就可以OK我们这是进化的力量。但是我可以通过我把更多的已知的信息梳理出来，我可以让AI来帮我找到这里面变化的规律，可以很精准的去做这些改变的指导。这是完全两种研究的范式，在当下的话我认为都一起在跑的那未来可能发展到一定程度，可能越来越多的理性化的设计改造，会取得更多更好精准的结果。
-</p>
-<p class="transcript-line">
-<span class="time"><strong>[00:54:35]</strong> </span>
-<span class="speaker"><strong>发言人1: </strong></span>
-因为你也做了产学研，也做了科研，也做了科技，也做了公司。这个时候我们就纯粹当个CEO来问了。就是作为一个在科技行业的研究转换，并且把它产业化的创业者这个角色来看，在过去的这几年当中，你有什么心得体会？
-</p>
-<p class="transcript-line">
-<span class="time"><strong>[00:54:55]</strong> </span>
-<span class="speaker"><strong>发言人2: </strong></span>
-如果说我们做科学研究，你不是完全做理论性的，纯机理性的这种理论研究的，我们叫应用基础研究。我最大的体会是应该想尽办法去贴近市场。往往我们现在所谓的我们成果转化不是太好或者是怎么样，是因为我们并不知道市场需求什么。如果以一个目标为导向的这种研究的话，你会发现绝大多数的研究还是比较卷。为什么比较卷？就是大家做的东西非常雷同。是因为你可能你去做这个东西的时候，你是听文献的，或者听别人他也做这些东西，我觉得我做的会比你做的会更好。但是其实更多的是，如果你选择一个没人解决的问题，可能花更小的代价你就会获得更大的成功。
-</p>
-<p class="transcript-line">
-<span class="time"><strong>[00:55:50]</strong> </span>
-<span class="speaker"><strong>发言人2: </strong></span>
-那这种问题来自于哪？如果说你做这类研究，应用基础的研究，应该更好的去贴近实际的这种工业需求。在市场上面什么需求什么声音，然后你再回来去做科研，可能事半功倍。
-</p>
-<p class="transcript-line">
-<span class="time"><strong>[00:56:08]</strong> </span>
-<span class="speaker"><strong>发言人1: </strong></span>
-就按您的说法就是更不要去闭门造车。从我们投资角度来看的话，我不知道这在过去这差不多十几二十年的方向的。科研也好，上学研究也好，做博士博士后也好，做老师教授也好，做CEO也好，都是跟这个行业相关的。这么长时间以来，您觉得比较难的时间节点都通常都是什么事儿造成就。
-</p>
-<p class="transcript-line">
-<span class="time"><strong>[00:56:33]</strong> </span>
-<span class="speaker"><strong>发言人2: </strong></span>
-不同的阶段你有不同的难不同的难点。当然这些也是有规律可以去提炼的，可以总结的那在读博士的期间，你可能最大的难点就在于你解决问题的能力不足。我有个很明确的问题交给你，但是我并不能掌握说解决问题的方法和解决问题的思路。那么搞不定这件事情，到脖子后的这个过程，可能你更多的是选择的问题，那完全是最后决定你职业生涯发展的这么一个过程。那你对这些事物的认知跟方向的选择，就完全可能花同样的力气。别人做一个课题可能就是另外一份场景。那你要进入到一个从研究方法上面已经进入到平台期的，你可能花同样的努力，但是你就获得不了相应的回报。
-</p>
-<p class="transcript-line">
-<span class="time"><strong>[00:57:27]</strong> </span>
-<span class="speaker"><strong>发言人2: </strong></span>
-如果说走学术界的话，还是在初期建立你的课题组的时候，建立实验室的那几年是人生最艰难的时期。就是你既要又要还要，就是你所有的东西都得打满。你既要花时间去想办法怎么获得研究经费，你又要静下心来要带学生，要解决问题，你要不要选择问题种种。如果说你做的是应用技术研究还是那点，如果你能够在那个时间就找到一个别人没有解决的问题，然后你能看到，然后你做的时候是别人还没有做进去的。因为在那个点上面，你的资源肯定是比其他人少的，你要跟别人去竞争的话，肯定是在一个弱势的情况下。但是如果说你做这个东西是正好别人没有touch的，那么你获得成功的可能性就要大很多。如果你进入到一个大家都已经很卷的这么一个方向上面，那你在你有限的资源里面你就会过得更艰难。
-</p>
-<p class="transcript-line">
-<span class="time"><strong>[00:58:32]</strong> </span>
-<span class="speaker"><strong>发言人1: </strong></span>
-所以还有一个小问题是，自从国家定了这个未来产业规划，就包括低空经济生物制造之外，我不知道定完之后这个政策有没对你产生影响和变化。就对这个行业另外一个与之相关的小问题是，今天不管是做科研还是做公司，您觉得您现在最需要的这个合作或者资源类型是什么样的？
-</p>
-<p class="transcript-line">
-<span class="time"><strong>[00:58:52]</strong> </span>
-<span class="speaker"><strong>发言人2: </strong></span>
-前面一个问题就是目前到我这个层面上还没有感觉到特别大的变化。但是确实能感觉到大家对这个事儿非常重视了，非常关注了。但是谈到具体的一件事情上面或什么，我们还是在脚踏实地的在前进。第二个事情是说还是出口，就是你应用的出口。
-</p>
-<p class="transcript-line">
-<span class="time"><strong>[00:59:17]</strong> </span>
-<span class="speaker"><strong>发言人1: </strong></span>
-就更多。
-</p>
-<p class="transcript-line">
-<span class="time"><strong>[00:59:18]</strong> </span>
-<span class="speaker"><strong>发言人2: </strong></span>
-的需求，而且这种需求是确定的。确定也就是说目前当下我认为把一个东西做做出来是其实在我们这不难。不是难的是说你做出来的东西能够形成闭环，能够形成一个产业规模。就你做的东西能够顺利的卖出去，争取能做到你做出来多少你能卖出去多少，这是一个perfect的状态。但是往往是这个通路不畅通，就是你认为你做的东西是个重要的，但是你做出来你会发现他不用你不用你有很多种原因。
-</p>
-<p class="transcript-line">
-<span class="time"><strong>[00:59:53]</strong> </span>
-<span class="speaker"><strong>发言人1: </strong></span>
-明白。所以它这个不光是个需求问题，因为它里面还有很多的链条环节，生产工艺，包括对上下游的影响，也包括上下游的利益链条构成所有这些事儿。所以您讲的这个在这个时间点上，在各种所谓对天然产物的各种需求当中，在上下游的匹配里凑巧出现了一些问题。不管是觉得原来的贵，觉得原来的少，觉得原来的不好，觉得原来的精度或者纯度不够，或者供应太散不能及其中等等。当他们出现这些问题的时候，这些有需求的代表方，他们凑巧想找到一些替换，并且足够大的动力来找到一些替换路线。出于它的好、出于它的便宜、出于它的集中、出于它的稳定和出于它的纯度等等。是的。
-</p>
-<p class="transcript-line">
-<span class="time"><strong>[01:00:38]</strong> </span>
-<span class="speaker"><strong>发言人2: </strong></span>
-ok这个其实还挺难找的。你如何能够感受到市场的这种强烈的需求。然后你又要在很短的时间内在他的需求没有被满足之前，你把这件事情。
-</p>
-<p class="transcript-line">
-<span class="time"><strong>[01:00:53]</strong> </span>
-<span class="speaker"><strong>发言人1: </strong></span>
-做成切进去。如果大家在听众当中有人凑巧跟这个行业有关系，也了解需求，也欢迎跟我们联系。我们来转给刘老师，既满足又挑战他的这个产学研当中把东西做出来，并且把东西做好，能够用起来的这个需求。
-</p>
-<p class="transcript-line">
-<span class="time"><strong>[01:01:12]</strong> </span>
-<span class="speaker"><strong>发言人1: </strong></span>
-特别感谢刘老师来花了这么长时间跟我们讨论今天对中国来讲很重要的未来产业之一这个生物制造。既讲了来龙去脉，又讲了今天全世界在这个方向上的竞争相对状况，也讲了往未来去什么事情是最可期和可能会有很大变化。在这个未来产业的基础上，当然也包括刘老师自己在不管是原来当学生科研，还是今天做产业的所有过程当中的一些个人感悟和体会了。多谢刘老师的时间。
-</p>
-<p class="transcript-line">
-<span class="time"><strong>[01:01:47]</strong> </span>
-<span class="speaker"><strong>发言人2: </strong></span>
-谢谢彭总，好。
-</p>]]></content:encoded>
-            <pubDate>Wed, 04 Dec 2024 01:00:00 GMT</pubDate>
-            <guid>674ec76217cd5416ad19f01b</guid>
         </item>
     </channel>
 </rss>
