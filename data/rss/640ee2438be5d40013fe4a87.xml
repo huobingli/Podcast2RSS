@@ -4,7 +4,986 @@
         <title>硬地骇客</title>
         <link>https://www.xiaoyuzhoufm.com/podcast/640ee2438be5d40013fe4a87</link>
         <description>一起探讨技术、产品和商业之美</description>
-        <lastBuildDate>Mon, 04 Aug 2025 02:44:07 +0800</lastBuildDate>
+        <lastBuildDate>Fri, 08 Aug 2025 02:15:08 +0800</lastBuildDate>
+        <item>
+            <title>EP110 对话 Saga：红海市场的破局指南 — 你的用户不在多，在于“付费密度”有多高</title>
+            <link>https://www.xiaoyuzhoufm.com/episode/6893a2ae638b01587952b3cf</link>
+            <description>本期《硬地骇客》请到独立开发者 Saga Su，他用几款出海工具已赚超百万美元。听 Saga 聊，你会发现，大厂不碰的“小生意”，才是你的金矿。他将分享如何从用户抱怨中挖出垂直需求，利用AI搞定市场调研，甚至还有他独家的“海王应用”案例。Saga 强调，别光看用户量，更要关注付费密度！想知道他那套“快速失败”的执行计划吗？经验满满，干货拉满！
+本期嘉宾：
+SagaSu：做了10年B端产品，操盘过亿级用户的项目。2年前开始出海，目前有4款产品，ROI都在2倍以上。累积营收超过1M美金。我比较习惯站在用户角度去发现真实需求，然后用最简单的方式解决问题。今天想和大家聊聊出海这两年踩过的坑和一些心得，希望对正在出海或准备出海的朋友有帮助。
+本期精华抢先看：
+* 独立开发者在红海市场中通过满足特定人群的垂直需求，可以获得正反馈和良好收益。
+* 大公司通常不关注市场规模仅为百万美元级别的垂直市场，这为小型独立开发者团队提供了机会。
+* 相比于追求用户规模，更应关注真正付费用户的密度，即实际愿意为产品或服务付费的用户数量。
+更多内容信息和时间线参考下文的硬地笔记，欢迎收听本期节目。
+本shownotes由castwise.ai制作
+本期赞助
+Podwise.ai - Podcast knowledge at 10x speed 🚀
+Apple Store 下载👉🏻 apps.apple.com
+硬地笔记
+00:00:04节目介绍与嘉宾引言
+00:01:19红海市场中的机会与垂直需求
+00:05:05大厂不做小众市场的原因
+00:07:50如何用小而精的产品吸引客户
+00:10:14瞄准红海市场中的 “锤类” 生意
+00:12:11“海王应用” 案例分析
+00:17:09“海王应用” 用户画像与市场规模
+00:19:43利用 AI 进行市场调研
+00:23:27如何将痛点转化为付费用户
+00:27:25竞争对手分析与市场机会判断
+00:33:35市场容量预估与付费密度
+00:37:29付费密度与垂直市场优势
+00:40:51产品定价策略
+00:44:22三档定价策略与精准用户
+00:46:59如何触达特定人群
+00:49:22批量寻找机会的思路
+00:53:02机会判断标准与常见坑
+00:57:31快速失败的执行计划
+扩展笔记：castwise.ai
+欢迎关注我们
+* 知识星球: t.zsxq.com
+* 官网: hardhacker.com
+* 小手册: book.hardhacker.com
+* 用爱发电不容易，请我们喝咖啡☕️: afdian.net
+* 公众号/小红书: 硬地骇客
+* 商务合作: hardhackerlabs@gmail.com
+* 另外，现在加入「硬地骇客」会员服务，即可在会员专属的微信群与其他朋友一起畅所欲言，成为会员也是对我们持续更新最大的鼓励！</description>
+            <content:encoded><![CDATA[<h1>转写链接</h1>
+<link>https://tongyi.aliyun.com/efficiency/doc/transcripts/dexp9jm52xpk95ol</link><br>
+<h1>节目摘要</h1>
+<div class="summary">本期播客聚焦AI技术在内容分发和理解领域的创新应用，特别介绍了名为Auto Wise的AI学习软件，它能自动化处理、分析并总结播客内容，助力听众更高效地吸收信息。讨论亦深入探讨个人开发者如何在竞争激烈的市场中捕捉小众需求，创造出高价值产品，强调了市场调研、用户反馈在产品验证与优化中的重要性。强调持续创新、精准定位市场痛点及提供高质量解决方案是成功的关键，实际案例分享展示了这些策略在具体市场环境中的有效实施。</div><br>
+<h1>章节速览</h1>
+<div class="chapters">
+<div class="chapter-item">
+<span class="time"><strong>[00:00:00]</strong> </span>
+<span class="chapter-title"><strong>红海市场中的独立开发者机遇</strong></span>
+<div class="chapter-summary">对话围绕独立开发者在红海市场寻找机会展开，提到一位开发者通过持续输出出海工具已获百万美金营收，强调站在用户角度解决真实需求的重要性，探讨垂直市场和红海市场中独立开发者的机会。</div>
+</div>
+<div class="chapter-item">
+<span class="time"><strong>[00:01:57]</strong> </span>
+<span class="chapter-title"><strong>红海市场中的垂类机会：独立开发者的破局之道</strong></span>
+<div class="chapter-summary">讨论了在能力有限的情况下，独立开发者应如何在被验证过的红海市场中寻找垂直领域的未满足需求，而非盲目追求高难度的蓝海市场。强调了记账、笔记、待办事项等品类虽属红海，但其中蕴含大量未被充分挖掘的垂直需求，可作为独立开发者的突破口。</div>
+</div>
+<div class="chapter-item">
+<span class="time"><strong>[00:03:45]</strong> </span>
+<span class="chapter-title"><strong>工具与服务如何提升用户付费意愿</strong></span>
+<div class="chapter-summary">通过提供高效记账工具和服务，帮助用户节省时间并增加收入，可显著提高其付费意愿，尤其是对于小企业主和自由职业者，这类解决方案的价值远超传统3%-5%的付费意愿。</div>
+</div>
+<div class="chapter-item">
+<span class="time"><strong>[00:05:04]</strong> </span>
+<span class="chapter-title"><strong>小团队与大厂在市场选择上的差异</strong></span>
+<div class="chapter-summary">对话讨论了小团队与大厂在市场选择上的根本差异。大厂倾向于追求大规模市场，以实现高利润和快速增长，而小团队则能灵活应对小众市场，这些市场对大厂来说规模太小，不具吸引力。小团队因深入了解用户需求，具备先发优势，不易被大厂取代。</div>
+</div>
+<div class="chapter-item">
+<span class="time"><strong>[00:07:47]</strong> </span>
+<span class="chapter-title"><strong>如何用细分产品吸引客户并整合大厂需求</strong></span>
+<div class="chapter-summary">讨论了小而尖的产品如何吸引客户，特别是在大厂产品已满足大部分需求的情况下。提出了通过解决大厂未覆盖的细分需求，如管理多个Reddit账号的服务，来吸引高付费意愿的客户。强调了产品需处于非灰色地带，解决用户实际痛点，从而实现与大厂产品的互补。</div>
+</div>
+<div class="chapter-item">
+<span class="time"><strong>[00:09:46]</strong> </span>
+<span class="chapter-title"><strong>通过用户抱怨发现商机与建立服务壁垒</strong></span>
+<div class="chapter-summary">对话强调了通过观察用户在论坛上的抱怨来发现未满足需求，并以此开发简单工具或服务以吸引客户付费的重要性。成功的关键在于快速获得正反馈，建立服务壁垒，以及提供持续价值，而非一次性销售策略，从而在竞争中脱颖而出。</div>
+</div>
+<div class="chapter-item">
+<span class="time"><strong>[00:11:46]</strong> </span>
+<span class="chapter-title"><strong>红海市场中的垂类机会：海王应用案例</strong></span>
+<div class="chapter-summary">通过分析金牌销售与情感海王的需求，发现了一个在红海市场中的垂类机会，即开发一个能高效管理客户关系、保护隐私、减轻记忆负担的应用。该应用不仅满足了销售管理客户的需求，也解决了情感海王在多段关系中时间管理的难题。这一发现源于对用户在社交论坛上抱怨的深入挖掘，特别是针对谷歌日历管理功能的不足，从而提炼出具体需求并提出解决方案。</div>
+</div>
+<div class="chapter-item">
+<span class="time"><strong>[00:14:40]</strong> </span>
+<span class="chapter-title"><strong>客户需求与应用开发的挑战与机遇</strong></span>
+<div class="chapter-summary">讨论了在跨地区客户管理中遇到的时间冲突和隐私泄露问题，以及海王关系管理的特殊需求。指出大厂因伦理敏感性和用户群体小众化而不愿涉足，而小团队可能更快开发出满足特定用户群体需求的应用。通过市场调研明确了目标用户的行为和生物属性特征，为应用开发提供了方向。</div>
+</div>
+<div class="chapter-item">
+<span class="time"><strong>[00:19:20]</strong> </span>
+<span class="chapter-title"><strong>AI辅助市场调研与用户画像构建</strong></span>
+<div class="chapter-summary">通过AI工具如OpenAI、Cloud和DBC进行深度调研，整合用户负面情绪数据，快速生成市场调查报告，有效识别目标人群的生物属性、行为属性及付费意愿，保守估计全球有约100万人的需求，验证了市场需求的真实性与规模，为小团队市场开发提供了数据支持。</div>
+</div>
+<div class="chapter-item">
+<span class="time"><strong>[00:22:52]</strong> </span>
+<span class="chapter-title"><strong>AI调研与痛点转化为付费用户的策略</strong></span>
+<div class="chapter-summary">讨论了利用AI进行多源研究以提高结果可信度的方法，以及如何将识别到的用户痛点有效转化为实际付费用户，强调了从用户反馈中提炼需求并验证解决方案价值的重要性。</div>
+</div>
+<div class="chapter-item">
+<span class="time"><strong>[00:23:54]</strong> </span>
+<span class="chapter-title"><strong>通过MVP和社群营销获取首批用户策略</strong></span>
+<div class="chapter-summary">对话讨论了通过创建最小可行产品（MVP），如制作落地页、录制产品演示视频，以及在社群中发起红包活动来收集用户反馈，以此验证产品需求的真实性并吸引首批用户和客户的方法。强调了从用户抱怨中提炼真实需求的重要性，以及利用学习页面收集反馈以优化产品策略的高效性。</div>
+</div>
+<div class="chapter-item">
+<span class="time"><strong>[00:27:24]</strong> </span>
+<span class="chapter-title"><strong>竞争调研与市场机会探讨</strong></span>
+<div class="chapter-summary">讨论了对海王应用的竞对调研，指出即便存在类似产品如Polar Life应用曾尝试但停服，市场与用户需求依然存在，强调了从失败产品中学习经验的重要性，以及大规模平台如Google、Outlook、苹果等未涉足的原因分析。</div>
+</div>
+<div class="chapter-item">
+<span class="time"><strong>[00:29:07]</strong> </span>
+<span class="chapter-title"><strong>分析Polly Life停服原因及产品开发警惕</strong></span>
+<div class="chapter-summary">讨论通过分析Polly Life的更新日志和用户反馈，指出其失败原因包括功能冗余和未满足用户需求。强调产品开发中应避免盲目追求功能全面，重视用户体验和市场需求分析，警惕仅凭产品外观或功能设想优于竞品的误区。</div>
+</div>
+<div class="chapter-item">
+<span class="time"><strong>[00:33:34]</strong> </span>
+<span class="chapter-title"><strong>市场容量预估与付费用户密度分析</strong></span>
+<div class="chapter-summary">讨论了市场容量预估的非传统算法，强调付费用户密度的重要性。通过失败案例，指出小团队应关注真正愿意付费的用户数量，而非单纯追求市场规模。建议在市场调研中直接询问潜在客户的付费意愿，避免免费引流后再付费的策略，提倡从上线第一天就明确付费应用定位。</div>
+</div>
+<div class="chapter-item">
+<span class="time"><strong>[00:37:28]</strong> </span>
+<span class="chapter-title"><strong>垂类市场与付费密度探讨</strong></span>
+<div class="chapter-summary">对话围绕垂类市场中付费密度的确认方法展开，强调垂直市场的用户付费意愿通常高于通用市场。通过案例分析，如特定品牌手机壳的高价策略，阐述了设计、目标群体定位及心理锚定对提高付费密度的重要性。讨论了在垂类应用开发中，如何设定合理定价以吸引高付费密度用户群体。</div>
+</div>
+<div class="chapter-item">
+<span class="time"><strong>[00:41:03]</strong> </span>
+<span class="chapter-title"><strong>海外应用定价策略与心理定价效应</strong></span>
+<div class="chapter-summary">讨论了海外应用的定价逻辑，强调应基于价值而非成本定价，以体现专业性和优质服务。建议避免低价策略，通过分层定价（免费、基础、企业级）吸引不同用户群体，同时利用心理定价效应提升产品感知价值。</div>
+</div>
+<div class="chapter-item">
+<span class="time"><strong>[00:45:54]</strong> </span>
+<span class="chapter-title"><strong>精准用户定位与价值定价策略探讨</strong></span>
+<div class="chapter-summary">讨论了按价值定价的逻辑，强调了精准用户定位的重要性。提出两种触达特定人群的方式：自我宣发和从竞争对手处挖客户，后者通过分析用户反馈或评论区信息来实现，被认为是一种高效且常见的商业策略。</div>
+</div>
+<div class="chapter-item">
+<span class="time"><strong>[00:49:40]</strong> </span>
+<span class="chapter-title"><strong>批量寻找市场机会的策略与方法</strong></span>
+<div class="chapter-summary">讨论了通过观察用户抱怨、生活技巧分享和工具差评来识别市场需求的方法，以及利用外包服务验证需求真实性，最终实现市场机会的批量发现。</div>
+</div>
+<div class="chapter-item">
+<span class="time"><strong>[00:53:28]</strong> </span>
+<span class="chapter-title"><strong>评估项目可行性与避免过度投入的方法</strong></span>
+<div class="chapter-summary">讨论了评估潜在项目或需求的五个关键点，包括目标用户付费能力、需求痛点强度、竞争对手缺陷、解决方案的简易性以及获客成本的稳定性与可控性。强调在项目启动前使用checklist清单验证项目可行性，避免因头脑发热而过度投入资源，建议在冷静思考后再次评估项目的价值。</div>
+</div>
+<div class="chapter-item">
+<span class="time"><strong>[00:57:18]</strong> </span>
+<span class="chapter-title"><strong>创业项目快速止损策略：三个关键阶段</strong></span>
+<div class="chapter-summary">对话围绕创业项目如何快速判断是否应继续推进展开，提出了三个阶段的评估方法：验证阶段关注于获取100个愿望清单或10个明确付费意向的用户；开发与宣发阶段需在两月内达成100个付费用户目标；增长阶段则看付费用户数是否能从20增至1000。若任一阶段未达标，建议快速调整或放弃，以避免资源浪费。强调最终衡量标准为用户付费意愿，而非单纯用户量。</div>
+</div>
+<div class="chapter-item">
+<span class="time"><strong>[01:02:07]</strong> </span>
+<span class="chapter-title"><strong>垂直市场与付费密度：创新而非模仿</strong></span>
+<div class="chapter-summary">讨论了垂直市场中高付费密度用户的重要性，强调不应盲目模仿他人产品，而应发掘身边有价值的需求，通过创新满足这些需求以实现盈利。提到了成功案例和失败的模仿者，建议创业者专注于细分市场，开发如插件等轻量级产品，以实现商业成功。</div>
+</div>
+</div><br>
+<h1>问题回顾</h1>
+<div class="qa-item">
+<div class="question"><strong>Q:</strong> SGA，你之前提到在红海市场中找机会，这是怎么得出的结论？是否意味着我们要去做独立开发者三件套（记账、笔记、to do list）？那么对于独立开发者的三件套，你怎么看待它们在红海市场中的表现？</div>
+<div class="answer"><strong>A:</strong> 其实不是反驳之前的观念，而是说作为独立开发者，我们的能力和资源有限，不适合做像GPT5这样的大型项目。红海市场已经被验证过，我们可以在这个领域寻找垂类市场，满足特定人群的需求。这些工具每年都有优秀作品出现，并且能够获得很好的收益，说明这些市场足够大、已被验证并且有大量的未被满足的需求。在红海市场中找寻垂直需求，可以帮助我们达到正反馈效果。</div>
+</div>
+<div class="qa-item">
+<div class="question"><strong>Q:</strong> 如何确认大厂不会回过头来开发这部分市场？</div>
+<div class="answer"><strong>A:</strong> 大厂主要是追求大规模增长和利润，他们不会关注市场份额较小的市场。例如，腾讯或飞书这样的大厂服务的是千万级甚至亿级的市场，而小团队则可以聚焦在相对较小但有高付费意愿和未被充分满足需求的垂类市场。</div>
+</div>
+<div class="qa-item">
+<div class="question"><strong>Q:</strong> 在红海市场中定位小而尖的产品时，如何吸引客户并将其转化为付费用户？</div>
+<div class="answer"><strong>A:</strong> 可以通过社交媒体宣传、论坛互动等方式接触客户，了解他们的痛点和抱怨，并通过提供便捷高效的解决方案来吸引他们。同时，还可以通过观察社区中用户的不满和需求，进一步开发相关工具和服务来满足这些细分需求。</div>
+</div>
+<div class="qa-item">
+<div class="question"><strong>Q:</strong> 你觉得在红海市场中找到垂类并开展业务是否是一个好生意？</div>
+<div class="answer"><strong>A:</strong> 如果团队规模较小（1-5人），并且能够快速获取正反馈和盈利，那么这样的生意可以被认为是好生意。关键是要找准自己的定位，建立壁垒，提供让用户愿意继续付费的独特价值。</div>
+</div>
+<div class="qa-item">
+<div class="question"><strong>Q:</strong> 海王应用是什么？</div>
+<div class="answer"><strong>A:</strong> 海王应用是指一种能够帮助用户高效管理客户信息、保护隐私，并有效处理复杂多变的客户关系的应用。例如，一个金牌销售可能拥有大量客户，需要一个能详细记录所有客户信息、确保绝对隐私且能减轻其记忆负担的工具。此外，在情感层面上，它还涉及帮助用户处理多个情感关系间的秘密保持与时间管理。</div>
+</div>
+<div class="qa-item">
+<div class="question"><strong>Q:</strong> 如何发现并识别这类用户需求？这类用户群体的主要特征是什么？</div>
+<div class="answer"><strong>A:</strong> 通过浏览社交论坛如Reddit和Twitter，关注用户在抱怨中的具体需求，例如谷歌日历管理无法满足客户管理的需求。从用户的讨论中总结出痛点，如多地区客户会议时间冲突、信息保密需求等。这类用户主要集中在25至44岁，年收入7万至12万美元左右，拥有大学学历，多为技术岗、创意岗或管理岗人员。他们通常需要管理2至5个复杂的社交关系，每周进行3至4次社交活动，每天手机使用时间超过6至7小时。</div>
+</div>
+<div class="qa-item">
+<div class="question"><strong>Q:</strong> 关于用户群体规模的数据来源和统计情况如何？</div>
+<div class="answer"><strong>A:</strong> 数据来源于利用AI技术进行市场调研，通过分析用户抱怨的信息，结合搜索引擎及数据库模型提供的信息，得出用户画像和市场规模。经过对比验证，发现在全球范围内有约100万人符合这一用户群体特征，足以支撑一个3至5人的小团队进行市场运营。</div>
+</div>
+<div class="qa-item">
+<div class="question"><strong>Q:</strong> 调研过程中如何运用AI工具进行信息收集和整理？</div>
+<div class="answer"><strong>A:</strong> 利用OpenAI等模型厂商提供的deep research概念，让AI帮助收集和整理用户抱怨的信息，并根据这些反馈来分析用户的付费点和需求。通过横向对比多个AI模型的结果，以及参考市场报告和社交媒体上的相关抱怨数据，最终确定了用户属性分析和市场需求的真实性。</div>
+</div>
+<div class="qa-item">
+<div class="question"><strong>Q:</strong> 如何获取早期用户反馈并避免推广伪需求？如何通过竞对调研来确保产品切入点和验证市场需求？</div>
+<div class="answer"><strong>A:</strong> 我会在制作产品后谦虚地向公众展示，并邀请他们帮我挑刺儿，保持低调而不是炫耀产品。同时，通过加入各种社群，如Facebook群组、Discord群等，发放红包鼓励成员提供反馈。这样，真实需求会被用户的质疑和建议所验证，避免了推广伪需求。首先，确认市场需求并非伪需求，通过收集用户抱怨、观察痛点来找到真实需求。然后，进行竞对调研，即使市场上已有类似产品，也应视为有利之处，因为这意味着商业验证和需求已得到一定认可。通过分析竞争对手的产品功能、用户反馈及市场表现，可以了解到潜在的机会和风险，从而优化自身产品。</div>
+</div>
+<div class="qa-item">
+<div class="question"><strong>Q:</strong> 在做产品经理时，如何运用MVP原则进行产品推广？</div>
+<div class="answer"><strong>A:</strong> 我会采用两个主要步骤。首先，制作一个落地页，从用户角度清晰地告诉他们产品能提供什么，并且站在用户立场上阐述他们能从产品中获得什么。其次，制作产品原型并录制视频演示，让潜在客户能够直观理解产品的功能和效果。</div>
+</div>
+<div class="qa-item">
+<div class="question"><strong>Q:</strong> 如何通过竞争对手的情况调整和完善自身产品策略？</div>
+<div class="answer"><strong>A:</strong> 通过分析竞争对手的更新日志、用户评论和反馈，了解他们的成功与失败之处，例如过度复杂化产品导致用户流失，或者新增功能与原有功能的冲突，以及对用户体验造成的影响。以此为鉴，避免重蹈覆辙，并根据用户实际需求来设计和改进产品。</div>
+</div>
+<div class="qa-item">
+<div class="question"><strong>Q:</strong> 对于市场容量预估，您是如何进行评估的？</div>
+<div class="answer"><strong>A:</strong> 我关注的是付费用户的密度而非市场规模，更关心的是如何从零开始获取并保持高比例的付费用户。相比常规算法中对整体市场潜力的估算，我更注重于如何通过精准定位和运营策略触及并转化目标用户群体。</div>
+</div>
+<div class="qa-item">
+<div class="question"><strong>Q:</strong> 在市场调研阶段，如何确定潜在客户群体的付费意愿？</div>
+<div class="answer"><strong>A:</strong> 在调研时，直接去询问目标用户群是否愿意为某个服务或产品付费，通过这种方式识别出愿意付费的潜在客户。一旦发现有足够数量的人愿意支付，那么这个群体就是有价值的。我坚持一个观点，即不应依赖免费引流再付费的模式，而是应该一开始就明确应用是付费的，并提供免费套餐作为钩子。</div>
+</div>
+<div class="qa-item">
+<div class="question"><strong>Q:</strong> 小团队如何建立用户对付费应用的心理认知？</div>
+<div class="answer"><strong>A:</strong> 小团队应明确地告诉用户这是一个付费应用，并提供免费套餐，但要让用户明白完整功能都在付费功能中，以此建立用户对于付费的合理认知。</div>
+</div>
+<div class="qa-item">
+<div class="question"><strong>Q:</strong> 如何确认一个市场的付费密度较高？</div>
+<div class="answer"><strong>A:</strong> 付费密度的确认依赖于找准垂直市场，垂类市场的付费密度通常会比通用市场高。比如海王应用这类服务，由于大厂未涉足或个体团队未能做好，导致用户对能满足其需求的产品有更高的付费意愿。因此，找准并定位垂直市场是确认高付费密度的关键。</div>
+</div>
+<div class="qa-item">
+<div class="question"><strong>Q:</strong> 对于垂类应用，定价策略应如何考虑？</div>
+<div class="answer"><strong>A:</strong> 垂类应用定价应按价值定价，而不是成本定价。要根据产品为用户节省的时间价值或者带来的商业价值来定价，而不是简单地参照成本加成。例如，若产品能为用户节省1小时的工作时间，且用户时薪较高，则可考虑将其定价在能体现其价值的价格点上，如49美刀一个月。</div>
+</div>
+<div class="qa-item">
+<div class="question"><strong>Q:</strong> 如何有效触达特定的付费人群？</div>
+<div class="answer"><strong>A:</strong> 首先需要精确描绘出目标客户群体的用户画像，了解他们的行为习惯和消费习惯。然后有两种触达方式：一是通过正向推广，如撰写软文、博客，制作视频等方式进行自我宣发引流；二是从竞争对手那里挖掘潜在客户，利用竞争对手客户的不满情绪和需求来吸引他们转向自己产品。</div>
+</div>
+<div class="qa-item">
+<div class="question"><strong>Q:</strong> 在小红书上，商家如何通过“节流”方式吸引用户？</div>
+<div class="answer"><strong>A:</strong> 商家会在竞争对手内容下挖掘潜在客户，比如发布一个产品后，指出另一个产品可能更适合用户，这种做法在商业上很常见且有效，最怕的是被举报。</div>
+</div>
+<div class="qa-item">
+<div class="question"><strong>Q:</strong> 你是否有一些批量寻找红海市场中机会的思路和方法？</div>
+<div class="answer"><strong>A:</strong> 可以先培养网感，去竞争对手活跃的平台如Reddit、Twitter、小红书等看大家在抱怨什么，尤其是生活小技巧和工具使用技巧分享的内容，通过分析用户的评论来发现需求点，并对比竞争对手的产品和服务，进一步找出差异化的竞争优势。</div>
+</div>
+<div class="qa-item">
+<div class="question"><strong>Q:</strong> 如何判断一个市场需求是否真实并具备商业潜力？</div>
+<div class="answer"><strong>A:</strong> 可以参考五个判断标准：目标用户是否有付费能力和意愿；需求痛点是否足够强烈影响用户行为；是否存在友商明显缺陷或未被很好解决的需求部分；能否以简单方便的方式解决大部分需求；获客成本是否稳定可控。如果三个以上问题是否定的，则认为实施成本过高。</div>
+</div>
+<div class="qa-item">
+<div class="question"><strong>Q:</strong> 如何设置止损点，在项目失败时及时止损并转向下一个项目？</div>
+<div class="answer"><strong>A:</strong> 根据不同的阶段设定止损点，例如垂类小需求的验证阶段，在第一周到第二周内通过落地页配置获取100个邮箱订阅者或明确表示愿意付费的用户，若达不到目标则需停止该项目。之后在一个月内尽可能完成开发与宣发，目标是达到100个付费用户，根据产品定价和成本计算出合理的止损金额。在增长阶段，持续增长用户数，若未能达到预设目标，则需要快速调整策略或放弃该项目。</div>
+</div>
+<h1>节目文稿</h1>
+<p class="transcript-line">
+<span class="time"><strong>[00:00:04]</strong> </span>
+<span class="speaker"><strong>发言人1: </strong></span>
+大家好，欢迎收听异地骇客。我是seattle，我是一笑，我是龟龟。本期节目由power wise赞助播出。Auto wise是一款为播客听众制作的AI学习软件产品的slogan是read before listen。Auto wise通过AI对播客内容进行转录提取、总结分析等一系列操作，帮你掰开了揉碎了硬核的播客内容。同时与notion read a wise等平台的打通，嵌入知识管理工作流，协助您的其他包括新闻news letter blog的内容，帮你打造第二大脑。Hot wise也为本期听众准备了三个5折优惠码，针对本期在小宇宙与我们互动的精选回复，欢迎大家踊跃来玩。
+</p>
+<p class="transcript-line">
+<span class="time"><strong>[00:00:46]</strong> </span>
+<span class="speaker"><strong>发言人1: </strong></span>
+好的，那开始我们本期的节目。本期我们非常开心迎来了我们的老朋友sga，他之前做客我们节目讲述web coding产品AI mega translator的神迹还历历在目，真的让我大开眼界。这刚过去半年多通我持续的输出发布了多款出海工具，已经赚了超过100万美金了。我们以前一直说印太克别去人多的地方，但是sga前两天跟我说，他说还是要去红海里面找机会。我当时我就懵了，所以我赶紧说乐器播客让他展开来讲一讲。我们就不讲那么多了，三个先给大家来打个招呼。
+</p>
+<p class="transcript-line">
+<span class="time"><strong>[00:01:19]</strong> </span>
+<span class="speaker"><strong>发言人2: </strong></span>
+嗨大家好，我是阿克苏，简单做一下自我介绍，就是以防别人不知道。我做过十年B端的产品，然后操盘过亿级用户的项目，然后两三年前开始做出海的项目。目前大概有45款的出海的产品，RY基本上在两倍以上，累计已经达到了100万美金的营收。我自己个人的话比较习惯站在一个用户的角度去看真实的需求是什么，而不是一个伪需求。然后最好用简单的方式帮用户去解决这个问题，这样的话成就感比较高。今天的主要是想跟大家再聊一下，就是说所谓的垂直市场，或者说所谓的红海市场里面还有没有我们独立开发者，或者说我们个人开发者的一个机会在这里。
+</p>
+<p class="transcript-line">
+<span class="time"><strong>[00:01:57]</strong> </span>
+<span class="speaker"><strong>发言人1: </strong></span>
+OK我就想问一下三哥，我们之前其实都在讲说要去找niche market，就是要去找立即市场。你是怎么得出这个结论说要去红海市场里面找机会的？我们以前一直在给大家讲说不要去做独立开发三件套，你这个等于是给大家说我们还是要去做独立开发者三检讨什么记账笔记to do是吧？
+</p>
+<p class="transcript-line">
+<span class="time"><strong>[00:02:16]</strong> </span>
+<span class="speaker"><strong>发言人2: </strong></span>
+其实是这样，不是说是反驳你一个反差的概念。就是说你看比如说我们现在独立开发者，我做一个定义，比如说我一个人或者说我跟三四个差不多跟我能力差不多的人，我们组一个小团队，那么我们这几个人的能力没有办法去做出一个GPT5，这是不可能的。你说GPT5是不是一个蓝海市场，是完全是没问题的。但是我们的能力和财力和各方面的能力是有限的，我们没法去做。而且那个市场有没有被验证过，大家是不知道的对吧？对，所以说我的点就是在于，既然红海市场是被验证过了以后，我们是有没有可能在这个里面去找垂类。因为大家一直在说，我们要去做利基市场的each marketing，我们要在垂直领域里做。
+</p>
+<p class="transcript-line">
+<span class="time"><strong>[00:03:00]</strong> </span>
+<span class="speaker"><strong>发言人2: </strong></span>
+然后这儿就会引出一个问题，就是所有的独立开发者就是说网上嘲讽的一个梗。就是说独立开发的三件套，记账笔记to do list对吧？然后那是但是你会发现每年都有这三类品类的工具的一些我们叫优秀作品也好，明星级作品出来，而且能拿到很好的一个收益在这里。那说明一这个市场足够大。第二这个市场是被验证过的。第三它有大量的需求是没有被满足的。所以说我会非常推荐，这些是属于是个人都知道他的一些刚性需求是什么，但是他不知道他的垂直需求是什么。所以你在这块儿的话，就是说你去找特定人群的垂直需求，那就是可以达到你的正反馈。
+</p>
+<p class="transcript-line">
+<span class="time"><strong>[00:03:45]</strong> </span>
+<span class="speaker"><strong>发言人2: </strong></span>
+比如说我举个比较简单的例子，就是说我们说记账，现在是个人都能做记账。我自己最早记账是什么？就是纸跟笔记。我后面觉得麻烦，我觉得上这玩意儿不是一个excel表格就搞定了吗？我还要那么多东西干什么？
+</p>
+<p class="transcript-line">
+<span class="time"><strong>[00:03:57]</strong> </span>
+<span class="speaker"><strong>发言人2: </strong></span>
+但是实际上就会发现，可能比如说自由职业者或者自己的那种个体户，他去记账的时候，他记得不只是说是支出和收入。他可能还有一些税务的问题，对吧？还有一些开票的问题，还有一些补助的问题。那这些的话可能就是说你让他去拿一个excel表格能不能做，能学习成本很高。那他的注意力和他的重心是放在哪里？是放在我如何更快的去获得订单赚钱。而不是就说我花个一两个月的时间，我做一个这个产品出来，那我就没收入了。所以说假如有这样的一个工具或者服务能满足他，那他肯定愿意给钱。所以你看这个举例就是最早的，比如说财务管理软件的，就是它的一个初衷就是在这里就是给很多大量的小企业主们节省时间，让他去赚更多的钱。所以这就引出了一个很很关键的概念，就是说你帮你的用户去能赚更多钱或者省时间的时候，他的付费意愿其实远高于大品类那种3%到5%的那个付费意愿在这里的。
+</p>
+<p class="transcript-line">
+<span class="time"><strong>[00:05:05]</strong> </span>
+<span class="speaker"><strong>发言人1: </strong></span>
+这个就有点讲的是说在大肠眼皮子底下活动了，就是你怎么会确认说大厂不会回过头来把你这部分就做了，就这个判断是怎么得出来的？
+</p>
+<p class="transcript-line">
+<span class="time"><strong>[00:05:15]</strong> </span>
+<span class="speaker"><strong>发言人2: </strong></span>
+其实一个非常简单的例子，就不是说是在大厂待过。首先我们大厂的是一个商业公司，商业公司讲究的是什么？就是说利润，而且它要求的是大量增长的利润。
+</p>
+<p class="transcript-line">
+<span class="time"><strong>[00:05:28]</strong> </span>
+<span class="speaker"><strong>发言人2: </strong></span>
+我举个例子，你说腾讯或者说飞书，它会做一个比如说整个市场份额只有100万美元的一个市场吗？他绝对不会，他会觉得这个东西太少了，他服务的是什么？是千万级的市场，亿级的市场。然后他觉得OK这个才有概念，或者说他要做的是今天就有一个新的赛道了。比如说我们乱讲一个，比如说AI养老或者老年经济、银发经济。他们觉得OK这个可能是千亿市场，他先做出一个表率在里面占了top ten或者top one了，这个对他也是有概念有价值的。
+</p>
+<p class="transcript-line">
+<span class="time"><strong>[00:05:59]</strong> </span>
+<span class="speaker"><strong>发言人2: </strong></span>
+我到我们这里，比如说一个人或者三四个人，这个市场规模是100万美元的市场，你觉得这个市场大吗？其实对于这个选择来说已经很大了，为什么呢？因为你的竞争对手很少，甚至有可能是没有。
+</p>
+<p class="transcript-line">
+<span class="time"><strong>[00:06:11]</strong> </span>
+<span class="speaker"><strong>发言人2: </strong></span>
+举个例子，就是说大家比如说在出海的，经常就是谷歌做搜索。谷歌会不会专门给红绿色盲去做一个专属的搜索引擎？我相信不会的，为什么呢？就是他觉得这个没有价值，除非说是说那种他会做无障碍的搜索引擎，比如说这样那样的。但是他绝对不会做一个说是我针对红绿色盲这么垂直这么领域的一个东西，做一个搜索引擎。那你说这些人有没有需求？
+</p>
+<p class="transcript-line">
+<span class="time"><strong>[00:06:37]</strong> </span>
+<span class="speaker"><strong>发言人2: </strong></span>
+绝对有。那这些人的需求他有没有付费？转化率肯定有，但大厂就是不做，因为规模太小了。二一个就是说它的投入产出比远比我们小团队要高很多。他可能比如说组建这个团队，他可能在达到大几百万就进去了，这东西还没出来，这个人力成本是大几百万进去了。但我们的小团队就不一样了，可能是就两三个人，对不对？一个月的所有的开销加起来可能连5万都不超。
+</p>
+<p class="transcript-line">
+<span class="time"><strong>[00:07:05]</strong> </span>
+<span class="speaker"><strong>发言人2: </strong></span>
+那那这个市场对我们来说是完全有意义的。所以我就完全不担心说大厂，我说是回过头来把我们的这个部分做了，除非是什么就是说他遇到了增长的瓶颈，他已经没法再增长了。然后他再顺手说那市面上哪几个top one的，是不是OK，然后把把它去合并一下做出来。但这儿有一个点就是说他想去抢你的市场，他有个最大的劣势是他不懂用户，你已经服务了用户了，而且你服务的是客户，就是愿意给钱给你的他们。你跟他做了很多的交流，你知道他的痛点是什么，你也知道他们的操作习惯，这些很多东西在哪里，你比他们有先发优势，所以我是完全不担心这个东西的。
+</p>
+<p class="transcript-line">
+<span class="time"><strong>[00:07:47]</strong> </span>
+<span class="speaker"><strong>发言人1: </strong></span>
+OK, 其实这里还有一个问题，举个例子，比如说大厂现在有很多很成熟的产品，你做了一个小而尖的产品，你怎么用它来吸引客户？因为客户在大部分的需求上面，可能他还是要一个主体性的需求，就是要大厂的原生的那个产品，就是大厂没有满足他这方面的细分需求。如果你只做这个细分需求的话，你如何把你的这部分给它延伸到大厂那部分？就是因为大厂那部分是可能是essential的，是基础的，必须得要。
+</p>
+<p class="transcript-line">
+<span class="time"><strong>[00:08:20]</strong> </span>
+<span class="speaker"><strong>发言人2: </strong></span>
+我觉得你这可能是包含了好几个问题。我们我们一个一个拆开来讲，首先就是说我做这个产品，珠海经常会宣传自己的产品，经常会在推特瑞典上还i news，然后这样去宣传。那这会就引申出一个问题，我去宣传我的产品的时候，有没有一个大厂或者SARS的。比如说google这种太高了，就是说google再往下两个层级这样的公司，它会做一个产品，就是说帮我去管理好我的多个redit账号。然后我就有两个核心要求，第一个不要被封号，第二个我讲的这些内容我不要自己再去想，还说我的我的产品要怎么怎么介绍，然后怎么样我能不能识别到这个频道的一些规则和主题，和大家理解的意思以后，我去回帖，我去增加我的KKKKM值。
+</p>
+<p class="transcript-line">
+<span class="time"><strong>[00:09:08]</strong> </span>
+<span class="speaker"><strong>发言人2: </strong></span>
+就这么简单，那你说这是不是一个需求？是一个需求。然后有没有付费医院？大量的付费医院。
+</p>
+<p class="transcript-line">
+<span class="time"><strong>[00:09:15]</strong> </span>
+<span class="speaker"><strong>发言人2: </strong></span>
+二一个就是说作为大厂，你说这个算不算大厂？算他会不会做？他绝对不会做。那其他公司做不做也绝对不做，因为为什么？就是他处于一个灰色地带，对吧？就我举这个例子是属于灰色地带，但不代表就是大家做的所有东西都要是是灰色地带。也就是说其实是掐住了所有想去宣传自己产品的人，他没有那么多的时间精力去管理这个东西。那你给他提供了这样的一个服务工具，他的付费意愿就很高。
+</p>
+<p class="transcript-line">
+<span class="time"><strong>[00:09:46]</strong> </span>
+<span class="speaker"><strong>发言人2: </strong></span>
+OK然后再回到第二个点，就是说你怎么去接触到你的客户。比如说我回到刚才说的这个管理账号管理机构，就你怎么接触到他。很简单，你就泡的论坛，你天天看他们抱怨什么。我自己的一个经验就是说我不太爱听用户夸我就是这个产品做的，这个行那个行，那好，写的是万字长文，表扬什么？我觉得这个东西OK没问题，这是你应该做的。但是我比较喜欢听什么用户说抱怨或者讽刺，甚至于说是写大字报，然后吐槽。我就是在这个里面我会看到一个是没有满足的点。
+</p>
+<p class="transcript-line">
+<span class="time"><strong>[00:10:21]</strong> </span>
+<span class="speaker"><strong>发言人2: </strong></span>
+第二个的话是有没有可能我会做第二个小工具来去满足他的需求在这里。所以说你怎么去链接到你的客户，就是靠这个天天在你对应的社区里面去看他们的抱怨。抱怨什么？是抱怨一、抱怨二、抱怨三，各种各样的抱怨。然后你通过这个抱怨了以后，你自己去看，就是这个抱怨能不能通过一个简单的工具或者简单的服务满足他。满足了他就愿意给钱，就这么简单。
+</p>
+<p class="transcript-line">
+<span class="time"><strong>[00:10:45]</strong> </span>
+<span class="speaker"><strong>发言人1: </strong></span>
+我感觉你这个就像是在瞄准的人群，是在红海市场里面掐尖。你觉得这个生意是一个好生意吗？你怎么评价他好还是不好？
+</p>
+<p class="transcript-line">
+<span class="time"><strong>[00:10:55]</strong> </span>
+<span class="speaker"><strong>发言人2: </strong></span>
+我自己的判断是一个好生意。因为我我们最开始聊的，我们的定位还是就是说一个人到三个人，最多不要超过五个人，就这么样一个团队。然后接下来的话我想快速拿到正反馈，甚至我说快速赚到，不要说第一美元了，我快速是赚到第1万美元的时候，那这样的生意就是一个好生意。
+</p>
+<p class="transcript-line">
+<span class="time"><strong>[00:11:16]</strong> </span>
+<span class="speaker"><strong>发言人2: </strong></span>
+第一个没有那种什么资本，大厂跟你竞争，这是第一个。但第二个就是说你的风险是什么？就是说你能做，别人也能做。你要建立好所谓自己的壁垒，就是说你能真正的去识别到用户报那个点，你能满足他。第二个是什么呢？就是说你的服务其实说你所谓自己的品牌或者你的服务是让用户愿意留下来继续付费的一个点。而不是说我今天卖一个终身版本，明天再卖一个终身版本。那这样割韭菜的话，大家就肯定不愿意的。
+</p>
+<p class="transcript-line">
+<span class="time"><strong>[00:11:46]</strong> </span>
+<span class="speaker"><strong>发言人1: </strong></span>
+OK你能不能给大家举个例子，因为你刚才讲了在红海市场里面找垂类。然后我们刚才也讲了说这个垂类为什么大厂不会做，然后为什么我们觉得它是一个好生意？那你在你的这些标准之下，有没有自己的一些案例，能不能给大家分享一下？就是你找到了什么在红海市场里面的垂类，你觉得它是可做的。
+</p>
+<p class="transcript-line">
+<span class="time"><strong>[00:12:09]</strong> </span>
+<span class="speaker"><strong>发言人2: </strong></span>
+有啊有啊有有就是一个我称之为海王应用。海王就是你真正理解那种海王，就是说我们可以比较官方的讲，也可以比较开玩笑的讲。我先举个例子，比如说我现在是一个什么？我是一个金牌销售对吧？那么我手里可能有几万个我的客户，然后这些客户的话就我总要有一个东西或者是载体来记录我的客户信息管理我的客户关系。我对他有几个要求，第一个就是说你能事无巨细的给我记下来。第二个就绝对隐私。因为我的客户关系我一旦暴露出去，我那相当于是别人可以抢我的客户，对吧？
+</p>
+<p class="transcript-line">
+<span class="time"><strong>[00:12:46]</strong> </span>
+<span class="speaker"><strong>发言人2: </strong></span>
+对，第二个，第三个的话就是说人的记忆力是有上限的，对不对？我不可能说是像那种牛人，比如说我们我们敬爱的毛主席跟总理，他真的是什么东西都能记在脑子里。我觉得这个东西我们可能普通人做不到，但是大部分人还是习惯于记下来。我就是记忆负担，我就希望很多东西就不要让我自己去在一个字一个字敲或者怎么样记录下来。所以你看零零零总总就是说我有我对我的隐私有要求，对不对？我的我的关系管理有要求，我的记忆有有要求，OK这是一个画像。
+</p>
+<p class="transcript-line">
+<span class="time"><strong>[00:13:18]</strong> </span>
+<span class="speaker"><strong>发言人2: </strong></span>
+另外一个画像是真正意义上概念的，就是我们叫做情感上的海王。比如说我可能和多个女性保持了一些你情我愿的关系，但是我又需要这些关系让他们互相之间不知道。那这样子就存在一个很很核心的一个点是什么？第一个时间管理要绝对做好。总不能说我这会儿在跟你在开会，或者说我这会儿在跟你在约会在聊着，突然间小丽一个电话过来了，然后怎么样的？然后是不是那那我我我甚至还忘了说，我是不是三天前还答应了小丽，说是今天九点，然后要跟他打一个甜蜜电话怎么样的，你看。这个对于客户来说是一个非常刚性的一个需求，也是很直接的。也就是你能帮他把这个事儿搞定，他百分百愿意给你买单的OK。
+</p>
+<p class="transcript-line">
+<span class="time"><strong>[00:14:08]</strong> </span>
+<span class="speaker"><strong>发言人2: </strong></span>
+这是我们讲到用户属性的一个情况上。我讲一下我怎么去发现这个场景？是就是说还是在在redick上和在twitter e上去逛，就是泡论坛报。所有的这种有社交属性的这些论坛，看用户在抱怨什么。就是我看到了ready上的有有用户在抱怨说是谷歌的那个日历管理，他没有办法去做好客户管理。就因为这个话题引出了所有人都在说是我也是或者怎么样，就大家有抱怨，有抱怨完了以后，很多人他会相对具象化的把自己的需求去讲清楚。
+</p>
+<p class="transcript-line">
+<span class="time"><strong>[00:14:40]</strong> </span>
+<span class="speaker"><strong>发言人2: </strong></span>
+比如说让我去总结出了几个点就第一个的话就是说他的场景非常简单。比如说他在法国有客户，对吧？他美国有客户，他在日本也有客户，然后这些客户之间的有时候是约会议时间会冲突，对吧？然后又不好协调。以及就是说我跟法国的客户的报价和很多信息，我不能说差说漏了给到日本的客户。因为人有时候很忙的时候，就会很容易出现这样的问题，所以你看他就需要一个相对来说时间、地点、人员情况和内容的一个检测的冲突。甚至于就是说给你做提前的预警或者调整，那这个东西对他来说是非常有用的。
+</p>
+<p class="transcript-line">
+<span class="time"><strong>[00:15:17]</strong> </span>
+<span class="speaker"><strong>发言人2: </strong></span>
+然后第二个点就是说隐私泄露的问题。假如有一天我的这个内容我忘了锁屏了，或者说我的手机解锁密码让人知道了。这个时候别人看了我的客户信息，我的客户被挖走怎么办？他的这个忧虑很重的。所以我们就看就这类的应用，它其实只是说简单的帮用户把它记录下来了，但是没有满足用户的深层次的要求，或者说付费率超高的一个需求，他是没有满足掉的。
+</p>
+<p class="transcript-line">
+<span class="time"><strong>[00:15:46]</strong> </span>
+<span class="speaker"><strong>发言人2: </strong></span>
+然后你看这是客户关系管理，然后回到了海王关系管理这一块。那其实通用的对不对？比如说马上七夕了，是不是我是要早上、中午、晚上、凌晨，是不是要分三个四个人去约，对不对？然后每个人的喜好是什么，要送什么礼物，然后在什么时间拿什么时候是什么都处理，我是不是要不要拿差了，对不对？以及比如说打个比方，小丽查我手机的时候，他查不出来别人的内容，对不对？别人在你这个关键时间打电话过来或者说给我留言的时候，我是不是能快速的去调之前跟他聊的信息和内容，给我一个决策或者回复做一个参考。你觉这就是一个非常刚性的需求，对不对？这个需求就非常痛点。
+</p>
+<p class="transcript-line">
+<span class="time"><strong>[00:16:34]</strong> </span>
+<span class="speaker"><strong>发言人2: </strong></span>
+然后你看这就回到了刚才你问的问题，为什么大厂不做？非常简单，这就涉及到一个伦理敏感的问题，大厂不愿意去承担这样的一个风险在这里。二是什么呢？就是说这个用户群体其实非常小众。其实我不能说非常小众，而是说他是没有人愿意承认自己是海王，他不会标榜这个事情。
+</p>
+<p class="transcript-line">
+<span class="time"><strong>[00:16:56]</strong> </span>
+<span class="speaker"><strong>发言人2: </strong></span>
+但是实际行为是另外一回事儿，所以说也就代表了大厂不好去用常规的marking的方法，或者产品经理这种方法去识别到用户的行为，以及把这个需求做整理出来。第三个在于就是说你去约做用户访谈，或者你去做这些东西的时候，然后他会觉得他不愿意跟你讲真的东西，你自己要去挖，挖完了以后不一定还是真的，你还要去验证。然后就回到了我们刚才讲的，大厂希望规模化简单化，然后就是变现快，对吧？那这就回到了这个例子，海王应用这个例子。我就觉得当五个人的小团队真的是可能说我自己的预估可能说两周或者三周我们就能出一个demo出来，我们就可以去推，就看哪些人想用，哪些人能用，对不对？然后这儿就引申出了一个就是说某种程度上，这群人的用户画像是非常的清晰，而且有高价值的。
+</p>
+<p class="transcript-line">
+<span class="time"><strong>[00:17:54]</strong> </span>
+<span class="speaker"><strong>发言人2: </strong></span>
+我举个例子，就是这块的这些数据是我我通过市场调研去找出来的。比如说我们说一些生物属性的统计。他的他们的年龄大部分都是在25到44岁之间，然后年收入有可能在7万到12万元美元左右。然后接下来大部就是80%的人拥有大学学历，然后基本上他们的职业就是技术岗、创意岗或者管理岗。对，你看高净值人群，然后接下来是什么行为特征？就是他平均每个人都要管理2个到5个的复杂关系。
+</p>
+<p class="transcript-line">
+<span class="time"><strong>[00:18:26]</strong> </span>
+<span class="speaker"><strong>发言人2: </strong></span>
+这个可以是你的客户，也可以是你的小丽，也可是也也可以也可以是谁，对吧？然后接下来的话就是每周的这种客户拜访也好，或者约会也好，或者反正我们叫做社交关系管理。这或者社交和社交关系活动，他每周是至少进行3次到4次以上。然后接下来他每天使用手机的时间是绝对超过是超过6小时或者7小时以上的。你看这样的话，接下来的话就是说我们是不是通过他的行为和他的生物属性特征，我们就明确的知道这些人都是谁。很简单，把这个我们叫做模板。用画像往你身边人身上套，往你身认识的人身上套，然后你就知道了你的第一批客户是谁。你你然后你不要很直接的推给他，你偷偷问说，咱们有这东西，你要不试一试，这儿就有了你的第一批客户之处。
+</p>
+<p class="transcript-line">
+<span class="time"><strong>[00:19:20]</strong> </span>
+<span class="speaker"><strong>发言人1: </strong></span>
+OK, 我想问一下你，你看你自己刚才讲说他的人口的生物学信息，比如说年龄，什么二十多到四十多对吧？然后年收入什么7万到多少钱。我想问一下你，你这些东西数据是从哪儿调研出来的？然后我还想问一下，你就是你这些生物学的这个统计，你最终统计出来的这个规模有多大？就这块你是怎么确定的？
+</p>
+<p class="transcript-line">
+<span class="time"><strong>[00:19:43]</strong> </span>
+<span class="speaker"><strong>发言人2: </strong></span>
+两个问题，第一个先回答怎么来的。第一个是什么？就是说首先2025年了，大家都在用AI对吧？那其实你会发现，首先是从open I开始，他去他发起了一个所谓的deep research的一个概念。然后其他的模型厂商都在跟进，在做什么呢？就是说他帮你去做信息收集和整理。然后这儿就会涉及到一个另外一个垂直市场的一个小idea，就是你帮人去做市场调研报告。
+</p>
+<p class="transcript-line">
+<span class="time"><strong>[00:20:11]</strong> </span>
+<span class="speaker"><strong>发言人2: </strong></span>
+然后之前的话可能是3万5万对吧？现在你拿AI写自己改一改，可能真的是半个小时就搞定了。这个我们可以放到回头再说。
+</p>
+<p class="transcript-line">
+<span class="time"><strong>[00:20:19]</strong> </span>
+<span class="speaker"><strong>发言人2: </strong></span>
+然后我就是相当于怎么讲，就是我自己先把刚才我发现的用户所有讨论的抱怨不满负面情绪的这些语句我去整理出来。我放了一个MD文档以后，我去丢给OpenAI，丢给cloud，丢给DBC。我就是相当于是我给他们每一个人，我就告诉他，我说这个是我找到了用户抱怨的一个信息，你来从你的角度来看他们的付费点在哪里。然后首先就是说他会给我一个信息，然后我根据我多年的从业经验来去看他们给出来的内容。第一个对不对的问题。21个全不全的问题。然后我们会发现就是说他们给出来的拟合度很高，每个搜索引擎或者说每个模型给出来的这种用户画像的一个融合度很高。那我们就其实可以反过来去推，就是说他给出的数据可信度比较高，这是第一个。
+</p>
+<p class="transcript-line">
+<span class="time"><strong>[00:21:12]</strong> </span>
+<span class="speaker"><strong>发言人2: </strong></span>
+然后我就省事了，我就不用再去说我在我身边再去找一个什么一百多个人的访问调查，然后求爷爷告奶奶的。然后发现这一百多个人的访问调查有可能其实还样本量不足，对不对？这是一个问题。
+</p>
+<p class="transcript-line">
+<span class="time"><strong>[00:21:25]</strong> </span>
+<span class="speaker"><strong>发言人2: </strong></span>
+第二个问题是什么？就是说他帮我判断出来了这个需求是真的有付费意愿。那我说OK那没问题，你现在帮我去做市场调查，是也是同时发给他们每一个大概就是TOTO就用了30分钟不到的样子，就是每个模型都给我了一个市场调查调查报告。然后我把这个市场调查调查报告去做了一个对比，就发现就得出了刚才讲的比如生物属性、行为属性或者他年收入，或者他的教育属性这些东西出来。然后接下来的话就是说我再去一些比如说市场报告那些厂家，然后他们经常会有一些人免费调研报告，或者说你直接倒是上，或者倒推特上，你去找跟这些相关相近的人去观察他们抱怨这是会不会抱怨这类的东西。如果会抱怨，那说明这个数据是可信的那你就有了这些信息了。
+</p>
+<p class="transcript-line">
+<span class="time"><strong>[00:22:15]</strong> </span>
+<span class="speaker"><strong>发言人2: </strong></span>
+有了这些信息了以后，证明了几个点。第一个需求是真的，市场是真的，然后用户属性分析是真的。那么接下来的话，决定要不要做的问题了。这就是我怎么去调研出来的。然后这个痛点的人群有多大的一个点的话，就是我自己去通过我的市场调研报告去发现。就是可能说保守估计大概有100万左右人左右，全球范围内100万人左右。我们会觉得就是说那那其实你看就是印证了最开始的点，就是它的市场人群可能需求量就这么多。对于这样的情况下，我就3到5人我我去做这个市场完全可以养活我的小团队。
+</p>
+<p class="transcript-line">
+<span class="time"><strong>[00:22:53]</strong> </span>
+<span class="speaker"><strong>发言人1: </strong></span>
+OK我理解一下，就是说你的整个调研的这个过程，其实是可以依赖AI去做research的。而且你做了一件事儿，就是你把各家的AI research的结果做一个相互验证。
+</p>
+<p class="transcript-line">
+<span class="time"><strong>[00:23:05]</strong> </span>
+<span class="speaker"><strong>发言人2: </strong></span>
+对横向对比吗？对，因为其实是做过统计学的，我们就知道就是说你的信源不能只唯有且只有唯一一个，对吧？这样就代表了你的信源有多个，你的信息渠道有多个，你处理信息的方法都是清晰灵敏的情况下，那你就可以得出他给你的结果是相对可信的。
+</p>
+<p class="transcript-line">
+<span class="time"><strong>[00:23:26]</strong> </span>
+<span class="speaker"><strong>发言人1: </strong></span>
+OK了解，我觉得你这个还是从痛点出发，就是说从redit从各个地方大家看到的这些痛点。然后你怎么能够确认说你这个痛点能够转化成付费用户，因为我们很多时候可能可以在哪里看到了很多抱怨，但是一旦你说我其实现在已经解决这个问题了，然后我已经帮你做出来一个产品了。但实际上你真正去问他他愿不愿意掏钱的时候，其实他不愿意掏钱，我们其实也会碰到这样的问题。我不知道你是怎么解决这类问题。
+</p>
+<p class="transcript-line">
+<span class="time"><strong>[00:23:56]</strong> </span>
+<span class="speaker"><strong>发言人2: </strong></span>
+一些小技巧。首先第一个的话就是说做产品经理的都讲的是MVP原则，什么怎么样的东西。就是我我会其实就是做两件事情。第一个你做一个landing配置，你做个落地页，你这个落地页就真正的从用户的角度告诉他我能提供什么，我能给他什么。或者说你甚至都不要从我能给什么这个角度来讲，就是说你在我这儿能得到什么，这个从换位思考，就是你你在我这儿能得到什么，这是第一个，你把这个事儿讲清楚。第二个的话就是你可以自己做个原型，然后把它录一个视频，你就告诉他，这个因为不是所有人都是有那种抽象概念的。就是说你口头描述了以后，他能get到你这个东西到底是啥，你可以画个简单的圆形，然后一边操作，然后一边做一个录制视频，让你的潜在客户知道这个软件是怎么用的，能得到什么样的效果。
+</p>
+<p class="transcript-line">
+<span class="time"><strong>[00:24:48]</strong> </span>
+<span class="speaker"><strong>发言人2: </strong></span>
+OK再接下来的话，在这最底下放一个邮箱收集的一个11个1个点，然后全网去发，让别人挑刺儿。你不要去说我做了一个很牛逼的产品，我做了一个demo出来，大家来去给我点赞怎么那么多。不要讲就是说你保持一个比较谦卑的状态，就是我自己做了这样的东西，请大家给我挑刺儿，就是人性是复杂的，他愿意帮你挑刺儿的时候，其实就是暴他会暴露出很多信息。就比如说你这样的描述是可能是错的，或者说你这个描述让人产生意义。那个歧义我不知道你到底说的是AA还是B还是C对不对？那说明他对你感兴趣，他觉得他对这个事儿就感兴趣，是个钩子，你勾住了他。那接下来的话你跟他不管是做弯弯的去访谈，还是说你让他帮你推荐一些他他觉得这个需求身边的谁比较合适的一个推荐，这都是一个途径。
+</p>
+<p class="transcript-line">
+<span class="time"><strong>[00:25:48]</strong> </span>
+<span class="speaker"><strong>发言人2: </strong></span>
+然后再接下来什么，就是说你平时肯定要去加很多很多的社群。你不管是facebook的群组，discord的群主，还是微信群，还是各种各样的那个的群，对不对？你接下来的话，你就是你就发个小红包。比如说你200人的群，对不对？你发个10块20块钱的红包也不贵，对不对？然后你就说我做了这样的东西，让大家帮我挑刺儿。然后因为我的经验就是说1000个人里面有大概一百多个人他会给你意见，你真的很容易会碰到，你的前十个客户就非常容易碰到。
+</p>
+<p class="transcript-line">
+<span class="time"><strong>[00:26:26]</strong> </span>
+<span class="speaker"><strong>发言人2: </strong></span>
+因为最核心的一个点就是说最开始解决了一个最核心的问题是什么？我的需求不是伪需求，我不能说我自己空想的一个需求，而且这个需求是个靠我自己脑子里想出来的，不是通过别人的反馈、别人的抱怨、别人的吐槽收集出来的。如果我没通过这样的方式出来的话，那我说明一点就是我的需求可能是一个伪需求。
+</p>
+<p class="transcript-line">
+<span class="time"><strong>[00:26:52]</strong> </span>
+<span class="speaker"><strong>发言人2: </strong></span>
+我们通过刚才这样讲的方式，我们会发现我是通过别人的抱怨知道了他们想要什么。我借助我各种各样的工具和技能，我去看到了这个市场是不是一个真实存在的，以及大家可能的痛点是什么。接下来我针对其中一两个最有价值的痛点，我去做一个learning page，让大家来去给我做一个反馈。这样的话就很容易获得你的第一批用户和第一批客户。这样其实是一个谋略很高的一个方法在这里。
+</p>
+<p class="transcript-line">
+<span class="time"><strong>[00:27:24]</strong> </span>
+<span class="speaker"><strong>发言人1: </strong></span>
+OK，那我想问一下你，你刚才讲这个海王应用，就是本身你有没有做过一些竞对调研？难道没有人之前已经做了这方面了吗？因为我们一直以来就是我有一个疑惑，就是我们觉得说我看到了一个机会，很多人在抱怨这个事儿。但实际上我搜一搜总会发现有很多产品其实已经做了。我不确定说你有没有这样的做过这样的竞争调研。
+</p>
+<p class="transcript-line">
+<span class="time"><strong>[00:27:49]</strong> </span>
+<span class="speaker"><strong>发言人2: </strong></span>
+有没有肯定就是首先这个不是一个新需求，对吧？二一个是肯定有人做过，那那有人做过了对我来说是好事情，为什么呢？就是说我不怕有人做，怕没人做，因为有人做过说明他在这个商业验证上或生产验证上，或者需要用户需求验证上，他去做过很多探索。然后不管他做成了还是做失败了，对我们来说都是有一些经验可以去学的。
+</p>
+<p class="transcript-line">
+<span class="time"><strong>[00:28:14]</strong> </span>
+<span class="speaker"><strong>发言人2: </strong></span>
+好的，这个最开始是那我最大的竞争所谓的竞争对手可能是google，或者outlook，或者苹果的这些日程管理，对吧？那你肯定是他。对，那就回到了最开始，首先他们是不是大平台，他是大平台。第二他们为什么不做做这个海洋应用？其实我刚才也回答过了，我们俩聊的时候我们也回答过了。对，就是大规模太小了，对不对？然后你各种各样的风险，对不对？
+</p>
+<p class="transcript-line">
+<span class="time"><strong>[00:28:39]</strong> </span>
+<span class="speaker"><strong>发言人2: </strong></span>
+然后再有一个就是说直接竞争对手有没有？有就是发现之前有个polar life的这个应用他有做过，但是他停服了。我刚刚好去在apple store或google配上去。看他们所有用户的吐槽和抱怨，那我就知道了，这玩意儿有人做过，他可能失败了，但是市场是存在的，用户是存在的，所以我其实不怕这个东西的。
+</p>
+<p class="transcript-line">
+<span class="time"><strong>[00:29:08]</strong> </span>
+<span class="speaker"><strong>发言人1: </strong></span>
+OK, 你刚才又讲了一个产品叫Polly life，对吧？你刚才讲说他自己做了一段时间停服了，我还比较警惕这种事儿，就是说他停服了是因为他自己产品做的不好好的，还是因为说这块儿其实没什么机会。因为我其实比较担心的一个说法就是我们很多人在做产品的时候老会讲说，我觉得有些人做了这个事儿，但是我觉得我能比他做的更好。
+</p>
+<p class="transcript-line">
+<span class="time"><strong>[00:29:37]</strong> </span>
+<span class="speaker"><strong>发言人2: </strong></span>
+对我完全能理解你的点。其实这样就是说我去看所谓的直接竞争对手Polly life他不做了以后，我的我自己看到的，我去去扒了他很多的更新日志。因为其实就这点，就是国外可能比国内好一点。就是它的更新日志会很清晰的写了，就自己在什么时间跟上的什么功能，然后支持的什么作用。其实是这个就是一个产品经理的一个必备的经验。你去扒它的更新日志，你就知道大概是什么时间节点上什么东西是为了什么。这个是这这个是一个必备技能了。
+</p>
+<p class="transcript-line">
+<span class="time"><strong>[00:30:10]</strong> </span>
+<span class="speaker"><strong>发言人2: </strong></span>
+然后接下来的话，我把日志和他们用户，就是所有应用都是有评论的，跟那个时间线拉一下，就看一下那段时间内他上了这个新功能，有没有用户点赞，有没有用户吐槽，对不对？然后大家用户的反馈是什么？这个时间线内比如推特或ready上大家的反馈是什么？
+</p>
+<p class="transcript-line">
+<span class="time"><strong>[00:30:29]</strong> </span>
+<span class="speaker"><strong>发言人2: </strong></span>
+那我就发现了首先第一个就是他没做好的应用的点就在于就是我之前可能在别的平台大家有讲过，就是说所有的不太合格的产品经理总想做一个事情，就是想做大而全，就是他想把所有想到的功能都加进去。今天DPCK开源了，我加个DPC，昨天open I不是有开源模型了吗？我要把open I的还有母亲加进来。OK, 你加了这些功能了以后，对你的付费用户有帮助吗？不知道。但不知道的情况下，有可能就是有负面的一个影响在这里。
+</p>
+<p class="transcript-line">
+<span class="time"><strong>[00:31:05]</strong> </span>
+<span class="speaker"><strong>发言人2: </strong></span>
+那他有可能就是我不订阅了，对吧？我我我不用你了，这就很很正常。因为因为我我经常会遇到一个，比如说我用到某个应用，我习惯了它的交互逻辑。可能是左上角点一下，右下角点一下，我能很快听到我想功能里面，结果他的界面样式改了，他的功能改了，我原本那个操作逻辑变了，然后说那我要那个东西在哪里，然后点点点点来点去也找不着。算了，那不用我，我再找我的我再找一个我用的惯的就行了。所以有时候会发现，我不怕说他停服了，导致这是一个假需求。我应该是通过正确的方法去分析他做了什么，做对了什么，做错了什么，来去反过来去推。那我现在提这个需求是对的还是错的，以及接下来我要假设我要满足用户的功能和这些交互，是不是对用户来说是有争议的，还是说一个逆向的对，在这里并且的话我最终其实看到他们就是一个功能复杂。
+</p>
+<p class="transcript-line">
+<span class="time"><strong>[00:32:04]</strong> </span>
+<span class="speaker"><strong>发言人2: </strong></span>
+二一个是那段时间刚好是notion很火的时候，他就想要去做。Notion很火，那我是不是在我的这个APP里面也集成一个类notion的功能。那用用户就很懵，就是说我习惯了这样的操作去管理好我的用户关系，然后你又突然间加了一个这个功能notion功能，想要去主推这个功能，让这个功能的点击率，使用时长变长。然后那那你屏幕的位置就那么点，对不对？那你是不是就把之前别的功能去替换下去了。你一旦替换下去了以后，用户就要抱怨，那那他就无非两个选择，要么学会就是学会你的新版本，要么他走，那就是这样的。
+</p>
+<p class="transcript-line">
+<span class="time"><strong>[00:32:44]</strong> </span>
+<span class="speaker"><strong>发言人1: </strong></span>
+OK了解我理解你的点是说，其实我们要真正去分析他到底是因为什么事情停的服。比如说我们可以在他的APP的评论里边，对吧？我可以找到说，很多用户讲说我这个产品其实用的挺好的，你突然给我改版了对吗？对。然后再一个就是你这个产品做的不好，不是我想要的，对吗？比如说你刚才讲说突然加了notion的功能，但其实这个notion的功能并不是我想要的，可能有很多很多类似这样的东西，然后逐渐的跑出来，跑出来之后可能最终这个产品就没有人用了。
+</p>
+<p class="transcript-line">
+<span class="time"><strong>[00:33:15]</strong> </span>
+<span class="speaker"><strong>发言人1: </strong></span>
+就是你得分析它到底是为什么是没有市场？还是因为你产品做的不行，还是因为你没有把握住方向。我觉得这个还确实是一个我们真的需要去分析的一个事儿。就是我觉得要大家特别警惕一件事儿。就是我总觉得说你这个产品做的不好看，我能做一个比你更好看的，我就能拿下，那这个要小心。
+</p>
+<p class="transcript-line">
+<span class="time"><strong>[00:33:35]</strong> </span>
+<span class="speaker"><strong>发言人1: </strong></span>
+对我想问一下你，你自己有没有做过有这方面海王应用的市场容量预估？你怎么能确定说这块儿到底有多大的市场，尤其是你能拿多少市场？因为我们其实经常看到很多印蒂亚克跟开发者去算市场的时候，大家的算法都是这个市场我预估一下可能8000万人，然后我占40%对吧，然后3200万人。我觉得这种算法就跟好像你触达用户不要钱一样，对吧？就是我自己不要钱就能触达3200万用户。我不知道这部分你是怎么预估的，包括你的市场容量，包括你自己能拿多少。
+</p>
+<p class="transcript-line">
+<span class="time"><strong>[00:34:11]</strong> </span>
+<span class="speaker"><strong>发言人2: </strong></span>
+对我的算法跟常规的算法其实不太一样。因为你说那个算法是什么？就是投资人喜欢听的算法。这个市场可能比如说有个千亿市场，然后我们只要占1%，我们就能拿到多少，然后他完全不提就是说我如何从零变到1%这个事儿，是要要要花多大成本，他完全不考虑这个事儿。
+</p>
+<p class="transcript-line">
+<span class="time"><strong>[00:34:30]</strong> </span>
+<span class="speaker"><strong>发言人2: </strong></span>
+其实我现在考虑的是什么？就是说我关心的是真正付费用户的密度是多少。我举个例子，你看其实讲过一个之前的失败的案例。我之前在做一个小红书笔记生成的APP，做出来了大概有300万用户。那数量对于一个个人开发者，你觉得也挺多的，对不对？那么付费率多少？
+</p>
+<p class="transcript-line">
+<span class="time"><strong>[00:34:52]</strong> </span>
+<span class="speaker"><strong>发言人1: </strong></span>
+你可以猜一下2%能到吗？没有20块钱。二一共只赚了20块钱。
+</p>
+<p class="transcript-line">
+<span class="time"><strong>[00:35:02]</strong> </span>
+<span class="speaker"><strong>发言人2: </strong></span>
+对，就9块91次，就9.9块包月，总共就收了20块钱，总共就是20块钱。对，所以这儿给了我一个比较深刻的教训是什么？就是说因为我不是大厂，我没有办法去通过用户规模来提高我的收益。然后我只能通过什么，就真正的付费密度来去做。你看我虽然说有300万用户，但这300万用户其实跟我都没啥关系，他甚至还是我的成本。但真正给钱那几个人，对我来说是很关键的。所以其实我更关心的不是说市场规模有多大，然后我的付费意愿是3%，还是5%，还是8%，还是或者说我占了百分之百之类的东西，我不care，我更关注的就是说我真正能触达到多少个给钱的人，这个更关键。
+</p>
+<p class="transcript-line">
+<span class="time"><strong>[00:35:52]</strong> </span>
+<span class="speaker"><strong>发言人2: </strong></span>
+然后这个怎么算出来的话，其实包含在了你再去做市场调研和你跟你刚才我看讲的不是你要在ready的群，在facebook群，在他的光的群里去找这些人的时候，你就要直接去问他说你对这个事儿你愿意给钱吗？你要不愿意给钱的话，那你就听听就得了，对吧？然后你要愿意给钱，就是你你然后你自己心里有个家，他心里有个价，你愿意多钱买这个事儿。然后这个才是你的潜在客户在这里。所以我更关注的是就是说到底有多少人愿意给钱。这个数字到达一定程度了以后，我觉得这个才是有价值的。而且我比较坚信一个理论，就是说不要用免费来引流，完了以后再付费。
+</p>
+<p class="transcript-line">
+<span class="time"><strong>[00:36:38]</strong> </span>
+<span class="speaker"><strong>发言人2: </strong></span>
+我再提供了一个支付系统，然后大家都给钱这样子去。那个是大厂的玩法，不是我们小团队的玩法。小团队的玩法就是你上线第一天，上线第一天就明明确确的告诉用户，我是个付费应用，或者说OK我可以提供免费的套餐。但是明确是个钩子，我更多的就是说我完整的功能全部在我的付费功能里面。
+</p>
+<p class="transcript-line">
+<span class="time"><strong>[00:37:00]</strong> </span>
+<span class="speaker"><strong>发言人2: </strong></span>
+你这样的话才能建立起用户的心理认知说首先觉得这个本身就是要钱的，就好比说就是一个心理矛盾。就好比如说为什么现在所有的AI产品大家都是20没到一个月，为什么呢？因为open I就是他做了这个东西，就是说你就是要我上来就是要钱的。他是把这个心理锚定价格做好了以后，后面才说是啊我会开放一些免费用户和免费次数给到用户。你看这个跟是不是跟传统的那个大成理论完全不一样的。
+</p>
+<p class="transcript-line">
+<span class="time"><strong>[00:37:29]</strong> </span>
+<span class="speaker"><strong>发言人1: </strong></span>
+是，我能请你再帮我简单介绍一下你讲的这个付费密度这件事儿吗？我对这个概念还挺好奇的，我觉得这个逻辑是对的。就是你不能说300万用户里面最终只赚了20块钱，这个就有点扯淡了。那付费密度这件事儿，我就想问一下，你怎么能够确认你的付费密度？你刚才讲了一些办法，比如说你在地方去问别人说你这个到底付费意愿是多少，怎么样。但是最终你在触达的过程里边，你的用户肯定不会比你问出来的精准。对，就是我想问你，你怎么能够确认说你在的这块市场，你抓的这群人是一群付费密度高的人，这个是怎么确认的对。
+</p>
+<p class="transcript-line">
+<span class="time"><strong>[00:38:06]</strong> </span>
+<span class="speaker"><strong>发言人2: </strong></span>
+这儿其实就回归到我们我们这次聊了一个最大的一个主题，就是说我们是垂类市场对吧？OK那么我们我们是垂类市场的一个先天的优势，就会比通用品类的付费密度高，为什么呢？如果说比如说我就说海王应用这个事儿，因为很多的大厂没做，很多的小厂或者个体团队他可能没做好或者做失败了。也就导致了其实用户对于这个事儿，只要你有一个看得上过得去的东西，只要能满足他的可能一两个点他就愿意给钱。而且这个东西对他来说是刚需，而不是说我只我的需求。就好比说什么天气，我要看天气，我要看新闻这种就是说大家都能做，我给不给钱其实无所谓的对吧？
+</p>
+<p class="transcript-line">
+<span class="time"><strong>[00:38:55]</strong> </span>
+<span class="speaker"><strong>发言人2: </strong></span>
+那这儿就回到了付费密度是你怎么去找到他们，这个很关键。而不是说我的付费密度是多少，是一个合适的范围内。因为每一个垂直人类市场不一样，而且我们最开始讲的一个原则，就是说我垂直市场的负面密度肯定1%万的会比通用市场高，这个是想都不用想的。我举个例子，就前两天我自己想去给我的iphone去买手机壳，然后我在小红书上去搜的时候，我才知道他们现在有一个C类的，叫什么牌子我忘了。还有一个叫他们自己粉丝，现在已经有粉丝手机壳有粉丝群了，你听你能想到吗？对，然后这是一个。第二个，你猜国内的像什么什么叫C加的手机壳，你猜一个手机壳多少钱？
+</p>
+<p class="transcript-line">
+<span class="time"><strong>[00:39:42]</strong> </span>
+<span class="speaker"><strong>发言人1: </strong></span>
+我不知道是贵是便宜。我觉得一个手机壳好的话，可能五六十、六七十就OK了。
+</p>
+<p class="transcript-line">
+<span class="time"><strong>[00:39:49]</strong> </span>
+<span class="speaker"><strong>发言人2: </strong></span>
+你给一个你觉得最高的，但是你能接受的价格。
+</p>
+<p class="transcript-line">
+<span class="time"><strong>[00:39:54]</strong> </span>
+<span class="speaker"><strong>发言人1: </strong></span>
+最高我能接受的。像iphone原生的话，可能大概200块钱.
+</p>
+<p class="transcript-line">
+<span class="time"><strong>[00:39:58]</strong> </span>
+<span class="speaker"><strong>发言人2: </strong></span>
+280对吧？
+</p>
+<p class="transcript-line">
+<span class="time"><strong>[00:39:59]</strong> </span>
+<span class="speaker"><strong>发言人1: </strong></span>
+对对对。
+</p>
+<p class="transcript-line">
+<span class="time"><strong>[00:40:01]</strong> </span>
+<span class="speaker"><strong>发言人2: </strong></span>
+然后他们CCR的大概是600到810个。
+</p>
+<p class="transcript-line">
+<span class="time"><strong>[00:40:06]</strong> </span>
+<span class="speaker"><strong>发言人1: </strong></span>
+而且我也。
+</p>
+<p class="transcript-line">
+<span class="time"><strong>[00:40:08]</strong> </span>
+<span class="speaker"><strong>发言人2: </strong></span>
+想不通，但它的卖点是什么呢？第一个就是设计好看，它主打的全是女性用户，就是设计好看，但是设计的非常好看，而且特别轻。而且他也非常适合戴了美甲的人用那个手机壳。对，你看它就非常垂直。然后他给所有的用户都锚定了一个心理概念，就是我这个牌子就是贵。对，就是这么简单。所以说他的这个用户群体就是你想要有一个好看的用起来又舒服的手机壳，那你的付费意愿或者付费密度就是比那种什么9.9块、20 30的高很多。这个密度就是高很多。
+</p>
+<p class="transcript-line">
+<span class="time"><strong>[00:40:51]</strong> </span>
+<span class="speaker"><strong>发言人1: </strong></span>
+就这么简单了解。那我能问你一下，open I给大家一个心理锚定吗？就是AI应用就是20美金，那像比如说我们做垂类应用的话，我们定价这块我不确定你是怎么考虑的。
+</p>
+<p class="transcript-line">
+<span class="time"><strong>[00:41:04]</strong> </span>
+<span class="speaker"><strong>发言人2: </strong></span>
+定价这块的话我的一个基本逻辑是什么？就是你按价值定价，不是按照说你比如说我的成本。打个比方，比如说像那种消耗类的或者订阅类的，我的成本可能是个是美刀，对吧？我在这个基础上我再去我要去把我的RI做到一点一点2或者1.5或者是2。然后比如说这样二的话是美刀，那我说个20美刀或者三十美刀就这样的那你这个就是说你就定义成功能了吗？
+</p>
+<p class="transcript-line">
+<span class="time"><strong>[00:41:32]</strong> </span>
+<span class="speaker"><strong>发言人2: </strong></span>
+我的点是说，比如说拿海王应用举例子来说，用户来用这个产品，绝对不是说你的产品替他节省了时间，而且他的时间非常值钱，他才愿意用这个事儿。我回到这个海外应用，这个简单就是说我就拿销售来举例子。就是说我之前管理我的客户，我可能每天我把我的客户跟他聊的一些信息，我要去整理一下，我要回顾一下，然后我再登记的我那些很多一大堆东西里面，这个时间可能花费了他1个小时假。比如他的时薪，我举个例子，可能比如说他的时薪是50美金，那么你替他节省了1个小时，你说四十美金，你说八十美金，他都愿意。这1个小时省出来的时间，他可以去创造更多的价值，就是你从这个价值来去定价会比较好。所以如果是这样的话，我觉得就是说这个海外应用，我可能上线就是什么四十九美刀一个月，就这样的话用户才会觉得值，然后这是第一个。
+</p>
+<p class="transcript-line">
+<span class="time"><strong>[00:42:34]</strong> </span>
+<span class="speaker"><strong>发言人2: </strong></span>
+第二个就是说一定不要学国内走低价策略，什么1.99美刀、9.99美刀这种东西。因为人是有这样一个概念，是个反直觉的，不一定对。但是是人人是有这样的这这是这是一个心心理心理知识的问题。还是回到手机壳那个例子，9美元的手机刀跟999美元的手机刀，你觉得哪个好？
+</p>
+<p class="transcript-line">
+<span class="time"><strong>[00:42:58]</strong> </span>
+<span class="speaker"><strong>发言人1: </strong></span>
+我心里肯定觉得99的好，但是值不值是另外一回事儿。
+</p>
+<p class="transcript-line">
+<span class="time"><strong>[00:43:02]</strong> </span>
+<span class="speaker"><strong>发言人2: </strong></span>
+对对对，你看这是个心理问题，对吧？那么这就会涉及到一个问题，就是说所有人在看到你的报价的时候，都会下意识想这个事情。他感受那么多，肯定有过人之处。但值不值得值不值是给了钱之后的事儿值不值是给了钱之后的事儿，对吧？那你这样的情况下就是说我明明能收999的时候，我为什么要定价990？就这么简单。
+</p>
+<p class="transcript-line">
+<span class="time"><strong>[00:43:29]</strong> </span>
+<span class="speaker"><strong>发言人2: </strong></span>
+所以你在你不要去定一个很低的价格，让别人觉得你提供的服务或者能力非常的check。你就你觉得我是专业的，我给的东西都是最好的。那这样的话你要建立去自己这个小团队，或者自己一个应用的一个IP。
+</p>
+<p class="transcript-line">
+<span class="time"><strong>[00:43:44]</strong> </span>
+<span class="speaker"><strong>发言人2: </strong></span>
+人家就觉得就像我刚才讲那个C加的，C加的具体叫什么名字我忘了的手机壳，他给用他的所有的潜在客户和已有的客户的一个心理的一个锚定的概念，就是说我的东西就是好的。就是这个价格八百多的一个手机壳，而且整个小红上去搜索什么C加的iphone手机壳，基本上就是打了折了，才七百多。我就说我觉得我不能理解，但我觉得他能做出一个这样一个大品类，那肯定他有他自己的商业行为在这里了。所以我就非常不推荐大家去用什么1.99块这样的一个定价去去委屈自己。因为大家出来赚钱，所以说我这边的话就基本上定价是这样考虑的，就是说一般是三档。
+</p>
+<p class="transcript-line">
+<span class="time"><strong>[00:44:27]</strong> </span>
+<span class="speaker"><strong>发言人2: </strong></span>
+首先我的最基础的功能，我会用免费或者说9.9块的方式去做什么？做钩子引流。然后这儿的功能是非常有限的。我举个例子，比如说海王应用，这个我可能会定一个比如说19块91个月的一个情况。但是你可以管理你的客户关系，但我只给你三个额度，就是你只能添加三个点钱。就是你你可以享受完整的功能，但是数额有限。对，就是我我我摆明了它就是个钩子。然后再接下来的话就是说然后中等，比如说可能比如说49块91个月。那这个的话就是说我可以给你到比如说100或者200的这个关系的管理额度，然后我会再给你一些其他的功能在这里，这是相当于一个完整的功能。
+</p>
+<p class="transcript-line">
+<span class="time"><strong>[00:45:12]</strong> </span>
+<span class="speaker"><strong>发言人2: </strong></span>
+然后最后一个功能，这个功能就是面向企业的。就是说因为我自己做过很多产品，我自己发现一个情况，就是你在你的定价那个页面里面，你假如有一个面向企业的定价，可能没有人去买单。但是给用户的一个感觉说他敢给也提供这样的服务，那它的可靠性跟稳定性是没问题的。并且还有这儿还是个钩子，就是这儿我不给价格，我给联系方式，你要询价，那我觉得你大概率是一个舍得花钱，而且对我应用很感兴趣的人。那我很有可能把它发展大客户在这里OK.
+</p>
+<p class="transcript-line">
+<span class="time"><strong>[00:45:54]</strong> </span>
+<span class="speaker"><strong>发言人1: </strong></span>
+这个挺有意思的，就是按价值定价。我觉得这个逻辑是没问题的。但是真正去定价的时候，还是要去思考的比较深入一点。你刚才讲说他海王的时间价值是多少钱，对吧？对，那我按照他的时间价值然后去定价。
+</p>
+<p class="transcript-line">
+<span class="time"><strong>[00:46:10]</strong> </span>
+<span class="speaker"><strong>发言人1: </strong></span>
+这会儿我就想到一个什么问题？就是说这个的定价的前提就是你真的是精准用户，对吧？如果你不是一个垂类的精准用户，其实你是很难锚定一群人的时间价值？有可能这群人的时间价值非常宽，有可能有些人一小时挣十美金，有些人一小时挣一万美金，那你这个人群可能就不是特别垂直。我觉得这块按价值定价这块还是有挺多可探讨空间的对，就是到底你能不能锚定一块很精准的人群，这块精准人群首先他们是相似，然后人群非常精准，其次你能知道这群人的时间价值，那我就反过来再问一个点，就是你刚才讲说我们要去找特定人群，那在触达这些特定人群上面有没有什么样的方式方法是比较有效的。
+</p>
+<p class="transcript-line">
+<span class="time"><strong>[00:46:59]</strong> </span>
+<span class="speaker"><strong>发言人2: </strong></span>
+触达这类人群。那你看这儿就是这儿有个call back，你看我们最开始的用户画像是什么？
+</p>
+<p class="transcript-line">
+<span class="time"><strong>[00:47:06]</strong> </span>
+<span class="speaker"><strong>发言人1: </strong></span>
+对对对。
+</p>
+<p class="transcript-line">
+<span class="time"><strong>[00:47:06]</strong> </span>
+<span class="speaker"><strong>发言人2: </strong></span>
+是不是已经非常精确了。
+</p>
+<p class="transcript-line">
+<span class="time"><strong>[00:47:08]</strong> </span>
+<span class="speaker"><strong>发言人1: </strong></span>
+对。
+</p>
+<p class="transcript-line">
+<span class="time"><strong>[00:47:09]</strong> </span>
+<span class="speaker"><strong>发言人2: </strong></span>
+就是你就是属于你按图所需了，对吧？你看首先第一个，我知道我的用户大概是你不能叫用户，应该是客户。我的客户是什么样的人我已经非常的清楚了。我知道他的行为习惯了，我也知道他的消费习惯了。那这个时候的话你无非就两种方式。
+</p>
+<p class="transcript-line">
+<span class="time"><strong>[00:47:26]</strong> </span>
+<span class="speaker"><strong>发言人2: </strong></span>
+第一种方式就是说你可能正向的去推广，对吧？正向推广。可能我说不管是我我自己去写软文，写博客，或者说录一些tiktok或录一些视频去介绍。然后通过这种自我宣发的方式来去引流这几种方式。
+</p>
+<p class="transcript-line">
+<span class="time"><strong>[00:47:41]</strong> </span>
+<span class="speaker"><strong>发言人2: </strong></span>
+第二种方式的话，你就去你的竞争对手去挖客户，这个东西是一个非常直接简单有效的方法。因为是这样的，就是你竞争对手的客户不代表他百分百满意那个产品。你给他一个机会，他说不定就变成了你的客户了。
+</p>
+<p class="transcript-line">
+<span class="time"><strong>[00:48:02]</strong> </span>
+<span class="speaker"><strong>发言人2: </strong></span>
+举个最简单的例子，就是说你看word quest现在是全球最大的CMSS系统对不对？所有的想做CMS系统的，它必须有一个功能，把word Price的数据导进来。是对吧？那那就是挖客户，对吧？就非常简单。
+</p>
+<p class="transcript-line">
+<span class="time"><strong>[00:48:20]</strong> </span>
+<span class="speaker"><strong>发言人2: </strong></span>
+你说你说这是软件硬件层面很简单，就是说去年买的小米手机，小米14。然后我新开机的时候，它有三个选项。第一个新用户注册，第二个从别的小米导入，第三个从iphone导入，都很简单。你就去挖，你这儿就引出了一个点，就是说我怎么去挖个你的竞争对手的留言板评论区，或者说他他一般来说国外的话会有那种帮助区，比如说自主服务区对不对？他可能会留言BBS或者怎么样的东西，他有抱怨，你就DM他对不对？
+</p>
+<p class="transcript-line">
+<span class="time"><strong>[00:48:59]</strong> </span>
+<span class="speaker"><strong>发言人2: </strong></span>
+你说我这有个东西你自我推销一下，这个其实成功率很高的。而且这套东西在国内不管是闲鱼还是小红书，很多商家已经玩烂了。就是大量的去你的竞争对手下面去挖节流，挖客户，是不是？这是一个很正常的商业行为，就是不要去忌讳这个事情做就行了。
+</p>
+<p class="transcript-line">
+<span class="time"><strong>[00:49:20]</strong> </span>
+<span class="speaker"><strong>发言人1: </strong></span>
+嗯嗯嗯嗯嗯OK我们也可以看到小红书上其实有很多那种节流的。比如说我发了一个内容，然后下面就讲说其实另外一个产品可能更好，对吧？类似于这样子，然后用类似这样的节流的方式，对其实讲道理是真的挺有效的，最怕的就是别人一手举报。
+</p>
+<p class="transcript-line">
+<span class="time"><strong>[00:49:39]</strong> </span>
+<span class="speaker"><strong>发言人2: </strong></span>
+其他都还好。
+</p>
+<p class="transcript-line">
+<span class="time"><strong>[00:49:43]</strong> </span>
+<span class="speaker"><strong>发言人1: </strong></span>
+对，然后我想问一下，你看这个是你挖的吗？你分析的吗？对，然后你有没有一些整体上去批量找的这种思路，能不能我们批量去找到一些这样的机会，就有点像ICU找词？我得找到什么现在的trending？然后我得有一些相关的功能词？两个拼起来，然后怎么样去找，怎么样抓。对我想知道一下就是你自己有没有总结一些类似这种批量找红海里边的锤炼的思路的机会。
+</p>
+<p class="transcript-line">
+<span class="time"><strong>[00:50:12]</strong> </span>
+<span class="speaker"><strong>发言人2: </strong></span>
+有一些简单的方法论大家要去做的话，先不考虑说是那种买服务或者自动化的事先有一个所谓的网感。不管是你的竞争对手，假如说你不知道你的竞争对手是谁，那你就去所有流量最高的什么reddit、twitter、小红书、take talk。然后你去看就是大家在抱怨什么，不要去看那些娱乐视频就让你开心，让你乐的。然后就是你你就去看，就看几种。第一个大家在抱怨什么。第二个的话打个比方，就是说你去看一些什么生活小技巧，工具使用技巧分享看一下这些内容可能是软文。
+</p>
+<p class="transcript-line">
+<span class="time"><strong>[00:50:53]</strong> </span>
+<span class="speaker"><strong>发言人2: </strong></span>
+没事看用户评论是什么？看用户评论就是四月份去深圳那边跟一些电商的人去做海外电商的人去聊他们的一个思路，就是我觉得非常有意思，是什么呢？就是说他是去做ico car的，就是卖那种各种车的car p play的那个配件的。对，他干了一件什么事儿呢？就是说他是卖这个配件的那这个配件可能会适配这几个车型，对不对？他的车型适配是有限的，他就去各大厂商这个车型号的帮助中心，或者说社区，或者说用户自建的社区下面去找用户的抱怨点。这个靠谱的用不了，或者说我是什么什么车，然后这个car play什么时候能适配，对不对？就非常精准的用户，就在这就就能找得到，然后这是一个点。
+</p>
+<p class="transcript-line">
+<span class="time"><strong>[00:51:50]</strong> </span>
+<span class="speaker"><strong>发言人2: </strong></span>
+二一个的话就是说通过这个你就能找到了，就是说你的需求点是什么？然后再反过来做什么呢？就是说看这个需求市面上你的直接竞争对手也好，建设间接竞争对手也好，他们做到了什么，以及这些工具的差评是怎么样的。那那你看你就沉淀了两批人了，对不对？
+</p>
+<p class="transcript-line">
+<span class="time"><strong>[00:52:13]</strong> </span>
+<span class="speaker"><strong>发言人2: </strong></span>
+然后再接下来的话去哪儿？去fever，去up work上看这类需求有没有人。假如你是这个客户搞定你，你去验证，对吧？你去验证相当于是你你去让这些所谓的外包或者是自由职业者帮你去验证这个事儿。就假如说他都有这个服务，比如我举个例子说，你做网站肯定会有那种外链提交，或者写一些博客测评的网站，对不对？就这些的服务，那都有这样的服务了，那说明这个需求是个真实的需求，你就可以跳过了。就是说哎这个是需求是个真实需求，这个伪需求的一个阶段了。你就看他们提供的怎么样，你就打擂台，他可能提供1234，然后我在这一二在里面我可能能提供什么，我最擅长的是什么，然后我比他做的好的是什么，你就可以做一做差异化分析了。你就通过这三个步骤，你就把很多很多的这种所谓的未知市场或者利息市场，你就能找得到。
+</p>
+<p class="transcript-line">
+<span class="time"><strong>[00:53:09]</strong> </span>
+<span class="speaker"><strong>发言人1: </strong></span>
+OK你刚才讲CARPLAY这个逻辑，就是去大的论坛里面去看哪个车型还不支持CARPLAY，哪个车型CARLAY经常断连？类似这种乱七八糟的对，然后去找这样的机会。然后再一个就是Polly life，去他的APP store里面看用户到底在吐槽什么东西。然后我们就有机会了。
+</p>
+<p class="transcript-line">
+<span class="time"><strong>[00:53:29]</strong> </span>
+<span class="speaker"><strong>发言人1: </strong></span>
+然后第三个就是看一下fever等等这些帮别人干活的这些网站是不是真的有人接单对吧？那这个就是一个很天然的需求？我觉得这个逻辑还挺好的，从真实的里边来？最终可能就能转化成用户的付费，用户的订单。那我想问一下，假如我真的找到了这个东西，那有没有一些常见的一些坑？就是我能不能判断一下，说到底我这个玩意儿到底靠不靠谱，我不知道你有没有判断的标准。
+</p>
+<p class="transcript-line">
+<span class="time"><strong>[00:53:58]</strong> </span>
+<span class="speaker"><strong>发言人2: </strong></span>
+这边的话其实是我自己有一个简单的一个清单，就是说我会反问一些这个问题。比如第一个，比如目标用户有没有比较明确的付费能力或者付费意愿，他愿意给钱，这个很关键。他的说的一些关键词都是什么免费的、无广告的怎么样的那你就知道大部分人对自己的意愿就是说他有钱他不愿意给OK，这这是一个。第二个的话就是说你都了解了这个需求，你要去反问自己，就是这个需求所谓的痛点是不是够足够强烈，它影响到了这个用户的一些正常行为，对，这是第二个。
+</p>
+<p class="transcript-line">
+<span class="time"><strong>[00:54:33]</strong> </span>
+<span class="speaker"><strong>发言人2: </strong></span>
+第三个的话就是说现有的解决方案就是你的友商，他有没有一些明显的缺陷或者说机会，然后第四个是什么？就是说我能不能用一个简单方便的方法来解决这个需求里面的80%到90%的内容。你不能说我花十个亿解决一个问题，那那那这那那不是我们考虑的问题，对不对？
+</p>
+<p class="transcript-line">
+<span class="time"><strong>[00:54:56]</strong> </span>
+<span class="speaker"><strong>发言人2: </strong></span>
+然后第五个是什么？就是说我们的获客的成本是不是相对稳定并且可控。假如这是我提到的这些问题里面有三个或以上的问题是否定的那我们觉得就是这个机会的实施成本比较高，他可能是个真需求。我们这个3到5个人的或者1到5个人这个小团队的实质成本太高了。无非是什么？就是说我们这1到5个人里面，有一些人他有一些独有的资源优势，他能去搞定这个事儿。
+</p>
+<p class="transcript-line">
+<span class="time"><strong>[00:55:25]</strong> </span>
+<span class="speaker"><strong>发言人2: </strong></span>
+我举一个例子，就之前我在投放公司待有一个投放公的团队，他们的任务完成率一直会特别高。然后我们我是通过喝酒，然后才知道它的一个优势是什么。你做谷歌会有CPC，就CPC1个用户大概是几美元。比如说我们做某一个品类，它的大盘的CPC是8美元一个用户。然后他有自己的渠道可以做到3美元一个用户，这是他独有优势，对吧？那就他怎么做都是赢了。对但是如果说我们没有这样的独有优势的话，我们按照刚才我说那五个问题的话，假如超过三个以上是否定的那我们觉得就是这个实施成本太高了，我们不太考虑去做这个事情。
+</p>
+<p class="transcript-line">
+<span class="time"><strong>[00:56:07]</strong> </span>
+<span class="speaker"><strong>发言人1: </strong></span>
+OK, 确实我觉得这几个条件还挺好的。对，就是给一个卡点，对吧？就是你刚才讲的checks st对吧？这个checks st写到一个小本本上，每次找到一个机会给他兑一下对吧？看一下是不是真的有问题。
+</p>
+<p class="transcript-line">
+<span class="time"><strong>[00:56:20]</strong> </span>
+<span class="speaker"><strong>发言人1: </strong></span>
+对，有时候我觉得还是要避免脑子过热。我们上一期跟上一聊的时候，会后还在跟尚毅在聊这个事儿，就是很多时候要避免脑袋发热，第一天上头你可能觉得一个机会特别好，对吧？然后你先不要动，你等第二天睡一觉醒来的时候，你再想一下到底还有没有那么热。
+</p>
+<p class="transcript-line">
+<span class="time"><strong>[00:56:38]</strong> </span>
+<span class="speaker"><strong>发言人1: </strong></span>
+第二天还觉得这个事儿好的话，再拿出你的这个checklist的清单怼一下。是不是有三个以上是不行的对吧？然后我就给他做八个。对我觉得有一个这样的清单是真的挺好的。对，然后我就想问一下，你看我们现在有方法了，我知道要怎么找，然后我有checks st的清单，如果我要真实行动的话，我觉得有一点就是在上一期其实我们聊的时候还是挺大的问题。就是很多人在做完一个点之后，他其实就知道不太行了。但是可能是不知道被外部的人逼的，还是自己上头了，他还要猛做猛猛做，结果就越陷越深对吧？真正败了可能还是外面的人告诉他的，或者说自己没钱了。
+</p>
+<p class="transcript-line">
+<span class="time"><strong>[00:57:18]</strong> </span>
+<span class="speaker"><strong>发言人2: </strong></span>
+做不下去了。对对对对我我不知道。
+</p>
+<p class="transcript-line">
+<span class="time"><strong>[00:57:20]</strong> </span>
+<span class="speaker"><strong>发言人1: </strong></span>
+你有没有这样的执行计划，或者说怎么样能够让这个事儿已经不行了，你就别干，就是让让这个事儿能feel fast一点，我可以木棒去做下一个事儿。
+</p>
+<p class="transcript-line">
+<span class="time"><strong>[00:57:31]</strong> </span>
+<span class="speaker"><strong>发言人2: </strong></span>
+止损点对吧？
+</p>
+<p class="transcript-line">
+<span class="time"><strong>[00:57:33]</strong> </span>
+<span class="speaker"><strong>发言人1: </strong></span>
+对对对，是的。
+</p>
+<p class="transcript-line">
+<span class="time"><strong>[00:57:34]</strong> </span>
+<span class="speaker"><strong>发言人2: </strong></span>
+其实我一般来说就像这种垂类的小需求，我们定义为小需求，我基本上是分为三个阶段。假如数据没到这个指标，那我觉得除非你特别有魄力，或者说我的我我我是有超能力，我要愿意坚持把这个做下去。不然的话一般来说你可以放一放等一等。
+</p>
+<p class="transcript-line">
+<span class="time"><strong>[00:57:52]</strong> </span>
+<span class="speaker"><strong>发言人2: </strong></span>
+就是哪三个阶段？第一个是验证阶段，就第一周跟第二周的时候，我们可以通过简单的landing配置。然后我的考核点是什么？就是说你能不能获得到100个邮箱订阅的人就是他爱我就是说我他他就愿望单说我对这个感兴趣对吧？或者说你能不能拿到前十个，他明确发邮件说我就要这玩意儿，把你的银行账号给我给你打钱。就是你要么达到拿到100个愿望愿望清单，你要么拿到10个，就是很明确告诉你我要给钱的用户。不然的话你其实你有可能就是放弃了这儿。
+</p>
+<p class="transcript-line">
+<span class="time"><strong>[00:58:28]</strong> </span>
+<span class="speaker"><strong>发言人2: </strong></span>
+但是防止很多听众有杠精附体ETC附题就是说你做完了这个landing配置，你不是往那一丢就不管了，你该宣发的还是要宣发，该宣传的还是要宣传的，你你你你这个还是要做的，你不能说我我做完了往那一丢啥都不管了。假如说没有，那这个机会就过，不不一定一定不要的，就是你能想到的方式全部宣发，也让全世界都知道。你你能触达到的所有人都知道我做了这玩意儿，你感不感兴趣。如果说你这个都做了，然后你都做不到。
+</p>
+<p class="transcript-line">
+<span class="time"><strong>[00:59:03]</strong> </span>
+<span class="speaker"><strong>发言人2: </strong></span>
+比如说100个邮箱的愿望历史清单或者钱是个直接愿意给钱的人。因为我之前碰到过一些，不管我自己身边的实际的情况，还是说身边人去做的情况，就是他可能只是有一个idea。他连landing配置都没做完，他在群里一说，然后人家直接就先转了100美元。我说我我先我先给定金，就你后面涨价不要不要找我事情。那说明就是说他是真的找到了他自己的一个第一批用户。对，这个就是一概念验证阶段。
+</p>
+<p class="transcript-line">
+<span class="time"><strong>[00:59:33]</strong> </span>
+<span class="speaker"><strong>发言人2: </strong></span>
+第二个的话就可能比如说四周或者五周，反正一个月之内就尽可能在一个月之内包含你的开发，你的宣发，就是两个月内能不能做到100个用户，100个付费用户。然后这100个付费用户其实是我们也看价格的。假如说你的你走的是低价策略，比如说我就是9.9块每到一个用户的那我就看你的金额是不是达到2万美元。杨梅或者1万美元对于一个个人来说，是刚好能cover住你一个月或者两个月的一个生活成本的，对吧？那你如果说连这个都没达到的话，那我觉得可能就是说就要么是你找对了市场，但是你做的方式不对。要么就是说你没有真正做到让全世界都知道你在做这些玩意儿，你的宣发方式有问题。
+</p>
+<p class="transcript-line">
+<span class="time"><strong>[01:00:21]</strong> </span>
+<span class="speaker"><strong>发言人2: </strong></span>
+如果说是比如说比那种定价比较贵的，比如说200美元或者300美元那种的那你可能更多的去看，你自己可以定一个卡，我自己的标准就是两，比如说200美元的一个客单价的那我要最少也是20个或者30个，这样的话才能去cover住我这样的一个成本。因为你你相当于是你全力以赴1到2个月再去做这个事情。那你基本上就我的自己的心里一个价位就是2万，或者说多一点点，或者少一点点。商家看你自己情况，就是你能不能cover住这个成本。如果能cover住的话，那我觉得那就是没问题的，继续往下做。
+</p>
+<p class="transcript-line">
+<span class="time"><strong>[01:00:54]</strong> </span>
+<span class="speaker"><strong>发言人2: </strong></span>
+然后到了增长阶段的话，那其实就是说你比如说你的20个付费用户到100个付费用户，到1000个付费用户，这个数据你就往上涨了。但是我们刚才讲的是止损点，就不是说其实如果说没到达这条线，很快的花半个小时或者1个小时的自我看一下，是需求不对，我实现的方法不对，我定价策略有问题，我宣发方法有问题。肯定是其中免有个问题，看能不能在一两周内快速的去改变它，解决掉它。如果不行，赶紧放弃，赶紧做下一个。
+</p>
+<p class="transcript-line">
+<span class="time"><strong>[01:01:28]</strong> </span>
+<span class="speaker"><strong>发言人1: </strong></span>
+对我觉得你讲的有一点特别好，最终还是要看有多少人愿意掏钱，对吧？我觉得很多人可能做了一个比较好的产品，就跟你刚才举的那个例子，拿了300万用户赚了20块钱，这种也真的挺惨的。
+</p>
+<p class="transcript-line">
+<span class="time"><strong>[01:01:42]</strong> </span>
+<span class="speaker"><strong>发言人2: </strong></span>
+说出去没人信的对。
+</p>
+<p class="transcript-line">
+<span class="time"><strong>[01:01:44]</strong> </span>
+<span class="speaker"><strong>发言人1: </strong></span>
+就是其实很多人觉得说我有用户我就能赚钱。但实际上很多需求真的不一定是我有用户我就能赚钱。而是你有了用户，一旦你一收钱，你发现用户全跑了。
+</p>
+<p class="transcript-line">
+<span class="time"><strong>[01:01:56]</strong> </span>
+<span class="speaker"><strong>发言人2: </strong></span>
+这个就成你的成本了。
+</p>
+<p class="transcript-line">
+<span class="time"><strong>[01:01:58]</strong> </span>
+<span class="speaker"><strong>发言人1: </strong></span>
+对对对，是的，好的，今天特别感谢sara的时间，然后能接受我们采访。最后我们还是惯例，一分钟的广告时间，然后你可以自由发挥一下。
+</p>
+<p class="transcript-line">
+<span class="time"><strong>[01:02:08]</strong> </span>
+<span class="speaker"><strong>发言人2: </strong></span>
+既然我们今天的话题是垂直市场，那我就宣传一下我自己做那个微信公众号有说话can you play？这个的话就是目前粉丝不多，但他做其实做了一件事情，就是说把每天的access跟PH的每天发布的产品，我去把它爬下来，然后整理成一个所谓的一个简报的形式去放到公众号里面。目前只有不到4000的粉丝。但是有一个标有意思成就，就是说有50个读者通过我的公众号赚到了第一笔1万美元了。就是我这个公众号，我靠什么打赏，广告我才赚了不到一万多美元。然后他去靠我其中一个产品，他觉得这个产品挺好的，有这个想法，他快速去做了一个差不多的自己已经赚了第一笔1万美元了。我就说我靠，那你这要给我发红包。
+</p>
+<p class="transcript-line">
+<span class="time"><strong>[01:03:01]</strong> </span>
+<span class="speaker"><strong>发言人1: </strong></span>
+就是这样。
+</p>
+<p class="transcript-line">
+<span class="time"><strong>[01:03:02]</strong> </span>
+<span class="speaker"><strong>发言人2: </strong></span>
+对，然后吐槽一下，因为上次不是介绍了IM大蒜是later，然后就发现我录完你节目以后，第一个月我我发现同时上架了二十多个一模一样的，真的像物理机我们有那么大影响力吗？只能说你的品牌用户粉丝足够多。对他这就抄我的漫画翻译网站的。然后不是我不是说不推荐大家抄，而是在于你看我们聊完了这么多了以后，有个核心点，就是说你可能听见我在这个方面上赚钱了。但你不知道为什么用户要买单，以及为什么用户持续愿意买单，你对这个事儿是没概念的。你花了很多的时间跟精力投入这件在这件事上后，那你只有一个可能性，你就是亏本。所以我建议大家做一些更有价值，或者说在你身边发现一些更有价值的需求，然后去满足他，去赚到第一个1万美元。我觉得这个你才有更有成就感。
+</p>
+<p class="transcript-line">
+<span class="time"><strong>[01:03:59]</strong> </span>
+<span class="speaker"><strong>发言人1: </strong></span>
+这个才有有意思。对，我们自从在博客里面一直在宣传pod west之后，我也在小红书在各个地方发现了好多好多抄pod s的网站。甚至我们之前有一个抄我们的，现在已经关门了，已经有人比我们。
+</p>
+<p class="transcript-line">
+<span class="time"><strong>[01:04:17]</strong> </span>
+<span class="speaker"><strong>发言人2: </strong></span>
+先倒闭了。对，把后来者熬死了。
+</p>
+<p class="transcript-line">
+<span class="time"><strong>[01:04:20]</strong> </span>
+<span class="speaker"><strong>发言人1: </strong></span>
+对，大家真的没事儿不要抄了，其实意义不是很大。对，因为其实前面第一个人建立的品牌效应其实很大的对，包括3个AI mango translator，其实这个名字就很值钱了。对，就是这个事儿你可能是抄不来的那今天我们跟萨卡聊完，我自己发现其实跟我们以前的理念好像不冲突。就是sga也不是说让你去做独立开发三件套，就是抄给一个跟别人一模一样的东西。他其实还是说在红海市场里面找一个垂类市场？然后找到一个付费密度高的群体？我觉得这个付费密度这个概念其实确实特别好。就是你不要总想着说我能拿多少免费用户，而是你要在你触达的这个用户里边有足够高的付费密度。你其实不一定要拿那么多的用户，你也可以赚很多钱。
+</p>
+<p class="transcript-line">
+<span class="time"><strong>[01:05:07]</strong> </span>
+<span class="speaker"><strong>发言人1: </strong></span>
+然后我觉得三哥讲的这个逻辑很好的一点是，首先这个市场是有红海的群众基础的，然后你在这个群众基础里边，你切中了要害，掐了一些尖儿，你反倒能赚钱。对我觉得这个思路真的挺好。对，而且不一定说你非得做一个完整的产品，其实你做一个插件也挺好的。像是类似于像Monica对吧？他们一开始其实也是chrome插件，对吧？对对对。
+</p>
+<p class="transcript-line">
+<span class="time"><strong>[01:05:32]</strong> </span>
+<span class="speaker"><strong>发言人2: </strong></span>
+还是我觉得。
+</p>
+<p class="transcript-line">
+<span class="time"><strong>[01:05:33]</strong> </span>
+<span class="speaker"><strong>发言人1: </strong></span>
+这个思路是真的非常好，我觉得大家可以去尝试一下。对，那我们本期节目就先到这儿，感谢撒哥，我们下期再见，拜拜。
+</p>
+<p class="transcript-line">
+<span class="time"><strong>[01:05:42]</strong> </span>
+<span class="speaker"><strong>发言人2: </strong></span>
+感谢，拜拜。
+</p>
+<p class="transcript-line">
+<span class="time"><strong>[01:05:43]</strong> </span>
+<span class="speaker"><strong>发言人1: </strong></span>
+好，拜拜。以上就是我们本期播客的全部内容，感谢大家收听，也欢迎大家踊跃留言。如果你喜欢我们，欢迎点赞并分享给感兴趣的朋友。如果你在用苹果播客收听，也希望你花几秒钟给我们一个好评，这会让更多的人了解到我们要是能再点击一下订阅，那就再好不过了，我们下周见。
+</p>]]></content:encoded>
+            <pubDate>Wed, 06 Aug 2025 23:00:00 GMT</pubDate>
+            <guid>6893a2ae638b01587952b3cf</guid>
+        </item>
         <item>
             <title>EP109 抱抱窝复盘：一个耗时16个月、投资45万的AI社交应用的 “完美失败”</title>
             <link>https://www.xiaoyuzhoufm.com/episode/68826bd5a9dec9250006210f</link>
@@ -22820,755 +23799,6 @@ Podwise.ai - Podcast knowledge at 10x speed 🚀
 </p>]]></content:encoded>
             <pubDate>Tue, 29 Oct 2024 22:00:00 GMT</pubDate>
             <guid>6720ffd9cbe0e69c8b9be17a</guid>
-        </item>
-        <item>
-            <title>EP80 1024特辑：我们（公司）应该如何过好程序员节？</title>
-            <link>https://www.xiaoyuzhoufm.com/episode/67166835db2cf82757e38127</link>
-            <description>大家好！本期节目聊点轻松话题，聊一聊我们自己的1024程序员节。
-我们一起回顾技术论坛的黄金时代，也一起惋惜如今的现状。 除了技术，我们还会聊聊程序员的那些事儿：代码事故、奇葩bug、以及剁手党程序员们的消费清单！更重要的是，我们将探讨如何让程序员节日更high，更有意义！
-更多内容信息和时间线参考下文的硬地笔记，欢迎收听本期节目。
-另外，现在加入「硬地骇客」会员服务，即可在会员专属的微信群与其他朋友一起畅所欲言，成为会员也是对我们持续更新最大的鼓励！
-本期赞助
-Podwise.ai - Podcast knowledge at 10x speed 🚀
-硬地笔记
-00:00:04 程序员节的起源与现状
-00:04:06 长沙1024街与CSDN的兴衰
-00:07:24 程序员生涯的启蒙与影响
-00:13:14 程序员的八卦与事故案例
-00:19:18 程序员的消费与“吃灰”电子产品
-00:27:48 理性消费与业余爱好的选择
-00:31:17 如何让程序员的节日更有意义？
-00:39:08 程序员的业余爱好与行业现状
-欢迎关注我们
-* 知识星球: t.zsxq.com
-* 官网: hardhacker.com
-* 小手册: book.hardhacker.com
-* 用爱发电不容易，请我们喝咖啡☕️: afdian.net
-* 公众号/小红书: 硬地骇客
-* 商务合作: hardhackerlabs@gmail.com</description>
-            <content:encoded><![CDATA[<h1>转写链接</h1>
-<link>https://tongyi.aliyun.com/efficiency/doc/transcripts/47z39vdr5l2w9edg</link><br>
-<h1>节目摘要</h1>
-<div class="summary">几位嘉宾讨论了程序员行业的现状与挑战，包括AI技术可能带来的行业变化和工作威胁，强调了适应变化和积极面对的重要性。他们分享了庆祝1024程序员节的方式，表达了对技术进步的乐观态度，同时也谈到了个人的业余爱好和生活哲学，如看恐怖片、画画和健身，以此来缓解工作压力。嘉宾们鼓励大家保持乐观，探索新机会，展现了对未来的期待和对生活的热爱。</div><br>
-<h1>章节速览</h1>
-<div class="chapters">
-<div class="chapter-item">
-<span class="time"><strong>[00:00:00]</strong> </span>
-<span class="chapter-title"><strong>1024程序员节的起源与发展</strong></span>
-<div class="chapter-summary">本期节目讨论了1024程序员节的起源及其在不同国家的庆祝方式。节目指出，虽然在中国这个节日是民间自发的，而在俄罗斯它是一个官方认可的日子，但两者都不放假，主要以自嗨的形式庆祝。此外，还提到了长沙设立的全国首个程序员专属街道“1024街”，旨在为程序员提供一个特别的纪念空间。尽管节日对减少加班的实际效果有限，但它为程序员提供了一个情绪释放的借口和自嗨的方式。</div>
-</div>
-<div class="chapter-item">
-<span class="time"><strong>[00:04:40]</strong> </span>
-<span class="chapter-title"><strong>长沙产业升级与程序员社区的发展变迁</strong></span>
-<div class="chapter-summary">对话中讨论了长沙在产业升级和吸引科技人才方面的努力，特别是在增加程序员数量方面取得的显著成效。同时，提到了1024程序员节的庆祝活动，以及与CSDN等老牌程序员网站的合作。此外，还回顾了CSDN和博客园等程序员社区的发展历程，以及它们在提供资源和解答问题方面的角色变化，反映了中国程序员网站的现状和面临的挑战。</div>
-</div>
-<div class="chapter-item">
-<span class="time"><strong>[00:07:06]</strong> </span>
-<span class="chapter-title"><strong>程序员节：高中同学的启蒙与比尔盖茨的故事</strong></span>
-<div class="chapter-summary">在程序员节之际，讨论了对个人程序员生涯产生重大影响的人物。提及了比尔盖茨的故事以及其形象的变化，同时也分享了一个高中同学通过文曲星启蒙编程经历的有趣故事。这位高中同学后来转向了法律和艺术领域，而讲述者则深受启发，持续在编程领域发展。</div>
-</div>
-<div class="chapter-item">
-<span class="time"><strong>[00:09:31]</strong> </span>
-<span class="chapter-title"><strong>致敬坚持更新技术博客的程序员大神</strong></span>
-<div class="chapter-summary">对话中讨论了对影响深远的程序员的敬仰，特别是那些在技术领域有卓越贡献的大神级别人物。特别提到了一位资深程序员云峰，他不仅在游戏领域有高深的造诣，而且坚持多年更新技术博客，这种持续分享和贡献精神被认为是非常难得和值得同行致敬的。</div>
-</div>
-<div class="chapter-item">
-<span class="time"><strong>[00:12:30]</strong> </span>
-<span class="chapter-title"><strong>中国技术标杆云峰与程序员八卦事件</strong></span>
-<div class="chapter-summary">对话中提到云峰被形容为中国版的约翰卡马克，强调他在技术钻研和优化方面的标杆作用。此外，还提到了一个关于字节跳动实习生在训练集群中植入恶意代码，导致上千万损失的八卦事件，讨论了程序员在工作中可能因疏忽或恶意行为带来的影响。</div>
-</div>
-<div class="chapter-item">
-<span class="time"><strong>[00:13:50]</strong> </span>
-<span class="chapter-title"><strong>程序员犯错导致重大损失的案例</strong></span>
-<div class="chapter-summary">对话中讨论了程序员因为代码错误导致重大损失的案例，其中最著名的案例之一是某金融公司由于软件bug在短时间内买入巨额股票，导致4.4亿美金的损失。此外，还提到了一些常见的程序员错误，如将私钥提交到GitHub、私自更换公司硬件设备以及私开公司内部接口牟利，这些行为不仅导致个人被开除，还可能面临法律责任。这些例子强调了程序员错误可能带来的严重后果。</div>
-</div>
-<div class="chapter-item">
-<span class="time"><strong>[00:16:22]</strong> </span>
-<span class="chapter-title"><strong>程序员被家人误解为电脑专家的尴尬经历</strong></span>
-<div class="chapter-summary">对话者回忆在淘宝工作时遇到的不合理请求，如删除差评和走后门参加活动，强调这些并非程序员职责。他分享了一个尴尬的场景，即老丈人的电脑启动不了，尽管他身为程序员，但对Windows系统不熟悉，通过谷歌搜索错误信息，尝试多种方法仍无法修复，最终只能建议拿到专业店里修理。这反映了家人和社会对程序员能力的误解和期望。</div>
-</div>
-<div class="chapter-item">
-<span class="time"><strong>[00:18:29]</strong> </span>
-<span class="chapter-title"><strong>双十一消费计划与数码产品选择</strong></span>
-<div class="chapter-summary">对话中讨论了关于淘宝删差评和小红书禁言的问题，进而引申到双十一的消费计划。讨论者表示在双十一可能购买数码产品作为犒劳，特别是考虑购买新款的MacBook Pro或攒一台ITX台式机，尽管对于数码产品的兴趣已不如以前，但认为购买这些产品能带来持续的快乐和使用价值。同时，还提到了当前消费低迷的情况，以及对于旅行和生活的其他兴趣。</div>
-</div>
-<div class="chapter-item">
-<span class="time"><strong>[00:23:32]</strong> </span>
-<span class="chapter-title"><strong>电子产品购买陷阱与取悦自己的价值</strong></span>
-<div class="chapter-summary">对话围绕电子产品购买的冲动和后续使用率低的问题展开，特别提到了Kindle彩色版、无人机、游戏机等产品。讨论者们反思了购买这些产品时的冲动和实际使用情况，指出很多产品买来后很快就被闲置，主要是因为新鲜感和一时的激情。尽管如此，他们也提出，如果购买这些产品能带来快乐，即使最终可能闲置，也值得考虑购买。此外，还建议购买二手产品以减少经济损失，并强调量力而为，适度购买一些不常用但能带来快乐的电子产品。</div>
-</div>
-<div class="chapter-item">
-<span class="time"><strong>[00:28:13]</strong> </span>
-<span class="chapter-title"><strong>开源掌机与程序员节日活动的讨论</strong></span>
-<div class="chapter-summary">讨论围绕是否购买开源掌机展开，表达了对这类产品的兴趣和担忧。随后转向讨论程序员节的庆祝活动，提出了多种建议，包括放假、发放有用的技术奖品、报销工作相关物品以及举办相亲活动等，以更好地满足程序员的实际需求和兴趣。</div>
-</div>
-<div class="chapter-item">
-<span class="time"><strong>[00:33:29]</strong> </span>
-<span class="chapter-title"><strong>阿里程序员的联谊与工作生活平衡</strong></span>
-<div class="chapter-summary">对话围绕阿里程序员与运营、客服之间的联谊现象展开，讨论了不同公司性别比例对社交活动的影响。此外，还探讨了程序员如何通过业余爱好平衡繁忙的工作，包括写代码、看恐怖片和画画等放松方式。对话中还提到了京沪高铁被称为“牛马线”的趣事，反映了上班族的忙碌生活。</div>
-</div>
-<div class="chapter-item">
-<span class="time"><strong>[00:37:09]</strong> </span>
-<span class="chapter-title"><strong>互联网行业经历及压力释放方式探讨</strong></span>
-<div class="chapter-summary">对话者分享了在淘宝工作期间参与重大项目的经历，包括长时间高强度的工作和由此带来的压力，以及如何通过业余爱好，如玩游戏、看漫画和健身来缓解压力。此外，还讨论了看恐怖片作为解压方式的可能性，以及对互联网行业当前走下坡路的观察和反思。</div>
-</div>
-<div class="chapter-item">
-<span class="time"><strong>[00:41:05]</strong> </span>
-<span class="chapter-title"><strong>AI对程序员行业的挑战与机遇</strong></span>
-<div class="chapter-summary">对话围绕AI技术对程序员行业的影响展开，指出AI技术的发展可能使部分程序员的工作机会受到威胁，同时也强调了自我革命和拥抱变化的重要性。讨论还提到了经济周期中的重大节点，包括互联网、短视频、直播等，强调抓住时代节点的重要性。最后，通过与公务员行业现状的对比，鼓励程序员保持乐观态度，不断适应和迎接新技术带来的挑战。</div>
-</div>
-<div class="chapter-item">
-<span class="time"><strong>[00:45:01]</strong> </span>
-<span class="chapter-title"><strong>AI时代：年轻人与高学历的机遇与挑战</strong></span>
-<div class="chapter-summary">对话讨论了人工智能（AI）领域的现状与前景，指出当前在AI领域取得成就的主要是年轻且学历较高的群体，与互联网早期非高学历主导的情况形成对比。参与者反思了互联网时代的老一辈可能因各种原因未能及时拥抱AI浪潮，强调了积极应对变化、拥抱新技术的重要性。同时，他们也提到程序员群体相较于其他行业，在经济环境不佳时仍拥有更多选择和机会，如独立开发、出海赚钱和远程工作等。最后，鼓励大家保持乐观，继续探索，希望在未来的道路上找到新的出路。</div>
-</div>
-</div><br>
-<h1>问题回顾</h1>
-<div class="qa-item">
-<div class="question"><strong>Q:</strong> 为什么选择10月24日作为中国程序员节的日子？</div>
-<div class="answer"><strong>A:</strong> 选择10月24日是因为1024这个数字在中国较为容易记忆，且比国际上256所代表的日期更容易被大众接受。同时，1024也与国内一个热门网站地址有关联，但具体细节未在此提及。</div>
-</div>
-<div class="qa-item">
-<div class="question"><strong>Q:</strong> 1024程序员节的由来是什么？</div>
-<div class="answer"><strong>A:</strong> 1024程序员节在中国是一个民间节日，定在每年的10月24日，源自2的10次方（1024）无法被365天整除。而在俄罗斯，1024程序员节是一个官方认可的节日，并且在全球也得到一定认可，但国际上的程序员节是在每年的9月13日，即2的8次方（256）。</div>
-</div>
-<div class="qa-item">
-<div class="question"><strong>Q:</strong> 1024程序员节在中国有哪些具体的庆祝活动？CSDN在中国程序员群体中的角色如何？</div>
-<div class="answer"><strong>A:</strong> 在中国，1024程序员节有诸如长沙打造全国首个以“1024阶”命名的街道等庆祝活动，这些活动多由官方或相关机构联合企业发起，旨在营造节日氛围，鼓励程序员平衡工作与生活，减少加班。CSDN作为国内历史悠久的程序员社区，曾扮演过积极的角色，提供了一个提问解答、学习交流的平台。然而，随着时间推移，其发展状况不如早期，现已成为资料翻译站和商业广告搬运工，存在诸多诟病之处。</div>
-</div>
-<div class="qa-item">
-<div class="question"><strong>Q:</strong> 俄罗斯的程序员节有什么特点？</div>
-<div class="answer"><strong>A:</strong> 俄罗斯的程序员节虽然被官方认可，但并非放假或有大型庆祝活动，更多是一种行业内的自嗨形式。据说俄罗斯程序员会穿白色衣服来庆祝，而白色在16进制中为FF，换算成二进制全为1，寓意并不好。</div>
-</div>
-<div class="qa-item">
-<div class="question"><strong>Q:</strong> 在程序员群体中，有哪些您特别佩服的大神级别人物？</div>
-<div class="answer"><strong>A:</strong> 我觉得云峰是一个非常值得佩服的大神级程序员，他比我早一代，年纪比我大很多。我们对他的关注主要源于他的博客，他在游戏领域有很高的成就和丰富的经验。云峰不仅技术精湛，而且坚持更新博客，这在很多写博客的程序员中是非常难得的。</div>
-</div>
-<div class="qa-item">
-<div class="question"><strong>Q:</strong> 云峰与国际上哪位著名程序员有些相似之处？</div>
-<div class="answer"><strong>A:</strong> 云峰在中国程序员群体中，可以类比为国际上的约翰·卡马克，就是那位因优化3D渲染效率而闻名于世、制作了《毁灭战士》的程序员。他们都有着深厚的钻研技术精神，并且都对游戏行业有重大贡献。</div>
-</div>
-<div class="qa-item">
-<div class="question"><strong>Q:</strong> 程序员工作中是否存在一些导致严重后果的八卦故事可以分享？</div>
-<div class="answer"><strong>A:</strong> 是的，程序员在工作中确实会出现一些失误导致严重后果，比如有实习生在训练集群中恶意训练代码，造成上千万的损失。此外，还有诸如代码写错导致微信无法发布、火箭发射事故等真实案例，其中最具代表性的是一起因软件bug导致的资本损失达4.4亿美金的重大事故。</div>
-</div>
-<div class="qa-item">
-<div class="question"><strong>Q:</strong> 面对因程序问题造成的客户损失，程序员应如何处理？</div>
-<div class="answer"><strong>A:</strong> 当出现由于程序问题造成客户损失的情况时，公司通常会根据具体情况来决定是否赔偿客户。如果是因为程序员的疏忽或错误导致的问题，公司可能会承担相应的责任，并对相关责任人进行处理。</div>
-</div>
-<div class="qa-item">
-<div class="question"><strong>Q:</strong> 是否有一些程序员生活中不太规范的行为？</div>
-<div class="answer"><strong>A:</strong> 有的，比如前同事将私钥提交到GitHub上，或者私自挪用公司服务器SSD硬盘等行为。这些行为不仅违反公司规定，也可能对公司造成重大损失，甚至触犯法律。</div>
-</div>
-<div class="qa-item">
-<div class="question"><strong>Q:</strong> 程序员在生活中是否经常遇到难以解决的非专业领域问题？</div>
-<div class="answer"><strong>A:</strong> 是的，有时候在生活中面对一些家庭电脑问题时，由于自身技术专长不涉及此领域，可能会感到无从下手，甚至有时会给家人带来困惑。</div>
-</div>
-<div class="qa-item">
-<div class="question"><strong>Q:</strong> 双十一期间，你有什么购买数码产品的打算吗？对于那些不确定是否喜欢的新奇数码产品，你们有什么购买建议吗？</div>
-<div class="answer"><strong>A:</strong> 其实我最想买的还是数码产品，尤其是生产力工具。首先考虑更换MacBook Pro，因为现在用的是M1芯片的版本，但感觉时机不对，可能很快会有M4芯片的更新。如果暂时不换MBP，也会考虑攒一台ITX的小型台式机，不过对于机箱的选择很纠结，比如CK的industry FF04 pro art虽然外观精美且独特，但升级空间较小。建议可以尝试购买二手产品来体验，因为一手和二手价格差距大，但二手市场内的价格相对较低。这样既能满足新鲜感，又能在体验后选择留下还是转卖，基本不会亏太多钱。而且，对于一些玩具性质的电子产品，如智能手机等，不必过于纠结其功能是否全部利用，更多地是享受它们带来的乐趣。</div>
-</div>
-<div class="qa-item">
-<div class="question"><strong>Q:</strong> 对于目前市场上新出的一些数码产品，比如Kindle彩色版，你们觉得是否值得购买？</div>
-<div class="answer"><strong>A:</strong> Kindle彩色版在阅读体验上可能有所提升，但在真实感受上，有人认为它不如黑白版那样极致。如果单纯为了享受阅读，Kindle仍然是一个很好的选择，但对于是否购买彩色版，因人而异。确实有很多产品买来后容易闲置，成为“吃灰”的产品，这往往是因为当初购买时并未充分考虑自身实际需求和兴趣。</div>
-</div>
-<div class="qa-item">
-<div class="question"><strong>Q:</strong> 针对开源掌机这类产品，你们觉得是否值得购买来重温经典游戏？</div>
-<div class="answer"><strong>A:</strong> 开源掌机可以模拟大量游戏，对于想重温经典游戏的用户来说，这类产品具有吸引力。不过，在决定购买前，需要考虑自己是否真的会经常使用并从中获得乐趣，避免资源浪费。如果只是偶尔想玩玩老游戏过过瘾，购买二手或评价合适的开源掌机也是个不错的选择。</div>
-</div>
-<div class="qa-item">
-<div class="question"><strong>Q:</strong> 在公司庆祝1024节时，大家通常怎么安排活动？对于公司举办的活动，有何特别建议？</div>
-<div class="answer"><strong>A:</strong> 我记得在公司时，我们会准备1024节活动，但大部分时间大家只是在中岛台上放很多吃的喝的，一两个小时后活动就结束了。虽然有公司准备一些东西，但感觉吃喝之后就结束了，不够过瘾。建议公司直接放假一天，而不是通过吃喝活动。如果不想花钱又想搞活动，可以尝试举办相亲活动，帮助解决程序员们的终身大事问题。</div>
-</div>
-<div class="qa-item">
-<div class="question"><strong>Q:</strong> 如果公司要搞1024节活动，应该如何设计才能让员工开心并有实际意义？</div>
-<div class="answer"><strong>A:</strong> 最实际的是放假半天，前提是要调整工作 deadline。此外，可以考虑提前下班。活动方面，可以组织抽奖，奖品为程序员喜欢的有用物品，比如4090显卡等奖品，这样能吸引员工参与。同时，避免安排不受欢迎的活动，如强制参加黑客松。</div>
-</div>
-<div class="qa-item">
-<div class="question"><strong>Q:</strong> 对于公司给员工庆祝1024节，有哪些具体的建议？</div>
-<div class="answer"><strong>A:</strong> 公司可以给员工报销一定的额度用于购买对工作有用的东西，如正版软件、订阅费等。另外，可以考虑为员工提供购买更好电脑或人体工学椅子的报销，提升工作效率和员工福利。</div>
-</div>
-<div class="qa-item">
-<div class="question"><strong>Q:</strong> 是否了解有些公司内部男女比例失调，难以联谊的情况？</div>
-<div class="answer"><strong>A:</strong> 是的，有些纯软件公司男女比例严重失调，确实存在联谊困难的问题。但在一些平衡的公司中，可以通过内部联谊活动来解决这个问题。</div>
-</div>
-<div class="qa-item">
-<div class="question"><strong>Q:</strong> 对于程序员加班较多，如何寻找业余爱好来调节生活？</div>
-<div class="answer"><strong>A:</strong> 很多程序员会在业余时间做自己喜欢的项目，甚至通宵达旦地编写代码，这可能是他们放松的方式。此外，也有通过看恐怖片、画画等方式来放松的程序员。</div>
-</div>
-<div class="qa-item">
-<div class="question"><strong>Q:</strong> 看恐怖片是否能作为一种解压方式？</div>
-<div class="answer"><strong>A:</strong> 确实有这种说法，看恐怖片在某种程度上可以起到解压的作用，尽管我个人觉得玩游戏时的恐怖体验（如寂静岭）可能比看恐怖片更恐怖。不过，看恐怖片也有其独特之处，特别是日韩、泰国等地的恐怖片，能够让人全身心投入其中，从而达到放松的效果。</div>
-</div>
-<div class="qa-item">
-<div class="question"><strong>Q:</strong> 是否认为AI技术对程序员的工作构成威胁？</div>
-<div class="answer"><strong>A:</strong> 是的，AI技术对程序员的工作确实构成了一定的威胁，因为它有可能替代程序员的部分工作内容，甚至可能造成部分程序员失去工作机会。但同时，也强调了无论从事哪个行业，大家面临的挑战都是共通的，并鼓励大家不要过于悲观，要积极适应时代变化。</div>
-</div>
-<div class="qa-item">
-<div class="question"><strong>Q:</strong> 在AI领域，是否已经有人取得显著成果？</div>
-<div class="answer"><strong>A:</strong> 目前AI领域还未有人取得确定性的重大成果，但像短视频和直播等行业中已经涌现出许多成功案例，如小杨哥等网红。这表明虽然AI还未被证明，但年轻人和高学历群体投入其中并取得成功的可能性较大。</div>
-</div>
-<div class="qa-item">
-<div class="question"><strong>Q:</strong> 对于当前互联网行业境遇的看法？</div>
-<div class="answer"><strong>A:</strong> 认为当前互联网行业的境遇是在经历了一段黄金期后走下坡路，叠加了AI技术发展带来的冲击。尽管如此，相比其他行业，互联网行业整体上还是过得去的，只是需要抓住新的时代节点来应对挑战。</div>
-</div>
-<div class="qa-item">
-<div class="question"><strong>Q:</strong> 程序员相较于其他职业有哪些优势？</div>
-<div class="answer"><strong>A:</strong> 程序员群体相较于许多其他职业，拥有更多选择机会，例如独立开发、出海赚钱或远程工作等跨地域的可能性。此外，相较于实体行业，程序员仅需投入时间即可开始工作，无需大量资本成本，这也是一个很大的优势。</div>
-</div>
-<h1>节目文稿</h1>
-<p class="transcript-line">
-<span class="time"><strong>[00:00:04]</strong> </span>
-<span class="speaker"><strong>发言人1: </strong></span>
-大家好，欢迎收听异地骇客。我是seattle.
-</p>
-<p class="transcript-line">
-<span class="time"><strong>[00:00:07]</strong> </span>
-<span class="speaker"><strong>发言人2: </strong></span>
-我是一笑。
-</p>
-<p class="transcript-line">
-<span class="time"><strong>[00:00:08]</strong> </span>
-<span class="speaker"><strong>发言人3: </strong></span>
-我是龟龟。
-</p>
-<p class="transcript-line">
-<span class="time"><strong>[00:00:09]</strong> </span>
-<span class="speaker"><strong>发言人1: </strong></span>
-本期节目由power wise赞助播出。Ot wise是一款为播客听众制作的AI学习软件产品的slogan是read before listen。Auto wise通过AI对播客内容进行转录提取、总结分析等一系列操作，帮你掰开了揉碎了硬核的播客内容。同时与notion read、voice等平台的打通，嵌入知识管理工作流，协助您的其他包括新闻newsletter blog的内容，帮你打造第二大脑。Hot wise也为本期听众准备了三个5折优惠码，针对本期在小宇宙与我们互动的精选回复，欢迎大家踊跃来玩。
-</p>
-<p class="transcript-line">
-<span class="time"><strong>[00:00:46]</strong> </span>
-<span class="speaker"><strong>发言人1: </strong></span>
-好的，开始我们本期的节目，马上1024了。作为程序员我们也关心了一整年系统客户跟老板了。因为程序员节的出现，我们也终于有时间来专门关心自己了。
-</p>
-<p class="transcript-line">
-<span class="time"><strong>[00:01:00]</strong> </span>
-<span class="speaker"><strong>发言人1: </strong></span>
-我既然说到1024，我不知道你们知不知道这个时间是怎么来的。因为做这期节目我还特意去了解了一下，1024程序员节在我们国家其实是一个民间节日，属于我们自嗨跟行业内部的一个节日。对，但是程序员节在俄罗斯竟然真的是一个官方节日，而且并且在全球也得到了认可。但跟我们不一样的是，就国际上定义的程序员节，它是每年的第256天，H2的8次方，所以算下来其实是每年的9月13号。而我们国内定义的是1024，就二的10次方，二的10次方，1024是365天是装不下的对，所以就直接定的是10月24。好啊，当然还有一个说法就是1024也暗合了另外一个国内较为热门的网站的地址，这个我们就不细说了。
-</p>
-<p class="transcript-line">
-<span class="time"><strong>[00:01:52]</strong> </span>
-<span class="speaker"><strong>发言人1: </strong></span>
-对，但结果是什么呢？就是结果是我们中国也算是有了一个所谓中国特色的程序员节，我自己的感觉，我感觉我们这个时间更好一点，也比较容易记。然后124也比较和谐。
-</p>
-<p class="transcript-line">
-<span class="time"><strong>[00:02:08]</strong> </span>
-<span class="speaker"><strong>发言人3: </strong></span>
-对，其实我也去查了一下俄罗斯这个程序员节，我觉得他叫程序员日可能更合适。其实我跟我们的也是一样的，因为它算是一个，怎么说呢？算是一个纪念日，就是他不放假，他不是个节假框架，然后官方不认可。对，其实俄罗斯这个是官方是认可的，但是他一开始也是民间发起的对，不放假。但是他是也是民间发起的，是有一个人收集了签名，然后向政府请愿说我们程序员需要有一个自己的日，政府还批准了，就有了这么一个官方的节日，他不放假，他不光不放假，他其实也没有什么大来庆祝活动，我感觉本质上其实也还是自嗨的。
-</p>
-<p class="transcript-line">
-<span class="time"><strong>[00:02:45]</strong> </span>
-<span class="speaker"><strong>发言人3: </strong></span>
-我去查了一下，说这一天俄罗斯的程序员们会穿白色衣服来庆祝。为啥？因为白色是在16进制里面是FF3个FF，换算成二进制就全是一，没什么意义。而且听起来也不是一个好的寓意，就感觉是一个超级光棍节，对吧？我们光棍节也就是四个一，它就全是一，这也是为啥不选第255天鹅1023这个日子是吧？这个也确实是也有点太光棍了。对。
-</p>
-<p class="transcript-line">
-<span class="time"><strong>[00:03:16]</strong> </span>
-<span class="speaker"><strong>发言人3: </strong></span>
-然后我记得我们的这个1024程序员节，最早在民间倡导的时候，是好像是说希望程序员能更好的平衡工作和生活，少加班，拒绝加班。但我觉得目前来看并没有什么卵用。毕竟哪天哪怕你那天真的说我很硬气的拒绝了加班，但你活也不会少，对吧？Deadline也不会延后，你只是把加班转移了而已，这个就是所谓的加班量守恒定理。我虽然没啥卵用，但作为一个程序员自己的专属节日，也算是一定程度上给了我们一个寄托或者情绪释放的借口。肯定还是好的，对吧？毕竟这一天你确实更能说服自己暂时放下工作，或者说给自己买点好东西吃顿好的也是一个对，也是一个释放的口子。
-</p>
-<p class="transcript-line">
-<span class="time"><strong>[00:04:05]</strong> </span>
-<span class="speaker"><strong>发言人2: </strong></span>
-也是一个好的自嗨的方式。你们知道长沙其实还专门搞了一个程序员专属的街道，他就叫1024阶。我觉得可能知道的对，可能外面的知道的人可能不多。对，听说这个街道是一个全国首个。当然我也去查了一下，可能搞这个街道它本身是一个官方名义，它并不是说是民间的，因为你不可能说民间的人去把那个街道的牌子给他换了，这个事情它本身是违法违规的。那这是长沙相关的一些官方部门出来搞的这样的一个东西。
-</p>
-<p class="transcript-line">
-<span class="time"><strong>[00:04:40]</strong> </span>
-<span class="speaker"><strong>发言人2: </strong></span>
-我猜想这背后肯定也是长沙自己在努力做一些产业升级，或者说产业转型。希望能够吸引更多的科技人才或者程序员能够到长沙。毕竟长沙在这一方面其实表现在过往不是很强，对吧？但是听说他在做了这件事儿过后，好像他在几年里面他的程序员数量是翻倍的，但是具体不是很了解，如果有长沙本地的程序员朋友，其实可以给大家留言分享一下。
-</p>
-<p class="transcript-line">
-<span class="time"><strong>[00:05:07]</strong> </span>
-<span class="speaker"><strong>发言人2: </strong></span>
-对，然后这个102事件，他每年其实真的在1024那一天，真的是有节日的，有活动的。但他那个活动他不是长沙官方自己搞的，他是和联合了4S店。可能4S店N也算是国内虽然说现在做的反正风评也没有那么好的，感觉也在走一些下坡路。但是他可能也算是我程序员网站里面我知道的应该算是最古老的了。到现在你还有比他更古老的吗？应该没有了。国内可能我觉得他定在这个日期专门搞这件事儿，感觉我觉得长沙政府或者说官方的相关部门还挺努力的，我觉得也算是为程序员做了一点事儿。
-</p>
-<p class="transcript-line">
-<span class="time"><strong>[00:05:49]</strong> </span>
-<span class="speaker"><strong>发言人1: </strong></span>
-对对，您刚才讲到CSDN，因为CSDN在国内至少可能有二三十年了。CSDN我就很记得，在我们上大学的时候，大概0607年的时候，那个时候其实CSDN的整个论坛还是可以的。就是他在里面会有很多人提问题，然后会有很多人在4S店的论坛里面刷答案，对吧？然后你就得积分等等之类的对，就有很多人在里边答题等等之类的，其实还算是一个有正能量的东西。对，但其实CSDN现在就变成了纯粹的一个资料翻译站。对，做商业广告资料搬运。然后你一搜的话就是CSDN，然后一进去可能你需要用积分去买东西，对吧？但是CSN那个下载积分里面关联的东西经常十有八九都是盗版，对吧？
-</p>
-<p class="transcript-line">
-<span class="time"><strong>[00:06:34]</strong> </span>
-<span class="speaker"><strong>发言人1: </strong></span>
-反正这个也是4S店常被人诟病的东西。但是我觉得这个也是中国的这种程序员网站，至今没有太好的，或者说没有做起来的。大家可能走着走着就走成这样了，包括博客园前段时间也有提出来说自己已经支撑不下去了，要卖身等等之类的。对我觉得这个也是挺唏嘘的。中国的这种给程序员做的事情没有什么太成功的对，是的，既然也提到CSDN了，CSDN也二三十年了也提到博客园，提到这些老的东西了？
-</p>
-<p class="transcript-line">
-<span class="time"><strong>[00:07:06]</strong> </span>
-<span class="speaker"><strong>发言人2: </strong></span>
-没错。
-</p>
-<p class="transcript-line">
-<span class="time"><strong>[00:07:06]</strong> </span>
-<span class="speaker"><strong>发言人1: </strong></span>
-我们也过节了，那我们肯定也有这些前辈，包括我们的启蒙，我们的这波人，再包括更更久以前，我们在年轻的时候都是听着比尔盖茨的故事长大，弄了一个windows，然后就把身家过亿了，很多很多的事情。对，然后我不知道有没有什么程序员对你们是有重大影响的。今天刚好程序员节也可以给他们致敬一下。
-</p>
-<p class="transcript-line">
-<span class="time"><strong>[00:07:30]</strong> </span>
-<span class="speaker"><strong>发言人3: </strong></span>
-对你说到比尔盖茨，我前几天还在群里面看到有人说我怎么一下子比尔盖茨看起来就这么老了。我不知道你们对你们印象里面的比尔盖茨是长什么样的，就是我可能印象中还停留在一张梗图上面，就是我想买一辆兰博基尼，需要攒一下钱，一二三转好了。
-</p>
-<p class="transcript-line">
-<span class="time"><strong>[00:07:48]</strong> </span>
-<span class="speaker"><strong>发言人2: </strong></span>
-记得这张梗图吗？
-</p>
-<p class="transcript-line">
-<span class="time"><strong>[00:07:50]</strong> </span>
-<span class="speaker"><strong>发言人3: </strong></span>
-对我对他的那个长的印象还在那个图里面。但是他现在确实已经非常看上去非常老了，时间过得特别快。大家都耳熟能详的这个程序员大神，我就不说了，我就说一下给我的程序员生涯启蒙的人，挺神奇的。
-</p>
-<p class="transcript-line">
-<span class="time"><strong>[00:08:04]</strong> </span>
-<span class="speaker"><strong>发言人3: </strong></span>
-他是我的一个高中同学，对，也是我高中最好的朋友之一。我就记得是刚升高中的某一天，走进教室之后，我就发现他在玩文曲星。这东西我相信听我们节目的朋友应该都是知道的对吧？
-</p>
-<p class="transcript-line">
-<span class="time"><strong>[00:08:17]</strong> </span>
-<span class="speaker"><strong>发言人3: </strong></span>
-文曲星对那个时候的我来说，这东西其实约等于游戏机，对吧？它不是个什么学习机，它约等于游戏机。那我肯定就凑上去看，结果发现他在用basic写代码，那就敲一个box 00实时，然后就画出一个正方形。我说这个也太神奇了，对吧？这个怎么弄的？然后就踏上不归路了，就开始猛学这个东西。
-</p>
-<p class="transcript-line">
-<span class="time"><strong>[00:08:38]</strong> </span>
-<span class="speaker"><strong>发言人3: </strong></span>
-给我启蒙的这个朋友啊，这之后就几乎再也没有碰过代码了，他大学读了个法学。对，在大学读了个法学，然后也考过了司考，去了律所实习。也没去当律师，去芝加哥读了个行为艺术，现在在做这个艺术的策展人，非常神奇，给我一种什么感觉？你我们知道水鬼这个东西，对吧？有一个说法就是他得勾引一个替死鬼，然后自己才能转世轮回干别的去感觉。我这个朋友就是在河里举着个文曲星对我说，你看用墨克C可以画个方块多好玩，要不要来试试？然后我就上钩了，然后他就不用干程序员了。当然这个是开个玩笑，我还是很感激他带我踏入这个世界的，因为确实也是我的兴趣所在，不然高中的时候也不会废寝忘食的在文曲星上敲代码，然后做工具和做游戏了，就一直做到现在。
-</p>
-<p class="transcript-line">
-<span class="time"><strong>[00:09:31]</strong> </span>
-<span class="speaker"><strong>发言人2: </strong></span>
-对，其实可能我们很多人，大家聊到想致敬的，或者说对自己影响比较大的这些程序员，可能都是那些耳熟能详的，就像龟龟说的那些大神级别的。历史上的很多比如像linux或者之类的，我相信大家可能都会觉得这些人对自己的影响是最大的对当然我觉得这些可能是大家心中共同有的那种信仰在那儿。对我其实一直也还能谈得上比较崇拜，或者说比较想资金的那种程序员的话，像身边的或者说是离我们很近的其实比较少。对我自己可能也不是特别说背着说需要给自己立一个心中的那种灯塔的这种，就是很少有这样的感受在里面。
-</p>
-<p class="transcript-line">
-<span class="time"><strong>[00:10:17]</strong> </span>
-<span class="speaker"><strong>发言人2: </strong></span>
-但是总的来说，我觉得提到大神的这样的级别的程序员，或者说我自己还比较佩服的这种的话，那我觉得我必须要提一下，就是像云峰，我觉得我是真的还挺欣赏他的。因为他和我们不是一代程序员，他其实比我们比较大很多很多。对，但所以说我们关注他的时间都很早了。当然我相信大多数人其实关注云峰更多的都是从他的blog开始的。很多时候都是从他的blog知道了这个人，知道他原来写了这么多，在游戏领域里面有有这么高的件数，做了这么多的事情。对，反正都是从他的blog开始的。
-</p>
-<p class="transcript-line">
-<span class="time"><strong>[00:10:52]</strong> </span>
-<span class="speaker"><strong>发言人2: </strong></span>
-然后我自己也是的那更是让我觉得说云峰很厉害的人，居然心中觉得说这么欣赏的一个也比我们年纪大很多的这样的一个程序员的大神级别的人物。既然今天也成为了独立开发者，对吧？他也在大家在推特上应该都能够知道，对吧？对，所以说我觉得云峰要是啥时候来我们这儿做一期节目，那也挺好的，挺完美，很契合的对对，当然我自己还是一直很喜欢读他的写的那些文章，那些东西，他真的都很喜欢在文章里面写一些非常细枝末节的一些技术的细节，有时候就是很小的一个点，反正我觉得挺对我的口味的。
-</p>
-<p class="transcript-line">
-<span class="time"><strong>[00:11:34]</strong> </span>
-<span class="speaker"><strong>发言人2: </strong></span>
-但是我觉得更难得的是，就像刚才我们提到，像中国程序员网站，可能走到今天所剩无几了，就像CSDN，虽然说他今天大家风评不一致，就觉得说怎么样。但是他能够坚持这么多年，可能是程序员仅存的几个网站之一了，不多了，可能一只手可能就随便都可以数的网站。对，云峰作为这么也是几十年了，他的博客可能到现在还在更新。我觉得这个也真的是很难难得了。因为我身边有过非常经历过非常多写博客的人我相信你们之前应该说不定也写过博客，应该大家我也写过，但是我相信很多人都停更了，真正能够坚持一直写下来，还是保持更新的应该不多了。对我觉得云峰在这一点上，我觉得光是更新技术blog这件事儿，其实都是值得作为同行值得去致敬的一件事儿了。
-</p>
-<p class="transcript-line">
-<span class="time"><strong>[00:12:30]</strong> </span>
-<span class="speaker"><strong>发言人1: </strong></span>
-已经。对我觉得有一个人是可以形容云峰，或者说我觉得有一个人是跟云峰有差不多标杆性质的一个人。这个人可能更出名一些。
-</p>
-<p class="transcript-line">
-<span class="time"><strong>[00:12:41]</strong> </span>
-<span class="speaker"><strong>发言人1: </strong></span>
-在国际上云峰属于是中国自己的约翰卡马克，就是写doom的那个人，对吧？就是你你会发现云峰这个人他背景里面有一种很钻研技术，他的blog里面有很多细节说怎么样优化什么东西。然后对吧那约翰卡马克也是自己做了一个什么什么约翰卡马克翻转，然后就提升了一下3D的渲染效率，提升了很多很多。对，当然那个东西的前提好像不是说是从他开始的，但是是从他发扬光大的。对我觉得云峰特别像中国自己的约翰卡马克，也是非常值得致敬的一个人。既然聊到这个东西了，我就想问问你们，因为我们程序员其实自己也有很多八卦。
-</p>
-<p class="transcript-line">
-<span class="time"><strong>[00:13:19]</strong> </span>
-<span class="speaker"><strong>发言人1: </strong></span>
-对，前几天不是有一个事儿，我觉得传播好像还挺广的。就是字节有个实习生，我估计你们都听过。他在训练有几千万的一个训练集群里边，然后去训练这个东西的时候，就整了一段恶意代码，导致上千万都打水漂了。好像是说他这个事是故意的，而且是有恶意的对。但我觉得程序员哪怕很多时候这种事儿他不是故意的跟恶意的，然后也有捅娄子的时候，对吧？你们有没有啥八卦或者自曝可以分享一下的对。
-</p>
-<p class="transcript-line">
-<span class="time"><strong>[00:13:50]</strong> </span>
-<span class="speaker"><strong>发言人3: </strong></span>
-其实程序员捅娄子这个如果我们去查一查的话，其实还有蛮多的，而且很多后果都很严重。就比如说代码写错了，然后微信没发上去这种对吧？火箭掉下来了，那我知道了就是损失最大的可能是歧视资本的那次事故，这个应该很有名的一个由于软件bug导致的事故，最终的损失据说是有4.4亿美金。其实资本这个大家听名字知道，是个金融公司，他当时在出事的时候，实际上是当时美国最大的股票交易商。然后因为软件交易策略出现问题，他在有一天开市的时候，就1个小时内疯狂买入了70亿美金市值的股票，但它实际上根本没有那么多钱。然后按规定他这70亿美金的交易，他就要在三天内把钱交到位，但实际上根本交不出来，那他就只能抛售。然后一抛售就导致价格跌，它其实就损失就会很大。最后是高盛介入的，因为高盛是其实资本的股东之一，让高盛介入，最后以其实资本付出了4.4亿美金的代价，把这个事情算是搞定了。这个就是挺难想象的。
-</p>
-<p class="transcript-line">
-<span class="time"><strong>[00:14:54]</strong> </span>
-<span class="speaker"><strong>发言人3: </strong></span>
-但是实际上你想一想也确实是正常。就是程序员不小心搞出来的bug，可能会带来非常大的损失。我们以前开公司的时候也有过类似的事情，就是可能有bug导致客户止损，那客户止损其实跟你的bug大小没关系，如果这个客户本身量不大，那他的止损可能就不大。
-</p>
-<p class="transcript-line">
-<span class="time"><strong>[00:15:10]</strong> </span>
-<span class="speaker"><strong>发言人3: </strong></span>
-如果这个客户本身量非常大，那你可能一个小bug就会导致很大的资损。那这个时候你应该怎么办呢？你到底赔不赔客户的这个如果真的是你，因为你出现这种事情确实挺慌的。
-</p>
-<p class="transcript-line">
-<span class="time"><strong>[00:15:22]</strong> </span>
-<span class="speaker"><strong>发言人3: </strong></span>
-但是说回我自己，我其实仔细回忆了一下，好像真没有因为程序的问题通过什么特别大的娄子。但确实有一些前同事就干过一些类似的事情，他不一定是程序，但是他就干过一些类似的事情。像什么把私钥提交到github上这种对吧？这属于是司空见惯，你基本上隔一段时间都能看到有这种事儿发生。
-</p>
-<p class="transcript-line">
-<span class="time"><strong>[00:15:43]</strong> </span>
-<span class="speaker"><strong>发言人3: </strong></span>
-然后我还记得有一个前同事，是他干过啥事儿呢？他跟我把家里的机械硬盘偷偷拿来换服务器上的这个SSD，就固态硬盘，把固态硬盘拿回家，把家里的机械硬盘拿来装上，也不知道怎么想的，就是干这种事儿，结果肯定是被开除了，对吧？都不知道图个啥，就是你可能八块机固态硬盘换下来能多少，几千块钱，有没有1万块钱不知道，反正就被开除了。那还有一个前同事私开公司的内部接口，然后做成软件卖给客户的，这个当然结局肯定也是被开除了，有没有被追究法律责任不记得了。但这个也是咋说呢？好像说字节这个可能也会被追究法律责任。
-</p>
-<p class="transcript-line">
-<span class="time"><strong>[00:16:22]</strong> </span>
-<span class="speaker"><strong>发言人3: </strong></span>
-说到这个，我想起来以前在淘宝的时候，时不时就会有人找过来说，我能不能帮帮我删一下差评，或者说帮我撤销一下这个店铺的处罚，或者说有一个活动我不够门槛参加运营活动，能不能帮我走个后门什么的。说真的就是你不要为难程序员了，对吧？我们要不你还是找我修电脑起码我说不定真能给你弄好，但你看我给你删差评。
-</p>
-<p class="transcript-line">
-<span class="time"><strong>[00:16:47]</strong> </span>
-<span class="speaker"><strong>发言人2: </strong></span>
-我是真搞不定。我记得那个就是从家里偷公司服务器的SSD的那个应该就是淘宝的，是阿里。
-</p>
-<p class="transcript-line">
-<span class="time"><strong>[00:16:54]</strong> </span>
-<span class="speaker"><strong>发言人3: </strong></span>
-对吧对。
-</p>
-<p class="transcript-line">
-<span class="time"><strong>[00:16:56]</strong> </span>
-<span class="speaker"><strong>发言人2: </strong></span>
-我觉得这个是我觉得这件事是最离谱。
-</p>
-<p class="transcript-line">
-<span class="time"><strong>[00:17:00]</strong> </span>
-<span class="speaker"><strong>发言人3: </strong></span>
-而且那哥们儿他的那职级也不低的。
-</p>
-<p class="transcript-line">
-<span class="time"><strong>[00:17:03]</strong> </span>
-<span class="speaker"><strong>发言人2: </strong></span>
-没错，我觉得这个太离谱了，简直了。对，但是你说到修电脑，我觉得有时候也还是确实挺尴尬。因为我最近我老丈人碰到他的那个电脑，突然有一天反正就突然就坏了，就是启动不了了。是一台还是一台windows电脑。我就想想自己也不知道有多少年没有碰过windows电脑了，反正就启动不了了。但是我就觉得说他就让我他他我这个他就帮我看一下，能不能把我这个修好。那我就觉得说我也不能直接告诉他，你这个东西我就没用过，我也修不好，我觉得这个多没面子，对吧？
-</p>
-<p class="transcript-line">
-<span class="time"><strong>[00:17:34]</strong> </span>
-<span class="speaker"><strong>发言人3: </strong></span>
-太没用了。
-</p>
-<p class="transcript-line">
-<span class="time"><strong>[00:17:36]</strong> </span>
-<span class="speaker"><strong>发言人2: </strong></span>
-对对对，所以我就我我说你把电脑放在这儿，我给你搞一下。然后我就一边赶紧就来谷歌查查一下那个错误，那个屏幕上显示那个错误是啥意思。反正最后折腾了一圈，也看到了微软官方的那个中心帮工作中心给的什么各种乱七八糟的重启，什么恢复的解决方法，最后去搞一搞，反正也没搞好。
-</p>
-<p class="transcript-line">
-<span class="time"><strong>[00:17:55]</strong> </span>
-<span class="speaker"><strong>发言人2: </strong></span>
-然后最后我也只能说，这个东西可能搞不好了。我说可能是硬盘坏了，可能是硬件的问题。我说明天只能拿到店里去修了，我说我修不好你这个东西。最后大家和我聊一聊，他说我到现在还是不理解你们天天是干啥？我觉得你这个问题就把我问的很好了。其实我已经能够感受得到，可能就是说你们应该是对电脑超级懂的，对吧？在他日常接触的这些东西里面，我们程序员好像其实都搞不定。很多时候对，所以说这个东西我觉得有时候给家人确实会有一些困惑。
-</p>
-<p class="transcript-line">
-<span class="time"><strong>[00:18:30]</strong> </span>
-<span class="speaker"><strong>发言人1: </strong></span>
-对你刚才提到那个淘宝删差评这个事儿，其实淘宝内部其实也有很多人因为删差评被处罚。对，然后我就想到前两天来申请我们小红书的那个禁言，因为我们小红书在我刚开始发没多久的时候，就因为引流问题导致自己被禁言了。然后到今天也没解封。那天我还在想说，能不能找一个小红书的小伙伴帮我删一下差评。
-</p>
-<p class="transcript-line">
-<span class="time"><strong>[00:18:54]</strong> </span>
-<span class="speaker"><strong>发言人3: </strong></span>
-把你撤销下处罚是吧？
-</p>
-<p class="transcript-line">
-<span class="time"><strong>[00:18:57]</strong> </span>
-<span class="speaker"><strong>发言人1: </strong></span>
-对，撤销一下处罚。对，不给大家太麻烦了。对，我其实也在想，你看我们自己现在也不年轻了，我们经常自诩中老年，然后家庭消费的时候一般也轮不到我们，对吧？我们只是在家挣钱，然后挣完钱之后钱也不知道怎么着的就不见了，给女朋友，给老婆买的，给狗买的，给孩子买的，就是轮不到给你买的。对，现在刚好到1024了，然后1024也紧挨着双十一，吧？那假如今天我们真的拿到预算了，你们会买些啥犒劳一下自己？
-</p>
-<p class="transcript-line">
-<span class="time"><strong>[00:19:28]</strong> </span>
-<span class="speaker"><strong>发言人3: </strong></span>
-中年也就算了，老年好像有点太过分了，你想一下老年了，我双十一买点什么数码设备呢？要不买个最新款的电动轮椅。当然其实电动轮椅现在年轻人也很喜欢，就是有人买来当代步用的，我觉得确实也挺方便的，不是老年人专享。当然其实今年双十一已经开始了，而且今年还有各种政府补贴，政府那种消费券可以领。所以有东西想买的确实该出手可以出手。但说实话就目前大家这个低迷的消费欲望，也不知道双十一会是一个什么样的情况。
-</p>
-<p class="transcript-line">
-<span class="time"><strong>[00:20:02]</strong> </span>
-<span class="speaker"><strong>发言人3: </strong></span>
-其实我自己感觉买来买去，最愿意买的，然后能给自己带来快乐的应该还是数码产品。然后可能很多程序员朋友也是这样的，当然也有朋友喜欢自驾、钓鱼、露营、摄影啥的这些爱好。我感觉哪一个都比买数码产品更花钱。
-</p>
-<p class="transcript-line">
-<span class="time"><strong>[00:20:19]</strong> </span>
-<span class="speaker"><strong>发言人3: </strong></span>
-然后对我第一需求应该还是生产力工具，就想先把MBP换一下，因为现在这个macbook还用的是M1芯片的，但是感觉时机不对对吧？应该快有M4上MBP了。如果不买这个，不换MBP的话，那就攒个台式机机。说到这个其实也蛮纠结的，因为我想搞个ITX的那种小机箱，但是我觉得以后很难升级。前段时间我看到一个小机箱，简直就是艺术品，就是CK的industry FF04 pro art，它的名字叫这个。好看是真好看，小也是真的小。但后续这个升级的可能性可以说几乎为零。
-</p>
-<p class="transcript-line">
-<span class="time"><strong>[00:20:56]</strong> </span>
-<span class="speaker"><strong>发言人3: </strong></span>
-因为这个机箱可以说是为了盘醋，包的饺子只能适配华硕的这个pro art系列显卡。甚至本身在设计上，它就把显卡作为机箱外观的一部分，在机箱颜色和材质上都是和这个显卡保持一致的。所以除非华硕下一代还能出尺寸一样，外观一样的卡，否则这个机箱这个显卡就直接锁死了。但它真的很好看，但就是你从这个使用的角度来看，它也确实没啥必要。但是不过千金难买爷高兴，对吧？感兴趣的朋友可以去看看，而且还挺有缘的。怎么说？因为我以前玩那个客制化键盘，吸铁它其实是一个客制化键盘的作者，当然他也可以做别的东西，然后这个机箱也是他做的还挺有缘的。
-</p>
-<p class="transcript-line">
-<span class="time"><strong>[00:21:40]</strong> </span>
-<span class="speaker"><strong>发言人2: </strong></span>
-挺规矩。分享了自己想买的东西，也可以感受，就说明你现在还在有兴趣在研究这些东西，就管你买不买，至少你好像你还在天花了时间在这上面研究。我现在对这些是完全没有兴趣的，根本没有这种连研究去了解的这种东西。这种硬件产品现在是一个怎么样的特别这种组，这些是几乎根本都没有兴趣去研究了。现在买电脑一切都是图方便，只要电脑好用，这个也没有啥选，反正就是macbook对吧？那几乎都没有什么所谓的研究的环节在里面了。现在我觉得很多时候可能也是来到了一个，就像刚才赛特斯来到了一个年龄阶段，有些折腾就完全没有以前那种想去折腾的欲望了，更多的就是图方便。
-</p>
-<p class="transcript-line">
-<span class="time"><strong>[00:22:27]</strong> </span>
-<span class="speaker"><strong>发言人2: </strong></span>
-对，所以说其实对我来说，今天真的没有什么特别想买的。我现在只想出去玩各种地方，能够全世界到处去玩一下的，有有那个时间，有那个闲的慌，我觉得这是让我最舒服的一个方式。对，那如果真的现在说给我一笔钱，是必须得想自己去假设真的去选一件东西的。我还是希望是能够选一台电脑吧？这个对我来说可能也没有什么其他的，也不钓鱼？也不露营。对，没得选了，只能选一台电脑。但是我希望这台电脑确实能够带一个好的，今天的GPU，能够买到4090的这种，我觉得真的可能还是会很爽，可能会在这上面折腾玩很久，这种快乐应该会持续一段时间。对对。
-</p>
-<p class="transcript-line">
-<span class="time"><strong>[00:23:14]</strong> </span>
-<span class="speaker"><strong>发言人1: </strong></span>
-就哥哥刚才讲的那个shaky的那个industry FF04，我刚查了一下，确实挺好看的。但确实好像现在对于这些数码产品干嘛的好像有点脱敏了。以前感觉好像出一个新的数码产品，都想去把玩一下，对吧？就现在感觉没错，激情有点缺失了。对，是的。
-</p>
-<p class="transcript-line">
-<span class="time"><strong>[00:23:32]</strong> </span>
-<span class="speaker"><strong>发言人1: </strong></span>
-但是说到这个激情缺失这件事儿，我觉得就涉及到另外一个问题。我们在买的这些所有的这些东西里面，其实有一些是很陷阱的产品对吧？比如说kindle，我相信每个人都曾经或多或少买过kindle对吧？然后最近kindle又出了一个彩色版本的，kindle这么多年终于出了一个彩色版本的。对的，一个新的一个泡面神器。对，然后这种是不是就别买了，还是说你们有没有什么别的那种就劝你别买系列的，因为买了之后可能就是十有八九是石灰的。
-</p>
-<p class="transcript-line">
-<span class="time"><strong>[00:24:02]</strong> </span>
-<span class="speaker"><strong>发言人2: </strong></span>
-对我看了一下这个kindle的这个彩色版本，其实从阅读的体验的角度来说，我觉得以前的就是那种黑白的听的体验已经真的很好了，很极致了。那个彩色的无外乎就是让你在上面画线，画笔记的时候看着更舒服一点，可能会更清晰一点。我这个是用红色标记的，用绿色标记的，黄色标记的，就是这个样子。但是我觉得从那个看上去的质感，因为我自己没有买，没有实际去拿到手里去感受过。但是从我在网上看到的这种效果，我觉得还是没有赶不上以前那个黑白的那种阅读的真实感和书的那种真实感。我觉得感觉还是以前的那种就已经很好了。
-</p>
-<p class="transcript-line">
-<span class="time"><strong>[00:24:43]</strong> </span>
-<span class="speaker"><strong>发言人2: </strong></span>
-对，如果你真的是单纯为了享受阅读的话，但我一直还是觉得kindle是一个好东西哈那这个彩色版的是不是好东西？我自己没买过。对，因为我自己还是很喜欢kindle的那除了kindle以外，其实我自己真正在家里吃灰的是那种不是我玩了很久他才吃灰，不用了在吃灰，而是我买来过后，它基本就等于吃灰。
-</p>
-<p class="transcript-line">
-<span class="time"><strong>[00:25:06]</strong> </span>
-<span class="speaker"><strong>发言人2: </strong></span>
-确实有很多这种电子产品，当时确实就是图新鲜。好像市场上一波媒体或者说大家营销那种广告，推到了我面前一看，这个东西好像以前没有见过，感觉还不错呀。就可以买一个，就像大江里面的。大江里面我买过两个东西，都是一个是pocket，就是那个拿着手首次拍拍录像的那个玩意儿。
-</p>
-<p class="transcript-line">
-<span class="time"><strong>[00:25:28]</strong> </span>
-<span class="speaker"><strong>发言人2: </strong></span>
-对，然后还有一个无人机，就是大疆的无人机。这两个东西我都是买来过后可能就玩过一两次，然后就一直吃灰，一直吃亏。对，然后另外就是我还买过一款游戏机，里面也有switch对吧？那个游戏机说实话我这个东西买了也是买机器，买了游戏还买了四五个，但是每个游戏可能有时候就打开玩了一次，然后这个东西也在吃灰。
-</p>
-<p class="transcript-line">
-<span class="time"><strong>[00:25:53]</strong> </span>
-<span class="speaker"><strong>发言人2: </strong></span>
-其实我自己回想过，我买这些东西，他当时的那一刻的出发点，其实就是因为觉得这个东西好玩，看着好玩。至于我对我自己是不是真的有用，我是不是发自内心的需要它，其实我自己没有去想那么多，单纯为了开心而已。对，觉得图个新鲜。其实这些东西因为刚才说的是可能不建议大家去买。但是不过反过来要想一下，因为当你看到这个东西的那一刻，其实你的内心就是很想拥有，觉得这是一个很新奇的玩具。你或者说别人有了你自己就是想体验一下，你自己才开心，对吧？就像刚才乖乖说的，现在就是要买那种数码产品，就是让自己快乐，给让自己开心。你如果就是为了开心，那难道真的要憋住自己，让自己不去买，哪怕你知道他可能最终还是吃亏，那其实可能还是可以去买一下，开心最重要。
-</p>
-<p class="transcript-line">
-<span class="time"><strong>[00:26:48]</strong> </span>
-<span class="speaker"><strong>发言人3: </strong></span>
-对，其实我个人反而觉得也没啥陷阱不陷阱的。因为电子产品除了生产力工具外，其实别的都是玩具，对吧？包括智能手机什么的。对你其实根本用不了那么多功能，你就当个玩具买，就没有那么多值不值得纠结。而且实际上对于这种你不确定会不会喜欢的产品，其实完全可以买二手的来玩。
-</p>
-<p class="transcript-line">
-<span class="time"><strong>[00:27:09]</strong> </span>
-<span class="speaker"><strong>发言人2: </strong></span>
-对吧？对，不是有道理。对。
-</p>
-<p class="transcript-line">
-<span class="time"><strong>[00:27:11]</strong> </span>
-<span class="speaker"><strong>发言人3: </strong></span>
-因为电子产品一手和二手之间的价格差距很大，但是二手和二手的价格差距就不大了。所以你买个二手的来玩，体验后觉得喜欢就留下，觉得不喜欢就在二手卖掉呗。
-</p>
-<p class="transcript-line">
-<span class="time"><strong>[00:27:20]</strong> </span>
-<span class="speaker"><strong>发言人2: </strong></span>
-亏不了多少钱。没错，这是一个好方法。
-</p>
-<p class="transcript-line">
-<span class="time"><strong>[00:27:23]</strong> </span>
-<span class="speaker"><strong>发言人3: </strong></span>
-对，像我之前玩那个客制化键盘，我前前后后买过非常多的键盘套件。这些套件便宜的一千多，贵的可能四五千。所以就是你实际算算的话，就是只算80块钱，可能十几万、20万都有啊。但因为我基本上手里就留个五六把，喜欢的别人就卖了。所以你真的去算的话，其实并没有花太多钱，而且我基本上是平价或者降价转卖的。
-</p>
-<p class="transcript-line">
-<span class="time"><strong>[00:27:48]</strong> </span>
-<span class="speaker"><strong>发言人3: </strong></span>
-因为客制化键盘这个东西，因为数量有限，有时候还能加价卖。你如果去倒它的话，它还能赚钱。当然一般的那个消费电子产品肯定是不行的。但还是那句话，就是千金难买也高兴。就像一笑说的，就是买了才开心。那量力而为，去买点啥没用的东西取悦自己也挺好的，对不对？所以要不我就把那个小机箱买了。
-</p>
-<p class="transcript-line">
-<span class="time"><strong>[00:28:10]</strong> </span>
-<span class="speaker"><strong>发言人2: </strong></span>
-可以买买。
-</p>
-<p class="transcript-line">
-<span class="time"><strong>[00:28:13]</strong> </span>
-<span class="speaker"><strong>发言人1: </strong></span>
-讲到这个，前两天其实我还在看一类产品，就是这种电子产品。当然我现在还没买，就是我其实我有点担心我买了之后有点浪费，就是我可能不太会玩，现在有很多的那种做开源掌机的，就是那种小掌机。那个小掌机能玩什么GBA，能玩那些什么拳皇之类的街机，然后PSE，它能模拟一堆的游戏，可能里面给你装好几千个游戏。对，就这种当时看了挺久的，因为我觉得现在的很多游戏好像。我沉浸不进去了。就是你可能有些时候你觉得说你想玩些游戏，你可能就是想把小时候你玩的那些什么恐龙时代，什么街霸等等之类的东西，可能就想玩个两把，可能过个瘾就算了。对，所以就在想说要不要买一个这种开源掌机。
-</p>
-<p class="transcript-line">
-<span class="time"><strong>[00:28:57]</strong> </span>
-<span class="speaker"><strong>发言人1: </strong></span>
-对，反正现在也没买。对，我们听众如果有谁有这个东西，或者说你也想买的，我们可以在下方讨论一下。对，我记得我们在公司的时候，会准备1024节的活动，对吧？但是在我的记忆里边，基本上大家都是在公司的某一个中岛台上，放很多吃的喝，吃吃喝喝可能也就结束了。可能大概你花个大概半个小时1个小时，这个事儿可能就结了。然后大部分可能公司也会准备一些东西，但是我总觉得好像大家觉得吃吃喝喝就过了，不是特别过瘾。那我们今天能不能给大家去当个嘴替？如果公司们要搞的话，能不能别瞎搞搞些啥的话，我们会开心，对吧？我们也给他们提点建议。
-</p>
-<p class="transcript-line">
-<span class="time"><strong>[00:29:39]</strong> </span>
-<span class="speaker"><strong>发言人3: </strong></span>
-那最实际的肯定还是放假，对吧？哪怕只放半天。对，放半天，一定要放下午半天对吧？上午半天太短了，那再次的话提前下班也可以。当然前提就是还是那个deadline也得调整，是吧？你不然不能说，我明天有一个东西要发，我今天给你放假，那这个假放的毫无意义，对吧？
-</p>
-<p class="transcript-line">
-<span class="time"><strong>[00:30:00]</strong> </span>
-<span class="speaker"><strong>发言人3: </strong></span>
-回家加班，真的是实在不行，也可以整个抽奖，奖品就弄点程序员喜欢的有用的东西。比如说一等奖4090对吧？二等奖4090，三等奖4090，阳光普照奖4090，绝对火爆全网，无数程序员想跳槽到你这个公司。那再次就是你吃吃喝喝其实也算还可以了，对吧？
-</p>
-<p class="transcript-line">
-<span class="time"><strong>[00:30:20]</strong> </span>
-<span class="speaker"><strong>发言人3: </strong></span>
-起码没有增加啥负担，就怕公司还整点什么活动，然后硬要你参加。就比如说在程序员节搞个黑客松啥的，但是黑客松没本身没啥不对的。就是你安排的好的话，不仅可以作为调剂，还可以作为一个公司内部创业，找第二增长曲线的一种方式。但是如果在大家本来都工作饱和忙得不行的时候，临时搞这种活动，肯定是没人会喜欢的对吧？明天还有个功能要发，你跟我说今天来参加个黑客松，看我，我真的是谢谢你了。对，这让我想起以前在以前公司的时候，有的时候HR会跑过来找我商量什么事呢？说公司打算弄个什么活动，但没有人报名，问我能不能呼吁一下大家报名。我内心的第一想法就是咱就别互相折磨了。这是你的工作，你要找人报名，然后没有人报名，你很纠结。但是别人也不想参加这个活动，别人也很纠结，然后我们还要互相折磨，真的是没必要。
-</p>
-<p class="transcript-line">
-<span class="time"><strong>[00:31:17]</strong> </span>
-<span class="speaker"><strong>发言人2: </strong></span>
-我觉得公司确实就应该给员工更实际的一些东西。比如说你能够给员工去报销一些东西，直接的说1024节日到了，那我们给每个员工多少额度的报销，你可以拿着这个钱去买。只要是对工作有用的一些东西，我相信公司肯定要限制对工作有用和可能。我觉得这里面其实也有很多东西，其实是程序员平时需要的比较正版的软件对吧？比较正版的IID那些东西。对，还有我相信还有很多可能就是在淘宝上搞个盗版的什么码，也不是没有，还挺多的可能。然后在一些效率工具，比如说帮大家出个坑婶的订阅费，我觉得这不是也是很好的？顺便还有提升公司的整体的效率？
-</p>
-<p class="transcript-line">
-<span class="time"><strong>[00:32:00]</strong> </span>
-<span class="speaker"><strong>发言人2: </strong></span>
-对，特别是我以前看到有很多的公司的程序的朋友用的那个电脑，那个内存，自小可能就四个G的那种电脑都还在用是卡的也不行了。就他说的可能，你能够给他报销买好的电脑也不是不可以，对吧？还有很多大家在家里工作的，能够让人家买一把好的人体工学的电脑椅子。虽然说很贵，但是你公司如果能够给大家报销，那我相信大家还是很喜爱这件事儿的对吧？可能这件事儿总的来说这就是一件花钱的事情，对吧？我相信可能大多数的公司来说，觉得说他这一笔钱的开销可能不小，舍不得这个钱。
-</p>
-<p class="transcript-line">
-<span class="time"><strong>[00:32:35]</strong> </span>
-<span class="speaker"><strong>发言人2: </strong></span>
-我就像刚才贵哥说的那就放假，对我的建议就是直接放假一天，我觉得这就是很好的对，确实就像作为老板，你又不想花钱，又不想给大家放假，那你还得总得要搞点啥活动，那种吃吃喝喝的就算了吧，那种东西作为程序员我也不是自己买不起一盒水果，那就直接给大家。对，就不要搞吃吃喝喝的，你就直接要办活动，你就办个相亲活动得了。能够给我们程序员朋友们真正大家解决一下终身大事。看一下有多少程序员，其实特别是我们男程序员，今天没有女朋友？还是不少的。大家或者说天天就是因为工作太忙，大家少了很多很多的社交，没办法走出程序员这个圈子。所以说就没办法去认识自己的另一半，找到女朋友。那我觉得公司应该承担起这个义务，帮大家真的解决一下的终身大事。
-</p>
-<p class="transcript-line">
-<span class="time"><strong>[00:33:29]</strong> </span>
-<span class="speaker"><strong>发言人1: </strong></span>
-对你讲解决终身大事的这个事儿，其实我们以前在阿里的时候，阿里是真的有一大帮程序员，又有一大帮运营妹子、客服妹子，对吧？其实是挺适合做这种联谊的对，反倒你现在进到有一些，比如说纯软件公司，他男女比例就是特别失调，对吧？这个事儿可能就是很难联谊，很难解决，除非你说找一家对口公司对吧？两方联谊。那阿里里面确实男女比例还挺平衡的，而且尤其运营、客服，其实有挺多妹子的对，而且在阿里内部是有不少这种运营加产品或者运营加技术的组合的。就是组成这种家庭的双职工。
-</p>
-<p class="transcript-line">
-<span class="time"><strong>[00:34:04]</strong> </span>
-<span class="speaker"><strong>发言人3: </strong></span>
-我们不是也认识好多吗？
-</p>
-<p class="transcript-line">
-<span class="time"><strong>[00:34:06]</strong> </span>
-<span class="speaker"><strong>发言人1: </strong></span>
-对对对，是的。之前有一个先哲给我说过，就是说像我们程序员经常加班这种，工作可能会吞是我们全部的生活。因为你可能上班的时候在工作，下班的时候在想那个deadline，那个工作到底应该怎么做能够更快一点，因为做不完了。对，他说你必须得有一项自己的业余爱好，你要用来调剂，这样的话其实对你的工作跟生活都会有很大的帮助。对，我不知道你们有没有什么用来调剂生活的业余爱好，比如说钓个鱼，对吧？比如说。
-</p>
-<p class="transcript-line">
-<span class="time"><strong>[00:34:37]</strong> </span>
-<span class="speaker"><strong>发言人2: </strong></span>
-钓鱼已经是很高级的活动了。对我觉得成年人只需要做好你的牛马就好了，你不需要考虑调剂生活。开玩笑。对，说到牛这个东西，前一次到上海的时候参加那个活动，然后和他们在饭桌上吃饭聚餐的时候，才知道中国有一条高铁线路叫牛马线。你们知道是哪条线叫牛马线吗？
-</p>
-<p class="transcript-line">
-<span class="time"><strong>[00:35:03]</strong> </span>
-<span class="speaker"><strong>发言人1: </strong></span>
-对，是北京到上海吗？没错。
-</p>
-<p class="transcript-line">
-<span class="time"><strong>[00:35:06]</strong> </span>
-<span class="speaker"><strong>发言人2: </strong></span>
-对，京沪高铁是吗？京沪高铁现在被称为牛马线。对，因为那那班高铁确实很繁忙哈他一很早的早班车开始，上面人都已经很多很多了，来源就是这样。然后大家都是赶早班出行的，然后大家一上高铁过后不是在补觉，而都是打开电脑开始他在写PPT，或者说在忙工作。所以说那条线的那条线，然后又很可能又很晚，同样是很多很多的人，所以说就被称为流氓线了。
-</p>
-<p class="transcript-line">
-<span class="time"><strong>[00:35:35]</strong> </span>
-<span class="speaker"><strong>发言人2: </strong></span>
-但我不知道我们听众朋友，你们是不是有每周都要赶这个牛马线去两地倒腾的？可能有，我相信玩笑开完了，再说回来，其实我是知道有不少程序员在业余时间，他们只要不加班的话，他们可能就会花不少时间去写一点自己喜欢的喜欢写的那种代码。然后主要去做一些自己喜欢做的一些东西，这一帮成他们可能就已经很满足了，他们会觉得很放松。哪怕那个业余的时间，比如放个小长假，他可能一早干到一晚，甚至通宵达旦，他就觉得很有成就感，就是很放松。对，这个是我理解的可能程序员里面最高级的一种放松方式。但是很多人可能就是因为平时可能太忙了，然后太累了。然后一到这种稍微的放假的时候，他根本没有那个精力再去做自己真正喜欢想做的事情。
-</p>
-<p class="transcript-line">
-<span class="time"><strong>[00:36:31]</strong> </span>
-<span class="speaker"><strong>发言人2: </strong></span>
-很多时候是这样。但回过头来，其实我自己的话，我以前在节目里面有提到过，我觉得看恐怖片和画画是真的很放松。我之前节目里面也聊到这一点，我觉得恐怖片真的很好，因为画画不是每个人可能都喜欢。对，但是我觉得恐怖片我是建议大家可以尝试去看一下，不爱看的也可以找个人一起去看一下。这个东西真的让你超级放松，你可以忘掉所有的烦恼，哪怕不管是你的焦虑也好，还设计的疲惫也好了，一切的事情你都可以忘了，你只会沉浸到那种恐怖氛围里面，自己吓自己。很棒，真的很棒。
-</p>
-<p class="transcript-line">
-<span class="time"><strong>[00:37:10]</strong> </span>
-<span class="speaker"><strong>发言人3: </strong></span>
-其实你说这个被工作完全吞噬的体验我是有过的。那个时候是应届毕业，刚去淘宝没多久。当时淘宝在做一个非常大的底层重构的这个项目，参与的部门非常多，然后时间也卡的很死，最终带给我的是什么呢？就是大概两个月的完全无休，就是人家加班可能还单休，然后那两个月就是完全无休，每天干到凌晨，反正回到家差不多两点，然后早九点还要到公司。就这种状态下人其实已经累到连抱怨都嫌累了。就是我那时候有女朋友，我连给她发微信抱怨一下，说现在太累了，这个力气都没有，就完全连交流欲望都没有了。那这个情况下，其实工作效率显然也是高不到哪里去的，人没抑郁都不错了，现在回想起来还有一种劫后余生的感觉。
-</p>
-<p class="transcript-line">
-<span class="time"><strong>[00:37:56]</strong> </span>
-<span class="speaker"><strong>发言人3: </strong></span>
-当然说回来这个业余爱好，我基本上常年不变的就是玩游戏和看漫画。我还就只爱看漫画不爱看动画，然后什么类型都看。然后中间间歇性的也有过一些别的爱好，但都没有坚持下来。就比如说有两年沉迷撸铁，说我练练长点肉，每周三练打底，风雨无阻。结果后来术后啥呢？就是受伤了，然后胳膊还做了次手术，然后就再也没去撸过铁。
-</p>
-<p class="transcript-line">
-<span class="time"><strong>[00:38:23]</strong> </span>
-<span class="speaker"><strong>发言人3: </strong></span>
-你知道长期运动之后，不运动了的话，其实很容易发胖的。所以虽然最后也确实长肉了，但只能说目的达到了一半，就是都是肥肉不是肌肉。然后一笑说的这个看恐怖片这个我觉得也确实可以试试，感觉会是一种比较舒服的体验。在压力大的时候。
-</p>
-<p class="transcript-line">
-<span class="time"><strong>[00:38:40]</strong> </span>
-<span class="speaker"><strong>发言人1: </strong></span>
-对我其实从来没有想过看恐怖片能解压这件事儿，因为看恐怖片是一件压力很大的事情。对，去经历这种压力很大的事情反倒能解压是吧？这个确实我也没想过他会有这样的功效，因为毕竟在玩游戏的时候，比如说寂静岭那种游戏我是从来不敢玩的。虽然只是一个游戏而已，你知道它是游戏，你知道它是一个恐怖游戏。但是有时候可能你会觉得它会吓你一跳，你就不会去玩。对，所以说我觉得真的这个真的确实可以你自己一个人不敢看，可以带着你家人一起看，对吧？两个人一起的话可能就不会那么恐怖，对吧？
-</p>
-<p class="transcript-line">
-<span class="time"><strong>[00:39:18]</strong> </span>
-<span class="speaker"><strong>发言人2: </strong></span>
-没有，但是你说的那个游戏原来可是真的恐怖了，那种玩不了玩那种玩不了。记得之前我和你在你们家不是有一款游戏，就是那种像真人的那种。我进去那个房间里面到处去走走，可能我不小心的掏出一个鬼呀，或者掏出一个什么东西。对我觉得我觉得那种东西玩不了，我觉得那种太恐怖了，就像你自己到那种密室逃脱里面去玩，我也不敢去密室逃脱，我觉得这个东西太恐怖了，我觉得这比看恐怖片要恐怖太多了。对，你看恐怖片不一样的，那个完全不一样的。
-</p>
-<p class="transcript-line">
-<span class="time"><strong>[00:39:51]</strong> </span>
-<span class="speaker"><strong>发言人1: </strong></span>
-你看的恐怖片是里面还带点搞笑的是吗？
-</p>
-<p class="transcript-line">
-<span class="time"><strong>[00:39:54]</strong> </span>
-<span class="speaker"><strong>发言人2: </strong></span>
-那那也有，他确实有有那种香港的。你知道像以前的香港里面的那些恐怖怖片，比如像林正英也好或者啥的那种东西，他就是他就是带着搞笑的，对吧？但是对那种我觉得也解压，但是我其实不是很喜欢我觉得真正解压的还是那些泰国的、韩国的、日本的，我觉得那种他会让你全身心的投入到那个恐怖的氛围里面去。然后你好紧张，你的整个人都是紧张的，然后你已经没有思绪可以去思考任何其他的事情了，你只能专注在这儿。所以说这件事情你就会发现，你好像就离开了整个现实世界，就很放松。
-</p>
-<p class="transcript-line">
-<span class="time"><strong>[00:40:34]</strong> </span>
-<span class="speaker"><strong>发言人1: </strong></span>
-对我觉得这个事儿确实可以尝试一下，就是去看看恐怖片？日韩的恐怖片，泰国的恐怖片。然后这两年我觉得我们群体的境遇确实是在走下坡路，而且这个下坡路是在经历了长达十几年的黄金期之后。可能从0708年开始，整个互联网这一波上来，就是移动端这一波上来？上来之后到22年，就这一波的整个的上坡可能暂时走缓了一点，对，然后就开始走下坡了。
-</p>
-<p class="transcript-line">
-<span class="time"><strong>[00:41:05]</strong> </span>
-<span class="speaker"><strong>发言人1: </strong></span>
-然后再叠加最近这两年其实AI对行业的影响，觉得做AI的这帮哥们儿真的是在自我革命。就是你把科做出来了，你自己还能继续做cursor但是真的有很多可能很多人就写不了代码了，对吧？也是很有可能的。而且我们相当于自己在自我革命，自己造了一个机器把自己干没了。对，因为这期其实我们主题还是在聊我们自己，就在聊程序员，对吧？你看环境也不好，然后我们自己其实现在也被AI来威胁，吧？威胁自己的工作机会。最后要不然给大家打打气。
-</p>
-<p class="transcript-line">
-<span class="time"><strong>[00:41:38]</strong> </span>
-<span class="speaker"><strong>发言人2: </strong></span>
-我觉得总的来说还是反正做人都都挺难的。大家不管是你做做程序员还是做其他的，做人都挺难的。还是不用太悲观了。我觉得从行业的角度来说的话，其实也还整体上也还过得去。对，当然你不要总是回头去和以前的自己去比，那个可能就比不了了。对，毕竟可能互联网的那那个真的那个造富的时代，那种东西已经过去了，整个经济是有周期的。
-</p>
-<p class="transcript-line">
-<span class="time"><strong>[00:42:10]</strong> </span>
-<span class="speaker"><strong>发言人2: </strong></span>
-对，就像我昨天还看到有一个人说了，中国总共就是改革开放以来，总共有八个节点是可以让大家暴富的对，当然前面的有很多的节点我们都没有经历过。前面的节点可能就有什么下海下海，下海是一个对，那个应该是很早了，那些我们都没有经历过。然后中间反正还有一个什么几个节点，反正前面有四个节点我都记不太住了。好在互联网之前的那一个最大的节点就是炒房，互联网之前有一个节点就是炒房。这个也是我们那个时候我们可能还在读高中，读大学，所以说我们也赶不上，这也是我们赶不上了。但是刚好在我们其实大学毕业的时候，是赶上了互联网的这一个阶段。对这当然这个东西叫拼选择，他可能不是每一个人。
-</p>
-<p class="transcript-line">
-<span class="time"><strong>[00:42:56]</strong> </span>
-<span class="speaker"><strong>发言人2: </strong></span>
-对，互联网之后其实还有两个是我们经历了，但是大家多数人都没赶上的。第一个就是短视频，第二个就是直播。所以说它其实互联网后面其实还有短视频，有直播。
-</p>
-<p class="transcript-line">
-<span class="time"><strong>[00:43:09]</strong> </span>
-<span class="speaker"><strong>发言人2: </strong></span>
-所以今天是AI是不是其实还不确定。因为AI现在只是看上去很火，但是毕竟还没有拿到成果。但是在短视频和直播里面赚到钱的有非常多，要知道在短视频直播里面有很多，可能像在中国的直播间，网红界里面可能有很多。比如像小杨哥也好，对吧？很多很多这一批人他们其实是站起来了，对，被招呼了的一批人，是我们没赶上的一批人。
-</p>
-<p class="transcript-line">
-<span class="time"><strong>[00:43:36]</strong> </span>
-<span class="speaker"><strong>发言人2: </strong></span>
-所以说还是那句话，我想表达的意思就是说这个经济周期它其实是有一些都是有一些重大的节点的。可能我们现在没办法再停留在互联网的这个节点上了，这个节点可能它确实过去了。对，但是从行业的角度来说，我觉得整体上来说可能比其他的行业可能还是要好一些。所以说也不用太悲观了。但是我们所有人可能都要去抓住这些一个时代的节点，我觉得他可能是比较重要的一件事儿。如果未来还有新的节点出现的话，那这当然一定是有的，对吧？
-</p>
-<p class="transcript-line">
-<span class="time"><strong>[00:44:11]</strong> </span>
-<span class="speaker"><strong>发言人2: </strong></span>
-对，给大家一个对比，其实我是知道的，比如有一些地方的一些公务员，其实他们比如说我因为我特别说的就是公务员，而不是说其他的行业。他们手上端着的是铁饭碗，但是他们过得并不比程序员这个行业要好。有很多小地方的单位，特别是小地方的小单位，他们已经停发工资了。我身边我自己有亲戚。第二他们是有两个月没拿到工资的这种对，这种单位其实已经有了。对所以说作为我们这种行业，我觉得现在还在程序员，还在有工作，还在写代码的，其实不用太悲观。第二个点就是还是回到刚才说的，这个时代上可能总有一些关键的节点，就是大家还是要去拥抱变化。今天看上去AIS1个新的节点，但也不一定正好，毕竟还没有被证明。
-</p>
-<p class="transcript-line">
-<span class="time"><strong>[00:45:01]</strong> </span>
-<span class="speaker"><strong>发言人2: </strong></span>
-就像刚才说的对，大家还没有任何人在AI上拿到了成果。就像小杨哥在短视频的直播上已经拿到了，他该拿到这个是当然我们不管小杨哥这个人，我们只是以他为例子来讲。对，因为直播短视频里面其实有很多很多，很多人赚了大钱的对，但是AI可能今天还没有被证明，但是我觉得大家可能还是要趁早的积极的去使用AI就像刚才说的抠手也好，对吧，你至少写代码写的比别人快一点，效率高一点也还好？你用AI去创造一些东西。但是据我的现在的一个观察到这个现象，我不知道你们有没有这样的一个感受，就是在这一波的AI里面，其实我发现投身在其中的主要还是一些年轻人，并且他们的学历都还很高。对，年轻人加高学历。其实大家有没有想过我们互联网那一波的时候，那一波的节点里面其实不是高学历为主。
-</p>
-<p class="transcript-line">
-<span class="time"><strong>[00:46:00]</strong> </span>
-<span class="speaker"><strong>发言人1: </strong></span>
-还有很多草莽的对对。
-</p>
-<p class="transcript-line">
-<span class="time"><strong>[00:46:01]</strong> </span>
-<span class="speaker"><strong>发言人2: </strong></span>
-所以说这两个时代还有点不太一样的。其实在互联网时代里面，我们有很多很多的人都是说，我其实不是计算机专业的，都是其他专业过来，对吧？很多很多这种。但是这一波AI里面真的都有很多都是年轻人加高学历，海外背景等等等等非常多。对我觉得这也是一个现象。所以说互联网时代的老人们，可能有很多人在这一波AI里面确实是没有去上车的。但是我觉得大家可能还是要去关注到这个现象，积极的去拥抱这样的一些变化。对才可能不管是在未来能赚钱，还是说不被时代淘汰，或者上面可能要多做一些准备。
-</p>
-<p class="transcript-line">
-<span class="time"><strong>[00:46:41]</strong> </span>
-<span class="speaker"><strong>发言人3: </strong></span>
-你说这个我听了感觉还挺有感触的，就是我觉得凡事都是有因果的。就是因为我们这一批的互联网可能吃到了红利，发展的比较好。从而催生了现在更多的优秀的年轻人，高学历的年轻人，进入这个行业没错，当然可能对进入这个行业的时候，这个行业已经在走下坡路了，这可能对属于运气不好。然后都互联网时代的老人们上车的似乎不多，其实很多人也是被困在自己的生活里面了，他没有这个机会成本说我能够放弃现在的机会，然后去做一个新的事情。因为绝大多数对创业还是要有获利风险，然后要有这个对基础才能做到这些事情，所以有点感触。
-</p>
-<p class="transcript-line">
-<span class="time"><strong>[00:47:23]</strong> </span>
-<span class="speaker"><strong>发言人3: </strong></span>
-实际上我觉得在整体环境都不太好的情况下吧，也不是光我们群体在走下坡路，对吧？相对来说，我觉得程序员群体可以选择的机会还是会多一些的。比如说我们还有独立开发，然后出海赚钱的远程工作这样的可以去跨越地域的可能性可以去选。就是在这块区域可能经济不太好的情况下，我们可以跨越地域的去参与。这个是很多行业和职业其实是没有这样的机会的。当然这也不是一件容易的事情，而且其实放到每一个不同的个体身上，大家的处境，大家状态可能也都不一样。但我觉得起码是个选择。
-</p>
-<p class="transcript-line">
-<span class="time"><strong>[00:48:00]</strong> </span>
-<span class="speaker"><strong>发言人1: </strong></span>
-对，确实我听你们说完，我们的选择机会真的是属于多的。你刚才有讲说很多公务员，小单位已经发不出工资了？还有很多群体其实有比我们更惨？就这几年里面不断有人抄底去开餐饮？那傀儡都不知道去哪儿去了。没错，尤其是在餐饮几波解封的情况下，面对吧？就是不断的去有人抄到底说我现在去开餐饮应该是一个巨大的机会。
-</p>
-<p class="transcript-line">
-<span class="time"><strong>[00:48:26]</strong> </span>
-<span class="speaker"><strong>发言人1: </strong></span>
-但发现从不管是解封的那一波，还有包括后续，其实是真的因为大家都没钱了，对吧？导致说没有钱去吃东西，在外外食等等之类的。其实确实有很多人因为这些各种各样的原因，然后也亏损了很多钱。
-</p>
-<p class="transcript-line">
-<span class="time"><strong>[00:48:42]</strong> </span>
-<span class="speaker"><strong>发言人1: </strong></span>
-对我们的选择就相对而言，真的是属于多的，就像郭伟讲的，可以独立开发，可以出海对吧，可以远程对吧？就这些事儿其实是很多职业根本想都不敢想的对，而且我们其实也算是虚拟世界的建筑工，我们跟真实的建筑工人有一个很大的区，也是什么呢？就是我们其实不需要什么资本就可以开始，对吧？他们还得买点专买个地皮，对吧？然后才能把那个房子盖好之后才能开始赚钱。我们其实不需要这个东西，我们就投入点自己的时间这个事就可以了。而且我觉得这个确实是一个很大的优势，你想想其他职业真的是没有这样的机会。
-</p>
-<p class="transcript-line">
-<span class="time"><strong>[00:49:17]</strong> </span>
-<span class="speaker"><strong>发言人2: </strong></span>
-所以说没错。
-</p>
-<p class="transcript-line">
-<span class="time"><strong>[00:49:18]</strong> </span>
-<span class="speaker"><strong>发言人1: </strong></span>
-最后我也希望说大家不用那么悲观，然后我们可以继续走，走着走着说不定路就出来了。最后还是祝大家1024程序员节快乐，我们下期再见吧。
-</p>
-<p class="transcript-line">
-<span class="time"><strong>[00:49:31]</strong> </span>
-<span class="speaker"><strong>发言人3: </strong></span>
-拜拜。
-</p>
-<p class="transcript-line">
-<span class="time"><strong>[00:49:32]</strong> </span>
-<span class="speaker"><strong>发言人1: </strong></span>
-以上就是我们本期播客的全部内容，感谢大家收听，也欢迎大家踊跃留言。如果你喜欢我们，欢迎点赞并分享给感兴趣的朋友。如果你在用苹果播客收听，也希望你花几秒钟给我们一个好评，这会让更多的人了解到我们要是能再点击一下订阅，那就再好不过了。我们下周见。
-</p>]]></content:encoded>
-            <pubDate>Mon, 21 Oct 2024 22:00:00 GMT</pubDate>
-            <guid>67166835db2cf82757e38127</guid>
         </item>
     </channel>
 </rss>
