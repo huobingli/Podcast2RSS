@@ -4,7 +4,1158 @@
         <title>人民公园说AI</title>
         <link>https://www.xiaoyuzhoufm.com/podcast/65257ff6e8ce9deaf70a65e9</link>
         <description>❤️做你创业路上的BGM</description>
-        <lastBuildDate>Fri, 08 Aug 2025 01:53:19 +0800</lastBuildDate>
+        <lastBuildDate>Sun, 10 Aug 2025 04:36:03 +0800</lastBuildDate>
+        <item>
+            <title>深挖GPT-5｜AGI不行，搞钱第一名？揭开OpenAI的估值、政府订单和开源迷雾</title>
+            <link>https://www.xiaoyuzhoufm.com/episode/6895c42d20a2906a4d8e7b94</link>
+            <description>万众期待的GPT-5终于发布，没有等来AGI的奇迹，反而看了一出精彩的商业大戏。本期节目，我们将彻底撕开GPT-5、GPT OSS开源欲言又止的技术面纱，揭露其背后环环相扣的资本运作。这究竟是一次技术迭代，还是一场由Sam Altman精心策划，旨在抬高估值、围剿对手、收割政府订单的千亿美金“阳谋”？
+00:00 为何GPT-5其实应该叫GPT-4.6？
+03:16 GPT-5用价格战能打败Claude吗？
+04:02 Claude的企业份额已超越OpenAI！
+06:32 AI的思考路由是何物？
+08:37 OpenAI的领先优势正在消失吗？
+09:38 消费级AI市场真的已经见顶了吗？
+10:42 AGI普通人再也等不到了吗？
+11:26 企业每月为AI花十万美金很正常？
+16:12 AI公司为什么开始放弃C端市场？
+20:59 AI公司最赚钱的业务是to G吗？
+38:25 编程是AI公司唯一的出路吗？
+17:44 OpenAI开源是为了拿政府订单？
+23:45 Meta为何不再开源最强模型了？
+25:21 5000亿估值看奥特曼如何神操作？
+29:27 Altman是最会讲故事的CEO吗？
+36:26 Transformer架构已成AI发展的桎梏？
+44:29 Genie 3世界模型是AI的下一个战场吗？
+46:56 AI自我进化真的已经实现了吗？
+49:47 AI的下一个机会真的在中国吗？
+【关注主播】：
+📕小红书：叫我小苏就好啊
+📺B站：叫我小苏就好啊
+📱微信：Roisu117
+【关注频道】：
+📕小红书：人民公园说AI
+▶️油管：人民公园说AI
+🐦推特：人民公园说AI</description>
+            <content:encoded><![CDATA[<h1>转写链接</h1>
+<link>https://tongyi.aliyun.com/efficiency/doc/transcripts/dexp9jm5bzlp95ol</link><br>
+<h1>节目摘要</h1>
+<div class="summary">本次讨论深入探讨了AI领域的多个关键议题，包括AGI的未来发展、GPT系列模型的演进以及AI技术在企业级和政府市场上的应用潜力。重点讨论了GPT5的发布、AI的开源策略，以及AI如何助力企业升级和政府治理现代化。讨论者们对中国AI企业在国际竞争中的地位及面临的机遇与挑战表示关注，同时提及了SO的cloud code、anthropic的cloud 3.7等具体AI模型和工具，反映了AI技术的最新进展与市场趋势。整体上，讨论聚焦于AI技术进步、市场竞争以及中国AI企业的发展路径。</div><br>
+<h1>章节速览</h1>
+<div class="chapters">
+<div class="chapter-item">
+<span class="time"><strong>[00:00:00]</strong> </span>
+<span class="chapter-title"><strong>GPT5与开源策略：AGI与搞钱能力的辩证</strong></span>
+<div class="chapter-summary">讨论了AGI对普通人的实用性，指出真正的AGI可能仅限于特大型企业或政府使用，而普通人使用的是阉割版。分析了开源策略背后的商业逻辑，包括吸引人才、提升估值和获取政府订单等。最后，聚焦于GPT5的发布时机与开源模型的关系，探讨了OpenAI的战略布局。</div>
+</div>
+<div class="chapter-item">
+<span class="time"><strong>[00:01:30]</strong> </span>
+<span class="chapter-title"><strong>GPT5发布引发技术与市场策略讨论</strong></span>
+<div class="chapter-summary">对话围绕GPT5的发布展开了深入讨论，质疑其发布时机和技术成熟度，提出可能是为了应对市场竞争或融资需求。GPT5在编程能力和价格策略上有所提升，但整体技术进步有限，被视作4.5版本的升级版，即4.6。面对Cloud等竞争对手的挑战，GPT5通过大幅降价来增强市场竞争力，但其实际应用效果和性能提升仍需进一步验证。</div>
+</div>
+<div class="chapter-item">
+<span class="time"><strong>[00:03:43]</strong> </span>
+<span class="chapter-title"><strong>GPT5发布争议与企业市场份额分析</strong></span>
+<div class="chapter-summary">讨论了GPT5发布背景下的企业市场份额变化，强调了编程能力对市场表现的影响，以及产品统一架构和版本号选择的战略意义，指出GPT5的推出旨在简化用户认知并强化品牌定位。</div>
+</div>
+<div class="chapter-item">
+<span class="time"><strong>[00:06:29]</strong> </span>
+<span class="chapter-title"><strong>思考路由技术在AI模型中的应用与体验优化</strong></span>
+<div class="chapter-summary">讨论了思考路由技术在AI模型中的应用，旨在提升用户体验和训练效率，通过智能化判断场景需求，减少人工干预，实现快速响应与深度思考的无缝切换，体现了技术融合与产品体验优化的趋势，同时指出行业竞争格局的变化及领先优势的缩小。</div>
+</div>
+<div class="chapter-item">
+<span class="time"><strong>[00:08:46]</strong> </span>
+<span class="chapter-title"><strong>AI发展现状与未来趋势探讨</strong></span>
+<div class="chapter-summary">对话围绕AI在C端和B端市场的应用展开，认为C端市场已见顶，B端市场成为重点，特别是与政府的合作。提及Anthropic CEO关于AI未来分配的预测，即优质AI资源将集中于大企业及政府，普通人将使用功能受限的版本。讨论还涉及企业通过API销售实现高额收入，以及AI在B端应用中展现的巨大潜力和对就业的影响。</div>
+</div>
+<div class="chapter-item">
+<span class="time"><strong>[00:12:54]</strong> </span>
+<span class="chapter-title"><strong>大模型应用：个人与企业需求的差异</strong></span>
+<div class="chapter-summary">对话讨论了大模型在个人与企业应用上的显著差异，指出个人市场虽活跃但使用场景单一，而企业需求更为复杂、精确，不容出错。企业级应用涉及多道工序，对模型的精准度和可靠性有更高要求。同时，对话提及了大模型在教育、绘本生成等个人应用场景的成功案例，强调了大模型能力的溢出效应，以及其在推动企业级应用发展中的潜力。</div>
+</div>
+<div class="chapter-item">
+<span class="time"><strong>[00:15:45]</strong> </span>
+<span class="chapter-title"><strong>AI公司策略转向：To B市场比To C更关键</strong></span>
+<div class="chapter-summary">对话讨论了AI公司策略的转变，指出To B市场相较于To C市场能提供更显著的回报，且企业级应用的架构更新、工具集成和开源模型的采用是市场占有率提升的关键。提及了OpenAI等公司可能效仿DeepSeek，放弃To C品牌建设，专注于To B服务，如API销售和与大企业合作，以实现更高价值。</div>
+</div>
+<div class="chapter-item">
+<span class="time"><strong>[00:16:59]</strong> </span>
+<span class="chapter-title"><strong>开源模型与政府合作的深层联系</strong></span>
+<div class="chapter-summary">讨论了开源模型背后的动机，认为其与政府和军方的大额订单密切相关，指出开源不仅是企业竞争策略，更是满足政府对模型透明度和可控性要求的关键。开源实践不仅限于权重开放，还可能涉及训练数据和调优过程的透明化，与GPT5技术路线衔接，形成企业服务生态闭环。</div>
+</div>
+<div class="chapter-item">
+<span class="time"><strong>[00:20:06]</strong> </span>
+<span class="chapter-title"><strong>GPT5与政府AI订单的商业前景探讨</strong></span>
+<div class="chapter-summary">讨论了GPT5在政府和企业应用中的潜在价值，强调了其安全合规性及对企业友好的特性。提及云厂商如微软、亚马逊、谷歌对GPT OSS的快速响应，预示着巨大的订单机会。结合中国经验，预测政府AI订单和私有化部署将带来丰厚利润，建议关注政府合作机会。</div>
+</div>
+<div class="chapter-item">
+<span class="time"><strong>[00:21:21]</strong> </span>
+<span class="chapter-title"><strong>中国使用开源GPT技术的限制与挑战</strong></span>
+<div class="chapter-summary">讨论了中国使用开源GPT技术的可行性，指出由于数据审核、算法合规及社会主义核心价值观的要求，国内直接应用存在困难。提及了硬件成本、行政命令限制及微软等企业使用规则，强调了国内使用需备案和多轮审核的现状，以及开源协议虽开放但数据训练集未完全公开的问题。</div>
+</div>
+<div class="chapter-item">
+<span class="time"><strong>[00:22:49]</strong> </span>
+<span class="chapter-title"><strong>开源模型与GPT5发布策略分析</strong></span>
+<div class="chapter-summary">讨论了开源模型的市场空白及GPT5发布的战略意义，包括填补美国开源模型空白、争取政府大单、竞争市场份额等多方面布局，展现了步步为营的策略观。</div>
+</div>
+<div class="chapter-item">
+<span class="time"><strong>[00:25:33]</strong> </span>
+<span class="chapter-title"><strong>估值攀升与员工股份出售：打造资金闭环</strong></span>
+<div class="chapter-summary">对话讨论了企业估值从3000亿涨至5000亿的过程，以及通过新一轮员工股份出售实现资金闭环的策略。专业分析指出，这种模式不仅反映了公司成长性，还巧妙地将员工利益与公司价值增长绑定，形成了一个高效的资本运作闭环。</div>
+</div>
+<div class="chapter-item">
+<span class="time"><strong>[00:26:13]</strong> </span>
+<span class="chapter-title"><strong>AI领域叙事与资本运作的艺术</strong></span>
+<div class="chapter-summary">对话深入探讨了一位在AI领域极具影响力的领导者如何通过卓越的叙事能力和资本运作，将公司估值从几百亿提升至几千亿，同时有效防止了人才流失。他巧妙利用外部投资抬高公司估值，使员工手中的股票增值，从而增强了团队的凝聚力。此外，他还成功地将自己与政府、大型企业绑定，形成了多方共赢的局面。与另一位公开活跃的科技领袖相比，这位领导者采取了更为低调和策略性的方法，确保了自身在行业内的稳固地位。</div>
+</div>
+<div class="chapter-item">
+<span class="time"><strong>[00:30:26]</strong> </span>
+<span class="chapter-title"><strong>技术驱动收入与估值提升的闭环策略</strong></span>
+<div class="chapter-summary">通过技术实现收入增长，提升公司估值，再利用高估值吸引和留住员工，同时不消耗自身现金，形成良性循环。这一策略不仅避免了因涨工资导致的现金流压力和估值降低，还增强了员工信心，推动了后续发展。</div>
+</div>
+<div class="chapter-item">
+<span class="time"><strong>[00:31:45]</strong> </span>
+<span class="chapter-title"><strong>ChatGPT定价策略：防守还是进攻？</strong></span>
+<div class="chapter-summary">对话讨论了ChatGPT的定价策略，认为在to b领域采取了进攻性策略，通过前置代码能力弥补与竞争对手的差距；而在to c领域，则采用了类似苹果升级策略的防守性定价，免费升级吸引用户，同时通过不同版本和API的定价区分满足多样化需求。</div>
+</div>
+<div class="chapter-item">
+<span class="time"><strong>[00:34:52]</strong> </span>
+<span class="chapter-title"><strong>AI模型定价与to B市场挑战</strong></span>
+<div class="chapter-summary">讨论了AI模型定价策略及其对to B端的影响，指出OpenAI在构建to B网络上的困难，而Anthropic通过API销售成功进入to B市场。同时，分析了transformer架构的局限性及编码能力在当前AI领域的优势，强调了工程化与成本控制的重要性。</div>
+</div>
+<div class="chapter-item">
+<span class="time"><strong>[00:38:52]</strong> </span>
+<span class="chapter-title"><strong>AI编码工具与企业效益提升</strong></span>
+<div class="chapter-summary">对话围绕AI编码工具Cloud Code在提升企业效率和安全方面的显著效果展开。尽管该产品仅发布五个多月，其ARR收入已达到4亿美金，展现出惊人的市场接受度。讨论还涉及AI模型训练的分化趋势，认为中国AI模型厂商在后训练阶段有更多机遇。此外，对话强调了成本效益对于自我开发者和小公司的吸引力，以及中国AI模型在性价比上的优势。</div>
+</div>
+<div class="chapter-item">
+<span class="time"><strong>[00:43:34]</strong> </span>
+<span class="chapter-title"><strong>大模型与世界模型：技术趋势与未来展望</strong></span>
+<div class="chapter-summary">讨论了大模型的平民化趋势及其在实际应用中的价值，同时聚焦于谷歌的第三代世界模型研发进展，分析了其超越传统大模型的潜力。强调了顶级公司在领先研发中的主导地位，以及国内追赶的可能性。探讨了AI自学习能力的发展，包括通过真实世界数据自我训练的agent，以及代码生成在AGI发展中的关键作用。展望了GPT5及未来版本在估值和应用场景上的挑战与机遇，提出了to B和to G端应用的前景。</div>
+</div>
+</div><br>
+<h1>问题回顾</h1>
+<div class="qa-item">
+<div class="question"><strong>Q:</strong> AGI是否真的不行，搞钱第一名？</div>
+<div class="answer"><strong>A:</strong> 这是个话题，但实际上真正的AGI可能只有大型企业和政府才有能力使用，普通人用不到。</div>
+</div>
+<div class="qa-item">
+<div class="question"><strong>Q:</strong> 为什么选择开源GPT模型？</div>
+<div class="answer"><strong>A:</strong> 开源是为了建立闭环，留住人才，通过算力中心重新获取政府订单，并提升估值。</div>
+</div>
+<div class="qa-item">
+<div class="question"><strong>Q:</strong> GPT5发布的时机是否合理？GPT5发布是否意味着技术成熟度到了必须发布的时候？</div>
+<div class="answer"><strong>A:</strong> 发布的时间很奇怪，让人感觉可能是技术发展到一定程度的展示，也可能是预期管理或出于其他目的（如融资、公关）而选择此时发布。从各方面情况来看，似乎达到了不得不发的状态，尤其是在市场份额增长、产品定位统一以及内部版本迭代等方面。</div>
+</div>
+<div class="qa-item">
+<div class="question"><strong>Q:</strong> GPT5与之前版本的主要区别是什么？</div>
+<div class="answer"><strong>A:</strong> GPT5统一了智能架构和模型选择，不再需要用户手动挑选不同版本的产品，实现了多模态混合。</div>
+</div>
+<div class="qa-item">
+<div class="question"><strong>Q:</strong> GPT5中的“思考路由”功能是出于降本还是提升体验的考虑？</div>
+<div class="answer"><strong>A:</strong> “思考路由”是为了优化整个产品的体验和训练过程，让模型能根据场景自动判断并决定用哪种处理方式，更接近人类的系统一和系统二思考模式。</div>
+</div>
+<div class="qa-item">
+<div class="question"><strong>Q:</strong> GPT是否已经占据了to c市场的第一名心智，其重点发展方向是什么？</div>
+<div class="answer"><strong>A:</strong> 是的，GPT在to c市场上已经占据了第一名的心智，它现在的产品重点在于统一对用户体验的优化。不过，从另一方面来看，GPT也意识到AI的发展需要转向to b市场，尤其是在打单和与政府合作方面。近期的一系列动作表明其在to b市场的布局更加重要。</div>
+</div>
+<div class="qa-item">
+<div class="question"><strong>Q:</strong> 在to b领域中，AI的发展和应用情况如何？</div>
+<div class="answer"><strong>A:</strong> 在to b领域，AI的竞争非常激烈，尤其是anthropic等公司已经开始对大型企业和政府构成威胁。有采访提到，未来好的AI将被顶级公司如OpenAI等拿去服务于特大型企业和政府，普通民众可能只能使用性能差距极大的阉割版AI。</div>
+</div>
+<div class="qa-item">
+<div class="question"><strong>Q:</strong> 为何OpenAI更侧重于to b市场的发展？</div>
+<div class="answer"><strong>A:</strong> OpenAI意识到仅靠to c市场无法支撑其庞大的投入和数据中心建设，而to b市场的需求更为实际且具体，能提供更高的回报率。此外，开源模型的发布也有助于OpenAI进入政府和军方市场，确保其模型能在官方渠道得到公开使用和调优，从而提升可控性和透明度。</div>
+</div>
+<div class="qa-item">
+<div class="question"><strong>Q:</strong> 对于企业级用户来说，AI使用需求有何特点？</div>
+<div class="answer"><strong>A:</strong> 企业级用户对AI的需求更加精细化且不容出错，应用场景千变万化，需要高度定制化和专业化的解决方案。相比个人用户，企业用户在选择AI模型时更加注重其针对性和精准性，而不仅仅是强大算力和多模态能力的溢出。</div>
+</div>
+<div class="qa-item">
+<div class="question"><strong>Q:</strong> GPT5的开源部分是否是企业原本计划的一部分？</div>
+<div class="answer"><strong>A:</strong> 其实对于企业和个人而言，这个开源做法是中规中矩的做法，可能顺手推舟地完成了之前没有做的open source部分。</div>
+</div>
+<div class="qa-item">
+<div class="question"><strong>Q:</strong> 开源框架与GPT5的设计有何衔接性？</div>
+<div class="answer"><strong>A:</strong> 开源框架包含了大量的内容，与GPT5的设计有很强的衔接性，工具调用、基础训练方式以及后续微调等环节都与GPT5的技术路线和思路一致。</div>
+</div>
+<div class="qa-item">
+<div class="question"><strong>Q:</strong> 是否可以切换至GPT5的API使用？</div>
+<div class="answer"><strong>A:</strong> 是的，开源模型支持切换架构，可以在需要高智能场景时从GPT OSS切换至GPT5 API调用，实现丝滑过渡。</div>
+</div>
+<div class="qa-item">
+<div class="question"><strong>Q:</strong> 云服务厂商对于GPT5的接入情况如何？</div>
+<div class="answer"><strong>A:</strong> 微软、亚马逊等大云厂商第一时间接入了GPT5，预计包括Google在内的其他大厂也已接入，这表明合作订单规模巨大。</div>
+</div>
+<div class="qa-item">
+<div class="question"><strong>Q:</strong> 中国是否能使用开源的GPT模型？</div>
+<div class="answer"><strong>A:</strong> 虽然理论上中国可以使用开源的GPT模型，但实际上存在限制，例如需要备案、算法审核、数据源审核等，并且数据不能公开，因此不能直接使用。</div>
+</div>
+<div class="qa-item">
+<div class="question"><strong>Q:</strong> GPT5发布背后的商业策略有哪些？</div>
+<div class="answer"><strong>A:</strong> 奥特曼通过开源、与政府签大单、填补美国本土开源模型市场空白等方式，步步为营，同时通过提高估值，利用员工股份出售来完成新的融资局，展现出了卓越的叙事能力和资本运作技巧。</div>
+</div>
+<div class="qa-item">
+<div class="question"><strong>Q:</strong> OpenAI在今年1月份时，与孙正义、萨奥特曼等人合作宣布了什么计划？</div>
+<div class="answer"><strong>A:</strong> OpenAI在今年1月份时，联合孙正义、萨奥特曼以及甲骨文公司老大艾弗森和特朗普等人，共同宣布了一个要求投资5000亿美金建立前所未有的算力中心的计划。这个项目不仅能够提供全球GPT所需的无限算力，还可能将全球资本市场的大半资金吸引至美国，对多方来说是多赢的局面，但同时也存在一定的风险，主要在资本层面。</div>
+</div>
+<div class="qa-item">
+<div class="question"><strong>Q:</strong> OpenAI通过什么方式来应对员工被挖走的问题？</div>
+<div class="answer"><strong>A:</strong> 面对员工被挖走的情况，OpenAI采取的方式是将员工手里的股票变值钱，而不是涨工资或画大饼。当有愿意接盘的投资者以5000亿估值购买公司股份时，员工可以出售部分股份，这使得员工觉得离开的成本变得极高，从而达到防守的目的，同时公司的估值也得以提升。</div>
+</div>
+<div class="qa-item">
+<div class="question"><strong>Q:</strong> OpenAI是如何通过技术实现收入增长并提高估值的？</div>
+<div class="answer"><strong>A:</strong> OpenAI预计今年收入将达到200亿美元，通过技术实现收入增长，从而将估值从3000亿提升至5000亿。接着，OpenAI允许员工出售股份，进一步抬高估值，并计划建造5000亿的星际之门项目，维持公司在全球AI领域的领先地位。整个过程形成了一个闭环，既留住了人才，又推进了项目发展，而且在这个过程中，OpenAI并未花费自己的现金。</div>
+</div>
+<div class="qa-item">
+<div class="question"><strong>Q:</strong> OpenAI发布GPT-5的原因是什么？</div>
+<div class="answer"><strong>A:</strong> OpenAI发布GPT-5并非出于情之所至，而是到了必须展示成果、宣告技术进步的时间点，以维持外界对其技术和创新能力的信心，并通过发布新产品来确保公司价值的增长。</div>
+</div>
+<div class="qa-item">
+<div class="question"><strong>Q:</strong> 对于ChatGPT此次免费版和付费版的定价策略，小苏认为是为了防守还是进攻？</div>
+<div class="answer"><strong>A:</strong> 对于to b市场，小苏认为ChatGPT此次的定价策略是为了进攻，因为它强化了代码能力，并以此作为API定价的关键点，试图抢占市场优势。而在to c市场，相当于让用户免费升级到新版本，类似于苹果产品的升级策略，旨在保持用户粘性。总体而言，OpenAI似乎更加焦虑于to b端市场的拓展和与anthropic的竞争。</div>
+</div>
+<div class="qa-item">
+<div class="question"><strong>Q:</strong> 在transformer架构下，表现最稳定、发挥最好的场景是什么？</div>
+<div class="answer"><strong>A:</strong> 表现最稳定、发挥最好的场景是agent在coding领域的应用，即通过代码来解决问题。</div>
+</div>
+<div class="qa-item">
+<div class="question"><strong>Q:</strong> GPT5是否会出现大幅跨越的进步，以及当前阶段对于模型发展的重要方向是什么？</div>
+<div class="answer"><strong>A:</strong> GPT5没有出现预期中的大幅进步，现在需要关注的是工程化和成本控制，比如推出企业版和政府版模型，并让更多人使用最新的模型。同时，编码层面是当前较为赚钱的方向。</div>
+</div>
+<div class="qa-item">
+<div class="question"><strong>Q:</strong> 编码产品的市场表现如何？</div>
+<div class="answer"><strong>A:</strong> 某编码产品（SO的cloud code）发布仅五个多月，收入就达到了4亿美金，这表明编码能力的提升能帮助企业解决实际问题并提高效率。</div>
+</div>
+<div class="qa-item">
+<div class="question"><strong>Q:</strong> 对于大力出奇迹的现象，它是否对中国AI模型厂商有利好作用？</div>
+<div class="answer"><strong>A:</strong> 大力出奇迹的现象如果不再适用，意味着需要通过精雕细刻来提升模型能力，这对中国AI模型厂商来说可能是利好消息，尤其是在确定性和性价比方面。</div>
+</div>
+<div class="qa-item">
+<div class="question"><strong>Q:</strong> 编码是否更偏向于后训练阶段，以及对中国模型厂商的影响？</div>
+<div class="answer"><strong>A:</strong> 编码可能更偏向于后训练阶段，中国在预训练方面已开源模型，而在编码方面，由于成本较低且性价比高，对于国内模型厂商来说是积极信号。</div>
+</div>
+<div class="qa-item">
+<div class="question"><strong>Q:</strong> 谷歌的JIMI 3模型有何特点，以及对未来AI发展方向的影响？</div>
+<div class="answer"><strong>A:</strong> JIMI 3是一个世界模型，虽然目前尚未超越大语言模型，但其发展方向可能引领未来竞争，尤其是当大模型遇到scaling law瓶颈时，世界模型会进一步发展。同时，中国的agent能力提升很快，有望追上世界模型的发展步伐。</div>
+</div>
+<div class="qa-item">
+<div class="question"><strong>Q:</strong> AI能否自我寻找数据进行训练，以及对未来AI迭代的影响？</div>
+<div class="answer"><strong>A:</strong> AI正在尝试自我寻找数据以进行训练，例如通过类似GPT5的方式，这将对未来AI的迭代产生巨大影响，使得AI能够设计出超越人类想象的新工具并实现自我提升。</div>
+</div>
+<h1>节目文稿</h1>
+<p class="transcript-line">
+<span class="time"><strong>[00:00:00]</strong> </span>
+<span class="speaker"><strong>发言人1: </strong></span>
+AGI不行，搞钱第一名。这是不是真的。
+</p>
+<p class="transcript-line">
+<span class="time"><strong>[00:00:02]</strong> </span>
+<span class="speaker"><strong>发言人2: </strong></span>
+到了你不发不行的时候？
+</p>
+<p class="transcript-line">
+<span class="time"><strong>[00:00:03]</strong> </span>
+<span class="speaker"><strong>发言人3: </strong></span>
+如果我要给他取名字，我叫GPT。4.6 to c端的。
+</p>
+<p class="transcript-line">
+<span class="time"><strong>[00:00:06]</strong> </span>
+<span class="speaker"><strong>发言人2: </strong></span>
+有可能会见底这个机会就留给中国了。To g那就是另外一种能力。对，喝点茅台了。
+</p>
+<p class="transcript-line">
+<span class="time"><strong>[00:00:11]</strong> </span>
+<span class="speaker"><strong>发言人3: </strong></span>
+所以真正的AGI我们普通人其实是用不到的。哥们儿最好的AI只会特大型企业或者是政府去用。
+</p>
+<p class="transcript-line">
+<span class="time"><strong>[00:00:17]</strong> </span>
+<span class="speaker"><strong>发言人1: </strong></span>
+就我们老百姓用阉割版的对吧？
+</p>
+<p class="transcript-line">
+<span class="time"><strong>[00:00:19]</strong> </span>
+<span class="speaker"><strong>发言人3: </strong></span>
+我们用严重阉割版。
+</p>
+<p class="transcript-line">
+<span class="time"><strong>[00:00:20]</strong> </span>
+<span class="speaker"><strong>发言人2: </strong></span>
+他既把自己的想法装到别人脑子里了也把墙放在自己兜里。
+</p>
+<p class="transcript-line">
+<span class="time"><strong>[00:00:23]</strong> </span>
+<span class="speaker"><strong>发言人1: </strong></span>
+为什么要开源了？整个闭环了，人留住了，算力中心再建起来，再去拿政府订单再打单，估值又上去了。而且人能循环。
+</p>
+<p class="transcript-line">
+<span class="time"><strong>[00:00:31]</strong> </span>
+<span class="speaker"><strong>发言人2: </strong></span>
+我卖老虎又能够把工资变高，又能把人留住，后面的人还可能更有信心跟我长期改。聪明。
+</p>
+<p class="transcript-line">
+<span class="time"><strong>[00:00:45]</strong> </span>
+<span class="speaker"><strong>发言人1: </strong></span>
+我觉得他这个搞钱能力还是很强的，就这个5000亿估值直接炒上去这个AGI不行，搞钱第一名。所以我觉得在搞钱能力真的是无敌了。所以说我们今天就来聊一下GPT5。对，大家很关心的这个GPT5这个话题，我们其实前两天就在讨论这个事情，要不要聊为什么前两天open I发布的这个GPT OSS，这开源的模型对不对？对，大家说地主家大发善心，这个是搞一个什么局？但其实我觉得我们还是要站在一个更全局的视角来看他什么时候开源，然后什么时候发GPT5。把这些事件联系起来，或许你就可以发现其中的奥妙。
+</p>
+<p class="transcript-line">
+<span class="time"><strong>[00:01:30]</strong> </span>
+<span class="speaker"><strong>发言人2: </strong></span>
+我觉得就是说这回GPT5发布的时间很奇怪，好多人把这个期待压在GPT5上面，然后他突然就发布了，那我也没看出怎么样来。所以到底这个PPT5的发布是不是技术到了这个点上，他就要拿出来炫一下了。
+</p>
+<p class="transcript-line">
+<span class="time"><strong>[00:01:46]</strong> </span>
+<span class="speaker"><strong>发言人1: </strong></span>
+还是说还是预期没管理好。
+</p>
+<p class="transcript-line">
+<span class="time"><strong>[00:01:48]</strong> </span>
+<span class="speaker"><strong>发言人2: </strong></span>
+还是说疫情没管理好也成，还是说到这个点，他发货另有原因，比如是为了融资，比如是为了政府公关，或者因为什么被迫的原因去应战。你们两位怎么看？就是不是真的到了不不发不行的时候。
+</p>
+<p class="transcript-line">
+<span class="time"><strong>[00:02:03]</strong> </span>
+<span class="speaker"><strong>发言人3: </strong></span>
+我看肯定是不发不行了。他如果我给他取名字，我叫GPT4.6。4.5为什么还得叫4.6呢？因为他原来一直在说他有个4.5要出，后来那个4.5也不行了，就叫我的代号，我的那个讲着讲着就讲没了，不知道是不是因为人跑光了的原因，反正这个就没了。正在跑的这些O3，4.1什么的也都不咋地。有很多的编程，这些东西是远远落后cloud的模型，包括也被杰米奶的多模态摁着打然后收购那个windows .
+</p>
+<p class="transcript-line">
+<span class="time"><strong>[00:02:37]</strong> </span>
+<span class="speaker"><strong>发言人1: </strong></span>
+live还失败了。
+</p>
+<p class="transcript-line">
+<span class="time"><strong>[00:02:39]</strong> </span>
+<span class="speaker"><strong>发言人3: </strong></span>
+还被人偷了偷家了还。反正这个很多情况来看。
+</p>
+<p class="transcript-line">
+<span class="time"><strong>[00:02:43]</strong> </span>
+<span class="speaker"><strong>发言人1: </strong></span>
+我们之前的讨论。
+</p>
+<p class="transcript-line">
+<span class="time"><strong>[00:02:44]</strong> </span>
+<span class="speaker"><strong>发言人3: </strong></span>
+对，所以我就我自己看这个东西可能只能叫4.6。因为这个东西差不多是以前4.5，传说中的4.5的一些能力加了一点点。你看他今天的这个发布，用几个词来讲，就是他确实编程有一些经验的表现，但是你不知道实际的情况怎么样。
+</p>
+<p class="transcript-line">
+<span class="time"><strong>[00:03:02]</strong> </span>
+<span class="speaker"><strong>发言人3: </strong></span>
+然后最最实际的是价格屠夫了，因为cloud 4.1是昨天发布的，我对回答贤哥说的问题是不是非发不可了？是啊，人家cloud都已经4.1发到门口来了。昨天发布的那他今天发的这个GPT5价格直接干到它的4.1的15分之1的价格，API的价格干到他15分之1的价格，这个是相当的低了也比正面的2.5的pro要低。这个是一个很实际的动作。但是所有的其他的东西就只能拿跑分来说事了。我都觉得没有办法跟大家去一条一条讲他到底跑了什么分。但是其实他强只强人家一两分，这种其实相当于在比赛的时候，你可能高人家一两秒的那种感觉。
+</p>
+<p class="transcript-line">
+<span class="time"><strong>[00:03:43]</strong> </span>
+<span class="speaker"><strong>发言人1: </strong></span>
+差不多有争议的。我看好多在X上面的讨论，其实对他的这个跑分是有争议。但我我我从营销或者是说宣发的角度来讲，我觉得有几点可能是他到了不得不发的时候。一个是你看这个cloud anthropic，最近其实企业份额涨得非常猛，就原本大概它的企业份额大概12%上去了，最近涨到32%，32%的企业份额。对。
+</p>
+<p class="transcript-line">
+<span class="time"><strong>[00:04:12]</strong> </span>
+<span class="speaker"><strong>发言人3: </strong></span>
+就是它的估值达到。
+</p>
+<p class="transcript-line">
+<span class="time"><strong>[00:04:14]</strong> </span>
+<span class="speaker"><strong>发言人1: </strong></span>
+1700亿了。
+</p>
+<p class="transcript-line">
+<span class="time"><strong>[00:04:15]</strong> </span>
+<span class="speaker"><strong>发言人3: </strong></span>
+就是很实际。他的那个AR2就是年年经常性收入已经超过OpenAI了，这个是很厉害的。
+</p>
+<p class="transcript-line">
+<span class="time"><strong>[00:04:21]</strong> </span>
+<span class="speaker"><strong>发言人1: </strong></span>
+但是我企业份额才25%，对，才百分之，其实还是落后cloud非常多。这里面其实断代的差距，我个人觉得差在编程。
+</p>
+<p class="transcript-line">
+<span class="time"><strong>[00:04:31]</strong> </span>
+<span class="speaker"><strong>发言人3: </strong></span>
+对其实就是代表。
+</p>
+<p class="transcript-line">
+<span class="time"><strong>[00:04:33]</strong> </span>
+<span class="speaker"><strong>发言人1: </strong></span>
+你如果对对如果对比german I它可能有这种上下文跟多模态上面的差距。但是其实最直接的在企业市场差距这么大我觉得是编程上面落后。
+</p>
+<p class="transcript-line">
+<span class="time"><strong>[00:04:45]</strong> </span>
+<span class="speaker"><strong>发言人3: </strong></span>
+就是在编程现在throp c是干到了3.1个B点的ARR收入。但是以前在没有加这个编程的，就是今年爆发的这些东西之前，他大概只有1.4只左右。也就是说有这个1.6的增量都是今年干出来的那今年干出来这些东西，很多都是直接超越了OpenAI的合作伙伴cursor，github copilot这些，就这1.6个1点，他就是从这里面搞出来的。是的。
+</p>
+<p class="transcript-line">
+<span class="time"><strong>[00:05:16]</strong> </span>
+<span class="speaker"><strong>发言人1: </strong></span>
+很厉害。然后我觉得从那个产品定位上，我觉得他也必须要发GPT5。因为他为什么不能是一个4.6呢？因为其实我注意到他这一次的GPT5其实是统一的，它整个架构智能架构，包括模型选择也不用你去选了。你不用像以前选什么O3、O4、O3 mini，你都搞不清楚哪一条线是什么产品。那现在其实就统一混合起来，叫做GPT5，而且也是多模态混合起来了。
+</p>
+<p class="transcript-line">
+<span class="time"><strong>[00:05:44]</strong> </span>
+<span class="speaker"><strong>发言人1: </strong></span>
+对，所以他从我觉得从整个产品的定位，用户心智上面，他希望大家就是认准一个GPT。那这个时候再出一个4.6，其实大家已经就是麻了，你知道吧？我觉得我已经麻了。
+</p>
+<p class="transcript-line">
+<span class="time"><strong>[00:05:58]</strong> </span>
+<span class="speaker"><strong>发言人3: </strong></span>
+对，所以我们说这个东西我们自己做产品也知道，很多时候产品的版本号取决于你要跟客户讲什么事情。
+</p>
+<p class="transcript-line">
+<span class="time"><strong>[00:06:06]</strong> </span>
+<span class="speaker"><strong>发言人2: </strong></span>
+你要讲一个什么样的叙事。
+</p>
+<p class="transcript-line">
+<span class="time"><strong>[00:06:08]</strong> </span>
+<span class="speaker"><strong>发言人3: </strong></span>
+对，实际上这玩意儿的内部版本号，我觉得可能就是4.6。
+</p>
+<p class="transcript-line">
+<span class="time"><strong>[00:06:12]</strong> </span>
+<span class="speaker"><strong>发言人1: </strong></span>
+你看吧，其实那个OpenAI它其实还是研究员驱动的。你看就是可能我觉得以前每一个版本就是一个研究员驱动一个版本。那现在妈的研究员被挖光了吗？奥特曼自己驱动了，对不对？能不能别吵，就叫GPT5，不要不要吵了他我问。
+</p>
+<p class="transcript-line">
+<span class="time"><strong>[00:06:29]</strong> </span>
+<span class="speaker"><strong>发言人2: </strong></span>
+一个问题，老师他在C端里面他提到他有一个叫所谓叫思考路由这么一个东西。这个东西我挺感兴趣，他说OK我用这个东西就是看什么时候能够迅速回答，然后体验速度对吧？什么时候又会进入深度思考，这时候你不需要去自己选择了，原来我还要去自己点了一个deep search，但现在对，就是这个东西它到底是为了降本，还是为了从产品角度来讲的话，让让这个体验更丝滑。
+</p>
+<p class="transcript-line">
+<span class="time"><strong>[00:06:55]</strong> </span>
+<span class="speaker"><strong>发言人3: </strong></span>
+你怎么看他其实从产品的体验和训练上都很重要，其实是倒过来的，你看到的是他最后这样子好像体验比较丝滑，但他其实整个训练也需要这样去训练，就是最好是一体化的多模态的模型。而且他不需要你去人工的去指定你到底是要用哪个模型处理什么事情，而是由他自己去判断到底现在这个场景应该用什么。也就更接近我们人经常讲的那个系统一和系统二的问题。
+</p>
+<p class="transcript-line">
+<span class="time"><strong>[00:07:24]</strong> </span>
+<span class="speaker"><strong>发言人2: </strong></span>
+就是你系统一是慢思考。
+</p>
+<p class="transcript-line">
+<span class="time"><strong>[00:07:26]</strong> </span>
+<span class="speaker"><strong>发言人3: </strong></span>
+快思考和慢思考。系统一是快思考，直觉就可以马上决定怎么做，很快的对对。然后慢思考就是做一些长的思考，也就是我们现在的推理reasoning这些的那这个东西的话本身也不是OI首创，其实最早应用的是anthropic的那个cloud 3.7。在我们今年1月份的时候，也就是deep sik宣布这个开源以后的模型，对推理模型一出来，第二个月马上s pic的3.7就是把这个就融合进去了。
+</p>
+<p class="transcript-line">
+<span class="time"><strong>[00:07:55]</strong> </span>
+<span class="speaker"><strong>发言人3: </strong></span>
+就是你刚才说的那个路由的东西，它已经融合进去了。我们仔细看，它实际上是一个跟进的动作，就是大家都在做这个事情。姐妹俩也是一样，最近的半年也做了这个动作，也融合的挺好的。有些时候已经开始是不需要你在API那边有一些东西是不需要去选的。所以我觉得都在体现他们的一个越来越接近的一个状态。而且都是在这个B端这一侧侧会有优先，是就是这么一个动作。对。
+</p>
+<p class="transcript-line">
+<span class="time"><strong>[00:08:23]</strong> </span>
+<span class="speaker"><strong>发言人2: </strong></span>
+我一直在我脑海中，我现在应该是怎么说霸主级别？要有统治级别的这个领先优势对吧？你比如说跟这马跑马拉松似的，你得比人多半圈，或者多出一个方阵来。但现在感觉让我感觉这个差距变小，就跟其他模型的差距在变小。甚至这场发布会整体给我的感觉来讲的话，还没有多少克四发布会给我带来的这个感觉。好，对，这是我直观的感受。
+</p>
+<p class="transcript-line">
+<span class="time"><strong>[00:08:46]</strong> </span>
+<span class="speaker"><strong>发言人3: </strong></span>
+就是这个发布会对我而言的感觉，就像我们前一阵子聊苹果的发布会一样。你就感觉整个发布会什么都讲了，你就是没觉得那到底有什么亮点呢？好像也没有什么特别亮点。
+</p>
+<p class="transcript-line">
+<span class="time"><strong>[00:08:58]</strong> </span>
+<span class="speaker"><strong>发言人2: </strong></span>
+你到底憋了个什么呢？就是你管GD5，你总得说藏着点什么，让我们当当当当我发一个节目，最后大家爽一把，一哄而散，完全没有。
+</p>
+<p class="transcript-line">
+<span class="time"><strong>[00:09:06]</strong> </span>
+<span class="speaker"><strong>发言人1: </strong></span>
+真的就是我我倒是有有不同的观点，我是觉得可能从GPT的角度，他觉得to c的市场他已经占据了第一名的心智了。所以他其实只要在产品上，把用户的体验统一下就行了。你但其实你会看他另外一面，他对于专家的那种精细的，像我们之前讲gaming，他有这个思考预算，在这类类似的能力他也加进去了，包括一些安全性上面也加进去。但我觉得这个其实不是对公众讲的，我觉得这个事情反面是他已经意识到说AI这个事情他需要去做to b因为to c已经见顶了。我个人的感觉就是我觉得他现在的重点是在to b的打单，甚至是to b跟to g对政府的打单，我觉得这个是他更重要的事情。你看他最近一连串的动作对吧？
+</p>
+<p class="transcript-line">
+<span class="time"><strong>[00:09:56]</strong> </span>
+<span class="speaker"><strong>发言人3: </strong></span>
+对，但是这里面我是觉得说很也很重要的一点就是说他应该是所有的东西应该是还是在现在这个肉搏战中去站稳他的脚跟。对，因为这个事情就是每一样东西都打到家门口了。其实不管是to B2C的，to c的也是有的，只不过是to c的威胁没那么大。但是to b的威胁anthropic已经是打到家门口了。而且我特别想提想到一个最近两天也是最近两天的一个采访，就是采访anthropic的那个CEO达里奥。我之前我是选他提名过，他是最喜欢说实话最喜欢乌鸦嘴的那个CEO.
+</p>
+<p class="transcript-line">
+<span class="time"><strong>[00:10:34]</strong> </span>
+<span class="speaker"><strong>发言人1: </strong></span>
+就怕乌鸦嘴真的。
+</p>
+<p class="transcript-line">
+<span class="time"><strong>[00:10:36]</strong> </span>
+<span class="speaker"><strong>发言人3: </strong></span>
+魅力他又出来，这个乌鸦嘴了一遍，听得人家很难受，他就说以后哥们儿大家这个好的AI最好的AI大家就别想用了。以后这些东西只会在顶级的这些OpenAI，或者他们这些顶级的公司，拿给特大型企业或者是政府去用了。平民就是用一些能力差别非常巨大的那些版本就给你们用。其他的都是在这些企业里面。正常就是真正的AGI，我们那个通用人工智能，我们普通人其实是用不到的。
+</p>
+<p class="transcript-line">
+<span class="time"><strong>[00:11:06]</strong> </span>
+<span class="speaker"><strong>发言人1: </strong></span>
+就我们老百姓用严格版的对吧？
+</p>
+<p class="transcript-line">
+<span class="time"><strong>[00:11:08]</strong> </span>
+<span class="speaker"><strong>发言人3: </strong></span>
+我们用严重严格版就是。是那个不是一点点的严格，是严重阉割版。就是你属于无法想象到人家用的那个版本跟你的版本之间的差距有多大的那种大的差距。
+</p>
+<p class="transcript-line">
+<span class="time"><strong>[00:11:19]</strong> </span>
+<span class="speaker"><strong>发言人3: </strong></span>
+他他讲了这个事情，然后很多人都在骂说这个事情怎么样。他是直接给了一个很具体的评估。他就是说到未来可能一个企业，一个大一点的企业，一个月花10万美金以上的钱去用专门用在这个AI的API上是非常常见的。以后会是非常常见的，因为它就是直接替代这个人力。十万美金其实一个月你的人力其实算一下是多少人，其实是算算得出来的，也不是很多人都。如果是在比较大的企业的话，那那在这里面的话，他讲的这些替代就会让很多的人去，可能是工作直接是失去了。他的意思就是已经说的很。
+</p>
+<p class="transcript-line">
+<span class="time"><strong>[00:12:00]</strong> </span>
+<span class="speaker"><strong>发言人1: </strong></span>
+但是其实为什么他会讲这个，因为etho pic就是这样子，他就是纯靠卖API对吧？我觉得他可能连销售都没有，就纯靠卖IPI1年卖到多少亿美金的来来着。
+</p>
+<p class="transcript-line">
+<span class="time"><strong>[00:12:12]</strong> </span>
+<span class="speaker"><strong>发言人3: </strong></span>
+他现在是3.1个B点，就是AARR3.1个比点。
+</p>
+<p class="transcript-line">
+<span class="time"><strong>[00:12:16]</strong> </span>
+<span class="speaker"><strong>发言人1: </strong></span>
+三十多亿美金已经三十多亿美金。对啊对对，其实他已经这么在做了，而且他的刚我刚才讲到他的企业份市场份额已经30%，自己的其实这个还是蛮可怕的。但我觉得这是有道。因为你你看一下最近的一些模型或者产品的迭代，跟他们背后建的那个算力中心，我们怎么感觉都有点不成正比，对不对？不管是投入的精力，包括出来的质量，我总感觉就是对two c来讲的话，我觉得这个产品也够用了，对不对？或者你再投入多大的这个数据中心，我也不会感觉说对我们有什么质的影响。但是我觉得to b就会差很多了。
+</p>
+<p class="transcript-line">
+<span class="time"><strong>[00:12:55]</strong> </span>
+<span class="speaker"><strong>发言人2: </strong></span>
+没错，我的我觉得刚才老肖说这个话题我很同意。因为现在无论是说从企业端的投入来讲，还是说大家真的要去拿他做什么实际事情来讲，跟我们私人用，也就是说这种所谓的这种生活场景完全是不一样的，完全不同完全就完全不一样，用的能力也是不一一样的，对吧？然后就刚才我说的就是如果你说休闲级用户的话，你用哪个模型，其实现在都够了。甚至说前两天我觉得GPT做了一件比我觉得这个GPT5还有意思的事，就是他推出了一个model叫叫study，就是study learn，就是学学习魔豆，就直接什么意思？就是说你直接任何话题他都是按一个老师的姿态来跟你聊，然后启发你来让你去回答。那我觉得这个东西就已经对于个人来讲就非常牛了，对吧？你相当于就是你因为他背后的知识库已经可以超过很多，就是说句不客气的话，有很多老师了，对吧？都可以达到专家级别。这时候你要跟他讨论问题，他又可以很大耐心。无论怎么样，从这个使用场景来讲，在个人级别的应用场景上已经很很牛了。甚至很多创业公司以前想做的事，一年前现在人家都实现了。
+</p>
+<p class="transcript-line">
+<span class="time"><strong>[00:13:58]</strong> </span>
+<span class="speaker"><strong>发言人1: </strong></span>
+但google也发了一个最近也发了一个这样绘本的功能。就这一张图片丢到那个german line里面，它就可以生成一个多语言的这种还可以朗读的绘本。其实你看to c端都在往产品上面去迭代了。
+</p>
+<p class="transcript-line">
+<span class="time"><strong>[00:14:12]</strong> </span>
+<span class="speaker"><strong>发言人2: </strong></span>
+卷对卷的其实产品应用级别。但这些一级别全都是大模型的能力溢出，全都是大语言模型或者说多模态模型的溢出。但是对企业是不一样，企业的这个应该叫需求，或者说真正的应用场景是千变万化的，而且是非常精细化，不能不容出错的对吧？你说你画张画画不错了无所谓，或者你还能说是审美不同的。但对于工业来讲的话，无论是研究也好，还是说产学研一体，哪一个级别上你都不能不容许出错，都不能走歪。
+</p>
+<p class="transcript-line">
+<span class="time"><strong>[00:14:38]</strong> </span>
+<span class="speaker"><strong>发言人2: </strong></span>
+可是看现在投入的算力都是几百亿上千亿的投入，甚至说那星际之门？号称5000亿美金。我靠就是因为这个事儿，整个把孙正义也好，把这个三奥特曼也好，都搞得很很激动。整个OpenAI的估值也上了好几倍。所以这个级别我觉得是靠个人市场是拖不起来的，就是对to c市场是拖不起来的。
+</p>
+<p class="transcript-line">
+<span class="time"><strong>[00:15:01]</strong> </span>
+<span class="speaker"><strong>发言人2: </strong></span>
+就像我看一个数据说现在从AI的模型的使用人数来讲的话，open I应该还是第一位的。就是他有七个多亿的用户，还活跃用户。对，七个多亿全球才几十亿人，七个多亿我以为我也是其中之一，我还是付费用户。但是从这个整个来讲的使用场景来讲，你像我是一个付费用户，每个月几十美金交着，我其实打开率都不高。也就是说在我个人场景中，真正用AI的这个场景并没有那么丰富，可比较单一。只要我选定一个模型试试，顺手就行了。
+</p>
+<p class="transcript-line">
+<span class="time"><strong>[00:15:31]</strong> </span>
+<span class="speaker"><strong>发言人2: </strong></span>
+但企业是不一样的，企业的需求是真正实实在在，而且是就在一个工序上，可能就几百道工序的。所以他现在来讲的这种GGP5，我觉得可能是在个人这个层面上的一个见顶，后面就是要上。是的。
+</p>
+<p class="transcript-line">
+<span class="time"><strong>[00:15:45]</strong> </span>
+<span class="speaker"><strong>发言人1: </strong></span>
+企业级的原因，你其实你要看它的潜台词。它其实是提供了架构级别的更新，然后提供了更多工具的集成。包括对于企业友好的，不管是安全的或者参数上面，包括他的那个开源的模型，我们一会儿会讲到对不对？其实这是一个很大的一个市场份额的一个占领。
+</p>
+<p class="transcript-line">
+<span class="time"><strong>[00:16:05]</strong> </span>
+<span class="speaker"><strong>发言人1: </strong></span>
+对，但是我我想我想我想说的是什么呢？就是我觉得to c对AI公司可能没那么重要。你看open I是一种你可以理论上理解为超多资源的公司，对不对？但是你反过来看deep sick在做什么，他其实放弃了这个to c的品牌心智了。就随他去吧。
+</p>
+<p class="transcript-line">
+<span class="time"><strong>[00:16:24]</strong> </span>
+<span class="speaker"><strong>发言人2: </strong></span>
+对你们的那反正那么多公司用过的开源就好了，对吧？
+</p>
+<p class="transcript-line">
+<span class="time"><strong>[00:16:27]</strong> </span>
+<span class="speaker"><strong>发言人1: </strong></span>
+我用A我卖API，我跟腾讯跟阿里合作API，我做图图B我做的很好啊，我图C就随便吧。对，你元宝的dpc比我好，那你就用元宝的就可以了。反正对，是啊，对他们来讲，可能我觉得to c不是那么重要，价值也不一定那么高。反而可能to b确实是一个更能够有回报率，看得到回报的一个场景。所以我觉得etho pic这么在做了，然后deep seek也这么在做了，我觉得OpenAI没理由看不到。
+</p>
+<p class="transcript-line">
+<span class="time"><strong>[00:17:00]</strong> </span>
+<span class="speaker"><strong>发言人1: </strong></span>
+特别是我觉得最近他发的这个开源模型，我们其实很值得来聊聊。就是我觉得他并不是他为什么要开源，我觉得大家如果单想他为什么要开源，其实有很多答案对不对？他要跟千问、跟deep stick、跟lama等等竞争。
+</p>
+<p class="transcript-line">
+<span class="time"><strong>[00:17:17]</strong> </span>
+<span class="speaker"><strong>发言人1: </strong></span>
+但其实我觉得我们这几天在聊的时候，我们发现了一个线索。他其实发布这个开源模型之前签了几个白宫的大单，一个军方的两个亿的订单，还有跟anthropic一起拿下了，就是美国政府采购的这个进供应商名单，对不对？对，那你这么一想你普通人你把脑子转一转，你就明白了吗？为什么要开源？因为这个只有开源才能进得了政府，只有开源的权重，你才能在政府里面去公开的使用你的模型。老师我这么讲对吧？
+</p>
+<p class="transcript-line">
+<span class="time"><strong>[00:17:57]</strong> </span>
+<span class="speaker"><strong>发言人3: </strong></span>
+甚至是其实可能对政府可能不仅仅开源的权重。因为其实整个大模型最重要的是它的训练数据，以及它背后的整个调优的过程，这些都是很很重要的。就是对于政府跟军方的话一定是非常重要的。因为这个部分相当于才能真正透明。你这个大模型到底会是什么行为，它的可控性才会上来。
+</p>
+<p class="transcript-line">
+<span class="time"><strong>[00:18:22]</strong> </span>
+<span class="speaker"><strong>发言人3: </strong></span>
+如果只是开放权重，因为给我们现在外面的普通人能看到的是开放权重了，就open wave这个部分的那个那个东西。那这个的话，实际上是一个中规中矩的做法。就对于我们的这个企业和个人来讲，它是个中规中矩的做法。所以也会有很我很多人可能是觉得只是普通的这个，开始进入了开源，把close，把OpenAI这个名字给终于给证明了。但是其实我会觉得可能是顺便做的，就是本身政府这边有可能是要求了更高级别的开源，都已经开到那程度了，他他正好顺手推推舟一下，把自己很长时间没有做的这个open source这个部分顺便给它做掉。
+</p>
+<p class="transcript-line">
+<span class="time"><strong>[00:19:06]</strong> </span>
+<span class="speaker"><strong>发言人3: </strong></span>
+从发布的时间上来讲，实际上是非常吻合的。就刚好在这个合作的一些订单之前一点点的时间吧能能然后这些东西就公布出来了，而且也为GPT5这个东西也能衔接的上。其实这里面这个开源的这个框架本身有大量的东西都跟GP55的现在的设计是能够是有衔接性的，就是属于对，它是能环环相扣的，这个我们是懂的。这个其实就像我们经常说的，云服务厂商做的很多的工具和服务之间都是有关联的，是一样的。它这个开源的这个底座它里面不管用到的工具调用，然后那个里面的还有就是基础的这些训练的一些方式，然后你后面再要微调要做什么？他有很多东西都是跟GPT5现在的这个技术路线和那个思路都是一致的那你用着用。最后你可能很正常的某些情场景之下，你就要用到GPT5了，这个就会这样子的。是的，对，是的。
+</p>
+<p class="transcript-line">
+<span class="time"><strong>[00:20:06]</strong> </span>
+<span class="speaker"><strong>发言人1: </strong></span>
+我觉得它是可以切换的。因为我看他这个开源的模型里面也是支持这样的架构。也就是说我有可能我政府部门，比如说白宫，我用你这个GPT OSS对吧？然后我其实在某些需要高智能场景，我还是可以切到GPT5的API去调用的，那这个就很丝滑了，所以这个时间点推出了GP5，那一定要安全合规对吧？一定要对企业友好。
+</p>
+<p class="transcript-line">
+<span class="time"><strong>[00:20:33]</strong> </span>
+<span class="speaker"><strong>发言人3: </strong></span>
+尤其这个过程中间，连那些云厂商也都摆平了。微软，然后亚马逊也要第一时间。
+</p>
+<p class="transcript-line">
+<span class="time"><strong>[00:20:39]</strong> </span>
+<span class="speaker"><strong>发言人1: </strong></span>
+接入这个GPOSS对吧？
+</p>
+<p class="transcript-line">
+<span class="time"><strong>[00:20:41]</strong> </span>
+<span class="speaker"><strong>发言人3: </strong></span>
+应该包括google的都有，我不太确定google应该是都有，我记得好像大厂商都都上了，那这里面的这个一定是后面的订单超级大。是因为这些云厂商都跟鲨鱼似的，那在哪里流血，哪里冲上去，马上冲上去撕咬了。
+</p>
+<p class="transcript-line">
+<span class="time"><strong>[00:20:58]</strong> </span>
+<span class="speaker"><strong>发言人1: </strong></span>
+对我跟你讲，从中国的经验奥特曼肯定知道。第一政府打单的这个AI的订单，在AI1.0的时代那是超赚钱的对吧？这个是绝对赚钱？所以第二个就是deep seek的私有化部署，那绝对是超赚钱的。
+</p>
+<p class="transcript-line">
+<span class="time"><strong>[00:21:14]</strong> </span>
+<span class="speaker"><strong>发言人2: </strong></span>
+所以这个什么开始，双方开始搞政府，大家应该去练练酒量，好好看怎么喝，喝喝酒，签点大单回来看。
+</p>
+<p class="transcript-line">
+<span class="time"><strong>[00:21:22]</strong> </span>
+<span class="speaker"><strong>发言人1: </strong></span>
+就来中国培训一下，对不对？对，就是对，我当时第一个反应，我就想问老邱，我说我靠这个东西如果是开源的那中国可不可以用？
+</p>
+<p class="transcript-line">
+<span class="time"><strong>[00:21:32]</strong> </span>
+<span class="speaker"><strong>发言人2: </strong></span>
+包括他说那个可以独立部署的那个对吧？On promise, 应该是那个东西。
+</p>
+<p class="transcript-line">
+<span class="time"><strong>[00:21:37]</strong> </span>
+<span class="speaker"><strong>发言人1: </strong></span>
+对，就开源的GPT OSS。我在想说，我第一反应中国能不能用。
+</p>
+<p class="transcript-line">
+<span class="time"><strong>[00:21:42]</strong> </span>
+<span class="speaker"><strong>发言人2: </strong></span>
+不是就当时他说了，后来我还挺兴奋，我问老邱咱可以不可以自己搭一个，然后自己开始用完老修搭一个也要十几万是吧？然后就没有说那么简单的。
+</p>
+<p class="transcript-line">
+<span class="time"><strong>[00:21:51]</strong> </span>
+<span class="speaker"><strong>发言人3: </strong></span>
+就是单卡的那个120B的那个对那个GPU如果你买一块硬件也得十来万，便宜的还有更贵的。
+</p>
+<p class="transcript-line">
+<span class="time"><strong>[00:21:59]</strong> </span>
+<span class="speaker"><strong>发言人2: </strong></span>
+所以看看后面。
+</p>
+<p class="transcript-line">
+<span class="time"><strong>[00:22:00]</strong> </span>
+<span class="speaker"><strong>发言人1: </strong></span>
+研究了一下，应该还是有限制的。就是像微软，人家也明确你不能用deep sick，对不对？这个是直接行政命令下来了。对，那其实国内这边还是会有一个审核。
+</p>
+<p class="transcript-line">
+<span class="time"><strong>[00:22:11]</strong> </span>
+<span class="speaker"><strong>发言人3: </strong></span>
+看得出来他就是有小99，他用的是那个奇的协议，阿帕奇是开源中比较开放的协议，还没有说真的非常的开放。如果非常开放，直接用MIT就好了。国内是肯定用不了，因为国内是另外一条问题。国内是你要备案，然后要有各种算法审核，数据源审核，然后一堆的审核，至少有一条要符合社会主义核心价值观。他肯定过不了。对。
+</p>
+<p class="transcript-line">
+<span class="time"><strong>[00:22:34]</strong> </span>
+<span class="speaker"><strong>发言人2: </strong></span>
+那些数据这里面过不了。
+</p>
+<p class="transcript-line">
+<span class="time"><strong>[00:22:36]</strong> </span>
+<span class="speaker"><strong>发言人3: </strong></span>
+他数据也不可能拿给你看。就是我们说的他的开源没有开放你的数据训练的那些数据。但是我觉得他跟美国政府做肯定估计肯定是有开的，如果不开。
+</p>
+<p class="transcript-line">
+<span class="time"><strong>[00:22:46]</strong> </span>
+<span class="speaker"><strong>发言人1: </strong></span>
+政府估计不跟他搞。你自己玩可以了，就是你不商用。
+</p>
+<p class="transcript-line">
+<span class="time"><strong>[00:22:50]</strong> </span>
+<span class="speaker"><strong>发言人3: </strong></span>
+你自己做一些学习做一些，把它中间做成中间的，不是核心的产产生产生产模型就行了，就中间有一些过程中的一些生产资料对吧，各种各样的东西让他去生产加工一下，然后你再弄你不是说很重要的那些都是用它，应该还好。但是这块儿其实也有很实际的问题，就是它的开源表现，你真的去跟我们现在最顶级的这些，比如说上周应该赶着这个时间点开放的字符的那个G4.5去去我们讲过的米。
+</p>
+<p class="transcript-line">
+<span class="time"><strong>[00:23:26]</strong> </span>
+<span class="speaker"><strong>发言人1: </strong></span>
+K2对吧？
+</p>
+<p class="transcript-line">
+<span class="time"><strong>[00:23:27]</strong> </span>
+<span class="speaker"><strong>发言人3: </strong></span>
+Kimi k2其实你真的去跟他们实际跑起来，可能不一定能比他们强多少。就是现在不要说我们中国的，就是海外都有很多工程师都在用我们的这些这些开源的模型。他们都是觉得挺挺赞的，实际用起来是很好。
+</p>
+<p class="transcript-line">
+<span class="time"><strong>[00:23:45]</strong> </span>
+<span class="speaker"><strong>发言人1: </strong></span>
+的这是这是一个市场空白，就是没有一个美国本土的开源模型，或者有之前有拉马太拉这个问题。
+</p>
+<p class="transcript-line">
+<span class="time"><strong>[00:23:52]</strong> </span>
+<span class="speaker"><strong>发言人2: </strong></span>
+不是留给了meta吗？对。
+</p>
+<p class="transcript-line">
+<span class="time"><strong>[00:23:54]</strong> </span>
+<span class="speaker"><strong>发言人3: </strong></span>
+拉胯了。对。
+</p>
+<p class="transcript-line">
+<span class="time"><strong>[00:23:56]</strong> </span>
+<span class="speaker"><strong>发言人1: </strong></span>
+而且他这就是市场空白。
+</p>
+<p class="transcript-line">
+<span class="time"><strong>[00:23:58]</strong> </span>
+<span class="speaker"><strong>发言人3: </strong></span>
+就是我觉得而且这块真要空白了，因为拉玛最近卖卡那边已经发了那个公告了。小扎出来说了，这玩意儿以后最先进的我们不开源了。
+</p>
+<p class="transcript-line">
+<span class="time"><strong>[00:24:10]</strong> </span>
+<span class="speaker"><strong>发言人1: </strong></span>
+所以贤哥你说奥特曼这个人就做事情，所有事情全部都是至少是三雕的对，太牛逼了。第一个我开源，我要打单打政府的。第二个我要把这个战ross AI的招牌一脚踢开，对吧？第三个我要填补美国没有这个。
+</p>
+<p class="transcript-line">
+<span class="time"><strong>[00:24:27]</strong> </span>
+<span class="speaker"><strong>发言人2: </strong></span>
+好的开源的空白。
+</p>
+<p class="transcript-line">
+<span class="time"><strong>[00:24:29]</strong> </span>
+<span class="speaker"><strong>发言人1: </strong></span>
+开源模型的市场空白，至少一箭三雕。然后再不要再讲现在还有一点，就是说我可能我还要无缝接入GPT5的API，我还要再卖更多的API。我要跟说pic抢这个市场份额。对，毕竟差了十几个点的市场份额，我要抢上去。所以我觉得你看你你说你之前评价奥特曼是个什么妙人，对不对？对，真的是有点屌，对不对？
+</p>
+<p class="transcript-line">
+<span class="time"><strong>[00:24:53]</strong> </span>
+<span class="speaker"><strong>发言人2: </strong></span>
+而且你要说到这儿，我们就可以说，GPT5现在发布，我觉得绝对不是情到深处就必须得发了也不是说说现在是被动应战，真的是步步为营。就是这几件事你串在一起，你看什么？无论是这个开源还是说跟政府签大单，就是这个军工的大单，还是说这个星际之门，然后那个能融资，还是说现在我记得前一段时间又说到什么，为了员工现在可以卖股票对吧？然后做二次融资的这个阶段，可以把估值做到5000亿。这些事情放在一块儿，都构成了GPT5能造成的一个效果社会效果。所以奥特曼我是很佩服他那种棋下棋的这种奇迹观的，能够步步为营。
+</p>
+<p class="transcript-line">
+<span class="time"><strong>[00:25:33]</strong> </span>
+<span class="speaker"><strong>发言人1: </strong></span>
+把这个事儿做到这。对对对，你说对，还要跟这个估值这个事情连起来。我觉得估值这个事情，等一下陈哥你跟我们讲一下，我觉得这个。
+</p>
+<p class="transcript-line">
+<span class="time"><strong>[00:25:42]</strong> </span>
+<span class="speaker"><strong>发言人3: </strong></span>
+要拆解一下。
+</p>
+<p class="transcript-line">
+<span class="time"><strong>[00:25:42]</strong> </span>
+<span class="speaker"><strong>发言人1: </strong></span>
+你看他上一次我们聊，我们还说可能他是3000亿左右的估值，对不对？然后第二名就是growth是四月份。
+</p>
+<p class="transcript-line">
+<span class="time"><strong>[00:25:52]</strong> </span>
+<span class="speaker"><strong>发言人2: </strong></span>
+对。
+</p>
+<p class="transcript-line">
+<span class="time"><strong>[00:25:52]</strong> </span>
+<span class="speaker"><strong>发言人1: </strong></span>
+好像是。对对对，你看现在马上量已经是涨到了5000亿，然后这个估值它是用一种新一轮员工股份出售的这种形式来做的。贤哥你从专业角度给我们讲一下，这个是怎么样一个新的搞钱局，我觉得最后这一个拼图拼上来，我觉得这个搞钱的闭环应该就完成了。
+</p>
+<p class="transcript-line">
+<span class="time"><strong>[00:26:13]</strong> </span>
+<span class="speaker"><strong>发言人2: </strong></span>
+我记得咱们讲那个年终盘点那一期的时候，专门聊过这个事儿。我当时就说这个萨姆奥特曼是非常会搞钱的一个人，而且特别会讲故事，这一点上我也是慢慢体会到的。我觉得现在来讲的话，它是所有在这个AI领域里面最会叙事的一个人。就是说他说一件事儿最后大家信的，然后信不信先真正要掏钱才行。那不是有一句话讲，就是这世界上最难的事儿就是把别人钱放你的口袋里和把你的思想放到别人脑袋里。所以整个叙事能力是把这两件事统一起来了。
+</p>
+<p class="transcript-line">
+<span class="time"><strong>[00:26:41]</strong> </span>
+<span class="speaker"><strong>发言人2: </strong></span>
+然后他前一段时间，最早我记得去年，去年的时候他的估值才是几百亿，都没上千亿。那会儿然后也是有这个员工可以出售股二次出售股份。这个事情也其实也就是说让员工们能获利，这样能招揽更多的人，对吧？让公司的估值变大，才能够说让让别人更有盼头，这大家都懂对吧？那会儿赵匡胤也是这样，黄袍加身之后，大家才能当当大将军，而不只是当一个什么校尉。
+</p>
+<p class="transcript-line">
+<span class="time"><strong>[00:27:06]</strong> </span>
+<span class="speaker"><strong>发言人1: </strong></span>
+就是让你就是老员工的股份更值钱。
+</p>
+<p class="transcript-line">
+<span class="time"><strong>[00:27:09]</strong> </span>
+<span class="speaker"><strong>发言人2: </strong></span>
+就是个首先你不卖，你也会觉得我自己更值钱了，因为有个估值在那儿了。然后估值怎么来体现的，尤其他是一个非上市公司，那得是有人真金白银来买你的股份，对吧？他买的可能只是你的10%，但是他帮你把这个价格定出来了。
+</p>
+<p class="transcript-line">
+<span class="time"><strong>[00:27:22]</strong> </span>
+<span class="speaker"><strong>发言人2: </strong></span>
+但是其实今年1月份的时候，把这个事儿做局做到什么？把孙正义，把萨奥特曼，把那甲骨文的老大叫什么艾弗森，是艾弗森，然后还有特朗普这些人串在一块儿，然后搞了个大的，然后宣布要求5000亿，搞一个完全世间现在无有的算力中心。而且这个东西的投无论是投入还是就业，还是未来为GPT提供的这个无限算力也好，还是说能够把全球的资本市场钱圈的圈过来，一大半放到美国也好。就这件事你怎么看都是多赢的局面，但肯定有人输，或者说有人冒风险，那就是资本层面。但不管怎么样，就因为这件事儿让让整个I的估值到了几千亿，对吧？因为这个最最有利的就是OpenAI，直接就把胜利拿到手里面，然后同时又成为这个项目的投资方，然后又把自己和政府拉在了一起，拉在一条战线上。还有像甲骨文、微软这些事情站在后面，大佬站在后面。
+</p>
+<p class="transcript-line">
+<span class="time"><strong>[00:28:15]</strong> </span>
+<span class="speaker"><strong>发言人2: </strong></span>
+然后紧接着就是四月份的时候，说到3000亿的时候，那个时候又签了正式的落地文件，然后又要具体的有些实施的细则，这些事儿就是造成了他这个估值上来了。姐姐又说自己要发GPT5了，整个事儿踹下来，你看一步一步步为赢。然后我们就要聊到他的这个员工纷纷的被挖走，这个时候怎么办？你怎么防守？你要防守的话，要不然就涨工资。要不然就画大饼，人家就选择了什么？
+</p>
+<p class="transcript-line">
+<span class="time"><strong>[00:28:40]</strong> </span>
+<span class="speaker"><strong>发言人2: </strong></span>
+人家选择了就是我把你手里的股票变值钱多好。我不动我的现金，对我把我的估值，我只要有人愿意接盘，有咱不说傻子，就是说真有钱人对吧？愿意说用5000亿的估值来买我现在的股份，哪怕你买5%，你也把这个估值帮我做到了。那员工手里会觉得，我要是能卖老股，我就能马上套，那这时候我要再走的话，我就太亏了。也就是说我离开的成本就变太亏太高了。别人要再挖我的人，那就成本就变得无限高或者说更高了，那这时候我就达到了防守目的。
+</p>
+<p class="transcript-line">
+<span class="time"><strong>[00:29:12]</strong> </span>
+<span class="speaker"><strong>发言人1: </strong></span>
+但同样还不用上市。
+</p>
+<p class="transcript-line">
+<span class="time"><strong>[00:29:13]</strong> </span>
+<span class="speaker"><strong>发言人2: </strong></span>
+对吧？对还不用上市，然后我公司的估值又上来了。这样的话在外人看来的话，我还是保持着整个全球AI领先的或者第一的公司的这个位置。我觉得真的是0.33元是非常会虚实的人，他既把自己的想法装到别人脑子里了也把钱放在自己兜里了。
+</p>
+<p class="transcript-line">
+<span class="time"><strong>[00:29:31]</strong> </span>
+<span class="speaker"><strong>发言人1: </strong></span>
+但是我觉得他这种搞钱能力，他是暗搞，马斯克是明搞，对不对？我觉得这个还是有点一样。
+</p>
+<p class="transcript-line">
+<span class="time"><strong>[00:29:38]</strong> </span>
+<span class="speaker"><strong>发言人2: </strong></span>
+其实不是我觉得是这样，就是我们看着风光的人站在台前，这些是他不能不表演，你像马斯克他不能停止自己表演，他可能停止表演之后，一下子变成什么就万夫所指，被踏上千万只脚，永世不得翻身，有可能就再也那什么了，再也没机会了，对吧？而且尤其他把特朗普还得罪了。但是奥特曼最多就是让人说我不是OpenAI，我是close AAI。但不管怎么样，我估计在这儿，然后我后面还有大事要做，我还要上我还要那什么呢？我还要造5000亿的这个星际之门。无论什么事情都会让大家更更觉得就是我能够通过你赚钱，或者说希望背靠你的能力继续赚钱。我觉得他比这个马斯克所占的角色的地位，或者说叫位置更安全。而在对他来讲的话，现在目前来讲可能会有有些人不喜欢他，但并不会很讨厌他。但马斯克可是真的有一帮人在讨厌他。
+</p>
+<p class="transcript-line">
+<span class="time"><strong>[00:30:29]</strong> </span>
+<span class="speaker"><strong>发言人1: </strong></span>
+对我觉得这个还是很妙一个局。就是先用技术然后去实现的收入对吧？今年大概预计今年也会收入到200亿美元，整个收入提高估值就上去了。估值上去我可以从3000亿抬到5000亿。然后抬到5000亿，我又说我可以让员工把原本的股份卖给现有投资人，按5000亿的估值又把人留住了。所以整个就闭环了，对吧？人留住了，然后算力中心再建起来，再去拿政府订单，再打单，估值又上去的。
+</p>
+<p class="transcript-line">
+<span class="time"><strong>[00:31:00]</strong> </span>
+<span class="speaker"><strong>发言人2: </strong></span>
+而且人流循环的循环，而且人流住这个过程，我还没有花自己手里的现金。
+</p>
+<p class="transcript-line">
+<span class="time"><strong>[00:31:05]</strong> </span>
+<span class="speaker"><strong>发言人3: </strong></span>
+这你花别人的钱，对，太强了。
+</p>
+<p class="transcript-line">
+<span class="time"><strong>[00:31:08]</strong> </span>
+<span class="speaker"><strong>发言人2: </strong></span>
+对方给估值就是我不是因为为了被动应战。比如说如果我是没本事的老板，为了让人们不花我不不花我的人我涨工资，然后我工资现金流变低了。别人会怀疑我能力，那可能会估值变低。这有人这样的，我卖老股又能够把工资变高，又能把人留住，而且后面的人还可能更有信心来也跟我长期干。聪明，当然了，这这也这也造成了他必须发这GP5。这也是当回到咱们第一个问题，就是为什么他要发这些？我觉得他并不是情之所至，就是情到深处，我现在不得不发，必须要宣告天下。我又做出一个好东西来让大家都看看，不是真的是到这个时间点，你必须得发个东西了。
+</p>
+<p class="transcript-line">
+<span class="time"><strong>[00:31:46]</strong> </span>
+<span class="speaker"><strong>发言人1: </strong></span>
+对，但是我们话说回来，虽然这个是一个我觉得是一个很很精妙的一个搞钱局。虽然说大家可能对GP5的预期没管理好，可能之前觉得什么炸裂AGI会来了，结果对AGI不行，搞钱第一名对不对？
+</p>
+<p class="transcript-line">
+<span class="time"><strong>[00:32:05]</strong> </span>
+<span class="speaker"><strong>发言人3: </strong></span>
+主要是前面吹太厉害了。
+</p>
+<p class="transcript-line">
+<span class="time"><strong>[00:32:07]</strong> </span>
+<span class="speaker"><strong>发言人1: </strong></span>
+主要是前面吹太厉害了，经常太猛了吹太猛。
+</p>
+<p class="transcript-line">
+<span class="time"><strong>[00:32:10]</strong> </span>
+<span class="speaker"><strong>发言人3: </strong></span>
+哪怕是上周。对，上周奥特曼都还在吹。他说他在用GPT5的时候，觉得自己都吓到慌不行什么的恐慌。你现在用怎么也没有这个感觉。
+</p>
+<p class="transcript-line">
+<span class="time"><strong>[00:32:20]</strong> </span>
+<span class="speaker"><strong>发言人1: </strong></span>
+但是我觉得这个预防针可能大家要先打好了。我觉得to c的AI很有可能真的要见顶了，真的要见顶了。我觉得目前的不管是模型、工具什么东西的，你就继续优化就好了，就按这个方向做就行了。
+</p>
+<p class="transcript-line">
+<span class="time"><strong>[00:32:35]</strong> </span>
+<span class="speaker"><strong>发言人3: </strong></span>
+其实从这一次发布，我觉得他的动作是很诚实的。就是说他最好的GPT5模型，其实在我们编码的柯手上马上就能用。对，真的是最真的是首发的。
+</p>
+<p class="transcript-line">
+<span class="time"><strong>[00:32:45]</strong> </span>
+<span class="speaker"><strong>发言人2: </strong></span>
+我发把联创那个谁CEO都请去了。
+</p>
+<p class="transcript-line">
+<span class="time"><strong>[00:32:48]</strong> </span>
+<span class="speaker"><strong>发言人3: </strong></span>
+科对他把科了，对，把科所的那个对对对，把他请去现场，给他做了一些外部背书。
+</p>
+<p class="transcript-line">
+<span class="time"><strong>[00:32:54]</strong> </span>
+<span class="speaker"><strong>发言人2: </strong></span>
+还是做了个背书。对。
+</p>
+<p class="transcript-line">
+<span class="time"><strong>[00:32:55]</strong> </span>
+<span class="speaker"><strong>发言人3: </strong></span>
+很棒，其实是很棒的，而且马但其实咳嗽反应也很快的，就是东西他们联动的很好，其实发布会完就能用了。然后相反之下，比如说杰哥你还在等那个web端的，然后有些小伙伴还在问我IOS怎么还没有更新，什么时候搞，他都会慢一点，但是编码的已经马上。
+</p>
+<p class="transcript-line">
+<span class="time"><strong>[00:33:13]</strong> </span>
+<span class="speaker"><strong>发言人1: </strong></span>
+有to b优先的，对吧？对。
+</p>
+<p class="transcript-line">
+<span class="time"><strong>[00:33:14]</strong> </span>
+<span class="speaker"><strong>发言人3: </strong></span>
+B2B的优先了。对，而且恪守那边给的额度也很好磕手那边是直接给了一周免费的一些credit，你直接随便用。我突然这个歌手就被我因为我们之前还讲过咳嗽，钱最近有点问题，就收费的一些模式被人诟病。但现在你免费一搞，大家来双赢。
+</p>
+<p class="transcript-line">
+<span class="time"><strong>[00:33:34]</strong> </span>
+<span class="speaker"><strong>发言人2: </strong></span>
+立马真香了。对。
+</p>
+<p class="transcript-line">
+<span class="time"><strong>[00:33:35]</strong> </span>
+<span class="speaker"><strong>发言人3: </strong></span>
+马上激活了大量的咳嗽的原来的摇摆用户，就是这样子的。对。
+</p>
+<p class="transcript-line">
+<span class="time"><strong>[00:33:41]</strong> </span>
+<span class="speaker"><strong>发言人2: </strong></span>
+我还有个问题想问小苏，就是说这回这个ChatGPT你看他特别大方，直接就开始免费了对吧？在free版里的也可以直接用，只是额度少一点。然后在plus版里面就是额度高一点，而且它分了什么mini各种的，在API上好像也有区分，就是他这个定价。对，他这个定价我认为是很慷慨的。小宋你觉得他这个定价到底是为了防守还是为了进攻？
+</p>
+<p class="transcript-line">
+<span class="time"><strong>[00:34:04]</strong> </span>
+<span class="speaker"><strong>发言人1: </strong></span>
+或者我觉得他的定价，我觉得他这个定价的话，在to b肯定是要进攻的。因为他其实这一次把代码的能力其实拿到了一个很很前置的位置来讲。其实他也知道说其实to b缺的就是代码能力。其实to b的本质解决问题都是靠agent靠代码去解决的，那这一块是他跟anthropic最大的一个差距的。所以他用了一个非常暴利的定价去做他的API的定价。刚才老师讲了2 pic 15分之1，对吧？但是to c的话，我觉得它就是等于一个就像iphone 15的用户可以免费升级到IOS什么23之类的，就是这样一个策略。
+</p>
+<p class="transcript-line">
+<span class="time"><strong>[00:34:49]</strong> </span>
+<span class="speaker"><strong>发言人3: </strong></span>
+或者像苹果的感觉。对自己的这个。
+</p>
+<p class="transcript-line">
+<span class="time"><strong>[00:34:52]</strong> </span>
+<span class="speaker"><strong>发言人1: </strong></span>
+地方别提价格不变，伤心。对，价格不变。但是我给你新的模型给你用，然后我你给了这个，我觉得原本那个定价本来就是一个十倍，定价逻辑就是蛮合理的。就是200块钱是最高端的，然后刺激经理去买20块的，拿了20块美金。你看那个200块你觉得很香吗？对我觉得这个一点毛病都没有。对，所以我觉得他其实焦虑的，我就觉得还是在to b端，to b端让他非常的焦虑。
+</p>
+<p class="transcript-line">
+<span class="time"><strong>[00:35:21]</strong> </span>
+<span class="speaker"><strong>发言人1: </strong></span>
+不管还是这次的收购失败，还是跟微软的矛盾，我觉得对OpenAI的to b影响都非常的大。因为你知道微软最强的其实是这些to b跟to g的关系，对吧？包括微软的这个云服务，这些都是to b能力非常强的这种基因。我觉得OpenAI是没有的。OpenAI可能是一个产品加模型的公司，研究员导向的这样为主。我觉得他要去自己去建这些to b的网络，跟构建to b的能力非常的吃力。这个不是说有资源或者找几个人这个能解决，这个是实时间的问题，我觉得这是时间的问题。那anthropic做的最好的就是他可能用很小的销售成本，就靠卖API就把to b这个市场给做了。我觉得他踩的很对的就是all in的这个代码这个点。
+</p>
+<p class="transcript-line">
+<span class="time"><strong>[00:36:12]</strong> </span>
+<span class="speaker"><strong>发言人3: </strong></span>
+对吧？就是我们说这半年他特别集中的就是我专门提高这个代码的能力。其他能力他都是有些甚至有点倒退，大家也不影响他用。对。
+</p>
+<p class="transcript-line">
+<span class="time"><strong>[00:36:23]</strong> </span>
+<span class="speaker"><strong>发言人1: </strong></span>
+其实这个时间点你就看得明白。很多人在讲其实本质上他们说transformer架构它是有天生缺陷的。对，那如果你在这个缺陷下面，你要带着脚铐跳舞。其实现在看的最清楚的就是agent就是coding，就是这个领域。那agent的背后就是coding，因为你要用代码去解决这些问题，对吧？你要解决这个问题的时候，你用代码去解决它。那这个可能是transformer架构下表现的最稳定，发挥最好，上限最高的一个场景了。其他的如果你还是要带着transformer这个脚铐去跳舞的话，那你就只会像OpenAI一样，很吃力。多线作战，然后又要架构又要什么，刚才讲什么路由又要怎么样，反正就是很很吃力对吧？
+</p>
+<p class="transcript-line">
+<span class="time"><strong>[00:37:10]</strong> </span>
+<span class="speaker"><strong>发言人3: </strong></span>
+对，就是这一块其实已经有，应该可以把这个地方倒是可以当做是一个信号，就GPT5没有真正的出现。大幅跨越的这个进步，其实恰恰就是说明了这一块的skating law没有像预期的那么好。
+</p>
+<p class="transcript-line">
+<span class="time"><strong>[00:37:25]</strong> </span>
+<span class="speaker"><strong>发言人2: </strong></span>
+马上再涨。
+</p>
+<p class="transcript-line">
+<span class="time"><strong>[00:37:26]</strong> </span>
+<span class="speaker"><strong>发言人3: </strong></span>
+对，包括groot那边一样，就是马斯克的GLK那边，他其实我有看到一些说法是他已经在尝试十倍再加十倍。当时的那个训练量上去了，上去了以后看好像增加的是微乎比较微不足道的一些增长，那个那个能力的增强已经不强。所以说这些东西至少在现在的阶段，可能一下子大家再大力就是大力上去的奇迹了，没有出奇迹了。对，所以这个时候这些必须要做的这些工程化，然后还有就是这种成本控制，这些事情必须得做了。那你做了然后至少说打企业单打政府单，包括拿C端对吧？就是你去让更多的人去用上你最新的模型，这些还是很务实的在做。至于以后我其实我个人还是会非常信这个，真的有可能好的AGI是不会直接给我们普通人用了。
+</p>
+<p class="transcript-line">
+<span class="time"><strong>[00:38:21]</strong> </span>
+<span class="speaker"><strong>发言人1: </strong></span>
+对对对，但是我跟你讲，你侧面看这个问题，你要看最聪明的中国公司在干什么。你看一年前政府去打政府单，对吧？卖那个大模型卖得多累。现在你看不是跟着kimi之后也发了这个编码，这些模型口碑也都特别好。然后阿里千问也是一直发力在编码上面，就千问kimi月之暗面，然后质谱全部在打。就是编码这个层面，大家就大概知道说哪里能赚钱的。对。
+</p>
+<p class="transcript-line">
+<span class="time"><strong>[00:38:52]</strong> </span>
+<span class="speaker"><strong>发言人3: </strong></span>
+因为编码这个事情其实有个数据挺吓人的。我今天看做做这个研报的时候，我就看到了一下，就是可能大家想不到这SO的cloud code，它本身也收一些钱，他大概是20美金和200美金，其实很多人就直接买他那个200美金的那个max的套餐，然后就这么个东西，其实才发布了，应该是三月份发布的，到现在应该才五个多月。他的收入大家可能想不到他做了多少了，已经做到了4亿美金了，现在已经做了4亿美金了，0.4个B点就4亿美金这么多。
+</p>
+<p class="transcript-line">
+<span class="time"><strong>[00:39:28]</strong> </span>
+<span class="speaker"><strong>发言人3: </strong></span>
+Cloud code, 单单这一个东西才做了四个多月的一个产品，其实是非常惊人。它它是一个程序员为主的一个产品，那这个东西的话大家可以想象一下，就是说应该是企业能够看到说你采购这个东西到了企业里面来，然后给你的程序员装备上。大家确实最后提升了效率，然后交付的更快更好的质量，包括甚至说安全方面，因为SO pic有很强的一个安全的一个能力，像在最近的11个1周多，他还增强了安全审查，还可以干掉。据说有好多安全公司可能就此就消失了。就是因为他可以直接把代码的安全提升一个很高的级别，所以这些东西都是在有很高的确定性的。就是说你的编码的这块能力强了以后，其实是真的可以帮企业去解决很多问题的。通过这个工具，你可以去解决企业的各种各样的那问题。
+</p>
+<p class="transcript-line">
+<span class="time"><strong>[00:40:27]</strong> </span>
+<span class="speaker"><strong>发言人3: </strong></span>
+因为你用编码是我们之前讲过的，它是最关键的一个核心钥匙，它可以去组合很多东西出来。对它可以调用工具，然后可以去理解你的环境，也就是我们我们常说的最重要的那个定制化。他理解你的企业里面的自己的环境，然后再去调用合适的这个工具，然后通过自己不断的去尝试去解决你的问题。那这个里面加就是当然他可能现在还没有到了自主性的这个还没有突破。但是你有人带着他跑，这个效率是比以前是高很多。这个我们自己在我们自己的一些产品上实践也是这样子的。所以我是觉得这个数据其实挺惊人的，才四个多月有干到4亿美金的一个ARR的收入。其实我是觉得很恨惊人的。
+</p>
+<p class="transcript-line">
+<span class="time"><strong>[00:41:13]</strong> </span>
+<span class="speaker"><strong>发言人1: </strong></span>
+所以GPT5聊着聊着，然后and logic又香了。
+</p>
+<p class="transcript-line">
+<span class="time"><strong>[00:41:19]</strong> </span>
+<span class="speaker"><strong>发言人3: </strong></span>
+真的好多人就说其实这个东西搞出来以后，group跟SO pic其实反而被得到了更大的曝光。
+</p>
+<p class="transcript-line">
+<span class="time"><strong>[00:41:27]</strong> </span>
+<span class="speaker"><strong>发言人2: </strong></span>
+我说回到刚才老师提的那个大力不再出奇迹这个事儿。我觉得这个事儿是不是其实已经可以说利好中国的一些AI的模型厂商了呢？因为大力出奇迹这事儿本来我们就受限制。无论从算力方面也好，还是说从这个起步的时间也好，对吧？那如果说现在并不是说我再增加显卡，再增加我的这个规模，就能够提升模型多少倍。我能力直接进行超越级别的，或者把统治级别的这种提升，那后面我们就慢慢精雕细刻就完了，对不对？可以慢慢增长。对对。
+</p>
+<p class="transcript-line">
+<span class="time"><strong>[00:42:00]</strong> </span>
+<span class="speaker"><strong>发言人1: </strong></span>
+你看现在老师我这样讲对不对？你看我这样理解就是现在已经分化了，一个就是预训练，一个后训练。那我觉得可能编码是不是更偏向于在后训练这一块。预训练这一块其实从中国现在的模型来看，基本上都开源的了，对吧？你就知道了，都开了。对。
+</p>
+<p class="transcript-line">
+<span class="time"><strong>[00:42:19]</strong> </span>
+<span class="speaker"><strong>发言人2: </strong></span>
+就这块大家都都觉得无所谓了。对，反正这块不是我们核心价值了。
+</p>
+<p class="transcript-line">
+<span class="time"><strong>[00:42:24]</strong> </span>
+<span class="speaker"><strong>发言人1: </strong></span>
+无所谓。对。
+</p>
+<p class="transcript-line">
+<span class="time"><strong>[00:42:25]</strong> </span>
+<span class="speaker"><strong>发言人2: </strong></span>
+就跟SARS1样，我们还是搞关系，要去拿政府大单了，要做coding了。
+</p>
+<p class="transcript-line">
+<span class="time"><strong>[00:42:30]</strong> </span>
+<span class="speaker"><strong>发言人3: </strong></span>
+对我我是觉得说在确定性上的这个部分，是绝对肯定利好中国这块的。我们这块的那个agent其实在海外现在都很正常。
+</p>
+<p class="transcript-line">
+<span class="time"><strong>[00:42:39]</strong> </span>
+<span class="speaker"><strong>发言人2: </strong></span>
+从成本上来讲，就算你刚才说GPT5，我的成本只是那谁的15分之1，对吧？还是15%来着忘了。然后那对相对中国来讲还是贵。
+</p>
+<p class="transcript-line">
+<span class="time"><strong>[00:42:49]</strong> </span>
+<span class="speaker"><strong>发言人3: </strong></span>
+我们中国比他还更低，我们中国还能做到这个15分之1的，再低个10分之1可能都做得到。
+</p>
+<p class="transcript-line">
+<span class="time"><strong>[00:42:55]</strong> </span>
+<span class="speaker"><strong>发言人2: </strong></span>
+对我看到这个数据，就GPT已经把他自己做到了这个。当然了，那由于这个政策缘故也好，政治缘故也好，对吧？那可能很多人不会选择大的政府企业在海外的，他不可能选择咱们中国的模型。但是对于很多自我开发者或者小公司来讲，谁不觉得这个性价比高是最重要的对呀对。
+</p>
+<p class="transcript-line">
+<span class="time"><strong>[00:43:14]</strong> </span>
+<span class="speaker"><strong>发言人3: </strong></span>
+这个东西我做个类比，就像我听到其他行业的，比如说做外贸的。以前做外贸的时候，老外可能过来刚一过来就觉得中国东西好便宜，随便一家都很便宜。后面会发现，中国有好多选择其实都很便宜，到处都询价，其实还可以再把价格再降低好多。就是老外也都学精了。
+</p>
+<p class="transcript-line">
+<span class="time"><strong>[00:43:33]</strong> </span>
+<span class="speaker"><strong>发言人2: </strong></span>
+自己增加了这样。
+</p>
+<p class="transcript-line">
+<span class="time"><strong>[00:43:35]</strong> </span>
+<span class="speaker"><strong>发言人3: </strong></span>
+对对对，就是这样子的一个事情。其实对大家都是好事。就是你的好的东西的价格越来越平民了，然后大家都用得上，然后这块的确定性很强。但是我想再讲另外一个事情，就是其实最近还有一个很大的的模型，我觉得很也许后面我们可以再关注它情况下，就是谷歌还有一个叫吉米三的那个模型，对它是一个世界模型，这个东西已经超越大模型大语言模型了。但是他的做法可能跟大语言模型会很不一样。我们现在也没搞明白，但是他是那个deep mind那边出到第三代了，前面两代没有那么厉害，但是也很惊艳，但到现在是非常惊艳。
+</p>
+<p class="transcript-line">
+<span class="time"><strong>[00:44:12]</strong> </span>
+<span class="speaker"><strong>发言人2: </strong></span>
+他出来的效果说超越大元模型可能有还有点夸张。目前来讲的话，他他方向他现在。
+</p>
+<p class="transcript-line">
+<span class="time"><strong>[00:44:18]</strong> </span>
+<span class="speaker"><strong>发言人3: </strong></span>
+的使用上还肯定超越不到你，还有比较长的路要走。但是我想说的是，这种很领先的这些研发，就是比如说世界模型的这种研发，其实还是在这些谷歌这样子的这样子的顶级的。
+</p>
+<p class="transcript-line">
+<span class="time"><strong>[00:44:33]</strong> </span>
+<span class="speaker"><strong>发言人2: </strong></span>
+公司里面。
+</p>
+<p class="transcript-line">
+<span class="time"><strong>[00:44:34]</strong> </span>
+<span class="speaker"><strong>发言人3: </strong></span>
+对对对，这个可能是我们现在还没有看到国内哪个地方能够对得上去的。
+</p>
+<p class="transcript-line">
+<span class="time"><strong>[00:44:40]</strong> </span>
+<span class="speaker"><strong>发言人2: </strong></span>
+没错，还无法对标，还无法对对对。
+</p>
+<p class="transcript-line">
+<span class="time"><strong>[00:44:43]</strong> </span>
+<span class="speaker"><strong>发言人3: </strong></span>
+但是这一幅部分我相信也会有类似的路子。就是一旦他如果有公开更多的这个技术的实现，论文各种方面的东西，我们应该也会有对应的东西出来。但是现在能看到像这样子，有可能下一个竞争的是类似这样的世界模型的东西出来。因为本身就是说大元模型scaling law如果出现瓶颈，这些东西应该也会进一步的去发展。因为世界模型里面要求的数据和是我们现在发展起来这些agent能够做的比较好的。就是有很多的数据就是到了到了一个现在到了一个阶段。就是说很多的数据可能我们人工直接喂给这个AI是不够用的。还很多数据实际上是需要它变成一个agent这样子的这样子的一个载体，自己去我们的真实世界去识别跟寻找哪些数据适合他他自己拿去学习，学习了以后再拿回来训练。这个AI的这些模型是到了这个阶段。
+</p>
+<p class="transcript-line">
+<span class="time"><strong>[00:45:37]</strong> </span>
+<span class="speaker"><strong>发言人3: </strong></span>
+这个agent的能力现在是提升的很快，包括我们中国的这些模型装到agent里面，运作的能力也更顶尖的。可能是有80%甚至90%的效果。这个的话其实就说明这个可能刚好就在这样的一个节点，实际上是挺好的一个节点。虽然说我们可能跟他最顶级的有差距，但是我们可以有有机会去追上。但是要知道确实最顶级的还是有在美国那边还有很多手藏在他们那里。就是我们说的可能最好的AGI可能出来了，总是会就算他们藏着，我觉得也不可能完全藏得住，你会总会有一些东西出来，然后我们也会有机会。这个是我觉得是这样子的一个趋势。
+</p>
+<p class="transcript-line">
+<span class="time"><strong>[00:46:20]</strong> </span>
+<span class="speaker"><strong>发言人1: </strong></span>
+是有听李开复老师的口令就对了。合适的时间什么时候做大模型，什么时候卖团队，什么时候搞to B。
+</p>
+<p class="transcript-line">
+<span class="time"><strong>[00:46:32]</strong> </span>
+<span class="speaker"><strong>发言人3: </strong></span>
+对，什么都是搞企业。
+</p>
+<p class="transcript-line">
+<span class="time"><strong>[00:46:34]</strong> </span>
+<span class="speaker"><strong>发言人2: </strong></span>
+搞机器的。
+</p>
+<p class="transcript-line">
+<span class="time"><strong>[00:46:36]</strong> </span>
+<span class="speaker"><strong>发言人3: </strong></span>
+对对对。
+</p>
+<p class="transcript-line">
+<span class="time"><strong>[00:46:36]</strong> </span>
+<span class="speaker"><strong>发言人1: </strong></span>
+是太稳了，这个节奏踩得太稳了，每步都对。
+</p>
+<p class="transcript-line">
+<span class="time"><strong>[00:46:40]</strong> </span>
+<span class="speaker"><strong>发言人2: </strong></span>
+今天看那个直播的时候，我也发现他里面提到了，因为他有一个发言人提到，说说他们可以用O3制造的数据去训练GPT5，这一点让我非常惊讶。虽然他没有做任何展示，但他确实是义正词严或者是叫很很严肃的提了这个事情。我觉得如果真的做到这一步，那就是说模型可以自己来训练自己了，而且还能自给自己生成数据，这个绝对是一个非常巨大的。我自认为这是一个非常巨大的。
+</p>
+<p class="transcript-line">
+<span class="time"><strong>[00:47:06]</strong> </span>
+<span class="speaker"><strong>发言人1: </strong></span>
+是这样的，其实我觉得本质像老邱之前就讲了很多这样的例子，就是要A卷自己去找数据。我们的经验其实预训练端中国的模型都开源了，我们的经验也差不多了。对在后面你就是AI要自己去找到那种像围棋一样的场景，然后自己去做训练，自己去超越人类了。这个后面就是说就是你你你是一个成熟的支付宝了，你应该自己还花呗了。
+</p>
+<p class="transcript-line">
+<span class="time"><strong>[00:47:34]</strong> </span>
+<span class="speaker"><strong>发言人3: </strong></span>
+这个地方补充一个信息挺有意思的，就是感兴趣的小伙伴可以去听听那个就是deep my的CEO对David哈萨比斯，也是诺贝尔奖得主。他其实有一个博客，应该是在上个月的时候发的。他上个月的时候发的时候，有几件重要事情还没发生。第一个是就是现在的这个激励模型还没出，而且还有当时不是前两周又得了数学的奥数奥数的金牌，奥数的也金牌，对，奥林匹克的金牌，当时这两个事情都还没得。
+</p>
+<p class="transcript-line">
+<span class="time"><strong>[00:48:03]</strong> </span>
+<span class="speaker"><strong>发言人3: </strong></span>
+他当时就在讲一个事情，他就说他们在研究这个AGI的时候，本来理想也就是把数学搞得很好就行了。因为觉得是数学可以解决一切的问题，因为数学也可以去解决刚才你前面讲的那个造数据的问题。因为很多数据其实可以用数学去推理，去去去去去去验证，然后去各种各样的东西的。原来想的也是那样子，但是实际真正做下来发现还是做代码最好用。就是他们也会发现，其实还是去做代码，其实会可以更好的去把代码这个工具给做出来以后，其实你的数学的应用也会得到更好的提升。那那这样子的东西就是所以这样子的东西出来以后，他其实也会很惊讶于说，我们想的是数学，但是最终实际上是代码。然后现在这个阶段能把这个代码先弄好，而且还有世界模型这些东西能弄好。
+</p>
+<p class="transcript-line">
+<span class="time"><strong>[00:48:57]</strong> </span>
+<span class="speaker"><strong>发言人3: </strong></span>
+其实未来其实很多时候真的有可能你的下一代，比如说就像GI2.5变成接面奶3。它可能最理想的情况就是你自己你自己是这个AI是可以想办法去迭代到jm奶三的对，然后还有就是AI你自己可以设计出一个新的东西，就像人可以设计出围棋这么精妙的这样子的一个游戏一样。你AI应该是最强大的。这个AI应该是可以设计出一个我们人根本没想讲过的一个工一个一个工具出来，然后去提超越了我们原来的AI那他的这些软件是vision是很有意思的。其实我是很推荐我们的听友，感兴趣的可以去听听他的博客非常长，很有意思。
+</p>
+<p class="transcript-line">
+<span class="time"><strong>[00:49:39]</strong> </span>
+<span class="speaker"><strong>发言人2: </strong></span>
+对，所以这也是叙事。对，这也是一种叙事。所以咱们我我反正觉得GPT5现在这样一发布之后，我的感觉就是它的估值再往上走有点难。对于他来讲的话，其实挑战变得更高了。因为可以说大力很难出奇迹了，这是第一点。对第二点来讲，to c端的有可能会见底。也就是说to c端的应用场景大家探索的差不多了，最后也就是精雕细刻了，是这个机会就留给中国了。然后再往后来讲to g那就是另外一种能力，就喝点白喝点茅台了。
+</p>
+<p class="transcript-line">
+<span class="time"><strong>[00:50:08]</strong> </span>
+<span class="speaker"><strong>发言人1: </strong></span>
+所以他能出国深造一下。
+</p>
+<p class="transcript-line">
+<span class="time"><strong>[00:50:11]</strong> </span>
+<span class="speaker"><strong>发言人2: </strong></span>
+对他从5000亿变到就5000亿，估值变到6000亿8000亿，甚至1万亿。拭目以待，看看他的能不能突破自己叙事的能力的极限了。是的。
+</p>
+<p class="transcript-line">
+<span class="time"><strong>[00:50:22]</strong> </span>
+<span class="speaker"><strong>发言人1: </strong></span>
+那就期待GP6我们再来揭晓。
+</p>
+<p class="transcript-line">
+<span class="time"><strong>[00:50:25]</strong> </span>
+<span class="speaker"><strong>发言人2: </strong></span>
+没有在在大功能上。
+</p>
+<p class="transcript-line">
+<span class="time"><strong>[00:50:27]</strong> </span>
+<span class="speaker"><strong>发言人1: </strong></span>
+对，是是是，好，我们这期节目就到这里结束。
+</p>
+<p class="transcript-line">
+<span class="time"><strong>[00:50:32]</strong> </span>
+<span class="speaker"><strong>发言人2: </strong></span>
+就这样跟大家说个再见，咱们就不见了，大家拜拜I。
+</p>]]></content:encoded>
+            <pubDate>Fri, 08 Aug 2025 09:33:49 GMT</pubDate>
+            <guid>6895c42d20a2906a4d8e7b94</guid>
+        </item>
         <item>
             <title>不卷AI卷外卖？ | 外卖大战背后，阿里京东美团在打什么？</title>
             <link>https://www.xiaoyuzhoufm.com/episode/6891aed08e06fe8de76946ae</link>
@@ -27583,917 +28734,6 @@ DP这个反倒现在应该是有共识又没认知了发现。
 </p>]]></content:encoded>
             <pubDate>Thu, 13 Mar 2025 09:04:31 GMT</pubDate>
             <guid>67d29d26e924d4525a57cf6d</guid>
-        </item>
-        <item>
-            <title>争议Manus，也许开启了AI Agent时刻？｜关于智能体我们拉齐一下认知</title>
-            <link>https://www.xiaoyuzhoufm.com/episode/67cc0bd80766616acd7b4a88</link>
-            <description>Manus一方面作为第一个自媒体老师比技术专家先内测的AI，邀请码被炒到3万一码难求，另一面是成本为OpenAI Deep Research的1/10，能力覆盖了YC 76% 的垂直类 Agent 项目。这背后的争议，到底说明了什么？
-一、AI Agent是什么？
-01:49 AI Agent长期处于概念模糊
-07:45 大模型是脑，Agent是手脚
-二、通用AI Agent的挑战是什么？
-11:08 成本为OpenAI Deep Research 1/10（2美金）， 成本差距就是反映到团队差距，做应用的和LLM是两拨人
-13:19 基于multi agent的产品工程组合和交互，本身就很吃团队认知
-14:05 基于浏览器的底层自动化对资源消耗很大，而且速度也会有问题（团队也承认了幻觉和速度问题）
-25:56 对于复杂的工程组合产品，迭代和维护是脆弱的
-28:25 大模型决定了AI产品不存在护城河，更拼交互创新+垂直洞察
-三、Agent的时代来了？
-33:00 Manus打响第一枪，本身就值得尊敬
-37:16 通用vs垂直，是AI产品的核心矛盾
-46:25 Manus被metaGPT和Camel AI一夜复刻的背后，
-50:42 2C产品并不以效率为卖点，AI或许很难产生现象级2C产品，更多会被2B内化
-52:36 AI应用的下半场，从生成到完成
-【关注主播】：
-📕小红书：叫我小苏就好啊
-📺B站：叫我小苏就好啊
-📱微信：Roisu117
-【关注频道】：
-📕小红书：人民公园说AI
-▶️油管：人民公园说AI
-🐦推特：人民公园说AI</description>
-            <content:encoded><![CDATA[<h1>转写链接</h1>
-<link>https://tongyi.aliyun.com/efficiency/doc/transcripts/47z39vdmoemg9edg</link><br>
-<h1>节目摘要</h1>
-<div class="summary">本次讨论深入探讨了人工智能领域内多个核心概念，如AI代理、开源组件的应用，以及技术创新与市场推广策略。特别聚焦于一款名为“menus”的产品，它被视为推动AI进入agent时代的关键。讨论不仅涉及了该产品在市场上的表现、技术挑战以及商业模式的争议，还强调了AI技术在企业应用中的巨大潜力，特别是对to B市场的重视和垂直领域洞察的重要性。同时，讨论了大模型与应用开发的区别，以及如何通过工程创新和产品设计提升AI应用的效率与实用性。此外，还触及了AI领域的投资趋势，显示出对to B项目及提升效率应用的浓厚兴趣。整体而言，这次对话揭示了AI行业当前的复杂性，并对未来发展方向提供了深刻见解。</div><br>
-<h1>章节速览</h1>
-<div class="chapters">
-<div class="chapter-item">
-<span class="time"><strong>[00:00:00]</strong> </span>
-<span class="chapter-title"><strong>开启AI Agent时代的创新：menus的突破与争议</strong></span>
-<div class="chapter-summary">对话讨论了menus产品在AI Agent时代的开创性贡献，强调其在技术步骤、开源组件应用及产品交互设计上的突破。同时，指出了其成本控制能力、团队能力栈以及AI产品未来趋势的洞察。讨论还涉及对menus的争议，包括质疑其营销策略与技术真实性，最终探讨了其在AI历史上的潜在重要位置及其创新与不足之处。</div>
-</div>
-<div class="chapter-item">
-<span class="time"><strong>[00:03:19]</strong> </span>
-<span class="chapter-title"><strong>AI Agent与大模型的关系及应用</strong></span>
-<div class="chapter-summary">对话探讨了AI agent与大模型（如deep sick等）之间的关系，指出大模型如同大脑负责思考和计划，而AI agent则如同手脚，负责执行具体的任务。AI agent能够自主决策、制定简单计划，并在执行过程中进行反馈调整。其能力受限于大模型的指令和智力水平，体现了二者之间的密切关系。过去两年，随着大模型的发展，众多公司和开源组织投入到agent框架的开发中，旨在解决从思考到执行的复杂问题。然而，目前仍缺乏一个能完美执行任务的agent实例，这是目前领域内亟待解决的挑战。</div>
-</div>
-<div class="chapter-item">
-<span class="time"><strong>[00:07:44]</strong> </span>
-<span class="chapter-title"><strong>Agent技术的工程化突破与挑战</strong></span>
-<div class="chapter-summary">讨论集中在关于agent技术在执行层面的工程化突破与产品化进展，以及在实际应用中遇到的挑战。尽管没有实现技术或理论上的根本性突破，agent在计划制定、执行及失败后的修正等方面展现出了显著的进步。然而，实际应用中存在诸多障碍，例如在执行简单任务如订机票时，agent可能因人机验证问题而受阻，需要通过不断尝试和学习来解决问题。这突显了在教会agent理解复杂环境并有效执行任务方面所面临的挑战，以及在细节层面打磨产品的重要性。</div>
-</div>
-<div class="chapter-item">
-<span class="time"><strong>[00:11:08]</strong> </span>
-<span class="chapter-title"><strong>大模型与应用开发的团队差异及技术护城河的争议</strong></span>
-<div class="chapter-summary">对话围绕AI大模型与具体应用开发之间的差异展开，讨论了menus项目的争议点，包括其自动化能力引发的担忧以及成本效益问题。指出，做大模型与做应用的是两拨人，各自擅长的领域不同，这导致了成本和解决问题方式上的差异。同时，强调技术本身已不再构成护城河，真正的壁垒在于团队的基因和擅长的领域，以及如何有效地解决问题。</div>
-</div>
-<div class="chapter-item">
-<span class="time"><strong>[00:14:01]</strong> </span>
-<span class="chapter-title"><strong>AI Agent的技术挑战与架构整合</strong></span>
-<div class="chapter-summary">讨论了AI agent在技术层面所面临的挑战，特别是在任务执行时间和资源消耗方面。提到了知名机构如YC对AI agent的投资与推广，以及AI agent在远程桌面、虚拟机（如Ubuntu系统）和多agent协作方面的应用。详细介绍了如何通过远程Ubuntu系统进行文件系统拆解、任务执行、编程、爬虫搜索等操作，并讨论了与用户交互的机制，如验证码输入和账号授权。最后，指出了虚拟机与真实机器之间的差异以及AI agent在任务执行过程中的调度和协作机制。</div>
-</div>
-<div class="chapter-item">
-<span class="time"><strong>[00:18:52]</strong> </span>
-<span class="chapter-title"><strong>大模型在多Agent系统中的应用与突破</strong></span>
-<div class="chapter-summary">讨论了大模型在多Agent系统中的关键作用，将其比喻为Agent的大脑，负责编码、搜索和决策。指出当前的AI技术，如mono和common AI，通常采用多个大模型协同工作，以突破单个Agent的想象力限制。多Agent系统被比作群聊，其中每个Agent（如语言、数学课代表）针对问题进行思考，最终汇总成一个结论。随着开源社区的发展，多Agent的基础设施日益成熟，这将孕育出更多像minus这样的现象级产品，并在垂直领域产生更多创新案例。</div>
-</div>
-<div class="chapter-item">
-<span class="time"><strong>[00:20:49]</strong> </span>
-<span class="chapter-title"><strong>大模型融合技术及其在特定场景中的应用</strong></span>
-<div class="chapter-summary">对话围绕一种通过混合模型（大模型融合）技术来优化特定场景应用的讨论。这种技术由一个名为莫妮卡的团队开发，他们通过整合多种大模型，提供了一个平台，用户可以根据需求选择不同的模型来执行任务，如编码、计划执行等。该平台特别针对50到70个具体场景进行了优化，如研报分析和机票预订，从而在不同场景下选择最合适的模型，以实现成本效益和性能的最佳平衡。此外，讨论还提到了成本结构，指出两美元的费用实际上是调用大模型token的成本，而非产品本身的定价。这种产品定位和市场策略被认为是值得学习的。</div>
-</div>
-<div class="chapter-item">
-<span class="time"><strong>[00:24:04]</strong> </span>
-<span class="chapter-title"><strong>AI产品开发策略与开源商业模式探讨</strong></span>
-<div class="chapter-summary">讨论聚焦于一款名为Minus的AI产品开发策略，其背后的团队在积累数百万用户基础后，选择以demo状态发布产品，旨在收集早期用户反馈以优化后续产品形态。由于AI代理的复杂度和运行成本高，目前阶段不适合直接定价，而是通过开源模式建立共识和信心，引发关注。预计开源将在年底或更晚时间实现，这可能成为一种新型商业模式。同时，该讨论还提及了Deep Seek的启发作用，认为Minus可能成为AI从聊天到代理应用转折点的标志性产品，尽管其未来发展仍面临挑战。</div>
-</div>
-<div class="chapter-item">
-<span class="time"><strong>[00:27:12]</strong> </span>
-<span class="chapter-title"><strong>大模型工程化挑战与技术储备现状</strong></span>
-<div class="chapter-summary">对话讨论了复杂工程化产品在维护迭代中的脆弱性，特别是由于技术快速演变导致的框架过时问题。强调了大模型如deep seek和OpenAI不直接做应用的原因，即配套成本、人才需求和市场成本高昂。提到了技术储备的重要性，以及开源框架如OWL agent在性能和交互方面的突破，说明技术储备和技术开源组件的应用在推动创新中的关键作用。同时，也提到了技术的快速迭代和竞争，以及技术储备如何影响产品化和市场接受度。</div>
-</div>
-<div class="chapter-item">
-<span class="time"><strong>[00:30:32]</strong> </span>
-<span class="chapter-title"><strong>多模态AI产品的工程化思维与创新突破</strong></span>
-<div class="chapter-summary">对话中强调了一款多模态AI产品在工程化思维和产品创新上的突破。产品不仅记录了整个思考和完成过程的录像，供用户加速回看，还通过过程中产生的启发和步骤提供了超出预期的价值，即便最终任务完成度可能仅在30%到50%之间。这种创新打破了传统的技术壁垒，使产品在AI时代中脱颖而出，被视为GPT后时代的重要产品。此外，它还预示了未来创新将更多地聚焦于交互创新，而非单纯的技术进步。</div>
-</div>
-<div class="chapter-item">
-<span class="time"><strong>[00:33:16]</strong> </span>
-<span class="chapter-title"><strong>AI创业趋势与通用Agent的未来</strong></span>
-<div class="chapter-summary">对话聚焦于AI创业的趋势和通用Agent的未来发展。讨论指出，尽管在技术底座上的创新可能有限，但交互设计和用户体验的创新将拉开产品间的差距，特别是AI含量不需过高，约30%即可，其余70%可依赖自动化。此外，大模型厂商可能难以转向应用开发，而工程创新和交互体验将成为未来AI产品成功的关键。同时，通用Agent被认为是AI应用的未来趋势，大厂凭借其资源优势，可能更快推出高级的通用Agent产品，对创业公司构成挑战。</div>
-</div>
-<div class="chapter-item">
-<span class="time"><strong>[00:39:02]</strong> </span>
-<span class="chapter-title"><strong>从To C到To B：产品定位与市场策略的转变</strong></span>
-<div class="chapter-summary">讨论了当前产品的市场定位问题，指出该产品原为To C设计，积累了数百万用户并取得成功。然而，现在的产品更像一个To B的demo，适用于行业特定的复杂流程中，例如法律和会计领域。通过多模态或多agent协同的方式，可以为企业提供更高效的解决方案，从而实现降本增效。尽管产品本身无误，但其市场宣传与定位存在错配，这导致了公众认知与实际反馈的反噬。因此，建议产品在几个特定行业进行部署，针对那些处于上升阶段且愿意投资的企业，以实现其在行业中的领先地位。</div>
-</div>
-<div class="chapter-item">
-<span class="time"><strong>[00:43:12]</strong> </span>
-<span class="chapter-title"><strong>产品宣发错配与AI产品发展策略</strong></span>
-<div class="chapter-summary">对话围绕一个可能目标市场定位错误的产品展开，讨论了其宣发策略的不当及其在国内外市场反应的差异。此外，还探讨了在营销活动中的意外事件处理、产品与市场需求的匹配问题，以及在AI产品领域，通用型产品可能面临的被大模型反噬的风险。</div>
-</div>
-<div class="chapter-item">
-<span class="time"><strong>[00:45:53]</strong> </span>
-<span class="chapter-title"><strong>大模型厂商与AI创业趋势探讨</strong></span>
-<div class="chapter-summary">对话围绕大模型厂商在AI领域的制高点争夺以及创业机会展开。认为大模型厂商会卡住通用应用的制高点，因为这类应用对算力和资源需求极高，最终受益的可能是提供云服务和算力支持的企业。同时，创业机会更多在垂直领域，而非像移动互联网时代那样出现全民级的to C爆发性增长。AI产品更可能被企业内部化或用于创新产品，而不是成为全民级应用。此外，提到了AI商业模式可能更偏向于to B，尤其是类似按人头或团队销售的模式，这种模式在国外市场可能更为成熟和接受。最后，推测团队可能会将产品主要面向海外市场，因为海外用户更习惯于SaaS模式和为特定功能付费的模式。</div>
-</div>
-<div class="chapter-item">
-<span class="time"><strong>[00:49:06]</strong> </span>
-<span class="chapter-title"><strong>AI时代的产品设计与企业内化趋势</strong></span>
-<div class="chapter-summary">讨论集中于AI产品设计，特别是针对海外用户及to B市场的发展趋势。强调了AI产品在提升效率方面的核心价值，以及企业对AI技术的重视和应用需求。此外，探讨了AI技术的下半场可能的发展方向，包括多agent系统和自动化技术的应用，以及企业内部对AI技术的内化。</div>
-</div>
-</div><br>
-<h1>问题回顾</h1>
-<div class="qa-item">
-<div class="question"><strong>Q:</strong> 为什么Venus现在会火，它在AI领域的创新点是什么？</div>
-<div class="answer"><strong>A:</strong> Venus火起来是因为它在技术实现上具有实质性进展，每个技术步骤都有对应的开源组件，并且在产品化过程中做出了很好的交互方面的突破。团队展示了如何将开源组件工程化和产品化。</div>
-</div>
-<div class="qa-item">
-<div class="question"><strong>Q:</strong> 如何看待manus这款产品的门槛、护城河以及成本上的差异？</div>
-<div class="answer"><strong>A:</strong> 技术本身没有护城河，真正的差异在于团队基因、擅长做的事以及团队能力栈。比如manus成本只有deep research的十分之一，这反映出团队在做大模型和做应用上的能力差距。</div>
-</div>
-<div class="qa-item">
-<div class="question"><strong>Q:</strong> 当前做AI产品的关键要素是什么？</div>
-<div class="answer"><strong>A:</strong> 当前做AI产品时，AI含量其实不用太高，大概20%至30%即可，其余70%主要依赖自动化以及工程突破和交互体验等方面的创新。</div>
-</div>
-<div class="qa-item">
-<div class="question"><strong>Q:</strong> 如何看待近期非常火的manus产品以及市场对其褒贬不一的反应？</div>
-<div class="answer"><strong>A:</strong> manus在短时间内受到热议，先是被认为是国产AI创新的代表，后又被质疑存在割韭菜现象。目前，市场上开始有更公正的声音为manus的创新与不足辩护。</div>
-</div>
-<div class="qa-item">
-<div class="question"><strong>Q:</strong> 能否解释一下AI agent是什么，以及与大模型（如deep sick）的关系？在实际应用场景中，agent可能会遇到哪些挑战？</div>
-<div class="answer"><strong>A:</strong> 通俗来讲，大模型类似大脑，能够思考、计划并执行；而agent则像是大脑指挥下的手脚，负责具体执行任务。agent需具备自主决策、计划任务、执行过程中反馈调整等能力，其表现受限于接收到的大脑指令及其细致程度。在执行具体任务时，agent可能会遇到诸如人机验证等实际难题，需要通过不断尝试和学习来解决这些问题，这类似于初学者在面对未知任务时的学习过程。</div>
-</div>
-<div class="qa-item">
-<div class="question"><strong>Q:</strong> agent是否涉及底层技术突破，以及其在工程化和产品化方面的表现？</div>
-<div class="answer"><strong>A:</strong> agent在本质上没有最底层的技术突破，但已在工程化和产品化方面取得显著进展，大量涉及到计划、执行及失败后的调整等复杂过程，这需要高水平的工程化能力来实现。</div>
-</div>
-<div class="qa-item">
-<div class="question"><strong>Q:</strong> 为什么menus争议这么大？</div>
-<div class="answer"><strong>A:</strong> 大家对menus的争议在于其自动化能力很强，有人担心它会取代人类工作，但实际上做大模型和做应用的是两拨人， menus团队在解决具体问题时会考虑更多细节和策略，而大模型更侧重于纯思考推理。</div>
-</div>
-<div class="qa-item">
-<div class="question"><strong>Q:</strong>  menus团队被诟病为“套壳之王”，对此你怎么看？</div>
-<div class="answer"><strong>A:</strong> 这种说法并不公平，做大模型和做应用的技术要求不同， menus团队的成本优势明显，这体现了团队在处理问题上的能力和效率，以及技术实现上的差异。</div>
-</div>
-<div class="qa-item">
-<div class="question"><strong>Q:</strong> 你认为menus的门槛和护城河是什么？</div>
-<div class="answer"><strong>A:</strong> 技术层面没有护城河，护城河更多体现在团队的流派、基因、擅长的事物等方面。在AI领域，技术已经很难成为绝对的护城河。</div>
-</div>
-<div class="qa-item">
-<div class="question"><strong>Q:</strong> AI agent面临的挑战和技术架构是怎样的？</div>
-<div class="answer"><strong>A:</strong> AI agent面临的挑战包括资源消耗大，尤其在执行长时间任务时。其技术架构主要是整合开源工具，如基于Ubuntu的虚拟桌面环境，并利用大模型进行决策，通过多agent协作完成复杂任务。</div>
-</div>
-<div class="qa-item">
-<div class="question"><strong>Q:</strong> 多agent技术在menus中如何运作？</div>
-<div class="answer"><strong>A:</strong> 在menus中，多agent技术使得各个模块能够像群聊一样协作，每个“课代表”（agent）负责一部分思考或执行工作，最后汇总结果形成整体解决方案。这种多agent调度是技术突破点之一，能够孕育出更多现象级产品。</div>
-</div>
-<div class="qa-item">
-<div class="question"><strong>Q:</strong> 这个团队使用了什么技术或产品来提供融合了多种模型的服务？莫妮卡平台具体做了哪些整合工作？</div>
-<div class="answer"><strong>A:</strong> 这个团队利用了莫妮卡平台，它整合了多种国际大模型和国内模型，并通过融合后提供一个套餐服务给用户，用户可以按月订阅并灵活使用这些模型。莫妮卡平台已经整合好了UI和API，使得用户能够方便地从一个地方调用不同的大模型，这对于后续的计划执行、调整以及编码等任务提供了便利。</div>
-</div>
-<div class="qa-item">
-<div class="question"><strong>Q:</strong> 在to c应用之后延伸到agent层面，莫妮卡有何优势？</div>
-<div class="answer"><strong>A:</strong> 莫妮卡因其庞大的用户基础（国内加全球几百万用户）和针对50到70个具体场景的优化，在agent层面具有明显优势，能够根据需求调用不同场景下表现最佳的大模型。</div>
-</div>
-<div class="qa-item">
-<div class="question"><strong>Q:</strong> 对于大模型的应用情况，你们是如何理解的？</div>
-<div class="answer"><strong>A:</strong> 大模型在背后相当于一个“大脑”，在不同组合场景中，会根据各个步骤的任务需求调用不同的大模型完成任务。以莫妮卡为例，虽然表面上定价较低，但实际上成本主要来自于调用大模型token的费用。</div>
-</div>
-<div class="qa-item">
-<div class="question"><strong>Q:</strong> 对于当前产品处于早期阶段，定价策略是怎样的？</div>
-<div class="answer"><strong>A:</strong> 目前的产品处于demo状态，并未正式定价，因为产品复杂度高、成本不确定，更适合先获取早期用户反馈，待产品形态更成熟后再考虑定价问题。</div>
-</div>
-<div class="qa-item">
-<div class="question"><strong>Q:</strong> 未来是否会开源该产品？</div>
-<div class="answer"><strong>A:</strong> 开源的时间计划相对较滞后，预计可能在年底或更晚，这可能是一种通过初期放demo建立共识和吸引关注，之后再通过开源形式形成商业模式的策略。</div>
-</div>
-<div class="qa-item">
-<div class="question"><strong>Q:</strong> 如何看待大模型从预训练到后训练的发展转折点，以及应用层面的挑战？</div>
-<div class="answer"><strong>A:</strong> 大模型的应用从Chat到Agent的转折点可能由该产品开启，但同时也面临诸多挑战，如技术迭代迅速、配套成本高昂、维护复杂等问题，这也是为何大模型团队通常不直接做应用的原因。</div>
-</div>
-<div class="qa-item">
-<div class="question"><strong>Q:</strong> 这款产品在技术上是否具有门槛？</div>
-<div class="answer"><strong>A:</strong> 从技术角度来看，这款产品并没有门槛，因为它已经有人在复刻，并且在多模态模型的使用上有所突破，这些是之前老手未曾尝试过的，具有很高的启发性和收获。</div>
-</div>
-<div class="qa-item">
-<div class="question"><strong>Q:</strong> 这款产品在工程化和整体产品层面有何重大突破？</div>
-<div class="answer"><strong>A:</strong> 从工程化和整体产品的角度看，该产品确实有巨大突破。它的发布可能是因为竞争对手都在做类似事情，但各自有各自的节奏。此外，该产品可能预示着AI时代的一个新阶段，即GPT之后的时代，因为它在录像回放、中间过程物启发等方面展现出完全不同的特性。</div>
-</div>
-<div class="qa-item">
-<div class="question"><strong>Q:</strong> 在AI时代，真正拉开差距和创新点在哪里？</div>
-<div class="answer"><strong>A:</strong> 在AI时代，技术层面大家基本站在同一起跑线，真正的创新点在于交互创新和垂直领域洞察的创新，尤其是交互设计师利用AI进行创业时，他们能更好地理解用户需求，知道何时加入AI何时不加入AI。</div>
-</div>
-<div class="qa-item">
-<div class="question"><strong>Q:</strong> AI产品中的AI含量和自动化占比大概是多少？</div>
-<div class="answer"><strong>A:</strong> 当前很多AI产品中，AI含量大约在20%至30%，其余70%主要依靠自动化实现。像莫妮卡的Meos这样的产品就是以较低的AI含量和高度的自动化来构建竞争优势。</div>
-</div>
-<div class="qa-item">
-<div class="question"><strong>Q:</strong> 对于模型厂商在做应用方面的前景如何看待？</div>
-<div class="answer"><strong>A:</strong> 我们认为做模型的厂商很难去做应用，他们的成本、思维方式以及能力都不适合应用层面。因此，不应再问大模型厂商如何应对技术护城河等问题。</div>
-</div>
-<div class="qa-item">
-<div class="question"><strong>Q:</strong> 关于通用AI agent的发展趋势及风险，有何看法？</div>
-<div class="answer"><strong>A:</strong> 通用AI agent是未来的趋势，随着大模型能力提升和成本降低，大厂如字节跳动、腾讯等将有能力推出比现有产品更高级的通用AI agent。目前阶段，创业公司在面对诸如请求处理能力等挑战时，相较于大厂存在较大差距，难以短期内弥补。</div>
-</div>
-<div class="qa-item">
-<div class="question"><strong>Q:</strong> Monos的产品定位是否为to b而非to c？</div>
-<div class="answer"><strong>A:</strong> Monos展示的产品更像是一个to b产品的demo，因为它展示了如何结合多个模型进行多模态协同工作，以适应不同行业复杂流程的需求，而非直接面向C端用户完成个性化、即时的任务。</div>
-</div>
-<div class="qa-item">
-<div class="question"><strong>Q:</strong> 对于一个to b行业，您是如何看待其流程拆解和利用AI降低成本、提升效率的？</div>
-<div class="answer"><strong>A:</strong> 在to b行业中，即使流程复杂，也可以将其拆解成各个环节，并针对每个岗位制定job description。通过将各个环节做成agent并让他们协同工作，可以实现降本增效。例如，雇佣一个人一个月几千块钱的成本，通过AI技术可以完成十个人的工作量，而且不会产生人工的工资问题。</div>
-</div>
-<div class="qa-item">
-<div class="question"><strong>Q:</strong> 您认为该产品的定价和市场定位是否合理？</div>
-<div class="answer"><strong>A:</strong> 我觉得这个产品本身的宣传和定位存在错配。它在某些行业部署时可能无法达到预期效果，而且在追求降本增效的同时，可能会因市场认知的反噬而受到负面影响。此外，公司的营销活动意外地在国内引起了大量关注，但团队对这种大规模的关注缺乏应对准备。</div>
-</div>
-<div class="qa-item">
-<div class="question"><strong>Q:</strong> 您如何看待这款产品在国内市场的表现以及其宣发策略？</div>
-<div class="answer"><strong>A:</strong> 我认为这款产品的宣发策略与产品本身并不匹配，且可能在执行过程中出现了方向偏差，原本打算打入国外市场，却在国内市场引起了热潮。产品本身没有问题，但后续处理和市场反应超出了控制范围，尤其是破圈后的结果，公司难以应对。</div>
-</div>
-<div class="qa-item">
-<div class="question"><strong>Q:</strong> 您对未来AI产品的发展趋势有什么看法？</div>
-<div class="answer"><strong>A:</strong> 我赞同贤哥的观点，即通用AI产品最终可能会被大模型反噬，因为通用模型对算力资源需求大，底层基础设施如云服务和GPU等将更受重视。而在AI后续的发展中，更多的机会可能出现在垂直领域，企业会更倾向于将AI技术内化以提升效率，而不是打造全民级的to c产品。同时，也有讨论到做to b的可能性，尤其是提供解决方案和服务给企业用户。</div>
-</div>
-<h1>节目文稿</h1>
-<p class="transcript-line">
-<span class="time"><strong>[00:00:00]</strong> </span>
-<span class="speaker"><strong>发言人1: </strong></span>
-我更愿意称menus这样的产品，我会认为他是开启AI时agent时代第一枪的那个人。
-</p>
-<p class="transcript-line">
-<span class="time"><strong>[00:00:07]</strong> </span>
-<span class="speaker"><strong>发言人2: </strong></span>
-为什么Venus现在会火？是因为这个agent一直感觉大家停留在了概念层面，大家没有看到一个真的像样的，好像做得很好。Venus做的每一个技术步骤，都是有对应的开源组件的，就是看大家怎么把这个开源组件工程化。还有产品化上面实际上是做了很好的交互方面的突破的。
-</p>
-<p class="transcript-line">
-<span class="time"><strong>[00:00:27]</strong> </span>
-<span class="speaker"><strong>发言人1: </strong></span>
-未来更多的创新是交互跟垂直领域洞察的创新。就这个问题其实也是回答很多人就问menus的门槛跟护城河是什么？我觉得技术是没有护城河的这这你你觉得这东西有啥护城河？这不可能有护城河。我觉得就是你的团队的基因不同，擅长的做的事不同。同样为什么manus说它的成本只有deep research的10分之1？我觉得这就是成本上的差距，就表现出团队能力栈上面的差距。就做大模型跟做应用根本是两拨人，这个结论也是立在这。
-</p>
-<p class="transcript-line">
-<span class="time"><strong>[00:01:00]</strong> </span>
-<span class="speaker"><strong>发言人1: </strong></span>
-现在做AI的产品，AI含量其实不用太高，我觉得百分之二十三十就好了，剩下的基本上70%都是自动化。今天大家看到的像maxy也好，这样的产品就是靠工程突破、工程创新，靠交互体验。这几件事情合起来可以给大家构建一个未来AI产品长什么样的图谱。
-</p>
-<p class="transcript-line">
-<span class="time"><strong>[00:01:20]</strong> </span>
-<span class="speaker"><strong>发言人1: </strong></span>
-我更愿意称minus这样的产品。我会认为它是开启AI时A卷时代第一枪的那个人。那这样的人可能最后会死掉，但我觉得他是永远是值得我们尊敬的。包括deep sick也是开启了所谓叫后训练时代的一个大模型的第一枪。他们都在未来整个在AI的历史上会有很重要的位置，然后也会被记上一笔。
-</p>
-<p class="transcript-line">
-<span class="time"><strong>[00:01:49]</strong> </span>
-<span class="speaker"><strong>发言人1: </strong></span>
-我们今天就是聊一下这两天非常火的manus，就非常快出圈的一款产品。然后我们为什么没有当下聊这原因？我们觉得这个事情可能要让子弹飞两天，结果这个事情在这两天里面就有了非常大的反转。第一天大家都说，下一个deep sick之后的这种国产AI创新来了，对吧？然后炒得非常的热，大家用一个邀请码接近到3万块钱这样一个天价的一个高度了。但是事情到了第二天又来到一个反转，就是大家就质疑说你这一波是割韭菜。然后为什么你是一个自媒体老师比技术专家先用的AI？这个不合理，所以就是变成对minus这款产品大家是褒贬不一的，然后甚至说带有很多情绪，很多不客观在里面的。
-</p>
-<p class="transcript-line">
-<span class="time"><strong>[00:02:45]</strong> </span>
-<span class="speaker"><strong>发言人1: </strong></span>
-到今天为止我已经看到了身边的一些朋友圈内的一些朋友，开始更公正的站出来，客观的为minus的创新跟不足说几句话。我觉得到今天已经听到很多这样的声音了。所以我们选择今天才来跟大家聊一聊，minus这款产品它到底是一个营销创新还是一个技术创新，还是说它真的是开启了所谓叫AI agent的时刻，到底是什么是AI agent，我们也会在今天来做一个详细的讨论。
-</p>
-<p class="transcript-line">
-<span class="time"><strong>[00:03:19]</strong> </span>
-<span class="speaker"><strong>发言人1: </strong></span>
-我觉得首先大家可能会非常在意的一个点就是AI agent是什么东西，就大家到底在吵什么东西。然后agent跟大模型，像deep sick这样的单元模型它有什么关系？所以这个我觉得可能还是要先请老师跟大家讲一下。因为我知道过去一段时间或者过去一年里面，agent被炒的概念很高，但是agent到底是什么的定义它是不清晰的。所以老师你能不能跟我们的听众也简单的讲一讲agent跟大模型它到底是一个什么样的关系。
-</p>
-<p class="transcript-line">
-<span class="time"><strong>[00:03:56]</strong> </span>
-<span class="speaker"><strong>发言人2: </strong></span>
-这个我觉得先用通俗的讲，再用生硬一点的讲。其实通俗一点讲，minus这一次本身它的命名就已经揭示了他们之间的关系。Minus它是取自于拉丁语的那个手的意思。
-</p>
-<p class="transcript-line">
-<span class="time"><strong>[00:04:09]</strong> </span>
-<span class="speaker"><strong>发言人2: </strong></span>
-也就是说大模型我们其实普通说像deep sik这些大模型，open NI这些大模型，他们是大脑，然后大脑可以做好的思考，然后计划，然后也能做一定的执行。但是他的执行我们作为人知道，我们人最具体的执行一定是在手脚上，然后还有身体的行动上。然后大脑它会给你指定你该去哪儿，干个什么事情，但是具体干是靠手脚身体去完成的这也是为什么我们之前好几期都在聊说未来应该会有硬件、具身机器人这些方面的发展。因为就是大脑现在我们看到deep seek和OpenAI的进步已经达到了一定的程度。我们说这个预训练已经达到了很强。就是互联网上的所公开的知识基本上都被他们给学完了。就是大脑已经到一定阶段够聪明。
-</p>
-<p class="transcript-line">
-<span class="time"><strong>[00:05:01]</strong> </span>
-<span class="speaker"><strong>发言人2: </strong></span>
-现在这两年一直在讲的这个agent，其实就是这个大脑指挥下的这个手脚，怎么去具体的把事情做好，你不用事无巨细的全部靠大脑，就像你现在在这个A检，就相当于你把它理解成就是手，你要去拿一个什么东西，怎么拿。你的手自然十个指头，十个指头知道怎么去适配每一个不同东西，应该怎么去拿。如果你一只手拿不起来，你再会自然的另外一只手就拿起来，你不需要大脑去思考，这个东西我需要两只两只手才能拿起来。对，就是这些事情就是能够比较。我觉得说抽象的就是来讲一下这个agents在做什么。
-</p>
-<p class="transcript-line">
-<span class="time"><strong>[00:05:38]</strong> </span>
-<span class="speaker"><strong>发言人2: </strong></span>
-然后那如果说用专业一点的讲法，其实agent它至少要具备几个特点。第一就是他能够是自己去决策，就是去计划做一些简单的计划，他应该做什么事情。他在接到指令大脑指令的时候，也就大模型或者是其他方面指令的时候，他自己能决定具体应该怎么去拆解这个任务。他能做plan，然后他能把这个计划的plan的拆解程度，就是怎么做具体怎么做，他要去自己去拆解。然后在执行的过程中间，他能自己有一个反馈，就是执行过程中发现这个东西不行，跟我想的度的方式做不了，那我要返回来重新plan，然后换一个方式再去做。这个是agent最基本的一个能力。目前的话这个agent现在其实大家这样听就可能会知道，A减的能力其实会很受限于大脑给他的那个指令行不行，还有大脑给他的指令够不够细致。所以这里面就会它会有一个很密切的关系，就是agent它其实跟大模型的智力会非常的相关。
-</p>
-<p class="transcript-line">
-<span class="time"><strong>[00:06:50]</strong> </span>
-<span class="speaker"><strong>发言人2: </strong></span>
-在过去两年的话，其实这个agent的框架在大模型出来以后，就其实已经很成熟的这个团队都在做。大的商业公司或者是很多开源组织都在做。就现在随便一列出来都能列出几十家或者上百家都有。那为什么会有这么多家公司在做？就是因为这里面从大脑的思考到具体去执行这个事情，其实很复杂，就是它涉及到的要实现的东西很多。这也是为什么我觉得manus现在会火，是因为这个东西一直感觉大家停留在了概念层面。就是这个agent听起来好像我们都一讲都能讲得懂，但是大家没有看到一个真的像样的agent，好像做的很很好。总是在我们刚才说计划执行再再再计划再执行这个层面，总是会掉很严重的链子。对这个是我想先简单介绍一下。
-</p>
-<p class="transcript-line">
-<span class="time"><strong>[00:07:45]</strong> </span>
-<span class="speaker"><strong>发言人3: </strong></span>
-但是刚才老肖也说了，关于这个agent，我觉得就是说agent是无论是说从这个monos这个名字本身解析也好，还是说从agent本身它的作用也好来说，它它是不是还是执行层面的一个东西，他是不是还没有到真正的技术上的突破，或者说理论上的突破上上的这样一个概念？
-</p>
-<p class="transcript-line">
-<span class="time"><strong>[00:08:05]</strong> </span>
-<span class="speaker"><strong>发言人2: </strong></span>
-对，本质来讲没有没有最底层的技术突破，但是它是有很好的这种工程跟产品化的突破。也就是说我刚才讲的，他有大量的计划跟执行，以及执行失败后反过来更改计划再重新去执行，就是这样子的一个动作。他实际上是需要大量的你的在工程化上去能够让他这个agent去理解这个世界和去这样去做的。
-</p>
-<p class="transcript-line">
-<span class="time"><strong>[00:08:34]</strong> </span>
-<span class="speaker"><strong>发言人2: </strong></span>
-这里面它其实会出现很多的障碍。比如说我们有看到很多人去分享他的评测。比如说最简单一个就是我我要去去订个机票，我可能跟我的团队在不同的城市，那我到底是直飞还是我飞回我团队在的地方，再跟他们一起飞到那个目标城市去开会，就这么个事情你交给agent去做，那听起来好像我们人类很好做。
-</p>
-<p class="transcript-line">
-<span class="time"><strong>[00:08:58]</strong> </span>
-<span class="speaker"><strong>发言人2: </strong></span>
-但是agent首先他去搜航班的时候，他就会直接碰到一个问题。你跑到携程去哪儿一打开啪人机验证你是不是真人。对，这一步直接他就挂了，那那这个事情怎么办？他就会发现失败了。那他要去想说，那我可能可以有几种办法，我可以去一些不要验证码的网站看看。那哪些不要验证码呢？那他就要开始去试，他他并不能清楚的知道哪个地方没有验证码。那他可能最后他就会试到说是某个航司的那个官方网站，它是不需要验证码的，这个还不好说是哪个航司，因为不同的航司有的也是有的。
-</p>
-<p class="transcript-line">
-<span class="time"><strong>[00:09:35]</strong> </span>
-<span class="speaker"><strong>发言人3: </strong></span>
-对，不同类型。对。
-</p>
-<p class="transcript-line">
-<span class="time"><strong>[00:09:36]</strong> </span>
-<span class="speaker"><strong>发言人2: </strong></span>
-但是他知道要从这个死胡同里出来，然后自己去找。那那这里面像这样子的一个动作，其实还是在于说你要教会他说，首先你你要你要给他这个环境，你得教他说，你不懂的时候，你可以去互联网上去找。然后找到了以后，找到网页，你也不能只看一下网页上面是不是搜了就有出来结果。有可能你下面滑一滑滑到了一个它里面的某个入口，跳进去以后，那边是不需要验证码的。
-</p>
-<p class="transcript-line">
-<span class="time"><strong>[00:10:08]</strong> </span>
-<span class="speaker"><strong>发言人2: </strong></span>
-对对对，就是这样子的一个东西，实际上你要交给他那那这样的东西，就是大脑是不说的，就是大模型是不说了。大模型只是说刚才我们说的那个目标，告诉他你可以出去找这个东西，我给我出个方案。但是这个agent他就得刚才这种很具体的打开一个网页，碰到了人机验证怎么办？不行了，我就要去找个没人机验证的。没有人机验证了以后，我在这个网页里面有很多广告，把广告去掉，然后找出我要的那些信息。所以这些每一个步骤，在一审自己在找的时候，如果没有听。通过调教，你就想象像一个新生的小小学生去上网，他上网的时候看的东西，他什么东西都没见过。
-</p>
-<p class="transcript-line">
-<span class="time"><strong>[00:10:52]</strong> </span>
-<span class="speaker"><strong>发言人1: </strong></span>
-他上去学一遍。
-</p>
-<p class="transcript-line">
-<span class="time"><strong>[00:10:54]</strong> </span>
-<span class="speaker"><strong>发言人2: </strong></span>
-他连广告都要研究半天。直到最后发现。
-</p>
-<p class="transcript-line">
-<span class="time"><strong>[00:10:56]</strong> </span>
-<span class="speaker"><strong>发言人3: </strong></span>
-他学习相机。
-</p>
-<p class="transcript-line">
-<span class="time"><strong>[00:10:57]</strong> </span>
-<span class="speaker"><strong>发言人2: </strong></span>
-拿出去了以后没有东西就是这些东西都会让你觉这决定了说这个产品你需要打磨，你得在细节上教他怎么做事。
-</p>
-<p class="transcript-line">
-<span class="time"><strong>[00:11:08]</strong> </span>
-<span class="speaker"><strong>发言人1: </strong></span>
-所以我觉得我们讲到了争议点，就是大家觉得说为什么menus争议这么大？然后大家实际用完其实有的是下头的。然后实际又有的人觉得说，天哪，自动化能力这么强，然后大就非常担心这个打工感这么强的人，未来就不需要我来打工了。其实我觉得这是还是我们上老师讲这个例子，其实还是我们上一期节目讲到一个观点。就是做大模型跟做应用的其实是2拨人。
-</p>
-<p class="transcript-line">
-<span class="time"><strong>[00:11:37]</strong> </span>
-<span class="speaker"><strong>发言人1: </strong></span>
-很多人会诟病说menus团队背后是Monica对吧？那他们什么套壳之王，我觉得这个说法其实是不公平的。对，确实做大模型跟做应用的是两帮人。因为现实的情况巨复杂无比。就像老邱刚才讲，你可能遇到一个路你要绕开，遇到一个验证你要绕开。你不能用纯思考推理的方式是去解决这个问题，那你这样的算力会消耗的巨大无比。同样为什么manus说它的成本只有deep research的10分之1？我觉得这就是成本上的差距，就表现出团队能力站上面的差距。
-</p>
-<p class="transcript-line">
-<span class="time"><strong>[00:12:13]</strong> </span>
-<span class="speaker"><strong>发言人1: </strong></span>
-就做大模型跟做应用根本是两拨人。你换做open I去做这个事情，他其实不会去给你处理这么细节的问题。要不要绕路，要不要去想想这个绕过验证，还是多划几下。他不会去想这些问题，他可能就是用纯推理，纯思考去解决一个问题。因为他是，所以说用大脑来做做所有决策的这一流？他的能力也是在大脑这一端。但是这种以手脚快见长的这种产品应用或者团队，他可能会优先先去做，先去do IT，他的just do IT。
-</p>
-<p class="transcript-line">
-<span class="time"><strong>[00:12:51]</strong> </span>
-<span class="speaker"><strong>发言人1: </strong></span>
-然后最后不行了，我再来想为什么？所以我觉得大家在说他这个成本低，单个任务的成本像来到大概要两块钱美金。虽然我觉得还是高了对吧，但是至少你比那个deep research其实是低低了非常多的这其实体现的是团队上面的差异。
-</p>
-<p class="transcript-line">
-<span class="time"><strong>[00:13:13]</strong> </span>
-<span class="speaker"><strong>发言人1: </strong></span>
-因为我觉得为这个问题其实也是回答很多人就问，那你这个menus的门槛跟护城河是什么？我觉得技术是没有护城河的这这你觉得这东西有啥护城河？这不可能有护城河，等一下我们聊聊到从技术拆解上它不会有护城河。所有护城河还是说你的我觉得是就是你的流派不同，团队不同，团队的基因不同，擅长的做的事不同。我觉得如果你非要以技术来做护城河，我觉得在AI这个世界里面，现在我觉得技术已经不会有护城河了。所以我觉得这是我特别要补充的，但不代表我认为说那个是完全做的，是啊对的，或者是说他他没有问题。那我只是说回答一下主流的一些声音对于他的偏见。
-</p>
-<p class="transcript-line">
-<span class="time"><strong>[00:14:02]</strong> </span>
-<span class="speaker"><strong>发言人1: </strong></span>
-我觉得后面我们就要讲到说像AI agent他的挑战到底是什么呢？因为我觉得过去a agent他喊了一年，其实也喊了非常长的时间，包括YC各种知名的机构，他们也大力的在投这个agent，然后并在鼓吹agent应该是AI的下半场。但我想说先从技术上面聊一下，老兄你觉得他在技术上的挑战是什么？因为据说一个任务他有时候会执行的蛮久的对吧？一个多小时。过程中对其实这块是不是对资源的消耗也会非常大。然后他目前是基于怎么样的一个技术来做的一个架构的拼接。老师可不可以我们分享一下？
-</p>
-<p class="transcript-line">
-<span class="time"><strong>[00:14:51]</strong> </span>
-<span class="speaker"><strong>发言人2: </strong></span>
-Matters其实还是比较典型的，把我们现在开源的几个方面的工具都整合到一起。它最核心的是它有一个远程的桌面，是乌邦图的一个虚拟数虚拟机的一个东西。这乌邦图实际上是以我们之前好几期都提过的linux架构里面做的比较好的一套自成一体的一个操作系统了。你知道这套操作系统里面，他把这个就基本的这些文件存储浏览，然后各种各样的就是你想到的所有操作系统东西，他做的都相对比较好。我们自己现在在生产环境用的服务器也都是无帮助的那linux的这个系统，它就是做了一个很好的控制。
-</p>
-<p class="transcript-line">
-<span class="time"><strong>[00:15:31]</strong> </span>
-<span class="speaker"><strong>发言人2: </strong></span>
-好像因为我们在这两天很多开源的这个，比如说我们开社区的老朋友卡马AI，他们做的那个OWL，还有那个呃呃meta GPT那个团队直接做了一个叫open minus OK。他们其实在复刻这个menus的时候，最核心的那个应该说他们也受到了启发，就是可以把这个远程的乌邦图的这个系统，它的整个two 2K的做的用的更好。他在我们看到在minus这边的话，他把这套里面，在相当于远程几件事情。他就是打开了远程的这个机器，专门给你打开的这个机子给你。然后这个机子给你的时候，他会去去给你创建你的工作空间。然后你现在要做一个事情了，那他就把他这个事情专门会做一个plan的一个文件。其实在那边是做了大量的文件系统来拆解你的需求。
-</p>
-<p class="transcript-line">
-<span class="time"><strong>[00:16:29]</strong> </span>
-<span class="speaker"><strong>发言人2: </strong></span>
-那把你的文件，就是有plan这样子MD的一个文件去把你的需求拆解到那个里面去。然后执行的时候它会有相应的这个业务，有后面的文件去拆解这些任务，然后也在这个电脑上面做。比如说因为有很多事情，他可能是用了python或者其他语言，去帮你做了一些编程，去做爬虫搜索对吧？打开浏览器去做这个开个浏览器，然后帮浏览器里面又去解析的这个页面，又做了很多的动作。这些动作东西的话，它都是在武钢图的这个虚拟环境里面去做的那而且在你需要的时候，你甚至可以停下来去跟这个乌邦图系统去交互。
-</p>
-<p class="transcript-line">
-<span class="time"><strong>[00:17:12]</strong> </span>
-<span class="speaker"><strong>发言人2: </strong></span>
-比如说我们刚才讲到了去输人机验证码其中一套方式，他也会提醒你，你可以你来输这个验证码，然后把我绕过去。但是这个缺点就是他在等你了，你不动它就一直不动了。还有一种就是高温度。对对对，是的，可能你windows你得输个那个那个什么串码，对吧？处理好，你得输一下不然你觉得一定要确认一下。对对对，那agent他的智能一点就是你一直不给我，我就跳过这一步去想别的方式了。就我们刚才说的，他会去找其他没验证码的网站，但是它中间会停一下，那这个地方给你一个反馈。像这样子的一个动作的话，甚至你要去登你的小红书，你要去登你的linking什么样的账号，你也可以在那边去授权，登录到他那边去。
-</p>
-<p class="transcript-line">
-<span class="time"><strong>[00:17:55]</strong> </span>
-<span class="speaker"><strong>发言人2: </strong></span>
-这样的动作都是在那台电脑上完成的。因为你想你在电脑上能干的事，在那边就能干大部分，不是全部全是。所以说这里后面会讲到一些限制，就是你虚拟机一定是虚拟机，跟甄姬还是有点差别。那那在这里面他把这个动作就是整个不管说调浏览器写代码这些东西都能在这台虚拟机完成了以后，让他再返回来把一些信息给你抓回来，这能够让你去直接执行。
-</p>
-<p class="transcript-line">
-<span class="time"><strong>[00:18:21]</strong> </span>
-<span class="speaker"><strong>发言人2: </strong></span>
-看到一个报告，或者是说看到一个在线的一个网站也好，觉得你可能让他编了一些小的程序什么的。那这些东西他最后以也还是以文件对吧？PPT也好，excel什么的他给你传回来，然后你就可以下载了。那就是他简单的来说就大致有这么一个动作在背后。在这过程中间他会用到我们刚才说的agent调度的事情，就是不止一个agent这背后的话一定叫marty agent的一个东西，就是说是个多多agent协作的一个动作。
-</p>
-<p class="transcript-line">
-<span class="time"><strong>[00:18:52]</strong> </span>
-<span class="speaker"><strong>发言人3: </strong></span>
-就我们大模型大模型它在什么地方用的？
-</p>
-<p class="transcript-line">
-<span class="time"><strong>[00:18:56]</strong> </span>
-<span class="speaker"><strong>发言人2: </strong></span>
-大模型其实就是这个agent他自己在思考，比如说要编码，或者说要搜索，要做什么时候他都要调。大模型就是agent的大脑是大模型，就我们刚才说agent实际上它只是手agent，它是靠背后要靠大脑的。没有大脑它这个agent是废的。
-</p>
-<p class="transcript-line">
-<span class="time"><strong>[00:19:12]</strong> </span>
-<span class="speaker"><strong>发言人3: </strong></span>
-没有大脑的话他是不能工作。据你所知，像现在这个无论是monos也好，还是说咱们现在的common AI他们用的这个open water，也好像他们都是用一个大模型，还是用多个大模型协同呢？
-</p>
-<p class="transcript-line">
-<span class="time"><strong>[00:19:24]</strong> </span>
-<span class="speaker"><strong>发言人2: </strong></span>
-通常来说他们都是支持多个大模型协同的那其。
-</p>
-<p class="transcript-line">
-<span class="time"><strong>[00:19:27]</strong> </span>
-<span class="speaker"><strong>发言人1: </strong></span>
-多agent当时我们在面临这个概念的时候，也有很多人问。对，包括我们自己在做的时候跟客户解释，跟合作伙伴解释，其实都不太好解释。我再补充一下，你可以把它理解为，如果就是单agent你还还是跟聊天一样是单聊，那多agent你就拉个群变成群聊的。这里面有学习我语言、生活语言，语文课代表、数学课代表，对吧？那你提一个问题，每个课代表给你做一个思考，然后最后汇成一个结论，告诉你老师我们今天应该要怎么做对吧？大概是这样，就是一个比较不负责任的想法。
-</p>
-<p class="transcript-line">
-<span class="time"><strong>[00:20:03]</strong> </span>
-<span class="speaker"><strong>发言人1: </strong></span>
-给大家打个比方，就多agent，就这里面我刚才漏讲了一点，其实就是多agent在这里面也是一个很重要的技术的突破，对吧？因为过去一个单agent的想象力它还是有限制的，单agent加这种自动化的这种想象力它还是有限制的。但现在到一个多agent的调度，包括现在的通过开源社区，整个像agent这一块的基础设施也已经非常成熟了。我觉得就可以孕育出更多未来孕育出更多像minus这样的这种现象级的产品。这个我是一点都不会惊讶的，包括我们看到像cm meta GPT都已经两天就复刻出来了，对吧？我觉得未来只会说我们在垂直领域会看到越来越多的这样开花结果的案例，这是我的观点。
-</p>
-<p class="transcript-line">
-<span class="time"><strong>[00:20:50]</strong> </span>
-<span class="speaker"><strong>发言人2: </strong></span>
-就是minus也是很典型的。因为它在比如说我们最开始说到它的评测，它能够达到跟那个open I的deep search超过的一些分数。这里面其实也就是他做了好的后训练，就我们叫post training。
-</p>
-<p class="transcript-line">
-<span class="time"><strong>[00:21:04]</strong> </span>
-<span class="speaker"><strong>发言人2: </strong></span>
-这块它是用了混合模型去做。因为他们的这个团队是做莫妮卡的团队。莫妮卡本身如果没用过的小伙伴可能大概可以去搜一下。莫妮卡点IM，它这个里面它就是做的是模型融合，融合好了以后卖一个套餐给大家。你买了这个套餐，你就可以用上国际的这些各种各样的模型，你想挑哪个就用哪个，反正就每个月包月以后，你就随便用你自己想用的那一些，然后有一些是有上限的，就高级版可能有一些限额额而已。
-</p>
-<p class="transcript-line">
-<span class="time"><strong>[00:21:36]</strong> </span>
-<span class="speaker"><strong>发言人2: </strong></span>
-它本身莫妮卡这一块就已经做了很多的整合了。他就整合好了这个UI以及API，可以让你方便的从一个地方去调用不同的大模型。所以这个agent他在后面做任何的这种计划执行，还有就是调整，它都是要用大模型去分析的那包括编码这些。这个更是了，那那他会很清。因为他们大概现在已经有几百万用户，在在国内加全球的这个用户量已经有几百万。
-</p>
-<p class="transcript-line">
-<span class="time"><strong>[00:22:07]</strong> </span>
-<span class="speaker"><strong>发言人2: </strong></span>
-莫妮卡这边，所以它其实是一个很好的很典型的to c应用后面延伸出来的一个东西。就他现在在agent这一块的话是会有优势的。他会知道在我们刚才说的，所谓说通用，是因为他其实专门针对了50到70个具体的场景。像刚才说研报，然后订机票等等这种场景。它是本身在莫妮卡那边是有很多应用的。它知道说在相应的场景到底是调GPT好，还是调cloud好，还是调OpenAI的chat其他的或者是我们国内的某些模型。Kimi豆包他知道这些东西。所以他在做agent的时候，他可以调用不同的根据你的需求在不同。
-</p>
-<p class="transcript-line">
-<span class="time"><strong>[00:22:51]</strong> </span>
-<span class="speaker"><strong>发言人1: </strong></span>
-有优势的。比如说编码，他可能大家现在都爱用cloud。
-</p>
-<p class="transcript-line">
-<span class="time"><strong>[00:22:55]</strong> </span>
-<span class="speaker"><strong>发言人2: </strong></span>
-对，cloud就是编编码这块最好，但是它也会贵一些。对，所以刚才说的两美金它能够更低很多的一个东西。就是说你组合知道你在完成一个，因为它是一个组合的场景，它不是一个单一的场景了。那组合场景之下，在具体的拆分的这些每一个步骤里面，可以用不同大模型去做完成它的这个任务。所以这个是去解决了说，就你刚才那个问题，大模型在做什么？大模型其实是背后最重要的还是那个大脑。
-</p>
-<p class="transcript-line">
-<span class="time"><strong>[00:23:27]</strong> </span>
-<span class="speaker"><strong>发言人1: </strong></span>
-然后他就你脑梗的话，你就中风了，手脚A卷就动不了了，其实就是这样一个道理不。
-</p>
-<p class="transcript-line">
-<span class="time"><strong>[00:23:35]</strong> </span>
-<span class="speaker"><strong>发言人3: </strong></span>
-是的，所以他这个定价其实两美金，不是说他自己的钱，还是应该是调用大模型token的钱，对吧？
-</p>
-<p class="transcript-line">
-<span class="time"><strong>[00:23:43]</strong> </span>
-<span class="speaker"><strong>发言人1: </strong></span>
-这不是他的定价。
-</p>
-<p class="transcript-line">
-<span class="time"><strong>[00:23:44]</strong> </span>
-<span class="speaker"><strong>发言人3: </strong></span>
-这个是他的整个成本，不就是成本，就是成本来说，对，这应该是他token的钱。
-</p>
-<p class="transcript-line">
-<span class="time"><strong>[00:23:49]</strong> </span>
-<span class="speaker"><strong>发言人2: </strong></span>
-对吧？是。所以聊到这里我觉得可能要补充一下。就是从我的角度来看，我不觉得他们是有我是觉得从做产品的角度来讲，他们这个产品现在的定位跟阶段以及宣发的方式，其实是很值得大家去学习的。
-</p>
-<p class="transcript-line">
-<span class="time"><strong>[00:24:04]</strong> </span>
-<span class="speaker"><strong>发言人2: </strong></span>
-因为他其实相当于你们理，我刚才讲了他背后团队是莫妮卡的这个基础。就是莫妮卡发展到这几百万用户之后，他们再开始来做这边的这个minus，大概就其实这才半年多的时间。然后他们的整个的决策就是说我们现在发布他们现在发布这个minus相当于是一个demo的状态。你看他没有定价，他并没有定价，因为他确实还没到定价那个阶段，他其实想要先，而且我们刚才讲的agent的复杂度和各方面的成本，还有就是你运行它的需要所付出的成本都很很高，有很高的不确定性。所以它其实这个阶段它是其实不适合去直接定价，它更适合现在我先搞一波这个早期的用户能够给我反馈到底大家要什么。然后要到这里面，我要找出那些性价比相对OK可控对吧？然后我们再加大投入去做一个更成型的产品。
-</p>
-<p class="transcript-line">
-<span class="time"><strong>[00:25:03]</strong> </span>
-<span class="speaker"><strong>发言人2: </strong></span>
-因为它现在像不是一个完整的产品，所以我也不觉得他现在是真真的是营销过度。就因为营销过度很多是一个是有自媒体老师，大家写文章本身会有一些这个方面的特点。还有一个就是大家的情绪本身也在这儿。
-</p>
-<p class="transcript-line">
-<span class="time"><strong>[00:25:17]</strong> </span>
-<span class="speaker"><strong>发言人2: </strong></span>
-因为最近deep sk刚前面刚炸了这么大一个雷，大家对新的AI的应用是会有期待的那在这个时候又用不上，因为只能自己没办法直接用，这毕竟不像TPC完全不是开源产品。它这个不是他现在的demo阶段，其实他也服务不了几个人，那那大家服务的时候的质量也没有办法保证。所以在这个阶段，我觉得做产品的现在这个阶段，它实际上是一个demo阶段。在这个时候的话，我觉得我们目前看到的这个表现其实是算是比较好的。而且他可以再去进一步计划下一步要干嘛。
-</p>
-<p class="transcript-line">
-<span class="time"><strong>[00:25:52]</strong> </span>
-<span class="speaker"><strong>发言人1: </strong></span>
-他后面会开源对吗？
-</p>
-<p class="transcript-line">
-<span class="time"><strong>[00:25:54]</strong> </span>
-<span class="speaker"><strong>发言人2: </strong></span>
-开源的时间是相对比较滞后一点，可能是模糊。像比较年底，可能是好像是年底他说了later of the year。对。
-</p>
-<p class="transcript-line">
-<span class="time"><strong>[00:26:02]</strong> </span>
-<span class="speaker"><strong>发言人3: </strong></span>
-later year估计是对，并没有说具体是什么时候。
-</p>
-<p class="transcript-line">
-<span class="time"><strong>[00:26:06]</strong> </span>
-<span class="speaker"><strong>发言人1: </strong></span>
-所以我觉得这就涉及到我们前几期讲到的一个观点，就是我觉得很可能后面开源会变成一种商业模式。那就是用这种初期放demo的方式去达成共识，去建立信心，引起关注，然后再用开开源的形式去做商业模式。大家如果对开源商业模式怎么做，可以回看一下我们前几期的，就是一次讲清楚开源是什么这一期节目。对我觉得我觉得他们应该受了非常多deep sick的启发，就是整个模式。
-</p>
-<p class="transcript-line">
-<span class="time"><strong>[00:26:39]</strong> </span>
-<span class="speaker"><strong>发言人2: </strong></span>
-上面的一个启发，必定是有在。
-</p>
-<p class="transcript-line">
-<span class="time"><strong>[00:26:41]</strong> </span>
-<span class="speaker"><strong>发言人1: </strong></span>
-他这个时间点，我觉得是一个很好的承前启后的时间点。就因为大模型从预训练到后训练的这个转折的标志性，我觉得应该是deep seek。大模型从的应用，我觉得从chat到agent的这个转折点点，我觉得很有可能是menus会开启这个共识我只能说他能建立共识。但是对于他后面会不会做下去，会不会是他，我觉得这是有一些挑战在里面的。
-</p>
-<p class="transcript-line">
-<span class="time"><strong>[00:27:12]</strong> </span>
-<span class="speaker"><strong>发言人1: </strong></span>
-包括刚才老师讲的，其实总结一下就是他其实是一个复杂的工程组合。这里面每个螺丝都是需要严丝合缝的那可能有个地方你掉链子了，或者是说某台乌班图版本怎么样出问题了，或者是说你这里面某个基建某个模型迭代了，其实都会牵一发而动全身。然后包括我们自己的经验，也是像很多框架，我们半年前在用的，到现在他就已经过时了，用不了了，就是技术的演变太快坏了。所以越是这种复杂性的工程化产品，其实在后面的维护迭代上面其实会更脆弱。这个是我们在行业里面看到的一个现实。反而就是从这也是说明了为什么大模型他们不会去直接做应用，deep seek他不做应用，OpenAI也不太做应用，对吧？这是为什么？就是因为这里面的配套成本太高，包括人才，包括维护，包括后面的市场的成本其实是非常高的那我们也看到了刚才老师讲的像camera AI，像meta g GPT，都是用了不到两天的时间就光速复刻了。
-</p>
-<p class="transcript-line">
-<span class="time"><strong>[00:28:27]</strong> </span>
-<span class="speaker"><strong>发言人1: </strong></span>
-这也说明大家的技术储备是到位的，而且大家的整个技术的储备其实是都在一条水平线上了。就看这一枪谁先开了，对吧？就十月革命这一枪谁先打了，昌吉所以先做了是吧？
-</p>
-<p class="transcript-line">
-<span class="time"><strong>[00:28:42]</strong> </span>
-<span class="speaker"><strong>发言人2: </strong></span>
-是的，所以比如说如果说就是从技术角度看的话，比如说像卡马AI做的这个他们开源的这个OWL agent框架的话，他本身在他们有一个agent评测上面，就我们刚才说不是minus是超过了open NI的。那其实这个呃camera的这个是开源的框架，它在跑分上其实也会超过部分。对，那只是说没有超过那么多。但是从开源的角度来讲，它已经是非常出色了。那那他们的储备是比较够的，因为从ChatGPT222年底开始，他们就已经开始在研究这个多多agent的这个框架。到现在有两年多了，快三年了。而且大部分都是很多全国内国外的各种院校的博士，大家自己在开源组织的贡献去做这样的框架在研究，因为这个是个底层研究，所以说这些底层的东西应该说，本身现在都是开放的。
-</p>
-<p class="transcript-line">
-<span class="time"><strong>[00:29:36]</strong> </span>
-<span class="speaker"><strong>发言人2: </strong></span>
-就我们刚才说到minus做的每一个技术步骤，都是有对应的开源组件的。其实，就是看大家怎么把这个开源组件工程化，然后还有产品化。你一定要你看上面的实际上是做了很好的交互方面的突破的。就是你看deep sick其实做了一件很大很重要的事情，就是他把思考链完全开放了给大家看。但是在那个时候，NNI是每个月要收20美金，甚至200美金才能让你去用。还看不到他的思考链。但现在能看到思考链的DP sig我相信用过的人都知道，这完全是一个全新的体验。
-</p>
-<p class="transcript-line">
-<span class="time"><strong>[00:30:09]</strong> </span>
-<span class="speaker"><strong>发言人2: </strong></span>
-就是你你做事情的思维和跟他交互的方式都发生了改变。在agent这一层它也是一样的，就是把我们刚才说的背后操纵电脑这件事情，而且完全开放给你。而且这台电脑你还可以在合适的时候接管过来。对这种交互其实是以前并没有人想到要这么去做这件事情。但是这个技术已经是有一段时间了，大概是这样的这。
-</p>
-<p class="transcript-line">
-<span class="time"><strong>[00:30:32]</strong> </span>
-<span class="speaker"><strong>发言人3: </strong></span>
-一点我特别想说，就是说我觉得因为我也是看了好几个案例，包括他们的演示案例，它这个里面有两点特别打动我。第一点就是说这个过程整个它是有录像的。对我看到有几个评测博主都说就是他整个的思考过程，包括完成过程，然后最终给你不是一个结果。他是把这个所有过程都录像下来，你可以加速来回看的。是的，这个就非常有工程化的思维的方式。而且所以我觉得非常的这个互联网就是让你觉得我给你的东西是一个从头就是让你整个享受过程同时来享受结果。第二来讲的话，其实最终结果我看到很多人评测都是就不是自媒体老师说，只是说这些真正的评测博主都说了，就是说真正完成度并不是很高。有些任务的完成度可能在30%，尤其是在比如说这些博主很擅长领域里面，他这个完成度看起来的话，结果最终可能就是30%到50%这个之间。
-</p>
-<p class="transcript-line">
-<span class="time"><strong>[00:31:21]</strong> </span>
-<span class="speaker"><strong>发言人3: </strong></span>
-但是中间的很多过程物，就是所谓的过程的产物，或者说过程的启发和步骤特别有启发性，而且特别有收获。是的，他们觉得说这个收获会远大于所谓两美金的成本。因为这个过程中他们可能会突破他们之前以前的一些固有思维，是尤其是在多模态多模型的使用中。这些东西是可能是原来一个老手都没有都曾经没有经历过，或者说没有去尝试过的那这个启发性我觉得是特别重要的。然后这也是让我觉得这个产品本身如果咱不从技术角度来谈，因为已经有人在复课了，所以我觉得从技术上也证明了并没有门槛。
-</p>
-<p class="transcript-line">
-<span class="time"><strong>[00:32:01]</strong> </span>
-<span class="speaker"><strong>发言人3: </strong></span>
-但是从工程化角度来讲的话，或者从整个产品的角度来讲的话，我觉得是有巨大突破的。而且他们打出这一枪，就是因为咱们也知道，其实有很多创业公司也好，或者大厂也好，都在做同样的事情，对吧？只不过各自有各自的节奏，然后也可能我们背后猜测，莫妮卡也是受到了一些刺激，或者说也是在箭在弦上不得不发。如果再不发，别人可能就发了。
-</p>
-<p class="transcript-line">
-<span class="time"><strong>[00:32:24]</strong> </span>
-<span class="speaker"><strong>发言人3: </strong></span>
-然后也有可能是说他们有够有足够的自信，觉得自己的这种产品创新在短时间之内还没有人能想到。那我先发出来，就我占据了最起码把这个名声和这个地位占住了，江湖地位占住了，对吧？是的，然后。再说这个就是整个在这两个过程中，我觉得它已经是完全是不适合在GPT1个同等级的产品了。它完全是可能是GPT后时代的一个产品了。无论是说我们来说录像回放也好，还是说整个中间过程物的启发也好，完全是不同的东西了。这是我个人的感受，所以我更愿意把它定义成一个产品。
-</p>
-<p class="transcript-line">
-<span class="time"><strong>[00:33:01]</strong> </span>
-<span class="speaker"><strong>发言人1: </strong></span>
-这点其实蛮重要的。因为在AI时代整个技术其实是相对被拉平的，然后其实大家要去有护城河或者突破这套思维方式。我觉得可能大家去适应一下，可能未来更多的创新是交互创新。
-</p>
-<p class="transcript-line">
-<span class="time"><strong>[00:33:16]</strong> </span>
-<span class="speaker"><strong>发言人1: </strong></span>
-交互跟垂直领域洞察的创新可能都会很小，它不会是很大的。因为在技术这一端，其实大家底座都是这几个核心的模型。很有可能你调优的更好，有可能你私有化你调优的更好，你可能垂直训练的更好。但是其实能够拉开差距跟破圈的，我会认为更多的还是在交互上面。特别是你看现在有越来越多的交互设计师开始用AI来创业。你会发现这样一个趋势，就过去他们的一些能力在AI上面其实是能够被放大的。就是他更能够说理解用户，更能够知道什么时候加入AI什么时候不加入AI我觉得这个是特别重要的。
-</p>
-<p class="transcript-line">
-<span class="time"><strong>[00:33:58]</strong> </span>
-<span class="speaker"><strong>发言人1: </strong></span>
-包括还有一个认知，我觉得也是可以分享给大家。我们其实在去年就一直在讲，就是现在做很多AI的产品，AI含量其实不用太高，我觉得百分之二十三十就好了，剩下就是自动化，剩下基本上70%都是自动化。我觉得这个结论也是立在这里的。
-</p>
-<p class="transcript-line">
-<span class="time"><strong>[00:34:17]</strong> </span>
-<span class="speaker"><strong>发言人1: </strong></span>
-今天大家看到的像莫妮卡也好像meos也好，这样的产品基本上就是AI含量不高，然后主要靠自动化来实现的这样一个事情。然后靠工程突破、工程创新，靠交互体验，对吧？我觉得这几件事情合起来可以给大家构建一个未来AI产品长什么样的图谱。也就是说AI含量可能30%，然后70%靠自动化。然后它的背后更多的是靠交不创新加工程组合创新。这样的产品会越来越是下一个时代能够跑出来的AI产品。
-</p>
-<p class="transcript-line">
-<span class="time"><strong>[00:34:54]</strong> </span>
-<span class="speaker"><strong>发言人1: </strong></span>
-至于模型侧，我觉得我们的结论也已经出来了。就做模型的厂商他其实很难去做应用了。包括他的成本跟他的思维方式，跟他的这种能力，都不再做应用这一块。所以我觉得大家也不要再去问那种什么大模型厂商做了怎么办，你的技术护城河在哪里这种傻问题了。我觉得真的不要再问这种问题了。
-</p>
-<p class="transcript-line">
-<span class="time"><strong>[00:35:19]</strong> </span>
-<span class="speaker"><strong>发言人1: </strong></span>
-所以我觉得这是我自己看到的一个趋势，所以我更愿意为称minus这样的产品，它不是一个割韭菜的。因为哪怕他割韭菜，他在我心里我会认为他是开场开场就是开启下半场或者开启AI时A卷时代第一枪的那个人。那这样的人可能最后会死掉，但我觉得他是永远是值得我们尊敬的。包括deep seek也是开启了所谓叫后训练时代的一个大模型的第一枪。我觉得他们都在未来整个在AI的历史上会有很重要的位置，然后也会被记上一笔。可能最后赢家不是他，但是他们会有一个很重要的地位在那里。这是我其实特别想透过这期节目，就是抛开所有这些事实去跟大家聊的一个核心的观点。就是谁是那个打第一枪的人，我们要把它记录下来，我觉得这个是非常重要的对对对对。
-</p>
-<p class="transcript-line">
-<span class="time"><strong>[00:36:18]</strong> </span>
-<span class="speaker"><strong>发言人3: </strong></span>
-对我说我就是在开头就直接先说，我旗帜鲜明的支持所有的我们国内的小伙伴们去做AI创业。因为这就是未来的趋势，对吧？无论你现在做了什么，一定会为未来天下浓墨重彩一笔。尤其像这种能够把产品及完整的产品呈现出来的。
-</p>
-<p class="transcript-line">
-<span class="time"><strong>[00:36:36]</strong> </span>
-<span class="speaker"><strong>发言人1: </strong></span>
-你想现在还有哪一个行业能够这样子，大家就是放下手机坐下来通宵聊一个晚上。我认为他未来会是怎么样的这是几年前我们做新零售，在几年前做o to o的时候，然后资本充裕的时候可能是这样的那现在现在可能除了AI，没有几个行业是能够让大家真的分享真知灼见。然后坐下来聊一个晚上，畅想未来都不会累的。可能很多需求都不是靠谱的对吧？但是我觉得这个过程非常值得被记录，因为我们自己也是创业者。另外一个就是要讲到商业化了。宪哥，刚才我们有一个话题一直没有讲，就是你对通用其实是有一点点的意见的，对不对？我想听一下你的观点，就是你认为现在下一步我们在做AI的应用或者做AI的创业，通用的风险在哪里呢？
-</p>
-<p class="transcript-line">
-<span class="time"><strong>[00:37:33]</strong> </span>
-<span class="speaker"><strong>发言人3: </strong></span>
-我觉得就是纯个人观点，当然也不成熟。因为这两天看monos这块的，就是他的这个案例，尤其刚才小老老徐也提到了他这个宣发，还有他这个推广的方式，确实是非常耳目一新。但是我跟老修这样的观点不一样，我是反倒觉得他的产品和宣发是不匹配的。
-</p>
-<p class="transcript-line">
-<span class="time"><strong>[00:37:51]</strong> </span>
-<span class="speaker"><strong>发言人3: </strong></span>
-首先先回答小苏这个问题，就是关于通用。我觉得通用agent这一定是未来的趋势，而且这个未来很近。随着咱们现在大模型的能力在不断突破，然后参数级别在升高，而且成本在降低，甚至说像阿里最近出的新的模型，参数级别非常低，但能力已经超过了deep seek RY。那通用推荐一定是下一步真正的应用的一个路径，这个已经被验证了。
-</p>
-<p class="transcript-line">
-<span class="time"><strong>[00:38:15]</strong> </span>
-<span class="speaker"><strong>发言人3: </strong></span>
-可以说我觉得monos在这里面功不可没。但是这个事情我更觉得应该是大厂去做的。实话实说，我觉得可能很快。比如说像字节也好像腾讯也好，都有可能会直接拿出比这个monos要高要高级很多的这种通用agent。因为他们有自己具备自己算力的优势，模型的优势，各方面成本的优势，对吧？
-</p>
-<p class="transcript-line">
-<span class="time"><strong>[00:38:37]</strong> </span>
-<span class="speaker"><strong>发言人3: </strong></span>
-大家可以看到就是为什么一个邀请码拿不到，主要还是能力不行，他接受不了这么多请求，那这个事情怎么办？短短期内一个创业公司是弥补不了的，即使他这个功成名就，能够融到很多钱，也需要时间去去实现。但大厂是不具不怕的。人也有，设备也有，算力也有，什么都有啊。只是说产品可能打磨的不够好。那现在有了可以参考产品，那我一定可以做出来，所以这是第一点。
-</p>
-<p class="transcript-line">
-<span class="time"><strong>[00:39:03]</strong> </span>
-<span class="speaker"><strong>发言人3: </strong></span>
-第二点来讲的话，我觉得个人觉得他现在展示出来这个能力，其实是个to b的产品，这是我个人的看法。就是之前Monica做的东西是个to c的产品，他积累几百万客户，而且做的比较成功，净利润很不错，我是很很佩服的。但像现在这个产品，我更觉得它是一个to b产品的demo。
-</p>
-<p class="transcript-line">
-<span class="time"><strong>[00:39:20]</strong> </span>
-<span class="speaker"><strong>发言人3: </strong></span>
-为什么这么讲呢？就是它展示了一个什么可能性呢？就是当你不是一个模型的公司，比如说你不是一个大厂，不是一个本身拥有模型公司，所以你就不需要有立场，你可以拿起来任何一个你认为好的模型去用就好了。
-</p>
-<p class="transcript-line">
-<span class="time"><strong>[00:39:33]</strong> </span>
-<span class="speaker"><strong>发言人3: </strong></span>
-就像我自己一样，我同时都会用四五个，国内的也有，国外的也有，都会用。然后在完成任务的时候，有用英文环境的，用中文环境的。有的是主要靠搜索的，有靠思考和推理的那我就把它结合起来用呗，对吧？那可能我就是自己用的熟不熟的问题。那agent就是或者说叫多模态，或者说叫多agent这种协同不就是在做这件事儿。所以我觉得这应该是一个to b的一个场景。
-</p>
-<p class="transcript-line">
-<span class="time"><strong>[00:39:55]</strong> </span>
-<span class="speaker"><strong>发言人3: </strong></span>
-怎么讲呢？比如说针对法律对吧，那法律的话可能会有很多的案例，或者说有总结，或者说有报表？或者跟客户的沟通信邮件等等等等，或者说法律的中间的很多记录。然后针对的会计，更是就是每一个行业它都有自己固定的流程。
-</p>
-<p class="transcript-line">
-<span class="time"><strong>[00:40:11]</strong> </span>
-<span class="speaker"><strong>发言人1: </strong></span>
-但又同那个的他就是做这个卖程序员的卖。
-</p>
-<p class="transcript-line">
-<span class="time"><strong>[00:40:15]</strong> </span>
-<span class="speaker"><strong>发言人3: </strong></span>
-没错。所以它是一个怎么说呢？它是一个复杂的过程。而这个复杂过程靠光靠大模型的一个所谓推理也好，预训练也好，都是不够的那中间不就是需要多多模态的或者是要多agent的协同。那现在蒙诺斯展示出来的不就是这个东西吗？所以这个东西其实是针对行业去做的，而不是去做to to to对to c去做。比如说我to c我现在今天就想说给女朋友送一个什么样的礼物，这绝对是个好任务。但我给扔给他了几个小时，给我推荐出来东西不现实，或者说中间还有幻觉，那我何必？
-</p>
-<p class="transcript-line">
-<span class="time"><strong>[00:40:47]</strong> </span>
-<span class="speaker"><strong>发言人3: </strong></span>
-但对于一个to b的行业，我已经有固定的流程。这个流程再复杂，它也可以拆解到各个环节。因为我毕竟每一个岗位都有人，都有自己的job description，对吧？都有自己的岗位描述。那我把它都做成一个agent，再告诉他怎么协同，让agent自己开会。同时我又买得起算力，我管他成本多少，对吧？我这一做一件事儿，我雇一个人一个月几千块钱。然后我搞这么一套东西，我靠我一个月可以干十个人的活，然后还没有一个人的。
-</p>
-<p class="transcript-line">
-<span class="time"><strong>[00:41:12]</strong> </span>
-<span class="speaker"><strong>发言人1: </strong></span>
-工资的投产比投产比觉得还是to c的，你的一个单一需求值不值两块美金？
-</p>
-<p class="transcript-line">
-<span class="time"><strong>[00:41:19]</strong> </span>
-<span class="speaker"><strong>发言人3: </strong></span>
-没错，所以我觉得这个是个to b场景，就在于说他应该就是如果我当然咱不说这个本身也是很成功的企业，如果是我在做同样的产品的话，那我会首先考虑就是在某几个行业里面去做某几个行业的部署，或者说对某个行业的这个。这个就像之前我们讨论过的，在这个行业中属于不是属于最最顶层，但属于上升阶段的企业。我就给他做部署，他也花得起这个钱。但同时他也有这个心情想要去争第一，那我就给他去降本增效呗。而且肯定打出来效果是绝对是杀手级别的。所以在我看来这个产品本身的宣传和他的定位是错配的。当然了当然老师也提到就是说这个东西OK可以让整个社会都先认知到你，但这个认知本身是有代价的。他现在来讲的话，他会获得的名声和他所拿到的这个反馈，其实是有反噬的对吧？
-</p>
-<p class="transcript-line">
-<span class="time"><strong>[00:42:13]</strong> </span>
-<span class="speaker"><strong>发言人1: </strong></span>
-因为第一个很有可能成为炮灰，一般第一个人都很有可能成为炮灰。
-</p>
-<p class="transcript-line">
-<span class="time"><strong>[00:42:17]</strong> </span>
-<span class="speaker"><strong>发言人2: </strong></span>
-而且尤其是有点被造神了的这个问题。
-</p>
-<p class="transcript-line">
-<span class="time"><strong>[00:42:20]</strong> </span>
-<span class="speaker"><strong>发言人3: </strong></span>
-没错，而且他被利用了。比如说你说股市上突然几十只股份，这个股票sorry，几十只股票AI相关股票都涨停板，然后说跟他有关，那说句不好听的话，他干嘛要背这个锅？但他没办法，你既然做这种宣传，做的时候你就要背，对吧？然后在海外却没有什么声音，对吧？而且注册是需要用google注册，用apple注册，也没有说微信登录，你这个不就是找骂吗？但是说这个对于产品本身有错吗？产品本身没有任何错误，公司也没有任何错误，对吧？
-</p>
-<p class="transcript-line">
-<span class="time"><strong>[00:42:50]</strong> </span>
-<span class="speaker"><strong>发言人3: </strong></span>
-很多媒体在发文中间都用了东方破晓这个词，那我敢保证大家都可能都是有过通气儿的。然后既然说说的没有用轩话费，那我也是同意的。有可能大家都刷脸，那当然没花钱了，都是刷脸换资源换来的。但是你不能说你没有组织，你没有你不能说你没有安排。所以从我个人看来看的话，我觉得这个宣发和产品本身是错配的，这是我完全个人的观点。
-</p>
-<p class="transcript-line">
-<span class="time"><strong>[00:43:13]</strong> </span>
-<span class="speaker"><strong>发言人1: </strong></span>
-应该是我觉得还有一个背后我觉得可能是打错方向了，有可能打国外的，但是不小心国内响了。因为你你很很清晰，你能看到在X上面，在油管上面基本上没有讨论，顶多是台湾媒体讲一讲，对吧？
-</p>
-<p class="transcript-line">
-<span class="time"><strong>[00:43:29]</strong> </span>
-<span class="speaker"><strong>发言人3: </strong></span>
-X还被封了吗？X账号还被封了吗？封了之后，完这刚刚解封。对，所以我觉得他的这个宣发错配，或者说怎么样执行错配。这个东西其实不是说人工能算，人为能算得下来的对，但是这个算不清，是个很好的案例。
-</p>
-<p class="transcript-line">
-<span class="time"><strong>[00:43:45]</strong> </span>
-<span class="speaker"><strong>发言人1: </strong></span>
-对对对，这个算不清楚。这营销很多是意外的事情，但我觉得从整个实际我觉得他们想打的方向可能是国外，但这个事情变成在墙内箱了，这个是应该是没有算到的。
-</p>
-<p class="transcript-line">
-<span class="time"><strong>[00:43:58]</strong> </span>
-<span class="speaker"><strong>发言人2: </strong></span>
-没算到。
-</p>
-<p class="transcript-line">
-<span class="time"><strong>[00:43:59]</strong> </span>
-<span class="speaker"><strong>发言人3: </strong></span>
-刚老邱也说到了，情绪点也在这儿了。因为DC之后一定还要有一个东西，让这个高潮不会随便结束，大家都不愿意散场。
-</p>
-<p class="transcript-line">
-<span class="time"><strong>[00:44:07]</strong> </span>
-<span class="speaker"><strong>发言人1: </strong></span>
-对对对。
-</p>
-<p class="transcript-line">
-<span class="time"><strong>[00:44:08]</strong> </span>
-<span class="speaker"><strong>发言人2: </strong></span>
-就是大家遇到了很多事情看起来都会有滤镜。对，看起来都会有滤镜。就比如说我都看到有人甚至会说你干嘛这个产品中国人做的，还要用英文去介绍他什么的，我觉得这个也会被人喷，然后就会有很多情况。
-</p>
-<p class="transcript-line">
-<span class="time"><strong>[00:44:23]</strong> </span>
-<span class="speaker"><strong>发言人3: </strong></span>
-对，就是围观DBC的人，大家都没散去，都还在看热闹。突然有个东西出来，大家就围过去了。但是这个东西是不是适合围过去，这其实说句话是那什么，所以团队的那个创始人，联合创始人不还出来几次的在自己的微博上发消息来澄清，对吧？我觉得这个都非常被动。因为他本身的营销活动肯定是有策划的。然后本身做的事情一开始也是非常成功的，让大家迅速知道一个名字，迅速知道一个团队。但是在后面的处理其实是完全超出它本身的控制能力的。而且产品本身也是像刚才说的是错配的。
-</p>
-<p class="transcript-line">
-<span class="time"><strong>[00:44:56]</strong> </span>
-<span class="speaker"><strong>发言人2: </strong></span>
-对，就是有太多营销后面的意外了。所以我说从产品本身的正常的宣发的一些叫计划来讲，我是觉得在他这个阶段，这就是做了大概半年多的一个产品。其实对其实是很OK的，是很亮丽的样板工程的。对的。
-</p>
-<p class="transcript-line">
-<span class="time"><strong>[00:45:12]</strong> </span>
-<span class="speaker"><strong>发言人3: </strong></span>
-只不过破圈是意外，而且破圈之后的这个结果他承担不了。
-</p>
-<p class="transcript-line">
-<span class="time"><strong>[00:45:17]</strong> </span>
-<span class="speaker"><strong>发言人1: </strong></span>
-对，所以这个也是一个很好的一个提醒。就是我有时候我觉得平衡还是比较重要的，什么阶段做什么样的事情。当然有很多意外发生的时候，你要能接得住，接不住，你可能就我觉得你可能就不要说话。我觉得学学deep sick不要说话可能会更好。我讲一下我对通用跟这个垂直的一个观点。我觉得我很同意贤哥的观点，就是你做通用的AI产品是最后一定会被大模型反噬的，就一定会被大模型给溢出的效应给淹没掉了，我觉得这是一定的。
-</p>
-<p class="transcript-line">
-<span class="time"><strong>[00:45:54]</strong> </span>
-<span class="speaker"><strong>发言人1: </strong></span>
-走我们不说从技术上面来讲，就是说卡这个制高点这个事情。但有人发现了一个通用的应用，那大模型厂商一定会把这个制高点给卡住。因为这个通用的模型它是最吃算力，最吃资源的。对那最后大家赚的其实都是底座的钱，就都是云服务，都是英伟达对吧？都是open I的算力，这些都最后其实都是他们吃香，所以这个位置是一定会被大模型厂商去卡住的那第二个我觉得就是说我觉得创业的机会还是在垂直。
-</p>
-<p class="transcript-line">
-<span class="time"><strong>[00:46:33]</strong> </span>
-<span class="speaker"><strong>发言人1: </strong></span>
-对我觉得会这样。因为我觉得在AI的后面的产品不会像之前移动互联网那样做的，就是有很大的这种to c爆发性几何性增长的机会。我觉得哪怕像像ChatGPT这样的产品，它的整个渗透率都还不够，对吧？所以我觉得不会出现那样的现象，但是会出现有一个内化的现象。就是企业把内化了，然后更多的个人把它给内化了，然后更多的这种创新的产品把它给内化了。会更多是用在自己的内化的这种效应上面。我觉得会是我看到的一个趋势。
-</p>
-<p class="transcript-line">
-<span class="time"><strong>[00:47:13]</strong> </span>
-<span class="speaker"><strong>发言人1: </strong></span>
-反而说你今天比如说通过做Monica做menus，做成一个全民级的to c的产品，这个不太可能。我觉得这个是不太可能的，AI不会有这样的现象，我个人的判断，所以我很同意贤哥刚才讲的观点，就是他有没有可能是做to b呢？我觉得没想好，但是至少开源这个动作告诉大家，我还没想清楚。第二个我还我可能没有啥门槛。第三个不要对我太高的期待。第四个我想看一下有什么样的场景能跑出来。
-</p>
-<p class="transcript-line">
-<span class="time"><strong>[00:47:44]</strong> </span>
-<span class="speaker"><strong>发言人1: </strong></span>
-所以我觉得贤哥讲的两个点，一个就是通用可能最终一定是会被大模型做掉，我认同。第二个就是他最后是做可能是做to b的，对我觉得这个也是有可能的。因为我们很明显的看到这里面非常成功的案例就是老修。
-</p>
-<p class="transcript-line">
-<span class="time"><strong>[00:48:01]</strong> </span>
-<span class="speaker"><strong>发言人1: </strong></span>
-我们之前看过那个David对吧？就是卖这个程序员，AI的程序员按人头卖对吧？按人头卖或者。
-</p>
-<p class="transcript-line">
-<span class="time"><strong>[00:48:10]</strong> </span>
-<span class="speaker"><strong>发言人2: </strong></span>
-按team卖。对。
-</p>
-<p class="transcript-line">
-<span class="time"><strong>[00:48:11]</strong> </span>
-<span class="speaker"><strong>发言人1: </strong></span>
-按team卖。
-</p>
-<p class="transcript-line">
-<span class="time"><strong>[00:48:12]</strong> </span>
-<span class="speaker"><strong>发言人2: </strong></span>
-对，都不便宜，但是比真人便宜多了，这是一个。
-</p>
-<p class="transcript-line">
-<span class="time"><strong>[00:48:16]</strong> </span>
-<span class="speaker"><strong>发言人1: </strong></span>
-很成熟的商业模式，我们SARS时代就这么玩的，最后软件卖不出去就卖人投诉呗，对不对？对，这其实只是我想补充商业模式。
-</p>
-<p class="transcript-line">
-<span class="time"><strong>[00:48:27]</strong> </span>
-<span class="speaker"><strong>发言人3: </strong></span>
-对我想补充就是我觉得他们团队很有可能还是想做海外市场，这是我的个人感受，就是一种模模糊糊感觉。虽然这个事情本身在中国发酵的，在大陆咱们发酵的非常大非常快，但是毕竟大家拿不到。第二来讲的话，他本身团队的基因也是做海外市场，对吧？做海外产品的这个东西，所以很有可能没准最后就包装成一个产品在海外发售。然后其实相当于就是因为海外人都适合，或者说怎么说呢？就是说在这个海外市场上，很多人都已经习惯sas的模式了，对吧？就是说对代理模式、sas模式或者说一种为了满足一个功能去付费的模式。所以这个东西本身在国内是会被卷死，在海外反倒能够活得比较舒坦。
-</p>
-<p class="transcript-line">
-<span class="time"><strong>[00:49:07]</strong> </span>
-<span class="speaker"><strong>发言人2: </strong></span>
-是从产品设计上来讲，其实很明确，他就是目标是海外用户。现在这个点倒是我觉得并没有，至少在产品上我没有看到说他是专门为国内设计的，其实主要就是为海外的用户设计的对，那这一块的话，而且刚才讲的to b这个的话，我觉得也是特别的要赞同一下。是为什么？是因为to b这块地方，我觉得这两天我有也有很多城市技术的伙伴们来找我聊一些这个方面的东西。其实都是大家会看到说像minus这样子的一个出圈。正好他大家现在又有了开源的那些复刻版。然后现在大家就是我看到，因为我的好多朋友是在中大厂里，他们正在研究这些复刻版。因为复刻版肯定是有些东西是没有，肯定不会像他商业化的那么的完善。
-</p>
-<p class="transcript-line">
-<span class="time"><strong>[00:49:58]</strong> </span>
-<span class="speaker"><strong>发言人2: </strong></span>
-但是我刚才说的主要框架，主要的组件全部都是有的。那那这些的话他们就想去拿过去解决一些他们现在在企业内的一些问题。因为企业内其实我看到的一些中大厂已经是他们的大型，他们的大老板，或者说至少CEO级别的人已经在下命令了。就我这个事情必须现在要AI化，至于怎么搞，你们来就我大脑说的来。
-</p>
-<p class="transcript-line">
-<span class="time"><strong>[00:50:22]</strong> </span>
-<span class="speaker"><strong>发言人3: </strong></span>
-我就要搞点钱，你具体你们这些手脚给我出去干。
-</p>
-<p class="transcript-line">
-<span class="time"><strong>[00:50:25]</strong> </span>
-<span class="speaker"><strong>发言人2: </strong></span>
-他们这些是相当于A。
-</p>
-<p class="transcript-line">
-<span class="time"><strong>[00:50:27]</strong> </span>
-<span class="speaker"><strong>发言人1: </strong></span>
-所以你看，我刚才就说AI时代的一些产品很有。有可能是最后被内化掉了，被大厂内化了，被企业内化，或者被超级个体给内化了。
-</p>
-<p class="transcript-line">
-<span class="time"><strong>[00:50:36]</strong> </span>
-<span class="speaker"><strong>发言人3: </strong></span>
-那有企业单位嘛？
-</p>
-<p class="transcript-line">
-<span class="time"><strong>[00:50:37]</strong> </span>
-<span class="speaker"><strong>发言人1: </strong></span>
-对对对，这是非常有可能的。因为技术在上面不是门槛，而且对比移动互联网时代，它的要素不同。就是你没有听过一个C端的产品，它是靠效率成为卖点的，不可能对吧？你你你一个C端的产品，如果说移动互联网的技术来讲，它解决的是信息不对称。你不是不对称这个事情来做，就快速的用户增长跟跑马圈地，但你到AI它纯纯是一个效率的事情。当你这个事情就是解决一个效率的时候，我觉得这个事情他很难在C端就变成一个现象体级的产品。哪怕是GPT，它可能都没有这么强的没办法渗透率。是的，对对对，所以我觉得to b跟内化这个事情是可能是一个给大家提供的一个我们的意见。对对对，就我们的一个参考方向可能不一定对你可能觉得说未来我们需要一个全AI的抖音OK，我觉得也会有可能会有吧。
-</p>
-<p class="transcript-line">
-<span class="time"><strong>[00:51:37]</strong> </span>
-<span class="speaker"><strong>发言人3: </strong></span>
-有可能会有。对。
-</p>
-<p class="transcript-line">
-<span class="time"><strong>[00:51:39]</strong> </span>
-<span class="speaker"><strong>发言人1: </strong></span>
-也需要对吧？需要一个全AI的知乎全部都是AI就你一个真人，所有人都夸你。
-</p>
-<p class="transcript-line">
-<span class="time"><strong>[00:51:46]</strong> </span>
-<span class="speaker"><strong>发言人2: </strong></span>
-也合理，也有这样的用户需求。是的。
-</p>
-<p class="transcript-line">
-<span class="time"><strong>[00:51:48]</strong> </span>
-<span class="speaker"><strong>发言人1: </strong></span>
-对对对，也是也是需也是好的需求。对，就是我觉得目前来讲，我个人从我们抓主要矛盾的来讲的话，我觉得AI抓的几个主要矛盾。第一个就是通用对垂直了对吧？我觉得这是最最主要的一个矛盾。然后第二个就是效率，效率跟这种怎么讲呢？就效率的提升这个事情是不是就是AI最核心的要素了。我觉得如果AI它只是锚定的所有的价值都是效率的话，那我觉得企业会比个人更在意效率。所以我建议大家多把目光放到to b，包括整个你看国外的AI投资也是主要以to b为主。
-</p>
-<p class="transcript-line">
-<span class="time"><strong>[00:52:30]</strong> </span>
-<span class="speaker"><strong>发言人2: </strong></span>
-对对对，反正七成78成以上.
-</p>
-<p class="transcript-line">
-<span class="time"><strong>[00:52:33]</strong> </span>
-<span class="speaker"><strong>发言人1: </strong></span>
-都是七八成以上对吧？也都是以to b为主。对，但是就是我觉得在这个风暴过后以后，大家可以好好的想一想，就是这个下半场用deep seek加上自动化，加上多agent，然后能够去做什么样的事情。我觉得这是minus给我们带来的更重要的一个启发。
-</p>
-<p class="transcript-line">
-<span class="time"><strong>[00:52:53]</strong> </span>
-<span class="speaker"><strong>发言人1: </strong></span>
-也就是AI的下半场开始从AIGC到AI do IT？开始到把它给做出来了。那这个时候大家开始好好的关注一下，到底什么是agent，agent的机会在哪里？希望大家可以通过这期节目真的去找到自己的真命的AI的方向。对，这也是我们节目的宗旨。
-</p>
-<p class="transcript-line">
-<span class="time"><strong>[00:53:14]</strong> </span>
-<span class="speaker"><strong>发言人3: </strong></span>
-对，没错，OK没错。对，好，希望我们的这个小讨论也不能构成任何什么结论，能够给各大各各位创业者或者说对AI感兴趣的听众们带来一些小启发。
-</p>
-<p class="transcript-line">
-<span class="time"><strong>[00:53:25]</strong> </span>
-<span class="speaker"><strong>发言人2: </strong></span>
-也希望大家更好有所。
-</p>
-<p class="transcript-line">
-<span class="time"><strong>[00:53:26]</strong> </span>
-<span class="speaker"><strong>发言人3: </strong></span>
-进关关注我们人民公务员受ai.
-</p>
-<p class="transcript-line">
-<span class="time"><strong>[00:53:29]</strong> </span>
-<span class="speaker"><strong>发言人1: </strong></span>
-好好，这期节目就到这里，谢谢大家的收听。
-</p>
-<p class="transcript-line">
-<span class="time"><strong>[00:53:32]</strong> </span>
-<span class="speaker"><strong>发言人3: </strong></span>
-好了，我们下期再见。
-</p>
-<p class="transcript-line">
-<span class="time"><strong>[00:53:33]</strong> </span>
-<span class="speaker"><strong>发言人2: </strong></span>
-各位拜拜拜拜拜拜拜。
-</p>]]></content:encoded>
-            <pubDate>Sat, 08 Mar 2025 09:37:10 GMT</pubDate>
-            <guid>67cc0bd80766616acd7b4a88</guid>
         </item>
     </channel>
 </rss>
