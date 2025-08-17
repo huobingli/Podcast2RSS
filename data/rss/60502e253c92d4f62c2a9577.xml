@@ -4,7 +4,1185 @@
         <title>十字路口Crossing</title>
         <link>https://www.xiaoyuzhoufm.com/podcast/60502e253c92d4f62c2a9577</link>
         <description>关注科技、互联网、AI 的播客</description>
-        <lastBuildDate>Tue, 12 Aug 2025 04:37:07 +0800</lastBuildDate>
+        <lastBuildDate>Mon, 18 Aug 2025 04:38:00 +0800</lastBuildDate>
+        <item>
+            <title>“让天下没有难做的 Agent” | 对谈旭卿（阿里云无影事业部总裁）、安陈（AgentBay 产品负责人）</title>
+            <link>https://www.xiaoyuzhoufm.com/episode/689efce251528e172ad7f729</link>
+            <description>中国的大厂高管卧虎藏龙，但普遍低调，难得出来接受播客的长时间专访。
+本周，「十字路口」的嘉宾就是这样一位始终在幕后深耕的重量级嘉宾：阿里云无影事业部总裁张献涛（旭卿）。他长期负责阿里云的弹性计算团队，带领团队完成了“神龙”架构的设计与落地。这套架构奠定了阿里云在全球云计算行业中的独特地位，并在技术会议与论文中获得广泛的国际认可。
+旭卿和我们聊的话题是 Agent Infra。
+2025 是 Agent 元年，十位创业者有八位都在造 Agent。十字路口过去几个月做了大量相关的访谈与评测，发现决定 Agent 能力上限的，不止模型本身，也不止工程和交互的打磨，基础设施也至关重要——Agent Infra。
+Memory、Tool Use、Task Planning、Runtime、Multi-Agent 协作、安全与隐私机制等等环节缺一不可。就像一个新员工入职后，我们要给他们配电脑、配网线，也要提供钉钉、飞书、邮箱还有各种 AI 效率工具，如果基础设施搭不好，Agent 和新员工一样，都只能干瞪眼。
+有挑战，就有机会 ——因此，不论是创业公司还是大厂，都在纷纷加码 Agent Infra。阿里云无影团队推出的 AgentBay，就是一次全新的尝试：为 Agent 提供云端沙箱、算力和工具链，搭建一个完整的运行环境。
+本周，我们邀请：
+* 张献涛（旭卿）｜阿里云无影事业部总裁
+* 屈立威｜阿里云AgentBay 产品负责人
+与我们一起，探讨 Agent Infra 的过去、现在与未来——从技术原理到行业格局，从战略判断到组织转型，再到创业与投资的机会地图。
+如果你是开发者、创业者、投资人，这是帮助你看得更懂 Agent Infra 的一期。
+🟢 第 1 部分：Agent Infra 全景
+04:49 什么是 Agent Infra？和传统 AI Infra 有何不同？
+07:26 为什么偏偏是今年，Agent Infra 成了行业焦点？
+09:20 Agent Infra 的六大组成：记忆、工具调用、任务编排、沙箱、多 Agent 协作、安全
+10:07 不同赛道的玩家和产品，你最关注谁？
+12:44 哪个环节价值最高？哪个最容易被忽视？
+13:29 Agent 开发者应选自研 v.s. 第三方？
+🟢 第 2 部分：无影 AgentBay
+167:4 为什么无影选择做 AgentBay？产品路径怎么走？
+18:58 沙箱之战：AgentBay vs E2B，差异与优势在哪？
+22:30 对标 AWS AgentCore：相同点与不同点
+26:52 云端沙箱安全吗？如何消除开发者的顾虑
+32:51 并发能力多大才算强？20 万 Session 背后的故事
+🟢 第 3 部分：机会与选择
+36:24 在 AgentBay 上，什么 Agent 产品最多、增长最快？
+39:09 云电脑业务还在高速增长，为何转向 Agent Infra？
+45:18 Manus: “我们从来不仅仅是一个AI，一直是一个独一无二的「个人云计算平台」”
+🟢 第 4 部分：管理与职场
+43:46 作为大厂高管，牵头启动新赛道，最难的地方是什么？
+48:50 「弹性计算的神级大佬」的职业生涯
+58:22 如何提前两年判断趋势？
+01:04:02 如何说服老板投入新方向？
+01:06:03 结尾彩蛋：招聘邀约
+欢迎订阅「十字路口」播客
+🚦 我们关注新一代 AI 技术浪潮带来的行业新变化和创业新机会。
+🚦 十字路口是乔布斯对苹果公司的一个比喻，形容它站在科技与人文的十字路口，伟大的产品往往诞生在这里。AI 正在给各行各业带来改变，我们寻找、访谈和凝聚新一代 AI 创业者和 AI 时代的积极行动者，和他们一起，探索和拥抱新变化，新的可能性。
+👦🏻 主播 Koji：我联合创办了街旁/新世相/躺岛，发起了 AI Hacker House 这个新一代 AI 创业者的社群空间。我相信科技尤其是 AI 是我们这一代人最大的价值创造机遇。欢迎大家找我聊天，碰撞想法，链接下一个可能性。Koji 的即刻，Koji 的网站
+👧🏻 主播 Ronghui：我在美元 VC 工作过，也做过五年的硅谷驻站记者，关注科技发展和商业故事，欢迎大家找我聊天，和我交流。Ronghui 即刻
+🎄 本播客由「新世相声音森林播客计划」支持。</description>
+            <content:encoded><![CDATA[<h1>转写链接</h1>
+<link>https://tongyi.aliyun.com/efficiency/doc/transcripts/4l6xqa7re6aeqm2y</link><br>
+<h1>节目摘要</h1>
+<div class="summary">本次对话深入探讨了新一代人工智能技术的发展趋势及其对行业和创业带来的新变化。嘉宾们强调了AI在各行业的变革作用，并特别提到了“十字路口”的比喻，象征科技与人文交汇，预示伟大产品诞生于此。讨论还涉及了AI创业者社区的建立，如“AI hacker house”，强调科技创新作为价值创造机遇。提及云服务提供商如阿里云在构建AI基础设施方面的重要角色，包括提升计算能力、存储、网络及安全云沙箱环境。后期讨论着重于“agent info”（智能体信息），强调构建智能体所需组件和基础设施的重要性。最后，对话提出2025年可能是agent技术的元年，强调构建适合agent运行的完善基础设施的迫切性和重要性，突出了为AI开发者提供全面高效工具和服务的关键性。</div><br>
+<h1>章节速览</h1>
+<div class="chapters">
+<div class="chapter-item">
+<span class="time"><strong>[00:00:00]</strong> </span>
+<span class="chapter-title"><strong>AI Agent时代的基础设施挑战与机遇</strong></span>
+<div class="chapter-summary">对话围绕AI Agent的发展，强调了除了模型和用户体验，基础设施如记忆、工具使用、任务规划等的重要性。指出在Agent Info领域的挑战也孕育着创业机会，无论是创业公司还是大厂都在加强该领域的投入，以促进Agent的有效运作和协作。</div>
+</div>
+<div class="chapter-item">
+<span class="time"><strong>[00:02:07]</strong> </span>
+<span class="chapter-title"><strong>Agent技术应用与未来展望</strong></span>
+<div class="chapter-summary">对话围绕agent技术的应用展开，探讨了其在日常工作中的实用工具，如前端设计和论文阅读等，以及对未来创业机会和职业发展的影响。提及了集团内部平台的使用体验和代码编写在管理角色中的变化，展现了agent技术从个人到行业层面的广泛应用与前景。</div>
+</div>
+<div class="chapter-item">
+<span class="time"><strong>[00:04:44]</strong> </span>
+<span class="chapter-title"><strong>Agent Info与传统AI Info的融合与发展</strong></span>
+<div class="chapter-summary">对话深入探讨了Agent Info的概念及其与传统AI Info的关系，指出Agent Info不仅涵盖了AI推理的高效计算，还融入了执行代码、网页浏览等能力，以及长期记忆和工具连接的存储与网络需求。随着行业共识的形成，Agent Info成为构建高效Agent应用的关键，特别是在今年，各大公司纷纷转向Agent技术的研发与应用，标志着技术发展的新阶段。</div>
+</div>
+<div class="chapter-item">
+<span class="time"><strong>[00:08:38]</strong> </span>
+<span class="chapter-title"><strong>Agent Info关键赛道解析与行业趋势</strong></span>
+<div class="chapter-summary">对话深入探讨了Agent Info领域的核心组成部分，包括记忆、工具使用、任务规划、沙箱、多Agent协作及安全隐私等关键赛道。参与者分享了Memory Zero、Memory GPT等在记忆管理方面的创新，以及在任务规划、安全领域的行业实践。强调了各组件对Agent开发者的重要性，指出虽然所有环节都至关重要，但在实现和感知上存在先后次序。</div>
+</div>
+<div class="chapter-item">
+<span class="time"><strong>[00:13:28]</strong> </span>
+<span class="chapter-title"><strong>Agent开发与第三方服务选择的重要性</strong></span>
+<div class="chapter-summary">对话围绕Agent开发中自研与使用第三方服务的选择展开，强调了提供高效通用组件的重要性。客户在选择Agent服务时关注点各异，如并发处理能力、长期记忆系统等。安全和身份管理虽常被忽视，但对云服务提供商至关重要。阿里云分享了Agent开发领域的创业机会及自身在AgentBad项目上的思考。</div>
+</div>
+<div class="chapter-item">
+<span class="time"><strong>[00:17:01]</strong> </span>
+<span class="chapter-title"><strong>大模型与智能体能力拓展：从垂直领域到系统化平台</strong></span>
+<div class="chapter-summary">讨论了大模型和智能体通过配备电脑、浏览器等工具增强能力的趋势，以及从基础能力向长期记忆、身份管理和安全等需求的演进。强调了云计算厂商在普惠市场与垂直领域开发者之间的定位差异，以及通过API开放能力、构建完整平台的战略选择。对比了AWS的agent core与自身agent被的定位，突出了系统化、完整性和面向SMB客户的优势。</div>
+</div>
+<div class="chapter-item">
+<span class="time"><strong>[00:22:42]</strong> </span>
+<span class="chapter-title"><strong>阿里云加大投入AI代理服务，聚焦用户使用而非营收</strong></span>
+<div class="chapter-summary">对话讨论了阿里云在AI代理服务领域的战略投入，强调了CEO对agent info的重视及资源的增加，但未设定营收目标，而是关注用户使用情况。认为AI代理服务是AI应用的重要方向，旨在构建生态能力，而非单纯追求商业利益。</div>
+</div>
+<div class="chapter-item">
+<span class="time"><strong>[00:26:52]</strong> </span>
+<span class="chapter-title"><strong>云端沙箱与本地沙箱的安全性探讨</strong></span>
+<div class="chapter-summary">对话围绕云端沙箱与本地沙箱的安全性展开讨论，指出云端沙箱在数据保护、抗攻击能力及专业团队守护方面具有优势，而本地沙箱可能面临木马病毒等安全隐患。云厂商通过投入大量资源确保数据安全，提供端到端的安全保护，强调云环境的单一纯粹性，以及代码运行失败不会影响本地系统的优势。</div>
+</div>
+<div class="chapter-item">
+<span class="time"><strong>[00:32:40]</strong> </span>
+<span class="chapter-title"><strong>AI Agent应用与未来商业模式探讨</strong></span>
+<div class="chapter-summary">对话围绕AI Agent的应用场景、高并发需求、以及未来商业模式的变化展开。讨论了通用Agent、Coding Agent在企业内部自动化改造中的应用，以及垂直领域如金融、医疗的投资机会。指出随着技术发展，收费模式将从算力售卖转向服务化收费，强调了AI技术在提升效率、创造价值方面的作用。</div>
+</div>
+<div class="chapter-item">
+<span class="time"><strong>[00:39:09]</strong> </span>
+<span class="chapter-title"><strong>大厂高管分享转型决策与团队调整策略</strong></span>
+<div class="chapter-summary">对话围绕大厂高管如何在业务增长良好的情况下决定转型，以及在转型过程中如何协调资源和团队成员的挑战。高管强调了长期投入的重要性，特别是在To B业务中，以及如何将AI与现有业务结合以创造更大价值。同时，讨论了在转型过程中如何平衡现有业务增长与新赛道的投入，以及如何处理团队成员对转型的不同态度，确保战略业务的持续发展。</div>
+</div>
+<div class="chapter-item">
+<span class="time"><strong>[00:44:23]</strong> </span>
+<span class="chapter-title"><strong>云电脑：重塑个人计算新时代</strong></span>
+<div class="chapter-summary">对话深入探讨了云电脑的发展趋势及其在个人和企业领域的应用。云电脑因其高并发、弹性扩展、多端漫游及自然语言驱动等特性，正逐步成为满足个人与企业算力需求的关键工具。尤其在超级个体时代，云电脑不仅支持大规模任务调度，还通过数字员工概念，实现了人与数字分身的高效协同，预示着云电脑在重塑个人计算体验方面的巨大潜力。</div>
+</div>
+<div class="chapter-item">
+<span class="time"><strong>[00:47:36]</strong> </span>
+<span class="chapter-title"><strong>面对AI浪潮，技术专家如何转型与应对</strong></span>
+<div class="chapter-summary">对话围绕技术专家在AI时代面临的转型挑战展开。提到GTC展会带来的震撼，促使制定长期战略规划。回顾容器技术的局限性及神龙服务器的布局，展现技术演进历程。讨论AI对就业市场的影响，特别是计算机专业毕业生的高失业率，引发对职场人士如何应对AI冲击的思考。强调技术专家在面对新技术浪潮时的心态调整与战略规划的重要性。</div>
+</div>
+<div class="chapter-item">
+<span class="time"><strong>[00:49:59]</strong> </span>
+<span class="chapter-title"><strong>云计算与AI技术的前瞻性布局</strong></span>
+<div class="chapter-summary">分享者回顾了其在英特尔和阿里云的职业生涯，强调了对云计算和AI技术的前瞻性思考与布局。在英特尔期间，专注于系统虚拟化和开源技术，为云计算的发展奠定了基础。加入阿里云后，致力于构建服务千万级用户的技术平台，并提前布局AI基础设施，成功应对了深度学习浪潮。分享者认为，技术管理者需具备为未来2到3年可能发生的趋势做准备的能力。</div>
+</div>
+<div class="chapter-item">
+<span class="time"><strong>[00:56:13]</strong> </span>
+<span class="chapter-title"><strong>工程师职业发展：深耕领域VS广度拓展</strong></span>
+<div class="chapter-summary">讨论了工程师职业发展的方向，建议初入职场者应专注于某一领域的深度研究，而随着经验积累，可逐步拓展知识面，实现技术的融会贯通，以提升个人竞争力和业务增长潜力。</div>
+</div>
+<div class="chapter-item">
+<span class="time"><strong>[00:58:21]</strong> </span>
+<span class="chapter-title"><strong>科技潮流预判与成功因素分析</strong></span>
+<div class="chapter-summary">通过观察当下科技动态和挑战，总结出对未来科技趋势成功预判的关键在于：敏锐捕捉现有技术难题，勇于探索看似不可能的解决方案，如软硬件协同设计；具备说服管理层投资未来技术的能力，把握战略转型机遇；持续学习与团队成长，将他人难以理解的专业讨论转化为个人成长动力，从而在科技领域实现个人与团队的共同进步。</div>
+</div>
+<div class="chapter-item">
+<span class="time"><strong>[01:02:43]</strong> </span>
+<span class="chapter-title"><strong>面对挑战与未知：如何说服老板投入创新项目</strong></span>
+<div class="chapter-summary">讨论了面对新挑战时的学习态度和说服老板投入未知领域的方法，强调了个人性格对挑战的偏好，以及通过持续沟通和展示项目重要性成功说服老板的过程。同时，表达了对团队成员面对困难时迎难而上、共同推动公司创新发展的期望，以及对加入AI领域人才的欢迎，共同创造更高效的AI平台。</div>
+</div>
+</div><br>
+<h1>问题回顾</h1>
+<div class="qa-item">
+<div class="question"><strong>Q:</strong> 2025年被称为什么的元年，许多创业者都在开发各种agent，能否谈谈决定agent能力上线的关键因素？</div>
+<div class="answer"><strong>A:</strong> 决定agent能力上线的关键因素除了模型本身和工程、用户体验上的打磨外，还有一个至关重要的基础设施——agent info。这包括记忆、工具使用、任务规划、运行时环境（如云端沙箱）以及多agent协作、安全和隐私等机制。</div>
+</div>
+<div class="qa-item">
+<div class="question"><strong>Q:</strong> 那么旭卿，你是否曾经自己写过代码？</div>
+<div class="answer"><strong>A:</strong> 是的，我作为阿里云无影事业部总裁，确实有写过几年代码，尤其是在我刚入职场的时候。</div>
+</div>
+<div class="qa-item">
+<div class="question"><strong>Q:</strong> 请问你们能否科普一下什么是agent info，它与传统的AI info有何关系和差异点？</div>
+<div class="answer"><strong>A:</strong> agent info是与AI infer相关的概念，今年在构建agent应用时，除了AI infer之外，还包括了如记忆、存储、网络、工具链等组件。相较于传统的AI infer关注大规模分布式训练和推理效率，agent info更聚焦于如何搭建一个完整的agent应用，其中涉及了算力提供、存储（如长期记忆）、连接多种工具的能力等。</div>
+</div>
+<div class="qa-item">
+<div class="question"><strong>Q:</strong> 为什么今年agent info成为了业界共识，尤其是在这个时点？</div>
+<div class="answer"><strong>A:</strong> 去年大家更多关注大模型及其相关能力，而在今年随着通用型模型的发展，以及我们意识到赋能构建这些模型的公司需要更高效的agent info支持，因此我们决定转向研发AG的贝利产品，并在世界人工智能大会上成功发布，内外反响非常好。</div>
+</div>
+<div class="qa-item">
+<div class="question"><strong>Q:</strong> 在讨论agent info时，一般有哪些主要组成部分？它们对一个agent的价值分别是什么？</div>
+<div class="answer"><strong>A:</strong> 主要组成部分包括记忆、工具使用、任务规划、沙箱环境、多agent协作以及安全隐私等。比如记忆对agent执行任务时提供上下文窗口；工具使用则允许agent通过各类工具实现具体工作；任务规划关乎如何高效地分配任务；沙箱环境确保代码执行的安全隔离；多agent协作定义工作流编排；而安全隐私则是保障代码安全执行的关键。</div>
+</div>
+<div class="qa-item">
+<div class="question"><strong>Q:</strong> 在agent能够快速爆发之前，存在什么制约因素？</div>
+<div class="answer"><strong>A:</strong> 制约因素在于如果员工需要自行准备办公设备等基础环境，工作效率会很低。如果能提供一个高效易用的A级info，其中包含的各种组件能力能够系统化、高效地提供给背景厂商，那么在开发过程中，这些组件的重要性会大大提高。</div>
+</div>
+<div class="qa-item">
+<div class="question"><strong>Q:</strong> 客户在选择A证服务时最看重什么？</div>
+<div class="answer"><strong>A:</strong> 不同客户关注点各有不同。例如，某大模型厂商更看重能否提供高并发虚拟机的能力；而某汽车公司在打造智能体时，则对长期记忆系统有强烈需求，需要基于向量数据库搭建能记住用户历史询问的系统。</div>
+</div>
+<div class="qa-item">
+<div class="question"><strong>Q:</strong> 你们定制能力很强吗？</div>
+<div class="answer"><strong>A:</strong> 其实我们提供的是通用能力，但每家公司关注的重点可能各异。</div>
+</div>
+<div class="qa-item">
+<div class="question"><strong>Q:</strong> 在提到的模块中，哪个模块往往被agent开发者忽视，但实际上非常关键？</div>
+<div class="answer"><strong>A:</strong> 身份管理和安全这两个领域在早期可能不是所有公司最关注的部分，但云厂商天然具备对此的重视，因为数据隐私保护是必需的，尤其对于灾难性后果的防范至关重要。</div>
+</div>
+<div class="qa-item">
+<div class="question"><strong>Q:</strong> 为什么阿里云要做AG倍（agent倍）？</div>
+<div class="answer"><strong>A:</strong> 随着大模型和agent的发展，它们也需要趁手的工具来提升效率。阿里云最初设想打造类似computer use、Moore use等能力，后来发现客户不仅需要基础能力，还存在长期记忆、身份管理和安全等方面的需求，因此将这些能力规划并实现，成为第二阶段的核心聚焦点。</div>
+</div>
+<div class="qa-item">
+<div class="question"><strong>Q:</strong> 与AWS A键core相比，AG倍有哪些优势或差异？</div>
+<div class="answer"><strong>A:</strong> AG倍相比AWS A键core，在应用性上更简单，更适合中小开发者；在完整性上更强，包含多个环境如MCP、mobile等，并且更加关注长远的agent发展方向，如提供更强的感知和控制能力以及多模态模型支持。</div>
+</div>
+<div class="qa-item">
+<div class="question"><strong>Q:</strong> 在agent info领域，阿里云如何看待普惠和SMB客户？</div>
+<div class="answer"><strong>A:</strong> 阿里云致力于提供普惠服务，让中小型开发者通过简单的API调用即可获得所需能力，符合“让天下没有难做的AI”的理念。</div>
+</div>
+<div class="qa-item">
+<div class="question"><strong>Q:</strong> 阿里云在agent info上的投入如何？</div>
+<div class="answer"><strong>A:</strong> 阿里云内部高度重视agent info，从一号位到各个事业部都对此给予高度关注和资源支持，并不强调短期营收，而是注重更多的客户使用并构建整个生态能力。</div>
+</div>
+<div class="qa-item">
+<div class="question"><strong>Q:</strong> 在AI战略中，AG倍扮演什么角色？</div>
+<div class="answer"><strong>A:</strong> AG倍在阿里云的AI战略中起到了承上启下的作用，它能够将模型能力通过agent info对外开放，并构建易于使用的开发框架，帮助更多用户高效便捷地开发AI应用。</div>
+</div>
+<div class="qa-item">
+<div class="question"><strong>Q:</strong> 云端沙箱与本地沙箱的区别在哪里？对于用户担心登录时不需要重新输入用户名密码，只想使用本地cookie存储信息的情况，该如何说服他们使用云端沙箱？</div>
+<div class="answer"><strong>A:</strong> 本地沙箱是指在用户自己的电脑上运行，而云端沙箱则是在云端环境提供的安全隔离空间。云端沙箱具备更强的能力，如处理大规模并行计算任务，并且从设计沙箱到整体的安全架构，都提供了端到端的数据保护能力。用户需要理解操作系统和服务厂商如微软、谷歌等会妥善保护存储在本地的数据，但本地电脑可能存在木马、病毒等造成泄露的风险。而云端沙箱由第三方托管，环境相对单一且纯净，即使出现问题也能迅速恢复或虚拟化，不会伤害到用户的本地文件和个人隐私信息。</div>
+</div>
+<div class="qa-item">
+<div class="question"><strong>Q:</strong> 目前客户对于并发能力的要求是什么样的水平？</div>
+<div class="answer"><strong>A:</strong> 某国内AT厂商要求日常白天做到20万并发session，这一数字让我们感到惊讶但也合理，因为并发上限取决于用户数量。同时，我们也观察到随着技术发展，客户的高并发需求呈指数级增长。</div>
+</div>
+<div class="qa-item">
+<div class="question"><strong>Q:</strong> 未来是否会出现新的商业模式来替代当前以算力为主的售卖模式？</div>
+<div class="answer"><strong>A:</strong> 当前主要按照算力资源售卖，但长远来看可能会转向应用层收费模式，包括配套模块的成本、状态一致化管理的成本等，算力成本可能会成为较小的一部分。随着客户需求的变化，商业模式会更加多元化。</div>
+</div>
+<div class="qa-item">
+<div class="question"><strong>Q:</strong> 除了通用AI外，在哪些垂直领域或行业可以看到快速增长的AI趋势？</div>
+<div class="answer"><strong>A:</strong> 快速增长的AI趋势主要体现在通用agent和coding agent的商业化和成熟度方面，以及传统企业基于这些通用框架进行自动化改造。此外，金融领域、电商企业、人力资源、医疗行业等也在运用AI技术提升内部效率，进行自动化工作流的改造。</div>
+</div>
+<div class="qa-item">
+<div class="question"><strong>Q:</strong> 无影事业部是做什么的，以及它为何在增长和盈利方面表现较好？</div>
+<div class="answer"><strong>A:</strong> 无影事业部是一个专注于云电脑业务的事业部，该业务增长迅速且有不错的盈利表现。在这样的情况下进行转型需要决心和承担较大机会成本，因为新的转型方向可能需要较长的时间和更多的投入才能看到回报。</div>
+</div>
+<div class="qa-item">
+<div class="question"><strong>Q:</strong> 对于to b业务的看法是怎样的？</div>
+<div class="answer"><strong>A:</strong> 我认为任何to b业务都具有长期性，不像消费类产品那样可以快速获得市场反馈和业绩增长。例如，阿里云的to b业务投资周期通常为十年，强调深耕和长期价值创造。</div>
+</div>
+<div class="qa-item">
+<div class="question"><strong>Q:</strong> 当时为什么将无影作为阿里云的战略性产品，并且后来又做了调整？</div>
+<div class="answer"><strong>A:</strong> 无影事业部在最近几年的增长势头非常好，保持着三位数的增长速度。去年我们将其升级为一级事业部，并认为其在终端云计算领域是最重要的战略性产品。随着大模型AI的发展，我们在思考如何将无影与AI结合，为其未来发展提供更大的能量支持。虽然外界可能误以为我们放弃了云电脑赛道，但实际上我们在该领域的布局仍在继续并取得显著进展。</div>
+</div>
+<div class="qa-item">
+<div class="question"><strong>Q:</strong> 是否有员工对于云电脑业务调整感到失落或不满？</div>
+<div class="answer"><strong>A:</strong> 虽然可能存在一些员工对此感到失落，但总体而言，两边都是战略业务，无影作为已经落地并保持良好增长势头的产品，同样能带给员工成就感。此外，云电脑概念在当下正被重构，预计未来将惠及更广泛的用户群体。</div>
+</div>
+<div class="qa-item">
+<div class="question"><strong>Q:</strong> 如何协调资源和人员，在保证原有业务高速增长的同时，推进新赛道的发展？</div>
+<div class="answer"><strong>A:</strong> 在内部协调过程中，确实面临不少挑战，比如如何权衡资源分配，沟通调动更多人力投入新方向。同时，也要确保原有业务不受影响，能够高效地推进新目标。</div>
+</div>
+<div class="qa-item">
+<div class="question"><strong>Q:</strong> GTC大会对你们制定未来战略规划产生了何种影响？</div>
+<div class="answer"><strong>A:</strong> GTC大会让我们对未来的战略规划有了强烈震撼，并促使我们在当天晚上就确定了未来几年的发展方向。在此之前，我们也曾经历过类似的经历，如2016年因容器技术的发展而布局神龙服务器，从而引领裸金属虚拟化技术的发展。</div>
+</div>
+<div class="qa-item">
+<div class="question"><strong>Q:</strong> 面对AI等新技术浪潮带来的冲击，是否有过心慌或担忧的感觉？</div>
+<div class="answer"><strong>A:</strong> 在我的职业生涯中，经历过多次技术浪潮的冲击，但我始终保持勤奋思考的态度。面对AI冲击时，我会通过深入思考和研究，发现新的研究领域和技术深度，从而适应并应对这些变化。</div>
+</div>
+<div class="qa-item">
+<div class="question"><strong>Q:</strong> 在云计算技术初期，您觉得它是一个怎样的技术，并且在那个阶段是否有人对云计算的核心技术有深入理解？</div>
+<div class="answer"><strong>A:</strong> 当时大家对云计算所需的技术知之甚少，甚至觉得这是一个深奥的技术领域，可能未来会有重要的发展方向。在我毕业前的06、07年，AWS开始崭露头角，当时全世界的顶尖人才都想去他们的团队工作。全世界熟悉云计算核心领域的人可能不超过50人，甚至可能还不到100人。</div>
+</div>
+<div class="qa-item">
+<div class="question"><strong>Q:</strong> 您在云计算领域的早期经历是怎样的，以及您是如何参与到这个浪潮中的？</div>
+<div class="answer"><strong>A:</strong> 我在那个时间点很幸运地参与了云计算的浪潮，在14年加入了阿里，并致力于打造能够服务千万级客户的计算平台。当时我们坚定地重构了技术架构，以适应未来的发展需求。到了16年，我们优化了虚拟机性能，并布局了神龙产品，成为业界标杆。</div>
+</div>
+<div class="qa-item">
+<div class="question"><strong>Q:</strong> 您在AI基础设施建设方面是如何布局的？</div>
+<div class="answer"><strong>A:</strong> 在15年时，我预见到了AI领域未来的需求，特别是在机器学习和图像识别方面，因此提前布局了AI基础设施。到了16年底，我们的产品已经成熟，恰好赶上了深度学习等AI技术的爆发期，为众多中国科技公司提供了超过80%的AI算力需求。</div>
+</div>
+<div class="qa-item">
+<div class="question"><strong>Q:</strong> 对于技术管理而言，您认为应该如何为未来做准备和预判？</div>
+<div class="answer"><strong>A:</strong> 做技术管理时，需要提前2到3年预测可能发生的事情，并为此做一些准备工作，而不是等到浪潮来临时才被动应对。我认为要关注当前发生的事情，并从中寻找未来的线索和趋势。</div>
+</div>
+<div class="qa-item">
+<div class="question"><strong>Q:</strong> 您如何看待现在职场上“全能型”人才的需求，对于工程师个人而言，是应该在自己领域深入还是涉猎广泛？</div>
+<div class="answer"><strong>A:</strong> 对于刚入职场的工程师，建议先在一个领域内深入研究和积累知识，同时拓宽知识面也是很重要的。但若缺乏深度积累，未来的发展可能会受限。对于有几年工作经验的工程师，应当在专注于自己领域的前提下，理解并融会贯通周边技术，这样才能做出有竞争力的产品并促进业务增长。</div>
+</div>
+<div class="qa-item">
+<div class="question"><strong>Q:</strong> 您如何预判并抓住科技领域的重大潮流，例如云计算、弹性计算以及AI等？</div>
+<div class="answer"><strong>A:</strong> 预判成功的关键在于从今天发生的事情中寻找蛛丝马迹，关注行业痛点和挑战，结合当前的技术发展趋势去思考未来可能的变革。当面临看似无法解决的问题时，要敢于挑战现状，寻找创新解决方案，并基于对未来趋势的理解进行战略布局，如提出软硬件协同设计的构想并投入研发芯片等。</div>
+</div>
+<div class="qa-item">
+<div class="question"><strong>Q:</strong> 您是如何说服老板投资并开展芯片研发项目的？</div>
+<div class="answer"><strong>A:</strong> 在提出做芯片的设想时，我通过不断观察、学习和思考，结合当时的技术发展状况和潜在的技术难题，最终找到了说服当时阿里云政企总裁李金支持的理由。经过大约半个月的沟通和讲解，成功说服了他投资这个项目，后来这个项目获得了业界的认可，证明了决策的正确性。</div>
+</div>
+<h1>节目文稿</h1>
+<p class="transcript-line">
+<span class="time"><strong>[00:00:03]</strong> </span>
+<span class="speaker"><strong>发言人1: </strong></span>
+欢迎收听十字路口，我们关注新一代AI技术浪潮带来的行业新变化和创业新机会。十字路口是乔布斯对苹果公司的一个比喻，形容他站在科技与人文的十字路口，伟大的产品往往诞生在这里。AI正在给各行各业带来改变。我们寻找、访谈和凝聚新一代AI创业者和AI时代的积极行动者，和他们一起探索拥抱新变化新的可能性。我是十字路口的科技，联合创办了街旁新石像和唐岛，发起了AI hacker house这个新一代AI创业者的社群空间。我相信科技尤其是AI是我们这一代人最大的价值创造机遇。欢迎大家找我聊天，碰撞想链接下一个可能性。
+</p>
+<p class="transcript-line">
+<span class="time"><strong>[00:00:53]</strong> </span>
+<span class="speaker"><strong>发言人2: </strong></span>
+我是十字路口的容慧，在美元VC工作过，也做过五年的硅谷助战记者，关注科技发展和商业故事，也欢迎大家找我聊天和我交流。
+</p>
+<p class="transcript-line">
+<span class="time"><strong>[00:01:05]</strong> </span>
+<span class="speaker"><strong>发言人1: </strong></span>
+2025年是agent的元年，十个创业者，我们最近聊到的感觉有八个都在造各种各样的agent。在十字路口，我们过去几个月也做了大量的相关访谈与评测，发现有一个规律是决定agent能力上线的。除了模型本身之外，除了大家在工程上，在用户体验上的打磨之外，还有非常重要的基础设施agent info。从记忆，从这个工具的使用，从任务的规划，从这个runtime或者沙箱，然后再进一步到多agent的协作，甚至安全和隐私等机制，这些环节缺一不可。就像一个新员工入职之后，我们要给他配电脑、配网线，要给他装飞书、装钉钉，这样他才能够开始去进行自己的工作。如果基础设施搭不好，一个agent和一个新员工，他们好像就没有办法开始投入。但在这里有挑战也往往意味着会有机会。因此不论是一个创业公司还是是大厂，最近都在纷纷加码agent info。
+</p>
+<p class="transcript-line">
+<span class="time"><strong>[00:02:07]</strong> </span>
+<span class="speaker"><strong>发言人1: </strong></span>
+我们今天非常开心邀请到了阿里云的副总裁，无影事业部的总裁旭卿，还有产品经理安晨，来十字路口和我们一起聊一聊agent的info的过去、现在和未来。阿里云的无影团队，他们推出了agent bay，是一个非常新的尝试，会为agent提供从云端沙箱到算力到工具链等等一系列的一个完整的运行环境。我们今天准备了20个问题，我们会从技术的原理到行业的格局，从创业的机会到职业的建议，帮助大家。
+</p>
+<p class="transcript-line">
+<span class="time"><strong>[00:02:42]</strong> </span>
+<span class="speaker"><strong>发言人1: </strong></span>
+希望可以让你们在信过载的时代建立起一套清晰的agent info的思维框架。因为我们觉得agent info它不只是像旭卿或者像安全这样的技术大佬的事情。我也相信他会和云计算一样，影响到我们每个人的工作和生活，那也会是每一个人的创业的机会所在。我们今天还是先从一个轻松的问题来开场，想请问二位，你们日常用的最多的这个agent的产品是什么？用它来做什么？
+</p>
+<p class="transcript-line">
+<span class="time"><strong>[00:03:11]</strong> </span>
+<span class="speaker"><strong>发言人3: </strong></span>
+首先我用的最多的那个叫outlook，它是一个帮助设计师快速去设计一个前端应用的一个age工具。本质上我用unlock能够通过自然语言一键的生成一个前端的一个交互的一个设计。另外一个的话可能就是我们集团内部一个自研的一个agent就是淘宝团队做的，他们叫新流。这个agent它核心给我处理的一个能力是能够帮我快速的去读一些外网的论文。
+</p>
+<p class="transcript-line">
+<span class="time"><strong>[00:03:37]</strong> </span>
+<span class="speaker"><strong>发言人1: </strong></span>
+旭卿其实我觉得用的比较。
+</p>
+<p class="transcript-line">
+<span class="time"><strong>[00:03:39]</strong> </span>
+<span class="speaker"><strong>发言人4: </strong></span>
+多的也是我们集团内部的，就是one day。One day的话，其实它是面向阿里内部所有员工开放了一个agent平台。你可以认为当然外部的话curse也是非常好用的。
+</p>
+<p class="transcript-line">
+<span class="time"><strong>[00:03:51]</strong> </span>
+<span class="speaker"><strong>发言人1: </strong></span>
+所以旭青你是学计算机的，对不对？是，所以你一开始还是会刚入职场的时候会自己写代码的。
+</p>
+<p class="transcript-line">
+<span class="time"><strong>[00:03:58]</strong> </span>
+<span class="speaker"><strong>发言人4: </strong></span>
+我在阿里还写了好几年在骂对OK。
+</p>
+<p class="transcript-line">
+<span class="time"><strong>[00:04:01]</strong> </span>
+<span class="speaker"><strong>发言人1: </strong></span>
+所以你最后一次写代码是哪一年？
+</p>
+<p class="transcript-line">
+<span class="time"><strong>[00:04:04]</strong> </span>
+<span class="speaker"><strong>发言人4: </strong></span>
+最后一次写代码大概17年18年。
+</p>
+<p class="transcript-line">
+<span class="time"><strong>[00:04:06]</strong> </span>
+<span class="speaker"><strong>发言人1: </strong></span>
+然后因为其实有很多技术管理者，就我们聊到的CTO或者技术一号位都是这个。因为大家做管理之后，可能就开始想这个战略或者想架构，就不会在一线再有那么多代码工作。但是今天科sir回来之后，很多人感觉又重新找回了那种写代码的快乐。
+</p>
+<p class="transcript-line">
+<span class="time"><strong>[00:04:26]</strong> </span>
+<span class="speaker"><strong>发言人4: </strong></span>
+是的，前两天也去拜访了达摩院的院长张建锋，他也在用他写很多的这种代码。
+</p>
+<p class="transcript-line">
+<span class="time"><strong>[00:04:34]</strong> </span>
+<span class="speaker"><strong>发言人1: </strong></span>
+我也很好奇达摩院院长在用科技写什么？
+</p>
+<p class="transcript-line">
+<span class="time"><strong>[00:04:37]</strong> </span>
+<span class="speaker"><strong>发言人4: </strong></span>
+我那天他会他demo了一个游戏，我们知道有windows里边不有。
+</p>
+<p class="transcript-line">
+<span class="time"><strong>[00:04:44]</strong> </span>
+<span class="speaker"><strong>发言人1: </strong></span>
+一个挖雷的图扫雷的程序。好，然后我们接下来就开始聊了一些info。我们第一个问题是想请二位给大家科普一下什么是agent info，尤其是它和传统的AI info有什么样的关系，差异点又在哪里？
+</p>
+<p class="transcript-line">
+<span class="time"><strong>[00:05:00]</strong> </span>
+<span class="speaker"><strong>发言人3: </strong></span>
+首先先回到后半部分，就AI infrared。因为这个可能大家都耳熟能详一点，就是在过去几年大家都在这个卷大模型的时候，其实大家会关注什么？关注我这个头梗的吞吐，然后手头梗的延时？以及我大规模分布式训练的效率，大规模推理的效率，还有成本等等这些。本质上他们这些问题背后就是AI infer我怎么通过一个足够好的计算集群去实现训练，去实现推理，去实现一个甚至是我去部署或者是发布训练推理的这个任务的一个平台。
+</p>
+<p class="transcript-line">
+<span class="time"><strong>[00:05:37]</strong> </span>
+<span class="speaker"><strong>发言人4: </strong></span>
+这些我们怎样把GP的。
+</p>
+<p class="transcript-line">
+<span class="time"><strong>[00:05:39]</strong> </span>
+<span class="speaker"><strong>发言人3: </strong></span>
+效率怎么可能不能提起来？所以那个时候我们可能会更关注这部分的m in，但是他不完全是S他可能会pass对吧？因为毕因为我这个模型还有很多企业会拿这个模型去做bam的呗。就现在很多开源模型，那应该我们统称为AAI info。那个时候他最后他聚焦到的是实现一个model service。
+</p>
+<p class="transcript-line">
+<span class="time"><strong>[00:06:00]</strong> </span>
+<span class="speaker"><strong>发言人3: </strong></span>
+到今年大家会关注时尚的应用的搭建。在这个agent info的时代，当过去那个model service都变成a infor一部分，我们为了把一个agent应用搭建起来的，除了那个AI infer，还有很多其他一个组件，对吧？刚刚我们大家提到的那个比如to be use memory等等，他们都是agent info的一个重要组成部分。我觉得A.
+</p>
+<p class="transcript-line">
+<span class="time"><strong>[00:06:22]</strong> </span>
+<span class="speaker"><strong>发言人4: </strong></span>
+的info这个词能够被整个业界所共识，那也是因为说它其实也和我们传统意义上的这个info是有一定的相通的理念。比如在算力层面的话，我们要给比如像agent要做一些执行性的动作的时候，比如像刚刚你提到的他要执行一些代码，或者说他要去浏览一些这种网页，那这些其实都需要算力，这个算力的提供其实也非常关键。还有一个就是存储，对吧？那存储的话类似于我们经常提到的在AI领域，像上下文的这种长期记忆。这些能力其实都要去提供像网络。我觉得网络其实在AG的info里面，我们可以认为它是连接了更多的这种各种各样的能力。比如我们经常提到的一个词叫MCP。其实你通过MCP可以连接更多的工具进来，能够让a gt能够通过这些工具去做他以前可能大模型是聚焦于思考，现在通过这些工具，它可以实质性的付出去做一些具体的工作。
+</p>
+<p class="transcript-line">
+<span class="time"><strong>[00:07:26]</strong> </span>
+<span class="speaker"><strong>发言人1: </strong></span>
+Agent inflation为什么在今年为什么在这个时点，它成为了一个大大的共识。
+</p>
+<p class="transcript-line">
+<span class="time"><strong>[00:07:32]</strong> </span>
+<span class="speaker"><strong>发言人4: </strong></span>
+去年的话，世界人工智能大会上面，大家可能讨论的更多的还是大模型对吧？或者说模型的一些chat boot相关的一些能力。就春节之后，像minus那个当时爆火了之后，其实整个业界都在讨论的是通用文件他应该怎么去构建。其实在这个时间点上面我安全，还有另外一个同事，我们也去受邀参加了美国英伟达的GTC大会，也让我们看到了美国那边在做的北京的相关的公司越来越多，甚至英伟达投资的所有的公司几乎都在讲自己的agent。但是我们觉得我们应该是赋能像minus这样的公司，我们应该做一层agent的info，让这些公司在构建自己的agent时候更加高效。所以我们基本上连夜开了一个会调整了产品的方向。然后结合阿里云在计算存储网络基础设施方面的能力。我们确定了今天AG的贝利这样的一个研发方向。我觉得经过过去四五个月的团队的共同努力，我们上上周也在这个世界人工智能大会期间也发布了这个产品，这个内外部的反响还是非常好。
+</p>
+<p class="transcript-line">
+<span class="time"><strong>[00:08:38]</strong> </span>
+<span class="speaker"><strong>发言人1: </strong></span>
+我们待会儿会展开聊一聊，就是无影，因为其实你们也是一个非常成熟的事业部，然后有一个增长很好，并且收入利润都很好的主要的业务。然后在这样的一个情况之下，还能够一夜之间开了一个会，连夜就转型了一个很大的一个转弯。所以我们待会儿想要展开聊一聊这个中间的一些管理上的决策，或者战略上的思考。但我们还是先回到来聊agent info。可不可以再请二位给我们科普一下，就是当我们聊agent info m的时候，这个里面一般有哪些主要的组成部分。然后他们一般又稍微展开一下，他们意味着对一个agent来讲是什么样的价值。
+</p>
+<p class="transcript-line">
+<span class="time"><strong>[00:09:20]</strong> </span>
+<span class="speaker"><strong>发言人3: </strong></span>
+当我们在讨论一个agent的一个设计或者说部署的时候，我们有一些名词听起来你有似曾相识的感觉。大模型很像以前的一个CPU，那个长期记忆和短期记忆是不是比较像以前这个所谓的内存还有存储对吧？它是个临时的话成为长期存储。七月份的时候很火的一个概念叫contest engineering对吧？然后记忆的管理，然后那个任务的编排，包括沙箱对吧？我们这个主页，还有一些mode agent的架构，包括一些这个工具的使用协议等等这些。其实之前并没有一个人站出来说他就是长这样的。但是大家默默的都不约而同走向了这些方向，而且这些赛道上逐渐的出现了一些玩家，逐渐的成为一个行业的一个标准的一个范式。
+</p>
+<p class="transcript-line">
+<span class="time"><strong>[00:10:07]</strong> </span>
+<span class="speaker"><strong>发言人1: </strong></span>
+然后我们刚才提到的这个赛道，我们来盘点一下。第一是记忆，第二是这个工具的使用，第三是任务规划，第四是这个沙箱。我们可以叫。然后第五是多A键之间的协作。然后第六是这个安全隐私。对我们稍微每一个我们争取来展开一下，我们先说一下记忆，就在记忆的这个agent info的赛道，二位关注的比较多的这个公司和产品可以分享一下。
+</p>
+<p class="transcript-line">
+<span class="time"><strong>[00:10:36]</strong> </span>
+<span class="speaker"><strong>发言人4: </strong></span>
+对，其实像基于这个领域，现在有个memory zero这家公司以及memory GPT，我觉得做的还是相对来说比较有特色的，也是这个领域里边做的相对来说比较深的。像to use的话，像算了一部分我们看到的像e to b，还有像brother base，这些公司其实要类似于像computers，broster youth领域我觉得做的比较好的。对像task planning更多的还是说你今天你的模型在这个领域你的智能化程度对吧？呃，当然也结合一些比如像铁质四工程这些方面的一些能力。这个领域其实各家都在做，很难说哪一家做的比较好，比较深入。
+</p>
+<p class="transcript-line">
+<span class="time"><strong>[00:11:20]</strong> </span>
+<span class="speaker"><strong>发言人3: </strong></span>
+对多元协作我理解更多是的编排，一个是编排，一个是协一。就是因为当你去定义，大家其实现在看到agent都是猫TA的一个架构。然后你怎么去定义猫点的写作一个工作流。
+</p>
+<p class="transcript-line">
+<span class="time"><strong>[00:11:32]</strong> </span>
+<span class="speaker"><strong>发言人3: </strong></span>
+有些业界比较常用的一些框架的，比如说graph或者是你也可以去用open SSSDK对吧？包括我们自己其实也有，只是我们没放出来。我们每次也是纯自研的一套A正的协作框架，对，这是一个。另外一个的话可能就是像谷歌那个a to a它本质上也是想定义一个A的协作的一个范式。对，不是，它实现上会更更激进一点。对，这是一个。
+</p>
+<p class="transcript-line">
+<span class="time"><strong>[00:11:55]</strong> </span>
+<span class="speaker"><strong>发言人3: </strong></span>
+然后在安全领域的话，我觉得某种意义上我们现在做的这个产品也算是一个安全相关的一个产品。因为代码的这个执行，你需要一个云端的一个隔离的环境来做。跟比如说多租户之间的这个安全隔离，还有对本地的一个零侵入，对，这是一个。另外一个，现在业界也有一些比较好的公司在做，我在做这个代码的这个安全围栏，对吧？然后包括一些在国内的这个就是个比如说这个敏感保护等等。
+</p>
+<p class="transcript-line">
+<span class="time"><strong>[00:12:23]</strong> </span>
+<span class="speaker"><strong>发言人4: </strong></span>
+所以我觉得这个领域里边还有一点比较值得关注的，就是这个身份的管理。比如就像我们经常看到的，在computers阶段，当一个AD的操作电脑，然后去访问不同的网站的时候，这些网站怎样才能能够通过视频管理做到自动化自动的认证，这些其实这些领域还是非常值得研究，我们也在布局这个领域。
+</p>
+<p class="transcript-line">
+<span class="time"><strong>[00:12:44]</strong> </span>
+<span class="speaker"><strong>发言人1: </strong></span>
+我们前面提到的这么多的这个agent inf目前的细分的这个赛道，你们会认为其中有哪一环是最重要的吗？
+</p>
+<p class="transcript-line">
+<span class="time"><strong>[00:12:52]</strong> </span>
+<span class="speaker"><strong>发言人3: </strong></span>
+其实都很重要，尤其是对于A的开发者来说，你会发现任何一个组件都是刚需的。比如说沙箱可能对用户来说，他们尤其是一个coding的一个杀伤，很多用户可能是感知不到的。然后比如说像memory，这个是大家都都所有的AD的工作都一定会遇到挑战。因为你有上下文窗口的一个限制，你要用户对于效果或者说这个agent执行的这个任务成功率的要求。所以说大家都不约而同的会去找一些memory这个组件，所以说我理解这里面可能没有一个优先级的一个先后，但是大家在感知上，在实现上是有一个先后的次序的OK。
+</p>
+<p class="transcript-line">
+<span class="time"><strong>[00:13:29]</strong> </span>
+<span class="speaker"><strong>发言人1: </strong></span>
+所以你们观察到今天agent的开发者，我们刚才提到的这些agent info的各个组成部分，他们绝大多数是会自研，还是几乎全部都会去考虑这个用三方的服务呢？
+</p>
+<p class="transcript-line">
+<span class="time"><strong>[00:13:41]</strong> </span>
+<span class="speaker"><strong>发言人4: </strong></span>
+其实在一定的input这个概念没有生成之前，我相信各家作为进程，你就会发现每一家可能都想垂直的把这个事情给打了。但是你会发现其实还蛮难的。就像刚刚这个开头讲的对吧？你的你如果一个员工如果进去进到一家公司，如果从桌椅板凳到网线到电脑都要自己去操持的话，其实效率还是蛮低的对吧？这也是制约我觉得agent能够快速爆发的一个问题点。所以从这个点上来讲的话，如果说我们能够提供一个非常好用的这种A级的info，AG的info里面的这各个组件的能力都可以很系统化的。或者说非常高效的能够提供给这些背景的厂商的话，那他们在开发进的时候相对来说变得重要很多。
+</p>
+<p class="transcript-line">
+<span class="time"><strong>[00:14:24]</strong> </span>
+<span class="speaker"><strong>发言人1: </strong></span>
+明白。
+</p>
+<p class="transcript-line">
+<span class="time"><strong>[00:14:25]</strong> </span>
+<span class="speaker"><strong>发言人2: </strong></span>
+就是又要跑步又要修路是很难的对，那你们就是比如说接触的这些agent的客户，他们在选这个A证服务的时候，你觉得他们最看重的是什么？就是因为既然每一个环节都很重要的话。
+</p>
+<p class="transcript-line">
+<span class="time"><strong>[00:14:40]</strong> </span>
+<span class="speaker"><strong>发言人4: </strong></span>
+其实每一家关注点我们看到还确实不太一样。国内某后大模型厂商他们也在打造自己的agents。底层最早的话，他们也是自己去构建一个虚拟的代码执行环境，或者products use mobile。但是你会发现他们做了一半的时候，当他们发现比如我们有的时候，或者说有这样一个好用的编辑的info的时候，他们马上会切过来。因为他需要的是说怎样能够提供20万级甚至是40万级级别的这种并发OK虚拟机的并发。那对于一家模型公司来讲的话，它的能力不在于这个。
+</p>
+<p class="transcript-line">
+<span class="time"><strong>[00:15:18]</strong> </span>
+<span class="speaker"><strong>发言人4: </strong></span>
+那也有一些就是我们看到，比如就像某汽车公司，他们在打造智能体的时候，因为他要记住这个司机他的一些以前询问过的各种问题。所以他就要在这个长期记忆方面有非常强的诉求。比如我们也基于我们的向量数据库去搭建这种长期的记忆系统，能够让他们的用户在使用它的这个智能提出可以做到长期的这种记忆的能力。
+</p>
+<p class="transcript-line">
+<span class="time"><strong>[00:15:45]</strong> </span>
+<span class="speaker"><strong>发言人2: </strong></span>
+OK就是你们customize定制的能力很强。
+</p>
+<p class="transcript-line">
+<span class="time"><strong>[00:15:49]</strong> </span>
+<span class="speaker"><strong>发言人4: </strong></span>
+其实我们提供的是通用能力。但是每一家公司在做自己的A进制的时候，他最关注的那个点可能不太一样。
+</p>
+<p class="transcript-line">
+<span class="time"><strong>[00:15:57]</strong> </span>
+<span class="speaker"><strong>发言人1: </strong></span>
+在我们刚才提到的这些模块里面，你们有其中的一个模块，它长期非常重要。但是在今天很容易被agent的开发者所忽视的。
+</p>
+<p class="transcript-line">
+<span class="time"><strong>[00:16:06]</strong> </span>
+<span class="speaker"><strong>发言人4: </strong></span>
+所以其实刚才提到2点，一个是身份管理，另外一个就是安全。这两个领域的话，就是在早期我们在做任何一件事情的时候，有很多公司在做一些这种系统的时候，可能安全都安全或者说身份管理，这些可能不是他们最重要要考虑的事情。可能大家更聚焦于说效率是不是最高。但是在云厂商，其实我们是被训练出来的。数据隐私保护方面对我们来讲是天然的。我们这个基因里边或者说做任何一个服务都需要重点考虑的地方。
+</p>
+<p class="transcript-line">
+<span class="time"><strong>[00:16:38]</strong> </span>
+<span class="speaker"><strong>发言人1: </strong></span>
+OK了解这是某种做云服务的肌肉记忆。是的，因为如果一旦出问题的话，它带来的这个是灾难性的后果。是的，好，我们再来聊一下阿里云做的这个AG倍这个事儿。我们知道其实整个agent的元年，其实带来了一系列和agent的info相关的创业机会。然后你们是怎么想到要做agent bad？
+</p>
+<p class="transcript-line">
+<span class="time"><strong>[00:17:01]</strong> </span>
+<span class="speaker"><strong>发言人4: </strong></span>
+是因为随着大模型的发展，或者说agent的发展，我们也看到是说agent它也需要有一些比较趁手的工具，对吧？就像人使用电脑和浏览器可以获得更多的信息一样，可以提升自己的效率一样。当给大模型或者智能体配上电脑，或者说配上浏览器这几方面的能力的时候，我们相信他可以获得的能力其实是更强长的。所以最早我们是在想打造的类似于像computer use，Moore use以及broster use这些类似的这些简单的能力。但是随着我们做的深入，我们也发现客户对于这些基础能力是需要，但是远远还不够。这就是为什么我们做着做着发现客户对于长期记忆的需求，对于身份管理的需求，对于安全的需求其实都是存在的。所以把这些能力规划出来给做出来，这成为了我们第二阶段其实更加聚焦的一些事情。
+</p>
+<p class="transcript-line">
+<span class="time"><strong>[00:17:58]</strong> </span>
+<span class="speaker"><strong>发言人1: </strong></span>
+明白我们知道的也好，或者brother use也好，或者long graph，他们都还是是就是只做自己的一个垂直领域。好像只有比如说AWS的A键core和咱们A键被，才会是相对来说。
+</p>
+<p class="transcript-line">
+<span class="time"><strong>[00:18:12]</strong> </span>
+<span class="speaker"><strong>发言人4: </strong></span>
+比较系统化的来规划这个事情。
+</p>
+<p class="transcript-line">
+<span class="time"><strong>[00:18:14]</strong> </span>
+<span class="speaker"><strong>发言人1: </strong></span>
+对，十项全能每个我都要做。这个你们有感觉到就是注意力被稀释，就是可能没有办法在某些垂直领域和这种专到是他们去打了。你们怎么看这个问题？
+</p>
+<p class="transcript-line">
+<span class="time"><strong>[00:18:27]</strong> </span>
+<span class="speaker"><strong>发言人4: </strong></span>
+我们一直觉得to b的业务它是一个长期赛道。所谓长期赛道就是在各个领域都是一个相对来说比较长期的投入。我们很难说在很短的时间内把各个领域都做的非常的好，但是我们要做的是相对来说能力比较均衡每一个领域它可能都处于一个中等偏上，但是加到一起它的整体的能力会非常强。并且这些组件之间，我们希望它是一个系统化的东西，而不是完全割裂的。
+</p>
+<p class="transcript-line">
+<span class="time"><strong>[00:18:58]</strong> </span>
+<span class="speaker"><strong>发言人1: </strong></span>
+咱们如果面临着，比如说我们做的这个沙箱去和e two b去比较，那咱们的这个沙箱比起它有哪些差异，或者有哪些优势呢？
+</p>
+<p class="transcript-line">
+<span class="time"><strong>[00:19:08]</strong> </span>
+<span class="speaker"><strong>发言人3: </strong></span>
+如果要回答这个问题，我首先回答杨老师您上一个问题。就是现在业界这种在垂直领域里面做的比较好的是，他们更多面向什么？面向是头部的开发者，就属于我牛逼的这个AAI公司或者是A人公司，他们有有能力自己去拼凑不同的积木，搭成一个自己的一个复杂的应用系统。但是云计算厂商其实本身想做东西是普惠的生意。我们希望说把这些复杂的组件最后都变成一个一个低代码的，或者是一个中小型创业公司，都能够很容易把它搭建起来一个平台。所以说这是我们跟他们那个定位的差距。
+</p>
+<p class="transcript-line">
+<span class="time"><strong>[00:19:47]</strong> </span>
+<span class="speaker"><strong>发言人3: </strong></span>
+所以说再回到您这个问题的时候，第一个我觉得应该是应用性会更简单一点。在我们面向。很多的中小开发者。所以你会看到我们这个产品一上来我们先干啥？我们先支持MCP对吧？
+</p>
+<p class="transcript-line">
+<span class="time"><strong>[00:19:57]</strong> </span>
+<span class="speaker"><strong>发言人3: </strong></span>
+第二个的话就是我们的这个产品相对来说完整性会更强一些。所以说您会看到我们的沙箱里面，除了这个唇code的环境，我们其实还有着mobile的环境，把brother的环境。然后我们还上传了agent service底下的统一的直接文化系统，包括未来可能会出现的这个memory context等等，它相对来说是完整的。所以说对我们的这个客户来说，他可以在这个本质上，它可能就不是一垂直的一个产品了。它可能是这个平台了，因为agent建设平台了，所以说这是第二点完整性上。
+</p>
+<p class="transcript-line">
+<span class="time"><strong>[00:20:28]</strong> </span>
+<span class="speaker"><strong>发言人3: </strong></span>
+然后第三个就是我们可能会更关注一些长远的agent的发展方向的一个组件。比如说你像当前可能一些头部的开发者，他不他希望你给我个原子化的一个狭想。所以这个沙箱我怎么去感知跟控制，那是交给我来干的。就举个例子，比如说我是minus，你给我个云上的一个环境就好了。但是未来大家会发现，就是随着你接触的这个SMB的开发者越来越多。其实他们希望说我虽然是个猫加固，但是我不想去管理你那个沙箱里的是不是A层的，所以就要求你把这个H再往上再抽象一层。我们这个service provider，你自己去提供这个环境的一个超强的一个感知和控制能力，所以要求我们再往应用层再走一走。
+</p>
+<p class="transcript-line">
+<span class="time"><strong>[00:21:13]</strong> </span>
+<span class="speaker"><strong>发言人3: </strong></span>
+我们举个例子，比如说我现在给您一个broker的容器，您自己来调度它。那可能最简单的，你可能会去装一个比如开源的pray y对吧？然后通过dm trate来做可视化的操控。但是你要知道，在一个浏览器环境里面，你不是说通过dm tray就能拿到所有内容的对吧？比如说你现在欠的是个iphone或者一个视频，那么对模型来说，你如果只有文本的输入来说，他就抓瞎了，不知道当前这个画面发生了什么。所以作为一个提供了broader uses的一个我们这种service provider来说，必须要结合一个多模态的模型才能把这个agent service提供给你我要能够去自己去研发去组装一个模型，能够感受到当前浏览器的画面正在发生什么。我要有多模态的输入，我还有多模态的输出，才能帮我的最终的提升我们的customer，这整个环境的区动，还有感知完整的给做出来。
+</p>
+<p class="transcript-line">
+<span class="time"><strong>[00:22:11]</strong> </span>
+<span class="speaker"><strong>发言人2: </strong></span>
+那感觉从战略上是你们更强调普惠，更看重SMB客户。
+</p>
+<p class="transcript-line">
+<span class="time"><strong>[00:22:16]</strong> </span>
+<span class="speaker"><strong>发言人4: </strong></span>
+是的，比如所有的能力我们都以API的形式对外去开放。开发者可以很简单的通过API的简单调用就可以获得相应的一些能力。
+</p>
+<p class="transcript-line">
+<span class="time"><strong>[00:22:25]</strong> </span>
+<span class="speaker"><strong>发言人2: </strong></span>
+这很符合阿里的风格，让天下没有难做的AJ.
+</p>
+<p class="transcript-line">
+<span class="time"><strong>[00:22:30]</strong> </span>
+<span class="speaker"><strong>发言人1: </strong></span>
+我们知道AWS也推了aging core，怎么看这个aging core和aging被里面的这个定位，或者一开始的这种优先级的选择，可不可以给大家讲一讲你们的相同和不同。
+</p>
+<p class="transcript-line">
+<span class="time"><strong>[00:22:42]</strong> </span>
+<span class="speaker"><strong>发言人4: </strong></span>
+因为NWS发布A进口之后，我们其实大概是在4月7号，在我们的一个峰会上面发布了A进杯。但是在那个阶段更多的还是一些概念性的东西，产品设计相关的一些东西。我们也是做了一些简单的能力给到外部的一些客户去用到上。这个世界人工智能大会期间，我们发布的商用。更多的是让这些中小型开发者可以通过我们的官网可以使用一个正式的产品。当然同期的话，我们也看到AWS发布了自己的agent call，发布了之后我们也进行了一些分析。我们发现云服务厂商其实在看a info的时候，大家的观点还是蛮一致的。OK从产品的能力及对应的接口的定义，到整个产品的布局，我们来看到的话几乎相似度还是非常高的。
+</p>
+<p class="transcript-line">
+<span class="time"><strong>[00:23:31]</strong> </span>
+<span class="speaker"><strong>发言人1: </strong></span>
+你有感觉到比如说AWS也好，或者火山也好，或者其他的云服务厂商也好，谁在这个agent info上投的力量是最大的？就是资金、团队规模，或者一号位的大老板的决心等等。有这种感知吗？
+</p>
+<p class="transcript-line">
+<span class="time"><strong>[00:23:52]</strong> </span>
+<span class="speaker"><strong>发言人4: </strong></span>
+因为agent是一个对业界来讲是AI的一个重要的一个应用方向。各家公司其实在这个领域，我相信都是会非常重视的。其实在阿里云内部的话，就是吴妈，我们CEO其实对于agent的备用，对agent info这件事情还是非常关注的。尤其是在今年年初我们我们全员启动会上，他重点提到了AG的info这件事情。我们上周其实也和我们产品发布之前，我们也和吴妈进行了新一轮的回报，他其实对整个A金杯当前的进展还是非常满意的。OK其实在这个领域的话，我们这周也看到了，在这个领域其实老板还是很舍得投入的，这周又给我们加人、加钱、加资源，对吧？那我觉得对我觉得在这个领域的话，阿里云内部其实在这个层面，我觉得从一号位到我们各个事业部，到具体的知情的同学，大家也都是非常看重并且认可这是一个正确的方向。
+</p>
+<p class="transcript-line">
+<span class="time"><strong>[00:24:51]</strong> </span>
+<span class="speaker"><strong>发言人1: </strong></span>
+为什么这么看重呢？是因为觉得这个事情它是一个防守策略，还是这是一个进攻策略？
+</p>
+<p class="transcript-line">
+<span class="time"><strong>[00:24:56]</strong> </span>
+<span class="speaker"><strong>发言人4: </strong></span>
+其实我相信从一号位的视角来看的那这可能还不是把它看成一个生意，而更多的是说今天AI在应用的过程中遇到的这些问题。如果说云服务厂商，比如你有资源，有资金、有人力，你不去去构建这个能力的话，其实它会影响AI的整个进程。我再补充一点，就是老板虽然给我们加了这么多的人，加了这么多的资源，但是从来没有给我们提过说你们要营收多少，而是说有多少客户在用这件事。
+</p>
+<p class="transcript-line">
+<span class="time"><strong>[00:25:27]</strong> </span>
+<span class="speaker"><strong>发言人1: </strong></span>
+这个很有意思。因为本来我们下一个问题就是想问说又加钱又加人又加资源，那OKR有没有加KPR有没有加OK？
+</p>
+<p class="transcript-line">
+<span class="time"><strong>[00:25:35]</strong> </span>
+<span class="speaker"><strong>发言人4: </strong></span>
+这个确实这个是没有加的，这个老师讲是没有加的。因为我们在这个阶段还话我们对于AI的判断还是处于一个相对来说比较早期的阶段。还是需要更多的像阿里云这样的公司，大家一起参与进来，把整个的生态能力给构建起来。
+</p>
+<p class="transcript-line">
+<span class="time"><strong>[00:25:52]</strong> </span>
+<span class="speaker"><strong>发言人1: </strong></span>
+所以你们看的一个比较主要的数字或者一个指标，是有没有更多的人在用咱们的服务。是，而不是他在这个时候就为这个服务付了多少的费用。
+</p>
+<p class="transcript-line">
+<span class="time"><strong>[00:26:02]</strong> </span>
+<span class="speaker"><strong>发言人4: </strong></span>
+是钱不是永远不是考虑的这些钱目前肯定是也不是。
+</p>
+<p class="transcript-line">
+<span class="time"><strong>[00:26:08]</strong> </span>
+<span class="speaker"><strong>发言人1: </strong></span>
+对，所以，我想象你们可能也不需要帮阿里云去卖云服务，对吧？这个也不是一个指标。
+</p>
+<p class="transcript-line">
+<span class="time"><strong>[00:26:14]</strong> </span>
+<span class="speaker"><strong>发言人4: </strong></span>
+这个肯定是没有的，没有这方面的指标。
+</p>
+<p class="transcript-line">
+<span class="time"><strong>[00:26:16]</strong> </span>
+<span class="speaker"><strong>发言人2: </strong></span>
+那这个A正被在阿里云的的AI的整个的这个战略里面，它是一个。
+</p>
+<p class="transcript-line">
+<span class="time"><strong>[00:26:23]</strong> </span>
+<span class="speaker"><strong>发言人4: </strong></span>
+其实我们可以看到其实在过去的两年，我们看到大家都在卷积模对吧？但是AI怎样能够用好，其实agent是一个很重要的方向。所以在整个AI的大图里边，我们是一个承上启下的作用。一是能够把我们的模型能力怎样通过agent info对外去开放。当然上面的话我们可能还会构建一些像A进的开发框架，能够让更多的用户在开发A进去的时候可能变得更加简单一些。
+</p>
+<p class="transcript-line">
+<span class="time"><strong>[00:26:52]</strong> </span>
+<span class="speaker"><strong>发言人1: </strong></span>
+然后我们上周有去参加一个直播，就是周鸿他在直播做一个新产品的发布，然后叫纳米的智能体蜂群。然后它里面就讲到了一个他们在做agent时候的选择，是没有选择云端沙箱，而是选择这个本地。他提到一个非常重要的点，就是他觉得云端沙箱不安安全。一个用户把自己的密码也好，个人身份认证信息也好，放到云端，这个会有可能出大事。所以他们就选择本地，这是感觉听起来他一个做安全的老炮就是非常坚定的一个路线选择。对，所以想问问看二位，因为AGB的这个沙箱就是云端的。然后你们刚才也提到，其实这个阿里云也好，或者你们之前的从业经历也好，都是把安全放在最高优先级的。这里可不可以讲一讲，就是你如何让开发者们相信说咱们A金贝的这个云端沙箱，它就是非常安全的。
+</p>
+<p class="transcript-line">
+<span class="time"><strong>[00:27:46]</strong> </span>
+<span class="speaker"><strong>发言人4: </strong></span>
+其实这个本质上就是云能不能提供一个更加安全的环境。我这我大概是从05年开始做云计算相关的一些技术研究，114年加入阿里云。其实我最早其实对云的认知，对cloud infor认知，我也觉得说是不是把自己的数据自己自建一个数据中心，放在自己的数据中心可能会更安全。对，到我加入阿里云之后，我觉得第二年其实改变了我的一些认知。那我当时遇到了一些客户或者遇到了一些问题。因为在自己的线下数据中心的时候，他们发现自己开发一个新游戏今天发布可能对手用那个时候用比特币，用一个比特币可能都不需要买了。5GB的流量就把你的数据中心，把你自建的数据中心给你打垮了。但是他在阿里云上的这种抗D的能力是超级强的那在这种情况下，很多的游戏厂商都纷纷把自己这个游戏的基础设施迁移到云上。
+</p>
+<p class="transcript-line">
+<span class="time"><strong>[00:28:46]</strong> </span>
+<span class="speaker"><strong>发言人4: </strong></span>
+公共云最大的和这些线下所建立基础设施不一样的能力，就是它在不断的迭代OK我们知道只要是软件，只要是系统，它可能都会存在漏洞。但是云的厂商，比如像我们大概有几千人的上级，两三千人的这种安全的团队，再去实时守护着这些数据的安全。但是如果说你一家企业自建一个数据中心的时候，你会发现你可能招不到这么首先招不到这么优秀的安全方面的工程师。
+</p>
+<p class="transcript-line">
+<span class="time"><strong>[00:29:19]</strong> </span>
+<span class="speaker"><strong>发言人4: </strong></span>
+另外一点的话，你的成本会是极高的，你为了保护一个你线下的数据中心，你要投入是巨大的。你刚刚提到的这个案例里面，其实我不是特别我不认同。原因是因为我真正的在做了这十几年的云计算之后，我是深刻的感受到公共云可以提供一个企业所提供的这个安全能力要强的多大。
+</p>
+<p class="transcript-line">
+<span class="time"><strong>[00:29:40]</strong> </span>
+<span class="speaker"><strong>发言人1: </strong></span>
+安全带的OK。但我理解这里面有一个不同在于说他用云端的沙箱和用本地的沙箱。他本地沙箱并不是本地云，而是就是用户自己的这台电脑而已。
+</p>
+<p class="transcript-line">
+<span class="time"><strong>[00:29:52]</strong> </span>
+<span class="speaker"><strong>发言人4: </strong></span>
+是我觉得这里边有。首先我们先从能力上来讲，我觉得再来看安全。首先从能力上来讲，如果使用本地的沙箱，就像前几填那个miners创始人肖红讲的，他可以同时调100个做agent wide .
+</p>
+<p class="transcript-line">
+<span class="time"><strong>[00:30:06]</strong> </span>
+<span class="speaker"><strong>发言人1: </strong></span>
+search。
+</p>
+<p class="transcript-line">
+<span class="time"><strong>[00:30:07]</strong> </span>
+<span class="speaker"><strong>发言人4: </strong></span>
+对，做weather search。那这种工作的话，其实很难在本地电脑上来完成。那这个其实只有靠云。当然我觉得这是第一个层面。我觉得从能力来讲的话，这个本地运行在本地，其实尤其是随着agent这个技术的发展，看来是不太限制。另外一点就是如假如运行的云端，我们提供了哪些方面的安全能力。那其实从沙箱的整体的设计，到我刚才讲的整个是A型的info层面的安全这个架构来讲的话，那我们其实提供了端到端的这种安全数据保护的能力。那就像你比如把钱是放在自己家里面还是放在银行里面，安全其实是一样的。那云厂商任何一家云厂商，数据安全都是生命线。所以云厂商都会投入大量的人力资源，安全方面的资源去确保这件事情不会你的数据不会被泄露，不会被别人看到。
+</p>
+<p class="transcript-line">
+<span class="time"><strong>[00:31:03]</strong> </span>
+<span class="speaker"><strong>发言人1: </strong></span>
+那这里其实也是一个路线的选择。有些人会觉得放在本地还有一个好处是不用登录的时候，让用户提供新的用户名密码。因为他就是自己的浏览器本来就存着cookie，所以你们现在要怎么说服？因为我相信这里面路线可能A政策的开发者还是会有一些选择的。你们会怎么说服他们？
+</p>
+<p class="transcript-line">
+<span class="time"><strong>[00:31:22]</strong> </span>
+<span class="speaker"><strong>发言人4: </strong></span>
+这个是就像你刚刚提到的，像这个比如浏览器，我可能里边有很多cookie保留存了很多用户名和密码。其实在这种程度上，你其实选择象限的是操作系统服务厂商和browser的这个厂商，对吧？因为操作系统厂商和browser厂商肯定是可以拿到这个数据？但是为什么我们今天去相亲微软或者相信谷歌不会动你的东西，为什么不不可以去选择相信在云厂商呢？只不过数据是你觉得说存在本地安全。但是其实我们可以看到本地电脑上面，比如你的系统里面可能有木马，有病毒，这些方面的一些东西更容易造成泄露。而今天你把这些厂商托管到第三方一个安全的保险库里边的时候，你会发现那个那个地方的环境相对来说比较单一。
+</p>
+<p class="transcript-line">
+<span class="time"><strong>[00:32:07]</strong> </span>
+<span class="speaker"><strong>发言人1: </strong></span>
+比较纯粹的。还有一个说法就是云端沙箱时候，不管在上面跑什么代码，跑崩了是他的事儿，我本地是安全的。
+</p>
+<p class="transcript-line">
+<span class="time"><strong>[00:32:15]</strong> </span>
+<span class="speaker"><strong>发言人4: </strong></span>
+有一个段子说以前以为是段子，就是他在本地的沙箱里边，可能因为这个模型主动去删除了一个目录。OK原来我一直以为是段子我前几天才知道这是真的。因为他在做完一件事情的时候，模型其实发了一条命令，就是把一个目录给删掉。但是他真正的把这台电脑的目录给删掉了。但是这个沙箱里边其实是没有问题。
+</p>
+<p class="transcript-line">
+<span class="time"><strong>[00:32:40]</strong> </span>
+<span class="speaker"><strong>发言人1: </strong></span>
+的OK因为云端的沙箱删了之后，这个沙箱反正它可以对再恢复，或者它是虚拟的，它不会伤害到你本地的你自己的个人的文件，或者你存的隐私信息等等。是的，比如说我们正好刚才也说到了minus上周发的这个wide search，也看到这个嗯其实有一个趋势，这就是去年大家还觉得这个token的消耗好像是不是快到头了，这个英伟达的卡要卖不动了。确实我们也看到在降价，但今年这个A键一出来就发现，不是的，就是能力一下子变强之后，token的消耗是十倍甚至百倍的在增加。那你们有看到你们的客户，他们的这个高并发的能力，现在最强的客户对你们的要求是达到什么样的这个级别吗？
+</p>
+<p class="transcript-line">
+<span class="time"><strong>[00:33:25]</strong> </span>
+<span class="speaker"><strong>发言人4: </strong></span>
+就像我刚才提到的，国内一家做AT的厂商给我们提的是在在这种日常，像白天大概要做到20万的并发，session要做到20万的并发。这个数字的话我觉得还是挺让我们惊讶的。因为因为这个当然我们仔细分析了之后，确实还是非常合理的。因为它的比如它是一个APP对吧？或者说它是一个应用程序，那他的用户有多少其实决定了你的并发上限。是的。
+</p>
+<p class="transcript-line">
+<span class="time"><strong>[00:33:55]</strong> </span>
+<span class="speaker"><strong>发言人1: </strong></span>
+这20万是说20万用户一起发出一件任务，还是有可能背后只有比如说1万个一键任务，但是他会再发20 20个，分别发20个子任务。
+</p>
+<p class="transcript-line">
+<span class="time"><strong>[00:34:03]</strong> </span>
+<span class="speaker"><strong>发言人4: </strong></span>
+对，这个是并发的这个。
+</p>
+<p class="transcript-line">
+<span class="time"><strong>[00:34:06]</strong> </span>
+<span class="speaker"><strong>发言人1: </strong></span>
+子任务OK这个确实感觉会飞速的增加。是的，因为minus的White search的案例全是一个主任务，一下子开枝散叶出100个200个子任务出来。
+</p>
+<p class="transcript-line">
+<span class="time"><strong>[00:34:20]</strong> </span>
+<span class="speaker"><strong>发言人4: </strong></span>
+我们也相信这是未来整个通用微电子发展的很重要的一个方向。
+</p>
+<p class="transcript-line">
+<span class="time"><strong>[00:34:25]</strong> </span>
+<span class="speaker"><strong>发言人1: </strong></span>
+感觉上这个也挺赚钱的。
+</p>
+<p class="transcript-line">
+<span class="time"><strong>[00:34:28]</strong> </span>
+<span class="speaker"><strong>发言人4: </strong></span>
+我们确实就像刚才说的，还没有考虑到赚钱。我们怎样能够把产品的功能能够更好的满足像nars这种企业所需要的能力。
+</p>
+<p class="transcript-line">
+<span class="time"><strong>[00:34:38]</strong> </span>
+<span class="speaker"><strong>发言人1: </strong></span>
+OK所以现在没有一个非常明确的这个收费模式上的一个定论。
+</p>
+<p class="transcript-line">
+<span class="time"><strong>[00:34:42]</strong> </span>
+<span class="speaker"><strong>发言人4: </strong></span>
+我们也看了一些，这个领域。当然我们其实在构建这个产品的时候，其实目前阶段还是怎样能够把产品的能力给做出来，能够满足这么多的agent的开发的需求。但是长期来讲的话，我相信他肯定还是一个商业行为。
+</p>
+<p class="transcript-line">
+<span class="time"><strong>[00:35:00]</strong> </span>
+<span class="speaker"><strong>发言人2: </strong></span>
+未来这个领域有可能出现什么新的商业模式吗？就是以前你们的收费方式跟以后会有什么？比如说根据客户的需求的一些在这个时期的一些变化会有什么不一样。
+</p>
+<p class="transcript-line">
+<span class="time"><strong>[00:35:11]</strong> </span>
+<span class="speaker"><strong>发言人3: </strong></span>
+当前我们作为一个云计算公司的话，其实我们更多的是应该说是不能说路径依赖。反正我们从设计计费上还是一个以算力为主的一个售卖模式。说白了就是你买我多少资源，比如说你要你是个minus，你要给我开100个病房，那我就收这100个沙箱的钱，对吧？但是我理解以后可能我们会更像一个会走向应用层的一个收费。
+</p>
+<p class="transcript-line">
+<span class="time"><strong>[00:35:35]</strong> </span>
+<span class="speaker"><strong>发言人3: </strong></span>
+当举个例子，当您的这个需求过来的时候，我可能提供的不只是一个算力环境，配套的一些其他的模块。比如说我可能有一些多模态的模型的推理的一些成本，对吧？可能有一些就是你这100个并发的这个沙箱里面怎么去做状态一致化管理的这个成本。一大堆的东西加进去以后，那算力可能在里面就是个很minor的一个成本了。那这个时候我们可能就是个服务化的一个收费模式。那你们。
+</p>
+<p class="transcript-line">
+<span class="time"><strong>[00:36:00]</strong> </span>
+<span class="speaker"><strong>发言人2: </strong></span>
+现在有感受到这个客户的需求，他的一个曲线大概是什么样子？
+</p>
+<p class="transcript-line">
+<span class="time"><strong>[00:36:05]</strong> </span>
+<span class="speaker"><strong>发言人3: </strong></span>
+非常指数的一个曲线。这个是就是我们其实你可以。
+</p>
+<p class="transcript-line">
+<span class="time"><strong>[00:36:11]</strong> </span>
+<span class="speaker"><strong>发言人4: </strong></span>
+看到他这个倍增，其实每天都会有非常多的用户进来，非常高的并发能够上去。所以今天早上在来之前，我们还开了一个会，怎样能够让我们做到全球资源的调度？
+</p>
+<p class="transcript-line">
+<span class="time"><strong>[00:36:24]</strong> </span>
+<span class="speaker"><strong>发言人1: </strong></span>
+因为听十字路口的播客的这个朋友很多都是创业者或投资人。对我觉得听到这里，然后你们讲到指数增长，我觉得所有人可能都想问一个问题。就是你们看到的除了通用的这种A键之外，有在哪些垂直的领域，不管to b还是to c的，我看到哪些增长的非常快的这样的这个A政策对哪些领域？这对大家来说就意味着投资机会或者创业机会。
+</p>
+<p class="transcript-line">
+<span class="time"><strong>[00:36:47]</strong> </span>
+<span class="speaker"><strong>发言人2: </strong></span>
+卖水的公司肯定感受的非常明显。
+</p>
+<p class="transcript-line">
+<span class="time"><strong>[00:36:51]</strong> </span>
+<span class="speaker"><strong>发言人4: </strong></span>
+我们以前做云计算有一个说法，就是你你你可以很清晰的看到整个业界，各个行业的变化。是的。
+</p>
+<p class="transcript-line">
+<span class="time"><strong>[00:36:59]</strong> </span>
+<span class="speaker"><strong>发言人3: </strong></span>
+我们现在首当其冲的是通用agent，还有coding agent。这个大家作为消费者能感受到对吧？就是他们是coding agent，可能商业化或者商业模式相对成熟的范围也是最广的。然后第二通用agent是从manus发布了以后，所有的厂商都在做改造的一个方向，这两个是大家都能感受到。其次的话，基于这些agent通用的这个框架，或者说它的整个inf逐渐成熟了以后，我们能看到很多传统的这些一些应用也在做A转化的一个改造。它更多的当前是可能是企业内部的消费者可能感受不到。
+</p>
+<p class="transcript-line">
+<span class="time"><strong>[00:37:32]</strong> </span>
+<span class="speaker"><strong>发言人3: </strong></span>
+举个例子，比如说我们，比如说一些电商企业，电商企业传统的业务上有大量的自动化的工作在对，比如IPA的工作。我们举个例子，比如说您是个运营，你要做这个多平台的比价对吧？或者说这个产品的上架，主图的设计等等。很多以前这些大量的重复性的工作流，现在都用A醇去改造了。
+</p>
+<p class="transcript-line">
+<span class="time"><strong>[00:37:51]</strong> </span>
+<span class="speaker"><strong>发言人3: </strong></span>
+是啊包括我们现在接的很多大客户，他其实他不是说集成A正被去提供一个对外的设备，他更多是内部的OA的自动化，或者说这种重复新的工作的自动化。所以它可能体现在什么？体现在自动化运营上，体现在财务的一些重复性的工作上，然后一些内部的客户上等等等等。这个是潜移默化的。它是在一个大企业内部的一个提效的工作，而不是面向。
+</p>
+<p class="transcript-line">
+<span class="time"><strong>[00:38:12]</strong> </span>
+<span class="speaker"><strong>发言人1: </strong></span>
+客户的了解。面向客户的。
+</p>
+<p class="transcript-line">
+<span class="time"><strong>[00:38:15]</strong> </span>
+<span class="speaker"><strong>发言人3: </strong></span>
+让客户的可能大家能够就是我能够接触到，比如说HR的这个agent的，就是人力资源相关的。这个金融领域的也是做投资建议相关的。
+</p>
+<p class="transcript-line">
+<span class="time"><strong>[00:38:29]</strong> </span>
+<span class="speaker"><strong>发言人1: </strong></span>
+很多人在做，这个非常多人做，因为这个离钱近，而且投资它是非常容易闭环的，全是数字，金融全是数字。
+</p>
+<p class="transcript-line">
+<span class="time"><strong>[00:38:36]</strong> </span>
+<span class="speaker"><strong>发言人3: </strong></span>
+对对对，我自己前段时间都做了一个。
+</p>
+<p class="transcript-line">
+<span class="time"><strong>[00:38:40]</strong> </span>
+<span class="speaker"><strong>发言人1: </strong></span>
+帮帮你炒股是吗？
+</p>
+<p class="transcript-line">
+<span class="time"><strong>[00:38:42]</strong> </span>
+<span class="speaker"><strong>发言人3: </strong></span>
+对，做投资。因为现在大家都知道消息面很重要，对吧？所以说这个时候你怎么去广泛的获得数据，AI帮你分析对吧？这个很多人在做，而且这个大家都知道，就是量化是离钱最近的地方，所以说这个投资建议相关的。另外还有就是民生医疗相关的对，你看美国现在的这个医疗科技的那个指数发展的也很好的。其实就是因为大模型能够给他们创造更多的一些价值。
+</p>
+<p class="transcript-line">
+<span class="time"><strong>[00:39:09]</strong> </span>
+<span class="speaker"><strong>发言人1: </strong></span>
+我们播客其实之前聊非常多的创业者，然后其实我们蛮少有大厂的高管来上我们的播客的。所以我自己其实也有很多关于在大厂里面做业务做管理的一些问题，所以也希望今天这个可以请教一下旭卿。首先是就是我知道其实无影事业部是一个做云电脑的一个事业部。对，而且之前和二位的交流里面，我们也得知其实是增长非常快的，然后也有还不错的盈利的一个事业部。所以在这样的一个情况之下，我理解要去做转型，他是需要有决心的，或者说他是有很大的机会成本的。因为也可能就是你们选择的这个新的转型的方向，它需要很长的时间，需要很多的耕耘，才能慢慢的看到它的回报。它不会像原来的业务那样，可能再做一做或者全球化再做一做，比较快就会有增长的数字出现。那到年底汇报的时候，可能原来的业务它更容易出业绩。对，所以我不知道这个是不是方便分享一下，就你们是怎么做的如此一个大的一个决定。
+</p>
+<p class="transcript-line">
+<span class="time"><strong>[00:40:20]</strong> </span>
+<span class="speaker"><strong>发言人4: </strong></span>
+我对这个to b业务的看法，其实任何一个to b的业务相对来说都是比较长期的。他不像我说我们今天就卖个手机，比如你设计比较好，深得用深对某些用户的欢迎，马上就可以卖爆了。其实to b的业务永远都是一个相对来说可能长周期的投入，它的见效相对来说比较慢。
+</p>
+<p class="transcript-line">
+<span class="time"><strong>[00:40:39]</strong> </span>
+<span class="speaker"><strong>发言人4: </strong></span>
+我记得很清楚的是啊，16年春节之前，当时马老师其实当时到阿里云给我们讲了一件事情，他在阿里做任何一个to b的业务，投资周期都是十年。将淘宝从03年04年开始做到14年上市。然后当时也举了一下支付宝可能0006年开始做，那可能到16年可能相对来说就会比较成熟。当然阿里云是09年，当时的预测可能到19年做的会比较好。其实我觉得从这件事情也可以反馈出来，其实阿里在这些to b的业务投资上面，其实十年之内基本上不会说让你一定要做到神这样的程度，或者一定要挣多少钱。而是说在这个赛道里面怎样能够去深耕，能够做出价值能够做出长期价值。尤其是所以我们其实我在做任何一个事情的时候，其实也都是以十年为单位。去年是吴妈来了之后，把无影升级成了这样一个一级事业部，然后在这个其实也是把它当做一个非常重要的赛道。我们去年把无影和大模型当做阿里云云智能集团最重要的两个战略性的产品。
+</p>
+<p class="transcript-line">
+<span class="time"><strong>[00:41:44]</strong> </span>
+<span class="speaker"><strong>发言人1: </strong></span>
+那你今年把这个去年认为非常重要的云电脑的这个赛道就做了调整。
+</p>
+<p class="transcript-line">
+<span class="time"><strong>[00:41:49]</strong> </span>
+<span class="speaker"><strong>发言人4: </strong></span>
+没有，这个可能是大家对这件事情的一些误解。就是整个无垠我们这几年的增长增速还是非常高高的。我们也以非常高的这个三位数在往前，从业务层面，我觉得往前去增长。那我觉得这个是我们这就是为什么去年我们把它作为这个终端云计算里面最重要的战略性的产品，然后再进行推进。在这个过程中的话，我们知道大模型AI这件事情，智能体这件事情也在发生。我们就在看无影这个业务怎样能够和agent和AI这件事情进行很好的融合或者结合。给未来长期为无影这件事情提供更大的一些能量加持。我们怎样让云电脑在大模型时代给AI或者给AD给大模型提供一个非常好用的电脑，或者是手机，或者是一个代码执行环境。
+</p>
+<p class="transcript-line">
+<span class="time"><strong>[00:42:42]</strong> </span>
+<span class="speaker"><strong>发言人4: </strong></span>
+当时我们是基于这样的一个思考，然后才开始去布局这样一个方向。就像刚才所讲，真正的下定决心去做这个方向还是在GTT之后。那我们思考清楚了之后，他和无影你可以认为是一个兄弟关系，或者说是做的一个无影这个产品能力上，或者是技术能力那上做的一个扩展。当然说起来简单，但是真正的是说你要去做这件事情的时候，首先要有资源，要有人？要有更多的人力投到这件事情上面来。我觉得在过去的这个半年的时间，我觉得我还蛮纠结吧？因为一是要保证这边的业务高速增长，另外一个在保证新赛道上不踏空，能够及时的高效的把这件事情给干。
+</p>
+<p class="transcript-line">
+<span class="time"><strong>[00:43:24]</strong> </span>
+<span class="speaker"><strong>发言人1: </strong></span>
+对这个挺不容易的。
+</p>
+<p class="transcript-line">
+<span class="time"><strong>[00:43:26]</strong> </span>
+<span class="speaker"><strong>发言人4: </strong></span>
+这个确实挺不容易的。其实内部在协调的时候，你会发现，有些人有些同学他可能非常想做AI是举手报名说我一定要加入英姐同学觉得我现在还做的挺好的，并且我这边还有很重要的工作，你就直接把我硬调过来了。当然这里边我觉得有非常多的一些权衡，或者非常多的一些沟通。
+</p>
+<p class="transcript-line">
+<span class="time"><strong>[00:43:46]</strong> </span>
+<span class="speaker"><strong>发言人1: </strong></span>
+因为我理解这里面其实有一个非常难的点，就在于感觉A好像是一个未来非常光明的一个机会。会不会有一些还在做无影的同事，就感觉比较失落，没有被你们钓到。
+</p>
+<p class="transcript-line">
+<span class="time"><strong>[00:44:00]</strong> </span>
+<span class="speaker"><strong>发言人4: </strong></span>
+已经背了这个的话，领导的意思，我相信肯定是有的，我相信肯定是有的。但是总体上来讲的话，其实两边都是战略业务，只不过说这个AD的杯可能更长期一些。而无影今天已经落地，并且也保持一个非常好的增长势头。我相信做两边都都还是蛮有成就感的。
+</p>
+<p class="transcript-line">
+<span class="time"><strong>[00:44:23]</strong> </span>
+<span class="speaker"><strong>发言人3: </strong></span>
+OK老板我来发表个暴论。老板可能觉得不太方便讲，就是我稍微激进一点。我觉得其实无影做云电脑这个事情一直以来也是比较就是我们我们过去我们概念叫什么端侧算力上云。因为我们认为这个个人用户对于算力的要求，一定是你传统那个PC是满足不了的。所以我们过去做的事情，很多时候是服务于特种行业。举个例子，就这两年很多这种个人的设计师用那个SD的，用plus的对吧？还有一些做一些做仿真的一些同学，他需要那种高性的高GPU资源的这些算力，他会跑到云上去用云电脑。当然还有一些这种安全的客户，他很多时候普罗大众是没有感知的，但是今年你会发现不一样，今年电脑这个概念我觉得要被重构了。
+</p>
+<p class="transcript-line">
+<span class="time"><strong>[00:45:13]</strong> </span>
+<span class="speaker"><strong>发言人3: </strong></span>
+就是我们很多人说今年是什么？就是超级个体的一年，对吧？是个人云计算的一年，就是你个人对算力的要求，不是说传统拿个电脑就能完成了。举个例子，我现在一个任务要跑100个环境，那本地完全是满足不了的。所以说在这个时代，云电脑会真正的去把端侧商业产品这个事情去去实现掉。所以以后我们认为普罗大众所有人都需要用到云电脑。这也是我们过去一年来，过去几年一直在做的事情。然后A正B同时，我们在服务一些to b客户的时候，其实我们也服务于云电脑。我们现在在打造一台逻辑上的云电脑。
+</p>
+<p class="transcript-line">
+<span class="time"><strong>[00:45:48]</strong> </span>
+<span class="speaker"><strong>发言人3: </strong></span>
+这台云电脑是这样的，第一，它可以是持久化的，就咱们的那个状态，咱们数据都在上面。再其次，它是高并发高弹性的。就是这台云电脑你可以在有一大规模任务调度的时候，可以镜像出来100台在云上去做大规模的任务的并发的运行。然后第三，它是可以随处漫游的，它是多端的。比如说我今天给他手机上用，明天我可以在那个pad上用，后天可以拿一个电脑来用，但我们有自己的硬件。最后是它是可以通过自然语言驱动的，这个是现在当前的很多这种传统的电脑可能做不到的东西。
+</p>
+<p class="transcript-line">
+<span class="time"><strong>[00:46:24]</strong> </span>
+<span class="speaker"><strong>发言人3: </strong></span>
+但是A正B的我们做的事情本来就是让AI来使用一台电脑，对吧？所以说我们认为以后就是电脑这个事情，它第一它它是基于云的，第二它是高并发，最后这个上到80岁老人，下到7岁小孩，它都可以通过自然语言来驱动你的电脑。所以这个时候我们觉得他云电脑真正的是迎来它历史使命的时候。所以说我们传统那块业务的同学，现在依然是有相当多同学是在为这个业务的升级改造去做奋斗。
+</p>
+<p class="transcript-line">
+<span class="time"><strong>[00:46:50]</strong> </span>
+<span class="speaker"><strong>发言人4: </strong></span>
+对这个本质上来讲还是个A键的驱动电脑。比如无论是我们在睡觉，还是说我们在这这个大家在聊天的时候，其实你的那个就是近的驱动的那台云电脑都可以在帮你在做一些事情。我们也提到了这个数字员工的概念。我们希望是说一个员工可能还有一个数字分身。他其实在云上利用今天这个智能提升能力，利用云电脑的这些能力，他可以在你休息，在你任何一个时间，他可以并行的帮你去干很多复杂的任务。在云上，我们前几天还提到了一些说这个叫硅碳共生，对吧？更多的是说这个云上的这个数字人更多的是个硅基的，和真实的人之间，他们能够进行很多的一些协调和互动。
+</p>
+<p class="transcript-line">
+<span class="time"><strong>[00:47:36]</strong> </span>
+<span class="speaker"><strong>发言人1: </strong></span>
+其实我理解二位应该从参加工作以来，就是大量的会去各种各样的展会技术峰会。但听起来就是这一次GTC给你们带来了非常强烈的震撼，就震撼到当天晚上就要连夜定未来好几年的战略规划。在之前的职业生涯有过这样的感受吗？
+</p>
+<p class="transcript-line">
+<span class="time"><strong>[00:47:55]</strong> </span>
+<span class="speaker"><strong>发言人4: </strong></span>
+16年17年我去美国参加一个展会，具体名字我有点忘了。那年容器在那个会上其实是非常火的那各家公司都在谈容器，并且有这么多的容器相关的一些创业公司。但是真正的容器跑运行在无论是物理机上面还是虚拟机上面，性能都会受损。因为从文件系统层面来讲的话，它用了overly FS。它的性能相对来说，它虽然很方便，但是用起来相对来说性能会下降。那它的网络也是它的网络都是使用的最原始的虚拟网络。我所谓的虚拟网络技术用软件去虚拟化的那我觉得这些都会非常严重的影响这个容器的大规模应用。所以在那个点回来了之后，我们还布局了一个新产品，就是后来的那个叫神龙服务器。17年正式发布到整个后来业界全包了。我们的标准在做这个DPU，在做裸金属虚拟化。
+</p>
+<p class="transcript-line">
+<span class="time"><strong>[00:48:50]</strong> </span>
+<span class="speaker"><strong>发言人1: </strong></span>
+我们之前给一个朋友说旭鑫要来上十字路口，然后那个朋友说这个弹性计算的神级大佬。对，然后当时其实我就有另外一个想法，我说神级大佬现在是不是要转型了？因为然后我看到这个，因为最近我们刚发了一期，其实是这个AI时代的程序员站在十字路口。因为我们发现美国最近有一个刚出来的一个数据，就是今年毕业的本科的计算机学生6.2%的失业率，但是艺术学生只有3%，就今天学计算机的失业率是两倍于这个艺术生。所以当我看到说这个弹性计算的神奇大佬，但我觉得非常开心，我迎来这样一位重量级嘉宾。
+</p>
+<p class="transcript-line">
+<span class="time"><strong>[00:49:32]</strong> </span>
+<span class="speaker"><strong>发言人1: </strong></span>
+但另一方面我也会在想，其实今天不只是应届毕业生，其实很多人到了职场的这个中间阶段，然后突然面对AI这么一个大的冲击过来的时候，那你会有曾经感受到心慌吗？就觉得好不容易成神级大佬了，怎么现在突然又来一个那么大的技术浪潮，会不会改变一切？有过这样的时刻吗？就是你是怎么去理解和面对？
+</p>
+<p class="transcript-line">
+<span class="time"><strong>[00:50:00]</strong> </span>
+<span class="speaker"><strong>发言人4: </strong></span>
+回顾我这十几年20年的这个职业生涯，我是觉得我是一个还是相对来说比较善于思考，我是勤奋思考的一个人。其实在一在我我原来在来阿里之前，其实在英特尔工作了九年，三年实习六年工作。从08年到14年.
+</p>
+<p class="transcript-line">
+<span class="time"><strong>[00:50:20]</strong> </span>
+<span class="speaker"><strong>发言人1: </strong></span>
+我实习了三年。
+</p>
+<p class="transcript-line">
+<span class="time"><strong>[00:50:21]</strong> </span>
+<span class="speaker"><strong>发言人4: </strong></span>
+实习了三年，我应该是英特尔为数不多的几个实习三年的学生。因为在那个阶段的话，因为我当时还在读博士。当时全世界都在讨论云计算到底是什么，或者云计算应该往哪个方向发展。所以在那个阶段我非常幸运的是说，我加入了英特尔的一个叫系统虚拟化团队，主要做开源技术。开源技术就是后来比如被用到云计算里边的这个zn，KVM，我是Q这些开源项目。我觉得我非常幸运加入了这个团队。当时和我当时和我一起去的还有另外一个同学，他可能不是特别看好，因为这个东西用的人数太小众了。
+</p>
+<p class="transcript-line">
+<span class="time"><strong>[00:51:00]</strong> </span>
+<span class="speaker"><strong>发言人4: </strong></span>
+在那个阶段，大家研究虚拟化技术的，其实整个世界上也只有VN2公司，VO2和微软，和剑桥大学，和stamp大学，其实就这几个地方的研究这个技术可能加一块整个这个领域的技术人员不超过100人。大家有些人就会认为说他是个小众赛道，毕业之后可能都不一定好找个工作。但是我不这么认为，我是觉得这个技术本质上我进去之后，其实就是有点痴迷的感觉。原因就是因为原来对这个像CPU，操作系统或者底层的这些技术就比较向往。进去了之后，我真正的发现是说这个可以研究的领域，或者说可以研究的这个技术的深度可能又又下探了很多层。明白，那我觉得对我来讲吸引力比较大。
+</p>
+<p class="transcript-line">
+<span class="time"><strong>[00:51:47]</strong> </span>
+<span class="speaker"><strong>发言人4: </strong></span>
+但是在那个阶段，大家都可能对云计算对云计算需要什么样的技术更没有概念。是但是我是觉得他是这么高深的一个技术，未来一定有重要的使用的方向。结果还没等我毕业，07年06年这个AWS就AWS做匀就已经初露锋芒。是在那个点上，全世界的人都到我们那个团队去挖人。我们那个团队总共二十七八个人，大概就光被挖到美国公司的。就近十来个都是拿到了美国offer，然后直接就签迁移到美国去了。因为全世界熟悉这个领域，云计算的核心技术的这个领域可能不超过我当时讲的不超过50个人。现在想想可能也不会超过100人.
+</p>
+<p class="transcript-line">
+<span class="time"><strong>[00:52:30]</strong> </span>
+<span class="speaker"><strong>发言人1: </strong></span>
+听起来很像今天做大模型研究的一批人。
+</p>
+<p class="transcript-line">
+<span class="time"><strong>[00:52:33]</strong> </span>
+<span class="speaker"><strong>发言人4: </strong></span>
+所以在那个时间点上面的话，我觉得我还是蛮幸运的，所以参与了云计算的这个浪潮。大概14年的话我就去了阿里。我当时给我的leader就在讲，我说我们怎样能够达到一个服务千万级客户的这种计算平台。那个时候大家都觉得可能是天方夜谭，对吧？但是当时我们很坚定的是说，那整哪一些技术架构不利于我们往这种千万级客户去拓展，我们就要把费率就关键要重新来过。我觉得在14年这个时间点上我们选对了。因为15年移动互联网爆发了，就是现在的各种APP爆发了之后，你就会发现这些客户上来的时候，我们产品已经准备好了。
+</p>
+<p class="transcript-line">
+<span class="time"><strong>[00:53:13]</strong> </span>
+<span class="speaker"><strong>发言人4: </strong></span>
+是到16年的时候，当时我们优化这个比如虚拟机的性能，我们优化到和物理机相比可能也就是差三五个点。大家都觉得这是业界极限，三五个点已经是业界标杆了。但是我当时就在想，我说我们需要为未来去思考，比如你要牺牲一些。CPU资源把性能提上去，这绝对不是一个正确的方向。所以16年我其实每天都在思考这些问题。
+</p>
+<p class="transcript-line">
+<span class="time"><strong>[00:53:37]</strong> </span>
+<span class="speaker"><strong>发言人4: </strong></span>
+所以就像刚才提到的，去参加那个展会的时候，我就看到说比如像容器，像这些新的技术容器它是性看似性能无损，其实底层还有很多性能有损的东西存在。那我们应该怎样在软件协同，在芯片设计，在这些领域怎样能够提升计算性能。所以这就是为什么16年的话，我们去去布局了神龙，一举成为业界最标杆性的这个产品。几乎所有的业界的云计算公司，现在用的这个底层的技术架构都具都和神龙是没有什么差别。因为我发布之后，全世界都在follow。
+</p>
+<p class="transcript-line">
+<span class="time"><strong>[00:54:15]</strong> </span>
+<span class="speaker"><strong>发言人4: </strong></span>
+当然你提到的这个问题就是说比如像AI这个领域。AI大概我在15年的时候，我就开始去布局今天所谓的AI的基础设施。原因是因为我当时我看到阿里巴巴集团内部，我们在使用当时那个英伟达的卡叫k two。K two是一个一个现在看来是计算力非常差的一张卡。
+</p>
+<p class="transcript-line">
+<span class="time"><strong>[00:54:36]</strong> </span>
+<span class="speaker"><strong>发言人4: </strong></span>
+所谓的去做这个计算，在15年的时候我们用于机器学习，然后做一个叫拍立淘。就是类似于现在那个淘宝上面拍图，拍一个东西，然后识图，然后去把相似的东西给你推荐出来。在那个阶段的话，我们看我看到了这样一个方向之后，我觉得未来阿里有这个需求，外部的公司也有这个需求。所以我五年我们就开始布局这个AI基础设施。到16年底的时候，我们产品已经做出来了。
+</p>
+<p class="transcript-line">
+<span class="time"><strong>[00:55:06]</strong> </span>
+<span class="speaker"><strong>发言人4: </strong></span>
+这真的非常巧的是说，在16年底上一轮，比如像深度学习为主的计算机视觉，语音为主的AI的上一波浪潮，它就爆发了。所以我们在上一波浪潮里面，我们服务了超过中国。我们号称是超过中国80%的科技公司的AI算力的需求都在阿里云上。那是因为我们在15年就布局了这个产品，但是在那个时间点上，没有爆发。在17年的时候我们做出了神龙，当时我们就在布局说面向未来大规模参数的这种AI基础设施到底是什么样子？所以我们后来就布局了这个GPU的超级计算机群，这样一个产品。
+</p>
+<p class="transcript-line">
+<span class="time"><strong>[00:55:48]</strong> </span>
+<span class="speaker"><strong>发言人4: </strong></span>
+其实在过去的这么多年，我觉得看下来的话，总体上来讲的话，还是说我们我觉得要为未来思考一些。尤其是做技术管理之后，你会发现你要的为未来2到3年可能发生的一些事情，做一些预言的工作，做一些准备性的工作。而不是说等到浪潮再来到的时候，浪已经到了，然后你再去防御，对。
+</p>
+<p class="transcript-line">
+<span class="time"><strong>[00:56:13]</strong> </span>
+<span class="speaker"><strong>发言人1: </strong></span>
+那个阶段可能就晚了。现在你再看A被为未来做的这些事情里面，有哪一件事情是你会有点担心说我可能会读错的。
+</p>
+<p class="transcript-line">
+<span class="time"><strong>[00:56:21]</strong> </span>
+<span class="speaker"><strong>发言人4: </strong></span>
+我们做了这些东西，我倒不担心他哪一件事情会读错，而是说要在这个整体你的布局里边或者说哪一块我没有想到，这是我每天在思考。
+</p>
+<p class="transcript-line">
+<span class="time"><strong>[00:56:31]</strong> </span>
+<span class="speaker"><strong>发言人1: </strong></span>
+的问题OK就不知道自己不知道什么。
+</p>
+<p class="transcript-line">
+<span class="time"><strong>[00:56:34]</strong> </span>
+<span class="speaker"><strong>发言人4: </strong></span>
+对，这个是最可怕的。
+</p>
+<p class="transcript-line">
+<span class="time"><strong>[00:56:36]</strong> </span>
+<span class="speaker"><strong>发言人2: </strong></span>
+明白，现在我觉得一个大势所趋，好像就是听到很多人都说这个就是你要什么都要会一点，然后特别是一人。
+</p>
+<p class="transcript-line">
+<span class="time"><strong>[00:56:44]</strong> </span>
+<span class="speaker"><strong>发言人4: </strong></span>
+公司。
+</p>
+<p class="transcript-line">
+<span class="time"><strong>[00:56:44]</strong> </span>
+<span class="speaker"><strong>发言人2: </strong></span>
+一个人可以干很多的事情。你会建议比如说一个出阶一点的工程师，或者是一个稍微可能工作了几年的工程师，是在自己的这个领域增强自己的能力，还是说看看到现在这个大势所趋，就是你好像什么都要会一点。
+</p>
+<p class="transcript-line">
+<span class="time"><strong>[00:57:04]</strong> </span>
+<span class="speaker"><strong>发言人4: </strong></span>
+对我是觉得这可能在不同的阶段。如果说是一个刚入职场的这些工程师，其实真正的还是聚焦于某一个领域，把它做深。如果说你的知识面，知识面当然很重要了。但是如果说你的在某一个领域里边的知识深度，如果没有很强的积累的话，你其实未来整体的发展还是会受限的。原因是因为不是说你知道了多少，因为现在大模型什么都知道，你问了什么样的问题，他都能给你讲的非常深入。但是说你让他做一些非常专业的，非常尤其是在某些技术领域需要深度钻研的东西。那今天大模型可能还没有那么擅长，或者说要进行，尤其是说要结合人的这种大脑的思维活动，能够有些东西可能并不是说大模型这些东西知道的宽泛就可以解决的。
+</p>
+<p class="transcript-line">
+<span class="time"><strong>[00:57:51]</strong> </span>
+<span class="speaker"><strong>发言人4: </strong></span>
+所以对一个人工程师来讲的话，也是就是我我的建议还是就像我当年一样。我是觉得我需要把这个虚拟化技术研究深入之后，你怎样再看结合你今天所从事的业务，怎样把它的价值充分的给发挥出来。那这样的话就是从一个技术，你到周边的这些技术，你都要去能够融会贯通起。这样做出来的产品才会有竞争力，你的业务才会有个更好的增长。
+</p>
+<p class="transcript-line">
+<span class="time"><strong>[00:58:18]</strong> </span>
+<span class="speaker"><strong>发言人2: </strong></span>
+对人的要求还是越来越高了。
+</p>
+<p class="transcript-line">
+<span class="time"><strong>[00:58:21]</strong> </span>
+<span class="speaker"><strong>发言人4: </strong></span>
+对。
+</p>
+<p class="transcript-line">
+<span class="time"><strong>[00:58:22]</strong> </span>
+<span class="speaker"><strong>发言人1: </strong></span>
+其实我比较好奇，就听起来这个徐清不管是在实习的时候，还是在15年16年的时候，一开始看到云计算，后来看到弹性计算。然后包括到现在这个也是在bat未来的AJ info的增长。然后至少往前看，你的非常多的预判都后来被验证是就非常正确的。你验证就是你预判到了这个科技世界最大的潮流。你有抽象总结过自己为什么可以做出这样的成功的预判吗？这背后需要哪些素质也好，工作习惯也好，思维的这个方式也好。
+</p>
+<p class="transcript-line">
+<span class="time"><strong>[00:58:58]</strong> </span>
+<span class="speaker"><strong>发言人4: </strong></span>
+我觉得是这样的，其实就是对未来会发生什么，其实要从今天发生的事情要寻找一些蛛丝马迹的。就像我刚才提到的，比如说16年当时是我们双十一总结会，我们的那个CTO就是现在达摩院院长张建峰提出来说，虚拟化技术你们今年做的很好，只有3%到5%的性能损失。但是你们能不能做到没有性能损失，这是他提的第一个要求。
+</p>
+<p class="transcript-line">
+<span class="time"><strong>[00:59:24]</strong> </span>
+<span class="speaker"><strong>发言人4: </strong></span>
+如果说我今我不参加双十一的这个会议，或者说他讲了这句话，我就忽略掉了，我觉得这哪可能，对不对？3%到5%一定是极致了，为什么你给我提供？看来老板不懂对不对？你如果是这种思考的话，那你可能不会有进步。而我当时就觉得说，我是这个领域里面的技术一号位。那老板提了这样一个需求，看似不可能。我们能不能换一个思路，然后看看未来它会不会发生。
+</p>
+<p class="transcript-line">
+<span class="time"><strong>[00:59:52]</strong> </span>
+<span class="speaker"><strong>发言人4: </strong></span>
+所以在那个时间点上面，我又去参加了一些展会，你会发现很多相关的技术都在如火如荼的发展。那你把这些错综复杂的这些因素或者线索你放在一起的时候，你就我当时给他们讲，我说你看有一个东西可能要发生的，叫软硬件协同设计，或者软硬件深度协同优化可能要发生了。在我们这个领域能不能通过软硬件的协同设计和优化，带来一些革命性的技术变革？
+</p>
+<p class="transcript-line">
+<span class="time"><strong>[01:00:20]</strong> </span>
+<span class="speaker"><strong>发言人4: </strong></span>
+我就提出了这样一个话题，我也也在每天不断的思考说我要想完成这样的一个任务的话，或者完成这样的一个预设目标的话，哪些技术可能今天还不够？哪些技术使用今天的，比如芯片的技术或者系统软件的技术还做不到。那我是不是要去布局一个芯片？我是不是要去布局一个哪一项，比如系统技术的研发。
+</p>
+<p class="transcript-line">
+<span class="time"><strong>[01:00:46]</strong> </span>
+<span class="speaker"><strong>发言人4: </strong></span>
+当这些东西都想明白的时候，我觉得最后可能还要去布局一颗芯片，那我们就开始去做那个深入芯片了解。那我就说服管理层说，你给我投入去做这样一颗芯片。那当然阿里其实还没有没有人去做过芯片，你知道吧？那在那个时间点上面的话，我觉得我需要去说服。如果说看到了这个机会，你没有说服管理层给你投资，可能三五年之后被验证了，那可能不是打脸的事情。而是说公司可能会错过了一个很重要的战略转反正机会。所以我基本上都是从今天发生的事情里边去寻找一些线索和或者说今天遇到的一些困难，我们看似解决不了的问题，那未来有没有解决的可能？
+</p>
+<p class="transcript-line">
+<span class="time"><strong>[01:01:27]</strong> </span>
+<span class="speaker"><strong>发言人1: </strong></span>
+我就想起反正我们都很喜欢的一篇文章，就是graham写的，他叫如何成就伟大事业。这里面讲到就是你要找到那种就是你自己干起来毫不费力，但是别人觉得很难的事情。然后那个事情很可能就是你做出别人做不到的事情的一个起点。对所以你会有这种感觉吗？就一路以来其实在外人看来，好像你做的很多事情都很难，就是困难程度非常高，挑战也巨大。但是其实你自己好像还是做起来挺快乐，挺得心应手的，就找到了自己所谓的自己做起来可能没有那么费力，但是别人看就觉得很难的事情。
+</p>
+<p class="transcript-line">
+<span class="time"><strong>[01:02:07]</strong> </span>
+<span class="speaker"><strong>发言人4: </strong></span>
+恰恰相反。加入云圈之后，在那个团队里边我看到我周边的那些技术大牛们，真正的因为他们开会的话，你会首先会感受到的是说，他们说的每一句话还都不是英文，都是中文，你都听得懂是是是字面意思，但是都不知道他们在讨论什么。但是我当时就觉得是说，我需要用半年的时间能够听懂他们去做什么，他们在讨论的是什么。我觉得我听不懂这件事情的话，其实就是我成长进步的可能性在这儿。但是如果说我听不懂我就放弃了，那我觉得可能也不是我的个性。
+</p>
+<p class="transcript-line">
+<span class="time"><strong>[01:02:43]</strong> </span>
+<span class="speaker"><strong>发言人1: </strong></span>
+你觉得自己的这样的这个性格是或者这样的学习的这种欲望习惯，他是怎么在你身体里面发生的？
+</p>
+<p class="transcript-line">
+<span class="time"><strong>[01:02:51]</strong> </span>
+<span class="speaker"><strong>发言人2: </strong></span>
+从小就是好学生。
+</p>
+<p class="transcript-line">
+<span class="time"><strong>[01:02:52]</strong> </span>
+<span class="speaker"><strong>发言人4: </strong></span>
+其实我觉得这个可能真正的和个性有关，其实个性可能就是与生俱来的。你说他要强也好，你说他叫其他的什么个性也好，我觉得总体上来讲的话，我是我是喜欢看到困难的东西，而不是喜欢看到一件很简单的事情，这么简单搞定了。而不是这个，而是更更喜欢挑战性的一些东西。对。
+</p>
+<p class="transcript-line">
+<span class="time"><strong>[01:03:15]</strong> </span>
+<span class="speaker"><strong>发言人1: </strong></span>
+就是明知山有虎，越是这样的山越喜欢。那你觉得你今天做AG的info面对的这个挑战和过去曾经面对的挑战，这是一个什么级别的难度？
+</p>
+<p class="transcript-line">
+<span class="time"><strong>[01:03:27]</strong> </span>
+<span class="speaker"><strong>发言人4: </strong></span>
+我觉得做整个在布局A键的input来讲的话，就是你刚才问的那个问题。其实对我来讲的话，其实要学习很多新的东西。对我经常要找他，找产品经理，找我们的技术研发leader去探讨各种各样的事情。因为他可能和我以前学到的东西，和我以前所熟知的东西不太一样。那对我来对我个人来讲，我觉得是一个很很有挑战性的事情。我需要把它搞懂，我才能跟他进行平等的交流，不然的话他忽悠我，我也不知道对吧？所以我觉得对我来讲的话，这个还挑战性还是蛮大的，还是有的。
+</p>
+<p class="transcript-line">
+<span class="time"><strong>[01:04:02]</strong> </span>
+<span class="speaker"><strong>发言人2: </strong></span>
+刚刚说到就是当你看到一个前面未来的一个方向，然后你希望公司能够投入去发展这一块。但是它可能是一个未知的东西，然后你要去说服老板，你是怎么说服了？
+</p>
+<p class="transcript-line">
+<span class="time"><strong>[01:04:15]</strong> </span>
+<span class="speaker"><strong>发言人4: </strong></span>
+这个就很有意思了，就比如像我要做那个神龙，我们内部叫冒卡，可能业界现在都把它叫成DPU对吧？因为当时说实在的，我来我进阿里也才两年，在16年的时候我进阿里才两年。但是确实在16年之前，就像你刚刚提到了，我做了很多决策，大家都还是比较幸福的。因为无论是救火的，还是说我们长期的架构决策，大家一个一个的都被验证了。
+</p>
+<p class="transcript-line">
+<span class="time"><strong>[01:04:41]</strong> </span>
+<span class="speaker"><strong>发言人4: </strong></span>
+但是到16年突然给老板讲说，我要去做个芯片。这件事情对任何一个老板来讲都是很有挑战的对，确实很有挑战的。我当时我的leader是现在的阿里云政企的总裁，就是李金。我当时几乎几乎每天早上，甚至是说他到公司了，那我就到公司了，我就给他讲这个东西有多么的重要。然后大概我跟他讲了半个月之后，我终于把他说服了。
+</p>
+<p class="transcript-line">
+<span class="time"><strong>[01:05:08]</strong> </span>
+<span class="speaker"><strong>发言人4: </strong></span>
+后来当然也被验证的是正确的当我们在17年云栖大会发布的时候，其实世界的全世界云计算公司都觉得还可以这么干。以前大家觉得虚拟机的上线是物理机，现在是虚拟机的上线是没有上线。那当这个理念被认可的时候，我觉得当然这个团队的成就感也来了。
+</p>
+<p class="transcript-line">
+<span class="time"><strong>[01:05:27]</strong> </span>
+<span class="speaker"><strong>发言人2: </strong></span>
+因为我觉得这是一个职场挺容易出现那种现象。就是一线的人他未必不是看不到今后可能会怎么样，然后公司应该投入做什么。但是可能对他来讲的一个挑战是，他要怎么样说服老板来投资源。
+</p>
+<p class="transcript-line">
+<span class="time"><strong>[01:05:41]</strong> </span>
+<span class="speaker"><strong>发言人4: </strong></span>
+所以我还是希望我的团队的员工，我大家能够遇到这些困难的时候，能够迎难而上，能够来说服我需要做这些方面的一些投资。
+</p>
+<p class="transcript-line">
+<span class="time"><strong>[01:05:52]</strong> </span>
+<span class="speaker"><strong>发言人1: </strong></span>
+好，然后刚才其实徐青有提到，你们今年拿了更多的人的high on，也拿了更多的钱和资。对，所以现在也不要在这里招聘一下。
+</p>
+<p class="transcript-line">
+<span class="time"><strong>[01:06:03]</strong> </span>
+<span class="speaker"><strong>发言人4: </strong></span>
+谢谢。当然我们也是非常希望更多的真正的认同这样一个方向的。无论是刚毕业的大学生，还是有在AI领域有非常有经验的这些资深的开发人员加入我们团队，大家一起来共创未来这个AD的info这个平台能够让更多的企业在开发自己的A进的时候会更加高效。
+</p>
+<p class="transcript-line">
+<span class="time"><strong>[01:06:24]</strong> </span>
+<span class="speaker"><strong>发言人1: </strong></span>
+好，今天谢谢二位。
+</p>
+<p class="transcript-line">
+<span class="time"><strong>[01:06:26]</strong> </span>
+<span class="speaker"><strong>发言人3: </strong></span>
+好。
+</p>
+<p class="transcript-line">
+<span class="time"><strong>[01:06:27]</strong> </span>
+<span class="speaker"><strong>发言人4: </strong></span>
+谢谢。
+</p>
+<p class="transcript-line">
+<span class="time"><strong>[01:06:27]</strong> </span>
+<span class="speaker"><strong>发言人1: </strong></span>
+辛苦。
+</p>
+<p class="transcript-line">
+<span class="time"><strong>[01:06:29]</strong> </span>
+<span class="speaker"><strong>发言人4: </strong></span>
+如果。
+</p>
+<p class="transcript-line">
+<span class="time"><strong>[01:06:32]</strong> </span>
+<span class="speaker"><strong>发言人1: </strong></span>
+你有朋友也喜欢本期十字路口的内容，请转发微信推荐给他们。最后欢迎你加入十字路口的会员群，我们鼓励大家在群里聊天互动，交朋友，寻找未来的同路人。
+</p>]]></content:encoded>
+            <pubDate>Sun, 17 Aug 2025 16:00:00 GMT</pubDate>
+            <guid>689efce251528e172ad7f729</guid>
+        </item>
         <item>
             <title>尝试、听内心的声音、增强自己的不可替代性……和 4 位 Z 世代年轻人聊 AI 时代的机会和选择</title>
             <link>https://www.xiaoyuzhoufm.com/episode/6898a4f620a2906a4dd669de</link>
@@ -32606,1274 +33784,6 @@ AI他可以告诉你，你在管理员工的时候，你要比如说你要给他
 </p>]]></content:encoded>
             <pubDate>Sun, 12 Jan 2025 13:02:01 GMT</pubDate>
             <guid>6783bb351bf3f0ab2b9d9032</guid>
-        </item>
-        <item>
-            <title>2025 开年对谈：AI 关键之年，Agent 开启元年 | 对谈真格基金戴雨森</title>
-            <link>https://www.xiaoyuzhoufm.com/episode/677a4bf115a5fd520e25cb43</link>
-            <description>2025 开年第一周，本期是真格基金播客「此话当真」与「十字路口」的串台特别节目。我们邀请到了老朋友、真格基金管理合伙人戴雨森做客。我们不仅回顾了 AI 在过去一年的飞速发展，还展望了 2025 年 AI 创业领域的重大机遇。
-站在 2025 年初，我和雨森都感到无比兴奋，认为我们正在亲历科技史上的重要时刻。这份兴奋源自两个重大事件：Devin 的问世，以及 OpenAI 发布的 o3。
-正因如此，我们满怀乐观地迎接 2025 年，坚信这将是充满希望的一年。
-半年前，在「十字路口」，雨森曾打了一个比方：大模型还是小学生，不该急着让它去打工。如今，随着真正可用的 Agent 产品 Devin 的发布，雨森认为 AI 编程领域完成了重要进化——从&quot;我问你答&quot;，到&quot;我问你写&quot;，再到&quot;我问你做&quot;。这个突破不仅代表 AI 编程领域的重大进展，更预示着一批充满潜力的 AI 垂直领域创业机会。
-💚 希望大家新年快乐，拥有爱和希望。
-🟢
-Part 1 - 2024 年
-03:19 用一个字形容2024年的感受：「快」
-11:06 未来已来，但尚未均匀分布
-12:58 AI 应用落地新要件：幻觉减少、编程能力提高、计算机使用
-15:35 AI是属于00后创业者的时代吗？新一代创业者身上的共性？
-18:03 在 2024 超预期的进展：预训练进入瓶颈、Agent落地加速、大模型成本下降
-21:50 新的产品形态，将在「强化学习」和「上下文语境」中诞生
-27:30 AI编程发展四段论：ChatGPT → Github Copilot → Cursor → Devin
-31:22 为什么鼓励 AI 出海？鼓励什么样的人出海？
-33:45 给中国创业者的出海建议：想清楚「做什么」+「如何推广」
-🟢
-Part 2 - 2025 年
-38:02 Devin 为何如此令人兴奋？
-41:37 从 Devin 中，体验到了怎样的未来？
-43:36 新范式的特征：异步体验、云端虚拟机、知识积累、任务收费
-55:47 「Cursor 是程序员的 Copilot，Devin 是老板们的 Scaling Law。」
-01:06:08 对AI保持乐观：人、模型、产品，PMF 磨合仍需耐心
-01:12:27 2025年，什么应用方向更容易落地？创业边界在哪里？
-01:18:16 充满希望的新技术浪潮：Agent、可拓展个性化、o3
-01:31:08 生成式 AI Native 的大机会长成什么样子？
-01:34:30 2025年，投资人的共识与非共识
-欢迎订阅「十字路口」播客
-🚦 我们关注新一代 AI 技术浪潮带来的行业新变化和创业新机会。十字路口是乔布斯对苹果公司的一个比喻，形容它站在科技与人文的十字路口，伟大的产品往往诞生在这里。AI 正在给各行各业带来改变，我们寻找、访谈和凝聚 AI 时代的「积极行动者」，和他们一起，探索和拥抱新变化，新的可能性。
-👦🏻 主播 Koji：新世相/躺岛的联合创始人。我相信科技尤其是 AI 会在未来彻底改变社会，赋能人类，欢迎大家找我聊天，碰撞想法，链接下一个可能性。Koji 的即刻，Koji 的网站
-👧🏻 主播 Ronghui：供职于科技 VC，前《第一财经周刊》驻硅谷记者，Ronghui 的即刻
-欢迎加入「十字路口」的会员群
-☀️ 第一手的 AI 资讯与洞察
-👫🏻 鼓励大家谈恋爱/交朋友/寻找未来的同路人
-🦀 添加小助理微信入群：Rwkfbcianvd ，或扫下方二维码
-🎄 本播客由「新世相声音森林播客计划」支持。</description>
-            <content:encoded><![CDATA[<h1>转写链接</h1>
-<link>https://tongyi.aliyun.com/efficiency/doc/transcripts/3vl8qg4je5xbqpr2</link><br>
-<h1>节目摘要</h1>
-<div class="summary">本期播客深入讨论了人工智能（AI）技术的迅速发展及其对行业、创业领域的深远影响。强调了AI在解决实际问题、提高生产力方面的潜力，以及如何通过AI实现个人和企业的成长与转型。讨论覆盖了AI技术从辅助工具向自主助手转变的重要性，特别是在工作模式上的革命性影响。此外，还探讨了AI在不同领域如法律、商业分析、教育中的应用，以及其对未来社会和商业模式的可能颠覆。尽管面临挑战，如成本、可用性和有效管理，但预计AI技术将持续发展，广泛应用于各行业，为社会带来积极变化。</div><br>
-<h1>章节速览</h1>
-<div class="chapters">
-<div class="chapter-item">
-<span class="time"><strong>[00:00:00]</strong> </span>
-<span class="chapter-title"><strong>探索AI新纪元：2025年的机遇与挑战</strong></span>
-<div class="chapter-summary">随着AI技术的飞速发展，2025年被视为科技史上一个关键的转折点。在这一年，我们见证了David和O3等重要AI产品的发布，这些事件标志着AI技术进入了新的发展阶段。对于投资者和创业者而言，这些技术的进步不仅预示着社会的变革，同时也带来了巨大的商业机遇。在这个背景下，科技杨元成与真格基金的管理合伙人戴雨森共同探讨了2024年AI行业的整体发展，以及David如何成为AI领域的一大亮点，并揭示了未来AI发展的方向和创业的机遇。作为乐观的进步主义者，他们相信在AI浪潮中，乐观者才能成功。</div>
-</div>
-<div class="chapter-item">
-<span class="time"><strong>[00:03:13]</strong> </span>
-<span class="chapter-title"><strong>2024年AI技术与投资发展回顾</strong></span>
-<div class="chapter-summary">2024年见证了AI技术的快速发展，模型和产品的进化速度显著。年初，GBT4是最先进的模型，到年底，so net 3.5的性能大幅提升，最新发布的模型在特定测试中成绩显著提高，展示了AI在解决复杂任务方面的能力日益增强。同时，AI在数学难题上的表现也有了明显进步。在应用方面，新上线的产品迅速积累了大量用户，视频生成模型的技术进步使得普通人可以更容易地接触到这些先进的AI工具。此外，行业内对于AI的预期和实际发展存在差异，某些预测未能成真，而一些被低估的技术和产品最终证明了自己的价值。整体来看，尽管AI领域内存在不少变数和挑战，但技术进步的速度和应用的广泛程度都超出了人们的预期。</div>
-</div>
-<div class="chapter-item">
-<span class="time"><strong>[00:07:50]</strong> </span>
-<span class="chapter-title"><strong>AI技术应用及商业化进展</strong></span>
-<div class="chapter-summary">讨论集中在AI技术，特别是大模型的进步及其在商业应用中的潜力。一年前，观点认为AI技术尽管进步迅速，但离真正商业化、大规模应用尚远。然而，随着时间的推移，AI在特定领域的应用能力已显著提高，如编程领域，某些模型已能解决50%的问题，显著提升了生产力，并诞生了多种商业化产品。这些产品不仅在收入上迅速增长，也证明了AI技术的商业化潜力。同时，AI技术的快速扩散和用户群体的迅速增长表明，AI正逐渐成为某些专业领域不可或缺的工具，其应用的加速不仅限于专业领域，也正在帮助普通人实现更多的创造。讨论也反映了对于AI技术发展的乐观态度和对未来的积极展望。</div>
-</div>
-<div class="chapter-item">
-<span class="time"><strong>[00:13:13]</strong> </span>
-<span class="chapter-title"><strong>AI技术进展与创业趋势分析</strong></span>
-<div class="chapter-summary">随着AI技术的发展，特别是模型推理能力的增强、编程能力的提升，以及AI工具使用的改进，AI应用的落地速度正在加快。展望2025年，AI代理（agent）的实施预计将引发各个领域的新尝试。中美两国在AI创业方向上存在显著差异，中国侧重于to C应用和机器人领域，而美国则侧重于各细分领域内替代部分人类工作的应用。这一差异反映了两国市场和政策环境的不同。AI技术的进展为年轻创业者提供了新的机遇，尤其是在机器人和智能应用开发方面，尽管存在过热的担忧，但整体而言，创业者和投资者对于AI的未来持乐观态度。</div>
-</div>
-<div class="chapter-item">
-<span class="time"><strong>[00:16:07]</strong> </span>
-<span class="chapter-title"><strong>新时代创业者的特点与挑战</strong></span>
-<div class="chapter-summary">新时代的创业者普遍具有国际化的视野，得益于信息传播速度的加快，能够迅速了解和响应海外的新趋势，从而使得他们的产品往往具有全球化的特点。此外，这些创业者通常具有AI领域的研究或实践经验，让他们能更早地发现并实施商业机会。尽管如此，他们也可能缺乏在推广和商业化方面的经验，这是他们需要学习和提升的领域。然而，通过吸纳具有丰富互联网增长经验的人才，这些创业者能够克服这些挑战，展现出巨大的潜力。</div>
-</div>
-<div class="chapter-item">
-<span class="time"><strong>[00:17:57]</strong> </span>
-<span class="chapter-title"><strong>AI技术进展与行业认知变迁</strong></span>
-<div class="chapter-summary">从一年前到现在，AI技术经历了显著的进步和认知上的变化。之前，人们普遍认为增加硬件资源（如GPU卡数量）就能提升模型性能，导致英伟达等公司股价大涨。然而，随着时间的推移，人们开始意识到单纯依赖增加算力和数据量已接近瓶颈，转而重视新知识的获取和模型效率的提升。特别是，模型的推理能力、代码生成能力和工具使用能力的快速发展，加速了自主代理(agent)在数字世界的落地应用。此外，原本预期模型规模会不断增大，但实际上通过优化模型结构和减少能耗，能够在不大幅增加模型大小的情况下实现性能提升，这降低了模型应用的成本，开启了更多的应用可能性。</div>
-</div>
-<div class="chapter-item">
-<span class="time"><strong>[00:21:51]</strong> </span>
-<span class="chapter-title"><strong>认知变迁对投资和AI技术发展的重要性</strong></span>
-<div class="chapter-summary">在过去几年，强化学习的兴起和模型训练后的能力提升成为了特别重要的认知变迁。特别是对于投资人来说，对于前沿研究的认知有时存在滞后，而24年重点之一是强化学习的兴起，显示了模型能力提升的巨大潜力。此外，提出了影响力扩展定律，强调了如何通过延长推理时间以获得更好的结果。另一个重要的认知变迁是模型对于上下文的处理，如ChatGPT和Cursor能够通过利用更多的上下文信息来更好地理解意图和回答问题。这些变化表明，设计能更好地整合用户上下文的新产品形态将是未来发展的重要方向。</div>
-</div>
-<div class="chapter-item">
-<span class="time"><strong>[00:24:58]</strong> </span>
-<span class="chapter-title"><strong>OpenAI新发布：增强AI上下文理解能力</strong></span>
-<div class="chapter-summary">OpenAI在最近的发布会中推出了一系列创新功能，特别是ChatGBT的Mac版本，能够读取屏幕内容作为上下文，从而更精准地回复用户问题。这一功能超越了简单的截图，可以深入理解程序窗口内的全部内容，甚至追踪光标位置以判断用户注意力集中点。此外，OpenAI还推出了一个多模态理解功能，用户可通过摄像头指向物品询问，体现了AI在理解真实世界信息上的巨大进步。这些技术的应用不仅限于编程领域，也为AI与用户的互动提供了更深层次的理解和应用，预示着AI技术在实际应用中的巨大潜力和进步。</div>
-</div>
-<div class="chapter-item">
-<span class="time"><strong>[00:27:23]</strong> </span>
-<span class="chapter-title"><strong>AI编程发展四阶段论</strong></span>
-<div class="chapter-summary">AI编程领域经历了四个发展阶段：初始阶段AI直接编写代码，如通过ChatGPT完成特定编程任务；第二阶段AI基于开放代码库进行代码编写，如GitHub Copilot整合组织代码库作为上下文；第三阶段AI不仅自动生成代码，还能执行相关操作，如Cursor和Windows设备的使用；最后阶段AI成为虚拟员工，能够自主规划任务和执行操作，如David的出现，展示了AI可以独立完成任务并进行调整的能力。这四个阶段反映了AI编程从简单的代码生成到成为能够独立完成复杂任务的虚拟员工的演进过程。</div>
-</div>
-<div class="chapter-item">
-<span class="time"><strong>[00:31:00]</strong> </span>
-<span class="chapter-title"><strong>探讨AI创业出海的机遇与挑战</strong></span>
-<div class="chapter-summary">出海对于AI创业者来说变得尤为重要，主要因为AI技术能显著提高生产力，而欧美等地区对生产力工具的付费意愿较强。此外，出海还能利用更先进的模型，解锁更多应用场景。成功的AI出海创业需要深入了解海外用户需求，采用低成本高回报的营销策略，同时需注意文化的差异。尽管出海充满机遇，但并非所有团队都适合，因为海外市场同样充满挑战。</div>
-</div>
-<div class="chapter-item">
-<span class="time"><strong>[00:36:04]</strong> </span>
-<span class="chapter-title"><strong>探讨AI硬件投资与AI编程助手David的应用</strong></span>
-<div class="chapter-summary">对话集中在两方面：一是对AI硬件领域的投资态度和观察，指出虽然AI硬件利用中国优势资源看上去吸引人，但实际落地存在困难，因此投资态度谨慎；二是详细讨论了AI编程助手David的使用体验，强调了其在解决非标准化任务上的潜力，以及对于非开发者来说的重要意义，展示了AI技术在辅助人类完成复杂任务方面的进步。</div>
-</div>
-<div class="chapter-item">
-<span class="time"><strong>[00:41:32]</strong> </span>
-<span class="chapter-title"><strong>体验未来：自主代理的革命性影响</strong></span>
-<div class="chapter-summary">体验了一款名为David的自主代理产品，这款产品被认为是人类历史上的一大进步，因为它代表了不需要持续注意力且能自主规划解决问题的新型工具。这种工具超越了传统的需要持续注意力的工具和机械化重复的自动化工具，标志着自主代理（Agent）时代的到来。David具有任务规划能力，能实现异步体验，可云端部署并在自己的虚拟机上运行，还具备学习和积累知识的能力，能够不断成长以适应组织需求。此外，它还提出了根据任务完成度进行收费的模式，具有成本效益。这款产品的出现预示着生产力的新时代，可能改变人们的工作方式和企业对人力的需求。</div>
-</div>
-<div class="chapter-item">
-<span class="time"><strong>[00:47:43]</strong> </span>
-<span class="chapter-title"><strong>虚拟助手David的高级应用与管理体验</strong></span>
-<div class="chapter-summary">讨论重点在于虚拟助手David如何模拟真实员工的工作模式，包括任务理解、拆解、执行与汇报等。通过具体任务示例，如网站制作和LinkedIn信息抓取，展示了David能够依据指令完成复杂工作，并通过虚拟机技术保护用户数据安全，实现任务的并行处理。此外，讨论还提及了David在提高工作效率、辅助决策方面的潜力，比喻其为人人可拥有的“CEO”级助手，强调了其在现代工作流程中的重要作用和高效性。</div>
-</div>
-<div class="chapter-item">
-<span class="time"><strong>[00:50:59]</strong> </span>
-<span class="chapter-title"><strong>AI技术对未来工作和教育的影响</strong></span>
-<div class="chapter-summary">讨论集中在如何利用AI技术高效地提出和解决问题，以及AI在减少重复劳动和促进创新方面的潜力。强调了AI能帮助人们利用已有的解决方案和工具，从而让人们能更专注于思考和创造，而不是重复性工作。此外，还提到了AI技术对未来教育体系的可能影响，预示着教育将更加侧重于培养提出问题和创造性解决问题的能力，而非仅仅关注于执行和操作技能。最后，指出了2025年AI技术，特别是AI coding的革新将如何推动法律、商业分析和教育等领域的变革，并创造出新的创业机会。</div>
-</div>
-<div class="chapter-item">
-<span class="time"><strong>[00:55:50]</strong> </span>
-<span class="chapter-title"><strong>探讨工作规模化定律及其对创业和管理的影响</strong></span>
-<div class="chapter-summary">对话中讨论了David作为历史上首个不需要持续注意力且非机械重复的工具，标志着工作规模化（scaling law）的新阶段。这使得通过增加投资即可提升生产力成为可能，改变了人们对于创业和管理的看法。创业者可通过管理AI代理（A型）而非人类员工，以较少成本快速实现想法，开启了更多的创业机会和创新空间。同时，这种变化也意味着个人能够承担更多的工作量，实现所谓的超级个体，即一个人可以完成原来需要多人完成的任务。</div>
-</div>
-<div class="chapter-item">
-<span class="time"><strong>[01:00:20]</strong> </span>
-<span class="chapter-title"><strong>探讨AI辅助工具在编程中的价值与应用</strong></span>
-<div class="chapter-summary">对话集中在分析AI辅助编程工具的价值，特别是对比了500美金的价格与传统工具的成本，强调了AI工具如David和Cursor在提高工作效率方面的潜力。指出，虽然这些工具可能在初期表现为“实习生”级别的辅助，但随着能力的提升，它们有可能成为更高级别的帮手。同时，讨论也触及了用户对AI工具的期望管理，强调了学习如何有效利用这些工具的重要性。最后，提出了一个观点，即AI辅助编程是朝着颠覆式创新的方向发展，需要时间和适应过程。</div>
-</div>
-<div class="chapter-item">
-<span class="time"><strong>[01:04:33]</strong> </span>
-<span class="chapter-title"><strong>从黑莓到iPhone：AI技术的进步与应用展望</strong></span>
-<div class="chapter-summary">对话内容围绕着AI技术的进步及其应用前景展开。一方面，通过具体例子说明了如何从挑战中看到机遇，强调了乐观态度的重要性以及看到未来可能性而非仅仅当前问题的重要性。另一方面，讨论了AI技术从早期的分散、技术限制到现在的进步，特别是在推理能力、编程能力和工具使用能力上的显著提升，将当前AI技术比喻为从&#x27;黑莓时代&#x27;过渡到&#x27;iPhone时代&#x27;的阶段。这标志着技术进步已经解锁了更多的应用机会，预示着AI编程将从简单的问答模式转变为更具创新性的应用，展示了对2025年及以后AI领域乐观的展望。</div>
-</div>
-<div class="chapter-item">
-<span class="time"><strong>[01:08:53]</strong> </span>
-<span class="chapter-title"><strong>PMF的实现与技术进步的关联</strong></span>
-<div class="chapter-summary">讨论重点在于产品与市场的契合（PMF）如何通过技术进步，特别是AI和模型的更新实现。案例中提到的产品，如curse和David，其成功在很大程度上依赖于更强的技术和模型支持，如so net的3.5的出现使得特定产品能够实现其功能。此外，讨论也指出，随着技术的发展，尤其是移动互联网向生成式AI的转变，用户需要学习如何更有效地利用这些技术。这表明，在技术的早期阶段，产品和用户之间存在一个磨合期，而技术的进步解锁了新的机会，特别是在agent领域。未来应用方向的讨论集中在能够落地的具体领域，强调了技术、模型进步和产品应用之间的相互作用和影响。</div>
-</div>
-<div class="chapter-item">
-<span class="time"><strong>[01:12:39]</strong> </span>
-<span class="chapter-title"><strong>商业技术应用的重点方向</strong></span>
-<div class="chapter-summary">在讨论商业技术的应用方向时，指出了几个重要的领域：首先是能够直接帮助客户赚钱或提高商业流程效率的技术，如广告内容生成；其次是能够大幅度（十倍以上）提高生产力的技术，例如提升程序员查找代码库效率的工具或改进搜索引擎的信息收集能力；最后是满足人性基本需求的技术。这些方向都指向了技术在商业应用中的重要性和价值。</div>
-</div>
-<div class="chapter-item">
-<span class="time"><strong>[01:14:38]</strong> </span>
-<span class="chapter-title"><strong>探讨人工智能应用的挑战与机遇</strong></span>
-<div class="chapter-summary">对话内容涉及了在移动互联网背景下，人工智能应用面临的挑战，包括与时间杀手应用竞争的难度、改变物理世界的挑战、以及尝试替代手机的难度。特别指出，AI在物理操作、替代手机以及对组织进行大改变等方面存在技术实现和用户接受度的问题。同时，对2025年AI创业机会持乐观态度，预期会有更多的代理型产品出现，强调技术解锁带来的新机会，如模型推理能力和工具使用的改善。</div>
-</div>
-<div class="chapter-item">
-<span class="time"><strong>[01:18:37]</strong> </span>
-<span class="chapter-title"><strong>未来技术趋势：代理服务与可扩展个性化</strong></span>
-<div class="chapter-summary">对话者认为，到2025年，市场将会出现针对不同领域的代理（Agent）产品，这些产品将借鉴现有技术，如DevOps的思路，提供异步工具使用，并可能采取按工作量收费的模式。此外，提出了“服务即软件”（Service as a Software）的概念，强调销售工作成果而非工具本身。他还提到了可扩展个性化（Scalable Personalization）的概念，指出随着技术的进步，个性化内容的生成与分发变得越来越可行。提到了一些增长迅速的应用，如通过文本提示生成定制网站的Bout New和根据提示现场生成网站的Web Sem，这些应用体现了个性化内容生成的潜力。最后，提到了通过AI技术实现的个性化内容生成，如根据用户需求生成特定的播客内容，这标志着从不可能到可能的转变，预示着未来内容生成与软件开发的个性化趋势。</div>
-</div>
-<div class="chapter-item">
-<span class="time"><strong>[01:22:44]</strong> </span>
-<span class="chapter-title"><strong>AI技术的未来及其在个性化内容与科学研究中的应用</strong></span>
-<div class="chapter-summary">随着AI能力的提高，个性化软件、内容等成为可能，同时也标志着AI从模拟普通人能力向超越人类专家水平的转变。AI在解决复杂问题、推进科学研究前沿方面展现出巨大潜力，尽管存在算力消耗大的问题，但其在日常任务和前沿研究上的应用将越来越广泛，预示着AI与人类在探索未知领域的合作将开启新篇章。</div>
-</div>
-<div class="chapter-item">
-<span class="time"><strong>[01:26:32]</strong> </span>
-<span class="chapter-title"><strong>多模态技术的发展与未来应用展望</strong></span>
-<div class="chapter-summary">多模态技术，尤其是AI在理解和生成多模态内容的能力，是当前和未来技术发展的重要方向。通过将不同模态（如文本、语音、图像等）的内容相互转换，可以极大丰富信息的表达和消费方式，从而开辟新的创业机会和应用场景。这种技术不仅能增强AI的理解能力，还能在教育、娱乐、生活辅助等多个领域产生深远影响。例如，将文本转换为适合不同模态消费的内容，如播客或视频，可以更好地适应用户的偏好和需求。此外，多模态技术在提升智能机器人的物理世界操作能力方面也显示出巨大潜力，如通过模拟物理世界进行更有效的物体操作。尽管多模态技术的发展仍面临许多挑战，但其在实现更智能化、更自然的人机交互方面的重要性不容忽视。</div>
-</div>
-<div class="chapter-item">
-<span class="time"><strong>[01:30:13]</strong> </span>
-<span class="chapter-title"><strong>探讨AI技术的未来应用与影响</strong></span>
-<div class="chapter-summary">未来2025年有望见证AI与硬件结合的新应用，例如通过AI眼镜辅助打网球，提供实时指导，提高技能。同时，多模态的输入与输出、多端到多端的交互预示着技术的巨大进步。讨论还涉及到，随着AI技术的普及，将诞生真正意义上的AI native应用，这些应用将极大改变我们的工作与生活方式。特别是在AI广泛应用后，企业服务软件、广告等商业模式可能会发生根本性变化，需要重新思考如何在AI时代进行商业化的有效途径。</div>
-</div>
-<div class="chapter-item">
-<span class="time"><strong>[01:34:33]</strong> </span>
-<span class="chapter-title"><strong>2025年投资趋势与AI领域的新机遇</strong></span>
-<div class="chapter-summary">在2025年，投资者对于突袭杀时间应用持谨慎态度，不认为下一个杀手级应用会完全模仿现有模式。同时，尽管人形机器人领域获得了大量投资，但因技术路径尚未完全成熟，投资者对此保持谨慎。对于AI在企业服务领域的应用持乐观态度，特别是在通过AI实现工作结果的销售方面，认为这可能是中国企业的接受点。此外，重点看好的方向包括让AI完成创意性工作、实现规模化的个性化服务，特别是在AI教育和个性化应用生成方面。整体而言，尽管面临诸多挑战，但技术落地速度超预期，对于未来持乐观态度，鼓励更多尝试和创新。</div>
-</div>
-</div><br>
-<h1>问题回顾</h1>
-<div class="qa-item">
-<div class="question"><strong>Q:</strong> 2024年这一年下来，你的整体感受是什么？对于AI行业的整体观察，你有哪些感受和心得，以及对2025年的预期？</div>
-<div class="answer"><strong>A:</strong> 2024年整体感觉就是一个字——快。AI模型和产品的进化速度非常快，从年初的GPT4到年底的O3，AI在解决github上常见任务的能力上进步显著，预计在25年内可能达到大部分任务都能被AI解决的程度。整体观察下来，AI行业发展迅速，许多人的观点和看法被快速发展的技术所推翻。虽然AI商业化和to C大规模应用还未完全实现，但已经在一些具体领域如coding等方面取得了明显的进展，部分创业公司产品已达到较高的ARR收入水平。预计未来随着技术不断进步和应用场景增多，商业化过程将持续推进。</div>
-</div>
-<div class="qa-item">
-<div class="question"><strong>Q:</strong> 当初说“大模型还是小学生，不要急着让他去打工赚钱”时，是否考虑了技术发展的进度？现在还这么认为吗？</div>
-<div class="answer"><strong>A:</strong> 当时这句话基于当时技术发展水平和商业化进程而言。现在看来，在某些特定领域如coding，大模型的能力已经超过了打工的阈值，一些创业公司通过利用大模型技术确实实现了商业化收入的增长。尽管如此，整体而言，AI获得的收入仍低于成本，我们仍需保持耐心，等待更多应用场景产生足够价值后实现大规模商业化。</div>
-</div>
-<div class="qa-item">
-<div class="question"><strong>Q:</strong> 这一波技术扩散的速度是否比上一波更快？</div>
-<div class="answer"><strong>A:</strong> 是的，这一波AI技术扩散的速度非常快，很多AI产品和技术迅速被用户接纳并广泛应用，即使没有网络效应，其传播速度也比上一波更快。通过亲自体验这些新技术，无论是程序员还是普通用户，都能直观感受到AI带来的进步，并且能够去做之前只有专业人员才能做的创造性工作。</div>
-</div>
-<div class="qa-item">
-<div class="question"><strong>Q:</strong> 在过去的交流中，你们团队与AI应用创业者探讨了哪些重要进展？</div>
-<div class="answer"><strong>A:</strong> 我们团队与接近200位AI应用创业者讨论时，关注到三个关键进展：首先，模型推理能力增强，例如GPT4等模型的幻觉减少，使得它们能规划和完成更复杂的任务；其次，模型编程能力提高，许多常见任务可通过编程解决，尤其是在编程领域和其他可泛化的领域中，执行任务的能力显著增强；最后，anthropy提出的工具使用computer use概念，让AI能够利用现有的软件工具来完成任务。</div>
-</div>
-<div class="qa-item">
-<div class="question"><strong>Q:</strong> 你认为2025年会有什么重要的发展？</div>
-<div class="answer"><strong>A:</strong> 在2025年，David等人将把agent从原型转化为实际落地的产品，这将开启各领域agent尝试的新阶段，尽管初期可能较为初级，但会有许多有趣的思考得以实现。</div>
-</div>
-<div class="qa-item">
-<div class="question"><strong>Q:</strong> 中美两国在AI应用创业方向上有什么不同？</div>
-<div class="answer"><strong>A:</strong> 在中国，由于企业服务落地难度较大，创业者更多倾向于开发to c应用，如情感陪伴和AI聊天等应用变体。而在美国，创业方向更偏向于替代部分人类工作，实现降本增效，各个细分领域都有尝试。</div>
-</div>
-<div class="qa-item">
-<div class="question"><strong>Q:</strong> 这一波年轻的AI创业者有哪些共同特点？</div>
-<div class="answer"><strong>A:</strong> 年轻创业者通常具有国际化视野，对海外新技术了解迅速，并且往往一开始就做全球化的产品。此外，他们普遍具备较强的AI技术背景，有的有AI研究或工程实践经验，能够抓住机会并将其落地实施。尽管他们在推广和商业化方面可能需要学习和补充经验，但整体上充满活力且富有创新精神。</div>
-</div>
-<div class="qa-item">
-<div class="question"><strong>Q:</strong> 过去一年中，关于AI的技术突破、行业变化和创业机会有哪些观点发生变化？</div>
-<div class="answer"><strong>A:</strong> 过去一年中，大家一度强调算力（如GPU数量）对智能提升的重要性，但如今意识到仅依赖压力（即大量数据和算力）已达到瓶颈。同时，对于大模型的认知也有所改变，先进模型的大小并非决定其性能的关键，更小的模型也能通过优化获得更好的效果。此外，对于agent的落地速度预期有所提高，因为模型的推理能力、代码生成能力和工具使用能力进步迅速。而在模型成本方面，超预期地下降，这也为更多应用场景解锁了机会。</div>
-</div>
-<div class="qa-item">
-<div class="question"><strong>Q:</strong> AI的读屏功能具体可以读取屏幕上的哪些信息？</div>
-<div class="answer"><strong>A:</strong> AI的读屏功能可以读取三个层面的信息。第一层是屏幕上的图片内容；第二层是程序窗口内的所有内容，即使部分内容需要滚动才能看到；第三层是最厉害的，它能识别并跟踪用户的光标位置，这意味着AI能知道用户当前最关注的信息，并结合这个信息来进行回复。</div>
-</div>
-<div class="qa-item">
-<div class="question"><strong>Q:</strong> AI编程领域有哪些重要发展阶段？</div>
-<div class="answer"><strong>A:</strong> AI编程经历了四个阶段：第一阶段是AI直接写代码，但缺乏对任务目的的理解和调试能力；第二阶段是AI通过GitHub Copilot等工具获取大量代码库作为上下文，但仍需用户手动输入代码并调试；第三阶段如Cursive，AI能预测用户未来要写的代码并自动创建文件、执行操作，但仍然受限于交互方式；第四阶段由Gavin为代表，实现了异步工作、多任务规划以及通过虚拟机执行更多调试任务，真正实现了“为用户做”，能够完成更复杂的任务并汇报结果。</div>
-</div>
-<div class="qa-item">
-<div class="question"><strong>Q:</strong> AI如何利用上下文（context）来提升其价值和实用性？</div>
-<div class="answer"><strong>A:</strong> AI通过理解和结合用户和组织已有的知识，形成强大的上下文信息，这使得AI在编程、问答等场景中更具针对性和实用性。例如，它可以观察用户的电脑操作、利用代码库作为上下文提高编程能力，并且随着模型技术的进步，如GM 2.0的多模态理解能力，AI能够通过摄像头捕捉并理解现实世界中的信息，如墙上的海报内容。</div>
-</div>
-<div class="qa-item">
-<div class="question"><strong>Q:</strong> 为什么海外AI落地和国内存在较大反差，并鼓励国内创业者出海？</div>
-<div class="answer"><strong>A:</strong> 主要原因在于海外市场对于生产力工具付费意愿较强，尤其是欧美地区。此外，海外可用模型版本更高，能够解锁更多应用场景。同时，AI大模型支持多语言输出输入，便于全球化推行，且普遍采用订阅制商业模式，有助于提高创业团队的商业收入能力。</div>
-</div>
-<div class="qa-item">
-<div class="question"><strong>Q:</strong> 对于想要出海的中国AI创业者，应具备哪些特点？</div>
-<div class="answer"><strong>A:</strong> 出海的中国AI创业者首先需要深入了解目标市场的用户真实需求，尤其在企业服务领域，需实地调研并找到有市场经验的专家或团队。其次，要制定低成本高回报的营销策略，利用产品的特性进行病毒式传播，而非简单依赖投放广告。做好这两点是做好出海产品的重要因素。</div>
-</div>
-<div class="qa-item">
-<div class="question"><strong>Q:</strong> 在AI硬件领域，宇森投资方面有何看法？</div>
-<div class="answer"><strong>A:</strong> AI硬件领域看似有吸引力，但实际上落地难度较大，整体扩张速度不如软件。过去一年中，虽然看到一些有创意的AI硬件项目，但大多数团队在硬件领域的扩张并未取得显著成果。因此，对于AI硬件投资持谨慎态度，更倾向于投资那些将已有产品原型快速、低成本实现并优化的项目。</div>
-</div>
-<div class="qa-item">
-<div class="question"><strong>Q:</strong> 在Dale发布的第一天，你充值后做的第一个事情是什么？以及让你印象最深刻的事情是什么？</div>
-<div class="answer"><strong>A:</strong> 充值后，我让Dale完成了一个任务，即在网上找我的信息并为我做一个个人网站。然后我给它一个挑战性任务，就是修改我们的争夺基金的价值观宣言，并找美国顶级VC的manifesto。Dale通过查找、理解和创造性地解决问题，最终完成了10个VC对应的manifesto的Markdown文件。尽管在过程中遇到了AI模型常见的问题，如对任务的偷懒和总结性问题，但它展现出了规划能力和创造性解决问题的能力。</div>
-</div>
-<div class="qa-item">
-<div class="question"><strong>Q:</strong> 从你使用Dale至今两周左右的时间，你体验到了一个什么样的未来？</div>
-<div class="answer"><strong>A:</strong> 我认为Dale作为第一个真正能用的、自主决策的agent产品，它的出现标志着人类历史的一个重要时刻。它具有异步体验，能够自我规划、解决问题，不需要持续注意力，并且在云端部署，拥有自己的虚拟机，灵活性更高。此外，它能像人类员工一样学习、积累知识，并根据完成任务情况进行收费，展现出类似人类的成长曲线和生产力 scaling law 的潜力。</div>
-</div>
-<div class="qa-item">
-<div class="question"><strong>Q:</strong> Dale在执行任务时的表现体现了哪些特点？</div>
-<div class="answer"><strong>A:</strong> Dale在执行任务时表现出很强的任务规划能力，能以异步的方式进行工作，遇到问题时会主动寻求帮助或汇报进展。它能主动提示学到的知识，并能根据任务完成情况进行调整和优化。同时，Dale提出了根据任务完成情况进行收费的模式，这不仅反映了其高效工作的价值，也预示着AI在未来可以提供更强大的算力以更低的成本为企业创造生产力。</div>
-</div>
-<div class="qa-item">
-<div class="question"><strong>Q:</strong> 在使用AI工具时，人们常常面临什么问题？</div>
-<div class="answer"><strong>A:</strong> 人们在使用AI工具时，经常遇到的问题是如何明确自己的需求，并以合理、易理解的方式提出这些需求。例如，如果我们招一个实习生要求他完成一个复杂的任务如制作淘宝店铺，他很可能无法完成。而对AI产品的不切实际想法，如期望AI能直接帮我们完成类似淘宝的项目也是不正确的。每个人都需要学会清晰地定义任务和需求。</div>
-</div>
-<div class="qa-item">
-<div class="question"><strong>Q:</strong> AI如何帮助人类利用历史智慧结晶来解决问题？</div>
-<div class="answer"><strong>A:</strong> AI能够帮助人们调用人类历史上的智慧结晶，即将代码库以自然语言指令的形式整合起来，无需像过去那样手动编写大量代码实现相同功能。比如，开发国际象棋应用时，AI能自动搜索并运用已存在的规则代码库，从而极大地提高了工作效率并减少了重复劳动。</div>
-</div>
-<div class="qa-item">
-<div class="question"><strong>Q:</strong> AI带来的工作变革体现在哪些方面？</div>
-<div class="answer"><strong>A:</strong> AI带来的工作变革不仅体现在提升效率，还意味着许多初级执行工作容易被替代，例如复制粘贴、设计模板的应用等。这使得前端技术人员面临压力，因为他们需要更多地创新和解决新问题，而非依赖已有的解决方案。同时，AI也促使教育体系发生变化，人们应更关注提出正确问题和创造性解决问题的能力，而非具体执行任务的操作技能。</div>
-</div>
-<div class="qa-item">
-<div class="question"><strong>Q:</strong> AI对于工作的scaling law有何影响？</div>
-<div class="answer"><strong>A:</strong> AI带来的scaling law体现在通过提供异步工作的能力，使得投入更多的钱和算力可以更有效地进行工作，实现产出的指数级增长。以往受限于人力资源稀缺，一个人难以完成大规模的任务，但现在通过管理多个AI agent，可以将注意力扩展至无限，只需关注任务下达和标准设定，就能指挥整个团队或多个agent高效运作，从而创造出更多的商业价值和创业机会。</div>
-</div>
-<div class="qa-item">
-<div class="question"><strong>Q:</strong> 对于500美金的价格，有人认为太贵了，你怎么看待这个价格是否合理？</div>
-<div class="answer"><strong>A:</strong> 我认为500美金的价格并不贵，因为这主要取决于它在工作效率上的提升是否能够抵消这个成本。对于节省时间、提高工作效能的工具产品来说，如果它能帮助用户完成更多的工作，那么这个价格实际上包含了工具成本和可能节省的人工成本。尤其在欧美市场，如果该工具能显著提高工作效率，那么它就是可以落地的解决方案。</div>
-</div>
-<div class="qa-item">
-<div class="question"><strong>Q:</strong> AI工具如DevOps与程序员现有工作流程结合时存在哪些挑战？</div>
-<div class="answer"><strong>A:</strong> 在DevOps等AI工具初期阶段，它们对习惯于传统IDE工作的程序员来说是一个较大的转变。由于AI工具目前能力有限，一些程序员可能更愿意自己掌控代码编写过程，而不是通过与AI工具交互来完成任务。此外，培养AI工具适应各种复杂任务并进行有效管理还需要时间和耐心。</div>
-</div>
-<div class="qa-item">
-<div class="question"><strong>Q:</strong> 如何看待用户对AI产品出现错误或无法满足复杂需求时的失望情绪？</div>
-<div class="answer"><strong>A:</strong> AI产品目前还处于发展阶段，用户对其期待值需调整。初期AI工具可能只能处理简单的、预设的任务，如前端修改bug或添加功能开关等。对于超出能力范围的需求，用户需要学习如何正确使用工具，并理解AI工具的成长和学习潜力。</div>
-</div>
-<div class="qa-item">
-<div class="question"><strong>Q:</strong> AI工具DevOps在未来会如何发展和适应工作场景？</div>
-<div class="answer"><strong>A:</strong> 随着AI能力提升和技术进步，DevOps这样的工具将逐渐从实习生水平转变为能够独立承担更多职责的全职员工，甚至资深员工。这一过程需要企业和用户共同适应和接受，它是一种渐进式创新而非颠覆式创新。</div>
-</div>
-<div class="qa-item">
-<div class="question"><strong>Q:</strong> 对2025年AI领域发展持何种态度？</div>
-<div class="answer"><strong>A:</strong> 我对2025年AI领域持乐观态度。尽管AI找到商业模型（PMF）的过程可能不如预期顺利，但类似ChatGPT的产品在短短两年内取得了显著进步，预示着从“黑莓时代”向“iPhone时代”的过渡。技术进步会解锁更多应用机会，同时AI产品也会随着技术、模型的进步以及用户使用习惯的改变而不断优化和普及。</div>
-</div>
-<div class="qa-item">
-<div class="question"><strong>Q:</strong> 在2025年，你认为什么样的应用方向是比较容易落地的？</div>
-<div class="answer"><strong>A:</strong> 容易落地的应用方向包括：1) 能帮助客户赚钱，或者在商业化流程中提高效率的技术；2) 能在重要任务上提高十倍以上生产力的技术；3) 满足人性基本需求，如提供非工作安全内容等场景。</div>
-</div>
-<div class="qa-item">
-<div class="question"><strong>Q:</strong> 有什么样的应用方向建议大家稍微回避一下，做起来有些难度？</div>
-<div class="answer"><strong>A:</strong> 建议回避的方向有：1) 在移动互联网领域，与已有赢家（如字节跳动、小红书、快手）争夺大量用户时间的应用；2) 尝试改变物理世界的应用，例如AI控制物理设备，目前还面临技术实现路径和规模化发展的挑战；3) 想要在短期内替代手机功能的应用，因为手机在大部分场景下已经做得足够好，除非有显著创新或能解决手机无法实现的任务。</div>
-</div>
-<div class="qa-item">
-<div class="question"><strong>Q:</strong> 除了已讨论的技术解锁带来的新机会，还有哪些技术可能在2025年带来浪潮式的AI创业机会？</div>
-<div class="answer"><strong>A:</strong> 另一个重要方向是agent，尤其是针对各个领域的异步工具使用和工作流规划的软件作为服务（SaaS）模式，可能会带来许多尝试和创新。此外，可扩展个性化（scalable personalization）也是一个关键领域，AI将推动内容个性化从互联网内容分发向更多领域扩展，如个性化网站生成、软件开发等，使每个人或每类人都能拥有更符合自身需求的内容和服务。</div>
-</div>
-<div class="qa-item">
-<div class="question"><strong>Q:</strong> 在AI领域中，有哪些衡量模型能力的benchmark，以及它们是如何从衡量普通人的能力转变为针对精英人类的？</div>
-<div class="answer"><strong>A:</strong> 在AI领域，早期的benchmark如MMLU是用来衡量AI是否达到普通人的能力水平。然而，随着AI能力的提升，尤其是像GPT-4这样的模型，在普通人类能力测试中表现出色后，人们开始转向构建针对精英人类的benchmark，例如程序员能力测试Three Bench、美国高中数学竞赛AIME以及PHD资格考试GPQA等。这些测试旨在评估AI能否完成专业领域内的高级任务。而在2023年初，AI在诸如AIME和Three Bench等精英人类benchmark上的表现也逐渐接近甚至超越了人类水平。</div>
-</div>
-<div class="qa-item">
-<div class="question"><strong>Q:</strong> AI在前沿研究和解决复杂问题方面的表现如何？</div>
-<div class="answer"><strong>A:</strong> 针对前沿研究，出现了更高级别的super human benchmark，比如前沿数学难题Frontier Mass，这是陶哲轩等人提出的极具挑战性的数学题目。目前，AI模型如O3在某些前沿探索任务上的算力消耗较大，但它们被设计用于解决人类前沿最难的研究问题。未来，AI可能会在日常任务和前沿研究上形成不同的应用分支，既有高效便宜、能满足日常需求的模型，也有专注于前沿科研、需要高算力支持的模型。</div>
-</div>
-<div class="qa-item">
-<div class="question"><strong>Q:</strong> 多模态在AI领域的重要性及潜在的创业机会是什么？</div>
-<div class="answer"><strong>A:</strong> 多模态对AI理解复杂世界、实现全面智能至关重要。从文本到视频、音频或其他模态的转换能力将极大地提升AI的智能体验，并且多模态的理解和生成能力对于AI的通用性（AGI）具有重要意义。目前，多模态在娱乐内容生成上有较大落地场景，但在前沿研究如物理世界模拟等方面也有很大的发展空间。随着多模态技术的突破，可能会催生出更多类似AI创作内容、AI辅助生活场景的应用，比如AI可以根据视频实时提供使用指导或叠加操作指示等。</div>
-</div>
-<div class="qa-item">
-<div class="question"><strong>Q:</strong> AI native应用的大机会可能出现在何时？</div>
-<div class="answer"><strong>A:</strong> AI native应用的大机会通常会在AI技术广泛扩散之后出现，就像互联网和移动互联网时代催生了一系列基于新技术的应用一样。当AI助手普及到每个人，人们开始用AI解决工作和生活中的各种问题时，AI之间的互动会产生新的商业形态和社会变革，例如AI对企业服务软件的影响、广告商业模式的重构等。同时，中国市场上对于企业服务和工具付费的态度也可能发生变化，AI提供的高效工作结果可能会成为新的商业需求。</div>
-</div>
-<h1>节目文稿</h1>
-<p class="transcript-line">
-<span class="time"><strong>[00:00:02]</strong> </span>
-<span class="speaker"><strong>发言人1: </strong></span>
-欢迎收听十字路口，我们关注新一代AI技术浪潮带来的行业新变化和创业新机会。十字路口是乔布斯对苹果公司的一个比喻，形容他站在科技与人文的十字路口，伟大的产品往往诞生在这里。AI正在给各行各业带来改变。我们寻找、访谈和凝聚AI时代的积极行动者，和他们一起探索和拥抱新变化、新的可能性。我是主播科技杨元成，联合创办了街旁、新世相和唐岛。我相信科技尤其是AI会在未来十年彻底改变社会，赋能人类。欢迎大家找我聊天，碰撞想法，链接下一个可能性。
-</p>
-<p class="transcript-line">
-<span class="time"><strong>[00:00:47]</strong> </span>
-<span class="speaker"><strong>发言人1: </strong></span>
-本周二025年第一期十字路口，我们有幸再次和真格基金的播客，此话当真串台邀请到真格基金的管理合伙人戴雨森。半年之后，宇森再次来到十字路口。原因是我们俩最近两粥都非常兴奋。因为我们觉得在2024年底和2025年初这个时刻，我们很可能正在经历科技史上的一个重要时刻。这种感觉是来自两个比较重大的事件。第一是devin的出现，第二是OPPO AI发布了O3。先说David，宇森在社交媒体上有提到，他认为David作为第一个真正能用的真的agents的产品，它的出现可能标志着人类历史的一个重要时刻。
-</p>
-<p class="transcript-line">
-<span class="time"><strong>[00:01:28]</strong> </span>
-<span class="speaker"><strong>发言人1: </strong></span>
-随后不久，OpenAI在持续12天的发布会的最后一天让O3亮相了。这也在行业内引起了巨大的热情，被认为是一个不亚于GPT3.5的重要的里程碑式的发布。现在是2025年的开端，20241眨眼就过去了，十字路口保持周更也有四十多期，我们每周都在持续的分享发生在硅谷和中国的AI创新技术突破与产品落地。
-</p>
-<p class="transcript-line">
-<span class="time"><strong>[00:01:52]</strong> </span>
-<span class="speaker"><strong>发言人1: </strong></span>
-回首去年有的人会认为说AI的进步是惊人的日常的工作都已经有超过一半可以去AI帮助处理了。但也有很多人觉得AI并没有特别的突破，认为不过是OpenAI又发布了FO紧接着o one o3 ethnic发布cloud 3.5界面的发2.0。国内大模型厂商每周也在发布各种复杂的版本号，搞得大家云里雾里，搞不懂究竟有多大的进步。但就像刚才提到的，我和宇森都是坚定的进步主义者。有一句大概十年前宇森就挂在嘴边的话，也常常像弹幕一样飘过我的眼前。那句话是这么说的，悲观者往往正确，乐观者才能成功。在新城市AI的这波浪潮之中，我们都是典型的乐观者。
-</p>
-<p class="transcript-line">
-<span class="time"><strong>[00:02:36]</strong> </span>
-<span class="speaker"><strong>发言人1: </strong></span>
-十字路口的目标一直是寻找访谈和凝聚在AI时代的积极行动者。因此本周的十字路口作为开年的第一期，我们将分成两个主题来展开。首先我会和雨森探讨他对去年的AI行业的整体观察。作为真格基金的管理合伙人，他在一线积极的投资AI我们想听听他有哪些感受和心得，以及对2025年的预期。其次我们将一起探讨David为什么如此让我们兴奋，以及通过David我们将能够窥见未来哪些AI的发展和创业的机会。然后我们先来问雨森的第一个问题，就是2024年这一年下来，你的整体感受是什么？
-</p>
-<p class="transcript-line">
-<span class="time"><strong>[00:03:14]</strong> </span>
-<span class="speaker"><strong>发言人2: </strong></span>
-好的，也非常高兴能够跟coach再次合作，来分享我们对于ai发展和投资的一些感受，然后和大家有一个交流的机会。2024年这一年下来，整体感觉我觉得就是一个字儿是快。因为我们看到这个AI的模型以及产品的进化速度都很快。我记得在24年年初的时候，最先进的模型是GBT4。那个时候有一个新的benchmark叫three batch，是把github上常见的任务类型把它拿下来，然后让AI去尝试完成。当时最先进的模型GPT4在这个上面的得分是2点8分，满分是100分。然后在24年年底的时候，大家可以用到的so net 3.5，是能够得到50分，也就是能解决一半的任务。然后刚刚发布的o three在初步的这个evil里面已经得了71点7分。乐观的来讲，以这个速度在一年的时间内，也就是25年，我们就可以看到人类绝大部分github上的任务都能被AI解决决了。大家知道这也意味着可能现有的程序员的单个任务，不说它把它整体合起来，可能程序员工作确实有很多都是可以被解决的。
-</p>
-<p class="transcript-line">
-<span class="time"><strong>[00:04:32]</strong> </span>
-<span class="speaker"><strong>发言人2: </strong></span>
-然后24年年初的时候，ChatGPT还不太会做四则运算。那时候大家经常说考它一个三位数乘三位数，可能它也会算错，对吧？只有可能最后一位数是对的，但是现在解答IMO级别的题目已经得心应手，甚至在反映着对数学家来说都很难的这个frontier mass这个测试集上，O3也得到了25分的这样一个成绩，这个是陶哲轩他背书的，他认为这些题目简单的是级别，难的是前沿研究级别。现在AI也能做的不错。然后我们投资的kimi他们的产品是二三年10月9号，差不多也就是24年开始前一点点时间上线的。到24年的年底已经有4000万月活用户。考虑到它是一个一年左右时间的新应用，这个用户增长速度也非常快，对吧？
-</p>
-<p class="transcript-line">
-<span class="time"><strong>[00:05:22]</strong> </span>
-<span class="speaker"><strong>发言人2: </strong></span>
-我还记得在24年年初二月份的时候，当时还在过春节假期，看到sara的发布宣传片时候觉得非常震撼，觉得怎么会有这样的这个产品，要过多久，以什么样的成本才能用到这样的视频生成模型。是的，大年初三的时候，对，但是在24年底的时候，大家已经可以用着。其实像可伶，不管是混元等一系列，包括google也出来做VEO two对吧？就是比当时的sora可能要更好的视频生成模型，然后甚至是免费的，让大家觉得不过如此，所以大家对于AI产品的标准其实提高很快，在一年前大家觉得非常惊叹的东西，在现在可能就觉得不过如此。但是我们始终都觉得好像还有更多的可以做的事情，好像还有很多东西没落地，但实际上进展是非常快的。同时我觉得也有很多的观点和看法被打脸。
-</p>
-<p class="transcript-line">
-<span class="time"><strong>[00:06:09]</strong> </span>
-<span class="speaker"><strong>发言人2: </strong></span>
-我记得在24年开始的时候，其实如果你去问中国大家这些投资人、创业者，很多人都要做中国的character AI对吧？当时大家都觉得这好像是一个to c应用，又有很多人用，实际上也很长。当时说要把C.
-</p>
-<p class="transcript-line">
-<span class="time"><strong>[00:06:23]</strong> </span>
-<span class="speaker"><strong>发言人1: </strong></span>
-大在对当时还预测2024年一定会发生的一个趋势是百C大战。
-</p>
-<p class="transcript-line">
-<span class="time"><strong>[00:06:28]</strong> </span>
-<span class="speaker"><strong>发言人2: </strong></span>
-反正我没有那么预测，但是有很多人这么预测。但是在24年8月份，Carry一I其实就宣布被google收购，然后大家发现好像这个要破圈也不是那么容易，对吧？我记得三月份的时候，cognition这家公司，也就是David的开发者，他们发了一个demo，当时是这个demo的视频。然后那个时候大家都觉得不相信，觉得这公司是忽悠，甚至有人说是骗子，还有打假的视频。结果12月David这个产品出来，大家大为震惊，说居然这个是真的可以做到很多agent的功能。但是我们待会会接下来讨论，这个也是一个很大的反差。
-</p>
-<p class="transcript-line">
-<span class="time"><strong>[00:07:02]</strong> </span>
-<span class="speaker"><strong>发言人2: </strong></span>
-我还记得在二三年年底OpenAI的宫斗事件。那个时候整个open I的员工都集体在推特上发声支持sam altman说open eye is nothing，we saw its people. 那是刷屏的这个内容。但是到20年底，走了不知道多少人。最后的这个元老alex，欧菲亚的核心研究员也走了，那中间基本上大部分涨势员工都走了，然后包括在年初的时候，大家觉得这个GPT5很快要出来，但是一直到年底4.5也没有出来，对吧？等来的是另外一条路线，就是o one o three这条，在这个inference搞定这条路线。所以我觉得一年下来很多的变化，不管是有很快的变化，还是有很多让人想不到或者是没有预计到的变化。其实可能在一个行业的早期变化是常态。
-</p>
-<p class="transcript-line">
-<span class="time"><strong>[00:07:51]</strong> </span>
-<span class="speaker"><strong>发言人1: </strong></span>
-而且半年前在十字路口那一期播客里的话，宇森有一个核心观点是说大模型还是小学生，不要急着让他去打工赚钱，给他多一些耐心。其实在说这句话的时候，这背后暗示着认为技术的进步虽然很快，但其实它离商业化还很远，他离to c的大规模的应用还很远。那在今天你还是这么认为吗？还是你觉得其实进化的速度是比你当时理解的要快的？
-</p>
-<p class="transcript-line">
-<span class="time"><strong>[00:08:16]</strong> </span>
-<span class="speaker"><strong>发言人2: </strong></span>
-首先当时说这句话有一个上下文，就是大家在问睡眠模型花了这么多钱，什么时候才能赚回来？我觉得这个在每次技术革命的时候，其实都有一样的模式。就是先要花钱投入搞基建，搞科研对吧？然后再产品逐渐的找到落地的场景，然后再是逐渐产生商业化的收入。
-</p>
-<p class="transcript-line">
-<span class="time"><strong>[00:08:37]</strong> </span>
-<span class="speaker"><strong>发言人2: </strong></span>
-一年下来，我觉得在一些具体的模型，现在能力比较擅长领域，比如说coding肯定是一个非常明显的领域，对吧？那么我们看到大模型的能力的进展，确实已经过了可以打工的阈值。刚才我提到的在所谓bench这样一个测试上，在年初只能解决2%的问题，那肯定打不了工。但是现在能解决50%的问题的so net 3.5出之后，确实我们看到像cursor winner serve，包括像David这样的产品都涌现出来。并且他们能够真正的帮助程序员解决很多问题，对生产力带来了实实在在的进步。同时我们看到从收入的角度来讲，有一些native VI应用在找到PMF之后，收入质量很快，对吧？比如说curse现在的ARR应该是已经到了接近100个man，接近1亿美金的程度。
-</p>
-<p class="transcript-line">
-<span class="time"><strong>[00:09:25]</strong> </span>
-<span class="speaker"><strong>发言人2: </strong></span>
-然后有一个也是做AI coding，它只是针对可能更加技术小白的用户，叫bought new。它是在两个月的时间达到了2000万美金的ARR，这应该是历史上最快的增长的企业服务应用，然后它是四个星期达到400万美金的AR另外一家在斯德哥尔摩的公司叫lovable，它也是用四个星期达到400万美金的AR年化收入，对吧？这个也是非常快的，包括我们投的AI应用黑键在二三年的年中的时候，他们的产品达到一个面的AR。然后在24年底，经过18个月，他们就达到了快50个卖点的L增长了几十倍对吧？然后我们投资的Monica其实也是超过千万美金的AR所以这也其实都是在相对比较短十几个月的时间内实现的。所以我觉得不管是我们在看到海外的这些创业公司，还是我们投资的一些创业公司。
-</p>
-<p class="transcript-line">
-<span class="time"><strong>[00:10:20]</strong> </span>
-<span class="speaker"><strong>发言人2: </strong></span>
-在用户使用对吧？刚才也提到kimi其实已经有4000万的用户了。就是在用户的使用上以及在一些领域的在用户的付费收入上，其实都获得了很大的增长。所以我觉得首先他在一些领域已经可以开始打工了。但是我觉得整体来讲，他获得的收入仍然远远低于成本。
-</p>
-<p class="transcript-line">
-<span class="time"><strong>[00:10:39]</strong> </span>
-<span class="speaker"><strong>发言人2: </strong></span>
-我们还是需要有耐心，毕竟现在chat PT出来也就两年的时间。我认为我们仍然处在一个模型能力不断的提升，解锁新的应用场景。然后应用场景诞生了足够多的价值之后，开始能够做商业化的这样一个逐步开展的阶段里面。所以还是要有耐心的对。
-</p>
-<p class="transcript-line">
-<span class="time"><strong>[00:10:57]</strong> </span>
-<span class="speaker"><strong>发言人1: </strong></span>
-其实我觉得这一波技术扩散的速度也是非常快的。刚才提到的cursor boat，包括黑键和莫妮卡。然后其实这四个除了莫妮卡，因为小红送了我VIP会员，另外三个我都是付费用户。这些技术扩散起来我觉得是比上一波更快的。即便他们并没有网络效应，但是今天我觉得有一帮非常热情的技术的前沿的探索者，大家在不断的去尝试新的东西，并且在热情洋溢的去传播这些新的东西。其实十字路口也是这样的一员，就包括我和宇森每次用到什么兴奋的东西也都会第一时间分享。
-</p>
-<p class="transcript-line">
-<span class="time"><strong>[00:11:32]</strong> </span>
-<span class="speaker"><strong>发言人1: </strong></span>
-可是我觉得一个强烈的感受，包括也是我们录这一期的原因，就是希望让大家不要隔岸观火。觉得好像看到的只是各种版本号的新发布，对我好像没什么影响。我们特别希望大家能够跳到浪潮里面去下载这些应用体验一下，早一点感受，早一点用起来。
-</p>
-<p class="transcript-line">
-<span class="time"><strong>[00:11:48]</strong> </span>
-<span class="speaker"><strong>发言人2: </strong></span>
-我觉得有一句话说的特别好，因为是gibson说的一个科幻作家，他就说未来已经到来了，他只是没有均匀分布而已。你如果日常只是用一个简单的chat board，甚至还有很多人都还没有不怎么用上AI的产品，那可能就觉得这都是一些新闻头条而已，对吧？谁谁又打榜，谁谁又怎么样了。但是在某些特定的领域，比如说程序员，比如说数字艺术创作者里边，我相信很多时候AI工具已经成为他们生产这种不可缺了一部分。所以我一直觉得很多时候花一点时间或者花一点小钱去体验最新的AI产品。其实可以很直观的感受到我们在有些领域的进步。不管是时间还是金钱的投入，我觉得是非常值得的。因为这是一个对未来看见的一个好的办法。
-</p>
-<p class="transcript-line">
-<span class="time"><strong>[00:12:29]</strong> </span>
-<span class="speaker"><strong>发言人1: </strong></span>
-以及刚才提到不管是数字艺术创作者还是程序员这两个群体应用的大规模的进步，因为我是认为他们这样的进步并不是去帮助程序员和数字艺术创作者这个群体的。他们更多的是在帮助普通人，也能够去做原来只有程序员和艺术创作者才能做的创造。我觉得这个其实更大的意义。所以大家听到了，不要觉得我不是程序员，或者我不是一个数字艺术创作者，这个和我没关系。我想说的是这个其实是和大家超级有关系，因为你就可以去做之前他们能做的事儿了。我们再说回来，雨生你去年在真格大概聊了什么量级的，大概多少个AI应用的创业项目，有没有什么整体的感受？你有觉得AI应用落地的速度在加速吗？
-</p>
-<p class="transcript-line">
-<span class="time"><strong>[00:13:13]</strong> </span>
-<span class="speaker"><strong>发言人2: </strong></span>
-我们团队大概加起来应该聊了上千个AI应用的创业项目。我自己看了一下，大概聊了一百多个，接近200个创业者。我们确实觉得随着技术的一些进展，AI应用的落地速度是在加快的。
-</p>
-<p class="transcript-line">
-<span class="time"><strong>[00:13:30]</strong> </span>
-<span class="speaker"><strong>发言人2: </strong></span>
-具体来说的话，我觉得三个进展很重要。第一个就是模型的推理能力，包括像这个GPT4O像OY之类的发布模型的推理能力变强之后，他的幻觉会减少，所以可以去规划和完成更加复杂的任务。然后第二个就是模型的编程能力提高。因为你在数字世界大量的任务可以通过编写程序来完成。我们开始也提到思维编辑的增长速度非常快，对吧？当这些常见的任务能够被编程解决的时候，至少在编程这个领域以及可以被泛化为编程的一些其他的领域，执行任务能力会强很多。第三就是anthropy为领先提出的这个工具使用computer use，那么AI能够使用我们已有的软件，比如从浏览器开始到其他的软件，人类社会造的这些软件都可以被AI去用来解决他们的任务，对吧？所以这几个加起来，我觉得对于AI完成任务的能力其实要提高很多。
-</p>
-<p class="transcript-line">
-<span class="time"><strong>[00:14:21]</strong> </span>
-<span class="speaker"><strong>发言人2: </strong></span>
-我觉得在2025年，其实David的发布很重要，因为他是第一个把agent从大家的想象，从原型到现实落地的产品。我觉得我们在25年会很快看到各个领域的agent的尝试都会出来。当然很多这些都还是在比较初级的阶段，但是我觉得会有很多很有意思的思考是得以能够落地。
-</p>
-<p class="transcript-line">
-<span class="time"><strong>[00:14:42]</strong> </span>
-<span class="speaker"><strong>发言人1: </strong></span>
-所以我们待会儿会在后面花非常大的篇幅来和大家聊David，以及聊我们对以eleven为代表的AI agent在明年的发展的一些预期。
-</p>
-<p class="transcript-line">
-<span class="time"><strong>[00:14:51]</strong> </span>
-<span class="speaker"><strong>发言人2: </strong></span>
-但是我们看到在美国和在中国，其实AI应用得到的创业方向是挺不一样的。在国内由于企业服务，它确实落地起来还是有些难度，对吧？导致我们看到了很多创业者其实想做的还是各种to c的应用。而to c的应用里面，确实很多都是倾向于做一个杀时间的应用，比如说各种情感陪伴，各种AI聊天这样的应用的变体。在美国我们看到是在各个细分领域，大家都在想去替代部分人类的工作，让工作变得更加降本真相，所以这个其实是中国和美国创业方向的很大的一个反差。当然国内还有一大块就是机器人特别火，对吧？
-</p>
-<p class="transcript-line">
-<span class="time"><strong>[00:15:30]</strong> </span>
-<span class="speaker"><strong>发言人2: </strong></span>
-整个聚生智能领域有非常多的新公司出来，他们很多融资，甚至我们觉得是有一点过热的这个情况，但整体来讲的话，我觉得大家还是非常兴奋的，尤其是我觉得对于年轻创业者来讲。因为之前大家可能觉得互联网时代已经快结束了，咱们80后都是互联网时代的红利获得者，但是00后可以干嘛呢？AI没竖起来之前，他们觉得自己可能互联网领域确实没啥可干的。但是AI现在我觉得大家看到了很多新的机会，也是属于他们这一代年轻创业者的机会。所以我们作为一个始终关注年轻人的基金，还是觉得有很多的有意思的创业者在出来，有意思的项目也在出来。
-</p>
-<p class="transcript-line">
-<span class="time"><strong>[00:16:07]</strong> </span>
-<span class="speaker"><strong>发言人1: </strong></span>
-说到这一波的创业者，你觉得他们身上有哪些典型的共同点吗？除了对年轻更友好之外。
-</p>
-<p class="transcript-line">
-<span class="time"><strong>[00:16:14]</strong> </span>
-<span class="speaker"><strong>发言人2: </strong></span>
-我觉得当然年轻这是一个随着不同时代进展必然有的特点，对吧？然后我觉得第一他普遍更加有国际化视野，信息的传播其实越来越快了，我觉得当时在互联网时代，可能海外一个应用火了，中国要过个三个月到6个月才有对标的产品出来，对吧？那像现在这个基本上海外出现什么新的事情，当天就会有新闻报道，可能是也是AI去总结翻译的对吧？所以大家对模型海外应用的进展普遍都很了解。
-</p>
-<p class="transcript-line">
-<span class="time"><strong>[00:16:44]</strong> </span>
-<span class="speaker"><strong>发言人2: </strong></span>
-在这个时候，同样因为做的产品也往往都是国际化的，因为出海现在也是很大的主题，本来模型也是具备很强的多语言能力，所以大家很多时候一上来做的产品就是全球化的。这个其实在互联网时大家也比较难以看到，对吧？那个时候大家往往都还是说我就做一个针对中国市场的产品。而现在往往大家一开始就是两条路一起走，既有国内的也有国外的。然后我觉得这里面看到很多创业者和团队也更加的AI native，不少人都有做AI research或者在里面有工程实践的经验，这个也是他们能够更早看到机会，或者把机会落地实施的这样一个原因。
-</p>
-<p class="transcript-line">
-<span class="time"><strong>[00:17:19]</strong> </span>
-<span class="speaker"><strong>发言人2: </strong></span>
-但是同时，我觉得对于年轻的创业者来讲，因为他们可能没有经历过当时互联网很多业务的那个流程，所以对于像比如说推广，做商业化这些领域有些课需要补，在这个时候，比如说一些老司机，比如像我们投的Monica这样的团队，他们之前经历过很多互联网领域的增长，所以这方面的经验可能确实有一些优势。但是我觉得这些都是可以学，并且也可以通过招人，通过团队的补充来去提高的，所以我们觉得这方面我们还是长期很有信心。我们相信新的一代AI native的创业者，其实它能够做出很有意思的产品，并且在这个该补的课上也能补回来。
-</p>
-<p class="transcript-line">
-<span class="time"><strong>[00:17:57]</strong> </span>
-<span class="speaker"><strong>发言人1: </strong></span>
-我们接下来再聊一聊，就从去年到今年，整个AI的技术突破、行业变化和创业机会在这些地方认知上的变迁。首先想好奇的是有哪些观点是雨森一年前你自己还蛮认可，但是一年之后你自己已经不再认可的地方。
-</p>
-<p class="transcript-line">
-<span class="time"><strong>[00:18:15]</strong> </span>
-<span class="speaker"><strong>发言人2: </strong></span>
-我觉得太多了，所以后来我都不太想录博客了，因为每次讲了就容易被打脸。但是要早期投资，尤其是看早期技术，打脸是常态，只有不怕打脸才能够继续学习成长。其实一年多以前，我觉得大家强调的都是pressure，对吧？大家讲的都是说你这个卡要有多少卡，要有多大的积群，好像这样，这也是英伟达的股价暴涨的原因，对吧？因为大家简单的把它理解成为你有更多的卡，更多的算力，丢更多的数据进去。很好的模型就会出来，我觉得在25年初24年底去看这个，在pressure上确实从OpenAI以及各个行业领先团队来看，确实到了一个相对的瓶颈。如果我们说pressure是对智能的压缩，那现在以文本等这些形式很容易被压缩的智能已经压的差不多了。
-</p>
-<p class="transcript-line">
-<span class="time"><strong>[00:19:03]</strong> </span>
-<span class="speaker"><strong>发言人2: </strong></span>
-伊利亚在这个new rope军上发言，他说互联网的这些文本，它就是化石燃料，就是人类这么多年积累下来的文本，现在已经被我们都训到模型里去了。那接下来就得需要新知识，对吧？不管是在我们脑子里面还没被提取出来的知识，或者说是通过AI去产生的新知识，这样的知识增长速度其实没那么快。所以我觉得pretrail ing大力出奇迹，这个其实是一个我觉得在今年大家都意识到要发生改变的一个过程。
-</p>
-<p class="transcript-line">
-<span class="time"><strong>[00:19:30]</strong> </span>
-<span class="speaker"><strong>发言人2: </strong></span>
-然后一年前我确实也聊到一些agent的内容。当时我确实觉得在大模型普遍有存在很多幻觉的情况下，这种autonomous agent或者说L四这种级别的agent落地的时间会需要比较长。但是目前来看模型的这几大能力，刚才说到的推理能力、代码生成能力和工具使用能力确实进展很快。这使得在数字世界里面，如果说我们对于这些目标结果比较确定的任务，比如说编程，那么agent落地的速度确实变快了很多。我们已经看到像戴彬这样的产品已经不只是一个想法，就是事实了，对吧？
-</p>
-<p class="transcript-line">
-<span class="time"><strong>[00:20:04]</strong> </span>
-<span class="speaker"><strong>发言人2: </strong></span>
-所以这里面有两个要点，一个是怎么样更好的规划任务，所以能够做更长周期的，叫long term horizon的这样一个任务。能力变得很强。第二就是使用工具，使用工具就包括写代码去使用和用已有的工具。这两个能力都变得很强的时候，确实agent我觉得落地的速度可能会比大家想的要快，尤其是在数字世界里面。
-</p>
-<p class="transcript-line">
-<span class="time"><strong>[00:20:24]</strong> </span>
-<span class="speaker"><strong>发言人2: </strong></span>
-第三个，我觉得就是一年前普遍大家觉得模型的size会越来越大对吧？你之前说可能是7B70B可能是700B多大。但是目前来看先进模型的size其实提升也不用那么快。我们是可以用比如说都是70B的模型得到越来越好的结果。同时我们也能够把同样的智能放在更小的模型上运行。所以实际上那种真正的超大模型，可能主要是用于对于使用模型的这种对齐，或者叫做teacher model，叫做教师模型对吧？
-</p>
-<p class="transcript-line">
-<span class="time"><strong>[00:20:56]</strong> </span>
-<span class="speaker"><strong>发言人2: </strong></span>
-这个其实就有点像我们当时我记得在去找个人电脑的时代。大家一开始CPU的处理器的频率都越来越高，所以大家觉得这个频率要越来越高。但实际上到了3G赫兹之后，单核的频率就不怎么单独去增长了。但是大家用更好的架构，更低的能耗去提升它这个性能，对吧？就跟人的大脑一样，其实人的大脑也不是说要越来越大，而是说同样的size，我们学到了更多知识，更多的技能，变得更加聪明。所以在这个里面，我觉得对于模型成本的下降，其实是我们是超预期的对吧？虽然说大家一直都知道模型的这个成本会越越低，但是我们现在看到扎扎实实的每一年大概相同的模型的或者相同的智能，它的成本下降到原来的10分之1。这个其实也会解锁很多应用的机会，我觉得这个都是在可能24年初的时候，我觉得大家可能没有那么明显的意识到，或者说在中间发生一些改变的观点。
-</p>
-<p class="transcript-line">
-<span class="time"><strong>[00:21:52]</strong> </span>
-<span class="speaker"><strong>发言人1: </strong></span>
-还有一个关于认知变迁的问题，就有没有哪些是你在24年的年初觉得值得关注，但没那么重要，但到今天他变迁成了特别重要的一个认知的这样的事情。
-</p>
-<p class="transcript-line">
-<span class="time"><strong>[00:22:03]</strong> </span>
-<span class="speaker"><strong>发言人2: </strong></span>
-我觉得首先我们作为投资人，我们的认知对于前沿的research来讲，往往有时候是滞后的对吧？可能有的时候在研究员群体中已经逐渐意识到，但是我们还没有后知后觉的事情。
-</p>
-<p class="transcript-line">
-<span class="time"><strong>[00:22:15]</strong> </span>
-<span class="speaker"><strong>发言人2: </strong></span>
-24年肯定有一个重点，就是reinforce learning的兴起，刚才说free training其实到了一个瓶颈，在post training里面通过IL让模型能力持续变强，尤其是在O1和O3的发布之后，大家发现在reform mention这条路上其实还是可以走很远，模型的能力其实可以提高很多的。在24年年初的时候，其实这一点应该只在很小的范围内，有些讨论还没有成为一个业界，甚至说在研究界之外的普遍共识，所以我们发现预测大模型或者AI的技术路线永远是一件很难的事情。L这个方面其实擅长的人才也不？所以大家也都在做这样的团队建设和这个技术的储备。与此同时提出来的这样一个非常重要的新的scaling law，就是influence scaling law？怎么样把这个推理时间延长，得到更好的结果，这个其实也是我觉得在去年一个非常重要的揭示，这个不仅说在模型的设计上，包括我们怎么设计这样的产品。因为现在大部分的产品像ChatGPT cloud或者像curse这样，其实都是说他要跟人进行实时互动。我说说一句他说一句我说一句他做一下，对吧？
-</p>
-<p class="transcript-line">
-<span class="time"><strong>[00:23:26]</strong> </span>
-<span class="speaker"><strong>发言人2: </strong></span>
-那这个时候其实你怎么样让他每一步能够做更长的时间，甚至说让他自己能够通过计划使用工具，能够持续的去做事情，又不需要我的持续输，这个其实我们如果把它叫做system to，对吧？就是不是这种张口就来的，而是经过深思熟虑之后得到更好的结果。其实在这方面怎么获得更好的performance，我觉得在今年其实大家看到会是非常重要的一点。
-</p>
-<p class="transcript-line">
-<span class="time"><strong>[00:23:51]</strong> </span>
-<span class="speaker"><strong>发言人2: </strong></span>
-我觉得还有一个在一两年前大家觉得没那么重要，但是现在可能觉得非常重要的就是现在我们其实已经有很多智能在模型里面了，但是模型在之前是没有什么context。比如说当我问ChatGPT1个问题，它实际上只有我的这个输入作为它的context，对吧？那事实上任何一个聪明人，他如果只有这么一句话回答一个问题，其实都是很难的。但是我们现在看到，比如说cursor，它是可以把整个组织的code base作为一个context，然后你可以选择一大块代码把这个作为它context。然后David其实是整合在snack里边？它能把这个组织里面的已有的对话记录功能记录作为context。当模型同样的智能下，你有了更多的context，其实能够更好的去理解意图，能够更好的去回答问题。我觉得在这个方面，新的产品设计怎么样让用户能够无痛的简单的把更多的context带进去，会变得很重要。所以我们现在看到的像ChatGPT这种一问一答的方式，我觉得还是一个非常非原始的方式。大家都在想新的产品形态是什么样子，所以我觉得这些都是今年大家逐渐意识到浮出水面的东西。
-</p>
-<p class="transcript-line">
-<span class="time"><strong>[00:24:59]</strong> </span>
-<span class="speaker"><strong>发言人1: </strong></span>
-我们在上一期的十字路口里面正好聊了OpenAI过去12天的连环发布会发布了一些什么东西。然后提到雨森刚才的第三点，就是如何获得更多的context。其实open I也发了一个东西，就是chat GBT。
-</p>
-<p class="transcript-line">
-<span class="time"><strong>[00:25:13]</strong> </span>
-<span class="speaker"><strong>发言人1: </strong></span>
-它的mac版本现在是可以来读你的屏幕，把屏幕上面的内容当做context，再结合你的问题来给出回复。而这个读屏并不是简单的截屏，它是可以读到三个层面的。第一个层面是就截一个图，这个屏幕上显示的什么它就理解什么。第二个层面是他可以读到这个程序的窗口里面的所有的内容。就哪怕他现在并没有暴露在屏幕上，但是你可能要滚动上下才能看到，但他也可以去获得这样的这个信息。然后第三个层面我觉得是最厉害的，就它可以知道你的光标在哪儿。因为你的光标在哪，说明你当前的注意力最集中在哪里。因此你再问一个问题或者和他讨论一件事儿的时候，他会结合你的光标或者你的光标选中的这段话来去进行这个回复。所以我觉得不只是在编程领域，刚才提到的例子是cursor和devin。但是我觉得哪怕OpenAI，哪怕像bot这样的模式之下，觉得context的应用也会是让AI的进化变得很强。
-</p>
-<p class="transcript-line">
-<span class="time"><strong>[00:26:12]</strong> </span>
-<span class="speaker"><strong>发言人2: </strong></span>
-对，因为你想在这个里边，原来的ChatGPT它有点像是你的一个笔友，对吧？就是你只能给他写邮件，然后你给他写这封邮件，他回了一封邮件。但是如果这个笔友不是在邮件的另一端，而是他就站在你电脑后边，看你在怎么用电脑，对吧？甚至他可以住在你的电脑里边，看到他还屏幕上看不到的东西，他显然会变得更有用。所以我觉得这里边怎么样跟用户的context，用户已有的知识，这个组织已有的知识结合起来，对AI的作用是巨大的。因为它现在可以消化这么多的context，对吧？这当然也是模型技术本身的进展。
-</p>
-<p class="transcript-line">
-<span class="time"><strong>[00:26:45]</strong> </span>
-<span class="speaker"><strong>发言人1: </strong></span>
-以及也是最近刚发两周的GM的2.0，也出了一个多模态的一个理解。就是你可以直接打开摄像头，然后指着这个摄像头看到了墙上的一个东西，问他这是啥？给我试了一下，就问墙上一张电影节的海报，就是什么电影节，哪一届的海报？类似这样的问题，在过去其实大家都会幻想，在科幻电影里面会想。但在今天已经变成现实。而且这个现实是在一个可以接受的成本之内，并且用非常快的速度就可以返回答案的一个现实。当然他还没有特别好的变成一个C端产品了，但大家去试用一下，我觉得这个就是很让人惊艳。
-</p>
-<p class="transcript-line">
-<span class="time"><strong>[00:27:23]</strong> </span>
-<span class="speaker"><strong>发言人1: </strong></span>
-我们再聊一聊AI编程，在编程领域，今年是取得了非常令人兴奋的进展。宇森其实一直是有很强的框架的归纳和总结的能力。我记得前不久你跟我分享过，你提炼出来的一个AI编程。发展四段论要不要在博客里面和大家分享一下？
-</p>
-<p class="transcript-line">
-<span class="time"><strong>[00:27:41]</strong> </span>
-<span class="speaker"><strong>发言人2: </strong></span>
-好的，这个其实也是和很多朋友一起聊出来的一个结果，不能说是我自己完全自己想出来的，也是很多大家的智慧的结合。其实AI编程从ChatGPT出现到现在也就两年出头的时间。但是其实我觉得已经经历了四个阶段。第一个阶段就是让AI直接写代码，典型的就是一开始的下列GPT club。我们是给他一个我们的需求，比如帮我写个贪吃蛇，然后他就给我一段代码。在这个过程中，他第一不知道我为什么要写贪吃蛇。第二他也不知道这个贪吃蛇代码跑的怎么样，可能要我去本地编译运行之后，报错了。然后我把这个告诉他，我说报错了，然后他再告诉我一个调试过的结果。他其实完全就是说的是一个我只能发邮件的笔友的状态，这个就是我问你答。
-</p>
-<p class="transcript-line">
-<span class="time"><strong>[00:28:26]</strong> </span>
-<span class="speaker"><strong>发言人2: </strong></span>
-然后第二步，get hub copilot，它就像这个AI开放的上下文，对吧？它可以把整个组织的代码库作为上下文，这样来说AI就知道了大量的新的context。但是这个时候还是得用户手动的把代码贴到这个IDE里面，然后进行调试。所以我觉得这个叫2.0阶段，就是我们跟AI开放的code base代码库作为它的上下文。
-</p>
-<p class="transcript-line">
-<span class="time"><strong>[00:28:46]</strong> </span>
-<span class="speaker"><strong>发言人2: </strong></span>
-24年显然一个非常大的进步就是cursor为代表的这样一个编程的copilot t的出现，它的一个最核心的理念就是说我来预测用户未来要写什么代码。我根据你的代码库以及你刚才写的代码，我去预测你接下来要写什么代码，创建什么文件，做什么操作。这个里面其实对于生成代码的质量和数量，以及说对于文件的创建和修改。包括后来windows serve加入了对于命令行操作的自动化，这样AI就能够很好的使用我的电脑。原来的AI其实是在一张纸上写代码，我把代码抄走做下去运行。现在AI是在我的电脑上创建文件，命令行操作，然后就是部署这个，我就进入到第二个阶段，叫我为你写。
-</p>
-<p class="transcript-line">
-<span class="time"><strong>[00:29:29]</strong> </span>
-<span class="speaker"><strong>发言人2: </strong></span>
-当我们觉得这个好像就已经很兴奋的时候，Gavin出来其实它的最重要的几个特点。第一个就是说它可以异步的去进行工作，curse，windows这些。虽然他一步操作做的事情比较多，但是他还是持续需要我的注意力，就是我说一步他做一步，我踢一脚他动一下。那David可以持续的去做，这样可以把我的作为用户的注意力给释放出来。这是因为他多了一个planner，他可以去规划任务，第二步就是它可以通过虚拟机去执行更多的操作，做更多的调试工作。比如说你写个网站，它你自己用虚拟机去访问这个网站，看看前端后端是不是业务逻辑正确，并且可以随时打断和调整。大家用cursor或者ChatGPT都知道，你是没办法在它输出的中间去做什么调整的。你得等它输出完了之后，然后再去进行调整。
-</p>
-<p class="transcript-line">
-<span class="time"><strong>[00:30:14]</strong> </span>
-<span class="speaker"><strong>发言人2: </strong></span>
-但是David就跟一个真人一样，你可以在他完成任务的时候给他下新的指令。他会把这个结合到他已有的planner里面去调节他的计划。所以在这个里面就变成了我为你做，他就不只是写了，他是真的可以去做很多事情。
-</p>
-<p class="transcript-line">
-<span class="time"><strong>[00:30:27]</strong> </span>
-<span class="speaker"><strong>发言人2: </strong></span>
-所以我觉得这里面总结一下，就是第一阶段是让AI写代码，就是ChatGPT。第二阶段是上AI开放代码库，就是github co pilot。第三阶段是AI可以自动的写代码并且执行。这个是像cursor和windows设备做的事情。但第四步就是AI虚拟员工，这个我觉得是David开了一个非常好的一个榜样。
-</p>
-<p class="transcript-line">
-<span class="time"><strong>[00:30:47]</strong> </span>
-<span class="speaker"><strong>发言人1: </strong></span>
-这个也很像一个比喻，就是在1.0的时候是可以读万卷书来向你回答问题。但到4.0的时候，变成了他可以行万里路。因为他变成一个训练员工，你给他下一个任务，他就跑到外面去完成一圈，回来向你汇报。
-</p>
-<p class="transcript-line">
-<span class="time"><strong>[00:31:01]</strong> </span>
-<span class="speaker"><strong>发言人1: </strong></span>
-这个是眼见着在这一年发生的跃迁式的四个变化，真格在过去投了蛮多出海的AI的创业团队的那非常典型的代表是黑镜和莫妮卡，都超级的优秀。所以也想和雨森探讨一下出海的话题，因为今年其实在整个说法里面有一句广为流传的是不出海就出局。好像出海变得非常重要，甚至至关重要。所以首先宇森想问你的是，为什么海外AI的落地和国内的反差这么的大，以至于我们都鼓励英语都说不好的国内的创业者都要去勇敢尝试一下，做一做AI的出海。
-</p>
-<p class="transcript-line">
-<span class="time"><strong>[00:31:39]</strong> </span>
-<span class="speaker"><strong>发言人2: </strong></span>
-我觉得最核心的原因还是因为AI到目前是一个主要提高生产力的技术。而在人均工资高很多的欧美，以及说他们的对于工具的付费意愿更强。所以当你做一个生产力工具的时候，比如像我们投的黑键Monica还有ops max CI等一系列这种提高生产力的工具的时候。海外用户尤其是欧美用户对于生产力付费的意愿比较强。当然他们付的是美金，所以这个绝对金额更高，对吧？
-</p>
-<p class="transcript-line">
-<span class="time"><strong>[00:32:08]</strong> </span>
-<span class="speaker"><strong>发言人2: </strong></span>
-这个我觉得是最重要因素，同时也有一些其他的原因对吧？比如去海外能够使用能力更强的模型是3.5，或者这个GPT4O，能够所以能够解锁更多的应用场景，确实国内的大家能用到的模型可能还是有一些差距。然后确实同时现在当一个产品你做好之后，因为大模型本身它可以处理多语言输出和输入。所以我既然已经做了，为什么我不去把它面向全球化去推行呢？然后我觉得普遍现在采用了订阅制，在国内确实做订阅制的服务费是比较难做的，但是海外订阅其实已经被去接受了，对吧？这样对于创业团队来讲，他做商业收入的能力也提高了很多。
-</p>
-<p class="transcript-line">
-<span class="time"><strong>[00:32:50]</strong> </span>
-<span class="speaker"><strong>发言人1: </strong></span>
-所以你认为这一代的AI的创业者，他需要具备哪些特点？然后你会鼓励他出海。我因为我想你也不会鼓励所有人出海。
-</p>
-<p class="transcript-line">
-<span class="time"><strong>[00:32:57]</strong> </span>
-<span class="speaker"><strong>发言人2: </strong></span>
-对，其实我们现在觉得，当所有VC都劝创业者出海的时候，这往往就说明市场太热了，因为我们一直在警惕这种所谓的特别共识性的观点。而且我们觉得大部分的中国创业者出海肯定是一个低buff而不是buff，因为毕竟是客场作战。吧？
-</p>
-<p class="transcript-line">
-<span class="time"><strong>[00:33:13]</strong> </span>
-<span class="speaker"><strong>发言人2: </strong></span>
-你要解决很多你原来在国内不需要解决的问题，以及去了解很多你原来并不了解的用户。所以首先我觉得中国的机会其实很多的。像我们在国内投的像比如kimi对吧？像UIV5这些AI公司其实增长的更快。只是说它的商业化可能会稍微慢一点。但是我觉得这也是互联网时代我们学到了一点，对吧？其实想想看互联网时代，当易贝那个时候很少商业化，就是抽佣金的时候，淘宝先免费，然后最后做成了更牛逼的商业模式，对吧？所以我觉得其实在中国和在欧美市场，本来适合的商业模式就不太一样。并不是每个团队都要去出海。
-</p>
-<p class="transcript-line">
-<span class="time"><strong>[00:33:49]</strong> </span>
-<span class="speaker"><strong>发言人1: </strong></span>
-在今天已经选择要做出海的中国的创业者，我相信有很多人在听我们这一期的播客内容。宇森你会有一些什么样的建议给到他们吗？
-</p>
-<p class="transcript-line">
-<span class="time"><strong>[00:33:58]</strong> </span>
-<span class="speaker"><strong>发言人2: </strong></span>
-我觉得出海其实跟在任何地方做产品一样，首先要非常了解用户的真实需求。而出海的一个过程中，因为隔了一个语言或者地理位置的隔阂，所以这一点变得更加重要，尤其在企业服务领域。因为之前我们也见到蛮多中国做企业服务创业者，觉得咱们的工程师能力很强，解决问题的能力很强。所以他们觉得出海可以去卷别人。但是很多时候我觉得咱们的团队及时力很强。但是定义关键问题，这个是需要去实地的去调研和真的很了解你的客户的，所以尤其是在这种需要以销售驱动的领域，我们觉得这个时候一定要找到有coach market经验的专家，甚至说团队要去到这个对应的目的地。
-</p>
-<p class="transcript-line">
-<span class="time"><strong>[00:34:41]</strong> </span>
-<span class="speaker"><strong>发言人2: </strong></span>
-但是比如说像莫妮卡这样的偏用户全C端的产品，这个需求可能是相对比较普适的，或者比较容易理解的。这个可能倒不一定，但是针对这种企业的，其实我觉得是一定要人要出去的。当然我们看到有很多搞擦边的对吧？因为插边这个需求理解是最容易的，你这个全人类可能都一样，所以这个是第一个就是真的搞清楚用户和需求。第二个我觉得普遍做的好的团队的共性，就是要想清楚，并且找到一个低成本高回报的营销策略。其实我们看比如嘿jen Monica，包括vio对吧？
-</p>
-<p class="transcript-line">
-<span class="time"><strong>[00:35:15]</strong> </span>
-<span class="speaker"><strong>发言人2: </strong></span>
-这些中国出海比较好的产品，其实往往都是把像SEO，社交媒体传播，或者做好的内容进行病毒式传播，这些营销策略都用的比较好，而不是简单的去做投流的打法。当然如果你的产品变现能力很强，这个时候也许做投流能把这个RY算过来，但基本上现在投流都很贵。所以怎么样能够巧妙的去做营销，尤其比如可能通过产品的特性，这种病毒式的营销，其实这些也变得非常重要。所以尤其是把海外的社媒，像twitter这些平台给用好，其实是跟在国内挺不一样的，对吧？因为在国内大家都习惯了去投信息流，去投流，通过很厉害的投流方式去做。而在海外我觉得更要要巧妙的去做做产品的执行力往往都很强。所以无非就是说做什么和怎么推广，这两点可能是大家普遍遇到比较有挑战，或者说做好了就会比较加分的地方。
-</p>
-<p class="transcript-line">
-<span class="time"><strong>[00:36:05]</strong> </span>
-<span class="speaker"><strong>发言人1: </strong></span>
-其实大家还有一个点，就是觉得这一波做AI硬件的也蛮多的。然后做AI硬件就是可以特别好的利用到中国的优势资源。在AI硬件领域，宇森你们在过去一年有看什么投什么吗？
-</p>
-<p class="transcript-line">
-<span class="time"><strong>[00:36:19]</strong> </span>
-<span class="speaker"><strong>发言人2: </strong></span>
-AI硬件我们看了蛮多项目的，但说实话我觉得硬件其实看上去很美，但不一定真的那么好落地。过去其实落地比较好的还是这种。比如说海外已经把产品原型给打出来了，我们去把它做得更快、更便宜，或者更小的一个过程。当然我们也看到一些团队，比如像proud，确实做出来很有创意的产品。但我觉得整体来说，硬件的扩张速度其实都没有那么快当软件反而还是更加适合现在AI扩散的一个产载体。所以我们对于硬件我们一直都是比较谨慎一点的。当然我们也就是有投这样的创业者，但我们整体并没有像有的基金确实投了很多。我自己对于AI硬件，我一直是觉得，包括像当时比如说rabbit，像这个man这出来的时候，我自己都是持比较谨慎的态度。
-</p>
-<p class="transcript-line">
-<span class="time"><strong>[00:37:09]</strong> </span>
-<span class="speaker"><strong>发言人1: </strong></span>
-好，我们进到今天的第二部分，我们将和宇森一起来聊一聊David。首先要和大家特别说明的是，我们今天会用非开发者的视角来聊David。因为我俩都不是专业的工程师，虽然学了七年的4S但毕业之后就一直做产品经理，也是直到半年前科sir发布之后才重新开始写代码。应该是说重新开始命令AI帮我写代码。但另一方面正是因为我和宇森都是非开发者的背景，这反而让我们可以用独特的视角去感受和体验David，并且去预测一下AI coding agent，乃至更广义的AI agent将如何改变。每个人就不只是程序员，我在未来的生活和工作。
-</p>
-<p class="transcript-line">
-<span class="time"><strong>[00:37:50]</strong> </span>
-<span class="speaker"><strong>发言人1: </strong></span>
-因为我们还是认为这一代AI编程技术，它最终会沿着两个方向去发展。一个是服务专业的程序员和开发者，第二是赋能所有的像我们这样的非开发者。而后者他的商业价值和应用前景可能是更深远而广泛的那第一个问题想问一下雨森，我们在代孕发布的第一天，你其实就花了500美金去充值。那你充值了devin之后，第一个用devin做的事情是什么？以及你用它做的让你印象最深刻的事情是什么？
-</p>
-<p class="transcript-line">
-<span class="time"><strong>[00:38:19]</strong> </span>
-<span class="speaker"><strong>发言人2: </strong></span>
-David在安装完成之后，他有一些推荐的任务，其中有一个就是他会把你的名字带进去，说在网上找你的信息，给你做个人网站，然后我让他做了我让徐医生做的典型工作。比如说我给他一个任务是说，我们要改一改我们的争夺基金的价值观宣言，英文叫manifest。然后我说你去找一找美国有哪些顶级V他们的manifesto是什么？这是一个典型的就是说你大概需要找什么？但是这需要有一些信息收集整理和解决问题的能力。然后我就看他去做，这里面有很多很有意思的点。比如说他首先要确定什么是美国的top VC，所以大家先去看这个peach book，想去CB inside这些网站去找，有没有一个top VC的列表是他首先做的计划，他先找到了这他认为top的十加VC，我看看列表确实是比较top的十家，他就一个一个的去官网去找他们的这个manifesto。
-</p>
-<p class="transcript-line">
-<span class="time"><strong>[00:39:15]</strong> </span>
-<span class="speaker"><strong>发言人2: </strong></span>
-但是这个manifesto这个东西在VC里边其实不同的叫法。比如说红杉叫eos，这个在方式上叫manifesto，在别的地方可能叫abbot，或者叫philosophy，反正是它有不同名字。并且还有几个VC的网站上是没有这么一个内容的。就是它没有一个关于说我是谁，我的价值观的描述。所以我就看到David在这个过程中，他就尝试去理解这个任务，找到最符合的内容。
-</p>
-<p class="transcript-line">
-<span class="time"><strong>[00:39:40]</strong> </span>
-<span class="speaker"><strong>发言人2: </strong></span>
-比如说他在找excel这家VC也是美国非常有名的VC，他就发现官网上没有这样的内容。但他就去那个news里边找，找来找去找了二三年。他们有篇文章，里面介绍了这个excel的这样一个价值观方法论。他把把那个拿出来作为他要找的这个内容。所以你可以看到他是像一个初级人类员工一样去解决问题。
-</p>
-<p class="transcript-line">
-<span class="time"><strong>[00:40:00]</strong> </span>
-<span class="speaker"><strong>发言人2: </strong></span>
-你的一个能力对吧？就是他不是很机械的说，你网站上有没有个叫manifest的东西，没有，那我就没找到。只是说我去看一看你整个网站上面有没有一个东西比较符合这个内容定位，然后去寻找。所以他最后就给我一个10个VC对应的manifesto的这样的一个markdown文件，但是这里面有很多AI模型现在常见的问题，比如说他有时候他容易偷懒，因为我要他去把这个全文拿下来。但是他在有几个VC的这个内容里面，他就给自己做了一个summarizing，做了一个总结，这个是我们在很多时候用现在AI的chat boot也会遇到的问题。
-</p>
-<p class="transcript-line">
-<span class="time"><strong>[00:40:34]</strong> </span>
-<span class="speaker"><strong>发言人2: </strong></span>
-就是AI他不给你全文，他因为token数的原因或者什么给你一个缩略，所以这个时候就要告诉他说，你要给我exact这个全文的文本这些。所以他其实跟一个真正的实习生一样需要教导。但是我觉得这个里面它体现的是规划能力，以及说他对于这个不能直接解决的任务去创造性的解决的能力。其实是非常让我觉得非常有意思的。
-</p>
-<p class="transcript-line">
-<span class="time"><strong>[00:40:56]</strong> </span>
-<span class="speaker"><strong>发言人2: </strong></span>
-当然我觉得这可能不是大家用demo的一个典型场景。因为我没有让他编程对吧，我让他来做的是一个语言模型aging的常见的事情，所以我也完全可以想到我们现在有适合coding的这个David吧？那么我们完全有适合做这种文本工作，这种比如说适合金融界的工作或者法律工作的对应的agent的产品。在这个里面我认为只要我定义的这个工作是一个人坐在电脑前面，通过使用电脑上网，使用软件能够去解决的工作。那么它大概率其实都能被或多或少的在这个workflow里面能够得到体现，所以这个还是蛮让我觉得惊艳的。
-</p>
-<p class="transcript-line">
-<span class="time"><strong>[00:41:33]</strong> </span>
-<span class="speaker"><strong>发言人1: </strong></span>
-所以想问的是你在第一天到现在，而且时间也不长，两周左右你感觉自己体验到了一个什么样的未来？
-</p>
-<p class="transcript-line">
-<span class="time"><strong>[00:41:41]</strong> </span>
-<span class="speaker"><strong>发言人2: </strong></span>
-当时我体验了之后，我当时就感觉到它作为第一个真正能用的这种叫做真正的agent的产品，它的出现可能标志着人类历史的一个重要时刻。为什么我这么说呢？因为我觉得人类历史上发明了很多工具，对吧？甚至有人说人就是能够使用工具的动物，但是说这些工具基本上都可以分为两个分类。第一种就是说需要持续注意力的工具。比如说像电钻，像锤子，或者像一个我们键盘鼠标这样，它需要我们持续的注意力关注和输入。
-</p>
-<p class="transcript-line">
-<span class="time"><strong>[00:42:12]</strong> </span>
-<span class="speaker"><strong>发言人2: </strong></span>
-第二种就是说叫做机械重复的自动化工具。比如说洗衣机，我按个按钮它自己去洗对吧？或者自动售货机流水线这样的，它是可以去不需要我的关注，但是它只能解决重复的东西。所以我们其实一直在寻找第三种，就是说不需要我持续的注意力，但同时又能自己规划自己去解决问题的。这种其实就是所谓的autonomous agent的自主的代理，或者叫agent agent。我觉得这个翻译可能代理都不是特别好啊。
-</p>
-<p class="transcript-line">
-<span class="time"><strong>[00:42:39]</strong> </span>
-<span class="speaker"><strong>发言人2: </strong></span>
-这款产品在原来的构想里面，其实可能只有像韦某这样的产品在硬件上实现了，在软件程度上，其实我们一直没有看到这样的产品出现。去年有一些像欧洲GPT这样的尝试，但是那些都还是在产品语言性的阶段。我们看到cursor，其实我发现他们定义了一个真正的A型的产品需要具备的很多特点。
-</p>
-<p class="transcript-line">
-<span class="time"><strong>[00:43:01]</strong> </span>
-<span class="speaker"><strong>发言人2: </strong></span>
-比如说第一个是他由于有很强的任务规划能力所带来的异步体验。他原来设计的场景就是说在stack里边你可以艾特戴斌说你帮我去改这个bug，然后他自己就去改了。他们真的需要很重要的帮助，他真的进行不下去的时候他会找我，或者他把事情做完了他会来找我。这边一个实习生真的很像对吧？他他可能我跟他交代之后，他要去工作了，遇到问题他搞不定了，实在搞不定了，他就会过来找我，但是平时他不需要我的注意力，对吧？这是一种异步的体验。
-</p>
-<p class="transcript-line">
-<span class="time"><strong>[00:43:30]</strong> </span>
-<span class="speaker"><strong>发言人2: </strong></span>
-所以与此同时的话，我就可以去scale up这个过程。我可以同时给十个实习生派活去做事情，然后这个时候可能我就能去专注去做真的需要我做的重要事情。这个是第一个异步体验。
-</p>
-<p class="transcript-line">
-<span class="time"><strong>[00:43:41]</strong> </span>
-<span class="speaker"><strong>发言人2: </strong></span>
-第二个就是说他在云端部署的虚拟机，所以他自己是可以使用浏览器。同时他未来肯定还能使用更多的软件的，所以在这个过程中的话，它能够完成更多的任务。这个和原来比如说cursor和windows是用我自己的电脑，在我的电脑上去进行创建是完全不一样的。因为大家如果之前用过类似于像RPA这样的软件，大家会意识到就是你会在他做操作的时候，你什么都不敢做。因为你怕打断他的流程，那必须是AI在用你的电脑，但是AI在用他自己的虚拟机。也就是说跟我们招一个实习生，我们要给他配台电脑一样，这个它带来的灵活性是非常不一样的。
-</p>
-<p class="transcript-line">
-<span class="time"><strong>[00:44:18]</strong> </span>
-<span class="speaker"><strong>发言人2: </strong></span>
-第三，David在做事情的时候，他跟一个真的员工一样。比如说咱们招个实习生，他第一天肯定会搞砸很多事情。因为他不知道在我们这个组织里面很多社家会怎么去做。所以当他做一件事情的时候，他会逐渐的意识到，我需要积累一个这样的知识。在这个里面它被称为knowledge，它会主动的提示说我学到了一个知识。比如说在找信息的时候要尽量去官网找，他会就有这样提示。然后我会确定你学到了这个好的知识，这跟我们去跟实习生和员工做review是很像的。
-</p>
-<p class="transcript-line">
-<span class="time"><strong>[00:44:47]</strong> </span>
-<span class="speaker"><strong>发言人2: </strong></span>
-我们说他可能写个工作总结，说我学到了这几点，我说的对这几点做的很对，对吧？这样话来说，理论上是可以不断的去积累在这个组织里面专有的这些知识，从而让它变得更加适应这个组织。其实我们在招人的时候也是？
-</p>
-<p class="transcript-line">
-<span class="time"><strong>[00:45:00]</strong> </span>
-<span class="speaker"><strong>发言人2: </strong></span>
-一个员工刚来的时候，他估计他的这个价值是相对有限的。他需要持续的学习，让它更适合这个主持，但是之前在用工具的时候，其实我们都希望这个工具一打开就可以用，对吧？我们不会期待说一台电脑要不断的学习，越来越好用。但是在David我们是真正看到了说它具备一个类似于人类员工的成长曲线。虽然这个还比较早期，但是我们发现这样一个范式的转变是非常重要的。
-</p>
-<p class="transcript-line">
-<span class="time"><strong>[00:45:26]</strong> </span>
-<span class="speaker"><strong>发言人2: </strong></span>
-第四点就是David提出了一个根据他完成的任务进行收费的过程。所以这也是为什么一上来大家觉得500美金很贵。因为500美金对应的其实是250个ACU，每个ECU大概15分钟的工作，所以它换算出来就是1个小时大概需要八美金。这是什么概念呢？也许大家在中国的听众会觉得这个很贵，但是实际上在加州最低的工资标准是16美金，就是麦当劳跟你包汉堡的小哥，他也是要16美金1个小时了。所以这已经是低于加州的最低工资标准的一半。
-</p>
-<p class="transcript-line">
-<span class="time"><strong>[00:46:00]</strong> </span>
-<span class="speaker"><strong>发言人2: </strong></span>
-并且我们可以看到就是在这个过程中，AI的算力会持续的提高，算力成本会持续下降，对吧？所以这把美金买来了1个小时的算力，其实在未来一定可以做更多的事情，具备更强的能力。并且对于招一个人来讲，还要处理很多人事的问题，还要有物理的空间，对吧？还得去处理很多管理问题。但是对于AI的他是一个7乘24小时不知疲倦，一直很勤奋的员工。所以当他真的能够去不需要我的注意力去完成额外的任务，所以能够跟一个实习生对标的时候，作为企业的这个所有者？那我可能要考虑的就是我到底是请的实习生，还是我用一个David agent。
-</p>
-<p class="transcript-line">
-<span class="time"><strong>[00:46:37]</strong> </span>
-<span class="speaker"><strong>发言人2: </strong></span>
-所以我朋友说一句话，我觉得特别有意义，就是说程序员喜欢cursor。因为curse是程序员的copilot，他能帮助程序员成为一个十倍效率的程序员。但是老板的角度喜欢David，因为老板是考虑怎么样花钱能买到生产力。而David我们看到了一个潜在的范式变化，就是说我能够通过花钱的去scale up生产力。所以我就会觉得David n其实让我看到了一个工作的scaling law一个工作的scaling law。其实我觉得在很多coding agent里面，第一个人往往都是做一个个人网站。所以我开玩笑说我们是用这些产品做了好多个个人网站了。这就是新时代的这个hello world，显然这个任务他完成的不错，因为这其实从网上找到一些我的信息是比较容易的，它可以快速搭建一个网站。
-</p>
-<p class="transcript-line">
-<span class="time"><strong>[00:47:23]</strong> </span>
-<span class="speaker"><strong>发言人1: </strong></span>
-所以其实David的出现，它不是只是让大家觉得AI coding就AI编程变得很厉害，而是他定义了一个新的交互方式。大家可以看到，原来AI agent可以如此工作，因为我和雨森在David里面是用一个团队账号。其实我能看到他的所有的任务的进展，就能看到他在怎么用David，然后戴维又怎么回应他。
-</p>
-<p class="transcript-line">
-<span class="time"><strong>[00:47:43]</strong> </span>
-<span class="speaker"><strong>发言人1: </strong></span>
-像刚才提到那个任务，我有一个补充是在刚下达这个指令之后，就待会会第一时间告诉你我的工作计划是什么。他会像给老板汇报一样，向上管理说第一我要去理解这个任务，我要拆解这个任务，会分成12三四步分别去做。然后他每做一点什么事情又会回来主动跟你汇报，然后在他遇到他进行不下去的事情的时候，他还会告诉你，让你给他一点指导，这个是很惊艳的。
-</p>
-<p class="transcript-line">
-<span class="time"><strong>[00:48:10]</strong> </span>
-<span class="speaker"><strong>发言人1: </strong></span>
-然后第二是其实雨森刚才那个任务还有第二部分，刚才没有提到的是把十个顶级VC的manifesto取下来之后，女生有让他说你去做一个网站。然后正好在那个时候他花了1个小时，差不多做了第一版出来，然后做的很烂。然后正好我在那个时候进了David看到了他交出来的这个报告，我就想着，好，那我接着来把这个任务给他布置下去。所以我给了他一些新的指令。比如说给他一个参考网站，说这个风格不错，你照着这个风格样式再去调一调这个网站。然后同时当时我想设为crap的那个生图生插图的API，然后我把API文档和API可以丢给他说，你再给这十篇manifesto分别去做一个插图。
-</p>
-<p class="transcript-line">
-<span class="time"><strong>[00:48:51]</strong> </span>
-<span class="speaker"><strong>发言人1: </strong></span>
-然后这个我想表达的就是当时我有一种好像真的在一个办公室里面，然后有一个实习生一开始虽然在帮雨森做事，但是现在他做了一个报告，回来雨森下楼吃饭了。然后我看到了他的报告，我给他一点建议说，其实雨森想要的是那个你再去完善一下，待会回来他就可以看了。有这种像真的在用一个人的感受，所以这也是为什么我们说它是一个真的agent。因为agent翻译过来它是人，他其实不再是机器的意思，它是某种助理的意思。我所以这是为什么感觉这个David他产生了一个新的像用agent一样的范式。
-</p>
-<p class="transcript-line">
-<span class="time"><strong>[00:49:27]</strong> </span>
-<span class="speaker"><strong>发言人2: </strong></span>
-对，这里面还有很多细节挺有意思的。我再举一个例子，就是在我们另外一个朋友的任务里边，他其实是要David去licked in上去抓一些人的信息。比如说open ID是个中国人，然后David前他没有linked in账号，对吧？所以他就需要去找他的用户说，你能不能帮我输一下这个link云账号。在这个时候，因为代表他起的是个虚拟机，所以它是有个互动模式的。就是我作为用户，我可以在这个虚拟机里边输入我的link in的账号和密码，然后David就继续用。
-</p>
-<p class="transcript-line">
-<span class="time"><strong>[00:49:58]</strong> </span>
-<span class="speaker"><strong>发言人2: </strong></span>
-这个就很像是什么？比如说我们招了个实习生，然后给他配了一台电脑，但是他没有立刻验证账号。所以他说老板你来输一下你的账号。好，那那在我把账号输进去之后，他就继续用我登录好的账号去用了，所以这个其实也是为什么虚拟机这个事情变得很重要。因为他可以在那个里面去做很多的操作，不代表我的工作流程，否则我的电脑就被他借走用了，对吧？像curr windows就是他借我的电脑用，那个时候我什么也干不了。所以这种异步的方式让我可以同时给戴维布置很多的任务。它是个并行的一个线索，我只需要花算力就行了，对吧？
-</p>
-<p class="transcript-line">
-<span class="time"><strong>[00:50:33]</strong> </span>
-<span class="speaker"><strong>发言人2: </strong></span>
-这个其实很重要。比如像日常生活中我有一个实习生，但如果我有十个实习生，每个我都可以帮他做很多事情。那这个工作的提高可能是一个指数级的提高。
-</p>
-<p class="transcript-line">
-<span class="time"><strong>[00:50:42]</strong> </span>
-<span class="speaker"><strong>发言人1: </strong></span>
-这个感觉用David就好像想起了当年说人人都是产品经理，但今天就变成了人人都是CEO。因为和单位互动的过程当中，好像只需要做CEO最喜欢做的三件事儿。第一下指令，第二检查工作，第三就是高水平一点的CEO还可以给他一些启发和指点。
-</p>
-<p class="transcript-line">
-<span class="time"><strong>[00:51:00]</strong> </span>
-<span class="speaker"><strong>发言人2: </strong></span>
-其实这里面我觉得很多人在使用dev或者这样的AI产品的时候，都会有一个遇到一个问题，就是说我要做什么，以及我怎么提出这样的需求。因为试想如果我们招一个员工，如果我就跟他一句话帮我写个淘宝，那这个肯定他人是做不出来的。但为什么我们很多时候可能对于AI有一些不切实际的想法，说你给我做个淘宝他就做出来了。其实这也是不对的对吧？确实我们每个人都要去想我到底要做什么，这是一个问题。很多大家面对一个很强的一个模型，它其实有很多的智能和能力。但是这个时候你有没有我想做的事情，以及你能不能把你想做的事情以一种更加合理的、容易理解的，更加结构的话的方式提出这样的需求。
-</p>
-<p class="transcript-line">
-<span class="time"><strong>[00:51:40]</strong> </span>
-<span class="speaker"><strong>发言人2: </strong></span>
-就跟我们自己在做pm在做设计师程序员的时候，我们也很烦那种提他自己都没搞懂需求的老板，吧？比如说什么五彩斑斓的黑这样的需求。但很多时候当我们自己成为AI的老板的时候，我们能不能做一个好的老板。这个其实是可能接下来就是说每个人都要学会当老板的一个过程。
-</p>
-<p class="transcript-line">
-<span class="time"><strong>[00:51:58]</strong> </span>
-<span class="speaker"><strong>发言人1: </strong></span>
-其实用单品还有一个很长的感是吧？这个也是high cloud的前段时间提到的，他提醒大家，David有一个非常厉害之处在于他可以去帮大家把人类历史上的智慧结晶全部用起来。这句话怎么讲呢？就是说其实我们要完成一个任务的时候，很多时候我们是不知道世界上已经存在了这样的轮子的，不知道世界上已经存在这样的工具的。因为很多这样的工具它是以代码的形式，以代码库的形式放在k tub或者放在hugger face上面的那其实要把这样的代码下载到本地，然后部署到机器上，并且和你的其他的这个工作或者其他的软件程序给联通跑起来。这个事情1000个人里面可能只有一个人能做到。对，但今天有了diving之后，理论上人人都可以做到，因为你可以自然语言像老板一样下指令了。
-</p>
-<p class="transcript-line">
-<span class="time"><strong>[00:52:47]</strong> </span>
-<span class="speaker"><strong>发言人1: </strong></span>
-这个举一个具体的例子，就是比如说现在我们要做一个国际象棋的一个应用，那在过去国际象棋的规则，你只是去把这个规则写出来。大概就需要花几百行升上千行的代码。那你可能会想说，我去搜一下是不是已经有人把这个规则写成一个代码库来调用。但是你可能会搜出google的几百页的结果。那在这里面什么是最好的，什么是最佳实践也不知道。但是有了devin之后，你可以把这个命令下给他他会用他的分析方式去一步的帮你找到这样的已经现存的程序代码库，然后用起来。
-</p>
-<p class="transcript-line">
-<span class="time"><strong>[00:53:20]</strong> </span>
-<span class="speaker"><strong>发言人1: </strong></span>
-这个带来的价值是所有的已经有前人开发过的解决某些问题的工具或者代码库。你可以不再造轮子了，你可以站在巨人的肩膀上去，用这些经过社区验证的最佳实践来去做自己想要的工具。我觉得这个也是davin，包括cursor大家都实现的一个可能没有那么显著，但是还挺深远的价值。
-</p>
-<p class="transcript-line">
-<span class="time"><strong>[00:53:46]</strong> </span>
-<span class="speaker"><strong>发言人2: </strong></span>
-对我很同意。就是我在下面GPT出来的时候，我就有一个很强烈的感觉是如果你的工作中有很多都是复制粘贴或者叫缝合怪的部分，那这个是很容易被替代掉的。所以大家其实发现最早被AI大幅提效，说的好听点是提效，说的不好听是容易被替代的工作。其实就是由初级美工的这种布置粘贴型设计工作，对吧？就是把抄一个别人的设计，然后初级代码工作者的这种，我把这个库自己怎么样把它弄一下，然后就应用到我的项目里面来。就这样的工作其实最容易被替代的。所以前端程序其实面临很大的压力。因为前端展示其实大部分时候不需要那么多的创新的想法，对吧？
-</p>
-<p class="transcript-line">
-<span class="time"><strong>[00:54:29]</strong> </span>
-<span class="speaker"><strong>发言人2: </strong></span>
-那在这个过程中的话，实际上我觉得对于大家怎么去一个是提出想法，第二个是说去创造性的去解决问题，这个能力会要求很多。而这种找到一个已有的居家solution，把它给用胶水粘起来的工作，其实这是AI最擅长的。我们工作中应该大部分的内容都是已经被解决过的问题，或者已经被发明了轮子。只是以前人类不知道有这些轮子的存在，或者也没有办法把它很好的拼起来。但是现在我觉得AI能够帮我们做到这个事情，让我们能够专注于说在做什么这件事情上，我觉得会变得越来越重要。这个其实也让我想到对于我们的教育这些会有很大的影响。
-</p>
-<p class="transcript-line">
-<span class="time"><strong>[00:55:06]</strong> </span>
-<span class="speaker"><strong>发言人2: </strong></span>
-因为我们之前大量的教育，包括我们的培训都是怎么做执行工作，对吧？我们怎么具体做这件事情，就好像当没有计算器的时候，我们要学大量的手算和心算。那现在我们可以，比如说我要了解这个怎么计算的，但是我未必要去做这些计算本身。我可以把更多的精力花在做什么，提出正确的问题上。这个其实也是我觉得对于未来的教育体系，这些都需要有很大的变化的特点。
-</p>
-<p class="transcript-line">
-<span class="time"><strong>[00:55:30]</strong> </span>
-<span class="speaker"><strong>发言人1: </strong></span>
-所以其实2025年是非常值得期待的，从demo的发布我们看到的不只是AI coding被agent整个升级到下一个级别。他其实在方方面面就提到的，不管是法律，不管是商业分析，不管是教育。其实这样新的范式的出现都会带来颠覆式的革命，也意味着各种创业的机会。
-</p>
-<p class="transcript-line">
-<span class="time"><strong>[00:55:50]</strong> </span>
-<span class="speaker"><strong>发言人1: </strong></span>
-然后刚才其实羽生有提到一个非常有趣的观点，就是David他是一个人类历史上的第一个既不需要持续的注意力，又不只是机械重复的工具。这个也意味着让我们好像看到了工作的某种scaling law。你觉得在这里可不可以再有一点点展开的讲解，让大家更理解这意味着怎样的了不起的价值。
-</p>
-<p class="transcript-line">
-<span class="time"><strong>[00:56:16]</strong> </span>
-<span class="speaker"><strong>发言人2: </strong></span>
-首先scaling law，我在这里的比方最直白的就是说我能够花更多的钱买到更多的生产力，或者说这个钱可以等价为算力，对吧？这其实是挺不容易的。大家想有很多公司融了很多钱，但是他似乎不能够把钱有效的变成生产力。这边需要招人，需要搭建组织，需要做这些事情，对吧？但是其实随着这种可以异步进行工作的A型的出现，导致说我可以把很多任务把它安排给不同的A型去做。然后它消耗的是算力，消耗的是电力，对吧？它就可以完成这个任务本身并且这个可以并行进行。
-</p>
-<p class="transcript-line">
-<span class="time"><strong>[00:56:50]</strong> </span>
-<span class="speaker"><strong>发言人2: </strong></span>
-你完全也可以想到说会有一个更加擅长于提出需求，拆解需求的。比如说产品经理型的去指挥很多AI程序员去工作。所以他真的就会形成一个虚拟的组织。在这个里边其实他需要的更多的是一个，第一你要做什么？第二我要有足够的算力和钱的输入。所以我觉得在这样一个想象中，但是我觉得这样快速变成现实的组织里边，可能我就能通过投入更多的钱和算力，有效的把工作给scare up起来。这个我觉得是叫做说工作的scaling law。
-</p>
-<p class="transcript-line">
-<span class="time"><strong>[00:57:23]</strong> </span>
-<span class="speaker"><strong>发言人2: </strong></span>
-第二个我觉得就是我们经常遇到的情况就是有创业者说我有一个很好的想法，但是我缺个程序员对吧？所以好的这个编程执行其实是我们现在还表稀缺的资源。但是当执行本身变成不是一个稀缺的资源的时候，做什么变得很重要。刚才我说的每个人都要学会当老板，这样我觉得我们能看到更多的创业机会，就有很多原来因为没有优秀的程序员会被埋没的这样的创业者。现在可能会变成有更加多的创业机会，你会有更加多的东西被创造出来。这个我觉得也是一个我们可以把创业这件事执行skill up的一个原因。是因为花钱能提高生产力。
-</p>
-<p class="transcript-line">
-<span class="time"><strong>[00:58:01]</strong> </span>
-<span class="speaker"><strong>发言人2: </strong></span>
-这个事情本来是因为你的age能够平行进行，如果我是注意力得放在工具上，那我的注意力是有限的。现在我的注意力可以被扩展到不同的A型的上面。所以导致一个人比如他可以下很多命令，对吧？然后A的去做事情。
-</p>
-<p class="transcript-line">
-<span class="time"><strong>[00:58:16]</strong> </span>
-<span class="speaker"><strong>发言人1: </strong></span>
-其实说到这个skilling law，我想到一个比喻，就是讲说当年王鑫让我们看一本书叫做领导阶梯。他讲的就是当你成为第一次一个小团队的领导的时候，你要有一个重要的认知的变化。就是你的产出不再是你的产出，而是你整个团队的产出。
-</p>
-<p class="transcript-line">
-<span class="time"><strong>[00:58:36]</strong> </span>
-<span class="speaker"><strong>发言人1: </strong></span>
-在今天这个所谓的我们从戴维身上看到的工作的study law，其实它是类似的。这里的产出不再是你一个人的注意力集中在眼前做的这些事情的产出。而是你怎么把整个团队的任务下达好，把他的这个检查标准设定好。团队的所有的产出，包括David的所有的产出，其实最后都是你的产出。这意味着你其实是用你有限的注意力能够去无限的skill up。只要你能够管理足够多的人和管理足够多的agent，而管理agent可比管理人要容易多了。因为管理人涉及到更多的沟通协调和更多的情绪价值。我理解这个可能也是宇森想说的这个工作的skinning law。
-</p>
-<p class="transcript-line">
-<span class="time"><strong>[00:59:15]</strong> </span>
-<span class="speaker"><strong>发言人2: </strong></span>
-对，王鑫推荐一本书叫领导梯队，应该叫他其实这个概念是没问题的。就是思想你如果能够成为一家跨国公司的CEO？你能够指挥上千人、上万人，你能做什么事情？原来我们没有这样的机会，但现在可以通过管理agent以agent去调动agent去近似这样的机会，那所需要的就是钱和算力，但是很多公司其实根本不缺钱，对吧？他其实缺的是人才，是把事情给执行出来的这样的组织结构。所以我相信在这种情况下，一方面是很有钱的人，很有钱的公司，他们能做更多的事情。另外一方面是说很多有想法的人，他们其实可以通过相对比较少的成本去快速的把想法去实现出来。然后比如说获得用户的认可或者投资，这样我们也会有更多的创业者创新的空间。
-</p>
-<p class="transcript-line">
-<span class="time"><strong>[01:00:00]</strong> </span>
-<span class="speaker"><strong>发言人1: </strong></span>
-这个就是今年最流行的说法之一。超级个体也是因为一个人有了越来越多的工具的赋能之后，包括agent的赋能之后，一个人可以做原来十个人20个人才能做的事情。其实David发布了不久之后，也收到了很多的吐槽和批评。这个雨森你会怎么看？
-</p>
-<p class="transcript-line">
-<span class="time"><strong>[01:00:21]</strong> </span>
-<span class="speaker"><strong>发言人2: </strong></span>
-很多的批评是关于这个500美金的价格，就是大家会把它500美金和cursor比如说20美金或者多少去进行对比。首先我认为这是一个两种不同的范式，对吧？一种是需要用我的时间去用的工具，所以在这里面他没有省我的时间，他其实让我时间变得更高效。所以在做爱这种工具产品，因为我的成本并没有下降所以它其实是等于我的成本加上工具的成本。但如果他本身是一个员工的话，其实你想他的对比对象就变成了员工的工资。而他只要能够比同等价格招到的员工干更多的活。我认为这个尤其在于欧美，它就是可以落地的，所以我觉得这个价格并不贵。很看到价格就是说这个是不是割韭菜的，其实关键是看你怎么看和怎么用。
-</p>
-<p class="transcript-line">
-<span class="time"><strong>[01:01:04]</strong> </span>
-<span class="speaker"><strong>发言人2: </strong></span>
-我发现我也跟一些程序员他们用curse用devin去聊，我发现在devin这个能力还不够强的时候，用devin对于大多数程序员的工作流是一个很大的转变。因为程序员他自己懂得代码怎么运行，他往往还是希望自己能够掌控全局。所以这个时候curse r这样的co pilot是一个更适合他们现在workflow的一个方案，那么已经习惯了自己用IDE去工作的程序员，他往往会觉得自己有一个任务要完成的时候，他要跟David去对话，等待David去干活验收。这个不是那么的高效，他们更希望自己去去修这个或者说写这个代码，所以如果你是一个很厉害的程序员，你可能不会愿意去带一个笨笨的实习生，因为现在David他就还是个实习生，对吧？
-</p>
-<p class="transcript-line">
-<span class="time"><strong>[01:01:47]</strong> </span>
-<span class="speaker"><strong>发言人2: </strong></span>
-培养实习生也是需要时间和耐心的。这个时候可能程序员自己会觉得说，我与其等你自己写代码，还有一些问题我还给你擦屁股，还不如我自己写，对吧？我觉得这个在技术的早期是完全可以理解的OK我们要把它当做一个人的角度去看。并且我觉得如果一个人犯错误的时候，其实作为管理者我们往往会比较有耐心。因为我们知道人是会学习和成长的。我今天骂他他可能会记住，对吧？然后他会有更多的动力去工作，他能够经过培训成为不错的程序员。但David其实他是可以学习的。
-</p>
-<p class="transcript-line">
-<span class="time"><strong>[01:02:20]</strong> </span>
-<span class="speaker"><strong>发言人2: </strong></span>
-但是我们现在对于AI的软件和产品，我觉得还没有建立起这种他可以成长、可以学习、可以被管理的预期。所以当他出问题的时候，我觉得很多用户的反应就变成了说，我买了一个工具好贵，五百美金。但是他居然也会出问题，就会大家感觉到比较失望，对吧？所以我觉得在这个企业引入David这样的产品的时候，对其期望值变得很重要。
-</p>
-<p class="transcript-line">
-<span class="time"><strong>[01:02:41]</strong> </span>
-<span class="speaker"><strong>发言人2: </strong></span>
-包括devin自己在他的文档里面，其实也说他适合首先做一些你会安排给实习生做的事。比如说简单的前端任务修改一些bug对吧？给前端加一个比如说dark mode的一个switch之类的这种工作。但是人类其实我也说我们提出好问题的能力，其实也是需要学习的。所以我经常看到大家说，给一个时候帮我写个淘宝，帮我做个微信这样的需求，那就是远超他的能力的。
-</p>
-<p class="transcript-line">
-<span class="time"><strong>[01:03:06]</strong> </span>
-<span class="speaker"><strong>发言人2: </strong></span>
-而现在David跟所有的AI产品一样，他也是傻傻的，对吧？他拿着这个任务就说好，我来帮你写的淘宝，那这个时候肯定你得到结果都不会很开心。所以我觉得怎么用好一个工具是需要学习的，肯定还没有到说给你啥需求？你都能够直接接得住，直接做出来，那他就是神，他就不是一个实习生了。所以他定位是个实习生。
-</p>
-<p class="transcript-line">
-<span class="time"><strong>[01:03:25]</strong> </span>
-<span class="speaker"><strong>发言人2: </strong></span>
-但是我觉得随着David能力的提升，还有随着对组织环境理解的加深，我相信他从实习生会变成逐渐变成一个初步的全职员工，然后变成了资深的全职员工，这个是需要被接受的过程的。我觉得cursor是一个在现有流程上渐进式创新的过程。他没有说让程序员的工作发生翻天覆地的改变。但是David是一个颠覆式创新的逻辑，所以颠覆式创新的逻辑往往都会需要很多的适应时间，以及不同的on boardings的过程，这个可是需要很多时间的。
-</p>
-<p class="transcript-line">
-<span class="time"><strong>[01:03:57]</strong> </span>
-<span class="speaker"><strong>发言人2: </strong></span>
-可能第一个产品它未必能做到这一点，所以我并不觉得比如说diving就一定是那个最后的答案，很有可能devin只是提出了一个未来A型的产品长什么样子。我们要真正学会适应，学会使用A型的产品，就跟我们去适应比如说SARS这样一个概念，适应remote work分布式工作这样概念上都需要很长的时间和一些合适的契机去完成。所以我觉得他是一个方向上给我们很大的指示。但是现在他肯定还是个实习生的水平。所以在这个过程中挑错，指出他的问题，我觉得是很容易的。但是我觉得更重要的是他提出了这样一个未来的方向，从这里怎么得到启发，去做更好的agent，我觉得这个更重要。
-</p>
-<p class="transcript-line">
-<span class="time"><strong>[01:04:34]</strong> </span>
-<span class="speaker"><strong>发言人1: </strong></span>
-对，这个就像半杯水的理论，就有人从半杯水里面看到的是资产，但有人看到的也是问题。像刚才我们聊到David举的第一个例子，就雨森很惊艳的是他去完成找十个顶级VC的manifest任务的时候，他知道怎么去从excel官网没有的这个背景之下去从新闻稿里面找到这样的内容。这个就是一个巨大的亮点，对吧？他会设定任务，他会反思，他会自我检查。但另一方面这个确实也有很多的问题。比如他做出来的这个网页就是丑到不能看。但是看到亮点而不是看到问题，看到未来的可能性而不是看到今天值得批评的点就还是那句话，就是批评者是往往感到正确的。但是只有建造者虽然看上去笨拙，但他们更有可能会成功。
-</p>
-<p class="transcript-line">
-<span class="time"><strong>[01:05:19]</strong> </span>
-<span class="speaker"><strong>发言人1: </strong></span>
-然后这里还有一个想到老王王慧文曾经说的一句话，如果你相信一件事情终究会发生，那就每隔三年做一次。而agent其实人类历史上从有科幻开始就一直相信它会发生，也时不时的就会有人去尝试。而其实真的是看到戴维之后，感觉这可能是我们最接近成功的一次。
-</p>
-<p class="transcript-line">
-<span class="time"><strong>[01:05:40]</strong> </span>
-<span class="speaker"><strong>发言人1: </strong></span>
-好，我们再来聊聊2025年，其实整个2024年，虽然我们聊的也挺乐观的，但是整个大环境其实还是时不时的有各种各样的悲观的论调冒出来。我尤其记得在第二季度、第三季度的时候，整个这个语境都好像在讨论AI的PMF究竟在哪里。看上去整个是AI这一波落地是比预期要难的那我们聊到现在站在2025年的开端，那一个非常简单的问题，yes or no的问题就是宇森你对2025年是乐观的吗？
-</p>
-<p class="transcript-line">
-<span class="time"><strong>[01:06:12]</strong> </span>
-<span class="speaker"><strong>发言人2: </strong></span>
-我其实还是很乐观的。首先我觉得AI应用找PM这本身我的期待就是它没有那么快。我经常想打一个比方就是虽然很多人说chat GB的发布，把它跟iphone发布做对比，说AI来到了iphone时代，但我始终认为其实它代表的是一个黑莓时代。
-</p>
-<p class="transcript-line">
-<span class="time"><strong>[01:06:29]</strong> </span>
-<span class="speaker"><strong>发言人2: </strong></span>
-那么黑莓时代和iphone时代有什么区别？黑莓时代当然可能很多听众还没有用过黑莓，属于我们用80后的记忆。就是大家在iphone发布之前，其实智能手机长得都是很不一样的。因为那个时候第一技术它还比较早期，并且技术还没有经过足够的发展，所以它比较分散，大家没有找到一个收敛的路径。这样导致特点就是说很多事情想做但做不到，并且技术本身也很贵，并且没有一个统一的开发的标准和产品的标准，这样也导致它的开发者比较少。所以如果在那个时候，你要想去做移动互联网上真正火的应用，比如说抖音是很难做出来的。这个我也反复有聊到过，这个观点就是在黑莓时代做不了抖音。
-</p>
-<p class="transcript-line">
-<span class="time"><strong>[01:07:09]</strong> </span>
-<span class="speaker"><strong>发言人2: </strong></span>
-而随着黑莓时代到iphone时代，它的进步是由于技术的进步，所以会解锁更多的应用机会。当iphone出现之后，第一技术发展足够好了，很多应用是变成可以做了，对吧？包括它有好的摄像头、好的屏幕、好的处理器，导致很多应用能够从想做变成能做。第二技术变得标准化，所以iphone发布之后，手机都长了一个样子，大家都发现这个技术方向收敛了，对吧？然后同时也诞生了更多的开发者，因为开发者发现在上面开发很很容易，因为这个技术也标准化了也便宜了，大家也更理解了，所以在这个时候，iphone的时代诞生了大量应用。
-</p>
-<p class="transcript-line">
-<span class="time"><strong>[01:07:44]</strong> </span>
-<span class="speaker"><strong>发言人2: </strong></span>
-在ChatGPT刚出来的时候，其实我们也发现，第一，很多事情想得到做不到。比如说A型的就是个典型的例子。在二三年上半年的时候，有一个A型的尝试一下欧洲gbt，其实它提出了很多很好的概念，对吧？也是用原模型先做个计划，然后去检查他有没有完成去迭代。但那个时候的原模型太多幻觉了，他根本也很难去有效的使用工具，可他也很难有效的去浏览网络，所以他根本就做不到。所以这是一个典型的在黑莓时代做抖音做不出来的例子。
-</p>
-<p class="transcript-line">
-<span class="time"><strong>[01:08:12]</strong> </span>
-<span class="speaker"><strong>发言人2: </strong></span>
-但是我们现在看到，随着agent的在我们刚才说的三大能力，就推理能力、编程能力、工具使用能力上的进步。那现在这个agent的样子就更加有模有样很多了。虽然他还有很多缺点，但至少已经是一个实习生水平。可用的第一步，对吧？所以这是一个典型的技术进步，解锁更多应用机会。我相信最后会把我们从黑莓时代带到iphone时代的一个例子，所以我觉得到夏天GPT刚出现两年到现在，其实我们就看到了这么多的进步。首先应该很乐观，因为两年时间刚刚说了AI编程其实已经从ChatGPT的这种你问我答已经变成了David的你问我做和像科学的你问我写，对吧？其实已经带来非常大的进步，这个时间其实很快。
-</p>
-<p class="transcript-line">
-<span class="time"><strong>[01:08:54]</strong> </span>
-<span class="speaker"><strong>发言人2: </strong></span>
-第二个，我觉得很多时候PMF它其实是来自于技术本身的进步。比如说curse这个产品，其实是在2023年就出现了。但是在那个时候他提出的预测下一个action。其实这件事情是需要有更强大的模型去进行这样的预测，并且去写更好的代码。所以可以说是so net的3.5的出现造就了科sir，他真的能够完成他要做的事情，可以说是solid的3.5把它激活了，curse想要deliver这样的产品。当然cursor的被激活也让SONY的3.5迅速的成为。比如说在这个AI coding领域大家最喜欢用的模型，就是他们是个互相成就的关系。
-</p>
-<p class="transcript-line">
-<span class="time"><strong>[01:09:34]</strong> </span>
-<span class="speaker"><strong>发言人2: </strong></span>
-同样David这样的产品要成功，其实也需要模型在推理，工具使用这些能力上的提高。Sone 3.5或者像4O现在可能还没有足够到能够把它做好的情况，对吧？所以David这个产品形态可能也需要一个更先进的模型去激活它。
-</p>
-<p class="transcript-line">
-<span class="time"><strong>[01:09:50]</strong> </span>
-<span class="speaker"><strong>发言人2: </strong></span>
-这个模型是什么？O1O3或者是什么？或者是autopsies的模型我们不知道，但是它其实有一个产品的模型。然后产品等到模型之后去激活产品的场景，然后让模型得到广泛的使用，它是有一个这样一个互惠的过程的，所以我觉得这个时候确实也需要技术和模型本身的进步。
-</p>
-<p class="transcript-line">
-<span class="time"><strong>[01:10:10]</strong> </span>
-<span class="speaker"><strong>发言人2: </strong></span>
-然后还有一点是说，我们刚刚经历的是移动互联网的成熟期。移动互联网的成熟期有个特点是产品非常的容易使用。比如说抖音对吧？手指动一动就可以了，这个微信用起来非常容易，小红书都非常容易。但是当我们来到一个技术的早期的时候，一个产品要使用好一个产品是需要有一些门槛和学习的。
-</p>
-<p class="transcript-line">
-<span class="time"><strong>[01:10:30]</strong> </span>
-<span class="speaker"><strong>发言人2: </strong></span>
-其实大家可以想想看，最早的智能手机，最早的个人电脑，对吧？其实最早的互联网，包括其实都需要一点的学习才能够使用。所以比如说刚才说到现在很多人用AI其实远远没有把AI产品里面的智能给提取出来了。
-</p>
-<p class="transcript-line">
-<span class="time"><strong>[01:10:44]</strong> </span>
-<span class="speaker"><strong>发言人2: </strong></span>
-实际上现在的大模型，不管是OpenAI、toby或者kimi这些其实模型里面都已经压缩了大量的知识和智能。但是我们有没有学会正确的去使用它，高效的去提问，高效的去把模型里面的智能把它给提取出来。我认为大部分人其实还没有学会，包括我自己。其实一样的。我一直都能发现说，原来我能够从模型中能够让他给我做这样的事情，回答这样的问题。所以在这个过程中，实际上我们经历了一个从应用产品的移动互联网时代到需要学习使用的生成式AI时代。
-</p>
-<p class="transcript-line">
-<span class="time"><strong>[01:11:15]</strong> </span>
-<span class="speaker"><strong>发言人2: </strong></span>
-这个时候大家一上来体验会有点挫败感，说，为什么这个产品有点难用？这就是技术早期的一个特点。所以我觉得很多时候其实应用已经有可能做很多事情了，只是我们还不太会用，我们还没有变成一个好的提问者，或者我们还没有变成一个好的老板。这个也是需要学习的，或者说这个也是需要当模型能力越来越强的时候，他会帮我们做这些事情。到时候可能我们又会进入到一个产品的应用期。但是现在产品还处在一个跟我们磨合的阶段。
-</p>
-<p class="transcript-line">
-<span class="time"><strong>[01:11:41]</strong> </span>
-<span class="speaker"><strong>发言人1: </strong></span>
-所以大家要多用我们在尝试的过程中才能知道边界在哪里，以及边界现在在怎么样的在不断的拓展。而且我想补充一下，刚才说的就是技术的和模型的这个新的进步，解锁出的新机会，尤其在agent的这个里面。然后刚雨森说到是三个方面，还有第四个方面是上一期十字路口，我们在聊12天发布会的时候，我们的嘉宾大聪明提到，其实这12天发布会他有一些特别重磅的炸弹是没有发布的。因为出于PR上的考虑，或者出于不想跟竞争对手过度关注的考虑。其中有一个也是对agent至关重要的点在于现在OpenAI输出的这个function call，包括它的结构化输出的能力，是能够让agent得到更加精确的指令的。这个我觉得也是可能之前有被忽略，但是说出来之后感觉还非常make sense的一点。再往下在2025年，雨森你会认为什么样的应用方向是比较容易落地的？这个可能也是现在创业者会非常关注的一些方向。
-</p>
-<p class="transcript-line">
-<span class="time"><strong>[01:12:39]</strong> </span>
-<span class="speaker"><strong>发言人2: </strong></span>
-我们从过去两年比较容易落地的方向上来看，我觉得有几个。第一个就是能帮客户赚钱的。当然你这个技术还不是那么完善的时候，如果还不完善的技术能够直接帮我去赚钱，或者在我的商业化流程里面直接去提高效率，这个就变得很重要。比如说像在journey，其实它是有几亿美金的年化收入的。它里面应该有一半的收入是源自于这种广告类需求。就是用它去产生这种商业使用的图形，去投广告，去做的内容，这个其实是一个很实在的场景。我本来做这些广告我就是为了赚钱，现在我能够以更快更好的速度去做这样的广告内容上面投的黑键其实主要也是被用于营销场景，大家去用它做这种视频的，做宣传型的广告视频宣传内容。
-</p>
-<p class="transcript-line">
-<span class="time"><strong>[01:13:22]</strong> </span>
-<span class="speaker"><strong>发言人2: </strong></span>
-所以在这里面能够首先帮客户赚到钱的，我觉得是技术。他在早期的时候，大家愿意去花时间去使用，去琢磨的一个领域。第二个就是说能够真的在重要的任务上提高十倍以上生产力的。因为一个好的技术，如果你只提高50%的生产力，那其实大家可能用起来还有很多主力。一定是说这个东西它的生产力提高非常的强。比如说像cursor David这种对程序员绝对是十倍生产力的提高，因为很多时候程序员花时间去找这个代码库，可能就得花很长的时间，对吧？那这样的话，其实大家使用它的动力才会变得非常强。
-</p>
-<p class="transcript-line">
-<span class="time"><strong>[01:13:55]</strong> </span>
-<span class="speaker"><strong>发言人2: </strong></span>
-再包括popularity，其实我觉得对于传统的搜索引擎来讲，它也是个十倍提高升级的。因为原来我去找一个东西，比如说我要找科技的资料，我得去搜科技对吧？新事项什么的，我得去看十几二十篇文章，看一堆的内容。然后我自己原来coach是一个这样的人，现在我只要去问他他会帮我去看这几十篇网页，然后进行总结。所以他的在这种信息收集提问类的问题上，比搜索引擎也是要高个十倍以上的效率。这种我觉得它PMF是比较容易找到的。
-</p>
-<p class="transcript-line">
-<span class="time"><strong>[01:14:23]</strong> </span>
-<span class="speaker"><strong>发言人2: </strong></span>
-第三当然还有就是说满足人性基本需求，比如说这种not safe for work这些对吧？那这个肯定我想大家也都看到了很多这样的场景。整体来讲我就是要不然能赚钱，要不然能够帮我提高非常高的效率。这两个如果能够有一个能够实现就非常的好。
-</p>
-<p class="transcript-line">
-<span class="time"><strong>[01:14:39]</strong> </span>
-<span class="speaker"><strong>发言人1: </strong></span>
-那有什么样的应用方向是觉得大家要稍微回避一下，就做起来有点难度的。
-</p>
-<p class="transcript-line">
-<span class="time"><strong>[01:14:44]</strong> </span>
-<span class="speaker"><strong>发言人2: </strong></span>
-我觉得第一个就是说在移动互联网里面很多的赢家都是这种杀时间的应用，对吧？大家其实在中国和大家都习惯了说我做的应用用户粘性很高，用户花很多时间在我这个上面，然后我去投广告就会去赚钱。其实字节、小红书、快手其实都是这个范式。但我觉得这个是移动互联网它已有的一个范式。因为它是一个新的设备，可以让用户原来无法去获得信息，无法去上网的时间变得可用，对吧？所以它是一个从零到一起来的逻辑。
-</p>
-<p class="transcript-line">
-<span class="time"><strong>[01:15:13]</strong> </span>
-<span class="speaker"><strong>发言人2: </strong></span>
-当然现在当已经像抖音这样的应用占用我们大量的时间的时候，如果AI应用一上来就要跟这些很成熟的玩家去比杀时间。也就是说我觉得之前大家做开始AI做这些产品的时候，就会遇到一个你的竞争对手已经非常强大，并且已经把大部分时间占完这样一个情况。那这个时候我觉得再去做砂石间的应用是蛮难的。所以大家会发现，最后其实做出来的只有相对比较搞一些这种设计内容的，或者说针对小众人群，他的这个产品才能够落地。而像针对普通人，其实AI的这种陪伴聊天很难，比如说抖音的这样视频要更加好，对吧？所以我觉得跟巨头抢时间的应用是要谨慎的。
-</p>
-<p class="transcript-line">
-<span class="time"><strong>[01:15:52]</strong> </span>
-<span class="speaker"><strong>发言人2: </strong></span>
-然后第二个就是说我觉得要改变物理世界还是比较难的事情。我们刚才说到AI写代码，AH使用工具都还是在这个数字世界里。在数字世界里面AI可以做很多很多的事情。但是物理世界AI现在连拿一个杯子这样的基础的medieval的操作还是比较难的。虽然我们现在看到人形机器人非常的火，但是在这个方向上，技术的实现路径以及如何scale up这个模型的数据，这些都还是一些开放的问题，都还没有一个明确的一个答案。所以我觉得在可能三五年的时间内，要改变物理世界的这个应用，还是会遇到很多的挑战。
-</p>
-<p class="transcript-line">
-<span class="time"><strong>[01:16:25]</strong> </span>
-<span class="speaker"><strong>发言人2: </strong></span>
-然后第三也是在这两年，其实有不少设备想要替代手机，比如说rabbit，比如说很man这些。他们强调就是说你未来要做一个佩戴手机的东西，包括现在他有100个团队在做智能眼镜。我自己的看法就是如果你做的这个场景是手机中的一个场景的，跟手机的场景有很多重合度。比如说也是打电话，也是搜周围的信息，听音乐什么的。那替代手机是个非常难的事情因为目前来看，能替代手机的硬件，基本上都是在做一些手机完全做不到的事情。比如说无人机可以飞，对吧？然后智能手表可以戴在手腕戴上，或者做成戒指，可以套在手上，或者像像这AI像比如说英sta 360对吧？它可以在运动场景下使用。
-</p>
-<p class="transcript-line">
-<span class="time"><strong>[01:17:08]</strong> </span>
-<span class="speaker"><strong>发言人2: </strong></span>
-但凡这个事情，比如说像当时human rubber的这些，其实都是在做手机已经做的很好的场景。这个时候用户的切换的动力是非常小。因为手机在大部分场景下已经至少是可以做到80%的程度，除非你做的这个事情好很多很多，或者是手机根本不能做，否则我觉得要替代手机会很难。然后我觉得在这个里边对于agent类的产品，我觉得25年我们会看到特别多的agent的产品出现，这个里面很多遇到的一个挑战会是说，当你要对组织做出很大改变的时候，那是不是能够做出这样的改变？比如说David其实就面临着一个说要改变程序员的工作方式。
-</p>
-<p class="transcript-line">
-<span class="time"><strong>[01:17:43]</strong> </span>
-<span class="speaker"><strong>发言人2: </strong></span>
-他从自己写代码变成要指挥别人写代码。那这种工作流的改变对于很多组织来讲是有很多的阻力的，尤其在大公司里边，吧？其实我们现在可以发现，在大公司里面推行AI其实还是涉及到很多数据权限、隐私安全等一系列的问题。如果要改工作，有很多人的工作都得发生变化，那就会有更大的难度，对吧？所以我觉得要对组织做出很大改变的那除非你就是对生产力提高非常多，让这个组织有不得不用的这样一个理由。或者是说针对这种中小型企业去做，否则针对大组织去做大改变，我觉得这个很多时候是人性的壁垒，而不是技术的壁垒。
-</p>
-<p class="transcript-line">
-<span class="time"><strong>[01:18:20]</strong> </span>
-<span class="speaker"><strong>发言人1: </strong></span>
-我们刚才其实有聊到，就技术的解锁带来了一些新的机会。我们聊比较多的其实还是模型的推理能力。幻觉降低computer use这样的工具使用带来的agent的这个机会。除此之外还有哪些技术的解锁，你认为在2025年可能带来浪潮式的AI的创业机会？
-</p>
-<p class="transcript-line">
-<span class="time"><strong>[01:18:38]</strong> </span>
-<span class="speaker"><strong>发言人2: </strong></span>
-我自己做了一些总结，我觉得第一个就是agent对吧？刚才我们也聊了很多，就是2025年我觉得会有针对各个领域的agent的产品出现。他们很多地方会借鉴很多devin的这个思路，做这种异步的工具使用，可以规划的按照工作量收费的。所以在美国现在有人把这个原来SARS是叫做刷这位as a service，它把它反过来叫service as a software。就是我把服务变成一个软件卖给你，就是要或者它叫sale world note two，就是我卖的是工作结果，我不是卖工具本身。我觉得这个其实会是一个肯定二、五年会有很多尝试，很多会失败，但是也有的有意思的产品会出来的过程。
-</p>
-<p class="transcript-line">
-<span class="time"><strong>[01:19:18]</strong> </span>
-<span class="speaker"><strong>发言人2: </strong></span>
-第二个我在想的，其实我给他一个定义叫做scalable personalization。中文就是可扩展的个性化。其实我们在互联网的过程中，比如说我们从内容分发上，一开始是门户网站，对吧？是千人一面，每个人都看一样的门户网站。然后是搜索引擎，就是你搜一个关键词，可以看到针对这个关键词的个性化内容。但是我搜是一样的，你搜我搜都一样，就是根据每个关键词的个性化，然后是这推荐以及抖音为代表性对吧？就是根据我的context，主动的把我感兴趣的内容推给我，后来大家就想到说我能不能进一步的个性化。
-</p>
-<p class="transcript-line">
-<span class="time"><strong>[01:19:56]</strong> </span>
-<span class="speaker"><strong>发言人2: </strong></span>
-如果我想看的东西这个网站还没有怎么办？那我给你生成出来。所以现像sora，像这些视频生成，大家想的是说我能不能按照你的个性化需求生成你所需要的东西。所以这个我觉得是我们看到了一个个性化这件事情是可以被scale up的过程。
-</p>
-<p class="transcript-line">
-<span class="time"><strong>[01:20:11]</strong> </span>
-<span class="speaker"><strong>发言人2: </strong></span>
-因为个性化其实每个人的宗旨就是我要看到，我希望有最适合我的东西，但是在过去的时候，可能随着技术的局限性，我没法得到真正个性化的东西。我只能说消费一个commodity，消费一个大家都有的东西。在这个里面我觉得内容上我们其实看到了这样的过程。最近有几个应用增长非常快，一个叫bout new，它是一个你能够输入，用文本prompt去输入得到一个你想要的网站的一个应用。
-</p>
-<p class="transcript-line">
-<span class="time"><strong>[01:20:37]</strong> </span>
-<span class="speaker"><strong>发言人2: </strong></span>
-它是刚才说的是两个月的时间内超过了2000万美金的。然后另外有个应用叫web sem，其实它概念也很有意思。它就是说它上是个chrome浏览器。然后你输入一个prompt，他会给你一个你这个prom对应的网站，而这个网站肯定在线上是没有的对吧？因为它是现场生产出来的。
-</p>
-<p class="transcript-line">
-<span class="time"><strong>[01:20:56]</strong> </span>
-<span class="speaker"><strong>发言人2: </strong></span>
-在软件开发行业，以前其实像抖音，微信这样的软件，实际上它需要大量的团队很大的投入做出来的软件，对吧？比如说我在用微信的时候，我可能就不想比如看视频号，因为我从来不看视频号。可能我想用的微信是可能我需要朋友圈是在第三个tab的。因为我天天看朋友圈，我想点一下就看朋友圈，不是要点进去再点一下看朋友圈，对吧？
-</p>
-<p class="transcript-line">
-<span class="time"><strong>[01:21:18]</strong> </span>
-<span class="speaker"><strong>发言人2: </strong></span>
-就是已有的软件开发有点像好莱坞拍大电影，它是一个非常集中化的过程。最后拍出一两个大电影，希望每个人都觉得好看，这是软件开发的集中化。但是有没有可能，比如说每个人都拥有符合自己需求的网站或者是APP，那这个在原来肯定做不到，因为你没有办法去开发，除非你特别有钱，让别人给你开发一个。但是AI的个性化能力使得说也许我能够给每个人提供真正的个性化的内容，这个事情从原来的不可能可能变得逐渐变得有一定的可能性。或者说至少如果不是每个人都有一个个性化内容，也许每一类人有一个偏个性化的软件，偏个性化的内容，这个其实就会变得很有意思。
-</p>
-<p class="transcript-line">
-<span class="time"><strong>[01:22:02]</strong> </span>
-<span class="speaker"><strong>发言人2: </strong></span>
-然后包括现在美国有一个应用很火，google做的叫notebook LM。我相信咱们的这个听众很多人都听过，对吧？比如说播客这个形式也是，比如说你在播客里面能听到的人其实非常少的对吧？比如说科技先请我，那他没有请别的嘉宾，所以你就没法听到coach和别的嘉宾的对话。但是如果我就想听coach和Steve jobs的对话，那我现在其实是可以通过文本内容灌进去生成一个这样的博客的。但理论上来讲，我可以现在播客是一个供给非常少数的一个内容。但完全有可能说我就想听到我想听的某个人和针对某个话题的对话，而这个不是他录的，是AI生成的对吧？所以这也是一种叫scalable personalization，就是可扩展的个性化。
-</p>
-<p class="transcript-line">
-<span class="time"><strong>[01:22:45]</strong> </span>
-<span class="speaker"><strong>发言人2: </strong></span>
-我相信随着AI的能力变得提高，我们每个人用的软件，消费的内容都可以变得越来越个性化。这个我觉得能接受的空间是非常大的。当然我们现在需要技术做很多的突破，但是我觉得这个已经看到一些影子。从软件的个性化，播客的个性化，内容的个性化。第三个我觉得就是在OC上，我们其实看到AI它的能力从普通人的能力逐渐的进化到超人的能力。这个其实对于我们发现新的知识前沿的扩张都会有很多的价值。是因为在两年前我们还在讨论AI能不能通过图灵测试，就是我们会不会把它当做一个普通人。现在我们觉得普通人的这些指标其实都是很难去衡量AI的能力了，对吧？
-</p>
-<p class="transcript-line">
-<span class="time"><strong>[01:23:25]</strong> </span>
-<span class="speaker"><strong>发言人2: </strong></span>
-我自己在想AI里面有一些不同的benchmark。比如说有一些是普通人的能力的，比如说以前用的很多的叫MMLU，这个其实就是针对普通人能力衡量。因为原来AI远差于普通人，对吧？那用这个衡量AI就可以了。但现在发现AI能力一下就超过普通人的能力了，简单的对话什么的，你完全无法考倒他了，所以第二种entry mark，我认为叫做对精英人类的benchmark，就是人类在某个领域的专家的。比如说three bench是针对程序员的这样一个benchmark，他是说程序员写的这个代码你能不能写？然后AIME是美国高中数学竞赛，就是说美国这些聪明的高中生他们能解的题目能不能解？然后GPQA，它是PHD它的qualification的这些考试AI能不能解？
-</p>
-<p class="transcript-line">
-<span class="time"><strong>[01:24:08]</strong> </span>
-<span class="speaker"><strong>发言人2: </strong></span>
-我们现在也看到在24年年初的时候，针对这几个精英人类的测评，AI是很难完成任务的。但是到了20年年底，25年年初，我们看到这些精英人类的benchmark在o three或者是o one这样的先进模型下，也基本能做到80分的程度。比如说GBQA已经是做到了七十多分，超越人类PHD的水平。
-</p>
-<p class="transcript-line">
-<span class="time"><strong>[01:24:30]</strong> </span>
-<span class="speaker"><strong>发言人2: </strong></span>
-AME也超过了美国精英高中生的水平，three bench已经快被解决了，所以我们现在就需要在精英人类的benchmark之外的super human benchmark。比如说现在这个frontier mass？是陶哲轩背书的这样一个针对未来的非常难的数学题。这个基本上人类要非常强的能力才能做出来。
-</p>
-<p class="transcript-line">
-<span class="time"><strong>[01:24:50]</strong> </span>
-<span class="speaker"><strong>发言人2: </strong></span>
-包括欧斯瑞最近发布他的在code force这个上面获得了2700分，这是什么概念？2700分的人类相当于就是人类中0%点点01的水平。全人类只有130多个人达到过这个分数。现在AI的编程能力已经达到这个分数了，所以我们的很多base mark也不够用了。我们其实需要去衡量AI达到顶尖人类水平，甚至说超过人类水平，他创出新的知识的能力。
-</p>
-<p class="transcript-line">
-<span class="time"><strong>[01:25:17]</strong> </span>
-<span class="speaker"><strong>发言人2: </strong></span>
-这个里面我觉得对于科学研究，对于前沿探索，解决那些还没被解决的问题，我觉得是非常有价值的。所以我看到O3出来之后，其实有人就诟病他说，他怎么做一个task需要花很多的钱，它的这个算力消耗很大。但我想说是欧姿锐它它的高算力模式本来就不是给我们普通的任务用的。他的定位就是去解决人类前沿最难的研究和探索问题。这个东西贵是很正常的事情，对吧？其实我们以后会发现这个AI的模型其实在这个日常任务和前沿研究上可能会有分叉。就跟生活大爆炸里面的小等？肖等他显然是个很牛逼的科学家，但是他日常的任务一塌糊涂，吧？
-</p>
-<p class="transcript-line">
-<span class="time"><strong>[01:26:00]</strong> </span>
-<span class="speaker"><strong>发言人2: </strong></span>
-那可能有的AI模型就更像小的，去解决这种前沿探索的问题。有的就价廉物美的这个像OC mini，可能就是说专门用来干活的，可能是一个程序员，还有更加简单的模型，就会为了回答一些端侧的简单的，比如说今天天气怎么样这样的日常需求。所以我觉得在这里面我们既可以看到日常的这些需求被越来越高效的便宜的解决。我觉得也能看到真正的前沿研究里面，AI跟科学家一起协作，然后可能为人类获得新的进展，从而产生新的知识。这个我觉得是让我觉得非常兴奋的一点。
-</p>
-<p class="transcript-line">
-<span class="time"><strong>[01:26:32]</strong> </span>
-<span class="speaker"><strong>发言人1: </strong></span>
-就是因为今年还有一个较大的突破是在多模态上面，不管是follow的这个real time语音，还是其实这一次VI发布，它放在一个不太起眼的角落，但是也被认为其实是12天。最最值得关注的是他们的多端到多端这样的多模态的互动。而且你会认为多模态在明年会有哪些可期的创业机会？
-</p>
-<p class="transcript-line">
-<span class="time"><strong>[01:26:53]</strong> </span>
-<span class="speaker"><strong>发言人2: </strong></span>
-多模态其实我觉得第一个重要的就是说AI怎么理解这个多模态的世界，对吧？因为你对于文来讲，比如说今天天气很好这几个字，它其实是一个非常简单的一句话，它里面蕴含了大量你需要看到才能够理解的东西，所以一图胜千言，它背后的影像还是图片里面的信息特别多。如果AI不能够充分的理解这里面的这些能力的话。实际上它的一个智能肯定有很大的缺陷，对吧？所以它现在等于是一个瞎子。但是瞎子也可以借很牛逼的这个数学题，这个可能并不妨碍，但是它确实要能够具备更加完整的智能，所以多模态的理解能力很重要。然后open I或者是海外的先进研究者的普遍还是觉得生产能力可能不一定是最重要的。所以sora现在可能获得这些资源相对比较少。
-</p>
-<p class="transcript-line">
-<span class="time"><strong>[01:27:36]</strong> </span>
-<span class="speaker"><strong>发言人2: </strong></span>
-可能在美国的话，多模态的生成其实是一个相对比较平行的路线。因为它的落地场景主要是娱乐内容，主要是一些内容产生，所以它跟AGI好像大概相隔的还是有些距离。可能像topic这样的公司，因为他们不做多模态生成，他们就觉得靠文本就能实现AGI，就是靠代码，靠API就能实现AGI，我觉得这是不同的观点。
-</p>
-<p class="transcript-line">
-<span class="time"><strong>[01:27:57]</strong> </span>
-<span class="speaker"><strong>发言人2: </strong></span>
-但是我在想多模态的这个话题，其实我觉得notebook LM给我们是一个很好的启示，就是说我怎么把一个模态的内容转换到另一个模态进行消费。因为我们原来比如说做TTS，我是把一个文本把它转成一个speech，这个其实是一个直接转换。但是显然把一个文本转成一个播客，不是说把它读出来就完了，那个只叫读书，对吧？它是要把它变成一个更适合在音频模态消费的内容，那就是播客。同样比如说从文本到视频，其实也是？我们把三国演义拍成了电视剧，那不是说简单的把它针对真的还原，是说有艺术的改编。同样把视频到文本，其实也是，视频到声音其实也是，对吧？所以我们在不同的模态之间自然的转换，并且在每个模态有最适合那个模态去进行消费的内容，我觉得这个也是蛮让人激动的一个过程。
-</p>
-<p class="transcript-line">
-<span class="time"><strong>[01:28:50]</strong> </span>
-<span class="speaker"><strong>发言人2: </strong></span>
-你是想假设我喜欢刷抖音，那我有一篇有三体，我能够把它变成一个适合抖音消费的内容。或者我把适合播客消费的内容或者别的内容。那我觉得在内容的这个消费上会有很多的机会。
-</p>
-<p class="transcript-line">
-<span class="time"><strong>[01:29:02]</strong> </span>
-<span class="speaker"><strong>发言人2: </strong></span>
-当然更进一步的来说，就是大家觉得多模态的生成和理解对于聚生智能会有很大的帮助，对吧？这个里面我们看到很多前沿的研究。比如说最近有一个叫genesis的一个工作，他怎么样实现对物理世界的模拟，然后从中进行更多的manipulation。机器人怎么去操作现实生活中的物体，我觉得这些也是很有意思的研究。但这个领域可能我相对最近研究的没那么多。但整体来讲多模态之间转换，我觉得确实也是一个非常重要的一个方向。
-</p>
-<p class="transcript-line">
-<span class="time"><strong>[01:29:28]</strong> </span>
-<span class="speaker"><strong>发言人2: </strong></span>
-尤其开始你说的像吉米的2.0，吧，它也是能够可以很高的效率去理解它收到的视频信号出来。他有一些很直白的场景。比如说我们生活中有很多东西我们看到是不会用的对吧？但是大家其实可以很容易的去告诉我怎么用一个东西。并且如果他的视频生成能力够强的话，他可以直接在我看到的这个视频画面上去叠加一个怎么用他的一个指示。比如说我们之前在跟google的这个研究员讨论的时候，场景是我家有个咖啡机，我把手机对着这个咖啡机，然后这个视频里面直接就会叠加上一个按这个按钮开始煮咖啡的一个视频提示。这个视频是生成出来的，但是它叠加在这个已有的视频上。所以很多这些其实都是很有意思的一个想法，但是目前可能需要技术再进一步的进步。
-</p>
-<p class="transcript-line">
-<span class="time"><strong>[01:30:13]</strong> </span>
-<span class="speaker"><strong>发言人1: </strong></span>
-对我觉得2025年很可能会看到这样的应用的出现，包括它和AI硬件的结合。比如之前看到一个demo是带着AI眼镜打网球，这个时候他可以给你一些指导，就现在对面过来那个球，你要如何调整你自己的姿态和接受的方式，可以更好的进步，所以这些都是挺可惜的。然后刚才提到那个多端的多端，我想再说一说，我觉得那个是我最近感到非常surprise的。这个就是像刚才提到在上一期十字路口里面，我们嘉宾说12天发布会这个虽然发了，但它是放在一个角落的。但是他认为这其实最最值得关注的。而OpenAI不想被竞争对手关注，因此是低调的给大家稍微透露了一下。可是在开发者群体里面，他们在一些重点的开发者那边是有去一对一的给大家推荐的这是一个什么事儿呢？就现在可以同时接收多模态，并且同时输出多模态。而这种输入和输出是多端到多端。大家知道端到端的意思，那多端到多端其实是端到端的就在level up几个级别。另外一个很有趣的事情是想再问一下宇森，我觉得这应该是所有人都关注的。你认为生成是AI native的应用的大机会，它可能是长成什么样子的？
-</p>
-<p class="transcript-line">
-<span class="time"><strong>[01:31:24]</strong> </span>
-<span class="speaker"><strong>发言人2: </strong></span>
-首先我觉得大机会的出现，应该首先是在深圳AI的技术扩散之后出现的。如果现在用的人还是属于小众的人群，他的大机会可能就还没有呈现出来。这个也是我在反复聊这个观点，如果我们再复盘一下历史上，比如说互联网native的应用，或者移动互联网native的应用出现。
-</p>
-<p class="transcript-line">
-<span class="time"><strong>[01:31:46]</strong> </span>
-<span class="speaker"><strong>发言人2: </strong></span>
-第一步，是随着技术的扩散，我们用新技术解决老问题。比如说互联网里面我们有这个电子邮件，用这个新技术解决发邮件的问题。有门户网站用互联网解决看新闻的问题，然后有自营电商用互联网解决卖货的问题。但随着互联网的进一步扩张，导致说人都上网了之后才有了社交网络，信息都上网了之后，才出现了搜索引擎的必要性。当买家和卖家还有钱，还有物流都建设好之后，才出来的平台电商。那么平台电商、社交网络和搜索引擎都是真正的互联网native的应用，并且是创业公司做的。他们其实是占有最大的市值。
-</p>
-<p class="transcript-line">
-<span class="time"><strong>[01:32:25]</strong> </span>
-<span class="speaker"><strong>发言人2: </strong></span>
-移动互联网的媒体为应用，其实也是当移动互联网包括硬件智能手机和软件4G网络普及之后，内容生产者和消费者都用上了智能手机，才会出现像抖音、快手、小红书这样的移动互联网信息平台。当蓝领工作者都用上了智能手机之后，才能够诞生像美团外卖、滴滴这样的应用，当游戏玩家其实都用上了手机之后，才能出一些像米哈游和王者荣耀这样的AI native的游戏，这样移动互联网native的游戏。所以移动互联网native的应用出现也是在移动互联网的扩散之后。
-</p>
-<p class="transcript-line">
-<span class="time"><strong>[01:32:58]</strong> </span>
-<span class="speaker"><strong>发言人2: </strong></span>
-在AI的这个扩散之后，我觉得出现了新的AI native应用，应该也会是类似的一个逻辑。就是首先我们要有一些应用，比如说像ChatGPT对吧？可能是我们每个人都有了一个AI的助手，但这个可能它的扩散的规模还要更大。就当我们每个人比如说都有了自己的AI助手，然后我们用AI来解决我们工作中的很多问题，甚至我们用AI来开下面这样的会一样。
-</p>
-<p class="transcript-line">
-<span class="time"><strong>[01:33:21]</strong> </span>
-<span class="speaker"><strong>发言人2: </strong></span>
-在这个时候AI与AI之间的互动，它会产生什么样的一个结果？比如说像刚才我们说的agent，如果在一个公司里面大部分的工作执行都是由AI来进行。那这个时候对于生产力，对于所有的企业服务软件，可能产生的变化就非常大。因为你要去不仅是执行，还要管理这些AI给他们去下发任务，进行任务的拆解，对吧？那这时候他的这个可能就是原来人类完全做不到的。因为人没有那么多的注意力，没有那么多的精力去做这样的事情。
-</p>
-<p class="transcript-line">
-<span class="time"><strong>[01:33:49]</strong> </span>
-<span class="speaker"><strong>发言人2: </strong></span>
-另外我在想的一个很重要的主题是说，在AI时代的商业化怎么进行。因为在移动互联网和互联网时代，大量的商业化都是通过广告来进行的对吧？但是很显然，比如说当你在用kimi或者abi去问一个问题的时候，原来搜索引擎里面的广告，包括那些页面的广告是没有被看到的。其实AI帮你去看了这些网页，那原来那些广告就没有了，那些广告带来的价值其实也就没有了。但这个显然是会诞生很多价值的重构，对吧？那这个时候我得到这个问题答案，我这个价值对我来说怎么把它提取出来？原来广告都是给人看的那可能以后广告是AI看到，AI看到就会把这些广告全都给消灭掉。所以这里面对于广告这个商业模式的颠覆，其实我觉得也会是很多AI native应用的这个机会。
-</p>
-<p class="transcript-line">
-<span class="time"><strong>[01:34:34]</strong> </span>
-<span class="speaker"><strong>发言人1: </strong></span>
-我们最后一个问题，就是在2025年这个基金和你最感兴趣的投资方向会有哪些？尤其是这里面有没有一些是行业的非共识，是你们差异化的观点。
-</p>
-<p class="transcript-line">
-<span class="time"><strong>[01:34:45]</strong> </span>
-<span class="speaker"><strong>发言人2: </strong></span>
-我们差异化的观点，我觉得首先就是说我们对于突袭杀时间的应用会比较谨慎。就是我觉得大家都在按照字节跳动的这个经验去找下个字节跳动，就是找一个杀时间的，这个流是很高的，这个靠投放起量的to c应用。但是我自己觉得当自己已经占用了这么多的时间和用户时长的时候，其实下一个杀手应用未必会以这样的范式诞生在to c的领域。所以这个是我们就说下一个字节跳动未必长得跟字节跳动一样。
-</p>
-<p class="transcript-line">
-<span class="time"><strong>[01:35:18]</strong> </span>
-<span class="speaker"><strong>发言人2: </strong></span>
-第二个现在最火的是这个人形机器人，我们看到有很多的人形机器人本体公司获得了大量的融资。我们觉得通用人形机器人现在他的技术路径，不管是像sim to real，还是从视频的角度去训练，还是去做摇操作收集数据。首先技术这还没有收敛，并且怎么样把大规模的收集这样的数据，其实都还是个开放的问题。所以在这个里面，我们觉得现在这个地方投资情绪还是比较过热的。这个人机器人要真正在物理世界去完成任务，甚至大家想着去进家庭做家务，这个需要的时间还是非常的长，这个可能比大家目前预计。记得和投资周期会长很多，所以对于本体我们还是比较谨慎。但是我们也投资了像灵巧手电机等在做人依人的过程中非常重要的上游零部件，所以这个里边是我们也是跟现在大家在这个地方的热情相比，我们比较冷静的一个领域。
-</p>
-<p class="transcript-line">
-<span class="time"><strong>[01:36:13]</strong> </span>
-<span class="speaker"><strong>发言人2: </strong></span>
-第三个我是觉得学A现在的出现，其实我们发现在美国AI在生产力领域，企业服务领域的落地是很快的。但是中国以前的企业服务，因为大家始终觉得中国企业不会为工具付费，所以其实遇到了很多的阻力和挑战，其实很多企业服务的创业者，投资人也受了很多的伤害。但我在想，其实当一个情绪非常极端的时候，其实往往大家也有反转的机会，对吧？那如果他卖工具这件事情在中国可能很难成立。但是如果卖工作结果这件事情，我觉得对于中国的企业来讲，如果你真的能够去提供工作结果本身以一个低十倍的价格，那这个未必是大家不愿意去买了。你可以认为说他可能有可能是一种非常强大的AI外包。只是说这个外包它不是之前的人力资源外包了，它是通过把这个任务外包给AI agent去完成这样的任务。那是不是中国企业就一定不会为它付费呢？
-</p>
-<p class="transcript-line">
-<span class="time"><strong>[01:37:02]</strong> </span>
-<span class="speaker"><strong>发言人2: </strong></span>
-其实我们也在思考，因为如果我们一定要在AI里面去找to c应用，找娱乐的应用的场景，我觉得这个其实始终是一个比较难找的场景。但是能不能把生产力的巨大突破和中国的产品落地结合起来。我觉得企业服务也许不是铁板一块，也许也有可能他的这样一个机会。
-</p>
-<p class="transcript-line">
-<span class="time"><strong>[01:37:19]</strong> </span>
-<span class="speaker"><strong>发言人1: </strong></span>
-那你们看的重点的方向有哪些？刚才讲的其实是一些非共识，或者说你们认为要警惕的方向，要值得去多思考的方向。那重点看的方向有哪些？
-</p>
-<p class="transcript-line">
-<span class="time"><strong>[01:37:30]</strong> </span>
-<span class="speaker"><strong>发言人2: </strong></span>
-因为我们始终是一个以创业者为核心的一个基金，所以我们并不会在每一年的时候去定一个我们今年主要看什么样的方向。但是如果你要问我个人的看法的话，我觉得今年各种形式去让AI能去做A型的人做的事情，我觉得这会是一个非常重要的一个领域。然后同时我觉得刚才我聊的就是说怎么样能够实现规模化的个性化。通过AI的编程或者模态的转换能够实现的这个能力，我觉得也很重要，包括我们投了一家AI教育公，其实也是在想说，我怎么样能够通过AI让教育这件事情变得足够的个性化。因为原来互联网教育解决的其实是教育的规模化问题，对吧？用互联网的方式把名师的教育下放到更多人的。但是进一步来讲，我能不能让这件事情变得个性化起来，从而也实现这种规模个性化。这个我觉得其实是AI带给我们的一个很大的机会。所以我们也是说了华为庭的这个与爱为伍，同时我们也投资了，比如说想做类似于bt new或者这种由AI coding来生成个性化应用方向的公司。但这一段就非常早期，所以我觉得肯定很多时候需要很多的调整。
-</p>
-<p class="transcript-line">
-<span class="time"><strong>[01:38:34]</strong> </span>
-<span class="speaker"><strong>发言人1: </strong></span>
-OK. 好，我们今天就聊到这里，2025年开年的第一期，我们聊的时间还蛮久的，信息量也很大。然后我觉得最重要的其实不只是信息量了，而是希望通过这一期内容传递出更多的乐观的信号和情绪，让大家可以多行动起来，多去创造，多去创作。然后如果大家想要融资，欢迎大家找真格，再次谢谢宇森，辛苦了。
-</p>
-<p class="transcript-line">
-<span class="time"><strong>[01:38:59]</strong> </span>
-<span class="speaker"><strong>发言人2: </strong></span>
-我其实觉得你刚才这个结语说的特别好。就是我觉得在技术浪潮如此汹涌澎湃的时候，虽然有很多问题，也有很多还没有来得及落地的想法。但是我整体觉得这两年下来落地的速度是远超我自己的预计的。所以我觉得我们有很多很多的理由来保持乐观，尝试突破。花足够多的时间，甚至是花一点钱去体验试用最新的AI产品，感受到它对于我们有可能带来的这一栏一个进步。我觉得是一个对于我们不管是作为一个投资人，作为一个创业者，或者简单来讲作为一个对未来充满好奇心的人，都会很有意义和价值的事情。当然也多听听十字路口和真格的石化战争播客，对于我们也会学习AI了解AI也会有更多的帮助。
-</p>
-<p class="transcript-line">
-<span class="time"><strong>[01:39:44]</strong> </span>
-<span class="speaker"><strong>发言人1: </strong></span>
-好，谢谢大家，祝大家新年快乐，拜拜。
-</p>
-<p class="transcript-line">
-<span class="time"><strong>[01:39:48]</strong> </span>
-<span class="speaker"><strong>发言人2: </strong></span>
-好，祝大家新年快乐。
-</p>
-<p class="transcript-line">
-<span class="time"><strong>[01:39:52]</strong> </span>
-<span class="speaker"><strong>发言人1: </strong></span>
-如果你认为有朋友也会喜欢本期十字路口的内容，请转发微信推荐给他们。最后欢迎你加入十字路口的会员群，我们会在群里每天放送AI全球新闻，并且鼓励大家在群里聊天互动，交朋友，寻找未来的同路人。
-</p>]]></content:encoded>
-            <pubDate>Sun, 05 Jan 2025 16:00:00 GMT</pubDate>
-            <guid>677a4bf115a5fd520e25cb43</guid>
         </item>
     </channel>
 </rss>
