@@ -4,7 +4,1204 @@
         <title>AI炼金术</title>
         <link>https://www.xiaoyuzhoufm.com/podcast/63e9ef4de99bdef7d39944c8</link>
         <description>关注 AI 带来的本质变化和商业机会</description>
-        <lastBuildDate>Wed, 20 Aug 2025 04:52:05 +0800</lastBuildDate>
+        <lastBuildDate>Thu, 28 Aug 2025 04:49:50 +0800</lastBuildDate>
+        <item>
+            <title>AI 巨头集体“撞墙”，终于轮到我们普通开发者出牌了！</title>
+            <link>https://www.xiaoyuzhoufm.com/episode/68adae38063a7fc3bffe0416</link>
+            <description>在这期播客里，我（任鑫）和徐文浩又凑一块儿聊了聊最近的感悟。我们从最近发布的 GPT-5 聊起，说实话，用下来感觉有点小失望 。它并没有带来那种石破天惊的变化，这让我们感觉，大模型的能力狂飙似乎进入了一个平台期，有点“撞墙”的意思 。
+不过，我们觉得这对做应用的人来说反而是个好消息，因为地基总算稳了，大家可以安安心心地在上面盖楼了 。所以我们探讨了一下，未来的机会可能不在于模型本身有多聪明，而在于我们的产品能不能给它提供足够好的“上下文”（Context）。
+除此之外，我们还看好视频、图片生成这些多模态的方向，觉得那里的机会还很大 。我们也吐槽了市面上一些 AI 营销工具的真实效果 ，探讨了国内外市场的机会差异，以及在和传统企业合作时发现，最大的挑战往往还是“人的问题” 。
+关键结论
+GPT-5 未达预期：尽管备受期待，但 GPT-5 在实际用户体验上并未带来“石破天惊”的进步，其在编程和指令遵循等方面的体感甚至不如之前的特定模型 ()()()()。
+大模型能力进入平稳期：从 GPT-4 到 Cloud 3.5 之后，大语言模型的能力进入了一个相对同质化、增长放缓的阶段 ()()()()。这为应用开发者提供了稳定的地基，不必再担心底层技术频繁剧变导致工作白费 ()。
+应用价值的核心在于“上下文”：未来 AI 应用的价值大小，将由“智能（Intelligence）”和“上下文（Context）”两个维度的乘积决定 ()()。如何被动、无感地获取并利用用户的上下文信息，是应用设计的关键 ()。
+多模态是下一个风口：相比于语言模型，视频和图片生成等多模态技术仍处于快速发展的早期阶段，其成本将持续下降，能力将显著提升，蕴含着巨大的创新机会 ()()()()()()()()。
+国内 C 端市场艰难，B 端和出海是出路：由于国内大厂提供大量免费且功能全面的 AI 服务，纯软件的 C 端创业非常艰难 ()()()()。机会更多存在于 B 端企业服务、与传统行业结合，或直接面向海外市场 ()()()()。
+关键认知
+AI 的价值需要被“设计”出来：模型性能的提升（如跑分提高20%）用户未必能直接感知 。好的产品设计，能将技术的优势转化为用户可感知的独特体验，从而建立差异化 。
+AI 时代的“翻译官”角色：企业内部需要能够清晰、准确地将业务需求“翻译”成 AI 能理解的任务，并能验收结果的人才。这种能力是提升组织效率的关键 。
+AI 营销工具普遍“过度承诺”：目前市场上的 AI 营销工具生成的素材普遍缺乏“活人感”，难以在主流社交媒体上取得好的效果 。AI 目前更多是辅助，无法替代宏观策略和优质创意 。
+传统企业转型的核心是“人的问题”：在推动 AI 落地传统企业时，最大的障碍往往不是技术本身，而是组织惯性、人员能力和思维模式的差异 。
+“移动互联网”的经验依然宝贵：许多在移动互联网时代被验证过的产品设计、病毒式营销和增长策略，在今天依然适用 。然而，由于人才断层，掌握这些“0到1”经验的人反而成了稀缺资源
+行动指南
+开发者应聚焦于“上下文”：与其等待下一个革命性模型，不如专注于如何构建能够深度获取和利用用户上下文的产品 。
+关注多模态场景：积极探索视频、图片生成等领域的应用场景，提前布局，等待模型能力成熟的红利 。
+利用“时光机理论”：关注海外市场已经验证成功的 AI 应用，结合国内模型发展（约落后6个月）和市场特性，在国内进行本土化创新 。
+保重身体，AI 是场马拉松：AI 带来的变革是长期且巨大的，保持健康才能见证和享受到未来的科技成果 。
+多交流，打破信息差：AI 领域的知识和工具分布极不均匀，即使是从业者也未必了解最新的进展 。多与同行交流，能发现巨大的价值空间和机会 。
+时间轴 (Timestamps)
+01:29 初体验令人失望：GPT-5 的实际使用体感并没有质的飞跃。
+09:06 大模型撞墙了？能力的平稳期对应用开发者是好事。
+13:41 AI 应用的新范式：价值 = 智能 × 上下文。
+17:23 AI 时代的企业新角色：为什么公司需要一堆“翻译官”？
+21:39 AI 会让组织变大还是变小？当 AI 能力同质化后，规模可能重新变得重要。
+27:39 “时光机”理论：如何在国内市场抓住落后半年的机会？
+31:50 下一个浪潮：多模态是确定性的未来机会。
+39:13 AI 营销工具大揭秘：为什么它们的效果远不如宣传的那么好？
+48:21 如何让用户“感知”到你的产品更好？产品设计的妙用。
+51:49 为什么移动互联网时代的经验在今天如此值钱？
+55:35 个人建议：保重身体，活得够久才能享受到科技的终极红利。
+59:37 巨大的信息差：你所以为的“常识”，对很多人来说是全新的世界。
+1:09:30 深入传统企业：真正的挑战是“人的问题”。
+1:16:10 国内 AI 市场现状：为什么 C 端难做，而 B 端和出海是方向？
+欢迎订阅「AI 炼金术」的播客，以及同名公众号、视频号
+「AI 炼金术」是一档由徐文浩和任鑫——两位多年老友、AI 领域的资深从业者——打造的播客。这里是探讨 AI 和创业的理想聚集地，我们会邀请一线创业者、产品产品和科研学者，深入探讨 AI 如何重塑行业、变革生活，以及如何从 0 到 1 打造 AI 原生产品。
+我们的讨论会涵盖多个话题：从 AI 如何改变世界的未来，到如何找到 AI 创业的 PMF；从如何利用 AI 降本增效，到怎样将 AI 技术融入日常生活……如果你对 AI、产品、创业感兴趣，这里有满满的干货和一线实战经验，欢迎关注并推荐给你的朋友，共同探索未来的无限可能！
+商务合作：公众号 「AI炼金术 」菜单栏中【商务】获取联系方式
+节目主理人：
+徐文浩：某AI创业公司联合创始人，正在面向全球市场开发AI应用。连续创业者，参与过多家创业公司，拼多多早期员工。广告科技公司MediaV的算法和数据负责人，后被360收购。离开后加入成立不到1个月的拼多多。后创办了基于AI的海外客服聊天机器人公司 BotHub.AI 和 海外社交电商平台 Bukito 都宣告失败。2023年再次下场创业。
+任鑫：云九资本合伙人，主要在投资和孵化面向全球市场的 AI 应用。之前是连续创业者，曾经打造“今夜酒店特价”用移动互联网应用特价销售酒店尾房；被京东并购后内部创业“京东到家”开展本地即时零售业务；2015 年再次创业 Get 探索对话式人工智能助理成为先烈；2021 年出售公司，2023 年重新回到 AI 世界。
+BGM：
+片尾：Hollow Coves - Purple</description>
+            <content:encoded><![CDATA[<h1>转写链接</h1>
+<link>https://tongyi.aliyun.com/efficiency/doc/transcripts/pev8qd43o64bqkga</link><br>
+<h1>节目摘要</h1>
+<div class="summary">在这次讨论中，参与者们深入探讨了人工智能（AI）作为技术革命在社会和经济中扮演的角色，以及他们作为AI领域从业者的挑战与机遇。尽管AI被视为一项革命性技术，但讨论者们也指出，AI领域的创业并非易事，需要不断试错和调整策略。他们强调，无论是创业公司还是大企业，在AI领域开展新项目时都可寻求合作，特别提到了传统企业在转型过程中面临的人和组织结构问题。同时，尽管国内AI市场面临挑战，一些企业已经开始关注海外市场，且用户付费意愿有所提升。讨论者们分享了自己在AI领域的创业经历和对最新AI模型进展的看法，并强调了保持健康生活方式的重要性。最后，他们邀请有兴趣的公司或个人共同探讨AI相关的合作机会，并推荐关注他们的公众号以获取更多关于AI炼金术的信息。</div><br>
+<h1>章节速览</h1>
+<div class="chapters">
+<div class="chapter-item">
+<span class="time"><strong>[00:00:00]</strong> </span>
+<span class="chapter-title"><strong>AI创业者探讨大模型挑战与机遇</strong></span>
+<div class="chapter-summary">两位AI领域的资深创业者分享了他们创业经历和对AI技术的深刻见解。他们曾分别创办过酒店特价平台、对话式人工智能公司及AI聊天机器人企业，并在AI浪潮中积极投资孵化新产品。作为大学同学，他们共同关注AI技术的最新进展，特别是大模型在实际应用中遇到的挑战。通过深入交流与碰撞，他们希望激发更多创新思维，共同探索AI技术的未来发展方向。</div>
+</div>
+<div class="chapter-item">
+<span class="time"><strong>[00:01:28]</strong> </span>
+<span class="chapter-title"><strong>GPT5体验反馈：编程能力未达预期，搜索功能需优化</strong></span>
+<div class="chapter-summary">用户分享了对GPT5的使用体验，指出其编程能力虽微超前代，但实际应用中未见显著提升，且在指令遵循方面不及Cloud Code。此外，用户反映GPT5的搜索功能默认关闭，导致频繁出现幻觉，体验不佳。对于新用户，默认的auto模式虽简化选择，但老用户则感到不便，模型选择的自动化设计有待改进。整体而言，GPT5未能带来预期中的革命性进步，用户对其期望与实际体验存在落差。</div>
+</div>
+<div class="chapter-item">
+<span class="time"><strong>[00:07:22]</strong> </span>
+<span class="chapter-title"><strong>大语言模型能力提升与应用场景分析</strong></span>
+<div class="chapter-summary">讨论了大语言模型从GPT3.5到GPT5的进展，指出尽管模型能力有所提升，但用户体验上的进步并不明显，特别是在某些专业领域。分析了模型能力提升对实际应用的影响，认为短期内大语言模型可能进入同质化竞争阶段，对于特定应用场景如会议纪要，高阶模型并未展现出显著优势。</div>
+</div>
+<div class="chapter-item">
+<span class="time"><strong>[00:12:56]</strong> </span>
+<span class="chapter-title"><strong>提升代码能力与企业智能转型：聚焦上下文与工作模式</strong></span>
+<div class="chapter-summary">讨论了在提升代码能力方面，关键在于提供足够的上下文而非单纯依赖模型智能，通过收集战略会议和日常信息来增强应用效果。同时，提出企业智能转型中，业务流程的合理收集比技术跟进更为重要，强调了沟通与任务分配在新型工作模式中的必要性。</div>
+</div>
+<div class="chapter-item">
+<span class="time"><strong>[00:17:22]</strong> </span>
+<span class="chapter-title"><strong>AI翻译官与公司效率提升</strong></span>
+<div class="chapter-summary">对话围绕公司内部沟通效率提升展开，强调了优秀翻译官在理解和传达CEO意图方面的重要性。提出通过AI技术创建虚拟助理，如会议中的主动助手，以捕捉机会、提示问题，从而提高工作效率。讨论了现有产品的局限性，但认可其逻辑正确性，展望未来AI员工在会议中的应用前景。</div>
+</div>
+<div class="chapter-item">
+<span class="time"><strong>[00:20:23]</strong> </span>
+<span class="chapter-title"><strong>AI赋能工作流提升内容创作效率</strong></span>
+<div class="chapter-summary">通过构建AI工作流，成功实现日更高质量内容，即使在忙碌状态下也能保持创作效率。计划进一步拓展至多个社交媒体平台，利用AI技术减少人工干预，提升整体产出。面对AI发展可能放缓的假设，提出应充分利用现有AI能力，扩大团队规模，以在竞争中占据优势。强调在资源同质化背景下，差异化和创新是提升竞争力的关键。</div>
+</div>
+<div class="chapter-item">
+<span class="time"><strong>[00:23:12]</strong> </span>
+<span class="chapter-title"><strong>大语言模型与多模态智能的未来挑战与机遇</strong></span>
+<div class="chapter-summary">讨论了大语言模型和多模态智能在科研领域的应用局限及与实际产品开发的关系，强调了复杂系统中幻觉率降低的重要性。指出尽管面临激烈的同质化竞争，但通过提升交付质量和利用技术升级（如云服务升级）仍有机会脱颖而出。提到了cursor、lovable等产品的成功案例，说明了技术成熟度对产品成功的关键作用。</div>
+</div>
+<div class="chapter-item">
+<span class="time"><strong>[00:26:58]</strong> </span>
+<span class="chapter-title"><strong>硅谷技术优势与国内市场追赶策略</strong></span>
+<div class="chapter-summary">对话围绕硅谷技术团队的创新能力和国内市场追赶策略展开，讨论了国内外技术差距、海外市场拓展可能性及国内用户偏好差异。强调了国内模型虽落后海外约6个月，但通过时光机理论，国内企业可提前布局，待技术追赶时迅速占领市场。同时，探讨了To B服务、教育娱乐等场景在国内市场的适应性，以及海外产品形态在国内的可行性，指出电商市场的高度集中性限制了新进入者的机会。</div>
+</div>
+<div class="chapter-item">
+<span class="time"><strong>[00:31:23]</strong> </span>
+<span class="chapter-title"><strong>多模态技术未来六个月的发展趋势</strong></span>
+<div class="chapter-summary">讨论了未来六个月多模态技术如视频和图片生成模型的进步，包括成本下降和效率提升的确定性趋势。强调了多模态技术在娱乐场景的潜力，尽管产品形态尚不明确，但预计模型将变得越来越便宜和高效。提到了手机作为终端和界面的局限性，以及对话和多模态生成可能带来的新体裁。</div>
+</div>
+<div class="chapter-item">
+<span class="time"><strong>[00:34:40]</strong> </span>
+<span class="chapter-title"><strong>探讨未来AI与手机融合的新型硬件形态</strong></span>
+<div class="chapter-summary">对话围绕未来AI技术与手机融合的新型硬件形态展开，讨论了手机作为人体器官的高粘性特性，以及未来可能的形态如AI站、NAS等。提出了一种寄生虫概念，设想其通过补充手机功能（如电池充电、音频输入、NFC等）并与AI原生题材结合，实现无需唤起手机即可完成对话等功能，探讨了隐私保护与技术融合的平衡点。</div>
+</div>
+<div class="chapter-item">
+<span class="time"><strong>[00:37:13]</strong> </span>
+<span class="chapter-title"><strong>AI营销工具与素材质量探讨</strong></span>
+<div class="chapter-summary">对话围绕AI在营销领域的应用展开，指出当前AI营销工具在素材生成方面存在局限性，难以达到高质量标准，尤其是在社交媒体广告投放上，创意素材的‘活人感’是AI尚无法超越的关键点。参与者强调，AI营销工具虽有辅助作用，但过度承诺其能力是不切实际的，且在竞争激烈的市场中，AI生成的素材往往无法带来竞争优势。</div>
+</div>
+<div class="chapter-item">
+<span class="time"><strong>[00:44:07]</strong> </span>
+<span class="chapter-title"><strong>营销策略与试错成本：从特穆案例看高投入高杠杆</strong></span>
+<div class="chapter-summary">讨论了营销策略的有效性与试错成本的关系，以特穆为例，指出其浮夸广告成功在于清晰传达核心想法、低试错成本及高质量履约。同时，强调了营销作为高投入高杠杆领域的重要性，指出寻找有效营销点的关键在于不断试错，而非避免尝试。对于资源有限的公司，找到适合自身能力水平的营销策略尤为关键。</div>
+</div>
+<div class="chapter-item">
+<span class="time"><strong>[00:48:01]</strong> </span>
+<span class="chapter-title"><strong>AI工具用户体验与产品设计创新</strong></span>
+<div class="chapter-summary">讨论了AI工具在用户体验上的不足，强调了产品设计需聚焦用户感知价值的重要性。通过案例分析，如芯片公司通过一体机展示技术优势，伽马利用AIPPT概念提升传播性，以及manus将录屏与播放作为默认功能，展示了如何通过创新设计增强产品吸引力。总结指出，产品设计应注重用户体验与传播效果，而非单纯追求技术指标或内部效率。</div>
+</div>
+<div class="chapter-item">
+<span class="time"><strong>[00:51:48]</strong> </span>
+<span class="chapter-title"><strong>移动互联网0到1经验的独特价值</strong></span>
+<div class="chapter-summary">讨论了移动互联网0到1阶段的创业经验在当前市场中的独特价值，指出由于最聪明的人才已进入大厂，市场缺乏对早期互联网增长策略的深入理解。强调了这些经验在广告投放、用户增长等领域的持续适用性，并指出年轻一代因缺乏实践机会而未能掌握这些知识。对话还提到，对于经历过早期互联网浪潮的人而言，他们的经验在当前仍具有重要价值，不应盲目崇拜年轻人。</div>
+</div>
+<div class="chapter-item">
+<span class="time"><strong>[00:55:35]</strong> </span>
+<span class="chapter-title"><strong>AI价值与保重身体的重要性</strong></span>
+<div class="chapter-summary">对话围绕AI的价值及其市场表现展开，指出尽管AI被视为重大机遇，但其实际转化为经济价值的部分仍较少，头部公司也面临生存危机。讨论中强调了保重身体对于长期工作效率和生活质量的重要性，提倡通过运动等方式保持健康，以期在未来的科技发展中受益，享受科技带来的便利与乐趣。</div>
+</div>
+<div class="chapter-item">
+<span class="time"><strong>[00:58:04]</strong> </span>
+<span class="chapter-title"><strong>AI应用现状与未来挑战探讨</strong></span>
+<div class="chapter-summary">对话围绕AI在传统企业中的应用潜力展开，指出尽管存在大量机会，但实际应用仍显不足。讨论了AI技术分布不均的问题，以及AI知识与实际使用间的差距，强调了加强交流与提升人才密度的重要性，旨在推动AI更广泛的应用与理解。</div>
+</div>
+<div class="chapter-item">
+<span class="time"><strong>[01:02:25]</strong> </span>
+<span class="chapter-title"><strong>信息差与时代趋势：商业机会的探索与实践</strong></span>
+<div class="chapter-summary">讨论了信息差在商业机会中的作用，指出真正的价值在于把握时代趋势，如AI顾问服务。提出了通过不同方式提升销售效率的可能性，包括教育、AI工具和数据整合。同时，强调了个人能力与兴趣匹配的重要性，并提到了孵化器在AI转型中的角色，尽管目前尚缺乏规模化。</div>
+</div>
+<div class="chapter-item">
+<span class="time"><strong>[01:07:01]</strong> </span>
+<span class="chapter-title"><strong>孵化成功案例与规模化路径探讨</strong></span>
+<div class="chapter-summary">对话围绕成功孵化案例的重要性及规模化路径展开，强调需先实现成功案例以验证模式，继而规模化。提及在孵化多个项目时，需聚焦于能验证模式成功的关键案例，而非依赖多个小规模尝试。同时，讨论了即便在资金充裕的公司中，内部运作仍可能存在不足，强调了外部合作与孵化新项目的重要性，特别是在AI领域。</div>
+</div>
+<div class="chapter-item">
+<span class="time"><strong>[01:09:24]</strong> </span>
+<span class="chapter-title"><strong>传统企业转型与组织能力挑战</strong></span>
+<div class="chapter-summary">对话深入探讨了传统企业在转型过程中面临的组织与人的问题，强调了这些挑战并非简单的好坏问题，而是深层次的能力与认知差异。通过茅台销售案例，阐述了即便有意愿学习，也难以快速匹配新领域需求的困境。同时，讨论了AI等新兴技术应用时，个人魅力与资源的重要性，以及规模化解决方式的缺失。最终，指出了传统to b结合AI的机会与难点，包括技术债务、产品价值转化及市场接受度等问题。</div>
+</div>
+<div class="chapter-item">
+<span class="time"><strong>[01:16:09]</strong> </span>
+<span class="chapter-title"><strong>AI创业者面对国内外市场挑战与机遇</strong></span>
+<div class="chapter-summary">讨论了AI领域创业者在国内外市场面临的不同挑战，指出国内市场的激烈竞争和高昂的运营成本使得多数创业公司难以盈利，而海外市场虽有挑战，但提供了更多机会。提及用户付费意愿的提升为国内AI公司带来了一线生机，同时分析了大厂垄断导致小厂难以生存的现状。最后，强调了探索To B合作及硬件方向的重要性，并邀请有实力的公司探讨AI转型合作的可能性。</div>
+</div>
+</div><br>
+<h1>问题回顾</h1>
+<div class="qa-item">
+<div class="question"><strong>Q:</strong> 在这一轮AI浪潮中，你有哪些具体的实践和经历？</div>
+<div class="answer"><strong>A:</strong> 我加入了美元基金永久资本，并积极投资和孵化AI产品。之前，我在2011年创业并把今夜酒店特价卖给了京东，在京东内部做了京东到家；2015年再次创业，创立了对话式人工智能公司get。这一轮AI浪潮中，我以首席技术官的身份加入了AI for shopping领域。</div>
+</div>
+<div class="qa-item">
+<div class="question"><strong>Q:</strong> 对于最近发布的GPT5模型，大家的体验如何？</div>
+<div class="answer"><strong>A:</strong> 最近很多人发布了新版本的模型，其中GPT5也已发布。从评分来看，它在编程能力上微微超越了之前的最好模型，但在实际使用场景中，尤其是指令遵循能力和生成内容方面，并没有显著提升。用户普遍反映，GPT5在搜索功能上的表现不如预期，且不支持像GPT4.1那样默认开启搜索，这给老用户带来了一些困扰。</div>
+</div>
+<div class="qa-item">
+<div class="question"><strong>Q:</strong> GPT5是否在某些方面有所进步？</div>
+<div class="answer"><strong>A:</strong> 从个人体验来看，GPT5并没有带来石破天惊的进步。尽管可能在底层技术上有提升，但对于普通用户而言，感受不到明显的进步。同时，GPT5对于指令的响应速度较慢，相比之前版本，搜索功能的表现也有所下滑。</div>
+</div>
+<div class="qa-item">
+<div class="question"><strong>Q:</strong> 这是否意味着模型能力的进步暂时进入了相对平稳的阶段？</div>
+<div class="answer"><strong>A:</strong> 是的，目前看来，在大语言模型领域，短期内可能不会再有爆炸性的性能进步。从GPT3.5到GPT4，再到GPT4.1，虽然有显著提升，但后续的升级如GPT5，在实用体感上并未带来同样震撼的进步，而是更多关注于模型参数量的增长和工具调用能力的提升。因此，围绕大语言模型构建的产品，在一段时间内可能会相对稳定，不会因为模型的快速更新而频繁调整策略。</div>
+</div>
+<div class="qa-item">
+<div class="question"><strong>Q:</strong> 在写代码方面，模型能力是否是决定性因素？</div>
+<div class="answer"><strong>A:</strong> 不完全是，现在写代码更多依赖于上下文的提供，即使是很专业的程序员，根据简单的描述也可能无法准确理解并满足需求。提升应用的关键在于增加上下文信息。</div>
+</div>
+<div class="qa-item">
+<div class="question"><strong>Q:</strong> 设计应用时如何考虑智能和上下文的关系？</div>
+<div class="answer"><strong>A:</strong> 我们设计应用时采用横轴代表智能程度，纵轴代表所需上下文。重点在于增加上下文信息以提高智能体的表现。例如，在做公司战略agent时，不仅通过微调模型，还可以让模型听取并理解战略会议内容，从而更好地执行任务。</div>
+</div>
+<div class="qa-item">
+<div class="question"><strong>Q:</strong> 当前企业转型面临的主要问题是什么？</div>
+<div class="answer"><strong>A:</strong> 企业转型过程中，问题不在于技术先进性，而在于内部信息业务流程能否合理收集并利用。关键是要提升获取和处理上下文信息的能力，而不是过度依赖提高智能水平。</div>
+</div>
+<div class="qa-item">
+<div class="question"><strong>Q:</strong> AI如何帮助改善传统团队协作模式？</div>
+<div class="answer"><strong>A:</strong> AI能帮助分配问题、辅助决策，并促进更高效的团队沟通。比如，让AI担任“翻译官”的角色，理解并整合各方意见，帮助领导者更好地理解和审批下属的工作成果。</div>
+</div>
+<div class="qa-item">
+<div class="question"><strong>Q:</strong> AI如何在会议场景中发挥作用？</div>
+<div class="answer"><strong>A:</strong> AI可以在会议中充当主动助手，预判会议目的，根据参会者偏好给出提示或建议，甚至参与讨论过程，捕捉机会并提出问题。同时，AI也可以协助提高日更频率，通过自动化工作流实现高效产出。</div>
+</div>
+<div class="qa-item">
+<div class="question"><strong>Q:</strong> AI的发展是否会影响企业组织规模？</div>
+<div class="answer"><strong>A:</strong> 随着AI技术的深入发展和应用，可能会出现一定程度的组织规模扩大趋势。因为有了AI支持，原本需要多人完成的任务现在可以由较少的人力加上AI协助来实现，而且AI在复杂系统决策中的优势可以显著提高效率和质量。</div>
+</div>
+<div class="qa-item">
+<div class="question"><strong>Q:</strong> 在与深科研等模型的竞争中，你们的优势是什么？</div>
+<div class="answer"><strong>A:</strong> 我们的优势在于速度相对较快，以及产出质量往往优于市场上的一些竞争对手。例如，在AI to b领域，我们并不直接与接单外包服务竞争，而是提供更高质量的服务。</div>
+</div>
+<div class="qa-item">
+<div class="question"><strong>Q:</strong> 接下来有什么商业机会可以抓住吗？</div>
+<div class="answer"><strong>A:</strong> 当前的机会主要围绕着新技术的应用，如云计算升级带来的新机遇，以及类似C30这样的技术创新点。同时，可以观察到一些产品通过不断迭代和利用前沿技术最终获得成功，比如AI辅助内容创作工具等。</div>
+</div>
+<div class="qa-item">
+<div class="question"><strong>Q:</strong> 对于做国内市场，是否应该利用好与海外头部模型大约六个月的时间差？</div>
+<div class="answer"><strong>A:</strong> 是的，可以利用这个时间差在国内市场先建立模型能力，即使暂时落后于海外，但随着国内生态和团队的发展，半年后国内模型能力有望追上海外水平。</div>
+</div>
+<div class="qa-item">
+<div class="question"><strong>Q:</strong> 是否应该一开始就瞄准海外市场？</div>
+<div class="answer"><strong>A:</strong> 不一定所有人都适合直接做海外市场。尽管海外市场可能已达到一定成熟度，但是否出海需结合产品定位、用户需求等因素考虑，国内市场也有其独特的市场形态和用户习惯。</div>
+</div>
+<div class="qa-item">
+<div class="question"><strong>Q:</strong> 对于国内做产品，应该如何选择适合的切入点？</div>
+<div class="answer"><strong>A:</strong> 国内做产品时，需要找寻与海外已成功产品相似但更适合国情或用户喜好的场景，例如电商市场在国内的集中度较高，而在海外则更碎片化，这为国内做类似产品提供了机会。</div>
+</div>
+<div class="qa-item">
+<div class="question"><strong>Q:</strong> 在接下来的六个月内，哪些方向可能有较大发展空间？</div>
+<div class="answer"><strong>A:</strong> 多模态（如视频生成、图片生成）可能是确定性较好的发展方向，随着技术进步，成本将大幅下降，这类产品在未来有很大的发展潜力。</div>
+</div>
+<div class="qa-item">
+<div class="question"><strong>Q:</strong> 关于AI形态的未来设想是怎样的？</div>
+<div class="answer"><strong>A:</strong> 设想中AI可能会从云端寄生在手机等终端设备上，以服务形态存在，如补充电量、音频收入等，通过硬件形态更好地适应用户隐私保护需求，并与AI原生题材结合，实现更高效便捷的交互体验。</div>
+</div>
+<div class="qa-item">
+<div class="question"><strong>Q:</strong> 当模型能力在端侧响应较快时，可能会催生出什么新的产品形态？</div>
+<div class="answer"><strong>A:</strong> 如果模型能力足够快，比如绘画延迟降到0，那么在GUI控制文字的应用中，用户可能会体验到更自然、更快速的交互方式，例如通过简单的手势操作文本框大小来改变显示内容。</div>
+</div>
+<div class="qa-item">
+<div class="question"><strong>Q:</strong> 最近有没有看到什么有趣的应用？</div>
+<div class="answer"><strong>A:</strong> 我朋友最近做了一个名为knock knock的应用，它可能是一个视频生成社区的APP版本，你可以去试一下。</div>
+</div>
+<div class="qa-item">
+<div class="question"><strong>Q:</strong> 对于AI营销这一块，你有什么看法？这些AI营销工具是否真的能帮助公司提高广告投放效果？</div>
+<div class="answer"><strong>A:</strong> 我认为当前市场上的AI营销工具宣传与实际能做的事情存在较大差距。虽然有些工具在素材生成等方面有一定作用，但它们更大的价值可能在于辅助而非主导地位，特别是在素材质量要求较高的情况下，AI生成的内容往往无法达到理想效果。不是的，现在大部分广告流量主要来自社媒平台，如TikTok、Instagram、Meta以及国内的抖音、快手等。AI对于提高素材质量（尤其是活人感）的效果并不理想，且多数公司面临的挑战是在宏观层面优化故事线、节奏点等方面，而AI在这方面表现不佳。</div>
+</div>
+<div class="qa-item">
+<div class="question"><strong>Q:</strong> 那么对于那些小型企业或初创公司来说，使用AI营销工具是否有效？</div>
+<div class="answer"><strong>A:</strong> 对于一些基础较弱的企业，AI可能能帮助他们以较低的成本产出相对不错的素材，但这并不能为他们带来明显的竞争优势，因为市场上顶尖的营销团队仍能创造出高水准的素材。AI营销工具往往过度承诺，实际在创意素材上的表现并不理想。</div>
+</div>
+<div class="qa-item">
+<div class="question"><strong>Q:</strong> 在营销领域，除了AI工具之外，还有哪些重要的体验层面需要注意？</div>
+<div class="answer"><strong>A:</strong> 近期的一个重要体验层面是利用AI技术打磨产品对用户的真实体验，尤其是在效果层面。如果产品在用户使用过程中感觉不如竞争对手好用，即使在其他方面投入再多，最终也会遭遇市场的淘汰。因此，如何借助AI模型能力提升产品的实际使用效果，让用户能切实感受到产品的优势至关重要。</div>
+</div>
+<div class="qa-item">
+<div class="question"><strong>Q:</strong> 那么，对于notion这样的产品，它的设计在传播性上有何优势？</div>
+<div class="answer"><strong>A:</strong> notion的设计优势在于它提供了便捷的网页分享功能，用户通过网页分享链接后，他人可以直接点击打开，这种传播方式比传统的PPT更为灵活和具有天然的传播性。</div>
+</div>
+<div class="qa-item">
+<div class="question"><strong>Q:</strong> 在移动互联网时代，产品的设计思路上有哪些可以改进和提高的地方？</div>
+<div class="answer"><strong>A:</strong> 当前很多产品的设计并未充分考虑到传播和用户感知，大部分人在重复学习已有的移动互联网经验知识，而真正了解如何做好病毒式营销、用户留存等环节的人才已经很少在创业公司中出现。这为具备这些技能的人提供了机会，他们可以通过优化产品设计来增强产品的传播性和用户友好性。</div>
+</div>
+<div class="qa-item">
+<div class="question"><strong>Q:</strong> 年轻人在移动互联网产品领域的经验是否有所欠缺？</div>
+<div class="answer"><strong>A:</strong> 是的，现在市场上很多2018年、2019年毕业的年轻人由于去大厂工作而非创业公司，他们在成熟体系内可能没有机会去实践从0到1的产品增长过程，因此对移动互联网的很多核心理念理解不够深入。</div>
+</div>
+<div class="qa-item">
+<div class="question"><strong>Q:</strong> 如何平衡工作与休息，提升工作效率？</div>
+<div class="answer"><strong>A:</strong> 需要找到适合自己的放松方式，比如我在工作受挫时会选择运动以提高工作效率。同时，也要花时间与行业内外的朋友交流，借鉴他人的经验，发现新的价值空间，提升公司整体人才密度。</div>
+</div>
+<div class="qa-item">
+<div class="question"><strong>Q:</strong> 在当前环境下，如何看待个人经验和价值的延续性？</div>
+<div class="answer"><strong>A:</strong> 即使年纪稍大的从业者在一些大公司分工细致，看似他们的实战经验无法直接应用，但实际上，他们在过去积累的很多道理和方法论仍然适用。此外，随着科技发展，多活几年可能享受到由科技进步带来的更多机遇，所以保持身体健康非常重要。</div>
+</div>
+<div class="qa-item">
+<div class="question"><strong>Q:</strong> 是否可以利用现有的AI技术解决传统企业中的信息差问题并创造商业机会？</div>
+<div class="answer"><strong>A:</strong> 确存在这样的机会。通过帮助传统企业理解和应用最新的AI技术，填补他们与前沿技术应用之间的信息差，可以有效传递价值，从而创造商业机会。这并非单纯利用信息差赚钱，而是借助时代趋势来实现长期价值。</div>
+</div>
+<div class="qa-item">
+<div class="question"><strong>Q:</strong> 在药厂的例子中，为什么药厂不应该自己解决所有问题，而应该花钱雇用其他公司来解决？</div>
+<div class="answer"><strong>A:</strong> 药厂专注于药研发是核心业务，像造楼这样的非核心业务应由专业团队完成。同样，企业在提升销售效率和组织效率时，并非所有工作都需要内部解决，可以考虑利用AI技术或其他专业服务来提高效率。</div>
+</div>
+<div class="qa-item">
+<div class="question"><strong>Q:</strong> 对于提高销售效率的机会，有哪些不同的解决方案？</div>
+<div class="answer"><strong>A:</strong> 提高销售效率的方法包括培训销售团队、使用AI销售代理（SaaS）进行教练式支持，以及通过清洗历史数据建立中央数据库以支持销售和客服等。但在中国，某些解决方案如SaaS销售代理可能难以收费，而像Plantier的方式则需要较高的销售能力要求。</div>
+</div>
+<div class="qa-item">
+<div class="question"><strong>Q:</strong> 机会的规模化与找到适合的团队有何关联？</div>
+<div class="answer"><strong>A:</strong> 机会往往需要先找到一个成功的“一”，即第一个可复制的大项目，然后在此基础上横向复制。孵化器目前虽有多个项目孵化中，但尚未找到那种能快速规模化复制的“一”。</div>
+</div>
+<div class="qa-item">
+<div class="question"><strong>Q:</strong> 传统企业在AI转型方面的挑战是什么？在与传统企业合作推进AI转型的过程中，发现的主要困难是什么？</div>
+<div class="answer"><strong>A:</strong> 传统企业转型面临的主要挑战是人的问题和组织问题，许多看似技术层面的问题实际上根源在于组织内部的理解、配合和执行力上。主要困难在于双方往往不在同一个“池子里”，即思维方式、业务流程和行业知识存在较大差异，导致即使有意愿合作，但在实际操作中也会遇到很多意想不到的问题和误解。</div>
+</div>
+<div class="qa-item">
+<div class="question"><strong>Q:</strong> 对于国内AI市场的现状有何观察？</div>
+<div class="answer"><strong>A:</strong> 国内AI市场由于大厂竞争激烈，小厂生存空间受限，尤其在C端市场表现更为明显。尽管用户付费意愿有所提升，但在激烈竞争下，很多公司仍面临盈利难题。同时，海外市场虽也有挑战，但在某些方面仍存在合作机会，例如to b业务和硬件方向。</div>
+</div>
+<h1>节目文稿</h1>
+<p class="transcript-line">
+<span class="time"><strong>[00:00:01]</strong> </span>
+<span class="speaker"><strong>发言人1: </strong></span>
+AI是人类历史上最激动人心的技术革命，也是我们这一代人最大的挑战与机遇。我们这些从业者就是一群充满好奇的炼金术士，想通过不断的猜想、实验，搞出黄金或者放个烟花，无论结果如何，过程应该都会很好玩。我是人心，创业过两次，卖过两家公司。2011年我创业今夜酒店特价卖给了京东，在京东内部做了京东到家。2015年我再次创业，做了对话式人工智能公司get。这一轮AI浪潮里，我加入了美元基金永久资本，积极投资和孵化AI产品。
+</p>
+<p class="transcript-line">
+<span class="time"><strong>[00:00:38]</strong> </span>
+<span class="speaker"><strong>发言人2: </strong></span>
+我是徐文浩，曾经做过国内最早的机器学习广告系统，每天处理百亿的广告流量，最终公司被收购。2016年我创办过一个AI聊天机器人的公司go top。这一轮的AI浪潮里，我再次创业来做AI for shopping，担任首席技术官。我和任心是大学同学，现在都在搞AI都算是一线实战的AI炼金术士。在这档播客中，我们会定期交流彼此最新的实践和观点，也会邀请我们欣赏有动静的朋友们一起来分享碰撞。希望通过这些深入的对话与交流，能帮助我们所有人点燃炼金的芦火。
+</p>
+<p class="transcript-line">
+<span class="time"><strong>[00:01:18]</strong> </span>
+<span class="speaker"><strong>发言人1: </strong></span>
+欢迎大家来到AI炼金术又到了我跟徐文浩不知道要聊什么，就是丁鑫聊一聊的事情。徐老师你说要聊什么？大学模型碰壁的问题。来来来。
+</p>
+<p class="transcript-line">
+<span class="time"><strong>[00:01:29]</strong> </span>
+<span class="speaker"><strong>发言人2: </strong></span>
+最近其实又很多人又发了一些模型的新版本，而且大家也在等那个，其实主要就是GPT5发了，前一阵吧我自我们自己使用的感觉在其实一开始有点不习惯，以及觉得不太好。不太好是说因为我们一直用靠code或者说这种编程能力强，包括gm编程能力最强的这些模型去写代码。大家都期望比如说GPT5出来之后说，编程能力能不能在比超越之前的最好的模型。那么从他发的那个评分来讲，是微微超越了卡扣的。但是在实际的使用场景中并没有这个体感。就是体感上是说指令遵循能力其实是比不过cloud code的。从体感上好像能力并没有体现的非常我至少没有觉得那个网页版的cover GPT5或者调API的GPT5说有比过去更好用，这个没有感觉到，该说有点失望。
+</p>
+<p class="transcript-line">
+<span class="time"><strong>[00:02:35]</strong> </span>
+<span class="speaker"><strong>发言人2: </strong></span>
+GPT5其实这个事儿也不是说他突然发的，其实从准确率从GPT4到现在还一直在等。对，因为他当中发过很多个不同的模型，但都没有用GPT5的名字对吧？然后他发过什么GPT4.1发过什么O1、O3、O4.
+</p>
+<p class="transcript-line">
+<span class="time"><strong>[00:02:56]</strong> </span>
+<span class="speaker"><strong>发言人1: </strong></span>
+4.5。
+</p>
+<p class="transcript-line">
+<span class="time"><strong>[00:02:57]</strong> </span>
+<span class="speaker"><strong>发言人2: </strong></span>
+对，发过4.5，但是4.5发后来又不是没有大规模让大家使用，后来感觉大家用的比较多的是要么是O3或者O4 mini，要么是很多人比较偏向于编程或者搜索，要么是很多场景下，如果是要偏向于这个指令遵循或者生成内容，很多人那个时候觉得GPT4.1比较好用。所以这个从能力上来讲，其实稍微有些失望。
+</p>
+<p class="transcript-line">
+<span class="time"><strong>[00:03:24]</strong> </span>
+<span class="speaker"><strong>发言人2: </strong></span>
+第二个是一开始说有些不习惯，就是因为尽管它编程上大家很习惯用卡code的，但是其实大家在那个聊天对话界面，以前还是经常用之前的ChatGPT的那个客户端的。因为你也花钱买了。之前有一段时间是，特别是dept er 4刚出来的时候会比较重的，用deep research。我不知道你的使用习惯是怎么样的，就之前我有一段时间觉得ChatGPT很很好用，某种程度上是因为它代替了capacity。你用O3或者O4的时候，默认它是默认它是开搜索的。这个带来一个巨大的好处就是说就是你不太担心幻觉了。它基本上你输啥指令他都会先去搜，而且他会搜很多轮对那个时候我的感觉是说，自从我的产品体验上，我的感觉就是我再也不用publicity了，我就policy这公司死了。
+</p>
+<p class="transcript-line">
+<span class="time"><strong>[00:04:14]</strong> </span>
+<span class="speaker"><strong>发言人2: </strong></span>
+但是现在用GPT5之后，我不知道你使用他不习惯的一点是说，我发现如果我不点那个窗口下面的设置那个按钮，他其实有时候就不搜，然后就会幻觉我。这是我的第一个体感，就是说导致他那个搜的搜索，我其实没有找到在哪里可以默认打开。所以每次我现在说个什么，发现我觉得他答的不对，我还得重新开一个绘画，把这个搜索勾上，把问题重新贴一遍。所以我觉得这个从就体验上不太习惯。当然有另外一部分不习惯，是就是老的模型都不能用了，就默认都不能用了，它默认都没有了，然后它默认是一个auto的mode。
+</p>
+<p class="transcript-line">
+<span class="time"><strong>[00:04:59]</strong> </span>
+<span class="speaker"><strong>发言人2: </strong></span>
+这个我觉得从做C端产品的角度来讲，其实很容易理解。就是一个如果你是一个新用户，我觉得在GPT5出来之前，其实你如果我们是老用户，比如我们已经用了很长时间ChatGPT了，你其实还是会习惯性的会针对你下来问的问题去选一个模型的对吧？但是我相信对一个新用户，他看到这个肯定是懵逼的。因为他有好多模型，有4O有4.1，有O3什么pro然后你就完全不理解对吧？所以从道理上来讲，你既然叫人工智能，那什么问题应该用什么模型回答，不应该是你产品自己决定吗？这个问题难一点？偏偏需要搜索，你就应该自己去搜索。这个问题简单一点，你觉得是个常识，你就没有必要搜索，你就可以直接告诉我。从道理来讲，它设计应该设计成这样。但是实际从老用户的体验来讲，就觉得并没有变得更好。
+</p>
+<p class="transcript-line">
+<span class="time"><strong>[00:05:53]</strong> </span>
+<span class="speaker"><strong>发言人1: </strong></span>
+而且完全看不出区别，字面上完全不知道是什么鬼。我这边体感也是期待太高。然后我出来之后，我还把我的几个常见的应用场景都拿它跟那个洁面奶2.5 pro比，基本上是金的2.5 pro全售有点尬在那里。就有的时候我等等了这么久等了个这个东西。当然了我也会反思说是不是是我使用的太简单了，就是我都是一些类似于长文，什么市场研究这一类性质的工作，而不是那种比如说科学研究。我就在想难道是科学研究方面强了，是我的应用场景太弱智了，所以感受不到它的进步。会自己PV.
+</p>
+<p class="transcript-line">
+<span class="time"><strong>[00:06:34]</strong> </span>
+<span class="speaker"><strong>发言人2: </strong></span>
+自己在搜索上，它其实是不如就带了搜索之后，在很多场景是不如jim I的。但是我在用O4迷你或者O3的时候，我觉得是可以超越界M来的。我会倾向于它其实是给了一个更便宜的模型给我，而不是给了一个更好的模型给我就是当然我们都能理解，比如G的搜索能力很强，因为google自己有搜索，一旦你要那些时效性强，这些覆盖大的。但是我自己的体会是说，你现在原来你问那个，比如O4 mini或者O3问问题，他会搜很多轮，然后最后给你一个答案是相对比较准确的。现在感觉他就比较懒，他们就随便搜一点东西，给了你个答案。我就反正是这个体感。
+</p>
+<p class="transcript-line">
+<span class="time"><strong>[00:07:16]</strong> </span>
+<span class="speaker"><strong>发言人1: </strong></span>
+所以从你的那个体感上来讲，反正就是GPT5没什么进步是吧？至少没有石破天惊的进步。
+</p>
+<p class="transcript-line">
+<span class="time"><strong>[00:07:23]</strong> </span>
+<span class="speaker"><strong>发言人2: </strong></span>
+我没有有体感的进步。应该这样讲，我不知道他就从best rock上他也许有进步。因为我觉得还有一点是说，其实原来我也比较少，就除了deeper research的场景，我也不是非常习惯用就是要thinking很长时间的模型。我会用比如说欧4 mini或者之类的。因为他虽然会thinking，然后他会搜索，但是他的响你他的给你的体感是他响应比较快，就吐槽梗还是比较快的，不会让你等很久。Defer search就不管了，你就扔后台了，对不对？但是我开GPT5，就是我一旦开thinking，我就觉得它特别慢。
+</p>
+<p class="transcript-line">
+<span class="time"><strong>[00:07:59]</strong> </span>
+<span class="speaker"><strong>发言人1: </strong></span>
+我不太越来越少用GPT的原因更奇怪一点，其实我之前用GPT那个O1 pro用的很多，他慢就慢，但是我觉得很喜欢他出来的东西。但是自从升到O3之后，不知道为什么，但是我也做了一系列其他的事情，所以我搞不清楚原因。就是他说话都低里低气的，就是他不说人话了，他就非常喜欢跟我做表格，然后讲的花里胡哨。然后每次想着只要想到超过两分钟，他出来的东西必然就是那种非常有格式，然后非常很奇怪的一种风格。但是金美奶就不会，金美奶就是讲人话，所以后来我就愈发的被他搞走了。但是我会去好那个system proms，但是我不好，不管怎么调好像没有用。他他他习惯性就是很高级的，然后一个科学研究员的那种风格在跟我聊用不下去了，但我还是偏文科一点的用法。如果你那边写代码什么的，就是算比较硬核的用法，也觉得没什么好的的话，那这次我的体感。
+</p>
+<p class="transcript-line">
+<span class="time"><strong>[00:08:58]</strong> </span>
+<span class="speaker"><strong>发言人2: </strong></span>
+是反正没有什么进步，或者没有让你感有明显感知的进步。虽然他讲了一堆。
+</p>
+<p class="transcript-line">
+<span class="time"><strong>[00:09:06]</strong> </span>
+<span class="speaker"><strong>发言人1: </strong></span>
+那反过来想说，这是不是一件好事儿？对于做应用的人来讲，之前老担心地基天天变，至少我们现在看到地基一段时间？也没有什么大变化，那是不是可以安安心心做应用了？
+</p>
+<p class="transcript-line">
+<span class="time"><strong>[00:09:18]</strong> </span>
+<span class="speaker"><strong>发言人2: </strong></span>
+对的，就是我我的感觉就是所以我说感觉就是聊就感觉这个模型能力的进步，至少我们推测短期内再难有这种爆炸性性质能力的进展了。第一个爆炸性的进展就是从零到GPT3.5。第二个进展是GPT4出来对吧？第三个进展我觉得是cloud 3.53，cloud 3.5 sonate出来。
+</p>
+<p class="transcript-line">
+<span class="time"><strong>[00:09:42]</strong> </span>
+<span class="speaker"><strong>发言人2: </strong></span>
+然后那个时候觉得其实从Q4开始，它虽然有进步，但是你的体感就没有那么震惊了，吧？甚至有很多的进步的体感不是模型本身的能力，而是他训了很多，他开始更多的去强调模式的那个agent的能力，就调用工具的能力，就像像clo 4，包括后来很多时候你觉得它更好用了，是因为说它其实已经不是一个裸裸的模型了。它其实背后已经搭了搜索，搭了这种function是to calling或者MCP的能力。而然后你会发现说，因为它会自主用一些工具，它更好用了。但今天GPT捂出来，其实你会感觉说好像他只是为了在那个分数上刷一刷。Software engineer的那个benchmark超了cloud那个四点一点点，但实际你在使用体感上并没有那么大的进步，这就感觉就是从机模的角度来讲，进入了相对比较同质化的竞争。所以如果是围绕大语言模型去做产品的话，感觉就是你不太会说，我这三个月做的事情，下个礼拜模型出来又白干了。
+</p>
+<p class="transcript-line">
+<span class="time"><strong>[00:10:50]</strong> </span>
+<span class="speaker"><strong>发言人1: </strong></span>
+对吧？那你觉得这是真的已经撞墙了还是？说是因为我们的这个evaluation达不到。我举个例子，就比如说我们现在不是做很多to b的合作，就比如说中间有一个合作方的话，他们公司有无数个助理，然后这些助理的小朋友们，他们其实会用AI来做会议纪要。但是其实对于他们这个需求的话，他们之前的会议叫prom极其简单，我们帮他们改了一下。然后就是你会发现其实用GPT3.5就可以了。GPT4其实它就在这就这个任务GPT4配不会觉得跟GPT3.5有多大区别，你换成一个O3也不会有多大区别。所以他们的主要的应用场景就是做会议笔记，而且这个笔记其实是没人看的，但就是要交个差。
+</p>
+<p class="transcript-line">
+<span class="time"><strong>[00:11:40]</strong> </span>
+<span class="speaker"><strong>发言人1: </strong></span>
+那是不是我就在想，我看他们会觉得说，你们这个用的太简单了。你就比如说你应该搞一个deep research什么市场研究，是不是因为我们的活也太简单了，所以他这次升级，比如说3.5升到4，我们感觉到了，小朋友没感觉到。但是现在4升到5是不是我们没感觉到？但是比如说科学家感觉到我在硬帮他们找吧，就是从从你更专业看是不是这样，有没有这种可能？
+</p>
+<p class="transcript-line">
+<span class="time"><strong>[00:12:05]</strong> </span>
+<span class="speaker"><strong>发言人2: </strong></span>
+因为我们其实也是做应用，而且作为相对比较垂的应用，以及说我们另外的那个场景，就主要是内部的效率场景。我自己的感觉是说有可能是啊但是那个太简单，是可能大部分人也用不上。比方说，就像deep my投那个house service，就是说他说我要用这个东西搞科研，去解决什么数学世界数学，什么上世纪二十大难题，我觉得他有没有能力，是不是做得更好了，其实我不知道，我也没有尝试过他去解决那一类的问题，那我觉得从今天所谓我们做的叫做所谓的白领工作，新世纪农民工，这信息时代的农民工的工作，我觉得说倒也没有到那个的确没有感觉非常明显的提升了。
+</p>
+<p class="transcript-line">
+<span class="time"><strong>[00:12:57]</strong> </span>
+<span class="speaker"><strong>发言人2: </strong></span>
+比如写代码这个事儿，当然我觉得这个没有很难提升。我觉得有两个，第一个也是的确是说现在你要把这个东西用起来，可能更多的并不是说模型能力够不够，而是你给他的上下文够不够。很多时候我觉得这地方不是，就比如说你写代码，就是你们你找一个再高手的程序员，他业务sense也很好，技术水平也很高人也很聪明。你跟他说用一句话描述一下你的需求，他做出来跟你想要的事情是一样的，这件事情是不可能的，对吧？就是那个笑话，马云说你帮我去买个肯德基，然后过一会儿说，马总肯德基买好了对吧？就是一百多亿，不就。那那这种问题它一定不是靠模型智能高不高能解决的。
+</p>
+<p class="transcript-line">
+<span class="time"><strong>[00:13:40]</strong> </span>
+<span class="speaker"><strong>发言人1: </strong></span>
+对我我们现在在设计那个应用的思路上，现在就是会画一个横轴纵轴，纵轴就是智能，然后横轴绘画是contest。所以我们现在设计的东西大量的其实是在想着怎么把context变多，最后的价值是它的横横纵轴乘起来那个面积。
+</p>
+<p class="transcript-line">
+<span class="time"><strong>[00:14:01]</strong> </span>
+<span class="speaker"><strong>发言人1: </strong></span>
+我举个例子，就比如说你要做一个，比如说叫做什么公司战略agent，一种就是你去不断的什么画agent应该怎么样，不那个战略应该怎么做，华为的战略怎么做什么战略怎么做，你就不断的把它变厉害。不管微调也好，rega也好，这是一种思路。还有一种思路就是不调了，但是我放一个录音机听你的，你开战略会把他就放在旁边，甚至于你开周会把它放在旁边，然后让他听你三天的战略会，你怎么年度战略会听完之后再聊，就用模型，模型该怎么样不调，其实效果就会好很多。所以我们现在就在拼命的想着说，怎么可以拿到他的战略会的信息，以及比如说平时的日常的信息，最好就是不需要太配合的。因为我们现在发现说传统企业的话，一旦需要配合就会发生非常多，就是非常热情洋溢，但是什么事儿都不会推动的一些情况。也就是怎么搞context，被动搞context。所以现在觉得这边可能是做应用的一个思路，就不去提高intelligence去搞context。Intelligence是让给大模型去搞。
+</p>
+<p class="transcript-line">
+<span class="time"><strong>[00:15:06]</strong> </span>
+<span class="speaker"><strong>发言人2: </strong></span>
+我觉得这个也是这个其实又回到那个问题，就跟以前的企业的，无论以前叫信息化转型也好，数字化转型也好，或者今天叫智能转型也好。你会发现那个问题其实都不在于说信息化水平就是技术跟不跟得上，数字化技术跟不跟得上，或者今天的智能技术跟不跟得上。其实还是到企业内部的信息业务流程是不是真的能够比较合理的能够收集起来。
+</p>
+<p class="transcript-line">
+<span class="time"><strong>[00:15:33]</strong> </span>
+<span class="speaker"><strong>发言人1: </strong></span>
+前一段时间有人跟我疯狂推荐那个risp flow。然后他讲了一个非常奇怪的理由，说因为你在web coding的时候，有的时候会很火。然后你用risp floor，你都用语音讲的话，你就可以吼他。
+</p>
+<p class="transcript-line">
+<span class="time"><strong>[00:15:47]</strong> </span>
+<span class="speaker"><strong>发言人1: </strong></span>
+后来过几天我跟我宝宝一起在写一个游戏，然后我们就改bug改了十遍。他每次都说，我发现问题了，我这次绝对改好了。然后就老样子，然后我就开始好的。但是他吼完之后，which flow它就是个语音输入，它还是把它全是文字。但是你好歹就是生气，改了十次，他每一次都说，我发现问题就在这里，我这次一定把它改好了。然后就老样子。
+</p>
+<p class="transcript-line">
+<span class="time"><strong>[00:16:13]</strong> </span>
+<span class="speaker"><strong>发言人2: </strong></span>
+我觉得很难。就是说原所有原来优秀的程序员习惯都是我开一个我就一个时间解决一个问题。我开了ID我要专心解决这一个问题。其实今天你要习惯于说我给AI分配的这个问题，然后我再去分配下一个问题，我再去再分配下一个问题。然后我再回过头来看，就是这个对所有人来讲，其实都是不太习惯的。
+</p>
+<p class="transcript-line">
+<span class="time"><strong>[00:16:35]</strong> </span>
+<span class="speaker"><strong>发言人2: </strong></span>
+以前还不是说纯粹管理者也不习惯。因为他以前管人的时候，他喜欢一句话，就是管理者一旦事儿忙起来，很多很多时候就公司内部有人觉得老板不合理，或者这个老板搞不明白，也是因为沟通的问题。老板其实就讲了一句话，然后你又不敢不好意思问，也不敢问，最后发现你做出来的东西不是老板想要的，然后他在批头白脸骂白白脸把你骂一顿对不对？那你跟AH老板又觉得你为什么理解不了，对不对？那合理的逻辑是你要讲的比较细，写的比较细，但同时你又得把任务分配给他，然后再来检查作业？所以这个是这个工作模式对于所有人今天其实都是不习惯的。不管是原来你管团队的，还是原来你不管团队的，他其实今天都不习惯。是说我觉得说所有的团队内部还是有比较大的提升空间的。
+</p>
+<p class="transcript-line">
+<span class="time"><strong>[00:17:23]</strong> </span>
+<span class="speaker"><strong>发言人1: </strong></span>
+照你这样讲的话，其实现在的CEO最适合招一个很会。因为以前的领导的秘书有一些时候就是帮领导做翻译的，他会去搞清楚之后，是领导肚子里的蛔虫，他理解这句话，上下文有的时候靠他上传下一达去补充。那现在是需要这样的角色，甚至有可能有这样的产品机会。
+</p>
+<p class="transcript-line">
+<span class="time"><strong>[00:17:44]</strong> </span>
+<span class="speaker"><strong>发言人2: </strong></span>
+我在想对我是认为什么呢？叫做公司需要一堆翻译官，公司需要的是一堆优秀的翻译官，他同时又能验收。对你又能翻译又能验收，你的产能就会比较高。如果你既翻译不了，又验收不了，就是你的产能提升的是相对比较有限的。
+</p>
+<p class="transcript-line">
+<span class="time"><strong>[00:18:01]</strong> </span>
+<span class="speaker"><strong>发言人1: </strong></span>
+我们最近在聊那个合作方的时候，有一个合作方就跟我们提出需求。我们本来是想说有没有我们在设想一些context的产品能不能提效？然后他们说效率其实最重要是取决于老板，我们这边提效没有用，然后我们需要做一个东西，问问我们能不能做一个东西，其实那个东西我们给他内部取代号叫皇帝，皇帝到底怎么想的？就是老板每次讲完一句话，能够把它融入到一个整体的。比如说一个文档好了，那个文档就是皇帝是这么想的，有一个字句在那里。每次皇帝新讲的话之后，会跟他已经讲的话相互融合，说他这天又改了一下什么东西。其实他已经往这里想了，就会留一个档，然后让皇帝也看一眼，说是不是这样，然后我们要不要跟着改，说下面提倡没有用的对。
+</p>
+<p class="transcript-line">
+<span class="time"><strong>[00:18:49]</strong> </span>
+<span class="speaker"><strong>发言人2: </strong></span>
+这个我给我太太这也出个这过个主意，他们最需要的一个prompt是说我们汇报CEO会问哪些问题？
+</p>
+<p class="transcript-line">
+<span class="time"><strong>[00:18:58]</strong> </span>
+<span class="speaker"><strong>发言人1: </strong></span>
+我们我们真的就是我们有一个合作的公司的话，我们帮他们所有的助理做了一个会议的prompt。就是根据他们老板的偏好告诉了他说他们老板看这个会可能会觉得哪里好，哪里不好，让他们改一改，或者我帮你改一改，就做了一个这样的一个prompt给他们。然后大家都很非常爱这个东西，这种东西是有有价值的，甚至于包括现在会议纪要都很无聊，其实没人看的。
+</p>
+<p class="transcript-line">
+<span class="time"><strong>[00:19:21]</strong> </span>
+<span class="speaker"><strong>发言人1: </strong></span>
+但是其实很多的会议其实是有目的的。你的目的往往是希望会议当中的另外一个人，他一定要get到什么，或者他approve什么，或者他怎么样，或者他买我们家东西。那这个时候其实你是带了明确的目的，那这个时候其实你只要带明确的目的，而不是纪要的话，应该是告诉你说发现了什么机会，你应该怎么搞。最近像那个我看到有两家公司的这两家公司两个产品好像在往这个方向搞，一个是前一段时间炒作的很厉害，库里就面试作弊了，他现在已经变成了会议当中的一个主动的assistant。然后另外一个好像叫。Actor and process proactive就是主动积极的意思。另外一个就是说你一边在录的时候，他就一边掺和到这件事儿里来跟你说，其实这事儿是怎么样子的对，当然我试了一下效果巨差。对，但是这个逻辑是对的对。
+</p>
+<p class="transcript-line">
+<span class="time"><strong>[00:20:14]</strong> </span>
+<span class="speaker"><strong>发言人2: </strong></span>
+这其实也是另外一种形式的AI员工。对啊，觉得他的这个职能就在这个会议里去偷偷的去捕捉这些机会，然后提示你问什么问题。
+</p>
+<p class="transcript-line">
+<span class="time"><strong>[00:20:23]</strong> </span>
+<span class="speaker"><strong>发言人1: </strong></span>
+还有一个，你刚刚说那个提效可以提的很大的话，最近几天那天就在想，那我们这个号不能这样，我们得认真起来。然后我就在想，可是我没有时间，我一想我没有时间，我就在想我不是号称我很搞AI吗？不是应该让AI来干嘛？然后我上周就搭了一个工作流，然后就开始改那个叫做我就在尝试说能不能日更，就是那个AI炼金术的那个工号，然后就已经坚持几天了，不一定能坚持多久，但是现在至少没怎么花我的太多精力可以做到日更。而且我觉得至少里面的内容是我看到确实觉得挺有启发的。被我看到大部分工号要好一点，而且图文精美，对吧？全是AI的工作流，当然要靠那个那个sensitivity帮忙处理很多的手工的流程。
+</p>
+<p class="transcript-line">
+<span class="time"><strong>[00:21:08]</strong> </span>
+<span class="speaker"><strong>发言人1: </strong></span>
+现在还是挺麻烦的，但是以前根本不敢想，兼职你像我们这种三天打渔两天晒网，还能做到日更长文，其实这种事情在以前完全不可能，但现在其实完全可能。我下周还打算说研究一下说能不能把什么极氪、微博、twitter、小红书，甚至于做做短视频都更一下。之前就会说没时间，那现在想说好，那你就每天就只花这么多时间，有没有可能让AI的参与过程都大一点？其实也有可能能做出来。
+</p>
+<p class="transcript-line">
+<span class="time"><strong>[00:21:39]</strong> </span>
+<span class="speaker"><strong>发言人2: </strong></span>
+就说到底忙不过来这个事儿。我我我最近又有一个新的假设，就是之前的假设是说AI应该让你的组织会变小，对不对？我觉得随着AI开始撞墙，我觉得接下来组织又会。
+</p>
+<p class="transcript-line">
+<span class="time"><strong>[00:21:53]</strong> </span>
+<span class="speaker"><strong>发言人1: </strong></span>
+重新变大了对他做了全套。
+</p>
+<p class="transcript-line">
+<span class="time"><strong>[00:21:56]</strong> </span>
+<span class="speaker"><strong>发言人2: </strong></span>
+因为就我记得你以前讲过一个裸介绍过一个公司说我觉得今天我其实原来我去做广告系统对吧？我只能做一个模块。我现在应该因为有了AI我都能做，对不对？那其实今天也是一样的，你今天做一个业务，为什么你要做一个细分呢？你应该有AI，如果你融到了钱，你有聪明的人，你就应该全做。
+</p>
+<p class="transcript-line">
+<span class="time"><strong>[00:22:17]</strong> </span>
+<span class="speaker"><strong>发言人2: </strong></span>
+你如果要全做，你会发现那人少还是不行的对，特别是之前你可能会有一个假设，你不知道AI会到快速发展到哪个阶段。那么假设你今天觉得他撞墙了，那你觉得说他接下来不会再像之前发展那么快了。那理论上讲，你应该尽可能的比别人先把这些所有的AI能力给用尽。你在竞争过程中就是别人只有三个人，你就应该用五个人。他用AI你也用AI你五个人还是比三个人做的多。
+</p>
+<p class="transcript-line">
+<span class="time"><strong>[00:22:46]</strong> </span>
+<span class="speaker"><strong>发言人1: </strong></span>
+对，因为最后其实就是如果你拿到的都是已经商品化的一个资源，而且这个资源也很同质化的话，其实就看上面那些差异化的东西在哪里。就比如说假设大家都用预制菜的话，那其实就看谁的店搞得漂亮，什么多人端菜，小妹妹好看，这些花里胡哨的东西就上来了。但是如果在大家菜和差别很大的情况下，菜还是有区别的。现在菜感觉好像短期内也不会有什么花样。
+</p>
+<p class="transcript-line">
+<span class="time"><strong>[00:23:13]</strong> </span>
+<span class="speaker"><strong>发言人2: </strong></span>
+对，现在感觉就是至少从大语言模型，就是说智能这一块感觉就多模态我觉得还有很多空间。但智能这一块感觉目前看起来它再有大规模的发展，跟我们关系也不大，为什么呢？他如果是在比如说这个偏research，说真的偏科研，偏什么解离慢猜想这个东西它能有推动，其实跟我们也没啥关系。第一那个东西是个啥，我们都不是都都没搞清楚过，对吧？
+</p>
+<p class="transcript-line">
+<span class="time"><strong>[00:23:38]</strong> </span>
+<span class="speaker"><strong>发言人1: </strong></span>
+对于你来讲可能是有区别，对于我们现在孵化很多都比较简单，就是那种产品比较简单，所以它你可以理解为就是一个rapper，包的不太多层。但是你们的东西的话，比如说是一个multi agent或者它里面有个flow，甚至那个agent还要多做几次决策。这个时候他其实他的比如说他的幻觉率下降一半对吧？那其实对于这种复杂系统，它其实就间断性就好了，好了巨多。你对一次性，其实比如说你的幻觉是1%还是0.5%没有区别。但是你成立了十次之后，我觉得区别还蛮大的对，所以对于你们这种稍微牛逼一点的公司还是有差别。
+</p>
+<p class="transcript-line">
+<span class="time"><strong>[00:24:17]</strong> </span>
+<span class="speaker"><strong>发言人2: </strong></span>
+我觉得其实问题是这样的，就是说本质上我认为所有人都是在同质化竞争。什么叫所有人都说，因为我也不会去和rapper公司竞争。就是今天有个公司，有一个三个人说我们就来做个包装一下，做个会议纪要，然后我去。那其实我并不我其实不太和他竞争的。因为我们去做这个事情，最后会面临一个是浪费机会成本的问题。这就跟OpenAI是跟ano hic竞争，他其实也不是在跟我竞争，我只是要避免一件事情，就是你会在他的无差别竞争下被淘汰。就是今天可能perf lexi会面临的挑战是在这个无差别竞争中被淘汰。
+</p>
+<p class="transcript-line">
+<span class="time"><strong>[00:24:53]</strong> </span>
+<span class="speaker"><strong>发言人1: </strong></span>
+我也是，你现在还用吗？因为我我是买了那个nanny的news letter pass，我就逼着自己不要浪费钱，还是用几下，他出来的东西质量完全不可不可用。
+</p>
+<p class="transcript-line">
+<span class="time"><strong>[00:25:04]</strong> </span>
+<span class="speaker"><strong>发言人2: </strong></span>
+不是你今天觉得他不可用吗？但是你在deep测试跟这那些模型提供测试之前，你觉得它很好用，真是没有对比就没有伤害。
+</p>
+<p class="transcript-line">
+<span class="time"><strong>[00:25:13]</strong> </span>
+<span class="speaker"><strong>发言人1: </strong></span>
+对，他现在有了deep research，你哪怕不跟deep research比，你跟你就跟thinking比的话，thinking至少比较快一点，对吧？跟优惠的比，优man d出来的东西都好一点。
+</p>
+<p class="transcript-line">
+<span class="time"><strong>[00:25:23]</strong> </span>
+<span class="speaker"><strong>发言人2: </strong></span>
+就是我第一个我称之为说其实大家还是在都是在竞争的，就是每个人面临的竞争都是激烈的。因为你越觉得说你自己要做一个所谓高级的东西，或者你觉得做一个大市场，往往意味着跟你竞争的人或他融资到他的团队，他融到的钱也会更多。今天京东、淘宝、拼多多在竞争你我我今天假设我出来在国内做个微商，对你其实并不和他们竞争。你也不需要担心说，我竞争不过他们，或者说你如果奔着跟他们去竞争，那是你你自不量力，就是你做了一个错误的决策。但是我今天如果我如果出来，比如说咱俩出来说干一个什么事儿，咱我比如说我们就说做，比如说就是做AI to b我们肯定不是和说我就是接单外包8000块钱一个人对吧？我们也不和他们竞争。你所以你说我的交付质量能做的更好，这件事情也没有意义。
+</p>
+<p class="transcript-line">
+<span class="time"><strong>[00:26:16]</strong> </span>
+<span class="speaker"><strong>发言人1: </strong></span>
+那你觉得接下来有什么机会可以抓吗？就比如说我看那个cursor，lovable什么的，反正我就看正在看一些产品他们怎么起来的？其实主要还是因为克拉cloud升级，cloud一升级，牛逼了，这个东西可以用了。然后像那个boat也是，反正每一个讲的故事其实都很坦诚的讲说，我们就已经踩了很久，直到cout几点几S3.0，有些3.5，好了，可以了，可以用了，然后大家就火了。那那这种好事儿，或者哪怕是个cream科比，他们很早就想做那个instant的，就是画画这边一边画，那边就马上就出来。但是直到C30的2年.
+</p>
+<p class="transcript-line">
+<span class="time"><strong>[00:26:58]</strong> </span>
+<span class="speaker"><strong>发言人2: </strong></span>
+前我去硅谷，然后跟那边人那边说，cream这个团队很厉害，他们马上要出一个这个东西了。
+</p>
+<p class="transcript-line">
+<span class="time"><strong>[00:27:04]</strong> </span>
+<span class="speaker"><strong>发言人1: </strong></span>
+对，他们后来还是等到了那个那个叫什么DCF还是什么的谢岱宁他们组做的那个东西。算法等到出来了，发现科技好了，然后这边就已经做好了，甚至于包括说下周看看能不能出一篇大一点的，就是认真写一篇稿子，但AI辅助一下，但是还是自己认真写篇稿子。比如说伽马是怎么做做成的，他们之前已经花了好长的时间在那边做卡片化视觉表达这些东西，然后等到AAI可以了，AAI可以帮你画个图，也可以帮你写文字。还有没有这种我们可以提前在那边先搞六个月，然后等着出现啥的？
+</p>
+<p class="transcript-line">
+<span class="time"><strong>[00:27:39]</strong> </span>
+<span class="speaker"><strong>发言人2: </strong></span>
+其实有几个，第一个就又回到了早期互联网的时光机理论，就是你做国内市场其实是存在的，为什么呢？就国内市场你会看到今天头部的模型差不多就是落后海外的模型。六个月左右，对吧？就是今天你看千问code 3出来了，或者钎image出来，它其实就比什么flux要晚个三个月到半年，它就比cloud 3.5就今天千问3q coder这种模型能力也上来了，包括我的自己的内部我们不知道。但是大家普遍都推测字节内部的模型也是差不多是同等水平，应该也就是落后海外头部的乐观的人说三个月对吧？悲观的人说六个月，再怎么悲观也就最多是一年。我觉得三个月6个月的逻辑是你就的确可以现在先把海外什么东西火在国内先做它的模型能力虽然跟不上，但是等你做的差不多，各种基建产品，什么团队，大家差不多国内的模型就差不多就六个月过去了，对吧？然后国内的模型就到了今天海外模型的能力。
+</p>
+<p class="transcript-line">
+<span class="time"><strong>[00:28:42]</strong> </span>
+<span class="speaker"><strong>发言人1: </strong></span>
+那你不是应该直接做海外市场吗？然后的产品也打磨好了，然后再看国内能不能切模型直接换。
+</p>
+<p class="transcript-line">
+<span class="time"><strong>[00:28:49]</strong> </span>
+<span class="speaker"><strong>发言人2: </strong></span>
+那是另外一家海外市场。如果你今天从零开始做，那你其实是比你的竞争对手不一定是领先的。但你从国内做就是时光机里，对吧？就是你做海外市场，那就是你当然可以立刻做。但是第一个我觉得不一定是所有人都应该出海，对不对？
+</p>
+<p class="transcript-line">
+<span class="time"><strong>[00:29:07]</strong> </span>
+<span class="speaker"><strong>发言人1: </strong></span>
+对你这个道理的话，比如说海外之前火过一波的就是像什么科技，拉verb这种东西，但是国内现在还没有一家跑出来，为什么？就是在理论上来讲，这个时间也到了。
+</p>
+<p class="transcript-line">
+<span class="time"><strong>[00:29:19]</strong> </span>
+<span class="speaker"><strong>发言人2: </strong></span>
+那那你还是得去看，就是说卡拉根第一个国内的用户付费意愿就是弱，对不对？那不是说海外的，是我认为海外这个事情他也会搬到国内，他也会成立。但它成立在国内可能是另一种形式的市场。就是比如海外SARS其实成熟了很多年，你搬到国内一直不成立，对不对？Maybe今天你说AI coding的这个逻辑，maybe你应该学augment code，你就专门做to b的用户，而不是去做面向open克扣的。早年起家是专门做to b的，就是尽量做大的企业用户。
+</p>
+<p class="transcript-line">
+<span class="time"><strong>[00:29:51]</strong> </span>
+<span class="speaker"><strong>发言人1: </strong></span>
+现在有一种说法，反倒是说to b的那种脏活累活，反倒现在是看起来是比较合理的一个打法。大家现在开始羡慕plan teer，因为其他人就会感觉，比如说大家用cursor，结果cloud code一效果好一。呜呜呜呜泱泱一票人就都跑到克拉克的去了，就在说plantier就没有这个问题，因为部署一下要一年。
+</p>
+<p class="transcript-line">
+<span class="time"><strong>[00:30:13]</strong> </span>
+<span class="speaker"><strong>发言人2: </strong></span>
+对，我所以我觉得不是说第二个是说你看其他的产品，你不一定要是看也还是有挺多场景的，一些偏娱乐的场景，偏教育的场景。关键是哪些场景搬回来在国内是比较适合国情也好，或者用户喜欢也好，对吧？因为就像我们做的产品去海外，是因为国内的电商市场是高度集中的。你做任何你想在电商去做偏流量入口，偏这个事情在国内是一定不成立的对吧？但是在海外，在美国它可能是成立的，它的电商是碎片化的对吧？那你可以说所以我们可以去海外做类似这样的产品，那在国内这事情就做不了。这个跟你技术好坏，水平高低，我觉得都没有关系。就同样的产品形态，因为你不可能在什么字节、小红书、淘宝这些人的在大树底下肯定是不长草的。
+</p>
+<p class="transcript-line">
+<span class="time"><strong>[00:31:03]</strong> </span>
+<span class="speaker"><strong>发言人1: </strong></span>
+还有一件事情有点尴尬，就是如果是太刚需的需求的话，大家现在会都还是用海外的东西。就比如说cloud code。我听说有做相当于做回产中介的人的话，就是那个那个流水巨大。帮助大家用到cloud code，然后听到的数字是天文数字。
+</p>
+<p class="transcript-line">
+<span class="time"><strong>[00:31:23]</strong> </span>
+<span class="speaker"><strong>发言人2: </strong></span>
+会觉得你去闲鱼上搜一下科技，有好多人在低价卖各种特色的免费账号吗？
+</p>
+<p class="transcript-line">
+<span class="time"><strong>[00:31:36]</strong> </span>
+<span class="speaker"><strong>发言人1: </strong></span>
+如果我们不讲时光机，因为这个就相当于是作弊，但是其实也挺难抄的。还有就是整体上从技术上看的话，哪怕我们做的是海外，哪怕用的是海外模型，你觉得六个月之后有什么红利可以吃吗？
+</p>
+<p class="transcript-line">
+<span class="time"><strong>[00:31:50]</strong> </span>
+<span class="speaker"><strong>发言人2: </strong></span>
+我会倾向于在多模态，motor modalities，不管是视频生成也好，图片生成也好，因为在这个场景下，今天的模型有点像GPT3.5，它很惊艳，但是它又没有那么高效率。就是你今天用VO3做个视频，你是觉得特别高级对吧？但他又不是任何人上来一句prompt成本很低的，给了你一个你立刻就能用起来。但这件事情我相信一定会发生，就是你就看一代一代的视频生成模型效果越来越好。图片生成模型的指令控制能力越来越强，然后视频撑不撑的成本越来越低，对不对？
+</p>
+<p class="transcript-line">
+<span class="time"><strong>[00:32:29]</strong> </span>
+<span class="speaker"><strong>发言人2: </strong></span>
+所以从这个逻辑来讲说，我相信有些东西是确定性的。就是未来六个月它一定有点像从GPT3.5它到不到GPT4，我不确定它到3.7、3.8对不对？然后成本会下降一个数量级，这件事情我觉得是确定的，能不能到4或者卡拉克的3.5这种水平，我觉得不确定。对，但是我觉得他是一个确定性的，其实是可以多看一下多模态，因为多模态在海外相比LM其实是个小的多的。此时此刻的整个mark side还是小多的对我们所有对绝大部分人来讲，人天生还是抖音为什么比为什么DAU高？就是因为人天生还是个视觉动物。
+</p>
+<p class="transcript-line">
+<span class="time"><strong>[00:33:10]</strong> </span>
+<span class="speaker"><strong>发言人1: </strong></span>
+那我们现在就应该去见场景，等着他牛逼了。比如说我们做一个就是我随便讲，比如说叫做一键出去出剧本，然后帮你拍什么同人小电影什么的。对，因为卷模型就是留给那些模型的人去卷，他们就肯定会把它越卷越便宜，越卷越好。
+</p>
+<p class="transcript-line">
+<span class="time"><strong>[00:33:29]</strong> </span>
+<span class="speaker"><strong>发言人2: </strong></span>
+但是这个事情又难，就难在说那个产品形态到底是什么不确定。因为我们看到火的这些什么loveable，什么augment code也好，还是color code也好，它还是个更偏效率场景，它还是个非常明确的效率场景。但是多模态的效率场景在个人用户或者pru的这个群体到底还是比那LMU要小一些的。如果是偏娱乐的场景，我觉得它一定是个新形态，这个事情就得是偏F片娱乐的场景，它不应该是它你又没办法确定它形态一定长什么样。
+</p>
+<p class="transcript-line">
+<span class="time"><strong>[00:34:04]</strong> </span>
+<span class="speaker"><strong>发言人1: </strong></span>
+我最近看一篇文章，它这个中间用了一个词，我觉得挺有意思的。就是他管我们的手机终端，还是叫端，但是他管那个比如说对话这种东西，他管他叫体裁。体裁的话他其实又约束了很多东西。他在比如说对话和GY或者说跟如果是更多模态的生成的话，它还会是手机的这个界面是最好的展示。看起来看起听起来还是不。
+</p>
+<p class="transcript-line">
+<span class="time"><strong>[00:34:34]</strong> </span>
+<span class="speaker"><strong>发言人2: </strong></span>
+我觉得最大的挑战是在于说今天手机是你的器官，不是你的界面。
+</p>
+<p class="transcript-line">
+<span class="time"><strong>[00:34:40]</strong> </span>
+<span class="speaker"><strong>发言人1: </strong></span>
+所以我们还有一个奇怪的思路，就是在想说有没有可能他一开始是一个寄生虫，它可以寄生在手机上，类似于cloud帮他补一些什么东西，就比如说补电池好了，充电，然后补音频的收入，或者补一个什么什么零的灵动岛，补一个是补一个NFC，他通过补充的时候寄生在这个器官上面。然后的话但是他可以跟AI原生的去符合AI这边的一些题材，比如说对话好了。对，就是你就不用唤起手机，唤起手机就是手机还有很多它的历史的负担吗？有没有可能有这样的一种硬件形态也在思考。我不知道。
+</p>
+<p class="transcript-line">
+<span class="time"><strong>[00:35:19]</strong> </span>
+<span class="speaker"><strong>发言人2: </strong></span>
+就是我觉得是两个，第一个是肯定有，就是我们其实有很多一些形态，我们其实我们之前也探讨，我们一直觉得说对未来家里应该有个，我们一直觉得因为大家有privacy，有隐私，所以你一定不会把自己的银行卡密码什么的直接就发给ChatGPT，这个实在太太不能接受了。
+</p>
+<p class="transcript-line">
+<span class="time"><strong>[00:35:38]</strong> </span>
+<span class="speaker"><strong>发言人1: </strong></span>
+对吧？要有一个AI station nas。
+</p>
+<p class="transcript-line">
+<span class="time"><strong>[00:35:41]</strong> </span>
+<span class="speaker"><strong>发言人2: </strong></span>
+但是这些所有这些产品所有这些硬件产品，今天你很难避免的两个问题。第一个是我觉得在国内可能更明显，就手机是你的，我们称之为叫手机是你的器官。什么叫手机是你的器官呢？就是你上厕所也一定会拿着手机，对吧？就是我在办公室我即使是去上厕所可能就来回走两分钟，我习惯性会把手机揣揣兜里，对不对？所以你并不会说因为我上厕所就是两分钟，其实这个路上我不需要看手机，所以我不带手机。反正在办公室也不会有人偷，不会有人拿，对不对？都有监控，你也不会有这种担心。但是你习惯性的把手机就会带，永远随身带着。我的我觉得这个的面临的问题是说，因为过去这十几年，手机把我们规培训的粘性实在太高了，所以你很难抛弃它它比PC也好比电视也好，对你的粘性都要高非常多，因为你永远带着它过去。这十几年里。
+</p>
+<p class="transcript-line">
+<span class="time"><strong>[00:36:37]</strong> </span>
+<span class="speaker"><strong>发言人1: </strong></span>
+我们如果刚刚你讲到比如说视觉听觉，那理论上来讲我们总归得有一个地方放。不管它是屏幕也好，投影也好，或者投打到我眼睛里也好。听觉的话还是得有耳朵听，不管是接外放也好。他现在唯一的区别其实是跟过去的区别其实是生成。过去其实播放就看生成这件事情。它但是如果是云端生成的话，对于我本机就是播放，主要是手机，也不是手机了。以前我们讲的手机其实是部电话，现在他就是有有什么东西他就吃进去了，他现在连AI芯片都有，对吧？
+</p>
+<p class="transcript-line">
+<span class="time"><strong>[00:37:13]</strong> </span>
+<span class="speaker"><strong>发言人2: </strong></span>
+这苹果接下来不是先扯了一圈，又要跟google的gam绑在一起吗？那个apple的不是自己说本来自己做模型吗？现在最近不是在传说在还是跟就跟苹果safari的搜索是被google默认内置的，最后可能是内置google的dream I。
+</p>
+<p class="transcript-line">
+<span class="time"><strong>[00:37:31]</strong> </span>
+<span class="speaker"><strong>发言人1: </strong></span>
+这个非常合理，因为他们自己做的实在是太烂了。
+</p>
+<p class="transcript-line">
+<span class="time"><strong>[00:37:34]</strong> </span>
+<span class="speaker"><strong>发言人2: </strong></span>
+所以这当中其实有另外一个机会在手机上，这是一个推测。我觉得还是有可能未来会发生个什么事儿呢？就是手机内都有芯片，并且都内置了模型，并且你做APP都可以调用内置模型的能力来部分解决隐私问题。
+</p>
+<p class="transcript-line">
+<span class="time"><strong>[00:37:51]</strong> </span>
+<span class="speaker"><strong>发言人1: </strong></span>
+应该会的，苹果不就会。然后google那个AI跟我讲说你要等什么哪一版发布。对。
+</p>
+<p class="transcript-line">
+<span class="time"><strong>[00:37:57]</strong> </span>
+<span class="speaker"><strong>发言人2: </strong></span>
+也会对对，但也会。所以从这个逻实际上来讲，可以去想一想，就是当这个模型的能力在端侧响应比较快的话，会有什么新的产品形态出来。
+</p>
+<p class="transcript-line">
+<span class="time"><strong>[00:38:07]</strong> </span>
+<span class="speaker"><strong>发言人1: </strong></span>
+举个例子来讲，如果比较快，就有点类似于那个LCM你可以把那个绘画的延迟降到0。如果我们可以类似的逻辑的话，其实就如果是chat的话，其实会感受不到。因为你说一句话，我说一句话，但是如果是GUI的来控制文字的话，就很容易感受到了。就比如说我们之前聊过那个开玩笑的，就是比如说一段话，你觉得想要把它搞长一点，你就直接手指头就拨一下，对吧？把把那个那个文本框放大，它的字儿就变多了。如果他反应足够快的话，那这些事情就都可以做了。他其实应该是一个不是对话的形态，它应该是这种类似于手把它拨拉一下就可以干嘛的这种形态。你最近有看到什么好玩的应用吗？
+</p>
+<p class="transcript-line">
+<span class="time"><strong>[00:38:52]</strong> </span>
+<span class="speaker"><strong>发言人2: </strong></span>
+最近有一个朋友做了一个应用，但是我其实还没就是叫knock knock你可以去试一下叫因为他的视频版本不太对，但是类四视频生成的社区。
+</p>
+<p class="transcript-line">
+<span class="time"><strong>[00:39:01]</strong> </span>
+<span class="speaker"><strong>发言人1: </strong></span>
+那不就视频版的mini journey的那种disco频道，它还是个APP。
+</p>
+<p class="transcript-line">
+<span class="time"><strong>[00:39:05]</strong> </span>
+<span class="speaker"><strong>发言人2: </strong></span>
+然后我也刚开始用，因为是一个熟悉的朋友做的。你营销上有没有。
+</p>
+<p class="transcript-line">
+<span class="time"><strong>[00:39:09]</strong> </span>
+<span class="speaker"><strong>发言人1: </strong></span>
+什么什么可以分享的呢？如果我要搞营销的话，最近应该投什么？
+</p>
+<p class="transcript-line">
+<span class="time"><strong>[00:39:14]</strong> </span>
+<span class="speaker"><strong>发言人2: </strong></span>
+我自己反正干也不能这样营销。就是我们去做了一些是从营销层面根据数据反馈去做去搭去再优化一些流程体系跟数据优化。我自己的几个体会第一个是先泼一个冷水。我认为所有今天那些吹牛做AI营销的人，他们编的故事跟实际能做的事情差太实际能够做到的效果会差距会非常大。
+</p>
+<p class="transcript-line">
+<span class="time"><strong>[00:39:38]</strong> </span>
+<span class="speaker"><strong>发言人1: </strong></span>
+你说的AI营销是说那些AI营销工具吗？就是比如说一些说我自动帮你找KL，一些说我自动帮你根据数据优化你的那个素材，是说这种工具吗？
+</p>
+<p class="transcript-line">
+<span class="time"><strong>[00:39:49]</strong> </span>
+<span class="speaker"><strong>发言人2: </strong></span>
+还是说对我我就说这种工具就是我就几个场，你把它当成一个比较轻的SARS。我觉得有些工具是有用的，但它可能更大的价值在还是跟上一代的SARS是一样的。是我已经有了信息跟数据，而不是它的AI能力。就是因为我自己我们做了一段时间的数据优化，无论是说是生成素材就非常明确的。就是说你如果没有一个好的素材，剪辑师AI对你就是没有用的。如果你有一个好的素材，剪辑师AI也许对它能有一定的辅助。我们说如果如果要规模化的做这个事情。
+</p>
+<p class="transcript-line">
+<span class="time"><strong>[00:40:26]</strong> </span>
+<span class="speaker"><strong>发言人1: </strong></span>
+这些广告里面比如说什么icon、top you，他们会自动的根据什么现在当场什么火帮你做，根据你的素材做剪辑，所以从你们试下来其实都没有广告那么好是吧？
+</p>
+<p class="transcript-line">
+<span class="time"><strong>[00:40:39]</strong> </span>
+<span class="speaker"><strong>发言人2: </strong></span>
+不是，是第一个是今天的广告。就今天的广告大家如果是投不管投哪个国家都一样。其实是最主要的流量来源是社媒。我海外tiktok、instagram、meta对吧？国内可能是抖音。
+</p>
+<p class="transcript-line">
+<span class="time"><strong>[00:40:53]</strong> </span>
+<span class="speaker"><strong>发言人2: </strong></span>
+快手其实这些广告其实还是比较讲对素材的要求其实挺高的。它比较讲究，我们称之为叫活人感。这今之所以所有今天AI生成的素材，其实是都做不到这一点。而且对大部分的公司来讲，它的挑战不在于做微观的优化。微观的优化就是说我这个字，而是在做宏观的优化。但是从宏观的优化上来讲，它其实还是看你这个story line是怎么样，你这个节奏卡点是怎么样，你的活人感是怎么样，这些今天其实AI做的都不好。
+</p>
+<p class="transcript-line">
+<span class="time"><strong>[00:41:27]</strong> </span>
+<span class="speaker"><strong>发言人2: </strong></span>
+我自己的观察其实就是AI就是AI今天出的图也好，出的视频也好，还是挺AI的，一眼看出来它能是AI当然我我我模型本身在进步，在做这些事儿。但是你其实要做到说针对你的产品做的特别合适，这个事情我觉得比较难。或者说他只能解决那些原来连五十分都五六十分都做不到的人，不或者30分都做不到的人。可能AI因为有了，原来你可能什么人也没有，对不对？然后你只能随便去招一个5000块钱的人，然后来做一个到三四十分的东西，你投出去你觉得也挺好的。但是其实你那个东西也在市场上，并不能帮你从营销侧带来任何一点点的竞争优势。因为市场上真正最头部的人还是都做到了80分的了解。
+</p>
+<p class="transcript-line">
+<span class="time"><strong>[00:42:18]</strong> </span>
+<span class="speaker"><strong>发言人1: </strong></span>
+但是那那按照你这个逻辑，他应该就比如说他去做一个小龙虾店什么的，那这种的话它的竞争对手也并没有做到80分。矛盾。
+</p>
+<p class="transcript-line">
+<span class="time"><strong>[00:42:27]</strong> </span>
+<span class="speaker"><strong>发言人2: </strong></span>
+对对对，但是如果你作为一个AI营销工具，你要在一个小笼新S店上靠它能够挣到钱就很难。因为我觉得大家都我觉得市场上今天的AI游戏工营销工具都严重over commitment了。我认为是大概率它其实是他的，就是他可能获客未必差，甚至早期也会有收入。但是这很主观，我也没有看过别人的数据，我也不知道别人数据长什么样，自己尝试的感觉就是这样。就是我们自己in house来做，就内部来做营销，不管是广告投放还是各种有一些什么，反正这就是什么SEOSEM广告投放KOL对吧？就是主流的渠道，就是国内海外主流其实都是这些渠道。我称之为说那些告诉你说你用了我整个的工具，你就我就帮你把CMO这事儿干了，把你整个营销团队这事儿干了。这个事情是严重over commitment，是他肯定是做不到的。做不到最简单的一点就是他做的创意素材在社媒这样的营销平台上基本上是最烂的素材。
+</p>
+<p class="transcript-line">
+<span class="time"><strong>[00:43:31]</strong> </span>
+<span class="speaker"><strong>发言人1: </strong></span>
+根本用户不会点。就是那个那个问题，一个就是我我也在社媒上面看到了大量很垃圾的素材，但是我觉得他垃圾，因为重复出现，所以我觉得说不定是有道理的。就比如说我跟你讲说，王总这个价格不能再降了，就是你一看就拍的特别浮夸，特别假的。这种东西你会看到好多遍，或者什么昨前天你不买，昨天你不买，今天什么的，就是这种套路非常明确的那些东西就很糙，但是他在反复出现是不是？其实有很多套路型的东西其实没有不需要做那么好。就是某一个套路有效的话，疯狂的上一批。
+</p>
+<p class="transcript-line">
+<span class="time"><strong>[00:44:07]</strong> </span>
+<span class="speaker"><strong>发言人2: </strong></span>
+我觉得这个取决于你自己是谁，以及这个套路是不是对你的受众或者用户特别有效。我举个例子，比方说你去看特穆，就是拼多多TT mil对吧？我们我们就我们叫他特穆，还用拼音叫。他在海外也有很多这种，就是你去看他们在海外投放的广告素材都有很多都是什么？就很就像你说的很浮夸的剧情。什么老板跟你拍桌子说我这个东西就只要一块钱，他们说那肯定是个骗子，不拉对吧？他是很浮夸，但它的确有效。
+</p>
+<p class="transcript-line">
+<span class="time"><strong>[00:44:43]</strong> </span>
+<span class="speaker"><strong>发言人2: </strong></span>
+有效的原因我觉得是说他把他的这个核心想法传递的非常清晰。然后你的试错对于用户来讲试错成本又非常低。然后他带来的同时，他在履约上又能真的做到这9.9块的确买到了那个东西。但是他的这些视频其实又是很有活人感的，他其实又又是真都是真人拍摄的，而且真人拍摄的成本其实很低，其实并不高。就当他规模化的来做这个事情，其实并不高，对他来讲其实并不高。但你如果今天是个小公司，做一个新产品其实是很难的。是你用同样的套路真的能够吸引到，就是指吸引到的用户是不是你未必能够留存的下来。
+</p>
+<p class="transcript-line">
+<span class="time"><strong>[00:45:26]</strong> </span>
+<span class="speaker"><strong>发言人2: </strong></span>
+就是因为特务，对，我没关系。他他本身是试错过程，你看到的是说他试错剩下来的内容，并不是说任何一个浮夸的他都一定能成功。但是大部分start面临的挑战是说，他没有特么那么厚的血条给他来试错。
+</p>
+<p class="transcript-line">
+<span class="time"><strong>[00:45:41]</strong> </span>
+<span class="speaker"><strong>发言人1: </strong></span>
+但是我因为最近会跟一些偏传统的公司大家比较多，还没到营销环节。但是比如说你产品环节好了，AI做的产品，比如说让AI帮你写个PRD，你肯定是看不下去的。我现在发现就是能够写出完整篇大的，我们先不管它的质量好坏，就是能够把写出很多的字儿的文档的公司，其实有应该十家公司里面有九家做不到。就是叫做说能够把一件事儿能够写完整，就质量先不管什么有没有洞察用户，不不不不不要不需要洞察用户，就是你把这事儿写写到了就这个我们发现这是一个非常高级的能力。就是在互联网公司可能就是或者你你你以前营销，对吧？会不会是世界上其实有大量的人是没有这个能力的，所以他其实要的就是一个50分的东西，就可其实已经很好。而且我说的并不是小公司，并不是你说的三个人的小公司，就是有大量的。
+</p>
+<p class="transcript-line">
+<span class="time"><strong>[00:46:40]</strong> </span>
+<span class="speaker"><strong>发言人1: </strong></span>
+我随便举个例子，比如说他是一个中国的游戏公司，他现在要做海外营销，很有可能他的初始的能力就是20分。对，或者说他是一个team的卖家，但是他只在team上面做过广告，他没有做过tiktok。这个时候他其实有可能是是不是就是20分，他AI就是50分好了。其实市场最大的市场是不是就是20分到50分这.
+</p>
+<p class="transcript-line">
+<span class="time"><strong>[00:47:06]</strong> </span>
+<span class="speaker"><strong>发言人2: </strong></span>
+一段是最大。我我我自己的感觉不是，因为我觉得营销是一个高投入且高杠杆的领域。第一个是营销，其实往往是很多公司最花钱的领域。所以它的效率高低其实有时候比你研发效率高低都重要，对吧？这是第一个。所以它上面50分跟60分，50分跟90分其实是不能掉以轻心的。
+</p>
+<p class="transcript-line">
+<span class="time"><strong>[00:47:27]</strong> </span>
+<span class="speaker"><strong>发言人2: </strong></span>
+我觉得第二个营销为什么说是高杠杆的呢？是如果我有一些好的创意素材、营销方式或者渠道，它是能够靠钱快速扩大的。所以你其实对大家来讲是挑战，是找到那个点。我可以有很多垃圾，但是那个垃圾本质上是我测出来它不行，而不是我天然知道它是垃圾，而是我觉得它行，但实际试下来不行，这种垃圾你是可以接受的。这个本质上是你在不断的试错，但不太能接受的时候，你知道他就是50分，你就他那他一定在市场上是跑不出来的。
+</p>
+<p class="transcript-line">
+<span class="time"><strong>[00:48:02]</strong> </span>
+<span class="speaker"><strong>发言人1: </strong></span>
+好的，没问题。那先接受你第一条，就是说那个AI的那些工具没那么好用。对，然后第二节还有啥别的？最近的你们交的学费吗？
+</p>
+<p class="transcript-line">
+<span class="time"><strong>[00:48:11]</strong> </span>
+<span class="speaker"><strong>发言人2: </strong></span>
+我最近的一个感觉是还是得回头看看吧，利用AI把产品对用户的真实体验可能得打磨的更细致更好一些。
+</p>
+<p class="transcript-line">
+<span class="time"><strong>[00:48:21]</strong> </span>
+<span class="speaker"><strong>发言人1: </strong></span>
+是哪种打磨？
+</p>
+<p class="transcript-line">
+<span class="time"><strong>[00:48:22]</strong> </span>
+<span class="speaker"><strong>发言人2: </strong></span>
+效果层面的打磨。就回到我们开头讲，比如说今天你觉得g GPT5不好，或者你觉得他非常不好，你一定会抛弃他。你不用去讲其他的什么，我营销做的好不好，什么我的内部效率高不高，就面向用户的这个市场还是挺无情的。就是说这个产品如果在一些用户感觉这个东西没有另外那个东西好用，或者这个东西我觉得用起来就很一般。你在其他地方做再多工作也没有用。那么就取决于你是不是能够利用AI的模型的能力，把这个事儿真的做的比较好。
+</p>
+<p class="transcript-line">
+<span class="time"><strong>[00:48:58]</strong> </span>
+<span class="speaker"><strong>发言人1: </strong></span>
+你这个我刚好早几天聊到一个段子，可以辅助做一下，讲讲一下。就是一方面你要效果好吗？GPT OpenAI肯定觉得它效果好，但是我们感觉不到。
+</p>
+<p class="transcript-line">
+<span class="time"><strong>[00:49:09]</strong> </span>
+<span class="speaker"><strong>发言人1: </strong></span>
+所以对于做产品的人来讲，还有一个很重要的就是你如何可以让用户感觉到一听一个那个做，就早几天听一个做芯片的朋友跟我讲说他们之前他是在某芯片公司，然后说他们当年芯片已经很好很牛逼了，但是用户毫无感觉。然后他们的最后的策略是开始出那个一体机，就出那个迷你小机器。因为只有芯片好到一定程度，散热什么都能解决，才能把它塞进去。然后竞争对手塞不进去，这个时候就差异化就让大家感受到了，原来这个东西确实只有你们有。但是你说你比如说跑分儿比竞争对手其实已经好了20%，就是用户感觉不到。
+</p>
+<p class="transcript-line">
+<span class="time"><strong>[00:49:50]</strong> </span>
+<span class="speaker"><strong>发言人1: </strong></span>
+最后他们的方法是说我们出个机子把它塞的巨小。然后这个时候的话，经营的时候你跟你跟不了，因为你的芯片不行。我说。有道理，这样子就能够感受得到的，就是为塞小而塞小。
+</p>
+<p class="transcript-line">
+<span class="time"><strong>[00:50:04]</strong> </span>
+<span class="speaker"><strong>发言人2: </strong></span>
+对对对，这是为什么那些人要去评分，要做PR，要做这些事情，本质上就是让用户觉得你更好，对吧？就是我20美元，那我肯定去用一个我觉得更好的那个东西。
+</p>
+<p class="transcript-line">
+<span class="time"><strong>[00:50:16]</strong> </span>
+<span class="speaker"><strong>发言人1: </strong></span>
+所以一个就是要创造这种要感知到的价值。还有一个点的话，我最近这两天在，因为我最近被伽玛惊艳到了，越来越发现伽马这个东西很牛逼的一件事情，就是他早期打的那个点。是让用户特别能够理容易理解的说AIPPT对吧？一句话讲完就不需要解释了。然后用户就会会自己脑补说就有一个AI帮我写好一个PPT。然后上次写PPT都不爽，反正就脑补就很很容易搞。
+</p>
+<p class="transcript-line">
+<span class="time"><strong>[00:50:43]</strong> </span>
+<span class="speaker"><strong>发言人1: </strong></span>
+但是实际上他做的东西又不是AIPPT，他做了一个他其实帮你做了个网页，就是很方便的，类似于notion那样的，就是baby notion跟视觉化的网页。大家对notion可能理解成一个网页版的word，但是对于它是网页版PPT，在网页版PPT你就是会通过网页分享给别人，分享给别人他的链接就带上了，然后你顺便就可以打开了。这东西它的传播性天然就出来了，就比PPT就好出来。
+</p>
+<p class="transcript-line">
+<span class="time"><strong>[00:51:11]</strong> </span>
+<span class="speaker"><strong>发言人1: </strong></span>
+因为PPT你用power point，比如说你用2025做的还是2020做的，其实我根本不care，我也感觉不到。所以觉得他这个设计也是很很奥妙的一个点。就觉得这设计本身说传播也是，就包括manus把那个录屏和播放做成了第一版的一个默认功能。当时看到也就觉得说你们怎么想的太牛逼了，所以产品本身也得不能光等着营销去做营销吗？产品本身也得做为为传播，为用户感觉来设计。那你有什么想法吗？这边还可以做点什么东西？产品上有没有什么设计思路上的一些感想？
+</p>
+<p class="transcript-line">
+<span class="time"><strong>[00:51:49]</strong> </span>
+<span class="speaker"><strong>发言人2: </strong></span>
+可能是也是个暴论，就是我觉得现在其实是有蛮多的大机会的。为什么有蛮多的大机会？我解释一下，这是从另外一个维度去理解。这个大机会在于说在移动互联的理解，从0到1做很多产品的这些逻辑的这个人，其实已经没有再在创业公司中出现了。所以其他所有人都在重复学习研究移动互联网和互联网书中大家已经总结出来的经验知识。
+</p>
+<p class="transcript-line">
+<span class="time"><strong>[00:52:23]</strong> </span>
+<span class="speaker"><strong>发言人2: </strong></span>
+我解释就是你刚才说的传播这个事情，其实在做移动互联网的时候，大家疯狂研究过是怎么做病毒式营销，怎么做传播，怎么去做referral，怎么去看用户流失，怎么去看这个东西。但是，你今天会在市场上发现说，比如你这个创业公司你要招一个人，你会发现其实大部分人不太理解这件事情。因为最聪明的人都去大厂当螺丝钉了，对吧？就今天比如说2018年19年毕业的人，你比如说我们是交大毕业的人，他其实没有去创业公司，他去了自己去了拼多多，然后他在一个巨大的成熟的体系里再当螺丝钉。对然后真正了解这个人，今天已经是一个非常高的高管他其实今天他可能也不去看这么细的或者关心那些事情。他他他的内部有开不完的会。
+</p>
+<p class="transcript-line">
+<span class="time"><strong>[00:53:17]</strong> </span>
+<span class="speaker"><strong>发言人1: </strong></span>
+听完你讲，我顿时觉得我自己更值钱了。
+</p>
+<p class="transcript-line">
+<span class="time"><strong>[00:53:20]</strong> </span>
+<span class="speaker"><strong>发言人2: </strong></span>
+就是我自己会发现一个问题，就是有些道理你看这个事情没做的原因是什么？原因可能并不是说原因是大家今天你很容易找到被他背景很多优秀优优秀背景的人，但是他其实又在做移动互联网0到1试错的很多事，这是我我的一个感受。当然可能也许是我们自己做的不对，就是有很多事情没做好。但是这是我最近因为我在看广告投放的效率优化什么样子，就我们我慢慢开始有这个感觉，就是这个事儿你说我发一本十年前讲互联网的什么增长黑客的书，找一个找一本什么顾客的，就怎么设计这种用户的户客点的这个书。我这书不十年前的吗？对不对？但你想一想，这个书是讲的道理。今天其实一样能用。因为你今天还是在不管是手机还是PC上做，就是你的传播媒介其实还没有变。今天你的传播媒介并没有大变，就特别你做C端产品对吧？
+</p>
+<p class="transcript-line">
+<span class="time"><strong>[00:54:21]</strong> </span>
+<span class="speaker"><strong>发言人2: </strong></span>
+但是你会发现有一个有意思的现象，就是说年轻人其实不看这些书，因为他也没有机会去做产品从0到1怎么增长这个过程。他在小公司里那就就没有这个资源，或者没有这个东西让他去试投放是什么东西。他在一个大公司可能分工非常细。
+</p>
+<p class="transcript-line">
+<span class="time"><strong>[00:54:39]</strong> </span>
+<span class="speaker"><strong>发言人1: </strong></span>
+对，这个只有在比如说1112或者1516那两波的话，就会有很多大量的不靠谱的公司出来。然后每家公司都会就有试各种奇迹引出来的那乱七八糟的打法。我们当年也是各种甚至跑到草溜上去做。这是户口。你这样讲确实倒是是挺好的。这样子至少就我这两天在面试几位在招人，招招一个techy cooter。然后面试对象都是很坦诚的说，年纪在中国市场受到了很严重的歧视，都是我们这个年纪的。
+</p>
+<p class="transcript-line">
+<span class="time"><strong>[00:55:15]</strong> </span>
+<span class="speaker"><strong>发言人2: </strong></span>
+那我理解肯定会受歧视，我们也出去也受歧视了一样的。
+</p>
+<p class="transcript-line">
+<span class="time"><strong>[00:55:19]</strong> </span>
+<span class="speaker"><strong>发言人1: </strong></span>
+按你这样讲的话，至少对于这种就我们这个年纪的同学们来讲，还是一个安慰。就是你之前打过的仗，现在其实还是算数的，这个经验还是有点用的，不要盲目崇拜年轻人对吧？还有其他的感想吗？这个时候他提供情绪价值了。
+</p>
+<p class="transcript-line">
+<span class="time"><strong>[00:55:35]</strong> </span>
+<span class="speaker"><strong>发言人2: </strong></span>
+其他的感想保重身体。我相信你跟我一样，还是相信AI是个大事儿。对，是个超级大的事儿。那么你觉得到今天已经被拿走的价值有多少呢？就已经产生实际变成钱被人拿走的价值有多少，其实非常少，怎么怎么再怎么讲还是非常少的。所谓再明星的公司，今天在市场上就最头部的明星公司，大家看着都都很知名的这些公司你去。但其实也有生存危机。
+</p>
+<p class="transcript-line">
+<span class="time"><strong>[00:56:02]</strong> </span>
+<span class="speaker"><strong>发言人2: </strong></span>
+我觉得P科斯今天其实又遇到一轮新的生存危机。因为他在做的是一个负毛利的业务，包括财报他都都发过。然后大家看了他财报说为什么对为什么你的AWS的成本不算在你的成本里呢？
+</p>
+<p class="transcript-line">
+<span class="time"><strong>[00:56:15]</strong> </span>
+<span class="speaker"><strong>发言人1: </strong></span>
+亏本的批发转零售。
+</p>
+<p class="transcript-line">
+<span class="time"><strong>[00:56:17]</strong> </span>
+<span class="speaker"><strong>发言人2: </strong></span>
+你托管那些模型的成本不算在你成本里，不合理，这个钱你花了就花了。
+</p>
+<p class="transcript-line">
+<span class="time"><strong>[00:56:22]</strong> </span>
+<span class="speaker"><strong>发言人1: </strong></span>
+我觉得保重身体是最重要。就是我现在是一旦比如说工作卡壳或者我想逃避工作，我就去运动。就是工作的进展很小，但是身体日益好了些。
+</p>
+<p class="transcript-line">
+<span class="time"><strong>[00:56:33]</strong> </span>
+<span class="speaker"><strong>发言人1: </strong></span>
+我觉得还有另外一个角度解释为什么要保重身体，就是我们不一定最后我们能够去创造那个价值，或者抢到那个市场份额太难了。不一定我们也是消费者，对吧？你多活个十年，很有可能你最后10年看到的一个非常奇怪的一个，就比如说可能可以十块钱买张票上火星，对吧？这种事情是有可能发生的，就是只要你多活个。比如说假设我们原本是80岁挂掉，有可能就在80岁之后的10年，对吧？90岁你可能就十块钱可以上火星，可能在80岁的时候还要比如说100万美金，90岁的时候可能就是十块钱人民币，多活久一点。从消费者的角度，你是一定可以享受到最后那个基点的临近的科技带来的很有趣的事情发生。所以多保重身体挺好的。
+</p>
+<p class="transcript-line">
+<span class="time"><strong>[00:57:22]</strong> </span>
+<span class="speaker"><strong>发言人2: </strong></span>
+有没有什么具体的？我现在就尽量周末有一天，就是尽量让脑子不要想着跟工作有关的事儿，对吧？但是这个事情还挺难的，就是因为你被你在一个车上，这个车一直在往前开，你既不要拖累车上自己人，也不能被别的车上人甩掉。所以你就不自觉的会想，要不再再卷一卷对吧？但是我觉得这个还是挺重要的，就是我觉得我已经进入一个临界点，就是我再不锻炼身体，我的工作效率其实是下降，而不是提升的了的工作产出不能叫效率，对吧？效率其实一直在持续下降，因为随着你工花的时间越来越长，这个编辑的效率其实是在下降的。但是他已经快要进入一个不你应该要去锻炼一下身体，这样的总体的产出也能变多。
+</p>
+<p class="transcript-line">
+<span class="time"><strong>[00:58:04]</strong> </span>
+<span class="speaker"><strong>发言人1: </strong></span>
+没事放松。就是以前我们创业的时候都会相互安慰说最近一段时间不用太焦虑，也不用怎么样，以后一定会有更糟的。千万不要想着说我忙过这段，然后搞定这事儿，接下来就放松了，就可以干嘛了。不要有这种幻想，对，以后一定会有更糟的情况，更忙不过来，所以你们相互安慰就会这样安慰。
+</p>
+<p class="transcript-line">
+<span class="time"><strong>[00:58:34]</strong> </span>
+<span class="speaker"><strong>发言人2: </strong></span>
+另外一个我觉得还是可能得花点时间多出来交流。其实我最近因为一直在公司内事儿特别多，一直没有出来找人聊。这周周前一天跟一些朋友聊了一下，我觉得还是有很多。我觉得第一个叫互相借鉴的意义。第二个又能很难找到很多价值空间。就是你会发现说其实在传统的企业，我们知道他传统的企业其实也未必。就即使在很多不是在这个领域特别关注AI的人，其实有大量的空间可以去用。这些空间本身其实也是个机会。
+</p>
+<p class="transcript-line">
+<span class="time"><strong>[00:59:06]</strong> </span>
+<span class="speaker"><strong>发言人1: </strong></span>
+非常吓人的，各种地方有巨大的机会。我我们现在就是我现在就是瞎聊，就是各种非常大，但是挖起来确实也没有那么豪华。你会发现挖不出来也是有道理，但机会确实很多，确实应该多聊。那你你你现在有空多聊吗？有空聊的话，我们其实可以在AI链接处那边挂一个链接，然后审核制，然后是啥的就可以让大家来找我们聊。你要有空聊的话，我就可以搞一搞。
+</p>
+<p class="transcript-line">
+<span class="time"><strong>[00:59:37]</strong> </span>
+<span class="speaker"><strong>发言人2: </strong></span>
+我觉得是要花一点时间，就是我觉得一个是还是想要多聊一下，第二个也是为了提升公司那个人才密度，提升公司的人才密度，还是想要从为不同的渠道去做招聘。因为我我觉得真的是世界分布非常之不均匀。怎么叫非常的不均匀呢？就是我最近有两个体会，又是两个小case。就是因为我太太在传统企业，因为我记得她有时候也会问问我这到底能干嘛嘛？
+</p>
+<p class="transcript-line">
+<span class="time"><strong>[01:00:04]</strong> </span>
+<span class="speaker"><strong>发言人2: </strong></span>
+我说我们最近在干一个很简单的事情，就是新员工入职。我们在那个Cherry studio上配了一个agent，就是我们原来写好了文档，对不对？我也不发文档给你，这那这是个assistant，你就问他什么VPN，因为我们买了官方的VPN，买了这个合规的VPN。什么VPN怎么开？什么报销找谁？有什么问题应该找谁？你就直接在这里问，你也不用去读文档对吧？
+</p>
+<p class="transcript-line">
+<span class="time"><strong>[01:00:31]</strong> </span>
+<span class="speaker"><strong>发言人2: </strong></span>
+他说这个好，然后他就在他们公司里，比如说去推这个事儿，第一个体会就是你会发现一些很简单的事情，其实大家都没有想到可以这么做。第二个是昨天见了一个朋友，然后他原来一直是做广告数据广告产品的。其实按道理来讲，他应该是非常贴近AI的一个人。从一个中场出来之后觉得太累了，就休息了一年。然后昨天跟他聊就是你会发现说，他的这个家庭里另外一位同事也是做另外他的对象也是做AI的。
+</p>
+<p class="transcript-line">
+<span class="time"><strong>[01:01:06]</strong> </span>
+<span class="speaker"><strong>发言人2: </strong></span>
+但是再跟他聊，你会发现说，他其实不知道今天有这种V0，这样直接就是V0或者boat这种直接界面上你打个字就给你做个网站出来的东西，他也不知道有cursor或者卡扣的这样的东西。所以你会发现说说这个世界其实分布是非常不均匀的。真的是体验过。我们先不说说我们利用这些东西去做一个什么产品，就是我日常体验使用最新的这些模型跟产品的人都非常少。对我我也。
+</p>
+<p class="transcript-line">
+<span class="time"><strong>[01:01:39]</strong> </span>
+<span class="speaker"><strong>发言人1: </strong></span>
+非常强烈的意识到这一点，甚至于包括一些站在台上在宣传AI的人，就是AI的传教士。但你真心跟他聊几句，你会发现，你其实平时你这个用法好像是前一年的用吧。然后其实好像他其实也没什么。
+</p>
+<p class="transcript-line">
+<span class="time"><strong>[01:02:00]</strong> </span>
+<span class="speaker"><strong>发言人2: </strong></span>
+你看像鱼一这样的人还是很少。
+</p>
+<p class="transcript-line">
+<span class="time"><strong>[01:02:02]</strong> </span>
+<span class="speaker"><strong>发言人1: </strong></span>
+的对对对对，鱼一真的跟AI长成一起了，所以我经常看看他的东西，觉得还是很有启发。我蛮喜欢那种疯癫的角色，但大部分人真的还是属于说他们哪怕是在新闻上看了AI的东西，然后在外面开始宣传。但是他们的使用方式还是很像是GPT刚出来的时候。当一个搜索引擎问个问题。
+</p>
+<p class="transcript-line">
+<span class="time"><strong>[01:02:25]</strong> </span>
+<span class="speaker"><strong>发言人2: </strong></span>
+他这个又是一个最大的场景。回过头来讲，这的确又是最大的场景。
+</p>
+<p class="transcript-line">
+<span class="time"><strong>[01:02:29]</strong> </span>
+<span class="speaker"><strong>发言人1: </strong></span>
+我在想你说的这种事情有没有商业机会在里面？这里面其实就有信息差，信息差其实是最容易有商业机会的。我帮你们公司，比如说我帮你们公司做过顾问，其实你们自己的水平太高了，就很难创造真实的价值以及收到你很多钱。但是如果是一个不懂的公司，他比如说他其实就是不会用cloud code，对吧？我帮他翻好墙上，教他怎么用了。这时候其实或者他不知道有密的真理可以帮他把图片画漂亮。其实这里面是很容易把这个价值感给传递出去。而且就是你可能真的呆了一天，他的那个那他就产生了比如说100万的效果，比纯粹讲一个道理在就管用多了。
+</p>
+<p class="transcript-line">
+<span class="time"><strong>[01:03:13]</strong> </span>
+<span class="speaker"><strong>发言人1: </strong></span>
+所以这边到底有什么机会呢？做个像你讲的做一个艾森哲吗？AI时代艾森哲去顾问吗？是赚信息差。
+</p>
+<p class="transcript-line">
+<span class="time"><strong>[01:03:21]</strong> </span>
+<span class="speaker"><strong>发言人2: </strong></span>
+这埃森哲其实是最后是赚了，其实赚我觉得他其实有埃森哲，并不是赚信息差。我觉得埃森哲本质上是就是赚了一个时代趋势。他其实不是赚信息差，因为信息差就是能赚的。我觉得信息差本身能赚的钱的时间周期还是太短了。它最后赚的其实是时代趋势。
+</p>
+<p class="transcript-line">
+<span class="time"><strong>[01:03:40]</strong> </span>
+<span class="speaker"><strong>发言人1: </strong></span>
+对他持续有信息差。
+</p>
+<p class="transcript-line">
+<span class="time"><strong>[01:03:41]</strong> </span>
+<span class="speaker"><strong>发言人2: </strong></span>
+对吧？这我觉得不能这样说，而是说因为我觉得有些问题他就没法在公司内部解决。就是我举个例子，我今天是个药厂，我为什么要在公司内部解决？这个AI能帮我提下，为什么我就不应该？我就应该把我自己，我其实药厂我就把我的药研发做好就好了，其他的东西我就应该花钱雇别人来帮我解决，对不对？我是个药厂，我今天不会自己去造那个楼，对不对？即使造楼的技术再怎么进步，跟我没有关系，对不对？
+</p>
+<p class="transcript-line">
+<span class="time"><strong>[01:04:10]</strong> </span>
+<span class="speaker"><strong>发言人2: </strong></span>
+但是所有的药厂都想，比如说在销售效率上提升，在组织效率上提升，那他们都要in house做吗？肯定不是，对吧？这我觉得这个是埃森哲是我说有一个埃森哲的机会，我觉得本质上还是说，这个机会最后当然也有可能被埃森哲拿走，但是也有可能能出新一代的公司。能出新一代公司的，我觉得一个前提是工作效率本身怎么提升。这件事情在一个成熟的公司链路里未必好做。
+</p>
+<p class="transcript-line">
+<span class="time"><strong>[01:04:37]</strong> </span>
+<span class="speaker"><strong>发言人1: </strong></span>
+而且你刚讲的机会的话，比如说销售效率怎么提高，那可能就有几种不同的解法。一种是像比如说我的话，我就是那种老师，老师去过去教教大家。然后还有一种其实是我做一个SARS，然后是AI的SARS，什么销售agent，然后过去coach。然后还有一种方式其实是类似于plantier，就是我进去把你的什么历史数据给洗干净，然后我们来做什么中央数据库，不同时又可以支持你的销售，又可以支持你的客服，不拉，所以其实形态还蛮多的。但做SARS就是在中国收不上钱。做plantier的话感觉是可以的，你要销售能力要求就高一点。做老师的坏处，好处就是非常轻便，你可以说它比较贵，但是实际上要离落地就很远。而且你说不上太高的整体的TK你可以说到单价很贵，但是整体的那个order size会比较少。
+</p>
+<p class="transcript-line">
+<span class="time"><strong>[01:05:31]</strong> </span>
+<span class="speaker"><strong>发言人2: </strong></span>
+第二个我觉得机会这个事情是这样的，就是我上一次创业的时候，当时我觉得看到一个文章说，就是你不要光去找那个product market fit，你最后还得找那个叫folder box fit。就有些机会，它的确是个大机会。第一个有可能你不擅长，第二个就有有可能你也能擅长，但是你就是不喜欢，就是你你每天看这个事情可能是痛苦的对吧？他也许也一定能挣钱，但是你也未必扛，就是熬得下去。
+</p>
+<p class="transcript-line">
+<span class="time"><strong>[01:05:58]</strong> </span>
+<span class="speaker"><strong>发言人1: </strong></span>
+但这事儿，孙哲这事儿我觉得我对还挺擅长，也挺可以搞一搞的。但是比如说我们现在，至少有这么多人在听我们节目，至少天然有流量。但是你说这事儿怎么可以交付，然后怎么可以把它变成一个可规模化的商业，或者哪怕是早期不考虑规模化，也不是很容易一件事情。
+</p>
+<p class="transcript-line">
+<span class="time"><strong>[01:06:18]</strong> </span>
+<span class="speaker"><strong>发言人1: </strong></span>
+现在孵化器我们我在做的这个孵化器，其实部分也在做这方面的事情，只是现在就非常的不规模化。现在都是相当于总归会有办法找到我们有需求的企业。他要不然就是讲讲道理，要不然我们现在孵化器的话就是在帮助一些企业的话，相当于做AI转型，以后比如说上市的时候分杯羹，然后还收人家钱。那这个时候其实我们是一个赚钱的孵化器。但是整体上来讲非常的还非常的没有规模化，不像什么YC对吧？一一个batch一个batch这样搞，或者对，就感觉就很现羡慕人家，就感觉很正规。我这边就感觉东一榔头西一榔头在砸，所以每次听你讲就觉得好像我还挺适合做的，但是好像又没有找到说可以怎么大搞一下。
+</p>
+<p class="transcript-line">
+<span class="time"><strong>[01:07:01]</strong> </span>
+<span class="speaker"><strong>发言人2: </strong></span>
+挑战是就是你要先做到一个一，然后在后面去加0。我理解就意味着YC为什么能起来？就是他得先投中第一个大case，它才能规模化。它在没有投中第一个大case之前，他永远是没法规模化的。
+</p>
+<p class="transcript-line">
+<span class="time"><strong>[01:07:16]</strong> </span>
+<span class="speaker"><strong>发言人1: </strong></span>
+我们现在其实都不只是一了，我们有一，但是另外还有一个一，我们大概有几个一。但是我们没有那个加零的这种东西。对，我们现在就是在在跟好几家在合作。对，就是在孵化不同的东西。
+</p>
+<p class="transcript-line">
+<span class="time"><strong>[01:07:31]</strong> </span>
+<span class="speaker"><strong>发言人2: </strong></span>
+一不是说孵化的东西有没有一，而是说你最后这个东西，最后有一个东西的模式验证它是非常成功的。就像你做埃森哲，你最后还是面临得打你，你有第一个打单打下来的真正的一个可复制的项目。对他不能是一个说今天我包括今天你去看所有做出海的有很多，比如说我们周围朋友有做出海的F矩阵的，他可能今天在应用市场去扫一下，他有70个APP，但是他可能超过一半的收入是或者说我不确定，但是它有一个APP可能非常大。他为什么最终决定做矩阵？是因为那个APP真正跑到了一定的体量，我以为他觉得说我那个模式是通的，不然我觉得是说就是靠很多个0.1是凑不成那个大的，就是你还是有得有一个大的那个一之后才能横向复制。
+</p>
+<p class="transcript-line">
+<span class="time"><strong>[01:08:22]</strong> </span>
+<span class="speaker"><strong>发言人1: </strong></span>
+现在对，但是就是需要时间，也不是说搞个四周就能出现一个大的一的。
+</p>
+<p class="transcript-line">
+<span class="time"><strong>[01:08:28]</strong> </span>
+<span class="speaker"><strong>发言人2: </strong></span>
+反正这一两年干这个事儿，我是觉得说为什么我觉得空间还挺大的，我是认为所有人都是草台班子。对，所有都是草台班子，你就会发现其实所有人都需要在所有知识上，他其实都需要有人来帮他更快的解决这个问题。不管是从研发上，就是从内部运营效率上，从什么营销上，从什么大家不要看这些公司，每个公这个公司号称融了很多钱，这个公司融了很多钱，对吧？其实即使融了很多的钱的公司，他在很多事情也很草台班子挺好的。
+</p>
+<p class="transcript-line">
+<span class="time"><strong>[01:08:59]</strong> </span>
+<span class="speaker"><strong>发言人1: </strong></span>
+反正先搞一个出来，这边插个广告。如果是已经成熟的，然后有钱有资源，对，有渠道，这不是那种错，就一个点子这种创业公司，对，或者说是大企业也好，如果想要AI方面要做点什么事情，然后一起搞一个新事儿的话，我们可以一起孵化，然后可以反正总总有办法联络到我。对，我们正在帮几个企业在搞这种事情，对，也是一种新的尝试。
+</p>
+<p class="transcript-line">
+<span class="time"><strong>[01:09:25]</strong> </span>
+<span class="speaker"><strong>发言人2: </strong></span>
+我好奇你最近在做这个调研，这个传统企业你自己的心得体会是什么呢？
+</p>
+<p class="transcript-line">
+<span class="time"><strong>[01:09:30]</strong> </span>
+<span class="speaker"><strong>发言人1: </strong></span>
+我就觉得机会很多，就比你预期的要更难一点。然后你会发现说其实大部分收到最后其实还都是我现在有点理解。以前比如说我上商学院或者有一些朋友，然后他就会发现他们讲着讲着所有的东西最后都会讲成人的问题，所有的东西都会讲成组织的问题。因为我之前我们就是创业，对吧？几乎还是认为说就是产品、用户需求、市场、科技。但现在你如果接触到传统企业，你会发现大，尤其是稍微有点畸变的，你会发现最后真的是人的问题，真的是组织的问题。
+</p>
+<p class="transcript-line">
+<span class="time"><strong>[01:10:05]</strong> </span>
+<span class="speaker"><strong>发言人2: </strong></span>
+我其实很好奇，因为我我我是认同这个很多问题都是人的问题。我们是个创业公司，我觉得有很多事情没做好，或者内部有很多事情没做好，他也是人的问题和组织的问题。你创业的时候是会有这个感觉，就是说这个事情没做好是因为人的问题或者组织的问题不一样。
+</p>
+<p class="transcript-line">
+<span class="time"><strong>[01:10:20]</strong> </span>
+<span class="speaker"><strong>发言人1: </strong></span>
+比如说你现在的小朋友，你觉得比如说他营销没做好，对吧？那其实你他他是营销没做好，然后你觉得换个更好的人可能就好了，或者比如说把你换掉就好了，对吧？你甚至于会怀疑自己，但是你不会觉得你不在这个池子里。但是有可能你合作的公司的话，你会觉得他们的就根本不在那个池子里。
+</p>
+<p class="transcript-line">
+<span class="time"><strong>[01:10:42]</strong> </span>
+<span class="speaker"><strong>发言人1: </strong></span>
+我反过来讲这个故事，就比如说你比如说现在让你去做一个to b的茅台酒的销售，然后你带着一个团队去做，然后都是to b的那这个过程当中你也会去学习，你也会很努力。然后因为这件事情比如说搞定了就可以怎么样，然后你也会很努力，你也会带着你原来的旧部，就是现在你是手下带的所有人，然后你也会请教原来比如说卖卖茅台的和做to b的生意的人，然后他们会教你，甚至于你还会见见完大客户就会去问他问题，但是他只要一听你问问题，他就知道说你这个人不对，或者你下面这个人问问题，问这个问题就错了。你整天整条路就是错的对吧？他一定能够很敏锐的感受到，你就不在干这个了。你们不在一个，你不在这个池子里，就不是不是这个人好坏，他不在这个池子里。
+</p>
+<p class="transcript-line">
+<span class="time"><strong>[01:11:33]</strong> </span>
+<span class="speaker"><strong>发言人2: </strong></span>
+就不管是谁拍我这个任务，我肯定会拒绝。就是你今天要把我开除，我也会拒绝，因为我肯定不干不了这个事儿。
+</p>
+<p class="transcript-line">
+<span class="time"><strong>[01:11:39]</strong> </span>
+<span class="speaker"><strong>发言人1: </strong></span>
+我知道那那是因为你有的选，因为你是在所谓的先进生产力，但是他们现在也要做AI，对吧？他他就会觉得没得选，他也要做移动互联网，他也要做AI对吧？他没得选。他觉得就有点像假设现在我们把移动互联网的AI我们都把它换成一个词汇，叫做叫做叫就就叫做X好了。那茅台也是一种X，对吧？那假设说这个世界就莫名其妙的有一个新科技叫茅台，对吧？而且他只能做to b大客户销售。那这个时候我我们就得我们就会热情的去学习，然后你就会发现自己死活过去的这个惯性死活都匹配不上，就会很痛苦，所以他们也挺痛苦的。然后你其实要真的去去合作好，其实你也会挺痛苦的。
+</p>
+<p class="transcript-line">
+<span class="time"><strong>[01:12:23]</strong> </span>
+<span class="speaker"><strong>发言人2: </strong></span>
+OK理解。对。
+</p>
+<p class="transcript-line">
+<span class="time"><strong>[01:12:23]</strong> </span>
+<span class="speaker"><strong>发言人1: </strong></span>
+他他不是他不是一个好坏的问题。比如说你觉得这个人营销高了低了，那整体就不对。我我我跟朋友打比方，就是说我说我现在去带一个你的销售，你全心全意的教我带我。但是我问出来那句话，你就会知道这条路错了，你也不知道为什么。就是我比如说我问他说，这个客户他刚刚怎么样了，我跟他好好的汇报，请教他一个问题。他只要从这个问题就会觉得你们整个的路数就可能全错了。但是他要把这个路数为什么错告诉我的话，其实我一时半会儿我都不一定理解得了，和我改改的掉，这就很痛苦。
+</p>
+<p class="transcript-line">
+<span class="time"><strong>[01:13:00]</strong> </span>
+<span class="speaker"><strong>发言人1: </strong></span>
+但是我如果把我原来的人放弃掉，比如说你现在就假设你真的要去卖茅台，你还是要几个熟悉的班底，对吧？但是你全部换新人的话，其实你也不一定能招到适合卖茅台的人。那个人那个团队也是不对的。
+</p>
+<p class="transcript-line">
+<span class="time"><strong>[01:13:16]</strong> </span>
+<span class="speaker"><strong>发言人2: </strong></span>
+这肯定是不对的。因为比如我去招一个说擅长卖茅台的人，他跟我聊完之后，他肯定不会来我这里。他肯定觉得你这个人肯定是搞不定这个事情的。
+</p>
+<p class="transcript-line">
+<span class="time"><strong>[01:13:25]</strong> </span>
+<span class="speaker"><strong>发言人1: </strong></span>
+对吧？对，所以整件事情他的那个那个难的，而且这个难就是会难到就是像我们卖不好茅台一样的，就是它会卡在非常多，非常你不会觉得是问题的上面。就比如说你可能会觉得PRD写的，比如说他只拿到了用户表面的需求，并没有深刻洞察他的真实的动机。可能你会卡在这里，但是你不会卡在说他不会打开飞书文档和他不知道PRD有要写，比如说超过300个字，你不会理解卡在这里。对，就是大家都会卡在一些非常莫名其妙的地方。
+</p>
+<p class="transcript-line">
+<span class="time"><strong>[01:14:04]</strong> </span>
+<span class="speaker"><strong>发言人2: </strong></span>
+但是往往这件事情就像你说的，这个事情其实是机会。因为这个东西其实它说难就难说简单，可能找到了一个有效的方式，它就能规模化的解决了。
+</p>
+<p class="transcript-line">
+<span class="time"><strong>[01:14:16]</strong> </span>
+<span class="speaker"><strong>发言人1: </strong></span>
+对，但是现在还是没有找到可规模化解决的方式。然后另外的话还是要靠个人魅力在硬我硬硬搞。对，现在基本上还是靠AI这两个字，确实现在是可以用来压人的。然后所有的CEO尤其是掌握大资源的，还是会有这个决心在的这是好事儿。
+</p>
+<p class="transcript-line">
+<span class="time"><strong>[01:14:35]</strong> </span>
+<span class="speaker"><strong>发言人1: </strong></span>
+但是你看到的困难的话，就是不是大家不配合，真的是就有点像我们现在很配合的想去卖茅台，想去做to b大销售。哪怕我们真心配合，其实我们也会漏洞百出。就是不是说有强弱的问题，而就是因为我们命好，我们在这边的话，这一块在它是一个大家都想要的词，有些词汇可能就不是那种好词汇，对，我们只是命好站到了这边。那那我们如果进那个圈子，我们也会很痛苦，然后就出一堆的错。当然这边讲着讲着可能就会觉得还是plantier的那种机会。
+</p>
+<p class="transcript-line">
+<span class="time"><strong>[01:15:07]</strong> </span>
+<span class="speaker"><strong>发言人1: </strong></span>
+对，但是我现在觉得确实是跟传统的to b结合起来的话，这边机会会更大一点。就比如说我现在做个比如说做一个画画agent假设我们能够孵化出来的话，无非也就是比如说我们如果如果花一个月能孵化出来，你花一周就一定能做出来，这件事情就会很卷。但是我to b的那些东西真的你搞出来了。比如说花三个月搞出来一个很傻逼的东西。
+</p>
+<p class="transcript-line">
+<span class="time"><strong>[01:15:33]</strong> </span>
+<span class="speaker"><strong>发言人1: </strong></span>
+但是那个东西真的就是会有真实的业务场景，以及有真实的渠道就能卖掉，以及他真的能创就里面是有钱的对，但是它的缺点就是在于说，有可能你觉得这个东西不是就三天的开发量，为什么要三个月？他就要就得三个月，以及还很多技术债。然后另外的话，就是他卖掉了之后的话，他他如果像我现在，因为我有一个光环在，那你总归能收上一点。钱。但是如果没有这个光环在，你要靠就靠产品去卖的话。比如说不管帮他创造多少价值，你能够收几块钱，这也是一个很大的问题，反正一堆乱七八糟的问题。
+</p>
+<p class="transcript-line">
+<span class="time"><strong>[01:16:10]</strong> </span>
+<span class="speaker"><strong>发言人2: </strong></span>
+再多问你一个好奇的问题，就是你现在就比如我们就是在做海外市场吗？那你自己有观察过看过国内市场是什么样子吗？其实我觉得对这件事情其实还蛮好奇的。就是今天其实所谓的拿融资去做的，有很大一批其实都在做海外市场，包括但是做海外市场有做海外市场的挑战，对吧？传统意义上不像移动互联网时刻，其实大家本质上都做的还是中国的市场，还是一个巨大的统一大市场，对吧？那今天其实很少再见到有创业者出来说，我又做AI是做国内的市场，特别是C端的市场。
+</p>
+<p class="transcript-line">
+<span class="time"><strong>[01:16:46]</strong> </span>
+<span class="speaker"><strong>发言人1: </strong></span>
+我觉得挺难的。国内对，就是我我见过的做国内市场的小朋友的话，有一些在国内还挺有一些名气的，我们私下聊的话，他们下一步的重点都是海外。因为国内这个就是在有名气的情况下，就是可以拿到免费流量的情况下，他们都是亏钱的，所以就比较艰难。
+</p>
+<p class="transcript-line">
+<span class="time"><strong>[01:17:10]</strong> </span>
+<span class="speaker"><strong>发言人1: </strong></span>
+但是唯一的好消息就是也有比较头部的APP的创始人跟我讲说，虽然艰难，但是比起五年前，因为他们是一个很老的公司。就是用户付费意愿已经涨了三五倍。就是从比如说你要花你你比如说一个用户身上，你比如说原来只能赚到两块钱，现在可以赚到8到10块钱，就是已经好很多了。对，三五倍的一个成长。因为AI需AI教育了，大家还是要付钱，所以有好有坏，还是赚不到太多钱，但是比以前的情况要好了很多，大家付费还是比之前要好。对，但是还是赚不到钱。
+</p>
+<p class="transcript-line">
+<span class="time"><strong>[01:17:46]</strong> </span>
+<span class="speaker"><strong>发言人1: </strong></span>
+另外一点的话，我就觉得说国内还是因为大厂也太卷了，所以导致小厂就根本卷不动。就比如说你想在美国的话，你至少御三家的话，你要稍微用好一点的，你还是得得给钱，对吧？中国你默认豆包，肯定豆包蒂芙西克对吧？然后kimi你默认肯定都是不给钱的，他们就没有把这个心智给守住。那那你豆包kimi dev c ker它里面或者像什么夸克这些你真的点进去，你会发现里面啥都有，他也可以帮你做PPT了对吧？他也可以帮你做脑图的，他也可以帮你做你想得到的应用。他们都已经吃进去了，那咋办？你要陪聊里面都有，我算算命，都有啊。
+</p>
+<p class="transcript-line">
+<span class="time"><strong>[01:18:30]</strong> </span>
+<span class="speaker"><strong>发言人2: </strong></span>
+这样想想国内开发者是挺惨的，就是招海外对吧？大家还在卷机模的能力。ChatGPT今天也没有说我单独有个tab叫做PPT，不过里也没有单独有一个tab，什么小学五年级这个拍照搜题。
+</p>
+<p class="transcript-line">
+<span class="time"><strong>[01:18:44]</strong> </span>
+<span class="speaker"><strong>发言人1: </strong></span>
+所以觉得国内还是会更难一点，所以我们现在也在看一些to b的合作，因为国内确实是生产方，对，所以这边可能to b这边还有一些机会。那to c的话更多的还是看说还能不能海外就更海外一点。当然国内其实也有可能考虑硬件，有硬件有可能也是可以做的。就比如说虽然比如说大家买iphone，但是也会买小米，买的小米长得很大。对，所以也可以看看硬件方面的机会。纯软件确实现在还是比较难的一个状态了。
+</p>
+<p class="transcript-line">
+<span class="time"><strong>[01:19:16]</strong> </span>
+<span class="speaker"><strong>发言人1: </strong></span>
+好，我们今天就大概这样，然后最后再加个广告。如果是大家做还在国内的，如果是你不是idea，因为idea孵化，那就是另外一回事了。对，就是有一定的实力的公司的话，然后你们想要做AI转型的话，我们可以一起讨论一下。理论上来讲，总有办法找得到我。对对对，我们是有这个service的，可以一起合作OK好，然后欢迎大家关注AI炼金术，尤其是最近可以尤其关注一下AI炼金术的公众号。这个公众号最近开始频繁的更新了，因为我换成了订阅号，欢迎大家订阅推荐给朋友们，让我们涨点粉。好好了，就这样。好，拜拜。
+</p>
+<p class="transcript-line">
+<span class="time"><strong>[01:19:56]</strong> </span>
+<span class="speaker"><strong>发言人2: </strong></span>
+好的，拜拜。
+</p>
+<p class="transcript-line">
+<span class="time"><strong>[01:19:58]</strong> </span>
+<span class="speaker"><strong>发言人1: </strong></span>
+Let&#x27;s go to that. When I took you last summer before the four. When the sky was probable and we drink from a bottle. 我的外号送了你有很多，do a different world live, every does you and die. Open up your right.
+</p>]]></content:encoded>
+            <pubDate>Tue, 26 Aug 2025 12:48:00 GMT</pubDate>
+            <guid>68adae38063a7fc3bffe0416</guid>
+        </item>
         <item>
             <title>从内容消费到内容创作，中间可能只差一个 AI ｜对话YouMind创始人玉伯</title>
             <link>https://www.xiaoyuzhoufm.com/episode/68a47bb27357a4b6317cf2ca</link>
@@ -31642,971 +32839,6 @@ With my love.
 </p>]]></content:encoded>
             <pubDate>Tue, 29 Oct 2024 11:58:05 GMT</pubDate>
             <guid>6720d319602cbdd9150cf343</guid>
-        </item>
-        <item>
-            <title>普通人就能做出好莱坞级别的场景！未来谁是主宰？| 对话游戏引擎专家 Cafe 唐君华</title>
-            <link>https://www.xiaoyuzhoufm.com/episode/671a219152543d1557498bc7</link>
-            <description>欢迎大家来到「AI 炼金术」，我们今天请来的嘉宾是Cafe 唐君华，他是我在 3D 方面的老师。
-我关注到 Cafe 同学是在一个 IT 的场子，就是超声波的线下活动。就在听他讲 3D 的世界，说我们可以用 3D 的游戏引擎，就可以把一个世界给搭出来。balabala~，听着就觉得非常的神奇。因为我最近关注 3D 和 diffusion，听到他讲这些就发现说，原来还有一个强控制，就是所谓的可控制性的视频生成领域，其实不就是游戏嘛！然后就听他讲着讲着就发现说，游戏行业好像这方面已经积累了十几二十年的经验。已经有大量的资产，大量的算法，人才，甚至于已有的数据资产已经在那里了。所以，觉得这边是一个宝藏啊！虽然Cafe自己一直说要低调，但他应该算是国内做游戏引擎数一数二的人了，就觉得一定要拉他跟大家做下分享。
-嘉宾：
-Cafe 唐君华 | 游戏开发，游戏图形引擎开发专家
-播客时间线：
-Part 1 游戏引擎在数字娱乐产业中的应用与发展
-04:29 从游戏引擎角度反向去做视频生成是否会更有信息、更容易？
-06:43 现在大多数的动画片都是用游戏引擎来做的，这是为什么呢？
-10:04 数字娱乐产业的门槛和可能会踩到的“坑”是什么？
-- 游戏和影视产业“ 成本 ”是最大的门槛
-Part 2 3D高斯 --3D 领域的重大突破
-17:19 3D 高斯的核心特征：
-- 节省了超级多的成本。只要用手机录出视频，随便一个能摄影的好的人，就能够去还原出一个价值10万20万甚至50万的场景。
-- 让普通人可以做到小物件或是大场景的还原，帮助普通人做出电商购物决策
-- 不需要人工标识模型的不同模块，直接在 3D高斯里做 AI 语义识别，就可以将模型进行拆分
-24:29 简单直白的理解， 3D 高斯是什么 ？
-27:15 空间智能与3D高斯技术之间的关系？
-30:15 只要有足够多数量和多样性的图片数据，完全就不需要 3D 了？
-- transformer实现了数字世界的统一的度量衡的单位，统一了度量衡之后的世界才能告诉的发展
-36:38 3D 高斯技术的发展与应用
-- 高斯技术本质并不是一个完全用 AI大模型的去做的渲染模式。它还是用了光栅化，也就是传统图形学里的方式实现
-- 3D 高斯跟传统的图形引擎在未来几年里，会混合式渲染，而不是替代式的发展
-- 高斯算法可以进入到传统的工具链中使用，但目前整个产业还没有准备好
-47:56 3D 高斯与大语言模型之间的关系
-- 3D高斯相对于大模型来说，算力的要求没有那么高，比如是千级和万级别的差别，但也需要专业显卡
-- 3D高斯只解决可视化的问题，并不解决物理化空间化的问题
-- 3D高斯的工作中是需要大模型能力的填补和完善的
-55:30 传统艺术生如何进入数字化世界去创作以及 AI 在游戏开发中潜在的作用
-正在招人
-简历投递：mars@sky9capital.com
-产品经理 &amp; 设计师
-海外 toC 的 AI 产品，需有移动互联网产品经验 &amp; 日常会使用多种 AI 工具，较深海外背景和经验加分。
-欢迎订阅「AI 炼金术」的播客，以及同名公众号、视频号
-我们关注新一代 AI 技术浪潮带来的行业新变化和创业新机会，追踪 AI 技术革新如何重新定义行业界限和商业模式。我们邀请、访谈那些正在用AI炼金术改变世界的先行者。通过他们分享的经验、挑战，我们一起见证这些变化，探讨这些变化背后的深层逻辑，寻找并实践新的商业模式和生活方式。
-商务合作：公众号 「AI炼金术 」菜单栏中【商务】获取联系方式
-相关 AI 实战课程
-任鑫《AI新商业机会洞察22讲》
-https://tools.hundun.cn/h5Bin/wxpay/dhy-selected-course-pay.html?page_type=&amp;package_id=509&amp;user_package_id=&amp;channel=appshare&amp;ambass_id=fabe90b3548513a654965aef6a1e65eb&amp;channel_id=181&amp;pid=TMI6&amp;sale_channel=
-徐文浩《AI 大模型之美》
-xuwenhao.com
-BGM：
-片头：Shortwire - Reconfig
-片尾：万万小宇宙 - A.T.O.M(神游)</description>
-            <content:encoded><![CDATA[<h1>转写链接</h1>
-<link>https://tongyi.aliyun.com/efficiency/doc/transcripts/ro84nragr4ryqkb3</link><br>
-<h1>节目摘要</h1>
-<div class="summary">本次讨论深入分析了人工智能（AI）在游戏开发、虚拟现实（VR）、元宇宙及数字孪生领域的革新潜力，特别是3D高斯技术的突破对产业的影响，以及AI在提升游戏引擎、数字娱乐产品制作效率方面的贡献。此外，讨论涵盖了AI如何助力数字化世界建模、内容创作工具化，以及优化用户体验，预示着其在艺术创作、教育乃至满足精神需求上的广泛潜在贡献。尽管AI技术的发展有望创造更多互动性强的数字娱乐产品，但其普及也带来了对传统工作流程的挑战和实际应用中的难题，激励探索更多创新解决方案。</div><br>
-<h1>章节速览</h1>
-<div class="chapters">
-<div class="chapter-item">
-<span class="time"><strong>[00:00:00]</strong> </span>
-<span class="chapter-title"><strong>3D技术在游戏和新兴行业中的应用与未来</strong></span>
-<div class="chapter-summary">对话深入探讨了3D高斯技术在游戏产业以及新兴领域的如元宇宙、数字孪生和直播卖货等应用。强调了3D技术对于改变和推动这些领域高速发展的重要性，以及其可能带来的巨大利润和市场需求。此外，讨论还涉及了游戏引擎开发的经验和对数字世界统一标准的重要性的看法，展示了3D技术在创造和控制虚拟世界方面的潜力。</div>
-</div>
-<div class="chapter-item">
-<span class="time"><strong>[00:03:24]</strong> </span>
-<span class="chapter-title"><strong>Vegal技术及其游戏引擎应用前景的讨论</strong></span>
-<div class="chapter-summary">对话讨论了Vegal技术，一种将人物置入新场景进行唱歌跳舞等互动的应用，以及其未来可能发展为游戏引擎的潜力。同时，提到了游戏引擎不仅是一个技术工具，更是数字化娱乐产品生产的解决方案，指出Vegal若要转型为游戏引擎，将面临诸多行业挑战。此外，对比了中国和日本动画制作的不同，中国更多使用UE5等现代技术，而日本则保留了传统手绘方式。</div>
-</div>
-<div class="chapter-item">
-<span class="time"><strong>[00:06:26]</strong> </span>
-<span class="chapter-title"><strong>中国动画片产业的转型与挑战</strong></span>
-<div class="chapter-summary">动画片产业在数字化之前，主要依靠人力完成大量手绘工作，尤其是2D动画，这被视为一种体力和量的工作。随着技术发展，中国动画片产业转向3D，利用游戏引擎和CG技术加速制作过程。这一转型部分是因为国内动画人才断层，以及3D技术在游戏产业的广泛应用使得相关人才较为丰富。然而，尽管3D动画制作在人员招聘方面相对容易，但吸引顶尖人才仍是一大挑战。此外，传统2D动画人才的缺失，也反映了行业在招聘和人才培养方面的困难。</div>
-</div>
-<div class="chapter-item">
-<span class="time"><strong>[00:09:21]</strong> </span>
-<span class="chapter-title"><strong>从3D内容创作的高成本挑战谈起</strong></span>
-<div class="chapter-summary">对话围绕在没有数字娱乐产业经验的情况下，开发3D或Division等娱乐产品可能遇到的坑进行了讨论。重点指出了3D内容创作的高昂成本，包括原画、建模、动画等各个环节的高昂费用，以及因为缺少专业知识或经验导致的返工和额外成本。此外，讨论还提到了国内游戏产业在画面制作上的高成本挑战，以“黑悟空”为例强调了这背后的认知和尊重。</div>
-</div>
-<div class="chapter-item">
-<span class="time"><strong>[00:13:44]</strong> </span>
-<span class="chapter-title"><strong>国产动画与游戏产业的成本与技术挑战</strong></span>
-<div class="chapter-summary">讨论指出，尽管一些国产动画片在视觉效果上显得粗糙，但其制作成本依然高昂。这主要是因为这些动画在制作过程中可能使用了不符合行业标准的素材以满足档期需求，导致其画面质量可能不及某些实时渲染的游戏。举例来说，某些爱奇艺上的动画片在视觉效果上还不如《黑神话悟空》这样的游戏。这凸显了在游戏和影视产业中，高质量作品的制作需要巨大的成本投入，并且找到能满足特定要求的专业人才非常困难，即使有资金也不一定能解决人才短缺的问题。</div>
-</div>
-<div class="chapter-item">
-<span class="time"><strong>[00:15:10]</strong> </span>
-<span class="chapter-title"><strong>3D高斯技术在图形渲染领域的突破性进展</strong></span>
-<div class="chapter-summary">讨论了3D高斯技术在图形渲染领域的重大突破，该技术通过手机录制的视频即可低成本、高效率地渲染出逼真环境，无需专业人员参与。这种全新的高斯球渲染模式在短时间内引起了图形学界的广泛关注，不仅在成本控制上实现了显著优化，而且在写实物品的渲染效果上超越了传统图形学，极大提升了渲染的真实度，适用于如电商购物决策等场景。此外，该技术还促进了Unity、UE等图形引擎的优化和更新，展示了其在实际应用中的巨大潜力。</div>
-</div>
-<div class="chapter-item">
-<span class="time"><strong>[00:19:11]</strong> </span>
-<span class="chapter-title"><strong>电商购物决策中的3D资产生成技术及应用</strong></span>
-<div class="chapter-summary">对话讨论了通过3D资产生成技术让普通人能够做出更准确的电商购物决策的应用案例，提及已有公司提供了相关APP，能够通过扫描实物生成高质量的3D模型，且成本可能降至几元人民币。此外，还提到与国内公司的合作即将推出此类APP，实现从小物件到大场景的逼真还原。通过与游戏开发中采用的3D建模技术的对比，强调了利用图片转3D等技术的高效性和成本效益，以及当前手游市场因成本和逼真度需求而普遍采用建模而非扫描的实际状况。</div>
-</div>
-<div class="chapter-item">
-<span class="time"><strong>[00:21:34]</strong> </span>
-<span class="chapter-title"><strong>3A产业中的3D高斯技术及其应用</strong></span>
-<div class="chapter-summary">对话讨论了3A产业中使用3D高精度扫描技术创建逼真场景和角色的过程，以《刺客信条：大革命》和《黑悟空》为例，展示了如何通过精准扫描和专业动作捕捉降低成本并提高游戏质量。特别强调了3D高斯技术在语义识别和模型拆分方面的优势，以及如何利用AI自动识别和拆分扫描模型中的各个部分，从而进一步降低制作成本并提升逼真度。此外，还提到了当前该领域研究的热点，包括与华为和上海交大合作的论文，展示了3D高斯技术在语义识别和模型拆分方面的应用潜力。</div>
-</div>
-<div class="chapter-item">
-<span class="time"><strong>[00:24:19]</strong> </span>
-<span class="chapter-title"><strong>3D高斯算法在现实世界光影信息采集中的应用</strong></span>
-<div class="chapter-summary">对话讨论了3D高斯算法的概念及其在采集和还原现实世界物理光影信息中的应用。通过将拍摄的多角度照片使用高斯算法进行压缩，能够更真实地还原出物体的光影效果，相较于传统的数学公式渲染，这种方法更加逼真。此外，解释了3D高斯算法通过将采集到的点转化为概率球，并拼接这些球以找出最大概率平面，从而实现更精细的三维建模，而非传统的三角形或四边形拼接。最后提到，3D高斯算法并非新发明，早期在摄像机采集领域已有类似算法的应用。</div>
-</div>
-<div class="chapter-item">
-<span class="time"><strong>[00:27:15]</strong> </span>
-<span class="chapter-title"><strong>空间智能与AI技术的发展趋势</strong></span>
-<div class="chapter-summary">讨论了空间智能和3D、高斯等技术之间的关系，以及AI技术从文字、代码、图像到视频、声音的发展历程。指出空间智能是AI发展的一个必然现象，类比人类从文字到3D游戏的发展轨迹，强调这是AI技术的下一个重要发展方向。还提到硅谷朋友在做相关研究，统一到空间智能这一词汇下，显示了视频处理等技术也牵涉到3D的处理。</div>
-</div>
-<div class="chapter-item">
-<span class="time"><strong>[00:30:15]</strong> </span>
-<span class="chapter-title"><strong>从2D到3D：探讨统一数字世界的度量衡</strong></span>
-<div class="chapter-summary">讨论了从创业者的角度出发，关于是否需要在图像和视频处理中使用3D技术的问题。观点认为，通过使用足够的数据和计算力，可以直接处理原始的2D图像数据，而不需要额外的3D处理层。然而，也有人认为，尽管2D数据和transformer技术在处理图形和视频上有显著进展，但对于真正统一数字世界，需要一种度量衡，即token，来将文字、代码、图像、视频、声音等数字化内容统一处理。这类似于秦始皇统一度量衡的做法，旨在促进数字世界的高速爆发和发展。</div>
-</div>
-<div class="chapter-item">
-<span class="time"><strong>[00:34:06]</strong> </span>
-<span class="chapter-title"><strong>3D模型生成与动作捕捉技术的讨论</strong></span>
-<div class="chapter-summary">对话围绕3D模型生成和动作捕捉技术展开，讨论了在投资领域对这两者的关注以及技术应用中遇到的挑战。指出在生成3D模型和动作时需要考虑到个体差异，如臂长、腿长等，强调了统一度量衡的重要性。同时，讨论了高质量数据对模型能力提升的关键作用，以及在3D高斯领域中海量数据的需求。</div>
-</div>
-<div class="chapter-item">
-<span class="time"><strong>[00:36:38]</strong> </span>
-<span class="chapter-title"><strong>3D高斯技术在游戏产业中的应用与突破</strong></span>
-<div class="chapter-summary">3D高斯技术与传统AI渲染模式有本质区别，它结合了光栅化等传统图形学方法，实现了低成本、高质量的渲染效果，有望统一数字化世界的度量衡。尽管其核心突破不在AI，但通过AI与3D高斯的结合，该技术正尝试对物理世界进行更精确的建模，且成本极低。此外，3D高斯技术的兴起吸引了大量学术研究，其模型是否能无缝嵌入游戏研发管线或需对研发管线进行改造，成为关注点。</div>
-</div>
-<div class="chapter-item">
-<span class="time"><strong>[00:41:45]</strong> </span>
-<span class="chapter-title"><strong>3D高斯技术在图形渲染中的融合与发展</strong></span>
-<div class="chapter-summary">对话讨论了3D高斯技术与传统图形引擎的关系，认为两者未来几年内不会相互替代，而是进行混合渲染。对于不具备交互性的场景，3D高斯可以作为替代方案。此外，讨论中指出，尽管目前整个产业还未完全准备好，但已有成熟算法将3D高斯转化为传统3D三角形面，建立起了激光点云与三角形的链接关系。通过与实验室的合作，已经成功实现将3D高斯人物驱动并映射光线追踪的光照信息，从而推动了3D高斯技术的发展，预计未来3到8年内，3D高斯技术将有重大突破。</div>
-</div>
-<div class="chapter-item">
-<span class="time"><strong>[00:44:51]</strong> </span>
-<span class="chapter-title"><strong>3D技术在新兴领域的商业价值</strong></span>
-<div class="chapter-summary">对话探讨了3D技术在创业公司中的应用策略，指出不应局限于传统3D渲染领域如游戏，而应聚焦于尚未充分应用3D技术但能从中创造巨大价值的领域，例如电商。通过与大型电商公司的合作案例，说明3D技术在电商领域的创新应用，如提供商品的360度视角展示，能显著提升用户体验和商业价值。此外，还提到了其他行业如无人机采集3D建模的尝试，强调了开拓新市场比竞争传统市场更具潜力和利润空间。最后，指出了3D技术在元宇宙、数字孪生和直播卖货等领域的核心作用，预示其未来可能超越游戏产业的市场规模。</div>
-</div>
-<div class="chapter-item">
-<span class="time"><strong>[00:47:56]</strong> </span>
-<span class="chapter-title"><strong>3D高斯技术的潜力与限制</strong></span>
-<div class="chapter-summary">讨论集中于3D高斯技术相对于大语言模型的资本和技术需求，以及它在可视化领域的应用潜力。虽然3D高斯技术对数据和算力的需求较小，使其在普及和应用上可能更快，但它在物理特性和空间时间维度的处理上存在局限。讨论还提到了3D高斯技术在建立统一的3D资产标准方面的潜力，以及如何与大模型结合以填补其在物理和空间属性上的缺口。最后提到李飞飞团队在这方面的工作，暗示他们正致力于将3D高斯技术推向更广泛的实用化和标准化。</div>
-</div>
-<div class="chapter-item">
-<span class="time"><strong>[00:52:39]</strong> </span>
-<span class="chapter-title"><strong>AI技术在UGC工具和艺术创作中的应用</strong></span>
-<div class="chapter-summary">对话围绕AI技术，尤其是3D高斯技术在落地产品中的应用展开。讨论者提出在AI时代，应将专业级的工具转化为普通用户也能使用的UGC工具，以促进艺术和游戏领域的创新。他们强调AI技术不应仅仅用于竞争现有市场，而是创造全新的数字娱乐产品和体验，使得艺术家和创意人士能够利用这些工具，将天马行空的想法转化为现实，推动文化和艺术的输出。</div>
-</div>
-<div class="chapter-item">
-<span class="time"><strong>[00:56:53]</strong> </span>
-<span class="chapter-title"><strong>AI时代的游戏创新与高可控性世界模型</strong></span>
-<div class="chapter-summary">对话围绕AI在游戏开发中的应用展开，讨论了如何通过大模型实现用户自动生成内容（UGC）的高效率和多样性。举例说明了传统游戏设计受限于成本和人力，而AI技术能让每位玩家拥有独一无二的游戏体验，如通过大模型生成独特的角色外观和性格，使游戏角色的发展受到玩家行为的直接影响，从而大大扩展了游戏的边界和可能性。</div>
-</div>
-<div class="chapter-item">
-<span class="time"><strong>[00:59:52]</strong> </span>
-<span class="chapter-title"><strong>AI驱动的未来游戏：从创作到体验的全面革新</strong></span>
-<div class="chapter-summary">讨论集中于人工智能（AI）在游戏产业中的应用及其可能带来的巨大变革。从使用AI驱动游戏的制作和运作，到AI控制游戏世界的动态发展，人类的角色可能转变为间接的观察者和干预者。目标是通过AI创造一个能够满足玩家精神需求和自我实现的世界，如同电影可能演变成互动游戏，游戏则可能变成难以想象的精彩体验。提及了AI如何能够帮助玩家在虚拟世界中找到自我实现，甚至在某些情况下，虚拟世界的互动可能比现实世界更加深刻和理解玩家。最后，探讨了未来娱乐和精神诉求如何可能更多地从游戏中获得，以及AI如何能够推动这一转变。</div>
-</div>
-<div class="chapter-item">
-<span class="time"><strong>[01:04:45]</strong> </span>
-<span class="chapter-title"><strong>AI技术在游戏开发和UGC内容创作中的应用探索</strong></span>
-<div class="chapter-summary">对话探讨了如何利用AI技术在两个星期内创造一款耳目一新的小产品，特别是聚焦于游戏开发和用户生成内容(UGC)的领域。讨论中提到了使用AI生成游戏资产的尝试，尽管初期成果不尽如人意，但对AI在游戏研发流程中的颠覆性影响抱有期待。此外，还讨论了如何将公开的AI技术实际应用到产品中，以及重新定义数字化娱乐产品设计流程的设想。</div>
-</div>
-</div><br>
-<h1>问题回顾</h1>
-<div class="qa-item">
-<div class="question"><strong>Q:</strong> 游戏产业或影视产业中，成本最大的门槛是什么？</div>
-<div class="answer"><strong>A:</strong> 游戏产业或影视产业中，最大的成本门槛是制作高质量画面所需的高昂费用，这背后体现的是对技术和认知的投入。</div>
-</div>
-<div class="qa-item">
-<div class="question"><strong>Q:</strong> DIT的本质是什么？</div>
-<div class="answer"><strong>A:</strong> DIT的本质是基于transformer模型实现数字世界的统一度量衡单位，类似于秦始皇统一货币和度量衡的重要性，它对于推动数字世界的高速发展至关重要。</div>
-</div>
-<div class="qa-item">
-<div class="question"><strong>Q:</strong> 咖啡同学能否简单介绍一下自己？</div>
-<div class="answer"><strong>A:</strong> 大家好，我叫咖啡唐金华，从事游戏产业十多年来，一直致力于游戏开发和游戏图形引擎开发，曾带领国产商业化引擎的研发，并服务于法国EB公司，参与3A类项目研究。</div>
-</div>
-<div class="qa-item">
-<div class="question"><strong>Q:</strong> 游戏引擎是否能反向应用于如替换人物形象等场景中？为什么现在动画片制作倾向于使用游戏引擎？</div>
-<div class="answer"><strong>A:</strong> 从游戏引擎的专业角度来看，理论上游戏引擎可以用来实现将一个人物替换成另一个场景中的角色等效果，相比一些新兴团队可能更有经验优势。动画片制作转向游戏引擎主要是因为数字化技术的发展，传统手绘动画耗时长、效率低，而游戏引擎能快速创建3D资产和动画，满足动画产业高效生产的需求。</div>
-</div>
-<div class="qa-item">
-<div class="question"><strong>Q:</strong> 对于没有数字娱乐产业经验的新团队来说，在尝试制作3D或AI娱乐产品时，可能会踩到哪些坑？</div>
-<div class="answer"><strong>A:</strong> 新团队可能会遇到3D人才稀缺、制作成本高昂的问题。例如，构建一个3D苹果模型及其动画过程复杂且成本高，从原画设计、模型建模、动作设计到后期调整，任何一个环节出现问题都可能导致整体成本飙升，甚至需要重做整个流程。此外，对于AI创作占比较小的产品来说，商业化面临的成本问题也是核心挑战之一。</div>
-</div>
-<div class="qa-item">
-<div class="question"><strong>Q:</strong> 动画片之所以成本较低，是因为它们使用了不符合行业标准的素材吗？</div>
-<div class="answer"><strong>A:</strong> 是的，动画片之所以便宜，一部分原因是因为它们大量使用了可能不符合行业标准的一些素材，只要能满足档期需求即可。这导致动画片中的动作、场景及光影效果可能不如EA、暴雪或玉璧等实时渲染游戏。</div>
-</div>
-<div class="qa-item">
-<div class="question"><strong>Q:</strong> 游戏和影视产业中，成本是不是一个巨大的门槛，并且难以通过金钱解决？</div>
-<div class="answer"><strong>A:</strong> 对，游戏和影视产业中成本确实是一个巨大的门槛。成本不仅仅是金钱投入，更重要的是找到能满足要求的专业人才，而这类人才在整个产业中非常稀缺，不是单纯花钱就能解决的。</div>
-</div>
-<div class="qa-item">
-<div class="question"><strong>Q:</strong> 3D领域是否发生了重大的技术突破，能大幅度降低成本并影响整个行业？</div>
-<div class="answer"><strong>A:</strong> 3D领域确实发生了重大的技术突破，类似于division GPT这样的技术突破。比如3D高斯这个观点，它提出了全新的高斯球渲染模式，该模式仅需手机录制视频并通过训练，就能低成本地还原逼真的3D环境，极大降低了3D内容制作的成本门槛。</div>
-</div>
-<div class="qa-item">
-<div class="question"><strong>Q:</strong> 3D高斯在写实物品渲染上的效果如何？</div>
-<div class="answer"><strong>A:</strong> 3D高斯在写实物品渲染效果上远超传统图形学的真实程度，能够帮助普通人通过手机拍摄视频生成高质量的3D资产，从而实现电商级别的购物决策辅助功能。</div>
-</div>
-<div class="qa-item">
-<div class="question"><strong>Q:</strong> 是否已有公司或demo实现了普通人仅凭手机就能生成逼真3D资产的效果？</div>
-<div class="answer"><strong>A:</strong> 目前已有许多公司开发了相关APP，用户可下载并利用手机扫描功能，生成高质量的3D资产，甚至国内有公司在合作开发中预计于十月份或十一月份对外公开一款实现此功能的APP。</div>
-</div>
-<div class="qa-item">
-<div class="question"><strong>Q:</strong> 黑神话悟空团队是如何制作3D模型的？是否也采用了类似3D高斯的技术？3D高斯技术是如何实现的，可以简单解释一下吗？</div>
-<div class="answer"><strong>A:</strong> 黑神话悟空团队并未采用3D高斯技术，他们使用的是图片转3D的传统方案。而3D高斯技术可以自动进行语义识别和模型拆分，降低制作成本并提高逼真度。3D高斯技术可通过相机拍摄现实世界照片并运用特殊高斯算法进行压缩，利用实际世界中的光影信息生成更逼真的3D模型，而非依赖于传统的数学公式计算。</div>
-</div>
-<div class="qa-item">
-<div class="question"><strong>Q:</strong> 李飞飞提到的空间智能是否可以视为AI发展的一个必然现象，并且与3D技术有关联？</div>
-<div class="answer"><strong>A:</strong> 是的，我同意这种看法。从文字到代码，再到图像、视频、声音，然后是3D游戏，这是人类和电脑硬件发展的必然轨迹。我认为李飞飞所述的空间智能本质上是AI发展进程中的一个近义词，也是必然阶段，因为它反映了AI从处理文本到处理更复杂数据类型的演进。</div>
-</div>
-<div class="qa-item">
-<div class="question"><strong>Q:</strong> 当前行业是否普遍认为DIT（深度学习图像处理）路线可以取代3D技术，只需依赖大量数据训练即可？</div>
-<div class="answer"><strong>A:</strong> 目前确实存在一种观点认为，由于有了像GBT这样的经验教训，通过足够的数据量和算力堆叠，原始的2D图像数据可以更好地理解世界，无需显性地采用3D技术。但作为创业者，我认为不应完全同意这个观点，因为DIT更多是解决现有问题的一种补丁，并非未来发展的唯一方向。</div>
-</div>
-<div class="qa-item">
-<div class="question"><strong>Q:</strong> 早期的unit网络与后来的3D单元之间有何联系？</div>
-<div class="answer"><strong>A:</strong> 早期的图片和视频是基于2D网络构建的，随着需求增加，出现了3D单元来解决一些特定问题，比如视频的动态变化和3D场景的构建。这两个阶段都是逐步演进的过程，而非相互替代的关系。</div>
-</div>
-<div class="qa-item">
-<div class="question"><strong>Q:</strong> AI领域的目标是什么？例如，3D高斯在其中扮演什么角色？</div>
-<div class="answer"><strong>A:</strong> AI领域的目标之一是统一度量衡，就像秦始皇统一货币和度量衡一样，3D高斯可能为数字化世界提供了一个高效的统一框架，使得图像、视频、声音等能够在同一纬度上生成和处理，从而推动整个行业高速爆发。</div>
-</div>
-<div class="qa-item">
-<div class="question"><strong>Q:</strong> 3D高斯是否意味着放弃了3D渲染的传统方式，采用了全新的技术路径？</div>
-<div class="answer"><strong>A:</strong> 不是这样，3D高斯并非完全摒弃传统图形学，它在渲染过程中仍利用了光栅化等传统图形学技术，而是在非完全依赖AI模型渲染的基础上，实现了低成本、高质量的3D内容生成，这是其核心突破点。</div>
-</div>
-<div class="qa-item">
-<div class="question"><strong>Q:</strong> 现有3D资产能否通过3D高斯技术实现高速化转化，以及该技术是否可以无缝嵌入现有的研发管线？</div>
-<div class="answer"><strong>A:</strong> 目前3D高斯技术尚未达到完全替代传统3D渲染的程度，预计未来几年内将是混合式发展。对于现有3D资产，理论上可以通过3D高斯技术进行高速化转化，并有可能无缝嵌入原有的研发管线，但具体实现可能需要引擎和其他相关技术的配合与改造。</div>
-</div>
-<div class="qa-item">
-<div class="question"><strong>Q:</strong> OK3D高斯能否进入到传统的工具链中？如何实现3D高斯人的运动？</div>
-<div class="answer"><strong>A:</strong> 可以，虽然目前整个产业还未准备好，但通过成熟的算法可以将3D高斯（激光点云）转化为传统3D三角形面，并且可以用传统3D编辑器和工具去编辑和影响点云。将3D高斯进行脉血化后，使用传统图形引擎的骨骼系统驱动match榜上的骨骼，再将顶点反向驱动回高斯的点云，形成可运动的3D高斯。</div>
-</div>
-<div class="qa-item">
-<div class="question"><strong>Q:</strong> 3D高斯的发展历程与传统图形学相比如何？3D高斯是否可以快速普及并被广泛应用？</div>
-<div class="answer"><strong>A:</strong> 预计3D高斯可能只需要3到5年时间就能取得重大突破，而传统图形学用了20至30年。虽然3D高斯对数据和算力的需求相对较小，但它仍需专业级显卡支持，且需与大模型相结合以填补物理属性和空间特性方面的空白，因此不太可能像大语言模型那样通过较小机器快速普及。</div>
-</div>
-<div class="qa-item">
-<div class="question"><strong>Q:</strong> 欧米达公司在做什么方面的尝试？</div>
-<div class="answer"><strong>A:</strong> 欧米达公司在尝试将光线追踪的光照信息映射到整个3D高速场景中。</div>
-</div>
-<div class="qa-item">
-<div class="question"><strong>Q:</strong> 对于创业公司而言，是否应该选择3D渲染领域作为切入点？</div>
-<div class="answer"><strong>A:</strong> 创业公司可能更适合选择像电商这样原本没有3D技术但能创造更多价值的领域，因为传统游戏领域上下游依赖于成熟引擎，而3D高斯带来的创新利润空间更大。</div>
-</div>
-<div class="qa-item">
-<div class="question"><strong>Q:</strong> 3D高斯能否建立起数字化3D资产的标准度量衡？</div>
-<div class="answer"><strong>A:</strong> 3D高斯目前仅解决了可视化问题，若要成为真正的资产化标准，需要与物理特性和空间特性相结合，建立全新的度量衡体系。</div>
-</div>
-<div class="qa-item">
-<div class="question"><strong>Q:</strong> 如果马上用3D高斯技术落地，会做什么产品？</div>
-<div class="answer"><strong>A:</strong> 个人认为会开发一个UGC工具，让普通用户也能利用AI技术创作出令人惊艳的产品，推动AI产品向C端用户普及，打破中间件依赖，创造全新的数字娱乐蛋糕。</div>
-</div>
-<div class="qa-item">
-<div class="question"><strong>Q:</strong> AI对于游戏产业的影响如何？</div>
-<div class="answer"><strong>A:</strong> AI时代的游戏产业带来了巨大变化，特别是大模型的应用，让传统上需要大量人力和高成本的工作可以通过自然语言指令来完成，极大地提升了效率并拓宽了游戏创作的边界。</div>
-</div>
-<div class="qa-item">
-<div class="question"><strong>Q:</strong> 在AI时代，是否有可能出现只有AI才能完成的游戏制作，而人类无法做到？</div>
-<div class="answer"><strong>A:</strong> 是的，确实有这样的游戏。例如，利用大模型，我们可以创建一个能根据玩家的语言和行为产生不同结果的游戏世界，如养女儿的游戏。每个玩家养的女儿的性格、外貌等会因玩家的行为而变化，这是传统游戏设计无法实现的。</div>
-</div>
-<div class="qa-item">
-<div class="question"><strong>Q:</strong> 是否有可能由AI完全驱动一个游戏，从研发到运作都由AI来实现？</div>
-<div class="answer"><strong>A:</strong> 我们团队正在研发的方向就是通过AI来驱动游戏研发过程，并在运行时由大模型控制游戏世界的发展和运作，人类仅作为间接干预者。终极目标是利用AI技术帮助所有人创造互动的世界娱乐产品，甚至达到超越人工策划的程度。</div>
-</div>
-<div class="qa-item">
-<div class="question"><strong>Q:</strong> AI技术的发展是否有可能使游戏达到难以想象的好玩程度？</div>
-<div class="answer"><strong>A:</strong> 有可能，随着AI技术的发展，游戏可能会与现实生活中的精神追求相结合，满足人们在现实世界难以实现的需求，比如自信、勇敢等情感体验，甚至达到自我实现的精神层面。未来的游戏可能不仅仅提供基本的娱乐功能，还能提供更深层次的、类似灵魂伴侣般的互动体验。</div>
-</div>
-<div class="qa-item">
-<div class="question"><strong>Q:</strong> 如果现在只能用两周时间做一个新的创意产品，你会选择做什么？</div>
-<div class="answer"><strong>A:</strong> 我们会考虑用AI生成内容来颠覆游戏研发的工作流，比如快速生成3D图形等资产，让整个游戏内容生产流程更加高效和创新。同时，也会探索如何将AI融入到UGC内容创作中，以改变和提升数字化娱乐产品的设计流程。</div>
-</div>
-<h1>节目文稿</h1>
-<p class="transcript-line">
-<span class="time"><strong>[00:00:04]</strong> </span>
-<span class="speaker"><strong>发言人1: </strong></span>
-新蛋糕我觉得永远是最赚钱的，去抢老蛋糕的这个永远是最苦最累的活。确实是3D高斯他会去改变整个产业很多的东西，尤其是大家关注的什么元宇宙、数字孪生，然后直播卖货，这些才是真正三年高速的发展的一个最核心的区域。并且它所带来的利润和整个的产业的量的需求，这个蛋糕的大小可能可能是不是未来会比游戏产业还要大。
-</p>
-<p class="transcript-line">
-<span class="time"><strong>[00:00:39]</strong> </span>
-<span class="speaker"><strong>发言人1: </strong></span>
-游戏产业或者说影视产业，一直以来成本是会是它的最大的一个门槛。因为你要想把画面做好，这件事情就已经是很烧钱的一件事情。烧钱的本质的背后就是认知。
-</p>
-<p class="transcript-line">
-<span class="time"><strong>[00:00:55]</strong> </span>
-<span class="speaker"><strong>发言人1: </strong></span>
-就是DIT其实本质就是transformer的整个的底层的实现。然后其实是transformer实现了数字世界的统一的度量衡的单位。就token核心的一个重点就是数字化的这个世界。我们要想高速的发展统一度量衡，就秦始皇证明统一度量衡实际上是非常重要的。统一度量衡之后，这个世界才能高速的爆发。这个我觉得是一个很重要要的一个观点了。
-</p>
-<p class="transcript-line">
-<span class="time"><strong>[00:01:28]</strong> </span>
-<span class="speaker"><strong>发言人2: </strong></span>
-大家好，欢迎大家来到AI炼金术。我们今天邀请来的同学叫做咖啡。然后咖啡能不能简单自我介绍一下，我不知道应该挑你哪段重点讲。
-</p>
-<p class="transcript-line">
-<span class="time"><strong>[00:01:40]</strong> </span>
-<span class="speaker"><strong>发言人1: </strong></span>
-大家好，我叫咖啡唐金华。我大概干了十多年的这个游戏产业，一直在做这个游戏开发和游戏图形引擎开发。然后曾经做过国产商业化引擎，大概带这个产品带到过三年时间的国产number one。后面就一直服务与法国EB公司，做一些3A有关的一些研究了。
-</p>
-<p class="transcript-line">
-<span class="time"><strong>[00:02:04]</strong> </span>
-<span class="speaker"><strong>发言人2: </strong></span>
-所以如果要给你打广告的话，是可以说你是国内做游戏引擎数一数二的人。
-</p>
-<p class="transcript-line">
-<span class="time"><strong>[00:02:11]</strong> </span>
-<span class="speaker"><strong>发言人1: </strong></span>
-可以这样讲吗？这个就有点太高调了，还是有做过引擎开发吗？
-</p>
-<p class="transcript-line">
-<span class="time"><strong>[00:02:17]</strong> </span>
-<span class="speaker"><strong>发言人2: </strong></span>
-国内很少数做过自己的研发过游戏引擎，并且现在在给那个大公司做游戏引擎的人。
-</p>
-<p class="transcript-line">
-<span class="time"><strong>[00:02:25]</strong> </span>
-<span class="speaker"><strong>发言人1: </strong></span>
-低调OK。
-</p>
-<p class="transcript-line">
-<span class="time"><strong>[00:02:26]</strong> </span>
-<span class="speaker"><strong>发言人2: </strong></span>
-其实我关注到咖啡同学的话，其实是在一个埃踢的场子，就是超声波的线下活动。然后的话就在他家听他讲说3D的世界，然后我们可以用3D的游戏引擎，然后可以什么3D高斯什么的，就可以把一个世界给搭出来。不拉，听着就觉得非常的神奇。因为我最近关注三弟和diffusion，然后听到他讲就会发现说原来还有一个强控制，就是高所谓的可控制性的视频生成领域，其实不就是游戏，然后就是一些3D资产什么的。然后就听他讲着讲着就发现说，游戏行业好像这方面已经积累了十几二十年的经验，已经有大量的资产，大量的算法，人才，甚至于已有的数据资产已经在那里了。然后就突然觉得这边是一个宝藏，然后就拉了咖啡同学在请教。所以他是我在3D方面的老师，所以今天把他拉过来分享一下。
-</p>
-<p class="transcript-line">
-<span class="time"><strong>[00:03:24]</strong> </span>
-<span class="speaker"><strong>发言人2: </strong></span>
-就是大家天天讲transformer diffusion，然后其实也有旁边还有一个另外的世界，然后正在蓬勃的发展。而且最近两年我听咖啡讲说，其实这个领域有了非常重大的类似于diffusion这么大的或者transformer这么大的一个技术突破。所以的话今天把他邀请过来，我先从一个很小的问题入手。就是今年上半年有一个应用其实蛮火的，叫vegal。就是有把一个人可以换到另外一个场景里面唱歌跳舞什么的。他们走的应该是一种类似于3D的路径，就是把一些东西抽出来，然后再放进去诸如此类的那我看到他们最新的篇稿讲说未来要做游戏引擎。
-</p>
-<p class="transcript-line">
-<span class="time"><strong>[00:04:07]</strong> </span>
-<span class="speaker"><strong>发言人2: </strong></span>
-那从那个咖啡，从你们的那个专业的角度来看的话，是不是从游戏引擎反过来去做这种。比如说让一个人跳科目三这种舞，或者把我的我这个人的画像丢到一个电影里面去，把那个人替换掉。从游戏引擎的角度，是不是反过来去做这种小玩意儿其实会更容易一点，比他们反过来做有信心。
-</p>
-<p class="transcript-line">
-<span class="time"><strong>[00:04:29]</strong> </span>
-<span class="speaker"><strong>发言人1: </strong></span>
-理论上是的，其实我个人理解游戏引擎这个词其实有大量的义，因为这个词有的时候大家理解是一个叫游戏3D图形引擎这么一个工具。但是有的时候我们又把它当成了数字娱乐产品生产的一个解决方案。就是它不只是要做那个程序员，因为引擎是程序员写代码的工具，跟策划无关，跟美术可能也无关，也管不着。对，但是实际上大家需要的是一整套个数字化娱乐产品的这种解决方案。你比如说像中国的动画片，现在整个中国的动画片产业已基本上90%以上的公司都是使用UE5来去做这个动画片了。跟日本是完全不一样的，日本完全是通过手工的方式去做的。哪怕是现在有了这个will的这个画板能画了。但是本质它其实也是说从这个用笔来画，转换成这个数字的笔来画，仅此而已。
-</p>
-<p class="transcript-line">
-<span class="time"><strong>[00:05:28]</strong> </span>
-<span class="speaker"><strong>发言人1: </strong></span>
-个人理解就是说像vivo这样子的一些产品的话，它早期的时候更多的是一种对技术的一种宣发。我觉得它只能算是开发数字娱乐产品当中的其中一个环解。我觉得vivo目前的这个角度来讲，很难被定义成一个比较完善的一个商业化的产品。或者说适合一个公司去创业，去做的一个比较明确的商业化的一个目标。所以往下推导下去说，如果vivo说他自己未来也要做这个类似于这个游戏引擎的这种方案的话，那我觉得这个公司还是有蛮大的看头的。但是可能可能我觉得他要遇到的这个问题会非常的多。因为这家公司不是传统意义上面做这种数字娱乐产品开发的公司，这中间还是有很多行业的坑可能要去填的那。
-</p>
-<p class="transcript-line">
-<span class="time"><strong>[00:06:26]</strong> </span>
-<span class="speaker"><strong>发言人2: </strong></span>
-这那这里面我引发两个问题，一个小一点我先问，就是你刚刚提到说动画片儿现在大部分是用油性情做的。所以我为什么大家用游戏引擎来做动画片呢？是他创造这种什么3D的资产，或者让人动起来比较方便。
-</p>
-<p class="transcript-line">
-<span class="time"><strong>[00:06:43]</strong> </span>
-<span class="speaker"><strong>发言人1: </strong></span>
-我个人是这么理解一件事情，就是动画片这个领域从它的这个发展是在没有数字化之前，大家会发现它其实本质是个体力活，或者说是个量活。那么这个体力活，这个量活的核心，比如说我们要做一个一秒六是真的这个动画。那这个动画你就会发现他要的并非是你的创意，而是说你如何把这个六十真画出来。当然它画出这60帧，它也是需要一定的技术能力的，但是核心的这个点其实是个量。
-</p>
-<p class="transcript-line">
-<span class="time"><strong>[00:07:17]</strong> </span>
-<span class="speaker"><strong>发言人1: </strong></span>
-所以你会发现在2D的这个动画的时候，整个的那个产业早期其实是由中国这边大量的这种传统画油画或者是说画画领域没有找到很好工作的一群人在揭掉。就是欧美或者说日本的这个单子，在后面的话就是变成了朝鲜和韩国。别忘记朝鲜现在是很重要的一个，完全没错。因为他们那边画画功底的人还是挺厉害的，就传统化。所以这个是两地的一个状态。其实两两D就是一个苦活累活。
-</p>
-<p class="transcript-line">
-<span class="time"><strong>[00:07:50]</strong> </span>
-<span class="speaker"><strong>发言人1: </strong></span>
-那3D的状态为什么国内要做用3D来做？原因是第一，国内整个的动画片领域虽然发展的也比较早，并且也影响到像宫崎骏这样子的一个大师早期。不过早期的那帮上海上映的那帮非常厉害的人，好像后面都去了迪士尼了。所以导致中国的动画片其实是断代的。断代完了之后，就像99年，像非洲一样，他们没有经历过电话机时代，上来就是这个手机时代。
-</p>
-<p class="transcript-line">
-<span class="time"><strong>[00:08:19]</strong> </span>
-<span class="speaker"><strong>发言人1: </strong></span>
-中国的这个有动画片产业其实也是同样的道理，就是用CG动画片做起来。有动画片它速度比较快。首先第一点就是大量的场面，还有大量的人员，其实都是从影视行业过来的。他们对3d max玛雅都非常的熟，所以相当于是无缝切换过来。反而是传统的两D的那群人，那群老师去了，因为去了迪士尼之后产生断带导致的。
-</p>
-<p class="transcript-line">
-<span class="time"><strong>[00:08:50]</strong> </span>
-<span class="speaker"><strong>发言人1: </strong></span>
-然后我也跟上海，你比如说像东方明珠集团底下有一家公司，他一年下来也有几个亿的这个流水。做动画片的，然后跟他们有过很多的沟通交流，他们也觉得想招聘到两地的人员太难了。但是3D貌似因为中国游戏产业比较丰富，还是很容易招到人的。但是也只是说招到人而已，想要把一些顶尖的人招过来，对他们来说还是非常困难的一件事情。所以大概是这样的一个行业形态。
-</p>
-<p class="transcript-line">
-<span class="time"><strong>[00:09:22]</strong> </span>
-<span class="speaker"><strong>发言人2: </strong></span>
-好，这是刚刚听你讲想到的一个小问题。那个大问题就是你说因为他们比如说没有数字娱乐产业的经验，所以一定会踩坑。因为比如说像徐文浩，对吧？你看你没数字，那娱乐行业经验我也没有。我们都是以前做什么工具，做什么电商的那假设我们现在想做一个，比如说用三弟或者division什么的，我们做一些好玩的东西，然后让大家可以在里面娱乐。那你觉得我们会踩什么坑？我们提前先预警一下，就假设我们不是要做效率类的东西，我们就是要做好玩的、纯娱乐的、搞笑的命什么这种这这类的东西。你觉得我们会踩一些什么样的坑是我们现在看不见的。
-</p>
-<p class="transcript-line">
-<span class="time"><strong>[00:10:03]</strong> </span>
-<span class="speaker"><strong>发言人1: </strong></span>
-如果说你所做的这个产品AI的这个占比，或者说AI创作的这个占比，它占比是比较小的情况下，那么你就会发现3D它有一个巨大它的一个门槛。我举个例子，你比如说像我们整个的网页产业和这个APP的产业，还有ARVR相关的产业，都没有大规模的去铺出一些3D有关的产品。原因就是3D的程序员和3D的整个的团队制作团队，实际上放在传统的开发的这个角度或者研发的这个角度来讲，它是非常昂贵的。如果你整个产品的这商业化，也就是说你的收入和你这个支出，你没有办法能够保障到一定的这个比例之上。那你这个产品是很难真正意义上面做商业化的。当然你说你做了，我觉得肯定是没有问题的。你想要把它变成商业化，这中间一定会涉及到成本的这个问题，这个是可能才是最核心的一个点。
-</p>
-<p class="transcript-line">
-<span class="time"><strong>[00:11:02]</strong> </span>
-<span class="speaker"><strong>发言人2: </strong></span>
-就做三弟很贵的意思吗？
-</p>
-<p class="transcript-line">
-<span class="time"><strong>[00:11:03]</strong> </span>
-<span class="speaker"><strong>发言人1: </strong></span>
-非常贵，不是很贵。
-</p>
-<p class="transcript-line">
-<span class="time"><strong>[00:11:05]</strong> </span>
-<span class="speaker"><strong>发言人2: </strong></span>
-是非常贵，大概是个怎么样一种贵法？因为现在做AI我token也要给钱，然后我要做什么视频的话，我要烧GPU也得给钱。就是我们现在做AI的产品本身也成本意识比做互联网的时候已经强了很多。假设我要进入到更三低一点，是再会多两个数量级的意思吗？
-</p>
-<p class="transcript-line">
-<span class="time"><strong>[00:11:24]</strong> </span>
-<span class="speaker"><strong>发言人1: </strong></span>
-我觉得这个不是说数量级的一个问题。我举个我。做一个流程。比如说我们现在要设计一个苹果，然后放到这个手机上面让他去展示。接下来我们第一件事情可能要去找一个原画师，这个原画师给你画出一个两D的苹果，接下来完了之后，可能我们这个两地的苹果我们要去建模了。
-</p>
-<p class="transcript-line">
-<span class="time"><strong>[00:11:45]</strong> </span>
-<span class="speaker"><strong>发言人1: </strong></span>
-建模也分很多种，比如说我们按照玉璧的这种3A游戏的方式去建模，那可能就是这个苹果有可能就价值一两万，一两万这个苹果比你买的苹果还要贵。那也有便宜的，比如说5000块钱的，3000块钱的那有些人比如说我收了你一两两万，如果你没有这个鉴别能力，很有可能就是你给了一两万块钱给对面建模的人。但是实际上他们用一些投机取巧的办法，比如说用软件来生成这个法线贴图，你会发现他给了你这些东西。但是如果你没有校验的办法的话，你会发现苹果并没有真正意义上面达到3A的这个标准。
-</p>
-<p class="transcript-line">
-<span class="time"><strong>[00:12:23]</strong> </span>
-<span class="speaker"><strong>发言人1: </strong></span>
-假设这一关我们过了，那接下来假设我们对苹果还需要一个生长的一个动画。比如说它是怎么从小苹果长成大苹果的。接下来你要找一个动作的岗位，把这个苹果直上这个骨骼，然后坐上这个骨骼的上面的动画。那么你做好了之后还没有能用，你还需要放到比如说unity或者UE里面去调整它的那个噱头。然后去看一看这个苹果在unity里面渲染的效果是不是对的。你在unity渲染效果是对的，不意味着你放到U一里面就是对的了。那么中间这中间任何一个环节，如果你进行反攻，那么你前面的环节都得重新再来一遍，很容易就导致发生这样的一个事情。
-</p>
-<p class="transcript-line">
-<span class="time"><strong>[00:13:04]</strong> </span>
-<span class="speaker"><strong>发言人1: </strong></span>
-所以一个成熟的团队可能他假设用1万块钱制作出来的这个苹果。那么一个不成熟的团队也他有可能最后这个苹果拿到你实际用的时候，他可能中间来回的成本变成了3万5万，甚至完全不能那么多东西你得重来一遍。这在游戏产业里面都是非常正常的一个坑，也是算是挺大的一个坑。这也是国内为什么大家会发现黑悟空这样的一个产品，实际上是非常值得大家尊重的一个原因。因为你要想把画面做好，这件事情就已经是很烧钱的一件事情了，烧钱的本质的背后就是认知。
-</p>
-<p class="transcript-line">
-<span class="time"><strong>[00:13:44]</strong> </span>
-<span class="speaker"><strong>发言人2: </strong></span>
-所以说比如说我要拍一些，因为有一些国产动画片看着也挺粗糙的，如果要拍一些那种东西就挺容易的。如果我要做黑悟空这种光建模这方面的成本就是超乎想象的。
-</p>
-<p class="transcript-line">
-<span class="time"><strong>[00:13:55]</strong> </span>
-<span class="speaker"><strong>发言人1: </strong></span>
-没错，动画片其实也很贵的。他们之所以便宜的原因，一是因为他们用了大量可能不是那么符合行业标准的一些素材，反正先凑合着先上吧，能满足档期就可以了。所以你会发现就是那些动画片里面的这些动作，还有场景等等相关的光影也好。它可能虽然是离线是这样的，可能还不如像EA、暴雪或者玉璧这样的一些实时渲染的游戏，可能画面还不如那些。
-</p>
-<p class="transcript-line">
-<span class="time"><strong>[00:14:27]</strong> </span>
-<span class="speaker"><strong>发言人2: </strong></span>
-对我看到有一些爱奇艺上的动画片的话，反正我刚刚上线之前在打刚把白衣修士打掉，在打那个神话悟空。确实我觉得他还没有黑神话悟空的游戏画面好。那些大部分的国产的3D动画。所以其实还是成本是一个就要做好，其实是需要巨大成本的事情。
-</p>
-<p class="transcript-line">
-<span class="time"><strong>[00:14:48]</strong> </span>
-<span class="speaker"><strong>发言人1: </strong></span>
-对游戏产业或者说影视产业，一直以来成本是会是它的最大的一个门槛。而且这里面的成本不是说你掏钱就可以了，而是说你掏完钱了之后，你想找能够满足你要求的人。这群人在整个产业里面就非常的稀少。他不是说你掏钱就一定能找到相应的人给你做的。
-</p>
-<p class="transcript-line">
-<span class="time"><strong>[00:15:10]</strong> </span>
-<span class="speaker"><strong>发言人2: </strong></span>
-上一次的话我们组织了一个meet up，专门讨论3D和diffusion生成方面。然后那一次在就在听你讲说，其实你觉得在3D的领域，其实也在发生重大的技术突破，就有点像division GPT这么大的技术突破。我印象当中你说的是三弟高斯，那这个突破它是一个可以把成本大幅度下降的一个重大的影响的事件，还是一个纯粹的学术突破，还是一个真的有用的就是像gbt，像diffusion这么大的一个突破。
-</p>
-<p class="transcript-line">
-<span class="time"><strong>[00:15:41]</strong> </span>
-<span class="speaker"><strong>发言人1: </strong></span>
-我觉得是3D是做了一个很大的一个突破。为什么？因为我可能从0708年就开始关注图形学这一块。然后大概是在09年的时候，图形学上面由迪士尼提出的PPR，就是基于物理的这个渲染完了之后，再再到最近我就没有发现什么这个图形学上面从底层，从基础公式这种级别上面的一些改变了。
-</p>
-<p class="transcript-line">
-<span class="time"><strong>[00:16:08]</strong> </span>
-<span class="speaker"><strong>发言人1: </strong></span>
-之前的整个游戏产业里面相关的论文也是比较少的。但是自从从我们这一波传输former大模型开始左右，就开始有人企图用这个大模型就是nerve去证明确实我们可以用大模型这种思路来去实现这个渲染。也就是说走了一条完全跟传统图形学不一样的一个路子。至少从十位数上面证明它是OK的。虽然它的整个性能比较差劲，但是这个乐府出来之后，又有一个应该是一群法国海边的一个大学里面三个法国人加一个德国人。
-</p>
-<p class="transcript-line">
-<span class="time"><strong>[00:16:52]</strong> </span>
-<span class="speaker"><strong>发言人1: </strong></span>
-我看他那个辩论是这样的，就是发出了一篇论文，提出了3D高斯这个观点。他从严格意义上面来讲，并不是纯粹意义的AI渲染。但是他提出了全新的高斯球的这种渲染模式，也是非常有意思的。并且我觉得它的核心，因为我们刚刚在聊3D的时候，我一直聊一件事情，3D可以把很多东西做好，但是它的成本是很昂贵的。3D高斯的核心是第一，你只要用手机录出视频，完了之后这个视频的角度以及它的整个的清晰度足够的情况下，我们是可以通过训练的方式去渲染出一个非常逼真的环境的。整个过程不需要专业的人员参与，随便一个只要能摄影的好的人，照一定的规范，他就能够去还原出一个可能价值什么10万20万甚至50万的这么一个场景。这件事情其实上是非常突破性的一个变化的了。
-</p>
-<p class="transcript-line">
-<span class="time"><strong>[00:17:59]</strong> </span>
-<span class="speaker"><strong>发言人1: </strong></span>
-第二个事情的话就是说这篇论论文应该是2023年是八月份还是九月份左右发出来的。截止到今天为止，大概一年多一点点时间吧。就这么短的一个时间，我看到了整个图形圈子里面大量的人去参与进去。你比如说像unity公司的三号员工就专门为3D高斯描写，当然这个人已经离职了，他专门为unity写了一个插件，然后做了一些这种优化。然后大家可以在图形引擎里面进行混合式的这种渲染。那不只是unit了，UE之类的引擎也跟上了。包括我们团队，我针对我们自己的引擎，我们也写了整个高斯的混合性渲染的优化，让这个高是进入到我们的场景里面去了。
-</p>
-<p class="transcript-line">
-<span class="time"><strong>[00:18:50]</strong> </span>
-<span class="speaker"><strong>发言人1: </strong></span>
-刚刚说的是成本，我们再说渲染效果，就3D高斯在写实的物品渲染的效果上面，是远远超过传统我的这个图形学的真实程度。是可以让普通人做出这种类似于电商购物决策的。就是这两点上面我认为是突破性的。
-</p>
-<p class="transcript-line">
-<span class="time"><strong>[00:19:12]</strong> </span>
-<span class="speaker"><strong>发言人3: </strong></span>
-我好奇打断问一句，就是说让普通人做出电商购物决策这一点，是已经有现成的公司或者demo做到这一点了吗？
-</p>
-<p class="transcript-line">
-<span class="time"><strong>[00:19:21]</strong> </span>
-<span class="speaker"><strong>发言人1: </strong></span>
-您可以上那油管上面去搜一下，有好多家公司已经提供相应的APP。您可以照着那个AP下载，然后去扫描你的眼镜或者苹果，然后它会生成里面的质量。我目前也在跟一家国内的一家公司在合作，可能就是看看十月份或者11月份也会对外公开一个APP，然后实现相应的这个效果。就是让普通人也可以做到非常逼真的这种小物件或者说大场景的这种还原。
-</p>
-<p class="transcript-line">
-<span class="time"><strong>[00:19:51]</strong> </span>
-<span class="speaker"><strong>发言人2: </strong></span>
-我现在比如说我面前的这个麦克风是意思是我拿着手机对着他，比如说转一圈，拍个视频，就直接可以生成一个麦克风的3D资产。然后可能只要几块钱人民币成本。
-</p>
-<p class="transcript-line">
-<span class="time"><strong>[00:20:03]</strong> </span>
-<span class="speaker"><strong>发言人1: </strong></span>
-显卡是不是几块钱，我现在我不好说，但是未来我觉得有可能会比几块钱更低的一个成本。因为信用卡算力现在大家都在去做。而且重点是它非常逼真，是你用传统的图形引擎，需要经过大量专业人士才能得到的这个效果，可能这个效果是差不太多的。
-</p>
-<p class="transcript-line">
-<span class="time"><strong>[00:20:23]</strong> </span>
-<span class="speaker"><strong>发言人2: </strong></span>
-所以黑神话悟空我看到杨其的采访是说，他们开始是自己在搭环境，最后就干脆直接去扫描那些房子。然后说然后那边那个采访他的人说就说这是不是一个巨大的成本和工，他说其实这样还比较省钱一点，他们用的是不是那就是类似的技术。
-</p>
-<p class="transcript-line">
-<span class="time"><strong>[00:20:41]</strong> </span>
-<span class="speaker"><strong>发言人1: </strong></span>
-他们用的其实并不是3D高斯，他们用的还是图片转3D的这么一些传统的方案。这里面我可能要跟大家同步一个小小的信息，就是国内很多人都觉得做游戏一定是3D建模人员凭空来去建一个模型。做手游确实是这个样子的。原因是我们需求的东西没有那么逼真，或者说我们没有支没有办法去支付这么高的一个成本。所以我们大量选择的都是建模，甚至是很多所谓的外包公司，他也不是从零给你建模。比如说你需要一个船，他就是拿随便拿一个船来给你改改，反正改到你满意为止，反正合同签好只要改十遍，我改了十遍就行了，就交差了。所以你会发现国内的很多游戏为什么没有那么精美的了，就来源于这个原因。
-</p>
-<p class="transcript-line">
-<span class="time"><strong>[00:21:35]</strong> </span>
-<span class="speaker"><strong>发言人1: </strong></span>
-整个3A产业里面，我们不管是场景其实都是扫描的。比如说玉璧的那个刺客信条的大革命里面，就把那个巴黎圣母院花了大概三年的时间吧，用最精准的激光扫描，把整个巴黎圣母院。精准的的去建在了我们的这个游戏当中去。大家可以看到就是巴黎圣母院我被烧了之后，还捐献的一些数据，帮助政府去去修复这个巴黎圣母院，这是第一个事儿。
-</p>
-<p class="transcript-line">
-<span class="time"><strong>[00:22:05]</strong> </span>
-<span class="speaker"><strong>发言人1: </strong></span>
-第二个事情就是相信黑悟空的人，大家都知道里面的蜘蛛精都是有相应的脸膜和体膜。其实海外的3A游戏早就是这么做了，并且动作也是有专业的人员来去做动作来去实现的，所以这样反而会更加节省成本。所以3D高斯的第三个特征就是来了。本来我们产业用的就是扫描。这些传统的扫描的这些资产是可以快速。如果他们当时做的比较好的话，是可以快速的去做高速化的，它的这个成本也会降低了很多原因是传统的这个扫描是没有办法做语义的，你没办法插到这种东东的环节。
-</p>
-<p class="transcript-line">
-<span class="time"><strong>[00:22:47]</strong> </span>
-<span class="speaker"><strong>发言人1: </strong></span>
-比如说我们有一个城楼，城楼上面有有旗帜，有有壁灯，也有墙壁上面的专。那么它扫描出来的一整个模型就会是一整个整体。那么我们我后期模型人员需要自己手工看上面的物体，手工进行物体识别。把这个城楼这个城墙给拆成比如说灯和这个栅栏，和这个可活动的区域，传砖头等等相关的东西。
-</p>
-<p class="transcript-line">
-<span class="time"><strong>[00:23:16]</strong> </span>
-<span class="speaker"><strong>发言人1: </strong></span>
-如果用3D高斯来去做的话话，我们是可以用AI来去做语音识别。然后提前把这个物件给去拆分出来。所以它会降低的成本会更多，并且它的逼真度度也非常好。
-</p>
-<p class="transcript-line">
-<span class="time"><strong>[00:23:29]</strong> </span>
-<span class="speaker"><strong>发言人2: </strong></span>
-没有明白这件事情，就是原本的他也可以用AI去帮他拆，为什么只有3D高斯的才能用AI拆呢？
-</p>
-<p class="transcript-line">
-<span class="time"><strong>[00:23:36]</strong> </span>
-<span class="speaker"><strong>发言人1: </strong></span>
-原本的那个流程里面确实我们可以加上那个AI去拆，但是现在基本上没有人去去研究这件事儿。因为原本的流程它已经定在那里了，你去做当然可以。但是你做好了之后，然后你下一步，因为传统的那个算法公式的关系，所以你比如说你这个灯亮起来，它实际上是用削弱来去实现的。所以你就算是把它拆出来了之后，也有很多的这种综合的问题要去处理。但是在3D高斯目前为止有大量的人工智实验室。你比如说我记得华为好像跟上海交大就有过一篇论文，然后直接就是3D高斯里面做语义识别要拆分的。就是这一块现在是研究的热点。
-</p>
-<p class="transcript-line">
-<span class="time"><strong>[00:24:19]</strong> </span>
-<span class="speaker"><strong>发言人2: </strong></span>
-那你可不可以用简单语言给小白讲解一下，说3D高斯是个啥？这个技术是怎么实现的？
-</p>
-<p class="transcript-line">
-<span class="time"><strong>[00:24:28]</strong> </span>
-<span class="speaker"><strong>发言人1: </strong></span>
-简单粗暴点理解，大家可以理解，就是我们用相机针对现实的物理世界当中进行拍一堆的照片。完了之后用某种特殊的这种高斯算法对它进行压缩。然后因为我们有了现实世界当中的实际的光影信息，并且是不同角度的光影信息。那么我们还原出来的光影信息一定比我们用fake版的这个数学公式还原出来的光影信息更加逼真。因为一个是你用一个fake的公式算出来的光影信息，另外一个是我直接得到答案。比如说像你现在面前的那个麦克风，它的它为什么是比如说是灰色的那我们通过游戏引擎渲染的时候，我需要有大量的公司去渲染它。但是使用高斯的话，我纯粹采集就好了，我不要管他为什么我采集出来的一定是最逼真的。粗暴的理解粗暴的理解了解。
-</p>
-<p class="transcript-line">
-<span class="time"><strong>[00:25:26]</strong> </span>
-<span class="speaker"><strong>发言人2: </strong></span>
-我之前听你跟我就是讲完之后，我还专门去问了一下那个GPT。然后他给我的讲法是说，他拍摄的时候，他就会把它采集到的所有的点，然后把用高斯算法把它变成一个概率球。然后所有的概率求拼起来的时候，再去算那个最大概率平面。然后就不是像以前的那个，就是纯粹的相当于以前三角形，对吧？三角形、四边形去拼起来，这边的话就是无数个点，然后每个点都是有一定概率的一个球。然后那些球和球之间拼起的话，最大概率的那个面就会自然而然的出来。他GPT这个讲解大概对吗？
-</p>
-<p class="transcript-line">
-<span class="time"><strong>[00:26:05]</strong> </span>
-<span class="speaker"><strong>发言人1: </strong></span>
-对，非常对，也非常精准。但是这个东西不好理解。
-</p>
-<p class="transcript-line">
-<span class="time"><strong>[00:26:10]</strong> </span>
-<span class="speaker"><strong>发言人2: </strong></span>
-是我看到的时候其实会觉得非常之恐怖。就是就概率求这个事情之前我只在微观世界学物理的时候，学量子物理的时候看到过。然后就觉得说难道这个东西跟量子物理里面那个那个东西好像也是有一定的概率。然后就觉得说好像跟遇事不决量子力学，啥不懂的东西好像都跟量子力学有点关系，就是很神奇。
-</p>
-<p class="transcript-line">
-<span class="time"><strong>[00:26:35]</strong> </span>
-<span class="speaker"><strong>发言人1: </strong></span>
-我觉得你重点不要去理解那个概率球，可能高斯球可能会更精准一点。那个那个可能以概率求这个，你会把概率那件事情作为这件事情的思考中心了。
-</p>
-<p class="transcript-line">
-<span class="time"><strong>[00:26:46]</strong> </span>
-<span class="speaker"><strong>发言人2: </strong></span>
-对，但实际上不是。
-</p>
-<p class="transcript-line">
-<span class="time"><strong>[00:26:47]</strong> </span>
-<span class="speaker"><strong>发言人1: </strong></span>
-是吧？对，因为高斯求这个算法，我在上一次跟硅谷的一个朋友在聊天的过程当中，他说3D高斯的这个算法并不是今天才被发明出来的。他们当年在做那个摄像机，就实体摄像机采集的时候，曾经做过类似的一些算法和类似的一些做法。具体的我可能得后面去问问他们了，反正这个东西并不是今天才发明的一个东西，是有过前身的。
-</p>
-<p class="transcript-line">
-<span class="time"><strong>[00:27:15]</strong> </span>
-<span class="speaker"><strong>发言人2: </strong></span>
-然后另外就是李飞飞他们最近很火，在搞那个空间智能，这他们就搞的空间智能和和你说的这个什么3D、高斯这些东西是有关系吗？是一回事儿吗？还是没关系？
-</p>
-<p class="transcript-line">
-<span class="time"><strong>[00:27:30]</strong> </span>
-<span class="speaker"><strong>发言人1: </strong></span>
-其实我觉得这是一个非常有意思的一件事情。目前我们看下来，大模型已经可以把这个文字、代码、图像，然后视频、声音做的非常的好了。并且他也把这个作为了一个数字化世界的一个基础单位。Token就是把上面的所说的东西全部都进行脱口化了。
-</p>
-<p class="transcript-line">
-<span class="time"><strong>[00:27:54]</strong> </span>
-<span class="speaker"><strong>发言人1: </strong></span>
-整个的李飞飞在做的这个空间智能，我认为约等于三低，但是又不是3D我觉得它是AI发展的一个必然的一个现象。原因是什么？就是你比如说我们看看人类的发展，比如说我们人类先是发明了文字，然后有纸张可以写文字。完了之后因为有纸张了，既然写文字，那我还不可以画画点画，所以我们就从文字走向了画画，对吧？那画画也这个画静态的话也没有意思，所以我们后面又发生了发明了这种留声机，就是可以把声音给记录下来对吧？然后再到后面我们可能有这个无声电影，慢慢又变成有声电影了完了之后我们又又开始有2D的这种游戏，做着做着然后我们走向了这个3D的游戏，这是人类的发展轨迹。
-</p>
-<p class="transcript-line">
-<span class="time"><strong>[00:28:46]</strong> </span>
-<span class="speaker"><strong>发言人1: </strong></span>
-电脑硬件的发展其实也是，比如说电脑硬件一开始电脑只能处理这个文字，只能打字。那大家就是通过用这个字符，然后去构建出类似于图片的东西。比如说我们用有很多人用代码来去构建一个佛祖，然后保障着自己代码不要崩溃。都大家应该能让人看到这种梗。
-</p>
-<p class="transcript-line">
-<span class="time"><strong>[00:29:09]</strong> </span>
-<span class="speaker"><strong>发言人1: </strong></span>
-然后再到后面，有人就想为什么不能用电脑来去处处理这个头像呢？后面就电脑就有了图像的能力。完了之后既然有图像了，我当然我也要声音。然后有声音了之后，我们就有电影。有电影开始就有2D的这种游戏，再到3D类的游戏吧。
-</p>
-<p class="transcript-line">
-<span class="time"><strong>[00:29:26]</strong> </span>
-<span class="speaker"><strong>发言人1: </strong></span>
-所以我理解李飞飞我说的这个空间智能，其实本质就是一个近义词。并且我觉得他们应该是同一个回事，也是说AI发展的一个必然过程。因为AIG也是像我刚刚所说的一样，从文字再到代码，再到图像，再到视频，再到声音。那接下来我们要解决的问题都是这样子的，所以我觉得这个是一个发展的一个必然的一个方向。然后今天上午。
-</p>
-<p class="transcript-line">
-<span class="time"><strong>[00:29:53]</strong> </span>
-<span class="speaker"><strong>发言人2: </strong></span>
-我跟徐文浩还在跟硅谷的朋友在聊，也是他们在做，也是算空间智能。现在大家看都统一到这个词汇下面了，但是他们走的路线基本上我聊的大部分做，比如说做视频什么的人。因为视频也牵涉到3D，因为你至少你视角要动一下，那这个时候基本上都统一到DIT路线了。
-</p>
-<p class="transcript-line">
-<span class="time"><strong>[00:30:15]</strong> </span>
-<span class="speaker"><strong>发言人2: </strong></span>
-然后从这种创业者的角度，经常的一个观点是认为说既然我们有了gbt的这个教训，就是说那其实就怼数据就好了，就不需要在中间搞一层3D你就把那个原始的2D的这种图像数据只要怼到足够，然后多样性，当然标注乱七八糟，要搞得足够好，算力堆到够之后，他自然会在里面，他会理解这个世界的。比如说一个CD的关系不需要显性的，我们来搭一层所谓三弟的这个东西，就跟以前可能我们需要知识图谱NLP里面要搞很多有的没的那种东西才能够理解语言。现在的话就transformer全搞定了，对吧？那现在大家是有一种观点是说都统一到DIT了，就没有必要搞3D了。那你是很显然应该不同意这个观点。
-</p>
-<p class="transcript-line">
-<span class="time"><strong>[00:31:07]</strong> </span>
-<span class="speaker"><strong>发言人1: </strong></span>
-来来炒一炒。我觉得是这样的，最早的时候图片和视频它都是基于这个unit的网络来去做的。然后这个网络我们粗暴的理解，因为今天也不是学术性的这种探讨，我们粗暴的理解他就是为一个图形2D网络来而生的设计的这么一个网络。后续大家在上面缝缝补补做了很多，比如说生成视频的事情。你比如说皮卡软件早期也是录unit的，也没有说直接到DIT里面，到存储form里面去。所以后面还出现了什么3d unit，就是为了解决一些持续的问题，还有3D就多一个纬度，多一个轴的一个问题。其实这里面都是缝缝补补的这一件一一件事情。
-</p>
-<p class="transcript-line">
-<span class="time"><strong>[00:31:50]</strong> </span>
-<span class="speaker"><strong>发言人1: </strong></span>
-我觉得每个时代都会有自己的一些历史的一个目标。Unita的早期是比如说为什么李菲菲是这个AI的窍，是因为他这就奠定了整个的AI加图形图像的整个的识别的整整块领域相关的基建和相关的整个的内容。所以我个人理解unit的早期的这个目标就是告诉大家AI能干生成图片和视频的这个事情。但是他干的好不好，或者说他干的这个实际对不对，其实不是那么重要，只要他能干就可以了。
-</p>
-<p class="transcript-line">
-<span class="time"><strong>[00:32:29]</strong> </span>
-<span class="speaker"><strong>发言人1: </strong></span>
-你比如说像游戏里面，我们游戏也有大量的这种fake的内容。你看着像是那么回事，其实背后都不是就是真实的这个物理或者是真实的这个图形渲染，大家统一到DIT，我觉得这个话我可以换个话来去说，就是DIT其实本质就是transformers的整个的底层的实现。然后其实是transformer实现了数字世界的统一的度量衡的单位，就token很好的去描述。比如说说文字代码、图像、视频、声音、物理，甚至是最近GPT4O推出的这个所谓的思维链或者说思考模式等等相关的这个东西。所以我理解我们核心的一个重点就是数字化的这个世界。我们要想高速的发展统一度量衡，就秦始皇证明统一度量衡实际上是非常重要的。所以我觉得不是大家统一到DIT的这个路线，而且这个路线可能是最快的，能让大家去去统一度量衡的。
-</p>
-<p class="transcript-line">
-<span class="time"><strong>[00:33:33]</strong> </span>
-<span class="speaker"><strong>发言人1: </strong></span>
-能让比如说我们在生成视频的这个过程当中，比如说把它相关的代码或者说相关的声音也能做同一个纬度的的去生成。而不是声音生成声音的，图片生成图片的，视频生成视频的。这个时候才能为我们真正意义上面产品化打下了坚实的基础。按照秦始皇的这个做法，统一度量衡衡之后，这个世界才能高速的爆发。这个我觉得是一个很重要的一个观点了。
-</p>
-<p class="transcript-line">
-<span class="time"><strong>[00:34:04]</strong> </span>
-<span class="speaker"><strong>发言人2: </strong></span>
-所以这不是不见得是矛盾的事情。
-</p>
-<p class="transcript-line">
-<span class="time"><strong>[00:34:06]</strong> </span>
-<span class="speaker"><strong>发言人1: </strong></span>
-我不认为是一个矛盾的事情，我认为是一件好事，而且是非常好的一件事情。你比如说现在很多投资人都在投纹身动作和纹身3D我觉得他们两个是一件事情。你比如说你纹身动作，你做了一个手挥舞的动作，那不好意思，你做手挥舞的这个动作，你的手假设臂长是比如说40厘米，然后我的手臂长，我是个小孩子，我是20厘米的这个臂长，那你这个动作套到我这个小孩子的这个手明显就不合适。这个动作一定是错误的。你这个动作配上我这个人怎么用？没完全没法用。所以你要想生成一个完全可用的一个模型理论，两者之间应该是共同去生成的。
-</p>
-<p class="transcript-line">
-<span class="time"><strong>[00:34:53]</strong> </span>
-<span class="speaker"><strong>发言人1: </strong></span>
-你在生成动作的时候要考虑到我的臂长，我的腿长，还有我的整个的动作的小程度，还有我肌肉的程度。你比如说一个120斤的胖子跟一个220斤的胖子，身高就是一样的情况下，他他的动作也不应该是一样的。所以统一度量衡是非常重要的。
-</p>
-<p class="transcript-line">
-<span class="time"><strong>[00:35:11]</strong> </span>
-<span class="speaker"><strong>发言人2: </strong></span>
-确实其实很多视频里面已经有3D了。比如说它里面非常常见，就是至少你会加一层深度的深度吗？深度不就是又又一个维度，对，深度图、骨骼图。
-</p>
-<p class="transcript-line">
-<span class="time"><strong>[00:35:24]</strong> </span>
-<span class="speaker"><strong>发言人1: </strong></span>
-是的。
-</p>
-<p class="transcript-line">
-<span class="time"><strong>[00:35:25]</strong> </span>
-<span class="speaker"><strong>发言人2: </strong></span>
-我觉得你们真的是搞技术的，非常的温和。我那天其实还在怂恿一个是不是三弟路线的人，然后你在讲的时候，我就说来上去吵架，去那天那个meet up结果他也没有冲上去跟你吵。你现在也是这么平和，搞技术的人好难吵起来。
-</p>
-<p class="transcript-line">
-<span class="time"><strong>[00:35:48]</strong> </span>
-<span class="speaker"><strong>发言人3: </strong></span>
-其实我有很多很好奇的问题，因为战地高斯这个事情其实也是mars前一阵介绍vivo的时候，我大概去看了一下。但其实我对这个领域完全不了解。对，因为这一轮的大语言的模型也好，CVD fusion也好，是都是一个高度依赖海量数据的逻辑。就是说我越有高质量的数据，我的数据量越大，通常意味着我这个模型的能力越强。回到这个3D高斯这个领域，这个逻辑也是一样的，它同样是一个我把那个叫传统的AI领域，就是叫skating law，对吧？就是我只要去堆数据，我就能获得更好的结果。那3D高斯今天也也是也是说我其实需要海量的这些照片和对应的，比如说它历史的3D模型去做这件事情，还是说他对数据其实没有那么饥饿。
-</p>
-<p class="transcript-line">
-<span class="time"><strong>[00:36:38]</strong> </span>
-<span class="speaker"><strong>发言人1: </strong></span>
-其实3D高斯这个事情，它跟乐府是有本质的一个区别的。它本质并不是一个完全由AI大模型的去渲染的这么一个渲染模式。它中间还是用了这个光栅化，也就是传统图形学里面的东西。
-</p>
-<p class="transcript-line">
-<span class="time"><strong>[00:36:52]</strong> </span>
-<span class="speaker"><strong>发言人1: </strong></span>
-当然我觉得3D高斯它就有点像我们这个图形算法。比如说最早的时候是有个叫干算法的人，比如说法要做的非常棒，但是它还是没有达到大家应用的要求。直到出现了stable diffusion，才大家统一的认可OK这是division的这个算法是可以做到大家的产业化或者商业化的那3D高斯是不是直接就是终点的呢？我觉得未必，因为它中间只是解决了我们是否可以拿到游戏产业去应用的一个事情。它跟AI它是除了这个训练的过程是用了一些AI的算法之外，它在渲染的过程其实跟AI关系不大。所以它对于数据上面的要求有，但是不是传统意义上面大模型的这种斯英诺它的核心在于通过一种非完全传统农学新学的方式，然后达到了一个非常低成本，低到你完全无法想象的一个成本。并且他渲染的这个质量非常高高到了也是说你一定要请到非常专业的3D图形人员，或者说相应的这种美术制作人员，才能做到它的这个效果。所以它的核心突破点是在在这，而不是真正意义上面在AI那一块。
-</p>
-<p class="transcript-line">
-<span class="time"><strong>[00:38:09]</strong> </span>
-<span class="speaker"><strong>发言人1: </strong></span>
-但是因为它是一个基建，大家应该听过欧米伽公司一直想推那个open USD。其实我是极度不看好这个open USDD的，为什么？因为欧米伽西方它成为整个产业的标准，原因是在影视产业和游戏产业，还有动画片的相关的一些产业，还有包括传统的一些建模的那种，比如说工业CAD的建模的产业其实是非常割裂的。每个产业的这些数字化资产是没有办法去做到通用的，并且跨过去折损奇大无比的。所以3D高斯它很有可能，我只是说很有可能它是能够解决掉整个数字化世界的统一度量衡的一个问题。所以我为什么觉得它是一个核心发展的一个要点？他很有可能会完成eeda寄望于open USD的这么一个历史的一个事件。
-</p>
-<p class="transcript-line">
-<span class="time"><strong>[00:39:05]</strong> </span>
-<span class="speaker"><strong>发言人1: </strong></span>
-还有一件事情的话就是说关于老的资产。比如说现有我们说产业积累。比如说迪士尼积累了大量的这种传统3D及match的这些资产，它也是可以反向进行3D的高速化的。
-</p>
-<p class="transcript-line">
-<span class="time"><strong>[00:39:19]</strong> </span>
-<span class="speaker"><strong>发言人1: </strong></span>
-3D高速化完了之后，我不知道大家有没有关注过一件事情。比如说传统的这个图形学已经发展了好多年了，导致很多实验室，就是传统上面的那些实验室做学术研究的，基本上已经不怎么关注我们图形产业了。只有图形产业里面专有的一些公司才会去你们做一些研究。
-</p>
-<p class="transcript-line">
-<span class="time"><strong>[00:39:44]</strong> </span>
-<span class="speaker"><strong>发言人1: </strong></span>
-那3D高斯现在是什么样一个阶段？一些完全跟产业无关的一些实验室再去研究。比如说3D高斯black ship其实就是大家所理解的虚拟人，但是它是用3D高斯来去实现的。你比如说像3D高是如何画出更加逼真的这个头发，类似于欧米伽的那个海飞丝的那个，国内也是比较喜欢叫海飞丝的，其实就是一套渲染头发的技术。
-</p>
-<p class="transcript-line">
-<span class="time"><strong>[00:40:10]</strong> </span>
-<span class="speaker"><strong>发言人1: </strong></span>
-我们现在看到的情况是说，3D高斯这样技术的兴起，导致了大量的这种以AI学术为研究的一些。但是它核心可能不一定是AI而是说他用AI的方式加3D高斯的这种方式，尝试去对整整个物理世界的进行建模。并且它的这个建模是远远超过所谓EAEB暴雪这些顶级的公司建出来的那些资产的。而且它这些资产的价格极其廉价一些。预备一包血可能得到同样的效果，需要支付比如说10万20万的这成本。实验室里面的那套技术可能量化之后，商业化之后，可能真的是一块钱两块钱的成本。所以是这一点上面导致我觉得的他OK的理解。
-</p>
-<p class="transcript-line">
-<span class="time"><strong>[00:40:57]</strong> </span>
-<span class="speaker"><strong>发言人3: </strong></span>
-那那我其实还是有一个比较好奇的一个应用问题。因为在游戏的这个开发的过程中，其实这些模型是整个研发管线中的一小部分。通常是我需要在这个模型上还要做各种各样其他的应用。按照刚才的这个说法，是说我今天三用3D高斯出来这个模型是可以无缝嵌入原来的研发管线吗？还是说因为我用了3D高斯，其实我连这个研发管线也需要重新考虑怎么去重建。或者说这个3D高斯的这个素材，是我相当于又把它变成了跟原来这个3D素材一样，进我原来的研发管线就能去使用。还是说不是的，因为这个导致我的引擎也得去做改造，其他的比如说技术美术、贴图这些都要我要他去做改造。
-</p>
-<p class="transcript-line">
-<span class="time"><strong>[00:41:45]</strong> </span>
-<span class="speaker"><strong>发言人1: </strong></span>
-首先我先说一下，3D高斯跟传统图形引擎，我认为在未来的几年内，它肯定不是替代式的发展。就是不是说我用了高斯，我就不能用传统的这个match渲染了。我觉得他们会进行混合式的渲染。比如说我们有一些不具备有交互的这些场景，完全就可以用3D高斯来去做一些替代了。
-</p>
-<p class="transcript-line">
-<span class="time"><strong>[00:42:09]</strong> </span>
-<span class="speaker"><strong>发言人1: </strong></span>
-第二点就是说你刚刚提到很好的一个东西，就是说OK3D高斯能不能进入到传统的这个工具链里面去？我的答案是可以的。但是现在整个产业还没有准备好，可以的原因是什么？就是现在有非常成熟的算法可以把3D高斯进行麦曲化，也就是生成传统的3D3角形的面。因为3D高斯本质就是那个激光点云，所以我们建立起了激光点云跟这个match 3角形的链接关系。我们完全是可以用传统的3d match的编辑器和工具去影响3D高斯的这个点云。当然实际做的时候肯定不是像我这说的那么简单和轻松，还是有大量的这种高速球的方像角度等等相关的东西你需要去考虑的。但是底层逻辑上面来讲，们之间是有关系的，并且我们跟一个实验室合作。
-</p>
-<p class="transcript-line">
-<span class="time"><strong>[00:43:03]</strong> </span>
-<span class="speaker"><strong>发言人1: </strong></span>
-当时他还在想，我做的这个3D的高斯人能不能驱动起来？我就告诉他，我说很简单，你把那个3D高斯人进行脉血化，脉血化完了之后，你把麦这个match榜上骨骼完了之后，你用传统的这个图形引擎的骨骼系统驱动这个match的顶点，然后再把这个顶点反向驱动到高斯的光点云上面去。这样子你就可以形成一个可以运动的一个3D高斯。当然我这里讲的很简单，实际上还是有一些工程学的问题需要大家去解决的。但是实际上我们是已经成功做这个事了，并且包括运动还有光照。
-</p>
-<p class="transcript-line">
-<span class="time"><strong>[00:43:43]</strong> </span>
-<span class="speaker"><strong>发言人1: </strong></span>
-就是欧米达公司在把在做尝试，如何把这个光线追踪的这些光照信息，映射到整个的30高速场景当中去。所以我们看到的情况，整个产业非常兴奋在做一些极其落地。就是这些论文一旦成功，有可能马上就会变成生产力的这么一些工具和链条的上面的一些算法的突破。这些突破会可能会导致3D高斯的发展历程。
-</p>
-<p class="transcript-line">
-<span class="time"><strong>[00:44:11]</strong> </span>
-<span class="speaker"><strong>发言人1: </strong></span>
-可能传统的图形学用了20年、30年。3D高斯我觉得可能就五年八年时间吧，甚至有可能更好，3年到5年时间就可以。因为曾经有过一个科技博主问过欧米伽公司的CEOPE皇，就是距离我们每一个像素都用AI生成的世界差距还有多少年？当时我们的黄老板提说是5到8年，我个人认为也是5到8年的这个时间。但是这过程当中，可能像我这样子在这个产业的人就会去做这样突破。所以这是我从业的过来十多20年里面最兴奋的一个时期。因为它发生了巨大的一个改变。
-</p>
-<p class="transcript-line">
-<span class="time"><strong>[00:44:52]</strong> </span>
-<span class="speaker"><strong>发言人3: </strong></span>
-但是如果是这个逻辑，我听下来说这个技术反而不应该说。如果今天要做一个创业公司，反而不应该选择说传统我们已经有比较完善的3D渲染的领域，比如说有西湖的动画。反而应该去像你前面介绍的说，其实我应该放在一个原来完全没有3D但是3D又能创造价值的领域。就比方说e commerce，就比方说电商。因为如果是到传统的游戏领域的话，你的上下游包括传统的这个上下游的依赖其实还在传统的引擎上。就是你今天即使有一个高3D高斯，你想卖给玉璧也好，卖给黑悟空也好，因为那个引擎其实还是用n real 5。其实你只有等到他们逐渐把研发管线切过来，他们才有可能给你比较多的钱。而且某种程度上大概率他也会变成一个他自己可以自建或者自研或者收购的方式去获得。反而是听起来说应该给比如说电商，因为今天电商大家看到的都是图，或者是预先拍好的视频。如果说直接是说我们把比方说一个3D建模可以去看360度角度去把玩，或者看这个商品是不是反而更有价值，或者说反而他的想象空间更大。
-</p>
-<p class="transcript-line">
-<span class="time"><strong>[00:46:07]</strong> </span>
-<span class="speaker"><strong>发言人1: </strong></span>
-是的，如果我们从商业化的这个角度来讲，就是这个样子的。包括我们公司内部也是说我们完成整个demo，我们会跟国内一家非常庞大的一家做电商的公司来进行合作。原因是那家公司曾经在两年前找过法国育碧公司，然后希望能够让这家公司给他解决电商的这个问题。但是当时他们的他们公司的这个OCTOCFO，然后什么SR部门的相关的负责人都到场了。但是我们当时是并没有讨论出一个答案的。但是现在我觉得已经有这个答案了，所以我们确实会去跟他们去合作。并且这个其实不只是我们在做这个相关性的事情，我也看到了蛮多的这种就是没有真正意义上面涂层的能力。
-</p>
-<p class="transcript-line">
-<span class="time"><strong>[00:46:57]</strong> </span>
-<span class="speaker"><strong>发言人1: </strong></span>
-传统只是做这个无人机飞模不行？我不知道那个行业应该怎么说，传统有大量的这种就用无人机飞这个景区，然后生成3D建模的这么一些采集类的公司，其实去年也在想干这相关的事情。当然他们只能够提供采集整套工具链和整套链条如何做的非常低成本化，这个中间还是需要整个工具链的调整的。新蛋糕我觉得永远是最赚钱的，去抢老蛋糕的这个永远是最苦最累的活。确实是3D高斯他会去改变整个产业很多的东西，尤其是大家关注的什么元宇宙、数字孪生，然后直播卖货，这些才是真正30高速的发展的一个最核心的区域。并且它所带来的利润和整个的产业的量的需求，这个蛋糕的大小，我觉得可能可能是不是未来会比游戏产业还要大。
-</p>
-<p class="transcript-line">
-<span class="time"><strong>[00:47:56]</strong> </span>
-<span class="speaker"><strong>发言人3: </strong></span>
-那那下一个问题我就比较好奇，因为它其实也不是一独占的或者独家的技术。它相当于是说其实也是去年有一个是相当于有研究的，是大学或者研究机构会有paper出来。理论上讲大家都可以去追随和复现它。第二个又听起来说它又不像大语言模型，它有一个非常大的资本投入。就像一开始你说的，它其实不需要那么多数据。那回过头来是不是意味着它的渗透或者会使用会变得更快，或者说更多的人都能用比较小的小的机器来做这个事情。
-</p>
-<p class="transcript-line">
-<span class="time"><strong>[00:48:32]</strong> </span>
-<span class="speaker"><strong>发言人3: </strong></span>
-因为回到大语言模型，今天其实大家不能去训基座模型的原因，或者说没有人很多人进来去提供基座模型。让基座模型竞争更激烈的原因其实是资本投入不足。如果说我用一台笔记本电脑的4090，我也能去训大语言模型。那么通常一那么一我相信今天一定会有更多的基座模型，甚至有可能一些好基座模型，就是完全开源或者效果比较好的。
-</p>
-<p class="transcript-line">
-<span class="time"><strong>[00:49:00]</strong> </span>
-<span class="speaker"><strong>发言人3: </strong></span>
-如果3D高斯它是依赖于最新的研究，它对数据的需求量又不不是特别大，它对算力的依赖又不是特别大。那他会不会就跟未来变成大家做一个APP1样，做一个安卓的APP1样，变成一个非常简单的一个事情。就变成说他有一个海量的从业人员。但是他其实并不能说，因为我掌握了做APP的这个技术能力，所以我在市场上能切到很大的蛋糕。
-</p>
-<p class="transcript-line">
-<span class="time"><strong>[00:49:28]</strong> </span>
-<span class="speaker"><strong>发言人1: </strong></span>
-我这里面可能要纠正一下，我说的是没有那么大的炫丽是需求是指针对大模型。假设大模型比如说我们需要的是万卡或者说是10万卡，作为你一个做大模型的一个基础条件。那可能3D高斯他可能需要签卡。但是单纯的这个签卡也是专业卡的水平，而不是普通显卡。普通显卡你有可能一个杯子，你可能就需要训练一个晚上，或者说甚至七八个小时。类似于这种它也不是不diffusion的这种随便一个家用显卡你就能够满足的一个要求。它只是相比大模型稍微要好一些而已，这是第一件事。
-</p>
-<p class="transcript-line">
-<span class="time"><strong>[00:50:10]</strong> </span>
-<span class="speaker"><strong>发言人1: </strong></span>
-第二件事情，它中间有很多的东西实际上是跟大模型有挂钩关系的。比如说只有这个可视化，因为3D高斯它只解决了一个事情就是可视化。只解决了可视化的一个问题，但是并不解决物理化就空间化的这个问题。比如说我现在拿的是一个玻璃杯，3D高斯只能说把玻璃杯的这个材质给它在视觉上面做到了极致。他没有把物理特性给他做做进去，他更加没有把空间的这个特性和时间的这个维度的特性给做进去。
-</p>
-<p class="transcript-line">
-<span class="time"><strong>[00:50:40]</strong> </span>
-<span class="speaker"><strong>发言人1: </strong></span>
-比如说我现在拿到一个3D高斯的玻璃杯，我往地下一放，理论上它砸到地板上面它应该破碎掉。那他如何破碎？他为什么要破碎的？为什么能够破碎？这个中间其实有大量的这种gap，我们需要去填补的那这里面的填补一定是用大模型的的能力去填补它的。比如说我们要去识别出这是一个杯子，那哪个地方它是玻璃材质的可以碎掉。哪些地方它可能就是那个金属，它也是的。在你砸到地板的时候，它只会有个凹坑，它并不会碎掉。也就是中间还是有跟大模型大量沟通连接的一个地方，纯粹的3D高斯是没有价值的。
-</p>
-<p class="transcript-line">
-<span class="time"><strong>[00:51:20]</strong> </span>
-<span class="speaker"><strong>发言人1: </strong></span>
-但是如果3D高斯能够建立起一个全新的度量衡，也就是说我们能够把3D资产把它真正意义上面变成资产化。什么叫资产化？比如说我现在，比如说我这个游戏用的是unity引擎，我做了一个模型，然后在unity里面我已经把它的这个视觉效果做的很好了，并且衣服也会随着雾里飘。但是这个资产它仅限在这个unity引擎里面达到这样的效果，你直接用到U1里面去完全的得重来。除了match和贴图它是可以复用之外，其他所有的东西约等于重做一遍。所以整个产业其实数字化3D数字化的标准，度量好像是没有建立起来的。
-</p>
-<p class="transcript-line">
-<span class="time"><strong>[00:52:06]</strong> </span>
-<span class="speaker"><strong>发言人1: </strong></span>
-所以我刚刚说的整个的所有观点是指有有一家公司或者说有一群人能够把3D高斯基于表现力这一块，再额外再加上物理空间的属性这一块全部都补充结束。完了之后，他的产品才能做到我们刚刚所说的，给到所有人都去使用。我觉得李飞飞他们就在干相应的这个事情。行，包括他们的很多官网，大家也可以去看到他们有相应的一些讲解。我不知道他有没有回答您的问题。
-</p>
-<p class="transcript-line">
-<span class="time"><strong>[00:52:36]</strong> </span>
-<span class="speaker"><strong>发言人3: </strong></span>
-大概是回答了，非常感谢。
-</p>
-<p class="transcript-line">
-<span class="time"><strong>[00:52:39]</strong> </span>
-<span class="speaker"><strong>发言人2: </strong></span>
-那问一下就是你其实非常实干，那你现在是觉得3D高斯是一个靠谱的技术。如果你要马上用这个技术落地，一个会让就比如说听这个播客的人都会觉得很惊艳的产品，你大概会做个啥东西？
-</p>
-<p class="transcript-line">
-<span class="time"><strong>[00:52:56]</strong> </span>
-<span class="speaker"><strong>发言人1: </strong></span>
-我个人觉得在AI时代，如果我们按照AI时代的整个的我个人的理解，我觉得我可能会去做一个UGC的工具。我觉得AI时代的它的一个特征就是说我们应该把很多PGC的工具变成普通用户都可以去使用。你比如说现在在国内的投资人都会有统一有个想法，你跟他聊AI的时候，他会让你to c其实投资人也没有很明确的去说出来为什么AI的工具或者说AI的产品应该是土系的。我个人说一个我个人认可的一个原因，就是AI大模型的发生，导致了很多中间件消失。比如说我们现在很多做做中间件的这些公司，你会发现有可能会被GPT。就OpenAI公司做的某某一个审美软件，然后把它的整个的工中间件所有的价值给打打破掉。如果你是直接生产出产品的话，那就不会存在这样一个问题。所以我们认为AI产品的核心是UG细化，也就是to c我所在的这个word GPT就是这么一个项目。
-</p>
-<p class="transcript-line">
-<span class="time"><strong>[00:54:12]</strong> </span>
-<span class="speaker"><strong>发言人1: </strong></span>
-我们希望能够让大家像UB一样去帮助类似于像卡梅隆这样子非常有想法的人，通过AI的方式去创造这个阿凡达的潘多拉的星球的这个世界。像黑悟空这样一个优秀的团队去创作这种3A的这种艺术的产品。我觉得AI它不应该是一个抢蛋糕的游戏，不是说我用AI脱口秀的一个工具，然后导致我跟别人去卷更多的比如说王者荣耀的游戏。
-</p>
-<p class="transcript-line">
-<span class="time"><strong>[00:54:40]</strong> </span>
-<span class="speaker"><strong>发言人1: </strong></span>
-那我用AI去做王者荣耀跟腾讯竞争，那是必然失败的。而是应该去创造一个全新的一个蛋糕。比如说大家在未来不是只可以玩腾讯、网易、EAEB、暴雪的游戏。而是说有没有可能一群更有想法、更有理想的，更有艺术追求的一群人，他们去做出更多好玩的游戏。或者说这种数字娱乐的这种产品，然后给到大家。
-</p>
-<p class="transcript-line">
-<span class="time"><strong>[00:55:08]</strong> </span>
-<span class="speaker"><strong>发言人2: </strong></span>
-3A级别的robo x吗？
-</p>
-<p class="transcript-line">
-<span class="time"><strong>[00:55:11]</strong> </span>
-<span class="speaker"><strong>发言人1: </strong></span>
-对，可以这么理解，因为老罗是已经看整个产业证明小朋友就可以做游戏了。那么凭什么艺术领域里面的那些大咖，他们不能把他们脑子里面天马行空的一些想法，去表现给我们呢？我觉得这个点可能是很重要的一个事情。
-</p>
-<p class="transcript-line">
-<span class="time"><strong>[00:55:30]</strong> </span>
-<span class="speaker"><strong>发言人1: </strong></span>
-我在上一波元宇宙的时期的时候，我没有参与元宇宙有那个时期的所有的内容。但是国内的这个四大美院里面，其中的广美还有川美，然后他们的一些教授，还有在读的一些学生，包括有研究生就有找到我们，然后跟我们说一个事儿。我传统可能是画油画的，画水彩画的，画什么各种各样的这种画的。我发现就是疫情完了之后。大家有一个数字化的世界了。我们这群作为传统的艺术生，我们如何进入到数字化的这个世界里面去创作的。然后我当时就给他们开了好几堂课，去去了他们的那个美术馆，然后跟他们待在一起。
-</p>
-<p class="transcript-line">
-<span class="time"><strong>[00:56:15]</strong> </span>
-<span class="speaker"><strong>发言人1: </strong></span>
-我发现他们远比中国现有的整个游戏产业里面绝大部分的人都有想法。所以如果他们能进入到，就破开这个产业的限制，进入到游戏产业里面，用游戏产业的这个工具链去创作，哪怕是动画片或者说游戏这种产品，那将会是一个非常恐怖的事情。有没有可能就是比如说中国的文化输出就可以开始了，对吧？我觉得这个是有可能的。比如说其他的一些国家也一样，他们有很多很优秀的人，但是碍于游戏的这个成本，就是这个研发成本太高了，所以大家没有去做。
-</p>
-<p class="transcript-line">
-<span class="time"><strong>[00:56:53]</strong> </span>
-<span class="speaker"><strong>发言人2: </strong></span>
-这个东西很好。然后我最近看了EA的一个演讲，然后里面就演示了一些挺好玩的。比如说两个人一边聊天一边说我要一个纸箱子的迷宫，然后就出现一个纸箱子迷宫，然后说大一点，然后它就变大了。然后再说说我要两个角色枪战，就给他们角色，给他们武器让他们挑。然后他就说规定只能用手榴弹，然后两个人就只能用手榴弹，然后把箱子炸到另外一个人就会掉下去，就你那个。如果可以了就可以就相当于可以快速的大家ugc生成大量的3D资产，然后加上AI每个人就可以创到自己的游戏，自己的世界了。然后视觉上的属性可能就是3D高斯，然后AI又来给这些资产有物理属性，然后再加上一些游戏性。那这样子是不是就是一种高可控性的世界模型？
-</p>
-<p class="transcript-line">
-<span class="time"><strong>[00:57:41]</strong> </span>
-<span class="speaker"><strong>发言人1: </strong></span>
-一整个现有的演示，我个人的角度来看的话，它是一种PGC的能力。AI工具化。也就是说传统比如说你想干一件事情你干不了，那么你就花钱把我招过去让我来干。但是现在因为有了大模型，你可以通过自然语言的方式把指挥我干活这件事情让大模型干了。我个人认为他他只是把一个传统程序员策划能干的这些事情用自然语言去干了。
-</p>
-<p class="transcript-line">
-<span class="time"><strong>[00:58:11]</strong> </span>
-<span class="speaker"><strong>发言人2: </strong></span>
-就把photoshop变得更好了，并不是ugc.
-</p>
-<p class="transcript-line">
-<span class="time"><strong>[00:58:14]</strong> </span>
-<span class="speaker"><strong>发言人1: </strong></span>
-对它只是一个工具化。但大家有没有思考过一件事情，什么游戏是只有AI时代才能做的，在传统没有大模型的这个时代是干不了的，这个事情有没有呢？我们曾经内部就是开会开就就这一个话题开了一个星期的会，我们后面发现有。
-</p>
-<p class="transcript-line">
-<span class="time"><strong>[00:58:34]</strong> </span>
-<span class="speaker"><strong>发言人1: </strong></span>
-我举个例子，比如说我们要做一个养女儿的游戏吧，就是类似于日本有个很知名的游戏叫美少女梦工厂。传统我们做游戏的时候，通常我们游戏公司，由于成本的关系，我们只会设计比如说三个或者四个女儿对吧？那个女儿的长相应该是大差不差，就类似那个样子的。然后如果我们玩了第一遍，他是长那样子，第二遍还是长那样子。但是如果我们现在有大模型了，我们每个人养的女儿都可以是完完全全不一样的。比如说你今天老是给她吃巧克力，那他是不是会长胖了？那他长成多胖，这就取决于你给他吃了多少少蛋糕，多少的巧克力。
-</p>
-<p class="transcript-line">
-<span class="time"><strong>[00:59:14]</strong> </span>
-<span class="speaker"><strong>发言人1: </strong></span>
-你比如说这个女儿的性格应该是什么样子的。传统过去可能我们用行为数，也就是策划配表写在那里了。所以他的性格总归是有限的，你只要玩下去一定会玩玩通关掉。但是如果我们是叠加在大模型上面去，那是不是很有可能整个的女儿的性格是真实受到了你的整个语言或者说行为的刺激的。所以我认为这个AI时代的这个世界模型的核心，应该是我们可以去扩宽整个游戏的边界了。
-</p>
-<p class="transcript-line">
-<span class="time"><strong>[00:59:52]</strong> </span>
-<span class="speaker"><strong>发言人1: </strong></span>
-有些传统游戏我们在设计的时候是过去受到所谓的人工智能。这游戏领域一直都有讲人工智能，一直都是有讲NBCAI agent之类的概念。只不过当年由于这个技术发展比较慢，我们用的行为术再到后面可能用了一些知识图谱的东西。但是到今天的这个大模型，绝对对于游戏产业是一个巨大的一个变化。所以我觉得纬度可以再提的再高一点。然后回到这个核心，我觉得大家想聊的就是这个是不是有一个完全由AI来去驱动的这个游戏。从它来的制作再到它的运作都是由AI来驱动的。
-</p>
-<p class="transcript-line">
-<span class="time"><strong>[01:00:30]</strong> </span>
-<span class="speaker"><strong>发言人1: </strong></span>
-我们团队在做的这个word GPT的这个核心，整个的核心就是你从研发开始就有AI来去驱动你的这个研发。在运行的时候不是策划鞋子的配置表去控制你那个世界，而是有一个大模型来控制你你你的这个世界应该如何去发展，如何去做。我们人类可能作为一种类似于外星人观察者一样的，稍微间接的去干预一下就可以了。我觉得这个可能是AI时代我们更加值得关注的一个东西。这个大概是我们的一个终极的目标。就word就TPTT的终极目标就是我们通过AI去创造这个世界，帮助所有人。像法国育碧帮助卡梅隆创建潘多拉星球，实时交互这个世界世界娱乐的这个产品一样，我们希望帮助所有人都去做相应的这个事情。然后会比AAEA的整个的还要高一个层面的上面的东西。
-</p>
-<p class="transcript-line">
-<span class="time"><strong>[01:01:27]</strong> </span>
-<span class="speaker"><strong>发言人2: </strong></span>
-然后有一个sam发过一个twitter，然后说电影以后都会变成互动游戏，而游戏都会变成难以好玩的难以想象的好玩的东西。其实你觉得那个难以想象的好玩的东西是不是就是你们要做的这个东西？
-</p>
-<p class="transcript-line">
-<span class="time"><strong>[01:01:42]</strong> </span>
-<span class="speaker"><strong>发言人1: </strong></span>
-我觉得有这种可能，就是以我对的这个数字娱乐的这个产业的理解，根据马斯洛需求的五个层次，也许sam所说的这个变得难以想象。更加好玩的东西，应该是会跟自我这类精神的实现有关。在我们现实的这个物质社会当中，我们不大可能让所有人都达到最顶层的精神的追求。比如说让所有人都享受当领导的这种感觉。这件事情在现实社会当中明显是不可能的对吧？因为当领导意味着一定要有有一堆的手下，那意味着不是所有人都可以当领导，不是所有人都可以当国家领导人吗？但是其实在数字化的这个世界，是可以做到自我的实现的。娱乐开心是游戏所能够提供的这种最低级的这种能力。
-</p>
-<p class="transcript-line">
-<span class="time"><strong>[01:02:38]</strong> </span>
-<span class="speaker"><strong>发言人1: </strong></span>
-我曾经记得有一次跟一个朋友聊天聊到过，就是因为中国的父母其实在整个教育其实还是有一些欠缺的。他说他父母从来没有教过他什么是自信，什么是勇敢。他说他了解这个东西，或者说学到的这个东西，是从过去日本人的一些游戏和动漫当中去体会和去感受到的那这个东西我觉得可能打游戏的人很多，我不知道是不是所有人都能够从游戏过程当中去感受到这些东西。就像3A游戏为什么那么吸引人一样，为什么大家会花大量的时间进去一样。就像黑悟空大家能看到的是整个中国过去的整个多少年积累了下来的的知识和文化，大家是可以产生共鸣的。所以我觉得sam所说的那个难以想象到的好东西很有可能是这个。比如说类似于什么灵魂伴侣，比如说心有灵犀一点通，类似这种词汇。我不知道这种所谓自我实现的这种精神类的需求，我觉得他是非常令人震撼的。有AI的这个加持，可能会导致我们产业的这个产品能够做到那种程度。比如说你的一个有没有一种可能，你的一个虚拟的游戏世界的一个女朋友，可能比你现实的世界的女朋友还要更懂你现在。
-</p>
-<p class="transcript-line">
-<span class="time"><strong>[01:03:58]</strong> </span>
-<span class="speaker"><strong>发言人2: </strong></span>
-不就已经大量的发生这种事情了吗？早几天夜雨升空，有一天都超过了微信，超过了抖音的那个排行榜。所以大家现在已经这种趋势已经发生了，只是可能现在大家还是把它当做一个小众现象。
-</p>
-<p class="transcript-line">
-<span class="time"><strong>[01:04:15]</strong> </span>
-<span class="speaker"><strong>发言人2: </strong></span>
-但是未来的话，其实有可能像你讲的，就是我们越来越多的精神诉求会从娱乐或者说从游戏当中去获得。因为如果根据那个，比如说有以前也有一本畅销书叫游戏改变世界。它里面其实有一个观点是认为这个现实世界是一种一个设计不良的游戏。比如说正反馈太慢了，就是正反馈不及时之类的那如果说我们可以有一个更好的世界，其实也挺好的，我们最后上价值了。
-</p>
-<p class="transcript-line">
-<span class="time"><strong>[01:04:45]</strong> </span>
-<span class="speaker"><strong>发言人2: </strong></span>
-那上完价值之后，我再把它拉回到一个特别俗气的一个问题。就刚刚你讲的其实是我们要做这么大一件事情，然后要创造一个更好的世界。然后你现在肯定就是用靠谱的技术会来实现这个产品。那我们换一个命题，假设如现在先让你未来两个星期不准做word GPT，不准做你自己的产品。只有两个星期，你必须要完成一个小玩意儿，然后就让大家耳目一新。你觉得你会花两个星期做一个啥东西？以你的能力，两个星期就能做出来的东西，有什么是最有可能会让大家耳目一新的。
-</p>
-<p class="transcript-line">
-<span class="time"><strong>[01:05:22]</strong> </span>
-<span class="speaker"><strong>发言人1: </strong></span>
-做得出来吗？我们内部在最早期接触大模型的时候，曾经用一周做过一个小demo。这个小的我的目标就是我们只能用AI来生成资产。所以我们用AI生成了一个AVG文字对话的一个游戏。虽然它不好玩，但是它所有一切的内容都是用AI的生成的。其实这件事情对我影响是非常大的。所以我个人的感觉就是说OK3D图形可能是研发游戏的整个解决方案。
-</p>
-<p class="transcript-line">
-<span class="time"><strong>[01:05:53]</strong> </span>
-<span class="speaker"><strong>发言人1: </strong></span>
-我们团队会考虑说在整个的游戏研发的工作流当中，去如何使用AI再来去颠覆它，去改变它。这个可能是我们的一个重点。我们一直在思考这个ugc就是用户生产内容。
-</p>
-<p class="transcript-line">
-<span class="time"><strong>[01:06:08]</strong> </span>
-<span class="speaker"><strong>发言人1: </strong></span>
-最近AI这个进展一年下来也变化的非常大。现在互联网非常的发达，大家每天都有把AI的论文，代码演示demo都公开。就像我们刚刚另外一位同学说的，就是好像所有的技术都公开了。但是我觉得这里面你要想把公开的这个代码论文，这个demo都实际应用起来，它还是有一些难度的。所以可能我们会去开发一款非常快速的一个UGC的一个内容，去把我们整个的这个产品的理念去做吧。虽然不允许我做web GPT，但是我觉得web GPT它终点版本可能是V10版本。我现在总归是可以做，先做个0.1版本。我想说如果要想跟看到大家的话，我想说我可能会去做这么一个产品。然后把整个的这个传统的工作流去去改变到让大家更好的去理解我们如何去做出一款游戏，或者说我们如何进入到一个全新的一个设计的，这个就是如何设计数字化世界娱乐产品的这么一个流程里面去，让大家先能用起来，先能玩起来，这个是一个核心点。
-</p>
-<p class="transcript-line">
-<span class="time"><strong>[01:07:20]</strong> </span>
-<span class="speaker"><strong>发言人2: </strong></span>
-重新定义数字化娱乐产品的设计流程。好的，谢谢，学到了很多。好的，谢谢咖啡，然后也谢谢大家收听我们的那个AI炼金术。大家也可以关注同名的公众号，也可以把这个AI炼金术的博客转发给转发朋友圈，转发给你身边搞AI的同学们，对吧？难得有这么，我们其实就是把聊天上传上来，所以非常的朴实。好，大家记得转发。好，拜拜谢谢。
-</p>
-<p class="transcript-line">
-<span class="time"><strong>[01:07:53]</strong> </span>
-<span class="speaker"><strong>发言人1: </strong></span>
-拜拜好谢谢拜拜好。
-</p>
-<p class="transcript-line">
-<span class="time"><strong>[01:07:55]</strong> </span>
-<span class="speaker"><strong>发言人2: </strong></span>
-谢谢咖啡，谢谢拜拜拜拜拜拜。The shit I can keep.
-</p>
-<p class="transcript-line">
-<span class="time"><strong>[01:08:10]</strong> </span>
-<span class="speaker"><strong>发言人2: </strong></span>
-You can .
-</p>
-<p class="transcript-line">
-<span class="time"><strong>[01:08:12]</strong> </span>
-<span class="speaker"><strong>发言人1: </strong></span>
-see me.
-</p>
-<p class="transcript-line">
-<span class="time"><strong>[01:08:18]</strong> </span>
-<span class="speaker"><strong>发言人1: </strong></span>
-I am free.
-</p>
-<p class="transcript-line">
-<span class="time"><strong>[01:08:24]</strong> </span>
-<span class="speaker"><strong>发言人2: </strong></span>
-Because my is said that.
-</p>
-<p class="transcript-line">
-<span class="time"><strong>[01:08:32]</strong> </span>
-<span class="speaker"><strong>发言人1: </strong></span>
-TOL adam.
-</p>
-<p class="transcript-line">
-<span class="time"><strong>[01:08:48]</strong> </span>
-<span class="speaker"><strong>发言人1: </strong></span>
-Open .
-</p>
-<p class="transcript-line">
-<span class="time"><strong>[01:08:49]</strong> </span>
-<span class="speaker"><strong>发言人2: </strong></span>
-my self rolling on the听。
-</p>
-<p class="transcript-line">
-<span class="time"><strong>[01:09:01]</strong> </span>
-<span class="speaker"><strong>发言人2: </strong></span>
-Money in reno.
-</p>]]></content:encoded>
-            <pubDate>Thu, 24 Oct 2024 09:52:44 GMT</pubDate>
-            <guid>671a219152543d1557498bc7</guid>
         </item>
     </channel>
 </rss>
