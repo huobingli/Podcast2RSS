@@ -4,7 +4,994 @@
         <title>硬地骇客</title>
         <link>https://www.xiaoyuzhoufm.com/podcast/640ee2438be5d40013fe4a87</link>
         <description>一起探讨技术、产品和商业之美</description>
-        <lastBuildDate>Wed, 20 Aug 2025 04:49:08 +0800</lastBuildDate>
+        <lastBuildDate>Thu, 04 Sep 2025 04:56:36 +0800</lastBuildDate>
+        <item>
+            <title>EP112 量子位 「AI 100」 访谈：10 倍效率 AI 播客工具 Podwise</title>
+            <link>https://www.xiaoyuzhoufm.com/episode/68b520da97178f08eea8b5a1</link>
+            <description>当播客本身遭受质疑，商业化和市场规模还有待验证时，AI播客工具Podwise已经实现了「上线即盈利」，成为AI独立开发的代表产品。
+Podwise是一款能够对播客节目进行摘要、整理重点、标记回听的一站式播客AI工具，能够让播客内容中的知识提取效率提升超过10倍。不仅如此，Podwise的创始团队同样是头部AI播客「硬地骇客」的主创团队。当内容创作者亲自去做AI内容工具，会有哪些对赛道和产品的反常识判断？
+本shownotes由 castwise.ai 制作
+Podwise - Podcast Knowledge at 10x Speed!
+podwise.ai
+Apple Store 下载👉🏻 apps.apple.com
+硬地笔记
+* 00:00:04AI 播客工具 Podwise 介绍及其市场潜力
+* 00:05:50Podwise 的目标用户及核心价值
+* 00:10:44Podwise 的核心优势与技术 Know-how
+* 00:16:23Podwise 的创立初衷与 PMF 验证
+* 00:22:45Podwise 关注的核心指标与付费策略
+* 00:27:03Podwise 的市场定位与用户增长策略
+* 00:32:20Podwise 的自传播策略与 Affiliate 计划
+* 00:37:05Podwise 的功能矩阵与需求判断
+* 00:42:31Podwise 的功能优先级与效果监测
+* 00:47:50Podwise 的业务边界与核心 Know-how
+* 00:53:10Podwise 底层模型的选择与考量因素
+* 00:59:00Podwise 在转录上的技术优化与成本控制
+* 01:04:20Podwise 的护城河与竞争策略
+* 01:09:59对 Cursor 成功的理解与资源分配心得
+* 01:14:26Podwise 产品安利与总结
+扩展笔记：https://castwise.ai/pages/3d5d77f02984ebd3d41f421c39a9c27b.html
+欢迎关注我们
+* 知识星球:t.zsxq.com
+* 官网: hardhacker.com
+* 小手册: book.hardhacker.com
+* 用爱发电不容易，请我们喝咖啡☕️: afdian.net
+* 公众号/小红书: 硬地骇客
+* 商务合作: hardhackerlabs@gmail.com
+* 另外，现在加入「硬地骇客」会员服务，即可在会员专属的微信群与其他朋友一起畅所欲言，成为会员也是对我们持续更新最大的鼓励！</description>
+            <content:encoded><![CDATA[<h1>转写链接</h1>
+<link>https://tongyi.aliyun.com/efficiency/doc/transcripts/klrbn2wb88xbn5zy</link><br>
+<h1>节目摘要</h1>
+<div class="summary">本次讨论集中于两款在各自领域内保持领先地位的产品，尽管它们并未明显建立“护城河”。关键成功因素被归结为卓越的用户体验和用户习惯，即使面对功能相似的竞争产品，这些产品仍凭借高度的用户粘性脱颖而出。对话还深入探讨了资源分配策略，特别关注了小团队或独立开发者如何在技术优化、产品增长和商业化之间找到平衡。此外，介绍了一款名为Prowess的产品，强调其在知识管理和播客领域的创新功能，如内容翻译和个性化推荐系统。另一焦点为AI播客工具领域，特别是power wise这款AI学习软件，旨在通过AI技术优化播客内容的转录、提取和总结，提供定制化摘要和脑图，简化信息消费流程。讨论强调了精准的听众定位和技术提升的重要性，以及与其他平台（如notion）的集成潜力，展示了产品团队在技术和市场挑战面前的创新策略和市场定位考量。</div><br>
+<h1>章节速览</h1>
+<div class="chapters">
+<div class="chapter-item">
+<span class="time"><strong>[00:00:00]</strong> </span>
+<span class="chapter-title"><strong>AI播客工具：提升听众与制作人效率的双面刃</strong></span>
+<div class="chapter-summary">对话围绕AI播客工具Power Wise展开，介绍了其如何通过转录、摘要、翻译等功能提升听众理解效率，同时为制作人提供show notes生成、社交媒体素材制作等服务，以增强播客创作与推广效率。Power Wise定位为听众与制作人的双效工具，旨在优化播客产业链的各个环节。</div>
+</div>
+<div class="chapter-item">
+<span class="time"><strong>[00:05:52]</strong> </span>
+<span class="chapter-title"><strong>Pod Wise：赋能干播客内容的高效消费与二次创作</strong></span>
+<div class="chapter-summary">Pod Wise专注于干播客，即富含科技、AI、历史等硬核信息的播客内容，服务于投资人、自媒体从业者及终身学习者。通过摘要提炼、转录整合及二次转化功能，帮助用户高效消化内容，节省时间精力，并促进知识的传播与再创造。</div>
+</div>
+<div class="chapter-item">
+<span class="time"><strong>[00:10:43]</strong> </span>
+<span class="chapter-title"><strong>播客内容处理技术优势解析</strong></span>
+<div class="chapter-summary">对话深入探讨了播客内容处理领域的技术优势，特别是针对转录准确性、嘉宾识别及超长内容处理的能力。对比市面上的通用音频视频转文字工具，播客专业处理工具在这些方面展现出显著优势，尤其在全平台声纹识别、处理超长播客内容及区分说话人方面表现突出，满足了播客消费者对高密度信息获取的需求。</div>
+</div>
+<div class="chapter-item">
+<span class="time"><strong>[00:16:06]</strong> </span>
+<span class="chapter-title"><strong>Prowess产品诞生背景与市场需求洞察</strong></span>
+<div class="chapter-summary">对话围绕Prowess产品的起源展开，提及团队在运营播客节目期间，观察到听众自发总结分享内容的现象，结合AI大模型技术的兴起，决定开发一款服务于播客领域的工具，旨在满足听众笔记分享需求，尽管市场存在质疑，但团队认为这是一个值得探索的小众赛道。</div>
+</div>
+<div class="chapter-item">
+<span class="time"><strong>[00:18:54]</strong> </span>
+<span class="chapter-title"><strong>如何识别产品与市场匹配度：从需求到付费用户的信号</strong></span>
+<div class="chapter-summary">讨论了在产品开发初期，如何通过自然增长的用户数量、用户驱动的内容增长以及较高的付费率等信号，识别产品是否达到与市场的良好匹配，从而决定是否继续商业化投入。</div>
+</div>
+<div class="chapter-item">
+<span class="time"><strong>[00:23:04]</strong> </span>
+<span class="chapter-title"><strong>AI产品付费率与续费率探讨</strong></span>
+<div class="chapter-summary">对话深入讨论了AI产品相较于传统SaaS产品的付费率和续费率问题，指出AI产品续费率普遍较低，退订率较高，部分产品存在虚假ARR数据。同时，对话还提到了口碑传播对降低退订率的重要性，以及初创产品敢于直接追求付费目标的策略思考。</div>
+</div>
+<div class="chapter-item">
+<span class="time"><strong>[00:27:02]</strong> </span>
+<span class="chapter-title"><strong>播客市场与付费模式探讨</strong></span>
+<div class="chapter-summary">对话深入探讨了播客市场的小规模现状及其商业化挑战，强调了付费用户转化率作为产品市场匹配（PMF）的关键指标。分析了Pod Wise的高定价策略及背后的技术成本考量，同时指出音频消费空间正被视频内容挤压，平台正探索向视频内容转型以应对市场变化。</div>
+</div>
+<div class="chapter-item">
+<span class="time"><strong>[00:31:55]</strong> </span>
+<span class="chapter-title"><strong>精准触达高付费能力用户：信息平权平台的营销策略</strong></span>
+<div class="chapter-summary">讨论了如何通过信息平权平台如小红书、极客、reddit等，精准触达高付费能力用户。强调了在用户活跃的社区内创造优质内容的重要性，以及利用tag、小组等工具增加曝光度。指出X平台依赖粉丝数传播，不适合初期用户增长。分享了通过创始用户和自来水传播，实现产品口碑和用户基数的双重增长。</div>
+</div>
+<div class="chapter-item">
+<span class="time"><strong>[00:36:30]</strong> </span>
+<span class="chapter-title"><strong>产品自传播策略与挑战探讨</strong></span>
+<div class="chapter-summary">讨论了产品初期采用分享机制推动用户自传播的效果及遇到的研发成本问题。提到了海外平台操作的难度，以及通过KOL分润链接增加曝光的策略。同时，分析了Monica等成熟产品的大额分润模式，并探讨了自媒体人员申请分润链接进行传播的方式。</div>
+</div>
+<div class="chapter-item">
+<span class="time"><strong>[00:39:12]</strong> </span>
+<span class="chapter-title"><strong>功能选择与优先级判断：倾听用户与团队认知</strong></span>
+<div class="chapter-summary">讨论了功能开发的决策过程，包括用户反馈渠道的建立、需求筛选与优先级判断，强调团队认知与用户需求的结合，以及直接试错相较于市场调研的低成本优势。</div>
+</div>
+<div class="chapter-item">
+<span class="time"><strong>[00:45:27]</strong> </span>
+<span class="chapter-title"><strong>功能上线后的效果监测与产品边界规划</strong></span>
+<div class="chapter-summary">讨论了功能上线后通过数据量变化监测其价值，提出主观判断需结合市场反馈，强调小团队应快速试错调整。产品边界聚焦于知识类播客信息获取，未来迭代将围绕提升用户体验，暂不考虑庞杂功能扩展，可能推出新产品但非当前品牌延续。</div>
+</div>
+<div class="chapter-item">
+<span class="time"><strong>[00:49:42]</strong> </span>
+<span class="chapter-title"><strong>播客转录技术：Know-how提升内容精准度</strong></span>
+<div class="chapter-summary">讨论了播客转录技术如何通过识别内容主题和关键词，提升转录文稿的准确度。与泛化版ASR工具相比，播客转录更注重内容理解，通过show notes提供额外信息，使转录结果更精细。强调了在转录过程中嵌入关键信息的重要性，以及二次生成文章时的精准度提升。</div>
+</div>
+<div class="chapter-item">
+<span class="time"><strong>[00:53:09]</strong> </span>
+<span class="chapter-title"><strong>大模型选择与优化：质量、成本与技术指标</strong></span>
+<div class="chapter-summary">讨论了在大模型选择过程中，质量、成本和技术指标的重要性。质量测试需结合业务特征，如处理长播客的能力；成本控制尤为关键，从MVP阶段即严格把控；技术指标如上下文长度、输出token数等是选型时的关注点。强调通过不断测试业务需求来优化模型选择与应用。</div>
+</div>
+<div class="chapter-item">
+<span class="time"><strong>[00:59:55]</strong> </span>
+<span class="chapter-title"><strong>自研音频转文字技术降低成本</strong></span>
+<div class="chapter-summary">对话围绕自研音频转文字技术的探索与实践，强调在成本控制方面的显著优势。与OpenAI的API相比，自研方案的成本仅为前者的15到20分之一，极大地减轻了运营压力。通过叠加声音活跃探测、声纹识别等模型，优化了长音频处理能力，实现了对全球主播声音的自动识别与匹配，构建了庞大的向量数据库，显著提升了转录效率与准确性。</div>
+</div>
+<div class="chapter-item">
+<span class="time"><strong>[01:04:27]</strong> </span>
+<span class="chapter-title"><strong>AI应用产品的护城河与竞争策略探讨</strong></span>
+<div class="chapter-summary">对话围绕AI应用产品是否具有护城河展开讨论，指出多数AI应用产品可能缺乏长期竞争优势，但通过精准定位细分市场、强化产品体验与生态协同，仍能在竞争中保持优势。强调小团队应聚焦特定用户群，提供独特价值，即使用户基数小，也能实现商业成功。</div>
+</div>
+<div class="chapter-item">
+<span class="time"><strong>[01:10:39]</strong> </span>
+<span class="chapter-title"><strong>AI产品用户体验与资源分配策略探讨</strong></span>
+<div class="chapter-summary">讨论了AI产品通过抢占用户习惯建立优势的重要性，以及在资源有限情况下如何合理分配于技术优化、产品工程化、用户增长和商业化之间。强调了产品复用和快速试错策略的价值，同时指出独立开发团队需平衡技术、产品和商业能力，避免形成短板。</div>
+</div>
+<div class="chapter-item">
+<span class="time"><strong>[01:16:52]</strong> </span>
+<span class="chapter-title"><strong>POD Wise：高效知识获取与个性化播客推荐</strong></span>
+<div class="chapter-summary">POD Wise是一个专注于提升知识获取效率的平台，它能帮助用户快速获取播客内容，并与个人知识管理系统如Notion或Obsidian无缝连接。平台支持多语言沉浸式翻译，覆盖英语、日语、韩语等，让用户轻松理解全球热门博客内容。其特色功能包括精准的个性化推荐、热门与最新播客内容的展示，以及沉浸式收听体验。用户可以通过网页端或APP端使用，现已在App Store和官网提供下载服务。POD Wise旨在通过高质量的内容筛选和成本控制，为用户提供极致的播客体验。</div>
+</div>
+</div><br>
+<h1>问题回顾</h1>
+<div class="qa-item">
+<div class="question"><strong>Q:</strong> pod wise相较于市面上其他类似工具的独特优势是什么？</div>
+<div class="answer"><strong>A:</strong> pod wise的优势在于其针对播客场景的专业优化和深度理解。在转录准确性方面，经过对比测试，pod wise的准确性要高于通义听悟、飞书妙计等产品。更重要的是，pod wise具备全平台嘉宾识别能力，即无论嘉宾出现在哪个博客或播客中，都能准确识别并保持一致性，这一特性是其他竞品所不具备的。因此，对于追求高密度结果和精准信息提取的播客消费者来说，pod wise提供了更为精准和高效的解决方案。</div>
+</div>
+<div class="qa-item">
+<div class="question"><strong>Q:</strong> 针对pod wise这款产品，它的核心用户群体和应用场景是什么？</div>
+<div class="answer"><strong>A:</strong> 核心用户群体主要是对干博客（包含科技、AI、历史、健身健康等硬核内容）有高效消费需求的人群。这类用户中，投资人较多，因为他们希望通过播客获取一手行业洞察和趋势信息，但由于出差等原因无法充分听取所有内容，因此需要像pod wise这样的工具来快速捕获关键信息。此外，自媒体从业者也十分需要此类工具，以便二次传播和输出独特信息，以及终身学习者，他们通过播客作为学习渠道获取新知识，并利用pod wise更好地消化和利用这些内容。</div>
+</div>
+<div class="qa-item">
+<div class="question"><strong>Q:</strong> 在处理超长播客方面，市面上的哪些工具存在局限性？</div>
+<div class="answer"><strong>A:</strong> 市面上很多总结和转逐字稿工具最长只支持2到4小时的内容处理，对于超过4小时甚至10小时以上的播客无法有效处理，而且准确性堪忧。</div>
+</div>
+<div class="qa-item">
+<div class="question"><strong>Q:</strong> PODOYS在处理超长播客方面的优势是什么？</div>
+<div class="answer"><strong>A:</strong> PODOYS能够很好地处理超长播客内容，这是其核心优势所在，相比其他大厂的产品，我们更专注于博客类音频的转写，能够满足用户对长篇大论的高效获取需求。</div>
+</div>
+<div class="qa-item">
+<div class="question"><strong>Q:</strong> 市面上的播客或视频总结工具与PODOYS有何不同？</div>
+<div class="answer"><strong>A:</strong> 市面上的部分工具主要从浏览器插件角度入手，较为轻量级但无法转录，只能获取浏览器界面的信息进行二次分析，无法处理非字幕提供的博客内容。而PODOYS不仅能够处理博客内容，还具备AI技术进行深度理解和转录。</div>
+</div>
+<div class="qa-item">
+<div class="question"><strong>Q:</strong> Prowess是如何诞生的？</div>
+<div class="answer"><strong>A:</strong> Prowess并非一开始就作为战略定位明确的产品进行开发，而是随着我们团队在制作播客节目时发现听众有需求将播客内容进行总结分享，结合当时AI大模型的技术出现，我们抓住这个契机，决定做出一款专门针对博客场景的产品工具。</div>
+</div>
+<div class="qa-item">
+<div class="question"><strong>Q:</strong> 何时意识到Prowess达到了PMF（产品市场契合），值得长期投入商业化？</div>
+<div class="answer"><strong>A:</strong> 当我们在MVP阶段，通过邮件订阅等待列表快速积累几百个用户，并且付费用户数量达到目标时，这是一个很好的信号表明产品具有价值，从而决定继续投入去做这件事情。</div>
+</div>
+<div class="qa-item">
+<div class="question"><strong>Q:</strong> 目前Prowess最关注的指标是什么？</div>
+<div class="answer"><strong>A:</strong> 目前Prowess最关注的指标是付费率，相较于传统的SaaS产品，AI产品的续费率较低，但我们团队通过口碑传播的方式保持了较低的退订率，整体用户增长趋势良好。</div>
+</div>
+<div class="qa-item">
+<div class="question"><strong>Q:</strong> 在初创型或精品产品中，它们是否倾向于一开始就将付费作为目标？Pod wise是如何设定付费模式和门槛的？</div>
+<div class="answer"><strong>A:</strong> 很多产品更注重打磨功能和用户口碑，达到一定水准后才会考虑付费。例如Polly，会在功能迭代到一定程度时再面对付费问题。Pod wise针对有高付费能力的人群，提供高价服务。初期设定每月可免费观看四期转录内容，之后根据用户需求推出不同版本的付费计划，并限制免费观看的博客数量和频率。</div>
+</div>
+<div class="qa-item">
+<div class="question"><strong>Q:</strong> 判断一个产品能否达成PMF（产品市场契合），关键点是什么？</div>
+<div class="answer"><strong>A:</strong> 关键在于是否有用户付费，而非单纯关注用户量或会员转化率。真正的PMF判断标准是实际有多少用户转化为付费用户。</div>
+</div>
+<div class="qa-item">
+<div class="question"><strong>Q:</strong> 播客市场的商业化规模如何？</div>
+<div class="answer"><strong>A:</strong> 播客市场整体规模较小，尤其是国内，相较于长视频和短视频平台如抖音，其商业化机会主要集中在头部，中部和腰部以下的商业合作和分润较难。</div>
+</div>
+<div class="qa-item">
+<div class="question"><strong>Q:</strong> 对于细分市场中的高付费能力用户，在用户增长和宣传上有哪些有效策略？</div>
+<div class="answer"><strong>A:</strong> 需要出现在目标用户活跃的地方，如极氪、小红书、Twitter等平台进行宣传。通过创始用户、社交媒体等方式吸引并激活用户，优先选择信息平权的平台进行活动，利用热帖、发帖等方式让内容得到更多曝光。</div>
+</div>
+<div class="qa-item">
+<div class="question"><strong>Q:</strong> 是否尝试过通过分享奖励来鼓励用户自传播？</div>
+<div class="answer"><strong>A:</strong> 尝试过设置分享奖励机制，但海外平台可能存在操作难度和研发成本问题。不过，也通过会员分享、补偿方式以及与自媒体人员合作等方式引导用户传播，同时在平台内提供外部推广链接，让自媒体人通过分润链接推广获取收益和曝光。</div>
+</div>
+<div class="qa-item">
+<div class="question"><strong>Q:</strong> 对于这样一个丰富且一站式味道的功能矩阵，首先是如何判断要去做哪些功能的？特别是在面对众多功能时，如何确定优先级？关于翻译功能的增加，是怎么决定的？</div>
+<div class="answer"><strong>A:</strong> 我们最初构建了MVP链路，非常简单，包括用户搜索、导入播客节目、转录完成后导出到其喜欢的知识管理系统中。然后我们开通了多种反馈渠道，如APP内的feedback表单、支持邮箱、discord频道以及社群留言等。我们会从这些反馈中选出有需求或使用场景的功能，并进一步与用户沟通了解需求。我们会根据收到的反馈以及对产品和行业的判断来决定功能的优先级，如果某个功能有助于产品核心价值，我们会优先考虑开发。有用户反馈需要翻译功能，我们通过与用户的交流发现确实有此类需求，于是尝试添加了翻译功能。事实证明，该功能受到了不少用户的欢迎和使用，所以这个决策基于实际用户反馈和产品团队的判断。</div>
+</div>
+<div class="qa-item">
+<div class="question"><strong>Q:</strong> 当用户反馈较多时，如何筛选和判断哪些功能需要开发？</div>
+<div class="answer"><strong>A:</strong> 我们主要基于团队对行业和产品的认知来做判断，而不是通过正式的需求评审会投票。对于用户反馈的需求，我们会关注其是否有助于提升产品核心价值，若符合这一点且开发成本合理，则会优先考虑实施。</div>
+</div>
+<div class="qa-item">
+<div class="question"><strong>Q:</strong> 针对用户提到的一些功能改进，比如图书馆管理能力不足的问题，你们为何没有采纳？</div>
+<div class="answer"><strong>A:</strong> 我们认为post by更多是一个信息提取工具而非信息管理工具，用户的管理需求更适合由notion或类似应用来满足。因此，尽管有用户需求，但我们认为这不是我们产品的重点方向。</div>
+</div>
+<div class="qa-item">
+<div class="question"><strong>Q:</strong> 是否担心某些功能可能需要特殊衡量标准，不同于其他功能？</div>
+<div class="answer"><strong>A:</strong> 目前还未遇到这种情况，我们会通过数据量的变化来监测新功能的效果，如果数据量持续保持在一个较高水平，则表明功能是有价值且被用户所用的。</div>
+</div>
+<div class="qa-item">
+<div class="question"><strong>Q:</strong> 你们有没有一些关于功能好坏判断的标准，外界可能存在误解？</div>
+<div class="answer"><strong>A:</strong> 我们本身的评判依据是主观的，但我们坚持试错原则，如果一个功能推上线后用户反馈不佳，我们会反思并可能调整或下架该功能。</div>
+</div>
+<div class="qa-item">
+<div class="question"><strong>Q:</strong> 你们现在的业务边界是什么样的？未来会往哪些方向迭代，哪些部分不会碰触？</div>
+<div class="answer"><strong>A:</strong> 我们目前专注于知识类播客的信息获取领域，不打算涉足音频转文字等其他细分市场，因为它们相对较小。我们会持续优化现有功能，并在现有产品范围内做到极致，之后可能会考虑推出新的产品或品牌。</div>
+</div>
+<div class="qa-item">
+<div class="question"><strong>Q:</strong> 如何体现播客领域的专业性和差异化，避免功能同质化？</div>
+<div class="answer"><strong>A:</strong> 我们在转录过程中会识别博客的主题和关键内容，确保转录文稿的准确度更高。相较于泛化的ASR产品，我们在播客领域的特定应用场景中提供更精准、有针对性的服务。</div>
+</div>
+<div class="qa-item">
+<div class="question"><strong>Q:</strong> ASR工具在处理播客内容时，为何结果会比原文高很多？</div>
+<div class="answer"><strong>A:</strong> ASR工具具备一定的推理能力，对于播客中的信息能进行更深入的理解和整合，提供show notes以提供更多背景信息。在播客转录过程中，由于它能够利用这些信息对内容进行精细化处理，从而得到更精确的结果。</div>
+</div>
+<div class="qa-item">
+<div class="question"><strong>Q:</strong> 在选择模型时，首要考虑的因素是什么？</div>
+<div class="answer"><strong>A:</strong> 首要考虑的因素是模型的质量，尤其是在处理长播客等特定场景时的质量表现。通过结合业务特征进行测试来评估模型的表现，并关注其在不同语言、风格以及多语言混杂情况下的差异化表现。</div>
+</div>
+<div class="qa-item">
+<div class="question"><strong>Q:</strong> 成本在模型选择中扮演怎样的角色？在模型选择上，除了质量和成本外，还有哪些关键参数？</div>
+<div class="answer"><strong>A:</strong> 成本是选择模型时的重要考量因素之一。尽管大模型的成本在过去几年有所降低，但在初期阶段，成本问题尤为突出。例如，在MVP阶段，为了节省成本，团队甚至使用个人电脑而非购买GPU机器来处理音频转录工作。至今仍非常注重模型的成本效益。关键参数还包括上下文长度、输出token数、缓存技术（如context cash）以及结构化输出等。随着技术发展，像function cording和结构化输出等指标变得越来越重要，因为它们有助于更好地理解用户意图并调用工具。</div>
+</div>
+<div class="qa-item">
+<div class="question"><strong>Q:</strong> 针对目前各家大模型基本能力趋同的情况，如何进行选择？</div>
+<div class="answer"><strong>A:</strong> 在多数业务任务上，大模型的基本能力相差不大。因此，选择大模型的关键在于不断测试以适应自身业务需求，同时结合模型的可扩展性、成本控制以及技术指标如上下文长度、输出token数等进行综合考量。</div>
+</div>
+<div class="qa-item">
+<div class="question"><strong>Q:</strong> 自研方案在成本控制和整体表现方面有何优势？</div>
+<div class="answer"><strong>A:</strong> 自研方案如基于开源模型进行优化和叠加其他模型，能够显著降低转录成本，例如相比OpenAI的whisper API，成本降低了大约15到20倍。此外，自研方案还能针对特定场景进行优化，如自动识别和插入特定人物信息，有效控制运营成本并提升服务效率。</div>
+</div>
+<div class="qa-item">
+<div class="question"><strong>Q:</strong> 对于AI应用产品，你是否认为它们具有护城河？那么，在当前环境下，你们的产品是否有护城河呢？</div>
+<div class="answer"><strong>A:</strong> 我原先认为像relaxation和closer这类产品有护城河，但现在看来，包括policy在内的很多AI应用产品可能都没有那么明显的护城河了。尤其是在AI coding领域，随着云服务提供商如AWS、谷歌以及OpenAI等纷纷下场提供相关服务，竞争加剧，护城河似乎正在变窄。现在看来，包括我们的产品在内，99%的AI应用产品其实都没什么护城河，包括我们自己。之前可能只有我们自己没有护城河，但现在看来大部分都一样。</div>
+</div>
+<div class="qa-item">
+<div class="question"><strong>Q:</strong> 竞争对手是否有大厂在做类似功能，例如音频转录？</div>
+<div class="answer"><strong>A:</strong> 是的，很多大厂如spotify、apple等很早以前就已具备这类功能。这些大厂拥有强大的技术和资源，即使我们有独特的产品功能和人群定位，他们的存在仍会带来一定影响，但我们可以通过精细化运营和差异化策略来应对。</div>
+</div>
+<div class="qa-item">
+<div class="question"><strong>Q:</strong> 你们的产品策略是如何体现竞争优势的？</div>
+<div class="answer"><strong>A:</strong> 我们的产品策略是聚焦于某一细分市场，做好自己的部分，并与擅长其他领域的合作伙伴进行连接和协同，形成国际化的协同效应。同时，我们要深入理解并满足我们所服务的小众人群需求，即使这些用户基数相对较小，但只要能吸引一部分忠实用户并提供优质体验，也能使产品成功。</div>
+</div>
+<div class="qa-item">
+<div class="question"><strong>Q:</strong> 虽然proactive和curse没有明显的护城河，但它们为何能在各自的品类中保持领先地位且不受太多威胁？</div>
+<div class="answer"><strong>A:</strong> 虽然没有明显护城河，但这些产品在初期抢占了用户心智和使用习惯，成为用户首选。尤其在技术层面，它们通过优秀的用户体验、便捷的操作细节和对用户习惯的尊重，让用户自然回归使用。此外，独立开发者在资源有限的情况下，需要找准自身优势并进行有效分配，如POD wise就重点放在商业化和产品增长上，以铁三角的方式协同推进。</div>
+</div>
+<h1>节目文稿</h1>
+<p class="transcript-line">
+<span class="time"><strong>[00:00:04]</strong> </span>
+<span class="speaker"><strong>发言人1: </strong></span>
+大家好，欢迎收听异地骇客。我是seattle.
+</p>
+<p class="transcript-line">
+<span class="time"><strong>[00:00:07]</strong> </span>
+<span class="speaker"><strong>发言人2: </strong></span>
+我是一笑。
+</p>
+<p class="transcript-line">
+<span class="time"><strong>[00:00:08]</strong> </span>
+<span class="speaker"><strong>发言人3: </strong></span>
+我是龟龟。
+</p>
+<p class="transcript-line">
+<span class="time"><strong>[00:00:09]</strong> </span>
+<span class="speaker"><strong>发言人1: </strong></span>
+本期节目由power wise赞助播出。Hot wise是一款为播客听众制作的AI学习软件产品的slogan是read before listen。Model wise通过AI对播客内容进行转录提取、总结分析等一系列操作，帮你掰开了揉碎了硬核的播客内容。同时与notion RAD wise等平台的打通，嵌入知识管理工作流，协助您的其他包括新闻newsletter blog的内容，帮你打造第二大脑。Hot wise也为本期听众准备了三个5折优惠码，针对本期在小宇宙与我们互动的精选回复，欢迎大家踊跃来玩。好的，开始我们本期的节目。
+</p>
+<p class="transcript-line">
+<span class="time"><strong>[00:00:48]</strong> </span>
+<span class="speaker"><strong>发言人4: </strong></span>
+Hello，各位量子位的观众朋友们大家好，我是AI100访谈的蒙元。我们又是一周没见了，今天我们请到的嘉宾是有十倍效率的AI博客工具p wise。
+</p>
+<p class="transcript-line">
+<span class="time"><strong>[00:01:00]</strong> </span>
+<span class="speaker"><strong>发言人4: </strong></span>
+如果大家还有印象的话，其实大概两周之前我们邀请到了listen ham，同样也是属于AI博客这个行这个细分类里面的一款产品。然后当时橘子老师跟我们去讲了一下关于AI博客，它可能并不仅仅是一种单纯的内容形式，可以从更多的维度去理解。然后也讲了比如说在做AI博客产品的时候，会有一些独到的行业的know how，以及它是如何去影响这一款产品最终的一个落地效果的那大家其实如果关注到也会发现，其实最近的AR博客确实比较火，然后甚至已经出现了不同的这个细分品类。比如说一种就是像我们请到局子老师和listen hub还有豆包。他们更倾向于的是把特定的文本，甚至在AI搜索的基础上，帮你去生成一个个性化的博客形式的一个可消费的内容。还有一种是来福类似这种的，他会帮你去做个性化的博客的推荐。还有一种就是我们今天请到power wise，它是反而是把这个博客的内容又走向了归纳，用更精准，用更高效的方式来帮助大家来消化这个播客的内容。现在最大的质疑，我们今天也会聊到。
+</p>
+<p class="transcript-line">
+<span class="time"><strong>[00:02:10]</strong> </span>
+<span class="speaker"><strong>发言人4: </strong></span>
+就是很多人会想说AI播客看似很热闹，但是大家总觉得播客这种形式，其实它相对于短视频、长视频或图文来说，目前的受众也相对比较有线。那作为它产业链上的一环，AI博客工具到底能有多大的市场潜力，包括他将来又能扩展成什么样子？今天我们请到的就是AI博客工具promise和三位联合创始人赛豆老师、归归老师和一潇老师。来跟我们具体聊一聊pod wise对此具体的解读，以及promise本身背后的一些思考和发展历程。先请三位老师跟我们的观众朋友们打个招呼。
+</p>
+<p class="transcript-line">
+<span class="time"><strong>[00:02:49]</strong> </span>
+<span class="speaker"><strong>发言人1: </strong></span>
+好，大家好，我是settled，也是印第骇客的主播。
+</p>
+<p class="transcript-line">
+<span class="time"><strong>[00:02:54]</strong> </span>
+<span class="speaker"><strong>发言人2: </strong></span>
+对，大家好，我是一笑，也是印第骇客的主播。我们一起是从印第安克做到了今天要聊的point wise。
+</p>
+<p class="transcript-line">
+<span class="time"><strong>[00:03:03]</strong> </span>
+<span class="speaker"><strong>发言人3: </strong></span>
+大家好，我是我是归，就这样。
+</p>
+<p class="transcript-line">
+<span class="time"><strong>[00:03:06]</strong> </span>
+<span class="speaker"><strong>发言人4: </strong></span>
+是的，大家也听到很有趣的就是三位老师其实也是知名AI博客印第骇客的三位创始团队。相当于其实几位老师是双料的创始人。一方面我们在做内容的产出者，然后另一方面我们又在用不同的形式去尝试把自己之前形式的产出用更好的方式让大家来消化掉。话不多说，我们还想先问一下三位联创，如果用一句话就是很简短但是精确的去形容一下这两款产品分别给他们的受众带来的价值，那会是什么呢？
+</p>
+<p class="transcript-line">
+<span class="time"><strong>[00:03:38]</strong> </span>
+<span class="speaker"><strong>发言人1: </strong></span>
+我们其实这样定位的其实pod wise是专门给podcast的听友设计的AI工具我们刚才可以看到演示就是说他可以把一级播客的内容做转录，然后可以给他生成逐字稿，然后可以做一些整理摘要脑图，然后帮你确认说这个播客里面重点在聊什么东西。甚至你可以帮你去回听，帮你去记忆整个博客里面的高光片段。对他到底哪里是讲的比较高光的，哪里有些金句，然后这边我们都可以帮你去标注出来。然后针对英文节目，我们还有一些沉浸式翻译，能够让你快速的获取信息，这个是我们给pod OS的定位，其实它算是一款AI博客的一个效率工具。
+</p>
+<p class="transcript-line">
+<span class="time"><strong>[00:04:20]</strong> </span>
+<span class="speaker"><strong>发言人1: </strong></span>
+面向custody ze的话，其实我们也刚才能看到，他其实是一个面向podcast的制作人的一个效率工具。就是其实是podcast主播，或者我们叫制作人。一般来讲的话，他就说当他制作好一期节目之后，他可以把做好的音频上传到wifi上面对上传完之后我们可以自动帮它去生成show notes。因为我们知道如果你去做播客的话，或者你去做视频，怎么去打那个show notes，在什么时间点里边讲了什么东西，去切那个块，其实是蛮麻烦的东西。所以说我们就做AI的能力，帮你去自动生成这些windows。
+</p>
+<p class="transcript-line">
+<span class="time"><strong>[00:04:58]</strong> </span>
+<span class="speaker"><strong>发言人1: </strong></span>
+然后还有包括各种的社交媒体宣发素材，包括在twitter上面做thread，包括在小红书上面可以发图片。然后还有基于微信微信的话，我们可以做长文章。对，就刚才我们有演示做一个article。然后还有独立网页，你可以自由的去传播。这个其实是为了提升播客制作人的这个效能的，然后帮他去提升他的播客的创作跟推广效率。
+</p>
+<p class="transcript-line">
+<span class="time"><strong>[00:05:25]</strong> </span>
+<span class="speaker"><strong>发言人1: </strong></span>
+然后你可以看到我们这两个产品的名字就是一个叫pose一个叫castries，他们两个在前面的单词合起来刚好是podcast。对，所以说这个是也算是我们在这个播客领域的一个布局。对呃因为刚好泡的就是podcast，然后cast其实是有剪辑后置的这个意思在里边。对，刚好powers跟cut with castries，对。
+</p>
+<p class="transcript-line">
+<span class="time"><strong>[00:05:54]</strong> </span>
+<span class="speaker"><strong>发言人4: </strong></span>
+这很巧妙了。其实coast lies会比较好理解，因为感觉它其实是针对于所有创作或者后面都需要的一些后期处理工作。对，感觉是会比较普适于这种创作者们的那post wise其实想问一下，因为很多人可能用博客就处于一个摩尔音或者开车的这样一个状态。但如果更精准的去定位的话，pole west的目标人群会是什么样的，或者说目标场景呢？
+</p>
+<p class="transcript-line">
+<span class="time"><strong>[00:06:19]</strong> </span>
+<span class="speaker"><strong>发言人1: </strong></span>
+我觉得你刚才讲的特别好，其实我们把播客也分成干播客跟湿播客。就是你刚才讲的摩尔音或者开车在听的，可能很多东西你可能在听的是一种情绪价值。比如说你可能听一个很搞笑的片段，大家在那里聊天干嘛的，这种其实是完全没必要用pod wise这样的产品的。它本身也没有什么京剧什么的要听。就是你在开车过程中，你想放松，你就想做这种事儿就可以了。
+</p>
+<p class="transcript-line">
+<span class="time"><strong>[00:06:47]</strong> </span>
+<span class="speaker"><strong>发言人1: </strong></span>
+那针对pod wise的话，其实它核心的用户是针对那些干博客的，就我们讲说他有硬核内容的博客。那这些博客一般包含什么内容呢？包含大致有像科技类型的，然后像现在AI的这种的对，然后像历史的，然后像健身的、健康的等等这些的。就是这些比较硬核的有信息量的这种博客，是我们比较关注的对，然后我们现阶段里边，其实核心使用的人群也不是现在播客比较主流的消费人群。因为其实博客的女性用户比男性用户是要多很多的对，但我们的产品的男性用户可能会稍微多一些。
+</p>
+<p class="transcript-line">
+<span class="time"><strong>[00:07:27]</strong> </span>
+<span class="speaker"><strong>发言人1: </strong></span>
+对，我们可能核心会在几类人群上面，第一类是我们产品的投资人用户特别多。就是VC不管是一级还是二级市场的投资人用户特别多。对，就是因为播客他虽然这个媒介比较小众，但是其实在播客里边有很多行业洞察趋势，还有一手信息在这播客里面会先放出来。比如说你可能在播客里边会听，比如说all in podcast，比如说A16Z的podcast，对，比如说acquired的podcast等等这些其实就是投资人他们就是最希望能够一手获取信息的东西。但是一个投资人你想他每天都在出差，然后不是在坐高铁就是在坐飞机。他根本没那么多时间去听能能够去了解那么多信息。所以说对于他们来讲，怎么样能够快速的去捕获这些核心信息，是非常重要的。
+</p>
+<p class="transcript-line">
+<span class="time"><strong>[00:08:19]</strong> </span>
+<span class="speaker"><strong>发言人1: </strong></span>
+所以说我们其实有很大一类用户是投资人。还有第二类其实是自媒体从业者，他们也面临一类问题，就是我到底要发什么？对这个其实也是蛮重要的。就要不然说我自己去发一个大家都知道的这个消息，那你可能就会去抢别人的这个。就是你你可能要不然你要写的更好，要不然你要更快。
+</p>
+<p class="transcript-line">
+<span class="time"><strong>[00:08:41]</strong> </span>
+<span class="speaker"><strong>发言人1: </strong></span>
+但其实在播客里面有很多这种很新奇的，或者说很很角落，或者说但是他有很有信息量的内容，就特别容易让自媒体从业者可以去做二次传播，二次输出。包括我去做社交媒体分享，包括我去做文章分享，这部分信息是相对来讲小众的对这样的话能够给他们带来一个信息差。然后他这样的话他就可以把博客内容变成自己的内容，然后变成可传播的素材。这种自媒体从业者对我们这个产品的需求量还是蛮多的对，还有一类就是我们叫终身学习者。
+</p>
+<p class="transcript-line">
+<span class="time"><strong>[00:09:15]</strong> </span>
+<span class="speaker"><strong>发言人1: </strong></span>
+因为播客里面确实有很多很硬核的信息。其实很多东西可以反复听的，你可以把很多内容，比如说最近老罗采访李想的对吧？如果你觉得这4个小时是有内容有价值的，其实你可能会反复听的，你可能会在在里面做笔记的对，可能都会去做。这种其实就是很多人可能会把博客当成一个学习渠道，然后能够让他们去获取新的知识。我们其实powder s能做的事儿就是能够帮他们更好的去消化内容。
+</p>
+<p class="transcript-line">
+<span class="time"><strong>[00:09:45]</strong> </span>
+<span class="speaker"><strong>发言人1: </strong></span>
+对我觉得这个是一个挺大的不一样。我觉得我们为什么大家这三类人群会选择去用pod s我觉得这个最主要就我们能够满足他们的一个需求。第一个是说我们能够去帮他们去高效的去消费博客，对，就是我们有一些摘要能够提炼，能够转录。然后甚至我转录完之后可以合并到他自己的知识工作流里面去。比如说我转录完之后，我有一些提取的高亮信息，我可以转发到你。你的notion，你的obsidian，然后你的read wise等等这些东西就是你自己平时本身就在做笔记在干嘛的地方。所以说这块可以帮用户节省很多时间跟精力，而且可以帮他快速的拆解播客内容。
+</p>
+<p class="transcript-line">
+<span class="time"><strong>[00:10:27]</strong> </span>
+<span class="speaker"><strong>发言人1: </strong></span>
+然后再一个就是说我们本身也可以帮你去做播客的二次转化。比如说我可以把你转化成笔记，转化成文章，然后转换成可分享的东西。对，然后可以让你去传播，可以去就就是这块其实我觉得也是一个挺大的一个不一样。对，就是这两点。
+</p>
+<p class="transcript-line">
+<span class="time"><strong>[00:10:43]</strong> </span>
+<span class="speaker"><strong>发言人4: </strong></span>
+对OK我其实有一个点一直很好奇，比如说对包括去做一些总结或者提炼，其实很早之前就是通义听悟，甚至说是等于说我们之前有采访到那个深言达意。它有一个语境，就是他们都是可以通过你把这个博客的链接，然后拖过来再放进去，就理论上是可以达成比较类似的功能的那比如说如果从pole bus的角度来看，毕竟几位老师其实也是播客的常年从业者。就从你们的角度来看你觉得对于播客的消费者，当他想要获得更高密度的一个最终结果的时候，他最关注的其实是什么？
+</p>
+<p class="transcript-line">
+<span class="time"><strong>[00:11:20]</strong> </span>
+<span class="speaker"><strong>发言人1: </strong></span>
+我觉得有几个点是他们非常关注的，也是我们自己现在的一个，我讲说我们自己的一个优势。对，因为其实现在市面上面的这些工具确实挺多的，包括你刚才讲的通义听悟，还有包括飞书妙计。然后他们也可以去做。但我觉得我们自己其实现在的know how会比他们更深一些。因为他们本身自己其实是一个叫视频或者音频转文字逐字稿的一个工具。它并不是专门针对博客去做的对，但我们其实对整个内容里边，对播客是有完整的know how的。这个里面包含几个部分，第一个是说在转录的准确性上面，然后我们跟所有的包括这些大厂的转录内容做个对比，包括你刚才讲的通义听悟，包括飞书妙计，甚至包括你刚才讲的，还有一个海外的产品叫step。对，其实我们都有做过他转录准确性的一个对比，就我们的准确性是要高很多的对，但这个里面背后是由我们自己其实在转录层面上面下过很大的功夫，才把这个转录的效率能够去提升一些。
+</p>
+<p class="transcript-line">
+<span class="time"><strong>[00:12:22]</strong> </span>
+<span class="speaker"><strong>发言人1: </strong></span>
+然后再一个是说我们自己本身是带嘉宾识别的，你可以看到在很多别的你刚才讲的那些产品里边，他们在真正去识别说话人的时候，他们可以可能有些产品可以识别，有些甚至都不能识别。但是在能识别的里边，他们可能都是会给你写写说说话，人一，说话人2。对，但是在我们的产品里面，如果我们在产品里面已经标记过说这个人是罗永浩了。那不管他出现在哪个博客里边，他都是罗永浩。对，是我们自己有这种做了，就相当于全平台做了一个声纹识别。这个是一个很大的一个不一样。所以说你可以在任何地方都能够识别出来这个人到底是谁。如果是一是马斯克，他在不同的博客里面我们都可以识别出来这个人其实他就是马斯克。对，这个是一个我们独特的一个know how。
+</p>
+<p class="transcript-line">
+<span class="time"><strong>[00:13:09]</strong> </span>
+<span class="speaker"><strong>发言人1: </strong></span>
+再一个是我们对于超长内容的处理，因为其实播客跟传统内容有一个很大的不一样。比如说你看视频，你可能很难有超过4个小时的视频，可能是没有的。但是在播客里面超过4个小时的很多很多。对，但是在很多总结跟这种转逐字稿的工具，他们可能最长支持的是2个小时，更长的可能是4个小时，再长的就没有了。所以说在最近的这一波，包括罗永浩的采访，就是采访理想可能超过4个小时。
+</p>
+<p class="transcript-line">
+<span class="time"><strong>[00:13:39]</strong> </span>
+<span class="speaker"><strong>发言人1: </strong></span>
+对，包括lex fridman最新的一期有超过10个小时的播客。对，还有国内的像那有一个很火的博客叫面基，面基也超过10个小时有一期。然后你会发现很多这种处理工具根本就处理不了，而且准确性堪忧。所以说这个时候大家才想起来说哦啊PODOYS可以处理，而且处理的这么好。所以说这个是我们整个产品的一个核心优势了。
+</p>
+<p class="transcript-line">
+<span class="time"><strong>[00:14:04]</strong> </span>
+<span class="speaker"><strong>发言人1: </strong></span>
+对，就说呃我觉得现在市面上面的这些，所有包括大厂也好，包括现在有一些就是从视频音频转文本的这个角度上面也好，就是大家对于播客的深入程度是不够的。也可能他们认为自己在抓一个更大的市场。因为播客其实是比音频更小的一个门类。比如说我音频的话，我可以转lecture对吧，我可以转课堂的lesson等等之类的，我可以转演讲之类的，但是我们可能更多的专注在博客上面，专注在这种识别人上面对所以说这个是一个挺大的不一样。
+</p>
+<p class="transcript-line">
+<span class="time"><strong>[00:14:39]</strong> </span>
+<span class="speaker"><strong>发言人1: </strong></span>
+然后我还想讲一点是什么呢？就是现在市面上面还有一些我们讲播客总结工具也好，视频总结工具也好，他们可能更多的是从浏览器插件的角度去入手的，这种就做的比较轻一些，但轻一些的话也会带来一些问题是什么呢？就是这种浏览器插件一般来讲它是不能转录的，他只能去拿到浏览器界面里的信息，然后去做二次分析。这个里面一般做的比较多的是让他们去转youtube里面的信息。因为youtube可以直接拿到那个youtube内容的字幕，然后他就直接通过那个字幕去转。但是博客是不提供字幕的对，所以说其实一般来讲他们处理不了播客。所以这个也是一个挺大的不一样。
+</p>
+<p class="transcript-line">
+<span class="time"><strong>[00:15:21]</strong> </span>
+<span class="speaker"><strong>发言人1: </strong></span>
+然后针对youtube来讲的话，我们自己本身也会做说话人识别等等这些信息。然后还有很多的youtube的字幕，其实它是从youtube自身官方去转录出来的，但效果不好。再一个是它没有识别人，就是他他不会识别说话人，他只会说这句话讲了什么东西。所以说整体的效果上面，你可能比较难去从youtube的内容里边你得到说到底是理想在输出，还是在罗还是罗永浩在输出。这个东西到底是谁输出的，什么观点对他可能会混淆起来。所以说这个是一个挺大的不一样。就是从插件跟我们的产品，包括我们的产品跟其他的这些大厂做音频视频转写的这个工具的一个比较大的一个区别。
+</p>
+<p class="transcript-line">
+<span class="time"><strong>[00:16:06]</strong> </span>
+<span class="speaker"><strong>发言人4: </strong></span>
+对OK其实刚刚想提到那个声纹识别，包括就是我在使用polo west的过程中，发现有很多很细节的小设计，其实非常有趣。然后我们可能后面去重点聊一下，说老师们是怎么样去发掘到这些很小但是非常有效这些需求，然后把他们落实下来了。现在我可能想先问一下三位老师，就是当时是怎么决定说要去做prowess的。因为坦白讲来说，直到今天大家都在质疑说博客到底能撑起多大一个市场。然后当时三位是怎么下定决心要开始做的，特别是其实这款产品出现的还比较早。
+</p>
+<p class="transcript-line">
+<span class="time"><strong>[00:16:43]</strong> </span>
+<span class="speaker"><strong>发言人2: </strong></span>
+这个我来来聊一下。对，其实你刚开始我们去做pod wise，其实它也算是我们并没有说很早就决定有这样的一个战略的定位，说我们这一次三个人出来去做点事儿，就要去做做一个pose，做一个博客的AI的工具。其实是没有这样的一个考虑了。我们还是先在做我们的播客节目，就是现在做印第骇客。对，就是因为做印第骇客做了这个播客节目过后，其实相对来说我们肯定也有了自己的一些听众的整个社群，对吧？所以说其实越往后面发展就会发现在我们自己听众的社群里面，比如像discord，我们的群里面，那个时候我们自己每录一期节目过后，其实在我们的disco o的群里。那个时候就有一些听众朋友拿着我们的播客节目去做一个总结，然后就扔到群里分享说，这三个哥们儿这一期节目讲了这样的一些内容，你们先看一下，如果感兴趣就去听一下，不感兴趣就不要听了。对，所以说那个时候出现了这样的一些事件。
+</p>
+<p class="transcript-line">
+<span class="time"><strong>[00:17:48]</strong> </span>
+<span class="speaker"><strong>发言人2: </strong></span>
+对，然后我们自己也会在像在极客小红书上。那时候其实已经发现了有有挺多的那种课代表，对博客的课代表，他们会去写很多很多的这样的笔记内容，然后在极客小红书上去做分享。所以那个时候其实我们是关从整个社区里面，不管是小红书，极客，还是我们自己的亲友，听众群，这就从这些社区里面去发现了，大家其实会喜欢去做这样的笔记去分享。对所以说我们觉得说这个东西结合今天刚好那个时候AI大模型这些东西出来了，我们觉得说这是一个很好的契机，好像可以自可以做一个小工具。对，至少我们先觉得说这个工具可能对博客来说就是刚才赛特分享的对吧？它可能是相对说整个音频来说，它是一个非常小众的一个赛道。所以说当时我们觉得说它至少可以有一个还不错的产品工具产品出现。所以说我们是因为这样的一个契机就做了这件事情。对。
+</p>
+<p class="transcript-line">
+<span class="time"><strong>[00:18:55]</strong> </span>
+<span class="speaker"><strong>发言人4: </strong></span>
+比如说中间可能会有两个问题，首先是很多创始人们，他们会发现自己身边会有一些需求。就像刚才肖老师说的，发现读者身边有需求，但有一定的概率就是这个需求它并不是一个广泛存在的需求，他可能并不是说足以能支撑一个产品长期的持续性的投入的。然后再一个问题就是可能他get到了那个需求，但是他并没有把这个功能落地开发好，导致这个产品其实最后就是没有那么好，或者说没有达到大家最初的一个预想。那就想问一下，比如说三位老师是有哪一个信号，或者说哪个事儿让你们意识到说power wise它的确达到了PMF，是值得三位老师去做一个长期的作为一个商业化的产品去做投入的对。
+</p>
+<p class="transcript-line">
+<span class="time"><strong>[00:19:38]</strong> </span>
+<span class="speaker"><strong>发言人2: </strong></span>
+其实我觉得所有做产品，你其实在第一天的时候，你就说我选的这个东西它一定会成功，一定会有大量的人来使用你，给你付费。我觉得这个是不可能会有这样的一个先知和预测的对，所以说我们也只是说get到了这样的一个信号，对吧？那我们觉得说可以尝试去做一个产品出来，这就是第一步。但是当我们做出来的时候，其实我们在整个做MVP的过程当中，我们就像后面可能我们待会儿还会去聊到我们怎么去获取前面的1000个用户，100个付费用户这些具体的内容。但是我们其实很快就达成了前面的100个几百个用户。我们还在MVP的阶段，其实在就是给我们在邮件去订阅我们的waiting list，其实很快就已经超过了100个用户了。对，就是这个数其实我们这就是刚放出来一两天，他其实就达成了这个目标。所以这是一个很好的一个信号。对，就是对这个产品的它的价值来说是一个很好的信号。
+</p>
+<p class="transcript-line">
+<span class="time"><strong>[00:20:43]</strong> </span>
+<span class="speaker"><strong>发言人2: </strong></span>
+好，越往后面当整个MVP过来过后，真正发布到线上过后，其实就是要真正有人使用，对吧？当然我们去衡量真正有人使用，其实就是看每天会产生多少内容，因为我们自己不会掏很多很多的钱和成本去预处理全球的这些播客的节目。因为要消耗很多的资金，所以说就完全是靠用户驱动，用户来用就会逐渐的去转入掉了很多很多的节目。
+</p>
+<p class="transcript-line">
+<span class="time"><strong>[00:21:13]</strong> </span>
+<span class="speaker"><strong>发言人2: </strong></span>
+所以我们每天都会增长很多很多的播客新的博客的数据出来，这也是一个很好的信号。其实我们对我们自己团队来说，我们最关注的其实还是付费这件事儿。对我觉得这个信号其实是最强烈的，就是有个产品然后有人愿意为你付钱。所以说我们其实一直虽然说博客是一个很小众的赛道，对，就像刚才赛道分享的。然后我们主要的人群里面什么投资人也好，还有自媒体也好，还有一些包括现在有很多的学生，还有一些硬核的支持博客的爱好者，这些人他们可能消费能力都还在在博客的这个用户群里面，消费能力都还行。
+</p>
+<p class="transcript-line">
+<span class="time"><strong>[00:21:57]</strong> </span>
+<span class="speaker"><strong>发言人2: </strong></span>
+因为我们自己去分析一下那个博客的用户，将我们自己小宇宙的后台就可以看得到。我们博客的群众的分布大概都是在北美海外，然后再加北上广深，就是在沿海地区。对所以说你可以知道，这个用户群相对来说，其他地区他可能他的那个钱包的厚度肯定是要要强一点点的对，所以说我就这就会导致我们所以说最后整个的付费率，那个付费率在SARS的产品里面还算比较靠前的，就是付费的密度还挺高的。做这个信号也是一个对我们来说他还挺契合我们觉得说拿到了我们心目中的那个PMF，我们可以继续投入去做这件事儿。对。
+</p>
+<p class="transcript-line">
+<span class="time"><strong>[00:22:45]</strong> </span>
+<span class="speaker"><strong>发言人4: </strong></span>
+等于当时MVP的那几百个用户是纯自然增长出来的。
+</p>
+<p class="transcript-line">
+<span class="time"><strong>[00:22:50]</strong> </span>
+<span class="speaker"><strong>发言人2: </strong></span>
+我们当然这个可能也得益于我们自己，本身也还是在运营流量，你可以理解对吧？我们自己可能有一些的节目，这个肯定也起到了一个很大的一个作用。对。
+</p>
+<p class="transcript-line">
+<span class="time"><strong>[00:23:05]</strong> </span>
+<span class="speaker"><strong>发言人4: </strong></span>
+明白。比如说像刚刚提到的一个狒狒的指标，目前就是整个prowest可能最关注的几个指标是什么？包括现在的一些进展能不能透露一下？
+</p>
+<p class="transcript-line">
+<span class="time"><strong>[00:23:14]</strong> </span>
+<span class="speaker"><strong>发言人1: </strong></span>
+我们其实现在比较关注的一个指标是付费率，这个刚才一笑也讲过了。对，然后这个付费率其实现在AI产品跟我们再往前就是走这种订阅制的产品，可能更多的是SaaS产品。对，其实现阶段的AI产品的付费率比传统的to b的这种SaaS的，我们讲的是那个续费率，我们讲的是续费率。对，就是AI产品的这个续费率比传统sas的这个续费率其实是要低很多的。如果大家比较关注这些SaaS公司的话，比如最近刚上市的FIGMA，FIGA的续费率是140%多。就在上市之前去发出的财报，就他的续费率是140%多，意味着什么呢？意味着同一家公司可能多采购了40%的席位，或者说他up sell cross sell了别的产品进去，就是达成了这件事儿，就是同一家公司里边下一年比这一年还多掏了很多钱，所以说它的续费率可能会更高。但现在所有的AI产品，它的续费率都不会有百分之百。
+</p>
+<p class="transcript-line">
+<span class="time"><strong>[00:24:26]</strong> </span>
+<span class="speaker"><strong>发言人1: </strong></span>
+然后甚至很多的产品我们讲续费率的另一面就是退订率，对吧？如果我续费率是97%，那么退订率就是3%对吧？就这样子就是现在所有的AI产品它的退订率其实还蛮高的对，就是有些的就是有些产品它的月定的退订率甚至能高到50%以上，就是相当于说他第一个月卖了100个用户，第二个月剩下直接续费的就是只就只剩下50个用户了。
+</p>
+<p class="transcript-line">
+<span class="time"><strong>[00:24:55]</strong> </span>
+<span class="speaker"><strong>发言人1: </strong></span>
+对，而且还有很多的这种AI产品，他可能现在走的一种营销策略是说我第一个月就给你免费，但是他会把这第一个月算作是他的订阅用户。但是其实用户第二个月都全跑完了。对，但是他自己可能会在对外宣布的时候，可能会去讲说，我这个月的ARR是多少钱。所以说这个其实是一个挺虚假的一个数据。
+</p>
+<p class="transcript-line">
+<span class="time"><strong>[00:25:22]</strong> </span>
+<span class="speaker"><strong>发言人1: </strong></span>
+然后pod wy s现在比较好的一点是，其实我们整体上没有做大规模的投放。其实我们现在的用户增长有一点口碑传播的这个意味在。所以说其实我们的推定率一直保持在一个比较低的水平。对，然后我这里也刚好再插一点，就是我们刚才讲的这个很多的APP可能第一个月免费。然后可能充了大量用户之后，第二个用户可能50%以上的，甚至六七十的用户都跑了。
+</p>
+<p class="transcript-line">
+<span class="time"><strong>[00:25:50]</strong> </span>
+<span class="speaker"><strong>发言人1: </strong></span>
+对，这个是现在整个AI行业的ARR这个指标是挺挺虚的对，反正也不知道是怎么算的。我们以前开玩笑笑说，我在这一分钟里面卖出去十个我都可以吹。我说我是几千万AR几千万美金AR这种。对我觉得这个事儿其实挺虚荣的。大家其实不要去追求ARR这件事儿。对，就是你老老实实把自己的所谓的退订率或者说续费率做上去，我觉得这件事儿是更重要的对。
+</p>
+<p class="transcript-line">
+<span class="time"><strong>[00:26:22]</strong> </span>
+<span class="speaker"><strong>发言人4: </strong></span>
+其实谈到这个除了ARR之争之外，还有一个很有趣的事情，就是其实很少会看到有这种初创型的或者说比较精品的产品。它比较敢说一上来说我就要追求付费，我就会把付费当成一个很直接的目标。就是很多产品它会说我想先打磨我的功能。我觉得我的功能要达到一定水准，或者说我的用户口碑要达到一定的水准之后，我才可以讲付费。比如说poll VS比较早，包括现在也很直接的去面对付费这个事情是怎么考虑的。比如说像他们说的那种，我要等功能迭代的怎么样了，然后我才可以付费。就比如说Polly在这个付费的时点，包括整个模式的设计上是怎么考虑的。
+</p>
+<p class="transcript-line">
+<span class="time"><strong>[00:27:03]</strong> </span>
+<span class="speaker"><strong>发言人1: </strong></span>
+其实我们判断一个产品能不能达到PMF，核心就是有没有人付费，而不是有没有人用。对我觉得这个是一个挺真实的一个数据。就是说在真正的一个产品能不能达成PMF，我们真正看的是你到底有多少用户转化成了你的付费用户，你在追求这个点，而不是说你追求说我到底有多少用户，然后我进行了转化变成了我的会员。但是这些会员其实都没有付费。那这个时候可能是一个虚假的一个我们讲PMF达成也好，干嘛也好。所以说这个是我们所追求的，就是说在当下第一点第一时间点，我们就选择要去做付费。
+</p>
+<p class="transcript-line">
+<span class="time"><strong>[00:27:47]</strong> </span>
+<span class="speaker"><strong>发言人1: </strong></span>
+然后还有一个点就是其实播客的这个整体市场我们判断下来是比较小的。尤其是当我在国内或者说我们看到博客这个市场，包括在国内也好，小宇宙也是最近几年才起来的，但其实它的商业化规模是很小的，它比长视频要小很多。比起短视频，比起抖音，那它就小更多了。对，而且整个博客这个市场里边，海外还相对好一些。
+</p>
+<p class="transcript-line">
+<span class="time"><strong>[00:28:16]</strong> </span>
+<span class="speaker"><strong>发言人1: </strong></span>
+最近两年开始有一些头部的有一些商业化机会，但在国内基本上播客的商业化机会完全集中在头部，就是中部跟腰部以下，基本上没有任何机会去拿到一些分润，跟商业合作是比较难的。对他不像。Youtube你只要做到1000个粉丝以上，你就可以拿到利润，你就可以拿到分成。但是在国内其实包括在海外，海外其实如果你有1000个博客订阅，其实你可能也分不到几毛钱。对他整个博客的投放跟youtube的投放的CPM的值还是差挺多的对然后我们一开始的这个pod wise的这个定位，我们刚才有讲说，其实有包括投资人、自媒体，还有终身学习者，他们其实是有一定付费能力的。所以说我们当下的其实整体的定价也是比较高的。再一个就是我们本身在当时的那个时间点里边，PODYS本身的成本也是蛮高的。
+</p>
+<p class="transcript-line">
+<span class="time"><strong>[00:29:15]</strong> </span>
+<span class="speaker"><strong>发言人1: </strong></span>
+包含我们自己去做转录，包含我们去做总结，就是做转录的这个过程其实是要消耗大量的GPU资源的对然后做总结这个时间点上是要消耗大量token的。而且播客的时长特别长，它的token的消耗就特别多。所以说我们不太能做到那种说我免费，或者说我给大家的一个很长的一免费。甚至你能免费做转录。然后你进来之后，我再慢慢从你身上收钱。那这个时候用户可能全部都跑光了。
+</p>
+<p class="transcript-line">
+<span class="time"><strong>[00:29:44]</strong> </span>
+<span class="speaker"><strong>发言人1: </strong></span>
+所以说对我们而言，我们其实只当时在做这个门槛的时候就设定了说一个月你可以去看我们的四期转录好的内容，同时有四期总结好的内容。那这个四期的内容里边为什么是四期？就是因为大致上一个博客在一个月里面最多可能也就发四期，他可能每周发一期，这是可能是比较快的这种发布周期了。可能慢的周期里面有些播客可能一个月才发一期，或者一个月发两期这样子。
+</p>
+<p class="transcript-line">
+<span class="time"><strong>[00:30:13]</strong> </span>
+<span class="speaker"><strong>发言人1: </strong></span>
+那我们就提供给我们的免费用户，每个月他可以订阅一个1到2个博客。然后你可以看到这个博客完整的更新也好，干嘛也好，对去做这件事儿。但如果说你是一个我们刚才有讲说你是一个博客内容的一个刚需消费者，你是投资人，你是自媒体从业者，你是终身学习者，对吧？你是学生，你可能需要这些东西。
+</p>
+<p class="transcript-line">
+<span class="time"><strong>[00:30:34]</strong> </span>
+<span class="speaker"><strong>发言人1: </strong></span>
+那么不好意思，你就付费，付费的话你可以免费看我们所有平台里面转录好的内容，同时你可以自己选择性的去转录。27。如果你是标准版，如果你是一个pro的版本，就是专业版的话，你可以转57。这是我们的一个整体的一个在付费这个层面上面当时的一个思考。
+</p>
+<p class="transcript-line">
+<span class="time"><strong>[00:30:55]</strong> </span>
+<span class="speaker"><strong>发言人1: </strong></span>
+然后我们自己是觉得说，反正博客这个市场它不会是一个比较大的市场。而且单纯的这个音频的消费空间，甚至未来可能还会被压缩。包括你可以看到最近的一些趋势，老罗进了视频之后，进了播客这个行业之后，其实它主要的投放区域其实是视频播客。他的主战场是B站哔哩哔哩。然后会在小红书等等平台上面，包括抖音，会去发自己的这种视频博客。所以说音频的整个的这个空间其实是在被压缩的对，然后嗯因为我们我们自己其实现在pod wise里面也在做一些音频向从音频里面扩展，也在去做一些视频的内容。所以这块儿其实我们自己也在去延伸再去。
+</p>
+<p class="transcript-line">
+<span class="time"><strong>[00:31:41]</strong> </span>
+<span class="speaker"><strong>发言人4: </strong></span>
+做对OK其实听起来比较像是，虽然整个市场的规模没有所谓传统定义的那么大，但是其实是相当于在高付费能力的这个细分人群里，你做到了比较高的一个渗透率。
+</p>
+<p class="transcript-line">
+<span class="time"><strong>[00:31:53]</strong> </span>
+<span class="speaker"><strong>发言人1: </strong></span>
+那这样的话。
+</p>
+<p class="transcript-line">
+<span class="time"><strong>[00:31:55]</strong> </span>
+<span class="speaker"><strong>发言人4: </strong></span>
+我会想问，比如说他们经常讲的时候，当你要打一个细分市场的时候，你需要去抢占这个用户心智。比如说要有窗口期，要跑得够快等等等等。比如说对于我们想要去打透，或者说尽可能去渗透的这部分高付费能力的用户。我们在他的用户增长上或者说宣传传上面，就现在会有一些什么样觉得ROI还不错的方式或者说技巧吗？
+</p>
+<p class="transcript-line">
+<span class="time"><strong>[00:32:20]</strong> </span>
+<span class="speaker"><strong>发言人1: </strong></span>
+其实我觉得就是要出现在他们活跃的地方，就是这些人在哪里活跃，你就要在哪里出现。然后我们其实一开始，一笑刚才有分享说，我们一开始其实产品刚发出来的时候，其实就还有不错的人进我们的waiting list。然后当我们一开始有付费的时候，就开始有人有付费。这个里面其实就涉及到说我们一开始在哪里做宣传。
+</p>
+<p class="transcript-line">
+<span class="time"><strong>[00:32:44]</strong> </span>
+<span class="speaker"><strong>发言人1: </strong></span>
+我们最初其实明显知道的一个渠道就是极氪，因为极客其实是小宇宙的，算是母公司。对，就是因为小宇宙本身是极客投资的，相当于是极客孵化的。然后在极客里边其实有不少播客的听友，他们是消费播客的对，因为我们知道从我们自己的博客印第骇克的这个博客里面，我们可以看到，播客的消费其实在大城市的集中度还是蛮高的。就北上广深，海外这种的集中度还是蛮高的。其实大家的消费能力还是有的，而且你得找到他们所在的这个，就是他们所在的这个场域。当时极客里边其实有一个小组叫一起听播客，一起听播客的这个小组里面有很多播客的创作者，他会在里面发自己的博客让大家去听，相当于是一个宣传场地，那也会有很多播客的喜欢播客的人会去里面找有意思的播客。
+</p>
+<p class="transcript-line">
+<span class="time"><strong>[00:33:39]</strong> </span>
+<span class="speaker"><strong>发言人1: </strong></span>
+我们其实一开始在极客里边其实就找到了一群相当于创始人用户。然后创始用户里面就帮我们拿到了很多用户。然后再一个就是，我们在twitter上面对，因为twitter其实是有一些算是科技先锋，会在twitter上面会比要多一些。对，然后我们在twitter上面其实也是有一段，当然不是说一开始就上来做宣传了。因为twitter其实有一个挺大的问题，就是他本身如果你没有粉丝的话，其实信息很难传播。对，我们其实一开始用了一些手段，把我们的账号去做到了有一些粉丝，然后再开始在上面去做了一些宣传，然后也吸引到了蛮多用户的对，如果说现在我们讲说有一些什么样的，好的方式是可以拿取用户的。我们现在感觉到如果你要去拿用户的话，最好要去那些我们讲信息平权的地方去活跃。
+</p>
+<p class="transcript-line">
+<span class="time"><strong>[00:34:34]</strong> </span>
+<span class="speaker"><strong>发言人1: </strong></span>
+我们讲什么地方是信息平权的，比如说小红书，比如说极客，比如说国外像reddit，比如说像抖音，这些平台都是每一个人都有机会活五分钟的平台。我觉得最典型的就像小红书，在小红书里边其实即使你没有粉丝，你也可能能发出来一个热帖，然后甚至你可能有粉丝了你也发不出来热铁。对，就是它是一个比较玄学的一个地方。但是它带来一个好处就是大部分我们一开始在这个平台上面活跃的时候，实际上我们都没有粉丝。
+</p>
+<p class="transcript-line">
+<span class="time"><strong>[00:35:12]</strong> </span>
+<span class="speaker"><strong>发言人1: </strong></span>
+对，但小红书给你一个信息平权的机会，当我制造了好的内容的时候，我的内容可以得到传播。对，像极客的话，因为它其实你可以把它当成百度贴吧一样的地方，或者是或者讲豆瓣小组一样的地方，你只要发帖所有人都能看到。对，那redit也是一样的，就是它其实是一个论坛，反倒X其实不是一个太好的一个启动平台。因为X特别依赖你的粉丝数，你有粉丝数才能带来传播。我们其实当时先做了一件事儿，就是先把X粉丝先做了一定的增长，后来才去做了传播。
+</p>
+<p class="transcript-line">
+<span class="time"><strong>[00:35:45]</strong> </span>
+<span class="speaker"><strong>发言人1: </strong></span>
+所以说我自己觉得是说，如果你想去拿到更多的用户，首先你要要找到这些用户在哪里。比如说你在小红书上最好要打上他们的tag对吧？你知道他们会经常观看什么样的内容，然后打上这些tag，然后可以去获得他们的关注。对，然后你你出你更多的出现在他们能出现的平台里边。当他们发现你之后，他觉得你有用，他们可能会自发的帮你做传播，包括我们pot wide出来之后，很多在小红书上面也好，在极客上面也好，甚至在X上面也好，很多就是自来水，这种可以帮我们去做传播，这种我们也特别感谢。对，就证明说我们产品可能真的帮助了他。对我觉得这个是蛮重要的。
+</p>
+<p class="transcript-line">
+<span class="time"><strong>[00:36:30]</strong> </span>
+<span class="speaker"><strong>发言人4: </strong></span>
+其实结合刚刚前面提到的，比如说为什么一开始就收费？有提到说咱们技术成本的部分，就感觉它其实对于整体的RY还是比较敏感的那刚好在这儿也问一下，其实很多产品它现在为了推动用户去自传播，它会设置那种比如说你在我这里产出了一个东西，然后如果你能把它去做分享的话，我可能会以现金的形式或者免费积分的形式，来就给你一些反馈，然后鼓励用户来不断的去循环的传播。是对于这种宣传方式就破坏是怎么看的？然后有尝试过吗？
+</p>
+<p class="transcript-line">
+<span class="time"><strong>[00:37:05]</strong> </span>
+<span class="speaker"><strong>发言人1: </strong></span>
+我没有尝试过，我们也有尝试过，其实这个效果还可以。但我们在尝试的过程里边出现了一定的问题，就是我们自己在尝试过程里边，我们想通过返佣也好，想通过赠送会员也好的方式去做。但是在海外的这些平台上面其实不太好做。这个里边如果我们真正要做的话，可能会涉及到比较重的一定的研发成本。那这块儿我们可能后续就把它暂停掉了。
+</p>
+<p class="transcript-line">
+<span class="time"><strong>[00:37:29]</strong> </span>
+<span class="speaker"><strong>发言人1: </strong></span>
+我们一开始其实产品刚上线之后就有分享的这个手段。但分享当时是用会员的方式分享，结果过了一个月之后，我们发现那个分享其实是有问题的对，那我们后续用补偿等等的方式，可能把它去做了一定的修正。我觉得这种方式可能比较普遍，像包括。
+</p>
+<p class="transcript-line">
+<span class="time"><strong>[00:37:48]</strong> </span>
+<span class="speaker"><strong>发言人1: </strong></span>
+你可能看到现在比较成熟的产品像Monica对吧？就是minus的母公司了。对，然后像Monica他们其实他们的分润力度非常大，如果我去帮忙Monica去做传播的话，我甚至能拿到用户的一半费用，可能还更多。对，就他们的分配力度会非常大对，那这块儿的话，其实我们可能也会去找一定的资源去做这样的事儿，还有包括像我们除了说让用户自传播之外，我们做了另外一件事儿，就是我们自己的这个平台上面其实是可以申请pillions的。就是可以申请你，你是作为一个外部的我们做传播的。但其实它是主要开放给这种自媒体人员的。
+</p>
+<p class="transcript-line">
+<span class="time"><strong>[00:38:35]</strong> </span>
+<span class="speaker"><strong>发言人1: </strong></span>
+比如说你自己有一些newsletter，或者你有一些youtube的一定的产品，那你可以上来到我这里来申请一个分润链接。然后你拿到那个分润链接之后，只要用户在那个分润链接里面买了，你可以拿到分润。对，但是他们可能不会是用户，或者说他们可能也算是用户，但是他们的渠道会跟用户的渠道会不太一样。然后我们现在会透过这种方式，在相当于类似KOL帮我们去做传播。其实这块儿也还是OK的，就是这块儿即使可能你没有拿到很多的转化，但是其实你可能也获得了很多的曝光。对我觉得这个也是蛮好的一个方式。
+</p>
+<p class="transcript-line">
+<span class="time"><strong>[00:39:12]</strong> </span>
+<span class="speaker"><strong>发言人4: </strong></span>
+OK. 好，我们跳回到这个功能的部分来聊一聊。就是一开始的时候，比如说刚刚提到有这个生物纹的这个小的设计，然后包括其实如果大家直接去那个pool，到时候去下这个安装包的时候，你可以看到这pole wise它的它的这个主页上面，它会有很多对poll vice的功能描述。包括有笔记、有高亮、有总结、大图脑刚等等等等。
+</p>
+<p class="transcript-line">
+<span class="time"><strong>[00:39:37]</strong> </span>
+<span class="speaker"><strong>发言人4: </strong></span>
+大家刚刚在功能演示里面也看到了，那就比较好奇的一点就是对于这样一个非常丰富，甚至可以说有点一站式味道的这种功能矩阵的话，首先我们是怎么判断要去做哪些功能的。特别是比如说这么多功能，它可能也不是一次性就做上来的那比如说在面对这么多有必要去做的，首先去判断哪些功能有必要做。其次就是当有这么多有必要做的功能的时候，当时是怎么去看判断它的一个开发的优先级的呢？
+</p>
+<p class="transcript-line">
+<span class="time"><strong>[00:40:07]</strong> </span>
+<span class="speaker"><strong>发言人3: </strong></span>
+OK这个我来回答一下。其实我们最初做的这个MVP的链路是非常简单的。就是用户搜索，或者导入他感兴趣的播客节目，然后点转入，等转录完成，然后看看完了之后导出到他的notion或者office之类的应用，他喜欢用的那些知识管理系统系统里面就结束了，就这么一个链路。
+</p>
+<p class="transcript-line">
+<span class="time"><strong>[00:40:30]</strong> </span>
+<span class="speaker"><strong>发言人3: </strong></span>
+然后上去之后，我们其实开了很多反馈的途径。包括比如说我们在这个APP里面的这个feedback的一个表单。然后我们有support邮箱，我们也有我们自己的discord的频道。然后包括也有用户通过我们的一些社群来反馈的。比如说我们在小红书账号上面会有用户来留言说，你们能不能做一个这个东西之类的。然后我们自己在我们的这个web版的这个landing page上面还有一个roadmap的一个入口，用户也可以去投票说，在这个remap上面哪一些东西他是比较想要的。我们就会从这些反馈里面会选出一些可能他讲的不是那么清楚，或者说我们对他的这个需求会有兴趣的，会进一步的去联系我们的用户，做进一步的沟通，来了解他们的使用场景。然后这一些其实我们都会归总过来，然后我们会比较重视。
+</p>
+<p class="transcript-line">
+<span class="time"><strong>[00:41:25]</strong> </span>
+<span class="speaker"><strong>发言人3: </strong></span>
+因为一般用户能够去打一堆字来反馈的，其实他都是确实有需求，或者用起来真的是不爽的，因为我们这个体量其实也还没有到说时不时会遇到恶意用户的情况。就之前我看那个X上有一个开发者开玩笑说，他每次发现竞品就装成用户跑去给人提一堆没用的功能需求。我对我们好像暂时还没有遇到过这样的，我们是比较重视用户反馈中提出的需求的。当然我们自己会去做判断，判断说这对pod wise的核心价值是否有帮助。然后这个判断怎么说呢？
+</p>
+<p class="transcript-line">
+<span class="time"><strong>[00:42:00]</strong> </span>
+<span class="speaker"><strong>发言人3: </strong></span>
+你说他有什么底层逻辑，其实可能没有，就是基于我们自己的认知，因为一个小团队，你也不太可能说我要去开一个需求评审会，然后说我们怎么样，大家投个票，就是这个东西到底要不要做之类的。其实更多就是来自于我们自己对这个行业，对于产品的判断。然后如果他是对我们的pot west核心价值是有帮助的那我们就会考虑优先去做。但是如果没有帮助，又比较多需要开发成本的，我们就忽略。
+</p>
+<p class="transcript-line">
+<span class="time"><strong>[00:42:30]</strong> </span>
+<span class="speaker"><strong>发言人3: </strong></span>
+举个例子来说，有用户觉得我们的这个library的管理能力太弱了。他说我们应该学一学notion，就比如说搞一点标签，搞一点层级，搞一点文件夹之类的，我们就没有怎么听。因为其实在我们的这个设想里面，post by它更多是一个信息提取的工具，它不是一个信息管理的工具。因为用户本身他早就用习惯了，他用他的notion也好，他用他的比如说今天有新的一些工具IMA也好，它会把各种渠道里面的信息汇总到它的这个知识管理体系里面，而不会是单独的分散在各个不同的渠道里面。Pot west只是其中的一个渠道而已。所以我们认为说我们把这个擅长的事情让这些擅长的APP去做就好了。我们就是做信息信息提取、信息检索，快速信息消费的事情，所以我们就不会去做这个用户提到的这个东西，虽然他确实应该是有一些帮助的，但我们觉得不重要。
+</p>
+<p class="transcript-line">
+<span class="time"><strong>[00:43:30]</strong> </span>
+<span class="speaker"><strong>发言人3: </strong></span>
+还有一个例子是我们用户会反馈说，比如说他是拿pod wise学外语用的，我们遇到好几个这个使用目的的用户，然后我们才会想着说那是不是可以把翻译功能上一下。我们也会跟用户聊说，比如说我给你一个翻译的功能，你可以对照的是不是会比较好用。那事实证明我们上了这个之后，用的人还是挺多的。我们去看这个翻译陈述的这个数量的话，确实还是挺多的。所以我们主要还是来自于自己的判断。当然我们也会去做一些我们自己觉得要做的，这个时候就可能不会想太多，就是自己感觉有用就做了。
+</p>
+<p class="transcript-line">
+<span class="time"><strong>[00:44:10]</strong> </span>
+<span class="speaker"><strong>发言人3: </strong></span>
+其实怎么说呢？我觉得去主动去做用户调研和市场调研是一件很难的事情。就是你规模做小了，它可能没有什么意义，它可能结果也是偏差的。但是你做规模做大了，它就变成一件非常系统性的事情。然后这个对于小团队来说比较得不偿失。就是你可能直接去试错的成本，其实反而比说你要先去做一个比较严谨的市场调研的成本是要更低的。
+</p>
+<p class="transcript-line">
+<span class="time"><strong>[00:44:39]</strong> </span>
+<span class="speaker"><strong>发言人3: </strong></span>
+还是一样举例子，比如说我们之前去上了这个ask AI的功能，就是可以和AI对话，来让他帮你寻找或者推荐播客节目，就是跟AI来聊我们所有整个平台上全部转录过的节目。说你能不能帮我推荐一些，比如说讲这个法律的节目，那他就会帮你去推荐，就这么一个功能。这个功能就感觉现在其实你只要但凡是个AI产品都得有这么一个功能，对吧？标配功能我们就也想着试试水，结果上去之后看数据就是几乎没啥人用。然后事实上我自己都不怎么用，反正但是我们就觉得说这个好像应该有，我们就做了。所以其实我们更多还是说搞了很多渠道，然后去倾听用户的声音，这个是更主要的对。
+</p>
+<p class="transcript-line">
+<span class="time"><strong>[00:45:28]</strong> </span>
+<span class="speaker"><strong>发言人4: </strong></span>
+比如说我们有一个功能，就是上线了之后，我们怎么样去观测说这个功能它到底有没有work，有没有打到用户他本身想要的痛点上面去。会有一些指标或者说现象去作为衡量标准去监测一个功能。
+</p>
+<p class="transcript-line">
+<span class="time"><strong>[00:45:43]</strong> </span>
+<span class="speaker"><strong>发言人3: </strong></span>
+对，我们会去看它的数据产生的数据量，因为上新功能的话，我们其实肯定会说做一个引导比如说我们上这个SKI的时候，会把它放在顶级菜单的最中间，然后让大家知道说这里上了一个SKI。然后包括翻译这个东西，我也是上去之后，我们会弹窗说，我们现在支持了一个新的翻译的功能，那用户看到了之后他自然会去尝试。然后过一段时间我们就会去看说这个功能它产生的数据有多少。如果数据就没什么的话，我们就会觉得说这个功能其实没有什么人用。但如果数据比较多，特别是比如说我跟我的这个episode转入的数据去做对比，就是主要的核心数据去做对比的时候，发现它的比例还是挺好的。那我们就会认为说这个功能它其实是确实是有人在用的，它是有价值的对。
+</p>
+<p class="transcript-line">
+<span class="time"><strong>[00:46:32]</strong> </span>
+<span class="speaker"><strong>发言人4: </strong></span>
+那会不会担心？比如说因为我们之前就是访谈那个ramel，然后remix就是你得用一段时间才知道这个东西比较好用。所以他在有一些三月留存上面，它的表现就没有那么好。比如说我们用这套方法去监测power west的功能的时候，会不会出现有某些特性的功能。它可能就是衡量的方式要跟别的功能不大一样，要去区分看待一下。
+</p>
+<p class="transcript-line">
+<span class="time"><strong>[00:46:55]</strong> </span>
+<span class="speaker"><strong>发言人3: </strong></span>
+我们暂时倒还没有遇到这样的情况，因为他的数据其实是蛮蛮明确的，因为它一定会产生一份新的数据，如果用户在用，他持续的在用，那这个数据的量它就不会掉。如果有可能，比如说我这个大家上来新鲜了一下，对吧？我们可能刚上SKI的时候数据还比较多。过一段时间就没有人用了，那这个肯定就是它增量就没有了，那这个肯定就是有问题的。但是只要它的这个量保持在一个水平上，我们觉得就觉得说这个东西是有用的。
+</p>
+<p class="transcript-line">
+<span class="time"><strong>[00:47:24]</strong> </span>
+<span class="speaker"><strong>发言人4: </strong></span>
+明白，像归老师刚提到就是说会有一些自己的这个判断的标准，有没有？比如说您觉得有一些就是polites有，但是其实外界会有误解的一些对于功能的一些判断的标准。
+</p>
+<p class="transcript-line">
+<span class="time"><strong>[00:47:35]</strong> </span>
+<span class="speaker"><strong>发言人3: </strong></span>
+我觉得我们本身的评判依据其实都是主观的，就是市场一定是对的。比如说我自己觉得说这个功能太有用了，我一定要把它做上去。然后做上去之后没有人用，那一定就是我错了。
+</p>
+<p class="transcript-line">
+<span class="time"><strong>[00:47:48]</strong> </span>
+<span class="speaker"><strong>发言人4: </strong></span>
+对，推上去看反馈。
+</p>
+<p class="transcript-line">
+<span class="time"><strong>[00:47:50]</strong> </span>
+<span class="speaker"><strong>发言人3: </strong></span>
+对对对，因为其实就像我刚刚前面讲到的，对于小团队来说，我觉得试错反而是更快的。那如果推上去这个东西真的没有人用，我们可能后面就会考虑把它给下掉，或者说把它入口藏得更深深一点，把这个前面的入口让给更有用的功能对OK。
+</p>
+<p class="transcript-line">
+<span class="time"><strong>[00:48:05]</strong> </span>
+<span class="speaker"><strong>发言人4: </strong></span>
+那我们现在比如说破坏子有想过之后的业务边界大概是什么样呢？就是会往哪些方向迭代，然后有哪些部分是肯定是不会去碰的。
+</p>
+<p class="transcript-line">
+<span class="time"><strong>[00:48:16]</strong> </span>
+<span class="speaker"><strong>发言人3: </strong></span>
+我们现在其实就是专注在的这个领域，就是前面其实有settle提到过的知识类的干播客的这个信息获取上面。所以其实也有很多用户，比如说提过他说你们做了这个音频转文字，能不能再做一个文字转音频？就比如说把这个节目再转录一下，比如说换一种语言转换成一个新的语言，我们其实暂时没有考虑，如果要做的话，他可能会成为一个新的产品，这个是我们对它，因为怎么说呢？本身就是一个比较小的一个小市场，比较小的一个利息市场，我们在做的时候就是这么判断它的。那如果你把一个这个小市场里面的一个小工具做的太庞杂的话，那我觉得是得不偿失的。所以我们其实还是会坚持，就先把他目标放在这个干干播客的信息获取的这个点上面，然后我们还会去做一些东西，比如说我们现在有一些事情目前还没有做比较好的，比如说快速的去划线，然后划线之后去做笔记之类的。
+</p>
+<p class="transcript-line">
+<span class="time"><strong>[00:49:25]</strong> </span>
+<span class="speaker"><strong>发言人3: </strong></span>
+我们接下来计划需要做的这部分，我觉得是在这个scope范围内的，那一直做到说我们认为这个scope里面其实可能没有太多的东西可以做了。我们可能会去考虑说做新的产品，但它不一定在这个pod White上，它可能是一个新的品牌。对，OK.
+</p>
+<p class="transcript-line">
+<span class="time"><strong>[00:49:42]</strong> </span>
+<span class="speaker"><strong>发言人4: </strong></span>
+我还想问一下，虽然这个三老师一开始有聊到，比如说大体上来看有一些声纹识别，有一些长的内容的识别，就这些能体现行业能耗的。但我还想再问一下，比如说像笔记，像高亮总结、脑图大纲，就是这些每一个功能似乎我都会在类似的效率工具上去看过。那能不能举一个更加具体的功能来说一下，比如说我们关于播客的know how是怎么体现的？会导致这些细分看起来很容易同质化的功能，在pollie里面有了不同的一个使用体验。
+</p>
+<p class="transcript-line">
+<span class="time"><strong>[00:50:16]</strong> </span>
+<span class="speaker"><strong>发言人1: </strong></span>
+更加细分的话，其实我我觉得大家就是要看这个产品的定位。比如说我们刚才讲说有很多产品，其实它本身是在做所谓的ASR的产品对吧？它其实就是一个声音转文字的产品。但声音转文字的产品本身跟播客是你可以认为它是一个超级，它是一个泛化版对吧？就是它在这个泛化版里面，其实它能出现很多的。我们讲说只反正只要我把这个文字能够转出来，然后准确性有一定的保障就OK了。对。
+</p>
+<p class="transcript-line">
+<span class="time"><strong>[00:50:50]</strong> </span>
+<span class="speaker"><strong>发言人1: </strong></span>
+但实际上在播客这个领域里面，我们会涉及到很多的东西，比如说我们自己在转的时候，博客里面会区分一些我们讲博客的主题。比如说有一些是历史类的，有一些是科技类的，有一些是AI类的对吧？那当你在转录的过程里边，如果你本身的这个博客的转录的过程里边，你并不识别他真正在讲什么内容，对吧？比如说我其实在讲AI但你在真正转录的过程里面，你并不关注它到底在讲什么。你只是通过机械的手段把它转成了一个文稿，那个文稿的准确性就会特别堪忧。
+</p>
+<p class="transcript-line">
+<span class="time"><strong>[00:51:24]</strong> </span>
+<span class="speaker"><strong>发言人1: </strong></span>
+我们其实在这个里边涉及到一点，就是我们会去提取整个博客里边的关键内容。我们会首先知道这个博客是什么，然后再去给他转录。在转录的过程里边实际上在转录的过程里边，我们会去把这个博客的核心内容也好，它的关键词也好，会打在他的转录文稿里面去。这样的话它的准确度就会更高。
+</p>
+<p class="transcript-line">
+<span class="time"><strong>[00:51:45]</strong> </span>
+<span class="speaker"><strong>发言人1: </strong></span>
+好，这个原因为本身的ASR的工具，它是带一定推理能力的对所以说会导致它整个的结果会比原先的内容会去高很多。对我觉得这个是你的整个在博客里面会有一个很大的不一样，就是播客它是有show notes的那show notes能够提供很多信息。比如传统的我们讲说通过一个文本，一个lesson等等的，他们可能不能提供show notes，它甚至就是一段直接是一段音频，它可能就是一段我们讲说耳机，那个电话里边的录音，对吧？甚至就是一个开会，我们讲一个开会，我们现在正在开会的这个东西，那我直接把这个内容转过去，其实它的准确度是不会太高的那这个里面就有一个很深的know how，就是我要能够首先知道说，播客其实它是能提供一个说nows内容的对，那我有说nows内容之后，其实我可以把这个播客内容做的更精细。那甚至当我知道他的他是受动词内容之后，我知道说这个播客里面大致在讲些什么内容。那我在后期再去做处理的时候，我可以把这个内容处理得更精确。就甚至他在依次的这个播客的ASR转录的过程里边，我已经打入了一些关键信息了。
+</p>
+<p class="transcript-line">
+<span class="time"><strong>[00:52:53]</strong> </span>
+<span class="speaker"><strong>发言人1: </strong></span>
+可能在ASR过程里面它的推理能力没有那么强，他没有我们LM的泛化性那么强。我可能在二次生成文章也好，干嘛也好，我把它转录的这个内容做的更准。这个其实就是一个核心逗号了。这个你在别的内容里边，如果你是一个泛化的工具，你是很难提供的。
+</p>
+<p class="transcript-line">
+<span class="time"><strong>[00:53:09]</strong> </span>
+<span class="speaker"><strong>发言人4: </strong></span>
+OK相当于其实定位确定的时候，就已经对后面的产品的去做工程化，包括去做具体的细化，已经规定了它后面的整体的一个走向了。比如说我们如果聊，比如pod lize是用的底层的模型的时候，那现在可能不同的功能对应不同的模型。比如说对于去选为每一个功能去选择合适的模型的时候，就我们去衡量备选模型的一个基础的思路会是什么样子的？会大概去考虑哪些因素呢？
+</p>
+<p class="transcript-line">
+<span class="time"><strong>[00:53:39]</strong> </span>
+<span class="speaker"><strong>发言人2: </strong></span>
+关于选择模型的话，我相信现在其实大家去做所有的大模型相关的产品的时候，应该首先排第一的肯定就是质量。质量这个东西本来就具有一定的概率性，所以说它怎么去测试这个东西，肯定只能结合你自己的业务的特征去做这样的一个测试。那在博客里面其实我们去做，比如说选择大模型这件事儿，我觉得最核心的一个测试就是能不能处理那种长播客。这个也是前面我们重点聊到。在播客这个领域里面和其他的音频领域可能有很大的一个差别。就是我反正我们经常可能要评估这个模型能不能够高质量的处理的了。比如10个小时以上的播客节目，就是这件事情我觉得是特别重要的一件事儿。所以第一个就是质量，质量这个东西就是靠测试，不不停的测试不停的测试，对，然后不停的内容。因为不还是那句话，就是当我们用一个大模型去处理一个确定的业务的时候，或者说一份数据的时候，可能这个测试也比较简单。
+</p>
+<p class="transcript-line">
+<span class="time"><strong>[00:54:50]</strong> </span>
+<span class="speaker"><strong>发言人2: </strong></span>
+但是博客又挺番话的。我说的番话的意思就是他可能有中文博客，但是我们可能也有英文博客，也有很多。比如我们多元的西班牙、日韩等等，就是各种语言的播客节目都有。然后你会发现每个播客节目的主播聊天的风格又不一样。比如像我们自己印第安克的聊天风格就很简，就是纯访谈式的那每一个人可能就是长时间的会表达一段内容，但是有很多的播客节目就是那种聊天类的，你一句我一句叽叽喳喳的对，可能还有一些其他的风格，独白类的等等等等。
+</p>
+<p class="transcript-line">
+<span class="time"><strong>[00:55:28]</strong> </span>
+<span class="speaker"><strong>发言人2: </strong></span>
+这件事情它就是差异化很大，是不同的模型。你可能在这个播客节目上表现的质量特别好，但是你可能换一个播客节全部的时候，换一个语言的时候，他的表现又又很差。对还还有很多人博客里面说，大家讲话就是多语言混杂的，是吧？中音混杂，日音混杂的那种吧？就是很多很多这种。所以这些都是我们需要去测试的一些关键的点。就在博客的这个领域里面的话，这是我们自己下了很大的功夫在选择模型上面做的一件事儿。
+</p>
+<p class="transcript-line">
+<span class="time"><strong>[00:56:04]</strong> </span>
+<span class="speaker"><strong>发言人2: </strong></span>
+好了，关于第二个我觉得除了质量能满足需求以外，第二个最对我们来说最重要的就是成本了。对，就是前面我们也聊到，可能在刚开始的时候，在gbt刚出来，gbt 3.5出来的那个那这个阶段其实大家都知道大模型的成本，API的成本还是特别高的。但是经过这两年的降价过后，成本已经下降了挺多的。但是成本不管是今天还是在过去，其实他一直都是我们特别关心的一个点。
+</p>
+<p class="transcript-line">
+<span class="time"><strong>[00:56:37]</strong> </span>
+<span class="speaker"><strong>发言人2: </strong></span>
+举个例子，我们有多关注成本。比如说在我们做MVP的阶段，我们都舍不得回去买GPU的机器来来处理我们的音频的转录这件事儿。我们三个人都用我们自己提供的个人电脑来做这件事儿。因为在MVP，所以说也没有真正的提供在线服务。所以说这就是我们对待成本的一个态度。包括到今天我们也在营销层面，我们也还没有投入一分钱，对吧？所以说我们特别关心模型的成本。
+</p>
+<p class="transcript-line">
+<span class="time"><strong>[00:57:10]</strong> </span>
+<span class="speaker"><strong>发言人2: </strong></span>
+这是质量和成本，这是前面两个最重要最重的关注点。其实剩下的就是一些基数型的参数，也是我在去选型的时候会重点去看的一些点。比如说上下文长度，这个就不说了。我说了我要处理10个小时的博客，你还得高质量的给我处理10个小时的work。那你的上下文长度必须得要能打，对吧？那今天最能打的上下文的长度大家都知道，可能就是就没来，对吧？所以说我们对germinal应用的也是挺多的对。
+</p>
+<p class="transcript-line">
+<span class="time"><strong>[00:57:38]</strong> </span>
+<span class="speaker"><strong>发言人2: </strong></span>
+但是我们今天其实除了我们其实是混合使用了各家的模型，除了我们也有用了GPT的一些比较顶尖的模型，然后还用了deep deep等等等等。对当然这些模型都是会因为他们的一些特点，我们会把它应用在整个工作流程的不同的一些地方。对，当然刚才回到上下文长度，除了上下文长度，我们可能也会去关心，比如你输出的token数多多对吧？那刚开始比如大家可能就只能输出几K的token，那今天的输出的token就要多很多了。对，还包括一些什么context cash，就是缓存这些技术指标都是非常重要的那往后面发展大家都知道又出现了什么function cording，因为这些可以帮我们更好的去做一些意图识别，或者说调用工具之类的对，特别是结构化输出，也是在在也是我们自己费了很大的劲。其实在刚开始我们就做potos的时候，其实所有的那个大模型都不支持稳定的结构化输出这件事儿。所以说我们也算是很早就吃到了这个螃蟹，然后在这上面踩了很多很多的坑，所以说一直往现在走的话，这些其实技术指标都是非常基础的需要。我相信所有做大模型应用开发的人都会去关注的一些指标了。
+</p>
+<p class="transcript-line">
+<span class="time"><strong>[00:59:00]</strong> </span>
+<span class="speaker"><strong>发言人2: </strong></span>
+对啊，那总的来说我来总结一下来说模型的选择的话，今天让我来看待的话，我觉得在多数的这种业务的任务上面，我觉得各家的大模型的这种基本的能力几乎都是趋同的对这些技术参数可能大家都都差不多都会有。对我觉得可能更多的或者说作为应用产品来说，你在这些模型之间的切换的成本它是不高的对所以说我觉得今天选择大模型相对来说就是不断的去测试还是测试自己的业务。对我觉得这相对是一件比较简单的事情，也没有多复杂。对。
+</p>
+<p class="transcript-line">
+<span class="time"><strong>[00:59:39]</strong> </span>
+<span class="speaker"><strong>发言人4: </strong></span>
+像比如说赛特老师前面提到说在总结，包括在转录上面，我们自己也会去做一些技术的优化。这个是因为目前的模型它就是没有办法或者说它在可预见的短期之内，它在某些技术指标或者表现上都没有办法达到产品的要求。
+</p>
+<p class="transcript-line">
+<span class="time"><strong>[00:59:57]</strong> </span>
+<span class="speaker"><strong>发言人2: </strong></span>
+刚才赛车其实分享了很多，我们在转路上做了很多我们自己的low how的植入这些这样的一些事情。对我们在转路上其实完全是我们自己做了这样的一件事儿。所以在早期的时候，我们最早比如说MVP的时候，我们说我们在个人电脑上跑，我们都是跑的whisper的开源的模型。对，直接在电脑上拿来跑就好。但是反正是MVP，那个质量确实也不高。
+</p>
+<p class="transcript-line">
+<span class="time"><strong>[01:00:22]</strong> </span>
+<span class="speaker"><strong>发言人2: </strong></span>
+那往后面走的话，我们也尝试去用了一些各家的API这样的一些产品，首先这里面有一个巨大的和我们非常冲突的是，先不谈他们的质量有多好，首先就是成本真的是很高，特别在在音频这个领域。那比特别是到今天，音频也要比文本模型的成本要高很多。对好了，大家都知道vesper模型本身是来自于OpenAI，所以说OpenAI本身也有wifi的API。但是我们其实一直没有选择用whisper的API，那个open I的API。因为那个成本我们算了一下，实在太贵了，然后再加上博客的时长的问题，一上来就是几个小时，10个小时，这个成本我们确实负担不起。至少从一刚开始来说的。所以说我们一直在这个路径上探索的路径就是基于开源方案去做我们自己的音频到文字的转录方案。当然我们也选择了whisper的模型来做这件事儿。
+</p>
+<p class="transcript-line">
+<span class="time"><strong>[01:01:24]</strong> </span>
+<span class="speaker"><strong>发言人2: </strong></span>
+对，whisper的开源模型，但是在做这里面的whisper开源模型本身，它其实在处理场音频上面的能力是不够的。对他默认的能力是不够的，所以最后我们在上面去叠加了很多的能力。比如说叠加了一些VID做音频，做声音活跃探测的一些模型。模型就叠加了刚才赛特讲的我们声纹识别的一些模型。这些模型都不是whisper自身的能力队伍，但我们都叠加了很多这些模型，又有自己在里面去推，在外sport的开源上面去做了很多。
+</p>
+<p class="transcript-line">
+<span class="time"><strong>[01:01:55]</strong> </span>
+<span class="speaker"><strong>发言人2: </strong></span>
+比如说动态的part的植入。对我可以在不同的转录的推理的到了某个时间点的时候，然后我会给他提供外部动态输入一段problem。这段prot就是刚才在说的，就是我们在针对博客里面，这个博客讲了什么内容。把这些东西就不断的植入进去。在推理一个长的博客上，这件事情其实我们确实是花了很多很多的尽力在优化这件事情。
+</p>
+<p class="transcript-line">
+<span class="time"><strong>[01:02:26]</strong> </span>
+<span class="speaker"><strong>发言人2: </strong></span>
+包括刚才赛特也提到我们可能比如说一个马斯克出现在了这个节目里面，我们希望全球的节目里面都能出现马斯克。我们必须要做的一件事儿就是我在whisper的推，在声纹识别，在整个推理的过程中识别到马斯克的这个人的时候，我需要把他给把这个人比如这个时候又叠加了很多in pending的模型，对吧？对这个speaker做in pending，然后再存储到我们的向量数据库里面。所以我们的这个数据库就会越来越大，它就会收集了全球很多主播所有讲过话的人都在我们那个数据库，就有这个人存在了。所以说当我们去面对一个新的播客节目的时候，我们都会自动去我们在转入的过程就会去检索那个数据库，然后就会把那个人植入到这一次的转录过程当中，就会自动识别，这个人是是鬼鬼是一小的。所以说这是我们其实在转入的过程中做了很多很多工程细节的优化。对。
+</p>
+<p class="transcript-line">
+<span class="time"><strong>[01:03:27]</strong> </span>
+<span class="speaker"><strong>发言人4: </strong></span>
+相当于自研除了在去体现行业能耗之外，它其实对于整体的成本控制也是有一个很明显的作用的。
+</p>
+<p class="transcript-line">
+<span class="time"><strong>[01:03:34]</strong> </span>
+<span class="speaker"><strong>发言人2: </strong></span>
+非常明显。所以说对这个点我必须得奖。分享一下。所以说我们在没有选择OpenAI的whisper的API，我觉得是非常正确的一个选择。所以今天我们自己做了whisper的定制方案，再加上我们选了海外的一些GPU的这样的平台来自己去跑这样的服务的时候。我们今天把成把这个转入的成本和open I的APH比的话，大概是我们是他们的15到20分之一的样子，大概是这个样子。所以说他们的成本至少在我们十倍往上走。所以说这件事情今天对于我们来说，去运营pod YS这个平台，就相对来说你在那种成本的压力上就会小非常多了。
+</p>
+<p class="transcript-line">
+<span class="time"><strong>[01:04:21]</strong> </span>
+<span class="speaker"><strong>发言人4: </strong></span>
+对，这是一个非常显著的一个成本优势了。
+</p>
+<p class="transcript-line">
+<span class="time"><strong>[01:04:24]</strong> </span>
+<span class="speaker"><strong>发言人2: </strong></span>
+相当这个是非常显著这个点对。
+</p>
+<p class="transcript-line">
+<span class="time"><strong>[01:04:28]</strong> </span>
+<span class="speaker"><strong>发言人4: </strong></span>
+明白。除了这个优势的话，我问一个比较有点俗套的问题，就是大家都会问。比如说因为今年好像大厂又开始占上风了，然后包括有一些模型的厂商，然后我可能比如说更具体的问一下，如果说有一天小宇宙决定去做这个类似的功能了，那比如说以power wise目前的情况来看，你们会觉得自己现在有这个护城河了吗？包括比如说尽管现在阶段还比较早，但你们会现在考虑去做一些提前布局吗？
+</p>
+<p class="transcript-line">
+<span class="time"><strong>[01:04:57]</strong> </span>
+<span class="speaker"><strong>发言人2: </strong></span>
+我先说护城河，当然我的观点不一定正确。我先分享我对护城河的看法，特别是AI应用产品。其实我曾经一直认为，我前一段时间也在聊这个话题，我一直觉得说像relaxation、closer这些产品，其实都是在全球范围内有红极一时，对吧？都都红的不行了，对，所有的人都很羡慕吧。但是从今天来看，policy有护城河吗？可能也快没了。但大家可能觉得也没有没有曾经那么辉煌，那cose r更是如此，cose r在过去的一年里面可能也是红的火的不行。但是今天什么cloud code，CCA的一出来，然后再加上german ICLI google也下场，然后再叠加上什么AWS，亚马逊亲自也下场做caro等等，还有很多其他的什么OpenAI I业下场codex等等等等，超级多这种AI coding外部coding的产品。
+</p>
+<p class="transcript-line">
+<span class="time"><strong>[01:05:51]</strong> </span>
+<span class="speaker"><strong>发言人2: </strong></span>
+其实到今天我也不觉得说扣手好像那么有护城河了。对曾经我认为他很有护城河。所以说这是我今天觉得说所有的AI应用产品走到今天，我觉得99%的应用产品其实都没什么护城河，包括我们自己。但是在过去一段时间，我认为只有我们自己没有护城河，但是今天我认为99%的可能都没有护城河。对，这是我关于护城河的一点看法。
+</p>
+<p class="transcript-line">
+<span class="time"><strong>[01:06:17]</strong> </span>
+<span class="speaker"><strong>发言人2: </strong></span>
+然后再回到刚才说，包括我们POS做的这种功能，可能会有大厂去做。包括刚才我们聊到了什么通义听悟也是也有这种。反正至少类似的功能包括不管是小宇宙也好，喜马拉雅也好，还包括在全球的大厂spotify，像apple pay cast。
+</p>
+<p class="transcript-line">
+<span class="time"><strong>[01:06:36]</strong> </span>
+<span class="speaker"><strong>发言人2: </strong></span>
+其实像什么小宇宙那些可能国内的这些商，我们倒还并不是不一定说非得要去对比他们。我们可能比如像spotify这些，那他们下场去做，其实像spotify、apple class他们本身其实很早都在。我们做了不久之后，其实他们就已经做了。像音频转录这些事情，他们其实都有了。对这些大厂，这些大的forecast forecast的平台，其实这些功能都有了，其实对我们好像影响也不是很大。
+</p>
+<p class="transcript-line">
+<span class="time"><strong>[01:07:04]</strong> </span>
+<span class="speaker"><strong>发言人2: </strong></span>
+我们回过头来思考这件事情，它的影响不大的点其实还是在那个就你自己切了一个精细化的一个人群。对你自己切了一个精细化的人群，然后你做的所有的产品的体验，肯定就是要围绕这个人群展开的。比如刚才郭巍也给大家介绍了，我们产品其实除了去提取整个博客的文字的一些偏知识性的一些内容以外。我们去连接了很多周边的SARS产品。比如像notion，你的OS，log sak等等等等等等。其实这些东西其实是是就是说其实这些东西是一个很重要的事情。对，就是我们不能只做一个AI产品，它不能只是盯着我的那个AI的那一点点的核心的功能的链路，就是做总结，做转入。
+</p>
+<p class="transcript-line">
+<span class="time"><strong>[01:07:53]</strong> </span>
+<span class="speaker"><strong>发言人2: </strong></span>
+这个东西确实很多人都会做，但是你会看到不管是小宇宙也好，还是通义听悟，他可能不会去做我去连接一个lotion这种事情。对，但是大家知道今天的海外的很多的SARS产品，它们之间的相互连接性都很强的。其实只是说我们回到国内，回到大陆去看我们的这些SARS产品，大家好像都是自己打自己的，大家都是独立发展。所以说当我们走到了这种国际性的舞台上去的时候，还是要用更国际化的这种协同的方式去做一些事情。所以说我们说就像刚才归归说，我们就是想做好自己的这一部分，然后别人更擅长的那一部分，我们要和他们去做连接，做协同。所以这个事情我觉得是很重要的对，这是关于说产品的竞争的这一块，我们的一个产品的策略。
+</p>
+<p class="transcript-line">
+<span class="time"><strong>[01:08:42]</strong> </span>
+<span class="speaker"><strong>发言人2: </strong></span>
+然后还有一点，最后再回到市场的人群来说这个问题就是你本身是一个小团队，然后你自己本身的选择了一个很小众的一个产品，一个小众的赛道。对，然后你要知道，但是在全中国，我之前一直和别人去聊天，讲的是在全中在全其实有70亿的人。那你自己70亿的人里面，你可能只需要找到那么一小部分很小一部分的人喜欢你的产品，为你付费，其实你就可以走很远了。对你要知道全球有70亿人，难道你不能从里面去找到1万个付费用户给你吗？或者说找2万个，找5万个。
+</p>
+<p class="transcript-line">
+<span class="time"><strong>[01:09:21]</strong> </span>
+<span class="speaker"><strong>发言人2: </strong></span>
+但是你要知道1万2万5万个付费用户对于那些大厂来说是没有意义的，对吧？但是对我们来说它是有意义的。所以说还是那句话，就是你看到的就是你的这个出发点你是不一样，那个心做事的心态都不一样。我可能就需要1万个付费用户，需要2万个付费用户。他们真正喜欢我，我给他们提供价值，他们给我相应的回报，我就很满足了。那我们我我和客户之间形成这种很友好的合作关系，对吧？我觉得这就是一个很棒的事情。
+</p>
+<p class="transcript-line">
+<span class="time"><strong>[01:09:58]</strong> </span>
+<span class="speaker"><strong>发言人4: </strong></span>
+OK好，其实刚刚聊到proactive跟curse没有护城河这个事儿，我这边想追问一下。比如说比如说从三位老师作为从业者的角度来说，这两款产品虽然我们都觉得它没有护城河，但是不可否认他们的确直到今天早上我们看到比如说新的H6Z最新那一期的榜单，这两个产品依然在自己的品类里面是top的位置，而且似乎也没有怎么受到威胁。比如说从你们的角度来看，可能虽然不是护城河，但你们觉得他们就是做的足够好，或者说你们觉得他们就是能够相对更成功，而且现在也没怎么受到威胁的这个点在哪里？你们会怎么理解？
+</p>
+<p class="transcript-line">
+<span class="time"><strong>[01:10:40]</strong> </span>
+<span class="speaker"><strong>发言人2: </strong></span>
+对我觉得这个真的很重要。其实我自己最近也有这个，因为我自己也天天反正也做开发，所以我对特别是对closer的这个理解，因为我自己其实不是relaxation的中度用户，但我是科学的中度用户。我在一年前就给costa充值了，那个时候相当于是没有竞争对手，所以我们就天天在它上面去使用。所以说我觉得那个时候对他真的是特别的喜爱，觉得说这个产品他们的那个切入点真的是太好了。能选择VS code的这样的一个非常成熟，然后和用户的习惯都已经很匹配的。这样就不去修改用户的使用习惯，就把自己的产品给植入给用户了。我觉得这个路径的选择觉得非常的成功。
+</p>
+<p class="transcript-line">
+<span class="time"><strong>[01:11:25]</strong> </span>
+<span class="speaker"><strong>发言人2: </strong></span>
+其实到今天，发现出来这么多的其他的这些模型过后，然后我自己比如说最近有很长一段时间我在用AWS的QL。对，对，在用AWS出的那个新的产品，我也在用很多精美的COI去做一些事情。我然后我发现这些产品确实也都很好用。也我为什么会觉得它是没有护城河？就是因为这些产品都能完成cos能完成的那些事情，他好像并不是说有什么独特的是cosa能解决的问题过后其他的产品解决不了。这个不是很明显，就是这个边界一点都不明选对。但是我最后发现一个问题是啥？
+</p>
+<p class="transcript-line">
+<span class="time"><strong>[01:12:03]</strong> </span>
+<span class="speaker"><strong>发言人2: </strong></span>
+当我使用完所有的这些产品，特别是当care o的这种免费的付费的额度用完了过后，你会发现我会很自然的切回科sir。对我一切换回科sir的时候，我会发现磕上了。这个体验感好像我很熟悉，那个感觉又来了，就是我非常好像已经很熟悉的那种用户习惯，已经就他还是和他们有一点不一样。虽然他们的大的结构一样，但是他很多的操作的那种小细节上面，确实是不一样的。比如他的tab的这个补全的能力可能做的比其他的只有要好一点点。对然后还有他的那些代码的UVUDF这些，反正这些小细节上可能比其他的都好。所以那种熟悉感，我想说的就是那种用户习惯，那种熟悉感就回来了。
+</p>
+<p class="transcript-line">
+<span class="time"><strong>[01:12:53]</strong> </span>
+<span class="speaker"><strong>发言人2: </strong></span>
+所以我一直觉得这个东西可能今天对产品来说，那种先进入这个市场的AI的产品，然后他们抢占了用户的心智和习惯。这件事情我觉得是比较重要的。特别是当大家的能力都差不多的时候，我们所谓的说没有护城河，只是说的是你可能没有像比如说今天微信这样有强的用户生态网络效应的这样的护城河。你不具备这种护城河。比如说像AWS google他们如果他们的那个AI口径的ID它能够永久免费给大家使用，它可以攒那么多的钱，我相信很快大家都去用他们了。所以说并不会因为说这个产品它本身具备一个什么很高的门槛，让别人靠砸一点钱是做不出来的。但我不觉得是这样。对，所以说在这个点上，我觉得更多的是在这是我的一个体感。
+</p>
+<p class="transcript-line">
+<span class="time"><strong>[01:13:45]</strong> </span>
+<span class="speaker"><strong>发言人4: </strong></span>
+最后一个问题就是也是可能是很多比如说类似power west这样的相对比较小的独立开发团队会比较关心的问题。就是大家毕竟手上无论是钱还是时间，还是精力，其实都是比较有限的那怎么样能去把它在比如说底层的技术优化，然后产品本身的工程化，用户增长，还有商业化等等一系列事情之间去做分配，然后保证整体的一个步调还是能够比较满意的。就关于这个资源分配的问题上面，目前后尤其是poos现在还有两款产品，我们刚看到还有swiss。在资源分配这个事情上，poy现在有没有一些自己可以。
+</p>
+<p class="transcript-line">
+<span class="time"><strong>[01:14:24]</strong> </span>
+<span class="speaker"><strong>发言人3: </strong></span>
+分享的心得呢？
+</p>
+<p class="transcript-line">
+<span class="time"><strong>[01:14:26]</strong> </span>
+<span class="speaker"><strong>发言人1: </strong></span>
+因为我们刚好是三个人，然后我们分工其实刚好把你的这块儿你的这块刚好占了。就是我可能更多的会关注在商业化这块，然后归可能会更多的关注在我们的产品增长层面，然后整个整体的技术层面，底层的包括AI相关的可能意向会关注的比较多一些。对，就我们三个其实在这块儿刚好是你这个铁三角的分配。但如果是单11个人或者两个人的话，我觉得这块确实包括技术产品、商业这个铁三角是真的是不能缺的。你不能说你有一个特别大的一个短板，我们经常看到的独立开发者可能更多的是说，我在技术上面比较强，然后我产品跟商业化可能比较短。甚至有一些产品经理出来创业的，可能是说他产品上面还OK，技术上面他可能透过web coding，然后可以做，但是可能商业化上就可能搞得不太好。
+</p>
+<p class="transcript-line">
+<span class="time"><strong>[01:15:20]</strong> </span>
+<span class="speaker"><strong>发言人1: </strong></span>
+对，就这块儿我觉得是现阶段来讲比较大的问题。我们自己其实也是刚好有这样一个相当于组织的一个构成。对，所以说刚好现在有这样的一个分配。
+</p>
+<p class="transcript-line">
+<span class="time"><strong>[01:15:32]</strong> </span>
+<span class="speaker"><strong>发言人1: </strong></span>
+然后现阶段我们重点可能还是在pod OIS上面。然后costs wise的话其实是有复用很多我们在pod wise的能力。因为你可以看到在产品层面上面，我们有很多的包括逐字稿包括总结，包括提取，转转文章，可能是我们会cosmic里边单独独立去做的对，包括转网页，这些可能是cosy这边独立去做的对。但其实有很多大量的，内容还是在复用的对。所以说在底层复用上面我们还是做的比较多的。如果我们想去开一个新产品的话，我们可能优先会思考一下，我们有没有什么东西是能复用的对这样的话对我们来讲成本会比较低一些。对然后对其他的的话对，后续的话是这样子，就是因为我们现在有两款产品，其实不排除我们未来也会做一些新的产品，可能跟podcast相关，也可能不相关。
+</p>
+<p class="transcript-line">
+<span class="time"><strong>[01:16:30]</strong> </span>
+<span class="speaker"><strong>发言人1: </strong></span>
+对，因为对我们来讲的话，现阶段因为有web coding的存在，所以说其实你想打造一个新产品还是挺方便的。我这个可能更多的是一个快速试错的策略。对。
+</p>
+<p class="transcript-line">
+<span class="time"><strong>[01:16:43]</strong> </span>
+<span class="speaker"><strong>发言人4: </strong></span>
+好的，那我们今天的访谈问题就告此一段落了。最后的时间留给三位老师在向我们所有的听众朋友们去安利一下promise。
+</p>
+<p class="transcript-line">
+<span class="time"><strong>[01:16:55]</strong> </span>
+<span class="speaker"><strong>发言人1: </strong></span>
+好，我来安利一下，突然到了我们的这个一分钟打广告。对这么给大家介绍一下。我觉得POD wise是一个如果你自己对于获取知识，然后对于这种干播客比较感兴趣，然后对于知识效率比较感兴趣的话，然后pot west是一个能够帮你快速去获取博客内容的。然后我们也可以帮你跟你自己的知识系统做连接。如果你自己习惯用notion也好，obsidian也好等等之类的，我们可以帮你把博客的内容完整做拆分，做总结，然后提取重点，然后帮你放在自己的这个习惯的PKM里面，就是personal knowledge management里边。对，就是可以帮你去做这样的事儿。
+</p>
+<p class="transcript-line">
+<span class="time"><strong>[01:17:45]</strong> </span>
+<span class="speaker"><strong>发言人1: </strong></span>
+对然后呃尤其是我觉得对于对于像很多人，可能他对于英语的内容，英语的博客内容，他可能之前会很向往说觉得说这里能够获取信息。那我们现在有提供像沉浸式翻译这样的功能。在就是你可以在我们的博客里面，在powder s里边，然后可以直接去去看包括日语、韩语、英语、西班牙语、法语等等之类的内容。然后你可以看到世界各地的博客。对，虽然你可能听不懂，但是你能知道他们在讲什么。因为我们自己的pot us里边，我们会有一些就是你自己的订阅的updated的一些博客内容。然后同时还会有一些popular的内容。这样的话你可以在potos里面能够看到很多大家转录好的并且热门内容。
+</p>
+<p class="transcript-line">
+<span class="time"><strong>[01:18:36]</strong> </span>
+<span class="speaker"><strong>发言人1: </strong></span>
+我平时每天没事干的时候都会去刷一下，到底今天大家在看些什么东西，有没有什么东西是特别有意思的对。然后我们还有一个就是latest的latest process的episode，就是我们在平台里面当下有谁在处理什么样的内容。我平时没事干的时候也会去翻一下。因为有很多特别有意思的播客内容是你可能从来都没有想过的。然后我会看到一些特别有意思的，我会点进去去看一下。然后嗯就是你觉得那块儿重点，你觉得你特别想听，可能我们有一些总结，总结到了一些金句。那你可能想听上下文，我可能会摘录一些中间的一些段落去做收听。
+</p>
+<p class="transcript-line">
+<span class="time"><strong>[01:19:14]</strong> </span>
+<span class="speaker"><strong>发言人1: </strong></span>
+同时我特别想推荐的一点是PODYS本身我们现在有一个for you的一个功能，就是我们会根据你之前浏览过，你自己去听过什么样的内容帮你去推荐。这个推荐内容是我给很多人安利过的，只要你坚持去用pod wise，然后你有你自己的使用习惯，那个推荐内容会非常精准。对，那这个是算是我们的一分钟广告时间吧，谢谢。
+</p>
+<p class="transcript-line">
+<span class="time"><strong>[01:19:40]</strong> </span>
+<span class="speaker"><strong>发言人4: </strong></span>
+好的，再给大家重复一下破坏现在除了这个网页端，然后现在也有APP端。然后这个IOS版本的大家可以直接在APP store里面去下载。然后安卓版本的可以去登这个power west的官网，然后去在官网上面去下载相关的安装包。这port light就是这port cast前半部分加上。
+</p>
+<p class="transcript-line">
+<span class="time"><strong>[01:20:01]</strong> </span>
+<span class="speaker"><strong>发言人4: </strong></span>
+最后回顾一下，今天感谢prowess的三位联合创始人，赛特老师、归归老师和一肖老师来到我们的直播间。然后我们就Powell去聊了一下，比如说一些比较有趣的观点。比如说以一开始的付费去作为PMF，包括关于播客市场的有一些独特的know how怎么去体现到这个具体的产品功能上面，包括产品功能的设计迭代，包括后面一些老师聊到了关于去如何去在可控的质量之内去压缩整体的开发成本。整体还是非常有趣，然后非常有收获的一次采访。在今天的最后再一次感谢AI播客工具prowess来到我们AI100的访谈室。再次谢谢三位老师，辛苦。
+</p>
+<p class="transcript-line">
+<span class="time"><strong>[01:20:46]</strong> </span>
+<span class="speaker"><strong>发言人1: </strong></span>
+好好。
+</p>
+<p class="transcript-line">
+<span class="time"><strong>[01:20:47]</strong> </span>
+<span class="speaker"><strong>发言人2: </strong></span>
+谢谢，谢谢谢谢。
+</p>
+<p class="transcript-line">
+<span class="time"><strong>[01:20:48]</strong> </span>
+<span class="speaker"><strong>发言人4: </strong></span>
+我们下周见，拜拜。
+</p>
+<p class="transcript-line">
+<span class="time"><strong>[01:20:50]</strong> </span>
+<span class="speaker"><strong>发言人1: </strong></span>
+好，拜拜。以上就是我们本期播客的全部内容，感谢大家收听，也欢迎大家踊跃留言。如果你喜欢我们，欢迎点赞并分享给感兴趣的朋友。如果你在用苹果播客收听，也希望你花几秒钟给我们一个好评。这会让更多的人了解到我们要是能再点击一下订阅，那就再好不过了。我们下周见。
+</p>]]></content:encoded>
+            <pubDate>Mon, 01 Sep 2025 04:37:43 GMT</pubDate>
+            <guid>68b520da97178f08eea8b5a1</guid>
+        </item>
         <item>
             <title>EP111 写 Vue 代码比尤雨溪还多的男人，四年两百万的商业化之路｜ 对谈 金州：Ant Design Vue 作者</title>
             <link>https://www.xiaoyuzhoufm.com/episode/68a33f73293471fed442ca99</link>
@@ -23517,814 +24504,6 @@ OK跟侯总聊，反正总是时间过得特别快。然后最后给侯总一分
 </p>]]></content:encoded>
             <pubDate>Wed, 13 Nov 2024 09:30:00 GMT</pubDate>
             <guid>6734353ff373fe5d4de79016</guid>
-        </item>
-        <item>
-            <title>EP82 两万粉丝的播客能有多赚钱？我们来告诉你</title>
-            <link>https://www.xiaoyuzhoufm.com/episode/672a3cd56c53cd405a2ffbde</link>
-            <description>大家好！又到了硬地骇客时间！本期节目我们可是掏心掏肺，跟大家分享了好多关于播客创作的干货！从设备选择、音频剪辑到内容策划、推广策略，我们都聊了个遍。此外，我们还探讨了AI工具在播客制作中的应用，以及我们对未来发展方向的一些思考。
-更多内容信息和时间线参考下文的硬地笔记，欢迎收听本期节目。
-另外，现在加入「硬地骇客」会员服务，即可在会员专属的微信群与其他朋友一起畅所欲言，成为会员也是对我们持续更新最大的鼓励！
-本期赞助
-Podwise.ai - Podcast knowledge at 10x speed 🚀
-硬地笔记
-00:00:04 硬地骇客播客20个月回顾：数据与收益揭秘
-00:06:17 硬地骇客的坚持：收获与反思
-00:11:59 播客制作成本与技巧：音频设备与后期制作
-00:18:16 硬地骇客选题策划与嘉宾邀请策略
-00:22:59 不同类型节目的准备方法与技巧
-00:30:34 播客后期制作与AI辅助工具的局限性
-00:42:07 播客发布与推广：全平台同步及流量获取策略
-00:53:14 硬地骇客未来规划：内容创新与商业模式探索
-节目提到的工具：
-* Zencastr （我们用过的）
-* Riverside （我们在用的）
-* adobe au
-* garageband
-* audacity
-* reaper （我们在用的）
-欢迎关注我们
-* 知识星球: t.zsxq.com
-* 官网: hardhacker.com
-* 小手册: book.hardhacker.com
-* 用爱发电不容易，请我们喝咖啡☕️: afdian.net
-* 公众号/小红书: 硬地骇客
-* 商务合作: hardhackerlabs@gmail.com</description>
-            <content:encoded><![CDATA[<h1>转写链接</h1>
-<link>https://tongyi.aliyun.com/efficiency/doc/transcripts/gpjbqkmbd5glnk2a</link><br>
-<h1>节目摘要</h1>
-<div class="summary">三位播客主详细分享了他们的播客节目“异地骇客”的制作流程、内容规划、收益情况、未来规划以及对听众的期望。他们涵盖了从选题、嘉宾邀请、音频制作到发布和推广的全过程，特别强调了AI在剪辑和生成节目介绍中的辅助作用，展现了技术在提升播客制作效率方面的应用。播客主们坦诚分享了通过播客获得的收入，并对未来的发展持乐观态度，表达了对听众持续支持的感激，并期待能提供更多高质量的内容。</div><br>
-<h1>章节速览</h1>
-<div class="chapters">
-<div class="chapter-item">
-<span class="time"><strong>[00:00:00]</strong> </span>
-<span class="chapter-title"><strong>印尼骇客数据分享：20个月发布82期的播客经验</strong></span>
-<div class="chapter-summary">本期节目由power wise赞助，探讨了播客频道“印尼骇客数据”的运营情况。自二三年三月起，频道已发布82期节目，全网播放总量达56万次，完播率为56.4%，获得1986条评论和8436次分享。频道粉丝量在小宇宙平台约为23000，全网宣称有8万粉丝。尽管数据并非十分突出，但良好的完播率和分享量显示了听众的高度参与度。频道团队对听众的支持表示感谢，这是他们持续更新的动力。</div>
-</div>
-<div class="chapter-item">
-<span class="time"><strong>[00:01:51]</strong> </span>
-<span class="chapter-title"><strong>揭秘博客收益：商单与打赏</strong></span>
-<div class="chapter-summary">该博客在20个月内的收益主要来自商单和打赏两部分，其中商单收益总计2900元，打赏收益包括小宇宙平台的205.76元和爱发电平台的461.6元。尽管金额不大，但博客团队对每一个给予支持的用户表示感谢，并在官网上列出了所有打赏者的姓名。</div>
-</div>
-<div class="chapter-item">
-<span class="time"><strong>[00:03:42]</strong> </span>
-<span class="chapter-title"><strong>播客运营收益分享：知识星球与广告收入详解</strong></span>
-<div class="chapter-summary">本次对话详细分享了播客运营的收益情况，包括知识星球收益29565元以及通过自身产品广告获得的隐藏收益约28800元，总计约62000元。讨论指出，尽管这些收益看似可观，但考虑到投入的时间和精力，实际人均月收入仅约一千多元，远低于最初的预期。</div>
-</div>
-<div class="chapter-item">
-<span class="time"><strong>[00:06:09]</strong> </span>
-<span class="chapter-title"><strong>从播客到自由职业：印第骇客的探索之旅</strong></span>
-<div class="chapter-summary">对话围绕播客团队“印第骇客”的创建初衷和经历展开。起初，团队希望通过分享自身经验和知识，成为网红并实现财务自由。然而，实际收获更多的是在精神层面，如表达自我、探讨焦虑与自由等主题。他们选择做播客而非视频，部分原因是感到露脸较为羞耻，同时考虑到播客在疫情期间的快速增长趋势。核心目标是探索如何通过自我产品化，摆脱依赖公司和老板的模式，实现自我养活。</div>
-</div>
-<div class="chapter-item">
-<span class="time"><strong>[00:08:41]</strong> </span>
-<span class="chapter-title"><strong>创业反思：资本绑架与极简创业的选择</strong></span>
-<div class="chapter-summary">对话者讨论了创业过程中的资本绑架现象，以及如何通过不融资实现可持续发展。他们提到被《极简创业》一书所启发，决定以小而美的方式创业，强调了表达的重要性以及影响力的价值。此外，他们还反思了如果重新选择，可能会从制作视频内容开始，因为视频内容受众更广，能带来更大的播放量和影响力。</div>
-</div>
-<div class="chapter-item">
-<span class="time"><strong>[00:11:15]</strong> </span>
-<span class="chapter-title"><strong>播客与视频内容创作的比较与投入</strong></span>
-<div class="chapter-summary">对话围绕音频播客和视频内容的表现力、受众区别以及制作成本展开。音频播客因其限制性场景和对音质的高要求，与视频内容在形式和受众上有明显区别。讨论指出，视频内容，尤其是短视频，需要提供情绪价值，而长视频制作则需更多设备和成本投入。相比之下，做播客成本较低，仅需一个手机或动圈话筒，如舒尔的MV7，即可开始创作，且能有效促进学习和行业关注。</div>
-</div>
-<div class="chapter-item">
-<span class="time"><strong>[00:14:21]</strong> </span>
-<span class="chapter-title"><strong>播客录制音质提升与成本控制</strong></span>
-<div class="chapter-summary">对话讨论了在播客录制过程中遇到的音质问题及解决策略。初期使用会议软件如腾讯会议或Zoom录制，因音轨合成和压缩导致音质损失，后期编辑空间受限。为了避免这些问题，提出了本地录制的方案，但面临手机电量不足和音轨对齐的挑战。后来采用远程SaaS服务，如zone caster和river side，通过web RTC形式实现同步本地录制并自动上传，解决了异地录制的难题。此外，还提到了播客录制的成本，主要包括麦克风和录制软件的投入，总成本相对较低。</div>
-</div>
-<div class="chapter-item">
-<span class="time"><strong>[00:17:39]</strong> </span>
-<span class="chapter-title"><strong>播客内容策划与选题范围设定</strong></span>
-<div class="chapter-summary">讨论了播客内容制作的成本优势以及选题策划流程。通过Riverside等工具简化访谈流程，使内容产出更为便捷。初期通过选题会议和脑暴活动列出大量话题，后将选题范围精简并扩充，确定为访谈、商业、产品、工具评测和职场等几个主要方向，以保持频道内容的中心思想和一致性。此外，还提到节目形式从三人对谈逐渐转向包括嘉宾访谈的形式。</div>
-</div>
-<div class="chapter-item">
-<span class="time"><strong>[00:19:57]</strong> </span>
-<span class="chapter-title"><strong>从身边人到大佬：频道访谈嘉宾的邀请历程</strong></span>
-<div class="chapter-summary">频道起初规模较小，访谈节目起步于邀请身边的朋友和前同事。随着节目影响力的提升，特别是达到五千粉丝后，开始主动邀请行业嘉宾，如极简时钟的道哥，通过社群互动逐渐建立起联系。达到一定粉丝基数后，频道开始在X和极客平台上与更多行业大佬建立联系，邀请他们参与访谈。随着访谈节目的增多和爆款内容的出现，频道发现访谈节目受到观众喜爱，特别是围绕产品创作、营销策略、用户反馈及盈利情况的深入讨论，吸引了大量关注。</div>
-</div>
-<div class="chapter-item">
-<span class="time"><strong>[00:22:30]</strong> </span>
-<span class="chapter-title"><strong>访谈节目的准备与内容积累</strong></span>
-<div class="chapter-summary">对话围绕访谈和对谈类节目的准备工作展开，强调了调研、亲身使用产品的重要性，以及分享个人认知和经历故事的价值。同时，讨论了如何在节目中巧妙融入段子和例子，以增加节目的吸引力和意义，指出积累和日常准备是制作优质节目的关键。</div>
-</div>
-<div class="chapter-item">
-<span class="time"><strong>[00:27:29]</strong> </span>
-<span class="chapter-title"><strong>脱口秀与播客内容准备及后期处理探讨</strong></span>
-<div class="chapter-summary">对话围绕脱口秀和播客的内容准备展开，强调了逐字稿的重要性，尤其是在保证细节和即兴发挥的质量方面。此外，讨论了如何利用AI辅助内容创作，以及AI产出观点和数据时的辨别和真伪鉴别。最后，提到了播客设备和后期处理的简便性，相较于视频制作，播客的后期处理更为简单，但依然比文字输出复杂。</div>
-</div>
-<div class="chapter-item">
-<span class="time"><strong>[00:31:01]</strong> </span>
-<span class="chapter-title"><strong>播客后期制作的复杂性与AI剪辑的局限</strong></span>
-<div class="chapter-summary">播客的后期制作通常需要花费录制时间的2到3倍，主要是因为剪辑过程中需要反复听原内容并调整音频。虽然AI剪辑工具试图通过音频转文字来简化这一过程，但在实践中发现，这些工具的识别精度有限，常导致剪辑后的音频听感不佳，甚至出现跳帧现象。因此，尽管有免费的DAW软件如GarageBand、Audacity等可用，AI剪辑尚未能完全替代传统的人工剪辑。</div>
-</div>
-<div class="chapter-item">
-<span class="time"><strong>[00:34:11]</strong> </span>
-<span class="chapter-title"><strong>AI剪辑在音频制作中的局限性及应用</strong></span>
-<div class="chapter-summary">对话讨论了AI在音频剪辑中的局限性和适用场景。指出AI剪辑无法完全替代人类制作人，因为它无法判断音频的听感，且在处理诸如跳针、不连贯等问题时缺乏灵活性。AI剪辑更适合做粗剪工作，对那些接单的工作室较为有用，它们可以通过语音转文字进行初步筛选，但最终仍需使用完整的DAW软件完成精细剪辑工作。</div>
-</div>
-<div class="chapter-item">
-<span class="time"><strong>[00:35:47]</strong> </span>
-<span class="chapter-title"><strong>AI音频剪辑与专业DAW软件的对比及挑战</strong></span>
-<div class="chapter-summary">讨论了当前AI剪辑软件的功能限制，特别是音频克隆和补偿技术的挑战，包括音频相似度和人耳辨识度的问题。同时，详细解释了使用数字音频工作站（DAW）软件进行专业音频剪辑的必要性，包括标准化、降噪、声音美化、压缩和限制等关键步骤。指出AI剪辑软件在这些方面的不足，以及在制作高质量播客时，专业DAW软件的不可或缺性。此外，还提到了使用AI剪辑软件进行初步剪辑的可行性及其在免费工具中的应用，以及完成一期节目所需的总时间。</div>
-</div>
-<div class="chapter-item">
-<span class="time"><strong>[00:40:14]</strong> </span>
-<span class="chapter-title"><strong>播客与视频创作的差异及发布流程</strong></span>
-<div class="chapter-summary">对话深入探讨了播客和视频创作在制作过程中的差异，特别是音频剪辑与视频剪辑的本质区别，以及视频创作者需要处理画面观感和音频与视频同步的问题。此外，讨论了在发布播客时，如何撰写吸引人的标题和简介，以及如何利用技术如AI来优化时间线的制作，减轻手工劳动强度。</div>
-</div>
-<div class="chapter-item">
-<span class="time"><strong>[00:44:55]</strong> </span>
-<span class="chapter-title"><strong>AI技术在播客制作中的应用与挑战</strong></span>
-<div class="chapter-summary">对话围绕AI在播客节目制作中的应用展开，包括标题和介绍内容的自动生成，以及使用不同模型提高多样性。虽然AI极大减少了制作时间成本，但在某些方面如矫情话术的生成仍需人工调整。此外，讨论了全平台同步的便利性，以及新平台如微博、网易云音乐的竞争和推广策略。最后强调，对于新账号而言，冷启动阶段的节目推广尤为困难，需要考虑持续性和策略。</div>
-</div>
-<div class="chapter-item">
-<span class="time"><strong>[00:50:15]</strong> </span>
-<span class="chapter-title"><strong>播客制作与推广的挑战与策略</strong></span>
-<div class="chapter-summary">对话围绕播客制作和推广的挑战展开，讨论了新播客在小宇宙平台初期面临播放量低的普遍问题，以及如何通过内容定位、技能提升和平台推广策略来克服这些挑战。参与者分享了自身的经验，包括幸运地获得初期推广、不同平台的流量差异，以及对视频内容和创新直播形式的探索计划。此外，还提到了持续产出优质内容与寻找合适商务机会的重要性，以形成内容创作的正循环，同时也表达了对听众支持的感激和对未来发展的期待。</div>
-</div>
-</div><br>
-<h1>问题回顾</h1>
-<div class="qa-item">
-<div class="question"><strong>Q:</strong> 这期我们来聊聊我们频道的情况，在做这期播客的时候，印尼骇客数据是什么样的呢？</div>
-<div class="answer"><strong>A:</strong> 我们的频道在小宇宙上粉丝量大约23000左右，全网有8万左右粉丝。从二三年三月份开始发布第一期，至今共发布了82期，全网播放总量为56万次，完播率是56.4%，评论量1986个，分享量8436次。</div>
-</div>
-<div class="qa-item">
-<div class="question"><strong>Q:</strong> 你们这个博客赚钱吗？怎么赚钱的？</div>
-<div class="answer"><strong>A:</strong> 我们的博客收益主要包括商单收益、打赏收益和知识星球收益。商单收益为2900元，主要通过口播和show notes广告合作；打赏收益包括小宇宙平台的205.76块和爱发电的461.6块；知识星球收益为29565块，这部分还包括了之前发布的印课小测和运营成本。</div>
-</div>
-<div class="qa-item">
-<div class="question"><strong>Q:</strong> 总体算下来，大概有多少收益？这个收益符合大家对于做播客的预期吗？</div>
-<div class="answer"><strong>A:</strong> 统计下来，整体收益大概在62000块钱左右。对于我们一开始做博客想赚的那个数字，现在拿到的结果，不符合预期。</div>
-</div>
-<div class="qa-item">
-<div class="question"><strong>Q:</strong> 那你们在这做博客的过程中收获了什么呢？</div>
-<div class="answer"><strong>A:</strong> 虽然从金钱上来看没有太多收获，但我们在表达上获得了很大的满足感。从最初的打工人群体出发，通过播客这个形式，我们找到了一定的影响力和表达机会，这是我们在做印第骇客时未曾预料到的收获。</div>
-</div>
-<div class="qa-item">
-<div class="question"><strong>Q:</strong> 是否考虑过制作视频内容？</div>
-<div class="answer"><strong>A:</strong> 视频内容受众更广，从表现力和受众习惯上都有很大优势。虽然我们可能会尝试制作视频内容，但更倾向于制作长视频，并结合音频内容进行推广。不过视频内容的制作仍需权衡和考虑其与音频内容的差异性。</div>
-</div>
-<div class="qa-item">
-<div class="question"><strong>Q:</strong> 做博客是否是一种有效的学习方式，并且相比其他形式的内容创作，它的成本如何？</div>
-<div class="answer"><strong>A:</strong> 是的，做博客是种很好的学习方式，它能促使我持续关注行业动态和新知识。而与短视频相比，博客的成本较低，基本只需要一个手机就能起步；如果追求专业效果，购买一个舒尔的MV7动圈话筒即可，整体成本不超过2000元。</div>
-</div>
-<div class="qa-item">
-<div class="question"><strong>Q:</strong> 博客在录音设备上的要求以及可能遇到的问题是什么？</div>
-<div class="answer"><strong>A:</strong> 博客对音质有一定要求，尤其是访谈类节目，需要确保良好的录音效果。早期我们使用腾讯会议或Zoom录制时，由于会议软件将每个人音轨合成一轨并压缩存储，导致后期音质损失大、后期处理空间小。后来我们改用本地录制，并采用SaaS服务如Zencaster或Riverside，通过WebRTC连线进行同步本地录制，有效解决了异地手机录制的音轨对齐问题和手机没电等风险。</div>
-</div>
-<div class="qa-item">
-<div class="question"><strong>Q:</strong> 制作博客的成本主要包括哪些部分？</div>
-<div class="answer"><strong>A:</strong> 制作博客主要需要两部分投入：一是购买一个约1000元的麦克风；二是选择一个类似WebRTC的在线通话平台，用于多人远程协作录制，这类平台每月大约十几到二十几美金即可。</div>
-</div>
-<div class="qa-item">
-<div class="question"><strong>Q:</strong> 播客选题策划的流程是怎样的？</div>
-<div class="answer"><strong>A:</strong> 播客选题由我牵头策划，起初我们通过集体讨论确定下一期主题，后来发现需要有固定选题范围以满足听众需求。目前我们把选题定在商业、产品、工具评测以及职场相关几个方向，并且从这些方向中筛选出具体话题进行制作。</div>
-</div>
-<div class="qa-item">
-<div class="question"><strong>Q:</strong> 访谈嘉宾是如何邀请的？</div>
-<div class="answer"><strong>A:</strong> 访谈嘉宾最初是从身边的朋友或前同事中挑选，随着频道影响力逐渐增强，开始主动邀请业界人士参与。通过社交平台互动，介绍节目并邀请他们分享经验。同时，也发现了很多产品人愿意接受邀请参加访谈，这也促成了更多爆款节目的诞生。</div>
-</div>
-<div class="qa-item">
-<div class="question"><strong>Q:</strong> 在微信上有人找你聊关于一个国产编程相关产品的推广，你为何拒绝了他们的提议？</div>
-<div class="answer"><strong>A:</strong> 我之所以拒绝，是因为该产品是国产的，且我们自己没有使用过，同时觉得听众群中接触的人数较少。如果要聊这个产品，只能当作营销推广来处理，需要对方付费合作。但对方似乎只是想免费获取内容推广。</div>
-</div>
-<div class="qa-item">
-<div class="question"><strong>Q:</strong> 你们在节目中讨论技术或调研类内容的标准是什么？</div>
-<div class="answer"><strong>A:</strong> 我们只讨论那些我们自己真正使用过或深度调研过，并认为对听众有帮助的产品工具。对于那些仅依赖调研而缺乏实用价值的内容，则会选择简单提及而不详细展开。</div>
-</div>
-<div class="qa-item">
-<div class="question"><strong>Q:</strong> 节目中穿插故事和段子的作用是什么？</div>
-<div class="answer"><strong>A:</strong> 故事和段子能够增加节目的趣味性和吸引力，它们来自于日常积累和个人经验，通过生动的例子来阐述观点，这是做好一档节目的基础。</div>
-</div>
-<div class="qa-item">
-<div class="question"><strong>Q:</strong> 关于播客制作的准备和后期处理，有什么经验可以分享？</div>
-<div class="answer"><strong>A:</strong> 播客的准备包括积累生活中的所见所闻、读书、做笔记等。后期处理上，大部分时间我会写逐字稿以确保内容流畅，同时也会借助AI搜索引擎查找相关资料和获取灵感，但AI产出的内容需人工鉴别真伪。此外，剪辑工作相对繁琐，可能需要消耗录制时间2到3倍的时间进行剪辑和调整。</div>
-</div>
-<div class="qa-item">
-<div class="question"><strong>Q:</strong> 对于音频剪辑软件的选择有什么推荐？</div>
-<div class="answer"><strong>A:</strong> 音频剪辑软件很多，如Adobe AU、mac自带的Garage Band、Audacity以及Rapper等都是免费且功能强大的选择。不过，AI剪辑工具目前尚不完全适用于精细剪辑，它们通常只能做粗剪，对于专业制作人来说，仍需依赖专业音频编辑软件进行精细处理。</div>
-</div>
-<div class="qa-item">
-<div class="question"><strong>Q:</strong> AI剪辑技术现在能否实现高质量的音频克隆补偿，比如填补口屁、口水等不流畅部分？</div>
-<div class="answer"><strong>A:</strong> 目前AI剪辑技术还无法实现高质量的音频克隆补偿，因为音频的相似度要求很高，人的耳朵很容易分辨出原声与AI补出来的声音的区别。现在AI剪辑更多停留在粗剪阶段，而要达到类似DAW软件的专业剪辑效果还需时间发展。</div>
-</div>
-<div class="qa-item">
-<div class="question"><strong>Q:</strong> AI剪辑与DAW软件在处理音频方面的区别是什么？为什么专业制作还需要使用DAW软件？</div>
-<div class="answer"><strong>A:</strong> AI剪辑目前无法完成像DAW软件那样的精细剪辑和音频调整。例如，DAW软件中会先对单轨音频进行标准化处理（Normalize），调整每个人的音量响度以达到近似；接着进行噪音消除（noise reduction）；然后进行声音美化（EQ调整）；再通过压缩器（compressor）统一音轨音量，防止声音忽大忽小；最后还会进行限制器（limiter）控制音频最高音量。这些是DAW软件的基本功能，但在AI剪辑中尚未实现。</div>
-</div>
-<div class="qa-item">
-<div class="question"><strong>Q:</strong> 使用AI剪辑制作一期专业博客节目大概需要多长时间？</div>
-<div class="answer"><strong>A:</strong> 从录制到剪辑，使用AI剪辑制作一期专业博客节目可能需要1到2天的时间，包括前期准备、录制和剪辑等环节。相较于文字工作，音频剪辑已经较为耗时，若做视频则耗时更长，因为除了音频剪辑外，还需要处理画面、观感及配套内容制作等。</div>
-</div>
-<div class="qa-item">
-<div class="question"><strong>Q:</strong> 在视频剪辑方面，AI能否做到像音频那样灵活剪辑关键字而不影响原意？</div>
-<div class="answer"><strong>A:</strong> 与音频剪辑相比，视频剪辑受限较多，因为剪辑音频时画面也会被调整，可能会出现抽帧现象。虽然可以通过技术手段如放大画面来隐藏剪辑切口，但相比音频，视频剪辑在剪辑内容上更难做到随心所欲且不破坏原视频效果。</div>
-</div>
-<div class="qa-item">
-<div class="question"><strong>Q:</strong> 在发布流程上，经过专业剪辑的音频内容如何最终发布出去？</div>
-<div class="answer"><strong>A:</strong> 在我们的节目中，音频剪辑完成后会流转到负责发布的人员手中，我们会撰写一个完整且专业的介绍词，虽然对于技术背景出身的我们来说撰写标题和开头并不擅长，但我们会尽量做到吸引人又不过于浮夸。此外，节目中包含的时间线、关键词解释等内容也已经由AI生成，人工再进行优化挑选，以提高整体发布效果。</div>
-</div>
-<div class="qa-item">
-<div class="question"><strong>Q:</strong> 在节目制作方面，你对今天AI的自动文字处理功能有何看法？</div>
-<div class="answer"><strong>A:</strong> 我觉得现在AI在文字工作上的全自动功能确实能帮上忙，但在我的口味和品味中，它有时会过度夸张地表达，比如使用矫情的话术来吸引听众，这不在我的喜好范围内。因此，我会对这些表达方式进行修改，使其看起来更加朴素，不过分夸张。</div>
-</div>
-<div class="qa-item">
-<div class="question"><strong>Q:</strong> 对于节目发布的流程和平台同步问题，现在的情况如何？</div>
-<div class="answer"><strong>A:</strong> 现在节目发布的时间成本已经大大降低，上传音频后，大约半个小时内就能完成全平台同步，包括苹果podcast、spotify、YouTube以及国内的喜马拉雅、QQ音乐等平台。起初有些平台不支持RSS同步，需要逐一上传，比较麻烦，但现在大多数平台都已支持全RSS同步，使得全球分发变得非常容易。</div>
-</div>
-<div class="qa-item">
-<div class="question"><strong>Q:</strong> 对于新平台如微博和网易云音乐的加入，以及播客行业的竞争状况有何看法？</div>
-<div class="answer"><strong>A:</strong> 这些新平台如微博、网易云音乐也开始支持播客，并且主动寻求合作，提供流量推广等支持。这表明播客行业的竞争日趋激烈，各平台都在积极挖掘优质主播并给予资源扶持。</div>
-</div>
-<div class="qa-item">
-<div class="question"><strong>Q:</strong> 关于节目推广和冷启动的问题，有什么想对听众说的吗？</div>
-<div class="answer"><strong>A:</strong> 发布节目只是开始，更重要的是如何有效推广。对于新账号和素人主播来说，冷启动阶段尤为艰难。我建议听众在决定做博客或播客前要想清楚自己是否能坚持推广，是否有自己的推广方法和渠道。有很多人制作了播客或博客，但因缺乏有效推广而收听量低，甚至无人关注。</div>
-</div>
-<div class="qa-item">
-<div class="question"><strong>Q:</strong> 对于节目内容和未来的规划，有什么具体打算？</div>
-<div class="answer"><strong>A:</strong> 我们将继续制作访谈类节目，并已预约了一些嘉宾。此外，我们还计划制作教程类视频节目，因为这类内容更适合以视频形式呈现。另外，我也很感兴趣做一些类似直播的形式，比如观众可以分享自己的idea或者展示产品页面，共同探讨。同时，我们也会关注业绩层面，寻求更好的商务机会，确保好的内容能够持续产出。长远来看，我们希望通过优质内容与流量的结合，形成正循环，持续为听众提供优质服务。</div>
-</div>
-<h1>节目文稿</h1>
-<p class="transcript-line">
-<span class="time"><strong>[00:00:04]</strong> </span>
-<span class="speaker"><strong>发言人1: </strong></span>
-大家好，欢迎收听异地骇客。我是seattle.
-</p>
-<p class="transcript-line">
-<span class="time"><strong>[00:00:07]</strong> </span>
-<span class="speaker"><strong>发言人2: </strong></span>
-我是一笑。
-</p>
-<p class="transcript-line">
-<span class="time"><strong>[00:00:08]</strong> </span>
-<span class="speaker"><strong>发言人3: </strong></span>
-我是龟龟。
-</p>
-<p class="transcript-line">
-<span class="time"><strong>[00:00:09]</strong> </span>
-<span class="speaker"><strong>发言人1: </strong></span>
-本期节目由power wise赞助播出。Ot wise是一款为播客听众制作的AI学习软件产品的slogan是read before listen。Auto wise通过AI对播客内容进行转录提取、总结分析等一系列操作，帮你掰开了揉碎了硬核的播客内容。同时与notion radio wise等平台的打通，嵌入知识管理工作流，协助您的其他包括新闻newsletter blog的内容，帮你打造第二大脑。Hot wise也为本期听众准备了三个5折优惠码，针对本期在小宇宙与我们互动的精选回复，欢迎大家踊跃来玩。好的，那开始我们本期的节目。
-</p>
-<p class="transcript-line">
-<span class="time"><strong>[00:00:48]</strong> </span>
-<span class="speaker"><strong>发言人3: </strong></span>
-这期我们来聊聊我们自己的频道，在做这期播客的时候，我们这个频道就印尼骇客数据是什么样呢？给大家分享一下。就是在小宇宙的这个频道，粉丝量是23000左右，号称全网有8万，不知道小宇宙这个统计是不是准确。我们是在二三年的三月份开始发布第一期的，到现在一共发布了82期。然后这82期全网的播放总量是56万次，可能还不如别人的一期播客播放的那个量高。对，但是总的完播率是56.4%，这个完播率好像还可以，然后评论量是1986个，分享量是8436次。
-</p>
-<p class="transcript-line">
-<span class="time"><strong>[00:01:28]</strong> </span>
-<span class="speaker"><strong>发言人3: </strong></span>
-就是有有很多人把这个节目推荐给别人，这些数据哪一个其实都不是个整数，包括时间就是到现在差不多是20个月，对吧？那一般大家都是找个整整齐齐的日子来聊这些，那我们就随便找一期就聊了，给大家分享一下我们这个频道现在的一个状态。在这里特别感谢大家一直支持我们，这是我们持续更新的动力。
-</p>
-<p class="transcript-line">
-<span class="time"><strong>[00:01:51]</strong> </span>
-<span class="speaker"><strong>发言人3: </strong></span>
-当然了，其实很多人有问过我们说，你们这个博客赚不赚钱，怎么赚钱的对吧？你们一直做了那么久，好像也做出一点成绩来，那像我们这样的一个博客到底能赚多少钱呢？今天就给大家揭秘一下。我settle给大家把这个机密回答一下。
-</p>
-<p class="transcript-line">
-<span class="time"><strong>[00:02:08]</strong> </span>
-<span class="speaker"><strong>发言人1: </strong></span>
-对，今天也是我们做博客做了20个月，也是该给各位精神股东汇报一下了。我们整体的收益大概有这么几个部分，第一个部分是商单收益，这个数字是非常吓人的，一共2900.
-</p>
-<p class="transcript-line">
-<span class="time"><strong>[00:02:25]</strong> </span>
-<span class="speaker"><strong>发言人3: </strong></span>
-好吓人，确实某种意义上的吓人。
-</p>
-<p class="transcript-line">
-<span class="time"><strong>[00:02:28]</strong> </span>
-<span class="speaker"><strong>发言人1: </strong></span>
-对，这里想强调一下，其实我们从来没有做过商单节目，我们都是口播跟show notes的广告。当然这里也非常感谢跟我们合作的厂家，你看大家的划算的部分就来了，这里会再给我们这个平台上面做过口播的人再做一次广告。对，就之前有跟我们合作的，包括latics笔记，然后包括左完，包括滴答清单，包括声望。对，就这些是我们之前有在我们平台做过口播跟手nos广告的对，这个是我们非常感谢的，就大家认可我们整个频道的价值。对，让我们上单总收益是2900块钱。
-</p>
-<p class="transcript-line">
-<span class="time"><strong>[00:03:04]</strong> </span>
-<span class="speaker"><strong>发言人1: </strong></span>
-对，然后我们还有一部分比较巨大的收益是打赏收益。这个打赏包括两个部分，一个部分是小宇宙平台的，然后还有一个部分是我们自己又开了爱发电。那小宇宙平台是多少呢？这个数字也比较惊人，205.76块。然后还有我们爱发电是461.6块，我觉得金额不是重点，重点是给我们打赏过有很多很多的小伙伴。当然我们把每个小伙伴的名字其实都放在了我们part hackers点com的官网上，大家可以在上面找到自己，有帮我们打赏过的对，那这里也非常感谢每一个给我们打赏过的小伙伴。
-</p>
-<p class="transcript-line">
-<span class="time"><strong>[00:03:42]</strong> </span>
-<span class="speaker"><strong>发言人1: </strong></span>
-对，然后还有一趴是我们的知识星球收益，这部分收益是29565块。对，就每一份钱其实都是精确到圆的。但是星球这部分收益其实不光是我们做博客了，还有我们自己其实在之前有发布过我们的印课的小测，相当于小书了。对，然后还有包括我们自己其实在知识星球里面运营，其实也花费了很长的时间。然后还有包括持续更新小测等等的，这些里面其实有非常多的时间。所以其实这部分29000不能说全算，全算可能对于我们自己的其他部分的投入不太公平。所以这部分大概是29565块。
-</p>
-<p class="transcript-line">
-<span class="time"><strong>[00:04:22]</strong> </span>
-<span class="speaker"><strong>发言人1: </strong></span>
-对，然后还有一些就是隐藏收益了。因为我们自己其实在发布pod wise这个产品之后，因为前面有接过别的商单广告。那后来我们发现说，如果我自己在播客里边做自己的广告，感觉比给别人做广告带来的收益更高。因为大家也看到我们其实做商单收益也就2900块钱，所以说其实每个商单的收益并不高的对。所以在后续的节目里面，我们就把几乎每期我们的节目都放的是pot one自己的广然后我大概算了一下，这个期间其实总曝光量应该有超过30万次。因为前面有讲过，我们全网的总播放量超过了56万次。在我们做了powder west这个产品过后，在这期间后续的广告总的曝光量有超过30万次。
-</p>
-<p class="transcript-line">
-<span class="time"><strong>[00:05:03]</strong> </span>
-<span class="speaker"><strong>发言人1: </strong></span>
-然后我们算一个内部结算价，按签字投放100块钱算的话，就大概28800块钱。相当于我们自己在pod s广告投入上面大概这么多。所以整体算下来就这样了，总体加吧加，统计一下大概在62000块钱左右。对，我不知道这个符不符合大家对于做播客的预期。
-</p>
-<p class="transcript-line">
-<span class="time"><strong>[00:05:25]</strong> </span>
-<span class="speaker"><strong>发言人3: </strong></span>
-你觉得符合你对于做播客的预期吗？
-</p>
-<p class="transcript-line">
-<span class="time"><strong>[00:05:28]</strong> </span>
-<span class="speaker"><strong>发言人1: </strong></span>
-肯定对于我们一开始做博客想赚的那个数字，跟现在拿到的这个结果，我觉得是不符合的对。
-</p>
-<p class="transcript-line">
-<span class="time"><strong>[00:05:37]</strong> </span>
-<span class="speaker"><strong>发言人3: </strong></span>
-确实是啊，这个大家也应该听得出来，我们这个分享很真诚了。这数字都是有零有整的，包括那个F发电什么小数点后头都给大家说了，对吧？然后大家也能够看到这里面大头，包括星球和广告，其实都算是关联交易，这个真的要算的收入的话可能更少，就这点钱，分到我们三个人头上，可能连平时吃饭都不够。我都大概算了一下，就是按月算，就是全部算上，包括星球那些说也按月算，可能一个月就一千多块钱。
-</p>
-<p class="transcript-line">
-<span class="time"><strong>[00:06:05]</strong> </span>
-<span class="speaker"><strong>发言人2: </strong></span>
-那购买咖啡了，差不多购买咖啡。
-</p>
-<p class="transcript-line">
-<span class="time"><strong>[00:06:09]</strong> </span>
-<span class="speaker"><strong>发言人3: </strong></span>
-对，咖啡浅也可以。就跟我们在爱发店上的那个打赏说的一样？给主播们买一杯咖啡咖啡。对，那我们到底做说一直做下来做了二十多个月图啥呢？或者说我们在这做博客的过程中收获了什么？
-</p>
-<p class="transcript-line">
-<span class="time"><strong>[00:06:25]</strong> </span>
-<span class="speaker"><strong>发言人1: </strong></span>
-这个其实说实话，你看我们自己聊了这么多，钱上肯定是没有太多收获的对吧？可能就是每个月大家能把咖啡钱解决了。然后我觉得有的收获是什么？就是我觉得大家如果是从第一期开始听我们的，我觉得大家就能发现，虽然我们这个博客叫印第骇客，印第骇客其实只有印第hacker。对，但其实我们三个人本来都不是印第骇客。对，然后我们第一期其实在聊的内容是焦虑与自由，大家听这个主题其实就是浓浓打工人的感觉。对，因为我们自己从上一段的创业里面走出来，其实还是有挺多想表达的对，我们当初其实想的还挺简单的，就是说我们其实肚子里面还是有些东西的对，那我们能不能靠自己肚子里面这些东西出来？能当个网红，招揽一些粉丝，然后就能走上人生巅峰？
-</p>
-<p class="transcript-line">
-<span class="time"><strong>[00:07:15]</strong> </span>
-<span class="speaker"><strong>发言人1: </strong></span>
-那为什么说当时没有想着说露脸去做视频等等那些的？其实从当时我们自己在做这个博客的时候，还是觉得说露脸这件事还是有点不好意思，就感觉好像比较羞耻一点。然后再加上其实那个时刻播客的增长确实很迅猛。在那个时间点里面，包括疫情，包括各个层面，其实包括小宇宙，很多的博客其实增长非常的快。所以当时就在想说，要不然我们就试着走一下这个赛道。对那当然就进来之后，直到今天才发现也不是那么回事，对吧？
-</p>
-<p class="transcript-line">
-<span class="time"><strong>[00:07:49]</strong> </span>
-<span class="speaker"><strong>发言人1: </strong></span>
-我再讲一下就是为什么我们其实当时做的是印蒂亚克，不是别的。其实从我们自己的角度里边，那个时候有考虑过几个比较关键的因素。第一个关键因素是其实在当时的那个环境下面，各大公司都在做裁员，当然裁员这件事也不是说从那个时候才开始的。其实在往我们做之前其实就已经有了，直到今天也还是有裁员。所以说裁员这个因素就导致了很多人他是被动的离开了工作岗位。对他被动离开之后就会有很多选择，要不然他去主动再去找工作，要不然他去选择别的道路。
-</p>
-<p class="transcript-line">
-<span class="time"><strong>[00:08:19]</strong> </span>
-<span class="speaker"><strong>发言人1: </strong></span>
-我们当时觉得说，如果大家被裁员过后，后续如果你能找到一个自己养活自己的这样一个工作的话，其实会比较好。对。所以说在当时就选择说，能不能说大家透过自己做一个产品，然后来养活自己，能达成自己的这样的一个目标，就是不靠公司，不靠老板给你发工资。对，所以说这个是一个环境因素的一个趋势，就是我们为什么要去做这件事儿。
-</p>
-<p class="transcript-line">
-<span class="time"><strong>[00:08:41]</strong> </span>
-<span class="speaker"><strong>发言人1: </strong></span>
-对，还有一个就是自身因素了。就因为我们自己本身是一个创业背景。我们会发现说在创业的过程里面，我们之前有一直有讲过很多次。就是我们有一种被资本绑架的感觉。资本推着你一路一直在往前走。那走的过程里边你会发现很多事情你走着走着其实就有点身不由己了。
-</p>
-<p class="transcript-line">
-<span class="time"><strong>[00:09:00]</strong> </span>
-<span class="speaker"><strong>发言人1: </strong></span>
-你所做的事情，所做的动作，然后各种各样的事情其实都会变形，所以说也是驱使我们在走向了一个融资拿钱的极端之后，反过来在思考自己说能不能不融资不拿钱，然后也能过得很好。所以说这是我们其实一开始在去思考说，要不要做印第安克这件事儿。当然做印第安克还有一个触动我们的点就是我们有看到极简创业那本书，对，就gm roade的作者写的那本书。对。所以说这本书其实也给我们一个很大的希望，发现说从小而美的去做也是有思路的，而且它是有方法的对所以说这个是我们一开始说为什么要去做银骇客，不是说我去教别人，大家说怎么去创业，然后怎么去拿融资等等这些东西。就我们觉得说这些东西可能不是一个大众能接触到的一个赛道，或者说对于大家其实没有很大的一个群众基础。所以说我说这是我们一开始比较质朴的，然后想去做印蒂艾克的这个事情的根源的本源。一开始是这么想的，但是后来才发现我们真正收获更多的，我觉得可能是表达的机会。
-</p>
-<p class="transcript-line">
-<span class="time"><strong>[00:10:00]</strong> </span>
-<span class="speaker"><strong>发言人1: </strong></span>
-大家每个人都是可以表达的，就是你发任何的东西是没有人阻止你发的对，但是这里面每个人表达的分量是不一样的，这个分量其实背后就是影响力，这个会带来的差异会比较大我自己一直是觉得说酒香其实还是怕巷子深的对，像我们的话，其实我们就透过了做播客这件事，最终拿到了一定的影响力。我们就一直比较幸运的，然后一直在表达。对，然后我一直觉得说如果你比较幸运的能够一直在表达，并且有机会能够跟很多人做观点的碰撞。这个过程里面其实你自身的收获是最大的对，而不是说你输出了什么样的观点，你影响了什么样的人。
-</p>
-<p class="transcript-line">
-<span class="time"><strong>[00:10:36]</strong> </span>
-<span class="speaker"><strong>发言人1: </strong></span>
-对我觉得这个可能才是对我们来讲收获最大的对，但是我自己感觉，假如说以我现在的认知，再回到一年半20个月以前我们去选择的话，我说不定可能会从做视频内容开始。对，因为视频内容它毕竟受众更广。那你不谈说你最终金钱上的收益区别，你光从播放量上，我觉得以我们自己的内容质量乘以十倍的播放量应该问题不大的。就说我们现在比如说做了56万，如果我们做视频内容出八十多期的话，做到560万播放，我觉得应该是比较轻松的对，当然这个是后话了。因为其实你如果做视频内容的话，你可能不会产出这么多。因为每期视频内容其实它会更难做。
-</p>
-<p class="transcript-line">
-<span class="time"><strong>[00:11:17]</strong> </span>
-<span class="speaker"><strong>发言人1: </strong></span>
-我觉得这个里边很大的一部分差异是就是音频跟视频的表现力上还是有很大区别的。毕竟你做音频你只能听，用的话你的场景上面就比较受限。而且大家现在很多时间点上，大家在刷的内容其实更多的还是视频内容。包括抖音短视频也好，包括中长视频看哔哩哔哩。所以说我觉得这个形式上面，其实就导致了一个很大的一个受众上面的区别。
-</p>
-<p class="transcript-line">
-<span class="time"><strong>[00:11:37]</strong> </span>
-<span class="speaker"><strong>发言人1: </strong></span>
-后续也不排除我们会去做视频内容。但是就是从我的自己这个角度上来讲，我觉得如果做视频内容的话，也是会做长视频的。短视频如果有的话也是通。通过长视频切片的形式去做。对我觉得这个也是OK的，反正当然现在做也不迟。我跟着影视飓风下载的那个达芬奇resolve，已经下载了很久了。对，但就差时间了，一直没有机会。
-</p>
-<p class="transcript-line">
-<span class="time"><strong>[00:11:59]</strong> </span>
-<span class="speaker"><strong>发言人3: </strong></span>
-对，其实有一句话，就是说教别人是最好的学习方式。那其实输出也算是对吧输出也算是一种学习方式。我觉得做博客，特别是像我们基本上是从来不断更的，一周一期，只有法定节假日可能断一下，这个也是让我保持一种对于行业去关注，或者说对于新知识去学习的一个方式。不然像我这么懒惰的人，可能就都不会去看这些东西。
-</p>
-<p class="transcript-line">
-<span class="time"><strong>[00:12:26]</strong> </span>
-<span class="speaker"><strong>发言人3: </strong></span>
-对，那刚刚开头提到视频，其实现在做短视频，你纯粹用手机就能搞定。但我感觉短视频要火，可能还是得提供情绪价值。这件事情我们技术出身的朋友可能确实不太擅长。然后长视频，你说看别的这个youtube频道介绍弄起来我感觉还是真的要花点钱。他那些设备都是一套一套的，然后像打光的，然后相机，还有好几个置景什么的。人家做视频基本上都要搞个工作室，那我们这个做博客就书房里搞一搞就可以了。看下来我们做博客确实是属于成本比较低的对吧？
-</p>
-<p class="transcript-line">
-<span class="time"><strong>[00:13:01]</strong> </span>
-<span class="speaker"><strong>发言人1: </strong></span>
-对，其实我们自己的投入就很简单了。理论上你其实一个手机就可以做对，但是假如你要做的稍显专业一点的话，一个话筒就够了。如果大家需要选择的话，其实最好就是买一个动圈的话筒就好了。当然动圈话筒里面有几个品牌，包括罗德，包括舒尔，其实都可以买。对，我们三个人其实在用的一款麦克风是舒尔的MV7。
-</p>
-<p class="transcript-line">
-<span class="time"><strong>[00:13:25]</strong> </span>
-<span class="speaker"><strong>发言人1: </strong></span>
-对，当然如果你好的话，你买到天花板就是舒尔的SM7BSMTB的话，其实买下来也就两千多块钱，就已经到天花板了。我觉得可能还没有大家的键盘贵，对吧？你可能键盘买一个HHKB也两千多块钱。对，所以说做博客的投入确实是比较低的，就是你买到顶天也就2000块钱，你就可以做博客了。如果你非常简单，你用自己的手机也可以做对。如果你想做到大家效果还可以，还OK的话，你就买一个舒尔的MV7，大概一千多块钱出头就可以做对，所以说确实做播客成本是非常低的对，但是做博客我觉得跟做视频有一个比较大的区别。就是做博客大家因为都在听，那很多人还是戴着耳机听的，所以说对于音质还是有比较高的要求的对，尤其是像我们做这种访谈类型的节目，有时候在录制的过程里面可能出现各种各样的问题，对大家听感上面就会有很大的区别。这个东西在我们之前的节目里面也有很大的影响。
-</p>
-<p class="transcript-line">
-<span class="time"><strong>[00:14:21]</strong> </span>
-<span class="speaker"><strong>发言人1: </strong></span>
-比如说我们在之前的节目里面，音质可能不太好的时候，就会发现大家的跳出率还是比较高的。因为可能听了前面觉得音质不太好，他可能这期就不听了。对，所以说我们在录的过程里面，其实除了话筒之外，我们自己还有一个比较大的一个要求，就是在录制过程里面最好是本地录制。因为这个我们其实在前面七八期节目里边吃了一个比较大的一个亏。就是我们一开始的时候其实是在用腾讯会议，或者在用zoom这样的会议软件去录的。后来才发现说其实这样的会议软件有一个比较大的问题。会议软件在录制的过程里边，实际上是把大家每个人的音轨全部合成到了一轨。然后最终在服务器上做了压缩存储。所以其实最终你从服务器端下载回来的音轨，其实它的音质损失已经非常大了，你的后期空间几乎就没有了。
-</p>
-<p class="transcript-line">
-<span class="time"><strong>[00:15:06]</strong> </span>
-<span class="speaker"><strong>发言人1: </strong></span>
-假如说有一个人的音轨里面出现了比较大的噪音，你是没法把那个噪音剔除掉的。你就只能说把那段直接全部剪掉，可能才能挽救。那全部剪掉之后，可能里面是一段非常重要的内容。对，就这里是会有一个比较大的问题。然后我们也有看到有很多的主播，他们是怎么录的，他们是跟别的嘉宾，在线上还是用腾讯会议或者new zoom。对，但是在线下大家每个人会准备一个自己的iphone，在大家开录之后，然后会自己录自己。
-</p>
-<p class="transcript-line">
-<span class="time"><strong>[00:15:34]</strong> </span>
-<span class="speaker"><strong>发言人1: </strong></span>
-这个其实我们一开始我们就没有想过去尝试这个方案，为什么呢？就是非常害怕大家手机会没电。对，就是比如说你手机没电了，有一个人录音全部都挂了，然后大家都是那种分布式的在录，所以说就会导致说有一个人声音完全没有你怎么办呢？你只能全部重录，所有人可能都得来一遍，那这个是接受不了的对，因为每个人时间其实都是有限的。
-</p>
-<p class="transcript-line">
-<span class="time"><strong>[00:15:56]</strong> </span>
-<span class="speaker"><strong>发言人1: </strong></span>
-然后再一个比较麻烦的问题，就是因为每个人都是各自，所以就会导致一个所有人把自己的音频传回来的时候，会有一个对齐音轨的问题。对我觉得这个是一个比较大的一个问题。因为音轨如果对不齐的话，你会发现很多时候大家的对话没有那么的自然。不自然的话其实对于听感的影响也非常大的对，然后这个事情是我们知道大家有这么一个方案，但是我们其实没有采用的对，还有一个方案就是我们在发现说我们有这样的需求之后，就是希望大家都本地录，但是希望又对齐音轨。对，然后又不希望大家有各种各样的别的问题，比如说手机没电，然后各自录各自这种分布式的，就发现了这种远程的SaaS服务。
-</p>
-<p class="transcript-line">
-<span class="time"><strong>[00:16:35]</strong> </span>
-<span class="speaker"><strong>发言人1: </strong></span>
-我们就在用一些SaaS服务。我们最早以前是在用zone caster，然后后来再用river side。对这种工具它是一个什么样的原理？它其实是让大家通过web RTC的形式去连线。
-</p>
-<p class="transcript-line">
-<span class="time"><strong>[00:16:47]</strong> </span>
-<span class="speaker"><strong>发言人1: </strong></span>
-然后连线过后，其实大家视频跟音频就跟你用会议软件是一样的。然后大家就是这种在线通话的，这个平台的好处是你每一个人在连线上之后，大家都在做这种同步的本地录，是你录完之后它会自己去上传。那这种方式就完美解决了这种异地手机录制的问题。所以说自从发现像zen caster，像riverside这样的工具之后，这个工具就变成我们在录制podcast里面就必不可少的工具了。
-</p>
-<p class="transcript-line">
-<span class="time"><strong>[00:17:14]</strong> </span>
-<span class="speaker"><strong>发言人1: </strong></span>
-我们刚才在讲说这个播客成本的问题。对你如果真正要投入的话，你就要投入两个部分就行了。这第一个部分是你有一个麦克风，如果你要过得去的话，大概1000块钱就能搞定。然后第二个就是你需要有一个录制软件，对，就一个类似web RTC这样的平台，然后大家之间能相互通话，然后能用云端存储。如果你想去买他们的话，就大概一个月也就十几二十美金，然后就可以了，就可以去录了。
-</p>
-<p class="transcript-line">
-<span class="time"><strong>[00:17:39]</strong> </span>
-<span class="speaker"><strong>发言人1: </strong></span>
-对，这两个工具可能是必不可少的。如果你去对比他们做视频的置景、打光、相机，那就划算多了。所以说我觉得确实我们做播客成本会比较低一些。然后也是相对来讲比较容易去产出内容的对对。
-</p>
-<p class="transcript-line">
-<span class="time"><strong>[00:17:54]</strong> </span>
-<span class="speaker"><strong>发言人3: </strong></span>
-riverside确实是好用，我们访谈嘉宾的时候也都用riverside，他也不需要准备什么东西，直接发个链接，然后进来就可以开始录。如果大家有这种类似的需求，其实都可以尝试一下。我们印蒂艾克其实还是有一些小爆款节目的，有那么几个节目播放量比较高，所以虽然说选题上我们可能做的也不是那么好吧，但也算有些经验。选题这个事情基本上是settle在牵头，可以给大家分享一下我们每期节目的这个选题策划流程吗？
-</p>
-<p class="transcript-line">
-<span class="time"><strong>[00:18:24]</strong> </span>
-<span class="speaker"><strong>发言人1: </strong></span>
-对，现在这个事儿是我在牵头，但是一开始其实我们是有一个选题会的对，就是我们一般是录完第一期之后，我们不会断的。接着在这一期的后续我们会去一起聊一下，说我们下一期聊些什么东西，在准有一些内容。对，但后来我们觉得说这个事比较麻烦，也不能一期一期的去想想着想着就有点想干了。那我们就各自下去发动了一下，然后就进行了一次脑暴。对，脑暴过后我们大概就列了二三十个我们可以聊的话题，每期后续我们就从这个里面选那期聊完过后我们就会在后面计划的时候，我们就会从这个选题里面大家一起定一下，说下一期我们到底去聊。
-</p>
-<p class="transcript-line">
-<span class="time"><strong>[00:19:00]</strong> </span>
-<span class="speaker"><strong>发言人1: </strong></span>
-对，但是后面聊了几次之后，我们又发现说如果我们每一期都没有一些固定选题范围的话，那对于订阅我们英利骇客这个频道的听友来讲，就可能会觉得说我们没有中心思想。后来我们就把这个选题范围从二三十个里边我们提炼和筛选了一下，然后同时做了一些扩充，就把选题定在了几个范围上面。比如说我们现在的所有节目里面就会包含访谈类型的，对讲商业的，就是讲怎么赚钱的，然后讲产品怎么做产品的。还有讲工具类型的，比如说什么工具好用，当前大家这么多人在用到底是为什么等等之类的。就工具评测。
-</p>
-<p class="transcript-line">
-<span class="time"><strong>[00:19:36]</strong> </span>
-<span class="speaker"><strong>发言人1: </strong></span>
-对，还有一部分就是职场相关的内容。比如你在工作，你面临裁员了？你怎么办？后来就选定了这么几个范围，后续的所有的话题就从这几个里边出了。然后大家也可以发现，一开始的时候，我们所有的节目都是我们三个人在对谈的，我们还有一些是做嘉宾访谈的那嘉宾访谈其实是中期的时候才会比较多。
-</p>
-<p class="transcript-line">
-<span class="time"><strong>[00:19:58]</strong> </span>
-<span class="speaker"><strong>发言人1: </strong></span>
-那这个嘉宾是怎么来的？其实还挺有意思。因为一开始其实我们频道很小，一开始基本上很少做访谈类型的节目。对，我们一开始有两期访谈类型都是从身边人拉过来的。比如说我们有一期做log sec。对，lock seck其实是我们前同事出去创业，还有一期是讲f song。F song其实是算是之前的老朋友了，对吧？然后我们把他直接拉过来去做的节目。
-</p>
-<p class="transcript-line">
-<span class="time"><strong>[00:20:19]</strong> </span>
-<span class="speaker"><strong>发言人1: </strong></span>
-对，然后我们一开始因为我们频道比较小，我们也没想着说会产生多大的影响力等等的。所以说都是通过身边的人拉过来。拉过来之后其实我们是想蹭别人的流量然后去做的对，后来就慢慢的因为做了这些节目，有一些小爆款，我们就大概做到五千多个粉丝左右的时候，开始主动的请了第一个嘉宾，极简时钟的道哥。但其实道哥也不算是我们完全主动。因为道哥是听了我们节目之后，加入了我们discord的社群，然后就在社群里面跟我们互动。
-</p>
-<p class="transcript-line">
-<span class="time"><strong>[00:20:50]</strong> </span>
-<span class="speaker"><strong>发言人1: </strong></span>
-对，在互动的过程里面我们跟他聊聊完之后就跟道哥说，道哥你这个产品做的挺厉害的对吧？然后你也稳定收入这么久了，有没有兴趣跟我们过来聊一下？当时其实我们还没有邀请，当时我们大概三千多粉丝，然后我们给道哥说道，哥等我五千粉的时候我们就来邀请你。对，结果真的等5000粉的时候，我们就把道哥邀请过来跟我们去聊了。这个其实算是我们一开始请嘉宾的一个过程。
-</p>
-<p class="transcript-line">
-<span class="time"><strong>[00:21:14]</strong> </span>
-<span class="speaker"><strong>发言人1: </strong></span>
-对，就是一开始拉身边的，然后其次就是我们去请了道哥，其实道哥算是主动送上门的对，后来因为倒戈这件事儿之后，我们就慢慢的开始在X跟极客上面跟各种的大佬去勾搭。我们发现说当我们有五千粉丝的时候，就比较好跟别人介绍了。说其实我们还稍微有些影响力对吧？然后就跟大家去聊说你们有没有兴趣过来上一下我们印蒂哈克的节目。
-</p>
-<p class="transcript-line">
-<span class="time"><strong>[00:21:38]</strong> </span>
-<span class="speaker"><strong>发言人1: </strong></span>
-对，除了那种大家本身比较社恐的那种可能会上来拒绝之外，所有的做产品的人，如果他有营销，他有宣传的意识，大家接受的概率都还挺高的。我们这个群体没有大家想象的那么社恐。对，其实还是有很多很多人是愿意上来跟大家去聊的对，在这个以前粉丝过后你会发现我们其实在后去的跟大家的这种访谈类型的节目里面，后续也在逐渐变多。然后这个里面也出了比较多的爆款节目，包括我们跟沉浸式翻译，跟欧文在聊，跟歌飞在聊。对，有这些节目其实也是获得比较大的成功。
-</p>
-<p class="transcript-line">
-<span class="time"><strong>[00:22:12]</strong> </span>
-<span class="speaker"><strong>发言人1: </strong></span>
-我们也发现说大家还蛮喜欢看这种访谈类型的节目的，尤其是因为我们的访谈还是稍微有些套路的。我们会问大家说，你为什么想做这个？对，然后你是怎么开始做营销的？你的产品VP是什么？后续在拿到用户之后是怎么做反馈的？然后后续有什么规划，然后赚多少钱？
-</p>
-<p class="transcript-line">
-<span class="time"><strong>[00:22:30]</strong> </span>
-<span class="speaker"><strong>发言人1: </strong></span>
-我觉得大家还比较喜欢我们这个访谈类型的所谓的这个套路。所以我们后续这种访谈类型的节目的比例也在一直在提升。所以说访谈类型其实是我们一个大类。再剩下的就是像我们做商业、做产品、做工具、做职场这种对谈类型的节目。今天也刚好聊到这儿了，我觉得你们也可以给大家分享一下，就是这种对谈类型的节目你们是怎么准备的对，因为一般来讲对谈类型节目我都是主持人，然后你们两个都在输出，你们可以简单聊一下。
-</p>
-<p class="transcript-line">
-<span class="time"><strong>[00:22:59]</strong> </span>
-<span class="speaker"><strong>发言人2: </strong></span>
-对，其实我大概想一下，我们三个人自己对谈，自己聊的话确实分了几类。刚才说的有工具类的那工具类的更多的我们是需要很多的调研的为前提。也就像我们前面做的什么cursor这种产品，还有了book LM这种产品，这种都是调研来的那这里面其实核心就是我们可能需要花不少的精力去具体的去使用一下这些产品。
-</p>
-<p class="transcript-line">
-<span class="time"><strong>[00:23:26]</strong> </span>
-<span class="speaker"><strong>发言人2: </strong></span>
-因为提到这个点，我就不得不提一个有趣的事情。就是之前前一段时间有一个人来找到我在微信上跟我说，能不能聊一些他们的产品，但我这里不具体去说，因为是国产的一个与编程相关的一件事情。再说细了，可能很多人都已经知道是什么东西了。反正他们的一个推广的负责人来微信上找到我，然后我就看了一下那个东西。
-</p>
-<p class="transcript-line">
-<span class="time"><strong>[00:23:55]</strong> </span>
-<span class="speaker"><strong>发言人2: </strong></span>
-我说你这个技术站我们自己完全没有使用过，但我们的听众群里面接触的人应该都比较少。我说我们完全就没有办法去聊这件事儿。我说如果要聊也行，那我们只能把你当成一个营销推广这样的一个合作的一个商单这样的形式去聊。我说那这个你们就需要付钱了，最后他就拒绝了我的建议了，对吧？所以说我就觉得说可能也是只是想来白嫖我们这个台。因为他可能也听了我们聊过很多调研类的这种产品，技术站的这些节目，觉得我们可能聊的也还行，对吧？可能就希望我们也聊一期那样的东西。
-</p>
-<p class="transcript-line">
-<span class="time"><strong>[00:24:36]</strong> </span>
-<span class="speaker"><strong>发言人2: </strong></span>
-所以说我就在这儿想表达的意思是，但是我们去聊的这些技术也好，就是这种偏调研类的东西，可能实际真的是我们自己日常使用的。又或者说是我们真的去深度的去调研过的一些东西，能够对我们自己或者说对我们的听众群有帮助的这样的一些产品的工具，我们可能才会选择去掉。对调研类的准备就不去细说了，因为我们要搞技术，搞开发的同学都知道。
-</p>
-<p class="transcript-line">
-<span class="time"><strong>[00:25:02]</strong> </span>
-<span class="speaker"><strong>发言人2: </strong></span>
-第二个就我自己挺关注的，就是我觉得这一期节目里面总的除了你去讲一些产品的功能，讲一些自己的观点，可能你最好要有一些例子对吧？有些段子比如就像刚才我不是就给大家分享了一个我实际过程当中有人想来白嫖我们或者怎么样的这样的一个故事。对，就这一部分其实我自己是觉得在节目里面，我自己比较喜欢的，我也喜欢听别人讲这些东西，讲段子那种东西。那这一部分的话更多的可能也是在日常里面自己会刻意去积累一些，我觉得是比较重要的。当然我自己有时候在某个点上，我觉得这需要有一个段子，需要有一个例子。但是我实际真的当时会刻意去思考这件事儿，但是又想不起来。我可能会用搜索引擎去找一下，你看有没有人在这种类似的上面有没有什么搞笑的东西。对我回去把那个东西搜出来，搜出来过后，然后我自己再把它变形加工。
-</p>
-<p class="transcript-line">
-<span class="time"><strong>[00:26:00]</strong> </span>
-<span class="speaker"><strong>发言人2: </strong></span>
-其实大家都要知道，段子这种东西其实都是人创造的，它不一定是真实的。对，所以说你能变形加工，他最后讲的也很顺滑，我觉得他也行。对，因为就像你听相声一样的，那些东西不都是段子，都是编，对吧？听脱口秀这些，对我最近也爱上了听脱口秀，我觉得也挺还挺有趣的一件事儿。除了这两类之外，我觉得更多的可能大家也听得出来，我们平时做节目里面，我觉得更多的可能都是一些个人的认知这方面的了，或者就是自己的经历的一些实际的故事了。这些东西我觉得每个人都应该可以把自己的认知和故事观点这些东西给讲清楚，对吧？
-</p>
-<p class="transcript-line">
-<span class="time"><strong>[00:26:39]</strong> </span>
-<span class="speaker"><strong>发言人2: </strong></span>
-讲出来这一部分，我觉得其实是做好一档节目的基础。我觉得说如果没有个人的认知，或者说没有你自己比较独特的一些观点和看法这个基础做保障的话。我觉得一档节目哪怕你段子讲的再好，也会失去很多很多的意义。这是我的一个理解。哪怕现在讲脱口秀也是一样的。大家去听很多优秀的脱口秀演员，他都不再是单纯的搞笑，他不是单纯的毫无意义的搞笑了。已经这里面其实他已经穿插了很多的对社会的一些他自己的一些现象的揭露，这样的一些在里面，其实都是这样的对最后总结一句话，你要说我们是怎么去准备这个访谈节目，我觉得可能真正意义上的准备其实还是在平时大家的积累里面。
-</p>
-<p class="transcript-line">
-<span class="time"><strong>[00:27:29]</strong> </span>
-<span class="speaker"><strong>发言人2: </strong></span>
-这些积累可能有很多，就是你听过的脱口秀节目对你的启发，有意识的去思考这件事儿。然后你读了很多的书，你做过很多的笔记，记录过很多的历史事件，或者一些有趣的一些段子，这些都是来源你的生活。我觉得这一方面是比较重要的一件事情。
-</p>
-<p class="transcript-line">
-<span class="time"><strong>[00:27:47]</strong> </span>
-<span class="speaker"><strong>发言人3: </strong></span>
-对一下讲到脱口秀，我最近也还挺爱听的。很多人觉得说喜剧还是需要有一个内核，而且有的时候你听他那些东西讲的挺荒诞的。但实际上你真的细细的去思考的话，确实是有一些意义的。当然我觉得也无所谓，听的人你自己愿意怎么理解就好了，就听个开心也挺好的。对，像脱口秀这个东西，听他这个名字叫脱口秀秀。但实际上这种大部分节目的准备，其实人家都是写了稿子的对吧？而且都是逐字稿级别。因为他每一个东西都要细细的抠，说我这个梗到底要怎么铺是比较好。
-</p>
-<p class="transcript-line">
-<span class="time"><strong>[00:28:23]</strong> </span>
-<span class="speaker"><strong>发言人2: </strong></span>
-对对对。
-</p>
-<p class="transcript-line">
-<span class="time"><strong>[00:28:24]</strong> </span>
-<span class="speaker"><strong>发言人3: </strong></span>
-然后我也是喜欢写逐字稿的，就是博客这个东西我也喜欢写逐字稿。相比起来一校是只写大纲的对吧？写逐字稿就是有点浪费时间。但为啥写逐字稿呢？就是因为我之前尝试只写大纲的时候，虽然内容都能讲清楚，也不会忘记主要的东西。但是准备的时候想到的一些小的包袱或者细节，就想说到那些地方的时候我要这么讲，其实实际上讲的时候就会忘了，事后想起来就有一种那种你知道吧？就是吵架没吵好的感觉。他就是当时我应该这么讲就更好了，这么吵就更好了，那吵架你没法写逐字稿。录节目确实可以的，所以我现在就选择就写逐字稿。现在虽然录的时候我可能也会穿插一些临时的即兴发挥，但是大部分时候其实我是念稿的，这个是我准备的方式。
-</p>
-<p class="transcript-line">
-<span class="time"><strong>[00:29:13]</strong> </span>
-<span class="speaker"><strong>发言人3: </strong></span>
-还有一个技巧，我其实也会借助AI来帮我准备内容，但是不是说让AI给我生成文字内容，这个我觉得有点太没诚意了，对不起观众老爷。我一般是怎么用呢？就是我一般会用probability这样的这个AI搜索引擎来找一些主题相关的新闻和资料。我发现就是当你只有一个大概的方向的时候，你用这种AI搜索去找东西会比较好找。因为传统的这种关键词类的搜索不太能够找到很相关性的东西，但是你又不知道特定的关键词的时候，你就比较麻烦。但是你只有一个大概方向的时候，你用AI搜索引擎就会比较好找东西。
-</p>
-<p class="transcript-line">
-<span class="time"><strong>[00:29:51]</strong> </span>
-<span class="speaker"><strong>发言人3: </strong></span>
-有时候我也会问一问AI对某个事情的看法，去寻找一些灵感和角度。但是实际上你实践下来会发现说AI产出的观点，当然你自己的辨别？这个观点是不是你认同的？你自己的辨别包括AI产出的数据，其实你也不能进行。哪怕今天可能说我提醒AI模型已经挺先进的了。哪怕他说他给你标了出处，说从这篇文章里面来的这么一个数据也可能是错的。你必须得自己点进去看，特别是一些客观数据，他可能还是会给你瞎编，你要自己去浏览，去鉴别真伪。
-</p>
-<p class="transcript-line">
-<span class="time"><strong>[00:30:24]</strong> </span>
-<span class="speaker"><strong>发言人3: </strong></span>
-对，OK, 这个是内容的准备上，然后我们刚刚也说了，这个设备的准备上其实也不多，就一个话筒就解决了。我觉得很多人为什么没有开始用播客这个形式做输出，比较繁琐的，后期可能也是一个很大的原因。毕竟你写文字内容的话，比如说写twitter，写公众号，可能就是调整排版一下就可以发了。那播客是要去处理音频的这里面肯定还是要更麻烦一些。当然我猜会比去做视频要简单不少。这里面我们大概后期会花多少时间，大概是一个什么样的流程，再给大家分享一下。
-</p>
-<p class="transcript-line">
-<span class="time"><strong>[00:31:01]</strong> </span>
-<span class="speaker"><strong>发言人1: </strong></span>
-对播客的这个后期确实相对来讲还是稍微麻烦一些的对，有经验讲，就大概会花你录制时间的2到3倍做剪辑。为什么需要花这么长时间？因为你在剪辑的时候，你就需要把你的原内容再听一遍。对，再听一遍过程里面你又需要说去调个音，去干个这个干个那个。所以说基本上你剪辑60分钟的时长，你大概就需要花180分钟左右来来去做后期。所以说这个时间上面大概需要消耗这么多。所以说录制一期播客，确实你相对来讲比你去写一篇文章，写一篇公众号那还是要费事一些的对，但是你说我要准备一个60分钟的视频，那这个时间就可能一个月才能出一期了。对，那这个我就不知道了。
-</p>
-<p class="transcript-line">
-<span class="time"><strong>[00:31:45]</strong> </span>
-<span class="speaker"><strong>发言人1: </strong></span>
-对，这个里面我可以给大家分享一下剪辑软件的问题。对，做音频是有专门的剪辑软件的，这个剪辑软件叫DAW，就是digital audio work station。对，其实只要你这个软件是DAW软件，其实基本上都能做剪辑。
-</p>
-<p class="transcript-line">
-<span class="time"><strong>[00:32:00]</strong> </span>
-<span class="speaker"><strong>发言人1: </strong></span>
-对，比如说你可以用adobe AU，mac里面的brash band，然后你也可以用audacity，其实都可以的对，那我们自己其实在用的是rapper对，但这个就不讲了。因为大家功能其实都是类似的。所以说如果你要剪的话，garage band也是免费的对，rapper也是免费的对，然后oasis也是免费的。其实你免费就可以做剪辑，所以这个不是很大的问题。对，剪辑其实不太需要花钱。
-</p>
-<p class="transcript-line">
-<span class="time"><strong>[00:32:23]</strong> </span>
-<span class="speaker"><strong>发言人1: </strong></span>
-对，对，这里刚好想聊一下，最近两年因为AI的原因，AI剪辑这件事儿好像也被大家提上来了。但是我基本上尝试过所有的AI剪辑工具。因为剪辑这个事属于我，所以说我也会想办法去偷懒，对吧？但是我在试过所有的AI剪辑工具，包括国内的，包括国外的。比如说国内的像小宇宙，小宇宙有一个小宇宙studio，然后包括喜马拉雅，喜马拉雅也有一个剪辑。包括海外其实炒的很火的descript对吧？然后还有一些别的一些海外的剪辑软件。
-</p>
-<p class="transcript-line">
-<span class="time"><strong>[00:32:56]</strong> </span>
-<span class="speaker"><strong>发言人1: </strong></span>
-对，在我尝试下来之后都不太可用，这里有一部分是属于技术原因，我给大家讲一下这些剪辑软件的原理是什么。他们基本上在做的事情都是通过音频转录去做文字。然后转录做文字之后，基本上可能会对一些口屁、口水、磕巴等等之类的帮你做一些处理。比如说帮你剪掉或者怎么样的，然后帮你去做一些处理。然后还有一些连接词，比如很多人可能喜欢讲，然后会把这些关键词会帮你剪掉。因为你可以看着文字，所以你可以对着文字去留下你想要的东西。
-</p>
-<p class="transcript-line">
-<span class="time"><strong>[00:33:30]</strong> </span>
-<span class="speaker"><strong>发言人1: </strong></span>
-对，但是我发现用了这些所有的软件，剪完之后的效果都不太好。不太好的原因我这里有做过一些分析。因为这个里面涉及到一个问题，就是文字的这个识别你是没法做到很精准的。虽然大家都在做模型训练，但是很多时候比如说我们讲，其实后中间的这个中间点其实非常模糊的。如果做这样的语音转文字，你想识别到真正识别的那个精准的位置其实是比较难的。
-</p>
-<p class="transcript-line">
-<span class="time"><strong>[00:33:59]</strong> </span>
-<span class="speaker"><strong>发言人1: </strong></span>
-让他们这些东西经过AI剪辑过后，会导致一个半音现象。就是你会听到突然有一个人讲了一句话，好像前后的听感上面就完全不对了，跳帧了。对，类似于跳帧了。对，就是完全就不可听了。
-</p>
-<p class="transcript-line">
-<span class="time"><strong>[00:34:12]</strong> </span>
-<span class="speaker"><strong>发言人1: </strong></span>
-还有另外一个方面是什么呢？当前的这个AI不像我们人类去做剪辑的时候，其实你自己就是制作人。那AI剪辑的时候，你是没有办法去判断这个听感的，比如说即使你把它剪得很好，最终其实还是需要去复听一遍的。因为你要保证他的这个听感是好的。假如你发现他在复听的过程里边会出现所谓类似跳针、类似不连贯，类似有一些东西需要调整的时候，这些软件其实都帮不了你。因为他们本质上其实就是一个音频转文字的工具，然后再加上转了文字之后能剪辑，他们其实本质上不是一个完整的一个DAW软件，所以说我最终发现这些AI剪辑能做什么呢？
-</p>
-<p class="transcript-line">
-<span class="time"><strong>[00:34:54]</strong> </span>
-<span class="speaker"><strong>发言人1: </strong></span>
-就是他们只能做粗剪，粗剪这种事儿我觉得我是参与做印蒂艾克录制的。其实对于初检这件事我是不太需要的。因为我在第一遍在录的过程里面，我脑子里面就已经有一个判断，到底哪些要哪些不要了。所以我在听的过程里面可以直接把它干掉。
-</p>
-<p class="transcript-line">
-<span class="time"><strong>[00:35:09]</strong> </span>
-<span class="speaker"><strong>发言人1: </strong></span>
-对，但是粗剪这件事对什么人有用呢？就是对于那种接单的工作室是比较有用。就比如说现在有很多人在做播客的时候，他会把那个剪辑的任务交给另外一个工作室，让他们去做剪辑。对，但是那个工作室其实一开始是没有参与录制的。他们所要做的事情就是我能不能找到一个语音转文字，然后转完之后我能够先把它做一次初检。
-</p>
-<p class="transcript-line">
-<span class="time"><strong>[00:35:31]</strong> </span>
-<span class="speaker"><strong>发言人1: </strong></span>
-对，先做这件事儿。这个事情上面我感觉对于他们来讲会稍微有用一些。对，但是也仅此而已了。因为即使他们做完这个粗检之后，他还是需要用DAW工具把剩余的事情全部都做掉。所以说我觉得这个是一个挺大的一个问题。
-</p>
-<p class="transcript-line">
-<span class="time"><strong>[00:35:47]</strong> </span>
-<span class="speaker"><strong>发言人1: </strong></span>
-大致上现在所有的AI剪辑软件就只能做到粗简。我自己其实有想过一种AI的剪辑方案，就是因为大家现在都在做音频转录文字。对，然后都在做剪辑。对，但比较少有人在做这种AI的音频克隆补偿。比如说你有一些口屁，有些口水，有些磕巴，那我能不能用AI的形式把那句话给它补完整了。对我把柯，我把口水的部分其他的全部帮他干掉，然后把那句话重新说一遍。但这个方案暂时还没有成型，我觉得有一个很大的原因就是这个克隆的音频的相似度它会要求比较高。
-</p>
-<p class="transcript-line">
-<span class="time"><strong>[00:36:20]</strong> </span>
-<span class="speaker"><strong>发言人1: </strong></span>
-我觉得人是特别容易听出来的，我估计大家每个人都会有那样的印象。你会发现有些视频里边它是原声录的，还是后期补录的，你很容易就能听出来。即使他是同一个人说的，对你会非常容易听出来。因为人的耳朵是非常敏感的对那假如说我用原声在录的这个声音跟我现在用AI补出来的声音，如果大家存在在一段音频里边，我相信很容易就会被别人听出来。要不然就是你全用AI要不然你就全用真人。对，所以说这个现在我觉得也是一个比较大的一个问题。当然我觉得说可能未来1到2年之内，能不能说这个音频克隆相似度就比较高能不能大家用这样的方式去补偿这件事儿，可能可以，对，但我觉得得近一两年再去发展才有可能。
-</p>
-<p class="transcript-line">
-<span class="time"><strong>[00:37:02]</strong> </span>
-<span class="speaker"><strong>发言人1: </strong></span>
-给大家讲一下纯粹的AI剪辑这件事儿跟DAW软件它的区别是什么？就为什么我还是得要DAW软件？如果你想做一个比较稍显专业一点的博客的话，其实你大概都要做那么几步。首先每一个人在录制的过程里面的音轨，大家都要做单轨保存。这里面后续就会涉及到很多事情了。因为你最终是要把所有的单轨去给它合并成一个合轨，合轨之后做统一输出，然后这样的话大家就能听到一个完整的博客。
-</p>
-<p class="transcript-line">
-<span class="time"><strong>[00:37:28]</strong> </span>
-<span class="speaker"><strong>发言人1: </strong></span>
-那在这个过程里面，其实都要做好几件事儿。第一件事就是要做Normalize。都要把大家的音轨做一个标准化。因为每个人他离话筒的距离远近，然后包括你的声场都不太一样。所以大家每个人的响度其实就不太一样。所以你在剪的过程里边，你要让大家的音频的声场都近似。所以说一开始先要给大家调整不同的响度。
-</p>
-<p class="transcript-line">
-<span class="time"><strong>[00:37:47]</strong> </span>
-<span class="speaker"><strong>发言人1: </strong></span>
-其次就是因为每个人在房间里面，我们刚才讲说我们用话筒或多或少每个人还会有一些噪音。所以说你除了在标准化之后，后续可能就要做一次noise reduction。对，就是要把一些噪音给它去消除一下。对，这个里面可能就会用到一些噪音消除的一些插件等等之类的一些东西。
-</p>
-<p class="transcript-line">
-<span class="time"><strong>[00:38:06]</strong> </span>
-<span class="speaker"><strong>发言人1: </strong></span>
-然后第三步其实就要做一些声音美化。其实我们每一个人男生女生的区别就很大，就是每一个人其实声场里面好听的部分是区别很大的对，甚至包括我们三个人，其实每一个人声场好听的部分都是不一样的。对，有些人声音尖一点，有些人声音厚一点，其实都是不一样的。对。所以说做这种生产调整，就是做EQ的这个调整，它里面就是帮你把好听的部分要做一些争议，然后帮你把不好听的部分要做一些消除。
-</p>
-<p class="transcript-line">
-<span class="time"><strong>[00:38:34]</strong> </span>
-<span class="speaker"><strong>发言人1: </strong></span>
-接下来就是要做一些compressor。大家所有人的声音压缩在一个固定的轨道之内，让大家每一个人的声音不会说，我在某一个部分突然大笑了一声，这个声音就显得特别大。然后在另外一个地方，大家又可能小声讲了两句悄悄话，但是那句悄话其实我也是需要的。对我就又需要把这部分东西需要给他拉回来。Compress sive的作用就是要把大家每个人的声音在你整个音轨里面，大家看似是近似的对，最后可能还要做一些limit，让你的音频的最高音量要控制在一个范围内。这样的话就大家在听的过程里面不会就是不会说听到一个突然有一个爆音。
-</p>
-<p class="transcript-line">
-<span class="time"><strong>[00:39:09]</strong> </span>
-<span class="speaker"><strong>发言人1: </strong></span>
-我刚才讲的这个过程，包括标准化、包括去噪，包括声音美化，包括压缩，然后包括限制。这些东西都是一个DAW里面最基础的功能。但这些功能其实在AI剪辑软件里面都没有。那你做完这些东西之后，如果你想让你的博客看起来稍显高端一些的话，其实这些东西其实都是需要的，这个是逃不掉的对所以说如果你想去做剪辑的话，比一个好的DAW软件或者说一个顺手的DAW软件还是有必要的对。
-</p>
-<p class="transcript-line">
-<span class="time"><strong>[00:39:40]</strong> </span>
-<span class="speaker"><strong>发言人1: </strong></span>
-那如果你想用AI剪辑，你想做一个粗剪，当然你去使用一下这样的工具也是OK的那当然你现在去用小宇宙studio，或者你用喜马拉雅去做初检，他们都是免费的。对你想用一下的话，我觉得也是OK的对，那整体算下来的话，包括录制，包括剪辑，基本上可能前期所有的时间加起来要花1到2天的时间吧。包括大家去前期准备，然后包括录制，包括剪辑。对，大概你出一期节目要花这么久。对，所以处理确实是要比你文字还是要麻烦一些的对对。
-</p>
-<p class="transcript-line">
-<span class="time"><strong>[00:40:14]</strong> </span>
-<span class="speaker"><strong>发言人3: </strong></span>
-那听完可以想象要是做视频的话，那耗时肯定会更长，对吧？因为你比如说视频播客这里面所有你音频做要做的动作其实应该都要做。然后他还得处理画面。对还得去考虑画面的这个观感。这里得致敬一下每一个视频创作者，但音频后期做完其实还没完，对吧？这它其实还是有一些配套内容要制作，然后做完了之后才能发布出来。我们的播客节目是全平台发布的这接下来大概是一个什么样的过程？
-</p>
-<p class="transcript-line">
-<span class="time"><strong>[00:40:44]</strong> </span>
-<span class="speaker"><strong>发言人1: </strong></span>
-对，其实你刚才讲到这个视频，我突然想插一句，其实视频剪辑跟音频剪辑还有一个质的一个区别。就是其实音频剪辑我可以随意剪辑关键字，我能把这句话讲的跟原意完全不一样。就跟现在有很多人，可能你听到说有一些音频造价，对吧？他可能把某一个关键词直接剪掉之后，那句话的意思完全不一样了。对，但是你在视频里面就比较难做这样的剪辑。
-</p>
-<p class="transcript-line">
-<span class="time"><strong>[00:41:09]</strong> </span>
-<span class="speaker"><strong>发言人1: </strong></span>
-这里面有一个限制是视频你在剪辑那个音频的过程里面，视频画面也会被调整。你会发现有一些人在讲话的时候他会抽帧。就是因为这个人剪了他的音频内容之后，他没有处理他的视频画面。对，这是一些比较初级的剪辑人员，他可能是这么剪的对，那稍微高级一些的，你会发现这个人在讲某些话的时候，那个画面会突然放大一下。对，其实他在那个地方做了一次剪辑，因为他透过放大这样子凸显这件事比较重要。但其实是因为他在那里做了一个剪辑切口，他想把那个剪辑切口去隐藏掉。
-</p>
-<p class="transcript-line">
-<span class="time"><strong>[00:41:42]</strong> </span>
-<span class="speaker"><strong>发言人1: </strong></span>
-所以说我觉得做视频跟做音频，除了我们刚才讲的这些步骤上面有区别之外，我觉得做视频我可能就是得有逐字稿了，对吧？没有逐字稿的话，我剪辑起来的消耗就会更大一些。而且我处理视频的那些放大缩小，其实如果你太多的话，其实对大家的感觉也不好。所以我觉得这个里面还是有一些挺有意思的区别的对，刚好就插到这里，我们后续的这些发布流程，我觉得一笑可以给我们分享一下吗？
-</p>
-<p class="transcript-line">
-<span class="time"><strong>[00:42:07]</strong> </span>
-<span class="speaker"><strong>发言人2: </strong></span>
-在我们的节目里面发现把音频剪完了，音频文件就会流到下一步，流到我这儿来发布在小椅子上去发布一个节目，这个事儿肯定它是不难的，它本身也不应该很难。如果这件事情也很难的话，那我觉得光光发一个博客真的也是工作量太大了。你看很多小宇宙上发布节目，大家其实只取一个标题，然后把音频一上传，然后就点发布了，这种还不少。对，但是到我们这儿来，我们还是希望他专业点，对吧？毕竟前面我们在剪辑上就这么专业，然后我们用的话筒也还挺专业的。完了这最后所以说到最终的发布这一步里面，我们还是希望去写一个比较完整的看上去的一个修饰词，就是整个的一个介绍。对但是对我们来说，我们这种背景我们都是因为我们三个人都是搞技术出身的。其实我们本身是不擅长文字工作的。
-</p>
-<p class="transcript-line">
-<span class="time"><strong>[00:43:00]</strong> </span>
-<span class="speaker"><strong>发言人2: </strong></span>
-我觉得不擅长文字工作其实有一个很大的一个挑战点在哪呢？你每一期去想了一个标题和怎么开头去介绍你这期节目的时候，这件事情对我们来说还是很难的。就当你每一期都去想到一个标题，就要想到一个很合适的，又想吸引人的眼球。但是有时候又不想太过度了，因为我们也不想太标题党，但是又不想它太普通。对。但是说到这个标题，我其实发现了在海外的博客里面，他们的标题真的挺普通的，很朴素。
-</p>
-<p class="transcript-line">
-<span class="time"><strong>[00:43:31]</strong> </span>
-<span class="speaker"><strong>发言人2: </strong></span>
-可能就是说我和谁一起聊了AI聊了一个什么什么事情就结束了，对吧？我今天访谈了一下特朗普，可能就是这个样。但是又回到我们中文的整个社区里面来，标题是关键。所有人的标题上可能都下了很大的文章。怎么去把标题做的更吸引眼球一点，包括介绍也是这样的。所以英文博客里面的很多issue lots或者叫description，很多都是没有的，就只有几句话。对，或者说就只是介绍了一个嘉宾，写了一个参考链接。
-</p>
-<p class="transcript-line">
-<span class="time"><strong>[00:44:06]</strong> </span>
-<span class="speaker"><strong>发言人2: </strong></span>
-但是回到我们这个文化环境就完全不一样了。所以这件事情还是挺难的那一刚开始我们自己也是手工去写的，去想标题，然后去写介绍。当然其实手工花时间去写的标题还是好的。说实话可能那个时候比较想凸显搞钱，这些标题可能很多都是手工写的。
-</p>
-<p class="transcript-line">
-<span class="time"><strong>[00:44:26]</strong> </span>
-<span class="speaker"><strong>发言人2: </strong></span>
-但是在整个show note里面其实有另外一个很重大的一个部分，就是大家都去写那个时间线。就这件事儿我相信所有的主播今天应该都不会自己去写那个时间线。其实在早期的最刚开始的第一期第二期的时候，我们也是手工去到那个内容里面去疤的。在哪个时间点在讲上，好的，那这个东西就超级费时间的对，所以说这个事情今天我相信应该都被AI替代了。我相信今天绝大数主播应该不会手工写的。
-</p>
-<p class="transcript-line">
-<span class="time"><strong>[00:44:56]</strong> </span>
-<span class="speaker"><strong>发言人2: </strong></span>
-既然讲到AI这儿，就来到今天的整个。比如说一个播客节目的完整的介绍，从标题到有开头欢迎词的介绍。然后好接下来还有什么时间线的大纲等等，可能还有一些关键词名词解释等等等等。就是这些内容是不是都能用AI生成？对，就是这件事儿因为也有一些产品在做。我们都知道海外比如像什么pod square，他们已经从去年都开始在做，并且做的也都挺好的。
-</p>
-<p class="transcript-line">
-<span class="time"><strong>[00:45:25]</strong> </span>
-<span class="speaker"><strong>发言人2: </strong></span>
-回到我们自己今天的话，我们自己的整个销量是大部分内容今天也已经走上了AH生成了，包括时间线呢然后再套上我们自己的模板，把整个内容给它整进去。但其实这里面比如像今天生成标题，那我们自己的做法可能是一口气把内容给它生成十个不同风格的标题，然后我自己再去挑一挑，看哪个标题好一点。对，但是有时候可能十个标题，就是我需要用自己的品味和口味去挑这十个标题好不好。他有可能出来的十个，以我的品味可能和我的我的口味对不上。我也觉得这十个标题都不好，这种是一定肯定会出现的。但是我觉得有AI帮我输出了十个标题过后，哪怕一个标题我都不满意。
-</p>
-<p class="transcript-line">
-<span class="time"><strong>[00:46:12]</strong> </span>
-<span class="speaker"><strong>发言人2: </strong></span>
-我今天的做法可能就是发现他其实很多标题的那个形式写的我觉得还行，我就说他的有些关键词已经给的很好，我可能稍微拿来改一下，垫一下就直接用上去了。对，所以这是我们今天。至少我觉得去标题上可能没有以前那么难了。当然这个地段的介绍，现在那种介绍其实现在也是用来写。我也是用AI一口气让他写个45份不同的风格的，并且用不同的模型写，用jm来写写几份，然后用GPT写几分，然后再我自己再去挑一挑。
-</p>
-<p class="transcript-line">
-<span class="time"><strong>[00:46:47]</strong> </span>
-<span class="speaker"><strong>发言人2: </strong></span>
-当然我觉得今天最大的问题让我就是我的口味上不满意的是啥？他可能出来总有一些很矫情的话术，那种矫情怎么表达呢？就是大家赶紧带上耳机来怎么怎么收听这一期节目，这种表达的有点太夸张了，这种很矫情，这一类反正可能不在我的口味品味里面，所以说我会把这些瑕疵给改一改，手工给他改一改，我觉得让他看上去稍微朴素一点，不要太夸张的表达。这是可能一些AI今天确实能全自动的去帮你做一些事情，还是特别是在文字工作方面，可能还是有一些不足的地方。对，这一块是先需要落实。总之来说，我们今天反正从制作整个节目的介绍这件事儿的时间成本已经降到很低了。我现在几乎反正拿到了settle给的音频过后，我可能用半个小时，可能有时候20分钟，就反正就把它给发到小易手上去了，不太会花很长的时间在这件事情上的，然后再说一下全平台同步，因为我们一上来博客就是希望做全平台做同步的。
-</p>
-<p class="transcript-line">
-<span class="time"><strong>[00:47:52]</strong> </span>
-<span class="speaker"><strong>发言人2: </strong></span>
-当然我们的托管员是在小一周，小一周是我们第一步发布的地方，但实际上我们是希望要他要同步到比如苹果podcast spotify还有youtube等等国内的其他的一些平台，什么喜马拉雅QQ音乐等等等等。那一刚开始这里面有很多的平台，他们不支持那种RSS的同步，所以说要到处每一个去传一次其实很麻烦。因为这种事情就是没有意义的事情，所以他做起来就比较烦躁。但是今天其实像什么youtube、spotify等等，大家都已经支持了全RSS的同步，包括国内的平台其实都是的。所以说今天其实你只需要上传消息者过后就自动帮你同步到全球所有平台。所以这件事情它本身就已经很容易了。当然这里面也包括你开通了RS，然后也可以自动同步到我们pod OS，都是一样的。对，所以说这种全球分发是一个非常容易的事情了，这个不会浪费大家太多的时间。
-</p>
-<p class="transcript-line">
-<span class="time"><strong>[00:48:53]</strong> </span>
-<span class="speaker"><strong>发言人2: </strong></span>
-当然提到这里，其实我我们也发现像有一些新的平台，比如像微博。我们都知道微博可能也是在这一两年开始也去做播客这些，还有网易云音乐，对吧？他们也去支持播客。这个媒体也发现他们还有专门的运营人员来找上我们，希望我们把节目也分发到像微博、网易云这些地方去。今天好在他们一上来都支持RS，所以说这次分发都变得异常的简单了。对我提这一个点只是告诉大家说，现在这些平台的竞争也还挺激烈的。可能比我们想象他们在背后可能都不断的在挖掘这些主播，大家怎么样到我们的平台上来了，我们给你一些什么流量，推广这些。对，反正都有这样的一些操作。
-</p>
-<p class="transcript-line">
-<span class="time"><strong>[00:49:38]</strong> </span>
-<span class="speaker"><strong>发言人2: </strong></span>
-其实讲到这儿，我们的整个发布流程就已经结束了。但是对我来说，我觉得可能在这儿不是真正的结束。因为我觉得说当你一个节目发布出去过后，特别是你是一个能启动的新账号哈那后面其实有一个很大的过程，就是你怎么去推广你的节目。你如果是能启动，你本身就是一个素人，你又不是一个大网红的情况下的话，那我觉得这件事情真的很难。但我们这里今天这儿没有什么方法去告诉大家。但是我觉得因为这档节目，大家听完了可能想去做一个自己的博客。那你在做一个自己博客之前，可能把这件事情想清楚，你是不是能够坚持，能够去完成你的冷启动。
-</p>
-<p class="transcript-line">
-<span class="time"><strong>[00:50:15]</strong> </span>
-<span class="speaker"><strong>发言人2: </strong></span>
-你有没有自己的一些推广的方法和推广的渠道，准备怎么去推广？我觉得这些问题可能是你要事先回答的对，因为在我的身边已经有人录了两期播客节目。但是录完了过后就来问我说，怎么小宇宙那个收听量只有几个人了，完全没人听。很多新号上来都会有这个疑问，大家可以到小红书上去搜一下。很多人都在问，就录一档播客节目放到小椅子上完全没人听，那个播放量就是个位数的，个位数可能还是自己身边的朋友，自己发的朋友圈别人听的。
-</p>
-<p class="transcript-line">
-<span class="time"><strong>[00:50:50]</strong> </span>
-<span class="speaker"><strong>发言人2: </strong></span>
-然后我身边还有一个做博客的，但他已经坚持了挺多期了，已经有坚持了二三十期了，但是他还是流量，没有多少流量。我只是想说就是说可能我们今天分享了很多录播课的技巧，装备、设备这些东西，但是这些东西可能不是最难的。我觉得你最后你能不能坚持让你的博客最后真的能够成功，能够有一定的流量。我觉得这件事情真的可能很难，我可能不会达到你的期望。他更不说赚钱这件事了。
-</p>
-<p class="transcript-line">
-<span class="time"><strong>[00:51:23]</strong> </span>
-<span class="speaker"><strong>发言人1: </strong></span>
-对流量的这个问题，我们自己应该是属于比较幸运的对吧？就一开始包括微博上面被别人发现，包括小宇宙可能前几期然后给我们推广，让我们度过了一个我觉得已经算很好的前期了。对，就这个前期里面其实我们已经积累了一定的量了，对，后续才能慢慢的才能做起来。
-</p>
-<p class="transcript-line">
-<span class="time"><strong>[00:51:42]</strong> </span>
-<span class="speaker"><strong>发言人1: </strong></span>
-对，但其实现在我就我们站在小宇宙的角度，他现在其实在做什么事儿，就是小宇宙其实还是一直在推很头部的博客。我觉得这个里面，因为现在博客的流量就这么大对从小宇宙自己的角度上面来讲，它需要推出几个在商业上非常成功的博客，来让这个事情做得更大对所以说当下对于那种星座的号来讲，就是你是一个新主播，然后可能不是那么友好。包括我们自己也是的。我们自己如果有被小宇宙官方首页上面推荐的内容跟不是首页推荐的内容，那在流量上面的差异也会非常大。反倒我们在别的平台，就是非小宇宙平台上面的量相对来讲非常的稳定。所以说我觉得这个也是真的要去思考的。
-</p>
-<p class="transcript-line">
-<span class="time"><strong>[00:52:30]</strong> </span>
-<span class="speaker"><strong>发言人1: </strong></span>
-就是你如果真的想去做博客的话，是不是说你能够比较好的度过这个前期？然后能不能一开始就把自己的节目推广成功，或者一开始就有固定数量的粉丝，然后能够喜欢你的节目。当然我觉得这个讲的就比较大了，如果你想讲的话，讲的比较大了，包括你博客的定位，包括你自己的剪辑的能力，然后录制的能力等等这些的我觉得可能都会有比较大的影响。当然这里我觉得一笑讲的很对，我们要给大家打个预防针，就是如果你想做的话，可能要考虑到这一点。
-</p>
-<p class="transcript-line">
-<span class="time"><strong>[00:53:01]</strong> </span>
-<span class="speaker"><strong>发言人3: </strong></span>
-对，虽然播客相对别的内容上来说，制作上可能相对简单一些，推广在什么内容上其实都是一样的。而且可能因为像视频那样的受众更多，你推广起来反而会更简单一些，相对是吧？对，好，最后了我们可以给听众老爷们分享一下后续关于我们印第骇客这个节目的规划。后续对于内容上我们有什么打算呢？
-</p>
-<p class="transcript-line">
-<span class="time"><strong>[00:53:25]</strong> </span>
-<span class="speaker"><strong>发言人1: </strong></span>
-对内容上面我们还是有一些想法的对当然当前的这些品类，就包括访谈，我们肯定还是会持续做下去的。接下来其实有很多嘉宾我们也已经约好了，之前其实我们也提到视频，其实我觉得不排除我们后续会出一些视频类型的节目。我觉得其实教程类的节目是非常适合出视频的对，比如说我们其实有出过几期像next GS，像LOM对吧？像我们这期其实讲播客，有播客的成绩的，然后也有教一些大家说播客应该怎么做。然后我们自己的一些经验，其实出视频类型的节目也挺好的。
-</p>
-<p class="transcript-line">
-<span class="time"><strong>[00:54:00]</strong> </span>
-<span class="speaker"><strong>发言人1: </strong></span>
-对，就是另外一个其实我一直想做一种很创新类型的，就是有点类似现在直播形式的。比如说我不知道大家有没有看李诞最近在小红书上直播，就是经常在念信，什么乱七八糟的对，就现在有很多这样的直播形式，念一些观众来信，然后大家在一起喝水水之类的。就是我其实特别想做resting产品的这种节目。
-</p>
-<p class="transcript-line">
-<span class="time"><strong>[00:54:23]</strong> </span>
-<span class="speaker"><strong>发言人1: </strong></span>
-对，比如说假如真的是直播，然后大家可以上来一起分享一下自己的idea。或者说你拿你的landing page上来，大家一起看一下？这个landing page到底怎么样，有没有一些付费转化率可能不太好。然后大家一起上来看，不一定是我们三个，我们可能会找一些别的嘉宾。对我之前一直觉得说做播客可能也能做，但是总感觉这种东西可能还是比较适合视频类型的。因为你能看到产品吗？或者说你能给大家展示到说他到底是一个什么样的东西。
-</p>
-<p class="transcript-line">
-<span class="time"><strong>[00:54:50]</strong> </span>
-<span class="speaker"><strong>发言人1: </strong></span>
-对，但我不知道说这个事情有多少人有兴趣参与，我觉得有兴趣参与的朋友也可以在下方给我们留言。我们看看说这个需求大家到底喜不喜欢，然后到底能不能做对。然后我觉得打算上面除了内容上面，我们可能还要做这些之外，还有一部分就是在业绩上面，我们会去看一下，有没有一些更好的商务机会。对我觉得大家有什么更好的建议也可以给到我们。因为好的商务这件事儿就是能让我们好的内容能够持续的产出。
-</p>
-<p class="transcript-line">
-<span class="time"><strong>[00:55:19]</strong> </span>
-<span class="speaker"><strong>发言人1: </strong></span>
-对我觉得这件事还是蛮重要的。所以总的来说的话，如果我们产出了好的内容，然后这个好的内容匹配上了一些好的流量。最终给我们带来了好的业绩，我觉得这个也是一个正循环。好的业绩然后再催生我们出更好的内容。对我觉得这个是我们后续的一个比较长远的一个规划，也希望说大家能持续支持我们，然后我们也会持续努力的对OK.
-</p>
-<p class="transcript-line">
-<span class="time"><strong>[00:55:42]</strong> </span>
-<span class="speaker"><strong>发言人3: </strong></span>
-好的，今天关于我们自己这个频道聊了很多，大家也能看到做播客其实不赚什么钱，也可能是我们在播客赚钱这件事上不够擅长，那我们为什么还能坚持下来？我觉得跟大家对于我们内容的一贯支持和喜爱是离不开的。更重要的是在这个不断的输出以及大家的批评指正下面，我们在印第骇客这条路上也越走越远了。这是一个完美的正循环。如果大家一路听我们内容的话，你会发现我们真的是属于养成系博客了。从第一期到第82期，能看到我们对于印度骇客这个名词越来越深刻的认知。希望我们后续也可以继续陪伴各位听友们在这条路上越走越远。
-</p>
-<p class="transcript-line">
-<span class="time"><strong>[00:56:22]</strong> </span>
-<span class="speaker"><strong>发言人3: </strong></span>
-好的，我们本期节目就先到这里，欢迎大家在评论区下方和我们留言，与我们一起讨论。当然也欢迎大家加入知识星球，与我们和往期嘉宾一起畅聊。那我们本期节目就先到这里，大家拜拜。
-</p>
-<p class="transcript-line">
-<span class="time"><strong>[00:56:37]</strong> </span>
-<span class="speaker"><strong>发言人1: </strong></span>
-以上就是我们本期播客的全部内容，感谢大家收听，也欢迎大家踊跃留言。如果你喜欢我们，欢迎点赞并分享给感兴趣的朋友。如果你在用苹果播客收听，也希望你花几秒钟给我们一个好评，这会让更多的人了解到我们要是能再点击一下订阅，那就再好不过了，我们下周见。
-</p>]]></content:encoded>
-            <pubDate>Tue, 05 Nov 2024 22:00:00 GMT</pubDate>
-            <guid>672a3cd56c53cd405a2ffbde</guid>
         </item>
     </channel>
 </rss>
