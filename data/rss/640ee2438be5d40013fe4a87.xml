@@ -4,9 +4,888 @@
         <title>硬地骇客</title>
         <link>https://www.xiaoyuzhoufm.com/podcast/640ee2438be5d40013fe4a87</link>
         <description>一起探讨技术、产品和商业之美</description>
-        <lastBuildDate>Wed, 10 Sep 2025 04:59:02 +0800</lastBuildDate>
+        <lastBuildDate>Tue, 30 Sep 2025 04:50:54 +0800</lastBuildDate>
         <item>
-            <title>EP113 如何用网红矩阵和事件引擎，打造年收千万美元的 AI 面试神器 ｜专访 Michael</title>
+            <title>EP114 对话小宿科技 CEO William：深入探讨 AI Agent 规模化落地的核心挑战</title>
+            <link>https://www.xiaoyuzhoufm.com/episode/68d90738b4befcf7305109ef</link>
+            <description>本期《硬地骇客》采访了小宿科技的 CEO William，探讨了 AI Agent 基础设施（Agent Infra）与传统 AI 基础设施的区别，以及小宿科技如何为 AI Agent 提供从搜索、模型到算力的一站式解决方案，解决 Agent 规模化落地的痛点。William 分享了他们如何与头部 Agent 合作，根据客户需求定制产品，以及对通用 Agent 和垂直 Agent 关系的看法。他还谈到了创业的挑战、团队建设的重要性，以及对 AI 行业未来发展的看法，强调了合规性和长期价值的重要性。
+以下是本期节目亮点：
+* AI Agent 创业公司所需的基础设施顺序与传统创业公司相反，他们首先需要的是模型调用和数据工具，然后才是云服务。
+* 传统搜索 API 提供的结果形态与 Agent 的需求不符，Agent 需要的是相关性完整度最高的多个结果，而不是最吸引眼球的单条结果。
+* AI 渗透率仍然很低，除了 OpenAI 之外，其他所有 AI 产品的渗透率都是个位数，甚至零点几。
+* 早期建立壁垒不是最重要的，最重要的是能顺应浪潮，随着市场一起增长。
+* 二级市场的经历让 William 知道什么事情不能做，做了就完蛋。
+本shownotes由 castwise.ai 制作
+Podwise - Podcast Knowledge at 10x Speed!
+podwise.ai
+Apple Store 下载👉🏻 apps.apple.com
+硬地笔记
+* 00:00:04大模型时代的基础设施新机遇
+* 00:06:12小宿科技的业务模式与客户服务策略
+* 00:17:04客户规模、营收现状与市场前景展望
+* 00:27:00AI 成本挑战与小宿科技的产品线布局
+* 00:35:34小宿智能搜索的差异化优势与市场竞争分析
+* 00:45:32数据源问题、合规性考量与通用 Agent 的未来
+* 00:58:55从投资人到创业者的心态转变与经验分享
+扩展笔记：castwise.ai
+欢迎关注我们
+* 知识星球:t.zsxq.com
+* 官网: hardhacker.com
+* 小手册: book.hardhacker.com
+* 用爱发电不容易，请我们喝咖啡☕️: afdian.net
+* 公众号/小红书: 硬地骇客
+* 商务合作: hardhackerlabs@gmail.com
+* 另外，现在加入「硬地骇客」会员服务，即可在会员专属的微信群与其他朋友一起畅所欲言，成为会员也是对我们持续更新最大的鼓励！</description>
+            <content:encoded><![CDATA[<h1>转写链接</h1>
+<link>https://tongyi.aliyun.com/efficiency/doc/transcripts/gpjbqklmw85k9k2a</link><br>
+<h1>节目摘要</h1>
+<div class="summary">本期异地骇客节目聚焦AI技术，特别是大模型的快速发展及其对创业机会的影响。讨论着重于一款名为Auto wise的AI学习软件，强调了AI在播客内容转录、提取与分析中的关键作用。节目中，一位CEO分享了小数科技如何利用agent infrared技术解决AI代理商面临的挑战，展示了商业模式的创新与应对合规性、市场变化的策略。节目旨在深入探讨AI行业趋势、技术进展与创业策略，为听众提供对未来发展的洞察。</div><br>
+<h1>章节速览</h1>
+<div class="chapters">
+<div class="chapter-item">
+<span class="time"><strong>[00:00:00]</strong> </span>
+<span class="chapter-title"><strong>AI Agent基础设施与全球化挑战</strong></span>
+<div class="chapter-summary">对话围绕AI Agent基础设施展开，介绍了为AI Agent提供一站式解决方案的服务，涵盖搜索、模型管理和算力支持，旨在解决数据质量和可靠性问题，助力AI Agent规模化落地，同时强调了服务对全球化问题的解决能力，鼓励AI Agent专注于产品和业务发展。</div>
+</div>
+<div class="chapter-item">
+<span class="time"><strong>[00:02:49]</strong> </span>
+<span class="chapter-title"><strong>AI Infra与Agent Infra：基础设施需求的转变</strong></span>
+<div class="chapter-summary">讨论了AI Infra与Agent Infra的区别，指出新一代AI创业者的基础设施需求顺序与传统不同，更侧重于模型调用、工作流设计、数据和搜索服务，而云服务的使用则在产品规模化后才考虑。</div>
+</div>
+<div class="chapter-item">
+<span class="time"><strong>[00:06:11]</strong> </span>
+<span class="chapter-title"><strong>AI Native搜索API的定制化需求与创新</strong></span>
+<div class="chapter-summary">对话讨论了AI Native搜索API如何根据客户需求进行定制化，以适应Agent和联网搜索的特殊需求，如提供完整度高的结果、更长摘要或全文，以及读取URL和PDF等功能，展现了与传统搜索API的差异及未来发展方向。</div>
+</div>
+<div class="chapter-item">
+<span class="time"><strong>[00:11:02]</strong> </span>
+<span class="chapter-title"><strong>头部客户定制与腰部客户赋能：搜索API服务的商业模式探讨</strong></span>
+<div class="chapter-summary">讨论了通过服务头部客户，将先进经验与技术应用到腰部客户群体的战略，特别是搜索API服务的商业模式，强调了头部客户在市场洞察和需求引领方面的重要性，以及定制化功能开发与成熟付费模式的结合。</div>
+</div>
+<div class="chapter-item">
+<span class="time"><strong>[00:14:32]</strong> </span>
+<span class="chapter-title"><strong>大模型市场潜力与早期服务探索</strong></span>
+<div class="chapter-summary">对话探讨了大模型市场潜力，强调了早期优质客户的重要性及服务价值。提到客户群体包括上一代互联网从业者，尤其关注掐尖阿里云优质客户，认为每个agent垂类有巨大增长空间。公司正以KA客户标准服务所有领先agent，虽当前收入较小，但重视市场探索与客户合作。提及营收接近3000万美元，认为大模型市场未来将超过公有云，且搜索作为推理工具有极大增长潜力。市场资金充裕，看好大模型作为投资方向。</div>
+</div>
+<div class="chapter-item">
+<span class="time"><strong>[00:20:16]</strong> </span>
+<span class="chapter-title"><strong>AI创业与资本周期：渗透率提升的挑战</strong></span>
+<div class="chapter-summary">讨论了全球华人创业者在选择资金来源时应优先考虑产品和服务的快速扩展，而非过分关注投资方背景。强调了在AI领域，提高用户渗透率和产品粘性是关键挑战，特别是在吸引早期用户和跨过技术鸿沟方面。指出AI作为生活方式和工作模式的渗透仍处于早期阶段，需充分利用资本周期，顺应用户和资本方向。</div>
+</div>
+<div class="chapter-item">
+<span class="time"><strong>[00:26:31]</strong> </span>
+<span class="chapter-title"><strong>AI成本与效果评估：人与AI的对比分析</strong></span>
+<div class="chapter-summary">讨论了AI在不同场景下的成本与效果，指出AI并非在所有情况下都优于人类，尤其是在教育和长期服务领域，人类的表现可能更佳。同时，强调了AI使用成本的增长问题，以及在部分案例中AI并未显著降低成本的事实。</div>
+</div>
+<div class="chapter-item">
+<span class="time"><strong>[00:28:17]</strong> </span>
+<span class="chapter-title"><strong>AI云平台与边缘计算在现代企业中的融合应用</strong></span>
+<div class="chapter-summary">讨论了AI云平台如何从传统的多云管理服务商转型，结合边缘云技术解决合规与效率问题，同时满足企业对一站式AI基础设施的需求。重点介绍了云平台在AI场景下的新应用，如智能路由和模型聚合，以及这些变化如何简化企业采购流程，提升客户体验。</div>
+</div>
+<div class="chapter-item">
+<span class="time"><strong>[00:32:47]</strong> </span>
+<span class="chapter-title"><strong>提升SIA平台稳定性和搜索能力</strong></span>
+<div class="chapter-summary">讨论了SIA平台通过智能路由提升底层资源稳定性，同时提到搜索能力需与工程能力同步提升，以应对千万级调用量，强调了团队的创业精神和能力配置。</div>
+</div>
+<div class="chapter-item">
+<span class="time"><strong>[00:35:50]</strong> </span>
+<span class="chapter-title"><strong>智能搜索技术对比与合规性风险分析</strong></span>
+<div class="chapter-summary">对话深入讨论了三种智能搜索技术路径的区别，包括逆向工程利用Google等现有搜索结果的方法，虽然质量高但存在合规性和稳定性问题；以及基于底层数据库模型的服务，如吉娜，其在网页阅读效率和成功率上表现更优。同时指出，小数智能搜索技术在产品线演进和合规性方面具有优势，特别是在处理复杂数据源和提供稳定服务方面。</div>
+</div>
+<div class="chapter-item">
+<span class="time"><strong>[00:41:22]</strong> </span>
+<span class="chapter-title"><strong>Extra融资成功的背后逻辑</strong></span>
+<div class="chapter-summary">讨论了美国搜索领域的几家竞争对手，包括老牌厂商Tabi、U点com、Brief及Fire Crown。尽管Extra在体量上最小，但因其专注于原生搜索方式，符合AI时代需求，且团队强大，获得了Benchmark的8亿美元投资。强调了选择正确道路的重要性，而非单纯追求量的大小。</div>
+</div>
+<div class="chapter-item">
+<span class="time"><strong>[00:45:30]</strong> </span>
+<span class="chapter-title"><strong>AI搜索与数据源挑战：合规性与解决方案</strong></span>
+<div class="chapter-summary">讨论了AI搜索面临的私域数据挑战，强调了合法合规获取数据的重要性。提出通过技术和资源投入解决部分垂直领域的搜索需求，但对于版权内容和私域数据，需依赖合作或替代方案。指出全球搜索需考虑不同地区的权威性定义，确保实质合规，建议避免违法手段获取数据，以建立长久的业务关系。</div>
+</div>
+<div class="chapter-item">
+<span class="time"><strong>[00:50:46]</strong> </span>
+<span class="chapter-title"><strong>通用Agent与垂直Agent的发展趋势探讨</strong></span>
+<div class="chapter-summary">讨论了在编码领域中Agent模式的实用性与普及性，指出通用Agent并非全面覆盖三百六十行，而是偏向特定方向，如办公效率或知识应用。同时，垂直Agent在细分领域内发展，如编码、法律等，且可能向平台化或更垂直方向分化。强调在垂直领域解决核心问题的重要性，而非泛泛而谈。</div>
+</div>
+<div class="chapter-item">
+<span class="time"><strong>[00:56:37]</strong> </span>
+<span class="chapter-title"><strong>从投资人到创业者：视角转变与挑战</strong></span>
+<div class="chapter-summary">从投资人的挑剔视角转向创业者的实践体验，深刻认识到创业的不易与团队的重要性。早期阶段，创业公司需顺应市场浪潮快速成长，而非过分关注壁垒。人才的组织与编排是创业成功的关键，尤其是具备创业精神的核心领导者。创业过程中，面对资源不足时，优秀的创业者能够手搓解决问题，展现出极强的执行力和创新精神。</div>
+</div>
+<div class="chapter-item">
+<span class="time"><strong>[01:06:11]</strong> </span>
+<span class="chapter-title"><strong>二级市场经验与创业方向选择</strong></span>
+<div class="chapter-summary">对话深入探讨了二级市场经验对创业者在选择商业模式和避免不良商业行为方面的重要影响。强调了认识好商业模式的价值，以及在创业过程中如何避开可能损害长期发展的短期利益陷阱。分享了对AI领域创业的见解，包括全球化的必要性和利用特定工具与平台的优势，鼓励创业者之间加强交流与合作。</div>
+</div>
+</div><br>
+<h1>问题回顾</h1>
+<div class="qa-item">
+<div class="question"><strong>Q:</strong> 大家好，欢迎收听本期节目。首先请威廉·小苏科技的联合创始人和CEO，介绍一下你们的产品和业务定位是什么？</div>
+<div class="answer"><strong>A:</strong> 大家好，我是William，我是小数科技的联合创始人和CEO。我们专注于提供针对AI agent的基础设施产品，致力于解决规模化落地的痛点，特别是针对agent推理中的数据质量和可靠性问题。我们通过搜索和多种API提供高质量实时数据，并解决模型分散管理合规部署的问题，为全球的AI agent提供一站式解决方案，帮助他们更好地关注自身的产品和业务。</div>
+</div>
+<div class="qa-item">
+<div class="question"><strong>Q:</strong> 能否解释一下“agent inference”与“AI inform”的区别？</div>
+<div class="answer"><strong>A:</strong> “agent inference”更侧重于针对AI agent的需求，比如模型调用、工作流设计等，而“AI inform”则更多地与底层计算存储等传统云环境相关。新一代创业者在构建AI native产品时，初期可能并不需要传统的SaaS服务，而是先依赖模型调用和数据搜索工具，随着业务规模扩大再考虑使用公有云服务。</div>
+</div>
+<div class="qa-item">
+<div class="question"><strong>Q:</strong> 小苏科技为何会看重并选择面向B端做这个生意？是先有客户找到你们还是你们先内部研发产品再找用户？</div>
+<div class="answer"><strong>A:</strong> 我们选择面向B端市场是基于团队有基础设施基因的背景以及客户需求。我们的产品并非完全按照自己的定义来设计，而是按照客户需求进行定制。在与头部企业紧密合作的过程中，发现传统搜索API无法满足前沿agent的需求，从而决定从搜索着手，打造符合AI native需求的客制化搜索引擎。</div>
+</div>
+<div class="qa-item">
+<div class="question"><strong>Q:</strong> 对于大客户的搜索服务，是提供云服务还是让客户自己部署？</div>
+<div class="answer"><strong>A:</strong> 搜索服务相对轻量化，多数情况下以API形式调用。对于大客户，商业模式主要是按照搜索调用次数付费。目前，我们以轻量化的云服务形态为主，为客户定制新的功能，而不是提供私有化部署服务。</div>
+</div>
+<div class="qa-item">
+<div class="question"><strong>Q:</strong> 你们现在的客户规模怎么样？现阶段的营收状况如何？</div>
+<div class="answer"><strong>A:</strong> 我们目前接近千个客户，但还未到一千，所有客户我们都认为是KA（关键账户）。从收入规模上看，相较于去年底ARR（年度经常性收入）的数字，我们的ARR在经过翻倍增长后，现在接近3000万美金的规模。</div>
+</div>
+<div class="qa-item">
+<div class="question"><strong>Q:</strong> 随着大模型的发展，API消耗量会大幅增长，尤其是推理场景，这对搜索业务意味着什么？</div>
+<div class="answer"><strong>A:</strong> 大模型的API消耗量伴随着推理场景的增长，尤其是搜索作为新一代推理工具，其需求量将大幅增长，可能有50到100倍的增长空间，甚至更多。</div>
+</div>
+<div class="qa-item">
+<div class="question"><strong>Q:</strong> 在当前环境下，对于全球中国公司而言，如何利用资本周期和投资方向？</div>
+<div class="answer"><strong>A:</strong> 在全球中国公司创业过程中，建议抓住当前充裕的资本市场环境，快速筹集资金做好产品，做大用户规模，再考虑如何定义自身身份。不必过分纠结于使用人民币还是美元投资，关键是利用好资本周期来推动企业发展。</div>
+</div>
+<div class="qa-item">
+<div class="question"><strong>Q:</strong> AI行业的PR环境与过去有何不同？</div>
+<div class="answer"><strong>A:</strong> AI行业相比互联网行业，PR环境有所不同，上一代互联网产品如快手、美团、滴滴等可通过自然传播获取用户，而AI领域需要更多主动吸引用户，PR在此类产品的推广中扮演着重要角色。</div>
+</div>
+<div class="qa-item">
+<div class="question"><strong>Q:</strong> AI渗透率的挑战主要是什么？</div>
+<div class="answer"><strong>A:</strong> AI渗透率的挑战首先是整体商业模式的生活和工作模式渗透率还处于早期阶段，其次是成本问题，AI和人工的成本对比并非总能体现出AI的优势，且长期维持图灵测试通过的能力对于AI来说是难点。</div>
+</div>
+<div class="qa-item">
+<div class="question"><strong>Q:</strong> 贵公司的AI云平台具体是怎样的服务？</div>
+<div class="answer"><strong>A:</strong> 我们的AI云平台结合了边缘云和模型聚合等能力。最初我们提供传统云和边缘云服务，随着AI的发展，边缘云因合规性和效率问题变得更重要，同时传统公有云上需要一层新的PaaS层来适配AI应用。我们的AI云平台不仅支持模型服务，还具备CDN和路由能力，帮助客户灵活合规地使用各种模型服务，并解决了客户的多需求问题，让一个供应商能够满足客户在AI、搜索、安全等多个方面的基础设施需求。</div>
+</div>
+<div class="qa-item">
+<div class="question"><strong>Q:</strong> 现在很多客户希望一站式解决采购和供应商管理问题，能否谈谈小素在工作中如何提高服务稳定性？</div>
+<div class="answer"><strong>A:</strong> 稳定性方面，模型侧和搜索侧不同。模型服务涉及到底层供应商的稳定性，比如DCP服务的波动。为保证服务稳定，我们不仅使用GCP资源，还结合原厂和AWS资源，有效应对底层资源挤占等问题。智能路由技术根据实时资源质量进行动态分配，确保服务不因底层波动而受影响。</div>
+</div>
+<div class="qa-item">
+<div class="question"><strong>Q:</strong> 搜索服务的底层构建与传统搜索有何不同？</div>
+<div class="answer"><strong>A:</strong> 搜索服务的底层建设与传统搜索有很大差异。模型服务依赖于对供应商稳定性监控及路由优化，而搜索服务则完全由自己掌控，从建库、索引更新到算法召回等环节均自主管理，对工程能力的需求与搜索调用量直接相关。</div>
+</div>
+<div class="qa-item">
+<div class="question"><strong>Q:</strong> 使用server AI手搓或调用其他服务（如gina x）进行搜索与小数的智能搜索有何区别？</div>
+<div class="answer"><strong>A:</strong> 使用server AI或类似gina x的产品进行搜索时，可能存在合规性风险、稳定性问题以及需要大量手搓工作的问题。这些方案可能复制其他搜索引擎的结果，但缺乏原创性和灵活性，且在面对搜索引擎反扒策略更新时稳定性会受影响。相比之下，小数的智能搜索更注重底层技术和创新，致力于提供更优质的服务体验。</div>
+</div>
+<div class="qa-item">
+<div class="question"><strong>Q:</strong> 对于国内搜索引擎获取数据源的问题，例如百度搜索缺少某些平台的数据源，如何解决？</div>
+<div class="answer"><strong>A:</strong> 解决数据源问题需考虑通收（通用搜索）与垂域搜索结合的方式。对于能通过搜索引擎解决的垂域信息（如学术、医疗、法律等），可通过建立独立索引进行补充；而对于版权内容等无法通过通用搜索解决的垂域数据，可能需要通过定制化解决方案或技术投入来获取和利用这些资源。</div>
+</div>
+<div class="qa-item">
+<div class="question"><strong>Q:</strong> 思域这个事件中，基础设施服务商是否能找到解决方案？</div>
+<div class="answer"><strong>A:</strong> 作为基础设施服务商，没有直接的解决方案。只能与垂域的人合作，通过他们开放私域或者寻找alternative来提供解决方案，或者为每次点击或调用付费。</div>
+</div>
+<div class="qa-item">
+<div class="question"><strong>Q:</strong> 通过违法手段解决问题是否是长久之道？</div>
+<div class="answer"><strong>A:</strong> 不是长久之道，不仅在国内，在美国也存在通过违法手段获取数据的问题，但在推理过程中使用这些数据会被发现并面临法律风险。</div>
+</div>
+<div class="qa-item">
+<div class="question"><strong>Q:</strong> 国内搜索与全球海外搜索是否为两个独立体系？</div>
+<div class="answer"><strong>A:</strong> 是的，国内搜索和全球海外搜索是两个完全不同的体系，尤其在权威性定义上有所不同。例如，在处理合规性问题时，需要根据不同地区政府对信息的定义进行调整。</div>
+</div>
+<div class="qa-item">
+<div class="question"><strong>Q:</strong> 对于客户使用数据时的合规性要求是什么？</div>
+<div class="answer"><strong>A:</strong> 首先要确保自身合法合规，不能采买不合规的数据，以避免将来的法律纠纷。</div>
+</div>
+<div class="qa-item">
+<div class="question"><strong>Q:</strong> agent在编码领域的应用及通用agent与垂直agent的关系？创业过程中如何发现并覆盖新的agent？</div>
+<div class="answer"><strong>A:</strong> agent在编码领域广泛应用，且普遍接受其有效性。通用agent目前主要偏向办公效率和知识应用，而垂直agent如coding agent则根据具体应用场景（如部署环境、代码审查等）分化为多个细分领域。两者在未来可能存在交叉融合，各自在特定方向上寻求突破和发展。通过BD团队与顶尖高校、大厂及创业者保持紧密联系，及时了解和评估新的agent项目，并与潜在合作方建立深度关系，以便更早地接触到创新企业并参与其中。</div>
+</div>
+<div class="qa-item">
+<div class="question"><strong>Q:</strong> 投资别人与自己创业的心态有何不同？</div>
+<div class="answer"><strong>A:</strong> 自己创业后发现，从评价他人商业模式转变为认识到管理团队、应对挑战的困难，以及在早期发展阶段，壁垒并非最重要的因素，更重要的是抓住市场浪潮快速成长。同时，对于人才和团队的认知也更加深刻，创业过程中对团队能力和综合领导力的需求远超二级市场投资时的个人决策。</div>
+</div>
+<div class="qa-item">
+<div class="question"><strong>Q:</strong> 在创业过程中，是否有些人并不适合创业，更适合在大厂工作？</div>
+<div class="answer"><strong>A:</strong> 是的，确实存在这样的人。他们可能在大厂中表现出色，是优秀的工程师或领导者，但在创业环境中可能并不适应，需要与人协作才能发挥所长。</div>
+</div>
+<div class="qa-item">
+<div class="question"><strong>Q:</strong> 如果找了一个原本在大厂工作、能力不错但缺乏创业精神的人作为创业者，会有什么问题？</div>
+<div class="answer"><strong>A:</strong> 当你真正想推进事情时，会感到非常无力和痛苦，因为他们会依赖资源、条件，而非主动去解决问题，执行力不足。</div>
+</div>
+<div class="qa-item">
+<div class="question"><strong>Q:</strong> 优秀的创业者有什么共同特质？是否有特别建议给到AR领域的创业者？</div>
+<div class="answer"><strong>A:</strong> 优秀的创业者具备“手托”的精神，即使没有现成的服务商或供应商，也会先自己摸索解决，先动手做起来再说。AR领域的创业者应当不断商业化并建立客户关系，尽管AR本身可能不是最核心的部分。同时要警惕一些快速赚钱的方式，比如倒卖数据或算力，这些看似能短期获利，但长远来看可能破坏合规性，对企业发展并无益处。</div>
+</div>
+<div class="qa-item">
+<div class="question"><strong>Q:</strong> 在创业阶段，与二级市场的投资相比，有何不同之处？</div>
+<div class="answer"><strong>A:</strong> 在二级市场中，投资者可以通过研究员的研究来选择有一定规模且商业模式较好的公司进行投资。而在创业阶段，由于难以立即建立核心壁垒，投资者需更多关注商业模式本身，并认识到什么方向是不可行的，从而避免走弯路和潜在风险。</div>
+</div>
+<h1>节目文稿</h1>
+<p class="transcript-line">
+<span class="time"><strong>[00:00:04]</strong> </span>
+<span class="speaker"><strong>发言人1: </strong></span>
+大家好，欢迎收听异地骇客。我是seattle，我是一笑。
+</p>
+<p class="transcript-line">
+<span class="time"><strong>[00:00:08]</strong> </span>
+<span class="speaker"><strong>发言人2: </strong></span>
+我是龟龟。
+</p>
+<p class="transcript-line">
+<span class="time"><strong>[00:00:09]</strong> </span>
+<span class="speaker"><strong>发言人1: </strong></span>
+本期节目由power wise赞助播出。Auto wise是一款为播客听众制作的AI学习软件产品的slogan是read before listen。Auto wise通过AI对播客内容进行转录提取、总结分析等一系列操作，帮你掰开了揉碎了硬核的播客内容。同时与notion RED、wise等平台的打通，嵌入知识管理工作流，协助您的其他包括新闻newsletter blog的内容，帮你打造第二大脑。Hot wise也为本期听众准备了三个5折优惠码。
+</p>
+<p class="transcript-line">
+<span class="time"><strong>[00:00:41]</strong> </span>
+<span class="speaker"><strong>发言人1: </strong></span>
+针对本期在小宇宙与我们互动的精选回复，欢迎大家踊跃来玩。好的，那开始我们本期的节目。好，大家好，欢迎收听英迪艾克。
+</p>
+<p class="transcript-line">
+<span class="time"><strong>[00:00:50]</strong> </span>
+<span class="speaker"><strong>发言人1: </strong></span>
+过去这两年就大模型的进化速度实在是令人眼花缭乱，几乎每隔几个月就会有一个新网登记，从ChatGPT4到国内，现在的各种模型真的是一代比一代强。作为开发者，你可能经常需要在不同的模型之间去做切换。那对于大模型厂商来说，这个可能是一个挺残酷的一个竞争，但是对于做info的公司来说，这个反而是一个天大的机会。我们今天非常开心的请到小苏科技的CEO William，来聊聊他们怎么在agent infrared这个赛道找到突破口的，欢迎William，William先给大家打个招呼，可以顺道介绍一下你跟你的公司的产品。
+</p>
+<p class="transcript-line">
+<span class="time"><strong>[00:01:28]</strong> </span>
+<span class="speaker"><strong>发言人2: </strong></span>
+大家好，我是willing，我是小数科技的联合创始人和CEO，我们其实做的是针对AI agent的一个基础设施的产品，我们提供的是从搜索到模型再到算力的一个一站式的解决方案。其实解决的是agent规模化落地的痛点。提供一个链路里面比较完整的或者说最核心的几样的解决方案。对里面最核心的部分其实是解决agent推理中的数据质量和可靠性的问题。我们提供通过搜索和相关的多种API提供高质量的实时数据，然后在数据之外给AR提供他们其他所需的，比如说稳定可靠的环境，比如说这个模型分散管理合规部署的问题，这个是模型聚合平台。所以合起来我们是希望说越来越多中国珠海或者说global chinese的这些AI agent，可以通过我们的服务解决全球化里面的多数的问题。然后让他们更多的更好的focus在自己的产品和业务上。
+</p>
+<p class="transcript-line">
+<span class="time"><strong>[00:02:50]</strong> </span>
+<span class="speaker"><strong>发言人1: </strong></span>
+OK挺有意思的。我觉得你提到一个名词叫agent inflame，然后我们其实平常可能会更多听到叫AI inform。能不能大家区别一下，就是AI info跟agent info有什么区别？我现在能想到的是，比如说我们讲AI infer，可能就是卖GPU的，是吗？我不知道我的理解对不对。
+</p>
+<p class="transcript-line">
+<span class="time"><strong>[00:03:11]</strong> </span>
+<span class="speaker"><strong>发言人2: </strong></span>
+其实这个词儿可能也不是我们发明的。我这么说的一个主要的原因是因为我们在实际的业务的过程中，观察到这个AI帧的降低，大大降低了创业的门槛。我觉得日后更可能的状态是，人人包括我自己其实都可以手搓各种各样的agent。
+</p>
+<p class="transcript-line">
+<span class="time"><strong>[00:03:32]</strong> </span>
+<span class="speaker"><strong>发言人2: </strong></span>
+那这种低成本和小团队的创业其实需要的基础设施和我们在传统云环境中这个公有云的这个场景下说的基础设施，其实是啊有一定的差别的。就过去大家市场是把这个基础设施分为s pass和das那S层其实就是计算存储，传输这些东西。那这个东西其实对于大部分的agent创业者来说是不够的，甚至说他们不是第一天就需要传统的S因为新一代的创业者在AI的场景下去做一个AI native的产品的时候，甚至上来不需要云。
+</p>
+<p class="transcript-line">
+<span class="time"><strong>[00:04:14]</strong> </span>
+<span class="speaker"><strong>发言人2: </strong></span>
+甚至人家不需要传统的S服务上来，他第一个需要的其实是模型的多种模型的调用。自己设计工作流，来把怎么用模型这件事情解决好。解决好了之后，他提供大规模服务的时候，那里面用到实时的信息和数据。在推理中要用到数据的时候，他会开始调用搜索。那也有可能像比如说你们的产品可能是更多的用自己的这个知识库。用到公网搜索的时候，是自己知识库不能覆盖的时候，那可能会用到更多的公网搜索。在此基础上，整个产品上了更大的规模。
+</p>
+<p class="transcript-line">
+<span class="time"><strong>[00:05:00]</strong> </span>
+<span class="speaker"><strong>发言人2: </strong></span>
+这个时候大家才会考虑说我要不要用公有云，要不要在云上用这个e to b或者沙盒来做可信的环境。所以它跟传统或者说上一代的创业者需要的基础设施的顺序是反过来的。上一代的人是需要说我先有S不管怎么样我都要去AWS或者GCP上开一些机器，然后用一些流量。在这个基础上我设计我的sas也好，to c的各种各样的服务。然后我再用更多的工具来帮助我提供更好的服务，对吧？现在是反过来的，现在是大家先用模型再用搜索，等这个数据工具真的能做大，或者说要把更多的服务线上化之后，那才会用到云。所以我们觉得agent info和过去语境下的AI info还是有啊比较大的区别的。它更靠近客户或者说生产的实际使用，而且可能第一天我们就可以给客户提供服务。在他创业的第一天。
+</p>
+<p class="transcript-line">
+<span class="time"><strong>[00:06:12]</strong> </span>
+<span class="speaker"><strong>发言人1: </strong></span>
+我听下来小苏科技本身这个业务是面向做应用的人的，它其实本质上是一个to b的一个生意。是的，我就想问一下，你们为什么会看重去做这个生意？先有的客户找到你们说我想要这个东西？还是说你们自己先在内部先搓了一个这个产品，然后才开始找用户。
+</p>
+<p class="transcript-line">
+<span class="time"><strong>[00:06:34]</strong> </span>
+<span class="speaker"><strong>发言人2: </strong></span>
+我觉得这个理念和背景都是很清晰的。第一就是我们的三个核心创始人的团队，其实是比较有基础设施基因的。之前做过data center，做过CDN。在这个infer层，特别是pass层，其实是有非常多的pass和ice层有非常多的积累。这个是从基因角度来看，另一个就是从需求角度出发的。我们的风格包括我们现在的产品，其实不完全是我们自己定义的，而是按照客户需求定义的。
+</p>
+<p class="transcript-line">
+<span class="time"><strong>[00:07:08]</strong> </span>
+<span class="speaker"><strong>发言人2: </strong></span>
+就包括搜索这件事情来说，其实传统的搜索大厂提供的API其实是不太能完全满足像manus或者这些比较前沿的agent的需求的。因为过去如果你看搜索API的形态，它其实是跟C端搜索的形态是很类似的。你一个搜索query进去了之后，他给你最相关的十条20条结果。每一条结果带着网址的链接和短摘要。
+</p>
+<p class="transcript-line">
+<span class="time"><strong>[00:07:42]</strong> </span>
+<span class="speaker"><strong>发言人2: </strong></span>
+这个形态其实对于agent或者联网搜索的客户来说，他其实还要做很多下一步的工作。比如说他要把这些link里选出，通过读摘要和看网址的这个权威性，他要自己做一个模型，选出里面他最想读的。用一个读取的API或者自己手搓一个浏览器去把这些最相关的部分读出来。那不管用浏览器还是直接用URL的解析，就把这个信息读出来。读出来之后再feed给它模型，它在做总结和产出。
+</p>
+<p class="transcript-line">
+<span class="time"><strong>[00:08:19]</strong> </span>
+<span class="speaker"><strong>发言人2: </strong></span>
+我们的产品其实是非常客制化的。因为跟头部的这些agent紧密的合作过程中就发现说第一人家不需要像过去的C端搜索一样。你一定要把最好的排在第一条，最吸引眼球的排在第一条。而是你应该把对相关的完整度最高合起来完整度最高的十条放在前十条。这样的话因为action上来就是十条读的，因为它不是按人一样从第一条往下看的，这个就是一个很不一样的AI native的思想。
+</p>
+<p class="transcript-line">
+<span class="time"><strong>[00:08:56]</strong> </span>
+<span class="speaker"><strong>发言人2: </strong></span>
+第二个就是短摘要不够，因为如果读了短摘要，你必然还要去看全文。不同的客户有不同的选择，因为这个场景也不一样。在搜索场景和做PPT，做前端什么的这个场景不一样。但是客户你给他更长的摘要或者给他全文，这两个额外的选择是对于客户来说很重要的。因为如果他只需要读摘要，那读更长的摘要其实对他来说时效性没区别。但是我的准确度完整性可以高很多，对吧？有的场景下它就是需要完整的信息，那你需要给他读全文，这个也是非常AI native的需求。
+</p>
+<p class="transcript-line">
+<span class="time"><strong>[00:09:39]</strong> </span>
+<span class="speaker"><strong>发言人2: </strong></span>
+有的客户说，我其实我不一定需要搜索，但是我很多这个东西我需要去读。那怎么读UL，怎么读PDF，这些很多是传统意义的，但是在AI的时代又焕发了新生。因为我们发现说客户就是有这样的需求，他就是跟实时的推理数据服务绑定在一起的，而且这个关联度很高。
+</p>
+<p class="transcript-line">
+<span class="time"><strong>[00:10:05]</strong> </span>
+<span class="speaker"><strong>发言人2: </strong></span>
+所以说回来就是我们的搜索引擎跟搜索大厂的这个搜索引擎，其实我觉得未来1到2年是会渐行渐远的那当下大家评估的方法是差不多的对吧？都是评估这个传统搜索的相关性、权威性、时效性，以及说你整个服务的稳定性和时延。但是我觉得随着agent的发展和大家越来越进入真的产出结果的深水区，我觉得大家会对搜索的API有越来越不一样的新的要求。这个其实就是大家技术路径上会开始有一些差别，你大厂顺手做一下和这个全力以赴。因为agent优化为头部客户定制了之后，同样推广给其他的客户，这两条路线我觉得会出现会出现这个分歧的。
+</p>
+<p class="transcript-line">
+<span class="time"><strong>[00:11:04]</strong> </span>
+<span class="speaker"><strong>发言人1: </strong></span>
+了解你刚才有讲到说给头部客户定制拿头部的的产品，相当于去给腰部的人，让他们去应用。我感觉这个事儿跟我们以前做SARS还挺像的对吧？就是很多时候都是在打头部，打完头部之后，拿头部的经验去赋能腰部，就类似于走这样一个流程。
+</p>
+<p class="transcript-line">
+<span class="time"><strong>[00:11:25]</strong> </span>
+<span class="speaker"><strong>发言人2: </strong></span>
+因为这就是最领先的创新者要肩负的使命。这些厉害的客户，他本来就是对整个生意技术和产品理解最领先的，对他服务的客户量也是最大的。所以你服务他们的过程中，其实是一个跟客户学习的过程。就是因为我不知道用户在怎么用agent，虽然我自己非常日常的用minus和sky works，但是他们面对的客户群体比我一个公司100个人的这个群体要大很多。而且他们是这个市场上最聪明的人。就是他们既看得到市场需求，又能够有一些领先对市场领先的一些看法和判断。所以他们的这个需求我们都是非常努力的去服务。因为我们知道说这些人就是这个市场上最聪明最领先的人。
+</p>
+<p class="transcript-line">
+<span class="time"><strong>[00:12:24]</strong> </span>
+<span class="speaker"><strong>发言人1: </strong></span>
+好OK，那我就想问一下，假如我们要服务大客户的话，比如说我举个例子，我们谈搜索的话，那搜索他们是用小数的云去做搜索，还是说我们要去把搜索这个事儿连同代码也好，或者说我们讲刀口容器也好，部署给他，让他自己去用。就这个过程是怎么样子的。
+</p>
+<p class="transcript-line">
+<span class="time"><strong>[00:12:46]</strong> </span>
+<span class="speaker"><strong>发言人2: </strong></span>
+其实搜索还是相对比较轻的一种服务形态，所以对绝大多数的这个搜索都是以API的形式调用的。那这个生意的商业模式也是以搜索的调用次数出来付费的，所以这个其实过去是相对比较成熟的服务方式。只是服务的对象过去很多是sas公司和这个互联网公司的一些比如说典型的就是你在爱奇艺上或者电视上搜一个他站内没有的电影或者电视剧，他会给你出相关的结果，或者相关的明星相关的这个链接。这就是很典型的过去传统的搜索API的一种调用场景。去补充自己自有内容的不足。
+</p>
+<p class="transcript-line">
+<span class="time"><strong>[00:13:34]</strong> </span>
+<span class="speaker"><strong>发言人2: </strong></span>
+但是这个商业模式其实是过去十年非常成熟的，因为并在这个市场里是深耕了十几年，虽然他现在开始不卖了，因为一些竞争的原因，但是他其实是把这个市场耕耘的。是就大家对这个市场要怎么付费这件事情是理解很成熟的那现在这些agent的创业者，绝大多数是过去的大厂和过去的这些互联网企业出来的新一代的创业者，他们其实对这个商业模式付费习惯是很很清晰的那不像说你的算力什么，很多客户要让你做私有化部署这些。其实这个定就是我们的定制和以前传统语境下这些info的定制其实是很不一样的。我们其实是为客户做新的功能。
+</p>
+<p class="transcript-line">
+<span class="time"><strong>[00:14:33]</strong> </span>
+<span class="speaker"><strong>发言人1: </strong></span>
+了解，我觉得你们这个客户群体还是挺好的。首先我能做agent的产品的那些人都现在意义上来讲肯定是上一波的互联网人，对吧？那如果说像以前做sas的，他所面向的客户可能会是央企、国企。
+</p>
+<p class="transcript-line">
+<span class="time"><strong>[00:14:51]</strong> </span>
+<span class="speaker"><strong>发言人2: </strong></span>
+是的。
+</p>
+<p class="transcript-line">
+<span class="time"><strong>[00:14:51]</strong> </span>
+<span class="speaker"><strong>发言人1: </strong></span>
+我觉得你们相当于掐了阿里云的掐尖儿的客户。有那些客户是你基本上不用管的，你只要卖给他他就会持续用，他也自己会用，也不太需要你服务的那种人，这些是最优质的客户，可能被你们掐尖了是吧？
+</p>
+<p class="transcript-line">
+<span class="time"><strong>[00:15:05]</strong> </span>
+<span class="speaker"><strong>发言人2: </strong></span>
+对他其实比较像是说过去这十年或者说更长，其实应该是15年。我觉得今天可能跟看agent的元年这个事情，我觉得现在可能就是10年11年的移动互联网跟快手，今日头条，其实可能最终的这个形态都还没出来，可能jeff什么的出来了。但这些人可能已经在市场上在在做尝试和寻找方向。所以如果你看今天这个状态的话，我觉得每一个agent的垂类，甚至很多没有出现的agent垂类，我觉得至少还有100到500倍的增长空间。
+</p>
+<p class="transcript-line">
+<span class="time"><strong>[00:15:45]</strong> </span>
+<span class="speaker"><strong>发言人2: </strong></span>
+从DAU用量这些角度来看，所以我觉得特别早期，所以这个对早期的这些agent的服务也是我们一个比较重要的事。就是我们日常从CTO到下面的技术产品，是日常活跃在我们几百个客户的群里。就是日常回答客户的问题，帮客户解决问题。这个是绝大多数的不管是原厂还是其他的基础设施，算力基础设施的这些服务商不具备的，也是像open root a这样的海外的厂商不具备的。大部分海外跟我们做类似的工作的厂商都是以自助化的平台为主，然后可能KA销售覆盖个别头部大客户的方式。我们是把所有这些领先的agent或者说我们觉得方向很清晰的这些agent当做KA客户来服务。其实可能他们给我的贡献的收入目前还是挺小的，但是我们还是非常乐意跟大家一起探索，说到底我们能做什么。然后对跟大家去交朋友也帮忙，大家互相帮助的这个氛围，我觉得还是挺重要的，特别是这个市场探索的早期。
+</p>
+<p class="transcript-line">
+<span class="time"><strong>[00:17:05]</strong> </span>
+<span class="speaker"><strong>发言人1: </strong></span>
+对对对，这个我非常认可。就是我们去做服务贴身客户的时候，其实更主要的是能学到他们的业务，对吧？然后我觉得这一点是真的挺好的。我想问一下你们现在的客户规模怎么样？现阶段的营收的话怎么样？
+</p>
+<p class="transcript-line">
+<span class="time"><strong>[00:17:21]</strong> </span>
+<span class="speaker"><strong>发言人2: </strong></span>
+这个能透露吗？OK我们其实如果看客户数量的话，是接近千个，但还没有到OK，在这个超过了500，我再往一千的数字去走，我们所有的客户我们认为都基本上都是KA。然后从收入的规模上来看，我们现在比起去年底的ARR的规模，我们的AR定义是非常传统的。
+</p>
+<p class="transcript-line">
+<span class="time"><strong>[00:17:49]</strong> </span>
+<span class="speaker"><strong>发言人1: </strong></span>
+理解你要说什么？
+</p>
+<p class="transcript-line">
+<span class="time"><strong>[00:17:51]</strong> </span>
+<span class="speaker"><strong>发言人2: </strong></span>
+就是required月份9乘以12这个数字比起去年底翻了三倍多，现在到了接近3000万美金的一个规模。但我觉得这个数字其实不太重要，因为本质上我觉得大模型的使用，就大模型的这个市场现在可能今年也就两三百亿美金，但公有云的市场是七八千亿美金。Global我觉得这个数字一定会超过公有云的数字，那这是整个市场的基石。
+</p>
+<p class="transcript-line">
+<span class="time"><strong>[00:18:28]</strong> </span>
+<span class="speaker"><strong>发言人2: </strong></span>
+那随着大模型的消耗，你会看到大模型的API基本上就是绑定推理的场景。不管它是推理什么，推理文本、推理音频视频，对吧？那其实就是伴随着推理的生意，至少还有50到100倍的增长。搜索其实完全就是为推理服务的，像scale AI什么的，他们能有很大的规模，本质上是因为他们在训练的场景下提供核心的数据服务。搜索其实就是新一代的推理的必备工具。所以我觉得搜索的这个生意至少还有50到100倍。如果不是几百倍的增长空间，所以我觉得现在这数字根本不重要。
+</p>
+<p class="transcript-line">
+<span class="time"><strong>[00:19:17]</strong> </span>
+<span class="speaker"><strong>发言人2: </strong></span>
+虽然这个数字看着还不少，但是这个非常确定。你找到了PMF，找到了自己的核心客户，然后可以跟这些核心客户和每一个出来。因为其实现在的环境对大家来说是很好的。虽然中美的冲突非常明显，大家什么选边站这些挑战是很大的。但其实这个市场上的钱是充裕的。因为我自己以前做投资，所以你会知道说这个市场里的钱是非常有周期性的。因为每一个VC和PE它的融资和投资的周期是以5到7年为单位的。过去3到4年市场没有热点，所以大家在疫情前目的资其实是很多没有投出去的那现在有了真正值得投的方向之后，这个钱其实是非常充裕的。
+</p>
+<p class="transcript-line">
+<span class="time"><strong>[00:20:16]</strong> </span>
+<span class="speaker"><strong>发言人2: </strong></span>
+我觉得这个环境对于global chinese来说是非常好的。因为我自己的观点，这个也是一个我的暴论。我觉得你不一定非要拿美国人的钱，即使你想做全球市场，因为你拿了美国人的钱，美国人还是不会把你当做自己人。你还是一个chinese company，你拥有的优势和你的DNA还是一样的。所以我觉得我自己作为一个前投资人，现创业者，我们的建议包括我跟一些因为我们这些客户，大家founders关系都挺好的。我的建议就是你就是应该快速的拿钱，把产品快速的做好，客户用户规做大规模。做大规模之后你再来想我要怎么define我自己的身份，对吧？
+</p>
+<p class="transcript-line">
+<span class="time"><strong>[00:21:09]</strong> </span>
+<span class="speaker"><strong>发言人2: </strong></span>
+你现在想说我OK我第一轮一定要拿什么这个S6Z的钱，一定要IC我觉得对，就没有特别的意义。你就是应该拿到钱，这个钱不管是谁的那对吧？可能人民币和美元还是要想一下，但是如果都是美元，我觉得你就拿就好，拿了之后做大服务，再回头来想这个事儿。
+</p>
+<p class="transcript-line">
+<span class="time"><strong>[00:21:35]</strong> </span>
+<span class="speaker"><strong>发言人1: </strong></span>
+对，而且昨天晚上也降息了，眼泪还要强对，所以说可能钱可能会更充裕一些。
+</p>
+<p class="transcript-line">
+<span class="time"><strong>[00:21:43]</strong> </span>
+<span class="speaker"><strong>发言人2: </strong></span>
+对吧？对我觉得我自己算是经历了上一个移动互联网的周期，算是比较那时候是比较近距离的看看这些都到了PE阶段和上市阶段的这些公司TMT公司。所以我觉得资本的周期你是要充分利用它的，而不是要要逆着它来。对于创业者来说，做自己相信的事情，这个是肯定是第一位的。那相信的事情中你要顺应用户和资本的方向，我觉得这个也是很重要的。大家都说这个agent是不是有泡沫，我觉得如果你你你想现在的对头部的agent都还在技术的阶段，你如果把从这个角度想问题，那你就会知道说OK其实投资人只是proactive了一点。其实这些人最后都会长成，一定会有人长成今日头条，长成长成这个快手，对吧？长成拼多多，就是它形态不稳定，你不知道是不是现在这个形态，大概率不是，但是这些人肯定都在这个街上蹦达。
+</p>
+<p class="transcript-line">
+<span class="time"><strong>[00:23:02]</strong> </span>
+<span class="speaker"><strong>发言人1: </strong></span>
+就持续出现在大家眼皮底下吗？对对对。但我觉得持续出现在大家眼皮底下，就是你刚才讲的就是你得有钱。
+</p>
+<p class="transcript-line">
+<span class="time"><strong>[00:23:11]</strong> </span>
+<span class="speaker"><strong>发言人2: </strong></span>
+是的，这个PR的环境也是很很好玩的。我觉得跟上一代的创业人面临的环境不一样。上一代就是我们看快手，包括美团、滴滴这些。其实上一代的创业者对PR的要求是没有那么高的。因为这些都是互联网有的东西，你把它搬到移动互联网上，所以用户自然而然你就reach out这个投流什么的，其实效果很好啊。如果你往把时钟拨到什么2014、15年，其实投流的效果是很好的。但是你会发现说在AI这件事上，你去做投流效果是很差的。必须因为这个有了代差，代差之后，用户也面临一个很大的鸿沟。
+</p>
+<p class="transcript-line">
+<span class="time"><strong>[00:24:02]</strong> </span>
+<span class="speaker"><strong>发言人2: </strong></span>
+我上上个月我回绵阳，我自己老家四川绵阳的。我回去的时候我就想在路上我看着大家在坐在咖啡厅的人，路上在小吃店买东西的人我就想这些人里可能应该只有1%，都不是10分之1，开始大规模的用AI。那你所以这个事情就从你要推变成你要吸引别人。所以你做这些，特别是很多to c的我们的客户，我觉得做PR是很重要的。因为你是让一层一层不停的下一个圈层的人知道你在做的事有意思，他们主动尝试，这些人才可能留得下。比如说大家会说现在general agent是不是这个流程很差，对吧？但对于我自己来说，我流程很好，我daily都会打开的和这个天空，因为我在上面做了很多各种各样的一个任务，对吧？
+</p>
+<p class="transcript-line">
+<span class="time"><strong>[00:25:03]</strong> </span>
+<span class="speaker"><strong>发言人2: </strong></span>
+这些任务都在我的左边栏，所以我经常会打开看一下说我上次画了一页PPT，那一页PPT我现在想改一下，拿出来我放在新的文档里用是吧？或者我上一次收了一个什么东西，什么rob locks的商业模式在AI下有什么变化和新的挑战者。这个就说到说OK，大家现在觉得你context会很重要，就变成你粘性的一个来源。但我觉得用的深的人，其实这些产品已经开始产生不错的粘性了。虽然它看着是个web端的产品，所以我觉得现在这个渗透率太太小了。就是除了OpenAI自己在全球有10%的渗透率，那其他所有的这个产品合起来都是个位数的渗透率，甚至零点几的渗透率。所以我觉得现在就是那天杜华也问我说，你觉得接下来最大的挑战，或者这个搜索的量的提高的最大的门槛是什么？我觉得第一就是渗透率，就是整个AI as a business as a这个生活模式、工作模式的渗透率，我觉得还在太早期了。大家这个投资人非常热闹，创业者非常热闹。但其实渗透的过程可能是一个痛苦的过程。
+</p>
+<p class="transcript-line">
+<span class="time"><strong>[00:26:31]</strong> </span>
+<span class="speaker"><strong>发言人1: </strong></span>
+确实现在这个AI的渗透可能还有一部分，当然国内现在很多是免费的。但是整体从渗透上面来讲，还是因为成本还是有些高。不像以前移动互联网时代，一个人用跟100万个人用，其实我底下的成本不需要增加那么多。但现在的话只要有人用，那我token的消耗只要增长的话，其实我背后的那个成本增长还是蛮高的对。
+</p>
+<p class="transcript-line">
+<span class="time"><strong>[00:26:55]</strong> </span>
+<span class="speaker"><strong>发言人2: </strong></span>
+是的，就是人和ai的成本这个事不一定是用AI比用人低的，然后效果也不一定是用AI比用人好的。所以我昨天还跟编程猫的方的在孙悦聊了半天这个事情。他说在他们的场景下人就是比AI好做的再好的这个图灵测试。我觉得这个观点也很好玩。就是他说图灵测试，你通过图灵测试不意味着什么，因为你要每时每刻长期的持续的通过图灵测试，你才是一个真正的人。但没有AI能做到是吧？所以我觉得就对他们的场景来说，这个小孩子和父母就是喜欢人人教的就是比AI好，然后很多事儿就是人比AI干的好。因为我觉得成本下降这个事儿，我觉得挑战也是挺大的。
+</p>
+<p class="transcript-line">
+<span class="time"><strong>[00:27:54]</strong> </span>
+<span class="speaker"><strong>发言人2: </strong></span>
+你说的这个点非常对，就是你给客户的调用都是成本，但是你真的帮客户降低了多少成本，我觉得在部分的case上可能是，但不是广谱的。就是不是每个事你都是用了AI就比不用AI好。所以我的感受是这样理解，我觉得。
+</p>
+<p class="transcript-line">
+<span class="time"><strong>[00:28:17]</strong> </span>
+<span class="speaker"><strong>发言人1: </strong></span>
+你们做的这些产品还蛮有意思的。你看你们有做搜索，然后有做模型聚合，然后你们还做了底层的AI云。我想问一下，你们这个AI云是给别人一个3 box，然后里面可以运行浏览器吗？
+</p>
+<p class="transcript-line">
+<span class="time"><strong>[00:28:31]</strong> </span>
+<span class="speaker"><strong>发言人2: </strong></span>
+是这种形式吗？其实这个云有一些历史沿革，就是我们其实公司出来的时候，在没有AI的时候，其实我们是一个有一些基础客户的AWS的服务商和多云管理平台OK。所以最开始我们就服务了一些中国出海的，比如说web 3，比如说出海的游戏，出海的电商公司。那个时候给他们提供的是传统云和边缘云的这些服务和产品OK那时候积累了一些客户资源，到AI真的来的时候，我们发现说，云平台就是云上的这些能力。
+</p>
+<p class="transcript-line">
+<span class="time"><strong>[00:29:12]</strong> </span>
+<span class="speaker"><strong>发言人2: </strong></span>
+第一是边缘云这件变得更重要。因为很多推理和信息获取应用集中云是有一些问题的，不管是合规还是效率的问题，对边缘云其实有点焕发新生的意思。然后第二是我们发现说传统的公有云上，大家需要一层新的pass。就是把这个云的能力变成一个以前的这些大的云的环境，变成一个个的给agent用的搭合也好，你叫他什么也好。对，就是一个个的这个东西。它很多时候你发现像brother use，它调用的不是集中的云。它是每一个浏览器你要给他匹配一个IP，你要给匹配一个独立的环境，那这个其实就落到我们之前的这个能力范围内了。
+</p>
+<p class="transcript-line">
+<span class="time"><strong>[00:30:06]</strong> </span>
+<span class="speaker"><strong>发言人2: </strong></span>
+是你会发现说，如果你这个是IP轮动什么的。如果这个基础工作做的不好，你的浏览器的效果会很差。因为你动不动就被封，动不动就打不开，最后这个客户体验会很差，特别在to b上。
+</p>
+<p class="transcript-line">
+<span class="time"><strong>[00:30:22]</strong> </span>
+<span class="speaker"><strong>发言人2: </strong></span>
+To c其实还好，你如果打不开，你就重新开一个。所以就所以这个云平台其实现在焕发了新生，所以我们就把它和在AI上我们发现的这些场景。因为像做这个模型聚合这件事，其实也需要有比较强的CDN和路由的能力。它本质上是一个智能路由，让客户可以灵活的数据合规的使用这些模型服务。所以这个也跟我们的传统能力有一些有挺多相结合的地方。然后最重要的就是你发现同样的客户他会有多个需求，就是一鱼多吃对于我们来说肯定是很好的那对于客户来说也是很好。因为对这个客户的人，现在就是你发现你面对的KA现在最头部的AI native的KA也就是公司100号人。那你过去在这个卖CDN和卖data的时候，你面临的KA对这个公司光跟你对接的team就是第12人。
+</p>
+<p class="transcript-line">
+<span class="time"><strong>[00:31:34]</strong> </span>
+<span class="speaker"><strong>发言人1: </strong></span>
+是。
+</p>
+<p class="transcript-line">
+<span class="time"><strong>[00:31:35]</strong> </span>
+<span class="speaker"><strong>发言人2: </strong></span>
+所以客户的形态也有很大的变化。他也希望说一个靠谱的人一个靠谱的基础设施供应商，能够把大部分的事解决了。你能把这个模型给我解决了，搜索给我解决了，甚至什么安全抗议这些乱七八糟的事儿都给我解决了。那解决了之后，我有啥问题我就找你，对吧？你要是没有达到你的SLA，你就给我赔钱，或者下个月免一些钱。那你不用说每一个事儿我都看一张账单或者好几张账单，去找不同的供应商。
+</p>
+<p class="transcript-line">
+<span class="time"><strong>[00:32:08]</strong> </span>
+<span class="speaker"><strong>发言人2: </strong></span>
+因为以前的互联网公司采购的人是很多的，有独立的采购，有独立的dev大家都各司其职。所以他可以管很多供应商每在供应这个supply的角度做很多事情。现在我们很多客户就是一个人，他自己还是一个开发，当然要管这些info和跟供应商在这些事儿。所以他就希望说，如果你有能力，那你就都干了。对，这个趋势也很明显。所以我们现在就觉得一站式这个事真的挺重要的，所以我们会同时做做这三个产品线。
+</p>
+<p class="transcript-line">
+<span class="time"><strong>[00:32:49]</strong> </span>
+<span class="speaker"><strong>发言人1: </strong></span>
+对，那Williams刚才你有提到说SIA赔钱的事儿吗？那我们也不能一直赔钱，对吧？你能不能给我们讲一下小素在主要在做的哪些工作是你觉得是稳定性其实是不好的。然后你们做了一些工作让它的稳定性变得非常好的。
+</p>
+<p class="transcript-line">
+<span class="time"><strong>[00:33:05]</strong> </span>
+<span class="speaker"><strong>发言人2: </strong></span>
+对，这个稳定性其实模型侧和搜索侧不太一样。因为模型车还涉及到底层的这个供应商的稳定性的问题。对，是说有一天DCP挂了对吧？对，不挂了，换了两三个小时，但我们的服务没有挂。因为我们不光用GCP的资源，也用原厂和AWS的资源。对，这个底层的波动其实挺明显的，就是经常你会发现因为原厂的这个pay SU go的这个模式下，就是偶尔会有资源挤占的问题，所以客户会需要这个智能路由。因为你在AWS的资源有几站的问题，但是GCP不一定或者这个SO上不一定是那个时候就是高峰。然后可能美国的这个资源是集散的状态，你在日本和香港的资源不一定是在集散的状态。
+</p>
+<p class="transcript-line">
+<span class="time"><strong>[00:34:00]</strong> </span>
+<span class="speaker"><strong>发言人2: </strong></span>
+对于我们的底层这个事儿的底本质上底层就是你有一个automatic的system在路由，随时观察监控这些资源的质量，然后再路由给客户不同的。这个资源其实是比较有算是一个基础平台的作用。搜索那个就完全不一样，搜索就完全是自己可控的。就是搜索的这个底层其实就跟以前百度的搜索的底层是一样的。你从最开始建库，你有一个千亿规模的索引库。然后你这个索引库每天有几十亿条的更新和新增你的数据库。然后到他从清洗到自己的召回金牌，出牌金牌的这个算法和工程，这个是你完全都是自己控制的。所以这个里面你的工程能力的需求是跟你的搜索调用量直接相关的。
+</p>
+<p class="transcript-line">
+<span class="time"><strong>[00:35:03]</strong> </span>
+<span class="speaker"><strong>发言人2: </strong></span>
+就是现在的这个你想过去的这个大的搜索引擎日调用量是在一级。对，其实我们现在平台的调用量在努力往千万级别够，虽然涨得很快，但也就是在千万级别。所以其实这个跟传统搜索的，你对这个平台的工程，我们觉得这个工程能力肯定是有差距的。你先得把算法和这个质量做好，然后你获得更多客户之后，你同时去提升你的工程能力。对于我们来说，刚才说的整个的基础平台上，我们刚刚引入了一位高管。我觉得我们团队是一个有创业精神，但是又是规模上和能力配置上还是一个比较大的一个组织。
+</p>
+<p class="transcript-line">
+<span class="time"><strong>[00:35:51]</strong> </span>
+<span class="speaker"><strong>发言人1: </strong></span>
+你刚才有讲说小树自己做的这个智能搜索，对吧？我知道现阶段有很多的独立开发者也好，就我们印地骇客的这个很多角色里边，大家可能会用surp AI然后去自己手搓，因为surp AI里边它有很多的数据源，你想用谁然后你就去筛，你去选对吧？还有就是像现在有一些创业公司，他们也是做这种土地的对吧？像比如说像gina像XA对吧，就类似于这种的产品，可能直接去跟他去做整合。他背后可能调了google也好，调了谁也好，反正他们就是我不管了，我调你，你自己爱调谁调谁，对吧？我就不关心了。对我就想问一下，假如我去用server AI去手搓，或者我去调gina x等等这些东西跟我去掉小数的能搜索有会有什么区别吗？
+</p>
+<p class="transcript-line">
+<span class="time"><strong>[00:36:41]</strong> </span>
+<span class="speaker"><strong>发言人2: </strong></span>
+OK这里面其实这三个你提到的公司其实是不太性质不太一样。就是我最后说extra，因为extra跟我们做的事情和策略的方向是完全一样的。我最后说是啊因为你你跟他你看他的产品线和在产品线上演进的思路跟我们是非常像的。所以tapper可以把把它当成我们的一个peers来看。
+</p>
+<p class="transcript-line">
+<span class="time"><strong>[00:37:09]</strong> </span>
+<span class="speaker"><strong>发言人2: </strong></span>
+然后另外两个像shop和这个吉娜，这是两个方向。一个方向就是shop的本质是逆向工程，他其实是去薅google的或者病的羊毛。本质上就是一个query过来，他用自动化的方式扔给google，扔给B然后把google或者病的这个结果抄过来，对吧？这个方式有好处，好处就是质量非常高。因为他抄的是google的结果，那google是100分对吧？如果你看搜索质量，大家不得不承认google是100分，不是95分，对吧？它的优势就是质量好，就是结果的内容content的质量，不是说这个服务的质量。但是它的问题有三个，第一个问题是有一些合规性的风险。合规性的风险包括两个，第一个合规性的风险是说你是逆向的别人的结果，那在很多国家和地区这个是有风险的那当然在美国没风险，所以在很多国家和地区这个服务是有合规风险。
+</p>
+<p class="transcript-line">
+<span class="time"><strong>[00:38:14]</strong> </span>
+<span class="speaker"><strong>发言人2: </strong></span>
+第二个问题就是它的稳定性是有问题的。因为其实google合并基本上每周或者每两周都会升级自己的反扒策略。然后这个反扒策略多数情况最后都是会被攻克的。但是在升级的当下，那一天半天里你的shop的质量会非常差，所以你的稳定性会有问题。然后大概我们觉得他1%的结果是没有的，就是有1%他出什么卡片，出什么这些奇怪形态的东西，这个sap是抓不回来的。所以第二个是它的服务稳定性的问题。第三个他的问题是说你用起来还是要做很多手搓的工作。对对对。
+</p>
+<p class="transcript-line">
+<span class="time"><strong>[00:39:08]</strong> </span>
+<span class="speaker"><strong>发言人1: </strong></span>
+因为前面两个聚合那些数据源等等。
+</p>
+<p class="transcript-line">
+<span class="time"><strong>[00:39:10]</strong> </span>
+<span class="speaker"><strong>发言人2: </strong></span>
+对你要做很多手搓的工作的。所以shop这个方式我觉得在部分场景下是好的。然后第二个就是吉娜，吉娜其实我们跟吉娜的几个人都挺熟的，因为我们有同样的投资人OK。对，然后吉娜其实我觉得她的工作早期的工作是更底层的，更靠近数据库embedded的模型这一侧的这一侧的事情。
+</p>
+<p class="transcript-line">
+<span class="time"><strong>[00:39:39]</strong> </span>
+<span class="speaker"><strong>发言人2: </strong></span>
+他后来提供的这个服务主要能够商业化的，其实是我们叫reader的这个服务，其实是主体reader定期的服务。他的这个reader的服务是他各种各样的商业化的方式来找到的一条靠谱的路。它本质上在搜索的延长线上，因为说完就要读。对，这个事我们已经已经是我们的产品之一了，我们已经在搜索之外提供这个产品。而且我们这个其实我一般不就是不跟大家或者说在公开场合说大家质量你多少我多少。
+</p>
+<p class="transcript-line">
+<span class="time"><strong>[00:40:20]</strong> </span>
+<span class="speaker"><strong>发言人2: </strong></span>
+但是这个测试其实是非常容易比的。其实你就看这个，第一，你平均读取的时间和P90P99读取的时间。第二个是读取的成功率，就是你读网页这个reader永远会有很多bad case，这些bad case会导致大家要用浏览器，用OCR，这个也很正常。所以有一个成功率的比例，我们的成功率应该是显著高于济南的。然后实验应该P99的实验也比济南短个一两秒。
+</p>
+<p class="transcript-line">
+<span class="time"><strong>[00:40:52]</strong> </span>
+<span class="speaker"><strong>发言人2: </strong></span>
+这个对部分场景是有价值的。因为做的快，现在用户还是体感很强。所以这条技术路线是完全在搜索的延长线上的。
+</p>
+<p class="transcript-line">
+<span class="time"><strong>[00:41:03]</strong> </span>
+<span class="speaker"><strong>发言人2: </strong></span>
+然后你接着的延长线可能还有说OK那你read读不了的东西怎么办？对吧？你可能要用别的方式来读，所以这是吉娜的这个产品线在我们的射程范围内，然后我们也都提供了更优质的或者说下一代的产品。
+</p>
+<p class="transcript-line">
+<span class="time"><strong>[00:41:23]</strong> </span>
+<span class="speaker"><strong>发言人2: </strong></span>
+最后说action，我觉得大家都很很惊讶于为什么extra在很小的体量能够用8亿美金拿benchmark的钱吗？但其实我完全不惊讶，因为这个道路上就美国有几家跟我们同样做差不多事情的竞争对手。一个是他们的，这里是一个老牌的surp厂商，但是他这个硅谷的形象很好，创始团队很很牛逼。所以他把最开始是把shop的能力包装成原生的产品，买原生的价格，然后跟AWS关系也很好。这是第一个是tabi，最近融了2500万美金。第二个是U点com，最近也融了很多钱。但他其实是公网搜索的这条路没有走下去，最后在美国选了更美国的clean的这条路，然后快速的做到了5000万美金的AR然后快速的是14亿美金融到的钱了，这个是另一条路径。
+</p>
+<p class="transcript-line">
+<span class="time"><strong>[00:42:23]</strong> </span>
+<span class="speaker"><strong>发言人2: </strong></span>
+然后还有就是brief，brief以前是个隐私浏览器，对吧？对，这个16年就出道了，这个公司当年非常的红，当年发币就融了3500万美金。十年前，然后因为他做影视浏览器，所以他不能用币的搜索引擎。那时候并是开放的状态，但是他不能用，因为你一个隐私浏览器为什么要用别人？你怎么保证我的隐私了？所以他是建了一个相对规模中等的索引库，按他自己的说法是300亿条的索引库，然后来提供自己的搜索服务。他也是这一波获得免费流量最多的人。
+</p>
+<p class="transcript-line">
+<span class="time"><strong>[00:43:01]</strong> </span>
+<span class="speaker"><strong>发言人2: </strong></span>
+因为publicity被这个病封掉之后就转向了他。但他的公司的组织和架构其实不太是个AI公司。然后他其实不需要融钱，因为他发过币，然后现在要发币，随时也可以发。所以就这几家公司加上一个fire crown，专门做麻虫和reader的这个公司。
+</p>
+<p class="transcript-line">
+<span class="time"><strong>[00:43:27]</strong> </span>
+<span class="speaker"><strong>发言人2: </strong></span>
+然后这几个美国的公司里面，其实extra是最小的，如果从量来看是最小的。但为什么他能融到最多的钱？我其实非常不意外。因为我觉得我跟美国的投资人的观点是非常像的。因为他他在做正确的事情，然后团队也很强。正确的事情就是你应该用原生的方式，用agent需要的策略去做新一代的搜索。就是我刚才说的，你不应该关注第一条，不应该想怎么我把短摘要的质量做得更好，你应该按agent的需求来提供你的产品和服务，你不应该光做搜索，应该做其他配套的东西。我觉得这个extra是就在我们的观点里非常正确的路线上，然后有很强大的团队。对，真正我当做友商或者竞争对手的人只有extra有其他的其他人我觉得都看起来现在量大，但你知道说这个量大不代表未来。
+</p>
+<p class="transcript-line">
+<span class="time"><strong>[00:44:35]</strong> </span>
+<span class="speaker"><strong>发言人2: </strong></span>
+因为比如说这个publicity在这个日调用量两三千万、两千多万之后，其实并就停了它的服务。那并停了他的服务之后，他切了brave之后，你会看到它增长曲线放缓了非常多。这个其实是一个非常不好的迹象，就说明你的这个搜索质量有跟这个病有非常大的差大局才会导致说你其他的都没变。但是就变了这个之后，你的留存，你的增长都都有问题。所以我觉得绝对的量其实没那么重要。就像你问我现在收入多少，这个我觉得当下不重要，就是你一定要选一条。正确的路去去接着搞。我totally是能get benchmark为什么要选择投这个当下量最小，但是这个团队最强的extra。
+</p>
+<p class="transcript-line">
+<span class="time"><strong>[00:45:32]</strong> </span>
+<span class="speaker"><strong>发言人1: </strong></span>
+理解。对，通过你这么一讲，我也理解为什么对benchmark要去投他们。我这里还有一个问题，就是在做搜索的时候，其实大家对于数据源这个事儿其实也还挺也有点敏感，尤其做AI对吧？对那我们讲说像国内的百度搜索的问题，他自己本身没有像小红书，像抖音等等的数据源，对吧？对，然后别人可能也不会卖给他，就导致他自己的搜索质量的问题。
+</p>
+<p class="transcript-line">
+<span class="time"><strong>[00:45:57]</strong> </span>
+<span class="speaker"><strong>发言人1: </strong></span>
+Google的话是因为自己有youtube，虽然没有tiktok，但是自己做了shorts，shorts的话他也给了一些量。然后同时tiktok的很多人可能也会搬运一遍到shots上面对对吧？可能就这个里面就会有些亮了。所以说我觉得google的生态相对而言可能稍好一些。
+</p>
+<p class="transcript-line">
+<span class="time"><strong>[00:46:17]</strong> </span>
+<span class="speaker"><strong>发言人1: </strong></span>
+对，但是可能还是有很多私域的东西。我不知道说我们做agent info的话，像这些私域等等，可能是很多agent他想要，但是可能也没办法拿到的。我不知道你们在这方面有没有什么对动作等等我。
+</p>
+<p class="transcript-line">
+<span class="time"><strong>[00:46:31]</strong> </span>
+<span class="speaker"><strong>发言人2: </strong></span>
+觉得是这样，私欲和垂泪这两个事情其实是通收比较大的挑战。这个在上一代其实也是。当下是说我们观察通收的是一个基础的信息解决方案。我们已经看到很多垂直的客户就是需要垂域的搜索，所以可能最后会是一个通通收加垂玉的解决方案。
+</p>
+<p class="transcript-line">
+<span class="time"><strong>[00:47:00]</strong> </span>
+<span class="speaker"><strong>发言人2: </strong></span>
+这里面有一些是可以通过搜索引擎解决的。比如说学术，比如说医疗，比如说法律，对吧？你可以通过收集数据键索引，建一个独立的索引，当做旁边的一路召回来解决这个问题。另外的像小红书这些版权内容，这是totally another story。所以你的这个一路是说你要用锤收去解决问题。这个催收对于我们来说也是不是瞎做，就是有大客户提了需求，那我就给你做。因为它单独每一个催收单独可能都是在这个级别的index。对，这个其实是可以通过技术和投入资源来解决的那最后一路就是思域。
+</p>
+<p class="transcript-line">
+<span class="time"><strong>[00:47:49]</strong> </span>
+<span class="speaker"><strong>发言人2: </strong></span>
+思域这个事儿我觉得你没有别的解决方案，只有说这些私域的主人他愿意开放，或者说你能找一些他的alternative来开放。那你给客户就跟这些区域的人一起提供这个解决方案，或者说他愿意为每次点击或者调用付钱。那客户是愿意付的，只是说流量开放的程度不一样。所以这个其实作为基础设施服务商是没有自己的解决方案的，只能是跟这个垂玉的人合作。
+</p>
+<p class="transcript-line">
+<span class="time"><strong>[00:48:27]</strong> </span>
+<span class="speaker"><strong>发言人2: </strong></span>
+你通过违法的方式去解决，这个肯定不是长久之道。而且大家都知道，大家在这个训练的过程中，你可以通过各种各样的手段去搞各种各样的数据，对吧？不管中国还是美国都都存在这个问题。但你在推理中干这个事情是非常明显的，你一用就会被告你一用。所以强烈劝告大家，不要不要行走在法律的边缘。
+</p>
+<p class="transcript-line">
+<span class="time"><strong>[00:49:00]</strong> </span>
+<span class="speaker"><strong>发言人1: </strong></span>
+对，我们之前在节目里面也经常讲，在国内做爬虫是极其危险的一件事儿。
+</p>
+<p class="transcript-line">
+<span class="time"><strong>[00:49:08]</strong> </span>
+<span class="speaker"><strong>发言人2: </strong></span>
+是的，对，就是应该还有一点就是国内的搜索和全球的海外的搜索，其实是total的两个体系，对我们来说也是两个产品。因为有客户是既用中文又用英文的，那他在这是两个端口，那我们的数据存储数据的这个算法的规则都不一样。这个里面很典型的就是大家的权威性的定义不一样。正确的权威性肯定是应该把这个政府对它的定义，这个政府之前的历史对这个的历史观点当做你的最主要的答案选择，对吧？就比如说在美国，美国有自己的合规性，美国就是那你对犹太人的观点，你对什么这些战争的定义评价，你一定要把他们认为对的放在前面。对这个LGBT的这些观点，所以每个地区特别是几个主流的地区，有自己的权威性的定义。那你要做全球的生意，其实不光要解决理论上的合规问题，还要解决很多实质性的合规问题。是的，这个还挺好。这里面还是有挺多很细的活的。
+</p>
+<p class="transcript-line">
+<span class="time"><strong>[00:50:22]</strong> </span>
+<span class="speaker"><strong>发言人1: </strong></span>
+对对对，是的。你这么一讲，你真正要去给客户去应用的时候，首先你自己肯定是合规，你不能去采买这些数据。要不然你留到客户那边去的话，假如客户被告了，那这个过程就很麻烦了。
+</p>
+<p class="transcript-line">
+<span class="time"><strong>[00:50:36]</strong> </span>
+<span class="speaker"><strong>发言人2: </strong></span>
+是的是的是的，先得合法合规。我觉得你要做一个长久的生意，最重要的点。对。
+</p>
+<p class="transcript-line">
+<span class="time"><strong>[00:50:46]</strong> </span>
+<span class="speaker"><strong>发言人1: </strong></span>
+是的。你们做agent info，那你们的客户其实他都是做agent的。那我就想问一下，像agent这个东西，现在在编码领域里边，以前是curse比较强力。
+</p>
+<p class="transcript-line">
+<span class="time"><strong>[00:50:58]</strong> </span>
+<span class="speaker"><strong>发言人1: </strong></span>
+对，那棵是因为受制于cloud的，对吧？然后现在clo code的增长就非常快。但是最近这两天因为cloud的降智的问题，可能很多人又切换到codex对吧？对，切换到ChatGPT的codex对，但是不管他切换谁，在编码这个领域里边，我感觉agent这个模式已经没有人质疑了。就是它其实是有用的，吧？而且应用的人非常多。
+</p>
+<p class="transcript-line">
+<span class="time"><strong>[00:51:25]</strong> </span>
+<span class="speaker"><strong>发言人1: </strong></span>
+对，那我想问一下通用agent的这件事儿，就是从你们现在在做agent的服务上面来讲，现阶段里面通用agent你觉得这个事儿是成立的吗？还是说未来可能更多的是这种像类似编码一样的。比如说我现在有编码agent然后未来可能有法律agent等等之类的。你们怎么看通用agent跟垂直agent的关系？
+</p>
+<p class="transcript-line">
+<span class="time"><strong>[00:51:46]</strong> </span>
+<span class="speaker"><strong>发言人2: </strong></span>
+对，这个我跟很多人的观点可能也不太一样。就是我觉得通用是要打引号的，就是通用的通用程度，其实不是说你把三百六十行行行都做了。其实现在大家通用的人也在选方向，就是偏向办公效率的通用对吧？偏向这个知识应用的通用。我觉得现在是大部分所谓的通用的一个主要的方向。先把白领办公的这个事情解决好，这个是通用对吧？通用其实也在选方向。
+</p>
+<p class="transcript-line">
+<span class="time"><strong>[00:52:22]</strong> </span>
+<span class="speaker"><strong>发言人2: </strong></span>
+另一个就是垂类里面，其实大家也在分化，分的就很细。比如说你同样是coding，你coding之后你要不要给客户提供部署的环境，用户要不要review代码，这个还是区别很大的。包括说你这个代码下载下就我现在很多应用场景，或者我看到我们程序员。因为你会发现一旦你的这个事情大规模上生产之后，你的费用的效率和这个透明度就变得很重要。
+</p>
+<p class="transcript-line">
+<span class="time"><strong>[00:52:59]</strong> </span>
+<span class="speaker"><strong>发言人2: </strong></span>
+就是你现在跑在科学上，对吧？你玩票性质写东西你是很开心的。但是你一旦要把它上线上到生产环境，你立刻就会关心说我每天到底消耗多少credit？那这个credit有没有更便宜？因为它不是一个很小规模的数据。那你最后就立刻会想说，那我是不是应该把它下载下来放在一个别的hosting上更便宜对吧？
+</p>
+<p class="transcript-line">
+<span class="time"><strong>[00:53:28]</strong> </span>
+<span class="speaker"><strong>发言人2: </strong></span>
+然后第二就是如果你是一个产品经理，还是你是一个核心的代码工程师，你要的诉求也不一样。你要产品经理写，包括我们自己写课程，其实我都不review代码，就是我都不知道我写了些啥。但是如果你要上生产，特别是后端的生产，那你肯定是得review代码的。你review代码花的时间很有可能跟你写可能也就剩一半时间。如果你要非常仔细的来干这个事情，对吧？所以我觉得像coating agent其实也会分，然后也会出现很多平台。
+</p>
+<p class="transcript-line">
+<span class="time"><strong>[00:54:08]</strong> </span>
+<span class="speaker"><strong>发言人2: </strong></span>
+因为昨天我跟百度winter的这个永恒也在聊，我们对基础设施的很多观点非常像shop five这种形态的产品对中国人来说，你如果不分发流量，你这个基础设施的价值就失去了一大半，对吧？但是很多在美国看来，很多的基础设施其实真的就是基础设施。对对对，是。
+</p>
+<p class="transcript-line">
+<span class="time"><strong>[00:54:35]</strong> </span>
+<span class="speaker"><strong>发言人1: </strong></span>
+这是我们中国特色。
+</p>
+<p class="transcript-line">
+<span class="time"><strong>[00:54:37]</strong> </span>
+<span class="speaker"><strong>发言人2: </strong></span>
+对你要你其实核心就是提供的支付的解决方案。你的这个真的就是这个交易中的最基础的基础设施，根本不给你很大流量的对，所以我觉得coding也是一样，就是coding包括更泛化到其他agent我都不知道。我觉得可能以后也会出现基础设施平台，当然这不是我的事儿，这个coding agent里面肯定也会要么就这个用途上分化，对吧？大家写前端非常快，这个增长的非常快，写后端相对难一些。比如说你写了东西你要不要上线，你要不要提供hosting，hosting的人是不是会静态化，对吧？我也不知道。
+</p>
+<p class="transcript-line">
+<span class="time"><strong>[00:55:20]</strong> </span>
+<span class="speaker"><strong>发言人2: </strong></span>
+但是我感觉现在你如果仔细去看这个agent的环境的话，你会发现通用的人会垂直化。但他也不是特别垂直，但是他会选方向的垂直化。然后这个垂直的人可能想平台化，可能想更垂直化，就是这每一个事儿都有人要干。所以最后你可能不会发现说谁叫谁是通用A枕，谁叫谁垂直A诊，他可能都会说我是一个干什么什么的agent，我在这个中干得很好，对吧？因为美国好多同样是获客的sales agent，其实跟中国很多agent的做法也不一样。那他可能就提供两个功能，但这两个功能每一个功能就真的做的很顺，这个用户用起来很爽，对吧？不是左边男啪啪啪这几个功能，但其实每一个功能都不是很顺。如果你说这种通用和垂直，它其实都是垂直。
+</p>
+<p class="transcript-line">
+<span class="time"><strong>[00:56:20]</strong> </span>
+<span class="speaker"><strong>发言人2: </strong></span>
+但是你在垂直里解决核心问题，最后肯定是赢家。你在垂直里边啥都做对吧？你可能这个是不一定行的。所以我就我觉得这个问题好复杂，就不用管我现在就是谁出来做新的事，那我们都先给大家提供服务。
+</p>
+<p class="transcript-line">
+<span class="time"><strong>[00:56:39]</strong> </span>
+<span class="speaker"><strong>发言人2: </strong></span>
+怎么跑出来？我自己每天都在观察。因为就是我这个BD的工作其实跟董之轮的基金，其实总之和早期VC的工作还蛮像的。我们有一个BD的team，然后这个team是专门覆盖新的agent的那他就是清华北大Z9的这些学校，包括美国的些学校里的师兄师姐，还有可能从大厂出来，有可能是一直在创业，对吧？那我们会非常早的看到这些agent，然后去跟他们交流我对团队的要求。就是说如果一个agent都已经PR了，或者已经官宣了VC投资了，那三天之内我一定要见到他的C叉O，那不管我最后能不能服务上，有些场景我服务不上对吧？
+</p>
+<p class="transcript-line">
+<span class="time"><strong>[00:57:30]</strong> </span>
+<span class="speaker"><strong>发言人2: </strong></span>
+但是这是我们的一个思路，就是覆盖，这是覆盖，就是一定要跟所有人做朋友。我对对方的跟我聊天也是有价值的，就是不光我给他这个能卖我的东西。我其实发现说我以前做投资，特别是理解顶尖投资人是怎么想这个事情的。然后观察了说过去这些资本化的路径，这些头部的移动互联联网的创业公司，他们的资本化路径，他们的团队的管理和成长的过程。这些我发现跟我合作的方的们都非常喜欢喜欢跟我聊天。我们也有除了商业关系之外别的这个价值。所以我还对我还挺乐意跟大家交朋友的。
+</p>
+<p class="transcript-line">
+<span class="time"><strong>[00:58:22]</strong> </span>
+<span class="speaker"><strong>发言人1: </strong></span>
+对我觉得你的这个视角在创业的过程里面就很有优势，比如说我们刚才讲搜索，对吧？你就能认识到说什么方向是现在我们讲基金VC他喜欢的方向，他为什么喜欢这个方向？
+</p>
+<p class="transcript-line">
+<span class="time"><strong>[00:58:38]</strong> </span>
+<span class="speaker"><strong>发言人2: </strong></span>
+对对对，不一定对。
+</p>
+<p class="transcript-line">
+<span class="time"><strong>[00:58:41]</strong> </span>
+<span class="speaker"><strong>发言人1: </strong></span>
+对我其实就想问你的，是因为你看你自己之前在做投资，然后现在下场创业了。你觉得之前花别人的钱去投资跟你自己下场花自己的钱创业有什么不一样？
+</p>
+<p class="transcript-line">
+<span class="time"><strong>[00:58:55]</strong> </span>
+<span class="speaker"><strong>发言人2: </strong></span>
+就是我自己心态上最大的区别就是从更加认识到自己的浅薄。就是我前天在深交所拿了一个东南亚什么最具全球创新力的30家企业的一个奖，然后我就写了一个过去一年的对自己的review。其中我觉得非常想分享的就是我觉得多太容易了。
+</p>
+<p class="transcript-line">
+<span class="time"><strong>[00:59:26]</strong> </span>
+<span class="speaker"><strong>发言人2: </strong></span>
+清华校训说行胜于言，talk key chip在过去做投资人的时候，特别是我还是一个晚期和二级市场的投资人，这种投资人是非常挑剔的。他跟早期的投资人还有一个很明显的区别，就是对于二级市场投资者来说，你的核心就是挑选最好的商业模式，然后我在这个里面选优秀的创业者，那不一定是要顶流的创业者，但是商业模式一定要好，对吧？所以我们日常会这个讨论中就会说这公司壁垒太低了，会说，这个管理层太不靠谱了，这个CEO怎么回事？这么简单的商业决策都做不对，拉不拉对吧？那时候会有很多这种，就是每一个二级市场投资人，你进到一个基金里，大家日常的讨论都是这些。
+</p>
+<p class="transcript-line">
+<span class="time"><strong>[01:00:24]</strong> </span>
+<span class="speaker"><strong>发言人2: </strong></span>
+是这个那那我自己做了这个事儿之后，我觉得这个深刻的体验就是做一个普通甚至平庸的CEO对于人来说都是一个巨大的挑战。就是你头管这个昨天我还跟他们聊说，你们管3000人实在是太恐怖了。我觉得这个管100人已经让我觉得挑战巨大了，而且我还有合伙人。对我觉得这个事儿很难。所以我回到这个自我认知上，就是说你会觉得说起来太容易了，你评论别人太容易了。自己做了之后，你也发现说壁垒这件事儿在早期或者这个行业快速进步的时候不是最重要的事。因为你第一重要的事儿是能ride on它这个浪潮。
+</p>
+<p class="transcript-line">
+<span class="time"><strong>[01:01:18]</strong> </span>
+<span class="speaker"><strong>发言人2: </strong></span>
+对，那这个浪潮的过程中，你其实壁垒就是比你做的烂的人也能增长很快，对吧？但这不是坏事，就是因为你们先增长到随着市场一起增长。那对这大家都是好处，大家都是创始人，那大家都做到这个市场到一个新的饱和的状态之后，大家才开始竞争。那个时候可能你拼的就是你的质量，拼的你的性价比，对吧？所以你的壁垒是做的过程中建立起来的，没有人第一天就有壁垒。对对对，然后还有什么？
+</p>
+<p class="transcript-line">
+<span class="time"><strong>[01:01:54]</strong> </span>
+<span class="speaker"><strong>发言人2: </strong></span>
+还有就是我觉得人这件事儿，人才这件事儿我有了更多的理解。因为做二级市场的投资人大部分时间是单打独斗，就是你你觉得怎么样对吧？别人都是别人，你都觉得这个人聪明，可以听一下。个人想不用听他讲什么。你跟研究员和其他基金经理的合作和交流都是这种状态。就是你只用选择听什么，但最后都是你自己怎么想的，你自己怎么做对吧？
+</p>
+<p class="transcript-line">
+<span class="time"><strong>[01:02:28]</strong> </span>
+<span class="speaker"><strong>发言人2: </strong></span>
+创业的过程中，其实你会发现说人或者说你的团队比做投资的时候重要很多。你所有事都是靠团队做出来的，核心团队的这个核心leader的能力就非常综合。我觉得这个能力就跟做创业公司，我感觉一层一层都是创业者。就不光是得有这个创始人是创业者，其实你的这个简一也都是创业者。因为他要去聚人，你会发现他的巨人能力跟你的巨人能力相比甚至更重要，对吧？
+</p>
+<p class="transcript-line">
+<span class="time"><strong>[01:03:05]</strong> </span>
+<span class="speaker"><strong>发言人2: </strong></span>
+比如说拿搜索这个例子举，你如果没有最核心的这几个研发的leader，你根本一个人都招不到。因为他们只信自己跟这些搜索的研发自信，跟自己合作过的，他觉得靠谱的这个人。所以就是我觉得这些leader，所以我们一直在非常努力的凝聚人，我们高管的团队其实一直都在有新的核心的高管加入。比如说最近有这个新的技术VP，我们很快会有新的CFO加入。我们觉得这个人是超级重要的。这些人我希望我们招的人就不光是能力强，而且都要有创业精神。这个有没有创业精神是特别明显的一件事儿。
+</p>
+<p class="transcript-line">
+<span class="time"><strong>[01:03:54]</strong> </span>
+<span class="speaker"><strong>发言人2: </strong></span>
+在对对在这个过程中的没有发现说，有的人就是不适合创业。他可能是个很好的工程师，很好的leader，但是他就是很适合在大厂里工作。有的人就是他不需要跟人协作，但是他就是一个很好的创业者，他就是能干很多事儿，交付对吧？所以我觉得还蛮好玩的。我觉得这个人的组织和编排就跟你把大模型和这些对这个组织和编排一样，非常有趣，而且很很有挑战。
+</p>
+<p class="transcript-line">
+<span class="time"><strong>[01:04:31]</strong> </span>
+<span class="speaker"><strong>发言人1: </strong></span>
+对你讲的这个我也深有体会。比如说你找人的时候，假如你找了一个不对的人，就是你刚才讲的说本来我们想找一个有创业精神的人，结果找到了一个在大厂工作，其实人家能力也还挺好的人。但是他可能创业精神不会那么的足。你到最后你真正想去推进事情的时候，你会发现非常无力。
+</p>
+<p class="transcript-line">
+<span class="time"><strong>[01:04:52]</strong> </span>
+<span class="speaker"><strong>发言人2: </strong></span>
+你非常痛苦。你推不动人的时候你非常痛苦。你就是觉得这个事儿大家都知道要这么干，但人家就是不给你干，对吧？人家就是说我需要什么什么资源我才能干。
+</p>
+<p class="transcript-line">
+<span class="time"><strong>[01:05:05]</strong> </span>
+<span class="speaker"><strong>发言人1: </strong></span>
+对对对。
+</p>
+<p class="transcript-line">
+<span class="time"><strong>[01:05:06]</strong> </span>
+<span class="speaker"><strong>发言人2: </strong></span>
+是。好的创业者是说我纤手搓，觉得牛逼的创业者，不管是标红还是景坤他们，我觉得他们都有一个特别好的精神。就是包括新一代的这些95后、00后好的创业者。就是我日常观察这些客户的状态，我觉得他们都有一个特别好的精神，就是手托的精神。就是你不没有相应的服务商，因为我们发现我们很多客户都是我们跟他聊了之后，他才发现原来有更好的服务可以直接用。但在此之前他们都手搓了，就是包括你刚才说的用色谱来手搓，对吧？这个是一个很典型的路径，我觉得这是好的创业者最最重要的特质。
+</p>
+<p class="transcript-line">
+<span class="time"><strong>[01:05:50]</strong> </span>
+<span class="speaker"><strong>发言人2: </strong></span>
+就是你先别跟我说有没有成熟的供应商，你如果找不到，那就手搓干了再说。因为你这些人放在这就是为了干事儿的，如果你卡在这儿，那别的事儿也干不了，对吧？那你就先手搓了再说，有了好的你再替。所以我觉得这个是最重要的一个。
+</p>
+<p class="transcript-line">
+<span class="time"><strong>[01:06:11]</strong> </span>
+<span class="speaker"><strong>发言人1: </strong></span>
+事对对对对，而且我还有一点深有体会的，就是因为你是二级出身，我一直以为你是VC对，但你是二级出身，其实二级能选的公司，因为你都有研究员帮你研究。你能选的公司其实大家都是在一定规模之上的那都有规模的情况下，我肯定对比商业模式了。那商业模式好的公司那肯定是更好的对，但是在创业阶段的话，确实没有人能够非常立刻的去建立核心壁垒，对吧？
+</p>
+<p class="transcript-line">
+<span class="time"><strong>[01:06:36]</strong> </span>
+<span class="speaker"><strong>发言人1: </strong></span>
+这件事儿我觉得大家不用谈说，你有什么壁垒我有什么壁垒。而且在技术产品层面上面有壁垒。这件事儿我不认为可能说有一个长期的技术壁垒一直在那儿。当然今天英伟达可能有CUDA有一个壁垒，但是可能我们过了三年五年，可能它这个壁垒持续时间会比较长。三年五年可能这个壁垒会逐渐的没有那么的看起来强力，对吧？但我觉得有一点可能在二级市场里边，我觉得有一点是比较好的一点，就是你认识到了什么是好的商业模式。
+</p>
+<p class="transcript-line">
+<span class="time"><strong>[01:07:10]</strong> </span>
+<span class="speaker"><strong>发言人2: </strong></span>
+是的。
+</p>
+<p class="transcript-line">
+<span class="time"><strong>[01:07:10]</strong> </span>
+<span class="speaker"><strong>发言人1: </strong></span>
+在你回过头来再去创业的时候，你不会干不是好商业模式的事儿。对吧？
+</p>
+<p class="transcript-line">
+<span class="time"><strong>[01:07:18]</strong> </span>
+<span class="speaker"><strong>发言人2: </strong></span>
+对我觉得这个会给给你一些指导的方向。你上来会知道说什么事儿一定干不成，你不会，但你不会知道说这事儿肯定干得成，这个没有人知道，但是你会先pass掉那些一定干不成的方向，或者干不大的方向。这个我觉得是很大的帮助。然后做的过程中你会避掉一些坑，你知道这事干了你就永远不能上市了，或者你知道这事儿干了，你之后要干十件事来弥补，对吧？比如说你之前要不要倒卖算力，要不要做一体机，一些来钱快的方式对吧？对对对，就知道说这个你干了你就再也回不来了。你干了之后你就这个坑，你不知道要什么时候才能填起来。虽然对你现在的收入利润看着有帮助，对吧？
+</p>
+<p class="transcript-line">
+<span class="time"><strong>[01:08:11]</strong> </span>
+<span class="speaker"><strong>发言人2: </strong></span>
+所以我开始也说AR这事儿没重要，但是没那么重要。重要是因为它迫使你不停的去商业化，跟客户BD客户建立关系。他不许你干这个正确的事情，但是他又没那么重要。你们因为你不能为了AR干很多你不该干的事情。有的事你来钱很快，对吧？比如说你倒卖一下数据，你给客户搞什么什么不能利用的数据，对吧？这些客户很愿意给你付钱，那你干了这种事情之后，你就会发现，那你长期的合规性就有很大的问题，你就是不能干，就是你你说回来就是二级市场的经历让我知道说什么不能干，你干了你就算就完蛋。
+</p>
+<p class="transcript-line">
+<span class="time"><strong>[01:08:57]</strong> </span>
+<span class="speaker"><strong>发言人1: </strong></span>
+对，而且很多事儿就像你刚才讲的，说什么倒卖算力，倒卖数据这种事儿，尤其是这种来钱快的事儿，一旦你吸上了想借还挺。
+</p>
+<p class="transcript-line">
+<span class="time"><strong>[01:09:06]</strong> </span>
+<span class="speaker"><strong>发言人2: </strong></span>
+难的很难的。因为这个也很好玩，其实核心是人的事。因为你的销售或者说你的BD发现说这事赚钱很容易，对他来说也是毒品。因为是的，他用上了之后，他就会不停的选择最短的路径去拿到提成达成业绩。是的，所以这个是非常大的问题。
+</p>
+<p class="transcript-line">
+<span class="time"><strong>[01:09:31]</strong> </span>
+<span class="speaker"><strong>发言人1: </strong></span>
+今天感觉聊了非常多。
+</p>
+<p class="transcript-line">
+<span class="time"><strong>[01:09:33]</strong> </span>
+<span class="speaker"><strong>发言人2: </strong></span>
+对，今天好有意思。
+</p>
+<p class="transcript-line">
+<span class="time"><strong>[01:09:35]</strong> </span>
+<span class="speaker"><strong>发言人1: </strong></span>
+非常感谢William的时间。我们节目有一个固定一分钟的广告时间，然后你可以自由发挥。
+</p>
+<p class="transcript-line">
+<span class="time"><strong>[01:09:42]</strong> </span>
+<span class="speaker"><strong>发言人2: </strong></span>
+一下OK。对我觉得我第一个广告是希望各种各样AI native的创始人和这个核心的团队，或者有意思的有想法的，哪怕是艺人公司的创始人多找我来聊天。其实我也没有很强的销售意图，但是我非常喜欢跟各种各样的方的一起来讨论问题。我觉得这个认知是越聊越深入，越聊越明。我也可以把我的各种各样的过去十几年上一个周期的一些认知分享给大家。这个我觉得是第一个广告。给我自己打一个广告，就是大家可以在小红书或者微信或者即刻上找到我，跟我来聊天。我自己非常愿意跟各个founders深入交流聊天，吧？
+</p>
+<p class="transcript-line">
+<span class="time"><strong>[01:10:38]</strong> </span>
+<span class="speaker"><strong>发言人2: </strong></span>
+第二个广告就是给我们的这个小数智能搜索打一个广告。我们应该是中国唯一一个提供超过30种语言的搜索引擎的公司。除了中文、英文，西语、葡语、俄语、日语、韩语，包括阿拉伯语、印尼语，我们都做的还不错。所以我觉得当下的所有agent也都应该上来就做一个global的公司。那做global公司的时候，如果要用到实时的信息数据，那在搜索上，包括搜索后面的这个reader上都可以考虑用小数的产品。
+</p>
+<p class="transcript-line">
+<span class="time"><strong>[01:11:19]</strong> </span>
+<span class="speaker"><strong>发言人2: </strong></span>
+第三个广告是大家创业的时候，用模型和边缘云的这些场景下，可以考虑小数的智能模型聚合平台。我们不光是像open root or一样有一站式的服务，我们还有一定的折扣可以帮大家。如果从open root上贴过来，肯定是可以直接帮大家省钱的。没有了，谢谢settle OK。今天跟William.
+</p>
+<p class="transcript-line">
+<span class="time"><strong>[01:11:46]</strong> </span>
+<span class="speaker"><strong>发言人1: </strong></span>
+聊的特别开心，然后William也给我们带来了很多暴论，或者说对我来讲的新的认知。对，非常感谢William，希望我们后续还有机会可以随时跟进一下，包括小苏科技也好，包括我们去聊点投资，聊点AI agent的发展等等。对，好，希望后续还有机会。
+</p>
+<p class="transcript-line">
+<span class="time"><strong>[01:12:05]</strong> </span>
+<span class="speaker"><strong>发言人2: </strong></span>
+如果你有别的创始人上你的节目，我们可以一起可以搞一个多人的菊。
+</p>
+<p class="transcript-line">
+<span class="time"><strong>[01:12:10]</strong> </span>
+<span class="speaker"><strong>发言人1: </strong></span>
+那可以可以可以。好的，我们今天节目就先到这里。感谢魏，我们下期再见。
+</p>
+<p class="transcript-line">
+<span class="time"><strong>[01:12:17]</strong> </span>
+<span class="speaker"><strong>发言人2: </strong></span>
+拜拜谢谢拜拜拜。
+</p>
+<p class="transcript-line">
+<span class="time"><strong>[01:12:20]</strong> </span>
+<span class="speaker"><strong>发言人1: </strong></span>
+以上就是我们本期播客的全部内容，感谢大家收听，也欢迎大家踊跃留言。如果你喜欢我们，欢迎点赞并分享给感兴趣的朋友。如果你在用苹果播客收听，也希望你花几秒钟给我们一个好评。这会让更多的人了解到我们要是能再点击一下订阅，那就再好不过了。我们下周见。
+</p>]]></content:encoded>
+            <pubDate>Sun, 28 Sep 2025 22:00:00 GMT</pubDate>
+            <guid>68d90738b4befcf7305109ef</guid>
+        </item>
+        <item>
+            <title>EP113 对话 Final Round AI：千万美金 ARR 背后的增长逻辑 - 成功不靠运气，靠的是体系</title>
             <link>https://www.xiaoyuzhoufm.com/episode/68bed88f9eb4a493006a0999</link>
             <description>企业一面高喊拥抱AI提效，一面又严防死守候选人用AI作弊？本期「硬地骇客」和硅谷商业AI公司 Final Round AI 的 CEO Michael 聊了聊这个话题。 Final Round AI 正在 Interview Copilot 赛道一路狂奔，短短一年多就突破了千万美元的年化收入。Michael 分享了很多干货，信息密度极高，绝对让你大呼过瘾！
 以下是本期节目亮点：
@@ -23881,646 +24760,6 @@ Podwise.ai - Podcast knowledge at 10x speed 🚀
 </p>]]></content:encoded>
             <pubDate>Tue, 03 Dec 2024 22:00:00 GMT</pubDate>
             <guid>674f227f17cd5416ad356130</guid>
-        </item>
-        <item>
-            <title>EP84 从何同学的“翻车”，聊到AI的版权问题</title>
-            <link>https://www.xiaoyuzhoufm.com/episode/674454ff11045e78e5c8552e</link>
-            <description>本期节目从何同学的“翻车”聊到AI时代版权的挑战，从开源协议的未来聊到程序员的未来。大V的光环背后有什么样的压力？AI时代代码版权到底怎么算？未来的编程会变成什么样，代码版权是否还重要？欢迎收听，评论区留下你的观点。
-更多内容信息和时间线参考下文的硬地笔记，欢迎收听本期节目。
-另外，现在加入「硬地骇客」会员服务，即可在会员专属的微信群与其他朋友一起畅所欲言，成为会员也是对我们持续更新最大的鼓励！
-本期赞助
-Podwise.ai - Podcast knowledge at 10x speed 🚀
-硬地笔记
-00:00:04 何同学翻车事件：诚信危机与大V的困境
-00:05:01 大V的代价：流量与专业度的博弈
-00:08:56 小V与大V的差异：流量与舆论的双刃剑
-00:13:49 AI时代版权的挑战：代码、图片与未来
-00:19:58 开源协议与AI：共生还是对抗？
-00:31:51 未来的编程与代码：AI驱动下的新世界
-欢迎关注我们
-* 知识星球: t.zsxq.com
-* 官网: hardhacker.com
-* 小手册: book.hardhacker.com
-* 用爱发电不容易，请我们喝咖啡☕️: afdian.net
-* 公众号/小红书: 硬地骇客
-* 商务合作: hardhackerlabs@gmail.com</description>
-            <content:encoded><![CDATA[<h1>转写链接</h1>
-<link>https://tongyi.aliyun.com/efficiency/doc/transcripts/g34dn8epwp2lnwjz</link><br>
-<h1>节目摘要</h1>
-<div class="summary">讨论者们集中讨论了AI技术，特别是大型语言模型（LLMs）在编程和软件开发领域的应用及其对版权问题的影响。他们探讨了AI生成代码的能力，及其对开源软件社区、版权法律和个人开发者可能带来的变革。讨论者们表达了对版权制度未来可能面临的挑战的担忧，特别是AI可能学习和生成人类创造的代码片段，挑战现有版权概念。他们还提出了对开源协议可能需要的调整，以适应AI技术的发展，并设想了未来编程方式的可能变化，即程序员可能不再需要亲自编写代码，而是通过与AI的交互直接生成软件。最后，讨论者们呼吁对未来技术发展持开放态度，并鼓励听众参与对未来版权问题的深入讨论。</div><br>
-<h1>章节速览</h1>
-<div class="chapters">
-<div class="chapter-item">
-<span class="time"><strong>[00:00:00]</strong> </span>
-<span class="chapter-title"><strong>异地骇客：Power Wise赞助节目介绍及优惠活动</strong></span>
-<div class="chapter-summary">本期节目由Power Wise赞助，其产品AI学习软件可帮助播客听众深度理解和管理播客内容，同时与Notion、Radio Wise等平台打通，助力打造个人知识管理系统。为互动听众提供三个5折优惠码。</div>
-</div>
-<div class="chapter-item">
-<span class="time"><strong>[00:00:46]</strong> </span>
-<span class="chapter-title"><strong>何同学因视频诚信问题引发争议</strong></span>
-<div class="chapter-summary">近期，知名UP主何同学因发布的一则视频引起争议。该视频中，何同学使用了一个能够将动画色块转换成字符的软件，但被网友指出实际上是在使用GitHub上的一个开源项目，而非他们自创的软件。尽管何同学迅速认错并向原作者道歉，网友的质疑仍集中在诚信问题上。此外，何同学之前也曾因在华为实验室测试手机网速时，操作不当引发争议，被质疑专业水平与人设不符。此次事件不仅再度引发对何同学及其团队诚信的质疑，也让一些网友更加积极地对其持批评态度。</div>
-</div>
-<div class="chapter-item">
-<span class="time"><strong>[00:05:10]</strong> </span>
-<span class="chapter-title"><strong>科技博主的诚信与专业度争议</strong></span>
-<div class="chapter-summary">对话围绕科技博主在内容创作中的诚信和专业度问题展开。讨论指出，许多初级开发者可能有抄袭他人代码的行为，尤其是在早期职业生涯中，但这在成为公众人物或开发商业软件时需要更加谨慎。此外，对话中提及一些知名科技博主因其内容不够硬核而受到争议，尽管他们拥有大量流量，但科技圈内的专业人士对其专业度持有保留意见。最后，讨论还探讨了科技博主在接商单、养活团队以及面对公众审视时的困境和挑战。</div>
-</div>
-<div class="chapter-item">
-<span class="time"><strong>[00:08:39]</strong> </span>
-<span class="chapter-title"><strong>公众人物应如何面对公众审视与流量压力</strong></span>
-<div class="chapter-summary">对话围绕公众人物尤其是大V在面对公众审视、流量压力时所遇到的挑战展开。讨论指出，大V在享受流量带来的收益的同时，也需承担相应的责任，接受公众的监督和批评。此外，还提及了公众人物在展示自己团队或个人成就时的透明度问题，以及公众对公众人物“德不配位”的普遍看法。通过分析影视飓风和何同学等例子，强调了公众人物在处理公众流量和舆论压力时所面临的复杂性。</div>
-</div>
-<div class="chapter-item">
-<span class="time"><strong>[00:11:14]</strong> </span>
-<span class="chapter-title"><strong>网红与大V的流量困境与初心回归</strong></span>
-<div class="chapter-summary">对话围绕网红、大V和UP主在追求流量的过程中所面临的痛苦根源展开，指出随着流量和收益的增加，他们可能被流量裹挟，从而失去初心。举例李子柒在沉寂期间的沉淀与回归，强调保持初心和输出价值的重要性。此外，讨论了AI时代版权界定的复杂性，特别是当代码由AI生成时，可能出现的版权归属问题。</div>
-</div>
-<div class="chapter-item">
-<span class="time"><strong>[00:15:03]</strong> </span>
-<span class="chapter-title"><strong>AI生成内容的版权归属及侵权问题</strong></span>
-<div class="chapter-summary">讨论了AI生成内容的版权归属在不同国家法律下的差异，特别是在美国和欧盟，AI生成的内容通常不被赋予版权。此外，探讨了AI生成代码可能带来的版权侵权风险，包括无法追溯原始开源协议的情况，以及提出让AI自动生成license作为自我防御的策略。最后，讨论了开发代码检测服务以帮助开发者识别开源代码来源的潜在商业机会。</div>
-</div>
-<div class="chapter-item">
-<span class="time"><strong>[00:18:55]</strong> </span>
-<span class="chapter-title"><strong>开源许可与AI生成代码的责任归属</strong></span>
-<div class="chapter-summary">对话探讨了开发者在编程中复制代码的现象，以及开源许可在未来AI生成代码中的适用性和可能的更新。讨论指出，当前AI更多被视为程序员的辅助工具，代码责任主要归于具体的人或法人，而非AI。随着技术发展，开源许可的规则可能需要调整以适应AI技术的新需求。</div>
-</div>
-<div class="chapter-item">
-<span class="time"><strong>[00:20:51]</strong> </span>
-<span class="chapter-title"><strong>开源运动与AI训练的版权问题探讨</strong></span>
-<div class="chapter-summary">讨论重点在于开源运动对软件行业和AI训练的积极影响，以及由此引发的版权问题。开源运动，尤其是Richard stallman的贡献，使得海量的开源代码和社区资源成为可能，不仅推动了软件行业的发展，也为AI提供了丰富的训练资源。然而，音视频和图片等非代码资源由于版权信息不完善，更容易引发侵权问题。对话中提到了OpenAI提出的抗辩理论，即AI模型的训练过程和产出内容经过了变革性的加工，与原始训练材料的目的和表达有本质区别，因此可能不构成侵权。同时，讨论还涉及了开源协议和艺术作品临摹等例子，强调了版权问题的复杂性以及在AI训练和应用中的责任归属问题。</div>
-</div>
-<div class="chapter-item">
-<span class="time"><strong>[00:25:15]</strong> </span>
-<span class="chapter-title"><strong>开源运动与音视频图片AI训练的区别及收益分配问题</strong></span>
-<div class="chapter-summary">对话探讨了开源运动在代码领域与音视频、图片领域的区别，指出代码领域因开源运动保留了丰富的过程信息，而音视频和图片领域主要只有结果信息，导致AI训练在不同领域的效果差异。同时，讨论了开源软件对大模型公司AI成果的贡献与收益分配不均的问题，提出大模型公司应考虑回馈开源社区，给予开源贡献者一定折扣。还提到了开源项目被大公司利用而未得到合理回报的历史案例，并畅想了未来可能存在的拒绝AI学习的开源协议，以及取证和相似代码的挑战。</div>
-</div>
-<div class="chapter-item">
-<span class="time"><strong>[00:28:51]</strong> </span>
-<span class="chapter-title"><strong>开源、AI与代码效率提升的正循环</strong></span>
-<div class="chapter-summary">对话围绕开源、AI提高代码编写效率的正向循环展开，强调了开源通过避免重复劳动提高了程序员的效率，从而促进了信息世界的建设。进一步讨论了AI能力的提升同样能够极大地提高程序员的效率，形成一个正向的反馈系统，通过更多代码的产生和使用来训练AI，进一步加快信息世界的建设。同时，对话也探讨了开源代码在大模型训练中的作用，以及如何从道德和法律的角度回馈开源作者，提出了直接给予折扣等简单的回馈方式。此外，还讨论了某些人或公司可能会因盈利问题修改协议，但总体上认为AI学习和使用开源代码是促进技术进步和效率提升的一种积极现象。</div>
-</div>
-<div class="chapter-item">
-<span class="time"><strong>[00:32:10]</strong> </span>
-<span class="chapter-title"><strong>开源项目与AI学习代码的关系及商业影响</strong></span>
-<div class="chapter-summary">对话围绕开源项目是否应修改协议以应对AI学习代码的问题展开，指出云厂商修改协议是因为面临直接竞争对手，而AI学习代码则涉及更复杂的推理和大量资源投入，两者商业关系不同。讨论还提到，AI学习开源代码能加速生态发展，促进开源项目与AI厂商之间的共生关系，以及可能的强者恒强效应，强调了AI学习对提升效率和生态繁荣的积极作用。</div>
-</div>
-<div class="chapter-item">
-<span class="time"><strong>[00:35:43]</strong> </span>
-<span class="chapter-title"><strong>AI技术对开源生态及版权保护的影响</strong></span>
-<div class="chapter-summary">讨论集中在Google宣称其新代码中40%由AI编写，尽管这一说法被内部否认，但AI在代码创作中的比例确实在增加。此现象引发了对开源协议未来变化的探讨，以及AI生成内容增多背景下版权保护的模糊性。虽然认为开源协议大规模针对AI变化的可能性不大，但提出了未来代码保护和原创者利益保护的挑战，同时建议从更广阔的视角看待代码的重要性及其保护需求。</div>
-</div>
-<div class="chapter-item">
-<span class="time"><strong>[00:37:14]</strong> </span>
-<span class="chapter-title"><strong>未来代码库与AI生成代码的展望</strong></span>
-<div class="chapter-summary">未来，代码库可能成为人类共享的基础知识库，就像数学原理和物理定律一样，成为无需考虑版权的公共财富。这种变化可能导致人类不再亲自编写大量代码，而是依赖AI生成，进一步推动代码库的丰富和应用，使得AI生成的代码成为解决各种问题的基础工具。</div>
-</div>
-<div class="chapter-item">
-<span class="time"><strong>[00:38:58]</strong> </span>
-<span class="chapter-title"><strong>探讨未来AI驱动的计算机及编程革新</strong></span>
-<div class="chapter-summary">对话探讨了未来计算机领域可能发生的重大变化，尤其是通过在操作系统之上增加AI抽象层，使人类能直接与AI交互，从而减少对传统编程的依赖。此外，讨论还触及了版权问题的未来趋势，以及AI驱动的编程语言可能带来的软件生成革新。最后，提及了对GPT5等未来技术的期待，以及可能实现的AI直接生成软件的愿景。</div>
-</div>
-</div><br>
-<h1>问题回顾</h1>
-<div class="qa-item">
-<div class="question"><strong>Q:</strong> 最近B站UP主何同学因为发布了一条视频被网友指出使用了开源项目而非原创，这引发了什么风波？</div>
-<div class="answer"><strong>A:</strong> 何同学因为一条视频中使用了一个从GitHub开源项目中获取的代码来制作动画，但在视频中他声称是专门写了一个软件来做这件事，这一行为被网友扒出后引起很大争议。虽然何同学所在团队使用的开源项目协议较为宽松，但他的这种做法仍被认为涉及诚信问题，尤其是考虑到该视频还存在商业合作成分。</div>
-</div>
-<div class="qa-item">
-<div class="question"><strong>Q:</strong> 这次事件中，何同学是否承认了自己的错误并采取了相应措施？</div>
-<div class="answer"><strong>A:</strong> 是的，何同学在视频被曝光后迅速修改了原视频，并发表了道歉声明，承认他们修改了开源代码来完成视频内容。</div>
-</div>
-<div class="qa-item">
-<div class="question"><strong>Q:</strong> 何同学之前是否有过类似的翻车事件？</div>
-<div class="answer"><strong>A:</strong> 是的，何同学之前在华为实验室的一个测试视频中，由于操作不当弱化了信号以测试最高网速，这一做法被专业人士指出并不合理。他后来解释说是根据华为实验室的要求，但这番回应暴露了他对天线信号知识的缺乏。</div>
-</div>
-<div class="qa-item">
-<div class="question"><strong>Q:</strong> 何同学的专业背景是什么？他在业界的形象是怎样的？</div>
-<div class="answer"><strong>A:</strong> 何同学是北邮通信专业毕业的，但这次事件中他对于爆炸极化天线信号范围的认知不足，导致人设受损，被网友称为“赛博丁真”。他因报道5G等内容走红，拥有大量流量，但此次诚信问题使得其形象受到了严重冲击。</div>
-</div>
-<div class="qa-item">
-<div class="question"><strong>Q:</strong> 对于何同学团队中存在的问题，您怎么看？</div>
-<div class="answer"><strong>A:</strong> 认为何同学团队可能在视频制作过程中存在知识更新滞后、信息删除等操作，这可能是团队成员或团队负责人知情且故意为之。作为公众人物和商业IP，他应当承担由此带来的形象损失。同时，对于开发者来说，删除他人代码注释的行为在早期可能存在侥幸心理，但在公众人物或商业项目中，则需谨慎对待。</div>
-</div>
-<div class="qa-item">
-<div class="question"><strong>Q:</strong> 对于何同学的内容质量，您有何看法？</div>
-<div class="answer"><strong>A:</strong> 很多人认为何同学的内容不够硬核，与其自标榜的科技博主身份不符。</div>
-</div>
-<div class="qa-item">
-<div class="question"><strong>Q:</strong> 对于这位科技博主的作品，争议主要集中在什么方面？这种争议下，这位博主面临什么样的压力？</div>
-<div class="answer"><strong>A:</strong> 争议主要在于他的视频中炫酷的手法与科技硬核知识内容之间的比重，很多人认为他的内容科技含量不足，且存在较大争议。特别是在科技圈内的一些爱好者和专业人士中，他们对这一问题持有不同看法。随着流量增高，外界对他专业度的要求也相应提高。一旦出现任何问题，就会遭受大量质疑和喷射，这让他在输出内容时需要格外小心，既要满足商业合作需求，又要承受众多观众的审视和约束。</div>
-</div>
-<div class="qa-item">
-<div class="question"><strong>Q:</strong> 作为大V，在内容创作上是不是会有更多顾虑和痛苦？</div>
-<div class="answer"><strong>A:</strong> 是的，大V如何同学，在创作过程中不仅要担心被发现造假，还要面对众多粉丝和评论区的严格审视。他们既要养活团队，又要承受高压，很多主题不能触及，具体核心内容创作时也会有所束缚，且容易因一次失误被全网指责。</div>
-</div>
-<div class="qa-item">
-<div class="question"><strong>Q:</strong> 大V在面临流量压力时，其痛苦根源是什么？</div>
-<div class="answer"><strong>A:</strong> 大V们的痛苦根源并不在于公众流量本身，而在于随着流量和收入的增长，容易被流量裹挟，逐渐失去初心，过分追求博眼球、追流量，从而陷入困境。</div>
-</div>
-<div class="qa-item">
-<div class="question"><strong>Q:</strong> 李子柒作为大V，在流量与坚守初心之间如何取得平衡？</div>
-<div class="answer"><strong>A:</strong> 李子柒虽然曾有一段时间断更，但她回归后依然保持了高流量，并且在沉寂期间不断学习传统文化，提升视频内容质量，这显示了她能够在追求流量的同时，坚守初心和价值观。</div>
-</div>
-<div class="qa-item">
-<div class="question"><strong>Q:</strong> 在AI时代，版权界定是否会变得越来越困难？如果两个人分别使用AI生成相同的代码并署上自己的版权，是否会产生侵权问题？</div>
-<div class="answer"><strong>A:</strong> 是的，在AI时代，由于AI生成内容的版权归属问题在不同国家法律规定各异，且AI可能无法被认定为具备智力劳动，因此版权界定确实变得复杂。例如，美国和欧盟的法律要求作品需有人类参与或智力劳动体现，AI生成的内容往往难以获得版权保护。有可能发生这种情况。如果两人分别使用AI生成完全相同的代码并声称拥有版权，由于AI生成内容的版权归属不明确，可能会出现双方都在主张拥有该代码版权的诡异现象。而在实际案例中，如果AI生成的代码来源于开源代码且未经修改，用户可能因不知道原始版权信息而违反协议。</div>
-</div>
-<div class="qa-item">
-<div class="question"><strong>Q:</strong> 对于未来开源协议在AI环境下的有效性及可能的变化，如何看待？</div>
-<div class="answer"><strong>A:</strong> 开源协议已经有几十年的历史，最初是为了保护人类创作的著作权。随着AI的发展，这些协议可能会被更新，甚至出现针对AI的特殊限制或专门指示规则。但这些都需要时间来验证和发展。</div>
-</div>
-<div class="qa-item">
-<div class="question"><strong>Q:</strong> 是否可以设想一种方案，让AI在其生成的代码上打上AI自己的license，以此来防御侵权指控？</div>
-<div class="answer"><strong>A:</strong> 这是一个有趣的想法。虽然AI本身不能拥有版权，但理论上可以让AI生成的代码带有明确标识，表明这段代码由大语言模型生成，并注明相关开源协议信息。这样，在发生侵权争议时，可以将责任指向AI模型及其训练数据来源，从而达到自我防御的效果。不过，这种做法还未得到实践验证，且可能存在法律和逻辑上的问题。</div>
-</div>
-<div class="qa-item">
-<div class="question"><strong>Q:</strong> 在当前环境下，AI是否可以被视为程序员的一个辅助工具，并且项目责任应在具体个人或法人身上而非推给AI？</div>
-<div class="answer"><strong>A:</strong> 是的，我认为在当下AI确实更多是程序员的一个辅助工具。尽管未来可能会有所不同，但在目前阶段，将项目责任完全推给AI并不成立，程序员或所属公司在项目中承担主要责任。</div>
-</div>
-<div class="qa-item">
-<div class="question"><strong>Q:</strong> 开源运动和开源代码对当前软件行业的影响是什么？</div>
-<div class="answer"><strong>A:</strong> 开源运动和开源代码为软件行业提供了海量的训练资源，如GPL协议、MIT协议等，它们壮大了Linux社区并促进了整个行业的进步。程序员可以快速利用这些开源代码和AI技术，享受AI带来的红利，同时开源社区完善的许可制度也帮助AI公司在训练过程中降低版权风险。</div>
-</div>
-<div class="qa-item">
-<div class="question"><strong>Q:</strong> 对于AI训练过程中可能涉及的版权问题，是否存在相关抗辩理论？如果有人因使用AI模型而产生侵权行为，责任归属如何？</div>
-<div class="answer"><strong>A:</strong> OpenAI提出了一个抗辩理论，认为AI模型训练过程及产出内容与原始训练内容在目的和表达上有很大不同，属于变革性加工，不应被视为侵权。这一观点类似于人类学习艺术风格并创作出相似作品的情况，即使在版权法下可能不构成侵权。如果有人因使用AI模型而侵权，那么责任在于该人自身，而非AI模型。对于发布信息或收取版权费的人来说，如果要确保内容不侵权，就必须保证内容完全原创，未使用任何已有版权资源。这确实是一个值得商讨的问题。</div>
-</div>
-<div class="qa-item">
-<div class="question"><strong>Q:</strong> 为什么在代码领域，开源运动相较于音视频和图片能做得更好？</div>
-<div class="answer"><strong>A:</strong> 主要原因是代码具有详细的过程信息，可以追溯到具体的开发方法和技术步骤，而音视频和图片等媒体形式往往只有结果，缺乏生成过程中的详细信息，这使得对AI训练过程中的版权问题进行界定更为困难。</div>
-</div>
-<div class="qa-item">
-<div class="question"><strong>Q:</strong> 开源运动帮助大模型公司生成代码，但这些公司是否应回馈社区，比如给开源项目提供折扣？是否有开源项目因为大公司使用其代码训练模型而导致项目方更改协议的情况？</div>
-<div class="answer"><strong>A:</strong> 是的，我认为大模型公司通过利用开源代码训练其模型并获得收益后，应该回馈社区，比如对参与开源项目的人员给予折扣等。是的，例如MongoDB和redis等开源项目曾因被AWS和Google等公司商业利用，导致项目方修改协议，限制了英特尔公司在自家产品中使用这些开源代码。</div>
-</div>
-<div class="qa-item">
-<div class="question"><strong>Q:</strong> 开源项目如何在大模型学习过程中得到回馈？</div>
-<div class="answer"><strong>A:</strong> 开源项目在大模型学习过程中可能难以精确统计回馈，最简单的做法可能是为开源作者提供一些折扣作为回报。</div>
-</div>
-<div class="qa-item">
-<div class="question"><strong>Q:</strong> 未来是否存在有人发起拒绝大模型公司使用其代码训练的开源协议？</div>
-<div class="answer"><strong>A:</strong> 这是一个可能的情况，就像有人可能会发起拒绝AI学习特定开源代码的协议，就像完全禁止训练某些特定产品的源码。</div>
-</div>
-<div class="qa-item">
-<div class="question"><strong>Q:</strong> 对于AI学习开源代码的行为，您个人持何种态度？</div>
-<div class="answer"><strong>A:</strong> 我个人支持AI学习开源代码，因为它提高了程序员的工作效率，形成了一个正向的反馈系统，让世界变得更好。即使我的开源项目被用于训练大模型，我也并不介意。</div>
-</div>
-<div class="qa-item">
-<div class="question"><strong>Q:</strong> AI学习开源代码与MongoDB和Harsh Cop等公司修改协议的情况有何不同？</div>
-<div class="answer"><strong>A:</strong> AI学习开源代码与MongoDB和Harsh Cop等公司修改协议是两件不同的事情。云厂商修改协议更多是因为市场竞争和商业服务化的需求，而AI学习开源代码则是技术进步带来的正循环效应，提高了整体的社会效率。</div>
-</div>
-<div class="qa-item">
-<div class="question"><strong>Q:</strong> AI学习代码并生成代码的过程是怎样的？</div>
-<div class="answer"><strong>A:</strong> AI从学习你的代码到生成代码，这个过程非常漫长且需要大量GPU算力资源投入。AI自身也需要投入大量资金。整个过程中包含很多专业内容，超出普通人的能力范畴。</div>
-</div>
-<div class="qa-item">
-<div class="question"><strong>Q:</strong> MongoDB与云厂商和Cos r之间的商业关系是什么样的？</div>
-<div class="answer"><strong>A:</strong> MongoDB与云厂商存在竞争关系，但MongoDB与Cos r并非竞争关系，两者在商业层面上是相互补充、互利共赢的，未来不太可能因为AI而大幅修改开源协议。</div>
-</div>
-<div class="qa-item">
-<div class="question"><strong>Q:</strong> AI学习MongoDB后有哪些好处？</div>
-<div class="answer"><strong>A:</strong> 如果AI充分学习了MongoDB，可以利用AI来加速生态发展，比如通过AI写插件，极大提升效率，甚至对其他如KPS等技术也有类似益处。</div>
-</div>
-<div class="qa-item">
-<div class="question"><strong>Q:</strong> 随着AI学习更多，开源协议未来会如何变化？</div>
-<div class="answer"><strong>A:</strong> 开源协议未来可能不会针对AI进行大规模变化。对于保护原创者利益的问题，目前确实难以找到好的解决方案，但随着代码逐渐成为人类共同财富，版权问题可能会变得不再重要。</div>
-</div>
-<div class="qa-item">
-<div class="question"><strong>Q:</strong> 未来的代码库是否会演变成像数学原理那样的知识共识？</div>
-<div class="answer"><strong>A:</strong> 未来代码库有可能演变为类似数学原理的基础知识共识，人们可以直接使用而不必关心版权问题，就像交流电一样，AI生成代码也可能成为常态。</div>
-</div>
-<div class="qa-item">
-<div class="question"><strong>Q:</strong> AI是否会改变计算机体系结构？</div>
-<div class="answer"><strong>A:</strong> AI可能会在计算机操作系统层面上增加一个新的AI抽象层，使人类直接与AI交互，AI将人类指令转化为可执行程序指令，从而使得写代码变得不那么重要。</div>
-</div>
-<div class="qa-item">
-<div class="question"><strong>Q:</strong> AI驱动的编程语言是否会出现？</div>
-<div class="answer"><strong>A:</strong> 随着AI大模型的崛起，可能会出现完全由AI驱动的新一代编程语言，不再依赖传统的编程逻辑，而是通过触发AI执行特定任务来编写软件。</div>
-</div>
-<h1>节目文稿</h1>
-<p class="transcript-line">
-<span class="time"><strong>[00:00:04]</strong> </span>
-<span class="speaker"><strong>发言人1: </strong></span>
-大家好，欢迎收听异地骇客。我是seattle，我是一笑。
-</p>
-<p class="transcript-line">
-<span class="time"><strong>[00:00:08]</strong> </span>
-<span class="speaker"><strong>发言人3: </strong></span>
-我是龟龟。
-</p>
-<p class="transcript-line">
-<span class="time"><strong>[00:00:09]</strong> </span>
-<span class="speaker"><strong>发言人1: </strong></span>
-本期节目由power wise赞助播出。Od wise是一款为播客听众制作的AI学习软件产品的slogan是read before listen。Auto wise通过AI对播客内容进行转录提取、总结分析等一系列操作，帮你掰开了揉碎了硬核的播客内容。同时与notion radio wise等平台的打通，嵌入知识管理工作流，协助您的其他包括新闻newsletter blog的内容，帮你打造第二大脑。Hot wise也为本期听众准备了三个5折优惠码，针对本期在小宇宙与我们互动的精选回复，欢迎大家踊跃来玩。
-</p>
-<p class="transcript-line">
-<span class="time"><strong>[00:00:46]</strong> </span>
-<span class="speaker"><strong>发言人1: </strong></span>
-好的，那开始我们本期的节目。最近小破站的up主们都不太顺，这不何同学就因为发布了一条我用36万行备忘录做了个动画的视频，使用了一个软件，能够把预览动画里面的色块转换成字符。但是他在里面强调说是我们专门写了一个软件来做这个事儿，后续被网友给扒出来了，实际上他们在使用的是github上面的一个开源项目，并不是他们的原创。而且这个视频本身还是一个商单，所以这个事儿就引起了一个很大的风波。毕竟是大V不过何同学认错态度还是挺好的，也很快就去作者的仓库下面道歉了。我看了一下合同学使用的这个仓库，实际上是MIT协议的，其实已经非常宽松了，理论上不应该有这么大的问题。那网友意见比较大，是不是还是因为他背后是一个诚信问题？我不知道你们怎么看这件事儿。
-</p>
-<p class="transcript-line">
-<span class="time"><strong>[00:01:36]</strong> </span>
-<span class="speaker"><strong>发言人3: </strong></span>
-这个瓜我没吃上新鲜的。就是我跑去看视频的时候，他这个原视频其实已经改过了。我看到的时候他已经是这么讲的，他说我们修改了开源的代码来做这个事儿，当然其实合同学这个也不是第一次翻车了。
-</p>
-<p class="transcript-line">
-<span class="time"><strong>[00:01:49]</strong> </span>
-<span class="speaker"><strong>发言人3: </strong></span>
-之前有一次也比较有名的，闹得也比较大的，就是在华为实验室。白天线对吧？很多人应该都知道这个，而且这个还是跟央视合作的一个视频。如果有不知道的同学，我简单给大家解释一下。就是和同学那个视频里面说为了测试华为手机的最高网速，他在华为那个实验室里面把那些基站的天线掰直了指向手机。但其实这种棒状天线，它这个顶端的信号其实是最弱的。就是这个跟那个天线垂直的那部分的信号是最强的，然后顶端的信号其实是最弱的，所以这个操作其实是在弱化信号，和为了测最高网速的这个目的是不相符的。
-</p>
-<p class="transcript-line">
-<span class="time"><strong>[00:02:31]</strong> </span>
-<span class="speaker"><strong>发言人3: </strong></span>
-后来何同学还发了回应，说为啥白指天下就不加大家怼了？他说不懂之后他还回应了，说为啥白指天线？他的说法是从客户，也就是华为那边得到的回复是实验室的信号太强了，就是需要掰指天线来劣化信号，来模拟这个真实情况。对，说平时他们那个华为是也是这么测的。他这个解释，其实还是一样，暴露出了他本身是不懂天线信号这个事情的，对不对？因为如果他懂的话，理论上来说他早就应该会跟那个客户那边沟通清楚，不会说等到出了事之后，才从客户那边问到这样一个答复。
-</p>
-<p class="transcript-line">
-<span class="time"><strong>[00:03:08]</strong> </span>
-<span class="speaker"><strong>发言人3: </strong></span>
-然后最让人绷不住的是，它本身是北邮通信专业毕业的，对吧？你本身是通讯专业毕业的，你不懂这个爆炸极化天线的信号范围到底是怎么样的，所以很多人就称这个何同学是赛博丁真。就是说他的这个人设和他们表现出来的这个对完全不符，他的人设立不住。
-</p>
-<p class="transcript-line">
-<span class="time"><strong>[00:03:30]</strong> </span>
-<span class="speaker"><strong>发言人3: </strong></span>
-然后一直都有很多人会觉得说这个赛博丁真同学根本不配吃这么多饭，专业知识不行，但是流量也很大，就是被流量砸到了。我记得他最早开始火就是因为报道5G，对吧？测5G的那个事情。
-</p>
-<p class="transcript-line">
-<span class="time"><strong>[00:03:45]</strong> </span>
-<span class="speaker"><strong>发言人3: </strong></span>
-对，当然人设不符这个事情，如果你把它当成整活up看，其实就没啥问题。而且实际上它的视频本身其实大部分也都是在整活，如果从整活的角度看，视频质量还是可以的。可这次的事感觉比之前这种人设立不住的问题还要更严重一些。因为它涉及到像你说的诚信问题，毕竟之前只是不懂，这次是属于说谎。那这次出了更严重的事情，那以前那些不乐意看他好的吃瓜群众肯定就更积极了，对吧？对，当然做错事你就应该立正挨打，光速滑跪其实就是最好的止损策略。
-</p>
-<p class="transcript-line">
-<span class="time"><strong>[00:04:22]</strong> </span>
-<span class="speaker"><strong>发言人3: </strong></span>
-以前有些人就出了问题之后就各种在那狡辩，其实都只会越描越黑。实际上何同学现在也已经是公司化运作的，所以他其实自己本身就只是个IP。我相信完全有可能他本人在视频产出的时候都不知道这些代码是怎么来的，而是团队里的人弄的。然后文案可能也都不是他自己写的，但文案这么写了，他也就这么说了，那你这个也是成为IP的代价，对吧？你整个团队的问题其实都是要你的形象来买单的，也有可能也有可能他是为了立人设知情且故意的。毕竟他这个代码的这个截图？还特意删了头上的作者注释，颇有一种掩耳盗铃的感觉。所以起码他们团队里面有人是知情且故意的，但不论事实细节如何，反正我觉得这一波反是属于是活该。
-</p>
-<p class="transcript-line">
-<span class="time"><strong>[00:05:12]</strong> </span>
-<span class="speaker"><strong>发言人2: </strong></span>
-我觉得很多人可能拿了别人的代码，最后说这个东西是我做的一个东西的事儿。大家的动作可能都会想到的是把别人的信息先给删掉。我觉得这肯定对于很多的那些初级的，或者说刚从学校毕业的，或者一些入门的开发者，这都是一个常规的操作。因为他可能大家都是抱着侥幸心理，觉得这个东西删了应该也没什么关系。没人会在意这个东西，也不会去盯着这个东西纠结，对吧？
-</p>
-<p class="transcript-line">
-<span class="time"><strong>[00:05:41]</strong> </span>
-<span class="speaker"><strong>发言人2: </strong></span>
-如果一个很大的一个名字写在那儿，这个东西是别人写的代码。但是我现在要来立一个标杆，说这个是我们开发的一个软件，这个肯定就说不过去。但他只是没有在这个侥幸上面没有逃过去而已。因为像我们自己可能在早年的时候，很早的时候，你从别人那儿不说去删别人的信息，可能也复制过别人的代码。我相信去get up上，我相信大家也去复制过别人代码。
-</p>
-<p class="transcript-line">
-<span class="time"><strong>[00:06:05]</strong> </span>
-<span class="speaker"><strong>发言人2: </strong></span>
-我觉得这个应该对很多开发者来说可能是一个常规操作。但是也可能作为公众人物，或者你要去做一个正经的商业软件的时候，这件事情它就要是另外一个层面的话题了，就需要谨慎的去对待了。所以说我觉得这儿可能确实像鬼鬼说的，背后可能是一些团队的其他的同学，以其他的一些人做的这样的一个事情。对，就是显得没那么专业。但是何同学其实我自己吃他的瓜吃的不是很多。
-</p>
-<p class="transcript-line">
-<span class="time"><strong>[00:06:32]</strong> </span>
-<span class="speaker"><strong>发言人2: </strong></span>
-对，但是这个人特别了解，因为它流量毕竟很大。我觉得现在整体给我的一个感受是个什么样的感受呢？就是很多人可能都是觉得它的内容其实不够硬核，就是他标榜把自己不断的标榜成硬核的科技博主，这件事情和他的身份是不符合的。
-</p>
-<p class="transcript-line">
-<span class="time"><strong>[00:06:51]</strong> </span>
-<span class="speaker"><strong>发言人2: </strong></span>
-这件事情的争议是比较大。很多都觉得说他的视频更多的是一些很炫酷，对吧？可能就是在这上面的手法其实是远远大于科技的硬核的知识内容的对这儿存在着很大的争议。特别是有很多很多的一些科技圈的一些爱好者，或者说一些硬核的领域的专业人士，可能大家都对他在这一方面有很大的看法。当然可能更多的毕竟你的流量高了，别人觉得说你好像在专业度上还不及我，但是现在有这么高的流量，这种就难免的对，就是现在你出一点问题，那你还不得被这些人往死里喷，我觉得这也很正常对吧？
-</p>
-<p class="transcript-line">
-<span class="time"><strong>[00:07:34]</strong> </span>
-<span class="speaker"><strong>发言人1: </strong></span>
-对你讲到这个说他这个不够科技博主，我感觉是不是何同学眼里的自己是智慧军。然后大家其实也希望他是智慧军，但其实他不是智慧军，对吧？因为如果你想做科技博主，你做到够顶尖，其实最终可能就是你去创业，去做机器人。
-</p>
-<p class="transcript-line">
-<span class="time"><strong>[00:07:52]</strong> </span>
-<span class="speaker"><strong>发言人2: </strong></span>
-去做类似相关的。没错。
-</p>
-<p class="transcript-line">
-<span class="time"><strong>[00:07:53]</strong> </span>
-<span class="speaker"><strong>发言人1: </strong></span>
-你看何同学像你这方向team，他们其实现在已经做的比较大了。然后team最近也是因为离婚的事情各种上热搜。也就是我就在想说这种创作者，尤其像这种技术相关的创作者，他们在输出的时候是不是得特别小心了，尤其要压抑自己内心的这种eagle就说我们就讲合作学。他本身我不知道，反正是团队的还是他自己的，就是硬要说这个事儿是自己写的，那这个事儿就是有点一个偏大了，有点类似这样子。对我猜他们是不是也挺痛苦的。一方面他自己在接商单，因为他们都是有团队的，而且团队都不小，自己要去接商单，要去养活团队。然后另外一方面，这么多人检视自己做事的时候，可能很多主题不能做。然后可能做很多具体核心内容的时候也束手束脚的。
-</p>
-<p class="transcript-line">
-<span class="time"><strong>[00:08:39]</strong> </span>
-<span class="speaker"><strong>发言人1: </strong></span>
-我就想说你看要是我们在我们的节目里边吹说，我们自己写了个软件做asked的图形转化，那评论区应该不会这么一边倒。我就想想说大V是不是也不容易？如果做成大V因为毕竟我们还是中常委的小V。
-</p>
-<p class="transcript-line">
-<span class="time"><strong>[00:08:55]</strong> </span>
-<span class="speaker"><strong>发言人3: </strong></span>
-哼其实我觉得还真可能不是，如果我们干这种事儿。首先会不会被人发现都不一定，对吧？是这都没几个人，没什么人去盯着你。然后如果真的被人发现了，我估计可能会更一边倒，毕竟我们这个体量没有什么死忠脑残粉是吧？然后也不可能花钱去公关，可能就全是挨骂的，那你就只能说从比例上，对吧，评论量肯定也不会有多少。
-</p>
-<p class="transcript-line">
-<span class="time"><strong>[00:09:20]</strong> </span>
-<span class="speaker"><strong>发言人3: </strong></span>
-然后实际上影视飓风的的team，他其实之前在他自己的一个视频里面其实就讲过，因为他现在也是IP化。但是他是很明确的，他们现在很多视频都是他公司里面有团队出，他只是去露个脸，你讲一下，他也会讲清楚说这个东西是我们公司我们团队怎么怎么做的，谁怎么怎么做的，他其实还比较明确的，而且他自己有点苦恼。而相比起来的话，影视飓风还有别的正常的业务，对吧？因为他们是一个视频特效公司，都是可以去给人正经拍广告的，所以对这个和何同学这边还不太一样。何同学虽然他还真的就是公司化运作的了，但是从他的视频里面其实是不透出的。然后它的恰饭其实都来自于这些视频。对，但是大V你吃这个流量差这个钱，你就是要为自己产出的内容负责，那肯定就是要接受大家的审视的，而且是无数双眼睛盯着你，就盼着你出点事儿对吧？
-</p>
-<p class="transcript-line">
-<span class="time"><strong>[00:10:15]</strong> </span>
-<span class="speaker"><strong>发言人3: </strong></span>
-然后像何同学这个，因为他这个赛博丁真这个人设匹配不上的这个事儿也是由来已久了。他其实在更早还有什么PCB画线画直角的这个反正当时也吵，就是说怎么你是个专业的，你就不应该画出直角来，反正就这种事儿。所以大家都很乐意看到他翻车，因为就觉得说怎么说呢？这个词儿德不配位。就是你的能力其实匹配不上，你赚到那么多钱，那这个眼热的人就多了去了，对吧？就特别嫉妒他。而且八大V的问题，八大V的瓜本身也是流量，对吧？那我肯定是要吃这个大V的人选馒头的。
-</p>
-<p class="transcript-line">
-<span class="time"><strong>[00:10:53]</strong> </span>
-<span class="speaker"><strong>发言人2: </strong></span>
-对你说其实德不配位这件事儿，我觉得他主要还是因为他赚的钱是在赚一个公众流量的钱。如果他是一个人闷声发大财的，其实也无所谓了，对吧？我相信闷声发大财的人里面，我相信有非常多德不配位的人。对，也会有很多。所以说关键他是一个公众人物。
-</p>
-<p class="transcript-line">
-<span class="time"><strong>[00:11:14]</strong> </span>
-<span class="speaker"><strong>发言人2: </strong></span>
-吃流量。对我觉得有一个观点，我总觉得说作为一位一个网红，作为一个大V一个up主，就说你做得很大。其实这件事情它不应该是痛苦的根源，其实最痛苦的根源还是说你随着流量越来越大，赚的钱越来越多。然后你最后可能就掉进这个流量的这个漩涡里面去了，被流量所裹挟，这件事情其实才是你痛苦的根源。
-</p>
-<p class="transcript-line">
-<span class="time"><strong>[00:11:38]</strong> </span>
-<span class="speaker"><strong>发言人2: </strong></span>
-你想一下，你当不管是何同学也好，还是我们自己，还是说其他的一些博主，他当初为什么出发去做这件事儿？她可能今天都已经忘记了。可能当初她出发的时候的想法可能很简单，并没有说我可能需要去追求很巨大的流量或者之类的。可能当初还是有一点信仰的，觉得说我要输出一些什么东西怎么样的对，给别人去带去一些什么样的价值。但是随着流量越来越大，我们每个人可能都一样，吃到了甜头过后胃口就越来越大。在这个过程里面不断去博眼球，去追流量，最终反正就掉进了被流量裹挟的这样的一个窘境里面去去了。所以这我觉得是我们每一个人最终可能会痛苦的一个很大的一个原因。
-</p>
-<p class="transcript-line">
-<span class="time"><strong>[00:12:29]</strong> </span>
-<span class="speaker"><strong>发言人2: </strong></span>
-比如说还有就是我这儿我们聊的是大V这件事儿，大的up主这件事情。比如说还有一个巨大的up主，大家都知道像李子柒，李子柒在离开之前，他他的视频确实做的很好，增加也可以被堪称中国文化的输出。对我觉得可能做的确实很好在断更了这一两年过后，今天回来同样是巅峰。内容的质量还是那个调性，还是给大家说还是成现出来的还是很好的那种状态。我觉得这可能是可能那些博主在自己在前进的路上，不会去忘掉你当初的一个初心，还是要保持你自己的一些观点，或者说自己坚持的一些东西。我觉得这件事情可能比流量更重要一点。
-</p>
-<p class="transcript-line">
-<span class="time"><strong>[00:13:17]</strong> </span>
-<span class="speaker"><strong>发言人1: </strong></span>
-对你讲到李子柒确实回归之后做的视频流量又又很高。然后他自己沉寂的这几年，其实人家也是一直在去沉淀，再去学习各种传统文化等等东西。对，也是为了让他视频做得越来越好了。
-</p>
-<p class="transcript-line">
-<span class="time"><strong>[00:13:32]</strong> </span>
-<span class="speaker"><strong>发言人1: </strong></span>
-然后其实刚刚归也提到何同学在他的视频里面把代码的那个部分上面，人家有带签名的部分给删掉了。对，然后大家也是因为这个视频里面的这个代码的截图的这个部分才发现说，原来这个东西用的是一个什么样的一个代码。对，不过我也在想，你看现在都AI时代了，我在想说版权这件事会不会越来越难以界定？
-</p>
-<p class="transcript-line">
-<span class="time"><strong>[00:13:55]</strong> </span>
-<span class="speaker"><strong>发言人1: </strong></span>
-因为何同学他是因为有相同的代码，然后被发现了。那比如说现在我们自己可能都会用cursor，会用winter f对吧？然后他们的这些产品里面的演示项目就都是2048。我用wince RF用curse，然后写一个2048，他就直接能跑，直接能玩，就一个2048的一个游戏。但实际上他们写出来的代码是没有任何版权信息的。也就是说2048这个游戏写出来之后，我可以打上我自己的版权。
-</p>
-<p class="transcript-line">
-<span class="time"><strong>[00:14:20]</strong> </span>
-<span class="speaker"><strong>发言人1: </strong></span>
-我说这个东西是我自己写的对，但是这里面可能就会产生一些冲突，原因是什么呢？因为像科技，像温serve，他们背后其实有IOM大语言模型，他们会在背后可能会有缓存机制等等一系列的。大家如果输入相同的提示词，可能会直接去从缓存里面读出相同的结果。
-</p>
-<p class="transcript-line">
-<span class="time"><strong>[00:14:38]</strong> </span>
-<span class="speaker"><strong>发言人1: </strong></span>
-那这样的话有没有可能会产生大家两个人写的两段代码，在前后其实他们是相同的代码，但是被打上了不同的版权。这样的话就有可能会产生一个很诡异的现象，就是有可能双方在讨论侵权的问题。大家是人在打官司，但背后大家写的代码都是AI写的。对我想想这个事儿感觉有点玄幻，但是我觉得这个事儿是极有可能发生的。
-</p>
-<p class="transcript-line">
-<span class="time"><strong>[00:15:04]</strong> </span>
-<span class="speaker"><strong>发言人3: </strong></span>
-其实AI写了段代码，我说版权是自己的那如果不跟别人重复，那确实也没有人知道。对，但实际上这个AI生成内容，它的版权归属问题，在不同国家根据法律规定是不一样的。你像在美国，它其实要求版权作品是需要有人类参与的，所以你直接拿AI生成的这个东西打上自己的版权，其实是不成立的。如果有两个人拿着一样的AI生成代码去打官司，说这个东西是我的，其实最后就是谁的都不是，那是没版权的，没版权的就是随意可以用。
-</p>
-<p class="transcript-line">
-<span class="time"><strong>[00:15:37]</strong> </span>
-<span class="speaker"><strong>发言人3: </strong></span>
-然后像欧盟也是类似，它的规定是说版权作品需要有智力劳动的体现。虽然AI叫人工智能，但我认为它现在还是不被认可为具备智力的，就是AI产出它不被认为是智力劳动。所以其实在欧盟也是一样的，AI产出的内容不管是代码也好，还是图像、音视频，都没有版权，就是不能给这个人版权。但是在英国好像又有点不一样，英国的法律的解释上有承认的可能性，现在可能好像还没有判例。但是他的法律上会说是说，如果你作为创造过程的安排者推动者，它是可以享有版权的。
-</p>
-<p class="transcript-line">
-<span class="time"><strong>[00:16:16]</strong> </span>
-<span class="speaker"><strong>发言人3: </strong></span>
-当然这个是在AI生成纯原创代码的情况下，更有可能是说AI生成这段代码来自于某段开源代码，然后未经修改，而你也不知道这个开源代码到底来自哪里，是什么协议。于是你几乎必然会违反协议，对吧？因为就算再宽松的，就比如说MIT协议，我也要求你保留我的原始版权信息。对，但是我从AI这边得到了这个答案，我都甚至都不知道这个代码来自于哪里，用的是什么协议。那我根本就何谈保留这个原始版权信息？那你可能就不知道用了它你就算是侵权了，对吧？这个我觉得是非常有可能发生的一件事情。
-</p>
-<p class="transcript-line">
-<span class="time"><strong>[00:16:53]</strong> </span>
-<span class="speaker"><strong>发言人1: </strong></span>
-所以说我自己也想了一个很奇幻的想了一个方案。因为我们自己写代码，如果你写的是公司代码，或者说你写的是开源代码，然后你怕侵权。尤其是你可能写了一段代码，那段代码跟GPL协议的某一段代码是一模一样的。也有可能是从AI从别的地方学过来的对那我们是不是可以让AI给自己生成的代码打上AI自己的license，说这段代码是AI生成的。你如果说你想告侵权的话，请你去告cloud跟查GPT。这代不是我写的，而且我标注了说这个代码本身是由大语言模型帮我生成的，是不是这样也能解决问题？因为其实这样不算是攻击性的，说我要让别人侵权我的人要付出代价，而是我自我防御性质的，我不想让别人告我说我侵权了，我在想说这样是不是也能解决问题，我不知道。
-</p>
-<p class="transcript-line">
-<span class="time"><strong>[00:17:41]</strong> </span>
-<span class="speaker"><strong>发言人3: </strong></span>
-这个问题感觉有点微妙，就是AI打上license。你看，首先AI不能拥有版权，但是你说AI打上license以后侵权是AI侵权吗？这个也挺奇怪的那AI不能拥有版权，为什么AI能侵权？同样的对吧？那同样的我们对用AI生成的代码不能拥有版权，但我们可以因为AI上的代码而侵权。是不是也有点没道理？就是他你的这个权利和你的义务不匹配。
-</p>
-<p class="transcript-line">
-<span class="time"><strong>[00:18:07]</strong> </span>
-<span class="speaker"><strong>发言人1: </strong></span>
-对吧？不对的对不对的。
-</p>
-<p class="transcript-line">
-<span class="time"><strong>[00:18:09]</strong> </span>
-<span class="speaker"><strong>发言人3: </strong></span>
-如果这个锅能甩给cloud或者GPT，那那我估计cloud和GPT他们自己就OpenAI他们肯定是自己早就会想办法堵上这个漏洞，对吧？我怎么我给你用，你还反过头来赖我，有点东郭先生与狼的这个感觉。对，那说到这个，如果我们开发一个服务功能，就是对一段代码进行检测，找出最可能匹配的这个开源代码的来源。然后去帮助开发者审查说我这段代码到底能不能用，对吧？我觉得是开源协议是不是能够用，其实是不是也是一个独立开发的机会，当然现在可能还不是这个合适的时机。因为实际上也好像完全没有听说过说，我用了AI生成的代码而被告侵权的case。但是音视频和图像倒是都有这种官司在打。
-</p>
-<p class="transcript-line">
-<span class="time"><strong>[00:18:56]</strong> </span>
-<span class="speaker"><strong>发言人2: </strong></span>
-我觉得先不谈AI生成的代码，今天可能所有的开发者自己人肉也会去复制很多代码，这个是肯定。
-</p>
-<p class="transcript-line">
-<span class="time"><strong>[00:19:05]</strong> </span>
-<span class="speaker"><strong>发言人1: </strong></span>
-的这肯定的。
-</p>
-<p class="transcript-line">
-<span class="time"><strong>[00:19:08]</strong> </span>
-<span class="speaker"><strong>发言人2: </strong></span>
-我相信所有人的代码仓库里面总有那么一些代码，可能是他给到网上去复制的了。你可能没有管那个license n是啥，这个肯定不是开玩笑，这个我相信一定是真的。对，只是因为大家都是必然的，反正都是公司的内部使用或者个人使用，所以说这件事情它是一个没办法去追究的一件事儿。
-</p>
-<p class="transcript-line">
-<span class="time"><strong>[00:19:28]</strong> </span>
-<span class="speaker"><strong>发言人2: </strong></span>
-对，这儿提到开源的license。因为开源license这件事情，它其实已经存在的历史其实已经都有几十年了，都已经很久远了。毕竟他刚开始去制定这些东西的时候，肯定都是没有AI，都是为人服务的。就是觉得说为人的那种版权或者著作权去付的。所以说我觉得未来这些开源的license会不会在AI上继续有效？我觉得这个确实是一个经过时间过后会有答案的一个问题。也就是说这些license在AS的它可能会不会被更新，会不会对AI有一些特殊的一些限制，甚至说有一些专门明确的一些指示规则，这些我觉得都是有可能的对，但这个东西我觉得需要时间。
-</p>
-<p class="transcript-line">
-<span class="time"><strong>[00:20:08]</strong> </span>
-<span class="speaker"><strong>发言人2: </strong></span>
-但是回归到当下的话，就像刚才我们开玩笑说的，我们相信所有的开发者或者说甚至是一些商业化的公司，他们的代码库里面或多或少可能总有的某些代码是从别人的一些项目里面复制的。我相信肯定会有这种情况。所以说在当下我还是认为AI它可能真的只是程序员的一个辅助的工具。你的这个项目的代码，不管是你写的还是AI写的那今天来说的话，我还是更愿意相信这个责任要在一个具体的人的身上，或者说在法人的身上。对，就是你这家公司的责任或者怎么样，而不是说把这个责任甩给AI可能我觉得在今天不会太成立，但未来难受。
-</p>
-<p class="transcript-line">
-<span class="time"><strong>[00:20:52]</strong> </span>
-<span class="speaker"><strong>发言人1: </strong></span>
-对我我其实这个里面就想到一点，为什么现在你看像wind serve curr他们现在能做的这么好？我就想起来我们现在程序员大家为什么能有这么多海量的训练资源？其实也是因为说我们现在的这些开源运动，就最早以前发起开源运动的Richard stallman，然后他自己做了整个开源运动，然后做了GPL协议等等的。把整个linux这个社区给它壮大起来。这个其实海量的开源代码，还有开源社区的这种趋势，他其实造福了我们现在的软件行业。
-</p>
-<p class="transcript-line">
-<span class="time"><strong>[00:21:22]</strong> </span>
-<span class="speaker"><strong>发言人1: </strong></span>
-不光是我们自己，在最早以前没有AI的时候，我们也能够乱七八糟去抄点代码对吧？然后也能够让你搞得比较快对吧？然后现在其实也是因为有了这些开源的代码，AI也在这个之上去训练。训练过后我们程序员也快速的享受到了这波AI的红利。
-</p>
-<p class="transcript-line">
-<span class="time"><strong>[00:21:38]</strong> </span>
-<span class="speaker"><strong>发言人1: </strong></span>
-对，而且因为开源社区的这个license，就大家原本的这个license，其实建设还是挺完善的。包括什么GPL协议，把maza协议、阿帕奇协议，等等各种各样的协议。其实哪些资源能训练能使用，哪些资源不能训练不能使用。如果他大语言模型是关注版权问题的话，他其实可以很轻松很方便的把这个东西给它区分出来。然后这样的话AI公司他去训练代码，它反而风险是低的。但是比如说你像音视频，你像图片，对吧？
-</p>
-<p class="transcript-line">
-<span class="time"><strong>[00:22:06]</strong> </span>
-<span class="speaker"><strong>发言人1: </strong></span>
-它其实本身默认背后是没有版权信息，或者版权信息是很不完善的，你很难追踪它的版权到底从哪里来的。就会导致说其实像视频，像图片，它其实还更容易产生这种侵权问题。反而如果说你是合理合规的在使用代码的话，反倒你的侵权风险还是比较低的。
-</p>
-<p class="transcript-line">
-<span class="time"><strong>[00:22:23]</strong> </span>
-<span class="speaker"><strong>发言人3: </strong></span>
-其实从实际来看，本人代码这块就像刚刚讲的，代码这块好像没有在打官司的。图片是打的最多的对像就有一个公司叫getty images，它是卖图片的，就有点像我们那个视觉中国，视觉中国名声也不咋的，他在美国和英国都告了那个stability AI就是做那个stable division那个公司说拿他们的版权图片去训练。那这两个案子现在还在审理中，还没结果。
-</p>
-<p class="transcript-line">
-<span class="time"><strong>[00:22:50]</strong> </span>
-<span class="speaker"><strong>发言人3: </strong></span>
-但其实之前OpenAI针对这个问题提出过一个抗辩的理论，它的大概的核心意思就是说AI模型训练的过程以及产出的内容，也就是训练结果和原始训练内容。就是这些图片版权图片在目的和表达上都是非常不同的。他提到一个词是说经过了变革性的加工。我不知道在版权的这个说法里面是不是这样，就算是不算侵权，反正他是提出这么一个抗辩。原话我记得是说原始训练材料的使用目的是供人类消费，而AI模型训练的过程和产出结果的目的是创造一个通用的造福人类的AI。
-</p>
-<p class="transcript-line">
-<span class="time"><strong>[00:23:28]</strong> </span>
-<span class="speaker"><strong>发言人3: </strong></span>
-怎么说呢？就是你把这个事儿拿到人类身上去举例比较对吧？那我人我拿了一副你的版权图片，我直接原样的抄一下，那我肯定是侵权了，对不对？但是我就苦学，比如说某个画家，我就苦学某个艺术家的绘画风格，然后疯狂的临摹，最后自己的作品风格和那个艺术家非常相似。那你说他能侵权吗？其实应该不能，对吧？我理解可能就是这个open I的抗辩也是大概是感觉这个意思。
-</p>
-<p class="transcript-line">
-<span class="time"><strong>[00:23:58]</strong> </span>
-<span class="speaker"><strong>发言人3: </strong></span>
-而且包括你说比如说你像提到那个开源协议，说我们是不是协议上能够说我不允许你去训练。但是你说从那个人的角度，那我能不能出个协议说我的这个画不允许你临摹呢？好像也不行，对不对？
-</p>
-<p class="transcript-line">
-<span class="time"><strong>[00:24:16]</strong> </span>
-<span class="speaker"><strong>发言人3: </strong></span>
-所以其实这样的话就又回到了那个问题上，就是反正我们训练这个模型本身不存在侵权的问题。但是如果有人因为用这个模型侵权了，那是那个人的问题。所以你刚刚还想甩锅给cloud，掐着经济，人家还想甩锅给你的。
-</p>
-<p class="transcript-line">
-<span class="time"><strong>[00:24:31]</strong> </span>
-<span class="speaker"><strong>发言人1: </strong></span>
-现在你不管你用ChatGPT，你用cloud也好，就如果产生的这个结果就最终因为是我发布的，然后责任在我。其实我自己也会去想，因为我其实没法判定这段代码到底侵不侵权，因为是从你那里生成的。如果每一段代码都去验证一下的话，那我的成本也太高了，吧？所以说这块就挺难受的。但是如果说我想让你背锅，然后你又不背的话，那这不就两难了吗？所以说如果我发布一些版权相关的信息，如果我想收版权费，那这个里面还真的得除非我自己是完全原创的对吧？我没有用一点你，然后我可能我才会百分百确认说，这个东西其实我是可以接受版权的。这个确实是一个值得商讨的问题。
-</p>
-<p class="transcript-line">
-<span class="time"><strong>[00:25:15]</strong> </span>
-<span class="speaker"><strong>发言人1: </strong></span>
-对，然后其实我还想讲一个什么点，你像开源运动，我觉得跟现在的音视频还有图片这个里边有一个很大的区别。就是为什么现在比如说cursor像werf他们可以做的比较好。我觉得有一个很大的不一样，就是因为我们做代码的这边有开源运动的这些结果，然后导致说其实我们很多过程信息全部都保留了，它不像音视频，像图片，它其实只有结果。所以说你看现在的音视频，像图片，它训练出来的结果它其实就是一张图片。它不能训练出来图层，或者说它的图层相对信息比较少，然后图层它的过程其实这些信息都没有。
-</p>
-<p class="transcript-line">
-<span class="time"><strong>[00:25:52]</strong> </span>
-<span class="speaker"><strong>发言人1: </strong></span>
-对，像我们自己的话，其实我们是有很多的过程信息的。我可以告诉你说，这个方法怎么做，我有大的，我有小的都有。但是其实现在的音视频跟图片它只有结果，你只能从结果上面反推，它生成的是另外一个结果，而不是生成的这个过程。所以我觉得这个是代码是这一波里边我觉得做的最好的一个很根本的原因，就是它的数据还是比较好。
-</p>
-<p class="transcript-line">
-<span class="time"><strong>[00:26:12]</strong> </span>
-<span class="speaker"><strong>发言人1: </strong></span>
-对，但反过来之后也会产生一个问题，就是你看现在其实我们透过开源运动帮助这些大模型公司，帮他们做了比较好的这个AI的结果，他可以帮我们去生成代码干嘛的，其实收益也被他们赚走了，对吧？他们每个月都要收我们二十刀，每个人收20刀其实赚的也挺多的。像那个boat的new上线一个周还是两个周还是一个月，我忘记了具体的时间，然后说是赚了400万美金，其实。这个赚的钱还是蛮多的对，但是像我们开源了这么多开源软件的人，没有通过这个大模型训练的结果里面得到收益。我在想说这些大模型公司是不是也应该借此去回馈一下社区，给我们这些比如说做过开源项目的人，然后给一点折扣等等这些。你像给hub copilot就给折扣是吧？对，但是像现在win surface，像这些东西可能他们现在还没有给折扣。对我为什么会想到这个问题？
-</p>
-<p class="transcript-line">
-<span class="time"><strong>[00:27:07]</strong> </span>
-<span class="speaker"><strong>发言人1: </strong></span>
-你像最早以前我们在infrared的那个阶段里面，像MongoDB，像redis，他们自己都是做开源项目。然后搞完之后被AWS，被google他们把钱给赚走了。后来就导致项目方他们自己改了协议，说你英特尔公司你host的自己产品的时候，你不能host我的产品，你可以host别人，你不能host我。结果就导致像点S他们就做了一些兼容redis的一些KV产品。他们在API上兼容，但是底下可能完全不是redis等等这些东西。
-</p>
-<p class="transcript-line">
-<span class="time"><strong>[00:27:35]</strong> </span>
-<span class="speaker"><strong>发言人1: </strong></span>
-对我觉得这个还是挺也是一个因为大公司吸取了这些开源项目，然后导致其实他们更改了协议，对吧？就是我也在想说未来会不会有人去发起这种说我拒绝这些大模型公司用我的代码来训练自己。我举个很极端的例子，比如说像completes，如果你想拿到combination s相关的最核心的源码相关的逻辑的话，你肯定要去训练competitive k8S的源码。那有没有可能开发是某一天说你不能训练，只有germania能训练，OpenAI的东西不能训练，cloud也不能训练。我不知道，就是随便畅想一下，有没有可能未来会有人去发起拒绝AI学习的这种开源协议。
-</p>
-<p class="transcript-line">
-<span class="time"><strong>[00:28:11]</strong> </span>
-<span class="speaker"><strong>发言人3: </strong></span>
-不知道。其实我在想，如果你真的就是这么干，感觉从那个取证上也很难，对吧？因为你通过那个大语言模型加工之后，你再产出的代码你怎么说？我就是我这个东西一定就是从你那个训练结果得来的，对吧？因为这个代码说实话各种各样的代码太多了，相似代码也太多了，很难。对，而且大家现在其实基本上用法还是说我去生成一个片段不会生成一整个程，因为很难去去判断这个相似性。然后另外就是我有一个想法，直觉上我觉得这个和音视频图片不是一个事情。然后和云厂商hosting开源产品赚钱也不完全是一个事情。
-</p>
-<p class="transcript-line">
-<span class="time"><strong>[00:28:51]</strong> </span>
-<span class="speaker"><strong>发言人3: </strong></span>
-其实开源这个概念从被提出到今天成为整个信息世界的基石，我觉得很大一个原因是因为它本身是一个正循环。就是开源它大大提高了程序员们去建设信息世界的效率，然后避免了大量的重复劳动，进而人能让程序员们又写出更多的代码，来完善这个开源世界，所以它其实是一个正向的飞轮，它是才能造成今天我们这么复杂的这个信息事件。然后同样的就是提高AI写代码的能力和准确率，其实也能非常大程度的去提高程序员的效率。这应该是这也是一个正循环正向的反馈系统，它会产生更多的代码，然后更多的代码让AI去训练，又会提高AI的写代码能力，加快这个信息世界的建设。这个大家在用cosa之类的产品的话应该是深有体会对吧？对自己的效率提升有多大，所以我其实是蛮支持的。
-</p>
-<p class="transcript-line">
-<span class="time"><strong>[00:29:46]</strong> </span>
-<span class="speaker"><strong>发言人3: </strong></span>
-当然你说这个怎么样去回馈社会，这个其实是一个比较大的话题。因为最开始的时候我就想到说像T这样的项目，其实不就在干这种事儿。因为T是从依赖着手的，说我到底作为第三方包被依赖了多少次，我给你分润什么的。但是从LM这个角度，从大模型这个角度，其实你本身就很难追根溯源说，我到底这段代码来自于哪里，对吧？
-</p>
-<p class="transcript-line">
-<span class="time"><strong>[00:30:10]</strong> </span>
-<span class="speaker"><strong>发言人3: </strong></span>
-然后我这段代码生成从哪些开源产品的训练里面得到了帮助，然后这段代码生成了多少次给别人用，其实这个感觉也没办法统计。所以真的去回馈的话，你可能最简单的做法还真的就是像你说的，我去给这个开源作者打个折什么的。所以我觉得这个事儿，反正我自己是觉得没啥必要，他其实是让这个世界变得更好的一件事情。
-</p>
-<p class="transcript-line">
-<span class="time"><strong>[00:30:38]</strong> </span>
-<span class="speaker"><strong>发言人2: </strong></span>
-我自己说现在我的态度也是一样的，好好归，我自己不太介意这件事儿。比如说如果我自己开源了大量的代码和项目，我也完全不介意大模型来学习我的项目。我觉得这件事儿对我来说，我自己也是完全不介意的。但是针对这个问题，其实我认为我的观点是我觉得完全有可能存在着这样的人或者公司他们最终会去修改协议会去和大模型公司做一些对抗。这个我相信肯定会有的对，但是我又认为这件事情确实和MongoDB和hash corp那些公司他们改协议的行为是非常不同的一件事，觉得是两件事情。
-</p>
-<p class="transcript-line">
-<span class="time"><strong>[00:31:22]</strong> </span>
-<span class="speaker"><strong>发言人2: </strong></span>
-那首先我表达一下这个有可能总有一些人会去改这种协议，我觉得今天主要还是一个赚钱的问题。对，总是有人看不惯这些，就像刚才说的什么bot点6对吧？那些产品他可能一个月都赚了很多很多的钱。他可能也学习了我的代码，借鉴了我的代码，最终要用我的代码去赚了很多的钱。这件事情总有很多人可能心里过不去这个坎。
-</p>
-<p class="transcript-line">
-<span class="time"><strong>[00:31:47]</strong> </span>
-<span class="speaker"><strong>发言人2: </strong></span>
-对我觉得这个也很正常，都是人的正常的情绪反应的。但是我总觉得说AI它除了学习了你的代码，其实他还学习了很多别人的代码。那最终它肯定是一个集各家资产。最终确实就像龟龟讲的，他也知道效率质量的各个方面会反哺我们所有的人。这对我自己来说，其实我不介意这件事儿，就是这个原因。
-</p>
-<p class="transcript-line">
-<span class="time"><strong>[00:32:10]</strong> </span>
-<span class="speaker"><strong>发言人2: </strong></span>
-对，我重点说一下在我的认知里面，AI学习开源代码这件事儿。那开源项目要不要改协议？和MongoDB harsh cop他们改协议这件事儿是完全不同的。他们之间这完全不是一回事儿。我觉得哈那首先的话像云厂商，还特别像harsh cup，他去改协议，他其实是面对了很多的竞争对手，拿了他的了像他的那些什么platform，他那些软件去打包成其他的相似的一些竞品产品去售卖。对。所以就是云厂商和他们的竞争对手其实是直接拿开源项目的这个产品去提供了服务，去赚钱。
-</p>
-<p class="transcript-line">
-<span class="time"><strong>[00:32:48]</strong> </span>
-<span class="speaker"><strong>发言人2: </strong></span>
-要知道从开源软件把它演变成一项商业服务，其实这个中间的这个路是非常短的，不需要做特别太多的事情。比如说像阿里云也好，WSL他们要把VADS提供成一个云服务，这是一件非常简单的事情。对他们来说，对没有什么需要什么二次创新这样的东西在里面的，几乎就是接近于直接使用。
-</p>
-<p class="transcript-line">
-<span class="time"><strong>[00:33:13]</strong> </span>
-<span class="speaker"><strong>发言人2: </strong></span>
-AI学习代码完全不是这么回事。AI从学习你的代码到最终去生成代码，这个中间的这条路是非常的长的，还要耗费很多的GPU算力的资源在里面。他自己还要出很多很多的钱，投很多的资在里面。并且从你的代码学习到最终生成代码，这个之间除了学习推理，整个过程里面是非常多专业的事情。并且这些专业的事情都是远远超出你的能力范畴的，你根本搞不定的对，所以说这完全就不是一回事儿了。
-</p>
-<p class="transcript-line">
-<span class="time"><strong>[00:33:45]</strong> </span>
-<span class="speaker"><strong>发言人2: </strong></span>
-好，另外一个从商业的角度来看。第三点，像MongoDB，他这种和云厂商那一定是竞争关系，对吧？但是MongoDB和cos r它并不是竞争关系，最后在这个商业关系是完全不一样的。所以说我就说可能在未来这些开源项目不太会大规模的去针对AI厂商去修改开源协议。因为他们之间的就最终回归到商业层面的话，他们的那个关系是完全不一样的。大家其实还是各取所需，还是相互有利益的。我觉得对你。
-</p>
-<p class="transcript-line">
-<span class="time"><strong>[00:34:18]</strong> </span>
-<span class="speaker"><strong>发言人1: </strong></span>
-讲的这一点确实挺好的。我就想到说你看MongoDB让cloud，让ChatGPT他们学习了之后有什么好处？比如说MongoDB自己有一个插件体系，对吧？假如他有一个插件体系，如果大模型把MongoDB已经学得非常好了，其实那个插件可能非常容易写出来。然后像KPS也是一样的，对吧？KPS有大量的logging等等之类的一些。所以说如果你真的学习到位的话，可以非常加速你生态的发展，我觉得这个也是一个挺不错的一点。
-</p>
-<p class="transcript-line">
-<span class="time"><strong>[00:34:45]</strong> </span>
-<span class="speaker"><strong>发言人1: </strong></span>
-对我就想到说其实现在为什么这么多人去用next GS？为什么这么多人去用一些比较成熟的一些bram mark也好，你可能不太用小众的。因为我觉得未来极有可能它会出现强者恒强，比如说next GS，因为大家写的太多了，被AI学习的也太多了。其实你可能啥都不用干你用AI prompt一下，然后你可能该写的都都已经写完了。但是比如说你用一个非常小众的一个框架，你搞了半天你可能都写不出来，或者说你可能更多的需要用手写，因为AI没有学习到那么多内容。
-</p>
-<p class="transcript-line">
-<span class="time"><strong>[00:35:15]</strong> </span>
-<span class="speaker"><strong>发言人1: </strong></span>
-对，所以说我觉得这个也是一个确实AI如果学习的更多之后，然后能帮你把你的效率等等之类的能够提升很多。而且确实ai不是跟芒果DB跟redis跟hash cop他们是竞争关系，甚至他们是一种共荣共生的关系，吧？比如说他们让AI学习的更多，他们可能甚至未来会主动会给AI很多信息，让AI把他们学的更好，对吧？然后来繁荣他们的生态也是有可能的。对我觉得这个是一个确实是一个挺大的不一样。
-</p>
-<p class="transcript-line">
-<span class="time"><strong>[00:35:43]</strong> </span>
-<span class="speaker"><strong>发言人1: </strong></span>
-对，那我就还想问一个问题，你看现在我记得之前google的那个皮拆，然后他在吹说现在google新代码里面有40%的代码都是用AI写的。当然后来被google内部的人否认了，说没有那么多。但是他自己也在说，反正这部分比例在持续走高，就是在在提升，具体肯定没有那么多了。对我就在想说，因为这是google内部扩展到我们整个给hub里边的整个开源生态。那这个开源协议在未来会不会有什么变化？或者说你看现在因为AI生成的越来越多，那版权之间越来越模糊之后，有没有什么好的办法，会不会产生一些新的方式方法来保护这些原创者的利益。
-</p>
-<p class="transcript-line">
-<span class="time"><strong>[00:36:23]</strong> </span>
-<span class="speaker"><strong>发言人2: </strong></span>
-首先接着上一个问题的话，就像说的，我相信开源协议在未来可能不太会针对AI这一点进行大规模的变化。其实感觉也没有必要进行大规模的变化，就像我们刚才的分析的结论的话。对当然你说有没有新的办法，就是要保护大家不想被AI学习的这种原创的利益。但其实今天可能我自己确实也想不到什么好的办法来保护，因为对我自己来说，我觉得没有必要去做这件事儿。对，但是我们为什么不把这件事情想得更有格局一点呢？大家在未来代码本身这件事情真的很重要吗？还需要保护吗？但今天可能是需要保护的对，今天大家所有的人都会盯着那几行代码，但是在未来可能事情会发生一些变化。
-</p>
-<p class="transcript-line">
-<span class="time"><strong>[00:37:14]</strong> </span>
-<span class="speaker"><strong>发言人2: </strong></span>
-我们可以想象一下，可以乱想一下，就在未来的某一天，kit hub它可能会成为人类代码的那个基础库，那个程序代码。它就像今天的数学原理，那种基础数学基础物理，它会变成人类的共同的财富，它属于一种那种在知识层面的一种共识。我们大家都知道一加一等于2，我们都知道热力学三大定律可以用来解决什么问题，用来证明一些什么东西。但是没有谁去管热力学三大定律它的版权的或者著作权的事情。数学一样的，数学上有很多的定理公理都是同样的这样的一个它们属于人类的知识层面的这种共识。未来的代码库是不是也会演变成这个样子。
-</p>
-<p class="transcript-line">
-<span class="time"><strong>[00:38:05]</strong> </span>
-<span class="speaker"><strong>发言人2: </strong></span>
-我们去使用任何一段代码，就像今天可以去用任何一条数学的定理公理去解决任何领域的一个问题。没有谁去关心他的所谓的版权这件事儿。这种我觉得它是属于一种人类的基础知识。对的，代码我觉得在未来会不会成为这个样子，我觉得是有可能的。就像我们今天人人都在使用交流电，对吧？但是我们没有谁会去给特斯拉交钱，对吧？特斯拉当然特斯拉也已经不管这件事儿了。从这个角度继续往下，我就想了一下的话，那未来的代码就不会变成他可能不再是真的是人去写这么多的代码了，可能真的就是交给AI可以去随便去生成了，那可能给到hub上也有很多的代码，真的就是AI生成的那AI生成代码去完成所有的事情，任何事情。
-</p>
-<p class="transcript-line">
-<span class="time"><strong>[00:38:59]</strong> </span>
-<span class="speaker"><strong>发言人2: </strong></span>
-那你朝着这个角度，那就是可能在未来的整个计算机会发生一个很大的一个变化。就在今天的计算机的层面上，或者说操作系统层面上，其实它就可以向上去增加一个新的AI的抽象层。因为今天其实我们的计算机其实是到操作系统，操作系统在网上又增加了很多的应用的APP或者之类的，最后交给不同的人去交互。其实如果我们在计算机上操作系统上去叠加一个AI的抽象层的话，那人类可能未来是直接和这个AI去交互了。这个AI又会将人类的这样的一些交互的语言，把它转化成操作系统可直接运行的程序指令。这件事情就变成了写代码这件事儿真的就不重要了。这可能就是真正的未来的AI的计算机。
-</p>
-<p class="transcript-line">
-<span class="time"><strong>[00:39:49]</strong> </span>
-<span class="speaker"><strong>发言人2: </strong></span>
-确实现在的计算机可能真的就缺少这样的一个层。你看现在已经有这种苗头了，大家也还是可以去关注一下。比如像最近像cloud，他要推出那种可以操作，就像类似于RPA的全自动化，对吧？对他把整个RPA集成到自己的模型层面去做这件事儿。那其实越往后一样的那些生成代码这件事情做得更好，大家可能都在做操作计算机这件事儿，我觉得这件事情是完全有可能达成的。
-</p>
-<p class="transcript-line">
-<span class="time"><strong>[00:40:16]</strong> </span>
-<span class="speaker"><strong>发言人1: </strong></span>
-对你我觉得你这个想法特别有意思。因为现在大家还在用RPA，在用这些方式，然后再去操作计算机。那未来有没有可能就是没有这些应用软件了，大家就直接生成代码了？我想要什么软件，然后你直接给我一个什么软件，然后你就可以直接跑，可以直接完成你该要的该该完成的所有动作。对我觉得这个也是一个未来版权这件？就变成说其实大家就没有版权了，然后我想要什么软件你帮我生成，生成完之后如果我想保留我就保留，如果我不想保留我就是急抛？都可以的对对我觉得这个还是一个特别有意思的一个畅想，就是说未来版权模糊了，其实我们不需要新的license，我们可能就完全不需要license了？这个也是一个特别有意思的对。
-</p>
-<p class="transcript-line">
-<span class="time"><strong>[00:41:01]</strong> </span>
-<span class="speaker"><strong>发言人2: </strong></span>
-因为最近在学术界也有一些人在提编程语言这件事情是不是终点了。到今天，接下来因为这一波AI大模型的崛起，会不会导致一种新的编程语言的出现？这种新的编程语言完全是以AI burst为基础的，就是说你的整个编程语言完全是AI驱动的。你写的代码的逻辑可能不太像我们今天这样说，我要去写一个循环，去表达什么事情或者说怎么样的。可能完全是你的代码指令里面可能完全是一个。比如说可能是触发AI去做一件事情或者之类的，最终会演变成这个样子。如果演变成这个样子的话，它可能完全极有可能最终会走向AI驱动的软件生成。对我觉得反正这种是有可能的。
-</p>
-<p class="transcript-line">
-<span class="time"><strong>[00:41:50]</strong> </span>
-<span class="speaker"><strong>发言人1: </strong></span>
-对，我觉得就是需要我们走一步看一步，然后继续往下看，说包括未来GPT5，然后做到什么样的程度，更快速的帮我们达成所有未来的去AI直接生成软件，然后不需要我们自己写的软件，对，类似于这样子。好的，不知道大家对于未来的这个版权问题有什么自己的看法，也欢迎大家在评论区可以给我们留言讨论。我们本期节目就先到这里，然后最后最后广而告之一下，po d wise现在正在黑5打折，使用史低折扣码BF2024在现在年定本身6折的基础上，然后可以再打6折。就相当于说在原价三六折扣，而且这个折扣是永久折扣，错过的话就要再等一年了。如果大家喜欢PODOS的话，可以尽快下单了。我们本期节目先到这里，我们下期再见，拜拜。
-</p>
-<p class="transcript-line">
-<span class="time"><strong>[00:42:36]</strong> </span>
-<span class="speaker"><strong>发言人3: </strong></span>
-好，拜拜。
-</p>
-<p class="transcript-line">
-<span class="time"><strong>[00:42:38]</strong> </span>
-<span class="speaker"><strong>发言人1: </strong></span>
-以上就是我们本期播客的全部内容，感谢大家收听，也欢迎大家踊跃留言。如果你喜欢我们，欢迎点赞并分享给感兴趣的朋友。如果你在用苹果播客收听，也希望你花几秒钟给我们一个好评，这会让更多的人了解到我们要是能再点击一下订阅，那就再好不过了，我们下周见。
-</p>]]></content:encoded>
-            <pubDate>Mon, 25 Nov 2024 22:00:00 GMT</pubDate>
-            <guid>674454ff11045e78e5c8552e</guid>
         </item>
     </channel>
 </rss>
