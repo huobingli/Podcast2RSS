@@ -4,7 +4,1440 @@
         <title>屠龙之术</title>
         <link>https://www.xiaoyuzhoufm.com/podcast/6507bc165c88d2412626b401</link>
         <description>科技创业与投资相关的”屠龙之术“</description>
-        <lastBuildDate>Wed, 24 Sep 2025 04:40:50 +0800</lastBuildDate>
+        <lastBuildDate>Mon, 03 Nov 2025 01:12:21 +0800</lastBuildDate>
+        <item>
+            <title>Vol.75 &quot;我可是AI司马迁啊…”---串台十字路口</title>
+            <link>https://www.xiaoyuzhoufm.com/episode/68f77d0b456ffec65ed9d9ad</link>
+            <description>最近十字路口的主播Koji和Ronghui找我聊了聊整个25年的AI行业的一些发展情况；
+Koji说我是“AI司马迁”……
+我们的对谈中涉及了LLM、多模态、AI coding、Agent、Infra、开源、资本等等关键词。
+🎉 本期节目由飞书特别赞助播出！
+飞书的智能会议纪要的AI功能又更新了
+飞书会议、飞书妙记等场景下，你的会议纪要、录音、文字稿等会被智能总结成全面、清楚的可视化版本。
+比如我把今天的这期播客交给飞书之后，生成了下图这样的总结：
+以下是飞书智能会议纪要的体验链接，如果有兴趣的话可以试试效果。
+你也可以把我之前的播客转给飞书之后生成智能纪要来进行再一次的“咀嚼”。
+以及在详情页面中，会在文字的整理过程中生成一些配图，比如：
+按照时间线发展的LLM发展脉络
+比如对于Agent相关信息的梳理：
+【对谈嘉宾】
+* Koji---十字路口主播，新世相/躺岛联合创始人
+* Ronghui--- 十字路口主播，前美元VC从也者
+* 庄明浩---屠龙之术主播
+（想加粉丝群的请先+微信：rosicky311)
+最后预告下，今年的狂喜播客节我会有一个“专场”的内容，
+我会以超过100页PPT，90-120分钟solo的形式向大家展开这一年的AI行业。
+狂喜购票这里：
+【时间线】
+03:22 所谓的“AI司马迁”
+03:45 如果用一个关键词形容2025年的AI行业
+* 大模型技术
+05:20 年初的DeepSeek R1
+08:26 GPT-4o到GPT-5
+09:57 “Make Google Great Again”
+延伸阅读：
+Google AI变猛记——从 Nano Banna、Genie 3、Veo 3到Gemini 2.5的绝地反击
+10:16 Claude的策略
+10:50 马斯克的XAI
+11:53 中国六小龙叙事之后的开源叙事
+12:32 DeepSeek V3.2的意义是我们在25年可能等不到V4和R2了
+13:23 kimi与智谱
+14:05 10年后回头看，今年会记住什么？R1、Veo3、世界模型
+15:05 大模型领域的榜单“世界第一”可能已经越来越没有意义
+16:18 这种第一和成绩很多时候其实是为了“向上管理”
+18:24 Chatbot的战争是否到了新阶段？
+19:00 Chatbot的战争其实已经打完了，ChatGPT已经赢了
+20:23 ChatGPT在做当年Meta和Google没有做成，但微信做成的那件事：All in one
+OpenAI DevDay 2025: Trying What Google and Meta Failed- America&#x27;s WeChat
+22:21 世人似乎都忘了，Sam此前是YC的合伙人
+23:58 疯狂氪金的美国叙事 VS 中国的？？？叙事
+25:22 算法、数据、算力，哪个因素是可以靠氪金搞定的？
+25:54 小扎认清的现实：1000亿美金的年Capex VS 把硅谷挖空可能也就需要几十亿美金
+26:56 这一轮AI=犹太人的金融+华人工程师
+27:08 多模态战场的更新
+29:48 此前说过的观点：影像这个类目一直都是兵家必争之地
+30:30 如何看待Sora2？一个AI抖音？
+34:10 “我们不需要一个AI版抖音”，是吗？
+35:08 当前的OpenAI其实是3-4家公司构成的
+37:40 聊聊世界模型：局部战场到世界模型
+39:23 世界模型是不是也是AGI的主桌之一？
+41:17 国内混元也在做世界模型
+43:37 得聊聊Agent了：从语言到行为
+45:04 “我们可能和自动驾驶一样，要在L3-Agent待很久”
+45:43 Agent给了非模型厂商一种创业方向的范式
+48:36 开源生态的趋势也契合了Agent的发展
+50:55 Manus最大的意义：让用户知道Agent大概是个什么样子？---品类代名词
+54:17 A16z统计的AI收入榜单
+The AI Application Spending Report
+（勘误，四家公司是可灵、Manus、剪映和Plaud而不是Genspark）
+54:56 开源生态
+* 应用层突破
+1:00:53 回避不掉的coding
+1:01:34 垂直行业的Agent
+1:02:37 AI陪伴/社交
+1:03:30 为什么纯应用爆发很难？
+1:04:23 ARR叙事我们不能讲，那我们讲什么？
+1:10:01 具身/AI硬件热的背后
+1:12:14 极端到一定程度之后会出现一些“反转”
+* AI泡沫大讨论
+1:14:07 所谓的AI泡沫叙事
+1:18:53 Sam说需要7万亿美金是24年2月，当时是天方夜谭，今天呢？
+1:20:38 OpenAI=AI、AI=Market、Market=Goverment
+1:22:39 铁路、光纤和GPU的折旧差别
+1:24:40 为什么前3个季度标普500涨的最好的TOP2是希捷和西部数据？
+音乐：AI音乐工具天谱乐生成
+【播客简介】
+屠龙之术是一档关注科技、互联网、风险投资的播客，
+主播庄明浩是一个游走在互联网和风险投资行业的边缘人士。
+其工作多年所积累的认知似乎都成为了某种意义上的”屠龙之术“……</description>
+            <content:encoded><![CDATA[<h1>转写链接</h1>
+<link>https://tongyi.aliyun.com/efficiency/doc/transcripts/mloynm35dzje9agp</link><br>
+<h1>节目摘要</h1>
+<div class="summary">在这次讨论中，参与者深入剖析了科技行业的现状与未来趋势，特别关注了创业生态、投资导向以及人工智能领域的革新。随着熟悉趋势的不确定性增加，创业者和投资者需探索新方向，特别强调了中国在AI发展中需独创路径的重要性。游戏行业投资与二级市场动态也被提及，如OpenAI与AMD的新闻对股价的影响。讨论者认为行业正面临极限状态，所有公司都在为未来五年增长做准备，引发前所未有的资金需求与市场泡沫讨论。此外，对话转向AI技术的未来发展，包括大模型、多模态应用以及其在法律、金融等行业的潜力，同时关注了AI伦理问题与如何更好地服务于人类社会，展示了AI技术的当前状况与未来展望。</div><br>
+<h1>章节速览</h1>
+<div class="chapters">
+<div class="chapter-item">
+<span class="time"><strong>[00:00:00]</strong> </span>
+<span class="chapter-title"><strong>2025科技与AI发展回顾及飞书智能会议纪要功能体验</strong></span>
+<div class="chapter-summary">节目围绕2025年科技与AI行业的发展进行了深入探讨，回顾了过去一年的技术迭代、产品更新及全球格局变化。同时，介绍了飞书新推出的智能会议纪要功能，该功能不仅能将语音转为文字，还能自动总结重点、理清逻辑并生成可视化图表，大大提升了工作效率，特别适合播客创作者及频繁参与长时在线会议的职场人士使用。</div>
+</div>
+<div class="chapter-item">
+<span class="time"><strong>[00:03:30]</strong> </span>
+<span class="chapter-title"><strong>2025年：AI时代的拐点与市场波动</strong></span>
+<div class="chapter-summary">对话探讨了2025年作为AI时代拐点的双重可能性，即向上或向下的转折，特别关注数据中心建设和AI泡沫破裂的潜在影响。回顾了年初deep sick find R1的全球影响，以及中美AI竞争、人才流动和市场波动，指出技术、资本与人类极限的交汇点。</div>
+</div>
+<div class="chapter-item">
+<span class="time"><strong>[00:07:04]</strong> </span>
+<span class="chapter-title"><strong>中美大模型领域竞争与开源趋势</strong></span>
+<div class="chapter-summary">对话探讨了中美在大模型领域的竞争，包括技术路线、开源闭源等议题。回顾了2024年到2025年间的模型发展路径，指出尽管有重大技术突破，但整体进展仍呈线性。特别提到OpenAI的GPT5未达预期，Google在技术上的强势回归，以及Cloud在to B市场的专注。中国大模型厂商倾向于开源，视其为与美国AI趋势差异化发展的关键手段。</div>
+</div>
+<div class="chapter-item">
+<span class="time"><strong>[00:12:22]</strong> </span>
+<span class="chapter-title"><strong>2023年中国与全球AI开源领域重要进展与展望</strong></span>
+<div class="chapter-summary">讨论了中国开源AI领域头部厂商如DeepSak与Qianlong的进展，特别是DeepSak的V3.2版本对行业的影响。提及阿里在AI领域的广泛布局及Kimi在开源领域的尝试。欧洲公司Make在自然语言模型技术上的贡献。预测未来十年内，视频模型VU3的突破与世界模型的发展将成为重要里程碑。同时，指出当前大语言模型与多模态模型发布渐进式改动，缺乏显著创新。</div>
+</div>
+<div class="chapter-item">
+<span class="time"><strong>[00:15:13]</strong> </span>
+<span class="chapter-title"><strong>AI模型榜首之争与语音赛道竞争分析</strong></span>
+<div class="chapter-summary">对话探讨了AI模型在不同榜单上的榜首争夺现象，指出由于存在多种评价标准，单一榜首称号缺乏实际意义。同时，分析了语音模型领域竞争加剧的原因，包括性价比考量和企业内部战略需求，以及大公司在语音模型研发上的布局策略。</div>
+</div>
+<div class="chapter-item">
+<span class="time"><strong>[00:18:23]</strong> </span>
+<span class="chapter-title"><strong>ChatGPT与OpenAI：技术领先与品牌认知的飞轮效应</strong></span>
+<div class="chapter-summary">讨论了ChatGPT在纯chatbot领域的绝对优势，及其如何通过增强记忆和理解形成正向作用，建立强大的品牌认知。OpenAI通过类似投资的内部管理策略，扶持团队成长，展现出卓越的战略能力和舆论影响力，可能在泡沫破裂后仍能屹立不倒。</div>
+</div>
+<div class="chapter-item">
+<span class="time"><strong>[00:23:27]</strong> </span>
+<span class="chapter-title"><strong>中美AI竞争与策略：氪金与弯道超车的交融</strong></span>
+<div class="chapter-summary">对话探讨了中美在AI领域的竞争策略，指出美国倾向于通过大量资金投入（氪金）推动技术研发，而中国则寻找弯道超车和成本效益更高的方法。双方策略正逐渐交融，算法和数据的突破难以单纯通过资金解决，人才成为关键因素。美国金融资本与华人工程师的合作模式被提及，强调了资金和技术人才在AI发展中的重要性。</div>
+</div>
+<div class="chapter-item">
+<span class="time"><strong>[00:27:08]</strong> </span>
+<span class="chapter-title"><strong>多模态战场中美竞争与模型产品化探讨</strong></span>
+<div class="chapter-summary">讨论了多模态模型领域中美竞争的激烈态势，指出尽管各厂商在技术进展上同质化，但决定胜出的关键因素在于模型产品化能力、应用场景的深度整合以及对用户需求的精准把握。强调了中国短视频生态链的丰富性及与电商、营销等场景的结合，以及产品设计对用户需求感知的重要性。</div>
+</div>
+<div class="chapter-item">
+<span class="time"><strong>[00:31:39]</strong> </span>
+<span class="chapter-title"><strong>AI技术商业化与品牌营销的融合探索</strong></span>
+<div class="chapter-summary">对话围绕AI技术的商业化应用展开，提及第三方厂商在图板块的尝试，以及多模态领域的案例分析。强调了IP对于短视频病毒营销的重要性，同时讨论了OpenAI在技术产品化、组织架构完善方面的努力。最后，指出创始人IP在品牌营销中的作用，以及如何通过恰当的营销策略增强用户与品牌的互动与绑定。</div>
+</div>
+<div class="chapter-item">
+<span class="time"><strong>[00:37:04]</strong> </span>
+<span class="chapter-title"><strong>世界模型与AGI路径探讨：从多模态到终极智能</strong></span>
+<div class="chapter-summary">对话深入探讨了世界模型在通往AGI路径中的角色与潜力，从语言模型到多模态发展，特别是视觉、3D及世界模型的进展。讨论中提到了DeepMind、李飞飞等领域的领军人物，以及国内如浑源在世界模型领域的探索。此外，还分析了3D打印与游戏行业对世界模型的需求，以及多模态创业的市场前景，包括视频工具的广泛应用和市场潜力。</div>
+</div>
+<div class="chapter-item">
+<span class="time"><strong>[00:43:37]</strong> </span>
+<span class="chapter-title"><strong>2025年AI Agent发展元年与行业挑战</strong></span>
+<div class="chapter-summary">2025年被视为AI Agent发展的元年，尽管面临通用与垂直、协议标准等挑战，但这一概念为非模型厂商提供了新的创业范式。Agent的生态崛起复杂多样，涉及记忆系统、协议层等细分领域，促使初创公司探索自研或开源方案，推动整个行业向前发展。</div>
+</div>
+<div class="chapter-item">
+<span class="time"><strong>[00:49:12]</strong> </span>
+<span class="chapter-title"><strong>AI Agent市场竞争与创新趋势探讨</strong></span>
+<div class="chapter-summary">对话深入探讨了AI Agent市场的发展，强调了阿里云与AWS的竞争格局，以及初创公司在特定领域的标准制定机会。提及了Max对Agent形态的定义影响，以及Manos成功背后的品牌打造与综合能力。讨论了行业动态，如疯狂七月的模型竞争，A16z Demo Day的高质量创业项目展示，以及AI初创公司收入榜的发布，展现了AI领域百花齐放的创新热潮。</div>
+</div>
+<div class="chapter-item">
+<span class="time"><strong>[00:54:46]</strong> </span>
+<span class="chapter-title"><strong>开源生态：中国策略与全球竞争</strong></span>
+<div class="chapter-summary">对话探讨了开源生态在中国的发展，强调了开源对提升模型竞争力和信任度的重要性。开源不仅促进了技术交流和模型改进，还为中小企业提供了参与全球竞争的可能。此外，开源被视为一种‘软实力’，有助于建立国际合作，特别是在AI主权和技术自主性方面。开源模型通过提供透明度和本地部署能力，增强了用户对数据安全的信心，从而加速了技术的普及和应用。</div>
+</div>
+<div class="chapter-item">
+<span class="time"><strong>[01:00:40]</strong> </span>
+<span class="chapter-title"><strong>2023年度科技记忆：AI Coding与垂直领域AI发展</strong></span>
+<div class="chapter-summary">对话回顾了2023年科技领域的重要突破，特别关注AI Coding的进步及其细分领域的高发展，如前端、后端、数据库等。此外，讨论了垂直领域AI，尤其是法律、金融和营销领域的快速发展，这些领域内的公司获得大量融资，展现出异常繁荣的景象。</div>
+</div>
+<div class="chapter-item">
+<span class="time"><strong>[01:02:35]</strong> </span>
+<span class="chapter-title"><strong>社交与陪伴应用的发展与挑战</strong></span>
+<div class="chapter-summary">对话围绕社交与陪伴应用的发展现状展开，指出尽管这类应用在国内已有一定数量，但创新与影响力有限。讨论中提及中国与美国在应用发展上的差异，特别是ARPU值的实现难度，以及AI应用在独立APP、web和插件形态下的增长情况，强调了入口被占据的现状下，创新应用破局的艰难。</div>
+</div>
+<div class="chapter-item">
+<span class="time"><strong>[01:05:38]</strong> </span>
+<span class="chapter-title"><strong>中美融资环境与创业生态差异探讨</strong></span>
+<div class="chapter-summary">讨论了中美两国在融资环境、创业生态以及投资逻辑上的显著差异。指出中国在移动互联网成熟度、企业付费意愿等方面与美国存在不同，影响了AI、硬件等领域的投资策略。强调了在理想化投资叙事与现实限制之间的平衡难题，以及寻找适合本土背景的创新解决方案的重要性。</div>
+</div>
+<div class="chapter-item">
+<span class="time"><strong>[01:12:14]</strong> </span>
+<span class="chapter-title"><strong>投资视角下的中国游戏与科技趋势</strong></span>
+<div class="chapter-summary">对话探讨了中国游戏投资市场的变化，指出海外VC对中国早期游戏团队的兴趣源于成本优势与海外活跃并购市场。同时，回顾了一年来科技领域的投资动态，包括OpenAI与AMD、博通的合作对二级市场的影响，以及投资经理对市场乐观情绪的分析。</div>
+</div>
+<div class="chapter-item">
+<span class="time"><strong>[01:14:33]</strong> </span>
+<span class="chapter-title"><strong>AI泡沫与市场预期的极限探讨</strong></span>
+<div class="chapter-summary">讨论了AI领域中头部公司市值与经营现金流的巨大规模，以及由此引发的市场泡沫现象。提及硅谷银行报告中的定性定量分析，以及当前市场对AI技术的过度乐观预期。指出市场预期与实际技术进展之间的矛盾，以及这种矛盾如何推动了市场泡沫的形成。强调了AI已不仅仅是一项技术或产业，而是市场和政府的一部分，其复杂生态难以用理性评判。</div>
+</div>
+<div class="chapter-item">
+<span class="time"><strong>[01:21:18]</strong> </span>
+<span class="chapter-title"><strong>科技泡沫与行业极限：一场无法回头的共谋</strong></span>
+<div class="chapter-summary">对话探讨了当前科技行业面临的极限挑战，包括资金需求激增、债务风险上升及资源垄断等问题。通过对比互联网泡沫、铁路建设等历史事件，分析了数据中心、存储技术等领域的现状与未来趋势。强调了行业共谋的被动性，以及在没有退路的情况下，只能继续前行的无奈与决心。</div>
+</div>
+</div><br>
+<h1>问题回顾</h1>
+<div class="qa-item">
+<div class="question"><strong>Q:</strong> 飞书最近上了一个什么特别贴心的功能，能为深度对话节目整理内容？</div>
+<div class="answer"><strong>A:</strong> 飞书最近上了一个名为智能会议纪要的功能，它不仅能将录音转成文字，还能自动总结重点、理清逻辑，并生成可视化效果良好的会议纪要，例如涉及核心观点的脉络图和按照章节整理的内容，甚至能根据讨论内容制作相关图表。</div>
+</div>
+<div class="qa-item">
+<div class="question"><strong>Q:</strong> 智能会议纪要有哪些具体功能表现？</div>
+<div class="answer"><strong>A:</strong> 智能会议纪要可以生成一个整体脉络的总结图，帮助听众快速了解内容；它会按照章节进行整理，并且针对某些主题如大语言模型的发展，会制作对应的时间脉络图和对比表格；此外，它还具有按章节带时间戳的智能章节处理功能，便于播客创作者和需要回顾会议内容的人高效获取信息。</div>
+</div>
+<div class="qa-item">
+<div class="question"><strong>Q:</strong> 对于2025年科技发展和AI行业的总结，你会用什么关键词来描述这一年？大家如何看待今年AI行业的发展，是泡沫之年还是转折之年？</div>
+<div class="answer"><strong>A:</strong> 我觉得2025年可以用“拐点”这个词来形容，因为它既有可能是向上的拐点，也有可能是向下的拐点，反映了这一年的发展状态具有不确定性。我个人认为是拐点之年，因为技术、产品、投资等多个方面都在快速发展，即使存在一些争议，如数据中心建设带来的影响等，但整体上仍然是一个积极向上的趋势。</div>
+</div>
+<div class="qa-item">
+<div class="question"><strong>Q:</strong> 对于今年大模型领域最重要的事件——DeepMind发布AlphaFold，你有什么看法？</div>
+<div class="answer"><strong>A:</strong> AlphaFold的发布在全球范围内引发了巨大反响，它对生活、事业等各方面产生了深远影响。当时，这一事件与美国开始建立AI基础设施投资叙事形成强烈对比，引发了广泛探讨，并且从投资角度看，也影响了相关科技公司的股价表现。</div>
+</div>
+<div class="qa-item">
+<div class="question"><strong>Q:</strong> 除了DeepMind之外，今年还有哪些重要的模型更新？对于中国大模型厂商的表现，有什么特点或趋势吗？</div>
+<div class="answer"><strong>A:</strong> OpenAI的GPT系列模型一直是关注焦点，但实际发布的GPT-5并未如预期那样展现出巨大的突破。另外，Google在大模型领域也非常强势，其在技术线上的进展和特定应用场景的选择上表现出色，例如to B市场的定位和发展。中国的大模型厂商在技术角度上达成的一个共识是开源生态的建立。开源成为一种重要的甚至唯一的路径，其中DeepMind和前隆等头部厂商在开源领域并驾齐驱，发展迅速，而行业的重要标志是dipt stic v3.2的发布，表明基础模型经过强化学习和训练后取得了显著进展。</div>
+</div>
+<div class="qa-item">
+<div class="question"><strong>Q:</strong> V3.1不断更新后，大家对韦斯乃伊最终版的反应如何？在AI领域，千万的故事与什么相关联？</div>
+<div class="answer"><strong>A:</strong> 大家原本期待的是4.0版本，但出现了3.2版，所以大家普遍认为短期内不太可能等到4.0。千万的故事是与阿里在这一年中巨大的AI叙事紧密相关的，包括KPS投入、全方位的语言模型和多模态编程领域的覆盖。</div>
+</div>
+<div class="qa-item">
+<div class="question"><strong>Q:</strong> 目前有哪些领先的开源厂商在尝试和发布新成果？</div>
+<div class="answer"><strong>A:</strong> KIMI和质朴调整了一些策略并发布了K2，还有GML 4.64.5版本，他们在coding、agent及开源领域持续进行尝试。</div>
+</div>
+<div class="qa-item">
+<div class="question"><strong>Q:</strong> 欧洲这边有哪些公司在自然语言模型技术方面处于领先地位？</div>
+<div class="answer"><strong>A:</strong> 欧洲有一家公司名为make，在纯自然语言模型技术主线上有所突破，并且最近发布了相关进展。</div>
+</div>
+<div class="qa-item">
+<div class="question"><strong>Q:</strong> 对于今年可能会被记住的重要事件有哪些预测？</div>
+<div class="answer"><strong>A:</strong> 预计RE（可能指某项具体技术或模型）会被记住，同时VU3作为google视频模型的重大突破，也有可能被记住。</div>
+</div>
+<div class="qa-item">
+<div class="question"><strong>Q:</strong> 世界模型的发展现状及未来节点是什么？</div>
+<div class="answer"><strong>A:</strong> 世界模型今年发展加速，参与人数增多，目前仍处于demo阶段，但可能在25年底或20年初会有一个重要节点。</div>
+</div>
+<div class="qa-item">
+<div class="question"><strong>Q:</strong> 当前大语言模型和多模态发布的频繁程度如何？</div>
+<div class="answer"><strong>A:</strong> 近期的大语言模型和多模态发布多为渐进式改动，已不再像早期那样引起行业高度兴奋，且各种榜单排名和评测方式不同，导致单一模型难以在所有榜单上领先。</div>
+</div>
+<div class="qa-item">
+<div class="question"><strong>Q:</strong> 面对频繁出现的第一名报道，如何消化这类新闻？</div>
+<div class="answer"><strong>A:</strong> 面对众多模型声称自己在不同榜单上获得第一的情况，需要关注其具体评测标准，并认识到这些成绩在很大程度上是对内向上管理。</div>
+</div>
+<div class="qa-item">
+<div class="question"><strong>Q:</strong> 为什么今年语音模型领域的竞争激烈？为什么是这些中等规模公司而非大公司在语音模型领域崭露头角？</div>
+<div class="answer"><strong>A:</strong> 竞争激烈是因为投入量级增大，同时随着场景落地增多，性价比考量导致各公司争相在语音模型上发力，包括小米、B站、小红书等公司都曾发布过相关PR稿。这些中等规模公司希望通过短期建立影响力来证明自身部门的价值，而语音模型战场被认为性价比高，吸引了众多公司参与竞争。</div>
+</div>
+<div class="qa-item">
+<div class="question"><strong>Q:</strong> 当前用户选择购买付费服务的意愿来源是什么？</div>
+<div class="answer"><strong>A:</strong> 用户购买付费服务的意愿来源于使用习惯、品牌认知、上下文记忆加长等综合因素的影响，形成正向反馈循环。</div>
+</div>
+<div class="qa-item">
+<div class="question"><strong>Q:</strong> 在纯chatbot战场上，ChatGPT的地位如何？</div>
+<div class="answer"><strong>A:</strong> ChatGPT已经建立了绝对的品牌认知优势，并通过强化记忆和理解能力，在纯chatbot战场中占据了主导地位，甚至有向大一统平台发展的趋势。</div>
+</div>
+<div class="qa-item">
+<div class="question"><strong>Q:</strong> OpenAI的战略选择和成功因素是什么？</div>
+<div class="answer"><strong>A:</strong> OpenAI不仅拥有强大的产品能力和战略能力，而且擅长舆论营造，成功塑造了独特的竞争格局。创始人Sam Altman的投资背景和管理才能也为其带来了竞争优势。</div>
+</div>
+<div class="qa-item">
+<div class="question"><strong>Q:</strong> 在AI领域中，有哪些资源是公司可以通过投入来获得的？对于技术竞争，是否存在通过堆钱就能胜出的情况？</div>
+<div class="answer"><strong>A:</strong> 公司可以通过投入获得算力、数据以及人才资源。算力可以通过资金堆砌解决，算法和数据相对难以获取，而人才可以通过提供高待遇来吸引。不完全如此。虽然资金可以购买算力，但在技术层面，尤其是算法和数据方面，仅靠金钱投入并非决定性因素。例如，人才和独特技术的积累同样重要，且有时甚至比单纯的资金投入更为关键。</div>
+</div>
+<div class="qa-item">
+<div class="question"><strong>Q:</strong> 在多模态战场中，决定谁能胜出的关键因素会是什么？</div>
+<div class="answer"><strong>A:</strong> 决定性因素可能包括模型能力的提升、技术选型和技术路线的确定，以及如何将这些技术有效落地到实际应用场景中。中美两国在此领域的竞争非常激烈，都有各自的优势资源，比如中国在短视频生态链的丰富程度和与电商、营销等场景的结合上具有优势。</div>
+</div>
+<div class="qa-item">
+<div class="question"><strong>Q:</strong> Sora Two这款产品的成功是否具有偶然性？</div>
+<div class="answer"><strong>A:</strong> Sora Two的成功并非偶然，它是基于OpenAI团队对成熟交互形态的理解和利用，快速实现了将AI技术与大众熟悉的交互方式结合，短时间内创造出爆款产品，这体现了OpenAI在产品化和技术落地方面的出色能力。</div>
+</div>
+<div class="qa-item">
+<div class="question"><strong>Q:</strong> OpenAI之外的其他公司是否尝试过类似多模态产品，但未能像Sora Two那样获得广泛认知？</div>
+<div class="answer"><strong>A:</strong> 是的，其他公司如mini m max、六小龙等也尝试过打造多模态产品，但由于各种原因，它们没有像Sora Two那样获得大规模的市场认可和社会关注。不过，这些尝试也推动了整个领域的发展，提升了人们对多模态产品可能性的认知。</div>
+</div>
+<div class="qa-item">
+<div class="question"><strong>Q:</strong> OpenAI在自然语言模型领域的成就是否被认为是通往超级智能的关键？</div>
+<div class="answer"><strong>A:</strong> 是的，很多人认为当机器掌握语言这一人类特有时，超级智能就会到来。自然语言模型的发展基于这样一个基础逻辑，即语言是人类特有的，并可能通向AGI（通用人工智能）。</div>
+</div>
+<div class="qa-item">
+<div class="question"><strong>Q:</strong> 世界模型在AI领域的地位和重要性是什么？</div>
+<div class="answer"><strong>A:</strong> 世界模型被认为是另一种通向AGI的途径，它整合了语音、图片、视频、3D等多种模态信息，形成对现实世界的深刻理解。如果实现，将具备类似物理定律遵循性，能在短时间内生成比人类想象更快的结果。</div>
+</div>
+<div class="qa-item">
+<div class="question"><strong>Q:</strong> 除了DeepMind和李飞飞的公司，还有哪些国内公司在做世界模型研究？</div>
+<div class="answer"><strong>A:</strong> 据所知，浑源科技也在研发世界模型，并已发布0.1版本，但目前仍处于早期阶段，主要功能是将静态图片转化为可互动的形式，而3D模型和世界模型的发展则更快一些，相关公司在与游戏公司合作，并在3D打印等领域有较大需求。</div>
+</div>
+<div class="qa-item">
+<div class="question"><strong>Q:</strong> AIGC（AI生成内容）的发展趋势及其复杂性体现在哪些方面？</div>
+<div class="answer"><strong>A:</strong> AIGC作为今年的重要关键词，其发展不仅涉及通用型还是垂直领域的问题，还包含了众多细分阶段和体验。此外，agent生态的崛起为非模型厂商提供了网络场景落地的新范式，同时也带来了技术路线多样性、协议标准化等问题，以及信息层、实施层、兼容现有互联网体系结构等各种挑战，每个环节都有很多不同的选择和创新点。</div>
+</div>
+<div class="qa-item">
+<div class="question"><strong>Q:</strong> 对于大厂在新技术领域的投入，您认为他们的机会在哪里？</div>
+<div class="answer"><strong>A:</strong> 大厂虽然全面布局新技术，但由于技术多样性和复杂性，他们不可能短时间内完全掌握所有环节。初创公司在某些板块可能会形成标准，这是他们的机会所在。</div>
+</div>
+<div class="qa-item">
+<div class="question"><strong>Q:</strong> open a在癌症领域是否决策上较为克制？</div>
+<div class="answer"><strong>A:</strong> 是的，open a虽然专注于癌症问题，但在某些方面显得较为克制，更多关注的是需求实现、产品设计等方面，而agent在交互方式、产出结果等方面受到了一定限制和框定。</div>
+</div>
+<div class="qa-item">
+<div class="question"><strong>Q:</strong> A智能（此处应指Mora）最近的市场表现如何？</div>
+<div class="answer"><strong>A:</strong> Mora最近发布了9000万美金的ARR，虽然有人质疑其复制性，但不可否认其成功不仅依赖产品和研发，还涉及综合能力，包括战略选择、细节打磨及品牌打造。目前A智能并未“凉”，并且成功渗透到各种创业热潮中。</div>
+</div>
+<div class="qa-item">
+<div class="question"><strong>Q:</strong> 开源生态在中国的发展情况如何？</div>
+<div class="answer"><strong>A:</strong> 今年开源已成为中国上下的共识，并且上海等地出台了鼓励企业开源的相关政策。开源不仅有助于模型厂商获得认可和关注，还为模型本身提供了改进调整的机会。开源模型因其广泛应用和生态建设，有助于建立信任，降低用户获取成本，同时也成为一种竞争武器。</div>
+</div>
+<div class="qa-item">
+<div class="question"><strong>Q:</strong> 您提到的AI coding领域有哪些突破？</div>
+<div class="answer"><strong>A:</strong> AI coding领域今年进展显著，不仅成为关键词，其细分领域的进展也非常高，如前端、后端、数据库等领域都有所发展。阿里等大厂推出的AI coding产品以及垂直领域的快速发展，都是值得关注的应用成果。</div>
+</div>
+<div class="qa-item">
+<div class="question"><strong>Q:</strong> 在移动互联网领域，有哪些板块正在快速发展？</div>
+<div class="answer"><strong>A:</strong> 移动互联网领域中，金融、法律、营销等板块都在快速发展。金融板块下细分出一级市场、二级市场、保险、银行等多个领域，而营销板块尤其繁荣，包括线上营销、线下营销、搜索引擎营销、视频营销、图片文字、邮件等多种形式。此外，社交与陪伴板块也是在持续发展中，尽管不被主流讨论，但在web端和APP端都有不少公司在这个领域取得发展。</div>
+</div>
+<div class="qa-item">
+<div class="question"><strong>Q:</strong> 国内是否有类似美国的“curse”这类应用出现？</div>
+<div class="answer"><strong>A:</strong> 国内很难找到类似美国“curse”这样具有强大影响力并定义一个新品类的应用。一方面是因为中国的移动互联网环境相对封闭，纯to c产品的设计能力、运营等方面虽成熟，但期待纯to c应用大规模爆发并未实现；另一方面，很多被认为有创新的产品往往只是在传统APP基础上增加了部分功能，并非真正意义上的创新。</div>
+</div>
+<div class="qa-item">
+<div class="question"><strong>Q:</strong> 中美两国在移动互联网应用的发展趋势上有何差异？</div>
+<div class="answer"><strong>A:</strong> 美国市场对于新应用的接受度更高，常出现短时间内获得大量投资的夸张融资故事，且很多公司采用独立APP、web或插件形式参与市场竞争。而在中国，由于市场成熟且竞争激烈，入口位置已被各大厂商占据，想要崭露头角难度较大。同时，中国中小企业付费意愿和能力相对较低，导致部分前沿技术应用不如美国那样开放和活跃。</div>
+</div>
+<div class="qa-item">
+<div class="question"><strong>Q:</strong> 面对当前环境下投资AI等硬科技的挑战是什么？</div>
+<div class="answer"><strong>A:</strong> 投资硬科技如AI在中国非常困难，尤其是在大模型出现后，投资人只能等待并观察市场动态。此外，由于国内基础环境和技术限制，不能完全复制美国的投资策略和路径。创业者和投资人在选择方向时需要考虑更多现实问题，例如退出机制、行业环境等，并在有限的空间内寻找解决方案。</div>
+</div>
+<div class="qa-item">
+<div class="question"><strong>Q:</strong> 对于硬件方向的投资，现在的情况如何？</div>
+<div class="answer"><strong>A:</strong> 硬件方向的投资今年非常火热，很多来自大厂的产品经理以及科研实验室背景的创业者开始进入这一领域。他们认为硬件相比纯软件更直观且可能带来直接收入，加之中国强大的供应链优势，因此看好硬件领域的投资前景。</div>
+</div>
+<div class="qa-item">
+<div class="question"><strong>Q:</strong> 海外VC对中国市场的看法和逻辑是什么？</div>
+<div class="answer"><strong>A:</strong> 海外VC关注中国市场的逻辑主要围绕成本问题和海外并购活跃度。他们发现中国团队的成本相对较低，且海外并购市场异常活跃，倾向于将中外双方优势结合，通过海外VC来投资中国的早期游戏团队就是一种体现。同时，尽管对中国一级市场的投资谨慎，但二级市场的表现却受到全球资本市场的积极关注。</div>
+</div>
+<div class="qa-item">
+<div class="question"><strong>Q:</strong> 在讨论某个问题时，数字和月份的变化表明了什么？这个极限具体指什么？</div>
+<div class="answer"><strong>A:</strong> 数字和月份的变化显示了这个问题讨论程度的转变，从Q2时部分声音对某些现象表示质疑，到Q3时引用硅谷银行的报告进行深入分析，该报告通过定性定量的方式比较了当前市场状况与20年互联网泡沫时期的情况。今天回看，我认为我们实际上已经走到了一个极限点。极限是指头部公司市值达到三四万亿美金，其经营现金流达到千亿美金级别，如OpenAI估值5000亿美金，它们能做的事情非常多。但单纯依赖散户买股票上涨的游戏已经不再有趣和刺激。</div>
+</div>
+<div class="qa-item">
+<div class="question"><strong>Q:</strong> 欧派（可能是公司或行业）目前面临何种挑战或转变？</div>
+<div class="answer"><strong>A:</strong> 欧派在资本操作上曾采取融资卖老股拉估值，并投资初创公司的策略，但现在可能意识到需要考虑未来更长远的增长预期，甚至将预期拉至五年，并签订长期合同。然而，这种对未来五年增长预期的设定显得较为讽刺，因为现实中很少有高质量分析报告能覆盖这么长时间跨度。</div>
+</div>
+<div class="qa-item">
+<div class="question"><strong>Q:</strong> 当前市场对于公司未来预期的态度是怎样的？这种对未来预期的极度集中是否带来了一些问题？</div>
+<div class="answer"><strong>A:</strong> 目前市场上的预期往往基于对未来五年的设想，并将所有期待和计划都押在未来这个期限上，这与过去相比有显著变化。同时，许多大型公司如OpenAI等，其市值已接近甚至超过万亿美金，使得它们有能力做更多的事情，进一步推动了市场的繁荣和发展。是的，这种对未来五年的集中预期导致了市场的极度不稳定性和复杂性，很多初创上市公司甚至整个生态系统都被卷入其中，形成了一个相互影响、共谋发展的局面。同时，由于市场竞争激烈，所有人都必须参与这场游戏，否则将难以在这样的趋势中立足。</div>
+</div>
+<div class="qa-item">
+<div class="question"><strong>Q:</strong> 当前市场状况与历史上的其他行业泡沫有何异同？</div>
+<div class="answer"><strong>A:</strong> 虽然有人将当前市场与互联网泡沫、铁路建设泡沫等历史事件进行对比，但也有观点认为，当前以AI为核心的基础设施投资（如数据中心）的耐用性和长期价值还未得到充分考量。此外，相较于互联网泡沫时期，当前泡沫可能更侧重于债带来的风险，而非单纯股价爆发现象。</div>
+</div>
+<h1>节目文稿</h1>
+<p class="transcript-line">
+<span class="time"><strong>[00:00:09]</strong> </span>
+<span class="speaker"><strong>发言人1: </strong></span>
+Hello, 大家好，我是明浩。欢迎收听我的节目途中之处。本期节目由飞书特别赞助播出。飞书最近上了一个特别贴心的功能，智能会议纪要。它不只是把录音转成文字，而是能自动帮你总结重点，理清逻辑，甚至生成一张图，一眼看懂谈话主题、要点和结论，很适合作为深度对话节目的整理神器。
+</p>
+<p class="transcript-line">
+<span class="time"><strong>[00:00:33]</strong> </span>
+<span class="speaker"><strong>发言人1: </strong></span>
+仔细节目是我跟十字路口的叩击，跟融汇对于AI行业2025年的发展的一次对谈。整个时长大概有一小时35分钟，我把这个时时长的文件发给了飞书妙计。大家知道飞书妙计是一个偏语音转文字的功能。现在有了所谓的智能会议室之后，它会生成一个智能总结好的更可视化效果良好的会议纪要。
+</p>
+<p class="transcript-line">
+<span class="time"><strong>[00:00:59]</strong> </span>
+<span class="speaker"><strong>发言人1: </strong></span>
+我把现贴图也贴到了是note里，首先它会生成一个涉及到核心观点整个脉络的一张总结图，非常的清楚。如果你没有时间听的这些播客也很难去看。比如说逐字稿的话，那看这样一张图，你大概就会对这期的内容有个比较深入的了解。之后它会有常规的按照章节的整理。并且在整理的过程中，比如说我们聊到了这过去一年整个大语言模型按照时间脉络的发展。飞书的智能会议纪要也根据这个时间脉络把这张时间脉络图做了出来。比如说我们会聊到美国中国厂商的对立，他也会根据你聊的情况，把美国跟中国厂商的，比如说厂商名，他们的模型情况做成一张表列出来。就是所有的智能的内容生成完全是一步解决的。
+</p>
+<p class="transcript-line">
+<span class="time"><strong>[00:01:50]</strong> </span>
+<span class="speaker"><strong>发言人1: </strong></span>
+然后在智能会议要的最后，它会有一个按章节带时间戳的智能章节的处理。如果大家听播客或者做播客的话，应该也会知道这个东西。就是说诺德里经常大家会用的时间戳对吧？就是按照每一段的这个分类的结构，其实这个分类结构我后来看了一下，跟我们当时列的提纲基本是对应的上的。所以有了飞书智能会议纪要之后，我觉得对于很多像我们这样的，比如说播客的创作者而言，包括可能平时开会比较多的，在线会议比较内容长的打工人而言，这样的方式可能会更容易提升你的工作效率。然后这个新的飞书智能会议纪要的相关的功能，我放了体验链接在我的show note里，感兴趣的朋友可以亲自体验一番。
+</p>
+<p class="transcript-line">
+<span class="time"><strong>[00:02:41]</strong> </span>
+<span class="speaker"><strong>发言人2: </strong></span>
+本周的十字路口，我们的嘉宾是老朋友庄明浩。今天我们会和明浩一起来复盘2025这一年下来的科技大实践，以及AI的一些时代回忆。也很重要的就是我们三个人身在这其中的一些感受。说实话在准备这一期播客的时候，我的感时候其实就是一个字，就是感觉非常的快。因为不管是技术的迭代，还是产品的更新，还是全球格局的各种变化，我都感觉2025年很像是按下了一个八倍速一样，就身在其中经常有。就可能去年大家老说的一句话叫做AI一年，人间十年，这句话好像最近大家不怎么讲了，但是这个感受仍然是存在的对，然后明浩是一直在记录这个时代，一直在做PPT。然后我自己给他起了一个外号，叫做AI时代的司马迁。
+</p>
+<p class="transcript-line">
+<span class="time"><strong>[00:03:30]</strong> </span>
+<span class="speaker"><strong>发言人2: </strong></span>
+我们今天第一个问题就是想问一问AI时代的司马迁。明浩你觉得未来的人们会怎么来聊起这一年？这会是一个泡沫之年，还是这会是一个转折之年，还是会是什么别的关键词？
+</p>
+<p class="transcript-line">
+<span class="time"><strong>[00:03:44]</strong> </span>
+<span class="speaker"><strong>发言人1: </strong></span>
+我想到一个可以非常好的贴到今年的发展状态里面，我觉得这个词叫拐点。然后拐点的好处是说它是可以向上拐，也是可以向下拐。对，也就是说未来无论怎么样，他可能都是对的。如果比如说向上拐的很简单，我们看最近一段时间大家讨论比较多关于这个数据中心的建设的问题。就是如果按照预期来看，26年就是要报的那个，所以它是向上拐的拐点的可能性。
+</p>
+<p class="transcript-line">
+<span class="time"><strong>[00:04:07]</strong> </span>
+<span class="speaker"><strong>发言人1: </strong></span>
+当然有另外一种探讨是说是不是泡沫会不会破裂。如果真的要进入到破裂的状态的话，那可能25年底就要往下走了。到了可能25年年底的时候，你会发现我们不知不觉地走到了很多事情的极限里面。技术也好，产品也好，钱也好，资本也好，甚至到更大的话题里面。其实我们把AI这个事情已经走到了一个人类的极限的里面。
+</p>
+<p class="transcript-line">
+<span class="time"><strong>[00:04:34]</strong> </span>
+<span class="speaker"><strong>发言人2: </strong></span>
+我们今天会分几个部分来做这个2025的复盘，因为205发生的事情实在是太多了，今天肯定也没办法一一复盘到，所以这里面肯定有比较多我们自己的个人的感受。因为可能有一些事件对我们个人的冲击比较大对，但是也有可能就有些人觉得，这么大一个事情就影响了我的人生，你们竟然没有说到。对，这个很有可能会发生这样的情况在所难免。我们今天首先会来大模型多模态以及聊agent。然后到第二部分我们会聊整个生态的变化。第三部分我们会聊中美之间的竞争，然后也会聊最近的人才的一些流向。最后我们压轴是大家都关心的一级市场和二级市场，我们大概这样一个安排节奏。
+</p>
+<p class="transcript-line">
+<span class="time"><strong>[00:05:19]</strong> </span>
+<span class="speaker"><strong>发言人2: </strong></span>
+所以我们再回忆，今年其实开年的时候有一个特别大的事件，就deep sick find了R一对。然后当时是山呼海啸般的一个全球的刷屏。然后到今天我仍然感觉他对我们整个生活事业方方面面产生了很大的影响。所以到现在再回头看，拉长了一点距离之后，明浩你会怎么看r one以及它的意义在哪里？
+</p>
+<p class="transcript-line">
+<span class="time"><strong>[00:05:45]</strong> </span>
+<span class="speaker"><strong>发言人1: </strong></span>
+2万的正式的发布时间，我们就说1月20几号，就我们春节假期的前两天。然后当时去年可能中国最有名的一个人叫冯骥，就是黑神话悟空的创始人。他还发了条微博说这可能是国运级别的代表，然后引发了这一轮所有探讨。
+</p>
+<p class="transcript-line">
+<span class="time"><strong>[00:06:02]</strong> </span>
+<span class="speaker"><strong>发言人1: </strong></span>
+那两天反正基本上所有主流的美国的财经科技媒体全部都在报道deep。因为与之相对比的其实是其实在那个时间点，美国已经开始在建立关于这轮AI的基于大的基础设施投资的这样一个叙事。那可能在新闻上，在那个时间点出现的就是10亿美金、百亿美金这个体量。C42A1论文里只是说它最后一次的训练成本是一个大概一百多万美金的体量。这两个数字之间的强烈对比，其实引发了非常多的探讨。
+</p>
+<p class="transcript-line">
+<span class="time"><strong>[00:06:28]</strong> </span>
+<span class="speaker"><strong>发言人1: </strong></span>
+然后也那从投资的角度来看，我们就比如说我们在这个时间点回头来看，美国的所谓七姐妹或者NVIDIA的股价，其实在那个时间点有一个巨大的跌幅。因为大家去探讨，你原来建立这套叙事，似乎好像有别的方式去解决它它变了，它不是原来那个叙事。当然在那趋势出现之后，马上出现新的趋势。大家会说就跟当年煤炭的事业一样，就是煤炭的更多的发掘其实带来了更多的机会。它虽然会有一个短期的震荡向下，但是它会拉来更长的远期的增长。所以当时那个叙事是这样，可是那个叙事回头来看，确实直到今天依然还在延续。
+</p>
+<p class="transcript-line">
+<span class="time"><strong>[00:07:04]</strong> </span>
+<span class="speaker"><strong>发言人1: </strong></span>
+就是关于我觉得甚至可能从deep sk 21开始拉起了我们今天也会聊到的中美在大模型领域的竞争。它可能包括技术路线的竞争，包括开源闭源的竞争，包括产品落地是大什么是小，是参数，是MOE，是很多这样的问题的探讨的对而且还有点更现实的问题在于，如果我们回头来看24年，24年中的时候，sam包括我们还提出了这个L一到L5的这个实时路径。L一是可能大家都熟悉的chatbot，到L2叫推理。O2O1是24年9月份出现的那个时间点，其实所有头部的模型厂商做的事情就是负心而已。当然cloud已经在之前已经做到了，但是其他的厂商其实都在出现O1。O一其实是推理模型的代表。然后至21之后大概两三位时间，其实Q1的时候基本上头部厂商所有头部厂商的推理模型全部都推。直到今天依然大家在更新base model推理模推理模型的进展。所以这条路径其实也是在那个时间点画的比较清楚。如果我们在25年底回头来看的话，35年的纯语言模型本身的竞争的一个角度来讲，其实是二一把这一年的竞争的路径跟要打的仗已经基本描述清楚了。后面的事情变成了工程优化跟改进的事情。
+</p>
+<p class="transcript-line">
+<span class="time"><strong>[00:08:23]</strong> </span>
+<span class="speaker"><strong>发言人3: </strong></span>
+除了20还有哪些模型的更新？
+</p>
+<p class="transcript-line">
+<span class="time"><strong>[00:08:26]</strong> </span>
+<span class="speaker"><strong>发言人1: </strong></span>
+那时候那一轮破圈的当然就是GB风格的图片的事情，当然他又引发了版权，那乱七八糟这些事情就跟今天骚扰二引发的问题是一模一样。然后我们只看open I的技术线的话，在24年的时候，其实open I已经给了是一个对于GP5的巨大的期待的预期。是的，因为大家会认为那是一个巨大的里程碑，这是一个可能翻越了所谓的AGI的临界点的一个什么东西。但是我们今年其实真正等到了GPT5，可是GT5并没有显现出原来那种期待。对，然后我前两天看sam去去H6Z的那个博客，他提到这样关。他说我们可能在经历了很多事情，不会出现那种巨大的变化。如果我们回头来看，哪怕是GPT3.5出现了拆GPT，其实某种来说也跨越了图灵测试的那个临界点。
+</p>
+<p class="transcript-line">
+<span class="time"><strong>[00:09:15]</strong> </span>
+<span class="speaker"><strong>发言人1: </strong></span>
+大家原来会认为图灵如果一旦机器跨越了图灵测试，会出现非常翻天覆地的变化。可是现实情况来看，已经过去两年多，我们好像就是轻轻地迈过去，然后就继续往前走了。我们可能也很难期待那个真正意义上所谓的AGI到底应该是一个什么样的东西。所以在这个角度来看，过去是从22年11月chat GB发布到今天两年半快三年的时间。其实悲观点讲，还是在一个线性或者说接近线性状态里在走。至少在我们我们只把话题限定在纯的语言模型这个角度来说，确实是这样。我拍的可能先是4O然后五到后系列。其他技术厂商可能google今年的目前地点是非常快的。Jim也好，VO3也好，世界模型也好，你会发现在纯技术角度来讲，google这一年非常强势。
+</p>
+<p class="transcript-line">
+<span class="time"><strong>[00:10:08]</strong> </span>
+<span class="speaker"><strong>发言人2: </strong></span>
+我们最近还写了一篇公众号文章。
+</p>
+<p class="transcript-line">
+<span class="time"><strong>[00:10:10]</strong> </span>
+<span class="speaker"><strong>发言人1: </strong></span>
+就在讲说为什么。
+</p>
+<p class="transcript-line">
+<span class="time"><strong>[00:10:11]</strong> </span>
+<span class="speaker"><strong>发言人2: </strong></span>
+会google为什么会回来了。
+</p>
+<p class="transcript-line">
+<span class="time"><strong>[00:10:14]</strong> </span>
+<span class="speaker"><strong>发言人1: </strong></span>
+对，然后就是过然后cloud一直在cloud一直在做自己的事情，甚至更坚定的在25年做自己的事情。因为对于一个我们纯从市场经济角度来讲，它是是它是它是创业公司的第二名。第二名是一定要跟第一名之间有有差别的。虽然可能在纯底层技术模型的演进上差别比较小，但是在一些场景的选择上，cloud已经越来越清楚了。是的，to b扣定，然后就打这几个最大的，至少这个阶段最大的场景，而且追得很紧，收入的增长的曲线甚至比我们还要快。当然它体量小，然后可能这一年比如说XCI的block的系列的更新，其实也蛮有一些进也有一些特性。比如他跟那个推特的合作吧？然后包括做那个虚拟陪伴的那个应用。
+</p>
+<p class="transcript-line">
+<span class="time"><strong>[00:11:01]</strong> </span>
+<span class="speaker"><strong>发言人2: </strong></span>
+对，包括现在sora 2出来之后，他们也会很快发自己的视频模型。
+</p>
+<p class="transcript-line">
+<span class="time"><strong>[00:11:05]</strong> </span>
+<span class="speaker"><strong>发言人1: </strong></span>
+而且路子很野，对，非常野。
+</p>
+<p class="transcript-line">
+<span class="time"><strong>[00:11:06]</strong> </span>
+<span class="speaker"><strong>发言人2: </strong></span>
+因为谁的照片都可以去生成，他们完全不尊重个人隐私，他是可以的。
+</p>
+<p class="transcript-line">
+<span class="time"><strong>[00:11:11]</strong> </span>
+<span class="speaker"><strong>发言人1: </strong></span>
+他甚至可以在其实这里写spicy就是要辣一点。对，就是group。然后我觉得还有一点很现实的问题在于，这个可能就跟我觉得他他除了是技术本身的问题，也是商业的问题。微软今年推出了自己的模型，在大概我们预算应该是八月底。微软跟同学之间的各种各样乱七八糟问题引发了你会发现微软不得不自己也要做自己的模型。然后这可能是美国这几家核心的厂商对吧？我们提到了OpenAI，google s topic, 然后XAI然后可能。Meta今年已经没有太多的声音，meta有别的事情在发生。
+</p>
+<p class="transcript-line">
+<span class="time"><strong>[00:11:49]</strong> </span>
+<span class="speaker"><strong>发言人2: </strong></span>
+meta的声音全是开出大支票在招人。
+</p>
+<p class="transcript-line">
+<span class="time"><strong>[00:11:52]</strong> </span>
+<span class="speaker"><strong>发言人1: </strong></span>
+对对对，然后这是美国这家公司。中国这家公司可能就是原来六小龙趋势已经结束了，其实已经没有更加具体了。但是今天这个时间点，可能中国的大模型厂商在技术角度来讲，一个最大的共识是开源。这可能这个关键词会在今天被无数次的提及。对因为开源的生态的建立，包括可能我们在寻找跟美国这套AI趋势不太一样的路径上来讲，开源可能是手段，甚至可能是唯一的手段。
+</p>
+<p class="transcript-line">
+<span class="time"><strong>[00:12:22]</strong> </span>
+<span class="speaker"><strong>发言人2: </strong></span>
+有可能我们会待会会展开开源然后。
+</p>
+<p class="transcript-line">
+<span class="time"><strong>[00:12:25]</strong> </span>
+<span class="speaker"><strong>发言人1: </strong></span>
+你看中国的厂商，开源最最头部两家就是deep sak跟前隆就这两家基本上就是并驾齐驱，疯狂在涨的。然后今年我觉得今年纯从行业的发展角度来讲，我觉得dipt stic v3.2是一个很重要的标志。它标志着什么呢？它标志我们今年可能等不到4，因为就是你要知道deep sak的V三是去年年底就发布了，然后出现了二一是V三是基础模型，然后在基础模型将经过强化学习和训练得到了二一。
+</p>
+<p class="transcript-line">
+<span class="time"><strong>[00:12:50]</strong> </span>
+<span class="speaker"><strong>发言人1: </strong></span>
+然后V3.1的不断更新，大家在前一段时间得到到了韦斯乃伊的最终版。大家认为那下一应该是四楼对吧？结果出了个3.2。然后大家就说我们今天可能会不太能等到4了。那不太能等到4的情况下，似乎我们今天可能不太容易等到2。然后那千万我觉得就一直以来我觉得千万的故事是绑在整个阿里在这一年的巨大的AI的叙事之上的一个东西。包括KPS投入，包括千万全方位的对语言模型，多模态编程各领域全面的覆盖。
+</p>
+<p class="transcript-line">
+<span class="time"><strong>[00:13:22]</strong> </span>
+<span class="speaker"><strong>发言人1: </strong></span>
+然后这是两家最前面的开源的厂商。然后我觉得kimi跟质朴调整了一些策略，然后也在这一年里面发了他们的KIMI的K2。这不最近的GML的4.64.5 4.6。然后他们在coding也好，在agent也好的尝试，包括在开源领域的尝试，其实还在主线上。然后可能还有的就是比如说可能一些我们叫自己的厂商也还在尝试各种各样的录音。
+</p>
+<p class="transcript-line">
+<span class="time"><strong>[00:13:51]</strong> </span>
+<span class="speaker"><strong>发言人1: </strong></span>
+这是中国这边。然后欧洲那边有一家公司叫make，就是我觉得在纯自然语言模型的技术的主桌上，大概就是这些人。然后今天就发了这些东西，当然只是语言，我们还没有太多谈到多多模态coding跟agent那你回头看。
+</p>
+<p class="transcript-line">
+<span class="time"><strong>[00:14:07]</strong> </span>
+<span class="speaker"><strong>发言人3: </strong></span>
+你觉得比如说十年之后，今年有什么东西会被记住？
+</p>
+<p class="transcript-line">
+<span class="time"><strong>[00:14:12]</strong> </span>
+<span class="speaker"><strong>发言人1: </strong></span>
+我觉得RE肯定会被记住，就推动模型的肯定，然后agent的代表肯定会被记住。东方太会被记住什么？我觉得如果只选一个的话，我觉得会被记住。VU3的发就是VO3是google的那个视频模型，第一次大家从无声视频走到了有声，这是一个巨大的跨越。然后如果硬要记的话，我觉得很有可能，当然也有可能会明年才记。
+</p>
+<p class="transcript-line">
+<span class="time"><strong>[00:14:35]</strong> </span>
+<span class="speaker"><strong>发言人1: </strong></span>
+世界模型今年的世界模型的发展其实也是比较稍微有些加速的，而并且参与的人越来越多。这个阶段世界模型这个板块还处于偏demo的阶段，还没有到更为值得探讨。但是如果硬要算，没准可能25年底或者20年初会是一个什么样的节点。
+</p>
+<p class="transcript-line">
+<span class="time"><strong>[00:14:53]</strong> </span>
+<span class="speaker"><strong>发言人2: </strong></span>
+有可能对其实就像sam提到的，就最近的这个发布已经是渐进式的改动。是的，所以其实很多发布已经，尤其是大语言模型的发布，让大家没有那么兴奋。是的，然后你会看到很多发布出来都说我自己又是什么第一名，然后还有不止大语言模型，多模态也一样。
+</p>
+<p class="transcript-line">
+<span class="time"><strong>[00:15:13]</strong> </span>
+<span class="speaker"><strong>发言人2: </strong></span>
+十字路口上周刚发了一篇文章，就是因为可能和元宝他们先后一两周拿到第一，都发PR说我是世界第一。对对对，然后我就说怎么可能有两个世界第一同时出现，然后我们就去深扒了一下这背后当然这个也很有趣，他们是选了两个不同的榜单各自第一。是的，而且更有趣的是，他们都在各自的榜单里面前十都不是。对所以这里面其实也有很多不同的benchmark，不同的维度。所以在这样一个背景之下，如果我们现在再看到一个模型说他又世界第一了。然后明浩如果你看到这样的新闻，你会怎么去消化他？
+</p>
+<p class="transcript-line">
+<span class="time"><strong>[00:15:47]</strong> </span>
+<span class="speaker"><strong>发言人1: </strong></span>
+因为像你刚才首先我要去看他拿到了哪儿的学历，你现在有几个榜单是不同样的评判方式。对，有是按盲测的对吧？有是按打分的，有是按他有题库，有有一些原来的benchmark的底，然后来去做的测试。所以在不同的地方有不同的反馈。所以今天的事件确实我觉得对于民众也好，哪怕对于行业从业者而言，拿到一个所谓的第一或者刀塔，确实它的刺激性跟边际的状态已经非常小了。而且其实我甚至会觉得，这些东西更多是向上管理。
+</p>
+<p class="transcript-line">
+<span class="time"><strong>[00:16:21]</strong> </span>
+<span class="speaker"><strong>发言人1: </strong></span>
+其实今年我们刚才没有聊到，今年语音模型的竞争也非常的激烈点。因为我们做语音，我们有这个业务，你知道这个竞争激烈到什么程度？就是原来语音是一个偏边缘的战场，但边缘的好处是说它的投入量级小。所以对于比如说我们想我刚才还是那个观点，这场仗已经打了两三年的时间，有今有比如25年才进入战场的决策方，他想在一个地方建立一点点的声望跟影响力，跟哪怕为了PR写了稿，他也要选一个性价比高的地方，对吧？所以在云这个板块竞争为什么会这么激烈？某种就除了语音本身的场景落地越来越多之外，另外一个我觉得就性价比的考量。所你会发现今年我们回头去翻PR的好文章好了，小米B站小红书都发过PR稿，说我们在某一个时间段的某个语音模型的榜单上拿过扫的，全部都发过。
+</p>
+<p class="transcript-line">
+<span class="time"><strong>[00:17:13]</strong> </span>
+<span class="speaker"><strong>发言人1: </strong></span>
+那为什么是这些公司呢？不是字节，不是腾讯，不是华为，不是阿里。虽然千万可能也拿过，对吧？然后可能浑源也拿过，没准。但是这些厂商来讲，第一他们不是最大的大家伙，他们虽然当然也一定会把I作为很重要的战略。比如他们内部有一个类似AI lab的这样的部门的而言，他们这个部门老大成立了这个部门，然后已经晚了。虽然公司愿意投钱，但是你要在短期内证明自己部门存在的意义，你总要找到一个什么地方拉起这个旗。
+</p>
+<p class="transcript-line">
+<span class="time"><strong>[00:17:44]</strong> </span>
+<span class="speaker"><strong>发言人1: </strong></span>
+语音看上去就是对，那open I也一样。所以你看open I今年的real time就是语音模型在发力。微软的第一个模型也在语音上，就是连微软这个体量的公司也会发现，他要想在他前两年没有太多投入到模型研发的这件事情上。但是今天我一定要做自己的情况下的第一枪开在那儿，他选择了运营上。所以逻辑上都讲得通。
+</p>
+<p class="transcript-line">
+<span class="time"><strong>[00:18:10]</strong> </span>
+<span class="speaker"><strong>发言人3: </strong></span>
+至少要先找到一个性价比最高高的地方。
+</p>
+<p class="transcript-line">
+<span class="time"><strong>[00:18:12]</strong> </span>
+<span class="speaker"><strong>发言人1: </strong></span>
+对，但是现在存在感，但是现在已经平平掉了。就是所有的战场但凡被认为是性价比洼地的情况下，就马上会被平掉。就是大家都来了。
+</p>
+<p class="transcript-line">
+<span class="time"><strong>[00:18:23]</strong> </span>
+<span class="speaker"><strong>发言人3: </strong></span>
+然后就被卷起来了。现在这个技术领先的窗口越来越多，大家都说乐得AI厂商应该十一假期都没过好。那在在你来看，就是大家现在选一个拆，那这个付费的意愿到底是来自什么呢？
+</p>
+<p class="transcript-line">
+<span class="time"><strong>[00:18:35]</strong> </span>
+<span class="speaker"><strong>发言人1: </strong></span>
+那就变成了大家的使用习惯，你的付费的意愿，你甚至对品牌的认知理解，包括这一年大家去强调所谓的上下文记忆的加长，对你的理解这些东西的积累。这个东西是否能够形成所谓的飞轮跟正向作用。如果这个问题只有是和不是的话，那我今天偏向于是或者说开始产生作用。
+</p>
+<p class="transcript-line">
+<span class="time"><strong>[00:18:59]</strong> </span>
+<span class="speaker"><strong>发言人1: </strong></span>
+所以反过来讲，我们只看纯chatbot这个战场本身来讲，其实纯chatbot战已经打完了，就是ChatGPT已经赢了。即便可能过去两个季度google菌奶涨得很好，但是他也是不过从可能零点几个百分点涨到几个百分点，就大概是这样，可能确实翻了很多倍，但是他已经就是other里面，对吧？因为大部分战场里的用户被GGP拿走了。GGPP已经公布了，他最新的周火是八个亿。如果我们拉周火的每次OM去公布的那个数据，那个数据曲线是非常恐怖的对吧？因为可能你一年之前这个数字可能只有小几个亿。然后它在小几个亿周活的情况下，不到一年的时间内翻番甚至再翻一番。
+</p>
+<p class="transcript-line">
+<span class="time"><strong>[00:19:40]</strong> </span>
+<span class="speaker"><strong>发言人1: </strong></span>
+今年年初的时候，有媒体的记者问下，就是你到底是要一个AGI的技术的最top的结果，还是要一个10亿用户的平台？那sam当然肯定说我都想要，但是他一定是偏后的。所以就回到我们刚才讲的一句话，就是你会发现所有的事情在不知不觉间触碰到了一些东西的极限，用户量已经是了，对吧？
+</p>
+<p class="transcript-line">
+<span class="time"><strong>[00:20:03]</strong> </span>
+<span class="speaker"><strong>发言人1: </strong></span>
+你想他他已经是8亿的周火了，他还能怎么涨？然后那其他那些店钱融资，所有的事情其实都碰到了极限。所以这个角度来讲，我们只看纯chat boss这个战场，chat PT已经建立了绝对强的品牌认知。然后他又因为在加强这个记忆跟这个理解，我那天看一篇文章，我觉得讲他们在做的事情是当年meta和google没有做到，但是微信做到的事情就大一统的一个东西。所以在中国这套我们叫奥运one的策略。你会发现这次open I的发布会，他在讲下面在讲拆GP的时候，他说他会说直接在我对话框里会调用spotify，调用那个zero就是房产的，调用卡尔玛做设计，调用菲格玛做UI对吧就是。那不就是某种程度上的小程序？我们只在产品阶段讨论这个事情，他确实在尝试，或者说他没有放弃掉成为那个奥运会的可能性。
+</p>
+<p class="transcript-line">
+<span class="time"><strong>[00:20:58]</strong> </span>
+<span class="speaker"><strong>发言人2: </strong></span>
+我觉得这个背后还是这个sam和anthropic的daria他们背景不同带来的意思。是的，就是最后从公司的战略选择或者核心竞争力上的不同，OPPO AI还是是一个非常有产品能力和战略能力的一家公司。其实最近大家都在讲sora 2，其实我觉得好像已经忘掉了。大概四周前刚发了pose。对，这pose也是一个对我觉得遥遥领先所有人的一个东西。它其实就是在增强用户的粘性，让你把记忆用起来，甚至希望你形成从WAU从真活用户变成日活用户一个产品的举措。而从产品的实现上面来说，虽然是一个新产品，但是我自己认为实现的是很不错的，很融洽很融洽，很自然。
+</p>
+<p class="transcript-line">
+<span class="time"><strong>[00:21:42]</strong> </span>
+<span class="speaker"><strong>发言人2: </strong></span>
+对，这个其实包括我们待会儿晚点会聊到，就是OpenAI现在像这个二级市场金手指电脑，然后的股价就涨。但我觉得这背后其实也透露出这为什么是你，为什么不是google，为什么不是你的，那这背后我觉得也仍然有像奥特曼他自己的这种战略能力或者舆论营造能力。并且他非常好的把这样的能力转化成了自己的优势。是的，就是一荣俱荣，一损俱损，很可能最后泡沫会破灭。但今天我觉得如果泡沫真的破了，那很可能OpenAI也是剩下的那一个。他营造出了一种这样的一个竞争格局，这个很了不起的一个。
+</p>
+<p class="transcript-line">
+<span class="time"><strong>[00:22:21]</strong> </span>
+<span class="speaker"><strong>发言人1: </strong></span>
+世人似乎都忘了sam原来是个投资人。前两天也是他上HOZ的那个博客，他就说他说我不擅长做管理，我是做投资的。所以某种来说他在open I内部的企业管理里面，某种意义他也是在做类似投资的事情。我我我扶持孵化支持一个team，然后有想法，然后帮他变得更大，然后不断的给他资源。其实确实跟早期投资很像。
+</p>
+<p class="transcript-line">
+<span class="time"><strong>[00:22:44]</strong> </span>
+<span class="speaker"><strong>发言人2: </strong></span>
+最近有一个OpenAI内部的一个朋友，他也表达过类似的感受，我就觉得像很像公司的投资人。
+</p>
+<p class="transcript-line">
+<span class="time"><strong>[00:22:50]</strong> </span>
+<span class="speaker"><strong>发言人1: </strong></span>
+对因为你想sam原来是VC的合伙人，对他都不单纯，对他都他都不单纯是一家VC机构。就是我原来就是美颜VC的什么八什么什么来，他不是那样的一个合伙人，他是一个YC的合伙人。你要知道sam在掌管公开之前，他最有名的是他在YYC上的创业课。那个是因为我大学是学技术经济管理，我们另外一个在美国的名称就叫创业管理。我是甚至给我的导师说，我说你去拿你的研究生进门第一课，直接去看sam在YS上的那个视频就好，你不用看别的任何事情。他原来是干这个的，而且他已经干到顶了，人都忘了。
+</p>
+<p class="transcript-line">
+<span class="time"><strong>[00:23:27]</strong> </span>
+<span class="speaker"><strong>发言人2: </strong></span>
+我们从deep sik r一聊起，然后现在再回头我们再看r one。当时还有一个评价是觉得中国人很会花小钱办大事儿。然后当时其实R发布的时候，还有一个世人对三奥特曼的嘲笑。因为那会儿他刚签了一个大的合同，什么星际之门计划。对，是叫这个名字。对对对，一个金额巨大的。
+</p>
+<p class="transcript-line">
+<span class="time"><strong>[00:23:47]</strong> </span>
+<span class="speaker"><strong>发言人1: </strong></span>
+5000亿美金。对。
+</p>
+<p class="transcript-line">
+<span class="time"><strong>[00:23:49]</strong> </span>
+<span class="speaker"><strong>发言人2: </strong></span>
+然后当大家就说你看deep sik这就干出来了，对吧？你那个合同就这个美国就只会烧钱，所以这也是当时股价下跌的重要原因。但是回头看又过了几个月，可能过了大半年之后，现在你觉得这个花小钱办大事还可能成立吗？因为感觉美国仍然在氪金，疯狂氪金，氪的越来越多。
+</p>
+<p class="transcript-line">
+<span class="time"><strong>[00:24:10]</strong> </span>
+<span class="speaker"><strong>发言人1: </strong></span>
+对，虽然我不是搞技术，但是我们看过去这几年的发展来讲，大模型的技术研发的演进越来越偏近。是个工程问题。工程问题它涉及到的可能是取舍选择在某些关键节点上的策略的偏好。它可能不是要解决那个0到1跟纯天马行空的问题的状态。所以当他越来越偏向工程跟实施的角度来讲，他确实可能美国人的方式就是氪金堆，对吧？
+</p>
+<p class="transcript-line">
+<span class="time"><strong>[00:24:35]</strong> </span>
+<span class="speaker"><strong>发言人1: </strong></span>
+那中国可能就是找一些弯道超车，找一些取巧的方式来做。但是这两条路本质上来讲也会慢慢的交融。就是我们这边找到一个什么样的方式，那边也会马上学过去。反过来讲，那边通过大力去洗剂堆浅的方式做出一些什么效果，我们可能也会尝试。但是发现尝试过程中，可能我们的成本也在量级的提升。所以你发现其实过去这一年，当然一直以来都不做太对外的太多的表达。
+</p>
+<p class="transcript-line">
+<span class="time"><strong>[00:25:01]</strong> </span>
+<span class="speaker"><strong>发言人1: </strong></span>
+你看千万的逻辑其实已经是更偏那边逻辑，所以我妈讲的更多还是KPS的投入，阿里云的投入对吧？虽然可能千万也有很多所谓奇因技巧？对，但是他的叙事就是糅杂了这两种叙事不同，然后堆起来的这样一个状态。所以你说谁对谁错，我觉得没对谁没有谁对谁错，互相学习，互相模仿，互相演进。
+</p>
+<p class="transcript-line">
+<span class="time"><strong>[00:25:22]</strong> </span>
+<span class="speaker"><strong>发言人1: </strong></span>
+但是问题在于这里出现了一个很简单的逻辑，对吧？大家谈论这轮AI算法、数据算力，只有算力是可以靠堆钱解决的。算法和数据很难，算法尤其难，数据可能还好。
+</p>
+<p class="transcript-line">
+<span class="time"><strong>[00:25:34]</strong> </span>
+<span class="speaker"><strong>发言人2: </strong></span>
+还有一个是人才是可以靠堆起来去吸引的。
+</p>
+<p class="transcript-line">
+<span class="time"><strong>[00:25:37]</strong> </span>
+<span class="speaker"><strong>发言人1: </strong></span>
+那天我看谁说，他说没有公司是通过给天才的员工开高价破产的，没有任何一家公司是因为这个事情破产。所以然后你就是所以这就回到我刚才我无数次强调的问题，就是我们不知不觉在很多事情上走到了极限之后，你发现你回头一看，有别的方式能更不需要花那么多钱。我觉得小扎认清这件事情，我一年开票的投入大几百亿美金。然后我这个竞争看上去这个军备竞赛只是25年24年开始，还要继续滚几年。不知道。虽然我的现金也够，但是我发现我哪怕把整个硅谷能挖的人挖空了，我也花不了这个钱。所以他的思维变成了那个样子，只有这？我不会因为给那么多人开那么高的工资，把这个事情干掉。
+</p>
+<p class="transcript-line">
+<span class="time"><strong>[00:26:18]</strong> </span>
+<span class="speaker"><strong>发言人1: </strong></span>
+所以你看他最近那个mira的那家公司的联合创始人直接就去了卖他。你要知道那家公司已经120亿美金了。对，它是连创它它是十个点，至少是的，对吧？它的身价已经十几亿美金了。
+</p>
+<p class="transcript-line">
+<span class="time"><strong>[00:26:29]</strong> </span>
+<span class="speaker"><strong>发言人2: </strong></span>
+但是上给的钱你记得是多少？是我是3.5个币。对，所以35亿.
+</p>
+<p class="transcript-line">
+<span class="time"><strong>[00:26:36]</strong> </span>
+<span class="speaker"><strong>发言人1: </strong></span>
+所以他肯定超过原来的数字才能走。
+</p>
+<p class="transcript-line">
+<span class="time"><strong>[00:26:38]</strong> </span>
+<span class="speaker"><strong>发言人2: </strong></span>
+所以很夸张，太夸张。所以anyway我们后面可能也会再稍微聊一聊中美之间的竞争。我觉得美国在今天就是有更多的资金放在这里。
+</p>
+<p class="transcript-line">
+<span class="time"><strong>[00:26:50]</strong> </span>
+<span class="speaker"><strong>发言人1: </strong></span>
+所以你看上个季度广密跟小军的那个对谈里面讲的很清楚，就是美国的金融加或者犹太人的金融加，华人工程师就是这个AH是最大的代表，对吧？就这两件事情绑在一起，就是今天我们发生所有事情全部解释的清楚，就知道在美国全部都显示清楚了。
+</p>
+<p class="transcript-line">
+<span class="time"><strong>[00:27:08]</strong> </span>
+<span class="speaker"><strong>发言人2: </strong></span>
+我们刚才聊了大语言模型，我们现在再来聊一聊多模态战场。我觉得今年google先是发了V633，然后OpenAI发了12。他们在模型的进展和模型产品化的这两个方向上都做出了让大家感受到很振奋的一些进步。但同时其实各个厂商，只要有钱的厂商全部都在干这个事情，我比较想我们来探讨一下，就是在如此红海的竞争里面，大家做的事儿感觉也比较同质化。以后你会觉得这个决定性谁能胜出的因素会有哪些？
+</p>
+<p class="transcript-line">
+<span class="time"><strong>[00:27:47]</strong> </span>
+<span class="speaker"><strong>发言人1: </strong></span>
+我觉得东富泰今天这个时间点，图片跟视频已经算混在一起来做探讨了，已因为已经分不开了。然后在这个战场里，确实中美两国之间的竞争会比纯语言模型那个竞争更系列。因为中国的厂商的能力看上去在一段阶段内显示了非常强的状态。抖音快手，包括那几家初创公司，video pix words对吧？然后大家在这个板块的竞争出现了一些齐头并进的状态。就是你今天推出一个新的功能，你像VU3推出了深化同步之后，大概三个月不到。葛林跟那个字节的模型其实就跟上就是跨时代的这种东西，但凡被定义清楚马上就跟。然后322出来之后，大家谈论什么时候我们能看到国产的类似的东西，可能两个月，我觉得两个月可能差不多就够了。
+</p>
+<p class="transcript-line">
+<span class="time"><strong>[00:28:35]</strong> </span>
+<span class="speaker"><strong>发言人1: </strong></span>
+就但凡一件事情被定义清楚，无论是产品边界还是技术选型，还是技术路线的确定，中美两两国在多模态这个板块的竞争确实非常的强。然后又因为这个板块的落地，或者说场景的东西特别的明确，所以它会第一时间渗透到链条当中。语言的歌，还有什么法律金融，为啥你还要调试？可是图个视频的应用跟用，很显然你看美图过去这一年的股价就好了的。你看有多少公司在做什么是营销视频的agent对吧？就是这个东西不需要再去论证跟验证什么场景，它已经是一个非常成熟的体系化的东西就在那儿。
+</p>
+<p class="transcript-line">
+<span class="time"><strong>[00:29:16]</strong> </span>
+<span class="speaker"><strong>发言人1: </strong></span>
+你但凡模型能力提升跟这个效果，无论是可控性也好，成本也好，它到了一个节点，它就会马上进入到渗透到链条。所以它它是一个我觉得是一个体系化的那中美两国在这个事情上确实有不同的资源禀赋。我们的短视频我们短视频衍生的整个的生态链的丰富程度，包括可能跟电商、跟营销，跟各种各样的场景的结合，甚至工具化的变化。就这轮关于图片视频的工具化的。迭代其实也很你我还是我还是那个观点。你要想优惠网AP store出现的第一天，摄影这个品类就一直是打的最激烈的品类。对，有连续多少年最佳APP都是摄影类的相关的APP.
+</p>
+<p class="transcript-line">
+<span class="time"><strong>[00:29:59]</strong> </span>
+<span class="speaker"><strong>发言人2: </strong></span>
+对吧？而且永远都有新的。
+</p>
+<p class="transcript-line">
+<span class="time"><strong>[00:30:00]</strong> </span>
+<span class="speaker"><strong>发言人1: </strong></span>
+就永远你看打到今天还是。
+</p>
+<p class="transcript-line">
+<span class="time"><strong>[00:30:02]</strong> </span>
+<span class="speaker"><strong>发言人2: </strong></span>
+四年的一个最佳，我都还是一个摄影的。
+</p>
+<p class="transcript-line">
+<span class="time"><strong>[00:30:05]</strong> </span>
+<span class="speaker"><strong>发言人1: </strong></span>
+打到今天还在打，那就代表这个东西确实太太硬了。他太多的需求，太多的场景，太多可以被施展的地方出现。所以就是房子对于厂商而言，他的挑战就变成了你到底要做什么，纯技术本身的演进，它有一些难度，有一些难题需要克服，这个没有问题。但是再延伸一步，你去落在哪儿？你用来干嘛？是做to b还是直接to c对吧？那star 2出现之后，你会发现有一些声音会觉得他超了一个抖音对吧？
+</p>
+<p class="transcript-line">
+<span class="time"><strong>[00:30:35]</strong> </span>
+<span class="speaker"><strong>发言人1: </strong></span>
+那偏正面的观点大家会说他在尝试用今天这个时间点，普罗大众已经被教育的非常成熟的这种交互形态，让AI层或者说加buff的方式来做。而且在很短的时间内用看上去很简单的实现路径做出来。因为你要知道大家做产品就是说加功能是简单的，但砍到一个合适的边界里面，并且打包好这个智能的对对他对产品经理的对用户的需求的感知把握，交互的设计，他要求是一个非常符合的。
+</p>
+<p class="transcript-line">
+<span class="time"><strong>[00:31:06]</strong> </span>
+<span class="speaker"><strong>发言人2: </strong></span>
+所以还是非常佩服OpenAI的。其实你说做的这样的模型能力的公司，我们刚才盘点的时候一直没有提到mini m max。对，然后mini max大概在半年前，就有海螺的一个视频模型。当时有一个非常出圈的大爆款，就是这个小猫猫跳水参加奥林匹克。对对对吧？他的体操动作的那种还原也是很世界领先的。但是大家那么多的厂商做了那么多很牛逼的世界模型，那么厉害的视频模型之后，只有soa two出来。然后sora two是真的走进了千家万户，就离开了AI圈子让大家认知到。
+</p>
+<p class="transcript-line">
+<span class="time"><strong>[00:31:39]</strong> </span>
+<span class="speaker"><strong>发言人1: </strong></span>
+但最近有另外一个就是说这件事情可能也是因为是open I就其实也有一些可能不是厂不比如不是模型厂商，自己是一些第三方厂商，也之前做过类似的尝试。当然可能更多在图的那个板块，而不在视频。但是可能是因为他们不受关爱，不是最大那几个家伙，他就没有办法像欧派的sorry two这样得到这样的。之前多模态领域，六小龙有一家是一直打多模态，就是接月。那这月除了这模型之外，做了一个普遍社区叫离谱。
+</p>
+<p class="transcript-line">
+<span class="time"><strong>[00:32:10]</strong> </span>
+<span class="speaker"><strong>发言人2: </strong></span>
+其实现在整个离谱团队撤掉。
+</p>
+<p class="transcript-line">
+<span class="time"><strong>[00:32:12]</strong> </span>
+<span class="speaker"><strong>发言人1: </strong></span>
+对，然后其实离谱的数据初期发展是不错的，其实还可以。然后无论是留存活跃很多事情，但是因为各种各样的原因，他他没办法继续下去了。可能就是因为我们刚才聊的上面那些事情，但是并不代表之前没有人尝试过，有很多人尝试过。可能那个时间点很多人对这件事情的认知跟判断，不会像今天sorry two出现之后，会把这个事情的乐观。比如原来乐观指数是30分，今天可能提到60分。
+</p>
+<p class="transcript-line">
+<span class="time"><strong>[00:32:40]</strong> </span>
+<span class="speaker"><strong>发言人2: </strong></span>
+对，因为原来捏他也好，离谱也好，仍然是二次元的一个圈子，它并没有泛化。没有泛化大家会想象，第一个是可能我们也看不太懂，第二个是也会觉得天花板还是就有在那里的对对。然后我觉得确实这个三国图案有一个得天独厚不可替代的优势。就是推送2 two的时候，我那天也发了一条极客，我很感慨，就说所有传出来的爆款视频都是要么恶搞三奥特曼，要么就是我和三奥特曼一起去干那个啥。所以其实是基于他在全球的这种他个人的品牌，个人的IP才让这些短视频的病毒营销成为了可能性。当时我在即刻后面还写，我说如果有一天张一鸣愿意出来这样被大家恶搞，那这个字节也能出一个爆款，但这个威胁是不可能的。
+</p>
+<p class="transcript-line">
+<span class="time"><strong>[00:33:25]</strong> </span>
+<span class="speaker"><strong>发言人1: </strong></span>
+但也有人会说这个叫一件事情的两面性。当然有人会说是他没有IP，是他没有更多的选择性。包括大家很多日本的动画公司会因为版权问题跟他探讨，也是这个原因。就是大家看到全是sam，那有一波有一派观点会认为谁会愿意看天天是sam对吧？就他没有那些更多样，更更丰富的内容的IP的数。但是我觉得这个命题对于一家之前是一个偏技术的公司而言，是一个太苛刻的要求。
+</p>
+<p class="transcript-line">
+<span class="time"><strong>[00:33:57]</strong> </span>
+<span class="speaker"><strong>发言人2: </strong></span>
+对我觉得现在最重要的还是从0到1，让全世界知道你对这个是你上牌桌或者成为这个牌桌第一名的这是一个很重要的抓手。
+</p>
+<p class="transcript-line">
+<span class="time"><strong>[00:34:06]</strong> </span>
+<span class="speaker"><strong>发言人1: </strong></span>
+所以那天那个32出现之后，我的评价其实特别简单，就是说就这些声音确实你同意，就是说大家很多媒体标题说我们不需要一个AI抖音，就这最常见的一媒体标题就是我觉得这句话没有问题。确实我们拿抖音已经非常成熟的这套体系。无论是它的内容生态、留存交互乱七八糟，跟他已经覆盖的人群影响力、商业化，就是我们确实这个世界上不需要一个AI版的抖音不需要了。但是放量对欧派I而言，322是需要就是它需要一个独立的产品，把它的技术变成一个产品化落地的东西，并且以合适的边界做出来。并且让他内部的团队有机制跟有方法不断的把他的技术的东西变成落地的产品。就是这个事情。这套运转的过程，SOP乱七八糟，组织架构人员这那才是对OI重要。
+</p>
+<p class="transcript-line">
+<span class="time"><strong>[00:34:58]</strong> </span>
+<span class="speaker"><strong>发言人2: </strong></span>
+是的，所以我看到那篇文张标题，这个世界不再需要一个AI抖音的时候，我当时的第一反应就是这AI有没有想做AI抖音，对吧？这个命题是你。
+</p>
+<p class="transcript-line">
+<span class="time"><strong>[00:35:08]</strong> </span>
+<span class="speaker"><strong>发言人1: </strong></span>
+加给人家的。那天也是3M来讲，就是我还在变得越来越复杂。他他现在可能或者说在大体系内有三四家公司，一家产品公司，一家技术实验室，一家基础设施公司。他正在最近一段时间在努力的是这家公司。然后可能还有一家叫其他，比如说硬件什么一些新的乱七八糟的东西在那家，其他他可能同时在，所以就非常像投资人，它OI已经不是一家，它已经5000亿美金了好吗？它它不是一家单纯的创业公司一个样子就把它描述清，他现在已经至少有四个实体了，对吧？一家产品公司已经CEO都找到了技术实验室，那是他最最原始的东西。
+</p>
+<p class="transcript-line">
+<span class="time"><strong>[00:35:45]</strong> </span>
+<span class="speaker"><strong>发言人1: </strong></span>
+然后他马上sam最近一段时间在忙的事情是info这家公司。这家公司现在确实是满足我们自己的需求的。但到极限状态，如果真的几万亿美金砸下去，这家公司的能力没准是可以赋予到其他公司。
+</p>
+<p class="transcript-line">
+<span class="time"><strong>[00:36:00]</strong> </span>
+<span class="speaker"><strong>发言人3: </strong></span>
+我不知道你们有没有看在X上，就是他发布会那天之后，各大我们所熟悉的一些公司，什么fig ma，然后那个什么的全部都在晒。Open s送给他们的像奖章一样的东西。
+</p>
+<p class="transcript-line">
+<span class="time"><strong>[00:36:15]</strong> </span>
+<span class="speaker"><strong>发言人2: </strong></span>
+不同的颜色用了超过多少token的对我觉得他们太会做营销了。对你记得去年我们有一次想做一期选题吗？就是那个时候很多人骂萨莫特曼，觉得他是营销狗。对，但当时我们就想做一些选题，就是跟萨姆奥特曼学营销。
+</p>
+<p class="transcript-line">
+<span class="time"><strong>[00:36:30]</strong> </span>
+<span class="speaker"><strong>发言人3: </strong></span>
+我觉得就是sorry to的那个视频我都感觉就是在这个公司已有的资源传播资源的基础上，做了一个刚刚好的尝试。就是我也不越界，我也不搞乱七八糟的东西，但是我就用我创始人的这个IP其实我觉得他在某种程度上，我觉得他有点像elon must。就是你们随便怎么恶搞我。
+</p>
+<p class="transcript-line">
+<span class="time"><strong>[00:36:52]</strong> </span>
+<span class="speaker"><strong>发言人1: </strong></span>
+我反正他想的清楚。
+</p>
+<p class="transcript-line">
+<span class="time"><strong>[00:36:53]</strong> </span>
+<span class="speaker"><strong>发言人3: </strong></span>
+对，但是这个能给我的这个公司的，不管是公司还是IP。因为你每一次互动都会给你一个感觉得，就是你在跟open a互动，就是你都在跟open a进一步的绑定。
+</p>
+<p class="transcript-line">
+<span class="time"><strong>[00:37:04]</strong> </span>
+<span class="speaker"><strong>发言人2: </strong></span>
+我们其实你看聊到这里，我们真的聊了大量的和OpenAI有关的画册，不知不觉这个世界就还是被他在影响。不管中间出现了多少波折，出现了多少曾经不看好，甚至好像共识不看好的声音，还是很佩服的。但我们还是想聊一聊google，因为今年就像我刚才提到10字路口写了一篇文章，我发现mAlice他们的博客最近也做了一个大选题。对，就是google的那个对触底反弹回来的，他们采访了deep man的一个操作。然后google这一次回来有很多的信号，不管是nano banana还是vio，但我们想聊一下的是他的世界模型。他发了jennie，对，发jennie的时候看到也是有一种全身通电的感受，怎么可以做的那么厉害。对，只是jennie现在因为离商用还有点远，对，所以这个发了之后，没有太多后续。是的，但是也很想听听宁浩你会怎么看这一系列世界模型。
+</p>
+<p class="transcript-line">
+<span class="time"><strong>[00:37:59]</strong> </span>
+<span class="speaker"><strong>发言人1: </strong></span>
+就是我觉得这个问题再往前推一点，这个问题可能又又有点上升到哲学或者是更宏观的角度来讲。就是自然语言模型这轮出现之后，很多的科技人，甚至哲学家，甚至很资深从业者会认为，当机器掌握了语言这个人类特有东西之后，那个所谓的超级智能就来了，这是一类观点。所以这一轮的大语言模型的发展的最底层的基础逻辑是这个就是语言是人类特有的，它可能见到了所有的文明，所有的这些事情都是基于语言的。
+</p>
+<p class="transcript-line">
+<span class="time"><strong>[00:38:31]</strong> </span>
+<span class="speaker"><strong>发言人1: </strong></span>
+但是发展出现了一个第一个分支，或者说我们不好说它是子集还是并行的，叫coding。就是有一派认为coding是语言的仔细，但另外一派会认为那是建立一个新的世界的可能性，那我们不好。然后再往前发展出现了多模态。然后多模态的时候大家会发现语言再怎么。好深入描述的清楚。但是很多别的感觉器官得到的东西是没有办法通过语言的，视觉是最大的一个。所以视觉出现之后，动态这个板块从图语音到图片到视频3D到今天的世界模型，我觉得它是一个从我们刚才讲了好几个关键词，语音、图片、视频、3D这些是局域战场、体育战场打包在一起的，终极变成了世界模型。所以第4d one的那个核心高管之前接受采访的时候，他会认为世界模型是另外一个我们通向AGI的路径。
+</p>
+<p class="transcript-line">
+<span class="time"><strong>[00:39:31]</strong> </span>
+<span class="speaker"><strong>发言人1: </strong></span>
+就是如果我们用打折的方式来讲，语言是一桌，我们叫主桌。头顶不好说是主桌还是分桌的子棋。但有一派观点或者第三蒂曼认为世界模型是另外一个著作，就是它会变成它有比如说类似世界的子宫，大概是这样一个比喻。就是他会认为如果那个东西真的出现了，它符合人类的所有的物理学定律，它能在可见的时间内生成，它比你消耗的时间更快。就是因为现在还慢，因为你要等。但如果某一天技术能够达到你想就出现，并且比你想的快，严肃法学，那似乎在这念想就出现了一个新的东西。然后当然这是一个极度理想技术理想主义的结论，但确实我觉得丁万就是往那个方向走的。因为你要知道丁万在这种自然语义模型之前干的事情也是这个事情。
+</p>
+<p class="transcript-line">
+<span class="time"><strong>[00:40:24]</strong> </span>
+<span class="speaker"><strong>发言人2: </strong></span>
+是的，还是引领创新。
+</p>
+<p class="transcript-line">
+<span class="time"><strong>[00:40:26]</strong> </span>
+<span class="speaker"><strong>发言人1: </strong></span>
+包括李飞飞也是这个逻辑，就是李飞飞的创业公司也是做世界模型。所以当这个逻辑出现之后，那就会有一派的观点会认为如果世界模型也是著作，那他可能用另外一种方式会实现所谓的一切。如果真的实现那个极度理想的那个状，那确实这个事情太可怕了。如果你把这时间拉长周期来看，上一代家公司都是解决视角，视觉的应用场景。刚才我们讲图片也好，视频也好，本来现存的场景的满足已经是一个巨大无比的事情，他都不需要做新的事情。所以这个逻辑摆在这里，无论跟游戏结合，跟现在的事情就是他瞬间就挂上了。只不过现在这个时间点，技术还没有ready，还没有到所谓的临界点，所谓的像GPT3.5的这个时刻。所以当然这个东西大家也知道很难。
+</p>
+<p class="transcript-line">
+<span class="time"><strong>[00:41:13]</strong> </span>
+<span class="speaker"><strong>发言人2: </strong></span>
+它可能比远明星还难。除了deep mind，除了李飞飞的rote love。国内有谁在做世界模型吗？
+</p>
+<p class="transcript-line">
+<span class="time"><strong>[00:41:18]</strong> </span>
+<span class="speaker"><strong>发言人1: </strong></span>
+据你所知，浑源在做。浑源的世界模型刚刚发是0.1的版本，好像就是非常早期，还处于我们单纯只能把一张照片变成一个可互动的那个样子的东西很早。而且你看上去那个图片的质量，包括那个像素的清晰度，还处于非常早的阶段。但是我觉得就是跟刚才我们讲过也是一样，就是图片视频可能今天这个战场已经相对比较激烈，跟已经走到上，但是3D跟世界模型还处于3D可能更快一点，但是没有那么快。3D的世界模型绑在一起，这个战场里的这些公司，游戏公司会比较多，因为他们有天然的需求的。
+</p>
+<p class="transcript-line">
+<span class="time"><strong>[00:41:57]</strong> </span>
+<span class="speaker"><strong>发言人2: </strong></span>
+那天听到一个数据，就是说这个拓竹他们有一个自己的平台，用户使用拓竹去生成3D模型再打印出来。它可以调浑源，也可以调bus，还可以调其他很多家的选择。然后现在他们是混元也好。
+</p>
+<p class="transcript-line">
+<span class="time"><strong>[00:42:15]</strong> </span>
+<span class="speaker"><strong>发言人1: </strong></span>
+max也好，挺大的比较头部。
+</p>
+<p class="transcript-line">
+<span class="time"><strong>[00:42:18]</strong> </span>
+<span class="speaker"><strong>发言人2: </strong></span>
+的一个调用量。所以一方面他们的这个3D模型的客户是游戏，另外一方面其实是3D打印的这些用户。其实多模态创业还是是一个非常热的一个赛道。是的，我们看到今年出来了一个hix field，然后包括这个hicks的founder也做了polo。对，然后他们的这个数据收入跑的都很好，量也很大。然后前段时间我这个就红衫的一个背投，他们上了一个新产品，一个视频的一个工具的一个产品。当时我就问他差异化是前面有那么多的这个是VEE.
+</p>
+<p class="transcript-line">
+<span class="time"><strong>[00:42:54]</strong> </span>
+<span class="speaker"><strong>发言人1: </strong></span>
+D为代表。
+</p>
+<p class="transcript-line">
+<span class="time"><strong>[00:42:55]</strong> </span>
+<span class="speaker"><strong>发言人2: </strong></span>
+特别多。然后他说差异化没有那么重要，然后这个市场太大了。当时给我讲了一个数字，他说现在tiktok在全球每日的新增是100万用户，然后这100万用户里面有12%的人会去点中间那个加号，每天全球有12万新的视频创作者，不管他多草根，他都叫视频创作者。在产生这些人全部需要工具。所以他当时讲的另外一个数字，就是在视频工具的领域，当时超过，2000万美金的ARR的公司已经有20家，很多是我们所不知道的都没听过。他可能解决了某一个具体的问题，或者他在某一个具体的国家。所以多模态还是一个非常有意思的一个地方。
+</p>
+<p class="transcript-line">
+<span class="time"><strong>[00:43:37]</strong> </span>
+<span class="speaker"><strong>发言人2: </strong></span>
+然后我们在复盘2025的时候，我觉得也有一个除了dept sic r一之外，不得不讲的属于所有中国人的回忆，就是minus的发布，这个A证成为了一个年度的重要的关键词。然后十字路口今年有一个开年播客，当时我们和雨森聊的时候，那个播客的标题就叫做A是明年。对，我们现在回头看也觉得我们还挺厉害的，但当时其实我们也冒着风险，因为如果这一年不是元年的话，我们就活生生被打脸。对，但还好，今年A站的发展确实不错。然后发展到今天也会有很多的声音出现。比如说到底要通用还是要垂直，比如说这到底是不是拆GPT.
+</p>
+<p class="transcript-line">
+<span class="time"><strong>[00:44:17]</strong> </span>
+<span class="speaker"><strong>发言人1: </strong></span>
+还未来会吃掉你们。
+</p>
+<p class="transcript-line">
+<span class="time"><strong>[00:44:19]</strong> </span>
+<span class="speaker"><strong>发言人2: </strong></span>
+这所有的AG的厂商。对所以聊到agent想听听明浩你有哪些观点想讲。
+</p>
+<p class="transcript-line">
+<span class="time"><strong>[00:44:24]</strong> </span>
+<span class="speaker"><strong>发言人1: </strong></span>
+首先还是回到刚才那个L一到L5的这个分类。L三是agent，就是当所有人实现了L2，L2所形成所谓的所有人都有之后，那当然就会往L三走。这是一个很简单的逻辑，只不过走L3的时候大家出现了一个问题。你会发现L一到L2还是语言的问题，还是语言本身的问题。
+</p>
+<p class="transcript-line">
+<span class="time"><strong>[00:44:43]</strong> </span>
+<span class="speaker"><strong>发言人1: </strong></span>
+大大L3变成了行为。就是原来是对话就解决了，哪怕是推理也是对话就解决了。但是到了一阵子我们要他干活了，干活这个事情变复杂了，他是有行为的。他的行为无论是在计算机上，还是在网页上，还是在数据库里，还是在什么地方，他是有行为的。行为就不单纯只是吐几个字儿就解决的问题。所以你会发现L三虽然今年是元年，但没准儿有可能未来五年都是A检的元年，都有可能就跟VR一样，未来五年都是一整年。或者说就跟自动驾驶一样，我们在要在L3待很久。
+</p>
+<p class="transcript-line">
+<span class="time"><strong>[00:45:15]</strong> </span>
+<span class="speaker"><strong>发言人1: </strong></span>
+有可能因为虽然A真的是一个阶段，但是他涉及的细分的阶段也有很多，就什么层级的一种，也会有非常多不同的区别跟不同的体验以及不同的要求。那你可能又涉及到刚才我们聊的是通用还是垂直，还是再垂直到某些小的场景里，有更容易实现的，你理想化一阵它的实现对吧？所以这个角度讲，我觉得这一段话是关于A症的这个概念。
+</p>
+<p class="transcript-line">
+<span class="time"><strong>[00:45:42]</strong> </span>
+<span class="speaker"><strong>发言人1: </strong></span>
+然后再再往前推，就是agent给了非模型厂商公司网络场景落地里面的一种范式，这个是重要的。就是说原来很多初创公司或者说想创业的人，想在AI领域做公司。在之前纯模型竞争的角度来讲，他都不知道干嘛，或者说他他可能能做的事情就是套壳。就是上个时代大家讲套可，但套壳不是个贬义词，就是他他能做的事情就很少。
+</p>
+<p class="transcript-line">
+<span class="time"><strong>[00:46:06]</strong> </span>
+<span class="speaker"><strong>发言人1: </strong></span>
+但是今天你发现agent的生态的崛起是非常大的，非常复杂。它复杂到如果我们类比当年的互联网化，可能今天连协议都是非标准。所以有很多公司在做协议的事情，尤其以大公司为主也好，google也好。那你说我现在不想做吗？他肯定也想，只不过被人抢了，对吧？没办法，当形成事实标准，协议就出现了。那协议有，然后你发现因为我们要从语言到行为的时候，就需要你要做很多的我们脚手架，对吧？
+</p>
+<p class="transcript-line">
+<span class="time"><strong>[00:46:36]</strong> </span>
+<span class="speaker"><strong>发言人1: </strong></span>
+这个info infrared也好，实施也好，去兼容现有的这套为人类设计的互联网的整套的东西，还是说我们新建一套什么东西，这个东西这个中间也有分歧，我们到底是用浏览器还是不用浏览器？是纯API对接还是怎么样？所有的这些选择题打勾一样打个勾。美公司就出现了千差万别的区别。然后各种各样公司全部都出现了。然后也有做纯协议层的，纯帮你做info层的工具的实施的，然后也有做info本身的，然后也有做做记忆系统。就是你会发现这个事情，因为我们要往那儿走，需要的东西特别的多。
+</p>
+<p class="transcript-line">
+<span class="time"><strong>[00:47:14]</strong> </span>
+<span class="speaker"><strong>发言人2: </strong></span>
+讲的memory有一个特别有意思的点，就是十字路口之前采访MEMU，对我知道。然后在采访他之前，我觉得要做一些功课，太多了记忆的这个音符。然后当时和memo base的founder也认识，然后就约了一个call，我就请他给我科普一下。然后他科普完之后我就听起来，我说好像每个公司的技术路线都不一样。他说是的，现在都没有统一的技术路线，我们个人做的路线都不同。
+</p>
+<p class="transcript-line">
+<span class="time"><strong>[00:47:38]</strong> </span>
+<span class="speaker"><strong>发言人1: </strong></span>
+我们也在做，因为我们我们主业做社交，我们也做一些社交，那些社交里面有一个很重要的就是memory的问题。无论是自己的memory还是你跟别人的各种各样对话跟。你就是然后我们的那个技术团队的那个他他不是记者，就是那个团队的负责人就特别头疼。就是说他从头发就变成了一个我到底这个事情是要自研还是用一个开源的方案。还是用一个成熟的AP厂商，连这件事情的选择他都没有办法做决定，在风中飘就是没有没有就是他没有他都没有根据跟去如何评判这件事情的标准。
+</p>
+<p class="transcript-line">
+<span class="time"><strong>[00:48:11]</strong> </span>
+<span class="speaker"><strong>发言人2: </strong></span>
+因为赵淳想在我们上次北京场的AI开放麦，然后来十字路口也讲了十分钟。然后他讲的主题就是他自己在做一个新的项目，叫做是一个IN我知道我知道这里面也需要用到记忆性。对，然后他那十分钟分享的不是他那个IM，他为了IM而做了一个自研的一个经济系统。因为他觉得现在市场上能看到的可用的都不行，或者他是用不起来。
+</p>
+<p class="transcript-line">
+<span class="time"><strong>[00:48:32]</strong> </span>
+<span class="speaker"><strong>发言人1: </strong></span>
+或者不适合他。对，所以你看这只是memory一项。我记得前一段时间蚂蚁开源不是做了一张巨大无比的开源的图，就是agent的框架，agent memory age, agents if是过去这一年整个开源生态里面涨得最多的几个板块。因为确实大家就走到这儿了，你就是要解决这些问题，他就跟冰山一样，我们看到的确实冰山上面那个agent的那个东西，但是那个冰山下面是巨大无比的一套东西，太多了。因为现在很早没有人把这个生态建立的，那么你可能真的没办法整自己。
+</p>
+<p class="transcript-line">
+<span class="time"><strong>[00:49:06]</strong> </span>
+<span class="speaker"><strong>发言人2: </strong></span>
+也只有在这样的时候，你才可能赢得一些创业公司所独有的是。
+</p>
+<p class="transcript-line">
+<span class="time"><strong>[00:49:12]</strong> </span>
+<span class="speaker"><strong>发言人1: </strong></span>
+但凡你说某些东西形成了定式，那就结束了。所以你看我是你们采访那个阿里云的雷晶。
+</p>
+<p class="transcript-line">
+<span class="time"><strong>[00:49:20]</strong> </span>
+<span class="speaker"><strong>发言人2: </strong></span>
+对。
+</p>
+<p class="transcript-line">
+<span class="time"><strong>[00:49:21]</strong> </span>
+<span class="speaker"><strong>发言人1: </strong></span>
+全都要对，结论就是全都很有意思。
+</p>
+<p class="transcript-line">
+<span class="time"><strong>[00:49:24]</strong> </span>
+<span class="speaker"><strong>发言人2: </strong></span>
+当时我们就问他和AWS的agent core比起来，阿里云你们做agent倍，那你做一号位，你要排优先级，你怎么做选择？他说小孩子才做选择，我们原厂超all in不可能。
+</p>
+<p class="transcript-line">
+<span class="time"><strong>[00:49:36]</strong> </span>
+<span class="speaker"><strong>发言人1: </strong></span>
+就是你一听这个逻辑跟展开，他他确实原厂商是不可能把这个东西放掉的，不可能。当然他会有东西做得好，有东西做的不好。但也有一定也会有一些板块跟一些环节上会有初创公司形成所谓的标准。所以这就是机会。所以他的机会好处是说它比前2L1L2的机会在于它变得多样且复杂了。虽然大厂还是全都要，但是他不可能在很短的时间内真的把东西战场清完，是不可能的。对。
+</p>
+<p class="transcript-line">
+<span class="time"><strong>[00:50:06]</strong> </span>
+<span class="speaker"><strong>发言人3: </strong></span>
+这块我有一个好奇的问题，我不知道你们有没有这种感觉，就是我觉得open a虽然他也专门在讲癌症这件事儿了，但是后来很克制。
+</p>
+<p class="transcript-line">
+<span class="time"><strong>[00:50:13]</strong> </span>
+<span class="speaker"><strong>发言人1: </strong></span>
+是不是癌症可能对于他们的决策体系里面不那么重要。他们可能更多还是想的，比如原古典互联网产品经理想的事情就是需求实现跟产品的样子。但是agent相当于我觉得agent在这个事件某种上被狭义的框死了。就是他的比如他的交互，它的产出结果，它的那个按钮的样子，甚至某种来说被这一年左右时间框住了。那你房产欧派也在做一些调整，对吧？他他也出了自己的agent，包括把原来那个什么Operator改成了今天那个样子，对吧？包括原来的普特是做融合，就是可能他原来也没有想过island应该是什么样子，就没有人知道什么。但是慢慢可能从max开始，我觉得max最大的意义在于，或者说回头来看，三月份发布到今天，它最大意义在于让用户大概知道agent应该是什么样。就这个东西是当然你说的更更细一点是可能是交互，可能是设版面设计，可能是什么东西，可能是UI对吧？UE乱七八糟，但是至少那个东西包出来那个样子，告诉大家变得差不多应该是这个样子。
+</p>
+<p class="transcript-line">
+<span class="time"><strong>[00:51:16]</strong> </span>
+<span class="speaker"><strong>发言人2: </strong></span>
+而且在今天这么一个时代，成为大家心智当中，你就是谁的对。
+</p>
+<p class="transcript-line">
+<span class="time"><strong>[00:51:21]</strong> </span>
+<span class="speaker"><strong>发言人1: </strong></span>
+代名词。
+</p>
+<p class="transcript-line">
+<span class="time"><strong>[00:51:22]</strong> </span>
+<span class="speaker"><strong>发言人2: </strong></span>
+这个有巨大的红利，所以今天manos能够最近他们发布9000万的ARR，9000万美金，其实我觉得这个后面当追随者非常多。然后也有很多人带着甚至不屑的这种口气说，我三周还是三天复刻一个minus。但是你不可否认最后一个事业的成功，它不只是靠这个产品，不只是靠研发。它其实很多时候是一个综合的一个能力，包括实际的选择，包括细节的打磨，也有很重要的就是品牌的打造。
+</p>
+<p class="transcript-line">
+<span class="time"><strong>[00:51:53]</strong> </span>
+<span class="speaker"><strong>发言人1: </strong></span>
+是所以你又回到刚才那个chat box的品牌。已经这两仗打完了，但任何这场仗还在打，对吧？只不过占了一个先机，而且确实占的比较我觉得比较硬。对。
+</p>
+<p class="transcript-line">
+<span class="time"><strong>[00:52:04]</strong> </span>
+<span class="speaker"><strong>发言人3: </strong></span>
+夏天的时候有很多人说感觉A智能有点凉了。
+</p>
+<p class="transcript-line">
+<span class="time"><strong>[00:52:08]</strong> </span>
+<span class="speaker"><strong>发言人1: </strong></span>
+你会有这种感觉。如果大家印象的话，GT5应该是八月份发的，然后cloud的那个版本也是，那就八月份是美国头部神经厂商都发版本的。七月份是中国的大部分模型厂商选择开源模型发布的最重要的一个月，几乎七月的一整月每天都没有停过。就是今天你发明天，我你大家回想就是翻那个阅读总结，七月份就是疯狂七月，就是以中国的开始厂商为代表的疯狂七月。
+</p>
+<p class="transcript-line">
+<span class="time"><strong>[00:52:35]</strong> </span>
+<span class="speaker"><strong>发言人2: </strong></span>
+那个是mini I max.
+</p>
+<p class="transcript-line">
+<span class="time"><strong>[00:52:36]</strong> </span>
+<span class="speaker"><strong>发言人1: </strong></span>
+还有一个发布周一周。对，就是那一周什么质朴国内kimi就7 8月份大家又焦点又拉回到了纯模型本身的竞争上，所以一直在这儿探讨。很多公司发的产品开始做用户做AR做，只是包括英特尔公司拿人钱可能又做别的事。
+</p>
+<p class="transcript-line">
+<span class="time"><strong>[00:52:53]</strong> </span>
+<span class="speaker"><strong>发言人2: </strong></span>
+我只能说这个注意力肯定不如马克斯刚发布那种刷屏的注意力。但是你说它凉了，我觉得肯定是没有的对，因为在后面这个曼娜丝非常硬的发了他们的ARR，并且提了一个概念叫RRR对吧？也不是他们提的，只是给大家科普了一下，有这么一个更科学的看自己收入的规模的一个数字，9000万美金，这个很了不起，这个成长的曲线应该是超过了我们熟知的大多数的我们认为成长非常快的公司的。
+</p>
+<p class="transcript-line">
+<span class="time"><strong>[00:53:21]</strong> </span>
+<span class="speaker"><strong>发言人2: </strong></span>
+然后就在上个礼拜，A16z speed Brown他们0.5有一个demo day，然后58家创业公司每个人两分钟在LA，很多去的人都在推特和极客上说，感觉比这个YC的W的质量还要高高了。而且我觉得也很有可能因为A16Z确实更有钱，他可以塞到更头部的，更受到创业者。然后当时我有朋友在现场录了音，然后发回来我让杰伦来做了一个总结。然后就说这个创业公司可以分成哪几类，对吧？杰伦来说就三类，然后第一类就是叫agent as a service，就大家在做各个垂直行业的解决不同问题的agent。对，所以我觉得你说他凉了，只是确实没有在不断的刷屏，让你感觉天天被震醒。但是我觉得他已经渗透到了今天五花八门，百花齐放的各种创业的热潮当中。
+</p>
+<p class="transcript-line">
+<span class="time"><strong>[00:54:17]</strong> </span>
+<span class="speaker"><strong>发言人1: </strong></span>
+然后同一时间A16岁不是发了一个榜单，就ACC每半年会发那个流量的榜单。他最近发了跟一个厂商合作发了一个收入初创公司的收入榜。它所能够覆盖第三方厂商，它是一个做数据跟支付的公司，它所能够覆盖的这些偏初创公司把钱花在了哪些其他的AI公司上的榜单。然后中国公司有四家，没记错的话剪映可零还有一家是谁？Just mark对just mark对，这四家好像。
+</p>
+<p class="transcript-line">
+<span class="time"><strong>[00:54:46]</strong> </span>
+<span class="speaker"><strong>发言人2: </strong></span>
+我们前面聊了大模型，聊了多模态，聊了agent，其实已经非常丰富了。然后我们接下来再开始聊一聊这个生态。然后第一个生态是开源生态。
+</p>
+<p class="transcript-line">
+<span class="time"><strong>[00:54:58]</strong> </span>
+<span class="speaker"><strong>发言人2: </strong></span>
+说到开源生态，我们一开始也提到，就是今年开源成了中国的，我觉得从上而下的一个共识一个大的策略是对甚至最近我看到上海还出了一个政策，就是鼓励企业开源。不只是做开源产品，同时还鼓励大家做开源社区。然后给出了这个奖金是500万的现金。如果你在开源领域，你的产品有足够大的影响力和流量的话，这个很有意思。当然这个前提应该还是deep sick r一的成功。是的，让大家都看到了一个中国公司如果要在世界舞台上面获得竞争力，开源是一个很可行的路。那你到底会怎么看开源这个关键词在今年发生的这些事情和它带来的意义？
+</p>
+<p class="transcript-line">
+<span class="time"><strong>[00:55:43]</strong> </span>
+<span class="speaker"><strong>发言人1: </strong></span>
+对，其实去年就有记者应该问过赛文奥特曼怎么看开源和闭源？当时他的答案是说，他会认为最领先的模型一定是必然的。因为他需要巨多的钱资源，各种各样的问题。但当421的趋势出现之后，业绩出现了变化，是说大家会认为开源模型的能力跟进的很快，并且这套模型里面一定也会有开源模型。甚至今天前两天那个state of AI report里写有一个预测是说26年一定会有一个开源模型拿到一段时间的第一。你会发现GPT5发布之后，GPT5的某几个系列的模型也开源了。欧派也要不得不去做开源的事情。
+</p>
+<p class="transcript-line">
+<span class="time"><strong>[00:56:19]</strong> </span>
+<span class="speaker"><strong>发言人1: </strong></span>
+确实开源模型到了一定的技术能力之后，确实变模型开源模型之间的的差异没有那么大了。然后成本又有巨大的差异的情况下，无论是开发者也好，生态也好，整个的应用也好。因为确实在这个时间点我们去衡量所有的模型。刚才我们强调说可以打分benchmark什么。但是最最重要的业界的生态意义在于有多少人用，它的透光的消耗是多少，它的覆盖的厂商的数量是多少。这个才是它作为模型厂商在今天这个战场里最最安身立命的根本所在。你模型再厉害，没有人用，没有意义，对吧？
+</p>
+<p class="transcript-line">
+<span class="time"><strong>[00:56:54]</strong> </span>
+<span class="speaker"><strong>发言人1: </strong></span>
+所以从这个角度来讲，开源确实在这个角度上给模型厂商提供了另外一种方式来去得到认可，得到关注，甚至帮助你的模型本身做改进调整。而且又因为。你会发现原来大家认为的开源可能是不挣钱的，是偏理想化的。是那样的。可是今天开源并不代表它跟商业化没有关系，对吧？你deep sik是开源，可deep sick的OAPI1样是卖钱的。你要去to b的访问，你也是要去花钱的那虽然这个的可能API的成本，可能API最模型可能是100倍甚至几十倍的差距，但是他认为他的成本OK，那他就可以这么高。而且又因为整个生态的建设，你有开源社区，有更多的开发者也好，更多的相关的厂商也好，帮助你在改进你模型本身的。
+</p>
+<p class="transcript-line">
+<span class="time"><strong>[00:57:39]</strong> </span>
+<span class="speaker"><strong>发言人1: </strong></span>
+因为这个东西就是越用的越多，理论上来说它改进的可能性越高。所以在这个角度来讲，这是一个我觉得纯技术。然后还有一个叙事是说，今天这点公认，世界范围内在这一波竞争大概率就是中美两国之间的竞争。中美两国之间竞争除了中美中国跟美国本土的竞争之外，更重要的可能变成了其他国家的。欧洲可能特殊一点，把欧洲抛掉，剩下那个国家怎么做出来？
+</p>
+<p class="transcript-line">
+<span class="time"><strong>[00:58:07]</strong> </span>
+<span class="speaker"><strong>发言人1: </strong></span>
+所谓的主权AI的这个事情也变得被很多人所提及。你可以监测自己的数据中心。所以你看老黄也好，各大芯片厂商没去跟各个政府政要去谈这个事情，谈数据中心谈可以，但总要有模型，对吧？你总要有模型。那你模型用谁的？你当然可以用我拍的，你也可以用中国公司，你也可以用一个什么样？
+</p>
+<p class="transcript-line">
+<span class="time"><strong>[00:58:28]</strong> </span>
+<span class="speaker"><strong>发言人1: </strong></span>
+你日本怎么选？非洲的国家怎么选？东南亚国家怎么选？中东怎么选？在这个角度来讲，开源可能也是一种双引号的武器。
+</p>
+<p class="transcript-line">
+<span class="time"><strong>[00:58:37]</strong> </span>
+<span class="speaker"><strong>发言人2: </strong></span>
+都是这样，而且还有营销上的加持。就当你是一个开源的一个模型的时候，你是天然会得到更多的好感，然后也能够让更多人可以低成本的部署到本地。这其实也是让他可以更快的获得用户的一些用户获取。我说还有一个也是很值得讲的，就是信任的建立。因为今天大他仍然会担心。
+</p>
+<p class="transcript-line">
+<span class="time"><strong>[00:59:02]</strong> </span>
+<span class="speaker"><strong>发言人1: </strong></span>
+我的数据是不是出现。
+</p>
+<p class="transcript-line">
+<span class="time"><strong>[00:59:04]</strong> </span>
+<span class="speaker"><strong>发言人2: </strong></span>
+出现泄露，或者我的数据被你拿去干这个干那个。但一个开源模型也天然的回答了这些问题。
+</p>
+<p class="transcript-line">
+<span class="time"><strong>[00:59:11]</strong> </span>
+<span class="speaker"><strong>发言人1: </strong></span>
+所以你看一个小的例子，最近不是双十一，然后我在看我想买一个新的笔记本电脑，然后看那个型号，有一个专门的型号被迅速的买完了。为什么？那个专门的型号就是一个特别适合本地部署大模型的一个型号，叫ROG。换了X那个那个电脑的特殊之处在于它的内存特别的大，然后显存也很大，但是没有很贵在相当于LG的其他电脑而言。所以他就天生的适合这些搞当地人。
+</p>
+<p class="transcript-line">
+<span class="time"><strong>[00:59:41]</strong> </span>
+<span class="speaker"><strong>发言人3: </strong></span>
+我觉得你说的营销那一点我特别同意。其实你看像梁文峰他不太接受，他不接受采访，不需要接受采访。但是他有他自己跟这个技术师这些沟通的方式。
+</p>
+<p class="transcript-line">
+<span class="time"><strong>[00:59:51]</strong> </span>
+<span class="speaker"><strong>发言人1: </strong></span>
+他做第一作者。
+</p>
+<p class="transcript-line">
+<span class="time"><strong>[00:59:52]</strong> </span>
+<span class="speaker"><strong>发言人3: </strong></span>
+对对对，就是他们发的。而且他我觉得他们发的paper也会其实会让你有一种对技术发展的一种乐观和信心。就是在这个世界有各种各样的不可抗力因素导致的无法沟通的或者是沟通不好的情况下。还有一个世界是可以通过这种独特的一套语言，独特的一套方式来跟彼此沟通。我记得当时第四个发了之后，我看那个next experiment的那个5个小时的播客，我觉得他还是非常客观跟平心静气的在分析为什么这么好。我觉得基本上带什么政治视角带偏见。然后你还是会觉得原来这个技术世界的人还是很相信这一套。当你的产品做的足够好，我还是会从一个很客观的角度来评估跟认可你做所有的事情。
+</p>
+<p class="transcript-line">
+<span class="time"><strong>[01:00:40]</strong> </span>
+<span class="speaker"><strong>发言人2: </strong></span>
+是的，对今年在应用层你有看到哪些值得注意的突破吗？我们前面聊了很多agent的那除此之外觉得还有哪些是值得我们在年度复盘，讲到年度科技记忆的时候，你会想到的一些关键词或者一些应用。
+</p>
+<p class="transcript-line">
+<span class="time"><strong>[01:00:53]</strong> </span>
+<span class="speaker"><strong>发言人1: </strong></span>
+我觉得coding肯定是回避不掉的，就AI coding这一年进展确实，而且coding在之前可能只是一个关键词。但你发现如果把这个拆开前端后端数据库，然后是否有ID就是你再去拆关键词，然后你把这些拆出来的关键词的细的领域的进展，这一年也非常的高。
+</p>
+<p class="transcript-line">
+<span class="time"><strong>[01:01:13]</strong> </span>
+<span class="speaker"><strong>发言人2: </strong></span>
+对，我们正好预告一下，我们下一期播客，就是和阿里推出的cota的一号位的一期播客。因为各个大厂现在都出了自己的AI coding产品，还不止大小，很多startup在中国，在美国融资的金额是非常大的这是一个很有意思值得关注的。
+</p>
+<p class="transcript-line">
+<span class="time"><strong>[01:01:28]</strong> </span>
+<span class="speaker"><strong>发言人1: </strong></span>
+所以你的国定是一个。然后再别的可能这一年里面我觉得一些垂直领域的A诊的发展也是蛮快的。因为通用A枕的变成了一种我觉得显学。就是无论是大的模型厂商，还是那些最有名的初创公司，肯定都是通用的是走的。但是在垂直板块里面，比如像今年法律，其实有几家公司融了很多钱。
+</p>
+<p class="transcript-line">
+<span class="time"><strong>[01:01:48]</strong> </span>
+<span class="speaker"><strong>发言人1: </strong></span>
+这个领域理论上来说，你想就想明白他在干嘛，只不过他确实需要非常多的这个行业的垂直的信息，垂直的工作流然后来去满足。包括可能隐私数据安全乱七八糟。然后可能不只有一家两家，他是可能五六家、七八家公司都在这个板块拿到不错的融资，更不错的发展。然后这些板块可能有很多，法律可能是最多的。金融然后金融又分一级二级，保险、银行乱七八糟对吧？然后可能营销板块，一直以来你像我们当年做统计的时候，营销都是最大的板块，营销这个类目也竞争的极度的卷。然后又分线上营销、线下营销、搜索引擎营销、视频营销、图片文字、邮件乱七八糟。就是这个板块的公司虽然都没有特别的大，但是这个领域的公司其实发展也是我觉得是异常繁荣的。
+</p>
+<p class="transcript-line">
+<span class="time"><strong>[01:02:35]</strong> </span>
+<span class="speaker"><strong>发言人1: </strong></span>
+我觉得有一个板块是不在也不在主流的讨论范围内，但确实一直都在发展的，就是社交跟陪伴这个板块。HZ最新的榜单里面web端有十家，前五十有十家，APP端有12家，还是13家但是没有什么人讨论，除了开始恋爱没有人讨论。那可能是因为我因为我们做社交，我们会认为这件事情已经翻了可能三个代纪了就开了。
+</p>
+<p class="transcript-line">
+<span class="time"><strong>[01:03:00]</strong> </span>
+<span class="speaker"><strong>发言人1: </strong></span>
+原来是1.0，2.0是加了一点点的互动跟沉浸式的体验。无论是图片的语音还是什么，3.0变成一个偏场景化的打造了。然后甚至今天大家还在更往前尝试。
+</p>
+<p class="transcript-line">
+<span class="time"><strong>[01:03:12]</strong> </span>
+<span class="speaker"><strong>发言人3: </strong></span>
+那你觉得在国内到目前为止有出现类似curse的这种应用吗？
+</p>
+<p class="transcript-line">
+<span class="time"><strong>[01:03:18]</strong> </span>
+<span class="speaker"><strong>发言人1: </strong></span>
+可测试或者说类似特色可能有两个解读。第一个是coding，coding可能大家都有，但是另外一个解读是这个影响力跟这个定义了一个范式或者一个品类，我觉得挺难的。
+</p>
+<p class="transcript-line">
+<span class="time"><strong>[01:03:29]</strong> </span>
+<span class="speaker"><strong>发言人3: </strong></span>
+为什么？
+</p>
+<p class="transcript-line">
+<span class="time"><strong>[01:03:29]</strong> </span>
+<span class="speaker"><strong>发言人1: </strong></span>
+难的我觉得还是跟怎么讲，就是大家原来会说中国的移动互联网的纯to c的产品的，比如设计能力、运营这些东西可能比美国更成熟。所以大家会期待纯to c应用端的爆发在国内的这个可能性。可是截止到今天这个事情，我们并没有看到这个结论，或者这个结论被验证成为现实的。你还得拉榜单，还是我们刚才聊的这些东西，至少在榜单，然后榜单上出现一些意外的名字的时候，你知道你真的细看它它可能90%是一个传统APP，可能加了10%的那些功能，然后它就被画在了一个网站上。你就会觉得这种东西你并不认可，它是一个新的东西，它可能确实加了加的功能，但是它被划到一个类似AI什么应用榜单的前面这个位置。你就觉得他都多少年了，公司来的这个游戏，这个不好说。
+</p>
+<p class="transcript-line">
+<span class="time"><strong>[01:04:22]</strong> </span>
+<span class="speaker"><strong>发言人3: </strong></span>
+但是你看美国的那些应用，就是动不动标题全部都是多少时间之内达到多少AR对。
+</p>
+<p class="transcript-line">
+<span class="time"><strong>[01:04:30]</strong> </span>
+<span class="speaker"><strong>发言人1: </strong></span>
+这可能是美国的去就是说中国没有办法讲这个趋势，因为我们没有办法讲AR然后这个问题变成了我们能评判什么？能评判无非就是用户量。那用互联网在这个时间点，在当下的中国的用互联网，哪怕把web算上的情况下，很难太难了。
+</p>
+<p class="transcript-line">
+<span class="time"><strong>[01:04:45]</strong> </span>
+<span class="speaker"><strong>发言人1: </strong></span>
+这个不是AI的问题，它是整个行业就把移动网所有APP都加在一起，它都面临这个问题。所以你看上半年快速购买不是统计，他统计三类的。他把所有的AI的应用，饭饭AI应用分成三类。第一种叫独立的APP，第二种叫web，第三种叫插件。独立的APP跟web里面4%分之三的都是用户量出现负增长的，然后就只有4分之1的独立的APP跟web的AI的应用是增长。然后反过来讲，插件里面可能3分之2是在增长。
+</p>
+<p class="transcript-line">
+<span class="time"><strong>[01:05:17]</strong> </span>
+<span class="speaker"><strong>发言人1: </strong></span>
+可是问题在于谁甘心做个插件呢？对吧？这个就是现实。插件为什么会这样？也是因为今天这个事情，可能在中国的现有的这个我们还是以古典的这套移动互联趋势情况下，入口位置全都已经被占满了。就跟关键词一样，你不做个插件，你单纯想P出来一片战场太难了。
+</p>
+<p class="transcript-line">
+<span class="time"><strong>[01:05:38]</strong> </span>
+<span class="speaker"><strong>发言人2: </strong></span>
+我觉得在美国现在有非常多夸张的融资故事，基本上以周围维度在发生，就是一个没听说过的公司出来融了，比如说5000万美金对吧？我觉得我刚才说这个故事可能每周一定有一个，但这些公司很多是to b的对。但在中国感觉这个也不太可能发生。一方面是因为中国的中小企业的这种付费意愿、付费能力和整体的付费意识。然后另一方面是我觉得我们就是移动互联网太成熟。但移动互联网其实是一个充满了城堡的地方。微信是一个城堡，抖音是一个城堡，小红书是一个城堡。最近我可能有听说一些人，但是这个都是比较灰色的一些办法，就是用安卓手机来去做这个类似RPA。但是RPA加上AI之后更进一步的操作，所以它可以打通，比如说微信。
+</p>
+<p class="transcript-line">
+<span class="time"><strong>[01:06:32]</strong> </span>
+<span class="speaker"><strong>发言人1: </strong></span>
+小红书。
+</p>
+<p class="transcript-line">
+<span class="time"><strong>[01:06:34]</strong> </span>
+<span class="speaker"><strong>发言人2: </strong></span>
+然后也可以打通飞书对吧？所以用这种方式去间接的打通。但你想想，我们那么费力去提高一个行业的生产力，然后在各个大厂都不允许的情况之下，夹缝中去提高生产效率。但是在美国这是一个更开放一点，外部端的开放的。就是很欢迎大家去用各种工具来一起1加1大于二的一个地方。所以我觉得其实我不知道这个最后会指向什么样的一个两边的发展，但只能说今天这个差异是非常大的。而且这个差异折射到创业的这个生态，或者创业的机会的选择。确实我觉得我们现在是更加被动。
+</p>
+<p class="transcript-line">
+<span class="time"><strong>[01:07:14]</strong> </span>
+<span class="speaker"><strong>发言人1: </strong></span>
+就是原来那套我们太过熟悉的趋势，在今天确实太难了，太难。我们可能需要一些新的趋势，那这新的趋势你又不能是完全靠近美国的那套东，因为我们的底层的这个基础就不具备。那我们的技术应该是什么样？这可能也是今天这个时间点，我觉得不仅仅是创业者的问题，可能也是投资人的问题。就我们去投什么，就是你很现实的问题在于，对于今天的，尤其是偏美MBC而言，在AI里面投资其实真的非常难做，非常难做。就是你你大模型出来时候出头一个大模型，然后跟几轮，然后你这个事情就结束了，你只能等，对吧？你只能等。
+</p>
+<p class="transcript-line">
+<span class="time"><strong>[01:07:51]</strong> </span>
+<span class="speaker"><strong>发言人1: </strong></span>
+大家都说我愿意用看中国公司，可是你要么出海团队，可是出海团队就会出现别的乱七八糟的问题。那你投成国内团队，那你期待的到底是什么？就是你期待的可能性。我说的直白一点，你期待退出是什么，对吧？就是你这些问题无解。当然这些问题因为我今天不干醇VC了，我可以站着说话不腰疼讲这些问题。但是你你你这个问题，你一想你这活都没法干了，你只能抛弃掉。这里先不要想这些问题，先看这些创始人什么背景再做什么，去跟他认真的聊，然后再去选择是否相信这件事情，然后把这些无解的问题暂时的搁置，或者说不要想那么多。
+</p>
+<p class="transcript-line">
+<span class="time"><strong>[01:08:29]</strong> </span>
+<span class="speaker"><strong>发言人2: </strong></span>
+因为你想也想不清楚。我那天我那天见一个基金的合伙人，管理合伙人，然后我就问他怎么看在现在这个情况之下，美元VC就是大家觉得都挺不好做的。然后他就说他问了这一个问题，就是还相不相信整个VC的底层叙事。对，就是科技公司需要靠一些耐心资本在早期去帮助他们实现从0到1的建设。如果还相信就应该干，就跟今年这。
+</p>
+<p class="transcript-line">
+<span class="time"><strong>[01:09:02]</strong> </span>
+<span class="speaker"><strong>发言人1: </strong></span>
+不就是正好昨天诺贝尔奖今年的经济学奖班里的三位经有有一位研究的他讲的这就是我们叫创新式的，或者说叫破坏式的技术创新，才能带来真正意义上的经济的高速增长。破坏式的这种技术创新，他跟VC的叙事是绑在一起的。如果你相信这几层你当然还是需要，可是问题在于这是一个太过理想化，能太过终极的答案。他就是这个问题跟这个答案跟这个逻辑本身没有就是任何人说都可以都没有错。但是他落回到现实的执行层，尤其在国内，它有太多的特征，它会有太多的限制条件。那你只能在这种有限的可为你辗转腾挪的空间内找寻那个那个解。这个是我觉得今天这个事情，尤其是偏我们相信技术，相信产品，相信这些东西会改变很多事情的。这些投资人他内心要去不断来回来纠结的这个天平。
+</p>
+<p class="transcript-line">
+<span class="time"><strong>[01:10:01]</strong> </span>
+<span class="speaker"><strong>发言人2: </strong></span>
+那你觉得在AI这个主题之外，比如说今年同样热门的巨声，甚至有更多钱进去对吧？
+</p>
+<p class="transcript-line">
+<span class="time"><strong>[01:10:09]</strong> </span>
+<span class="speaker"><strong>发言人3: </strong></span>
+然后硬件其实很热。
+</p>
+<p class="transcript-line">
+<span class="time"><strong>[01:10:10]</strong> </span>
+<span class="speaker"><strong>发言人1: </strong></span>
+对，硬件很热，我们看拿钱的创始人的背景的变化，先是比如说什么字节的什么那几个大厂的产品经理出来拿了一笔钱，然后大家发现这样不行。当然可能之前还有一波做科研的什么什么实验室的什么老师或者什么学生。我发现这两拨人可能不太行，也不是说不太行，就是观众发现肝儿颤，还是想再看看别的，然后你就会再往行里走，他会走到哪儿？比如走到大疆的城市，大疆的什么追觅的什么来分的这帮什么石头的什么饮食的对吧？就是你会觉得。
+</p>
+<p class="transcript-line">
+<span class="time"><strong>[01:10:45]</strong> </span>
+<span class="speaker"><strong>发言人2: </strong></span>
+还有一个媒体标题还非已经把办公室看到。
+</p>
+<p class="transcript-line">
+<span class="time"><strong>[01:10:48]</strong> </span>
+<span class="speaker"><strong>发言人1: </strong></span>
+大家根本就是他的逻辑。你想就想的很清楚，就是我已经把我能力原来能力就是我最熟悉能力范围圈的人投完了。然后我为什么要投资？因为纯软，大家不相信，大家会担心吗？就刚才我们讲的那一个问题，那有硬了之后，理论上说确实他可见，他你不见得着不着，他可能又产生直接的收入对吧？他反正他有一些理由对吧？
+</p>
+<p class="transcript-line">
+<span class="time"><strong>[01:11:09]</strong> </span>
+<span class="speaker"><strong>发言人2: </strong></span>
+而且有中国的得天独厚的优势供应链。
+</p>
+<p class="transcript-line">
+<span class="time"><strong>[01:11:13]</strong> </span>
+<span class="speaker"><strong>发言人1: </strong></span>
+然后也投完之后，他发现还是不太行，那就再往前走。我去找那些能给我内心的信任程度跟我能睡得着这个程度加分的背景的创始人。就是这个逻辑是一个你讲就讲得明白的逻辑。但反过来就是说我还是观点，就是我们是站着说话不腰疼，我们是以可以以一个旁观者的方式去总结这个规律的。但是如果今天你是一个站在战场里的人，你是不能以这种方式干活的，那你就没法干了。
+</p>
+<p class="transcript-line">
+<span class="time"><strong>[01:11:43]</strong> </span>
+<span class="speaker"><strong>发言人3: </strong></span>
+对我昨天看on capt那个博客，jack altman采访那个wince hanker，他是thrive capital partner，他讲了一个故事。我都觉得这根本就在中国，就不可能。他说他们投他投了一个公司，花了18个月研究公司我看的时候我都。
+</p>
+<p class="transcript-line">
+<span class="time"><strong>[01:12:01]</strong> </span>
+<span class="speaker"><strong>发言人1: </strong></span>
+跟中国八位已经。
+</p>
+<p class="transcript-line">
+<span class="time"><strong>[01:12:02]</strong> </span>
+<span class="speaker"><strong>发言人2: </strong></span>
+过了四个周期。Miss前段时间两个月前来到中国，我们刚才提到的好几个公司他都建了他一个很形成非常密集的一个business trip。所以其实我觉得身在其中，我自己还是相对乐观的。
+</p>
+<p class="transcript-line">
+<span class="time"><strong>[01:12:14]</strong> </span>
+<span class="speaker"><strong>发言人1: </strong></span>
+当然这个观点也特别哲学，就物极必反，就是极端到一定程度一定会有别的什么样。就跟刚才我们讲的观点说，我们已经莫须有的走到了一个什么极端的状态里。你会发现回头发现其实他有别的解。
+</p>
+<p class="transcript-line">
+<span class="time"><strong>[01:12:26]</strong> </span>
+<span class="speaker"><strong>发言人1: </strong></span>
+我举个很现实的例，游戏投资已经早就不属于V世界的战场。中国的游戏投资在15年之后基本上就不属于VC了。但是在最近两年时间里面，有海外的VC来看，中国的公司是海外的VC都不是中国的VC是海外的VCE来看中国的早期游戏团队。你要知道中国的早期游戏团队已经不在VC的射程里面快十年了。就是他是有太多的条件。
+</p>
+<p class="transcript-line">
+<span class="time"><strong>[01:12:53]</strong> </span>
+<span class="speaker"><strong>发言人2: </strong></span>
+那些海外的VC他们的逻辑是什么？他们认为退出的可能在哪里？
+</p>
+<p class="transcript-line">
+<span class="time"><strong>[01:12:58]</strong> </span>
+<span class="speaker"><strong>发言人1: </strong></span>
+他们不是为先不是考虑退出，他们先考虑是成本的问题。相对于海外的游戏团队而言，中国的游戏团队太便宜了。这种便宜是全方位的便宜。而且海外的游戏的并购是异常活跃的，一直都非常活跃。它就相当于把两边的优势拉在一起来做，中国的VC就做不了。
+</p>
+<p class="transcript-line">
+<span class="time"><strong>[01:13:15]</strong> </span>
+<span class="speaker"><strong>发言人2: </strong></span>
+所以说其实我觉得像刚才说vis来中国，包括海外VC看中国的游戏，我觉得这个世界仍然是非常关注中国。我们刚才聊了很多一级，然后最近二级可能是得到大家注意力或者新闻头版头条更多的地方。然后OpenAI和AMD的那个新闻一发，AMD如此庞大一个公司涨40%。
+</p>
+<p class="transcript-line">
+<span class="time"><strong>[01:13:35]</strong> </span>
+<span class="speaker"><strong>发言人2: </strong></span>
+然后就在我们录播课的前一天，OpenAI和这个博通broader，然后这个新闻一发直接拉动人家10%。所以在二级市场其实发生了很多的故事，财富的充满了乐观的一个情绪。所以想听听宁浩你最近一年，我知道你和很多二级的分析师，投资经理的关系，互相的沟通也很频繁，对你会怎么来去回顾这一年。
+</p>
+<p class="transcript-line">
+<span class="time"><strong>[01:14:06]</strong> </span>
+<span class="speaker"><strong>发言人1: </strong></span>
+我很想还是观点就是既然是司马迁，我们就按自己做的文件来看，我觉得很有意思。我今年一共做了，截止到今天一共应该是做了六个还是七个？我马上做是第七个，之前做了六个，去年的年度总结，deep seek minus agent, 然后年终总结Q2的总结，然后上一个就是九月份的Q3的总结。但是我做完九月份Q3，应该是我刚才讲9月4号就做完了。
+</p>
+<p class="transcript-line">
+<span class="time"><strong>[01:14:33]</strong> </span>
+<span class="speaker"><strong>发言人1: </strong></span>
+我现在要做第七个，前6个PPT里面我是在大概第4个PPT的时候才有一页讲是不是泡沫。第五页第五个版本里面已经有大概两页讲是不是泡沫。我上一个九月份那个版本里面大概有6页，这样是不是泡沫。
+</p>
+<p class="transcript-line">
+<span class="time"><strong>[01:14:48]</strong> </span>
+<span class="speaker"><strong>发言人1: </strong></span>
+很简单，马上我新发的这里面会有一张来讲，就是这个数字跟这个月份的变化，你就知道这个问题讨论的程度开始出现了变化。就是我可能在Q你Q2的时候，有一些声音会认为这些东西有一些不太对，有一些探讨。然后Q3的时候其实有一些你像我Q3的时候用引用最多的是硅谷银行的的报告。它其实是做了很多定性跟定量的分析。这个分析方式其实今天现在来看很多新闻都在做。比如我们跟20年的互联网泡沫的曲线的归对比，就是那个时候各种银行已经在做。然后今天在这个时间点再去讨论的时候，确实这一波的时候我还是那个观点，我们真的不知不觉走到了极限里面。这个极限是什么呢？
+</p>
+<p class="transcript-line">
+<span class="time"><strong>[01:15:34]</strong> </span>
+<span class="speaker"><strong>发言人1: </strong></span>
+你想最头部那个七姐妹的最头部几家的市值已经是三四万亿美金了。他们每年的可操作的经营现金流是千亿美金的一个量级，对吧？Open I的估值是5000亿美金，就这几个数字摆在这儿，他可以做的事情就太多了。然后大家发现我不单纯只需要或者说我单纯只靠散户买股票的上涨这件事情已经这个游戏已经不够happy了，不够刺激了。
+</p>
+<p class="transcript-line">
+<span class="time"><strong>[01:16:03]</strong> </span>
+<span class="speaker"><strong>发言人1: </strong></span>
+然后又因为欧派走到了一个节点，是说我觉得sam可能sam某时间点动物它动物的是什么呢？他原来欧派I在资本上的操作是说融资卖老股拉估值。然后同时我也用自己的融到的钱或者我的股份去投资初创公司，被人或者买你像今天他买了那个苹果设计师公司，这个估值还是在一个可控跟可被线性归纳的范围内的对吧？虽然我的估值可能每六个月和9个月翻一番，我可能一轮估值一轮融资融一两百亿、三四百亿美金已经是历史记录了。但是他还在一个可控范围内，至少有人买单成交的当下合同是签好的对吧？所有人是认可这件事情，但我觉得他可能在某些点意识到是说我觉得这个有另外一个最近用了很多比喻叫T运作，就是google今天3亿美金，google云有模型，有产品，有音符，像刚才我们讲他也都有。那如果未来AI真的所有的事情的话，google 3万亿美金欧派应该值多少？这么来看5000亿美金似乎有点便宜，对吧？
+</p>
+<p class="transcript-line">
+<span class="time"><strong>[01:17:14]</strong> </span>
+<span class="speaker"><strong>发言人1: </strong></span>
+我未来的增长预期是建立在我巨大的投入基础上。那这个预期我打多久？原来可能是打半年、一年，那这个预期我能不能打五年？所以你会发现最近一段时间的这些合同全部都是五年、十年期的合同。可是这太讽刺了。我们刚才讲过技术的进展是按远近，对吧？但是这个预期放在五年。然后更现实的在于，我不知道大家受没受过这样。
+</p>
+<p class="transcript-line">
+<span class="time"><strong>[01:17:41]</strong> </span>
+<span class="speaker"><strong>发言人1: </strong></span>
+比如说我今天想了解一个什么行业，比如说在想了解比如说低空经济行业，我去百度搜，我说低空经济行业报告，你会在很多前面的时候会看到什么？2020年到2030年中国低空经济行业报告。那你点进去它是卖的那个报告可能卖非常贵，几万块钱。然后有一个超级长的，你看到那个目录觉得这个报告质量一定非常高。但现实就是这个世界上不存在这样一份报告。只有一个傻子下了这个单之后，才会有人去做这份报告。
+</p>
+<p class="transcript-line">
+<span class="time"><strong>[01:18:11]</strong> </span>
+<span class="speaker"><strong>发言人1: </strong></span>
+没有人会写超过五年的报告。你想想我们看过的所有的高质量、低质量的券商的、分析师的、银行的、行业分析的、技术分析的报告，没有人写五年的报告。可是我们今天的预期上面说，我们就要把未来五年的预期全部压在这件事情上。
+</p>
+<p class="transcript-line">
+<span class="time"><strong>[01:18:30]</strong> </span>
+<span class="speaker"><strong>发言人1: </strong></span>
+我既然已经5000亿美金的公司了，你要知道5000亿美金哪怕是一个抑市场的估值，我们把5000亿美金的这个价格绑在股市值的这个估值上，比他高的没有多少公司了，比他高的没有几家公司了，那他就可以做。哪怕今天我们没有上市，需要上市的地位，我也可以做所有的事情。所以有了我们今天最近一个月时间看到的所有的事情，我觉得可能就是散在某时间点，突然间顿悟。
+</p>
+<p class="transcript-line">
+<span class="time"><strong>[01:18:53]</strong> </span>
+<span class="speaker"><strong>发言人1: </strong></span>
+甚至我们再回头来看，当年sam在24年的时候说过这件事情做成事要7万亿美金的数字，是被说过的7万亿名。如果大家印象可以搜新闻，当时所有人看到这个新闻觉得散疯了。那时候欧盟还才1800亿美金吗？7万亿美金就这个数字本身的量级已经超过了所有的脑容量。没有人知道7万亿美金代表什但是今天你真的把未来五年的预期，欧莱雅的预期和media的预期、微软的预期、google的预期、oracle的预期加不加，已经是可以碰到万亿美金这个量级了。是不是7万亿我们不知道，但至少万亿美金这个数量级被讨论。然后这个故事就全部压在，相当于我把我未来五年的预期拉满，我要做的所有事情也在今天全部打满。我打到谁身上，谁就把他的未来5007也打满。然后又因为市场竞争，竞争格局乱七八糟。
+</p>
+<p class="transcript-line">
+<span class="time"><strong>[01:19:49]</strong> </span>
+<span class="speaker"><strong>发言人1: </strong></span>
+这些初创上市公司，哪怕是世界上最最估值高的上市公司，也需要一个这样一个巨大趋势下的所有的事情，因为所有人都不可能落下，没有任何人担得起责任。是说我不参与，除了一家公司叫google，就我自己全都有，对吧？我刚才讲google全都有，芯片、云基础设施、产品应用全都有，那其他这些公司全部就都。所以这个故事变成了，我也是这么想，老黄也会发现我乐得其成。跟你玩这场游戏，我也是可以做这样的角色。因为我的现金流足够的强，而且我的毛利足够的高，市场绝对的垄断。我可以类似像央行一样，用我的这个能力来做央行做的事情。所以这件事情就你说他们是共谋谋事，但他们肯定没有商量过，就是意识到这个事情是可以绑在一起这么做的时候，这个事情这个圈就滚起来了。
+</p>
+<p class="transcript-line">
+<span class="time"><strong>[01:20:42]</strong> </span>
+<span class="speaker"><strong>发言人1: </strong></span>
+好吧？所有人拿上来之后，就像大家原来认为AI是一个技术，是个产业。今天AI就是市场本身，甚至这个市场可能就是政府本身。他把这个副件拿下来，用清晰之门胜负拉拉打击。所以它变成了就是我不单纯这家公司，我甚至都不单纯这个行业。我是系统本身就是做big to fail，已经太容易去解释这件事情了。它已经不单纯是那个的问题了。他的生态变得异常的复杂，他把所有人都拉上车，然后达到这个数字撑到你去。所有的理性评判已经没法评判。
+</p>
+<p class="transcript-line">
+<span class="time"><strong>[01:21:18]</strong> </span>
+<span class="speaker"><strong>发言人1: </strong></span>
+我在今天不会不断去强调，我们走到了一个我们都所有人没有意识到的那个极限里了。这个极限是什么？你要知道截止到今天，世界上所有的上市公司在上市那一天融的钱最多262亿美金。
+</p>
+<p class="transcript-line">
+<span class="time"><strong>[01:21:33]</strong> </span>
+<span class="speaker"><strong>发言人3: </strong></span>
+谁？
+</p>
+<p class="transcript-line">
+<span class="time"><strong>[01:21:33]</strong> </span>
+<span class="speaker"><strong>发言人1: </strong></span>
+你是单个公司沙特的那个石油公司，什么？沙特阿美那是世界纪录，226亿美金已经比OpenAI甚至比cloud的单量融资小了。那欧派如果今天上市，他多大？要用多少钱？这个故事挺破的。然后再想那天看一个数据，是说外部年代烧钱最多的上公司上市的时候，亚马逊大概烧了20亿美金就上市。移动互联网年代uber烧了最多的钱，烧了大概400亿美金也上市了。20倍，那是不是应该也要。
+</p>
+<p class="transcript-line">
+<span class="time"><strong>[01:22:10]</strong> </span>
+<span class="speaker"><strong>发言人2: </strong></span>
+烧到。
+</p>
+<p class="transcript-line">
+<span class="time"><strong>[01:22:11]</strong> </span>
+<span class="speaker"><strong>发言人1: </strong></span>
+400亿美金的20倍才到上市，也就是它要烧8000亿美金才上市。现在看上去这个数字不是什么天方夜谭，它很有可能就是事实，那就是它被定在了这个位置上。然后我们无论什么样的原因，这个事业这个行业走到了这个时间点。带着美国巨大的技术，硅谷叙事以及金融趋势走到了这个故事。只能这么走下去，没有什么别的办法。
+</p>
+<p class="transcript-line">
+<span class="time"><strong>[01:22:39]</strong> </span>
+<span class="speaker"><strong>发言人1: </strong></span>
+然后这是刚才我们讲说的，然后再讲今天无数的人在去评判这件事情，跟当年的互联网的泡沫，甚至跟当年的铁路去比。然后当然已经没有人去跟郁金香，跟比特币去比了。因为大家发现那不是一件事情了。就我们不要讨论这些事情，我们讨论这些真正意义上的工业革命跟历史革命带来的这些事情。大家会说，所以最近一段时间讨论什么多呢？
+</p>
+<p class="transcript-line">
+<span class="time"><strong>[01:23:01]</strong> </span>
+<span class="speaker"><strong>发言人1: </strong></span>
+老人说我们跟互联网行业相比说确实互联网行业当年看到的表象是说所有上市的纳斯达克的点com股份爆了。但是实际上底层的基础设施的光纤为我们提供了后来所有互联网的基础。可是现实的问题在于，那些当年铺设光纤的公司全部死掉了。那是不是今天所有这些数据中心的公司可能也会死掉，未来会带来一个美好的未来。然后这里面出现一个bug是说光纤铺在那儿15年、20年之后还是可以用的对吧？
+</p>
+<p class="transcript-line">
+<span class="time"><strong>[01:23:31]</strong> </span>
+<span class="speaker"><strong>发言人1: </strong></span>
+应该是心放在那儿，三个都不用，三年两年之后那个卡就没法用了，我就过时了，就要折旧了。那这个卡的折旧周期到底是多少？巨大。而在讨论就是说他会说巨大的开发价值投入是建立在头部公司超强的营收能力上的。就这几家meta google、NVIDIA微软都是每年自己可以赚到1000亿美金的，所以我投1000亿美金没问题。
+</p>
+<p class="transcript-line">
+<span class="time"><strong>[01:23:58]</strong> </span>
+<span class="speaker"><strong>发言人1: </strong></span>
+但是除了这几家之外的这个体系内，其他一些公司，cov这几家做云的公司，甚至马斯克的SA他们的现在需要性的钱已经开始流动债务了。所以很多人去分析泡沫的时候，说古带来的泡沫其实没有那么麻烦，但债带来的泡沫就很麻烦。资金贷危机，因为债是硬性的，所以你会发现我们把那几家最大的拿掉之外，底下的风险系数已经非常高。这种公司资产代表也没法看了。但是说我他妈原来是做矿场，古典金融这点杠杆对吧？对于我们这些外部三的公司而言，好像也没啥大不了的对吧？所以这是一个趋势。
+</p>
+<p class="transcript-line">
+<span class="time"><strong>[01:24:42]</strong> </span>
+<span class="speaker"><strong>发言人1: </strong></span>
+然后再更有意思的趋势，比如说我们回看今天截止到2025年10月中标普500所有的公司涨得最好的那家公司不是black hair，不是记忆通用电气能源，甚至不是金矿公司，是两家做硬盘的公司，希捷和西部数据。为什么？因为他发现最中心的建设狂潮大家炒完了，第一波最直接受益的英伟达炒完了，无形公司连变压器的冷却都炒完，店里也炒完了，发现需要隐瞒，需要存储，然后硬盘又受到固态隔离的限制。所以为什么三方万最近去了韩国、日本找SK跟三星，因为它要保证存储颗粒的级别。
+</p>
+<p class="transcript-line">
+<span class="time"><strong>[01:25:23]</strong> </span>
+<span class="speaker"><strong>发言人1: </strong></span>
+就是我又又回到刚才我们说的那句话，我们真的不知不觉走到了很多事情的极限。就是你电力冷却这些已经讲无数，但是你发现连存储都出了限制，而且这个东西这个行业绝对垄断。所以你发现所有事情全部打包在一起之后，你说是谁的原因？或者是一家农村两个不是它，这是一场巨大的共谋。他跟我不是非非主动的，他就滚到这儿了，没有办法了。而当我们意识到的时候，回头看已经没有退路了，我们只能继续往前走了。它就是一个这样的故事。
+</p>
+<p class="transcript-line">
+<span class="time"><strong>[01:25:58]</strong> </span>
+<span class="speaker"><strong>发言人2: </strong></span>
+我觉得挺有意思的。我们从一开始讲大模型，讲多模态，讲agent然后到后面讲二级市场。这个就一开始可能我们聊的是创业，聊的是机会，聊的是技术产品。然后聊到最后其实是非常有历史的这种场合。
+</p>
+<p class="transcript-line">
+<span class="time"><strong>[01:26:13]</strong> </span>
+<span class="speaker"><strong>发言人1: </strong></span>
+我是司马迁，有这种。
+</p>
+<p class="transcript-line">
+<span class="time"><strong>[01:26:15]</strong> </span>
+<span class="speaker"><strong>发言人2: </strong></span>
+非常宏观的，好像我站在这个黄河的悬崖峭壁上看这个大好河山，或者你不知道这个河山三是要下雨了，还是要万丈晴空了。Anyway我觉得很有意思的一些内容，也谢谢林浩，感谢大家。然后也期待明年这个时候我们再来复OK。好。
+</p>
+<p class="transcript-line">
+<span class="time"><strong>[01:26:33]</strong> </span>
+<span class="speaker"><strong>发言人1: </strong></span>
+谢谢感谢感谢。
+</p>]]></content:encoded>
+            <pubDate>Wed, 22 Oct 2025 16:00:00 GMT</pubDate>
+            <guid>68f77d0b456ffec65ed9d9ad</guid>
+        </item>
         <item>
             <title>Vol.74 体育，可能是人类与AI对抗的最后阵地---串台上下半场</title>
             <link>https://www.xiaoyuzhoufm.com/episode/68d2374b522b40626cd9bd3a</link>
@@ -32837,1196 +34270,6 @@ OK我再加一句，这个字节的本质上是人跟信息的连接，跟腾讯
 </p>]]></content:encoded>
             <pubDate>Tue, 17 Dec 2024 13:28:27 GMT</pubDate>
             <guid>676176ed84447b1bd0a2fe40</guid>
-        </item>
-        <item>
-            <title>Vol.45 132页PPT记录AI行业这一年</title>
-            <link>https://www.xiaoyuzhoufm.com/episode/675af24b7d8426f692a2b6b4</link>
-            <description>按照每年的习惯我都会针对当年的行业发展做一次整理，
-所以有了今天的内容……
-起初准备的时候计划和去年差不多，2-30页PPT差不多了，
-但当我把提纲列好之后，发现可能需要60页……
-再然后真正开始做文件细节的时候，我发现100页可能挡不住了…
-最后的报告成文是132页……
-我希望这份年度总结能够帮助大家对于24年的AI行业有一个逻辑框架较为清楚的认知。
-也欢迎把这期播客、这份PPT转发给你认为需要的朋友……
-PPT在线浏览/下载地址
-PPT在线浏览/下载地址
-PPT在线浏览/下载地址
-（屠龙之术联合财新推出优惠活动，
-年卡包年会员648，现在仅需498，
-有需要的朋友可以点击如下链接领取150元优惠券：
-财新包年优惠券
-财新包年优惠券
-财新包年优惠券
-想加粉丝群的请先+微信：rosicky311)
-【时间线】
-01:27 我们从标题说起
-03:17 真的“放缓”了吗？
-03:52 内容目录
-04:17 第一个主题
-04:28 OpenAI这一年
-05:50 创纪录的1570亿美金估值
-06:25 例行卖老股
-08:15 Sam的难题
-10:06 Claude
-11:09 强大的Claude
-12:23 X.ai
-13:56 推理成本下降
-14:21 开源 VS 闭源
-15:04 第二章：巨头
-15:12 Mag 7
-15:47 当成一个整体
-16:28 分别看
-17:18 共识1
-19:24 第二个共识：云
-19:49 第三个共识：Capex
-20:35 赤裸裸的衡量标准
-21:34 军备竞赛
-22:17 数据中心
-22:30 英伟达收入构成
-22:56 共识4：往上游去（芯片）
-24:12 往能源去
-25:13 共识5：投资与并购
-25:41 最后的共识：自研业务
-26:33 第三个话题：应用
-26:48 项目分类就很难
-27:13 红杉美国的分法
-27:43 A16Z的分法
-28:48 分不清楚了
-29:24 我就不分了
-29:48 多模态
-30:15 2023的AI视频
-30:36 sora发布之前的闹剧
-31:23 sora发布
-32:03 主流视频模型
-32:25 AI-3D
-33:09 AI搜索
-33:55 coding
-34:32 cursor
-35:07 AI陪伴
-35:16 c.ai
-35:58 onlyfans
-36:23 agent
-36:57 硬件
-38:10 一级市场
-38:20 先进生产力
-38:51 募资
-39:24 创业公司估值
-39:46 IPO
-40:13 独角兽溢出
-40:39 并购
-40:55 AI投资主题
-41:26 AI宇宙
-41:25 拿了大钱的
-42:09 更“溢出”
-42:23 那些问题和答案
-44:30 中国
-44:34 中国大模型
-44:41 旧叙事结构
-45:21 移动互联网
-46:33 移动互联网的共识
-47:20 我们不一样
-47:31 没有标准答案的问题
-48:18 看2c
-50:07 “古典”
-50:46 智谱
-51:36 月之暗面
-52:12 minimax
-52:39 百川智能
-53:14 01万物
-53:44 阶越
-54:14 幻方
-54:38 上一代的四小龙
-55:45 真假四小龙
-56:33 送命题
-57:45 中国的巨头
-57:50 “抄作业”
-59:08 值得聊的公司
-59:29 百度
-1:01:17 阿里
-1:02:12 腾讯
-1:03:23 华为
-1:03:57 一些“诸侯”
-1:04:23 字节和其他
-1:04:53 豆包app
-1:05:28 模型推理成本
-1:05:58 其他应用
-1:06:18 字节AI业务list
-1:06:47 为什么可以做到？
-1:08:07 中国应用实践
-1:08:17 全景图
-1:08:36 我选的分类
-1:09:06 生产力工具
-1:09:35 AI搜索
-1:10:44 AI视频
-1:11:29 AI陪伴
-1:12:22 AI教育
-1:13:02 AI硬件
-1:14:01 眼镜
-1:14:35 AI手机
-1:15:24 华强北
-1:16:16 一些观察
-1:16:58 什么是“中国”公司
-1:18:32 三级火箭理论
-1:19:03 利息可以养活团队
-1:20:19 真-独立开发者
-1:20:47 “元”的执念
-1:21:49 中国一级市场
-1:22:25 冉总的那句话
-1:23:29 募资
-1:24:33 投资
-1:25:19 退出
-1:25:46 并购
-1:26:15 回购
-1:26:39 汪华老师的大实话
-1:27:35 但……
-1:28:58 完结，撒花～
-【参考报告】
-下载地址：
-链接: https://pan.baidu.com/s/1uJoN25-7Qn7E-sX_XzsLEg?pwd=qzf7
-提取码: qzf7
-【播客简介】
-屠龙之术是一档关注科技、互联网、风险投资的播客，
-主播庄明浩是一个游走在互联网和风险投资行业的边缘人士。
-其工作多年所积累的认知似乎都成为了某种意义上的”屠龙之术“……
-或许某天再有新的“龙”出现的时候，就是这档播客停更之时。</description>
-            <content:encoded><![CDATA[<h1>转写链接</h1>
-<link>https://tongyi.aliyun.com/efficiency/doc/transcripts/372e9owmb6yvqxb6</link><br>
-<h1>节目摘要</h1>
-<div class="summary">本次对话深入探讨了AI技术在当前投资领域的现状与趋势。首先，尽管AI在浏览器和搜索领域得到广泛应用，市场对AI应用的共识仍不明确，导致部分初创企业通过创始人履历来吸引投资，即使产品尚未成熟。AI技术为独立开发者提供了巨大赋能，促进了创新，但某些商业模式和想法在AI浪潮下仍面临挑战。对话强调，中国一级市场面临市场低迷、资金集中于硬科技领域及退出渠道受限的问题，同时，人民币主导投资，追求确定性回报，美元投资大幅减少，反映了科技投资环境的转变。明浩讨论了AI行业的进展，包括大模型发展、巨头公司投资战略、AI应用落地场景，以及创业公司面临的挑战。他表达了对AI如何真实反映和推进人类社会发展的期待，同时对避免泡沫和滥用表达了担忧。</div><br>
-<h1>章节速览</h1>
-<div class="chapters">
-<div class="chapter-item">
-<span class="time"><strong>[00:00:00]</strong> </span>
-<span class="chapter-title"><strong>记录AI行业的一年：从算力增速到模型进步</strong></span>
-<div class="chapter-summary">明浩分享了他对过去一年AI行业发展的观察，特别是从11月底开始，用两周多时间准备的内容。他谈到了自己对AI年度总结的习惯，以及今年因为博客的存在而更加主动地做内容准备。重点讨论了2024年AI行业的进展，特别是算力增速和数据规模的增长情况。他通过与ChatGPT的互动，探讨了AI发展的速度和方向，以及大模型在推理和数学理解上的进步。最后，提出了对AI发展速度是否放缓的疑问，并通过数据统计给出了答案。</div>
-</div>
-<div class="chapter-item">
-<span class="time"><strong>[00:03:51]</strong> </span>
-<span class="chapter-title"><strong>OpenAI公司及大模型技术进展回顾</strong></span>
-<div class="chapter-summary">回顾了OpenAI公司在2023年的主要产品进展和公司里程碑，包括大模型技术的突破、融资情况以及核心团队的变化。从年初的期待到年末的成果，展示了公司在人工智能领域的领先地位和面临的挑战。</div>
-</div>
-<div class="chapter-item">
-<span class="time"><strong>[00:08:13]</strong> </span>
-<span class="chapter-title"><strong>OpenAI面临的多维挑战与战略应对</strong></span>
-<div class="chapter-summary">OpenAI的CEO在应对公司面临的复杂问题时，包括与微软、英伟达的关系，财务投资人的利益，以及与全球各国政府的关系等。微软不仅是其最大的财务投资者和云服务提供方，也可能是其竞争对手。此外，还提及了与英伟达的技术合作，财务投资人的股份利益，以及竞争对手的挑战，特别是来自Cloud的激烈竞争。同时，讨论了OpenAI如何使用AI工具将这些挑战可视化，以及技术能力的进展如何改变行业格局。</div>
-</div>
-<div class="chapter-item">
-<span class="time"><strong>[00:12:21]</strong> </span>
-<span class="chapter-title"><strong>探讨基础大模型商业模式的未来发展</strong></span>
-<div class="chapter-summary">随着融资规模达十亿美金级别的初创公司在美轮番登场，人们开始讨论基础大模型的商业模式及方向是否能支撑多家初创企业。这些公司面临融资、人才、能源、数据量等多方面的挑战。特别提到了一位新上任的摄政王马斯克支持的项目，以及他通过XCI给予投资人的补偿和与特朗普的关系，使得X一备受期待。同时，讨论还涉及到成本下降是否能促进应用层爆发，以及开源与闭源模型的技术差距正在迅速缩小，开源模型在某些领域的应用正在增加。</div>
-</div>
-<div class="chapter-item">
-<span class="time"><strong>[00:15:03]</strong> </span>
-<span class="chapter-title"><strong>疯狂七巨头：科技行业的领头羊</strong></span>
-<div class="chapter-summary">本报告深入分析了被媒体广泛引用的七家科技巨头：谷歌、苹果、特斯拉、Meta、微软、亚马逊和NVIDIA。这些公司不仅在市值上实现了巨大增长，达到了17万亿的总市值，而且其市值占标普500指数的比例从35%上升至超过55%，显示了它们在科技行业尤其是人工智能领域的主导地位。报告通过幽默的梗图和详细的统计数据，阐述了这些公司在经济和科技领域中的共识与影响力，特别是NVIDIA作为AI热潮的最大受益者，其市值波动性和增长速度显著。这些巨头的市值增长不仅体现了个人公司的成功，也反映了整个科技行业的发展趋势。</div>
-</div>
-<div class="chapter-item">
-<span class="time"><strong>[00:19:23]</strong> </span>
-<span class="chapter-title"><strong>公有云市场和AI投资趋势分析</strong></span>
-<div class="chapter-summary">公有云市场的三大巨头——亚马逊AWS、谷歌云和微软，在过去几年内经历了快速增长，三者的市场份额合计接近70%。这些公司的成功在很大程度上反映了对AI技术投资的回报，特别是在云业务上的增长。此外，这些科技巨头及其同行如Meta，在固定资产（KPEX）上的投入呈现出爆发性增长，亚马逊单季度投入达到226亿美元，微软和谷歌也分别达到149亿和130亿美元。这种投资主要用于购买高性能显卡等硬件，以支撑其数据中心运营和AI研发。显卡的大量购买不仅揭示了巨头们对AI的重视，也体现了当前AI行业竞争的激烈程度。预计到2024年底，各巨头拥有的显卡数量将大幅增加，同时，数据中心业务在全球范围内呈现快速增长态势。这些发展动态强调了云服务和AI技术在当前科技行业中的重要地位和增长潜力。</div>
-</div>
-<div class="chapter-item">
-<span class="time"><strong>[00:22:55]</strong> </span>
-<span class="chapter-title"><strong>科技巨头布局芯片和新能源成为趋势</strong></span>
-<div class="chapter-summary">在红杉美国对AI行业进行分层后，各大科技公司开始向产业链上游扩展，特别关注芯片和新能源领域。这些公司包括Google、亚马逊、微软和Meta等，它们不仅自行研发芯片，还涉足芯片设计与代工，以及新能源技术如核能和太阳能的开发。同时，这些巨头通过投资和并购来加强在AI领域的生态建设，显示出对自主技术和生态系统建设的重视。此外，它们也在积极推动自家业务的发展，发布相关技术和产品。这一系列动作表明，面对未来技术发展的不确定性，科技巨头正通过多元化布局以确保竞争优势。</div>
-</div>
-<div class="chapter-item">
-<span class="time"><strong>[00:26:32]</strong> </span>
-<span class="chapter-title"><strong>2024年AI应用领域的多元化发展</strong></span>
-<div class="chapter-summary">2024年被视为AI应用的关键年份，行业内关注焦点从大模型创业公司和科技巨头转向了AI在各领域的具体应用。在对AI独角兽公司进行分类分析时，发现单一的分类方式过于简化，忽略了AI技术在不同领域的广泛应用。通过分析各种报告和统计数据，指出了现有分类方式的不足，同时提出了基于不同应用方向的多模态搜索、代码生成、社交代理和硬件等六个主要发展方向。特别强调了AI视频生成领域的快速发展，以及其在内容创作、编辑和生成等方面的巨大潜力。</div>
-</div>
-<div class="chapter-item">
-<span class="time"><strong>[00:32:23]</strong> </span>
-<span class="chapter-title"><strong>AI技术发展及应用现状</strong></span>
-<div class="chapter-summary">AI技术在3D场景生成、搜索、代码生成以及社交陪伴等领域持续发展，呈现出从基础素材生成到全景多模态生成、AI搜索的兴起以及代码生成的智能化等趋势。3D技术的进步使得通过输入文本直接生成复杂场景成为可能，AI搜索虽受到关注但对传统搜索引擎的冲击有限，代码生成技术的发展让编程变得更简单。同时，社交陪伴领域，尽管存在挑战，但AI技术的应用仍显示出增长潜力。整体上，AI技术正在多个领域内推动着范式的转变，尽管一些领域如AI陪伴可能面临商业模式的挑战。</div>
-</div>
-<div class="chapter-item">
-<span class="time"><strong>[00:36:56]</strong> </span>
-<span class="chapter-title"><strong>探讨AI硬件的发展与投资趋势</strong></span>
-<div class="chapter-summary">对话内容涉及了AI硬件领域内几个未达预期的案例，以及雷朋和Meta合作的眼镜、Ora与三星合作的戒指等成功引起关注的产品。讨论了这些产品虽然引起讨论和关注，但是否真正满足市场需求仍有待观察。此外，还分析了VC在投资领域的行为，指出了募资情况、后期公司估值上涨、独角兽公司数量增多等现象，并强调了AI作为最重要的投资主题之一，其投资金额、项目估值以及每轮融资额度均显著高于非AI项目。</div>
-</div>
-<div class="chapter-item">
-<span class="time"><strong>[00:41:24]</strong> </span>
-<span class="chapter-title"><strong>探讨AI投资热及其对生产效率的影响</strong></span>
-<div class="chapter-summary">近年来，AI领域吸引了大量投资，形成了所谓的AI宇宙，其中独角兽企业数量迅速增长。尽管如此，有观点认为，AI技术对生产效率的提升尚未达到预期，类似历史上的电力革命初期。专家指出，AI技术真正发挥巨大效益需要伴随组织结构、行业分工的创新变化。这种观点呼吁市场和投资者保持耐心，期待未来AI技术与商业模式创新相结合，以实现生产效率的显著提升。</div>
-</div>
-<div class="chapter-item">
-<span class="time"><strong>[00:44:11]</strong> </span>
-<span class="chapter-title"><strong>中美互联网叙事结构与AI发展比较</strong></span>
-<div class="chapter-summary">对话首先回顾了美国在人工智能领域的共识和应用方向，随后转向中国，介绍中国互联网的新叙事结构，特别是移动互联网时代的发展。提及了TMD（滴滴、字节跳动、美团）为代表的旧技术结构，以及随后移动互联网带来的巨大变革，包括微信、米哈游、小米等“移动原生”公司的崛起。还探讨了内容平台（如抖音、快手）、交易平台（如拼多多、美团）的兴起及其对中国互联网生态的贡献。最后，对话转向AI时代，提出面对AI浪潮，初创公司面临的一系列战略和运营选择问题，没有标准答案。通过具体的APP数据，展示了AI应用领域的当前竞争态势和用户参与情况。</div>
-</div>
-<div class="chapter-item">
-<span class="time"><strong>[00:49:25]</strong> </span>
-<span class="chapter-title"><strong>探讨AI产品榜及移动互联网指标适用性</strong></span>
-<div class="chapter-summary">对话内容涉及AI产品的日均使用时长排名，以及对传统移动互联网指标在衡量AI产品时的适用性提出质疑。通过分析不同AI公司的特点、投资背景、产品方向及市场表现，指出当前AI领域的评价体系和投资热度。同时，比较了上一代AI公司与新一代AI创业公司的现状，暗示行业内的变迁和挑战。</div>
-</div>
-<div class="chapter-item">
-<span class="time"><strong>[00:56:28]</strong> </span>
-<span class="chapter-title"><strong>中国大模型创业公司现状与巨头布局</strong></span>
-<div class="chapter-summary">讨论集中在中国大模型创业公司的核心竞争壁垒、商业化考量以及退出路径等关键问题上。分析了百度、阿里、腾讯、华为等巨头在人工智能领域的布局，包括投资并购、自研业务等方面，以及他们如何强调AI技术在基础设施建设中的重要性。同时，对各家巨头在AI领域的表现进行了评价，指出了他们的优势与特点，如百度的自我封闭、阿里的开源策略、腾讯的保守策略以及华为的全方位布局。此外，还提到了快手、商汤等公司在特定领域的亮点。</div>
-</div>
-<div class="chapter-item">
-<span class="time"><strong>[01:04:21]</strong> </span>
-<span class="chapter-title"><strong>字节跳动在AI领域的全面布局与竞争策略</strong></span>
-<div class="chapter-summary">在当前的AI领域，字节跳动的豆包模型已经广泛覆盖视频、图片、语音文本等多种应用场景，展现出了在to C应用方面的显著优势。同时，在to B领域，通过提供低成本的云服务，如火山引擎的豆包4K和22五六K的推理服务，字节跳动正在通过价格竞争来扩大市场份额。组织架构的调整，特别是AI业务负责人的任命，显示了字节跳动对AI领域的重视。此外，字节跳动还在探索各种AI业务，并通过收购和内部研发，力求在AI技术上保持领先地位。展望未来，火山云有潜力成为中国最大的云厂商，其策略可能会对市场产生深远影响。</div>
-</div>
-<div class="chapter-item">
-<span class="time"><strong>[01:08:16]</strong> </span>
-<span class="chapter-title"><strong>中国AI应用全景图谱分析</strong></span>
-<div class="chapter-summary">量子位发布的中国AI应用全景图谱报告展示了数百家公司的复杂分布，覆盖多个领域和场景。报告中提及了生产力工具、AI陪伴、AI搜索、AI教育、视频生成、AI硬件六个主要方向，着重分析了中国在AI视频生成领域的发展速度超过海外，以及AI陪伴产品在国内的广泛尝试。此外，还提到了AI教育的独特进展和AI硬件的多样性，包括智能眼镜和AI手机等。特别指出，AI硬件在华强北的实际情况，体现了AI技术在日常生活中的应用和创新。</div>
-</div>
-<div class="chapter-item">
-<span class="time"><strong>[01:16:11]</strong> </span>
-<span class="chapter-title"><strong>观察：AI行业的现状与发展</strong></span>
-<div class="chapter-summary">讨论集中在AI行业的多个观察点上。首先探讨了中国公司与国际背景的关系，以及如何定义一家中国公司。其次，分析了AI领域“三级火箭”战略的复现，特别是在输入法、浏览器和搜索领域的应用。第三个观察点关注于融资与团队维持的问题，提出一些公司利用融资利息来维持团队运作而延缓产品推出的策略。第四个观察点强调了AI对独立开发者的影响和赋能。最后，讨论了元宇宙和3D技术的当前应用与挑战，指出尽管存在挑战，元宇宙仍是一些创始人的重要信念。</div>
-</div>
-<div class="chapter-item">
-<span class="time"><strong>[01:21:48]</strong> </span>
-<span class="chapter-title"><strong>中国一级市场现状与政策影响分析</strong></span>
-<div class="chapter-summary">在年终的行业讨论中，特别关注了中国一级市场的现状。由于内审风控的原因，对于市场的描述进行了调整，避免使用可能被解读为负面的词汇。讨论重点包括了创业公司成立数量的新低以及PEVC行业的募资情况，特别指出如果去除政府引导基金，市场活跃度将大幅下降。此外，还提及了对于未来市场走势的关注，如“木头管退”的情况。整体上，市场对于中国政府在经济和投资领域的作用和政策导向保持着高度关注。</div>
-</div>
-<div class="chapter-item">
-<span class="time"><strong>[01:23:37]</strong> </span>
-<span class="chapter-title"><strong>2024年前三季度中国股权投资市场回顾</strong></span>
-<div class="chapter-summary">2024年前三季度的数据显示，中国股权投资市场持续低迷，投资总额仅达到近三年同期均值的39.3%。人民币投资相比去年减少38%，而美元募资额也大幅下降至14%。国资主导的投资占比高达89%，显示市场对确定性回报的追求。与此同时，退出案例和IPO数量分别下降了56.7%和51.3%，并购活动未能有效提振。回购活动有所增加，同比上升72.5%。这一系列数据反映出当前市场环境的严峻和投资风格的转变，凸显了在当前经济形势下，投资者对风险和回报的重新评估。</div>
-</div>
-</div><br>
-<h1>问题回顾</h1>
-<div class="qa-item">
-<div class="question"><strong>Q:</strong> 明浩，你今年在年底做年度总结时，为什么选择主动去做并且花两周时间准备PPT呢？</div>
-<div class="answer"><strong>A:</strong> 因为今年我有了博客，觉得需要主动做一些系统的整理和回顾，尤其在AI行业发展上，通过之前的“AI一年人间十年”系列内容后，今年准备做一期关于AI两年人间20年的总结，关注整个行业的变化与发展。</div>
-</div>
-<div class="qa-item">
-<div class="question"><strong>Q:</strong> 在准备PPT的过程中，你是否参考了AI行业的一些发展趋势和数据？</div>
-<div class="answer"><strong>A:</strong> 是的，在准备过程中，我关注了AI行业的多个维度，包括模型算力增速、数据规模增长放缓、以及技术范式的一些改变，并且也参考了中美两国在大模型领域的进展与竞争情况。</div>
-</div>
-<div class="qa-item">
-<div class="question"><strong>Q:</strong> 你提到了一个标题“AI两年人间20年”，这是怎么来的？</div>
-<div class="answer"><strong>A:</strong> 这个标题来源于ChatGPT为我提供的一些备选标题之一，它反映了相较于预期的十年人间一百年，实际情况可能有所变化。这个标题也引起了业界对大模型发展速度和潜在放缓现象的讨论。</div>
-</div>
-<div class="qa-item">
-<div class="question"><strong>Q:</strong> 对于OpenAI这家公司的现状，能否详细说一下它们的主要产品和动态？</div>
-<div class="answer"><strong>A:</strong> OpenAI在2024年发布了Sora视频（非正式产品），并在5月份推出了4O，这是首个真正意义上的跨文本视觉和音频模型。9月份发布的O1标志着大模型技术的一次技术范式改变，更擅长推理和复杂问题解决。同时，OpenAI以创纪录的1570亿美金估值融得了66亿美金，并且新任CFO通过对比历史收入曲线成功推动了这笔融资。</div>
-</div>
-<div class="qa-item">
-<div class="question"><strong>Q:</strong> OpenAI在团队稳定性方面表现如何？</div>
-<div class="answer"><strong>A:</strong> OpenAI的核心团队在过去一年中经历了较大的人员流动，虽然有关键人才流失，但公司从纯技术导向的实验室性质逐渐转变为商业化的公司，引入了更多产品运营人员，整个团队进行了较大换血。</div>
-</div>
-<div class="qa-item">
-<div class="question"><strong>Q:</strong> OpenAI CEO Sam Altman面临的主要挑战有哪些？</div>
-<div class="answer"><strong>A:</strong> Sam Altman要处理与微软、英伟达等战略合作伙伴的关系，解决财务投资人股份变现与升值问题，应对竞争对手如Anthropic的市场冲击，以及解决全球各国政府间复杂的问题。</div>
-</div>
-<div class="qa-item">
-<div class="question"><strong>Q:</strong> 最后，对于XAI和马斯克在其中的投资情况，你是怎么看的？</div>
-<div class="answer"><strong>A:</strong> 马斯克支持的XAI因其商业模式和基础大模型方向的潜力而引人关注。马斯克通过补偿推特私有化投资损失的方式，为XAI批了25%的股份，同时考虑到他对推特的影响，以及他与特朗普的关系，XAI值得进一步期待。此外，美国大模型领域还讨论了推理成本下降带来的应用层爆发可能性。</div>
-</div>
-<div class="qa-item">
-<div class="question"><strong>Q:</strong> 开源模型与闭源模型之间的技术差距缩小了吗？有哪些公司正在内部使用开源模型？</div>
-<div class="answer"><strong>A:</strong> 是的，过去一年开源领域模型发展的速度非常快，头部开源模型与最头部闭源模型的技术能力差距已经从一年半缩短到大约九个月。很多公司在内部频繁使用各种开源模型来实施不同的功能。</div>
-</div>
-<div class="qa-item">
-<div class="question"><strong>Q:</strong> 疯狂七巨头有哪些？这些巨头公司今年股价涨幅如何？</div>
-<div class="answer"><strong>A:</strong> 疯狂七巨头包括Google、Apple、Tesla、Meta、Microsoft、Amazon和NVIDIA。从过去两年来看，这些公司股价涨幅巨大，如DR的涨幅达176.8%，苹果涨19.8%，微软涨12.6%，亚马逊涨39.2%，Google涨19.4%，Tesla涨59.4%。</div>
-</div>
-<div class="qa-item">
-<div class="question"><strong>Q:</strong> 巨头公司在AI领域的共识是什么？</div>
-<div class="answer"><strong>A:</strong> 共识包括云业务收入增长显著，固定资产投入（KPI）爆发性增长，以及向芯片层面上布局，通过投资合作建立自家芯片生态，并尝试涉足能源领域。</div>
-</div>
-<div class="qa-item">
-<div class="question"><strong>Q:</strong> 这七巨头的市值情况如何？</div>
-<div class="answer"><strong>A:</strong> 这七家巨头在今年十月份市值总和达到了17.1万亿美元，占标普指数中所有剩余上市公司的估值总和还多。</div>
-</div>
-<div class="qa-item">
-<div class="question"><strong>Q:</strong> 为什么韦利亚被认为是AI热潮的最大受益者？</div>
-<div class="answer"><strong>A:</strong> 韦利亚（可能指代某家公司）作为七巨头之一，同时也是AI这一波最大的受益者，其市值增长迅速且波动性大，因此形成了“韦利亚带动整个经济”的共识。</div>
-</div>
-<div class="qa-item">
-<div class="question"><strong>Q:</strong> 在AI行业中的玩家有哪些层次？</div>
-<div class="answer"><strong>A:</strong> 玩家分为三类：科技巨头（投入百亿美金级别）、初创类模型公司（投入10亿至几十亿美金级别）和AI挑战者（投入几亿美金级别）。</div>
-</div>
-<div class="qa-item">
-<div class="question"><strong>Q:</strong> 当前AI行业的重点趋势是什么？</div>
-<div class="answer"><strong>A:</strong> 重点趋势包括向芯片层和能源领域的布局，以及通过投资并购强化生态建设，并确保自家业务不受影响。</div>
-</div>
-<div class="qa-item">
-<div class="question"><strong>Q:</strong> 中国公司在AI领域的状态如何？是否有统计分析过AI相关独角兽公司的落地场景与应用？</div>
-<div class="answer"><strong>A:</strong> 中国公司也在大量购买高端显卡用于数据中心建设，并积极投入AI领域的研发和应用，如阿里云、腾讯、百度等。是的，有研究机构对AI领域的独角兽公司进行了分类和统计分析，发现这些公司涉及搜索、内容生成、内容编辑、助理、教育、营销等多个应用场景。</div>
-</div>
-<div class="qa-item">
-<div class="question"><strong>Q:</strong> 在项目分类上，对于to b和to c的界定是否清晰？</div>
-<div class="answer"><strong>A:</strong> 在很多情况下，确实很难以一个严格的标准来区分to b和to c。有些报告会按照行业划分，如金融、法律、生物医药等；而有些则从企业内部分工的角度进行分类，比如HR、设计、客户关系管理、财务等。对于一些项目来说，难以明确其具体属于哪一类。</div>
-</div>
-<div class="qa-item">
-<div class="question"><strong>Q:</strong> 您如何对过去一年的热门技术或方向进行分类？</div>
-<div class="answer"><strong>A:</strong> 我将过去一年朋友圈刷屏的、有影响力的项目或方向整理出了六个方向，分别是多模态搜索、代码生成、社交agent的硬件等。其中，特别提到了多模态领域，包括视频、3D和语音方面的进展，尤其是AI图片生成技术在这一年里发展迅速，甚至早于ChatGPT。</div>
-</div>
-<div class="qa-item">
-<div class="question"><strong>Q:</strong> AI视频生成方面今年有哪些发展状况？</div>
-<div class="answer"><strong>A:</strong> 尽管2023年已有公司在做AI视频生成，但整个领域的进展相较于期待还有较大差距，可以忽略不计。以Sara为例，其发布的新闻表明，在AI视频生成领域的产品和功能体验上，当前主流模型的能力还处在较初级阶段。</div>
-</div>
-<div class="qa-item">
-<div class="question"><strong>Q:</strong> AI 3D素材生成有何最新进展？</div>
-<div class="answer"><strong>A:</strong> 在3D方面，去年年底有一波AI生成3D素材的小浪潮，而现在进化到了全景生成多模态的新阶段。李飞飞总所在的word labs展示了可以直接根据一句话生成3D场景的例子，标志着3D生成技术的显著进步。</div>
-</div>
-<div class="qa-item">
-<div class="question"><strong>Q:</strong> AI搜索领域的发展现状如何？</div>
-<div class="answer"><strong>A:</strong> AI搜索被认为是技术进步的重要一步，几乎所有大型搜索引擎公司都在投入资源发展AI搜索。然而，尽管用户感知强烈，搜索量数据上并未显示出AI搜索对原有搜索市场的显著冲击。</div>
-</div>
-<div class="qa-item">
-<div class="question"><strong>Q:</strong> AI代码生成领域有哪些突破和代表公司？</div>
-<div class="answer"><strong>A:</strong> AI代码生成让代码编写变得越来越简单和智能化，其中一家名为科sir的公司凭借其技术突破，从去年约100万美金的收入增长到了今年预估的六千多万美金，成为AI代码生成领域的独角兽。</div>
-</div>
-<div class="qa-item">
-<div class="question"><strong>Q:</strong> 社交AI方向的发展情况如何，特别是在C端应用上？</div>
-<div class="answer"><strong>A:</strong> 社交AI作为C端应用的一个希望方向，但代表公司Carry点AI被google收购可能意味着这条路不太理想。这更多是因为Carry点AI自身战略定位问题，而非AI陪伴这一方向本身有问题。</div>
-</div>
-<div class="qa-item">
-<div class="question"><strong>Q:</strong> AI硬件方向有哪些值得关注的产品或案例？</div>
-<div class="answer"><strong>A:</strong> AI硬件方面，上半年有AIP和Reddit等不太成功的案例，下半年雷朋和Meta的眼镜以及Oura和三星的合作戒指，出货量较大并受到关注，但是否达到阶段性满意状态还需进一步观察。</div>
-</div>
-<div class="qa-item">
-<div class="question"><strong>Q:</strong> 当前一级市场投资情况如何，尤其是AI领域的投资表现？</div>
-<div class="answer"><strong>A:</strong> 目前募资环境整体处于较低水位状态，而后期投资公司的估值在大幅上涨。AI成为最热门的投资主题之一，投资金额和单位项目估值均远超非AI项目，并且在过去一个季度保持着快速增长。</div>
-</div>
-<div class="qa-item">
-<div class="question"><strong>Q:</strong> AI独角兽公司数量增长过快会带来什么问题？</div>
-<div class="answer"><strong>A:</strong> 随着AI独角兽公司的快速增加，独角兽公司溢出的现象愈发严重。一些机构开始探讨相关问题，如红杉美国提出的AI投资规模过大和高盛关于生成式AI花费与收入不匹配的观点，引发了对AI投资是否过度的思考。</div>
-</div>
-<div class="qa-item">
-<div class="question"><strong>Q:</strong> AI在当前阶段是否类似于电力革命初期的电机，需要配以组织结构、行业分工等变革才能真正提升效率？</div>
-<div class="answer"><strong>A:</strong> 是的，AI今天就像当年的电机，但要实现巨大效率提升或带来重大收益，需要伴随组织结构、行业分工的创新以及商业模式的变革。斯坦福商学院的学生可能在推动这些创新方面发挥重要作用。</div>
-</div>
-<div class="qa-item">
-<div class="question"><strong>Q:</strong> 中国的AI发展面临怎样的新叙事结构？</div>
-<div class="answer"><strong>A:</strong> 中国的AI发展正经历“新叙事结构”，不同于以往以TMD（代表移动互联网巨头）为代表的技术结构。在新的叙事结构下，出现了以大模型为核心的创业公司，并在移动互联网领域产生了像微信、米哈游、小米等大企业，以及内容平台如抖音、快手、小红书等。</div>
-</div>
-<div class="qa-item">
-<div class="question"><strong>Q:</strong> 移动互联网行业的旧叙事结构是什么？</div>
-<div class="answer"><strong>A:</strong> 移动互联网行业的旧叙事结构主要包括三个方面：一是用户量爆发，从2亿网民增长到12亿网民的纯增量市场；二是推荐算法连接一切，关注用户活跃度、留存率和时间投入；三是商业化，通过广告、电商、游戏、直播等方式将用户时间转化为商业价值。</div>
-</div>
-<div class="qa-item">
-<div class="question"><strong>Q:</strong> 面对这一波AI初创公司，是否还能沿用传统移动互联网行业的衡量标准和策略？</div>
-<div class="answer"><strong>A:</strong> 对于AI领域的初创公司，很多问题并没有标准答案，如做模型还是做应用，国内市场还是海外市场，公司结构选择等。每个公司都需要根据自身情况设定阶段性的里程碑，并灵活选择技术、商业或产品的衡量指标。</div>
-</div>
-<div class="qa-item">
-<div class="question"><strong>Q:</strong> 目前AI应用在C端的月活跃用户数（DAU）情况如何？</div>
-<div class="answer"><strong>A:</strong> 根据量子位的数据统计，AI应用在APP端的DAU呈指数级增长，第一名的产品日活跃用户数超过千万级别，而第十名已降至10万以下。同时，用户的每日使用时长也相对较短，这引发了关于如何用传统移动互联网指标衡量这些新型AI产品的讨论。</div>
-</div>
-<div class="qa-item">
-<div class="question"><strong>Q:</strong> 对于当前阶段的AI创业公司，其核心竞争壁垒是什么？如何获取资金流动性？未来的退出路径又是什么？</div>
-<div class="answer"><strong>A:</strong> 当前AI创业公司的核心竞争壁垒尚不明确，模型竞赛和C端买量策略的可行性还需进一步观察。关于资金流动性，众多VC巨头和国家队已经参与其中，但退出路径方面，考虑到中美现状，短期内赴美上市可能性较低，国内上市也是一个待解决的问题。</div>
-</div>
-<div class="qa-item">
-<div class="question"><strong>Q:</strong> 阿里云、百度云等公司在过去一年对AI基础设施和英特尔层能力的投入情况如何？</div>
-<div class="answer"><strong>A:</strong> 在过去一年中，包括阿里云、火山云、华为云、腾讯云、百度云在内的多家中国云服务商都在疯狂强调AI基础设施和英特尔层能力的建设。此外，中国移动、中国电信等通信运营商也在KPS方面投入巨大。同时，这些大厂都在自研芯片，如阿里平头哥、百度空中芯、华为鲲鹏等，并且都有投资并购动作。</div>
-</div>
-<div class="qa-item">
-<div class="question"><strong>Q:</strong> 有哪些大模型的巨头值得关注？CNIC的统计数据中关于用户使用AI工具的情况是怎么样的？</div>
-<div class="answer"><strong>A:</strong> 在大模型巨头方面，百度、阿里、腾讯、华为、字节跳动（包括旗下的讯飞）、昆仑、快手、商汤等9家公司值得关注。其中，百度本应最强的一个却似乎仍活在自己的世界里，这一点根据CNIC发布的统计报告中的数据有所体现。根据CNIC的统计报告显示，百度文心一言占比为11.5%，ChatGPT占比为7%，而Google Germany占比为3.8%。但这些数据的来源和用户具体如何使用ChatGPT及Google服务仍有待进一步核实。</div>
-</div>
-<div class="qa-item">
-<div class="question"><strong>Q:</strong> 对于各家公司的AI业务表现，有哪些具体例子？</div>
-<div class="answer"><strong>A:</strong> 百度方面，文库的增长非常快，尤其是得益于AI能力的加持。阿里则在战略投资上表现出色，通义千问覆盖了阿里体系内所有大模型，通义开源模型在海外各类榜单上的表现优秀。此外，阿里云的战略投资广泛，夸克浏览器在过去一年中发展迅速。</div>
-</div>
-<div class="qa-item">
-<div class="question"><strong>Q:</strong> 腾讯在AI方面的策略是什么？</div>
-<div class="answer"><strong>A:</strong> 腾讯更侧重于现有业务的增强而非开发新事物，比如其核心产品元宝因公众号数据源的质量优势，在信息源方面表现出色。微信最近内测的AI搜索以及新推出的IMA工具也值得关注。</div>
-</div>
-<div class="qa-item">
-<div class="question"><strong>Q:</strong> 华为在AI领域的地位如何？</div>
-<div class="answer"><strong>A:</strong> 华为被视为另一个身位的选手，在AI领域拥有芯片、模型、云服务以及手机端的盘古模型。相较于互联网公司，华为在AI赛道上具有独特的竞争力。</div>
-</div>
-<div class="qa-item">
-<div class="question"><strong>Q:</strong> 字节跳动及其旗下的AI业务有何特点？</div>
-<div class="answer"><strong>A:</strong> 字节跳动旗下的AI业务变化迅速，尤其是抖音所代表的视频输入模型昆仑天宫，在多个场景取得突破。字节跳动整体上在AI领域展现出强大的实力和快速的发展态势。</div>
-</div>
-<div class="qa-item">
-<div class="question"><strong>Q:</strong> 火山引擎在AI业务上的表现及未来发展态势如何？</div>
-<div class="answer"><strong>A:</strong> 火山引擎主推的AI模型性价比高，且在B端市场中采取低价策略竞争激烈。同时，随着组织架构调整和人才建设的加强，火山引擎有可能成为中国最大的云厂商，挑战其他巨头的地位。</div>
-</div>
-<div class="qa-item">
-<div class="question"><strong>Q:</strong> 中国AI应用实践有哪些特色？</div>
-<div class="answer"><strong>A:</strong> 中国AI应用实践具有中国特色社会主义特色，涵盖生产力工具、AI搜索、AI教育、视频生成等多个领域，并涌现出许多全球化产品体验和订阅模式的创新公司。其中，视频生成是中国发展较快的板块，受益于短视频基础设施的建设；AI搜索则注重信息源质量的提升；AI陪伴和AI教育在中国社交商业化转化方面有较大优势；AI硬件如科大讯飞耳机等也在市场上崭露头角。</div>
-</div>
-<div class="qa-item">
-<div class="question"><strong>Q:</strong> live a live智能吉他与AI的关系有多大？</div>
-<div class="answer"><strong>A:</strong> 我觉得live a live与AI的关系有限，但确实借助了AI功能作为噱头，今年销量很好，据说达到了几十亿。此外，科大讯飞的耳机也是在AI硬件领域的一个例子。</div>
-</div>
-<div class="qa-item">
-<div class="question"><strong>Q:</strong> 目前有哪些公司在做AI智能眼镜，并且市场状况如何？</div>
-<div class="answer"><strong>A:</strong> 中国现在可能有超过100家公司在研发AI智能眼镜，媒体称之为“百镜大战”。包括百度、华为、小米、蜂巢、雷鸟、Rocket闪极、魅族等众多公司都在制作VR眼镜，同时各厂商在发布旗舰手机时也强调了AI能力，例如苹果Apple也有可能在其产品中加入AI功能，目前在测试百度文心一言。</div>
-</div>
-<div class="qa-item">
-<div class="question"><strong>Q:</strong> 真实AI硬件在华强北的情况是怎样的？</div>
-<div class="answer"><strong>A:</strong> 记者去华强北调查发现，真实的AI硬件产品主要包括AI大模型翻译机、AI手机壳（可生成图片显示区域）、画图机等，这些体现了AI技术在实际应用中的部分功能。</div>
-</div>
-<div class="qa-item">
-<div class="question"><strong>Q:</strong> 关于中国公司身份以及投资现象有哪些观察？</div>
-<div class="answer"><strong>A:</strong> 首先观察了“China还是chinese”的问题，讨论了三家公司的情况，它们虽有中国背景但在运营上有所不同。其次谈到“三级火箭”现象，即输入法、浏览器、搜索引擎等领域的公司纷纷推出AI相关功能。第三个观察点是关于投资利息购买和团队维持，一些公司在短时间内快速融资，其资金主要用于团队维持和运营，而非基础模型训练。第四个观察是关于真独立开发者，AI技术对独立开发者有巨大赋能作用。最后提及第五个观察，即部分人仍试图通过捏个3D小人跑跑跳跳等方式实现元宇宙梦想，但这种方式可能并不符合市场需求。</div>
-</div>
-<div class="qa-item">
-<div class="question"><strong>Q:</strong> 国内一级市场现状如何？</div>
-<div class="answer"><strong>A:</strong> 根据数据和分析，当前国内一级市场表现低迷，创业公司成立数量和PEVC募资金额均大幅下降，尤其是美元募资大幅度减少，人民币主导成为市场主流。同时，退出渠道中回购案例增多，而IPO和并购活动却相对较少。清科数据显示，前三季度发生2856例退出，同比下降56.7%，IPO数量也有所下滑。汪华老师认为认知变现速度在二级市场更快，导致资金更多地流向确定性回报的投资，这一现象成为AI在中国发展的重要障碍。</div>
-</div>
-<h1>节目文稿</h1>
-<p class="transcript-line">
-<span class="time"><strong>[00:00:07]</strong> </span>
-<span class="speaker"><strong>发言人1: </strong></span>
-Hello, 大家好，我是明浩。关注我极客的人应该知道，我最近在准备这期的内容，大概前前后后准备了两周的时间。之前说过每年年底的时候都习惯做一些类似年度总结的PPT。之前这些年可能更多是随机性的，可能有朋友找你，或者是你觉得某个话题值得聊会做。今年这次因为有了博客，所以会觉得需要主动做一下，所以有这些内容。
-</p>
-<p class="transcript-line">
-<span class="time"><strong>[00:00:35]</strong> </span>
-<span class="speaker"><strong>发言人1: </strong></span>
-然后是关于2024年AI行业一整年的整理，其实也起源于去年差不多11月底的时候，做了一期叫AI一年人间10年是总结ChatGPT发布一年的时候这一波的状况。今年算两年，所以其实这期节目的准备应该是在11月底到今天，其实两周多的时间。也是因为到年底各家发产品的东西的节奏特别的快，包括OpenAI正在进行中的12天的直播。说这几天基本上每天一睁眼，你发现之前做的几张PPT要改了，每天都是这样。那如果再不发我觉得要改的东西就太多了。所以我在大概周四周三的时候把这个PPT正式结束了。最后是132页做一次录制整理。
-</p>
-<p class="transcript-line">
-<span class="time"><strong>[00:01:25]</strong> </span>
-<span class="speaker"><strong>发言人1: </strong></span>
-好，我们下面正式开始。我在开始之前想过很多关于这个总结的标题，后来也没有找到一个特别合适的。所以我现在用的这个标题叫我们到底该如何记录AI行业这一年，这是一个特别平的标题对吧？
-</p>
-<p class="transcript-line">
-<span class="time"><strong>[00:01:45]</strong> </span>
-<span class="speaker"><strong>发言人1: </strong></span>
-然后我们就从这个标题说起。刚才我说过我们在去年的时候做过一期叫一年人间十年。大家翻我的博客应该还能找到这些节目。然后我就问了ChatGPT，我说我是一位科技行业的分析师，我去年写了这样一个标题的内容来描述二三年的AI行业发展。那我今天也需要写一个类似的东西，你能不能给我一些标题的建议？当然列了很多很多十几个宝宝，我又让他练习，包括去问了一些别的大模型的产品。然后在这些备选的标题里面有一个叫AI两年人间20年。我说我看这个标题的第一反应是，你这么糊弄我了，对吧？然后我就把这个事情发到了即刻上，有两位网友的评论，我觉得是对我而言是一个大气层的理解。
-</p>
-<p class="transcript-line">
-<span class="time"><strong>[00:02:38]</strong> </span>
-<span class="speaker"><strong>发言人1: </strong></span>
-第一个网友评论是说这个GPT回答其实是正确的，它代表着the law的失效，大模型只能开始进行线性的外推。关于sky now是否失效，可能也是过去这几个月业界讨论比较多的一个话题。然后第二个网友是说GPT开始懂推理和数学了，那可能也是这一年大模型的进展之一。所以你会发现这个标题可能也对，就是因为如果按原来的标题AI一年人间十年，那AI两年应该人间100年才对，对吧？应该是十的平方，可是他只给了20年，所以这是一个小小故事。所以我们第一个小的话题叫sky了。真的放缓了吗？我们看一些数据统计的话，从两个维度来看。
-</p>
-<p class="transcript-line">
-<span class="time"><strong>[00:03:25]</strong> </span>
-<span class="speaker"><strong>发言人1: </strong></span>
-第一个维度是模型的算力增速，大概依然保持着每年4倍到4点1倍的左右的这个速度还在增长。但是有个现实的问题在于，我们从数据规模的角度来看，这个速度已经是放缓到2.9倍每年。并且从曲线上来看，可能到28到29年左右，整个的数据的瓶颈就达到了。也就是说没有什么数据在未给他不行了。所以这是针对这个问题的回答。
-</p>
-<p class="transcript-line">
-<span class="time"><strong>[00:03:52]</strong> </span>
-<span class="speaker"><strong>发言人1: </strong></span>
-然后我们正式开始今天内容。今天内容其实分了我分了八个章节，按中美两国的情况来分，中国四个，美国四个。然后这四个内容的主题是对应的。第一个主题都是大模型，第二主题是关于巨头们的，第三个主题是关于应用方向的，第四个主题是关于我所熟悉的一级市场的。我们一个一个展开先聊。
-</p>
-<p class="transcript-line">
-<span class="time"><strong>[00:04:17]</strong> </span>
-<span class="speaker"><strong>发言人1: </strong></span>
-第一个主题叫舞台中心的open AM，也就是聊一聊美国的大模型公司们。当然首当其冲的是open I对吧？我们回看open I这一年的产品进度，在今年24年的二月份，他们发了sora的视频？他们并没有发骚扰的这个产品？所以在那个时候有很多媒体说物理学不存在了，这是世界引擎，这是多模态的终极示范。但是到今天，我在写PPT的时候依然是期货对吧？那大家知道其实前两天sorry发布了，后面也会讲到。
-</p>
-<p class="transcript-line">
-<span class="time"><strong>[00:04:55]</strong> </span>
-<span class="speaker"><strong>发言人1: </strong></span>
-然后到今年5月份的时候，GPT发了4O，是第一个真正意义上的跨文本视觉和音频的模型。然后在语音模式上，在那个示范里面大家如果有印象的话，他对语音的理解跟回复的速度是非常快的。然后大家会说电影中那个her的原型实现了。
-</p>
-<p class="transcript-line">
-<span class="time"><strong>[00:05:13]</strong> </span>
-<span class="speaker"><strong>发言人1: </strong></span>
-然后在今年9月份的时候，GPT发了O1，大家会认为代表了大模型技术的一次技术范式的改变。O一开始更擅长做推理以及多部的复杂问题的解决。大家开始强调大模型的训练，从原来的预训练开始转向强化学习跟后训练。我一开始更多的研究数学编程跟引发这一轮所谓agent代理类的大模型创业的方向的变化。然后回头来看的话，我没有等来传说中的GPT5，当然你就更没有等来所谓的AGI。但是你说我朋友不努力吗？我觉得也不能这么说。
-</p>
-<p class="transcript-line">
-<span class="time"><strong>[00:05:50]</strong> </span>
-<span class="speaker"><strong>发言人1: </strong></span>
-然后对于open这家OpenAI这家公司而言，1424年最重要的事情是他们以创纪录1570亿美金的估值融了66亿美金。他们的新上任的CFO靠一张OpenAI facebook google成立年限的，不产品上线年限的前几年的收入曲线的对比图，搞定了这轮超过60亿美金的融资，非常的厉害。1570亿美金的估值，你可以为等于zoom加Snapchat，加一堆公司，加很多很多公司加在一起才对应它的估值。同样的融资就代表着这个公司的股份价值的再次提升。
-</p>
-<p class="transcript-line">
-<span class="time"><strong>[00:06:32]</strong> </span>
-<span class="speaker"><strong>发言人1: </strong></span>
-其实去年这个时候，周亚辉周老板发过一条朋友圈。他说在美国那边，欧洲还很牛逼一点在于，或者说sam很牛逼一点在于，他每年都会找机会找钱，让open I的员工的期权可以直接变现，每年都是。今年这一轮其实也一样，今年这轮的融资应该是发生在Q3，但是在Q四年底的时候，有一轮加轮是软银投的。软银除了5亿美金的新股之外，跟open I close的一个deal是15亿美金的老股。也就是open I的员工在今年年底这个时间点，可以以这种估值的方式，你可以选择卖或者不卖。Sam每年都会做点事情，所以当时就和周老板说，sam牛逼一点就在于这个事情。因为你会发现在当今的这个环境下，在美国那个人才密度急剧竞争激烈的环境下，这些高端的人才对于所谓期权价值的日这个理解是非常现实的。
-</p>
-<p class="transcript-line">
-<span class="time"><strong>[00:07:33]</strong> </span>
-<span class="speaker"><strong>发言人1: </strong></span>
-但是你回头来看，欧克兰这一年比较重要的一个事情是说，又有非常重要核心的团队的人离开了。OVI成立最早的11个人，到今天其实只有两个人还在团队里。看上去通过老虎变现的方式并没有解决所谓核心团队的流失。当然就是晚点前两天写了篇文章。其实他的意思是说OMI其实从最早到今天，其实已经换了非常多的人。他们从一个纯技术导向的实验室性质的非营利性组织的公司开始，慢慢变成一个商业化的公司。所以加了更多的产品运营的人，然后整个团队也经历了比较大的换血，你很难说他对或者错。
-</p>
-<p class="transcript-line">
-<span class="time"><strong>[00:08:15]</strong> </span>
-<span class="speaker"><strong>发言人1: </strong></span>
-然后我们再看看这家公司，我当时做这张图的时候，我想了一个方式是说我把sam作为open的CEO要去解决跟每天要去面临的问题列出来，然后给他做一个可视化的表达。然后我就列了几项，比如说他要去解决跟微软的关系。微软既是他最大的财务投资者，也是它的云的提供方，同时可能某种意义上也是他的竞争对手。微软自己也在做自己的大模型copilot agent，所有事情都在做，包括软件订阅收入，对吧？
-</p>
-<p class="transcript-line">
-<span class="time"><strong>[00:08:47]</strong> </span>
-<span class="speaker"><strong>发言人1: </strong></span>
-然后他下面要解决跟英伟达的关系，要不要一直用英伟达的芯片建技术中心，要不要做别的可能的尝试。他要解决财务投资人的问题，因为财务投资人的股份利益要变现，要升值。然后他要解决竞争对手的问题，因为过去一年cloud的sob cloud发展非常好，看上去比OKI的发展状态更好，同时还要解决团队的问题。所以大概列了，当然更重要的是可能解决政府的问题。他甚至不仅要解决美国政府的问题，他要解决欧洲，甚至中国、新加坡，全世界各国欧盟的各种各样的政府之间的问题。有一段时间sam就跟奥特曼，真的跟奥特曼一样，全世界各国飞去见各国的首脑。
-</p>
-<p class="transcript-line">
-<span class="time"><strong>[00:09:31]</strong> </span>
-<span class="speaker"><strong>发言人1: </strong></span>
-然后其实最后就归纳了六项，然后我就把这六项的内容输入到了一个专门做文字内容可视化的AI工具里面。然后生成的图里面有一张图是一个六个花瓣结在一起的图。然后你发现恰恰这个图的示意跟open I的公司logo是几乎一模一样的，欧派的logo也是六个结连在一起的。所以sam可能在解的问题是当今世界上最复杂的商业政治金融问题之一，包括技术。
-</p>
-<p class="transcript-line">
-<span class="time"><strong>[00:10:06]</strong> </span>
-<span class="speaker"><strong>发言人1: </strong></span>
-刚才提到他竞争最大竞争对手anthropic的cloud。过去这一年cloud可以说是异军突起，上个月有一份报告，当然这是数据调研报告。在他的统计里面，我们现在过去一年的市场份额从50%掉到34%，降了16个点。SPK从12%涨到24%，涨了12个点。就是说基本上我发现丢掉的东西都被cloud吃掉了。当然还有几个点是被google吃掉了。
-</p>
-<p class="transcript-line">
-<span class="time"><strong>[00:10:34]</strong> </span>
-<span class="speaker"><strong>发言人1: </strong></span>
-然后anthropic背后是亚马逊作为最重要的战略投资方支持的。亚马逊连续三轮投资这家公司，已经投了在这公司上放了80亿美金，占股58.4。并且最近有新闻是SO pic在跟AWS深密的合作建立数据中心，并且用阿马龙自己的芯片。所以从OKI跟isobel的情况来看，本质上来讲很多人会说OpenAI是微软的话事人，azo pic是亚马逊的话事人。那在这门竞争当中，这件事情会非常的重要，后面会讲到。
-</p>
-<p class="transcript-line">
-<span class="time"><strong>[00:11:09]</strong> </span>
-<span class="speaker"><strong>发言人1: </strong></span>
-然后cloud有多强呢？我举一个现实的例子，可能和大家可能还有印象的是，cloud在3.5的时候发布了一个也引发了行业很多copy跟很多借鉴的功能，叫computer use。就是真正用上AI模型，可以控制电脑或者控制手机来去进行很多的操作。那这是一它引发了一系列的关于这一个功能的模仿，国内大模型也一样。
-</p>
-<p class="transcript-line">
-<span class="time"><strong>[00:11:33]</strong> </span>
-<span class="speaker"><strong>发言人1: </strong></span>
-然后另外一个案例是我在一篇公告上看到的，就是他举这个例子是说，如果我今天有一个需求是说，我希望用华尔街日报体来去写大闹天宫。那如果是之前的大模型的技术能力，我们可能这个描述词要写非常的长，对吧？我要不要写把相当于你要把华尔街日报到底是一个什么样的文体，比如它的结构是怎么样的，你需要发展论证，然后他联系是什么样，完整性是什么样，行文结构是什么样的，有什么样的观点，有什么样的正方的观点，反方的你要把所有这一套东西写的非常长才可以。但是今天你用cloud，你直接可以跟他讲，请用华尔街日报体写一篇大闹天宫，他就可以帮你写了。也就是说今天这个时间点的头部大模型的技术能力已经发展到这个阶段了。
-</p>
-<p class="transcript-line">
-<span class="time"><strong>[00:12:23]</strong> </span>
-<span class="speaker"><strong>发言人1: </strong></span>
-除了open a跟SO pic之外，还有一家不得不提的是最新上任的摄政王马斯克支持的X一对吧？这引发了很多人探讨，是说到底基础大模型这件事情的这个商业模式跟这个方向能支持几家初创公司。为什么会讨论这个问题？你会发现这件事情至少在美国，美轮的状况是说这些公司的融资规模每轮是按10亿美金为单位计量的。然后对于团队人才密度有近乎于苛刻的要求。然后这些公司开始频繁的触碰各种异常的天花板。比如说钱就不用讲了，比如说能源的天花板？数据量的天花板。
-</p>
-<p class="transcript-line">
-<span class="time"><strong>[00:13:06]</strong> </span>
-<span class="speaker"><strong>发言人1: </strong></span>
-然后再看马斯克为什么能够在OPPO topic这么强的基础上还能再做呢？可能是因为马斯克这个人，就是有个说法是说他是不会让兄弟们吃亏的那第一个层面就是他不会让参加到XAI的创业的兄弟们吃亏。第二层，因为之前他在私有化推特的时候，拉了很多投人进来。推特现在的市值应该照他私有化跌了七成应该有。那这些人理论上账面是亏了钱的那马斯克怎么补偿他们呢？马斯克在XCI里面批了25%的股份给这些投资人。XI现在大概是500亿美金，我没记错的话，那25%就是一百多亿美金了。第三层就是刚刚上任的总统特朗普跟马斯克之间的关系，对吧？所以X一应该也还值得期待。
-</p>
-<p class="transcript-line">
-<span class="time"><strong>[00:13:56]</strong> </span>
-<span class="speaker"><strong>发言人1: </strong></span>
-然后我们整个来看，这过去这一年在美国大领域的角度来说，第一个很重要的问题在于成本的下降。从GPT4刚刚发出来的时候，每100万token需要36美金。到今天four mini大概每100万的token只需要0.5美金。降了两个数量级。这引发一个讨论是说推理成本的下降到底是否能够带来应用层的爆发。
-</p>
-<p class="transcript-line">
-<span class="time"><strong>[00:14:21]</strong> </span>
-<span class="speaker"><strong>发言人1: </strong></span>
-第二个问题讨论也比较多的是关于开源的闭源模型的对吧？然后你会发现过去这一年，开源领域模型的跟上的速度是非常快的。开源模型的头部模型跟最头部的闭源模型的技术能力的差距，原来可能是在一年半左右，今天可能已经追到只有九个月左右。最著名的当然就是欧美亚的拉玛，当然还有中国的，比如说阿里的千问，通义换方的deep sick。对，这个后面都会讲到。那你也会发现很多公司其实在内部使用过程中，也在频繁的用各种各样的开源模型来实施各种各样的功能。这是第一部分，关于美国的。
-</p>
-<p class="transcript-line">
-<span class="time"><strong>[00:15:03]</strong> </span>
-<span class="speaker"><strong>发言人2: </strong></span>
-A大模型的。
-</p>
-<p class="transcript-line">
-<span class="time"><strong>[00:15:06]</strong> </span>
-<span class="speaker"><strong>发言人1: </strong></span>
-好，我们下面进入第二部分，讲那些迅速达成共识的巨头们。首先看哪些巨头，这个所谓疯狂七巨头已经被无数的媒体在今年引用了七家公司分别是google、苹果、特斯拉、meta微软、亚马逊跟NVIDIA。然后deal ro m做了一个非常好的报告，叫疯狂的七家，他是用美国西部的牛仔的状态描述了七家公司。CEO的这个图我放在我的PPT里，然后这份报告也会放在说note的备注里。这份报告可能是我看过的今年比较优秀的报告之一。
-</p>
-<p class="transcript-line">
-<span class="time"><strong>[00:15:47]</strong> </span>
-<span class="speaker"><strong>发言人1: </strong></span>
-然后我如果我们把七巨头当成一个整体来看，巅峰今年大概十月份的时候，箱子市值到了17万亿，17.1万亿。今天应该是17万亿，17万亿就是1.17.11个training。然后如果我们看其他公司的市值的比例占比，整个美股的标普的这个比例的话是从35%一直涨到了今天的超过55%。也就是说七家公司的市值加在一起，已经比所有剩余的上市公司的估值加一起还多。所以我们可以说这一轮的关于AI的热潮，这七家所谓的巨头当然享受了最大的利益。
-</p>
-<p class="transcript-line">
-<span class="time"><strong>[00:16:29]</strong> </span>
-<span class="speaker"><strong>发言人1: </strong></span>
-这七家公司每一家其实都超过千亿。千亿的美金从过去两年的情况来看，还能这么涨真的是非常少见的。最长的最多的可能是维DR过去两年已经今年已经涨了176.8%，快两倍了。然后苹果19.8，微软12.6，亚马逊39.2，google 19.4，ta 59.4，特斯拉40.3。我还是说那个前提，这都是千亿美金以上的公司长这个样子。如果我们再把时间线拉长到20年来看，这个数据就更恐怖了。我的PPT里放了一张非常可视化做的非常好的蜡烛图，大家可以感受一下。就是这几家公司从很小状态变成今天的参天大树。
-</p>
-<p class="transcript-line">
-<span class="time"><strong>[00:17:15]</strong> </span>
-<span class="speaker"><strong>发言人1: </strong></span>
-那这些公司到底形成了什么样的共识呢？我列了几个，第一个共识当然就是韦利亚自己，所以我放了两张梗图。第一张梗图是n media老黄被劈到了一个牵了可能十几只狗的养狗人的脸上。然后那些狗就分别是刚才我们聊的这些公司。然后另外一张梗图是一个类似耶稣的人扛着地球，然后那个地球上写的是整个地球的经济。那个耶稣就是N维利亚自己，也就是说整个世界的经济被N维利亚一家扛起来了。类似的梗图非常多，大家应该看到过。
-</p>
-<p class="transcript-line">
-<span class="time"><strong>[00:17:49]</strong> </span>
-<span class="speaker"><strong>发言人1: </strong></span>
-那为什么呢？就是我们只从一个很现实角度来讲，韦利亚既是七巨头之一，同时又是AI这一波最大的受益者。所以他是一个踢云纵的过程，对吧？就左脚踩右脚就飞上去了。
-</p>
-<p class="transcript-line">
-<span class="time"><strong>[00:18:04]</strong> </span>
-<span class="speaker"><strong>发言人1: </strong></span>
-当然造成结果是说，因为media的首先估值非常的高，曾经有一几天都是世界第一的世界第一大市值的企业。然后又因为它的波动性很大，所以如果我们统计标普的单天的上涨和下降的额度，那前几名其实都是很危的，比如当天他曾经一天涨过327个币，也就是说当天涨过3700 3270亿的这个上涨。然后跌也跌的最狠过，曾经当天跌过279个币，都是很稳定。然后我觉得盈亏平同源，就是你既然是最大的受益者，波动性那么大。当然这个统计的方式上，最头部跟最尾部的都是你。
-</p>
-<p class="transcript-line">
-<span class="time"><strong>[00:18:51]</strong> </span>
-<span class="speaker"><strong>发言人1: </strong></span>
-然后回看微丹这家公司来讲，过去这几年从他最早做游戏起家到区块链。区块链那一波享受了一波类似挖矿的红利，到AI这一波巨大的红利。整个三浪的叠加造成了维迪亚从之前可能1.2T的估值涨到了3.6个T，它的估值原来跟半导体其他行业的公司对比，可能英特尔AMD高通、博通加在一起是它的两倍，到今天他比所有人加在一起还多，那就是三浪叠加的结果。这是第一个共识。
-</p>
-<p class="transcript-line">
-<span class="time"><strong>[00:19:23]</strong> </span>
-<span class="speaker"><strong>发言人1: </strong></span>
-NVDA自己第二个共识是关于公有云的AI这一波最直接的收入体现是在云业务的收入体现上。美国是美国整个公有云市场最大的三家，亚马逊、AWS、google微软，然后以及google的云。三家加一起市场份额应该将近是70%左右，60%多。其实这三家公司公有云的业务在过去几个增长都非常的快。
-</p>
-<p class="transcript-line">
-<span class="time"><strong>[00:19:49]</strong> </span>
-<span class="speaker"><strong>发言人1: </strong></span>
-然后第三个共识是关于KPEX，也就是固定资产投入的。本质上来讲，我们同样看这三家云公司以及meta他们在过去的几年时间里面，尤其在过去两年时间里面，在每个季度的KPS上投入是爆发性的增长。截止到Q3单个季度的亚马逊的KPIKPS是22.6个币美金。也就是说226亿美金，微软是149亿美金，google是130亿美金，meta是83亿美金。一个季度也就是说这些巨头们一个季度在开发上投入是100亿美金级的。
-</p>
-<p class="transcript-line">
-<span class="time"><strong>[00:20:27]</strong> </span>
-<span class="speaker"><strong>发言人1: </strong></span>
-然后他们去买什么呢？当然就是比如说买100H100的显卡，H100单片是3万美金，大家可以算一下。所以我用一句我经常听的不开玩笑的主播大萌讲的一句话说，钱永远都是成年人世界最简单的衡量标准。所以我们只看钱的花费来说。
-</p>
-<p class="transcript-line">
-<span class="time"><strong>[00:20:47]</strong> </span>
-<span class="speaker"><strong>发言人1: </strong></span>
-在当今的AI行业有三类玩家。第一位玩家叫科技巨头们。就刚才我们讲的这些公司，他们每一年的KPS投入应该是大几百亿美金这个体量。就是说他们的计量单位是百亿美金。然后主要玩家就第二档，可能是刚才我们聊过的几家初创类的模型公司。OpenAI也好玩，消费也好，XX一也好，他们的投入应该是10亿美金这个体量或者几十亿美金这个体量。再一层叫AI的挑战者，他们是按每年几亿美金这个量来去参与这场竞争的那钱当然是最直接的体现，从百亿美金到10亿美金到几亿美金就是这个状态。
-</p>
-<p class="transcript-line">
-<span class="time"><strong>[00:21:27]</strong> </span>
-<span class="speaker"><strong>发言人1: </strong></span>
-大家可以延展一下，中国的公司们的状态是什么样，应该放到哪个象限里？前我觉得梦龙就是军备竞赛，对吧？大家都去买HE的显卡了。截止到二三年底有统计是说meta跟微软是有最多的HE显卡大概都有150k google、亚马逊、oracle、腾讯都有50K像百度字节可能有几十K然后到今这是二三年底的数字，到24年底的时候，大家的数字开始提到了大几十K甚至超过100万。然后如果再考虑25年新的GB2GB200的芯片的叠加，所有这些头部的巨头公司，每一家的卡的数量可能是在翻3翻到4番的在增长。那这些卡拿来干嘛？当然就是做数据中心，对吧？
-</p>
-<p class="transcript-line">
-<span class="time"><strong>[00:22:20]</strong> </span>
-<span class="speaker"><strong>发言人1: </strong></span>
-在全世界各地，数据中心这个业务也在频繁的暴涨。无论是中国还是美国，甚至东南亚、越南这些地方。当然这就再次成就了共识的第一点。按V点你会发现我们去拉按V点每个季度的收入构成。今天这个时间点它超过75%的收入来自于数据运行业务。之前作为它最最主要的收入贡献来源的gaming游戏，已经大概只有可能十个点不到的样子，然后other更小了。这是第三个公司固定资产投资。
-</p>
-<p class="transcript-line">
-<span class="time"><strong>[00:22:56]</strong> </span>
-<span class="speaker"><strong>发言人1: </strong></span>
-第四个公司往上游去。因为之前红杉在O一发布之后，红杉美国发了一个报告来去对AI行业进行了一次分层。它大概分了6层，最上层当然就是消费者层，消费者用的你可以列为应用层，然后是模型层，然后是云这一层，然后是info这一层，然后是芯片这一层，然后是代工这一层，也就是芯片设计跟代工这一层。那你会发现我们刚才提到的几家巨头，其实都在今天开始往芯片这一层走。他们甚至除了做芯片之外，还是往芯片设计那一层去走。Google、亚马逊、微软、meta都有。而且就在我做这个报告的这两周时间里面，google亚马逊都发了他们新的芯片的这个技术能力。
-</p>
-<p class="transcript-line">
-<span class="time"><strong>[00:23:47]</strong> </span>
-<span class="speaker"><strong>发言人1: </strong></span>
-然后一个很简单的说法就是说没有人想被卡脖子，对吧？所以大家都想自己做自己的芯片，并且通过投资合作的方式孵化整个生态，让这个生态上的公司也用他们的芯片。典型的比如说亚马逊跟SOPIC的合作有个很重要的绑定关系。就是说SSOP除了要用AWAW云之外，也要用阿玛尼的芯片。这是网上要去的第一种选择。第二种选择就是往再上手去去能源。你会发现有无数的新闻是说这几家科技巨头开始做核能的电厂，做太阳能的各种各样的尝试。包括做新能源的数据中心。
-</p>
-<p class="transcript-line">
-<span class="time"><strong>[00:24:31]</strong> </span>
-<span class="speaker"><strong>发言人1: </strong></span>
-然后很有意思一点是，我们看截止到9月的数据，也就是Q3我们按大类来分，标普的所有大类来分，我们理应会觉得今年上涨最好的分类应该是信息科技。就刚才我们了解巨头，但对不起，不是今年整个标普在前。Q3按行业来分，涨得最好的是基础设施、能源、水电煤这些公司。然后所有的公司开始尝试，典型的最多的应该是核能。
-</p>
-<p class="transcript-line">
-<span class="time"><strong>[00:24:58]</strong> </span>
-<span class="speaker"><strong>发言人1: </strong></span>
-大家开始在这个事情上，无论是投资并购建厂，因为你会发现大模型这件事情开始触碰到人类的能源的某种意义上的跳板。共识四往上游去，无论是芯片还是能源。共识五投资跟并购，今年比较有名的3起并购，google收Carry点AI，微软收inflection，amazon so adapt, 都是最典型的是并购。当然他们这几家巨头也在疯狂的对外投资各种各样AI相关的公司。
-</p>
-<p class="transcript-line">
-<span class="time"><strong>[00:25:31]</strong> </span>
-<span class="speaker"><strong>发言人1: </strong></span>
-在这件事情确立成为共识之后，所有的巨头们疯狂的在用投资的手段来去做整个生态的建设。共识物投资与并购。当然最后一个共识是自己的业务也不会被落下。Media的各种各样的芯片，微软的copilot苹果今天发了苹果的apple intelligence，google在昨天晚上发了他的jimi 2.0对吧？然后meta的luma的开源客户端，然后特斯拉的PFSD13也是最近发布的。
-</p>
-<p class="transcript-line">
-<span class="time"><strong>[00:26:05]</strong> </span>
-<span class="speaker"><strong>发言人1: </strong></span>
-然后我在做这张PPT的时候，本来在亚马逊的这个图的事情上，我是没有东西放。因为亚马逊在上周之前这件事情上，实际上除了他有芯片之外，没有什么自己的模型。也是在上周AWS的今年大会上，亚马逊发了他们自己的大模型nova所以我更新了这些PPT。亚马逊有自己的大模型，有自己的芯片，所以你会发现巨头不会把自己的业务落下的这就是所有的公式。
-</p>
-<p class="transcript-line">
-<span class="time"><strong>[00:26:33]</strong> </span>
-<span class="speaker"><strong>发言人1: </strong></span>
-讲完了大模型创业公司讲完了巨头，我们开始讲第三个话题。我起的名字叫大明星之外的落地场景与应用。因为大家都会说24年应该是AI的应用年对吧？那我们就看到底有什么样的应用。我在做每一年的这种统计分析的时候，你会发现其实把重分类众多的项目，繁杂的项目进行分类，这个分类本身就是一个巨大的工作量。我单纯只把AI领域的相关的独角兽的列表拉出来，大概已经有超过140家公司。把这些公司分类按什么分，这件事情就是一个巨大的活。
-</p>
-<p class="transcript-line">
-<span class="time"><strong>[00:27:13]</strong> </span>
-<span class="speaker"><strong>发言人1: </strong></span>
-回头来看，比如说九月份O一发布之后，红杉美国写了一个报告，里面他画了一张关于AI相关的公司的应用的图。其实它只分了三层，也就是说他把亚马逊、vidia、google的云、微软的云定义为infer层，然后OpenAI sso pic XE定义模型层。他把剩下的所有公司全部统一叫APP。那这种分类方式就过于没有意义了，对吧？那他就把都放在一起了。比如说在看H6Z它每半年会更新的这个top 50的生成式AI的网站加top 50生成式AI的APP的统计。他在最后一次更新应该是今年9月份发的，他也发了一次这样一个图。
-</p>
-<p class="transcript-line">
-<span class="time"><strong>[00:27:58]</strong> </span>
-<span class="speaker"><strong>发言人1: </strong></span>
-我们来看它的分类方式里面，可能他把50个web，50个APP各种各样的分类方式。比如说是又分成搜索、内容生成、内容编辑、然后助理、然后教育、然后营销，按这种方式来分。他的换算方式是说他先按访问量跟MAU去把前五十拉出来，然后再去分析这100个项目的分类。我就要反问，按这个前提条件就是按访问量跟MU来去拉top是不是合理的方式？那你会发现其实天生的有很多类别，虽然他公司业务流很大，但是他进不了这个榜单。那它应该被统计吗？我不知道，但是我觉得H6Z给了一种划分方式。
-</p>
-<p class="transcript-line">
-<span class="time"><strong>[00:28:48]</strong> </span>
-<span class="speaker"><strong>发言人1: </strong></span>
-那你会发现把所有这些项目列在一起，有做to c的，有做to b的，有做专门给我们叫创作者的to p的对吧？To这个图专业人士的那你说所有项目其实你很难去以一个非常严苛的标准画的非常的清楚。然后你看很多报告里面，他们会方式也不同。比如他们会认为金融、法律、生物医药这种方式是一种行业的划分。他们可能又分HR设计知识、客户关系管理、财务，是企业内部分工的角度。那到底是to b还是to c分不清对吧？
-</p>
-<p class="transcript-line">
-<span class="time"><strong>[00:29:24]</strong> </span>
-<span class="speaker"><strong>发言人1: </strong></span>
-那既然分不清，我索性就不分了，我用另外一种方式来做这件事情。我把过去这一年能够想到的，某几天在你朋友圈被刷屏的，无论是应用还是一个方向的探讨拉出来。然后我想了一下大概有几个方向，我最后列了六个，分别是多模态搜索代码，社交agent的硬件六个我一个一个来讲，多模态。可能又这一年又分视频，3D跟语音。很多人听到就会说那图片去哪儿了？我会觉得这一年因为图片的AI生成的图片的这件事情，是要比ChatGPT再早一年的。也就是说图片早就已经进入生产管线里面，AI图片的生成在今年已经进入到下一个next level了。
-</p>
-<p class="transcript-line">
-<span class="time"><strong>[00:30:12]</strong> </span>
-<span class="speaker"><strong>发言人1: </strong></span>
-然后我们分别来看视频三弟跟语音视频板块。回头来看，我们今年是2024年，其实AI视频生成2023年也有一些公司在做，当年的runway跟皮卡其实已经有产品在，或者也有测试的视频在放出来了，然后一些头部公司也在做。但是现在回头来看整个二三年的AI视频领域的进展，我觉得就跟过家家一样，对吧？几乎可以忽略不计。
-</p>
-<p class="transcript-line">
-<span class="time"><strong>[00:30:36]</strong> </span>
-<span class="speaker"><strong>发言人1: </strong></span>
-然后在我第一次第一版做这个报告的时候，sorry还没有发布。但sorry那几天出了个新闻，一些第一批参与骚A测试的艺术家们，可能由于对版权还是各种各样处理的不满，把骚扰泄露了。所以当天有几个小时的时间，大家其实在美国是可以测试到。sorry.
-</p>
-<p class="transcript-line">
-<span class="time"><strong>[00:30:57]</strong> </span>
-<span class="speaker"><strong>发言人1: </strong></span>
-但是这个事情在3个小时之后，我们发现之后就赶紧把那个网页关把那个地址关闭掉了。所以当时就有人用现在的视频生成模型做了一张梗图，就是sam坐在那儿接受访问，然后突然间出了事情，他跳转到背后把那个网线拔掉了。这个梗图其实也代表了今年这个时间点主流的AI视频生成模型能够做到什么样子的状态。所以我们可以看到这个形式，然后也就是在前几天，sara正式发布了。
-</p>
-<p class="transcript-line">
-<span class="time"><strong>[00:31:28]</strong> </span>
-<span class="speaker"><strong>发言人1: </strong></span>
-很多人标题用了大概比如说王者归来这种这这种方式。但是你细看，sorry, 今天发的东西去跟尤其跟今天这个世界上市面上其他的AI视频生成模型的对比跟状态来说，我很难去用王者归来来形容。我甚至觉得他可能在产品，在功能体验，在工程上的努力，我们看得到。因为今天sorry发了发出来之后，他强调的很多功能其实是在这件事这些层面上。可能也是因为I视频生成在过去这一年发展的真的太快了。所以我们可以看到过去这一年，比如说runway皮卡、hyper, 各种各样的AI视频生成的模型工具的发展状态。大家从最早的生成到编辑到细化，到具化的动作追踪，图片生成视频、文字生成视频，各种各样的细化。你会发现这一年视频生成的领域进展非常的快。
-</p>
-<p class="transcript-line">
-<span class="time"><strong>[00:32:25]</strong> </span>
-<span class="speaker"><strong>发言人1: </strong></span>
-然后第二个板块3D，去年的时候去年年底的时候有一波关于AI3D素材的小浪潮。然后就在我做PPT的这两周，你会发现三弟这件事情进化到也进化到next level了。李飞飞总的word labs发了一张图，直接生成一个三弟的场景。然后google的d deep mind也发了一个类似的东西，你可以输入一句话就生成。比如我说我在一个类似太空飞船的场景里面，然后它直接生成了一个3D的太空船。你可以用AWSD的方式去控制，你去在里面走。也就是说3D生成从原来的素材生成进化到了全景生成多模态。
-</p>
-<p class="transcript-line">
-<span class="time"><strong>[00:33:09]</strong> </span>
-<span class="speaker"><strong>发言人1: </strong></span>
-然后第二AI搜索，我觉得AI搜索在当出来的第一天，就被认为是所有人看到的第一步，看得到的地方。所以你会发现google也好，微软也好，所有做原来搜索引擎的公司都在疯狂的做AI搜索。当然也有代表公司，比如说像proxy这种公司也在做I搜索。在上周plexi融上个月已经90亿美金了。但是有一个我们没法去解释，或者说很多人不愿意承认的结论是说，AI搜索的公司们的搜索的量并没有显现出一个特别强势的状态。即便我们作为用户而言，会认为这一波的I搜索对原有搜索的冲击非常的强。可是原有搜索公司做的也很好。
-</p>
-<p class="transcript-line">
-<span class="time"><strong>[00:33:55]</strong> </span>
-<span class="speaker"><strong>发言人1: </strong></span>
-AI搜索然后代码生成，我直接用了一个克的报告的标题叫code smarter not harder。也就是说今天这个时间点，代码这件事情变得越来越简单，或者说代码生成变得越来越智能。然后在这个报告里面整理了当下所有关于AI代码相关的公司。它的飞行方式有，第一类公司是增强现有的工作流的，它可能是做代码生成的copeland或者编译器的。然后第二种是做agent的，实现端到端的。第三种是专门针对特定模型的基础代码。比如说专门针对前端的，专门针对各种各样的场景的那都是在那个时间点对这一波在做AI代码生成的公司的总结。
-</p>
-<p class="transcript-line">
-<span class="time"><strong>[00:34:36]</strong> </span>
-<span class="speaker"><strong>发言人1: </strong></span>
-直到这个领域出现了一家代表公司，科sir那棵sr的出现，大家开始惊呼到代码生成到了真正一场所谓GPT时刻。然后从科学家公司的收入变化来说，他从去年的可能100万美金的收入涨到今年涨了将近64倍。也就是说2024年预估截止到11月份，这家公司今年已经有六千多万美金的收入了。就科技的技术能力跟实现状态，行业内的从业者应该都很了解。
-</p>
-<p class="transcript-line">
-<span class="time"><strong>[00:35:05]</strong> </span>
-<span class="speaker"><strong>发言人1: </strong></span>
-代码生成。然后社交看上去社交陪伴娱乐看上去可能是to CAI应用的希望。但是在这一年，本来这个希望的代表公司Carry点AI被google收购了，对吧？那cry点I最后的这个被收购的结果到底意味着什么？就意味着AI陪伴这条路可能不太。理想吗？
-</p>
-<p class="transcript-line">
-<span class="time"><strong>[00:35:33]</strong> </span>
-<span class="speaker"><strong>发言人1: </strong></span>
-那我觉得可能是我觉得更多原因是在开瑞典这家公司自身上。因为这家公司其实底子里是想做模型的。但是模型这个生意的竞争已经变成另外一个维度的前人能源的竞争了。那这公司的融资就没有跟上，产品化的运营跟推广也没有跟上的情况下，两边受阻。最后只能接受这样的结果。
-</p>
-<p class="transcript-line">
-<span class="time"><strong>[00:35:53]</strong> </span>
-<span class="speaker"><strong>发言人1: </strong></span>
-但他可能没有办法去证明AI陪伴跟他社交不是一个好的方向。但是从结果来看，似乎在美国或者说在英文语境里面，only fans成功的世界达成似乎只有only find成功的世界达成，对吧？因为only fans s加了一个AI的这个，就是这些明星们可以有一个类似AI聊天的功能，你可以以一个跟他的AI分身去聊，然后去提升他的付费转化率。然后过去两年only fan s的收入涨得非常的快。
-</p>
-<p class="transcript-line">
-<span class="time"><strong>[00:36:23]</strong> </span>
-<span class="speaker"><strong>发言人1: </strong></span>
-然后agent可能也是OE发布之后，大家会认为真正意义上的技术范式或者说产品范式，要从原来的copilot到所谓agent。Agent今天也会分各种各样层级的创业公司。我们就会问，包括其实头部的这些公司，无论是meta微软还是GPT自己其实都在做各种各样agent平台。那agent真的能够成为新的一波的技术范式？我觉得也今天这个时间点还没有办法下结论。
-</p>
-<p class="transcript-line">
-<span class="time"><strong>[00:36:57]</strong> </span>
-<span class="speaker"><strong>发言人1: </strong></span>
-然后最后一个关于硬件，就是软的不太行，那我们反应呗，对吧？那这种关于AI硬件的讨论也很多，上半年有两个不太成功的案例？一个是AIP，一个是redit，一个是挂在胸前的一个不知所云的可以投影的东西，一个是一个正方形的安卓带屏的设备，吧？就是虽然当时的新闻很多，讨论也很多，出货量也还可以，但是你很难说这些东西阶段性达到了一个让人满意的状态。
-</p>
-<p class="transcript-line">
-<span class="time"><strong>[00:37:24]</strong> </span>
-<span class="speaker"><strong>发言人1: </strong></span>
-那有没有让人满意呢？有可能是下半年大家讨论最多的雷朋和meta的那个眼镜，出货量两百多万台。然后还有可能是ora跟三星做的那个他们都做了，不是他们联合做戒指，那家公司也卖了两百多万台戒指，然后融了50亿美金，最近一轮融50亿估值按估值50亿美金融了大概大几千万美金。这轮投资者是一家做，我没记错的话是做医疗相关的数据公司。比如说这个事情开始跟医疗相关，那眼镜也好，戒指也好，就是阶段性的正确答案了吗？我们也不知道，可能我们要到后面中国的部分才会知道。
-</p>
-<p class="transcript-line">
-<span class="time"><strong>[00:38:06]</strong> </span>
-<span class="speaker"><strong>发言人1: </strong></span>
-这是第三部分关于方向的。第四个部分关于一级市场的。我起的标题叫始终代表先进生产力的VC们在投什么？第一个问题就是说VCM真的在代表先进生产力吗？我用了一张之前做I跟移动互联网总结的一张图，就是硅谷银行整整理的一张图。他把过去这几十年整个科技行业的浪潮，用公司的市值的曲线，以及对应年份成立基金的对应的列表做了一个整理。那你会发现确实每波的技术浪潮背后都可以跟一批基金的兴衰相关联。
-</p>
-<p class="transcript-line">
-<span class="time"><strong>[00:38:52]</strong> </span>
-<span class="speaker"><strong>发言人1: </strong></span>
-这个行业现在是什么情况？我们首先看这个行业的募资，因为这个行业强调的是募投管退，对吧？现在募资，疫情期间的大放水是所有人都要经历的。在那个之后当然就是疯狂的下降。截止到二三年24年Q4，整个行业的工资水平大概只有在大放水阶段的50%左右。虽然在24年有一定的上涨，但是整体趋势上来说还是处于一个比较低水位的状态。从创业公司的投资角度来看，偏后期的公司的估值是在疯狂上涨的。尤其是偏D轮和E轮的公司的估值的平均水平上涨超过50%甚至80%。
-</p>
-<p class="transcript-line">
-<span class="time"><strong>[00:39:36]</strong> </span>
-<span class="speaker"><strong>发言人1: </strong></span>
-其实也很简单，你融了那么多钱，总是要投出去的钱多了，但项目还是那些，甚至项目在变少，那项目的估值当然在上涨，那退出凉凉对吧？很多人会说今天一场中国的二级市场的IPO比较冷，那是因为政策的原因。美国也一样，也是凉凉，整个IPU的相关的公司非常的少。因为我刚才说过，大部分的上涨是由巨头带来的那小公司根本没人关注。那你没有IPO跟没有退出，投了那么多公司估值又涨那么快，造成结果是什么呢？就是所谓的独角兽开始溢出了。
-</p>
-<p class="transcript-line">
-<span class="time"><strong>[00:40:15]</strong> </span>
-<span class="speaker"><strong>发言人1: </strong></span>
-截止到224年Q3，全世界范围内公共银行统计有725家所谓的独角兽公司。超过十年的独角兽公司已经占了一半。十年一家正规的财务基金可能也就7年到9年的周期，也就是说有很多公司已经成为独角兽超过十年了。超过五年的也有很多，五年内独角兽其实是比较少的那大家不能指望IPO开始指望并购了呗，这可能也是中国很多从业者们的一个心态。从美国的情况来看，并购还凑合，就是比高峰肯定是比不了的，但比二三年好一点点，大概是高峰时候的一半左右。
-</p>
-<p class="transcript-line">
-<span class="time"><strong>[00:40:56]</strong> </span>
-<span class="speaker"><strong>发言人1: </strong></span>
-在已经在看的相关的行业里面，AI当然是最最最重要的投资主题之一。从投资的这个金额来说，可能大概占整体美国投资者的15%。然后从单位的项目的估值来看，可能是非AI项目的五倍。然后从每轮融资的这个额度来看，可能是非AI项目的六倍。然后单个季度有超过20%的增长，在过去这一年，每个季度都是这样涨。
-</p>
-<p class="transcript-line">
-<span class="time"><strong>[00:41:26]</strong> </span>
-<span class="speaker"><strong>发言人1: </strong></span>
-似乎我们从看AI这一波饭的浪潮来说，不单纯只看这两年大模型，看之前的智能驾驶智能驾智能驾驶自动驾驶，到上一波的AI再到比如生物医疗各种各样的行业。你会发现V资本投出来一个连续几波的AI的大的公司，我们把它叫所谓的AI宇宙。现在看上去这一波公司聚在这儿真的能够代表先进的生产力吗？
-</p>
-<p class="transcript-line">
-<span class="time"><strong>[00:41:55]</strong> </span>
-<span class="speaker"><strong>发言人1: </strong></span>
-然后这一波AI的相关公司里面，所谓的独角兽也开始变多，或者大型的公司也在变多。在刚刚结束的24年Q3新出现了24家独角兽，有13家就是一半以上是AI相关的。但是这就造成另外一个结果，刚才我们前面讲到独角兽本来就已经开始溢出了，然后你这一轮又这么快这么短的时间出了这么多新的独角兽，那看上去就造成了更严重的溢出，对吧？
-</p>
-<p class="transcript-line">
-<span class="time"><strong>[00:42:23]</strong> </span>
-<span class="speaker"><strong>发言人1: </strong></span>
-所以你会发现今年有一些机构们开始探讨一些问题点。最有名的应该是两篇文章，一篇文章是红杉美国的AI的6000亿问题，一篇文章应该是高盛的生成式AI太多的花费，太少的收入，对吧？那是不是在这个时间点我们要考虑这些问题了？我们真的投了太多的钱在里面，是否要考虑收入？
-</p>
-<p class="transcript-line">
-<span class="time"><strong>[00:42:46]</strong> </span>
-<span class="speaker"><strong>发言人1: </strong></span>
-这个问题的解答，既然这个问题问出来就代表确实现实情况如此。但这个解答或者说我们要等到什么时间，我觉得是没有答案的那在今年我看到一个视频，给了我一段这样的缓解。这个视频之前我也讲过，是九月份的时候，施密特去斯坦福有一次演讲，然后请他的教授在送走斯坦福施密特之后讲了一段话。是说我们回看当年的电力革命的时候，电力革命在起初电机是没有真正意义上提升所谓生产效率的。什么时候电机真正意义上提升生产效率？是等我们去建新的工厂的时候，不需要把一个巨大的电机以电机以一个蒸汽机的方式进放在中间的时候。我们有了电网，我们可以把电机拆成各种各样小的大大小小各种各样的电机的时候，这个事情才真正意义上提升生产效率。
-</p>
-<p class="transcript-line">
-<span class="time"><strong>[00:43:36]</strong> </span>
-<span class="speaker"><strong>发言人1: </strong></span>
-他想解释的事情是说，AI今天这个时间点的发明有点像电机被发明了。但是它真正意义上提高巨大的效率或者产生巨大的收益是需要配以比如说组织结构的变化，行业分工的变化，这个组织的创新，商业模式的创新。因为他是在斯坦福讲，所以他说这些事情就需要这些斯坦福的商学院的学生来去创造。当然这是个说法，你未必认可，但是我会觉得给了大家一点点耐心。
-</p>
-<p class="transcript-line">
-<span class="time"><strong>[00:44:12]</strong> </span>
-<span class="speaker"><strong>发言人1: </strong></span>
-这部分就是关于所谓的美国的意识上到底是什么样的。也就是说美国的四块内容，open end大模型们巨头们的共识应用方向以及意识上我大概陈述清楚了。这是美国的部分，也就是这报告的一半我不讲完了，请到美国我们再来看看中国，中国的第一个故事，新叙事结构下的中国大模型创业，这是第一章的标题。既然提到叫新叙事结构，那旧的是什么？这个也是之前我跟叛乱，跟骆总在做那个AI跟一对比的时候，一个旧的话题？就是我觉得旧的技术结构最简单代表就是TMD对吧？
-</p>
-<p class="transcript-line">
-<span class="time"><strong>[00:44:57]</strong> </span>
-<span class="speaker"><strong>发言人1: </strong></span>
-那张乌镇骆少跟三位创始人的合影。滴滴的创始人成为，字节跳动创始人张一鸣，美团的创始人王兴。他们在2016年的乌镇大会上讨论的是中国互联网的未来，移动互联网区域经济，人工智能国际化以及他们的希望与焦虑。这可能就是旧的叙事结构。
-</p>
-<p class="transcript-line">
-<span class="time"><strong>[00:45:21]</strong> </span>
-<span class="speaker"><strong>发言人1: </strong></span>
-所以我们回看移动互联网行业的话，中国的医联网行业长出了非常多非常大的家伙。比如说微信、米哈游、小米。我叫这些公司叫native中的native，因为大家都在提AI native，我们就看当年的移动native。首先终端本身就是巨大的生意，所以出现了小米，包括后来的OPPO vivo。然后用户量的再一次的爆发，按照微信，他从手机端，从原来PC端到手机端IM的变化，用户习惯的改变，从原来玩PC游戏到玩手机游戏，这是native中native。
-</p>
-<p class="transcript-line">
-<span class="time"><strong>[00:46:01]</strong> </span>
-<span class="speaker"><strong>发言人1: </strong></span>
-然后第二大类内容平台，抖音、快手、小红书。中国有大一统的内容平台，然后也造成了中国的创作者经济的整个生态的繁荣。然后过去十年如果用一个词来总结的话，我也用过很多词叫短视频吞噬一切。同样中国产生非常多的交易平台，拼多多、美团适应。要感谢领先的电商的渗透率，感谢中国强大的供应链，也要感谢中国广泛意义上的物流的技术能力。所以我们这里确确实实出现了非常多的大家伙。
-</p>
-<p class="transcript-line">
-<span class="time"><strong>[00:46:34]</strong> </span>
-<span class="speaker"><strong>发言人1: </strong></span>
-这个移动互联网的旧的叙事结构的最后的共识其实无非三点。第一，用户量的开国，从2亿网民到12亿网民的纯增量市场，在世界各地任何一个地方都没有造成的指标。就是我们去衡量一个产品的DAUMAU。第二个共识推荐算法连接一切的信息时间与用户形成所谓时间的融入，衡量这个事就变成了时常活跃跟留存。最后一个最重要的就是商业化。我们通过广告、电商、游戏、直播，甚至互联网金融，把这些用户以用户的时间变成钱。我们去衡量这件事情的时候，用的指标就是ROIGMV流水，这就是中国银行网最后的共识。
-</p>
-<p class="transcript-line">
-<span class="time"><strong>[00:47:20]</strong> </span>
-<span class="speaker"><strong>发言人1: </strong></span>
-那这次AI来了还一样吗？好像不太一样，对吧？就是面对这一波AI的所谓的初创公司，我们有很多的问题，没有所谓的标准答案。
-</p>
-<p class="transcript-line">
-<span class="time"><strong>[00:47:34]</strong> </span>
-<span class="speaker"><strong>发言人1: </strong></span>
-比如说是做模型还是做应用，还是都做在OE定义了新的技术方案之后，那预训练还要不要做了？做国内市场还是做海外市场，公司结构是内资还是VIE？做to b的市场还是做to c的市场？To g要不要做？也就是政府的项目要不要做？To c应用的买量推广要不要上？To b的价格战要不要跟？
-</p>
-<p class="transcript-line">
-<span class="time"><strong>[00:48:02]</strong> </span>
-<span class="speaker"><strong>发言人1: </strong></span>
-对于这些公司阶段性的里程碑到底是什么？是技术的，是商业的还是产品的，还有要不要对外以投资的方式进行孵化。所有这些问题没有标准答案，每一个问题的选择最后就变成了每家公司策略的不同。
-</p>
-<p class="transcript-line">
-<span class="time"><strong>[00:48:18]</strong> </span>
-<span class="speaker"><strong>发言人1: </strong></span>
-如果我们把问题聚焦在to c应用这件事情上，我放了几张图，第一张图是量子位的每个月的统计，是AI应用的月报，在APP端的DAU。11月。第一名字节豆包850万以上，它是划线的。第二名kimi 300万以上。第三名文筱言，百度100万以上。第四名天宫50万以上，通义、讯飞、星火、元宝、智谱、清言、海螺都是10万以上的。第十名是接月星辰的叶问，已经是10万以下了。DAU第一名850万，大概小1000万，第二名300万以上，第十名只有10万以下了。DAU第二张图是quest mobile，九月份的数据，是典型的这类AI应用的每月的使用天数，3日的留存以及DAU除以MU的活跃率。比如说活跃率大概是10%几，然后月使用天数大概3到4天，三日留存可能在30%左右，大概是这样一个数字。
-</p>
-<p class="transcript-line">
-<span class="time"><strong>[00:49:26]</strong> </span>
-<span class="speaker"><strong>发言人1: </strong></span>
-然后第三张图我发了AI产品榜的11月的所有产品的日均时长榜第一名。文筱言，七分钟天宫，六分钟海螺，六分钟智谱、清言、讯飞、星火豆包都是六分钟，猫香两分钟。元宝一分1点9分钟。听完这些数字，如果你是一个相对资深一点的移动互联网人的话，你大概会知道这些数字是在什么量级上。一个日均时长只有几分钟的产品，怎么去承担那些我们刚才提到的指标呢？但是这里面引发一个问题是说，我们还有那些古典意义上的移动联网指标，去衡量这些产品是不是不太合适，对吧？
-</p>
-<p class="transcript-line">
-<span class="time"><strong>[00:50:18]</strong> </span>
-<span class="speaker"><strong>发言人1: </strong></span>
-这个问题我之前也讲过，我的几位朋友给了我一些答案。比如说我一位做投资的朋友，他说每次发明新指标的时候，往往就是泡沫最严重的时候，那可能就是现在对吧？然后一个做社交产品的朋友说，这些指标其实都是用户体验指标，用户根本不care是不是AI然后还有一位朋友是说卖哪个指标就应该用哪个指标来作为衡量，比如说token。
-</p>
-<p class="transcript-line">
-<span class="time"><strong>[00:50:46]</strong> </span>
-<span class="speaker"><strong>发言人1: </strong></span>
-我们就看每一家的这个策略，所谓的这个六小龙，四小龙中的六家？迪迦质朴，我的评价叫根正苗红的清华系，人民币结构的独苗，没有提任何业务的描述。创始团队来自于清华对吧？然后核心产品是不清言ChatGLM，包括最近他们发的auto GRM，就跟当年cloud发computer use的逻辑是一样的。你可以通过A站的方式去控制手机跟电脑，做一些复杂任务。然后公司历史融了好多轮子，炒基金国家队巨头全部都在。
-</p>
-<p class="transcript-line">
-<span class="time"><strong>[00:51:32]</strong> </span>
-<span class="speaker"><strong>发言人1: </strong></span>
-我的总结叫根正苗红的清华系，人民币结构的独苗油炸面。我的描述是说各种意义上的风口浪尖双引号，年轻一代创业者的代表对吧？典型像他的CEO杨志琳，应该是98年的，是非常年轻的创始人。核心产品最早是kimi后来发了kimi家。然后km ME数学最近发的投资人最早是真格、红杉、今日，然后A轮美团，然后最大的那一轮是阿里红衫、小红书、美团，到后面的腾讯、高榕都进了。最近一段时间关于这家公司的讨论很多，有兴趣的可以听我上一期的播客。
-</p>
-<p class="transcript-line">
-<span class="time"><strong>[00:52:13]</strong> </span>
-<span class="speaker"><strong>发言人1: </strong></span>
-第三家mini max我的评价叫to C2B国内海外全都要，但全都要就代表着你的战略的优先级跟中心的考量是非常复杂的。公司的创始团队来自于商汤，核心产品是海螺。然后包括猫talky跟星爷，然后包括海螺的视频应用，其实过去一段时间口碑也很好，后面会讲到。
-</p>
-<p class="transcript-line">
-<span class="time"><strong>[00:52:39]</strong> </span>
-<span class="speaker"><strong>发言人1: </strong></span>
-然后第四家百川创始人，就是大家知道王小川，以及搜狗的原来的联合创始人茹立云。我的评价叫小山总是懂进退取舍的。生命医疗可能是冒号双引号，不，生命医疗可能是省略号。核心产品是白小英，百川的业务调整其实是有过几次的。从最早大模型的大模型图形应用，到今天开始相对专注做医疗这个方向。我觉得小川总是懂进退取舍的对015000开发老师以及创新工厂成立的当地公司，他们战略其实在今年也有所调整，我叫to c退退to b进。比如说to c的应用基本上不太做了，to b的业务开始往前。包括看最近开发老师的各种各样的演讲，也在强调企业服务市场的变化，我的评价叫开发老师很不容易，因为开复老师年纪已经很大了，但他还频繁的要出面出现在各种地方去为公司代言。
-</p>
-<p class="transcript-line">
-<span class="time"><strong>[00:53:44]</strong> </span>
-<span class="speaker"><strong>发言人1: </strong></span>
-接月星辰，我的评价叫补票的机会。因为前面五家或者前面四家出现的时间都比较早。在很多金家没有反应过味儿的时候，公司的估值都已经瞬间跑到了20甚至30亿美金。对于很多财务经理而言，这种项目已经参与不了了，那怎么办？其实大家有类似股票的心理，节约星辰给了大家这样一个机会，创始人来自于微软，然后产品是叶问跟冒泡鸭。
-</p>
-<p class="transcript-line">
-<span class="time"><strong>[00:54:13]</strong> </span>
-<span class="speaker"><strong>发言人1: </strong></span>
-然后同样在这六家公司之外，还有一家我觉得不得不提的异类叫换方。换方其实是做私募量化的，然后他们的这个模型叫deep sick，开源的，在海外的口碑非常好。之前晚点那篇文章也写过，在海外的中国的大模型讨论里面，可能讨论deep sak的是很多的，他们是没有融资的。因为量换方自己做量化的对吧？他们不需要融资。然后这时候有人会问了，听了那么多，你讲叫旧新叙事结构下大模型创业。那相对来说，旧叙事不应该是上一代的AI的创业公司？那我们就看一看上一代的AI4小龙今天是什么样的。
-</p>
-<p class="transcript-line">
-<span class="time"><strong>[00:54:53]</strong> </span>
-<span class="speaker"><strong>发言人1: </strong></span>
-商汤12月4号公告调整战略结构，调整企业结构调整成一加X就是这一波的AI大模型的业务放在集团总部。其他原来做的业务什么汽车、什么政府，什么各种什么智能城市，这种项目全都拆成事业部，独立自负盈亏。商汤旷视在11月30号IPO撤单了，他的创始人入职了力帆科技。依图新闻是回归聚焦智能城市与安防云。
-</p>
-<p class="transcript-line">
-<span class="time"><strong>[00:55:31]</strong> </span>
-<span class="speaker"><strong>发言人1: </strong></span>
-从前三季度亏5亿，年内股价跌30%，你发现上一代的I4小龙似乎也都不太理想。那就产生了一个一张梗图。这张梗图是我一个朋友给我提供的信息的。他说今天我们谈论的所谓的四小龙就这六家，对吧？那有人会问为什么四小龙会有六家，反正就这么认了，对吧？这个质朴mini MAX月之暗面百川，灵异万物皆月星辰，他会认为是虚假的四小龙。那真实的四小龙是谁呢？机器之心、量子位、新智元跟数字生命卡斯克，这四家是AI自媒体的领先者，甚至更极端点来说，这四家的年收入规模可能会大于那几家保险公司。
-</p>
-<p class="transcript-line">
-<span class="time"><strong>[00:56:33]</strong> </span>
-<span class="speaker"><strong>发言人1: </strong></span>
-我再继续问一些送命题。我在上一期讲kimi的仲裁案里面也提到了这张PPT这些公司的核心竞争壁垒到底是什么？模型的竞赛还跟得上吗？或者说还要跟吗？C端的买量要硬上吗？商业化到底怎么考量？第二个问题，谁来提供钱的流动性？VC巨头国家队已经全部都在了几十亿美金，再往上的估值跟谁去要这个钱？
-</p>
-<p class="transcript-line">
-<span class="time"><strong>[00:57:09]</strong> </span>
-<span class="speaker"><strong>发言人1: </strong></span>
-最后一道问题，可能的退出路径到底是什么？去美国上市吗？别想了，中美现在这个情况，短期内就不要想去美国上市，尤其是人工智能公司。那在大A大A能给开绿灯吗？即便开能开几家呢？是不是只给人力结构的公司开呢？收购谁来收？为什么要收？都是些送命题。
-</p>
-<p class="transcript-line">
-<span class="time"><strong>[00:57:40]</strong> </span>
-<span class="speaker"><strong>发言人1: </strong></span>
-就是关于中国这一波所谓大模型创业公司的内容，和美国一样。我们聊完创业公司聊聊巨头，先回忆一下我们当时在聊美国的巨头们的那一张，我叫形成的聚共识。那到底他们形成了什么共识？我们抛掉了没点的共识之外，云KBX往上游去投资与并购自研业务，对吧？这是他们的共识。
-</p>
-<p class="transcript-line">
-<span class="time"><strong>[00:58:14]</strong> </span>
-<span class="speaker"><strong>发言人1: </strong></span>
-那我们来看中国云、阿里云、火山云、华为云、腾讯云、百度云，在过去这一年都在疯狂的强调AI的英特尔层的能力跟基础设施的建设。KPX除了刚才那几家之外，中国移动、中国电信的KPS投入也非常的大。往上游去阿里的平头哥、百度的空中芯，华为的鲲鹏都在做芯片，对吧？传说自己也在做投资，并购更不用讲了，刚才我们聊的前所谓的六小龙都有这几家巨头都在投资。那自研业务就更是了，腾讯的混元，百度的文心一言，自己的豆包，阿里的通义报讯飞昆仑的天空都是。所以我的结论是说抄作业还不会抄吗？
-</p>
-<p class="transcript-line">
-<span class="time"><strong>[00:59:08]</strong> </span>
-<span class="speaker"><strong>发言人1: </strong></span>
-我们只说大模型的巨头，我觉得有几家值得说。这也不是我来列的，是量子位的一个报告列的。百度、阿里、腾讯、华为、字节讯飞、昆仑、快手、商汤，123456789家公司，一家一家看第一家百度，我起的标题叫本应最强的那一个依然活在自己的世界里。为什么这么说呢？这个也是在我自我报告的这几天，CNIC对中国互联网信息中心发了一个统计报告，是统计这一波ai应用的统计。然后在他的统计里有这样张图，是关于中国用户用AI工具的调研的。占比，第一名百度文心一言11.5%，第二名ChatGPT7%，第三一名google germany 3.8%。
-</p>
-<p class="transcript-line">
-<span class="time"><strong>[01:00:11]</strong> </span>
-<span class="speaker"><strong>发言人1: </strong></span>
-你看到这个树的时候，反正我看到这个树的时候是满脑子问号。你是CNNIC发的对吗？我想问你在你统计的新用户里面，用户是怎么用到ChatGPT的，是怎么用到google的？而且这两个是第二名，第三名。所以这数据怎么来的，懂的都懂。
-</p>
-<p class="transcript-line">
-<span class="time"><strong>[01:00:39]</strong> </span>
-<span class="speaker"><strong>发言人1: </strong></span>
-核心产品比如说现在百度有文心言，有百度智能云，有千帆的APP builder跟智能云，千帆就是agent的那个东西。然后在过去这一段时间，百度比较多的强调的或者说比较好的案例其实是文库的增长。你会发现文库的负责人的已经是百度的SAP这个级别了然门户这个业务，这个非常老的业务，因为I这一波的能力的加持，增长非常快。无论是收入、用户量、场景的探索确实合理，对吧？百度本应最强的那一个依然活在自己的世界里，希望百度公关不要找我。
-</p>
-<p class="transcript-line">
-<span class="time"><strong>[01:01:17]</strong> </span>
-<span class="speaker"><strong>发言人1: </strong></span>
-第二阿里我的说法叫开源杀疯了，战略投资全都要。首先之前阿里有一次大会是说他的通义千问会覆盖所有阿里体系内的大模型。然后通义的开源模型在海外的各种各样的榜单的数据都很好，不断的去突绑。然后阿里的刚才我们强调阿里的战略投资，阿里云的战略投资应该投资了六家大明星公司的五家。然后在应用层面来说，夸克的增长应该是过去这一年阿里整个AI业务相关的图形应用里面长得比较好的一家。然后我也是夸克的比较每天都在用的用户浏览器搜索文件整理，包括PPT。对，就是我觉得夸克做的还可以，这没我没收钱，存这个自然推广阿里。
-</p>
-<p class="transcript-line">
-<span class="time"><strong>[01:02:12]</strong> </span>
-<span class="speaker"><strong>发言人1: </strong></span>
-第三腾讯，我的说法叫可能是最佛的那一个。对于腾讯而言，现有业务的增强要大于做一个新东西。从策略上来说，包括我们去看每个季度腾讯财报。在这个财报发布之后的这个分析师电话会议上，管理层也是大概这么讲的意思。然后核心产品比如说元宝，然后元宝我觉得在我日常工作当中用的比较多的原因是在于元宝的数据源是有公众号的数据源的那可能是整个中国互联网最平均质量最好的信息来源，对吧？然后也是在我做过这个报告这几天，腾讯会员发了他们的视频生成的开源模型，质量是很不错的。
-</p>
-<p class="transcript-line">
-<span class="time"><strong>[01:02:49]</strong> </span>
-<span class="speaker"><strong>发言人1: </strong></span>
-然后今年微信一直在内测问一问的AI的搜索。然后微信最近上了腾讯最近上了一个产品，最近我也用的比较多叫IMA。它是一个类似notion或者是信息整理的这样一个工具，我觉得做的也还可以。所以对腾讯而言，我觉得泡内总内心会认为大梦想这件事情并不应该在这个时间点以一个非常疯狂跟不计留存的方式去买量。所以他会认为现有业务的增强要大于做一个新东西。
-</p>
-<p class="transcript-line">
-<span class="time"><strong>[01:03:22]</strong> </span>
-<span class="speaker"><strong>发言人1: </strong></span>
-华为我的评价叫另一个身位的选手，而且这个话不是我说的。之前彭博在采访威廉的创始人黄老板的时候，黄老板说华为是他最大的竞争对手。对，黄老板说的不是我说的。所以在中国华为是相对于这些互联网公司而言，我觉得是另一个身位的竞争对手，甚至都谈不上竞争对手，他就是另外一个身位的对手。
-</p>
-<p class="transcript-line">
-<span class="time"><strong>[01:03:48]</strong> </span>
-<span class="speaker"><strong>发言人1: </strong></span>
-在AI这件事情上，华为有芯片、有模型，有云也有端，就是手机端，它的模型叫盘古。然后除了这五家之外，还有四家，我觉得就算一方诸侯，每一家都有自己的小亮点。比如说快手今年可能是他们最大的亮点，视频输入模型昆仑做了天宫对吧？周老板会认就周亚辉老板会认为他们做的也还可以。看讯飞有讯飞星火，包括有学习机跟耳机这两个硬件。商汤做了商汤日日新，整个技术能力跟的也还可以，所以算一方诸侯。
-</p>
-<p class="transcript-line">
-<span class="time"><strong>[01:04:23]</strong> </span>
-<span class="speaker"><strong>发言人1: </strong></span>
-然后这一节我其实有一个小标题叫字节和其他。你发现我没有讲字节对吧？为什么说字节其他？因为从这一年的情况来说，其他几家加在一起可能都比不上字节这一年的变化。然后我们只从模型上来看，今天这个时间点，字节的豆包的模型应该已经覆盖了。我们能够想到各种各样的场景，视频、图片、语音文本对吧？
-</p>
-<p class="transcript-line">
-<span class="time"><strong>[01:04:53]</strong> </span>
-<span class="speaker"><strong>发言人1: </strong></span>
-然后在to c应用这个角度来说，我觉得豆包已经事实上的一骑绝尘了。无论是看MAUDAU留存，包括他们开始买量之后的增长。这里这个问题其实在我们上一次跟万总跟洛少的沟通当中也有聊过。就是说既然大家没有办法在模型侧有绝对的差异，那么在产品体验、运营推广以及耐心的维度上的竞争。在中国没有人是自己的对手。
-</p>
-<p class="transcript-line">
-<span class="time"><strong>[01:05:26]</strong> </span>
-<span class="speaker"><strong>发言人1: </strong></span>
-同样我们看to b领域火山引擎的现在主推的豆包4K跟22五六K的这个推理成本分别是每百万次0.3元跟每百万次五块钱。刚才我们聊过房屋是多少，0.25美金还记得吗？非常的便宜，而且字节的豆包一直以来都以一个价格杀手的方式，在大型to b的这个战场疯狂厮杀。那就造成了前面我问的一个问题是说价格战其他厂商要不要跟？然后除了应用多包模型跟云之外，自己还有比如说cos中国可能现在最好跟最大的agent.
-</p>
-<p class="transcript-line">
-<span class="time"><strong>[01:06:10]</strong> </span>
-<span class="speaker"><strong>发言人2: </strong></span>
-平台猫香集梦。
-</p>
-<p class="transcript-line">
-<span class="time"><strong>[01:06:12]</strong> </span>
-<span class="speaker"><strong>发言人1: </strong></span>
-为什么要提集梦？因为这两天也有一些新闻后面会提到。你以为这样就结束了吗？并没有。
-</p>
-<p class="transcript-line">
-<span class="time"><strong>[01:06:19]</strong> </span>
-<span class="speaker"><strong>发言人1: </strong></span>
-前两天一财下面有一个自媒体叫新皮层做了一次整理。他把字节相关的所有AI业务全部做了一个表。那个表在手机上看你从表头看到表尾，手机要翻屏翻五次才能看完。你能够想到的任何层面，任何意义上。今天这个时间点在AI层面的探索自己也都在做。所以我们说中国的。
-</p>
-<p class="transcript-line">
-<span class="time"><strong>[01:06:46]</strong> </span>
-<span class="speaker"><strong>发言人2: </strong></span>
-大模型。
-</p>
-<p class="transcript-line">
-<span class="time"><strong>[01:06:47]</strong> </span>
-<span class="speaker"><strong>发言人1: </strong></span>
-巨头可能只分自己和其他。那为什么或者说怎么做到的？核心的原因我觉得有一个很重要，原因在于组织架构的调整。自己现在AI业务的所有的负责人是原来music的创始人alex再往上是张一鸣亲自去抓整个字节核心AI团队的人才建设。传说张一鸣在新加坡见了所有他能够找到的AI领域的科技大牛。
-</p>
-<p class="transcript-line">
-<span class="time"><strong>[01:07:12]</strong> </span>
-<span class="speaker"><strong>发言人1: </strong></span>
-然后同样的也是前几天昆仑老板赵辉发了一条朋友圈，他会说他有个我觉得是不负责任，但是很有可能会成为现实的预判。他说我们去看美国的google、亚马逊跟微软的公有云业务。然后再对比国内，他会认为未来火山云除了会吃掉企业的IT费用之外，巨量也是自己的。另外一个云，负责营销的人会吃掉所有公司的广告费用，云的份额就会等于广告的份额。如果是这样的话，火山云将会成为中国最大的云厂商。那其他的华为、阿里包括腾讯们能允许吗？但这个趋势看上去有越来越明显的可能成为现实的状态，对吧？
-</p>
-<p class="transcript-line">
-<span class="time"><strong>[01:08:02]</strong> </span>
-<span class="speaker"><strong>发言人1: </strong></span>
-这是第六部分，中国的巨头们只分自己和其他。我们下面进入下一个章节，中国的AI应用的实践。我起的标题叫中国特色的社会主义的实践。
-</p>
-<p class="transcript-line">
-<span class="time"><strong>[01:08:18]</strong> </span>
-<span class="speaker"><strong>发言人1: </strong></span>
-量子位在今年发过一个报告叫中国AI应用全景图谱。是一张非常复杂，列了非常多几百家公司的一张图谱。他按通用垂直去划分切分各种各样的场景，把我们能够想到的各种各样的公司都列在上面，有需要可以去看PPT。无论是美国还是中国，这么多公司分类依然是很难的那我依然不做自己的分类，我还是用刚才的方法，我想到哪儿算哪儿。我依然列了六个方向，生产力工具AI陪伴AI搜索AI教育视频生成AI硬件。这里面AI陪伴AI搜索AI视频生成是多模态，包括AI教育是跟AI硬件是跟美国一样的生产力工具AI教育是美国没有的那我们这边中国没放，我顺便放agent跟code。
-</p>
-<p class="transcript-line">
-<span class="time"><strong>[01:09:06]</strong> </span>
-<span class="speaker"><strong>发言人1: </strong></span>
-先说生产力工具，关键词叫全球化产品体验跟订阅，典型的Monica沉浸式翻译产品形态，包括浏览器插件、桌面应用、手机客户端。本质上来讲做的事情就是生产力工具的大几何。然后中国其实也有一堆比如做图片生成，图片美化的工具，在海外的流量也不低。AI这一波给了这些公司更多的发展可能性，而且通过订阅的方式也获得了足够的收入。
-</p>
-<p class="transcript-line">
-<span class="time"><strong>[01:09:35]</strong> </span>
-<span class="speaker"><strong>发言人1: </strong></span>
-AI搜索百度360纳米搜索meta知乎的直达，CSDN的C知道。包括刚才我前面提到阿里的夸克，其实本质上都在做专门的AI搜索。AI搜索这个产品板块除了体验层的改进，我觉得更重要的是各家信息源质量，就数据源的质量。所以很多人为什么用？刚才我讲过为什么我会用元宝做很多文就图文字文字文案工作的。刚才我讲了为什么我会用元宝做很多文案工作的储备。因为元宝背后有微信公众号的内容。
-</p>
-<p class="transcript-line">
-<span class="time"><strong>[01:10:10]</strong> </span>
-<span class="speaker"><strong>发言人1: </strong></span>
-更更更极端的，其实连小宇宙都做了一个AI搜索的尝试，叫问问小宇宙。它是基于小宇宙的播客内容的。其实在一些新闻场景跟一些特定的内容板块上，小宇宙的这个搜索做的也蛮不错的。它信息质量的原因是来自于博客的那播客的信息质量可能确实在今天这个时间点，整个中文语境下，中国互联网的语境下确实是最强的。所以如果大家有搜索的事情，并且搜索的是一些其他一些搜引擎给的答案不是特别满意的情况下，可以去试试小宇宙的问问小宇宙还有一个观点，我也没收钱。
-</p>
-<p class="transcript-line">
-<span class="time"><strong>[01:10:44]</strong> </span>
-<span class="speaker"><strong>发言人1: </strong></span>
-视频生成，这可能是我会觉得是国内发展比海外更快的一个板块。为什么？其实可能要感谢过去十年中国的短视频的基建设施。快手的可怜me，max的海螺，字节的极梦，pix words维度，然后质朴的轻盈。包括最近发的腾讯会员的AI的视频生成的开源模型。从产品质量生成的视频质量，然后到工程上的改进，体验上的创新。中国的这一波的AI大模型公司由AI视频模型公司跟产品公司其实在引领着AI视频生成这个板块。
-</p>
-<p class="transcript-line">
-<span class="time"><strong>[01:11:28]</strong> </span>
-<span class="speaker"><strong>发言人1: </strong></span>
-AI陪伴我写的标题叫我们可能最擅长的板块。我们可以在中国的应用市场里面找到带有类似AI陪伴AI女友AI这种功能的产品，可能几十个。我们确实在社交的商业化转化，在陌生人交友各种各样板块上的尝试，中国确实有更擅长。但截止到今天，在这个领域其实还没有一家争议上跑出来的公司。可能有些公司做的产品确实初看是不错的，但是还没有到能够被提及单独写一页的状态。唯独有一个公司，可能我觉得大家可以有兴趣看一下，就是他们做的产品叫EVE。然后在B站上的视频是一个AI3D女友的视频展现，如果真能做到，确实效果非常好。这个创始人应该之前上了曲海老师的42点的博客，大家有兴趣可以搜一下AI教育。
-</p>
-<p class="transcript-line">
-<span class="time"><strong>[01:12:22]</strong> </span>
-<span class="speaker"><strong>发言人1: </strong></span>
-前两天我们跟潘乱聊这个互联网总结的时候，他提过一个在线教育的朋友。刚才讲的描述，我用在这里叫轻舟已过万重山，懂得都懂。我们只看AI板块的话，无论是今天的做网课类的应用，还是做题库类的应用，AI都提升了巨大的效率跟内容供给。然后还有一个很特别的在中国的板块叫学习机，就是AI学习机这一波涨得也蛮好的。然后这些先进经验都被很多公司拿到海外去用了。就是海外的有很多AI教育相关的应用都是中公司做的。
-</p>
-<p class="transcript-line">
-<span class="time"><strong>[01:13:02]</strong> </span>
-<span class="speaker"><strong>发言人1: </strong></span>
-AI硬件我列了三个硬件，cloud和label live跟科大讯飞的耳机。一个是智能的录音笔，对吧？贴在手机后面的双引号的录音笔。我都有一位朋友在他们公司，我看他朋友圈发他们11月做了一个蛋糕，庆祝单月的销售额超过1000万美金。大家会想，一个这样的硬件可以卖这么多钱吗？那确实可以。
-</p>
-<p class="transcript-line">
-<span class="time"><strong>[01:13:27]</strong> </span>
-<span class="speaker"><strong>发言人1: </strong></span>
-然后live a live就是那个智能的吉他。这个东西其实跟AI的关系，你说有那么大吗？我觉得有限。但是人家借了AI这个功能，那个噱头点确实今年卖得很好，可能传说这公司卖了有几十亿了。然后也传说这公司在跟中国最大的两个音乐相关的巨头谈并购，那大家知道应该是谁？然后科大讯飞的耳机，我在之前的耳机的那期节目也讲过很多了。所以这些硬件我们看到叫我列了一个关键词叫场景还是新闻，场景的满足非常重要。
-</p>
-<p class="transcript-line">
-<span class="time"><strong>[01:14:00]</strong> </span>
-<span class="speaker"><strong>发言人1: </strong></span>
-然后提到AI硬件就不能提，不得不提刚才我们聊过的雷朋和meta的眼镜引发的另外一场战争。中国现在可能有超过100家公司在做AI智能眼镜，所以媒体已经写了叫百镜大战。老周在前两天的乌镇大会上也提及了meta带来的这波热潮。比如百度、华为、小米、蜂巢、雷鸟、rocket的闪极、魅族荧幕。你能提到的做眼镜的，做智能设备的，做智能音响公司，可能都在做VR眼镜。还有一个AI手机，最近一段时间是恰好是每一年大概10到11月份，应该是各家发旗舰机的时间点。
-</p>
-<p class="transcript-line">
-<span class="time"><strong>[01:14:45]</strong> </span>
-<span class="speaker"><strong>发言人2: </strong></span>
-华为、OPPO、荣耀。
-</p>
-<p class="transcript-line">
-<span class="time"><strong>[01:14:46]</strong> </span>
-<span class="speaker"><strong>发言人1: </strong></span>
-vivo、小米全部都在新的旗舰机上强调了所谓的AI能力。然后在这个板块大家可能更更怎么更关注的是ipod的苹果的apple intelligence什么时候能进来。最近有个新闻是说苹果在跟百度的文心一言做测试，大概率我们会看到文心一言inside的苹果intelligence。然后有新闻说这个测试的进展不是特别的顺利，因为文心一言的实现的效果不是特别理想。这些都？眼镜、什么录音、吉他、耳机，看上去都特别高大上，对吧？
-</p>
-<p class="transcript-line">
-<span class="time"><strong>[01:15:31]</strong> </span>
-<span class="speaker"><strong>发言人1: </strong></span>
-我最近看到一篇文章很有意思，是洛少他们归星人写的，就是记者去了华强北，就是真实的AI硬件在华强北到底什么样。有几张图。第一个是AI大模型翻译机翻译对吧？是这一波大模型最早被认为是非常好的效果体现的领域。然后第二个图是AI的手机壳，就手机壳上有一个可以根据你要求生成图片显示的那样一块区域。第三个是画图机，画图机听懂了吗？大家是一个类似机械手那样的东西，然后AI生成图片帮你画出来，然后这张标题叫真实的AI硬件。在华强北就是这些功能的体现。
-</p>
-<p class="transcript-line">
-<span class="time"><strong>[01:16:11]</strong> </span>
-<span class="speaker"><strong>发言人1: </strong></span>
-你能看到就我们的创新双引号的创新应该在什么程度。但是你会发现刚才我列了六个方向，就是你听完之后会觉得，是不是有点饭对吧？我也觉得有点饭就是没什么意思对吧？或者像科技说的没什么暴论，那我就提几个暴论，我不能说叫暴论，我们就要观察对吧？
-</p>
-<p class="transcript-line">
-<span class="time"><strong>[01:16:32]</strong> </span>
-<span class="speaker"><strong>发言人1: </strong></span>
-我写了五个观察员，第一个观察叫china还是chinese？第二个观察双引号三级火箭。第三个观察，双引号利息够养活团队。第四个观察，真独立开发者。第五个观察，捏个3D小人跑跑跳跳，我们一个个说。
-</p>
-<p class="transcript-line">
-<span class="time"><strong>[01:16:58]</strong> </span>
-<span class="speaker"><strong>发言人1: </strong></span>
-China还是chinese？这个其实跟中美两国现在的这个事情有关，对吧？很多人会问到底什么叫中国公司？我列了三家公司，情况都不太一样。
-</p>
-<p class="transcript-line">
-<span class="time"><strong>[01:17:14]</strong> </span>
-<span class="speaker"><strong>发言人1: </strong></span>
-黑镇。AI视频编辑领域的明星公司之一，其实是中国公司，创始人是中国原来在深圳的一个团队，后来当时去了美国，主要客户全部在海外，其实在美国。然后这公司最早的投资人是中国的VC基金，当然是美元VC当他们起飞，也就是在美国获得成功之后，他们去美国融资的时候，要求中国的美元VC退掉，换成新的投资者。
-</p>
-<p class="transcript-line">
-<span class="time"><strong>[01:17:46]</strong> </span>
-<span class="speaker"><strong>发言人1: </strong></span>
-黑镇第二家James Spark，作为AI搜索的公司，创始人原来是百度小度的总经理，公司设在加州加坡双总部。天使融资的投资人是新加坡蓝池。第三家，可能很多人知道皮卡。创始人是中国A股上市公司信雅达董事长的女儿，在美国注册的公司，拿美国VC的投资。这些公司。都叫都还叫中国公司吗？
-</p>
-<p class="transcript-line">
-<span class="time"><strong>[01:18:32]</strong> </span>
-<span class="speaker"><strong>发言人1: </strong></span>
-第二观察三级火箭。小川总当年提出来的搜狗三级火箭输入法浏览器搜索。然后你发现这件事情在AI这一波被完美的复刻了。输入法今天头部的几家输入法公司都在强调输入法的AI的问答浏览器、30浏览器、夸克浏览器这。
-</p>
-<p class="transcript-line">
-<span class="time"><strong>[01:18:50]</strong> </span>
-<span class="speaker"><strong>发言人2: </strong></span>
-一波也。
-</p>
-<p class="transcript-line">
-<span class="time"><strong>[01:18:51]</strong> </span>
-<span class="speaker"><strong>发言人1: </strong></span>
-在推AI功能，所有浏览器公司也都在推搜索，就更不用提浏览器直接全部内置AI搜索。三级火箭再次复现。第三个观察利息购买和团队。这是我一个朋友跟我讲的故事，然后细想其实是合理。你会发现今天十点既然AI应用没有所谓的共识，大家不知道投什么。所以就会有一些创始人人的履历比较牛逼，对吧？然后就拿到了天使。然后拿到天使之后，有些基金会觉得那谁都投了，我跟一点，又纵容一点。然后拿了两个这个天使跟天使大一点之后，你发现还有别的基金是说像他们都投了，那我们再跟一点。然后你会发现这些公司在非常短时间内拿了三轮四轮融资，然后产品都还没有的情况下，就已经拿了这么多钱。
-</p>
-<p class="transcript-line">
-<span class="time"><strong>[01:19:45]</strong> </span>
-<span class="speaker"><strong>发言人1: </strong></span>
-然后你要想这公司可能初期十几个人，他们也不做基础模型的训练，不需要买那么多卡，一年成本可能小几百万人民币。那考虑到如果拿美金有4%到5%的年化收益率，那其实拿个一千多万美金，一年有个几十万美金的利息就给我养活团队了。那结论就是说还着急推出产品干嘛呢？我就先弄着呗，对吧？中国其实有有一些公司是这样。
-</p>
-<p class="transcript-line">
-<span class="time"><strong>[01:20:19]</strong> </span>
-<span class="speaker"><strong>发言人1: </strong></span>
-第四个观察叫真独立开发者，典型的哄哄模拟器。未知书、熊猫补光灯，这都是一个人做出来的，在一段时间内引发很多讨论和传播的应用。你会发现AJAI这一波确实对这些所谓的独立开发者是有一个巨大的赋能作用的。这种事情越来以后会越来越多。
-</p>
-<p class="transcript-line">
-<span class="time"><strong>[01:20:47]</strong> </span>
-<span class="speaker"><strong>发言人1: </strong></span>
-最后一个观察叫捏个小人，3D小人跑跑跳跳。这句话我也用过很多次了，我在去年写元宇宙总结的时候也用过对吧？我是说用户不是要的一个小人在跑跑跳跳，对吧？包括跟蛋仔排队的对比，包括跟那一波元宇宙趋势的很多公司做这个尝试的对比，都折了有关。
-</p>
-<p class="transcript-line">
-<span class="time"><strong>[01:21:08]</strong> </span>
-<span class="speaker"><strong>发言人1: </strong></span>
-AI这波来了之后，依然有一些人做这样的尝试。比如说之前巨人的CEO吴蒙，他的秒在做了一个AI生成3D的场景加人物的动作。比如说之前脸萌的CEO郭列在做的类似派对游戏的这样一个也是3D题材的产品。比如说之前网易音乐的创始人王石木做的那个3DAI就生成一个角色，可以跟他互动聊天的东西。然后我的结论是说，在很多靠title就可以获得巨额融资的创始人心中，元元宇宙可能依然是一份执念。我的观察不一定对。
-</p>
-<p class="transcript-line">
-<span class="time"><strong>[01:21:49]</strong> </span>
-<span class="speaker"><strong>发言人1: </strong></span>
-好，我们下面进入最后一章。第一，最孱弱的国内一级市场。对我最熟的板块讲一个小的趣事，我这个PPT其实除了做博客之外，也给一个券商朋友他们在策略会上讲，然后我把这个内容给到他们，然后他们有内审的风控，内审的风控是不允许有一些不太好的词的。然后内审风控要求我把残弱的一级市场的孱弱去掉，因为他们会觉得我在唱空中国经济。好，我们继续正式讲一下这章的内容。其实这章内容我觉得在之前的很多期的我的博客里其实都有提及，我再做个整理，因为到年底了，对吧？随便回看在今年年终爱勇大会上，王冉总那那句我经常提的话，就是中国意识上最大的变化是它基本上不存在了。我们再看这个结论是否合适，同样引发这轮讨论。
-</p>
-<p class="transcript-line">
-<span class="time"><strong>[01:22:49]</strong> </span>
-<span class="speaker"><strong>发言人1: </strong></span>
-还有一次就是金融时报引用那两个数据对吧？一个数据是中国创业公司的成立数量新低，我做博客专门来讲为什么对吧？他其实他用了两张图，还有一张图是大中华区PEVC行业的募资金额的那个曲线。曲线确实是在2024年低的几乎忽略不计了。
-</p>
-<p class="transcript-line">
-<span class="time"><strong>[01:23:07]</strong> </span>
-<span class="speaker"><strong>发言人1: </strong></span>
-很多人也会说这个数字一看去也不对，但很多人看过那数据的时候，其实并不知道这个原始报告在这张图下面有一个角标，因为我有这份原始报告，这个角标上写的叫不包括政府引导基金。那你想中国现在的状态，如果把政府引导基金去掉，那不就几乎等于没有了吗？对吧？所以很多人吐槽的时候是不知道这个角标的，那么到年底我们看也有数据了，对吧？我们刚才讲过一直想看什么，看木头管退，对，我们看这件事情，先看木对吧？
-</p>
-<p class="transcript-line">
-<span class="time"><strong>[01:23:38]</strong> </span>
-<span class="speaker"><strong>发言人1: </strong></span>
-结论不是我说的，是前两天碳媒体的财经年会，华兴资本的现任CEO王立行王总说的，市场化物资很难，人民币和国资继续主导。整个从2024年截止到Q3数据来看，大概是前三年均值的89%。听起来还不错，对吧？89%还可以，对吧？人民币占98%。
-</p>
-<p class="transcript-line">
-<span class="time"><strong>[01:24:04]</strong> </span>
-<span class="speaker"><strong>发言人1: </strong></span>
-美元募资额43亿美金，是前三年同期均值的14%。美元投资少了86%，国资主导占比89%。我前面提到人家protein的注册数据统计，不含政府引导基金，你去掉89%，那不就只剩个小尾巴了吗？
-</p>
-<p class="transcript-line">
-<span class="time"><strong>[01:24:33]</strong> </span>
-<span class="speaker"><strong>发言人1: </strong></span>
-牧看完看头，王老板的说法是，市场依然低迷，2024年前三季度投资总额不及不及近三年同期的40%，约为39.3%。人民币投资较去年同期减少38%，较巅峰的2021年减少61%。头非常的差，资金高度集中在科技巅峰在Q3达到79%。
-</p>
-<p class="transcript-line">
-<span class="time"><strong>[01:25:09]</strong> </span>
-<span class="speaker"><strong>发言人1: </strong></span>
-在中国今天这个事件意识上大概只有投所谓的双引号。硬科技AI模型公司算硬科技吗？但木跟头我觉得都还好，最要命的是什么？是退出金科的数据也出来了。截止到Q3中国股权投资市场发生2856例退出，同比下降56.7IPO方面发表发生723，同比下降51.3。凉凉。
-</p>
-<p class="transcript-line">
-<span class="time"><strong>[01:25:46]</strong> </span>
-<span class="speaker"><strong>发言人1: </strong></span>
-前面我们讲过一个逻辑，IPU等不了，我们可以等并购吗？华星人家做FA专门做并购的，王老板的说法是说数据来看雷声大雨点小。你要知道今年专门针对并购，我们出了非常多的政策，可是从结果来看，没有声，反而在降。所以IPU受阻，并购没起来。
-</p>
-<p class="transcript-line">
-<span class="time"><strong>[01:26:18]</strong> </span>
-<span class="speaker"><strong>发言人1: </strong></span>
-那什么会变多呢？回购会变多。清科的数据，前三季度发生了947起回购，同比上升72.5%。回购会引发什么？我在很多期我的博客里也聊过了，我就不再次展开了。所以回头来看，我又用了之前42章进行采访，创新工场汪华老师的一段话来作为总结。当时王浩老师说实话实说，认知的变现，二级市场确实比一市场更快。
-</p>
-<p class="transcript-line">
-<span class="time"><strong>[01:26:55]</strong> </span>
-<span class="speaker"><strong>发言人1: </strong></span>
-曲凯老师说，所以大家都去炒股了，去买VDA，对吧？投什么一级？我妈说对，比如我看清这个事实之后，我自己也买了英伟达。这个兑现确实比意识上快得多，而且现在意识上已经没法去追求小概率的变现，这是美元基金的风格。但现在美元已经走光了。刚刚我们提到人民币占比98%，美元降了86%，对吧？国内一市场已经全面人民币化，追求的是确定性的回报。这个在我看来汪华看来是AI比起移动互联网在中国发展的巨大障碍。
-</p>
-<p class="transcript-line">
-<span class="time"><strong>[01:27:35]</strong> </span>
-<span class="speaker"><strong>发言人1: </strong></span>
-我觉得王老板说了一些实话。当然了就是我在做这个PPT昨天结束的时候的当天发生两起新闻，我觉得也有意义。第一个新闻是面壁智能完成一轮数亿元的融资，由龙鑫创投、鼎晖百福、中关村科学城基金和赛富联合领投，北京市人工智能产业投资基金与青科创投跟投。秘密智能不在我提的6加1里面。其实之前量子位写大模型的国内生态的时候是写6加2，我唯独没有列的就是面壁智能。那你发现依然人家会拿到融资。
-</p>
-<p class="transcript-line">
-<span class="time"><strong>[01:28:14]</strong> </span>
-<span class="speaker"><strong>发言人1: </strong></span>
-第二条新闻也是昨天的字节调整策略。字节管理层判断对AI对话类产品可能只是AI产品的中间态，也是豆包这种产品长期更理想的产品形式，大概率需要更视觉化的用户体验，更低的用户使用门槛。因此字节已经在提升了极梦的产品优先级，尝试用新的路径打造AI时代的抖音。这都是昨天发生的事情。所以我这张的标题叫悲观者往往正确，但乐观者往往上面好活儿还是得干，生活还要继续。这就是我今天所有的内容。最后的最后，欢迎订阅我的博客屠龙之术。这期的报告完全的一家之言，纯的记录，没有观点，兼听则明，谢谢。
-</p>]]></content:encoded>
-            <pubDate>Thu, 12 Dec 2024 16:06:01 GMT</pubDate>
-            <guid>675af24b7d8426f692a2b6b4</guid>
         </item>
     </channel>
 </rss>

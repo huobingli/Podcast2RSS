@@ -4,7 +4,1294 @@
         <title>硬地骇客</title>
         <link>https://www.xiaoyuzhoufm.com/podcast/640ee2438be5d40013fe4a87</link>
         <description>一起探讨技术、产品和商业之美</description>
-        <lastBuildDate>Tue, 30 Sep 2025 04:50:54 +0800</lastBuildDate>
+        <lastBuildDate>Mon, 03 Nov 2025 01:46:25 +0800</lastBuildDate>
+        <item>
+            <title>EP116 AI浏览器深度解析：效率、隐私与市场格局</title>
+            <link>https://www.xiaoyuzhoufm.com/episode/69026c19abb5e1cf580c64fb</link>
+            <description>传闻已久的 OpenAI &quot;Atlas&quot; 浏览器终于来了，感觉 OpenAI 跟 Google 是杠上了，之前每次 Gemini 要发布他们都得狙击一下子，现在直接掀桌发布浏览器了。再加上 Perplexity、还有刚被收购的 Arc 团队，也是一个大热赛道，感觉又是一次入口大战。不过我想先问你们一个问题，大家抢着做 AI 浏览器，能给用户带来什么独特的价值？我们会在本期的节目中做深度解析。
+本shownotes由 castwise.ai 制作
+Podwise - Podcast Knowledge at 10x Speed!
+podwise.ai
+Apple Store 下载👉🏻 apps.apple.com
+硬地笔记
+* 00:00:04AI 浏览器的兴起与独特价值
+* 00:04:50AI 原生浏览器与插件的差异及隐私安全问题
+* 00:14:22对 AI 浏览器的信任感与不同产品的策略分析
+* 00:23:15AI 浏览器的合规性与设计理念
+* 00:30:06Atlas 收购 Dia 的战略意义与 AI 浏览器的新方向
+* 00:36:13AI 自动化与传统浏览器的颠覆
+* 00:47:08Chromium 开源项目的影响与 AI 浏览器的未来
+扩展笔记：castwise.ai
+欢迎关注我们
+* 知识星球:t.zsxq.com
+* 官网: hardhacker.com
+* 小手册: book.hardhacker.com
+* 用爱发电不容易，请我们喝咖啡☕️: afdian.net
+* 公众号/小红书: 硬地骇客
+* 商务合作: hardhackerlabs@gmail.com
+* 另外，现在加入「硬地骇客」会员服务，即可在会员专属的微信群与其他朋友一起畅所欲言，成为会员也是对我们持续更新最大的鼓励！</description>
+            <content:encoded><![CDATA[<h1>转写链接</h1>
+<link>https://tongyi.aliyun.com/efficiency/doc/transcripts/mloynm35dybj9agp</link><br>
+<h1>节目摘要</h1>
+<div class="summary">讨论集中于AI浏览器的发展趋势、产品策略及其面临的挑战与机遇。特别提到OpenAI推出的“Arbor”浏览器，展现了AI在自动完成购物、信息整理等领域的应用，强调了AI浏览器提升用户体验的潜力。分析了市场上的主要竞争者，如“Arbor”、“Comment”等，讨论了他们在隐私、安全、自动化能力等方面的差异，以及AI浏览器对现有浏览器生态的潜在影响。同时，指出了AI浏览器面临的隐私和安全挑战，强调在快速发展的AI技术背景下，平衡创新与用户隐私保护的重要性。最后，对AI浏览器的未来表达了乐观态度，认为实现高效网络浏览体验与隐私保护之间的平衡，将是该领域持续探索的关键。</div><br>
+<h1>章节速览</h1>
+<div class="chapters">
+<div class="chapter-item">
+<span class="time"><strong>[00:00:00]</strong> </span>
+<span class="chapter-title"><strong>AI学习软件助力播客内容消化</strong></span>
+<div class="chapter-summary">介绍了一款名为Model wise的AI学习软件，它能对播客内容进行转录、总结等处理，帮助用户更高效地理解硬核内容。该软件还与notion read、voice等平台兼容，支持知识管理。此外，为听众提供了优惠码活动，鼓励在小宇宙平台互动。</div>
+</div>
+<div class="chapter-item">
+<span class="time"><strong>[00:00:46]</strong> </span>
+<span class="chapter-title"><strong>AI浏览器：缩短上网最后一公里的独特价值</strong></span>
+<div class="chapter-summary">对话探讨了AI浏览器的独特价值，指出传统浏览器作为工具，用户需手动完成所有操作，而AI浏览器具备工作记忆、全局信息获取和代理执行能力，能自动完成如整理页面、自动购物等任务，有效缩短了人上网的最后一公里，提升了上网效率和体验。</div>
+</div>
+<div class="chapter-item">
+<span class="time"><strong>[00:04:49]</strong> </span>
+<span class="chapter-title"><strong>AI浏览器与插件：权限、性能与体验的差异</strong></span>
+<div class="chapter-summary">讨论了AI浏览器相较于插件在权限、性能和用户体验上的优势，包括能读取更多系统资源、提供更流畅的原生体验，以及通过数据闭环优化功能，强调了原生浏览器在功能成熟后可能替代插件的趋势。</div>
+</div>
+<div class="chapter-item">
+<span class="time"><strong>[00:09:28]</strong> </span>
+<span class="chapter-title"><strong>AI浏览器权限与隐私安全探讨</strong></span>
+<div class="chapter-summary">对话围绕AI浏览器及其插件权限的演变展开，讨论了系统级别权限与用户级别权限的区别，以及由此引发的隐私安全问题。提及了某AI浏览器在用户隐私数据收集方面的争议，包括其隐私保护措施的不透明性和默认设置的误导性。强调了在追求高级功能时，用户需信任服务提供商不滥用数据的重要性，同时也指出了当前纯本地模型在功能上的局限性，以及隐私保护与技术实现之间的矛盾。</div>
+</div>
+<div class="chapter-item">
+<span class="time"><strong>[00:12:16]</strong> </span>
+<span class="chapter-title"><strong>AI浏览器安全与隐私挑战探讨</strong></span>
+<div class="chapter-summary">对话深入探讨了AI原生浏览器可能带来的安全和隐私风险，包括间接提示注入等新型漏洞，以及高操作权限可能导致的意外信息泄露和资损。讨论中提到，尽管部分AI浏览器已采取限制措施如禁止下载文件和操作本地文件，但仍面临自动化功能受限的问题。此外，隐私保护措施如在敏感站点强制暂停操作被提及，但整体上，AI浏览器的信任危机正在逐渐显现，特别是在信任度较高的浏览器市场中，新形态的AI浏览器可能打破原有的信任共识，引发用户对隐私和安全的新一轮关注与调整。</div>
+</div>
+<div class="chapter-item">
+<span class="time"><strong>[00:17:02]</strong> </span>
+<span class="chapter-title"><strong>AI浏览器与传统浏览器在信息收集上的差异及市场策略探讨</strong></span>
+<div class="chapter-summary">讨论了传统浏览器如何通过插件屏蔽第三方信息收集，而AI浏览器要求用户主动分享个人信息，引发对隐私保护的思考。同时，分析了open add atlas、property comment和the brother company三个新兴AI浏览器在产品策略和路线上的不同，以及在实际使用中的体验差异。</div>
+</div>
+<div class="chapter-item">
+<span class="time"><strong>[00:18:34]</strong> </span>
+<span class="chapter-title"><strong>AI浏览器功能与合规性差异探讨</strong></span>
+<div class="chapter-summary">讨论了两款AI原生浏览器在功能、自动化任务执行及隐私合规方面的差异。一款浏览器因过于保守的安全策略限制了功能，而另一款则大胆授权自动化操作，尽管存在安全风险。两者在产品设计、目标用户定位及操作能力上展现不同侧重点，反映了各自在技术应用与用户体验间的平衡选择。</div>
+</div>
+<div class="chapter-item">
+<span class="time"><strong>[00:23:31]</strong> </span>
+<span class="chapter-title"><strong>AI与隐私标准：ChatGPT的合规之路</strong></span>
+<div class="chapter-summary">讨论了AI工具如ChatGPT在遵守隐私和安全标准方面的努力，与不遵循标准的工具对比，强调了合规对用户体验的影响，以及在AI时代开发工具时选择Electron框架的优势。</div>
+</div>
+<div class="chapter-item">
+<span class="time"><strong>[00:29:14]</strong> </span>
+<span class="chapter-title"><strong>AI浏览器设计与价值探讨</strong></span>
+<div class="chapter-summary">对话围绕AI浏览器的设计理念、功能差异及其市场价值展开，讨论了为何某些浏览器能以高价格被收购，以及AI浏览器未来可能的发展方向，如网页内容理解与执行。提及设计在产品成功中的重要性，以及面对新兴技术如AI原生浏览器时，现有SaaS产品如何应对入口争夺的策略。</div>
+</div>
+<div class="chapter-item">
+<span class="time"><strong>[00:33:35]</strong> </span>
+<span class="chapter-title"><strong>AI浏览器与企业工作新操作系统探讨</strong></span>
+<div class="chapter-summary">讨论了NASA寻求AI浏览器作为工作入口及第二增长曲线的可能性，分析了AI浏览器在企业工作中的应用价值，提出未来可能不需要传统浏览器，而是实现网页工作的AI自动化，甚至出现全新的信息获取方式。</div>
+</div>
+<div class="chapter-item">
+<span class="time"><strong>[00:40:17]</strong> </span>
+<span class="chapter-title"><strong>AI浏览器的发展与传统浏览器的应对策略</strong></span>
+<div class="chapter-summary">对话探讨了Chrome和Microsoft Edge在AI能力集成上的保守策略，与新兴AI浏览器强调全局自动化和跨标签页协同的差异。认为老牌浏览器应从自身生态出发，如Google和微软分别连接个人和企业应用生态。同时，讨论了地址栏弱化趋势和颠覆传统浏览器形态的可能性，提出无需标签页即可上网的创新思路。</div>
+</div>
+<div class="chapter-item">
+<span class="time"><strong>[00:44:42]</strong> </span>
+<span class="chapter-title"><strong>Chromium开源项目在AI浏览器安全与市场中的核心地位</strong></span>
+<div class="chapter-summary">讨论了Chromium开源项目对AI浏览器安全性的贡献及其在市场中的核心地位。强调了Chromium在反诈骗、反病毒等安全措施上的作用，以及其作为事实标准对新兴浏览器和广告展示方式的影响。同时，提到了Chromium未来可能面临的变数，包括开源社区的限制和新的收入模式探索。</div>
+</div>
+<div class="chapter-item">
+<span class="time"><strong>[00:50:19]</strong> </span>
+<span class="chapter-title"><strong>AI浏览器：从寄生虫到创新者</strong></span>
+<div class="chapter-summary">对话探讨了AI浏览器的兴起及其与传统浏览器的本质区别，指出AI并非简单叠加于现有产品，而是可能催生全新的信息获取方式。讨论了AI浏览器的商业模式转变，从难以盈利到通过订阅费实现价值，同时展望了未来可能的创新方向，强调不应局限于现有框架，而应探索更广阔的可能。</div>
+</div>
+</div><br>
+<h1>问题回顾</h1>
+<div class="qa-item">
+<div class="question"><strong>Q:</strong> 为什么现在大家都在抢着做AI浏览器？它能给用户带来什么样的独特价值？</div>
+<div class="answer"><strong>A:</strong> AI浏览器的独特价值在于，通过AI技术，它可以理解并执行用户的指令，如整理网页信息、比价购物等，极大地提升了用户的上网体验和生产力。例如，OpenAI的浏览器能够根据用户需求自动整理和呈现信息，并能与全局信息获取及代理执行能力结合，实现更智能化的操作。</div>
+</div>
+<div class="qa-item">
+<div class="question"><strong>Q:</strong> AI浏览器相比插件有哪些不可替代的能力？</div>
+<div class="answer"><strong>A:</strong> AI浏览器作为原生APP与插件相比，有以下优势：首先，在权限层面，原生浏览器拥有更多控制权，可以读取和操作包括本地文件系统在内的所有内容，而插件受限于平台限制只能读取授权网页内容；其次，在性能上，原生浏览器资源更丰富，能使用系统级别资源，从而执行更复杂、快速的操作；最后，在产品体验上，原生AI浏览器可以重塑入口和使用流程，优化用户操作习惯，并通过闭环数据获取不断改进服务，这是插件难以实现的。</div>
+</div>
+<div class="qa-item">
+<div class="question"><strong>Q:</strong> 插件和原生AI浏览器在技术和功能实现上的主要区别是什么？</div>
+<div class="answer"><strong>A:</strong> 主要区别在于：技术层面，原生AI浏览器拥有更多系统级权限，可以读取和操作更多数据及执行更复杂任务；性能上，原生浏览器不受插件资源分配限制，能使用更多系统资源，运行更高效；产品体验上，原生AI浏览器可以对整个浏览器进行深度定制和优化，带来更流畅、个性化的用户体验，并能更好地整合用户数据，形成数据飞轮效应，而插件难以达到这种程度的融合和精细化控制。</div>
+</div>
+<div class="qa-item">
+<div class="question"><strong>Q:</strong> 对于AI原生浏览器记录用户浏览记录和行为数据的行为，你们怎么看这个隐私问题？</div>
+<div class="answer"><strong>A:</strong> 这个问题确实值得关注。现在浏览器会记录用户的所有浏览内容及时间长短，甚至像XGP可能也掌握了这些信息。关于隐私保障，厂商艾特拉斯声称有措施，比如一个名为“隐私 dashboard”的功能可以查看其访问的数据，但实际上并未完全实现。他们提到可以关闭某些开关以禁止OpenAI拿用户数据训练模型，但默认设置并非关闭，并且只能建议用户在未登录模式下使用agent来限制敏感数据访问和执行操作，而无法从机制上做出强制性限制。</div>
+</div>
+<div class="qa-item">
+<div class="question"><strong>Q:</strong> 那么在安全方面，AI原生浏览器有哪些考虑和限制呢？</div>
+<div class="answer"><strong>A:</strong> 欧美厂商对此非常重视，提供了许多开关和策略供用户调整。例如，可以关闭允许模型使用用户数据训练的开关，虽然一开始艾特拉斯声称默认是关闭的，但实际上默认是开启的。此外，艾特拉斯建议用户在未登录模式下使用agent以增强隐私保护，但对于自动化高级操作，如下载文件或操作本地文件，仍可能存在风险。之前披露的一个漏洞——间接提示注入，就是通过网页上的低对比度图片等手段向大模型注入提示词，可能导致意外的信息泄露或资损风险。</div>
+</div>
+<div class="qa-item">
+<div class="question"><strong>Q:</strong> 这些AI原生浏览器在产品策略和实际使用体验上有哪些不同？</div>
+<div class="answer"><strong>A:</strong> 目前市场上的AI原生浏览器如OpenAI的Atlas、property的comment以及the brother company的D浏览器，在产品定位和策略上有所区别。其中，Atlas定位为AI通用浏览器，强调ChatGPT能力，但在隐私合规和安全策略上较为保守，对于一些潜在的违规操作会拒绝执行，如尝试爬虫任务时会提醒用户并建议通过个人手动编写脚本来实现，以确保符合隐私协议。</div>
+</div>
+<div class="qa-item">
+<div class="question"><strong>Q:</strong> 在AI技术的应用上，comment与atlas有何不同之处？</div>
+<div class="answer"><strong>A:</strong> comment强调自动化，它允许用户创建后台自动运行的任务，比如定时爬取网页最新进展或每日汇总体育比赛结果。这种高度自动化也带来风险，如意外和越权操作的安全漏洞，但comment能够实现这些自动化功能。</div>
+</div>
+<div class="qa-item">
+<div class="question"><strong>Q:</strong> 对于用户界面的改进，为何有些用户回归使用A（即ChatGPT前身）而非di亚？</div>
+<div class="answer"><strong>A:</strong> 因为新版本的di亚在某些交互体验上不如A，比如对输入框内文字的识别和编辑功能不如A完善。而A之前的设计被用户所接受，因此部分用户选择回归使用A。</div>
+</div>
+<div class="qa-item">
+<div class="question"><strong>Q:</strong> 新版本的di亚在设计上有什么特点？</div>
+<div class="answer"><strong>A:</strong> 新版本的di亚去掉了之前版本的侧边栏设计，并且更侧重于与SaaS工具的整合，尤其是针对项目经理、设计师和开发者等知识工作者。例如，它可以将网页中的文字内容识别并翻译后直接替换到标签页的输入框内，更加注重操作行为和执行动作。</div>
+</div>
+<div class="qa-item">
+<div class="question"><strong>Q:</strong> comment和atlas在产品定位和功能上有哪些差异？</div>
+<div class="answer"><strong>A:</strong> comment定位更偏向于搜索、研究及自动化，能执行如网页爬虫、数据获取和整理等任务；而atlas在识别和操作网页内部输入框文字方面的功能相对较弱，且遵循安全隐私标准较为严格。</div>
+</div>
+<div class="qa-item">
+<div class="question"><strong>Q:</strong> Cloud Flair报告中提到的AI浏览器遵循爬虫协议和安全隐私标准的情况如何？</div>
+<div class="answer"><strong>A:</strong> Cloud Flair报告指出，某些AI浏览器如proxy严重违反爬虫协议和安全隐私标准，而ChatGPT等遵循新的开放标准，目前只有ChatGPT严格遵守这些标准。因此，尽管效果上可能存在差异，但ChatGPT在某种程度上是因为严格遵守安全规范才导致效果不如其他声称能检索所有信息的浏览器。</div>
+</div>
+<div class="qa-item">
+<div class="question"><strong>Q:</strong> 对于将ChatGPT功能集成到浏览器中的看法是什么？</div>
+<div class="answer"><strong>A:</strong> 将ChatGPT类的功能集成到浏览器中，可以方便地进行网页数据抓取并利用AI做进一步处理，对于开发者而言，使用electron等框架结合浏览器内核进行开发是一种高效且便利的方式。</div>
+</div>
+<div class="qa-item">
+<div class="question"><strong>Q:</strong> 对于di亚浏览器设计风格的变化有何看法？</div>
+<div class="answer"><strong>A:</strong> di亚在设计上延续了Ark的高品位和审美，但在安装过程中发现其设计风格与预期不符，变得较为朴素，失去了Ark的优秀设计元素，这让人感到费解。</div>
+</div>
+<div class="qa-item">
+<div class="question"><strong>Q:</strong> AI驱动的浏览器与传统浏览器的主要区别是什么？</div>
+<div class="answer"><strong>A:</strong> AI驱动的浏览器，如ChatGPT，能够利用AI技术进行网页搜索、内容理解与执行网页上的动作，而无需严格遵守网页标准规范和隐私安全规定。这使得AI浏览器在数据抓取和利用AI功能方面具有很大优势，但也引发了关于AI驱动浏览器应遵循何种标准的讨论。</div>
+</div>
+<div class="qa-item">
+<div class="question"><strong>Q:</strong> 那么，对于DA不把ark folk 1份，它们的老板在Twitter上表示了什么计划？从这家公司身上，我们可以看到设计的力量体现在哪些方面？</div>
+<div class="answer"><strong>A:</strong> 他们的老板在Twitter上表示，他们会把ark中的一些优秀功能移植到DI里面， essentially 是重新做一遍。这家公司的设计非常突出，尽管浏览器市场已有众多竞争者，如基于Chromium开源项目的Opera等，但Ark凭借侧边栏创新设计吸引了大量用户，展示了设计带来的独特竞争力。</div>
+</div>
+<div class="qa-item">
+<div class="question"><strong>Q:</strong> Ark的融资情况如何，以及最后的结局怎样？</div>
+<div class="answer"><strong>A:</strong> Ark融资融得非常好，最后一轮融资达到了数亿美元。最终被Atlassian以6.1亿美元的价格收购，虽然不清楚具体用户数量，但这个价格表明即使不是大众化产品，也具有很高的市场价值。</div>
+</div>
+<div class="qa-item">
+<div class="question"><strong>Q:</strong> Atlassian为何会选择收购Ark？</div>
+<div class="answer"><strong>A:</strong> Atlassian看到机会和危机并存，尤其是在AI原生浏览器开始抢占浏览器入口的背景下，作为SaaS提供商，为了避免被取代，选择收购Ark来占据AI浏览器for work的入口和寻求第二增长曲线。</div>
+</div>
+<div class="qa-item">
+<div class="question"><strong>Q:</strong> 是否认为浏览器有可能成为企业工作的新操作系统？</div>
+<div class="answer"><strong>A:</strong> 是的，Atlassian希望将Ark打造成工作浏览器，并基于数据显示企业工作中85%的工作在浏览器中完成，认为AI浏览器能提供更强大的自动化和跨页面、跨站点协作能力，有可能成为企业工作的新入口。</div>
+</div>
+<div class="qa-item">
+<div class="question"><strong>Q:</strong> 当前是否真正需要新的AI浏览器，还是有其他需求？</div>
+<div class="answer"><strong>A:</strong> 当前可能不需要新的AI浏览器，而是需要能够让网页工作自动化的新技术。市场上已出现多种AI浏览器，但实际上可能需要的是能够自动化的传统浏览器或者全新的交互形式，颠覆现有的浏览网页的方式。</div>
+</div>
+<div class="qa-item">
+<div class="question"><strong>Q:</strong> 在AI浏览器的产品设计上，有哪些有趣的细节？</div>
+<div class="answer"><strong>A:</strong> AI浏览器如迪亚和奥特莱斯正在弱化地址栏的概念，用户在使用过程中可能感受不到输入URL的过程，未来甚至有可能完全看不到地址栏。这可能是新的AI浏览器的一个特点。</div>
+</div>
+<div class="qa-item">
+<div class="question"><strong>Q:</strong> AI浏览器是否在尝试颠覆传统浏览器，比如Chrome？AI浏览器在安全方面的举措是什么？</div>
+<div class="answer"><strong>A:</strong> 如果真的要颠覆传统浏览器，AI浏览器首先应该颠覆的是表格结构（table），让用户无需通过传统的表格就能上网浏览网页。目前它们在弱化地址栏的概念，试图创造一个全新的形态，但这还需要解决得很丝滑，让用户直观地认识到无需“退伍”也能高效地完成任务。AI浏览器在安全层面上做了很多努力，比如增强安全、反诈骗、反病毒和反诱导的功能，而非仅让自己变得安全，而是帮助用户识别网站的安全性，避免访问诈骗网站、诱导性网站或带病毒的网站。</div>
+</div>
+<div class="qa-item">
+<div class="question"><strong>Q:</strong> Chrome在安全方面的考虑以及对新兴浏览器的影响是什么？AI浏览器是否只是作为搜索引擎（如Google）的入口，其商业模式是否受到限制？</div>
+<div class="answer"><strong>A:</strong> Chrome作为事实标准的浏览器，拥有海量用户数据，能够帮助用户识别网站安全性。对于新兴的AI浏览器来说，由于底层基于Chromeium开源项目，若要挑战Chrome的地位，需要在保证用户体验的同时探索新的广告展示方式和收入模式。AI浏览器虽然表面上依赖于Google搜索和展示广告，但Google仍握有流量和数据的护城河。未来，AI浏览器可能通过新的广告展示方式或API检索收费等方式探索新的收入来源，同时保持与Google搜索的兼容性，以确保自身的开放性和生态地位。</div>
+</div>
+<h1>节目文稿</h1>
+<p class="transcript-line">
+<span class="time"><strong>[00:00:04]</strong> </span>
+<span class="speaker"><strong>发言人1: </strong></span>
+大家好，欢迎收听异地骇客。我是seattle，我是一笑。
+</p>
+<p class="transcript-line">
+<span class="time"><strong>[00:00:08]</strong> </span>
+<span class="speaker"><strong>发言人3: </strong></span>
+我是龟龟。
+</p>
+<p class="transcript-line">
+<span class="time"><strong>[00:00:09]</strong> </span>
+<span class="speaker"><strong>发言人1: </strong></span>
+本期节目由power wise赞助播出。Od wise是一款为播客听众制作的AI学习软件产品的slogan是read before listen。Model wise通过AI对播客内容进行转录提取、总结分析等一系列操作，帮你掰开了揉碎了硬核的播客内容。同时与notion read、voice等平台的打通，嵌入知识管理工作流，协助您的其他包括新闻newsletter、blog的内容，帮你打造第二大脑。Hot wise也为本期听众准备了三个5折优惠码。针对本期在小宇宙与我们互动的精选回复，欢迎大家踊跃来玩。
+</p>
+<p class="transcript-line">
+<span class="time"><strong>[00:00:46]</strong> </span>
+<span class="speaker"><strong>发言人1: </strong></span>
+好的，那开始我们本期的节目。传闻已久的open I atlas浏览器终于来了，感觉open I是跟google杠上了。之前每次german也要发布他们的IOM大模型的时候，大家都得狙击一下子现在是直接掀桌子发布浏览器了，再加上perplexity，还有刚被收购的那个arc团队，我感觉现在AI浏览器也是一个非常热的一个赛道，感觉这可能又是一次新的入口大战。不过我想先问一下你们，为什么大家现在都抢着想去做AI浏览器？它到底能给用户带来什么样的独特的价值？
+</p>
+<p class="transcript-line">
+<span class="time"><strong>[00:01:23]</strong> </span>
+<span class="speaker"><strong>发言人3: </strong></span>
+你说这个独特价值让我想起了我们上一期聊的这个话题，说软件在吞噬生产力。它的区别就是以前软件是提供工具的，今天就是软件直接把活给干了。这个区别因为以前浏览器它其实就是工具，那所有的事情其实都是这个人在做对吧？我们来干。对，然后现在有了这个工作记忆和全局信息获取的能力，包括代理执行的能力之后，其实很多事情就可以命令浏览器来做了。本来浏览器就是互联网世界最大的入口，现在能做事儿了，大家这个想象的空间就很大了。就是反正你之前在网上干的事儿，感觉AI浏览器都能帮你干。
+</p>
+<p class="transcript-line">
+<span class="time"><strong>[00:02:06]</strong> </span>
+<span class="speaker"><strong>发言人3: </strong></span>
+像这次OpenAI的那个，其实给了一些case，就比较直观，觉得很方便。但是他这个case给是给你实际去用的时候，感觉好像没那么方便，是自己试了一下，反正他case给的是感觉挺方便的。比如说他有一个case是reopen the shoes I looked yesterday。就是他说我把我昨天看到所有鞋重新给我打开，对吧？我要再挑挑很常用的一个场景，就是我昨天可能看了很多东西但是没买，我今天想再看看。但实际上你也可以直接让那个阿特拉斯S帮你挑，对吧？反正他这些tab他都能看啊。你说这个鞋我有一个什么样的标准，你帮我挑一个最合适的，甚至还可以说直接帮我加到购物车里面之类的。
+</p>
+<p class="transcript-line">
+<span class="time"><strong>[00:02:44]</strong> </span>
+<span class="speaker"><strong>发言人3: </strong></span>
+他另外一个case就是类似这个样子，让那个阿塔斯去调说，去海滩玩需要用到的东西，然后都加到购物车里面去自动购物了。反正我也下载体验了一下，感觉怎么说呢？他有些没有想的那么好啊。比如说我让他自动去做一些什么事情，说我说把这个页面整理成一个PDF给我下载下来，它就不行了。因为他他访问不了本地文件，它限制了这个策略。
+</p>
+<p class="transcript-line">
+<span class="time"><strong>[00:03:08]</strong> </span>
+<span class="speaker"><strong>发言人3: </strong></span>
+但是相比起来我平常比较用的多的场景，比如说我会跟LM聊一些东西，我会让他帮我去查一些东西，我现在就把LM当搜索用。那实际上这个时候其实大模型都是依赖web社区的。然后你在一个ChatApp里面聊和你在一个浏览器里面聊，你会发现和浏览器深度整合之后，这个体验确实会好很多。不管他去访问这个网页的速度，还是说你去查看，比如说它的原始信息来源之类的，这个体验就会好很多。它就比较天然，感觉和浏览器是比较合适的对。
+</p>
+<p class="transcript-line">
+<span class="time"><strong>[00:03:43]</strong> </span>
+<span class="speaker"><strong>发言人2: </strong></span>
+其实一句话总结，我来总结的话，他就是他们都在努力用AI去缩短人上网的最后一公里的那个问题。比如说我们可能经常去做一个调研，就像硅谷说的，我可能要打开多个tab，然后能去找很多的资料。最后你不断的需要靠人在这些type里面去切换这些东西。但是现在有了AI它可以理解多个type的内容。所以这个时候人不需要再去关心各个网站的信息这些包括你买东西去比价这些，哪怕最后一公里的下单这些。就这就是曾经所有的网站，他们只能给你做到那个位置上，最后始终会给你留一点距离，需要你人去做，因为他没办法去做到那自动化的那个形态。但是今天AI LLM出来过后，最后的那一步的自动化也可以完成了。这是我对今天的AI浏览器，就在传统的浏览器上加上AI过后，带来一个最大的价值，就是不断的在解决和人最接近的最后的那那一步的独特的价值。
+</p>
+<p class="transcript-line">
+<span class="time"><strong>[00:04:51]</strong> </span>
+<span class="speaker"><strong>发言人1: </strong></span>
+我这里其实有一个挺好奇的一个问题。我们都知道最早以前LM刚出来的时候，那个Monica就是现在最火的minus之前的那个前身，它其实是做侧边栏chrome插件起家的。它的侧边栏chrome插件其实也是IM跟网页聊天，当时其实也挺火的。对我就感觉这些像什么网页聊天、总结，甚至去操作页面的内容，就类似有点RPA的功能，就这些chrome插件其实都能做。那为什么大家还争着抢着去做一个浏览器呢？这个浏览器相比插件，它有没有什么是不可替代的一些能力？
+</p>
+<p class="transcript-line">
+<span class="time"><strong>[00:05:28]</strong> </span>
+<span class="speaker"><strong>发言人3: </strong></span>
+现在可以说这个浏览器是AI原生浏览器是吧？这种原生的对它这种原生的APP和插件肯定还是有很大差距的。首先一个从权限层面，其实就有一个不可跨越的鸿沟。因为插件的话你能做的事儿其实是被你的这个生态的这个平台给限制住的。那今天就浏览器为了数据隐私安全之类的，其实很多东西都是限制的。它不会让插件去帮你就是所有的东西都能看的那插件能读取的内容一般就是仅限于授权的这个网页内容。然后包括这个网页动物，它也不一定能够全都看到，一些隐藏标签什么他可能是看不到的。
+</p>
+<p class="transcript-line">
+<span class="time"><strong>[00:06:07]</strong> </span>
+<span class="speaker"><strong>发言人3: </strong></span>
+但是你作为一个原生的APP，其实你就能读到所有的东西。因为想要控制什么权限是你自己决定的，对吧？包括你的这个页面的完整内容，你的下载的记录，你的历史的浏览的记录，你的这些书签，甚至包括你的本地文件系统。只要这个浏览器他愿意，他其实都可以开放给他自己的这个大模型去读。但这些东西其插件其实肯定都是读不了的，然后操作也是一样的，对吧？插件最多就是在当前标签页做些事情，但是AI浏览器的agent几乎可以做所有事情。只要你不限制的，人能做的事情他几乎都可以做，然后这是一个。
+</p>
+<p class="transcript-line">
+<span class="time"><strong>[00:06:47]</strong> </span>
+<span class="speaker"><strong>发言人3: </strong></span>
+还有一个就是在性能上也会有差距，因为插件它肯定也是受限于平台对它这个资源分配的一个限制，我能给你用多少资源是有限的，不然你一个插件回头跑把我给跑死了怎么办？但AI浏览器本身作为一个原生APP，它能使用的资源是整个系统级别。那能用的资源多，其实能做的事情自然就会多，然后也会更快更好。比如说我可以用一些小的本地模型去做一些前置的事情，或者说做一些隐私相关的要求高的事情，就不用上云了。但这种的话插进去很难做，他基本上肯定是要调远端ABI去做的，他资源不够。
+</p>
+<p class="transcript-line">
+<span class="time"><strong>[00:07:22]</strong> </span>
+<span class="speaker"><strong>发言人3: </strong></span>
+然后还有一个区别，我觉得是产品体验上的。因为插件从定位上终究是个辅助，他很难说我对这个浏览器去做一个非常大的体验上的优化或者改造。但是今天这些原生AI浏览器，它是可以在入口和整个使用的流程上去做重塑的。他可以去改变用户的这个使用习惯，这个才能说带来真的原生体验。这个好处还有一个是能够把用户的操作和这个数据的获取去闭环，然后他就可以用这个数据的飞轮去让这个做的越来越好。这个也是插件做不到的对。
+</p>
+<p class="transcript-line">
+<span class="time"><strong>[00:08:03]</strong> </span>
+<span class="speaker"><strong>发言人2: </strong></span>
+归主要从技术上总结了很多的这个浏览器的一些优势，其实我们不用一定要去掰这个浏览器和插件的一个区别，就想一下浏览器的那些功能，可能很多功能是怎么来的。今天的浏览器可能早期很多都是插件，但是看到那个插件的生态越来越烦了。这个插件好像用的人很多，很基础。要做浏览器的觉得说这个东西我们好像可以做了，也很简单，并且我可以做的更好，就那么回事对吧？就和今天的IOS的生态其实一模一样。你会发现IOS里面的那些APP，可能有很多东西早期可能都很粗糙，对吧？在在越来越来你会发现它很就越来越精细化了。其实这些功能其实都是会有的，APP就做的很好。
+</p>
+<p class="transcript-line">
+<span class="time"><strong>[00:08:50]</strong> </span>
+<span class="speaker"><strong>发言人2: </strong></span>
+第三方的。对对对，我觉得他们两个的一个共生的关系其实就是这个样子的那你说那个插件可能会有一个很大的问题。如果我浏览器原生提供了，比如就像如果ChatGPT他要选择在chrome上去做一个功能性很强大的一个插件。那只要chrome做了过后原生支持了，那作为用户来说的话，大概率会选择原生的，觉得chrome已经做了这个样子那么流畅已经很好用了，对吧？我们为什么还需要再多装一个插件呢？所以这也是我觉得大家为什么一定要能选择去做一个自己的浏览器。的一个很大的一个原因。
+</p>
+<p class="transcript-line">
+<span class="time"><strong>[00:09:29]</strong> </span>
+<span class="speaker"><strong>发言人1: </strong></span>
+对这一点我觉得挺有意思的。就是说AI浏览器里面的很多功能，其实以前是从插件来的。然后插件做着做着，就觉得说这个事儿我好像可以做，我把它吸收进来。但其实极有可能是以前很多插件它可能用外挂的形式把这个事做了，但是做得很别扭。然后AI浏览器把那个权限开放过后，他自己做反倒做的就很轻松，很容易。所以说我觉得这个确实也是一点，就是因为大家本身在系统层面能拿到的权限是不太一样的。对，一个是用户级别，一个可能是系统级别，我觉得这个还是有挺大区别的对，然后我不知道你们有没有用过open I的艾特莱斯，他一进来的时候，他就会要求你说，你是不是允许让ChatGPT观察并记住你所做的所有事儿？我感觉这个权限挺恐怖的。
+</p>
+<p class="transcript-line">
+<span class="time"><strong>[00:10:19]</strong> </span>
+<span class="speaker"><strong>发言人1: </strong></span>
+以前我们刷抖音，抖音其实已经知道你所有爱看的所有东西了，对吧？但是你在搜什么之类的可能还没有完全掌握。那现在这个的话，你的浏览器所有记录你到底在看什么，甚至看多久，然后XGP可能都知道了。我不知道你们怎么看这个隐私问题。
+</p>
+<p class="transcript-line">
+<span class="time"><strong>[00:10:36]</strong> </span>
+<span class="speaker"><strong>发言人3: </strong></span>
+我其实还问了艾特拉斯自己这个问题。我说你这个隐私要怎么怎么保障？他给我吹了一堆，后来我发现他里面有些都是瞎吹的。他说他有一个什么隐私的dashboard，可以看到atlas到底访问了哪些数据。然后我说你给我打开这个dashboard，他搞了半天说我现在还没有这个dashboard。
+</p>
+<p class="transcript-line">
+<span class="time"><strong>[00:10:58]</strong> </span>
+<span class="speaker"><strong>发言人3: </strong></span>
+但实际上这个权限也没办法，是必要的对吧？因为你没有这些权限的话，你做不了这些高端操作。就好比你说找了个人说你帮我PS一下照片，但是你又不想把自己的丑照给别人看，就不可能。你只能说找个信得过的人指给他看，对吧？然后他转头就给你发出去了，你也没有办法。
+</p>
+<p class="transcript-line">
+<span class="time"><strong>[00:11:20]</strong> </span>
+<span class="speaker"><strong>发言人3: </strong></span>
+当然这种问题作为欧美厂商肯定是非常重视的，他好像搞了很多开关和策略给你。比如说你可以禁止OpenAI拿你的数据去训练模型，它这个在setness里面是有开关的，然后他号称说默认是关闭的，这个又是艾特拉斯自己瞎打，他跟我说这个开关默认是关闭的，我一去一看默认是打开的，我就赶紧给它关了。然后另外艾特莱斯也会建议你说，可以考虑在未登录模式下使用agent，然后限制他访问你的这个敏感数据，或者说以你的身份去执行操作。但是这个是给你自己的建议，就是他建议你这么做，他并不能就是他从机制上是做不了什么事情的。但是隐私这个你除非说完全用纯本地模型，不然你没什么好的办法。因为你从技术上就必然要把数据上传，只能说首先你得相信他不作恶。但是今天纯本地模型肯定还做不到，我们想要那么好的效果，比起隐私这个问题，其实更大的还是安全问题。
+</p>
+<p class="transcript-line">
+<span class="time"><strong>[00:12:17]</strong> </span>
+<span class="speaker"><strong>发言人3: </strong></span>
+就之前comment不是披露过一个漏洞，就是policy的这个关系叫间接提示注入，还是什么玩意儿的那就是通过在网页上构建人眼不可见的信息，就是那种低对比度的图片。比如说人看不出来，但是多模态在识别那个图片的时候，识别出来里面其中的文字，他就通过这些来向大模型注入提示词，然后大模型一跑，可能就跑出了一些你自己的高危的数据，或者说做了一些高危的操作。特别是如果你的这个AI原生浏览器的操作权限非常高，这也是commit的一个特色，就是它的操作权限非常高。你自己又不监控，你就丢那让他自己跑，那你可能就会出现意外的信息泄露，或者说有意外的资损的风险。比如说你直接给别人转账了啥的那这个漏洞之前报出来是好像就是安全研究直接爆出来的，但是没有发生实际的止损，但是这是一个新的形态，我们需要一些经验才会知道说它里面可能哪里有安全问题之类的。
+</p>
+<p class="transcript-line">
+<span class="time"><strong>[00:13:19]</strong> </span>
+<span class="speaker"><strong>发言人3: </strong></span>
+所以像atlas其实他也做了一些限制，比如说他不允许去下载文件，或者说不允许去操作本地文件，他就限制了他自己的能力。但这就也就导致他的很多自动化的功能就做不了自动化的命令。比如说像我刚说的，你去帮我生成一个PDF下载，它下载不了，因为它不能去操作本地文件。然后它还有有一些他号称的对这种隐私安全的防范。比如说对于敏感站点，像网银这种，它会强制暂停，让让用户去看着他操作，他就不会全自动去操作。
+</p>
+<p class="transcript-line">
+<span class="time"><strong>[00:13:53]</strong> </span>
+<span class="speaker"><strong>发言人3: </strong></span>
+反正我觉得这个隐私和安全的问题肯定还是比较早期的，还需要时间去攻防去完善。然后大家在接受度上可能也会去调整，因为你没办法，你数据肯定是要给的。然后安全会遇到什么问题呢？肯定也是要遇到了才知道。我觉得后面少不了会听到一些什么因为AI原生浏览器的漏洞导致的止损时间什么的。我觉得特别是在什么数字货币这种行业，特别有可能发生。大家在用的时候还是要稍微小心一点。
+</p>
+<p class="transcript-line">
+<span class="time"><strong>[00:14:23]</strong> </span>
+<span class="speaker"><strong>发言人2: </strong></span>
+对我自己也安装了阿特莱斯。对我在自己在安装的过程中，它确实会有这样的提醒。但是我的心理变化其实还是比较平稳的。因为觉得这儿有一个很大的一个区别，就是浏览器我们其实对浏览器是有一个很大的一个信任的关系在里面。就浏览器这个东西，我感觉在我的心里，它已经和其他的软件非常不一样。因为浏览器这个东西说白了就是我的所有的数据，其实本质就跑到了。比如每个网站密码、账号等等等等，所有的隐私其实他都知道了。对所以我觉得这个心理过程已经被对在过去这么多年使用电脑的过程中，他已经被建设的很好了。所以说我对他的这种影，特别是影视方面的话，好像那种没有特别大的一个波澜。
+</p>
+<p class="transcript-line">
+<span class="time"><strong>[00:15:14]</strong> </span>
+<span class="speaker"><strong>发言人2: </strong></span>
+对，因为我自己前一段时间我自己也用外部coding了一个个人的一个那种电脑上的一个APP的一个助手。对，其实我当初做他的一个最大的目的就是说，我能不能给自己装一个监控。就可以想其实很多人就在想，一个人能给自己装一个监控，就是说我在电脑上做的所有的事情，个人助手他都能帮我记录下来。比如我上的网页，我今天访问了哪些网站，能够全部帮我记录下来。我执行了哪些命令，我修改了哪些文件等等等等，啪啪啪都能够帮我记录下来。对，所以说我就觉得说给自己装一个监控就是这样的感觉。
+</p>
+<p class="transcript-line">
+<span class="time"><strong>[00:15:49]</strong> </span>
+<span class="speaker"><strong>发言人2: </strong></span>
+但是我在做的过程中，其实最后做去做来发现作为一个第三方的APP，它不是浏览器的这种形态的话，要向操作系统申请非常多的权限。比如说要去拿用户现在正在浏览器上访问的页面。那这件事情其实也是也也是需要向操作系统去申请权限的。然后等等还有一些其他，比如说要去拿其他APP的一些信息，这个其实都是比较高危的。对你会发现这种的话，一个心理上的感受那就要强烈很多了。因为你是一个第三方的APP，你不是浏览器，因为浏览器也是有一个很强的共识的。我觉得今天对我觉得这一波AI浏览器的出来过后，可能会打破这种共识。因为太多了。
+</p>
+<p class="transcript-line">
+<span class="time"><strong>[00:16:35]</strong> </span>
+<span class="speaker"><strong>发言人2: </strong></span>
+因为曾经的浏览器说白了是很权威，我们觉得说就是像高山一样站在那，只有chrome，只有曾经的IE对吧？只有softly air fox。所以说那种信任感是比较很自然的。但是今天各种乱七八糟的浏览器的出来，我觉得这种信任感的这种共识可能在逐渐被打破。对，就是我自己的一种感受，就是对浏览器还是挺信任的对。
+</p>
+<p class="transcript-line">
+<span class="time"><strong>[00:17:04]</strong> </span>
+<span class="speaker"><strong>发言人1: </strong></span>
+但确实我自己是这么觉得，就是浏览器这个产品在以前它是不收集个人信息的。比如说像以前浏览器它怎么去收集？就比如说因为我上了各种各样的网页，然后网页里边被嵌入了google的essence等等一些东西，它变成了变相的收集我的很多信息。但是因为有浏览器，有很多插件，然后它可以去屏蔽那些google license的。包括广告也好。
+</p>
+<p class="transcript-line">
+<span class="time"><strong>[00:17:28]</strong> </span>
+<span class="speaker"><strong>发言人2: </strong></span>
+包括它的去加载也好。
+</p>
+<p class="transcript-line">
+<span class="time"><strong>[00:17:29]</strong> </span>
+<span class="speaker"><strong>发言人1: </strong></span>
+其实可以让我把那些他的监控给去掉，对吧？但是现在这一轮新的AI浏览器，等于我自己要主动让渡我的权限KAI浏览器了。
+</p>
+<p class="transcript-line">
+<span class="time"><strong>[00:17:41]</strong> </span>
+<span class="speaker"><strong>发言人2: </strong></span>
+没错。
+</p>
+<p class="transcript-line">
+<span class="time"><strong>[00:17:41]</strong> </span>
+<span class="speaker"><strong>发言人1: </strong></span>
+我要把我的信息主动提供给他。所以说我觉得这个还是一个挺大的一个不一样。我自己可能还是要有一些心理建设。然后我想再跟你们再讨论一下，在开头不是也提到了吗？
+</p>
+<p class="transcript-line">
+<span class="time"><strong>[00:17:57]</strong> </span>
+<span class="speaker"><strong>发言人1: </strong></span>
+就现在主要这些AI浏览器里面，新的玩家里面有三方。第一个是现在open add atlas，这个是最近开始才有的。对，然后还有就是property的一个comment，这个是属于中间发布的。还有最早的一个其实是the brother company，就是arc的母公司。然后他们在做完ark之后，不是中间停了很长一段时间，说他们要做一个新的浏览器叫D。我就想起分享一下，就是这三个浏览器从你们的角度上面来看你觉得他们的产品策略跟路线上面有没有什么不一样。在使用的过程里面。
+</p>
+<p class="transcript-line">
+<span class="time"><strong>[00:18:35]</strong> </span>
+<span class="speaker"><strong>发言人3: </strong></span>
+其实初看感觉好像包括我自己一开始的时候，我也觉得说，那你作为一个AI原生浏览器，好像就是那样，就是聊一聊，然后让他做一些自动化的事情，这有什么区别呢？我一开始这么想的，然后后来去用了用，感觉确实是有一些差异，他们起码在产品的这个思考上就有区别。那你像阿特拉斯，它定位是一个AI通用浏览器，它是一个ChatGPT浏览器。它可能重点就是在我的ChatGPT很强，然后我要有一个浏览器的能力给他跑。但是他感觉在这个隐私合规和安全上的策略就非常保守。
+</p>
+<p class="transcript-line">
+<span class="time"><strong>[00:19:14]</strong> </span>
+<span class="speaker"><strong>发言人3: </strong></span>
+我试过让艾特莱斯帮我去跑一个爬虫任务。我就说这个论坛上面有一些我要的信息，你帮我翻子论坛翻5页，然后找出我要的信息给我整理一个表格。然后阿泰斯不肯，他说你违反这个论坛的用户数据，什么协隐私协议什么的，不能帮我跑。然后他给了我个建议，说帮我生成一个爬虫的脚本，我自己跑。这样的话这个就是我的个人行为了，就跟他没有关系。
+</p>
+<p class="transcript-line">
+<span class="time"><strong>[00:19:41]</strong> </span>
+<span class="speaker"><strong>发言人3: </strong></span>
+这算什么东西，就甩锅给吧？我感觉有点矫枉过正了。因为本身我让你帮我跑，也是我的个人行为就有点矫枉过正了。所以它的这个虽然它是定位通用的，但是它因为在这个合规和安全上的策略比较保守，很多事情都做不了，其实束手束脚的，我感觉不是特别好，但是跟他聊的时候还是挺好的。他帮你去回答你的问题，去找东西的时候还是挺快的。虽然他也会编的，我刚刚也讲过了，他自己编，自己有他的隐私的dashboard，其实根本没有。
+</p>
+<p class="transcript-line">
+<span class="time"><strong>[00:20:14]</strong> </span>
+<span class="speaker"><strong>发言人3: </strong></span>
+Comment我感觉他很强调它自动化，这个是和atlas的一个很大的区别。就是comment它授权自动操作策略就很大胆，它甚至还能创建在后台固定时间自动运行的全自动任务。比如说他可以创建说你每周五的时候帮我去跑一下，爬一下某个领域有什么最新的进展，一些科研的进展。然后说每天去帮我汇总一下体育比赛的结果，他可以做这个事情，然后其实我之前设想过一个说，我们可以做一个罕见病治疗研究跟踪的APP，就是去跟踪那些罕见病，它的有没有什么新的疗法什么的研究进展。然后现在发现其实commit这个全自动，那我们就可以实现。当然这种高度自动化可能带来的风险就是意外和越权操作带来的这个安全漏洞。但是像刚刚我让艾拉斯帮我去做那个爬虫任务，他就可以做。
+</p>
+<p class="transcript-line">
+<span class="time"><strong>[00:21:13]</strong> </span>
+<span class="speaker"><strong>发言人3: </strong></span>
+然后第二，其实我一开始的时候没太用明白，也一开始的时候确实也没怎么用。当时第二出了之后，我大概用了两周时间就换回A了。我觉得A之前的设计挺好的，但是迪亚新做的时候，他就把之前的那个侧边栏设计全都给干掉了，就没了。对我觉得为什么你完全可以保留，你是新新加的这个AI能进去，完全可以保留那个体验，要不然他他就搞没了。
+</p>
+<p class="transcript-line">
+<span class="time"><strong>[00:21:38]</strong> </span>
+<span class="speaker"><strong>发言人3: </strong></span>
+第二的这个定位，他号称目标群体是比如说什么项目经理，然后设计师、开发者那种创作者这种知识工作者。他就强调和sas的整合，比如说跟ja啥的，这个定位和阿特拉西亚是对得上的对吧？阿特拉西亚不是买了它，但是我不知道这个定位是收购之后才转过去的，还是说他之前其实就是这个定位，我感觉可能也是收购之后才转过去的，它有一些功能设计上是能感觉到这个的。就比如说他能直接把你某个网页里面的这个编辑框里面的文字，说你跟他说帮我翻译一下。然后翻译的结果他可以直接replace到这个标签页的输入框里面，是更看重操作和行为的，他他是能够帮你去做事情的，执行一些action。
+</p>
+<p class="transcript-line">
+<span class="time"><strong>[00:22:27]</strong> </span>
+<span class="speaker"><strong>发言人3: </strong></span>
+但与之相对的，比如说像commit，commit连识别输入框中的文字都不行，它能识别网页上显示出来的只读的这些文字。但是输入框里面的文字你让它识别，不管你选中不选中，它都不识别。包括说让它帮你往这个输入框里面输入文字，它也不一定行。然后像阿特拉斯也是，它能识别输入框里面的文字，但是我让他替换，他就呆在那里了，他也不做操作，还有还是有挺大进步空间的。所以其实能看出来这个迪亚会更看重去做动作，但是会更偏向probability本身的定位。它是去做search和research，包括它刚刚自动化里面提到的一些例子，其实也是更偏向于数据获取和整理的，所以其实确实能看出来他们在产品思路上的一些差异。
+</p>
+<p class="transcript-line">
+<span class="time"><strong>[00:23:16]</strong> </span>
+<span class="speaker"><strong>发言人2: </strong></span>
+其实都是在做自己擅长的，更擅长的或者是对这就是在好这儿。因为龟龟吐槽了很多阿特莱家的基金，可能做的不太好，不太擅长不太流畅的一些自动化。这件事儿我必须得好好掰扯一下，聊一下了。
+</p>
+<p class="transcript-line">
+<span class="time"><strong>[00:23:31]</strong> </span>
+<span class="speaker"><strong>发言人2: </strong></span>
+你们可能之前没有去看过cloud flair的那那一个报告，为什么今天comment会能做成这个样子？但是at less chat GB却做的很守规矩。Cloud fair之前出了一份报告，就是专门针对policy就公然指出prox是现在违反爬虫协议，违反所有的这些安全隐私标准最严重的一家公司。他们是指名道姓的proxy给列举出来了，然后列出了很多的证据，polo XT完全不遵循这些标准。但是ChatGPT比如说您现在提出最新的标准，就是web机器人，web board OS的这种钢提出来的一个新的这种开放的标准。现在的可能只有chat GDP1家公司是在遵守这些标准的对，所以当你如果说从这种行业的标准的角度来看你还是发现KDB为什么做成了这个样子，它的效果流畅性上可能就是差一点。那他确实是有道理的，他可能在遵循这些东西。
+</p>
+<p class="transcript-line">
+<span class="time"><strong>[00:24:39]</strong> </span>
+<span class="speaker"><strong>发言人2: </strong></span>
+好，刚才归因为也提到了这个东西。比如说是本来就是我下达指令让你去做合理给我一个脚本让我去执行。这两件事情好像出发点都是我本质上应该没有什么不同。
+</p>
+<p class="transcript-line">
+<span class="time"><strong>[00:24:53]</strong> </span>
+<span class="speaker"><strong>发言人2: </strong></span>
+对，从这种角度，其实这个问题确实当然我们今天不讨论这件事情，我想说的是归的这种表达的这个观点，他是一个很大范围的人，其实都在争论这件事儿。对，因为cloud fair出了relaxation的报告过后，然后在hacker news上这几天的讨论非常的多，其实就有很多人在提出这个观点，在现在进入AI来了过后，是不是我们让AI去做的事情。那AI其实本身就等同于我就是这件事情是没有掰扯清楚的。我觉得可能这个在未来也是值得整个行业需要去定义的一件事情。对AI我让AI去做的事情，AI是不是就相当于我他不用去遵守那种标准了。对，可以直接在网页上去执行。反正现在我们只是说现在没有这种标准的规范。所以在当下可能也需要稍微为我为chat GB说一句话，就是他们确实今天可能在效果上差一点，是因为他们特别遵守这些安全隐私的一些标准。
+</p>
+<p class="transcript-line">
+<span class="time"><strong>[00:25:59]</strong> </span>
+<span class="speaker"><strong>发言人2: </strong></span>
+对所以不光是浏览器，其实在之前发布的那些agenda的时候，ChatGPT的agenda就有很多人说是所有的agent tor里面效果最差的。就发现他很多东西都搜不到。然后像proper lexi很多东西都能做得到。还包括我相信manner等等等等所有的agenor。我相信这些能号称自己可以帮你检索到所有的信息，帮你做很深度的长时间的一些任务的复杂的任务的分析执行的事儿。我相信他们可能背后都没有太去遵守这些这些隐私规范。所以说我觉得这件事情，我们的听众朋友大家是需要知道的对，当然可能每个人会有自己的看法观点，我觉得也比较正常。
+</p>
+<p class="transcript-line">
+<span class="time"><strong>[00:26:44]</strong> </span>
+<span class="speaker"><strong>发言人2: </strong></span>
+接下来我回到浏览器本身的话，比如像我今天去看待阿特莱斯，我觉得说它几乎上是约等于一个ChatGPT。我觉得连他的产品界面在我的眼里就是ChatGPT。ChatGPT不是有一个mark的APP。所以我其实在使用alt las的时候，特别是我第一眼打开alt的时候，我的感受是我操我觉得他们背后应该是将chat GB APP的这个代码直接fork了一份，然后添加上了浏览器的那个tab功能。其实好像对，这是我的一个字。你想chat GB APP它本身都可以做网页搜索，它本来就能访问UIL，只是它没有一个明确的type标签去显示那个网页而已。
+</p>
+<p class="transcript-line">
+<span class="time"><strong>[00:27:29]</strong> </span>
+<span class="speaker"><strong>发言人2: </strong></span>
+那除此之外，其他的不就是一些再叠加一些浏览器相关的一点点管理功能吗？其实那个东西都很简单的对，因为我刚才提到我自己在做我自己本地的一个个人助手的时候，我收集了很多浏览器的history的数据过后他。本来也是可以去浏览一个UIL的网页的对，其实我当时在想过说，把这个东西能不能给他浏览网页的这个样子，做成一个浏览器的模样，就是有type这种感受。对，其实我想说这个东西，我只是想过这件事，不是说我一定会去做这样的事情。我只是想表达说确实把一个今天的APP给它封装成一个浏览器，其实这件事情是非常的简单。所以说我一度怀疑恰的鸡不听这个outlets本身就是ChatGPT的，APP在它的背后。
+</p>
+<p class="transcript-line">
+<span class="time"><strong>[00:28:13]</strong> </span>
+<span class="speaker"><strong>发言人2: </strong></span>
+对，只是他今天给到用户是两个产品。这里其实我也刚好就像说我自己在做个人注册，得出了一个很好的结论，也值得大家去参考。你今天在AI的时代，你去做一些电脑上的这种PC的APP，可能你选electron这样的框架真的是非常的好。可能曾经大家会觉得说选一个原生的或者挺棒的。因为electing他就知道里面已经有一个浏览器的一个内核，对吧？几乎是等同一个完整的浏览器。其实你这个时候在AI的时代，有了这个浏览器过后，你可以用它去做非常多很便利的数据。比如像刚才我们说的，你不需要遵守网页的标准规范，然后隐私安全去随便抓爬人家的网页的数据，然后再拿来用AI做一些什么叉叉的功能，其实都是非常的方便的对，我是在这里只是推荐一下AS来选择，是有很大的优势的对。好，这个我相信开发者是可以理解的对。
+</p>
+<p class="transcript-line">
+<span class="time"><strong>[00:29:15]</strong> </span>
+<span class="speaker"><strong>发言人2: </strong></span>
+好，然后我们再回到低哑，我觉得低我也是真的很难评低。我一直都觉得说也是延续了arc的一贯的风格，就是很有品味，很有审美，特别是观望对吧？我一打开他的观望这些，特别是安装低压的过程，就会发现他很有arc的审美在那儿。一刚开始出来的那种品味都觉得很高。对，但是结果一装上过后发现怎么的，这个玩意儿怎么和up就完全不一样了呢？Up的那些优秀的设计怎么在地下上感觉全都没了，就变就变成就发现地下就变成了一个异常朴素的浏览器。我就感受不到它和二是来自于同一个团队，对ark的优秀的设计全干没了。对，反正是让我觉得很费解，很难平的一件事情。对，因为我还是觉得说如果你能在arc上去做一个AI浏览器，那我觉得从我的角度，我觉得这是很棒的一件事情。对，因为我今天自己也是还是使用ark为主。
+</p>
+<p class="transcript-line">
+<span class="time"><strong>[00:30:18]</strong> </span>
+<span class="speaker"><strong>发言人2: </strong></span>
+对，嗯好，所以说从AI的角度，当然那个看门头我确实我我我到现在从来都没有下载过。对，因为我自己很久很久都已经不太接触of relaxed。对，那从AI的角度来说，其实这些AI浏览器其实我是看不出他们会有什么大的不一样。那么未来的那个路径究竟会有什么非常多的不同，这个我是不太能够想象得到的。因为今天你让我们去做一个AI浏览器，我们会做什么事情，其实我们闭着眼睛都能够数得出来。我们可能想做的不外乎不就是网页的总结摘要，然后去理解网页的内容，然后去执行网页上的动作。其实除此之外，我不太能够想象得到这件事情。今天也要让我们自己去做一个AI浏览器，可能也是这个样子。
+</p>
+<p class="transcript-line">
+<span class="time"><strong>[00:31:10]</strong> </span>
+<span class="speaker"><strong>发言人1: </strong></span>
+那你刚才提到那个DA为什么不把ark folk 1份？我也不知道他们为什么不把ark folk 1份，但是他们的老板在twitter上面已经讲了，他们会把ark里边的一些优秀功能移植到DI里面。等于把这个事儿再重新做一遍。对我觉得我们能从这家公司身上看到设计的力量的一个很典型的一个案例。对你你不会觉得说他做一个浏览器对吧？浏览器这个东西自从chromium开源出来之后，然后大家前赴后继做过不知道多少浏览器了。Opera甚至每隔几年都会做一个浏览器，样子都还挺好看的对，但是ark就是靠一个侧边栏，然后又把这个事儿又懒了好多用户出来。
+</p>
+<p class="transcript-line">
+<span class="time"><strong>[00:31:55]</strong> </span>
+<span class="speaker"><strong>发言人1: </strong></span>
+对我觉得他是一家设计非常突出的一家公司，融资也融得很厉害。反正最后一轮应该是融到了几个亿美金。对，最后也落了一个好结局。
+</p>
+<p class="transcript-line">
+<span class="time"><strong>[00:32:06]</strong> </span>
+<span class="speaker"><strong>发言人1: </strong></span>
+对，因为设计比较优秀，也落了一个好结局。被亚特拉斯也收购了，就是被GR跟confluence那家公司收购了，收购的价格是6.1亿美金。我也不知道他到底有多少用户，几百万、几千万用户我不知道，但这个价格是怎么算出来的，一个用户十美金吗？我不知道怎么算出来这个6.1亿美金。确实很难想象一个浏览器值这么多钱，而且不是一个很大众的产品。他可能在我们互联网圈，在科技圈里边可能小火。
+</p>
+<p class="transcript-line">
+<span class="time"><strong>[00:32:36]</strong> </span>
+<span class="speaker"><strong>发言人1: </strong></span>
+对，但是它其实还不是一个很大众的产品，但是就被亚特兰花了6.1亿美金去收购。我那天我还在极客上面说，在推特上面说，我说艾特lisa是当了冤大头了吗？我不知道你们怎么评价这笔交易。
+</p>
+<p class="transcript-line">
+<span class="time"><strong>[00:32:50]</strong> </span>
+<span class="speaker"><strong>发言人3: </strong></span>
+我感觉asa他其实就是看到了机会和危机。克伦迪亚是一个在这个机会和危机下比较合适的选择。因为本身athalia他做SaaS的，他的产品基本上都是用浏览器作为入口。今天AI原生浏览器开始抢这个入口，那拉斯也想要防守一波或者说参与一下也是可以理解的。因为否则后面比如说这个AI浏览器它做的越来越好，可能像ja confidence这样的产品在这个时代就会失去入口。那我今天这个入口本身说，我想要引导你去用什么样的产品，就可以引导去用什么样的产品。或者干脆反正背后你也不用管什么产品，我全都用大模型帮你做掉了。
+</p>
+<p class="transcript-line">
+<span class="time"><strong>[00:33:35]</strong> </span>
+<span class="speaker"><strong>发言人3: </strong></span>
+那对于这个NASA，它其实就是一个很大的危机了，所以他今天可能想说我去占一个AI浏览器for work的这个入口和心智工作用的AI浏览器，这是一方面，我觉得然后另一方面，也可以认为是寻求一个第二增长曲线，反正因为他之前的业务就这样了，很多年其实也没有变过，但可能也需要一个第二增长曲线。这两个叠加起来，第二作为一个相对来说还是挺有知名度的产品。因为你如果真的想要去要一个浏览器的话，好像也没有什么更好的选择，对吧？你也不可能去买chrome，只能说第二，作为一个相对来说还挺有知名度的产品，也愿意去配合阿拉西亚的这个需求，我就感觉也算合理。至于这个价格是不是冤大头还真不好说，因为毕竟他前面也融了那么多钱，他这个估计也便宜不了。
+</p>
+<p class="transcript-line">
+<span class="time"><strong>[00:34:25]</strong> </span>
+<span class="speaker"><strong>发言人1: </strong></span>
+你讲的这个总不能去买chrome，那有人就是被狮子大开口，production就要买chrome，我觉得这个也是挺夸张的。我不知道perplexity到底有多少钱，之前就有一个消息说，他们愿意以346还是364亿美金去买chrome。
+</p>
+<p class="transcript-line">
+<span class="time"><strong>[00:34:45]</strong> </span>
+<span class="speaker"><strong>发言人2: </strong></span>
+这真的。
+</p>
+<p class="transcript-line">
+<span class="time"><strong>[00:34:46]</strong> </span>
+<span class="speaker"><strong>发言人1: </strong></span>
+是蛇吞象，甚至是蚂蚁吞大象。我觉得这个真的是一个挺夸张的一个数字。对，但是好像传闻是因为说google可能面临反垄断，反垄断的话可能需要把chrome分拆出去，分拆出去的话可能要找一个人。对，但是我觉得再怎么去找人的话，也probability它他能花360几亿去买chrome。我觉得这个确实是很难想象的一个事儿。对呃，我觉得刚才归提的很好，就是说att可能想找一个AI浏览器for work的一个入口。对，那是不是阿雷娜姐在赌这个事儿？就是说浏览器会成为企业工作的新操作系统吗？
+</p>
+<p class="transcript-line">
+<span class="time"><strong>[00:35:27]</strong> </span>
+<span class="speaker"><strong>发言人3: </strong></span>
+对我觉得是的。因为你去看他那个收购之后他发的文章，他自己有公布他的愿景，就是说想把比亚打造成工作浏览器。他提到过一个数据，他自己提到的数据是说企业工作中大概有85%的工作是在浏览器中完成的。其实想想也可以理解，但是国内不一定，国内都是在钉钉里面完成的。对，事实上它其实就是一个企业工作入口。大家都在这个浏览器上使用各种SaaS去完成他的企业工作。然后今天AI浏览器带来了更加强大的自动化，带来这种跨页面、跨站点，有跨上下文协作的能力。从拉特拉西亚的角度，这个逻辑确实是。
+</p>
+<p class="transcript-line">
+<span class="time"><strong>[00:36:10]</strong> </span>
+<span class="speaker"><strong>发言人2: </strong></span>
+挺顺的对对，这个我也是认可的对借着这个话题我再延伸一点我的一些新的包容性的思考。我是始终是觉得说，我们今天可能不需要一个新的AI浏览器。对，我们可能需要的只是让浏览器能够AI自动化。我们今天看有太多的AI浏览器冒出来了，大大小小的。其实国内很大一批，我不知道大家有没有去看过，其实并不就是AI浏览器的新贵，其实并不只有现在的这三家海外的。其实国内我昨天看到微博搞了一个也是关于AI浏览器的一个话题，然后里面列出来的浏览器简直太多了，我觉得现在不下于十个，特别多。对对对，所以说你从这个不看，可能就是我们真的其实并不需要这些AI浏览器。我们可能还是需要的就是一个浏览器，一个传统的浏览器。
+</p>
+<p class="transcript-line">
+<span class="time"><strong>[00:37:06]</strong> </span>
+<span class="speaker"><strong>发言人2: </strong></span>
+但是我们真正的需求是啥？能够让今天的这些网页的工作能够被AI能够自动化花掉。这件事情我们有一个很大的感触，就是啥呢？我相信我们就从AI coding里面就可以看得出来，在两年前去提AI coding这件事儿的时候，我们可能那个时候都在提copilot，在都在提concert。对，因为我们都会觉得说有一个ID才更方便的去做AI coding。但是从今天来看，做AI coding这件事情并不需要一个ID，你会发现那些ID上很复杂的那些功能，其实对今天做AI coding这件事情没有任何帮助，一点用都没有。
+</p>
+<p class="transcript-line">
+<span class="time"><strong>[00:37:47]</strong> </span>
+<span class="speaker"><strong>发言人2: </strong></span>
+对，因为今天不管是什么cloudy、cold, 还有codex，human CLI这各种新的coding的形态都在出现了。我们曾经确实从来没有谁会用一个LI去写代码，这个是做不到的。因为我们的CRI都是用来执行命令，执行任务的，从来没有说想过这件事儿。那今天一样的浏览网页，去网页上去干活去做事情，我们从来也没有想过说是不是可以不用一个浏览器。当然我们没想过，我觉得当然不代表在接下来不会出现，有可能会出现一个新的AI的浏览器。它不是浏览器，这个对，感觉有点绕。对，大概就是这个样子的。但我觉得我顺着我自己的这种包容性的思考往下想的话，哪怕就是今天的AI浏览器上面的那个AI agenda，他们能够替代大多数人在浏览器上的工作的话。
+</p>
+<p class="transcript-line">
+<span class="time"><strong>[00:38:42]</strong> </span>
+<span class="speaker"><strong>发言人2: </strong></span>
+那我们为什么还需要外部开发呢？那为什么还需要前端开发？过去的这些前端的技术是不是都可以废除？根本他可能其实是对人友好。因为我们过去的整个标准的定义都是为人而定义的，并不是for AI的，不是为LAM去定义的这些钱端的浏览器的标准。所以说你从这个角度去看的话，那可能越到后面可能真的出现的就不是今天的这个浏览器了。它可能就不是一个今天的传统的浏览器。对，所以说这就是我觉得说可能我们今天需要的不是一个新的AI浏览器，而是一个另外的东西来颠覆浏览网页这件事儿。但这个可能就很难。对，大家只能看到今天去做一个浏览器真的异常的简单，所以说大家就来摘一下这个低垂的果实，也是挺好的一件事儿。
+</p>
+<p class="transcript-line">
+<span class="time"><strong>[00:39:36]</strong> </span>
+<span class="speaker"><strong>发言人1: </strong></span>
+对我觉得一笑这个思考很有意思。就说现在有很多人在做新的AI浏览器。我们回过头来想，其实我们不太需要新的AI浏览器，我们需要让浏览器自动化。但是如果在原始的浏览器上，我让它能够AI自动化，这是一种对吧？还有刚才就是你需要把这个事儿推的更往前，我们根本都不需要浏览器这个东西了，对吧？
+</p>
+<p class="transcript-line">
+<span class="time"><strong>[00:39:58]</strong> </span>
+<span class="speaker"><strong>发言人1: </strong></span>
+它可能是一种新的交互形式也好，干嘛也好，吧？就跟现在我们用CLI去写代码是一样的。那未来可能用一种什么样全新的一种形式去浏览网页，我不知道，或者说就没有网页了，对吧？我只要获取信息就可以了，所以说我觉得这个也是一个很先进的一个思考。对。
+</p>
+<p class="transcript-line">
+<span class="time"><strong>[00:40:18]</strong> </span>
+<span class="speaker"><strong>发言人1: </strong></span>
+但是我们回过头来想你刚才讲说老的浏览器它也可以加入新的能力。那你看现在像chrome跟microsoft age，其实age本身也是chrome based的，对吧？他们其实现在也都加入很多AI能力了，包括微软本身现在操作系统层面也加了很多AI能力。对，那我们就先不谈操作系统，我们就谈chrome跟microsoft age。你觉得他们的现在加AI的这些能力的打法跟那三家他们会有什么差异吗？
+</p>
+<p class="transcript-line">
+<span class="time"><strong>[00:40:48]</strong> </span>
+<span class="speaker"><strong>发言人3: </strong></span>
+感觉今天chrome和age还是有点保守，它就是在做点状的集成，就在某些地方把AI能力欠起来。比如说搞个测评栏，然后可能在地址栏里面去做一些事儿，就是循序渐进的来。就不像今天这些新的AI新势力，强调的更多是全局的自动化，然后工作记忆，然后跨标签页、跨站点的协同之类的。他们就是在尝试寻找这个新的交互形态了。当然他同时也会面对新的隐私合规以及安全层面的问题。我可以理解说这些老贵族，chrome age之类的，他在这方面偏保守一点也是比较正常的。我不知道我觉得如果chrome和edge也要深度来参一脚的话，是不是一个新品牌会更好一点。但是反正怎么说呢，就是你自己去革自己的命，肯定是要等着别人把自己给干掉要好一些，所以他们还是应该努力。
+</p>
+<p class="transcript-line">
+<span class="time"><strong>[00:41:45]</strong> </span>
+<span class="speaker"><strong>发言人2: </strong></span>
+但从我的角度来看，他们的打法其实我觉得都是一样的，都还是在从自己的擅长的生态出发，在做一些自己的事情。比如说阿特莱斯，就像我前面说的，阿特莱斯我觉得在我的眼里，他一上来他就是一个ChatGPT。因为今年在全球已经有好几大几亿的用户了，他不想放弃我觉得他的这个用户的生态，所以上来直接，我的阿特莱斯其实它本质上就是一个ChatGPT，你们大家就不需要去用之前的那个ChatGPT APP了，就在这儿用就好了。顺便这里又给你加了一个可以浏览网页的功能，这个就很顺。
+</p>
+<p class="transcript-line">
+<span class="time"><strong>[00:42:21]</strong> </span>
+<span class="speaker"><strong>发言人2: </strong></span>
+你就会发现对于OpenAI来说，其实google和微软我觉得他们今天都在做一件很重要的事情，都是在连接自己，也是在连接自己的应用生态。Google里面chrome的gm，他们不断的在连接google的gmail，youtube这些等等等等。因为google也是有非常多的应用的生态在里面的，面向个人。微软的话更多的是面向很多企业的一个应用的生态3.5，这也是微软选择的路线。所以说整体来看，我觉得他们三家选择的路线应该都是一致的，都是在从自己擅长的那个生态位出发。这是我觉得说他们可能要选择的话，只是说他们今天每个人擅长的东西不一样，说白了都还是在自己的护城河里面去玩儿，可能就是这个样子，这是我的一点看法。
+</p>
+<p class="transcript-line">
+<span class="time"><strong>[00:43:10]</strong> </span>
+<span class="speaker"><strong>发言人2: </strong></span>
+对，但是我觉得说他们在产品上确实有一些小细节，我觉得算是比较有趣的。对我把它单独拎出来提一下的，比如像迪亚和奥特莱斯，他们其实都在弱化地址栏UIL这个概念。我不知道大家有没有仔细去发现，其实你先打开它的一个新的table的时候，其实你是感受不到你去输一个URL这件事情。就那件事情是不断的在被他们去说话。可能在未来连这个UR可能看都看不见都是有可能的对，他们两个在这件事情上做的特别的像，所以我觉得这也可能是新的AI浏览器。
+</p>
+<p class="transcript-line">
+<span class="time"><strong>[00:43:49]</strong> </span>
+<span class="speaker"><strong>发言人2: </strong></span>
+他们本身就是觉得说想弱化这件事情，对，弱化掉地址栏这件事情。但是他们哪怕弱化这件事情，但是你会发现我们还是需要太保这件事情。我觉得只要有太保，你就是个浏览器，对吧？那他们对除非大家都想颠覆那些传统的流量。你们今天做AI浏览器的都都提出的口号是要颠覆像chrome，反正就是颠覆了一些传统的浏览器，对吧？
+</p>
+<p class="transcript-line">
+<span class="time"><strong>[00:44:17]</strong> </span>
+<span class="speaker"><strong>发言人2: </strong></span>
+如果你真的要颠覆传统的这些，我觉得先你们就应该先颠覆table，能不能不要做一个table出来了？我不需要table也能够上网，能够去浏览网页。我觉得你能够把这件事情解决的很丝滑，给大家一看，真的我不需要退伍了。但是一打开那个会确实就能能在网上做事儿。我觉得这是一个新的形态，可能对我觉得传统的table就等于传统那个浏览器。
+</p>
+<p class="transcript-line">
+<span class="time"><strong>[00:44:42]</strong> </span>
+<span class="speaker"><strong>发言人2: </strong></span>
+好，我们再看一下chong在做AI上面，我觉得真的一个很有意思的点。就是它里面做了非常多在增强安全、反诈骗了、反病毒、反诱导的这样的事情。他不是说让他的浏览器自己变得很安全，它是帮助那些帮助用户去屏蔽或者去识别网站的安全性。就这个网站是不是一个诈骗网站，或者说是不是一个诱导性的网站，带病毒性的一个网站，他们花了很多的精力在做这件事情，我觉得这是一件比较有趣的事情。
+</p>
+<p class="transcript-line">
+<span class="time"><strong>[00:45:16]</strong> </span>
+<span class="speaker"><strong>发言人2: </strong></span>
+但是这件事情可能也只有google能够意识得到。因为他有海量的用户，他可能真的知道每天全世界有大量的人在被诈骗之类的。对我觉得这也是一个大产品，或者说像谷歌这种大公司，他们应该具备的社会责任感。我觉得说他们去做这件事儿，就是他们应该去做的一个事情。但是我们反观所谓的初创的这些新的，其实大家不太会去思考这件事情。
+</p>
+<p class="transcript-line">
+<span class="time"><strong>[00:45:47]</strong> </span>
+<span class="speaker"><strong>发言人1: </strong></span>
+对你刚才讲的chrome在安全的这个层面上面想的很多，做的也很多。我觉得可能这些小厂一开始刚进来的时候，可能确实也没有能力。一方面他自己也没有数据，那chrome每天各种各样的数据，很多人汇报等等之类的对，这个好像也确实变成了chrome的护城河，因为它用户多，对吧？然后chrome它底层其实有开源一个premium，它是一个开源项目，然后其实是它底层的一个开发板。但是其实基于这个东西在发布自己的chrome。我们其实刚才谈到的所有的浏览器，就这一波所有的浏览器，包括D，包括comment，包括open AD artis，包括microsoft edge，全部都是基于chromium开源项目的一个产品？除了像苹果的safari是自己，基于web cate做的对，反正我觉得刚才提到的上面那一波所有的AI的浏览器，其实都是基于chromium做的。就这个事儿真的得感谢google，google现在就是新的。
+</p>
+<p class="transcript-line">
+<span class="time"><strong>[00:46:47]</strong> </span>
+<span class="speaker"><strong>发言人2: </strong></span>
+I16对吧？对对对。
+</p>
+<p class="transcript-line">
+<span class="time"><strong>[00:46:50]</strong> </span>
+<span class="speaker"><strong>发言人1: </strong></span>
+都现在都变成他一家了。对，除了这个chromium还有一个基于chromium的项目叫VS code对吧？其实VS code本质上也是基于chromium的对，然后这两个项目养活了一波AI创业公司，现在都不长大对吧？
+</p>
+<p class="transcript-line">
+<span class="time"><strong>[00:47:07]</strong> </span>
+<span class="speaker"><strong>发言人1: </strong></span>
+你们觉得说chromium这个项目未来会不会有什么变数？因为我们知道说前一段时间curse不是出了一个事儿，就VS code收回了一些插件的权限。因为那些VS code的插件很多是microsoft开发的，他们可能默认说，我这个插件只能用在VS code上面。你如果cursor想用的话，我不授权给你我不能用对吧？那当然科sir他后来他把他那个marketplace变到了一个VS code的一个开源marketplace上面对，但是那个开源marketplace上面就可能会有一些插件，就没有。对，反正这个事儿会影响一些科是本身在上面的一些生态，会有一些比较小部分关键的一些插件，可能就没有。
+</p>
+<p class="transcript-line">
+<span class="time"><strong>[00:47:49]</strong> </span>
+<span class="speaker"><strong>发言人1: </strong></span>
+对，那你们觉得说这个chromium的这个项目未来会不会有什么变数？比如说开源社区也整点什么1蛾子对吧？然后限制等等。
+</p>
+<p class="transcript-line">
+<span class="time"><strong>[00:48:00]</strong> </span>
+<span class="speaker"><strong>发言人3: </strong></span>
+对的，我发现以前是属于浏览器根本赚不到钱，所以没有人做对吧？现在对，现在发现浏览器也能收用户这个订阅费了，又一堆人跑来做。然后对，遇到这个问题，而且是刚刚说到这个新时代的I16，我其实真的很讨厌沙发。因它有很多地方实现的没有chromium，虽然这个b link也是从web kit来的，但是blink它有很多东西是修复了，应该算是修复了VBK的问题。比如说像什么音频文件的长度预测之类的，反正就b link要做的比这个safari好很多，现在。所以saffery才是让人头疼的那个IE6，我操天天要去兼容他。
+</p>
+<p class="transcript-line">
+<span class="time"><strong>[00:48:42]</strong> </span>
+<span class="speaker"><strong>发言人3: </strong></span>
+对，说回来这个，首先我觉得虽然chrome本身不赚钱，但是google他一直做，是因为他做出了这个事实标准。因为chrome其实就是google社区的入口，对吧？他其实想做的是这个，那edge其实也是一样，微软就是想做病的这个入口，所以实际上google还是通过chrome去赚的钱，是来自于google搜索，来自于google adidas的展示。只要这些新兴浏览器其实还在使用google搜索，还在展示这个google广告，那其实对google就不造成实质影响。而且实际事实上也是，虽然现在其实也不太一样了。因为AI入口他去检索信息的习惯，已经不是说我要去打开每个网页了，对吧？是这个AI自己去浏览之后去做总结了，这个广告展示是会产生影响的。但因为原始数据其实仍然来自于google，所以实际上google仍然手握这个流量和数据，它的护城河仍然在那。
+</p>
+<p class="transcript-line">
+<span class="time"><strong>[00:49:45]</strong> </span>
+<span class="speaker"><strong>发言人3: </strong></span>
+OPPO更需要做的是探索新的广告的展示方式，或者说新的收入方式。那我随便想，比如说对来自大模型的这种API检索去收费，它可能也是一个办法。Chromium本身作为今天浏览器的这个事实标准，它其实能够做很多事情。在这个过程中依托它这个地位，它可以去做一些比如说新的标准的制定之类的，让它更有利于google。所以我理解chromium肯定还是会继续去保持开放的，它需要它这个浏览器里面的事实上的生态的地位。
+</p>
+<p class="transcript-line">
+<span class="time"><strong>[00:50:20]</strong> </span>
+<span class="speaker"><strong>发言人2: </strong></span>
+对这个话题也是一个挺有意思的话题。比如我们从前面聊过AI搜索，然后到今天我们又聊了AI的浏览器。就在我眼里他们发生的这个方式其实真的是一模一样的。我们之前在聊AI搜索时，我们都说AI的本质不是在做搜索。那今天我们聊AI浏览器本质也不是在做浏览器对吧？都是在用claimer，反正都是claimer的寄生虫对吧？就是这个样子的对所以说搜索和浏览器其实沉浸在软件工程领域，这两个都是两座很难去跨越的高山。
+</p>
+<p class="transcript-line">
+<span class="time"><strong>[00:50:57]</strong> </span>
+<span class="speaker"><strong>发言人2: </strong></span>
+所以说曾经其实做的人很少，浏览器做的人也不多。其实还不是它赚不赚钱。因为曾经大家有的时候做浏览器，在早年的话，除了super five fox，chrome这些IE，就是这几家大家在在做这件事儿，对吧？但是今天进入到AI时代过后，不管是搜索还是浏览器，好像都成了大家眼里的低垂的果实，可以随意采摘了。
+</p>
+<p class="transcript-line">
+<span class="time"><strong>[00:51:23]</strong> </span>
+<span class="speaker"><strong>发言人2: </strong></span>
+对我觉得这也是一个有趣的一个现象。今天我觉得AI浏览器其实大家都是正在复制那个抠手的老罗都可能看到了cos RR的成功。Cose r在代码领域的成功，也正是从VS扣的这样叠加AI功能，然后让自己成功。在浏览器的领域其实和这个一模一样，就感觉我们只需要在克莱米尔上叠加AI的功能，做一个自己的浏览器，可能我们就成功了。
+</p>
+<p class="transcript-line">
+<span class="time"><strong>[00:51:52]</strong> </span>
+<span class="speaker"><strong>发言人2: </strong></span>
+对，但是我还是那句话，我总觉得说AI浏览器也不是说拿下今天的这个形态的AI浏览器，也可能你就真的是成功了也值得大家去思考一些其他新的一些方向。就像在cosa之外，我们还有很多优秀的一些扣顶的CLI工具的在崛起。他们不是IDE，但是他们今天也能在这个领域取得很好的成功。我们今天要去思考这浏览器器这件事情，是不是它真的是一个浏览器，还是说真的颠覆传统浏览器的，可能真的就不是一个浏览器。我觉得这件事情也是值得大家去思考的。而没有必要说我们今天真的全都是成为了crimea的寄生虫，然后大家去不断的在做这件事情。对我们。
+</p>
+<p class="transcript-line">
+<span class="time"><strong>[00:52:38]</strong> </span>
+<span class="speaker"><strong>发言人1: </strong></span>
+刚才有提到说浏览器以前不赚钱。我不知道大家还记不记得，以前搜狗提出了一个叫什么三级火箭模式。先用搜狗输入法去铺量，估完了之后然后推搜狗浏览器，推完搜狗浏览器之后再推搜狗搜索，最后靠搜狗搜索赚钱。
+</p>
+<p class="transcript-line">
+<span class="time"><strong>[00:53:00]</strong> </span>
+<span class="speaker"><strong>发言人2: </strong></span>
+没错。
+</p>
+<p class="transcript-line">
+<span class="time"><strong>[00:53:00]</strong> </span>
+<span class="speaker"><strong>发言人1: </strong></span>
+对吧？其实这个逻辑就跟为什么刚才我们讲说chrome跟microsoft他们一个在推google search，一个在推必应搜索，对吧？大家逻辑是一样的，以前想要靠浏览器赚钱太难了，对吧？你靠浏览器赚钱，最后背后里边你要接一个搜索，对吧？要不然就是你自己做了一个浏览器，内嵌一个hao 123或者之类的一个首页，那个首页里面全是广告对吧？要不然你就这样做，把那个首页锁死对吧？就确实以前这个浏览器是很难赚钱的对，但现在你把浏览器绑定一个AI能力，立马就可以收订阅费了。所以说确实就变成了现在低垂的果实了。
+</p>
+<p class="transcript-line">
+<span class="time"><strong>[00:53:41]</strong> </span>
+<span class="speaker"><strong>发言人1: </strong></span>
+对，很多人可能都上了财，但是这个低垂果实我估计维持不了多久。因为现在已经有巨头下来入场了，入场过后可能就用免费等等一些形式先做清场了。所以说我觉得这个里面还是有蛮多值得我们再去观察的对看后续AI浏览器如何发展，大家还是用现在这种形式慢慢做，不仅是吃一波用户，还是还会有新的更新的范式对吧？它可能不是浏览器，让大家能够更方便的去获取信息。
+</p>
+<p class="transcript-line">
+<span class="time"><strong>[00:54:14]</strong> </span>
+<span class="speaker"><strong>发言人1: </strong></span>
+我不知道我们的听友们有多少已经在用AI浏览器了。我不知道大家最常用的AI浏览器功能是什么？就是什么是你比较依赖的功能。对。也欢迎大家在评论区留言跟我们互动。我们本期节目就先到这里，感谢大家收听，大家再见。
+</p>
+<p class="transcript-line">
+<span class="time"><strong>[00:54:31]</strong> </span>
+<span class="speaker"><strong>发言人2: </strong></span>
+拜拜。
+</p>
+<p class="transcript-line">
+<span class="time"><strong>[00:54:32]</strong> </span>
+<span class="speaker"><strong>发言人1: </strong></span>
+以上就是我们本期播客的全部内容，感谢大家收听，也欢迎大家踊跃留言。如果你喜欢我们，欢迎点赞并分享给感兴趣的朋友。如果你在用苹果播客收听，也希望你花几秒钟给我们一个好评，这会让更多的人了解到我们要是能再点击一下订阅，那就再好不过了，我们下周见。
+</p>]]></content:encoded>
+            <pubDate>Wed, 29 Oct 2025 19:50:40 GMT</pubDate>
+            <guid>69026c19abb5e1cf580c64fb</guid>
+        </item>
+        <item>
+            <title>EP115 我们是不是在新时代还在做老软件？</title>
+            <link>https://www.xiaoyuzhoufm.com/episode/68efb58a2265473020ae0d88</link>
+            <description>本期探讨了 A16z 合伙人 Alex Rampell 提出的 “软件吞噬劳动力市场” 的观点。我们一起分析了 AI 时代软件如何从工具转变为数字员工，替代部分人力工作，并讨论了软件为结果负责的可能性。节目中还提到了 AI 对就业市场的影响，尤其对中间学历人群的冲击，以及传统 SaaS 公司在 AI 时代的挑战。此外，我们还以 Shein 和美团外卖为例，探讨了软件公司不自己下场做业务的原因，并讨论了新软件的特征，包括新的交互方式和可能带来的财富不均衡问题。
+本期亮点：
+* Alex Rampell 认为 SaaS 软件不应只盯着 3000 亿美元的既有市场，而应着眼于美国一年 13 万亿美元的劳动力市场，通过交付价值来代替人工。
+* 传统 SaaS 主要优势在于对人脑的补充和提升组织协同效率，而 AI 倾向于直接交付结果，替代中间环节。
+* 新的 AI 原生软件主体应是一个或多个 agent 的感知、计划执行、复盘调整过程，人工在关键节点介入，将人变成自动驾驶的安全观察员。
+* 传统 SaaS 公司更关注过程和记录，而新的 AI 软件更关注结果交付，应该销售像人的能力，而不是工具。
+本shownotes由 castwise.ai 制作
+Podwise - Podcast Knowledge at 10x Speed!
+podwise.ai
+Apple Store 下载👉🏻 apps.apple.com
+硬地笔记
+* 00:00:04软件吞噬劳动力市场：AI 时代的新视角
+* 00:07:04软件提效与企业核心竞争力
+* 00:12:25快时尚案例分析：Shein 与美团的启示
+* 00:17:26SaaS 软件公司的挑战与 AI 时代的转型
+* 00:24:00AI 交付结果：从 Photoshop 到医疗记录
+* 00:28:31AI 在编程领域的颠覆与社会影响
+* 00:36:02新软件的特征与未来展望
+扩展笔记：castwise.ai
+欢迎关注我们
+* 知识星球:t.zsxq.com
+* 官网: hardhacker.com
+* 小手册: book.hardhacker.com
+* 用爱发电不容易，请我们喝咖啡☕️: afdian.net
+* 公众号/小红书: 硬地骇客
+* 商务合作: hardhackerlabs@gmail.com
+* 另外，现在加入「硬地骇客」会员服务，即可在会员专属的微信群与其他朋友一起畅所欲言，成为会员也是对我们持续更新最大的鼓励！</description>
+            <content:encoded><![CDATA[<h1>转写链接</h1>
+<link>https://tongyi.aliyun.com/efficiency/doc/transcripts/zj78qpa52xkwqxdp</link><br>
+<h1>节目摘要</h1>
+<div class="summary">随着AI技术的飞速发展，软件行业正经历从工具型应用向智能代理的转变，这一变化不仅革新了软件的使用方式，也对劳动力市场结构提出了深刻挑战，特别是对可能被AI取代的工作岗位。AI的广泛应用可能加剧社会财富分配不均，因为其需求高度依赖高学历和技术背景，从而可能扩大知识和技术工人与普通劳动力之间的收入差距。讨论者强调了未来软件设计中需要探索的新交互方式，如语音和图像识别等，以提供更加多样化和自然的用户沟通体验，以满足日益增长的用户需求。面对AI时代带来的机遇与挑战，业界和公众被呼吁保持开放和创新的态度，同时应关注AI技术发展对社会结构和就业市场可能产生的潜在影响，确保技术进步能够惠及更广泛的人群。</div><br>
+<h1>章节速览</h1>
+<div class="chapters">
+<div class="chapter-item">
+<span class="time"><strong>[00:00:00]</strong> </span>
+<span class="chapter-title"><strong>AI学习软件助力播客内容消化</strong></span>
+<div class="chapter-summary">介绍了一款名为Model wise的AI学习软件，它能对播客内容进行转录、总结等处理，帮助用户更高效地理解硬核内容。该软件还与notion等平台打通，整合知识管理工作流，提升信息处理效率。此外，为听众准备了优惠码，鼓励参与互动。</div>
+</div>
+<div class="chapter-item">
+<span class="time"><strong>[00:00:46]</strong> </span>
+<span class="chapter-title"><strong>AI软件：从工具到数字员工的转变与市场潜力</strong></span>
+<div class="chapter-summary">对话探讨了AI软件如何从传统工具角色转变为能够独立完成任务的数字员工，这一转变不仅拓宽了软件的应用范围，还引发了关于软件为结果负责的新思考。讨论中指出，AI软件能够通过效果付费、灵活更换供应商及合同约定赔偿等方式，比人类更有效地为结果负责。此外，这种模式为企业带来了更低的管理成本和更高的灵活性，预示着软件行业从固定收入模式向共享成功模式的转型，市场潜力巨大。</div>
+</div>
+<div class="chapter-item">
+<span class="time"><strong>[00:05:02]</strong> </span>
+<span class="chapter-title"><strong>AI冲击就业：中间学历者受影响最大</strong></span>
+<div class="chapter-summary">哈佛经济学论文揭示AI对美国就业影响显著，尤其吞噬中间学历群体就业机会。讨论了AI时代个人应如何定位，或攀登金字塔顶端，或转战蓝领高性价比领域。提及特斯拉Optimus对蓝领岗位的潜在威胁，以及企业软件效能提升与成为企业核心的思考。</div>
+</div>
+<div class="chapter-item">
+<span class="time"><strong>[00:07:59]</strong> </span>
+<span class="chapter-title"><strong>软件提效与企业核心资源探讨</strong></span>
+<div class="chapter-summary">讨论了软件提效在企业中的作用，指出软件虽能提高效率，但不能替代企业核心资源，如关键人才、渠道、数据算法等。强调企业核心竞争力的重要性，提出风险与收益平衡的观点，建议在核心资源不足时选择更稳定的发展策略。</div>
+</div>
+<div class="chapter-item">
+<span class="time"><strong>[00:10:15]</strong> </span>
+<span class="chapter-title"><strong>传统软件与AI在组织协同和效率提升中的角色对比</strong></span>
+<div class="chapter-summary">对话讨论了传统软件和AI在组织协同和效率提升方面的作用。传统软件通过记录和管理流程，辅助人脑处理复杂业务，提升组织协同效率。相比之下，AI更进一步，不仅管理记录，还能直接参与生产过程，如自动化执行任务，从而实现更高层次的效率提升。两者虽有差异，但都在不同层面上为企业效率和协同做出了贡献。</div>
+</div>
+<div class="chapter-item">
+<span class="time"><strong>[00:13:08]</strong> </span>
+<span class="chapter-title"><strong>快时尚巨头与新晋龙头：供应链、数据算法与地域优势</strong></span>
+<div class="chapter-summary">对话探讨了快时尚领域中H&amp;M和ZARA的传统优势，以及中国公司skin shin如何凭借广州番禺的地域供应链优势、高效的设计与数据算法选品能力，迅速崛起并超越前者。此外，还以美团外卖为例，强调了算法调度和运力网络在互联网公司中的核心作用。</div>
+</div>
+<div class="chapter-item">
+<span class="time"><strong>[00:16:00]</strong> </span>
+<span class="chapter-title"><strong>运力网络与企业IT能力对商业成功的影响</strong></span>
+<div class="chapter-summary">讨论了美团运力网络作为基础设施的社会共享性，以及希音在供应链管理与IT建设上的卓越表现。指出成功企业往往具备强大的IT能力，而IT服务提供商在与这些企业合作时可能处于不利地位。此外，探讨了AI革命对SaaS公司股价的影响，资本市场的反应显示股价短期上涨后长期低迷，质疑AI对SaaS行业的利好预期。</div>
+</div>
+<div class="chapter-item">
+<span class="time"><strong>[00:20:22]</strong> </span>
+<span class="chapter-title"><strong>传统软件叠加AI的挑战与转型</strong></span>
+<div class="chapter-summary">讨论了传统软件在叠加AI后面临的市场接受度、成本增加和定价模式转变的挑战，以及AI可能替代传统软件的趋势，指出资本更青睐原生AI产品。</div>
+</div>
+<div class="chapter-item">
+<span class="time"><strong>[00:22:45]</strong> </span>
+<span class="chapter-title"><strong>AI颠覆传统SaaS：从工具到结果交付的转型</strong></span>
+<div class="chapter-summary">对话探讨了AI智能体如何在企业管理中取代传统SaaS产品，通过直接交付成果而非过程记录，实现客服售后、电商内容上新、财务对账等场景的自动化，展示了AI在内容产出领域的颠覆性应用及其对传统行业的冲击。</div>
+</div>
+<div class="chapter-item">
+<span class="time"><strong>[00:28:39]</strong> </span>
+<span class="chapter-title"><strong>AI编程：信念驱动的颠覆性创新</strong></span>
+<div class="chapter-summary">对话强调了AI在编程领域的革命性作用，从辅助工具到直接生成代码结果，展现了AI处理复杂项目的能力。鼓励使用者坚信AI潜力，克服犹豫，通过不断尝试与AI协作，以实现预期成果，体现了信念在AI应用中的关键作用。</div>
+</div>
+<div class="chapter-item">
+<span class="time"><strong>[00:32:02]</strong> </span>
+<span class="chapter-title"><strong>AI原生软件的特征与人机协作新定位</strong></span>
+<div class="chapter-summary">讨论了AI时代软件的新特征，认为应以agent为主体，具备感知、计划、执行、复盘和调整能力，同时保证可审计、可监控、可调整。软件将人定位为安全观察员，仅在必要时介入，体现了人机协作的新模式。</div>
+</div>
+<div class="chapter-item">
+<span class="time"><strong>[00:33:44]</strong> </span>
+<span class="chapter-title"><strong>AI冲击下的劳动力市场与财富分配挑战</strong></span>
+<div class="chapter-summary">讨论了AI深度侵入劳动市场可能带来的长期劳动力过渡问题，指出AI引发的岗位消失具有跨行业持续性，可能导致财富集中和贫富差距加剧。同时，分析了AI生产力提升与市场需求之间的错配问题，强调了AI时代软件的新特征，包括新的交互模式及对传统业务框架的超越。</div>
+</div>
+<div class="chapter-item">
+<span class="time"><strong>[00:38:53]</strong> </span>
+<span class="chapter-title"><strong>AI交互革新与新软件范式</strong></span>
+<div class="chapter-summary">讨论了AI交互方式的多样化，如语音、拍照、传感器信号等，以及它们如何丰富上下文，推动软件从传统工具向更人性化的转变，强调了端到端解决问题的新软件模式及其市场潜力。</div>
+</div>
+</div><br>
+<h1>问题回顾</h1>
+<div class="qa-item">
+<div class="question"><strong>Q:</strong> 最近A16Z合伙人alex RAM pl提出一个观点，即软件正在吞噬劳动力市场，能否谈谈你俩对此看法？软件在责任承担上相比个人有何优势？</div>
+<div class="answer"><strong>A:</strong> 我觉得确实有这个意思，现在的AI时代软件已经不再只是作为工具，而是能够代替人完成整套工作流程，成为数字员工或外包团队。比如可以替代初级和中级程序员，通过AI的完整观察、思考、决策执行和复盘过程来完成工作，因此也应当承担之前由人产生的薪资成本。并且，软件在绩效差时可通过调整支付、更换供应商等方式“为结果负责”，甚至在重大资损时可通过合同约定由供应商赔偿，这将企业和员工之间的责任转移到了企业和企业之间。软件可以通过明确的KPI和合同条款来确保结果，如果未达到效果可以减少支付或更换供应商，而无需像对待员工那样进行经济补偿。此外，软件出现问题时，可通过升级或更新来解决，降低了管理成本，而无需像处理员工离职或赔偿那样复杂。</div>
+</div>
+<div class="qa-item">
+<div class="question"><strong>Q:</strong> 是否有相关的学术研究证明AI对劳动力市场的影响？</div>
+<div class="answer"><strong>A:</strong> 哈佛大学最近发表的一篇经济学论文讨论了AI与美国就业市场的关系，结论指出AI确实对美国就业产生了明显影响，尤其针对中间学历层次的人群，即那些非顶尖名校也非低技能岗位的人群，受影响尤为明显。</div>
+</div>
+<div class="qa-item">
+<div class="question"><strong>Q:</strong> 在这种背景下，普通人该如何定位自己以适应未来就业环境？</div>
+<div class="answer"><strong>A:</strong> 在AI时代，我们应思考如何跻身金字塔顶部，成为那部分几乎不受AI影响的顶尖人才，或者接受蓝领工人的角色，追求性价比高且需要大量人力投入的工作。无论体力还是脑力，只要能提供高性价比的服务，也能在这个时代存活得很好。</div>
+</div>
+<div class="qa-item">
+<div class="question"><strong>Q:</strong> 在企业软件方面，如果一款软件能显著提升企业核心流程的效率，并且在业界处于领先地位，为何它不自己成为那个企业而是作为工具帮助提效？</div>
+<div class="answer"><strong>A:</strong> 我认为这主要有两个原因，一是这款软件可能并非针对企业的核心资源进行优化，二是其本质上并不能替代核心员工或关键决策过程。软件虽能提效，但关键资源如创意作者、线下渠道、行业牌照等无法完全由软件替代，同时软件带来的风险相对较小，收益也有限。</div>
+</div>
+<div class="qa-item">
+<div class="question"><strong>Q:</strong> 传统软件和现代软件在企业中的主要优势是什么？AI技术与传统软件在解决企业问题上的区别是什么？</div>
+<div class="answer"><strong>A:</strong> 传统软件主要扮演两个核心角色：一是作为对人的补充，帮助企业管理复杂流程和计算复杂问题；二是提升组织协同效率，通过记录和信息传递自动化管理生产流程，使团队协作更为高效。AI技术致力于直接解决问题，比如代替人工完成具体工作，如同直接帮人拧螺丝；而传统软件则是通过记录信息、辅助决策和优化组织协同来间接提升效率，不直接参与具体操作。</div>
+</div>
+<div class="qa-item">
+<div class="question"><strong>Q:</strong> AI如何挑战传统软件在提效方面的地位？</div>
+<div class="answer"><strong>A:</strong> AI关注的是如何通过智能化技术直接完成任务，而不只是记录信息或辅助决策，它更强调结果导向，这与传统软件侧重于流程管理、协同办公和信息记录有所不同。</div>
+</div>
+<div class="qa-item">
+<div class="question"><strong>Q:</strong> 是否存在通过AI实现高效能且成功挑战传统巨头的案例？</div>
+<div class="answer"><strong>A:</strong> 以中国公司SHEIN为例，这家公司在快时尚领域通过AI设计和快速上架产品的能力，一年能在平台上架超过三万款产品，超越了HM和ZARA，实现了比传统快时尚巨头更快的市场反应速度，展示了AI在提效方面的强大作用。</div>
+</div>
+<div class="qa-item">
+<div class="question"><strong>Q:</strong> Shin这个case为什么软件公司无法自己完成，需要依赖供应链和数据算法？</div>
+<div class="answer"><strong>A:</strong> 因为软件公司的核心竞争力在于结合了数据和算法以及高效的供应链。他们利用番禺等地的供应链优势快速生产和周转产品，并通过数据和算法进行精准选品，以实现更快的周转速度和更低的成本，所以必须在具备此类供应链的地方才能成功运营。</div>
+</div>
+<div class="qa-item">
+<div class="question"><strong>Q:</strong> 美团外卖是否可以作为类似例子说明软件与实体运营结合的重要性？</div>
+<div class="answer"><strong>A:</strong> 是的，美团外卖虽然是一家互联网公司，但其核心竞争力在于算法和运力网络的搭建，而非软件本身。他们通过调度运营网络、推荐店铺及配送系统，形成了一种社会公共资源，与云计算等基础设施不同，这种运力网络容易被其他企业共享利用。</div>
+</div>
+<div class="qa-item">
+<div class="question"><strong>Q:</strong> 滴滴等公司是否也有类似现象，即在业务运营中形成了一定的基础设施？</div>
+<div class="answer"><strong>A:</strong> 对，滴滴等公司实际上也拥有一定的运力基础设施，比如司机资源，但这些资源在市场竞争中也可能被竞争对手共享或获取。</div>
+</div>
+<div class="qa-item">
+<div class="question"><strong>Q:</strong> 希音作为优秀的企业案例，是否意味着其他企业难以与其合作并在供应链管理上超越它？</div>
+<div class="answer"><strong>A:</strong> 确实，希音在设计软件、服装设计流程管理和供应链信息建设方面表现优秀，即使作为SaaS软件公司，与希音这样的企业深度合作的机会相对较小，因为它们在自身业务领域的深耕已经做得非常出色。</div>
+</div>
+<div class="qa-item">
+<div class="question"><strong>Q:</strong> 企业客户可以分为哪两类，并举例说明它们在寻求SaaS服务时的不同需求？</div>
+<div class="answer"><strong>A:</strong> 企业客户大致分为两类：一类是生意经营良好的企业，如CN，它们在IT方面表现不俗，对SaaS供应商有较高的要求和议价能力；另一类是生意经营不佳的企业，他们找SaaS供应商的本质是希望供应商能帮助他们改善生意状况，而非仅仅提供优秀的软件产品。</div>
+</div>
+<div class="qa-item">
+<div class="question"><strong>Q:</strong> AI革命爆发后，为何老牌SaaS公司在资本市场表现不佳？</div>
+<div class="answer"><strong>A:</strong> 老牌SaaS公司虽然也在尝试AI化，但历史包袱较重，市场对其转型成效持观望态度。叠加AI后，原有的收费模式、需求侧萎缩、成本增加以及毛利率受影响等问题，使得投资者担心老牌SaaS公司可能被新的原生AI形态产品取代，因此在股价上出现先涨后跌的现象。</div>
+</div>
+<div class="qa-item">
+<div class="question"><strong>Q:</strong> 传统SaaS产品在AI时代的优势是什么？AI技术如何改变SaaS公司的业务模式？</div>
+<div class="answer"><strong>A:</strong> 传统SaaS产品可能的优势在于他们在行业里积累的经验、专业知识以及沉淀的数据资源。但在AI时代，这些传统产品可能因缺乏AI智能体的灵活性和高效性而显得一文不值。AI技术使得SaaS公司不再仅关注过程和记录，而是更注重结果交付。例如，通过AI智能体自动完成规划、任务管理和结果交付，取代了传统人工干预的方式。</div>
+</div>
+<div class="qa-item">
+<div class="question"><strong>Q:</strong> AI如何在标准化且能准确评判结果好坏的业务场景中发挥作用？</div>
+<div class="answer"><strong>A:</strong> 在诸如客服售后、电商内容上新、财务对账、税务申报等标准化高、可准确衡量效果的场景中，AI可以承担起直接交付商业价值的任务，通过首次响应时间、解决率、满意度等指标评估AI的交付效果。</div>
+</div>
+<div class="qa-item">
+<div class="question"><strong>Q:</strong> AI是否能够颠覆某些创意内容制作领域，比如图片处理？</div>
+<div class="answer"><strong>A:</strong> 是的，AI在创意内容制作领域表现出色，如Photoshop等工具，现在有许多AI工具能够直接生成高质量的结果，比如用户求助帖中的图片处理需求，AI工具的效果往往超出预期，实现了从工具到直接交付成果的转变。</div>
+</div>
+<div class="qa-item">
+<div class="question"><strong>Q:</strong> AI能否在医疗记录编写这类文书工作中发挥作用？</div>
+<div class="answer"><strong>A:</strong> 是的，AI可以在医疗记录编写领域发挥作用，例如墨尔本的一家公司Happy Healthy就开发了帮助医生自动编写医疗记录的工具，减轻了医生在文书工作上的负担，提升了效率并受到欢迎。</div>
+</div>
+<div class="qa-item">
+<div class="question"><strong>Q:</strong> AI在编程领域的颠覆性表现是什么？</div>
+<div class="answer"><strong>A:</strong> 在编程领域，AI正在通过AI coding的方式颠覆式地提高编程效率，不再是单纯的辅助工具，而是能够直接生产出高质量的编程代码结果，大大提升了开发团队的工作效率。</div>
+</div>
+<div class="qa-item">
+<div class="question"><strong>Q:</strong> 在编程领域中，AI当前能辅助完成什么样的项目？对于AI在编程领域的应用，您主要想传达哪两个观点？</div>
+<div class="answer"><strong>A:</strong> 今天AI能够在编程领域辅助我们去做任何严肃型的项目，包括但不限于用AI coding去做外包项目或electron桌面项目。AI能帮助控制项目的复杂程度和细节，实现对交互、动效等的精细调整，并最终帮助我们完成商业性项目，通过无数个小结果组成一个完整的大的商业产品的结果。第一个观点是鼓励大家相信AI在编程领域的潜力，它能够在结果上达到很高的高度，未来这个高度还会更高。第二个观点是要让大家了解并信任AI产品，选择相信AI能够完成你要的结果，犹豫或抵触可能会导致无法获取理想的结果。</div>
+</div>
+<div class="qa-item">
+<div class="question"><strong>Q:</strong> 新时代需要由AI颠覆的软件，其特征是什么样的？</div>
+<div class="answer"><strong>A:</strong> 新时代的软件整体形态将发生很大转变，主体可能是一个或多个agent，具备感知、计划、执行、复盘和调整的能力。关键节点上应开放人工介入的位置，且整个agent的运行需可审计、可监控、可调整，使人成为类似自动驾驶的安全观察员的角色，在必要时介入。</div>
+</div>
+<div class="qa-item">
+<div class="question"><strong>Q:</strong> AI深度侵入劳动市场后，如何平稳过渡被挤占的劳动力？</div>
+<div class="answer"><strong>A:</strong> AI带来的冲击是跨行业的，可能会持续不断地替换各个行业的岗位，社会可能无法消化如此快速的劳动力过剩问题，同时高负债率现状使得一旦收入减少，消费者消费会萎靡。AI生产力提升在供给侧发力，可能会造成市场错配，即生产率提高并未即时带来整体市场增长。如何将AI带来的生产力红利传导至底层居民手中以避免财富集中和贫富差距问题，是一个值得深思的问题。</div>
+</div>
+<div class="qa-item">
+<div class="question"><strong>Q:</strong> 在AI领域，早期的落地思路与现在相比有何不同？</div>
+<div class="answer"><strong>A:</strong> 两年前的落地思路较为简单且直接，很多垂直行业的AI项目会从某个具体角度入手。但现在看来，这种思路格局显得较小，真正的AI或IT5产品开发者更加大胆创新，尝试让AI完成从规划执行到获取结果的全过程。</div>
+</div>
+<div class="qa-item">
+<div class="question"><strong>Q:</strong> 新软件与旧软件的主要区别体现在哪些方面？</div>
+<div class="answer"><strong>A:</strong> 新软件可能带来的最大特征是财富分配不均衡的社会性问题，而从软件本身角度看，新软件需要全新的交互方式。比如现在的chat输入框交互模式只是开始，未来可能会有更多如语音、拍照甚至更复杂传感器捕捉信号等方式与AI进行交互。</div>
+</div>
+<div class="qa-item">
+<div class="question"><strong>Q:</strong> AI产品中的交互方式是如何决定给AI提供上下文的？AI时代的交互形态可能发生怎样的改变？</div>
+<div class="answer"><strong>A:</strong> AI产品的交互方式决定了如何向AI提供上下文信息，例如通过打字输入、语音指令、摄像头拍摄照片或视频等不同方式。设计软件时如何组合这些输入源，本质上决定了交互的核心目标。在AI时代，交互形态可能发生显著变化，比如通过麦克风和摄像头等设备，用户可以更自然地与AI互动，实现诸如扫描识别、流程洞察等功能，甚至有可能达到自动完成编程的程度。</div>
+</div>
+<div class="qa-item">
+<div class="question"><strong>Q:</strong> 如何区分新软件和旧软件？</div>
+<div class="answer"><strong>A:</strong> 判断一个软件是否为新软件的关键在于其是否提供类似人的交互体验。若产品类似人，可能在卖新软件；若仅提供工具性质，让用户自行操作获取结果，则可能是老软件。未来，能否真正端到端解决问题并将结果作为销售对象，将成为软件范式转移的重要标志。</div>
+</div>
+<h1>节目文稿</h1>
+<p class="transcript-line">
+<span class="time"><strong>[00:00:04]</strong> </span>
+<span class="speaker"><strong>发言人1: </strong></span>
+大家好，欢迎收听异地骇客。我是seattle，我是一笑。
+</p>
+<p class="transcript-line">
+<span class="time"><strong>[00:00:08]</strong> </span>
+<span class="speaker"><strong>发言人3: </strong></span>
+我是龟龟。
+</p>
+<p class="transcript-line">
+<span class="time"><strong>[00:00:09]</strong> </span>
+<span class="speaker"><strong>发言人1: </strong></span>
+本期节目由power wise赞助播出。Od wise是一款为播客听众制作的AI学习软件产品的slogan是read before listen。Model wise通过AI对播客内容进行转录提取、总结分析等一系列操作，帮你掰开了揉碎了硬核的播客内容。同时与notion RED、WIS等平台的打通，嵌入知识管理工作流，协助您的其他包括新闻newsletter blog的内容，帮你打造第二大脑。Hot wise也为本期听众准备了三个5折优惠码。针对本期在小宇宙与我们互动的精选回复，欢迎大家踊跃来玩。
+</p>
+<p class="transcript-line">
+<span class="time"><strong>[00:00:46]</strong> </span>
+<span class="speaker"><strong>发言人1: </strong></span>
+好的，那开始我们本期的节目。最近A16Z的合伙人alex RAM pl他提了一个观点特别有意思。他说software is eating labor，就是软件正在吞噬劳动力市场。他说SaaS软件现在不能只盯着3000亿美金的既有市场了，真实的劳动力市场光美国一年就13万亿美金。那你能不能通过交付价值来代替人，而不是在软件里面分这一杯羹。说实话他这个暴论实际上已经不是传统的SaaS范畴了。因为我们之前做SaaS做了很多年，尤其是对于企业管理软件来讲，大家所追求的无非是说更好的excel软件的核心逻辑，就是用流程让记录流动，软件不为结果负责，那操作软件的人要为结果负责。那我就想问一下你俩对于这个暴论，你们两个。
+</p>
+<p class="transcript-line">
+<span class="time"><strong>[00:01:33]</strong> </span>
+<span class="speaker"><strong>发言人3: </strong></span>
+有什么看法？我觉得确实是有点这个意思，因为核心就是说今天这个AI时代的软件，其实是去替代人去做完整的事情了。它不是说像以前一样纯粹是个工具，对吧？那以前的软件你可以说它是一个电子文件柜，更好的excel，但今天这个AI加持下的软件，其实大家都已经在谈这个概念了，就是说它其实变成了一个数字的员工，或者说数字的外包团队，对吧？
+</p>
+<p class="transcript-line">
+<span class="time"><strong>[00:01:58]</strong> </span>
+<span class="speaker"><strong>发言人3: </strong></span>
+比如说从程序员的角度，我们都说他可以替代初级和中级程序员。那是他是有能力把一件事儿从头到尾做完的，因为今天的agent其实大家去定义它的时候，我们可能会说agent它是有一个完整的观察思考，然后决策执行，在复盘的这么一个过程的，包括大家去设计agent的时候，可能都是这么去设计的。那这个就变成说我能够干之前要招人才能干的事儿了。那那如果从这个角度看的话，那是不是也应该去赚之前招人给别人的那个工资？你刚刚说的这个劳动力市场规模，那按你说的它有SARS市场规模的四十多倍，对吧？这个想象空间就有点非常大对，然后你提到说为结果负责这个事情，其实我开始还在想说软件到底怎么为结果负责。毕竟你要按效果收费，就得为结果负责，对吧？你不能只收更多。
+</p>
+<p class="transcript-line">
+<span class="time"><strong>[00:02:53]</strong> </span>
+<span class="speaker"><strong>发言人3: </strong></span>
+但是你说我结果差的时候我又不管，然后我就去想了一想，我感觉软件可能比人能更好的为结果负责，为什么这么说呢？一般我们去想一下人怎么负责，要么就是说我打低绩效，他少发奖金，或者说能力真的不足，那我给这个人辞退？换一个人。
+</p>
+<p class="transcript-line">
+<span class="time"><strong>[00:03:16]</strong> </span>
+<span class="speaker"><strong>发言人3: </strong></span>
+然后如果因为这个人的问题出现了非常重大的问题，或者说出现了很大的资损，可能还涉及到赔偿，就是我个人的员工的话，可能就是这些负责的方式，那软件其实这些都可以做到，对吧？那我本身就按效果付费，我KPISLA什么的我定好的，那我没做到我就少给钱，等于说是绩效差就少发奖金。然后如果能力确实不行，我换个供应商的agent对吧？还不用给补偿。如果我辞个人，我可能还要给辞退的补偿。但我换个供应商的agent你还不用给补偿。
+</p>
+<p class="transcript-line">
+<span class="time"><strong>[00:03:51]</strong> </span>
+<span class="speaker"><strong>发言人3: </strong></span>
+然后如果出现重大资损需要赔偿，那其实这个就走这个合同了我可以在和这个供应商事先要签好合同，说如果出现什么的情况赔就好了。那这个供应商赔比要个人赔肯定就靠谱一些，而且他能够赔偿的金额能力也比较大，他就把这个企业和员工之间的问题，变成了企业和企业之间的这种合同约定。但这么说的话，其实负责的与其说是这个软件，不如说是软件的供应商。
+</p>
+<p class="transcript-line">
+<span class="time"><strong>[00:04:20]</strong> </span>
+<span class="speaker"><strong>发言人3: </strong></span>
+那供应商其实就从这种一次性买断，或者说从月租的这种稳定收入的模式下，转向了和客户共享他的成功和成长。那对于软件公司来说，这个上下限范围也就更大了。然后对于这个用软件的公司来说，我感觉管理成本上肯定会变低，对吧？
+</p>
+<p class="transcript-line">
+<span class="time"><strong>[00:04:39]</strong> </span>
+<span class="speaker"><strong>发言人1: </strong></span>
+对，辞退人不要钱了。对你刚才讲这个资损的这个事儿，现在不是国家在推进自动驾驶的那个分级。然后现在新的这个L三分级里边，提供自动驾驶的那一方要负法律责任了，还有就是包括扣分之类的，然后他们要去负责了。其实就有点像说其实止损被软件帮给承担了，对吧？
+</p>
+<p class="transcript-line">
+<span class="time"><strong>[00:05:00]</strong> </span>
+<span class="speaker"><strong>发言人3: </strong></span>
+就类似于对对对对我觉得。
+</p>
+<p class="transcript-line">
+<span class="time"><strong>[00:05:02]</strong> </span>
+<span class="speaker"><strong>发言人2: </strong></span>
+吞噬劳动力这件事儿，其实现在肯定是已经悄然在发生了的。不管我们自己接不接受，承不承认，这件事儿它已经在开始发生。大家有没有去关注过最近哈佛大学的出来一篇论文，是一个经济学的论文。主要是在讨论AI和美国就业的关系。从社会以及很多的维度去做了这样的一个调研，然后写出了这样的一篇论文。结论就是AI对美国今天的就业是肯定有影响，并且是影响很明显的。
+</p>
+<p class="transcript-line">
+<span class="time"><strong>[00:05:39]</strong> </span>
+<span class="speaker"><strong>发言人2: </strong></span>
+关于这篇论文，我印象其实最深的一个点是AI它在这里面和学历究竟产生了有什么关系。对这篇论文里面其实去讲到了他AI正在吞噬的其实是中间学历的那一批人。比如像那些顶尖的旋律，什么哈波尔的、亚斯塔伯的教师的这些名校就是很顶尖的。那些名校的人几乎不太会受这一次AI的影响。然后其次就是尾部的那些学校，他们可能毕业过后在公司里，或者说干的是一些偏低端的，或者说能力了这样工作的一些人也没有受影响。
+</p>
+<p class="transcript-line">
+<span class="time"><strong>[00:06:16]</strong> </span>
+<span class="speaker"><strong>发言人2: </strong></span>
+而中间那些高不成低不就的人，在这一次AI对就业的冲击，或者说叫吞噬的里面，是受的影响是非常明显的对所以我觉得说这也是值得我们每个人去思考。在现在的AI的时代，我们自己如何能爬到金字塔顶部，成为那一小部分的人。或者说你就干脆躺平去做一个蓝领工人？去追求性价比。对我有的是体力和脑力，但是我的性价比很高。对我愿意去帮你们擦屁股对吧？做很多很多需要人力投入的事情，那这一部分也可以存活的很好。对我觉得这也算是一个很现实的问题。
+</p>
+<p class="transcript-line">
+<span class="time"><strong>[00:07:05]</strong> </span>
+<span class="speaker"><strong>发言人1: </strong></span>
+对你刚才讲说蓝领工人，蓝领工人现在也面临一个巨大的威胁，就是特斯拉的optimus。但现在做到啥程度，还没有说有很大的影响。但是你说擦个窗户，通个水管，对吧？然后盖个房子，能不能做到这个估计未来可能都会做到，只是时间问题。
+</p>
+<p class="transcript-line">
+<span class="time"><strong>[00:07:26]</strong> </span>
+<span class="speaker"><strong>发言人1: </strong></span>
+对，之前其实我们在做企业软件的时候，我就有想过一个问题。就说假如你的软件真的能帮企业的核心流程提效，而且你是业界领先的，就是你为什么不自己成为那个企业，你把钱赚了。后来我仔细想了一下，我能想到的无非就两个理由，就是要么你其实做的这个软件不核心，要么其实它本质上不提效。我不知道你们是怎么看的，就跟H6Z的这个博客里面他说的就是其实大家都是操作文件柜的，也不参与决策。你手速再快，这个事儿可能不关键，我不知道你们怎么看。
+</p>
+<p class="transcript-line">
+<span class="time"><strong>[00:08:00]</strong> </span>
+<span class="speaker"><strong>发言人3: </strong></span>
+对我觉得像你说的这个手速快不快其实是个不关键。我觉得你软件起码怎么说还是提效的，对吧？这个不提下，这个就不讨论了，我觉得也没啥好讨论的那不提价就是从根儿上就完全没用，我觉得这里这个不核心的。
+</p>
+<p class="transcript-line">
+<span class="time"><strong>[00:08:16]</strong> </span>
+<span class="speaker"><strong>发言人3: </strong></span>
+这个其实是有两个点的。一个是说这个企业或者说这个业务的关键资源是什么？软件能提效，包括甚至能替代那些核心员工，其实这都不是关键资源，对吧？那核心员工什么的，我们很多时候都说企业是平台。有些人在平台上很强，但离开了平台，其实就很多事儿都做不成了，他可能出去找个工作都不一定能找到跟之前打平的工作。就是因为以前的这个企业它提供了一个非常好的平台。那软件其实也是一样的道理。
+</p>
+<p class="transcript-line">
+<span class="time"><strong>[00:08:49]</strong> </span>
+<span class="speaker"><strong>发言人3: </strong></span>
+举个例子来说，比如说泡泡玛特，它的关键资源其实是埃批，对吧？是他那些签的那些埃批作者，那就算今天AI能批量的生产IP全自动的去营销IP但其实也需要决策者，然后需要时间，需要线下的各种渠道，需要去生产产品，去建立这个IP忠诚度。软件本身只是提效，它不关键，它并不能替代说我这个AI整个生产过程，我AI的来源什么的，其实不是说纯粹用软件就可以搞定的那别的一些核心资源，比如说渠道，线下履约能力，还有一些别的行业，他比如说需要牌照对吧？
+</p>
+<p class="transcript-line">
+<span class="time"><strong>[00:09:27]</strong> </span>
+<span class="speaker"><strong>发言人3: </strong></span>
+然后有些是行业是需要非长久沉淀下来的数据算法，包括我们说突击，或者说to b可能你需要一些关系对吧？这些其实都不是软件能直接替代的。然后另外一个点就是你愿不愿意去承担风险为结果兜底。虽然前面我们说软件是不是能按效果付费，然后也为结果负责。但是你提供软件肯定还是比直接自己下场去做风险要小，那当然收益肯定也少。如果你像上面说的，其实你核心资源没有，或者说你并不是很强，没有那么强的竞争力，那相比去淘金的话，你还是去做一个卖牛仔裤的更好一些，对吧？那风险和收益可能都会少一点，但是相对来说好好一些，稳定一些。
+</p>
+<p class="transcript-line">
+<span class="time"><strong>[00:10:16]</strong> </span>
+<span class="speaker"><strong>发言人2: </strong></span>
+没错，这个我是比较认可的。对我觉得我对传统软件也好，还是今天的软件好，就是没有说这么悲观，没那么核心或者说没那么提效。对我觉得也没那么悲观。我觉得传统软件它那他肯定不是优势处的对，那我理解一下传统软件它其实主要扮演的在企业里面其实是有两个优势。
+</p>
+<p class="transcript-line">
+<span class="time"><strong>[00:10:38]</strong> </span>
+<span class="speaker"><strong>发言人2: </strong></span>
+第一个优势就是软件它其实是对人的补充。对，不管你是业务复杂了，流程复杂了，因为我们的人脑肯定是记不过来，也算不过来的对吧？我们可能遇到一个巨大的财务问题，总不能说哪个计算器在那算，也不能算了打个草稿在那算。那肯定是需要有专业的软件来辅助我们去记住这些流程，去算算这些账之类的。对我觉得这个肯定是对人的一个补充，这个就是很核心，并且也是效率的一个提升了。
+</p>
+<p class="transcript-line">
+<span class="time"><strong>[00:11:12]</strong> </span>
+<span class="speaker"><strong>发言人2: </strong></span>
+然后另外一个很大的优势，肯定就是对单个人人的人脑的补充之外，我们企业那人在变多，那组织协同这件事儿肯定是变得越来越困难的。所以说其实软件扮演了一个很大的有组织协同的这样的一个效率提升的一个角色。虽然说他可能不会直接帮你去工厂拧螺丝，对吧？但是他可能会帮你把整个生产流程的关系给管理的好。你至少在整个流水线上面上一步干了什么，下一步的人要去做什么。这个事儿他可能是能够有有记录可查的，或者说能够被有些信息的传递，可以被自动化的。
+</p>
+<p class="transcript-line">
+<span class="time"><strong>[00:11:55]</strong> </span>
+<span class="speaker"><strong>发言人2: </strong></span>
+不真的就是说大家只需要吼我一声就可以进行协同了。所以说这一方面的效率提升肯定是巨大的对在组织协同上面，但是可以看得出来，他和我们今天聊的那个AI直接拉结果显然是两个方向的事情。对一个人解决的只是协同，你的组织帮你补充一下人脑的能力问题。那AI可能说我真的就是相当于下场帮你拧螺丝了。对我觉得这个它是不太一样，但是它也不是说很多软件一无是处。
+</p>
+<p class="transcript-line">
+<span class="time"><strong>[00:12:31]</strong> </span>
+<span class="speaker"><strong>发言人1: </strong></span>
+对你讲的这个也是，其实现在AI我们并不谈说他怎么去生成这个记录。我们刚才讲的这个所有的东西都是说，我现在流程复杂，然后人很多，我需要把这些东西记下来。大家透过这个记录的这个record，然后大家基于这个record上面来协作。但是现在AI其实大家不谈这个record，而是在讲说人家怎么能帮你把这个事儿干完，对吧？我觉得这个就是他们在这个博客里面讲的，是说我们之前大家都是在讲说怎么操作文件，对吧？那现在就是说不要操作文件柜了，你帮我们把这个事儿干了。因为操作文件柜也就是把这个record记下来，对吧？我觉得这个还是一个挺大的一个不一样。
+</p>
+<p class="transcript-line">
+<span class="time"><strong>[00:13:08]</strong> </span>
+<span class="speaker"><strong>发言人1: </strong></span>
+对，这个就想到说我们之前知道说在快时尚领域里面一直是两个巨头，就是HIM跟ZARA。就他们两家他们在的这个领域叫快时尚，那快肯定是核心，像ZARA跟HIM他们一年能上架大概5000款左右的产品。就是说在他们的门店里面一年你能看到大概5000款左右的产品。对，但是现在其实最近几年崛起了中国的一家公司叫skin shin它一年能在自己的平台上面能上架三万多款产品，现在可能还更多，它现在已经逐渐的变成快时尚的龙头了。我查查了一下他最近的业绩等等之类的，包括它的市占率已经超过了HM跟sara。我们之前因为有投资方让我们去跟他们去调研了一下。
+</p>
+<p class="transcript-line">
+<span class="time"><strong>[00:13:52]</strong> </span>
+<span class="speaker"><strong>发言人1: </strong></span>
+然后我们也看过他们的设计产品，他们那个设计师在上面工作几年前的时候，一天就能产出3000块以上的设计了。当然这个是产他的设计，真正到打版到上线，可能一天大概在50到1200款之间。对，如果你单纯比快的话，快就是他们这种快时尚公司的一个很独特的一个优势了。而且他们还有一个地域优势，就是他们公司就在广州的番禺，所以说他们就崛起很快。这个所谓的设计的产品，它确实是一个很核心的，而且很提效的。但是我感觉这个事儿肯定不是SARS公司能干出来的。如果我是适应的话，我肯定自己招人开发了，我也不会让外部公司来参与。我不知道你们还知不知道类似的例子，可以给大家分享一下。
+</p>
+<p class="transcript-line">
+<span class="time"><strong>[00:14:31]</strong> </span>
+<span class="speaker"><strong>发言人3: </strong></span>
+Shin这个case其实正好是你前面那个问题的一个例子，对吧？为什么软件公司不自己干，干不了？因为它的核心还是在这个供应链以及它这个数据和算法上面。因为它首先他像你说的，他在番禺这边，它是天然在在地有的供应链对吧？能够快速的生产，然后快速的周转，然后它能够这么快的出设计。其实上架它要靠的是数据和算法去做选品，虽然我设计出的很快，但是我真正上去能卖得动的，其实我是要靠数据和算法去做选品，让整个过程的能够周转的更快，成本更低。所以这其实是软件加上数据和算法，再加上供应链才能成立。所以他就还真的就必须得在番禺那个地方，或者说起码在两广那个地方他才能成立，对吧？
+</p>
+<p class="transcript-line">
+<span class="time"><strong>[00:15:23]</strong> </span>
+<span class="speaker"><strong>发言人3: </strong></span>
+然后类似的范式的话，其实我想一想能够想到，比如说美团外卖可能也可以算。因为你虽然说它是一个互联网公司，但实际上它的核心还是算法和运力网络。就是我那个软件，我提供给用户端的，包括给商家端的这个软件本身其实不是它的竞争壁垒的关键。但关键还是说我这个核心怎么去调度我的运营网络，怎么去比如说给消费者推这些店铺什么的，然后就是他这个配送网络，这个才是它的核心。对对美团这个。
+</p>
+<p class="transcript-line">
+<span class="time"><strong>[00:16:00]</strong> </span>
+<span class="speaker"><strong>发言人2: </strong></span>
+运力网络，其实我也想补充一个观点。我觉得说美团的运力网络其实就是建了很多的外卖的骑手这件事情，然后把它们管理起来。其实这件事情从互联网公司来看，它其实是一个基础设施。对他的美团建的这个基础设施有一点很神奇，它可能是一个很容易被别人共享的一个基础设施。我觉得这是一件觉得挺离谱的事情。比如说你说像云计算，阿里云建了云计算的基础设施，那这件事情他很难被美团搞过去，对吧？但是美团建的这个外卖骑手的运力，这个基础设施，你会发现它会成为一个社会的公共资源。
+</p>
+<p class="transcript-line">
+<span class="time"><strong>[00:16:47]</strong> </span>
+<span class="speaker"><strong>发言人2: </strong></span>
+大家都在说美团过去的这么多年里面，总算把中国的外卖行业的这个基础设施给建设起来了。可能今天京东也好，然后淘宝闪购也好，大家又又很快来共享了这个成果。我觉得这也确实也有这个道理。对嗯嗯。
+</p>
+<p class="transcript-line">
+<span class="time"><strong>[00:17:06]</strong> </span>
+<span class="speaker"><strong>发言人1: </strong></span>
+滴滴也一样，滴滴搞来搞去，司机也都给了别人了。
+</p>
+<p class="transcript-line">
+<span class="time"><strong>[00:17:11]</strong> </span>
+<span class="speaker"><strong>发言人2: </strong></span>
+对对对，那儿岔开了一个话题，回到希音身上，因为毕竟希音说实话真的太优秀了，我觉得这种例子也不会一把一把的对，也不会很难有第二个第三个心。对，确实因为刚才赛特提到了新，因为在几年前我们自己也去给希音讲过方案，当时我就给希音的副总裁去讲，给我们公司做的底层的技术平台有多优秀。拿着我们的方案讲，希望看能不能和他们合作，用上我们的解决方案。因为刚才赛德讲的，他可能从设计这些整个供应链的管理可能做的非常的优秀。我们觉得说在这一层面，可能我们自己公司机会不是很大了。所以说我们觉得说看能不能从基础软件的层面，从基础平台在的层面和他们合作，给他们提供一些偏input层面的东西。
+</p>
+<p class="transcript-line">
+<span class="time"><strong>[00:18:05]</strong> </span>
+<span class="speaker"><strong>发言人2: </strong></span>
+结果到我们去给人家方案一讲，然后人家也给我们介绍了一下他们的团队，他们的平台是怎么运转的。发现人家做的已经很牛逼了，很优秀了。你会发现人家对你会发现人家就除了在那个设计软件，就是说服装的设计，这些每年改款这些的整个业务的那流程上做的很优秀以外。其实人家也自己的info建设的也很完善，也很牛逼。对所以说其实和这种公司，我们作为一家sas软件公司，其实你自己有点自讨没趣。然后和他们比起来，你可能还真的怎么去讲这句话。
+</p>
+<p class="transcript-line">
+<span class="time"><strong>[00:18:42]</strong> </span>
+<span class="speaker"><strong>发言人2: </strong></span>
+就是一个纯软件公司可能和这些公司自己有业务在里面深耕的比起来，可能你真的还是有一定的距离的对，这是我的一个感受。另外虽然说没有什么其他的例子，但是以我自己接触的企业的客户来看的话，我觉得我的感受是把这些企业客户可以分成两大类。其实第一类就是像CN这种，他们其实自己的业务生意经营得很好。另外一类就是生意没有做好的对那一类对其实我们会发现生意做的好的企业在IT上面都不弱，都干的都还都挺好的。哪怕他把你作为招商招过去给他们提供软间的供应这件事儿，你也会发现他们可能会处于一个非常强，非常高的这样的一个位置。你几乎可能会变成外包这样的一个感觉。
+</p>
+<p class="transcript-line">
+<span class="time"><strong>[00:19:33]</strong> </span>
+<span class="speaker"><strong>发言人2: </strong></span>
+那生意没做好的那些企业，他们找SARS本质，他其实希望的只有一件事儿，就是你帮他把生意做好，而不是你不你给我讲你这个软件，你这个info有多优秀，这件事儿其实没对他没啥意义。对他其实找你就是一个本质，就是让你把生意做好。对，对。
+</p>
+<p class="transcript-line">
+<span class="time"><strong>[00:19:51]</strong> </span>
+<span class="speaker"><strong>发言人1: </strong></span>
+我们有聊了这么多老SARS的事儿，在之前的博客里面我们都以为说这次的AI革命对于老SARS公司来讲是一个挺大的利好。但是从资本市场来看，从股价上面来看，不管是sas的这些龙头，不管是adobe还是艾特拉，还有一些之前的一些代表公司。我发现在AI爆发过后，他们的股价都是一种先上涨了一会儿，然后就长期萎靡不振的这种态势。我不知道这是资本用脚投票了吗？还是怎么回事，我不知道你们怎么看这个现象。
+</p>
+<p class="transcript-line">
+<span class="time"><strong>[00:20:23]</strong> </span>
+<span class="speaker"><strong>发言人3: </strong></span>
+其实我觉得这里面就是这些传统的软件的历史包袱还是比较重的。因为我们有看到它其实也都有在AI化。包括adobe，他其实一开始的时候还大家还觉得挺惊艳的，说这个photo p加上那个AI之后，感觉处理起来特别高效。但是你说穿了，它还是一个photoshop，它还是个工具。就是它的整个形态没办法这么简单的转过来，就是谁都可以给这个软件加个AI输入框，再加个AI按钮。但他加了究竟有没有效，其实市场还在观察。
+</p>
+<p class="transcript-line">
+<span class="time"><strong>[00:20:56]</strong> </span>
+<span class="speaker"><strong>发言人3: </strong></span>
+然后我感觉工具上叠加AI的这种非原生AI应用，不是今天资本喜欢的东西。就是它不是next generation对吧？它不是次时代的东西。
+</p>
+<p class="transcript-line">
+<span class="time"><strong>[00:21:08]</strong> </span>
+<span class="speaker"><strong>发言人3: </strong></span>
+然后还有一个观点是说，在叠加AI之后，他们之前按坐席按订阅的这种收费模式，因为考虑到你AI提升效率之后，那它可能席位会变少，就是需求侧它其实反而会萎缩，那就需要新的故事和新的定价模式。AI还会带来新的成本，它也会同时冲击毛利率。因为你以前的这个定价他跑了很多年，你新的定价模式其实也需要客户去接受，你要涨价的话，所以大家可能就都还是在观望，说你这个老牌的SARS叠加了，到底有没有效能，不能多赚钱。而且其实大家可能更怕的是说，你干脆就被这种新的原生AI的这种新形态的产品给干掉了。
+</p>
+<p class="transcript-line">
+<span class="time"><strong>[00:21:53]</strong> </span>
+<span class="speaker"><strong>发言人3: </strong></span>
+所以可能就出现了像你说的那种情况，就是一开始它叠加了AI之后，大家觉得说这个有点意思，然后涨一波。后来大家慢慢的反应过来说，你其实可能还不如重新做一个新的，然后就开始大家去看别的这个替代品了。对。
+</p>
+<p class="transcript-line">
+<span class="time"><strong>[00:22:09]</strong> </span>
+<span class="speaker"><strong>发言人2: </strong></span>
+没错，对我觉得大逻辑就是归讲的这个大逻辑。对，资本总是这样用脚投票了的。那我自己的的一点感触就是我觉得因为前面其实我在提那个传统SARS，它主要就是帮助人的，让一群人可以高效工作。对，但是AI刚才我们也对比了，AI它可能就是直接拉结果，更倾向于去干掉这些中间的环节。所以你会发现它整个大趋势其实是有一点要替代这些传统SARS的这个味道在里面了。对，如果你这样想的话，你就会发现这些传统上是可能就挺危险的。
+</p>
+<p class="transcript-line">
+<span class="time"><strong>[00:22:46]</strong> </span>
+<span class="speaker"><strong>发言人2: </strong></span>
+我们继续聊，比如说阿特兰斯亚这家公司，他们家有一个知名的产品叫吉娜。大家其实都是知道的对，他们的产品比公司可能更出名的那这个工具它本质其实是用来管理一群人，对吧？就像我们刚才说的，让他们可以一起更好的去干活。如果我们用AI智能体的话，加入一家企业这件事情他就演变成了是很多一群AIAI镜头他们在一起干活。这些AI他们自己在做规划，做不断的管理任务，自己去完成任务，最后拿到结果自己打螺丝了。从这个角度看的话，我为什么还需要接纳这个东西？这个产品？所以传统SARS公司它究竟有什么优势？
+</p>
+<p class="transcript-line">
+<span class="time"><strong>[00:23:31]</strong> </span>
+<span class="speaker"><strong>发言人2: </strong></span>
+从这个角度看的话，可能他们唯一的优势就是他们在这个行业里面积累了很多的经验，有很多的行业的知识。包括他们可能沉淀了很多的数据，这些数据可能有用，也可能没啥用。所以说这些传统的上市公司，他们今天拥有的这个产品在AI时代可能真的就是一文不值的。就是我们更包容一点的话，他们可能就是一文不值了。
+</p>
+<p class="transcript-line">
+<span class="time"><strong>[00:23:57]</strong> </span>
+<span class="speaker"><strong>发言人2: </strong></span>
+好，总结一下刚才归的分享的话，其实不管人还是公司，那个惯性是很可怕的。就是没人会相信你很容易改变你的这个关系。对你可能擅长的那个事情，你可能一直就是会擅长这件事儿。我们都知道，特别是对公司人多体量大，那个惯性就更大对单个人你可能还更快。所以说资本可能就选择不相信。对。
+</p>
+<p class="transcript-line">
+<span class="time"><strong>[00:24:26]</strong> </span>
+<span class="speaker"><strong>发言人1: </strong></span>
+理解。但我自己就觉得说像现在的SaaS公司，我们刚才都在讲说，其实他更关注过程，更关注记录这件事儿，然后新的AI可能会更关注结果。那我们单纯从结果交付这件事上来讲，像adobe，像photoshop，就感觉说它其实原始的photoshop还是在操作文件柜，只不过这个文件柜很复杂。那现在比如说你像nano banana，像sora，它本质上已经在交付结果了。
+</p>
+<p class="transcript-line">
+<span class="time"><strong>[00:24:51]</strong> </span>
+<span class="speaker"><strong>发言人1: </strong></span>
+我自己就有一个观察，就是之前在小红书上不是都有很多那种说请你帮我P掉那个旁边的路人。比如说两个人在一起照个相，但后面人很多，说说请你帮我P掉后面的那个路人很多之类的求助帖，当然有相当一部分回帖可能是恶搞。对，但是实际上回帖里面底下真正帮别人批掉的很多都是用photoshop做的。但其实现在很多这样的回帖，你再去看它的那个效果比之前的那个效果要更好。但是下面可能右下角可能会写说来自豆包没事，他可能被批掉的效果也好，还是他自己去恶搞的效果也好，可能就都更好了。然后右下角是来自豆包，从这个角度上来讲，是不是这个也是一种颠覆了？
+</p>
+<p class="transcript-line">
+<span class="time"><strong>[00:25:32]</strong> </span>
+<span class="speaker"><strong>发言人3: </strong></span>
+对，确实你说这个恶搞的，我觉得AI特别擅长恶搞。因为他出的那种结果真的很多时候天马行空的，你根本自己都想象不到。对对对，很有意思。
+</p>
+<p class="transcript-line">
+<span class="time"><strong>[00:25:43]</strong> </span>
+<span class="speaker"><strong>发言人3: </strong></span>
+对，其实这类内容产出应该算是第一批，就是说通过AI将生产模式从那个工具改为直接交付成果的工作。包括说文本，然后图片音频视频，乃至今天可能3D模型之类的对吧？那其实都是直接由AI就出出结果了。刚开始的时候还要一直抽卡去赌，结果他可能一次出的那个概率比较低。现在很多时候一次出的结果就都很好了。然后我觉得这一类它到这个地方，其实你说他创造价值，它还不明确。
+</p>
+<p class="transcript-line">
+<span class="time"><strong>[00:26:17]</strong> </span>
+<span class="speaker"><strong>发言人3: </strong></span>
+接下来进一步的就是把这些内容产出放到一个具体的场景里面。特别是那种比较标准化，然后能够比较准确的去判断结果好坏的这种全在线的业务场景里。就是能够进一步的直接到交付到商业价值这一个环节。典型的比如说像客服售后，它其实是一个文字场景，再搭配上这个图片，声音的识别这样的多模态。其实它是完全可以去直接变成说我交付掉成功解决的工单的，就中间跟客户的沟通全部是AI完成。然后我们可以通过说比如说首次响应时间，然后这个一次性的解决率，然后满意度，比如说人工介入的这个概率，来判断说这个AI直接交付的这个结果好不好。所以我觉得它是完全是可以去被替代掉的一个事情。
+</p>
+<p class="transcript-line">
+<span class="time"><strong>[00:27:06]</strong> </span>
+<span class="speaker"><strong>发言人3: </strong></span>
+然后再往后的话，比如说电商内容的上新。因为电商内容上新其实它有很多的都是这种内容类的东西。不管是产品的描述，还是图片，乃至包括说我这个介绍视频之类的，其实都是可以由AI去做的，做完之后AI去做这个流程去发布对吧？去交付这个品类。那可能按合规的通过率，然后按上新的速度，然后按这个新产品的销量，退货率之类的指标来判断说我这个AI的交付结果怎么样。再往后比如说财务对账，然后税务申报，合规审核之类的这种严肃但标准化高的场景，也可以完全可以让AI把初审做了，通过初审那个准确率来考核。
+</p>
+<p class="transcript-line">
+<span class="time"><strong>[00:27:53]</strong> </span>
+<span class="speaker"><strong>发言人3: </strong></span>
+我刚刚还看到有一个就在墨尔本的一个公司叫叫happy healthy。他其实也是干类似这种事情的，他是帮那个医生写那个医疗记录的。就是我医生看完病之后，我不是还要写一堆乱七八糟的病历，医疗记录什么的留存下来吗？这个时间可能和医生看病的时间都五五开，然后他就做这个事情，就是帮医生把这个东西都写了。通过你治疗过程中的一些记录下来的，比如说音频什么的，就直接把这个东西写了。这也算是一个直接交付结果的，而且大受欢迎，对吧？
+</p>
+<p class="transcript-line">
+<span class="time"><strong>[00:28:27]</strong> </span>
+<span class="speaker"><strong>发言人3: </strong></span>
+大家都不想干这种文书类的工作。对，是的。我觉得其实因为今天AI做的好的其实就是这些内容产出，通过这个内容产出，其实已经能够去进一步的做很多这种颠覆性的事情。
+</p>
+<p class="transcript-line">
+<span class="time"><strong>[00:28:41]</strong> </span>
+<span class="speaker"><strong>发言人2: </strong></span>
+关于这个问题，其实我想从另外一个角度分享一下。对我首先还是以比如我们编程这个领域为例子。比如就是外部coding来看。这个东西今天一定是在对扣点这件事儿产生颠覆式的。因为在编程这个领域其实有非常多的效率工具。对总是有很多很多的开发团队不断的在打造扣顶的效率工具，对吧？但是过去所有的工具，它其实都只是一个真正的工具，辅助型的工具都不是帮你拿结果的。但只有今天web coding了，AI coding这件事儿是帮你直接去生产扣顶的结果。
+</p>
+<p class="transcript-line">
+<span class="time"><strong>[00:29:22]</strong> </span>
+<span class="speaker"><strong>发言人2: </strong></span>
+这件事儿对好了，我自己的一个体感就是比如我做了用AI coding去做过外包的项目。我最近也用它去做了一个electron的一个桌面的项目。然后我发现我就可以去控制的那种复杂的程度，其实是越来越高，控制的细节会越来越多。哪怕你想去追求一个交互的一个细节，一个动效等等等等，其实都是可以去尝试，可以去拿到结果的对我想说的是啥？就是说今天AI其实在以编程这个领域为例的话，就说AI它今天其实能够辅助我们去做任何严肃型的项目。就是我自己是觉得说任何严肃性的商业性的项目都可以去辅助我们做，都可以帮助我们去拿到结果。当然可能是拿到无数个小的结果，然后他们可以组成一个完整的大的商业的产品的一个商业结果。可能是这样的一个颠覆式的一个逻辑。
+</p>
+<p class="transcript-line">
+<span class="time"><strong>[00:30:20]</strong> </span>
+<span class="speaker"><strong>发言人2: </strong></span>
+这里我特意用编程这件事来讲，用web coding encoding来分享。其实主要我想表最想表达的是两个点对，第一个就是你要相信我觉得你我自己是从一开始大家可能一直听我们的播客以来就知道。其实在很早的节目里面，我就一直在表达，我是非常的坚信AI这件事儿，他们在结果上可以达到很高的高度。对，在越往未来走这高度还会更高。对我自己是反正非常相信这件事情的对，不管他今天是继续概率统计也好，那什么transformer，未来是不是transformer或者怎么样，就是这些底层的77788的这些原理，我觉得都不重要。对我觉得我比较很相信这件事儿的。所以我这里更多的就是在鼓励大家，比如你要用AI coding来去做产品的话，或者说是其他的AI工具去做其他的东西都是一样的。
+</p>
+<p class="transcript-line">
+<span class="time"><strong>[00:31:18]</strong> </span>
+<span class="speaker"><strong>发言人2: </strong></span>
+你首先就是要相信这件事儿。对，所以说从这个角度看，你会发现AI真正的玄学。以前我们说写prompt是一门玄学，但是你会发现AI产品其实很玄学。就是你选择相信他他就可以帮你完成结果。但凡你有一点抵触，有一点犹豫，可能你就拿不到你想要的那个结果，你可能就是浅尝辄止了。最后所以说AI真正的玄学其实是在于你的信念，你的新店是怎么样的，对你又能怎么样的对，这是我今天想一定要告诉大家，你就是要相信，一定要去。你相信他能完成，你就会努力和他死磕，最终你就能拿到那个结果，就是那么回事。的信。
+</p>
+<p class="transcript-line">
+<span class="time"><strong>[00:32:00]</strong> </span>
+<span class="speaker"><strong>发言人1: </strong></span>
+则灵。
+</p>
+<p class="transcript-line">
+<span class="time"><strong>[00:32:01]</strong> </span>
+<span class="speaker"><strong>发言人2: </strong></span>
+对信则灵。
+</p>
+<p class="transcript-line">
+<span class="time"><strong>[00:32:04]</strong> </span>
+<span class="speaker"><strong>发言人1: </strong></span>
+对讲到这个灵这个事儿就是我们讲说交付结果，然后这个事儿其实也给我挂了一个零，但是这个是警铃。就是我就在想说，是不是我们现在很多时候脑子里面的思维还是在这个新时代里面还在做这种老软件。是不是说我们还是在帮用户，怎么样能够更快的去操作这个文件柜？我就想问一下你们两个，你们觉得说假如这个确实是一个新的时代，需要有AI来颠覆的一个时代，我们要去做新的软件。那这个新的软件它应该有什么样的特征？
+</p>
+<p class="transcript-line">
+<span class="time"><strong>[00:32:38]</strong> </span>
+<span class="speaker"><strong>发言人3: </strong></span>
+其实按前面聊的思路想的话，感觉整体形态上都会有一个很大的转变。因为就像我们说的这个adobe photoshop什么的，它其实还是在一个老的这个形态里面，还是一个工具为底的那如果今天是一个agent的原生的一个软件，它的主体其实应该是一个或者多个agent它的一个感知，然后计划执行复盘在调整的这么一个过程。然后我们可能要做的是在一些关键节点里面去开放人工介入的位置。
+</p>
+<p class="transcript-line">
+<span class="time"><strong>[00:33:09]</strong> </span>
+<span class="speaker"><strong>发言人3: </strong></span>
+我们是很很关键的一个点是说整个agent的运行，它应该是可审计、可监控、可调整的那其实这样的一个软件是把人变成了agent自动驾驶的安全观察员，对吧？我们今天自动驾驶他可能有一个安全观察员。反正不管是坐在旁边也好，还是它的远程操控也好。它其实对于这个软件来说，它不是一个知识的操作者。他更多是一个观察者在旁边看，然后在必要的时候才介入一下。那我觉得今天如果我们要去做A你的原生的软件，它可能就是一个这样的定位。
+</p>
+<p class="transcript-line">
+<span class="time"><strong>[00:33:45]</strong> </span>
+<span class="speaker"><strong>发言人3: </strong></span>
+但说到这个，其实我担心的还有一个问题是说，AI如果真的深度的去侵入劳动市场，这些被挤占掉的劳动力如何平稳过渡？其实虽然每一次历史上的生产力革命都会有这个问题，就比如说纺织就是一个非常典型的对吧？纺织业被被那个革命中有多少纺织的相关的岗位消失。
+</p>
+<p class="transcript-line">
+<span class="time"><strong>[00:34:11]</strong> </span>
+<span class="speaker"><strong>发言人3: </strong></span>
+但我个人会感觉这次的有点不一样。一方面是因为AI带来的这个冲击是跨行业的，就是随着AI的快速成熟，可能会有一批又一批的行业和岗位接连不断的被替换掉。这种冲击是会持续性的到来的那社会去消化这些多余的劳动力的缓冲时间可能不够，然后另外一方面是现在人们普遍负债率都比较高，大家其实都背着房贷，各种消费贷。一旦收入减少，很容易就不花钱了，或者说没有钱可以花了，这个就会导致消费者会萎靡的很厉害。其实这也是今天在发生的事情，对吧？
+</p>
+<p class="transcript-line">
+<span class="time"><strong>[00:34:54]</strong> </span>
+<span class="speaker"><strong>发言人3: </strong></span>
+但是AI带来的这个生产力提升是在供给侧发力的那其实这个在一定时间段里面，它是会有一个错配。就是我明明生产率提高了，但是大家没有钱是吧？你生产率提高的结果是把很多人的岗位给干掉了，然后他们就没有钱消费，然后消费在萎靡，就挺有意思的，我理解。因为这种错配，所以他就没办法在短时间里面带来显著的整体的市场增长。
+</p>
+<p class="transcript-line">
+<span class="time"><strong>[00:35:18]</strong> </span>
+<span class="speaker"><strong>发言人3: </strong></span>
+因为有一个想法就是说如果我AI提高了生产力，那我整个市场规模增长，那是不是就可以创造更多的就业机会了？我觉得这个也是存疑的，它也需要时间。所以说其实问题就变成了怎么把AI带来的这个生产力的红利能传导到底层居民手中，变成收入。虽然说肯定可以有很多政策来推进这个传导，但我觉得还是不可避免的会出现更严重的财富集中和贫富差距问题，反正在这方面我一直都是比较悲观的。所以你问我说新时代的软件有什么特征？我不自觉的就想到这个问题上去了。对。
+</p>
+<p class="transcript-line">
+<span class="time"><strong>[00:36:02]</strong> </span>
+<span class="speaker"><strong>发言人2: </strong></span>
+这也是一个我都没想到的角度。我觉得新时代的软件可能最大的问题就是给可能的特征就是会让一部财富不均衡可能。
+</p>
+<p class="transcript-line">
+<span class="time"><strong>[00:36:13]</strong> </span>
+<span class="speaker"><strong>发言人1: </strong></span>
+对对对。
+</p>
+<p class="transcript-line">
+<span class="time"><strong>[00:36:14]</strong> </span>
+<span class="speaker"><strong>发言人3: </strong></span>
+劳动力市场的冲击。因为我们一开始也聊了，说他要去吞噬劳动力市场。
+</p>
+<p class="transcript-line">
+<span class="time"><strong>[00:36:19]</strong> </span>
+<span class="speaker"><strong>发言人2: </strong></span>
+对对对，帮归总结了一下。我自己觉得说，确实我们这儿因为提到了老软件和新软件，确实我感触是很大的。我是接set的那个问题的话好像。
+</p>
+<p class="transcript-line">
+<span class="time"><strong>[00:36:32]</strong> </span>
+<span class="speaker"><strong>发言人2: </strong></span>
+老软件的这个感觉，其实我今天觉得也挺明显的。比如我们在刚开始做pot west的时候，那个时候其实我就提过一个观点说要先有产品我们再去谈ai，这个逻辑一听其实就知道我这里的现有产品的意思。它可能就是说里头先有一个传统的业务的框架。对，有这样的一个东西存在了。然后我们在里面再去寻找那种可以被爱去提升、去增强的这样的一些节点。对，去把这些地方给它做好。
+</p>
+<p class="transcript-line">
+<span class="time"><strong>[00:37:03]</strong> </span>
+<span class="speaker"><strong>发言人2: </strong></span>
+把这个东西其实放在两年前，它确实是一个非常好操作，也很好落地的一个思路。其实大家应该今天都能看的看得到。其实今天很多做垂直的行业的AI的事儿，有很多人可能入手都会从这种角度去入手。今天来看的话，其实这个观点它的格局似乎就会显得有点小了，对，比较缺乏想象力。可能今天很多做真正的AIIT5，或者说AI forst的产品，其实他们可能还是挺敢想的对吧？可能就会把所有的工作可能都会交给AI去处理，让AI拥有一个完整的，就像我们刚才说的，完整的自己从规划执行到拿到结果的整个全链路。我觉得这是我对自己之前自己之前关于做AI的一点思考的new view，一个复盘。
+</p>
+<p class="transcript-line">
+<span class="time"><strong>[00:38:03]</strong> </span>
+<span class="speaker"><strong>发言人2: </strong></span>
+对我觉得这个就是挺挺有点老软件的感觉。如果今天回头来看新软件有一些什么特征，我觉得这里面就除了刚才说的龟龟讲的，新软件可能带来的一个最大的特征就是财富不均衡，那是一个社会性的问题。如果我觉得回到软件本身，新软件的话我觉得真的需要新的交互。因为我们以前也有博客专门去聊过AI和软件的交互这件事儿。今天我们如果再来聊这个问题，我觉得可能和以前的观点也会不一样的。对我自己可能也会觉得有一些新的想法，新的思考的。所以说我觉得新的软件里面一定会有新的交互，像今天的这个chat的那个输入框，大家都在使用的这个输入框的这个交互模式，他一定只是一个开始，肯定不是未来的终结。
+</p>
+<p class="transcript-line">
+<span class="time"><strong>[00:38:53]</strong> </span>
+<span class="speaker"><strong>发言人2: </strong></span>
+对关于交互，它可能说除了这种打字太平的方式，可能我可能是做一个语音，也可能是一个拍照，甚至打一个响指就可以完成AAI帮我们去拿到结果。其实我想表达的是就是说AI产品这种或者说新软件的这种交互。其实在决定的是我们怎么给AI提供context，就提供上下文。比如说我们去上传一个文件，或者说在编程里面用艾特去引用一个文件，这些是一种交互方式。那我可能就打字输入一句话对吧？我也可能用麦克风去发一个语音，甚至是用我们的摄像头拍一个照片，录一个视频等等等等。
+</p>
+<p class="transcript-line">
+<span class="time"><strong>[00:39:37]</strong> </span>
+<span class="speaker"><strong>发言人2: </strong></span>
+甚至是我们扩展到一些传感器去捕捉一个信号。其实所有的这些东西都可以给AI提供非常丰富的context，非常丰富的上下文。我们去设计一个软件，如何去组合这些输入源，其实这个本质就是在决定了我们的交互是做什么的那比如说传统的软件，我们的交互其实就是一个鼠标加键盘，没有什么其他的东西了。对，鼠标点点点对吧？键盘再打点字更多的就是鼠标点点点。对，AI的交互它肯定就就显然就更有趣了。
+</p>
+<p class="transcript-line">
+<span class="time"><strong>[00:40:13]</strong> </span>
+<span class="speaker"><strong>发言人2: </strong></span>
+我可能是你主要是利用麦克风，我就说主要是利用摄像头。那我拍一张照片，那这张照片从这张照片出发，最后去帮我生成了什么东西。比如说我可能是san tax，然后去扫描文本，然后再把那个文本里面又做了一些分析组合，或者说又从你拍的一张照片里面去帮你生成一个网页。或者说从拍这个照片变成一个视频。或者说在工厂里面我拍一张照片，然后就帮你去洞察一些，改进一些什么流程等等。这些都是有可能实现的对，只要敢想，我觉得这里面可能有非常多可以利用其他的交互方式去做出新的AI的软件。
+</p>
+<p class="transcript-line">
+<span class="time"><strong>[00:40:56]</strong> </span>
+<span class="speaker"><strong>发言人2: </strong></span>
+对他以前其实在VM的这个圈子里面，其实有一个话就是说每个微盟的用户他其实都应该配一个脚踏板，专门用来按那个S键。对，因为我们用wem的用户按的最多的键是那个S键。对，所以说那个时候就有这样的一个笑话哈那其实我们今天回头来看，编程这件事儿的话，还真可以配一个脚踏板。可能对我们每个人可能配一个脚踏板，再配一个麦克风，我们可能就能完成编程了，对吧？一边脚踩一边用嘴说话。对，那手用来干啥？那手可能就只是用来一边刷抖音了，对吧？发个twitter，对，发个推特，一看我脚这样一彩，这个效果就出来了。对我举这个消化的例子，其实它本身就是一个交互形态的改变。以前觉得不可想象的那些比较搞笑的一些交互的东西，可能放到今天AI的时代，它都有可能成真了，并且还很好用。
+</p>
+<p class="transcript-line">
+<span class="time"><strong>[00:41:54]</strong> </span>
+<span class="speaker"><strong>发言人1: </strong></span>
+可能对我觉得我能想象一笑的这个画面，就是嘴上挂一个麦克风，然后脚底下踩个板，然后手刷着短视频。对，这个画面还是挺搞笑的。我就在想说，这期H6Z的博客里面，alex不是讲说他是AZ index。其实可以比如说他收500万美金来完成过去，比如说花了7500万美金的那个人工成本。因为他可能要去印度，去菲律宾，去哪个地方，然后雇了很多人，其实24小时接听电话，干嘛的，去处理问题。对，然后假如the index自己可以去做的话，那他用AI就可以把这些人力可以代替掉很多了。对，假如说我们去做SaaS的话，现在做SARS一定我要去做SEO，那是不是说我应该给别人按照DR值的这个结果付费，或者说按照曝光度付费？那比如说我给你提高了多少，然后我就收你多少钱，我觉得这个里面可能是一个很大的机会。
+</p>
+<p class="transcript-line">
+<span class="time"><strong>[00:42:52]</strong> </span>
+<span class="speaker"><strong>发言人1: </strong></span>
+我们刚才在讲的是说新软件跟旧软件的区别。从我这个角度上来讲，我自己觉得说你判断你自己在做的事是一个新软件还是一个旧软件。你就在想说你到底在卖什么？你就在想说你是不是在卖一个很像人的一个东西。如果你卖的是一个很像人的一个东西的话，那你可能在卖新软件。如果你卖的是一个工具，卖的是一个你去操作自己完成自己去拿结果的话，你可能再卖一个老软件。对我们可能去这样去想一下，对你可能就能判断出来你到底在做新的还是在做老的。我觉得这个事儿可能对于我们未来做软件来讲是一个很大的一个范式转移。
+</p>
+<p class="transcript-line">
+<span class="time"><strong>[00:43:31]</strong> </span>
+<span class="speaker"><strong>发言人1: </strong></span>
+可能很多人在谈说我在做agent我在做这个，在做那个。但是他的agent可能也不是在帮你去真正的拿到了结果，可能也是一个中间态。但是你能不能真正端到端的帮别人解决问题，然后你去卖这个端到端的这个交付结果，我觉得这个事可能会比较有意思一些。对我觉得今天这个话题真的挺有意思的。我们聊了很多，我不知道大家是不是认同我们节目里面的观点。如果大家对于新时代新软件，旧时代的旧软件，不管是新旧时代了，反正你有任何自己的想法，欢迎在下方留言跟我们一起讨论。好的，我们本期节目就先到这里，我们下期再见，拜拜。
+</p>
+<p class="transcript-line">
+<span class="time"><strong>[00:44:10]</strong> </span>
+<span class="speaker"><strong>发言人2: </strong></span>
+拜拜。
+</p>
+<p class="transcript-line">
+<span class="time"><strong>[00:44:12]</strong> </span>
+<span class="speaker"><strong>发言人1: </strong></span>
+以上就是我们本期播客的全部内容，感谢大家收听，也欢迎大家踊跃留言。如果你喜欢我们，欢迎点赞并分享给感兴趣的朋友。如果你在用苹果播客收听，也希望你花几秒钟给我们一个好评，这会让更多的人了解到我们要是能再点击一下订阅，那就再好不过了，我们下周见。
+</p>]]></content:encoded>
+            <pubDate>Wed, 15 Oct 2025 22:00:00 GMT</pubDate>
+            <guid>68efb58a2265473020ae0d88</guid>
+        </item>
         <item>
             <title>EP114 对话小宿科技 CEO William：深入探讨 AI Agent 规模化落地的核心挑战</title>
             <link>https://www.xiaoyuzhoufm.com/episode/68d90738b4befcf7305109ef</link>
@@ -23365,1401 +24652,6 @@ OK了解，感谢大家今天的时间，最后给你一分钟广告时间吧，
 </p>]]></content:encoded>
             <pubDate>Mon, 16 Dec 2024 22:00:00 GMT</pubDate>
             <guid>675ff5d27d8426f69282fc29</guid>
-        </item>
-        <item>
-            <title>EP86 对话吉光卡片作者张小吉：&quot;月薪和糖一样，都是需要戒断的&quot;</title>
-            <link>https://www.xiaoyuzhoufm.com/episode/6756e21e17cd5416adb43223</link>
-            <description>大家好，我们邀请到了一位非常特别的嘉宾——小吉，他从设计师转型到程序员，现在又成为了一位成功的独立开发者！本期节目我们和小吉一起探索他精彩的职业转型之路，听他分享从设计到编程，再到开发出爆款产品“吉光卡片”的奇妙旅程。我们会深入了解吉光卡片的诞生过程、产品营销策略、定价策略，甚至还有 build in public 的心路历程和反思。精彩内容不容错过。
-更多内容信息和时间线参考下文的硬地笔记，欢迎收听本期节目。
-另外，现在加入「硬地骇客」会员服务，即可在会员专属的微信群与其他朋友一起畅所欲言，成为会员也是对我们持续更新最大的鼓励！
-嘉宾介绍
-张小吉：一个斜杠程序员，23年8月份从职场毕业后，开始数字游民转型之旅。目前已经打造了三个可以带来“睡后”收入的产品。
-* Table To Figma
-* Fit Curve
-* 吉光卡片
-他的 X(twitter)：x.com 。
-本期赞助
-Podwise.ai - Podcast knowledge at 10x speed 🚀
-硬地笔记
-00:00:04 职场被毕业后，小吉的逆袭之路
-00:04:50 从设计师到程序员，再到产品开发者：小吉的职业转型之路
-00:08:48 吉光卡片的诞生：从用户需求到产品迭代
-00:17:34 产品营销策略：从种子用户到增长爆发
-00:26:41 产品设计与定价策略：吉光卡片的商业模式
-00:32:17 公开构建的反思：Building in Public 的利与弊
-00:40:21 被毕业后的感悟：对自由职业和未来的展望
-欢迎关注我们
-* 知识星球: t.zsxq.com
-* 官网: hardhacker.com
-* 小手册: book.hardhacker.com
-* 用爱发电不容易，请我们喝咖啡☕️: afdian.net
-* 公众号/小红书: 硬地骇客
-* 商务合作: hardhackerlabs@gmail.com</description>
-            <content:encoded><![CDATA[<h1>转写链接</h1>
-<link>https://tongyi.aliyun.com/efficiency/doc/transcripts/mloynmwbmbyeqagp</link><br>
-<h1>节目摘要</h1>
-<div class="summary">本期异地骇客节目邀请了一位嘉宾，分享了他从职场被毕业到成功转型为激光卡片产品开发者的经历。他讲述了自己从设计师到程序员的跨行业转变过程，期间面对的迷茫与艰难决策，以及自我学习和全情投入的重要性。节目深入讨论了产品开发的全周期，包括理解用户需求、功能设计、营销策略等关键环节。此外，还探讨了AI在产品开发和营销中的应用，以及嘉宾对未来发展，特别是进入健康领域的展望。节目强调了创新、专注和用户导向在创业过程中的核心作用，鼓励听众关注嘉宾的产品和未来动态。</div><br>
-<h1>章节速览</h1>
-<div class="chapters">
-<div class="chapter-item">
-<span class="time"><strong>[00:00:00]</strong> </span>
-<span class="chapter-title"><strong>从设计到编程：小吉的转型与创业心路历程</strong></span>
-<div class="chapter-summary">本期节目邀请了小吉，分享他从工业设计专业到职场尝试不同角色，最终转型成为程序员的心路历程。小吉讨论了他为什么从设计转向编程，以及在职业迷茫期如何通过自学编程找到了新的方向。此外，他还分享了如何在一年时间内构建出能够持续带来收入的小产品，以及对印第安克这条路越来越坚定的信心。</div>
-</div>
-<div class="chapter-item">
-<span class="time"><strong>[00:02:42]</strong> </span>
-<span class="chapter-title"><strong>从设计到开发再到创业：一场职业转型的传奇历程</strong></span>
-<div class="chapter-summary">对话者分享了自己从设计行业开始，逐步转向开发领域，最终投身创业的经历。他不仅在设计和前端开发方面积累了经验，更进一步转战后端服务端开发，并在遭遇职场挑战后，利用自己的积蓄和对表达及设计的热爱，与设计师朋友共同开发了激光卡片产品。尽管起初并未确定是否全身心投入创业，但随着产品受到越来越多人的喜爱和支持，他决定给自己一段时间沉淀和打磨这个项目，将之发展成为一项事业。这种从设计到开发，再到创业的转变，体现了对话者对于职业方向的深度思考和全力以赴的态度。</div>
-</div>
-<div class="chapter-item">
-<span class="time"><strong>[00:06:04]</strong> </span>
-<span class="chapter-title"><strong>从美食博主到极光卡片的转型之旅</strong></span>
-<div class="chapter-summary">对话者分享了从美食博主转型到软件开发的经历，强调了心态和学习能力的重要性。起初，他为了做美食博主购买了各种设备，学习了达芬奇调色、摄影技巧等，尽管最终没有成功，但他从中学会了做饭。后来，他开始转向软件开发，制作了极光卡片等产品，这些产品主要与界面设计相关。他的工业设计和前期平面设计的背景为他的产品带来了良好的美感和设计感。整个过程中，不断的学习和尝试是关键，包括对用户需求的理解和产品改进。</div>
-</div>
-<div class="chapter-item">
-<span class="time"><strong>[00:10:21]</strong> </span>
-<span class="chapter-title"><strong>产品设计中的审美追求与用户需求</strong></span>
-<div class="chapter-summary">对话围绕产品设计中对美的追求展开，强调了不仅是界面的美感，还包括交互和信息架构的无感知美。讨论中提到，尽管许多功能相似的产品存在，如Reas和Alfred，用户仍倾向于选择设计更美的软件，体现了对全方位美感的追求。此外，讨论还涉及了具体的设计细节，如字体、字号、圆角和阴影等元素对美感的影响，以及设计团队为实现这一美感所做的努力和时间投入。</div>
-</div>
-<div class="chapter-item">
-<span class="time"><strong>[00:13:44]</strong> </span>
-<span class="chapter-title"><strong>产品开发初期功能和模板选择的决策过程</strong></span>
-<div class="chapter-summary">在4至6个月的产品开发初期，团队并未详细规划功能和模板的数量，而是基于个人兴趣和直觉进行开发。随着项目的进展，发现了信息架构和市场定位的问题，尤其是产品设计偏向于极客风格，忽略了更广泛市场的需求。后续通过观察小红书等平台的成功案例，调整策略，增加了更多符合女性用户和热门风格的模板，以满足更广泛的市场需求。团队意识到，要想在竞争中脱颖而出，必须在细分领域做到极致，提供更精致、更符合用户需求的产品。</div>
-</div>
-<div class="chapter-item">
-<span class="time"><strong>[00:17:20]</strong> </span>
-<span class="chapter-title"><strong>通过公开构建和宣发策略吸引首批用户</strong></span>
-<div class="chapter-summary">对话者分享了通过在极客平台和海外X上公开构建产品过程，吸引了第一批用户的方法。在产品尚未发布前，通过详细分享产品的商业模式、营收情况和遇到的困难，激发了用户的兴趣和期待。后续用户增长主要通过寻找核心意见领袖（KOL）和在Reddit、LinkedIn等平台上进行营销活动，以及利用折扣优惠和在特定论坛发布信息来实现。此外，还通过字节跳动旗下的Lemon 8在日本地区进行推广，并在语音平台上获得了高赞的帖子，以进一步扩大用户群体。</div>
-</div>
-<div class="chapter-item">
-<span class="time"><strong>[00:20:50]</strong> </span>
-<span class="chapter-title"><strong>在Reddit和LinkedIn上有效增长策略及爆款内容分析</strong></span>
-<div class="chapter-summary">对话讨论了在Reddit和LinkedIn上有效增长的方法，包括遵循社区规则、分析并模仿高赞帖子的格式，以及利用营销活动和折扣网站来提升下载量和曝光度。此外，还提到了通过羊毛党获取曝光以及在不同平台进行大促活动，实现40%左右的下载量增长。</div>
-</div>
-<div class="chapter-item">
-<span class="time"><strong>[00:24:29]</strong> </span>
-<span class="chapter-title"><strong>APP用户反馈渠道与产品功能优化</strong></span>
-<div class="chapter-summary">对话围绕如何处理APP用户的反馈和建议展开，提到了通过APP Store评论、邮件和Discord与用户沟通的方式。讨论中还涉及到了建立用户群的考量，以及通过小红书和海外邮件收集用户反馈。此外，还提到了产品功能的覆盖情况，包括用户期待的副文本、图片功能等，并强调了开发进度和节奏的挑战，以及解决用户需求的具体功能开发难点。最终，指出用户群可能带来较多噪音，因此并未建立用户群进行运营。</div>
-</div>
-<div class="chapter-item">
-<span class="time"><strong>[00:26:39]</strong> </span>
-<span class="chapter-title"><strong>产品付费模型及用户转化策略探讨</strong></span>
-<div class="chapter-summary">对话围绕一款产品的付费模型设计展开，探讨了激光卡片产品的免费试用策略和付费墙机制。产品设计中，年订阅模式被赋予免费试用选项，而终身版则不提供试用，旨在鼓励用户长期订阅。讨论中提到，虽然低价策略可以吸引更广泛的用户群体，但高价策略可能更适用于具有较高付费能力的用户。为了提高用户粘性和转化率，产品团队调整了价格模型，使年订阅模式成为首选，同时通过提供免费试用期，优化了用户的体验和付费转化过程。数据显示，这一策略在提高转化率方面取得了显著成效。</div>
-</div>
-<div class="chapter-item">
-<span class="time"><strong>[00:29:59]</strong> </span>
-<span class="chapter-title"><strong>订阅模式下的用户留存与资源消耗问题</strong></span>
-<div class="chapter-summary">讨论集中在订阅模式下用户的行为模式，特别是月度订阅用户在第二个月是否继续订阅的问题。提到了提供三天免费试用可能导致的扣款失败和用户取消订阅的情况，以及年度订阅模式的考虑。此外，对比了不同产品在用户使用过程中资源消耗的差异，指出某些产品在用户免费试用后取消订阅不会造成资源浪费，而其他产品则可能因用户使用而消耗资源，导致成本问题。最后，讨论了苹果平台对于付费订阅的处理方式，以及不同商业模式下用户取消订阅和资源消耗问题的普遍存在性。</div>
-</div>
-<div class="chapter-item">
-<span class="time"><strong>[00:32:14]</strong> </span>
-<span class="chapter-title"><strong>公开构建产品的挑战与反思</strong></span>
-<div class="chapter-summary">讨论了在公开构建产品（build in public）过程中遇到的问题与反思。起初，创建者怀着赤诚的心尝试将海外模式引入国内，但随着收入增加和团队讨论，发现这种方式往往吃力不讨好。特别是当产品取得一定成绩后，遭到他人抄袭甚至恶意竞争，导致创建者对公开构建产生芥蒂。此外，还提到行业内一些无下限的营销手段和不正当竞争行为，使得开发者在分享真实经验和干货时变得更为警惕，认为这是整个行业的悲哀。创建者表示，未来在分享产品进展时会更加谨慎，更多地将干货沉淀在自己的文档中，以避免被抄袭。</div>
-</div>
-<div class="chapter-item">
-<span class="time"><strong>[00:36:06]</strong> </span>
-<span class="chapter-title"><strong>健康产品市场预热与定价策略</strong></span>
-<div class="chapter-summary">对话围绕一款新的健康相关产品的市场预热策略和定价体系展开。讨论指出，虽然之前在极客平台上进行了很多营销和产品构建的公开分享，但新的健康产品将采取不同的策略，更侧重于产品本身的介绍，且目标用户群更为大众化。此外，还探讨了定价策略的调整，从高端定位的极光卡片转向更平民化的价格，以适应更广泛的用户群体。目前极光卡片的用户群体中，中文区用户占比60%，英文区主要来自欧洲、美国和加拿大，共占30%。</div>
-</div>
-<div class="chapter-item">
-<span class="time"><strong>[00:38:52]</strong> </span>
-<span class="chapter-title"><strong>AI在工作流程中的角色与生活方式的转变</strong></span>
-<div class="chapter-summary">对话围绕AI在工作中的应用及其带来的效率提升展开，讨论了AI在多语言翻译、批量内容生成以及代码编写等方面的重要作用。此外，还分享了AI带来的生活方式变化，包括工作时间的自由分配、不受场地约束的工作模式以及多元化的谋生方式。最后，讨论了从职场离职后心态的转变，以及在生活消费预期管理和心态调整上的体会。</div>
-</div>
-<div class="chapter-item">
-<span class="time"><strong>[00:43:54]</strong> </span>
-<span class="chapter-title"><strong>健康类新产品及极光卡片的分享</strong></span>
-<div class="chapter-summary">本期播客中，一位嘉宾分享了其激光卡片产品，这是一种提升文字分享排版效果的工具。此外，还介绍了一款健康类新品，具有像素风设计，旨在鼓励健康运动。嘉宾邀请听众关注其小红书账号，以获取更多产品动态。感谢嘉宾的分享，并期待其产品大卖。我们鼓励听众留言、点赞、分享，以及在苹果播客上给予好评和订阅，期待下周再见。</div>
-</div>
-</div><br>
-<h1>问题回顾</h1>
-<div class="qa-item">
-<div class="question"><strong>Q:</strong> 小吉，可以给大家介绍一下自己吗？</div>
-<div class="answer"><strong>A:</strong> 大家好，我是张小吉。我之前是工业设计专业出身，毕业后尝试过多种职业，如设计师、平面设计师、视频剪辑、文案和运营等。最终转向程序员行业，并在六年的程序员生涯中培养出编程思维。在职业生涯后期，预计国内职场环境走下坡路后开始转型，尝试过美食博主等工作，最后因对文字表达和图片制作的兴趣，与设计师朋友共同创建了极光卡片产品。</div>
-</div>
-<div class="qa-item">
-<div class="question"><strong>Q:</strong> 你从设计转到开发，再到做艺人公司，为什么每次转行都会选择与之前不同的领域？</div>
-<div class="answer"><strong>A:</strong> 我认为自己不太能够分心，一旦决定就会all in，而不是半途而废。对于我来说，做决定时会慎重考虑，不希望对团队和个人都无沉淀的尝试。同时，每一次转行都是基于对新领域深入探索和验证后的选择。</div>
-</div>
-<div class="qa-item">
-<div class="question"><strong>Q:</strong> 能否分享一下你在做美食博主期间学到的东西？</div>
-<div class="answer"><strong>A:</strong> 在做美食博主的过程中，我始终坚持保持良好心态。最初的想法是即便不成，也学到了做饭技能。虽然最后没有成功，但确实在这个过程中掌握了美食拍摄、调色（例如在达芬奇软件中进行调色）等工作流程，这些经验对我而言都是宝贵的。</div>
-</div>
-<div class="qa-item">
-<div class="question"><strong>Q:</strong> 你一开始决定all in，是因为发现职场生涯有问题后开始做转型。能具体说说你是如何投入大量时间和精力进行视频制作的吗？</div>
-<div class="answer"><strong>A:</strong> 当时我购买了很多设备，并且一开始就决心全身心投入。下班后八点开始，直到深夜都不能停歇，既要调机位、剪辑视频，还要兼顾做饭。通过不断尝试和学习，包括达芬奇调色等课程，并对镜头分析、景别、情绪影响等方面进行深入研究，利用业余时间提升自己的技能。</div>
-</div>
-<div class="qa-item">
-<div class="question"><strong>Q:</strong> 你在炒菜的过程中如何实现单机位拍摄的视角切换？</div>
-<div class="answer"><strong>A:</strong> 虽然菜没法吃，但可以通过后期调色、配音、音效等手段来营造出切视角的效果，让观众感觉像是在炒菜过程中完成了多个角度的拍摄。</div>
-</div>
-<div class="qa-item">
-<div class="question"><strong>Q:</strong> 极光卡片这个产品的创作初衷是什么？</div>
-<div class="answer"><strong>A:</strong> 创作极光卡片是因为在极客平台上发布内容时，用户经常询问使用的工具。我意识到需要用某种能力去解决用户需求，于是结合朋友想学UI的机会，开始了内部调整和反馈，经历了三四个月的交互改进和摸索过程，最终逐步完善了这个产品。</div>
-</div>
-<div class="qa-item">
-<div class="question"><strong>Q:</strong> 你之前学习工业设计以及第一份工作是平面设计相关，这是否对你的产品美感有影响？</div>
-<div class="answer"><strong>A:</strong> 是的，我的平面设计背景以及之后的工作经历确实影响了我的产品审美观。即使在做产品时想要完全隔离过去的经历也是不可能的，所以之前的平面设计知识和经验对我后来的产品设计美感有很大帮助。</div>
-</div>
-<div class="qa-item">
-<div class="question"><strong>Q:</strong> 对于用户对美的追求，以及如何在产品设计中体现这一点，你有什么心得？</div>
-<div class="answer"><strong>A:</strong> 我认为美不仅仅是表面的品味，好东西往往让人无感知。在产品设计中，除了界面美感，还包括交互上的美感，很多细节如字体、字号、行高行距、圆角、阴影层级等都会影响整体美感。真正的美是用户在使用过程中能自然接受且无需刻意关注的，而我们则需要深入挖掘和精细雕琢每一个细节。</div>
-</div>
-<div class="qa-item">
-<div class="question"><strong>Q:</strong> 激光卡片产品的开发周期大概是多久？</div>
-<div class="answer"><strong>A:</strong> 激光卡片产品的开发和上线过程大约持续了4到6个月，期间设计师和我在其中不断学习、研究和改进，同时也进行了营销工作，因为当时AI技术发展还不像现在这样成熟，所以整个过程较为艰辛。</div>
-</div>
-<div class="qa-item">
-<div class="question"><strong>Q:</strong> 在4至6个月的时间里，你们是如何确定要实现哪些功能并决定发布的？</div>
-<div class="answer"><strong>A:</strong> 当时并没有全面考虑，完全按照自己的想法去做，首先上线了一些基本功能，如字数统计、日期显示等。但后来发现信息架构存在问题，如果现在有同样的认知，就不会采取这样的做法。至于模板数量，当时并未预先设定，只是不断尝试制作不同风格的模板。</div>
-</div>
-<div class="qa-item">
-<div class="question"><strong>Q:</strong> 你们是如何针对目标用户群体进行产品设计的？</div>
-<div class="answer"><strong>A:</strong> 我们的产品最初主要面向的是男性极客群体，审美趋向一致。我们在小红书等平台上的表现也反映出信息茧房的现象。因此，在后续的产品中，我们开始尝试更精致、女性化或符合小红书热门爆款笔记风格的设计。</div>
-</div>
-<div class="qa-item">
-<div class="question"><strong>Q:</strong> 对于层出不穷的模板，你们如何看待它们对用户的影响？</div>
-<div class="answer"><strong>A:</strong> 大部分用户可能感知不到模板之间的具体差异，只要能满足需求即可。像小红书自带的AI生成首页图片功能就很成功，因为它能满足海量用户的需求，并且适应各种场景。我们的产品则更偏向于小众且精致的设计，面对大量级的竞争，我们需要在这个细分领域做到行业顶尖。</div>
-</div>
-<div class="qa-item">
-<div class="question"><strong>Q:</strong> 你是如何找到产品最先一批用户的？</div>
-<div class="answer"><strong>A:</strong> 最先一批用户是在极客平台上找到的，我在产品未正式发布前就开始了宣发工作，并且这套思路是从海外学习而来的。通过在X上关注和参与公开构建（Build in Public）的活动，吸引了海外高质量用户群体的关注，从而获取了首批种子用户。</div>
-</div>
-<div class="qa-item">
-<div class="question"><strong>Q:</strong> 你是如何从海外获取第一批用户的？在 Reddit 上是如何进行产品营销和用户增长的？</div>
-<div class="answer"><strong>A:</strong> 我在海外的X平台上通过公开构建的方式，吸引了大量高质量用户关注。同时，我也借鉴了国外一些成功的案例和做法，如与大V合作进行转发活动，提供分佣激励，让他们帮助扩散产品。在Reddit上，我们主要通过联系核心KOL和大V，通过邀请他们转发产品信息并提供一定的佣金来扩大产品曝光量。同时，也在其他论坛如Reit子论坛、领英子论坛以及苹果官网子论坛等进行营销，通过定期发布折扣优惠等活动来吸引和增长用户量。另外，也在字节跳动旗下的产品上进行过海外宣传推广。</div>
-</div>
-<div class="qa-item">
-<div class="question"><strong>Q:</strong> 在这些平台（link din、redis、APP store）中，有没有爆发式增长的时刻？你们做了什么事情导致下载量爆发？</div>
-<div class="answer"><strong>A:</strong> 苹果方面可以通过参与海外活动，如APP gone free等活动，实现下载量的大量爆发。此外，利用海外打折网站进行限免推广也能吸引大量用户。法国一个28万博主主动联系进行产品测评，也带来了流量爆发的附加效应。</div>
-</div>
-<div class="qa-item">
-<div class="question"><strong>Q:</strong> 你们是否愿意让羊毛党先去尝试产品，用一部分利润换取更大的曝光和品牌传播？</div>
-<div class="answer"><strong>A:</strong> 这取决于产品属性以及我们期望换取什么。对于极光卡片这类产品，确实可以通过这种方式平衡成本与曝光效果。</div>
-</div>
-<div class="qa-item">
-<div class="question"><strong>Q:</strong> 最近黑5大促期间，你们有没有参与大促？相比平时增长了多少？</div>
-<div class="answer"><strong>A:</strong> 我们主要在海外的reita、领英、tiktok以及国内的小红书、抖音、极氪和X平台上进行了推广，但因专注于产品内部架构调整，并未进行大规模曝光。相较于平时，我们的增长大约在40%左右。</div>
-</div>
-<div class="qa-item">
-<div class="question"><strong>Q:</strong> 你们是如何与用户沟通和收集反馈的？是否使用了用户群等方式与用户交流？</div>
-<div class="answer"><strong>A:</strong> 我们目前主要通过邮件和discord与用户沟通，并未建立用户群。因为产品本身不复杂，且所有用户期待的功能都已经在产品功能中覆盖。我们会及时关注并响应用户在各个平台上的反馈。</div>
-</div>
-<div class="qa-item">
-<div class="question"><strong>Q:</strong> 关于产品内购设计，安装后初次登录会有一个paywall，但年定是可以免费试用的，这背后的设计考量是什么？</div>
-<div class="answer"><strong>A:</strong> 对于paywall的设计，我们希望用户能更长久地使用产品，因此将年定设置为可免费试用，而其他版本则需付费。这样的设计有助于区分不同付费能力的用户群体，并引导用户更深入地使用我们的产品。</div>
-</div>
-<div class="qa-item">
-<div class="question"><strong>Q:</strong> 在做年订阅免费试用后，年订阅的转化率是否有提升？实施年订阅免费试用后，是否发现有大量用户仅利用免费试用来白嫖产品，然后取消订阅？</div>
-<div class="answer"><strong>A:</strong> 当然有提升。在未实施年订阅免费试用时，由于月订阅的限制，大约有50%的用户在第二个月会取消订阅，追踪和续订情况复杂。而现在用户可以尝试年订阅，满意后继续续订，这使得转化率有所提高。苹果平台不会存在这个问题，因为即使用户卡里没钱或选择取消订阅，苹果系统也会确保应用在使用期间必须付费。对于这部分用户，我们并不在意他们是来体验产品的，重要的是关注最终的转化数据和目标用户群体。</div>
-</div>
-<div class="qa-item">
-<div class="question"><strong>Q:</strong> 针对我们的产品，用户在使用过程中是否会消耗资源，导致“白嫖”用户对我们来说有所损失？</div>
-<div class="answer"><strong>A:</strong> 对于我们的产品来说，用户在使用过程中确实会消耗资源。因此，“白嫖”用户会对我们造成一定损失，但我们认为这种影响并不痛苦，只要他们最终成为付费用户即可。</div>
-</div>
-<div class="qa-item">
-<div class="question"><strong>Q:</strong> 你如何看待别人抄袭你的“build in public”内容，并在营收增长后开始对此产生争议的情况？</div>
-<div class="answer"><strong>A:</strong> 抄袭行为确实会对我的初衷产生一定影响。最初我是以真诚的态度想将海外的理念带到国内，但随着收入增长和团队交流深入后，发现这个过程并不容易。对于抄袭现象，我认为创新和智慧的竞争是正常的，但如果出现恶意竞争如评论区截流等行为，我会感到不适，并采取相应措施维护自身权益。</div>
-</div>
-<div class="qa-item">
-<div class="question"><strong>Q:</strong> 在公开构建产品方面，为什么你现在变得非常警惕，不轻易分享真干货？</div>
-<div class="answer"><strong>A:</strong> 现在行业内存在很多无下限的营销手段和不正当竞争，这让我对公开构建有了芥蒂。同时，由于收入情况和产品护城河不够强，担心分享后被抄袭，导致国内开发者更不愿意分享真东西和干货，宁愿将内容沉淀在文档里，且在分享时会进行过滤。</div>
-</div>
-<div class="qa-item">
-<div class="question"><strong>Q:</strong> 对于即将推出的健康类产品，你还会像之前那样进行公开构建吗？</div>
-<div class="answer"><strong>A:</strong> 对于健康类产品，我依然会进行公开构建，但方式会有所不同。以前的产品适合极客群体，现在健康产品面向更广泛的大众市场，因此在公开构建时，我只会分享产品的界面、玩法等内容，而不涉及营销形式和产品构建思路。</div>
-</div>
-<div class="qa-item">
-<div class="question"><strong>Q:</strong> 对于健康类产品的定价体系，你的考量是什么？</div>
-<div class="answer"><strong>A:</strong> 健康类产品受众更广泛，价格会更平民化，与用户群的广泛性和收入水平相关。与之前极光卡片面向专业用户、定价较高的策略有所不同，健康类产品旨在覆盖不同层级人群，所以定价会有所不同。</div>
-</div>
-<div class="qa-item">
-<div class="question"><strong>Q:</strong> 现在极光卡片的用户群体中，打字的比例以及中文区和英文区的情况如何？</div>
-<div class="answer"><strong>A:</strong> 中国区大概60%的用户通过打字，剩余用户主要分布在欧洲和美国加拿大等国家，其中打字用户占中国区的60%左右。</div>
-</div>
-<div class="qa-item">
-<div class="question"><strong>Q:</strong> 在你的工作流中，AI扮演什么样的角色？通常在什么情况下会使用AI以及使用的程度如何？</div>
-<div class="answer"><strong>A:</strong> 目前大约90%的工作由AI完成，比如软件内的多语言翻译、生成批量素材等场景都依靠AI解决。AI在内容创作、投放素材查重等方面发挥巨大作用，极大提高了效率，并且在某些方面比人工更加专业。</div>
-</div>
-<div class="qa-item">
-<div class="question"><strong>Q:</strong> 回顾毕业后的生活阶段变化，你对自己目前的生活满意吗？</div>
-<div class="answer"><strong>A:</strong> 对目前的生活感到相当满意，从打工状态转变为多种谋生方式并存，不仅实现了生活平衡，还体验到了世界的多元性。AI改变了生活，使得消费观念、时间管理等方面有了更灵活多元的选择，摆脱了单一的工作模式带来的束缚。</div>
-</div>
-<h1>节目文稿</h1>
-<p class="transcript-line">
-<span class="time"><strong>[00:00:04]</strong> </span>
-<span class="speaker"><strong>发言人1: </strong></span>
-大家好，欢迎收听异地骇客。我是seattle，我是一笑。
-</p>
-<p class="transcript-line">
-<span class="time"><strong>[00:00:08]</strong> </span>
-<span class="speaker"><strong>发言人2: </strong></span>
-我是龟龟。
-</p>
-<p class="transcript-line">
-<span class="time"><strong>[00:00:09]</strong> </span>
-<span class="speaker"><strong>发言人1: </strong></span>
-本期节目由power wise赞助播出。Od wise是一款为播客听众制作的AI学习软件产品的slogan是read before listen。Model YS通过AI对播客内容进行转录提取、总结分析等一系列操作，帮你掰开了揉碎了硬核的播客内容。同时与notion RED、WIS等平台的打通，嵌入知识管理工作流，协助您的其他包括新闻newsletter blog的内容，帮你打造第二大脑。Hot wise也为本期听众准备了三个5折优惠码，针对本期在小宇宙与我们互动的精选回复，欢迎大家踊跃来玩。
-</p>
-<p class="transcript-line">
-<span class="time"><strong>[00:00:46]</strong> </span>
-<span class="speaker"><strong>发言人1: </strong></span>
-好的，那开始我们本期的节目。今天很高兴邀请到小吉带着他的作品极光卡片来到我们节目。小吉是在职场被毕业的，但是从毕业到构建出持续带来税后收入的小产品，他用了一整年年的时间，从开始的迷茫到现在，对印第安克这条路也越来越坚定了。我们今天就跟小吉一起聊一下他的整个心路历程。我们废话不多说，开始我们今天的节目。首先欢迎小吉，小吉可以给大家介绍一下自己吗？
-</p>
-<p class="transcript-line">
-<span class="time"><strong>[00:01:13]</strong> </span>
-<span class="speaker"><strong>发言人2: </strong></span>
-印度黑客的听众们大家好，我是张小吉。我的经历是这样，就是我之前是做设计出身的，大学学的是工业设计。然后后面我自己的兴趣爱好是比较广的，就尝试了很多的职业行业以及工种。我可能尝试过做过设计师、平面设计师，就是跟我们本专业相关的，然后后面又又去转去做视频剪辑。我也做过一段时间，然后也做过文案，后面也做过运营。然后最后的职业就是转到了做程序员。当时是我的一个程序员朋友，他现在在腾讯。
-</p>
-<p class="transcript-line">
-<span class="time"><strong>[00:01:56]</strong> </span>
-<span class="speaker"><strong>发言人2: </strong></span>
-我当时职业生涯也比较迷茫，因为国内的大环境它是处于上升期。我自己对于我的在运营当中，它其实是很没有掌控感的。当然我后面是有转变，但是在那个阶段我是觉得是非常没有掌控感的。设计师他有他自己的想法，然后程序员他也有自己的想法，产品经理他也有自己的规划，但是你唯独运营是没有自己的掌控权的。然后在这么一个背景下，当然还有一个第二个阶段就是程序员比运营要赚的多。对我在那个契机下，我就一狠心，我就自己开始自学程序开发。又做了六年的程序员，在做程序的过程中就是理解到了很多的有编程的思维。从此开始有点喜欢上了编程的这个事情。
-</p>
-<p class="transcript-line">
-<span class="time"><strong>[00:02:43]</strong> </span>
-<span class="speaker"><strong>发言人2: </strong></span>
-再到我在职业生涯的被毕业的前两年之后，我其实已经有开始预计到国内的职场生涯开始走下坡路。包括之前的职业发展，就是国内的环境，就是你如果说想要跳槽，就约等于涨薪30%。但是那个大石头已经去掉了，所以我就开始做转型。然后也做过美食博主，通过我的抖音号什么的也可以看到我的之前的作品，然后也花了很多精力，但是其实没有构成，当时就是因为企业代码太多了，就是把运营思维抛掉了。就是我从一开始找对标账号就找错了。所以这么个历程之后，我就开始在想我到底适合做什么以及想做什么。
-</p>
-<p class="transcript-line">
-<span class="time"><strong>[00:03:24]</strong> </span>
-<span class="speaker"><strong>发言人2: </strong></span>
-做了这么多尝试之后，在一个契机下，因为我平常喜欢写文字表达，就做了很多的内容发到了极氪，发到的那个X上。那个时候很郁闷，然后就发也没有想着什么，然后就有越来越多人问我，你的图是怎么做的？因为我之前有过这么多履历之后，其实我对于表达以及表达后的包装，我是比较在意这件事情的。所以就是在发文字内容的时候，我会自然做出更漂亮的图片，我自己认为更漂亮的，然后正好我的设计师朋友，他在这个行业就已经深耕了很多年了，他自己也有想要去做学习代码，然后我们就不如我们一起做一个产品。然后就在这么一个契机下，激光卡片它是诞生了。
-</p>
-<p class="transcript-line">
-<span class="time"><strong>[00:04:10]</strong> </span>
-<span class="speaker"><strong>发言人2: </strong></span>
-刚开始在想做激光卡片的时候，其实我没有坚定说一定要不再回职场了。但是在做的过程中，其实你对产品打磨就跟亲儿子一样。再加上我自己其实也有一点积蓄，其实不着急这个事情，然后就想着给自己空窗期。但是做着做着发现就有越来越多的人喜欢激光卡片，包括支持包括以及后来有有一些跟随者。然后就觉得这事儿好像是可以能够作为成一个事业准备就试一试，就准备给自己好好的一段时间沉淀下来，把这个事还没好好打磨好。对，就是这样。OK.
-</p>
-<p class="transcript-line">
-<span class="time"><strong>[00:04:49]</strong> </span>
-<span class="speaker"><strong>发言人1: </strong></span>
-你这个介绍特别的详细，我感觉你这个经历也挺传奇的。你说你一开始是学设计的对吗？然后后面运营，然后开发等等这些全部都干过。对，而且我觉得你这个转换特别极致。你看你以前是做设计的，然后你后来做开发。因为我见过很多设计转开发的，其实是转前端，然后你是转成服务端开发了，对吧？你是直接就转成后端服务端开发了，你裁员过后，然后又开始做艺人公司，现在是有partner，对吧？
-</p>
-<p class="transcript-line">
-<span class="time"><strong>[00:05:18]</strong> </span>
-<span class="speaker"><strong>发言人1: </strong></span>
-就是我感觉你跟别人的思路会不太一样。比如说有些人他做设计，他跳槽他永远都是做设计。那你为什么会跳槽过后每次都干的跟以前不一样呢？
-</p>
-<p class="transcript-line">
-<span class="time"><strong>[00:05:29]</strong> </span>
-<span class="speaker"><strong>发言人2: </strong></span>
-首先这个事情我认为我自己是不太能够分心的。如果我决定了，我想我会花很长时间去纠结，去反复去验证这个事情。就是我在做决定之前我会想这么多。一旦我认为这个方向是可行的，我是希望all in的，就是我不希望做了就是做这个东西，做了半半拉拉的，然后又去跳那个。因为我之前踩过这方面的亏，我尝试过很多半途而废的那个项目很多很多。后来就觉得这样的过程是没有沉淀的，再加上现在其实不是对一个人负责的，是对对一个团队负责，就是做决定反正是更慎重的。
-</p>
-<p class="transcript-line">
-<span class="time"><strong>[00:06:05]</strong> </span>
-<span class="speaker"><strong>发言人1: </strong></span>
-其实我对你一段经历还特别感兴趣，你说你做过美食博主，而且我看过你的作品，包括你自己写的怎么分享的，自己拍美食的这个过程，然后还有包括你真正拍出来的东西。我觉得你拍的内容还是很专业的。而且我有看到你在你的博客里面还有放了一段，我感觉应该是在达芬奇里面做调色，对吧？然后你的整个workflow等等，这个东西我感觉非常清晰，先还原lot，再怎么怎么做色温调整等等之类的。虽然感觉你自己讲最后号没做成，但是我相信你在这里面肯定学到一些东西。能不能跟我们分享一下做美食博主的这个经历？
-</p>
-<p class="transcript-line">
-<span class="time"><strong>[00:06:43]</strong> </span>
-<span class="speaker"><strong>发言人2: </strong></span>
-做美食博主我从一开始就是想就抱着我觉得心态也是一个很重要的事情。我刚开始的心里的念想就是如果不成我还学了做饭的技能。但是最后OK确实就如我所愿，好没做成，学会了做饭。
-</p>
-<p class="transcript-line">
-<span class="time"><strong>[00:06:58]</strong> </span>
-<span class="speaker"><strong>发言人2: </strong></span>
-这里面其实我也说了，我们一开始是我就想all in。因为我发现职场生涯有问题的时候，我就开始做转型。就是差生文具多，我就买了一堆的设备，其实是不给自己退路的。所以很多人他他看我的那个视频，他觉得我是不是有个团队，但其实不是的。我一下班了之后，七点回去之后八点了，八点之后我就开始一分钟都不能歇，我就要开始调机位，要开始做饭。因为你既要做饭又要去调镜头，我当时还需要做多镜头，就不是单机位在哪拍？我是单机位，但是我是要不断的换角度，然后切可能切一半再换一个地方再切下去，然后你剪辑的时候才能连起来。
-</p>
-<p class="transcript-line">
-<span class="time"><strong>[00:07:37]</strong> </span>
-<span class="speaker"><strong>发言人2: </strong></span>
-包括当时又买了一些课程，达芬奇调色也是从最基础的学，我觉得程序员最缺的就是学习能力。你对这个东西感兴趣你就摸，软件这个东西你应该就是很熟的。当时包括就做了一整套的，包括一些镜头的分析，景别的分析，情绪的影响，那些都有在学，就是在摸鱼的时候学，类似于这种我发现摸鱼效率更高。
-</p>
-<p class="transcript-line">
-<span class="time"><strong>[00:08:01]</strong> </span>
-<span class="speaker"><strong>发言人1: </strong></span>
-有一种偷感是吧？对，不该说话的时间。
-</p>
-<p class="transcript-line">
-<span class="time"><strong>[00:08:06]</strong> </span>
-<span class="speaker"><strong>发言人2: </strong></span>
-对，就感觉赚到了。所以不怎么跟身边，在职场上处理完工作的事情之后，我就开始搞视频的东西。
-</p>
-<p class="transcript-line">
-<span class="time"><strong>[00:08:17]</strong> </span>
-<span class="speaker"><strong>发言人1: </strong></span>
-我觉得你这个还是挺专业的，但是我有点好奇。就比如说你说你是单机位的，单机位的，你在炒菜的过程里面你能切视角吗？可以的。
-</p>
-<p class="transcript-line">
-<span class="time"><strong>[00:08:25]</strong> </span>
-<span class="speaker"><strong>发言人2: </strong></span>
-一半重点就是那个菜没法吃，但是要给别人感觉好吃。你可以通过调色、配音、配音效对吧？配各种东西，音乐什么那些，简直就是骗子。
-</p>
-<p class="transcript-line">
-<span class="time"><strong>[00:08:36]</strong> </span>
-<span class="speaker"><strong>发言人1: </strong></span>
-我感觉学到了，我觉得这个里面调色，包括怎么拍，这个里面也是一个很大的一个话题。下次有机会再跟你详细请教。对，但是我们聊了半天还没聊到今天的重点，就是极光卡片还没聊到。因为你刚才有大概小介绍了一下，就能不能给我们再稍微详细的介绍一下，就是当时为什么想做这么一个产品？
-</p>
-<p class="transcript-line">
-<span class="time"><strong>[00:08:55]</strong> </span>
-<span class="speaker"><strong>发言人2: </strong></span>
-我当时为什么想做这样一个产品？就是在极客上，在X上发了一些内容，底下评论区老是在问你是用什么东西去做的，就一直在那问我当时在想我用什么样的能力能够解决用户需求？我不可能发这一版设计稿给你，因为很多的用户他其实是没有这个东西的。正好我朋友也想学这个UI，然后就这么个契机下我去试一试。刚开始做了可能有三四个月，就我们自己内部一直在调给一些不同的朋友去用去反馈，做了很多的交互上的改进，来慢慢的把这个产品再摸出来。就是有很多的尝试阶段，包括你刚开始学CUI有很多不懂的东西，就有很多错误。渲染我们那地方用了非常多的渲染性能那一块的东西都不懂，就是一步一步摸索过来。
-</p>
-<p class="transcript-line">
-<span class="time"><strong>[00:09:44]</strong> </span>
-<span class="speaker"><strong>发言人1: </strong></span>
-对，因为我看你做的激光卡片，还有包括你之前还有两个产品，其实都是跟FIMA相关的一些东西。感觉你做产品的美感还是很在线的。这个是不是跟你之前学工业设计相关的，还有你学完工业设计之后，其实你的第一份工作是在做平面设计相关的东西，对吧？跟这块东西是不是有很大的相关性？
-</p>
-<p class="transcript-line">
-<span class="time"><strong>[00:10:02]</strong> </span>
-<span class="speaker"><strong>发言人2: </strong></span>
-应该说不止我相关，是所有人都没办法跟他自己之前的履历说想要完全隔离是没有可能的。所以我当然是之前的平面设计的履历，反正我之前去的公司就有点偏广告公司，就有点要往这方面去发展的那个情况，所以就是和我之前的履历有关。
-</p>
-<p class="transcript-line">
-<span class="time"><strong>[00:10:21]</strong> </span>
-<span class="speaker"><strong>发言人1: </strong></span>
-OK因为我们也一直在讲一个东西，就是说大家对于美的这个追求是无止境的。不光是说我们自己在做产品的时候要追求美，其实用户也在追求美。对，我们之前一直在举一个例子，就是说reas跟Alfred，其实他们99%的功能都一样，大家都是用一个command加空格对吧？把你想调用的应用然后给它唤起起来。
-</p>
-<p class="transcript-line">
-<span class="time"><strong>[00:10:42]</strong> </span>
-<span class="speaker"><strong>发言人1: </strong></span>
-对，其实你同样用mac的sort light其实也能做到的对，但是还是会有很多人会去装request。这个我觉得背后其实就是大家对于美的这种追求。就是我在手机里面，我在我的mac电脑里面装了一个比较美的这个软件，我就心里觉得很舒服。对于这件事儿，因为我相信你自己在做的很多产品都在追求这个美感。对于这个审美或者说大家追求美的这个部分上面，你有没有什么心得？
-</p>
-<p class="transcript-line">
-<span class="time"><strong>[00:11:07]</strong> </span>
-<span class="speaker"><strong>发言人2: </strong></span>
-我觉得美这件事情，有很多是除了品味本身，其实好东西就是没有感知的。大家有时候是看到的，比如说界面上的美感，我觉得界面上美感是一个很粗的事情。其实很多人他如果去模仿，他可以模仿一个模棱两可的状态。但另外你交互上也有美感，你好多东西你是无感知的，那个美我觉得才叫真的美。
-</p>
-<p class="transcript-line">
-<span class="time"><strong>[00:11:30]</strong> </span>
-<span class="speaker"><strong>发言人2: </strong></span>
-用完这个产品你就发现，它它满足我就是它很完美的满足了我的需求，就是交互上的美感，再到产品上的美感。首先是信息层级，你怎么去评估你的信息是否是合理的。还有一个就是大家对很多的美感只停留在它界面上，是怎么样去摆让它看起来好看，但这个只是我最终的效果呈现给你了。但这里面有很多，比如说你字体、字号、字重，然后你行高行距，把你圆角，然后你的阴影的层级，这些都会影响到美感。但是很多包括有一些跟随我们的人，他其实可能会做了一些样子上看起来差不多的。但其实你长期去使用它，你会觉得这个美感事情是润物细无声的。就是我理解的美感就是对于用户来说，它是不需要刻意去看，它只是一个感觉就好了。但是对于我们来说，我们对美这个事情要要去抠数据，要去抠细节，要去雕花。
-</p>
-<p class="transcript-line">
-<span class="time"><strong>[00:12:35]</strong> </span>
-<span class="speaker"><strong>发言人1: </strong></span>
-对我刚才讲的这个美感有点表面了，对吧？因为我就在讲说这个东西好不好看。对，但是你刚才有强调的这个美感里面，就包括说我的信息架构，我的交互，再到我的设计，让大家是不是看着舒服。对我觉得你这个是一个全方位的美感，最终其实目标是让用户用起来舒服，对吧？对对对，我觉得你们这个激光卡片做的挺好的。就是一开始一上来，一方面是因为你自己发的图，你自己一开始给用户下的那个诱饵足够美。然后又反过来倒到你的极光卡片这个产品本身，感觉他也足够美。但我想知道的是你刚才讲说你们大概花了三四个月的时间，包括学CCUI等等之类的，把这个产品上线的就大概时间是这么久吗？
-</p>
-<p class="transcript-line">
-<span class="time"><strong>[00:13:19]</strong> </span>
-<span class="speaker"><strong>发言人2: </strong></span>
-是这样，刚开始我们设计师朋友有断断续续的学，我在其中也加入了一段时间去学。但我后来我发现不做营销不行，我就在OA频道去做营销了。因为当时而且AI还没有发展的那么快，就导致真的在那磕磕绊绊的。遇到问题再在网上找去去学习。对，真正做出来可能就是4到6个月OK。
-</p>
-<p class="transcript-line">
-<span class="time"><strong>[00:13:44]</strong> </span>
-<span class="speaker"><strong>发言人1: </strong></span>
-那4至6个月的时间里边，你们一开始是怎么确定说到底要做哪些功能，做什么功能我就可以对外发布了。尤其是因为激光卡片里面很多模板，我到底做几个模板我就能发布了。这些的问题是怎么确定的？
-</p>
-<p class="transcript-line">
-<span class="time"><strong>[00:13:58]</strong> </span>
-<span class="speaker"><strong>发言人2: </strong></span>
-没有确定，没有想全全是全是上去就是干。首先是这样的，一开始完全是按照我的图去去弄的。我之前发的文字当中，我里面有出现字数有多少，然后这里面有有出现日期这些东西。但是如果退回到很早之前，如果我们有现在认知的话，我们不会这么做。因为我发现我们信息架构有问题，是做到现在之后发现有信息层级上有一些问题。所以你说当时有考虑这么多，没有完全没有。就是上去就是一通操作，然后把把这个产品先做出来。
-</p>
-<p class="transcript-line">
-<span class="time"><strong>[00:14:37]</strong> </span>
-<span class="speaker"><strong>发言人2: </strong></span>
-然后至于你说模板有多少个，也没有想这个问题。我们当时就是想要说，那再做一个不同风格的看看一下。还有一个就是完全是按自己的性质来，就是说我们整个的因为我们当时只有常温模块，有很多的风格都非常的主观，我们没有去考虑市场上的需求。
-</p>
-<p class="transcript-line">
-<span class="time"><strong>[00:14:58]</strong> </span>
-<span class="speaker"><strong>发言人2: </strong></span>
-这里面有个很重要的点就是是我身边的朋友都是那些男性的极氪的朋友，比较geek的，审美上都是趋同的。我在X上发很舒服，我在集客上发很舒服，大家都是那个，然后发现是信息茧房。因为我们到小红书群里好像有感冒，但不太感冒。这也是我们后续做产品的一个问题。包括我们后面开了短文模板，他这里面就会更更fancy一点，就是多了很多拟物化的一些场景，包括支持了很多在配色上也好，在场景上也好，我会更倾向于女性化。或者是小红书上比较热门的爆款的笔记的那种风格。
-</p>
-<p class="transcript-line">
-<span class="time"><strong>[00:15:42]</strong> </span>
-<span class="speaker"><strong>发言人1: </strong></span>
-因为小红书本身你发一篇文字的时候，它也可以通过他们叫小红书AI。比如说AI，然后也会给你生成一个类似那样的一个首页的一个片图。对，大字报。对，就你是怎么看？包括小红书内部自带，包括其实现在在互联网上也有很多人做那种类似于有点艺术字，就带点磨砂等等那种的对，反正也有很多人在上面直接做出来。我不知道你是怎么看这种有一点层出不穷的这种模板的。
-</p>
-<p class="transcript-line">
-<span class="time"><strong>[00:16:14]</strong> </span>
-<span class="speaker"><strong>发言人2: </strong></span>
-大部分用户他可能感知不到这些模板上的具体的差异，他可能就觉得这玩意儿满足他的需求，包括小红书他自己做的，我觉得他是做了一个很很成功的产品。就是他这个功能很成功。就是因为在他这个场景下，他要满足海量的用户，并且他做了一个各个场景他都能用，我觉得产品量级也不一样，他可能设计的形式也不一样。
-</p>
-<p class="transcript-line">
-<span class="time"><strong>[00:16:39]</strong> </span>
-<span class="speaker"><strong>发言人2: </strong></span>
-我们的产品他可能是更喜欢小众，然后更精致一点的对，层出不穷的产品大家其实都会选。但是如果说同类型当中，比如说你做的是风格是偏精致的，或者说偏gk类型的那种的话，你一定要做到行业top one。互联网发展都是这样的。你后续去用户会慢慢找到他这个行业的那更优秀的产品，很大体量的那些产品。比如说对标说搞定设计或者说camera这种产品。那我们他这么大量级，他说明这个市场足够大。我们做的是其中一个非常小的细分领域，就是养活一个团队，那也OK了。
-</p>
-<p class="transcript-line">
-<span class="time"><strong>[00:17:21]</strong> </span>
-<span class="speaker"><strong>发言人1: </strong></span>
-了解你有合作伙伴，有partner，然后他在做研发相关的这些事情，然后你可能主要在负责宣发，因为你觉得不宣发可能不太行。你能不能给我们介绍一下，你当时是怎么找到最先一批的用户的？你是通过什么渠道去找的？
-</p>
-<p class="transcript-line">
-<span class="time"><strong>[00:17:36]</strong> </span>
-<span class="speaker"><strong>发言人2: </strong></span>
-我最先一批的用户其实也是在极客上，就是在极客上已经有了一些用户群体，就做了一下宣发。因为我是这样，我是在产品没有出来之前，我就做了很多的宣发的工作。当然我这一套思路其实也是从海外去学习过来的。就是海外有有很多用户他在X上他去公开构建，然后就会有很多人follow他，包括我去期待他的产品。我的第一批用户就是来自于极氪以及X上海外。
-</p>
-<p class="transcript-line">
-<span class="time"><strong>[00:18:08]</strong> </span>
-<span class="speaker"><strong>发言人1: </strong></span>
-的XOK那我想问一下，你是通过什么渠道了解到公开构建就是build in in public的。
-</p>
-<p class="transcript-line">
-<span class="time"><strong>[00:18:15]</strong> </span>
-<span class="speaker"><strong>发言人2: </strong></span>
-全部都是在海外的X上。就是我一开始上去看这些内容的时候就已有点震惊。因为我在国内的环境其实已经浸染习惯了。其实你看不到很多人去公开这么详细的他的产品的商业模式，他的营收情况，他他最近遇到了什么困难。两相一对比就发现海外这个。真的好，然后就是想要学一下。然后包括在做极光卡片的过程中，也非常激进的把所有相关的功能分享到极客，就是这样这样的一个过程。对我因为我感觉他这个事情总体来说是好的，就照做了。
-</p>
-<p class="transcript-line">
-<span class="time"><strong>[00:18:54]</strong> </span>
-<span class="speaker"><strong>发言人1: </strong></span>
-对，其实我们一开始也是在海外学到了别的building public，包括我们看到钢MO的那本书，我觉得我们都是相当于受到了海外的这些公开构建的这些开发者的影响。对我觉得这个还是蛮好的一件事儿。对你也算是，虽然设计运营程序员之类的全部都干过。对，但是我总的还是把你归类为程序员出身。对我们来讲，就营销这件事儿本质上还都是挺头大的那你一开始你拿到这个一开始的种子用户之后，你后续是通过什么渠道去做增长的？因为种子用户毕竟你在你极客里边可能有一些小的受众，对吧？你可能有几千个follower，然后大家可以有几百个安装，这个都是OK的。但是后续你是怎么把用户量逐渐扩大的，通过什么样的方式？
-</p>
-<p class="transcript-line">
-<span class="time"><strong>[00:19:38]</strong> </span>
-<span class="speaker"><strong>发言人2: </strong></span>
-主要可能还是去找一些核心的KOL。因为我链接的人群其实它本质上质量还是比较高的，我自己也有之前做过一些类似于转发的活动，就是邀请他们去宣发我的产品。在X上找到了比如说万分以上的一些大V跟他们聊，然后给他们分佣的形式，然后让他帮我们去扩散这样的一个产品。
-</p>
-<p class="transcript-line">
-<span class="time"><strong>[00:20:05]</strong> </span>
-<span class="speaker"><strong>发言人2: </strong></span>
-对海外的话主要是在reit的子论坛，以及领英的一些子论坛去做营销。包括比如说跟cos相关的，就是跟京剧名言相关的一些子论坛。然后跟一些苹果官网，它其实也有一些渠道，就是苹果的子论坛里面也有一些宣发的渠道。你可以定期发一些折扣优惠那些去做增长，redis是一个比较好的打开你产品曝光量的阶段。然后另外我们自己也在lemon 8上面，就是字节旗下的那个那个产品上做过一些海外的宣传材料，日本地区的推广。对，语音上也报过几个比较万赞的，万赞还是千赞的，有几个帖子。
-</p>
-<p class="transcript-line">
-<span class="time"><strong>[00:20:50]</strong> </span>
-<span class="speaker"><strong>发言人1: </strong></span>
-OK我想问你的是因为在redit里边你发帖的时候其实还蛮容易被别人ban掉的。我想知道的是你在redit里面的增长是用回复的形式增长，还是发主帖的形式去增长？发主帖的，你能给我们大概介绍几个你在发帖的时候，你那个那个角度是什么？因为它一定不是一个非常刚性的一个营销的内容。
-</p>
-<p class="transcript-line">
-<span class="time"><strong>[00:21:09]</strong> </span>
-<span class="speaker"><strong>发言人2: </strong></span>
-对这个东西没有什么好想我发现很多程序员上来去发东西的时，他就是他没有一个国内可能发的发习惯了。包括很多人做小红书，刚开始小红书也不允许引流导流，我觉得很多东西就是习惯坏了，就是不守规矩。我一开始进去的时候，我会把右侧redis子论坛的规则全部读一遍。第二个就是我需要营销什么东西的时候，我会去找这个论坛帖下点赞比较高的几篇内容。英语不是我的母语，所以我更应该守规矩。然后我找到了几篇爆款铁的时候，我改他帖子的格式，OK就他怎么发，你怎么发活动，怎么样去做抄就好了，对吧？这个事情是就是结构是可以抄的。你尤其是在母语不是那个情况之下时候，你更应该守规矩。
-</p>
-<p class="transcript-line">
-<span class="time"><strong>[00:21:59]</strong> </span>
-<span class="speaker"><strong>发言人2: </strong></span>
-有很多人他会翻了之后，然后来抱怨说这个东西没用或者说是什么。那那我问他的很多问题他答不上来，可能就是不守规矩。就是你只想到了你自己要宣传，但是你没想到这个论坛的人为什么盯着你翻。
-</p>
-<p class="transcript-line">
-<span class="time"><strong>[00:22:14]</strong> </span>
-<span class="speaker"><strong>发言人1: </strong></span>
-对对对，这个我也非常同意。那我想问一下，因为你刚才有在讲说你有link din里边有爆款，然后redis里边也有爆款，APP store里边也会有一些直接的一些营销的一些手段。那在这些过程里边有没有一些下载量上来讲，有那种爆发时刻的回看一下，就是你在那个时候到底做了什么事情，导致他下载量爆发了。
-</p>
-<p class="transcript-line">
-<span class="time"><strong>[00:22:33]</strong> </span>
-<span class="speaker"><strong>发言人2: </strong></span>
-苹果的话你就去做海外的活动，苹果有一个APP gone free，你可以去上一下那种活动，那种可能就会大量的爆发。甚至于海外有很多的打折的网站，就是限免的打折网站，然后去上这些，他们基本上就是有海量的用户去盯着。你可以理解为是羊毛党，但羊毛党可能对于你产品的营收没有非常大的提升，但是它有非常多的传播效果。包括后面法国一个28万的博主，他主动联系到我们，想要测评我们的网站。这就是流量爆发所带来的附加的效应。
-</p>
-<p class="transcript-line">
-<span class="time"><strong>[00:23:13]</strong> </span>
-<span class="speaker"><strong>发言人1: </strong></span>
-你是愿意让羊毛党先去尝试，就是用一部分利润去换取你的曝光。这个你是OK的对吧？因为你极光卡片本质上也没有太多的服务器成本之类的，其实你是没有的，就是你卖出一份，其实就是卖出一份对吧？
-</p>
-<p class="transcript-line">
-<span class="time"><strong>[00:23:27]</strong> </span>
-<span class="speaker"><strong>发言人2: </strong></span>
-对，是的，就是跟产品的属性是非常相关的，以及你到底想拿到什么，你愿意换什么，反正都是这个的平衡的游戏吧。
-</p>
-<p class="transcript-line">
-<span class="time"><strong>[00:23:38]</strong> </span>
-<span class="speaker"><strong>发言人1: </strong></span>
-对，OK因为你这个还是想的很清楚的，最近黑5不是刚结束吗？首先我想问一下，你们有没有去哪里去大促？再一个就是你们这次大促相比平时大概能增长百分之多少？
-</p>
-<p class="transcript-line">
-<span class="time"><strong>[00:23:52]</strong> </span>
-<span class="speaker"><strong>发言人2: </strong></span>
-我们大促主要是在那海外的话，主要是在reita和领英，还有tiktok上面去做了一些推广。国内的话主要是在小红书、抖音上、极氪和X上也做了发布。但其实本质上我没有特别多准备这个事情，当做日常的一个促销。因为也有说需要打更多的折扣，甚至于上一些活动网站。但是我觉得不是我们现阶段应该做的事情。因为我们最近在调一些架构的东西，我们产品内部的架构这些东西，所以没有做很大规模的曝光。然后相比于之前的话，可能增长了40%左右。
-</p>
-<p class="transcript-line">
-<span class="time"><strong>[00:24:29]</strong> </span>
-<span class="speaker"><strong>发言人1: </strong></span>
-OK那还是挺好的。因为你们现在用户也蛮多了，大家的反馈跟建议就多了起来。尤其是在APP store里面，大家是可以做评论的，可以做评分的对吧？里边有各种各样的建议，甚至差评也好。我不知道你们有没有渠道跟用户去做沟通，因为我们自己其实是在用邮件跟discord去跟用户做沟通。我不知道你们是用什么方式跟用户去聊的，包括给他们去反馈他们的要求等等之类的。
-</p>
-<p class="transcript-line">
-<span class="time"><strong>[00:24:56]</strong> </span>
-<span class="speaker"><strong>发言人2: </strong></span>
-建用户群这个事情当时有考虑过见过用群，然后后来发现我们自己去做了一些尝试，以及首先就是我们的很多的渠道，很多的反馈，其实我是很容易感觉到的。国内国内是在小红书上，海外的话就主要是通过邮件给我们反馈，我们没有建用户群，红书是有这样一个，但是没有去做运营。首先是我们的产品本身是不太复杂的东西。另外就是所有的场景基本上都已经在我的产品功能上覆盖到了。就包括现在用户期待的副文本功能、图片功能，然后可能外链转入到我们激光，再做更漂亮的卡片这样的功能。现在我发的任何一篇内容，在小红书评论一下他们需要的这些功能。
-</p>
-<p class="transcript-line">
-<span class="time"><strong>[00:25:41]</strong> </span>
-<span class="speaker"><strong>发言人2: </strong></span>
-我自己建了一个功能的代办清单，接下来该做的那些产品的功能全部都覆盖到了。所以就是我我觉得没有必要再增加一些信息。因为国内的用户他会有很多很急着想要这个功能，我们也很急，我们甚至于比用户更急。但是开发的进度以及那个节奏，再加上苹果，我们现在就做了一个功能，就是只有大厂才能做的。我们后面才发现，你可以理解为那个常温分割那个功能，你就发现只有WPS word这种级别的，它才会这种段落之后再做分割的这个功能场景是清晰的，但是这里面有非常多卡壳的点，所以我们在努力解决这个方面的问题。再回到用户反馈渠道的问题，就是主要还是通过邮件以及我在极光上，他留了我就是国区的话留了微信的，然后你可以直接加我，跟我聊天。但我觉得用户群是一个噪音蛮多的地方，所以我就没有接。
-</p>
-<p class="transcript-line">
-<span class="time"><strong>[00:26:40]</strong> </span>
-<span class="speaker"><strong>发言人1: </strong></span>
-了解我们聊聊你产品内部的设计，因为我也仔细用了激光卡片，激光卡片它安装的时候是免费的。对，但是一旦你安装过后，第一次登录的时候，除了一开始有一个screen，然后去介绍自己之外，然后第二个screen其实就会弹一个paywall。这个paywall本身是可以跳过的。但是因为大家其实做法好像都类似，都比较隐秘，都会在右上角里边会给你跳过。然后其实你是可以免费试用的，我觉得这个里面特别有意思的是什么？就是你们的paywall里边只有年定是可以免费试用的对吧？约定跟lifetime是不能免费使用的对你们当时对于这个payable的设计有什么考量吗？
-</p>
-<p class="transcript-line">
-<span class="time"><strong>[00:27:16]</strong> </span>
-<span class="speaker"><strong>发言人2: </strong></span>
-对你还是懂行的，这里面有非常多的要测价格模型。我们昨天也是在聊，就是说我们我们当时在想说我们要不走低价路线做非常因为我们产品好多产品它是走那种38块钱、68块钱，然后终身版。但是我在想产品它其实没有什么假设，就是你做低价的，你就会选择另外一批用户以及更广泛的群体。然后你走高价，你可能就会是网络另外一部分群体。高付费能力提高一下的。因为我们自己现在也在做健康类型的产品，那他可能更受大众一点。我只是就刚聊到那个payable里面，其实我们是希望用户跟我们走的更久的，所以我们现在会把中版的价格提的更高。
-</p>
-<p class="transcript-line">
-<span class="time"><strong>[00:28:00]</strong> </span>
-<span class="speaker"><strong>发言人2: </strong></span>
-海外有个说法就是可能2.5年，就是如果你要买终身版的，2.5年我们之前打折，你可能看到打折是128。你现在可能是年订阅的，2.5年作为终身版的价格不会让你觉得更贵。然后我们其实也是希望用户跟我们走得更久，所以希望他直接付年订阅的价格。你也看我们后面更更不更新功能，其实就相当于是这样。但我觉得国内的很多用户，他还是更愿意去为终身版付费。
-</p>
-<p class="transcript-line">
-<span class="time"><strong>[00:28:32]</strong> </span>
-<span class="speaker"><strong>发言人2: </strong></span>
-可能也不只是国内，海外其实也有这个特性。他们觉得工具类产品他们还是不希望后续再付款。我们的现在的引导是让用户更倾向于订年订阅。对，所以也只是在年订阅上做了免费试用。
-</p>
-<p class="transcript-line">
-<span class="time"><strong>[00:28:49]</strong> </span>
-<span class="speaker"><strong>发言人1: </strong></span>
-了解你们在做完这个年订阅可以免费试用过后，年订阅的这个转化率有提升吗？
-</p>
-<p class="transcript-line">
-<span class="time"><strong>[00:28:55]</strong> </span>
-<span class="speaker"><strong>发言人2: </strong></span>
-当然是有的。没有做的话，可能当时就是这个算法还比较复杂。因为他刚开始可能就只能用月订阅的形式付费。那约定有一个问题，就是他可能有50%的用户，4% 4 40多的用户，可能他在第二个月他就会取消，然后你也很难追踪他。因为苹果的那个追踪ID也不知道，然后就导致他可能第三个月他又来付费，就是他用的时候他又来了。因为我们当时是所有的都锁起来了，甚至于他模板都没法看。但是他现在可以在年订阅上，他可以去尝试。尝试完了之后三天后，他如果觉得满意，他可以继续续订。
-</p>
-<p class="transcript-line">
-<span class="time"><strong>[00:29:35]</strong> </span>
-<span class="speaker"><strong>发言人2: </strong></span>
-至于转化率上的话，因为我自己其实没有细看这个数据，之前可能是40左右，现在好像是年龄月大概十几左右。首先是从下载到转化到年龄月，再从年金月再转化到可能每一个level都是十。就是它下载转化到试用是10%，那10%再到不会又降10%，就是这样。
-</p>
-<p class="transcript-line">
-<span class="time"><strong>[00:29:59]</strong> </span>
-<span class="speaker"><strong>发言人1: </strong></span>
-OK你刚才有讲说你们的月度订阅的这些用户之前，可能很多人会在第二个月里面他用的时候他才定，他不用的时候然后他可能就退订了。所以你们才考虑说让大家变成年定。因为你现在有这个三天的免费试用，三天免费试用过后，很多的产品包括我们自己，我们以前POTTYS在做的时候，你给别人三天免费试用的时候，会出现一个问题，就是很多人在三天过后，他卡里没钱，他会扣款失败。对，这是我们以前碰到的问题。对，还有就是会有一部分比例的人他会选择去用，但是三天过后他就直接取消了，因为他也不想让你扣钱。对，我不知道你们在这个过程里面，你们也会发现说，自己虽然可能做了年度订阅，但是因为有这个可以取消它，可以不扣款。会有大概多少的比例的人会真的留在这个年龄里边，还是说有很多人其实是过来白嫖，就是免费试用一下，他可能就取消了，你们有没有这个方面的研究？
-</p>
-<p class="transcript-line">
-<span class="time"><strong>[00:30:58]</strong> </span>
-<span class="speaker"><strong>发言人2: </strong></span>
-苹果这边是完全不需要自己去担心这个问题的。比如说您卡里没有钱，以及你刚刚说的我们网页端的产品有有遇到这个问题。但其实对于想要来白嫖或者是那样的用户的话，其实没有影响。因为苹果是不支持，接下来你在用的时候，你一定是需要付费的。然后以及我不管他是是不是白嫖用户，以及那个我不care，我只care最后的转化数据对你是不是我的目标用户很重要。就是说你不付费OK的，你用三天，你研究一下去用别的产品都没有关系的。至于你刚才说的所有的问题，在任何的商业形势下都存在的。就是说他他选择取消也是他的权利，他用用完机器他也是他的权利。
-</p>
-<p class="transcript-line">
-<span class="time"><strong>[00:31:45]</strong> </span>
-<span class="speaker"><strong>发言人1: </strong></span>
-对我觉得你们这个可能跟我们产品有一个很大的不一样。就是我们的产品用户在使用的过程里面要消耗我们的资源，但是你们是不需要的。
-</p>
-<p class="transcript-line">
-<span class="time"><strong>[00:31:53]</strong> </span>
-<span class="speaker"><strong>发言人2: </strong></span>
-对对对，我们没有这个问题。对。
-</p>
-<p class="transcript-line">
-<span class="time"><strong>[00:31:55]</strong> </span>
-<span class="speaker"><strong>发言人1: </strong></span>
-除非你们未来加了AI相关的token相关的对吧？比如说你长文里面，你们透过AI然后把它缩减成京剧，这个时候可能会消耗资源了。但是对于我们来讲，我们里边每一次使用都会消耗资源。如果让大家白嫖的话，我们是痛的。
-</p>
-<p class="transcript-line">
-<span class="time"><strong>[00:32:09]</strong> </span>
-<span class="speaker"><strong>发言人2: </strong></span>
-但是你们可能是不痛的对吧？对对对，有有这个有这个差异。
-</p>
-<p class="transcript-line">
-<span class="time"><strong>[00:32:15]</strong> </span>
-<span class="speaker"><strong>发言人1: </strong></span>
-对，这个可能是一个区别。对，然后我还想问一下，你看了别人做的build in public，然后你自己也在X上，在极客上面也在做building public。你还有一篇说激光卡片做到800美金的MR的那篇文章，其实还蛮火的，各个地方其实都有。对，但是好像你做了这件事儿没多久，就被别人看到你的营收之后，就有人眼红了，对吗？然后就过来吵醒你了。我不知道你对这个事儿怎么看，或者说你对build in public这件事，现在你还会去做吗？你思路上面有没有变化？
-</p>
-<p class="transcript-line">
-<span class="time"><strong>[00:32:47]</strong> </span>
-<span class="speaker"><strong>发言人2: </strong></span>
-多少是有点影响的。刚开始其实是抱着一个赤诚的心的，因为就是想把海外这一套就挪到国内去做。因为觉得这个东西没什么好那个的。但其实你收入多一点之后，包括跟团队的人去聊了之后，发现这个事儿好多都是吃力不讨好，没办法。所以你说我觉得超这个事情，大家都会抄。因为你在应用层去做这个事情，大家都会有抄袭的成分，抄别人的产品的那个形态。但是抄这个事儿就是说乔布斯也说了，你有智慧一点的，你其实是道，对吧？不能说把别人东西是一比一的这些值来还原，所以我觉得这个就是做的比较离谱的。
-</p>
-<p class="transcript-line">
-<span class="time"><strong>[00:33:28]</strong> </span>
-<span class="speaker"><strong>发言人2: </strong></span>
-另外一个就是发现好多事情它其实有点没有下限，这个是我比较在意的。因为我之前不是写了一篇文章垂另外一个产品抄袭的，但其实他后面的一些动作让人感觉到恶心。但是怎么说呢？他去评论区去截流，我之前写过一篇警告，我说如果这个事情咱们就是过了，我的意思是说不要再做一些小动作，否则我会拉黑。因为他加了我的微信，他加了我的极客，他加了我的X然后说了一个这个事情之后，他说OK对吧？就也发了一个不诚挚的道歉，因为后面他又在我的小红书里面去做节流，然后去在我的评论区截流，然后被我的粉丝知道，就被我关注我的那个粉丝的。因为大家也在期待极光卡片产品的外部端。
-</p>
-<p class="transcript-line">
-<span class="time"><strong>[00:34:20]</strong> </span>
-<span class="speaker"><strong>发言人2: </strong></span>
-但是他当时说在我发的那篇内容，他说我在抄，我看到他就跟我做的一模一样了。因为我当时是没有把这个东西当做竞品的，就是完全没有考虑到它是竞品，为什么呢？因为我觉得就是在用户在成长到一定的阶段时候，他会选择这个行业内更优秀的产品。所以我觉得如果他是一比一复刻激光卡片的，我觉得是没有任何问题的。你一比一复刻，你一定是再给我导用户，那我感谢你还来不及。对，但是如果你说我们是竞争对手，然后你做了很多更优秀的功能，尤其是在视觉上你做的比我们更好。那其实我们可以互相学习，互相竞争，共同成长，对吧？
-</p>
-<p class="transcript-line">
-<span class="time"><strong>[00:35:04]</strong> </span>
-<span class="speaker"><strong>发言人2: </strong></span>
-但是这里面现在就变成了一些问题，就是在各种营销手段上以及不正当竞争上做了非常多无下限的东西。让我觉得在公开构建这件事情上有是有芥蒂的。包括收入情况以及我的产品护城河以及用户护城河。没有足够强的情况下，我现在的公开构建，包括你看到我现在对于产品的一些分享是非常警惕了。我觉得这个就是整个行业的悲哀。
-</p>
-<p class="transcript-line">
-<span class="time"><strong>[00:35:36]</strong> </span>
-<span class="speaker"><strong>发言人2: </strong></span>
-本来大家可以一起把这个事情环境打磨的更好。就是大家中国开发者其实对于海外对非母语情况，也是营销上本来就存在一些语言这样的问题。现在就是导致我们更不愿意在国内里面分享一些真东西，真干货了。我会沉淀在我的文档里面。但是可能我去分享的时候，我可能会有一个过滤，就是要想一想看会不会被超，那这个事情就很悲哀。
-</p>
-<p class="transcript-line">
-<span class="time"><strong>[00:36:07]</strong> </span>
-<span class="speaker"><strong>发言人1: </strong></span>
-我觉得你这个思路上面的转变确实是经历过痛了。因为你现在也在做新的产品，你们在准备可能是跟健康相关的对吧？那你这个健康相关的产品，如果你要在市场上面预热的话，你还会不会做building public？
-</p>
-<p class="transcript-line">
-<span class="time"><strong>[00:36:22]</strong> </span>
-<span class="speaker"><strong>发言人2: </strong></span>
-这个一定会的。但是我之前是在极客上，已经在action上做了很多了。但是现在新的产品可能公开构建场所会变，就是因为跟用户更近，然后只聊产品，我不提供思路，我可能只提供我的产品的界面是怎么样的，我的整个玩法是怎么样的，我只聊产品本身，我之前是公开了很多我的营销形式以及我的产品的构建的思路。另外一个其实就是我的健康类产品的用户群也不一样，之前可能在极客上，在X上构建，是因为我的产品适合那样的用户群体。因为我们新的健康产品会更大众，对，就价格也会更平民。
-</p>
-<p class="transcript-line">
-<span class="time"><strong>[00:37:04]</strong> </span>
-<span class="speaker"><strong>发言人1: </strong></span>
-对我其实还想问一下你关于定价体系的事儿。因为你刚才也在讲说，你们昨天还在研究定价体系的问题吗？你之前其实极光卡片的定价还。算是蛮高的。如果你现在要做一个健康类的产品，然后你说你定价低，这个里边你的考量是什么？就是包括你的整个的定价思路。
-</p>
-<p class="transcript-line">
-<span class="time"><strong>[00:37:23]</strong> </span>
-<span class="speaker"><strong>发言人2: </strong></span>
-其实是看到你这个产品的用户群是不是更通用。我们做健康类型产品是因为我觉得它既能够覆盖到您层级比较低的人群，又能涵盖到更广的人群。但我们的激光卡片其实它的受众是比较少的，尤其是你是喜欢海豹群体的人，可能很难就去用我们的产品。
-</p>
-<p class="transcript-line">
-<span class="time"><strong>[00:37:47]</strong> </span>
-<span class="speaker"><strong>发言人2: </strong></span>
-我们主要还是偏文字，然后接下来马上会加图片的这些功能。它整体上还是有输出表达内容创作能力的人。但是健康类型产品它是无输入的。它这类产品他其实是不需要用户去做任何操作行为，他只是负责去查看互动。所以我的整个定价的思路其实是跟用户群的广泛以及它的收入水平可能更相关。对。
-</p>
-<p class="transcript-line">
-<span class="time"><strong>[00:38:14]</strong> </span>
-<span class="speaker"><strong>发言人1: </strong></span>
-了解。如果我是一个面向大众的产品，就铺量，对吧？如果我是一个专业的产品，我就收你高费用。因为你专业的这个产品肯定面向专业的人，如果你有这方面需求，你就愿意支付这个高额的价格，对吧？我觉得这个逻辑是对的。我想问一下你现在极光卡片的用户群体里边打字的比例是怎么样？包括中文区，包括英文区。对。
-</p>
-<p class="transcript-line">
-<span class="time"><strong>[00:38:34]</strong> </span>
-<span class="speaker"><strong>发言人2: </strong></span>
-大概是在46，中国区大概是60%。然后剩下的就是欧洲比较多，美国欧洲和美国加拿大这三个国家占了剩下的30%，然后剩下的就是其他的一些国家表示这么一个情况了解。
-</p>
-<p class="transcript-line">
-<span class="time"><strong>[00:38:52]</strong> </span>
-<span class="speaker"><strong>发言人1: </strong></span>
-现在在你整个的工作流里边，AI是一个什么样的位置？你一般会在什么情况下会用AI然后用的程度会怎么样？
-</p>
-<p class="transcript-line">
-<span class="time"><strong>[00:39:00]</strong> </span>
-<span class="speaker"><strong>发言人2: </strong></span>
-我现在可能有90%都是由AI去完成的，因为我觉得这项发明真的太伟大。有很多的场景。比如说我们软件内的所有多语言都是由大模型去解决的，包括我们所有国家的多语言初版本，全部是由AI完成的。你如果去找very上，你去找一些兼职，那其实还挺贵的。但是如果你让他叫稿的话，可能就价格也是能接受的。
-</p>
-<p class="transcript-line">
-<span class="time"><strong>[00:39:24]</strong> </span>
-<span class="speaker"><strong>发言人2: </strong></span>
-然后包括我们现在做投放，不投放你要做批量的素材。因为每个平台它可能都会去查重，比如说你每个素材你想做多份，然后发类似的内容，但又没有那么相同的话。其实你可能就要去拿AI去帮你生成非常多的意思表达一样，但是文字上不一样的内容。那这个时候那个AI就贼擅长做这个东西，然后甚至于这段代码怎么写，那代码也非常偷懒，GPT比你写的好，它的很多边界情况考虑的又比比你那个。所以你说AI是什么样的角色？就是那个20美金花的贼值，就是这么说。
-</p>
-<p class="transcript-line">
-<span class="time"><strong>[00:40:06]</strong> </span>
-<span class="speaker"><strong>发言人1: </strong></span>
-对我我们自己也是这样的感觉。对，就是现在20美金能够雇一个，除了可能在最专业的层面上面可能不太如你，但是在别的方面全部都能补充你的人。
-</p>
-<p class="transcript-line">
-<span class="time"><strong>[00:40:17]</strong> </span>
-<span class="speaker"><strong>发言人2: </strong></span>
-对，是的。
-</p>
-<p class="transcript-line">
-<span class="time"><strong>[00:40:18]</strong> </span>
-<span class="speaker"><strong>发言人1: </strong></span>
-对我觉得这个还是确实AI改变生活。我其实有关注到你在被毕业过后，我也看到你在博客里面有讲说你自己悟到了。你说月薪跟糖一样都是需要阶段的，然后你这个是属于是被动阶段。你现在回头看你的整个的这个阶段的过程，还有这个结果你是满意的吗？
-</p>
-<p class="transcript-line">
-<span class="time"><strong>[00:40:38]</strong> </span>
-<span class="speaker"><strong>发言人2: </strong></span>
-对，应该是相当满意的。因为其实从一开始在你职场当中，其实是你们是没有在那个环境下，其实你是没有考虑到这么多的。我觉得最重要是那个可能性，你是不知道未来我除了工作这个之外，我还有通过什么别的方式能够谋生。比如说谋生这个方式，它其实有非常多的方式。然后包括我在毕业之后，也许你能够看到更多元的世界。就包括你你你可以看到就是你是什么样的人，你就会结识什么样的朋友。所以我接触了很多，通过不打工这件事情，他完成了很多之前在职场上面没有办法，尤其是生活的平衡。比如说你可以去做饭，你可以想去跑步就跑步，你想干什么干嘛，就是时间是完全由自己分配的。
-</p>
-<p class="transcript-line">
-<span class="time"><strong>[00:41:28]</strong> </span>
-<span class="speaker"><strong>发言人2: </strong></span>
-第二个就是你的工作其实不受场地的约束的，你可以到世界的任何一个国家和地区，既满足了旅游和那个的，就是你也可以谋生。然后第二个就是你的谋生方式也非常的多元。我接触到有些朋友他可能就是卖知识付费类型的产品，以及他可以做博主，可以做手工去卖。
-</p>
-<p class="transcript-line">
-<span class="time"><strong>[00:41:49]</strong> </span>
-<span class="speaker"><strong>发言人2: </strong></span>
-看到了这么多可能性之后，你就发现3万天，对吧？你每一天其实如果你在那个职场环境当中，如果你做的事情不是你享受的那可能就是有一点点浪费生命。所以最可怕的其实还并非是就是拿月薪绑在你的，不只是绑定了你的一个生活方式，最重要是可能是绑定了思维。就是世界上最难戒断的是寄生虫，寄生虫中最要命的其实是思维的寄生虫。就是你一旦固化了，说我一定要我出去打工，好像我离开这个好像什么都不会做，那就可能要守很长一段时间的折磨。
-</p>
-<p class="transcript-line">
-<span class="time"><strong>[00:42:32]</strong> </span>
-<span class="speaker"><strong>发言人2: </strong></span>
-我觉得是总的来说，我认为对现在的生活肯定是非常满意的，尤其是我觉得是心态上。比如说之前我刚开始被离职的那段时间，其实是有过一段时间非常迷茫的阶段。尤其是对于安全感的一件事情，现在就非常的惬意了，就是找到了自己的节奏。因为你肯定会有一段时间你是你不安定的。因为你之前可能收入，然后现在断崖式下跌，那你肯定会有一段时间不安定。当然这也是回过头来，你觉得这个东西今天发我就一直说，但当下那个阶段就是很折磨，但是我安慰也没用。其实如果他现在有听众朋友，他是这样的一个阶段的话，我觉得我安慰的话我完全没有用，就是好多东西你都得自己去去去走过去趟过。
-</p>
-<p class="transcript-line">
-<span class="time"><strong>[00:43:20]</strong> </span>
-<span class="speaker"><strong>发言人2: </strong></span>
-还有一个更重要就是你要管理你的消费的预期。因为我本身不是一个有非常大消费欲望的人。可能刚开始那段时间职业生涯非常上升期的时候有过，然后后来买了很贵的一些鞋子，一些不必要的东西之后，就发现也就那样。你现在回来之后你会发现，你如果管理你的预期，你的消费欲望以及你很容易达到一个收支平衡且比较舒服的状态，我觉得这个是更重要的。然后把真正的精力才花在真正做事情上。
-</p>
-<p class="transcript-line">
-<span class="time"><strong>[00:43:54]</strong> </span>
-<span class="speaker"><strong>发言人1: </strong></span>
-对，很深刻的领悟我今天也学习到很多，感谢小吉的分享。最后给你一分钟广告时间吧，你可以宣传你的产品。
-</p>
-<p class="transcript-line">
-<span class="time"><strong>[00:44:03]</strong> </span>
-<span class="speaker"><strong>发言人2: </strong></span>
-大家有可以看一下那个激光卡片，它是一个让文字分享更好看的排版工具。我们新产品是在做健康类型的产品，它是一个偏像素风，鼓励你健康运动的产品。如果有小伙伴有这方面需求，可以在小红书上关注我的动态，我也也会更新，包括我的极客，我的X上都会同步去更新我产品的动态。好，就是这样。
-</p>
-<p class="transcript-line">
-<span class="time"><strong>[00:44:28]</strong> </span>
-<span class="speaker"><strong>发言人1: </strong></span>
-好的，今天也非常开心，我们节目就先到这里，再次感谢小吉，希望大家能够关注小吉，包括小吉的X小吉的极客，包括小吉的小红书，也能够支持小吉的产品极光卡片，包括新的健康类的产品。对，那也希望他的产品能够大卖，我们下期再见吧。
-</p>
-<p class="transcript-line">
-<span class="time"><strong>[00:44:48]</strong> </span>
-<span class="speaker"><strong>发言人2: </strong></span>
-拜拜。
-</p>
-<p class="transcript-line">
-<span class="time"><strong>[00:44:50]</strong> </span>
-<span class="speaker"><strong>发言人1: </strong></span>
-以上就是我们本期播客的全部内容，感谢大家收听，也欢迎大家踊跃留言。如果你喜欢我们，欢迎点赞并分享给感兴趣的朋友。如果你在用苹果播客收听，也希望你花几秒钟给我们一个好评，这会让更多的人了解到我们要是能再点击一下订阅，那就再好不过了，我们下周见。
-</p>]]></content:encoded>
-            <pubDate>Mon, 09 Dec 2024 22:00:00 GMT</pubDate>
-            <guid>6756e21e17cd5416adb43223</guid>
-        </item>
-        <item>
-            <title>EP85 借 &quot;字节的AI训练被攻击&quot; 聊聊职场违法那些事</title>
-            <link>https://www.xiaoyuzhoufm.com/episode/674f227f17cd5416ad356130</link>
-            <description>大家好！这次我们要聊一个引人深思的事件——字节跳动大模型训练被实习生入侵！😱 是不是很震惊？节目内容从攻击是如何瞒天过海到事件的后续影响，以及由此引发的对教育、企业风控，甚至整个程序员行业的反思。 我们还分析了类似的案例，比如阿里的“月饼事件”和齐安信猎头案，希望能给大家带来一些启发和警醒。
-更多内容信息和时间线参考下文的硬地笔记，欢迎收听本期节目。
-另外，现在加入「硬地骇客」会员服务，即可在会员专属的微信群与其他朋友一起畅所欲言，成为会员也是对我们持续更新最大的鼓励！
-本期赞助
-Podwise.ai - Podcast knowledge at 10x speed 🚀
-硬地笔记
-00:00:04 字节实习生“入侵”大模型训练事件始末
-00:07:37 攻击持续一个月才被发现的原因及反思
-00:13:39 实习生事件的后续影响及行业反思
-00:22:25 道德教育与法律意识的缺失
-00:35:38 企业风控与法律责任：案例分析与未来展望
-00:44:55 程序员职业道德与法律风险：案例与警示
-欢迎关注我们
-* 知识星球: t.zsxq.com
-* 官网: hardhacker.com
-* 小手册: book.hardhacker.com
-* 用爱发电不容易，请我们喝咖啡☕️: afdian.net
-* 公众号/小红书: 硬地骇客
-* 商务合作: hardhackerlabs@gmail.com</description>
-            <content:encoded><![CDATA[<h1>转写链接</h1>
-<link>https://tongyi.aliyun.com/efficiency/doc/transcripts/klrbn2y3w34395zy</link><br>
-<h1>节目摘要</h1>
-<div class="summary">本期播客《异地骇客》由power wise赞助，聚焦字节公司一实习生在大模型训练中植入恶意代码，造成超千万损失的事件。事件导致公司对实习生提出800万人民币的赔偿要求，讨论深入探讨了攻击手法，如利用hugging face库漏洞，以及对大模型训练安全性的反思。播客还涉及职业道德、法律意识、企业内部管理及行业反应，强调提升法律意识和职业道德教育的重要性。</div><br>
-<h1>章节速览</h1>
-<div class="chapters">
-<div class="chapter-item">
-<span class="time"><strong>[00:00:00]</strong> </span>
-<span class="chapter-title"><strong>字节大模型训练被实习生入侵事件分析</strong></span>
-<div class="chapter-summary">本期节目讨论了字节跳动的大模型训练被实习生入侵的事件，分析了入侵者如何从内部攻破系统，使用简单粗暴的手段如kill进程以及利用hugging face库的漏洞注入恶意代码，导致训练成果不可靠并可能需要重新训练。此外，还探讨了该事件造成的损失以及字节跳动准备向实习生求偿800万人民币的最新进展。节目还提到了防御此类内部攻击的难度。</div>
-</div>
-<div class="chapter-item">
-<span class="time"><strong>[00:03:15]</strong> </span>
-<span class="chapter-title"><strong>机器学习模型训练中的Checkpoint安全性问题</strong></span>
-<div class="chapter-summary">在机器学习模型训练中，Checkpoint机制允许训练状态在中断后能够恢复，但这种机制存在安全隐患。使用Python的pickle模块进行序列化时，不仅保存对象的数据，还能保存方法，这意味着在Checkpoint文件中可能包含恶意代码。当恢复训练时，这些恶意代码会被执行，可能对训练环境和数据造成破坏。防御此类攻击难度较大，需要深入分析代码或直接禁止代码执行，但这会破坏一些机器学习框架依赖的特性，凸显出pickle模块的使用风险。</div>
-</div>
-<div class="chapter-item">
-<span class="time"><strong>[00:07:37]</strong> </span>
-<span class="chapter-title"><strong>潜伏破坏：Python和Java序列化安全问题及攻击案例</strong></span>
-<div class="chapter-summary">讨论了在Java领域频繁修复的JSON序列化反序列化漏洞问题，以及Python中对这类操作的支持。进一步分析了一个案例，其中某人通过修改他人的模型训练检查点进行恶意攻击，持续了一个多月才被发现。讨论还涵盖了这种攻击行为的隐蔽性和排查的复杂性，以及攻击者利用了操作历史和群聊信息来调整其策略。最终强调了如果攻击者适时收手，可能不会被发现的情况。</div>
-</div>
-<div class="chapter-item">
-<span class="time"><strong>[00:11:23]</strong> </span>
-<span class="chapter-title"><strong>大模型训练数据泄露事件与道德责任</strong></span>
-<div class="chapter-summary">讨论集中于一个关于通过在数据文件中注入代码进行攻击的案例，特别是这种攻击可能不需要直接登录机器即可完成。重点探讨了这种行为对基础模型的重要性及安全性管理问题，以及可能存在的管理漏洞和道德缺失问题。此外，还涉及到字节跳动对该事件的应对措施，包括民事求偿和行业通报，以及对涉事人员未来职业发展的影响和道德责任的探讨。</div>
-</div>
-<div class="chapter-item">
-<span class="time"><strong>[00:15:50]</strong> </span>
-<span class="chapter-title"><strong>化学博士投毒邻居及熊猫烧香病毒作者后续</strong></span>
-<div class="chapter-summary">一位化学博士因楼上邻居的日常噪音影响其休息，采取极端手段，每日通过门缝向邻居家投射麻醉药物，导致邻居持续感到不适。几个月后，该博士的行为被发现。此外，讨论也提及了“熊猫烧香”病毒的作者李俊，他在出狱后试图找寻工作，但因其过去的恶劣行为，多数安全厂商不愿接受他。最终，他被一家名为“熊猫安全”的公司聘用，但不久后因开设网络赌场再次被捕，显示其行为并未真正改观。此事件引发了网友对教育体系的反思，认为学校在其中应承担责任。</div>
-</div>
-<div class="chapter-item">
-<span class="time"><strong>[00:19:10]</strong> </span>
-<span class="chapter-title"><strong>职场道德教育的缺失与解决方案探讨</strong></span>
-<div class="chapter-summary">对话围绕学校和职场之间的道德教育缺失展开，指出当前教育体系中侧重应试而忽视职场道德教育的问题。讨论者提出，学校作为人才培养的机构，应承担起道德教育的责任，特别是从人格形成初期的小学和初中阶段开始。提及日本将道德教育立法并纳入正式课程的做法，强调了从小培养的重要性。此外，也提到了职业伦理教育的必要性，认为大学应开设相关课程，指导学生如何在职场上正确行事。讨论还涉及了公众对法律认知的不足，强调了普法教育的配套需要。最后，指出道德教育不应仅限于尊老爱幼等传统道德观念，还应包括职场行为准则等更实用的内容。</div>
-</div>
-<div class="chapter-item">
-<span class="time"><strong>[00:23:59]</strong> </span>
-<span class="chapter-title"><strong>职场道德教育与法律素养的重要性</strong></span>
-<div class="chapter-summary">对话强调了职场道德教育在教育系统中的缺失，指出许多人缺乏如何正确对待工作的理解和素养，常常将工作视为资本家的剥削。此外，还指出了法律教育的淡薄，尤其是公众对民法的了解不足，导致在生活中难以辨别自己的权益是否受到侵害。因此，提出应加强对职场道德和法律素养的教育，以促进个人在职场的成长和社会的公正。</div>
-</div>
-<div class="chapter-item">
-<span class="time"><strong>[00:27:13]</strong> </span>
-<span class="chapter-title"><strong>法律意识淡薄与行业安全性提升</strong></span>
-<div class="chapter-summary">对话反映了当前社会中法律意识淡薄的现象，以及这种现象如何影响不同行业，特别是通过外卖行业采取的防御性措施来说明。讨论还涉及到了企业内部因个别事件而提升管理安全成本的问题，以及这些变化可能带来的影响，特别是对大企业而言，是否有必要采取更严格的安全机制以预防类似事件的发生。</div>
-</div>
-<div class="chapter-item">
-<span class="time"><strong>[00:29:49]</strong> </span>
-<span class="chapter-title"><strong>风控管理中的成本与收益平衡</strong></span>
-<div class="chapter-summary">对话围绕风控问题展开，强调了风控管理中成本和收益的平衡。提到了两类需要关注的风险事件：发生频率高但损失小的和发生频率低但损失大的，并讨论了对于这两类事件通常采取的预防措施和保险分散风险的方式。进一步分析指出，平稳有序的风控措施实际上能提高社会运作效率，而不是增加成本。同时，对于创业者和独立开发者而言，具备风险意识至关重要，通常需要从经验中学习并采取预防措施，避免因个别事件导致的信任危机和额外成本。最后，通过具体例子说明了如何通过法律手段作为一种低成本的风控措施来预防和警告潜在风险。</div>
-</div>
-<div class="chapter-item">
-<span class="time"><strong>[00:33:21]</strong> </span>
-<span class="chapter-title"><strong>职场违法行为与企业风控管理</strong></span>
-<div class="chapter-summary">讨论围绕职场违法行为和企业风控管理展开，强调依法判决职场违法行为的重要性，以警示职场人士。同时，提及大公司的风控管理虽严密，但仍可能防君子不防小人，特别是在事务性操作上。通过实际案例说明，如私自开发接口获利等，展示了企业内部风控的挑战和不足。此外，讨论中提到了信任是合作的基础，并指出普法教育在企业和职场中的重要性。</div>
-</div>
-<div class="chapter-item">
-<span class="time"><strong>[00:37:19]</strong> </span>
-<span class="chapter-title"><strong>职业道德与法律认知的边界</strong></span>
-<div class="chapter-summary">讨论了阿里内网月饼事件所引发的职业道德争议，以及类似事件在公众认知和法律界定上的差异。通过对比掏鸟蛋、贩卖鹦鹉等案例，探讨了不知者不罪在实际危害评估和法律判决中的应用，强调了法律意识普及和具体案例中危害程度评估的重要性。同时，分析了欧美法系和大陆法系在处理这类事件时的不同，指出法律判决需兼顾灵活性与原则性。</div>
-</div>
-<div class="chapter-item">
-<span class="time"><strong>[00:40:50]</strong> </span>
-<span class="chapter-title"><strong>公司内部信息泄露与员工法律常识缺失</strong></span>
-<div class="chapter-summary">讨论集中在公司内部信息泄露的常见情况，以及员工缺乏相关法律常识的问题。具体提到把组织架构或个人联系方式泄露给外部、程序员无意间泄露内部密钥等行为的后果，以及离职时清空工作资料的违法行为。此外，还强调了使用公司资源进行副业可能产生的法律纠纷，以NGX开发者的案例为例，说明即使个人项目成功，也可能面临原公司的法律追责。</div>
-</div>
-<div class="chapter-item">
-<span class="time"><strong>[00:45:13]</strong> </span>
-<span class="chapter-title"><strong>猎头非法获取企业组织结构引发法律风波</strong></span>
-<div class="chapter-summary">对话围绕猎头通过非法手段获取奇安信公司组织结构信息的事件展开，讨论了该行为的法律后果及其对企业和个人的影响。奇安信因企业安全业务核心资产被侵犯，采取法律行动，导致涉事猎头被上海闵行公安抓捕并移交检察院。此事件凸显了法律意识淡薄的问题，强调了从学生到职场人士需明确公私界限的重要性。同时，提醒科技行业从业者，任何违规行为都会留下痕迹，呼吁将精力投入到创新而非内部防控上，以促进行业健康发展。</div>
-</div>
-</div><br>
-<h1>问题回顾</h1>
-<div class="qa-item">
-<div class="question"><strong>Q:</strong> 字节的大模型训练被实习生入侵的具体情况是怎样的？</div>
-<div class="answer"><strong>A:</strong> 据最新进展，字节的大模型训练被实习生通过注入破坏代码的方式入侵，导致训练成果不可靠，可能需要重新训练。攻击中，该实习生可能利用了hugin face的一个漏洞或内部人员的权限，注入了超过八千张卡进行攻击，造成损失可能超过千万。字节现在已经决定向这名实习生求偿800万人民币及民事赔偿。</div>
-</div>
-<div class="qa-item">
-<div class="question"><strong>Q:</strong> 这种内部攻击是如何实现的？</div>
-<div class="answer"><strong>A:</strong> 内部攻击很容易实施，因为内部员工可以轻易地破坏公司集群中的数据。例如，通过kill进程等简单手段，直接终止训练进程，从而导致数据丢失，需要从头开始训练。</div>
-</div>
-<div class="qa-item">
-<div class="question"><strong>Q:</strong> 除了内部破坏行为外，还有其他攻击方式吗？</div>
-<div class="answer"><strong>A:</strong> 另一种猜测的攻击方式是利用hugin face的一个漏洞，通过在加载check point时执行恶意代码来完成攻击。实际上，这个问题并不完全是hugin face自身的漏洞，而是其底层调用了存在漏洞的Python序列化库，使得所有使用该库的人都面临这个问题。</div>
-</div>
-<div class="qa-item">
-<div class="question"><strong>Q:</strong> check point在模型训练中的作用是什么？</div>
-<div class="answer"><strong>A:</strong> check point是用来保存模型训练过程中状态的一种持久化数据，包括模型权重、参数以及训练过程中的收敛信息等。当训练暂停或继续时，可以利用check point恢复整个训练进程。</div>
-</div>
-<div class="qa-item">
-<div class="question"><strong>Q:</strong> 对于类似pick这样的序列化模块执行代码的问题，应该如何看待和防御？</div>
-<div class="answer"><strong>A:</strong> 使用像pick这样的序列化模块执行代码是一个非常危险的做法。防御上，除非能够自动分析要被执行的代码并确保安全，否则很难有效防御此类攻击。目前，许多系统如Java对Jason序列化反序列化已经进行了多次漏洞修复，以防止恶意代码执行，但Python的pick模块仍支持执行代码，这在理念上存在较大差异。</div>
-</div>
-<div class="qa-item">
-<div class="question"><strong>Q:</strong> 攻击者是如何利用pick模块实现攻击的？</div>
-<div class="answer"><strong>A:</strong> 攻击者可能修改了生成的check point文件中的恶意代码，在被加载执行时，这段恶意代码被执行，进而污染了所有参与此次训练的机器的数据。</div>
-</div>
-<div class="qa-item">
-<div class="question"><strong>Q:</strong> 为什么攻击持续了一个多月才被定位？</div>
-<div class="answer"><strong>A:</strong> 初期，大家更多地怀疑自身存在错误，因为大规模模型训练过程中可能出现各种各样的问题。攻击者巧妙地修改了check point文件，且所利用的原理无需提交代码仓库，因此从code review上难以发现异常。此外，由于修改的是hugging face进程而非直接修改文件，所以仅从文件修改痕迹和用户活动日志中也难以追踪到攻击者。</div>
-</div>
-<div class="qa-item">
-<div class="question"><strong>Q:</strong> 在排查bug的过程中，如果遇到无法复现的问题，大家通常会如何处理？</div>
-<div class="answer"><strong>A:</strong> 如果线上出现了一个无法复现的bug，一般情况下开发者会感到非常棘手，甚至可能觉得无法接受。如果这个bug最后稳定消失，不影响工作，很多人可能会选择接受现状，不再深入追查问题原因，毕竟解决问题的成本与工作进度相比不值得投入过多精力。</div>
-</div>
-<div class="qa-item">
-<div class="question"><strong>Q:</strong> 针对有员工在debug群中潜伏并故意捣乱的情况，你有什么看法？</div>
-<div class="answer"><strong>A:</strong> 这种行为确实非常离谱且不专业。如果这位员工只是想破坏一下，并在发现问题消失后停止操作，可能最终问题不会被发现。但其持续不断的破坏行为不仅给团队带来困扰，还可能导致整个项目的进展受阻。</div>
-</div>
-<div class="qa-item">
-<div class="question"><strong>Q:</strong> 对于训练模型过程中，check point数据文件被恶意篡改的问题，你怎么看？</div>
-<div class="answer"><strong>A:</strong> 这个问题很严重，因为check point文件包含了基础模型的重要权重数据，相当于整个项目的资产。如果任何人都可以随意修改这些关键数据，将对后续基于此模型进行的训练工作造成严重影响，甚至可能导致所有努力白费。这反映出字节跳动在权限管理和运维机制上可能存在漏洞。</div>
-</div>
-<div class="qa-item">
-<div class="question"><strong>Q:</strong> 对于起诉该员工并索赔800万人民币的行为，你认为合理吗？这位员工是否有机会在未来从事相关行业？</div>
-<div class="answer"><strong>A:</strong> 字节跳动起诉该员工并要求高额赔偿，除了可能出于对自身权益的保护，也可能是一种表达态度的方式，即表明行业对这种行为的零容忍。法院是否会支持如此高额的赔偿有待观察，但字节跳动的做法也在一定程度上警示了行业内的其他参与者。考虑到该员工的行为性质严重，不仅损害了公司利益，也对整个行业产生了负面影响，未来他在行业内可能难以获得信任，难以再从事相关工作。</div>
-</div>
-<div class="qa-item">
-<div class="question"><strong>Q:</strong> 对于该员工认为通过阻碍团队取得进展来重新分配资源的想法，你怎么看？</div>
-<div class="answer"><strong>A:</strong> 这种想法过于单纯，团队不会因为资源分配问题而停止对项目的调查，而且资源分配不公的问题可以通过合理沟通解决，而不是采取这种极端的做法。</div>
-</div>
-<div class="qa-item">
-<div class="question"><strong>Q:</strong> 学校和职场之间是否缺乏必要的职场道德教育？</div>
-<div class="answer"><strong>A:</strong> 确实存在这样的问题，从应试教育过渡到职场后，往往忽视了职场道德教育的重要性。学校教育更多关注的是学业成绩，而职场道德教育则关乎个人行为准则和社会责任感，这在当前教育体系中是一个缺失的部分。</div>
-</div>
-<div class="qa-item">
-<div class="question"><strong>Q:</strong> 学校是否应该负责学生的道德教育？</div>
-<div class="answer"><strong>A:</strong> 我觉得确实是应该的。因为学校是为了社会输送人才，而道德品质也是人才的重要要求。不能完全依赖法律和监狱来事后补救，应在前面进行预防教育。</div>
-</div>
-<div class="qa-item">
-<div class="question"><strong>Q:</strong> 大学阶段是否为道德教育较晚的时期？日本是如何进行道德教育的？</div>
-<div class="answer"><strong>A:</strong> 是的，大学阶段开始进行道德教育可能太晚了。一般人的道德人格在16岁左右就开始趋向稳定，而大学生通常在18岁左右。日本从18年开始立法，将道德课程变为正式科目，从小学到初中都有，有教材、考试等系统化教育。</div>
-</div>
-<div class="qa-item">
-<div class="question"><strong>Q:</strong> 是否有必要在大学阶段专门开设职业道德教育课程？</div>
-<div class="answer"><strong>A:</strong> 大学阶段确实应该有一门关于职业道德教育的课程，重点在于教导学生如何适应职场环境，具备良好的职业素养和团队协作能力，而非仅停留在儒家思想层面的传统道德教育。</div>
-</div>
-<div class="qa-item">
-<div class="question"><strong>Q:</strong> 国内大部分人对法律的认知程度如何？</div>
-<div class="answer"><strong>A:</strong> 国内大部分人对何事犯法、何事不犯法缺乏清晰认识，更多人仅凭感觉判断是否可能犯法。</div>
-</div>
-<div class="qa-item">
-<div class="question"><strong>Q:</strong> 法律教育在国内是否存在淡薄问题？</div>
-<div class="answer"><strong>A:</strong> 是的，相比职业道德教育，法律教育在国内显得更为淡薄。多数人对法律的具体内容了解不足，往往仅凭感觉判断事情是否违法，而非真正懂法。</div>
-</div>
-<div class="qa-item">
-<div class="question"><strong>Q:</strong> 风控在企业运营中主要关注哪些方面？</div>
-<div class="answer"><strong>A:</strong> 风控通常关注两类事件：一类是发生频率高但损失小的事件，比如外卖行业的违规行为；另一类是发生频率低但损失大的事件，如田某案例所示。对于前一类事件，通常采取预防措施或基础防护机制来应对，因为这类事件在大群体中几乎是必然发生的。而后一类事件，则常见于通过保险等方式分散风险给整个社会。</div>
-</div>
-<div class="qa-item">
-<div class="question"><strong>Q:</strong> 风控措施是否增加了社会运作成本？</div>
-<div class="answer"><strong>A:</strong> 不一定是增加了成本。平稳有序的社会环境实际上有利于提高效率，频繁的补救措施反而可能导致效率降低。风控成本在某种程度上是必不可少的，因为个例事件虽无法杜绝，但其带来的额外成本是为了保障整体稳定性和安全性。</div>
-</div>
-<div class="qa-item">
-<div class="question"><strong>Q:</strong> 对于独立开发者或创业者来说，如何看待风控的重要性？</div>
-<div class="answer"><strong>A:</strong> 创业者需要具备风险意识，因为即使大公司也可能因风控不当而遭受重大损失。通过吸取教训，创业者可以在一定程度上通过法律手段进行预防，例如提高诉讼诉求以起到警示作用。</div>
-</div>
-<div class="qa-item">
-<div class="question"><strong>Q:</strong> 风控管理在企业中的实际效果如何？</div>
-<div class="answer"><strong>A:</strong> 风控管理在大公司中往往侧重于防范事务性操作风险，但对于内部人员恶意行为（如内鬼），现有的风控管理可能无法完全防范。信任确实是合作的基础，但同时需要加强普法教育，让员工了解违法后果，同时也依赖执法机构依法判决，从而对职场形成震慑作用。</div>
-</div>
-<div class="qa-item">
-<div class="question"><strong>Q:</strong> 是否有实际案例说明员工违反职业道德甚至触犯法律的行为？</div>
-<div class="answer"><strong>A:</strong> 提到了淘宝内部员工利用职务之便私开接口并发布至线上供外部调用以牟利的案例，该员工最终被开除并可能被告上法庭。此外，阿里内网曾披露过一些有违职业道德但外界看来较为轻微的事件，但实际上这些行为也可能触犯法律。</div>
-</div>
-<div class="qa-item">
-<div class="question"><strong>Q:</strong> 在二级保护动物案件中，为何法院判决结果差异较大？</div>
-<div class="answer"><strong>A:</strong> 判决结果差异主要在于两方面：一是被告人不知情，二是他贩卖的是养殖的二级保护动物而非野生的。由于没有造成严重的社会危害，法院酌情从轻判处。</div>
-</div>
-<div class="qa-item">
-<div class="question"><strong>Q:</strong> 猎头非法获取公司组织架构的行为有何后果？</div>
-<div class="answer"><strong>A:</strong> 猎头非法获取并拍照记录公司组织架构的行为已经构成了犯罪，例如奇安信的齐向东就因猎头通过内部人员获取并拍照抓取其组织架构而提起诉讼，并导致猎头被捕。这强调了保护公司核心资产的重要性，同时也警示大家应严格遵守法律，公私分明。</div>
-</div>
-<div class="qa-item">
-<div class="question"><strong>Q:</strong> 对于离职员工清空电脑资料的行为，法律上如何看待？</div>
-<div class="answer"><strong>A:</strong> 员工离职时清空电脑资料可能构成违法，尤其是在部分企业中，员工使用公司设备进行的工作成果理论上属于公司所有。这种行为不仅常见，且在国内有很大一部分人存在类似误解，但实际上这是违法行为。</div>
-</div>
-<div class="qa-item">
-<div class="question"><strong>Q:</strong> 在公司场景下，什么情况下会涉及到法律风险？使用公司电脑进行副业或兼职开发是否会产生法律纠纷？</div>
-<div class="answer"><strong>A:</strong> 在公司场景下，将组织架构或敏感信息泄露给外部，如帮助他人联系公司内部人员，或者无意间泄露公司内部资料、机密信息（例如通过GitHub提交公司密钥、服务器密码等），这些都可能构成法律风险。是的，理论上使用公司电脑进行副业或兼职开发产生的成果可能并不属于个人所有，容易引发法律纠纷。即使项目未成功或未与公司产生利益冲突，但如果公司追责，成本较高，目前尚未出现太多案例，但诸如N加X的案例提醒我们应当注意这个问题。</div>
-</div>
-<h1>节目文稿</h1>
-<p class="transcript-line">
-<span class="time"><strong>[00:00:04]</strong> </span>
-<span class="speaker"><strong>发言人1: </strong></span>
-大家好，欢迎收听异地骇客。我是seattle.
-</p>
-<p class="transcript-line">
-<span class="time"><strong>[00:00:07]</strong> </span>
-<span class="speaker"><strong>发言人2: </strong></span>
-我是一笑。
-</p>
-<p class="transcript-line">
-<span class="time"><strong>[00:00:08]</strong> </span>
-<span class="speaker"><strong>发言人3: </strong></span>
-我是龟龟。
-</p>
-<p class="transcript-line">
-<span class="time"><strong>[00:00:09]</strong> </span>
-<span class="speaker"><strong>发言人1: </strong></span>
-本期节目由power wise赞助播出。Ot wise是一款为播客听众制作的AI学习软件产品的slogan是read before listen。Model wise通过AI对播客内容进行转录提取、总结分析等一系列操作，帮你掰开了揉碎了硬核的播客内容。同时与notion read wise等平台的打通，嵌入知识管理工作流，协助您的其他包括新闻newsletter blog的内容，帮你打造第二大脑。Hot wise也为本期听众准备了三个5折优惠码。针对本期在小宇宙与我们互动的精选回复，欢迎大家踊跃来玩。
-</p>
-<p class="transcript-line">
-<span class="time"><strong>[00:00:46]</strong> </span>
-<span class="speaker"><strong>发言人1: </strong></span>
-好的，那开始我们本期的节目。有句老话说的好啊，堡垒都是从内部攻破的。我相信大家也都知道了一件事儿，就是字节的大模型训练被实习生入侵了。然后说是注入了一些破坏代码，然后导致他的训练成果不可靠，可能需要重新训练。然后据说是这个入侵代码注入了有八千多张卡，损失可能有超过千万，当然这件事儿最近有了一个新的进展，就是说自己准备向这个实习生求偿800万人民币，然后附带民事赔偿。但说实话他怎么造成的这个损失超千万，为什么还没有被别人发现？其实这个事儿我还真不清楚。一笑能不能先给我们深入浅出的介绍一下，就这个事儿是怎么发生的。
-</p>
-<p class="transcript-line">
-<span class="time"><strong>[00:01:31]</strong> </span>
-<span class="speaker"><strong>发言人2: </strong></span>
-因为你刚才也提到了，首先这是一个从内部攻破。从我的角度来理解的话，如果从内部入手，你存在着内鬼的这种情况的话，其实我们要去制造一个攻击，它其实是没有任何门槛的。你想一下我们自己在内部公司里面，我要破坏某一个集群里面的任何的一个数据也好，我觉得这是一件毫无门槛的事情。你想做到这件事儿真的是易如反掌。比如说在网上也有很多人提到这个哥们儿在整个攻击或者说叫破坏的手段里面就有一些什么把人家的进程给直接kill掉了，对吧？我们都知道如果他用kill杠9的话，其实你训练的整个中途的数据可能全都丢掉了，可能很多东西要从头又重新开始的。这些破坏方式对于我们来理解的话，其实是非常简单的方式。
-</p>
-<p class="transcript-line">
-<span class="time"><strong>[00:02:25]</strong> </span>
-<span class="speaker"><strong>发言人2: </strong></span>
-当然大家分析的所有的这些破坏的方式里面，除了内部的这些简单粗暴的行为手段之外，还有一种大家猜测攻击方式是利用了hugin face的一个漏洞进行攻击。我先讲一下它它利用hugin face这个漏洞，其实就是利用了一个库。比如我去加载那个check point的时候，它可以执行一段恶意代码就完成了攻击。首先其实我们要明白一点，其实这个漏洞它其实不太算是hugging face的漏洞，就是哈根face的库，它也是底层去调用了另外的python的一个很非常非常通用用非常基础的一个序列化的库。所以说才造成了这个问题。所以这个问题它本质上不太算hugin face的问题。当然所有使用这些库的人在这个点上的防御没有做的太好。但其实我想了一下，这个防御还挺难的。
-</p>
-<p class="transcript-line">
-<span class="time"><strong>[00:03:15]</strong> </span>
-<span class="speaker"><strong>发言人2: </strong></span>
-对我先解释一下这个check point这个东西就像刚才我说的，他如果用kill这样的手段把那个训练的进程给杀掉过后，如果用K2-9，可能内部的这些状态都丢了，可能就要从头训练。那如果我们正常去停掉我们的整个训练的过程的话，其实也在停的过程中，它可能会生成我的整个训练的当前的状态的整个check point，把它全部给保存下来，对持久化成持久化的数据。那下一次你再启动整个训练过程的时候，我又可以恢复整个训练的进程。所以这个东西就是切个point。
-</p>
-<p class="transcript-line">
-<span class="time"><strong>[00:03:51]</strong> </span>
-<span class="speaker"><strong>发言人2: </strong></span>
-这整个check point里面它其实保存了非常多的模型训练中的一些状态的数据。包括模型的权重，还有一些参数，包括整个递归下降的一个过程里面涉及到的一些收敛等等等等。很多东西全部都在这个check point。它的可能是一个文件，但有些框架它是多个文件，是不是一个文件这个事儿不重要，反正就是有一份chek point的数据。
-</p>
-<p class="transcript-line">
-<span class="time"><strong>[00:04:15]</strong> </span>
-<span class="speaker"><strong>发言人2: </strong></span>
-其实我们所有做工程的人非常容易的去理解这个check point的对像我们可能平时让我们去实现怎么去保存我们的程序的内部状态。我们可能想到的是在程序停止的时候，或者说我们运行到一个阶段过后，我们可能就会把这些内部状态给它序列化成一个节省对象，对吧？给他直接写到磁盘里面，这就对我们所有做软件工程的人来说，就是非常正常的一个一件事儿。但是在在python的世界里面，至少现在看到的这些做机器学习的框架的训练过程，他们都没有采。
-</p>
-<p class="transcript-line">
-<span class="time"><strong>[00:04:54]</strong> </span>
-<span class="speaker"><strong>发言人2: </strong></span>
-可能节省这种方式还是相对说比较简单。我们都是只是保存一个对象的数据部分。但是在python里面有一个模块叫pick模块，这个pico的这个模序列化的模块，它其实是用来保存一些非常复杂的对象。有那个对象上除了挂有数据以外，真正还可以序列化它的一些方法之类的。也就是说它序列化到持久化的那个文件或者数据里面，它其实是还带有代码的。当你反话的时候，这个代码可以被load进来，同时恢复执行，这个就很恐怖了。
-</p>
-<p class="transcript-line">
-<span class="time"><strong>[00:05:32]</strong> </span>
-<span class="speaker"><strong>发言人2: </strong></span>
-对，所以说你可以理解成字节这件事儿。就是说它生成的check point文件被这个哥们儿在那个point文件给它修改一下。你可以理解成就是一个节省的序列化的文件。但是里边有一段代码，我给他加一段恶意代码，放到这个check point的文件里面。最后当你再去训练的时候，拿着这个check point去load到你的整个训练的过程里面去的时候，你发现这段恶意代码就被执行了。从那过后就污染了我所有的这些这次训练的所有的机器了。就是它的本身是这样的一个过程。
-</p>
-<p class="transcript-line">
-<span class="time"><strong>[00:06:03]</strong> </span>
-<span class="speaker"><strong>发言人2: </strong></span>
-所以说它的核心的问题点就在于使用这个python的pick的这个序列化的这个库的使用的方式的问题。怎么去防御别人？就是相当于说现在set也好，回归也好，里面生成了一个撇口的持久化的文件数据，然后远程发给我，让我load进去就可以恢复整个状态。结果一load里面在里面加了一点恶意代码，结果就在我的电脑上运行了那段代码。那段代码啪的一下把我的电脑的所有的数据给屏幕给删除掉了。
-</p>
-<p class="transcript-line">
-<span class="time"><strong>[00:06:35]</strong> </span>
-<span class="speaker"><strong>发言人2: </strong></span>
-就这件事儿你说就我这一段作为load端，其实我要去防御这个恶意代码，我想了一下其实还挺难的。因为除非我要真的去分析那个要被执行的代码，它是什么代码，它真的是在干什么事儿？要能够自动分析这件事情才比较好执行，要么就是直接拒绝掉执行代码这件事儿。当然人家可能就是要利用执行代码这个特性，因为他们这些机器学习框架可能都利用了这个特性。所以就造成了这样的一个问题。其实在我自己的整个职业生涯或者编程的过程当中，其实我好像还没有遇到过需要去序列化这样复杂的虚拟化的方式。需要好像除了虚拟化数据以外，我还需要能够执行方法。这种其实在我的场景里面确实没有遇到，也可能是我自己孤陋寡闻，没有遇到这样的复杂的场景。但总的来说，我个人的观点是我觉得像类似于pick这种序列化的模块可以执行代码的，我觉得真的是一个非常危险的一个事情。
-</p>
-<p class="transcript-line">
-<span class="time"><strong>[00:07:37]</strong> </span>
-<span class="speaker"><strong>发言人1: </strong></span>
-对你提到这个pico危险，其实在在java领域里边，所有的Jason序列化反序列化都不知道修过多少轮漏洞了。每次都是因为反序列化的时候，里边可能可以执行恶意代码，然后就去修复每一个java的这些什么Jason框架，都不知道修复了多少轮了。对，总是有各种各样的小问题。但是人家在python里面pico人家就专门支持做这种事儿，对吧？我觉得这个就是一个理念上面的一个非常大的不同。
-</p>
-<p class="transcript-line">
-<span class="time"><strong>[00:08:04]</strong> </span>
-<span class="speaker"><strong>发言人1: </strong></span>
-我觉得这个哥们儿做的事儿挺奇葩的。就是别人可能训练到一个中间阶段，搞出来一个checkpoint，然后他就偷偷摸摸的把人家这个check point改了，是吗？然后改完之后才发现怎么训练都不对，怎么训练都不对，我觉得这哥们儿也是挺神奇的对，但我有点疑惑，为什么这个攻击说是已经持续了大概有一个多月了吗？为什么这个攻击搞了这么久才定位，到最后是他这哥们儿好像最后还不承认。我觉得你像我们以前做linux的各种权限管理等等之类的。因为我们最终其实按照linux的权限，然后你去看他的文件修改权限，然后他到底最后是谁修改，再反过来倒到最后倒到那个堡垒级埃批的话，理论上只要字节管理的稍微规范性的话，找到他应该不难。那为什么搞了这么久才找到他？
-</p>
-<p class="transcript-line">
-<span class="time"><strong>[00:08:49]</strong> </span>
-<span class="speaker"><strong>发言人3: </strong></span>
-其实我觉得最开始的相当长的一段时间里面，应该大家都没想到是有人在在搞鬼。
-</p>
-<p class="transcript-line">
-<span class="time"><strong>[00:08:56]</strong> </span>
-<span class="speaker"><strong>发言人2: </strong></span>
-那也没错。
-</p>
-<p class="transcript-line">
-<span class="time"><strong>[00:08:57]</strong> </span>
-<span class="speaker"><strong>发言人3: </strong></span>
-对吧？第一时间肯定都会怀疑自己，就是因为这种大模型炼丹，本身就很容易出各种问题，但规模又那么大对吧？机器数量又多，然后模型又复杂。你不管是说哪台机器硬件上出个问题，或者说调度框架有点问题对吧？又或者说有网络波动，或者模型本身有问题，他其实有问题的可能性就很多。
-</p>
-<p class="transcript-line">
-<span class="time"><strong>[00:09:19]</strong> </span>
-<span class="speaker"><strong>发言人3: </strong></span>
-那集群又那么大，就一开始的时候估计运维也好，程序也好，算法也好，就都在怀疑说我自己这个地方是不是哪里有问题，然后就开始各种排查，我估计一定是要等到排查进入死胡同了，或者就顺便正巧正巧就看到一些好像有人为捣乱的迹象，才会往这方面想，对吧？你们其实自己想一想，估计也是这么一个思路。很难想到说自己他这个应该算是兄弟团队，对吧？兄弟团队有人这么变态。
-</p>
-<p class="transcript-line">
-<span class="time"><strong>[00:09:48]</strong> </span>
-<span class="speaker"><strong>发言人3: </strong></span>
-而且刚刚意向其实也讲了，这个哥们儿注入的恶意代码利用的这个原理，它其实本身是不需要提交代码仓库的，所以你从code review上是看不出什么东西。然后因为执行他这个注入的恶意代码的是hugging face，就是不是他本身去执行的。所以我估计就算有文件修改，你从这个文件修改上也看不出太多迹象。因为修改的那个是这个阿里face的进程还是什么，对吧？所以从这个文件修改的这个用户上，你估计也看不出什么迹象，唯一能留痕的可能就是这个操作历史。
-</p>
-<p class="transcript-line">
-<span class="time"><strong>[00:10:24]</strong> </span>
-<span class="speaker"><strong>发言人3: </strong></span>
-这个也就是要等到真的有人开始怀疑了之后，才慢慢的会查到这个部分没错，对吧？当然我觉得最最离谱的就是这哥们儿居然潜伏在人家这个debug群里面，看人家排查思路来调整。这个真的是有点夸张，就是查无法复现的bug，简直就是不可能完成的任务。我们如果在线上遇到一个什么bug，然后复现不了，你真的头都要扎破。
-</p>
-<p class="transcript-line">
-<span class="time"><strong>[00:10:49]</strong> </span>
-<span class="speaker"><strong>发言人3: </strong></span>
-对，但是说真的，如果这哥们儿打捣乱之后见好就收，不要做的这么绝。我觉得可能最后这事儿都不会被发现。他可能捣乱了一个月，觉得差不多了可以了，我就不接着搞了。大家发现问题消失了，可能也就不查下去了。不管问题再诡异，只要最后稳定消失，工作能继续下去，我也可以说服自己说，我就是倒霉遇到了一个诡异的问题，反正现在已经好了，那就接着搞，可能也不会再花大量精力回头去找问题所在。就变态了，这哥们儿他就一直弄，就是要把你弄死。
-</p>
-<p class="transcript-line">
-<span class="time"><strong>[00:11:25]</strong> </span>
-<span class="speaker"><strong>发言人2: </strong></span>
-没错，对这个问题，它其实从注入攻击的方式，其实从代码层面确实你是看不出来的。它毕竟是在一个数据文件里面去加了一段代码，所以他这个事儿其实可能都不需要登录机器，甚至都可以完成的一件事情。对但其实这里有一个问题，大家仔细想一下，其实我自己是不太理解。因为这个check point这一份数据其实是非常重要的。比如说你训练完了一个基础的模型，它其实就导出一份你可以认为就导出一份chek point。这里面就包含了我们整个推理的权重，这些数据它其实就是一个基础模型，我们可以把它理解成就像docker的S的image这样的一个东西。所以这个东西它其实是非常重要的。
-</p>
-<p class="transcript-line">
-<span class="time"><strong>[00:12:04]</strong> </span>
-<span class="speaker"><strong>发言人2: </strong></span>
-比如我们今年第一个季度完成了一个基础模型的训练。导出check point，那这个东西肯定就是我们的资产了，非常的重要。难道任何一个人都可以接触到这个东西吗？我就可以在里面随便的修改一点内容，加点代码，对吧？那这个不是很夸张的一件事情，那后面大家的工作都是要基于这个best去进一步去训练的，去训练后面的工作内容。那后面你的努力不都全白费了吗？所以我觉得这件事情在整个字节的这个权限也好，或者说整个check kboy的运维管理的机制，反正想想觉得是有点离谱的，不知道他们是怎么在管理这件事情。
-</p>
-<p class="transcript-line">
-<span class="time"><strong>[00:12:46]</strong> </span>
-<span class="speaker"><strong>发言人1: </strong></span>
-对你想想其实大模型训练这个事儿也就这几年才出现。再往前倒其实是大数据的，这两年才开始出现了这种大模型训练。我估计在整个运维层面上面，还是有蛮多漏洞可以去补的对吧？大家以前可能都没有经验，或者说大家都没有想到说还有人去去这样子去搞，对吧？我反正这么看过来，这哥们儿还有各种反侦查技能，对吧？就感觉这哥们儿是真的是纯坏。然后我还挺同情跟他一个团队的成员的，我估计这些人就是搞着搞着都有点怀疑人生了。
-</p>
-<p class="transcript-line">
-<span class="time"><strong>[00:13:16]</strong> </span>
-<span class="speaker"><strong>发言人1: </strong></span>
-对，觉得说怎么搞都不对，每次为什么训练的结果都不一样？现在因为字节在公司层面不是也起诉了吗？他现在是说民事求偿800万人民币，然后还要附带赔礼道歉。为什么附带赔礼道歉？是因为这哥们儿一直都不承认是自己，然后他学校也没处理，直到现在这哥们还在否认。那我觉得钱的这个事儿可以先放一边，我觉得说不定他家里人可以给他还上，对吧？那你们觉得说未来这哥们儿还有没有机会去从事我们这个行业？
-</p>
-<p class="transcript-line">
-<span class="time"><strong>[00:13:45]</strong> </span>
-<span class="speaker"><strong>发言人3: </strong></span>
-他这个我其实看网友们讨论，都说这个真的是赔偿800万人民币，可能不太可能，可能就是法院不会支持这么多。但是我觉得像这个字节他诉求这么大，其实很大一个程度也是在表达自己态度，对吧？然后他其实还把这件事同步了，这个东西叫什么来着？行业什么反欺诈，什么协会什么的，反正就是把这件事给整个行业都同步了，说这个人有点有点什么所以其实自己也就是那意思就是说我也不想在这个行业里面再看到你了，我感觉就是像他能做到这种程度，我自己觉得是多少有点道德感缺失，就是有点反社会性人格。当然也有可能纯粹就是无知，觉得不是什么大事儿，法律也管不到我。反正我自认为一个正常人的逻辑出发，我是根本无法理解他这么做的原因的。感觉是属于纯粹的报复，损人不利己。而且对感觉也没有考虑过这件事儿一旦暴露会对自己带来的影响。
-</p>
-<p class="transcript-line">
-<span class="time"><strong>[00:14:48]</strong> </span>
-<span class="speaker"><strong>发言人3: </strong></span>
-也有网友说这个人其实是觉得说只要对方弄不出进展，那资源就会重新分配到他的研究方向上，这个确实你要这么说还对他有一点好处，但我觉得只能说想的也是太单纯了点，怎么可能就不会去查原因，对吧？然后就说人家没进展就把人家停了，不太不太可能这个样子。那你说如果说是他是受到了什么非常严重的不公正待遇，宁可玉石俱焚也要报复，我觉得是可以理解了。
-</p>
-<p class="transcript-line">
-<span class="time"><strong>[00:15:14]</strong> </span>
-<span class="speaker"><strong>发言人3: </strong></span>
-但是他只是说遇到的团队内资源分配的问题，都不能说是资源分配不公，对吧？是大家最后决定说，我就是先做这个方向，然后那个资源是一人一半，不是说我全部给那边，他就觉得说应该全部给自己这儿，这个都不是一个分配不公的问题，他城市只是资源分配的问题。我感觉实在是远远没有到要做到这个玉石俱焚的程度。所以我比较倾向于你说的这个说这哥们儿是纯坏，就是缺失道德感的体现，也包括可能就是对法律意识淡薄。这种对违法违纪毫不在意的人我觉得是无法被信任的。
-</p>
-<p class="transcript-line">
-<span class="time"><strong>[00:15:51]</strong> </span>
-<span class="speaker"><strong>发言人3: </strong></span>
-其实看到这个的时候，我还想起来前不久看到的一个案例，他是一个化学博士在读，然后他干啥事了呢？他是因为楼上邻居的这个日常起居声音影响他休息。他说他自己神经衰弱比较严重，邻居什么关个门，关个冰箱之后他都觉得吵。然后他就每天从门缝里头往邻居家注射麻醉药物。他以为他是个化学博士，他给天天给人家注射麻醉药物，人家就每天都觉得头晕，然后恶心什么的。他连着搞了几个月，后来才被发现。你说这是正常人能想出来的解决问题的办法吗？对吧？
-</p>
-<p class="transcript-line">
-<span class="time"><strong>[00:16:28]</strong> </span>
-<span class="speaker"><strong>发言人3: </strong></span>
-这种人你说被爆出来之后，那谁还敢和他做邻居？知道你是他这个人是是自己的邻居，邻居肯定避之不及，哪天说不定就被投毒了。其实注入病毒，它这个蒜是恶意代码，就是这种事儿。
-</p>
-<p class="transcript-line">
-<span class="time"><strong>[00:16:41]</strong> </span>
-<span class="speaker"><strong>发言人3: </strong></span>
-以前有一个特别有名的病毒的例子，就是熊猫烧香，对吧？大家应该都知道做熊猫烧香那哥们儿叫李俊，当时好像是被判了四年，后来混了三年，因为表现良好就提前出来了。出来之后，他就是要找工作，就给金山投的简历，金山大当时也确实给了一个offer，但你从他给他的这个职位的名字看，还是看中他的话题，不是看中他的技能，给的是一个叫网络安全观察员这样的虚职。据说其实就是客服，月薪三千，那他肯定就不干嘛。但是别的一些像安全厂商，像瑞星、奇虎之类的，其实都不愿意见他。
-</p>
-<p class="transcript-line">
-<span class="time"><strong>[00:17:21]</strong> </span>
-<span class="speaker"><strong>发言人3: </strong></span>
-就觉得这哥们儿虽然很有噱头，但是不能这个样子。因为他其实他这个熊猫上下，他不光是说他做来玩的，他还拿去卖钱了，卖了好像十几万还是几十万。他后来确实是被一个叫做熊猫安全的公司给要走了，而且给的title好像还很高。那你听这个公司的名字，感觉就又是玩噱头的对吧？
-</p>
-<p class="transcript-line">
-<span class="time"><strong>[00:17:42]</strong> </span>
-<span class="speaker"><strong>发言人3: </strong></span>
-熊猫安全把这个熊猫烧香的作者给要走，然后果然很快他就又被抓了。他是因为开设网络赌场被判了三年。而且他这个开设网络赌场，他也充分利用了自己做病毒的这个经验，是吧？做网络赌场大家都知道，其实你去赌什么概率都是被控制的。所以据说他做的这个网络赌场，反正对方赌的那个人能出什么牌，对吧？能不能赢，反正都是被他控制的。好像说是赚了七千多万，然后又被抓了，判了三年，现在可能就早就出狱了但就完全没有信消息了，就已经销声匿迹了。我觉得他这次恐怕是没啥翻身机会了，正经的翻身机会，说不准是人家一可能在哪个犄角旮旯里面赚你不知道的钱，也不一定。
-</p>
-<p class="transcript-line">
-<span class="time"><strong>[00:18:26]</strong> </span>
-<span class="speaker"><strong>发言人3: </strong></span>
-对，但说实话李俊这个事儿就是出发点，你起码还可以说是牟利，对吧？属于是损人利己。那自己这位同学做出的事情真的就是让人不能理解。
-</p>
-<p class="transcript-line">
-<span class="time"><strong>[00:18:38]</strong> </span>
-<span class="speaker"><strong>发言人1: </strong></span>
-对，因为这个同学的名字叫田某。对，现在广大网友已经有一句评论了说。清华陀姐，北大田哥。
-</p>
-<p class="transcript-line">
-<span class="time"><strong>[00:18:49]</strong> </span>
-<span class="speaker"><strong>发言人3: </strong></span>
-就是都这俩都对等起来了是吧？
-</p>
-<p class="transcript-line">
-<span class="time"><strong>[00:18:52]</strong> </span>
-<span class="speaker"><strong>发言人1: </strong></span>
-对，已经对等起来了。网友把这件事的评论已经升为到整个教育体系了，就说高考只过滤学渣不过滤人渣。当然对于这个说法，我个人不发表意见。但是如果说学校在这件事上没有责任，我肯定是不同意的。况且学校现在对田某还没有任何处理。
-</p>
-<p class="transcript-line">
-<span class="time"><strong>[00:19:11]</strong> </span>
-<span class="speaker"><strong>发言人1: </strong></span>
-那到最后假如真的法院判输的话，你们觉得是学校应该怎么处理，还有就是说我一直觉得说我们学校到职场这个中间缺少一些所谓的职场道德教育这一环。因为我们一路其实都是应试教育过来的。我们在小学中学的时候，我们一直都在强调说，你能不能考上学，然后你得分够不够高，对吧？从大学到职场的时候，其实没有人教过你职场道德应该是什么样子，你应该做什么事儿，不应该做什么事儿，全靠自觉。或者说你从你身边的人学到的，其实没有人教过你说你应该怎么做，我不知道你们怎么看这个事儿。
-</p>
-<p class="transcript-line">
-<span class="time"><strong>[00:19:48]</strong> </span>
-<span class="speaker"><strong>发言人3: </strong></span>
-其实确实是听说，一开始自己也只是把这哥们儿的这个实习取消了，然后说让学校处理他，但学校没处理他，这哥们就开始在网上给自己洗白，说别人劝他离职是吧，别人干的，然后栽赃给他，然后自己才告诉他。其实国内道德有关的这个教育，我感觉好像确实是缺失的。反正从我自己的被教育经历来看，唯一有关联的课程可能就是思修，对吧？思想品德修养。这个课程好像我记得小时候好像叫思修，后来就变成思政了，对吧？思想政治教育、思想政治修养，反正大学的时候还就变成思政了。这个课程反正一来我觉得它是更偏政治的，二来就是大家其实也都不在乎，教的人也不在乎，学的人也都不在乎，反正就是纯粹属于完成任务。我大学时候去上这个课都是睡觉的。
-</p>
-<p class="transcript-line">
-<span class="time"><strong>[00:20:36]</strong> </span>
-<span class="speaker"><strong>发言人3: </strong></span>
-但是学校是不是应该负责学生的这个道德教育？我觉得确实是应该的。因为学校是为了社会输送人才的。对，那道德品质显然也是人才的一个重要的要求，对吧？你不能说我凡事都是靠法律和监狱来事后补救，对吧？那监狱帮社会改造人才，你这个帮社会输送人才的，在前面做一些预防不是更好吗？
-</p>
-<p class="transcript-line">
-<span class="time"><strong>[00:21:01]</strong> </span>
-<span class="speaker"><strong>发言人3: </strong></span>
-但是到大学再进行道德教育，我觉得恐怕是太晚了一点。因为人的人格一般从16岁开始就开始趋向稳定了。读大学都18岁了。
-</p>
-<p class="transcript-line">
-<span class="time"><strong>[00:21:11]</strong> </span>
-<span class="speaker"><strong>发言人3: </strong></span>
-这个问题其实我还去查了一查，说不同国家的这个教育系统是怎么做的。查到一个比较极端一点的是日本，日本它是从18年开始立法，把这个道德这门课变成了一个正式科目。从小学到初中都有啊，是正式的，有教材的，然后要考试的。
-</p>
-<p class="transcript-line">
-<span class="time"><strong>[00:21:28]</strong> </span>
-<span class="speaker"><strong>发言人3: </strong></span>
-其实日本的犯罪率确实还是挺低的，但是我们印象中好像日本的这种变态的案件特别多。当然这个变态的案件对变态的案件你肯定也是因为它够变态才会报道出来。相对来说也都比较早了，就是可能比如说2000年前这样的这种变态案件比较多。另外还有一个原因，其实是在日本，可能你犯罪之后，承担的这个社会压力也很大。但是其实国内也很大，因为犯罪之后都就会被打上标签，大家都不会要你。但是别的国家就似乎都没这么正式的这个道德教育，所以我觉得如果真的要去做这个道德教育，肯定还是从小学初中这样的阶段去在人格的可塑期去做更有用。当然还要配套这个普法教育，对吧？
-</p>
-<p class="transcript-line">
-<span class="time"><strong>[00:22:09]</strong> </span>
-<span class="speaker"><strong>发言人3: </strong></span>
-说句实话，我们其实我感觉国内大部分人对什么事儿犯法，什么是不犯法也没什么概念。可能我们相对来说还好一点，大概有一个感觉说，这个事可能犯法，那也就是仅限于可能犯法。更多人可能都完全没概念说这事儿犯法不犯法。
-</p>
-<p class="transcript-line">
-<span class="time"><strong>[00:22:25]</strong> </span>
-<span class="speaker"><strong>发言人2: </strong></span>
-我倒有一点不同的观点。我觉得我们单纯提道德教育这一个点的话，其实我觉得可能我们从小去上学，可能从小学、初中到高中，甚至到大学，我们确实可能没有这样的一门课程去专门告诉大家什么是符合道德的或者怎么样。但是我们伴随着整个学习的过程当中，我们所有的老师他们应该都在言传身教，告诉我们我们要做一个有道德的人之类的。但是这里确实我想了下，我们会存在着一个问题，就是我们所有的这种不管是来自于你的父母也好，还是来自你身边的人，还是老师也好，所有在对你进行这种道德教育的时候，我们接受到的道德教育都是一些类似于比如说尊老爱幼，尊师重道，还有一些对别人要友善，或者说你要做一个好人，你不能去犯法。很多时候我们接触到的整个道德教育可能都是来自于这样的一个层面。但是如果我们进入到大学了之后，我确实觉得说大学应该有一门课程是叫职业的道德教育。就是说我觉得职业的道德教育他讲的是个什么东西？就是让你当你真正走入职场过后，你应该如何去工作就应该如何去工作这件事儿我觉得是我们所有其实今天的大学的毕业生，包括我们自己当初毕的时候，我们其实根本不知道应该如何去工作的那如何去工作？
-</p>
-<p class="transcript-line">
-<span class="time"><strong>[00:23:59]</strong> </span>
-<span class="speaker"><strong>发言人2: </strong></span>
-这里面就涉及到很多，比如说团队的协同，团队的合作，你在团队里面应该怎么样？就像刚才我们讲的这个天猫，它其实本身是一个团队合作的问题导致的一个问题。那你在职场里面可能会遇到一些什么样的事情，那你应该具备良好的职业素养。我觉得这些都是与如何工作相关的一个事情。
-</p>
-<p class="transcript-line">
-<span class="time"><strong>[00:24:24]</strong> </span>
-<span class="speaker"><strong>发言人2: </strong></span>
-但这一块儿确实是我们整个教育系统里面，我觉得非常缺乏的一个点。因为我们的道德教育往往都是在那种还是我们曾经已经提过的那种有点儒家思想的那样的一个层面的一个道德教育。我们所有的人都不知道如何去工作。其实大家有没有发现，现在其实有很多很多的人把工作这件事儿总是当成是资本家对我的一种剥削。当你从第一天你就抱着这个思想的话，你从根上都已经偏了。就是当踏出社会的第一步，你的脑子里都是觉得说，我现在要去被资本家剥削了。对，当然可能这里面是有很多的剥削问题，比如在社会里面对吧？
-</p>
-<p class="transcript-line">
-<span class="time"><strong>[00:25:10]</strong> </span>
-<span class="speaker"><strong>发言人2: </strong></span>
-但是你从根上，从你的思想层面，从你踏出大学校门的第一步，你如果都是怀着这样的想法的话，那我觉得可能在后面的职场里面，你确实可能会遇到多的困难，或者说你个人的成长也会遇到很多的障碍。我觉得是这样的一个点。所以说我讲的是大学确实应该有一门关于如何工作这样的一个职场的道德教育，我觉得这个是比较好的。
-</p>
-<p class="transcript-line">
-<span class="time"><strong>[00:25:34]</strong> </span>
-<span class="speaker"><strong>发言人2: </strong></span>
-相反和这个职业的道德相比的话，我也更倾向于填补这件事情。其实是我们在法律的教育上面的一个淡薄的问题。就相比职业大道，我更倾向于说，我们今天的全民的法律素质真的是太低了。
-</p>
-<p class="transcript-line">
-<span class="time"><strong>[00:25:54]</strong> </span>
-<span class="speaker"><strong>发言人2: </strong></span>
-就像刚才归也提到，我们对一个事情，我们可能只是知道这个事情看上去好，犯不犯法我也不会发。你只是有一个感觉，其实你自己并说不出来背后的123，法律的123是怎么样的。这个东西其实它不叫懂法，真的包括我们自己在内，我们自己其实有时候什么民法那些，因为和我们最相关的其实是民法。我相信涉及到刑法这些的时候，我们还是说我们不知道刑法的内容是什么样。但是我们知道可能你这个东西就是犯罪了，触犯了刑法，我相信大多数人可能不会去干。比如说你一些杀人放火之类的，可能你不会去干。但是在民法里面的很多东西是和我们的生活息息相关的那这里面其实我们经常在生活当中，其实你自己根本都不知道的。你根本都不知道你在这儿是别人侵犯了你的利益，还是你侵犯了别人的利益，其实我们都都不知道。
-</p>
-<p class="transcript-line">
-<span class="time"><strong>[00:26:46]</strong> </span>
-<span class="speaker"><strong>发言人2: </strong></span>
-对，所以说很多时候我们把生活当中的一些利益的相互的侵害这件事儿，只是把它归结到了一个公序良俗上面。道德层面觉得说你这样做好像是不太符合公序良俗的，不符合道德的，但其实你是犯法了，你知道吗？对我觉得这个点是一个最大的问题，就是我们所有的人真的都好好思考一下，我们是不是真的懂法。对。
-</p>
-<p class="transcript-line">
-<span class="time"><strong>[00:27:14]</strong> </span>
-<span class="speaker"><strong>发言人1: </strong></span>
-对你提的这个法律是淡薄，我自己其实也有一个很明显的体感。就比如说你看我们现在大城市可能比较少，就是大家都有红绿灯，对吧？那比如说你在中小城市，大家是不是过马路的时候都是凑一波凑一波就过，对吧？对，那其实这个里边就隐含着背后其实大家背后其实有一个意识，就是大家总觉得说法不责众，对吧？甚至我们之前出现过一个村里面全。
-</p>
-<p class="transcript-line">
-<span class="time"><strong>[00:27:41]</strong> </span>
-<span class="speaker"><strong>发言人2: </strong></span>
-是贩毒的对。
-</p>
-<p class="transcript-line">
-<span class="time"><strong>[00:27:43]</strong> </span>
-<span class="speaker"><strong>发言人1: </strong></span>
-类似这种的。对我觉得确实我们整体的法律意识确实是有些淡薄的对，那我觉得田某这个事儿，我觉得就是对整个行业其实也造成了一个蛮大的影响。然后有点说一个老鼠屎坏了一锅汤的这种感觉。
-</p>
-<p class="transcript-line">
-<span class="time"><strong>[00:27:56]</strong> </span>
-<span class="speaker"><strong>发言人1: </strong></span>
-我其实还有想到另外一个事儿，就是跟我们这个行业没关系的。在外卖行业，大家在城市里面的上班族，基本上都离不开外卖。我不知道大家有没有发现，外卖也有经历过一个过程。以前的外卖的时候，其实大家都是提个袋子就送到你这儿了。但现在的外卖你收到的时候，他一般都是是纸袋上面会给你来两发订书针，或者说给你在上面粘三个胶带。它为什么会发展成这样？也是因为有极个别的客户发现了自己的外卖，要不然就缺斤少两。要不然就出现了一些不明物质，对吗？
-</p>
-<p class="transcript-line">
-<span class="time"><strong>[00:28:27]</strong> </span>
-<span class="speaker"><strong>发言人1: </strong></span>
-然后在媒体曝光了之后，然后商家就采取了这种保护性措施，就说那我要不然我把袋口封住对吧？反正你收到那个外卖之后，那个袋口是有问题的那你就别收。但其实最终因为这些东西都是要成本的。以前大家拿个塑料袋可能就给你送过来了，对吧？那现在又拿个纸袋子，上面还给你来两发订书针，这个时候其实最终还是消费者承担了这个打包费用。以前打包费其实大家都不算的。现在你送外卖过后，人家还给你算一下，说你这个打包的钱到底多少钱。
-</p>
-<p class="transcript-line">
-<span class="time"><strong>[00:28:56]</strong> </span>
-<span class="speaker"><strong>发言人1: </strong></span>
-但我举的这个例子不能跟今天田某这个事儿一比一类比，因为毕竟外卖员跟商家这个关系还不是像我们内部。因为外卖员毕竟不由商家控制，那就类似于说商家因为他出现了这种这样的事儿，然后客户他反过来怪商家了，对吧？那商家类似于做了一个防御式变编程，往上面来两发订书针。那你们说企业内部的话，他有必要来这么一下吗？如果企业内部去做了这种类似于防御等等这种机制的话，它本质上最终会提升整个企业的成本。那当然字节因为他这个损失，我估计几千万应该是有的。整个损失他其实代价比较大我不确定说自己或者未来这种大厂，他会不会为了去预防这样的事情，最终去把整个的这个企业的管理，安全这部分把它给提上来。我们讲说田某这个事儿会不会对我们这个行业带来这样的一个安全性的一个改进也好，影响也好。
-</p>
-<p class="transcript-line">
-<span class="time"><strong>[00:29:50]</strong> </span>
-<span class="speaker"><strong>发言人3: </strong></span>
-其实这就是个风控的问题，对吧？那风控对风控就一定会涉及到成本和收益的这个比重的问题。一般就是我们会关注两类事情去做这个风控。一般就是一类是发生频率高但损失小的，对吧？还有一个是发生频率低但损失大的。
-</p>
-<p class="transcript-line">
-<span class="time"><strong>[00:30:08]</strong> </span>
-<span class="speaker"><strong>发言人3: </strong></span>
-其实像讲到的这个外卖的这个就属于发生频率高但损失小。因为你看着好像是偶发事件，但其实在这么大的这个群体面前，它几乎是必然发生的。然后像田某这个就是属于发生概率低的，损失大的。那另外还有那种什么发生概率高损失大，或者说发生概率低损失低的，这种我们就不用关注了，对吧？那前面这种就你这个事儿就不用干了，因为他毕竟是后面这种，反正也没必要去关注，而且就发生了。
-</p>
-<p class="transcript-line">
-<span class="time"><strong>[00:30:37]</strong> </span>
-<span class="speaker"><strong>发言人3: </strong></span>
-一般对频率高损失小的，我们比较习惯的就可能去采取预防措施，或者说做一些基础的防护机制。就像你说的这个订订书钉，算就是基础的一个防护机制，因为它可预见的就是会一直发生。所以与其比如说我发现了之后，我去怎么严厉的处罚这个外卖员，不如就简单去预防一下就好了，它一定是会发生的，所以从日常里面去投入成本去覆盖就是比较合理的。而且你像你说提高成本，消费者买单，我觉得也没办法，他真的是一定会发生的。因为群体就那么大，那么多人，你不管说道德感缺失也好，还是怎么样也好，反正总会有这样的人出现。
-</p>
-<p class="transcript-line">
-<span class="time"><strong>[00:31:17]</strong> </span>
-<span class="speaker"><strong>发言人3: </strong></span>
-另一类频率低但损失大的比较常见的方式，其实是通过保险来分散风险，分摊风险给整个社会。典型的像重疾险就是这一类。然后各类财产险，我觉得应该也。比如说车险对吧？比如说火灾之后那种财产赔偿都算。
-</p>
-<p class="transcript-line">
-<span class="time"><strong>[00:31:34]</strong> </span>
-<span class="speaker"><strong>发言人3: </strong></span>
-那你说这些风控措施是增加了社会的运作成本吗？我觉得可能是相反的，因为我觉得平稳有序才能带来效率，如果你总是发生一些事件导致你要去补救的话，对吧？你要去做一些补救的措施，其实整个社会的运作效率可能反而是更低的。虽然说你可能好像是因为一些个例事件导致了整体的信任危机，而带来了这些额外的成本。但这些个例事件本来就不可能被杜绝，那就是一定会发生的。在我看来这些成本本来也是必不可少的。
-</p>
-<p class="transcript-line">
-<span class="time"><strong>[00:32:05]</strong> </span>
-<span class="speaker"><strong>发言人3: </strong></span>
-说到风控这个事情，我觉得我们作为独立开发者或者创业者，确实也是需要有这种风险意识。像自己财大气粗被这么整了一把，也不会咋地。但是换创业公司你就可能直接就寄了，对吧？
-</p>
-<p class="transcript-line">
-<span class="time"><strong>[00:32:19]</strong> </span>
-<span class="speaker"><strong>发言人3: </strong></span>
-但是风控这种事儿其实就是怎么说呢？属于经验。你如果没有遇到过，整个行业都没有遇到过，你是不会说想着说我会吃这么一个亏的。往往都是会一定要先吃过一次亏，才会想着下次要控制要预防。那自己这回吃一堑长一智，你看到他说决定起诉，我理解其实也是一种预防措施，也是一种风控措施，对吧？而且相对成本比较低的一种风控措施。就是你看我把这个诉求提的这么高，然后如果最后真的判下来比较严重，就是一个很好的警告，对吧？
-</p>
-<p class="transcript-line">
-<span class="time"><strong>[00:32:54]</strong> </span>
-<span class="speaker"><strong>发言人3: </strong></span>
-下次你们再干这种事儿，你就自己好好想想，你能不能吃得住，这个事儿让我想起以前我们这个嘉宾Victor我不知道听众朋友们还记不记得他遇到了一个发生频率低的，损失很大的事情，就是他公司存钱的那个银行倒闭了，对吧？他融来那个钱存的那个银行倒闭了，这你说一般谁能想到呢？但是我相信下一次Victor应该不会把公司所有的钱都放在一个银行里了。
-</p>
-<p class="transcript-line">
-<span class="time"><strong>[00:33:21]</strong> </span>
-<span class="speaker"><strong>发言人2: </strong></span>
-对我觉得薇薇提到自己的起诉，其实我现在针对这个事件的话，其实我更倾向于是说这次法院能真的依法把这个事情给判决下来，不管最终是不是赔不到800万，那也无所谓该赔多少钱，赔多少钱，能够依法把它判决掉。然后让职场的所有的人都知道这样做是违法的。我觉得这件事情是更重要的一件事儿。
-</p>
-<p class="transcript-line">
-<span class="time"><strong>[00:33:48]</strong> </span>
-<span class="speaker"><strong>发言人2: </strong></span>
-对，回到风控的话，其实还是要其实现在我们我们都在大公司待过。我们都知道其实现在的大公司里面，其实他们本身都有很多的风控的管理，或者说我们认为说权限管理，其实这些都有的。对。但是我们都明白这些很多的权限的风控的管理，他们更多的其实是在防范一些事务性的操作，对吧？那如果你是真正的一些内鬼，但是有时候也没有那么容易还是能搞的东西，他可能还是继续能搞。对你说你掌控一个关键的数据库的一个DBA的运维人员，你说你要是不想干点好事儿，想把数据库都给清空给删掉，也不是不可能是吧？也完全能做得到。只是说你做到了过后肯定你自己也搭进去了，这个是肯定的对，所以说现在很多时候风控可能真的还是一个防君子防不了小人这样的一个状态，对吧？
-</p>
-<p class="transcript-line">
-<span class="time"><strong>[00:34:41]</strong> </span>
-<span class="speaker"><strong>发言人2: </strong></span>
-回到企业和人的这样的一个问题上的话，我自己还是坚持觉得说信任真的是合作的基础。百度里也有一句价值观，我觉得讲的很好，简单可依赖。当然我们三个都没在百度待过哈那百度的听众同学如果有的话，可以出来说一说百度是不是真的是简单可依赖的。但说的真的对我觉得简单可依赖这个价值观，他真的对于企业的文化来说，我觉得是很好的一条。
-</p>
-<p class="transcript-line">
-<span class="time"><strong>[00:35:09]</strong> </span>
-<span class="speaker"><strong>发言人2: </strong></span>
-对，我觉得还是那句话，直接回答这个问题，我的观点就是他不需要处处去设防，我觉得这个成本真的是太高了。但是真的需要普法教育。这种普法教育除了在学校教育以外，还包括现在企业实实在在的遇到了这样的一个案件。那咱们的执法机构是真的能够依法把这个事情给他判决掉，对吧？然后给社会，给职场所有的人一个回应，我觉得这样是最好的结果。
-</p>
-<p class="transcript-line">
-<span class="time"><strong>[00:35:38]</strong> </span>
-<span class="speaker"><strong>发言人1: </strong></span>
-对你讲的那个DBA的leader，他山库跑路这种事其实也屡见不鲜了。没错，一般都是因为欠薪，对吧？欠薪过后然后DBA就直接删库跑路了，甚至有些web程序员，欠薪过后直接把人家公司首页改了，这种事情也是经常出现的对，因为我们也工作时间很长了。不知道你们有没有在职业生涯里边遇到过这种有违职业道德的，甚至最终被公司追究法律甚至刑事责任的。然后可以给大家分享一下。
-</p>
-<p class="transcript-line">
-<span class="time"><strong>[00:36:07]</strong> </span>
-<span class="speaker"><strong>发言人3: </strong></span>
-我一直记得当时刚去淘宝工作的时候，就刚毕业的时候，同部门同届的一个人做过这种事情。因为是同届一起实习一起培训的，所以还是比较熟悉的。知道的时候还挺惊讶的。因为它是开发，他就借职务之便私自开发了一个接口，发布到了那个线上。然后因为是私开的，这个接口的权限就很大。虽然具体是做什么的我不记得了，但是反正肯定能做一些官方公开渠道做不到的事情。它是营销相关业务的，那这个接口就是可以帮商家去做一些可能是权限很大的营销的动作。然后他就自己做了一个软件，在外面做了一个软件来调这个接口，然后把这个软件卖给商家来获利。
-</p>
-<p class="transcript-line">
-<span class="time"><strong>[00:36:46]</strong> </span>
-<span class="speaker"><strong>发言人3: </strong></span>
-后来被发现后就被开除了，应该也是被告了。罪名上不知道是怎么定性的，职务侵占罪还是怎么样，反正就是违法所得也都后来都追缴了，再后来就没有听到后续消息了，不知道怎么样了。那个时候其实阿里的内网论坛，是有一个叫廉政的板块的。经常会发各种集团的这种职务犯罪的案例，可以说这也算是一种风控行为，起到警示预防的作用。每个月都有案例，但一般都是像什么内外勾结，然后关联交易，侵占公司财产的是最多的，反正都是为了自己的利益。
-</p>
-<p class="transcript-line">
-<span class="time"><strong>[00:37:20]</strong> </span>
-<span class="speaker"><strong>发言人1: </strong></span>
-对你提到这个阿里内网，其实阿里内网里面报出来的，之前阿里内部判定它是有违职业道德。但其实大家在外部看来，大家觉得说这个事儿挺正常，或者说没有那么高度的，就是那个月饼事件，对吧？大家就阿里内部觉得说这个月饼事件是有违职业道德的对，但是大家把这个事儿放出来之后，大家觉得说就抢个月饼，至于这么严重吗？其实月饼根本也不值多少钱。对，反正这个事儿其实也是在外部掀起了很大的风波。
-</p>
-<p class="transcript-line">
-<span class="time"><strong>[00:37:49]</strong> </span>
-<span class="speaker"><strong>发言人1: </strong></span>
-对，但我觉得你讲的这个内部撕开接口这个事儿，我觉得他不被发现也是真的，那是不太可能的。反正在大家从n James里边各种调用？Log一看你就知道说这怎么多了一个这个接口，我觉得这个事儿他自己就是这种知法犯法，他知道这个事儿肯定不行，对他要做对。
-</p>
-<p class="transcript-line">
-<span class="time"><strong>[00:38:09]</strong> </span>
-<span class="speaker"><strong>发言人1: </strong></span>
-那有没有什么事是大家觉得说没啥问题，就跟我们刚才讲的说大家都是凑一波，对吧？红绿灯的时候凑一波，管他红绿灯的，反正我就走了，对吧？有没有类似这种事儿？我就想到说之前有一些案子，就是比较大家觉得说好像没那么大条，但实际上很大条的就掏鸟蛋。大家觉得说掏个鸟蛋对吧，有啥对吧？谁知道就是你一掏，其实就是一个国家一级二级保护动物，那你掏完之后肯定就进去了。现在动物比人贵，对吧？然后麻雀现在也是不能乱打的，所以说这种事儿就跟刚才一笑讲的，说这个事儿是触犯法律的，但很多人不知道。那我不确定说在公司层面上面有没有类似。
-</p>
-<p class="transcript-line">
-<span class="time"><strong>[00:38:46]</strong> </span>
-<span class="speaker"><strong>发言人3: </strong></span>
-这种是其实你说像掏鸟蛋这种事儿，让所有人都知道说这个东西是一个二级保护动物，对吧？然后你不能涛，我觉得也不现实，肯定是这个你就算普法普的再厉害，你也不可能浦到这个程度说我还认识这个鸟蛋。然后我觉得这个在欧美法系里面，因为它是那种判例加上陪审团的制度，这个我觉得相对来说会在这种情况下会好一点。因为大家都会知道说，你这个其实比较情有可原，对吧？那就稍微轻判一下，或者说就算了也都是有可能的。但在大陆法系里面，反正就是法条是怎么样就怎么样，就严格按照法条来，就会导致这个事儿就真的会变成大事儿。
-</p>
-<p class="transcript-line">
-<span class="time"><strong>[00:39:27]</strong> </span>
-<span class="speaker"><strong>发言人3: </strong></span>
-但是我觉得这个怎么说呢？现在其实也是有倾向说再更加的灵活一点，就像你说的这个二级保护动物，我就之前有两个卖鹦鹉的案子挺有名的，反正有一个哥们儿是拿了一批鹦鹉来卖。然后这批鹦鹉其实是养殖的，它不是野生的。但这批鹦鹉里面有几只，好像有四十多只，还是怎么着，是国家二级保护动物，然后就一开始被判了12年，他其实完全不知道，而且也不是野生的，因为这个所谓的国家保护动物，它是野生动物，你这个养殖的算不算，其实说不好。所以后来就二审改判了一个三年，然后缓期两年。那缓期两年的话，就你表现好一点，其实就基本上不用进去了。
-</p>
-<p class="transcript-line">
-<span class="time"><strong>[00:40:05]</strong> </span>
-<span class="speaker"><strong>发言人3: </strong></span>
-他这个一二审这个结果差异就比较大，主要原因一个就是被告人不知道。然后另外一个是他贩卖的是鹦鹉，是养殖的，不是野生的。所以从过程上他也没有造成太大的这个社会危害，因为他也没有去抓这些野生的，所以就是从这个危害程度上考虑也相对比较轻，最后就给轻判了。这个可以说就是有点不知者不罪的，酌情处理在里面。但是你说人多了就不醉这个事儿我觉得还是不成立的，就是不知者不罪。如果实际危害不是很大，那实际危害很大，肯定还是要处罚的那实际危害不是很大，因为给个警示教育确实是一个比较合理的处理方式，对吧？但如果你明知道是二级保护动物还是野生的那你这12年肯定就是跑不掉的。
-</p>
-<p class="transcript-line">
-<span class="time"><strong>[00:40:50]</strong> </span>
-<span class="speaker"><strong>发言人3: </strong></span>
-然后放到我们曾经工作的这个公司的场景下，我觉得比较典型的可能就是就比如说把组织架构或者某些人的联系方式给到外部。这种事儿我们应该都遇到过。就是有人跑来问你说，你们公司那个什么人能不能帮我联系一下，对吧？这种其实很多的，虽然这种一般在公司培训的时候也都会讲，但有的人确实真的也不觉得说是多大的事情。而且从实际来看，也确实经常有这么干的对吧？我觉得这种事儿特别多，一般没有造成什么后果，也确实不会有人追究。但如果真的造成了什么后果，像严重一点的，比如说把整个组织架构术泄露出去之后，然后被猎头挖了一堆人，那这种肯定还是会被处罚的。
-</p>
-<p class="transcript-line">
-<span class="time"><strong>[00:41:32]</strong> </span>
-<span class="speaker"><strong>发言人3: </strong></span>
-也包括说把公司内部资料或者机密信息泄露出去的。当然这里面大多是故意的，但也有因为无知而无意的典型的在程序员这个群体里面。就比如说把内部的密钥，服务器密码什么的？放在这个get仓库里面就提交到github上了。这种我们其实都遇到过。但对于无意导致的，其实一般我们也就是告诫一下，就算了也不会真的说要把它怎么样之类的。
-</p>
-<p class="transcript-line">
-<span class="time"><strong>[00:41:57]</strong> </span>
-<span class="speaker"><strong>发言人2: </strong></span>
-说到这个问题，我现在经常能够在网上看到一些那种缺乏这种法律常识的言论。我不知道你们有没有关注过，你们可以在那种抖音平台的评论区里面，其实经常都能够看到有一个抖音的视频，就可能那种引导性的视频。就是说我在离职的时，或者说特别是在被裁员的时候，因为现在裁员有蛮多的。他在裁员的时候被裁了过后，他说我要把我电脑中的我自己写的这些PPT，写的这些word文档，这些资料给他全部清空，都不交给公司了。反正觉得说这是一种好像我最后的挣扎的报复的行为。因为现在面对这种裁员，觉得都想通过这种方式去报复公司，或者报复老板了这样的一个情况。其实这种就你去看那个评论区，你就会发现很多很多人居然都有这样的想法。并且你看他们的对话能够看得出来，很多人都会觉得这是一件非常正常的事情，觉得这些东西都是我写的，我这个时候走了，难道把他删了不是一个很正常的事情，对吧？把电脑给清空了，把电脑还给公司。在国内还是有很大一部分的人有这样的一个思想，我觉得这个是非常危险的，其实这肯定是违法的。
-</p>
-<p class="transcript-line">
-<span class="time"><strong>[00:43:07]</strong> </span>
-<span class="speaker"><strong>发言人2: </strong></span>
-然后重点我想提一下，像这种工作上的资料。其实理论上你用公司的电脑去做副业，做兼职，做的成果其实他可能都不属于你自己的。这件事儿是很容易被我们自己所忽略的。
-</p>
-<p class="transcript-line">
-<span class="time"><strong>[00:43:23]</strong> </span>
-<span class="speaker"><strong>发言人2: </strong></span>
-我们往往有时候觉得说你拿公司的电脑拿去去干一个另外的一个事情。但如果被公司发现了，其实那件事情的成果就是你去打官司的话，他你自己不一定能赢的对，因为用公司的生产资源生产的东西，其实理论上它应该是属于企业的对对我们来说那就是程序员，大多时候在职场的时候就是用的公司的电脑。那你自己去做一个业余项目的话，其实很容易遇到这样的一个纠纷上的一个问题。对，很难和公司去脱离这样的一个关系。那只是因为大多数时候你自己去做的一个业余项目，可能你的项目也没有火，也没有和公司产生什么利益上的冲突。公司如果真的要来追这种责任，然后成本又挺高的。所以说就没有发现太多这样的一个案例。
-</p>
-<p class="transcript-line">
-<span class="time"><strong>[00:44:09]</strong> </span>
-<span class="speaker"><strong>发言人2: </strong></span>
-但实际上比如说像著名的N加X其实就扯上过类似的这样的一个麻烦。因为大家看一下NGX的开发者一个的历史的话就知道，他其实当时是在俄罗斯的一家公司做运维管理，是一个运维工程师。他其实就是在运维管理的过程当中写了N加X因为他觉得说以前的那些web server都不够好啊。然后他利用他自己的运维经验，觉得说应该做一个更好的，所以说就做了这样的一个。最后在NGX就像我说的，他这个项目变得越来越有名，并且产生了很大的利益过后，那原公司其实是提起过诉讼这件事儿。当然最终没有成功。所以我觉得这是我们所有的程序员都应该注意的一个很容易被大家忽略的点对对。
-</p>
-<p class="transcript-line">
-<span class="time"><strong>[00:44:56]</strong> </span>
-<span class="speaker"><strong>发言人1: </strong></span>
-上大学的时候我还考过软考，软考里面他讲的一个内容，我觉得我现在还记忆犹新。就是只要你在工作期间做的所有事情，最终都是属于公司的，这是软考里面的一个考题。对，这个我还记得。如果你知道这件事的话，你就不会去做，你就不会去干类似这样的事情。
-</p>
-<p class="transcript-line">
-<span class="time"><strong>[00:45:13]</strong> </span>
-<span class="speaker"><strong>发言人1: </strong></span>
-对，还有一个就是刚才归讲的那个猎头去抓那个组织树的这个事儿。因为这个事儿其实前两天也有一个很重的一个事件，就是奇安信。奇安信其实是用3 60分出来的一个专门做企业安全的。然后齐安信的齐向东然后告了一个猎头，就是那个猎头。因为他透过内部人员拍照，各种方式抓组织树。现在说是上海闵行公安对那个猎头进行犯罪抓捕，透过抓捕的手段，包括还已经没收了他的犯罪材料，比如说他的手机，他的笔记本等等之类的，现在已经移交检察院了。
-</p>
-<p class="transcript-line">
-<span class="time"><strong>[00:45:50]</strong> </span>
-<span class="speaker"><strong>发言人1: </strong></span>
-对，就大家觉得说好像把一个公司里面的组织数扒下来好像没什么。但其实这个东西也是我们讲齐安信的一个核心资产之一了，对吧？因为这里面都是他。人员。
-</p>
-<p class="transcript-line">
-<span class="time"><strong>[00:46:01]</strong> </span>
-<span class="speaker"><strong>发言人1: </strong></span>
-现在整个这个案件移交到检察院之后，那个猎头就是在自己的朋友圈里面发言说齐总你能不能饶了我。我不知道他到底知不知道这个事儿是犯法的那假如他知道这个事是犯法的，其实这样子去求情，对于齐强东来讲，他这个事是一定要办的。因为就刚才像鬼鬼讲的，说他一定要让这个事儿形成一个判例，然后大家以后就不敢做类似相关的事儿。
-</p>
-<p class="transcript-line">
-<span class="time"><strong>[00:46:22]</strong> </span>
-<span class="speaker"><strong>发言人1: </strong></span>
-对我觉得齐向东应该是不会服软的对，但我觉得这个事儿也是一个挺典型的案例。我估计可能他十有八九不知道说这个事儿会这么严重，对吧？甚至会跨省抓捕。
-</p>
-<p class="transcript-line">
-<span class="time"><strong>[00:46:32]</strong> </span>
-<span class="speaker"><strong>发言人1: </strong></span>
-对我觉得这个事儿也是一个我们讲法律是淡薄的一个很明显的一个点。那我是觉得说我们现在从学生时代走到上班之后，因为我们今天讲的填某，他本身其实还没有正式工作，他其实属于是实习，对吧？我觉得从开始上班的第一件事儿就是得知道要公私分明。我们以前在学校的时候，其实是没人给你强调这种意识的。你真到企业去之后，如果你不转变的话，是真的挺容易犯错误的。我们一直都在讲说自己在上学的时候有学生思维，那你这种学生思维如果不转变的话，你轻一点的话，比如说没有像田某这么严重，你可能转正不通过，你可能第一年年度绩效3.25重一点的话，你真的就触犯法律了。对，而且我觉得像我们科技行业，就真的是凡走过必留下痕迹的。你千万别心存侥幸，觉得说我自己偷偷摸摸干了一个这个事儿，然后没有被别人发现。
-</p>
-<p class="transcript-line">
-<span class="time"><strong>[00:47:22]</strong> </span>
-<span class="speaker"><strong>发言人1: </strong></span>
-那links权限系统设计的，我觉得天衣无缝，就想找到你还是挺容易的对。然后你别总觉得说自己心存侥幸，到时候真的每天把自己搞得提心吊胆，就真的我觉得没必要。对，字节这个事儿就800万这个故事，我觉得对当事人跟学校其实都有非常坏的影响，对于字节也造成了很大的损失。我其实在这里也是衷心希望说，未来真的不要再出现类似的事件了，也希望大家都能把心思用在创新上啊不要用在内部的防控上，对吧？内部防小人其实成本是很高的对，大家都能做到说简单可依赖，每个人都纯粹一点，行业也会更好。好的，那我们本期节目就先到这里。如果你对本期节目有什么想法，欢迎在小宇宙评论区给我们留言讨论。我们下期再见吧。
-</p>
-<p class="transcript-line">
-<span class="time"><strong>[00:48:07]</strong> </span>
-<span class="speaker"><strong>发言人3: </strong></span>
-拜拜。
-</p>
-<p class="transcript-line">
-<span class="time"><strong>[00:48:09]</strong> </span>
-<span class="speaker"><strong>发言人1: </strong></span>
-以上就是我们本期播客的全部内容，感谢大家收听，也欢迎大家踊跃留言。如果你喜欢我们，欢迎点赞并分享给感兴趣的朋友。如果你在用苹果播客收听，也希望你花几秒钟给我们一个好评。这会让更多的人了解到我们要是能再点击一下订阅，那就再好不过了。我们下周见。
-</p>]]></content:encoded>
-            <pubDate>Tue, 03 Dec 2024 22:00:00 GMT</pubDate>
-            <guid>674f227f17cd5416ad356130</guid>
         </item>
     </channel>
 </rss>
