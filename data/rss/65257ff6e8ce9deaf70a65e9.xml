@@ -4,7 +4,1000 @@
         <title>人民公园说AI</title>
         <link>https://www.xiaoyuzhoufm.com/podcast/65257ff6e8ce9deaf70a65e9</link>
         <description>快谈AI莫相笑，慢更诸君思我狂！</description>
-        <lastBuildDate>Mon, 03 Nov 2025 00:13:39 +0800</lastBuildDate>
+        <lastBuildDate>Tue, 04 Nov 2025 04:38:35 +0800</lastBuildDate>
+        <item>
+            <title>特斯拉世界模拟器来了｜1天学习人类500年驾驶经验，但它能帮马斯克破局吗？</title>
+            <link>https://www.xiaoyuzhoufm.com/episode/6905f2d648dbe0eb56e94aa5</link>
+            <description>最近特斯拉公布了一个完全由AI驱动的“世界模拟器”，准备向天再借五百年！在这个虚拟世界里，FSD可以不分昼夜、7*24小时地“打怪升级”，来经历人类司机可能 500年才能遇到的所有极端问题。且擎天柱可共用同款“大脑”！但问题是，特斯拉的利润暴跌近40%，卖车这条路讲不懂动故事了 ，而被马斯克吹上天的“擎天柱”机器人，也因为“手部”技术难题，2025年的量产计划一再下调 。那么！这个世界“世界模拟器”，会不会是特斯拉 未来增长的胜负盘呢？这期视频，我们就来一口气说清楚！
+00:00:00 AI一天能学人类500年？
+00:03:00 1亿倍压缩是如何实现的？
+00:04:14 FSD如何预判二阶效应？
+00:06:22 端到端真的比模块化更好吗？
+00:08:57 端到端的“不信任”问题在哪？
+00:10:00 AI的“黑盒”问题无解吗？
+00:12:46 世界模拟器是什么？
+00:14:20 最终还是回到了数据量大？
+00:16:14 擎天柱现在还拧不好螺丝？
+00:20:46 AI大脑能迁移给机器人吗？
+00:25:42 用车企利润养AI公司可行吗？
+00:33:43 马斯克的万亿薪酬包是噱头吗？
+00:35:19 没马斯克的特斯拉会怎样？
+00:38:54 马斯克为何怒喷Altman？
+00:41:11 你会投票同意万亿薪酬吗？
+00:42:24 为何还是要赌创始人？
+【订阅JustSayAI早晚报】
+🌈新朋友！订阅「JustSayAI早晚报」· 每日两封 · 一键听报
+🌟老朋友！加入会员获取JustSayAI早晚报+深度研报+文字专栏
+【主播小红书】：
+📕叫我小苏就好啊
+【关注频道】：
+▶️Youtube｜📺B站｜📕小红书｜📻Podcast
+📱商务合作/听友群：justsayai666</description>
+            <content:encoded><![CDATA[<h1>转写链接</h1>
+<link>https://tongyi.aliyun.com/efficiency/doc/transcripts/372e9oykvooknxb6</link><br>
+<h1>节目摘要</h1>
+<div class="summary">讨论者们集中讨论了特斯拉在人工智能和自动驾驶领域的创新及其未来发展。特别强调了特斯拉通过处理大量数据和端到端学习实现高效决策的能力，如在湿滑路面预判减速避免事故，展示了其技术实力。此外，还探讨了特斯拉的机器人项目“擎天柱”的潜力及其对特斯拉未来的影响。尽管面临高研发成本和市场不确定性，讨论者们对特斯拉的技术革新和市场策略持乐观态度，认为其在自动驾驶和AI领域的进展可能使其持续前行。同时，讨论也触及了若创始人离开，特斯拉能否保持当前发展路径及其对未来可能造成的影响。整体上，对话反映了对特斯拉技术潜力和市场地位的信心，同时也认识到公司面临的挑战。</div><br>
+<h1>章节速览</h1>
+<div class="chapters">
+<div class="chapter-item">
+<span class="time"><strong>[00:00:00]</strong> </span>
+<span class="chapter-title"><strong>特斯拉AI驾驶技术突破与未来展望</strong></span>
+<div class="chapter-summary">特斯拉的AI系统通过端到端的神经网络处理，实现了一秒处理20亿个token的高效能，大幅压缩输出至两个token，用于车辆转向和加速控制。这一技术突破不仅体现在robot taxi的实际路测，还包括车辆自主交付至车主家中的常态化应用，标志着AI驾驶技术从实验室到实际场景的重大进展。此外，讨论了特斯拉若失去关键人物可能面临的挑战，强调了当前技术成就的重要性。</div>
+</div>
+<div class="chapter-item">
+<span class="time"><strong>[00:03:56]</strong> </span>
+<span class="chapter-title"><strong>AI预判能力超越人类，FSD展现防御型驾驶</strong></span>
+<div class="chapter-summary">对话讨论了AI在驾驶安全上的突破，特别是FSD系统在面对湿滑路面车辆打滑时，能够预判二阶效应，即提前计算并避免可能的连锁碰撞事故。这一能力超越了人类驾驶员的反应速度和判断准确性，展示了AI在防御型驾驶上的潜力。通过海量数据训练，AI系统能够更早地识别风险，采取预防措施，从而在复杂路况下提供更高的行车安全。</div>
+</div>
+<div class="chapter-item">
+<span class="time"><strong>[00:06:16]</strong> </span>
+<span class="chapter-title"><strong>端到端与模块化在智能车中的优劣对比</strong></span>
+<div class="chapter-summary">讨论了端到端和模块化两种方法在电动车或智能车模式中的应用。端到端方法能有效处理数据异常，减少错误累积，但存在黑盒问题，难以解释决策过程。相比之下，模块化虽更符合安全规范，但在信息传递中易产生衰减，且错误回溯复杂。两种方法各有优劣，选择时需考虑实际应用效果与人类驾驶相比的事故率降低。</div>
+</div>
+<div class="chapter-item">
+<span class="time"><strong>[00:12:03]</strong> </span>
+<span class="chapter-title"><strong>自动驾驶技术的发展与模拟训练的重要性</strong></span>
+<div class="chapter-summary">对话围绕自动驾驶技术展开，重点讨论了通过模拟器进行实时生成环境训练的潜力，以及与传统预定义规则相比的优势。提到未来可能实现完全自动驾驶，强调数据量大和简单算法的重要性，以及将智能压缩至较小模型的趋势。尽管存在不可解释性等缺点，但方向被认为是正确的，有突破的机会。</div>
+</div>
+<div class="chapter-item">
+<span class="time"><strong>[00:15:45]</strong> </span>
+<span class="chapter-title"><strong>特斯拉财报与未来故事：增长风险与股价支撑</strong></span>
+<div class="chapter-summary">讨论围绕特斯拉第三季度财报表现不佳，净利润大幅下滑，但股价维持高位的现象。分析认为，市场对特斯拉未来故事的相信，即通过卖车收集数据训练AI大脑，推动擎天柱机器人和火星计划，是支撑股价的关键。同时，指出当前面临的风险，如工厂生产问题、外车可持续性及与特朗普关系的不确定性，但市场似乎更看好其长期愿景。</div>
+</div>
+<div class="chapter-item">
+<span class="time"><strong>[00:18:21]</strong> </span>
+<span class="chapter-title"><strong>特斯拉的高估值与未来发展之路</strong></span>
+<div class="chapter-summary">对话围绕特斯拉的高市盈率及其未来发展方向展开，讨论了特斯拉选择视觉而非激光雷达路线的原因，以及这一决策背后的运气与策略。提到特斯拉在产能和政策支持下的关键生存期，以及其在AI大脑和机器人技术上的投入与成果。同时，对话也表达了对特斯拉未来烧钱项目如机器人生产的担忧，尤其是无缝迁移至实际生产环境的挑战。</div>
+</div>
+<div class="chapter-item">
+<span class="time"><strong>[00:22:36]</strong> </span>
+<span class="chapter-title"><strong>AI会员频道上线与机器人市场挑战</strong></span>
+<div class="chapter-summary">上线的AI会员频道提供多种会员权益，包括AI语音播报、深度研究报告等，鼓励用户订阅并提供反馈以持续迭代产品。同时，讨论了机器人市场面临的挑战，如商用场景不明、投入巨大及技术验证不足，导致项目进展受阻。</div>
+</div>
+<div class="chapter-item">
+<span class="time"><strong>[00:25:21]</strong> </span>
+<span class="chapter-title"><strong>AI与机器人工程的复杂性及车企转型挑战</strong></span>
+<div class="chapter-summary">讨论了AI在机器人工程中的局限性，指出机器人是复杂综合工程，AI仅解决部分问题。车企用净利润养AI公司存在风险，与成熟AI公司的高净利润率形成对比。机器人领域如robot taxi面临法规和技术挑战，尚处于试验阶段，需克服前沿性与公众接受度的矛盾。</div>
+</div>
+<div class="chapter-item">
+<span class="time"><strong>[00:27:24]</strong> </span>
+<span class="chapter-title"><strong>机器人手部技术挑战与未来展望</strong></span>
+<div class="chapter-summary">讨论了机器人手部技术在工程学上的复杂性，强调了模仿人类手部使用工具的重要性。指出当前技术瓶颈在于模型数据不足及泛化能力弱，需大量高质量数据支持。对比自动驾驶车辆的成熟度，机器人技术仍需在具体场景应用与数据收集上取得突破，预计量产尚需时日。</div>
+</div>
+<div class="chapter-item">
+<span class="time"><strong>[00:32:47]</strong> </span>
+<span class="chapter-title"><strong>特斯拉薪酬争议与公司未来走向</strong></span>
+<div class="chapter-summary">对话围绕特斯拉CEO提出的1万亿薪酬包展开讨论，分析了该薪酬包对公司估值及未来发展的影响。一方认为，若马斯克未获此薪酬包，可能离开特斯拉，导致公司估值大幅下降，创新受阻；另一方则认为，特斯拉有潜力在没有马斯克的情况下继续发展，但创新力可能减弱。双方还探讨了特斯拉作为智能车企的长期盈利能力及未来发展方向。</div>
+</div>
+<div class="chapter-item">
+<span class="time"><strong>[00:38:24]</strong> </span>
+<span class="chapter-title"><strong>特斯拉与马斯克：专注、逐利与领导力的探讨</strong></span>
+<div class="chapter-summary">讨论了特斯拉在马斯克领导下可能存在的专注度问题及个人逐利行为，分析了创始人精神对公司的影响，提出马斯克作为董事长而非CEO的构想，强调创始人对公司的持续影响力，并探讨了特斯拉未来发展方向与领导结构调整的可能性。</div>
+</div>
+<div class="chapter-item">
+<span class="time"><strong>[00:43:33]</strong> </span>
+<span class="chapter-title"><strong>特斯拉与马斯克：创新、风险与未来</strong></span>
+<div class="chapter-summary">讨论了特斯拉在马斯克领导下，通过颠覆性创新引领行业，同时也面临巨大风险。强调了自动驾驶技术的潜力与挑战，以及马斯克作为创业者所承担的重压和选择的艰难道路。提及了特斯拉与苹果的不同发展路径，以及未来可能的变化。</div>
+</div>
+</div><br>
+<h1>问题回顾</h1>
+<div class="qa-item">
+<div class="question"><strong>Q:</strong> 如果特斯拉的AI一天就能学习相当于人类500年的驾驶经验，你觉得这是否意味着离通用人工智能还很遥远？</div>
+<div class="answer"><strong>A:</strong> 这个问题的关键在于，500年驾驶经验所强调的是学习速度和量大，而非传统意义上的所有经验。特斯拉通过神经网络训练车辆，今年在技术上取得了突破，实现了端到端的实时处理能力，即在一秒钟内处理20亿个token，并将其压缩为两个token来控制车辆转向和加速。这种高效的信息处理能力是当前阶段的重要进展。</div>
+</div>
+<div class="qa-item">
+<div class="question"><strong>Q:</strong> 特斯拉的1万亿薪酬包对马斯克有何影响，如果未能获得此薪酬包会怎样？</div>
+<div class="answer"><strong>A:</strong> 特斯拉提出给马斯克一个1万亿薪酬包，并将在下个月初进行投票。如果马斯克离开特斯拉，将对特斯拉未来发展产生未知影响。</div>
+</div>
+<div class="qa-item">
+<div class="question"><strong>Q:</strong> 世界模拟器是什么？</div>
+<div class="answer"><strong>A:</strong> 世界模拟器是关于特斯拉AI学习和处理大量数据以模拟真实驾驶环境的概念，其训练车辆的技术基于神经网络，今年已经取得了显著的进步，特别是在处理速度和效率上达到了新的里程碑。</div>
+</div>
+<div class="qa-item">
+<div class="question"><strong>Q:</strong> 特斯拉在实现端到端应用上有哪些重要突破？端到端的核心技术具体是如何运作的？</div>
+<div class="answer"><strong>A:</strong> 特斯拉在今年有两个重大突破：一是robot taxi已经在实际道路中运行；二是交付车辆时，车辆能自动开到车主家中，以及车辆在工厂间的自主运输。这些常态化的应用证明了他们的技术已经从实验室阶段迈向实际应用。端到端的核心是能够在一秒内处理20亿个token，将所有输入信息（如视频、音频、传感器数据等）压缩到两个token输出，这两个token分别决定车辆的方向和速度调整。这种极致总结能力使得系统能在极短时间内做出精准决策。</div>
+</div>
+<div class="qa-item">
+<div class="question"><strong>Q:</strong> 为什么端到端的方法相较于模块化方式更适合电动车或智能车领域？</div>
+<div class="answer"><strong>A:</strong> 端到端方法的优势在于能够整合所有数据，在一个模型中进行统一处理，从而避免了模块化方式中信息传递过程中可能出现的问题和错误累积。当遇到异常情况时，端到端模型可以追溯原始数据进行重新加工和判断，而模块化模式则较难实现这样的实时校准和优化。不过，端到端方法在压缩大量信息的同时可能会面临不信任的问题，即经过高度压缩后的决策可能存在较大不确定性。</div>
+</div>
+<div class="qa-item">
+<div class="question"><strong>Q:</strong> 压缩即智能这个观点中，当压缩到一定程度时，是否会遇到无法解释模型运作的黑盒问题？</div>
+<div class="answer"><strong>A:</strong> 是的，压缩到一定程度确实存在这样的问题。例如，在处理21到21个token到两个token的压缩时，解释其运作原理会非常困难。</div>
+</div>
+<div class="qa-item">
+<div class="question"><strong>Q:</strong> 在大模型领域中，是否存在部分神经层无法被人类理解其运作机制的情况？</div>
+<div class="answer"><strong>A:</strong> 是的，在大模型领域中，确实存在很多神经层我们无法完全解释其运作过程，这是目前存在的一个普遍问题。尽管如此，像SO pic的cloud这样的安全团队会通过模拟黑盒行为，以输出结果的一致性来验证模型的可靠性。</div>
+</div>
+<div class="qa-item">
+<div class="question"><strong>Q:</strong> 对于模型的不透明性，是否存在某种程度上的灰色地带，即部分决策是可以回溯和理解的？</div>
+<div class="answer"><strong>A:</strong> 是的，现在的技术可以做到在关键执行和决策环节实现一定程度的灰盒透明度，虽然无法达到白盒的程度，但已能观察到模型的部分思考过程。</div>
+</div>
+<div class="qa-item">
+<div class="question"><strong>Q:</strong> 如何看待工具或产品的正确性与改进后性能之间的权衡？</div>
+<div class="answer"><strong>A:</strong> 重要的是工具或产品的性能提升能够超过人类原有的使用效果，即使存在一定的错误率，只要整体表现优于人类，就值得考虑采用。</div>
+</div>
+<div class="qa-item">
+<div class="question"><strong>Q:</strong> 世界模型在训练自动驾驶等技术中扮演了什么角色？在推动自动驾驶技术的发展上，数据量的重要性体现在何处？</div>
+<div class="answer"><strong>A:</strong> 世界模型扮演了基于真实数据实时生成虚拟环境的角色，通过模拟现实世界的各种情况，帮助AI系统学习和理解复杂的驾驶场景。数据量对于自动驾驶技术至关重要，因为大模型通过大量的数据训练，能够在边缘AI上实现快速、高效的决策，这正是实现自动驾驶技术进步的关键。</div>
+</div>
+<div class="qa-item">
+<div class="question"><strong>Q:</strong> 对于特斯拉目前的财报表现不佳，但股价仍维持高位的现象，您怎么看？</div>
+<div class="answer"><strong>A:</strong> 这是一个很好的问题，大家需要相信特斯拉的故事能够继续讲下去。尽管特斯拉净利润下滑，且存在一些外部因素带来的不确定性，但目前市场似乎仍对其未来持有信心，愿意为此高估值。</div>
+</div>
+<div class="qa-item">
+<div class="question"><strong>Q:</strong> 公司之前为何没有选择使用英伟达等专业公司的解决方案，而是自研？</div>
+<div class="answer"><strong>A:</strong> 因为自研可以避免随着技术进步，计算平台被淘汰后，需要频繁更换设备的情况。当超算不再需要时，可以选择更高效的硬件，如英伟达的产品，或者外包给专门的公司完成相关技术研发。</div>
+</div>
+<div class="qa-item">
+<div class="question"><strong>Q:</strong> 这个公司在视觉这条路上经历了哪些波折，目前进展如何？</div>
+<div class="answer"><strong>A:</strong> 公司经历了许多波折，但自从选择了视觉这条路后，尽管成本投入大且初期结果并非最佳，但仍展现出足够的想象力。目前通过实验模型和神经网络训练，已经能够在机器人身上取得一定成果，方向上是可行的，但也存在不确定性，尤其是在生产环境的应用上还有很大挑战。</div>
+</div>
+<div class="qa-item">
+<div class="question"><strong>Q:</strong> 对于将现有技术无缝迁移到擎天柱（机器人）产品上的想法，您怎么看？</div>
+<div class="answer"><strong>A:</strong> 不认为能实现无缝迁移，两者差异巨大，不只是产品形态的不同，而是涉及到控制系统、执行机构等方面的重大改变，这条沟壑非常深，需要克服很多技术难题。</div>
+</div>
+<div class="qa-item">
+<div class="question"><strong>Q:</strong> 公司现在的发展状况如何，尤其是在机器人项目的推进上有哪些困难？</div>
+<div class="answer"><strong>A:</strong> 公司正面临巨大挑战，尤其是机器人项目上，由于技术、市场和资金等方面的不确定性，尤其是机器人领域的技术和商业模式尚未被充分验证，导致故事在机器人环节出现了断裂。</div>
+</div>
+<div class="qa-item">
+<div class="question"><strong>Q:</strong> 为何将车企净利润用于支持AI和机器人公司的运营是一件很不寻常的事情？</div>
+<div class="answer"><strong>A:</strong> 这确实是一个很不寻常的做法，因为制造业车企的净利润相对较低，而像微软、Meta等科技公司的利润率远高于汽车企业。用制造业的净利润来养AI和机器人公司，在财务和市场角度看都是相当冒险的做法，而且也限制了汽车企业的未来发展空间。</div>
+</div>
+<div class="qa-item">
+<div class="question"><strong>Q:</strong> 马斯克在解决机器人技术难题上是否有可能采用妥协方案，比如使用普通机械臂或减少手指数量？</div>
+<div class="answer"><strong>A:</strong> 是的，很多公司包括波士顿动力公司在内，在研发类人机器人时都面临困难，最终会选择妥协，比如采用三根手指而非五根手指，并尝试通过其他折中方案来解决问题。</div>
+</div>
+<div class="qa-item">
+<div class="question"><strong>Q:</strong> 对于马斯克提到的基于第一性原理来设计接近人使用的工具，您觉得他能否实现这一目标？</div>
+<div class="answer"><strong>A:</strong> 马斯克目前面临量产问题，如果不能按照第一性原理找到解决方案，可能会被迫采取折中办法。尽管这很难，但相信他会想出办法。</div>
+</div>
+<div class="qa-item">
+<div class="question"><strong>Q:</strong> 国内对于机器人技术瓶颈的看法是什么？</div>
+<div class="answer"><strong>A:</strong> 国内一些专家如王欣欣等人认为，硬件并非瓶颈，真正的瓶颈在于架构和模型数据。现有的数据量不足以构建能在机器人上产生智能的压缩模型，且数据质量参差不齐，无法泛化应用到日常生活中的各种指令场景中。</div>
+</div>
+<div class="qa-item">
+<div class="question"><strong>Q:</strong> 机器人在数据收集和有效数据提取方面存在哪些挑战？</div>
+<div class="answer"><strong>A:</strong> 机器人要实现智能，第一步是需要采集大量且有效的高质量数据，然后从中提取有用信息。这与自动驾驶车辆积累的高质量驾驶数据不同，机器人在特定场景和解决问题的能力上还有待明确和提升。</div>
+</div>
+<div class="qa-item">
+<div class="question"><strong>Q:</strong> 马斯克提出的1万亿薪酬包是否会成为其留在特斯拉的关键因素？</div>
+<div class="answer"><strong>A:</strong> 马斯克是否获得这个薪酬包将直接影响其在特斯拉的决策权和投入程度。如果投票否决，马斯克可能会离开特斯拉专注于SpaceX和XAI项目。这引发了关于特斯拉未来走向的战略选择问题，以及马斯克个人影响力对特斯拉长期发展的支撑作用。</div>
+</div>
+<div class="qa-item">
+<div class="question"><strong>Q:</strong> 如果马斯克离开特斯拉，特斯拉会怎样？</div>
+<div class="answer"><strong>A:</strong> 若马斯克离开，特斯拉可能会像苹果那样依靠职业经理人维持运营，但在创新上可能会遇到较大困难。特斯拉目前依赖稳定的现金流，但也有其他潜在的收入来源，如能源储备、FSD订阅等，支撑其长期发展。然而，马斯克的个人影响力和资源网络对特斯拉估值的持续上升起到了重要作用。</div>
+</div>
+<div class="qa-item">
+<div class="question"><strong>Q:</strong> 特斯拉若不依赖马斯克式的创新，能否保持稳定发展？</div>
+<div class="answer"><strong>A:</strong> 即使没有马斯克式的创新，特斯拉仍有可能通过回归主业，减少数字化复杂度，加强供应链管理等方式实现稳定且有盈利的增长，只是这样的发展路径可能与马斯克主导下的特斯拉有所不同。</div>
+</div>
+<div class="qa-item">
+<div class="question"><strong>Q:</strong> 马斯克离开后，特斯拉会怎样？创始人精神缺失对特斯拉的影响是什么？</div>
+<div class="answer"><strong>A:</strong> 如果马斯克离开了特斯拉，从个人角度看，特斯拉可能会失去很多创新和突破的动力，但公司仍有可能继续运营并实现稳定增长。不过，特斯拉可能会失去一些其独特的竞争优势和技术路线的极端性。创始人精神缺失可能导致特斯拉公司变得官僚化，产品可能不再极致，技术路线也可能不够极端。但若从商业角度看，如果有人有信心接手并能够维持特斯拉的品牌价值，也未尝不是一个勇敢的选择。</div>
+</div>
+<div class="qa-item">
+<div class="question"><strong>Q:</strong> 对于马斯克提出的1万亿薪酬包，股东会投票应如何决策？</div>
+<div class="answer"><strong>A:</strong> 有股东认为应该让马斯克担任董事长而非CEO，并在业务上有介入和话语权，但不完全控制公司运营，让专业人员来管理特斯拉的具体事务，而马斯克更多关注创新和战略层面。</div>
+</div>
+<div class="qa-item">
+<div class="question"><strong>Q:</strong> 如果手中股票能转换为股东会投票权，会投赞成还是反对票？</div>
+<div class="answer"><strong>A:</strong> 多数人表示会投赞成票，因为他们相信马斯克的个人能力和影响力，即使他在公司中的具体职位不是CEO，也能通过其他方式发挥关键作用。</div>
+</div>
+<div class="qa-item">
+<div class="question"><strong>Q:</strong> 创业者面对类似特斯拉的挑战时，应该如何应对？</div>
+<div class="answer"><strong>A:</strong> 创业者应当像马斯克一样有赌的决心和坚持，敢于挑战现状，即使面临巨大困难也要不断尝试和创新，即使在看似无趣的传统行业如苹果那样，也需要有打破常规的勇气和智慧。</div>
+</div>
+<h1>节目文稿</h1>
+<p class="transcript-line">
+<span class="time"><strong>[00:00:00]</strong> </span>
+<span class="speaker"><strong>发言人1: </strong></span>
+如果我告诉你，特斯拉的AI一天就能够学习人类500年的驾驶经验，你觉得离通用人工智能还遥远吗？
+</p>
+<p class="transcript-line">
+<span class="time"><strong>[00:00:08]</strong> </span>
+<span class="speaker"><strong>发言人2: </strong></span>
+他现在讲的这个端到端的一个极致的总结，就是从一个输入端所有东西输进去，一秒之内可以处理到20亿个token这么大。然后输出只有两个token，低一倍的压缩。这两个token搞两件事情，一个是车的转向往哪里转，第二个是车要加速加多少。
+</p>
+<p class="transcript-line">
+<span class="time"><strong>[00:00:22]</strong> </span>
+<span class="speaker"><strong>发言人3: </strong></span>
+特斯拉曾提出了一个1万亿的给马斯克的一个薪酬包，下个月初再去投票，更明确的就是表示说如果没有拿到这个薪酬包的话，就要离开特斯拉。你觉得如果真的没有马斯克的话，特斯拉还能往下走吗？
+</p>
+<p class="transcript-line">
+<span class="time"><strong>[00:00:43]</strong> </span>
+<span class="speaker"><strong>发言人1: </strong></span>
+首先我们把这个问题抛给老修换，他这个世界模拟器到底是什么东西？
+</p>
+<p class="transcript-line">
+<span class="time"><strong>[00:00:49]</strong> </span>
+<span class="speaker"><strong>发言人2: </strong></span>
+这个东西我觉得要顺着你开头讲的第一句话，什么叫做一天之内学习相当于人类500年驾驶时长的经验，一天顶人类500年，这个东西实际上讲起来就已经有很多面了。因为我想正常人大多数人都都会想到说500年，那不是相当于全部的经验。我看到这个相关的评论里最好玩的他是说，那你连马车时代的那个驾驶经验都学到了500年前。但其实他这个500年意思其实讲的是说一天学人类500年驾驶时长这个东西是才是关键，关键是它的量大，然后速度快，实际上是这样子的一个事情。它的世界模型实际上是基于这样子的一个神经网络去做的。最近他们的技术老哥是有专门出来讲了他们首席的技术这一块儿。他们实际上用神经网络去训练这个车是有好几年了，但是在今年才是真正的突破了，这个就是我们说的叫production。
+</p>
+<p class="transcript-line">
+<span class="time"><strong>[00:01:45]</strong> </span>
+<span class="speaker"><strong>发言人2: </strong></span>
+这个东西在今年的话，它其实有有两个很大的里程碑的事情。第一个实际上就是robot taxi，大家是知道的对吧？他已经在实际的路上在跑了。虽然说现在跑的少，然后还有一个看起来小，但是其实对他们而言是很重要的一个实践。就是交付车辆的时候是让车自己开到车主家里去的。但是他们实际上这个事情现在是常态化的。还有就是包括那个车，他需要从工厂，从这个工厂到那个工厂，也是车自己开的，这个东西不是被他们常态化了。这个事情其实是很深度的一个应用，就说明这个东西已经突破了以前在实验室里的一个状态。我想特别提一点是什么？就是从一个数据上看，以前他们也讲过很多东西都很难理解什么叫端到端。
+</p>
+<p class="transcript-line">
+<span class="time"><strong>[00:02:29]</strong> </span>
+<span class="speaker"><strong>发言人1: </strong></span>
+我们都讲的很抽象。
+</p>
+<p class="transcript-line">
+<span class="time"><strong>[00:02:31]</strong> </span>
+<span class="speaker"><strong>发言人2: </strong></span>
+对，就是你技术上听来听去，还是不懂什么叫端到端，就是听了还是挠头。我觉得说所有东西讲不清楚的时候，其实有很多的原因是因为可能还没在实际中拿到结果。他现在拿到的，他其实讲出来就特别的简单，就像以前open I的那个伊利亚说大模型就是预测下一个token一样，对吧？
+</p>
+<p class="transcript-line">
+<span class="time"><strong>[00:02:50]</strong> </span>
+<span class="speaker"><strong>发言人2: </strong></span>
+他现在讲的这个事情，端到端的核心就是我一秒钟可以处理21个token。从一个端进去，所有的模态，你的视频音频，还有你的各种的镜摄像头，所有的地图传感器全部都在这里面，反正一股脑全部给你那他在一秒之内就可以处理到20亿个token这么大。完了以后，它的输出也很简单，就两个token从20亿个token变成两个token，1亿倍的压缩出来两个token。这两个token搞两件事情，一个是车的转向往哪里转，第二个是车要加速加多少。就这两个事情就完全可以控制辆这辆车辆的那个行径了。所以它这个是一个极致的一个总结，就是从一个输入端所有东西输进去，然后输出只有两个token，1亿倍的压缩就这个事情。
+</p>
+<p class="transcript-line">
+<span class="time"><strong>[00:03:38]</strong> </span>
+<span class="speaker"><strong>发言人1: </strong></span>
+这里要配个表情包，一个字绝对就是。
+</p>
+<p class="transcript-line">
+<span class="time"><strong>[00:03:42]</strong> </span>
+<span class="speaker"><strong>发言人2: </strong></span>
+这个东西实在太绝了。那那这样的东西它是在一秒之内处理的，所以你可以去对应说，为什么他一天之内可以学相当于人类500年的驾驶经验呢？因为他一秒就可以处理这么多的东西。
+</p>
+<p class="transcript-line">
+<span class="time"><strong>[00:03:55]</strong> </span>
+<span class="speaker"><strong>发言人1: </strong></span>
+一秒20亿个token.
+</p>
+<p class="transcript-line">
+<span class="time"><strong>[00:03:56]</strong> </span>
+<span class="speaker"><strong>发言人2: </strong></span>
+20亿个token是非常吓人的一个量。对所以这些的话我觉得是这个模型应该说是这半年实际上是一个很大的突破。我觉得有两个例子特别值得分享，是超越人类的了。我觉得老司机也做不到这个一定得靠机器的。他叫做所谓预判二阶效应，就是老司机我们在开高速的时候，距离人家100米，实际上是一个安全距离。就是稍微前面出一个事情，差不多我们能反应过来的时间必须得离人家100米，不然就从速度上就已经撞到了。
+</p>
+<p class="transcript-line">
+<span class="time"><strong>[00:04:28]</strong> </span>
+<span class="speaker"><strong>发言人2: </strong></span>
+那他的话他讲的一个概念是说，他经过了这个训练之后，这个二阶效应的预判会非常强。比如说在那个湿滑的路面上前面的车有点打滑。那在这个情况下，我们如果自己开车一定是觉得有点打滑，我得跟他保持一个距离，保持个距离远一点就这样吧，对吧？这是正常的一个搞法。
+</p>
+<p class="transcript-line">
+<span class="time"><strong>[00:04:50]</strong> </span>
+<span class="speaker"><strong>发言人2: </strong></span>
+但是他看到的那个例子，这些例子大家可以到油管上去看啊，它是有放视频的那个实际的例子。然后这个实际的例子它就是在零点几秒的0.0点几秒的时间里面，这个FSD是判断到这个打滑是比较异常的。这个打滑的异常是它滑了之后会撞到旁边的那个高速护栏上，然后再反弹回来，把把我们的正在开的这辆车撞到。所以他这个事情就算的更早，他就会在事故发生前的5秒左右，他就开始减速了。他离这个车就非常。
+</p>
+<p class="transcript-line">
+<span class="time"><strong>[00:05:26]</strong> </span>
+<span class="speaker"><strong>发言人1: </strong></span>
+的莫名其妙。
+</p>
+<p class="transcript-line">
+<span class="time"><strong>[00:05:27]</strong> </span>
+<span class="speaker"><strong>发言人2: </strong></span>
+开始减速就莫名其妙。
+</p>
+<p class="transcript-line">
+<span class="time"><strong>[00:05:28]</strong> </span>
+<span class="speaker"><strong>发言人3: </strong></span>
+的防御型驾驶。对对对。
+</p>
+<p class="transcript-line">
+<span class="time"><strong>[00:05:30]</strong> </span>
+<span class="speaker"><strong>发言人2: </strong></span>
+就是防御型的驾驶。那这个东西他停了以后，别人那边撞了以后弹回来。如果你开的那么快，你肯定就被撞了。这个事情是传统系统完全没有办法判断的。这个事情就是给他这个。
+</p>
+<p class="transcript-line">
+<span class="time"><strong>[00:05:42]</strong> </span>
+<span class="speaker"><strong>发言人3: </strong></span>
+模块绝对海量的训练。
+</p>
+<p class="transcript-line">
+<span class="time"><strong>[00:05:44]</strong> </span>
+<span class="speaker"><strong>发言人2: </strong></span>
+对，做不到你海量的训练，其实这种情况下就是人类做人类的话也会减速，但是可能一个是没那么快，然后第二个就是还有就是人类有的时候也很难判断。有的时候人家滑一点点，你不会觉得有很大的问题，但是它机器会可以算得出来，他就是说他们的在端到端的这个FICD神经网络里面，他有看可以看到日志的。他看到日志的话，他当时计算出来的时候，他明确的知道这个不是简单的打滑，他就是能已经预判了他是有很高的风险。那这个的话就是进入了一个完全不同的一个判断的能力的水平去了。
+</p>
+<p class="transcript-line">
+<span class="time"><strong>[00:06:16]</strong> </span>
+<span class="speaker"><strong>发言人3: </strong></span>
+我感觉你解释了端到端这个事儿我也理解了。但是你觉得真的端这个东西真的说服你了吗？你觉得他就一定在现阶段会比这个模块化的这种方式更适合电动车或者说智能车的这种模式吗？
+</p>
+<p class="transcript-line">
+<span class="time"><strong>[00:06:32]</strong> </span>
+<span class="speaker"><strong>发言人2: </strong></span>
+这个我是觉得是更适合，为什么？以我现在粗浅的agent的大模型的编程经验来看，已经体会到一样的问题了。这里面其实有两个很重要的事情，就我们刚才讲的，它的那个就是从一端进来，把所有的数据喂给一个模型。
+</p>
+<p class="transcript-line">
+<span class="time"><strong>[00:06:48]</strong> </span>
+<span class="speaker"><strong>发言人2: </strong></span>
+这个事情的好处是非常有非常明显的，是在哪儿呢？就是你我们刚才说的模块化，从采集然后计划到执行，这至少已经三个模块了。实际上这里面还有无数的决策，对吧？对对对，长链条还有很长的链条。就你只说三大块的东西，那就已经就是三大块。但是是这里面有个问题，就是第一块假如就出了问题，他的那个信息他就出错了以后它会累积，它的错误会在每一步被累积，然后放大的很大。因为每一步拿到的时候都是假设前一步就已经是OK了，他不会再去看前一步处理过的数据。
+</p>
+<p class="transcript-line">
+<span class="time"><strong>[00:07:22]</strong> </span>
+<span class="speaker"><strong>发言人2: </strong></span>
+这个事情实际上很要命的。如果我是一个一个大的一个模型在处理所有的数据的时候，我发现采集的这个地方的数据有异常。我觉得我可能在判断那个规划的时候，我觉得这个很奇怪。那我可以拿到采集的原数据，我重新想一下你这里是不是你规划的时候算错了。然后我可以拿原数据重新再加工，但如果我是按模块化下来的话，我要撤回去。那这得做很多。
+</p>
+<p class="transcript-line">
+<span class="time"><strong>[00:07:48]</strong> </span>
+<span class="speaker"><strong>发言人1: </strong></span>
+的判断转化。第一个说老师牛逼，传到第四个老师放屁。
+</p>
+<p class="transcript-line">
+<span class="time"><strong>[00:07:52]</strong> </span>
+<span class="speaker"><strong>发言人2: </strong></span>
+对，然后就是你关键是传的过程中间有那么多的流程，你到底是在哪一步要回传回去检查这个事情是很困难的，就是你不知道到底在哪一步你要fall back回去检查。
+</p>
+<p class="transcript-line">
+<span class="time"><strong>[00:08:03]</strong> </span>
+<span class="speaker"><strong>发言人1: </strong></span>
+对，谁传说话了？
+</p>
+<p class="transcript-line">
+<span class="time"><strong>[00:08:04]</strong> </span>
+<span class="speaker"><strong>发言人2: </strong></span>
+对，就这就这一个东西就已经很就很要命。你说如果我是一个全，我相当于是全知的。我知道所有的原始数据，那我觉得不对的，我就可以返回去原始的数据我重新再加工。那这个事情实际上是差别很大的。因为我们自己在做一些小的这种产品，就都会发现这样的，我可能有500个数据源，那中间有几个数据源错了。我原来是按照规则做的，我我我要查到是哪个数据源出错了，还得还是要费很多劲的那其实后面要整成一个地方加工，他直接就知道是哪个地方错了，很快的很快就找到了。
+</p>
+<p class="transcript-line">
+<span class="time"><strong>[00:08:38]</strong> </span>
+<span class="speaker"><strong>发言人1: </strong></span>
+但是比如说我们传统模块化这种就是相对就不智能。也就是说他要求这种分工协作的情况下，像你刚才讲的信息会衰减。但是就是说他在各种方面来做的话，至少就符合更多的一些安全的规范，然后保障。对，但实际上到端就会遇到一个不信任的问题。也就是说他从每秒20亿个token的输入，然后到两个token的输出，这里面其实经过了非常大的压缩。
+</p>
+<p class="transcript-line">
+<span class="time"><strong>[00:09:10]</strong> </span>
+<span class="speaker"><strong>发言人2: </strong></span>
+极大的压缩极大。
+</p>
+<p class="transcript-line">
+<span class="time"><strong>[00:09:11]</strong> </span>
+<span class="speaker"><strong>发言人1: </strong></span>
+对，就我们上期节目也聊就是压缩即智能，对不对？压缩就是一个智能。贤哥举一个给我们举了一个小学谈恋爱的例子，对不对？对吧？我现在我记得我小学交过一个女朋友，但这个女朋友经过20年被我压缩了，这个记忆被我压缩了。在20年以后同学们就同学会见面的时候，我就把这个记忆解压了。原来这个初恋的味道是什么样，对吧？
+</p>
+<p class="transcript-line">
+<span class="time"><strong>[00:09:39]</strong> </span>
+<span class="speaker"><strong>发言人1: </strong></span>
+对，这个压缩机智能，对吧？但这个压缩会不会太夸张了？就是这个压缩到一定的程度，会不会说像你刚才讲，你是无法解释的。你像21到21个token到两个token，你怎么解释呢？这个其实就很困难的。
+</p>
+<p class="transcript-line">
+<span class="time"><strong>[00:09:55]</strong> </span>
+<span class="speaker"><strong>发言人2: </strong></span>
+这里就说了一体两面的问题，就是刚才我说的是有日志查缺点就是黑盒的问题。他有的神经网络是没办法有看得到里面到底怎么想。对，不是每一块都能看到，那我刚才讲的能看到的是因为是有关键的决策的那个部分是可看到的这也是他的一个核心技术。因为因为市面上这个问题是一直都有的，就是大模型不管说是我们现在语言模型，还是这种神经网络的这种模型，他的问题都是有有些神经层你完全无法解释他到底怎么运作的。在大模型领域做的最好的还是SO pic的cloud那个安全。他们就是我不懂你这个黑盒怎么回事，我就想办法造一个跟你黑盒一样的东西，用一样的输出去刺激他，输入去刺激它，然后看它的输出跟你这个是不是一样的，然后尽量把它两个黑盒调的同步，这样子所有的人类能想到的case先测一遍。那你这样子可以提前验证它到底行不行，但是为什么可以行？
+</p>
+<p class="transcript-line">
+<span class="time"><strong>[00:10:53]</strong> </span>
+<span class="speaker"><strong>发言人2: </strong></span>
+有的时候最后讲不清楚，所以这里面就总是还是差一层。他现在的话就是能做到说可能关键的这执行，然后那个判决策的这个地方基本上叫做灰盒。他没办法做到白盒，就是有有一定的可以看得出来他是怎么想的。可以回溯刚才说的优势是说他有所有的数据，他可以自己去搞定这个问题。
+</p>
+<p class="transcript-line">
+<span class="time"><strong>[00:11:15]</strong> </span>
+<span class="speaker"><strong>发言人2: </strong></span>
+但问题有的时候是你不知道他怎么想的，你总是会有信任问题，就是你不知道他有一些关键的决策到底是为什么这个时候他能够是这样决策，你还是不知道。所以这个是他的现在的局限。但是这里我是有一个我自己的想法是这样子。因为其实你任何的工具到最后我们讲的也不是说要百分之百这个工具或者产品的正确。他重要的是说比人类原来使用的时候更好，这可能就是可以考虑去使用的。就比如我人开车，我是一百，他有一个事故率，对吧？有个事故率，那他的事故率能比我低十倍甚至几十倍的话，他大家还是会犯错，但是我会选择你比我低的。因为实际上就是我开可能更容易出问题是吧，就这么个事情。
+</p>
+<p class="transcript-line">
+<span class="time"><strong>[00:12:03]</strong> </span>
+<span class="speaker"><strong>发言人1: </strong></span>
+但是可能就是比原本的传统的模块化，它会提早好多年更早到这种可能完全的自动驾驶，对吧？对，因为按我理解就是可能在以后的这种训练的时候，都都已经是直接从数据进来。然后在他这个模拟的世界模型里面去实现所有的数据的训练。那基本上就等于说我们练开车就是在那个电脑上面玩极品飞车，玩20年极品飞车，然后出去就会开。
+</p>
+<p class="transcript-line">
+<span class="time"><strong>[00:12:36]</strong> </span>
+<span class="speaker"><strong>发言人2: </strong></span>
+对，因为这个问题其实应该是衍生你最开始问的世界模型怎么样。其实世界模拟器这一块的话，就是你可以想象是刚才FSD的那个神经网络的更更大的几个神经网络搞出来的那搞出来以后，它的话就是最重要的是基于真实数据，是实时生成的。那个虚拟驾驶的这个环境是实时生成的。因为以这种模拟的东西大家肯定都知道，比如说驾驶飞机对吧？飞机是可能是最贵的飞机或什么，还有什么航天飞机这种对吧？就是越贵的东西它一定它都是有明确的要求。你必须得在那个虚拟的上面去开开满多少小时才能去真的机子上。
+</p>
+<p class="transcript-line">
+<span class="time"><strong>[00:13:16]</strong> </span>
+<span class="speaker"><strong>发言人1: </strong></span>
+开开过一次好贵，好几百块钱一次。
+</p>
+<p class="transcript-line">
+<span class="time"><strong>[00:13:19]</strong> </span>
+<span class="speaker"><strong>发言人2: </strong></span>
+开那个飞机。是的，但是他那边的话实际上他的世界还是预生成的，他有明确的缺点，就是他可能是某一个有某一个世界的一个快照，就是那一时刻的那个世界，那他没有办法根据你的动作做反馈，对吧？比如说你你你那个你真的你空中的我们不好说，地面上你肯定有很多东西碰到了是会有反馈的对吧？然后那个地面上面你可能开到泥地里，开到水池里面，开到什么雪地上，这完全是不一样的情况对吧？然后那你是多大的速度，多大的角度开进去的。如果是一个预制好的地方的话，它是没有办法完全跟你这个匹配的。但它是实时去生成的，然后它是带有物理的能力的，物理推理的能力的那它就可以很好的真正的去模拟真正的这个世界。
+</p>
+<p class="transcript-line">
+<span class="time"><strong>[00:14:09]</strong> </span>
+<span class="speaker"><strong>发言人1: </strong></span>
+他所以这个故事最重要的是车要多，车要量产，大要卖的多是的。
+</p>
+<p class="transcript-line">
+<span class="time"><strong>[00:14:15]</strong> </span>
+<span class="speaker"><strong>发言人2: </strong></span>
+所以他这个事情就又回到了我们之前提过很多次的强化学习之父一直讲的那个苦涩的那个教训，叫butter lesson那个事情。对，就是最终还是回到最经典的数据量大，然后简单的算法，然后去给他去跑出来就跑出来就这样的那所以包括。
+</p>
+<p class="transcript-line">
+<span class="time"><strong>[00:14:33]</strong> </span>
+<span class="speaker"><strong>发言人1: </strong></span>
+上集我们聊那个卡帕西的，就是说最终的智能其实不是说参数量模型多大，而是说能够把这些智能压缩到一个比较小的适中的一个模型里面去。
+</p>
+<p class="transcript-line">
+<span class="time"><strong>[00:14:44]</strong> </span>
+<span class="speaker"><strong>发言人2: </strong></span>
+对对对，也对，确实是这样。你看他现在能做这么短的时间去判断，因为实际上就是跑在你车载的那个边缘的AI上了吗？现在是那个是AA15，还是A16，反正就是那那那俩那那个模型其实就是他去跑，这个时候你会知道他的那个参数量是没有那么大的那他能够很快的去处理这些数据，这样子的话其实就是达到这件事情了。
+</p>
+<p class="transcript-line">
+<span class="time"><strong>[00:15:13]</strong> </span>
+<span class="speaker"><strong>发言人2: </strong></span>
+只不过现在当然肯定还有很多很远的路了，就是要达到非常好。我们就说很多个9，这后面很多个九他还是得努力。但是就是现在这条路出来了，应该是个我你刚才问到说方向对不对？就贤哥问到也有问到这个事情方向对不对？我觉得方向绝对是对的。因为原有的预定义的人类预定义规则是绝对是达不到这个高度的。而且也不知道哪年能能再达到新的高度，至少现在你能看到有个突破的机会。虽然它有它的缺点，就是不可解释性还是在的。
+</p>
+<p class="transcript-line">
+<span class="time"><strong>[00:15:45]</strong> </span>
+<span class="speaker"><strong>发言人1: </strong></span>
+反正老修猛吹了一波。我给大家总结一下，就这个故事在老修这里绝对是可以自圆其说的对，没错，完全对以这个AI或者这个世界模型，这个世界大脑为这个核心对吧？前一左手卖车走量收集更多的数据，右边一手把更多的数据通过这个AI大脑训练完，放到这个擎天柱身上，然后去讲一个未来的故事。这个擎天柱我一年要卖多少？走入千家万户，要上火星，要挖矿。但是现在不好意思，现在在工厂拧螺丝都有点问题。对，这个故事就是说在老邱这里，反正卖车走量，走的是车的量，保持一个现金流，稳定的现金流支撑我去做AI跟机器人，或者上火星的投入。一方面这个车也在给我贡献我训练的数据，来丰富我这个AI的大脑。以后我的这个人形机器人，我的汽车只要在我家的这个游戏间里面，每天一天玩24小时极品飞车就可以上路了，大概是这个意思。
+</p>
+<p class="transcript-line">
+<span class="time"><strong>[00:16:49]</strong> </span>
+<span class="speaker"><strong>发言人1: </strong></span>
+这个故事能闭环。来那个贤哥我问你，就从你的角度来讲，你觉得这个故事能不能打动你？未来这个增长就是有没有所有能够看到的风险或者坑在里面。
+</p>
+<p class="transcript-line">
+<span class="time"><strong>[00:17:02]</strong> </span>
+<span class="speaker"><strong>发言人3: </strong></span>
+我忍老师很久了，当然了。
+</p>
+<p class="transcript-line">
+<span class="time"><strong>[00:17:05]</strong> </span>
+<span class="speaker"><strong>发言人1: </strong></span>
+天下人赶紧修久矣。
+</p>
+<p class="transcript-line">
+<span class="time"><strong>[00:17:08]</strong> </span>
+<span class="speaker"><strong>发言人3: </strong></span>
+赶紧我问老朱那个问题，其实就是因为我在我在想这个事儿。因为刚才小苏上来就说了，就是第三季度的特斯拉这个财报数据很难看，对吧？然后同比的话，整个净利润加上什么都下降很多，甚至都是腰斩的这个情况。而且对是的，对，很惨对吧？老邱本身就是股东有股票的，所以你说你说你在这吹，然后我就在想，那你这个再再有钱要不要再继续持仓，要不要加仓对不对？但是我这我也在看，因为整个第三季度财报公布之后，其实它的股价并没有下跌，就是只有有一点点小波动之后现在目前还在维维维持在一个高位上，甚至都在接近这个历史最高点。
+</p>
+<p class="transcript-line">
+<span class="time"><strong>[00:17:49]</strong> </span>
+<span class="speaker"><strong>发言人2: </strong></span>
+对吧？几乎是52周最高点，很近的位置。
+</p>
+<p class="transcript-line">
+<span class="time"><strong>[00:17:52]</strong> </span>
+<span class="speaker"><strong>发言人3: </strong></span>
+对，而且大家不是说没有看到他的这个问题，比如说看他的现在的净利润下滑，整个销量虽然增加了对吧？就是销售额增加了，但是说整个利润就下跌了很多。然后包括说他现在这个外车这事儿，其实也不见得可持续，包括他跟特朗普有点不清不楚的关系什么的。那凭什么就是凭什么他的股价还能维持在这儿，这是一个很好的问题。我个人怎么看这事儿，我觉得大家是否相信这个故事能继续讲下去，对吧？
+</p>
+<p class="transcript-line">
+<span class="time"><strong>[00:18:21]</strong> </span>
+<span class="speaker"><strong>发言人3: </strong></span>
+你说现在来讲的话，肯定特斯拉不是一家车企。这我们在节目中法国也说了，他现在的市盈率是在三百多。这你要比平常的那种传统的汽车企要高太多了，传统车企的市盈率也只有几几，然后可能都上不了10，所以它是人家好几十倍，而且他现在是一点几万亿。刚才听老修这个话之后，大家会觉得，那我就要赌他的这个未来。
+</p>
+<p class="transcript-line">
+<span class="time"><strong>[00:18:44]</strong> </span>
+<span class="speaker"><strong>发言人1: </strong></span>
+真好激动，好兴奋。
+</p>
+<p class="transcript-line">
+<span class="time"><strong>[00:18:46]</strong> </span>
+<span class="speaker"><strong>发言人3: </strong></span>
+对吧？对，对，但问题是为什么只有他一个能做？是有他有什么天生的优势，就是让他能走这条路，还是说他选择这条路他也回不了头了。
+</p>
+<p class="transcript-line">
+<span class="time"><strong>[00:18:56]</strong> </span>
+<span class="speaker"><strong>发言人2: </strong></span>
+就是说他怎么走到现在这一步，我们大概是有一个线路。他在决定到底走激光雷达还是视觉的时候，其实就已经是决定了你现在的整个AI大脑这一块和端侧的大端侧的这个AI它必须得同时都得做。这个是在那个时候做的。然后他还有一个最开始的一个很基本的原则，就是说要走量，就是说要尽量的说把这个规模搞上去。所以说它的这整个设计来讲，我是觉得走到端走走到视觉这一块是是有一定肯定是有一定的运气成分的，不是完全设计的。因为他原来也是真的也是想走那雷激光雷达那个那个系列的，就是各种传感器堆到好的那种vivo的那种系列那种走法。但是这个事情由于他又想走量，那肯定那个时候谁也走不了量。即使到现在vivo降了很多价，也没有办法真的像特斯拉这样走量的搞个几百万辆车，这还是做不到的对所以这个事情就是我觉得其他的车企其实是没有这个条件这样去做的。
+</p>
+<p class="transcript-line">
+<span class="time"><strong>[00:20:02]</strong> </span>
+<span class="speaker"><strong>发言人2: </strong></span>
+因为这个东西的积累很多。之前我们说不是他的多久，那些超算都退役了，但是退役也是因为他确实自己研自研，你不如用英伟达的，那就不如用其他的包给别人。专门专业的那些公司去把这个部分做完了。
+</p>
+<p class="transcript-line">
+<span class="time"><strong>[00:20:19]</strong> </span>
+<span class="speaker"><strong>发言人2: </strong></span>
+所以这个事情就是我觉得说他是其实是经历了很多波折，但是就是从他上了这条视觉这条路，他的一条路走下去，他也得这个成本投入和所有的现在拿到的一些结果虽然不是最佳，但是也确实是有足够的想象力。包括他现在能够通过这个实验模型，然后这种整套的神经网络训练出来到这个机器人身上。至少这条路是方向上是淌出来了。
+</p>
+<p class="transcript-line">
+<span class="time"><strong>[00:20:50]</strong> </span>
+<span class="speaker"><strong>发言人1: </strong></span>
+然后走得通的应该是讲得通。
+</p>
+<p class="transcript-line">
+<span class="time"><strong>[00:20:52]</strong> </span>
+<span class="speaker"><strong>发言人2: </strong></span>
+对对对。
+</p>
+<p class="transcript-line">
+<span class="time"><strong>[00:20:52]</strong> </span>
+<span class="speaker"><strong>发言人3: </strong></span>
+就路实际讲得通也是另外一回事。
+</p>
+<p class="transcript-line">
+<span class="time"><strong>[00:20:56]</strong> </span>
+<span class="speaker"><strong>发言人2: </strong></span>
+也算是走通了。但是就是我也得讲我自己因为我自己毕竟作为一个小小的股东，我还是希望他能够活下去了，对吧？不要说像当时，其实当时特斯拉差点都倒了。当时的特斯拉如果没有靠中国咱们上海那一波给他续上的话，其实那那六个月可能已经挂掉了，就那那是关键的6到12个月。对，所以就是产能也好，还有当时的很多政策，因为他资金链也不行了，那段时间太烧钱了。你看他现在这个东西搞搞到这个阶段的还那更烧钱，对吧？你那个死时候更烧钱，你搞这个机器人的这个东西烧钱比那个时候高多了。那他现在这个阶段我会觉得我也会担心，因为这个东西实在太烧钱了，然后不确定性因素其实很大。他讲的我觉得他有一点，就跟他说，我们没展开讲的，就是说去去无缝迁移到擎天柱上这个事，其实我我不觉得它能无缝，这个缝其实很大。
+</p>
+<p class="transcript-line">
+<span class="time"><strong>[00:21:54]</strong> </span>
+<span class="speaker"><strong>发言人3: </strong></span>
+对，那都不是缝了，那是一条沟。
+</p>
+<p class="transcript-line">
+<span class="time"><strong>[00:21:57]</strong> </span>
+<span class="speaker"><strong>发言人1: </strong></span>
+那四个轮子跟4根手脚跟手脚这个缝是挺大的。
+</p>
+<p class="transcript-line">
+<span class="time"><strong>[00:22:01]</strong> </span>
+<span class="speaker"><strong>发言人2: </strong></span>
+其实差非常大，其实不是一般的大对，你可以说这是完全不同的产品，我觉得你只能是脑子有点用，但是脑子有用手搅和，这四个轮子还是差别非常巨大的对，所以这个事情就是过程中我是觉得可能大方向是一个是可以，现在至少没有更好的方向。但是他这个东西真的到production，我就说你能做到几个九，能到这个正式的生产环境，大家能用起来，我是打蛮大问号的。就像FSD，其实你叫了十年。
+</p>
+<p class="transcript-line">
+<span class="time"><strong>[00:22:36]</strong> </span>
+<span class="speaker"><strong>发言人1: </strong></span>
+跟各位汇报一下，就是我们上线的just AI的会员频道。大家可以在youtube来订阅我们的会员。如果你只是想对我们的视频表示支持的话，你可以成为我们的股东会会员。如果你希望获得更深的这种支持，你可以加入我们的公园董事会这个会员的栏目里面。
+</p>
+<p class="transcript-line">
+<span class="time"><strong>[00:23:00]</strong> </span>
+<span class="speaker"><strong>发言人1: </strong></span>
+你可以获得第一个每天两封的JCI早晚报，一个能够用听的AI语音播报。我们每天从两千多条信息里面帮你精选两封邮件，然后AI双人主播读给你听，每天多听十分钟，少刷手机2小时。中美AI资讯零时差。我觉得这个是非常棒的一个感觉，我们一定要拥有。对对对，你还可以获得我们每一次在做视频的深度研究报告的文档，以及获得我们三个人撰写的主播专栏的邮件推送。所以我觉得你订阅公园董事会这一档的会员，其实是对你来讲最划算的。所以请大家多多支持我们的youtube会员。对。
+</p>
+<p class="transcript-line">
+<span class="time"><strong>[00:23:45]</strong> </span>
+<span class="speaker"><strong>发言人3: </strong></span>
+请我们的精神股东们，精神董事们尽快行动起来。
+</p>
+<p class="transcript-line">
+<span class="time"><strong>[00:23:49]</strong> </span>
+<span class="speaker"><strong>发言人2: </strong></span>
+加入我们。对我也期待大家后面真的能用起来的话，来给我们更多的产品反馈。我们这边持续迭代，让大家都拿到自己比较满意的这个资讯。
+</p>
+<p class="transcript-line">
+<span class="time"><strong>[00:24:01]</strong> </span>
+<span class="speaker"><strong>发言人1: </strong></span>
+是的，所以请大家一定要多多关注一下我们的频道，然后不定期升级福利，请不要错过。
+</p>
+<p class="transcript-line">
+<span class="time"><strong>[00:24:09]</strong> </span>
+<span class="speaker"><strong>发言人3: </strong></span>
+对，多提意见，多多使用。
+</p>
+<p class="transcript-line">
+<span class="time"><strong>[00:24:11]</strong> </span>
+<span class="speaker"><strong>发言人1: </strong></span>
+对我是觉得这个故事在前两环都能通，这个故事在车跟在AI这一块都是能通的。但是到机器人这边卡住了。因为你注意到最近机器人的那个擎天柱的那个工程负责人也离职了，然后也是爆出来说，因为手就是灵巧手这个问题。那其实导致说今年本来说预测要产5000台，然后现在变成说几百台两千台之类的，我估计2000台也造不出来，对吧？
+</p>
+<p class="transcript-line">
+<span class="time"><strong>[00:24:40]</strong> </span>
+<span class="speaker"><strong>发言人3: </strong></span>
+不提了，对。
+</p>
+<p class="transcript-line">
+<span class="time"><strong>[00:24:40]</strong> </span>
+<span class="speaker"><strong>发言人2: </strong></span>
+是不是要回归的不讲了，赶紧把原型搞好。
+</p>
+<p class="transcript-line">
+<span class="time"><strong>[00:24:44]</strong> </span>
+<span class="speaker"><strong>发言人3: </strong></span>
+原型对于研发这块了。
+</p>
+<p class="transcript-line">
+<span class="time"><strong>[00:24:46]</strong> </span>
+<span class="speaker"><strong>发言人1: </strong></span>
+对，那这里面我觉得就到这里就断掉了。首先第一个就是机器人这个东西用在商用能做什么？现在市场不明确对吧？第二个投入巨大，那你这套理论做好，我可以做到就是从2 1秒2 20亿个token压缩到两个可以那我可以迁移到机器人身上，也能有非常强的这种泛文化能力等等。就是理论上是可以，但没有验证过。也就是说在技术端跟市场端，机器人其实是都没有被验证。所以这个事情故事到这里就断掉了。
+</p>
+<p class="transcript-line">
+<span class="time"><strong>[00:25:21]</strong> </span>
+<span class="speaker"><strong>发言人2: </strong></span>
+其实很难其实很难。因为机器人我们之前讲过，包括国内像阿里的那个阿里云那个王坚博士对他都讲过，这个机器人是一个非常复杂的综合工程，其实AI只是其中的一个部分。你说你AI你再牛，你也只解决了一小部分的问题，还有很多问题要解决。
+</p>
+<p class="transcript-line">
+<span class="time"><strong>[00:25:40]</strong> </span>
+<span class="speaker"><strong>发言人1: </strong></span>
+对，还有更大的一个bug是他用一个车企的净利润来养一个AI跟机器人公司，这是很可怕的一件事情，对不对？你不是说用已经转型成一个AI公司的这种净利润，不是，那净利润百分之几，你刚才说多少？6%.
+</p>
+<p class="transcript-line">
+<span class="time"><strong>[00:25:57]</strong> </span>
+<span class="speaker"><strong>发言人2: </strong></span>
+5%点.
+</p>
+<p class="transcript-line">
+<span class="time"><strong>[00:25:57]</strong> </span>
+<span class="speaker"><strong>发言人1: </strong></span>
+现在五点几。
+</p>
+<p class="transcript-line">
+<span class="time"><strong>[00:25:59]</strong> </span>
+<span class="speaker"><strong>发言人2: </strong></span>
+然后对方还微软meta是44% 45.
+</p>
+<p class="transcript-line">
+<span class="time"><strong>[00:26:02]</strong> </span>
+<span class="speaker"><strong>发言人1: </strong></span>
+对吧？一个制造业车企的净利润来养AI公司，天哪，你看上汽都不敢这么做对。
+</p>
+<p class="transcript-line">
+<span class="time"><strong>[00:26:09]</strong> </span>
+<span class="speaker"><strong>发言人2: </strong></span>
+你去比一下这些刚赚钱的这些公司那个差。
+</p>
+<p class="transcript-line">
+<span class="time"><strong>[00:26:13]</strong> </span>
+<span class="speaker"><strong>发言人1: </strong></span>
+我国国企都不敢这么搞，对不对？你这个搞的那当然他那个资本市场更发达，这是一件事情，对吧？但是实际上这个现状是不对的这现状是绝对是不对的。然后还有一个地方卡壳了，就是我们刚才讲一跟二是顺的三机器人，第三点是卡住，但有个2.5军的robot .
+</p>
+<p class="transcript-line">
+<span class="time"><strong>[00:26:34]</strong> </span>
+<span class="speaker"><strong>发言人3: </strong></span>
+xi这个事情是taxi.
+</p>
+<p class="transcript-line">
+<span class="time"><strong>[00:26:36]</strong> </span>
+<span class="speaker"><strong>发言人1: </strong></span>
+一并没跑起来，这事情没跑起来，因为这个事情理论上跑起来，我觉得是非常棒的。就是他真的是帮人赚钱的，对吧？伟大的公司帮人赚钱，对不对？
+</p>
+<p class="transcript-line">
+<span class="time"><strong>[00:26:46]</strong> </span>
+<span class="speaker"><strong>发言人2: </strong></span>
+对，是的，伟大公司帮人赚钱，给你一个平台，给你一个工具，你还能帮你赚钱，这东西太伟大了。这东西就是现在看起来也就是应该大家不知道是我就是我觉得说不肯定不全在技术上，因为其实法规还有好多事情都卡着呢。因为最近应该是有看到的，就是那个uber也去加进来的taxi去跑，那他加大了挺多的力度，但是这一块的话都会看得到，都不是很大量的，大家都还是在试验性质的在搞。
+</p>
+<p class="transcript-line">
+<span class="time"><strong>[00:27:19]</strong> </span>
+<span class="speaker"><strong>发言人1: </strong></span>
+对，是的，过于前沿，就是过于脱离大家的这种想象力。
+</p>
+<p class="transcript-line">
+<span class="time"><strong>[00:27:24]</strong> </span>
+<span class="speaker"><strong>发言人2: </strong></span>
+对，就是没有那么容易，其实绝对没那么容易。因为像他，特别是其实马斯克自己有讲过一次关于擎天柱的手的问题，就是因为很多人也去问这个手怎么因为手就不行了，因为这手不行就不行了。然后他其实讲解了一下他的这个思路，当然这个又是一个正向的故事了，又变成等会儿先给大家讲反面故事。他正面的思路上就是从工程学上，我觉得是对的。因为其实我们现在我我就说我们现在感受得到的，我们现在能感受到比如说ChatGPT也好，java也好，国内的这个豆包或者是kimi等等的？都感觉智能了很多，尤其是可以用电脑也好，比如说kimi的那个OK computer。你可以去操纵你的电脑，搞搞PPT，干什么都能做，是不是觉得比以前智能很多？它智能很多最最重要的有很多事情做了。
+</p>
+<p class="transcript-line">
+<span class="time"><strong>[00:28:17]</strong> </span>
+<span class="speaker"><strong>发言人2: </strong></span>
+但是作为中间最重要的一个事情就是使用工具，其实就是能把你现有的这些东西有一个方式用起来。不管用浏览器也好，还是用一些插件，还是用一些通过ASP协议，去把你原来的一些门相当于是孤岛的，独独独立的一些小工具，它能够被AI所用，它就是解决这个事，也就是标到人。其实人跟我们经常说人跟动物的区别是人可以使用工具。所以人的其实最厉害的是双手是非常复杂的，它可以使用很多很多种的这种工具，而且最重要的这些工具是现成的。
+</p>
+<p class="transcript-line">
+<span class="time"><strong>[00:28:52]</strong> </span>
+<span class="speaker"><strong>发言人2: </strong></span>
+其实就跟我刚才说大模型现在变智能了一个很重要的过程是一样的。就是如果有一个方式去做一个机器人，就是让这个机器人最好的方式去融入人类社会的话，那他应该要对接尽量接近人类的这个手的使用能力。这样它可以尽可能的去把人类的手能用的工具全部用起来，也就能完成人类的各种各样的事情了。就这就这个原理是这么回事。
+</p>
+<p class="transcript-line">
+<span class="time"><strong>[00:29:18]</strong> </span>
+<span class="speaker"><strong>发言人2: </strong></span>
+但是人的手其实特别的精妙，就是从这种从物理结构上来讲，其实他我们人的手是很复杂的。所以他们其实现在是原来觉得可以的，好多事情实测下来都不行，也会变成说很多其他的公司都会转向。比如说用普通的机械臂，或者是手指要少一点。好像比如说像以前我们最惊讶的那个波士顿动力公司的那个机器人，它实际上是三根手指。它是三根手指，它们不是像人的五根手指。就是大家都会去做妥协，然后去完成一些东西。
+</p>
+<p class="transcript-line">
+<span class="time"><strong>[00:29:51]</strong> </span>
+<span class="speaker"><strong>发言人2: </strong></span>
+那他那马斯克这边的话，他现在就是量产不出来以后就回去搞原型的。也不知道他最后这个事情能不能像他说的，好像遵从第一性原理这样子去解决一个能够尽量的接近人的方式去使用工具。如果没有我觉得也应该会要想出一个其他的这种折中方案出来跑。应该因为这可能是真的特别难。
+</p>
+<p class="transcript-line">
+<span class="time"><strong>[00:30:14]</strong> </span>
+<span class="speaker"><strong>发言人1: </strong></span>
+因为国内这边的话，你看之前像语数，王欣欣他们也有一些这块的观点。但他们反而觉得说硬件不是瓶颈了，应该瓶颈是在整个架构上面，就是模型数据这些可能都不是，就是目前来讲都都还不够，都还没达到。首先就是模型测的话，你没有那么多的数据能够压缩到一个能够放在机器人上面的一个模型去产生智能，这个还做不到。第二个很多数据进来，它也是有问题的对吧？它它并不是这么多数据，它就能够泛化为是啊我们说在日常生活中无穷无尽的这么多指令的，怎么就那那道理说其实这是给了一个很好的答卷呢？
+</p>
+<p class="transcript-line">
+<span class="time"><strong>[00:31:02]</strong> </span>
+<span class="speaker"><strong>发言人2: </strong></span>
+我觉得对，就是方式上你参照车的自动驾驶是很好。但是车的它累计的这个驾驶英里数和各种角落的corner case，实际上是你就理解成它是一个非常高质量的数据在里面。对，那你这个机器人也非常好，加机器人这块我觉得最基本对压缩也又是一个事情。因为压缩这就相当于这几年的，它完全用神经网络来代替掉以前的规则的这种就是这几年的事，中间的压缩处理是这几年的优势。但是机器人这边我觉得是第一步，就是你要采集大量的数据和有效的高质量数据这两件事情这是这实际上是两件事。因为你首先要能采集到那么大的数据，完了以后要从中间能提取出好的数据来。
+</p>
+<p class="transcript-line">
+<span class="time"><strong>[00:31:46]</strong> </span>
+<span class="speaker"><strong>发言人1: </strong></span>
+实际上有两件事情，一个就是要有具体的场景，第二个能够交付直接的结果。那目前机器人不具备对吧？车是具备的，就是具体的场景，开车在路上走，交付结果从A点到B点对吧？这个是可以衡量的，可以训练的。但目前来讲，你泛化到能够用到机器人身上的这样的模型或者数据来讲，你要他在什么场景解决什么问题呢？现在没有非常具体的给到答案，至少这次他没有。
+</p>
+<p class="transcript-line">
+<span class="time"><strong>[00:32:12]</strong> </span>
+<span class="speaker"><strong>发言人2: </strong></span>
+对他就会很难。其实像车一样，他很明确，我知道有那么多常见的场景先满足，但是他这里的话，你可能就算知道场景的数据也不够，那还得自己去把数据给撸出来。然后那这个事情就复杂了。那那可能就是可行性是有的，但是你要给他把他自己的整个链条要串起来，他还得假以时日和一些运气才能快速的突破，就这样子，不然的话其实我觉得坑是很大的。这个东西什么时候能到量产？我们就不要说很多个酒就能做到。第一个九的90%的情况，它是稳定的，我都觉得很难。
+</p>
+<p class="transcript-line">
+<span class="time"><strong>[00:32:48]</strong> </span>
+<span class="speaker"><strong>发言人3: </strong></span>
+但作为但就是说马斯克作为特斯拉的CEO他可等不了。因为特斯拉毕竟是上市公司，对吧？没后面有一堆的是一堆的人追着的。而且你知道我这今天刚刚看的新闻，就是特斯拉董事会主席发了一个公开信，说敦促大家呼吁大家尽快要去投票。因为马上不是特斯拉提出了一个1万亿的给马斯克的一个薪酬包，好像是下个月下个月初要去投票。如果被否认之后，马斯克明确的就是表示说，如果没有拿到这个薪酬包的话，就要离开特斯拉专注于自己的space x和那XAI了是吧？
+</p>
+<p class="transcript-line">
+<span class="time"><strong>[00:33:27]</strong> </span>
+<span class="speaker"><strong>发言人1: </strong></span>
+他可以听一下今天的早晚报，这条新闻也是出现今天早晚报的头条。
+</p>
+<p class="transcript-line">
+<span class="time"><strong>[00:33:32]</strong> </span>
+<span class="speaker"><strong>发言人3: </strong></span>
+对，这条新闻出来之后，其实有两个解读，就是一个解读。当然了肯定是有人反对，因为没有过先例对吧？一个个人拿1万亿的薪酬高，当然一万亿也是一个噱头，因为他不是说真的给一万亿的现金，谁也给不出来，他是以这个未来的股权期权来什么了来衡量的。如果全部兑现的话，有一将近1万亿美金，这是一个巨大的天文数字。觉得从来没有过。而且就是说这件事情的话绑定在个人身上，把这个事情给到他来。如果真的行权了的话，那那马斯克自己可能会超过25%的这个控制权，也是他一直想想拿到的。就是说真正能够一个人做决策，引导整个这么大的一公司去航行，相当于是说要做唯一的剁手。
+</p>
+<p class="transcript-line">
+<span class="time"><strong>[00:34:15]</strong> </span>
+<span class="speaker"><strong>发言人3: </strong></span>
+当然了也有很多人支持，觉得特斯拉其实是就是马斯克对吧？靠影响力能到了现在这一万多亿的这个市值的。所以我怎么看这个事儿，反正我不知道两位怎么看，反正我先是抛砖引玉说，我觉得这个时间点上其实是一场豪赌，这是一个战略选择问题，对吧？就是你选择了特斯拉，不是你选择了马斯克。其实也就选择了刚才老肖说的端到端也好，机器人也好，我未来的robot那个robot x也好，对吧？这条路就不能再飘了。因为既然已经有了这个东西，先把纸条就写在这儿了。
+</p>
+<p class="transcript-line">
+<span class="time"><strong>[00:34:45]</strong> </span>
+<span class="speaker"><strong>发言人3: </strong></span>
+没有任何人可以再废话了，就往这条道上走，这个资源也不可能再做二次选择了，对吧？不像说地主家有三四个儿子，可以把三四个人都发出去，然后到时候看哪个英高能养老都行。要不然就是什么在这个时间点上换价或者说换思路。其实换换将换人就是背锅走，然后换思路。然后马斯克也可以说我自己还有其他事干，你们既然不坚定，我就不跟你玩了。但如果说真的马斯克走了，那我觉得特斯拉现在的这个一点几万亿的估值肯定是没有了，估计能掉个至少百分之二三十，最少。然后我不知道老兄你觉得就是说OK，那如果假设咱做个这个思维实验，思想实验，你觉得如果真的没有马斯克的话，特斯拉还能往下走吗？或者说特斯拉是不是就可能会过段时间就没了呢？
+</p>
+<p class="transcript-line">
+<span class="time"><strong>[00:35:30]</strong> </span>
+<span class="speaker"><strong>发言人2: </strong></span>
+我如果从思想实验的角度讲，我觉得他会可能会很像苹果。就是它的优势还可以跑个几年，然后靠个职业经理人可以跑一跑，但是创新上应该会有很大的问题。
+</p>
+<p class="transcript-line">
+<span class="time"><strong>[00:35:42]</strong> </span>
+<span class="speaker"><strong>发言人3: </strong></span>
+就是确实是董事主席发信也说了，说已经开始准备在内部在在物色一个CEO了。如果特色如果把这个走的话，那可能就像是对，找个另一个顾客出来。
+</p>
+<p class="transcript-line">
+<span class="time"><strong>[00:35:54]</strong> </span>
+<span class="speaker"><strong>发言人2: </strong></span>
+找一个供应链高手把这个利润给他爬回来。因为他现在利润其实是烧在了这种研发上，他太烧钱了，真的很烧钱。那就你光搞卡，找英伟达搞卡就搞了多少钱。然后平时要烧这些钱去训练，然后去干嘛？这个研发的费用实际上是很高的。
+</p>
+<p class="transcript-line">
+<span class="time"><strong>[00:36:11]</strong> </span>
+<span class="speaker"><strong>发言人3: </strong></span>
+因为其实他还有赚钱东西的。你看比如说我看财报里面，他那个mac pack就是做能源储备的。那个能那个其实就是装机率和现在的这个盈利水平都在往上走。而且像现在特斯拉保有率这么高，那交车交付的这么好，然后他后面的FSD那个那个什么的订阅对吧？这些都是未来长期长线收入。所以我觉得他确实如果作为一家智能车企，国内还有这么多车企能活，他可能就能活得更好。
+</p>
+<p class="transcript-line">
+<span class="time"><strong>[00:36:37]</strong> </span>
+<span class="speaker"><strong>发言人2: </strong></span>
+其实就像你可以做一些类比，就像以前乔布斯人人没之前把这个iphone跟apple store的这个框架搞出来了。后面自己跑不了太远，就跑不偏多远，至少跑个五年应该是可以的。十年不知道。对，然后那那这里面你这五年能把robot taxi做起来，就已经是全球范围的。你比如说就把五本干下来，把五本干下来你上来。那那也已经是不知道是多大的一个市场了。
+</p>
+<p class="transcript-line">
+<span class="time"><strong>[00:37:02]</strong> </span>
+<span class="speaker"><strong>发言人3: </strong></span>
+非常大。是的，那那小苏你觉得呢？你觉得如果真的假设马斯克不在特斯拉了，他就玩别的去了，或者说你觉得很多。
+</p>
+<p class="transcript-line">
+<span class="time"><strong>[00:37:14]</strong> </span>
+<span class="speaker"><strong>发言人1: </strong></span>
+对吧？他他现在那个group x那些跟特斯拉也没有直接关系，这搞别的照样能够搞。然后我觉得你说这话对。
+</p>
+<p class="transcript-line">
+<span class="time"><strong>[00:37:22]</strong> </span>
+<span class="speaker"><strong>发言人3: </strong></span>
+但是也许我不知道，反正我从外人看我觉得这些东西就是知识解释特斯拉估值的一部分。就是因为马斯克在同时做这么多一件事儿，所以才让特斯拉的估值能够继续上升。
+</p>
+<p class="transcript-line">
+<span class="time"><strong>[00:37:34]</strong> </span>
+<span class="speaker"><strong>发言人1: </strong></span>
+我觉得从搞钱的角度他不这么看，他只会认为特斯拉是我稳定的现金流。但是我如果没有这个现金流，我一样我有搞钱圈钱的方式，对吧？我的个人影响力也好，我现在的手上的资源也好。
+</p>
+<p class="transcript-line">
+<span class="time"><strong>[00:37:49]</strong> </span>
+<span class="speaker"><strong>发言人3: </strong></span>
+对，就跟伏地魔一样，我们家大女儿现在出去了，有机会自己挣钱了，那就得扶持弟弟，吧？这个父母有的父母觉得天经地义。对，但是现在OK大女儿说了过了，我也不是说没有其他孩子了，你还可以激活的。
+</p>
+<p class="transcript-line">
+<span class="time"><strong>[00:38:03]</strong> </span>
+<span class="speaker"><strong>发言人1: </strong></span>
+是是是，我觉得对他本人影响不大。因为怎么搞钱不是搞，对吧？特斯拉只是说我搞钱让我轻松点，我搞钱的成本低一点，我有一个稳定的现金流。就好比我现在领着工资，我能去做副业对吧？然后我做副业我可以骂甲方。对，那我大不了我就以后他妈我出去做副业我不能骂甲方了吗？
+</p>
+<p class="transcript-line">
+<span class="time"><strong>[00:38:24]</strong> </span>
+<span class="speaker"><strong>发言人3: </strong></span>
+他所以就是负面的，或者说反对的意见就是说特斯拉或者说觉得马斯克不专心不专注。即使给他这一万亿之后，他也不可能放完全放弃其他那些东西不做，能专心去搞特斯拉。
+</p>
+<p class="transcript-line">
+<span class="time"><strong>[00:38:39]</strong> </span>
+<span class="speaker"><strong>发言人1: </strong></span>
+首先我觉得媒体对马斯克是有误读的，就是我觉得把理想的成分讲的太多了。实际上我觉得他还是非常逐利的一个人，就任何对他不利的声音，他是一定会第一时间否定你的观点的，对吧？最近那个脑机接口，然后奥特曼做出了一个什么非入侵式的。
+</p>
+<p class="transcript-line">
+<span class="time"><strong>[00:38:58]</strong> </span>
+<span class="speaker"><strong>发言人2: </strong></span>
+马上骂骂骂很厉害。
+</p>
+<p class="transcript-line">
+<span class="time"><strong>[00:39:00]</strong> </span>
+<span class="speaker"><strong>发言人1: </strong></span>
+对，马上骂，奥特曼马上骂你全家，对不对？就是你这个不行，你这个干嘛谁去做出一点？但凡跟他那个路线不一样的，或者想要抢夺他份额的东西，他他就会开始骂，对吧？其实这个是一个非常直接，我个人觉得就是三七分的话，我个人觉得就是理想在3，我觉得就从这个人的角度来讲，对吧。那对于特斯拉它的实际影响有没有那么高？我觉得至少刚才老师讲的很好看，苹果例子至少十年不被祖训这个还做得到对吧？就是说你找个供应链高手或者。
+</p>
+<p class="transcript-line">
+<span class="time"><strong>[00:39:36]</strong> </span>
+<span class="speaker"><strong>发言人2: </strong></span>
+搞个对搞。
+</p>
+<p class="transcript-line">
+<span class="time"><strong>[00:39:37]</strong> </span>
+<span class="speaker"><strong>发言人1: </strong></span>
+个整车高手，我就不增长了。我就是一年5%点几的净利润这个水平，然后我业绩保持我的增长，我回归制造业对不对？然后我也可以可以过得还可以。
+</p>
+<p class="transcript-line">
+<span class="time"><strong>[00:39:49]</strong> </span>
+<span class="speaker"><strong>发言人2: </strong></span>
+然后慢慢的去把这个rob taxi还有那个擎天柱搞出来。那可以对。
+</p>
+<p class="transcript-line">
+<span class="time"><strong>[00:39:54]</strong> </span>
+<span class="speaker"><strong>发言人3: </strong></span>
+都pack.
+</p>
+<p class="transcript-line">
+<span class="time"><strong>[00:39:55]</strong> </span>
+<span class="speaker"><strong>发言人2: </strong></span>
+储能电能的那一块给它搞出来。因为这几块增长确实是好，他特别是mac pack那一块，其实对现在的那个大模型训练这块都很有帮助。因为他那个过程中间那个电量的脉冲波动特别大有它这个储能就可以做稳定器的那个作用。这个其实没有其他其很多能做的他其实可以做。
+</p>
+<p class="transcript-line">
+<span class="time"><strong>[00:40:18]</strong> </span>
+<span class="speaker"><strong>发言人1: </strong></span>
+是的，两面性，两面性。所以你说这个马没有了马斯克的特斯拉，你怎么判断他？其实从马斯克个人角度来讲，他要用特斯拉去做很多他想做的事情。但是这些事情不一定跟特斯拉有毛线关系。但一旦这件事情剥离掉以后，说不定特斯拉可以更好就说不定。我只能说说不定。
+</p>
+<p class="transcript-line">
+<span class="time"><strong>[00:40:39]</strong> </span>
+<span class="speaker"><strong>发言人1: </strong></span>
+那我们知道说会不好的，就是说创始人精神没有了，对吧？公司会官僚，然后这个公司产品会不极致，然后技术路线会不够极端，都会出现这样的问题。但是如果回到做生意的角度，你能够把特斯拉这个牌子的牌打烂掉，那你也别做CEO。你一个正常的CEO对吧？你把特斯拉这种盘子你能接，特斯拉这个盘子你都敢接了，你这盘你能打烂，我也是敬你是条汉子。
+</p>
+<p class="transcript-line">
+<span class="time"><strong>[00:41:07]</strong> </span>
+<span class="speaker"><strong>发言人3: </strong></span>
+对，如果你假设你有股东会的投票权，你会投同意他的1万亿的这个薪酬包，还是不同意？
+</p>
+<p class="transcript-line">
+<span class="time"><strong>[00:41:16]</strong> </span>
+<span class="speaker"><strong>发言人1: </strong></span>
+我我我倾向于让他做董事长，不让他做CEO，然后给你一个这种也不能叫一票否决。就是说作为董事长你可以介入这些业务，你还是有话语权。跟谷歌的通常的一样。
+</p>
+<p class="transcript-line">
+<span class="time"><strong>[00:41:32]</strong> </span>
+<span class="speaker"><strong>发言人2: </strong></span>
+那些对你。
+</p>
+<p class="transcript-line">
+<span class="time"><strong>[00:41:33]</strong> </span>
+<span class="speaker"><strong>发言人1: </strong></span>
+作为专家案组你提供意见。但是不好意思，我请允许我把你供起来，我请个这种专业的人来去做好这个特斯拉这个公司。其他的什么group x，SpaceX等等您各自发展。然后如果我们想要在股权上面有一个这种其他的协作，我们再另外设计。我个人是这么想。
+</p>
+<p class="transcript-line">
+<span class="time"><strong>[00:41:55]</strong> </span>
+<span class="speaker"><strong>发言人3: </strong></span>
+的对对吧？
+</p>
+<p class="transcript-line">
+<span class="time"><strong>[00:41:56]</strong> </span>
+<span class="speaker"><strong>发言人1: </strong></span>
+老兄你至少说如果我至少说作为一些固定资产，或者我是作为一个这种像AI买那么多卡，那么多人，这个东西其实还是可以有一部分可以外部化的，可以也是可以做生意的，也可以赚很多钱的。只是说现阶段马斯克在特斯拉他看不上。对对。
+</p>
+<p class="transcript-line">
+<span class="time"><strong>[00:42:14]</strong> </span>
+<span class="speaker"><strong>发言人3: </strong></span>
+那就如果你手里的股票能够变成股东会投票的票，你投赞成还是反对票？这1万亿的信任。
+</p>
+<p class="transcript-line">
+<span class="time"><strong>[00:42:21]</strong> </span>
+<span class="speaker"><strong>发言人1: </strong></span>
+周报我还是投赞成。我觉得就是这样子，还是要赌创始人的。因为就是你你创始人这个事情，就是那那一票是很重要的对对不对？
+</p>
+<p class="transcript-line">
+<span class="time"><strong>[00:42:33]</strong> </span>
+<span class="speaker"><strong>发言人2: </strong></span>
+对我而言肯定也是投的，也是投赞成的。为什么？其实我是觉得只要他他这个人在就行了。至于他那个位置，就刚才小苏讲的，可能是行政上或者组织结构上大概在哪个位置，是这个董事会还是CEO，但我觉得他在哪个位置，哪怕不是这些位置，他就跟普京在一俄罗斯的位置一样。你说他是总理吗？对你说他是总理吗？但是好像他又干了所有的事情，对不对？对，其实只要他人还在，这个影响力就是在那儿。
+</p>
+<p class="transcript-line">
+<span class="time"><strong>[00:43:01]</strong> </span>
+<span class="speaker"><strong>发言人1: </strong></span>
+你不可能说运气好到像瑞幸咖啡这种？创始人被干掉了，换了一个上来就直接把盘子搞活了。我觉得这种例子还是很少的。
+</p>
+<p class="transcript-line">
+<span class="time"><strong>[00:43:11]</strong> </span>
+<span class="speaker"><strong>发言人2: </strong></span>
+这个真的太太少了，这可能是世间罕见的。
+</p>
+<p class="transcript-line">
+<span class="time"><strong>[00:43:15]</strong> </span>
+<span class="speaker"><strong>发言人1: </strong></span>
+这个是其实他就是回归主业。对，少讲一点数字化，多开一点店，多做一点加盟，然后把把这个供应链做到了极致，差不多就做这几个事情，然后可以把这个盘子守到一个稳定增长的层面，那已经是很好了，对吧？那我觉得这样也少也是比较少的。
+</p>
+<p class="transcript-line">
+<span class="time"><strong>[00:43:35]</strong> </span>
+<span class="speaker"><strong>发言人3: </strong></span>
+听了你们俩说的，我真的就是亲身感觉到，真的地球离了谁都不转，即使是世界首富特那个马斯克这样的，真的要是说特斯拉没他，其实也一样能往下继续走，只不过就是走的方向和走的方法不一样罢了。
+</p>
+<p class="transcript-line">
+<span class="time"><strong>[00:43:47]</strong> </span>
+<span class="speaker"><strong>发言人2: </strong></span>
+是只不过我们为了特斯拉更更比如说我们还是希望我我从因为从底子里面我还是是很喜欢说他的那个就是创新的突破性创新的颠覆性创新的这这个路子，就是风险很大。就是你贤哥你说的就是赌，其实还是赌。那这个风险是真的很大，也有可能把别人的好盘子也会开的很烂的对吧？就在他手上是有可能被。
+</p>
+<p class="transcript-line">
+<span class="time"><strong>[00:44:11]</strong> </span>
+<span class="speaker"><strong>发言人3: </strong></span>
+开的很烂的对，有可能被开的很烂。特斯拉也是因为他才到今天这个地步，吧？当时要没有他左右逢源或者怎么样到跟中国这边能够拿到产能，就像你说可能六个月时间就没了这家公司。
+</p>
+<p class="transcript-line">
+<span class="time"><strong>[00:44:24]</strong> </span>
+<span class="speaker"><strong>发言人2: </strong></span>
+是啊是啊，这搞不好。但是我觉得还是会希望去赌一把，希望说万一成了，对吧？这成了其实这个世界确实更美好一点。就是我真的希望这个自动驾驶是以后是能普及的。因为实在是一个是自己开的那就不说了。还有一个实际上是在路上跑，你真的看到太多不知道什么样的司机，就是很危险，真的很危险。然后我是觉得如果自动驾驶比人开的好，我是希望大家都自动驾驶了，不要再人开了，太危险。
+</p>
+<p class="transcript-line">
+<span class="time"><strong>[00:44:53]</strong> </span>
+<span class="speaker"><strong>发言人1: </strong></span>
+想想今天的苹果多无趣，对不对？想想它多无去，老头要退休了，什么事都不敢做。
+</p>
+<p class="transcript-line">
+<span class="time"><strong>[00:45:00]</strong> </span>
+<span class="speaker"><strong>发言人3: </strong></span>
+台词，如果抛开投资者的身份，就是抛开潜在投资者买卖股票等等这种身份，就以创业者身份讲，我是双手双脚赞成，真的是该赌就赌，对吧？一个创业者就是像他特斯拉，虽然上市公司还是七朵金花，但他同样现在在这个阶段面临着巨大创业挑战。像咱们刚才分析半天什么端什么的，这些东西端到端等等，不都是因为他卖车这件事持续不下去，对吧？他光靠卖车绝对支持不了自己现在这个市盈率，你绝对不可能支持这种估值，对吧？子曰什么来着？等死不如作死，使劲折腾才是真正创始人。
+</p>
+<p class="transcript-line">
+<span class="time"><strong>[00:45:35]</strong> </span>
+<span class="speaker"><strong>发言人1: </strong></span>
+子曰这个事情还真不怪他，因为卖车这个事情还是跟不同国家市场、国际形势，然后涉及到原材料等等等等，就是牵一发动全身的事了。
+</p>
+<p class="transcript-line">
+<span class="time"><strong>[00:45:45]</strong> </span>
+<span class="speaker"><strong>发言人3: </strong></span>
+对，包括你不能怪他。Tax也一样，对吧？我觉得其实技术是一个层面，更重要还是监管，还是社会舆论等等各方面原因。所以没那么简单。
+</p>
+<p class="transcript-line">
+<span class="time"><strong>[00:45:55]</strong> </span>
+<span class="speaker"><strong>发言人2: </strong></span>
+在美国这么开放，还是很难扩大的影响还没没有办法做快。
+</p>
+<p class="transcript-line">
+<span class="time"><strong>[00:46:00]</strong> </span>
+<span class="speaker"><strong>发言人1: </strong></span>
+很难的。你在美国要摆平这些大老爷，你来中国也得跪下来。我跟你讲这种事情。不是创始人做不出来，对不对？
+</p>
+<p class="transcript-line">
+<span class="time"><strong>[00:46:09]</strong> </span>
+<span class="speaker"><strong>发言人3: </strong></span>
+没错，那你看人黄仁勋，我靠咱你还记得吧？几多少几个月前咱刚评价人4万亿人，今天5万亿了，我靠。
+</p>
+<p class="transcript-line">
+<span class="time"><strong>[00:46:17]</strong> </span>
+<span class="speaker"><strong>发言人2: </strong></span>
+是是是。
+</p>
+<p class="transcript-line">
+<span class="time"><strong>[00:46:18]</strong> </span>
+<span class="speaker"><strong>发言人3: </strong></span>
+所以已经5万，所以这谁那个马斯克还在苦哈哈一点几万亿，还在网上争取。他那个是11万亿1万美1万亿美金的薪酬包，就是要跟市值，还有跟他这个road taxi，还有擎天柱要挂钩的，要分12个批次才交付的。所以你看人黄仁勋已经干到5万亿了，不得不佩服的还是应该。
+</p>
+<p class="transcript-line">
+<span class="time"><strong>[00:46:37]</strong> </span>
+<span class="speaker"><strong>发言人1: </strong></span>
+就是道路不一样，对吧？你选择的是最难的制造业，加造车加AI加这种创新？这是最难的组合了。
+</p>
+<p class="transcript-line">
+<span class="time"><strong>[00:46:49]</strong> </span>
+<span class="speaker"><strong>发言人3: </strong></span>
+所以从创业者要创新。
+</p>
+<p class="transcript-line">
+<span class="time"><strong>[00:46:51]</strong> </span>
+<span class="speaker"><strong>发言人2: </strong></span>
+又要做到N个九的稳定性，就这个事这两个事情你怎么兼顾？
+</p>
+<p class="transcript-line">
+<span class="time"><strong>[00:46:55]</strong> </span>
+<span class="speaker"><strong>发言人1: </strong></span>
+确实就是特别难，但魅力也就在这里。你不说别的，就是不说我们说创始人精神什么也好，我觉得就是真的做出来就是在某个点上面有坚持，OpenAI一条路走到黑，对吧？坚持就是预测下一个token这个方式，就是把ChatGPT做出来。那特斯拉也是坚持他现在这种叫什么纯视觉的端到端的这样一个技术路线。那他也以我我觉得也是希望他能够真的闯出一条路。这个作为一个我觉得故事或者激励非常多的创业者，我觉得这个价值是非常大的。
+</p>
+<p class="transcript-line">
+<span class="time"><strong>[00:47:32]</strong> </span>
+<span class="speaker"><strong>发言人3: </strong></span>
+行了，咱们也不用上价值了，对吧？人特斯拉也不缺掉咱这点价值，马斯克更不缺咱这点价值。确实是聊一聊，我觉得还挺好。真的是在这个时间点，让我们拭目以待，看看下个月会发生什么事情。看看如果真的有在某个历史的或者说在某个时间线上，马斯克离开了特斯拉，不知道特斯拉会成什么样，会不会成为下一个苹果。
+</p>
+<p class="transcript-line">
+<span class="time"><strong>[00:47:56]</strong> </span>
+<span class="speaker"><strong>发言人2: </strong></span>
+好。
+</p>
+<p class="transcript-line">
+<span class="time"><strong>[00:47:57]</strong> </span>
+<span class="speaker"><strong>发言人1: </strong></span>
+行行，那今天我们就到这儿就到这里结束。好，谢谢大家的收听。
+</p>
+<p class="transcript-line">
+<span class="time"><strong>[00:48:01]</strong> </span>
+<span class="speaker"><strong>发言人3: </strong></span>
+各位大家下期见，拜拜。
+</p>]]></content:encoded>
+            <pubDate>Sun, 02 Nov 2025 23:00:00 GMT</pubDate>
+            <guid>6905f2d648dbe0eb56e94aa5</guid>
+        </item>
         <item>
             <title>强化学习烂透了，我们离AGI还要十年？｜带你解读AI大神Karpathy重磅访谈！</title>
             <link>https://www.xiaoyuzhoufm.com/episode/68ff854201567203214d3653</link>
@@ -27821,849 +28814,6 @@ Simon对那些这些东西的话，其实对他而言还是是一个对的一个
 </p>]]></content:encoded>
             <pubDate>Mon, 19 May 2025 23:00:00 GMT</pubDate>
             <guid>682b47effcbc2e206bb818bc</guid>
-        </item>
-        <item>
-            <title>Windsurf什么来头？OpenAI怒砸30亿收购？对比Cursor和Gemini有什么不同？</title>
-            <link>https://www.xiaoyuzhoufm.com/episode/6821c7df24f8559346326051</link>
-            <description>AI 编程赛道彻底杀疯了！OpenAI 挥舞钞票 30 亿美金“截胡”编程助手 Windsurf，转头 Cursor 就敢顶着 90 亿美金估值疯狂吸金，连谷歌都坐不住了，在Google IO大会前先给 Gemini 2.5 Pro 打鸡血提升编码能力。AI编程的未来格局愈发扑朔迷离。这究竟是资本的狂欢，还是AI生产力革命的真正开端？在这场巨头与新秀的角力中，AI编程的终局将走向何方？
-一、 OpenAI 的“钞能力”与 Windsurf 的“价值”：这 30 亿美金花得值吗？
-00:00:30 30亿美金！OpenAI 为何突然“相中”曾被 Cursor 光芒掩盖的 Windsurf？
-00:06:02 专业赛车 vs. 家用轿车：Cursor 与 Windsurf 的用户体验鸿沟有多大？
-00:08:10 革命者姿态？Windsurf 为何激进“干掉”代码补全，强推 AI 当“主驾”？
-00:11:43 基因论：Windsurf 生来 To B，Cursor 天生 To C？
-00:12:19 30 亿美金，OpenAI 买下的仅仅是技术和客户吗？
-00:13:58 OpenAI 的“难言之隐”：为何自家有 Copilot，仍需外购 Windsurf 补齐企业短板？
-00:24:06 抢占心智：OpenAI 需要 Windsurf 这个“代言人”来打开 AI 编程市场。
-00:26:32 最值钱的不是代码，而是过程！OpenAI 为何渴求编码中的“人机交互”数据？
-00:28:05 数据无价：搞定 Windsurf，“非完整”但极其宝贵的训练数据到手了！
-00:32:49 Know-how 的价值：用户心智和过程数据，是钱买不来的“护城河”。
-二、Cursor 的“疯狂”估值与“Vibe Coding”的“钱景”：90 亿美金是真牛逼还是吹上天？
-00:18:43 90 亿美金！Cursor 这估值是泡沫还是真金白银？
-00:18:50 资本宠儿的底气：百万用户、数亿营收，Cursor 凭什么撑起 90 亿？
-00:20:07 市场上还有第二个 Cursor 吗？
-00:20:49 To C 的天花板？高估值背后，Cursor 是否面临用户流失和企业市场壁垒？
-00:27:25 “Vibe Coding”听着酷，但能撑起严肃的产品开发吗？
-三、谷歌 Gemini 的炸裂更新，AI 编程的终局会是什么样？
-00:33:40 Google IO 前的“狙击”？Gemini 更新放出“草图变代码”大招！
-00:34:32 “看起来比前端做得好”？Gemini 一键生成的代码是惊喜还是“惊吓”？
-00:35:21 产品经理狂喜！Gemini 让“画个草图”直接变成可交互原型？
-00:36:45 强强联合？Gemini 的多模态能力能否赋能 Cursor 等专业 IDE？
-00:37:56 告别低效沟通：AI 如何抹平产品、设计、开发之间的鸿沟？
-00:41:33 Google 的阳谋：Gemini 的功能是“秀肌肉”，最终目标是赋能自家生态？
-00:42:42 一次性生成 vs. 持续迭代：Gemini 的“全量修改”适合生产环境吗？
-00:44:39 别指望创业公司？Google Gemini：稳定压倒一切的“中年力量”。
-00:46:36 “关键时刻能扛事”：为何 B 端用户更看重 Google 的稳定与可靠？
-00:47:49 AI 功能只是“试验田”？Google 的真正野心是抢占 B 端市场？
-00:49:20 站在巨人的肩膀上：普通人如何从大厂战略中挖掘时代机遇？
-📕小红书：叫我小苏就好啊
-📺B站：叫我小苏就好啊
-📱微信：Roisu117
-【关注频道】：
-📕小红书：人民公园说AI
-▶️油管：人民公园说AI
-🐦推特：人民公园说AI
-编辑单集
-关联追光任务</description>
-            <content:encoded><![CDATA[<h1>转写链接</h1>
-<link>https://tongyi.aliyun.com/efficiency/doc/transcripts/p7g395wkl84d9z65</link><br>
-<h1>问题回顾</h1>
-<div class="qa-item">
-<div class="question"><strong>Q:</strong> OpenAI最近用30亿美金收购了wince f，老修，你对wince f感兴趣的原因是什么？wince f之前的名字是什么？它的成立时间和主要业务是什么？</div>
-<div class="answer"><strong>A:</strong> 我对wince f的兴趣并不在于它的编程能力有多突出，而在于它与Curren$y之间的交互体验差异。我发现wince f在面向专业人员，尤其是有编程经验的工程师方面有较好的交互体验，而Curren$y虽然面向专业人员设计，但也吸引了大量非编程背景的产品经理、设计师等小白用户使用。wince f今年4月份改名为Coding，它在2021年成立时主要做GPU规模化优化，其创始人有自动驾驶和虚拟现实领域的深度学习背景。</div>
-</div>
-<div class="qa-item">
-<div class="question"><strong>Q:</strong> Curren$y和wince f在发展过程中是如何定位和改进自己的？wince f相较于Curren$y在对初级程序员的支持上有何优化？</div>
-<div class="answer"><strong>A:</strong> Curren$y和wince f都是在观察GitHub Copilot的成功后开始研发，它们各自发现Copilot有很多不足之处，并试图通过提供更完善的集成开发环境（IDE）和权限管理来提升用户体验。wince f在交互设计上更加友好，更适合初级程序员和完全没编码经验的人使用，降低了上手难度，而Curren$y由于其专业性，对于新手来说可能存在一定的学习曲线。</div>
-</div>
-<div class="qa-item">
-<div class="question"><strong>Q:</strong> OpenAI投资的wince f和Curren$y在规模上有何差异？</div>
-<div class="answer"><strong>A:</strong> 是的，wince f相比Curren$y规模小很多，Curren$y有数亿美元的投资，而wince f只有几千万的投资，且被认可的时间晚一些。</div>
-</div>
-<div class="qa-item">
-<div class="question"><strong>Q:</strong> wince f在转向智能体方向时相较于Curren$y有何不同？</div>
-<div class="answer"><strong>A:</strong> wince f坚决地将代码补全功能从UI上移除，转为通过智能体以自然语言指令交互的方式来编写和修改代码，主动引导用户，并处理错误，这一点上比Curren$y更为坚决和聚焦于to b市场和重构原有代码的工作场景。</div>
-</div>
-<div class="qa-item">
-<div class="question"><strong>Q:</strong> OpenAI以30亿美金收购Wince F，贤哥，你认为这笔交易的价值所在是什么？它是否值得这30亿美金？</div>
-<div class="answer"><strong>A:</strong> 我认为这笔交易是水到渠成的结果，从Wince到Cursor再到Gina的发展体现了AI编程的演进。对于OpenAI而言，虽然外界有声音认为其因无法收购C端市场更优秀的公司而转向B端市场，但实际上，OpenAI看重的是Wince F在企业级部署安全性、本地化等方面的成熟度和优势，以及其在B端市场的潜力和已获得的企业客户基础，这为OpenAI提供了迅速扩大企业服务规模的可能性，弥补了其在B端市场的短板。</div>
-</div>
-<div class="qa-item">
-<div class="question"><strong>Q:</strong> OpenAI下一步的重点是否会转向企业级市场？</div>
-<div class="answer"><strong>A:</strong> 是的，OpenAI下一步的重点确实会是企业级市场。作为一家以C端用户增长见长的公司，OpenAI需要寻求营收增长以支撑其估值提升。目前，OpenAI面临去年亏损50亿美金的压力，要实现短期内的盈利增收，为企业服务是最佳选择，因为这能更迅速地扩量并增加收入。</div>
-</div>
-<div class="qa-item">
-<div class="question"><strong>Q:</strong> Wince F与科学（Gina）的主要区别是什么？</div>
-<div class="answer"><strong>A:</strong> Wince F和Gina的主要区别在于服务对象和服务模式的不同。Wince F主打to B市场，已经与众多大型企业建立合作关系，拥有较高的市场认可度和较低的获客成本，其产品服务标准化程度高，有助于降低成本并实现快速增长。而Gina则更专注于to C市场，虽然增长迅速，但估值较高，且其商业模式中包含较多的战略级投资因素。</div>
-</div>
-<div class="qa-item">
-<div class="question"><strong>Q:</strong> 对于OpenAI来说，选择收购Wince F而非寻找另一家C端强公司有何考量？</div>
-<div class="answer"><strong>A:</strong> OpenAI决策层认为，相比寻找一家在C端市场强大的公司来增加长板，更希望找到像Wince F这样能够补齐自身短板的公司。此外，考虑到Wince F目前的估值、营收增长趋势以及团队特点，OpenAI认为这笔投资是利用现金流充裕的时机获取企业级增长的关键，不仅可以提供企业级AI编程服务，还有机会将大模型整合打包销售，实现更多元化的增长。</div>
-</div>
-<div class="qa-item">
-<div class="question"><strong>Q:</strong> OpenAI收购的这家公司对它有何重要性？</div>
-<div class="answer"><strong>A:</strong> 对于OpenAI来说，这家被收购的公司对其大模型的研发和扩充至关重要，因为其在编码领域的技术可能优于OpenAI目前拥有的技术，并且该公司可能拥有大量的企业级客户资源和成熟的售后服务渠道，有助于OpenAI更快地进入市场并建立用户心智。</div>
-</div>
-<div class="qa-item">
-<div class="question"><strong>Q:</strong> OpenAI是否因为抢先购买了某公司而获得了技术优势？</div>
-<div class="answer"><strong>A:</strong> 是的，OpenAI通过购买某公司可能获得了技术上的优势，特别是在大模型和编码方面的领先地位。</div>
-</div>
-<div class="qa-item">
-<div class="question"><strong>Q:</strong> 为什么OpenAI需要找寻类似Wsf的合作伙伴或产品？</div>
-<div class="answer"><strong>A:</strong> OpenAI需要找寻类似Wsf的合作伙伴或产品，因为虽然它在AI编程和大模型方面有很强的能力，但在用户心智和应用场景上，Wsf这样的产品已经建立了较好的市场基础和用户信任度。此外，Wsf等公司可能拥有更好的企业级服务、成熟的销售渠道以及与企业紧密合作的经验，这对于OpenAI进一步拓展市场至关重要。</div>
-</div>
-<div class="qa-item">
-<div class="question"><strong>Q:</strong> OpenAI在开源代码库方面的数据获取上存在什么挑战？OpenAI购买这家公司后，如何利用其数据资源？</div>
-<div class="answer"><strong>A:</strong> OpenAI在获取开源代码库中的数据上面临挑战，因为这些数据是在开发过程中产生的过程性数据，包含了程序员的实时反馈、意图识别及行为修正等非结果数据，这对于AI模型理解编程逻辑和上下文至关重要。然而，获取这类完整数据并不容易，需要与集成开发环境紧密合作，而这正是Wsf等公司所具备的优势。OpenAI在购买该公司后，可以通过整合其数据资源来训练更精准的AI模型，尤其是对于理解编程过程中的上下文和用户意图。同时，由于该公司拥有丰富的客户资源和企业级服务经验，OpenAI可以借助这些资源加速市场渗透，并通过与顶级集成服务商的合作，将AI编程产品与更多实际应用场景相结合，从而提升性价比和用户体验。</div>
-</div>
-<div class="qa-item">
-<div class="question"><strong>Q:</strong> 在AI编程工具使用中，用户遇到的主要问题是什么？</div>
-<div class="answer"><strong>A:</strong> 用户在使用AI编程工具时，常常会遇到由于对工具功能理解不深而导致的使用不当，例如频繁高级调用、尝试通过已知不可行的方法（如API获取数据）解决问题，以及忘记之前验证过的失败结果，从而陷入无效循环。</div>
-</div>
-<div class="qa-item">
-<div class="question"><strong>Q:</strong> 对于这类情况，您认为解决的关键是什么？</div>
-<div class="answer"><strong>A:</strong> 解决这类问题的关键在于拥有丰富经验的程序员提供的指导和优质标注数据。他们能帮助用户跳出固有思维模式，寻找替代方案，并提醒注意诸如反爬虫机制等具体技术细节。</div>
-</div>
-<div class="qa-item">
-<div class="question"><strong>Q:</strong> 这种经验丰富的指导和高质量的数据是否值得花钱购买？</div>
-<div class="answer"><strong>A:</strong> 是的，这些经验丰富的指导和高质量的数据非常珍贵，它们属于无价的know-how，对于提高项目成功率和优化用户体验至关重要。</div>
-</div>
-<div class="qa-item">
-<div class="question"><strong>Q:</strong> 最近有一款编程能力很强的工具更新了什么新功能？</div>
-<div class="answer"><strong>A:</strong> 最近有一款工具在编程能力上有所增强，它可以在用户仅提供草图或视频提示词的情况下，自动生成带有交互功能的程序或项目，尤其在处理多模态提示词和设计规范方面表现出色。</div>
-</div>
-<div class="qa-item">
-<div class="question"><strong>Q:</strong> 如果类似功能的工具嵌入到IDE中，是否可以提升现有开发流程的质量？</div>
-<div class="answer"><strong>A:</strong> 完全可以，如果将这类工具嵌入到IDE中，理论上可以在更复杂的项目中实现高质量的代码生成。目前，这些工具已经进化到能够理解并应用各种设计规范的程度，对于产品经理而言，他们可以通过草图或视频直接生成可供评审的高保真原型，大大提高了沟通效率和一致性。</div>
-</div>
-<div class="qa-item">
-<div class="question"><strong>Q:</strong> 那么对于创业者来说，现在是否因为AI工具的出现，即使没有丰富的编程技能也能更容易实现自己的想法？</div>
-<div class="answer"><strong>A:</strong> 是的，现在许多工具可以一步到位地帮助创业者实现可视化交互等想法。例如，以前看似无法轻易完成的功能，现在借助AI工具，即便是非技术人员也能较为轻松地实现。</div>
-</div>
-<div class="qa-item">
-<div class="question"><strong>Q:</strong> 对于小创业公司和大公司如Google之间的关系，您怎么看？Google在AI领域的布局和发展如何？</div>
-<div class="answer"><strong>A:</strong> 小创业公司尤其是AI创业公司在Google前面可能会感到压力很大，容易被碾压。但如果在Google之后跟进，利用其技术进步后的遗留成果，可能会相对舒服些，因为这些成果非常实用且具有领先优势。Google在大模型层面不断升级自家应用，并将全家桶模式也进行了AI升级，未来潜力不可忽视。对于创业者和小公司而言，紧跟Google的步伐并利用其技术溢出是明智选择。</div>
-</div>
-<div class="qa-item">
-<div class="question"><strong>Q:</strong> 在与大公司的合作中，尤其是从B端服务的角度，有哪些需要注意的技术问题？</div>
-<div class="answer"><strong>A:</strong> 与大公司尤其是提供企业级服务时，要关注服务的稳定性、响应速度等用户体验问题，并建立相应的机制来确保服务的稳定性和高效沟通。同时，需要具备良好的服务理解能力和与to b公司的合作技巧。</div>
-</div>
-<div class="qa-item">
-<div class="question"><strong>Q:</strong> AI技术快速发展的背景下，大公司应该如何进行战略布局？</div>
-<div class="answer"><strong>A:</strong> 大公司如Google正将更多的重心投入到to b业务上，因为其云服务的增长迅速，且AI领域的投资回报率高、成本低。通过研究大公司的报告、投资动向和白皮书，可以从中获取很多有价值的信息和启示。</div>
-</div>
-<h1>节目文稿</h1>
-<p class="transcript-line">
-<span class="time"><strong>[00:00:04]</strong> </span>
-<span class="speaker"><strong>发言人1: </strong></span>
-来我们今天聊三个话题，一个OpenAI30亿收购wines ve可省的估值飙到了90亿，是不是疯了？然后还有最新的german又更新了一个google dream IO的版本，就是已经可以实现用草图生成代码了。所以这三个话题都跟AI编程相关，我们今天就一个一个开始聊，我们先聊一下wince f，最近OpenAI用30亿美金收购了这个wince f之前wince f其实好像一直风头被cursor盖住，对不对？也不是特别火，但是有一阵老修跟我讲说他越狱是一直想要去买一下那个。Wth所以先问一下老修，这个wince f你你你看中它哪一个点？然后你为什么会很想去使用它？
-</p>
-<p class="transcript-line">
-<span class="time"><strong>[00:00:59]</strong> </span>
-<span class="speaker"><strong>发言人2: </strong></span>
-对于我而言，不是因为他的编程能力有多么的突出，而是因为他我想知道他跟歌手之间的差异。因为我会发现对大多数在用这两个工具的人会提到wince f的交互体验会比较好。然后我会发现咳嗽确实是很，因为我自己是用咳嗽，我是咳嗽的那个年费的那那个付费会员的我都不买了，一年的就平时都在用。咳嗽的话其实是非常面向专业人员的，就是编程经验多的这些工程师是为主的。他们并没有打算说要给小白用，但是由于功能和各种能力的溢出，大量的小白都涌入进来去用。对，包括说就是非编程的产品经理、设计师，大家都开始用起来了。对，但是他本意不是这样的，他本意是给专业人员做的那那然后后面win surf应该是非常好的一个跟进。
-</p>
-<p class="transcript-line">
-<span class="time"><strong>[00:01:57]</strong> </span>
-<span class="speaker"><strong>发言人2: </strong></span>
-其实we f因为他是今年4月份才改名的，以前叫coding。其实他的时间也不会很长，他21年成立的时候都还不再做coding。所以他一共才好像是。
-</p>
-<p class="transcript-line">
-<span class="time"><strong>[00:02:09]</strong> </span>
-<span class="speaker"><strong>发言人1: </strong></span>
-做那个GPU对。
-</p>
-<p class="transcript-line">
-<span class="time"><strong>[00:02:10]</strong> </span>
-<span class="speaker"><strong>发言人2: </strong></span>
-这块相关的，就做GPU规模化优化的。因为它的创始人原来是在自动驾驶和虚拟现实，就VR这领域去做深度学习的这个做法他就会跟那个咳嗽很不同。咳嗽这边是他们那个团队是非常专业的，就是一堆工程师先开始想的就是怎么想的，说用编程的方式去颠覆整个编程的方式。所以那两家。
-</p>
-<p class="transcript-line">
-<span class="time"><strong>[00:02:37]</strong> </span>
-<span class="speaker"><strong>发言人1: </strong></span>
-都是OpenAI投资过的，但是规模完全不一样，对吧？你看curse它的AR都已经几个亿了，两个亿美元对吧？然后像werf才几千万。
-</p>
-<p class="transcript-line">
-<span class="time"><strong>[00:02:50]</strong> </span>
-<span class="speaker"><strong>发言人2: </strong></span>
-是的，就是它的发力的时间或者说被认可的时间是一定有一个时间差的。恪守的话就是我我自己因为原来是做编码有做了个五六年，然后后面转产品经理了。所以其实我在在我而言就是我写代码不写代码是很久了。但是我从从整个我们说最近的AI编程的这个时间来讲，应该是22年的那个github copilot比较火的时候，我开始重新又写代码了。那个时候就是用give hub copilot。那个时候的歌手跟这个winter f应该都都还在跟cop类似，他们都是先看到copeland的，然后自己来做的。所以大家都是有都是前面都是有先发的一些可参照的东西的那只是说他们各自都发现i copilot有很多的不足。
-</p>
-<p class="transcript-line">
-<span class="time"><strong>[00:03:38]</strong> </span>
-<span class="speaker"><strong>发言人2: </strong></span>
-因为copilot相当于我站在我们现在这个时间点，我们知道是AI coding的这个早期的方式就是代码补全这一块。属于说你是主驾，他在旁边跟你做领航，code的本身这个意思就是这样，他在旁边帮你喊，前面哪个地方该转弯了，哪里有石头，哪里要加速什么的，他他可以帮你，你是知道整体的路线的时候，他来帮你去在这个基础之上去做一些做一些引导和补全。这个东西的话，其实他们这些专业的技术人员都会发现，这个能力是还可以，蛮秃馒有突破的。但是又有很多实际编码过程中不够的东西。因为只是一个copilot，还有很多事情没做。
-</p>
-<p class="transcript-line">
-<span class="time"><strong>[00:04:26]</strong> </span>
-<span class="speaker"><strong>发言人2: </strong></span>
-这里面其实编码的话有个很基本的东西，叫做开发环境的一个搭建。所以里面有一个词叫IDE，是集成开发环境的意思是integrated development environment。这个东西是一个集成开发工具，你就理解成是普通人用的office一样。就我们平时用office处理文档数据，那程序员就要有个ID去做编码。在那个github copilot这个时代，它是可先用一些插件的方式去去跑的。他不需要不没有专门做到IDE里面去，那比较轻。但是他有很多的就是我们最近聊聊那个agent聊特别多的时候，就是经常讲到那个权限不够。就是他他操作整个文件，然后文件的存储，还有就是说很多你的更长的这些上下文的这些东西都有非常多的限制。
-</p>
-<p class="transcript-line">
-<span class="time"><strong>[00:05:26]</strong> </span>
-<span class="speaker"><strong>发言人2: </strong></span>
-所以科技跟威斯夫各自他们都做了自己的，都是说是自己的一个ID就是自己开发的一个ID其实都有多少去基于微软的那个visual studio的一个开源的版本，再去再去做再去做二次开发的对，大家各自都会说是自己是原生开发的了，都会这么讲。那没没问题，其实是这样子的，是因为这个开源的它也是开开了很久，就大家确实都可以用，没问题。所以这个东西就是是这么个分叉出来的那那但是最后大家的我跟大家说，最开始我会用vive是因为我觉得科技的交互确实是有点难受，因为太专业了。
-</p>
-<p class="transcript-line">
-<span class="time"><strong>[00:06:07]</strong> </span>
-<span class="speaker"><strong>发言人2: </strong></span>
-就是专业的特点，就像我们说我们普通人开车跟赛车手开车一样，就是同一辆车。哪怕你现在的车给赛车手开，他开法肯定跟你不一样开。对，而且赛车手会觉得你的车特别难开，因为你的车只只有几个只有几个档，P档、D档是吧？然后那个中间挂个N你还基本上不太挂空挡什么的。他但是赛车手是经常要搞这些不同的挂挡，还有手动的很多操作，刹车、油门全部都不一样。所以这些东西可以类似这样子，就是所有的这些手动挡的各种东西全部都有。
-</p>
-<p class="transcript-line">
-<span class="time"><strong>[00:06:44]</strong> </span>
-<span class="speaker"><strong>发言人2: </strong></span>
-他也做了一定的为比较初级的程序员做的一些优化。所以他的话其实就是像我这种以前有编过程，现在很久没编程的人能够捡得起来，然后用的也还可以。但是有点有一点点难受有一点点难受，有一些东西毕竟我原来没有做的那么深，所以会体想去体验一下win 7f win surf的话，我自己在上面还没有编做多少的那个代码。
-</p>
-<p class="transcript-line">
-<span class="time"><strong>[00:07:12]</strong> </span>
-<span class="speaker"><strong>发言人2: </strong></span>
-但是初步体验下来，确实他对更小白的用户的交互会更好。整个的交互就会非常的让人说感觉很舒服。就是你可能尤其像我这样子，已经是产品经理了，很久没有做编码。那如果是完全没编码的人估计会更舒服。我是很久没编码，我大概看看我就知道意思，然后我知道怎么选择。如果是完全没编码的人，就仔细看看的话，肯定也能干就能干起来。他就不会说因为一个概念卡在这儿，然后后面其实很多核心的这功能，我是觉得跟咳嗽是差不多的。
-</p>
-<p class="transcript-line">
-<span class="time"><strong>[00:07:46]</strong> </span>
-<span class="speaker"><strong>发言人2: </strong></span>
-就是到现在这个阶段已经不是github的那个那个我们刚才说的是代码补全。像大家现在做的都是自主能够识别你现在这个项目的内容。然后你给他指定用自然语言指令交互的那个叫做智能体，就agent这一块，大家现在都在用agent的这个方式。而且windows f其实最近几个月它涨那么快的一个原因，就是它在转智能体这个方向的时候比科技要坚决。
-</p>
-<p class="transcript-line">
-<span class="time"><strong>[00:08:14]</strong> </span>
-<span class="speaker"><strong>发言人2: </strong></span>
-他是直接把代码补全的那个类型直接给从UI上干掉了让你只能用这个只能体验去写代码，只能跟他去主动的强迫你换位置。我刚才不是用的比喻是你你是主驾，他是coby的，对吧？但是威夫在洞察到，其实大多数人这个样子就是他有很多的初级用户以及企业用户。企业用户里面也有，他有差不多1000家企业用户，实际上是发展很快。企业用户的人其实都很难说，他做的那个就是让他去做主驾，其实是很多状况的高搞不定，哪怕UI做了很多的我们刚才说的面包蟹也好，或者各种各样的好的交互。但是实际上他还不懂设计，还是不懂设计，还有不懂的编码还是不懂编码，还是会有大量的新各种各样的状况出现。那这个时候他其实这个时候他实际上是我我是比较明确的知道他比咳嗽要早，他做的很坚决。
-</p>
-<p class="transcript-line">
-<span class="time"><strong>[00:09:11]</strong> </span>
-<span class="speaker"><strong>发言人2: </strong></span>
-科技是做了同时并存的那种方式，就是又有老的代码不全，又有新的这个智能体agent方式。Win serve是直接更早就直接切切掉了。只有智能体这种方式，让智能体去做主驾人，做copilot人，专门去做debug。就是你交代完需求以后，哪里不对，你来告诉我哪里不对。然后他自己去想办法去去解决这些不对，同时补全一些你没交代他的一些。
-</p>
-<p class="transcript-line">
-<span class="time"><strong>[00:09:35]</strong> </span>
-<span class="speaker"><strong>发言人1: </strong></span>
-我会感觉他好像wsf会更偏于to b然后更偏在对于原有的代码的这种重构、修改，或者是后面的新的再再根据原有的框架跟代码去做做新的项目，是不是这样子？
-</p>
-<p class="transcript-line">
-<span class="time"><strong>[00:09:50]</strong> </span>
-<span class="speaker"><strong>发言人2: </strong></span>
-其实我不觉得说他可能要根据原有的代码去这样去设计，而是很可能是跟他to b有关。就是to b其实并必须得把交互做好，否则他那个服务成本太恐怖了。对，相当于每一家都要做定制，这里一定要做好标准化。
-</p>
-<p class="transcript-line">
-<span class="time"><strong>[00:10:07]</strong> </span>
-<span class="speaker"><strong>发言人2: </strong></span>
-所以我刚才说的所有的刚才那些on boarding的那些好的交互体验，肯定在B端这边是碰到很多坑的。就是我们自己服务B端的时候知道说给一个用户开账号，甚至交给他密码。他可能隔天就忘记密码是什么了，然后又要找你重置密码。然后还有甚至有的时候你给了他密码，他会跟你说你没给我，能不能你帮帮我登录一下，调好了以后再给我，对吧？就有很多很多这样的这样子的很其实很看起来很低级，但是在企业里面非常容易发生的情况非常频那我我对非常频繁。所以这种事情就是我觉得可能是倒逼他必须得去把这些交互做好。
-</p>
-<p class="transcript-line">
-<span class="time"><strong>[00:10:46]</strong> </span>
-<span class="speaker"><strong>发言人2: </strong></span>
-而且还有是要适配企业原来的代码，他最经常要做的事情，把代码企业原来的代码库给读进来，然后去去去做修改，去辅助去做修改。最最开始应该就主要去做辅助，然后到一定阶段了以后就发现企业应该是会发现企业有很多的修改，实际上是蛮简单的对，所以他可以直接用A减去主导你原来的开发人员，甚至可能只是IT或者是一些business department，一些业务部门的人。你就坐在副驾，看到哪里不对的，说左转右转是吧？就像我们真的坐车上面你带路就好了，说说目的地，然后过程中间到了细节，有些地方不知道你你你做一些选择给他，然后他来帮你完成具体的事情。这个是我觉得可能是这么给生长出来的，因为实际上他做这个也就才两年多。两年我觉得如果他的一个进展比较快，应该还是直接从企业的这个服务中间去。
-</p>
-<p class="transcript-line">
-<span class="time"><strong>[00:11:43]</strong> </span>
-<span class="speaker"><strong>发言人1: </strong></span>
-是的，应该他是先他跟科sr比的话，我感觉他是to b优先的，就先从to b上面赚到钱，然后磕sr可能我觉得更是在to c上面出圈，尤其最近这种很流行什么web coding这种概念，也是以可这挂为主的。对我我会感觉他两个就是在企业基因跟产品定位上面还是有明显的不同。然后包括vf它的整个对于企业级部署安全性，本地化这些可能也做的更好一些，更全一点。其实这完全是基因上不一样。对，所以我是想问贤哥，你从你的角度，你觉得open I30亿美金收wince f他收的是什么？对，到底收的这是什么东西？它值不值这30亿美金？
-</p>
-<p class="transcript-line">
-<span class="time"><strong>[00:12:29]</strong> </span>
-<span class="speaker"><strong>发言人3: </strong></span>
-其实我觉得今天咱们这个三个话题就是从wince到cursor到这后面说到gina也是AI编程，对吧？这个事儿其实我觉得是一个，怎么说呢？是一个水到渠成的事儿。因为咱们之前其实聊过科学，我记得咱们这还是请了gas一起聊吧，记得是对吧？然后对，就那个时候逼着我说要去用一用，结果上去之后我真的是用了一下，结果用的很痛苦。然后当时我就发现说，对我当时就就是说刚才其实当时我们也聊到了，就是说cursor他是给那些真正的编程的用户来做的。然后刚才老修其实很详细的介绍了一下，就是说从1.0时代，也就是说股权代码到后来的智能体，现在等于从强制换位，我觉得这个说法特别好。就是把原来我们坐在主驾，然后让让AI来做补全这件事儿上，变成了说现在我们作为一个导航，或者说我们作为指引，让他来主驾这个过程，对吧？
-</p>
-<p class="transcript-line">
-<span class="time"><strong>[00:13:22]</strong> </span>
-<span class="speaker"><strong>发言人3: </strong></span>
-然后咱们如果说回这个案子本身，就是说说到收购这件事情，我确实是最近对这个比较感兴趣。所以看了一些这个背后的资料。我觉得像那个OpenAI来讲的话，虽然很多人说他是因为收购不了cursor才去退而求其次找wen serf。我倒并不是觉得这个是百分之百的真相。因为咱真相是什么咱也不知道，咱也不是圈内人。我倒是觉得对于win 4他说过win serve这些买卖来说，确实还是比较值得的。或者说如果我我作为open OI的来讲，我可能更倾向于第一首选的window。
-</p>
-<p class="transcript-line">
-<span class="time"><strong>[00:13:56]</strong> </span>
-<span class="speaker"><strong>发言人3: </strong></span>
-为什么这么讲呢？就是说你看这个本身open I它的背景其实比较复杂的，它后面有微软，对吧？微软本身是有call什么copilot的，而且磕派属于是一代产品，它本身是有很强。
-</p>
-<p class="transcript-line">
-<span class="time"><strong>[00:14:09]</strong> </span>
-<span class="speaker"><strong>发言人2: </strong></span>
-的祖籍的鼻祖级的。
-</p>
-<p class="transcript-line">
-<span class="time"><strong>[00:14:11]</strong> </span>
-<span class="speaker"><strong>发言人3: </strong></span>
-而且它肯定背后有很强的实力。OpenAI其实最早他自己也想做AI编程，只是自己没做起来，没有在这领域里面成为像在GPT1样这种AI大模型的领先者。所以他把这个机会让给了别人。
-</p>
-<p class="transcript-line">
-<span class="time"><strong>[00:14:25]</strong> </span>
-<span class="speaker"><strong>发言人3: </strong></span>
-相当于来说，然后从科学来讲的话，我觉得它就是一个to c的产品。我就是在咱们断言一下，它是一个to c产品。因为它更多的用户都是to c端的用户，他并不是以企业级用户为著称的。而且它的收费模式也是sas模式，也是就是像老邱说的似的，自己作为这个付费用户，每个月去花钱，让最后来支撑他。现在好像2亿多甚至将近3亿的一个年度ARR了，这已经是非常高的一个数字了。
-</p>
-<p class="transcript-line">
-<span class="time"><strong>[00:14:54]</strong> </span>
-<span class="speaker"><strong>发言人3: </strong></span>
-但是从你看咱们来看看OpenAI，OpenAI我觉得他下一步的重点肯定是企业级。就是在咱们上次讨论过，包括讨论这个propel xy的时候也谈到过。因为作为OKI来讲，他前一段时间的这个文生图也好什么的，其实他在C端已经做的很不错了。他对C端的用户增长来讲，无论怎么样，还是说他的用户量来讲，都可以说是在AI级别来讲是领先地位的那他现在来讲最最重要是营收，要不然他怎么能去完成自己的这个估值的在提高，对吧？他先前一段时间好像我看有篇报道说open I本身自己去年的亏损是50个亿美金，对吧？那如果从这个角度来讲的话，那短期内他要想赢，不能说盈利增收，就是说从收入增长来讲的话，我觉得只有给企业的服务才能更迅速的扩量。
-</p>
-<p class="transcript-line">
-<span class="time"><strong>[00:15:41]</strong> </span>
-<span class="speaker"><strong>发言人3: </strong></span>
-而整个来讲，如果我们看这个cursor和VEF来讲的话，这两个公司其实很大的一个不同就是他们的服务的对象不同。刚才其实小苏也提到了，就是他们vince f是从to b端开始的，而且他现在已经有上千家这种企业了。其中不乏像我看的是摩根大通，还有像戴尔的对这种大的企业对吧？那这种企业本身他每个每年都要花很多钱在IT开发上面对吧？他愿意说用英文F来做服务。首先背书的这个增益就已经很强了，对吧？你比如说我服务过戴尔，那跟戴尔同级别或者比戴尔小级别的企业，那会更容易相信我，所以他后面的获客成本会变得很低。
-</p>
-<p class="transcript-line">
-<span class="time"><strong>[00:16:22]</strong> </span>
-<span class="speaker"><strong>发言人3: </strong></span>
-第二来讲，像小苏像刚刚老徐也提到了，就是他的具体的产品服务模式已经非常标准化了。所以它to b的服务的这个成本也会变低，就是获客成本变低，服务成本也变低。他后面的这个增长，我觉得就是说他的这个营收增长的潜力也许比科比还大，这是我个人判断。
-</p>
-<p class="transcript-line">
-<span class="time"><strong>[00:16:40]</strong> </span>
-<span class="speaker"><strong>发言人3: </strong></span>
-第二点来讲的话，对于OpenAI来讲，它的墙还是在模型方面大模型方面和数据对吧？还有包括培训？那从wince f来讲，它本身的之前还有一个背景是它对这个显卡的一个使用效率的提升。也许在这方面来讲，加上它现在目前的估值，加上现在它的增长趋势来讲。如果我说爱的这个创业者来讲，或者说我的决策层来讲，那我肯定会首选wens f的，我不见得会去再去找一家to c端很强的公司来增加我的长板。我可能更希望能找到像温sif这样的公司来补齐我的短板。所以这是我觉得他从决策端的一个想法。
-</p>
-<p class="transcript-line">
-<span class="time"><strong>[00:17:18]</strong> </span>
-<span class="speaker"><strong>发言人3: </strong></span>
-第二点来讲就是估值，你说30亿美金的估值，那绝对是很高了。尤其对于是一家公司2021年才创业，然后到现在来讲的话才四年的时间。而且中间还走了一个也不能叫弯路，还是走了一次转型的。所以说真正对做真正做这AI编程其实才两年多的时间，对吧？
-</p>
-<p class="transcript-line">
-<span class="time"><strong>[00:17:36]</strong> </span>
-<span class="speaker"><strong>发言人3: </strong></span>
-但是我们要看看它营收的增长，营收增长和估值的增长是对应的。他去年年底的时候，他的营收好像才几千万级别，到今年来讲的话已经是增长了两三倍。而且说据说据说在收购的这个阶段，它的营收已经达到了一亿美金的这个级别。其实这么来算那这么来算的话，它的市销率并不是很高。我说的不是什么很不是不是很夸张的那种高，跟其他AI公司也差不多，其实也就是5六七十倍这样的感觉。
-</p>
-<p class="transcript-line">
-<span class="time"><strong>[00:18:04]</strong> </span>
-<span class="speaker"><strong>发言人3: </strong></span>
-所以整个来讲，我觉得open I是做了一笔好生意，而且是他在在现在现现金流充裕的情况之下做了一笔好生意。做了一笔并不是花钱来买一个这个就是买一个能力，而是花钱能买到一块块增长，尤其是这个是企业级增长，也许在其他方面就不光是卖这个。企业级服AI编程服务了。他还可以把自己大模型打包一起来做企业级的卖销售。
-</p>
-<p class="transcript-line">
-<span class="time"><strong>[00:18:29]</strong> </span>
-<span class="speaker"><strong>发言人3: </strong></span>
-当然后面我们还会谈到这个团队的这一些特点，我觉得也非常有话题度，也非常值得去去去深挖一下。先回答小宋刚才说这个估值，我觉得估值并不高。说真话，对公司产品来说。
-</p>
-<p class="transcript-line">
-<span class="time"><strong>[00:18:43]</strong> </span>
-<span class="speaker"><strong>发言人1: </strong></span>
-那个咳嗽的估值就有点乱报价了，这已经90亿美金.
-</p>
-<p class="transcript-line">
-<span class="time"><strong>[00:18:48]</strong> </span>
-<span class="speaker"><strong>发言人3: </strong></span>
-那那没办法。对，就是你说这个东西首先来讲，就是说它你大家可以看到吗？他这一轮90亿估值，他拿了9亿美金。而且中间还有明星的风头，就不是那种小风头，不是说那种说句不好听的话，就是属于战略级的这是里面真有有大拿在里面的那我觉得那个web .
-</p>
-<p class="transcript-line">
-<span class="time"><strong>[00:19:06]</strong> </span>
-<span class="speaker"><strong>发言人1: </strong></span>
-coding那个概念之后，真的就标的对。
-</p>
-<p class="transcript-line">
-<span class="time"><strong>[00:19:10]</strong> </span>
-<span class="speaker"><strong>发言人3: </strong></span>
-所以这个估值我觉得也不虚。实话实说你想，整个全球来讲，还有几家这种to c的公AI公司，to c应用级的AI公司实现了高增长的，而且还是以收入成为高增长，而不是只是用户同时增长，对吧？然后我听说现在好像就是现在的用户有几十万级别，是吧？具体数字我忘了，几十万级别的付费用户对比。
-</p>
-<p class="transcript-line">
-<span class="time"><strong>[00:19:34]</strong> </span>
-<span class="speaker"><strong>发言人2: </strong></span>
-应该是上百万。
-</p>
-<p class="transcript-line">
-<span class="time"><strong>[00:19:36]</strong> </span>
-<span class="speaker"><strong>发言人1: </strong></span>
-超过100万.
-</p>
-<p class="transcript-line">
-<span class="time"><strong>[00:19:37]</strong> </span>
-<span class="speaker"><strong>发言人2: </strong></span>
-超过百万。那超过百万。
-</p>
-<p class="transcript-line">
-<span class="time"><strong>[00:19:39]</strong> </span>
-<span class="speaker"><strong>发言人3: </strong></span>
-这就这你想这是付费用户，这个已经非常高了。而且它后面。
-</p>
-<p class="transcript-line">
-<span class="time"><strong>[00:19:42]</strong> </span>
-<span class="speaker"><strong>发言人1: </strong></span>
-的话100万的用户超36万的付费用户。
-</p>
-<p class="transcript-line">
-<span class="time"><strong>[00:19:46]</strong> </span>
-<span class="speaker"><strong>发言人3: </strong></span>
-付费用户对几十万？对。
-</p>
-<p class="transcript-line">
-<span class="time"><strong>[00:19:47]</strong> </span>
-<span class="speaker"><strong>发言人2: </strong></span>
-几十万的付费率也很高。
-</p>
-<p class="transcript-line">
-<span class="time"><strong>[00:19:49]</strong> </span>
-<span class="speaker"><strong>发言人3: </strong></span>
-付费率很高。对活跃度又很高。尤其他现在本身是是是有收入的，是有现金流的，这个公司你说估值高不高，我觉得说真话，这个从风投来讲，这已经是很好的标的了。
-</p>
-<p class="transcript-line">
-<span class="time"><strong>[00:20:03]</strong> </span>
-<span class="speaker"><strong>发言人1: </strong></span>
-而他也愿意更更愿意自己独立发展。
-</p>
-<p class="transcript-line">
-<span class="time"><strong>[00:20:06]</strong> </span>
-<span class="speaker"><strong>发言人3: </strong></span>
-对，而且你找不到其他的可以替代的东西了，可以这么讲，对不对？温sif又被OpenAI给抢先了，对吧？Open I说说再说回来了，OpenAI如果不花这30亿，肯定有人愿意花。真的，而且30亿我觉得应该是全部收购了。我记得对，然后对你如果说别的人花20亿收购，51%也是花，对吧？
-</p>
-<p class="transcript-line">
-<span class="time"><strong>[00:20:28]</strong> </span>
-<span class="speaker"><strong>发言人3: </strong></span>
-那我觉得欧风娅已经很已经很聪明了，他知道再拖一个月，如果再让那个文增再增长2个月，如果假设他从1亿的营收变到2亿，我靠，那就不是30亿能拿的下来。而且又有这个科室在前面对标90亿和30亿，其实他们的营收并没有说差那么多。而且企业级服务的增长就像像我刚才分析的，我觉得to b的增长会更稳。说真话，to c的天花板很容易达到的，很快就可能就没有那么多付费的编程人员愿意去用它了。
-</p>
-<p class="transcript-line">
-<span class="time"><strong>[00:20:56]</strong> </span>
-<span class="speaker"><strong>发言人1: </strong></span>
-是的，而且我看科室的使用的话，因为毕竟对于to c来讲，我觉得弃用率还是比较高的。你看现在很多你会发现真的要用在生产环境的话，其实我相信大多数人像老修，他也是愿意选择wsf对吧？那如果你你咳嗽这种这样的一种更偏to c的产品，它对于企业级其实并不是那么的的友好的对。
-</p>
-<p class="transcript-line">
-<span class="time"><strong>[00:21:23]</strong> </span>
-<span class="speaker"><strong>发言人2: </strong></span>
-这里面我觉得可以补充一个东西，就是我觉得特别有感触。刚才贤哥讲的OpenAI买了它之后可以扩充自己的大模型。因为其实从编码的角度来讲，open I这块在整个最领先的这个咳嗽werf，包括好多地方这个ChatGPT都是被甩在后面的。大家全部都在用anthropic的cloud，对，那个3.7 net大家都在用这个，因为这个里面它最后的效果差距不是一点点，是很大。
-</p>
-<p class="transcript-line">
-<span class="time"><strong>[00:21:56]</strong> </span>
-<span class="speaker"><strong>发言人2: </strong></span>
-那那ChatGPT虽然说后面这个O1、O2、O3这些的思考模型都好像很牛逼，问题是它太贵了，然后这个性价比不行。其实编码里面有的很困难，也有很简单的事。如果全用你这个，大家一会儿就烧烧的，不知道烧掉多少钱。
-</p>
-<p class="transcript-line">
-<span class="time"><strong>[00:22:14]</strong> </span>
-<span class="speaker"><strong>发言人2: </strong></span>
-对，所以这里面再加上这个to b的这个通道，也很重要。就是vf一千多个商家，我相信售后服务的比较好。因为我们自己看一下它的路线，从原来卖GPU的加速来讲，那肯定也是to b的。那必须to b对，应该卖的都是企业的CTU的，或者至少是IT的director以上的这个级别的人才会去买这种GPU加速的事情，那那规模也不小，那才能买得起。对，然后这个就是说所谓一审审个几百万的那种概念，那这种都不会小。所以他这种转型过来再去做AI编程，然后再去卖这些相关的企业的话，其实是还是有很多企业客户资源。估计原来都可以复用的。
-</p>
-<p class="transcript-line">
-<span class="time"><strong>[00:23:03]</strong> </span>
-<span class="speaker"><strong>发言人2: </strong></span>
-而且服务了那么长时间，我相信也会服务的还可以。因为我们就从整个的完善程度来看是这样子的那这个渠道其实特别的重要。就是如果不是他这样子的渠道的话，你我我们做to b的软件会知道，其实跟to b的企业打通，很重要的是要去搞定离他近的那些服务商。你就把我觉得就把它当做是一个集成服务商一样，对吧？是一个其实像戴尔，还有很多这些顶级的我们上一代的这些做软件硬件服务的，都有这种很好的集成服务商。那集成服务商其实是最最能拿单的，天天跟着用户在一起，然后那个用户哪里有什么痛点都知道。你自己的服务人员其实肯定看不到这么细的，而且不会有这么长的一个长期的用户关系。其实所以这个我看的话，我感觉他这一部分的渗透，要讲渗透的话，他可能很容易在这个时候去说，不要用cloud那个3.7的，用一下我GPT的哪个版本，那效果跟他差不多。
-</p>
-<p class="transcript-line">
-<span class="time"><strong>[00:24:06]</strong> </span>
-<span class="speaker"><strong>发言人1: </strong></span>
-还有一个软性的就是open I其实哪怕可能编码能力很强，他没有那个用户心智。就现在这块在编码的用户心智要么在cloud要么在germ line，对吧？就是大家不会首选说我用OpenAI来做编程，他没有这个心智，哪怕你能力到那里了，他也需要有一个这样子代表AI编程用户心智的产品，不管是wsf还是什么东西的，去去帮他去打这块的市场。
-</p>
-<p class="transcript-line">
-<span class="time"><strong>[00:24:33]</strong> </span>
-<span class="speaker"><strong>发言人2: </strong></span>
-这个时候我觉得这里可能也是个趋势。相当于你这个大模型厂商以后要推，你还是得依赖这个领域比较顶级的产品产品这个产品会带着你，他离用户很近，用户相信他，而不是说相信你后面。因为其实这些产品背后都是所有的产品都接的，也支持cloud，也支持GPT，支持现在还支持他们自己建的，那科索那边还有自己的大模型。对，然后像这些东西的话，那他这个产品反正让用户觉得很爽，什么都能选。如果我是个to b的厂商，捆绑一些东西，然后再给你一些一些一些一些好的最佳实践，那你可能就直接用了，你就直接apply整套的东西了，都不不会想那么多，甚至用户到最后可能不会care你到底用的是拆chat GP还是什么。
-</p>
-<p class="transcript-line">
-<span class="time"><strong>[00:25:20]</strong> </span>
-<span class="speaker"><strong>发言人2: </strong></span>
-可能我最后问的只是说最后有没有帮我省到钱。因为我过程中间会不断的switch，会不断的切换不同的大模型。我可能有些场景用便宜的好，有些场景要用贵的那你能帮我这些东西搞定就行。因为其实这些科技跟威sif都做的不错的，特别是在科索那。对对，科索那边这块性价比已经做的很好了。就是他在做这个so net跟其他模型切换的，包括他自己的小模型切换，都已经做的很好了，对不对？但这些我都觉得是一个好的趋势，所以就对于UPI而言，这个其实是一种渠道跟那个铺那个合作商的一一种一种角度，或者说甚至他的流量入口。就是要找这类的人，这类的人跟企业我都会觉得说是很有用的。
-</p>
-<p class="transcript-line">
-<span class="time"><strong>[00:26:04]</strong> </span>
-<span class="speaker"><strong>发言人2: </strong></span>
-然后还另外一个就是很重要的就是他open I要找这个coding是肯定要找的。是因为现在在外面，它这里有一个经典问题，就是它本身跟微软是深度绑定，有github copilot这个鼻祖在手上。对，拥有全网最大的开源的代码库都在那儿，最早的代码补全也都在他那，他干嘛还要再买一个AI coding？因为这里有一个问题，就是所有的这些开源代码库都是已完成的代码。那你再从写出来到已完成过程中间，这个过程中的那个AI数据跟人合作的数据上下文以及人的第一反应，就是你的意图识别跟你的实际行为的反馈。相当于实际上是一个持续的识别反馈以及打标注的过程。
-</p>
-<p class="transcript-line">
-<span class="time"><strong>[00:26:56]</strong> </span>
-<span class="speaker"><strong>发言人1: </strong></span>
-因为人的数据而不是结果数据。
-</p>
-<p class="transcript-line">
-<span class="time"><strong>[00:26:58]</strong> </span>
-<span class="speaker"><strong>发言人2: </strong></span>
-对人可能会说傻逼，你又做错了，就跟我们在副驾在肯定会说你给要我要你要往左边开，你给我开右边去了，或者说这个路明显你应该是怎么过的这人是有很多的输入的，这个是在过程中，而不是在最后那一堆代码里面，那一堆代码看不出来。对你根本不知道这堆代码是怎么迭代成这样的那这里面其实而且软件又是一个持续的工程化的东西。虽然说大家现在经常讲web coding什么的。一次一次coding.
-</p>
-<p class="transcript-line">
-<span class="time"><strong>[00:27:27]</strong> </span>
-<span class="speaker"><strong>发言人1: </strong></span>
-真的很web.
-</p>
-<p class="transcript-line">
-<span class="time"><strong>[00:27:28]</strong> </span>
-<span class="speaker"><strong>发言人2: </strong></span>
-就是真的很飘。对，就是很飘。其实真正的一个好的产品，绝对不是一两次生成出来的，通常都是迭代上百次，或者是更大的软件就更多了。那那这里面那么多次的这个过程也是没有的，就公你在公开肯定是没有的。你一定得去借助这种我们刚才说的集成开发环境，跟这个程序员密切工作的这个集成开发环境。它里面又有那么深的那些权限，又有文件的权限、内存的权限，各种各样的权限。他才能真正的知道用户到底在什么时候想做什么事，然后他具体怎么做的，然后他怎么反馈给这个AI的，这个叫做incomplete data，就是非完整的数据。但是对于AI特别的重要，它上下文反馈标注训练全部都在这里面对。
-</p>
-<p class="transcript-line">
-<span class="time"><strong>[00:28:15]</strong> </span>
-<span class="speaker"><strong>发言人2: </strong></span>
-这个数据太值钱了，那只是说我要找谁买的问题，那咳嗽不卖有可能那那但是咳嗽如果买，我估计如果咳嗽要卖，他可能两家都买都可以对吧？问题是可能人家不卖，就是这样子。那那wsf这个有卖的话，那他绝对是赚了。因为这个数据你自己虽然也能收集。
-</p>
-<p class="transcript-line">
-<span class="time"><strong>[00:28:35]</strong> </span>
-<span class="speaker"><strong>发言人1: </strong></span>
-跟你没有客户端。
-</p>
-<p class="transcript-line">
-<span class="time"><strong>[00:28:36]</strong> </span>
-<span class="speaker"><strong>发言人2: </strong></span>
-但你没有你你没有客户心智就不一样。
-</p>
-<p class="transcript-line">
-<span class="time"><strong>[00:28:39]</strong> </span>
-<span class="speaker"><strong>发言人1: </strong></span>
-对，没有心智这些东西都很麻烦。
-</p>
-<p class="transcript-line">
-<span class="time"><strong>[00:28:41]</strong> </span>
-<span class="speaker"><strong>发言人2: </strong></span>
-没有客户其实我觉得是相当麻烦的。就是用户总觉得ChatGPT是去聊聊天，去entertainment，去聊去娱乐的对那那这个事情我怎么去跟他编程，我跟他可能只能会处理一些简单的数据，我不会相信跟他一起搞编程，那实际的效果也没有那么好。这个还是差距很大的对所以这个事情就是说专业的和业余的差别还是非常大的那那这个从心智到最后你的培养还蛮，我相信是不容易跨越的那这里面整个的所以这个过程中的数据，过程中的上下文数据反馈标注，其实是在这些标注的数据非常有价值。都是你想想都是能真正标注好的，都是比较优质的程序员，资深程序员，他才知道这个关键的坑你怎么过。
-</p>
-<p class="transcript-line">
-<span class="time"><strong>[00:29:28]</strong> </span>
-<span class="speaker"><strong>发言人2: </strong></span>
-其实我自己在用的时候，经常会碰到他选一些什么通用的一些library库库，或者一些API或者是一些解决方案，完全就搞错了。我就跟他说这个东西你不能从API角度做，你得从UI角度去干。比如说这个我的例子是特别明显，这个例子刚好可以讲一下。就是当时是一个投资人朋友说他要去爬一个汽车的那个资讯站里面的信息，他自己用这种片层的搞了一下，他用的是deep sick，然后弄得很惨。Deep sick给他写了十个版本，越越写越越效果越好啊。对，效果越差。然后他就说是不是我自己提示的不好，然后我看了一下，我说你写的需求是对的，问题是DVCK越到后面越理解不了你的需求了。
-</p>
-<p class="transcript-line">
-<span class="time"><strong>[00:30:15]</strong> </span>
-<span class="speaker"><strong>发言人2: </strong></span>
-对，完全是理解错了，然后到后面都飘了，然后我说可以试试咳嗽。或者是像win serve这样子，然后他从来没听说过这两个东西，然后就去下了一下下了一下以后发现用不起来然后他先去下了，咳嗽就用不起来。然后我就想一下，这可能是有点复杂，然后我自己也用咳嗽做了一下。我咳嗽的话真的一个月正常就是500次的高级调用。我记得那一次做那个爬虫可能就用掉了一百多次，就一天我就用掉了一百多次。
-</p>
-<p class="transcript-line">
-<span class="time"><strong>[00:30:46]</strong> </span>
-<span class="speaker"><strong>发言人1: </strong></span>
-而且过程中主要是用来改。
-</p>
-<p class="transcript-line">
-<span class="time"><strong>[00:30:48]</strong> </span>
-<span class="speaker"><strong>发言人2: </strong></span>
-对吧？过程中都在改，就是他想的方向是几个大方向都对，就是具体干下去以后发现就越干越狭窄。他会在一个很小的一个方向是里面一直做错。比如说他一直尝试从API端去获取数据，但是其实由于他上下文的长理解长度是有限的，大概可以上限是20万token。然后这个token量反正不是很大。
-</p>
-<p class="transcript-line">
-<span class="time"><strong>[00:31:14]</strong> </span>
-<span class="speaker"><strong>发言人2: </strong></span>
-我们可能经过几轮五轮、六轮以后，他前面其实验证过这个API是跑不通的，他就忘记了。他没办法把前面的这个结果拉进来，他就忘记了他又会在过程中间去尝试用API这个方式。我其实告诉他API被人家做了反爬虫的那个机制不可以用，我就特别在提示他不可以用，然后他才能够跳出来。然后我跟他说你给我换别的方式，然后告诉他指定用哪种方式，那这样才跳得出来。像这种东西就是你有经验的程序员才有的那这些都是非常优质的标注数据。
-</p>
-<p class="transcript-line">
-<span class="time"><strong>[00:31:47]</strong> </span>
-<span class="speaker"><strong>发言人1: </strong></span>
-标注数据对。
-</p>
-<p class="transcript-line">
-<span class="time"><strong>[00:31:48]</strong> </span>
-<span class="speaker"><strong>发言人2: </strong></span>
-其实就是标志非常优质的标准数据。这些数据的话你肯定要买，这个东西的话你不用买的。
-</p>
-<p class="transcript-line">
-<span class="time"><strong>[00:31:55]</strong> </span>
-<span class="speaker"><strong>发言人1: </strong></span>
-你怎么去搞呢？所以这就是我们经常讲的know how值钱，什么江湖一点感觉就是这些东西吗？
-</p>
-<p class="transcript-line">
-<span class="time"><strong>[00:32:02]</strong> </span>
-<span class="speaker"><strong>发言人2: </strong></span>
-对，就是这些东西。所以你看我当时这个东西看了一下我会发现，而且我看到他高级调用掉了那么多，我一个月500的被这一个东西一天一两个小时就耗掉100，我靠自己都瞎想，心疼的。然后我那天就跟那个投资人朋友说，这个其实蛮困难的。你要爬那个网站，反爬虫是专业的工程师做的。这些你想业余人员用一个入门级的工具，稍微专业一点，那还是入门级的去摆平。想想想要攻破人家专业人员写的代码是不可能的。你就不要想了，你用一个别的方式图一点，找个实习生去把那个数据看一看就好了。
-</p>
-<p class="transcript-line">
-<span class="time"><strong>[00:32:42]</strong> </span>
-<span class="speaker"><strong>发言人1: </strong></span>
-这个钱还是要花的对对。
-</p>
-<p class="transcript-line">
-<span class="time"><strong>[00:32:44]</strong> </span>
-<span class="speaker"><strong>发言人2: </strong></span>
-就是钱还是要花的。对对对，就很具体的一个case.
-</p>
-<p class="transcript-line">
-<span class="time"><strong>[00:32:48]</strong> </span>
-<span class="speaker"><strong>发言人1: </strong></span>
-就是分享一下它抠back一下，就是AI时代你看OpenAI OpenAI这种大公司，它也是有自己的窘境的。其实你像刚才老师讲的这个例像这种know how这种细节的处理，然后用户的心智这个东西就是无价的。就不要提什么护城河不护城河，什么大模型溢出怎么办。你想想这两个东西，用户心智跟这种细节上面的认知的话，这种真的是无价的东西。这个可能就是哪一天也会有人找你，你有一个领域就是有特别强的洞察用户心智，或者是说你有非常专业的理解，那你也值得这30亿美金。
-</p>
-<p class="transcript-line">
-<span class="time"><strong>[00:33:30]</strong> </span>
-<span class="speaker"><strong>发言人2: </strong></span>
-对，没错，是。
-</p>
-<p class="transcript-line">
-<span class="time"><strong>[00:33:32]</strong> </span>
-<span class="speaker"><strong>发言人1: </strong></span>
-那我们再讲下一个话题，刚才讲的cursor跟wind surf都是IDE，就都是这种客户端形式的对，最近有听友说我们上一期聊的聊聊早了，因为最近。
-</p>
-<p class="transcript-line">
-<span class="time"><strong>[00:33:47]</strong> </span>
-<span class="speaker"><strong>发言人2: </strong></span>
-又刷屏了。
-</p>
-<p class="transcript-line">
-<span class="time"><strong>[00:33:48]</strong> </span>
-<span class="speaker"><strong>发言人1: </strong></span>
-又放了一个IO版本出来刷屏了。就是编程能力巨强无比，因为他赶着在在这个google大会之前发，google IO大会之前发。对，这一版其实就是最强的能力是在编程上面。也就是说你看一些例子，就是你给他画一张草图，他就可以帮你把整个带交互的这样一个程序给做出来。它最强的是在编程以及多模态的提示词的理解。比如说你可以用草图，用视频去作为你的提示词，让它去生成一个可以交互的带有UI的这种代码或者一个项目。这是他这一次更新最强的一个点。
-</p>
-<p class="transcript-line">
-<span class="time"><strong>[00:34:32]</strong> </span>
-<span class="speaker"><strong>发言人1: </strong></span>
-我想聊聊这个话题。因为我不知道你们两个用了没有，但反正我昨天晚上是用了，就拿了一张草图，让他去复刻我之前做的一个项目。然后我发给我们的这个看工程师，看工程师说做的比我们的前端做的还好。
-</p>
-<p class="transcript-line">
-<span class="time"><strong>[00:34:49]</strong> </span>
-<span class="speaker"><strong>发言人3: </strong></span>
-你太打击人了。
-</p>
-<p class="transcript-line">
-<span class="time"><strong>[00:34:50]</strong> </span>
-<span class="speaker"><strong>发言人1: </strong></span>
-我都不敢告诉前端。对。
-</p>
-<p class="transcript-line">
-<span class="time"><strong>[00:34:54]</strong> </span>
-<span class="speaker"><strong>发言人2: </strong></span>
-看起来好，背后还有很多事情是还是在工程师写的对对。
-</p>
-<p class="transcript-line">
-<span class="time"><strong>[00:35:00]</strong> </span>
-<span class="speaker"><strong>发言人1: </strong></span>
-还是当然有坑了，肯定是有坑的，肯定有一些坑在里面。对对对，所以我就不知道这种两位怎么看这种非IDE形式的，就是大模型厂商自己做的这种编码。对。
-</p>
-<p class="transcript-line">
-<span class="time"><strong>[00:35:14]</strong> </span>
-<span class="speaker"><strong>发言人2: </strong></span>
-这个我从角度是我说一下，从产品技术角度讲一下，其实这个就是一定是好事。首先有更多的人可以直接利用这个东西去做自己想要的原型了，我觉得这个是好事，作为产品经理我是特别开心的，这种东西越轻越好。我能不去IDE就不要去IDE。
-</p>
-<p class="transcript-line">
-<span class="time"><strong>[00:35:36]</strong> </span>
-<span class="speaker"><strong>发言人1: </strong></span>
-就是你只要自己画ipad上面画完你那个草图，你不是每次都用ipad画图吗？对吧？然后就直接丢下去就可以了。
-</p>
-<p class="transcript-line">
-<span class="time"><strong>[00:35:44]</strong> </span>
-<span class="speaker"><strong>发言人2: </strong></span>
-笔记本上手绘，就是用铅笔或者是普通的笔画了一些图，然后就能让它生成。因为其实我们刚才说的这些ID也都能干，而且干的还很好，是不是？都现在这些ID就是咳嗽或者win f都能做那个design pattern的，都能把那个设计模式搞进去。设计模式就是对你做设计比较懂，可能贤哥不太知道。设计模式就是说你一个UI上面各种各样的主配色、次配色，然后各种各样的间距什么的，这些都是有严格要求的，这种是到像素级的。咳嗽这些都能做了。
-</p>
-<p class="transcript-line">
-<span class="time"><strong>[00:36:19]</strong> </span>
-<span class="speaker"><strong>发言人2: </strong></span>
-所以如果从细节专业度的话，其实这些IDE的都都已经都能搞这些。因为他们是把大模型茜在他的ID里面，就IDE我刚才讲最重要的是他的上下文的获取的深度。就是它能够对这个磁盘的内存，这里面的很多东西做进行长上下文的处理。这些上下文对于编码是特别重要。如果上下文不够长，其实他只能做特别简单的这些程序。
-</p>
-<p class="transcript-line">
-<span class="time"><strong>[00:36:44]</strong> </span>
-<span class="speaker"><strong>发言人1: </strong></span>
-那我提问一下，如果假设google做的这个IO版本的gm如果是嵌入到科里面去的，理论上我在科室也可以用到这种类似多模态的这种提示词或者上下文。比如说我传个视频给科室，然后说你按这个交互帮我把动画做出来。
-</p>
-<p class="transcript-line">
-<span class="time"><strong>[00:37:03]</strong> </span>
-<span class="speaker"><strong>发言人2: </strong></span>
-对，完全可以的。而且咳嗽现在这块其实做的很好，就是咳嗽已经进化到了工程化的水平了。就是说我刚才说的设计有design python然后到了那个代码这一块，比如说前端后端，它有前端后端的整个的设计的规范。这些规范你都只要能找到合适的规范给他他做出来的质量那就是非越级的那那那让他自己想，其实他会从有点像他会从一个比较聪明的学生，从原理端给你去重新创造这些东西。那他的规则显然是不太行，但是能用。但是真正的我们这种量产的东西的话，实际上是会有很多规范的。就是你做大型的企业，做大量的规范。把这些规范如果提取的合适的给到科技再去生成代码，它的质量是非常高的那他们能支持这种各种设计规范进去，然后再生成，像这些我相信后面都能套进去的。
-</p>
-<p class="transcript-line">
-<span class="time"><strong>[00:37:56]</strong> </span>
-<span class="speaker"><strong>发言人1: </strong></span>
-对，其实我觉得老师讲这一点是非常有启发的。就是原本产品经理画完图以后，可能要交给UI去做做完以后UI要评审，评审完再交给前端去做，这里面其实有很多的损耗。是的，那那如果现在比如说在提示词的多模态在上面，或者在这种上下文的理解上面更强了。那产品经理其实自己可以通过一些草图，或者通过一些视频去生成这种可供评审的，或者已经可以让前端参与评审的这种原始的模型了。就比你自己做那个线框的交互，其实那个就不用做了。
-</p>
-<p class="transcript-line">
-<span class="time"><strong>[00:38:33]</strong> </span>
-<span class="speaker"><strong>发言人2: </strong></span>
-对吧？以前其实有很多专门做这种工具的，就是专门做辅助的，包括如果是国国外最出名的就是fig ma这些gma那那这些工具的话，它的特点就是说，我打个比喻，大家比较熟的photoshop。对，photoshop这个里面你肯定知道它的按钮多到你可能都不知道伟哥是干嘛的，但是他确实足够的强大，你干啥都行。也就是说以前产品经理也是有很好的工具可以去做出非常强的，我们叫做最终的最希望的是可交互的高保真原型。
-</p>
-<p class="transcript-line">
-<span class="time"><strong>[00:39:07]</strong> </span>
-<span class="speaker"><strong>发言人2: </strong></span>
-对这个东西对那这个东西的话其实现在就是如果你的大那个能力，就应该说功能不复杂的话，就像杰米尔这些可能直接就可以给你生成了，都不用跑到IDE里去。那IDE可能是做的复杂一点，比如说页面特别多，交互复杂，然后角色很多，那可能需要靠它。因为上下文的长度可能你都得很长，然后还得挂一堆文件让他理解，这些就是IDE特别适合的那但是简单一点的，其实可能直接有接面来，或者甚至是其他的大模型看到的。如果以后出个什么3.9什么之类的对，大家就会直接生成了，那效果就很好。这种其实对于产品设计人员，不一定是产品经理。
-</p>
-<p class="transcript-line">
-<span class="time"><strong>[00:39:47]</strong> </span>
-<span class="speaker"><strong>发言人2: </strong></span>
-比如说哪怕是市场运营，然后是其他客甚至是客服的那就是大家只要是跟这个产品打交道的人，你有一个想法，你就真的可以让他这个想法变得可以交互的让大家看，可以点，可以跟你原来的东西去交互起来。那这个意思的传达的一致性就特别强。这个一致性特别重要，比如说尤其是在你原有的那个原有的系统。因为实际大多数企业的场景一定是在原有的系统产品上迭代，而不是说从0到1做。
-</p>
-<p class="transcript-line">
-<span class="time"><strong>[00:40:16]</strong> </span>
-<span class="speaker"><strong>发言人1: </strong></span>
-比如贤哥这种，我这个页面进去一定要让用户震撼。什么叫让用户震撼？对你这个时候清楚。
-</p>
-<p class="transcript-line">
-<span class="time"><strong>[00:40:25]</strong> </span>
-<span class="speaker"><strong>发言人2: </strong></span>
-对你现在这个时候就可以给他一个UIL，说要跟这个网站弹出来那个框一样震撼。
-</p>
-<p class="transcript-line">
-<span class="time"><strong>[00:40:31]</strong> </span>
-<span class="speaker"><strong>发言人1: </strong></span>
-然后对对对。
-</p>
-<p class="transcript-line">
-<span class="time"><strong>[00:40:32]</strong> </span>
-<span class="speaker"><strong>发言人2: </strong></span>
-然后基于我现在这个UI给我调调上去一样震撼，然后他就可以给你出来，这个就是现在的能力了。
-</p>
-<p class="transcript-line">
-<span class="time"><strong>[00:40:40]</strong> </span>
-<span class="speaker"><strong>发言人1: </strong></span>
-所以陈哥像你这种只出嘴的，我在你就只出嘴的对吧？是不是就有有有有福音了。
-</p>
-<p class="transcript-line">
-<span class="time"><strong>[00:40:47]</strong> </span>
-<span class="speaker"><strong>发言人3: </strong></span>
-所以我就说现在你要是创业，还只是停留在想法，就没有道理了，没有理由了，对吧？你偷不了懒了。因为现在好多工具真的是可以一步到位，就是说所不到位当然有点夸张，就是说你真的想去做，以前是做的做不到的，现在通过AI工具的话，你可以很轻松的实现出可视化的这种交互。然后就是说我说回来说到刚才说到这个话题，就是geria去做这件事儿。我是觉得这件事儿来讲的话，对他来讲只是个功能，就还不是产品，对吧？那对于很多小创业公司来讲的话，这可能就是产品。但是对于我们创就是创业者来讲，他就是个工具。但是如果你要是不用的话，那数据不好听的话。
-</p>
-<p class="transcript-line">
-<span class="time"><strong>[00:41:25]</strong> </span>
-<span class="speaker"><strong>发言人1: </strong></span>
-那就就它就像那种摆在珠海航展那种六代机的模型。大家都来看，我有这个东西。对对对。
-</p>
-<p class="transcript-line">
-<span class="time"><strong>[00:41:34]</strong> </span>
-<span class="speaker"><strong>发言人3: </strong></span>
-所以我想说的就是什么，就像Jimmy的这种的，他就像因为咱们前两期都在谈google，对吧？那这现在的功能已经越来越强大，而且我相信他已经走在正确的路上了。他在大模型的层面上又把自己的很多应用，尤其是之前那种全家桶的这种模式，也把它做AI的再次升级。那未来真的是不可小觑，它很多这种功能都是非常实用的功能。而对于好多小的创业公司来讲的话，尤其是AI创业公司来讲的话，他如果真的就像咱上次说，你要是在google前面的话，很危险，很容易就被碾死了。但你要在他后面的话就很很舒服，你就捡查漏下来的这些营养的东西，掉下来的好吃的都很棒。
-</p>
-<p class="transcript-line">
-<span class="time"><strong>[00:42:13]</strong> </span>
-<span class="speaker"><strong>发言人1: </strong></span>
-能吃到。如果是咳嗽我就觉得很爽啊，对吧？你这个对，你这种能力一更新，那么长的上下文又多模态原生多模态，我爽的不要命。
-</p>
-<p class="transcript-line">
-<span class="time"><strong>[00:42:23]</strong> </span>
-<span class="speaker"><strong>发言人3: </strong></span>
-但如果你要是OpenAI，你就会觉得很很紧张吧？对你现在来讲的话，我还拿什么去去去留住我的爱人们，留住那些去付去去续费？这很难。其实确实站的角度不一样，完全不同的看这个问题。
-</p>
-<p class="transcript-line">
-<span class="time"><strong>[00:42:40]</strong> </span>
-<span class="speaker"><strong>发言人2: </strong></span>
-是的。
-</p>
-<p class="transcript-line">
-<span class="time"><strong>[00:42:40]</strong> </span>
-<span class="speaker"><strong>发言人1: </strong></span>
-对，而且像G他其实也不想让你进入生产环境。我感觉就是你你在上面做，他每次你任何做一个更改都是全量改你的代码。然后基本上很容易把上一次的代码改废掉。你跟他说改个交互，然后可能改着改着把你那个你要那个弹窗给我一个震撼的弹窗搞没掉。
-</p>
-<p class="transcript-line">
-<span class="time"><strong>[00:43:03]</strong> </span>
-<span class="speaker"><strong>发言人2: </strong></span>
-也很正常，这些就很崩溃。你看像你这个场景，那必须得用程序员熟悉的方式去管理代码才行。就是得旁边挂个源代码管理的或者什么的，然后时不时get去去push一下，然后再给他重新恢复一下。
-</p>
-<p class="transcript-line">
-<span class="time"><strong>[00:43:19]</strong> </span>
-<span class="speaker"><strong>发言人1: </strong></span>
-所以他最理想的场景是一把中，怎么样能够一把中呢？就是像老师这种专业的程序员，或者像贤哥这种专业出嘴吧？你有详细的脑图或者详细的流程图给他一把中，然后不要改了。
-</p>
-<p class="transcript-line">
-<span class="time"><strong>[00:43:32]</strong> </span>
-<span class="speaker"><strong>发言人3: </strong></span>
-直接去演示。没错，就拿着演示就好了，剩下的东西都靠想象弥补了。对，不要来来来想在它上面做修改。
-</p>
-<p class="transcript-line">
-<span class="time"><strong>[00:43:38]</strong> </span>
-<span class="speaker"><strong>发言人1: </strong></span>
-对，那你真要进入生产环境，那你不好意思，你就用可是那个版本的卷奶，或者是用那个win surf版本的就好了。
-</p>
-<p class="transcript-line">
-<span class="time"><strong>[00:43:46]</strong> </span>
-<span class="speaker"><strong>发言人3: </strong></span>
-真正的生产环境，我可能觉得went可能又有他自己的领先优势，尤其他服务企业级to b的那个经验，对吧？经常是要去先去学习原有的就是to b的原来有原有代码等等这些东西。他可能在这我想象中，他在这种服务中肯定积累了大量的能耗。
-</p>
-<p class="transcript-line">
-<span class="time"><strong>[00:44:03]</strong> </span>
-<span class="speaker"><strong>发言人2: </strong></span>
-对这里面我就可以补充一个细节，是很有意思的。因为我刚好看过科技的创始人，创始团队的人出来吐个槽。他就讲说，我们这个发展很快，但是我们也很痛苦。特别痛苦的一点是这些大模型厂商的创业公司，什么OpenAI SO pic cloud，我这个调用一大他们就崩溃。然后天天搞的跟他们说我这个调用真的很大，我的长上下文很长，搞不定。然后他们经常那边会崩溃，然后搞得我自己得去拿各种地方去搞资源，然后让他不会崩溃。其实如果说像杰米的谷歌的这种的，我猜就不那么容易崩溃了。因为谷歌自己我们之前讲过，谷歌是个是全面型的从头到尾。
-</p>
-<p class="transcript-line">
-<span class="time"><strong>[00:44:44]</strong> </span>
-<span class="speaker"><strong>发言人1: </strong></span>
-一站式对。
-</p>
-<p class="transcript-line">
-<span class="time"><strong>[00:44:45]</strong> </span>
-<span class="speaker"><strong>发言人2: </strong></span>
-一站式搞定的这个稳重的中年男人，什么都行。所以如果说像歌手和win surf这种后面去接这个杰米来的，可能他们自己应该都会去相对应的做一些自己的版本。肯定是会有他们这种IDE专用的版本。
-</p>
-<p class="transcript-line">
-<span class="time"><strong>[00:45:03]</strong> </span>
-<span class="speaker"><strong>发言人2: </strong></span>
-在这个合作过程中间，其实又要体现出你跟to b公司的合作能力了，对吧？就是你你在这里面我讲一个很技术的简单的东西，就是刚才柯所说的这种会挂掉。那会挂掉这种东西从技术上会经常会说，我要去有有就有很多机制要想办法让对方能够主动的告诉我们怎么挂掉，或者是说我这边慢了，我主动的告诉你，你那边慢了，然后你给我怎么改。
-</p>
-<p class="transcript-line">
-<span class="time"><strong>[00:45:29]</strong> </span>
-<span class="speaker"><strong>发言人2: </strong></span>
-这里面其实。如果是一个成熟的服务to b的公司，他就会知道说，那这里面我就有一个机制，我要跟人家约定好，我这里该做什么，你该做的什么。然后大家如果说是很熟悉的，大家一下就把这个东西就接上了。如果没做过to b的这个，可能这边就是要搞半天对吧？就是这个很基础的一些只是关于服务是不是起来，然后服务是不是慢，这些很基本对用户体验很明显的东西，其实是很不好搞的那像这些的话，其实如果是一个to b基因的企业，其实对open I的又赚到了。那这种东西我因为open I自己做to b也不好，也不是很好。对，就这么个情况。
-</p>
-<p class="transcript-line">
-<span class="time"><strong>[00:46:09]</strong> </span>
-<span class="speaker"><strong>发言人1: </strong></span>
-对对对，所以我觉得就是技术变得太快了，快到大家可能都有点措手不及。对，而且你刚才讲到像google这个，我为什么我一定今天想再谈一下dream的，就是之前大家的反馈真的特别踊跃。然后讲这个讲我我觉得对我来讲最简单的一句话概括，像google这样老实讲的中年男人公司，就是出彩肯定就还可以。对，但是最重要是稳定。对，稳四平八稳就是稳，然后能干大活。对，就是关键时刻能扛事情，我觉得这个就很重要。尤其像我们这种用户的话，在用到一些比较专业的项目的时候，是其实是需要他稳定输出了。我就不不能不能中途会有有太多的对飘很飘的地方，那这个可能是不能接受的。
-</p>
-<p class="transcript-line">
-<span class="time"><strong>[00:47:06]</strong> </span>
-<span class="speaker"><strong>发言人2: </strong></span>
-有的不能出现像创业公司这种，我像什么Venus搞一个成功率不到70%，不到60，我做个东西那我受不了，或者说你给我生成个东西要4个小时，我也受不了，对吧？这个其实我们在很多其他的初创型的企业里面，服务上都碰到过。那你接下来我们至少这一个月疯狂使用中好像都很稳，没出现过这种性能问题，甚至是质量上的一些很低的板短板都没出现。
-</p>
-<p class="transcript-line">
-<span class="time"><strong>[00:47:33]</strong> </span>
-<span class="speaker"><strong>发言人1: </strong></span>
-是的，而且我越来越感觉google在做之后，很多的东西都是希望未来一出来到to b的。对，因为它的谷歌云一直在增长，它的to b也一直在增长。对，然后我看他其实是把整个娟本来当做一个to b的试验田。
-</p>
-<p class="transcript-line">
-<span class="time"><strong>[00:47:54]</strong> </span>
-<span class="speaker"><strong>发言人3: </strong></span>
-没错没错，就像咱们上期谈的，他从这个google lab的从来来整个来来发力来做这个事情，本身就是有这个想法的。我觉得现在就是要快速试错，在I阶段已经发展太快了，真的没有机会慢慢去研究一个产品是从怎么做到成熟的，也许就已经被别人都已经做到领先了。
-</p>
-<p class="transcript-line">
-<span class="time"><strong>[00:48:15]</strong> </span>
-<span class="speaker"><strong>发言人1: </strong></span>
-因为他的整个to b增长的很快，所以他可能会觉得说对google的角度来讲，现在这个阶段投资在to b上面会比to c的AI用户更值钱或者更划算。对，你看它整个每年的增长率大概百分之三四十。就谷歌的to b的业务，不是to b云的这块业务，其实也就主要增量就是来自AI，就很好理解，主要增量就来自AI。然后还有一个就是它的成本巨低，从他什么TPU到整个全站基本上都他们家自己的，所以他的成本也比别人低。所以我觉得很多时候看大公司的战略，或者看大公司的动作，就是这里面的细节其实很值得玩味的。你看他对外喊的是什么东西，然后实际上财报反映的是什么东西，然后他投资上面诚最诚实的点在哪里。你一看你可能就像OpenAI去买这个win self买的是什么，对吧？刚才贤哥已经跟大家讲讲的很清楚了，对这个动作就已经很诚实的反映出来。
-</p>
-<p class="transcript-line">
-<span class="time"><strong>[00:49:20]</strong> </span>
-<span class="speaker"><strong>发言人1: </strong></span>
-很多时候我觉得大公司的不管是投资或者研究，或者他的战略，其实是投入了非常多的精力。对于我们普通人来讲，我其实一直有一个观点，我就觉得一定要去研究大公司的报告，或者研究大公司的投资的动向，或者他的每年的这种白皮书。我觉得这个是特别重要。因为他们真的花了很多时间在这个上面，那对我们来讲其实可以少思考。
-</p>
-<p class="transcript-line">
-<span class="time"><strong>[00:49:46]</strong> </span>
-<span class="speaker"><strong>发言人3: </strong></span>
-非常有对。而且现在来讲，因为有AI工具的帮忙研究这些年报、财报动向都比以前要容易太多了。
-</p>
-<p class="transcript-line">
-<span class="time"><strong>[00:49:53]</strong> </span>
-<span class="speaker"><strong>发言人2: </strong></span>
-大家变成一种享受了。
-</p>
-<p class="transcript-line">
-<span class="time"><strong>[00:49:55]</strong> </span>
-<span class="speaker"><strong>发言人3: </strong></span>
-对，大家如果有兴趣可以听我们前两期的节目，尤其讲no book .
-</p>
-<p class="transcript-line">
-<span class="time"><strong>[00:50:00]</strong> </span>
-<span class="speaker"><strong>发言人1: </strong></span>
-bk对对对。
-</p>
-<p class="transcript-line">
-<span class="time"><strong>[00:50:01]</strong> </span>
-<span class="speaker"><strong>发言人3: </strong></span>
-细节对。是的，但是的是但是我想补充一点我的看法。就是从创业者角度来讲，我们就看这个温瑟夫这家公司，当然包括科sir。科sir when serve其实两家公司的这个创始团队都是MIT的，对吧？然后都是MT校友，一个是两个人的创业的，一个是四个人创业的。但不管怎么样来讲的话，都是本身做这个行业，而且都是在大厂服务过的。但是在AI时代都选择了创业。大家可以想象，像他们这样的人可以算是精英阶级，就是MIT的。你想这都是属于学霸级别的了。同样你要说每年MIT毕业多少人，对吧？
-</p>
-<p class="transcript-line">
-<span class="time"><strong>[00:50:35]</strong> </span>
-<span class="speaker"><strong>发言人3: </strong></span>
-那同学有多少，那凭什么就说一个2个MIT出来的精英就能够创业，在四年时间之内从无到有的创造一家30亿美金估值。这不是估值了，都是直接被收购。这都不是估值了，这直接就是被收购。
-</p>
-<p class="transcript-line">
-<span class="time"><strong>[00:50:50]</strong> </span>
-<span class="speaker"><strong>发言人2: </strong></span>
-的公司加购的。
-</p>
-<p class="transcript-line">
-<span class="time"><strong>[00:50:51]</strong> </span>
-<span class="speaker"><strong>发言人3: </strong></span>
-但是也是非常可怕。这个大家可以想象一下，就是说这件事情虽然说是个例，非常大的个例。但是在AI创IAI节AI时代去做创业，我觉得未来的收益的回报率会好高很多。你就想如果是农业社会，你自己找到一片良田也得自己去耕种，也得去那边，你的回报率有多少对吧？
-</p>
-<p class="transcript-line">
-<span class="time"><strong>[00:51:12]</strong> </span>
-<span class="speaker"><strong>发言人3: </strong></span>
-那在I时代我想说的是什么？就是说咱们现在谈的是美国，谈的是硅谷，谈的是MIT这些公司。但是在中国一样有非常好的土壤，非常好土壤。包括前两天我在听这个财就是国家的一些财政的一些政策，咱就不细说了。包括对这种科技企业贷款等等的这些特别的基金。所以我是觉得想借这个话题，我们谈到自己身边的事情。
-</p>
-<p class="transcript-line">
-<span class="time"><strong>[00:51:36]</strong> </span>
-<span class="speaker"><strong>发言人3: </strong></span>
-如果真的有好的想法的话，你要赶快动手，先从使用这些AI工具开始，然后在过程中跟AI做大部大量去做交流。刚才小苏说的去研究大厂的一些动向，然后你一定会结合自己的经验。当然如果你指什么经验都没有，那咱另说。但我相信所有的创业者本身都是有自己的一些不满足的地方，和自己的这种热情的结合自己的想法去做一些创业的。想可能下一个真的是10亿百亿收这个公司的估值的创始人就是你。这是我特别想聊的一个事情，尤其是这两天看了他们两个公司背景之后，更想这么说了。
-</p>
-<p class="transcript-line">
-<span class="time"><strong>[00:52:12]</strong> </span>
-<span class="speaker"><strong>发言人1: </strong></span>
-是的，也就希望大家多听我们节目，然后多早日实现财富自由。
-</p>
-<p class="transcript-line">
-<span class="time"><strong>[00:52:19]</strong> </span>
-<span class="speaker"><strong>发言人3: </strong></span>
-大家共勉，大家共勉，我们也是在这个路上。对，因为我们一直是想做大家创业路上的BGM，大家是同行者。
-</p>
-<p class="transcript-line">
-<span class="time"><strong>[00:52:27]</strong> </span>
-<span class="speaker"><strong>发言人1: </strong></span>
-好，我们这期节目就到这里结束。
-</p>
-<p class="transcript-line">
-<span class="time"><strong>[00:52:29]</strong> </span>
-<span class="speaker"><strong>发言人3: </strong></span>
-谢谢大家的收欢迎感谢大家的收听。好，下期见了。
-</p>
-<p class="transcript-line">
-<span class="time"><strong>[00:52:33]</strong> </span>
-<span class="speaker"><strong>发言人2: </strong></span>
-拜拜，下次见，拜拜。
-</p>]]></content:encoded>
-            <pubDate>Mon, 12 May 2025 23:00:00 GMT</pubDate>
-            <guid>6821c7df24f8559346326051</guid>
         </item>
     </channel>
 </rss>
