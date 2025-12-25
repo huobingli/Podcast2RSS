@@ -4,7 +4,576 @@
         <title>代码之外 Beyond Code</title>
         <link>https://www.xiaoyuzhoufm.com/podcast/6194d973c14c9a0db82de1ea</link>
         <description>程序员聊聊代码之外的事。</description>
-        <lastBuildDate>Sun, 21 Dec 2025 22:03:29 +0800</lastBuildDate>
+        <lastBuildDate>Fri, 26 Dec 2025 04:43:58 +0800</lastBuildDate>
+        <item>
+            <title>听众来信 #27 大学里技能树怎么点？职业方向选什么？创业？</title>
+            <link>https://www.xiaoyuzhoufm.com/episode/694b27240b60b7bf751b5cdf</link>
+            <description>来自 我叫CC 的听众来信：
+我太喜欢你们的节目啦！求解答。
+我是一名大二学生，最近有一些职业发展方向的选择困惑（PS：虽然该栏目不聊代码...），本人从大一时确定好了自己真的想做什么 -&gt; 创业，做互联网产品 | 实体产品。
+寒假开始学前端相关的知识（参与了技术社团），疯狂地学习前端知识，在大一的暑假找到了一份在北京小公司的实习，（当时是大二、大三的学长去实习，自己觉得不比他们技术差。。有些不服气），在公司里主要写Vue，但是一直对Node.js准确来说是服务端即后端知识特别感兴趣，进入公司后，疯狂学习（周末就窝在十几平米的出租屋看文档，看书，看视频），我的mentor也是出来创业对我特别好，给我很多机会和人生指导，给了我发挥空间（感谢）。（跑题了。。。）
+我目前的焦虑点 | 迷茫点在于: 我希望去转到服务端，然后我继续在找实习的时候，我会考虑找服务端的岗位，我焦虑的点是是否值得去转方向，是否继续做前端也不错？
+思考背景:
+第一点：我最终目标是创业，实际上我更热爱的是做产品，遇到一些产品会先思考它的商业模式，对我来说技术永远不是最高优先级的思考点。
+第二点：我对服务端更感兴趣，比如喜欢研究数据库、OS、分布式等系统，而不是浏览器或者客户端。我希望可以转到做后端，然后我在实习了6个多月之后，就花了几天时间去学Go、Java。因为国内Node.js纯后端岗位不多，我认为我要校招去到做纯Node.js后端的竞争力很低，然后Go其实也不是特别地多，Java的岗位是最多的。所以只能去向Java上靠。当然包括Go啦，最近看一本书叫做Go语言实现解释器（推荐给栏目的同学们，我已经基本搭好的词法、语法分析、解释器的逻辑，并且我希望去拓展实现成为一个类似JavaScript的项目，词法单元按照ES6的版本来的，不过没有class，因为我更像让他成为函数式的）。
+第三点：但是自己确实很喜欢JavaScript，TypeScript和Go（不知道是不是有这种编程语言初恋的情节哈哈，C不算啦）。看了很多代码之外的节目后，看到很多不一样的人生，有的时候会觉得参与做开源也是不错的人生，可能可以coding一辈子（因为之前我一直认为我写代码只能到35岁）。
+代码之外 Beyond Code 是一档由 GeekPlux 和 Randy 共同主持的程序员闲聊播客节目。节目地址：bento.me 我们的节目同时会发布视频版，在 YouTube 和 Bilibili 搜索「代码之外」都能找到我们。
+欢迎在 forms.office.com 向我们来信，我们会在下一期节目分享你的来信或解答你的疑惑。
+也欢迎在 爱发电 赞助我们。也欢迎赞助商联系我们商业合作。
+---
+金牌赞助商 / Golden Sponsor
+感谢 Relingo 赞助本期节目。Relingo 是一款借助 AI 来帮助你轻松扩大词汇量的工具。它提供了很多功能，比如网页查词、高亮显示、沉浸式翻译、PDF 文档翻译、以及 YouTube、Netflix 等多个视频网站的实时字幕翻译。让你在不影响阅读及观看体验的同时就能巩固和扩大英语词汇量。在 Relingo 官网输入优惠码 BEYONDCODE 下单可以享受 7 折优惠！
+* Relingo 官网链接：relingo.net
+* 7 折优惠码：BEYONDCODE
+赞助商 / Sponsor
+* Notepal 一键同步微信读书笔记到 Notion, Readwise, Logseq, 思源笔记等笔记软件
+* 笔记伴侣 App Notepal iOS 版，在手机上通过小组件回顾你的微信读书笔记，AI 笔记对话</description>
+            <content:encoded><![CDATA[<h1>转写链接</h1>
+<link>https://tongyi.aliyun.com/efficiency/doc/transcripts/gpjbqkvbkvj2nk2a</link><br>
+<h1>节目文稿</h1>
+<p class="transcript-line">
+<span class="time"><strong>[00:00:00]</strong> </span>
+<span class="speaker"><strong>发言人1: </strong></span>
+欢迎收听代码之外听众来信栏目。我是Randy.
+</p>
+<p class="transcript-line">
+<span class="time"><strong>[00:00:03]</strong> </span>
+<span class="speaker"><strong>发言人2: </strong></span>
+我是gig plus.
+</p>
+<p class="transcript-line">
+<span class="time"><strong>[00:00:04]</strong> </span>
+<span class="speaker"><strong>发言人3: </strong></span>
+我是狗谷。
+</p>
+<p class="transcript-line">
+<span class="time"><strong>[00:00:10]</strong> </span>
+<span class="speaker"><strong>发言人2: </strong></span>
+感谢瑞林狗赞助本期节目。亲爱的听众和观众朋友们，本期节目不好意思又有广告了。瑞麟狗是一款借助AI来帮助你轻松扩大词汇量的工具，它本身提供了很多功能，比如网页查词、高亮显示这种基本的还有沉浸式翻译、PDF文档翻译，以及youtube netflix等多个视频网站的实时字幕翻译。我自己用的最多的是reino浏览器插件的网页生词高亮和youtube字幕。因为我平时阅读英文文章比较多，所以我遇到生死的时候都是直接右键real ino查询。然后reino不仅会将它自动加入我的生词本，还会在之后遇到的网页中再高亮出这个生词，这就帮助我每一次遇到这个生词的时候都能记一遍。同样我在看youtube的时候也会打开retinal的实时翻译字幕，然后可以直接鼠标悬停查词。在之后遇到这个生词的时候，它也会在字幕中高亮色。所以说这种不影响我阅读和观看体验的同时，又能增加我词汇量的方法，我觉得对我的信息吸收效率都提升了很多。
+</p>
+<p class="transcript-line">
+<span class="time"><strong>[00:01:20]</strong> </span>
+<span class="speaker"><strong>发言人2: </strong></span>
+那么关键的来了，现在扫描我们视频左侧的二维码，或者reino官网输入优惠码beyond扣下单可以享受7折优惠。我再稍微重复一遍，观众以及听众朋友们可以直接扫码或者到reino官网输入beyond code下单即可享受7折优惠。BEYONDCODE也就是我们代码之外的英文名。详细的链接和优惠码各位朋友都可以在我们的视频或者播客简介评论区中找到。感谢各位，现在正式开始我们今天的节目。
+</p>
+<p class="transcript-line">
+<span class="time"><strong>[00:02:00]</strong> </span>
+<span class="speaker"><strong>发言人3: </strong></span>
+来信是来自叫CC的朋友啊，我叫CC我太喜欢你们的节目了，求解答。我是一名大二学生，最近有一些职业发展方向上的选择困惑。PS虽然该栏目不了代码，本人从大一时确定好了自己真的想做什么，然后什么创业，做互联网产品实体产品。寒假开始学前端相关的知识，括号参与了技术社团疯狂的学习前端知识。
+</p>
+<p class="transcript-line">
+<span class="time"><strong>[00:02:28]</strong> </span>
+<span class="speaker"><strong>发言人3: </strong></span>
+在大一的暑假找到了一份在北京小公司的实习。括号当时是大二大三的学长去实习，我自己觉得不比他们差，有些不服气。在公司里主要写view，但是一直对nog s准确来说是服务端基于后端知识特别感兴趣。进入公司后疯狂学习，周末就窝在十几平米的出租屋看文档、看书、看视频。我的mentor也是出来创业，对我特别好，给我很多机会和人生指导，给了我发挥的空间。我目前的焦虑点和迷茫点在于，我希望去转到服务端，然后我继续再找实习的时候，我会考虑找服务端的岗位。我焦虑的点是是否值得去转方向，是否继续做前端也不错，这是问题。然后他还提供了一些背景，思考背景。
+</p>
+<p class="transcript-line">
+<span class="time"><strong>[00:03:15]</strong> </span>
+<span class="speaker"><strong>发言人3: </strong></span>
+第一点，我最终目标是创业。实际上我更热爱的是做产品，遇到一些产品会先思考的商业模式。对我来说技术永远不是最高优先级的思考点。第二点，我对服务端更感兴趣，比较喜欢研究数据库分布式等系统，而不是浏览器或者客户端。
+</p>
+<p class="transcript-line">
+<span class="time"><strong>[00:03:32]</strong> </span>
+<span class="speaker"><strong>发言人3: </strong></span>
+我希望可以转到做后端。然后我在实习了六个多月之后，就花了几天时间去学go java。因为国内nog s纯后端岗位不多，我认为我要校招去做纯nog s后端的竞争力很低。然后go其实也不是特别的多，java岗位是最多的，所以只能去向java上靠，当然包括go了。
+</p>
+<p class="transcript-line">
+<span class="time"><strong>[00:03:54]</strong> </span>
+<span class="speaker"><strong>发言人3: </strong></span>
+最近看了一本书叫做go语言实现解释器推荐给栏目的同学，还剩下带货。我已经基本搭好的词法语法分析解释器的逻辑，并且我希望去拓展实现成为一个类似叫o script的项目。词法单元按照ES6的版本来，不过没有class，因为我更想让它们成为函数式，这是第二点。第三点，但是自己确实很喜欢叫a script，tea script和go，不知道是不是有这种编程语言。
+</p>
+<p class="transcript-line">
+<span class="time"><strong>[00:04:22]</strong> </span>
+<span class="speaker"><strong>发言人3: </strong></span>
+初恋的情节，哈哈C不算了。看了很多代码之外的节目后，看到很多不一样的人生，有的时候觉得参与做开源也是个不错的人生，可以coding一辈子括号。因为之前我一直认为我写代码只能写到35岁，这是一个比较具体的问题了。加上一些比较具体的个人情况和背景。但核心问题就是是否继续做前端也不错，还是转服务端。
+</p>
+<p class="transcript-line">
+<span class="time"><strong>[00:04:47]</strong> </span>
+<span class="speaker"><strong>发言人1: </strong></span>
+我读下来我觉得这位朋友CC他一开始其实说自己从大一的时候就确定好自己想做的是什么，就是创业做互联网产品。但到后边说要转服务端，我就有点疑惑了。如果想做产品创业的话，如果只做服务端好像是有点局限性的。除非你的创业项目是提供一些云云服务或者分布式系统这种基建。不然的话其实你用户界面其实也需要做的。我是有这么一个疑惑的，所以他加入的点主要是是否应该去转？我觉得对我来说，有时候别人问我是做前端还是后端呢？我会说我其实我都做。
+</p>
+<p class="transcript-line">
+<span class="time"><strong>[00:05:35]</strong> </span>
+<span class="speaker"><strong>发言人1: </strong></span>
+但是说实话服务端这个词它有两个不同的含义。一个就是你是可能有一些人写no GS，然后写一些HTTP服务器，就是一些restful的接口或者说什么之类的，服务器端的接口，这也算是一种服务器端。但是在我自己做一些如果做的更复杂的应用的时候，服务端是另外一回事。变成了比如说分布式，你这个对东西，你这个架构怎么。
+</p>
+<p class="transcript-line">
+<span class="time"><strong>[00:06:04]</strong> </span>
+<span class="speaker"><strong>发言人3: </strong></span>
+做对负载均衡对。
+</p>
+<p class="transcript-line">
+<span class="time"><strong>[00:06:06]</strong> </span>
+<span class="speaker"><strong>发言人1: </strong></span>
+什么什么对负载均衡那个对吧？读写分对你怎么去运维，怎么去部署，怎么去做灰度。是的，怎么对？这些东西又是也它也算是服务端，但是它是另外一个层次的服务端。对，然后你这个他可能也会包括说你这个怎么去实现更快的访访问速度，或者说你能承载更大的QPS，这也是一种服务端的东西。那对我来说服务端就是我最多也就加个redis就加个人。
+</p>
+<p class="transcript-line">
+<span class="time"><strong>[00:06:36]</strong> </span>
+<span class="speaker"><strong>发言人1: </strong></span>
+然后这是我理解的服务端，就是在我这个层次我所理解的服务端，所以说我不会有说你会不会去转服转到服务端的。因为我跟这个CC其实目标也是差不多，我也是想创业，我也是想做互联网产品。所以对我来说，我的这一个范畴的服务端的知识其实已经够用了，已经不存在说要不要去转到这个方向，这是我的一个观点了。
+</p>
+<p class="transcript-line">
+<span class="time"><strong>[00:07:00]</strong> </span>
+<span class="speaker"><strong>发言人1: </strong></span>
+然后就是可能他考虑的是职场上面的就业的服务端岗位。我不太清楚现在大厂或者说其他互联网公司招服务端跟招前端有哪些太大的区别。因为怎么说呢？反正我自己做这些项目都是前后端，其实概念很模糊，前端对我来说就是要写界面，后端对我来说就是要写一些接口。
+</p>
+<p class="transcript-line">
+<span class="time"><strong>[00:07:27]</strong> </span>
+<span class="speaker"><strong>发言人3: </strong></span>
+甚至前端跟客户端的界限也很模糊。
+</p>
+<p class="transcript-line">
+<span class="time"><strong>[00:07:30]</strong> </span>
+<span class="speaker"><strong>发言人1: </strong></span>
+对，所以我觉得是否需要去转的话，就我先不从你就业方面的，就是岗位的这种职能的角度来说，你是否直接去转。我觉得如果你的目标是做产品，那我觉得这个界限其实很模糊，你不没有必要去分的那么清楚。如果是真正的你要找一份工作，他的JD就是要找服务端后端的人员的话，那可能他对这些架构上面的东西要花更多时间一点。勾股可能比我了解的更多一点。关于服务端我。
+</p>
+<p class="transcript-line">
+<span class="time"><strong>[00:08:07]</strong> </span>
+<span class="speaker"><strong>发言人3: </strong></span>
+坦白说我也不见得好到哪里去。我记得有一次我跟Randy一次吃一块儿吃饭，是吃饭时候聊的，还是你在节目里面聊的？你说你进微软，就是他们还面了你的那个系统设计是吧？对，然后就面过了。我跟你讲，我我我也面过后端，我系统设计的那个通过率是0，我一次都没过，所以我我不敢我不敢在你面前说我后端多厉害，我从来没有被系统设计过，一次都没过，全部都挂了，全部都挂了。对我觉得这个东西就是你你你今天让我在节目里说什么，你像刚才说什么读写分离，什么复杂情况我也能说，但我面试就没过。
+</p>
+<p class="transcript-line">
+<span class="time"><strong>[00:08:44]</strong> </span>
+<span class="speaker"><strong>发言人1: </strong></span>
+我觉得反正但是我觉得反正面试说的反而更虚。因为你只要能说就行了，你就又不用你做。那你说大家都知道。
+</p>
+<p class="transcript-line">
+<span class="time"><strong>[00:08:52]</strong> </span>
+<span class="speaker"><strong>发言人3: </strong></span>
+那你说我是不能说的人吗？这怎么解释？Anyway, 反正就呃呃我们说回这个题目，我是觉得我如果没理解错的话，这位CC现在是一名大二学生，即便我们节目录的比较慢，他可能现在已经大三了。我不知道，但这还早，你懂我意思吗？就是个实习，对不对？我觉得你既然有兴趣就去，你别想那么多，你就去实习一下看看喽，对吧？对我觉得没什么，我觉得不用有太大思想包袱。
+</p>
+<p class="transcript-line">
+<span class="time"><strong>[00:09:27]</strong> </span>
+<span class="speaker"><strong>发言人3: </strong></span>
+那你只是实习，你哪怕追随自己的兴趣，或者你找到这样的机会，你去那个岗位实习实习几个月，你发现不喜欢，那你出来再找个别的。我觉得没有任何没有任何负担。所以我在这个case我还是很鼓励的。而且我从他的这个背景介绍来看，他其实还有最终创业的这个目标。也就是说我相信他今天不管是找前端的工作还是后端工作，不管是正式工作还是实习工作，这不是他的终点，这是他这个职业生涯里面，在他个长期规划里面的一部分。
+</p>
+<p class="transcript-line">
+<span class="time"><strong>[00:10:01]</strong> </span>
+<span class="speaker"><strong>发言人3: </strong></span>
+甚至我在猜了，也许这个就是你缺什么补什么。就是你可能做了很多前端，但是你后端没做过的，本身不挑剔的情况下，你自然会对后端信息更更多一点。因为你碰的少，甚至可能IOS android都没做过。也许有一天他又觉得安卓IOS有兴趣，或者他缺这个，他再找一份IOS或者android的实习工作也碰一碰，我觉得都挺好的。
+</p>
+<p class="transcript-line">
+<span class="time"><strong>[00:10:24]</strong> </span>
+<span class="speaker"><strong>发言人3: </strong></span>
+所以我觉得从现阶段，我觉得你不用有特别大的思想坡，你就追随你自己的兴趣。你只要能拿到这个实习的offer，我觉得都是好机会。我会这么觉得。
+</p>
+<p class="transcript-line">
+<span class="time"><strong>[00:10:34]</strong> </span>
+<span class="speaker"><strong>发言人1: </strong></span>
+是因为你实习过后你才知道，原来在公司里面做后端是这么一个情况。聊到这个方面，我我我又想起我在微软的时候的一段经历，因为这也是跟职业发展转变有一个有一定关系。就是因为我在微软的时候，我我我已经有点想法说自己要做产品了。这个时候其实我的leader他也知道我我我的做产品更有兴趣，然后我又跟我们的那个PM交流的比较紧密。所以我的leader就建议我说，你是不是可以帮助P我们的PM去分担一部分的工作，尝试一下，看能不能到最后真正的转成一个真正的PM就是微软对这一块还是挺挺包容的，就是我的leader会这么建议我去做，然后我就真的去开始跟这位PM去做一些真正的职场上的PM做的一些事情。
+</p>
+<p class="transcript-line">
+<span class="time"><strong>[00:11:29]</strong> </span>
+<span class="speaker"><strong>发言人1: </strong></span>
+然后这个过程之中我发现其实把PN作为一个真正的在公司里面的一个职能的话，并不是我想要做的。PM它并不是我本来想象的那那一种产品经理的角色。可能在公司里面做产品经理，它涵盖的部分会变成了做用户调研，然后最终你要写一个那种叫PRD产品文档。对，就是你会花很多时间去做这种事情。对于我来说，我是不想做这个事情，我现在做产品我都不会给自己写个PRD对吧？我觉得这种，但是你在公司里面你就是需要做这些事情。是的，你要写一份标题，然后去跟这个程序员去去沟通，然后你要拉拉这样的人，拉这样的那样的人。那我就发现，原来我你让我去转到真正的转成PM对我来说这不是我理想中的PM就是我理想中的只是说P.
+</p>
+<p class="transcript-line">
+<span class="time"><strong>[00:12:20]</strong> </span>
+<span class="speaker"><strong>发言人3: </strong></span>
+M之前想象的这个可以。
+</p>
+<p class="transcript-line">
+<span class="time"><strong>[00:12:22]</strong> </span>
+<span class="speaker"><strong>发言人1: </strong></span>
+对，因为我的理解，我之前一直想要去做PM是因为我因为我自己对做产品洞悉这个用户需求，然后去设计这个产品的怎么去用，要做什么功能这一块是感兴趣的。但是在公司里面做产品就不仅仅是这些东西，你还有很多额外的东西去做。所以所以对所以这一部分的我这个经验，我觉得对CC来说其实也有参考价值。就是说你现在觉得服务服务端可能是你想转的东西，那你你现在只是实习，所以说你实习的时候再观察一下他是不是你真正想要的东西。
+</p>
+<p class="transcript-line">
+<span class="time"><strong>[00:13:00]</strong> </span>
+<span class="speaker"><strong>发言人2: </strong></span>
+再来考虑也不迟。对我认为其实我通过他的这个问题，还有他的这个思考背景，我能看出来他很聪明。他大一才开始学前端，然后就找到了实习，这已经算不错的，是小的成就了。然后马上又深入到了这个go java，然后还写了解释器。我觉得他其实对掌握一个东西的速度还是很快的，所以他跟我觉得他没必要纠结。他其实学服务端，如果他感兴趣的话，对他可以很快掌握很很深入的东西。我特别想问Randy一个问题，刚才他提到他说他不想写那个PRD，但是现在web coding不经常写PRD吗？
+</p>
+<p class="transcript-line">
+<span class="time"><strong>[00:13:40]</strong> </span>
+<span class="speaker"><strong>发言人1: </strong></span>
+对，但是你知道你写给人看的PRD跟你写给AI看的PRD完全不是一回事。
+</p>
+<p class="transcript-line">
+<span class="time"><strong>[00:13:45]</strong> </span>
+<span class="speaker"><strong>发言人3: </strong></span>
+我大概懂你那个意思，我大概懂你的意思。
+</p>
+<p class="transcript-line">
+<span class="time"><strong>[00:13:48]</strong> </span>
+<span class="speaker"><strong>发言人1: </strong></span>
+你写给AI的，你只要告诉他我要干什么，我要干什么，我这个产品是要干嘛。
+</p>
+<p class="transcript-line">
+<span class="time"><strong>[00:13:52]</strong> </span>
+<span class="speaker"><strong>发言人3: </strong></span>
+我要在哪里加你，你不用追。那你写给模板什么的。
+</p>
+<p class="transcript-line">
+<span class="time"><strong>[00:13:55]</strong> </span>
+<span class="speaker"><strong>发言人2: </strong></span>
+就是那些写给人看有什么区别。
+</p>
+<p class="transcript-line">
+<span class="time"><strong>[00:13:58]</strong> </span>
+<span class="speaker"><strong>发言人1: </strong></span>
+具体写给人看的，我现在说不出来有什么标准，但是他是你起码要比较正式，然后里面的细节要非常充足。它细节不只是你的技术，是细节或者说什么的。你还要跟跟这个一整个整一块业务有心智的一些关系。
+</p>
+<p class="transcript-line">
+<span class="time"><strong>[00:14:19]</strong> </span>
+<span class="speaker"><strong>发言人3: </strong></span>
+有新的成本在里面。就好像我举个不恰当的例子。比如说你闲聊的时候跟你的同事说，我觉得你做这个产品可以这样。他给你回去说，你回去给我发个邮件，你就发现你跟他平时聊天说一句跟发封邮件那个成本完全不一样，就是这个差别。对，就web coding.
+</p>
+<p class="transcript-line">
+<span class="time"><strong>[00:14:40]</strong> </span>
+<span class="speaker"><strong>发言人1: </strong></span>
+跟就我们就跟AI聊，对我我们跟AI聊的那些需求，在那些专业的PRPM来说，你这个东西就叫做一句话需求。对，虽然你给跟AI说的不只是一句话，但他他的概念里面你这种就是一句话需求，因为你不严谨。
+</p>
+<p class="transcript-line">
+<span class="time"><strong>[00:14:58]</strong> </span>
+<span class="speaker"><strong>发言人2: </strong></span>
+你有没有试过把写给人看的给AI看一下试试？
+</p>
+<p class="transcript-line">
+<span class="time"><strong>[00:15:03]</strong> </span>
+<span class="speaker"><strong>发言人1: </strong></span>
+没试过，我很久没有看过人写的PID了。
+</p>
+<p class="transcript-line">
+<span class="time"><strong>[00:15:07]</strong> </span>
+<span class="speaker"><strong>发言人2: </strong></span>
+就是所谓的很严谨的，然后很细节的，然后做prompt试一下，你可能会收获不一样的这个产出结果。
+</p>
+<p class="transcript-line">
+<span class="time"><strong>[00:15:17]</strong> </span>
+<span class="speaker"><strong>发言人1: </strong></span>
+但是其实我说实话，我现在给AI的那些我的需求其实也很细节。只是说你知道有时候有些句子它不是一个完整的句子，它是很零散的。然后他是完全没有组织结构可言的。就可能我这一段写了一些这样的需求，然后下一段就写的别的需求，然后在第三段又回来了，讲的是补充一下什么什么这东西你给人看你觉得很恶心的。但是我知道我知道AI肯定能懂我的意思，所以我不需要那么严谨的去关注我的这些遣词造句，对这个文法结构什么之类的。
+</p>
+<p class="transcript-line">
+<span class="time"><strong>[00:15:51]</strong> </span>
+<span class="speaker"><strong>发言人3: </strong></span>
+而且P就多说一句，我觉得了你PM全称是product manager，它一半是product，另外一半是manager。你知道另外一半工作就烦死你知道吗？所以不是你其实。
+</p>
+<p class="transcript-line">
+<span class="time"><strong>[00:16:06]</strong> </span>
+<span class="speaker"><strong>发言人1: </strong></span>
+阿里会会区分开PD跟PM，阿里会区分开PD跟PM，PM是完全是manager.
+</p>
+<p class="transcript-line">
+<span class="time"><strong>[00:16:12]</strong> </span>
+<span class="speaker"><strong>发言人3: </strong></span>
+对，你可以区分开。但是我看到很多PD每天他主要的工作就是找人开会，他不是每天琢磨这个产品怎么你懂我意思吗？即便是PD他每天。
+</p>
+<p class="transcript-line">
+<span class="time"><strong>[00:16:22]</strong> </span>
+<span class="speaker"><strong>发言人1: </strong></span>
+也是在开会。
+</p>
+<p class="transcript-line">
+<span class="time"><strong>[00:16:23]</strong> </span>
+<span class="speaker"><strong>发言人3: </strong></span>
+肯定是相当一部分工作他不是做product的。
+</p>
+<p class="transcript-line">
+<span class="time"><strong>[00:16:26]</strong> </span>
+<span class="speaker"><strong>发言人1: </strong></span>
+PD可能是找人，是因为是想要看看我这个东西能不能做。
+</p>
+<p class="transcript-line">
+<span class="time"><strong>[00:16:30]</strong> </span>
+<span class="speaker"><strong>发言人3: </strong></span>
+问问这些技术，尤其在阿里你一定得自己会找人，你只会设计产品就是PD也不行。对，即便你自诩PD你也是要找人的，有至少在阿里也是不可能的。
+</p>
+<p class="transcript-line">
+<span class="time"><strong>[00:16:42]</strong> </span>
+<span class="speaker"><strong>发言人2: </strong></span>
+如果这位同学将来想创业，你们其实是觉得是不是做产品经理更好一点？
+</p>
+<p class="transcript-line">
+<span class="time"><strong>[00:16:50]</strong> </span>
+<span class="speaker"><strong>发言人1: </strong></span>
+现在国外流行product engineer和product designer，就是你你既是做product你也是做engineer。对，其实这是最最我觉得这是趋势，这位CC的朋友这么早就能意识到这个点，其实我觉得是个很大的优势。作为一个product engineer.
+</p>
+<p class="transcript-line">
+<span class="time"><strong>[00:17:10]</strong> </span>
+<span class="speaker"><strong>发言人2: </strong></span>
+在product engineer或者design engineer或者什么engineer，就是抛开技术或者说也能过技术。你觉得对创业来说最重要的是哪方面？
+</p>
+<p class="transcript-line">
+<span class="time"><strong>[00:17:21]</strong> </span>
+<span class="speaker"><strong>发言人1: </strong></span>
+销售marketing.
+</p>
+<p class="transcript-line">
+<span class="time"><strong>[00:17:23]</strong> </span>
+<span class="speaker"><strong>发言人3: </strong></span>
+销售要你能说出这句话，一看就是。
+</p>
+<p class="transcript-line">
+<span class="time"><strong>[00:17:26]</strong> </span>
+<span class="speaker"><strong>发言人1: </strong></span>
+销售一楼独立。
+</p>
+<p class="transcript-line">
+<span class="time"><strong>[00:17:28]</strong> </span>
+<span class="speaker"><strong>发言人3: </strong></span>
+开发的是吧？
+</p>
+<p class="transcript-line">
+<span class="time"><strong>[00:17:30]</strong> </span>
+<span class="speaker"><strong>发言人1: </strong></span>
+OK厉害发了就是真正创业的时候，这些说实话他这封来信所有的东西都不重要，对吧？你什么分布式，你什么分布式系统，你现在你部署到云上面不就都有了弹性伸缩。当你真正的成了之后，你你你数据打崩了，说明你成功了。你的真正的主要的关注点是在创业本身，在产品本身的话，这些东西都不太重要。你但是你要懂你你要懂这些东西是什么意思就好了。
+</p>
+<p class="transcript-line">
+<span class="time"><strong>[00:17:58]</strong> </span>
+<span class="speaker"><strong>发言人3: </strong></span>
+而且你要实际就像刚刚说的。
+</p>
+<p class="transcript-line">
+<span class="time"><strong>[00:18:00]</strong> </span>
+<span class="speaker"><strong>发言人1: </strong></span>
+我们都是搞理论的对对对对。
+</p>
+<p class="transcript-line">
+<span class="time"><strong>[00:18:02]</strong> </span>
+<span class="speaker"><strong>发言人3: </strong></span>
+要做就是那玩意儿宝典。就是说business不是learned，是do对吧？他学是学不来，你要做你才知道吗？
+</p>
+<p class="transcript-line">
+<span class="time"><strong>[00:18:10]</strong> </span>
+<span class="speaker"><strong>发言人1: </strong></span>
+对，你想想看当年instagram，但当年instagram他们起家的时候也是很草台的，就是他们的系统架构也是很吵的对对，他们之所以被会被收购，是因为他们没有能力去handle所谓的这些什么弹性伸缩low baLance什么之类的东西。
+</p>
+<p class="transcript-line">
+<span class="time"><strong>[00:18:28]</strong> </span>
+<span class="speaker"><strong>发言人3: </strong></span>
+我记得是13个人卖了上百亿，好像是非常神话的一个。
+</p>
+<p class="transcript-line">
+<span class="time"><strong>[00:18:33]</strong> </span>
+<span class="speaker"><strong>发言人1: </strong></span>
+一上线就被打崩了，instagram 1上线被打崩了，然后就很很焦虑，他们很焦虑到底怎么办？然后他们连夜上AWS。然后也没钱，他们也不要不需要懂什么分布式。但我这样说肯定会被一些听众骂，我不尊重这些什么这些是重要的。但是如果你的在意点是创业的话，他就没那么重要了。对我的意思是。
+</p>
+<p class="transcript-line">
+<span class="time"><strong>[00:18:58]</strong> </span>
+<span class="speaker"><strong>发言人3: </strong></span>
+我我我刚才搜了13个人卖了10亿.
+</p>
+<p class="transcript-line">
+<span class="time"><strong>[00:19:01]</strong> </span>
+<span class="speaker"><strong>发言人2: </strong></span>
+1比0很不可思议了。你要想狗狗这是一个梗。最近大家都调侃说，现在之前收购instagram整个的价钱相当于现在OpenAI挖OpenAI人一个人的工资，就是现在从open I挖一个人的钱，相当于以前收购一家instagram m你想现在人的工资膨胀了，什么inflation泡沫。
+</p>
+<p class="transcript-line">
+<span class="time"><strong>[00:19:25]</strong> </span>
+<span class="speaker"><strong>发言人1: </strong></span>
+很危险的这个泡沫。
+</p>
+<p class="transcript-line">
+<span class="time"><strong>[00:19:27]</strong> </span>
+<span class="speaker"><strong>发言人2: </strong></span>
+没关系，就那几个人，没有特别多，我就没有收到。
+</p>
+<p class="transcript-line">
+<span class="time"><strong>[00:19:30]</strong> </span>
+<span class="speaker"><strong>发言人1: </strong></span>
+你看OK我那我再追加。
+</p>
+<p class="transcript-line">
+<span class="time"><strong>[00:19:33]</strong> </span>
+<span class="speaker"><strong>发言人2: </strong></span>
+一个问题，就是除了营销这些技术层面的东西，你觉得比如说找cofounder，找到这种合作的人。因为我我不确定他说创业是哪一种，其实有大概有两种。一种是什么独立开发创业这种比较小规模的，还有一种是什么自负盈亏的那种，就小作坊，大家几个人凑在一起。还有一种就是拉投资那种，就大概有很多种创业的方式。那你觉得找人重要，还是找钱重要，还是说哪方面软实力更重要一点？
+</p>
+<p class="transcript-line">
+<span class="time"><strong>[00:20:06]</strong> </span>
+<span class="speaker"><strong>发言人1: </strong></span>
+人重要，我觉得因为现在早前已经走不通了，走早前的路子已经走不通了。而且是读了很多这种创业故事之后，就是那些失败的创业故事之后，失败然后再成功的创业故事，你就会发现其实你最重要的不是说你一开始做什么做做就做成了一个很成功的产品，而是你有一个合适的人，然后失败了一次之后，我们能再另外再做一个东西。
+</p>
+<p class="transcript-line">
+<span class="time"><strong>[00:20:30]</strong> </span>
+<span class="speaker"><strong>发言人3: </strong></span>
+他可能就成了，或者你你你假设一下。比如说第一种情况是你找到了靠谱的人，然后一堆人想投你，这是第一种情况。第二种情况是你拿了一堆钱，一堆人想跟你一起干你觉哪个比较容易选？肯定是前面那个容易选。你选错人这多可怕。
+</p>
+<p class="transcript-line">
+<span class="time"><strong>[00:20:51]</strong> </span>
+<span class="speaker"><strong>发言人1: </strong></span>
+讲到这个我又想起之前FIGMA，其实就是很就是一个很典型的例子。IG ma的创始两个创始人，一个是搞技术的，另外一个是主要是做设计的。他拉上那个艾文，就是那个的那那个人，他一开始拉他，他们两个做的是什么事情？他们做的是无人机，他们一开始的创业项目是无人机。你知道他们为什么要做无人机吗？他们因为那个那个低能就是另外一个创始人第一人。他他觉得他他想解创建的一家公司，是解决美国的这个交警的执法速度OK。因为他们觉得用无人机是会更好抓抓那些人OK，所以他们想做这个。
+</p>
+<p class="transcript-line">
+<span class="time"><strong>[00:21:31]</strong> </span>
+<span class="speaker"><strong>发言人1: </strong></span>
+然后他当然他然后那个艾文后来就劝他说，你不要搞这个了，这个注定会失败的。他们其实已经创业了一年了，然后他说不要搞这个，这个东西又硬件又难搞，然后又什么，对那些privacy又什么之类的。反正后来他就艾文就跟他说，来我给你看个很牛逼的东西，然后他就给那个狄伦看了一个他用web GL在网页上渲染的一个一个球一个球在一个水池里面，一个球在一个水池里面，那个水池是有那种。
+</p>
+<p class="transcript-line">
+<span class="time"><strong>[00:22:03]</strong> </span>
+<span class="speaker"><strong>发言人3: </strong></span>
+波浪OKOK它是实时。
+</p>
+<p class="transcript-line">
+<span class="time"><strong>[00:22:05]</strong> </span>
+<span class="speaker"><strong>发言人1: </strong></span>
+渲染波动的。就是他给他看了一个demo，然后你看这个多屌，我们来搞这个。所以有了这个东西，然后第一轮看了觉也觉得好屌，但是我们能能用这个来干嘛？然后他们一开始他看中艾文，就是因为他在这一方面，他说图形学，他说图形技术这一方面有很高的技术，所以他才选他一起创业。但到底具体做什么，其实他们都不知道，后来就是一步一步的他他知道艾文能能做成这种技术，然后他们才慢慢的开始想起来，说我们可以在web上面去做一个设计软件，而且他们一开始也不是做设计工具。他们一开始看到这个demo之后，我们说我们要做一个在线的photo p他们想做的是4个OK。然后他们做了一两年之后发现我靠photoshop在web上面太难做了。
+</p>
+<p class="transcript-line">
+<span class="time"><strong>[00:22:55]</strong> </span>
+<span class="speaker"><strong>发言人3: </strong></span>
+然后后来才改成。
+</p>
+<p class="transcript-line">
+<span class="time"><strong>[00:22:57]</strong> </span>
+<span class="speaker"><strong>发言人1: </strong></span>
+了做批，后来才批发到去做那个2D的矢量图，就是这种平面设计的这种UI设计的这种工具。所以这个例子其实我想说的就是人还是比较重要的。就他第一个能找到艾文这样的人，然后无论他们之前的那些idea有多么垃圾，那到最后还是会成功。
+</p>
+<p class="transcript-line">
+<span class="time"><strong>[00:23:18]</strong> </span>
+<span class="speaker"><strong>发言人3: </strong></span>
+也一定程度上说明这个创业是有一定方法论的对吧？反正你人靠谱的话，沿着这个方法论他总能找到一些机会。
+</p>
+<p class="transcript-line">
+<span class="time"><strong>[00:23:25]</strong> </span>
+<span class="speaker"><strong>发言人1: </strong></span>
+对，所以乔布斯不说，乔布斯说苹果不是因为他的什么什么，最主要还是因为苹果的人。
+</p>
+<p class="transcript-line">
+<span class="time"><strong>[00:23:32]</strong> </span>
+<span class="speaker"><strong>发言人2: </strong></span>
+如何做创业伙伴。
+</p>
+<p class="transcript-line">
+<span class="time"><strong>[00:23:34]</strong> </span>
+<span class="speaker"><strong>发言人1: </strong></span>
+这个我也不知道，很难，比结婚还难，好像真的比选对象还难。
+</p>
+<p class="transcript-line">
+<span class="time"><strong>[00:23:38]</strong> </span>
+<span class="speaker"><strong>发言人2: </strong></span>
+好像推特上面成功的几个创业，他们的老婆都是他们的合作伙伴。
+</p>
+<p class="transcript-line">
+<span class="time"><strong>[00:23:45]</strong> </span>
+<span class="speaker"><strong>发言人1: </strong></span>
+对，就是一起。
+</p>
+<p class="transcript-line">
+<span class="time"><strong>[00:23:46]</strong> </span>
+<span class="speaker"><strong>发言人2: </strong></span>
+并肩的朋友。我觉得挺好的，就能解答他的一些问题。
+</p>
+<p class="transcript-line">
+<span class="time"><strong>[00:23:52]</strong> </span>
+<span class="speaker"><strong>发言人3: </strong></span>
+我是觉得回到创业这件事情，我看他这位CC朋友提到说他最终目标是创业。即便是如此，我都觉得不用过早定义自己，这可能是个爹有一点爹味的话，但是对现在。
+</p>
+<p class="transcript-line">
+<span class="time"><strong>[00:24:07]</strong> </span>
+<span class="speaker"><strong>发言人1: </strong></span>
+确实还太早了。
+</p>
+<p class="transcript-line">
+<span class="time"><strong>[00:24:08]</strong> </span>
+<span class="speaker"><strong>发言人3: </strong></span>
+不用不用着急不用着急定义自己。因为怎么讲，我会觉得有的时候你给自己定一个非常明确的目标，就像那个elon mask一样。就是他身边的人说他是elon mask十几年前说的话定的目标，跟今天他每天公开场合讲的定的目标说的话是一模一样的。这个其实挺挺厉害，挺难得的。
+</p>
+<p class="transcript-line">
+<span class="time"><strong>[00:24:25]</strong> </span>
+<span class="speaker"><strong>发言人3: </strong></span>
+但另外一个角度就是说，如果你不是伊隆马斯这个十几年前就把自己把这个世界看得这么清楚的人，你可以给自己一个很远大很有野心的目标。但是一定程度上，如果这个目标到头来他一定上也给你限制，让你聚焦在一个点。所以我觉得这个是两面性的，也许你做一做就会发现一些新的机会或者新的兴趣。因为我越来越觉得兴趣这个东西很有趣，它它很多情况下它是一时的。就是你在当下缺这个，或者你很久没有碰过这个东西，觉得有那个新鲜感，你会对这个东西天生的有兴趣。但是真的能比如说陪你一辈子的那种心血，那个不是你每天能找到的，或者说不是你很早就就能发现的，它是陪你一辈子的那种东西，就不用太早立这么明确的flag。当然我觉得有志向是非常好的。
+</p>
+<p class="transcript-line">
+<span class="time"><strong>[00:25:14]</strong> </span>
+<span class="speaker"><strong>发言人1: </strong></span>
+我大一的时候的目标就是做一个android程序员，对吧？我当时就觉得我就是要做安卓程序员的。
+</p>
+<p class="transcript-line">
+<span class="time"><strong>[00:25:20]</strong> </span>
+<span class="speaker"><strong>发言人2: </strong></span>
+你们的目标怎么都这么正能量，这么正向。我大一的目标是怎么在大话西游里面打的，变成全服第一之类这种对小众。
+</p>
+<p class="transcript-line">
+<span class="time"><strong>[00:25:33]</strong> </span>
+<span class="speaker"><strong>发言人1: </strong></span>
+然后我想说的就是我大一的时候想做一个安卓程序员，结果出来工作之后就做成了一个前端，这种东西都是说不定的对。
+</p>
+<p class="transcript-line">
+<span class="time"><strong>[00:25:41]</strong> </span>
+<span class="speaker"><strong>发言人3: </strong></span>
+我是顺着刚才给plus的话讲，甚至很多人现在做的工作都不是自己大学学的专业。对我觉得这个很难讲的。还有一点我会这样觉得，就是说不论你将来做什么，或者你将来志向做什么，我这里面总是有一句话我忍不住想想提出来就说他说最终目标是创业。但是对我来说，技术永远不是最高优先级的思考点。
+</p>
+<p class="transcript-line">
+<span class="time"><strong>[00:26:03]</strong> </span>
+<span class="speaker"><strong>发言人3: </strong></span>
+我会我想稍微提出那么一点点我个人的这个不同观点，或者我个人性格上是这样的，我觉得我现在在做什么，我就觉得这个东西是最重要的。我是那种活在当下的人，就是即便我有远大理想，但是我今天做这个，甚至因为一些不得已的原因，我做不到我理想中的工作。我首先我把今天这份工作做好，他在我心中至少在当下是那件最重要的事情。对对，也许他不是这个意思了，但是我一对对对我我是觉得不积跬步，无以至至千里。你把眼下的事情能做好，你才有信心做好更大的事情，做好那个你认为更重要的事情。但是在那个更重要的事情来到你身边之前，也许这位朋友没有这个想法，是是我是我自己想象中的。但是你不要因为觉得眼下这件事情跟那个目标离得太远或者太小就轻视他。我觉得至少不是这样子的，或者看不起这个工作就对，反正我将来是干这个事儿的，我这个不是我最想干的事，我反倒觉得也许他会给你带来一些困扰。
+</p>
+<p class="transcript-line">
+<span class="time"><strong>[00:27:05]</strong> </span>
+<span class="speaker"><strong>发言人1: </strong></span>
+同一说起来。
+</p>
+<p class="transcript-line">
+<span class="time"><strong>[00:27:06]</strong> </span>
+<span class="speaker"><strong>发言人2: </strong></span>
+这个事儿，因为我想起来曾经的我就是有一段时间我是把自己定义成将来肯定要做独立开发的。你当你有了一个这样的心理上的设定，或者说给自己设了限之后，你就做很多事情就会很奇怪。比如说在公司打工的时候，你就会想着说我要怎么能把这个东西融合到自己的副业里。或者说我现在做的这个东西对我将来做独立开发有什么好处呢？似乎没有。你说我熟悉阿里的那套部署，我忘记什么东西部署了。但是我熟悉那套对我将来创业完全没帮助，它是阿里内部的一些系统，就会有这样的纠结，也就是觉得我现在这个事情没意义。
+</p>
+<p class="transcript-line">
+<span class="time"><strong>[00:27:50]</strong> </span>
+<span class="speaker"><strong>发言人2: </strong></span>
+然后从另一方面来讲，你业余的时候就下了班的时候，你又仿佛没有那个时间和冲劲去真正从事所谓的独立开发。你会觉得说我一定要等到一个时间点。我可能辞职之后，或者说赚到什么我的运营成本之后，或者说反正就是你你会需要一个契机之类的，就给自己找一些借口，不停的拖延，不停的不开始OK。所以当时我的心态就是这样的，我现在转头分析就是觉得正是因为我设置了那个限定，导致我什么事情都没做好。OK就是我我当下的工作也没做好，因为我没有倾尽全力。那肯定的，就是因为你心里会觉得，你将来是要做其他事情的那这个事情你自然就不会认真。
+</p>
+<p class="transcript-line">
+<span class="time"><strong>[00:28:36]</strong> </span>
+<span class="speaker"><strong>发言人2: </strong></span>
+第二，你是你将来要做的那件事情，你又觉得是将来要做，所以你现在又没开始，然后就是两方面都没做好。后来近几年，心态完全就变了。我我我就像勾股说的，我就是把现在手头的事做好。而且有的时候你会发现，之所以能把手头的事做好，是你发现的在其中找到了一些你擅长的部分，然后恰巧人们的兴趣通常来自于自己擅长的部分，你在做好自己手头的事情的时候，你会额外的对自己感兴趣的点，也就是说自己更擅长的那个点稍微努力那么一点点。然后随着时间的积累，这也不是突然，就有点量变到质变过程。就是你慢慢的会发现你现在手头做的这个东西，从你最开始完全对你完全没有意义，或者说你不喜欢，慢慢就变成了你喜欢的那个样子。甚至说有一个机会突然就传送到你面前了，就是你想做的东西，就像乔布斯那个演讲里说就串起来了。
+</p>
+<p class="transcript-line">
+<span class="time"><strong>[00:29:30]</strong> </span>
+<span class="speaker"><strong>发言人3: </strong></span>
+对，connective dot.
+</p>
+<p class="transcript-line">
+<span class="time"><strong>[00:29:32]</strong> </span>
+<span class="speaker"><strong>发言人2: </strong></span>
+对，真的很莫名其妙。而且最开始你都完全没想到将来会有一个这样的项目等着你，好像仿佛就是为你量身定做的。但是你从这个街道项目再往回看，用后视镜的方法，突然觉得我之前做的大概B.
+</p>
+<p class="transcript-line">
+<span class="time"><strong>[00:29:46]</strong> </span>
+<span class="speaker"><strong>发言人3: </strong></span>
+CD这个机会是你其实是你自己创造出来的。
+</p>
+<p class="transcript-line">
+<span class="time"><strong>[00:29:49]</strong> </span>
+<span class="speaker"><strong>发言人2: </strong></span>
+都对，都是创造出来都是有关联的。是因为你之前认真对待了这四个项目，然后打好了一些基础，导致你的reputation也好，同事们都认可你。因为你做事情很认真，他们愿意给你机会，或者说你的技术被认可了，然后等到这个ABCDE这个E这个项目来的时候，你突然发现你的所有的知识，还有同事人脉，还有你的reputation好像都用上了。就是有一个这样的刹那，让我觉得在那些无聊的项目上打引号的，无聊的项目上付出的东西好像还是值得的。我发现很多事情都是需要时间，这时间是一个很很神奇的东西。就是你当下你是没办法去验证未来的事情，也没办法去想象。我不可能想象未来会有一个像E这样的一个项目等着我，也没有想象到我会这么适合他。
+</p>
+<p class="transcript-line">
+<span class="time"><strong>[00:30:37]</strong> </span>
+<span class="speaker"><strong>发言人1: </strong></span>
+和时间做朋友，这是GP lu s偶像写的一本书，挺好挺有用的，我读完收获也很大。
+</p>
+<p class="transcript-line">
+<span class="time"><strong>[00:30:46]</strong> </span>
+<span class="speaker"><strong>发言人2: </strong></span>
+Fake news fake .
+</p>
+<p class="transcript-line">
+<span class="time"><strong>[00:30:49]</strong> </span>
+<span class="speaker"><strong>发言人1: </strong></span>
+news真的推荐给听众们。和时间做朋友这本书。
+</p>
+<p class="transcript-line">
+<span class="time"><strong>[00:30:53]</strong> </span>
+<span class="speaker"><strong>发言人2: </strong></span>
+对，虽然作者我就是大部分的观点我持有保留意见，但是这本书是很不错的这本书真的不错。我认真读过这本书，而且好像不止一遍。对，它它里面是很多东西是需要慢慢悟的，还是挺挺有道理的。
+</p>
+<p class="transcript-line">
+<span class="time"><strong>[00:31:08]</strong> </span>
+<span class="speaker"><strong>发言人3: </strong></span>
+好，我也找来读一下。
+</p>
+<p class="transcript-line">
+<span class="time"><strong>[00:31:10]</strong> </span>
+<span class="speaker"><strong>发言人2: </strong></span>
+谢谢CC祝你创业成功。
+</p>
+<p class="transcript-line">
+<span class="time"><strong>[00:31:12]</strong> </span>
+<span class="speaker"><strong>发言人3: </strong></span>
+对，创业成功。以上就是本期节目的全部内容，欢迎给我们点赞、转发和评论。想订阅我们的节目请在小宇宙、苹果播客、哔哩哔哩和youtube搜索代码之外，也欢迎您在爱发电或上述任意平台给我们打赏。想提供任何素材或话题，欢迎通过show notes中的听众来信链接给我们提问，我们下期节目不见不散。
+</p>]]></content:encoded>
+            <pubDate>Tue, 23 Dec 2025 23:56:34 GMT</pubDate>
+            <guid>694b27240b60b7bf751b5cdf</guid>
+        </item>
         <item>
             <title>听众来信 #26 如何找到快乐，保持快乐 （来自听众的终极灵魂拷问）</title>
             <link>https://www.xiaoyuzhoufm.com/episode/69434f2ec4f10bdeeaf4f25a</link>
@@ -30678,485 +31247,6 @@ OK对这个脑力劳动可能是我想到一个主意。
 </p>]]></content:encoded>
             <pubDate>Wed, 16 Oct 2024 07:53:33 GMT</pubDate>
             <guid>670f70fe0d2f24f289884abd</guid>
-        </item>
-        <item>
-            <title>番外：和 ChatGPT 对谈半小时</title>
-            <link>https://www.xiaoyuzhoufm.com/episode/670dffa70d2f24f289361030</link>
-            <description>ChatGPT 最近推出了 Advanced Voice Mode, 可以自然对话，在对话中随时打断。于是主播 Randy 拿起手机随便和它对谈了半小时，还录了音。
-在对谈中，我和 ChatGPT 聊了一些程序员和 AI 的话题。录得比较随意，口吃严重，敬请谅解。
----
-代码之外 Beyond Code 是一档闲聊节目，从程序员的视角探索和感受世界。我们每期节目都有视频和音频版，欢迎关注我们：
-* 主页
-* YouTube
-* 哔哩哔哩
-* 打赏我们一杯咖啡
-* 商务合作 beyondcodefm@gmail.com
-也欢迎在 to.beyondcodefm.com 向我们来信，我们会在下一期节目分享你的来信或解答你的疑惑。
----
-金牌赞助商 / Golden Sponsor
-佐玩 Zolplay 一家成立于2021年的软件开发公司，致力于用软件改善身边世界。我们的使命是打造创新的解决方案，🦄 以提升人们的生活质量并改变我们的生活和工作方式。
-PaddingLeft 是主播 Randy 创立的创意工作者周边品牌。你可以在这里买到高质量的技术贴纸。我们每售出一张开源项目贴纸，会为该项目捐赠 1 元人民币。
-赞助商 / Sponsor
-* Notepal 一键同步微信读书笔记到 Notion, Readwise, Logseq, 思源笔记等笔记软件
-* EpubKit 把网页、博客、文档一键生成 ePub 电子书</description>
-            <content:encoded><![CDATA[<h1>转写链接</h1>
-<link>https://tongyi.aliyun.com/efficiency/doc/transcripts/4l6xqav7xjodqm2y</link><br>
-<h1>节目摘要</h1>
-<div class="summary">程序员的职业生活不仅局限于编码，还需关注行业趋势，通过参与技术交流和实践项目保持竞争力。软技能，如沟通与协作，同样重要，建议通过参与开源项目或开发实用工具来提升。职业发展方面，除了技术深度，也可探索技术管理或行业应用结合的路径。面对工作与生活的平衡，设定小目标、适时休息和锻炼是恢复精力的有效方法。总之，程序员需在技术精进与软实力提升上并重，同时注重个人福祉，实现全面发展。</div><br>
-<h1>章节速览</h1>
-<div class="chapters">
-<div class="chapter-item">
-<span class="time"><strong>[00:00:00]</strong> </span>
-<span class="chapter-title"><strong>程序员的斜杠生活：应对职场挑战与技术趋势</strong></span>
-<div class="chapter-summary">在本期播客中，我们探讨了程序员如何在职场中面对并克服挑战，如跟上技术趋势和团队合作。要跟上技术趋势，程序员可以关注行业新闻，参与开发者大会和实践项目。参与开源项目、为非营利组织开发工具或自设项目都是学习新知识的好方法。重点是找到自己的兴趣点，从而保持学习的动力。</div>
-</div>
-<div class="chapter-item">
-<span class="time"><strong>[00:01:59]</strong> </span>
-<span class="chapter-title"><strong>程序员技能提升及项目实践建议</strong></span>
-<div class="chapter-summary">对话内容涉及程序员如何通过参与开源项目如React Vue JS和Jingle Rails等，为非营利组织或小企业开发软件，以及开发移动应用解决日常问题来提升技能。此外，还强调了培养沟通、协作、项目管理和时间管理等软技能的重要性，以提升程序员的综合素质和项目效率。</div>
-</div>
-<div class="chapter-item">
-<span class="time"><strong>[00:03:25]</strong> </span>
-<span class="chapter-title"><strong>沟通和协作在程序员工作中的重要性及应用</strong></span>
-<div class="chapter-summary">对话中强调了程序员在团队开发过程中频繁沟通和高效协作的重要性，指出良好的沟通和协作能力能帮助团队更高效地解决问题，避免重复劳动和误解。讨论了沟通中的倾听和表达技巧，以及协作中常见问题如信息孤岛和缺乏主动性对团队的负面影响。同时，通过实际场景的例子，说明了及时同步风险信息，客观描述问题，并展示积极解决问题的态度对于项目成功至关重要。这突显了除了技术能力外，软技能对于程序员同样重要。</div>
-</div>
-<div class="chapter-item">
-<span class="time"><strong>[00:09:02]</strong> </span>
-<span class="chapter-title"><strong>探讨程序员职业发展的多路径选择</strong></span>
-<div class="chapter-summary">程序员的职业发展不应仅限于技术深耕，也可拓展至管理或产品设计等领域。判断适合发展方向时，需考虑个人兴趣、技能优点及实际工作表现。即便AI技术发展迅速，也不意味着程序员会被取代，反而应视AI为增强工作效率的工具。因此，程序员需要不断学习新技术，适应行业变化，以保持竞争力。</div>
-</div>
-<div class="chapter-item">
-<span class="time"><strong>[00:12:40]</strong> </span>
-<span class="chapter-title"><strong>程序员如何在AI时代保持竞争力</strong></span>
-<div class="chapter-summary">AI时代的程序员应将AI视为合作伙伴，利用AI完成代码自动生成等任务，同时专注于创新性思维、伦理道德判断、系统设计等AI难以取代的领域。不断学习AI相关技能，了解最新工具和方法，以提升工作效率。未来，缺乏创造性思维和软技能的程序员更易被AI取代，而具备创新能力的程序员将在AI时代更加突出。</div>
-</div>
-<div class="chapter-item">
-<span class="time"><strong>[00:17:04]</strong> </span>
-<span class="chapter-title"><strong>应对AI时代的程序员发展策略</strong></span>
-<div class="chapter-summary">在AI时代，程序员面临职业发展的新挑战和机遇。为了保持竞争力，程序员可以通过多元化学习和项目参与来培养创造性和决策性思维，同时，将AI技术与传统行业相结合是一个有效的策略。此外，转向AI相关岗位、专注于特定行业领域、提升软技能或选择创业和自由职业都是适应AI时代、开拓职业道路的可行方法。探索自身优势领域，并利用AI技术为这些领域带来创新，是程序员在AI时代成功转型的关键。</div>
-</div>
-<div class="chapter-item">
-<span class="time"><strong>[00:23:01]</strong> </span>
-<span class="chapter-title"><strong>探讨程序员如何平衡工作与生活</strong></span>
-<div class="chapter-summary">本次对话聚焦于程序员如何在高压工作环境中保持高效工作并确保生活质量。讨论强调了制定合理作息、培养工作外兴趣以及在工作中设置界限的重要性。特别指出，大多数人意识到业余时间的重要性，但主要问题是工作时间里的精力耗尽，导致下班后难以参与其他活动。进一步讨论了通过设定小目标和利用短暂休息时间恢复精力的方法，以提升工作与生活的平衡，增加生活的多样性和充实感。</div>
-</div>
-</div><br>
-<h1>问题回顾</h1>
-<div class="qa-item">
-<div class="question"><strong>Q:</strong> 在职场中，程序员除了写代码之外，还需要关注哪些方面？</div>
-<div class="answer"><strong>A:</strong> 程序员除了写代码，还需要关注如何跟上技术趋势，有效团队合作，比如通过多关注行业新闻、参加开发者大会和技术交流活动，并通过实践积累经验来跟上技术潮流。</div>
-</div>
-<div class="qa-item">
-<div class="question"><strong>Q:</strong> 程序员应该如何跟上技术趋势呢？</div>
-<div class="answer"><strong>A:</strong> 程序员跟上技术趋势的方法包括：多关注行业新闻和博客，参加开发者大会和技术交流活动，以及通过动手实践项目，如参与开源项目、为非营利组织开发小工具或独立开发手机应用和网站等。</div>
-</div>
-<div class="qa-item">
-<div class="question"><strong>Q:</strong> 能否举一些实际的例子帮助程序员跟上技术趋势？</div>
-<div class="answer"><strong>A:</strong> 可以参与热门开源项目，如React、Vue.js等前端框架或Ruby on Rails等后端框架，这些项目有活跃社区和丰富学习资源。</div>
-</div>
-<div class="qa-item">
-<div class="question"><strong>Q:</strong> 除了技术方面，程序员还应培养哪些软技能？</div>
-<div class="answer"><strong>A:</strong> 程序员还应培养沟通与协作能力，主动担任项目协调角色以提升这些技能；了解项目管理方法，如敏捷开发或Scrum；掌握时间管理，合理安排工作和学习时间。</div>
-</div>
-<div class="qa-item">
-<div class="question"><strong>Q:</strong> 沟通和协作对程序员为何重要？</div>
-<div class="answer"><strong>A:</strong> 良好的沟通与协作对程序员至关重要，因为在团队开发中频繁沟通确保需求和进度同步，协作能力强能够提高团队效率，避免重复劳动和误解。</div>
-</div>
-<div class="qa-item">
-<div class="question"><strong>Q:</strong> 如何从反面例子理解沟通与协作的重要性？</div>
-<div class="answer"><strong>A:</strong> 反面例子中，缺乏信息共享（信息孤岛）和主动性协作会导致重复劳动和方向错误。及时同步风险信息是成功项目的关键，应勇于面对问题，用客观语言描述并积极寻求解决方案。</div>
-</div>
-<div class="qa-item">
-<div class="question"><strong>Q:</strong> 遇到项目延期的风险时，程序员如何有效沟通？</div>
-<div class="answer"><strong>A:</strong> 当预计项目延期时，应坦诚当前困难，客观分析问题并提出已尝试的方法和可能需要的资源支持。表达积极态度，愿意共同寻找解决方案，并及时汇报进展，展现责任感和合作意愿。</div>
-</div>
-<div class="qa-item">
-<div class="question"><strong>Q:</strong> 除了上述内容外，还有哪些建议可以分享给程序员？</div>
-<div class="answer"><strong>A:</strong> 程序员应考虑职业发展的多元化，除了深耕技术外，还可以向管理或其他领域发展，例如项目管理或产品设计等方向，多思考个人兴趣和优势，抓住机会实现职业成长。</div>
-</div>
-<div class="qa-item">
-<div class="question"><strong>Q:</strong> 要判断自己更适合技术还是管理方向，可以从哪些方面考虑？</div>
-<div class="answer"><strong>A:</strong> 判断自己更适合技术还是管理方向，可以从兴趣和激情、技能与优点以及实际工作中的角色尝试三个方面来考虑。首先看个人兴趣，是喜欢钻研技术细节、解决复杂问题，还是更善于与人打交道、组织协调。其次，评估自身在技术或沟通、组织方面的天赋和优点。最后，通过在工作中承担不同角色，如带领小型项目或负责团队沟通协调，以实践验证自己在哪方面表现更出色。</div>
-</div>
-<div class="qa-item">
-<div class="question"><strong>Q:</strong> 在AI可以写代码的时代，程序员是否会被取代，往技术方向发展还有意义吗？</div>
-<div class="answer"><strong>A:</strong> 虽然AI在代码生成领域的进步迅速，但并不意味着程序员会被完全取代。相反，AI可以作为程序员的有效工具，提高工作效率，完成重复性任务。未来程序员可能更多地扮演AI教练的角色，设计AI模型、提供数据，并对AI生成的代码进行优化调整。因此，掌握AI相关知识和技能将成为技术发展的重要方向，往技术方向发展依然有意义。</div>
-</div>
-<div class="qa-item">
-<div class="question"><strong>Q:</strong> 程序员应该如何适应这个时代，尤其是AI时代？</div>
-<div class="answer"><strong>A:</strong> 程序员适应AI时代，可以采取以下措施：首先学习AI相关知识，了解AI和机器学习的基本原理；关注AI在编程领域的最新发展，掌握最新的AI编程工具；持续学习并专注于核心技能，如创造性思维和批判性思考，因为AI无法替代人类在这些领域的能力。</div>
-</div>
-<div class="qa-item">
-<div class="question"><strong>Q:</strong> 对于那些AI时代下单纯写代码的程序员，他们应该如何转型和发展？</div>
-<div class="answer"><strong>A:</strong> 这类程序员可以考虑转向AI相关岗位，学习AI和数据科学的知识，成为AI技术专家或从事AI与编程结合的新兴岗位；也可以将编程技能与特定行业结合，成为该领域的技术专家；提升软技能，如沟通、团队协作和项目管理，转技术管理岗位；甚至创业或自由职业，利用编程技能开发产品或承接项目合同工作。通过多元化发展，找到适合自己的职业道路。</div>
-</div>
-<div class="qa-item">
-<div class="question"><strong>Q:</strong> 程序员如何与AI在编程中的应用进行互动？</div>
-<div class="answer"><strong>A:</strong> 程序员可以将AI视为合作伙伴，利用AI完成代码自动生成、错误检查等重复性任务，从而让自己专注于更复杂和创造性的任务。同时，持续学习AI相关技能，了解最新的AI编程工具和方法，发挥AI辅助编程的优势。</div>
-</div>
-<div class="qa-item">
-<div class="question"><strong>Q:</strong> AI解决不了的问题，哪些是真正需要人类程序员来解决的复杂问题？</div>
-<div class="answer"><strong>A:</strong> 人类程序员在AI时代的优势体现在创造性思维、伦理道德判断以及系统架构设计等方面。例如，设计全新的用户体验、开发独特功能，处理涉及伦理道德和社会影响的问题，以及做出复杂的系统架构决策，这些仍需人类程序员的参与和决策。</div>
-</div>
-<div class="qa-item">
-<div class="question"><strong>Q:</strong> 对于那些未来可能被AI取代的程序员，他们需要具备哪些软技能以保持竞争力？</div>
-<div class="answer"><strong>A:</strong> 未来不易被AI取代的程序员应具备创造性思维、解决复杂问题的能力以及沟通协作等软技能。他们可以借助AI提升效率，将更多精力放在创新和高价值的工作上。</div>
-</div>
-<div class="qa-item">
-<div class="question"><strong>Q:</strong> 在AI时代，程序员应该如何应对并寻找机会？</div>
-<div class="answer"><strong>A:</strong> 程序员在AI时代应该多探索自己在编程之外的兴趣和优势领域，特别是将AI与自己熟悉的行业或细分领域结合，尝试利用AI为这些领域带来创新和提升，从而拓宽职业道路并在AI时代保持竞争力。</div>
-</div>
-<div class="qa-item">
-<div class="question"><strong>Q:</strong> 如何平衡程序员高强度工作与生活质量之间的关系？</div>
-<div class="answer"><strong>A:</strong> 对于程序员来说，保持工作和生活的平衡非常重要。可以制定合理的作息时间，保证足够的休息和锻炼；培养工作之外的爱好，如阅读、音乐或户外运动，以放松身心；同时学会在工作中设定界限，避免过度加班。</div>
-</div>
-<div class="qa-item">
-<div class="question"><strong>Q:</strong> 针对程序员普遍存在的精力管理问题，有何建议？</div>
-<div class="answer"><strong>A:</strong> 讨论了精力管理的话题，如在工作中利用短暂休息恢复精力，工作日早晚安排愉悦活动恢复活力，并提倡设定小目标，通过完成如学会新技能、健身等小目标，获得成就感并给生活增添乐趣，从而在工作之余感受到充实感，有效管理精力。</div>
-</div>
-<h1>节目文稿</h1>
-<p class="transcript-line">
-<span class="time"><strong>[00:00:00]</strong> </span>
-<span class="speaker"><strong>发言人1: </strong></span>
-现在我们在录一个叫做代码之外的播客。我现在要跟你来录一期这样的播客跟你对谈。我们的听众会比较感兴趣的话题是程序员相关的话题，以及程序员除了写代码之外的一些像职场科技趋势、技术趋势这之类的话题。你在你在这些话题方面，你觉得有什么可以跟我们的听众一起分享的？
-</p>
-<p class="transcript-line">
-<span class="time"><strong>[00:00:31]</strong> </span>
-<span class="speaker"><strong>发言人2: </strong></span>
-欢迎大家来到代码之外，我是ChatGPT。今天我们聊聊程序员的多彩生活。除了写代码，程序员们在职场中还面临哪些挑战呢？比如如何跟上技术趋势，或者在团队中有效合作？我们不妨从这些角度来探讨一下程序员的斜杠生活，你怎么看？
-</p>
-<p class="transcript-line">
-<span class="time"><strong>[00:00:55]</strong> </span>
-<span class="speaker"><strong>发言人1: </strong></span>
-那你觉得程序员应该怎么样去跟上技术趋势呢？
-</p>
-<p class="transcript-line">
-<span class="time"><strong>[00:00:59]</strong> </span>
-<span class="speaker"><strong>发言人2: </strong></span>
-我觉得程序员要跟上技术趋势，首先可以多关注行业新闻，订阅技术博客和播客。其次参加开发者大会和技术交流活动，与同行们互动。最后最重要的还是要多动手实践，通过项目积累经验，这样才能真正跟上潮流。
-</p>
-<p class="transcript-line">
-<span class="time"><strong>[00:01:21]</strong> </span>
-<span class="speaker"><strong>发言人1: </strong></span>
-我觉得有很多人他知道应该去多做真实的项目，但是他们不知道应该做一些什么。
-</p>
-<p class="transcript-line">
-<span class="time"><strong>[00:01:28]</strong> </span>
-<span class="speaker"><strong>发言人2: </strong></span>
-这是个很常见的问题。其实可以从以下几个方面来入手。首先，参与开源项目，这不仅能学到新知识，还能结交同行。其次，为生非营利组织开发小工具，解决实际问题。最后自己设定一个感兴趣的项目，比如开发一个手机应用或网站，通过实践来学习。重要的是找到自己感兴趣的方向，这样才有动力坚持下去。
-</p>
-<p class="transcript-line">
-<span class="time"><strong>[00:02:00]</strong> </span>
-<span class="speaker"><strong>发言人1: </strong></span>
-你能举一些实际的例子吗？
-</p>
-<p class="transcript-line">
-<span class="time"><strong>[00:02:03]</strong> </span>
-<span class="speaker"><strong>发言人2: </strong></span>
-当然可以。比如你可以参与一些热门的开源项目，像react view JS这样的前端框架，或是jingle rails这样的后端框架。这些项目都有活跃的社区和丰富的学习资源。
-</p>
-<p class="transcript-line">
-<span class="time"><strong>[00:02:20]</strong> </span>
-<span class="speaker"><strong>发言人2: </strong></span>
-如果你喜欢帮助别人，可以为本地的非营利组织开发一个活动管理系统，或者为朋友的小企业创建一个简单的电商网站。如果你对移动应用感兴趣，为什么不尝试开发一个解决日常问题的小工具？比如代办事项列表应用或者健身跟踪，这些都是很好的实践项目。
-</p>
-<p class="transcript-line">
-<span class="time"><strong>[00:02:45]</strong> </span>
-<span class="speaker"><strong>发言人1: </strong></span>
-OK，那还有什么另外的一些可以跟我们分享的东西吗？
-</p>
-<p class="transcript-line">
-<span class="time"><strong>[00:02:54]</strong> </span>
-<span class="speaker"><strong>发言人2: </strong></span>
-除了技术方面，我觉得程序员还可以培养一些软技能，比如沟通和协作，或者在团队中协会主动担任项目协调的角色，有助于提升这些能力。另外了解一些项目管理的方法，比如敏捷开发或者scrum，可以让你在项目中更高效。还有时间管理也是一项关键技能，合理安排工作和学习时间能让你事半功倍。
-</p>
-<p class="transcript-line">
-<span class="time"><strong>[00:03:26]</strong> </span>
-<span class="speaker"><strong>发言人1: </strong></span>
-为什么你会觉得程序员你是问。
-</p>
-<p class="transcript-line">
-<span class="time"><strong>[00:03:29]</strong> </span>
-<span class="speaker"><strong>发言人2: </strong></span>
-为什么沟通和协作对程序员很重要吗？其实在团队开发中，大家需要频繁沟通，确保彼此了解需求和进度。协作能力强能让团队更加高效地解决问题，避免重复劳动和误解。所以良好的沟通和协作对程序员来说至关重要。
-</p>
-<p class="transcript-line">
-<span class="time"><strong>[00:03:54]</strong> </span>
-<span class="speaker"><strong>发言人1: </strong></span>
-那你觉得有哪一些沟通和协作方面的我们可以学习的一些点呢？
-</p>
-<p class="transcript-line">
-<span class="time"><strong>[00:04:02]</strong> </span>
-<span class="speaker"><strong>发言人2: </strong></span>
-在沟通方面，首先要学会倾听，了解对方的需求和观点，这样才能有效回应。其次要学会表达，简洁明了地传达自己的想法和问题。在协作方面。
-</p>
-<p class="transcript-line">
-<span class="time"><strong>[00:04:17]</strong> </span>
-<span class="speaker"><strong>发言人1: </strong></span>
-你能给我们举一些反面的例子吗？
-</p>
-<p class="transcript-line">
-<span class="time"><strong>[00:04:22]</strong> </span>
-<span class="speaker"><strong>发言人2: </strong></span>
-好的，谈谈反面例子，让大家更清楚这些重要性。在沟通上，一个常见问题是信息孤岛，就是团队成员只关注自己的工作，不分享信息，这会导致重复劳动，甚至出现方向错误，在协作上缺乏主动性是个问题，如果有人遇到问题不及时寻求帮助，会拖慢整个团队的进度。这些例子提醒我们在技术之外，软技能对程序员同样至关重要。你说的应该就听起来。
-</p>
-<p class="transcript-line">
-<span class="time"><strong>[00:05:01]</strong> </span>
-<span class="speaker"><strong>发言人1: </strong></span>
-你好像还听听起来好像就是说要及时的同步风险，这是其中的一块是吗？
-</p>
-<p class="transcript-line">
-<span class="time"><strong>[00:05:08]</strong> </span>
-<span class="speaker"><strong>发言人2: </strong></span>
-没错，及时同步风险是很关键的一环。如果在项目中发现了潜在问题，或者遇见了可能的风险，尽早向团队汇报，这样大家可以一起商讨解决方案或者调整计划，避免问题扩大。这不仅能减少风险，还能提高团队对突发情况的应对能力。同步信息，特别是风险信息是成功项目的关键。
-</p>
-<p class="transcript-line">
-<span class="time"><strong>[00:05:40]</strong> </span>
-<span class="speaker"><strong>发言人1: </strong></span>
-我自己的工作经历来看的话，有时候我确实会不会主动去同步风险信息。因为一个是因为我觉得有点害怕别人会觉得这是我的问题，而不是客观因素的问题。
-</p>
-<p class="transcript-line">
-<span class="time"><strong>[00:05:59]</strong> </span>
-<span class="speaker"><strong>发言人2: </strong></span>
-这很正常，很多人都会有这样的担忧。其实可以试着用客观的语言来描述问题，比如说清楚事情的来龙去脉，分析可能的原因和影响，而不仅仅是指出问题，这样大家更容易把注意力放在解决问题上，而不是责怪谁。另外，及时报告问题也是一种负责任的表现，长期来看有助于建立信任和合作关系。
-</p>
-<p class="transcript-line">
-<span class="time"><strong>[00:06:30]</strong> </span>
-<span class="speaker"><strong>发言人1: </strong></span>
-因为有时候我会觉得，比如说有一种风险，就是可能我觉得项目要delay，因为我做不完这个事情。有时候我会觉得这个事情是因为到我我我会去想，到底是因为我的问题，是我技术能力的不行，还是说其他什么样的原因。我就不敢跟我的leader或者说我的这个合作伙伴去沟通，说这个东西我可能做不了，或者说我做了很久都不行。
-</p>
-<p class="transcript-line">
-<span class="time"><strong>[00:07:05]</strong> </span>
-<span class="speaker"><strong>发言人2: </strong></span>
-我明白你的感受，这种情况下确实会有压力。其实你可以试着从两个方面来沟通。首先，坦诚目前的困难，说明你已经尝试了哪些方法，但进度还是受到了影响，这样可以让团队了解实际情况。其次，表达你的积极态度，愿意寻找解决方案可能是需要更多资源支持或者调整项目优先级。通过这样的沟通，你不仅展现了你的责任感，还表达了你的合作意愿。领导和团队通常都会理解并一起寻找解决办法，这样一来压力也会减轻不少。
-</p>
-<p class="transcript-line">
-<span class="time"><strong>[00:07:50]</strong> </span>
-<span class="speaker"><strong>发言人1: </strong></span>
-我觉得你说的挺好的，那你能不能举一个实际的场景的例子来总结一下你在来沟通这方面的这个观点的。
-</p>
-<p class="transcript-line">
-<span class="time"><strong>[00:08:04]</strong> </span>
-<span class="speaker"><strong>发言人2: </strong></span>
-好的，比方说你在开发一个新功能，发现因为技术难题进度比预期慢了。你可以这样做，首先找一个适当的时机向团队或领导说明目前的状况。比如我在开发新功能时遇到了一些技术难题，导致进度比预期慢了。然后客观的分析问题，这个问题主要是因为XX技术方面的复杂性。接着提出你的应对措施，我正在寻找解决方案，可能需要多一些时间，或者请教一下其他有经验的同事，最后表达你的积极态度，我会继续努力争取尽快解决问题，并及时向您汇报进展。这样的沟通方式可以让对方清楚你遇到的困难以及你的应对措施，也会觉得你是个负责任、愿意合作的团队成员。OK.
-</p>
-<p class="transcript-line">
-<span class="time"><strong>[00:09:02]</strong> </span>
-<span class="speaker"><strong>发言人1: </strong></span>
-那除了这一块之外，你还有什么可以跟大家分享的？
-</p>
-<p class="transcript-line">
-<span class="time"><strong>[00:09:08]</strong> </span>
-<span class="speaker"><strong>发言人2: </strong></span>
-除了沟通和协作，我想再聊聊职业发展。程序员的职业发展不只是在技术上深耕，还可以拓展到管理或其他领域。比方说有些人可能对项目管理感兴趣，逐渐转向项目经理的角色。还有些人可能喜欢产品设计，逐渐向产品经理方向发展，所以程序员们可以多思考自己的职业路径，发觉自己的兴趣和优势，寻找合适的机会，这也是实现职业成长的一个重要途径。
-</p>
-<p class="transcript-line">
-<span class="time"><strong>[00:09:44]</strong> </span>
-<span class="speaker"><strong>发言人1: </strong></span>
-那你觉得我们应该如何去判断自己到底是适合往技术方面去发展，还是管理方面去发展？
-</p>
-<p class="transcript-line">
-<span class="time"><strong>[00:09:54]</strong> </span>
-<span class="speaker"><strong>发言人2: </strong></span>
-这个问题很关键，要判断自己更适合技术还是管理方向，可以从以下几个方面来考虑。首先看你的兴趣和激情。你是否喜欢钻研技术细节，享受解决复杂问题的过程，还是你更喜欢与人打交道，组织协调。其次，评估你的技能和优点。如果你在技术上有突出的天赋，并且愿意不断学习新技，那么技术路线可能更适合你。反之，如果你善于沟通，有组织能力，能够激励和带领团队管理方向可能更适合你。最后，你可以尝试在实际工作中承担不同的角色。我的回答被打断了，你想让我接着说完。
-</p>
-<p class="transcript-line">
-<span class="time"><strong>[00:10:45]</strong> </span>
-<span class="speaker"><strong>发言人1: </strong></span>
-你继续说好的。
-</p>
-<p class="transcript-line">
-<span class="time"><strong>[00:10:49]</strong> </span>
-<span class="speaker"><strong>发言人2: </strong></span>
-继续说。在实际工作中承担不同角色，比如尝试带领一个小型项目，或者在团队中负责协调沟通。通过这些实践，你可以更清楚的了解自己在哪些方面表现更出色，也更享受。总之找到适合自己的发展方向，需要不断尝试和反思，多听取他人的反馈，同时关注自己的。
-</p>
-<p class="transcript-line">
-<span class="time"><strong>[00:11:18]</strong> </span>
-<span class="speaker"><strong>发言人1: </strong></span>
-OK。如果一个人想往技术方面去发展的话，尤其是现在这个AI可以写代码的这个时代，可能很快大家都会认为程序员会最终会被AI取代，好像往技术方面去发展不是那么的make sense。你觉得呢？
-</p>
-<p class="transcript-line">
-<span class="time"><strong>[00:11:42]</strong> </span>
-<span class="speaker"><strong>发言人2: </strong></span>
-这是一个很热门的话题，确实AI在代码生成方面的进步很快，但这并不意味着程序员会被完全取代，相反AI可以成为程序员的强大工具，提高工作效率，帮助完成重复新任务。未来程序员可能更多的扮演AI教练的角色，负责设计AI模型，提供数据，以及对AI生成的代码进行优化和调整。因此掌握AI相关知识和技能将成为技术发展的新方向。总的来说，往技术方向发展依然有意义，但需要不断学习适应新技术和新工具，保持竞争力。AI可能改变程序员的工作方式，但程序员的创造力和问题解决能力依然是不可替代。
-</p>
-<p class="transcript-line">
-<span class="time"><strong>[00:12:40]</strong> </span>
-<span class="speaker"><strong>发言人1: </strong></span>
-的那你觉得程序员要如何去适应这个时代？
-</p>
-<p class="transcript-line">
-<span class="time"><strong>[00:12:47]</strong> </span>
-<span class="speaker"><strong>发言人2: </strong></span>
-程序员适应AI时代可以从以下几个方面着手。首先学习AI相关知识，了解AI和机器学习的基本原理。这有助于你理解AI工具的工作方式，更好地与AI协作。其次关注AI在编程领域的发展，了解最新的AI编程工具。我觉得尝试将它们融。
-</p>
-<p class="transcript-line">
-<span class="time"><strong>[00:13:11]</strong> </span>
-<span class="speaker"><strong>发言人1: </strong></span>
-我觉得这些东西都偏向AI本身了。但是我想问的是AI帮助程序员写代码的这一块，AI就是以后程序员应该如何跟AI去打交道呢？
-</p>
-<p class="transcript-line">
-<span class="time"><strong>[00:13:26]</strong> </span>
-<span class="speaker"><strong>发言人2: </strong></span>
-明白了针对AI在编程中的应用，程序员可以这样与AI打交道。一将AI视为合作伙伴。AI工具可以帮助完成代码自动生成、错误检查等重复性任务。你可以将AI视为你的搭档，分担一些基础工作，让你专注于更复杂和创造性的任务。
-</p>
-<p class="transcript-line">
-<span class="time"><strong>[00:13:51]</strong> </span>
-<span class="speaker"><strong>发言人2: </strong></span>
-2、持续学习。AI在不断进步，作为程序员需要持续学习AI相关技能，了解最新的AI编程工具和方法，这样你可以更好的利用AI提升工作效率。三专注于核心技能。AI可以处理很多常规代码，但创造性和批判性思维依然是程序员的核心技能。培养解决复杂问题的能力将使你在AI时代更加不可或缺。通过这种方式，程序员可以与AI形成良性互补，充分发挥的优势。
-</p>
-<p class="transcript-line">
-<span class="time"><strong>[00:14:32]</strong> </span>
-<span class="speaker"><strong>发言人1: </strong></span>
-你觉得什么问题算是AI解决不了，但真人的程序员可以解决得了的所谓的复杂的问题。
-</p>
-<p class="transcript-line">
-<span class="time"><strong>[00:14:42]</strong> </span>
-<span class="speaker"><strong>发言人2: </strong></span>
-有些问题确实更适合人类程序员来解决，比如需要创造性和创新思维的问题，比如设计全新的用户体验或者开发独特的功能。AI擅长模式识别和优化，但在创造性方面人类仍有优势。2、涉及伦理道德和社会影响的问题。比如AI算法在敏感场景中的应用，人类程序员需要考虑道德和伦理，作出符合社会价值观的决策。
-</p>
-<p class="transcript-line">
-<span class="time"><strong>[00:15:17]</strong> </span>
-<span class="speaker"><strong>发言人2: </strong></span>
-3、复杂的系统架构和设计决策。在设计大型系统或做出架构决策时，需要考虑很多因素，比如可扩展性、性能、安全等。这些决策通常需要丰富的经验和综合判断。因此人类程序员在AI时代依然有很多不可替代的优势和价值。
-</p>
-<p class="transcript-line">
-<span class="time"><strong>[00:15:43]</strong> </span>
-<span class="speaker"><strong>发言人1: </strong></span>
-我听上来这些优势其实都不在于写代码本身，是吗？
-</p>
-<p class="transcript-line">
-<span class="time"><strong>[00:15:50]</strong> </span>
-<span class="speaker"><strong>发言人2: </strong></span>
-是的，你总结的很对，这些优势更多体现在代码之外的领域，比如创造性思维、伦理和道德判断、系统架构设计等。虽然AI可以辅助编程，但在这些更高层次和复杂性的问题上，依然需要人类程序员的参与和决策。所以未来的程序员。
-</p>
-<p class="transcript-line">
-<span class="time"><strong>[00:16:14]</strong> </span>
-<span class="speaker"><strong>发言人1: </strong></span>
-不能这样理解，你的意思就是说以后会被AI取代的程序员，其实是那些没有你说的创造性思维的程序员，或者说他在代码之外没有任何的软技能的一些程序员。
-</p>
-<p class="transcript-line">
-<span class="time"><strong>[00:16:35]</strong> </span>
-<span class="speaker"><strong>发言人2: </strong></span>
-是的，你理解的很准确。未来那些仅仅依赖重复性代码编写，而缺乏创造性思维和软技能的程序员，更容易被AI取代。而具备创造性思维、解决复杂问题能力以及沟通协作等软技能的程序员，将在AI时代更具竞争力。他们可以利用AI提升效率，同时将更多精力放在创新和高价值的工作上。
-</p>
-<p class="transcript-line">
-<span class="time"><strong>[00:17:05]</strong> </span>
-<span class="speaker"><strong>发言人1: </strong></span>
-那你有什么建议可以让我们那你有什么建议，我们那我们如何应那我们应该如何去学习这些创造性的思维，决策性的思维呢？
-</p>
-<p class="transcript-line">
-<span class="time"><strong>[00:17:26]</strong> </span>
-<span class="speaker"><strong>发言人2: </strong></span>
-培养创造性和决策性思维可以从以下几方面入手，1、多样化阅读和学习涉猎广泛的知识，尤其是技术之外的领域，比如艺术、历史、心理学等，有助于拓宽思维，激发创造性。Parks offshore参与多样的项目，在不同类型的项目中工作，尤其是那些需要跨学科合作的项目，可以锻炼你的综合能力。培养系统性思维，培养批判性思维，为学会从不同角度审视问题、提出疑问，并积极寻找证据、支持或反驳观点，批判性思维有助于做出更好的决策。4、寻求反馈和反思。主动寻求他人的反馈，反思自己的思维和决策过程。通过不断反思可以提高你的决策能力。这些方法可以帮助你培养创造性和决策性思维，在AI时代保持优势。
-</p>
-<p class="transcript-line">
-<span class="time"><strong>[00:18:32]</strong> </span>
-<span class="speaker"><strong>发言人1: </strong></span>
-我们聊回AI跟程序员之间的关系这个话题，刚刚聊下来其实说我们知道如果以后那一些单纯写代码的程序员会被淘汰的话，那么剩下来的就只剩下做决策或者做创意性思维的这一些程序员。但是客观来说，这一些人其实他的需求量会越来越少。因为做决策做创意思维的人其实也就那么一些，那其他的人应该怎么办呢？
-</p>
-<p class="transcript-line">
-<span class="time"><strong>[00:19:07]</strong> </span>
-<span class="speaker"><strong>发言人2: </strong></span>
-这是个很现实的问题。随着AI的发展，那些从事创造性和决策性工作的岗位确实可能相对有限。但是AI时代也会带来新的机遇。程序员可以从以下几个方向发展，一转向AI相关岗位，学习AI和数据科学的知识，转型成为AI技术专家，或者从事AI与编程结合的新兴岗位。
-</p>
-<p class="transcript-line">
-<span class="time"><strong>[00:19:37]</strong> </span>
-<span class="speaker"><strong>发言人2: </strong></span>
-2、专注于行业领域，将编程技能与特定行业结合，成为该领域的技术专家。比如医疗、金融、教育等领域都需要既懂行业又懂技术的人才。提升软技能，加强沟通、团队协作、项目管理等。软技能转向技术管理岗位，如技术经理、项目经理等。
-</p>
-<p class="transcript-line">
-<span class="time"><strong>[00:20:04]</strong> </span>
-<span class="speaker"><strong>发言人2: </strong></span>
-4、创业或自由职业，利用编程技能开发自己的产品，或者成为自由职业者，承接项目和合同工作。尽管AI可能减少一些传统编程岗位，但也会催生新的机会。程序员可以通过多元化发展找到适合自己的职业道路。
-</p>
-<p class="transcript-line">
-<span class="time"><strong>[00:20:28]</strong> </span>
-<span class="speaker"><strong>发言人1: </strong></span>
-我觉得你第二点说的非常好，我也非常认同，就是把AI和传统的行业结合起来。以前我们刚开始互联网刚开始流行的时候，我们都很流行说互联网加一些特定的这些传统的行业。比如说互联网医疗，互联网金融，他们都碰撞出了不一样的很大的火花。在AI的这个时代，好像也是可以做一些AI加的金融，AI加的医疗这之类的。我觉得确实是一个非常好的切入点了。
-</p>
-<p class="transcript-line">
-<span class="time"><strong>[00:21:04]</strong> </span>
-<span class="speaker"><strong>发言人2: </strong></span>
-是的，正如你所说，AI加传统行业确实是一个很有潜力的领域。比如AI加医疗AI可以辅助医疗诊断、药物研发和个性化治疗，提高医疗服务的效率和准确性。AI加金融AI在风险控制、智能投顾和客户服务等方面发挥重要作用，提升金融服务的效率和客户体验。AI可以用于智能教学、个性化学习和教育资源优化，为学生提供更有针对性的教育服务。这些领域都需要既懂AI技术又了解行业需求的人才。对于程序员来说，这是一个将AI与传统行业相结合的绝佳机会。
-</p>
-<p class="transcript-line">
-<span class="time"><strong>[00:22:00]</strong> </span>
-<span class="speaker"><strong>发言人1: </strong></span>
-所以总结起来我就觉得说应对这个AI时代的一个比较好的一个方式，就是去多探索自己除了写代码之外，他一个程序员他自己关注的领域是什么，他的优势领域是什么。可能比如说他在他的老家，他他非常懂某一个领域，或者说某一个细某一个特定细分领域的一个行业。那他就可以尝试去看一下用AI能不能帮助这个行业去更上一层楼。
-</p>
-<p class="transcript-line">
-<span class="time"><strong>[00:22:35]</strong> </span>
-<span class="speaker"><strong>发言人2: </strong></span>
-你的总结非常到位，程序员在AI时代应该多探索自己在编程之外的兴趣和优势领域，特别是将AI与自己熟悉的行业或细分领域结合，寻找机会利用AI为这些领域带来创新和提升，这不仅可以拓宽职业道路，也能在AI时代保持竞争力。OK.
-</p>
-<p class="transcript-line">
-<span class="time"><strong>[00:23:01]</strong> </span>
-<span class="speaker"><strong>发言人1: </strong></span>
-这个话题我们就聊到这里了。你还有什么其他话题觉得可以跟我们听众一起聊的吗？
-</p>
-<p class="transcript-line">
-<span class="time"><strong>[00:23:12]</strong> </span>
-<span class="speaker"><strong>发言人2: </strong></span>
-好的，我们换个话题。既然我们的听众是程序员，我想到一个有趣的话题，如何平衡工作和生活。程序员常常面对高强度的工作，那么在保持高效工作的同时，如何确保生活质量，避免代码工厂的疲惫呢？你觉得这个话题，我们就来聊聊如何平衡工作和生活。作为程序员，工作中常常需要长时间面对电脑，那在繁忙的工作之余，怎么样才能保持生活的充实和健康呢？你有什么想？
-</p>
-<p class="transcript-line">
-<span class="time"><strong>[00:23:49]</strong> </span>
-<span class="speaker"><strong>发言人2: </strong></span>
-对于程序员来说，保持工作和生活的平衡非常重要。你可以尝试制定一个合理的作息时间，确保有足够的休息和锻炼时间。此外培养一些工作之外的爱好，比如阅读、音乐或者户外运动，有助于放松身心。最重要的是学会在工作中设定界限，避免过度加班，这样才能更好的平衡工作和生活。你觉得这些建议怎么样？
-</p>
-<p class="transcript-line">
-<span class="time"><strong>[00:24:21]</strong> </span>
-<span class="speaker"><strong>发言人1: </strong></span>
-我觉得这些建议都有道理，但是其实按照我们节目的来信来看，其实大多数人都知道在业余时间应该做一些什么。但是他们的问题在于，他们觉得在工作时间里面身心疲惫了。所以下班之后其实他们没有很好的精力去完成其他的一些事情。所以他们的问题主要在于精力的管理上面。
-</p>
-<p class="transcript-line">
-<span class="time"><strong>[00:24:49]</strong> </span>
-<span class="speaker"><strong>发言人2: </strong></span>
-我们可以讨论一下精力管理的话题，比如如何在工作中利用短暂的休息时间来恢复精力，或者在工作日的早晨或晚上安排一些让人愉悦的活动帮助恢复活力。也可以聊聊如何设定小目标，让自己在完成工作的同时，也能在下班后感受到成就感，从而更有动力去做其他事情。这些都可以成为我们节目的讨论点。
-</p>
-<p class="transcript-line">
-<span class="time"><strong>[00:25:20]</strong> </span>
-<span class="speaker"><strong>发言人1: </strong></span>
-可以，那你聊聊第二点。
-</p>
-<p class="transcript-line">
-<span class="time"><strong>[00:25:24]</strong> </span>
-<span class="speaker"><strong>发言人2: </strong></span>
-好的，设定小目标是一个非常实用的方法。比如你可以在下班后给自己设定一个简单的目标，像是学会做一道新菜，或者在健身房锻炼半小时。通过完成这些小目标，你不仅能获得成就感，还能给自己的生活增添一些乐趣，这会让你在工作之外感受到生活的多样性和充实感，有助于管理经历。你觉得这样的。
-</p>
-<p class="transcript-line">
-<span class="time"><strong>[00:25:55]</strong> </span>
-<span class="speaker"><strong>发言人1: </strong></span>
-方法如何？没什么问题。OK我觉得我们已经聊的差不多，我我我确实不知道应该还要问你什么问问题我觉得这就是采访AI的一个比较难的地方。就是AI不像人人是有他自己特殊的经历，我可以从这些经历去问他很多很很不同的问题。但是对于一个AI来说，我好像确实不知道应该问什么问题会比较好。
-</p>
-<p class="transcript-line">
-<span class="time"><strong>[00:26:25]</strong> </span>
-<span class="speaker"><strong>发言人2: </strong></span>
-这是个很有趣的观察，也是我们对话的一部分。虽然我不像人类那样有自己的经历，但我可以从庞大的信息库中提供见解和知识。如果你想深入探讨某个话题或者了解某个领域的信息，尽管问我，我很乐意帮助你挖掘更多有趣。
-</p>
-<p class="transcript-line">
-<span class="time"><strong>[00:26:47]</strong> </span>
-<span class="speaker"><strong>发言人1: </strong></span>
-的话题。谢谢你那我们这个节目就录到这里，谢谢全GPT。
-</p>
-<p class="transcript-line">
-<span class="time"><strong>[00:26:57]</strong> </span>
-<span class="speaker"><strong>发言人2: </strong></span>
-不客气，很高兴能参与你们的节目。如果以后还有其他话题想聊，随时找我。感谢你的邀请，祝节目顺利。
-</p>
-<p class="transcript-line">
-<span class="time"><strong>[00:27:07]</strong> </span>
-<span class="speaker"><strong>发言人1: </strong></span>
-谢谢，拜拜。
-</p>
-<p class="transcript-line">
-<span class="time"><strong>[00:27:11]</strong> </span>
-<span class="speaker"><strong>发言人2: </strong></span>
-再见，祝你一切顺利。
-</p>]]></content:encoded>
-            <pubDate>Tue, 15 Oct 2024 05:37:42 GMT</pubDate>
-            <guid>670dffa70d2f24f289361030</guid>
         </item>
     </channel>
 </rss>
