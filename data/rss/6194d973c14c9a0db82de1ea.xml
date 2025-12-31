@@ -4,7 +4,1547 @@
         <title>代码之外 Beyond Code</title>
         <link>https://www.xiaoyuzhoufm.com/podcast/6194d973c14c9a0db82de1ea</link>
         <description>程序员聊聊代码之外的事。</description>
-        <lastBuildDate>Fri, 26 Dec 2025 04:43:58 +0800</lastBuildDate>
+        <lastBuildDate>Thu, 01 Jan 2026 04:50:10 +0800</lastBuildDate>
+        <item>
+            <title>第 16 集 | 2025 年终总结、深圳线下听众见面活动回顾</title>
+            <link>https://www.xiaoyuzhoufm.com/episode/69535c0214db1df9ef78a538</link>
+            <description>这期我们首先回顾了今年（2025）我台在深圳举办的线下见面活动，总体来说圆满成功，有一些做的不到位的我们都在节目里总结了，最重要的是感谢各位能前来支持的 50 位忠实听众！本期的另外一部分是我们三位主播对我台和我们个人的 2025 年终总结与展望，希望我们 2026 继续努力，再次感谢各位听众能一直陪伴我们走下去。
+线下活动的合照、周边等
+本期主播：Randy, GeekPlux, 勾股
+相关链接：
+* DHH: Future of Programming, AI, Ruby on Rails, Productivity &amp; Parenting | Lex Fridman Podcast www.youtube.com
+代码之外 Beyond Code 是一档由 GeekPlux 和 Randy 共同主持的程序员闲聊播客节目。节目地址：bento.me 我们的节目同时会发布视频版，在 YouTube 和 Bilibili 搜索「代码之外」都能找到我们。
+欢迎在 forms.office.com 向我们来信，我们会在下一期节目分享你的来信或解答你的疑惑。
+也欢迎在 爱发电 赞助我们。也欢迎赞助商联系我们商业合作。
+---
+金牌赞助商 / Golden Sponsor
+感谢 Relingo 赞助本期节目。Relingo 是一款借助 AI 来帮助你轻松扩大词汇量的工具。它提供了很多功能，比如网页查词、高亮显示、沉浸式翻译、PDF 文档翻译、以及 YouTube、Netflix 等多个视频网站的实时字幕翻译。让你在不影响阅读及观看体验的同时就能巩固和扩大英语词汇量。在 Relingo 官网输入优惠码 BEYONDCODE 下单可以享受 7 折优惠！
+* Relingo 官网链接：relingo.net
+* 7 折优惠码：BEYONDCODE
+赞助商 / Sponsor
+* Notepal 一键同步微信读书笔记到 Notion, Readwise, Logseq, 思源笔记等笔记软件
+* 笔记伴侣 App Notepal iOS 版，在手机上通过小组件回顾你的微信读书笔记，AI 笔记对话</description>
+            <content:encoded><![CDATA[<h1>转写链接</h1>
+<link>https://tongyi.aliyun.com/efficiency/doc/transcripts/3vl8qglvyp2bnpr2</link><br>
+<h1>节目摘要</h1>
+<div class="summary">在最近一次的线下活动中，一群热情的科技爱好者聚集一堂，分享了他们通过代码之外的途径获得的经验和故事。活动在一位热心提供场地的个人的帮助下顺利举行，吸引了约48至50名参与者，内容包括自我介绍、故事分享以及轻松的茶歇时间，旨在增进交流。讨论不仅涵盖了活动筹备过程中的趣事、纪念品的设计，还深入到AI技术对整个行业的影响。尽管活动收获了成功，组织者们也意识到未来可以通过调整活动流程和增加互动性来进一步提升体验。年终回顾中，参与者们分享了个人成长、职业发展的喜悦，以及对未来的展望，包括可能的新项目和计划。他们还探讨了如何吸引听众和保持节目吸引力的方法，特别感谢了赞助商的支持，共同期待着更加精彩的未来。</div><br>
+<h1>问题回顾</h1>
+<div class="qa-item">
+<div class="question"><strong>Q:</strong> 是否有为参加活动的朋友准备了纪念品？</div>
+<div class="answer"><strong>A:</strong> 是的，我们为现场的朋友准备了帆布袋作为纪念品，上面印有乔布斯的鼓励话语以及我们的logo，并且还收到了反馈说里面还藏有一个解压小玩具——键盘键帽。</div>
+</div>
+<div class="qa-item">
+<div class="question"><strong>Q:</strong> 这次代码之外线下活动是怎么促成的？活动地点是怎么找到的？</div>
+<div class="answer"><strong>A:</strong> 这个活动主要是因为g plus难得回来一趟，从美国飞回来，博古也从新加坡飞过来。在找场地的时候，我在小红书上发帖寻找深圳的半沙龙场地，并收到很多中介报价和场地信息。最后找到了科学中国的大使杨文，通过他得到了深圳嘉里中心的一个免费场地。</div>
+</div>
+<div class="qa-item">
+<div class="question"><strong>Q:</strong> 线下活动流程是怎样的？</div>
+<div class="answer"><strong>A:</strong> 活动开场后，我们将麦克风交给台下的听众，让他们轮流简单自我介绍、分享与代码之外的渊源及印象深刻的内容。期间还设有茶歇环节，让大家自由交流互动。整个流程设计时考虑到可能存在的社恐问题以及时间把控，实际活动中参与者非常积极，发言内容丰富多样，讨论氛围热烈。</div>
+</div>
+<div class="qa-item">
+<div class="question"><strong>Q:</strong> 活动参与者有多少人？场地情况如何？</div>
+<div class="answer"><strong>A:</strong> 活动参与者大约有48至50人左右，在深圳嘉里中心的场地非常好，超出预期，原本以为需要付费，后来发现是免费提供的。</div>
+</div>
+<div class="qa-item">
+<div class="question"><strong>Q:</strong> 对于下次活动有何想法和改进之处？</div>
+<div class="answer"><strong>A:</strong> 下次如果举办海外站活动，可以考虑让每位听众都能进行现场发言，增加互动性；同时，增加休息和互相认识的环节，让参与者有更多的交流机会。此外，现场讨论的问题很多都与AI相关，说明大家对此很感兴趣，未来可以进一步围绕这一主题展开讨论。</div>
+</div>
+<div class="qa-item">
+<div class="question"><strong>Q:</strong> 对于远程工作，你有什么看法？</div>
+<div class="answer"><strong>A:</strong> 我感觉远程工作对于不同的人来说可能有不同的喜好。有些人可能更喜欢深入、硬核地去学习和工作，这样能学到更多细节；而有些人则可能通过跳入式学习，虽然起步慢，但能借此机会学到更多底层知识和细节。</div>
+</div>
+<div class="qa-item">
+<div class="question"><strong>Q:</strong> 现在有了AI技术，是否会导致人们动脑筋的时间变少，进而导致人变笨？</div>
+<div class="answer"><strong>A:</strong> 这是一个有趣的问题。随着AI技术的发展，许多事情变得轻松了，但我们是否需要认真思考的时间变少了呢？这确实是一个值得探讨的问题。</div>
+</div>
+<div class="qa-item">
+<div class="question"><strong>Q:</strong> 活动前一天晚上发生了什么有趣的事情吗？</div>
+<div class="answer"><strong>A:</strong> 活动前一天晚上我们在酒吧商量活动流程时喝得很晚，直到凌晨三四点才回去，当时喝得有点多，甚至有人上台唱歌，后来还发现手机里多了一个我在台上唱歌的视频。</div>
+</div>
+<div class="qa-item">
+<div class="question"><strong>Q:</strong> 活动参与者年龄段分布是怎样的情况？</div>
+<div class="answer"><strong>A:</strong> 根据后台数据统计，来的大部分参与者集中在30至40岁或25至35岁之间，但也有不少25岁以下的年轻人，甚至在校大学生也参加了活动，这给了我们一个启示，以后可以考虑增加校园行等活动。</div>
+</div>
+<div class="qa-item">
+<div class="question"><strong>Q:</strong> 节目更新频率以及未来的计划如何？</div>
+<div class="answer"><strong>A:</strong> 今年我们已经发布了大约24期节目，相比去年有所增加。对于更新频率较低的问题，我们会努力提升频率，明年会准备更多的访谈类节目，并且有一个顶尖前端技术公司的行业翘楚嘉宾已答应接受采访，具体时间还未确定。</div>
+</div>
+<div class="qa-item">
+<div class="question"><strong>Q:</strong> 关于节目订阅量和平台表现的情况如何？</div>
+<div class="answer"><strong>A:</strong> 目前我们的订阅量已经突破1万，在哔哩哔哩平台达到了2万，YouTube接近5000，各个平台的数据都不错，其中哔哩哔哩还能提供英文音轨功能，方便了非中文用户收听。我们期待在新的一年里继续增长，比如希望哔哩哔哩平台能突破10万订阅量，并且计划增加更多采访类节目，提升节目的多样性和开放性。</div>
+</div>
+<div class="qa-item">
+<div class="question"><strong>Q:</strong> 在做节目时，如何准备才能让对话更深入、挖掘嘉宾更多的内容？</div>
+<div class="answer"><strong>A:</strong> 如果要深入挖掘嘉宾，比如像Lex Freedom那样顶级的人物，需要做大量的准备工作。例如，他每次采访前会准备超乎想象的多的材料，不停地做笔记、思考问题安排，并不断阅读相关资料。如果能有更多时间，比如给他安排6个小时的聊天，可能会挖掘出更多内容。下次请嘉宾时，我会准备至少2000字到5000字的相关材料，并提前与嘉宾沟通，让他们有所准备。</div>
+</div>
+<div class="qa-item">
+<div class="question"><strong>Q:</strong> 大家最满意和认为被低估的一期节目是哪几期？</div>
+<div class="answer"><strong>A:</strong> 我最满意的一期是跟吕鹏聊技术话题的那一期，虽然当时感觉没把他的技术深度挖透彻；而被低估的一期是Randy与ChatGPT对聊的那一期，尽管反响不高，但线下活动中却受到一些听众的喜爱。</div>
+</div>
+<div class="qa-item">
+<div class="question"><strong>Q:</strong> 对于节目内容和话题的选择上，有哪些经验和想法？</div>
+<div class="answer"><strong>A:</strong> 我们可能需要尝试不同的剧集讨论方式来吸引听众，比如增加更多共鸣的话题，从剧集中提炼出大家普遍关注的点展开讨论。同时，我们也意识到可能听众更喜欢泛技术或泛互联网类的话题，而剧集相关内容可能相对小众。</div>
+</div>
+<div class="qa-item">
+<div class="question"><strong>Q:</strong> 对于节目制作中嘉宾露脸的影响有何看法？</div>
+<div class="answer"><strong>A:</strong> 观众反馈显示，当嘉宾露脸后，节目的亲和力和关注度会有提升。因此，在录制节目时考虑嘉宾露脸可能有助于增强节目的吸引力和观众的参与感。</div>
+</div>
+<div class="qa-item">
+<div class="question"><strong>Q:</strong> 是否考虑通过短视频形式来推广节目内容？</div>
+<div class="answer"><strong>A:</strong> 认为将节目切成短视频片段并在短视频平台上发力是一种有效推广方式，虽然对剪辑技术和后期制作要求较高，但对比其他成功的案例，通过精良剪辑和创意字幕等手段制作短视频，可以快速提升粉丝量和节目知名度。</div>
+</div>
+<div class="qa-item">
+<div class="question"><strong>Q:</strong> 今年你的年终回顾是什么？</div>
+<div class="answer"><strong>A:</strong> 今年我打算有序退网，减少线上社交活动，更多地与线下朋友交流。通过这种方式，我感觉效果很好，达到了放松和换脑筋的目的，并且节省了很多时间。此外，我还考取了足球教练资格证，参与了青训工作，还开了一个专门聊足球的YouTube频道，以及完成了人生中的第一场马拉松。</div>
+</div>
+<div class="qa-item">
+<div class="question"><strong>Q:</strong> 对于跑步，你的训练计划是怎样的？</div>
+<div class="answer"><strong>A:</strong> 我从零基础开始跑步，疫情后重新开始时只能跑一公里。经过三年的坚持训练，从第一年开始跑10公里，第二年跑半马21公里，今年成功完成了全马42公里。明年打算回归更为合理的日常锻炼，如平常跑3公里至5公里。</div>
+</div>
+<div class="qa-item">
+<div class="question"><strong>Q:</strong> 你现在每天跑量是多少？</div>
+<div class="answer"><strong>A:</strong> 目前每周跑2到3次，如果不是备战马拉松，一般会跑5公里左右的距离。</div>
+</div>
+<div class="qa-item">
+<div class="question"><strong>Q:</strong> 你在兴趣爱好上取得了哪些成就？</div>
+<div class="answer"><strong>A:</strong> 我在兴趣上取得了一些成就，比如考取足球教练资格证、参与青训工作以及成功完成零基础到全马42公里的跑步挑战。而你则提到羡慕我在跑步方面的成就，但你自己在兴趣上的目标更偏向于越野跑，最终目标是参加UTMB这样的越野比赛。</div>
+</div>
+<div class="qa-item">
+<div class="question"><strong>Q:</strong> 在产品开发方面，你今年有什么新的体验或成果吗？</div>
+<div class="answer"><strong>A:</strong> 今年我尝试与设计师合作，感觉效果很好，能更专注于实现功能。此外，我推出的产品CC mate，一个基于code的配置切换工具，最初考虑收费但后来开源，开源后得到了一些赞助和支持，用户量也超出了预期。</div>
+</div>
+<div class="qa-item">
+<div class="question"><strong>Q:</strong> 在做外包时，是否存在矛盾之处？</div>
+<div class="answer"><strong>A:</strong> 是的，在外包过程中会面临矛盾点，比如有时为了满足用户体验而需要编写更多代码，但这可能不是自己的产品，且需考虑交付时间与质量的问题。</div>
+</div>
+<div class="qa-item">
+<div class="question"><strong>Q:</strong> 做外包对于技术人员来说有哪些好处？</div>
+<div class="answer"><strong>A:</strong> 做外包的好处在于可以赚取收入，并且每个项目都是从0到1的过程，不需要解决技术上的难题，可以自由选择技术栈，并且在完成外包项目中能够积累可复用的经验和成果。</div>
+</div>
+<div class="qa-item">
+<div class="question"><strong>Q:</strong> 是否有通过卖艺（如酒吧驻唱）获得更高收入的经历？</div>
+<div class="answer"><strong>A:</strong> 是的，酒吧驻唱的收入确实比独立开发更高。</div>
+</div>
+<div class="qa-item">
+<div class="question"><strong>Q:</strong> 是否考虑过通过卖艺为生，比如做程序员的同时也从事音乐创作和表演？</div>
+<div class="answer"><strong>A:</strong> 如果有这样的机会，也不介意尝试。</div>
+</div>
+<div class="qa-item">
+<div class="question"><strong>Q:</strong> 对于35岁之前是否还能折腾一下有何看法？</div>
+<div class="answer"><strong>A:</strong> 现在正在思考这个问题，感觉35岁之前应该还能折腾一下，但未来是否能settle down还未确定。</div>
+</div>
+<div class="qa-item">
+<div class="question"><strong>Q:</strong> 生活上有哪些重大改变？</div>
+<div class="answer"><strong>A:</strong> 生活上的重大改变主要是解决了身份焦虑问题，适应了美国生活，包括工作上升职做manager，以及认识到管理团队氛围的重要性。</div>
+</div>
+<div class="qa-item">
+<div class="question"><strong>Q:</strong> 对于AI对未来程序员职业的影响有何看法？对未来一年有何展望和学习计划？</div>
+<div class="answer"><strong>A:</strong> 认为AI将在前端开发等领域产生重大影响，部分代码工作可能由AI完成，自己很期待并希望学习如何应用AI技术。明年期待在新的管理角色上有工程上的突破，并打算深入学习AI技术，尤其是如何将AI应用在生活和工作中。</div>
+</div>
+<h1>节目文稿</h1>
+<p class="transcript-line">
+<span class="time"><strong>[00:00:00]</strong> </span>
+<span class="speaker"><strong>发言人1: </strong></span>
+欢迎收听代码之外，我是Randy.
+</p>
+<p class="transcript-line">
+<span class="time"><strong>[00:00:03]</strong> </span>
+<span class="speaker"><strong>发言人2: </strong></span>
+我是geek plus.
+</p>
+<p class="transcript-line">
+<span class="time"><strong>[00:00:04]</strong> </span>
+<span class="speaker"><strong>发言人3: </strong></span>
+我是狗狗。
+</p>
+<p class="transcript-line">
+<span class="time"><strong>[00:00:05]</strong> </span>
+<span class="speaker"><strong>发言人1: </strong></span>
+这一期刚好可以聊一聊刚刚结束的那个代码之外线下活动中国站的一些点点滴滴。跟没有到现场的朋友分享一下我们在这个活动里面的一些趣闻，还有我们的一些感受。
+</p>
+<p class="transcript-line">
+<span class="time"><strong>[00:00:21]</strong> </span>
+<span class="speaker"><strong>发言人3: </strong></span>
+这个活动是怎么可以促成的？就是因为g plus难得回来一趟。
+</p>
+<p class="transcript-line">
+<span class="time"><strong>[00:00:26]</strong> </span>
+<span class="speaker"><strong>发言人1: </strong></span>
+大老远从美国飞回来，然后博古从新加坡飞过来。
+</p>
+<p class="transcript-line">
+<span class="time"><strong>[00:00:30]</strong> </span>
+<span class="speaker"><strong>发言人3: </strong></span>
+然后我差点真的我差点没赶上我本来那个周末有别的安排，我后来对尽我的全力，把那个时间的空档给挤出来。
+</p>
+<p class="transcript-line">
+<span class="time"><strong>[00:00:40]</strong> </span>
+<span class="speaker"><strong>发言人1: </strong></span>
+对，一开始勾股说时间抽不来，宣传上面我一直都是说我跟gx会到场。然后后来勾股前一个星期还是前几个。
+</p>
+<p class="transcript-line">
+<span class="time"><strong>[00:00:50]</strong> </span>
+<span class="speaker"><strong>发言人3: </strong></span>
+对，差不多就是会来八九天。对。
+</p>
+<p class="transcript-line">
+<span class="time"><strong>[00:00:52]</strong> </span>
+<span class="speaker"><strong>发言人1: </strong></span>
+还好那个物料都没送厂家做出来，然后紧急的在易拉宝上面加了名字。这次活动其实我们来了应该有48 48人还是50人左右。然后在深圳的嘉里中心，很感谢杨文after ship的杨文给我们提供了一个非常好的场地，当时我们都聊的非常开心。
+</p>
+<p class="transcript-line">
+<span class="time"><strong>[00:01:16]</strong> </span>
+<span class="speaker"><strong>发言人2: </strong></span>
+场地真的是超出预期。我进去的一刻觉得太好了，这都是免费的吗？这个是不要钱能用的吗？
+</p>
+<p class="transcript-line">
+<span class="time"><strong>[00:01:25]</strong> </span>
+<span class="speaker"><strong>发言人1: </strong></span>
+对，因为找场地的时候，我在小红书上面发了一个帖子，说找深圳的半沙龙的场地，然后收了一大波私信。我发现这也是一个生意，就是有很多这种agent这种中介专门去帮别人去找那个沙龙场地的。然后他们就会给我报价地址，然后还有那些图片。然后我看了一下，比较好的场地可能都需要四五个小时，可能要四五千块钱。幸好是找到了杨文，因为杨文是科学中国的这个大使。然后上一次我参加深圳的cursor中国的这个社区，刚好就知道了这个场地，然后就勾搭了起来，刚好就一拍即合就拿到了这个场地。
+</p>
+<p class="transcript-line">
+<span class="time"><strong>[00:02:11]</strong> </span>
+<span class="speaker"><strong>发言人2: </strong></span>
+感谢杨文。
+</p>
+<p class="transcript-line">
+<span class="time"><strong>[00:02:12]</strong> </span>
+<span class="speaker"><strong>发言人1: </strong></span>
+然后这一次的线下活动，如果有来到现场的朋友可以看到，其实我们做了专门的纪念品。有一个是帆布袋，这个帆布袋是我们代码之外专门定制的，我个人觉得还是挺漂亮的。我在fit ma上面精心设计了一番，上面还刻了乔布斯的一段话，一段鼓励人的话。然后还有我们比兰蔻的这个logo，还有我们的we go be on code的这个不在身边，不然可以在镜头上面展示一下。然后唯一的遗憾就是这个帆布袋我感觉有点小我理想中应该要买一个大一点的，然后刚好可以装下一个macbook pro。如果大家比较喜欢这个帆布袋的话，我们可以考虑把这个促成一个周边公开的收买。
+</p>
+<p class="transcript-line">
+<span class="time"><strong>[00:02:56]</strong> </span>
+<span class="speaker"><strong>发言人2: </strong></span>
+我们把这个图片到时候放到那个show note里面。我们后来不是还收到反馈说，我们准备那个帆布袋，里面还有一个小的键盘键帽。对，解压小玩具。然后不是有朋友也喜欢吗？我手边有一个这个东西，对我自己是很喜欢用，就一直嗯嗯嗯嗯嗯。
+</p>
+<p class="transcript-line">
+<span class="time"><strong>[00:03:18]</strong> </span>
+<span class="speaker"><strong>发言人1: </strong></span>
+一开始我挺怕冷场的，但是大家的气氛都挺好，跟没有来到现场的人可以大概说一。
+</p>
+<p class="transcript-line">
+<span class="time"><strong>[00:03:29]</strong> </span>
+<span class="speaker"><strong>发言人2: </strong></span>
+感谢瑞林狗赞助本期节目。亲爱的听众和观众朋友们，本期节目不好意思又有广告了。瑞麟狗是一款借助AI来帮助你轻松扩大词汇量的工具，它本身提供了很多功能，比如网页查词、高亮显示这种基本的还有沉浸式翻译、PDF文档翻译，以及netflix等多个视频网站的实时字幕翻译。我自己用的最多的是reino浏览器插件的网页生词高亮和youtube字幕。因为我平时阅读英文文章比较多，所以我遇到生死的时候都是直接右键regino查询。然后reino不仅会将它自动加入我的生词本，还会在之后遇到的网页中再高亮出这个生词，这就帮助我每一次遇到这个生词的时候都能记忆一遍。同样我在看youtube的时候也会打开regino的实时翻译字幕，然后可以直接鼠标悬停查词。在之后遇到这个生词的时候，它也会在字幕中高亮出来。所以说这种不影响我阅读和观看体验的同时又能增加我词汇量的方法，我觉得对我的信息吸收效率都提升了很多。
+</p>
+<p class="transcript-line">
+<span class="time"><strong>[00:04:39]</strong> </span>
+<span class="speaker"><strong>发言人2: </strong></span>
+那么关键的来了，现在扫描我们视频左侧的二维码，或者reino官网输入优惠码beyond扣下单可以享受7折优惠。我再稍微重复一遍，观众以及听众朋友们可以直接扫码或者到reino官网输入beyond code下单即可享受7折优惠。BEYONDCODE也就是我们代码之外的英文名。详细的链接和优惠码各位朋友都可以在我们的视频或者播客简介评论区中找到。感谢各位现在正式开始我们今天的节目。
+</p>
+<p class="transcript-line">
+<span class="time"><strong>[00:05:18]</strong> </span>
+<span class="speaker"><strong>发言人1: </strong></span>
+大概就是我们进场之后，我们三位主播就闲聊了一番。开场对，开场了之后我们就组织把麦克风交给台下的人，让台下的人轮流简单的自我介绍，然后说一说跟这个代码之外的渊源，从什么时候开始听代码之外，是怎么接触到代码之外这个节目有哪一些印象比较深刻的一些单集，可以来一个现场的听众来信这样子。对，然后中间还会有茶歇，让大家去自己去搜索一下。
+</p>
+<p class="transcript-line">
+<span class="time"><strong>[00:05:50]</strong> </span>
+<span class="speaker"><strong>发言人3: </strong></span>
+我记得我们设计这个流程的时候，还还其实还涉及了很多不一样的流程，怕大家不好意思开口，怕大家问题十分钟就说完了。后来一方面。
+</p>
+<p class="transcript-line">
+<span class="time"><strong>[00:06:01]</strong> </span>
+<span class="speaker"><strong>发言人2: </strong></span>
+是我们当时设计了额外的两个流程，一方面是担心有社恐的同学，另一方面担心大家问的问题都比较简单。然后一会儿就走完了，结果发现大家都特别能说。
+</p>
+<p class="transcript-line">
+<span class="time"><strong>[00:06:15]</strong> </span>
+<span class="speaker"><strong>发言人3: </strong></span>
+然后他就聊到了最后一分钟。
+</p>
+<p class="transcript-line">
+<span class="time"><strong>[00:06:17]</strong> </span>
+<span class="speaker"><strong>发言人2: </strong></span>
+对，一直到后来还得把控一下时间，要不然感觉都时间不够所有人讲完。所以这个流程就一个流程就花了整个我们的一下午的时间。
+</p>
+<p class="transcript-line">
+<span class="time"><strong>[00:06:27]</strong> </span>
+<span class="speaker"><strong>发言人1: </strong></span>
+因为整个流程确实是有点长，所以中间不免有一些比较无聊的地方。对，但是总体上我感觉还是挺好的。
+</p>
+<p class="transcript-line">
+<span class="time"><strong>[00:06:34]</strong> </span>
+<span class="speaker"><strong>发言人3: </strong></span>
+没事。
+</p>
+<p class="transcript-line">
+<span class="time"><strong>[00:06:35]</strong> </span>
+<span class="speaker"><strong>发言人2: </strong></span>
+这个我如果是下次再搞的话。
+</p>
+<p class="transcript-line">
+<span class="time"><strong>[00:06:37]</strong> </span>
+<span class="speaker"><strong>发言人3: </strong></span>
+下次还有下次。
+</p>
+<p class="transcript-line">
+<span class="time"><strong>[00:06:38]</strong> </span>
+<span class="speaker"><strong>发言人2: </strong></span>
+对，如果我们下次海外站再搞的话，国际就可以给同学们现实一下。就每个人发言现实，然后我们回答也现实。
+</p>
+<p class="transcript-line">
+<span class="time"><strong>[00:06:49]</strong> </span>
+<span class="speaker"><strong>发言人3: </strong></span>
+或者我们中间就是让他变得也有节奏一些，中间多一些休息或者是什么。
+</p>
+<p class="transcript-line">
+<span class="time"><strong>[00:06:54]</strong> </span>
+<span class="speaker"><strong>发言人1: </strong></span>
+而且现场听众朋友们的这些的提问，我感觉都挺挺典型的。就是可能有一些是对，其实有一些可能我们在线上的这个来信可能听到过，但是现场大家一起讨论的那个氛围是不太一样。
+</p>
+<p class="transcript-line">
+<span class="time"><strong>[00:07:12]</strong> </span>
+<span class="speaker"><strong>发言人2: </strong></span>
+而且我其实没想到大家会都来，当时我们收到报名的人数好像是50人，然后没想到几乎所有人都来了，而且是很多朋友还是就是从外地来的。
+</p>
+<p class="transcript-line">
+<span class="time"><strong>[00:07:25]</strong> </span>
+<span class="speaker"><strong>发言人3: </strong></span>
+还有带着别的朋友来的，甚至还没有有带一些没有听过我们节目的现场入坑，也不知道入没入。
+</p>
+<p class="transcript-line">
+<span class="time"><strong>[00:07:35]</strong> </span>
+<span class="speaker"><strong>发言人2: </strong></span>
+然后现场的氛围真的很好。这中间我们其实休息的时候，我觉得真的有种那种技术会议的感觉，就大家围在一起，随便畅所欲言，聊一聊。所以下次如果我们再搞的话，可以多一点这种让大家互相讨论，互相认识的环节。而且我发现每当大家说话的时候，其他人还是蛮认真听的。我自己感觉大家其实蛮喜欢互动，不是像我想的。如果是我在下面的话，我可能会有点紧张。
+</p>
+<p class="transcript-line">
+<span class="time"><strong>[00:08:03]</strong> </span>
+<span class="speaker"><strong>发言人3: </strong></span>
+然后社恐。那我抛一个问题好了，我们每个人说一个印象最深刻的一个话题，或者别人问问的那个问题。
+</p>
+<p class="transcript-line">
+<span class="time"><strong>[00:08:11]</strong> </span>
+<span class="speaker"><strong>发言人1: </strong></span>
+我有一个印象比较深的问题，有一位朋友他说自己在一家公司里面遇到了瓶颈之类的，学过rust，然后也不知道应该继续写前端还是研究这个rust之类的。我给他的建议，这也是老生常常谈，不要把自己限制在某一个领域里面。他有提到过他在公司里面有时候会写一些自己公司用的一些提效的工具。就这个点我就问他，就是说你在做这个事情的时候，你是享受的是写代码本身还是解决问题这个事情上面他说他喜欢的是解决这个问题，那我就跟他说，其实你就不需不需要去介意你自己写的是rust，还是写的是husk al还是写的是jasper t这都不重要。重要的是你能发现这个问题，并且你知道怎么去通过代码写出一个解决这个问题的工具产品之类的东西。他也有提到过可能会被AI替代或者什么之类的。然后确实我也举了一个例子，像我写的一我最近写的一个mate这个产品大部分都是rust的代码，但是我自己学rush失败了很多次，但是我懂得怎么去跟AI交流，去把这个rush代码写出来，那就足够了。而且我发现这一次很多人的讨论都围绕在AI上面，几乎每一个人都的提问都跟AI相比。
+</p>
+<p class="transcript-line">
+<span class="time"><strong>[00:09:40]</strong> </span>
+<span class="speaker"><strong>发言人2: </strong></span>
+AI的含量实在太高了。我其实有两个印象比较深的问题。但是我还有一个比较有趣的观察是我发现来的同学他不只是程序员，也有产品经理，甚至还有销售。然后我就发现很明显的做这些职位的同学明显比那些做纯程序员的人要能说很多。从时长上来就可以统计出来。对，明显做这些职位的有可能要说五分钟以上。然后做程序员的同学稍微害羞一点，或者说是就言简意赅一点，然后一分钟可能就把所有的话都说完，这是我的一个比较有趣的观察。
+</p>
+<p class="transcript-line">
+<span class="time"><strong>[00:10:20]</strong> </span>
+<span class="speaker"><strong>发言人2: </strong></span>
+然后我自己印象比较深的是，一个是大家好像有问我中美这两个环境的一些小的区别，还有大的区别，就我自己给的一些答案。然后还有一个问题是好像听就聊到了远程工作。然后我的回答比较反直觉，我觉得大家将来会更倾向于回办公室工作。因为我觉得人跟人还是见面比较好一点，就像我们这次活动一样，就见面了这个氛围明显比在线上聊那个听众来信的氛围要好太多了。实在是可惜我们没有把这期录下来，如果能录下来，那真的是特别完美。
+</p>
+<p class="transcript-line">
+<span class="time"><strong>[00:11:00]</strong> </span>
+<span class="speaker"><strong>发言人3: </strong></span>
+4小时的节目是一个4小时.
+</p>
+<p class="transcript-line">
+<span class="time"><strong>[00:11:03]</strong> </span>
+<span class="speaker"><strong>发言人2: </strong></span>
+现在在播客界也不算长。
+</p>
+<p class="transcript-line">
+<span class="time"><strong>[00:11:06]</strong> </span>
+<span class="speaker"><strong>发言人3: </strong></span>
+那也。
+</p>
+<p class="transcript-line">
+<span class="time"><strong>[00:11:07]</strong> </span>
+<span class="speaker"><strong>发言人2: </strong></span>
+对对对，现在进军播客界的这些大佬们一个比一个长，在卷卷这个谁录的长？
+</p>
+<p class="transcript-line">
+<span class="time"><strong>[00:11:13]</strong> </span>
+<span class="speaker"><strong>发言人3: </strong></span>
+我感觉我这边也其实你刚才说远程工作，就我当时也是对远程工作那个问题印象比较深。然后除此之外，我印象中有人问到学习方法的问题，就是是不是可以通过AI来学或者之类的。我记得我当时有分享一个观点，就是不同的人可能学习可能有不同的喜好。比如说像我这种的，或者我在我学某些具体的东西的时候，我比较喜欢跳进去用那种最硬核的方式去学，可能学到的东西会更多，抓到的细节可能会更多一些。
+</p>
+<p class="transcript-line">
+<span class="time"><strong>[00:11:43]</strong> </span>
+<span class="speaker"><strong>发言人3: </strong></span>
+我记得我当时举的例子，就是学吉他的时候，不是有那个六线谱吗？六线谱就是六根弦，你就按着吉他的那个弦，按着弹就可以了。但是你可能这样学不一定学的到非常多的乐理。但是如果你是按照五线谱来学的话，他可能一开始起步慢一点。但是可能你能借这个机会学到更多底层的东西，或者学到更多细节。个人有偏好，或者说你学这个东西的目的不一样，当时学习那个状态不一样，可能都跟这个有关系。
+</p>
+<p class="transcript-line">
+<span class="time"><strong>[00:12:11]</strong> </span>
+<span class="speaker"><strong>发言人3: </strong></span>
+但这个也是我想讨论的一部分。现在有了AI你是不是所有的东西都不用动脑子了，很多东西做起来学起来都比以前轻松了。那人的大脑会不会退化？你什么时候还需要懂认真的特别烧脑的去想一件事情。好像这个事情变变少了，变少之后，人会不会变笨？这是一个我延伸出来的问题的。
+</p>
+<p class="transcript-line">
+<span class="time"><strong>[00:12:35]</strong> </span>
+<span class="speaker"><strong>发言人2: </strong></span>
+我们是不是聊的太正经了？我回想起来我们举办活动前一天好像不是这样的气氛。我们在活动前一天，本来Randy是叫我们去商量这个活动的流程，再细化一下，但是是去酒吧商量的。然后不知道怎么好像就越喝越多，越喝越多，然后就喝到特别晚，凌晨三四点回去，我嗓子都疼的不行，然后我就特别担心，第二天完全讲不了话，结果好像还好。
+</p>
+<p class="transcript-line">
+<span class="time"><strong>[00:13:06]</strong> </span>
+<span class="speaker"><strong>发言人1: </strong></span>
+本来我也只是想小酌一下，然后商量一下明天明天的那个明天这个run down.
+</p>
+<p class="transcript-line">
+<span class="time"><strong>[00:13:13]</strong> </span>
+<span class="speaker"><strong>发言人2: </strong></span>
+比三四年喝的酒都多。
+</p>
+<p class="transcript-line">
+<span class="time"><strong>[00:13:15]</strong> </span>
+<span class="speaker"><strong>发言人3: </strong></span>
+那晚我也是。
+</p>
+<p class="transcript-line">
+<span class="time"><strong>[00:13:18]</strong> </span>
+<span class="speaker"><strong>发言人1: </strong></span>
+后来喝着喝着，因为有那个汾酒d plus.
+</p>
+<p class="transcript-line">
+<span class="time"><strong>[00:13:21]</strong> </span>
+<span class="speaker"><strong>发言人3: </strong></span>
+说我们什么时候这个节目开始带货带汾酒了？
+</p>
+<p class="transcript-line">
+<span class="time"><strong>[00:13:25]</strong> </span>
+<span class="speaker"><strong>发言人1: </strong></span>
+迪普S说这是他家乡的酒，那我们不得不走一个算了。
+</p>
+<p class="transcript-line">
+<span class="time"><strong>[00:13:30]</strong> </span>
+<span class="speaker"><strong>发言人3: </strong></span>
+对，也是我家乡的酒，喝一个算我们家g plus.
+</p>
+<p class="transcript-line">
+<span class="time"><strong>[00:13:34]</strong> </span>
+<span class="speaker"><strong>发言人1: </strong></span>
+给我们一人来了一个分酒的算，它它不会很呛。它虽然是白的，但是他不会像其他白酒那样很呛，我就感觉还可以。D plus请我们喝一个算，那我不得不也请大家喝一个算。就这么喝来喝去之后，大家都有点表面。
+</p>
+<p class="transcript-line">
+<span class="time"><strong>[00:13:56]</strong> </span>
+<span class="speaker"><strong>发言人2: </strong></span>
+就控制不住了。
+</p>
+<p class="transcript-line">
+<span class="time"><strong>[00:13:58]</strong> </span>
+<span class="speaker"><strong>发言人1: </strong></span>
+然后还跑上台唱歌了。
+</p>
+<p class="transcript-line">
+<span class="time"><strong>[00:14:01]</strong> </span>
+<span class="speaker"><strong>发言人2: </strong></span>
+挺好的。
+</p>
+<p class="transcript-line">
+<span class="time"><strong>[00:14:01]</strong> </span>
+<span class="speaker"><strong>发言人1: </strong></span>
+我第二天回看我的手机，我才发现怎么我手机多了一个我在台上唱歌的那个视频。
+</p>
+<p class="transcript-line">
+<span class="time"><strong>[00:14:09]</strong> </span>
+<span class="speaker"><strong>发言人2: </strong></span>
+我给你录的应该还可以，我都不敢用了。最新的iphone 17的科技是吧？长焦镜头挺好的，让我感受了一下你日常去酒吧的驻唱的感觉。对，值得一提的一个点，所有来的忠实听众里面竟然还有女生。
+</p>
+<p class="transcript-line">
+<span class="time"><strong>[00:14:26]</strong> </span>
+<span class="speaker"><strong>发言人3: </strong></span>
+你这话说的没有？我们有软件，我们有软件，这有什么意外的？
+</p>
+<p class="transcript-line">
+<span class="time"><strong>[00:14:30]</strong> </span>
+<span class="speaker"><strong>发言人2: </strong></span>
+我这个是没有我这个是要夸，我是要夸本台的。这个粉丝覆盖还是可以的，女生来的比例不是很低。
+</p>
+<p class="transcript-line">
+<span class="time"><strong>[00:14:40]</strong> </span>
+<span class="speaker"><strong>发言人1: </strong></span>
+反正是觉得我还在女性听众的之中的口碑不是很好，然后他们竟然还会有女性的听众，所以我感觉还是挺欣慰的。
+</p>
+<p class="transcript-line">
+<span class="time"><strong>[00:14:53]</strong> </span>
+<span class="speaker"><strong>发言人2: </strong></span>
+毕竟我们是这个程序员群体，好像男女比例就比较悬殊。然后当天还来了一些女生，我其实挺意外。
+</p>
+<p class="transcript-line">
+<span class="time"><strong>[00:15:00]</strong> </span>
+<span class="speaker"><strong>发言人1: </strong></span>
+很希望我们以后可以节目做得更多元开放一点，这个是我们需要努力的。
+</p>
+<p class="transcript-line">
+<span class="time"><strong>[00:15:06]</strong> </span>
+<span class="speaker"><strong>发言人3: </strong></span>
+好吧，就放到2026年的目标里。
+</p>
+<p class="transcript-line">
+<span class="time"><strong>[00:15:09]</strong> </span>
+<span class="speaker"><strong>发言人2: </strong></span>
+我突然想起来还有一个我的观察是我发现来的同学大部分都非常年轻。
+</p>
+<p class="transcript-line">
+<span class="time"><strong>[00:15:14]</strong> </span>
+<span class="speaker"><strong>发言人3: </strong></span>
+从我们后台那你又小看。
+</p>
+<p class="transcript-line">
+<span class="time"><strong>[00:15:16]</strong> </span>
+<span class="speaker"><strong>发言人2: </strong></span>
+Randy的观察。
+</p>
+<p class="transcript-line">
+<span class="time"><strong>[00:15:17]</strong> </span>
+<span class="speaker"><strong>发言人3: </strong></span>
+来看你又小看了不是。
+</p>
+<p class="transcript-line">
+<span class="time"><strong>[00:15:21]</strong> </span>
+<span class="speaker"><strong>发言人2: </strong></span>
+年纪跟ranking什么味道知道吗？我我们的我们三位主播的年龄段，首先就是一个等差数列。然后就是从我们后台的数据统计来看，我们大部分的好像50%是集中在30到40岁中间的OK，或者是25到35中间的O然后那天来的同学有一些是25岁以下，甚至20的都是.
+</p>
+<p class="transcript-line">
+<span class="time"><strong>[00:15:42]</strong> </span>
+<span class="speaker"><strong>发言人1: </strong></span>
+在校大学生。
+</p>
+<p class="transcript-line">
+<span class="time"><strong>[00:15:44]</strong> </span>
+<span class="speaker"><strong>发言人3: </strong></span>
+以后可以搞校园行了，可以跑校园了。
+</p>
+<p class="transcript-line">
+<span class="time"><strong>[00:15:48]</strong> </span>
+<span class="speaker"><strong>发言人1: </strong></span>
+School tour代码之外，新加坡校园行。代码之外，全国高校巡回。
+</p>
+<p class="transcript-line">
+<span class="time"><strong>[00:15:57]</strong> </span>
+<span class="speaker"><strong>发言人2: </strong></span>
+每个学校就来两个人。总之就是我们这次活动虽然有一些瑕疵，但是我觉得总体上是非常。
+</p>
+<p class="transcript-line">
+<span class="time"><strong>[00:16:04]</strong> </span>
+<span class="speaker"><strong>发言人1: </strong></span>
+成功的那我们这个线下活动的回顾就到这里，希望如果下次还有的话，欢迎大家再次参加。我们可能会在别的地方举办下一趴，就是给舞台和我们主播们自己也做一些年终总结。
+</p>
+<p class="transcript-line">
+<span class="time"><strong>[00:16:20]</strong> </span>
+<span class="speaker"><strong>发言人3: </strong></span>
+我分享一些我整理的数据。其实我们截止录影，现在我们应该是计划中还有两期节目要发，对吧？如果把那两期都算上，也就是说大家听到我们这期节目的时候，本来今年应该已经算上各类的节目，应该已经发了24期，可能会多一期少一期，差不多24期。然后这里边听众来信有11期，差不多是一小半。
+</p>
+<p class="transcript-line">
+<span class="time"><strong>[00:16:48]</strong> </span>
+<span class="speaker"><strong>发言人3: </strong></span>
+有两期嘉宾访谈，一期是Anthony food，另外一期是吕鹏的对吧？又做了两期，就等于是两期连发的这个追剧的节目，是service人生切割术。有几个串台的节目，应该算串台节目，但其中一个也是聊游戏的对吧？33号远征队还有一个一期是应该是软件和AB带货的那期节目，对吧？然后还有一个give plus的专访，然后还有一个少数派少数派的节目，然后再有就是一些暂且叫他番外，我们三个是主播怎么找第一份工作的？一个番外，然后还有一个录影前的闲聊，还有就是匹克球，包括一期单发了一个主题曲，那个我也算上了，反正AI生成的主题曲一期。
+</p>
+<p class="transcript-line">
+<span class="time"><strong>[00:17:41]</strong> </span>
+<span class="speaker"><strong>发言人2: </strong></span>
+挺好听的。
+</p>
+<p class="transcript-line">
+<span class="time"><strong>[00:17:42]</strong> </span>
+<span class="speaker"><strong>发言人3: </strong></span>
+然后读书节目07直播07。
+</p>
+<p class="transcript-line">
+<span class="time"><strong>[00:17:51]</strong> </span>
+<span class="speaker"><strong>发言人2: </strong></span>
+我都忘记我们好像还有直播这个事。
+</p>
+<p class="transcript-line">
+<span class="time"><strong>[00:17:54]</strong> </span>
+<span class="speaker"><strong>发言人3: </strong></span>
+然后线下录的节目07没有线下录过。上次去年我们有线下的线下活动。
+</p>
+<p class="transcript-line">
+<span class="time"><strong>[00:18:00]</strong> </span>
+<span class="speaker"><strong>发言人1: </strong></span>
+有时候有个有有有些朋友就是说我们这个更新频率不够，我们确实更新频率挺低的。
+</p>
+<p class="transcript-line">
+<span class="time"><strong>[00:18:07]</strong> </span>
+<span class="speaker"><strong>发言人3: </strong></span>
+但坦白说我们今年是二十四期，去年是二十2期。对，其实比去年还多了。我觉得这个错觉可能是下半年更新的比较少，上半年比较多。
+</p>
+<p class="transcript-line">
+<span class="time"><strong>[00:18:20]</strong> </span>
+<span class="speaker"><strong>发言人2: </strong></span>
+而且我们老是一阵儿一阵儿的，如果更新的话，可能某一个月每周都更新，某两个月每周都更新，然后突然空一两个月，然后又开始每一两周更新，非常符合什么屁人的那个。
+</p>
+<p class="transcript-line">
+<span class="time"><strong>[00:18:37]</strong> </span>
+<span class="speaker"><strong>发言人1: </strong></span>
+我觉得大多数不是专门做节目的，应该能做到这样已经不错了。
+</p>
+<p class="transcript-line">
+<span class="time"><strong>[00:18:44]</strong> </span>
+<span class="speaker"><strong>发言人2: </strong></span>
+我是这么安慰自己，自我安慰。我们今年还没有采访，今年都没有录读书吗？我其实我一直觉得好像上一期竟然是去年了。
+</p>
+<p class="transcript-line">
+<span class="time"><strong>[00:18:54]</strong> </span>
+<span class="speaker"><strong>发言人1: </strong></span>
+然后访谈类的节目感觉少了一点，我们下一年可以准备更多的访谈类的节目。
+</p>
+<p class="transcript-line">
+<span class="time"><strong>[00:19:00]</strong> </span>
+<span class="speaker"><strong>发言人2: </strong></span>
+我这边有一个嘉宾答应了。
+</p>
+<p class="transcript-line">
+<span class="time"><strong>[00:19:02]</strong> </span>
+<span class="speaker"><strong>发言人1: </strong></span>
+但是一直没确定时间，能不能提前稍微透露一下？
+</p>
+<p class="transcript-line">
+<span class="time"><strong>[00:19:08]</strong> </span>
+<span class="speaker"><strong>发言人2: </strong></span>
+暂时不要，我感觉这个时间一直没确定就有点悬了。
+</p>
+<p class="transcript-line">
+<span class="time"><strong>[00:19:13]</strong> </span>
+<span class="speaker"><strong>发言人1: </strong></span>
+什么类型的嘉宾。
+</p>
+<p class="transcript-line">
+<span class="time"><strong>[00:19:15]</strong> </span>
+<span class="speaker"><strong>发言人2: </strong></span>
+的技术大佬？
+</p>
+<p class="transcript-line">
+<span class="time"><strong>[00:19:17]</strong> </span>
+<span class="speaker"><strong>发言人1: </strong></span>
+好。
+</p>
+<p class="transcript-line">
+<span class="time"><strong>[00:19:17]</strong> </span>
+<span class="speaker"><strong>发言人3: </strong></span>
+可以期待。不是你让人家怎么说，就是你让人家说一个技术什么一般的人家都不接受采访。
+</p>
+<p class="transcript-line">
+<span class="time"><strong>[00:19:27]</strong> </span>
+<span class="speaker"><strong>发言人2: </strong></span>
+顶尖前端，顶尖AI公司。
+</p>
+<p class="transcript-line">
+<span class="time"><strong>[00:19:30]</strong> </span>
+<span class="speaker"><strong>发言人1: </strong></span>
+行业撬悬念。
+</p>
+<p class="transcript-line">
+<span class="time"><strong>[00:19:31]</strong> </span>
+<span class="speaker"><strong>发言人2: </strong></span>
+行业翘楚。
+</p>
+<p class="transcript-line">
+<span class="time"><strong>[00:19:32]</strong> </span>
+<span class="speaker"><strong>发言人1: </strong></span>
+你说的不会是勾股吧。
+</p>
+<p class="transcript-line">
+<span class="time"><strong>[00:19:37]</strong> </span>
+<span class="speaker"><strong>发言人3: </strong></span>
+还卖半天关子。
+</p>
+<p class="transcript-line">
+<span class="time"><strong>[00:19:39]</strong> </span>
+<span class="speaker"><strong>发言人2: </strong></span>
+真的是我觉得挺好的。欢迎订阅本节目，敬请期待我们之后的嘉宾。
+</p>
+<p class="transcript-line">
+<span class="time"><strong>[00:19:45]</strong> </span>
+<span class="speaker"><strong>发言人3: </strong></span>
+对，说到这个采访嘉宾，我们每个人都要翻开自己的通讯录看一看了。
+</p>
+<p class="transcript-line">
+<span class="time"><strong>[00:19:51]</strong> </span>
+<span class="speaker"><strong>发言人1: </strong></span>
+今年我们舞台最大的成就就是小宇宙突破1万订阅。
+</p>
+<p class="transcript-line">
+<span class="time"><strong>[00:19:56]</strong> </span>
+<span class="speaker"><strong>发言人3: </strong></span>
+对，快，你的音效快快快，现在此刻要需要。
+</p>
+<p class="transcript-line">
+<span class="time"><strong>[00:20:00]</strong> </span>
+<span class="speaker"><strong>发言人1: </strong></span>
+音来来来。
+</p>
+<p class="transcript-line">
+<span class="time"><strong>[00:20:05]</strong> </span>
+<span class="speaker"><strong>发言人2: </strong></span>
+耶耶，好。
+</p>
+<p class="transcript-line">
+<span class="time"><strong>[00:20:08]</strong> </span>
+<span class="speaker"><strong>发言人1: </strong></span>
+谢谢大家。
+</p>
+<p class="transcript-line">
+<span class="time"><strong>[00:20:11]</strong> </span>
+<span class="speaker"><strong>发言人3: </strong></span>
+但其实二位可能都没注意，我们哔哩哔哩突破了2万.
+</p>
+<p class="transcript-line">
+<span class="time"><strong>[00:20:16]</strong> </span>
+<span class="speaker"><strong>发言人2: </strong></span>
+youtube接近5000了，马上就要突破5000。
+</p>
+<p class="transcript-line">
+<span class="time"><strong>[00:20:20]</strong> </span>
+<span class="speaker"><strong>发言人1: </strong></span>
+Youtube我感觉很难上去。
+</p>
+<p class="transcript-line">
+<span class="time"><strong>[00:20:23]</strong> </span>
+<span class="speaker"><strong>发言人2: </strong></span>
+总体来说不错，总体来说所有的数据都不错。没事儿，他马上就那个就现在你上传的话，好像直接就会给你出一个英文的音轨，等你开了那功能就好多了。
+</p>
+<p class="transcript-line">
+<span class="time"><strong>[00:20:34]</strong> </span>
+<span class="speaker"><strong>发言人3: </strong></span>
+我看最新一期已经有了，至少标题是英文的，我的系统也是英文，所以我看到的已经是英文了。
+</p>
+<p class="transcript-line">
+<span class="time"><strong>[00:20:41]</strong> </span>
+<span class="speaker"><strong>发言人2: </strong></span>
+我比较担心的就是如果我们这个变成英文。
+</p>
+<p class="transcript-line">
+<span class="time"><strong>[00:20:45]</strong> </span>
+<span class="speaker"><strong>发言人3: </strong></span>
+你的同事？
+</p>
+<p class="transcript-line">
+<span class="time"><strong>[00:20:46]</strong> </span>
+<span class="speaker"><strong>发言人2: </strong></span>
+对我的同事那就更方便听了。
+</p>
+<p class="transcript-line">
+<span class="time"><strong>[00:20:49]</strong> </span>
+<span class="speaker"><strong>发言人1: </strong></span>
+那不挺好的经验让。
+</p>
+<p class="transcript-line">
+<span class="time"><strong>[00:20:51]</strong> </span>
+<span class="speaker"><strong>发言人2: </strong></span>
+他们特别搞笑。之前他们还首先是把你的这个transcript就是中文的先当load下来，然后再翻译成英文，他们就看就可以了，不用听，反正听也听不懂。对，那之后这个youtube出了这个之后，那方便他们听了。很吓人，挺好的，说话要小心一点。
+</p>
+<p class="transcript-line">
+<span class="time"><strong>[00:21:11]</strong> </span>
+<span class="speaker"><strong>发言人3: </strong></span>
+打开国际市场就从你的同事开始。
+</p>
+<p class="transcript-line">
+<span class="time"><strong>[00:21:14]</strong> </span>
+<span class="speaker"><strong>发言人2: </strong></span>
+脸皮要更厚一点。
+</p>
+<p class="transcript-line">
+<span class="time"><strong>[00:21:15]</strong> </span>
+<span class="speaker"><strong>发言人3: </strong></span>
+我另外你看我们哔哩哔哩已经2万了，按照咱们三个人共同的钱，东家阿里的定KPI的这个习惯，明年怎么着得10万是吧？
+</p>
+<p class="transcript-line">
+<span class="time"><strong>[00:21:29]</strong> </span>
+<span class="speaker"><strong>发言人2: </strong></span>
+你说的很有道理，明年能不能拿3.75，就靠就看哔哩哔哩。
+</p>
+<p class="transcript-line">
+<span class="time"><strong>[00:21:34]</strong> </span>
+<span class="speaker"><strong>发言人3: </strong></span>
+对，先给自己定个小目标，哔哩哔哩十万好不好？
+</p>
+<p class="transcript-line">
+<span class="time"><strong>[00:21:38]</strong> </span>
+<span class="speaker"><strong>发言人1: </strong></span>
+好的，可以。反正我是觉得尽可能我去多拉一点采访类的节目，我心目中有几个人人选，而且我希望是我亲自到这个上门？对，亲自上门服务的对，三顾茅庐线下路会更加好一点。我也想做成这种lex friend的，就rogan这种感。
+</p>
+<p class="transcript-line">
+<span class="time"><strong>[00:22:02]</strong> </span>
+<span class="speaker"><strong>发言人2: </strong></span>
+你先搞一个布。
+</p>
+<p class="transcript-line">
+<span class="time"><strong>[00:22:04]</strong> </span>
+<span class="speaker"><strong>发言人3: </strong></span>
+对你先要搞一个黑黑布景什么的。
+</p>
+<p class="transcript-line">
+<span class="time"><strong>[00:22:07]</strong> </span>
+<span class="speaker"><strong>发言人2: </strong></span>
+你先搞一个studio。
+</p>
+<p class="transcript-line">
+<span class="time"><strong>[00:22:08]</strong> </span>
+<span class="speaker"><strong>发言人1: </strong></span>
+但是问题是有studio让别人过来，我们这个我们我们自己台台咖位也不够。
+</p>
+<p class="transcript-line">
+<span class="time"><strong>[00:22:16]</strong> </span>
+<span class="speaker"><strong>发言人3: </strong></span>
+新的创新的这个生意来了，移动studio你就从你这儿开始，你这个能搞全球卖给所有的pod caster.
+</p>
+<p class="transcript-line">
+<span class="time"><strong>[00:22:24]</strong> </span>
+<span class="speaker"><strong>发言人2: </strong></span>
+就简易版的搭一个。关键是我我说如果我们想做成那样，就是那种比如lex freedom，那属于太top的顶流了。关键是我每次看他采访他手底下的那些准备的材料，是超乎我想象的多的对，还有然后不停的对，然后不停的聊的过程中要做笔记，然后还要在那儿写写画画。可能他他边做笔记，然后边还要想接下来的这个问题的安排什么的，然后他要不停的读一些材料之类的。我特别佩服他聊聊的特别深入的时候，每次都是看着一张纸，然后突然就想就突然就聊到一个比较深入的话题，然后接着顺着那个嘉宾的一些人生经历，甚至是就聊下去了，我觉得特别牛，可见他每期下功夫了。还是是然后我们下次请嘉宾的话，也是需要下一点功夫。
+</p>
+<p class="transcript-line">
+<span class="time"><strong>[00:23:17]</strong> </span>
+<span class="speaker"><strong>发言人2: </strong></span>
+我包括我自己，今年我有一期跟吕鹏聊的，那是我们本台为数不多的代码之内的一期。然后聊的技术也比较技术话题比较多。但是我始终觉得没有把吕鹏他的这个技术深度挖的特别透彻。
+</p>
+<p class="transcript-line">
+<span class="time"><strong>[00:23:36]</strong> </span>
+<span class="speaker"><strong>发言人3: </strong></span>
+还能再挖是吧？
+</p>
+<p class="transcript-line">
+<span class="time"><strong>[00:23:37]</strong> </span>
+<span class="speaker"><strong>发言人2: </strong></span>
+肯定还能再挖，而且他的经历也可能还能再挖一些，所以而且我当时是做了准备的，列了一个提纲，然后给吕鹏也看了一下。我现在想想，提纲根本还是微不足道，这个在下的功夫方面实在是太少了。
+</p>
+<p class="transcript-line">
+<span class="time"><strong>[00:23:52]</strong> </span>
+<span class="speaker"><strong>发言人1: </strong></span>
+我觉得我应该最长的问题，如果你给他一个五个小6个小时的时间，对，6个小时跟他聊，我觉得可能就能挖的更多。
+</p>
+<p class="transcript-line">
+<span class="time"><strong>[00:24:01]</strong> </span>
+<span class="speaker"><strong>发言人2: </strong></span>
+也有可能。但是我反正我如果下次再请嘉宾来，我可能要准备至少2000字、5000字这种材料放在手边。之前就跟他说好，我可能我已经知道你各方面的东西，然后再去深入问你，然后让他心里也有点准备了。
+</p>
+<p class="transcript-line">
+<span class="time"><strong>[00:24:16]</strong> </span>
+<span class="speaker"><strong>发言人3: </strong></span>
+要不我们每个人也说一说自己最满意的一期，还有最undated是吧？被低估那一期。我记得Randy去年说咱们节目被低估的一期，是他跟ChatGPT对聊的那期，他觉得反响没有那么好。但是你看这次线下活动，有人专门提出来说那期他很喜欢。
+</p>
+<p class="transcript-line">
+<span class="time"><strong>[00:24:36]</strong> </span>
+<span class="speaker"><strong>发言人2: </strong></span>
+对，真的被低估了。
+</p>
+<p class="transcript-line">
+<span class="time"><strong>[00:24:37]</strong> </span>
+<span class="speaker"><strong>发言人1: </strong></span>
+真的被低估。有两个还是三个人都这么说。
+</p>
+<p class="transcript-line">
+<span class="time"><strong>[00:24:41]</strong> </span>
+<span class="speaker"><strong>发言人2: </strong></span>
+我是挺意外的。对我也很意外的，感觉那个播放量不是很高。对，但是听了的好像都来了，就那种感觉。
+</p>
+<p class="transcript-line">
+<span class="time"><strong>[00:24:51]</strong> </span>
+<span class="speaker"><strong>发言人1: </strong></span>
+所以忠实听众才跟我们这个品味。
+</p>
+<p class="transcript-line">
+<span class="time"><strong>[00:24:55]</strong> </span>
+<span class="speaker"><strong>发言人3: </strong></span>
+你懂我们是吧？对，不是跟流量站在一起的。我先说一个，我先说我觉得service那期就是聊那个人生切割术追剧的那一期。对，我们还搞了特别的那个片头吗？嗯，搞了一些彩蛋什么的，但播放量也不低，但是可能也是我们聊剧的那个方式，我觉得这个我们可能经验上还要再再学习。
+</p>
+<p class="transcript-line">
+<span class="time"><strong>[00:25:19]</strong> </span>
+<span class="speaker"><strong>发言人1: </strong></span>
+我就感觉apple TV的剧就相对小众。
+</p>
+<p class="transcript-line">
+<span class="time"><strong>[00:25:23]</strong> </span>
+<span class="speaker"><strong>发言人3: </strong></span>
+但我你看我看你们两位之前聊过那个进击的巨人，好像量也不高。就是我觉得这可能是一个辽剧的方式方法的经验的问题。对，我觉得我们还是要再尝试一些不同的辽剧的方式，因为我觉得这个话题本身是有趣的。
+</p>
+<p class="transcript-line">
+<span class="time"><strong>[00:25:38]</strong> </span>
+<span class="speaker"><strong>发言人1: </strong></span>
+我觉得可能还是跟听众的这个他们可能更感兴趣的是泛技术的或者泛互联网的。也有可能当然可能有中间肯定有会有一些香蕉的，他们可能会认为说也只是浅聊，不会像那些专门聊这种电视剧的。
+</p>
+<p class="transcript-line">
+<span class="time"><strong>[00:25:56]</strong> </span>
+<span class="speaker"><strong>发言人3: </strong></span>
+或者就是从这个剧里边提取出一些大家有共鸣的话题。你看我们录了很多听众来信，很多来信我们聊到最后其实已经没有再聊来信了，对吧？其实是把来信里面比较有共鸣的那个点拿出来又展开。
+</p>
+<p class="transcript-line">
+<span class="time"><strong>[00:26:10]</strong> </span>
+<span class="speaker"><strong>发言人2: </strong></span>
+我自己比较满意的一期，就是跟吕鹏聊的那期。对，其实聊的时候就有这种感觉，就是跟一个嘉宾你聊的特别畅快，就是整个聊天的过程非常流畅。而且我跟吕龙特别有意思，就是我其实中间穿插了一段，我们就是结束录制之后还聊的。然后就发现结束录制之后，每次如果你在录制之前或者录制之后，反正就关了那个录制，正式录制的那个阶段的时候，大家就会更放松一点，聊得更嗨一点，大家反正也没看出来，但是我就觉得很顺，然后很很开心能把那些狂论都穿插在里面挺好的。当然我们还聊了更多的这种更狂妄的一些言论，我就没再剪进去了。总之这期我特别满意，而且好像播放量也是。
+</p>
+<p class="transcript-line">
+<span class="time"><strong>[00:26:55]</strong> </span>
+<span class="speaker"><strong>发言人3: </strong></span>
+也体现效果非常好体现出来。
+</p>
+<p class="transcript-line">
+<span class="time"><strong>[00:26:57]</strong> </span>
+<span class="speaker"><strong>发言人2: </strong></span>
+所以非常感谢吕鹏，我打算什么时候再把他拉过来再聊一次。然后underrated其实Anthony父母那期我觉得也很好，其实我觉得请嘉宾来的都很好，但是我也不知道为什么那些没有达到我的预期，就我预期是很高的。
+</p>
+<p class="transcript-line">
+<span class="time"><strong>[00:27:17]</strong> </span>
+<span class="speaker"><strong>发言人3: </strong></span>
+因为我觉得炸的那个有好几万的对。
+</p>
+<p class="transcript-line">
+<span class="time"><strong>[00:27:21]</strong> </span>
+<span class="speaker"><strong>发言人2: </strong></span>
+但是虽然现在播放量也很高了，但是没有超出我的预期，所以对于我来说是on the rating car。然后有一期是严重超出我的预期，就是有一些听众来信聊什么工作中的心理落差怎么处理，脏活累活朝令夕改，巨长无比，就是三十多分钟，然后竟然听的人还超过1万。我其实蛮震惊的，本来我对那期的预期就是跟我们普通的来信一样，那标题好像也不是特别夺人眼球。然后有一期我们标题夺人眼球的也不算。我们起标题一向都比较含蓄，比较正经的，不是那种什么正经体什么的。但是有一些标题我们专门用了什么？又怕兄弟苦，又怕兄弟开路虎。那期然后那期播放量平平，没有，就是说明这个标题党好像也是一般。
+</p>
+<p class="transcript-line">
+<span class="time"><strong>[00:28:18]</strong> </span>
+<span class="speaker"><strong>发言人3: </strong></span>
+或者说明我们的听众是非常有觉悟的，看到这种标题反而点不进去。
+</p>
+<p class="transcript-line">
+<span class="time"><strong>[00:28:24]</strong> </span>
+<span class="speaker"><strong>发言人2: </strong></span>
+很有道理。
+</p>
+<p class="transcript-line">
+<span class="time"><strong>[00:28:26]</strong> </span>
+<span class="speaker"><strong>发言人3: </strong></span>
+是听众太还是要诚实待人是吧？
+</p>
+<p class="transcript-line">
+<span class="time"><strong>[00:28:30]</strong> </span>
+<span class="speaker"><strong>发言人1: </strong></span>
+我这边我比较满意的节目就是跟迟早要玩的主播串台的这个33号远针对这个就我个人录的时候是比较满意的。因为33号远征队本来就是一个我感觉很好的一个游戏，我估计他今年要年度游戏了。
+</p>
+<p class="transcript-line">
+<span class="time"><strong>[00:28:49]</strong> </span>
+<span class="speaker"><strong>发言人2: </strong></span>
+他已经拿了已他已经拿了今年的年度游戏，所以恭喜你踩中了。
+</p>
+<p class="transcript-line">
+<span class="time"><strong>[00:28:56]</strong> </span>
+<span class="speaker"><strong>发言人1: </strong></span>
+所以看静待看一下我们这个播放量会不会声突然飙升。
+</p>
+<p class="transcript-line">
+<span class="time"><strong>[00:29:02]</strong> </span>
+<span class="speaker"><strong>发言人2: </strong></span>
+应该会有人说到的这期我觉得也我听了，我觉得也聊挺好的。我觉得唯一缺点就是你们两个没有露脸。
+</p>
+<p class="transcript-line">
+<span class="time"><strong>[00:29:10]</strong> </span>
+<span class="speaker"><strong>发言人1: </strong></span>
+而且小熊猫的声音非常的适合这种深夜情感节目的那种。
+</p>
+<p class="transcript-line">
+<span class="time"><strong>[00:29:17]</strong> </span>
+<span class="speaker"><strong>发言人2: </strong></span>
+对一个博客露不露脸，其实后来我发现影响还挺大的，而且我从听众反馈也我也问了，就是我大概问了一些人，他们就说你露脸了之后，那个亲和力。
+</p>
+<p class="transcript-line">
+<span class="time"><strong>[00:29:28]</strong> </span>
+<span class="speaker"><strong>发言人3: </strong></span>
+然后人味儿专注。
+</p>
+<p class="transcript-line">
+<span class="time"><strong>[00:29:29]</strong> </span>
+<span class="speaker"><strong>发言人2: </strong></span>
+进去in engaged engaged。对，然后就跟你老师讲课，你看网课跟在台下真正坐在教室里听是不一样的。然后你看网课露脸的老师跟不露脸的老师也是不一样的。对，有道理。如果你们那些露脸然后录一些reaction，就比如说打到哪一关的时候？然后那那那个惊讶的表情，我估计大家肯定也比较喜欢。
+</p>
+<p class="transcript-line">
+<span class="time"><strong>[00:29:54]</strong> </span>
+<span class="speaker"><strong>发言人1: </strong></span>
+然后under rated我觉得是那个and three four的那一那一期OK.
+</p>
+<p class="transcript-line">
+<span class="time"><strong>[00:30:00]</strong> </span>
+<span class="speaker"><strong>发言人2: </strong></span>
+因为我感觉以压力又给到勾股了。勾股每次我。
+</p>
+<p class="transcript-line">
+<span class="time"><strong>[00:30:04]</strong> </span>
+<span class="speaker"><strong>发言人1: </strong></span>
+觉得以anti的这个咖位，我感觉他的这个播放量起码在B站我感觉要破万，结果也没有。而且我觉得是聊的挺好的。
+</p>
+<p class="transcript-line">
+<span class="time"><strong>[00:30:14]</strong> </span>
+<span class="speaker"><strong>发言人2: </strong></span>
+这很明显更更比我们现在这个要好多了。
+</p>
+<p class="transcript-line">
+<span class="time"><strong>[00:30:18]</strong> </span>
+<span class="speaker"><strong>发言人3: </strong></span>
+我们现在只安斯利夫那个是线下的露脸了，所以我们是有期线下的，不是临期。
+</p>
+<p class="transcript-line">
+<span class="time"><strong>[00:30:22]</strong> </span>
+<span class="speaker"><strong>发言人1: </strong></span>
+尤其而且coco.
+</p>
+<p class="transcript-line">
+<span class="time"><strong>[00:30:25]</strong> </span>
+<span class="speaker"><strong>发言人2: </strong></span>
+还做笔记的，有点来违背了很多问题。
+</p>
+<p class="transcript-line">
+<span class="time"><strong>[00:30:29]</strong> </span>
+<span class="speaker"><strong>发言人3: </strong></span>
+我其实也蛮紧张的。如果算访谈的话，我做的算是我们三个人里面最少的，所以我当时还是挺有压力的。另外跟我之前那两期比那这期还是比去年的两期好多了。
+</p>
+<p class="transcript-line">
+<span class="time"><strong>[00:30:41]</strong> </span>
+<span class="speaker"><strong>发言人2: </strong></span>
+可能就是我我跟ready预期比较高。
+</p>
+<p class="transcript-line">
+<span class="time"><strong>[00:30:44]</strong> </span>
+<span class="speaker"><strong>发言人1: </strong></span>
+继续。我感觉勾股可以多看看新加坡那边有什么可以线下勾兑。好啊好啊，我感觉新加坡还是蛮多这种。
+</p>
+<p class="transcript-line">
+<span class="time"><strong>[00:30:53]</strong> </span>
+<span class="speaker"><strong>发言人3: </strong></span>
+对，得找有些人是你知道藏龙卧虎的，你说说名字，原来他在新加坡这种人挺好。
+</p>
+<p class="transcript-line">
+<span class="time"><strong>[00:31:01]</strong> </span>
+<span class="speaker"><strong>发言人2: </strong></span>
+我到现在还记忆犹新。我今年其实厚着脸皮，给很多大佬都都发了这个来录制的邀请。对，有的大佬拒绝的理由就是我我想低调一点，然后还有一些就是说我财富自由了，我不想暴露自己，然后挺挺直接的大佬。
+</p>
+<p class="transcript-line">
+<span class="time"><strong>[00:31:17]</strong> </span>
+<span class="speaker"><strong>发言人3: </strong></span>
+都有大佬的理由。
+</p>
+<p class="transcript-line">
+<span class="time"><strong>[00:31:19]</strong> </span>
+<span class="speaker"><strong>发言人2: </strong></span>
+对，大佬都有。
+</p>
+<p class="transcript-line">
+<span class="time"><strong>[00:31:20]</strong> </span>
+<span class="speaker"><strong>发言人1: </strong></span>
+大佬不够。你说如果他拒绝了。
+</p>
+<p class="transcript-line">
+<span class="time"><strong>[00:31:23]</strong> </span>
+<span class="speaker"><strong>发言人2: </strong></span>
+你转头就上了其他台。
+</p>
+<p class="transcript-line">
+<span class="time"><strong>[00:31:26]</strong> </span>
+<span class="speaker"><strong>发言人1: </strong></span>
+你看周若耿去邀请他。
+</p>
+<p class="transcript-line">
+<span class="time"><strong>[00:31:28]</strong> </span>
+<span class="speaker"><strong>发言人3: </strong></span>
+你看他上不上等我们是是吧？十万粉的那天我们再发一次。
+</p>
+<p class="transcript-line">
+<span class="time"><strong>[00:31:34]</strong> </span>
+<span class="speaker"><strong>发言人2: </strong></span>
+可能跟粉丝量没关系，是不是？我也不懂。
+</p>
+<p class="transcript-line">
+<span class="time"><strong>[00:31:38]</strong> </span>
+<span class="speaker"><strong>发言人3: </strong></span>
+再想想那就干到200万，他一定会答应下一年。
+</p>
+<p class="transcript-line">
+<span class="time"><strong>[00:31:41]</strong> </span>
+<span class="speaker"><strong>发言人1: </strong></span>
+我觉得如果我们能在短视频上面去发力，就是把我们的这些节目切成短视频一个一个的那种片段，然后疯狂的断章取义一下，哗众取宠一下。
+</p>
+<p class="transcript-line">
+<span class="time"><strong>[00:31:56]</strong> </span>
+<span class="speaker"><strong>发言人2: </strong></span>
+我知道有一个友台搞这个短视频搞得特别好。他当时还专门问我，就是说剪辑短视频的工作外包给他们。但是他们当时给我的报价很贵，我就拒绝了。但是后来我发现还挺值的，因为他们搞得特别好，他们对粉丝量增长的速度是超乎想象的。
+</p>
+<p class="transcript-line">
+<span class="time"><strong>[00:32:18]</strong> </span>
+<span class="speaker"><strong>发言人3: </strong></span>
+其实短视频对剪辑和后期制作的要求其实是更高的。因为你一共就30时间，剪的好跟剪的不好天差地别。
+</p>
+<p class="transcript-line">
+<span class="time"><strong>[00:32:27]</strong> </span>
+<span class="speaker"><strong>发言人2: </strong></span>
+对，而且我发现就对比比如说Randy串台的另一期没发在我们我们播客。但是Randy串台他前同事的另一期。
+</p>
+<p class="transcript-line">
+<span class="time"><strong>[00:32:37]</strong> </span>
+<span class="speaker"><strong>发言人1: </strong></span>
+在自由默认数字。
+</p>
+<p class="transcript-line">
+<span class="time"><strong>[00:32:38]</strong> </span>
+<span class="speaker"><strong>发言人2: </strong></span>
+游牧人在B站上的那期视频，很明显，你不是跟我说你聊了两个半小时，可能最后剪出来只有半小时。对，这其实只要浓缩的都是精华，只要浓缩的都是精华，他把我们30分钟的听众来信剪成一个30秒的那绝对全是精华，全是爆的。然后我觉得非常考验剪辑技术，包括那个字幕弹出来的很有综艺效果，我感觉特别吸引眼球，这个我自己剪我搞不来的。
+</p>
+<p class="transcript-line">
+<span class="time"><strong>[00:33:07]</strong> </span>
+<span class="speaker"><strong>发言人1: </strong></span>
+在这里呼吁一下，如果有懂这一块的听众想要一起合作一下，评论区下面留言或者直接给我们发邮件。Beyond DFMGMADALCOMOK, 我觉得这就是本台的这个年度的回顾了。最后就是我们三位主播各自的年终回顾了。
+</p>
+<p class="transcript-line">
+<span class="time"><strong>[00:33:29]</strong> </span>
+<span class="speaker"><strong>发言人3: </strong></span>
+我先来，我这是现成的，因为线下已经聊过了，在节目里面再跟大家再再报告一下。就我去年这个年终节目不就聊了，就今年打算有序退网。社交网络我基本上今年就不怎么碰了，社交行为从线上逐渐转移到了线下，就是我生活周围的这些线下的这些朋友啊，总体上感觉一年下来效果还挺好的，效果还挺好的。
+</p>
+<p class="transcript-line">
+<span class="time"><strong>[00:33:55]</strong> </span>
+<span class="speaker"><strong>发言人2: </strong></span>
+我稍微插一嘴效果挺好的。是说什么就上上5楼不喘气儿了，腿也不腰也不酸了。
+</p>
+<p class="transcript-line">
+<span class="time"><strong>[00:34:01]</strong> </span>
+<span class="speaker"><strong>发言人3: </strong></span>
+还是效果挺好。也达到了一些社交的，达到了一些放松，就换脑筋的这个目的，就平替了。把我刷twitter，刷各种社交网络的这个习惯完全就平替掉了。再有就是省下了很多时间，因为我有一段时间其实就刷各种平台推荐的东西，也不光是社交网络，就包括youtube会给你推荐一篇，对吧？哔哩哔哩会给你推荐一篇，这些推荐我也都关掉了。或者我就直接打开那个订阅页，不是那个首页。通过这样的方式，我想摄取的信息，我也通过我的订阅的这个行为也摄取到了，变相的节省了很多我一不小心点进去的那那些，然后一下就无底洞一两个小时过去了，省下很多这个时间。
+</p>
+<p class="transcript-line">
+<span class="time"><strong>[00:34:44]</strong> </span>
+<span class="speaker"><strong>发言人3: </strong></span>
+然后我又拿这个时间拿去做了一些我额外的事情。就包括我就在线下也说过，我去年我今年年初考了一个最菜鸟级的足球教练的资格证。对，然后我就在今年下半年逐渐的也找到了一份算是兼职吧，或者说其实是算volunteer，就是志愿者小球员青训的，帮教练捡捡球，摆摆球门，打打杂。然后如果我自己有有意愿的话，我也可以跟教练申请说，我可不可以带其中15分钟的这个训练课。这个训练课我也带过了，反正大概是这样一个状态。因为我一直挺喜欢足球的对足球我觉得是有缘分的。所以从今年开始就开始参与了一些，真的跟足球开始真的有一些交集了，我觉得还挺挺开心的。
+</p>
+<p class="transcript-line">
+<span class="time"><strong>[00:35:32]</strong> </span>
+<span class="speaker"><strong>发言人3: </strong></span>
+再有就是开了一个youtube的频道，另外一个频道也是聊足球的。再有就是我今年跑完了，我的马拉松终于跑完了。其实刚才卖了个关子，我那个线下活动差一点没参加，就是因为我这个新加坡马拉松也刚好就是在这个活动之后的一个礼拜。然后我当时有给自己定那个训练计划，当时是活动前一周，应该是训练最密集的时候，就是你调整身体状态各方面比较关键的时候。索性我的训练计划比较超预期的，就是我能够挤出那么一两天时间。所以我就利用那两天时间飞到深圳，然后再飞回来。
+</p>
+<p class="transcript-line">
+<span class="time"><strong>[00:36:10]</strong> </span>
+<span class="speaker"><strong>发言人3: </strong></span>
+然后那个马拉松我其实真的是零基础开始。我之前咱们节目也聊过，聊过一些跑步的东西。我因为我知道给plus是行家了，陆陆续续问了他很多问题，一般般。
+</p>
+<p class="transcript-line">
+<span class="time"><strong>[00:36:21]</strong> </span>
+<span class="speaker"><strong>发言人3: </strong></span>
+对，反正我是从我真的从三年前开始跑，我真的是从第一公里开始的。我刚开始重新跑步的时候，疫情过后我真的跑一公里我就喘的就受不了了。然后我就这样一连续练了三年，第一年跑了10公里，第二年跑了半马21公里。然后今年是全马42公里，还挺有成就感的。但是今年跑完，明年我应该不会这么狠了。我应该平常就锻炼身体，没事跑个3公里、5公里，大概就这样子了。不不不，那个42公里真的打个卡就够了。每每天这样每天这样跑去，我觉得太疯狂了。
+</p>
+<p class="transcript-line">
+<span class="time"><strong>[00:36:56]</strong> </span>
+<span class="speaker"><strong>发言人2: </strong></span>
+对于我来说，你现在每天跑量是多少？
+</p>
+<p class="transcript-line">
+<span class="time"><strong>[00:36:59]</strong> </span>
+<span class="speaker"><strong>发言人3: </strong></span>
+还是每天我现在一个礼拜跑2到3次，每一次如果不是备战马拉松的话，我一般会跑个5公里左右。因为我们家边上刚好有一个5公里的路线，3公里到7公里。看你当天的状态，如果你确实状态不好，就3公里提前绕回去，然后最长的一段可以跑到7公里，或者就是跑5公里，最后2万公里走回家。
+</p>
+<p class="transcript-line">
+<span class="time"><strong>[00:37:19]</strong> </span>
+<span class="speaker"><strong>发言人2: </strong></span>
+太太羡慕了，感觉勾股今年全是成就，全是成就。
+</p>
+<p class="transcript-line">
+<span class="time"><strong>[00:37:23]</strong> </span>
+<span class="speaker"><strong>发言人3: </strong></span>
+都太多成就了，都是些杂活。你没有。
+</p>
+<p class="transcript-line">
+<span class="time"><strong>[00:37:26]</strong> </span>
+<span class="speaker"><strong>发言人2: </strong></span>
+特别羡慕你看足球教练是完全是兴趣在兴趣上面取得了一些成就。然后我回想自己，我进就是我自己在兴趣上面就没有取得像这种好像什么说什么考个证，或者当教练之类的这种成就。然后跑步其实我也蛮羡慕的。你讲的时候我就特别怀念我之前楼下的那个跑步路线，从上香港的那个西环码头一直跑到中环中环码头，然后再弯回去。整个一路上可以看着维港的夜景，特别优美。除了海风有时候有点咸，基本上整个跑步的体验是特别好的，有时候甚至能看到明星。但是我就说我这个跑步好像没有拿到说什么特别大的成就。因为当时我的目标是参加那个UTMB，是一个100 miles，是170公里的越野跑。对，ultra run.
+</p>
+<p class="transcript-line">
+<span class="time"><strong>[00:38:21]</strong> </span>
+<span class="speaker"><strong>发言人2: </strong></span>
+因为我其实我不知道你之后的目标了，一般跑马拉松可能最后都会转到那个越野跑，没有了越野跑，我不会最终的目标就是OK。那那你就点到为止，反正我我当时我当时想参加最终拿到成绩的一个比赛，就是50公里、56公里，最后跑完赛了。但是那个完赛了之后，就好像再也没有参加过这种比赛了，因为当时也基本上脚受伤了，然后也要去美国了。
+</p>
+<p class="transcript-line">
+<span class="time"><strong>[00:38:51]</strong> </span>
+<span class="speaker"><strong>发言人2: </strong></span>
+然后来了美国之后，我发现去跑步爬山就跟香港完全不是一个概念。就是你每次得开车先去一个跑步的起点，对，然后跑完回来回到起点再开车回家，就显得有点跟香港完全是对完全不一样的体验。你还得开车，这一步就是很很麻烦。等等我再探索。
+</p>
+<p class="transcript-line">
+<span class="time"><strong>[00:39:11]</strong> </span>
+<span class="speaker"><strong>发言人3: </strong></span>
+确实探索一下，我能体会你说的就是你之前在香港跑步，就是你甚至还能记住那个路线，能记住每一个细节，跑步时候遇到什么人之类的，我现在也有，因为我按照同一个路线一直跑。其实时间长了之后，它变成你生活一部分了。就不只是你出去运动，它变成你生活记忆的一部分。
+</p>
+<p class="transcript-line">
+<span class="time"><strong>[00:39:29]</strong> </span>
+<span class="speaker"><strong>发言人2: </strong></span>
+我连时间基本上都是相同的，就是你下班。对我每天下了班，对，然后就买瓶什么宝矿力。对，那个装备回家一换装备回家一换，然后穿上鞋就开始跑跑完之后把宝矿力正好喝完，然后去吉野家，这是顺路的，所有的一套流程非常的熟练。然后去去吉野家点一个最基本的饭，然后吃完非常健康的就回家了。时间都正正好好。
+</p>
+<p class="transcript-line">
+<span class="time"><strong>[00:39:58]</strong> </span>
+<span class="speaker"><strong>发言人3: </strong></span>
+每天都是这样。对我也是有一套这个就像像仪式一样了已经。你这样说，我想到我当时真的跑马拉松那一天，因为跑好几个小时，我其实跑的很慢。因为新加坡马拉松那个路线规划是他刚好绕着新加坡最繁华或者风景最美那些地方跑一圈。每跑到一个地方我就想起当时我刚来新加坡的时候，来这玩过什么的，就全都是回忆，就是那种感觉，一边跑步。
+</p>
+<p class="transcript-line">
+<span class="time"><strong>[00:40:22]</strong> </span>
+<span class="speaker"><strong>发言人2: </strong></span>
+一边在牧。
+</p>
+<p class="transcript-line">
+<span class="time"><strong>[00:40:23]</strong> </span>
+<span class="speaker"><strong>发言人3: </strong></span>
+一边像过电影一样就自己你像我来新加坡差不多五六年了，回忆的那个画面就不断的在脑海中浮现，那个感觉很很奇妙。
+</p>
+<p class="transcript-line">
+<span class="time"><strong>[00:40:32]</strong> </span>
+<span class="speaker"><strong>发言人2: </strong></span>
+回忆汹涌澎湃。
+</p>
+<p class="transcript-line">
+<span class="time"><strong>[00:40:34]</strong> </span>
+<span class="speaker"><strong>发言人3: </strong></span>
+对。
+</p>
+<p class="transcript-line">
+<span class="time"><strong>[00:40:35]</strong> </span>
+<span class="speaker"><strong>发言人2: </strong></span>
+真的有点那感觉。你有没有看那个书？最后看那个村上春树的书。
+</p>
+<p class="transcript-line">
+<span class="time"><strong>[00:40:39]</strong> </span>
+<span class="speaker"><strong>发言人3: </strong></span>
+还没我上一集节目说的那个月亮与六便士。
+</p>
+<p class="transcript-line">
+<span class="time"><strong>[00:40:44]</strong> </span>
+<span class="speaker"><strong>发言人2: </strong></span>
+我还没看完。我觉得你现在不是跑完马拉松了吗？你可能看了那本书之后还想再跑。
+</p>
+<p class="transcript-line">
+<span class="time"><strong>[00:40:51]</strong> </span>
+<span class="speaker"><strong>发言人3: </strong></span>
+有可能吧？
+</p>
+<p class="transcript-line">
+<span class="time"><strong>[00:40:52]</strong> </span>
+<span class="speaker"><strong>发言人2: </strong></span>
+真的写的很好，那本书真的写的很好。对你有可能跑完新加坡马拉松之后，你还想去纽约、波士顿这两个最著名的。
+</p>
+<p class="transcript-line">
+<span class="time"><strong>[00:41:03]</strong> </span>
+<span class="speaker"><strong>发言人3: </strong></span>
+波士顿我波士顿我查过了，它有最低完赛的时间要求，那个要求对我来讲就是遥不可及了。已经我已经查过了，所以我知我跟你说，我有自知之明，我我我知道我打卡成功了，这个事儿就结束了。另外确实我觉得我跑步或者踢足球还有一个原因就是。你像我这样remote在家，远程工作在家基本上不出门。然后你像我今年也奔四了，就是你你要刻意的给自己制造一些锻炼身体的机会，维持你自己的这个身体状态。所以其实也是出于这个目的，决定了我可能不太再追求那些auto round那些特别极限的东西了。其实我现在是除了马拉松这次打个卡，其实平时我运动是还是比较务实的，比较有具体的目标的，就是保持身体状态，所以应该不会那么狠了。
+</p>
+<p class="transcript-line">
+<span class="time"><strong>[00:41:54]</strong> </span>
+<span class="speaker"><strong>发言人2: </strong></span>
+挺好，总体听起来都是成就挺好的。
+</p>
+<p class="transcript-line">
+<span class="time"><strong>[00:41:58]</strong> </span>
+<span class="speaker"><strong>发言人3: </strong></span>
+反正拿出来说的肯定都是好事儿，糟心事儿我就不说了。
+</p>
+<p class="transcript-line">
+<span class="time"><strong>[00:42:03]</strong> </span>
+<span class="speaker"><strong>发言人1: </strong></span>
+到我了来吧。我今年没有什么很特别的事情，做产品我感觉跟上一年这跟前一年也没有什么太大的区别，没什么太大的突破。今年第一次尝试了跟设计师一起合作，我感觉还是挺不错的。应该就把专业的事情交给专业的人做，这种感觉真的是很不错，而且是比自己搞省心很多。这个人家已经帮你想好这个交互跟设计，我只用实现就好了，那就很省时间。但可惜这个产品做出来又又被大厂做了，就很尴尬。
+</p>
+<p class="transcript-line">
+<span class="time"><strong>[00:42:45]</strong> </span>
+<span class="speaker"><strong>发言人1: </strong></span>
+对，然后还有另外一个我觉得在做产品方面比较能拿得出来说就是CC mate就是一个靠code的的一个配置切换的工具。然后本身这个工具我是没有开源的。我也在想是不是等到用户量大了起来之后，可以收费一波，但是感觉这个东西付费的这个点也不是很够，所以后来就干脆开源了。开源之后反而有一些sponsor也不错，开源的反而有一点收入。对，就是没那么多，但是还可以，而且比我想象之中要更多用户，这种可能是刚需。
+</p>
+<p class="transcript-line">
+<span class="time"><strong>[00:43:30]</strong> </span>
+<span class="speaker"><strong>发言人1: </strong></span>
+上个星期不是去广西，去广西是因为我朋友在广西，是开公司的。然后刚好他们那个那个技术团队出了点问题，积压了一点那些有一些外包的东西还没有弄完，然后我就临时过去帮他救了一下火。这几周我都我twitter都很少发了，就是每天都是在救火的状态当中。
+</p>
+<p class="transcript-line">
+<span class="time"><strong>[00:43:53]</strong> </span>
+<span class="speaker"><strong>发言人1: </strong></span>
+虽然那个代码不是特别难写，但是需要花挺多精力在上面的。让我体验了一下做外包的感觉。做外包也是甚至有点想开个公司去做外包。他跟做产品很不一样。做外包是首先他能赚钱。做一个外包公司他的主要能力并不是说这个技术要做的多好，而是你的资源够不够，你这个接单能力。
+</p>
+<p class="transcript-line">
+<span class="time"><strong>[00:44:16]</strong> </span>
+<span class="speaker"><strong>发言人2: </strong></span>
+能不能交付。
+</p>
+<p class="transcript-line">
+<span class="time"><strong>[00:44:17]</strong> </span>
+<span class="speaker"><strong>发言人1: </strong></span>
+这是最重要的。但是对于技术人员来说，做外包好处在于基本上每一个项目都是从0到1的，没有什么技术在对，没有什么技术战。然后你可以选自己最喜欢的技术栈，然后还可以沉淀自己的一些可以复用的，复用到下一个外包project的一些东西。
+</p>
+<p class="transcript-line">
+<span class="time"><strong>[00:44:39]</strong> </span>
+<span class="speaker"><strong>发言人1: </strong></span>
+这个是对于程序员本身写代码本身是很有成就感的一个事情。但是很尴尬的一个事情是，有时候我去做这个项目的时候，有时候我觉得这个地方如果这个交互做成这个样子，就体用户体验会更好或者说什么的。但是他如果你要给他一个更好的用户体验，那必定你需要更多的代码去实现这个。但是我转念一想，算了，这又不是我自己的产品。然后还要花这么多时间去调试测试这个东西，就想一想就算了。这是一个很矛盾的地方，很很矛盾的一个点。就是我的良心有点过意不去，但是理智告诉我，我的目标应该是赶紧尽快的交付，这是我在做外包的一些趣事。
+</p>
+<p class="transcript-line">
+<span class="time"><strong>[00:45:28]</strong> </span>
+<span class="speaker"><strong>发言人2: </strong></span>
+还挺有意思。还有你的其他成就，什么酒吧驻唱的工资比做独立开发的工资要多多了收入。
+</p>
+<p class="transcript-line">
+<span class="time"><strong>[00:45:37]</strong> </span>
+<span class="speaker"><strong>发言人1: </strong></span>
+这个就是也会在朋友的酒吧去偶尔唱唱歌什么的。对，然后也有一些会有一些仇报仇。
+</p>
+<p class="transcript-line">
+<span class="time"><strong>[00:45:45]</strong> </span>
+<span class="speaker"><strong>发言人3: </strong></span>
+就是这样挺好的。挺好。
+</p>
+<p class="transcript-line">
+<span class="time"><strong>[00:45:47]</strong> </span>
+<span class="speaker"><strong>发言人2: </strong></span>
+两条腿考虑卖艺，你会考虑通过卖艺为生吗？
+</p>
+<p class="transcript-line">
+<span class="time"><strong>[00:45:52]</strong> </span>
+<span class="speaker"><strong>发言人1: </strong></span>
+如果有这个路子的话，好像也不介意。
+</p>
+<p class="transcript-line">
+<span class="time"><strong>[00:45:58]</strong> </span>
+<span class="speaker"><strong>发言人2: </strong></span>
+写代码也是卖艺。
+</p>
+<p class="transcript-line">
+<span class="time"><strong>[00:46:00]</strong> </span>
+<span class="speaker"><strong>发言人3: </strong></span>
+多年之后江湖上就会流传一个传奇的故事，说酒吧有个驻唱歌手，然后他私底下其实是一个非常厉害的程序员。
+</p>
+<p class="transcript-line">
+<span class="time"><strong>[00:46:11]</strong> </span>
+<span class="speaker"><strong>发言人1: </strong></span>
+洗过非常多，那不是跟那个跟他。
+</p>
+<p class="transcript-line">
+<span class="time"><strong>[00:46:14]</strong> </span>
+<span class="speaker"><strong>发言人2: </strong></span>
+现在太多了，新裤子还是什么？不是，乐队的夏天里不是也有。
+</p>
+<p class="transcript-line">
+<span class="time"><strong>[00:46:18]</strong> </span>
+<span class="speaker"><strong>发言人1: </strong></span>
+对，那个键盘手不是太多。
+</p>
+<p class="transcript-line">
+<span class="time"><strong>[00:46:20]</strong> </span>
+<span class="speaker"><strong>发言人2: </strong></span>
+许嵩也是写代码，刘谦都是写过代码的。
+</p>
+<p class="transcript-line">
+<span class="time"><strong>[00:46:23]</strong> </span>
+<span class="speaker"><strong>发言人1: </strong></span>
+刘谦是用from pay去写的，应该是对。
+</p>
+<p class="transcript-line">
+<span class="time"><strong>[00:46:27]</strong> </span>
+<span class="speaker"><strong>发言人2: </strong></span>
+这就是我今年的。
+</p>
+<p class="transcript-line">
+<span class="time"><strong>[00:46:28]</strong> </span>
+<span class="speaker"><strong>发言人1: </strong></span>
+所以到我了吗？好，来。
+</p>
+<p class="transcript-line">
+<span class="time"><strong>[00:46:31]</strong> </span>
+<span class="speaker"><strong>发言人2: </strong></span>
+我也今年好像因为我记之前今年大概3 4月份的时候写过一篇来美国两年后的一个总结。所以今年的年度总结我就在想，大部分其实那篇文章里也说了，就大部分都是这些心理上的感受。生活上面如果说特别大的变化，可能就是HYB抽中了。
+</p>
+<p class="transcript-line">
+<span class="time"><strong>[00:46:52]</strong> </span>
+<span class="speaker"><strong>发言人3: </strong></span>
+对。
+</p>
+<p class="transcript-line">
+<span class="time"><strong>[00:46:53]</strong> </span>
+<span class="speaker"><strong>发言人2: </strong></span>
+就工作之外我说但这个完全跟我的就是完全是靠运气，这个跟我完全跟努力没有关系。被动剂？随机发生的，然后叠加我之前身份办绿卡这些进度问题，就现在基本上没有身份焦虑了。所以可以想更多的事情就是进行下一个五年规划。我一般都会有一个比较长远的这个念头，都不算规划，就是一个想法。我比如说在内地的时候，我想着说要去海外，然后到了香港的时候，我可能想着说要去美国。现在我又有一个新的念头，就感觉。
+</p>
+<p class="transcript-line">
+<span class="time"><strong>[00:47:30]</strong> </span>
+<span class="speaker"><strong>发言人3: </strong></span>
+再说出来大胆，说出来不行。
+</p>
+<p class="transcript-line">
+<span class="time"><strong>[00:47:34]</strong> </span>
+<span class="speaker"><strong>发言人2: </strong></span>
+说出来就一般会都做不成了。什么事以密成言以泄败。我觉得这个真的就是你一般如果你真想做一个事儿，取决于不同事儿了。但是我是我是说像我这种念头的这种东西，就是不要说出来，说出来一般就做不成了。然后我现在又有一个新的念头，因为我现在还没到35岁，我在想35岁之前可能是不是还能折腾一下？
+</p>
+<p class="transcript-line">
+<span class="time"><strong>[00:47:59]</strong> </span>
+<span class="speaker"><strong>发言人3: </strong></span>
+如果过了35岁可能。
+</p>
+<p class="transcript-line">
+<span class="time"><strong>[00:48:00]</strong> </span>
+<span class="speaker"><strong>发言人2: </strong></span>
+就可能过了35岁就settle down了，就彻底没有这个念头要折腾了，我不知道，所以现在我还在纠结。然后这个念头还没有彻底的开始执行，但是反正一直在想我，而我这个人但凡开始想我可能就会慢慢去往这方面靠，然后去去采取一些行动什么的。对，所以总体来说，我觉得生活上最大改变就是没有身份焦虑了。其他的就是孩子、家庭都非常的好，我们也比较适应美国的生活了。最起码周末不是，从来周末基本上不会感到无聊了，我们周末都会有一些安排。然后没错，也认识了本地很多朋友，社交圈逐渐扩大了起来，就发现也挺有意思。主要其实主要还是先适应了这个生活的节奏，然后你就知道怎么去扩展社交圈之类的。
+</p>
+<p class="transcript-line">
+<span class="time"><strong>[00:48:49]</strong> </span>
+<span class="speaker"><strong>发言人2: </strong></span>
+其他的话工作上面比较大的成就就是升职做manager然后对，做manager这也是一个比较大的改变，就是你的这个肉完全变了，觉得也是一个挺有意思的经历。就是我在做之前可能想的就是你做manager可能就是要开会。这是其实是一个比较符合直觉的对manager的一个印象刻板印象就是你做manager就是要开会，然后去撕逼，然后去跟人吵，争资源什么的。但我后来发现自己做了的时候，我其实现在时间也不是很长。读了一些书，反正因为从别的人身上学习的话，可能不是那么直接。
+</p>
+<p class="transcript-line">
+<span class="time"><strong>[00:49:29]</strong> </span>
+<span class="speaker"><strong>发言人2: </strong></span>
+然后先从书里先学，我自己其实有一些体会了，但是这些想法都还不是很成熟，所以等我再体验一年，我觉得至少再体验一年，我才知道自己到底适不适合。所以现在其实还是一个试验期，我我我自己想做完全是因为我想体验，然后我也是这样的一个人，就是基本上先体验，体验完了之后我才能有发言权去判断我到底适不适合做这个东西。可能明年的现在我就会知道适不适合做manager。但是从现在的观察来看，好像还蛮适合的。然后我也消除了刚才对manager的一些刻板印象，就是他不是开会，开会不是特别重要，最重要的是建立一个团队的氛围，然后能让大家更好的工作，这个是比较重要的。
+</p>
+<p class="transcript-line">
+<span class="time"><strong>[00:50:09]</strong> </span>
+<span class="speaker"><strong>发言人2: </strong></span>
+然后今年反正我自己也蛮期待的，期待自己在新的这个角色上面，工程上面有一些突破，顺便也顺应AI时代，因为现在前端我们都聊了好多遍，前端已死。我自己也有这个感觉，就是现在好多时间你写代码，甚至你用什么FIGMA，他出的那个AI功能叫FIGMA make，就是他把设计图直接给你，然后顺便就能给你把react都写好了。我有的时候都觉得是不是前端真的不需要写代码。我自己今年的感受是大部分的我有50%超过50的代码都是AI写的。现在这个也是我的一个感受，然后明年再看一下AI到底会把程序员或者说会把前端变成什么样子。
+</p>
+<p class="transcript-line">
+<span class="time"><strong>[00:50:53]</strong> </span>
+<span class="speaker"><strong>发言人3: </strong></span>
+我已经预感到明年我们这个时候再聊的时候，那是会是非常精彩的一期。
+</p>
+<p class="transcript-line">
+<span class="time"><strong>[00:50:59]</strong> </span>
+<span class="speaker"><strong>发言人2: </strong></span>
+那那也没有我觉得可能就是我都是在学习的过程。如果从当下的这个体验来出发，就是我觉得又找到了一些有点像刚做程序员的时候的状态。之前我在想manager可能是一个这个人天生适合做manager，他就做manager然后我自己做了一段时间的感受就是它是一个技能，它是需要学的，特别像学编程一样，都是有一些方法论，甚至是一些inset。这些inset就是你得经过不断的实践，就像写前端一样。你不是说好像今天看了那个react or JS的API你就会了，反而是你在这个项目中不停的用那个API。然后比如说use effect，为什么要跑两次，然后你慢慢用你就知道了。所以我现在又回到这个状态，就是不停的学，然后不停的去看各方面的书籍，顺便也学AI。
+</p>
+<p class="transcript-line">
+<span class="time"><strong>[00:51:47]</strong> </span>
+<span class="speaker"><strong>发言人2: </strong></span>
+我感觉AI也蛮重要的，比如说像那个什么generate UI这个肯定是个趋势，所以我自己也想多学一下这方面的东西。所以如果有我们听众里有大佬也可以来不吝赐教一下，就是教教我到底从哪学起。我自己其实不知道，我总是忙于关注这种大厂发布的产品，自己体验完了。但是其实我不知道到底体验了个什么东西，对吧？就是别人好像发了一个prot做出来效果特别好，我自己试了一下效果也特别好，然后就完了，就没有什么后续的想法，也不知道怎么该进一步应用在生活里面，甚至不知道它的原理。
+</p>
+<p class="transcript-line">
+<span class="time"><strong>[00:52:23]</strong> </span>
+<span class="speaker"><strong>发言人2: </strong></span>
+就是你可能你得往上一层是说怎么应用，往下一层就是你你得知道一下他到底为什么有这个能力，所以我自己的想法就是在这些知识跟技能层面多深挖一下。总体来说就是比较平淡的一年。我我现在我感觉就是每年都比较平淡了，不像二十多岁的时候，每年写那个年终总结，好有好多可写的。现在写年终总结基本上都是一些叫什么形而上学的东西了。
+</p>
+<p class="transcript-line">
+<span class="time"><strong>[00:52:48]</strong> </span>
+<span class="speaker"><strong>发言人3: </strong></span>
+你虽然这样讲，我听下来总觉得你刚才也说你在憋波大的，表面这样说的很平淡。
+</p>
+<p class="transcript-line">
+<span class="time"><strong>[00:52:54]</strong> </span>
+<span class="speaker"><strong>发言人2: </strong></span>
+没有没有我我如果再憋一波大的，刚才提到的所谓的念头，如果再试试。对，但是那个那个可能是确实比较大。但我现在觉得自己年纪也到了，然后有有家庭，有有孩子们，可能不是那么容易实现。如果是我孑然一身，你知道吧？就一个单身的话，真的是想想去哪儿就去哪儿。
+</p>
+<p class="transcript-line">
+<span class="time"><strong>[00:53:19]</strong> </span>
+<span class="speaker"><strong>发言人2: </strong></span>
+对，刚刚才我说的好像听起来有点负面，但我想说的是有孩子其实是一个对人生非常大的改变，超出你想象的，我认同，我引用那个DHH跟lex freedom那个博客里面，他聊到的就是说人的幸福度，如果按这个从0到1从1到10来排的话，养孩子的幸福度是100万，拥有孩子拥有家庭的幸福都是一百。而且他说这种体验只有拥有了之后才能感受到的。是你花多少钱去找多少类似的项目，去追求多极限的幸福的体验都体验不到。你只能体验到10，就是你的人类的幸福度，你能花钱，你能体验的，在养孩子之前能体验的只有到10。然后等你有了孩子之后，你的那个幸福度一下就会提升到100。他是这么说的，然后我当时一下就觉得很有道理。
+</p>
+<p class="transcript-line">
+<span class="time"><strong>[00:54:17]</strong> </span>
+<span class="speaker"><strong>发言人1: </strong></span>
+我认为我很喜欢继续生孩子。
+</p>
+<p class="transcript-line">
+<span class="time"><strong>[00:54:21]</strong> </span>
+<span class="speaker"><strong>发言人3: </strong></span>
+可以，你上次不都催催残树了吗？
+</p>
+<p class="transcript-line">
+<span class="time"><strong>[00:54:28]</strong> </span>
+<span class="speaker"><strong>发言人2: </strong></span>
+真的，我不是怎么说催生，但是确实都还没催婚。
+</p>
+<p class="transcript-line">
+<span class="time"><strong>[00:54:34]</strong> </span>
+<span class="speaker"><strong>发言人3: </strong></span>
+就直接催生了是吧？
+</p>
+<p class="transcript-line">
+<span class="time"><strong>[00:54:36]</strong> </span>
+<span class="speaker"><strong>发言人2: </strong></span>
+催婚我也可以催。也是引用我我来引用了这个，我来引用DHH他那个podcast。因为我觉得我自己其实有类似的感受，但是我表达的没人家好。
+</p>
+<p class="transcript-line">
+<span class="time"><strong>[00:54:47]</strong> </span>
+<span class="speaker"><strong>发言人2: </strong></span>
+他说很多人创业在硅谷，他其实他也是创业，对吧？Base camp他做的很成功。对，他说很多人在硅谷创业，其实跟他做的是类似的事情，是但是他们投入了百分百的精力去创业，然后牺牲了生活上的很多东西。
+</p>
+<p class="transcript-line">
+<span class="time"><strong>[00:55:03]</strong> </span>
+<span class="speaker"><strong>发言人2: </strong></span>
+然后他就引申了一下，他说如果一个人在任何一个领域要做到世界的top 1%，那你几乎是要牺牲你所有的其他的事情的。比如说生活、家庭、OK，还有任何业余的你的爱好几乎都没有你你只能专注一件事情，才能把一个事做到1%这么牛。但是他说如果你选择做事情的5%，那会轻松特别多。然后他就选择这条路，然后他说他把三个领域做到了世界的前5%，同时拥有了家庭。然后他说拥有家庭的幸福度，那是其他人完全不能比的。他说你对比一个硅谷成功创业的大佬，他可能身家是他的十倍。
+</p>
+<p class="transcript-line">
+<span class="time"><strong>[00:55:42]</strong> </span>
+<span class="speaker"><strong>发言人2: </strong></span>
+然后他就会发现这个人当他35岁回顾以前的时候，他的生活只有创业OK是比较无趣的。但是像DHS40岁他往前回顾的时候，他会发现他的生活太丰富了。有赛车，有写代码，还有生孩子，还有家庭。遇到他老婆中间特别逗。然后next freeman说他特别渴望跟人有那种长时间的会议，他觉得这样能缓解他的孤独。然后那个DHH就是说你最重要的是需要一个老婆，他他觉得主版本。
+</p>
+<p class="transcript-line">
+<span class="time"><strong>[00:56:13]</strong> </span>
+<span class="speaker"><strong>发言人1: </strong></span>
+应该是gay的。
+</p>
+<p class="transcript-line">
+<span class="time"><strong>[00:56:15]</strong> </span>
+<span class="speaker"><strong>发言人3: </strong></span>
+我的天，怎么突然来一句。我们这标题又有了，我不知道节目的标题又有。
+</p>
+<p class="transcript-line">
+<span class="time"><strong>[00:56:24]</strong> </span>
+<span class="speaker"><strong>发言人1: </strong></span>
+那我们各自的回顾也就差不多了。
+</p>
+<p class="transcript-line">
+<span class="time"><strong>[00:56:28]</strong> </span>
+<span class="speaker"><strong>发言人3: </strong></span>
+新年展望了，有啊。
+</p>
+<p class="transcript-line">
+<span class="time"><strong>[00:56:29]</strong> </span>
+<span class="speaker"><strong>发言人1: </strong></span>
+新年展望，生孩子。
+</p>
+<p class="transcript-line">
+<span class="time"><strong>[00:56:38]</strong> </span>
+<span class="speaker"><strong>发言人2: </strong></span>
+根据吸引力法则来说，我跟吸引力法则来说，好像我暗示了好多次red Randy，特别像三年前的我。如果这么算的话。那ready你确实要快了，到了是吧？时机已经到了，时机已经到了。
+</p>
+<p class="transcript-line">
+<span class="time"><strong>[00:56:56]</strong> </span>
+<span class="speaker"><strong>发言人3: </strong></span>
+如果我们的听众朋友希望。
+</p>
+<p class="transcript-line">
+<span class="time"><strong>[00:57:03]</strong> </span>
+<span class="speaker"><strong>发言人2: </strong></span>
+不是人，应该是这样的，我半天不是，应该是这样的。如果本期节目点赞破百。
+</p>
+<p class="transcript-line">
+<span class="time"><strong>[00:57:12]</strong> </span>
+<span class="speaker"><strong>发言人3: </strong></span>
+破百太少了，破1万.
+</p>
+<p class="transcript-line">
+<span class="time"><strong>[00:57:17]</strong> </span>
+<span class="speaker"><strong>发言人2: </strong></span>
+点赞破万Randy就去。
+</p>
+<p class="transcript-line">
+<span class="time"><strong>[00:57:19]</strong> </span>
+<span class="speaker"><strong>发言人3: </strong></span>
+我们不然明年搞一个新的专栏，给Randy相亲的板块是吧？然后我们也那个做，我跟gig plus就是什么场外导师给你点评一下。
+</p>
+<p class="transcript-line">
+<span class="time"><strong>[00:57:35]</strong> </span>
+<span class="speaker"><strong>发言人2: </strong></span>
+阮Randy这句话没有发挥好啊。
+</p>
+<p class="transcript-line">
+<span class="time"><strong>[00:57:38]</strong> </span>
+<span class="speaker"><strong>发言人1: </strong></span>
+今天我们的节目就到这里，谢谢大家，谢谢到了现场的朋友，也谢谢各位到了现场的。
+</p>
+<p class="transcript-line">
+<span class="time"><strong>[00:57:45]</strong> </span>
+<span class="speaker"><strong>发言人3: </strong></span>
+朋友也支持。
+</p>
+<p class="transcript-line">
+<span class="time"><strong>[00:57:46]</strong> </span>
+<span class="speaker"><strong>发言人1: </strong></span>
+我们的节目。
+</p>
+<p class="transcript-line">
+<span class="time"><strong>[00:57:48]</strong> </span>
+<span class="speaker"><strong>发言人3: </strong></span>
+新年快乐。
+</p>
+<p class="transcript-line">
+<span class="time"><strong>[00:57:49]</strong> </span>
+<span class="speaker"><strong>发言人1: </strong></span>
+希望我们下一年可以做出更大更多更好的内容。
+</p>
+<p class="transcript-line">
+<span class="time"><strong>[00:57:53]</strong> </span>
+<span class="speaker"><strong>发言人2: </strong></span>
+同时也要感谢我们一直以来的赞助商relink o每个月给我们固定打钱的金主爸爸。希望这样的赞助商越来越多，然后支持我们频道能一直走下去。
+</p>
+<p class="transcript-line">
+<span class="time"><strong>[00:58:06]</strong> </span>
+<span class="speaker"><strong>发言人1: </strong></span>
+谢谢，就这样拜拜。
+</p>
+<p class="transcript-line">
+<span class="time"><strong>[00:58:10]</strong> </span>
+<span class="speaker"><strong>发言人3: </strong></span>
+以上就是本期节目的全部内容，欢迎给我们点赞、转发和评论。想订阅我们的节目，请在小宇宙、苹果播客、哔哩哔哩和youtube搜索代码之外，也欢迎您在爱发电或上述任意平台给我们打赏。想提供任何素材或话题，欢迎通过show notes中的听众来信链接给我们提问，我们下期节目不见不散。
+</p>]]></content:encoded>
+            <pubDate>Tue, 30 Dec 2025 05:09:25 GMT</pubDate>
+            <guid>69535c0214db1df9ef78a538</guid>
+        </item>
         <item>
             <title>听众来信 #27 大学里技能树怎么点？职业方向选什么？创业？</title>
             <link>https://www.xiaoyuzhoufm.com/episode/694b27240b60b7bf751b5cdf</link>
@@ -30845,408 +32385,6 @@ IT可以。
 </p>]]></content:encoded>
             <pubDate>Wed, 30 Oct 2024 00:21:46 GMT</pubDate>
             <guid>67214d89cbe0e69c8ba3050e</guid>
-        </item>
-        <item>
-            <title>听众来信 #15 经常加班如何提升自己的技术水平？</title>
-            <link>https://www.xiaoyuzhoufm.com/episode/670f70fe0d2f24f289884abd</link>
-            <description>「经常加班如何提升自己的技术水平？每天回家基本都10点以后了，什么也不想干。很佩服 Randy 能在阿里工作的情况下还能做自己的 side project」
-主播：Randy, GeekPlux, 勾股
----
-号外：
-10 月 25 日到 26 日，RTE 开发者社区联合声网策划的 RTE 大会 2024 将在北京举行。今年的技术论坛将覆盖前沿音视频技术、AI 生成视频、Voice AI、多模态大模型、空间计算和新硬件、云边端架构和 AI Infra 等话题。同期还有开发者市集、动手编程工作坊、创新大赛路演等活动。
-即日起开始限免报名！获取《代码之外》听众限免门票：点击获取
----
-代码之外 Beyond Code 是一档闲聊节目，从程序员的视角探索和感受世界。我们每期节目都有视频和音频版，欢迎关注我们：
-* 主页
-* YouTube
-* 哔哩哔哩
-* 打赏我们一杯咖啡
-* 商务合作 beyondcodefm@gmail.com
-也欢迎在 to.beyondcodefm.com 向我们来信，我们会在下一期节目分享你的来信或解答你的疑惑。
----
-金牌赞助商 / Golden Sponsor
-佐玩 Zolplay 一家成立于2021年的软件开发公司，致力于用软件改善身边世界。我们的使命是打造创新的解决方案，🦄 以提升人们的生活质量并改变我们的生活和工作方式。
-PaddingLeft 是主播 Randy 创立的创意工作者周边品牌。你可以在这里买到高质量的技术贴纸。我们每售出一张开源项目贴纸，会为该项目捐赠 1 元人民币。
-赞助商 / Sponsor
-* Notepal 一键同步微信读书笔记到 Notion, Readwise, Logseq, 思源笔记等笔记软件
-* EpubKit 把网页、博客、文档一键生成 ePub 电子书</description>
-            <content:encoded><![CDATA[<h1>转写链接</h1>
-<link>https://tongyi.aliyun.com/efficiency/doc/transcripts/wg57n3a54g6jqkr3</link><br>
-<h1>节目摘要</h1>
-<div class="summary">本次对话重点讨论了提升技术水平的重要性，特别是在加班后如何有效管理时间。建议即使在长时间工作后，也要利用碎片时间关注行业动态，如浏览社交媒体和专业文章。对于个人项目，不一定要追求大型项目，即使是小型的实验性质demo也能有效提升技术能力。强调了合理分配时间和精力的重要性，即使无法每天投入大量时间，也应保持对新技术的兴趣和学习。此外，提出了保持博客更新和做技术笔记作为自我提升的方式。最后，鼓励听众积极参与节目互动，通过提供素材或提出问题等方式，促进技术社区的交流。</div><br>
-<h1>章节速览</h1>
-<div class="chapters">
-<div class="chapter-item">
-<span class="time"><strong>[00:00:00]</strong> </span>
-<span class="chapter-title"><strong>RTE大会2024即将在北京举行</strong></span>
-<div class="chapter-summary">RTE开发者社区联合深网主办的RTE大会2024将于10月25日至26日在北京举行。大会将覆盖音视频技术、AI生成视频、Voice AI、多模态大模型等前沿技术话题，并举办开发者动手编程比赛、创新大赛路演等活动。即日起开放限免报名，同时邀请听众参与快闪摊位活动，为开发者和项目提供展示交流的平台。</div>
-</div>
-<div class="chapter-item">
-<span class="time"><strong>[00:00:52]</strong> </span>
-<span class="chapter-title"><strong>加班文化与个人成长：找到平衡点</strong></span>
-<div class="chapter-summary">面对经常加班的情况，提高技术水平和保持个人项目的热情变得挑战重重。在阿里工作的同时，保持对技术的关注和热情成为了可能。尽管加班减少了个人项目的时间，但仍可通过持续关注行业动态、新技术趋势来维持对技术的热情和了解，将这些看作是一种消遣方式，而非额外负担。此外，处于职业生涯的不同阶段，对个人项目的热情和投入也会有所变化，找到工作与个人成长之间的平衡点至关重要。</div>
-</div>
-<div class="chapter-item">
-<span class="time"><strong>[00:03:47]</strong> </span>
-<span class="chapter-title"><strong>应对工作与个人项目精力分配的建议</strong></span>
-<div class="chapter-summary">建议对于工作之外没有精力写代码的情况，可以不必强迫自己写代码，而是通过关注技术社区中他人分享的内容来保持技术敏感度。强调了理解个人精力有限的重要性，提出在感觉疲惫时不必强求自己，但同时也不应期望在不付出努力的情况下获得成果。比较了人们在面对困难和挑战时的态度，指出成功和进步来自于持续的努力和付出，而非寻求捷径。</div>
-</div>
-<div class="chapter-item">
-<span class="time"><strong>[00:07:38]</strong> </span>
-<span class="chapter-title"><strong>从失败者角度分享项目管理的教训</strong></span>
-<div class="chapter-summary">分享者以自身经历强调了在项目开发过程中，编程速度与想法产生的速度相匹配的重要性。指出当有强烈想法时，初期的热情可能会因环境配置、读文档等前期工作而消退，导致项目难以持续。建议对于有想法的人，应迅速行动，尽快制作出MVP版本以保持动力和可见性，同时提醒要集中精力于项目的核心，而非细节选择，如技术栈的决定。分享者通过自身经历强调了执行力和速度在编程中的关键作用。</div>
-</div>
-<div class="chapter-item">
-<span class="time"><strong>[00:09:53]</strong> </span>
-<span class="chapter-title"><strong>加班与提升技术水平</strong></span>
-<div class="chapter-summary">讨论集中在如何在频繁加班的情况下提升个人的技术水平。加班导致回家较晚，减少个人提升时间，但通过有效利用工作时间，如利用摸鱼时间学习新技术，可以实现技术水平的提升。同时，建议即使加班频繁，也应尝试每周固定时间进行自我提升，保持对技术的关注和学习，对于改善工作与学习的平衡提出了见解。</div>
-</div>
-<div class="chapter-item">
-<span class="time"><strong>[00:12:22]</strong> </span>
-<span class="chapter-title"><strong>提升个人技能：从项目实践到技术探索</strong></span>
-<div class="chapter-summary">对话内容主要探讨了如何通过实践项目和探索新技术来提升个人技能。一个有效的方法是将想做的事情安排在精力充沛的早上，尽管面临压力和时间的挑战，但通过持续的实践，可以积累经验和技能。讨论还提到了创建自己的项目（不一定要完全完成），使用私有仓库做技术demo，以及探索和实践新工具的重要性。此外，也分享了个人在技术学习和项目实践中的经验和教训，强调了持续探索和实践新技术对于技能提升的重要性。</div>
-</div>
-</div><br>
-<h1>问题回顾</h1>
-<div class="qa-item">
-<div class="question"><strong>Q:</strong> 在RTE大会中，如果开发者有自己的项目，想在大会上展出交流，应该如何报名？</div>
-<div class="answer"><strong>A:</strong> 欢迎开发者报名参加RTE大会的开发者四集动手编程工作坊创新大赛路演等活动。如果想在大会上展出自己的项目，可以在相关活动中报名，并提供项目信息，以便进行展示和交流。</div>
-</div>
-<div class="qa-item">
-<div class="question"><strong>Q:</strong> 对于经常加班如何提升自身技术水平的问题，以及每天工作后精力有限不想做其他事情的情况，应该如何应对？</div>
-<div class="answer"><strong>A:</strong> 这个问题确实常见，我的个人经历是，在阿里工作期间，由于精力和第二次青春期的成长阶段，减少了自己的side project投入，转而更多关注业界新技术和趋势。即使不大量写代码，也可以通过关注技术社区、阅读他人项目、博客等方式来了解最新的技术动态。对于精力有限无法坚持写代码的情况，我的建议是可以适当减少代码编写，但持续关注技术发展，因为这本身也是一种学习和提升的过程。如果感到疲惫，不必强求自己必须写代码，尽力而为即可，不必过于苛求结果。</div>
-</div>
-<div class="qa-item">
-<div class="question"><strong>Q:</strong> 针对听众反映的在工作之余没有足够精力参与side project的情况，有何建议？</div>
-<div class="answer"><strong>A:</strong> 我认同不必一定要写代码，可以关注技术社区、看别人的项目、阅读文章等方式来获取灵感和技术更新。每个人都有精力限制，重要的是尽力而为，不必强求与他人比较。在压力大的情况下，允许自己放松，但如果真心想做，仍然应该坚持尝试，因为成功往往来自于不断的努力和付出。</div>
-</div>
-<div class="qa-item">
-<div class="question"><strong>Q:</strong> 如何在工作与side project之间找到平衡，尤其是在感到疲惫的时候？</div>
-<div class="answer"><strong>A:</strong> 找到这个平衡确实不易，但要明白没有人能轻易地在工作之余取得显著成就。关键在于个人是否愿意付出额外的努力。当感到疲惫时，可以适时放松，但同时要意识到，看到他人在这个阶段也能产出成果并非因为他们有特殊秘诀，而是他们选择了坚持和付出。</div>
-</div>
-<div class="qa-item">
-<div class="question"><strong>Q:</strong> 对于经常有想法但无法坚持到底的情况，如何改变？</div>
-<div class="answer"><strong>A:</strong> 建议像Randy或Egos那样，当天有新想法时，应在2小时内快速构建一个MVP（最小可行性产品），无论技术熟练度如何，至少完成一个可工作、能展示给他人看的产品，并从中获得成就感。对于技术菜一些的人来说，要重点抓住产品的核心部分，先实现主要功能，而不是纠结于细节。</div>
-</div>
-<div class="qa-item">
-<div class="question"><strong>Q:</strong> 如何在加班的同时提升自身技术水平？</div>
-<div class="answer"><strong>A:</strong> 提升技术水平不仅限于下班后的时间，工作中也可以通过关注业界动态、阅读技术文章等方式提升。例如，在工作间隙浏览Twitter上的大佬讨论或研究新的技术，这些都能增加技术水平。此外，可以尝试在每天固定的时间段做一些个人项目或练习，即使时间不长也能有效积累经验。</div>
-</div>
-<div class="qa-item">
-<div class="question"><strong>Q:</strong> 如何利用业余时间更有效地提升技术水平？</div>
-<div class="answer"><strong>A:</strong> 除了完成个人项目外，还可以制作简单的demo来熟悉新工具和技术，并在本地私有仓库中保存这些demo，随时回顾和更新。此外，将新发现的开源项目或工具记录下来，待有时间时制作demo，这样既能降低压力，也能在实践中提升技术水平，逐渐形成自己的实践框架（POC）。</div>
-</div>
-<div class="qa-item">
-<div class="question"><strong>Q:</strong> 对于每天下班很晚的情况，有何建议？</div>
-<div class="answer"><strong>A:</strong> 可以考虑在晚上十点之前进行一些轻松的活动，如休息或者做一些简单的练习，保持身体和精力的恢复。同时，可以尝试在早上安排固定的时间来做自己喜欢的事情或学习新的技术，利用早上充沛的精力进行高效学习和实践。</div>
-</div>
-<div class="qa-item">
-<div class="question"><strong>Q:</strong> 做自己的项目时，是否一定要完成并公开？</div>
-<div class="answer"><strong>A:</strong> 不一定非要完成一个完整的项目并公开获取star，实际上，在开发过程中不断实践、尝试新技术，即使过程中遇到别人也做了类似项目，这个过程本身就是技术水平提升的过程。通过记录demo，甚至重构现有项目，都可以加深对技术的理解和掌握，从而提升技术水平。</div>
-</div>
-<h1>节目文稿</h1>
-<p class="transcript-line">
-<span class="time"><strong>[00:00:00]</strong> </span>
-<span class="speaker"><strong>发言人1: </strong></span>
-节目开始之前插播一个广告，10月25日到26日，RTE开发者社区联合深网策划的RTE大会2024将在北京举行。今年的技术论坛将覆盖前沿音视频技术AI生成视频voice AI多模态大模型、空间计算、核心硬件、云边端架构和AI infer等话题。同期还有开发者四集动手编程工作方创新大赛路演等活动，期待与你一起探索实时互动的更多可能性。
-</p>
-<p class="transcript-line">
-<span class="time"><strong>[00:00:31]</strong> </span>
-<span class="speaker"><strong>发言人1: </strong></span>
-即日起开始限免报名，获取代码之外，听众限免门票，专属邀请链接在show note。与此同时欢迎参加快闪摊位报名活动。如果你也是开发者，也有你自己的项目，想在RTE大会上展出交流，欢迎报名。欢迎收听新一期的听众来信栏目。我是Randy.
-</p>
-<p class="transcript-line">
-<span class="time"><strong>[00:00:52]</strong> </span>
-<span class="speaker"><strong>发言人2: </strong></span>
-我是geek plus.
-</p>
-<p class="transcript-line">
-<span class="time"><strong>[00:00:53]</strong> </span>
-<span class="speaker"><strong>发言人3: </strong></span>
-我是狗狗。
-</p>
-<p class="transcript-line">
-<span class="time"><strong>[00:01:00]</strong> </span>
-<span class="speaker"><strong>发言人3: </strong></span>
-经常加班如何提升自己的技术水平，这是第一个问题。第二个问题，每天回家基本都十点以后了，什么也不想干。很佩服Randy能在阿里工作的情况下还能做自己的side project。对，其实就是一个问题了，后面是他的备注。
-</p>
-<p class="transcript-line">
-<span class="time"><strong>[00:01:20]</strong> </span>
-<span class="speaker"><strong>发言人2: </strong></span>
-我们是不是回答过类似的？
-</p>
-<p class="transcript-line">
-<span class="time"><strong>[00:01:23]</strong> </span>
-<span class="speaker"><strong>发言人1: </strong></span>
-是的。
-</p>
-<p class="transcript-line">
-<span class="time"><strong>[00:01:23]</strong> </span>
-<span class="speaker"><strong>发言人3: </strong></span>
-不过有也你看我们现在节目也做了这么多新的感想，我们也不能假设听众都每一期都听过了，是吧？我们现在很多期节目了。
-</p>
-<p class="transcript-line">
-<span class="time"><strong>[00:01:34]</strong> </span>
-<span class="speaker"><strong>发言人1: </strong></span>
-我觉得他说很佩服我在阿里工作的情况下还能做自己的事对。
-</p>
-<p class="transcript-line">
-<span class="time"><strong>[00:01:39]</strong> </span>
-<span class="speaker"><strong>发言人3: </strong></span>
-分享一下你的心得。
-</p>
-<p class="transcript-line">
-<span class="time"><strong>[00:01:42]</strong> </span>
-<span class="speaker"><strong>发言人1: </strong></span>
-我觉得其实我自己也会觉得很累，这是实话。甚至如果你看我的博客，你会发现，从我到了杭州开始，进了蚂蚁开始的那一年，我的博客写的是最少的OK。我已经甚至没有精力再去写什么文章，然后工作之外的代码其实也写的很少了。
-</p>
-<p class="transcript-line">
-<span class="time"><strong>[00:02:12]</strong> </span>
-<span class="speaker"><strong>发言人1: </strong></span>
-其实我是从去了蚂蚁那边之后，开始慢慢的减少了这一座cyp project的事件的。一方面是因为确实精力上没有办法兼顾，另一方面是我觉得当时在处于一个自己的有一本书把这个叫做第二次的青春期。我怎么说？就是第一次的青春其实是在你的18岁。对，而第二次的青春其实是在你的28岁左右，你开始积攒了一些社会经验，然后再重新来审视自己应该走哪一条路。
-</p>
-<p class="transcript-line">
-<span class="time"><strong>[00:02:52]</strong> </span>
-<span class="speaker"><strong>发言人1: </strong></span>
-OK, 我当时就刚好去，我感觉是处在那段时间，我觉得我好像不是那么想把大量的时间花在写side project的这个事情上面。所以当时我是这样的情况。但是当然我还是会，我虽然不写那么多，但是我还是每天很多时间都是接触跟代码相关的东西。我只是不写对吧？因为写开源项目不一定有人用，然后你自己也觉得OK对吧？所以我只是不写，但是我还是会持续的关注这个业界在发生什么事情，这些人在关注什么样的新的技术，有什么新的趋势，这些我都是很关注的。对我来说这个跟看美剧没有什么区别，都是都都都会让我觉得挺很兴奋的一些事情，所以对我来说是没什么压力。
-</p>
-<p class="transcript-line">
-<span class="time"><strong>[00:03:47]</strong> </span>
-<span class="speaker"><strong>发言人1: </strong></span>
-所以我觉得我能给的一个建议就是如果他有跟这位朋友一样的这个烦恼，觉得说在工作之外没有再没有精力去写代码，那我觉得完全是可以不写。你没有必要一定要写代码，你可以去看看别人，看别人在你比如说你follow一些做技术的人的twitter或者其他的社交网站github什么的。你去follow这些人每天都刷一下，看一下他们在star什么东西，然后他们再转什么文章，我觉得这已经比我觉得比一半的人要。
-</p>
-<p class="transcript-line">
-<span class="time"><strong>[00:04:30]</strong> </span>
-<span class="speaker"><strong>发言人3: </strong></span>
-或者就是尽力而为是吧，做比不做好对吧，能做到哪里算哪里。
-</p>
-<p class="transcript-line">
-<span class="time"><strong>[00:04:35]</strong> </span>
-<span class="speaker"><strong>发言人1: </strong></span>
-不需要说强求一定要写代码什么的。确实写代码是一个很累的事情，但是当然我有时候也很累也会写。但是因为我觉得我我相信在当时那个状态下，我相信我写的这个东西牛逼的要死，我就不做就睡不着。
-</p>
-<p class="transcript-line">
-<span class="time"><strong>[00:04:54]</strong> </span>
-<span class="speaker"><strong>发言人3: </strong></span>
-对这种这种对对对对。
-</p>
-<p class="transcript-line">
-<span class="time"><strong>[00:04:55]</strong> </span>
-<span class="speaker"><strong>发言人1: </strong></span>
-就会有这种。但是如果你没有这种的话，就没有必要强求。所以说其实我我我做咨询也被问过很多这样的问题，就是精力工作跟cy project怎么去分配。
-</p>
-<p class="transcript-line">
-<span class="time"><strong>[00:05:11]</strong> </span>
-<span class="speaker"><strong>发言人1: </strong></span>
-这个问题问出来了之后，其实是很难，这车其实很容易回答我能回答的就是你觉得没有精力，但是如果你想做，你还是要做OK。如果就我没有办法，没有人能给你一个神，就是仙丹或者什么东西的。你吃了之后你精力充沛，然后什么什么对吧？不可能？大家每个人都是只有24小时，不会说我给你一些很厉害的建议，让你直接就每天做完工作完之后还有什么精力充沛。没有，这个世界上没有这个东西。所以我只能告诉你的就是每个人都是一样的。
-</p>
-<p class="transcript-line">
-<span class="time"><strong>[00:05:53]</strong> </span>
-<span class="speaker"><strong>发言人1: </strong></span>
-如果你觉得很累，什么也不想干，那就不要干。但是同时你不能说你既不想干，又想要取得一个比别人更多的结果，对吧？我不是说这位朋友是这么想，我的我的意思是说我的想法是这样子的，就是说每个人都会遇到这样的问题。
-</p>
-<p class="transcript-line">
-<span class="time"><strong>[00:06:15]</strong> </span>
-<span class="speaker"><strong>发言人1: </strong></span>
-而如果你看到一些人在这种情况下还能做出来一点东西的话，那不是因为他有什么诀窍，不是因为他有什么特效药。对，特效药，而是他在这个情况下他依然的这这是唯一的方法这是唯一的方法。也跟取经一样，谁知道是男的对吧？为什么你看西游记里面，为什么你看孙悟空有筋斗云十万八千里，他妈直接背着唐僧直接去飞过去，西天不就直接去就完事了吗？对，那不行，菩萨就是说你一定要走路。
-</p>
-<p class="transcript-line">
-<span class="time"><strong>[00:06:54]</strong> </span>
-<span class="speaker"><strong>发言人3: </strong></span>
-九九八十一难。
-</p>
-<p class="transcript-line">
-<span class="time"><strong>[00:06:56]</strong> </span>
-<span class="speaker"><strong>发言人1: </strong></span>
-对，九九八十一难你不走不是对，就是一个意思。
-</p>
-<p class="transcript-line">
-<span class="time"><strong>[00:07:01]</strong> </span>
-<span class="speaker"><strong>发言人3: </strong></span>
-不是这个有点PUV了。
-</p>
-<p class="transcript-line">
-<span class="time"><strong>[00:07:03]</strong> </span>
-<span class="speaker"><strong>发言人2: </strong></span>
-我觉得你躲PUA了PV了。因为了就因为。
-</p>
-<p class="transcript-line">
-<span class="time"><strong>[00:07:08]</strong> </span>
-<span class="speaker"><strong>发言人1: </strong></span>
-既然他这么问了，我我就我就得这么回答。就是我觉得他问这个问题肯定。
-</p>
-<p class="transcript-line">
-<span class="time"><strong>[00:07:16]</strong> </span>
-<span class="speaker"><strong>发言人3: </strong></span>
-就是不能假装这是一个非常轻松的，就是每个人都很容易可以做到。
-</p>
-<p class="transcript-line">
-<span class="time"><strong>[00:07:21]</strong> </span>
-<span class="speaker"><strong>发言人1: </strong></span>
-对，你就是要有这个预期，没有人可以逃得过这个不是说别人的精力比你充足还是什么的，不是这样子的对，不是说你身体不如别人，不是这样，只是说别人更愿意就付出了。
-</p>
-<p class="transcript-line">
-<span class="time"><strong>[00:07:34]</strong> </span>
-<span class="speaker"><strong>发言人3: </strong></span>
-所谓付出了一些常人就是，对，是啊我觉得。
-</p>
-<p class="transcript-line">
-<span class="time"><strong>[00:07:38]</strong> </span>
-<span class="speaker"><strong>发言人2: </strong></span>
-我可以从一个失败者的角度来分享一下，那个Randy做了还是做了一些set project。但是我是想说，有的时候你的那个编程的速度跟你想法的产生的速度是要相匹配的。这个也是很关键的一点。就是其实有的时候我们不缺想法，或者说有的时候想法枯竭。
-</p>
-<p class="transcript-line">
-<span class="time"><strong>[00:08:03]</strong> </span>
-<span class="speaker"><strong>发言人2: </strong></span>
-不管是什么情况OK。但是你有一个idea让你睡不着的时候，你冲到那个电脑前开始写。结果发现1个小时你在配置环境，然后又花了1个小时你开始读文档，这时候你的热情就已经消退了。我懂的，然后我经常有这种情况。然后第3个小时你可能感觉来了，突然写写了一半的功能都都不用一半儿可能写到30%的时候，你就觉得，我做这个有什么意义呢？已经有现成更好的了OK。然后你突然写了十条理由，说服了刚才睡不着的自己，算了，我还是去睡吧，然后这个东西就搁置了。然后从今天开始，可能你说等周末再弄，然后算了，又又过去了，反正这个东西就一直放在那儿，就可能再也捡不起来了。
-</p>
-<p class="transcript-line">
-<span class="time"><strong>[00:08:48]</strong> </span>
-<span class="speaker"><strong>发言人2: </strong></span>
-所以我觉得像Randy或者说egos的，就我们的共同一个朋友，他主要是快，就是有一个想法，你一定要当天2个小时之内一鼓作。不管你的期待值是怎么样，你最起码要先做一个MVP version出来，做一个最小的版本出来。然后这个能work，能让其他人看到，然后你自己也有成就感，然后大家也能知道你是在做这个事情。这个一定要速度相匹配。像我这种技术比较菜的，就是可能想法很大，然后写一半写到就发现一晚上在折腾那个什么，那就是很简单的一些UX的效果，都停留在那儿。真的对要抓重点的能力也很关键。就一定要先把把你那个产品的想法实现出来，而不是说花在一些细枝末节。我要用VU还是用react呢？然后这种问题让花太久真没意义。
-</p>
-<p class="transcript-line">
-<span class="time"><strong>[00:09:41]</strong> </span>
-<span class="speaker"><strong>发言人1: </strong></span>
-对，确实从技术上是可以，这是一个技巧。对我也觉得是编程的速度确实是也也关键你的执行力，你的速度。
-</p>
-<p class="transcript-line">
-<span class="time"><strong>[00:09:54]</strong> </span>
-<span class="speaker"><strong>发言人3: </strong></span>
-另外我想回到这个问题，因为这问题本身是问如何经常加班还提升自己技术水平，包括提到说每天回家基本都十点了，就非常具体了，辛苦的。从提升技术水平的角度讲，也不光是说下班之后怎么比如说有更强的意志力，或者把set force做好。那我那从提升技术水平的角度，大家觉得有什么建议吗？
-</p>
-<p class="transcript-line">
-<span class="time"><strong>[00:10:26]</strong> </span>
-<span class="speaker"><strong>发言人1: </strong></span>
-你刚刚说这个的时候，我突然想起来，其实技术水平其实也需要给它下个定义。到底什么叫技术水平？你要提你到底是你觉得你写了一个cy project之后，你的技术水平就会。
-</p>
-<p class="transcript-line">
-<span class="time"><strong>[00:10:44]</strong> </span>
-<span class="speaker"><strong>发言人3: </strong></span>
-对，这个其实也不是。
-</p>
-<p class="transcript-line">
-<span class="time"><strong>[00:10:45]</strong> </span>
-<span class="speaker"><strong>发言人2: </strong></span>
-这个其实不相关的。
-</p>
-<p class="transcript-line">
-<span class="time"><strong>[00:10:47]</strong> </span>
-<span class="speaker"><strong>发言人3: </strong></span>
-对对对。
-</p>
-<p class="transcript-line">
-<span class="time"><strong>[00:10:47]</strong> </span>
-<span class="speaker"><strong>发言人1: </strong></span>
-不一定的。所以其实我我这么说是因为我觉得就像我刚刚说的，我觉得如果你在上班的时候，比如说你有时候也会摸鱼，对不对？摸鱼然后刷一下twitter，看一下业界的大佬都在说什么话，都在研究什么技术。我看了一篇文章之后，我也觉得这是对我技术水平的一个提升。
-</p>
-<p class="transcript-line">
-<span class="time"><strong>[00:11:08]</strong> </span>
-<span class="speaker"><strong>发言人3: </strong></span>
-也提升了技术水平。
-</p>
-<p class="transcript-line">
-<span class="time"><strong>[00:11:10]</strong> </span>
-<span class="speaker"><strong>发言人1: </strong></span>
-对，我也我经常会这么觉得，就是你看一篇技术文章，或者说你随便刷到一个你没有见过的一个技术的东西，然后你去你你知道了它，我觉得这就是一种技术水平的提升。对，所以这也不会花你很多额外的时间。对我知道大家都会摸鱼的。
-</p>
-<p class="transcript-line">
-<span class="time"><strong>[00:11:29]</strong> </span>
-<span class="speaker"><strong>发言人2: </strong></span>
-我觉得每天晚上回家十点以后，这个是下班时间也太晚了。可能确实真的没什么心情，没什么心情跟精力去再想其他了。是还是很珍藏自己的身体。对，有优化一下自己工作的这些，哪怕你时间你就是把控不了，就是总是有人催着你加班，那是不是可以每周划出一个固定的时间段做一下自己想做的事情，半小时一两个小时。
-</p>
-<p class="transcript-line">
-<span class="time"><strong>[00:11:58]</strong> </span>
-<span class="speaker"><strong>发言人3: </strong></span>
-我以为你想说，不然就换个工作了。
-</p>
-<p class="transcript-line">
-<span class="time"><strong>[00:12:02]</strong> </span>
-<span class="speaker"><strong>发言人2: </strong></span>
-这个没办法建议，这不想换工作肯定不是他的错。
-</p>
-<p class="transcript-line">
-<span class="time"><strong>[00:12:09]</strong> </span>
-<span class="speaker"><strong>发言人1: </strong></span>
-别说十点钟下班，我以前在微软六点钟下班，我都觉得不想写代码。
-</p>
-<p class="transcript-line">
-<span class="time"><strong>[00:12:14]</strong> </span>
-<span class="speaker"><strong>发言人3: </strong></span>
-就也不是你跟时间那么。
-</p>
-<p class="transcript-line">
-<span class="time"><strong>[00:12:17]</strong> </span>
-<span class="speaker"><strong>发言人2: </strong></span>
-OK对这个脑力劳动可能是我想到一个主意。
-</p>
-<p class="transcript-line">
-<span class="time"><strong>[00:12:22]</strong> </span>
-<span class="speaker"><strong>发言人3: </strong></span>
-因为咱们之前也聊过，就是如何学习之类的。就是我现在其实的习惯就是如果你特别想做一件事情，你就把它放在最早上了。所以我我不知道了。比如说十点回家之后就立刻休息，但是你想做的事情就起个大早，然后再去。
-</p>
-<p class="transcript-line">
-<span class="time"><strong>[00:12:42]</strong> </span>
-<span class="speaker"><strong>发言人3: </strong></span>
-我我我不确定了，因为十点确实很晚，这个我非常能理解。但是你十点下班之后，其实你不光是累了，就是你一天的精力用掉了。但是你如果是早上的话，也许你一天还是相同的辛苦。但是你早上的精力至少是充沛的，也有帮助。我不知道，对，也许可以试试看。
-</p>
-<p class="transcript-line">
-<span class="time"><strong>[00:13:03]</strong> </span>
-<span class="speaker"><strong>发言人1: </strong></span>
-对我刚刚还想到说他说做自己的cyp project，其实不一定要把一个项目做完，然后放在geta上面有人start，这才算是一个自己的cy project。其实不会的，我觉得像我有很多情况下，是我看到一个新的东西之后，然后我自己写着玩，写着完之后我放到KR上面，我也不不强求他有什么star什么的。但是这个过程之中，虽然我没有获得任何的外界的外部的东西，但是对我来说在这个过程当中是会收获一些经验，就是我如何快速的去做一个项目。就像刚刚给lux讲的，他其实自己会说做到一半，或者说做完之后发现别人也做了什么什么的。但是虽然这从外部上面来看，他可能没有什么收益，但是其实只要做的越来越多的时候，你慢慢的就会找到。
-</p>
-<p class="transcript-line">
-<span class="time"><strong>[00:13:56]</strong> </span>
-<span class="speaker"><strong>发言人3: </strong></span>
-一些感觉。
-</p>
-<p class="transcript-line">
-<span class="time"><strong>[00:13:57]</strong> </span>
-<span class="speaker"><strong>发言人1: </strong></span>
-找到一些经验。当你再有下一个idea的时候，你会发现之前我遇到过这些坑。对，那我这次就已经知道我上来就要用哪一种技术，然后这种这技术之间应该怎么怎么串联起来。
-</p>
-<p class="transcript-line">
-<span class="time"><strong>[00:14:12]</strong> </span>
-<span class="speaker"><strong>发言人2: </strong></span>
-就很快甚至有template。
-</p>
-<p class="transcript-line">
-<span class="time"><strong>[00:14:15]</strong> </span>
-<span class="speaker"><strong>发言人1: </strong></span>
-对，是，然后我觉得这也是一个技术水平的提升。
-</p>
-<p class="transcript-line">
-<span class="time"><strong>[00:14:20]</strong> </span>
-<span class="speaker"><strong>发言人3: </strong></span>
-我说到这个我也有一个经验可以分享了，就是从从技提升技术水平的角度，我业余时间除了做set project，我还会做一些更更简单更直接的东西。就是我做demo，然后这个demo就只有我自己看得到。其实我有一个在get up上有一个private的私有仓库，里面每个branch就是一个，我看到一个新的工具什么的，然后自己就写个demo。写完demo之后，我觉得我对这个东西有一个基本的认知，或者掌握了一定的到一定程度，我就把这个demo放在那儿。它也不是个项目，但反正我做过一遍之后，从技术提升技术水平的角度看，跟你做一个set project给你的收获可能已经很接近了。所以我就不会把这个项目做完。我做到说我对这个技术掌握了，我就不继续做了，我也不不把它发出来，它可能也没有什么实用价值，但是它对我提升技术水平是有帮助的。
-</p>
-<p class="transcript-line">
-<span class="time"><strong>[00:15:17]</strong> </span>
-<span class="speaker"><strong>发言人3: </strong></span>
-甚至我印象中有一个项目，就是很小的一个项目，我就一直重构。就是我看到今天有个新的开源库，我就把那个里面旧的换掉。其实功能没有任何变化，我就只是把新新版本旧版本换成新版本。但其实我在这个过程中，我觉得我对技术的掌握是有提升的。但这个项目其实就还是那个老样子，也没有好用到哪里去，反正这可以做个参考。
-</p>
-<p class="transcript-line">
-<span class="time"><strong>[00:15:45]</strong> </span>
-<span class="speaker"><strong>发言人3: </strong></span>
-如果你觉得这个对你适合的话，就不要把它当项目做，demo而且我收藏夹里其实还有一个目录，就是new tools，就是我最近看到的新的开源项目，新的工具。我可能当时看到的时候，比如说在twitter儿或者微博上看到，我没有机会立刻用，我就把它先放在那个目录里。然后等我有时间的时候，我就把它拿出来做一个demo，然后从那个里面删掉，或者放到另外一个，放到一个什么老生代的hip里。对，我会做这种事情，然后需要的时候可以随时再把它搜出来。这样压力也没那么大对，没有那没有那么大压力。或者说你没有一个你没有一个idea去支撑你，你至少就你把他hello word跑一遍？把他的概念跑一遍，你手过一遍，至少比你看一遍要收获更多。
-</p>
-<p class="transcript-line">
-<span class="time"><strong>[00:16:40]</strong> </span>
-<span class="speaker"><strong>发言人1: </strong></span>
-也可以对对，而且以后你就会慢慢的形成自己的一套POC。
-</p>
-<p class="transcript-line">
-<span class="time"><strong>[00:16:46]</strong> </span>
-<span class="speaker"><strong>发言人3: </strong></span>
-对对对，我甚至早期做这件事情的时候，其实我目的也不单纯了。我只是后来发现这个习惯还蛮好的。我早期做这件事情是因为我当时在经营我的微博，我就觉得我要定期发一些技术东西。但是我又看到网上一个好的东西，我又不能直接转个链接。那跟人家就是说跟人家作者发一个东西没区别吗？我就会做个demo，然后截个图或者什么之类的时候，你看其实是这样用的，就帮大家再进一步，更进一步能够了解到这个东西，所以我就会做demo，但后来发现我也不为这个来做了，我就觉得自己自己我我也不把它发出来，我自己做个demo自己提升一下也蛮好的。对我是经历了这个过程。
-</p>
-<p class="transcript-line">
-<span class="time"><strong>[00:17:33]</strong> </span>
-<span class="speaker"><strong>发言人3: </strong></span>
-以上就是本期节目的全部内容，欢迎给我们点赞、转发和评论。想订阅我们的节目，请在小宇宙、苹果播客、哔哩哔哩和youtube搜索代码之外，也欢迎您在爱发电或上述任意平台给我们打赏。想提供任何素材或话题，欢迎通过show notes中的听众来信链接给我们提问，我们下期节目不见不散。
-</p>]]></content:encoded>
-            <pubDate>Wed, 16 Oct 2024 07:53:33 GMT</pubDate>
-            <guid>670f70fe0d2f24f289884abd</guid>
         </item>
     </channel>
 </rss>
