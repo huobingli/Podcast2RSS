@@ -4,7 +4,3654 @@
         <title>蜉蝣天地 Meanders</title>
         <link>https://www.xiaoyuzhoufm.com/podcast/67f0a80ddc3844bda6fb5b50</link>
         <description>一档竭尽全力的对谈：那些最有意思的人，他们孤军深入无人之境后，看到了什么？</description>
-        <lastBuildDate>Sun, 21 Dec 2025 23:26:02 +0800</lastBuildDate>
+        <lastBuildDate>Mon, 12 Jan 2026 04:51:07 +0800</lastBuildDate>
+        <item>
+            <title>风霁：优化体验，还是塑造现实？平台推荐算法探秘</title>
+            <link>https://www.xiaoyuzhoufm.com/episode/69611215e235ea65bc00d10e</link>
+            <description>今天的嘉宾风霁是一位资深的推荐算法工程师。
+风霁在国内的几家大厂的推荐算法场景有 8 年的研究与工作经验，他参与了推荐算法的基础模型复杂化的整个进程：从最早的简单机器学习、深度学习，到目前大模型相关的技术在推荐场景下的各种结合应用。
+这其中涉及到了用户体验层面的诸多问题，比如信息茧房、社区内容生态、流量公平性等等。
+和风霁的这次对话，我们还追问了很多问题，包括技术的事实层面，也包括了一些科技和文化领域的交叉。
+我们都生活在这个算法驱动的信息时代，算法塑造我们的现实，它远远不止是一个工程问题。
+时间戳：
+00:01:52 推荐算法的发展历程
+00:18:16 算法到底在优化什么？
+00:32:33流量玄学与“版本”焦虑
+00:54:50 播客的流量困局与视频化
+01:03:32千亿次播放背后的供需匹配
+01:22:20 一条视频被上传后会发生什么？
+01:35:38 信息茧房与随机分发实验
+01:57:33 算法的伦理边界与社会责任
+02:46:45 生成式 AI 与推荐的未来
+嘉宾：风霁
+主播：重轻、汉洋
+后期：Jackie、Geelish
+音乐：重轻 - 养虎巷
+蜉蝣天地是一个视频播客，由汉洋和重轻轮番（或共同）主持。
+你可以在 Bilibili YouTube 等各大视频平台搜索 蜉蝣天地 Meanders 订阅收看，也可以在小宇宙、Apple Podcast 等播客客户端订阅收听。
+🔗 Bilibili
+🔗 YouTube</description>
+            <content:encoded><![CDATA[<h1>转写链接</h1>
+<link>https://tongyi.aliyun.com/efficiency/doc/transcripts/g34dn838elrgqwjz</link><br>
+<h1>节目摘要</h1>
+<div class="summary">在这次讨论中，专家们深入探讨了推荐算法对用户信息获取和心理影响的复杂性，强调了技术、社会文化和个人情感的交织影响。他们关注于推荐系统如何形成信息茧房，限制观点多样性，以及如何在个性化推荐与内容多样性之间取得平衡。讨论涵盖了推荐技术的改进、对用户情绪的考量，以及利用AI和大模型技术增强推荐效果的潜力。同时，强调了推荐算法在促进社会文化正面影响的同时，必须面对的道德和社会责任挑战。此外，还讨论了推荐算法在短视频平台上的应用，关注其如何预测用户偏好、处理内容多样化以及平衡用户选择与内容监管。风季老师分享了他对推荐算法领域的见解，突出了其在当代社会和互联网产业中的重要性，以及面临的挑战，如信息茧房、公平性问题等，强调了在算法设计和优化中对数据和用户需求平衡的重视。此次讨论不仅揭示了推荐算法对社会的影响，还展望了其未来发展趋势，体现了技术进步与社会责任的紧密联系。</div><br>
+<h1>章节速览</h1>
+<div class="chapters">
+<div class="chapter-item">
+<span class="time"><strong>[00:00:00]</strong> </span>
+<span class="chapter-title"><strong>推荐算法工程师视角下的行业变迁与社会影响</strong></span>
+<div class="chapter-summary">对话围绕推荐算法工程师的从业经验展开，探讨了行业从简单机器学习到深度学习，再到大模型技术的演变过程。嘉宾分享了在用户体验、信息茧房、社区内容生态和流量公平性等方面的工作心得，强调了数据规模和结构视角的重要性。讨论还触及了算法对社会的深远影响，以及工程师在其中的角色与责任。</div>
+</div>
+<div class="chapter-item">
+<span class="time"><strong>[00:02:21]</strong> </span>
+<span class="chapter-title"><strong>推荐系统的发展与信息检索的融合</strong></span>
+<div class="chapter-summary">讨论了推荐系统从人工编辑到深度学习应用的演变过程，强调了信息检索在推荐系统中的核心作用，提及了网飞算法比赛对推荐技术的推动，以及谷歌在2016年提出的Widen Deep模型对推荐系统精准度的提升。</div>
+</div>
+<div class="chapter-item">
+<span class="time"><strong>[00:05:43]</strong> </span>
+<span class="chapter-title"><strong>推荐系统多目标优化与生态治理</strong></span>
+<div class="chapter-summary">讨论了推荐系统在视频迭代中的作用，从早期单一点击率优化到引入多目标如观看时长、点赞等，有效抑制了标题党和封面党问题。同时，通过多目标优化技术提升了相关指标，对生态治理做出了贡献，对团队和个人而言是一次振奋人心的成就。</div>
+</div>
+<div class="chapter-item">
+<span class="time"><strong>[00:08:04]</strong> </span>
+<span class="chapter-title"><strong>推荐算法的发展与信息检索变革</strong></span>
+<div class="chapter-summary">对话围绕推荐算法的演变展开，从早期的人工筛选到如今的智能化推送，讨论了其在信息爆炸时代的重要性和影响力。提及论坛首页的人工推荐、标题党的泛滥，以及抖音、小红书等平台如何通过算法优化用户体验。强调了信息检索产品形态和技术的翻天覆地变化，以及推荐算法在移动互联网转型中的关键作用。</div>
+</div>
+<div class="chapter-item">
+<span class="time"><strong>[00:10:32]</strong> </span>
+<span class="chapter-title"><strong>新闻推荐与头条推荐的区别及算法重要性</strong></span>
+<div class="chapter-summary">对话讨论了新闻推荐与头条推荐的区别，指出传统行业对算法能力的怀疑，认为编辑品味更为关键。然而，个性化推荐算法，如千人千面策略，正逐渐展现其价值，强调内容与用户偏好的精准匹配是未来趋势。</div>
+</div>
+<div class="chapter-item">
+<span class="time"><strong>[00:12:49]</strong> </span>
+<span class="chapter-title"><strong>大语言模型与推荐系统的发展历程</strong></span>
+<div class="chapter-summary">对话回顾了大语言模型和推荐系统从初期不被看好到后来成为行业标准的过程，强调了技术进步的非线性特性。提及了GPT系列模型的进化和推荐系统‘千人千面’概念的普及，以及这些技术对内容消费习惯的影响，如人均日活时长的增长。</div>
+</div>
+<div class="chapter-item">
+<span class="time"><strong>[00:15:52]</strong> </span>
+<span class="chapter-title"><strong>千人千面推荐算法的生态与进化</strong></span>
+<div class="chapter-summary">对话探讨了千人千面推荐算法的背景与重要性，指出其在内容丰富度不足时作用有限，需内容端先行发展。强调了推荐算法作为群体智慧的成果，通过提升转化率和持续迭代，在工程实践中取得实际效益。同时，提及不同平台根据自身定位构建生态，如B站聚焦游戏与二次元，小红书侧重生活知识分享，共同推动生态繁荣。</div>
+</div>
+<div class="chapter-item">
+<span class="time"><strong>[00:17:55]</strong> </span>
+<span class="chapter-title"><strong>深度兴趣网络与推荐系统优化</strong></span>
+<div class="chapter-summary">对话围绕深度兴趣网络在推荐系统中的应用展开，提及从用户历史行为中筛选相关性高的内容，以提升推荐精准度。讨论了从2019年至今在推荐算法上的进展，包括序列建模、多目标优化等，强调用户体验、创作者激励及生态健康的重要性。</div>
+</div>
+<div class="chapter-item">
+<span class="time"><strong>[00:21:27]</strong> </span>
+<span class="chapter-title"><strong>互联网公司用户粘性与长期价值平衡探讨</strong></span>
+<div class="chapter-summary">对话讨论了互联网公司优化用户粘性与追求长期价值之间的关系。指出简单增加用户停留时间并非最优目标，应关注用户有效互动及内容质量，以维持用户长期活跃。通过案例分析，强调优质内容与用户深度参与对平台长期发展的重要性。</div>
+</div>
+<div class="chapter-item">
+<span class="time"><strong>[00:24:46]</strong> </span>
+<span class="chapter-title"><strong>推荐系统与用户满意度优化探讨</strong></span>
+<div class="chapter-summary">对话围绕推荐系统的设计理念展开，强调内容多样性与用户多维度需求的匹配。讨论了学习、工作、娱乐等不同价值内容的平衡，以及算法如何在复杂人心中优化用户满意度函数的挑战。指出在信息流中，不同性质的内容被迫比较并呈现为单一序列，引发了对用户个性化需求满足的思考。</div>
+</div>
+<div class="chapter-item">
+<span class="time"><strong>[00:27:26]</strong> </span>
+<span class="chapter-title"><strong>推荐系统满意度与模型优化探讨</strong></span>
+<div class="chapter-summary">对话围绕推荐系统满意度展开，讨论了模型算力提升、多目标融合及权重分配的重要性。指出模型能力增强是基础，目标维度增加需平衡，个性化权重分配面临挑战。强调了用户行为复杂性对权重分配的影响，以及当前算法的不成熟性。</div>
+</div>
+<div class="chapter-item">
+<span class="time"><strong>[00:30:18]</strong> </span>
+<span class="chapter-title"><strong>目标设定与用户体验的平衡探讨</strong></span>
+<div class="chapter-summary">讨论了在设定目标如全屏播放率时，需谨慎考虑用户体验，避免因目标实现而带来的负面效果，强调了算法设计时应尽量避免电车难题，确保目标与实际情境相贴合，同时提及了自动驾驶案例中从乐观预期到现实挑战的转变，突显了现实情境的复杂性。</div>
+</div>
+<div class="chapter-item">
+<span class="time"><strong>[00:32:32]</strong> </span>
+<span class="chapter-title"><strong>推荐算法与内容创作：适应性与进化的关系</strong></span>
+<div class="chapter-summary">讨论了推荐算法的进化特性及其对内容创作者的影响，指出推荐系统虽类似生物进化，但其复杂性和多变性使得内容创作者难以完全适应。强调优质内容终将获得流量，同时指出用户需求变化和内容竞争力对推荐算法的影响可能超过算法本身。建议创作者关注内容品质而非算法版本，以维持稳定流量。</div>
+</div>
+<div class="chapter-item">
+<span class="time"><strong>[00:37:48]</strong> </span>
+<span class="chapter-title"><strong>平台迭代与创作者利益平衡探讨</strong></span>
+<div class="chapter-summary">对话围绕平台推荐系统迭代对创作者流量影响展开，强调平台应通过冷启动等机制保障新创作者机会，同时指出大版本迭代需谨慎，确保系统稳定性与创作者、用户利益同步提升。讨论中提及算法迭代的随机性降低、指标追踪系统稳定性等措施，旨在构建健康的内容生态，避免创作者因平台变化遭受断崖式损失。</div>
+</div>
+<div class="chapter-item">
+<span class="time"><strong>[00:43:23]</strong> </span>
+<span class="chapter-title"><strong>用户审美变化与推荐算法影响分析</strong></span>
+<div class="chapter-summary">讨论了用户审美变化对内容影响力远超推荐算法，强调了用户需求变化推动内容多样化，以及平台算法和运营对趋势的微小影响。指出碎片化知识冲击后，用户对深度内容需求增加，优质视频播客和中长视频迎来机会。</div>
+</div>
+<div class="chapter-item">
+<span class="time"><strong>[00:47:54]</strong> </span>
+<span class="chapter-title"><strong>创作者与平台关系探讨：流量、算法与运营的误解</strong></span>
+<div class="chapter-summary">对话围绕创作者与平台（如抖音、知乎）之间的复杂关系展开，重点讨论了创作者在面对流量变化时对运营和算法的误解。创作者往往将数据好归因于运营的推力，数据差则归咎于算法不公，忽略了自身内容质量和受众需求的重要性。通过具体案例，如知乎专栏未获分发导致用户流失，揭示了平台运营与创作者间的沟通缺失和利益冲突，强调了创作者应正视需求端变化，而非一味归责于平台。</div>
+</div>
+<div class="chapter-item">
+<span class="time"><strong>[00:50:28]</strong> </span>
+<span class="chapter-title"><strong>运营与算法协同提升内容平台生态</strong></span>
+<div class="chapter-summary">讨论了运营与算法在内容平台中的协同作用，运营负责日常合作与问题解决，算法确保迭代效果，两者共同维护平台生态健康，通过实验验证改进措施，确保系统稳健升级。</div>
+</div>
+<div class="chapter-item">
+<span class="time"><strong>[00:54:52]</strong> </span>
+<span class="chapter-title"><strong>播客媒介的挑战与机遇：内容多样性与消费习惯的匹配</strong></span>
+<div class="chapter-summary">讨论了播客媒介在内容供给与消费习惯上的匹配问题，指出当前播客内容虽然丰富但缺乏多样性，且未充分触达潜在消费者。强调了播客生态需要更多品类和更广的用户基础，以促进群体智能的发展，从而推动播客媒介的成长。</div>
+</div>
+<div class="chapter-item">
+<span class="time"><strong>[01:01:01]</strong> </span>
+<span class="chapter-title"><strong>播客与短视频：内容创作与平台规模的对比</strong></span>
+<div class="chapter-summary">讨论了播客与短视频在内容创作、平台规模及用户参与度上的差异，指出短视频日均上传量达到亿级，用户观看量更是千亿级，而播客增长缓慢，两者在影响力和受众覆盖上存在显著差距。同时，提及了视频博客的未来趋势及对传统博客形式的挑战。</div>
+</div>
+<div class="chapter-item">
+<span class="time"><strong>[01:06:42]</strong> </span>
+<span class="chapter-title"><strong>信息社会与推荐算法的演变</strong></span>
+<div class="chapter-summary">对话围绕信息社会的发展，特别是推荐算法在其中的作用和演变进行了深入探讨。从过去在村口的社交活动类比到现在的短视频和播客消费，强调了技术进步，如手机、摄像头、算法和网络成本的下降，使得推荐算法能够服务于千亿量级的市场。讨论了推荐算法的存储需求从几GB到几十TB的演变，以及推荐算法如何通过沉淀用户行为和视频内容来优化信息匹配，避免信息不对称。同时，提到了推荐算法的计算复杂度、稀疏表征与稠密计算的概念，以及未来推荐系统向更高匹配效率发展的可能性。</div>
+</div>
+<div class="chapter-item">
+<span class="time"><strong>[01:15:49]</strong> </span>
+<span class="chapter-title"><strong>大模型与推荐系统中的标签和向量解析</strong></span>
+<div class="chapter-summary">讨论了大模型如何处理用户行为和兴趣，通过自动学习生成向量而非传统标签。强调了从特征工程到序列建模的转变，以及人工挖掘重要性的下降。指出现代推荐系统更依赖于用户历史行为的序列建模，而非简单的标签匹配，体现了技术发展的新趋势。</div>
+</div>
+<div class="chapter-item">
+<span class="time"><strong>[01:22:23]</strong> </span>
+<span class="chapter-title"><strong>视频内容审核与推荐算法详解</strong></span>
+<div class="chapter-summary">对话详细阐述了视频内容从上传到推荐给用户的全过程，包括封面推荐、内容审核、多目标排序模型、重排层确保内容多样性及兴趣探索，以及系统如何根据用户行为反馈调整推荐策略，强调平台需友好对待新作者和用户，发挥社会价值。</div>
+</div>
+<div class="chapter-item">
+<span class="time"><strong>[01:27:45]</strong> </span>
+<span class="chapter-title"><strong>短视频推荐算法与用户偏好的深度解析</strong></span>
+<div class="chapter-summary">对话深入探讨了短视频平台如何利用复杂算法和GPU计算从海量视频中筛选出符合用户偏好的内容，通过模糊计算和语义ID编码实现个性化推荐。同时，分析了用户对特定话题的细微偏好如何被算法捕捉和学习，强调了技术进步对用户体验的影响及未来发展的可能性。</div>
+</div>
+<div class="chapter-item">
+<span class="time"><strong>[01:35:10]</strong> </span>
+<span class="chapter-title"><strong>推荐系统与信息茧房：探索与平衡</strong></span>
+<div class="chapter-summary">对话围绕推荐系统在避免信息茧房和提升用户体验中的作用展开。讨论了随机分发与个性化推荐的优劣，强调了探索用户未接触内容的重要性。指出推荐系统需在满足用户现有兴趣与引导其发现新事物之间找到平衡，以促进用户长期留存和平台开放性。同时，提及内容审核与道德约束在推荐过程中的必要性，以及通过鼓励探索未知内容来丰富用户视野的策略。</div>
+</div>
+<div class="chapter-item">
+<span class="time"><strong>[01:43:30]</strong> </span>
+<span class="chapter-title"><strong>算法推荐与社会影响的平衡探讨</strong></span>
+<div class="chapter-summary">讨论了算法推荐在提升用户体验的同时可能带来的视野狭窄等问题，提出通过目标设定和系统优化来平衡短期效果与长期价值，强调了在面对用户行为和市场变化时，推荐系统需不断迭代以适应社会发展，同时通过前向预测和后置治理相结合的方式处理潜在风险。</div>
+</div>
+<div class="chapter-item">
+<span class="time"><strong>[01:51:18]</strong> </span>
+<span class="chapter-title"><strong>怀旧与进步：用户期望与技术演进的矛盾</strong></span>
+<div class="chapter-summary">对话探讨了用户对产品或服务不断增长的期望与技术演进之间的矛盾。以推荐系统为例，尽管技术在不断进步，用户体验在提升，但用户往往因怀旧情绪而对过去产生美好幻想，忽视了当前技术的优越性。同时，通过游戏、美食等领域的例子，说明了随着供给量的增加和用户需求的提高，快乐感知的难度也在增加，从而引发了对过去美好时光的怀念。然而，这种怀旧并非对当前技术的合理批评，而是对个人审美和快乐标准变化的一种反映。</div>
+</div>
+<div class="chapter-item">
+<span class="time"><strong>[01:57:03]</strong> </span>
+<span class="chapter-title"><strong>互联网算法与内容监管的双刃剑</strong></span>
+<div class="chapter-summary">讨论了互联网公司算法在提升用户粘性时可能带来的负面影响，如加剧身材焦虑等，以及中国互联网在内容审核上的严格尺度，指出部分内容的传播背后可能有灰黑产的推动，强调了监管与治理的重要性。</div>
+</div>
+<div class="chapter-item">
+<span class="time"><strong>[02:02:12]</strong> </span>
+<span class="chapter-title"><strong>推荐算法与内容监管的平衡探讨</strong></span>
+<div class="chapter-summary">讨论了推荐算法在内容分发中的作用，强调算法应确保内容符合法律法规和道德标准，同时指出算法不应决定观点正确性。对于不可比较的内容，提出兴趣分类和价值排序机制，强调内容主题的重要性及创作者知识储备与表达能力的双重要求。提及平台联盟对内容分发的影响，以及创作者适应市场与提升自身能力的挑战。</div>
+</div>
+<div class="chapter-item">
+<span class="time"><strong>[02:08:45]</strong> </span>
+<span class="chapter-title"><strong>平台与创作者的矛盾：流量分配的公平性探讨</strong></span>
+<div class="chapter-summary">讨论了创作者对平台流量分配的不满，认为平台未能充分满足其需求，导致收入不足以支持全职创作梦想。同时，双方对平台算法的公平性存在争议，认为可能存在不平等现象，但这种评估具有主观性和不确定性。对话指出，尽管平台有改进空间，但创作者也需面对现有平台体系的局限性。</div>
+</div>
+<div class="chapter-item">
+<span class="time"><strong>[02:11:13]</strong> </span>
+<span class="chapter-title"><strong>平台推荐算法与文化战争的纠偏探讨</strong></span>
+<div class="chapter-summary">对话围绕平台推荐算法的效率与公平性展开，讨论了如何在多元观点下实现算法纠偏，避免系统性偏见，以及文化战争背景下用户满意度与系统利益的平衡策略。</div>
+</div>
+<div class="chapter-item">
+<span class="time"><strong>[02:16:23]</strong> </span>
+<span class="chapter-title"><strong>平台社区画风与推荐算法对用户意图满足的影响</strong></span>
+<div class="chapter-summary">讨论了平台社区画风的重要性，以及推荐算法如何服务于用户特定意图以促进平台增长。强调了用户对平台整体认知的影响，以及在推荐算法中平衡用户体验、作者生态和平台价值的复杂性。提到了Facebook因情绪表达功能调整带来的长期负面影响，说明了优化时需全面考虑短期效益与长期影响的平衡。</div>
+</div>
+<div class="chapter-item">
+<span class="time"><strong>[02:33:57]</strong> </span>
+<span class="chapter-title"><strong>互联网公司责任与推荐算法影响探讨</strong></span>
+<div class="chapter-summary">讨论了互联网公司在推荐算法优化过程中面临的责任问题，指出算法对用户行为和社会文化有深远影响，同时公司在追求用户活跃度时可能忽视社区和生态价值的长期影响。强调了在算法优化与社会责任之间的矛盾，以及互联网公司在塑造现实与声称中立立场间的悖论。</div>
+</div>
+<div class="chapter-item">
+<span class="time"><strong>[02:39:56]</strong> </span>
+<span class="chapter-title"><strong>推荐算法与社会价值的边界探讨</strong></span>
+<div class="chapter-summary">讨论了推荐算法作为信息检索技术的本质及其在信息爆炸时代的角色，指出其面临的挑战与社会要求的提升，强调了在遵守法律规范与公序良俗的前提下，平台应如何平衡自身主张与用户需求，以及技术发展与社会认知的相互推进过程。</div>
+</div>
+<div class="chapter-item">
+<span class="time"><strong>[02:44:26]</strong> </span>
+<span class="chapter-title"><strong>推荐算法与内容管理：短视频时代的挑战与未来</strong></span>
+<div class="chapter-summary">讨论了推荐算法在内容形式（如短视频、长视频）选择上的作用与局限，强调内容偏好难以完全控制。分析了短视频带来的社会影响，如成瘾性和时间浪费，以及如何平衡娱乐、知识补充等多元信息需求。展望未来，AI可能减少搜索需求，改变知识服务方式，对用户需求和内容供给产生深远影响。</div>
+</div>
+<div class="chapter-item">
+<span class="time"><strong>[02:48:46]</strong> </span>
+<span class="chapter-title"><strong>未来视频推荐技术的发展与交互形式创新探讨</strong></span>
+<div class="chapter-summary">对话讨论了未来视频推荐技术的发展方向，包括对视频内容的深度理解、大模型技术的应用，以及推荐系统的交互形式创新。参与者提出，未来推荐系统可能通过更深入的内容理解、技术提升和新型交互方式（如智能助理）来改善用户体验，但同时也指出社会和哲学问题的解决并非技术所能完全达成。</div>
+</div>
+<div class="chapter-item">
+<span class="time"><strong>[02:53:32]</strong> </span>
+<span class="chapter-title"><strong>推荐算法与个人意愿的冲突探讨</strong></span>
+<div class="chapter-summary">讨论了推荐算法在反映用户真实需求与满足用户表达意愿之间的矛盾。指出算法倾向于根据用户行为而非声明意愿进行推荐，引发了关于个人主动选择与被动接受信息的思考。强调了个人意愿在塑造信息接收过程中的重要性，以及推荐系统在平衡两者间的挑战。</div>
+</div>
+<div class="chapter-item">
+<span class="time"><strong>[03:02:04]</strong> </span>
+<span class="chapter-title"><strong>工程师的骄傲与建筑遗产的选择</strong></span>
+<div class="chapter-summary">对话围绕工程师在推荐算法工作中感到骄傲的时刻展开，分享了通过技术迭代和产品创新获得的成就感。此外，讨论了选择一个建筑永久保存在互联网上的想法，表达了希望通过一本书籍的形式，留下人类文明存在的证明，强调信息传播和交流的重要性。</div>
+</div>
+</div><br>
+<h1>节目文稿</h1>
+<p class="transcript-line">
+<span class="time"><strong>[00:00:02]</strong> </span>
+<span class="speaker"><strong>发言人1: </strong></span>
+今天的嘉宾风季老师是一位资深的推荐算法工程师。风际在国内的几家大厂的推荐算法场景有八年的研究工作经验。他参与了推荐算法的基础模型复杂化的整个进程，从最早的简单机器学习、深度学习，到目前大模型相关的技术在推荐场景下的各种结合应用，涉及到了用户体验层面的诸多问题，比如信息茧房、社区内容生态、流量公平性等等。
+</p>
+<p class="transcript-line">
+<span class="time"><strong>[00:00:28]</strong> </span>
+<span class="speaker"><strong>发言人1: </strong></span>
+和风际的这次对话远远超出了我个人的知识范围，但是我和汉阳还是鼓起勇气追问了很多问题，包括技术的事实层面，也包括了一些科技和文化领域的交叉。风季老师给我最大的触动在于他解释和分析问题时所采取的一种非常注重数据规模和结构的视角。如果你在听我们提出问题的时候，不妨可以暂停一下，想一想你自己的想法，然后再继续听他的回答，你可能会觉得非常不同。这种嘉宾带来的陌生视角，正是我们做这档节目非常享受也非常向往的事情。我们都生活在这个算法驱动的信息时代，算法塑造我们的现实，它远远不止是一个工程问题。希望这期节目能够给你带来多一点的了解和思考。风季老师今天能邀请到你是我俩的一个终于满足了一个很长时间的愿望。我们想找这个算法工程师来聊一期，就是关于今天社会上大家都特别关心的这么一个很封口的一个事情。
+</p>
+<p class="transcript-line">
+<span class="time"><strong>[00:01:26]</strong> </span>
+<span class="speaker"><strong>发言人1: </strong></span>
+但是我们发现这些工程师都太被公司保护的太好了。然后这个事情好像也本身也太敏感了，感觉是不是利益牵涉太大了，然后我们一直没有找到能够比较放开的，比较轻松的、撒欢的能能聊的对象。所以今天能够请到您，我我就我俩都特别高兴。
+</p>
+<p class="transcript-line">
+<span class="time"><strong>[00:01:46]</strong> </span>
+<span class="speaker"><strong>发言人2: </strong></span>
+对，因为这是我俩上来设计服务田地的时候就想聊的话题。
+</p>
+<p class="transcript-line">
+<span class="time"><strong>[00:01:49]</strong> </span>
+<span class="speaker"><strong>发言人1: </strong></span>
+对对对，从第一期就想聊的话题。因为我是觉得算法工程师，尤其是推荐算法，这个并不是一个古典的程序员或者工程师的岗位。对它是一个在某一个时间点才慢慢才出现的对，然后尤其是推荐算法作为内容分发的一个支配性的一个特别核心的东西，谈历史的时间并不是特别长。然后您也在不止一家的公司里面干过。对对对，所以能不能给我们讲讲就是你自己的这个从业的经验，以及你伴随着的这个行业本身的一个变化，可以大概给我们还原一下。
+</p>
+<p class="transcript-line">
+<span class="time"><strong>[00:02:22]</strong> </span>
+<span class="speaker"><strong>发言人3: </strong></span>
+从我的视角，我觉得它本质就是在做信息检索。是包括我们推荐相关的论文，其实发在的那个会议叫做信息检索会议。对，所以说其实我觉得我们在做的这个事并不特殊，因为互联网本身就是为了信息检索而诞生的那从第一代的那个推荐，其实我们定义的话可能是25年以前。当时的推荐业务其实大部分都是编辑做的。然后可能会随着那个门户网站诞生，然后中间可能会有一些基于规则做一些匹配。比如说我看了这个，我要推这个，其实都人人工定义的规则大概25年之前，但是我没有参与过这个阶段。
+</p>
+<p class="transcript-line">
+<span class="time"><strong>[00:03:05]</strong> </span>
+<span class="speaker"><strong>发言人3: </strong></span>
+然后05年大概到一二年左右，深度学习就是机器学习开始其实开始有一波火。然后就这一波火之后，其实在推荐领域也有一些应用。比如像奈飞，比如像亚马逊。当时用那个GBDT就是树神经网络数网络，包括那个线性回归，包括那个矩阵分解，做一些比较初级的一些推荐领域的工作。然后这是大家第一次开始个性化推荐。猜你想看类似这种东西。
+</p>
+<p class="transcript-line">
+<span class="time"><strong>[00:03:38]</strong> </span>
+<span class="speaker"><strong>发言人1: </strong></span>
+我记得那个时间点就是大部分人还不明白，就是更精准的匹配这个事儿，可以成为一个互联网公司的一个或者一个互联网服务的一个特别核新的能力。对，但是当时我记得后来我看那个人工智能发展史的材料的时候，看到那个就image net，它并不是hinton拿过的第一个特别震惊世人的奖。他他早在那个事儿之前的好几年，就在网飞的这个算法比赛里就拿过奖。是是是，但是他就是比那个第二名可能高了一点点，就是用他的那个波斯曼吉。但是那个已经是网飞每年拿出来奖金，让大家全世界的八仙过海各显神通的这么。
+</p>
+<p class="transcript-line">
+<span class="time"><strong>[00:04:15]</strong> </span>
+<span class="speaker"><strong>发言人3: </strong></span>
+对网飞这样。这个比赛应该对于我们回头来看，对于推荐的助力还是蛮大的。里面其实诞生过一些相当于经典算法。然后大概在一二年开始的话，应该到16年这一段时间，其实相当于说是一个传统机器学习在推荐上的应用。然后当时其实16年的时候，谷歌发了一篇论文叫widen deep，就是把神经网络应用在油管的这个推荐里面。
+</p>
+<p class="transcript-line">
+<span class="time"><strong>[00:04:44]</strong> </span>
+<span class="speaker"><strong>发言人1: </strong></span>
+然后其实的地方是宽和深的意思是吗？
+</p>
+<p class="transcript-line">
+<span class="time"><strong>[00:04:46]</strong> </span>
+<span class="speaker"><strong>发言人3: </strong></span>
+对，就是Y的那个逻辑回归其实是大概相当于说12年到16年之间，在那个推荐领域大家用的方法，它其实是一个比较非常简单的计算算法。但是它就需要跟大家做量化一下，叫挖信号对吧？就是挖特征。比如说当时百度他可能有几十号人在这里面手工挖掘特征，做特征组合。其实这个模型是很简单的，大家通过挖复杂信号来让这个推荐变得更加精准。但是这个东西对应等级的是明显不是个长久的事情。所以说当时谷歌就是挖的就是说我简单的一个模型，再叠加上一个深度神经网络。然后我大概在17年接入推荐，然后我当时在那家公司应该是在18年，应该就是我自己去主导的，就是说把这个推就是神经网络在推荐上面去应用。
+</p>
+<p class="transcript-line">
+<span class="time"><strong>[00:05:41]</strong> </span>
+<span class="speaker"><strong>发言人1: </strong></span>
+对，所以你是一个开荒的工作是吧？
+</p>
+<p class="transcript-line">
+<span class="time"><strong>[00:05:43]</strong> </span>
+<span class="speaker"><strong>发言人3: </strong></span>
+对，你可以理解开荒工作，因为更早的话其实就是非常简单的学习方法。对，再给很多人去挖信号的一种。就比如说你喜欢看哪些东西，对，然后你的就是把这个作为特征，然后这个特征在跟这个视频的这个品类做交叉匹配匹配上了可能就是一个特征，匹配不上就是另外一个特征。其实推荐我理解是这个技术最容易变现的一个场景。搜广推搜索推荐广告就是推和广告对于这个业务的影响力，某种逻辑可能会比广告更多。因为搜索毕竟是一个低频的需求。
+</p>
+<p class="transcript-line">
+<span class="time"><strong>[00:06:21]</strong> </span>
+<span class="speaker"><strong>发言人3: </strong></span>
+然后我们说回来，就是大概1819年的时候，最最开始大家比如说在做视频迭代的时候，基本上只优化一个目标就是CT点击率对class rate。但是其实比如说在我过去的工作里，就是我们在上神经的神经网络之后，你会发现那个点击率会暴涨，可以点涨10%到20%。但是同时会把一些标题党、封面党的问题放放的很大。所以说大概在18年我们会把这个相当时长点赞这些多目标也融入到我们推荐迭代里面。所以说同时的话，我们我在大概那段时间也做了一些相当于对于生态治理的工作。相当于把这些封面党、标题党，包括一些擦边、软色情给打压。然后当时应该也是有一篇，就是就今天我们做大模型叫MOE多多专家。但当时我们在做做多目标优化的时候，应该在1819年的时候就已经在推荐上面开始做这个事儿了。
+</p>
+<p class="transcript-line">
+<span class="time"><strong>[00:07:19]</strong> </span>
+<span class="speaker"><strong>发言人1: </strong></span>
+所以你经历过这个事儿最开始没人做，然后你来你是第一个做这个事的人，然后做了之后各种相关指标会有一个飞涨的的一个过程。你的工作的这个价值是特别大的，就相当于整个公公公公司都都为之震动的这个过程是吧？
+</p>
+<p class="transcript-line">
+<span class="time"><strong>[00:07:35]</strong> </span>
+<span class="speaker"><strong>发言人3: </strong></span>
+也就首先我对这个事情是非常开心的，然后我们团队也对这事情非常开心。但是其实推荐对于业务来说，我觉得很重要。就是推荐对于很多公司来说是推进器。但是我们当时因为整个公司的增长非常快，所以就比如说公司就是公司来说业务是每年翻倍的那我们涨10%.
+</p>
+<p class="transcript-line">
+<span class="time"><strong>[00:07:56]</strong> </span>
+<span class="speaker"><strong>发言人1: </strong></span>
+其实也就是一部分。
+</p>
+<p class="transcript-line">
+<span class="time"><strong>[00:07:58]</strong> </span>
+<span class="speaker"><strong>发言人3: </strong></span>
+所以说但是这个技术对我们自己个人和团队来说，其实就是非常真的很。
+</p>
+<p class="transcript-line">
+<span class="time"><strong>[00:08:03]</strong> </span>
+<span class="speaker"><strong>发言人1: </strong></span>
+开心很振奋的。
+</p>
+<p class="transcript-line">
+<span class="time"><strong>[00:08:04]</strong> </span>
+<span class="speaker"><strong>发言人2: </strong></span>
+因为我刚才听风季聊这个事儿，医生我俩有一部分的职业经历是重合的，因为我也是做CV然后1516年做过推荐算法，但做的很短。对，我们那个时候没有之前，其实很简单，就是你给东西打标签。对，然后你看着这东西跟它类似，我做个聚类，然后你给它再推出去。对，然后这个东西效果其实就没那么好。但反过来看你会意识到人们低估了推荐算法当时来的多猛烈以及它多重要。是因为那个时候的大盘是涨的，人们在从电脑转移到移动互联网，而且很多原本不上网的人在用移动互联网。
+</p>
+<p class="transcript-line">
+<span class="time"><strong>[00:08:34]</strong> </span>
+<span class="speaker"><strong>发言人1: </strong></span>
+所以掩盖了很事情之间权重的区别。对，就感觉做什么都是work的。
+</p>
+<p class="transcript-line">
+<span class="time"><strong>[00:08:39]</strong> </span>
+<span class="speaker"><strong>发言人2: </strong></span>
+做什么都是有效的对，但现在想过来，其实就那几个事儿是真work的，推荐算法是其中一个，但你在那个局中你意识不到。对对对，所以我就你看有几个东西现在就没有了。第一个是咱们最早上网的时候，咱俩是90后。对他还是80后。咱们当年刚上网的时候，有一种东西是论坛的首页。对，那个首页是人工推荐，论坛中好帖子拿出来放在首页。对，很多人上网只看这个热门。对。
+</p>
+<p class="transcript-line">
+<span class="time"><strong>[00:09:02]</strong> </span>
+<span class="speaker"><strong>发言人3: </strong></span>
+所以这个推荐。
+</p>
+<p class="transcript-line">
+<span class="time"><strong>[00:09:03]</strong> </span>
+<span class="speaker"><strong>发言人1: </strong></span>
+对编辑的那个就是就curator的那个人工置顶权力巨大。
+</p>
+<p class="transcript-line">
+<span class="time"><strong>[00:09:07]</strong> </span>
+<span class="speaker"><strong>发言人2: </strong></span>
+对。然后后来这个东西我觉得现在如果这个人小孩是个05后的人，他可能没见过这东西，不知道该说啥，因为没有人在推荐这个了。另外就是后来这些新闻客户端火了之后，会有一种特别让人烦的纯标题党。他后面还不想那个纯标题党，就是纯是一句话耸人听闻，然后里面什么都不说。
+</p>
+<p class="transcript-line">
+<span class="time"><strong>[00:09:25]</strong> </span>
+<span class="speaker"><strong>发言人2: </strong></span>
+对，但是因为你没有推荐，你全要靠人点进来看。对，但是今天你比如你看抖音或者像小红书，你刷视频的时候这种事就很少见了。对，是因为我就刷过去了，我并不需要有什么东西把我细心点过去，反正开头几秒才有内容好，我才愿意看这些东西。今天上一代人觉得每天都看的东西，其实对于这一代人来说已经不是个很稀很常见的经验了。
+</p>
+<p class="transcript-line">
+<span class="time"><strong>[00:09:45]</strong> </span>
+<span class="speaker"><strong>发言人3: </strong></span>
+其实我觉得本质来说，就是回到我们最开始说那个推荐本质是信息检索，还是信息检索的产品形态和技术都发生了一个翻天覆地的一个变化。我们今天一天能看的视频，如果没有现在这个技术，那我觉得你可能花100倍的时间也找不到这个视频。
+</p>
+<p class="transcript-line">
+<span class="time"><strong>[00:10:03]</strong> </span>
+<span class="speaker"><strong>发言人2: </strong></span>
+是对，因为我对那段时间印象特别深，因为我那时候在创业自己也仿佛是米德of nowhere窜出来的一个巨大的的生物。然后他出来之前，别人都觉得这东西就没有值得做的价值。因为腾讯新闻已经很火了，网易新闻也很火，尤其网易新闻还有跟帖什么的。然后字节出来的时候，当时我身边创业的人都觉得这干嘛呢？没有意义，然后你就感觉在大家对他没有意义的讨论中，突然他就赢了。就是一下子他就彻底胜利了，其他东西就都没了。
+</p>
+<p class="transcript-line">
+<span class="time"><strong>[00:10:32]</strong> </span>
+<span class="speaker"><strong>发言人3: </strong></span>
+那那一段时间实际上因为我17年开始的，那我其实我反过来采访一下，你就是你觉得当时你们理解的新闻推荐和头条做的新闻推荐它的区别是什么？为什么它实际赢了，但你们判断它是不OK的呢？是啊。
+</p>
+<p class="transcript-line">
+<span class="time"><strong>[00:10:48]</strong> </span>
+<span class="speaker"><strong>发言人2: </strong></span>
+因为我是后来做自动驾驶去了，所以我没有一直在做推荐。但是我会经常跟这些人聊，对，就是我们做自动驾驶很早就意识到了神经网络这事儿是你必须要上的对，即使1718年有时候因为一性能原因我们没有上神经网络，但所有人都知道这就是未来，只是时间问题。但没有人会否认神经网络是未来。
+</p>
+<p class="transcript-line">
+<span class="time"><strong>[00:11:06]</strong> </span>
+<span class="speaker"><strong>发言人2: </strong></span>
+但是推荐这个事儿，推荐算法这个事情放到那个新闻行业和内容行业，很多人不认为他能work。是因为打心眼里不相信算法的能力，还是觉得说这就是个人品味的事情，他只跟人的审美有关。所以他们会说，你们看哪两家这个公司新闻平台为什么能做起来，就不点名了。是因为当年这个电视台里哪几个非常好的编辑跳到这确实当。对，所以他们能赢，他们会强烈的认为这事儿是个跟直接只跟主观主编挂钩的事儿。
+</p>
+<p class="transcript-line">
+<span class="time"><strong>[00:11:34]</strong> </span>
+<span class="speaker"><strong>发言人1: </strong></span>
+跟专业能力和品位和这些东西有关。
+</p>
+<p class="transcript-line">
+<span class="time"><strong>[00:11:37]</strong> </span>
+<span class="speaker"><strong>发言人2: </strong></span>
+所以大家会聊说哪个主编去了哪儿，而没有人谈论推荐算法，因为那东西在他们看来甚至不是洪水猛兽。
+</p>
+<p class="transcript-line">
+<span class="time"><strong>[00:11:43]</strong> </span>
+<span class="speaker"><strong>发言人3: </strong></span>
+是一个完全看不见的东西。我完全懂你的点。就是说大家可能会觉得我我现在在互联网，我做这个信息媒体，可能跟我做报纸唯一的区别就是说我可以没有成本的分发给更多人。但是他没有意识到我可以给不同的人，就是千人千面，万人一人一面。我没有意识到我的个性化能力到底能有多强。其实我觉得就是按照我们现在大模型的skin up的逻辑来说，我这个编辑推荐我的点击率是百1，我推可以把它做百2。但是如果说你知道我未来可以做20%，你会知道其实那个总编根本不重要。对对对。
+</p>
+<p class="transcript-line">
+<span class="time"><strong>[00:12:22]</strong> </span>
+<span class="speaker"><strong>发言人1: </strong></span>
+而且另外就在你说的那个的同时，张一鸣正在各种给投资人peach，就现在已经变成江湖传说了。他最早的商业计划。
+</p>
+<p class="transcript-line">
+<span class="time"><strong>[00:12:31]</strong> </span>
+<span class="speaker"><strong>发言人2: </strong></span>
+就是关于一轮的计划出现人的价格。
+</p>
+<p class="transcript-line">
+<span class="time"><strong>[00:12:33]</strong> </span>
+<span class="speaker"><strong>发言人1: </strong></span>
+对你都能看，就是具体措辞我已经不记得了，但是他说的那个意思就是以30例，他就是在讲千人千面的。这个就是把内容。
+</p>
+<p class="transcript-line">
+<span class="time"><strong>[00:12:40]</strong> </span>
+<span class="speaker"><strong>发言人3: </strong></span>
+在和用户。
+</p>
+<p class="transcript-line">
+<span class="time"><strong>[00:12:41]</strong> </span>
+<span class="speaker"><strong>发言人1: </strong></span>
+偏好的匹配，是一个真正的是这个公司的核心。对，然后其他人可能还更多的在认为你是在做第N加一个新闻门户。
+</p>
+<p class="transcript-line">
+<span class="time"><strong>[00:12:49]</strong> </span>
+<span class="speaker"><strong>发言人3: </strong></span>
+其实很合理。你想如果在18年的时候，我跟你说大语言的模型未来可能对于很多的文本工作者来说，就是咱们短期来说，肉眼可以见的都可能就是文本工作者可能会风险很大，你可能会想象不出来这个事情。
+</p>
+<p class="transcript-line">
+<span class="time"><strong>[00:13:04]</strong> </span>
+<span class="speaker"><strong>发言人2: </strong></span>
+现在还有很多人。
+</p>
+<p class="transcript-line">
+<span class="time"><strong>[00:13:06]</strong> </span>
+<span class="speaker"><strong>发言人1: </strong></span>
+不相信对吧？但是这个东西没法线性外推。你你你现在回就是回想你在脑海中有很多看过那个GPT2的新闻。就GPT1和GPT2当年有一些很幼稚的应用，就是说他帮助一些财经记者写了一些套路化的什么财经的报道。一个公司年报出来，他他写一个简单的格的格式。然后你看了这个新闻，你就一划就过去了，就是没有潜力。就是你你看见现在有一个东西叫叫GPT，他的第二代，然后就这点事儿，然后写出来东西，你要是你就是你亲手一用，就发现跟笑话一样。没有人能够从这个阶段的就这个进程，这个progress，当下的这个状态能看见他的潜力。等等到3.5出来的时候，就感觉像是一个五雷轰顶的一个事儿一样。
+</p>
+<p class="transcript-line">
+<span class="time"><strong>[00:13:50]</strong> </span>
+<span class="speaker"><strong>发言人2: </strong></span>
+是是是，这个就引发了我很我就好多回忆就想起来了。就不知道你有没有当时有那个印象，就我在北京，当时我在在中关村那边创业，就中中国创业的不都在那儿吗？对对对。
+</p>
+<p class="transcript-line">
+<span class="time"><strong>[00:14:00]</strong> </span>
+<span class="speaker"><strong>发言人3: </strong></span>
+然后那个是创业口品牌了。
+</p>
+<p class="transcript-line">
+<span class="time"><strong>[00:14:02]</strong> </span>
+<span class="speaker"><strong>发言人2: </strong></span>
+对，你知道每一个年代都对于创业者有很多共同的玩笑，就是每个年代的玩笑不一样。但很多时候就这一个年代会是一样的玩笑。比如当时对于这个推荐系统，很多人就会说就是千人千面这个事儿就纯是创业者在吹牛。就是每一次你打开之后发现99%是一样的，只有那一个不一样，然后他们也会硬着头皮管，这叫千人千面。那个时候千人千面是一个咱们说是因为我们真的信，但是你对于很多投资人来说，前面就是在唬他们的。就像是你五年前跟人说大语言模型，他们会觉得这就是扯淡的对一样。就是没有人信千人千面，直到突然有一天真的美人千面的时候，大家会觉得这就是天经地义的。
+</p>
+<p class="transcript-line">
+<span class="time"><strong>[00:14:43]</strong> </span>
+<span class="speaker"><strong>发言人1: </strong></span>
+但是那个时候的内容端，它也没有任何一个产品形成规模。我的意思是千人千面的土壤就是你能够体会到千人千面，你需要有就是像网飞的片库一样。
+</p>
+<p class="transcript-line">
+<span class="time"><strong>[00:14:53]</strong> </span>
+<span class="speaker"><strong>发言人3: </strong></span>
+我觉得咱们今天聊这个话题，可能听我们这个播客的人90%是没办法感同身受的。推荐能力做到千人千面，这不是一个应该的事情吗？甚至说我现在也有点恍惚，就是我在没有推荐的时候，我是怎么看信息的？是我觉得应该回忆起来，应该是我看贴吧的时候，就是你顶上去的看那个帖子，然后至于说。
+</p>
+<p class="transcript-line">
+<span class="time"><strong>[00:15:16]</strong> </span>
+<span class="speaker"><strong>发言人1: </strong></span>
+按照最后回复来排序。
+</p>
+<p class="transcript-line">
+<span class="time"><strong>[00:15:18]</strong> </span>
+<span class="speaker"><strong>发言人3: </strong></span>
+对对对。
+</p>
+<p class="transcript-line">
+<span class="time"><strong>[00:15:19]</strong> </span>
+<span class="speaker"><strong>发言人2: </strong></span>
+不能挖坟，你把那个你不能挖坟这个有理。
+</p>
+<p class="transcript-line">
+<span class="time"><strong>[00:15:22]</strong> </span>
+<span class="speaker"><strong>发言人3: </strong></span>
+对，挖坟就是咱们有一些设计规则。对，然后对，就是这样的一些逻辑。对然后其实很缘故，我其实根本想不起来现在没有推荐可能会是什么样的对对对对，以及说其实咱们如果去翻一些公开公司的一些财报，比如说B站的财报，你会发现人平均时长它现在应该最新已经到100多分还是110分钟，我忘了。那最早应该几年前应该可能也只有四五十分钟或者五天。对，每天人均DAU人均就是人均日活，他可能每天在上面花的时间。
+</p>
+<p class="transcript-line">
+<span class="time"><strong>[00:15:53]</strong> </span>
+<span class="speaker"><strong>发言人3: </strong></span>
+这个东西就像咱们刚刚说千人千面，其实有两个有有两个土壤。第一个就是说从供给层面上来说，就是今天有多少人在创作。如果说今天只有十个人创作，比如说最早来说这个平台只有100个人创作，那你一个人就可以把这今年的新的东西给刷完了。对是否千人千面根本无所谓。对，比如说我们如果过去在一些小的贴吧，一天可能也就二十几个人发帖，你完全可以把它刷完。比如说一些小的论坛，那可能这个论坛就几千人，咱们发帖的那些人都认识，这是发算法可以发挥的空间就更不大。
+</p>
+<p class="transcript-line">
+<span class="time"><strong>[00:16:25]</strong> </span>
+<span class="speaker"><strong>发言人1: </strong></span>
+所以就变成一个鸡生蛋蛋生鸡问题。就是好像你要先如果不就是不要求远见的话，那么就是等着内容端先有特别多的东西overwhelming了，然后我们再需要一个。但是就是真正做这个东西的那个走在前面的人，他就要提前想到这个。
+</p>
+<p class="transcript-line">
+<span class="time"><strong>[00:16:40]</strong> </span>
+<span class="speaker"><strong>发言人3: </strong></span>
+对对对，所以从另外一方面来说，之所以咱们今天在聊这个事儿，是因为他成了，他成了是因为在过去的时间点，它各种条件也都成熟了。
+</p>
+<p class="transcript-line">
+<span class="time"><strong>[00:16:49]</strong> </span>
+<span class="speaker"><strong>发言人1: </strong></span>
+对对对，就是自然之力，就是自然之力。对。
+</p>
+<p class="transcript-line">
+<span class="time"><strong>[00:16:51]</strong> </span>
+<span class="speaker"><strong>发言人3: </strong></span>
+汇合在一起了。对，一个物种如果存续，那它一定是因为它有它的生存之道。
+</p>
+<p class="transcript-line">
+<span class="time"><strong>[00:16:56]</strong> </span>
+<span class="speaker"><strong>发言人1: </strong></span>
+而且更让人感慨的是说，这个推荐算法的的这个东西是一个在工程的现场在做这个事儿。然后通过提升转化率，然后得到实际的好处，然后再加大投入。然后在工程里面是不断的去迭代提升过程。它跟其他的领域不太一样。你像你像同样是拿诺贝尔奖，同样是AI对那可能比如说alf fold或者是基因编辑，对他就不他就是一个一小撮科学家，对，可以在他的办公室里面做出来的事儿。但是推荐算法更更像是一个群体智慧。智能的一个结果。
+</p>
+<p class="transcript-line">
+<span class="time"><strong>[00:17:28]</strong> </span>
+<span class="speaker"><strong>发言人3: </strong></span>
+对这个生态里面是有很多人在一起玩的。比如说有消费者用户在里面消费，有创作者在里面创作作品，有平台，我们可能会有一些比如说自己的一些题材主张。比如说对于B站来说，他可能游戏？二次元。比如说对于小红书来说，可能会把一些生活的一些知识放在里面。它其实是说各家一起在里面玩，然后把这个生态给一起做。
+</p>
+<p class="transcript-line">
+<span class="time"><strong>[00:17:55]</strong> </span>
+<span class="speaker"><strong>发言人1: </strong></span>
+这那的对对对对对，确实是这个过程。要说回到您个人，所以就是这个风口就成为了一个现实之后，各家都开始做做这个事儿，然后对那个就是两头都变得很大了，然后这个用户端也非常大，内容创作端也非常大对，然后就回到您个人的经历，接下来你就是你做了什么。
+</p>
+<p class="transcript-line">
+<span class="time"><strong>[00:18:15]</strong> </span>
+<span class="speaker"><strong>发言人3: </strong></span>
+然后又经历，大概在19年18年，阿里发了一篇论文deep interest data ork就是DI他做的设计是什么呢？
+</p>
+<p class="transcript-line">
+<span class="time"><strong>[00:18:25]</strong> </span>
+<span class="speaker"><strong>发言人1: </strong></span>
+就是兴趣网络，深度兴趣网络就是这个意思。
+</p>
+<p class="transcript-line">
+<span class="time"><strong>[00:18:28]</strong> </span>
+<span class="speaker"><strong>发言人3: </strong></span>
+对，深度兴趣网络它其实做的就是跟我们现在大模型有点关系。它其实是比如说一个用户有1000个历史行为，然后我从中间找到，比如说30个，然后跟这个东西做一次，就是看里面有哪些跟我是相关的，跟这个候选的视频是相关。然后根据这些你历史看的视频，然后判断你对哪些视频感兴趣。我们推荐里面叫做序列建模。
+</p>
+<p class="transcript-line">
+<span class="time"><strong>[00:18:56]</strong> </span>
+<span class="speaker"><strong>发言人3: </strong></span>
+就是从这个角度来说，其实阿里发生面对文，它可能的动机叫做，比如说你同时在淘宝我买衣服对吧，我也去再买一些生活物品。然后现在比如说他的这个推荐页面，我是想要判断这个衣服你喜不喜欢。那我要把你的过去生活物品的购买记录拿过来去参考，这没有意义。所以他就会把你过去买的衣服跟这个衣服做一下比较。如果发现都是白领穿的衣服，那可能你去购买的概率就更大。如果说他是个工装，那明显你可能就不太想看。
+</p>
+<p class="transcript-line">
+<span class="time"><strong>[00:19:31]</strong> </span>
+<span class="speaker"><strong>发言人3: </strong></span>
+对然后这个其实是延续了我们大概从19年到23年做的很多的工作。就是推荐上的工作都是在做虚拟的建模以及说多目标。但比如说多目标我们可能会做的更加复杂。比如说从时长点赞、关注，包括像全屏、分享，我们会把用户的使用过程中所有的行为都做拆解。然后我们首先考虑的是说，哪些行为到底是反映这个用户对这个视频是满意的，是买账的。
+</p>
+<p class="transcript-line">
+<span class="time"><strong>[00:20:07]</strong> </span>
+<span class="speaker"><strong>发言人3: </strong></span>
+你哪些动作又能反映这个东视频它其实是在骗用户，骗这个平台。所以其实我们是希望能够把用户给服务好。因为某种程度来说，只有用户对你这个内容消费满意，用户才会留在这个平台。
+</p>
+<p class="transcript-line">
+<span class="time"><strong>[00:20:23]</strong> </span>
+<span class="speaker"><strong>发言人3: </strong></span>
+其实我们在做，说回来就是我们做推荐的工作，其实分几部分的。第一部分叫做用户体验，第二部分叫做做轴的体验，就按我们的这个B端和C端。然后第三部分可能叫做生态工作，比如说像C端的话，我们就会考虑你推的用户准不准。比如说用户看这个视频会不会秒退。那如果秒退，那说明比如说封面上标签好用户可能是体验不好，用户会不会点不喜欢。
+</p>
+<p class="transcript-line">
+<span class="time"><strong>[00:20:52]</strong> </span>
+<span class="speaker"><strong>发言人3: </strong></span>
+如果到B端这一块，中间是包括作者和生态的。作者就是说就是用这个作者他如果创作的好作品，他有没有拿到足够多的流量？如果拿不到足够多的流量，它是什么原因？我们要把这个问题解决好。第二块就是说生态，就是有哪些作品它不好，但是拿到比较敏感。我们其实也要对它质地，其实就推荐是一个大家看到的我这个页面出的那个内容，其实里面涉及到那个技术，包括非常多我们对于这个生态理解，包括质疑的工作其实非常。
+</p>
+<p class="transcript-line">
+<span class="time"><strong>[00:21:27]</strong> </span>
+<span class="speaker"><strong>发言人1: </strong></span>
+多是就是听你说这么多，这里面隐含的意思就是它的目标比我们以为的要复杂。
+</p>
+<p class="transcript-line">
+<span class="time"><strong>[00:21:32]</strong> </span>
+<span class="speaker"><strong>发言人3: </strong></span>
+会非常复杂。
+</p>
+<p class="transcript-line">
+<span class="time"><strong>[00:21:33]</strong> </span>
+<span class="speaker"><strong>发言人1: </strong></span>
+我们只是觉得这个互联网公司就是要不择手段的把我留在这儿，增加我的用的用户时长和粘性。但是在其实里面，就是内含了不一样的目标。我听起来像是这样。
+</p>
+<p class="transcript-line">
+<span class="time"><strong>[00:21:43]</strong> </span>
+<span class="speaker"><strong>发言人3: </strong></span>
+对，就是我觉得首先比较坦白来说，就是各大互联网公司肯定是希望我用你这个用我的APP对吧？就是希望你们在我这边时长更多。但是我们极端来说，我觉得具体到某一天，或者说我们在优化目标的时候，其实我们并没有那么极致的去优化市场。至少对于我个人在断团队的时候是我是不太care涨时长这个事儿。
+</p>
+<p class="transcript-line">
+<span class="time"><strong>[00:22:09]</strong> </span>
+<span class="speaker"><strong>发言人1: </strong></span>
+的哦啊涨时长这个事儿不是绝对，就是至尊重要唯一。
+</p>
+<p class="transcript-line">
+<span class="time"><strong>[00:22:14]</strong> </span>
+<span class="speaker"><strong>发言人3: </strong></span>
+的目标看看团队就是看那个公司。至但至少我个人对这个事情没那么看重，或者我对这个事情理解是说我们最终目标是用户，就是比如说一年之后还用我这个APP，对，或者说我这个APP能够能不能陪伴这个用户可以非常久，那我们就不只能不能只看今天。
+</p>
+<p class="transcript-line">
+<span class="time"><strong>[00:22:34]</strong> </span>
+<span class="speaker"><strong>发言人1: </strong></span>
+对，这个里面隐藏的东西，我觉得接下来都会涉及到。就是说你如果你想办法让用户多点一次，或者多停留一分钟，跟一年以后他依然对你这个平台有好印象。
+</p>
+<p class="transcript-line">
+<span class="time"><strong>[00:22:44]</strong> </span>
+<span class="speaker"><strong>发言人3: </strong></span>
+这个事儿不一定总是一致，不一定一致的对，就比如说我今天让这个用户多看十分钟，我觉得这个事情到底有意义吗？我觉得意义不一定大。我就是为什么有的团队他会急着说我争取多一分钟。因为对其实他会觉得假定你在这个平台多用一分钟你会多看。但其实不一定。因为大家都能看到一些用户case，就是说用户觉得我太沉迷这个APP了，我把它卸载了。那你其实可能多了一天的活跃度，但你损失了未来365乘比如说50的价值。
+</p>
+<p class="transcript-line">
+<span class="time"><strong>[00:23:19]</strong> </span>
+<span class="speaker"><strong>发言人3: </strong></span>
+所以说比如说现在我们会更关注用户有没有发生有效的互动。比如说我看这个视频是只看了只花了时间，还是说我们同时也有点赞关注。甚至说我有没有在发评论，有没有去比如说我有没有去夸这个作者，我有没有去就这个内容展开讨论。甚至说比如说现在在推荐里面，最近两三年我们做长期价值建模这个事情会用的比较多。
+</p>
+<p class="transcript-line">
+<span class="time"><strong>[00:23:50]</strong> </span>
+<span class="speaker"><strong>发言人3: </strong></span>
+就是我们会去考虑说你跟这个作者会不会比如说在未来180天，你们会看他180天看几天。那你也想一想，如果说这个作者他自己只是一个营销场标题党，自己其实没有什么内涵，那他顶多让你看两天，看三天，但你不可能看180天。如果180天你还看他，那倒推我们去看这些内容都是作者非常用心创作且非常有人格魅力的一些作者。
+</p>
+<p class="transcript-line">
+<span class="time"><strong>[00:24:19]</strong> </span>
+<span class="speaker"><strong>发言人3: </strong></span>
+所以我觉得就现在反过来说，反过的话，如果一个做用户如果看一个作品看180天，那当然也会在这个平台上活跃180天对对。那反过来说，如果一个作者，如果这种作者你能看多长时间吗？我觉得你很难看，非常时间，因为这种作品你可能需要花很多的脑细胞，对吧？你这种作品你看三个，你今天可能你的脑力就已经花完了。
+</p>
+<p class="transcript-line">
+<span class="time"><strong>[00:24:46]</strong> </span>
+<span class="speaker"><strong>发言人3: </strong></span>
+是啊，但是但但是就是说我们就就但我们可能我们的推荐系统也是一个什么萝卜青菜都有。是啊我们既有下里巴人，也有阳春白雪。因为其实我我个人觉得视频内容消费这个事情就跟我们的生活一样。我们既要有学习的一部分，也要有工作的部分，也要有娱乐一部分。所以说其实我们的整个推荐里面是多种价值兼容的。我刚刚说的一种价值就是强调的是学习类的价值。我们可能也要有轻松娱乐的价值。对，我也要去让樱木的人在这里获得快乐，是对我也需要也在工作中丧失能量，在这恢复能量。
+</p>
+<p class="transcript-line">
+<span class="time"><strong>[00:25:26]</strong> </span>
+<span class="speaker"><strong>发言人3: </strong></span>
+所以说我们的推荐内容体系里面，既会有那种非常长期价值，也会有短期价值。但短期价值一定不只有市场，我们一定会考虑你一分钟，比如说1个小时内你有没有发生基本的互动。如果你一次点赞都没有纯使用，那是不是他就是在给你洗脑，那是不是也不OK，是不是也是同样的一个内容创作里面他给你差那个。
+</p>
+<p class="transcript-line">
+<span class="time"><strong>[00:25:51]</strong> </span>
+<span class="speaker"><strong>发言人3: </strong></span>
+所以我自己的一个视角，就是说从生态视角里面，我永远可能在考虑一个问题，叫做OK。你看舞蹈这没问题。所以这个舞蹈跟跳的同样一个舞，有没有人比这个视频跳的更好。
+</p>
+<p class="transcript-line">
+<span class="time"><strong>[00:26:06]</strong> </span>
+<span class="speaker"><strong>发言人1: </strong></span>
+这个没问题。
+</p>
+<p class="transcript-line">
+<span class="time"><strong>[00:26:07]</strong> </span>
+<span class="speaker"><strong>发言人3: </strong></span>
+然后这个视频那个更好的视频为什么没有推荐给你？那更好的是就是从我们的用户视角看这个问题的。那从作者视角来看，那个跳更好的那个作者有没有拿到更多的播放量。是对。
+</p>
+<p class="transcript-line">
+<span class="time"><strong>[00:26:21]</strong> </span>
+<span class="speaker"><strong>发言人1: </strong></span>
+但问题是这个人他就是真实的人。他是他又想学英语，对他又想看那个擦边舞蹈，对他又想看一些见证，反正就是一个人。有多种多样的需求。但是最终在我们这个天天使用的产品里面，对它都被无情地压进了一个往下滑的时间线里面。就是在在一个瀑布流里面，就是在这个信息流里面，所有的东西不可比较的东西被无可避免的要进行比较，并且提呈现为一个单一的序列。
+</p>
+<p class="transcript-line">
+<span class="time"><strong>[00:26:49]</strong> </span>
+<span class="speaker"><strong>发言人1: </strong></span>
+就是我想问你这个概念就是在很多年前的自己的一个网页上，就是他首次公开算法的时候，但是这个已经好多年前了。对，就是他提供他提出一个概念，在我看来这是一个特别科幻的概念。就是这是什么东西呢？就是他们会说算法推荐本质上是在优化一个用户满意的满意度的函数。对。但是人心这么复杂，就是用户满意度的函数就like what is IT，就是它能写成一个函数吗？它里面有限个变量，然后我们都能够解释的清楚。你的工作就是在优化这么一个东西，这听起来很不可思议。
+</p>
+<p class="transcript-line">
+<span class="time"><strong>[00:27:26]</strong> </span>
+<span class="speaker"><strong>发言人3: </strong></span>
+我觉得就是我觉得这是一个分支问题，就是我它有几个层，就是说如果我们最终给你了你一个推荐的展现列表，然后你满不满意？其实底层是就是我们不考虑推荐它有几个环节，我们就聊那个最抽象逻辑。因为我们刚刚聊了，其实我们会建模，就用模型去拟合很多的目标。如果你对这个视频不满意，那会有两层，第一层叫做你这个目标礼盒的不好，就是你这个模型的算力给的不够，你这个模型结构不够复杂。对应像现在大模型，我们有啊7B的对吧？300B的那这个东西它是一个在进化的过程，比如说我们觉得你会点击，但你实际没有点击。对，这是第一个。我就是我们的这个目标是唯一的，但是模型的算力，我们唯一的话就是算力，就是模型的能力不够，这个是一个在始终迭代的过程，这是形成这个满意度的基础。
+</p>
+<p class="transcript-line">
+<span class="time"><strong>[00:28:30]</strong> </span>
+<span class="speaker"><strong>发言人3: </strong></span>
+第二个逻辑叫做我要不停的增加不同维度目标。对，就是我过去我最开始可能只有点击率，后来有时长，后来有点赞，后来可能有关注，后来可能还有一些组合目标。再过来我可能有一些长价值目标，我去判断你跟这个作者可能未来可能交互多少天，累积一年可能播放多长时长。
+</p>
+<p class="transcript-line">
+<span class="time"><strong>[00:28:53]</strong> </span>
+<span class="speaker"><strong>发言人3: </strong></span>
+在上面第三层就是说在这一刻哪个目标权重应该是多少最大的。所以这三层就是我们其实这三件事情是分开做的。第一件事情可能是团队中某些同学来做。然后第二件事情就是做新的目标，我们可能跟也是一件单独的事情。
+</p>
+<p class="transcript-line">
+<span class="time"><strong>[00:29:13]</strong> </span>
+<span class="speaker"><strong>发言人3: </strong></span>
+第三个事情叫做这些目标之间的权衡，如何权衡？过去来说有的公司它是用也是用算法自动的去决定这个权重应该是什么样的。对，但是我个人的价值主张就是说对于每个人来说这个就是不一样的。所以说我们会通过一些方法来对不同的用户生效不一样的目标。然后现在有些算法是会根据你的未来几天的活跃度来反推这些目标应该生效的权重。
+</p>
+<p class="transcript-line">
+<span class="time"><strong>[00:29:46]</strong> </span>
+<span class="speaker"><strong>发言人3: </strong></span>
+但是这个算法现在非常不成熟。因为用户比如说你明天来用不用这个APP，这个原因很复杂。有可能是因为就比如说你跟同朋友一起约出去玩了。
+</p>
+<p class="transcript-line">
+<span class="time"><strong>[00:29:59]</strong> </span>
+<span class="speaker"><strong>发言人1: </strong></span>
+所以你就他并不全是你这个本身表现的好不好。
+</p>
+<p class="transcript-line">
+<span class="time"><strong>[00:30:03]</strong> </span>
+<span class="speaker"><strong>发言人3: </strong></span>
+所以你会发现越是前面的它越简单、越直接、越干净。
+</p>
+<p class="transcript-line">
+<span class="time"><strong>[00:30:08]</strong> </span>
+<span class="speaker"><strong>发言人1: </strong></span>
+有你说第一层就是那个模型的参数量越大算力越大，这个是个绝对的改对的概念，绝对改进就是越好。然后第二层就不一定了。
+</p>
+<p class="transcript-line">
+<span class="time"><strong>[00:30:18]</strong> </span>
+<span class="speaker"><strong>发言人3: </strong></span>
+第二层不一定。就比如简单一个，比如说我们过去就是调研了一个叫全屏播放目标。然后这个目标的话就非常有意思，就是说我们发现这个目标就率最高的一些稿件是什么呢？是一个视频，他放了自己的那个初中毕业的那种合照照片。然后为什么它全屏率高呢？所以大家全屏之后找这个照片里面有没有自己。对对，那那这个视频好不好呢？我们在实验阶段会发现这个视频，比如说是A初中的，这个初中总共才100个人，他可能推给了10万人，那个10万人可能体验就被打扰了，这就是一个不好的目标。
+</p>
+<p class="transcript-line">
+<span class="time"><strong>[00:30:57]</strong> </span>
+<span class="speaker"><strong>发言人1: </strong></span>
+对那些人来说是个莫名其妙的对。
+</p>
+<p class="transcript-line">
+<span class="time"><strong>[00:30:59]</strong> </span>
+<span class="speaker"><strong>发言人3: </strong></span>
+就是对我自己。
+</p>
+<p class="transcript-line">
+<span class="time"><strong>[00:31:00]</strong> </span>
+<span class="speaker"><strong>发言人2: </strong></span>
+有个现实的例子，就是有一次有一年我们拍过一个影集叫海拉尔真的存在吗？那是个纯艺术作品。对，但是因为他触发了地域关键词，就是他推给了几乎全是海拉尔的人，然后全是在骂我，十多万阅读全是骂我。他又说海拉尔怎么可能不存在，因为你把一个纯艺术的标题推给了海拉尔人，那海拉尔人会觉得被冒犯了吗？我们怎么不存在了？
+</p>
+<p class="transcript-line">
+<span class="time"><strong>[00:31:22]</strong> </span>
+<span class="speaker"><strong>发言人1: </strong></span>
+对，就这种事儿每天都在发生，就是一个非科技的语境。由于科就是一个技术本身就工程层面的优化，然后就是活活生生的就呼啦错开了。
+</p>
+<p class="transcript-line">
+<span class="time"><strong>[00:31:33]</strong> </span>
+<span class="speaker"><strong>发言人3: </strong></span>
+对，所以说我们在加目标的时候非常谨慎。比如说全屏这个目标，我可能要结合它的播放时长要足够长，我觉得才是个有效的全屏，而不是一个无效的全屏，而不是无效的全。在这里面可能是一层，就是我需要保证我从目标层面来说，它可能有一些bad case，就是这个目标它发生了，但是其实用户体验不好。我们需要保证它这个比例是尽量低的。是否则你可能就是我80%变好，22% 10变差了，这不是个电车难题吗？对我觉得电车难题估计但是我觉得咱们在做这个算法的时候，尽量还是得让它有解。
+</p>
+<p class="transcript-line">
+<span class="time"><strong>[00:32:07]</strong> </span>
+<span class="speaker"><strong>发言人1: </strong></span>
+让它贴合它实际的情况。
+</p>
+<p class="transcript-line">
+<span class="time"><strong>[00:32:10]</strong> </span>
+<span class="speaker"><strong>发言人2: </strong></span>
+但这里面我感觉我很有意思，就是当年咱们刚做，比如说像刚做自动驾驶的时候，人们会对自动驾驶有一个非常乐观的估计。对，是因为交规是有限的对，如果交规是有限的，车就能自动驾驶，是因为你只要学会有限的规则就可以。但当人们学让车学有限的规则之后，就遇到确实很难。因为现实的各种各样的情况是无限的。
+</p>
+<p class="transcript-line">
+<span class="time"><strong>[00:32:31]</strong> </span>
+<span class="speaker"><strong>发言人3: </strong></span>
+对对对。
+</p>
+<p class="transcript-line">
+<span class="time"><strong>[00:32:32]</strong> </span>
+<span class="speaker"><strong>发言人2: </strong></span>
+所以这让我联想到一个事儿，就你刚才如果大家听这个节目，从开始一直听到现在，会意识到推荐算法是一套一直在进化的系统对他是想一个生物在不断的适应环境。对但反过来来说，推荐是推荐算法制造了另一个大自然。就是很多内容创作者会觉得推荐算法是一个东西。
+</p>
+<p class="transcript-line">
+<span class="time"><strong>[00:32:51]</strong> </span>
+<span class="speaker"><strong>发言人1: </strong></span>
+就是说每个就你刚才那一句话可以颠倒那个l gram就是推荐算法制造了一个就让人适应。
+</p>
+<p class="transcript-line">
+<span class="time"><strong>[00:32:58]</strong> </span>
+<span class="speaker"><strong>发言人3: </strong></span>
+对，然后是就是不是对。
+</p>
+<p class="transcript-line">
+<span class="time"><strong>[00:33:02]</strong> </span>
+<span class="speaker"><strong>发言人2: </strong></span>
+但对其实不是，我想解释这个事儿，这个事儿很难把语言说清楚。我来仔细说一下这个问题。首先很多像我这样的内容创作者会认为网站有版本，对，就是这个版本火这样的内容，这个版本火那样的内容，某种程度来说这是对的。是因为推荐系统确实在更新，某一个更新确实有一种权重，这个权重可能就是一个版本。但如果就是那个海岸线效应，你远看海岸线是这样波浪，但你近看全是锯齿。如果你离近看的推荐系统它也是一样的。
+</p>
+<p class="transcript-line">
+<span class="time"><strong>[00:33:29]</strong> </span>
+<span class="speaker"><strong>发言人2: </strong></span>
+虽然一个大版本有一个固有的目标，但是这里面每一个分支里面那个具体标准不一样。所以它不是一个版本的是安全资源系统，它是一个大一个完全的自然环境。这个自然环境中有很有很多不同的进化方向，只不过我们总体感觉生物是往一个方向进化。但你到具体的那个进化树的一个分叉，你会意识到，原来他们都不一样。但是这里面有一个很有意思的地方，就是大自然是个纯被动的事儿。今天这个大自然变成什么样，跟宇宙大爆炸是直接挂钩的，对吧？但是推荐系统是个人造的东西，对，就是人们在往里面思考人们需要什么别的东西，往里加很多东西。那当你往里加到一定多的参数的时候，你怎么能确保你加的参数是这个参数直接影响的这个版本呢？
+</p>
+<p class="transcript-line">
+<span class="time"><strong>[00:34:13]</strong> </span>
+<span class="speaker"><strong>发言人1: </strong></span>
+我感觉他不可能确保他他只能就是闯。我觉得闯一点小祸是他们工作的日常。
+</p>
+<p class="transcript-line">
+<span class="time"><strong>[00:34:18]</strong> </span>
+<span class="speaker"><strong>发言人3: </strong></span>
+我我感觉是我觉得就是呃呃我再。
+</p>
+<p class="transcript-line">
+<span class="time"><strong>[00:34:21]</strong> </span>
+<span class="speaker"><strong>发言人2: </strong></span>
+解释一下这个事儿，就是创作者觉得推荐算法是一个版本，我只要适应这个版本就行。对，但这个在咱们做技术上来看是不可能的。是因为这个算法具体到某一个具体的项目和具体的用户身上的时候，他是完全有一套不同的逻辑的。但反过来就是这套不同的逻辑它会让参数变得越来越多，导致最后做内容的人不知道我怎么做能被推荐。那有没有可能做推荐的人也不太知道我动哪个事儿，能造成什么样的影响？
+</p>
+<p class="transcript-line">
+<span class="time"><strong>[00:34:52]</strong> </span>
+<span class="speaker"><strong>发言人3: </strong></span>
+我觉得两问题。第一个问题叫做创作者应该怎么去创作。第二个逻辑叫做做一个工程师，我对于自己的推荐系统是否足够control。
+</p>
+<p class="transcript-line">
+<span class="time"><strong>[00:35:05]</strong> </span>
+<span class="speaker"><strong>发言人2: </strong></span>
+对对对。
+</p>
+<p class="transcript-line">
+<span class="time"><strong>[00:35:06]</strong> </span>
+<span class="speaker"><strong>发言人3: </strong></span>
+我觉得第一个点来说，就刚刚聊出来大家应该也知道，就是说我们做这个事情的本质其实是让用户看到自己满意的内容。然后作者就是好的创作者，创作的好内容得到他应有的分发。所以说我们在迭代过程中，实际上面用户应该是越来越满意的，作者也应该是越来越满意的，但这个用户侧应该是完全没有问题的。作者侧其实要分档的，叫做好的作者越来越满意。但是比如说其实就是有一些灰黑产，包括一些就是现在有很多低成本的一些创作，这些人他可能是不满意的对所以说某种程度如果说你的作品用户都喜欢，那你不应该担心一代版本一代神，你应该是永远的神。相反如果说如果下个版本你不行了，那是不是说明就是你过去是靠过去那个版本的bug拉动的流量。
+</p>
+<p class="transcript-line">
+<span class="time"><strong>[00:36:07]</strong> </span>
+<span class="speaker"><strong>发言人3: </strong></span>
+对，就是我我不知道有人这个所以说作为一个创作者来说，肯定是说你优化了一些自己技巧，你可能可以涨百分之十二十的流量。但他不会决定你直接少90%的流量。如果少90%的流量可能是你换题材了。还有一个逻辑就是说就是我说如果你的作品足够好，你一定能拿到对应的流量。还有一个潜在的风险叫做18年的火作品，25年还能不能火？就是用户的需求已经发生变化了，咱们竞争环境也发生变化了。所以说一代版本一代神如果成立的话，我觉得推荐算法的影响应该是比不上需求和作品之间竞争力的变化来的影响。
+</p>
+<p class="transcript-line">
+<span class="time"><strong>[00:36:49]</strong> </span>
+<span class="speaker"><strong>发言人1: </strong></span>
+大对对，有道理有有道理。就是说。如果从短期来看，就先不考虑用户需求的根本性的变迁。对，就是你的内容的绝对品质是一个这个事儿是一个可以说是一个公道自在人心的事儿，就是好东西肯定比不好的东西要好。
+</p>
+<p class="transcript-line">
+<span class="time"><strong>[00:37:03]</strong> </span>
+<span class="speaker"><strong>发言人3: </strong></span>
+如果这个对象系统在正常演奏，对，就是你的作品又是比如说在整个的所有作品你是top 100的，那你只应该比过去拿到更多的流量。
+</p>
+<p class="transcript-line">
+<span class="time"><strong>[00:37:14]</strong> </span>
+<span class="speaker"><strong>发言人1: </strong></span>
+你不会因为你对这个版本迭代的这个事儿缺乏了解，而失去自己的基本盘，就一下子就没人看了或者怎。
+</p>
+<p class="transcript-line">
+<span class="time"><strong>[00:37:23]</strong> </span>
+<span class="speaker"><strong>发言人3: </strong></span>
+对对对，就是有可能比如说有一定影响。但我理解我个人觉得这个影响应该在比如说10%到20%以内。
+</p>
+<p class="transcript-line">
+<span class="time"><strong>[00:37:31]</strong> </span>
+<span class="speaker"><strong>发言人1: </strong></span>
+是一个比较合理的状态。
+</p>
+<p class="transcript-line">
+<span class="time"><strong>[00:37:33]</strong> </span>
+<span class="speaker"><strong>发言人3: </strong></span>
+比较合理的状态就是因为它就算是一个潮汐，举个例子来说，我们看周末跟周中，大家看的内容就完全不一样。比如说游戏类的视频，周末的时候看的人就非常多。因为大家周末的时候才能玩游戏，那玩游戏才能看游戏。对。
+</p>
+<p class="transcript-line">
+<span class="time"><strong>[00:37:48]</strong> </span>
+<span class="speaker"><strong>发言人1: </strong></span>
+那比如音频博客，周末人听的特别少，因为人家实际可以用不住眼。
+</p>
+<p class="transcript-line">
+<span class="time"><strong>[00:37:53]</strong> </span>
+<span class="speaker"><strong>发言人3: </strong></span>
+就是我们发现周末的周中的时候，晚上大家比如12点大家看什么视频？就是助眠视频。对，工作一天大佬还在这里睡不着怎么办？是是是对吧？来听个播客助个眠。对，所以说就是我觉得我们创作者对流量来说，如果要成为一个幸福的创作者，还是要钝感一点。但是如果降太多，那我们可能还是要看看还是对吧？
+</p>
+<p class="transcript-line">
+<span class="time"><strong>[00:38:21]</strong> </span>
+<span class="speaker"><strong>发言人1: </strong></span>
+但话说回来，如果要是因为版本迭代而让风平浪静的内容创作者，就是屡屡要遭受这个断崖式的我觉得断崖的损是不应该的。如果是这样的话，那我觉得这个产品是出问题了。
+</p>
+<p class="transcript-line">
+<span class="time"><strong>[00:38:33]</strong> </span>
+<span class="speaker"><strong>发言人3: </strong></span>
+对，那它自然这个产品就会被淘汰了。因为做创作者也是，就是好像明面上是用户选择了平台，但我觉得底层创作者选择平台，就当他们是一个互为因果的。如果今天你这个平台创作者都走了，那用户是不可能独存的对，那一个用户一定会跟着创作者走。
+</p>
+<p class="transcript-line">
+<span class="time"><strong>[00:38:50]</strong> </span>
+<span class="speaker"><strong>发言人1: </strong></span>
+但是话说回来，这个事儿不是一个开关，对吧？
+</p>
+<p class="transcript-line">
+<span class="time"><strong>[00:38:53]</strong> </span>
+<span class="speaker"><strong>发言人3: </strong></span>
+不是一个非黑即白的问题。
+</p>
+<p class="transcript-line">
+<span class="time"><strong>[00:38:54]</strong> </span>
+<span class="speaker"><strong>发言人1: </strong></span>
+这个陷阱就是说我想说的是那种完全浑然天成的，特别有机的原创的创作者，只占这创作人群里的都都很小一部分，那些灰黑产也只是一部分。其实还有很多是在介于他俩中间的，就是说他自己有没有点创作的那个出发点呢？他是有的素人优酷，但是他总来说是在是在观察，现在做什么样的视频是能够被推荐的。然后他就照着这个很兢兢业业的在就就在这块学，在这抄。其实这个我觉得占比例是非常大的。所以他们其实是要面对两边的这个hazard，就是说用户本身需求的变化，他那那那他就得就低下头去学去学新东西。然后这个算法版本迭代的变化，有可能会对他造成比较大的扰动。
+</p>
+<p class="transcript-line">
+<span class="time"><strong>[00:39:38]</strong> </span>
+<span class="speaker"><strong>发言人3: </strong></span>
+你觉得是这样就是这样的，我们在B端那个生态端会做一个事叫做冷启动。一般来说每个平台策略不一样，但一般都是有这个测。如果你是一个平台的新作者，你上传的前几个稿件会给一个比较高的流量，就是为保底流量会给他。比如说一千播放，我播放如果说你创作能力比较好，那后面首先就是你不会被埋没。你不会因为你是个树人创作者，所以没有用户看你，你得不到表现机会。以及说未来你每一篇的投稿都会有一些保底资料。
+</p>
+<p class="transcript-line">
+<span class="time"><strong>[00:40:16]</strong> </span>
+<span class="speaker"><strong>发言人3: </strong></span>
+比如说三百播放，然后如果是300个用户去验，你如果300个人验你的表现这个视频的表现都一般，那你就是我们还是回归自身对吧？对，如果说300个表现更好，那你当然就是整个推荐系统就已经能就是能你就学习到你的这个内容，好内容就会给你更多的流量。所以说大概是这个逻辑，就是不用担心说就是你没有机会。其实这个系统就是推荐系统本身有随机性，我们会做很多工作去降低这个随机性。
+</p>
+<p class="transcript-line">
+<span class="time"><strong>[00:40:48]</strong> </span>
+<span class="speaker"><strong>发言人3: </strong></span>
+对，然后当然我也理解你另外一个点，就是说是不是说这个太推荐系统的版本是一代天子一代臣，是不是我就某天推荐算法做了一个上线之后，我原来可以达到10万部分的，现在可能只能拿到1万部分。不会这样的，因为我们非常多的迭代，它可能一次迭代只能9000 1200。市场的变化。然后对于某个品类来说，它可能只有比如千5600的变化。就是一年当中能够产生大流量变化的迭代会非常少。然后这个大的流量变化，比如说全局来说，可能也就百120这样的一个幅度变化。OK这应该对所有公司都是这样的。如果不是这样的那一定是因为这个公司的量级太小了，技术的基线太低了。
+</p>
+<p class="transcript-line">
+<span class="time"><strong>[00:41:40]</strong> </span>
+<span class="speaker"><strong>发言人1: </strong></span>
+就别说创作者了，你们自己也不想经历这么大的风浪或者这种伤筋动骨的变化，因为谁知道这个结果是好的。
+</p>
+<p class="transcript-line">
+<span class="time"><strong>[00:41:47]</strong> </span>
+<span class="speaker"><strong>发言人3: </strong></span>
+对，如果是一个特别大的变化，那一定就是会走这个逐级的去推选。就是我会拉长这个时间线。
+</p>
+<p class="transcript-line">
+<span class="time"><strong>[00:41:54]</strong> </span>
+<span class="speaker"><strong>发言人1: </strong></span>
+逐渐的去影响smooth对。
+</p>
+<p class="transcript-line">
+<span class="time"><strong>[00:41:56]</strong> </span>
+<span class="speaker"><strong>发言人3: </strong></span>
+然后另外一个逻辑来说，我们想做这么大影响的迭代也很难。因为这个技术它缓慢推进，比如说一年这个平台可以做百分之AB我们说AB就是我们自己的累加实验。我们刚刚其实还有一个另外一个事，第一个就是作者测应该怎么。第二个就是平台是怎么保证我们是可可trust可追溯的一个迭代的。第二就是说我们真的想要有这么大版本的迭代，其实很难的。一年中这样大的一个技术突破，应该是一双手可以数出来，或者一只手可以数得出来的，就不会有那么多大的影响的迭代的。大家的所有的公司应该都是相当于小步快跑的逻辑在做迭代。
+</p>
+<p class="transcript-line">
+<span class="time"><strong>[00:42:38]</strong> </span>
+<span class="speaker"><strong>发言人3: </strong></span>
+然后就算是有大的迭代，同时的话我们有非常多的指标去trace这个系统的稳定性。比如说一万粉的这个作者，他你的播放量是多少？每一个品类的稿件它的流量占比是多少？包括用户的平均使用时长、平均的播放、平均的兴趣数，有非常多的健康指标在这边死。我们是希望这些指标都是往好的在变的。
+</p>
+<p class="transcript-line">
+<span class="time"><strong>[00:43:03]</strong> </span>
+<span class="speaker"><strong>发言人3: </strong></span>
+所以说原则上来说，就算有大的变动，也是往好的去变动。因为一个公司它一定是变好，对吧？它的整个内容平台变好，一定是作者侧变好，用户侧变好。那不会有公司说我上一个线要内容，就是用户侧和作者侧变差了，不排除邮政公司，但是应该肯定是少数，这个公司肯定也活不久。
+</p>
+<p class="transcript-line">
+<span class="time"><strong>[00:43:23]</strong> </span>
+<span class="speaker"><strong>发言人2: </strong></span>
+对吧？对我可不可以认为在你的价值观里面，用户审美的变化对于这事儿的影响力要远远大于推荐算法的影响力。
+</p>
+<p class="transcript-line">
+<span class="time"><strong>[00:43:32]</strong> </span>
+<span class="speaker"><strong>发言人3: </strong></span>
+我觉得是这样的，就比如说从最开始的抖音，他刚开始可能就是跟拍？模仿明星这样内容后来有一些具形象的内容，有一些三龙的内容，这些都是新的需求和新的创作者来了，那如假设我们的用户量级不变，那原来的那些内容是不是看的人更少了呢？他一定是会有几张的。
+</p>
+<p class="transcript-line">
+<span class="time"><strong>[00:43:58]</strong> </span>
+<span class="speaker"><strong>发言人3: </strong></span>
+但是这个事情对用户是不是好的呢？对用户是好的，因为他有更多可丰富的内容可以看的对平台我有更丰富的作品，更多的用户，那对原来的那些品类的作者来说好不好呢？我觉得也会好。因为我们就是呃当然是你分时间点，比如说18年这个时间点来看这个事。因为需求的增加，所以用户量级可能是十倍百倍的增加。所以虽然说我的占比下降了，但我的绝对量上升了，但今天来也一样，比如说今年来说AI大模型的进展是个新话题，那它一定是挤压了过去的一些作品。那对于用户来说是不是好事呢？是好事，对于某些作者，比如说做大模型赛道的作者，他也是好事。
+</p>
+<p class="transcript-line">
+<span class="time"><strong>[00:44:41]</strong> </span>
+<span class="speaker"><strong>发言人3: </strong></span>
+但是map可能有一些用户的时间，它增长是有限的，一定是有些需求没了或者变少了。所以说我直接说有些需求没了，我一时半会想不到。但是我说有需求增加了，大家已经认知到了。反过来说已经有很多需求大家已经不看了。对但就是这个。
+</p>
+<p class="transcript-line">
+<span class="time"><strong>[00:45:00]</strong> </span>
+<span class="speaker"><strong>发言人1: </strong></span>
+道理我相信大家如果理性思考的话是能认同的对，但是大家还是会禁不住想或者想要去责备这个平台本身。因为它看上去像是平台去push去推动的一种变。因为就是从算法的的那个角度，人们会想象说OK这是算法在引导我们。就是有点像老师，像幼儿园老师在教我们去去模仿。我觉得不会就不是这样的，我觉得不会。
+</p>
+<p class="transcript-line">
+<span class="time"><strong>[00:45:25]</strong> </span>
+<span class="speaker"><strong>发言人3: </strong></span>
+我们做的一些事会不会对大大的趋势有影响？对，会有。比如说我们假设这个系统与过去是没有收藏目标的，我现在加了一个收藏目标，那明显的我的那些知识课程类的。
+</p>
+<p class="transcript-line">
+<span class="time"><strong>[00:45:39]</strong> </span>
+<span class="speaker"><strong>发言人1: </strong></span>
+就会变多。
+</p>
+<p class="transcript-line">
+<span class="time"><strong>[00:45:40]</strong> </span>
+<span class="speaker"><strong>发言人3: </strong></span>
+这个会带来一些影响。但是理论上我们这种迭代是应加的目标已经相当于都加完了。以及说这种相当于说他带的是一个面，它不会对于某个话题有太多的影响。
+</p>
+<p class="transcript-line">
+<span class="time"><strong>[00:45:53]</strong> </span>
+<span class="speaker"><strong>发言人3: </strong></span>
+以及说几个平台会不会主动的带领这个趋势呢？它会尝试做这个事儿。比如说过去小红书，他可能想要把露营这种生活带给大家，他运营可能做了一些动作。但我觉得这事情就是他能够影响的非常少。他们的所有的运营一起加起来可能能推几万个投稿。但是今天来说几万个投稿是带不来一个趋势的。
+</p>
+<p class="transcript-line">
+<span class="time"><strong>[00:46:19]</strong> </span>
+<span class="speaker"><strong>发言人3: </strong></span>
+对所以说我们比如说这几万个投稿，就是比如说让平台用百五的流量去推这个事。那如果这个平台的用户没有这个需求，那意味着什么？意味着用户的时长可能会掉百3，然后这个平台会损失百亿的用户。首先算法一定不会做这个事对我们可能潜在带来一些，但是我们不会做一些明确的一些相当这样的引导，运营可能会做一些这样的事。运营可能会比如说比如说B站看到视频播客，我是不是撩拨一下这个领域是不是可能野火燎原。
+</p>
+<p class="transcript-line">
+<span class="time"><strong>[00:46:53]</strong> </span>
+<span class="speaker"><strong>发言人1: </strong></span>
+是个零从0到1的一个点火的过程。
+</p>
+<p class="transcript-line">
+<span class="time"><strong>[00:46:55]</strong> </span>
+<span class="speaker"><strong>发言人3: </strong></span>
+对它有可能就点起来了，有可能不一定。但是如果说比如说今天就比如说是回到十年前，我觉得播客这个事你根本聊不起来。是是是，就是我就不说视频，不就纯说播客这个事他也聊不起来。但今天播客这个事情明显就是在起来的一个过程当中。
+</p>
+<p class="transcript-line">
+<span class="time"><strong>[00:47:13]</strong> </span>
+<span class="speaker"><strong>发言人1: </strong></span>
+对用户闲暇而和用户心智的变化是根本的。他要对他不是说你互联网公司想调一下，退一下就改出来的。
+</p>
+<p class="transcript-line">
+<span class="time"><strong>[00:47:20]</strong> </span>
+<span class="speaker"><strong>发言人3: </strong></span>
+因为我觉得这个逻辑上来说是过去7到10年。就是碎片化的知识对大的冲击太透了。我现在在听碎片知识获得感已经比十年前弱了，那我今天就是需要更多的深度知识。这是现在也是我觉得相当优质的视频播客，包括优质的中长视频的一个机会。他可能是一个最最最最终是一个渗透。就比如说大家可能对于短视频的这个要求也是也更高了，我需要可能看更专业的舞蹈，我需要这个剧情没有那么尬，更加自然，这都是一个自然演进的趋势。
+</p>
+<p class="transcript-line">
+<span class="time"><strong>[00:47:55]</strong> </span>
+<span class="speaker"><strong>发言人2: </strong></span>
+我听到这儿我很好奇个事儿，你看这些博主们，包括我们自己，我们流量好了，尤其新人阶段，对那个大大的博主不说，我就没当过大博主。就是那个新人阶段游戏，对，希望游戏多推。你看我如果数据好了，我会说运营推了我对，我会感谢运营。对我数据不好，我会说算法现在不推我了。
+</p>
+<p class="transcript-line">
+<span class="time"><strong>[00:48:14]</strong> </span>
+<span class="speaker"><strong>发言人2: </strong></span>
+对，所以就是你们和运营岗位，他在很多创作者眼中他就是贼模糊。这俩人是不是一伙人？当他表扬和骂的时候，他其实会很明显的意识到这俩东西好像不是一伙人。我不知道你们在工作中，你们和运营是什么关系。创作者好都感谢运营，推不好都都赖算法不推他。那你们在这其中不很冤枉吗？
+</p>
+<p class="transcript-line">
+<span class="time"><strong>[00:48:35]</strong> </span>
+<span class="speaker"><strong>发言人1: </strong></span>
+我肯定我肯我作为一个创作者，我肯定永远都不愿意去承认是需求端，就是我的受众抛弃了我，那肯定是抖音抛弃了我。对。
+</p>
+<p class="transcript-line">
+<span class="time"><strong>[00:48:44]</strong> </span>
+<span class="speaker"><strong>发言人2: </strong></span>
+不是抖音被抛弃，我那时候必然抛弃了我要不就首富抛弃了。对，但绝对不能是我的观众抛弃了我，我的观众抛弃我是因为算法没退他们，我的视频我被拦住了，拦住了我。对，而不是因为他们不喜欢我了。
+</p>
+<p class="transcript-line">
+<span class="time"><strong>[00:48:57]</strong> </span>
+<span class="speaker"><strong>发言人1: </strong></span>
+而且很不是而且很多时候他就是点，就是他并不是就这个事儿，有的时候是真的。就是我我当年就不用知乎，我从一个特别活跃的知乎用户到就是断崖式的不用。
+</p>
+<p class="transcript-line">
+<span class="time"><strong>[00:49:08]</strong> </span>
+<span class="speaker"><strong>发言人3: </strong></span>
+对，就是因为当时。
+</p>
+<p class="transcript-line">
+<span class="time"><strong>[00:49:09]</strong> </span>
+<span class="speaker"><strong>发言人1: </strong></span>
+就是我不想回答问题，然后知乎上了一个叫什么知乎专栏，就不是回就是一个blog，你就可以直接写文章。然后这个知乎专栏就死活不给我分发，他就是不给流量。
+</p>
+<p class="transcript-line">
+<span class="time"><strong>[00:49:21]</strong> </span>
+<span class="speaker"><strong>发言人3: </strong></span>
+就是你做的专栏。
+</p>
+<p class="transcript-line">
+<span class="time"><strong>[00:49:22]</strong> </span>
+<span class="speaker"><strong>发言人1: </strong></span>
+他不给你的专栏。对他不给你分发，就是你的关注，你的那个你的followers收不到这个就他看不见，你知道就活生生把我逼走。
+</p>
+<p class="transcript-line">
+<span class="time"><strong>[00:49:30]</strong> </span>
+<span class="speaker"><strong>发言人2: </strong></span>
+这个事儿也是真的，你知道知乎把我逼走最后一根稻草是啥吗？我们这节目不知道怎么，反正咱自己的节目。
+</p>
+<p class="transcript-line">
+<span class="time"><strong>[00:49:36]</strong> </span>
+<span class="speaker"><strong>发言人3: </strong></span>
+你们自己可以建。
+</p>
+<p class="transcript-line">
+<span class="time"><strong>[00:49:37]</strong> </span>
+<span class="speaker"><strong>发言人2: </strong></span>
+对，就是我们当时20年开始拍纪录片，我们当时这个拍照片几个人加一起，绝对是知乎最最头部的一群人了。然后知乎也希望我们把视频投到他上，他在推视频。对，结果投进去之后我发现没有在。然后他说是因为没推，我当时就很纳闷，就是我们他们加一起100万关注那时候在知乎一百多很多了，已经20年的时候那很多了，我只有四个赞还是14个赞。然后他他就给我们解释说这个正常，这我们还没开始推，这个不正常。我对我当时一股脑火就上来，那那咋弄？我们这一百多万关注者是啥？
+</p>
+<p class="transcript-line">
+<span class="time"><strong>[00:50:13]</strong> </span>
+<span class="speaker"><strong>发言人1: </strong></span>
+我觉得你刚你你刚讲的这个就是你刚才说的这个事儿的那个反面的案例，就有点像是你这个运营劫持了你这个流量，这流量相当于你要跟那个地跟地主的这几个代理人去求爷爷告奶奶就说你就是我要求你赏给我一样。
+</p>
+<p class="transcript-line">
+<span class="time"><strong>[00:50:28]</strong> </span>
+<span class="speaker"><strong>发言人3: </strong></span>
+有点变成这样。这就是我觉得几个事儿，我觉得咱们再聊几个事儿。第一就是说咱们聊了几个事儿。
+</p>
+<p class="transcript-line">
+<span class="time"><strong>[00:50:34]</strong> </span>
+<span class="speaker"><strong>发言人2: </strong></span>
+我感觉这个事儿也挺多的对，不是你看知乎这个事儿，其实就把这个事儿揉到一起了。就是说我的视频在你的推荐，你就是他当时那个显示，就是说我给你推了，你就有流量。但我们理解的意思是，我这些关注者没有意义，是因为你不推没有流量。但这个里面创作者他摸不清的一点是运营和算法之间的关系到底在哪儿。
+</p>
+<p class="transcript-line">
+<span class="time"><strong>[00:50:53]</strong> </span>
+<span class="speaker"><strong>发言人3: </strong></span>
+OK就是我先聊第一个问题，就是运营和算法的关系是什么样的对，就是我们内容日常的协作应该主要是运营会帮我们去，比如说他有一些两类合作之类日常的。比如说他可能对接的一些作者流量不正常了，然后找我们我们帮他check一下造成了什么，到底是链路中有一些bug，还是说作品确实有些问题，我们会帮他去洞察一下。第二就是说我们刚才不是说我们日常会分析一下生态里面的问题。对，比如说我们分析一下头部里面拿到很大流量的一些作品，到底是因为我们现在的系统还不够健壮，还是说他真的好。当然没问题，不够健壮，我们要去完善我们的系统，然后这个视频是不是好。这中间我们要引入运营的专业能力，帮我们一起来review审美的。因为比如说我游戏的可能我能判断，但是无脑类的我确实没有这个天赋，我也不看不懂，那需要他帮我们一起品鉴一下。
+</p>
+<p class="transcript-line">
+<span class="time"><strong>[00:51:47]</strong> </span>
+<span class="speaker"><strong>发言人3: </strong></span>
+那就应该我们的还有一些可能，比如说今天比如说对假设我们的平台是要把视频播客做好，吧？那我们可能跟运营一起合作去定视频播客的标准，对吧？我们可能一起想比如说把一些视频播客的一些怎么让很多用户种草，能让他的这个用户在这个平台里面大家把这个需求做好，大家可能会一起联动做一些事儿，大概是这样的一个逻辑。
+</p>
+<p class="transcript-line">
+<span class="time"><strong>[00:52:12]</strong> </span>
+<span class="speaker"><strong>发言人3: </strong></span>
+然后至于说我们把最多归于算法，然后把功都归于那个运营，我觉得不重要。因为你们毕竟沟通的时候是跟运营沟通的，你们这边友好一点，友善一点无所谓。然后大家只要不知道我是谁，我为哪个平台工作，不要来打我。其实我无所谓。
+</p>
+<p class="transcript-line">
+<span class="time"><strong>[00:52:35]</strong> </span>
+<span class="speaker"><strong>发言人3: </strong></span>
+对，或者说我觉得这个逻辑也没错。因为你也能看到就是最终流量的上线，或者说这个系统的上限应该还是由算法决定的那当然如果说你的视频足够不足够好，但是推的不好，那当然是推荐的问题。某种逻辑来说，那个运营的工作就是帮作者去解决问题。在这个角色分工中，他一定是10%百这个好人，只不过他是个好人角色。有没有达到你自己的对好人的预期，那是另外一个问题。所以我大概是这么看这个问题的。至于知乎那个问题，其实我就不太好发表你观点了。
+</p>
+<p class="transcript-line">
+<span class="time"><strong>[00:53:14]</strong> </span>
+<span class="speaker"><strong>发言人1: </strong></span>
+这没什么好回答的这这这都是陈年陈谷子烂麻子的事儿。我只是想说，就是我我听你说了这么多之后，我和我自己的认知最大的一个不一样或者是一个改变是你让我意识到就是一个以算法推荐为核心的一个内容分发的一个巨大的平台。它比我以为的要稳重的多，就是它不会允许在每一个在在任何一个维度上出现很武断的突然天翻地覆的变化。他即使他要推动一个深刻的或者是一个比较大的变化，他也要一步一步来。
+</p>
+<p class="transcript-line">
+<span class="time"><strong>[00:53:47]</strong> </span>
+<span class="speaker"><strong>发言人3: </strong></span>
+这就回到我刚刚说的第二个点，就是我们的算法怎么确保我们的每一次迭代是OK的对，首先科普一下，就是我们做的每一次迭代我们都会上实验，这个实验是一个均等的流量。就比如说我们比如说会分一次实验，分10%的流量。5%的用户生效的是过去的策略，5%的用户生效的是我们的改动。然后一次改动它是简单清晰可解释的。
+</p>
+<p class="transcript-line">
+<span class="time"><strong>[00:54:18]</strong> </span>
+<span class="speaker"><strong>发言人3: </strong></span>
+然后这10%的流量上面，我们去看非常多的指标。它有用户侧指标，也有作者测指标，也有生态测指标。包括我们会去看头部的出的稿件是什么，然后中腰部出的稿件是什么。甚至有一些专项迭代里面，我们会看涨粉多的作者是谁，涨粉少的作者是谁谁。如果说这些指标都好OK那我们就会放更大的去验这个事儿。如果也OK，我们就推前了。那就会发现我们的表格里面多了一项某某次迭代做了什么，带来的结果什么样，都参数是可记录的。
+</p>
+<p class="transcript-line">
+<span class="time"><strong>[00:54:52]</strong> </span>
+<span class="speaker"><strong>发言人1: </strong></span>
+就是因为我和汉阳都是做博客的，我们做的这个媒介本身其实是个非常小的媒介，就是跟短视频相比。而短视频这个量就是极其巨大，以至于这个推荐算法本身这个能力处在这个事儿的特别核心的位置。但是播客这个事儿就好像还是一个很田园牧歌的，很小农的一个东西。就是我做了一个东西可能你觉得好，那可能大部分就是大概率别人也都觉得还不错。所以对于我来说就是理解一下这个尺度的概念，可能是能帮助我俩理解算法这个事儿的意义和重要性。
+</p>
+<p class="transcript-line">
+<span class="time"><strong>[00:55:25]</strong> </span>
+<span class="speaker"><strong>发言人3: </strong></span>
+特别重要的一个事儿就是我觉得播客今天还没有起来的一个很重要原因就是说播客还没有充分分发给他应该分发的人。但这不一定是推荐系统的问题，而有可能是说第一播客的供给可能是不足够充沛的。第二个叫做真实，需要播客内容的人还没有养成看播客的习惯，这两个事情可能是相辅相成的。比如说今天假如只有1万个博客，一个用户他需要博客，他可能是需段内第10万个播客才能覆盖他的需求。
+</p>
+<p class="transcript-line">
+<span class="time"><strong>[00:56:04]</strong> </span>
+<span class="speaker"><strong>发言人1: </strong></span>
+但我觉得你的这个视角是我们我们这些人不可能有的。
+</p>
+<p class="transcript-line">
+<span class="time"><strong>[00:56:08]</strong> </span>
+<span class="speaker"><strong>发言人3: </strong></span>
+因为在我在。
+</p>
+<p class="transcript-line">
+<span class="time"><strong>[00:56:09]</strong> </span>
+<span class="speaker"><strong>发言人1: </strong></span>
+汉阳和我眼里看来，播客已经太多了，已经多到令人呕吐的程度了。
+</p>
+<p class="transcript-line">
+<span class="time"><strong>[00:56:13]</strong> </span>
+<span class="speaker"><strong>发言人3: </strong></span>
+但实际上多。对。
+</p>
+<p class="transcript-line">
+<span class="time"><strong>[00:56:15]</strong> </span>
+<span class="speaker"><strong>发言人1: </strong></span>
+但是从就是从你的角度来看，这才哪儿到哪儿，就是这个多样性或者是这个供给端，就是这个内容端的这个体的量级，对于消费端到底是什么意义，你能再展开说说吗？因为在我们看来已经全部都是同质化的。
+</p>
+<p class="transcript-line">
+<span class="time"><strong>[00:56:31]</strong> </span>
+<span class="speaker"><strong>发言人2: </strong></span>
+去年应该我看数据，去年应该多了55000多档节目。但我看55000多档节目可多了。
+</p>
+<p class="transcript-line">
+<span class="time"><strong>[00:56:36]</strong> </span>
+<span class="speaker"><strong>发言人3: </strong></span>
+就是55000档节目我觉得太爽了。首先我觉得一个事情，最最最原始的一定是先有的，这还真不好说现有的需求还是现有的供给，但这个事情不重要。但是你想如果一个事情，就是今天我们说博客，这个博客是不是人人都需要要，这个我觉得有可能人人都需要对吧？那播客的内容更有深度，吧？那我假设今天比如说我要服务10亿的短视频用户，我需要多少的短视频？我假设只要他花50分钟，我觉得至少需要100万的短视频。因为虽然那个短视频更泛化，就大家一个短视频你可能爱看，我可能也爱看，但一个播客他会比短视频更挑人，那也就意味着潜在播客他可能至少需要到短视频这个量级。
+</p>
+<p class="transcript-line">
+<span class="time"><strong>[00:57:31]</strong> </span>
+<span class="speaker"><strong>发言人1: </strong></span>
+就他他这种冷酷的乐观，冷酷的客观让让我感到有点难受。他比这个量级是没有办法通过你少数内容的绝对质量的好来弥补的这个意思。
+</p>
+<p class="transcript-line">
+<span class="time"><strong>[00:57:45]</strong> </span>
+<span class="speaker"><strong>发言人3: </strong></span>
+对，但是也可能不是通过内容量级来解决这个问题。OK我们现在聊感觉播客的内容质量和他我们现在说全网全网的播放量，我觉得就是我个人觉得个人觉得是不匹配的。我们花了这么多钱，比如说今天咱们录播课可能要花好几个小时，甚至就是我们全局，包括我们全面做大刚可能要花很久的时间。但是我们拿到播放量，我觉得可能是不相称的。
+</p>
+<p class="transcript-line">
+<span class="time"><strong>[00:58:15]</strong> </span>
+<span class="speaker"><strong>发言人3: </strong></span>
+那潜在的原因是什么呢？没有那么多用户知道自己要消费博客，那他要消费播客要怎么办？他要有一个他的本命博客，我随便起的名字，让他进入消费播客这个习惯里面。这个本命播客就是一定需要我们播客的本体，就是我的库存需要足够多。我觉得1万、十万肯定是不够的。
+</p>
+<p class="transcript-line">
+<span class="time"><strong>[00:58:40]</strong> </span>
+<span class="speaker"><strong>发言人1: </strong></span>
+就是这个年轻人的第一款播客不能是一个绝对品，是好的一个博客肯定是不行。
+</p>
+<p class="transcript-line">
+<span class="time"><strong>[00:58:46]</strong> </span>
+<span class="speaker"><strong>发言人3: </strong></span>
+的肯定是不行的。我觉得现在非常少，最起码我小宇宙我日常逛的，我现在咱们俩都刚生完，我没没刷到过什么。介绍作为一个0到3个月的爸爸或者0到6个月的爸爸的心态怎么样的。
+</p>
+<p class="transcript-line">
+<span class="time"><strong>[00:59:03]</strong> </span>
+<span class="speaker"><strong>发言人2: </strong></span>
+因为博客普遍的潮流是不结婚，不生孩子。
+</p>
+<p class="transcript-line">
+<span class="time"><strong>[00:59:05]</strong> </span>
+<span class="speaker"><strong>发言人3: </strong></span>
+对对，就是他他是不就比如小宇宙里面要不然就是买保险，要不然就是理财，要不然就是开，要不然就是那个心理情感，就这么几类。
+</p>
+<p class="transcript-line">
+<span class="time"><strong>[00:59:16]</strong> </span>
+<span class="speaker"><strong>发言人1: </strong></span>
+真挺难受。如果你战术。
+</p>
+<p class="transcript-line">
+<span class="time"><strong>[00:59:18]</strong> </span>
+<span class="speaker"><strong>发言人3: </strong></span>
+如果你就这么几类，OK我再问你一个问题，我作为一个40岁的在线女人，我应该看什么博客？如果我这个人群都没有了，那我的受众是不是就砍掉一块？我作为一个60岁的大爷，我开始博客。如果我今天只服务24岁到30岁一线白领，那我的人群是多少？我是不是就只有短视频的1%的人去了，那我能有多少的播放量级呢？
+</p>
+<p class="transcript-line">
+<span class="time"><strong>[00:59:43]</strong> </span>
+<span class="speaker"><strong>发言人1: </strong></span>
+如果你战术后仰的品一品这些这个事儿真是挺明显的。但是你作为那个当事人，你作为那个创作者本人，你会觉得老子已经做了这么好的东西，为什么全中国人没有都来看我。
+</p>
+<p class="transcript-line">
+<span class="time"><strong>[00:59:54]</strong> </span>
+<span class="speaker"><strong>发言人3: </strong></span>
+都来听我那你想如果说今天有博客消费习惯的人是今天100倍，对吧？你的作品又不好，虽然你很垂，但你的播放量一定会比现在比如说大十倍。对，那一定是这样的。
+</p>
+<p class="transcript-line">
+<span class="time"><strong>[01:00:07]</strong> </span>
+<span class="speaker"><strong>发言人3: </strong></span>
+就是现在播客的问题就是什么呢？播客好的博客太多了。对，但是长尾的博客是稀缺的。是那问题是什么？你这个好的博客够多，但是能够养出那么多的潜在消费群体，我觉得没必是可以的。但是需要一个好的产品形式加一个好的生态，以及我觉得品类一定是要变多的，现在品类太我我没有去分析太多，我觉得还是有点太，我觉头部太聚集了。
+</p>
+<p class="transcript-line">
+<span class="time"><strong>[01:00:37]</strong> </span>
+<span class="speaker"><strong>发言人1: </strong></span>
+我替你说，就是我感觉到的这个隐含在你的这个逻辑里面的那个东西，还是就播客作为一个一种特定的媒介，它得有一个群体智能。它通过大量的实验，就是大量的需求和供给对来对碰，然后就是碰不上碰上了碰不上，然后好去推动这个东西的的去往前走。如果你只是小打小闹的，很少的供给跟很少的但我觉得乐观的是说。
+</p>
+<p class="transcript-line">
+<span class="time"><strong>[01:01:01]</strong> </span>
+<span class="speaker"><strong>发言人3: </strong></span>
+现在设备的变化，包括创作门槛的降低，包括现在自媒体大家对于这个环境的一些认知的变化，也可以看到大家现在做博客的人越来越多了。所以说这个事情不是可以避其功于义的。如果它在增长，我们看上去好了，然后就是他可能需要一年、两年甚至更久去孵化你。比如海外播客比国内播客要更繁荣，它也不是一天成的，它也是慢慢形成。
+</p>
+<p class="transcript-line">
+<span class="time"><strong>[01:01:29]</strong> </span>
+<span class="speaker"><strong>发言人1: </strong></span>
+所以说国内那个还就比如说就跟美国比，美国的渗透率是20%多，就是美国人口有20%多的人听播客。对，咱离离人家那还差的差90%多。
+</p>
+<p class="transcript-line">
+<span class="time"><strong>[01:01:39]</strong> </span>
+<span class="speaker"><strong>发言人3: </strong></span>
+感觉就对。那你那你比如说你如果能够达到美国的渗透率，那现在的播客的播放量，头部的播放量它可能不是涨十倍，对它可能涨的是50倍。
+</p>
+<p class="transcript-line">
+<span class="time"><strong>[01:01:51]</strong> </span>
+<span class="speaker"><strong>发言人2: </strong></span>
+但我现在感觉就这个事儿里面，就是如果播客到了那一天，那绝对把播客带到那一天的人不是今天做播客的人。就像是把短视频变成今年短做短视频的人，不是当年开电视台的人。对对对吧？今天的播客因为你可能不在这个圈子里面，你不知道今天的播客主播还在争论要不要做视频呢？
+</p>
+<p class="transcript-line">
+<span class="time"><strong>[01:02:07]</strong> </span>
+<span class="speaker"><strong>发言人3: </strong></span>
+我觉得是一定要做视频的。
+</p>
+<p class="transcript-line">
+<span class="time"><strong>[01:02:09]</strong> </span>
+<span class="speaker"><strong>发言人2: </strong></span>
+但这个事儿可不是天经地义的。我我我录节目，咱们现在是多少？咱们今天是11月底，我11月底有一个播客大会，我就要在里面作为支持方去支持做视频博客。我还有反对方。
+</p>
+<p class="transcript-line">
+<span class="time"><strong>[01:02:20]</strong> </span>
+<span class="speaker"><strong>发言人3: </strong></span>
+就是我反对方逻辑是吧？但我不是公理，就是我只是从我从业者的逻辑说，我觉得博客为什么不做视频呢？就是我认为来说就是如果一个视频他没有画面，我觉得他就有消费价值。反过来说，我播客为什么要拒绝视频主流平台的流量呢？对，就是他没有任何逻辑，就是我就做我的视角。今天播客我零成本，我就贴一个note，就是贴个字幕上去，我觉得我就可以上传了。那我比我只在顾客平台上面拿到流量更多，对我的我自己有变更多的变现价值，以及说能让更多的用户用博客。这个事本身就是对播客整个生态，包括对我自己都是有利的事情。
+</p>
+<p class="transcript-line">
+<span class="time"><strong>[01:03:09]</strong> </span>
+<span class="speaker"><strong>发言人1: </strong></span>
+那为什么不做呢？那不是，这是你没法代入的，明白吗？就是人家会说那不是真正的博客。
+</p>
+<p class="transcript-line">
+<span class="time"><strong>[01:03:16]</strong> </span>
+<span class="speaker"><strong>发言人3: </strong></span>
+这不是真的。对。
+</p>
+<p class="transcript-line">
+<span class="time"><strong>[01:03:17]</strong> </span>
+<span class="speaker"><strong>发言人1: </strong></span>
+就跟那个彩电进入这个千家万户之后，然后文化评论家会说这不是电视剧，不是真正的电影，它是一种很庸俗的东西什么之类的，就是whatever。这不是咱们今天要讨论的话题。但是我想追着你刚才讲的这个规模的逻辑，就想问你一些客观事实的事实。就是从这个尺度上上来说，短视频的平台它的规模是什么样的。就是比如说每天或者每个每年他有多少的视频在上传，有多少人在做视频，然后有多少人在看视频，你每天这个分发要做多少次，这是个啥概念？
+</p>
+<p class="transcript-line">
+<span class="time"><strong>[01:03:48]</strong> </span>
+<span class="speaker"><strong>发言人3: </strong></span>
+我们看中国互联网每天新上传的视频肯定是一两级的。
+</p>
+<p class="transcript-line">
+<span class="time"><strong>[01:03:54]</strong> </span>
+<span class="speaker"><strong>发言人1: </strong></span>
+每天新上传的视频个数对不？这个国家才几亿人上网，这怎么可能呢？就不可思议，每天有有上亿的视频在上传。
+</p>
+<p class="transcript-line">
+<span class="time"><strong>[01:04:04]</strong> </span>
+<span class="speaker"><strong>发言人3: </strong></span>
+对而咱们博客。
+</p>
+<p class="transcript-line">
+<span class="time"><strong>[01:04:06]</strong> </span>
+<span class="speaker"><strong>发言人2: </strong></span>
+还在感叹我们一年新增了55000档节目，然后人家一年一天有上亿的的博客，就是咱们录节目的这段时间。中国人产出的视频数量已经超过了中文博客一年的量了。
+</p>
+<p class="transcript-line">
+<span class="time"><strong>[01:04:19]</strong> </span>
+<span class="speaker"><strong>发言人3: </strong></span>
+没有你你想一下，你就是咱们我们不考虑投稿这个事，就是人均我们拍几个视频，每天我觉得我至少人均我每天至少要拍一条视频。我今天中午去健身，我还拍了一下自己这个肌肉状态，那我不就拍了吗？那那那我们就是我比较理性。假设每天人均拍一个视频，那你有百分之多少的概率上传到某个平台呢？我们假设10%，那这就已经到了医疗级了。是那我们再考虑比如说中老年人或者有一些社交需求的人，那么他这个量级就更多了。
+</p>
+<p class="transcript-line">
+<span class="time"><strong>[01:04:54]</strong> </span>
+<span class="speaker"><strong>发言人1: </strong></span>
+我我我我感觉我正在一个麦肯锡那种管理咨询公司的面试里边，就是你估一个数的那个的量级，那那那个观看那观看数量就得更大了。
+</p>
+<p class="transcript-line">
+<span class="time"><strong>[01:05:04]</strong> </span>
+<span class="speaker"><strong>发言人3: </strong></span>
+我觉得观看数量如果我们按每个用户多个平台加一起，我觉得人均至少是看100个的视频，基本上也就是说可能是千亿量级。
+</p>
+<p class="transcript-line">
+<span class="time"><strong>[01:05:22]</strong> </span>
+<span class="speaker"><strong>发言人2: </strong></span>
+对，因为抖音和快手这些平台加一起的用户量已经破10亿了，所以基本上可以等于短视频，就等于中国人。
+</p>
+<p class="transcript-line">
+<span class="time"><strong>[01:05:28]</strong> </span>
+<span class="speaker"><strong>发言人3: </strong></span>
+对，然后如果每个。
+</p>
+<p class="transcript-line">
+<span class="time"><strong>[01:05:30]</strong> </span>
+<span class="speaker"><strong>发言人2: </strong></span>
+平均每个中国人每天看100个短视频，但是我就完全合理的一个数。
+</p>
+<p class="transcript-line">
+<span class="time"><strong>[01:05:36]</strong> </span>
+<span class="speaker"><strong>发言人3: </strong></span>
+那这个量对你想今天有多少人在看博客？我累计量是多少吗？
+</p>
+<p class="transcript-line">
+<span class="time"><strong>[01:05:40]</strong> </span>
+<span class="speaker"><strong>发言人2: </strong></span>
+对，但他俩甚至不能一起比了。因为播客对于这个短视频播放量的增幅，就类似于统计上可以忽略不计的效果。
+</p>
+<p class="transcript-line">
+<span class="time"><strong>[01:05:49]</strong> </span>
+<span class="speaker"><strong>发言人1: </strong></span>
+没有人在乎博客，不要不要再谈论这两个，不是，但是百亿级的观看一天这是1000亿级.
+</p>
+<p class="transcript-line">
+<span class="time"><strong>[01:05:55]</strong> </span>
+<span class="speaker"><strong>发言人3: </strong></span>
+的千。
+</p>
+<p class="transcript-line">
+<span class="time"><strong>[01:05:56]</strong> </span>
+<span class="speaker"><strong>发言人1: </strong></span>
+千亿级的观看，就不是你。
+</p>
+<p class="transcript-line">
+<span class="time"><strong>[01:05:58]</strong> </span>
+<span class="speaker"><strong>发言人3: </strong></span>
+就人均就100个。100个可能就是100分钟。你知道吗？
+</p>
+<p class="transcript-line">
+<span class="time"><strong>[01:06:07]</strong> </span>
+<span class="speaker"><strong>发言人2: </strong></span>
+我我我我前两天去呼伦贝尔，在一个扎兰屯的地方去了一个钟表博物馆。然后那个那个博物馆是个纯民间博物馆，当地政府给他的一个肺放就是没没人的幼儿园，然后做他的博物馆的展厅。然后我们去的时候，那个博物馆馆主的儿子就给我们拍一个照，他咋给我们的照片呢？他不是给我们照片，他是直接给我们短视频。那个短视频是AI帮他做的，里面有照片和AI生成的照片和照片之间的故事。然后我后来就看了一下这个人的订阅号，就他的他他是微信发的，他每天狂发一堆这个东西。对，这个东西是他的社交属性了，已经不。
+</p>
+<p class="transcript-line">
+<span class="time"><strong>[01:06:42]</strong> </span>
+<span class="speaker"><strong>发言人3: </strong></span>
+只是就是我觉得某种逻辑来说，就是现在我们拍个视频，就跟比如说30年前大家那个夏天在晨阳一起去到那个村口大树下凉席一躺，然后大家开始在八卦吹个牛。
+</p>
+<p class="transcript-line">
+<span class="time"><strong>[01:06:58]</strong> </span>
+<span class="speaker"><strong>发言人1: </strong></span>
+什么吹个牛。
+</p>
+<p class="transcript-line">
+<span class="time"><strong>[01:06:59]</strong> </span>
+<span class="speaker"><strong>发言人3: </strong></span>
+这些现在就变成了刷视频和投稿。就是你某种逻辑来说，可以认为这就是信息社会，在村口聚会，然后聊天八卦，然后获取信息。同时听一下村委的广播在说今天的新闻联播大概什么样子。
+</p>
+<p class="transcript-line">
+<span class="time"><strong>[01:07:15]</strong> </span>
+<span class="speaker"><strong>发言人1: </strong></span>
+就中国人每天消费1000亿次短视频，这个是这这不是一个我的小脑瓜可以可以体会的东西。
+</p>
+<p class="transcript-line">
+<span class="time"><strong>[01:07:22]</strong> </span>
+<span class="speaker"><strong>发言人2: </strong></span>
+他对播客不爱太久了。
+</p>
+<p class="transcript-line">
+<span class="time"><strong>[01:07:24]</strong> </span>
+<span class="speaker"><strong>发言人3: </strong></span>
+对对对，因为我每天也能听点三个播客。
+</p>
+<p class="transcript-line">
+<span class="time"><strong>[01:07:27]</strong> </span>
+<span class="speaker"><strong>发言人2: </strong></span>
+是是是，但你看，所以这个就回到了晚点。
+</p>
+<p class="transcript-line">
+<span class="time"><strong>[01:07:29]</strong> </span>
+<span class="speaker"><strong>发言人3: </strong></span>
+三个播客可能是100分钟。
+</p>
+<p class="transcript-line">
+<span class="time"><strong>[01:07:32]</strong> </span>
+<span class="speaker"><strong>发言人2: </strong></span>
+咱们回到最开始那个话题，就是说推荐算法是跟时代长起来的。推荐算法在服务的是一个千亿量级对的一个市场。每天对然后但这个千亿量级市场是因为手机成本下降了，摄像头成本下降了，算法成本下降了，网络成本下降，所有东西全部一起来才到的对，所以回看这段路，咱们从过去10年就今年25年回看过去十年咱走了多长一条路。
+</p>
+<p class="transcript-line">
+<span class="time"><strong>[01:07:56]</strong> </span>
+<span class="speaker"><strong>发言人3: </strong></span>
+这就是最简单来说，十年前的模型是服务不好。今天比如说一级投稿，包括千亿次播放，就是咱们整个中国互联网是服务不好的。最简单来说，过去我刚入行的时候，模型的大小就是物理存储，就是4到5GB大小。
+</p>
+<p class="transcript-line">
+<span class="time"><strong>[01:08:19]</strong> </span>
+<span class="speaker"><strong>发言人1: </strong></span>
+4到5G.
+</p>
+<p class="transcript-line">
+<span class="time"><strong>[01:08:21]</strong> </span>
+<span class="speaker"><strong>发言人3: </strong></span>
+然后今天就是在业内做比较好的推荐模型，它占的存储量是几十T大小。就这一个模型，这个深度神经网络的模型是几十T大小的，就是存储不了，要么就是你家里的那个硬盘是放不下我们的。
+</p>
+<p class="transcript-line">
+<span class="time"><strong>[01:08:38]</strong> </span>
+<span class="speaker"><strong>发言人2: </strong></span>
+这个模型的对，就是因为15年我做这个的时候，我不知道你，就我至少15年我确定我们的服务器上只有一台服务器在管这个推荐。对他完全管不过来，这就是一台服务器的计算量而已。
+</p>
+<p class="transcript-line">
+<span class="time"><strong>[01:08:49]</strong> </span>
+<span class="speaker"><strong>发言人3: </strong></span>
+对。也就是说今天能处理这么复杂的一个信息，也是技术进步的结果。就是很多事情都ready了才能走到现在这个情况，反过来说，我觉得推荐算法一定代表着社会的进步。
+</p>
+<p class="transcript-line">
+<span class="time"><strong>[01:09:03]</strong> </span>
+<span class="speaker"><strong>发言人3: </strong></span>
+以某种逻辑来说，今天大模型的进步每天有那么多的新闻，对吧？假设今天我们是一个16年的推荐系统，或者说再早没有推荐系统，再说刷贴吧，那你今天可能根本跟不上。对就是大模型进步的速度。根本不知道今天开了发布会，你不知道他现在有什么能力，你也不会去使用它。那会产生什么情况？会发现信息可能是少数人的特权。那今天来说推荐系统做到了你应你想关心的信息。推荐系统都因为满意度优化让你都知道了，你不会因为信息跟这个社会脱节。
+</p>
+<p class="transcript-line">
+<span class="time"><strong>[01:09:44]</strong> </span>
+<span class="speaker"><strong>发言人1: </strong></span>
+就相当于每天千亿次的访问的配配。对，就供给端和需求端的配对都一就是一点一点的。
+</p>
+<p class="transcript-line">
+<span class="time"><strong>[01:09:52]</strong> </span>
+<span class="speaker"><strong>发言人3: </strong></span>
+它其实不是千亿次，你想它它其实计算的复杂度是什么？
+</p>
+<p class="transcript-line">
+<span class="time"><strong>[01:09:56]</strong> </span>
+<span class="speaker"><strong>发言人1: </strong></span>
+是更高的。
+</p>
+<p class="transcript-line">
+<span class="time"><strong>[01:09:57]</strong> </span>
+<span class="speaker"><strong>发言人3: </strong></span>
+就千亿次在E级别甚至更高的稿件库里面双向做一个双向品，那你是理解它是要相乘的，当然说实际上不会做这种计算，我们会通过一些工程方法去把这个计算复杂度降下来。
+</p>
+<p class="transcript-line">
+<span class="time"><strong>[01:10:14]</strong> </span>
+<span class="speaker"><strong>发言人1: </strong></span>
+对，但是你刚才说的这个让我意识到你说的这个巨大的参数量的这个模型，实际上是沉淀了中国人或者人类每一段上传的视频和每段蓓蓓看的这个视频里面所隐含的那个信，对的那个人性，或者是人对于需求内容的需求，对的那些的那些不是我们甚至说不出来无法言说的明说的知识，全部都在这个模型里。
+</p>
+<p class="transcript-line">
+<span class="time"><strong>[01:10:39]</strong> </span>
+<span class="speaker"><strong>发言人3: </strong></span>
+这倒也没有那么恐怖，因为这个模这个参数量里面可能是上百亿的参数，甚至千亿的参数，甚至万亿级别的参数，它里面都是数字。我也其实不知道它。
+</p>
+<p class="transcript-line">
+<span class="time"><strong>[01:10:51]</strong> </span>
+<span class="speaker"><strong>发言人1: </strong></span>
+里面代表这是可可，这是个可阐释性的问题。对，但它无可避免的成为了人所有的这些密集的在手机上的每一次交互行为的一种沉淀。
+</p>
+<p class="transcript-line">
+<span class="time"><strong>[01:11:04]</strong> </span>
+<span class="speaker"><strong>发言人3: </strong></span>
+一对它是一个喜好沉淀。但是现在推荐算法的一个问题，就是大家也看到我们推荐算法的这个稠密计算，其实现在只有大模型的1%甚至1‰这个量级。对，有些公司可能是万亿或者10万分之1重量级。所以说现在推荐模型其实没有大模型那么厉害。就是大模型可以有很复杂很复杂的逻辑，包括可以输出给你。但是大模型它底层其实沉淀的可能还是很多规律性的信息，它没有到很多泛化知识。但是我们其实是希望能往那一步走，我觉得往那一步走，用户可能匹配效率的效率更高。
+</p>
+<p class="transcript-line">
+<span class="time"><strong>[01:11:40]</strong> </span>
+<span class="speaker"><strong>发言人1: </strong></span>
+你刚才提到了一些那个我俩不太理解，也有可能你理解，但我不理解，就是我我都不理解。没有。就比如说那个什么稠密计算、系数计算，咱们你觉得这是一个三言两语能给人解释清楚的概念吗？可以，然后另外就是顺着这个，咱们可不可以完全科普项的描述一下就在你们的服务器机房里面正在发生的事情是什么？就是一个视频被传上来，然后经历了什么什么事儿，最后被被用户看到。
+</p>
+<p class="transcript-line">
+<span class="time"><strong>[01:12:05]</strong> </span>
+<span class="speaker"><strong>发言人3: </strong></span>
+就是我们在这个模型里面，就是我们需要对每个用户做一个表征。那你想你在那个模型里面是什么呢？其实一串数字，这个数字大概是比如说不同平台不一样，但是一般来说可能是几百个数字或者几千个数字。
+</p>
+<p class="transcript-line">
+<span class="time"><strong>[01:12:22]</strong> </span>
+<span class="speaker"><strong>发言人1: </strong></span>
+我就是我这个。
+</p>
+<p class="transcript-line">
+<span class="time"><strong>[01:12:23]</strong> </span>
+<span class="speaker"><strong>发言人3: </strong></span>
+用户ID对你是一个几千个的浮点数，这代表你这个用户跟我的。
+</p>
+<p class="transcript-line">
+<span class="time"><strong>[01:12:29]</strong> </span>
+<span class="speaker"><strong>发言人1: </strong></span>
+感觉比还挺少的，就还挺节约的感觉。你接着说。
+</p>
+<p class="transcript-line">
+<span class="time"><strong>[01:12:33]</strong> </span>
+<span class="speaker"><strong>发言人3: </strong></span>
+对，然后当然了就是是挺节约的。然后同时的话我们可能会把你比如说你在抖音、B站、小红书，你可能在上面发生了几万个或者上百万个行为。这个行为每一个行为是一个几十位到几百位的数字，然后这所有的这个行为也会被记录下来。
+</p>
+<p class="transcript-line">
+<span class="time"><strong>[01:12:55]</strong> </span>
+<span class="speaker"><strong>发言人1: </strong></span>
+这个是永久的对吧？就是比如说我每划了一次，我每点赞或者点踩，或者我评论倒也不。
+</p>
+<p class="transcript-line">
+<span class="time"><strong>[01:13:00]</strong> </span>
+<span class="speaker"><strong>发言人3: </strong></span>
+一定是永久的，这看各家的算法了OK对，然后这个用户如果只从用户的这个表征来说，是几百个到几千位的数字。然后一个视频可能在这个系统里面，它是一个几百维的一个浮点数的数字。然后中间比如说一些视频的标签，包括一个作者也可能是个几百位的表征。然后这些表征它大概是占了模型存储的大头哦啊这叫我们叫稀疏表征。
+</p>
+<p class="transcript-line">
+<span class="time"><strong>[01:13:31]</strong> </span>
+<span class="speaker"><strong>发言人1: </strong></span>
+为啥这是稀疏的呢？
+</p>
+<p class="transcript-line">
+<span class="time"><strong>[01:13:32]</strong> </span>
+<span class="speaker"><strong>发言人3: </strong></span>
+因为它没有计算。就是当我们在模型这个info的过程中，就是推理的过程中，第一步是把这所有的向量凑在一起，然后塞到这个模型里面。这个总共加在一起可能是一个几千维、几万维或者几十万维的一个数字，然后放一起放到这个模型里面去。
+</p>
+<p class="transcript-line">
+<span class="time"><strong>[01:13:53]</strong> </span>
+<span class="speaker"><strong>发言人1: </strong></span>
+听起来像是不自变量，就像FX这个函数里面，它的就是你出你你输入进去。
+</p>
+<p class="transcript-line">
+<span class="time"><strong>[01:13:58]</strong> </span>
+<span class="speaker"><strong>发言人3: </strong></span>
+为什么呢？它没有计算OK就是我通过查字典得到了几十万个数字浮点数OK然后这是就是它只有那个查询，他有少量计算，所以我们叫做稀疏存储。它很占存储，就是说因为一个用户就要存一个，一个视频也要存一个。那这个加在一起，它可能就是几十T大小或者几个T大小。
+</p>
+<p class="transcript-line">
+<span class="time"><strong>[01:14:19]</strong> </span>
+<span class="speaker"><strong>发言人2: </strong></span>
+你那函数解出来它是什么？
+</p>
+<p class="transcript-line">
+<span class="time"><strong>[01:14:21]</strong> </span>
+<span class="speaker"><strong>发言人1: </strong></span>
+A7M4AA然后就是相当于它很占存储，但是它不占不怎么占计算。
+</p>
+<p class="transcript-line">
+<span class="time"><strong>[01:14:27]</strong> </span>
+<span class="speaker"><strong>发言人3: </strong></span>
+对，然后我在第二步就是说我把这些数字凑起来，然后我放到我的模型里面，这里面就会做浮点数计算。然后我刚刚说的几十兆几百兆上B这个就是跟大模型的GB的算力对齐的对，其实大模型如果按照我这个概念也是要分稀疏向量和稠密计算的。但是比如说一个大模型，它底下词表的量就是几万到几十万个，然后他一一个就一个。比如说我说我们这个单词或者hello word这个单词，它可能在这个词表里面就分别是一个token。它对应的存储就是比如说是4000维，但是它的数量就只有比如说10万个。所以在模型的存储当中，它可能也就占个几十G，所以他虽然也查表，但是他们一般对这部分的参数忽略不计，不计在后面的那个稠密计算，它可能是几十几几百B大小，就不知道有没有说明这个概念。
+</p>
+<p class="transcript-line">
+<span class="time"><strong>[01:15:31]</strong> </span>
+<span class="speaker"><strong>发言人1: </strong></span>
+OK然后我要开始跟你追问一连串特别弱智的问题。
+</p>
+<p class="transcript-line">
+<span class="time"><strong>[01:15:35]</strong> </span>
+<span class="speaker"><strong>发言人2: </strong></span>
+就是容忍一下不弱智不是。
+</p>
+<p class="transcript-line">
+<span class="time"><strong>[01:15:38]</strong> </span>
+<span class="speaker"><strong>发言人1: </strong></span>
+等等他问了你再决定，弱智是必须的。就是OK你刚才说的这个关于用户的那个表征，就是它是什么？比如说你会有一张大表格，关于重重心，就比如比如。
+</p>
+<p class="transcript-line">
+<span class="time"><strong>[01:15:48]</strong> </span>
+<span class="speaker"><strong>发言人3: </strong></span>
+我就就。
+</p>
+<p class="transcript-line">
+<span class="time"><strong>[01:15:49]</strong> </span>
+<span class="speaker"><strong>发言人1: </strong></span>
+比如就比如说汉阳，就是汉阳是男的，然后汉阳是多大岁数？然后他喜欢网球，喜欢钓鱼，喜欢旅游，他不喜欢他会有一张这样的表吗？
+</p>
+<p class="transcript-line">
+<span class="time"><strong>[01:15:58]</strong> </span>
+<span class="speaker"><strong>发言人3: </strong></span>
+他是一个隐含信息，它是一个自动学习出来的数字，我们不知道它里面代表什么。
+</p>
+<p class="transcript-line">
+<span class="time"><strong>[01:16:03]</strong> </span>
+<span class="speaker"><strong>发言人1: </strong></span>
+所以没有我我我我刚才说的那个表表头就是网球旅行。
+</p>
+<p class="transcript-line">
+<span class="time"><strong>[01:16:07]</strong> </span>
+<span class="speaker"><strong>发言人3: </strong></span>
+没有，它是自动学习到的。就比如说今天大模跟大模型一样，我们的原理跟大模型是一样的。今天大模型它可能比如说是一个64层的一个网络结构，内存结构。那随便出的这一层它是几万维的一个数字，那这数字代表什么呢？也不知道。
+</p>
+<p class="transcript-line">
+<span class="time"><strong>[01:16:24]</strong> </span>
+<span class="speaker"><strong>发言人1: </strong></span>
+并不代表我们可以直接理解。
+</p>
+<p class="transcript-line">
+<span class="time"><strong>[01:16:25]</strong> </span>
+<span class="speaker"><strong>发言人3: </strong></span>
+包括比如说男他女她在大模型里面它分别代表了一个向量，都是向量是比如说是4000维的那你这个4000维就是你你你其实不知道哪一维代表男他女，她也不知道什么含义。
+</p>
+<p class="transcript-line">
+<span class="time"><strong>[01:16:39]</strong> </span>
+<span class="speaker"><strong>发言人2: </strong></span>
+那这个和打标签的关系是什么呢？就比如说你看你的根据美国的法律还是欧盟的法律，你去你的谷歌账户，谷歌必须说明白他给你打的标签是什么。就是他推荐广告的时候，他基于什么理由给你推的。比如我在谷歌，我看过我是一个40到45岁之间的离异单身母亲，这正在学习日正在学习日语。我不知道他为什么我打这个标签明显是错的。
+</p>
+<p class="transcript-line">
+<span class="time"><strong>[01:17:00]</strong> </span>
+<span class="speaker"><strong>发言人1: </strong></span>
+你你你是跟那个大模型。
+</p>
+<p class="transcript-line">
+<span class="time"><strong>[01:17:02]</strong> </span>
+<span class="speaker"><strong>发言人2: </strong></span>
+就是不是不是直接去谷歌的设置页面能看东西，能看见OK这个标签和你说的那堆数字。
+</p>
+<p class="transcript-line">
+<span class="time"><strong>[01:17:08]</strong> </span>
+<span class="speaker"><strong>发言人1: </strong></span>
+它俩的关系就你你不可你们不可能没有存储任何的显，就是expression会有一些统计。
+</p>
+<p class="transcript-line">
+<span class="time"><strong>[01:17:14]</strong> </span>
+<span class="speaker"><strong>发言人3: </strong></span>
+比如说我们统计你过去一个月看的内容，它的标签是什么样的。它是就是我们刚刚那个词表，它有你个人维度的，也有你的兴趣就兴趣点，它每个兴趣点是对应一个向量，然后比如说你有60个兴趣，这个60个兴趣加在一起拿过来或者平均做一个平均值，然后输入到模型里面去。比如说你的性别也可能对应一个向量，然后模型它是都是做数学计算的，它只能处理向量，就你们说的这个明文信息它是处理不了的。它会在吸收存储里面通过查询变成一些数字，无论说明这个意思，然后这个数字又怎么来呢？这个数字是那个模型自动去i back我的。
+</p>
+<p class="transcript-line">
+<span class="time"><strong>[01:18:00]</strong> </span>
+<span class="speaker"><strong>发言人1: </strong></span>
+那随着汉阳这个ID的这个用户不断的有新的行为，他的数字会不会他那个编码会有点一点一点的在跟着变化。对对对，OK. 但是如果现在我就control c control v出来这几千个字节。
+</p>
+<p class="transcript-line">
+<span class="time"><strong>[01:18:16]</strong> </span>
+<span class="speaker"><strong>发言人3: </strong></span>
+的关于汉阳的这个量这个字符串。
+</p>
+<p class="transcript-line">
+<span class="time"><strong>[01:18:19]</strong> </span>
+<span class="speaker"><strong>发言人1: </strong></span>
+就给你。
+</p>
+<p class="transcript-line">
+<span class="time"><strong>[01:18:20]</strong> </span>
+<span class="speaker"><strong>发言人3: </strong></span>
+你你你什么都读不出来吗？我读不出来，就是我只能知道这个数字，但我不知道数字是什么含义。或者说我为什么要读这个数字呢？但是它里面肯定是我们知道他是性别，包括他过去统计来看他是不是爱看小姐姐，还是爱看猫狗，还是爱看爬虫，还是看恐怖故事。这个是有些统计的，它是模型里面的一个输入。但是现在来说这些输入的重要性越来越低了。我们现在更倾向于说，因为这些都是12年到17年之间做的特征工程。因为汉阳你们之前做过的对。
+</p>
+<p class="transcript-line">
+<span class="time"><strong>[01:18:56]</strong> </span>
+<span class="speaker"><strong>发言人2: </strong></span>
+我们做就是你说这个，所以我这事对我很意外，因为我当年我就要知道。
+</p>
+<p class="transcript-line">
+<span class="time"><strong>[01:19:00]</strong> </span>
+<span class="speaker"><strong>发言人3: </strong></span>
+然后我们现在更多的是依赖于序列建模。比如说我们就是把你过去看到1万个行为都拿出来，直接作为数字放到模型里面计算。
+</p>
+<p class="transcript-line">
+<span class="time"><strong>[01:19:12]</strong> </span>
+<span class="speaker"><strong>发言人1: </strong></span>
+所以你并不能就生成一个关于汉阳这个人的理解，就是他是个啥样人，就是一个profile。
+</p>
+<p class="transcript-line">
+<span class="time"><strong>[01:19:18]</strong> </span>
+<span class="speaker"><strong>发言人3: </strong></span>
+如果要做这个事，只能人工写搜客写规则。理解出来就是。
+</p>
+<p class="transcript-line">
+<span class="time"><strong>[01:19:25]</strong> </span>
+<span class="speaker"><strong>发言人1: </strong></span>
+通去跑这个模型，然后去看的结果。
+</p>
+<p class="transcript-line">
+<span class="time"><strong>[01:19:28]</strong> </span>
+<span class="speaker"><strong>发言人3: </strong></span>
+就是跟这个模型没关系，你做的是统计的工作。
+</p>
+<p class="transcript-line">
+<span class="time"><strong>[01:19:32]</strong> </span>
+<span class="speaker"><strong>发言人1: </strong></span>
+就是人工的把它的历史上所有的行为，对都复盘一遍，都都总结一遍。对对对，就不涉及这个模型推荐。
+</p>
+<p class="transcript-line">
+<span class="time"><strong>[01:19:39]</strong> </span>
+<span class="speaker"><strong>发言人3: </strong></span>
+如果要做这个事，不会特别重的做这个事，然后以及这个模型里面是不会有这个信息的。就是你输入里面可能通过人工的一些挖掘可能会知道这些信息。
+</p>
+<p class="transcript-line">
+<span class="time"><strong>[01:19:50]</strong> </span>
+<span class="speaker"><strong>发言人2: </strong></span>
+所以这个工作不是数据挖掘的工作。因为数据挖掘工作是他说就把人变成标签。对，但是推荐并没有在对人做数据挖掘，他只是在计算一堆数。
+</p>
+<p class="transcript-line">
+<span class="time"><strong>[01:19:59]</strong> </span>
+<span class="speaker"><strong>发言人1: </strong></span>
+一直都这样吗？还是只有最近两年才比？
+</p>
+<p class="transcript-line">
+<span class="time"><strong>[01:20:03]</strong> </span>
+<span class="speaker"><strong>发言人3: </strong></span>
+1217年的时候主要是做这块工作。大概17年到19年的时候，我们说的那个用户的向量，稿件的向量、作者的向量在中间重要程度越来越高。同时并行的也开始一些挖掘类的工作，但是比例会变小。然后1.0年之后就是序列相关的工作，我们直接把你过去的历史行为放到模型里面的工作比重越来越大从开刚开始我们可能检索用户最近100个行为，到后来我们可能检索1000个，检索1万个，以及到现在可能过去你100万的历史行为，都可以相当于某种逻辑的通过一些工程方式参与到这个模型的计算过程中。就是人工挖掘的相对重要性是越来越低的。或者说我们之所以要用神经网络，某种逻辑就是不希望大家在做很多这类的工作，因为它是非常低。道歉。
+</p>
+<p class="transcript-line">
+<span class="time"><strong>[01:21:00]</strong> </span>
+<span class="speaker"><strong>发言人2: </strong></span>
+就是你应该。所以人们脑中对于推荐系统的想象是说这个系统会给我打成一堆标签。这个标签说我喜欢。
+</p>
+<p class="transcript-line">
+<span class="time"><strong>[01:21:09]</strong> </span>
+<span class="speaker"><strong>发言人3: </strong></span>
+有可能打错对吧？
+</p>
+<p class="transcript-line">
+<span class="time"><strong>[01:21:10]</strong> </span>
+<span class="speaker"><strong>发言人2: </strong></span>
+对他有可能打错，而且他可能也就是几十种标签。这个事儿其实已经完全不是现在的现实了。现在有还有一部分。
+</p>
+<p class="transcript-line">
+<span class="time"><strong>[01:21:17]</strong> </span>
+<span class="speaker"><strong>发言人3: </strong></span>
+但是比重没那么越来越低了，就越来越低，它只就应该会越来越低。
+</p>
+<p class="transcript-line">
+<span class="time"><strong>[01:21:24]</strong> </span>
+<span class="speaker"><strong>发言人2: </strong></span>
+那就是我。
+</p>
+<p class="transcript-line">
+<span class="time"><strong>[01:21:25]</strong> </span>
+<span class="speaker"><strong>发言人1: </strong></span>
+胡说八道，就假设我是你领导，我我我现在跟你提了一个要求，你先不用管我这要求是不是很无理？对我现在我就想要这个露营有关的内容给我使劲的往上提。但是如果他都不是明文的那你的抓手是什么呢？就你怎么让这个推荐算法就把露营这个但是。
+</p>
+<p class="transcript-line">
+<span class="time"><strong>[01:21:41]</strong> </span>
+<span class="speaker"><strong>发言人3: </strong></span>
+我这个视频是不是露营我还是知道。
+</p>
+<p class="transcript-line">
+<span class="time"><strong>[01:21:44]</strong> </span>
+<span class="speaker"><strong>发言人1: </strong></span>
+的那那这个就是不是在模型的层面去发挥作用的，你就把带有这个。
+</p>
+<p class="transcript-line">
+<span class="time"><strong>[01:21:48]</strong> </span>
+<span class="speaker"><strong>发言人3: </strong></span>
+标签刚说好，就是说这个是一个拆解的非常干净的一个系统。就是说模型只负责预估你可能发生各个行为的概率，这是一套非常干净的系统，每一块去负责每一块的事儿，我们不可能在模型中做这个事儿的。
+</p>
+<p class="transcript-line">
+<span class="time"><strong>[01:22:06]</strong> </span>
+<span class="speaker"><strong>发言人2: </strong></span>
+所以你听他说完这些在思考有些网站包括当年的主流的方式是你要选投稿的区域，以及自己给视频打标签。这个事儿和现在这套推荐系统之间的这个差距，就像是一个拿着矛，一个拿着手枪的人之间的差距一样。它完全不是一个时代。
+</p>
+<p class="transcript-line">
+<span class="time"><strong>[01:22:23]</strong> </span>
+<span class="speaker"><strong>发言人3: </strong></span>
+要不回过头来我来说一下，对，整个投稿中间都发生了。对对对，就是用户在投稿之后，在投稿的时候，应该首先这个系统能够给你推荐一个封面，以及说你我有可能推荐标题，但不一定，然后你可能自己再起个标题，然后上传上去。上传之后现在现在比较新的一些技术就是直接用大模型去提取你的音频，提取你的视频抽帧，然后把你的那个文字提取出来。我们去过大模型，去识别你有没有违反基本的一些法律道德的一些内容。这个应该每个平台都会有一些明文规定。
+</p>
+<p class="transcript-line">
+<span class="time"><strong>[01:23:09]</strong> </span>
+<span class="speaker"><strong>发言人1: </strong></span>
+相当于先审查。
+</p>
+<p class="transcript-line">
+<span class="time"><strong>[01:23:10]</strong> </span>
+<span class="speaker"><strong>发言人3: </strong></span>
+然后先过机审。然后这个机审如果说我们发有一定风险的内容，我们会到运营那边，运营那边可能有一些工作机制。比如说他一个视频可能要两个人一起拼。如果两个人都觉得这个视频有问题，那视频就会被打回，然后作者可能要重新操作。如果都觉得没问题，那就会相当于进入这个推荐系统的池子进行分发。然后这中间还有一个点，就是说这个视频未来应该说比如说它达到一定播放量，可能还会再会让运营人审一遍。确保这个视频不是一个反社会，以及说不会不是一个传达错误知识的一个视频。
+</p>
+<p class="transcript-line">
+<span class="time"><strong>[01:23:51]</strong> </span>
+<span class="speaker"><strong>发言人3: </strong></span>
+然后大概这样是一个视频机制，然后这之后这个视频还会经过内容理解的模型，比如说CVPR大模型会对这些模型打上一些标签。就比如说你刚刚这是一个露营的还是猫狗的，然后对于这个视频描述，这样的描述既有标签这样的，也有向量维度的。现在我就是它就变成一个，比如说几百位的数字，也有标签的。比如说它是露营猫狗或者whatever这样一个东西。然后这些东西会送到我们的模型里面去就传统的推荐电路，它第一环是一个召回，我会从几百几上亿、几千万和几百万的一个池子里面。我通过我的刚刚说的这个向量输入，找出跟你最匹配可能匹配的几万个或者几千个是几百个视频。
+</p>
+<p class="transcript-line">
+<span class="time"><strong>[01:24:39]</strong> </span>
+<span class="speaker"><strong>发言人3: </strong></span>
+然后后续我再通过我刚刚说的多目标的排序模型，我输出各个目标的预估的分数。比如说你点击的概率，点赞的概率，长期价值的概率。然后这个多个概率再经过一个融合函数。这个融合函数可能是个模型简单的模型，也可能是一个规则，也可能是一个简单的数据公式，然后加强在一起，然后对所有的几百个视频做一个排序，最后展现给你。
+</p>
+<p class="transcript-line">
+<span class="time"><strong>[01:25:05]</strong> </span>
+<span class="speaker"><strong>发言人3: </strong></span>
+当然中间还有一层叫做重排层。这个重排字有可能是模型，也有可能是策略。它是保证第一这些视频中间它是有多样性的，就是我不可能都给你出游戏，这样你的体验也很怪。对，我们就是比如说你保证每一个主题可能都出一两个，然后就是这样。同时我们可能也会衍生，比如说一些兴趣探索的目标，就是保证你的兴趣不是在一直收窄，最后退化成一两个兴趣，而希望你的兴趣最好是越来越多的。比如说还有一些视频，比如说你一直点着不看的，我们可能就把你给退场掉，这是一个混排层。
+</p>
+<p class="transcript-line">
+<span class="time"><strong>[01:25:47]</strong> </span>
+<span class="speaker"><strong>发言人3: </strong></span>
+然后在上面可能还会有一层，就是把那些多业务，我刚刚说的视频的。但你比如说还要跟广告、直播、短剧这些多个题材，还要有一层，把它们中间一起穿插一个合适的比例，让公司在用户体验和营收上面达到一个平衡。然后最后这个用户就会看到这个稿件。因为看到这个稿件之后，他发生互动，那用户的行为就被回传到这个系统当中去。这个系统当中去就会把我们刚刚说的这些特征加这个互动结合在一起，作为模型的输入来训练这个模型。让这个模型逐渐去学习到这个啊用户的偏好，以及去逐渐积累这个视频，这个系统对于这个视频的看法。所以这也是我们大概是一个正向的工作流，然后中间还是有很非常多鸡翅的。比如说我们刚刚说的，如果一个新作者，我们可能会给他一个相对还可以的播放量，让整个系就让他给他有一些机会，让这个系统学习到他这个作者创作手法是什么样的。他的这个用户对他认可度是什么样的，哪些用户认可他，以及说一个新稿件也会有这种，那新稿件可能相对的播放量，相对给的保底的量会更少一些。
+</p>
+<p class="transcript-line">
+<span class="time"><strong>[01:26:58]</strong> </span>
+<span class="speaker"><strong>发言人1: </strong></span>
+你刚才说的所有的这一切发生在多长时间里面。
+</p>
+<p class="transcript-line">
+<span class="time"><strong>[01:27:01]</strong> </span>
+<span class="speaker"><strong>发言人3: </strong></span>
+就是公每个公司不一样。但我觉得可能对业界的这个水平来说，快的话可能就几分钟，慢的话可能也就是一两个小时。
+</p>
+<p class="transcript-line">
+<span class="time"><strong>[01:27:12]</strong> </span>
+<span class="speaker"><strong>发言人1: </strong></span>
+相当于整个算法体系对这个新上传的视频做了各种方面的体检评估。
+</p>
+<p class="transcript-line">
+<span class="time"><strong>[01:27:19]</strong> </span>
+<span class="speaker"><strong>发言人2: </strong></span>
+突然想到有一次我上一个网站，一个新网站，那个网站的推荐算法没有时间这个维度，所以永远是发的最早那个东西是最火的，因为它积累的最多数据，然后那个网站就是一直没修这bug，然后当时网站他已经死了，就你但没想到。
+</p>
+<p class="transcript-line">
+<span class="time"><strong>[01:27:35]</strong> </span>
+<span class="speaker"><strong>发言人3: </strong></span>
+对，所以说一个平台对他一定是需要对作者和用户足够友好，而且包括他要发挥社会价值。他在咱周正走的比较长。
+</p>
+<p class="transcript-line">
+<span class="time"><strong>[01:27:45]</strong> </span>
+<span class="speaker"><strong>发言人1: </strong></span>
+对我要接着问弱智问题。OK，所以现在就过去这24小时里面有有1亿个视频传上来，然后我要看其中的100个，你们不可能为我把那1亿个视频排一个序，不可能，你们是不是就随便抽了一点点？
+</p>
+<p class="transcript-line">
+<span class="time"><strong>[01:28:02]</strong> </span>
+<span class="speaker"><strong>发言人3: </strong></span>
+不是随便。
+</p>
+<p class="transcript-line">
+<span class="time"><strong>[01:28:03]</strong> </span>
+<span class="speaker"><strong>发言人1: </strong></span>
+就是我们。
+</p>
+<p class="transcript-line">
+<span class="time"><strong>[01:28:04]</strong> </span>
+<span class="speaker"><strong>发言人3: </strong></span>
+相当于说会有个模糊计算的过程。这个模糊计算会从中间抽出几万个，然后这几万个挨个会给你计算，一次几万个或者几千个挨个给你计算。
+</p>
+<p class="transcript-line">
+<span class="time"><strong>[01:28:16]</strong> </span>
+<span class="speaker"><strong>发言人1: </strong></span>
+所以我得到的服务是你们先模糊计算，就是先帮我从这一亿个里面拿了几万个放放桌面，然后再来给我排一遍。
+</p>
+<p class="transcript-line">
+<span class="time"><strong>[01:28:26]</strong> </span>
+<span class="speaker"><strong>发言人3: </strong></span>
+对，几万个是几千个，几万个或者几，然后这个模会计算，它大概是这样一个逻辑。我们把如果把这是现在一些传统算法，就不是所有算法。比如说我们会把这个视频，你可以想象成一个。
+</p>
+<p class="transcript-line">
+<span class="time"><strong>[01:28:38]</strong> </span>
+<span class="speaker"><strong>发言人1: </strong></span>
+树有很多枝杈。
+</p>
+<p class="transcript-line">
+<span class="time"><strong>[01:28:40]</strong> </span>
+<span class="speaker"><strong>发言人3: </strong></span>
+你的意思有很多枝杈。比如说这个数有十层，然后每层可能有几十个分叉。那我可能会这个系统会在首先从这个根上面去比较，你在哪个分叉里面，然后一直往前走，然后中间可能会有一些策略，然后在这个分叉最最分叉里面可能拿到一些视频。所以你理论上是相当于是全计算，但是其实是一个模糊计算。
+</p>
+<p class="transcript-line">
+<span class="time"><strong>[01:29:03]</strong> </span>
+<span class="speaker"><strong>发言人3: </strong></span>
+但是现在这是过去的技术，然后新的技术来说，我们也在有一些落地，就是业界有一些落地，就是我们在做深入式推荐，就跟大模型一样，我们直接去端到去。比如说我们把所有的视频放在一个编码里面，就过去来说大家视频都会有对应的一个ID，这个ID是没有语义的，就是一个随机ID那现在我们会给每个视频去赋予一个有语义的ID跟你ID相近的视频都是跟你差不多内容的视频。比如说它是个三就是三层的四个数字。每个数字比如是1万，那就是1万1万1万1万就是1111万的数字。这1111万数字理论上可以表征所有的视频，对吧？我们现在可能的一种升值推荐做法就是说我预估你想看的数四个数字是什么，但是现在业界也不是特别成熟，说实话应该还没有你。
+</p>
+<p class="transcript-line">
+<span class="time"><strong>[01:29:53]</strong> </span>
+<span class="speaker"><strong>发言人1: </strong></span>
+刚说了一个比较前沿的东西。
+</p>
+<p class="transcript-line">
+<span class="time"><strong>[01:29:54]</strong> </span>
+<span class="speaker"><strong>发言人3: </strong></span>
+比较前沿就是二三年到现在我们。
+</p>
+<p class="transcript-line">
+<span class="time"><strong>[01:29:57]</strong> </span>
+<span class="speaker"><strong>发言人1: </strong></span>
+正在做的事情。
+</p>
+<p class="transcript-line">
+<span class="time"><strong>[01:29:58]</strong> </span>
+<span class="speaker"><strong>发言人3: </strong></span>
+有一些局部落地，然后业界也在探索它跟我们现在的这个链路其实没有我没beat我们现在链路，它可能作为我们现在链路一个组成部分。
+</p>
+<p class="transcript-line">
+<span class="time"><strong>[01:30:08]</strong> </span>
+<span class="speaker"><strong>发言人1: </strong></span>
+但是这些东西因为都被你们条块分割的特别清楚，以至于你可以拿一小块流量去去测试一试。
+</p>
+<p class="transcript-line">
+<span class="time"><strong>[01:30:15]</strong> </span>
+<span class="speaker"><strong>发言人3: </strong></span>
+对对对，就以及说我们系统中某些模块是用这种方法做的，或者某些的流量用这个方法。
+</p>
+<p class="transcript-line">
+<span class="time"><strong>[01:30:21]</strong> </span>
+<span class="speaker"><strong>发言人2: </strong></span>
+做的那你们现在的所有计算还是基于GPU的。
+</p>
+<p class="transcript-line">
+<span class="time"><strong>[01:30:24]</strong> </span>
+<span class="speaker"><strong>发言人3: </strong></span>
+就是不同公司不一样。但是理论上现在那种非常复杂的计算应该都是在GPU上。
+</p>
+<p class="transcript-line">
+<span class="time"><strong>[01:30:30]</strong> </span>
+<span class="speaker"><strong>发言人1: </strong></span>
+那肯定的，对你刚才说的那个引起我的。
+</p>
+<p class="transcript-line">
+<span class="time"><strong>[01:30:34]</strong> </span>
+<span class="speaker"><strong>发言人3: </strong></span>
+注意是说。
+</p>
+<p class="transcript-line">
+<span class="time"><strong>[01:30:35]</strong> </span>
+<span class="speaker"><strong>发言人1: </strong></span>
+你比如说就假设我作为一个创作者，我传了一个关于俄乌战争最近最新形式的点评。然后我自己聊了五分钟，我我我对这个国家看法怎么样，对战争局势的看法，我会进入到最近上传的所有的跟俄乌战争有关的的这种谈论评估战争形式的那个视频放在一起，然后来比较一下我的质量。
+</p>
+<p class="transcript-line">
+<span class="time"><strong>[01:30:58]</strong> </span>
+<span class="speaker"><strong>发言人3: </strong></span>
+我们不会有一个人工过程。
+</p>
+<p class="transcript-line">
+<span class="time"><strong>[01:31:00]</strong> </span>
+<span class="speaker"><strong>发言人1: </strong></span>
+那肯定。
+</p>
+<p class="transcript-line">
+<span class="time"><strong>[01:31:00]</strong> </span>
+<span class="speaker"><strong>发言人3: </strong></span>
+没有我就说模型实际上也是的做了这个事儿。对，第一就是说其实模型做了几件事。第一就是说模型它会识别到这个用户对哪些话题感兴趣。然后这个话题的兴趣视频里面，它会挑一个互动指标最好的。但是这个互动指标咱们至少是一个很复杂的满意度的一个公式，或者说也不能叫最好的。这个用户觉得最好的就是相当于我们其实都是非常工程的去让用户的偏好被建模。
+</p>
+<p class="transcript-line">
+<span class="time"><strong>[01:31:30]</strong> </span>
+<span class="speaker"><strong>发言人3: </strong></span>
+其实你比如说你其实对政治不感兴趣，那理论上你还是有可能受到政治。但是你说到政治的概率可能是大盘的10分之1，然后是喜欢政治的人1‱的概率。收到这个帧视频，你可能希望这个是个长视频，它细节的分析，这个战神走势。同时你喜欢点赞，那你可能收到是长视频里面点赞率高的，反过来说，你其实不太喜欢长看长视频，你可能收到就是短视频里面30秒。跟你说一下局势的。
+</p>
+<p class="transcript-line">
+<span class="time"><strong>[01:32:01]</strong> </span>
+<span class="speaker"><strong>发言人1: </strong></span>
+不是对你能想象这么细的事儿，你看你刚才说的这个特别细的事儿，就假设我感兴趣一万个事儿，其中有一个事儿是俄乌战争。对，然后我对俄乌战争的感兴趣反而还跟别的那个军事迷的那个谢谢，那还不一样。
+</p>
+<p class="transcript-line">
+<span class="time"><strong>[01:32:14]</strong> </span>
+<span class="speaker"><strong>发言人3: </strong></span>
+对我对这。
+</p>
+<p class="transcript-line">
+<span class="time"><strong>[01:32:15]</strong> </span>
+<span class="speaker"><strong>发言人1: </strong></span>
+一万个事儿的感兴趣的就是怎么感兴趣，以及感兴趣到什么程度，就都被被压缩在一个几就是几千个字符的一个就是。
+</p>
+<p class="transcript-line">
+<span class="time"><strong>[01:32:26]</strong> </span>
+<span class="speaker"><strong>发言人3: </strong></span>
+一个不止还有你历史上所有行为。对你比如说如果说你发生了10万个行为，你这个10万个行为都给我通过一些工程计算，最终变成几十万或者几几千个的数字进入这个模型。所以说这也说明就是你想我不可能自己做这个事儿，我天天看你想什么。
+</p>
+<p class="transcript-line">
+<span class="time"><strong>[01:32:47]</strong> </span>
+<span class="speaker"><strong>发言人2: </strong></span>
+对，就是供给有你供给不到就没有办法做任何这个事儿。
+</p>
+<p class="transcript-line">
+<span class="time"><strong>[01:32:50]</strong> </span>
+<span class="speaker"><strong>发言人3: </strong></span>
+对，就假如说你今天只有一个博客讲的俄乌战争，对，那我只能推这个博客。但是问题是说你对俄乌战争的口味。
+</p>
+<p class="transcript-line">
+<span class="time"><strong>[01:32:58]</strong> </span>
+<span class="speaker"><strong>发言人1: </strong></span>
+就是大家对这个颗粒度是达不到的。
+</p>
+<p class="transcript-line">
+<span class="time"><strong>[01:33:00]</strong> </span>
+<span class="speaker"><strong>发言人3: </strong></span>
+达不到的就是你比如说今天你觉得每过几年就应该有一个局部纷争，它只不过今天是俄乌，明天可能是另外一个他就是个很合理的是我是中性的态度。还有一个叫做我觉得OK他可能也分摊了一些国际集市，未必也OK。那你每个态度，如果说今天只有一个态度给到你，你当然满意，会跟有十个不同的态的稿件给你那十个可能你的满意度更高。那你想你要是一个十个态度都有，那你成为播客受众的概率是不是更高？但只有一个，意味着你不是这个受众，那你不会看播客。
+</p>
+<p class="transcript-line">
+<span class="time"><strong>[01:33:35]</strong> </span>
+<span class="speaker"><strong>发言人1: </strong></span>
+不是。但是问题是这种大公司，就是短视频推荐算法的这个参数量已经可以沉淀到这么细的程度。这事儿太可怕了，简直是就是他的能力强到了可以去理解一个人对于万千事物中的一件事情里面的非常细微的偏好。
+</p>
+<p class="transcript-line">
+<span class="time"><strong>[01:33:52]</strong> </span>
+<span class="speaker"><strong>发言人3: </strong></span>
+我觉得这个是不可怕，汉阳应该知道，就是你以前用挖掘也可以做到这样。
+</p>
+<p class="transcript-line">
+<span class="time"><strong>[01:33:58]</strong> </span>
+<span class="speaker"><strong>发言人2: </strong></span>
+对，实际上是就不需要他这么复杂能力在使。
+</p>
+<p class="transcript-line">
+<span class="time"><strong>[01:34:00]</strong> </span>
+<span class="speaker"><strong>发言人3: </strong></span>
+不过过去都是人去挖的，现在是自动去做这个事儿。但这个依然有个。
+</p>
+<p class="transcript-line">
+<span class="time"><strong>[01:34:04]</strong> </span>
+<span class="speaker"><strong>发言人2: </strong></span>
+量变引发质变的过程，对吧？因为当年我们做挖掘，这是很很费劲儿很费劲儿的事儿。
+</p>
+<p class="transcript-line">
+<span class="time"><strong>[01:34:09]</strong> </span>
+<span class="speaker"><strong>发言人3: </strong></span>
+就是当年他是人工做了挖了多少才能，我就是过去比如说他挖了这个博客偏好，他才能学到偏博客偏好。现在就是我就是直接把用户的历史行为放进去，他就。学到这个事儿，OK不用有那么多人工工作了。所以确实跟汉阳之前不是一个时代。
+</p>
+<p class="transcript-line">
+<span class="time"><strong>[01:34:27]</strong> </span>
+<span class="speaker"><strong>发言人2: </strong></span>
+我们是刀耕火种，现在机械化作业。对对对，你都是种地，但是你知道他种的有可能。
+</p>
+<p class="transcript-line">
+<span class="time"><strong>[01:34:32]</strong> </span>
+<span class="speaker"><strong>发言人3: </strong></span>
+比机械化作业可能还要再往前一点。
+</p>
+<p class="transcript-line">
+<span class="time"><strong>[01:34:35]</strong> </span>
+<span class="speaker"><strong>发言人1: </strong></span>
+我对对我对我要接着问一些弱智问题。就是你刚才说的那个就是在模糊计算，从那从1亿个候选的视频里面给我拿了一点点，可能几万个或者是几千个来给我做排序。对这几万个视频是不是你拿着我的偏好，就有点像是有一个篮子，有一个购物清单，然后去到超市里面，就是通过这个计算的过程帮我挑的这对自己看的对对对对，是这么一个过程。对对对，所以就是我的我的总的偏好，就是我可能感兴趣的事儿，已经在确认候选人来来参赛的的这些。对对对。
+</p>
+<p class="transcript-line">
+<span class="time"><strong>[01:35:10]</strong> </span>
+<span class="speaker"><strong>发言人3: </strong></span>
+你可以理解。如果没有进这几万的，第一个可能性就是未来会进来，因为你就你消费了对吧？那可能就是有的有新的进来。OK还有就是说那些大概率就不是很感兴趣。
+</p>
+<p class="transcript-line">
+<span class="time"><strong>[01:35:24]</strong> </span>
+<span class="speaker"><strong>发言人1: </strong></span>
+我肯定就对。
+</p>
+<p class="transcript-line">
+<span class="time"><strong>[01:35:25]</strong> </span>
+<span class="speaker"><strong>发言人3: </strong></span>
+就是放在你面前你也不感。我们之前我们为了做一个事儿，其实推荐系统一直在做，因为大家一直抱怨信息茧房这个事情。对，我们其实做一个事儿，就是说我们可能拿千亿的流量去做随机分发。这个随机分发当然也不是说从几亿个里面去发。比如说我们可能挑一些主题完全不一样的稿件，它可能是比如说万级别的对这个稿件，然后我不走后面的，就是这个粗匹配，就模也不走经济计算，我重新随机从里面几百个你挑一个给你展现，那它这个点击率可能是大盘点击率的1%。
+</p>
+<p class="transcript-line">
+<span class="time"><strong>[01:36:04]</strong> </span>
+<span class="speaker"><strong>发言人3: </strong></span>
+差这么多，差这么多也就意味着什么呢？今天如果没有推荐系统，我就随机给你发视频。那你想要找到一个视频的难度至少是现在的100倍，而且应该不止100倍。因为虽然它点击率是1%，但他后面的播放时长、完播率、点赞率也是偏低的。如果你从满意度层面来看，它可能是1‰。所以说如果没有推荐系统，你基本可以理解你在这个内容极度爆发的时代，你是没办法去看内容的。
+</p>
+<p class="transcript-line">
+<span class="time"><strong>[01:36:33]</strong> </span>
+<span class="speaker"><strong>发言人1: </strong></span>
+就是我就会直接丧失用抖音的兴趣，就是我就不会再用这个了。基本上那那你要是掉90%多的话。
+</p>
+<p class="transcript-line">
+<span class="time"><strong>[01:36:40]</strong> </span>
+<span class="speaker"><strong>发言人3: </strong></span>
+如果没有推荐系统这个东西的话，面对每天一级别的一个内容供给你，其实是没有任何办法。这个内容你是直接是任何一个你都看不了。
+</p>
+<p class="transcript-line">
+<span class="time"><strong>[01:36:50]</strong> </span>
+<span class="speaker"><strong>发言人2: </strong></span>
+对，所以换句话说就是如果没有推荐系统，那你面对这个一级的视频，你看的是个平均数，就是中国用户制作视频的平均水平。
+</p>
+<p class="transcript-line">
+<span class="time"><strong>[01:36:58]</strong> </span>
+<span class="speaker"><strong>发言人3: </strong></span>
+你就是这么说，你随便抽一个视，你可能就抽到了你们小区的一个大爷他拍的一个视频。因为他们确实自拍的一个视频，可能是怼脸自拍的一个频。我不是说这个视频不好，但大概你不敢，你不感兴趣不是这个事儿。
+</p>
+<p class="transcript-line">
+<span class="time"><strong>[01:37:12]</strong> </span>
+<span class="speaker"><strong>发言人1: </strong></span>
+你稍微往里边品，它是一个尺度的问题，它是一个颗，你就是刚才说那个颗粒度的问题。对，就是说我当然知道把这一亿个视频直接抓阄纯平均的分发给这1000亿个播放行为。对，肯定是完全弱智的，这肯定是没有人想要的。这个我知道OK但是从这个平行宇宙的这个版本和咱们今天这个版本中间还有一个很长的颗粒度的渐变的过程。就比如说我可以想一个中间状态，是说OK这个人对政治的话题感兴趣。对，但是就是我我不允许我的这个推荐算法的系统识别到它非常细微的价值观和观念。
+</p>
+<p class="transcript-line">
+<span class="time"><strong>[01:37:53]</strong> </span>
+<span class="speaker"><strong>发言人3: </strong></span>
+没有那么细微的价值观。
+</p>
+<p class="transcript-line">
+<span class="time"><strong>[01:37:55]</strong> </span>
+<span class="speaker"><strong>发言人1: </strong></span>
+但是你刚描述的已经感觉给人感觉已经很细了，而且按照你刚才说，它都是向量化的，不知道他他就他只是不断在积累。我想说的是我们完全可以想象一个我刚才说那个就是不差异化，就不推荐纯平均随机的推送和今天这种特别有效的推送的中间状态。就这幢这这状态就是让人们看一个大概他感兴趣的的范围，但是不去啾啾其究竟就是让不完全迎合到他特别细微的东西，只迎合到一个大概。你比如说这个人喜欢看化妆，那我们就从这5000万个化妆的视频里面都给他随机扔，肯定效果会差一些。但是是不是也勉强可以接受的？就是我的意思是你这里边有没有一个可以划的界限，就是过了这条线实际差不多得了。
+</p>
+<p class="transcript-line">
+<span class="time"><strong>[01:38:45]</strong> </span>
+<span class="speaker"><strong>发言人3: </strong></span>
+实际上我们是做了很多事儿，比如就是我觉得这个事儿的话，首先第一道就是我们在内容审核的时候，对，我们是遵从国家规定道德约束平台底线的。也就是说如果他违反这些，他其实根本就得不到推荐。所以可推荐的基本上他是观点大众可接受的。明白。第二个叫做我们在这个分发的过程中，我们是不会做到那么细致的。同时的话我们的推荐里面是有一部分的流量，或者说有一部分的目标。我们刚说很多目标，一部分的目标是鼓励探索你过去没看到内容的。
+</p>
+<p class="transcript-line">
+<span class="time"><strong>[01:39:26]</strong> </span>
+<span class="speaker"><strong>发言人1: </strong></span>
+就是在咱们最开头说的那个那个第二层的目的目标里有一个权重。
+</p>
+<p class="transcript-line">
+<span class="time"><strong>[01:39:30]</strong> </span>
+<span class="speaker"><strong>发言人3: </strong></span>
+不是有一个有挺多权重，是这个是探索你过去没看过的东西。对，相当于它是一个拔河比赛，就是你刚刚说掰扯的过程，其实推荐系统里面是有的。那你想从长期价值来看，你到底是希望这个系统短期让你更懂，还是说长期能够帮你发现新事情。我们都知道你在那边能发现你过去没有看过的东西，你长期才会用这个平台。因为人的需求总是会退场的。所以说今天如果我只盯着你已有的需求去服务，对那你其实未来可能是在平台就流失了。所以我们很关注说你在这个平台能不能发现你过去未曾看过的观点OK。然后没看过的内容方向，甚至题材我们去不停的探索。
+</p>
+<p class="transcript-line">
+<span class="time"><strong>[01:40:15]</strong> </span>
+<span class="speaker"><strong>发言人3: </strong></span>
+然后动态来说，我理解大部分的公司在做这个事情的时候，都希望自己的用户的兴趣，人均兴趣量看的量是越来越多的。这个逻辑上来一个就是从平台自己的视角是要这样的。然后从执行上面的目标层面，有很多目标是为这个服务的。我们可能有一个目标叫做我们会看跟你差不多的用户在搜索什么稿件，他搜索稿件可能就变成你比如说跟你一样画像的人，他可能看着跟你有不一样。那他搜索的一定代表着推荐系统还没有识别到的。那我们可能会猜他想说什么，然后把这个视频推荐给你，这个观点和内容可能都是你过去没有接触到的。
+</p>
+<p class="transcript-line">
+<span class="time"><strong>[01:40:58]</strong> </span>
+<span class="speaker"><strong>发言人3: </strong></span>
+OK因为之前我了解的就是说应该国外的有一个心理学家，他们做过一个实验，就是完全的随机分发和看推荐。最后来看可能就是完全随机迸发，用户可能看的更极端，是吗？对，用户看的更极端。因为用户虽然你没有做这个筛选过程，但是用户还是会筛选，只不过他的筛选率会偏低。
+</p>
+<p class="transcript-line">
+<span class="time"><strong>[01:41:23]</strong> </span>
+<span class="speaker"><strong>发言人1: </strong></span>
+哦哦哦你的意思是就是虽然你随机给他发了均等的所有东西，对，但是他会不停的往下滑滑滑。
+</p>
+<p class="transcript-line">
+<span class="time"><strong>[01:41:28]</strong> </span>
+<span class="speaker"><strong>发言人3: </strong></span>
+他仍然还是停留。
+</p>
+<p class="transcript-line">
+<span class="time"><strong>[01:41:30]</strong> </span>
+<span class="speaker"><strong>发言人1: </strong></span>
+在那个更更更单一和更极端的。同时。
+</p>
+<p class="transcript-line">
+<span class="time"><strong>[01:41:33]</strong> </span>
+<span class="speaker"><strong>发言人3: </strong></span>
+如果推荐系统做这个事，他会推一个跟你原来看的不一样，可能观点不一样，但是你还会看下去的东西。如果随机分发他的率一定更低，那也就是说我推一个跟你观点不一样的，你虽然看到了，但你可能根本不会点，或者点进去的你可能对也快速就退出了。其实也一样，或者某种逻辑来说，假设咱们都是村口大爷，咱们都是见证的，然后我跟你的见证观点不一样，对你以后还跟我聊天吗？但是假设我是一个很有人格魅力的人我观点跟你不一样，是你可能以为我说话好听，还是跟我聊聊。
+</p>
+<p class="transcript-line">
+<span class="time"><strong>[01:42:13]</strong> </span>
+<span class="speaker"><strong>发言人1: </strong></span>
+然后潜移默化。
+</p>
+<p class="transcript-line">
+<span class="time"><strong>[01:42:14]</strong> </span>
+<span class="speaker"><strong>发言人3: </strong></span>
+你可能也部分认同我的观点，你的观点反而差异化了OK OK所以我觉得这个事情就是求同存异，这个是人类在知识的本质大模型这一波的开篇就attention is all you need，这是经典的心理学实验。假设今天这个屋子它的后面那个墙是绿色的对吧？你突然问我一个问题，你现在脑海里什么颜色？我现在不说后面的绿色，我现在问你什么，你现在大脑里面响应的应该是绿色。对，大家都是会根据自己的知识储备，包括最近行为去关联自己的知识。
+</p>
+<p class="transcript-line">
+<span class="time"><strong>[01:42:49]</strong> </span>
+<span class="speaker"><strong>发言人1: </strong></span>
+所以说就像海滩上的叶儿一样，它就是它是。
+</p>
+<p class="transcript-line">
+<span class="time"><strong>[01:42:52]</strong> </span>
+<span class="speaker"><strong>发言人3: </strong></span>
+人类知识的检索，就是天然检索，会检索自己偏好的内容，然后模型学习的也是这个偏好。但是跟人类不一样，就是说我们在做推荐系统的时候会加很多模块去纠偏这个偏好。就是你从长期来说，就这个偏好对于用户在这个平台留存是不是个好事？我理解是个好事儿。因为我们做过业界或者说大家应该有这个共识，我做一些兴趣探索的实验，对长期留存是正向的。那就是平台没有必要把你锁在这个间房里面，平台是希望你能够更open的看这个世界的。
+</p>
+<p class="transcript-line">
+<span class="time"><strong>[01:43:30]</strong> </span>
+<span class="speaker"><strong>发言人3: </strong></span>
+我或者反过来聊这个事儿，就是我最开始举的那个例子。假如你今天沉迷在一个APP，然后每天用3个小时，然后你是不是物极必反，有一天你说我不用了，对我的生活太影响了。然后我就可能就卸载了。
+</p>
+<p class="transcript-line">
+<span class="time"><strong>[01:43:43]</strong> </span>
+<span class="speaker"><strong>发言人1: </strong></span>
+很多人也这样。
+</p>
+<p class="transcript-line">
+<span class="time"><strong>[01:43:44]</strong> </span>
+<span class="speaker"><strong>发言人3: </strong></span>
+对，实际上就是其实所以现在像抖音或者其他平台都会做一些反沉迷的事儿。当然一方面肯定是有社会责任感的，另一方面就是说极度贪婪并不是一个长期主义。
+</p>
+<p class="transcript-line">
+<span class="time"><strong>[01:43:54]</strong> </span>
+<span class="speaker"><strong>发言人1: </strong></span>
+的或者最好的策略。对对对，就是我听你说下来，就是我感觉到就是我我的直觉总是还是想着算法是一种干预。算法是在是在用他的应用他的策略来做他认为我应该看的东西的选择。所以从这个角度来看，放松这个算法或者是引入那个随机和平均和很random的给我一些是会缓解一些什么让我的视野特别狭窄之类的问题。但是你的就是你说的的意思就是说我所有我顾虑的，我关心的，我认为可以变得更好的。的这些事儿都可以在你的那个目标的设计里面充分的反应，并且能够在在你的算法的第二个层层面里面。
+</p>
+<p class="transcript-line">
+<span class="time"><strong>[01:44:41]</strong> </span>
+<span class="speaker"><strong>发言人3: </strong></span>
+我举个例子，就是说我们之前做的那个随机的实验，然后我们得到了一批样本，就是用户行为，就是我们用这个行为去反过来去验现在的模型。对是不是？对有些内容应该分发，没有分发。对，然后对他就比如说现在有个热点你其实根本不爱看，但是因为推的多，你看了或者有一些比较冷门的知识你想看，但是因为他不是大众，所以没给你钱。我们可能通过就是我看到一些研究方向，他就是通过随机流量去对大盘的模型进行纠偏。如果随机分发你可能会看什么，然后用这个知识再反过来纠正模型，这也是我们相当于在研究的是但是我们在考虑的比如说多样性减防，包括长期价值，包括用户的一些好的视频有没有做到合理分发，包括有一些归营销号这所有的东西其实在我的过去经验里面其实都有做过思考过。就是它整个是一个大的体系。
+</p>
+<p class="transcript-line">
+<span class="time"><strong>[01:45:39]</strong> </span>
+<span class="speaker"><strong>发言人3: </strong></span>
+但是你说我们有没有百分之百做的好呢？那当然肯定我们做的不是每个点都是100分，但是这每个点上面都有人有算法在考虑联动，一起想办法去做好。并不是说我们就是极端化的要做用户市场。对，因为用极端化用户市场它是一个你可以理解是一个18年前之前的事儿。就他他甚至上早期甚至。
+</p>
+<p class="transcript-line">
+<span class="time"><strong>[01:46:01]</strong> </span>
+<span class="speaker"><strong>发言人1: </strong></span>
+从你的立场来看也是无效的。
+</p>
+<p class="transcript-line">
+<span class="time"><strong>[01:46:04]</strong> </span>
+<span class="speaker"><strong>发言人3: </strong></span>
+或者是效率很，这就不是一个有效的事儿。
+</p>
+<p class="transcript-line">
+<span class="time"><strong>[01:46:06]</strong> </span>
+<span class="speaker"><strong>发言人1: </strong></span>
+对，这个我觉得已经不用。
+</p>
+<p class="transcript-line">
+<span class="time"><strong>[01:46:08]</strong> </span>
+<span class="speaker"><strong>发言人2: </strong></span>
+再因为这事最有说服力的是他经济上没有回报。就是说让人们尽可能的花更多时间看短视频，这个事儿在经济上是不合理的。对于短视频公司来讲，所以他就是从根本性上打消了。如果你还顾虑这个事儿，那你也不能跟钱过不去。是是是。
+</p>
+<p class="transcript-line">
+<span class="time"><strong>[01:46:22]</strong> </span>
+<span class="speaker"><strong>发言人1: </strong></span>
+但我还是要发表更多的幼稚愚蠢的进步言论了。你看你刚才说的这些事儿，其实是一种非常积极进取的态度。对这个积极进取的态度是表现为OK。像我们的推荐算法特别的有效。有的时候因为它过于有效，而产生了11个、两个、三个的社会会识别为这个是有问题的。要么就是人们视野狭隘。
+</p>
+<p class="transcript-line">
+<span class="time"><strong>[01:46:47]</strong> </span>
+<span class="speaker"><strong>发言人3: </strong></span>
+要么就是没有我倒没有。因为我们永远不是100分。
+</p>
+<p class="transcript-line">
+<span class="time"><strong>[01:46:51]</strong> </span>
+<span class="speaker"><strong>发言人1: </strong></span>
+对，你听我说。对，你听我说。就是产生了这样的问题之后，我刚才就是我作为一个用户，就是在我完全对这套系统无知的情况下，我的直觉反应是你少做点儿。就是你们现在已经很精细化的化的去去去做用很多很大量的参的那个参数来帮我去计算去排序。对然后如果你少做点，就是让让它更随机更平均一点，就是能就能缓解这些问题。
+</p>
+<p class="transcript-line">
+<span class="time"><strong>[01:47:13]</strong> </span>
+<span class="speaker"><strong>发言人1: </strong></span>
+但是你跟我说的是说，在你的目标设定里面，就这些东西其实没有什么是在你们考虑不了的，你们都可以反映在这个综合的复杂的函数里面，它是一个积极有为的一个过程。如果我们发现一个问题，我们就把它作为。如果这个问题难，就是严重到一定的程度。你比如说咱这个推荐算法傻了吧唧的老是给人推这个色情或者是暴力，或者是特别宣扬极端言论的东西。那我们就是把这个事儿作为，如果这个事儿已经顽固到做就是是一个社会问题，那我们就把它作为一个目标，纳入到我们的那个复杂的我们要追求的这个东西里面，就这个系统里面。但是我的问题是，这个东西听起来像是一，它肯定是滞后的，要先出问题你才知道。
+</p>
+<p class="transcript-line">
+<span class="time"><strong>[01:47:55]</strong> </span>
+<span class="speaker"><strong>发言人3: </strong></span>
+所以你要过一段时间，也没有，我们是会前去考虑。我比如说我拎着钱去考虑很多问题，不可能的事情发生。就比如说我们加一个目标，我其实就知道他可能有哪些风险。那些风险我会把它弄好之后，我们再去上线。但是我也不可能是百分之百什么问题都能看到。有些问题可能是后置治理，或者说有些问题根本不是上线的时候发生的。比如说我们在上点赞目标。
+</p>
+<p class="transcript-line">
+<span class="time"><strong>[01:48:20]</strong> </span>
+<span class="speaker"><strong>发言人1: </strong></span>
+比如说在他要很久之后。
+</p>
+<p class="transcript-line">
+<span class="time"><strong>[01:48:22]</strong> </span>
+<span class="speaker"><strong>发言人3: </strong></span>
+比如说1819年的我们上点赞目标，就是可能一年之后出了一些视频，叫做你点一个赞我就做个俯卧撑。或者说你你你如果点个赞，你今天就有一天好运，你们应该刷到过这种视频吧？对，到过。那那这现在你看不到这类视频对吧？那是因为他是当我们有这个点，当有些作者有些黑消耗会黑产，他知道了点赞寓高能有流量，他反过来去hack这个事情。对，hack这个事情。然后我们后置的就要去处理这个事，我们去识别这类稿件？以及说把这些无效的用户行为给过滤掉。
+</p>
+<p class="transcript-line">
+<span class="time"><strong>[01:48:58]</strong> </span>
+<span class="speaker"><strong>发言人3: </strong></span>
+或者说我觉得大家觉得我这个事情做的很多，或者我往前看，我们最简单的系统就是汉阳最开始做的推荐系统。他刚开始上的时候大家很开心，感觉个性化千人千面。但你过一段时间之后发现封闭面的标题党来了。是然后我们加了一些多目标点赞，有效播放，把封面的标题的点下去了。然后封面的标题点赞来了之后，又有一些help点赞的骗赞的一些行为。对骗赞行为来了之后，可能会有一些又有些其他行为的hack。所以说这个系统是一个。
+</p>
+<p class="transcript-line">
+<span class="time"><strong>[01:49:31]</strong> </span>
+<span class="speaker"><strong>发言人1: </strong></span>
+道高一尺魔高一丈的。
+</p>
+<p class="transcript-line">
+<span class="time"><strong>[01:49:33]</strong> </span>
+<span class="speaker"><strong>发言人3: </strong></span>
+它是一个攻防的事情就是攻防分解方面，第一方面就是说你的创作者并不是都是好人，当然你的用户也并不都是正常需求。对，那这些就是创作者你要不要管？他的一些是不是好的创作者。
+</p>
+<p class="transcript-line">
+<span class="time"><strong>[01:49:49]</strong> </span>
+<span class="speaker"><strong>发言人1: </strong></span>
+他们一些必须得管。
+</p>
+<p class="transcript-line">
+<span class="time"><strong>[01:49:50]</strong> </span>
+<span class="speaker"><strong>发言人3: </strong></span>
+你要不要干预？你要关于那你这个系统是不是要做优化。反过来说你的用户那些东西之所以作者有有立场，还是有的用户信了还是给他点赞拿好运的对吧？是有的用户还是希望那些用户希望为他们给做俯卧撑的对吧？对，那那这个事你管不管？还有一个逻辑就是说你的竞品就是优化的更好，做的更准了。
+</p>
+<p class="transcript-line">
+<span class="time"><strong>[01:50:16]</strong> </span>
+<span class="speaker"><strong>发言人1: </strong></span>
+那你要不要做？对就那种商业竞争是这一切的。对对对。
+</p>
+<p class="transcript-line">
+<span class="time"><strong>[01:50:20]</strong> </span>
+<span class="speaker"><strong>发言人3: </strong></span>
+一切的。或者某种逻辑来说，今天如果不迭代，这个系统就在变差。因为用户有额外的需求，有好的有差的作者，也有好的作品上传，也有差的作品上传。所以这个逻辑。
+</p>
+<p class="transcript-line">
+<span class="time"><strong>[01:50:31]</strong> </span>
+<span class="speaker"><strong>发言人1: </strong></span>
+你就要了解这个社会。
+</p>
+<p class="transcript-line">
+<span class="time"><strong>[01:50:32]</strong> </span>
+<span class="speaker"><strong>发言人3: </strong></span>
+整体的偏好和文化在在演进在演进。然后包括你从今天是一级的，每天是一级的，全网有一级的视频上传。那可能早十年只有百万量级、千万量级。那这么多量级的变化，你整个系统要不要演进？就当你比如说十年前的这个推荐系统，一定是处理不好今天的这个事情的这都没问题。就这个事情它是咱没办法说说我回到田园牧歌的那个时代，是就是必须得做。
+</p>
+<p class="transcript-line">
+<span class="time"><strong>[01:50:59]</strong> </span>
+<span class="speaker"><strong>发言人1: </strong></span>
+或者说他不能就是我想我刚才在纠结的点是他不符合我的直觉，但是我并不是说不认同你我只是感觉到似乎没有一个无为而治的，就往后退一步的节点，它必须得是再往前走。我们还是要遇到问题，我们要充分的理解问题，然后把它反映在我们的目标的的设定和函数里面。
+</p>
+<p class="transcript-line">
+<span class="time"><strong>[01:51:19]</strong> </span>
+<span class="speaker"><strong>发言人3: </strong></span>
+对我必须要反映一个价值观，就是在日常大家的工作管理当中，就是会有一个问叫做这个事情为什么是这样的？他为什么不是更完美的一个状态？但我想说就是万事万物来说，理论上都是从从0到1从1到10，从1到100的过程。对很多的问题并不是出现了，而是它本来就不是一个它本来是个零，你慢慢爬升上来的，只是你比更去过去提了更高的要求而已，所以你觉得它是个问题。是的。
+</p>
+<p class="transcript-line">
+<span class="time"><strong>[01:51:51]</strong> </span>
+<span class="speaker"><strong>发言人1: </strong></span>
+这个我认同。
+</p>
+<p class="transcript-line">
+<span class="time"><strong>[01:51:52]</strong> </span>
+<span class="speaker"><strong>发言人3: </strong></span>
+就是我觉得很多的时候就是我低位一点，我觉得很多时候大家的一些争议或者沟通就是没有认知到问题不是不是新增的，而是过去具有的，只是说大家的要求比过去更高了。比如说我们要求东西比以前更便宜，对东西比以前更好，以及说我们的内容比以前更新颖，茧房比以前更窄。其实推荐系统是更好的。你大家可能想象不出来十年前的推荐系统大家是什么体验了。对，但是我只能从我的技术层面来说，以及说我看了这么多年case的层面来说。各个家的推荐系统一定是在往体验更好的一个方向去走。
+</p>
+<p class="transcript-line">
+<span class="time"><strong>[01:52:31]</strong> </span>
+<span class="speaker"><strong>发言人1: </strong></span>
+但是你肯定也能够共情公众。对于就是不了解这这就这些ins的都公道。对，就是公众他会认为这个都是你的你的责任或者是啊是的。
+</p>
+<p class="transcript-line">
+<span class="time"><strong>[01:52:43]</strong> </span>
+<span class="speaker"><strong>发言人3: </strong></span>
+对这种模式我来说，用户的要求一定是越来越高的对，就是我如果这一套系统我用了10年，用了一年之后，他推的那种我已经不满意了。对对对。
+</p>
+<p class="transcript-line">
+<span class="time"><strong>[01:52:51]</strong> </span>
+<span class="speaker"><strong>发言人1: </strong></span>
+那就这么来说。但是问题是在现实中你不可能体会到，如果推荐算法停滞不前，你的体验变糟糕，不会有这么一个糟糕的alternative来给你做比较。因为这商业竞争它不允许。
+</p>
+<p class="transcript-line">
+<span class="time"><strong>[01:53:04]</strong> </span>
+<span class="speaker"><strong>发言人3: </strong></span>
+这样的话这公司很这就像如果一家餐厅它就是三道菜。
+</p>
+<p class="transcript-line">
+<span class="time"><strong>[01:53:08]</strong> </span>
+<span class="speaker"><strong>发言人1: </strong></span>
+永远是这三道菜是好吃。
+</p>
+<p class="transcript-line">
+<span class="time"><strong>[01:53:10]</strong> </span>
+<span class="speaker"><strong>发言人3: </strong></span>
+这就是而且非常好吃。但他也开不了10年，是是是他得迭代。因为大众的口味的变化，因为现在重口味，大家重口味，这也是近几年的事情。早些年大家其实并不重口味的，然后包括现在大家可能又流行清淡饮食了。这也是一个生活方式或者健康理念一个变化。
+</p>
+<p class="transcript-line">
+<span class="time"><strong>[01:53:28]</strong> </span>
+<span class="speaker"><strong>发言人2: </strong></span>
+对吧？对我我就想到早年中国有一个著名的问答网站，我就不说名了。刚才已经说过了，就是很多人会就是说他在某一年不突然变不好了吗？对，很多人会抱怨说是因为以前的编辑比现在的好，然后换了批编辑就逐渐就不好了。但是这个也是刻舟求剑了，是因为你的内容供给量已经超过了人力编辑能运营的量了。对，所以你不管这个好编辑走不走，他都管不了这么多内容，那那你又没有新的推荐算法上来，然后人们只会纷纷感叹以前的编辑好，现在编辑不好。
+</p>
+<p class="transcript-line">
+<span class="time"><strong>[01:53:57]</strong> </span>
+<span class="speaker"><strong>发言人1: </strong></span>
+而不会像这个听起来像是一种以老发言，就是我想回到过去，我想回到田园牧歌的时代。
+</p>
+<p class="transcript-line">
+<span class="time"><strong>[01:54:02]</strong> </span>
+<span class="speaker"><strong>发言人2: </strong></span>
+就是觉得很多人会有这种感觉。
+</p>
+<p class="transcript-line">
+<span class="time"><strong>[01:54:04]</strong> </span>
+<span class="speaker"><strong>发言人1: </strong></span>
+对，但是你对你的供给量。
+</p>
+<p class="transcript-line">
+<span class="time"><strong>[01:54:06]</strong> </span>
+<span class="speaker"><strong>发言人2: </strong></span>
+你不因为他每天看的东西量是不变的。对他每天都看100篇，但他忽略了以前的供给是100万，现在是供给是1000万的时候，你给你敲100篇，这事儿变得明显更难了。然后他会觉得说那个给我挑好内容的人离职了，那我就看不着好东西了。
+</p>
+<p class="transcript-line">
+<span class="time"><strong>[01:54:20]</strong> </span>
+<span class="speaker"><strong>发言人1: </strong></span>
+用户也变多了。对他想玩就越多，他想玩一怀旧服，就是停停留在那个对大灾变或者是燃烧的远征。
+</p>
+<p class="transcript-line">
+<span class="time"><strong>[01:54:28]</strong> </span>
+<span class="speaker"><strong>发言人3: </strong></span>
+然后就不往前走了。就是我觉得那个事儿，就是咱们退万步来说，那个大大灾变那个时代的那个游戏，魔兽世界那个游戏就是客观来说，他跟黑神话悟空比。假设你现在回到15岁，你看进入这个点游戏你喜欢哪一个？
+</p>
+<p class="transcript-line">
+<span class="time"><strong>[01:54:45]</strong> </span>
+<span class="speaker"><strong>发言人1: </strong></span>
+对，其实这种抱怨他不是在抱怨这个游这个规则不好，他就是想活在过去，他想让受众端和作者端和所有的事儿都会都停留在一个时间点。
+</p>
+<p class="transcript-line">
+<span class="time"><strong>[01:54:55]</strong> </span>
+<span class="speaker"><strong>发言人3: </strong></span>
+我理解他是希望他的快乐回到过去。对，是，但是他没有提考虑到他自己的审美，或者说对快乐。
+</p>
+<p class="transcript-line">
+<span class="time"><strong>[01:55:02]</strong> </span>
+<span class="speaker"><strong>发言人1: </strong></span>
+一直在提高。
+</p>
+<p class="transcript-line">
+<span class="time"><strong>[01:55:03]</strong> </span>
+<span class="speaker"><strong>发言人3: </strong></span>
+我们一说越长大越孤单，越难感受到快乐，是因为我们小时候感受到快乐更多了。
+</p>
+<p class="transcript-line">
+<span class="time"><strong>[01:55:09]</strong> </span>
+<span class="speaker"><strong>发言人1: </strong></span>
+大家越长他越孤单，可以出现在这个节目里，太奇怪了。
+</p>
+<p class="transcript-line">
+<span class="time"><strong>[01:55:12]</strong> </span>
+<span class="speaker"><strong>发言人3: </strong></span>
+就是你刚才我点很多时候就是大家现在很难吃到很多美食，因为我们过去为很多美食开心过。那你理论上如果美食是一个有限集合，对，那你那个你体你你你体集合在变多，那你的那个未体验集合在变少的变少，那你的快乐概率在变低。
+</p>
+<p class="transcript-line">
+<span class="time"><strong>[01:55:31]</strong> </span>
+<span class="speaker"><strong>发言人2: </strong></span>
+所以就可以想象，如果博客到了咱们刚才聊的那个样子，就是一个极大丰富的供给，然后渗透到中国渗透率20%。对现在此刻的播客听众一定会他还是当年好。
+</p>
+<p class="transcript-line">
+<span class="time"><strong>[01:55:41]</strong> </span>
+<span class="speaker"><strong>发言人3: </strong></span>
+就是当年我不在场的话就没有。
+</p>
+<p class="transcript-line">
+<span class="time"><strong>[01:55:43]</strong> </span>
+<span class="speaker"><strong>发言人2: </strong></span>
+都是我都那多牛逼，现在这节目不行了。
+</p>
+<p class="transcript-line">
+<span class="time"><strong>[01:55:46]</strong> </span>
+<span class="speaker"><strong>发言人1: </strong></span>
+但实际上所以我就就我说活，但是你说我说活在过去就这一它是一种怀旧。对，怀旧。不是关于你这个系统的一个控诉。
+</p>
+<p class="transcript-line">
+<span class="time"><strong>[01:55:54]</strong> </span>
+<span class="speaker"><strong>发言人3: </strong></span>
+就是今天的推荐技术已经比十年强强多了，就是各种维度强，已经实际强多了。
+</p>
+<p class="transcript-line">
+<span class="time"><strong>[01:56:00]</strong> </span>
+<span class="speaker"><strong>发言人1: </strong></span>
+在在魔兽世界里面我们还真的获得过一次这个歌手，就是那个怀旧服开这个东西，他那个那个时间是一个历史性的时刻。对，就是他那一瞬间，全世界就是从小时候玩过魔兽世界的人全回去了。但是就在那在在在那一天有90%以上的人第二次被淘汰。我就是那90%的人就是我跟着大家一起冲进去充充以后，然后一玩发现然后我才想起来对这个游戏所蕴含的东西是什么？因为在我玩不到旧版本的时候，我脑海中都是些贼美好的事情。然后我进去以后我发现我要玩，我要在这么低劣的画面里面杀500只野猪，我要一只一只的杀，我要杀第234只野猪，然后再杀第235只，然后回去买面包。就是这种很非常非常少的情况，就是让你what if回到过去是更好的。这个事儿你可以体会一下，然后体会一下以后就所有的人就都走了，只留下最枯燥最硬核的那个人才去玩这个。
+</p>
+<p class="transcript-line">
+<span class="time"><strong>[01:57:00]</strong> </span>
+<span class="speaker"><strong>发言人3: </strong></span>
+他可能确实有情怀。
+</p>
+<p class="transcript-line">
+<span class="time"><strong>[01:57:03]</strong> </span>
+<span class="speaker"><strong>发言人2: </strong></span>
+对。
+</p>
+<p class="transcript-line">
+<span class="time"><strong>[01:57:03]</strong> </span>
+<span class="speaker"><strong>发言人3: </strong></span>
+但是你说体验或者游戏的游戏性来说，但不能说今天游戏性都好，但是肯定是说有一些好的作品的游戏性，就是最好的作品的游戏性。今天最好的作品的一定比过去十年最好的这个游戏要高。对，我们不能比是那个均值，但是咱们就聊巅峰一定是更好的。
+</p>
+<p class="transcript-line">
+<span class="time"><strong>[01:57:21]</strong> </span>
+<span class="speaker"><strong>发言人1: </strong></span>
+但是那个最好的游戏，它一定会有一套新全新的问题去解决。它完整的更新的问题是说。
+</p>
+<p class="transcript-line">
+<span class="time"><strong>[01:57:26]</strong> </span>
+<span class="speaker"><strong>发言人3: </strong></span>
+十年后十年后的那个玩家，他可能不觉得今天那个作品足够好。
+</p>
+<p class="transcript-line">
+<span class="time"><strong>[01:57:33]</strong> </span>
+<span class="speaker"><strong>发言人1: </strong></span>
+但我还是要再拉回去第第第十次拉回来就是play the devils advocate，就是说有非常多的这样的叙事，它像人心理伤痕一样，就是大家会想到你比如说那个最最经典的的研究就是应该是七应该是几年前，他有有科研，就是有科学家搞了一百多个青少年的账号。
+</p>
+<p class="transcript-line">
+<span class="time"><strong>[01:57:54]</strong> </span>
+<span class="speaker"><strong>发言人3: </strong></span>
+他是实际是那个。
+</p>
+<p class="transcript-line">
+<span class="time"><strong>[01:57:55]</strong> </span>
+<span class="speaker"><strong>发言人1: </strong></span>
+boss然后他去测这个明白社交网络，他测出来以后就发现只是在这儿点点，然后他就会收敛到很容易收敛到小女孩的账号，很容易收敛到那个极端减肥和节食的的的这种的的内容里面，包括就是Francis gan就前几年出来吹哨的关于facebook的那个算法，就是它里面的最让人感觉糟糕的东西。就是说facebook这个公司里面，它就是明它内部有这个就泄露出来的内部研究报告，直接证实了你instagram现在的推荐算法里面有这个。就是鼓动少女进一步增强他们身材焦虑的这个效果，而且这个效果非常严重。然而这个效果就是在提高用户engagement的的这个大目标的面前，它是有利的。就是因为你你让他焦虑他会更多，所以他就尽管他这个公司已经知道了，但是他依然是这么做了两三年的时间。
+</p>
+<p class="transcript-line">
+<span class="time"><strong>[01:58:52]</strong> </span>
+<span class="speaker"><strong>发言人1: </strong></span>
+就是像这些事儿，就是在公共的叙事里面，大家会解读为这些东西加在一起，其实就是在说明互联网公司的算法，它当然可以在你刚才说那个第二层里面包容更多的目标，但是归根结底就是对人有害的东西。如果它足够的有利于用户的粘性，或者是那些更基本的目标，然后这些公司还是就不吝于去作恶的。这是人们很就很多人心里面的一种深处的一种最底层的不信任。就是你会你会怎么看这些事儿？
+</p>
+<p class="transcript-line">
+<span class="time"><strong>[01:59:24]</strong> </span>
+<span class="speaker"><strong>发言人3: </strong></span>
+就是我觉得如果我听到你说的这个报道的话，我是理解大家的不信任的。对，但是我理解如果做的好啊，就是我觉得这个事儿还是可以选择做或者不做。第一就是为什么这个首先那个实验我不知道他具体步骤什么，所以我不知道他做的严不严谨，所以我就不予评价。但是确实有可能比如说说我们更更泛化的聊这个事，就是有没有跟女性推减肥的视频或者减肥教程，就是我觉得一定会有。比如说像疫情的时候，刘畊很火了，那这种跳操就很多对吧？那你就单纯看跳槽这个事儿，他对不对？
+</p>
+<p class="transcript-line">
+<span class="time"><strong>[02:00:09]</strong> </span>
+<span class="speaker"><strong>发言人1: </strong></span>
+这没啥好评价。对。
+</p>
+<p class="transcript-line">
+<span class="time"><strong>[02:00:10]</strong> </span>
+<span class="speaker"><strong>发言人3: </strong></span>
+但是如果说有些视频叫教你催吐，那这个视频理论上在今天的中国互联网应该是被管理的。我或者某种逻辑来说，中国我觉得在互联网里，大家对于内容的风险和尺度，我觉得是魃的严的。就是我明显有风险的内容，理论上我们都是不过审的。或者如果我们在头部发现他他他二婶三婶也是过不了的，他是根本进不了热门的。但是如果说你去搜索，那可能能搜到一些没干干净的对，但推荐里面有那个减肥的，我觉得应该都是相对比较正常的。
+</p>
+<p class="transcript-line">
+<span class="time"><strong>[02:00:50]</strong> </span>
+<span class="speaker"><strong>发言人3: </strong></span>
+是包括像擦边的，它尺度一定是在范围以上的。比如说像在现在各个平台，大家对于说你这就是这个都兰，你有没有穿底裤，这个都是有明确规定的。如果不符合，其实你都相当于过不了审核这一道，相当于我理解中国这一块在这一块。尺度是很高的，所以这是第一个点。第二个点来说就是其实这个事儿没那么单纯，就是像这种有一定风险性的内容来说，一部分是用户上传的，其实很大比例是灰黑产，有意图的一些人去专门上传拉流量。比如说刚刚那种减肥节食的，它其实可能对应的是减肥药或者说一些非法的减肥机构。所以说其实国内或者我们，就是我至少我在的一些工作经历上来说，实际上是有一些相当于针对这些贵妃产。
+</p>
+<p class="transcript-line">
+<span class="time"><strong>[02:01:49]</strong> </span>
+<span class="speaker"><strong>发言人1: </strong></span>
+有利益相关的。
+</p>
+<p class="transcript-line">
+<span class="time"><strong>[02:01:50]</strong> </span>
+<span class="speaker"><strong>发言人3: </strong></span>
+治理的一些经验。这对平台也是不利的。大家是两点，第一点来说，其实国内大家是更加有底线的，但这个底线不管是主动还是被动的。第二个就是说其实背后其实不一定那么简单，不一定完全是用户的力度带来的。以其实是有一些负向思想的一些利益既得者在里面的O.
+</p>
+<p class="transcript-line">
+<span class="time"><strong>[02:02:12]</strong> </span>
+<span class="speaker"><strong>发言人2: </strong></span>
+K所以换句话说，推荐算法不能是个纯市场经济，当然不能，他必须是有一定的监管在里面的。
+</p>
+<p class="transcript-line">
+<span class="time"><strong>[02:02:17]</strong> </span>
+<span class="speaker"><strong>发言人3: </strong></span>
+我觉得是这样的，就是我们推荐算法对于对于你的分发里面，最终还是要围绕你的满意度来建模。但是我们其实是需要有自己的一个底线的，推荐算法没办法决定我们不应该决策到底A观点对的还是B观点对的。就是我觉得推荐不应该负责这个事，或者平台也不应该负责这个事。但是我觉得推荐算法应该管理好一个下限，这个下限应该是符合法律法规和道德约束的对对，这是那个底线，我觉得这个底线会是什么呢？就是这个底线会比我们假设我们今天没有推荐系统，然后是一个完全裸的库。我觉得推荐系统会比完全裸的库除了效率之外，还有这一层好的点。就是我们会在这地方做一层依赖，国际就是中国法律法规的一个规定，去完善这个信息的我的这个逻辑。对。
+</p>
+<p class="transcript-line">
+<span class="time"><strong>[02:03:11]</strong> </span>
+<span class="speaker"><strong>发言人1: </strong></span>
+明白你刚才讲的这个就是这个整个的过程就是从上上传到分发的这个里面。我还有一个小白问题，就是想再追问一句，其实你刚才稍微有点涉及到了，但是没展开。它是一个不可比较的东西，你怎的比较？我能理解一个更好的小猫的视频和一个更差的小猫视频的排序，你应该优先推那个好的。对，但是如果是一个见证视频，一个擦边舞蹈视频，一个机器学学习的教程视频，和和这个和这个小猫的视频你咋拍呢？它是明明是一个不可比较的东西。
+</p>
+<p class="transcript-line">
+<span class="time"><strong>[02:03:45]</strong> </span>
+<span class="speaker"><strong>发言人3: </strong></span>
+我们刚刚说其实最终展现的时候，他们都是要展现的，也就是说不可能都给你出小猫视频，因为这样你也看不下去。对，所以说如果说小猫如果你一定要出小猫视频的话，假设你就是你进去来说，小猫这个最强的兴趣，那小猫只会跟小猫PKPK完了剩下的那个比如说20%流量出小猫，80%流量是其他的那可能是先是兴趣和兴趣之间去PK，比如说先出第一兴趣，再出第二兴趣，再出第三兴趣，再出第四兴趣。然后兴趣内部当然你可以就是大家时长差不多那个人。那兴趣之间，其实你可以说总价值来说，你点击率时长其实大家就可比了。但实际上我说的是这个逻辑，但实际上在比较的时候，你可以认为大家是在一起比的，只不过说会有一个力度约束。这个力度约束就导致说你一个品类不可能无限出，然后你最强的品类出完了之后，你可以理解潜在的会出第二进去，第二进就是这样PK在潜在主题塞进去。但是这个事情并不是按照我这个逻辑出发的，就是按我这个逻辑的运行，但潜在是按这个逻辑运行的。
+</p>
+<p class="transcript-line">
+<span class="time"><strong>[02:04:53]</strong> </span>
+<span class="speaker"><strong>发言人2: </strong></span>
+明白，那我就多问一句，如果是这种逻辑的话，那对于主题不明确的视频就很有劣势了。
+</p>
+<p class="transcript-line">
+<span class="time"><strong>[02:05:02]</strong> </span>
+<span class="speaker"><strong>发言人3: </strong></span>
+没有？主题不明确也是有主题的。
+</p>
+<p class="transcript-line">
+<span class="time"><strong>[02:05:04]</strong> </span>
+<span class="speaker"><strong>发言人2: </strong></span>
+就是怎么着都归类一个主题。
+</p>
+<p class="transcript-line">
+<span class="time"><strong>[02:05:06]</strong> </span>
+<span class="speaker"><strong>发言人3: </strong></span>
+你可以理解。第一就是你怎么着你这个视频也会打上一个标签。其次的话，你怎么着你也有一个几百万。我在线上对应你这个视频，它可能是我们用户不理解的一个主题。但它也有个主题，比如说今天我的视频就是我开车，然后这个开车就是开车的一个前景的一个录像，它其实是一个有主题的事，只不过你觉得没有意思而已，但他一定是有主题。比如说今天我拍的这个星空，你如果不感兴趣，它就是没有主题。但是你感觉它就是一个星空的一个，相当于说那个慢镜头拍摄。
+</p>
+<p class="transcript-line">
+<span class="time"><strong>[02:05:40]</strong> </span>
+<span class="speaker"><strong>发言人1: </strong></span>
+对吧？所以这个主题或者分类不模糊不鲜明，本身并不一定会成为一个内容本身的劣势。
+</p>
+<p class="transcript-line">
+<span class="time"><strong>[02:05:47]</strong> </span>
+<span class="speaker"><strong>发言人3: </strong></span>
+但是你反过来可能要看我觉得一个视频最终能看到播放量，其实你的上限决定于说你这个视频的主题其潜在受众有多少。第二是说你这个视频或者说你这个内容在你同样题材里面它竞争力是什么样的。我理解是这两个维度。
+</p>
+<p class="transcript-line">
+<span class="time"><strong>[02:06:07]</strong> </span>
+<span class="speaker"><strong>发言人2: </strong></span>
+就大盘先得选一个足够大的食堂，然后你在这个足够大的池塘里面要当一只能吃掉所有人的鱼。
+</p>
+<p class="transcript-line">
+<span class="time"><strong>[02:06:12]</strong> </span>
+<span class="speaker"><strong>发言人3: </strong></span>
+但是反过来，辽足大池塘也有个问题，叫做里面竞争者也很多。所以说如果说今天你在某个品类做的第一代流量不够，你只能做一件事，脱离的主题。对但反过来聊就是如果你在一个西区的主题里面你都做不到前面，那说明要不然你这个主题不擅长，要不然可能就是你不擅长的创作能力。可能就对，就是因为你就是我们讲这个创作是两个维度决定的，第一个维度就是你自己的知识储备，第二就是你表达能力或者你创作能力。要不然就是你在这个领域的知识储备的能力，不要不然就是这个创作的时候。
+</p>
+<p class="transcript-line">
+<span class="time"><strong>[02:06:50]</strong> </span>
+<span class="speaker"><strong>发言人1: </strong></span>
+对吧？这个事儿我们也自己也是创作者，但是我们也得说他这个事儿是个泥潭，因为你的内容不被别人看见。对你永远可以把它阐释为一个公平问题，就是你被压迫了，对，就是别人占了他也不是图三家。
+</p>
+<p class="transcript-line">
+<span class="time"><strong>[02:07:06]</strong> </span>
+<span class="speaker"><strong>发言人3: </strong></span>
+如果三家都不行，那就总不能说。
+</p>
+<p class="transcript-line">
+<span class="time"><strong>[02:07:09]</strong> </span>
+<span class="speaker"><strong>发言人1: </strong></span>
+全都压迫你。
+</p>
+<p class="transcript-line">
+<span class="time"><strong>[02:07:11]</strong> </span>
+<span class="speaker"><strong>发言人3: </strong></span>
+对，那要不然就是你这个题材不适合中国不适合中国的法律法规。
+</p>
+<p class="transcript-line">
+<span class="time"><strong>[02:07:16]</strong> </span>
+<span class="speaker"><strong>发言人2: </strong></span>
+我跟你说，其实这几家视频平台背后有联盟，他们会偷摸说这个有人不行，然后你传哪儿都给你照，给你打个标签，就不给你吹牛，反正就差到这儿了，还没签对上名单了。对。
+</p>
+<p class="transcript-line">
+<span class="time"><strong>[02:07:27]</strong> </span>
+<span class="speaker"><strong>发言人3: </strong></span>
+但是不是他在开玩笑。
+</p>
+<p class="transcript-line">
+<span class="time"><strong>[02:07:29]</strong> </span>
+<span class="speaker"><strong>发言人1: </strong></span>
+是我知道我知道。但是你也可以想象一个人非常伤感的坐在马路牙子上，就是喝着啤酒，然后跟朋友发去发微信说说这个算法，他就是不懂我，他就是不懂我就是就是我。
+</p>
+<p class="transcript-line">
+<span class="time"><strong>[02:07:43]</strong> </span>
+<span class="speaker"><strong>发言人3: </strong></span>
+我这个作品实质是很好的，只是没有能懂我的人。对，但是问题假设只有十个人懂你十个人都看了那怎么办呢？
+</p>
+<p class="transcript-line">
+<span class="time"><strong>[02:07:52]</strong> </span>
+<span class="speaker"><strong>发言人2: </strong></span>
+对。
+</p>
+<p class="transcript-line">
+<span class="time"><strong>[02:07:53]</strong> </span>
+<span class="speaker"><strong>发言人3: </strong></span>
+就是那你你现在是200播放量。对对对，然后你前你真正懂你的人只有100个人。对，现在已经超标了怎么办？就是到底是你改变适应更多的人呢？还是这世界让这适应，让世界有更多懂你的人呢？那怎么让世界懂你更多的人？
+</p>
+<p class="transcript-line">
+<span class="time"><strong>[02:08:09]</strong> </span>
+<span class="speaker"><strong>发言人2: </strong></span>
+但是把责任推给推荐算法总是容易的，归集到自己这儿总是难的。
+</p>
+<p class="transcript-line">
+<span class="time"><strong>[02:08:13]</strong> </span>
+<span class="speaker"><strong>发言人3: </strong></span>
+我觉得现在这个平台也很多，就是你如果指甲都不适合，那总不至于说指甲有联盟吗？
+</p>
+<p class="transcript-line">
+<span class="time"><strong>[02:08:23]</strong> </span>
+<span class="speaker"><strong>发言人1: </strong></span>
+对我我听过的那个最委婉的关于这个事儿的说法是那个jack county，就是那个patria的老板，就是配置就是一个内容创作者的赞助平台，你可以给他每个月捐5美元，完了你可以获得一些粉丝福利什么的。对，然后他就是他被别人问到说你就是你剥削，就是你的创作者其实也没有，他会收购10%左右的。
+</p>
+<p class="transcript-line">
+<span class="time"><strong>[02:08:45]</strong> </span>
+<span class="speaker"><strong>发言人3: </strong></span>
+那个明白的佣金。
+</p>
+<p class="transcript-line">
+<span class="time"><strong>[02:08:46]</strong> </span>
+<span class="speaker"><strong>发言人1: </strong></span>
+对，合理。或者就是说你做的这个产品就是让没有让我挣到钱，你但是许诺了能让我挣到很多钱。对，但是你许诺我可以脱产成为一个全职的创作者，但是你没有那什么，然后就是但是我赚到的钱太少了，还是没有办法支就支持我作为一个创作者的梦想什么的。然后他他说他说我没有办法解决需求问题，我没有办法解决需求，他说这是一个这是the one thing that I can fix。
+</p>
+<p class="transcript-line">
+<span class="time"><strong>[02:09:13]</strong> </span>
+<span class="speaker"><strong>发言人3: </strong></span>
+如果有人足够多的就是我的平台。如果有真的有很多人喜欢你，没有把它找到并且给他们，那是我问题。但是如果是假如说平台就没有这些人呢？
+</p>
+<p class="transcript-line">
+<span class="time"><strong>[02:09:24]</strong> </span>
+<span class="speaker"><strong>发言人1: </strong></span>
+对对，这是我听过的关于这个事儿最委婉的说法了。对。
+</p>
+<p class="transcript-line">
+<span class="time"><strong>[02:09:28]</strong> </span>
+<span class="speaker"><strong>发言人3: </strong></span>
+需求是一个问题。但是我还是回过头来说，我觉得现在这个系统肯定没那么完美。就是说肯定还是有人肯定还是有人比如说他应该拿到100万播放量，对，实际只拿到30万播放量。对我觉得是有可能，但不可能一个100万播放量的稿件出来只拿到1000播放量，这不合理。对，这不可能。或者说你这一家拿不到，你另外一家你总应该拿到10万播放量。
+</p>
+<p class="transcript-line">
+<span class="time"><strong>[02:09:52]</strong> </span>
+<span class="speaker"><strong>发言人1: </strong></span>
+对，然后另外我觉得。
+</p>
+<p class="transcript-line">
+<span class="time"><strong>[02:09:54]</strong> </span>
+<span class="speaker"><strong>发言人3: </strong></span>
+他可能就是拿到流量比自己应有的表现低一个量级，但不能可能低好几个量。
+</p>
+<p class="transcript-line">
+<span class="time"><strong>[02:10:00]</strong> </span>
+<span class="speaker"><strong>发言人1: </strong></span>
+不是。对，就这个事儿我相信这里面肯定有不够公平的，或者是不够平等的一些。
+</p>
+<p class="transcript-line">
+<span class="time"><strong>[02:10:07]</strong> </span>
+<span class="speaker"><strong>发言人3: </strong></span>
+或者说我们肯定是有算法，今天不是100分。对对对。
+</p>
+<p class="transcript-line">
+<span class="time"><strong>[02:10:11]</strong> </span>
+<span class="speaker"><strong>发言人1: </strong></span>
+但是。这事儿已经就是当我们去较真儿这个的时候，我们已经进入到一个没法评估的。
+</p>
+<p class="transcript-line">
+<span class="time"><strong>[02:10:17]</strong> </span>
+<span class="speaker"><strong>发言人3: </strong></span>
+对，就是你没办法证伪。对，是不是有一个世界上有一个100分的平台，我在这个100分的平台上，其实我是那个number one。但这个事情是说现在只有这么几个平台，你如果挨个证明了一下都不适合，那你就等着呗，就是那个number one的平台出现。
+</p>
+<p class="transcript-line">
+<span class="time"><strong>[02:10:34]</strong> </span>
+<span class="speaker"><strong>发言人1: </strong></span>
+对吧？如果有人就是这样对平台有一个看法，他认为自己在被整个系统压迫的话，对，那么他就想办法找就找角度去证明。实际上有很多的的研究，或者很多的文化或者政治的阵营在指责彼此的时候，就是在干这个事儿。他们会做各种各样的实验来证明算法是偏袒敌人，然后去压迫他自己。就是会有很多在就在打仗的这个过程。但是这个总的来说，创作者在抱怨没有人能看见自己的东西的的时候，就是我我认同你刚才说说的这个，也许这里面有不到100分的那个还有再提升的空间，但是那已经没法评估。
+</p>
+<p class="transcript-line">
+<span class="time"><strong>[02:11:14]</strong> </span>
+<span class="speaker"><strong>发言人3: </strong></span>
+对，或者说有可能比如说一个应该成为十万粉的，现在可能是两三万粉是不太可能。一个100万粉的，现在还有两三百万。就是锥栗郎中。大家大大家应该就是我觉得大家都是创作人。
+</p>
+<p class="transcript-line">
+<span class="time"><strong>[02:11:27]</strong> </span>
+<span class="speaker"><strong>发言人2: </strong></span>
+应该能感受到这个事儿。我觉得咱这期视频至少1000万播放量，我接受这个平台给我少一个数量级的错误。
+</p>
+<p class="transcript-line">
+<span class="time"><strong>[02:11:33]</strong> </span>
+<span class="speaker"><strong>发言人3: </strong></span>
+对对对，就是少一个数量级我觉得还是有可能的对，但你少两个数量级我觉得所以。
+</p>
+<p class="transcript-line">
+<span class="time"><strong>[02:11:38]</strong> </span>
+<span class="speaker"><strong>发言人2: </strong></span>
+如果这期视频播放量没到100万，那肯定是平台的迫害。
+</p>
+<p class="transcript-line">
+<span class="time"><strong>[02:11:42]</strong> </span>
+<span class="speaker"><strong>发言人1: </strong></span>
+我已经准备好明天早上起来就是被所有平台迫害了，因为我就是这个世界上最好的创作者。咋整你说咋整。
+</p>
+<p class="transcript-line">
+<span class="time"><strong>[02:11:49]</strong> </span>
+<span class="speaker"><strong>发言人2: </strong></span>
+但他你他说那个就是互相指责，这个确实我自己有经历，就我当年玩那个问答网站的时候，因为我我我什么朋友都有。对然后你发现你跟不同朋友聊天，他们都在指责这个网站的高层是某一个政治倾向或者某一个立场倾向的人。所以他在系统性的迫害他反对的那个倾向。但是当你认识的朋友足够多，聊的足够多，你会意识到咱每个倾向都在被迫害的，咱每个观点都都不受这个平台。
+</p>
+<p class="transcript-line">
+<span class="time"><strong>[02:12:14]</strong> </span>
+<span class="speaker"><strong>发言人3: </strong></span>
+他可以这么说，就是企业经营最大最重要的是效率，就是对于公司来说根本没有那么多时间去对搞这些事儿。
+</p>
+<p class="transcript-line">
+<span class="time"><strong>[02:12:24]</strong> </span>
+<span class="speaker"><strong>发言人2: </strong></span>
+因为系统性的破不是不说破系统性的反对，你这个网站上的一半人对这个网站来说没有任何利益。
+</p>
+<p class="transcript-line">
+<span class="time"><strong>[02:12:31]</strong> </span>
+<span class="speaker"><strong>发言人3: </strong></span>
+对他也没必要做这个事。他就是或者说对于算法来说，我很多时候都在考虑的是效率问题。就是我理解公司经营也是在考虑效率问题，就是他没必要去做那么多多余的动作。
+</p>
+<p class="transcript-line">
+<span class="time"><strong>[02:12:44]</strong> </span>
+<span class="speaker"><strong>发言人1: </strong></span>
+但你说这个是没有办法缓解他们的怨气的。因为他们就会认为你对于效率的追求符合支持他们眼中的那个敌人的，他们就是会这么认为。
+</p>
+<p class="transcript-line">
+<span class="time"><strong>[02:12:56]</strong> </span>
+<span class="speaker"><strong>发言人3: </strong></span>
+我告诉你点，就是说这不重要，不重。就是我最后说一句，就是说如果今天你是一道美食，就是我们开一家餐厅，如果你是一个非常你是个大厨，然后你做的菜特别好吃，我没有什么逻辑，不把你就是把你放到菜单里面，并且放在头发里面让用户看到。
+</p>
+<p class="transcript-line">
+<span class="time"><strong>[02:13:14]</strong> </span>
+<span class="speaker"><strong>发言人2: </strong></span>
+的那这样咱们就做一个思维实验。
+</p>
+<p class="transcript-line">
+<span class="time"><strong>[02:13:16]</strong> </span>
+<span class="speaker"><strong>发言人3: </strong></span>
+就是替。
+</p>
+<p class="transcript-line">
+<span class="time"><strong>[02:13:17]</strong> </span>
+<span class="speaker"><strong>发言人2: </strong></span>
+这种文化战争，尤其在在美国很长，现在就天天在网上吵，咱们现在就做T的做一个实验。假设你是一个社交网站公司的老板，对你的平台每天有比如说5000万的上传量，然后50 500亿的播放量。对你现在想系统性的把你的思维，把你的立场植入到推荐算法中，然后在你们公司有1万人，你能你该怎么做呢？
+</p>
+<p class="transcript-line">
+<span class="time"><strong>[02:13:40]</strong> </span>
+<span class="speaker"><strong>发言人3: </strong></span>
+首先这个事儿他没法下指令，就是公司不是两个人的公司。对，就是你要把这个指令下去，所以开思维实验。你你你其实整个公司的人都知道了，那公司的人知道了等于全社会都知道了，那这个事情知道了就没法执行，我不知道。
+</p>
+<p class="transcript-line">
+<span class="time"><strong>[02:13:59]</strong> </span>
+<span class="speaker"><strong>发言人1: </strong></span>
+但是现在大家就在讲这样的故事，就是可能不同的阵营在相信不同的叙事，他们是彼此矛盾的。就比如说伊隆马斯。
+</p>
+<p class="transcript-line">
+<span class="time"><strong>[02:14:06]</strong> </span>
+<span class="speaker"><strong>发言人3: </strong></span>
+他就这个事情我就是比如说美国的公司我其实不了解，你做了你做没做这个事儿，我也不好说。对。
+</p>
+<p class="transcript-line">
+<span class="time"><strong>[02:14:14]</strong> </span>
+<span class="speaker"><strong>发言人1: </strong></span>
+但是他们就会讲，就是一楼mask私有化了twitter之后，他就会说twitter的在之前的那个的老板的治理下，他就是通过一些目标的设定，然后形成了一种系统性的偏见。
+</p>
+<p class="transcript-line">
+<span class="time"><strong>[02:14:27]</strong> </span>
+<span class="speaker"><strong>发言人3: </strong></span>
+他就会讲这个举个例子，假设你这个平台60%的人是主张粽子要吃甜的对，要蘸糖，有40%人主张不战糖。然后现在我们有同时上传两个视频，然后大家有一次点赞的权利。对OK现在点赞最高的一定会是那个站长的。因为60%的人都会站场。所以说他有可能是一个用户结构的一个结果。
+</p>
+<p class="transcript-line">
+<span class="time"><strong>[02:14:51]</strong> </span>
+<span class="speaker"><strong>发言人1: </strong></span>
+但是对，但是但但是但是但人们会争这个事儿，就是说OK百有60%的人认为应该站糖，40%的人认为不应该站躺。但是接下来会有可能在你这个平台上反映为99%的关于粽子视频的推荐，都是推荐蘸糖的。因为那个但实际上它只是60和40的关系。
+</p>
+<p class="transcript-line">
+<span class="time"><strong>[02:15:09]</strong> </span>
+<span class="speaker"><strong>发言人3: </strong></span>
+对，所以说其实推荐系统里面研究的一个课题叫纠偏。比如说有一些做法就是比如说我随机迁移的流量，它是不走推荐的，它是随机分发的。那你这时候你到底是啊赞同还是不赞同？就是我们刚刚说的这种情况下，用户反而会更激化，就是他反而不正常，他可能就秒退了。但是我们会知道用户如果不带热度的话，他会看哪个视频，然后会把这个信号用到推荐里面去做纠偏。比如说如果你刚刚说那个逻辑是对的，就如果你不做任何措施，本来是六四开，可能最后在热门里面就变成了九一开。但是实际上推荐是在做很多工作，明白去把它掰回来。因为你想如果掰这个事情，首先这个用户满意度提高，其次就是系统也是得利的，因为你给不爱吃甜的人推了粽子战场的，那其实用户也是不爱看的对，我明白。对对对，所以说除非是美国那个是什么样的我不知道，但是我觉得国内就是不会去，但他其实大家都是想要去救这个偏执的，或者说这个片子应该说非常早。可能我的工作经验，你可能是在19年这类工作就很多的在开展了。
+</p>
+<p class="transcript-line">
+<span class="time"><strong>[02:16:23]</strong> </span>
+<span class="speaker"><strong>发言人1: </strong></span>
+因为我是一个更关注美国社会新闻这些对东西。就是我看到很多关于推荐算法已经睁到那种程度，甚至人们打的那个战场都已经切换了。原来大伙儿在互相指责。你比如说民主党的支持者会说，你们共和党的支持者用了卑鄙的方法污染了算法，或者是用了走后门的方式，或者是用了信信息站的方式，让这个时间线更偏袒于他们。就明明你们只有40%的支持者，我们有60%的的支持。但是被那个被就是被你们baby的掺了浑水之后。
+</p>
+<p class="transcript-line">
+<span class="time"><strong>[02:16:56]</strong> </span>
+<span class="speaker"><strong>发言人3: </strong></span>
+或者是下了毒之后，七三开了。
+</p>
+<p class="transcript-line">
+<span class="time"><strong>[02:16:58]</strong> </span>
+<span class="speaker"><strong>发言人1: </strong></span>
+就变成了一个更多有对于你的那个话，或者是你说的更极端的言论有利于传播，这是第一个版本，这个版本现在已经已经都过去了。对，这个版本是说互相指责对方下黑手，让这个算法就利用了算法。对，然后今天已经变成了大家已经完全可以接受这个现实。这个现实其实就是咱们过去这2个小时一直在在说的，就是说算法它就是这个社会的反应。这社会里面有冲突有矛盾，他也必须要像一面镜子一样反映在这算法里。
+</p>
+<p class="transcript-line">
+<span class="time"><strong>[02:17:25]</strong> </span>
+<span class="speaker"><strong>发言人1: </strong></span>
+就是大伙已经接受这个事了，接受这个事儿以后继续再争什么呢？就是蒸。所以你那边有45%的人我这边有55%的人，但是我们就做一堆事，我看过一些论文是做这个研究，就是你这45%的所代表的东西是多慎往我这55%的人的阵营里面渗透的，比我这边的内容往你那边渗透的多，说明这个算法偏袒了你。就是说大家接受了45%，那边是就是你的，咱俩各安天命，就谁也别惹谁。但是你这个孙子说的那个就是我讨厌的话，就想要勾引我的人去叛变到你那个你那个阵阵营的比我就去渗透你那边勾引你的要多。人们已经在争这个事儿了，就有点像变成一个划江而治刘邦项羽了，就变成这样了。
+</p>
+<p class="transcript-line">
+<span class="time"><strong>[02:18:12]</strong> </span>
+<span class="speaker"><strong>发言人3: </strong></span>
+就是我觉得就像你说的，他是一个政治斗争的一个延续。对，就是他今天如果不是推荐系统，他是报纸，那我们也在争民主党和共和党谁控制的报纸数量更多呗。对，但是你如果是报纸的话，你是不是更容易控制？
+</p>
+<p class="transcript-line">
+<span class="time"><strong>[02:18:27]</strong> </span>
+<span class="speaker"><strong>发言人1: </strong></span>
+对，但是还是其实咱们已经在不同的那个那个点上面设计了好几遍公平的问题了。因为公平是个无止境的问题。
+</p>
+<p class="transcript-line">
+<span class="time"><strong>[02:18:35]</strong> </span>
+<span class="speaker"><strong>发言人3: </strong></span>
+就是我觉得它更多是一个就是说你说今天什么是公平？比如说我们本来是六四开，对我最后这个观点按64开分发到底合不合理？或者这么说，从过去未来十年看，就是共和党和民主党有没有一派的这个政治观点是更对的。如果从未来十年看，是不是有一个可能对美国发展更好？那倒回来，今天实际上我应该支持了一个正确的观点，但今天我们不知道。
+</p>
+<p class="transcript-line">
+<span class="time"><strong>[02:19:04]</strong> </span>
+<span class="speaker"><strong>发言人1: </strong></span>
+这就打就这就打乱仗了。
+</p>
+<p class="transcript-line">
+<span class="time"><strong>[02:19:05]</strong> </span>
+<span class="speaker"><strong>发言人3: </strong></span>
+因为所以说我觉得首先什么是公平？就是一个就是按照现在流量分，所以现在流量分还有一个问题，就是现在我觉得他四六开，真的是四六开吗？对，就是这个。
+</p>
+<p class="transcript-line">
+<span class="time"><strong>[02:19:17]</strong> </span>
+<span class="speaker"><strong>发言人1: </strong></span>
+问卷到底合理吗？
+</p>
+<p class="transcript-line">
+<span class="time"><strong>[02:19:19]</strong> </span>
+<span class="speaker"><strong>发言人3: </strong></span>
+所以说这个事儿我理解它是一个吵架的事儿，它某种程度说不是一个技术的事儿，甚至说他不是个企业运营的事儿，他你做的再好啊，他仍然还有人来去炒这个事儿。因为只要你不符合某些人的观点，大家就会来炒。而且我就不是就是不是意味着你的这个观，你这个技术方案足够公平合理，大家都认可了，就这事就结了不不是这样的。
+</p>
+<p class="transcript-line">
+<span class="time"><strong>[02:19:43]</strong> </span>
+<span class="speaker"><strong>发言人1: </strong></span>
+因为我们现在已经说了，至少有这么一对儿互相矛盾。但是我们都想要的东西了。你看如果你想要那个站堂和不占堂的那个的那个阵营，谁谁也不勾引谁谁也不说服谁。对，都各安天命的话，那你就是想要一个信息茧房，特别对扎实的地方。然后你又不想要新建房，你想让人接触不同的观点，关于人们接触不同的的观点的时候，你又说就是你在沟通。
+</p>
+<p class="transcript-line">
+<span class="time"><strong>[02:20:09]</strong> </span>
+<span class="speaker"><strong>发言人3: </strong></span>
+对你在所以说我们其实把它解构成两个问题。第一个就是说实际上对已经高热的内容，我们其实是去纠偏。如果说他不是高二那种，你还会不会看？其实我们其实尝试就是推荐技术上面尝试去解构这个问题。
+</p>
+<p class="transcript-line">
+<span class="time"><strong>[02:20:25]</strong> </span>
+<span class="speaker"><strong>发言人3: </strong></span>
+第二个问题叫做，如果我们希望你的受兴趣是在发散的，不是在收窄的，所以说我们拆成两个独立维度的问题。但这两个同时在线上运行，它最后是什么样的呢？其实不好说。但我理解只能说我们都考虑到它现在是个是不是个完美结合的方案？我觉得只能说比过去好。
+</p>
+<p class="transcript-line">
+<span class="time"><strong>[02:20:45]</strong> </span>
+<span class="speaker"><strong>发言人2: </strong></span>
+那那我追问一下这个问题，首先我同时爱吃咸粽子和是蘸糖的粽子，我必须说明白。对。
+</p>
+<p class="transcript-line">
+<span class="time"><strong>[02:20:51]</strong> </span>
+<span class="speaker"><strong>发言人1: </strong></span>
+就是你们打仗没有用。就是你在今天这个时代上来说，自己理科钟，然后就能缓解别人对你的攻击是没有用的。
+</p>
+<p class="transcript-line">
+<span class="time"><strong>[02:20:57]</strong> </span>
+<span class="speaker"><strong>发言人3: </strong></span>
+就结束都没在，我不爱吃粽子。
+</p>
+<p class="transcript-line">
+<span class="time"><strong>[02:21:01]</strong> </span>
+<span class="speaker"><strong>发言人1: </strong></span>
+这个可能还稍微有点用。那你的赞。
+</p>
+<p class="transcript-line">
+<span class="time"><strong>[02:21:03]</strong> </span>
+<span class="speaker"><strong>发言人2: </strong></span>
+长不擅长斩天。
+</p>
+<p class="transcript-line">
+<span class="time"><strong>[02:21:05]</strong> </span>
+<span class="speaker"><strong>发言人1: </strong></span>
+我站在他乡。
+</p>
+<p class="transcript-line">
+<span class="time"><strong>[02:21:06]</strong> </span>
+<span class="speaker"><strong>发言人2: </strong></span>
+ok看看他谁得罪人多。
+</p>
+<p class="transcript-line">
+<span class="time"><strong>[02:21:08]</strong> </span>
+<span class="speaker"><strong>发言人1: </strong></span>
+我不是一个虚伪的，在每个事儿上那个踩平衡木的虚伪的。
+</p>
+<p class="transcript-line">
+<span class="time"><strong>[02:21:13]</strong> </span>
+<span class="speaker"><strong>发言人3: </strong></span>
+人主主要就是我想降点提示，所以这个桃粽子我确实好几年不吃了。
+</p>
+<p class="transcript-line">
+<span class="time"><strong>[02:21:18]</strong> </span>
+<span class="speaker"><strong>发言人2: </strong></span>
+确实。我就问问刚才你说高热内容的旧篇，我就想知道一个事情，就是说在你看来一个马太效应，一个火的视频会让他变自己变得更火。因为看的人多，大家都会因为他火所以才看，倒不是因为好才看的。所以你们要反而尝试让一个火的视频抛开自己火的这个环境，再被人重新测试一遍，对吧？对，所以那代表你们对你们自己的或者不是说你们推荐系统对于自己推荐出来的东西也不敢保证百分之百的自信。
+</p>
+<p class="transcript-line">
+<span class="time"><strong>[02:21:48]</strong> </span>
+<span class="speaker"><strong>发言人3: </strong></span>
+我举个例子，其实也就是上个月，应该一就是那个大模型做过一个测试，就是测试就是把这个不是有人种，比如说美国人、中国人、日本人，把各个国家的人，比如说今天有个电车难题，如果要只有死一个人，然后才能挽救全世界。然后他发现每个模型，就是大部分的模型，就是美国白人是最先被牺牲的，是为什么呢？因为这就是比如说美国黑人和他的政治正确。所以说他们在调教大模型的时候，都会没有直接输入这个人人的价值排序，实际潜在做调教的时候再做纠偏，只不过究过了，究过头了就过头了。
+</p>
+<p class="transcript-line">
+<span class="time"><strong>[02:22:36]</strong> </span>
+<span class="speaker"><strong>发言人1: </strong></span>
+所以说那个变成黑人皇帝。
+</p>
+<p class="transcript-line">
+<span class="time"><strong>[02:22:38]</strong> </span>
+<span class="speaker"><strong>发言人3: </strong></span>
+所以说任何的系统，就是任何基于统计学的一个系统，就是我你可以理解神经，就是那个AN神经模型其实本质原理也是还是基于统计，但是我们会统计来做的那它一定会有统计偏置，所以大模型也存在这个偏执。当然推荐模型也存在偏执，那怎么去解决统计偏置呢？学术界有一个漏洞叫做因果推断，就是一个事情到底是相关性还是因果性？假设我们发现个子高的人可能更富，这到底是因为个子高的人智商更高，还是个子高的人他原生家庭更富给他买了更多有营养的东西导致的导致他那个家庭给他的机会更多，导致他后来财富更高。那如果是前者，身高导致智商高，导致财富就更多的财富，这是一个因果性。但是反过来，我们刚说第二个点，智商高是因为原生家庭可能更富，导致他有更多的机会成本，这就不是因果性。
+</p>
+<p class="transcript-line">
+<span class="time"><strong>[02:23:45]</strong> </span>
+<span class="speaker"><strong>发言人3: </strong></span>
+然后其实基于统计学学习的来说，它是区分不了因果性相关和相关性的。但什么情况下能选？第一，你的样本量足够大，模型足够复杂。那它渐渐的就能够从统计性到因果性去泛化出来，就是你的参数量够高，理论上它的就相当于说他的一些猜就是幻想可能会好一点。
+</p>
+<p class="transcript-line">
+<span class="time"><strong>[02:24:08]</strong> </span>
+<span class="speaker"><strong>发言人3: </strong></span>
+另外第二个逻辑是我们用一些反事实样本来去给他纠偏。我刚刚说的随机样本就是一个反事实的逻辑。比如说我把这些高热稿件投给你，随机投给你，发现点击率只有百3。然后大但其实相当于就是预估的时候理解进去是百十。那我们就知道其实大盘这里有高位偏置，可能就要做一层纠偏，这是一种解法，但不一定都是这么做的。有可能有啊就是这种做法很多，但是其实大家都或多少都做了类似的事儿，就是它来源于技术的本质，但其实我们更深一层来说，它来自于信息的本质。是啊个人来说就是我们按熵的原理来说，它可能是宇宙的本质。关于对你的。
+</p>
+<p class="transcript-line">
+<span class="time"><strong>[02:24:52]</strong> </span>
+<span class="speaker"><strong>发言人1: </strong></span>
+工作进行无耻的攻击。我还有最后一小盘，咱们聊完这个就可以收尾了。
+</p>
+<p class="transcript-line">
+<span class="time"><strong>[02:24:59]</strong> </span>
+<span class="speaker"><strong>发言人3: </strong></span>
+这么快吗？
+</p>
+<p class="transcript-line">
+<span class="time"><strong>[02:25:01]</strong> </span>
+<span class="speaker"><strong>发言人1: </strong></span>
+最后一个问题是是关于情绪的问题。我感觉情绪是一个最近两年人们开始谈论的，之前说的更多的是misinformation，就是那个虚假的事实，阴谋论和和造谣。这个是大家对推荐算法的的批判比较多。现在是说情绪变成一个激化情绪，是不是并不一定说是在鼓动人们撒谎或者相信错误的东西，而是在挑动情绪。而情绪它并不是任何，就是我我很难想象情绪在那个标签里面能够存在。因为情绪它不是你的兴趣类型，不是网球攀岩，它不是个实在东西。他只是一个冷和热，或者一个人积极和消极，或者他甚至都连积极和消极都太太粗了，不能去描述他。就像可能是比如说一个很丧的，或者是埋怨社会的，或者是一种特别设答，就是觉得那个弱者应该去死的，或者他有一些情绪，就是会他并不一定是关于事实的判断。所以在这个情况下，就是大就是推荐算法本身有对于情绪做什么事情吗？或者说是有意识的去管理意志，或者是酝酿，或者是更提倡一些特定的社会情绪，这是一个可以做的事情吗？
+</p>
+<p class="transcript-line">
+<span class="time"><strong>[02:26:17]</strong> </span>
+<span class="speaker"><strong>发言人3: </strong></span>
+你你你有主张吗？我你觉得对象系统应该怎么样？
+</p>
+<p class="transcript-line">
+<span class="time"><strong>[02:26:21]</strong> </span>
+<span class="speaker"><strong>发言人1: </strong></span>
+我没，我从上一趴就已经没主张，我从上一啪开始就已经觉得这事儿没有办法。
+</p>
+<p class="transcript-line">
+<span class="time"><strong>[02:26:26]</strong> </span>
+<span class="speaker"><strong>发言人2: </strong></span>
+他是社会的贼，替他自己没啥。
+</p>
+<p class="transcript-line">
+<span class="time"><strong>[02:26:28]</strong> </span>
+<span class="speaker"><strong>发言人3: </strong></span>
+主要就是我觉得这个事儿的话，就是我只能说每个平台应该不一样。我们可以认为这个是一个社区工作，社区工作我认为他是推荐的社区上工作。有的社区他是鼓励讨论的对。
+</p>
+<p class="transcript-line">
+<span class="time"><strong>[02:26:45]</strong> </span>
+<span class="speaker"><strong>发言人1: </strong></span>
+鼓励两方来对垒的。
+</p>
+<p class="transcript-line">
+<span class="time"><strong>[02:26:48]</strong> </span>
+<span class="speaker"><strong>发言人3: </strong></span>
+就是我觉得至少在我过去的工作中，可能我更加主张观点接受差异化，但是要就着就事论事，然后友善的态度来来来讨论这个问题。
+</p>
+<p class="transcript-line">
+<span class="time"><strong>[02:27:01]</strong> </span>
+<span class="speaker"><strong>发言人1: </strong></span>
+心平气和的心平气和是好事儿。
+</p>
+<p class="transcript-line">
+<span class="time"><strong>[02:27:03]</strong> </span>
+<span class="speaker"><strong>发言人3: </strong></span>
+对，就是过去来说，如果一个视频它是以引发争议来获得流量的话，它它没有自己实际的内容。那我们倾向于说我们就是会建模这一块的价值。比如说它的评论区都是喷他的，这个会可以通过大模型来变成01的标签，是和否的标签。如果是我们知道这个视频是通过它没有其他价值，只有引发争议的价值。其实在我们的综合的目标里面，它相当于说是不占优势的。
+</p>
+<p class="transcript-line">
+<span class="time"><strong>[02:27:35]</strong> </span>
+<span class="speaker"><strong>发言人1: </strong></span>
+所以一个巨魔他就是专门擅长吸引别人骂他，对这个事儿他在算法里面就是不是不会得到。
+</p>
+<p class="transcript-line">
+<span class="time"><strong>[02:27:44]</strong> </span>
+<span class="speaker"><strong>发言人3: </strong></span>
+相反说如果你的评论区是关于你视频的延展讨论，就是大家就事论事在讨论的。甚至说来说这个作者你说的非常好啊，我有感触。包括说你说的这个事儿，我童年的时候也经历过，我也有这样一个故事。对，就是现在有些算法是通过把这一类东西通过大模型识别出来，变成一个友善标签，然后整体去鼓励友善这个事儿。我只能说这个事儿，就我的经验来说，我们是往这个方向去鼓励的。
+</p>
+<p class="transcript-line">
+<span class="time"><strong>[02:28:18]</strong> </span>
+<span class="speaker"><strong>发言人1: </strong></span>
+因为其实还是老因为。
+</p>
+<p class="transcript-line">
+<span class="time"><strong>[02:28:21]</strong> </span>
+<span class="speaker"><strong>发言人3: </strong></span>
+逻辑上来说都是一样的，就是说一个社区就是从效率逻辑来说，大家希望它是一个观众认为他有口碑的社区，这个对于这个平台发展是更好的。我们很难想象一个平台会认为自己的社区因为有争议，然后明天大家还来吵架，结果这个平台能涨得很好。
+</p>
+<p class="transcript-line">
+<span class="time"><strong>[02:28:43]</strong> </span>
+<span class="speaker"><strong>发言人1: </strong></span>
+咱们之前上一次电话会的时候，就是你就你提到一个词儿叫画风，就是说平台其实会很在意。用户对于自己整个这个平台，整个产品有一个整整体的看法，而不只是对内容的看法。这是一个也可以反映在你的的推荐算法的工作里的。
+</p>
+<p class="transcript-line">
+<span class="time"><strong>[02:29:00]</strong> </span>
+<span class="speaker"><strong>发言人3: </strong></span>
+他这块的工作很多时候其实是反映在我们认为什么是下线，以及说我们在认为什么是用户满意的时候，它的指标的衡量。比如说如果今天你是一个主要做图文，你可能会比较重视点击，你可能不会再去重视时长对吧？就画风是我这个词，是我自己的一个产品观念，跟推荐没有关系。OK我觉得用户会认为一个产品是满足用户的某种需求。比如说今天用户用抖音，用B站、用小红书，他应该会同有可能同时用，现在都用，包括用快手，都用的人应该很多。那它在什么时间点打开这个APP，什么场合。
+</p>
+<p class="transcript-line">
+<span class="time"><strong>[02:29:50]</strong> </span>
+<span class="speaker"><strong>发言人1: </strong></span>
+打开什么心情。
+</p>
+<p class="transcript-line">
+<span class="time"><strong>[02:29:51]</strong> </span>
+<span class="speaker"><strong>发言人3: </strong></span>
+更倾向于什么心情打开这个APP都有一个原因，对吧？对你的这个原因是什么呢？我觉得就是意图，满足这个意图的内容，我觉得就是画风。所以它其实是一个产品的增长逻辑。
+</p>
+<p class="transcript-line">
+<span class="time"><strong>[02:30:06]</strong> </span>
+<span class="speaker"><strong>发言人3: </strong></span>
+假设我希望满足某种用户意图，进而带来这个APP的一个增长，或者我做了一个什么样的APP，满足什么样的用户意图，其实是定义我的产品功能。所以反过来说，如果我想要定一个产品，然后要推荐服务这个产品，自然就会有画风这个事儿。它其实这样一个逻辑，所以说什么样的推荐能满足这个画风的要求，然后最近延伸让用户觉得这个IP服务于它哪个什么样的意图呢？这个反正这是个很专业的事情了。感觉今天咱们可能不用细讲。
+</p>
+<p class="transcript-line">
+<span class="time"><strong>[02:30:41]</strong> </span>
+<span class="speaker"><strong>发言人1: </strong></span>
+是是是就是远远超出推荐算法本身了。
+</p>
+<p class="transcript-line">
+<span class="time"><strong>[02:30:44]</strong> </span>
+<span class="speaker"><strong>发言人3: </strong></span>
+对它更多是一个产品逻辑，然后甚至可能是一个产品整个整整个公司的一个逻辑了在里面。就比如说今天这一个事情可以做，就比如说对于一个内容公司来说，一个之间有一个事就是你有茫茫多的机会可以做。今天这个事你要不要做，就是有可能你要选择不做，有可能你要做那个逻辑仅取于说你定义你这个产品的赛道，你公司的赛道什么样。他到底是对于你这个公司的价值是个增量还是一个非增量。
+</p>
+<p class="transcript-line">
+<span class="time"><strong>[02:31:13]</strong> </span>
+<span class="speaker"><strong>发言人1: </strong></span>
+但是无数微小的选择就是他有很多技术。
+</p>
+<p class="transcript-line">
+<span class="time"><strong>[02:31:16]</strong> </span>
+<span class="speaker"><strong>发言人3: </strong></span>
+一个很大的结果。最后你会觉得这家公司是这样的。虽然我不知道怎么形容，但是这家公司明显跟那家公司不一样不一样这个事儿应该这家公司会做，这家公司另外加盟一定是做不了这个事儿的。
+</p>
+<p class="transcript-line">
+<span class="time"><strong>[02:31:26]</strong> </span>
+<span class="speaker"><strong>发言人1: </strong></span>
+你不一定有意识的总结。
+</p>
+<p class="transcript-line">
+<span class="time"><strong>[02:31:29]</strong> </span>
+<span class="speaker"><strong>发言人3: </strong></span>
+但是他在但是我们说的是我们要形成用户对IP的认知。实际上比如在推荐里面，实际上是一个非常高的能力需求。它不是一个我们刚刚说的拆解成三阶段里面任意一个阶段，它就是一个整体的一个思考和布局的一个事儿。
+</p>
+<p class="transcript-line">
+<span class="time"><strong>[02:31:46]</strong> </span>
+<span class="speaker"><strong>发言人1: </strong></span>
+我想最后对就是把所有的我对于你工作的砰的砰击做一个最后的总结。其实它是不是一个它它像一种挥之不去的担忧，这种担忧如果推的特别极端的话，就是那种赛博朋克的小小小说里面对的东西。
+</p>
+<p class="transcript-line">
+<span class="time"><strong>[02:32:04]</strong> </span>
+<span class="speaker"><strong>发言人1: </strong></span>
+就像我刚才说的这个情绪的问题，其实他也有实际的例子，就是在很多年年前，这个应该是更早，可能是20 1618年的时候，对那个facebook他他上过他在那个赞和踩的基础上上了愤怒和大笑的那个按钮。然后这两个按钮能够比赞和踩反映出更强烈的情绪。在当时他们的那个算法的水平里，他们就给了这两个按钮。这都是事后事后回顾出来的那个就是的相关的论文。他他就是他他研究的结果就是当时的facebook给这个情绪的表达的这个愤怒和和大笑的权重远远高于了他他那个赞和踩，并且确实起到了一个提高这个用户engagement的非常大的一个效果。但是用用就是接下来用了两年的时间才观察到其中的恶果，它是逐渐累积发生的。就是因为你这么整完以后，那仇恨言论和和这个就是刺激人机上火和发火的，和互相攻击的东西，最后全都冒出来了，然后最后他们才踩了刹车。它是一个大概是一个两年时间的这么一个过程。
+</p>
+<p class="transcript-line">
+<span class="time"><strong>[02:33:10]</strong> </span>
+<span class="speaker"><strong>发言人3: </strong></span>
+对，就是我觉得你说这个点特别好，所以说我们他说我们优化的时候，其实是分用户体验加那个作者和生态的价值。其实我自己把推荐系统价值可能分为三块，但是也不完全是三块。比如就是我我们认为用户价值最容易去表达就是活跃度。对，然后生态价值它其实就是一个结构化的了。就比如说我现在这个平台有多少品类，这个品类里面每个品类有多少作者在贡献，然后每个品类的作者他的这个质量又是怎么样的这就是生态价值。然后它是很难衡量，也很难去定义的价值。但是你的每一次迭代其实也在影响他的。
+</p>
+<p class="transcript-line">
+<span class="time"><strong>[02:33:57]</strong> </span>
+<span class="speaker"><strong>发言人3: </strong></span>
+第三个就是社区价值。就是我们刚刚说的就是你的评论区，你的弹幕，包括你的社交口碑，对于你这个APP是怎么描述的，大家怎么看待你。然后我们刚刚聊到就是说其实我在做推荐工作，这三部分工作我都会做，也就是我希望三个都好。
+</p>
+<p class="transcript-line">
+<span class="time"><strong>[02:34:18]</strong> </span>
+<span class="speaker"><strong>发言人3: </strong></span>
+最容易衡量的就是我们刚刚说的用户价值。因为用户的DAU涨了你是知道的，但是你伤害另外两个价值你是很难观测的。所以我的判断是说，另外两个是底线。就是凡是这个事儿伤到了社区价值和生态价值。
+</p>
+<p class="transcript-line">
+<span class="time"><strong>[02:34:35]</strong> </span>
+<span class="speaker"><strong>发言人1: </strong></span>
+就不能做，就。
+</p>
+<p class="transcript-line">
+<span class="time"><strong>[02:34:36]</strong> </span>
+<span class="speaker"><strong>发言人3: </strong></span>
+不能对，然后因为那两个价值它都是非常长期才能观测，然后用户价值你有很多手段可以涨，因为用户满意度永远没有远远没有达到上限。咱们关于减防的问题，我觉得用户他觉得他减防了就没有毛病的。可能有的用户确实就是大盘来看大家迅速在涨，但某些用户他可能确实是遇到这个问题，那就是说我们这些用户你提升他的活跃度会涨。但是你要真正在未来的逻辑来说，今天这个用户活跃度多少不是未来，而是说你的生态和社区价值是不是在一直涨才是未来。
+</p>
+<p class="transcript-line">
+<span class="time"><strong>[02:35:14]</strong> </span>
+<span class="speaker"><strong>发言人3: </strong></span>
+对某种逻辑来说，如果今天抖音、小红书、B站谁一年后相比今天它的题材？他没有更多的跟拍，没有更多的话题诞生，他还是去年那些话题，那他一定是啊相对有风险的，就是它的生态就停止了。那一样的就是说如果我们去看第三方的一些口碑，如果他口碑下降了，那他是不是潜在的传播人群也会下降。他不直接反映在今天的用户活跃度里面，但是其实潜在要下降。所以说我觉得FB那个事儿就是他不是两年之后才能看到的。在这过程中就能这三个价值。如果他统一来看，实际应该能发现这个问题，不用等两年。
+</p>
+<p class="transcript-line">
+<span class="time"><strong>[02:36:00]</strong> </span>
+<span class="speaker"><strong>发言人1: </strong></span>
+是啊是，但是可能这个就是跟他整个的文化环境和他和他的国家的整个综合的状态是有关系。
+</p>
+<p class="transcript-line">
+<span class="time"><strong>[02:36:08]</strong> </span>
+<span class="speaker"><strong>发言人3: </strong></span>
+但是我也是在七年后的视角，我七年后我有这个认知是在七年前我也没有这个认知。但是七年前当时业界是有没有这个认知？
+</p>
+<p class="transcript-line">
+<span class="time"><strong>[02:36:16]</strong> </span>
+<span class="speaker"><strong>发言人1: </strong></span>
+就是万事万了，万事万物都是从相对野蛮到相对文明演的演化过程就是一个进化过程。对我刚才想说的就是像刚才这样的故事一个接一个的，让公众或者是让关注这种问题的人，这就是在我们的心里累加出了一个这么一个画像或者是这样一个故事。这故事就是说推荐算法这个事儿，他明显他就是这个事儿的对人的影响非常大对他在塑造世界，他在塑造现实。就很多很多人他90%的经验是通过手机屏屏手机屏幕来来的对，所以就是这个事儿他对人的影响非常大。但另外一方面，就是说由于他这个推荐算法优化的目标，他是或者说这一套目标，虽然就是听听你明描述这么多，它是一个非常积极有为的，尽量综合的对那个和把把利弊都囊括进去。但它毕竟是一个事后的对，就是一个事后反应的，就是出了问题，然后我们去反映的。所以我们要对着这个目标优化的过程中，就容易出现刚才说的那种，你觉得这个按钮挺有用，提高了engagement，但是的话结果又导致了各种各样的的问题。而这个大公司有可能他不在意，就是他还是他或者是他意识到了以后，他觉得我还是要就提高我的用户时长或者怎么样就更更重要这事儿。
+</p>
+<p class="transcript-line">
+<span class="time"><strong>[02:37:28]</strong> </span>
+<span class="speaker"><strong>发言人1: </strong></span>
+它整体之后，它就这个盖儿盖住了，变成一个特别闭合的东西，就非常行为心理或者非常控制论的一个东西，就是当年维纳发明那个控制论。他不就是说你要把这个炮的旋转的角度和炮弹考虑成一个系统对那么换算到我们的这个语境里面，就是说我们要把用户和我们对用户做的事情考虑成完全一个系统，然后我们就不断的去优化它。但是在就是在这个在在这个这过程中里面，他就有一个逻辑上的一个悖谬。就是一方面互联网公公公司想要把自己给摘出来，就是说这个是都是社会的问题，就是社会是啥样就啥样，我们只是一个镜子反映了这个事儿。但另外一方面你优化的时候，你是完全把它变成一个控制论的角度来看，它是一个整体。他就他再去优化，因为你就是欠已经完全嵌套在人的社会生活和文化演进的过程里面了。就是你你本身也在塑造这个现实，所以他就会产生了一个问题。
+</p>
+<p class="transcript-line">
+<span class="time"><strong>[02:38:25]</strong> </span>
+<span class="speaker"><strong>发言人1: </strong></span>
+这个问题大概可以描描描述为，就是说当你遇到一个没法解决的问题，你像你像我们刚才说就我也承认文化战争它是真实世界的战争，在算法是世界里的延伸，它是没有办法掰扯清楚的。所以这个时候，互联网公司他就有一个冲动，他就说这个不能是算法的责任，算法左右不了的这仅仅是用户所在的这个社会的真实情况的一个直接的映射，一个直接的反应。所以我们是一黑盒，我们黑盒就不用就是我们不用承担这个责任。但如果你要这么说的话，那么就是你就不能去干预他的任何事儿。然后他他只是一个顺其自然的事儿。
+</p>
+<p class="transcript-line">
+<span class="time"><strong>[02:39:04]</strong> </span>
+<span class="speaker"><strong>发言人1: </strong></span>
+但是显而易见，你又不是因为你必须要干预他。但如果你有一个很很手术刀的方式去干预推荐算法里面的事情，你就又要负这个责任。因为你就是它就是一个整体，所以你在塑造社会，你在影影，你在影响漂浮在社会的里面的气氛和情绪，所有的都跟你有关系。然后你就要么就变成一个完全没有责任，但是你也不能有任何的干预，要么就变成一个责任无穷大，什么都赖你的的一个事儿。对，就either way你是不可能舒服的。所以这个事儿里他无可避免的要反映你这个互联网公司的意图。
+</p>
+<p class="transcript-line">
+<span class="time"><strong>[02:39:36]</strong> </span>
+<span class="speaker"><strong>发言人1: </strong></span>
+但是你又想不停的自我辩解，说我是清白的，因为我只是总体上来说，比如抖音也好，B站也好，知乎也好，它只是一个互联网的空间，它在映射真实世界里的那个什么。但然后就是我我不想负责任，但有的时候我我又我又我又需要去这在事实上我又不断的在干扰他。这本身就是一个扯不清楚的一个关系。
+</p>
+<p class="transcript-line">
+<span class="time"><strong>[02:39:56]</strong> </span>
+<span class="speaker"><strong>发言人3: </strong></span>
+我觉得这这是一个这是一个非常困难的事儿。
+</p>
+<p class="transcript-line">
+<span class="time"><strong>[02:40:00]</strong> </span>
+<span class="speaker"><strong>发言人1: </strong></span>
+就是对于互联网公司来说是不可能有干净的。一刀能够切切完了之后，你在一个安全区里说，我就负责这些，你们也别赖我多了，你也别赖我。这一部分是一个纯工工纯纯粹的工程的问题。我如果我是你的话，我会觉得这个工作是极其困难的。因为他就是切割不行。我作为你的朋友，我也希望你的工作是一个单纯的事实，就是价值判断无涉的工程问题。但他不是他就不是怎么办？这就就就说完了，可能有点像抱怨。
+</p>
+<p class="transcript-line">
+<span class="time"><strong>[02:40:29]</strong> </span>
+<span class="speaker"><strong>发言人3: </strong></span>
+这不是个问题了。我感觉你在替我抱怨我。
+</p>
+<p class="transcript-line">
+<span class="time"><strong>[02:40:33]</strong> </span>
+<span class="speaker"><strong>发言人1: </strong></span>
+对对对。
+</p>
+<p class="transcript-line">
+<span class="time"><strong>[02:40:34]</strong> </span>
+<span class="speaker"><strong>发言人3: </strong></span>
+就是我觉得那个推荐算法其实本质来说还是一个信息检索技术。比如说我之前那个研究生同学，有人是图书管理专业，好像就是这个名字。他负责的是什么呢？负责就是这应该在18年的时候，英国那边的有一个相当于学科，就是我有1万册图书，我怎么把这个图书做好编排，让大家在这个图书馆里面尽快的拿到我想要的书。这是最早的最low.
+</p>
+<p class="transcript-line">
+<span class="time"><strong>[02:41:03]</strong> </span>
+<span class="speaker"><strong>发言人1: </strong></span>
+的或者最。
+</p>
+<p class="transcript-line">
+<span class="time"><strong>[02:41:04]</strong> </span>
+<span class="speaker"><strong>发言人3: </strong></span>
+信息检索系统。是是是比如说它是第一我要按那个科目去分这个书，对，第二我要按这个ABCD我去分这个书。其实你看现在推荐我们刚刚说那个初筛那个阶段，好像跟这本质是一个原因。对，因为现在信息可能比18世纪的时候要信息多得多。所以说它某种逻辑来说是需求诞生的技术。它不是说我原地开发了一个技术，然后满足用户还不了解的一个需求。而是说因为当时那个时间点内容量确实爆炸了，确实需要一个技术。所以延伸的当时可能就比如说最早的这个搜索算法，谷歌百度出来。
+</p>
+<p class="transcript-line">
+<span class="time"><strong>[02:41:43]</strong> </span>
+<span class="speaker"><strong>发言人3: </strong></span>
+但是搜索算法延伸的就是我们想是不是用户不搜的时候，我能不能也给他推荐呢？我个性化推荐系统。但你如果作为一个纯粹的搜索系统，或者作为一个图书管理的系统，有没有我们刚刚说的以上说的所有问题也会有，我把那个书放在前面也会有这个问题。只是说为什么现在这个问题放大了？因为信息在人类生活中重要的比例越来越重要了。对，因为它太重要了，所以你一定会接受更多的审视和要求。所以我觉得这没问题，对我来说这是OK open的。我们也应该去满足社会对我们更公平的要求。
+</p>
+<p class="transcript-line">
+<span class="time"><strong>[02:42:20]</strong> </span>
+<span class="speaker"><strong>发言人3: </strong></span>
+然后还有个边界，边界叫做什么？哪些是我们推荐系统可以有自己主张的，哪些不应该有主张的。我觉得涉及到社会法律规范，公序良俗相关的，这个我们就不去碰。
+</p>
+<p class="transcript-line">
+<span class="time"><strong>[02:42:35]</strong> </span>
+<span class="speaker"><strong>发言人3: </strong></span>
+对，但是比如说我这个平台到底是倾向于短视频、倾向于长视频、倾向于图文。是希望我们在我的用户，在我的评论区更多是说更轻松一点，还是大家能够就我这个视频做深度的一些讨论，还是说大家提供了一些额外的信息量。这个是我们可以自己去主张的。但我觉得前提，比如说大家是平静peace and以及说不违反事实再去讨论。我觉得这是我们可以主张自己的画风和满足用户的意图，这是我们可以主张。
+</p>
+<p class="transcript-line">
+<span class="time"><strong>[02:43:09]</strong> </span>
+<span class="speaker"><strong>发言人3: </strong></span>
+我觉得第一它是一个推荐技术，一定是随着这个社会时代倒逼出来的一个技术。然后他之所以大家给了更多的要求，是因为信息越来越重要了。我们既然站在这个位置上，当然我们也收到了这个发展的红利，我们当然要接受这样的挑战。
+</p>
+<p class="transcript-line">
+<span class="time"><strong>[02:43:29]</strong> </span>
+<span class="speaker"><strong>发言人3: </strong></span>
+第三就是说边界，我觉得边界是在哪？有可能这个边界对我们的要求是越来越高的，你给我们留的空间有可能是越来越窄。但我想说的，如果他对于大家足够重要，那我当然希望我的就是我我觉得这是也是一个逐渐在认知的过程。比如说过去我们可能在社区和生态价值认知没那么齐，有可能十年前没那么齐。那我们现在也逐渐建立了自己的一个认知体系。比如我们刚刚说信息探索和减防这个矛盾的体系，现在我们可能第指标，但是他们中间应该什么样是更好的。
+</p>
+<p class="transcript-line">
+<span class="time"><strong>[02:44:02]</strong> </span>
+<span class="speaker"><strong>发言人3: </strong></span>
+实际上我觉得他不是技术上面没有认识清楚，而是可能是社会的公序良俗道德没有对他形成统一的一个认知。如果他形成统一认知，OK那一天我们既然也就解决这个问题。所以我觉得很多情况下它是一个互相推进的过程。我不知道有没有回答这个问题。
+</p>
+<p class="transcript-line">
+<span class="time"><strong>[02:44:19]</strong> </span>
+<span class="speaker"><strong>发言人1: </strong></span>
+对，就是那些悬而未决的问题，就是战场的最前线，人们在打。
+</p>
+<p class="transcript-line">
+<span class="time"><strong>[02:44:24]</strong> </span>
+<span class="speaker"><strong>发言人3: </strong></span>
+在打的时候他我就接受他。
+</p>
+<p class="transcript-line">
+<span class="time"><strong>[02:44:26]</strong> </span>
+<span class="speaker"><strong>发言人2: </strong></span>
+我可不可以这么理解，就听完今天所做的东西，我就最后回到他这个问题。我理解到我们要说内容和形式这两个东西。对，就是说形式是推荐算法，大概率上它是可以去干扰的。比如说我想要短视频。
+</p>
+<p class="transcript-line">
+<span class="time"><strong>[02:44:40]</strong> </span>
+<span class="speaker"><strong>发言人3: </strong></span>
+我想要长视频，对吧？对。
+</p>
+<p class="transcript-line">
+<span class="time"><strong>[02:44:42]</strong> </span>
+<span class="speaker"><strong>发言人2: </strong></span>
+但是这个形式下面的内容是推荐算法不见得能控制得了的。比如说短视频里面人们更喜欢种子善堂，长视频里面人们更喜欢就喜欢品的人更喜欢吃咸粽子。这个事儿的推销很难控制的。
+</p>
+<p class="transcript-line">
+<span class="time"><strong>[02:44:54]</strong> </span>
+<span class="speaker"><strong>发言人3: </strong></span>
+我是没办法，我是无法没法利用我喜好来做的对，但是我可以选择，不是不服务你这个需求，我不服了，你这个需求我觉得违背共性的，我不服务。但如果我服务你我是没办法强迫你的这个偏好。
+</p>
+<p class="transcript-line">
+<span class="time"><strong>[02:45:05]</strong> </span>
+<span class="speaker"><strong>发言人2: </strong></span>
+所以我理解就是说是否推短视频，这是一个推荐算法可以做可以讨论的事儿。但这个不是推荐算法的事，这属于人们对短视频的讨论了。这个短视频里面的内容，这个容器里面包了什么？是一个推算法，确实很难完全自己做控制的事儿。今天这个事儿它很多时候争吵和打架是打那个内容和形式分不出来的东西。比如说短视频会不会让人人更上瘾，然后更浪费了更多时间。但这不是图算法的事儿，因为是那个那个形式的事儿，大家没决定好的。然后人们在吵这个事儿，但没有推荐算法。
+</p>
+<p class="transcript-line">
+<span class="time"><strong>[02:45:38]</strong> </span>
+<span class="speaker"><strong>发言人3: </strong></span>
+短视频依然是短视频，对，依然还是短视频对不那么work.
+</p>
+<p class="transcript-line">
+<span class="time"><strong>[02:45:41]</strong> </span>
+<span class="speaker"><strong>发言人1: </strong></span>
+的短视频对不能work.
+</p>
+<p class="transcript-line">
+<span class="time"><strong>[02:45:42]</strong> </span>
+<span class="speaker"><strong>发言人2: </strong></span>
+但依然是那么顺。所以但就是因为人们对短视频来说是个新东西。对。
+</p>
+<p class="transcript-line">
+<span class="time"><strong>[02:45:46]</strong> </span>
+<span class="speaker"><strong>发言人3: </strong></span>
+这个没我觉得这个是这么说，就比如说咱们我不知道你们有经历过，就是曾经我们暑假的时候，卫视会联播电视剧，大电视剧大放送，就那几个而已，就是几个西游记，什么几个红楼梦，包括金庸的那几个。对，就是在那循环播。那咱们是不是也沉迷了一个暑假，直到爸妈回来，然后不让咱们看，咱们在那看。所以我觉得今天跟短视频他没有本质需求，只只就是没有误差的是什么？仍然是人类对娱乐的需求。
+</p>
+<p class="transcript-line">
+<span class="time"><strong>[02:46:18]</strong> </span>
+<span class="speaker"><strong>发言人3: </strong></span>
+对，但是怎么更好的去管理好，比如说小孩怎么看这个事儿，就是如果没有自身能力的人怎么管理这个事，以及说怎么更好的去去去服务好大家的信息需求。信息需求里面也分很多种类，有补充能量的，有补充知识的，可能还有社交的，可能还有其他的可能还有创作的需求，分享的需求。这些需求怎么去很好的去baLance。这个东西可能就像我刚才说，他这个还没有定论，这个事大家也还在摸索的。是我觉得。
+</p>
+<p class="transcript-line">
+<span class="time"><strong>[02:46:53]</strong> </span>
+<span class="speaker"><strong>发言人1: </strong></span>
+咱们可以聊一聊未来了。比如说接下来的2到3年，或者你眼前就是那个你在叫你在研究，你在往前看的东西，就比如说接下来2到3年或者3到5年会有什么，就在你的领域会有什么大事儿发生，以及你有你就你你你你觉得你会花很大的精力在什么事儿上，然后以及有些什么新的问题。要应对和有希望解决的什么之类，这些都可以面向未来的。
+</p>
+<p class="transcript-line">
+<span class="time"><strong>[02:47:18]</strong> </span>
+<span class="speaker"><strong>发言人3: </strong></span>
+我觉得AI现在让我对未来是没有判断的，为什么？大家能想象出来五年后人类跟AI是怎么相处的吗？
+</p>
+<p class="transcript-line">
+<span class="time"><strong>[02:47:26]</strong> </span>
+<span class="speaker"><strong>发言人1: </strong></span>
+不知道。
+</p>
+<p class="transcript-line">
+<span class="time"><strong>[02:47:27]</strong> </span>
+<span class="speaker"><strong>发言人3: </strong></span>
+就如果今天知道了，我今天不应该在公司工作，我应该去创业，然后提前占住了坑。
+</p>
+<p class="transcript-line">
+<span class="time"><strong>[02:47:32]</strong> </span>
+<span class="speaker"><strong>发言人1: </strong></span>
+你的意思是AI对于人类社会本身的震动都太大了，以至于你想自己的这个服务的公司以及这个业务的都缺乏前提了，缺乏一个稳定的环境和前提的。
+</p>
+<p class="transcript-line">
+<span class="time"><strong>[02:47:45]</strong> </span>
+<span class="speaker"><strong>发言人3: </strong></span>
+是这个意思吗？对魔术逻辑来说，是的，它可能会影响非常大。因为它会影响同时影响用户需求，对供给对也会影响推荐系统。就是用户需求就是在今天的AI下面，搜索需求其实是极度减少了。比如说有没有可能现在就是内视频内容需求很多情况下是服务知识类的对那未来可能还会服务知识的，但是很多知识类也会被AI吃掉，这会带来什么影响？
+</p>
+<p class="transcript-line">
+<span class="time"><strong>[02:48:15]</strong> </span>
+<span class="speaker"><strong>发言人3: </strong></span>
+第二个就是供给上面，今天我们有很多基于AI的一些内容提交的工作，有可能是工作流，也有可能直接的是一个APP。这个是在今天也有很具体的变化，明年变化只会更大后年，你就不知道什么样的那可能大家就是说今天的供给量或者说高质量的供给，可能会比今天不可能不能想象，包括可能明年就爆发了。在现在的工具电路下。
+</p>
+<p class="transcript-line">
+<span class="time"><strong>[02:48:40]</strong> </span>
+<span class="speaker"><strong>发言人2: </strong></span>
+十几年就没人跟我说明年不会爆发。
+</p>
+<p class="transcript-line">
+<span class="time"><strong>[02:48:43]</strong> </span>
+<span class="speaker"><strong>发言人3: </strong></span>
+对。
+</p>
+<p class="transcript-line">
+<span class="time"><strong>[02:48:43]</strong> </span>
+<span class="speaker"><strong>发言人1: </strong></span>
+这个是不知道吗？为什么要不要不要提这个脏东西，你接着说。
+</p>
+<p class="transcript-line">
+<span class="time"><strong>[02:48:48]</strong> </span>
+<span class="speaker"><strong>发言人3: </strong></span>
+然后在这个逻辑下来说，如果未来的创作视频质量都比今天更好，那用户对于这个视频的判断和需求，对跟今天会又会有什么样的区别呢？我们也不知道不知道，所以说这些都是难题。我们只从推荐技术层面来说，我觉得可能我们有很多新的助理。就是过去来说我们对于一个视频的理解是单薄的，因为过去的内容理解就是差的。那未来我们可能从过去我们表征一个视频的维度可能就几百位。那未来可能更多也更充沛，基于现在的大模型的技术。第二个就是说我们现在大模型其实就是我们推荐其实也用了很多大模型技术，可是也在尝试直接用大模型去server推荐。所以我们技术上面就是我们刚刚说可能比十年前我们技术推荐的技术能力可能有十倍以上提升。我觉得在未来可能我们是在积极探索这一块的技术。第三块就是我觉得推荐的交互形式也是我积极在探索的。就是现在我们是这样一个形式，我们是通过用户的行为去决定我的推荐结果的这。
+</p>
+<p class="transcript-line">
+<span class="time"><strong>[02:49:59]</strong> </span>
+<span class="speaker"><strong>发言人1: </strong></span>
+不就已经是最先进，不可能更先进了。
+</p>
+<p class="transcript-line">
+<span class="time"><strong>[02:50:02]</strong> </span>
+<span class="speaker"><strong>发言人3: </strong></span>
+那有没有可能我能够通过wording来让我有个理想态，对吧？我之所以对这个推荐系统不满意，是因为我大脑中有一个画面，它是个理想态，它跟我的现在推荐系统不符合。
+</p>
+<p class="transcript-line">
+<span class="time"><strong>[02:50:15]</strong> </span>
+<span class="speaker"><strong>发言人1: </strong></span>
+对，但是你除了他行为以外。
+</p>
+<p class="transcript-line">
+<span class="time"><strong>[02:50:18]</strong> </span>
+<span class="speaker"><strong>发言人3: </strong></span>
+还有什么更如果我能把这个画面用文字描述了，并且告诉推荐系统它能不能达到这个状态。
+</p>
+<p class="transcript-line">
+<span class="time"><strong>[02:50:24]</strong> </span>
+<span class="speaker"><strong>发言人1: </strong></span>
+我那这挺有意思，这个等于是往回走了。因为我我我十多年我十多年前在那个广告行业的咨询公司上过班。就是用那个问卷，就用那种几个小时几千道题的那种问卷，来获得用户的偏好和那个媒介行为使用习惯。然后给广告公司做做投放，去做那个数据的支持。对然后就是过去的这十多年，我一直觉得自己做过一个古代的工作。因为那个用户行为对于用户的这个profiling和对于用户未来行为的预测是远远好于用户的声明。就是用户的就是你问他，你说你喜欢什么？然后就显得过去我做的那种基于问卷的，基于那个声明式的。
+</p>
+<p class="transcript-line">
+<span class="time"><strong>[02:51:02]</strong> </span>
+<span class="speaker"><strong>发言人3: </strong></span>
+现在推荐系统里面其实有一些困难问题都是在通过问卷实现。比如说你看抖音、小红书，它会都会提一些提一些问卷。比如说你觉得这是不是广告？你觉得这是不是一个营销内容，你觉得是不是一个优质内容？其实这些问题都是因为我们现在有很多目标。这个目标其实都是假设你发生这个行为，然后你觉得这个内容怎么样。对，但我们更本质的可能是需要客观的知道，就是你大脑里面认为，所以我们会发一些问卷，所以这些也会成为我们建模的目标。
+</p>
+<p class="transcript-line">
+<span class="time"><strong>[02:51:33]</strong> </span>
+<span class="speaker"><strong>发言人3: </strong></span>
+所以说我刚刚其实说的第三块不是实际的一个做法。我想说推荐系统的交互形式也可能会发生变化。然后我刚刚只是一个，举个例子，也可能maybe是其他的。
+</p>
+<p class="transcript-line">
+<span class="time"><strong>[02:51:46]</strong> </span>
+<span class="speaker"><strong>发言人1: </strong></span>
+但我觉得我也可以胡说八道。也就我想象的是一个类似于特别聪明的一个智能助助那个智能的助理。然后我往这儿一坐，我就我开手机，我跟他说话，我说今天怎么样，然后他听着我的话，一边听着我话，一边跟我唠嗑，一边给我推一些东东的东西。这不就是把那个声明式的的挖掘给综合进去了吗？
+</p>
+<p class="transcript-line">
+<span class="time"><strong>[02:52:05]</strong> </span>
+<span class="speaker"><strong>发言人3: </strong></span>
+对，就是你说就是我刚刚说的那个逻辑OKOK这一块也是open带探索阶段。所以说我刚刚逻辑就是说可能在三块，在我们对于这个视频本身的理解上面。所以说如果我对这个内容理解的更深，那我当然应该推得更准。
+</p>
+<p class="transcript-line">
+<span class="time"><strong>[02:52:20]</strong> </span>
+<span class="speaker"><strong>发言人3: </strong></span>
+第二的话就是说整个推荐的技术，就是过去来说就是我们去借鉴推荐大就是大模型，或者说直接用大模型，跟现在的推荐系统可能会有一个但是这个也业绩在探索当中，就是还在黎明之前，但也不知道黎明之后还是黑暗，还是说它是一个崭新的明天，大家在乐观探索当中。第三块就是说基于大模型的交互能力，是不是有可能在交互动线上面有可能有新的可能性。对然后以及说这三个东西有没有可能把今天我们说说了很多矛盾的问题。
+</p>
+<p class="transcript-line">
+<span class="time"><strong>[02:52:55]</strong> </span>
+<span class="speaker"><strong>发言人1: </strong></span>
+有一定的缓解，或者说是用一种的方式超越掉。
+</p>
+<p class="transcript-line">
+<span class="time"><strong>[02:52:59]</strong> </span>
+<span class="speaker"><strong>发言人3: </strong></span>
+但我原则上觉得还是超越不了的。因为某种逻辑我们讨论的是社会问题，哲学问题是长久并不是技术问题。对。
+</p>
+<p class="transcript-line">
+<span class="time"><strong>[02:53:07]</strong> </span>
+<span class="speaker"><strong>发言人1: </strong></span>
+其实你刚才说的那个最后一点，我特别心心有清晰。就是你说能不能够再重新找一种新的方式，让让就让用户直接表达出来他想要的东西。这个特别回应我一个就是我一个心里的一个东西，是说这个行为偏好这个事儿，在我看来，它背后隐藏的这个判断是一个特别玩世不恭的一个东西。我给你举个例子。
+</p>
+<p class="transcript-line">
+<span class="time"><strong>[02:53:32]</strong> </span>
+<span class="speaker"><strong>发言人3: </strong></span>
+就是我们推荐挖掘。
+</p>
+<p class="transcript-line">
+<span class="time"><strong>[02:53:33]</strong> </span>
+<span class="speaker"><strong>发言人1: </strong></span>
+你的就是说就是这个命这命题是这意思就是说，所以一个人的行为是百分之百诚实的，完全反映了这个人想要的，这个人的欲望，这个人的所有的的一切，而他说的话都是放屁，因为他说的话他根本不了解自己。因为他是一个身体，就是嘴上天花乱坠，但是他身体很很诚实，就是人的行为表现出了这个人的真正的本质。这个事儿是一个非常cynical的东西，对于我来说我会想象就是我有一群我。
+</p>
+<p class="transcript-line">
+<span class="time"><strong>[02:54:02]</strong> </span>
+<span class="speaker"><strong>发言人3: </strong></span>
+大概get你的点，就是言行不一。对对对，到底是认为严是人还是行？
+</p>
+<p class="transcript-line">
+<span class="time"><strong>[02:54:08]</strong> </span>
+<span class="speaker"><strong>发言人1: </strong></span>
+是人就是行是百分之百，严是0%。这个事儿在我看来就是这个推荐算法背后隐藏的这个价值判断是在骂我是。
+</p>
+<p class="transcript-line">
+<span class="time"><strong>[02:54:16]</strong> </span>
+<span class="speaker"><strong>发言人3: </strong></span>
+在就是你以前给我好推荐吗？对。
+</p>
+<p class="transcript-line">
+<span class="time"><strong>[02:54:19]</strong> </span>
+<span class="speaker"><strong>发言人2: </strong></span>
+完了我。
+</p>
+<p class="transcript-line">
+<span class="time"><strong>[02:54:20]</strong> </span>
+<span class="speaker"><strong>发言人3: </strong></span>
+我就是就是纯纯打比方。
+</p>
+<p class="transcript-line">
+<span class="time"><strong>[02:54:23]</strong> </span>
+<span class="speaker"><strong>发言人1: </strong></span>
+我有一个群友就是大伙儿在笑话他，就是一个愉快的夜晚，有一个群友说，他说我最近在刷机器学习的那个教程，因为我在学什么什么拍拖或者什么玩意儿。然后他说我搜了好多好多，我点了好多好好多。但是每一个机器学习算法的那个视频下面还是一串的擦边舞擦边舞蹈，就是相关推荐是吧？对，就是他这个就猜你喜欢，就下面的这个相关的那个就那个的其他的算法。然后他的那个推他的的他的时间线，经过他这几天对机器学习的那个的的搜索依然没有改变。还都是擦那个擦边舞蹈。然后这个时候群里面他在抱怨这个事儿，为什么不就是不鼓励我学我想学的东西呢？
+</p>
+<p class="transcript-line">
+<span class="time"><strong>[02:55:01]</strong> </span>
+<span class="speaker"><strong>发言人1: </strong></span>
+然后群里面所有人都在狂欢，因为所有人都就都在说，因为你就是喜欢擦边舞蹈，就是你天天在这块儿当个白莲花，对我们宣称你想学东西，但其实你就想看小姑娘跳舞。然后对方说没有我我是不想看小姑娘跳舞，但我也想学那个，就学声音learning。我想说的是这种sync ism是在告诉我们一个人的主观的愿望，一个人想要成为的样子是完全不重要的，而他行为暴露了一切。就是我不想完全就我说的是个特别感兴趣，就完全不是一个工程师有用的。
+</p>
+<p class="transcript-line">
+<span class="time"><strong>[02:55:37]</strong> </span>
+<span class="speaker"><strong>发言人3: </strong></span>
+我觉得这我是有工程逻辑，说这个事儿这不是一个。
+</p>
+<p class="transcript-line">
+<span class="time"><strong>[02:55:39]</strong> </span>
+<span class="speaker"><strong>发言人1: </strong></span>
+工程师有义务要回答的东西，但我就想把它给说出来，就是我不想臣服于这种逻辑。这个意思就是说我就只是一个动物，我就是一个狗改不了吃屎。
+</p>
+<p class="transcript-line">
+<span class="time"><strong>[02:55:50]</strong> </span>
+<span class="speaker"><strong>发言人3: </strong></span>
+就是你的过去决定你的未来。对，假设一个用户说我要看这个，但是你给他推了之后他确实没看，那你要不要做这次推荐？明白这个是挺经典的。比如说推荐里面经典的会做搜索推联通。比如说你搜索了一个东西之后，未来会在推荐里面多出一些这个东西。比如说你搜了机学习，然后未来在你的推荐里面多出了一些机器学习，然后你选择了一个都不看，那我们很就是三天之后肯定再也不会给你推这些。
+</p>
+<p class="transcript-line">
+<span class="time"><strong>[02:56:17]</strong> </span>
+<span class="speaker"><strong>发言人1: </strong></span>
+对，感觉这感觉这两个都是问题。
+</p>
+<p class="transcript-line">
+<span class="time"><strong>[02:56:20]</strong> </span>
+<span class="speaker"><strong>发言人3: </strong></span>
+都不应该。一开始那个机学习不推的，你不看那几个人学习，我是不是一定要给你推？你觉得我我不知道。
+</p>
+<p class="transcript-line">
+<span class="time"><strong>[02:56:28]</strong> </span>
+<span class="speaker"><strong>发言人2: </strong></span>
+我不知道。
+</p>
+<p class="transcript-line">
+<span class="time"><strong>[02:56:31]</strong> </span>
+<span class="speaker"><strong>发言人3: </strong></span>
+我们现在选择是给你推。
+</p>
+<p class="transcript-line">
+<span class="time"><strong>[02:56:33]</strong> </span>
+<span class="speaker"><strong>发言人1: </strong></span>
+OKI see.
+</p>
+<p class="transcript-line">
+<span class="time"><strong>[02:56:34]</strong> </span>
+<span class="speaker"><strong>发言人3: </strong></span>
+我们现在选择给你推，就是说你说我要看这个，我们是肯定是说系统层面试要设计这个机制，就试探一下你是不是真的奇怪。
+</p>
+<p class="transcript-line">
+<span class="time"><strong>[02:56:42]</strong> </span>
+<span class="speaker"><strong>发言人1: </strong></span>
+就是你给他机会了。
+</p>
+<p class="transcript-line">
+<span class="time"><strong>[02:56:43]</strong> </span>
+<span class="speaker"><strong>发言人3: </strong></span>
+对，但你就是我觉得我是觉得如果这个事儿是我来考虑这个问题，就是说你说我想变好，那我们要配合你变好。但是发现我这个词不太好对你说你想学习，我们配合你学习。但是过了一段时间发现你真实需求不是学习，那我们觉得还是要满足你的真实需求。对，或者说你下次再想表现学习的时候，我们还是再来满足你学习好了。
+</p>
+<p class="transcript-line">
+<span class="time"><strong>[02:57:07]</strong> </span>
+<span class="speaker"><strong>发言人3: </strong></span>
+只是我觉得首先这个系统如果你表现了想学习系统没响应，我觉得这系统做的不好。对，这是客观一定要说的。但是反过来说，如果你表达了学习，同时过了一段时间持续还是不学习，推荐还要给你叫学习，这也是做的不好的表现。所以我觉得它不是一个离异的状态，是要一个能闭环的一个合理状态。但是你做到这个样子，一定还是有用户会来骂你，叫做就是我只是搜了一下学习，我并不是希望你在推荐，我希望我。是搜索学习推荐娱乐，我是我内心是有这个分工的，你不要乱动我的推荐。
+</p>
+<p class="transcript-line">
+<span class="time"><strong>[02:57:43]</strong> </span>
+<span class="speaker"><strong>发言人3: </strong></span>
+对，会有用户来这么说，这个是有非常多人在说这个对，那是还有很多人说我说了学习了，虽然我你给我推学习是不错的，但是虽然我没看，但我只是现在没心情，但是我最终会看的。对我在我最终你怎么又不推了呢？所以说我觉得这就是W2W这就是对，所以我自己看这个事儿就是OK我还是给你机会，这是我个人观点。但是每个平台他可能对待事情的态度是不一样的，就是我只代表我个人，不代表任何平台，或者有用户也会。
+</p>
+<p class="transcript-line">
+<span class="time"><strong>[02:58:17]</strong> </span>
+<span class="speaker"><strong>发言人2: </strong></span>
+主动训练这个推荐算法。
+</p>
+<p class="transcript-line">
+<span class="time"><strong>[02:58:18]</strong> </span>
+<span class="speaker"><strong>发言人1: </strong></span>
+比如说我最近就大家会管用产品叫养号。
+</p>
+<p class="transcript-line">
+<span class="time"><strong>[02:58:22]</strong> </span>
+<span class="speaker"><strong>发言人3: </strong></span>
+就是这个事儿大家对于什么是正确的养号方式见解也不同。我只能说我们做最大公约数，就是你总要做一个选择。我把这个逻辑跟你说，你觉得没问题，然后80%的都没问题。但是还好，就是它不是一个流量，它不是一个特别冲突的事，是不是一个大头的问题。
+</p>
+<p class="transcript-line">
+<span class="time"><strong>[02:58:40]</strong> </span>
+<span class="speaker"><strong>发言人2: </strong></span>
+对我我就自己最近做一个尝试，我因为我要拿黑白相机拍，只能拍黑白相机拍那个佛像。对，所以我就想知道怎么拍的更好，所以我会在那个小红书上搜很多这个东西。然后我会刻意的点很多我觉得不好看的黑白照片，来让他给我推更多黑白照片来养这个号。所以我就一直有个理论，我觉得如果两人相亲，对，啥也别说，给对方看你那个那个社交网站首页，看你这首页推啥，我觉得有可能是比那个相亲的简历要更对。
+</p>
+<p class="transcript-line">
+<span class="time"><strong>[02:59:08]</strong> </span>
+<span class="speaker"><strong>发言人1: </strong></span>
+不是更没sense的。Again就是又是一个又又是一个行为派和那个和和这个表。
+</p>
+<p class="transcript-line">
+<span class="time"><strong>[02:59:14]</strong> </span>
+<span class="speaker"><strong>发言人3: </strong></span>
+但是我站在相亲这个角度，我也在战俘如果因为推荐是很是一个个人品味的，就是两个人在一起是需要两个人对内容的品味一致吗？不需要，这是两这这是两个婚姻逻辑，一个活动也就是两个人要相似，所以结婚。第二个就两个人要差异化互补才能结婚，那两个逻辑我觉得都成立。所以你刚刚那个相亲逻辑我不赞同。
+</p>
+<p class="transcript-line">
+<span class="time"><strong>[02:59:39]</strong> </span>
+<span class="speaker"><strong>发言人2: </strong></span>
+或者都不成立。然后最大的问题是相亲系统直到今天都没有用上推荐算法。对对对。
+</p>
+<p class="transcript-line">
+<span class="time"><strong>[02:59:44]</strong> </span>
+<span class="speaker"><strong>发言人3: </strong></span>
+它是最最原始可能用的，但是人家的收益路径可能不是你的满意度。
+</p>
+<p class="transcript-line">
+<span class="time"><strong>[02:59:48]</strong> </span>
+<span class="speaker"><strong>发言人2: </strong></span>
+对，因为那个婚姻中介本质上还是最原始的数据挖掘。对，就我挖掘你的需求。
+</p>
+<p class="transcript-line">
+<span class="time"><strong>[02:59:52]</strong> </span>
+<span class="speaker"><strong>发言人3: </strong></span>
+我给你找一个匹配的，或者说他很难获得真实level。你们到底是约会了还是结婚了，还是结婚满七年之后才算是完美？是是是，有可能现在匹配的是说你们约会了就可以，因为可能结婚就很稀疏了。看来根本不够他训练这个系统的对。
+</p>
+<p class="transcript-line">
+<span class="time"><strong>[03:00:11]</strong> </span>
+<span class="speaker"><strong>发言人1: </strong></span>
+所以我的这个幼稚的心灵里面的那个不服的那个东西，其实并不是在产品或者算法上的有任何的实质的意见。我只是觉得人自己希望成为的样子应该是有一份权重的，就是说我想要成为什么样，但是我确实我就我还是很庸俗，我就是抵抗不住什么东西，所以我的行为就是身体上很诚实，所以我是觉得前者应该能够反映在我的我所接受的信息。
+</p>
+<p class="transcript-line">
+<span class="time"><strong>[03:00:39]</strong> </span>
+<span class="speaker"><strong>发言人3: </strong></span>
+我的经验里面。我觉得你不用纠结，我们希望成为的那个人，他是我们的动力和目标。然后我们平日常的生活，它是它就是我们的生活，它是滋养我们的，是他是给我们补能的。我只是这么说的，就是这些东西给你补能的，你全就补能完成了之后，你才能去做自己的梦想，对吧？对，是对，所以说不不不想吃不想吃，不想吃，或者兜底来说，你这个意图可以通过搜索来满足。对，就是我们某种角度来说是希望推荐满足我们的一切。我觉得过去比如十年前这个事情是不太可能的。然后我觉得按照时间线引进它可能越来越可能。
+</p>
+<p class="transcript-line">
+<span class="time"><strong>[03:01:23]</strong> </span>
+<span class="speaker"><strong>发言人1: </strong></span>
+对，我我我刚才讲的全部的这种怀旧情绪，就是对于人们主动行为，然后被彻底的因为算法太牛逼太完美了，然后被彻底的偷就是替换成了一个完全被动的行为。就是从你有目的的去做。
+</p>
+<p class="transcript-line">
+<span class="time"><strong>[03:01:36]</strong> </span>
+<span class="speaker"><strong>发言人3: </strong></span>
+你完全可以自主选择退化到十年。
+</p>
+<p class="transcript-line">
+<span class="time"><strong>[03:01:39]</strong> </span>
+<span class="speaker"><strong>发言人1: </strong></span>
+前我也不愿意。
+</p>
+<p class="transcript-line">
+<span class="time"><strong>[03:01:40]</strong> </span>
+<span class="speaker"><strong>发言人3: </strong></span>
+你可以自主的选择搜索。对，你甚至可以用订阅，因为他就是工具，看你关注那个。
+</p>
+<p class="transcript-line">
+<span class="time"><strong>[03:01:46]</strong> </span>
+<span class="speaker"><strong>发言人1: </strong></span>
+因为他就在那儿，我每天都会用。
+</p>
+<p class="transcript-line">
+<span class="time"><strong>[03:01:48]</strong> </span>
+<span class="speaker"><strong>发言人3: </strong></span>
+只是因为它不如现在更好的系统来说。对，难道？但是理论上就是你没办法招商，这个世界不进步，所以他还是个必然事件。或者说你今天不进步，那美国的信息都进步了，对吧？那那得到中国人去用美国推荐系统。
+</p>
+<p class="transcript-line">
+<span class="time"><strong>[03:02:04]</strong> </span>
+<span class="speaker"><strong>发言人1: </strong></span>
+这也不太可能对吧？对对对，明白。可是关于这一切，我还有最后一个问题，就是关于你的工作，可能稍微有点私人。就是有你有没有一些时刻或者一些情况，或者你能回忆到的一件事儿。在那个时刻那个地点，你会有一种挺骄傲的感觉，就是你会觉得你的工作挺有价值的。
+</p>
+<p class="transcript-line">
+<span class="time"><strong>[03:02:23]</strong> </span>
+<span class="speaker"><strong>发言人1: </strong></span>
+因为我们刚才说了很多非常沉重的事儿。你你就你你在这个相当于社会所有的矛盾综合成了一个漩涡里面，然后你当一个无辜的工程师。但是社会对于推荐算法的看法是就是不依不饶的。所以这听起来像是一个有点沉重的这么一件事情。但是你在你的工作里面有没有一个时刻，你会觉得自己确实是承担了一些责任，并且你你你觉得自己挺棒的。那个东西是什么？
+</p>
+<p class="transcript-line">
+<span class="time"><strong>[03:02:49]</strong> </span>
+<span class="speaker"><strong>发言人3: </strong></span>
+我们就是我曾经负责过一个场景的这个推荐算法我们可能把这个推荐算法效率优化很多，但是更好的说就是这个产品的口碑它非常好。对，就是大家认可这个推荐的是好内容，他们需要的内容。对，然后当然也会有一个积极节点，可能比如说最终公司会觉得这个是做的蛮不错的，然后可能有一个我在那个节点就是会觉得其实我在做一个产品，其实我觉得这个产品对于至少对于机器人用户来说是有社会价值的。对，然后我会觉得应该还是蛮椒的。我觉得推荐给我带来很多快乐的两个层面，一个层面就是说技术的推迭代。因为推荐技术这么多年，技术一直在非常快的迭代，然后我在这个中间参与了很多技术迭代升级，它其实相当于获得了工程师的快乐。
+</p>
+<p class="transcript-line">
+<span class="time"><strong>[03:03:51]</strong> </span>
+<span class="speaker"><strong>发言人3: </strong></span>
+然后另外一个逻辑就是说，就是随着我自己的发展，越来越多的去决定一个产品它能长什么样。中间这个产品满足的是一类文化一类意图。这让我感觉自己在做一些文化产品，这个会让我会感觉我在做一个一件非常难业务的事情，就是说就是就是我们在改变世界。这个非常难用的话，就是你有时候觉得至少我在做的这个事，对于有些人来说他是认可的，然后就是他获得很多的信息和知识。我会觉得特别是说这个产品是我在中间推进的，从0到1做的，而不是只说在技术上做的这个事情对我来说可能意义很大。我觉得可能你们做创业，可能对这一点可能会有一些共鸣，这个没办法太细说那个感觉。
+</p>
+<p class="transcript-line">
+<span class="time"><strong>[03:04:39]</strong> </span>
+<span class="speaker"><strong>发言人3: </strong></span>
+对，就是它很微妙，但也不是一个大喜悦。但是你会知道我在改变一些东西，然后我再做一些事，他不一定对我说经济上有什么回报，但是我会知道我在做一些就是我在改变一些东西。对。
+</p>
+<p class="transcript-line">
+<span class="time"><strong>[03:04:51]</strong> </span>
+<span class="speaker"><strong>发言人1: </strong></span>
+我觉得就是我们我们在生活我们生活在一个多么的cynical的世界里面，以至于人们说我在改变世界这个话是非常羞耻的，说不出口。
+</p>
+<p class="transcript-line">
+<span class="time"><strong>[03:05:00]</strong> </span>
+<span class="speaker"><strong>发言人3: </strong></span>
+难以启齿的。对对对，我觉得十年。
+</p>
+<p class="transcript-line">
+<span class="time"><strong>[03:05:02]</strong> </span>
+<span class="speaker"><strong>发言人2: </strong></span>
+前我们还可以很大胆的说这个话。
+</p>
+<p class="transcript-line">
+<span class="time"><strong>[03:05:05]</strong> </span>
+<span class="speaker"><strong>发言人3: </strong></span>
+还是有点羞耻，对不对？对对对，还有点羞耻对不对？这是正能量羞耻OK行吧？
+</p>
+<p class="transcript-line">
+<span class="time"><strong>[03:05:11]</strong> </span>
+<span class="speaker"><strong>发言人2: </strong></span>
+最后一个问题我问你来吧。对，我们节目每次所有嘉宾都有最后一个问题，就因为我俩的主要工作是在全球给建筑物做建模。那如果今天让你选择一个建筑永久的被保存在互联网上，人们永远都能看见它。即使它消失了，人们也能知道它长什么样，它有有它的故事，你会选择什么建筑？什么都行。我们有说古建筑的，有说现代建筑的，有说自己家的，有说自己宿舍的，什么都可以。
+</p>
+<p class="transcript-line">
+<span class="time"><strong>[03:05:33]</strong> </span>
+<span class="speaker"><strong>发言人3: </strong></span>
+你能说就是为人类留一个建筑是吧？
+</p>
+<p class="transcript-line">
+<span class="time"><strong>[03:05:35]</strong> </span>
+<span class="speaker"><strong>发言人2: </strong></span>
+对，就从你的角度来说，为人类留一个。
+</p>
+<p class="transcript-line">
+<span class="time"><strong>[03:05:37]</strong> </span>
+<span class="speaker"><strong>发言人1: </strong></span>
+而不是从人类角度。你也不管为谁留，就是因为大部分东西是留不下来的。所以你如果你你现在可以有有这个权利，你指定一个地方，我们几个人去给他拍了。那么那个东西是什么？不用管为什么或者什么价值，就是你心里的你想留下的东西就行。
+</p>
+<p class="transcript-line">
+<span class="time"><strong>[03:05:53]</strong> </span>
+<span class="speaker"><strong>发言人3: </strong></span>
+我觉得可能是一就是如果要为什么留下一个东西，我觉得那个可能是一本岩石的书籍，然后里面但是并没有什么内容。对，因为就是我我因为我你的题可能是其他的，可能是我自己想要流程题。但是我自己可能觉得社会的生活，包括咱们的情绪本质还是做一个信息传播，本质是一个信息传播和交流。我想就是人类留下什么，其实没有我我就不是想要跟其他人证明什么，而是说可能我一本书就证明人类存在过有过文明，就OK了，就不是这样，就留住遗产，在那就可以了。然后如果一定要有种标志性的。我觉得可能那本书但不一定什么书，可能就是代表着有这么个东西。可能下一代的人类就下一个物种，他不知道是什么东西，但我觉得OK这就可以了。
+</p>
+<p class="transcript-line">
+<span class="time"><strong>[03:06:49]</strong> </span>
+<span class="speaker"><strong>发言人1: </strong></span>
+就是让它脱离语境和脱离人们可理解它的前置条件。
+</p>
+<p class="transcript-line">
+<span class="time"><strong>[03:06:52]</strong> </span>
+<span class="speaker"><strong>发言人3: </strong></span>
+这个东西就是保存下来，就OK了。对我觉得就是你不用强行升华，就很发财。我觉得也没有什么。
+</p>
+<p class="transcript-line">
+<span class="time"><strong>[03:07:00]</strong> </span>
+<span class="speaker"><strong>发言人2: </strong></span>
+我就觉得聊这个事儿挺好。
+</p>
+<p class="transcript-line">
+<span class="time"><strong>[03:07:01]</strong> </span>
+<span class="speaker"><strong>发言人3: </strong></span>
+我觉得我不知道其他人可能是说一个什么东西。
+</p>
+<p class="transcript-line">
+<span class="time"><strong>[03:07:03]</strong> </span>
+<span class="speaker"><strong>发言人2: </strong></span>
+对，但你这个非常好，我非常喜欢。对，没问题。好好。
+</p>
+<p class="transcript-line">
+<span class="time"><strong>[03:07:07]</strong> </span>
+<span class="speaker"><strong>发言人1: </strong></span>
+这期感谢冯继。
+</p>
+<p class="transcript-line">
+<span class="time"><strong>[03:07:08]</strong> </span>
+<span class="speaker"><strong>发言人3: </strong></span>
+感谢。
+</p>
+<p class="transcript-line">
+<span class="time"><strong>[03:07:09]</strong> </span>
+<span class="speaker"><strong>发言人2: </strong></span>
+这期没少录，可以，好好好挺好。
+</p>]]></content:encoded>
+            <pubDate>Sat, 10 Jan 2026 04:00:00 GMT</pubDate>
+            <guid>69611215e235ea65bc00d10e</guid>
+        </item>
         <item>
             <title>Rum: 从前沿突破到牛马大军，人类挑战癌症的层层战场</title>
             <link>https://www.xiaoyuzhoufm.com/episode/69457cfae0674912edd86097</link>
