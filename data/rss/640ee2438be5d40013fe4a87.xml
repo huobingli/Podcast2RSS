@@ -4,7 +4,662 @@
         <title>硬地骇客</title>
         <link>https://www.xiaoyuzhoufm.com/podcast/640ee2438be5d40013fe4a87</link>
         <description>一起探讨技术、产品和商业之美</description>
-        <lastBuildDate>Tue, 30 Dec 2025 05:01:05 +0800</lastBuildDate>
+        <lastBuildDate>Wed, 14 Jan 2026 04:57:52 +0800</lastBuildDate>
+        <item>
+            <title>EP120 从 Prompt 到 Agent Skills，论 Anthropic 的野心与大模型应用的终极抽象</title>
+            <link>https://www.xiaoyuzhoufm.com/episode/6966778eef1cf272a73de3c8</link>
+            <description>Prompt 工程真的过时了吗？
+Anthropic 用一套看似只是 Markdown 的 Agent Skills，把「怎么用模型」推成了新的行业共识。
+MCP 还没消化完，Skills 就已经被默认成工程标准——
+这是一次真实的工程进化，还是一场被集体接受的抽象迁移？
+本期《硬地骇客》，我们从工程、产品和真实实践出发，拆解 Agent Skills / MCP / Tool Calling 的层级关系，聊聊它们到底解决了什么问题，又没解决什么问题。
+本期你将听到：
+* 为什么 Anthropic 能把 Skills 推成行业默认标准
+* Agent Skills、MCP 和 Tool Calling 的层级关系与作用
+* Skills 如何改变工程化流程，提升模型复用与管理效率
+* Podwise 的实践案例：哪些场景适合用 Skills
+* Skills 会不会成为大模型厂商的“开源阳谋”
+本shownotes由 castwise.ai 制作
+Podwise - Podcast Knowledge at 10x Speed!
+podwise.ai
+Apple Store 下载👉🏻 apps.apple.com
+硬地笔记
+Part 1｜概念解析与本质探讨
+00:04 Anthropic Agent Skills：工程进化还是概念迁移？
+01:31 Anthropic Agent Skills：通过增加抽象层解决问题
+04:31 Agent Skills：从领域知识中抽离业务知识
+Part 2｜技术架构与标准定义
+06:45 Agent Skills、MCP 和 Function Calling 的关系
+10:06 MCP 是 Skill 的一个可选部分
+12:59 Skills：描述模型能做的事情
+17:31 Anthropic 团队擅长定义标准
+19:59 Skills：一种新的低代码开发方式
+Part 3｜实践应用与案例分析
+22:03 Podwise 如何应用 Skills
+25:06 Skills：自动化日常工作
+28:24 Skills 的力度：内化了的技能
+32:06 Skills 的力度：个人工作流倾向于做大
+Part 4｜稳定性、准确率与运行逻辑
+34:44 Agent Skills 不解决确定性问题
+37:07 Agent SDK 提高准确率和命中率
+40:08 Agent 的无规则运行带来更高上限
+Part 5｜行业影响与未来展望
+42:50 Agent Skills 是大模型厂商的阳谋？
+45:09 Skills 像 APP，提供领域知识
+47:55 大模型公司用用户数据训练模型
+50:28 Skills 加速行业工程化进程
+欢迎关注我们
+* 知识星球:t.zsxq.com
+* 官网: hardhacker.com
+* 小手册: book.hardhacker.com
+* 用爱发电不容易，请我们喝咖啡☕️: afdian.net
+* 公众号/小红书: 硬地骇客
+* 商务合作: hardhackerlabs@gmail.com
+* 另外，现在加入「硬地骇客」会员服务，即可在会员专属的微信群与其他朋友一起畅所欲言，成为会员也是对我们持续更新最大的鼓励！</description>
+            <content:encoded><![CDATA[<h1>转写链接</h1>
+<link>https://tongyi.aliyun.com/efficiency/doc/transcripts/klrbn2eby6z8n5zy</link><br>
+<h1>节目摘要</h1>
+<div class="summary">Anthropic公司推出的agent skills概念在AI领域引起了广泛讨论。这种新方法通过标准化文档形式组织AI行为，旨在提升特定任务的执行效率。讨论聚焦于agent skills如何解决prompt工程难题，通过标准化和模块化增强AI应用的规范性和效率。参与者探讨了agent skills对行业可能带来的变革，以及其作为大模型厂商战略的潜力，通过开源社区不断优化AI模型。讨论还涵盖了技能的适用范围、对现有工作流和模型训练的影响。最后，鼓励听众分享见解，强调了社区参与和技术分享的重要性。</div><br>
+<h1>章节速览</h1>
+<div class="chapters">
+<div class="chapter-item">
+<span class="time"><strong>[00:00:00]</strong> </span>
+<span class="chapter-title"><strong>Auto wise助力播客听众打造第二大脑</strong></span>
+<div class="chapter-summary">节目介绍了Auto wise这款AI学习软件，它能对播客内容进行转录、提取、总结分析，与notion read wise等平台打通，帮助用户管理知识。此外，还提供了三个5折优惠码，鼓励听众在小宇宙平台上互动。</div>
+</div>
+<div class="chapter-item">
+<span class="time"><strong>[00:00:46]</strong> </span>
+<span class="chapter-title"><strong>Agent Skills：工程进化还是概念迁移</strong></span>
+<div class="chapter-summary">对话探讨了Anthropic推出的Agent Skills是否代表了工程上的进化或行业概念的迁移。Skill被视为建立在Agenor SDK框架之上的文档化用户接口，降低了非开发者使用Agent的门槛，体现了工程层面的进步，而不仅仅是概念上的创新。</div>
+</div>
+<div class="chapter-item">
+<span class="time"><strong>[00:04:26]</strong> </span>
+<span class="chapter-title"><strong>Agent与Skills：业务知识抽象化的新方法论</strong></span>
+<div class="chapter-summary">讨论了通过将领域业务知识抽象为可复用的skills组件，简化agent的调整与维护，提升了跨领域应用的灵活性与效率，此方法论在实践中被证实有效并形成标准。</div>
+</div>
+<div class="chapter-item">
+<span class="time"><strong>[00:06:44]</strong> </span>
+<span class="chapter-title"><strong>AI技能、MCP与Function Calling关系解析</strong></span>
+<div class="chapter-summary">对话深入探讨了AI领域中agent skills、MCP及function calling三者之间的层级关系。最底层的function calling赋予模型调用外部API的能力，MCP作为标准协议，使模型能发现并使用这些API，而agent skills则位于最上层，不仅包含MCP，还可能集成脚本等工具，指导模型按流程完成任务。三者构成一个从基础能力到高级应用的递进体系。</div>
+</div>
+<div class="chapter-item">
+<span class="time"><strong>[00:10:06]</strong> </span>
+<span class="chapter-title"><strong>MCP与Skills在AI任务执行中的角色解析</strong></span>
+<div class="chapter-summary">讨论了MCP（Model Customization Package）与Skills在AI任务执行中的区别与联系。MCP可视为Skills的可选部分，主要处理模型无法直接完成的重任务，如音频转文字；而Skills则更侧重于描述模型如何执行特定任务，其核心在于指导模型工作。两者虽可完成相似任务，但在概念和使用场景上存在差异，Skills强调过程透明性，而MCP可能隐藏其背后的技能实现。</div>
+</div>
+<div class="chapter-item">
+<span class="time"><strong>[00:14:31]</strong> </span>
+<span class="chapter-title"><strong>大模型能力抽象化：从提示工程到技能标准化</strong></span>
+<div class="chapter-summary">讨论了大模型领域从简单的提示工程发展到更复杂的技能标准化的过程，强调了标准化和工具化对提高模型效率和协作的重要性。通过具体例子，如Anthropic的agent skills和XGBAT的function，解释了如何通过动态加载、渐进加载和标准化的描述来优化模型性能，减轻上下文压力，提升生产效率。</div>
+</div>
+<div class="chapter-item">
+<span class="time"><strong>[00:17:44]</strong> </span>
+<span class="chapter-title"><strong>AI时代的低代码开发趋势与产品思维</strong></span>
+<div class="chapter-summary">对话探讨了AI时代低代码开发方式的重要性，以及中国团队在产品思维上的不足。通过对比国外公司在标准化和概念定义上的优势，如docker的标准化镜像技术，强调了技术层面上升到概念层面对产品市场影响力的关键作用。指出anthropic团队提出的skills概念，旨在通过文档驱动的接口提升用户体验，同时展现了低代码开发平台在智能时代作为第一代码开发平台的趋势。</div>
+</div>
+<div class="chapter-item">
+<span class="time"><strong>[00:21:58]</strong> </span>
+<span class="chapter-title"><strong>技能化抽象与工程化在播客总结中的应用</strong></span>
+<div class="chapter-summary">讨论了将不同类别的播客节目通过封装特定技能进行总结的策略，强调了技能化抽象对提升播客总结质量的作用，尤其是在医疗等专业领域，通过加载相关背景知识的技能，能够更精准地总结内容。同时，指出当前播客总结产品设计的简化哲学，以及在不同领域应用技能化方法的探索方向，尽管目前技能的应用仍相对简单，但为未来复杂操作的实现奠定了基础。</div>
+</div>
+<div class="chapter-item">
+<span class="time"><strong>[00:25:06]</strong> </span>
+<span class="chapter-title"><strong>自动化工具提升团队效率</strong></span>
+<div class="chapter-summary">讨论了通过封装工具和技能，将日常手工流程自动化，以提升团队工作效率，特别是在小团队中实现一人顶十甚至顶百的战斗力，强调了自动化在业务流程、问题排查和内容调试中的应用价值。</div>
+</div>
+<div class="chapter-item">
+<span class="time"><strong>[00:28:24]</strong> </span>
+<span class="chapter-title"><strong>大模型应用中技能切分的艺术与实践</strong></span>
+<div class="chapter-summary">讨论了在大模型应用中，如何合理切分技能以提高效率。提出技能应具有一定的复杂度，需要培训才能掌握，但掌握后可通过简短指令执行。以POD wise为例，建议将投资稿结构化和翻译等业务流程整体视为一个技能，通过训练使大模型能根据简短指令完成任务，无需详细步骤指导。</div>
+</div>
+<div class="chapter-item">
+<span class="time"><strong>[00:32:06]</strong> </span>
+<span class="chapter-title"><strong>AI Agent与Workflow在不确定性与确定性场景中的应用对比</strong></span>
+<div class="chapter-summary">讨论了AI Agent与Workflow在处理高度不确定性运维工作与高度确定性产品流程时的不同策略。强调了在追求稳定性和性价比时，Workflow因其极致稳定性而优于Agent，而Agent在处理复杂、不可预测问题时更显优势。指出在设计Agent Skills时，应根据具体场景需求灵活调整，如同微服务设计般富有艺术性。</div>
+</div>
+<div class="chapter-item">
+<span class="time"><strong>[00:36:29]</strong> </span>
+<span class="chapter-title"><strong>大模型进步与Skills调用成功率关系探讨</strong></span>
+<div class="chapter-summary">对话讨论了大模型进步是否影响Skills调用成功率，指出Skills作为一种抽象形式，其调用成功率受多种因素影响，包括描述清晰度、冲突解决及明确调用方式。虽然大模型进步提高了准确率，但Skills的命中率仍可能因数量增加而下降。对话强调通过优化描述和采用显示调用方式可提升命中率，但无法完全替代Workflow在精准执行方面的优势。</div>
+</div>
+<div class="chapter-item">
+<span class="time"><strong>[00:39:56]</strong> </span>
+<span class="chapter-title"><strong>无规则Agent与模型智能上限的提升</strong></span>
+<div class="chapter-summary">对话探讨了无规则Agent相较于强规则Workflows在智能上限上的优势，强调顶级模型对于驱动完全无规则Agent的重要性，以及当前模型优化正转向提高A级规划推理执行的稳定性。</div>
+</div>
+<div class="chapter-item">
+<span class="time"><strong>[00:43:27]</strong> </span>
+<span class="chapter-title"><strong>大模型厂商利用开源社区构建技能生态的策略探讨</strong></span>
+<div class="chapter-summary">讨论了大模型厂商通过发布agent skills引导开源社区贡献专业领域知识，将其整合至后续产品中的策略，类比于操作系统与应用程序的关系，提出skills可能成为类似APP的个性化工具，存在于技能市场中，供用户选择和优化，从而提升大模型的实用性和用户粘性。</div>
+</div>
+<div class="chapter-item">
+<span class="time"><strong>[00:48:03]</strong> </span>
+<span class="chapter-title"><strong>大模型训练与Skills生态的探讨</strong></span>
+<div class="chapter-summary">讨论了大模型通过用户数据训练的可行性与道德性，以及Skills在AI应用中的作用与未来发展。提到了大模型公司可能利用用户数据训练模型，同时探讨了通过收购专业团队来增强生态的可能性。强调了Skills作为一种组织AI的新方式，加速了行业工程化进程，但其效果提升仍需模型与Prompt优化。</div>
+</div>
+</div><br>
+<h1>问题回顾</h1>
+<div class="qa-item">
+<div class="question"><strong>Q:</strong> Anthropic推出的agent skills是否是一次工程的进化，还是一次大家集体接受的概念迁移？</div>
+<div class="answer"><strong>A:</strong> 我认为这是一次工程的进化。agent skills本质上是一个抽象层，类似于MCP，但它不仅定义了标准协议，还提供了一个基于文档的用户接口（UI），降低了使用门槛，并将领域知识组件化、可复用，通过agenor SDK框架支持动态加载、分层渐进加载等功能，使得调整和复用业务知识变得更为方便和灵活。</div>
+</div>
+<div class="qa-item">
+<div class="question"><strong>Q:</strong> agent skills与MCP的关系是什么？</div>
+<div class="answer"><strong>A:</strong> agent skills、MCP和function calling三个概念层次不同。其中，function calling是最底层，允许模型调用外部API；MCP是一个标准协议，让模型发现并使用这些API获取外部数据或执行代码；而skills则位于最上层，是一个包含MCP的更大集合，它以文档形式描述业务流程和知识，指导模型遵循特定步骤完成任务，并且在需要时可以通过MCP调用API。</div>
+</div>
+<div class="qa-item">
+<div class="question"><strong>Q:</strong> agent skills是否可以包含MCP？</div>
+<div class="answer"><strong>A:</strong> 是的，skills中可以包含MCP和其他工具脚本，这样形成的完整skill不仅能指导模型按照业务流程执行任务，还可以利用MCP中的API进行更复杂的操作，形成一个相互协同的工作流程。</div>
+</div>
+<div class="qa-item">
+<div class="question"><strong>Q:</strong> MCP是否是skill的主体部分？</div>
+<div class="answer"><strong>A:</strong> 不是，MCP是skill的一个可选部分。Skill的本体主要是以前的prompt，但在创建技能时可以选择性地加入MCP，使其具有执行特定任务的能力，如通过外部脚本或服务完成特定功能。</div>
+</div>
+<div class="qa-item">
+<div class="question"><strong>Q:</strong> 可以举一个使用MCP的例子吗？</div>
+<div class="answer"><strong>A:</strong> 当我们需要总结一期播客节目时，可以设计一个技能（skill）来完成这个任务。这个技能可能会包括调用一个名为MCP的服务，该服务负责将音频转录为文本。在技能执行过程中，它会先通过MCP调用转录服务获取组织稿，然后基于此进行关键点总结。</div>
+</div>
+<div class="qa-item">
+<div class="question"><strong>Q:</strong> MCP和技能之间的关系是什么？</div>
+<div class="answer"><strong>A:</strong> 技能在执行复杂任务时，可能会决策并调用外部服务（如MCP）完成其中一些子任务，例如音频转文字。技能描述了模型能做什么的过程，即使背后实现是通过API调用不同的模型或工具，但技能本身是透明的，它专注于定义和指导模型如何实现所需功能。</div>
+</div>
+<div class="qa-item">
+<div class="question"><strong>Q:</strong> 对于技能、MCP以及早期prompt engineering的发展趋势，您怎么看？</div>
+<div class="answer"><strong>A:</strong> 这些抽象概念的出现有助于解决一些问题，比如动态加载和上下文管理。虽然表面上看技能和MCP都是markdown文件，但实际上它们遵循特定的标准和规范，以便于云服务正确识别并按需加载技能以处理自然语言请求。这种标准化和工具化的做法有助于提高生产效率，降低上下文长度压力，从而提升模型的工作效率和效果。</div>
+</div>
+<div class="qa-item">
+<div class="question"><strong>Q:</strong> MCP和技能概念背后的团队有何特点？</div>
+<div class="answer"><strong>A:</strong> 提出MCP和技能概念的团队不仅擅长技术开发，更懂得如何做好产品设计和概念封装。他们能从更广泛的视角思考如何将技术转化为易于理解和复用的产品接口，而这正是中国团队相对较弱的一环。国外团队在这方面往往更加擅长，他们懂得如何将内部技术成果标准化并推广给更广泛的用户群体。</div>
+</div>
+<div class="qa-item">
+<div class="question"><strong>Q:</strong> 在AI智能时代，技能（skills）的提出是否代表了一种新的无代码或低代码的开发方式？</div>
+<div class="answer"><strong>A:</strong> 是的，技能的概念确实反映了在AI时代下的一种新的无代码和低代码开发趋势。对于普通用户来说，他们无需编写复杂的框架型代码就能完成整个过程，通过技能这个概念来驱动和利用底层已实现的功能进行应用构建。</div>
+</div>
+<div class="qa-item">
+<div class="question"><strong>Q:</strong> 使用基于web coding的agent开发工具时，一次成型简单工具的概率有多高？</div>
+<div class="answer"><strong>A:</strong> 使用web coding的agent作为开发工具，一次成型简单工具的概率相对较高，而对于较为复杂的工具，在具备一定web开发能力的基础上，也能在短时间内完成。</div>
+</div>
+<div class="qa-item">
+<div class="question"><strong>Q:</strong> 对于power wise产品而言，其设计理念是否有助于工程化，并能否举出具体实例说明？</div>
+<div class="answer"><strong>A:</strong> power wise产品设计的核心哲学是极度简单，它不涉及人机交互，用户只需获取结果。例如，在处理不同种类播客节目时，可以为特定领域如医疗类创建专门的技能，封装该领域的背景知识，让技能针对这类节目进行个性化总结，从而提升效果。</div>
+</div>
+<div class="qa-item">
+<div class="question"><strong>Q:</strong> 在power wise产品中，如何利用技能来自动化日常工作流程？</div>
+<div class="answer"><strong>A:</strong> 在power wise中，团队成员可以将日常工作中的手工反馈流程自动化，例如通过定义和封装技能来实现从数据库查询数据、查看日志文件到查找代码错误等一系列运维流程的自动化，极大地解放人力并提高效率。</div>
+</div>
+<div class="qa-item">
+<div class="question"><strong>Q:</strong> 关于技能（skill）的大小应该如何界定合适范围？</div>
+<div class="answer"><strong>A:</strong> 界定技能的合适范围是一个艺术性问题，但基本原则是技能应具有一定的复杂度，能够在简单指导下被内化并快速执行。例如，在POD wise中，将整个投资稿结构化作为一个技能，只需通过一句话描述，模型就能理解并按照预设规范完成任务，这就是一个合理的技能力度。</div>
+</div>
+<div class="qa-item">
+<div class="question"><strong>Q:</strong> 对于大模型技能（skill）的应用，您认为是否有必要将每个环节都做成一个独立的skill？</div>
+<div class="answer"><strong>A:</strong> 我认为不一定有必要。如果期望模型能够根据预设的技能去总结、生成大纲或思维导图，并且输出结果符合预期，那么整个结构化过程可以视为一个技能。例如，翻译也可以作为一个技能来训练模型，使其不仅翻译文本，还能输出对照的新结构。</div>
+</div>
+<div class="qa-item">
+<div class="question"><strong>Q:</strong> 在构建技能时，您会倾向于将工作流程做得大一些还是小一些？您对技能与工作流在AI智能应用中的定位有何看法？</div>
+<div class="answer"><strong>A:</strong> 我会根据工作流程的性质和复杂程度来决定。对于像运维工作这样规模大、不确定性强且需要实时响应的工作流程，我会倾向于构建大的、完整的技能；而对于更小范围、可控性较好的工作流程，如AI生成的内容总结，我会倾向于将其拆解为多个小的技能。技能（skill）本质上是agent的一种运行方式，它更倾向于无规则运行，允许AI智能自行决策下一步行动，以突破工作流所固有的智能上限。相较之下，工作流是强规则运行，依赖预设的步骤顺序。随着模型升级，无规则运行的agent智能上限将会更高。</div>
+</div>
+<div class="qa-item">
+<div class="question"><strong>Q:</strong> 您如何看待在追求稳定性和性价比时选择使用agent与workflow？</div>
+<div class="answer"><strong>A:</strong> 在追求稳定性和性价比时，我们需要考虑agent和workflow的不同之处。Workflow通常追求极致稳定性，因为agent可能存在失败率、循环消耗资源等问题。而随着大模型的进步，之前依赖于workflows的部分场景现在可以通过agent skills实现，降低了使用门槛，但并不意味着可以完全替代workflows。在某些情况下，通过精心设计和使用workflows，可以明确阐述流程并提高准确率和命中率。</div>
+</div>
+<div class="qa-item">
+<div class="question"><strong>Q:</strong> 是否因为大模型准确率的提升，导致了对agent使用上的改变？</div>
+<div class="answer"><strong>A:</strong> 不尽然。技能（skill）和agent SDK的存在确实可以提高准确率和命中率，比如通过预加载front matter description等方式。但多技能并用时，的确可能出现命中率下降的问题，这时可通过在自然语言中明确指定技能名或使用斜杠skill name的方式来提高准确性。不过，这并不能解决工作流层面的准确性问题，因为技能本质上是一种抽象形式，无法确保每个步骤都能像工作流那样精确执行。</div>
+</div>
+<div class="qa-item">
+<div class="question"><strong>Q:</strong> 关于这次讨论的进步是否是模型智能的进步，您怎么看？</div>
+<div class="answer"><strong>A:</strong> 我非常倾向于认为模型在进步。虽然有一些最佳实践可以帮助模型执行得更好，但真正推动AI智能特别是agent智能进步的是顶级模型的发展。例如，使用9M2.0或更高级的模型驱动agent时，如果没有顶级模型的支持，很难构建出能够无规则地根据用户意图生成合适结果的agent。</div>
+</div>
+<div class="qa-item">
+<div class="question"><strong>Q:</strong> 您是否认为agent skills可能是大模型厂商的一个策略布局？</div>
+<div class="answer"><strong>A:</strong> 我确实有这样的想法，大模型厂商可能通过发布agent skills引导开源社区贡献专业知识，并在后期将这些内容集成到他们的模型中，以此来增强模型的功能性，例如生成PDF等。这有点像Linux操作系统，其中内核与用户态的结合，未来大模型产品可能会包含许多预装的“skills”，形成类似操作系统的完整生态。</div>
+</div>
+<div class="qa-item">
+<div class="question"><strong>Q:</strong> 那么对于技能（skill）在大模型中的作用，您是如何理解的？</div>
+<div class="answer"><strong>A:</strong> 可以将大模型比作操作系统，而skill则像一个专门执行特定任务的应用程序，它可以提供领域知识和个性化服务，与大模型内置的常识、科学知识等共同作用，解决prompt编写和维护难题，并有助于在上层封装产品，最终惠及终端用户。</div>
+</div>
+<div class="qa-item">
+<div class="question"><strong>Q:</strong> 对于用户贡献的技能数据是否会用于训练下一代模型，有何看法？</div>
+<div class="answer"><strong>A:</strong> 虽然逻辑上这是可行的，但实际操作中，大模型公司是否会利用用户通过技能产生的数据去训练下一代模型，我们并不清楚。因为即使有明确承诺（如付费用户数据不用于训练），我们也无法核实。</div>
+</div>
+<div class="qa-item">
+<div class="question"><strong>Q:</strong> 是否有可能大模型公司会收购外部团队来获取优秀的技能或产品？</div>
+<div class="answer"><strong>A:</strong> 完全有可能，比如OpenAI收购了torch团队，虽然产品尚未发布，但这表明模型公司可能会通过收购具备优秀技能或产品的外部团队，来加速其战略布局和生态建设。</div>
+</div>
+<div class="qa-item">
+<div class="question"><strong>Q:</strong> skills对于组织AI的方式有何重要意义？</div>
+<div class="answer"><strong>A:</strong> skills提供了一种新的组织AI方式，它解决了如何描述问题的问题，但保证效果更好仍需要对模型进行调优和prompt设计。agent skills能够起来的根本原因还是模型能力的提升。同时，skills也有望加速整个行业工程化进程，让AI应用更加规范、高效。</div>
+</div>
+<h1>节目文稿</h1>
+<p class="transcript-line">
+<span class="time"><strong>[00:00:04]</strong> </span>
+<span class="speaker"><strong>发言人1: </strong></span>
+大家好，欢迎收听异地骇客。我是seattle.
+</p>
+<p class="transcript-line">
+<span class="time"><strong>[00:00:07]</strong> </span>
+<span class="speaker"><strong>发言人2: </strong></span>
+我是一笑。
+</p>
+<p class="transcript-line">
+<span class="time"><strong>[00:00:08]</strong> </span>
+<span class="speaker"><strong>发言人3: </strong></span>
+我是龟龟。
+</p>
+<p class="transcript-line">
+<span class="time"><strong>[00:00:09]</strong> </span>
+<span class="speaker"><strong>发言人1: </strong></span>
+本期节目由power wise赞助播出。Auto wise是一款为播客听众制作的AI学习软件产品的slogan是read before listen。Auto wise通过AI对播客内容进行转录提取、总结分析等一系列操作，帮你掰开了揉碎了硬核的播客内容。同时与notion read wise等平台的打通，嵌入知识管理工作流，协助您的其他包括新闻news letter blog的内容，帮你打造第二大脑。Hot wise也为本期听众准备了三个5折优惠码，针对本期在小宇宙与我们互动的精选回复，欢迎大家踊跃来玩。
+</p>
+<p class="transcript-line">
+<span class="time"><strong>[00:00:46]</strong> </span>
+<span class="speaker"><strong>发言人1: </strong></span>
+好的，开始我们本期的节目。说到anthropic，在编程这个领域它一直都是王者级的选手。Class code到今天基本上已经成为行业标杆了。但除了把模型做大做强之外，SO pic其实还特别擅长另外一件事儿，就是他把怎么用模型这件事儿，能把自己的方法论推成行业共识。其实MCP我们还没怎么消化完，它现在又推出了一个新的叫agent skills。现在各大编程的工具已经把它默认成了一个标准，好像只要SO pic一开口，大家就默认了说这个就是正确的图像。那我们今天就来认真聊聊这个agent skills，到底是一次工程的进化，还是一次大家集体接受的一次概念迁移。我不知道你们怎么看。
+</p>
+<p class="transcript-line">
+<span class="time"><strong>[00:01:31]</strong> </span>
+<span class="speaker"><strong>发言人2: </strong></span>
+我觉得提到anthropic，确实这家公司我还是挺佩服他们的。在计算机领域其实有一句名言是这样说的，有任何问题你都可以通过增加一层抽象来解决。当然除了抽象层数过多这个问题以外，你都可以通过增加一个抽象层来解决。
+</p>
+<p class="transcript-line">
+<span class="time"><strong>[00:01:52]</strong> </span>
+<span class="speaker"><strong>发言人2: </strong></span>
+Anthropic这家公司其实是深谙此道的，就像刚才我们sto提到的，像什么MCP都是一个抽象层，抽象的一个标准层对吧？那今天其实scars这一层，它本质上也是一个抽象层。就我们去看skills，其实我第一次去学习skills的时候，其实我是脑子里一下都会闪过其他的一些框架。比如像什么long china long graph，还有等等其他的一些reiner框架。然后去和他们去对比的话，我自己会认为这是一次工程的进化。
+</p>
+<p class="transcript-line">
+<span class="time"><strong>[00:02:31]</strong> </span>
+<span class="speaker"><strong>发言人2: </strong></span>
+为什么这么说？就skills它不像MCP只是定义了一个标准协议。其实本质上skills它的底层其实是有一个long time的框架的，你可以这样理解。然后在cloudy还有一个叫agenor SDK的这样的一个框架，一个工具开发工具集。那这一层我们可以把它理解成，它几乎是等同于像long圈，long glove这些帮你去完成。那如何去通过开发，通过代码去构建一个a gentle这样的一个框架层。所以其实他们一定是先有了这样的一个框架层，给开发者用的这样的一个框架层。
+</p>
+<p class="transcript-line">
+<span class="time"><strong>[00:03:11]</strong> </span>
+<span class="speaker"><strong>发言人2: </strong></span>
+然后才会发现说，除了给开发者用，那我们能不能让一些非开发者或者说没那么喜欢写代码的，或者说希望用一种更低的代码的方式低代码的方式去使用这样的一个agenda。可以去自定义这样的agent的能力的方式。所以说那就去剔除skills这样的一个定义，对吧？就是定义一堆文件的方式。对，所以看到skills它其实是架构在高的agenor这样的一个SDK这样的一个框架之上的对所以说我们可以把agenor SDK这个框架，把它理解成是一个runtime，是一个真正的运行时。
+</p>
+<p class="transcript-line">
+<span class="time"><strong>[00:03:54]</strong> </span>
+<span class="speaker"><strong>发言人2: </strong></span>
+就像我们所有的开发语言一样，skills这个东西它是一个什么东西？它其实就是是一个基于文档的user interface。对它其实定义的是一个完全是靠文档来表达的这样的一个用户接口。这样的话，这个门槛其实就会比直接通过代码的方式去调用agents，去执行agent的其实要简单很多很多。这个门槛要低很多很多的。所以说我觉得这更多的还是一次工程的进化。它不只是说是一个概念，是一个噱头的。
+</p>
+<p class="transcript-line">
+<span class="time"><strong>[00:04:27]</strong> </span>
+<span class="speaker"><strong>发言人3: </strong></span>
+我之前看到throb c的一个公开说法，好像是说行业不需要再去搞一大堆新的agent了，而只需要少量的核心agent然后再给他们挂上不同的skills就可以满足需求。我去想了一下，我理解这样好像确实是更舒服一点。因为agent本身出现的目的就是为了领域特化。但是agent其实它有点重，就是他不光是说我在里面塞了一些领域业务知识。以前这些领域业务知识他可能是通过system report带进去的那除了这些之外，它其实还会有一些比较重的时间。比如说我去跟不同领域的这个MCP，去跟他这个系统的API对接，他还不一定是通过MCP，它可能是硬编码的。然后还有一些说，我运行在不同的环境里面，或者说我在权限上会有不同的控制，包括我的memory的这个结构可能也会不一样之类的。他除了领域业务知识之外，他还会有这些乱七八糟的东西。
+</p>
+<p class="transcript-line">
+<span class="time"><strong>[00:05:24]</strong> </span>
+<span class="speaker"><strong>发言人3: </strong></span>
+那这个时候实际上你说，我要去调整一下领域业务知识，或者说其实别的东西都差不多。但是我想要去做一些这个业务领域里面的子的事情的时候，我要去搞这个agent其实是比较麻烦的那也不好改，也不好维护，也不好复用，这些都是问题。但实际上skills这个概念其实就把领域知识这部分，对业务知识这部分单独抽了出来，变成了一个比较方便修改和复用的一个能力包。
+</p>
+<p class="transcript-line">
+<span class="time"><strong>[00:05:50]</strong> </span>
+<span class="speaker"><strong>发言人3: </strong></span>
+就是一教授的增加了一层抽象它就是变成了等于说agent变成了一个runtime，具体怎么工作就交给了skills。Skills其实提供了一个工作手册来做这个事情，当然以前我们其实是也可以把这个业务知识，比如说SOP什么的写在prompt里面去给agent让他照着做。但skills把这部分就变成了一个稳定可复用的组件。然后基于这个SDK提供的标准，其实它还提供了一些比如说发现动态加载，分层渐进加载之类的能力。其实真实使用起来就会比说我每次都要把我的这个业务知识copy到这个process里面去就会方便非常多理解。这其实也是一种说我在实践中摸索出来的这个方法论，然后发现它确实是有效的，所以沉淀成了一个标准，是这么做出来的对。
+</p>
+<p class="transcript-line">
+<span class="time"><strong>[00:06:45]</strong> </span>
+<span class="speaker"><strong>发言人1: </strong></span>
+我觉得反正这些实践挺多的。他上次搞的那个MCP概念，我还没搞明白，这突然又来一个agent skills。我想问一下你们agent skills跟MCP它是个什么关系？还有一个我们以前不是还在讲说ChatGPT，它提出了一个东西叫function calling，对吧？还是叫什么to call，还有一个这玩意儿就是这个又是个啥关系？能不能给我先科普一下这三个到底是啥关系？
+</p>
+<p class="transcript-line">
+<span class="time"><strong>[00:07:09]</strong> </span>
+<span class="speaker"><strong>发言人3: </strong></span>
+在我的理解里，他们三个不能说完全没关系，但是确实是三个层次上的东西。就是这个function call或者说什么call。Calling的这个东西它是在最底下的，它本身是说我给模型提供了一个调用外部API的能力，然后再往上才有了说MCP。MCP我们可以认为它是一个标准协议，来把一套外部的API暴露给模型去发现，让模型知道说我有这些API是可以用的，在这个场景下我可以用这个API去获取一些外部的数据，或者说去去执行外部的一些代码。
+</p>
+<p class="transcript-line">
+<span class="time"><strong>[00:07:42]</strong> </span>
+<span class="speaker"><strong>发言人3: </strong></span>
+然后再往上才是skills。Skills的主体它其实是纯业务流程和知识，因为它就是个文档，对吧？它是个markdown。这里面其实描述的是说告诉我模型怎么来完成一个完整任务的过程。可能step by step的说我先干什么再干什么，或者说我在干一些事情的时候，我应该遵循一些什么样的标准。它其实是纯业务流程的知识。在这个过程里面，模型去follow这个skills里面给的这个业务支持的时候，他仍然可以去通过MCP去发现API，再通过这个方形call去调用API。所以它其实是三个层次的。
+</p>
+<p class="transcript-line">
+<span class="time"><strong>[00:08:17]</strong> </span>
+<span class="speaker"><strong>发言人3: </strong></span>
+没有skills的话，其实模型也可以自由发挥去完成一个任务。你让他去做一件事儿，那有skills的时候他可能会遵循skills的这个流程去做。没有的时候他就根据自己的理解，他也会去做plan，对吧？现在的模型他也会去做plan，他也会去生成一个计划表to do list，然后一步一步去做。他也会去做，他也会去用MCP。但叶子就相当于说你手把手教模型应该先干什么再干什么，怎么干。其实我在看那个skills的这个文档一些实现的时候，如果我没理解错的话，实际上一个skills里面也是可以包含MCP的，还可以包含一些别的东西，比如说单独的脚本之类的那这样才能让一个skill是完整的。就是我skill要去做试的时候，我可以带着一个MCP给到模型说安娜你做这件事情的时候，你就可以用到这个MCP里面的这个API。
+</p>
+<p class="transcript-line">
+<span class="time"><strong>[00:09:08]</strong> </span>
+<span class="speaker"><strong>发言人2: </strong></span>
+对，skills它确实它不简单说就是一个club的，只是一个MD的文档，然后里面去描述我平时像写prom这样干这件事情要怎么怎么干。实际上就像刚才各位说的，他确实他可能里面还会加载很多很多的工具脚本。你可以在本地写了很多的拜师脚本是吧？写有脚本，那个脚本可能是干什么什么什么事情的，这些东西都可以注入到skills里面，最终去调用。这样才是一个完整的东西，这是skills的一个完整的定义。我总结一下他们三者的关系的话，就是skills的。可以理解就是在最上层就是一个更大的集合，它里面是包含MCP的，它可以调用MCP，MCP里面的一个子能力可能是tor calling，但MCP还可以干其他的事情，管理一些什么数据，乱七八糟的对所以说就是这样的一个包含关系。
+</p>
+<p class="transcript-line">
+<span class="time"><strong>[00:10:07]</strong> </span>
+<span class="speaker"><strong>发言人1: </strong></span>
+那是不是可以这么理解，在以前没有skills的时候，大家看到那些MCP的那些收录的网站里面收录的很多MCP，它可能是一个skills。可能大家的这个抽象概念在没有skills的时候，大家没办法就只能把它所有的东西都变成MCP.
+</p>
+<p class="transcript-line">
+<span class="time"><strong>[00:10:21]</strong> </span>
+<span class="speaker"><strong>发言人3: </strong></span>
+是这个逻辑吗？我觉得严格来说不能这么说，就是我可以说MCP它是skill的一个可选部分，但skill的本体其实还是以前的那些prompt。他可能比如说我今天分享出来一个我说我干一个什么事儿的非常有效的program ort，但是今天我们可以把它抽象成一个skills，只不过这个skills它其实也是有一些规范的。比如说他有这个front matter的meter data。他在写这个skills的时候，他需要说按照他的L1L2的结构去写。但是本质上它还是一个去指导模型怎么去工作的一个pro m port，只不过在这个里面我可以可选的加入一些能够让我这个prom pod执行下去的一些外部能力。就比如说我加了MCP，加了一个可执行脚本，加了一些别的子的流程马克堂文件在里面，其实是可以这么加进去的，所以我我我认为就是MCB它可以是它的一个可选部分，但是它主体并不是这个MCP。对。
+</p>
+<p class="transcript-line">
+<span class="time"><strong>[00:11:27]</strong> </span>
+<span class="speaker"><strong>发言人2: </strong></span>
+那我举一个例子，我觉得举一个我们自己的例子，比如说像在pot White里面，假设用pot wise这种假设。现在有一期播客节目，就是我们这一期播客节目。我说我需要给他总结一下他的take away或者他的关键点有哪些。就说我可能希望有一个skills帮我干这件事儿，就是总结我们这期播客节目。
+</p>
+<p class="transcript-line">
+<span class="time"><strong>[00:11:46]</strong> </span>
+<span class="speaker"><strong>发言人2: </strong></span>
+但是你会发现总结这些播客节目有一个很大的问题。你得先拿到组织稿，拿到transcribe对吧？那这个transcript这件事情它相对来说就比较重，可能现在大模型它都搞不定。那这个时候我们可能说，我们刚好有一个transfer的服务。那我能不能把这个服务给它包装成一个工具，包装成一个稀有脚本。那个稀有脚本本身是把一个博客的链接发送给这个transact服务。然后他最后给你返回一堆文字，返回做trance这个工具就返回了。对，然后这个时候这个scare的这个prompt，它可能就可以开始去总结它的关键点了。
+</p>
+<p class="transcript-line">
+<span class="time"><strong>[00:12:27]</strong> </span>
+<span class="speaker"><strong>发言人2: </strong></span>
+所以说我在这里就是需要把转入组织稿音频转文字这件事情要给它封装成一个MCP，或者说封装成一个其他的工具。这个时候skills在完成总结这个任务的时过程当中，他会自己去决策，我需要去调用这个转入服务的MCP，转录完成过后才开始做接下来我们大家都理解的这个总结ARV这些事情。所以说他其实是这样的一个关系。
+</p>
+<p class="transcript-line">
+<span class="time"><strong>[00:12:59]</strong> </span>
+<span class="speaker"><strong>发言人2: </strong></span>
+所以说你可以理解有很多很多外部的任务，一些外部的任务，那些任务可能都是比较重的，或者说都是大模型他自己的无法完成的一些任务。我们可能就通过一些API，通过一些工具挤压这些方式去做这件事儿。大模型自己去使用这些工具就完事儿了。
+</p>
+<p class="transcript-line">
+<span class="time"><strong>[00:13:19]</strong> </span>
+<span class="speaker"><strong>发言人3: </strong></span>
+我想稍微展开一下，可能让大家比较好理解。就是我们确实可以提供一个MCP来直接完成从音频到总结的这么一个过程，对吧？因为我出逐字稿，然后我出summary，然后我去出一些结构化的数据，我是可以直接提供一个MCP来干干这个事儿的。但是这个MCP背后其实是一个API，这个API背后有不同的模型一起完成了这件事情。但今天我们也可以有一个skills，我把拿逐字稿这件事情通过MCP完成，但是我把总结这件事情在我自己的模型这边完成。
+</p>
+<p class="transcript-line">
+<span class="time"><strong>[00:13:54]</strong> </span>
+<span class="speaker"><strong>发言人2: </strong></span>
+就是没错。对。
+</p>
+<p class="transcript-line">
+<span class="time"><strong>[00:13:55]</strong> </span>
+<span class="speaker"><strong>发言人3: </strong></span>
+这个skills其实是去描述你模型能做这些事情的过程。以前我从MCP，虽然一个MCP可以是那个力度的，他可以做同一件事情。但是实际上他是把这件事情托管给了MCP背后的那个模型去做。你可以说我这个MCP背后的模型，它可能在API背后也隐藏着一个skill，去做这个事情你是不知道的，但是今天skills其实它是让自己的模型做这个事情你是知道的，它是透明的对，他是描述了一模型能做的事情，所以它确实可以一个skill可以和一个MCP做同样的事情，但是他概念上确实是不一样的。对。
+</p>
+<p class="transcript-line">
+<span class="time"><strong>[00:14:32]</strong> </span>
+<span class="speaker"><strong>发言人1: </strong></span>
+其实刚才哥哥也提到了一点，就是我们最早以前其实没有这些概念的时候，其实都是prompt engineering，反正就是大模型加提示词。那提示词到底怎么组织什么东西的，其实可能大家没有概念，对吧？那到现在anthropic它有了agent skills，然后有了MCP？还有之前的XGBAT的function，就这些乱七八糟的这些逻辑出来了。我看之前就有人吐槽说说其实这些都是一堆markdown文件，你搞这么多概念干嘛？你们怎么看这种发展趋势？
+</p>
+<p class="transcript-line">
+<span class="time"><strong>[00:15:05]</strong> </span>
+<span class="speaker"><strong>发言人3: </strong></span>
+其实就像一笑说的，多一层抽象解决一些问题，乍一眼看这个skills的主体，它确实就是一个markdown文件。但实际上人家是有要求的对吧？人家其实是有标准和规范在里面的那比如说它的这个front matter的这个meta data，他要求你去写description，这个description是非常重要的，就是它是能够让cloudy，它的这个agent SDK能够去正确的找到说当你一个自然语言描述进来一个需求的时候，我应该用哪个skill去处理。那这个就做到了动态加载的能力，就不是说我要把一大堆的业务流程通过一个巨大的Brown pod灌进去，对吧？那对于上下文，对于整个指令的遵循度来说，其实都是有帮助的。因为你减少了上下文长度，你只是按需的去加载。对，所以其实他他会在他的这个trouble shooting里面有提到说，你一定要把这个describing写清楚，区分度写高。这个其实是一个非常重要的事情。
+</p>
+<p class="transcript-line">
+<span class="time"><strong>[00:16:05]</strong> </span>
+<span class="speaker"><strong>发言人3: </strong></span>
+通过这种抽象的标准，它其实就提供了自动发现和动态加载的，那它就方便管理和复用，对吧？那它其实还提供了渐进加载的能力。因为单个skill文件夹里面，其实除了主要的MD文件之外，它可以去包含额外的脚本以及资源，或者说一些子的说明文档，比如说去说明我要去填写的这个form的结构是什么，或者说我要去做一个子流程的时候，这个子流程应该是step by step是怎么做的。这些都只会在说我真正要去用到的时候才会读取。
+</p>
+<p class="transcript-line">
+<span class="time"><strong>[00:16:38]</strong> </span>
+<span class="speaker"><strong>发言人3: </strong></span>
+这其实也能缓解上下文长度压力，因为我们知道其实很多时候你模型效果不佳，可能就是上下文太长了。他可能执行了几个轮回之后，他超过整个上下文窗口了之后，他开始会遗忘。那如果你能去缓解这个上下文窗口压力，除了解放用户输入print pot的这个繁琐动作之外，也能够帮助模型去更好的工作。所以它其实本质上是做了一个工具化和标准化的一个事情。
+</p>
+<p class="transcript-line">
+<span class="time"><strong>[00:17:03]</strong> </span>
+<span class="speaker"><strong>发言人3: </strong></span>
+然后工具化和标准化我觉得是提高生产效率的一个必然方式，对吧？你工业化其实就是要去做标准化，你才能够让整个大家的效率，不管是协作也好，还是他跑的这个效率也好去提高。做标准化你肯定需要一个概念去承接。至于它叫skills还是叫其他名字，其实都不重要，只要它能让模型干活更高效，产出质量更高，让人的负担更小，让人去更少的介入，那我觉得就是一个好东西。今天来看的话，skill确实是，反正目前从概念上，因为我们其实还没有深度的去使用它它出来也没太太久。对，但是我们从这个理解上，我觉得他确实是能够做到这些事情的对，是一个比较好的抽象。
+</p>
+<p class="transcript-line">
+<span class="time"><strong>[00:17:45]</strong> </span>
+<span class="speaker"><strong>发言人2: </strong></span>
+对我想先聊另外一个点，就是聊吐槽这个点。其实真的确实有挺多工程师或者开发者看到这种概念就喜欢吐槽，也觉得这个东西可能就是一堆markdown的文档。但是我今天的看法就觉得啥呢？我觉得这种他能提出skills，提出MCP这些概念，我们就当它是一个概念。能提出这些概念的团队或者人我觉得他们真的是除了会做工厂以外，他们是真的会做产品的。大家能理解这个东西吗？就是能定义这些东西的那些团队，他们是真的会做产品。他们可能是真的在思考产品这件事情，而不只是一个技术性的问题。
+</p>
+<p class="transcript-line">
+<span class="time"><strong>[00:18:26]</strong> </span>
+<span class="speaker"><strong>发言人2: </strong></span>
+其实放到我们中国团队，其实不太擅长干这件事儿。我们不太擅长命名这件事儿，不太擅长去定义一个标准。对你可能做了一件很牛逼的技术，但是你最终放出来的还是那个技术本身。其实我们不太会去思考说这个技术能不能往上面再稍微走一步。这一步可能刚好是一个一个概念层，一个封装层。就可以让在市场上那种出圈、跨界，或者说被更多的人知道接受就会更好的。我觉得这一点其实是一个很重要的一个东西。其实国外的人很多公司他们都非常擅长这些定标准的。乱七八糟的对，这个让我想起其实啥呢？比如说像docker这件事情。
+</p>
+<p class="transcript-line">
+<span class="time"><strong>[00:19:10]</strong> </span>
+<span class="speaker"><strong>发言人2: </strong></span>
+在很多年前，其实阿里我们在阿里的时候，在docker没出来之前，其实大家都在搞容器化技术这件事儿了，已经都搞得风生水起，并且都搞到生产环境。对。但是，大家没有去定义这个标准，没有去定义那个时候其实在阿里都已经在做了image，就是docker镜像这件事儿。只是说不是用这种标准化的方式去做，而是自己随便写一段代码，比较土的方式能做出镜像。对，但是没有想到过这个东西它可以标准化，可以抽象成一个可以发布出来，让所有的公司人都可以用的东西。你知道吧？就是说大家其实技术层面都实现了，都是那样实现的。我觉得这次确实是中国公司和海外的很多很多的团队在思考这种产品的层面，是在特别就是技术型的产品层面是有很大的差距的对那回到这个问题本身，普通用户可能去接触到的就是一对marker当文档。
+</p>
+<p class="transcript-line">
+<span class="time"><strong>[00:20:05]</strong> </span>
+<span class="speaker"><strong>发言人2: </strong></span>
+我想说的是，这就是那个anthropic团队想要达成的目的。他就是想让普通用户只接触到一堆文档。可能人家设计的意图就是说我交给用户的接口就是以文档的方式来驱动的这种接口。因为它本质是先有了一套技术，对吧？我们前面介绍过，skills它本身底层在驱动的是有一个框架层，对吧？可能人家有cloudy agents SDK这样的框架层，这个是给开发者用的那他们就向前面走了一步，觉得说光给开发者用可能还不够友好，是吧？
+</p>
+<p class="transcript-line">
+<span class="time"><strong>[00:20:37]</strong> </span>
+<span class="speaker"><strong>发言人2: </strong></span>
+我们最好定义另外的一套用户的接口，来给普通的用户去使用。所以说才有了靠文档的方式来驱动的skills的这个概念的出来。所以说我们要看到的是，它不单纯真的只是一堆文件。因为那个cloudy agent LSDK，它里面其实要做很多很多的事情，对吧？要做整个的推理规划执行力，要涉及到很多MCP，或者其他的普洱的调用的管理等等等等。这些东西其实都是已经在框架层，在long time层已经实现完了。
+</p>
+<p class="transcript-line">
+<span class="time"><strong>[00:21:10]</strong> </span>
+<span class="speaker"><strong>发言人2: </strong></span>
+对所以说我想说的是，对普通用户来说，单纯靠自己去写prompt，要能够完成整个过程，自己不去开发这样的一个框架型的代码，我觉得还是真的是玩不转这样的一个东西的。对我觉得skill的这个提出来，我看到的我觉得是另外一个很好的一个趋势。这个东西感觉真的是在AI这种智能时代过后，它是一种新的这种无代码和这种低代码的开发的方式。对我觉得至少今天我看到的在这种轻应用的方向，用scare的这种开发确实达成了低代码。也不说无代码，我觉得这也算是一种很低的代码。但是因为里面可能有时候还会去写个封装一个简单的脚本之类的。但我觉得这种开发方式，我会把它称为是这个时代的第一代码开发平台。对。
+</p>
+<p class="transcript-line">
+<span class="time"><strong>[00:21:59]</strong> </span>
+<span class="speaker"><strong>发言人1: </strong></span>
+确实现在用web coding的agent然后去做工具，一次成型的概率其实还蛮高的。如果你只是一个简单工具，如果你是复杂工具的话，其实你自己web个几天也能出得来。对，确实你把它叫做无代码，低代码其实也是OK的。甚至你都不需要干什么，你让他帮你干都可以。对你甚至不需要有那个工具，他也能帮你干得出来。这个确实是一个挺挺大的一个变化。我们回过头来聊聊自己，就是对于power wise来说，因为我们其实也是从prompt engineer过来的，我们也是各种各样的prompt的去组织去抽象出来的对那现在的这个skills这个概念出来之后，就它这个抽象对于我们的工程化有没有什么帮助？我们可以从自己的实践来给大家分享一下。
+</p>
+<p class="transcript-line">
+<span class="time"><strong>[00:22:46]</strong> </span>
+<span class="speaker"><strong>发言人2: </strong></span>
+这确实是我一直在思考的一个问题。我觉得put wise今天其实在设计这个产品的时候，它有一个哲学就是极度的简单。它的核心功能其实是没有人机交互的这人其实是不需要参与播客总结的过程的对，我们只需要获取结果。所以说这种无人机交互，其实它是就没有人的个性化在里面，就不需要去处理用户的意图。所以说其实整个产品简单，其实相对来说它的流程也是偏简单的对所以今天的pod wise的这种核心的主流程，其实workflows加point目前就是我们的最优解。
+</p>
+<p class="transcript-line">
+<span class="time"><strong>[00:23:27]</strong> </span>
+<span class="speaker"><strong>发言人2: </strong></span>
+就从可控性，成本就这些方面去综合的话，但是其实我们在某些方面可以做得更好。比如说我觉得我们之前就在思考的有，我们可以将不同种类的播客的节目，能不能用不同的背景知识的方式去总结它。比如搞医疗？那和AI科技的那我相信他们在领域上是有非常大的差别的。我们完全不需要用一种板去总结所有的播客的节目。在这个情况下，我们就可以比如针对医疗类的播客的节目，我们可以给它封装一个skill。这个scale里面其实是专门用来处理这一类的节目。这个skill它就可可以去加载很多医疗相关的背景的一些知识。
+</p>
+<p class="transcript-line">
+<span class="time"><strong>[00:24:20]</strong> </span>
+<span class="speaker"><strong>发言人2: </strong></span>
+当然可能不需要了，因为是总结，可能他也不需要那么丰富复杂的知识。那只是把这个领域的一些关键点，这些一些关键名词，这些可能就会让总结的话会更好一点，一些关键人物之类的对，那这样的话，我们最后再去执行的时候，就可以做到让不同的博客用使用不同的skill去做这件事情。我觉得这反正是一个可以去提升，可以去探索的一个方向。但是这个方向其实可以看得出来，他的那种真正要发挥一个skill很复杂的动作。比如说我要看可以处理很多很多问外部的操作，这些其实都是没有的。所以说它其实相对来说还是一个比较简单的skill。
+</p>
+<p class="transcript-line">
+<span class="time"><strong>[00:25:06]</strong> </span>
+<span class="speaker"><strong>发言人2: </strong></span>
+在put wise上，我觉得还有另外一个方向，不单纯是说是产品的业务流程。比如说今天我们其实因为我们是小团队，我们每个人其实都要去处理问题，要去运营运维这个port wise。其实我最近就在想，我每天可能有时候看到哪儿出了个错，我可能就要去查问题。那我查问题的流程是怎么样的？我可能要到服务器上看一下日志，然后要到数据库里面去看一下那条数据的原数据长什么样子，然后又在那些代码上去去找一下。大概就是这三个方向，三个地方你可能都要去人肉去拔一下。
+</p>
+<p class="transcript-line">
+<span class="time"><strong>[00:25:46]</strong> </span>
+<span class="speaker"><strong>发言人2: </strong></span>
+其实如果我有能用scare这种方式去定义一个我自己的A检查的话，那它就变成啥样子。我会把如何去数据库里面去查找原数据封装成一个工具。能够去日志文件里面去APP如何去查看日志，也给它封装成一个工具。然后把整个流程写成一个skill，我遇到什么问题，我能不能把这个问题就描述给他他就根据我指导的流程，然后去巴拉巴拉把数据库查看一遍，把日志查看一遍。根据这些数据最后再到代码里面去看一遍，说不定就定位到大概你是什么问题，或者给我解释一下出现这个原因是怎么样的。对我觉得这就能够极大的解放个人的经历了，这就是完全是一个全自动化的一个流程。
+</p>
+<p class="transcript-line">
+<span class="time"><strong>[00:26:34]</strong> </span>
+<span class="speaker"><strong>发言人2: </strong></span>
+所以我觉得这个是特别好的，我觉得很多团队都需要，特别是大型团队，或者说一些更复杂的项目的团队。还有另外一个点，其实你会发现就是我们能用scale来实现的，都是不断的去想办法把我们日常工作里面手工反馈做的那些事情给它自动化掉。我其实平时还有一个手工，在pod wifi上还有一个很手工的问题。就是我可能过段时间就会发现说在某个博客，在某些节目上的总结效果达不到。我自己一眼看它的质量就很差，就达不到那种效果。
+</p>
+<p class="transcript-line">
+<span class="time"><strong>[00:27:07]</strong> </span>
+<span class="speaker"><strong>发言人2: </strong></span>
+我就会拿着那个播客的数据，然后去调某个环节的prompt。首先拿到那个数据，然后再拿到那个product，然后不断的去调试，这个过程本身就是一个很繁琐的事情。对，要去组织数据，自己手工去组织数据的格式，最终那就把prob的表，可能我给他粘到没来的AS dude里面，在那里面去反复去调试调试，调试好了再把prob的复制回来。其实这个过程它也挺麻烦的那我如果也可以用一个scare去封装的话，我可以让这个scale经常去去拿到某个博客的数据，它就自动的能够去帮我去完成这个过程。我会指导他说你要这样去调试是什么东西，你最后给我输出一个看上去是不是更好的prompt给我。对我觉得这些流程都是值得去提升的那当然其实我想说的一个更关键点是啥呢？我觉得特别是对于小团队，如果团队里的每个人围绕自己团队的这些手动自动化的工作，大家都能够今天借用这些skills也好，或者其他的一些AI工具，让他完全的AI化，达到真正的自动化。那我觉得真的团队是可以做到真正的以一顶十，甚至顶白的这种战斗力的团队的对。
+</p>
+<p class="transcript-line">
+<span class="time"><strong>[00:28:25]</strong> </span>
+<span class="speaker"><strong>发言人1: </strong></span>
+我觉得一笑刚才有讲一个如果podder lize去利用skills的话会怎么用？他有讲说把博客节目按照不同的类型然后去做总结做skills，当然这是一种抽象方式。我今天我其实也想跟大家聊一下，就是一个比较艺术的问题，一个skills到底应该有多大？因为throp c其实给了一些示例，我自己体感上感觉都是中等力度，但是其实也没有标准，而且可能也总结不出来到底这个中等力度是一个什么力度，什么力度应该是合适的力度。这个问题也就非常的艺术。如果我们不谈这个很艺术的问题，我们就当下去聊powder wise。你们觉得说powder wise如果去应用skills的话，它应该怎么切分比较合适？我们拿自己开个刀给大家举个例，当然我们现在也没有应用过，我们只是说如果我们要应用的话，我们可能会怎么办。
+</p>
+<p class="transcript-line">
+<span class="time"><strong>[00:29:16]</strong> </span>
+<span class="speaker"><strong>发言人3: </strong></span>
+我看到过一个说法，其实包括这个anthropic他自己的指导思想，他是肯定不建议你这个skills太细的那我看到那个说法是怎么说呢？就是说这件事儿你能叫出来名字，但是你要让别人去干的时候，他如果是个新人，你可能得给培训他一下午。他不能是说我一句话就能讲清楚，即使你没干过你也能干。但是我一句话能告诉你，然后你知道说这个事情要这么干，是因为我给你培训过你才能干。他确实是个技能。但是当这个人掌握了这个技能之后，我只要很简单的跟他说一句话，他就能做，这就是一个比较合理的skill。它确实我觉得挺匹配这个名字的，就是它是一个被内化了的技能，你能很简单的描述它，但是它确实是有复杂度的，你需要去教人家。
+</p>
+<p class="transcript-line">
+<span class="time"><strong>[00:30:06]</strong> </span>
+<span class="speaker"><strong>发言人3: </strong></span>
+比如说他自己举的这个几个例子，他内化的一些都是办公的，对吧？PPT word、PDF，他的那几个skills都是这个。那你如果去拿他这个去套的话，就是你把这个什么东西做成一个PDF，做成一个PPT，或者说你去分析一下这个excel里面的数据，这是一句话。但是背后说到底怎么去做这个PPT，你对这个PPT有什么要求，或者说这个excel怎么去分析数据是合理的。你可能是需要去交给那个人，你或者说它更小白点，你甚至连怎么打开它，怎么编辑它都要去教他，那它就是一个合适的skill。
+</p>
+<p class="transcript-line">
+<span class="time"><strong>[00:30:43]</strong> </span>
+<span class="speaker"><strong>发言人3: </strong></span>
+它就通过这个skill变成了说我只需要跟大模型说一句话，我不需要把详细的我也我对他的要求，我对他的这个规范，对它步骤的一步步的都交给他。我就只需要去说一句话，然后他就可以把它做掉了，这就是一个合理的skill的力度。如果说从这个力度来看，我认为POD wise中对整个投资稿的结构化其实都可以是一个skill。
+</p>
+<p class="transcript-line">
+<span class="time"><strong>[00:31:08]</strong> </span>
+<span class="speaker"><strong>发言人3: </strong></span>
+当然你说我把单独的抽出来，每一个环节做一个skill可不可以？我觉得也可以，但是不一定有必要。我自己的理解是不一定有必要。你去想象它，就变成说我对这个大模型说，你把这个节目用总结的skill去总结一下。那我对他的期望，它就是会产出我所有要求的summary也好，outlines也好，mad map也好，他就都会产出出来，而且符合我的期望。因为我通过skill教过他，对，所以整个结构化我觉得可以就可以是一个skill。
+</p>
+<p class="transcript-line">
+<span class="time"><strong>[00:31:40]</strong> </span>
+<span class="speaker"><strong>发言人3: </strong></span>
+然后包括说翻译也可以是一个skill。你就告诉大模型说把这个已经做好的，通过翻译skill去翻译一下。那我也希望他给出我的结果是对照的翻译，就是原结构是怎么样的那新结构就是怎么样。因为我在skill里面教过他，你翻译不能只去翻译文本，你要产出一个这样的结构，那它就可以是一个skill。所以我理解就是这种比较大力度的业务，其实做skill是合适的对。
+</p>
+<p class="transcript-line">
+<span class="time"><strong>[00:32:07]</strong> </span>
+<span class="speaker"><strong>发言人2: </strong></span>
+我今天去写skill的话，比如像个人本地的工作流，我自己会倾向做的大一些，要做一件非常完整的事情。比如就是我前面提到的，我要去运维整个porter就是整个运维工作它可能就是一个skill，其实这个工作是非常大的，就跟着他是一个你自己事先是无规则的，根本不知道会发生什么事情。对，因为我觉得运维工作这件事情特别合适用今天的AI agenor。对，因为是线上可能会发生任何事情，有任何的用户问题，这个东西是完全是我们想象不到的对，就这件整个事情我觉得是写一个大的skills，是我觉得非常的合适。就针对我们port wise这种产品的规模的力度来说。但是如果是像port wise的整个AI生成的工作流程，那我会倾向于把它做小一点。
+</p>
+<p class="transcript-line">
+<span class="time"><strong>[00:33:01]</strong> </span>
+<span class="speaker"><strong>发言人2: </strong></span>
+对，我会先还是倾向于保持现在比如说它是一个完整的workflows，对这件事情是绝对可控的，并且是能控制成本的，是一个完全的work flow。然后比如我要去总结min的map这样的一个力度，故意说的做一个翻译这样的一个事情，一个单节点的事情。那我可能会倾向于把它写成一个skill，但是整个workflow or我不会倾向于说把pose的整个workflow用一个skill给它包含完。因为我知道这里面的稳定性一定会超乎我们的想象，就一定会有那种来来回回达不成很多的标准。然后他不断的在那儿推理，做新的规划，然后再去尝试。
+</p>
+<p class="transcript-line">
+<span class="time"><strong>[00:33:47]</strong> </span>
+<span class="speaker"><strong>发言人2: </strong></span>
+里面有一个非常大的一个循环，这个循环跑去跑来跑的，反正就是token。对，一定是要烧很多很多的token在里面的对，就像我们平时在本地写代码一样。你看他你告诉他一个问题，他可能要找很多很多轮，要循环很多很多次。最终可能出来的结果还不一定对，但是有可能是对的对，就是这件事情是不可控的对，所以说这是为什么我觉得说产品流程，如果你是一个确定性的产品流程，当然这个东西还是比如像port wise的AI的那个产品流程。它因为今天是一个高度确定性的产品流程，没有人参与的。但是point wise的运维工作，它是一个高度不确定性的产品流程，完全是靠人驱动的。今天这个用户会遇到这样的一个问题，我们自己可能也会发现碰到这样奇奇怪怪的问题了。说这两种形态，我觉得今天做AI产品，它的那种实践方法可能是不太一样的。但如果你要追求稳定性性价比的话。
+</p>
+<p class="transcript-line">
+<span class="time"><strong>[00:34:47]</strong> </span>
+<span class="speaker"><strong>发言人1: </strong></span>
+对我觉得一笑提到了一点就是稳定性跟性价比。如果我们要谈稳定性和性价比的话，其实我们还要引入另外一个概念，就是我们今天讲agent还有workflow对吧？那age其实是我们是要跟他去做交互的。Workflow其实刚才一笑有提到说，其实workflow是追求极致的稳定性的对吧？因为agent其实并不能保证说百分百的稳定性，它可能会有一定的失败率，可能会不断的循环烧token，性价比可能会有问题等等之类的。对我觉得这一点就是我们去讲workflow跟agent本身的一个对比。我们之前其实也有讨论过。
+</p>
+<p class="transcript-line">
+<span class="time"><strong>[00:35:20]</strong> </span>
+<span class="speaker"><strong>发言人1: </strong></span>
+那刚才其实再去聊pod wise怎么去做agent，就是怎么怎么做skill画的时候，其实大家的力度你可以看到也不太一样。但我自己刚才我们在提这个问题的时候，其实也有聊过说其实这个事情是一个蛮艺术的问题。就跟很早以前去做业务，去做微服务是一样的，八个人有8种微服务的做法，对吧？对，所以说我觉得这种相同公司的，比如说都是电商的项目，相同公司的不同的团队，他们抽象出来的电商的那些微服务的力度大小之类的，可能也都会不一样。这个是一个仁者见仁智者见智的事情。甚至我们在最早以前做微服务的时候，大家的参考书籍就是第DD。但是你说真正有多少个人了解DDD，反正我也不知道。虽然大家看的都是DDD，那为什么做出来的服务不一样呢？
+</p>
+<p class="transcript-line">
+<span class="time"><strong>[00:36:08]</strong> </span>
+<span class="speaker"><strong>发言人1: </strong></span>
+就是这个事儿是一个挺艺术的问题。我们既然都聊到agent skills了，刚才一笑也提到workflow了，那我就顺道再提一嘴。你看workflows现在好像就包括define，包括扣子，好像自从a skills出来之后，甚至再往前倒一点，他们声量好像都变小了一点。
+</p>
+<p class="transcript-line">
+<span class="time"><strong>[00:36:29]</strong> </span>
+<span class="speaker"><strong>发言人1: </strong></span>
+但是我理解，skills其实还是不解决这个确定性的问题的，它本身其实只是一种抽象形式。然后如果说我的skills多了之后，它的调用成功率其实可能还是会下降的。跟以前一样，跟以前不管我用MCP也好，做calling也好，它可能都会有调用成功率的问题。但是假如我的观察是没问题的，也就是说现在像define，像扣子，他们的声量都稍微小了一些。是不是？其实是意味着说是大模型的进步导致了大家用agent这种形式上升了，而不是说我因为有了skills，然后我就不用workflow了，其实跟这个是没关系的，是不是这样？
+</p>
+<p class="transcript-line">
+<span class="time"><strong>[00:37:06]</strong> </span>
+<span class="speaker"><strong>发言人3: </strong></span>
+怎么说呢？我觉得workflows它是一个比较重的东西。你要去把这个workflows用好，它其实还挺难的，你要去学它。但是你像skills这样的，它就是一个markdown，你要去写一写，相对来说其实门槛是要低很多。但是以前我们没办法，我们必须去用workflows，是因为我的纯粹的一个Brown pod，可能它就是准确率上是不够的。而且我要去做一些外部的模型的调用的时候，你从MCP也好，是一些什么别的方式也好，其实它的稳定性也是很差的。但是workflow我可以非常明确的去阐述这个过程。
+</p>
+<p class="transcript-line">
+<span class="time"><strong>[00:37:41]</strong> </span>
+<span class="speaker"><strong>发言人3: </strong></span>
+今天skills你说它是不是纯粹是大模型的进步导致的这个准确率的上升？我觉得也不尽然。就是那个agent SDK的存在，然后包括这个skills，它自己的这个规范其实是能够去提高。这个准确率和命中率的。举个例子来说，就是skills的它这个front matter的这个description是会被那个HSTK去预加载的。这个东西其实就是去保证它的命中率匹配度的一个首要的一个条件。
+</p>
+<p class="transcript-line">
+<span class="time"><strong>[00:38:13]</strong> </span>
+<span class="speaker"><strong>发言人3: </strong></span>
+其实我们去看agent skills的文档中的trouble shooting的部分的时候，会发现有两个问题提到的。一个是skill not ragging，就是它没有被触发。还有一个说multiple skills conflict冲突了。它本质上其实都是我的description，可能没有写清楚，没有保证足够的区分度。在这种情况下，其实像你提到说我skill多了之后是不是会命中率会下降，确实是有可能的。但是它其实还提供了一些别的方式。比如说我在自然语言中明确的点名，我就是要用哪个名字的skill去做这件事情，或者说我干脆用斜杠skill name来显示的去去调用也是可以的。其实这两种方式就是提供了两种使用场景。
+</p>
+<p class="transcript-line">
+<span class="time"><strong>[00:38:57]</strong> </span>
+<span class="speaker"><strong>发言人3: </strong></span>
+我觉得一个是对这个skills的存在不知情的这类终端用户，就是你可能说你封装了一个产品，你在背后用了很多skill。但是真正用你的这个用户的时候，他在自然语言去跟你的这个APP去交流的时候，他是不知道这个skills的那你通过把description去组织好，你就可以去服务这些终端用户。但是，如果说我们自己去用的时候，我其实是对这个环境里面的存在的skills是非常了解的，每个skills能干什么事情，适合什么场景去使用是非常了解的那我也完全可以用显示的方式去把这个命中率提高到，我不知道能不能到100%，但是我觉得应该是能提高到一个比较高的程度的对。但是这其实不能完全的解决掉说我的workflow这个层层面的准确性。因为你的skills终究它是一个promote。你不能确保说他的这prompt你step by step的去描述完了之后，他一定能够做到像work floor那样的一步一步精准的执行。这个我觉得也不一定对。
+</p>
+<p class="transcript-line">
+<span class="time"><strong>[00:39:58]</strong> </span>
+<span class="speaker"><strong>发言人2: </strong></span>
+今天回到辽A检就skills其实它本身是个agent，对它本身是agent的方式在运行，它不是work floor fans在运行，是当我们去讨论agents的时候，其实我更倾向的它肯定是无规则的，就是完全是无规则运行，就不像workflows，workflows是强规则运行，是完全是靠我人定义的。你今天第一步干啥？第二步干啥？第三步干啥？对对对，所以说对A镜头来说，我其实一定是要让它变成无规则运行，能够让AI智能自己去决策如何运行。那这肯定才能够去突破AI智能的那个上限。就因为workflows的那个智能上限是有限的，我们经常会觉得这件事情对，但是agent的那个智能的上限是要更高，特别是随着模型升级，可能那个智能上限会越来越高。
+</p>
+<p class="transcript-line">
+<span class="time"><strong>[00:40:50]</strong> </span>
+<span class="speaker"><strong>发言人2: </strong></span>
+所以说回到写skills，像刚才归提到的那种写skills，其实虽然说skills它可能提供了一些写死的规则，说指定这种常见用兔儿或者工具怎么执行的方式方法。我觉得这是一种兜底的方式。但它其实和本职A镜头驱动的方向，可能就不是真正大家鼓励的方向了，已经对他其实也引入了规则了已经。对这儿我其实单纯只是聊一下A镜头的这个无规则能带来更高的上限这件事情可能是所有做agenda的人在意识里面更需要去注意的一个方向。我回到这个问题的话，就是说这一次关于这种进步是不是模型智能在进步？
+</p>
+<p class="transcript-line">
+<span class="time"><strong>[00:41:33]</strong> </span>
+<span class="speaker"><strong>发言人2: </strong></span>
+我自己是肯定非常倾向于模型在进步的对，当然刚才归讲了很多，比如说其实如何去写prop如何去写scare，把他们写的很清楚，这些东西都是最佳实践，这些最佳实践可以让模型执行的更好，这些是完全是没问题的对但是本质上我们去看这一次AI智能的进步，它其实本质上特别是在agent智能上的进步，肯定是模型有巨大的关系的那比如说像我们常用的模型像就没来。今天我如果用9M2.0，特别是当你用2.0 flash这样的模型去驱动agents时候，你会发现可能驱动不动了，可能就会发现就会有巨大的问题。对你必须要上到界面来三甚至是3 pro之类的模型。我们今天用的很多，特别是扣顶的A镜头用的很爽的原因其实就是因为跑的都是顶级模型的，所以说这个是一定的对，没有这些现在的顶级模型，我觉得今天这种完全无规则的把所有的能够真正去驱动一个用户的意图的这样的一个agenda。就是用户可以没提出任何问题，然后最终都能够给他出跑出一个还不错的结果的这样的agenor。我觉得没有顶级的模型，今天可能很难。对，然后我们也可以看到，最近其实这些模型的优化方向真的在转向了。
+</p>
+<p class="transcript-line">
+<span class="time"><strong>[00:42:54]</strong> </span>
+<span class="speaker"><strong>发言人2: </strong></span>
+可能在去年大家还在做很多的一个chat的方向，如何让生成的文本的质量更高，然后后面又开始走了一波推理的模型的方向，然后最近这些模型又开始在在推理上主打A检查的方向。比如像kimbo前一段时间发的k two deep sake前段时间发的V3.2这些。其实他们的优化的重点都是在如何让A级的整个规划推理执行这条链路上更稳定，做得更好。
+</p>
+<p class="transcript-line">
+<span class="time"><strong>[00:43:28]</strong> </span>
+<span class="speaker"><strong>发言人1: </strong></span>
+对，确实我们看到最近这些模型的方向可能主打都是agent的这个方向了。但我自己也在想一个问题，就是这个agent skills会不会是这些大模型厂商的一个阳谋，我发布了这个skills之后，然后我利用开源社区，我让大家一起贡献这些专业的领域知识，然后我再把合适的内容放到后期的IOM的发布中来。举个例子，比如说以前所有的大模型可能都不能生成PDF，那你现在贡献了一个PDF的一个skills，然后我就把这个PDF拉到我的这个里面来。那下次你再用我IM chatbot，然后再聊的时候，你可以说帮我把这段文字生成一个新的PDF，然后你可能就下载下来了，这是我举的一个例子。
+</p>
+<p class="transcript-line">
+<span class="time"><strong>[00:44:12]</strong> </span>
+<span class="speaker"><strong>发言人1: </strong></span>
+对，然后我就想类比什么事情呢？有点像linux操作系统。对，但linux操作系统其实它分成两个部分，有内核还有用户态。对，那其实LM的chatbot，它其实就可能相当于说我一个裸的内核，然后上面加一个shell，这个shell就是你跟他沟通的。但是这个shell里面没有工具，就是只有说你能够跟这个操作系统沟通，比如说你去对话，你跟他聊。
+</p>
+<p class="transcript-line">
+<span class="time"><strong>[00:44:35]</strong> </span>
+<span class="speaker"><strong>发言人1: </strong></span>
+假如说未来他自己发布的这个大模型的这个产品，添加了很多很多的skills。那这个skills可能你可以把它理解成为它是一个ubuntu者，一个macos s或者一个windows 11，但可能不会有windows 11那么大。但反正就类似于如果我未来是发布这种产品，而不是发布一个裸的内核的话，就是我不是雷纳斯雷纳斯，只管发布内核对吧？其实我是我是发布产品的对，那我里面可能就会带这些gu以前的那些产品，比如说什么bash、IOS、MV、CP等等这些工具可能未来都会集成到这个大模型里面去。对，会不会未来变成这样子？其实大家贡献了一波，因为都是开源的，然后可能举个例子，可能还都是MIT协议的，然后这些大米厂商可能全部都拉进来了。我自己筛选一下，我用这些这几个skills，然后帮我封装成一个操作系统，然后我来发布。
+</p>
+<p class="transcript-line">
+<span class="time"><strong>[00:45:25]</strong> </span>
+<span class="speaker"><strong>发言人1: </strong></span>
+对我为什么会有这个想法？是因为x GPT前两天就不是推出了一个健康版本，就叫ChatGPT health。我估计他未来可能还会有很多，比如说他会推出ChatGPT律师版，ChatGPT历史版等等之类的。当然这里边肯定它既然能推出健康版，我相信它里面肯定会有一些健康的专业知识，是从大模型里面刻画出来。对，我不知道这件事儿你们怎么看？
+</p>
+<p class="transcript-line">
+<span class="time"><strong>[00:45:50]</strong> </span>
+<span class="speaker"><strong>发言人3: </strong></span>
+我在想这个事儿，你这个例子就是因为像dash也好，RS也好，其实它本质上是一个虽然是一个命令行工具，但它其实本质上也是一个APP。我其实是可以装的，虽然有一些是内化在里面，但实际上我是可以装的对吧？我觉得这个LS不好，我也可以去装一个新的LS所以我会觉得说他skill其实有点像一个APP，它是专门去做一个事情的APP。
+</p>
+<p class="transcript-line">
+<span class="time"><strong>[00:46:12]</strong> </span>
+<span class="speaker"><strong>发言人3: </strong></span>
+那你把那个大模型比作这个操作系统，我觉得可以把scale去比较，比作一个APP。他不一定要被内化到一个大模型里面。因为我觉得skill它提供的是领域知识，是业务知识。然后它其实是有个性化的，就是我的这个大模型可以去拥有一些常识，拥有一些科学知识对吧？拥有一些大家都认为没有问题的客观的知识。但是业务知识它其实和这些不一样，它是会持续的去去迭代去优化的。
+</p>
+<p class="transcript-line">
+<span class="time"><strong>[00:46:45]</strong> </span>
+<span class="speaker"><strong>发言人3: </strong></span>
+包括不同的用户他会有他自己的习惯，这同样去做一件事情，我觉得我自己的这个工作的流程效率更高，准确度更高。那我去做anthropic，他自己的那个做PDF的那个不好，我就自己写了一个skill去做PDF，我觉得这自己这个更好。所以他其实是需要被个性化的对，所以他可能可以被内化到里面。
+</p>
+<p class="transcript-line">
+<span class="time"><strong>[00:47:10]</strong> </span>
+<span class="speaker"><strong>发言人3: </strong></span>
+但是他可能更多的还是说我有一个大的生态，大家可以说我去做一个大的skill的一个marketplace，然后你愿意分享也好，或者说你自己去做了你自己的skill也好。就把它灌到这个模型里面去用。在我理解里面它会是一个这样的东西。因为skill它其实更多还是在在现在的prompt这个层面上的一个事情。它是用来控制规范LM的行为的，它是给LM定标准的那部分这个层次的一个抽象。所以它能很大程度上去解决这个prom难写难维护的问题，然后让LM更好用。我理解他也可以让我们去在上层封装产品也更容易，最终也能够去汇集到普通的终端用户，这个对LM整体就是一个好事。然后我觉得现在就是看竞争对手们去怎么跟进这个东西了。
+</p>
+<p class="transcript-line">
+<span class="time"><strong>[00:48:04]</strong> </span>
+<span class="speaker"><strong>发言人2: </strong></span>
+对我们确实太阴谋论了，可能就是虽然这个逻辑看上去是成立的，对，每个人都在提供专业知识，好像大模型是不是就可以把这一波专业知识给学一遍，至少大模型可以发现，这哥们儿写的这个scare的这个专业知识，好像产出来的结果就是要更好一些。那我是不是把他给累坏掉了？就是如果大模型要做这件事儿，从我的认知的角度他肯定是可以做到的对，就像龟龟说的，他会不会去做这件事儿，那是另外一件事情了。这个可能对我们来说可能太阴谋论了。
+</p>
+<p class="transcript-line">
+<span class="time"><strong>[00:48:40]</strong> </span>
+<span class="speaker"><strong>发言人2: </strong></span>
+但是总的来说怎么说呢？大模型公司用他的用户产生的数据，比如就是用他的prop最后生成的结果，拿去再继续训练大模型。那这件事情肯定在在过去是一个共识。比如说像将来就是公开这样说的对吧？
+</p>
+<p class="transcript-line">
+<span class="time"><strong>[00:48:55]</strong> </span>
+<span class="speaker"><strong>发言人2: </strong></span>
+你如果不是付费用户，是免费用户，那我们就是会用你的整个对话数据，整个过程数据，然后去继续去训练他们的下一代模型这些。其实skill这本质，因为贵哥刚才介绍的本质就是proper，它本质也就是一些输入输出的整个过程数据。那这个数据他会不会拿去用来训练他的后面的模型？其实我们也是根本就不会知道这件事儿的对，哪怕就像像救妹来那样承诺你付费用户我就不会训练了，那其实谁知道呢？对吧？对，反正我们也不知道的。我所以说我觉得这个问题其实不重要，但只是说从逻辑上来说，他是他也是可行的对，那这个部分刚才赛道不是提到了一个ChatGPT，不是推出了一个健康版，一个黒24的版本。
+</p>
+<p class="transcript-line">
+<span class="time"><strong>[00:49:43]</strong> </span>
+<span class="speaker"><strong>发言人2: </strong></span>
+今天刚好就不就看到了那个OpenAI chat GP收购了一个叫torch的APP的团队。那个torch的团队只干了六个月，好像只他们只干了六个月，产品还没出来，还在贝塔。然后四个人干了六个月，这个就是一个做的对，所以说他们为什么收购他，我觉得可能也不单纯说chat GB推出here set，就只是因为他自己模型训练了黑色水，所以说他就可以做出一个黑色水的产品。那他看看出他今天还是在通过收购一些外部团队的专业团队的方式，来去达成他的整个的这样的一个布局的一个战略的生态。
+</p>
+<p class="transcript-line">
+<span class="time"><strong>[00:50:21]</strong> </span>
+<span class="speaker"><strong>发言人2: </strong></span>
+对，这个touch就是专门做heavy的对，然后四个人干了六个月，现在用一亿美金给他买走了。对，然后产品还没上线，还在贝他们就对对对，所以说其实我想说可能对于这些公司来说，大家去做scare也好。还有一种方式是你的skill做的很好。你的那个scare产品在他的生态里面跑的很好。说不定模型公司要把你收了也是有可能的，不一定说就是把你给内化掉，把你给吃掉了，对吧？对，我们可能想的好一点，就是这个。
+</p>
+<p class="transcript-line">
+<span class="time"><strong>[00:50:55]</strong> </span>
+<span class="speaker"><strong>发言人1: </strong></span>
+样子的对对对对对，是的。对我觉得今天我们讨论的这个skills，我们也不是说给大家一个终极解决方案，就是你的skills就应该用什么样的力度，然后去怎么去写，写成什么样子。对，因为这个东西在提出来之后，我觉得anthropic他也不能说把每一个业务领域里边这个agent skills它应该是什么力度给大家讲明白。这个事儿可能都是你自己探索出来的，而且如果你自己有业务领域知识的话，可能你能分出来更好的skill对吧？但是也不一定，你可能还需要有一些软件工程领域的知识，然后你去交叉一下下对吧？你才能够可能做出来一个比较工程加业务都比较好的一种方式。
+</p>
+<p class="transcript-line">
+<span class="time"><strong>[00:51:35]</strong> </span>
+<span class="speaker"><strong>发言人1: </strong></span>
+但是我是觉得说skills确实提供了一种新的组织AI的方式。他其实解决的是怎么描述问题，但他其实解决不了说怎么能够保证这个效果更好。那这个东西还可能还是要去你去推模型，去搞你的prompt，对吧？还是要把这个事儿还要去搞起来。然后真正这个agent skill，为什么这套东西能够起来？我觉得本身可能还是模型能力的提升。包括我用jima 3 pro包括我用cloud最新的这个模型，其实效果上面确实差距很大。你在open code里边，你用cloud去做deb coding，跟你用什么mini max的模型，然后那个质谱的模型，那它的效果就是有巨大的差异。大家得承认这件事儿，对吧？
+</p>
+<p class="transcript-line">
+<span class="time"><strong>[00:52:18]</strong> </span>
+<span class="speaker"><strong>发言人1: </strong></span>
+至于说skills这个事儿会不会成为LM厂商的一个开源阳谋，比如说让社区贡献知识，然后最后反补模型，当然可能性是存在的。我们讲说刚才有阴谋论的部分。对，但是有没有可能比如说minus现在他在做的一个事儿就是其实它算是一个office，对吧？我有linux然后我有office，那会不会未来其实大模型的这个聊天端，它可能就变成了一个office对吧？就大家可能把什么做PPT，然后什么做做excel，这些东西可能默认都放到了chatbot里，对吧？可能把minus的一部分东西内化成了skills对吧？我感觉可能性也是存在的对，那我们今天只是讨论这个可能性，我觉得就是skills这个事儿，你换个角度看，它其实是能加速整个行业工程化进程的。你未来的AI应用可以更规范、更高效，我觉得这也是一个挺好的一个事儿。我们本期节目就先到这里，欢迎大家在评论区下方给我们留言讨论，我们下期再见吧，拜拜。
+</p>
+<p class="transcript-line">
+<span class="time"><strong>[00:53:16]</strong> </span>
+<span class="speaker"><strong>发言人3: </strong></span>
+好，拜拜。
+</p>
+<p class="transcript-line">
+<span class="time"><strong>[00:53:18]</strong> </span>
+<span class="speaker"><strong>发言人1: </strong></span>
+以上就是我们本期播客的全部内容，感谢大家收听，也欢迎大家踊跃留言。如果你喜欢我们，欢迎点赞并分享给感兴趣的朋友。如果你在用苹果播客收听，也希望你花几秒钟给我们一个好评，这会让更多的人了解到我们要是能再点击一下订阅，那就再好不过了，我们下周见。
+</p>]]></content:encoded>
+            <pubDate>Tue, 13 Jan 2026 16:56:49 GMT</pubDate>
+            <guid>6966778eef1cf272a73de3c8</guid>
+        </item>
         <item>
             <title>EP119 对话小孙：骑行800公里把自己救出深渊：宁愿每天工作22小时，我也不想再上班了</title>
             <link>https://www.xiaoyuzhoufm.com/episode/69514abe14db1df9ef29388a</link>
@@ -23685,685 +24340,6 @@ OK你去到硅谷这件事儿，你是买了一个单程机票，但是在硅谷
 </p>]]></content:encoded>
             <pubDate>Wed, 22 Jan 2025 22:00:00 GMT</pubDate>
             <guid>6790f2cfb8be47e0c7f21248</guid>
-        </item>
-        <item>
-            <title>EP90 Podwise App 上线啦！从网页到App，我们都经历了什么？</title>
-            <link>https://www.xiaoyuzhoufm.com/episode/67851bba1bf3f0ab2be0674d</link>
-            <description>从网页到 App，看似简单的转变背后隐藏着哪些挑战？Next.js 和 Capacitor 的组合是完美的解决方案吗？App Store 审核究竟有多难？本期节目为你揭秘 Podwise App 上架背后的故事，探索 Web 技术栈开发 App 的“奇妙”旅程，尽力帮你避开一些“坑”吧。
-更多内容信息和时间线参考下文的硬地笔记，欢迎收听本期节目。
-另外，现在加入「硬地骇客」会员服务，即可在会员专属的微信群与其他朋友一起畅所欲言，成为会员也是对我们持续更新最大的鼓励！
-本期赞助
-Podwise.ai - Podcast knowledge at 10x speed 🚀
-Apple Store 下载👉🏻 https://apps.apple.com
-硬地笔记
-00:00:04 Podwise 苹果商店上架及响应式设计初衷
-00:03:06 响应式设计原则：从桌面端到移动端？
-00:06:37 开发独立 App 的原因
-00:09:01 技术选型：Web 技术栈与 Capacitor 的选择
-00:13:00 将 Web 应用封装成 App 的过程与挑战
-00:17:46 支付系统整合与跨平台兼容
-00:22:27 Capacitor 的使用及原生能力集成
-00:23:39 工程管理：代码仓库和构建流程
-00:33:33 App Store 上架审核与经验分享
-00:40:21 未来规划与安卓版本上线计划
-00:43:43 节目结语
-欢迎关注我们
-* 知识星球: t.zsxq.com
-* 官网: hardhacker.com
-* 小手册: book.hardhacker.com
-* 用爱发电不容易，请我们喝咖啡☕️: afdian.net
-* 公众号/小红书: 硬地骇客
-* 商务合作: hardhackerlabs@gmail.com</description>
-            <content:encoded><![CDATA[<h1>转写链接</h1>
-<link>https://tongyi.aliyun.com/efficiency/doc/transcripts/pev8qdo747w5nkga</link><br>
-<h1>节目摘要</h1>
-<div class="summary">一位讲述者分享了他们将名为“PODOS”的博客应用程序成功上架到苹果App Store的历程。过程中，他们克服了从响应式设计到跨平台技术处理等多方面的挑战，同时深入分析了用户需求。PODOS的开发团队特别注重解决开发难题，确保应用的顺利发布。除了对当前版本的优化，他们还规划了未来的功能扩展，如增加中文翻译功能和集成AI技术，以提升用户体验。同时，对于安卓版本的开发，团队持开放态度，期待通过社区反馈不断改进产品，展现出了持续创新和优化的决心。</div><br>
-<h1>章节速览</h1>
-<div class="chapters">
-<div class="chapter-item">
-<span class="time"><strong>[00:00:00]</strong> </span>
-<span class="chapter-title"><strong>PODOS上架苹果APP Store：从响应式设计到全球发布</strong></span>
-<div class="chapter-summary">PODOS通过响应式设计实现了桌面端和移动端的统一适配，成功上架苹果APP Store。起初，PODOS设计偏向桌面端，考虑到节目文字量大，适合专注的使用场景。然而，考虑到移动设备在公共交通通勤等场景的普遍使用，团队选择响应式布局，以适应不同屏幕尺寸和使用流程，避免为桌面和移动端分别开发。在快速迭代和开发MVP的需求下，Web技术成为首选，从而实现了PODOS的全球发布。希望用户能够体验并给予反馈。</div>
-</div>
-<div class="chapter-item">
-<span class="time"><strong>[00:03:06]</strong> </span>
-<span class="chapter-title"><strong>从PC端到移动端：响应式设计实践与原则探讨</strong></span>
-<div class="chapter-summary">在响应式设计中，讨论集中在是否应该从PC端设计开始，然后精简到移动端，还是相反。虽然从桌面端到移动端的设计路径更为常见，但实践表明，移动端设计由于屏幕空间限制，往往需要更多细致的规划和设计。移动端的交互设计需更精细，以确保信息呈现和功能入口对用户友好。因此，在实践中，尽管设计可能始于桌面端，移动端的设计反而主导了设计方向，并对桌面端的设计产生反向影响。此外，响应式设计更多地被视为解决开发问题的原则，而非纯粹的设计原则。为了满足响应式设计原则，设计需要在桌面和移动端之间找到相似性，同时符合各自的使用习惯，从而确保设计的统一性和可维护性。</div>
-</div>
-<div class="chapter-item">
-<span class="time"><strong>[00:06:19]</strong> </span>
-<span class="chapter-title"><strong>从移动端优先考虑设计：APP与网页版的优劣分析</strong></span>
-<div class="chapter-summary">讨论了在设计时优先考虑移动端的合理性，指出移动端虽然可操作空间小但对用户体验要求高。分析了发布移动端APP的必要性，包括用户习惯倾向于使用APP而非网页版，以及技术限制如通知权限、离线存储能力、内购功能等，这些在网页版中难以实现或受限。此外，提及了PWA（Progressive Web App）方式虽能提供接近APP的体验，但用户对此了解不足，且存在存储空间限制，因此开发APP更符合用户需求和使用习惯。</div>
-</div>
-<div class="chapter-item">
-<span class="time"><strong>[00:09:00]</strong> </span>
-<span class="chapter-title"><strong>移动端技术选型：Web技术栈与Native方案的权衡</strong></span>
-<div class="chapter-summary">讨论了在开发移动端应用时，选择Web技术栈作为主要开发方案的原因及考虑。由于团队之前专注于Web开发，使用Web技术栈能显著降低开发成本并实现跨平台兼容性。然而，也讨论了Web技术栈在性能和用户体验方面相较于Native方案的局限性，以及使用Next.js框架带来的特定限制和挑战。同时，探讨了封装为原生应用（如通过Capacitor框架）和采用React Native或Flutter等技术栈的利弊，以及考虑将现有代码库转换为Flutter的可能性。最终，讨论了未来项目中技术选型的可能变化，强调了当前技术选型过程中遇到的挑战和教训。</div>
-</div>
-<div class="chapter-item">
-<span class="time"><strong>[00:12:59]</strong> </span>
-<span class="chapter-title"><strong>将POLOYS网站封装为APP的主要改造工作</strong></span>
-<div class="chapter-summary">将POLOYS网站封装为APP涉及的主要工作包括将网站改造为纯静态资源，以适应APP的封装。尽管Next JS提供了静态导出模式，但使用此模式会限制部分特性，如server action和SSR。为了优化SEO和用户体验，改造过程中并未完全静态化所有页面，而是保留了部分重要页面的SSR特性。在APP端，这些页面被改造成纯静态，这需要对原工程进行大量代码调整和两个工程的并行开发，以满足不同平台的需求。</div>
-</div>
-<div class="chapter-item">
-<span class="time"><strong>[00:15:17]</strong> </span>
-<span class="chapter-title"><strong>APP开发中的Native能力适配与支付方案</strong></span>
-<div class="chapter-summary">对话围绕在APP开发中如何适配Native能力，包括推送通知、文件系统操作和支付功能。讨论了通过File Base和开发插件实现跨平台推送通知，使用Revenue Cat统一多平台支付功能的策略，尽管其在国内面临挑战。同时提到了在Web和APP之间实现文件分享和导出、登录机制以及支付验证的差异和调整。特别是在支付方面，提到了在iOS和Google平台上分别需要接入Apple Pay和Google Pay的必要性。</div>
-</div>
-<div class="chapter-item">
-<span class="time"><strong>[00:18:06]</strong> </span>
-<span class="chapter-title"><strong>多平台会员体系兼容的实现与挑战</strong></span>
-<div class="chapter-summary">讨论了如何在不同平台（如Apple、Google等）之间实现统一的会员体系，重点提及了展示产品价格、用户下单支付、后台状态更新等关键步骤。同时，指出了不同平台间兼容的复杂性，包括用户状态的统一管理、退款处理、订阅操作的限制以及营销活动的多平台同步等问题。还提到了第三方服务RevenueCat的适用性和自身的实现挑战。</div>
-</div>
-<div class="chapter-item">
-<span class="time"><strong>[00:22:14]</strong> </span>
-<span class="chapter-title"><strong>APP封装与集成Native能力的讨论</strong></span>
-<div class="chapter-summary">对话围绕利用Capacity封装Web应用为APP以及集成Native能力的问题展开。Capacity不仅可以将Web应用封装为APP，还提供了包括桥接Native功能如蓝牙和位置服务在内的额外能力。虽然目前尚未集成蓝牙和位置服务，但已经集成了文件系统等功能。对于未集成的Native功能，可以通过编写少量的Native代码并桥接到Capacity环境中来实现，操作相对简单。例如，已通过自定义代码实现了判断APP是否在测试环境运行的特殊处理，类似地，通过社区资源或自行编写代码，可以实现如通过耳机按键进行highlight等特定功能。</div>
-</div>
-<div class="chapter-item">
-<span class="time"><strong>[00:23:38]</strong> </span>
-<span class="chapter-title"><strong>从Web到移动端APP的代码管理与工程优化</strong></span>
-<div class="chapter-summary">对话讨论了从Web技术站扩展到移动端APP的代码管理策略。采用的方法是通过脚本按需从Web代码仓库同步代码到APP的代码仓库，避免了重复代码和不必要的后端代码同步。这种方法虽然不是最优，但对于个人开发者而言已足够高效。讨论还提到了使用Next JS构建时的挑战，包括缺乏灵活的构建选项和文件优先级配置，最终决定使用独立的工程以简化工具链和保持稳定性和灵活性。然而，这种方法在多人协作时可能增加沟通成本。</div>
-</div>
-<div class="chapter-item">
-<span class="time"><strong>[00:26:18]</strong> </span>
-<span class="chapter-title"><strong>跨平台技术栈的优劣势探讨</strong></span>
-<div class="chapter-summary">对话围绕跨平台技术栈，尤其是Web技术栈在开发中的优劣势展开。主要优势包括代码复用，特别是在已有Web APP的情况下，以及生态丰富和成熟。如果开发者熟悉Web技术栈，则能提高开发效率。然而，其劣势也很明显，包括性能一般、动画效果难以实现，以及与原生能力适配的复杂性。特别指出，基于WebView的方案会面临浏览器限制，如跨域问题和特定API使用上的挑战，这些问题在原生环境下较为简单，但在WebView中需额外处理。</div>
-</div>
-<div class="chapter-item">
-<span class="time"><strong>[00:28:35]</strong> </span>
-<span class="chapter-title"><strong>从开发到上线：移动APP开发周期及遇到的挑战</strong></span>
-<div class="chapter-summary">这段对话描述了从创建文件夹到APP最终上线的大半年开发周期，期间经历了技术选型的挑战、从web同步代码的大量工作、处理APP独有的问题，如universal link和支付相关功能。开发过程中，畏难情绪和拖延成为最大的障碍，导致项目被搁置和延后。最终，下定决心克服这些困难，才得以完成项目。</div>
-</div>
-<div class="chapter-item">
-<span class="time"><strong>[00:30:34]</strong> </span>
-<span class="chapter-title"><strong>移动端APP闪退监控策略与Firebase服务应用</strong></span>
-<div class="chapter-summary">对话围绕移动端APP使用体验中的闪退问题展开，强调了闪退对用户体验的影响，并分享了使用Firebase的Crashlytics服务进行闪退监控的策略。提及Firebase的部分服务是免费的，包括Crashlytics和push通知功能。特别指出，若APP主要基于WebView，需自行采集错误并通过Crashlytics的API上报，以准确监控闪退率。</div>
-</div>
-<div class="chapter-item">
-<span class="time"><strong>[00:31:57]</strong> </span>
-<span class="chapter-title"><strong>从Test Flight到上架：应用审核的挑战与用户反馈</strong></span>
-<div class="chapter-summary">对话围绕一款应用从Test Flight测试阶段到正式上架的过程中的挑战和用户反馈展开。尽管在技术选型上得到了用户的好奇和询问，但令人印象深刻的并非功能反馈，而是用户对技术栈的好奇及对技术可靠性的询问。在上架过程中，应用遭遇了苹果审核的多次拒绝，主要理由是审核员认为应用不应强制用户登录并收集隐私信息，如邮箱地址。这凸显了上架过程的不顺利和预想中的难度，尤其是与隐私保护政策相关的问题。</div>
-</div>
-<div class="chapter-item">
-<span class="time"><strong>[00:34:47]</strong> </span>
-<span class="chapter-title"><strong>APP订阅管理及用户注册策略</strong></span>
-<div class="chapter-summary">讨论了如何在不强制用户注册账户的情况下管理用户的订阅计划，特别是通过利用iOS设备的Apple ID进行订阅关系的管理和数据同步。介绍了Apple Store如何帮助管理用户的订阅历史，以及在更换设备后如何通过“恢复购买”功能恢复订阅状态。此外，还探讨了在多端数据同步需求下的用户注册时机推迟策略，以及实现这一策略面临的开发挑战。</div>
-</div>
-<div class="chapter-item">
-<span class="time"><strong>[00:37:19]</strong> </span>
-<span class="chapter-title"><strong>应对APP审核策略及经验分享</strong></span>
-<div class="chapter-summary">讨论了在面对APP审核时，如何有效应对审核意见并最终通过审核的经验。指出审核标准并非绝对严格，可以通过合理的解释和象征性的修改来争取通过。具体策略包括向审核员解释APP已有web版和存量用户，强调登录对用户体验的重要性，以及对APP功能访问流程进行柔和调整，如先展示功能说明再引导登录，以及未登录状态下也能查看内购页面。经过多次修改和沟通，最终审核通过，但整个过程耗时近一个月。</div>
-</div>
-<div class="chapter-item">
-<span class="time"><strong>[00:40:15]</strong> </span>
-<span class="chapter-title"><strong>移动端应用未来规划与技术挑战</strong></span>
-<div class="chapter-summary">对话讨论了移动端应用的未来规划，包括中文翻译功能的接入和优化、动态广告探测能力的提升，以及与设备AI能力的集成。提到了在移动端开发中遇到的挑战，如版本更新的限制、跨域问题的处理和设备兼容性测试。此外，还提及了安卓版应用的开发计划和上架准备，以及对用户反馈和体验的重视。</div>
-</div>
-</div><br>
-<h1>问题回顾</h1>
-<div class="qa-item">
-<div class="question"><strong>Q:</strong> PODOS上架苹果商店后，是否对旧用户有特别的优惠或活动？PODOS从一开始就采用了响应式设计，能谈谈设计初期的考虑吗？</div>
-<div class="answer"><strong>A:</strong> 没有特别的优惠或活动，但鼓励旧用户来体验并留下review和五星好评。当初设计PODOS时，虽然定位偏向桌面端处理文字量大的节目内容和专注学习或研究场景，但考虑到移动端使用场景（如公共交通通勤），以及人员规模限制无法单独为桌面和移动端开发两个产品，因此选择了响应式布局作为解决方案。</div>
-</div>
-<div class="qa-item">
-<div class="question"><strong>Q:</strong> 在响应式设计中，到底是应该从PC端往移动端精简还是先做移动端再放大PC端功能？</div>
-<div class="answer"><strong>A:</strong> 设计原则上是从移动端出发，因为从桌面端往移动端精简可能不准确，而移动端设计需要更精细规划信息呈现和功能入口。实践中，虽然从桌面端开始设计，但实际调优过程中往往是反复兼顾桌面和移动端需求，从移动到桌面的设计思路更不易返工。</div>
-</div>
-<div class="qa-item">
-<div class="question"><strong>Q:</strong> 响应式设计主要解决的是什么问题？</div>
-<div class="answer"><strong>A:</strong> 响应式设计原则解决了开发上的问题，即通过一套代码适应不同屏幕尺寸的设备，但设计时仍需花心思让桌面端和移动端设计相似并符合各自端的使用习惯。</div>
-</div>
-<div class="qa-item">
-<div class="question"><strong>Q:</strong> 既然移动端已有网页版，为何还要发布移动端APP？PODOS选择web技术栈作为移动端开发的原因是什么？</div>
-<div class="answer"><strong>A:</strong> 主要有两个原因：一是满足用户的使用习惯，二是技术限制。手机上用户习惯于通过APP store搜索应用，且对于某些功能如通知推送、离线存储和内购能力等，web或PWA方式存在限制，无法提供完整体验。由于团队之前都是基于web技术开发，选择web技术栈成本最低且跨平台，同时考虑到后期可能无法解决的一些技术难题，如内购能力等，最终决定采用web技术栈并发布移动端APP。</div>
-</div>
-<div class="qa-item">
-<div class="question"><strong>Q:</strong> 在技术选型过程中，为什么选择使用web技术栈，并且在转向原生应用开发时遇到了哪些挑战？</div>
-<div class="answer"><strong>A:</strong> 我们选择web技术栈是因为其响应式设计能很好地支持移动端，成本较低且跨平台。然而，在性能和体验上，web技术栈不如native方案，比如使用React Native或Flutter等技术构建的“套了一层壳”的原生应用。一开始我们使用next JS框架，它注重SSR和服务端渲染，导致无法实现纯SPA（单页应用）的某些转场动画效果，同时也给封装成APP带来了很大困扰。</div>
-</div>
-<div class="qa-item">
-<div class="question"><strong>Q:</strong> 技术选型的过程中，你们最终为何决定采用capacity作为web转APP的解决方案？</div>
-<div class="answer"><strong>A:</strong> 在决心将web版转为APP时，考虑到重写一套代码的成本问题，我们决定尽量复用现有代码并寻找解决方案。经过考察，发现大部分情况下只能选择capacity这一种web转APP框架，而它的生态相对完整，包括对常用服务如firebase、revenue cat等都有现成的插件支持。</div>
-</div>
-<div class="qa-item">
-<div class="question"><strong>Q:</strong> 将POLOYS网站封装成APP时，主要需要做哪些工作？</div>
-<div class="answer"><strong>A:</strong> 主要工作包括将next GS改造为纯静态资源，解决SSR与CSR的冲突，并适配一些native能力，例如推送通知、文件系统访问及支付功能。对于这些功能，我们利用已有的库和插件统一在web和APP端实现，并针对不同平台特性进行相应的调整配置，以确保APP能够充分利用native优势同时保持代码复用。</div>
-</div>
-<div class="qa-item">
-<div class="question"><strong>Q:</strong> 如果决定彻底从零开始，用flat重写代码以实现三端统一，会面临哪些问题？</div>
-<div class="answer"><strong>A:</strong> 使用flat重写代码虽然可以得到三端统一方案，但需要放弃next JS的一些特性，如前后端同构。此外，对于已经具备SSR功能的项目来说，完全静态化改造会带来诸多复杂性，比如SEO优化和用户在web上的体验问题，需要在web版和APP版采用部分SSR与纯静态相结合的方式进行改造。</div>
-</div>
-<div class="qa-item">
-<div class="question"><strong>Q:</strong> 在实现移动端支付兼容时，如何处理不同平台如iOS和安卓以及Google Pay、Apple Pay等的不同支付方式？</div>
-<div class="answer"><strong>A:</strong> 对于POD wise会员体系的兼容性问题，无论在哪个平台购买，最终目标是实现一套统一的会员管理。这意味着需要针对不同平台分别接入相应的支付服务，并确保支付逻辑的一致性，同时考虑到跨平台的用户体验差异，例如导入导出功能、分享功能等，都需要进行相应的适配和调整。</div>
-</div>
-<div class="qa-item">
-<div class="question"><strong>Q:</strong> 在整合订阅服务时，为什么没有选择使用revenue cat？</div>
-<div class="answer"><strong>A:</strong> 没有使用revenue cat是因为它需要收费，并且后来发现苹果App Store的IAP可以直接在capital中实现，所以最终没有采用revenue cat。尽管stripe相对较好对接，但处理三个平台（包括苹果App Store、Google Play和capital）的整合细节较多，而其中的关键第一步是展示产品和价格，以满足不同地区用户看到本地货币的价格要求。</div>
-</div>
-<div class="qa-item">
-<div class="question"><strong>Q:</strong> 对于展示产品价格这一环节，为什么需要特别关注？</div>
-<div class="answer"><strong>A:</strong> 展示产品价格是因为不同地区的用户应看到对应货币的价格，比如日本用户应该看到JPY。这是根据苹果App Store的Review Guideline要求来做的，第一步是展示正确的产品价格，第二步是用户下单完成支付，第三步后台接到回调修改用户状态。</div>
-</div>
-<div class="qa-item">
-<div class="question"><strong>Q:</strong> 在不同平台间进行集成时，是否支持常见的动作如取消订阅、恢复订阅等？</div>
-<div class="answer"><strong>A:</strong> 三个平台都支持这些常见动作，如取消订阅、恢复订阅以及切换订阅计划等。可以通过抽象这些动作和步骤，为每个平台构建不同的代码实现，并统一到自己的订阅记录中。</div>
-</div>
-<div class="qa-item">
-<div class="question"><strong>Q:</strong> 对于退款撤销这类特殊情况下，如何处理和重新激活订阅？</div>
-<div class="answer"><strong>A:</strong> 苹果有退款撤销的回调机制，当用户申请退款并撤销时，需要处理这种问题，并将用户的订阅重新激活。对于这类细节处理较为复杂，不同平台有不同的回调和逻辑要求。</div>
-</div>
-<div class="qa-item">
-<div class="question"><strong>Q:</strong> 除了技术接入问题外，在营销运营上还有哪些挑战？</div>
-<div class="answer"><strong>A:</strong> 营销运营上的挑战更大，比如进行活动时需在三个平台分别配置优惠，处理用户已订阅想享受新优惠的情况，这涉及到跨平台的操作和协调，远比技术接入更为麻烦。</div>
-</div>
-<div class="qa-item">
-<div class="question"><strong>Q:</strong> 在使用capacity整合web和native功能时，是否已集成所有所需功能，如蓝牙和位置服务？</div>
-<div class="answer"><strong>A:</strong> 目前尚未集成蓝牙和位置服务功能，但capacity可以封装web应用并提供额外能力，如蓝牙、位置等。即使社区中没有现成插件，也可以通过编写少量native代码桥接至web环境。</div>
-</div>
-<div class="qa-item">
-<div class="question"><strong>Q:</strong> 如何管理针对移动端APP的工程代码，尤其是web和技术站的代码差异？</div>
-<div class="answer"><strong>A:</strong> 目前采用两个代码仓库，通过脚本按需同步web代码仓库的部分代码至APP代码仓库。这种方式虽然不是最优解，但对于单人开发已经足够使用，避免了多人协作时的额外沟通成本和代码合并难题。</div>
-</div>
-<div class="qa-item">
-<div class="question"><strong>Q:</strong> 相比于其他跨平台技术（如native或flutter），使用react native的优势和劣势是什么？</div>
-<div class="answer"><strong>A:</strong> 主要优势在于代码复用较高，生态丰富且成熟，尤其对于熟悉web技术栈的开发者来说开发效率更高。劣势在于性能一般，动画效果不易做，以及native能力适配较为费劲，同时基于web view的方案会面临web特有的限制，例如跨域问题等。</div>
-</div>
-<div class="qa-item">
-<div class="question"><strong>Q:</strong> 在web view中播放音频时，使用不同方式拉取音频有何区别？</div>
-<div class="answer"><strong>A:</strong> 当在web view中通过浏览器拉取音频时，浏览器会发送额外的security header以告知服务端请求来源，并确保遵循跨域规则，不会阻止音频加载。然而，如果直接使用 fish API 或者编程性方式拉取音频，则可能出现跨域问题，这种情况在APP中不会出现。</div>
-</div>
-<div class="qa-item">
-<div class="question"><strong>Q:</strong> 从开发到上线移动端项目，整个过程大概经历了多长时间，其中有哪些坑？</div>
-<div class="answer"><strong>A:</strong> 整个过程历时大半年，从最初做出可运行的APP版本到最终上线经历了较长的时间。期间经历了许多反复，包括在web功能和APP功能间切换，以及对APP进行去web化处理以优化体验等。提交记录显示，大部分改动来自于从web端同步代码，并处理一些APP独有的问题，如universal link和支付相关功能。最大的坑在于自己的畏难情绪和技术选型上的摸索尝试，可参考资料较少，导致进度拖延。</div>
-</div>
-<div class="qa-item">
-<div class="question"><strong>Q:</strong> 是否有采取措施监控APP闪退情况以保证用户体验？</div>
-<div class="answer"><strong>A:</strong> 目前接入的是Google Firebase的服务——Crashlytics，其部分功能免费，能够监控APP的崩溃情况。但需要注意的是，由于使用web view包装，大部分时候APP不会出现崩溃（仅是web view内的页面加载失败），因此需要自行采集这类错误并通过Crashlytics的服务API上报才能被有效监控。</div>
-</div>
-<div class="qa-item">
-<div class="question"><strong>Q:</strong> 在Test Flight阶段，有没有来自用户的深刻反馈？</div>
-<div class="answer"><strong>A:</strong> 测试阶段并没有收到特别深刻的正面功能反馈，但有用户对使用PWA技术栈开发的White产生好奇并询问技术栈可靠性。同时，也有用户在Test Flight长时间未更新版本时询问项目进展，对此进行了适当的解释和劝退。</div>
-</div>
-<div class="qa-item">
-<div class="question"><strong>Q:</strong> 上架App Store过程中遇到了什么有意思的事情吗？</div>
-<div class="answer"><strong>A:</strong> 上架过程相当不顺利，首次上架时遭遇审核拒绝，主要理由是认为我们的APP强制用户登录和收集隐私信息（邮箱地址）。尽管可以通过Apple ID关联订阅关系，但苹果认为应尽量推迟用户注册隐私信息的收集时机。虽然理论上可行，但在实现上较为复杂且不便捷，感觉像是被苹果无理刁难。</div>
-</div>
-<div class="qa-item">
-<div class="question"><strong>Q:</strong> 在面对苹果审核时，如果按照审核意见直接修改APP，是否是一个好的策略？您是如何成功通过审核的？</div>
-<div class="answer"><strong>A:</strong> 不是好的策略，因为审核判断的空间很大，不同的APP可能有不同的需求。例如，很多APP都需要用户注册登录才能使用，但这并不是死标准。建议尝试说服审核人员，解释为何APP设计需要用户登录。我的策略是向审核员解释APP已有web版和大量存量用户，强调登录是为了提供完整体验和避免重复订阅的问题，并做了象征性的修改，比如修改了访问链接展示方式和内购页面，使其在未登录状态下也能完整展示。</div>
-</div>
-<div class="qa-item">
-<div class="question"><strong>Q:</strong> 是否有网友提到过应对审核不通过的方法？</div>
-<div class="answer"><strong>A:</strong> 有网友提到由于同一审核员可能在处理多个申请，尝试不作任何修改提交，或者更换新的APP名称以避开严格审核人员，但这可能导致被苹果封禁开发者账号，得不偿失。</div>
-</div>
-<div class="qa-item">
-<div class="question"><strong>Q:</strong> 对于移动端未来规划有什么打算？</div>
-<div class="answer"><strong>A:</strong> 移动端规划会跟随web端步伐，将web上的功能稳定后逐步引入APP中，如翻译功能等。同时也会考虑利用设备本身的AI能力进行集成，为用户提供轻量级服务，并关注动态广告探测能力的优化和跨域问题的解决。</div>
-</div>
-<div class="qa-item">
-<div class="question"><strong>Q:</strong> 安卓版APP何时上线？</div>
-<div class="answer"><strong>A:</strong> 安卓版APP已经解决模拟器调试问题，正在解决真机调试和Google Play Store适配问题，预计在完成手头工作后着手进行上架，但也可能面临未知的兼容性问题。</div>
-</div>
-<h1>节目文稿</h1>
-<p class="transcript-line">
-<span class="time"><strong>[00:00:04]</strong> </span>
-<span class="speaker"><strong>发言人1: </strong></span>
-大家好，欢迎收听异地骇客，我是settled，我是一夏。
-</p>
-<p class="transcript-line">
-<span class="time"><strong>[00:00:08]</strong> </span>
-<span class="speaker"><strong>发言人2: </strong></span>
-我是龟龟。
-</p>
-<p class="transcript-line">
-<span class="time"><strong>[00:00:08]</strong> </span>
-<span class="speaker"><strong>发言人1: </strong></span>
-经过不懈的努力，PODOS终于正式上架了苹果的APP store。全球的各区现在只要在苹果商店搜索podd OPODWIICE都可以找到。如果有听众朋友刚好是我们的老用户的话，也欢迎大家随时来体验。当然如果给我们留个review和五星好评那就更好了，非常感谢。作为一个养成系的博客，上架苹果商店也是我们的第一次。今天恰好趁这个机会跟大家分享一下我都碰到了什么问题，以及是怎么解决的。大家姑且一听，或许有用废话不多说，开始我们今天的节目。首先我不知道有多少人知道，其实powder wise从一开始网页设计的时候就是responsive design，也就是大家常说的响应式设计。我不知道归当时是什么样的考虑，一开始就做这样的响应式设计的对。
-</p>
-<p class="transcript-line">
-<span class="time"><strong>[00:00:56]</strong> </span>
-<span class="speaker"><strong>发言人2: </strong></span>
-其实我们最初在定位这个pod y的时候是比较偏向桌面端的。但是移动端当时也没有说就不要做，就是因为像pod wise擅长处理的这种节目，当时定位的这个目标的节目其实就是文字量非常大的。那使用场景上，我们考虑的也是一个比较专注的使用场景，比如说学习或者说研究这样的场景，不同于很多这种音播客的时候的娱乐场景。就比如说我开车的时候随便找个东西听一听都是娱乐场景。但是我们pod wise可能会比较偏向于一个专注使用的场景，这种场景其实还是一个大屏来做会比较舒服，对吧？所以我们就一开始是偏桌面端的，但是它毕竟是个博客APP，所以我们直接放弃移动端也并不太合适。而且即使就算是看这种场景，对于像公共交通通勤也是一个比较合适的使用的一个时机，对吧？你坐地铁什么的，你掏出东西来看一看，也是很很常见的一个情况。
-</p>
-<p class="transcript-line">
-<span class="time"><strong>[00:01:58]</strong> </span>
-<span class="speaker"><strong>发言人2: </strong></span>
-但要是单独为桌面和移动端去做成两个产品，就我们这个人员规模属实不太现实，而且这还不是一个H5和APP的跨平台问题。因为这俩H5和APP他们其实在这个产品逻辑上是一样的，交互上是一样的。这是一个大屏和小屏，其实是需要去去适配不同的交互，不同的使用流程的一个问题。这样显然就是响应式布局就比较合适了，对吧？
-</p>
-<p class="transcript-line">
-<span class="time"><strong>[00:02:26]</strong> </span>
-<span class="speaker"><strong>发言人2: </strong></span>
-人家天生就是做这个的，所以我觉得这个就算是一个必然的选择了。除非说我们本来就是兵多将广，对吧？然后有专门的PD去处理PC专门的PD去处理mobile。那我觉得可以搞一搞，否则的话肯定还是响应式的这个思路去做会比较合适一点。然后既然我们首先是要做桌面端，对吧？一开始说我们比较偏桌面端，同时实际上我们也需要去快速的做POC，快速的MVP？去快速迭代。那web肯定也就是首选，不太可能去做成一个native的APP，那自然就是web加上这个responsive design来做这个事情。
-</p>
-<p class="transcript-line">
-<span class="time"><strong>[00:03:07]</strong> </span>
-<span class="speaker"><strong>发言人1: </strong></span>
-其实这里我还有一个挺大的疑问，我相信可能有很多听众可能跟我有一样的疑问。我们在做这种响应式设计的时候，到底是应该从PC端，从桌面端往下精简呢？还是说我先做移动端，然后再去放大PC端的功能，这个的设计原则是什么？能给大家分享一下吗？
-</p>
-<p class="transcript-line">
-<span class="time"><strong>[00:03:27]</strong> </span>
-<span class="speaker"><strong>发言人2: </strong></span>
-设计原则，你让我来聊设计原则，我觉得就是我不太配，没有这个资格。对，在设计这个事情上我就只配谈实践，谈不了理论和原则。从我个人的实践来说的话，毕竟从我们的产品定位上去推研发路径的话，其实肯定是从桌面端先设计，然后往移动端去适配的。因为我们先做的就是桌面端。但是你刚说从桌面端往移动端去精简，就是我觉得这个精简这个说法其实可能不太确切。因为功能上的精简是有可能的。比如说我这个PC上这个功能塞得下，但是模板上塞不下，对吧？所以我不要了。
-</p>
-<p class="transcript-line">
-<span class="time"><strong>[00:04:07]</strong> </span>
-<span class="speaker"><strong>发言人2: </strong></span>
-但交互上我觉得其实移动端反而是更复杂和更精细的。对它不是精简，它其实更精细了。因为毕竟桌面空间很大，你可以随便乱塞对吧？在桌面端你就算把很多不重要的信息也放出来，然后布局做的比较随意。虽然观感上可能差一点，但是使用体验其实不会很难受。你可以随便做，比如说左右布局，然后可以把功能按钮全都平铺出来之类的都没关系。但是移动端不行，移动端反正就那么大个屏幕，所以需要你非常仔细的去规划信息呈现和功能入口，要保证用户想看的内容都能轻松看到，想用的功能都能快速找到。所以实际上我在移动端的这个设计上花的时间是远比桌面端要多的。
-</p>
-<p class="transcript-line">
-<span class="time"><strong>[00:04:50]</strong> </span>
-<span class="speaker"><strong>发言人2: </strong></span>
-虽然实际发生的情况很多时候是我先做的桌面端的这个功能，但是结果去调那个移动端的样式的时候会花很多时间。然后往往是调着调着觉得这个交互在移动端不合理，但是合理的交互端在响应式好做的这个范围内很难搞，结果我就又回头去调桌面端的结构，来反向兼容我理想的这个移动端交互。所以虽然是从桌面端出发的，但是实际上在我的实践里面，其实主导设计的反而还是移动端。所以如果一定要回答应该从桌面到移动，还是从移动到桌面，我觉得可能是从移动到桌面会更好一些，不容易返工。毕竟桌面的这个设计空间要大得多得多。
-</p>
-<p class="transcript-line">
-<span class="time"><strong>[00:05:30]</strong> </span>
-<span class="speaker"><strong>发言人2: </strong></span>
-然后像这个responsive design，虽然名字上有个design，但其实我理解它解决的是开发的问题，它并不解决设计的问题。设计实际上是为了满足这个响应式的原则，对，原则。对，响应式设计其实应该算是个原则。对，就是这个设计原则就是你提到的这个。那设计实际上为了满足这个响应式的原则，是需要花更多心思去让桌面和移动端的这个设计是相似，但又同时符合各自端的这个使用习惯的。因为相似你才能用响应式的这个方式比较简单的做出来。要是完全两个样子，其实你也用不上响应式设计这样的这种技术了，对吧？哪怕你用响应声音做出来，其实最后的可维护性可能也非常差。因为你其实就是写了两套的代码，因为你的交互比较相似，你才能用一套代码去把它给做出来。
-</p>
-<p class="transcript-line">
-<span class="time"><strong>[00:06:19]</strong> </span>
-<span class="speaker"><strong>发言人1: </strong></span>
-对，毕竟因为桌面端其实比较大，当我们去做设计的时候，其实它的空间，它的可操作性其实还是蛮大的。但是你如果从移动端上面去考虑的话，其实移动端的它的可操作空间是小的，然后它对体验的要求是高的。所以说先从移动端考虑，我觉得这个思路是挺对的。对我我还想问一下，你看既然我们移动端本来就可以用，只不过是网页版的，那为什么还要去发布一个移动端的APP呢？
-</p>
-<p class="transcript-line">
-<span class="time"><strong>[00:06:45]</strong> </span>
-<span class="speaker"><strong>发言人2: </strong></span>
-这个我觉得两方面的原因，一方面是用户的使用习惯，另一方面则是技术上的限制。先说用户习惯。手机实际上今天还是APP生态为主导的。就是大家很多时候在手机上找一个应用，第一反应是跑去那个apple store里面搜，对吧？哪怕就是web有不用安装即开即用的优点。对我个人来说有APP，我其实也喜欢用APP。假如说一个应用有H5有小程序，有APP全都齐。如果是高频使用的情况下，我肯定是会去下个APP的。
-</p>
-<p class="transcript-line">
-<span class="time"><strong>[00:07:20]</strong> </span>
-<span class="speaker"><strong>发言人2: </strong></span>
-然后包括其实我们自己在推广的过程中，也遇到过很多次潜在用户跑来问我们说，为啥你们这个东西在APP store里搜不到，对吧？我们遇到过很多，其实在我们发布APP之前，也有很多用户把pod wise的这个web添加到主屏，用这种方式来使用，这个其实就是PWA的方式，对吧？其实这种方式已经能获得可能大概有80%的APP体验。但是现实情况是绝大多数用户可能压根都不知道还可以这个样子。就是很多用户都不知道说，我可以在这里面说把这一个网页通过添加到主屏的方式，把它变成一个类似APP的东西。然后就是能力限制。举几个例子，就比如说发送通知，那其实在像IOS的这个safer中，你就必须把这个web添加到主屏，你才能够去请求一个通知权限，不然你都是请求不了的，你就不能给用户发通知。
-</p>
-<p class="transcript-line">
-<span class="time"><strong>[00:08:13]</strong> </span>
-<span class="speaker"><strong>发言人2: </strong></span>
-然后像比如说我如果你的APP想想去离线存储一些内容，虽然PWA也可以让你的APP像离线使用，对吧？但是你能存储的空间却是被严格限制的，特别是IOS其实存不了多少东西。像put White，其实我们提供了一个下载节目的转录内容，然后去离线阅读的能力。像IOS的safari，它的存东西的限制，以前限制的是50兆，后来放宽了，放宽到了最大的500兆。但是很多时候其实也是不够用的，所以你就可能用PW你就做不了这种东西。然后还有像是什么接应用商店的内购能力，对吧？就是像apple store那种IP这种这个PWA就完全没法搞了。但这也就不符合一般用户的这个使用习惯，所以还是觉得做一个会比较好一点。
-</p>
-<p class="transcript-line">
-<span class="time"><strong>[00:09:01]</strong> </span>
-<span class="speaker"><strong>发言人1: </strong></span>
-对那我们去做移动端的话，是不是自然而然就是选的web技术栈呢？因为我们毕竟之前其实做的全部都是web，然后这样的话其实成本是最低的，然后也是跨平台的。我想问一下，我们当时做技术选型的时候，就当时是怎么考虑的？有没有调研过一些框架，比如说什么ironic、cordova等等之类的这些东西。
-</p>
-<p class="transcript-line">
-<span class="time"><strong>[00:09:21]</strong> </span>
-<span class="speaker"><strong>发言人2: </strong></span>
-说到这个问题，就技术选型这个问题，我必须要说，凡事都得是要取舍。这确实我们是用了web技术站，主要也是因为本身已经通过响应式这个设计去支持了移动端。那直接沿用显然是成本最低的方案，而且它还跨平台，像你说的。但是web技术站在性能和体验上，终究还是打不过这种native方案。包括说这种套的层壳的native方案，就是什么是套了一层壳的native方案，就像rec native或者说flutter recovery native。你别看它看着特别像web，但实际上它本质上还是跑在一个native的这个控件上的对，不像web，它是完全跑在一个web view里面的。
-</p>
-<p class="transcript-line">
-<span class="time"><strong>[00:10:03]</strong> </span>
-<span class="speaker"><strong>发言人2: </strong></span>
-这里面其实本身我们在这个技术栈上面，一开始使用的是next JS，这本身也是一个非常大的限制。因为next JS它它其实是一个注重SSR，就是服务端渲染和SG就静态页面生成的这个框架。所以你用next GS做出来的web APP，其实它不是一个纯的SPA应用，不是一个纯的single page的application。这一方面就导致很多转场动画就没法做，因为你这个转场动画你得是一个SPA，你也得两个页面同时存在，你的转场动画才好做。然后另一方面实际上也给封装成APP去带来了很大的麻烦，这个可以后面再讲。
-</p>
-<p class="transcript-line">
-<span class="time"><strong>[00:10:42]</strong> </span>
-<span class="speaker"><strong>发言人2: </strong></span>
-但是反过来说，next JS在我们做web版的时候，也确实带来了显著的效率提升。开始在做web版的时候他是很幸福的。但是在再去把它给封装成APP的时候就不幸福了，这个在做web的时候带来的效率提升，减去包APP踩过的坑和吐过的血之后，还是不是赚的，我觉得就不好说了。
-</p>
-<p class="transcript-line">
-<span class="time"><strong>[00:11:05]</strong> </span>
-<span class="speaker"><strong>发言人2: </strong></span>
-所以你要说这个技术选型是怎么考虑的，其实我感觉就是有一种骑虎难下的感觉。因为你那个时候说我要去做APP了，完全为APP去重写一套代码。不管是现有功能的迁移，还是说以后我做了新功能，我要去开发维护，都是一个不太能接受的一个成本。
-</p>
-<p class="transcript-line">
-<span class="time"><strong>[00:11:24]</strong> </span>
-<span class="speaker"><strong>发言人2: </strong></span>
-等到我下了决心就尽量复用代码之后再去找解决方案，就会发现web包APP的框架几乎只有capacity这一个可选的。其实像你说的l nic co va之类的都是capacitor，它是capacitor前身，一脉相承的这都是一个玩意儿。对，包括你今天去看这个很多capacity的插件，你会发现它其实就是colo ba的插件，color ba插件可以直接拿到capacity里面去用。对，也因为就只有这一个可选的，所以其实capital的生态相对来说还是挺完整的，比我预想的要完整的多。你像比如说我们用到了firebase，然后很多人收款会去用revenue cat这一类APP常用的服务。它都会提供capacity的插件，然后包括社区里的各种插件，其实也还都挺多的。像给tab上有一个那个org就叫capital community，它里面就会有很多这种capital的插件。
-</p>
-<p class="transcript-line">
-<span class="time"><strong>[00:12:15]</strong> </span>
-<span class="speaker"><strong>发言人2: </strong></span>
-当然如果我决心足够大的话，其实还有另外一个倒反天罡的方案，就是把整个code base用flatt重写。因为flat是可以在浏览器里跑的对吧？Flat不是只能在A，对，这样的话其实你也可以得到一个三端统一的一个方案。但是这就要放弃next js独有的一些特性，比如说next GS是前后端同构的，这个在你一个人去做开发的时候其实非常方便。说真的，下次如果确定，比如说我们下一个产品确定是要做a web加APP的。我想我应该是不会再用今天pod一的这个方案了。不是，就这个方案，我甚至觉得我可能是第一个吃完这个螃蟹的人，就是肯定有人吃过这个螃蟹，但是吃到一半没吃下去，你知道吧？我觉得我可能是第一个吃完这个螃蟹的人。
-</p>
-<p class="transcript-line">
-<span class="time"><strong>[00:13:00]</strong> </span>
-<span class="speaker"><strong>发言人1: </strong></span>
-对，那我就想问一下，你看POLOYS其实以前是一个很功能完整的一个网站。那想把POLOS这个网站封装成一个APP，用刚才你讲的capacity把它封装成一个APP，这里边主要还要做哪些工作？
-</p>
-<p class="transcript-line">
-<span class="time"><strong>[00:13:13]</strong> </span>
-<span class="speaker"><strong>发言人2: </strong></span>
-这个说实话其实远比我预想的要麻烦得多。一方面是net GS加上capital这个组合本身就有点水土不服，另一方面就是像我刚刚说的，我因为可能是第一个吃完这个螃蟹的人，所以遇到的问题几乎在网上找不到解决方案。然后对这种网上没有答案的问题，你就是去问大语言模型也是无济于事的，他也不知道，所以对非常的麻烦。
-</p>
-<p class="transcript-line">
-<span class="time"><strong>[00:13:42]</strong> </span>
-<span class="speaker"><strong>发言人2: </strong></span>
-那笼统的来讲，第一个要解决的问题，也是最大的麻烦是你得先把你的网站改造成纯静态的。这个纯静态不是说没有动态内容，而是说你的页面都得是静态资源。你不能有那种SSR服务端渲染，那就是必须都是CSR的。然后不是一定要SPA，那SPA就是纯静态的。你看不巧的是，刚刚也讲过对吧？SGS本身是一个侧重SSR的框架。虽然next GS也提供了static export的这样的一个模式，就是你可以静态导出成一个纯静态网站。但是如果你要用这个static的导出的模式，就会有很多next jest的特性不能用，比较典型的比如说server action就不行，那SSR这种肯定显然也是不行的。
-</p>
-<p class="transcript-line">
-<span class="time"><strong>[00:14:25]</strong> </span>
-<span class="speaker"><strong>发言人2: </strong></span>
-关于这部分的改造，其实我有更新到我们pod wise那个小册子里面，详细的内容大家可以到小册里面去看啊，这里要讲的话就是多了比较值得一提的是，为了更好的SEO的这个目的和用户在web上的使用体验。因为SSR有一个相比于CSR有一个非常大的好处，是它它的首屏渲染会更快，对吧？所以实际上我觉得我们是需要保留一些SSR的那这些SSR在APP这端其实是留不下来的。所以实际上我在改造的时候，并不是简单的把整个工程全部去做了静态化，而是在用绝大多数代码的情况下去做了两个工程，然后部分代码有差异。在web这边，比如说我对于特别重要的一些页面，比如说这个节目的详情页，我仍然保留了SSR。但是在这个APP这边我就把它做成了纯静态的，这个是一个点非常大的一个改造。
-</p>
-<p class="transcript-line">
-<span class="time"><strong>[00:15:17]</strong> </span>
-<span class="speaker"><strong>发言人2: </strong></span>
-第二步其实是适配一些native的能力，包括你可能想给你的APP添加一些额外的native的能力。比如说最典型的push notification？推送通知，然后还有和这个文件系统相关的，然后也包括支付能力。像pod White这几部分其实都做了push notification，我们是通过这个file base去做的。然后file base加上开发做的插件，是可以做到一套代码去把这个事情都做完的，不仅限于说我IOS和安卓的这个推送消息，也包括你在桌面浏览器端里面的推送消息，其实都是一套代码就可以搞定了。那支付也一样，支付可以用这个revenue cat来统一多个平台的支付箱功能，它也有这个开发者的插件。但是值得一提的是，revenue cat好像国内是被强了是吧？
-</p>
-<p class="transcript-line">
-<span class="time"><strong>[00:16:03]</strong> </span>
-<span class="speaker"><strong>发言人1: </strong></span>
-对，最近好像被抢了。
-</p>
-<p class="transcript-line">
-<span class="time"><strong>[00:16:05]</strong> </span>
-<span class="speaker"><strong>发言人2: </strong></span>
-是的，然后其实revenue cat t还要再多收你一点钱，你本身已经被这个APP store什么的剥削了一道，原来还要再再收你一道歉，但是他说的不贵。像文件系统这样的东西，你web肯定是做不了的。就是你单独做成APP特有能力，我们就是做了一个刚刚讲到可以下载这个节目转录内容的功能，这个是属于APP独有web没有。然后还有一些小的功能可能需要按需去调整的，跟native相关的。比如说我分享导出在web上那个我可能比如说导出到那个obsta，我是直接搞了一个markdown的文件下载下来，然后你拖进去就好了。但是在APP上就可以做成说我直接跳转这个office点，然后它它会弹出一个导入的一个窗口，然后你就可以去导进去，会更方便一些。然后像分享的时候，share的时候，也是因为你的两个系统之间这个share的方式不同。对，所以这些都需要搞一下。
-</p>
-<p class="transcript-line">
-<span class="time"><strong>[00:17:00]</strong> </span>
-<span class="speaker"><strong>发言人2: </strong></span>
-然后包括像这个OOS登录这种，在web上和APP也不同，也是需要去调整适配的。因为web就是在浏览器里面去去direct，对吧？他他就是都在浏览器里面完成，但是APP是需要唤起一个内置的浏览器，或者说去跳到web浏览器之后再跳回APP。这就需要你去搞明白说这个schema URL和universal UR link这种东西到底是什么玩意儿，对吧？然后去做好配置和验证，你才能够确保你跳出去后还能再跳回来。所以这些东西就是跟native相关，都是要搞的。然后你把这两块搞了之后，其实就差不多了。因为毕竟我们绝大多数的代码都是复用的。
-</p>
-<p class="transcript-line">
-<span class="time"><strong>[00:17:40]</strong> </span>
-<span class="speaker"><strong>发言人1: </strong></span>
-对，听你讲讲其实还是挺复杂的，尤其是登录你要重做。然后支付的话，你刚才讲说可能也得去重新接等等之类的。刚好这里聊到支付，我其实还想问一下，因为我们之前在pod wise里边是在用strap在做支付的验证。再往以前是lemon s而我们现在既有lemon的也有strap的。然后现在我们做了移动端，移动端你在IOS上面你肯定得接apple pay对吧？然后你在google上肯定要接google pay对吧？
-</p>
-<p class="transcript-line">
-<span class="time"><strong>[00:18:06]</strong> </span>
-<span class="speaker"><strong>发言人1: </strong></span>
-那对于POD wise的会员来讲的话，你不管在哪买了，你最终肯定是得是一套会员体系。不管我是在apple买了，还是在google买了，还是在哪买了，我最终我这个月该是会员就得是会员。那这个兼容是怎么做的？能给大家分享一下吗？
-</p>
-<p class="transcript-line">
-<span class="time"><strong>[00:18:21]</strong> </span>
-<span class="speaker"><strong>发言人2: </strong></span>
-对，虽然其实前面提到了revenue cat这个服务，它就是可以兼容的。但我们实际上也没有用是自己做的整合。一个是因为revenue cat要收钱，另外一个是因为我做了一半才发现revenue cat可以在capital里面用，所以也结果事实上就是没有用，但是没有用。正好也可以跟大家说一下这里面需要做些什么事情。但是有有需要的朋友可以去考察一下这个revenue cat适不适合你的需求。因为说句实话，虽然说stripe还是比较好接的，但是像苹果apple store的那个IAP，就是那个in APP apaches，就是内构接起来是要麻烦很多。然后三个你都要接的话，要处理的细节其实还是挺多的。但实际上三个平台的大体流程其实是一致的，就是你要做的就是展示产品和价格。
-</p>
-<p class="transcript-line">
-<span class="time"><strong>[00:19:11]</strong> </span>
-<span class="speaker"><strong>发言人2: </strong></span>
-那为什么你要去专门做一下展示产品和价格？因为不同地区的用户看到的价格是不一样的。Step可能无所谓，但是像苹果的这个APP的review的这个guide line里面，它就会要求你不同的用户看到的产品价格应该是他的native货币。就是你日本的用户应该看到JPY，对吧？所以你需要去从他的这个apple store里面去读你的产品的这个价格，然后展示出来。所以第一步是展示产品价格，然后第二步就是用户下单完成支付。然后第三步就是我们的这个后台去接到回调，要修改用户状态。
-</p>
-<p class="transcript-line">
-<span class="time"><strong>[00:19:45]</strong> </span>
-<span class="speaker"><strong>发言人2: </strong></span>
-当然如果你是一个纯的collect端的APP，没有后台的话，APP store之类的也是提供了这种方式的。就是它可以在你的APP内接到一个回调，这个就不展开说了。但一般我们肯定都是有后台的，我们在后台里面接到回调去修改用户状态。
-</p>
-<p class="transcript-line">
-<span class="time"><strong>[00:20:01]</strong> </span>
-<span class="speaker"><strong>发言人2: </strong></span>
-然后三个平台其实也都一样支持，比如说取消订阅、恢复订阅，然后切换这个订阅的计划之类的。所以我们只需要把这些动作和步骤抽象一下，然后做成三套实现。按照平台去build不同的代码，或者说去调用不同代码就行了。然后你把所有的状态都统一到你自己的一个订阅的一个记录里面就可以了。
-</p>
-<p class="transcript-line">
-<span class="time"><strong>[00:20:22]</strong> </span>
-<span class="speaker"><strong>发言人2: </strong></span>
-当然你还额外去需要做一些控制逻辑的。比如说你不能在web上去取消APP store的订阅，你做不到。那这个时候你在web上就要提示用户说，你这个订阅是在苹果来锁定的那你要去我们的IOS APP里面去操作，才能够取消订阅之类的这种细节。就是还挺多的。
-</p>
-<p class="transcript-line">
-<span class="time"><strong>[00:20:43]</strong> </span>
-<span class="speaker"><strong>发言人2: </strong></span>
-然后还有比如说像处理退款，苹果就有一个退款撤销的回调。就是用户申请了退款，可能APP so也允许了，但是又因为什么原因他把这个退款撤销了，所以就是等于说这个退款被row back了。像这种回调stripe就是没有好的，你就是需要去处理好这种问题，然后把用户的这个subscription重新去active，对吧？我因为我现在我们安卓的就还没接完，等回头我把安卓的也弄完了之后，我会总结一下，发在我们的知识里面，说这个东西到底该怎么做，到时候大家感兴趣可以去看一下。
-</p>
-<p class="transcript-line">
-<span class="time"><strong>[00:21:17]</strong> </span>
-<span class="speaker"><strong>发言人2: </strong></span>
-然后其实除了接这个事情之外，实际上在营销运营上还是有很多麻烦事的。因为接你反正就接一次就好了。但是你要比如说你要搞活动的话，你就得到三个平台都去配对。你对你搞一个新年活动，你就这三个平台去配优惠，然后再得还可能优惠力度都一样似的之类的。然后用户跑过来说，我之前已经定了，我想享受这个优惠，能不能搞？然后你就要到不同的平台去给他操作，我先给你退款还是怎么样的，反正就这个运营上的麻烦，我觉得远比接入要麻烦的多。但是好像也没有产品来解决这个问题，我不知道，因为我理解这个东西，就算你用revenue cat也是解决不了。
-</p>
-<p class="transcript-line">
-<span class="time"><strong>[00:22:00]</strong> </span>
-<span class="speaker"><strong>发言人1: </strong></span>
-对吧？对，听你讲这个里边真的是满满的细节，就是你要把三个平台里边的兼容之类的全部都要做好。然后A平台订阅的，然后在B平台里面也不能取消订阅。然后这个里边其实逻辑还是蛮复杂的，这个要做好真的不容易。
-</p>
-<p class="transcript-line">
-<span class="time"><strong>[00:22:14]</strong> </span>
-<span class="speaker"><strong>发言人1: </strong></span>
-对，因为capacity是可以帮你封装APP的，它是帮你把web可以封装成一个APP。它其实还提供了很多额外的能力。你刚才也有提过，就是它可以桥接native，比如说什么蓝牙，什么位置等等这些能力。那我们现在有集成这部分相关的能力吗？然后就是这个capacity现在够我们用吗？比如说现在有用户不是说想让我们在耳机上面点一下，做一下highlight，这种东西能做吗？
-</p>
-<p class="transcript-line">
-<span class="time"><strong>[00:22:42]</strong> </span>
-<span class="speaker"><strong>发言人2: </strong></span>
-蓝牙和位置我们现在暂时还没有集成。那前面其实刚刚提到过一部分，比如说像file system之类的，这些是集成了的。那这个东西够用肯定是够用的，因为哪怕在社区里面找不到这个现成的plug in，你自己去写一点native代码，然后再桥接到这个B这个环境下也是非常简单的。反正我对，因为我现在也已经在project里面简单做过一些跟那个native能力的桥接。我做了一个说我去判断一下我这个APP是不是在test flight，或者说在sand books的环境里面去运作的，然后去做了一些特殊处理。这个东西其实在capital官方就没有这样的bug，in社区我也没找到合适的，我就自己写了一下，非常快，所以倒是不用太担心这部分。像你说的蓝牙这个即使社区里面没有，那自己去弄一弄，然后把比如说耳机按下的这个事件再重新发到这个web GS的那个环节里面就可以了。对。
-</p>
-<p class="transcript-line">
-<span class="time"><strong>[00:23:39]</strong> </span>
-<span class="speaker"><strong>发言人1: </strong></span>
-OK，你刚才其实也有提过，因为我们其实是一个web的技术站，然后做的显示设计代码肯定是一套。那现在要做移动端APP了，你刚才也有讲说，其实你是删除了部分代码还是怎么样子，然后给他做了区分了代码仓库就这部分我们现在是怎么管理工程的，这个能给大家介绍一下吗？
-</p>
-<p class="transcript-line">
-<span class="time"><strong>[00:23:58]</strong> </span>
-<span class="speaker"><strong>发言人2: </strong></span>
-对对对，我现在是两个代码仓库，然后我现在的做法是写了一个简单的脚本，按需从web的代码仓库里面往APP的代码仓库里面去同步代码。因为web我们这边是next JS，所以其实它前后端代码是在一起的。那实际上APP那边肯定显然是不需要后端代码的，所以我会选择性的去同步一些代码到这个APP这边。我感觉这个不能算是一个最优的方式，但是对我来说已经够用了。
-</p>
-<p class="transcript-line">
-<span class="time"><strong>[00:24:24]</strong> </span>
-<span class="speaker"><strong>发言人2: </strong></span>
-其实最开始的时候，我是想过用一个工程的在build的时候想办法通过不同的这个标的配置来区分。后来发现非常麻烦，因为我们用的是next JS，它这个build的动作其实是比较黑盒。它其实也没有提供多少build的这个选项给你去调整。包括他比如说没有提供说我忽略哪些文件不build，没有这个选项。然后对，也没有提供比如说我同名不同后缀文件的优先级之类的。
-</p>
-<p class="transcript-line">
-<span class="time"><strong>[00:24:49]</strong> </span>
-<span class="speaker"><strong>发言人2: </strong></span>
-如果有一个叫page点TSX，然后我有一个配置点IOS点TSX对吧？我希望说我优先选择IOS这个文件，它其实这些配置都是没有的那当然虽然你可以通过，比如说我给这个next configure传入web它的配置。因为next其实背后用ipad，还有用turbo。但turbo那个好像现在还是在这个experiment。然后你可以通过说传入ipad配置或者说去修改TS config。
-</p>
-<p class="transcript-line">
-<span class="time"><strong>[00:25:16]</strong> </span>
-<span class="speaker"><strong>发言人2: </strong></span>
-因为type cripp它提供了像我刚刚讲的后缀文件优先级之类的，就是你你可以去搞这些配置，应该是可以做得到的。但是我在粗略研究之后，决定还是算了，感觉真去折腾这个怕是得折腾好久。所以我现在就对我现在就通过自己写一个脚本，按照两个vlog语法的一个列表来选择同步哪些文件，忽略哪些文，也包括说我解析package Jason之后，把有差异的依赖也同步过来。这样的话两个独立工程只复用代码不复用配置，最大的好处就是让两边的这个工具链都用比较标准的方式来运作。而不是说我一通魔改之后，这个魔改之后，我相信还是让他用标准的方式来运作会稳定的多。然后这样的话你在处理两个平台之间的差异的时候也会灵活得多。所以我现在就没有选择用一个工程去做这个事情。
-</p>
-<p class="transcript-line">
-<span class="time"><strong>[00:26:09]</strong> </span>
-<span class="speaker"><strong>发言人2: </strong></span>
-当然这种方式我觉得就可能比较适合艺人开发的情况。你多人协作的时候，你分成两个工程去做，可能就会麻烦一些，会有额外的沟通成本。对。
-</p>
-<p class="transcript-line">
-<span class="time"><strong>[00:26:19]</strong> </span>
-<span class="speaker"><strong>发言人1: </strong></span>
-到时候去同步干嘛的？其实搞来搞去，比如说你在web里边，在base里面改了一些东西，然后他在另外一边又改了一些东西。对，这个其实合并同步还挺麻烦的对，但其实一个人做的话就无所谓了。对你自己都知道。对，是的。那我们现在事后看的话，外部的技术栈相比其他的跨平台技术，比如说你刚才也有提到做native或者做flutter有没有什么优劣势？
-</p>
-<p class="transcript-line">
-<span class="time"><strong>[00:26:43]</strong> </span>
-<span class="speaker"><strong>发言人2: </strong></span>
-那最大的优势肯定就是代码复用了。对，特别是你先做了web APP的情况下。生态比较丰富，也比较成熟。再要说的话优势就是看开发者本身是不是更熟悉web技术栈。是你本身比较熟悉的话，那开发效率比较高。
-</p>
-<p class="transcript-line">
-<span class="time"><strong>[00:27:00]</strong> </span>
-<span class="speaker"><strong>发言人2: </strong></span>
-但劣势的话其实也挺明显的，比较显著的就是它的性能一般，然后动画也不好做。因为我始终觉得APP的这个体验其实是很重要的就是你能够做的。怎么说呢？比如说动画流畅，使用起来舒服的话，其实对于APP的这个使用体验会好很多。还有一个劣势就是native能力的适配相对比较费劲，虽然像那个react native和flutter其实也存在和native适配的问题，但是他们终究底层是跑在一个环境里面的。
-</p>
-<p class="transcript-line">
-<span class="time"><strong>[00:27:31]</strong> </span>
-<span class="speaker"><strong>发言人2: </strong></span>
-但是像capacity他这样基于web view的这个方案，其实是会有一些web view带来的特有的问题需要去解决的。典型的就是那些浏览器的限制，在web view里面一样存在。比如说跨域问题，那跨域问题当然也可以解决，因为你毕竟已经是一个APP了，但是就会有额外的麻烦事需要去处理。
-</p>
-<p class="transcript-line">
-<span class="time"><strong>[00:27:51]</strong> </span>
-<span class="speaker"><strong>发言人2: </strong></span>
-然后有些麻烦事是非常麻烦的。比如说我们在这个web里面去播放音乐的时候，我们去拉取一个音频的时候，浏览器本身是对于音频这种拉取是做了额外的处理的。比如他会发一些额外的security的header告诉服务端，然后服务端就知道你是浏览器在跟我拉音频。所以我不会跨域，我不会阻止你。但是你直接用fish API，你用pro g grammatic的方式去去拉音频，它就会跨越。那这种问题其实在APP里面是不存在的，但是在web view里面就会存在。
-</p>
-<p class="transcript-line">
-<span class="time"><strong>[00:28:23]</strong> </span>
-<span class="speaker"><strong>发言人2: </strong></span>
-但是你要说我自己想办法去拉音频，然后再塞给这个audio元素，那就是一个非常麻烦的事情。本来它就是完全自动的一个事情。对，所以这些就是比较麻烦的地方了。对。
-</p>
-<p class="transcript-line">
-<span class="time"><strong>[00:28:35]</strong> </span>
-<span class="speaker"><strong>发言人1: </strong></span>
-对，我们之前已经有web了。那我们在pod White在做这个移动端开发的过程，从开发到上线就最终大概经历了多长时间。然后这个里面有没有什么是巨坑呢？
-</p>
-<p class="transcript-line">
-<span class="time"><strong>[00:28:47]</strong> </span>
-<span class="speaker"><strong>发言人2: </strong></span>
-其实拖了非常长时间。对，因为实际上我在最初做出一版可以跑的APP之后，搁置了挺长一段时间，然后又回头去做一些web上的功能。然后做了web上的功能又要再搬到APP上，期间还花了不少时间，就在让这个APP没有那么重的web感这个事情上，去调来调去调样式，调动画。我看了一下我这个APP的工程，其实我们现在已经是一月份了。对，去年3月份就创建文件夹了，去年3月份就新建文件夹了。然后第一版能跑的，实际上四月份就有了，所以到现在都大半年了。
-</p>
-<p class="transcript-line">
-<span class="time"><strong>[00:29:25]</strong> </span>
-<span class="speaker"><strong>发言人2: </strong></span>
-然后接下来绝大多数的commit message，我去看了我这个仓库的提交记录。绝大多数的committe message都是从website同步代码从website同步代码从website同步代码就全都是这种。然后夹杂着很多APP独有的问题的处理提交。比如说universal link，比如说那个支付相关的对，所以时间跨度非常大，但你要说实际花的时间其实也不算很多，就必须承认这中间还是有很大的畏难情绪和拖延的成分在。
-</p>
-<p class="transcript-line">
-<span class="time"><strong>[00:29:57]</strong> </span>
-<span class="speaker"><strong>发言人2: </strong></span>
-因为这个技术选型毕竟没摸过，经常说你要去做的时候就会觉得麻烦，就会不想做，然后就会拖着。对，然后可参考的资料又少的可怜，所以经常都是web那边有事情做，就会给自己一个理由说，那我先把web这边做的，就APP这边就先放放，然后就会越拖越久。所以最后就是下了决心说不行，我一定要把它给搞完，才给再给他搞完。所以最大的坑，你说除了那些技术选型上本身别人没有遇到过的坑，对吧？我全都烫了一遍之外，可能最大的坑就是自己的这个畏难情绪。在对。
-</p>
-<p class="transcript-line">
-<span class="time"><strong>[00:30:35]</strong> </span>
-<span class="speaker"><strong>发言人1: </strong></span>
-最大的坑是自己是吧？
-</p>
-<p class="transcript-line">
-<span class="time"><strong>[00:30:37]</strong> </span>
-<span class="speaker"><strong>发言人2: </strong></span>
-对对对，是的。
-</p>
-<p class="transcript-line">
-<span class="time"><strong>[00:30:40]</strong> </span>
-<span class="speaker"><strong>发言人1: </strong></span>
-因为我知道就移动端其实大家在用的过程里面，很多人其实比较大的影响体验的点，除了你刚才讲的那些流畅性等等的，其实还有crush用着用着然后就挂了，对吧？闪退了对，闪退的这种我知道很多移动端的APP，它其实都有这样的监控策略，我不知道我们自己有没有在用类似这样的监控策略去监控闪退，就是能保证大家的这个使用体验的，类似于这样的方案可以给大家分享一下。
-</p>
-<p class="transcript-line">
-<span class="time"><strong>[00:31:08]</strong> </span>
-<span class="speaker"><strong>发言人2: </strong></span>
-对我现在接入的是这个firebase的一个服务。Firebase有一个服务是crash latics，那firebase本身是收费的，但是其中有一些部分是免费的。像这个crash tics就是免费的，然后像他的那个message就是push unification也是免费的。然后这些东西也都有开发，都插起来，所以其实接下来也挺方便的。
-</p>
-<p class="transcript-line">
-<span class="time"><strong>[00:31:28]</strong> </span>
-<span class="speaker"><strong>发言人2: </strong></span>
-当然有一点值得一提的是，因为你用capacity去包的话，其实大部分时候你的APP是不会crush，就从任何级别它是不会闪退的。只是web view里的页面挂了而已。所以需要注意的一点是，这种错误你需要自己采集，然后通过你用的crash监控的这个服务的API发过去才能被监控到，否则的话你可能接了之后会发现你这个crush率非常低。因为本身这个web view它不会crash。
-</p>
-<p class="transcript-line">
-<span class="time"><strong>[00:31:58]</strong> </span>
-<span class="speaker"><strong>发言人1: </strong></span>
-对了解确实可能需要自己去把页面挂掉的这个信息发给那个firebase然后让他再推给我们自己，这个逻辑还是挺好的。对，然后因为你刚才讲说，其实我们四月份的时候已经有一个性能跑的版本了。但是后来其实我们还是先发了test flight，发了test flight这个过程里面有没有什么令你印象深刻的客户提供过来，就是我们的用户提供过来的反馈。
-</p>
-<p class="transcript-line">
-<span class="time"><strong>[00:32:23]</strong> </span>
-<span class="speaker"><strong>发言人2: </strong></span>
-让我印象比较深刻的倒没有功能上的反馈，因为毕竟在用我们test flight的绝大多数都是我们的存量用户，但是印象比较深的是推特上有一个朋友拿poor White作为这个PWA开发的案例来讲。还有不止一个朋友来问过我说，你这个到底是用什么技术栈做的？也有知道说我在用这个capacity搞的，来问我说你这东西靠不靠谱，这个技术上靠不靠谱，他也打算用这个。
-</p>
-<p class="transcript-line">
-<span class="time"><strong>[00:32:50]</strong> </span>
-<span class="speaker"><strong>发言人2: </strong></span>
-我记得有位朋友在我们的test flight大概两三周没更新版本的时候，就是在我打退堂鼓的时候，忍不住跑来问我说，是不是用capital遇到问题做不下去了？因为他们公司内也有个项目打算上capital，看我们不更新的有点慌，不过来问能不能用capable的，一般其实我都会适当的劝退一下。我说如果你用next gens，你最好不要用capital，你不要用这个组合capture本身还是可以用的。当然说实话社区也不是很活跃，特别是很多插件的文档完善度都比较一般，那得自己摸索着去使用。但是整体使用下来倒是没有发现什么跨不过去的坎。但是主要的问题还是出在这个next JS和改变这个组合上，花了非常多的时间。
-</p>
-<p class="transcript-line">
-<span class="time"><strong>[00:33:33]</strong> </span>
-<span class="speaker"><strong>发言人1: </strong></span>
-所以令人印象的用户反馈就是有很多人过来问你说这个东西靠不靠谱，然后你给人家给劝退了是吧？
-</p>
-<p class="transcript-line">
-<span class="time"><strong>[00:33:40]</strong> </span>
-<span class="speaker"><strong>发言人2: </strong></span>
-对对对，蛮多人来问这个技术选型的。
-</p>
-<p class="transcript-line">
-<span class="time"><strong>[00:33:46]</strong> </span>
-<span class="speaker"><strong>发言人1: </strong></span>
-对，那从test flat到上架就看起来就一步。苹果不是上架的时候会审核，之前我们就经常在X上看到很多人说这个审核又被拒了，或者说这个审核都提交一个多礼拜了，根本就没反应。那我们这个上架过程里面有碰到什么有意思的事情吗？
-</p>
-<p class="transcript-line">
-<span class="time"><strong>[00:34:02]</strong> </span>
-<span class="speaker"><strong>发言人2: </strong></span>
-对，这个上架过程，这是挺有意思的，因为我感觉是相当的不顺利，比我预想的要难得多得多。对，其实一开始的时候我也确实担心过审核被拒。但是我担心的原因是说，我们这样的这个web包壳技术站是不是会有影响，结果确实被拒了，但理由和这个没有关系，而且是这个让人异常头大的理由，我们被被拒绝的理由是什么呢？但还不是拒了一次，反复拒绝。主要理由是审核人员认为我们应用提供的功能并不应该强需求用户登录。然后我们不应该强需求用户登录。所以我们就不应该要求用户注册，然后去收集用户的隐私信息。它其实这个背后最关键的点就是收集用户隐私信息，邮箱地址。
-</p>
-<p class="transcript-line">
-<span class="time"><strong>[00:34:48]</strong> </span>
-<span class="speaker"><strong>发言人2: </strong></span>
-那那有的听众朋友可能会想，如果你不让用户注册一个账户，你怎么去就存下来用户的这个订阅计划，怎么知道这个用户是standard还是free的用户，然后包括他当前的这个token的余量是什么，实际上确实是可以不用的。我一开始也觉得说，这个怎么搞呢？后来研究了一下，发现确实是可以不用的。因为对于IOS设备来说，用户的apple ID其实就是用户的一个账户。然后因为你购买的所有东西都是通过这个apple ID在这个apple store里面买。所以实际上苹果那边是有这个apple ID和你的所有订阅关系的。
-</p>
-<p class="transcript-line">
-<span class="time"><strong>[00:35:25]</strong> </span>
-<span class="speaker"><strong>发言人2: </strong></span>
-这个关系的apple store其实帮你管理了第一个关系，虽然这个具体的apple ID背后的邮箱是什么，苹果是不会告诉你的，但是他确实有这个订阅关系。所以很多APP确实是不需要有一个服务端去存用户的这些订阅关系的。然后比如说我们换了一个新手机，很多人应该都都体验过。就我们换了个新手机，然后打开一个我们曾经付费过的APP，会发现这个付费状态没有了。然后这个时候这个APP1般会提供一个。功能叫恢复购买。然后你点一下它，其实就会向APP store去请求这个用户的购买历史和订阅关系。APP store会返回给他之后，他就会重新存下来。然后这时候你的这个订阅关系，这个会员又重新就有了，所以实际上是一个这样的逻辑。
-</p>
-<p class="transcript-line">
-<span class="time"><strong>[00:36:12]</strong> </span>
-<span class="speaker"><strong>发言人2: </strong></span>
-那这么做确实是可以不需要用户去注册的对吧？那你可能会向审核人员解释说，那你看我这个APP是有多端多设备数据同步的对吧？我这个用户在IOS这边用了，我在web上也要能看到这些数据，用户不注册一个账号，我怎么给他同步数据呢？那这个事儿苹果的这个review的guideline里面也帮你想到了。他会说你可以尽量推迟用户的注册时机，对吧？因为用户他不是一定会在多端多设备去用的，那只有他真的在多端多设备同时使用的时候，你才提示他去注册。那这样的话我就可以尽量推后对这个用户的隐私的信息的收集的时机，然后用户也可以选择说我不要多端多投入，我就可以不给你这个邮箱地址了，是吧？
-</p>
-<p class="transcript-line">
-<span class="time"><strong>[00:36:56]</strong> </span>
-<span class="speaker"><strong>发言人2: </strong></span>
-那这个怎么说呢？听起来还挺有道理的。但是实际上你真的要去开发实现的话就非常麻烦，你要去做非常多的事情，比如说你要先把他的这些数据在本地都存好，然后他真的去去注册了一个用户之后，你再去一步的去把这些数据同重新同步到云端什么的。因为你要去做很多这种逻辑，就在我看来简直他就是在刁难人，所以非常头大对。
-</p>
-<p class="transcript-line">
-<span class="time"><strong>[00:37:20]</strong> </span>
-<span class="speaker"><strong>发言人2: </strong></span>
-那这个时候如果你真的说傻乎乎的开始按照审核的意见去改，你就上当了。因为实际上这个审核判断的空间是很大的。因为你随便用几个APP，你就会发现大量的APP都是上来就要求你注册登录，不然你啥也干不了。像我们的这个竞品snap的就是这样的，然后包括像小宇宙其实也是这样的，你上来就得登录注册。那你说我听个播客节目为什么一定要登录，没有道理，对吧？但是实际上人家就是这么干的，可见这个不是一个死标准。所以你完全可以尝试，尝试什么呢？说服他，说服这个审核人员。
-</p>
-<p class="transcript-line">
-<span class="time"><strong>[00:37:56]</strong> </span>
-<span class="speaker"><strong>发言人2: </strong></span>
-我当时也在网上找了找大家是怎么处理的。因为很多人碰到这个问题，这个审核理由，然后有有网友提到说一个APP正常背后都是同一个人在审，所以你说我啥也不改，然后我再提交一遍，看看能不能碰运气。碰到一个标准宽松一点的审核人员是不太现实的，因为一定是同一个人在审理，那你也别想着说我去改个APP的model ID，改一个新的名字，当成一个新APP去申请商家换个审核人员行不行？最好不要做这个事情，因为apple会做二进制比对，它会发现你重复提交同样的APP，然后就可能给你的开发者账号封了，然后你这个应用没上去，九十九刀的这个开发者账号，这还丢了，浪费九十九刀。
-</p>
-<p class="transcript-line">
-<span class="time"><strong>[00:38:40]</strong> </span>
-<span class="speaker"><strong>发言人2: </strong></span>
-是对，所以最后我的策略就是向这个审核员去解释，然后做了一些象征性的修改，意思是我有在努力配合，然后最后还确实审核通过了。但总结一下的话，我感觉起作用的解释和修改是什么呢？是解释是我向这个审核员说，我们这个APP已经有web版，会有很多存量用户了。那这些存量用户需要一个APP，然后他们是一定需要登录才能得到完整的使用体验的。因为他们在web那边也有很多存量数据了，对吧？然后包括我们已经有很多付费用户，如果用户在多端发生重复订阅的情况，其实对用户体验来说是非常糟糕的。这个是解释的地方。
-</p>
-<p class="transcript-line">
-<span class="time"><strong>[00:39:19]</strong> </span>
-<span class="speaker"><strong>发言人2: </strong></span>
-其实我觉得比较有用的在于说，我强调我们已经存在一个APP web版，然后存在很多存在用户了。然后修改的地方是主要把一些之前访问会直接跳转到登录的这个链接，改造成了我会先展示一个功能说明，然后引导用户去点击登录。比如说跳转到这个用户的library的时候，以前点下去他直接就跳了。那现在我会告诉他说，这个是你的library，如果你需要获取你的这个浏览历史之类的，你就要去登录中间展示一下，就比较柔和一点。然后还有一个就是把内购的页面改为在未登录状态下也能完整展示，把订阅你能获得的这个features都列清楚。之前这个页面也是需要登录才能看到的，因为之前我的逻辑就很简单，你只有登录了你才能够去订阅。所以我就会提前要求用户登录才能看到这个内购的页面。反正把这个东西改了之后，大概来回改了有个三四次，然后加上解释，最后是审过了，但是搞了有接近一个月的时间。
-</p>
-<p class="transcript-line">
-<span class="time"><strong>[00:40:16]</strong> </span>
-<span class="speaker"><strong>发言人1: </strong></span>
-对我觉得你的解释还是挺合理的，我觉得于情于理也都应该给你过。那接下来的功能上面，就是在移动端我们未来的规划是什么？其实我们做的中文的翻译很久了，其实中文翻译我们其实最近也要去接了。那在移动端上面未来会有什么别的规划吗？
-</p>
-<p class="transcript-line">
-<span class="time"><strong>[00:40:36]</strong> </span>
-<span class="speaker"><strong>发言人2: </strong></span>
-移动端主要的这个roadmap肯定还是会跟着web走，web上什么APP就会上什么，毕竟我们是一个技术站，对吧？前面折腾那么久就是为了这个事情。对，所以就像你说的，比如说正在做的这个翻译功能，那肯定是web上了之后稍微稳定一点，就会给大家搞到APP上。这也是APP比较麻烦的一个地方，对吧？你不能随意的更新版本，然后还得考虑向前兼容的事情。Web的话无所谓，你随便更新，包括不兼容也没关系，反正你就给用户一个提示，让他强刷一下就好了。
-</p>
-<p class="transcript-line">
-<span class="time"><strong>[00:41:08]</strong> </span>
-<span class="speaker"><strong>发言人2: </strong></span>
-对，还有一些是APP能做，但是web做不了的优化，可能会抽空搞一搞，比如说我们现在这个DAI，也就是说这个动态广告探测的能力。Web因为受限于这个浏览器跨越保护的问题，现在探测效率其实不太高，也不是特别稳定。但是APP是有能力无视跨域问题的，有机会优化一下。但是这里面也会有很大的坑，就是像我刚刚说的那个对吧？他这个audio的获取的跨域处理什么的。因为你在web view里面反正就比较麻烦，要去搞一下。
-</p>
-<p class="transcript-line">
-<span class="time"><strong>[00:41:38]</strong> </span>
-<span class="speaker"><strong>发言人2: </strong></span>
-另外后续我觉得可以长期可以看的是说怎么和设备本身的能力去做进一步的集成。比如说apple的这个AI，apple intelligence有没有机会集成一下，将设备端的这个AI能力用起来，去提供一些轻量的诸如问答之类的这个future，可以不占用服务端的资源？这个我觉得也是一个挺好的思路。
-</p>
-<p class="transcript-line">
-<span class="time"><strong>[00:42:00]</strong> </span>
-<span class="speaker"><strong>发言人1: </strong></span>
-对对我觉得你最后讲的这个apple intelligence s这个确实是啊。因为它苹果现在OS16等等，未来的它其实都提供了类似这样的能力。那如果说我们能去调用它的apple intelligence，就是用户的隐私还得到了保障，还利用了他自己手机本身的能力。我觉得这个逻辑还挺好的。我觉得未来对真的苹果自己的IOS APP里边应该会有很多人会用到这个里面的能力。我猜。
-</p>
-<p class="transcript-line">
-<span class="time"><strong>[00:42:26]</strong> </span>
-<span class="speaker"><strong>发言人2: </strong></span>
-对，是的。
-</p>
-<p class="transcript-line">
-<span class="time"><strong>[00:42:27]</strong> </span>
-<span class="speaker"><strong>发言人1: </strong></span>
-那最后可以再期待一下。因为我们知道说现在有很多安卓的用户也在催，就问我们说你们这个安卓版到底啥时候上线？既然我们已经是capture做的这个封装技术站了，是不是这个安卓的版本其实也会很快的到来。
-</p>
-<p class="transcript-line">
-<span class="time"><strong>[00:42:41]</strong> </span>
-<span class="speaker"><strong>发言人2: </strong></span>
-对这个本身没什么难度。其实我们现在在这个安卓模拟器里面一直都是跑的好好的。之前最大的问题是我没有安卓设备，所以我就没办法去调试这个像play store的这个订阅之类的。然后可能有一些真机上的体验也不太确定是怎么样的，所以就一直没放。前段时间我买了一台二手的pixel 8，所以这个问题就算是解决了。等把手头的事情弄弄完，我就会去着手把这个google play store的适配和调试做了，然后应该就可以去上架了。但是这中间肯定还会有很多问题是我们因为就像我们去上apple的APP store一样，我们也是第一次去上google的play store，不知道这里面会有什么问题等着我们去体验，到时候可能也会需要搞一搞。对。
-</p>
-<p class="transcript-line">
-<span class="time"><strong>[00:43:28]</strong> </span>
-<span class="speaker"><strong>发言人1: </strong></span>
-对，反正到时候如果再有任何问题的话，我们再开一期博客，然后再跟大家来分享。毕竟我们是养成系博客。对对对，毕竟我们是养成系博客，可以跟大家持续不断的去更新我们自己碰到的问题等等之类的对对。
-</p>
-<p class="transcript-line">
-<span class="time"><strong>[00:43:42]</strong> </span>
-<span class="speaker"><strong>发言人2: </strong></span>
-踩坑日记。对。
-</p>
-<p class="transcript-line">
-<span class="time"><strong>[00:43:43]</strong> </span>
-<span class="speaker"><strong>发言人1: </strong></span>
-好的，那我们今天的分享就先到这里。如果大家对于我们产品上架还有别的任何疑问的话，也欢迎大家在下方留言跟我们讨论。最后也非常欢迎大家来APP store，然后下载并体验我们的产品potos。如果能再给个推荐语跟五星好评那就更好了。再次感谢大家。我们本期节目就先到这里，我们下期再见，拜拜。
-</p>
-<p class="transcript-line">
-<span class="time"><strong>[00:44:05]</strong> </span>
-<span class="speaker"><strong>发言人2: </strong></span>
-好，拜拜。
-</p>
-<p class="transcript-line">
-<span class="time"><strong>[00:44:07]</strong> </span>
-<span class="speaker"><strong>发言人1: </strong></span>
-以上就是我们本期播客的全部内容，感谢大家收听，也欢迎大家踊跃留言。如果你喜欢我们，欢迎点赞并分享给感兴趣的朋友。如果你在用苹果播客收听，也希望你花几秒钟给我们一个好评。这会让更多的人了解到，我们要是能再点击一下订阅，那就再好不过了。我们下周见。
-</p>]]></content:encoded>
-            <pubDate>Mon, 13 Jan 2025 22:00:00 GMT</pubDate>
-            <guid>67851bba1bf3f0ab2be0674d</guid>
         </item>
     </channel>
 </rss>
