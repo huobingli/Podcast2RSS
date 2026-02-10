@@ -4,7 +4,1797 @@
         <title>代码之外 Beyond Code</title>
         <link>https://www.xiaoyuzhoufm.com/podcast/6194d973c14c9a0db82de1ea</link>
         <description>程序员聊聊代码之外的事。</description>
-        <lastBuildDate>Thu, 01 Jan 2026 04:50:10 +0800</lastBuildDate>
+        <lastBuildDate>Wed, 11 Feb 2026 01:07:57 +0800</lastBuildDate>
+        <item>
+            <title>斩杀线到底存不存在，美国中产的隐性“对赌”</title>
+            <link>https://www.xiaoyuzhoufm.com/episode/697807dc109824f9e1be34d8</link>
+            <description>这期我们从一个最近很火的概念出发——“斩杀线”，来探讨一些财务困境。很多人以为自己处在稳定区间，但真正的中产体验往往不是“稳”，而是长期被迫在各种阈值里做选择：收入略高，福利拿不到；收入略低，又承受生活质量与机会成本；任何一次健康问题、大额支出、裁员波动，都可能触发连锁反应。
+本期节目把这种不安全感拆成可解释的结构：医保（尤其高自付额与网络规则）、税优账户（401k/HSA 等）、教育成本等等。我们试图说明：中产困境的核心不是不努力，而是被迫承担系统性的“不确定性”，并在每一年持续“对赌”未来的身体、收入与支出，这是一场长期的财务规划。
+00:00:00 片花，开场
+00:01:09 斩杀线定义
+00:10:10 是不是真的有斩杀线
+00:13:48 斩杀线原因，现金流，储蓄，超前消费，养老金 401k
+00:21:45 美国医保
+00:33:40 美国医疗,医疗支付系统
+00:53:30 消费分级，消费降级，空间套利
+00:59:48 无路可退的另一个原因
+01:04:26 没那么容易被斩杀
+01:14:50 美国的独特性
+01:17:20 预算
+本期主播：
+- GeekPlux https://geekplux.com
+- 勾股 https://jinjiang.me
+代码之外 Beyond Code 是一档由 GeekPlux 和 Randy 共同主持的程序员闲聊播客节目。节目地址：bento.me 我们的节目同时会发布视频版，在 YouTube 和 Bilibili 搜索「代码之外」都能找到我们。
+欢迎在 forms.office.com 向我们来信，我们会在下一期节目分享你的来信或解答你的疑惑。
+也欢迎在 爱发电 赞助我们。也欢迎赞助商联系我们商业合作。
+---
+金牌赞助商 / Golden Sponsor
+感谢 Relingo 赞助本期节目。Relingo 是一款借助 AI 来帮助你轻松扩大词汇量的工具。它提供了很多功能，比如网页查词、高亮显示、沉浸式翻译、PDF 文档翻译、以及 YouTube、Netflix 等多个视频网站的实时字幕翻译。让你在不影响阅读及观看体验的同时就能巩固和扩大英语词汇量。在 Relingo 官网输入优惠码 BEYONDCODE 下单可以享受 7 折优惠！
+* Relingo 官网链接：relingo.net
+* 7 折优惠码：BEYONDCODE
+赞助商 / Sponsor
+* Notepal 一键同步微信读书笔记到 Notion, Readwise, Logseq, 思源笔记等笔记软件
+* 笔记伴侣 App Notepal iOS 版，在手机上通过小组件回顾你的微信读书笔记，AI 笔记对话</description>
+            <content:encoded><![CDATA[<h1>转写链接</h1>
+<link>https://tongyi.aliyun.com/efficiency/doc/transcripts/klrbn2pp7pa495zy</link><br>
+<h1>节目摘要</h1>
+<div class="summary">本期播客聚焦美国社会中的“斩杀线”现象，指经济上勉强维持生计、小危机即可能致困的中产家庭。分析了原因包括高昂医疗费、高教育费、就业市场不稳定性、高住房负担及不良消费储蓄习惯。建议策略涵盖增强预算管理、合理规划财务、利用金融工具与寻求政府援助。强调掌握主流知识与AI辅助理解复杂规则的重要性，并分享了个人经验揭示实际情况，特别关注种族、族群包容性及全球化背景下地区差异，提醒内容主要基于美国情况，可能不完全适用所有人。</div><br>
+<h1>章节速览</h1>
+<div class="chapters">
+<div class="chapter-item">
+<span class="time"><strong>[00:00:00]</strong> </span>
+<span class="chapter-title"><strong>斩杀线：有工作却无法翻身的困境</strong></span>
+<div class="chapter-summary">讨论了斩杀线的概念，即资产有限、收入受限但仍有工作的人群面临的困境。这些人虽有工作，但无法积累财富或提升收入，处于社会经济结构的底层，无法享受高报销额度医保等福利，体现了现代社会中的一种特殊经济困境。</div>
+</div>
+<div class="chapter-item">
+<span class="time"><strong>[00:03:01]</strong> </span>
+<span class="chapter-title"><strong>斩杀线与阶层固化：中产阶级的经济焦虑</strong></span>
+<div class="chapter-summary">讨论了斩杀线概念，即中产阶级经济下滑至无法返回原阶层的现象，以及美国同事对自身阶层认知的自信，反映了经济安全与阶层流动性问题。</div>
+</div>
+<div class="chapter-item">
+<span class="time"><strong>[00:07:47]</strong> </span>
+<span class="chapter-title"><strong>斩杀线与美国社会福利探讨</strong></span>
+<div class="chapter-summary">讨论了美国各州经济差异、低保线定义及斩杀线现象，分析了单亲父母、年轻人、老年人和临时工等易陷入经济困境的群体，以及学生贷款、医疗账单和收入不稳定等因素的影响。提及加州政府对低收入家庭的托儿服务补贴政策。</div>
+</div>
+<div class="chapter-item">
+<span class="time"><strong>[00:13:45]</strong> </span>
+<span class="chapter-title"><strong>美国现金流管理与斩杀线现象</strong></span>
+<div class="chapter-summary">讨论了美国居民因现金流管理不善导致难以应对突发费用的情况，分析了低储蓄率、高税收、复杂养老金体系及医保费用对个人财务的影响，揭示了超前消费理念下居民财务安全的脆弱性。</div>
+</div>
+<div class="chapter-item">
+<span class="time"><strong>[00:19:14]</strong> </span>
+<span class="chapter-title"><strong>美国生活成本与养老金规划的现金流挑战</strong></span>
+<div class="chapter-summary">对话探讨了在美国生活时，个人需面对的固定支出如房租、车险、水电网费等，以及养老金规划对当前现金流的影响。即使收入可观，扣除各项必要开销后，剩余可用于日常消费的金额有限。规划养老金虽有税收优惠，但可能导致当前生活拮据，需谨慎平衡当前与未来财务需求。</div>
+</div>
+<div class="chapter-item">
+<span class="time"><strong>[00:21:53]</strong> </span>
+<span class="chapter-title"><strong>美国医疗账户HSA与FSA的运作机制</strong></span>
+<div class="chapter-summary">讨论了美国高理赔额保险与HSA账户的关系，HSA账户允许投资股票且免税，但资金仅限医疗用途。FSA账户与低理赔额保险相关，可用于支付托儿费用，但资金不可结转至下一年。两种账户的使用需根据个人医疗需求和财务规划进行选择，体现了个人财务与医疗保险之间的复杂平衡。</div>
+</div>
+<div class="chapter-item">
+<span class="time"><strong>[00:25:54]</strong> </span>
+<span class="chapter-title"><strong>美国理财与借贷风险探讨</strong></span>
+<div class="chapter-summary">对话围绕美国的理财策略、养老金规划、信用卡使用及高利息贷款展开，强调了全面了解金融产品规则的重要性，以及不当决策可能导致的财务困境，如现金流问题、高额罚款和利息负担。</div>
+</div>
+<div class="chapter-item">
+<span class="time"><strong>[00:30:28]</strong> </span>
+<span class="chapter-title"><strong>海外生活消费与医疗保障的对赌策略</strong></span>
+<div class="chapter-summary">对话讨论了海外生活的高昂消费，包括水电费、网络费及娱乐费用，并深入探讨了美国医保制度中的对赌机制，即个人需根据对自身健康状况的预测选择高或低报销额度的保险，从而影响个人现金流与医疗支出。</div>
+</div>
+<div class="chapter-item">
+<span class="time"><strong>[00:33:57]</strong> </span>
+<span class="chapter-title"><strong>美国医疗体系问题引发社会争议</strong></span>
+<div class="chapter-summary">对话深入探讨了美国医疗体系的高昂成本与效率低下问题，通过引用具体数据，如医疗支出占GDP比例高、家庭医疗支出是其他发达国家的两倍，以及人均就医次数低，揭示了系统存在的严重问题。同时，提及因医疗问题引发的社会事件，如保险公司CEO被枪杀后民众的反应，反映了公众对医疗体系的强烈不满。尽管美国在医疗技术方面领先，但整体医疗系统被批评为存在重大缺陷，甚至被形容为一个‘超大的骗局’。</div>
+</div>
+<div class="chapter-item">
+<span class="time"><strong>[00:38:29]</strong> </span>
+<span class="chapter-title"><strong>医疗费用与保险对赌的复杂关系</strong></span>
+<div class="chapter-summary">对话深入探讨了患者在医疗系统中的被动地位，特别是当医院与保险公司因账单问题发生对赌时，患者往往成为最终的牺牲品。医生可能出于利益考虑，过度治疗以增加账单，而保险公司则会质疑这些账单的合理性，导致患者面临高额自付费用的风险。此外，即便医生承诺某些治疗可走医保，实际操作中也可能因各种原因无法报销，增加了患者的经济负担。整个医疗费用结算过程复杂且不透明，患者在其中往往难以掌控自己的医疗费用。</div>
+</div>
+<div class="chapter-item">
+<span class="time"><strong>[00:45:45]</strong> </span>
+<span class="chapter-title"><strong>医疗与保险行业利益链剖析</strong></span>
+<div class="chapter-summary">对话深入探讨了医院与保险公司在利益驱动下的行为模式，指出当两者串通时，可能通过抬高账单和拒保等方式获利，而非关注患者实际治疗效果。此外，还讨论了美国医疗体系中不同层级保险的特点，以及个人在面对高昂医疗费用时的操作空间。</div>
+</div>
+<div class="chapter-item">
+<span class="time"><strong>[00:52:45]</strong> </span>
+<span class="chapter-title"><strong>美国消费分级与物价上涨影响生活成本</strong></span>
+<div class="chapter-summary">讨论了美国消费分级的特点，指出即使收入水平不同，日常花销差异不大，主要差距体现在房租、教育等大额支出上。提及物价因通货膨胀上涨显著，影响生活质量。对比其他国家，美国三线与一线城市消费差距较小，导致生活成本普遍较高，即使在小城市也难以大幅降低开支。</div>
+</div>
+<div class="chapter-item">
+<span class="time"><strong>[00:59:47]</strong> </span>
+<span class="chapter-title"><strong>一线城市成长困境与回退选择的思考</strong></span>
+<div class="chapter-summary">对话探讨了一线城市成长者的心理压力和挑战，特别是当他们面临困境时缺乏回退选项的困境。对比了二线三线城市居民在遭遇不顺时仍可选择回退至更舒适环境的优势。此外，还讨论了教育资源分配不均导致的额外压力，以及大城市居民在心理上感到无处可退的痛苦。最后，提到了美国避税方法的多样性及个人对未来财务规划的兴趣。</div>
+</div>
+<div class="chapter-item">
+<span class="time"><strong>[01:04:49]</strong> </span>
+<span class="chapter-title"><strong>美国高等教育与经济压力</strong></span>
+<div class="chapter-summary">讨论了美国高等教育的高昂成本，包括本科和研究生教育，以及由此带来的学生贷款问题。分析了经济负担如何影响个人财务状况，包括离婚后的赡养费等额外支出，可能导致的现金流断裂和无家可归风险，强调了财务规划和应急措施的重要性。</div>
+</div>
+<div class="chapter-item">
+<span class="time"><strong>[01:08:26]</strong> </span>
+<span class="chapter-title"><strong>理性消费与借贷风险探讨</strong></span>
+<div class="chapter-summary">对话围绕理性消费、避免过度借贷及投资风险展开，强调了养老金、保险和房产投资可能带来的财务压力。参与者分享了个人经历，包括刚工作时的资金周转困难，以及在美国社会中借钱的实际情况，指出美国社会在资金周转困难时的互助程度有限，更多依赖于政府兜底，但不同州的政策差异较大。</div>
+</div>
+<div class="chapter-item">
+<span class="time"><strong>[01:14:49]</strong> </span>
+<span class="chapter-title"><strong>美国社会特点与个人奋斗观念探讨</strong></span>
+<div class="chapter-summary">讨论了美国社会中普遍存在的个人奋斗理念，以及与之相对应的低福利保障体系，指出这可能导致从学生到老年的各个年龄段面临所谓的‘斩杀线’危机。与北欧等高福利国家相比，美国更强调适者生存的丛林法则，个人失败后缺乏社会支持。此外，还提及了美欧生活方式与理念的差异，并就未来前往美国生活的建议进行了探讨。</div>
+</div>
+<div class="chapter-item">
+<span class="time"><strong>[01:17:33]</strong> </span>
+<span class="chapter-title"><strong>AI辅助下的美国财务规划与规则理解</strong></span>
+<div class="chapter-summary">对话强调了预算管理作为提升生活质量的核心技能，介绍了如何通过AI工具优化个人财务状况，包括制定预算和了解复杂的美国规则体系。参与者鼓励听众利用AI自我纠察和验证信息，以制定有效的财务目标，同时提醒关注美国多样化的社会环境，分享了个人理财经验的普遍适用性。</div>
+</div>
+</div><br>
+<h1>问题回顾</h1>
+<div class="qa-item">
+<div class="question"><strong>Q:</strong> 我们这一期来聊一聊斩杀线，你有明确的定义没有？</div>
+<div class="answer"><strong>A:</strong> 我为了准备这期节目专门查了一下维基百科，发现“斩杀线”在英文中对应的是ALICE（资产有限、收入也有限的工作人士），这个词体现了他们虽然有工作，但资产有限、收入有限的困境。</div>
+</div>
+<div class="qa-item">
+<div class="question"><strong>Q:</strong> 这个词的具体含义是什么？</div>
+<div class="answer"><strong>A:</strong> ALICE中的五个字母分别代表asset limited（资产有限）、income constraint（收入有限）以及employ（有工作）。所以，斩杀线实际上是一个定义，指那些有工作但无法通过自身努力摆脱贫困状态的人群。</div>
+</div>
+<div class="qa-item">
+<div class="question"><strong>Q:</strong> 美国人是否听说过斩杀线？</div>
+<div class="answer"><strong>A:</strong> 当我第一次提到斩杀线时，我的美国同事表示他们之前没听过这个词。当我说出“American kill line”时，他们理解为“杀死美国人”的意思，但当我解释后，他们对这个概念有所了解，并认为自己可能属于中产阶级，不太可能掉入斩杀线以下的阶层。</div>
+</div>
+<div class="qa-item">
+<div class="question"><strong>Q:</strong> 在美国，如何界定中产阶级？</div>
+<div class="answer"><strong>A:</strong> 美国同事普遍认为，达到一定税收水平（如联邦税的第二个level）就可以算作中产阶级，而从这个阶层滑到下一个税收级别会相对困难。他们不关注资产，只看收入。</div>
+</div>
+<div class="qa-item">
+<div class="question"><strong>Q:</strong> 为什么会有斩杀线的现象出现？</div>
+<div class="answer"><strong>A:</strong> 根据新闻报道和讨论，斩杀线现象主要涉及到单亲父母、年轻人、老年人和临时工这四类人群。这些群体由于单亲、缺乏财富积累、医疗开销过大或收入不稳定等原因，容易陷入斩杀线的困境。</div>
+</div>
+<div class="qa-item">
+<div class="question"><strong>Q:</strong> 对于现金流管理的重要性在美国社会中是如何体现的？</div>
+<div class="answer"><strong>A:</strong> 在美国，现金流管理是一项复杂任务，很多人因为超前消费、储蓄率低等原因，往往难以应对几百美元的突发开支，如修车或看牙等，从而可能被斩杀线所影响。</div>
+</div>
+<div class="qa-item">
+<div class="question"><strong>Q:</strong> 美国的养老保险是如何随着股市增长而增长的？</div>
+<div class="answer"><strong>A:</strong> 美国的养老保险与股市挂钩，随着股市的增长，个人账户中的资金也会相应增长。与一些国家不同，美国的养老保险不是固定不变的，而是与股市表现紧密相关。</div>
+</div>
+<div class="qa-item">
+<div class="question"><strong>Q:</strong> 美国的个税和社保缴费是如何计算的？</div>
+<div class="answer"><strong>A:</strong> 在美国，以月收入一万美金为例，首先需要缴纳联邦税，税率大约为22%，然后根据所在州的不同，还需缴纳州税和市税。此外，还有401K养老保险，有税前扣款（401K）和税后扣款两种模式。同时，医保也是可以税前扣或者税后扣，但最终都会涉及税收。</div>
+</div>
+<div class="qa-item">
+<div class="question"><strong>Q:</strong> 税前扣款的养老金（401K）和其他形式的养老金有何区别？</div>
+<div class="answer"><strong>A:</strong> 税前扣款的401K养老金是在计算所得税之前就进行了扣除，是一种较为有利的方式，因为减少了当期应纳税所得额。而税后扣款的养老金则不受此优势影响，且无论哪种养老金，其取出时都需要交税，只是当前缴税与未来取税间的平衡问题。</div>
+</div>
+<div class="qa-item">
+<div class="question"><strong>Q:</strong> 美国员工在高薪情况下为何感觉生活拮据？</div>
+<div class="answer"><strong>A:</strong> 在高薪环境下工作的员工，如Google的程序员，由于将可支配收入的很大一部分投入到养老金、医保等税务优惠账户中，导致每月实际可用来消费的资金减少。例如，若将各种税收和养老金额度拉满，可能只剩几千美元，难以满足日常生活开销。</div>
+</div>
+<div class="qa-item">
+<div class="question"><strong>Q:</strong> 美国的医疗账户HSA和FSA有何特点及用途？</div>
+<div class="answer"><strong>A:</strong> HSA和FSA是两种医疗账户，其中HSA适用于高理赔额保险，可以投资股票且收益免税，但必须用于医保支出；而FSA则与低理赔额保险关联，可用于支付daycare费用，但每年有额度上限且不可结转至下一年。选择哪种医疗账户和保险计划需根据个人健康状况和预算进行精细规划。</div>
+</div>
+<div class="qa-item">
+<div class="question"><strong>Q:</strong> 美国的小额贷款利息是不是非常高？对于信用卡利息问题，很多人有没有清晰的概念？</div>
+<div class="answer"><strong>A:</strong> 是的，美国的小额贷款利息普遍较高。例如信用卡，如果持卡人只还最低还款额，第三年后的利息可能高达30%。很多人对信用卡利息的实际水平没有概念，甚至一些收入不错的同事在只还最低还款额的情况下，由于没有及时关注和还款，最终会面临高额利息，甚至还不起的情况。</div>
+</div>
+<div class="qa-item">
+<div class="question"><strong>Q:</strong> 在金融领域中，消费者如何避免被“薅羊毛”？</div>
+<div class="answer"><strong>A:</strong> 消费者需要全面了解各个账户的规则，认真阅读相关条款，这样才能清楚自己消费的每一笔钱因何产生，以及如何避免不必要的额外支出。</div>
+</div>
+<div class="qa-item">
+<div class="question"><strong>Q:</strong> 对于美国的医疗系统，您有什么看法？</div>
+<div class="answer"><strong>A:</strong> 美国的医疗系统存在诸多问题，比如高昂的费用、复杂的保险机制等。其中提到美国医疗成本占GDP的18%，家庭医疗支出是其他发达国家的两倍，而且每人每年平均就医次数并不多，这表明整个医疗支付循环系统存在问题，存在很大的优化空间。</div>
+</div>
+<div class="qa-item">
+<div class="question"><strong>Q:</strong> 美国医疗系统中的医院与保险公司是如何结算的？</div>
+<div class="answer"><strong>A:</strong> 在美国，医院不是直接向患者收费，而是与保险公司结算。患者通常预先支付一定比例的费用，如每月或每年的保险费，但在实际看病时，大部分费用由保险公司承担。然而，保险公司与医院之间经常就费用进行争执和对赌，有时会导致患者收到超出预期的高额账单。</div>
+</div>
+<div class="qa-item">
+<div class="question"><strong>Q:</strong> 如果保险覆盖的项目不包括某个检查或治疗，患者是否需要自己承担这部分费用？</div>
+<div class="answer"><strong>A:</strong> 是的，即使医生承诺某项检查或治疗能走医保，最终也可能因为其中某个环节不在保险范围内，而需要患者自己支付这部分费用，这种情况相当常见且令人沮丧。</div>
+</div>
+<div class="qa-item">
+<div class="question"><strong>Q:</strong> 如果遇到医疗账单问题，你会怎么做？</div>
+<div class="answer"><strong>A:</strong> 那起诉呗，如果对账单不满意，可以采取法律手段解决。</div>
+</div>
+<div class="qa-item">
+<div class="question"><strong>Q:</strong> 你个人有没有遇到过类似的问题？</div>
+<div class="answer"><strong>A:</strong> 我遇到过一个现实中的例子，一个朋友看病后产生了天价账单，至今医院和保险还在为此争执，没有解决。</div>
+</div>
+<div class="qa-item">
+<div class="question"><strong>Q:</strong> 美国医疗系统是否允许患者讨价还价？</div>
+<div class="answer"><strong>A:</strong> 美国医疗系统中，虽然理论上患者可以讨价还价，但通常由于忙碌或认为费用不多，患者并不会真正去砍价。医疗费用是透明的，每次治疗都有特定编码，医院会尽量报能报销的部分以获取最大利益，而保险公司则根据实际使用情况进行赔付。</div>
+</div>
+<div class="qa-item">
+<div class="question"><strong>Q:</strong> 这个过程中医院和保险是如何操作的？对于医院与保险公司间的冲突，你怎么看？</div>
+<div class="answer"><strong>A:</strong> 医院有一个记录患者所有行为的系统，将每次治疗编码后上报给保险，最终医院与保险协商确定患者应支付的金额。虽然两者利益相冲突会导致过程复杂，但某种程度上他们的battle可能会让患者受益，因为它们可能会把水分去掉。不过，也有更糟糕的情况是两者串通起来，共同抬高医疗费用。</div>
+</div>
+<div class="qa-item">
+<div class="question"><strong>Q:</strong> 美国医院和诊所之间是否存在区别，以及保险覆盖范围如何影响费用？</div>
+<div class="answer"><strong>A:</strong> 美国的医院和诊所确实有区别，是否在保险网络内会影响费用。例如，如果在非网络诊所看病，费用可能会更高。此外，不同的商业保险套餐覆盖范围不同，网络内与网络外的医疗机构类别和报销比例也会影响看病的总花费。</div>
+</div>
+<div class="qa-item">
+<div class="question"><strong>Q:</strong> 美国的医疗体系是否存在灵活度不够的问题，似乎大数字消费很普遍？</div>
+<div class="answer"><strong>A:</strong> 是的，在美国感觉各个层面的消费都相对较高，且没有像新加坡那样灵活的消费分级选择。物价上涨较快，不同收入群体之间的消费差距也较大，普通家庭在医疗、教育等方面的大额消费压力较大。</div>
+</div>
+<div class="qa-item">
+<div class="question"><strong>Q:</strong> 美国消费的分级是否主要体现在特定的支出上，例如房租、教育和daycare等家庭几大支出？</div>
+<div class="answer"><strong>A:</strong> 是的，消费的分级体现在这些家庭关键支出上。尽管在一线城市的消费水平相对较高，但在日常花销如买肉、买菜等方面，一线与三线城市的差距并不明显。然而，房租、教育和daycare等方面的成本在不同城市间存在较大差异。</div>
+</div>
+<div class="qa-item">
+<div class="question"><strong>Q:</strong> 这种地域性消费差距为何会导致人们难以从一线城市回退到三线城市生活？对于在非一线城市长大后打拼到一线，如果遇到困难，为何难以选择回退？</div>
+<div class="answer"><strong>A:</strong> 即使在三线城市生活，为了维持基本温饱，也需要花费较多的钱，回退的空间有限，大约只有20%左右。此外，大城市如加州的生活水平很高，即使面临困难，仍可能通过各种途径（如低保、救济等）继续生活，而在小城市则没有这样的回退选项或挑战更大。对于非一线城市背景的人来说，他们在一线城市打拼时经历了漂泊过程，并且通常有一个可以回退的舒适环境。但对真正一线城市长大的人，在生活困难时，他们往往没有明显的地方可以回退，同时又面临本地及外地人的激烈竞争，心理压力大且上升空间受限。</div>
+</div>
+<div class="qa-item">
+<div class="question"><strong>Q:</strong> 学生贷款对美国人的经济压力有何影响？</div>
+<div class="answer"><strong>A:</strong> 学生贷款在美国非常普遍，尤其对于中部州人均收入中位数4万至6万美元的家庭来说，四年本科教育费用可能占其年收入的40%。而且，硕士研究生课程学费更高，有时甚至达到每年10万美金以上，这给学生家庭带来了巨大的经济负担，可能导致过度消费和杠杆使用，从而陷入财务困境。</div>
+</div>
+<div class="qa-item">
+<div class="question"><strong>Q:</strong> 除了医疗、日结工等因素外，离婚单亲也是一个导致人们陷入财务困境并可能流离失所的重要原因吗？</div>
+<div class="answer"><strong>A:</strong> 离婚单亲确实可以成为导致无家可归的原因之一。败诉一方可能需要支付赡养费，这笔持续支出加上其他额外开销可能导致现金流断裂，进而陷入借款恶性循环，最终可能失去住所。</div>
+</div>
+<div class="qa-item">
+<div class="question"><strong>Q:</strong> 如果当时被裁了，你会怎么办？</div>
+<div class="answer"><strong>A:</strong> 当时我有信心能找到高薪工作，并且觉得周围的朋友关系网络能够互相帮助和支援。</div>
+</div>
+<div class="qa-item">
+<div class="question"><strong>Q:</strong> 当时你是否意识到自己处在斩杀线（财务危机）上？</div>
+<div class="answer"><strong>A:</strong> 当时并没有觉得这是一个非常严重或致命的情况，只是一段经历，虽然现在回想起来确实很糟糕。</div>
+</div>
+<div class="qa-item">
+<div class="question"><strong>Q:</strong> 在美国，当面临经济困难时，大家是否能相互借钱或得到支持？</div>
+<div class="answer"><strong>A:</strong> 大家普遍积蓄不多，很难从他人那里借到钱。但如果遇到困难，朋友间会有一定的相互关怀与支持。</div>
+</div>
+<div class="qa-item">
+<div class="question"><strong>Q:</strong> 对于美国社会中朋友之间的相互支持程度，你有何看法？</div>
+<div class="answer"><strong>A:</strong> 认为这种相互支持的程度有限且短期，不能完全依赖朋友或社交圈来解决问题，更多时候需要依靠政府兜底。</div>
+</div>
+<div class="qa-item">
+<div class="question"><strong>Q:</strong> 美国的社会特点是否反映了丛林法则和个人奋斗为主的思想？</div>
+<div class="answer"><strong>A:</strong> 是的，美国鼓励个人奋斗，具有很强的竞争性，如果在竞争中失败，就需要自己承担后果。</div>
+</div>
+<div class="qa-item">
+<div class="question"><strong>Q:</strong> 在美国学习生活，最重要的技能是什么？对于刚到美国或者有去美国打算的人，你有什么建议？</div>
+<div class="answer"><strong>A:</strong> 最重要的技能是预算管理，通过制定合理的预算计划，可以提升生活质量并更好地管理财务。建议掌握预算技能，并利用AI工具辅助了解和适应美国的各种规则，以便更好地规划和管理财务。</div>
+</div>
+<h1>节目文稿</h1>
+<p class="transcript-line">
+<span class="time"><strong>[00:00:00]</strong> </span>
+<span class="speaker"><strong>发言人1: </strong></span>
+他们觉得他们肯定是中产，可能更多的是被人拿枪kill，不是被这个经济。很多地方都是对赌，高报销额度的医保还是低报销额度的医保，完全取决于你对下一年你的身体状态的对赌。然后最死的地方就来了，就算是医生承诺了这个东西肯定能走医保，最后也不一定报。
+</p>
+<p class="transcript-line">
+<span class="time"><strong>[00:00:23]</strong> </span>
+<span class="speaker"><strong>发言人2: </strong></span>
+欢迎收听最新一期的代码之外节目，我是勾股。
+</p>
+<p class="transcript-line">
+<span class="time"><strong>[00:00:28]</strong> </span>
+<span class="speaker"><strong>发言人1: </strong></span>
+我是geek plus。
+</p>
+<p class="transcript-line">
+<span class="time"><strong>[00:00:38]</strong> </span>
+<span class="speaker"><strong>发言人2: </strong></span>
+好，我们这一期来聊一聊斩杀线，就直奔主题三个字，就是最近非常其实已经不是最近了，不是最近的人。总之我们聊聊斩杀线这个名词。这个名词反正突然一下变成了很多人讨论的一个话题。然后刚好咱们频道有人现身说法。
+</p>
+<p class="transcript-line">
+<span class="time"><strong>[00:01:01]</strong> </span>
+<span class="speaker"><strong>发言人1: </strong></span>
+身处在水深火热之中。
+</p>
+<p class="transcript-line">
+<span class="time"><strong>[00:01:04]</strong> </span>
+<span class="speaker"><strong>发言人2: </strong></span>
+对，水深火热的美地。来吧，今天就是你的主场了。这个前情提要还要介绍吗？我估计咱们听众都不需要介绍了，还是简单说一下。
+</p>
+<p class="transcript-line">
+<span class="time"><strong>[00:01:14]</strong> </span>
+<span class="speaker"><strong>发言人1: </strong></span>
+可能得简单说一下。什么是斩杀线，你有明确的定义没有？
+</p>
+<p class="transcript-line">
+<span class="time"><strong>[00:01:20]</strong> </span>
+<span class="speaker"><strong>发言人2: </strong></span>
+好问题。我为了准备这期节目，还专门查了一下我查了一下维基百科，我给我查了一下维基百科的英文版，我发现虽然他咱们中文叫斩杀线，英文里面有一个词，这个词其实早就有了，不是最近才有的词。
+</p>
+<p class="transcript-line">
+<span class="time"><strong>[00:01:37]</strong> </span>
+<span class="speaker"><strong>发言人1: </strong></span>
+对，这样的。
+</p>
+<p class="transcript-line">
+<span class="time"><strong>[00:01:39]</strong> </span>
+<span class="speaker"><strong>发言人2: </strong></span>
+我查了一下，这个词是一个缩写叫ALICE Alice，我不知道怎么念，ALICE，然后五个词的缩写，什么缩写呢？AL是asset limited，就是资产有限。然后IC是income constraint，就是收入也有限。然后最后一个e kick plus，猜一下E是什么意思？Eliminated不是再给你一次机会。
+</p>
+<p class="transcript-line">
+<span class="time"><strong>[00:02:12]</strong> </span>
+<span class="speaker"><strong>发言人1: </strong></span>
+E我觉得。
+</p>
+<p class="transcript-line">
+<span class="time"><strong>[00:02:13]</strong> </span>
+<span class="speaker"><strong>发言人2: </strong></span>
+这个词很有趣，对你你不一定猜得到这个词是employ，还有工作意思就是说他不是闲人，他不是那种不想找工作的人。
+</p>
+<p class="transcript-line">
+<span class="time"><strong>[00:02:25]</strong> </span>
+<span class="speaker"><strong>发言人1: </strong></span>
+不是还说是被淘汰的人。
+</p>
+<p class="transcript-line">
+<span class="time"><strong>[00:02:28]</strong> </span>
+<span class="speaker"><strong>发言人2: </strong></span>
+对，不是失业的人，他是真正有工作的人。但是他虽然有工作，但是还是资产有限，还是这个收入有限，是体现了这么一种困境。他不是那种所谓的吃低保的，就在美国说吃低保的你也不用工作，反正就零分低保的那个那个收入或者维持最基本的生计就完了。他还没到这个线，所以他还拿不到这个东西。然后他有工作，但是有即便有工作他也奋斗不上去。指的是这样一个状态，叫这个LICEA Alice.
+</p>
+<p class="transcript-line">
+<span class="time"><strong>[00:03:01]</strong> </span>
+<span class="speaker"><strong>发言人1: </strong></span>
+或者是我感觉这个定义就特别的具体。对，就是跟我们好像在媒体上或者说新闻里听到那个斩杀线，好像有点过于具体了。我们现在这个斩杀线模糊到就是让让人觉得一个中产就能随便被斩杀。
+</p>
+<p class="transcript-line">
+<span class="time"><strong>[00:03:19]</strong> </span>
+<span class="speaker"><strong>发言人2: </strong></span>
+对，或者斩杀线说的是个现象，是个结果。然后它这个AOICE这五个字母就是非常从实际情况定义了一下，等于算是一个定义。
+</p>
+<p class="transcript-line">
+<span class="time"><strong>[00:03:30]</strong> </span>
+<span class="speaker"><strong>发言人1: </strong></span>
+有点这种感觉。OK其实第一次听到这个斩杀线的名词的时候，我跟我的同事，因为他们是美国人，我就问他们有没有听过这个斩杀线。
+</p>
+<p class="transcript-line">
+<span class="time"><strong>[00:03:41]</strong> </span>
+<span class="speaker"><strong>发言人2: </strong></span>
+他们完全没有听过。你怎么用英文。
+</p>
+<p class="transcript-line">
+<span class="time"><strong>[00:03:43]</strong> </span>
+<span class="speaker"><strong>发言人1: </strong></span>
+跟他们说kill american，不是，它是american kill line。然后这个词儿你搜american kill.
+</p>
+<p class="transcript-line">
+<span class="time"><strong>[00:03:52]</strong> </span>
+<span class="speaker"><strong>发言人2: </strong></span>
+的话也有是吧？
+</p>
+<p class="transcript-line">
+<span class="time"><strong>[00:03:54]</strong> </span>
+<span class="speaker"><strong>发言人1: </strong></span>
+对，他是就是因为最近火了，他可能才就才有这个词儿，但反正新闻里你就会基本上都会说标题就是说什么，这都会带上查一娜的，基本上然后是什么，大家沉迷于研究这个斩杀线，或者说探讨这个斩杀线的这个话题。对，然后我就问他们这些美国人，你们觉得有没有斩杀线？他们说应该没有，感觉好像不会随便就会被kill。然后可能更多的是被人拿枪Q不是被这个经济去Q我。然后我就说对，他们当然也是开玩笑的。
+</p>
+<p class="transcript-line">
+<span class="time"><strong>[00:04:32]</strong> </span>
+<span class="speaker"><strong>发言人2: </strong></span>
+但是反正他们字面意思理解了。
+</p>
+<p class="transcript-line">
+<span class="time"><strong>[00:04:36]</strong> </span>
+<span class="speaker"><strong>发言人1: </strong></span>
+这个Q对，但是从他们的观点来说，他们还是不太容易掉到这个阶层下面的。然后我就顺便又问了一个问题，我说你们觉得你们属于什么阶层？当时他们的答案让我有点出乎意料，就是他们觉得他们肯定是中产，其实我对我自己，我都不不一定觉得我是中产。因为我对中产的定义可能是说你首先要有一套这至少是付了首付。
+</p>
+<p class="transcript-line">
+<span class="time"><strong>[00:05:02]</strong> </span>
+<span class="speaker"><strong>发言人2: </strong></span>
+OK然后你的。
+</p>
+<p class="transcript-line">
+<span class="time"><strong>[00:05:04]</strong> </span>
+<span class="speaker"><strong>发言人1: </strong></span>
+贷款最起码不要在你每个月就是贷每个月要支付的贷款，还有一些维护费用，不要占你收入的20%，这是我的一个基本定义了。OK, 但是他们是从收入来看的，他们不看你的这个assets，不看你的资产。就是他们觉得你的收入达到一定的。
+</p>
+<p class="transcript-line">
+<span class="time"><strong>[00:05:23]</strong> </span>
+<span class="speaker"><strong>发言人2: </strong></span>
+这个能赚到多少钱？不看你的生活就是开销什么的，他单方面？
+</p>
+<p class="transcript-line">
+<span class="time"><strong>[00:05:29]</strong> </span>
+<span class="speaker"><strong>发言人1: </strong></span>
+他说很简单，就是你在那个联邦税，就美国他基本上就是这个国家就是以税资本主义社会，以税为以为生的一个国家。然后他说基本上你要达到联邦税的，比如说第二个level的话，他说他就觉得这个是一个肯定是中产。然后他们定义完这个中产之后，他就说从这个滑到下一个税的level还是挺难的。然后我就说我心里就觉得他们的这个自信，与生俱来的自信。
+</p>
+<p class="transcript-line">
+<span class="time"><strong>[00:05:59]</strong> </span>
+<span class="speaker"><strong>发言人2: </strong></span>
+我真的是不是非常start up，就只只算只算营收，不算利润。
+</p>
+<p class="transcript-line">
+<span class="time"><strong>[00:06:05]</strong> </span>
+<span class="speaker"><strong>发言人1: </strong></span>
+对我可能我这个样本还是太小了。我就问了三个同事，吃饭的一共四个人，除了我之外三个同事他们都觉得我们都是中产，而且他们不会掉落下去，但是可能程序员或者说这个职业还是有一定的优势。相对于其他来说，我不确定。
+</p>
+<p class="transcript-line">
+<span class="time"><strong>[00:06:26]</strong> </span>
+<span class="speaker"><strong>发言人2: </strong></span>
+这个行业相对来讲还没有至少还没有走到夕阳的那个至少截止到今天我不知道今年会怎样。
+</p>
+<p class="transcript-line">
+<span class="time"><strong>[00:06:34]</strong> </span>
+<span class="speaker"><strong>发言人1: </strong></span>
+对AI出来不知道会怎么样，但是至少还没现在至少还好一点。但是网上流传的那个视频，不是说55岁什么java s script程序员在街头流浪的那个，说他还在学习前端知识，还在学习，只是因为生活所迫，不得不到留流浪的这个地步。他就就网上很多视频就是转网上很多文章或者说什么推特转这个，然后说他就是被斩杀了，这个就是斩杀线之后的效果就是这样的。
+</p>
+<p class="transcript-line">
+<span class="time"><strong>[00:07:06]</strong> </span>
+<span class="speaker"><strong>发言人1: </strong></span>
+你可能就流浪，然后流浪一段时间变成homeless，然后就自然死亡了。可能这个死亡的原因，具体就涉及到各种医疗的问题，我们一会儿可以再讲。但是反正好他们对觉得这个斩杀线，我觉得你刚才你给的定义就比较具体。反正笼统的来说就是说从一个阶级滑向了更低的阶级，然后就再也不能再返回去了。就回退之后再也不能再返回上面阶级了。最后导致结果就是一直回退回退到homeless，就是连住的地方都没有然后最后就被社会淘汰，然后有点社会性死亡的这个感觉。
+</p>
+<p class="transcript-line">
+<span class="time"><strong>[00:07:48]</strong> </span>
+<span class="speaker"><strong>发言人2: </strong></span>
+不过我想补充一个信息，你刚才说那个什么流浪街头的那个jazz script，我后来查了一下，那个那个好像是在英国，不是在美国。
+</p>
+<p class="transcript-line">
+<span class="time"><strong>[00:07:57]</strong> </span>
+<span class="speaker"><strong>发言人1: </strong></span>
+对我我只是说就是对。
+</p>
+<p class="transcript-line">
+<span class="time"><strong>[00:08:00]</strong> </span>
+<span class="speaker"><strong>发言人2: </strong></span>
+不是实际情况，但反正这个应该是在程序员这个圈子就把它当当梗图在传了，是吧？大家也不在乎是不是真相了，就把这东西当做一个话题，当做一个对当。
+</p>
+<p class="transcript-line">
+<span class="time"><strong>[00:08:11]</strong> </span>
+<span class="speaker"><strong>发言人1: </strong></span>
+一个热点起来的时候，大家就已经不在乎真相了。大家可能更多的是一种情绪上的发泄。我觉得对对对，聊完斩杀线的定义，我就觉得首先我自己要做一些就是为了本期节目能安全的播出。我们首先要说我指本期节目，我自己只聊我自己观察到的现象和我自己体会过的。而且美国是一个united states，它是联邦政府，就是各个州是由各个州的自治州自治权的，然后每个州是不一样的我举个很简单的例子，比如说我现在收入10万美金，可能在德州算是比较好的，到加州就到贫困线以下了。这样OK就是你在这儿能算是中产，到了加州可能就能领低保。
+</p>
+<p class="transcript-line">
+<span class="time"><strong>[00:09:05]</strong> </span>
+<span class="speaker"><strong>发言人2: </strong></span>
+也就是说大家的这个定义还不一样是吧？大家对低保。
+</p>
+<p class="transcript-line">
+<span class="time"><strong>[00:09:09]</strong> </span>
+<span class="speaker"><strong>发言人1: </strong></span>
+的这个线，完全是每个州是不一样的。穷的州低保的线就很很低，然后有钱的州低保线就很高。我记得最近加州刚颁布了一个政策，就是收入12万美金，还是收入15万美金以下的家庭，政府免费提供day care。你看如果跑到我们这儿，这个十几万收入，我不确定是到底具体数字，但是十几万收入那就是一个很很decent很体面的一个。
+</p>
+<p class="transcript-line">
+<span class="time"><strong>[00:09:39]</strong> </span>
+<span class="speaker"><strong>发言人2: </strong></span>
+都我都不敢跟我都不敢接话了，我都不敢联想了。
+</p>
+<p class="transcript-line">
+<span class="time"><strong>[00:09:45]</strong> </span>
+<span class="speaker"><strong>发言人1: </strong></span>
+对，这里我后来又事后查了一下，是从本月开始，年收入低于23万美元的四口之家，将有资格在旧金山全市数百家优质托儿机构享受免费托儿服务。所以数字要稍微准确一点，让我们再回到节目中，聊斩杀线，我大概想了几个方面，首先就是聊为什么会有斩杀线，其次是不是真的有斩杀线，可能先从是不是真的有斩杀线聊起。好啊，个股你觉得真的有吗？
+</p>
+<p class="transcript-line">
+<span class="time"><strong>[00:10:18]</strong> </span>
+<span class="speaker"><strong>发言人2: </strong></span>
+我觉得因为我这个离的美国很远了。但是我如果你是说在我的周围。
+</p>
+<p class="transcript-line">
+<span class="time"><strong>[00:10:26]</strong> </span>
+<span class="speaker"><strong>发言人1: </strong></span>
+还是说我对新加坡。
+</p>
+<p class="transcript-line">
+<span class="time"><strong>[00:10:28]</strong> </span>
+<span class="speaker"><strong>发言人2: </strong></span>
+你。
+</p>
+<p class="transcript-line">
+<span class="time"><strong>[00:10:28]</strong> </span>
+<span class="speaker"><strong>发言人1: </strong></span>
+认识的人在美国。
+</p>
+<p class="transcript-line">
+<span class="time"><strong>[00:10:31]</strong> </span>
+<span class="speaker"><strong>发言人2: </strong></span>
+这样还好。我感觉或者我看一些资讯，就新闻里面提到的像这种这个ALICES的这个族群，它大概分了这么几类，就是集中的有大概这么几组人群。
+</p>
+<p class="transcript-line">
+<span class="time"><strong>[00:10:50]</strong> </span>
+<span class="speaker"><strong>发言人1: </strong></span>
+第一组人他定义里还有分类。
+</p>
+<p class="transcript-line">
+<span class="time"><strong>[00:10:52]</strong> </span>
+<span class="speaker"><strong>发言人2: </strong></span>
+直接把人他大概描述了一下。对我我顺着这个，我反正我就好像看完这个可能大概有点感觉。第一个他描述的是单亲父母，对单亲父母是一个比较危险的，或者说比较容易落入这个斩杀线的这个族群。单亲父母。第二。
+</p>
+<p class="transcript-line">
+<span class="time"><strong>[00:11:13]</strong> </span>
+<span class="speaker"><strong>发言人1: </strong></span>
+等一下我暂停一下。好，我稍微补充一下，我觉得离婚确实是很容易被斩杀的一个情况。
+</p>
+<p class="transcript-line">
+<span class="time"><strong>[00:11:21]</strong> </span>
+<span class="speaker"><strong>发言人2: </strong></span>
+对OK然后接下来他就说比较笼统了，但是你听完可能觉得这就包括所有人了，但是他。他我觉得他的这几个关键词，我觉得是有有定向的。就是他能够瞬间帮你画一个用户画像出来。所谓的用户画像，比如第二类，他说年轻人，年轻人就是我理解就是缺少资基本的这个财富积累。然后这些人瞬间踏入社会之后，可能也是无依无助的。稍有不慎这个理没有理财不慎。
+</p>
+<p class="transcript-line">
+<span class="time"><strong>[00:11:53]</strong> </span>
+<span class="speaker"><strong>发言人1: </strong></span>
+没有财务规划是吧？
+</p>
+<p class="transcript-line">
+<span class="time"><strong>[00:11:56]</strong> </span>
+<span class="speaker"><strong>发言人2: </strong></span>
+对对对，过分的比如说就是贷款之类的，把自己陷入一个困境，这是第二类。第三类是老年人，然后第四类是临时工。老年人我理解可能主要就是出在问题出在医疗上面。也许他我我在猜了，可能是医疗账单的问题之类的。我这真的就是盲猜。对。
+</p>
+<p class="transcript-line">
+<span class="time"><strong>[00:12:19]</strong> </span>
+<span class="speaker"><strong>发言人1: </strong></span>
+真的是年轻人可能就出出在这个学生贷款OK .
+</p>
+<p class="transcript-line">
+<span class="time"><strong>[00:12:23]</strong> </span>
+<span class="speaker"><strong>发言人2: </strong></span>
+OK美国有学生贷款。
+</p>
+<p class="transcript-line">
+<span class="time"><strong>[00:12:25]</strong> </span>
+<span class="speaker"><strong>发言人1: </strong></span>
+其他地方可能没有。对。然后最后。
+</p>
+<p class="transcript-line">
+<span class="time"><strong>[00:12:27]</strong> </span>
+<span class="speaker"><strong>发言人2: </strong></span>
+一类是他这里说的所谓是小时工或者是临时工。我理解就是他其实没有稳定的工作，没有稳定的收入。他虽然也有意愿去去去工作去挣钱，但是可能由于客观条件或者各方面的限制，或者说的约束。
+</p>
+<p class="transcript-line">
+<span class="time"><strong>[00:12:47]</strong> </span>
+<span class="speaker"><strong>发言人1: </strong></span>
+听下来就是每个它涉及到的这个人群人人的这个画像，我可以可以大概都想想出一个主要的原因，就是单亲，就是因为离婚。我觉得离婚在美国就是完全结婚跟离婚就是完全是一次资产重组。然后第二，年轻人基本上就是因为贷款跟超前消费。第三，老年人，老年人是可能是因为医疗，然后临时工是因为因为他们的收入不稳定，就比如说疫情的时候，很多临时工就被斩杀。对，所以他们当时就是非常想复工的，就是不可能说待在家里的。虽然平时的时候，像现在没有疫情的时候，这些临时工还是收入还是很可以的。在美国。
+</p>
+<p class="transcript-line">
+<span class="time"><strong>[00:13:33]</strong> </span>
+<span class="speaker"><strong>发言人2: </strong></span>
+最后一类更多的是，比如说可能跟时运有关系，就可能是大环境或者一些什么都不知道，哪里来的这个风险就落到他头上了，是不是有这个感觉？
+</p>
+<p class="transcript-line">
+<span class="time"><strong>[00:13:46]</strong> </span>
+<span class="speaker"><strong>发言人1: </strong></span>
+我觉得主要的原因就是他们就现在这些斩杀线新闻里面的定义。就是说很多人不是经常提那句什么美国人拿不出1000美金去修车，美国人就是每个月拿不出400美金去看牙，然后因为这个几百刀的账单，他就被斩杀了。我觉得很大的情况就是因为他这个现金流没有掌握好在美国现金流是一个我自己甚至都觉得你需要请一个精算师，或者你自己成为一个精算师去计算的一个很复杂的系统。OKOK就是你的每个月的cash flow。真的是要精打细算，我们要不就从这个聊起，为什么好啊好啊，我你会为为什么你会掏不出400美金去，比如说修车。
+</p>
+<p class="transcript-line">
+<span class="time"><strong>[00:14:31]</strong> </span>
+<span class="speaker"><strong>发言人2: </strong></span>
+或者看。对，这个我很好奇，我其实很好奇，我想我也想听听你的观察。
+</p>
+<p class="transcript-line">
+<span class="time"><strong>[00:14:37]</strong> </span>
+<span class="speaker"><strong>发言人1: </strong></span>
+就是很多人说美国最大的问题是超前消费。对，然后储蓄率特别低，这个是客观存在事实。就是如果你是一个美国人的话，他可能因为这个不像我们是富一代、富二代，他们可能富三代、富四代，就是富冠了。所以他的理念里面是没有储蓄。
+</p>
+<p class="transcript-line">
+<span class="time"><strong>[00:15:01]</strong> </span>
+<span class="speaker"><strong>发言人2: </strong></span>
+的单意的是吧？
+</p>
+<p class="transcript-line">
+<span class="time"><strong>[00:15:03]</strong> </span>
+<span class="speaker"><strong>发言人1: </strong></span>
+其次他有很大一部分钱是交到国家的养老保险里的，就是401KOK。
+</p>
+<p class="transcript-line">
+<span class="time"><strong>[00:15:10]</strong> </span>
+<span class="speaker"><strong>发言人2: </strong></span>
+对。
+</p>
+<p class="transcript-line">
+<span class="time"><strong>[00:15:11]</strong> </span>
+<span class="speaker"><strong>发言人1: </strong></span>
+而且里面的钱会随着股市的增长而增长，就不像我们有些国家，它的养老保险它是一直不入市的，所以它的OK是fixed的。然后美国的话它是随着股市一直在涨，然后美股又一直长红，所以他觉得他的养老保险将来是足够cover他的后半生的生活的。所以他就觉得没有必要去存钱。这个是一大原因，就是储蓄率低。
+</p>
+<p class="transcript-line">
+<span class="time"><strong>[00:15:36]</strong> </span>
+<span class="speaker"><strong>发言人1: </strong></span>
+还有一部分原因就是我刚才说的，你要算这个算刚来美国第一个月我就震惊到了。举个例子是你的月收入是一万美金，拿这个钱拿1万做基数的话比较好算。就是你可能交完税联邦税是22%。
+</p>
+<p class="transcript-line">
+<span class="time"><strong>[00:15:55]</strong> </span>
+<span class="speaker"><strong>发言人1: </strong></span>
+你如果是一万美金，大概22%，那你就相当于有2200块钱你要交了税。然后你这时候再根据你所处的州，就是你在加州的话，你可能要交更多的州税。然后你在纽约市里的话，你还要交市税。所以你身处不同的地方，你还要再外交一笔税。有有的地方是没有征税的，比如说西雅图所在的这个华盛顿州，很有意思。其次你就要在这时候交养老保险，不是，对，401K养老保险就是养老保险又分很多种，然后大概是三档次。
+</p>
+<p class="transcript-line">
+<span class="time"><strong>[00:16:33]</strong> </span>
+<span class="speaker"><strong>发言人2: </strong></span>
+还是什么模式。
+</p>
+<p class="transcript-line">
+<span class="time"><strong>[00:16:35]</strong> </span>
+<span class="speaker"><strong>发言人1: </strong></span>
+不是档次，就是种类，就是OK。我这里大概说三种，他也就有三种。OK我突然觉得解释这些好复杂，然后可能一会儿大家就忘了再聊斩杀线。但是反正就是呃，第一种养老保险就是税前扣的，然后这个钱就叫401K就是进入你的，在你扣税之前这个钱就扣了。就是在我刚才说你要交联邦税和征税之前你就要扣。还有一部分钱是after text，就是税后扣的。然后第三种叫rose，也是税后扣的。所以有三种养老金，然后还有除了养老金之后，你还要交医保。然后医保基本上也是可以税前扣，还有税后扣分两种两大种。
+</p>
+<p class="transcript-line">
+<span class="time"><strong>[00:17:20]</strong> </span>
+<span class="speaker"><strong>发言人2: </strong></span>
+所以这时候你就要算就是你自己教，你可以选择怎么教是吧？
+</p>
+<p class="transcript-line">
+<span class="time"><strong>[00:17:25]</strong> </span>
+<span class="speaker"><strong>发言人1: </strong></span>
+对，所以我在来美国之前，我读一个我比较喜欢的程序员的博客的时候，大家可能也知道就叫BY void。他从苏黎世什么东京，然后去美国google之后，他文中有一段提到说他每个月没有钱吃饭了，就是可能需要借钱来过渡。然后我当时就在想，一个在美国google这个全球最佳雇主，给的工资也很高的一个公司里，每个月竟然没有额外的钱去消费，是什么原因呢？就是因为他把这各个项都拉满了。我们举个很简单的例子，还是刚才你有1万美金OK。然后比如说你睡前的养老金，每年美国现在大概是两万美金的这个对呃上限，然后那个税后的养老金也是2万美金上限，然后税后不是还有第三种养老金吗？就是rose OK，就是pre text after text，还有rose这三种全拉满的话大概是7万美金。所以均衡的每个月的话其实是一个挺大一笔钱的OK对。
+</p>
+<p class="transcript-line">
+<span class="time"><strong>[00:18:35]</strong> </span>
+<span class="speaker"><strong>发言人2: </strong></span>
+然后相当于把那些都都点满了，点满了之后发现没有钱吃饭了。
+</p>
+<p class="transcript-line">
+<span class="time"><strong>[00:18:39]</strong> </span>
+<span class="speaker"><strong>发言人1: </strong></span>
+对，然后你要注意就是pre tax是比较好的。就是你交了这笔钱，你现在不用交这笔税，就是你相当于你的扣要扣税的那笔额度是变少了的。然后还有pretext的医保，你这两项都交的比较多的话，那你要交的税就少了。但是请注意，这只是当下要交的税，将来你取养老金的时候其实还是要交税。所以你是在一个对赌，你就是在对赌。现在的税是比以前以后的税要低的，所以你倾向于现在先把税交了。但有的人会觉得说之后的税比现在还要低，因为可能生产力极度发达。
+</p>
+<p class="transcript-line">
+<span class="time"><strong>[00:19:14]</strong> </span>
+<span class="speaker"><strong>发言人2: </strong></span>
+他他就拖一拖。
+</p>
+<p class="transcript-line">
+<span class="time"><strong>[00:19:16]</strong> </span>
+<span class="speaker"><strong>发言人1: </strong></span>
+他就不交。然后这样大概一万美金，你最后剩下来可能就是3000OK，可能没这么夸张。
+</p>
+<p class="transcript-line">
+<span class="time"><strong>[00:19:25]</strong> </span>
+<span class="speaker"><strong>发言人2: </strong></span>
+但是也取决于你自己怎么交对吧？反正最后是你会给自己留一笔钱，然后这个钱你是要算的对吧？稍微算不清楚，就我算了。
+</p>
+<p class="transcript-line">
+<span class="time"><strong>[00:19:35]</strong> </span>
+<span class="speaker"><strong>发言人1: </strong></span>
+一下，7万除以12，一个月是六千。那就相当于你如果想着养老金拉宝，我们拉拉满的话，我们粗略算一个月你就只剩4000了，然后你还要交1000，一千有点夸张。就我现在我全家大概一千美金一个月的医保，那你个人的话可能就三百刀左右，那你相当于一个月只剩3700刀。
+</p>
+<p class="transcript-line">
+<span class="time"><strong>[00:19:59]</strong> </span>
+<span class="speaker"><strong>发言人2: </strong></span>
+OK日常消费。
+</p>
+<p class="transcript-line">
+<span class="time"><strong>[00:20:00]</strong> </span>
+<span class="speaker"><strong>发言人1: </strong></span>
+然后对，除了这之外，你到手了，这基本上就是你到手的钱了。然后到手的钱之后你要交房租，这是一个固定的支出。基本上你不可能每个人没地方住，或者你要买房的话，你要交交mortgage，然后房租完了之后，你要交车的保险。对，车险也是必须的，美国规定每个车都对，对吧？
+</p>
+<p class="transcript-line">
+<span class="time"><strong>[00:20:23]</strong> </span>
+<span class="speaker"><strong>发言人1: </strong></span>
+这两项一出去就是几百刀没了。然后还有水电网，水电网我家一个月大概五百刀，那你一个月单身的话可能少1.3百。那你这样算的话好像就剩3000了。不对，减去房租，房租就算2000，你就算1700，1700再减OK700，那就算一千美金了。就剩1000美金了。
+</p>
+<p class="transcript-line">
+<span class="time"><strong>[00:20:44]</strong> </span>
+<span class="speaker"><strong>发言人2: </strong></span>
+你还有可能还有小孩。
+</p>
+<p class="transcript-line">
+<span class="time"><strong>[00:20:47]</strong> </span>
+<span class="speaker"><strong>发言人1: </strong></span>
+对，这时候你怎么能掏出400刀去修车呢？
+</p>
+<p class="transcript-line">
+<span class="time"><strong>[00:20:52]</strong> </span>
+<span class="speaker"><strong>发言人2: </strong></span>
+真的是，这算一算还真是对。
+</p>
+<p class="transcript-line">
+<span class="time"><strong>[00:20:56]</strong> </span>
+<span class="speaker"><strong>发言人1: </strong></span>
+所以我觉得很多人就是因为他的现金流没有控制好。他可能想着说把那个养老保险，这当然是好的。就是你可能将来的时候养老保险很多，就老了很有钱。但是你现在的话你就比较拮据了。你要就像刚才我说的那个BYY的文章里写的，他可能要借钱去过活。这个我在来之前是没有想到的，因为我来之前想的是说我也要把这些拉满。
+</p>
+<p class="transcript-line">
+<span class="time"><strong>[00:21:22]</strong> </span>
+<span class="speaker"><strong>发言人1: </strong></span>
+因为你在养老账户里去投资的话，你是不要不用交那个资本利得税的OK。为什么会有这些名目？他们把这些账户都叫tax benefits account。为什么会有这些tax benefits account？就是因为你大概在税前交了这些钱的话，你就不用你的扣税的额度就少了。然后还有最夸张就是你医保的那些账户就比如说HSA，它医保分两种账户，HSA跟FSA.
+</p>
+<p class="transcript-line">
+<span class="time"><strong>[00:21:53]</strong> </span>
+<span class="speaker"><strong>发言人2: </strong></span>
+你是指医疗是吧？
+</p>
+<p class="transcript-line">
+<span class="time"><strong>[00:21:55]</strong> </span>
+<span class="speaker"><strong>发言人1: </strong></span>
+也就是说对我现在说我现在聊的是另一个医疗账户了，就是没事要解释清楚好难。我感觉涉及到的背景知识特别多，但是我我现在我自己研究的都基本上清清楚楚，就是这个HSA跟FSA，它可以理解成就是你买医保的时候，如果你买的是一个高理赔额的保险的话，就是说你一年大概，比如说高理赔额是5000美金，就是你全家一年只有花到这个医疗上花的钱超过5000美金之后。
+</p>
+<p class="transcript-line">
+<span class="time"><strong>[00:22:28]</strong> </span>
+<span class="speaker"><strong>发言人2: </strong></span>
+保险才去全部报生效。
+</p>
+<p class="transcript-line">
+<span class="time"><strong>[00:22:29]</strong> </span>
+<span class="speaker"><strong>发言人1: </strong></span>
+OK才生效，这个就叫hiddink gable。然后它这个账户，因为你每个月交的钱会变少，因为它理赔的额度相当于变得更就是它这个线变高了的话，保险公司相当于它的风险变小了，然后你每个月交的钱就变少了。这样的话你可以去开那个HSA账户OK。这个HSA账户的话，里面的钱是可以买股票的。然后很搞笑，就宝的钱可以买股票，然后还不用交税，就你放进去的钱不用交税，然后收益的钱不用交税。将来取出来的钱也取出来的时候，你只能花在医保上，但是也不用交税OK.
+</p>
+<p class="transcript-line">
+<span class="time"><strong>[00:23:13]</strong> </span>
+<span class="speaker"><strong>发言人2: </strong></span>
+但你要把钱放进去。
+</p>
+<p class="transcript-line">
+<span class="time"><strong>[00:23:15]</strong> </span>
+<span class="speaker"><strong>发言人1: </strong></span>
+他对，但是你要把钱把钱放进去。对，然后一年的话这个也是有上限的。刚才我们说过养老金也是上有上限的，医保账户也是有上限。对，反正这个大概一年就是7000美金左右。现在OK，然后那个FSA的话一年是也是7000美金，但是这个是你必须买的那个low degree的线的这个保险，你才能有这个账户。那是这个账户，就还可以付daycare。就是你孩子如果上托儿所的话，你可以拿这个账户里的钱去交钱。因为他孩子也算一种care，就是他照顾你孩子，那OK你也可以。
+</p>
+<p class="transcript-line">
+<span class="time"><strong>[00:23:54]</strong> </span>
+<span class="speaker"><strong>发言人1: </strong></span>
+但是这个时候你得买贵的保险，因为那个low的。就比如说你一年花全家花2000以上，保险就全部报销了，那个保险承担的风险就变高了。然后你每个月付的钱付给保险公司，钱就要变高。然后这样的话你才能买那个，你才能投那个FSA账户。但是FSA账户的钱是不能延续到下一年的。
+</p>
+<p class="transcript-line">
+<span class="time"><strong>[00:24:21]</strong> </span>
+<span class="speaker"><strong>发言人1: </strong></span>
+所以理论上就是刚才你每个月的一千美金，你在考虑完税养老金在投医保账户的时候，你就要想了，你这个FSA账户今年到底是一个月投几百呢？就是你一定拉满7000吗？还是不拉满蹊千？如果拉满蹊千，你今年就要花掉，如果不拉满7000的话，就说明你今年可能很多钱是不用去医院了。然后你要拉满7000的话，就说明你今年得经常去看病，要不然你就很亏。
+</p>
+<p class="transcript-line">
+<span class="time"><strong>[00:24:50]</strong> </span>
+<span class="speaker"><strong>发言人2: </strong></span>
+对吧？难怪像你说的都要算所剩无几。
+</p>
+<p class="transcript-line">
+<span class="time"><strong>[00:24:56]</strong> </span>
+<span class="speaker"><strong>发言人1: </strong></span>
+基本上任何的这是联动的。你养老金交的多了的话，你交给医保自然就少了。然后你医保的账户交的多的话，养老金你自然也要规划一下就变少了。所以就是一个各种均衡，各种博弈，每个月的现金流都在里面。所以你是对很多人都是稀里糊涂的。
+</p>
+<p class="transcript-line">
+<span class="time"><strong>[00:25:16]</strong> </span>
+<span class="speaker"><strong>发言人1: </strong></span>
+我问了好多在美国可能十年以上的人我去问他各个这个账户的信息的时候，他还是不知道。然后最后还得我可能再跟他交流一下。然后他说原来是这样的，这个钱还能交day care，从来不知道。然后我说，你竟然不知道。好的，对，是我我觉得每个月的现金流就大概讲到这儿。就是你从我不知道听友们听的是不是有点无聊，但是反正你从这个精确的或者说每一项的计算来看你就知道，它涉及到的可能是方方面面，就是大的项还有固定的支出。所以你每个月剩下的钱就是所剩无几了。
+</p>
+<p class="transcript-line">
+<span class="time"><strong>[00:25:54]</strong> </span>
+<span class="speaker"><strong>发言人2: </strong></span>
+基本上而且看你要是你这样说下来，就是这几个大块钱都不小，都是不是小数字，而且就像你说的，有也有不同的选项或者有不同的幅度。所以如果你选项选错了，或者说这个幅度就是把那个钱都拉满了。如果稍有稍有不慎或者不自量力，就可能现金流就出现问题了。
+</p>
+<p class="transcript-line">
+<span class="time"><strong>[00:26:20]</strong> </span>
+<span class="speaker"><strong>发言人1: </strong></span>
+而且我这已经是简化过的了。OK就是养老金，还分个人养老金。就是你除了企业交的那部分，交给国家之外，你还能自己再交OK。所以如果你想都拉满的话，那基本上你每个月的钱是不可能够的。我觉得KOK除非你的薪资特别高。
+</p>
+<p class="transcript-line">
+<span class="time"><strong>[00:26:37]</strong> </span>
+<span class="speaker"><strong>发言人2: </strong></span>
+所以就是这个幅度空间其实特别大，所以这个就考验人做决策。
+</p>
+<p class="transcript-line">
+<span class="time"><strong>[00:26:43]</strong> </span>
+<span class="speaker"><strong>发言人1: </strong></span>
+的计算能力。对对对，所以做预算的能力在美国真的非常重要。我自己觉得然后很多人还问我，为什么你要记账？不记账你。
+</p>
+<p class="transcript-line">
+<span class="time"><strong>[00:26:54]</strong> </span>
+<span class="speaker"><strong>发言人2: </strong></span>
+根本现在我现在大概理解。我之前我记得之前我在netflix上看过一个真人秀的算真人秀，就是请那些理财专家，帮那些自己觉得不太会理财的人进他们家问他们说你们每个月这儿花多少钱，那花多少钱，我帮我能帮你们把钱省下来，然后就帮他算账，然后这个就能拍一个综艺节目。我现在能理解他就真的就算账。对，然后就帮他省下钱了。然后那个人说兴奋度的，我终于省到钱了。
+</p>
+<p class="transcript-line">
+<span class="time"><strong>[00:27:26]</strong> </span>
+<span class="speaker"><strong>发言人1: </strong></span>
+所以我之前也是理解不了，为什么金融在美国这么发达，就是发达到医保账户都可以投资。然后你的任何的钱都能生息，或者说都能赚钱的时候，你要考虑好你每一笔钱怎么用。然后什么little shelter，那个电视剧里那个谢尔多小的时候不是帮他爸妈报税，省了好大一笔钱。就是你你需要有有这种level的智商，可能你才能从税务系统里薅出一些羊毛来。要不然大部分的时候你自己没有决策好的话，每个月的收入可支配收入都不够的话，你会陷入很大的一个窘境。就是万一遇到个什么事儿，你可能真的就被斩杀了。这个会一级一级撤下去的，你也不想因为你那个比如说交到养老金里的钱，你可以提前取出来的，没问题，但是你要交罚款，这个罚款是很大的一笔钱，你可能交不起，你养老金都没那么多，那那你怎么办？
+</p>
+<p class="transcript-line">
+<span class="time"><strong>[00:28:24]</strong> </span>
+<span class="speaker"><strong>发言人1: </strong></span>
+这时候你就借钱，然后借钱就又涉及到另一个问题，利息。美国的利息现在的话是非常夸张的对吧？因为要度过疫情产生的一系列经济政策，导致现在利息非常高。我刚来的时候想买一辆车，他说我的车贷要付10%的利息OK。然后买房的时候我也问了，他说要付12%。
+</p>
+<p class="transcript-line">
+<span class="time"><strong>[00:28:46]</strong> </span>
+<span class="speaker"><strong>发言人1: </strong></span>
+然后我当时听我听完就觉得这是在抢钱，基本上就是我怎么可能付这么高的利息，我我我5%我都觉得贵，你跟我说10%。对，然后现在他不是在用什么进入降息周期，然后这个利息可能又降了一点。但是总体来说，美国的各项的小额贷款的利息还是非常高的。OK就比如说典型的举一个信用卡的例子，如果你信用卡一直不还的话，你的利息可能高达30%。
+</p>
+<p class="transcript-line">
+<span class="time"><strong>[00:29:17]</strong> </span>
+<span class="speaker"><strong>发言人1: </strong></span>
+这一般是20%起跳。然后打30%的话，很多人是没有这个概念的。我特别惊讶，就是他们很多人，包括我同事，他们的收入也很不错了，已经然后他们只还最低还款额，对，有的信用卡就是前两年，比如说他还最低还款额是没有利息的。但是你到第三年的时候，他还这个最低还款额，因为他懒得设置或者说怎么样，他不care这个事情，然后那个利息就非常夸张，然后你那还到最后你可能就还不起，就是那种情况。对。
+</p>
+<p class="transcript-line">
+<span class="time"><strong>[00:29:50]</strong> </span>
+<span class="speaker"><strong>发言人2: </strong></span>
+听你这样讲，处处是坑，水深火热不是水中火，是处处是坑。这就就是对，这是感觉也是在割韭菜。
+</p>
+<p class="transcript-line">
+<span class="time"><strong>[00:30:01]</strong> </span>
+<span class="speaker"><strong>发言人1: </strong></span>
+不知道能不能聊。当然了，我觉得倒不是我觉得就是你得非常全面的了解各个账户。
+</p>
+<p class="transcript-line">
+<span class="time"><strong>[00:30:10]</strong> </span>
+<span class="speaker"><strong>发言人2: </strong></span>
+就是你要懂游戏规则，对吧？你你对你。
+</p>
+<p class="transcript-line">
+<span class="time"><strong>[00:30:13]</strong> </span>
+<span class="speaker"><strong>发言人1: </strong></span>
+得你得很认真的去读很多条款，然后你这才知道到底你的钱被扣了是因为什么。然后你哪里被薅羊毛了，就你自己被反薅了，是因为什么？这些你都要了解。
+</p>
+<p class="transcript-line">
+<span class="time"><strong>[00:30:28]</strong> </span>
+<span class="speaker"><strong>发言人2: </strong></span>
+有道理。而且确实这里边每一笔钱都是一个不小的数字。就是我我不知道其他人，比如说我来新加坡之后，我刚来新加坡我看到水电账单的时候，就完全颠覆了我对水电账单的认知。电费好贵，网费也好贵。
+</p>
+<p class="transcript-line">
+<span class="time"><strong>[00:30:51]</strong> </span>
+<span class="speaker"><strong>发言人1: </strong></span>
+然后像损失。
+</p>
+<p class="transcript-line">
+<span class="time"><strong>[00:30:52]</strong> </span>
+<span class="speaker"><strong>发言人2: </strong></span>
+对，然后像就再稍微延伸一点，比如说看个剧，开通一下netflix开通一下apple TV plus，他真的是笔钱。
+</p>
+<p class="transcript-line">
+<span class="time"><strong>[00:31:04]</strong> </span>
+<span class="speaker"><strong>发言人1: </strong></span>
+以前不觉得。
+</p>
+<p class="transcript-line">
+<span class="time"><strong>[00:31:05]</strong> </span>
+<span class="speaker"><strong>发言人2: </strong></span>
+我有限的延伸一下，以前开通一个爱奇艺，觉得是不没什么所谓的吗？对，对。
+</p>
+<p class="transcript-line">
+<span class="time"><strong>[00:31:11]</strong> </span>
+<span class="speaker"><strong>发言人1: </strong></span>
+开通一个。我记得我来美国的时候，不对，我去香港的时候就已经觉得了。
+</p>
+<p class="transcript-line">
+<span class="time"><strong>[00:31:17]</strong> </span>
+<span class="speaker"><strong>发言人2: </strong></span>
+我那时候应该那个地对我。
+</p>
+<p class="transcript-line">
+<span class="time"><strong>[00:31:19]</strong> </span>
+<span class="speaker"><strong>发言人1: </strong></span>
+用那个大王卡，联通大王卡一年。不对，一个月是19块，99人民币，很便宜。然后去了香港，第一个套餐一个月200港币。
+</p>
+<p class="transcript-line">
+<span class="time"><strong>[00:31:31]</strong> </span>
+<span class="speaker"><strong>发言人2: </strong></span>
+对对对，然后跟你是相同的感觉。
+</p>
+<p class="transcript-line">
+<span class="time"><strong>[00:31:36]</strong> </span>
+<span class="speaker"><strong>发言人1: </strong></span>
+很震惊。对，然后来了美国是一个月80美金，也挺震惊的。对我觉得这个消费自然不说了，因为很多人会觉得说国外挣的也多花的也多很正常。但是在美国就是通过我刚才的讲述，你就会觉得，因为到处都涉及到金融，所以很多地方都是对赌。就比如说刚才说那个医保账户，你到底是买这个高报销额度的医保还是低报销额度的医保，完全于取决于你对下一年你的身体状态的对赌。你读你下一年不会生病，那你就买高报销额度的医保，这样每个月交的钱就很少。然后你也不用去特别多次的医院，这样你的医疗账户你也不用放太多的钱，这样的话你每个月的现金流会多一点，是不是？是这个道理。
+</p>
+<p class="transcript-line">
+<span class="time"><strong>[00:32:30]</strong> </span>
+<span class="speaker"><strong>发言人1: </strong></span>
+但是如果你觉得你明年要做一个大的手术，你自己在对赌，你自己对赌不一定真的做，你对赌你明年要做一个大的手术。我想一下，比如说生孩子，生孩子是一个可以确定的，就是你基本上明年你能确定你肯定要做一个生孩子的是这个事情。那你你就会知道你需要买一个low deductable的保险。这样的话你的报销就是能尽量用到这个保险公司去。给你交的钱，你自己付自付的那部分就是low to double，就是自付那部分很少。这样的话你可能一年只要花2000美金就可以生一个孩子，然后两千美金之上的保险全部包掉。但是这样的问题就是你每个月从现在开始你就要多交钱了OK OK对，所以都是在对赌。
+</p>
+<p class="transcript-line">
+<span class="time"><strong>[00:33:16]</strong> </span>
+<span class="speaker"><strong>发言人2: </strong></span>
+或者都是。
+</p>
+<p class="transcript-line">
+<span class="time"><strong>[00:33:17]</strong> </span>
+<span class="speaker"><strong>发言人1: </strong></span>
+所以如果你的孩子都是算数，是明年出生，你对赌这个是已经很确定，就是你已经知道这个事儿了。然后你买的是，那你最好把你所有的医疗项目都集中在明年，这样的话相当于你一年就只需要一年交这么多的保险的钱的话，一年把所有的病都看了，这样的话比较好。
+</p>
+<p class="transcript-line">
+<span class="time"><strong>[00:33:42]</strong> </span>
+<span class="speaker"><strong>发言人2: </strong></span>
+精打细算是不是。
+</p>
+<p class="transcript-line">
+<span class="time"><strong>[00:33:44]</strong> </span>
+<span class="speaker"><strong>发言人1: </strong></span>
+很有意思？就是你自己跟你的是自己的身体对赌。对，既然讲到医疗了，我就觉得美国这个医疗也是一个斩杀线很大的原因，一大部分原因。
+</p>
+<p class="transcript-line">
+<span class="time"><strong>[00:33:57]</strong> </span>
+<span class="speaker"><strong>发言人2: </strong></span>
+这也是我就是听到最多的新闻传言讨论都是在聊医保，美国的医疗对。
+</p>
+<p class="transcript-line">
+<span class="time"><strong>[00:34:05]</strong> </span>
+<span class="speaker"><strong>发言人1: </strong></span>
+美国的医疗烂到就是我能我能吐槽1个小时.
+</p>
+<p class="transcript-line">
+<span class="time"><strong>[00:34:10]</strong> </span>
+<span class="speaker"><strong>发言人2: </strong></span>
+但是正片要开始了。
+</p>
+<p class="transcript-line">
+<span class="time"><strong>[00:34:14]</strong> </span>
+<span class="speaker"><strong>发言人1: </strong></span>
+没有，我肯定不会吐槽了，我比较客观。但是前段时间也不能说前段时间，就去年不是发生了一个事儿吗？就是美国的一个医疗保险公司的CEO叫united health care。我知道CEO不是被酒店直接在楼下就枪杀了吗？那个杀手不是叫鲁伊吉。
+</p>
+<p class="transcript-line">
+<span class="time"><strong>[00:34:34]</strong> </span>
+<span class="speaker"><strong>发言人1: </strong></span>
+然后那个鲁伊吉被捕之后，网上本来大家预期的这个新闻是说，这是一个非人道主义的行动，不应该这样做。结果发现网上都说他是罗宾逊，然后为民除害，说大家都高兴的要死。然后还有人是不是更有甚者去大街上为路易吉去游行，就觉得他这个不应该被指一级谋杀。因为是因为保险公司有错在先，他只是相当于防卫，不能说防卫，但是反正就不是一级谋杀这种重重罪。然后还有人为他自主的去筹款，筹律师费，因为打官司很很贵。对，然后就是大家是说明什么？说明大家发自真心的觉得就是体现。
+</p>
+<p class="transcript-line">
+<span class="time"><strong>[00:35:21]</strong> </span>
+<span class="speaker"><strong>发言人2: </strong></span>
+了某种集体情绪，是吧？
+</p>
+<p class="transcript-line">
+<span class="time"><strong>[00:35:24]</strong> </span>
+<span class="speaker"><strong>发言人1: </strong></span>
+对，虽然谋杀是很不道德的，但是大家的大家都会这么说，就是虽然谋杀很不道德，但是我是支持他的，并且用真实的行动去支持这个鲁伊吉。那么为什么会出现这种现象呢？我自己觉得也很可笑，就是你你你竟然会逼到一个人去杀你的这个CEO。虽然说这个莎莎了CEO不会对现行的医疗制度有任何的改善，但是最起码让人找到一个情绪的出口，并且有一个渠道让大家看到，就是指出来这个医保的问题。
+</p>
+<p class="transcript-line">
+<span class="time"><strong>[00:35:58]</strong> </span>
+<span class="speaker"><strong>发言人2: </strong></span>
+对。
+</p>
+<p class="transcript-line">
+<span class="time"><strong>[00:35:59]</strong> </span>
+<span class="speaker"><strong>发言人1: </strong></span>
+然后医保到底有多烂呢？特别搞笑。我今天为了这期节目我特地查了一个数据，美国的医疗成本就是占GDP的18%，就是相当于5分之1。大家都花了医医保医疗这些钱，对这么高，然后对美国的家庭医疗支出是其他发达国家基本上是两倍。特别搞笑。
+</p>
+<p class="transcript-line">
+<span class="time"><strong>[00:36:26]</strong> </span>
+<span class="speaker"><strong>发言人2: </strong></span>
+就是那个图。我想问一下这个钱是比如说它是医疗账单上的那个那个数字，是不是就是相当于是保险公司已经报掉了，不是你真正花掉的那个钱。
+</p>
+<p class="transcript-line">
+<span class="time"><strong>[00:36:35]</strong> </span>
+<span class="speaker"><strong>发言人1: </strong></span>
+那保险公司报报掉的也是真正的花的钱，那个钱是保险公司出的。OKOK对，只要是账单上的钱，当当那些钱都是花掉的OK，对吧？只是什么discount之类这些，那那这个都算是G.
+</p>
+<p class="transcript-line">
+<span class="time"><strong>[00:36:48]</strong> </span>
+<span class="speaker"><strong>发言人2: </strong></span>
+DP的一部分，稍微make sense一些，不然都是。
+</p>
+<p class="transcript-line">
+<span class="time"><strong>[00:36:52]</strong> </span>
+<span class="speaker"><strong>发言人1: </strong></span>
+没有，但是也很高的。他他家庭的医疗支出是其他发达国家的2倍，基本上两倍就是你你去看美国的那个家庭支出，其他什么德国、什么英国都是大概是这个level。然后美国蹭的一下就上去了，然后就是两倍好吧？对，然后特别搞笑的另一个数据是美国每人每年平均去医院。
+</p>
+<p class="transcript-line">
+<span class="time"><strong>[00:37:18]</strong> </span>
+<span class="speaker"><strong>发言人2: </strong></span>
+的次数少于1.5次OK。
+</p>
+<p class="transcript-line">
+<span class="time"><strong>[00:37:22]</strong> </span>
+<span class="speaker"><strong>发言人1: </strong></span>
+但是你这就很奇怪了，你一年就看一次病，然后花的钱是别人家庭的两倍，对吧？这就说明什么？说明这个系统有问题，说明大家为什么医疗这么贵。
+</p>
+<p class="transcript-line">
+<span class="time"><strong>[00:37:34]</strong> </span>
+<span class="speaker"><strong>发言人2: </strong></span>
+对。
+</p>
+<p class="transcript-line">
+<span class="time"><strong>[00:37:36]</strong> </span>
+<span class="speaker"><strong>发言人1: </strong></span>
+所以我觉得稍微客观一点说，不可否认，美国现在这个医疗还是世界最先进的。如果你要看什么大病小病我就不说，小病我觉得国内是最先进的。但是你要看什么大病的话，基本上还是美国最先进。然后其他国家都是从美国引进一些医疗设备，或者说先进的治疗技术，但是它的医疗系统现在就是一坨屎一样的。
+</p>
+<p class="transcript-line">
+<span class="time"><strong>[00:38:00]</strong> </span>
+<span class="speaker"><strong>发言人2: </strong></span>
+对，就是有点头头重脚轻了。可以这样讲吗？
+</p>
+<p class="transcript-line">
+<span class="time"><strong>[00:38:03]</strong> </span>
+<span class="speaker"><strong>发言人1: </strong></span>
+不是，是因为他整个医疗的这个支付循环系统是一个超级一个骗局，基本上就是一个skin，这是一个超大的骗局。这里面涉及到了非常多的金融跟对赌。然后你就能充分理解刚才我说的，就是不光你要跟自己对赌，你还要面对别人。别人的对赌对你造成的影响很烦。
+</p>
+<p class="transcript-line">
+<span class="time"><strong>[00:38:30]</strong> </span>
+<span class="speaker"><strong>发言人2: </strong></span>
+对，怎么怎么理解别人对赌对你造成的影响？
+</p>
+<p class="transcript-line">
+<span class="time"><strong>[00:38:34]</strong> </span>
+<span class="speaker"><strong>发言人1: </strong></span>
+你去医院基本上你问医生最多的一个问题，不是说这个病能不能治好，是说我这个能报不能。
+</p>
+<p class="transcript-line">
+<span class="time"><strong>[00:38:42]</strong> </span>
+<span class="speaker"><strong>发言人2: </strong></span>
+OK。
+</p>
+<p class="transcript-line">
+<span class="time"><strong>[00:38:43]</strong> </span>
+<span class="speaker"><strong>发言人1: </strong></span>
+很搞笑的就是医院收的钱不是从你这里直接收的。是就是你每次看病，你最后付钱的其实是你的保险公司付钱，然后你又平时付给保险公司钱，就是我大概要每年或者说每个月要看病花多少钱。对，然后你但是你是你是去自己去看病的。
+</p>
+<p class="transcript-line">
+<span class="time"><strong>[00:39:07]</strong> </span>
+<span class="speaker"><strong>发言人1: </strong></span>
+所以这里就涉及到一个问题就很搞笑。有的时候比如说去一个医院，你就是看一个咳嗽，结果医生说你得了肺炎，因为他想赚钱，他赚谁的钱？他不是赚你的钱，因为最后付钱的不是你，是保险公司。这时候他就要对赌，跟保险公司对赌，他就觉得我把这个人的账单，虽然他只是咳嗽，但是我觉得他肺炎了，然后我给他上了一些器械，我给他看了一些X光之类的，我觉得他很严重，然后把账单就是弄得很高，这样对吧？因为我付出了额外的服务，额外的器械就发到了保险公司那里。因为是保险公司付钱，再说一遍，然后保险公司这边看到了那个账单就很奇怪，明明这个人只是咳嗽，那为什么他要看X光光，做额外的治疗？
+</p>
+<p class="transcript-line">
+<span class="time"><strong>[00:40:00]</strong> </span>
+<span class="speaker"><strong>发言人1: </strong></span>
+然后你保险公司这边就会跟医生医院一直在吵，两个人吵，保险公司就对赌医院肯定是作假了，然后医院的话就对赌，保险公司肯定会接受这个账单。然后你们是懵逼的，你在中间是最猛的，你知道吗？你收到账单的时候懵了，我就看个咳嗽，竟然账单2000美金。
+</p>
+<p class="transcript-line">
+<span class="time"><strong>[00:40:23]</strong> </span>
+<span class="speaker"><strong>发言人1: </strong></span>
+然后这时候因为你预付的钱，首先是付给了保险公司一部分，对吧？你每个月付保险。对，然后你去看病的时候，保险公司有个政策，就是比如说你每个月每次看病要花大概100美金之类的，所以你只付了100美金，剩下的1900美金，你就在等着保险公司付给医院。但是保险公司就一直跟医院吵吵。
+</p>
+<p class="transcript-line">
+<span class="time"><strong>[00:40:43]</strong> </span>
+<span class="speaker"><strong>发言人2: </strong></span>
+但是这过程中钱在你这儿，就是你先垫着，可以这样是这样的吗？
+</p>
+<p class="transcript-line">
+<span class="time"><strong>[00:40:48]</strong> </span>
+<span class="speaker"><strong>发言人1: </strong></span>
+对，你可以这样理解。对，就相当于保险公司最后如果吵赢了，就拒不赔付这个钱，那然后医院。
+</p>
+<p class="transcript-line">
+<span class="time"><strong>[00:40:57]</strong> </span>
+<span class="speaker"><strong>发言人2: </strong></span>
+也一部分美金是你自己吞吃掉的。
+</p>
+<p class="transcript-line">
+<span class="time"><strong>[00:41:00]</strong> </span>
+<span class="speaker"><strong>发言人1: </strong></span>
+没有那1900美金就变成了，比如说500美金之类的那反正还是保险公司付了OK。对。
+</p>
+<p class="transcript-line">
+<span class="time"><strong>[00:41:08]</strong> </span>
+<span class="speaker"><strong>发言人2: </strong></span>
+但是你在过程中，你自己在这个过程中，其实你你你碰不到这些东西，是他们两边在拉扯。
+</p>
+<p class="transcript-line">
+<span class="time"><strong>[00:41:14]</strong> </span>
+<span class="speaker"><strong>发言人1: </strong></span>
+就是这种情况。对，但是这里面有一个问题，就是有可能会影响到你自己付的钱的话。比如说最后保险公司跟医院变成一伙了，就是他们达成了某个协议。就是你每次进去治疗的这个项目，对吧？它是很多灰色的地方，你也不知道你那个病到底要不要X光。然后最后保险跟这个医保险跟医院商量好了，算了这个算X光，但是算一个必须治疗的X光，那保险基也不用赔付，医院也要收这个钱，那这个钱就你来付。
+</p>
+<p class="transcript-line">
+<span class="time"><strong>[00:41:52]</strong> </span>
+<span class="speaker"><strong>发言人2: </strong></span>
+自己吃掉了。
+</p>
+<p class="transcript-line">
+<span class="time"><strong>[00:41:54]</strong> </span>
+<span class="speaker"><strong>发言人1: </strong></span>
+那就只能是病人来付。
+</p>
+<p class="transcript-line">
+<span class="time"><strong>[00:41:57]</strong> </span>
+<span class="speaker"><strong>发言人2: </strong></span>
+所以话说回来，你刚才说大家看病第一个问问题就是问这个东西能不能走医保。其实就是为了确定这件事情了，或者说医生如果保证说这个走医保，那就它相当于基于拿到这个承诺了，他就不用担心后面的这些问题吗？
+</p>
+<p class="transcript-line">
+<span class="time"><strong>[00:42:13]</strong> </span>
+<span class="speaker"><strong>发言人1: </strong></span>
+对，然后最死的地方就来了，就算是医生承诺了这个东西肯定能走医保，最后也不一定报。很恶心。就比如说我去看刚还是刚才那咳嗽，然后照了X光，结果照X光的那个人他不在医保范围内。这就恶心到家了，你知道吗？他说我这个项目是可以报的，但是这个医生负责照的那个人，或者说负责看片子的那个人，正好不在报销的范围之内。那你不好意思，你要付这部分看片子的钱。
+</p>
+<p class="transcript-line">
+<span class="time"><strong>[00:42:46]</strong> </span>
+<span class="speaker"><strong>发言人2: </strong></span>
+好了。
+</p>
+<p class="transcript-line">
+<span class="time"><strong>[00:42:47]</strong> </span>
+<span class="speaker"><strong>发言人1: </strong></span>
+你心态就爆了，你知道吧？然后我靠，对吧？你当时跟我说的好好的，说这个能爆，所以我才做的。然后现在跟我说完了。
+</p>
+<p class="transcript-line">
+<span class="time"><strong>[00:42:55]</strong> </span>
+<span class="speaker"><strong>发言人2: </strong></span>
+说中间有一个你们俩。
+</p>
+<p class="transcript-line">
+<span class="time"><strong>[00:42:58]</strong> </span>
+<span class="speaker"><strong>发言人1: </strong></span>
+就联合起来骗我钱，这种感觉对不对？对，这就是最恶心的地方。
+</p>
+<p class="transcript-line">
+<span class="time"><strong>[00:43:04]</strong> </span>
+<span class="speaker"><strong>发言人2: </strong></span>
+那就没办法了，像这种情况你只能。
+</p>
+<p class="transcript-line">
+<span class="time"><strong>[00:43:07]</strong> </span>
+<span class="speaker"><strong>发言人1: </strong></span>
+那起诉呗，你要不爽的话就起诉。
+</p>
+<p class="transcript-line">
+<span class="time"><strong>[00:43:10]</strong> </span>
+<span class="speaker"><strong>发言人2: </strong></span>
+你自己遇到过吗？
+</p>
+<p class="transcript-line">
+<span class="time"><strong>[00:43:14]</strong> </span>
+<span class="speaker"><strong>发言人1: </strong></span>
+我遇到过，这个就是我现实中的例子，我当时就是这个X光就是我我我现实中遇到的例子。对，很恶心。我还有一个朋友，然后看一个病，我就不具体保护隐私不说了，但是这个病反正最后就是衍生到了另一种病，然后这个账单就很天天价账单，天价账单甩过来了，然后他就没付。时至今日两年之后，那个账单医院跟保险还在拉扯，就是还没有结束这个对赌的过程。反正就是你你你每次进医院，只要进去就是一个你都不知道会发生美好。
+</p>
+<p class="transcript-line">
+<span class="time"><strong>[00:43:50]</strong> </span>
+<span class="speaker"><strong>发言人2: </strong></span>
+要讨价还价了是吧？
+</p>
+<p class="transcript-line">
+<span class="time"><strong>[00:43:54]</strong> </span>
+<span class="speaker"><strong>发言人1: </strong></span>
+对，有还有一个搞笑点，就是美国医疗可以搞价，就是你自己可以搞价。但是一般情况下，像大家比较忙的话，也不会真的去搞，或者说你自己觉得不会付那么多钱，你就看个咳嗽而已，对吧。然后这时候就它它这个黑盒的这个系统也不能叫黑盒，它它是白盒的。但是它这个系统你不知道你的这个病到底是能赔付多少。它会底层是有一个code的，就是每次治疗就像我们写代码一样，他把每次治疗都编码到一个code。比如说123456，然后12345是能报的，6 7 8 9 10不能报。然后他们就医，医院也想赚最大利益的钱。那他看你这个咳嗽，比如说你只用花一的钱，但是他就给你报12345，他也想赚这个钱，所以他都报的，都是能报的。但是那边保险一看，你其实没有用到2345，他就把这个2345拒绝了。对，反正就是中间这些扣的，他一直在拿这个扣的为准。
+</p>
+<p class="transcript-line">
+<span class="time"><strong>[00:44:54]</strong> </span>
+<span class="speaker"><strong>发言人1: </strong></span>
+每次去医院都是有一个人全程记录你的所有的行为的，然后把这个扣子系上，然后报上去。对，最后医院反正跟保险商量好了一个最终的这个账单，然后告诉你最后你要付多少。这样。
+</p>
+<p class="transcript-line">
+<span class="time"><strong>[00:45:10]</strong> </span>
+<span class="speaker"><strong>发言人2: </strong></span>
+听上去好复杂。
+</p>
+<p class="transcript-line">
+<span class="time"><strong>[00:45:13]</strong> </span>
+<span class="speaker"><strong>发言人1: </strong></span>
+水深火热。
+</p>
+<p class="transcript-line">
+<span class="time"><strong>[00:45:15]</strong> </span>
+<span class="speaker"><strong>发言人2: </strong></span>
+不过从另外一个角度，我倒是觉得了，如果说医院跟保险公司，如果他们利益是相冲突的那就是他们要在中间battle。一定程度上我会觉得当然过程可能会有点长或者有点拉扯。但是我一定程度觉得他们battle到最后，也许患者是受益的，就是他们会把所有的水分，两边的水分都battle掉。我觉得更更。
+</p>
+<p class="transcript-line">
+<span class="time"><strong>[00:45:45]</strong> </span>
+<span class="speaker"><strong>发言人1: </strong></span>
+完全没有，我要完全否定你的这个善良的思想。
+</p>
+<p class="transcript-line">
+<span class="time"><strong>[00:45:51]</strong> </span>
+<span class="speaker"><strong>发言人2: </strong></span>
+这是理论上是吧？因为我想说更糟糕的是他们两个串通在一起了，那个可能更糟糕了。就不是。
+</p>
+<p class="transcript-line">
+<span class="time"><strong>[00:45:58]</strong> </span>
+<span class="speaker"><strong>发言人1: </strong></span>
+首先医院赚的不是你的钱，这就是一个大的问题了。你说被服务的这个人，他不是最终的付钱的方，这就是一个很大的问题。就是我买你你来买我的电脑，结果这个电脑的钱是你找了一个第三个人来给我钱，我相当于赚第三个人的钱，我不能跟你要，我对你态度再好，第三个人也不知道。对，那那我怎么能收这个边际效应呢？所以医院想要挣钱就得不停的抬高这个医保的医疗的账单，那保险公司你就更好理解了。你还刚才说保险公司的battle中，会有人说不会的。
+</p>
+<p class="transcript-line">
+<span class="time"><strong>[00:46:35]</strong> </span>
+<span class="speaker"><strong>发言人2: </strong></span>
+他也抬高是吧？
+</p>
+<p class="transcript-line">
+<span class="time"><strong>[00:46:37]</strong> </span>
+<span class="speaker"><strong>发言人1: </strong></span>
+对，保险公司他根本不care你到底被治好了没有，对不对？他的这个保险的模式很简单，保险的赚钱的模式很简单，就是他不赔付就是赚钱。
+</p>
+<p class="transcript-line">
+<span class="time"><strong>[00:46:49]</strong> </span>
+<span class="speaker"><strong>发言人2: </strong></span>
+对对对。
+</p>
+<p class="transcript-line">
+<span class="time"><strong>[00:46:50]</strong> </span>
+<span class="speaker"><strong>发言人1: </strong></span>
+所以你知道现在还诞生了很多AI的聚宝的第三方服务公司。这些第三方服务公司声称就是我用AI技术能帮你快速的一分钟之内就全部拒保，而且有合理的理由。那你保险公司听了当然很开心，你这不是我的商业模式的救星，对吧？我就一分钱都不用赔付了，那我肯定买你这个第三方服务，你说是不是他根本不care你这个病人是怎么样的，他他只不care我这个能不能拒绝你。
+</p>
+<p class="transcript-line">
+<span class="time"><strong>[00:47:24]</strong> </span>
+<span class="speaker"><strong>发言人2: </strong></span>
+你说这个其实就是我想说的第二点，就是一定程度上到最后他们两个站在一起了。这个其实就是我感觉汽车保险有的时候也是这样子，就修车很贵。我不确定在美国了，我知道在有些地方修车很贵，然后车险也很贵。但其实你可能就寡小剐蹭了一下，一休一万多块钱没有了。对，然后你只是花钱买保险。对，然后那个理赔的地方跟那个保险公司串通好了，他们一起把那个维修费用或者把那个把小事变成小题大做，然后把那个价钱搞上去，搞上去之后他们都赚到了。最后反正是你交保险，最后羊毛出在羊身上。
+</p>
+<p class="transcript-line">
+<span class="time"><strong>[00:48:05]</strong> </span>
+<span class="speaker"><strong>发言人1: </strong></span>
+对，就是他赔付的额度变高了，但是最后你明年的保险就涨了。
+</p>
+<p class="transcript-line">
+<span class="time"><strong>[00:48:14]</strong> </span>
+<span class="speaker"><strong>发言人2: </strong></span>
+对，而且涨多少取决于他们两个分了多少仓。
+</p>
+<p class="transcript-line">
+<span class="time"><strong>[00:48:18]</strong> </span>
+<span class="speaker"><strong>发言人1: </strong></span>
+对。
+</p>
+<p class="transcript-line">
+<span class="time"><strong>[00:48:19]</strong> </span>
+<span class="speaker"><strong>发言人2: </strong></span>
+通俗的是这样，反正从。
+</p>
+<p class="transcript-line">
+<span class="time"><strong>[00:48:21]</strong> </span>
+<span class="speaker"><strong>发言人1: </strong></span>
+保险公司的角度，就是如果他全部拒保的话，那他就全部都是盈利。对，没有支出。对。然后那美国的话它是分它的医院是很很独立的一个机构，感觉不像什么公没有私立公立这种说法，只有非盈利和盈利。好像这样说吧。然后还有大部分人看病，他不是去医院，他可能去诊所。
+</p>
+<p class="transcript-line">
+<span class="time"><strong>[00:48:45]</strong> </span>
+<span class="speaker"><strong>发言人2: </strong></span>
+还有对，这个我也想问，医院跟诊所应该有区别。你去诊所看个病应该不会花很多钱。
+</p>
+<p class="transcript-line">
+<span class="time"><strong>[00:48:52]</strong> </span>
+<span class="speaker"><strong>发言人1: </strong></span>
+不一定不一定一定OK，这取决于你的诊所，就是你去的那家诊所是不是在network，是不是在你的保险的计划的网络里面OK。但是我就是我刚才说的，如果这个诊所里面给你看病，那个医生他诊所在，但是那个医生不在，很恶心。
+</p>
+<p class="transcript-line">
+<span class="time"><strong>[00:49:10]</strong> </span>
+<span class="speaker"><strong>发言人2: </strong></span>
+我也遇到了，我懂你的意思，新加坡有那个商业保险里面也是有。就比如说付是不是要覆盖私立医院？要不要覆盖哪些诊所，然后也是有个network，你这样一说我想起来了。
+</p>
+<p class="transcript-line">
+<span class="time"><strong>[00:49:25]</strong> </span>
+<span class="speaker"><strong>发言人1: </strong></span>
+对，in network. 但是这个in network就你的买买的保险，相当于以极大程度上的限制了你要去哪家医院。你只能在那个in network里面选。如果你去alt network的话，就费用会高很多。
+</p>
+<p class="transcript-line">
+<span class="time"><strong>[00:49:40]</strong> </span>
+<span class="speaker"><strong>发言人2: </strong></span>
+对它就是另外一个level，另外一个套餐了，就是有一个套餐是在哪个？
+</p>
+<p class="transcript-line">
+<span class="time"><strong>[00:49:46]</strong> </span>
+<span class="speaker"><strong>发言人1: </strong></span>
+对，就刚才美国这个商业保险，反正已经是美国保险的第三层了。对，政府是一个有很基本的医疗保险，就是它只覆盖你比如说住院什么的这种。因为住院在美国是巨贵无比的，所以政府相当于给你把最贵的这部分付掉。然后再往上一层，就是刚才说那个奥巴马保险的什么的，它就是覆盖你稍微比如说门诊之类的就诊买药药也是一个很坑的在美国。
+</p>
+<p class="transcript-line">
+<span class="time"><strong>[00:50:14]</strong> </span>
+<span class="speaker"><strong>发言人1: </strong></span>
+对，但是再往上一层就是我刚才第三层，就是比如说我刚才说的那种，就是你跟商业公司签订的医疗保险。这个就是覆盖就是取决于你那个in network里面有哪些医疗机构了。诊所，urgent care，还有emergency care，就是不同的医疗这个等级的花的钱也不一样。对，然后最再往上最最往上就是更好的那种，更贵的话，它就是买药也会变得便宜一点。它覆盖很多药品，药品也会在这个医保也可以报。所以我们像我们比如说程序员一般在的公司都比较好一些的话，大厂他们都会给你买相当于是第四个level的这种就最好的医疗保险，但是你自己还是要付一笔钱的，就是每个月你还要付一笔钱。
+</p>
+<p class="transcript-line">
+<span class="time"><strong>[00:51:02]</strong> </span>
+<span class="speaker"><strong>发言人1: </strong></span>
+对，但是总体来说，你的这个看病的话，会比普通人可能会少花1点OK。但是这只是理想情况，实际情况就是完全取决于你进医院的那一刹那到底运气好不好，对吧？然后也取决于你的三寸不烂之舌有没有搞架。
+</p>
+<p class="transcript-line">
+<span class="time"><strong>[00:51:24]</strong> </span>
+<span class="speaker"><strong>发言人2: </strong></span>
+OKOK对我。
+</p>
+<p class="transcript-line">
+<span class="time"><strong>[00:51:26]</strong> </span>
+<span class="speaker"><strong>发言人1: </strong></span>
+有一个很经典的案例，就是我去看，比如说还是拿我咳嗽我去看咳嗽，我最后各种保险argue下来，我交了200美金。然后另一个人，他基本没收入，或者说他收入只收现金，平时没有记录OK他进去，他说他是低收入者，然后有政府的这个保险，然后他买了一个什么最便宜的保险，他说他没钱，他说如果你扫码你就收50，我不收码我就不走，我就走了。拜拜，我也没钱，然后那医院没办法，就收了50。
+</p>
+<p class="transcript-line">
+<span class="time"><strong>[00:52:06]</strong> </span>
+<span class="speaker"><strong>发言人1: </strong></span>
+大概是这样了，就极端一点例子就是这样了。反正但是其中你是有很大的操作空间的，不光是保险，医院，你自己也有很大的操作空间，对吧？你自己说你自己是啊没钱之类。但是一般的话，像我进医院，我都会把我的那个医疗医保卡放在那儿。他一看你这个医保这么好，那肯定要给你多搞点，多来点。你对，必须得加菜，不加菜能行吗？就这种行，反正就是在美国的话，你要时刻注意你自己的各方面的平衡。
+</p>
+<p class="transcript-line">
+<span class="time"><strong>[00:52:45]</strong> </span>
+<span class="speaker"><strong>发言人1: </strong></span>
+我只能笼统的说是这样的，反正就是涉及到各个钱要出去的时候，你就会觉得OK是不是有什么其他方法能省一笔钱？我之前不是还写了一篇博客，我来美国之后两年，其实大概就是我找到了一些，其实有的地方不用花那么多钱。就比如说医保，你感觉你花那么多钱，其实你这结果当年你看的病也花了很多钱。
+</p>
+<p class="transcript-line">
+<span class="time"><strong>[00:53:10]</strong> </span>
+<span class="speaker"><strong>发言人1: </strong></span>
+就是你最后第二年买了一个便宜的医保，你反而那全家健康也不错，然后也没花那么多钱。就对大家都一样的，就只是你每次看病花的钱多，但是其实算下来，整体一年下来是比上一年买的贵的医保花的少太多了。对。
+</p>
+<p class="transcript-line">
+<span class="time"><strong>[00:53:29]</strong> </span>
+<span class="speaker"><strong>发言人2: </strong></span>
+是都是对赌。我听下来有一个直观的感受，就是你看不论是医保不论是医疗，还是刚才说的比如说一些贷款，或者总之就是各种消费的那些面向。我的感觉是就都都是大数字，就都挺贵的。
+</p>
+<p class="transcript-line">
+<span class="time"><strong>[00:53:53]</strong> </span>
+<span class="speaker"><strong>发言人2: </strong></span>
+而且好像至少从我的角度看，没有那种像我在新加坡，因为我们之前有一期节目也聊过新加坡，新加坡不论衣食住行，看病，包括看病房子、车各方面或者说交通，它都有从最低档到最高档一个非常高的跨度。就是你如果自己觉得经济能力有限，你就大不了就从那个最低档的开始。但是你依然是反正可以活，日子可以过。然后你想追求高档的，高档次、高层次，你也可以往上走。你反正有多少钱花多少钱。总之我感觉中间这个韧性，这个灵活度好像还这个空间还蛮大的。但我听上去我不知道是不是我的错觉，或者我听上去感觉就是哪都花钱，而且就都是好大一笔钱，稍有不慎就把钱花出去了，我不知道你是不是这个感觉。
+</p>
+<p class="transcript-line">
+<span class="time"><strong>[00:54:49]</strong> </span>
+<span class="speaker"><strong>发言人1: </strong></span>
+对，这种消费分级上面，美国其实分级也挺明显的。就是如果是一个收入5万美金以下的人，他去的超市跟收入10万美金跟收入20万美金去的超市都不一样。OK对，这个还是很明显的。就是收入20万美金的人可能经常去hold付子买各种有机食物，然后收入5万美金以上，就去那个farmer market，就是买买比较稍微便宜的一些蔬菜。对，也有。对，但是总体来说就是美国。
+</p>
+<p class="transcript-line">
+<span class="time"><strong>[00:55:25]</strong> </span>
+<span class="speaker"><strong>发言人2: </strong></span>
+但总体上它这个量级好像高一些是吧？就是最最低最低的这个量级的这个设定比较高，感觉是这样子。
+</p>
+<p class="transcript-line">
+<span class="time"><strong>[00:55:34]</strong> </span>
+<span class="speaker"><strong>发言人1: </strong></span>
+因为物价最近几年涨得实在是太厉害，就是消费，包括这个主要是因为通货膨胀，就是涨的特别夸张。你经常就我经常刷那种小红书帖子，我比如说要做一个牛排，我去搜怎么做牛排。他说从costco买一个十刀的牛排，我一看现在那个costco的牛排是十八刀，就是一模一样，你没变过，然后就价钱大概翻了这么多。对，就很搞笑了。就是你你会觉得这个物价真的是涨到让让人无法理解。而且我也采访过一些来了美国10年的人，他们也都在怀念10年以前物价多么平易近人，物美价廉之类的对，现在可能就是一个比较困难的时期。总体来说就说这个说回斩杀线，还有一个点就是没你说刚才消费分级，我们如果拿一个另一个大国来对比的话，就是他从一线城市如果混不下去的话，他可以回退到二线。如果二线混不下去的话，回退到三线或者更低线城市，这是可以的。
+</p>
+<p class="transcript-line">
+<span class="time"><strong>[00:56:45]</strong> </span>
+<span class="speaker"><strong>发言人1: </strong></span>
+但是美国有一个特点，就是虽然它是一个也有一线、二线、三线，但是它的三线跟一线的平时的消费差距没有那么明显。OK可能邮费会差的比较，但是你吃比如说买肉、买菜，其实差的没那么多。所以你除过刚才我最开始，就是我们博客这期最开始说的那些固定支出之外，其他的花销几乎是差不多的。OK那你差的就是差在了房租，还有教育，还有daycare这些家庭的几大支出上面。但是平时的花销是一样，所以就导致了一个问题，就是你如果在一线混不下去，你回了三线，你如果想维持基本的温饱的话，好像你还是得花挺多钱的。就是没有回退了多少，可能回退20%。
+</p>
+<p class="transcript-line">
+<span class="time"><strong>[00:57:36]</strong> </span>
+<span class="speaker"><strong>发言人2: </strong></span>
+所以在你看来这个消所谓消费的分歧是更多的，其实体现在这个地方。
+</p>
+<p class="transcript-line">
+<span class="time"><strong>[00:57:43]</strong> </span>
+<span class="speaker"><strong>发言人1: </strong></span>
+对，就是消费的分级是有的，但是他从最高级到最低级差的没那么多。第二是跟地域的，这个就是跟空间上面的差距也没那么大。就比如说我们在某某一个大国，一线城市吃一碗面可能50块，回了三线或者是18线城市吃一碗面可能只要15块。然后在美国的话，你在一线吃一碗面是20美金，比如说然后回了三线吃一碗面是15美金。感觉没有差多少，没有差的那么夸张。
+</p>
+<p class="transcript-line">
+<span class="time"><strong>[00:58:17]</strong> </span>
+<span class="speaker"><strong>发言人2: </strong></span>
+就是没有觉得换一个地方瞬间松了一口气，就好像那个弦还绷着，就是那个感觉。对。
+</p>
+<p class="transcript-line">
+<span class="time"><strong>[00:58:23]</strong> </span>
+<span class="speaker"><strong>发言人1: </strong></span>
+所以这也是一个问题，我觉得这个也是造成斩杀线的一个问题。然后这样就导致了一个结果，就是你你在三线也混不下去，为什么还不如还是待在一线，对吧？一线比如说著名的加州，我不知道大家有没有看过什么丁胖子金牌讲师，就是兄弟们我又要到饭了那个那个视频，我好像听到最开始他在洛杉矶乞讨，发那些乞讨到食物的时候的视频的时候，他发的每期食物我感觉都比我平时吃的好。你知道吗？就比我真花真金白银买的这个，平时中午去十几刀买了一个饭，他领到的都比我的好。我就真的就这么觉得，就是你这时候你就觉得很郁闷了，对吧？你洛杉矶是这个水平，然后我在这边花花了那么多钱，你吃到的是这个还不如人家。对人，然后人家还不用花钱，这就有点无语了。所以它这个地域差距体现在就是下限特别高，但是日常的花销是差不多的。
+</p>
+<p class="transcript-line">
+<span class="time"><strong>[00:59:30]</strong> </span>
+<span class="speaker"><strong>发言人2: </strong></span>
+大概能理解。
+</p>
+<p class="transcript-line">
+<span class="time"><strong>[00:59:31]</strong> </span>
+<span class="speaker"><strong>发言人1: </strong></span>
+所以我肯定我如果混不下去我就去洛杉矶，我脸皮厚我无所谓，我脸皮厚我去混那些。就是我如果一无所有，我正好能领低保，然后领各种救济，去教堂什么的都没问题。
+</p>
+<p class="transcript-line">
+<span class="time"><strong>[00:59:48]</strong> </span>
+<span class="speaker"><strong>发言人2: </strong></span>
+另外我是觉得我听你这样讲，我刚才一下子联想到，其实我们我们如果给各位就是各位听众如果想帮助大家带入的话，我相信很多人可能不是在一线城市出生长大的。我相信很多人不是这样，他可能是在二线二三线城市或者郊区农村长大的，然后一步一步通过自己打拼来到一线城市。二线城市的他其实有一个出出门出门在外打拼漂泊的一个过程。然后与此同时，如果有什么不顺利，我似乎永远有一个选项，就是我可以回家，或者我可以退回到一个我之前相对舒适的地方。这个我觉得是大家我在想了，我在猜了，就你真正生活真正一线城市长大的，然后现在生活很很困难。然后他当然我我我相信也可能也有，但我想我觉得可能不是绝大多数的情况，更多的情况是你出门打拼。然后如果真的混得不好，说的通俗一点，或者日子过得不太顺利，你永远有一个回家的选项或者回退的选项。就像你说的，比如说在在美国在大城市不行了，我去一个别的城市，你去了别的城市，你更人生地不熟，我我我不知道这个感觉是不是也在里边。
+</p>
+<p class="transcript-line">
+<span class="time"><strong>[01:01:12]</strong> </span>
+<span class="speaker"><strong>发言人1: </strong></span>
+其实它不是一个甚至法律都不一样。
+</p>
+<p class="transcript-line">
+<span class="time"><strong>[01:01:14]</strong> </span>
+<span class="speaker"><strong>发言人2: </strong></span>
+对它它其实不是一个回退，它不是让你回到一个舒适空间，甚至可能挑战更大。所以这个是让可能是让大家无路可退的另外一个因素。
+</p>
+<p class="transcript-line">
+<span class="time"><strong>[01:01:25]</strong> </span>
+<span class="speaker"><strong>发言人1: </strong></span>
+对吧？对大城市长大的孩子是另一种困境。这个我之前也跟大城市长大的孩子聊过。比如说一个大国里面，一线城市参加这个高考的人数是6万人，不一定都能上本地最好的两三所大学。然后可能甚至这个高考的6万人，其实是已经淘汰了几十万人，在中考的时候就已经淘汰。那那这时候被中考淘汰那帮人在一线城市其实生活是蛮有挑战的。因为他不仅要面临跟他一起长大的人的挑战。
+</p>
+<p class="transcript-line">
+<span class="time"><strong>[01:02:03]</strong> </span>
+<span class="speaker"><strong>发言人2: </strong></span>
+还要面临从外来的什么。
+</p>
+<p class="transcript-line">
+<span class="time"><strong>[01:02:05]</strong> </span>
+<span class="speaker"><strong>发言人1: </strong></span>
+外来的很多人的挑战。这样的话他他心理上就很痛苦。第一方面他觉得他没有地方可以回退，第二他又觉得他也没有上升的空间。
+</p>
+<p class="transcript-line">
+<span class="time"><strong>[01:02:17]</strong> </span>
+<span class="speaker"><strong>发言人2: </strong></span>
+就是确实你你都不用说你都不用说大国一线城市了，我觉得新加坡也是这样的，你刚才说我香港也是这样，新加坡也是这样子。
+</p>
+<p class="transcript-line">
+<span class="time"><strong>[01:02:27]</strong> </span>
+<span class="speaker"><strong>发言人1: </strong></span>
+对。
+</p>
+<p class="transcript-line">
+<span class="time"><strong>[01:02:27]</strong> </span>
+<span class="speaker"><strong>发言人2: </strong></span>
+香港也是这样，就这么小的地方，然后就那么挤几个大家知熟知的学校，对吧？你也是要考的。其实都一样。
+</p>
+<p class="transcript-line">
+<span class="time"><strong>[01:02:37]</strong> </span>
+<span class="speaker"><strong>发言人1: </strong></span>
+对，都一样，这个很多很多问题是都一样。对，对，反正美国是有美国很多神奇的地方让人无法理解，只有你真正来了之后，体会到了才能知道。就像我刚才说的，那些系统其实很复杂。我觉得我一期播客，我自己觉得我讲的挺清楚，但我不确定听众同学们听的怎么样，我觉那我可能得做一个PPT，就是我做一个PPT或者说我在这边写边画，可能才能让人全部理解。光听的话，我觉得其实挺难懂的。
+</p>
+<p class="transcript-line">
+<span class="time"><strong>[01:03:11]</strong> </span>
+<span class="speaker"><strong>发言人2: </strong></span>
+不过一定程度上我觉得这也是一次性成本了，反正你知道了就知道了，就不用每天点。
+</p>
+<p class="transcript-line">
+<span class="time"><strong>[01:03:17]</strong> </span>
+<span class="speaker"><strong>发言人1: </strong></span>
+没有，每年算。他每年的一我的意思是每年的养老金。
+</p>
+<p class="transcript-line">
+<span class="time"><strong>[01:03:23]</strong> </span>
+<span class="speaker"><strong>发言人2: </strong></span>
+对你用每年算。但是怎么讲，就反正你你你不知道，你永远不知道，但是你一旦知道了，你每年都可以算，我是这个意思。
+</p>
+<p class="transcript-line">
+<span class="time"><strong>[01:03:31]</strong> </span>
+<span class="speaker"><strong>发言人1: </strong></span>
+对对对吧？但是每年就是你得算就很麻烦。对对对，但是你搬一次家你也得算。
+</p>
+<p class="transcript-line">
+<span class="time"><strong>[01:03:37]</strong> </span>
+<span class="speaker"><strong>发言人2: </strong></span>
+新加坡可能好一点，新加坡其实我也是那种不太算的人，但反正我我知道过，我知道我的意思是我听我老婆给我讲过一次，讲完之后我觉得没啥问题，然后我就忘了。你现在问我，我就说不上来，但反正我知道过一次。
+</p>
+<p class="transcript-line">
+<span class="time"><strong>[01:03:56]</strong> </span>
+<span class="speaker"><strong>发言人1: </strong></span>
+我感觉我就是那种虽然资产不是很多，但是操作资产特别多的人的心的那种。
+</p>
+<p class="transcript-line">
+<span class="time"><strong>[01:04:02]</strong> </span>
+<span class="speaker"><strong>发言人2: </strong></span>
+人挺好的。
+</p>
+<p class="transcript-line">
+<span class="time"><strong>[01:04:03]</strong> </span>
+<span class="speaker"><strong>发言人1: </strong></span>
+可能我自己觉得。
+</p>
+<p class="transcript-line">
+<span class="time"><strong>[01:04:04]</strong> </span>
+<span class="speaker"><strong>发言人2: </strong></span>
+我是为将来做准备。
+</p>
+<p class="transcript-line">
+<span class="time"><strong>[01:04:06]</strong> </span>
+<span class="speaker"><strong>发言人1: </strong></span>
+是的，我自己觉得我将来可能会变成一个很有钱的人。
+</p>
+<p class="transcript-line">
+<span class="time"><strong>[01:04:09]</strong> </span>
+<span class="speaker"><strong>发言人2: </strong></span>
+对，早晚用得上是吧？谁知道？
+</p>
+<p class="transcript-line">
+<span class="time"><strong>[01:04:10]</strong> </span>
+<span class="speaker"><strong>发言人1: </strong></span>
+对，早晚用得上。我甚至有各种这种避税的方法。这个在美国你如果想避税简直有1万种方法，但是我到现在还用不准备？我觉得很感兴趣，对这些东西所以有的时候会研究一下。总体来说回归到淘那个什么斩杀线，我觉得其实没有那么容易，总体来说这个结论是没有那么容易就被斩杀。大部分人斩杀都是因为一些其他的原因。刚才你说的那四个人群，除了医疗，还有日结工日结工很好理解，就是什么收入不稳定，我觉得学生确实也容易被斩杀。
+</p>
+<p class="transcript-line">
+<span class="time"><strong>[01:04:49]</strong> </span>
+<span class="speaker"><strong>发言人1: </strong></span>
+有段时间我研究这个教育，原来美国上大学很贵，所以导致有有一个现象，就是大家基本上都在周内上大学。所以很多美国人他可能一辈子都没出过这个州，就是他的生活我说最就是他的生活都围绕这个州，就是一直在这个州内。但是你出生在加州，那就是最好了，你一辈子在最先进的地方。你如果出生在一个美国中部的话，你可能就会过得比较难受一点。现在美国人他开始质疑这个本科教育，因为太贵了。4万美金，比如说一年四四万美金，不要觉得这个很好像很便宜。大家如果薪资是10万，掏4万你还是蛮吓人的对，40%的钱就是你的家庭收入的40%.
+</p>
+<p class="transcript-line">
+<span class="time"><strong>[01:05:37]</strong> </span>
+<span class="speaker"><strong>发言人2: </strong></span>
+要有人算这个账？比如说41000年.
+</p>
+<p class="transcript-line">
+<span class="time"><strong>[01:05:40]</strong> </span>
+<span class="speaker"><strong>发言人1: </strong></span>
+然后上四年到底值不值？
+</p>
+<p class="transcript-line">
+<span class="time"><strong>[01:05:42]</strong> </span>
+<span class="speaker"><strong>发言人2: </strong></span>
+对你将来多少年能把这个钱赚回来？我相信会有人算这个账，他觉得不值的话他就不上了。
+</p>
+<p class="transcript-line">
+<span class="time"><strong>[01:05:48]</strong> </span>
+<span class="speaker"><strong>发言人1: </strong></span>
+如果在美国中部的州的话，他的人均收入中位数的时候是4万美金到6万美金。那你相当于你将来得花四年赚回你本科四年的钱。
+</p>
+<p class="transcript-line">
+<span class="time"><strong>[01:05:56]</strong> </span>
+<span class="speaker"><strong>发言人2: </strong></span>
+而且你还提少四年上上少上四年班，等于礼拜八年出去了。
+</p>
+<p class="transcript-line">
+<span class="time"><strong>[01:06:02]</strong> </span>
+<span class="speaker"><strong>发言人1: </strong></span>
+关键是master超级贵，master基本上就是学校，这么说好像有点过，就是学校来拿来赚钱的，但是它确实很贵。本周的学生有一些优惠，但是针对外面的或者说怎么样，就是你要花很多很多钱，大概10万美金以上。如果是好的学校的话，那十万美金你就一年，那十万美金又很夸张。你将来你家庭年收入的一年的收入基本上都花在这个master上。所以很多人会贷款。然后贷款的话，现在学生贷款的利率非常高，他可以从银行贷，也可以从政府贷，就是从银行贷的肯定会贵。然后保险就OK不是利息就会多很多，对还不起。这个就一辈子变成这个学生带有独立的。
+</p>
+<p class="transcript-line">
+<span class="time"><strong>[01:06:55]</strong> </span>
+<span class="speaker"><strong>发言人2: </strong></span>
+从学校出来第一天开始就要还债，而且不能断了一段。
+</p>
+<p class="transcript-line">
+<span class="time"><strong>[01:07:00]</strong> </span>
+<span class="speaker"><strong>发言人1: </strong></span>
+对奥巴马不是说奥巴马还了20年吗？这是他的学生贷款OK疙瘩疙瘩。对，然后还有一类是啥来着？
+</p>
+<p class="transcript-line">
+<span class="time"><strong>[01:07:10]</strong> </span>
+<span class="speaker"><strong>发言人1: </strong></span>
+最开始你说的那个离婚，单亲离婚也是很大的一大部分的原因导致这个homeless，这个取决于具体情况。但是大部分的情况就是你离婚了后，总会有败诉的一方，败诉的一方可能会支付赡养费。这个赡养费是一个持续的支出，大概要20年。那你那你这个钱是很多的一笔钱。对，然后所有的这些额外支出，包括你自己每月负担的所有的钱。如果你但凡哪一环出了问题，你就会导致你的这个现金流供不上，然后导致你得去借钱。或者说但凡你要借钱，那就陷入了一个恶性循环。然后最后就是政府会把你的房子收回去。
+</p>
+<p class="transcript-line">
+<span class="time"><strong>[01:07:58]</strong> </span>
+<span class="speaker"><strong>发言人1: </strong></span>
+最差的情况，这种情况其实蛮蛮难出现的。你知道有的州可能你耗在一个房子里一直不走，政府也拿你没什么办法。但是他他最终的结果，可能你最终还是要搬出去。在美国只要你没有房子的话，确实是比较就比较难了，就会被斩杀。
+</p>
+<p class="transcript-line">
+<span class="time"><strong>[01:08:18]</strong> </span>
+<span class="speaker"><strong>发言人2: </strong></span>
+所以听上去还是就像你说的，算钱要算清楚。另外就是要有一些应急的措施是吧？
+</p>
+<p class="transcript-line">
+<span class="time"><strong>[01:08:26]</strong> </span>
+<span class="speaker"><strong>发言人1: </strong></span>
+不要超前消费，不要上杠杆儿。其实你很多人把那个养老金拉满，其实也算是一种变相的杠杆。因为它是投资，投资你占用了你绝大部分的现金流，那你这个就是一个比较危险的情况。你哪怕是你自己买自己私人的，在你的股票账户里操作。当你的这个持仓超过一定的水平的时候，超过50%的时候，可能你自己也会觉得风险会变大，对吧？对，所以很多大部分被斩杀的人都是因为可能过度消费，过然后杠杆加的太大。本来你还要拉满保险，拉满养老金，结果你还又买了一个比较好的房子，那就比较难了。
+</p>
+<p class="transcript-line">
+<span class="time"><strong>[01:09:13]</strong> </span>
+<span class="speaker"><strong>发言人2: </strong></span>
+我其实还有一个问题，你刚才提到不止一次说借钱吗？你这里指的是跟银行借钱对不对？或者通过一些金融产品借钱。
+</p>
+<p class="transcript-line">
+<span class="time"><strong>[01:09:22]</strong> </span>
+<span class="speaker"><strong>发言人1: </strong></span>
+对。
+</p>
+<p class="transcript-line">
+<span class="time"><strong>[01:09:23]</strong> </span>
+<span class="speaker"><strong>发言人2: </strong></span>
+小额贷款吗？小额贷款。
+</p>
+<p class="transcript-line">
+<span class="time"><strong>[01:09:26]</strong> </span>
+<span class="speaker"><strong>发言人1: </strong></span>
+信用卡最主要的是信用卡，其实很多人都是还，其实还最低还款额就是变相借钱OK。
+</p>
+<p class="transcript-line">
+<span class="time"><strong>[01:09:32]</strong> </span>
+<span class="speaker"><strong>发言人2: </strong></span>
+所以在美国大家很少跟周围的朋友借钱了。如果遇到资金周转的问题。
+</p>
+<p class="transcript-line">
+<span class="time"><strong>[01:09:39]</strong> </span>
+<span class="speaker"><strong>发言人1: </strong></span>
+我觉得也会。但是美国的话你我不清楚这个，因为我自己没借过钱，然后周围的人好像他们借钱也不会跟我说。但是我知道的就是如果你是比如说借了一笔很大的钱，你是可以签合同的。另外在美国还有一个叫gift tax，就是如果你金额超过10万美金，你这个钱是要交税的。就比如说别人借你钱是因为。
+</p>
+<p class="transcript-line">
+<span class="time"><strong>[01:10:09]</strong> </span>
+<span class="speaker"><strong>发言人2: </strong></span>
+我还有一个直观的感受是，我想起来我自己当时刚工作的时候，其实我其中有一个月资金周转不过来了。就真的是我感觉现在想起来，我当时就在那个斩杀线上，刚刚毕业的时候。
+</p>
+<p class="transcript-line">
+<span class="time"><strong>[01:10:24]</strong> </span>
+<span class="speaker"><strong>发言人1: </strong></span>
+刚工作的是因为押金是吧？
+</p>
+<p class="transcript-line">
+<span class="time"><strong>[01:10:26]</strong> </span>
+<span class="speaker"><strong>发言人2: </strong></span>
+我有点忘记了，总之是跟房租有关系。然后我我我就卷着覆盖跑到我同事家地板上住了两个月还是三个月。而且我还为了付清那个房租，还跟我的同事借了钱。然后当然我当时的所谓的周转就是一个月的周转了。因为我下个月工资发下来，我的钱就可以还了，所以我当时也说的很清楚，我就借一个月，下个月我百分之百可以还，所以我那个朋友就把钱借给我。然后我就当然我租不起租不起房子了，我是我相当于是跟我另外的同事合租，经济上我相当于是跟他们合租，但是我是睡在地板上，然后我睡了，我忘记睡了多久了，至少睡了一个月，可能超过一个月。我是经历过那个时候的，所以我突然想起来，我如果拿今天斩杀线这个概念往里套的话，我当时就在那条线上。但好像我就也没觉得是多大，我当时没觉得这对我来讲是我现在想起来我当时是很很糟糕。
+</p>
+<p class="transcript-line">
+<span class="time"><strong>[01:11:31]</strong> </span>
+<span class="speaker"><strong>发言人1: </strong></span>
+如果你当时被裁了，如果当时被裁了。
+</p>
+<p class="transcript-line">
+<span class="time"><strong>[01:11:34]</strong> </span>
+<span class="speaker"><strong>发言人2: </strong></span>
+那那确实那确实就怎么说，我现在想起来我当时的那个经济预算就给自己做做这种什么，就是理财的这个能力也极差。就我我怎么我现在想我怎么可能我我我想象不到我当时能混成那样子。但是我当时直观的感觉就是我没觉得是一条斩杀线，没觉得这个事儿严重或者说致命到那个程度。对对对，这个是我。
+</p>
+<p class="transcript-line">
+<span class="time"><strong>[01:11:57]</strong> </span>
+<span class="speaker"><strong>发言人1: </strong></span>
+而且你有自信找到比这个高薪的工作。
+</p>
+<p class="transcript-line">
+<span class="time"><strong>[01:12:01]</strong> </span>
+<span class="speaker"><strong>发言人2: </strong></span>
+也许。但我同样是觉得我当时好像在当时的那个是周围的那个关系网里边，或者我当时在比如说在那个。
+</p>
+<p class="transcript-line">
+<span class="time"><strong>[01:12:11]</strong> </span>
+<span class="speaker"><strong>发言人1: </strong></span>
+最起码能借到钱。
+</p>
+<p class="transcript-line">
+<span class="time"><strong>[01:12:12]</strong> </span>
+<span class="speaker"><strong>发言人2: </strong></span>
+对，然后我周围好像也有相互有朋友，能相互帮个忙，遇到什么问题能相互支持一下，就有这种感觉。
+</p>
+<p class="transcript-line">
+<span class="time"><strong>[01:12:21]</strong> </span>
+<span class="speaker"><strong>发言人1: </strong></span>
+美国很这么想的话，那美国很难借钱。你想你你每个月的都没有积蓄，我怎么问你借？你也没积蓄。
+</p>
+<p class="transcript-line">
+<span class="time"><strong>[01:12:31]</strong> </span>
+<span class="speaker"><strong>发言人2: </strong></span>
+大家都没积蓄是吧？
+</p>
+<p class="transcript-line">
+<span class="time"><strong>[01:12:33]</strong> </span>
+<span class="speaker"><strong>发言人1: </strong></span>
+对，你有积蓄你都存了养老金。
+</p>
+<p class="transcript-line">
+<span class="time"><strong>[01:12:35]</strong> </span>
+<span class="speaker"><strong>发言人2: </strong></span>
+那比如说或者我我我这个月没地方住了，我暂时住在你家。
+</p>
+<p class="transcript-line">
+<span class="time"><strong>[01:12:41]</strong> </span>
+<span class="speaker"><strong>发言人1: </strong></span>
+这个没问题。
+</p>
+<p class="transcript-line">
+<span class="time"><strong>[01:12:42]</strong> </span>
+<span class="speaker"><strong>发言人2: </strong></span>
+美国房子大我觉得这个肯定没事。就是我我好像听上去，我看到这些新闻，我就觉得是不是这方面的东西少一些。
+</p>
+<p class="transcript-line">
+<span class="time"><strong>[01:12:51]</strong> </span>
+<span class="speaker"><strong>发言人1: </strong></span>
+你觉得对。
+</p>
+<p class="transcript-line">
+<span class="time"><strong>[01:12:54]</strong> </span>
+<span class="speaker"><strong>发言人2: </strong></span>
+就有这种社会周朋友之间的相互关怀，这些我我也不知道这个是我也不知道这个是不是事实，甚至我不知道这个是算是好还是。但因为我我刚毕业的时候，我真的是经历过这个，所以我一下就想到了当时的那我就当时没觉得这是什么大事儿，反正确实是个事儿。但是好像。
+</p>
+<p class="transcript-line">
+<span class="time"><strong>[01:13:12]</strong> </span>
+<span class="speaker"><strong>发言人1: </strong></span>
+我也遇到过。
+</p>
+<p class="transcript-line">
+<span class="time"><strong>[01:13:13]</strong> </span>
+<span class="speaker"><strong>发言人2: </strong></span>
+就好像总总有办法，就是你觉得总有办法就不至于把人逼到死角上。我当时是这么觉得。
+</p>
+<p class="transcript-line">
+<span class="time"><strong>[01:13:20]</strong> </span>
+<span class="speaker"><strong>发言人1: </strong></span>
+对我我刚去香港的时候也遇到过，因为那个房租就是震碎我三观了。当时贵到严重超出我预算，包括还要买家具，我都没想到原来要买家具。
+</p>
+<p class="transcript-line">
+<span class="time"><strong>[01:13:32]</strong> </span>
+<span class="speaker"><strong>发言人2: </strong></span>
+乔布斯吗？你家里没有家具？
+</p>
+<p class="transcript-line">
+<span class="time"><strong>[01:13:35]</strong> </span>
+<span class="speaker"><strong>发言人1: </strong></span>
+不是，那我不是因为国内我住自如，当时自如你一进去基本上都是就拎包入住。
+</p>
+<p class="transcript-line">
+<span class="time"><strong>[01:13:43]</strong> </span>
+<span class="speaker"><strong>发言人2: </strong></span>
+然后你发现这房子里面啥也没有是吧？
+</p>
+<p class="transcript-line">
+<span class="time"><strong>[01:13:45]</strong> </span>
+<span class="speaker"><strong>发言人1: </strong></span>
+香港也是拎包入住，就跟包住就比较惨感觉OK对OK，但反正我这个我不知道，就美国之间互相人跟人之间借钱我确实不知道，但我理解就是大家都比较拮据，不能说接就是你的现金流控制都比较极限。
+</p>
+<p class="transcript-line">
+<span class="time"><strong>[01:14:02]</strong> </span>
+<span class="speaker"><strong>发言人2: </strong></span>
+也不一定是借钱了。就是当你周围人遇到困难的时候，他能多大程度上支持你就是就get your back那种感觉，你觉得会有吗？
+</p>
+<p class="transcript-line">
+<span class="time"><strong>[01:14:12]</strong> </span>
+<span class="speaker"><strong>发言人1: </strong></span>
+我觉得这个不太会有，但是这个只是有限的，这个最终都是有限的，你不可能支持他很久。就像刚才我们说的几个case，都那都是年以上的OK这一年以上至少一年以上的这个债务危机，OK不可能支持他一年。这倒是看关系，但是总体来说这个不能指望朋友，不能指望社交圈，可能你得指望政府给你兜底OK.
+</p>
+<p class="transcript-line">
+<span class="time"><strong>[01:14:39]</strong> </span>
+<span class="speaker"><strong>发言人2: </strong></span>
+但是政府兜底的话。
+</p>
+<p class="transcript-line">
+<span class="time"><strong>[01:14:41]</strong> </span>
+<span class="speaker"><strong>发言人1: </strong></span>
+就涉及到各个州了，就不同的州兜底的金额完全不一样，所以大家都往加州跑。
+</p>
+<p class="transcript-line">
+<span class="time"><strong>[01:14:50]</strong> </span>
+<span class="speaker"><strong>发言人2: </strong></span>
+另外你觉得这个所谓的斩杀线，除了你刚才说学生的那个情况，你会不会觉得这也是一种美式的变相的中年危，你会这样觉得吗？
+</p>
+<p class="transcript-line">
+<span class="time"><strong>[01:15:02]</strong> </span>
+<span class="speaker"><strong>发言人1: </strong></span>
+除了学生，对美国它不光是中年危机。你看他你说的那个维基百科上列举的几乎是从小覆盖到老，从学生中年到老年都有可能其实是变成斩杀。现在这个是美国的社会的一个特点，就是它不是一个以福利为主的国家。就是我们经常聊到，比如说北欧那边有点福利为主的国家的话，他税收高。然后对每个人的兜底的机制非常完善。就是你哪怕失业了，我们经常看听说有的人在欧洲，包括我们自己认识的朋友啊，就是他在欧洲失业了，就程序员被裁了，他还是可以获得一个很非常不错的失业保险金救助金。对，然后每个月就够他很好的生活了。对，这个很好的生活不是说能够让他吃起饭，而是能支撑他去健身房去买各种PS5，他也可以玩儿，就是都好到这个程度。对，但是美国不是这样的国家，美国是他鼓励你靠个人奋斗，因为他就是以个人为主的一个自我为中心的一个国家。
+</p>
+<p class="transcript-line">
+<span class="time"><strong>[01:16:13]</strong> </span>
+<span class="speaker"><strong>发言人2: </strong></span>
+是不是可以讲还是比较丛林法则的。
+</p>
+<p class="transcript-line">
+<span class="time"><strong>[01:16:15]</strong> </span>
+<span class="speaker"><strong>发言人1: </strong></span>
+适者生存，那相当从相当丛林法则相当丛林法则精英主义丛林法则达尔文主义我感觉就混混集一体。就是你在美国你得有竞争，然后你没有竞争的话，就是你失败了，那就失败。这个国家不会联系失败者。
+</p>
+<p class="transcript-line">
+<span class="time"><strong>[01:16:31]</strong> </span>
+<span class="speaker"><strong>发言人2: </strong></span>
+感觉我觉得也许这个是重点，也许这个是对对。
+</p>
+<p class="transcript-line">
+<span class="time"><strong>[01:16:36]</strong> </span>
+<span class="speaker"><strong>发言人1: </strong></span>
+也许，但反正政治上的事儿我不懂，而且美国从来都不是一个福利国家。
+</p>
+<p class="transcript-line">
+<span class="time"><strong>[01:16:41]</strong> </span>
+<span class="speaker"><strong>发言人2: </strong></span>
+对，我认同。
+</p>
+<p class="transcript-line">
+<span class="time"><strong>[01:16:43]</strong> </span>
+<span class="speaker"><strong>发言人1: </strong></span>
+这是我自己觉得，我特别天真。刚开始大家总说欧美，然后我在没来美国之前，很多人跟我说，你去了欧美国家那工作就是。天天很轻松的，下午很早就下班，然后就可以去跑步、运动，然后玩游戏。后来发现欧美这个美跟欧还是差很远。
+</p>
+<p class="transcript-line">
+<span class="time"><strong>[01:17:06]</strong> </span>
+<span class="speaker"><strong>发言人2: </strong></span>
+还是分开了是吧？
+</p>
+<p class="transcript-line">
+<span class="time"><strong>[01:17:08]</strong> </span>
+<span class="speaker"><strong>发言人1: </strong></span>
+还是分开很多的对，不是一个连生活方式都我感觉不是一个类型的对，大家理念也不一样。
+</p>
+<p class="transcript-line">
+<span class="time"><strong>[01:17:18]</strong> </span>
+<span class="speaker"><strong>发言人2: </strong></span>
+那那给plus自己现在在美国的情况怎么样了？然后如果其他人对现在已经在美国或者对未来有去美国的这个打算，给plus这边有没有什么建议？
+</p>
+<p class="transcript-line">
+<span class="time"><strong>[01:17:34]</strong> </span>
+<span class="speaker"><strong>发言人1: </strong></span>
+我的建议就是最核心的技能就是预算。对，预算是一个我觉得学习成本特别低，但是学会之后对生活质量或者说你的财务理财各方面都提升巨大的一个技能。而且它的原理特别简单，就是你大概你想今年或者你拆分到每个月，每个月你要在某一项上面剩多少钱，然后你的明年的目标是什么？然后你那个目标大概拆分到每个月折合折折合下来要花多少钱，这个大概一下就很清楚了。做一个excel，用一些软件就可以实现。关键是现在有AI了，然后我觉得很多事情用AI都可以搞定。就是你你你自己把这些自己的财务状况输到AI里面，AI都能帮你列一个非常完善的，给个综合还有财务目标，给一个完善的建议。
+</p>
+<p class="transcript-line">
+<span class="time"><strong>[01:18:32]</strong> </span>
+<span class="speaker"><strong>发言人1: </strong></span>
+对，然后在一个陌生的地方，就比如说你来刚来美国的话，其实美国是一个需要你用很长时间去完全掌握这些规则的一个地方。就是他的规则虽然你像美国都是写在法律条文里，都是写的很明确的。但是你要读完，或者说你要真的到了那个corner case的时候，是其实蛮难的。因为你掌握了大概主流的几个，你就可以活着也可以了。但是你如果想发现从其他边边角角所有的这个规则都了解清楚的话，是一个比较耗时的事情。然后我觉得多用AI是有很大帮助的。就是现在你基本上可以信任AI的一些高级的模式，然后让他他自己首先自己自我纠察，然后你再或者你找多个AI去互相验证，然后找到一个比较准确的版本对。我觉得就是了解清楚规则，然后制定好预算，那基本上就没什么问题。
+</p>
+<p class="transcript-line">
+<span class="time"><strong>[01:19:41]</strong> </span>
+<span class="speaker"><strong>发言人2: </strong></span>
+知己知彼是吧？好啊，最后要再总结一下吗？
+</p>
+<p class="transcript-line">
+<span class="time"><strong>[01:19:50]</strong> </span>
+<span class="speaker"><strong>发言人1: </strong></span>
+不用总结了，最后就祝所有群友都离斩杀线特别远好吗？我觉得本来大家也离得很远，只是祝大家离得更远。
+</p>
+<p class="transcript-line">
+<span class="time"><strong>[01:20:02]</strong> </span>
+<span class="speaker"><strong>发言人2: </strong></span>
+那就行了。好好，多么美好的祝福2026年。
+</p>
+<p class="transcript-line">
+<span class="time"><strong>[01:20:09]</strong> </span>
+<span class="speaker"><strong>发言人1: </strong></span>
+但就怕大家听的有点无聊，这期都是我在讲一些条条框框的事情。
+</p>
+<p class="transcript-line">
+<span class="time"><strong>[01:20:15]</strong> </span>
+<span class="speaker"><strong>发言人2: </strong></span>
+对，我们这期主要就是有找人现身说法，看看这个真正的斩杀线是什么样子。
+</p>
+<p class="transcript-line">
+<span class="time"><strong>[01:20:24]</strong> </span>
+<span class="speaker"><strong>发言人1: </strong></span>
+的对对，最后再次声明，我只聊美国的情况和我自己观察到的现象，不代表任何种族、族群、族裔。
+</p>
+<p class="transcript-line">
+<span class="time"><strong>[01:20:37]</strong> </span>
+<span class="speaker"><strong>发言人2: </strong></span>
+地狱这段要给你剪到前面了。
+</p>
+<p class="transcript-line">
+<span class="time"><strong>[01:20:40]</strong> </span>
+<span class="speaker"><strong>发言人1: </strong></span>
+整体观点没有就放最后就好了。对，确实因为真的千差万别了，尤其在美国这个多样性大到非常无无限大的国家。你包括我同事都各个族裔都有。那你对覆要覆盖的很全面的这些观点，我觉得不太可能，基本上对。
+</p>
+<p class="transcript-line">
+<span class="time"><strong>[01:21:00]</strong> </span>
+<span class="speaker"><strong>发言人2: </strong></span>
+另外我觉得确实不管真实的实际情况怎么样，我觉得至少我听下来带入我自己或者带入希望带入到每一位听众的话。其实你比如说要做预算，然后要很好的理财，应该这样讲，这个还是会受用的对，我自己还是觉得还是很受用。我刚才给plus讲的有些东西，我觉得放在新加坡，我现在这个生活情况我觉得也是有启发的对，也希望对各位听众有一些帮助，或者让大家更多的了解一下其他地方的情况，大概是这样子。
+</p>
+<p class="transcript-line">
+<span class="time"><strong>[01:21:41]</strong> </span>
+<span class="speaker"><strong>发言人1: </strong></span>
+挺好的，希望对大家有所帮助。好好。
+</p>
+<p class="transcript-line">
+<span class="time"><strong>[01:21:47]</strong> </span>
+<span class="speaker"><strong>发言人2: </strong></span>
+我们就这样了。
+</p>
+<p class="transcript-line">
+<span class="time"><strong>[01:21:50]</strong> </span>
+<span class="speaker"><strong>发言人1: </strong></span>
+好的，我们下期再见。
+</p>
+<p class="transcript-line">
+<span class="time"><strong>[01:21:52]</strong> </span>
+<span class="speaker"><strong>发言人2: </strong></span>
+好，下期再见。
+</p>
+<p class="transcript-line">
+<span class="time"><strong>[01:21:55]</strong> </span>
+<span class="speaker"><strong>发言人1: </strong></span>
+以上就是本期节目的全部内容，欢迎给我们点赞、转发和评论。想订阅我们的节目请在小宇宙、苹果播客、哔哩哔哩和youtube搜索代码之外，也欢迎您在爱发电或上述任意平台给我们打赏。想提供任何素材或话题，欢迎通过show note中的听众来信链接给我们提问，我们下期节目不见不散。
+</p>]]></content:encoded>
+            <pubDate>Tue, 27 Jan 2026 00:51:52 GMT</pubDate>
+            <guid>697807dc109824f9e1be34d8</guid>
+        </item>
         <item>
             <title>第 16 集 | 2025 年终总结、深圳线下听众见面活动回顾</title>
             <link>https://www.xiaoyuzhoufm.com/episode/69535c0214db1df9ef78a538</link>
@@ -32003,388 +33793,6 @@ new money创业欲望太多。
 </p>]]></content:encoded>
             <pubDate>Mon, 04 Nov 2024 10:13:08 GMT</pubDate>
             <guid>6728990acbe0e69c8b0538ce</guid>
-        </item>
-        <item>
-            <title>听众来信 #16 如何在 35 岁成功退休？如何达到收支平衡？</title>
-            <link>https://www.xiaoyuzhoufm.com/episode/67214d89cbe0e69c8ba3050e</link>
-            <description>来自 Rikka：「程序员如何在30岁或35成功退休，使用别的方式收支平衡，因为不是很想一直上班。如果大半辈子都打工，或者说是大半辈子“经营某一个东西”，这对我来说会觉得人生毫无意义。」
-主播：Randy, GeekPlux, 勾股
----
-代码之外 Beyond Code 是一档闲聊节目，从程序员的视角探索和感受世界。我们每期节目都有视频和音频版，欢迎关注我们：
-* 主页
-* YouTube
-* 哔哩哔哩
-* 打赏我们一杯咖啡
-* 商务合作 beyondcodefm@gmail.com
-也欢迎在 to.beyondcodefm.com 向我们来信，我们会在下一期节目分享你的来信或解答你的疑惑。
----
-金牌赞助商 / Golden Sponsor
-PaddingLeft 是主播 Randy 创立的创意工作者周边品牌。你可以在这里买到程序员贴纸和项链。我们每售出一张开源项目贴纸，会为该项目捐赠 1 元人民币。
-* 官方淘宝店：pdlft.taobao.com
-赞助商 / Sponsor
-* Notepal 一键同步微信读书笔记到 Notion, Readwise, Logseq, 思源笔记等笔记软件
-* EpubKit 把网页、博客、文档一键生成 ePub 电子书</description>
-            <content:encoded><![CDATA[<h1>转写链接</h1>
-<link>https://tongyi.aliyun.com/efficiency/doc/transcripts/3kprqlg8bmlj9xgd</link><br>
-<h1>节目摘要</h1>
-<div class="summary">在这次讨论中，焦点放在了如何在较早年龄实现财务自由和退休。真正的退休被定义为一种收支平衡或财务自由的状态，并非完全停止工作。强调了工作、经营和寻找人生意义的重要性，提醒设定实际目标，避免过度追求速成成功。投资和创造被动收入被视作达到财务自由的可能途径。讨论最后强调个人节奏和生活方式的重要性，鼓励听众根据自身情况设定目标，避免盲目追随他人成功故事。</div><br>
-<h1>章节速览</h1>
-<div class="chapters">
-<div class="chapter-item">
-<span class="time"><strong>[00:00:00]</strong> </span>
-<span class="chapter-title"><strong>探讨程序员30或35岁退休的可能性</strong></span>
-<div class="chapter-summary">rica询问关于程序员如何能在30岁或35岁成功退休，以及如何实现收支平衡的方法。讨论中提到，提前退休对于大多数人来说可能是不现实的，特别是在这个年龄段实现财务自由或退休的人很少。指出，对于程序员来说，虽然他们有较高的收入，实现收支平衡可能更可行，但这需要通过减少开支或增加被动收入来实现。此外，rica表达了对传统打工生活的质疑，寻求更有意义的生活方式。</div>
-</div>
-<div class="chapter-item">
-<span class="time"><strong>[00:03:10]</strong> </span>
-<span class="chapter-title"><strong>探讨人生意义与个人价值观</strong></span>
-<div class="chapter-summary">讨论集中在寻找人生意义和价值上。一位退休者表达了对生活意义的深刻思考，强调即使退休，也应继续追求有意义的事。他批评了仅仅为了赚钱而工作的观点，认为人生的意义在于做自己觉得有意义的事情。同时，也提到个人对财富的特殊感受，比如喜欢看数字增长而非单纯的财富积累。此外，他提倡不急于在某个年龄阶段完成特定事情，而是应该慢慢探索和发现自己的人生意义。</div>
-</div>
-<div class="chapter-item">
-<span class="time"><strong>[00:06:06]</strong> </span>
-<span class="chapter-title"><strong>退休规划和个人价值观</strong></span>
-<div class="chapter-summary">讨论集中在个人对于退休的看法和规划上。一方面，有人认为外界的例子可能会影响个人对退休的期望和比较，另一方面，也有人认为按照自己的节奏和规划更为重要。讨论中体现了对财富自由的不同理解和对工作态度的个人看法，强调了投资和规划的重要性，同时指出即使退休也可能继续寻找新的事情去做，展现了对生活和工作的积极态度。</div>
-</div>
-<div class="chapter-item">
-<span class="time"><strong>[00:08:53]</strong> </span>
-<span class="chapter-title"><strong>探讨财富自由与生活态度</strong></span>
-<div class="chapter-summary">讨论了多种被动收入渠道，包括版权、专利、股票、房产等，强调了资产的重要性及其对懒人的吸引力。讨论者分享了对追求财富自由的看法，认为不应过度追求极端目标，而应量力而行，找到适合自己的生活方式和目标。同时，批评了社会上对成功学的过度追捧和对普通人不切实际的期待，强调了每个人的能力和命运不同，应以一种更为平和和实际的态度来面对生活和职业规划。</div>
-</div>
-</div><br>
-<h1>问题回顾</h1>
-<div class="qa-item">
-<div class="question"><strong>Q:</strong> 程序员如何在30岁或35岁成功退休，使用别的方式收支平衡？</div>
-<div class="answer"><strong>A:</strong> 我认为这位听众提到的30岁或35岁成功退休并实现收支平衡，在现实情况下属于个例且不太可能。他所指的“退休”更接近于财务自由，即通过投资或其他方式让被动收入覆盖生活开支。对于程序员而言，由于职业相对高薪，实现收支平衡并不难，但关键在于寻找人生意义，并不只是停留在财务层面的退休。</div>
-</div>
-<div class="qa-item">
-<div class="question"><strong>Q:</strong> 你们俩打算什么时候退休？</div>
-<div class="answer"><strong>A:</strong> （此处未给出直接回答，而是以调侃和转移话题的方式回应）</div>
-</div>
-<div class="qa-item">
-<div class="question"><strong>Q:</strong> 这位听众可能存在的问题是什么？</div>
-<div class="answer"><strong>A:</strong> 他可能认为上班或经营某事没有意义，而真正有意义的事情还未找到。我们应探讨如何寻找人生意义以及如何去做那些有意义的事，而不是简单地否定现有的工作和生活方式。</div>
-</div>
-<div class="qa-item">
-<div class="question"><strong>Q:</strong> 对于不停工作和寻找人生意义之间的关系，你怎么看？</div>
-<div class="answer"><strong>A:</strong> 只要找到真正的人生意义，并投身其中，那么持续工作就不再是问题。即使到了退休年龄，也会有其他想要做的事情来填充生活，而不是选择不劳而获或者虚度人生。</div>
-</div>
-<div class="qa-item">
-<div class="question"><strong>Q:</strong> 是否应该按照某个年龄段去追求特定的目标，比如退休？</div>
-<div class="answer"><strong>A:</strong> 不必过于急于在某个年龄段完成特定目标，每个人在不同阶段的想法会随着时间和经历而变化。重要的是按照自己的节奏和规划来生活，不必过分比较。</div>
-</div>
-<div class="qa-item">
-<div class="question"><strong>Q:</strong> 在30岁之前，您是否思考过如何赚钱，并且您最后选择的途径是什么？</div>
-<div class="answer"><strong>A:</strong> 我在30岁前确实想过很多次如何赚钱的问题。虽然我发现自己可能缺乏开展生意的能力，但我擅长于投资，比如炒股、买基金等资产配置。我的最终目标是购买房产，但由于启动资金不足，我选择了通过投资各类资产来积累财富。</div>
-</div>
-<div class="qa-item">
-<div class="question"><strong>Q:</strong> 您采取了哪些行动去实现财富自由的目标？</div>
-<div class="answer"><strong>A:</strong> 我研究了多种被动收入渠道，包括版权、专利、论文、股票、房产、地产和债券等各类资产。我遵循的原则是按个人性格进行投资，并且采取实际行动去调研和买入。例如，我调查了专利和版权方面的赚钱潜力，并积极寻找和阅读相关资料以获取答案。</div>
-</div>
-<div class="qa-item">
-<div class="question"><strong>Q:</strong> 您如何平衡个人成长、生活质量与回报之间的关系？</div>
-<div class="answer"><strong>A:</strong> 我认为每个人都有自己的能力和上限，没有必要强求自己按照同样的方式去努力。重要的是找到自己的节奏，尽力而为，保持生活质量、个人成长和回报在一个平衡的状态。适度的压力可以成为推动力，但如果目标定得过高且不切实际，反而会变成心理负担。所以，应该设定相对切实的目标，让自身发展处于一个健康且满意的状态。</div>
-</div>
-<div class="qa-item">
-<div class="question"><strong>Q:</strong> 您对设定30或35岁财富自由目标的看法是什么？</div>
-<div class="answer"><strong>A:</strong> 我认为将30或35岁设为目标并讨论如何达到这个目的，在一定程度上对自己过于苛刻。我认为很多事情应该水到渠成，应根据个人能力和实际情况量力而行。我不倾向于为了短期目标而牺牲健康或其他方面的平衡状态。</div>
-</div>
-<div class="qa-item">
-<div class="question"><strong>Q:</strong> 对于加班换取长期回报的说法，您是如何看待的？</div>
-<div class="answer"><strong>A:</strong> 我对于那种为了短期加班以期望获得几十倍、几百倍回报的说法持有保留意见。这种投机心态重且可能带来不健康工作状态的做法，并不符合我的价值观。我认为应该有一个长期规划，并按照个人能力上限来设定目标，而不是盲目追求他人的成功模式。</div>
-</div>
-<h1>节目文稿</h1>
-<p class="transcript-line">
-<span class="time"><strong>[00:00:00]</strong> </span>
-<span class="speaker"><strong>发言人1: </strong></span>
-欢迎收听新一期的听众来信栏目。我是Randy.
-</p>
-<p class="transcript-line">
-<span class="time"><strong>[00:00:04]</strong> </span>
-<span class="speaker"><strong>发言人2: </strong></span>
-我是geek plus.
-</p>
-<p class="transcript-line">
-<span class="time"><strong>[00:00:05]</strong> </span>
-<span class="speaker"><strong>发言人3: </strong></span>
-我是狗狗。
-</p>
-<p class="transcript-line">
-<span class="time"><strong>[00:00:11]</strong> </span>
-<span class="speaker"><strong>发言人1: </strong></span>
-这一封来自rica的，他说程序员如何在30岁或35岁成功退休，使用别的方式收支平衡。因为不是很想一直上班，如果大半辈子都在打工，或者说大半辈子经营某一个东西，这对我来说会觉得人生毫无意义。
-</p>
-<p class="transcript-line">
-<span class="time"><strong>[00:00:34]</strong> </span>
-<span class="speaker"><strong>发言人3: </strong></span>
-就这样这个问题大概率是看了我们的读书栏目。
-</p>
-<p class="transcript-line">
-<span class="time"><strong>[00:00:38]</strong> </span>
-<span class="speaker"><strong>发言人1: </strong></span>
-关于退休的话，之前郭宇的访谈已经说的挺说了一些了。反正我没有什么可以退休的技巧，我的唯一的技巧就是。
-</p>
-<p class="transcript-line">
-<span class="time"><strong>[00:00:52]</strong> </span>
-<span class="speaker"><strong>发言人3: </strong></span>
-你就是硬退是吗？
-</p>
-<p class="transcript-line">
-<span class="time"><strong>[00:00:53]</strong> </span>
-<span class="speaker"><strong>发言人1: </strong></span>
-就是硬退硬退。
-</p>
-<p class="transcript-line">
-<span class="time"><strong>[00:00:56]</strong> </span>
-<span class="speaker"><strong>发言人2: </strong></span>
-假装退休。我不管别人怎么定义我，定义我退行。
-</p>
-<p class="transcript-line">
-<span class="time"><strong>[00:01:03]</strong> </span>
-<span class="speaker"><strong>发言人3: </strong></span>
-对我先退了，我先退为敬。
-</p>
-<p class="transcript-line">
-<span class="time"><strong>[00:01:06]</strong> </span>
-<span class="speaker"><strong>发言人1: </strong></span>
-对我觉得fake IT，我觉得you make .
-</p>
-<p class="transcript-line">
-<span class="time"><strong>[00:01:12]</strong> </span>
-<span class="speaker"><strong>发言人3: </strong></span>
-IT可以。
-</p>
-<p class="transcript-line">
-<span class="time"><strong>[00:01:14]</strong> </span>
-<span class="speaker"><strong>发言人2: </strong></span>
-我觉得他说30岁或35岁成功退休，我觉得即使把全世界的人拉出来，在这个年龄段退休的人肯定概率很小。
-</p>
-<p class="transcript-line">
-<span class="time"><strong>[00:01:24]</strong> </span>
-<span class="speaker"><strong>发言人3: </strong></span>
-对，这也是我觉得那对那次读书节目我中间提出的一个观点。我觉得他专门有一张写我是怎么能够在35退休。我当时就说这张就不要看了，因为它不是，它就是个例。他他就是炫耀自己这么早退休而已。
-</p>
-<p class="transcript-line">
-<span class="time"><strong>[00:01:41]</strong> </span>
-<span class="speaker"><strong>发言人2: </strong></span>
-在我看来是这样子，而且他其实他那个作者他其实没有就是以我们世俗的定义来说，好像不算真正退休，他其实只是收支平衡。
-</p>
-<p class="transcript-line">
-<span class="time"><strong>[00:01:52]</strong> </span>
-<span class="speaker"><strong>发言人3: </strong></span>
-对，对，或者就叫什么财务自由，对吧？
-</p>
-<p class="transcript-line">
-<span class="time"><strong>[00:01:56]</strong> </span>
-<span class="speaker"><strong>发言人2: </strong></span>
-财务财务自由就财务自由。对然后对如果以正态分布来看这个退休，我觉得真的在这个年龄段退休，这简直就是正态分布的尾端。但是我们可以聊一下，比如说收支平衡，这些什么程序员怎么可能收支不平衡呢？肯定我觉得程序员其实我们还蛮幸运的。
-</p>
-<p class="transcript-line">
-<span class="time"><strong>[00:02:19]</strong> </span>
-<span class="speaker"><strong>发言人3: </strong></span>
-是一个比较高薪的一定程度上。
-</p>
-<p class="transcript-line">
-<span class="time"><strong>[00:02:21]</strong> </span>
-<span class="speaker"><strong>发言人2: </strong></span>
-对对对其他的方式他其实可能。
-</p>
-<p class="transcript-line">
-<span class="time"><strong>[00:02:24]</strong> </span>
-<span class="speaker"><strong>发言人1: </strong></span>
-想问的是不是他是说在不工作的情况下收支平衡，被动收入之类的对，被动收入平衡cover调节它的开支，这是个很简单的数学题。你要不就减少你的支出，要不就提高你的收入。
-</p>
-<p class="transcript-line">
-<span class="time"><strong>[00:02:38]</strong> </span>
-<span class="speaker"><strong>发言人3: </strong></span>
-开源节流是吧？
-</p>
-<p class="transcript-line">
-<span class="time"><strong>[00:02:40]</strong> </span>
-<span class="speaker"><strong>发言人1: </strong></span>
-对，我现在就属于减少我的开支。
-</p>
-<p class="transcript-line">
-<span class="time"><strong>[00:02:47]</strong> </span>
-<span class="speaker"><strong>发言人2: </strong></span>
-我觉得他可能除了这个钱的方面还有一些意义。就是他他可能觉得打工不是在经营自己的东西，也有一些这方面的考虑。
-</p>
-<p class="transcript-line">
-<span class="time"><strong>[00:02:58]</strong> </span>
-<span class="speaker"><strong>发言人1: </strong></span>
-这方面的疑问。但是我觉得他可能是说他连经营某一个东西都不想。他说如果大半辈子都在打工，或者说是大半辈子经营某一个东西，对于他来说都是毫无意义。
-</p>
-<p class="transcript-line">
-<span class="time"><strong>[00:03:12]</strong> </span>
-<span class="speaker"><strong>发言人3: </strong></span>
-我觉得这个问题，我就是我看到这个问题的时候，我就特别有一个冲动，想想问什么？
-</p>
-<p class="transcript-line">
-<span class="time"><strong>[00:03:19]</strong> </span>
-<span class="speaker"><strong>发言人2: </strong></span>
-或者想谈什么呢？想暴露自己已经退休。
-</p>
-<p class="transcript-line">
-<span class="time"><strong>[00:03:24]</strong> </span>
-<span class="speaker"><strong>发言人3: </strong></span>
-没有，人生的意义在哪里呢？你们觉得如果说。
-</p>
-<p class="transcript-line">
-<span class="time"><strong>[00:03:29]</strong> </span>
-<span class="speaker"><strong>发言人2: </strong></span>
-这个对。
-</p>
-<p class="transcript-line">
-<span class="time"><strong>[00:03:30]</strong> </span>
-<span class="speaker"><strong>发言人3: </strong></span>
-因为你你想大半辈子都在打工经营某一样东西，好看上去没有意义。那那意义就是说你觉得有意义的事情是什么呢？我觉得这个值得探讨了，对不对？就我们经常容易我一定程度上了，我会觉得你比较容易从某个角度去否定一件事情，对不对？或者说甚至就是说在没有实际经历过的情况下，从表面上看会觉得哪里不对或者怎么样。但这个真正对的东西，真正找到它，我觉得这个更更值得探讨，对不对？比如说怎么寻找人生意义，或者你自己觉得人生意义在哪里，怎么去达到你认为有意义的事情，这个我觉得更值得讨论。
-</p>
-<p class="transcript-line">
-<span class="time"><strong>[00:04:15]</strong> </span>
-<span class="speaker"><strong>发言人3: </strong></span>
-我会这么觉得，也许这位朋友觉得说上班或者经营某个东西不是人生意义。那我觉得一定程度上你只要找到人生意义在哪里，你去做它，这个就不是你的问题了，对不对？我有的时候会这样想。
-</p>
-<p class="transcript-line">
-<span class="time"><strong>[00:04:30]</strong> </span>
-<span class="speaker"><strong>发言人1: </strong></span>
-我觉得就算等到这位朋友真正的退休了之后，肯定也要有其他的想要做的事情。
-</p>
-<p class="transcript-line">
-<span class="time"><strong>[00:04:38]</strong> </span>
-<span class="speaker"><strong>发言人3: </strong></span>
-对，这个也是我想说的，反正对于我自己来说，也许工作是你谋生的，一方面是你谋生，但另外一方面我会觉得我是那种我会工作到不一定是给别人打工，就是我会找事情做，做到我人生这辈子就是有行动能力的最后一天，我觉得我大概率是会这样子。我是不是我是那种我不会让自己停下来，每天我不知道就瘫在那里，或者什么不劳而获，或者每天虚度人生，我想不到就是说这个也不是人生的意义，一定程度上我不知道你们怎么看。
-</p>
-<p class="transcript-line">
-<span class="time"><strong>[00:05:16]</strong> </span>
-<span class="speaker"><strong>发言人2: </strong></span>
-可能也不是不劳而获，他就喜欢数钱的感觉，我就喜欢数钱的感觉，每天看着自己我不是用那个记账软件吗？就是bean count。然后有时候看到自己多个账户里汇总起来的钱，大概到了一，就是我都不沉浸于我有多少钱，可能那个涨幅我更喜欢一点。
-</p>
-<p class="transcript-line">
-<span class="time"><strong>[00:05:35]</strong> </span>
-<span class="speaker"><strong>发言人2: </strong></span>
-对，OK如果回到我年轻的时候，我很能共情。他就是问出这个问题，我也能理解。对，但是我也不想站在一个好像稍微年长几岁也就的说教的一个角度。但是反正就是说时间就每个人在不同的阶段，他的想法是不一样的。可能稍微再过几年就又不一样了。所以也不要太急于说一定要在某个年龄段做到什么事情，就慢慢思考，慢慢找，都是对我觉得都没什么问题。
-</p>
-<p class="transcript-line">
-<span class="time"><strong>[00:06:07]</strong> </span>
-<span class="speaker"><strong>发言人3: </strong></span>
-我在想会不会因为他看到这个例子，就是这本书里这个例子，就是35岁就退休了，然后产生了某种比较之类的。如果没有这个个例出现，也许这个不会构成太大的问题。所以现在不用太太比较的。
-</p>
-<p class="transcript-line">
-<span class="time"><strong>[00:06:27]</strong> </span>
-<span class="speaker"><strong>发言人2: </strong></span>
-也许网上太多人说自己退休了，最近退休这个赛道也蛮卷。
-</p>
-<p class="transcript-line">
-<span class="time"><strong>[00:06:36]</strong> </span>
-<span class="speaker"><strong>发言人3: </strong></span>
-对，我就有的时候就是你你你按照你自己的节奏和你按照你自己的规划来做就好了。
-</p>
-<p class="transcript-line">
-<span class="time"><strong>[00:06:42]</strong> </span>
-<span class="speaker"><strong>发言人2: </strong></span>
-对，那我反问你们两个这个问题。好，你们俩打算什么时候退休？那ready已经退了就不说了。
-</p>
-<p class="transcript-line">
-<span class="time"><strong>[00:06:49]</strong> </span>
-<span class="speaker"><strong>发言人3: </strong></span>
-我觉得我有想过。
-</p>
-<p class="transcript-line">
-<span class="time"><strong>[00:06:51]</strong> </span>
-<span class="speaker"><strong>发言人2: </strong></span>
-这个问题吗？
-</p>
-<p class="transcript-line">
-<span class="time"><strong>[00:06:52]</strong> </span>
-<span class="speaker"><strong>发言人3: </strong></span>
-我觉得我OK我我我我讲实在话了，我不觉得自己现在处在那种就我现在应该处在那种是无忧的状态。虽然不是定义的那个财富自由了，但我应该就是刚才说的，我应该就是会工作到最后一天，不管是为自己还是为谁，我觉得我是那种闲不下来的人，就是我只要闲下来我一定会找事情做。从这个角度讲，我相信Randy也会找事情做的。他虽然口我嘴上说退休了。
-</p>
-<p class="transcript-line">
-<span class="time"><strong>[00:07:22]</strong> </span>
-<span class="speaker"><strong>发言人1: </strong></span>
-对呀对呀对对呀对，现在不是还在搞贴纸吗？所以各位想要买技术logo贴纸的，可以在我们身份证的下面找到我们的淘宝店。
-</p>
-<p class="transcript-line">
-<span class="time"><strong>[00:07:35]</strong> </span>
-<span class="speaker"><strong>发言人3: </strong></span>
-对，所以对于我来讲丝滑。肯定对，反正对我来讲，这个可能不算是一个特别大的问题。也许我也会考虑休息就是干不动了休息，但就不是个特别严重的问，就是不是个特别关键的问题。
-</p>
-<p class="transcript-line">
-<span class="time"><strong>[00:07:52]</strong> </span>
-<span class="speaker"><strong>发言人2: </strong></span>
-不过我之前就是年轻，在30岁之前我其实想过这个问题很多遍，就是怎么赚钱这个问题OK就是我后来发现自己没有做，首先没有做business的能力，就可能就这就是这个能力可能是需要锻炼的，我还没有一个锻炼的渠道，或者说没有开始，但是我也不着急了。但是我就当时想到我能擅长的可能就是比如说炒股，买买基金，就买一些这种资产，我觉得还可以。因为我如果我想买，我的最终目标可能是想买房产。但是你作为一个刚刚入社会的人，OK可能你还没那么多的资金启动资金。对对，而且当时我简直是我看了太多的书了，就这方面就是怎么投资，虽然最后我总结的规律是你你投资一定要按你个人的性格走，反正但是我看了很多书了，然后我是真的有采取行动去实现这个问题的答案的。
-</p>
-<p class="transcript-line">
-<span class="time"><strong>[00:08:54]</strong> </span>
-<span class="speaker"><strong>发言人2: </strong></span>
-对我我调查了比如说我调查了有哪些被动收入的渠道，比如说版权、专利、OK论文，然后股票、房产、地产，还有债券OK。反正各类资产我都是调查资产方面的，因为资产对于我这个懒人来说只需要一步，现在需要两步，第一步调研，第二步买入。我不是一个喜欢卖出的人，但是反正对OK对我来说就是我当时OK是真的采取行动去做，我觉得缓解这些问题的方法就是去行动就好了OK。你要是想知道这些答案就去读他们。他说35岁财富自由，那你去看他的书，然后他提到的一些东西，你就顺藤摸瓜再去找还有哪些。我都听说之前有人写专利都能达到这个收支平衡了。
-</p>
-<p class="transcript-line">
-<span class="time"><strong>[00:09:49]</strong> </span>
-<span class="speaker"><strong>发言人3: </strong></span>
-对，专利也是收支平衡。
-</p>
-<p class="transcript-line">
-<span class="time"><strong>[00:09:51]</strong> </span>
-<span class="speaker"><strong>发言人2: </strong></span>
-这个目标的话。对，专利其实蛮也能赚钱的。
-</p>
-<p class="transcript-line">
-<span class="time"><strong>[00:09:56]</strong> </span>
-<span class="speaker"><strong>发言人3: </strong></span>
-那也包括各种版税什么之类的是吧？
-</p>
-<p class="transcript-line">
-<span class="time"><strong>[00:10:00]</strong> </span>
-<span class="speaker"><strong>发言人2: </strong></span>
-对，我刚才说了，就版权专利OK对，这些都是。
-</p>
-<p class="transcript-line">
-<span class="time"><strong>[00:10:04]</strong> </span>
-<span class="speaker"><strong>发言人3: </strong></span>
-我会觉得我我我看这个问题还有一个感想，就是说这个问题怎么讲？有的时候我会觉得你把30或者35岁把这个目标定在前边，然后去讨论说我怎么能够达到这个目的。有的时候觉得有点太太对自己太狠了，是我觉得我觉得很多东西是水到渠成的。另外就是从个人角度量力而行就好了。OK我是不太属于那种让自己够着做的，比如说你你你水平在这里，然后别人说你稍微努力一点就可以够到这个我通常会分析，如果我真的有那个本事，那我会够。但是如果说你是需要额外付出额外的代价，让自己处在一个不那么健康的状态，而提前达到这个目的，进而它能够给你带来什么额外的回的？我通常会犹豫一下，因为我记得我刚我觉得我是被反向行销了。
-</p>
-<p class="transcript-line">
-<span class="time"><strong>[00:11:05]</strong> </span>
-<span class="speaker"><strong>发言人3: </strong></span>
-就是我刚入行的时候，就是Y82.0刚起来的时候，我周围听到很多这样的故事。就说你现在多多加班，是不是多额外付出一点。然后这个通常也是老板，也就POA。你什么你公司上市了，你就可能够赚回什么几十倍、几百倍的回报，你就可以比别人少少奋斗五年、十年、20年，甚至你就可以提前退休了。我就经常听到别人在讨论这个，我其实有点我当时可能也是有点叛逆，现在想想挺好的对吧？我但我当时就有。
-</p>
-<p class="transcript-line">
-<span class="time"><strong>[00:11:36]</strong> </span>
-<span class="speaker"><strong>发言人2: </strong></span>
-就没有走他那条路。
-</p>
-<p class="transcript-line">
-<span class="time"><strong>[00:11:37]</strong> </span>
-<span class="speaker"><strong>发言人3: </strong></span>
-没有走他那条路，我甚至在刻意回避，这种我自自己看来投机心态特别重的，或者说饼画的太大了，或者觉得你就是为了你就是一时为了这个努力，你要额外的，比如说你要加班或者什么的，我就不太听得进去。我我我反而觉得说你如果有一个长期规划，或者说你按照你正常的，就是每每个人可能能力上都有它的上限，对不对？或者有他自己不同的追求。
-</p>
-<p class="transcript-line">
-<span class="time"><strong>[00:12:09]</strong> </span>
-<span class="speaker"><strong>发言人3: </strong></span>
-你不可能指望这个社会上每个人最后都是上市公司CEO这不可能的对吧？也没有那么多上市公司，也没有那么多CEO这个社会上或者从统计学上看我我不想说什么阶级固化，不想讨论这个，不想说人三六九等，不想考虑这个。从客观统计上来看，有些人就是会比成绩上会比较好，有些人在在中间这个腰部，有些人可能运气不好或者怎么样。你不可能指望每个人按照这种相同的方式，你只要努力你就要怎么样。
-</p>
-<p class="transcript-line">
-<span class="time"><strong>[00:12:40]</strong> </span>
-<span class="speaker"><strong>发言人3: </strong></span>
-我有点反感是或者有点疲惫了。对，这个东西就是所谓的成功学，有点疲惫的点在这里，就是不是每个人就个例，如果你分析个例，每个人都有机会做number one。但是统计结果告诉你们，这个事情就是有人混得好，有人混的不好。对，你可以觉得这个是性命也好，或者说每个人能力有自己的上限。你不论你怎么理解，我觉得结果是这样的，这个很残酷。
-</p>
-<p class="transcript-line">
-<span class="time"><strong>[00:13:07]</strong> </span>
-<span class="speaker"><strong>发言人3: </strong></span>
-我觉得所以我是觉得说你自己觉得自己是那个料，你值得这个努力，那你就去。但你如果觉得说我你我自己未必是块料，但是别人你看都这样，我是不是也应该这样？我觉得大可不必，你有你自己的节奏就可以了，或者说你觉得自己尽力了，或者觉得这个东西你一定程度上自洽了。就是你的生活质量，你的你的收你的回报，你的个人的成长，各方面你自己觉得在一个比较平衡的状态，我觉得就够了。
-</p>
-<p class="transcript-line">
-<span class="time"><strong>[00:13:38]</strong> </span>
-<span class="speaker"><strong>发言人3: </strong></span>
-对，不用追求那种特别极端的东西，或者说你先这样走起来，看你能够到哪里，你再给你自己定一个相对切实的目标。因为有的时候目标定的太高，其实对你来讲是没有嗯嗯嗯嗯嗯不会产生任何动力的。就是适度的压力才会对你产生某种额外的上进，或者对你产生某种推动力。但如果你把自己这个目标定的太高，或者定的不切实际。你时间长了其实你也你自己你的怎么讲，你自你的内心会很诚实的告诉你，这个是走不通的对到那一天的话，这个不会成为任何动力，反而可能会变成一些包袱或者一些非常负面的情绪。对，是对，这个从管理上也说得通，就是你老板不能无限的PV不能无限的要求员工加班。这个是也许一点点它有用是甚至是就是一时了，长期来看不一定是很健康的对，这是我想到的。
-</p>
-<p class="transcript-line">
-<span class="time"><strong>[00:14:45]</strong> </span>
-<span class="speaker"><strong>发言人4: </strong></span>
-以上就是本期节目的全部内容，欢迎给我们点赞、转发和评论。想订阅我们的节目请在小宇宙、苹果播客、哔哩哔哩和youtube搜索代码之外，也欢迎您在爱发电或上述任意平台给我们打赏。想提供任何素材或话题，欢迎通过show note中的听众来信链接给我们提问，我们下期节目不见不散。
-</p>]]></content:encoded>
-            <pubDate>Wed, 30 Oct 2024 00:21:46 GMT</pubDate>
-            <guid>67214d89cbe0e69c8ba3050e</guid>
         </item>
     </channel>
 </rss>
