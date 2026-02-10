@@ -1,5 +1,6 @@
 import json
 import os
+import random
 import pendulum
 from retrying import retry
 import requests
@@ -28,20 +29,44 @@ class PodcastClient:
             storage: Storage实例，用于管理数据存储
         """
         self.storage = storage
+        
+        # 加载所有可用的 refresh token，随机选择一个使用
+        tokens = self._load_refresh_tokens()
+        chosen = random.choice(tokens)
+        chosen_index = tokens.index(chosen) + 1
+        logger.info(f"已加载 {len(tokens)} 个 refresh token，本次随机使用 #{chosen_index}")
+        
         self.headers = {
             "host": "api.xiaoyuzhoufm.com",
             "applicationid": "app.podcast.cosmos",
-            "x-jike-refresh-token": os.getenv("REFRESH_TOKEN"),
+            "x-jike-refresh-token": chosen,
             "x-jike-device-id": "5070e349-ba04-4c7b-a32e-13eb0fed01e7",
         }
-        
-        # 检查必要的环境变量
-        self._check_environment()
 
-    def _check_environment(self):
-        """检查必要的环境变量"""
-        if not os.getenv("REFRESH_TOKEN"):
-            raise Exception("缺少必要的环境变量: REFRESH_TOKEN")
+    @staticmethod
+    def _load_refresh_tokens():
+        """从环境变量加载所有可用的 refresh token
+        
+        支持两种配置方式：
+        1. REFRESH_TOKEN_1 ~ REFRESH_TOKEN_5（推荐，多token随机轮换）
+        2. REFRESH_TOKEN（兼容旧配置，单token）
+        """
+        tokens = []
+        for i in range(1, 6):
+            token = os.getenv(f"REFRESH_TOKEN_{i}")
+            if token:
+                tokens.append(token)
+        
+        # 兼容旧的单 token 配置
+        if not tokens:
+            single_token = os.getenv("REFRESH_TOKEN")
+            if single_token:
+                tokens.append(single_token)
+        
+        if not tokens:
+            raise Exception("缺少必要的环境变量: 请设置 REFRESH_TOKEN_1~5 或 REFRESH_TOKEN")
+        
+        return tokens
 
     def ensure_token(self):
         """确保token有效"""

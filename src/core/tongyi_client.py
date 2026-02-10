@@ -64,13 +64,16 @@ class TongyiClient:
             if success:
                 return r.get("data")
             else:
-                print(f"请求失败：{errorMsg}")
+                raise Exception(f"获取文件夹列表失败：{errorMsg}，请检查TONGYI_COOKIE是否有效")
         else:
-            print("请求失败：", response.status_code)
+            raise Exception(f"获取文件夹列表请求失败，状态码: {response.status_code}，请检查TONGYI_COOKIE是否有效")
 
     def ensure_dir_exist(self, name):
         """输入文件夹名，确保文件夹存在，并返回文件夹ID"""
         dir_list = self.get_dir()
+        if not dir_list:
+            logger.warning("文件夹列表为空，将创建新文件夹")
+            return self.create_dir(name)
         for dir_item in dir_list:
             dir_info = dir_item.get('dir', {})
             if dir_info.get("dirName") == name:

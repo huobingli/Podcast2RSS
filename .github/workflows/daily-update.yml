@@ -31,7 +31,11 @@ jobs:
     - name: Run RSS update script
       env:
         TONGYI_COOKIE: ${{ secrets.TONGYI_COOKIE }}
-        REFRESH_TOKEN: ${{ secrets.REFRESH_TOKEN }}
+        REFRESH_TOKEN_1: ${{ secrets.REFRESH_TOKEN_1 }}
+        REFRESH_TOKEN_2: ${{ secrets.REFRESH_TOKEN_2 }}
+        REFRESH_TOKEN_3: ${{ secrets.REFRESH_TOKEN_3 }}
+        REFRESH_TOKEN_4: ${{ secrets.REFRESH_TOKEN_4 }}
+        REFRESH_TOKEN_5: ${{ secrets.REFRESH_TOKEN_5 }}
       run: python src/main.py
         
     - name: Commit and push if changed
