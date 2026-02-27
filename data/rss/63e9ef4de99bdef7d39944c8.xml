@@ -4,7 +4,1104 @@
         <title>AI炼金术</title>
         <link>https://www.xiaoyuzhoufm.com/podcast/63e9ef4de99bdef7d39944c8</link>
         <description>关注 AI 带来的本质变化和商业机会</description>
-        <lastBuildDate>Tue, 24 Feb 2026 05:02:53 +0800</lastBuildDate>
+        <lastBuildDate>Sat, 28 Feb 2026 04:54:30 +0800</lastBuildDate>
+        <item>
+            <title>好莱坞要完？一个中国电影人押注 AI 视频的 200 天 | 对谈梁巍</title>
+            <link>https://www.xiaoyuzhoufm.com/episode/69a046e90ec9a57f1254ad82</link>
+            <description>“二三十年后，你的孙子一定会问你：爷爷，你为什么要看电影？就跟当年我们问长辈为什么要听京剧一样。”
+本期节目的嘉宾梁巍，曾是操盘过《让子弹飞》《八佰》等200多部院线大片的影视行业超级老兵。但在经历了影视圈“像走夜路被砖头砸一脸血”的至暗时刻后，他果断跳船，做出了目前拥有近百万全球用户的AI视频Agent工具——Movie Flow。在这场长达一小时的高能对话中，梁巍不仅宣判了传统电影工业的“阶层固化”，更对当下沉迷于“复杂工作流”的AI产品开了一炮。
+部分话题
+传统电影的终局是“京剧化”：传统长视频电影不会消亡，但会极速收缩并变得“金贵”。就像今天的百老汇音乐剧或京剧，它将沦为少数人的高级审美消费品。而真正承载大众娱乐的大盘，将转移到具备强互动性和实时生成能力的AI原生视频世界。
+AI工具的终极护城河是“结果交付”，而非“过程自嗨”：当下的AI视频圈陷入了工作流的内卷，强迫用户变成懂参数的调参侠。但影视工业的本质是“制片人点菜”，真正的刚需是丢进大纲，机器自主协同，一次性交付一段10分钟的高质量、有上下文的成片。
+大模型永远学不会的“创作暗数据”：大模型能看遍天下电影和剧本，却唯独缺少“从剧本到画面”的中间执行数据（导演的调度、机位的选择）。这也是硅谷正在高价收购人类工作流数据的原因。Movie Flow通过收集大量用户输入的原始故事和最终交付的成片，正在建立一个极具价值的“人类叙事飞轮”。
+用“剧组形态”重构Agent，解决超长叙事的上下文失忆：MovieFlow将其拆解为导演、编剧、摄影等Agent，以所有视频模型通用的“8秒”为生成基本盘。通过并发生成80个8秒，实现了在短时间内协同出10分钟的一致性连贯视频。
+“一人工作室（One Person Studio）”抹平影视工业门槛：不再需要资方和庞大的摄制组。未来最小的专业故事团队只需要三个人：制片人、编剧、剪辑师。只要有导演思维，这三个人一周就能依靠AI产出120分钟的剧集，彻底打破PGC和UGC的界限。
+时间轴
+00:00 开场与嘉宾介绍
+03:03 梁巍的电影履历：从《让子弹飞》到两百多部作品
+04:19 为什么从电影转向AI
+07:19 时间点的重要性：技术刚好ready
+09:17 MovieFlow的数据：80万用户，月收入20万美金+
+10:08 增长策略：YouTube KOL + 裂变，几乎全是自然增长
+13:45 MovieFlow vs 其他AI视频工具：我只关心结果
+17:53 &quot;Movie感&quot;到底是什么：画面质感、叙事标准与打分体系
+21:53 评分系统如何反哺产品：幻觉度控制与agent调优
+24:18 多Agent剧组架构：为什么要模拟人类电影剧组
+27:16 80个8秒并发生成的技术细节
+32:32 被两头挤压？模型能力提升 vs Code智能剪辑的威胁
+38:24 商业模式：B和C的界限在模糊
+44:25 Utopia模式：AI电影的募资+制作+发行一体化
+45:28 做对的一件事：快速执行
+47:07 最大的遗憾：错过模型红利那波收入窗口
+53:45 电影会消亡吗？你的孙子会问你为什么要看电影
+58:53 AI原生一代：10岁小孩用语音做电影
+1:00:30 电影推荐与AI产品推荐
+1:07:25 用AI帮每个人把没有讲出来的故事讲出来
+欢迎订阅「AI 炼金术」的播客，以及同名公众号、视频号
+「AI 炼金术」是一档由徐文浩和任鑫——两位多年老友、AI 领域的资深从业者——打造的播客。这里是探讨 AI 和创业的理想聚集地，我们会邀请一线创业者、产品产品和科研学者，深入探讨 AI 如何重塑行业、变革生活，以及如何从 0 到 1 打造 AI 原生产品。
+我们的讨论会涵盖多个话题：从 AI 如何改变世界的未来，到如何找到 AI 创业的 PMF；从如何利用 AI 降本增效，到怎样将 AI 技术融入日常生活……如果你对 AI、产品、创业感兴趣，这里有满满的干货和一线实战经验，欢迎关注并推荐给你的朋友，共同探索未来的无限可能！
+商务合作：公众号 「AI炼金术 」菜单栏中【商务】获取联系方式
+节目主理人：
+徐文浩：某AI创业公司联合创始人，正在面向全球市场开发AI应用。连续创业者，参与过多家创业公司，拼多多早期员工。广告科技公司MediaV的算法和数据负责人，后被360收购。离开后加入成立不到1个月的拼多多。后创办了基于AI的海外客服聊天机器人公司 BotHub.AI 和 海外社交电商平台 Bukito 都宣告失败。2023年再次下场创业。
+任鑫：云九资本合伙人，主要在投资和孵化面向全球市场的 AI 应用。之前是连续创业者，曾经打造“今夜酒店特价”用移动互联网应用特价销售酒店尾房；被京东并购后内部创业“京东到家”开展本地即时零售业务；2015 年再次创业 Get 探索对话式人工智能助理成为先烈；2021 年出售公司，2023 年重新回到 AI 世界。
+BGM：
+片尾：Rangga Jones - i confess</description>
+            <content:encoded><![CDATA[<h1>转写链接</h1>
+<link>https://tongyi.aliyun.com/efficiency/doc/transcripts/yg7k9wv8dy62qxwd</link><br>
+<h1>节目摘要</h1>
+<div class="summary">两位AI领域的专家分享了AI技术的革命性影响、挑战与机遇，以及各自的创业经历和投资策略。其中一位专家通过两次成功的创业，将公司卖给京东并创办了专注于AI对话的公司，目前活跃于AI产品的投资和孵化。另一位专家则通过不断学习和实验，在AI领域探索创新，并与前一位专家合作参与AI炼金术播客的制作。对话中，双方讨论了AI技术如何改变电影制作、内容创作，并对未来娱乐方式的展望。他们强调了AI在提高创作效率和拓宽创意边界方面的潜力，同时也提出了面对AI技术快速发展的挑战和应对策略。</div><br>
+<h1>章节速览</h1>
+<div class="chapters">
+<div class="chapter-item">
+<span class="time"><strong>[00:00:00]</strong> </span>
+<span class="chapter-title"><strong>AI炼金术：对话式AI与视频agent的创新探索</strong></span>
+<div class="chapter-summary">两位AI领域的实践者分享了他们在AI技术，尤其是对话式AI和视频agent开发上的经验和见解。他们讨论了AI在不同行业中的应用，包括电商和娱乐，以及AI技术带来的挑战与机遇。此外，他们还提到了AI工具如何为内容创作提供新视角，以及在AI浪潮中不断探索和创新的重要性。</div>
+</div>
+<div class="chapter-item">
+<span class="time"><strong>[00:02:31]</strong> </span>
+<span class="chapter-title"><strong>从电影行业转型AI领域的思考与经历</strong></span>
+<div class="chapter-summary">从2009年起，深入电影行业，参与多部知名电影的投资、营销与发行工作，包括《让子弹飞》、《那些年我们追的女孩》等。面对电影制作过程中的不确定性和压力，尤其是作为电影公司的一号位所承担的风险与责任，于2024年10月，因个人能力和运气问题，决定转型进入AI领域，探索新方向。</div>
+</div>
+<div class="chapter-item">
+<span class="time"><strong>[00:05:15]</strong> </span>
+<span class="chapter-title"><strong>AI技术革新影视创作路径</strong></span>
+<div class="chapter-summary">对话围绕AI技术在影视创作中的应用展开，从初期对AI潜力的怀疑到深入研究后认识到其模仿影像创作的能力，再到实际应用中将电影知识封装为AI工具，最终在大模型技术成熟之际成功上线AI视频创作平台，展现了AI技术革新影视创作路径的过程。</div>
+</div>
+<div class="chapter-item">
+<span class="time"><strong>[00:08:31]</strong> </span>
+<span class="chapter-title"><strong>AI模型应用与用户增长策略</strong></span>
+<div class="chapter-summary">对话围绕AI模型的实际应用和用户增长策略展开，提到多个模型如banana、moana pro等在实际场景中的应用进展，以及通过KOL推广和用户邀请奖励机制实现的自然增长。目前，全球注册用户接近100万，收入达20多万美金，正准备庆祝并推出促销活动。此外，还提到了专门的agent用于测试模型，以及通过社区页面增强用户互动的策略。</div>
+</div>
+<div class="chapter-item">
+<span class="time"><strong>[00:10:56]</strong> </span>
+<span class="chapter-title"><strong>视频生成服务的定价与用户体验优化</strong></span>
+<div class="chapter-summary">讨论了视频生成服务的定价策略与用户使用体验，强调了结果导向的服务理念。对比了传统素材获取方式与当前服务的效率差异，提及了服务的优惠策略和用户反馈。虽然服务策略有所调整，但依然保持较大优惠，鼓励用户参与并分享。服务日收入已接近token收入的70%，显示了良好的经济效应。</div>
+</div>
+<div class="chapter-item">
+<span class="time"><strong>[00:13:22]</strong> </span>
+<span class="chapter-title"><strong>Movie Flow与AI视频制作工具的差异化探讨</strong></span>
+<div class="chapter-summary">对话围绕Movie Flow与其他AI视频制作工具的差异展开，强调了对最终交付结果的重视，而非技术过程或模型本身。Movie Flow专注于行业know-how和用户体验，尤其在影视专业领域的应用，提供定制化的工作室版本，满足不同层次用户需求，包括小白用户和专业影视人。通过高效的工作流和agent编排，Movie Flow旨在填补技术与艺术表达之间的鸿沟，提升用户在AI叙事和创作中的效率与满意度。</div>
+</div>
+<div class="chapter-item">
+<span class="time"><strong>[00:17:53]</strong> </span>
+<span class="chapter-title"><strong>电影质感提升与AI调优方法</strong></span>
+<div class="chapter-summary">对话探讨了电影质感提升的独特方法，强调结果导向的调优策略和AI在视频评判与引导创作中的应用。通过多agent协作，针对不同模型特点进行调用，确保结果达到高标准。AI不仅用于评判视频质量，还通过学习高分作品，逐步提高创作完成度，减少幻觉度，实现更高质量的内容生成。</div>
+</div>
+<div class="chapter-item">
+<span class="time"><strong>[00:21:47]</strong> </span>
+<span class="chapter-title"><strong>视频评分影响创作优化</strong></span>
+<div class="chapter-summary">讨论了视频评分如何影响创作优化，包括编剧提示词调整、微调及强化学习等层面。强调了用户输入精准度与理解用户意图的重要性，以及基于评分结果对各创作环节进行综合评估与调优的方法。</div>
+</div>
+<div class="chapter-item">
+<span class="time"><strong>[00:24:16]</strong> </span>
+<span class="chapter-title"><strong>多Agent系统设计思路与电影剧组的类比</strong></span>
+<div class="chapter-summary">讨论了多Agent系统的设计理念，特别是将其与电影剧组工作流程类比的方法。通过将视频内容拆解为形象、场景、道具三大元素，以及构建8秒为单位的精准描述，展现了系统如何通过并发处理提高效率。同时，强调了在多Agent系统中保持上下文连贯性的重要性，以及这种设计思路与传统人类组织形态的区别和优势。</div>
+</div>
+<div class="chapter-item">
+<span class="time"><strong>[00:28:57]</strong> </span>
+<span class="chapter-title"><strong>AI电影制作与用户需求的融合</strong></span>
+<div class="chapter-summary">讨论了将电影制作流程拆解并重组为AI agent的关键步骤，强调了AI在故事叙事组织上的局限性，提出了通过分步确认文本提升用户体验的方法，同时指出了用户对即时结果交付的偏好，以及当前AI电影制作流程与用户习惯的契合点。</div>
+</div>
+<div class="chapter-item">
+<span class="time"><strong>[00:32:32]</strong> </span>
+<span class="chapter-title"><strong>AI剪辑技术与长叙事创作的未来挑战</strong></span>
+<div class="chapter-summary">讨论了AI剪辑技术的进步及其对人类剪辑师的潜在影响，同时强调了长叙事创作的独特性和价值。尽管AI在片段式剪辑上展现出了快速学习的能力，但电影级的故事叙述和视听效果仍需人类的深度参与。对话还提到了全球用户对故事理解的多样性，以及这些数据对AI学习的重要性，认为人类创作的独特视角和冲动是AI短期内难以完全复制的。</div>
+</div>
+<div class="chapter-item">
+<span class="time"><strong>[00:38:24]</strong> </span>
+<span class="chapter-title"><strong>AI与短视频重塑影视创作与发行</strong></span>
+<div class="chapter-summary">讨论了传统影视行业面临的挑战，如投资回报率低、年轻观众偏好变化等，并指出AI和短视频正改变内容创作与分发模式。提出了一种全新的idio时代创作理念，强调专业电影人利用AI工具提升效率，实现从创作到全球发行的端到端服务。同时，介绍了即将举办的全球idio节，旨在表彰优质创作者，推动影视行业的创新发展。</div>
+</div>
+<div class="chapter-item">
+<span class="time"><strong>[00:43:23]</strong> </span>
+<span class="chapter-title"><strong>AI影视制作与市场红利探讨</strong></span>
+<div class="chapter-summary">对话围绕AI在影视制作中的应用展开，讨论了专业级导演版与普通用户的区别，以及如何通过创新的工作流程满足电影人的需求。提及了与大模型公司如Google、OpenAI和微软的合作，强调快速执行和团队同频的重要性。同时，对话中反思了未及时抓住Nano Banana Pro带来的短期收入机会，提出了未来在产品中融入此类热点的策略，以抓住模型红利。</div>
+</div>
+<div class="chapter-item">
+<span class="time"><strong>[00:50:59]</strong> </span>
+<span class="chapter-title"><strong>未来电影形态与Movie Flow创新探讨</strong></span>
+<div class="chapter-summary">讨论了未来电影形态可能的变化，强调了传统电影与剧集不会消失但将变得稀缺，提出通过Movie Flow实现自动化制作长视频，以及AI时代下内容创作的新模式，如在IDF时代提前利用IP进行互动娱乐，以适应未来娱乐方式的转变。</div>
+</div>
+<div class="chapter-item">
+<span class="time"><strong>[00:58:18]</strong> </span>
+<span class="chapter-title"><strong>AI与年轻创作者的共生未来</strong></span>
+<div class="chapter-summary">对话探讨了在AI时代，年轻一代与AI共生创作的可能性，指出随着工具简化，才华横溢的创作者能更高效地制作高质量内容，如美剧和电影。年轻一代天生具备使用AI的能力，无需学习，他们通过自然语言与AI交互，直接表达需求，预示着未来创作将更加便捷高效。</div>
+</div>
+<div class="chapter-item">
+<span class="time"><strong>[01:00:30]</strong> </span>
+<span class="chapter-title"><strong>电影推荐与AI产品分享</strong></span>
+<div class="chapter-summary">对话围绕电影推荐与AI产品展开，一方分享了Netflix的《双面警探》及英国电影《Tourist》，强调真实故事改编电影的魅力，另一方则讨论了AI产品，推荐了除玻璃flow外的两款AI产品，强调了AI产品在用户体验与技术实现上的优秀表现。</div>
+</div>
+<div class="chapter-item">
+<span class="time"><strong>[01:02:58]</strong> </span>
+<span class="chapter-title"><strong>AI会议记录与思维导图创新</strong></span>
+<div class="chapter-summary">讨论了两款创新的AI产品，一款会议记录工具能将会议内容转化为分析后的思维导图，突出发言的价值和主见；另一款通过AI帮助用户自我反思和提升，如年终总结和电影项目评估。强调了AI产品应主动预判用户需求，提供超出预期的服务。同时提及AI在影像创作和梦境生成的潜力，以及合理使用AI资源的重要性。</div>
+</div>
+</div><br>
+<h1>问题回顾</h1>
+<div class="qa-item">
+<div class="question"><strong>Q:</strong> 在这一轮AI浪潮中，你和任心分别做了哪些工作？徐文浩，能否分享一下你的职业生涯以及目前的AI项目进展如何？</div>
+<div class="answer"><strong>A:</strong> 我是任心，曾创业过两次，卖过两家公司。2011年我将今夜酒店特价卖给了京东，并参与了京东到家项目。2015年再次创业，建立了对话式人工智能公司get。这一轮AI浪潮中，我加入了美元基金永久资本，投资并孵化AI产品。而徐文浩则是曾经做过国内最早的机器学习广告系统，后创办了AI聊天机器人公司go top，并在这一轮AI浪潮中担任AI for shopping的首席技术官。我从2009年开始涉足电影业，参与营销和发行了众多电影作品。今年春节档期，我本应忙于筹备电影项目，但转而关注到了AI的发展，尤其是AI模型的发布。七个月前，由于电影行业的不确定性及个人对AI的兴趣，我开始研究并投入AI领域。通过不断学习和实践，我发现AI在影像创作方面有着巨大潜力，尤其是在理解了大语言模型逻辑后，我决定深入研究并开发AI视频工具。</div>
+</div>
+<div class="qa-item">
+<div class="question"><strong>Q:</strong> 你们的AI视频工具WeFlow目前发展得怎么样？</div>
+<div class="answer"><strong>A:</strong> 截止到播客播出时，WeFlow已经快达到注册用户100万，促销活动正在进行中。自11月上线以来，我们通过与YouTube上的KOL合作以及邀请机制，实现了用户的快速增长。收入方面也表现良好，达到了二十多万美金。我们关注结果交付，产品形态上会根据新模型的发布快速迭代和更新，以满足用户需求。</div>
+</div>
+<div class="qa-item">
+<div class="question"><strong>Q:</strong> WeFlow是如何实现快速增长的？</div>
+<div class="answer"><strong>A:</strong> 我们主要采取了两个策略：一是通过与YouTube上的KOL合作进行产品推广；二是实行邀请奖励计划，即用户邀请朋友注册可获得积分奖励。这种裂变增长的方式使得用户数量增长迅速。</div>
+</div>
+<div class="qa-item">
+<div class="question"><strong>Q:</strong> 用户在WeFlow上生成十分钟视频的成本是多少？</div>
+<div class="answer"><strong>A:</strong> 正常情况下，十分钟视频的成本是100美金，但如果购买较大用户包，价格会有所优惠，大约50美金。而且，对于一些大型用户，十分钟的素材可能只需要支付50美金就能获取。相比传统生图生视频网站，用户只需花费约40分钟就能获得高质量的八分钟素材，并且可以自由剪辑使用。</div>
+</div>
+<div class="qa-item">
+<div class="question"><strong>Q:</strong> 在这一波技术发展和英雄造就的时代背景下，你觉得movie flow与其他市面上的产品相比，在相同和不同的地方有何特别之处？</div>
+<div class="answer"><strong>A:</strong> 我觉得我们的不同之处在于，首先我不是专业的产品经理或互联网人，但我知道对交付结果有要求，这是电影行业know how和需求的核心部分。此外，我们在agent的工程化编排上有独特优势，尤其是在AI视频领域，壁垒更多在于与用户交互的体验和最终产品的交付结果。</div>
+</div>
+<div class="qa-item">
+<div class="question"><strong>Q:</strong> 对于即将上线的工作坊版本（studio版本），它是如何针对影视专业人员设计的？</div>
+<div class="answer"><strong>A:</strong> 这个版本是专门为影视专业人士打造的工作坊版本，因为我们从电影人的角度出发，追求一次性交付高质量的成果。许多软件对专业用户来说使用不便，而我们希望提供一个符合电影行业逻辑、易于上手且高效的工具，例如提供画布类的产品和工作流功能，让用户能够轻松创建、编辑和使用AI叙事工具。</div>
+</div>
+<div class="qa-item">
+<div class="question"><strong>Q:</strong> 相较于其他产品，movie flow在哪些方面体现出特别之处，哪些是可以明显感受到的优势？</div>
+<div class="answer"><strong>A:</strong> 我们注重画面质感，以结果为导向，不断优化工作流程以达到最佳效果。我们在模型调用上也有自己的一套策略，会根据不同模型的特点和用户需求进行选择性调取，确保在不同环节都能取得最佳表现。同时，我们有一个校验agent会根据预设的标准对用户生成的视频进行评分，这些评分将用于引导后续创作，提高完成度和减少幻觉度，形成正反馈机制。</div>
+</div>
+<div class="qa-item">
+<div class="question"><strong>Q:</strong> 在电影行业中，多agent系统的设计是基于什么样的考虑因素？</div>
+<div class="answer"><strong>A:</strong> 我们在设计多agent系统时，并非完全模仿人类的组织形态，而是基于将视频内容拆解为形象、场景和道具三大元素，并让每个元素由对应的agent来处理和优化。这样做的好处在于能够更好地分配任务，避免单一agent负担过重，同时也能灵活适应不同类型的视频内容，提高整体的创作效率和质量。</div>
+</div>
+<div class="qa-item">
+<div class="question"><strong>Q:</strong> 在你们的项目中，是如何将电影剧组的部门进行拆解并重组的？</div>
+<div class="answer"><strong>A:</strong> 我们把原本十几个重要的部门拆解成几个核心部分，比如编剧负责理解故事并完成剧本，而导演agent则负责理解用户意图并调取相应的执行、视听、画面和剧作能力等资源，最终生成一个多轮协作后的拍摄方案。</div>
+</div>
+<div class="qa-item">
+<div class="question"><strong>Q:</strong> 这个拍摄方案中的token上下文长度是如何确定的？</div>
+<div class="answer"><strong>A:</strong> 我们在其中选取了8秒作为一个单位来优化token上下文长度，这个长度在所有模型中都有所应用。例如，我们要生成一分钟的内容就需要8个8秒片段，而十分钟的内容则需要80个8秒片段。每个8秒片段相当于一个小剧组协同后的输出，其中包含了精准的视听描述、对话和表演等信息。</div>
+</div>
+<div class="qa-item">
+<div class="question"><strong>Q:</strong> 模型在生成视频时如何处理上下文问题？</div>
+<div class="answer"><strong>A:</strong> 在并发生成过程中，不同片段之间需要有上下文关联。通过让模型一次性生成多个8秒片段，并确保它们之间信息连贯，从而实现有上下文的叙事流程。大模型主要关注提升画面质量和真实度等方面，而非叙事本身的精准对接。</div>
+</div>
+<div class="qa-item">
+<div class="question"><strong>Q:</strong> 对于普通用户来说，理想的AI电影剧组应该具备什么特性？</div>
+<div class="answer"><strong>A:</strong> 理想的AI电影剧组应当能够提供类似真实电影制作的视听讲故事能力给普通人使用，让用户能像出品方一样便捷地完成创作过程，而不是让用户自己去完成复杂的叙事工作。</div>
+</div>
+<div class="qa-item">
+<div class="question"><strong>Q:</strong> 是否担心AI在剪辑领域的发展会被其他技术挤压空间？</div>
+<div class="answer"><strong>A:</strong> AI在剪辑领域的进步可能会受到其他技术如云剪辑工具的挑战，但AI在提供电影级画面和叙事能力方面的表现目前仍具有独特优势。大模型已经展现出一定的剧本到视频转化能力，但在真实场景下的拍摄数据缺失使得AI在这一环节还需人类参与。</div>
+</div>
+<div class="qa-item">
+<div class="question"><strong>Q:</strong> 目前AI在剪辑方面的进展如何？</div>
+<div class="answer"><strong>A:</strong> 一些AI模型如Sora已开始加入镜头切换等运镜效果，能够在一定程度上帮助剪辑短视频。但目前仍以片段式缝合为主，完整叙事的组合能力还不成熟。同时，AI在学习电影制作全流程的数据方面还存在不足，但随着数据的积累和AI学习能力的提升，未来有可能实现更好的叙事组合。</div>
+</div>
+<div class="qa-item">
+<div class="question"><strong>Q:</strong> 是否在收集大量故事输入和输出数据以供AI学习？</div>
+<div class="answer"><strong>A:</strong> 我们正在收集大量的故事输入和输出数据，包括用户的故事创作和AI的生成内容，这些数据对于AI理解人类创作故事的动机和方式具有重要意义。当数据量足够大时，将有助于AI形成对故事千差万别理解的学习飞轮和网络效应。</div>
+</div>
+<div class="qa-item">
+<div class="question"><strong>Q:</strong> 对于传统影视公司或团队来说，在idio时代应该如何转型以适应新的市场环境？</div>
+<div class="answer"><strong>A:</strong> 传统影视公司或团队应当积极学习和掌握一站式创作工具，利用AI技术来讲故事，将自己的故事和剧本快速转化为作品。在全球化时代，没有审查过程，只要生成的内容无问题就可以上线发布，并通过稳定利益结算机制获取收益。同时，也要关注行业动态和技术更新，比如最近流行的AI创作工具和支付方式的接入。</div>
+</div>
+<div class="qa-item">
+<div class="question"><strong>Q:</strong> 在新的idio时代，您认为专业电影人需要什么样的工具和产品来适应这个变化，并帮助他们完成从创作到发行的全流程吗？</div>
+<div class="answer"><strong>A:</strong> 是的，在idio时代，专业的电影人需要能够高效创作、制作高质量内容的工具和产品。例如，我们正在筹备的全球idio节（Ideal Oscar）将评选创作者的作品，并通过idio word社区来提供一站式服务，包括帮助传统影视创作者利用AI技术提高生产效率，实现快速创作长剧集甚至美剧，并协助发行和观看。</div>
+</div>
+<div class="qa-item">
+<div class="question"><strong>Q:</strong> 您提到有一家公司叫utopia，他们把募资、发行和AI电影制作整合在一起了吗？</div>
+<div class="answer"><strong>A:</strong> 我不是很了解这家公司的具体情况，但从我的角度来看，现在进入了one percent studio的时代，即小型化、专业化的电影制作团队可以通过AI技术实现高效创作，就像我所代表的工作方式一样。</div>
+</div>
+<div class="qa-item">
+<div class="question"><strong>Q:</strong> 您提到PGC、UGC以及PUGC在idio时代被抹平了，能详细解释一下吗？</div>
+<div class="answer"><strong>A:</strong> 在idio时代，一个人可以组建一个包含强力制片人、编剧、剪辑师以及导演在内的最小化专业故事团队，在一周内甚至一个月内完成一部100分钟到120分钟的剧集，或者制作出20集的美剧，这大大提高了生产效率，而且随着4K8K清晰度的技术发展和AI技能如skills的应用，叙事能力和表演能力都能得到大幅提升。</div>
+</div>
+<div class="qa-item">
+<div class="question"><strong>Q:</strong> 在过去七个月中，您认为做得最正确的一件事是什么？</div>
+<div class="answer"><strong>A:</strong> 做得最正确的一件事是快速执行，保持与大模型公司如Google、OpenAI和微软的良好沟通，及时更新和应用他们的新技术。此外，拥有志同道合的团队也是成功的关键，大家在对AI能力、市场变化和技术发展方向的认知上保持共识，共同推进项目进展。</div>
+</div>
+<div class="qa-item">
+<div class="question"><strong>Q:</strong> 在电影制作过程中，反复拍摄同一个镜头以追求完美，这种精细打磨在电影行业中的角色是什么？</div>
+<div class="answer"><strong>A:</strong> 反复拍摄同一个镜头，不断检查和优化，这一过程虽看似机械，但它确保了作品的质量。尽管电影的核心创意和表达（如know how和taste）由人来决定，但这种反复实践和精细调整的能力对于提升作品至关重要。</div>
+</div>
+<div class="qa-item">
+<div class="question"><strong>Q:</strong> 电影行业未来是否会随着技术发展如实时交互、动态内容等而发生变化，静态单向的故事视觉叙事是否还能维持大品类地位？</div>
+<div class="answer"><strong>A:</strong> 虽然短期内电影形态可能不会消亡，但随着技术进步（如AI、实时交互等），静态单向的故事视觉叙事可能会经历缩减。然而，好莱坞等地区的核心基本盘依然稳固，增量市场（例如基于AI技术的互动内容）将会出现并带来新的机遇。</div>
+</div>
+<div class="qa-item">
+<div class="question"><strong>Q:</strong> 对于传统电影和剧集产业，它们在未来会如何发展？AI时代的到来会对电影产业造成何种影响？</div>
+<div class="answer"><strong>A:</strong> 传统电影和剧集不会立即消失，但会变得更加珍贵，新IP产生速度放缓，而旧IP价值将更加凸显。比如中国电影市场，可能在未来会减少产量，但每部电影的质量和票房影响力会提高。AI时代会带来电影行业的变革，通过技术和世界模型的结合，创造出更互动、实时的游戏式观影体验。同时，创作者将有更多工具和资源，如movie flow，可以更高效地创作内容，一年内完成多部作品，甚至可以制作无限长剧集，实现剧情实时更新。</div>
+</div>
+<div class="qa-item">
+<div class="question"><strong>Q:</strong> AI如何影响年轻一代创作者和内容创作方式？</div>
+<div class="answer"><strong>A:</strong> 年轻一代创作者从小便接触并熟练使用AI工具，他们与AI共创，创作效率更高，才华得以更好地展现。像饺子、郭帆这样的新锐导演就是AI时代的产物，他们与AI共生，创作过程更加自然流畅。</div>
+</div>
+<div class="qa-item">
+<div class="question"><strong>Q:</strong> 推荐近期值得观看的电影有哪些？</div>
+<div class="answer"><strong>A:</strong> 推荐了两部电影，《本·阿弗莱克和马特·达蒙合作的警察故事》和一部英国电影《11种病症的旅游者》，这部电影讲述了主人公患有秽语症并获得女王勋章的故事，非常温暖且富有情怀。</div>
+</div>
+<div class="qa-item">
+<div class="question"><strong>Q:</strong> 除了Movie Flow外，在AI产品领域，有没有推荐的做得不错的其他产品？</div>
+<div class="answer"><strong>A:</strong> 推荐了一款音乐AI产品——苏诺音乐，因其模型的强大和丰富的功能；另外还推荐了一款会议记录产品，该产品能分析会议中每个人的价值，并给出一定的结论，体现了AI类产品应具备的前瞻性和辅助决策的功能。</div>
+</div>
+<h1>节目文稿</h1>
+<p class="transcript-line">
+<span class="time"><strong>[00:00:01]</strong> </span>
+<span class="speaker"><strong>发言人1: </strong></span>
+AI是人类历史上最激动人心的技术革命，也是我们这一代人最大的挑战与机遇。我们这些从业者就是一群充满好奇的炼金术士，想通过不断的猜想、实验，搞出黄金或者放个烟花，无论结果如何，过程应该都会很好玩。我是任心创业过两次，卖过两家公司。2011年我创业今夜酒店特价卖给了京东，在京东内部做了京东到家。2015年我再次创业，做了对话式人工智能公司get。这一轮AI浪潮里，我加入了美元基金永久资本，积极投资和孵化AI产品。
+</p>
+<p class="transcript-line">
+<span class="time"><strong>[00:00:38]</strong> </span>
+<span class="speaker"><strong>发言人1: </strong></span>
+我是徐文浩，曾经做过国内最早的机器学习广告系统，每天处理百亿的广告流量，最终公司被收购。2016年我创办过一个AI聊天机器人的公司go top。这一轮的AI浪潮里，我再次创业来做AI for shopping，担任首席技术官。我和任心是大学同学，现在都在搞AI都算是一线实战的AI炼金术士。在这档播客中，我们会定期交流彼此最新的实践和观点，也会邀请我们欣赏有动力的朋友们一起来分享碰撞。
+</p>
+<p class="transcript-line">
+<span class="time"><strong>[00:01:10]</strong> </span>
+<span class="speaker"><strong>发言人2: </strong></span>
+希望通过这些深入的对话与交流。
+</p>
+<p class="transcript-line">
+<span class="time"><strong>[00:01:12]</strong> </span>
+<span class="speaker"><strong>发言人1: </strong></span>
+能帮助我们所有人点燃炼金的芦火。大家好，欢迎大家来到AI炼金术。今天请来的是两位同学，然后的话是之前跟他聊过，他也在AI炼金术下面评论过，后来就找他聊天，然后一聊就发现说是大佬。之前做过非常有名的电影的宣发，也拍过很大制作的片子，也一路高歌猛进，差点上市了。但是他每一轮好像很靓丽的事儿，背后好像总会遇到一些波折，然后是一个很有故事的男人，然后我听他讲着讲着就觉得说，你这个真的不是在说评书吗？怎么又遇到事儿了？特别波澜壮阔的人生。
+</p>
+<p class="transcript-line">
+<span class="time"><strong>[00:01:54]</strong> </span>
+<span class="speaker"><strong>发言人1: </strong></span>
+所以就在想，然后他现在也在做一个AI的视频的agent的一个工具。我之前用了一下，也觉得我其实当时已经在用一些其他的产品了。然后当时突然就给了我一个完全不同的视角，因为其他的就感觉我是能理解他是怎么做的。然后他这里面就出现了很多，我只在什么一年一度喜剧大会上才学到的那些什么人物弧光之类的动词，突然侵入了我的眼帘。然后就觉得果然专业的人做的东西很很奇妙，所以今天把他邀请过来就是聊聊天。好，两位，那你自己介绍一下呗，你的波澜壮阔的人生也挺感慨。
+</p>
+<p class="transcript-line">
+<span class="time"><strong>[00:02:31]</strong> </span>
+<span class="speaker"><strong>发言人2: </strong></span>
+就现在想想马上本来正常情况下，我应该在这个时间是准备春节档的，春节档电影应该是不知道是做哪个。但是今年发现不是在等待春节档了，而是在等待春节的时候，看各家要发什么模型。不就说今年说过年的时候，什么阿里也要发，deep seek也要发，字节也要发，反正就都说要发模型。
+</p>
+<p class="transcript-line">
+<span class="time"><strong>[00:02:58]</strong> </span>
+<span class="speaker"><strong>发言人1: </strong></span>
+对对对，你要不要介绍绍一下之前你你你拍过哪些电影？
+</p>
+<p class="transcript-line">
+<span class="time"><strong>[00:03:03]</strong> </span>
+<span class="speaker"><strong>发言人2: </strong></span>
+我从2009年开始进入电影业，到2024年底，其实营销的电影就很多了。什么姜文老师的让子弹飞，什么那些年我们追的女孩，这个澳门风云，特别多。然后什么逆战，什么毒战，各种战太极，对，当年华谊的，然后什么星空就太多了。营销的比较多。
+</p>
+<p class="transcript-line">
+<span class="time"><strong>[00:03:28]</strong> </span>
+<span class="speaker"><strong>发言人2: </strong></span>
+后来我们发行的时候，其实2015年像什么栀子花开，那是我投资和发行的那整个电影都是我的，我们也投了胖子师傅就行了，胖子行动队。然后疫情那年20年我们还上了刚疫情刚恢复一点，然后那个时候是华谊上了800，然后我们那一年的七夕档上了我在时间尽头等你也是个爱情片，那个也是我们最早开发的，反正前前后后断断续续投资营销发行了对，差不多两百多部。对，反正都是医院线电影，然后也投了一些剧动画。其实还有一个动画叫我家大师兄脑子有坑。那个漫画和动画现在还在连载的，那个也是我们的以前OK.
+</p>
+<p class="transcript-line">
+<span class="time"><strong>[00:04:11]</strong> </span>
+<span class="speaker"><strong>发言人1: </strong></span>
+OKKKK，所以一直是搞电影的那为什么七个月出来搞AI来跟我们这些人抢饭吃？
+</p>
+<p class="transcript-line">
+<span class="time"><strong>[00:04:19]</strong> </span>
+<span class="speaker"><strong>发言人2: </strong></span>
+没有，不叫跟你们抢饭吃，是来学习来了。实际上是因为24年10月份，我有一个拍到一半就停掉了。我跟别人举例子，我说可能我也是自己能力问题，运气也不太好。做的电影，最后把电影做的感觉像在走夜路，然后不知道从哪飞出来，砖头砸了一脸血，已经很努力的在做，但是做到后面心太累了，而且因为我是这个电影公司的一号位，那一号位实际上就是有很多工作，实际上是要投资，然后承担所有这个电影的责任，所有的风险跟责任都是我们的。所以实际上你的投资行为也好，你的营销发行行为也好，最后的就是可能制作电影的过程中有人来有人走。但是你是那个项目从一开始到最后收拾残局也好，或者是享受那个荣光也好，反正你就是第一个也是最后一个。
+</p>
+<p class="transcript-line">
+<span class="time"><strong>[00:05:15]</strong> </span>
+<span class="speaker"><strong>发言人2: </strong></span>
+在整个漫长的过程中，对也在想这个电影这么做下去，其实我们也没有特别大的空间在这个行业里面在做什么。然后这个时候其实AI对AI这件事情是因为我自己本身也是理科生，所以其实一开始都在关注。只不过其实24年2月份sora出来以后，后来我自己也用了一些，那个时候纹身图，图生视频也看到，也包括玫娟你出来的时候自己也用也去什么discount什么的，反正就都都去研究，还是比较浅显的。
+</p>
+<p class="transcript-line">
+<span class="time"><strong>[00:05:49]</strong> </span>
+<span class="speaker"><strong>发言人2: </strong></span>
+其实跟我们原来做影视的人，现在我去跟他们讲的时候，他一上来那个惯性思维是一样的。我就觉得这离这个实现这个影像创作还早着呢，这才太简单了，这不行，就是我也是那种很没有耐心，上来用了一下，然后原来就这样就走了。24年11月份之前我都是停留在那个状态。然后后来24年的11月份，一直到因为那个时候电影的事情放下以后，其实经历了人生比较灰暗的一个几个月，那个几个月完全也是找一个事儿，以当时也是把AI所有的产品就变成入口。就是说自己去看也好，理解也好，学习也好，然后也去努力看什么paper什么什么，然后自己尽可能去理解，然后找以前的朋友啊同学去介绍，也帮忙介绍之类。
+</p>
+<p class="transcript-line">
+<span class="time"><strong>[00:06:42]</strong> </span>
+<span class="speaker"><strong>发言人2: </strong></span>
+看来看去我发现突然之间觉得这个事儿好像不是想象的那么慢。可能我原来只是看到了一点点皮毛，后来越研究越发现，太太夸张了这个速度。而且当你理解了那个大语言模型的逻辑以后，其实它是那种去预知你下一个概率的这么一种算法。就发现其实它是能把影像创作模仿，它是能模仿的。所以我突然觉得这件事儿可能会很快，然后就对开始深度理解这件事，反正用了半年时间找到了方向，对，就开干。
+</p>
+<p class="transcript-line">
+<span class="time"><strong>[00:07:19]</strong> </span>
+<span class="speaker"><strong>发言人1: </strong></span>
+我觉得不光是因为你认知的那个提升部分，也是因为你踩的这个时间点非常的巧妙。去年前年就已经有很多朋友做这个了，但是技术实在是不ready。其实今年你做的时候，差不多就刚好在这个ready的边上，所以我觉得这个点特别好。
+</p>
+<p class="transcript-line">
+<span class="time"><strong>[00:07:35]</strong> </span>
+<span class="speaker"><strong>发言人2: </strong></span>
+但后来也感觉到比较幸福就是我研究它的时候是24年的11月份。等我大概花了几个月时间找到了逻辑，也找到了方向，也知道说我要从工具入手。我先把电影的整个知识也好，电影的拍摄剧组的这个能力封装在agent里面。等我想到这件事情以及把这一步做完以后，再去往下一步做AI视频的。我们讲idio的这种netflix也好，youtube也好，往那个方向去，就是第一步到第二步。等我想做的时候，其实就像你说的，大模型就开始ready了，对吧？
+</p>
+<p class="transcript-line">
+<span class="time"><strong>[00:08:10]</strong> </span>
+<span class="speaker"><strong>发言人2: </strong></span>
+VU5月21号就发布了，然后在他之前你还觉得写实像的东西，电影感的东西还离得很遥远。然后后来过程中sora也发布了。对，sora发布的时候，其实我们已经上线了，我们是9月28号全球上线的。Sara是国庆节发，那十二发那个东西。就又往前迈了一步。
+</p>
+<p class="transcript-line">
+<span class="time"><strong>[00:08:31]</strong> </span>
+<span class="speaker"><strong>发言人1: </strong></span>
+后来那个banana也起到了很大的作用。
+</p>
+<p class="transcript-line">
+<span class="time"><strong>[00:08:34]</strong> </span>
+<span class="speaker"><strong>发言人2: </strong></span>
+对，然后moana pro又迈了一步，然后可伶现在也又迈了一步，海螺的声音也做得很好，mini max声音也做得很好。然后你就发现这一步一步，然后我我我对我们就每天快速的看到那个模型出来，就马上赶紧去研究怎么办，怎么怎么把它接入，怎么能运用好它。其实对于普通用户来讲，我们的形态是完全的做到结果交付为目标，所以并没有那么多什么选模型什么的。但是其实我们自己的工作就少不了，每出了一个模型我们就要去研究马上要测它的模型什么情况。然后我们专门还有一个agent是去测模型的，感觉是这鸡飞狗跳。
+</p>
+<p class="transcript-line">
+<span class="time"><strong>[00:09:17]</strong> </span>
+<span class="speaker"><strong>发言人1: </strong></span>
+那一路上鸡飞狗跳过来的话，we flow现在做的怎么样？就是有多少用户有做了多少片子了。
+</p>
+<p class="transcript-line">
+<span class="time"><strong>[00:09:24]</strong> </span>
+<span class="speaker"><strong>发言人2: </strong></span>
+我估计播的时候，我们的促销活动已经开始了。我们马上就是这个促销，其实就是为了庆祝我们快注册用户快100万了。对，我们现在已经80万了。对，我们为了庆祝注册的全球注册用户要快到100，所以我们有了一次这个促销的活动。其实现在已经80 80多点了。对你100我估计也很快了，给大家一些反馈。然后全球的一些用户，然后是我们收入也还行，我们收入其实现在也二十多万美金了。其实我们从11月到12月，像我们俩第一次聊天的时候，我因为这些数据这些东西我们其实都比较这个我觉得一直处于观察期，所以我一直不避讳。我们反正因为都是自然增长，我们也做了一点点的增长的动作。
+</p>
+<p class="transcript-line">
+<span class="time"><strong>[00:10:08]</strong> </span>
+<span class="speaker"><strong>发言人1: </strong></span>
+你都是自然增长，怎么来这么多用户的？
+</p>
+<p class="transcript-line">
+<span class="time"><strong>[00:10:10]</strong> </span>
+<span class="speaker"><strong>发言人2: </strong></span>
+因为其实很简单，我们就两个动作。一个动作就是找了一些KOL号的youtube上面帮我们介绍了一下油管上面介绍一下这个产品。然后另外就也是一个很简单的裂变，就是他邀请了别人，别人他就可能有500积分的奖励。就这两件事儿我们也没做过多的东西。
+</p>
+<p class="transcript-line">
+<span class="time"><strong>[00:10:30]</strong> </span>
+<span class="speaker"><strong>发言人1: </strong></span>
+500积分可以在你这里拍多少片子？
+</p>
+<p class="transcript-line">
+<span class="time"><strong>[00:10:32]</strong> </span>
+<span class="speaker"><strong>发言人2: </strong></span>
+半分钟这是。
+</p>
+<p class="transcript-line">
+<span class="time"><strong>[00:10:33]</strong> </span>
+<span class="speaker"><strong>发言人1: </strong></span>
+比较合理的。
+</p>
+<p class="transcript-line">
+<span class="time"><strong>[00:10:34]</strong> </span>
+<span class="speaker"><strong>发言人2: </strong></span>
+相当于我们给用户本来就有一个即便你注册会员不花钱也会给你一个体验的额度。但是那个额度以外，如果你邀请两个朋友，你还能多做一分钟，反正就裂变的速度会比我们想象的快点。因为其实我们算是目前作为结果交付的，就是这种导向的工具里面还是比较我们刚刚也把社区页面打开了。
+</p>
+<p class="transcript-line">
+<span class="time"><strong>[00:10:57]</strong> </span>
+<span class="speaker"><strong>发言人2: </strong></span>
+对，我们可能在这件事情跟大家还是不一样。因为我更关注的还是结果，你到底给交付的结果是什么？可能很多很多产品大家关注的是过程，对吧？因为比如workflow更多的是过程，而我可能更关注还是在结果。上上一周刚发布了一次性生成十分钟，因为我发现好多人愿意在我们这一次做六分钟，我们现在八分钟就能生成十分钟的内容了。连续的十分钟。
+</p>
+<p class="transcript-line">
+<span class="time"><strong>[00:11:22]</strong> </span>
+<span class="speaker"><strong>发言人1: </strong></span>
+你们说说十分钟我要交多少钱给你。
+</p>
+<p class="transcript-line">
+<span class="time"><strong>[00:11:25]</strong> </span>
+<span class="speaker"><strong>发言人2: </strong></span>
+其实如果他正常买你像我们马上促销这个，他差不多正常情况下一分钟是十美金，那十分钟是一百美金。但是实际上他如果买那种比较大的用户，十分钟的他差不多能打对折，也就是50美金。五十美金是这样，50美金里面大概如果它是作为一个素材获取的动作的话，他差不多50美金能获取。基本上我觉得十分钟的素材里面八分钟都是能用的。如果他拿过去自己剪辑一下，那你想八分钟的素材花50美金获取，其实在八分。如果他去传统的这些生图生视频的网站，再加上这些时间和效率。而我们这十分钟一共可能八分钟就给他了。他可能生个五次，他一共可能才花个40分钟。对。
+</p>
+<p class="transcript-line">
+<span class="time"><strong>[00:12:14]</strong> </span>
+<span class="speaker"><strong>发言人1: </strong></span>
+好奇一下，你之前增长快，是不是因为你之前更大方一点？我现在一直没有交钱，但是我印象中我做了不止两分钟的东西，应该当时就是好像挺大方的。你现在讲的好像抠抠搜搜的，我在想当时我还想推荐给别人，就是好像可以薅羊毛那种感觉。
+</p>
+<p class="transcript-line">
+<span class="time"><strong>[00:12:31]</strong> </span>
+<span class="speaker"><strong>发言人2: </strong></span>
+现在其实还是能薅，我们其实也没有没有阻止。大家好，额度还是挺多的。你想每天进来，他裂变两次就有一分钟了，然后每天可以打卡。
+</p>
+<p class="transcript-line">
+<span class="time"><strong>[00:12:42]</strong> </span>
+<span class="speaker"><strong>发言人1: </strong></span>
+我那时候好像啥都没干，好像也还挺有挺多的。
+</p>
+<p class="transcript-line">
+<span class="time"><strong>[00:12:46]</strong> </span>
+<span class="speaker"><strong>发言人2: </strong></span>
+我稍微收紧了一点点，但是也还好，还是属于很大方的那你想哪有几个视频类的上来就一分钟给的，你最多可能给张图，给个8秒，给个10秒，而且用户可以交付的。我们这种已经我一直算挺大方的。对对对。
+</p>
+<p class="transcript-line">
+<span class="time"><strong>[00:13:05]</strong> </span>
+<span class="speaker"><strong>发言人1: </strong></span>
+之前更大方。我记得我那时候觉得还惊叹过一下，说你得亏多少钱？对你现在这样算下来，我会觉得胀好像算得过来翻番的过来了。
+</p>
+<p class="transcript-line">
+<span class="time"><strong>[00:13:15]</strong> </span>
+<span class="speaker"><strong>发言人2: </strong></span>
+我们现在每天收入已经快跟那个token已经覆盖70%了，慢慢就快平。
+</p>
+<p class="transcript-line">
+<span class="time"><strong>[00:13:22]</strong> </span>
+<span class="speaker"><strong>发言人1: </strong></span>
+对我们前面也在聊说，其实这一波一方面是时代造就就英雄造就时代，另外一方面也是时代造就英雄，就是这个时代刚好这个技术线到了。然后其实除了你之外，现在市面上也有一批这样的东西。那你会觉得movie flow跟其他的那那一批相比，有什么相同和不同的地方吗？就是你觉得特别在哪里？
+</p>
+<p class="transcript-line">
+<span class="time"><strong>[00:13:45]</strong> </span>
+<span class="speaker"><strong>发言人2: </strong></span>
+主要是其实我最近也因为最近聊融资也比较多，有时候投资人跟我聊这件事，我有时候会反问我说除了挪威flow，我想知道你们看的其他家的区别是什么？就是我是一个一次性能交付十分钟，然后我是个做电影的那你告诉我其他家的跟我的以外的其他的这些家的区别，他们之间的区别是什么？他们之间是workflow，跟workflow之间有什么区别呢？我访问的时候我会发现大家其实哦也好像回答不太出来。
+</p>
+<p class="transcript-line">
+<span class="time"><strong>[00:14:15]</strong> </span>
+<span class="speaker"><strong>发言人2: </strong></span>
+我说我的特点可能就是因为首先我说我可能不是一个专业的产品经理，我也不是一个专业的互联网人。但是我说我知道两件事情。第一件事情我对交付的结果是有要求的，而那个要求可能也是我们movie flow里面最movie的那一部分，是我们的行业know how和要求。
+</p>
+<p class="transcript-line">
+<span class="time"><strong>[00:14:35]</strong> </span>
+<span class="speaker"><strong>发言人2: </strong></span>
+这是第一第二，就是说从agent的工程化的编排上。因为我还是觉得AI视频这个agent这件事情其实没有什么技术壁垒。其实壁垒更大的是在taste和你的交付，和你最终这个产品要给到人用的时候，你给到的用户体验是什么？
+</p>
+<p class="transcript-line">
+<span class="time"><strong>[00:14:54]</strong> </span>
+<span class="speaker"><strong>发言人2: </strong></span>
+我们现在在做一个马上会上线一个studio的版本，其实就是一个工作坊版本。那个版本是我们专门针对影视专业人用的。因为我自己其实是一个电影人我为什么把目录做成这个样子？为什么我们要做到一次性交付？是因为大量的软件我不会用，之前这些东西我用的好难受。不管是country UI也好，什么用lora训一致性也好，然后再生成一条。
+</p>
+<p class="transcript-line">
+<span class="time"><strong>[00:15:22]</strong> </span>
+<span class="speaker"><strong>发言人2: </strong></span>
+因为我我举个特别简单的例子，我说特别厉害的摄影指导都不知道把他的画面怎么用prt跟大模型交互。就是特别厉害的摄影知道。因为它它是手艺，它是技术，它不是提示，它不是词，然后它不是大模型最后那个画面。所以它这个中间有一个很大的鸿沟，这个鸿沟实际上就是我们一开始做mov flow。从我的角度来讲，我们要封装的那个库部分和让它达到的结果agent能跑出来的效果，这个部分是我我最追求的。所以其实我们在这件事情上，应该是目前即便全世界，我们看海外的一些聚合类平，还有workflow的这种工作流的工具也好，我们跟大家可能最大的不一样是我更关心结果。
+</p>
+<p class="transcript-line">
+<span class="time"><strong>[00:16:06]</strong> </span>
+<span class="speaker"><strong>发言人2: </strong></span>
+我其实不太关心过程，我也不太关心模型。我关心的是你到底给用户交付的东西是什么。当用户提出了一个明确的要求，说我要这样你给我生成去吧。然后你到底给用户交付了个啥？这个其实是我们最关心的事情。当然我的用户里面分为两层，一层是比较偏小白，另外一层是可能就是我们现在马上今年要重点也是在国内。可能因为毕竟我是个看电影的，有大量的今年其实传统的影视人要记录AI叙事这件事儿。大家有没有很好的studio的方法去用很好的工具，很好的协作，对我们给他们提供一个专门的版本，而那个版本是我叫life版本，那是完全电影人的逻辑。他会很舒服的去用到这种东西，比如说画布类的产品或者是workflow这种什么。
+</p>
+<p class="transcript-line">
+<span class="time"><strong>[00:16:55]</strong> </span>
+<span class="speaker"><strong>发言人2: </strong></span>
+你艾特了一个创意，你艾特个导演，艾特个编剧，艾特个摄影。但实际上那个对于使用者的要求还是有点高。普通人你让他把影视知识学一遍，再去用调动这些agent他没法调。那专业人其实他他知道的事情，他又不用你去告诉他。所以其实我们会关心一头一尾，而不是中间的这一群用户。但是因为我们对于中间这群用户的提效，我们发现很明显。其实现在我们用户里面，全球这些用户里面，我们发现其实大家用我们的东西，慢慢他们自己会找到一些方法。
+</p>
+<p class="transcript-line">
+<span class="time"><strong>[00:17:32]</strong> </span>
+<span class="speaker"><strong>发言人2: </strong></span>
+对，就是有很多用户把一个很长的5000字或者三千字扔到我们那个系统里面。然后一次生成十分钟，六分钟生成三四次。然后他拿到素材他就去做做他要的东西。因为剪辑这个事情还是一个我觉得没有办法被智能化替代的那每个人都有自己的taste。对，在剪辑上。
+</p>
+<p class="transcript-line">
+<span class="time"><strong>[00:17:53]</strong> </span>
+<span class="speaker"><strong>发言人1: </strong></span>
+我问一下，就是你刚刚说我们的movie的感觉会更重一点，那具体可以举一些例子吗？因为我我之前你私下跟我聊的时候，我其实听到了一些还蛮有意思的。但是我不知道哪些是你的秘方，哪些能讲不能讲，所以只能等你自己说。Movie有什么特别的地方吗？跟其他的比，我是知道有一些特别的地方的对，哪些是比较能讲的，那个用户能够感受到的。
+</p>
+<p class="transcript-line">
+<span class="time"><strong>[00:18:17]</strong> </span>
+<span class="speaker"><strong>发言人2: </strong></span>
+其实从几个层面，第一个层面就是大家看到的画面的质感，画面质感上不管是从视听还是画面上，我们其实要求不管我们是调哪个模型，其实都会要求它是以结果导向。所谓结果导向就是一旦它的结果不好，我们就反推你整个工作的agent的工作过程，到底哪个部分出了问题，然后没有达到最好的结果。那这个其实以结果导向往前推，然后不停的把你的工作整个agent的协作的这件事情不停的去调。这个调优过程其实是可能确实是我们一个不太可能跟大家区别的，这么跟大家一定能区别开的一个调优的方法。因为我们完全是从结果去倒推我们的所有工作。
+</p>
+<p class="transcript-line">
+<span class="time"><strong>[00:19:00]</strong> </span>
+<span class="speaker"><strong>发言人2: </strong></span>
+当他们技术团队把大家做完了以后，我说来我们用一个简单的prompt一个用户需求去吐出来片子以后，发现这个片子为什么这个地方有问题。对，我们会以我们最专业的角度来说，这个问题是出现在了导演agent手上，还是出现在了摄影agent，还是出现在了我们讲编剧的agent在这个print的部分没有给其他的agent说好，因为大家是一个多agent的协作的过程这是一个。另外一个其实我觉得没什么不能说，就是因为本身我觉得在大模型这个层面，我们没有调取超过别人范畴的模型。大家都是调这些模型，但是我们确实在调模型这个动作上面会有一些自己的要求。
+</p>
+<p class="transcript-line">
+<span class="time"><strong>[00:19:45]</strong> </span>
+<span class="speaker"><strong>发言人2: </strong></span>
+就是我们可能会根据不同模型的特点，在不同的时候你这个用户的提出的这个诉求和模块模板化不一样。我们去调取不一样的模型的能力。因为有的模型在某些方面做的好，有的模型在另外一个方面做的好，所以这个也是我们有一个多多协调的调取。这个调取其实归根到底，我们既然为结果负责，那我们其实在结果这件事情就会有我们的一个test和一个标准。那个标准我相信不是目前可能市面上其他产品会有的一个标准。因为这个标准是我作为一个电影人，会给每一个生产出来的结果去打分，去打tag。你到底是在叙事上。是多少分，试听完成度上是多少分，用户意图理解上拿多少分，你的可看度拿多少分，每一个不一样的时候你要反推好的部分。
+</p>
+<p class="transcript-line">
+<span class="time"><strong>[00:20:37]</strong> </span>
+<span class="speaker"><strong>发言人2: </strong></span>
+其实因为现在我们后台已经一百多万个视频，很多个视频。包括现在我们社区那个idio word，你用户们也可以在里面，就是你注册，你进来movie flow也不一定非要做片子，你也可以看片子。接下来也可以社区里面可以看到很多十分钟的全球用户做的故事，或者做的好玩的片子。
+</p>
+<p class="transcript-line">
+<span class="time"><strong>[00:20:56]</strong> </span>
+<span class="speaker"><strong>发言人2: </strong></span>
+我们还有一个agent的很大的能力是我们还有一个校验agent就是在这一百多万个视频里面，我们会给他们打分哪个好哪个不好。其实AI是这样，AI不一定他能怎么讲。我觉得他作为导演创作，他可能还得等一段时间。但是虽然他有一部分能力，但是另外一件事情就是AI去你只要给他一个标准，说1 2 3 4 5 6 7 8 9 10什么是好。他用这些标准去评判一个视频，他是评判的很厉害的。
+</p>
+<p class="transcript-line">
+<span class="time"><strong>[00:21:22]</strong> </span>
+<span class="speaker"><strong>发言人2: </strong></span>
+我们还有一个agent是用来说用户做了很多片子以后，每一个片子会有分数。那么那些好的分数的片子就会变成我们下一次再做类似片子的数据的一个引导。那就会让越往后做片子的可能会类似的一些创作的故事也好，风格也好，他就会完成度越来越高，然后幻觉度越来越低。
+</p>
+<p class="transcript-line">
+<span class="time"><strong>[00:21:52]</strong> </span>
+<span class="speaker"><strong>发言人1: </strong></span>
+你们这个打分最后是怎么用上的呢？比如说有1万个视频被打了高分，1万个视频被打了低分。比如说发现某一类的它的剧情的依合度上就是低分，那你们是会影响到prop的这个层面，比如说去改那个编剧的提示词，还是说会影响到这个比如说你们会做一些微调，还是会影响到IL的层面，你们自己在做一些inforcements learn y还这他在影响哪个方面？
+</p>
+<p class="transcript-line">
+<span class="time"><strong>[00:22:19]</strong> </span>
+<span class="speaker"><strong>发言人2: </strong></span>
+其实有几个。第一个就是首先他会分析为什么这个做得好，就是为什么这个幻觉度低。因为比如我们给幻觉度会打一个分数，就我们是允许因为我们交付的时间很短，所以实际上它是肯定会有幻觉的。但是它会依据用户的输入的详细程度和我们解析用户的需求的准确度与否来产生那个幻爵度从10到10%到30%之间会有一个区间。
+</p>
+<p class="transcript-line">
+<span class="time"><strong>[00:22:48]</strong> </span>
+<span class="speaker"><strong>发言人2: </strong></span>
+幻觉度越低，我们就觉得要么就是用户的输入很很精准，要么就是我们在理解用户意图上这一步做的很精准。就是换爵度越低的作品，我们去看，他就是他的agent协同的工作的效果会越好啊。那这个越好也我们也会去打分，说他是在哪个环节变得好，哪个环节是对的那我们就会告诉他，就像你说的这个我们叫后训练也好，还是调优也好，就会告诉他你会正确的。这次你做对了，就有点像后训练的奖励机制一样。这次你做对了，下回你要继续。按照这种去理解用户行为，去理解用户的输入，你是准确的。
+</p>
+<p class="transcript-line">
+<span class="time"><strong>[00:23:26]</strong> </span>
+<span class="speaker"><strong>发言人2: </strong></span>
+因为有时候用户说我就想做这么一个片子，然后他其实做了一大长串儿。前面半句说是个爱情题材，中间又有点恐怖了，后面又说点动作了，中间又再加了一个别的，他说了好多。但是实际上这个时候我们要去分析，比如说我们拍电影也一样，复合类型，你是个恐怖喜剧还是个喜剧恐怖。
+</p>
+<p class="transcript-line">
+<span class="time"><strong>[00:23:47]</strong> </span>
+<span class="speaker"><strong>发言人2: </strong></span>
+所以在前面是很重要的，就是用户意图。这个部分我们也会说基于最后的结果，我们会给他前面在用户意图这一部分打分。然后基于这个结果，我们会给导演最重要的导演agent打分。然后基于这个最终结果，我们再给中间的画面或者摄影，或者是我们讲说剧作也好这个部分打分。所以它是一个综合影响。我只能说这个里面有一些我们打分的方法，然后再再去调优它的方法。对。
+</p>
+<p class="transcript-line">
+<span class="time"><strong>[00:24:18]</strong> </span>
+<span class="speaker"><strong>发言人1: </strong></span>
+了解。再问一下，你刚刚说其实是一个多agent的一个系统，不好意思，我鼻音越来越重了。这个多A制的系统的话，它是一个剧组。这个东西的话我在跟很多团队沟通的时候有两派观点。一派是认为说你多A其实你比一方面比较适合去人类适合去设计这个系统。另外一方面的话，它比较容易去分配这个context的，你不至于把所有的这个context都丢给一个主进程。但康tex一下子就用完了，主要是为了这两个目的。
+</p>
+<p class="transcript-line">
+<span class="time"><strong>[00:24:49]</strong> </span>
+<span class="speaker"><strong>发言人1: </strong></span>
+但还有一个派观点就属于说这完全是拖了。对，拖了什么放什么，就觉得说没必要。这个完全是把人类的组织形态往往A阵能上套。明明可以就是agent这边按property什么什么一步一步往下走，为什么还要按照人类模仿人类的这个组织这样做，硬硬来硬来搅和一圈。然后你现在走的是那个其实还是有点像人类的架构，把它映射上去。这个好处和坏处你有思考过为什么为什么你们选择了这个设计吗？
+</p>
+<p class="transcript-line">
+<span class="time"><strong>[00:25:18]</strong> </span>
+<span class="speaker"><strong>发言人2: </strong></span>
+其实是这样，我们讲说我们只是所谓的映射，只是我们打双引号的映射。因为他肯定是跟我们的传统的这个剧组工作方式是不一样。我举例子，比方说现在我们提供的library，就是我们在那个用户，我们现在已经给用户提供了素材库。你看我们现在就把画面的素材库分成了三个部分。
+</p>
+<p class="transcript-line">
+<span class="time"><strong>[00:25:39]</strong> </span>
+<span class="speaker"><strong>发言人2: </strong></span>
+一个叫形象。任何一个视频内容都会拆解为三大元素。第一个元素叫形象，我们的也要叫形象，对吧？小动物也是形象，卡通也是形象。第二个是你这这一场这一场景故事中间的场景，我们是在屋里面，还是在哪个立交桥上，还是在那么一个房间。第三个元素就叫道具，就是我们手里面拿了什么样的手机，我们在用什么电脑，我们在喝什么饮料，我们在在说什么话。这个时候其实我们把画面简单的拆为三个元素。
+</p>
+<p class="transcript-line">
+<span class="time"><strong>[00:26:12]</strong> </span>
+<span class="speaker"><strong>发言人2: </strong></span>
+我以此举例子的意思就是，我们虽然说是一个剧组，但是我们这个剧组原来一个正常的电影剧组是十几个重要的部门。但是我们实际上把这十几个重要部门是拆成了几个核心的东西。这几个核心也就是创作肯定是一个基础意图。我们所谓的编剧并不是编剧本身的意思，我们所谓的编剧人的动作是他是理解故事，他把故事完事儿了以后，最终编剧要它还有另外一个功能，它叫print的收集者编剧。比如说我们的这个所谓导演agent的最它是最重要的，他的重要是理解用户意图要干嘛。然后我把用户意图拆解完以后，我要调取相应的执行能力、相应的视听能力、相应的画面能力、相应的剧作能力等我把这些能力全调取完以后，我当然每一个镜头的prot其实还是一小段话。这个准确的point其实是综合了所有画面内的信息。我们整理完了以后，一个多一轮的协作后，一起拿到一个我们讲说拍摄方案。
+</p>
+<p class="transcript-line">
+<span class="time"><strong>[00:27:16]</strong> </span>
+<span class="speaker"><strong>发言人2: </strong></span>
+这个拍摄方案里面，其实我们要优化它的就是它是它的token上下文到底有多长。那一个镜头是1000个字描述还是5000个字描述？怎么能拿到这十秒这20秒？因为所有的模型目前反正最长就是一次性10秒，不管我们怎么做，一次性十分钟我们也是同时生成，可能一分钟就是六个10秒，对吧？
+</p>
+<p class="transcript-line">
+<span class="time"><strong>[00:27:40]</strong> </span>
+<span class="speaker"><strong>发言人2: </strong></span>
+我们其实是大家用我们的用户，我们是拿取了一个中间的单位，就是一个8秒为一个单位。而这个单位其实在所有的模型里面，不管是sora、VEO、groot、可伶、海螺，其实它都有8秒。所以我们取了一个最中间的单位，也不是10秒，15秒也不是5秒。那8秒作为我们一个单位，我要生成一分钟，我就是要八个8秒，对吧？我要生成十分钟，我就是要80个8秒，那80个8秒我们会对每一个8秒相当于是一个小剧组的一个最终他们协同后拿下来的一个prot。这个print是一个精准的，所有的视听描述、对话、表演都在里一个punk里面的那其实我们就是在不停的去构建更准确的print，而且是上下文。因为我们是并发的那并发如果我一个十分钟的片子要在八分钟内做完，那就相当于说我80个8秒都是要在同时进行的那同时进行的时候，实际上我的第一个8秒和第50个8秒，大家的信息是要有上下文的那这个的工程难度，其实我们虽然说它有点像电影剧组，但是我只是拿这个东西可能更多的时候就是可能更具象一点，更因为相对不那么抽象，就像剧组一样。
+</p>
+<p class="transcript-line">
+<span class="time"><strong>[00:28:57]</strong> </span>
+<span class="speaker"><strong>发言人2: </strong></span>
+但实际上这个里面我们只是把电影剧组的功能给它拆解，又重新组合了，然后变成几个关键的agent实际上主癌症的也就四五个，剩下的那些小的每个里面当然有细碎的一些环节，其实就有一些调优，有一些小的问题。所以在这个事儿上理解，我觉得因为如果你只是跟agent让他一步一步往下做，那你是无法做到中间环节的。我们讲管控，那他是怎么判断这件事情？那你如果让agent最终他的逻辑就是让他一次性去生成这么些画面的时候，他是准确的有上下文准确的去调取大模型，其实就是一个调取过程。调取过程对大模型来说需要知道你这个片段，你到底和上一个片段是什么关系。这也是经常有投资人问我说，你这个大模型公司自己做了。我说大模型永远他们关心的还是把我这8秒延长到80秒，或者把我的物理幻觉，把我的这个真实度这个眼泪流的好不好？我觉得大模型每天在精进的是这些的，但是大模型一定不会去精进叙事，他不会去精进说我这个8秒和下一个8秒拼接起来，我怎么讲故事。
+</p>
+<p class="transcript-line">
+<span class="time"><strong>[00:30:14]</strong> </span>
+<span class="speaker"><strong>发言人2: </strong></span>
+这个事儿不是他的工作，这个就是一个影像的组织者的工作。影像组织者目前看来，我觉得真正的agent要做的必须是交付，就是你要帮助用户把这个讲述故事的过程给完成，而不是说把这个过程摆在用户面前，然后让用户去完成。如果用户要完成，那对他的要求其实并没有降低，他还是需要一个很专业或者相对专业的一个使用者的状态才可以。从我的角度来讲，我觉得那个就相当于如果你没有帮用户往前迈一步。所以我一直说我们真的是从我的内心中最想做的，还是说真的把电影剧组的这种生产的视听讲故事能力，一个90分的AI电影剧组，一个idio的剧组给到普通人能用。那他用的时候就像出品方，就像老板，你像我以前投资电影，我就是开机去一天，开机完事我就走了，然后我就回办公室了。我可能再去的时候就是关机，然后请大家吃个东西。
+</p>
+<p class="transcript-line">
+<span class="time"><strong>[00:31:16]</strong> </span>
+<span class="speaker"><strong>发言人1: </strong></span>
+然后号称这部片子是你拍的。
+</p>
+<p class="transcript-line">
+<span class="time"><strong>[00:31:19]</strong> </span>
+<span class="speaker"><strong>发言人2: </strong></span>
+现在攻坚过程，因为我是在办公室处理我的问题，对吧？我们融资，然后制定宣发策略，然后看接下来的发行计划，其实严格意义上讲，我觉得对于普通用户来讲也是这样。我先叫一个广告片。你去给我做吧，然后我的要求是不拉不。现在我很清楚的告诉你了，我就不管了。因为前段时间我们刚有一个文本确认的环节，因为好多人就说，你这个老一次性生成有时候不是我想要的。我说好，我们专门开了一部文本的确认。就是你输入一个文本以后，我们先让你确认0.5步，然后再让你确认一步，等你确认完了你再点，我就给你干活。
+</p>
+<p class="transcript-line">
+<span class="time"><strong>[00:31:58]</strong> </span>
+<span class="speaker"><strong>发言人2: </strong></span>
+后来发现了最大的问题就是我们的常用。因为每天还有几千人天天在我们这做片子，那帮用户直接就炸了，就说谁要你加这个东西。我以为点完，我一会儿回来就看到片子了，为什么停下来了？所以这种阻断式的发现，我们的用户已经开始习惯了。他把东西扔到输入框里，点个开始他就走了，他就干别的去了，他一会儿再回来，网页就做完了。我觉得可能目前真的是出了movie flow。不是我我很少看到其他的agent或者视频类的是这么交付。因为大家并不是对结果交付，大家都是在做过程。
+</p>
+<p class="transcript-line">
+<span class="time"><strong>[00:32:32]</strong> </span>
+<span class="speaker"><strong>发言人1: </strong></span>
+我再顺着你刚刚说投资人问题那个问题抬杠，就是因为现在确实看到，比如说像sora 2的话，它在里面已经加了运镜，加了这个镜头切换什么东西。模型层感觉也在镜头和讲故事这个层面往这边走了一步。然后另外一方面，我最近在用那个cloud code，然后cloud code我在操作它的时候，我早几天把我的一个口播视频转给他，然后说你按照抖音的网感帮我剪一下，他最后剪的不好。但是他的逻辑全是对的，他已经分析出来打一句是京剧，我要把它调到前面去，然后打一段我应该把你删掉，哪一段我帮你加快。他逻辑全是对的，然后他已经完全没有见面的，在帮我把我的一个视频剪了一遍，最后剪出了。如果因为我现在是一个很强的一个人类的剪辑师，大概是80分的话，他大概剪出了40分的水平。
+</p>
+<p class="transcript-line">
+<span class="time"><strong>[00:33:23]</strong> </span>
+<span class="speaker"><strong>发言人1: </strong></span>
+对，但是这个AI你知道吧？他会进步吗？对，我就觉得他每个月进步十分的进步，每个月进步五分肯定是能进步的。这个时候我就觉得说你这边就会被两头可能在挤压，一方面是模型可能会有这方面能力，因为另外一方面code就是cloud code code，甚至于最近火的这个cloud open cloud对吧？这些东西他们慢慢的这种操作这些东西，那你的空间会不会被两头再挤扁一些。
+</p>
+<p class="transcript-line">
+<span class="time"><strong>[00:33:50]</strong> </span>
+<span class="speaker"><strong>发言人2: </strong></span>
+我觉得是这样。其实你看了，其实除了sora自己在十秒的里面参加了一些镜头切换和运镜以外，就这些运镜它还是短暂的。在于说我们大家会给他一个说讲一个故事，先要从一个全景然后到一个中景，然后到一个近景，然后再回到一个中景，然后我们再给一个特写，然后再就他其实是一个短视频节奏，他就可能训练了大量的短视频，所以从短视频的运镜里面参与了一些些。
+</p>
+<p class="transcript-line">
+<span class="time"><strong>[00:34:17]</strong> </span>
+<span class="speaker"><strong>发言人2: </strong></span>
+但是我觉得是这样，就像我们不管怎么样，还是会喜欢看很好看的剧集。奈飞剧集也好，很好看的电影也好，就是长叙事。虽然大家已经习惯了这个快速的剪切，但是我觉得模型侧他们再往前做也只是在做片段式的缝合。但是作为叙事项的组合，这件事情我觉得还不会那么快的到来。因为比如说如果AJI到来了，那那你就不用人导演了，反正他就能创作了。所以我们就让他们创作就好了，对吧？我们就不用做了，这是一个层面。
+</p>
+<p class="transcript-line">
+<span class="time"><strong>[00:34:52]</strong> </span>
+<span class="speaker"><strong>发言人2: </strong></span>
+然后其实像你说像class code这种，我靠work他们我也知道他们就是所以这也是为什么之前有人问我说减辑类的产品。我说剪辑类产品不管是剪映，还是大家出来做的东西可能已经很多。但你反而说比如说功能性特别强的，像你说的口播或这些，我觉得它有它的逻辑，它是可以前后组合，然后卡点，这个没问题。
+</p>
+<p class="transcript-line">
+<span class="time"><strong>[00:35:15]</strong> </span>
+<span class="speaker"><strong>发言人2: </strong></span>
+但是我觉得这个在于一些我经常跟人讲，就是说我的要求。其实因为我是做电影的，所以我的一开始对于我们交付结果的要求是电影级的画面，电影级的视听的讲故事的能力。而这件事儿去年大模型已经给到了一些表现能力，我们尽可能把它封装得足够好。这件事本身的能力不是说大模型没有，而是大模型有。但是要去挑取这些东西，还是要用人，暂时还是要用人，那未来可能就不需要了，但是我觉得不需要那天我们已经做到了一个很大的输入和输出库。就是因为我们用户里面发现70%的视频都是讲故事的，全球都是。
+</p>
+<p class="transcript-line">
+<span class="time"><strong>[00:35:56]</strong> </span>
+<span class="speaker"><strong>发言人2: </strong></span>
+这两天还在跟我们的这些资方朋友说，我说其实我们可能未来握了一个很大的库，在于人类的故事库。因为一方面他把他的输入给了我，另外一方面我把我们的输出给了他。这两个数据本身在我们这是很有趣的一个数据，我们每天还在分析这个东西。当他现在是一百多万个，但可能到一千多万个，1亿个的时候，那你会有一个故事的输入和故事的输出。这两个输出其实它是有一个相关性的。
+</p>
+<p class="transcript-line">
+<span class="time"><strong>[00:36:25]</strong> </span>
+<span class="speaker"><strong>发言人2: </strong></span>
+就像我那个时候跟你我记得我应该跟你举过例子，我说大模型能把所有的电影看一遍，大模型也能把所有电影的剧本看一遍。但是大模型就是没有这些剧本到这些电影中间的拍摄数据。因为这部分数据是没有的，是缺失的。
+</p>
+<p class="transcript-line">
+<span class="time"><strong>[00:36:39]</strong> </span>
+<span class="speaker"><strong>发言人2: </strong></span>
+所以模型是怎么学习为什么一个电影会被拍成这个样子？一个文本是这么讲，最后到了电影是这个样子。那不同的人类他是为什么这么创作去组织生产，最后拍成这个样子，然后大家为什么又会喜欢这样的故事？而不是因为同样的文本跟每一个人拍脑子里的画面都是。
+</p>
+<p class="transcript-line">
+<span class="time"><strong>[00:36:58]</strong> </span>
+<span class="speaker"><strong>发言人1: </strong></span>
+不一样的我听说硅谷正在高价收这一类数据，甚至于在收类似于blue flower的工作流的数。就是人类从一开始到后面他怎么调的这个数据。硅谷那边有公司在高价在说。
+</p>
+<p class="transcript-line">
+<span class="time"><strong>[00:37:11]</strong> </span>
+<span class="speaker"><strong>发言人2: </strong></span>
+其实这个是这样，反正AGI如果来了，我们就都可以什么也不干。但是在那个之前，我觉得有一个很有趣的东西在于说，我觉得不管是模型测，他们尽可能的去做到让那个视频生成的更好更真实。从我们讲说cloud这个代码这一侧，它会让你的语义意图理解更强。
+</p>
+<p class="transcript-line">
+<span class="time"><strong>[00:37:35]</strong> </span>
+<span class="speaker"><strong>发言人2: </strong></span>
+但是我觉得对于人来说，讲故事的原声的冲动和讲故事的千差万别的能力。其实是因为每个人他他对于故事的理解和对于影像和画面，和对于表达的理解是完全不一样。我们其实看到了目前全球用户，因为从第一天我们就是面向全球，我们看到好多地方的人，他们对故事的理解其实千差万别。而这些千差万别，我相信这些数据本身大模型现在也没有可能就是我们这样的产品在收集了这些数据以后，反而是这些数据可能更能给AI去学习。为什么人会这么想创作这样的故事，而他要讲那样的故事？对我觉得这个其实到了一定程度以后，它的数据飞轮和网络效应就会出现。
+</p>
+<p class="transcript-line">
+<span class="time"><strong>[00:38:24]</strong> </span>
+<span class="speaker"><strong>发言人1: </strong></span>
+然后刚刚你提到说你们现在也在收收钱，然后我之前看，比如说看这个feel的之类的，然后他们也早期做一些搞笑的小视频啥的，后来就是说跟C跟他们做的那些市场收不上来钱，他们后来不就转到说拍一些广告，什么病毒营销类的视频，对吧？像这种就比较能赚来钱。你现在做to b是不是也是就是觉得B2B特别更好赚钱，因为to c我就很热热闹闹，我要讲个故事，但是你要付50美金，觉得普洱就退回去了。
+</p>
+<p class="transcript-line">
+<span class="time"><strong>[00:38:56]</strong> </span>
+<span class="speaker"><strong>发言人2: </strong></span>
+其实是这样，我们是全球肯定是C端市场，就是我们自己的这个飞轮是我们不叫弊端。因为对我们来说，因为我自己体感太深了。今年开始不管是中国还是世界的影视创作者，大家的传统的影视拍摄就是会收窄。因为他的投资，他的效能？他他太消耗钱了，而且他的回收也越来越低。年轻一代10后，对于去戏院也好，对于看长剧情的这种，因为大家毕竟潜移默化被短视频洗了十年，所以我们看东西真的习惯了五分钟，看电影，不太习惯2个小时在电影院看电影。没办法，年轻人就是这样。
+</p>
+<p class="transcript-line">
+<span class="time"><strong>[00:39:35]</strong> </span>
+<span class="speaker"><strong>发言人1: </strong></span>
+而且现在抖音上面用AI做出来的一些特效画面，以前你说你是在短视频里面不可能看到什么火星撞地球飞船大战，现在分分钟全是这种东西，而且做的可好了。
+</p>
+<p class="transcript-line">
+<span class="time"><strong>[00:39:47]</strong> </span>
+<span class="speaker"><strong>发言人2: </strong></span>
+而且越是这种，他反而越的做的越好。我们所谓其实没有叫B因为对我来说我还是那个逻辑。其实在新的idio的时代到来，就是AIDEO idio时代。我们现在社区就叫idio word，然后我们今年要办第一届全球的ideal Oscar，就是我们要评评这些创作者的作品，在全球我们自己开一个idio节festival。
+</p>
+<p class="transcript-line">
+<span class="time"><strong>[00:40:10]</strong> </span>
+<span class="speaker"><strong>发言人2: </strong></span>
+Ideal festival就是实际上你会发现在这个时代到来了以后，我们不得不去要迎接专业的电影人来做这件事情。专业的人过来做的时候，其实我是最知道大家的痛点和哪里不舒服。然后他想用什么样的一个工具产品，而且他做完了以后，其实我们要帮大家去发行。同样的就跟原来我们去拍电影也要发行这部电影，而不是光拍了就完事儿了。这一个分享和观看的地方让大家来看。这件事情我觉得我还是有一个责任去帮助传统的影视创作者在新的增量的ideal的世界和市场里面。去说白了赚取一个端到端的一个创作到发行的这么一个过程。
+</p>
+<p class="transcript-line">
+<span class="time"><strong>[00:40:55]</strong> </span>
+<span class="speaker"><strong>发言人1: </strong></span>
+有有一家公司叫utopia，你听过吗？他好像把募资和发行和AIAI电影制作都都塞到一坨了。
+</p>
+<p class="transcript-line">
+<span class="time"><strong>[00:41:03]</strong> </span>
+<span class="speaker"><strong>发言人2: </strong></span>
+这下我还真不太了解。但是从我的角度来讲，其实就是one percent studio的年代时代到来了。大家都说one person company，我说我们在做的那个工作方就是one percent studio。
+</p>
+<p class="transcript-line">
+<span class="time"><strong>[00:41:14]</strong> </span>
+<span class="speaker"><strong>发言人2: </strong></span>
+Pgc ugc跟PUGC，我觉得在在新的idio时代，它是被抹平了的。就是一个人他可以用为我做那一个最小的，我们讲电影级的团队。对我来说原来那种打双引号的电影创作团队，就是有一个特别强有力的制片人加编剧加一个特别好的剪辑师。然后这三个人同时又有导演思维，这个就是接下来在idio这个时代最小化的专业的故事团队。也就是这三个人他们可以在一周内做出来一个100分钟120分钟的一个剧集，甚至在一个月内做出来一个20集的美剧，都是能做到的那这就是他们的生产效率。而这个东西其实包括现在4K8K这些清晰度都够了。
+</p>
+<p class="transcript-line">
+<span class="time"><strong>[00:41:59]</strong> </span>
+<span class="speaker"><strong>发言人2: </strong></span>
+叙事能力、表演能力。其实接下来通过skills，通过一些？就是现在今年skills又很火了，那skills正好是可以弥补很多小的其他模型没有解决的一些小问题。我们现在正在研究，他一旦能弥补，所以这个叙事一下子就能完成了。这个叙事一旦完成了，其实大家会马上看到大量的新的故事出现。而这些新的故事一定是专业的，会讲故事的人，他会讲的更好。
+</p>
+<p class="transcript-line">
+<span class="time"><strong>[00:42:25]</strong> </span>
+<span class="speaker"><strong>发言人2: </strong></span>
+我说这个意思就是我并没有对于B和C的分解，而是说那些B对我来说也是C那些C就是未来的B那些全球的C有可能就是未来的B今天那些传统影视公司，那些所谓看起来很B的公司或者团队，他其实对我来说就是一个个活生生的制片人、编剧、剪辑师、导演一个人。他如果很短时间内，可能半天时间就学会了用一个一站式的创作，他能去用AI讲故事了。大家手里有那么多的好故事和剧本还没有被拍。而且我们在一个全球化的时代，从我们做完到我们发布也没有任何的审查过程。只要你能生成，这就说明你的这个东西没什么问题，你就上线就好了，对吧？然后大家就给你。而且我们这两天也是刚对全球的，我们刚把那个USDT的支付也都接完了。
+</p>
+<p class="transcript-line">
+<span class="time"><strong>[00:43:18]</strong> </span>
+<span class="speaker"><strong>发言人1: </strong></span>
+那你就可以做的那那些work对吧？
+</p>
+<p class="transcript-line">
+<span class="time"><strong>[00:43:23]</strong> </span>
+<span class="speaker"><strong>发言人2: </strong></span>
+大家可以对稳定利益结算了。最近跟我们传统的一些电影公司的人，最近来来聊的比较多了。之前还没有那么多，今年好像今年过了个元旦，不知道为什么大家突然有点反应过来了。然后最近找我聊天的比较多，然后我说我希望快速给大家把这个studio。因为其实不光是中国，包括好莱坞，好莱坞那边，韩国和日本也有一些电影人我也已经都已经接触上，大家也都是知道了，原来这个是我做的。
+</p>
+<p class="transcript-line">
+<span class="time"><strong>[00:43:51]</strong> </span>
+<span class="speaker"><strong>发言人2: </strong></span>
+然后大家就说那你们我说我快速，我会为你们做一个版本。我说你们那个版本叫life的导演版，是创作板，这个是跟大家不一样的。因为普通用户要交付，但是你们要的是一个过程，那那他们要的过程和目前大家看到这个work flow又不是一个东西。对，就一般的这种可能市场上比较多的这种AI类的视频类的workflow，又不是符合电影人或者影视人的使用习惯。对，所以对我来说就是他们C他们是C专业级的话。
+</p>
+<p class="transcript-line">
+<span class="time"><strong>[00:44:24]</strong> </span>
+<span class="speaker"><strong>发言人1: </strong></span>
+你这个youtube a这家公司的话，他找的是一些类似于奥斯卡什么最佳编剧提名的那种编剧啥的，反正都是有名有名字的。但是那些人都有一个什么梦想，要拍一个非常诡异的一个东西。什么埃及的历史啥的，就是属于那种一听就有大量的特效，然后会耗资很大的，就没有人拍。他们会帮他，就是相当于把它发行一个金融产品，相当于物资也搞了，然后最后帮他包发行，就相当于我用10分之1的钱造了。但是我还是按照原来的那个方法，然后又把这个成本要摊出去也不贵。比如说我只要10分之1的成本，然后的话我把那个发型给接了，我按发行给你分成已经成了几单。
+</p>
+<p class="transcript-line">
+<span class="time"><strong>[00:45:06]</strong> </span>
+<span class="speaker"><strong>发言人2: </strong></span>
+他们的逻辑脑洞好大。
+</p>
+<p class="transcript-line">
+<span class="time"><strong>[00:45:09]</strong> </span>
+<span class="speaker"><strong>发言人1: </strong></span>
+最近好像被bingo了。You top还蛮有意思的一家公司。又要问你一下，这边有很多其他的创业者，你现在是已经PMF已经第一步已经过了吗？但回过头来看你觉得这七个月之所以能比如说发展比较迅速，那你觉得最多做的最对的一件事情？
+</p>
+<p class="transcript-line">
+<span class="time"><strong>[00:45:28]</strong> </span>
+<span class="speaker"><strong>发言人2: </strong></span>
+我觉得做的最对的其实是还是快速的执行。
+</p>
+<p class="transcript-line">
+<span class="time"><strong>[00:45:33]</strong> </span>
+<span class="speaker"><strong>发言人1: </strong></span>
+什么叫快速执行？就是今天说明天说先类似。
+</p>
+<p class="transcript-line">
+<span class="time"><strong>[00:45:37]</strong> </span>
+<span class="speaker"><strong>发言人2: </strong></span>
+就是当你觉得一个东西要快速的做反应，因为比如说我们跟google，跟OpenAI、跟微软都都保持一个比较通畅的沟通。就这些大模型公司在更新的时候，比如说他今天晚上12点更新，他在大概六七点钟就会告诉我们，然后我们就会在那。我觉得快速的执行是一部分。还有一个还是很幸运要遇到大家能志同道合的。很多时候像我跟我们的几个合伙人和团队之间干活，就是我可能想到的时候他也想到了，大家都在一个同样的频率上在往前走。而且大家对于大模型的能力，对于大模型的认知，对于接下来这个市场的变化的认知，以及agent的发展方向，以及技术的发展方向，大家多多少少都有一个共频同频。然后执行的团队又是尽量能在一个快速反应的一个过程中，我觉得这个是你要说做的最对的。我觉得感谢我自己关注了AI，感谢我自己关注了这件事儿，不然就错过了。
+</p>
+<p class="transcript-line">
+<span class="time"><strong>[00:46:44]</strong> </span>
+<span class="speaker"><strong>发言人1: </strong></span>
+感觉踩到了一些红利。
+</p>
+<p class="transcript-line">
+<span class="time"><strong>[00:46:46]</strong> </span>
+<span class="speaker"><strong>发言人2: </strong></span>
+还不叫红利。我觉得我其实还没没觉得现在是个红利，就是很幸运的上车了。至于就是在赛道上了，就这马拉松，反正就开枪的时候我正好就在那儿了，然后就报上名了。
+</p>
+<p class="transcript-line">
+<span class="time"><strong>[00:47:07]</strong> </span>
+<span class="speaker"><strong>发言人1: </strong></span>
+那反过来问，如果现在回到一年前，你给那个时候的自己可以发一条微信，你会提醒那个时候的自己什么事情说千万别这样，就有啥走错了的。
+</p>
+<p class="transcript-line">
+<span class="time"><strong>[00:47:22]</strong> </span>
+<span class="speaker"><strong>发言人2: </strong></span>
+那个时候我已经在重度的了解和学习过程中的会，我会跟他说你可以再快一点，还是慢了一点。我觉得其实我们并没有吃到nano banana pro这波红利。我所谓的红利是因为有好多最近的一些网站，包括love，包括他们不都是包括henfield，这些不都是用英伟达a banana pro什么无线使用什么的，就接住了这波他们就创造了很高的一个短期的收入。就这件事情我觉得我们有点滞后。我们最近刚跟我们团队我说要深刻反省，因为12月份那会儿我花了一些精力去去沟通融资的事情。然后产品上面我们还是其实比我预想的还是动作稍微慢了一个节拍。但是最近我们又我们觉得又回到了一个正确的轨道上，就产品的进步迭代的速度又回到了一个正常轨道上。那个慢了一点点，就是没有吃到那个banana pro的收入的红利。
+</p>
+<p class="transcript-line">
+<span class="time"><strong>[00:48:20]</strong> </span>
+<span class="speaker"><strong>发言人1: </strong></span>
+这个红利很大，我听好几个人跟我讲过类似的观点，就是那一波就是测不测这个热点和就比如说我们这里有那个无线的单独banana pro可以用什么的，这个会影响很大吗？
+</p>
+<p class="transcript-line">
+<span class="time"><strong>[00:48:34]</strong> </span>
+<span class="speaker"><strong>发言人2: </strong></span>
+其实没有多大，但是很多很多公司它都是差不多一个月。因为nano banana和他的pro出来以后的那一个月，基本上用那种聚合类的平台，说让你无限用banana，无限用什么？他们其实那一个月瞬间带来了成百反正很高的收入，我们正好在那个阶段没有在收入这件事关注。
+</p>
+<p class="transcript-line">
+<span class="time"><strong>[00:48:59]</strong> </span>
+<span class="speaker"><strong>发言人2: </strong></span>
+其实从今年开始大家会很关心你的ARR到什么层面。我就说我们其实稍微如果你让我跟去年这会儿，225年1月份我会跟他说，记住今年nano banana pro出来的时候，要接到一波挣钱的红利。你像在我们现在的产品上面，用户是不知道我们做完一个片用了哪些模型的。所以其实我们是并不是大家产品方向不一样。但是这件事儿我觉得虽然产品方向不一样。因为我们有一些小工具，一些小的小娱乐的那种板块，我可以在主站上那个生成过程大家不用管，但是我可以把那个bruno无banana pro的那个无线生成放在工具里面用吧。然后该挣钱要挣钱，一下测出了百万那种级别，而且还是美金。对。
+</p>
+<p class="transcript-line">
+<span class="time"><strong>[00:49:49]</strong> </span>
+<span class="speaker"><strong>发言人1: </strong></span>
+没事，现在赶紧去买个域名，banana pro 2点com然后现在开始维护，等到2出来的时候，提前。
+</p>
+<p class="transcript-line">
+<span class="time"><strong>[00:49:57]</strong> </span>
+<span class="speaker"><strong>发言人2: </strong></span>
+模型的，尤其是视频模型的红利还是要关注的。就hinks field你想为什么增长这么快？包括其实我觉得大家一些策略性的东西，我来讲，因为以前确实也不是互联网产品相关的这种工作。但是我会把它现在更像我们当年做电影一样，在一个档期里面也有其他的电影也要上映，我们要突出自己的优点。
+</p>
+<p class="transcript-line">
+<span class="time"><strong>[00:50:22]</strong> </span>
+<span class="speaker"><strong>发言人1: </strong></span>
+也不是古典互联网。对你做这件事情我觉得只有好处。对AI产品跟古典互联网产品经理这个打法真的是思路真的是好不一样。
+</p>
+<p class="transcript-line">
+<span class="time"><strong>[00:50:32]</strong> </span>
+<span class="speaker"><strong>发言人2: </strong></span>
+对我感觉也不太一样。就是我我会觉得每天都是新鲜的对。
+</p>
+<p class="transcript-line">
+<span class="time"><strong>[00:50:36]</strong> </span>
+<span class="speaker"><strong>发言人1: </strong></span>
+我们这种古典互联网经济来产品经理来讲，也是每天都是新鲜的。就比如说你刚刚讲要测那个的时候，从一个古典互联网人产品经理的角度，我做营销属性，从营销角度我是很理解的，从产品经理的角度真的是真的是非常吐血。你打这个的时候就把自己其实就变成了一个API token的一个零售商。其实你只是在零售这个批发转零售。
+</p>
+<p class="transcript-line">
+<span class="time"><strong>[00:51:00]</strong> </span>
+<span class="speaker"><strong>发言人2: </strong></span>
+是的，而且你知道吗？后来我发现虽然我们稍微错失了一波收钱的机会，但是确实我们也在产品形态上守住了自己的相应比较专注的一个部分。就像今天别人问你还是问说差异，我说如果你同样一个point输到一个框里，你如果找到第二个产品，能一次性生成六分钟或者十分钟，然后质量会比我好的，速度会比我快的。成本我们再说这个付费是多少，那你能找到另外一个产品也长这样。那我觉得。
+</p>
+<p class="transcript-line">
+<span class="time"><strong>[00:51:32]</strong> </span>
+<span class="speaker"><strong>发言人1: </strong></span>
+OK我待会去试一下。
+</p>
+<p class="transcript-line">
+<span class="time"><strong>[00:51:33]</strong> </span>
+<span class="speaker"><strong>发言人2: </strong></span>
+我给你充积分，你凑个十分钟试试，找找感觉。刚刚我们下午还在另外一个大厂，他们过来聊，我说现场做一个，然后我们一下子做了11分半的片子，在八分钟内就做完了。
+</p>
+<p class="transcript-line">
+<span class="time"><strong>[00:51:47]</strong> </span>
+<span class="speaker"><strong>发言人1: </strong></span>
+因为你是切的是并行的，并行再拼起来。
+</p>
+<p class="transcript-line">
+<span class="time"><strong>[00:51:51]</strong> </span>
+<span class="speaker"><strong>发言人2: </strong></span>
+对对对，我就骑士扑就跑出去了。所以严格意义上讲，我们可能真的就我们可能26年要完成一个真正的movie flow的我们自己的minus时刻。就是让用户晚上把他的一个要求输了以后就睡觉了。第二天早上他电脑里就出现了1个小时的视频。这一个视频把所有东西都做完了，而且一致性和逻辑全部都完成。但是你要允许他在后台一直跑。
+</p>
+<p class="transcript-line">
+<span class="time"><strong>[00:52:18]</strong> </span>
+<span class="speaker"><strong>发言人1: </strong></span>
+对你再找个人再再模仿他的这个用户的表情，再去看一看。哪里不对，可以提前改，反正晚上改的你不知道，只是耗了你的钱而已。
+</p>
+<p class="transcript-line">
+<span class="time"><strong>[00:52:28]</strong> </span>
+<span class="speaker"><strong>发言人2: </strong></span>
+就像剧组一样，这个镜头第一个take不行，我们NG再来一遍，NG再来一遍。对你去检查反复的，然后再去看，然后再去检查，再去看，再去检查，就这个工这个动作反而是能做到。但是什么叫好的？这个结果是我们给的里面的那个我们讲那个know how和和所谓自己的taste和要求，那个部分还是人给的。但是反复干这个活的过程可以让他去干。
+</p>
+<p class="transcript-line">
+<span class="time"><strong>[00:52:54]</strong> </span>
+<span class="speaker"><strong>发言人1: </strong></span>
+我们叫movie flow吗？那你觉不觉得movie这个形态本身有可能是，比如说明年还有没有movie这个形态，一年后是不是大家都变成另外一种形态。比如说而且因为世界模型最近也很火，然后那个pig smas和那个google都出来，就实时可以动了，实时可以交互了，短剧也很火。然后像这种东西越来越多了之后的话，我们来创造一个静态的，不管它是什么东西，然后静态的单向的故事的视觉故事的这种东西。他还会是个大品类吗？他现在肯定是，而且他现在是一个很有影响力的品类。虽然他其实钱方面其实在整个经济里面其实挺小的，但是影响力特别大，社会影响力特别大，但是未来还会是这样，好吧。
+</p>
+<p class="transcript-line">
+<span class="time"><strong>[00:53:45]</strong> </span>
+<span class="speaker"><strong>发言人2: </strong></span>
+我觉得短期内不会那么快速的消解和消亡掉。但是国内中国可能会稍微快，也就稍微可能缩减的会快一些。因为我们去迎接变化会比较快，所以但是好莱坞的稳定，你像netflix今年又加大了10%的投入，在产在内容上，相当于他比去年又又多花了10%再去拍剧集和电影。其实全球上面除了好莱坞以外，其他国家肯定是在缩减。
+</p>
+<p class="transcript-line">
+<span class="time"><strong>[00:54:15]</strong> </span>
+<span class="speaker"><strong>发言人2: </strong></span>
+好莱坞是缩减的速度最慢的，它是一个基本盘，这个基本盘我觉得暂时不会大动，但是你不得不迎接一件事情，就是IO时代的到来。作为一个增量市场，就像我之前跟奈飞，我们在沟通，东亚这边就就亚太这边的人沟通的时候，我说我们要做的是ideal时代的knifings，而不是奈飞本身。因为奈飞本身它就已经在那儿了，你要做的事情就是你继续去拍怪奇物语。对，但是你可以把鱿鱼游戏3，再是两年后把鱿鱼游戏3拍出来。但是你可以把鱿鱼游戏的所有的内容和权益和素材授权给我。我们在IDL里面先让大家玩起来，最终大家还是在两年后等着你那个片子上映。但是你片子上映的时候，我们可以在这边去互动去玩。它是一个新的增量市场，这个东西跟你在线下开一个鱿鱼游戏的游乐场没区别。
+</p>
+<p class="transcript-line">
+<span class="time"><strong>[00:55:11]</strong> </span>
+<span class="speaker"><strong>发言人2: </strong></span>
+你只不过是变成一个线上的AI的时代的数字的游乐场也好，它有世界模型也好，它的技术会更互动，实时用手机端甚至眼镜硬件它全部能配合起来玩。他的体感也很有意思，会更有意趣。但是它一定是一个新兴的内容。
+</p>
+<p class="transcript-line">
+<span class="time"><strong>[00:55:28]</strong> </span>
+<span class="speaker"><strong>发言人2: </strong></span>
+而传统的我讲说电影也好，剧集也好，它不会消亡。但是他会变得越来越金贵，而且他会越来越I那些IP是越来越难产生新的IP了。但是旧的IP它它会越来越越有自己的价值。就像我说可能中国电影，就比如说400亿的票房，可能到了28年29年，中国不需要400部电影，中国可能需要20部。每部卖20亿的电影，它也是400亿票房。那那就是证明这件事情它还会在，但是他会变得是只有很少数人在做的事情。
+</p>
+<p class="transcript-line">
+<span class="time"><strong>[00:56:03]</strong> </span>
+<span class="speaker"><strong>发言人2: </strong></span>
+就跟今天你看音乐剧，音乐剧是个大市场，美国也好，最好的音乐剧也是一个猫什么这些还是。但是你看最厉害的音乐剧的团队和公司就那几个，就是他少了而已。但是可能在当年音乐剧发展的时候，可能有100家、200家，但最后就只有三家、五家，最后经典的剧目就只有那几个，那新的剧目会变得越来越少。
+</p>
+<p class="transcript-line">
+<span class="time"><strong>[00:56:26]</strong> </span>
+<span class="speaker"><strong>发言人2: </strong></span>
+这件事情就是电影一定会跟我说，我孙子有一天肯定是等他跟我一块儿在那发现我在那儿那个投影看着电影的时候，他说你为什么要爱看电影？就跟我小时候问我爷爷，你为什么要听京剧？京剧有什么好听的？
+</p>
+<p class="transcript-line">
+<span class="time"><strong>[00:56:42]</strong> </span>
+<span class="speaker"><strong>发言人1: </strong></span>
+听我太惨了，这个画面我的。
+</p>
+<p class="transcript-line">
+<span class="time"><strong>[00:56:47]</strong> </span>
+<span class="speaker"><strong>发言人2: </strong></span>
+孙子一定会问我，爷爷你为什么要看电影？电影有什么好看的？然后他发现我看的可能是教父，可能是喜剧之王，可能是让子弹飞。然后他。要看这个电影，这个故事有看的那可能我的我的孙子们都是2040年50年出生的了，对吧？那他们那个时候他们接受的信息，可能AI那个时代娱乐方式完全就变掉。
+</p>
+<p class="transcript-line">
+<span class="time"><strong>[00:57:10]</strong> </span>
+<span class="speaker"><strong>发言人2: </strong></span>
+其实你看今年去年年底就阿凡达二在全球没有，阿凡达三在全球没有卖起来，你就很明显了。因为电影已经很长时间没有科技的进步了。因为它作为一个科技型的产品，上一次进步就是3D，就是阿凡达带了，所以他一下子这十几二十年，那你现在中国我们能想象的故事都已经被拍差不多了。就是你还有什么再新鲜的故事让创作者创作。
+</p>
+<p class="transcript-line">
+<span class="time"><strong>[00:57:36]</strong> </span>
+<span class="speaker"><strong>发言人2: </strong></span>
+而且你也很明显发现创作者和观众和市场就这个三角是相互勾结的。观众的速度和对故事的理解，和对娱乐的需求，和现在的主流电影市场的创作者，影视创作者和我们讲市场本身的经济环境。它它它三这三个这三个相互错位，它并不是一个很有机的说整体。我需要你你需要我这三个在彼此不需要他他就会萎缩。但是我觉得他不会消失是肯定的，就是少了。但是这帮人的讲故事能力又在那怎么办呢？所以这个时候就需要movie flow来帮忙给大家搞点新的事儿。
+</p>
+<p class="transcript-line">
+<span class="time"><strong>[00:58:18]</strong> </span>
+<span class="speaker"><strong>发言人2: </strong></span>
+对，就是以前一个导演一年只能做一部电影，你现在可以一年拍十部，你可以拍一个无限长的剧集，永远不用停的剧情。你想更新了就更新一下，就跟任老师没事更新个播客是一样的。我想更新我就播两集，不想更新我就歇两天，对吧？你也可以讲，因为你如果作为一个创作者，你能每天做一个40分钟的美剧一样的质量的内容的话，然后你的素材库都是可复用的。你的创作是有你的memory，有的上有你的上下文的，你就随便。
+</p>
+<p class="transcript-line">
+<span class="time"><strong>[00:58:53]</strong> </span>
+<span class="speaker"><strong>发言人1: </strong></span>
+你想饺子之前拍那个打打打个大西瓜的，一个人窝着窝了多久才拍出这么一个小短片儿。这个才华要是可以拍一个系列多好啊。
+</p>
+<p class="transcript-line">
+<span class="time"><strong>[00:59:03]</strong> </span>
+<span class="speaker"><strong>发言人2: </strong></span>
+10后年轻人们只会越来越有才华，就是我们这个脑子一定是在进步的。有才华的年轻人现在工具又简单了以后，他会跟新的工具在AI时代，跟AI共创了i idio的这个时代会爆发更多的像饺子，像郭帆这样的人。这些人而且他第一天就是AI native原生的，他跟AI是共生的一个状态。他已经不能说是他是一个什么创作者，还是AI是一个什么，他们两个都是在一块儿创作。
+</p>
+<p class="transcript-line">
+<span class="time"><strong>[00:59:32]</strong> </span>
+<span class="speaker"><strong>发言人1: </strong></span>
+他们不需要换脑子，就好像我的宝宝他写AI coding的话，就没有任何的障碍。因为他根本不看一行代码他都看不懂，他根本不知道自己用的什么语言，他用的是中文。然后coding出来的东西，他就是下命令，用语言跟他讲说你要改哪里。他那个ipad连个键盘都没有，这种AI原声他就会从小就从小别人AI只会做这个做那个电台这个游戏，写个电影对吧？未来用movie floor做电影。
+</p>
+<p class="transcript-line">
+<span class="time"><strong>[01:00:00]</strong> </span>
+<span class="speaker"><strong>发言人2: </strong></span>
+我们家小孩就也是十岁，他就用movie floor做做片子，而且他也不打字，键盘也不会，他就直接说话。
+</p>
+<p class="transcript-line">
+<span class="time"><strong>[01:00:09]</strong> </span>
+<span class="speaker"><strong>发言人1: </strong></span>
+打字儿太累了。
+</p>
+<p class="transcript-line">
+<span class="time"><strong>[01:00:10]</strong> </span>
+<span class="speaker"><strong>发言人2: </strong></span>
+对他们来说就是我的需求就是明确提出，所以他其实已经知道怎么提要求，然后作为机器你应该给我什么反馈。天然的。所以年轻一代人他们使用AI的这个对他们来说可能这个事儿就是自然而然的事情。他不是不需要学，感觉完全不需要。
+</p>
+<p class="transcript-line">
+<span class="time"><strong>[01:00:30]</strong> </span>
+<span class="speaker"><strong>发言人1: </strong></span>
+学好的那这个今天聊了很久，最后两个问题一个就是你最近还看电影吗？有没有所谓的电影推荐？
+</p>
+<p class="transcript-line">
+<span class="time"><strong>[01:00:37]</strong> </span>
+<span class="speaker"><strong>发言人2: </strong></span>
+我还真心我跟你讲，我是那种几乎每天会看的，几乎每天我的最大的放松时间就是能能看个电影，我的阅片量基本上就是非常高。
+</p>
+<p class="transcript-line">
+<span class="time"><strong>[01:00:49]</strong> </span>
+<span class="speaker"><strong>发言人1: </strong></span>
+最近有没有值得看的电影？三部。
+</p>
+<p class="transcript-line">
+<span class="time"><strong>[01:00:52]</strong> </span>
+<span class="speaker"><strong>发言人2: </strong></span>
+有两个电影我可以推荐给你，然后我觉得你肯定会觉得好看。一个是netflix刚刚上了一个那谁的本阿弗莱克和马特达蒙的那个叫什么什么两个警察的故事，奈飞的。然后另外一个电影是最近有一个英国的一个电影，讲就是那个呃叫tourist，11个11种病症，好像大概怎么英文怎么说，一个tourist中就是会不停的说脏话，不停的怎么样。但是他是一个英国的年轻人，然后他得了这个病，后来他得到了女王勋章。因为他推广了这个病，他把这个病的群体作为一个推广，它是一种精神类的。
+</p>
+<p class="transcript-line">
+<span class="time"><strong>[01:01:30]</strong> </span>
+<span class="speaker"><strong>发言人1: </strong></span>
+障会与这个好像我看到过这个病，好像有这么个。
+</p>
+<p class="transcript-line">
+<span class="time"><strong>[01:01:33]</strong> </span>
+<span class="speaker"><strong>发言人2: </strong></span>
+类似秽语症之类的，就会突然大叫然后骂。然后对，就大概是那个秽语症但是那个电影很好，那个电影非常温暖。我是正好昨天出差的路上看的。
+</p>
+<p class="transcript-line">
+<span class="time"><strong>[01:01:46]</strong> </span>
+<span class="speaker"><strong>发言人1: </strong></span>
+这果然是专业人士推荐的，都是非常的有情怀的片子。天哪。
+</p>
+<p class="transcript-line">
+<span class="time"><strong>[01:01:52]</strong> </span>
+<span class="speaker"><strong>发言人2: </strong></span>
+我觉得你看完你会对对这件事情有一个特别直观的认知，你会设身处地想。然后我看完那个我最想说的是什么？就是你看有这么多动人的，因为我最爱看的电影都是base on the true story。对，就是它是一个真的故事去去变成电影。那这类电影的力量它本身是存在在那儿的，它本身的power就特别大。如果他又是一个，但实际上世界上有太多这样的故事了，还有好多没有被拍出来。所以我觉得I6的时代，其实这些东西作为记录也好，作为很多事儿它是完全能被拍出来的了。
+</p>
+<p class="transcript-line">
+<span class="time"><strong>[01:02:30]</strong> </span>
+<span class="speaker"><strong>发言人1: </strong></span>
+好的，那最后一个问题，就是刚刚不是推荐的电影吗？跟你不是竞争的那些产品里面，就是你有没有两个，除了玻璃flow你有没有推荐？在我们一共推荐三个产品，第一名b flow好，第二名第三名你会推荐什么AI产品你觉得确实做的不错，而不是说是用户侧觉得做的不错。是你作为一个你也在做AI产品，你觉得这个产品我觉得大家可以看一看，觉得他做的挺不错的，有这样的产品吗？
+</p>
+<p class="transcript-line">
+<span class="time"><strong>[01:02:58]</strong> </span>
+<span class="speaker"><strong>发言人2: </strong></span>
+我就首先推荐，我觉得在音乐层面，苏诺的音乐。
+</p>
+<p class="transcript-line">
+<span class="time"><strong>[01:03:02]</strong> </span>
+<span class="speaker"><strong>发言人1: </strong></span>
+确实不对，他主要是模型太牛逼了，他他他跟他产品关系没那么大了。
+</p>
+<p class="transcript-line">
+<span class="time"><strong>[01:03:08]</strong> </span>
+<span class="speaker"><strong>发言人2: </strong></span>
+他产品设计也很丰富，那苏诺不算。我再推荐两个，一个是其实有一个产品我不知道叫什么名字，是我们朋友那天用的，跟我说的，我觉得那个产品是我特别喜欢的一个，我忘了，回头我搜了名字我再跟你分享。大概他的意思就是不是最近有很多记卡，那个会议记录，就是像飞书出的东西也好，不是大家都在出那个会议记录的东西，那个的卡片大概也是那么一个硬件，也是一个有我忘了他有没有硬件了，但是他我觉得他最终的在会议记录以后，会开完了以后，几个人讨论他出来，他出来的结果是一个思维导图。
+</p>
+<p class="transcript-line">
+<span class="time"><strong>[01:03:47]</strong> </span>
+<span class="speaker"><strong>发言人1: </strong></span>
+它是一个x man，现在都可以出思维导图。
+</p>
+<p class="transcript-line">
+<span class="time"><strong>[01:03:50]</strong> </span>
+<span class="speaker"><strong>发言人2: </strong></span>
+但是我的意思就是他他那个思维导图出的有一个很有趣的让我看到的，就是他去会分析这一个会上各自人不同，说完了以后哪些是有用的，哪些是没用的。然后他说这几个人是有用，这几个人的话没有什么价值，这几个人没有主，这几个人有主见，就是我我我说的，你说他把这件事情往前迈了一步，他给了一个结论给你。不管这个结论有时候是好玩还是不好玩，但他总比只是把记录给你整理成一个思维导图也好，整理完了以后，他并没有再往前迈一步。
+</p>
+<p class="transcript-line">
+<span class="time"><strong>[01:04:26]</strong> </span>
+<span class="speaker"><strong>发言人2: </strong></span>
+就是我喜欢那个产品是他往前又迈了一步。而那个其实对我还给他启发的就是你一定要帮用户想在他前面一步。这样才是一个我觉得AI类产品应该有的思维方式。就永远尽量想在用户再往下他想干嘛的时候，他没说，你就告诉他你是不是要这么干。我说你怎么知道？对我觉得我觉得是那个会议记录产品是我比较欣赏的。
+</p>
+<p class="transcript-line">
+<span class="time"><strong>[01:04:52]</strong> </span>
+<span class="speaker"><strong>发言人1: </strong></span>
+我们内部讨论过一个搞笑的点子和我实际上有一个操作，我们讨论过一个搞笑的会议记录的点子，叫做讨老板欢心。就每个会议会帮你标注出谁是老板，以及哪个时候谁讲的话讨得他欢心，以及下次你在这种环境下可以怎么改。然后就一个搞笑的一个idea叫讨老板欢心。然后还有一个我自己的实际操作，因为我也有确实有你想讲的那个问题，就是我其实不是很在乎那个会议纪要，我是用千问记下来。然后我会把它存在我的i cloud的一个文件夹，我自己那个web coding的一个东西，他会去检查那个文件夹，然后他会去看到有新的文件，他就会去解析。然后它里面有一段是会帮我以一个教练的身份看看。我在这里面的话，他会给我一些我没有看到的东西，看到我的行为。
+</p>
+<p class="transcript-line">
+<span class="time"><strong>[01:05:43]</strong> </span>
+<span class="speaker"><strong>发言人2: </strong></span>
+模式是这个就是年底了年底了拆GPT出来个年终总结。然后我问我说你总结了半天，你觉得我做movie flow这事儿到底靠不靠谱？然后他就又开始很恭维的跟你说，你实在是太棒了。
+</p>
+<p class="transcript-line">
+<span class="time"><strong>[01:05:56]</strong> </span>
+<span class="speaker"><strong>发言人1: </strong></span>
+你的太靠谱了。
+</p>
+<p class="transcript-line">
+<span class="time"><strong>[01:05:57]</strong> </span>
+<span class="speaker"><strong>发言人2: </strong></span>
+你怎么这么靠谱。然后我说你能不能说点真话？他说其实好像又一般，我说你也太没有立场了。对，cloud跟sam就会好一点，就GPT就讨好新人格大爆发那个电影叫tourist与我swear ISWEAR where you我好的。
+</p>
+<p class="transcript-line">
+<span class="time"><strong>[01:06:21]</strong> </span>
+<span class="speaker"><strong>发言人1: </strong></span>
+swear没事，我们今天也聊了很久，我觉得你们还是挺牛逼的，就是可以这么踩点，踩的如此之精准，而且可以这么快把它起来，真的也是蛮不容易的。而且我之前用你们的产品的时候，当时看到那一堆碎碎念的时候，还真的是蛮假装文艺青年。我看到里面什么类似于那个戏剧冲突，什么人物弧光，就感觉他不是在因为我我想象到理工科会设计拆工作流我肯定会对吧？什么首尾这我肯定会。对，这些我都没有任何可以继续看的，这些是个人就会。但是他在里面加了一堆的那种戏剧的东西。当时我就觉得这个还有点意思，这个点不要我怎么想过。对，所以觉得还是蛮有特色的一个产品。对，就是专业的人做出来的话，就是会有专业的那个味道在里面，蛮有意思的。谢谢你过来。
+</p>
+<p class="transcript-line">
+<span class="time"><strong>[01:07:09]</strong> </span>
+<span class="speaker"><strong>发言人2: </strong></span>
+我觉得给大家做梦的那个机会还是挺好。我们真的是如果把这个生产力做到了，给每个人都能对去去把自己的没有讲的故事能讲出来，我觉得还是很有意义。对，而且被传播。
+</p>
+<p class="transcript-line">
+<span class="time"><strong>[01:07:25]</strong> </span>
+<span class="speaker"><strong>发言人1: </strong></span>
+这个升华的我都在想这个是不是让他用来做标题，用AI帮每个人把没有讲出来的故事讲出来。
+</p>
+<p class="transcript-line">
+<span class="time"><strong>[01:07:31]</strong> </span>
+<span class="speaker"><strong>发言人2: </strong></span>
+有很多遗憾，因为我们也支持你用照片就生成。
+</p>
+<p class="transcript-line">
+<span class="time"><strong>[01:07:35]</strong> </span>
+<span class="speaker"><strong>发言人1: </strong></span>
+呵呵这个我就瞬间想歪。
+</p>
+<p class="transcript-line">
+<span class="time"><strong>[01:07:39]</strong> </span>
+<span class="speaker"><strong>发言人2: </strong></span>
+自己上传照片请承担法律责任，跟我没关系。对对对。
+</p>
+<p class="transcript-line">
+<span class="time"><strong>[01:07:45]</strong> </span>
+<span class="speaker"><strong>发言人1: </strong></span>
+你说的那个确实在AI影像的整个发展史里面的话，就是有几波。其中一波就是亲人的复活，然后带来一大波，还有一波的AI影像史上有一波流量的话，大流量就是两个人抱抱，就是两张照片让他们抱抱。这个带来了，我忘了当时是哪几个软件全部都模仿了一个形态，然后就无数的软件模仿，那个使用量的DAU就开始都暴涨。反正这确实是一个在那个时候只能意思一下，你这边的话其实是可以对吧？就是可以完整的一个梦境，而不是一个梦境的一个小碎片。
+</p>
+<p class="transcript-line">
+<span class="time"><strong>[01:08:24]</strong> </span>
+<span class="speaker"><strong>发言人2: </strong></span>
+其实就是希望能做真正最大的一个人类的故事库。对我觉得有机会很好。
+</p>
+<p class="transcript-line">
+<span class="time"><strong>[01:08:32]</strong> </span>
+<span class="speaker"><strong>发言人1: </strong></span>
+谢谢你的时间，然后那个估计也就是一周两周之内就播出来了，谢谢。然后也欢迎谢谢大家来说新年快乐，新年快乐。对，说不定播的时候过年了，大家新年快乐。
+</p>
+<p class="transcript-line">
+<span class="time"><strong>[01:08:45]</strong> </span>
+<span class="speaker"><strong>发言人1: </strong></span>
+然后记得把它把这个AI炼金术转发出去，然后可以去用那个MV flow。然后那个据说播的时候开始打折是吧？对，所以大家可以用一下。虽然他现在比之前小气，但是毕竟那个token也是很贵的对，能能薅1点是一点也是还可以的。之前过于大方，大方到我当时我帮他算账，算的心里一凉。当时觉得说你这个太离谱了，你这样送送的太离谱了，完全算不过来。现在你让我反倒觉得你这个账是算得过来的。对对对，之前那个我真的觉得说太可怕了。
+</p>
+<p class="transcript-line">
+<span class="time"><strong>[01:09:21]</strong> </span>
+<span class="speaker"><strong>发言人2: </strong></span>
+已经算我谢谢。
+</p>
+<p class="transcript-line">
+<span class="time"><strong>[01:09:24]</strong> </span>
+<span class="speaker"><strong>发言人1: </strong></span>
+希望你们尽快到100万用户。
+</p>
+<p class="transcript-line">
+<span class="time"><strong>[01:09:27]</strong> </span>
+<span class="speaker"><strong>发言人2: </strong></span>
+新年快乐，马上过年好，新年快乐，新年快乐。
+</p>
+<p class="transcript-line">
+<span class="time"><strong>[01:09:31]</strong> </span>
+<span class="speaker"><strong>发言人1: </strong></span>
+新年快乐。好，谢谢，拜拜。
+</p>
+<p class="transcript-line">
+<span class="time"><strong>[01:10:02]</strong> </span>
+<span class="speaker"><strong>发言人2: </strong></span>
+你眼睛认出picture。
+</p>]]></content:encoded>
+            <pubDate>Thu, 26 Feb 2026 13:08:00 GMT</pubDate>
+            <guid>69a046e90ec9a57f1254ad82</guid>
+        </item>
         <item>
             <title>AI 转型四步法：个人、组织、产品和商业（上）</title>
             <link>https://www.xiaoyuzhoufm.com/episode/699af4432e799ce070a79bc1</link>
@@ -33236,1202 +34333,6 @@ Every time I cn mp space could look, see my. Family, he is like I some sunday. W
 </p>]]></content:encoded>
             <pubDate>Thu, 22 May 2025 12:17:00 GMT</pubDate>
             <guid>682f17a9a5412dad8c9f37fd</guid>
-        </item>
-        <item>
-            <title>透过硅谷 PC 往事，寻找下一波 AI 浪潮的真机会</title>
-            <link>https://www.xiaoyuzhoufm.com/episode/682c7160a5412dad8caeec9c</link>
-            <description>本期 AI 炼金术，任鑫和徐文浩深入探讨了当前 AI 产品为何大多面向专业消费者 (Prosumer) 市场，并从个人电脑 (PC) 兴起的历史中寻找 AI 时代创业的真实机会和发展脉络。他们认为，相比移动互联网，PC 时代的发展轨迹对理解当前的 AI 浪潮更具参考价值。
-时间线：
-00:00:30 被低估的 AI 游戏新机遇：AI 的个性化互动能力在游戏应用中潜力巨大，可能开创新的游戏媒介。
-00:01:08 核心议题：为何当前的 AI 产品主要瞄准 Prosumer 市场，而非大众消费者？
-00:05:51 Prosumer AI 产品主导市场：目前盈利和知名的 AI 应用多为生产力工具，面向设计师、开发者等专业人群。
-00:06:08 消费级 AI 产品的盈利困境：与生产力工具相比，纯娱乐或日常消费类 AI 应用更难让用户付费。
-00:07:06 中国市场特色：AI 填补搜索空白：豆包等国内 AI 产品火爆，部分原因是填补了现有搜索引擎未能满足的用户需求。
-00:10:06 AI 浪潮 vs. PC 革命：本轮 AI 更像 PC 的诞生，提供了前所未有的“智能”，而非仅仅是“便捷”。
-00:10:48 回顾 PC 早期黄金软件：文字处理、电子表格、数据库、CAD 等生产力工具是 PC 时代的首批杀手级应用。
-00:14:28 AI 内容创作的“上限”：AI 生成的内容虽已超越普通水平，但与顶级创作者相比仍有差距，难以满足被高质量内容“惯坏”的消费者。
-00:16:27 Character.AI 类产品：新时代的游戏：强调 AI 带来的互动性是其核心价值，而非单纯的内容精美度。
-00:19:32 AI 商业模式的探索之路：如同早期搜索引擎和短视频，AI 应用也在寻找可持续的商业模式。
-00:21:41 PC 时代的“消费级”启示：学习软件和成人内容曾是早期 PC 消费市场的重要组成部分。
-00:25:47 AI 创业的阶段性重点：未来几年，Prosumer 和生产力工具仍是主流；大众消费级 AI 或需更长时间成熟。
-00:26:23 AI 编程工具：当前的营收高地：类比早期 Borland，GitHub Copilot 等 AI 编程辅助工具已展现强大吸金能力。
-00:33:01 PC 时代的“内容付费”：科技杂志与教程：PC 普及催生了大量指导用户如何使用新技术的杂志和书籍。
-00:34:39 AI 时代的“新杂志”：内容与社区：AI 工具公司应重视内容创作和社区建设，帮助用户更好地使用产品，这可能成为新的竞争壁垒。
-00:37:00 PC 外设的繁荣与 AI 硬件的机遇：打印机、声卡等 PC 外设的兴起，对应着当前 AI 录音笔、AI 芯片等硬件机会。
-00:38:27 技术浪潮的演进顺序：生产力工具 -&gt; 游戏 -&gt; 信息与教育内容。
-00:42:53 AI 时代呼唤“新一代 Excel 教程”：市场缺乏帮助普通职场人士在工作场景中有效使用 AI 的优质内容。
-00:50:27 AI 与下一代教育：孩子们已开始利用 AI 学习编程等技能，引发对传统教育方式的反思。
-00:51:51 AI 使用的代际差异：不同年龄段用户对 AI 的理解和使用方式迥异，年轻人将其视为“操作系统”。
-01:01:47 历史借鉴：AI 更像 PC 而非移动互联网：创业者应更多从 PC 时代而非移动互联网时代吸取经验。
-01:02:26 任鑫的 AI 研究心法：分享如何通过“人机协同”进行深度研究，核心在于将个人偏好与上下文“喂”给 AI。
-01:05:25 复古计算机的启示：“阳光之下并无新鲜事”，回顾早期计算机发展史能带来诸多灵感。
-现在就订阅 AI 炼金术，与任鑫、徐文浩一起，从历史的视角洞察 AI 的未来！别忘了在评论区留下你的想法，催更徐文浩老师的系统性分享！
-欢迎订阅「AI 炼金术」的播客，以及同名公众号、视频号
-「AI 炼金术」是一档由徐文浩和任鑫——两位多年老友、AI 领域的资深从业者——打造的播客。这里是探讨 AI 和创业的理想聚集地，我们会邀请一线创业者、产品产品和科研学者，深入探讨 AI 如何重塑行业、变革生活，以及如何从 0 到 1 打造 AI 原生产品。
-我们的讨论会涵盖多个话题：从 AI 如何改变世界的未来，到如何找到 AI 创业的 PMF；从如何利用 AI 降本增效，到怎样将 AI 技术融入日常生活……如果你对 AI、产品、创业感兴趣，这里有满满的干货和一线实战经验，欢迎关注并推荐给你的朋友，共同探索未来的无限可能！
-商务合作：公众号 「AI炼金术 」菜单栏中【商务】获取联系方式
-节目主理人：
-徐文浩：某AI创业公司联合创始人，正在面向全球市场开发AI应用。连续创业者，参与过多家创业公司，拼多多早期员工。广告科技公司MediaV的算法和数据负责人，后被360收购。离开后加入成立不到1个月的拼多多。后创办了基于AI的海外客服聊天机器人公司 BotHub.AI 和 海外社交电商平台 Bukito 都宣告失败。2023年再次下场创业。
-任鑫：云九资本合伙人，主要在投资和孵化面向全球市场的 AI 应用。之前是连续创业者，曾经打造“今夜酒店特价”用移动互联网应用特价销售酒店尾房；被京东并购后内部创业“京东到家”开展本地即时零售业务；2015 年再次创业 Get 探索对话式人工智能助理成为先烈；2021 年出售公司，2023 年重新回到 AI 世界。
-BGM：
-片头：Shortwire - Reconfig
-片尾：Brett - Electric</description>
-            <content:encoded><![CDATA[<h1>转写链接</h1>
-<link>https://tongyi.aliyun.com/efficiency/doc/transcripts/pev8qdbgb4bw9kga</link><br>
-<h1>节目摘要</h1>
-<div class="summary">本次讨论回顾了个人计算机时代软件发展的重要性，并强调了创新和跨年代学习的价值，认为80年代的创新思维对当前AI浪潮有重要启示。讨论者提及，尽管AI在内容创造和个性化互动方面已有显著进步，但在某些高端内容创作领域，AI仍有限制。他们讨论了AI作为新型媒介的潜力，特别是在个性化服务和用户体验增强方面的未来应用。此外，讨论还涵盖了AI在教育、编程学习和个性化内容推荐等方面的应用前景，同时指出AI在理解人类意图和提供深层次知识支持方面的不足。最后，讨论强调了探索AI创新应用的重要性，并指出了实现这一目标的技术和市场挑战，表达了通过定期讨论和邀请嘉宾参与以探索更多关于AI及其他话题见解的愿望。</div><br>
-<h1>章节速览</h1>
-<div class="chapters">
-<div class="chapter-item">
-<span class="time"><strong>[00:00:00]</strong> </span>
-<span class="chapter-title"><strong>AI在内容创作和互动媒介的潜力与挑战</strong></span>
-<div class="chapter-summary">对话讨论了AI在内容创作方面尚未达到人类最优质创作者的水平，尤其是在满足顶级消费者需求方面存在差距。尽管AI可能在某些方面超越了90%的创作者，但它仍难以触及最顶尖的1%。此外，提出了AI不仅仅是内容创造工具，更可能是一种新的媒介，尤其是通过个性化互动在游戏类应用中展现潜力。讨论还提到了市场上AI产品的现状，包括免费开放使用的趋势，以及与顶尖产品相比存在的技术差距。</div>
-</div>
-<div class="chapter-item">
-<span class="time"><strong>[00:02:32]</strong> </span>
-<span class="chapter-title"><strong>探讨AI比价工具及AR产品在消费市场的应用与推广</strong></span>
-<div class="chapter-summary">对话围绕在消费市场中利用AI技术进行比价的挑战与尝试展开，讨论了在购买如PS5等商品时，比价工具在不同电商平台上的使用限制和难度。此外，对话还探讨了当前AR产品，特别是面向设计师或具有特定需求的用户的推广策略和市场定位，以及这些产品在普通消费者中的接受度。同时，讨论还提到了某些AR产品的推广方式，包括是否通过付费推广来提高知名度。</div>
-</div>
-<div class="chapter-item">
-<span class="time"><strong>[00:05:50]</strong> </span>
-<span class="chapter-title"><strong>生产力工具与娱乐产品的市场差异</strong></span>
-<div class="chapter-summary">对话讨论了消费类产品，特别是面向消费者的生产力工具与娱乐产品在市场上的不同表现和收益。提到生产力工具因其实用性和对用户成果的直接贡献，更容易获得用户付费，如录播课软件Riverside。相比之下，娱乐产品如Carrot AI，虽然有需求，但用户付费意愿较低。此外，讨论还涉及国内外市场的差异，指出国内某些产品火热的原因在于填补了特定场景的空白，如搜索类产品，而海外尤其是发达国家的市场，这类需求已经被较好满足。</div>
-</div>
-<div class="chapter-item">
-<span class="time"><strong>[00:08:18]</strong> </span>
-<span class="chapter-title"><strong>通过比较电商价格和优惠活动吸引普通用户</strong></span>
-<div class="chapter-summary">对话围绕通过比较不同电商平台的价格和优惠活动来吸引普通用户展开。讨论者提到国内可以通过一些聊天行为吸引用户，从而提升用户黏性。他们分享了一个报告的例子，展示了通过比较京东、拼多多等平台的价格和优惠活动，从而推荐最佳购买渠道的策略。此外，还提到了实际操作中遇到的问题，比如价格准确性难以保证，以及商品链接指向错误等。</div>
-</div>
-<div class="chapter-item">
-<span class="time"><strong>[00:10:06]</strong> </span>
-<span class="chapter-title"><strong>从PC时代到AI：生产力工具与生活软件的演变</strong></span>
-<div class="chapter-summary">对话探讨了从个人电脑（PC）时代到现代AI技术的发展，特别强调了软件应用的转变。早期PC时代，最流行的软件是生产力工具如文字处理软件（如WordStar）和电子表格软件（如Excel），以及游戏和系统软件。随着技术进步，现代软件更多地聚焦于生活相关应用，如外卖、打车软件以及社交媒体平台，这些软件满足了个人生活和娱乐需求。对话指出，尽管AI技术提供了更强大的智能，但它目前还未像PC时代的生产力工具那样，广泛深入到日常生活的各个方面。</div>
-</div>
-<div class="chapter-item">
-<span class="time"><strong>[00:13:14]</strong> </span>
-<span class="chapter-title"><strong>从IBM的历史到AI在现代内容创作中的应用</strong></span>
-<div class="chapter-summary">对话从IBM的早期业务谈起，延伸到大型计算机和PC在统计和会计领域的应用，进一步讨论了AI在现代内容创作中的角色。讨论中提到了PC的普及使得个人和小公司能够使用电子表格软件进行财务管理，与之类似，现代AI工具如Riverside被广泛应用于个人和专业内容创作，提高了效率和效果。同时，也分析了AI尚未达到顶尖人类创作者水平，导致其在内容消费端（如小红书、抖音等平台）的应用效果有限，因为消费者通常接触到的是精选的优质内容。因此，尽管AI能超越大部分创作者，但它尚未达到能超越最顶尖1%创作者的水平。</div>
-</div>
-<div class="chapter-item">
-<span class="time"><strong>[00:16:27]</strong> </span>
-<span class="chapter-title"><strong>新时代游戏：互动性与用户参与</strong></span>
-<div class="chapter-summary">讨论指出，游戏的吸引力不仅仅在于其制作的精美程度，更重要的是它提供了互动性，让玩家能够通过行为获得反馈。早期文字冒险类游戏虽在制作上可能不如小说、电视剧或电影，但因其互动性而显得好玩。未来，类似character AI等产品的发展空间巨大，它们本质上是新时代的游戏，通过提供互动反馈来吸引用户，而非仅限于情感陪伴应用。早期游戏的用户群体虽小，但随着技术进步和市场需求的扩大，这类互动式游戏将吸引更多的用户。</div>
-</div>
-<div class="chapter-item">
-<span class="time"><strong>[00:17:57]</strong> </span>
-<span class="chapter-title"><strong>AI游戏产品的创新与商业挑战</strong></span>
-<div class="chapter-summary">讨论集中在AI在游戏产品中的应用及其需要达到的精美程度，以及AI作为一种新媒介的互动性和定制化能力。指出尽管AI技术不断进步，但其在游戏产品中的应用尚未完全打开新的维度，如个性化互动。此外，AI产品面临找到商业闭环的挑战，如同早期搜索引擎和短视频平台在商业模式上的探索。</div>
-</div>
-<div class="chapter-item">
-<span class="time"><strong>[00:20:43]</strong> </span>
-<span class="chapter-title"><strong>技术革命带来的核心能力与商业化潜力</strong></span>
-<div class="chapter-summary">讨论集中在技术革命，特别是4G带宽增加带来的能力变化，例如低成本消费多媒体内容，以及这种能力如何影响商业化和产品创新。同时，提到了从技术能力到实际应用和商业化之间可能存在的时间差，以坦克在闪电战前的使用为例，说明了即使技术存在，其最大潜力的发现和应用也需要时间。</div>
-</div>
-<div class="chapter-item">
-<span class="time"><strong>[00:21:41]</strong> </span>
-<span class="chapter-title"><strong>科技发展对消费级软件的影响与未来展望</strong></span>
-<div class="chapter-summary">对话围绕科技发展对消费级软件的影响展开，特别提及了生产力工具和游戏两大应用类别，以及色情、学习软件等特定类目的历史地位。讨论指出，随着科技的进步，尤其是AI的出现，学习如何使用AI可能成为巨大的市场。同时，对话也分析了不同科技时代消费级应用的分发方式，如磁盘、电话线拨号等，以及这些变化对用户习惯和应用市场的影响。最后，讨论认为未来几年内，专注于生产力工具和专业消费者（pro-consumer）的应用将是合理的选择。</div>
-</div>
-<div class="chapter-item">
-<span class="time"><strong>[00:26:06]</strong> </span>
-<span class="chapter-title"><strong>AI技术在不同领域的应用与价值</strong></span>
-<div class="chapter-summary">对话探讨了AI技术在不同领域的应用及其核心价值。指出AI在消费类产品的直接价值有限，尤其是在非高互动游戏领域。通过类比，讨论了AI技术与早期PC时代的编程工具（如Blend）相似，强调了AI作为新一代编程工具在提升特定领域生产力方面的重要性。同时，分析了AI技术在to B和to C产品上的差异，指出在to C产品中，AI带来的5%或50%的提升可能不明显，而在to B产品中，哪怕是1%的提升也能被下游用户显著感知。</div>
-</div>
-<div class="chapter-item">
-<span class="time"><strong>[00:29:29]</strong> </span>
-<span class="chapter-title"><strong>消费者与企业级产品需求差异分析</strong></span>
-<div class="chapter-summary">讨论了消费者（to C）和企业级（to B）产品在需求和效用评估上的显著差异。在日常消费场景中，产品性能的提升可能超出了普通用户的实际需求和感知，而企业级产品在甲方的严格评估下，性能和效用的提升显得更为重要和明显。此外，还提到了技术进步如何通过提升可达性（accessibility）来改变消费者行为，如在线购书、电子书阅读、打车和外卖服务等。</div>
-</div>
-<div class="chapter-item">
-<span class="time"><strong>[00:31:16]</strong> </span>
-<span class="chapter-title"><strong>AI时代的内容社区与教育价值</strong></span>
-<div class="chapter-summary">对话围绕AI技术在日常生活中的应用及其带来的便利性展开，强调了AI技术在减少用户麻烦和提升体验方面的作用，而非仅仅在技术层面的提升。讨论进一步延伸到AI时代的创业机会，特别是通过内容和社区建设来教育用户如何有效利用AI工具，如通过出版杂志、书籍和利用KOL（关键意见领袖）进行教育和推广。这表明在AI普及的过程中，教育用户如何使用这些工具变得尤为重要，而内容创作和社区建设成为了实现这一目标的关键策略。</div>
-</div>
-<div class="chapter-item">
-<span class="time"><strong>[00:36:59]</strong> </span>
-<span class="chapter-title"><strong>从PC时代到AI：外设与游戏的新机遇</strong></span>
-<div class="chapter-summary">对话探讨了计算机和AI时代的技术发展及其带来的机会，特别是围绕外设和游戏的应用。讨论中提到，起初是生产力工具如Word的普及，随后是游戏和教育软件的兴起。随着技术进步，AI能力的应用，如会议记录录音笔等外设，也呈现出新的机会。特别指出，利用AI进行个性化互动的游戏类应用是一个被低估的机会，强调了游戏不仅是声光电效果的提升，更重要的是互动性和角色扮演的维度。最后，讨论了生产力工具之后信息分发需求的出现，以及伴随的杂志和教育软件的兴起。</div>
-</div>
-<div class="chapter-item">
-<span class="time"><strong>[00:43:23]</strong> </span>
-<span class="chapter-title"><strong>探讨AI内容需求与市场缺口</strong></span>
-<div class="chapter-summary">对话中讨论了当前AI内容市场的缺口，特别是面向普通用户和知识工作者的高质量、实用内容的缺乏。参与者提出，现有的AI自媒体主要面向两类用户：对AI有深度了解的专家和小白用户，而缺乏针对有一定知识基础但非专家的普通用户的内容。他们认为，市场上需要的是能帮助普通人更好地在工作场景中应用AI的入门级媒体，以及提供实用技巧和教程的高质量内容。同时，讨论中还提到，当前许多AI自媒体的内容侧重于资讯和PR，而缺少实操性和针对性，建议关注和学习那些能提供实用价值的课程和内容制作方式，以填补市场上的这一重要空白。</div>
-</div>
-<div class="chapter-item">
-<span class="time"><strong>[00:49:41]</strong> </span>
-<span class="chapter-title"><strong>AI在教育及编程学习中的应用与影响</strong></span>
-<div class="chapter-summary">对话围绕AI在教育尤其是编程学习中的应用展开，讨论了不同年龄段的人如何使用AI，以及AI如何改变学习编程的方式。提及了付费订阅服务和播客网络，强调了AI在创造价值和内容定位上的重要性。此外，还探讨了儿童教育市场中AI的作用，以及使用AI与传统学习方法的对比，反映出对于AI在教育中应用的困惑和期望。</div>
-</div>
-<div class="chapter-item">
-<span class="time"><strong>[00:53:59]</strong> </span>
-<span class="chapter-title"><strong>AI总结功能与人类阅读习惯的探讨</strong></span>
-<div class="chapter-summary">对话围绕AI总结功能的使用和人类阅读习惯展开，提出阅读原文对于调整个人大脑参数的重要性，以及AI总结可能无法满足个性化需求的问题。讨论中强调了阅读带来的灵感和兴趣导向的学习比单纯获取结论更有价值，同时指出了AI在教育领域中通过高质量语料库和兴趣线学习的潜力。此外，还探讨了AI作为生产力工具的教育机会，以及在儿童和青少年教育中的应用前景。</div>
-</div>
-<div class="chapter-item">
-<span class="time"><strong>[00:59:16]</strong> </span>
-<span class="chapter-title"><strong>AI编程和硬件设备的市场竞争与机会</strong></span>
-<div class="chapter-summary">对话深入探讨了当前AI编程市场的激烈竞争以及与90年代软件开发巨头如微软、Oracle的对比。提及了AI编程作为巨大市场的机会和挑战，同时讨论了硬件设备围绕AI模型输入输出的潜力。此外，还对比了移动互联网与PC时代的产品开发思路，提出了对过度依赖移动互联网模式的疑问，强调可能需要从PC时代吸取更多经验来指导AI时代的产品创新。</div>
-</div>
-<div class="chapter-item">
-<span class="time"><strong>[01:02:27]</strong> </span>
-<span class="chapter-title"><strong>如何有效利用深度研究进行高效学习和创作</strong></span>
-<div class="chapter-summary">对话讨论了如何通过深度研究（deep research）来提升理解和创作效率，包括筛选专家观点、做摘抄、整理笔记并形成文章，再将这些内容反馈给深度研究以提高后续研究的质量。此外，还探讨了与AI互动时的挑战，如如何有效传达个人偏好和上下文，以及AI在理解和响应上的长记忆需求。最后，提到了复古计算机爱好者对历史软件和产品的研究，以寻找灵感和创新点。</div>
-</div>
-<div class="chapter-item">
-<span class="time"><strong>[01:06:20]</strong> </span>
-<span class="chapter-title"><strong>通过硅谷PC往事探讨AI浪潮中的机会</strong></span>
-<div class="chapter-summary">对话围绕通过回顾硅谷PC时代的往事来寻找在当前AI浪潮中的新机会展开。讨论者认为，回顾过去的技术和产品设计可以激发新的灵感和思路，特别是在解决信息化问题和对未来进行畅想时。他们还强调了跳出互联网和移动互联网塑造的思维框架的重要性，并提到通过观察那些未受这些技术影响的人们的想法来打破想象力的界限。最后，讨论者鼓励听众留言和转发，以便获得更多反馈并促进更系统化的内容更新。</div>
-</div>
-</div><br>
-<h1>问题回顾</h1>
-<div class="qa-item">
-<div class="question"><strong>Q:</strong> AI现在是否能达到人类最优质创作者的水平？</div>
-<div class="answer"><strong>A:</strong> 目前AI还未能达到人类最优质创作者的水平，例如在小红书上的内容创作上，虽然可能超过90%的人，但仍然达不到前10%的水准。</div>
-</div>
-<div class="qa-item">
-<div class="question"><strong>Q:</strong> 对于利用AI个性化互动能力去做游戏类应用的机会有何看法？</div>
-<div class="answer"><strong>A:</strong> 认为这是一个被低估的机会，即利用AI的个性化互动能力去做游戏类应用具有潜力。</div>
-</div>
-<div class="qa-item">
-<div class="question"><strong>Q:</strong> AIGC（AI生成内容）的本质是什么？</div>
-<div class="answer"><strong>A:</strong> AIGC不仅仅是创造内容，更是一种新的媒介形式，比如游戏和电影的不同之处在于互动性。</div>
-</div>
-<div class="qa-item">
-<div class="question"><strong>Q:</strong> AI产品主要针对pro consumer市场的现象为何？</div>
-<div class="answer"><strong>A:</strong> 徐老师对此感到好奇，并讨论了AI产品目前主要瞄准pro consumer市场的现象。</div>
-</div>
-<div class="qa-item">
-<div class="question"><strong>Q:</strong> Venus这款产品的使用情况如何？</div>
-<div class="answer"><strong>A:</strong> Venus开放免费使用，但实际上是有额度限制的，并非完全免费。对于其能否解决复杂比价场景的问题，暂时还未得到确切答案。</div>
-</div>
-<div class="qa-item">
-<div class="question"><strong>Q:</strong> Matter 4产品定位及市场接受度如何？</div>
-<div class="answer"><strong>A:</strong> Matter 4是一个付费产品，讨论中对其作为pro consumer还是consumer产品存在争议，但实际使用中更多像是面向设计师或有特定需求的用户。</div>
-</div>
-<div class="qa-item">
-<div class="question"><strong>Q:</strong> 当前AI产品面向consumer市场的现状如何？</div>
-<div class="answer"><strong>A:</strong> 市场上面向consumer的AI产品相对较少，大部分以pro consumer或企业级产品为主，同时提及了国内外一些热门出圈产品，如Love Art等，它们往往定位为设计师或有特定需求的用户群体。</div>
-</div>
-<div class="qa-item">
-<div class="question"><strong>Q:</strong> 国内AI产品火爆的原因有哪些？</div>
-<div class="answer"><strong>A:</strong> 国内AI产品火爆除了因为资金充足外，还填补了国内搜索场景的空白，满足了大量用户对于高质量搜索服务的需求，同时也通过各种方式吸引和变现用户流量。</div>
-</div>
-<div class="qa-item">
-<div class="question"><strong>Q:</strong> 在生产力工具方面，为什么PC能够发展起来？AI技术对生产力工具的发展有何影响？</div>
-<div class="answer"><strong>A:</strong> PC发展起来的本质原因是大量B端需求，尤其是中小型企业（SMB）对计算和数据分析工具的需求。在此之前，大型机虽然存在但主要用于集中处理，而个人电脑的出现让小公司也能负担得起并使用电子表格软件等生产力工具进行日常办公和数据分析。AI技术提升了效率和效果，例如AI画图技术的进步，许多中位数创作者也能通过AI剪辑工具提高创作水平。但在内容消费端，AI尚未达到顶级创作者的水准，因此很难创作出超越顶级内容的产品。不过，AI作为新的媒介形式，能够提供互动性体验，类似游戏与电影的区别，未来有可能打开新的维度。</div>
-</div>
-<div class="qa-item">
-<div class="question"><strong>Q:</strong> AI在消费级应用上为何目前未能取得突破？</div>
-<div class="answer"><strong>A:</strong> AI在消费级应用上的突破需要等待关键技术的成熟和商业模式的探索，就像早期互联网技术也需要一定时间才找到商业闭环一样。此外，AI若要在消费级应用中取代或超越人类创作者，可能还需在精美程度和个性化定制上实现重大突破。</div>
-</div>
-<div class="qa-item">
-<div class="question"><strong>Q:</strong> 新技术出现时，会出现哪些典型的消费级软件品类？</div>
-<div class="answer"><strong>A:</strong> 新技术出现时常会催生新的消费级软件品类，如学习软件，利用多媒体形式帮助用户学习各种技能，包括使用AI的软件也会成为一个巨大的类别。同时，历史上的例子如小霸王学习机和各类多媒体教育软件也表明了学习类应用在新技术推动下的巨大潜力。</div>
-</div>
-<div class="qa-item">
-<div class="question"><strong>Q:</strong> 在八九十年代，消费类软件产品是否有所突破，比如通过磁盘分发内容？</div>
-<div class="answer"><strong>A:</strong> 当时确实有一些消费类应用通过磁盘进行分发，例如菜谱类应用或女性时尚应用，它们会寄送光盘给用户。但与现在相比，那时用磁盘作为内容分发的成本相对较低，且吸引力有限，未能形成类似今天to c的伟大应用。</div>
-</div>
-<div class="qa-item">
-<div class="question"><strong>Q:</strong> 是否认为未来五年会有针对消费类用户的伟大应用出现，目前阶段应聚焦于生产力和pro consumer方向？</div>
-<div class="answer"><strong>A:</strong> 是的，线性来看，五年后可能会有to c的伟大应用，但现在更适合把目标瞄准生产力和pro consumer领域。</div>
-</div>
-<div class="qa-item">
-<div class="question"><strong>Q:</strong> AI技术在消费类产品上的应用，相较于游戏和其他高互动性产品的互动能力如何？</div>
-<div class="answer"><strong>A:</strong> 目前AI在消费类产品上的互动能力不如游戏等高互动性产品匹配，但在生产力工具方面有较大潜力。</div>
-</div>
-<div class="qa-item">
-<div class="question"><strong>Q:</strong> AI技术的进步如何影响to c和to b产品？AI技术提升对于to c产品来说，为何感知不明显？</div>
-<div class="answer"><strong>A:</strong> AI技术进步对to c产品感知不强，因为大部分日常消费品已能满足基本需求；但在to b场景中，如工业制造等，即使1%的进步也会被下游感知并带来显著效果。to c产品往往质量已超过用户评估水平，只有在to b环境下，甲方或用户自身在衡量工作效果时才会感知到AI带来的提升。</div>
-</div>
-<div class="qa-item">
-<div class="question"><strong>Q:</strong> AI技术对to c产品改善的主要体现在哪里？</div>
-<div class="answer"><strong>A:</strong> 主要体现在提升accessibility，如搜索、购物、打车等服务的便捷性，改变了用户的使用体验，而不是在技术细节上的质量提升。</div>
-</div>
-<div class="qa-item">
-<div class="question"><strong>Q:</strong> AI如何在内容创作和社区建设方面发挥作用？</div>
-<div class="answer"><strong>A:</strong> AI可以通过内容创作和社区建设提供竞争优势，例如通过出版书籍、杂志等形式，教育用户如何更好地使用产品，并通过KOL（关键意见领袖）聚合社区内容，帮助用户更好地理解和利用技术工具。</div>
-</div>
-<div class="qa-item">
-<div class="question"><strong>Q:</strong> 在计算机领域的早期，有哪些围绕外设的生态例子？</div>
-<div class="answer"><strong>A:</strong> 当时最常见的外设是打印机，用于将文档打印给编辑人员。除了鼠标键盘这类基本输入设备，还有调制解调器用于通过电话线上网，以及声霸卡和图形加速卡等。现在这一轮中，出现了许多围绕AI能力的外设，如会议记录的录音笔等。</div>
-</div>
-<div class="qa-item">
-<div class="question"><strong>Q:</strong> 是否可以推测出当前可以开始做哪些外设产品？</div>
-<div class="answer"><strong>A:</strong> 从历史角度看，第一波机会是提高生产力的工具，比如专业程序员使用的开发工具；第二波机会则是围绕这些工具出现的游戏和其他应用，其中游戏品类最终发展成为比教育类软件大得多的市场。</div>
-</div>
-<div class="qa-item">
-<div class="question"><strong>Q:</strong> 为什么认为利用AI的个性化互动能力去做游戏类应用是个被低估的机会？</div>
-<div class="answer"><strong>A:</strong> 因为人类对新鲜、刺激且具有不确定性的声光电体验有很大的需求，通过虚拟世界提供的游戏体验是一个真实的大机会，尽管目前技术限制导致其尚未普及，但随着技术进步，游戏可能会迎来新的维度，比如交互性。</div>
-</div>
-<div class="qa-item">
-<div class="question"><strong>Q:</strong> 游戏行业的发展顺序是怎样的？</div>
-<div class="answer"><strong>A:</strong> 游戏行业首先从生产力工具发展起来，然后是同步或稍晚出现的游戏产品，如早期的文字冒险类游戏，虽然互动性受限，但随着技术发展，游戏会逐渐增加更多交互元素，并且能够吸引更广泛的用户群体。</div>
-</div>
-<div class="qa-item">
-<div class="question"><strong>Q:</strong> 在当前内容生产过剩的情况下，机会是什么？</div>
-<div class="answer"><strong>A:</strong> 现在缺少面向普通用户尤其是有付费能力的专业人士的高质量内容。例如，需要一个能够帮助用户有效利用AI在工作场景中的杂志或媒体平台，提供类似Excel技巧教程的内容，而不是仅限于资讯和PR。</div>
-</div>
-<div class="qa-item">
-<div class="question"><strong>Q:</strong> 当时你购买付费订阅时的情况是怎样的？</div>
-<div class="answer"><strong>A:</strong> 我是因为当时参与了付费订阅的bundle购买，由于包含了一些后来增加的内容，我觉得自己亏了。购买时只包含了capacity，而没有cost、curse等模块。</div>
-</div>
-<div class="qa-item">
-<div class="question"><strong>Q:</strong> 这个播客网络的内容定位是什么样的？</div>
-<div class="answer"><strong>A:</strong> 内容定位是关于如何利用AI来提升工作效率，不局限于变现，而是一个关于各行各业如何有效使用AI创造价值的探讨。</div>
-</div>
-<div class="qa-item">
-<div class="question"><strong>Q:</strong> 儿童教育市场在AI应用方面有什么变化吗？</div>
-<div class="answer"><strong>A:</strong> 现在儿童学习编程的方式与30年前完全不同，孩子们可以利用AI生成代码，比如通过类似game化的工具如code Spark等进行学习。</div>
-</div>
-<div class="qa-item">
-<div class="question"><strong>Q:</strong> 对于儿童编程教育中是否应该完全依赖AI还是先掌握基本概念，您有什么看法？</div>
-<div class="answer"><strong>A:</strong> 这是一个纠结的问题，我们可能需要思考是否应该完全让孩子们使用AI还是先打好基本概念。我对此有些犹豫，因为担心完全依赖AI可能不利于他们理解底层逻辑。</div>
-</div>
-<div class="qa-item">
-<div class="question"><strong>Q:</strong> 您提到每一代人使用AI的方式不同，能否分享一下相关例子？</div>
-<div class="answer"><strong>A:</strong> 在网上看到一个例子，每一代人对AI的使用方式各异，年轻人往往将AI当作一切，而中年人可能当作顾问，老年人则更多当作工具。比如有个小孩用AI编程，虽然全靠AI生成代码，但跑通率却很高，这引发了关于教育方式是否应该向小朋友那样更自由地利用AI的讨论。</div>
-</div>
-<div class="qa-item">
-<div class="question"><strong>Q:</strong> AI的summarize功能在阅读原文时的作用是什么？</div>
-<div class="answer"><strong>A:</strong> 我很少用AI的summarize功能，因为我认为阅读原文对我而言是一个理解内容、调整自己认知的过程。不过，对于某些人来说，他们可能更需要AI帮助他们快速获取关键信息或灵感，而非精确总结。</div>
-</div>
-<div class="qa-item">
-<div class="question"><strong>Q:</strong> 是否赞同AI在教育中应该围绕用户的兴趣进行深度学习训练？</div>
-<div class="answer"><strong>A:</strong> 是的，赞同AI在教育中的训练应该更加个性化，围绕用户的兴趣点进行深度学习，而非仅仅提供答案。这样可以帮助用户在感兴趣的领域内挖掘更深的内容，而不仅仅是搭建体系。</div>
-</div>
-<div class="qa-item">
-<div class="question"><strong>Q:</strong> 对于AI coding市场的看法如何？</div>
-<div class="answer"><strong>A:</strong> AI coding市场是一个巨大的机会，尤其随着AI能力的发展，会有越来越多围绕AI输入输出设备的硬件机会出现。目前市场竞争激烈，但也存在随着技术进步不断涌现的新机遇。</div>
-</div>
-<div class="qa-item">
-<div class="question"><strong>Q:</strong> 在移动互联网时代，我们是否过度依赖了其套路，应该从核心商业模式去思考产品？您是否认为跨年代参考历史案例对现代产品设计有帮助？</div>
-<div class="answer"><strong>A:</strong> 是的，我有一个疑问，是否应该从移动互联网的核心商业模式出发设计产品，而不是仅仅依赖分发渠道如f store。虽然所有移动互联网的增长手段对产品都有参考价值，但产品思路是否需要模仿移动互联网，这是一个值得探讨的问题。非常赞同，从PC时代至今，有很多创新的产品和想法被遗忘，而这些早期的产品设计和信息化尝试可能为我们提供新的灵感和解决方案。建议大家回溯历史，参考那些未经历过互联网和移动互联网时代的人们对于未来科技的畅想和创新。</div>
-</div>
-<div class="qa-item">
-<div class="question"><strong>Q:</strong> 您是如何有效利用deep research这个工具的？</div>
-<div class="answer"><strong>A:</strong> 我会筛选出我认为比较牛逼的100个人物或资料，了解他们的主要观点，并进行摘抄。然后通过整理通顺这些摘抄内容，形成有深度的文章，再将这个高质量的内容反馈给deep research，让AI根据这些奇葩且有启发性的信息帮我进一步思考和梳理方向。</div>
-</div>
-<div class="qa-item">
-<div class="question"><strong>Q:</strong> 您如何看待与AI的互动，尤其是prompt engineering的作用？</div>
-<div class="answer"><strong>A:</strong> 现在使用AI时，prompt engineering不仅仅是让它更好地服务于我，更是要让它更好地理解我的上下文和偏好。AI已经很聪明，我们需要做的更多是让它了解我们的背景信息，以便更好地协同工作。</div>
-</div>
-<div class="qa-item">
-<div class="question"><strong>Q:</strong> 您是否觉得在使用AI进行复杂任务（如写代码）时，需要投入大量文字和细节？</div>
-<div class="answer"><strong>A:</strong> 是的，有时候感觉需要详细描述才能让AI明白我的意图，但这同时也带来困扰，因为有时候自己动手写代码可能更高效。所以，AI需要具备长记忆功能，记住用户的上下文和偏好。</div>
-</div>
-<div class="qa-item">
-<div class="question"><strong>Q:</strong> 您会如何安排撰写关于硅谷PC往事及其中蕴含的机会的文章？</div>
-<div class="answer"><strong>A:</strong> 我会抽空完成这篇内容的写作，先列出大纲，然后利用AI帮我完成初稿。</div>
-</div>
-<h1>节目文稿</h1>
-<p class="transcript-line">
-<span class="time"><strong>[00:00:05]</strong> </span>
-<span class="speaker"><strong>发言人1: </strong></span>
-AI现在他没有做到万里挑一的那个水平，还是做不出来的。他还没有达到人类最优质创作者那一档。比如说我用AI做一个小红书，你做出来可能确实比小红书上比如说90%的人多。但是他小红书他人家看的是前10% 1%，所以我会觉得是不是还是AI的能力没有到。在consumer那边他听不过1‱的那批人。
-</p>
-<p class="transcript-line">
-<span class="time"><strong>[00:00:30]</strong> </span>
-<span class="speaker"><strong>发言人2: </strong></span>
-今天其实已经没有人在聊kerick的AI这些事儿了。但其实我觉得这个是个被低估的机会。不是carrot AI本身这个非常具体的产品形态，而是利用AI的个性化互动的能力去做游戏类的应用，是个被低估的机会。
-</p>
-<p class="transcript-line">
-<span class="time"><strong>[00:00:48]</strong> </span>
-<span class="speaker"><strong>发言人1: </strong></span>
-我们讲AIGC的话，经常会觉得AI是创造的是内容。但是AI很有可能它是一种新的媒介。就有点像游戏跟电影不是一个东西，你不能光比画面，你还要保护动。其实他打开了一个新的维度，比如说叫互动。
-</p>
-<p class="transcript-line">
-<span class="time"><strong>[00:01:08]</strong> </span>
-<span class="speaker"><strong>发言人1: </strong></span>
-欢迎大家来到AI炼金术，我们今天又更新了，今天为什么更新呢？是因为徐老师有感而发。那天说我关心一个问题，就是为什么我们现在的AI产品主要在打pro consumer这个市场，这也是我比较关心的一个问题，我脑子里有一些模模糊糊的答案。
-</p>
-<p class="transcript-line">
-<span class="time"><strong>[00:01:27]</strong> </span>
-<span class="speaker"><strong>发言人2: </strong></span>
-我其实是对这个问题第一个我是比较好奇，就是因为大家都在做AI的产品。看到两条新闻我觉得特别有意思。第一条意思，第一条新闻是Venus今天开放免费使用了，我不知道。
-</p>
-<p class="transcript-line">
-<span class="time"><strong>[00:01:42]</strong> </span>
-<span class="speaker"><strong>发言人1: </strong></span>
-你知道吧？就不用排队就可以注册，不是免费使用，免费使用他们钱撑不住。
-</p>
-<p class="transcript-line">
-<span class="time"><strong>[00:01:47]</strong> </span>
-<span class="speaker"><strong>发言人2: </strong></span>
-好像反正免费有一定的额度，他那个不是按照credit来算的。然后我看到下面有人写了一条评论，这就不代表我个人也可以免费用了，就代表狗都不用。
-</p>
-<p class="transcript-line">
-<span class="time"><strong>[00:01:59]</strong> </span>
-<span class="speaker"><strong>发言人1: </strong></span>
-现在市面上这些要邀请码的我都搞了一遍，但是现在其实说实在的就是都用了15分钟，minus做的还是蛮好的。内部讨论一下这东西该怎么做出来，发现说如果要拼一个就可出来，就有点像你现在给我一千万美金，我也能造辆车。实际上你造的车跟特斯拉、跟小米，跟人家比的话，还是会差距很大的。但是你说能不能开能开？对，所以ms之类的做的还是蛮不容易的，他们那个各种方面的话已经很努力了。
-</p>
-<p class="transcript-line">
-<span class="time"><strong>[00:02:32]</strong> </span>
-<span class="speaker"><strong>发言人2: </strong></span>
-我有很多我想象中的场景，我觉得都没法完成。我比较典型那个场景，我想比价，比如说我想买个新的PS5，假如我今天比价，我肯定是说国内比价，对吧？那你可能要开淘宝，要开这个拼多多，然后要开京东。第一个像拼多多，它其实是你必须只有手机版对吧？没有PC版你还得登录进去，它还有优惠券对吧？它还有国补，国补只有你用银联的卡的时候才能用，这其实是个很真实的场景，对吧？但是实际上你要把这个价格拿到准确的价格。现在我反正我都没有成功过，在类似的agent上。
-</p>
-<p class="transcript-line">
-<span class="time"><strong>[00:03:09]</strong> </span>
-<span class="speaker"><strong>发言人1: </strong></span>
-你这个要求挺高，我现在当场就已经给了另外一个。他这个我看看他能不能做出来，如果能做出来，我就报他们名字。不能做出来我报名字感觉会有点太得罪人了。对他现在已经告给出了一个计划，会先去京东查，然后去天猫查，然后去苏宁查。为什么是去苏宁查搜索他的评测，然后问我这个计划O不OK我让他去run去了，他一般要run个十分钟。
-</p>
-<p class="transcript-line">
-<span class="time"><strong>[00:03:33]</strong> </span>
-<span class="speaker"><strong>发言人2: </strong></span>
-一个是看到这个，因为我觉得matter 4也火过很长一段时间，但是今天就开放使用了。Max我觉得你很难的，它是个proposer产品，还是个consumer产品。
-</p>
-<p class="transcript-line">
-<span class="time"><strong>[00:03:44]</strong> </span>
-<span class="speaker"><strong>发言人1: </strong></span>
-它定位的时候并没有特别像pro consumer一样。
-</p>
-<p class="transcript-line">
-<span class="time"><strong>[00:03:48]</strong> </span>
-<span class="speaker"><strong>发言人2: </strong></span>
-你说的对，但是第一个是它是个付费产品对吧？第二个是真的有consumer用吗？就是真的有proper user或者consumer之外的普通的consumer用这个产品。
-</p>
-<p class="transcript-line">
-<span class="time"><strong>[00:03:58]</strong> </span>
-<span class="speaker"><strong>发言人1: </strong></span>
-你不能这样定义，你这样定你就是肯付钱的，或者说早期用户那确实就不存在纯粹的user了，那只有perusing了。
-</p>
-<p class="transcript-line">
-<span class="time"><strong>[00:04:08]</strong> </span>
-<span class="speaker"><strong>发言人2: </strong></span>
-不不不，我觉得还是有的，我觉得还是有为为什么这个问题值得讨论。比如今天你用豆包，是不是你爸爸妈妈也会有豆包，dept娃也会有，对吧？但是我们看到不管以海外也好，或者包括国内的，就大家在推的这个三号的产品，的确我们看到是pursuit为主。或者说即使是打出名气或者打出收入的，都是以presume类的应用为主。第二个是今天又有一个应用刷屏，就是那个love art.
-</p>
-<p class="transcript-line">
-<span class="time"><strong>[00:04:34]</strong> </span>
-<span class="speaker"><strong>发言人1: </strong></span>
-我知道lip做的？
-</p>
-<p class="transcript-line">
-<span class="time"><strong>[00:04:35]</strong> </span>
-<span class="speaker"><strong>发言人2: </strong></span>
-是谁做的我不太确定，就有很多个说法，就是我看他们今天宣传的势头，我的感觉是又又是个不差钱的做PR的主做的对吧？国内华人的AIQL都在推，都在发这个文章，对吧？那你一看就知道这个是一个PR的过程了。
-</p>
-<p class="transcript-line">
-<span class="time"><strong>[00:04:54]</strong> </span>
-<span class="speaker"><strong>发言人1: </strong></span>
-还真不一定就minus。对我也受到了邀请，我肯定没有拿他们的钱。他们后来真的认认真真还发了条消息给我说，我们这次真的没有给，蛮相信的，所以真的不一定。
-</p>
-<p class="transcript-line">
-<span class="time"><strong>[00:05:06]</strong> </span>
-<span class="speaker"><strong>发言人2: </strong></span>
-Venus我不知道，或者我的一个推测，就是因为说实话，因为咱们也看了很多这个AR类的产品，今天倒不是评价它是不是推广，是不是花钱，我就花钱，不花花钱也很正常，我都不觉得花钱有啥不合理，对吧？就是大家不要把说我找了一些QQ号去推这个，他要给的QQ钱这个是一个这个也没有什么也不丢人，这些产品的creator也不丢人对吧？只要产品做得好，就算是值得宣传。花钱宣传应该的对，就跟买广告一样。但我觉得比较有意思的是，像这类出圈的产品，它其实又是个presume产品。对他是个典型的for designer，或者说他不是for entertainment，或者说给普通人你来玩一玩的对。
-</p>
-<p class="transcript-line">
-<span class="time"><strong>[00:05:46]</strong> </span>
-<span class="speaker"><strong>发言人1: </strong></span>
-或者至少你是要有design的需求，他不一定full design，它可能是替代的。
-</p>
-<p class="transcript-line">
-<span class="time"><strong>[00:05:51]</strong> </span>
-<span class="speaker"><strong>发言人2: </strong></span>
-我觉得这是时间也挺恐怖的，从chat v出来到现在已经两年半了。我不管你说营收或者市场上就大家做的觉得比较好的，我感觉是这种consumer的产品会比较多，真正面向consumer的产品很少。国内有一些，海外就更罕见。
-</p>
-<p class="transcript-line">
-<span class="time"><strong>[00:06:08]</strong> </span>
-<span class="speaker"><strong>发言人1: </strong></span>
-我觉得还是不好赚钱了。最明显的就是因为你为了full entertain的话，因为它毕竟有成本，你就说好玩一下的话，确实也不会花那么多钱。举例来讲的话，就比如说我们现在我今天还在问林格同学说riverside到底有没有用？然后他就说好有用，好有用。这就是因为我们在录播课，它是个生产力工具。那你就觉得说交钱也是很正常的事情。
-</p>
-<p class="transcript-line">
-<span class="time"><strong>[00:06:31]</strong> </span>
-<span class="speaker"><strong>发言人2: </strong></span>
-但是一个娱乐工具。
-</p>
-<p class="transcript-line">
-<span class="time"><strong>[00:06:33]</strong> </span>
-<span class="speaker"><strong>发言人1: </strong></span>
-我比如说我昨天又把那个wide wise reader续费了然然后99美金，然后我q box也在交钱。但是交99美金的时候，我其实还犹豫了一下，就觉得说99美金，如果是一个比如说carrot的AI这样续费的话，我就更不会蓄了，就是这种纯娱乐Carry的AI也收不上什么钱。所以它离你的生产力越近，离你的成果越近，它比较好收钱。这就是一个很朴素的原因。国内这些火的话是因为真的不差钱儿，对吧？豆包什么的，他是真的，就是他他不靠这个，你怎么办？
-</p>
-<p class="transcript-line">
-<span class="time"><strong>[00:07:06]</strong> </span>
-<span class="speaker"><strong>发言人2: </strong></span>
-我也我觉得国内火不只是不差钱，我觉得国内火其实还有另外一个因素，我觉得这个我们也可以聊一聊。我觉得我们今天说海外火讲的一般欧美发达国家，海外没有去讲什么东南亚、非洲、印度这些国家对吧？当然这些国家我觉得有些产品也火了。我记得capacity有一段时间它的流量很大，就来自印尼国内的豆包这些火我倒觉得是说不是因为不差钱，钱肯定还是就他最终还是要想办法把这个钱变现回来。
-</p>
-<p class="transcript-line">
-<span class="time"><strong>[00:07:33]</strong> </span>
-<span class="speaker"><strong>发言人2: </strong></span>
-我觉得他其实是填补了一个场景，就是国内之前的搜索场景。之前其实对国内的普通的一线城市的什么高学历的用户之外，其实有大量的国内之前的很多用户是没有被一个好的搜索类的产品服务过的。或者他其实没法得到一个好的搜索结果。但在海外这个事情，特别是在发达国家，这个问题没有那么严重。其实你可以对比，就很很神奇的是，google还有大量的移动端的搜索，可能就来自苹果的safari自带的搜索。百度你再看国内它在广告里的份额，搜索广告的份额，搜索流量早就已经掉的非常厉害了。但在google上这个事情其实没有那么明显。
-</p>
-<p class="transcript-line">
-<span class="time"><strong>[00:08:18]</strong> </span>
-<span class="speaker"><strong>发言人1: </strong></span>
-所以你的意思就是，国内可以不去只针对pro consumers就抢那个普通的用户，是因为国内其实大家还可以把百度分尸掉，对吧？大家想抢手机上的这个，比如说辽事要查东西的这个入口，其实把用户用一些比较聊聊天什么的行为，把它牵引上来也挺好。因为出了一个还蛮漂亮的报告，所以我觉得可以说他的名字我就用那个fellow做的。就那个浏览器，他至少把几家的价格全部都查到了，然后做了一个巨漂亮的网站给我就是为什么他要做个网站给我？真的有这么匪夷所思？
-</p>
-<p class="transcript-line">
-<span class="time"><strong>[00:08:55]</strong> </span>
-<span class="speaker"><strong>发言人2: </strong></span>
-这或者说核心是它的价格准。
-</p>
-<p class="transcript-line">
-<span class="time"><strong>[00:08:56]</strong> </span>
-<span class="speaker"><strong>发言人1: </strong></span>
-不准不知道他们他还把各家的那个优惠活动，都都已经详细列出来了。比如说京东是新用户立减100，赠送PS5手柄，然后满5000减200优惠券，12期可以分期什么的，这些列出来了，然后综合最佳是给的京东。因为他考虑了价格，考虑了售后，考虑了什么的，然后是京东卖4799，我待会儿跟你聊的时候，手机上查一查。然后他在性价比之王是拼多多4699.
-</p>
-<p class="transcript-line">
-<span class="time"><strong>[00:09:23]</strong> </span>
-<span class="speaker"><strong>发言人2: </strong></span>
-我现在就可以手上有拼多多看一眼。
-</p>
-<p class="transcript-line">
-<span class="time"><strong>[00:09:26]</strong> </span>
-<span class="speaker"><strong>发言人1: </strong></span>
-对我搜到京东看一眼。因为他有全球购，所以这个就很尴尬，他到底说的对不对？
-</p>
-<p class="transcript-line">
-<span class="time"><strong>[00:09:32]</strong> </span>
-<span class="speaker"><strong>发言人2: </strong></span>
-拼多多现在是5099.
-</p>
-<p class="transcript-line">
-<span class="time"><strong>[00:09:34]</strong> </span>
-<span class="speaker"><strong>发言人1: </strong></span>
-他写的是4699。
-</p>
-<p class="transcript-line">
-<span class="time"><strong>[00:09:36]</strong> </span>
-<span class="speaker"><strong>发言人2: </strong></span>
-我自己的体验，因为我们本身是做很多电商类的，这种场景，咱不先不说，就是你很难拿到一个准确的价格。
-</p>
-<p class="transcript-line">
-<span class="time"><strong>[00:09:44]</strong> </span>
-<span class="speaker"><strong>发言人1: </strong></span>
-对我待会儿再核实一下它的价格对不对？感觉好像在正确的区间，但是我也确实没有找到那个东西。
-</p>
-<p class="transcript-line">
-<span class="time"><strong>[00:09:51]</strong> </span>
-<span class="speaker"><strong>发言人2: </strong></span>
-他给你那个商品的详情的link了吗？
-</p>
-<p class="transcript-line">
-<span class="time"><strong>[00:09:54]</strong> </span>
-<span class="speaker"><strong>发言人1: </strong></span>
-他给的link打开不是一个东西，打开是手柄，这是为什么？对，至少。网页很漂亮，至少他出了一个很漂亮的网站，有无数的图标，就没有功劳也有苦劳的那种感觉。
-</p>
-<p class="transcript-line">
-<span class="time"><strong>[00:10:06]</strong> </span>
-<span class="speaker"><strong>发言人2: </strong></span>
-回到主题，就是讲为什么都是做的都是pru的产品。之前一直聊说有一个观点说我们应该去看一看，就是我觉得这一轮的AI更像PC。就是我其实给予了你一个更powerful的intelligence，而不是我提供了更便捷的使用场景。你应该是很早就用个人电脑了。对于如果我们回忆就PC出来，PC基本上是在70年代末80年代初，就apple 2什么m store能数出来。PC时代什么软件卖的最好，最挣钱、最流行。
-</p>
-<p class="transcript-line">
-<span class="time"><strong>[00:10:38]</strong> </span>
-<span class="speaker"><strong>发言人1: </strong></span>
-不知道，因为我第一批软件是那个都都盗版的，杀毒软件。对，当时正版的买的第一个是杀毒软件KV然后盗版装了3d max和CAD。
-</p>
-<p class="transcript-line">
-<span class="time"><strong>[00:10:49]</strong> </span>
-<span class="speaker"><strong>发言人2: </strong></span>
-一开始PC出来的最早的一批软件有几类，第一类叫做文字处理软件，当时有word star，什么word perfect microwave，对吧？就是它其实是替代了。
-</p>
-<p class="transcript-line">
-<span class="time"><strong>[00:11:01]</strong> </span>
-<span class="speaker"><strong>发言人1: </strong></span>
-那你要往那么早搞的话，第一个K了APP是那个叫call还是叫什么东西？第一版excel对吧？对的，就跟word star基本上是。
-</p>
-<p class="transcript-line">
-<span class="time"><strong>[00:11:09]</strong> </span>
-<span class="speaker"><strong>发言人2: </strong></span>
-所以你看那我在想就那个时代，比如说出的软件，比如说wordstar，后来微软出了word对吧？什么lotus 123都是做电子表格类软件，当时还有流行的叫数据库软件，什么debase focus。然后最早那个时候也有了auto CAD，就是你会发现那个时候其实这些软件本质上都是生产力工具非常大的一类。还有第二类，第二类就是很早就有了游戏，对吧？最早的这个如果大家去关注游戏或者玩游戏，就是乒乓。
-</p>
-<p class="transcript-line">
-<span class="time"><strong>[00:11:36]</strong> </span>
-<span class="speaker"><strong>发言人1: </strong></span>
-一个球在那弹来弹去对对对。
-</p>
-<p class="transcript-line">
-<span class="time"><strong>[00:11:39]</strong> </span>
-<span class="speaker"><strong>发言人2: </strong></span>
-而且在PT上当时还有很多这种文字冒险类游戏。什么K第三类就是我们说的系统软件，对吧？你要装个dos你要装个杀毒软件，所以基本上你看那个时候只有两类软件，一类就是我们叫效率工具，一类就是游戏。其实它是没有我们今天大家占大家互联网使用实际时间最长的这个软件的。这个软件，我统称为叫来叫做跟生活相关的软件。有些偏工具效，有些偏个人生活的效率，有些偏entertainment。什么叫跟生活？比如说你去什么外卖，什么打车，他就是跟你日常生活相关。但是PC出来的时候，其实并不提供这个软件，你并不会用P就是电脑去叫个车，打个车，其实是没有的。
-</p>
-<p class="transcript-line">
-<span class="time"><strong>[00:12:29]</strong> </span>
-<span class="speaker"><strong>发言人2: </strong></span>
-第二类是选lifestyle的软件f ver。就今天的什么小红书，对吧？抖音，它是带一定的娱乐生活娱乐性质，但是它不是游戏，它和游戏我觉得区别还是挺明显的。所以你看当一个有厉害的生产力工具出来的时候，第一类就是我们怎么在生产力工具里去用它。就是我觉得PC能够发展起来，本质上是这个需求其实是大量的，的确还是在B端。但是这个B不一定是巨型的巨头了，对吧？那在PC之前也有小型机，大型机并不是大的公司，并不是没有computer可以用，它只是没有personal computer，没有个人电脑，其实是有大型机这样的东西可以用的。
-</p>
-<p class="transcript-line">
-<span class="time"><strong>[00:13:14]</strong> </span>
-<span class="speaker"><strong>发言人2: </strong></span>
-你如果是IBM对吧？IBM最早干什么的呢？IBM最早是帮你做人口普查统计的，就那个打孔机，然后排个顺序去统计什么各种职业巴拉巴拉。到后来用大型电脑去完成这些工作。
-</p>
-<p class="transcript-line">
-<span class="time"><strong>[00:13:28]</strong> </span>
-<span class="speaker"><strong>发言人2: </strong></span>
-越来越多的公司说，我内部的各种资料、统计、分析，能不能用大型的大型机或者分时系统去完成。而PC出来是说，我虽然是个小公司，我想算个账，我今天也不用手算了，我就用你说的那种电子表格软件，VKE或者那个什么不叫SKL，VSKL或者楼层是一二三干。就为什么它会成为killed APP？是因为有大量的当时的SMB？中小软件或者per user。
-</p>
-<p class="transcript-line">
-<span class="time"><strong>[00:13:54]</strong> </span>
-<span class="speaker"><strong>发言人2: </strong></span>
-我是个会计师，我要来算账，我回去买一个这个东西回来用。我觉得这个是为什么跟今天去特别像，他就在被很多pru的用起来了。就是今天有很多产品对吧？就是原来我们就像我们就录个播客，我们现在用riverside，本质上我们也是per user，它是个生产力工具。原来我可能得要么自己学个软件，学个audible之类的软件，然后我自己花几个小时来干这个事儿。或者我外包出去雇个人干几个人小时来干这个事儿。那现在即使是我雇个人来干这个播客剪辑的事儿，他可能也用riverside或者用个什么AI辅助的工具去剪一下。
-</p>
-<p class="transcript-line">
-<span class="time"><strong>[00:14:28]</strong> </span>
-<span class="speaker"><strong>发言人1: </strong></span>
-我理解你刚刚讲的这个逻辑，就是这个类比的逻辑。因为你刚刚提到了小红书之类的，我还我想起了可能还有另外一个不同维度的逻辑。我们以小红书为例，我们讲生产者，其实对应另外一边就是消费者。如果要to c的话，其实你对的应该是消费者。那我们消费什么东西呢？除了要么是物理世界的东西，比如说你是拿美团订个盒饭，要不然其实就是逛小红书对吧？你就消费的其实内容。
-</p>
-<p class="transcript-line">
-<span class="time"><strong>[00:14:57]</strong> </span>
-<span class="speaker"><strong>发言人1: </strong></span>
-我觉得有一部分原因可能还是因为AI现在的能力。就比如说在一年前的话，AI画那个人脸还是很假，直到fx出来就不假了。受限于能力就会导致说他可能现在比如说比90%甚至于95的创作者好。但是他就是比top 1%的创作者差，他他创造出来的内容的好坏，所以的话比如说我们两个可能是比如说50%的中位数的创作者。那这个时候他如果有一个90%的，比如说帮我们剪辑干嘛的东西，他对我们是一个帮助，对那那都是好的，他才超过95%的人类的话，所以大量的创作者其实是可以从中间获益的。要不然你提高了效率，要不然你提高了效果，对吧？总得好的。
-</p>
-<p class="transcript-line">
-<span class="time"><strong>[00:15:43]</strong> </span>
-<span class="speaker"><strong>发言人1: </strong></span>
-但是从内容消费的角度的话，因为每个人都被惯坏了。你看的抖音，你看的小红书都是最好的，最适合你的帖子。所以他其实是不要求top 1%了，他甚至于是可能不是100条里面给一个给你是1万条里面挑一个给你。所以AI现在他没有做到万里挑一的那个水平，还是做不出来的。就是他还没有达到人类最优质创作者那一档，所以的话他在这边的话就是你很难说我做一个，比如说我用AI做一个小红书就会比小红书牛逼。不是这样的，因为你做出来可能确实比小红书上，比如说90%的人牛。但是他他他小红书他人家看的是前10% 1%，所以我会觉得是不是还有这个原因，还是AI的能力没有，所以他在consumer那边他听不过。
-</p>
-<p class="transcript-line">
-<span class="time"><strong>[00:16:27]</strong> </span>
-<span class="speaker"><strong>发言人2: </strong></span>
-1‱的那批人我我觉得这个其实跟能力的关系没有那么大，跟分发渠道被垄断了有关系。我觉得这当中其实是很有意思的。为什么值得讨论？就是我们看早期的游戏，它从制作进步，特别是那些文字冒险类游戏，什么cave之类这种，他的制作精美程度比那些好的探险小说高吗？没有。它的制作精美程度比当时的比如说电视剧、电影高吗？其实也没有。
-</p>
-<p class="transcript-line">
-<span class="time"><strong>[00:16:58]</strong> </span>
-<span class="speaker"><strong>发言人1: </strong></span>
-但它好玩，它可以玩。
-</p>
-<p class="transcript-line">
-<span class="time"><strong>[00:17:00]</strong> </span>
-<span class="speaker"><strong>发言人2: </strong></span>
-对我觉得像character这类的产品，我觉得未来还是有空间的。因为本质上它就是新时代的游戏。它好玩是因为你能有一些互动。我觉得本来就是你看小说其实就是个简单的input output的过程？我最多我自己想象一下，我没有一个我能互动的过程。我去看电视，看电影也都是的，就是我只能消费，就是我是被动的在接收这个过程。游戏其实是说他至少给了一个你能够有行为他给出反馈。本质上像character AI什么这类产品我觉得是一样的，就是你的互动能给你反馈。
-</p>
-<p class="transcript-line">
-<span class="time"><strong>[00:17:38]</strong> </span>
-<span class="speaker"><strong>发言人2: </strong></span>
-所以我觉得那个其实我我不认为它是个叫情感陪伴应用，它本质上就是个有他如果未来会长大就是个游戏应用。只是说早期的游戏其实面向的用户人群还是很小的。我相信今天还有很多用户喜欢玩这种character，星爷，或者用AI互动类的。
-</p>
-<p class="transcript-line">
-<span class="time"><strong>[00:17:57]</strong> </span>
-<span class="speaker"><strong>发言人2: </strong></span>
-我们在游戏产品，我不觉得他应该是个情感万产品，它的精美程度要到一定的程度。比如说今天的AI的精美程度到越来越精美，体验越来越好，它才能进主流。不然它其实是说如果它还是最早的，它虽然很火爆，但是的确也没有真的吸引足够多的用户。
-</p>
-<p class="transcript-line">
-<span class="time"><strong>[00:18:14]</strong> </span>
-<span class="speaker"><strong>发言人1: </strong></span>
-我觉得还是还有两个问题卡住他。一个是你刚刚说的，就比如说游戏它互动性，这其实它它打开了一个新的媒新的维度。它不是我们讲AIGC的话，经常会觉得AI是创造的是内容，那其实我们就会把它说，那你创造的这个，比如说小红书帖子跟人类创造的谁好。但是AI它它很有可能它是一种新的媒介，就有点像游戏跟电影不是一个东西，你不能光比画面，你还要补互动性。其实他打开了一个新的维度，比如说叫互动。比如说AI的小红书帖子应该跟现在的小红书帖子这两种帖子，比如说一个万字长文好了。那应该你看到的跟我看到的就是不一样，它应该定制化，比如说单独为我personalize，这个才叫做可能用到了一点，就是因为它应该打开一个新的维度，因为它是一种新的媒介。
-</p>
-<p class="transcript-line">
-<span class="time"><strong>[00:19:05]</strong> </span>
-<span class="speaker"><strong>发言人1: </strong></span>
-我们如果只是让它创造了，比如说一个新的another小红书帖子的话，它其实就还是。就是你拿游戏去跟电影拼拼画质，但是它应该又有一个不是互动也好也不是不一样，反正是X它应该你再打开一个维度，它是因为一种新媒介。如果把这个打开的话，可能我觉得一个就是现在这个点确实还没有打开。可能就比如说有人打开了，就是觉得说他要做成千人千面。
-</p>
-<p class="transcript-line">
-<span class="time"><strong>[00:19:31]</strong> </span>
-<span class="speaker"><strong>发言人1: </strong></span>
-我们也做过这方面的产品，就是把那种比如说上一堂课，就每个人听到的都不一样，人家并没有因为这个点就就买这个产品，这是一个。还有一个我觉得还要给AI1点时间，就是有可能是没有找到商业的闭环。就有点像百度是google刚开始的时候，其实它是不赚钱。那你现在你要跟人家掌握了通路，但是通路你肯砸钱，你把B轮那个飞轮给搞起来的话，也是可以自己砸一个出来的。但是现在大家都不知道怎么挣钱。比如说像google早期的时候的话，其实那个不也是搜索引擎也不赚钱。直到他们学了那个over tube的那个竞价排名，然后把这个商业模式嵌进去了，牛逼了。或者说像我之前看搜狐的人说，他们其实很早就在测那个短视频，但是当时就脑子一直是转不过来。就是觉得说你在一个30秒的短视频上，你怎么贴一个15秒的广告，就是脑子因为做长视频的人都是贴片，就滑的那个那个加加广告这件事情好像一直没有想明白，所以会说后来第一件事情是觉得说说把这些想明白的人挺牛逼的。
-</p>
-<p class="transcript-line">
-<span class="time"><strong>[00:20:43]</strong> </span>
-<span class="speaker"><strong>发言人2: </strong></span>
-我觉得还是得看是这一轮的技术革命，它带来的核心，带来的不一样的能力是什么。比方说你说短视频，它其实是说我4G带宽变大了。它带来不一样能力是我随时随地可以低成本的消费多媒体内容了。所以之后是不是能商业化或者什么事情，我觉得是一个这个能力带来最大差别。这个事原来能干，现在不能干。就是现在的问题是说为什么没有consumer的产品？是说那有到底有什么原来consumer特别需要，特别真的特别需要，然后原来不能干今天能干的事儿。
-</p>
-<p class="transcript-line">
-<span class="time"><strong>[00:21:14]</strong> </span>
-<span class="speaker"><strong>发言人1: </strong></span>
-你讲的这个道理是对的，但是他不能解释说就是因为一个东西他能干和他最后你想到他可以干，他中间还会隔一段时间，就有点像坦克是能走的是吧？对吧？坦克是能够开车的。但是在闪电战之前，其实大家把坦克当镖靶用是吧？对，所以就和坦克其实是一种没有太大用处的东西。那其实坦克能能走吗？能走，但是就想不到一定要。
-</p>
-<p class="transcript-line">
-<span class="time"><strong>[00:21:41]</strong> </span>
-<span class="speaker"><strong>发言人2: </strong></span>
-他走这个逻辑。其实不一定是坦克出来，差别就是这可能是履带或者其他东西带来的这个差别。我们刚才讲了其实有两类应用，一类叫做生产力工具，对吧？有点叫做游戏。我觉得还有特别有意思的，你去你你去想一想当时还有有什么样的消费级软件在当时真正放，我猜你家里肯定也买过这类也有。
-</p>
-<p class="transcript-line">
-<span class="time"><strong>[00:22:02]</strong> </span>
-<span class="speaker"><strong>发言人1: </strong></span>
-但但是但是我猜的话有一个大的品类应该就是色情。
-</p>
-<p class="transcript-line">
-<span class="time"><strong>[00:22:06]</strong> </span>
-<span class="speaker"><strong>发言人2: </strong></span>
-这是一个品类。
-</p>
-<p class="transcript-line">
-<span class="time"><strong>[00:22:07]</strong> </span>
-<span class="speaker"><strong>发言人1: </strong></span>
-在家用电脑和录像带和宽带都是色情推动的这这是一个品类。
-</p>
-<p class="transcript-line">
-<span class="time"><strong>[00:22:12]</strong> </span>
-<span class="speaker"><strong>发言人2: </strong></span>
-我先讲一个品类，我餐饮用户叫做学习软件。
-</p>
-<p class="transcript-line">
-<span class="time"><strong>[00:22:16]</strong> </span>
-<span class="speaker"><strong>发言人1: </strong></span>
-用过我还买过红红恩啥什么学电脑什么的。
-</p>
-<p class="transcript-line">
-<span class="time"><strong>[00:22:20]</strong> </span>
-<span class="speaker"><strong>发言人2: </strong></span>
-对，就是我觉得特别有意思的说是当然新科技出现有一个品类一定会出现，叫做学习软件。以前有这种小霸王学习机，对吧？你还可以打字，学习打字上面东西掉下来你去打字。还有就像你说的，红恩当时有什么，反正用一些多媒体的形式让你去做数学题、物理题。对，这个其实也是一个巨大的类目。我的假设是怎么用AI的学AI学习类软件，这个学习还不一定是学习知识，是学习怎么用AI会成为一个巨大的类目。应该。
-</p>
-<p class="transcript-line">
-<span class="time"><strong>[00:22:53]</strong> </span>
-<span class="speaker"><strong>发言人1: </strong></span>
-但是现在确实是啊，包括现在也不停的有人掌握。但是实际上AI的产品，它他的设计目标不就是为了让你就是不咋用学，对吧？会能说话这。
-</p>
-<p class="transcript-line">
-<span class="time"><strong>[00:23:04]</strong> </span>
-<span class="speaker"><strong>发言人2: </strong></span>
-句话说的没错。但是就一样的，我觉得每一代科技的目标其实都是这样，就PC出来图形界面的目标是说，你不需要学，但是大学里还有对吧？当然我们计算机系不用学，对吧？在大学里就还有一门课，大家都得去过什么计算机二级。
-</p>
-<p class="transcript-line">
-<span class="time"><strong>[00:23:21]</strong> </span>
-<span class="speaker"><strong>发言人1: </strong></span>
-你刚刚其实在做一个跟历史上的对比，因为它是生产力工具。我过去最好类比的生产力工具其实是PC，他提供了能力而不是accessibility。他可不可以这样认识的？因为虽然是他他他在这个方向上是对的，但是BC的时代确实也没有。比如说京东也不存在，对吧？那那那个那个小红书也不在，但是现在其实这些内容已经在这里了，就是这些东西在了，它其实基础设施不太一样了。那通过这些能力再把这些基础设施再调度一遍，理论上来讲也是可以做to c的应用的，然后用户的习惯也已经在了。
-</p>
-<p class="transcript-line">
-<span class="time"><strong>[00:23:58]</strong> </span>
-<span class="speaker"><strong>发言人2: </strong></span>
-其实TC时代当时也有消费类应用，但是当时的这些消费类应用是利用当时的在美国其实利用当时的消费渠道。那当时有一有有一类应用也是subscribe，但是subscript的结果是他给你记磁盘，包括我们今天听说就是比如卡卡马克对吧？这个doom这些最早是doom那个时代已经有电话线拨号了，已经有这种BBS。再往前更早的，他们的那些游戏其实是靠杂志加磁盘去分发的。
-</p>
-<p class="transcript-line">
-<span class="time"><strong>[00:24:28]</strong> </span>
-<span class="speaker"><strong>发言人2: </strong></span>
-当时其实也有消费类应用，比如说有菜谱类应用，他只是不是像小红书，对吧？你到小红书或者你上大众点评，他是也是给你寄的磁盘，我给寄个光盘对吧？也有这个小红书，就是很多女性的fashion对吧？也有这个fashion的应用，他给你寄一张光盘，里面有各种好看的储物格，所以我倒不是觉得是没有，但是它也有，它的确你有了电脑也可以去看了，对不对？你用磁盘的做内容的成本，某种程度上讲，其实比印一本杂志给你低。你想我们那个时候磁盘还是很便宜的。我就我记得我上小学的时候，买一张磁盘可能一两块人民币，买当时买一本漫画书可能两块，买一张五寸盘可能是一块钱，大概是这么一个概念对吧？
-</p>
-<p class="transcript-line">
-<span class="time"><strong>[00:25:13]</strong> </span>
-<span class="speaker"><strong>发言人2: </strong></span>
-到80年代可能但是他其实也有去分发一个消费类产品的内容的。但是这个在能看一个消费的内容，或者说你今天说我能用这个东西画一张画，对一个普通的用户的吸引力，我觉得相对是有限的。所以我没有看到说八九十年代有什么特别的，说消费类软件产品对吧？我就靠不停的给你寄菜谱，我变成了一个上市公司，对吧？我给你不停的记这个时装穿搭成的上市公司，其实并没有。
-</p>
-<p class="transcript-line">
-<span class="time"><strong>[00:25:47]</strong> </span>
-<span class="speaker"><strong>发言人1: </strong></span>
-对吧？所以你是觉得说就如果我们线性的来对比的话，其实就是比如说可能五年之后会有to c的伟大应用出来。但是我们比如说最近两年应该还是把把目标盯在更偏生产力和更偏pro consumer这边，确实是一个合理的选择。
-</p>
-<p class="transcript-line">
-<span class="time"><strong>[00:26:06]</strong> </span>
-<span class="speaker"><strong>发言人2: </strong></span>
-因为还没到。对或者我说这一波能力的核心能力其实不在消费类产品上，或者说它不能帮你创造一个全新的消类产品。除排除游戏，就是排除这种高互动的游戏。因为我从那个视角，我觉得AI跟当时的游戏的互动能力都是非常匹配的。我为什么我觉得就觉得这个特别好对比。
-</p>
-<p class="transcript-line">
-<span class="time"><strong>[00:26:26]</strong> </span>
-<span class="speaker"><strong>发言人2: </strong></span>
-你看现在在整个AI领域，除了做那些基建的公司，我做模型做基础模型的公司对吧？什么OpenAI那个anodic，他们做基础模型公司就像当初那些做什么苹果电脑IBMPC吧？像英伟达，就像当时英特尔CPU排除这些公司现在做的最好收入最高的公司是什么？是哪一家？就现在最收入最高的应该是curse r就是AI coding类的公司。Curse的ARR现在大概是号称是3亿美元4亿美元，对不对？
-</p>
-<p class="transcript-line">
-<span class="time"><strong>[00:26:56]</strong> </span>
-<span class="speaker"><strong>发言人2: </strong></span>
-八九十年代如果我们刨除刚才那些什么卖电脑的，抛出这些做基建的，比如说微软、苹果对吧？有一家公司当时跟微软竞争非常激烈，也是做coding的公司，叫做black。因为好多人买了PC回去是干嘛？是把它作为一个生产力工具，开发生产力工具给别人用，对吧？就是我买我花钱买生产力工具，是用用它再去构造新一代的生产力工具，去给各行各业用起来，这个就是blend。为什么布兰德它并不是什么操作系统公司，它也不是什么游戏公司，它也不是什么消费类软件公司。
-</p>
-<p class="transcript-line">
-<span class="time"><strong>[00:27:36]</strong> </span>
-<span class="speaker"><strong>发言人2: </strong></span>
-但是为什么国内的很长一段时间是微软最大的竞争对手？因为它是一个基础的编程开发工具的公司。就是从这个视角，我觉得像科技50的设备本质上是新一代的博乐的。
-</p>
-<p class="transcript-line">
-<span class="time"><strong>[00:27:49]</strong> </span>
-<span class="speaker"><strong>发言人1: </strong></span>
-我换一个比喻性的方法来讲这件事情，就是假设AI就是一个魔法，没有用好它，可以让它你的产品品类就你的效果增加5%，你用好它可以涨50%。假设是这么一个东西，那这个时候的话你可以把它用在to per consumer或者to b或者to c的产品上。然后你就会发现日常生活当中大部分to c的产品的话，其实好所谓5%甚至于50%其实是不是很能被看见的。比如说你的洗发水，你的杯子，就to c的感知对于一个东西其实都已经基本满足要求，大概就这样。或者我们身上穿的衣服。其实没有什么感觉，因为他不是他不是用去打仗的。
-</p>
-<p class="transcript-line">
-<span class="time"><strong>[00:28:32]</strong> </span>
-<span class="speaker"><strong>发言人1: </strong></span>
-举一个能举的例子，我朋友朋友是开公司，他们做那个净水系统的，但是不是民用的净水，是给那个工业造芯片什么的，做精进做纯净系统的。他们那个就要求绝对纯净，因为他一旦有问题，流片就会坏。所以的话他其实是在这方面的话，就是他的那个1%的进步都是会被下游感知到的。
-</p>
-<p class="transcript-line">
-<span class="time"><strong>[00:28:53]</strong> </span>
-<span class="speaker"><strong>发言人1: </strong></span>
-但是你说给我们的纯净水，比如说又纯净了，增加了50%，其实我们完全无感的是吧？娃哈哈已经绝对好了，因为你是在卷的环境，就是这件事儿好不好？你的你有下游，你有你有你有甲方，然后和你有竞争对手。你这个时候的话，你提高5%你是可以被感知的，然后提高50%就更能被感知到。但是在如果你是享受方to c一般是享受方。所以的话其实它它好了5%，好了50%这事儿其实有的时候真的不是很重要。所谓的效能上，就是哪怕真的是质量上好了50%，但是因为一般质量都已经超过所需了。
-</p>
-<p class="transcript-line">
-<span class="time"><strong>[00:29:30]</strong> </span>
-<span class="speaker"><strong>发言人1: </strong></span>
-我们这个杯子盘子，哪怕我比如说我买了一个M4的ipad上飞书，对吧？有有啥用呢？他好他再好个50%对我来说有什么用呢？所以我会觉得很有可能是因为我作为消费者的时候真的就不行。但是如果我是比如说我要在我的机器上跑那个什么conf UI？那天问你说我要私有化部署一个deep seek？这个时候我就会发现，我猜这台机器确实不行，步不进去。那这个时候只有在这种情况下才才有需求。但是你如果只是我真的是基于我真实需求，比如说我要飞书跟你聊天。买个10年前的电脑都可以是吧？
-</p>
-<p class="transcript-line">
-<span class="time"><strong>[00:30:05]</strong> </span>
-<span class="speaker"><strong>发言人2: </strong></span>
-这才不行，主要是这些人太浪费性能了，你买了十年前还真。
-</p>
-<p class="transcript-line">
-<span class="time"><strong>[00:30:09]</strong> </span>
-<span class="speaker"><strong>发言人1: </strong></span>
-不一定行OK那至少五年前对吧？也可以。对，所以我会觉得是不是也有这方面的原因，to c的确实质量就是效用都已经超过人类的评估水平了。只有在to b你有甲方在那边认真研究评估的时候，才这次才或者你自己就是甲方，就是你在衡量这个工作效果什么，你才会认真衡量。但是我们吃吃喝喝的，其实你也不是很衡量这些结果。甚至于包括浏览器这种半工作的工具，其实也懒得去为了他。比如说二可听说效率高很多，但是真的有几个人会换，我二哥也不会，对吧？
-</p>
-<p class="transcript-line">
-<span class="time"><strong>[00:30:47]</strong> </span>
-<span class="speaker"><strong>发言人2: </strong></span>
-我觉得to c其实很多时候我们觉得他好是是提升了accessibility，就是提供了可达性。我原来想买本书，我得出门到书店，然后找到这个，翻了好久我才能找到。跟我在M6上我文本搜索一下，我下个单才能送上门。他也是改变可达性，等到了有了电子书，对吧？我直接开个微信读书，我能看到它也是改变了accessibility。包括我们打车、外卖，其实都是在改变accessibility。
-</p>
-<p class="transcript-line">
-<span class="time"><strong>[00:31:17]</strong> </span>
-<span class="speaker"><strong>发言人2: </strong></span>
-它的这个技术是在整个环节的各个链条中用到的。比如说我们今天看netflix他也是主播。原来我得去看电影，后来我得买DVD。后来我可以租DVD对吧？然后我可以随借随还，后来我都不用做DVD了。我晚上可以网上可以点播DVD.
-</p>
-<p class="transcript-line">
-<span class="time"><strong>[00:31:35]</strong> </span>
-<span class="speaker"><strong>发言人1: </strong></span>
-但是用户用起来更方便一点，这个是感受得到的，就是你让我少点麻烦。你如果只是提高在所谓的质量，比如说那个纯净水更纯净了，对吧？或者说那个那个电脑的CPU变好了。这些时候其实不是那么的创造你的竞争优势，或者给用户明确的感知。而且很多的因为这一轮它提供的是智力，现在AI的智力其实已经超过绝大部分的用户了。所以其实是他提不提升，或者你做的怎么样，其实也没什么感觉，受限于用户的水平。就有点像为什么用户的那个feedback和的那种使用数据说数据可能建不起来，是说用户聊的太垃圾了吗？
-</p>
-<p class="transcript-line">
-<span class="time"><strong>[00:32:13]</strong> </span>
-<span class="speaker"><strong>发言人2: </strong></span>
-或者说这个也是为什么我觉得说很多东西在的有价值。假设我要去买个东西，我是通过agent帮我买，还是我买真的agent能帮我快多少吗？其实也谈不上，甚至是很多在消费的过程中，AG他帮我干的事情替代了我的快乐，对吧？我去找这个东西，我去看比那个各种评测文章，他其实并不是个工作。对很多人来讲，就很多人是本来我也很无聊，对吧？我就想花这个时间去看一下。
-</p>
-<p class="transcript-line">
-<span class="time"><strong>[00:32:41]</strong> </span>
-<span class="speaker"><strong>发言人1: </strong></span>
-对你同事跟我聊，我就首先说这不是一个问题，你为什么要高效的解决这个问题？这不是一个问题，所以你不要高效的解决。他如果是更聪明的话，在这点上就没有用了。他如果不是因为他更聪明的话，是因为他可以陪聊的话，你就把它归类了到了对吧？那那那就是归类到了情感陪伴和游戏那一类去了。
-</p>
-<p class="transcript-line">
-<span class="time"><strong>[00:33:01]</strong> </span>
-<span class="speaker"><strong>发言人2: </strong></span>
-我当时在翻80年代，我觉得还有两个类目。其实当他当时也蓬勃发展，我觉得也很有意思。第一个类目其实今天也在蓬勃发展。第一个类目当时就带动了很多杂志。今天其实大家已经没有科技类杂志。但是我不知道你小时候有没有看过PC max z.
-</p>
-<p class="transcript-line">
-<span class="time"><strong>[00:33:17]</strong> </span>
-<span class="speaker"><strong>发言人1: </strong></span>
-没有我看过大众软件、电脑报。
-</p>
-<p class="transcript-line">
-<span class="time"><strong>[00:33:20]</strong> </span>
-<span class="speaker"><strong>发言人2: </strong></span>
-对，PC mac z就是美国人的大众软件，非常神奇。第一台笔记本电脑叫奥斯曼，对吧？是一个伯克利的化学博士设计的，叫adam o是它大概是一个还有点像行李箱一样的，拎在手上特别重11公斤。但是它是第一台便携式电脑，但是奥斯曼商业上最后没成功，所以这个哥们儿后来去干什么了呢？他就去出版computer book series，就是出版各类电脑相关的入门书籍，对吧？就类似于今天这些KOL跟你讲，这个love at上线了，这个东西可厉害，给你看一下他能有哪些能力。所以要做自媒体，要。
-</p>
-<p class="transcript-line">
-<span class="time"><strong>[00:34:04]</strong> </span>
-<span class="speaker"><strong>发言人1: </strong></span>
-讲课，这才是这次的机会。
-</p>
-<p class="transcript-line">
-<span class="time"><strong>[00:34:06]</strong> </span>
-<span class="speaker"><strong>发言人2: </strong></span>
-很有意思，当时每一家PC都有官方杂志，你很容易理解，就是当时是没有互联网的，对不对？你买了一个电脑生产力工具，你回去要把它用起来，怎么用呢？它出杂志你会你可以你也得花钱的。就是可能他有个手册是免费给你的，那之后每期订阅你可以花钱订阅。也有像PC mac定这种，它其实不是归属给某家或者雅达利，或者IBM，它它会出这种整个行业的杂志。对，这是当时的另一个快速发展的机会。
-</p>
-<p class="transcript-line">
-<span class="time"><strong>[00:34:39]</strong> </span>
-<span class="speaker"><strong>发言人1: </strong></span>
-启发到两件事儿。一个事儿就是我们这次其实聊的不是为什么是要做pro consumer。我们这次聊的是从硅谷票PC往事历史来看，这次AI创业大潮中有什么真实的机会。就感觉比刚刚那个开头的标题会吸引人。然后那个具体的事情的话，你刚刚让我想到，说不定这次有另外一个竞争力可以出来，就是做社区和内容。
-</p>
-<p class="transcript-line">
-<span class="time"><strong>[00:35:08]</strong> </span>
-<span class="speaker"><strong>发言人1: </strong></span>
-我不是说产品，我举个例子，flow mo flom o就是那个笔记软件，上来他们上来白光他们做的。他们其实就会像你刚刚讲的写杂志一样。因为他们要教别人怎么用它，然后教大家教别人说你把formal，比如说你要人生转型，那那怎么怎么对应上去你的笔记的方法，他们还出了本书。他这个东西有点像生产力工具，在在这个品类。但是大部分人其实是有自己人生的目的或者工作的目的需要完成，他要把它连上去。那这一步的时候，其实就像你说的那个PC要出杂志教人怎么用一样，然后得得教会人家用。所以他们就在大量的做内容品类。
-</p>
-<p class="transcript-line">
-<span class="time"><strong>[00:35:46]</strong> </span>
-<span class="speaker"><strong>发言人2: </strong></span>
-现在某种程度上也有一些那些proof的聚合网站。对。
-</p>
-<p class="transcript-line">
-<span class="time"><strong>[00:35:50]</strong> </span>
-<span class="speaker"><strong>发言人1: </strong></span>
-但是他就是我，我是说像比如说像manus，像fellow。应该自己来鼓励大家来教别人怎么用好自己，来把这个社区做起来。因为现在不能光靠自己做，所以这可能是一个竞争打法上的一种竞争优势。弗洛姆打法在AI时代可能会更重要。
-</p>
-<p class="transcript-line">
-<span class="time"><strong>[00:36:09]</strong> </span>
-<span class="speaker"><strong>发言人2: </strong></span>
-对，就是因为现在AI变成一个纯开放命题，就给了一台裸的电脑，跟你说这东西可牛逼了。但是大部分人只会打开它，打开了一个游戏开始玩，或者网上订的键盘，打开ACDC开始看图。实际上怎么把这个东西用起来，我觉得缺少好的。当然现在也有，现在其实渗透在比如短视频，这个清华博士教你学习大模型。
-</p>
-<p class="transcript-line">
-<span class="time"><strong>[00:36:30]</strong> </span>
-<span class="speaker"><strong>发言人1: </strong></span>
-这样的话确实就是比如说不管是manasa也好，还是像fellow什么的这种东西，他开局一个框，对吧？所以像你讲的就是绝大部分人一定用不好，那这个时候确实就需要教育，也需要一层一层的往上带。这样子最好就是可以把社区，像你讲的就是应该给KOL的钱是吧？这就是KOL很重要。
-</p>
-<p class="transcript-line">
-<span class="time"><strong>[00:36:53]</strong> </span>
-<span class="speaker"><strong>发言人2: </strong></span>
-是的，就是你相当于你花钱办杂志约稿，你得也得花钱，对不对？
-</p>
-<p class="transcript-line">
-<span class="time"><strong>[00:36:57]</strong> </span>
-<span class="speaker"><strong>发言人1: </strong></span>
-我们居然还扣back扣题了。
-</p>
-<p class="transcript-line">
-<span class="time"><strong>[00:37:00]</strong> </span>
-<span class="speaker"><strong>发言人2: </strong></span>
-我觉得这个也是一类巨大机会。第二类机会，我觉得也很有意思，是围绕计算机。当时有也有也出来一个东西叫做外设，就是最常见的一个外设叫做打印机，这个很容易理解，就是我装了world，然后我这个文章写了，然后我要寄给编辑。就是编辑也不一定有一台很好的电脑或者怎么样。那我就我我买一个打印机会把它打印出来，对吧？但是围绕它其实还有很多生态会有。当然鼠标键盘当然是一类生态，对吧？当时后来有了BBS，当时也有调制解调器，modern我你肯定应该也用过，我能通过电话线连连上网，然后还有什么外设呢？声霸卡。
-</p>
-<p class="transcript-line">
-<span class="time"><strong>[00:37:39]</strong> </span>
-<span class="speaker"><strong>发言人1: </strong></span>
-对，然后图形加速卡。
-</p>
-<p class="transcript-line">
-<span class="time"><strong>[00:37:40]</strong> </span>
-<span class="speaker"><strong>发言人2: </strong></span>
-它其实还有外设。其实我们看到这一轮里，其实也有一堆围绕AI能力的外设出现，对吧？典型的比如说plus这种做会议记录的录音笔。而且我觉得从过去两年来看，大家觉得都最后把所有的推理能力放在端侧，看起来没有那么靠谱。毕竟那个大的基础模型的能力比那个小模型能力还是要强太多，所以它最终会联网。这个外设就有点像PC时代那个accessory，是我还是得先买这台电脑的。但是买了那台电脑之后，我可以联系我的一个外设去解决更多我日常生活如何具体的问题。
-</p>
-<p class="transcript-line">
-<span class="time"><strong>[00:38:14]</strong> </span>
-<span class="speaker"><strong>发言人1: </strong></span>
-有道理，这里没有时间先后顺序。那如果推到这个时间点，就是你会觉得说比如说应该现在可以开始做外设了还是怎么样？有一个时间轴吗？对，如果我们就假设历史会重复的。
-</p>
-<p class="transcript-line">
-<span class="time"><strong>[00:38:27]</strong> </span>
-<span class="speaker"><strong>发言人2: </strong></span>
-我觉得如果去看历史重复，第一波肯定是productivity的。这些软件word style，VVS co是这波比其实bAllen比那个开发工具都起得更早。这波是有一些人在没有好的开发工具的行为。我是个专业程序员，我也没有AI的开发工具，我写了一个好的应用，发现对很多人都非常有用，传播的非常快。这其实是第一波，在软件中的第二波就是围绕这个东西有很多小的机会，就是什么拿个盘寄给你是十大埔，拿个盘寄给你是游戏。这些软件当中真正起来的一个大的品类其实是游戏，就除了生产力工具之外，真正起来的是游戏。所以我一直觉得有游戏，如果今天其实已经没有人在人人在聊carrot的AI这些事儿了，但其实我觉得这个是个被低估的机会。
-</p>
-<p class="transcript-line">
-<span class="time"><strong>[00:39:19]</strong> </span>
-<span class="speaker"><strong>发言人1: </strong></span>
-为什么你觉得carrick的AI是个背的？
-</p>
-<p class="transcript-line">
-<span class="time"><strong>[00:39:21]</strong> </span>
-<span class="speaker"><strong>发言人2: </strong></span>
-我喜欢我我说的不是carrot AI本身这个非常具体的产品形态，而是利用AI的个性化互动的能力去做游戏类的应用。是个被低估的机会。人类还是个很无聊的动物，就是游戏能会大大的品类，人类还是对这个新鲜的、刺激的有不确定性的。但是声光电效果好的事情，通过虚拟世界能够得到的体验是一个真实的大机会。
-</p>
-<p class="transcript-line">
-<span class="time"><strong>[00:39:47]</strong> </span>
-<span class="speaker"><strong>发言人2: </strong></span>
-只是这个机会在这一轮会在什么时候被满足，其实很难定义。因为游戏虽然早期像doom这些也是卖的很好，也是挣很多钱。但是跟跟比起比起微软挣的钱还是少太多了。但是它其实已经是一个足够大的品类，比起你去卖ACDC还是更值钱的对，比你去卖教育软件其实是更挣钱的企业。其实经过这样一个过程，像布雷达的就是暴雪？做魔兽世界这些的公司，他早年是被一个做教育类软件的公司收购的。他他的母公司是做这种类似于红温这样的公司收购了暴雪。所以在早期其实是教育类软件卖的比游戏好，但最终到今天游戏是比是一个比教育类软件大的大大的多的多的品类。
-</p>
-<p class="transcript-line">
-<span class="time"><strong>[00:40:36]</strong> </span>
-<span class="speaker"><strong>发言人1: </strong></span>
-是觉得游戏会有个新的维度出来，就是游戏并不是画面更好的电影，它多了一个interaction。比如说CI它跟游戏相比，其实它的声光电是更差了很多。但是你就可以任意选择role ay了，而不是像比如说你去仙剑奇侠传就只能是李逍遥，对吧？但是他这个role ay还是非常受限的。我最近也在想说，有没有可能就是把replay这件事情给做的更不是加声光电，而是把replay这件事儿做成更大更可能就你爱replay啥就replay啥，然后是直接进入到情节。对我我最近为了看这个的话，都已经开始看无限流的网文了。所以我觉得有可能它不是声光电上的进步，但是声光电日后再补上，对吧？
-</p>
-<p class="transcript-line">
-<span class="time"><strong>[00:41:22]</strong> </span>
-<span class="speaker"><strong>发言人1: </strong></span>
-现在的黑神话悟空，我觉得他的笔记比电影好看了。但是开始的时候应该就是他那个莫名其妙的那个维度。比如说可以让你在意难平的情节里面去改情节，然后让你互动进去，你来扮演林黛玉对吧？这事儿可能更重要。
-</p>
-<p class="transcript-line">
-<span class="time"><strong>[00:41:38]</strong> </span>
-<span class="speaker"><strong>发言人2: </strong></span>
-是的，就比如我们去看三国演义，虽然也有三国演义的游戏，它里面比如所有的故事类的事件都是预设好的。他没办法搞一个曹操三顾母茅庐请诸葛亮。为什么我说像kark AI这种应用还有机会？因为游戏早年出来他也不是day one，就是第一天我就想渗透所有用户，因为技术力的限制对不对？比如说很多人觉得不好，我觉得没什么好玩，特别是这种追求互动类的这种有点像小说一样，他自己的那个声光电的效果是非常差的，只是说你可以输入文字，它的反馈效果，文字冒险类游戏，那他可能只能适应一小群人。因为对大部分人来讲，那个时候我就看电视，都不是看录像了，我就看电视，打开电视机一看看4个小时.
-</p>
-<p class="transcript-line">
-<span class="time"><strong>[00:42:21]</strong> </span>
-<span class="speaker"><strong>发言人1: </strong></span>
-这边插入一个广告。就是如果你对刚刚我们讲的这个方向感兴趣的话，也可以在下面留个言。但最好是你在相关的，比如说写剧本干嘛的方面有过或者做游戏方面的经验。这样子的话我们将来如果组织一个这方面的到的话，到时候再再看怎么可以一起聊聊天什么的，就可以深度的聊一下。我觉得这条这个赛道是蛮有蛮有意思的，而且确实也有非常大神级别的朋友的话，感兴趣这个方面，所以我也蛮想搞一搞看一看。
-</p>
-<p class="transcript-line">
-<span class="time"><strong>[00:42:53]</strong> </span>
-<span class="speaker"><strong>发言人2: </strong></span>
-回到刚才说这个时间顺序是先是生产力工具，然后游戏基本上是同步或者稍微晚一点点。然后生产力工具出现之后，我觉得其实是先是出现了很多杂志跟教育类软件，就很容易把这个东西在快速上升，立刻就会出现信息分发的这个需求，不管是这些官方的这些硬件厂商出的杂志，还是这种第三方的杂志，还是各种各样什么打字软件、儿童教育软件，其实就是同步发生的。但是它会比最早申请的工具会晚一些。
-</p>
-<p class="transcript-line">
-<span class="time"><strong>[00:43:23]</strong> </span>
-<span class="speaker"><strong>发言人1: </strong></span>
-那这边机会是什么呢？就比如说现在多了一堆杂志，我应该去做一个比如说推荐网站，或者说我做一个AI因为现在杂志肯定会无数自媒体已经在做了，而是我现在比如说应该做一个过滤器，内容多了之后，理论上来讲就需要过滤器。比如说我是一个开场的，然后我想AI转型对吧？那其实大部分对我就没关系，但是像比如说今天这个设计的可能就稍微有点关系，但是manner跟我就没关系，但是那个love art可能就有点关系。然后他就会再高，然后我再说其实我要设计电路板，然后他就会告诉我说可能有一个博主他就写过怎么用它做电路板。
-</p>
-<p class="transcript-line">
-<span class="time"><strong>[00:44:00]</strong> </span>
-<span class="speaker"><strong>发言人2: </strong></span>
-我觉得反而是倒过来的。现在其实缺少真正的杂志。今天自媒体我觉得以两类为主，就是它面对的用户还不是普通用户。就换句话说，今天有哪一个AI的自媒体，我会推荐给我老婆用。
-</p>
-<p class="transcript-line">
-<span class="time"><strong>[00:44:13]</strong> </span>
-<span class="speaker"><strong>发言人2: </strong></span>
-我太太也受过高等教育？MBA？他在一个所谓的大的上市公司，但是他们是一个医疗行业，就是这个行业其实今天你说AI对他们的日常的工作有很大影响吗？其实没有对吧？就好像我比如说我80年代我也在一个医药公司。但是真的好的杂志慢慢的面向用户去普及，其实是要能服务这群用户。
-</p>
-<p class="transcript-line">
-<span class="time"><strong>[00:44:35]</strong> </span>
-<span class="speaker"><strong>发言人2: </strong></span>
-我觉得今天的产品，其实今天的大部分内容面向的是两类用户。一类的用户就是他其实缺少好的给有付费能力的的普通用户去使用。我觉得不是反而不是小白，就他跟我们的那种定义的小白下沉市场还有比较大的差别。因为有两类市场，一类市场叫杂志，是吧？我还愿意花钱买了，我会一直花钱买来看的。
-</p>
-<p class="transcript-line">
-<span class="time"><strong>[00:45:02]</strong> </span>
-<span class="speaker"><strong>发言人1: </strong></span>
-我理解你这个感觉，因为我早几天在在混沌学员在跟网易的潇潇有一场直播。然后他是好像网易企业服务那边的总经理，做了一个分享，讲的很好，就是都在讲比如说他们这个产品怎么做的，那个agent怎么怎怎么搞的。然后评论区一片一片在问，说那个智能体是什么，以及怎么应该第一步应该怎么做，以及提到的那个东西怎么打开。就是很但是能听的，因为那场是闭门的一个连麦，所以来听的都是交了蛮多钱学费的，都是像你讲的有付费能力。但是确实就是你会发现，比如说我们两个这样扯这些东西，其实离大家就还挺挺远的，就会大家觉得会没有干货，因为他还没有，比如说他不知道扣子是什么。对，我还在下面帮大家打了扣子的，在评论区把扣子给他的网址发过去。很多基础概念和基础工具不会用。那这个时候其实是你是说其实还缺一个入门级的一个媒体吗？
-</p>
-<p class="transcript-line">
-<span class="time"><strong>[00:46:05]</strong> </span>
-<span class="speaker"><strong>发言人2: </strong></span>
-我觉得这个媒体是是是缺的。我觉得就是说从真的帮助普通人能够用好AI在他的工作场景中，我觉得其实就这么简单。我们今天还是把AI跟PC一样当成是个效率场景，缺一个excel的各种技巧跟教程，然后能面向所有的白领去使用的这么一个媒体，而不是告诉你love up。周松韵牛逼。
-</p>
-<p class="transcript-line">
-<span class="time"><strong>[00:46:29]</strong> </span>
-<span class="speaker"><strong>发言人1: </strong></span>
-我觉得你的判断可能是对的。因为我我一直关注一些海外的东西，然后之前我就觉得有一个人做的还不错，叫dania per，做的那个叫every。然后他就出了一个博客，专门叫AI and I然后就是在采访各种人。比如说采访那个A16Z那个做博客的那个女孩子，然后问她是怎么用AI做博客。然后他们的做法不是像我们一样讲个PPT，他们的做法是直接share屏幕，直接share屏幕再说。那你碰到这个问题，然后碰到那个问题，这个怎么打，他怎么回的，就非常之实操。
-</p>
-<p class="transcript-line">
-<span class="time"><strong>[00:47:08]</strong> </span>
-<span class="speaker"><strong>发言人2: </strong></span>
-举个例子，你去回想，比方说我们上大学，比如2000年前后，可能电脑慢慢在中国渗透到各种家庭，大家会去买什么书会去买什么？Windows、word、excel怎么用？我觉得其实是这个是我说说从你说从杂志，从内容角度。因为今天很多自媒体我觉得做的很好，所以内容更新的也很平缓。但是我觉得它的内容，第一个是很多篇资讯跟PR对不对？有一个新的模型，我跟你讲一下这个牛逼这些东西我可能还会看一看，说是不是有个新的模型我值得去看一看过。你给我太太看，他虽然是个硕士，他他也看不懂，他也不会去看这个破玩意到底是个什么玩意儿。
-</p>
-<p class="transcript-line">
-<span class="time"><strong>[00:47:49]</strong> </span>
-<span class="speaker"><strong>发言人1: </strong></span>
-你拿这个标准就很好，我也不会给我太太看。
-</p>
-<p class="transcript-line">
-<span class="time"><strong>[00:47:52]</strong> </span>
-<span class="speaker"><strong>发言人2: </strong></span>
-这些人可能又有点看不上纯抖音的那种不停的卖课的那个逻辑。
-</p>
-<p class="transcript-line">
-<span class="time"><strong>[00:47:58]</strong> </span>
-<span class="speaker"><strong>发言人1: </strong></span>
-第一层还是麦克，对吧？就假设能卖掉的那些卖客的，已经把那个比如说获客成本抬到那里了。那做一个这样的东西，它能在商业上能成立。
-</p>
-<p class="transcript-line">
-<span class="time"><strong>[00:48:08]</strong> </span>
-<span class="speaker"><strong>发言人2: </strong></span>
-商业上成不成立只是假设。如果这个细分的人群存在，你能提供好的品质，因为商业最终还是算你要能不能创造价值。反而是说我觉得值得去看一看今天卖课的这些人的课的内容做的是不是足够好。我的判断是真的迈克这些人课做的不一定差，所以我觉得值得去看一下。但我觉得即使在心态上，也有一个巨大的人群的缺口。这个人群的缺口就是不是小白，我就是我觉得还是有一大群知识工作者，他想用AI但是他其实是去立刻去麦克去小白。
-</p>
-<p class="transcript-line">
-<span class="time"><strong>[00:48:42]</strong> </span>
-<span class="speaker"><strong>发言人2: </strong></span>
-我觉得这个市场其实也有很多人冲进去了。然后面向业界的这些有最新资讯，也已经有很多人了。但是真正的面向大量的，我觉得终极白领其实这个市场我觉得相对来讲，至少我没有看到有特别好的产品，或者说有很多今天的很多自媒体还在一个早期阶段。是什么叫早期阶段呢？它其实没有一个定位。
-</p>
-<p class="transcript-line">
-<span class="time"><strong>[00:49:07]</strong> </span>
-<span class="speaker"><strong>发言人1: </strong></span>
-就是有啥我发啥，或者说小纯小白的那种咨询型，比如说怎么写prompt这种已经在了。但是比如说一个营销人，或者你就是一个创业老板，你要去管理决策，你如何用AI来帮助你。这个单对细分一点，其实就怕在传统的培训行业，你光教领导力也是一个很大的市场。那你光领导怎么用好AI这个其实就是领导力。不是还有一篇论文讲那个用AI的能力跟传统领导力是完全重合的一个东西。你我有一个最近观察到的一个小事儿，可能可以支持到你一下。你知道那个兰尼斯。
-</p>
-<p class="transcript-line">
-<span class="time"><strong>[00:49:41]</strong> </span>
-<span class="speaker"><strong>发言人2: </strong></span>
-我知道我是订付费订阅用户leny，因为当时搞了那个那个bundle，他是第一次搞bundle的时候，我买的这他他后来。又加了这么多东西，我觉得我亏了。因为他后来把curse什么的也打包进去，我买的时候还没有cosa只有capacity.
-</p>
-<p class="transcript-line">
-<span class="time"><strong>[00:49:56]</strong> </span>
-<span class="speaker"><strong>发言人1: </strong></span>
-所以当时就买了。他好像有一个播客的网络，然后他最近开了个新的，有一个女生开了一个叫做好像叫号IAI其实就是你这个思路，他其实在采访不同的人说how to use AI to work。所以其实就是我们先不讲变现，光在内容的定位上，好像这确实就是一个各行各业你的工作具体就跟dance有点像的。怎么用好AI这个东西可能是一个大家真的需要要能创创造价值的东西。
-</p>
-<p class="transcript-line">
-<span class="time"><strong>[00:50:27]</strong> </span>
-<span class="speaker"><strong>发言人2: </strong></span>
-这个定位我觉得上下还有延伸而已，一个延伸就是儿童教育市场。对，因为最近我们家老二在开始学编程，就是一开始你会发现他已经开始百度上搜一下，生成了一段python代码贴在里面，可能是个会打飞机的小游戏，说这个东西能不能调动？他跟我说这个字体没有，网上去找字体或者什么，你会发现他今天来学习编程的逻辑跟30年前我们去学编程的逻辑已经彻底变了。
-</p>
-<p class="transcript-line">
-<span class="time"><strong>[00:50:54]</strong> </span>
-<span class="speaker"><strong>发言人1: </strong></span>
-你用什么编程软件教他们？比如说我宝宝的话有那种像游戏化的那种东西，我给他什么code Spark ker什么的。
-</p>
-<p class="transcript-line">
-<span class="time"><strong>[00:51:01]</strong> </span>
-<span class="speaker"><strong>发言人2: </strong></span>
-他以前也用过，但没有，他就用了一个比较弱的ID，我都没有给他用VS code之类这种。现在的ID1开始是一开始的想法，还是说因为那些现在的这些ID都已经完全代码补全，你就觉得你好像完全不会就跑出来也不行。你还是就我还是希望他至少起步的时候能说这个东西报错，我能看懂报错信息，然后我去改对吧？把我改的我都不知道他在他是怎么改的对吧？这个我觉得也是个问题，你这个就跟。
-</p>
-<p class="transcript-line">
-<span class="time"><strong>[00:51:28]</strong> </span>
-<span class="speaker"><strong>发言人1: </strong></span>
-不用计算器一样。
-</p>
-<p class="transcript-line">
-<span class="time"><strong>[00:51:30]</strong> </span>
-<span class="speaker"><strong>发言人2: </strong></span>
-其实不是我教他的，其实是我太太给他报了个班儿，老师的要求。但是我自己的观察是说，其实我我觉得这个也很纠结，我觉得这个事也就是这个方式到底对还是错？我其实有个小小的问号，就到底应该是说完全让他用就能用AI还是不用AI你先把基本概念还是要搞清楚，我其实有点犹豫的。
-</p>
-<p class="transcript-line">
-<span class="time"><strong>[00:51:51]</strong> </span>
-<span class="speaker"><strong>发言人1: </strong></span>
-我讲一个我看到的东西，就是在猫上面说他们会观察到每一代人用AI的方法不一样。用题老一点，把它当google用。中年人就把它当一个adviser，当一个顾问。但是年轻人就会把它当一当当一切，就灌无数的知识，然后大家具具匪夷所思的配置，然后所有事儿都问OS当操作系统。
-</p>
-<p class="transcript-line">
-<span class="time"><strong>[00:52:15]</strong> </span>
-<span class="speaker"><strong>发言人1: </strong></span>
-我这边有一个真实的例子，就是芒果同学，他去参加2050，然后回来跟我讲说他在旁边观察了一个小朋友写程序观察了很久。因为那个小程序，那个小朋友明显的不会写代码，所有的东西都是AI生成的。但是那个小朋友出来的代码都是能跑的。我们已经几个月前已经是规定了，前后台百分之百不能有人类代码，就全都是A。但是实际他们的操作过程当中的跑通率还是要调。对，并没有那个小朋友那么高。
-</p>
-<p class="transcript-line">
-<span class="time"><strong>[00:52:46]</strong> </span>
-<span class="speaker"><strong>发言人1: </strong></span>
-然后他就仔细观察小朋友，发现说小朋友天然用法就跟他们这些人就不一样。小朋友每一个页面只有一个功能，要完成一件事就要点56下，所以它天然适合AI知道吗？说为什么小朋友的那个AI用的那么好，他每次那个代码居然是能够通过的，就都不用改。最后发现不对，小朋友那个思路，但是芒果你知道是一个比较极端的人吗？他他回来是说我们要向小朋友学习，我们改我们的设计，设计往小朋友那个方向改，他才是未来，他是对的。对，所以我也在想说，是不是我们就是我们有很多带来的一些东西，我其实适应我们当时生产力的那那些老师教的肯定都是很旧的东西，肯定比我们脑子里的东西还旧。所以我会觉得是不是可以让他们就更自由。
-</p>
-<p class="transcript-line">
-<span class="time"><strong>[00:53:35]</strong> </span>
-<span class="speaker"><strong>发言人2: </strong></span>
-对我我觉得你这个就提示到我，你说你用这些agent，你不敢往里填你的用户名和密码。我想了想，可能小朋友就是敢填的对吧？我想了一下我也不敢填。你说让我把什么银行卡密码假设让我说，我在想是不是一个小朋友说这是AM对吧？我填就填了，这是个agent。
-</p>
-<p class="transcript-line">
-<span class="time"><strong>[00:53:52]</strong> </span>
-<span class="speaker"><strong>发言人1: </strong></span>
-对，他们肯定敢填。成年人比较谨慎，不见得是能够最快的把他的那个潜力都释放出来的。
-</p>
-<p class="transcript-line">
-<span class="time"><strong>[00:54:00]</strong> </span>
-<span class="speaker"><strong>发言人2: </strong></span>
-我觉得取决于你需要干什么。因为我我最近有一个体会，就是我其实很少用AI的summarized功能帮我读内容，我几乎从来不用。作为一个人类，我觉得读原文是我portrait的一个过程，是我自己的一个过程，为什么呢？就是比方说今天的小孩子还要不要去学那些数学物理，我觉得可能是需要的，是因为它仍然需要portrait。我的大脑里现在有一堆参数，然后只有读完那个原文它才能帮我调整一些参数。它要调的参数summarized之后再塞进来，可能就没有调到我想要调的参数。宁愿速度我更快的去过这个数据，对吧？我会把英文的，现在我基本上不会读英文原文，我一定先翻译成中文读，觉得有问题了再去翻看英文，对吧？这个跟三年前已经完全不一样了。但是我一定还是会把完整的原文快速读完，而不是说让AI帮我summarize一下这个是为什么？从教育的角度我其实有一个疑问，就是当时是不是他还是现在把那个retrain的过程给做完。
-</p>
-<p class="transcript-line">
-<span class="time"><strong>[00:55:01]</strong> </span>
-<span class="speaker"><strong>发言人1: </strong></span>
-我两个反馈，一个就是讲说我也不从来不用AI summarise。但是是因为我读任何东西，我要的都不是篇文章的结论，我要的其实是inspirations。就比如说它里面有个例子我觉得挺好的，或者说它里面有一个打法我觉得可以抄。但是其实很有可能，比如说他这个是在讲他人生经历的，但是其实我根本不care他人生经历，但是我care就比如说他采访pollux CEO，我关心的点是里面的具体的可能我需要的东西。其实我是我是在里面摘果子纳到我的网络里面，对于他的是否精确总结我完全不care。所以我如果有一个我的agent能够按照我的品味把我要的那四段摘出来，我是需要这个功能的，我不需要他summarized，但是我需要他pick我其实是只是现在做不到。
-</p>
-<p class="transcript-line">
-<span class="time"><strong>[00:55:52]</strong> </span>
-<span class="speaker"><strong>发言人1: </strong></span>
-我最近就是我之所以把那个read vice，我刚刚说续费了，是因为我发现好像可以hack他的那个ghost reader那个功能。然后它是可以去把那个prompt给改掉的，就是它的sumi ze你可以把它扭曲成一个不是summarize ze是让他在中间帮你挑东西的。当然我现在试起来效果不是很好，但是11 99美金已经交了。然后另外一个我觉得你刚刚里面有一个细微的差别的地方，就是你其实是希望他被大量优质语料retrain过，和他要读原文这两件事情是没有关系的。比如说他同样读100万字的东西，只要这一一我觉得只要是高质量的，并且是投入的，因为投入会看他刻在脑子里那个print train的强度深不深。我觉得就是他如果质量越高以及他越投入但然后字假设那些字都是100万字字的量不变，而不是说他只要要一个答案他不看了，我觉得是后者更好，那就应该是他不要去看。
-</p>
-<p class="transcript-line">
-<span class="time"><strong>[00:56:50]</strong> </span>
-<span class="speaker"><strong>发言人1: </strong></span>
-比如说他他喜欢生物，不应该是你去就随机的，他拿到了一本书，然后有生物的书，而是他就感兴趣那个虫子，就从虫子开始问起，然后就开始跟AI聊起来了。AI就不停的跟他引述他感兴趣那个方面。其实比如说虫子的这个甲，那他为什么这么硬？为什么这么会这么硬呢？他那他跟牙膏的那个皮有什么相关，然后就不停的跟他扯。然后他在这个过程当中还是阅读到了比如说100万字，但这100万字都在他的一个都在他的兴趣线上。我我觉得我也觉得要free training for AI假设说有教育功能可以帮他，稍微的往旁边延展一下，不是相当于只是给答案，那就更好了，他就是可以去挖一个洞，他不需要去搭那个体系，因为体系真的不重要。但是你在一个洞里挖到的不够深，而且这个洞都是他的兴趣和line到一起的，我觉得这个可能会更重要一点，他他有大量的这种play training就可以了，他有非常多的小生动就可以了。
-</p>
-<p class="transcript-line">
-<span class="time"><strong>[00:57:47]</strong> </span>
-<span class="speaker"><strong>发言人2: </strong></span>
-所以我说这是一个疑问。就是说你的program这件事情上，我会有很多我自己的包袱，对吧？就是因为你是觉得自己是个高在这个上面是个高水平用户。你觉得说我的过去的学习经验是有效的，但是这个真的有效吗？
-</p>
-<p class="transcript-line">
-<span class="time"><strong>[00:58:03]</strong> </span>
-<span class="speaker"><strong>发言人1: </strong></span>
-其实是个问号。明白，我给你讲个段子，就是芒果跟等的研发同事就有一天就那边感叹说那都是很强的架构师。然后说他们要是不懂这些东西的话，之前速度快可以快十倍的，就我们的AI画。然后就在那天就在说，要是有人完全不懂的话，他做这件事情就顺利了，然后两个人就开始看向我。他们很羡慕我没有这个历史包。
-</p>
-<p class="transcript-line">
-<span class="time"><strong>[00:58:29]</strong> </span>
-<span class="speaker"><strong>发言人2: </strong></span>
-我觉得这是另一种神话跟hip段子。
-</p>
-<p class="transcript-line">
-<span class="time"><strong>[00:58:33]</strong> </span>
-<span class="speaker"><strong>发言人1: </strong></span>
-对，就不要当真。所以我们今天聊的其实不是要不要做pro consumer，而是从PC互联网来看的话，浪一浪到底是哪些东西可能会出来，有哪些机会。
-</p>
-<p class="transcript-line">
-<span class="time"><strong>[00:58:44]</strong> </span>
-<span class="speaker"><strong>发言人2: </strong></span>
-对，我们刚才讲的是跟就是我觉得杂志这种形态。因为就是我觉得作为生产力工具，你不管再怎么这样，这个东西应用最后还是要学习使用的。今天XGP已经很好用了，但是用的好和用的差值差别非常大。而且这是一个未来一定是一个全民都会使用的工具。那么去教会各行各业的人怎么在他的场景里用去创作这样的内容，我觉得是一个一个大的机会。当然下沉就是把这类给偏儿童或者青少年教育，其实也是一类。
-</p>
-<p class="transcript-line">
-<span class="time"><strong>[00:59:16]</strong> </span>
-<span class="speaker"><strong>发言人2: </strong></span>
-另外一个我觉得其实今天已经竞争非常激烈的就是AI coding了。你会去想说其实90年代所谓的这些巨头提供的其实都是某种程度的AI coding能力。我们刚才讲了微软对吧？微软其实除了我们知道操作系统之外，它当时很大的一个是开发者业务，就是visual studio VC加加basic这些东西。然后blend是当时是一个叫RAD rabid application development对吧？快速应用开发的，就是他当时推了什么delphy。对，我知道我们上大学的时候，delphy还是很火的。就是大家很多人觉得跟VC加加可以媲美的一个生态体系，对吧？
-</p>
-<p class="transcript-line">
-<span class="time"><strong>[00:59:56]</strong> </span>
-<span class="speaker"><strong>发言人2: </strong></span>
-然后我们再去想那个时候就有哪些巨头，oracle对吧？比如oracle是其实数据库是另一个视角的开发者工具，就database是其实你可以认为它也是个开发者工具。就是我写的不是program的code，我是把数据放在里面，我可以写c col写存储过程去计算它，就又是服另一队开发者SAP他其实也是在说我有一堆现成的组件，我去学习above。后来可能是java去配公司的业务流程。
-</p>
-<p class="transcript-line">
-<span class="time"><strong>[01:00:25]</strong> </span>
-<span class="speaker"><strong>发言人2: </strong></span>
-所以AI coding其实一定是一个巨大的市场。而且今天这个市场其实竞争已经非常已经比较激烈了。因为这个行业的所有的行业的人都很熟悉这件事儿。就是今天所有做模型的这些人都很熟悉program这件事儿。
-</p>
-<p class="transcript-line">
-<span class="time"><strong>[01:00:39]</strong> </span>
-<span class="speaker"><strong>发言人2: </strong></span>
-但是你也会看到，从这个视角其实也有很多机会。你如果回顾八九十年代，我们刚才讲的这些公司是不是都都活下来了，但是play的没有活下来，除了bay的对，然后最后我觉得是个硬件，但硬件我觉得比较典型。其实所谓的硬件其实也很容易理解，本质上是围绕模型的输入输出设备，就像PC的硬件也是围绕PC的输入输出设备。打印机本身是个输出设备，当时可能也有卖那个键盘、鼠标、遥感modern，modern其实是一个联网的输入输出设备，对吧？声霸卡其实也是个声音的输出设备，本质上就是AI需要什么样的输入输出，就是我们今天看到能做的比较好的像plus，它包括一些所谓的AI耳机、鼠标，其实也都是这个机会。
-</p>
-<p class="transcript-line">
-<span class="time"><strong>[01:01:23]</strong> </span>
-<span class="speaker"><strong>发言人2: </strong></span>
-但是这个机会我觉得现在竞争也已经比较激烈了。但是我觉得这当中还是会随着这个AI的能力，其实会有一波一波的输出这种硬件设备的机会。那能力变了，可能你过两天可能卖的就是摄像头了。
-</p>
-<p class="transcript-line">
-<span class="time"><strong>[01:01:36]</strong> </span>
-<span class="speaker"><strong>发言人1: </strong></span>
-我一边听你讲，一边就想到很多的，可以看一下或者做一下，这个还是很高价值的这一轮。
-</p>
-<p class="transcript-line">
-<span class="time"><strong>[01:01:43]</strong> </span>
-<span class="speaker"><strong>发言人2: </strong></span>
-的创业者有很多也是参与过上一轮的移动互联网创业的。
-</p>
-<p class="transcript-line">
-<span class="time"><strong>[01:01:47]</strong> </span>
-<span class="speaker"><strong>发言人1: </strong></span>
-因为没有经历过PC那一代，大家都太容易类比移动互联网。但是可能是个不正确的类别。
-</p>
-<p class="transcript-line">
-<span class="time"><strong>[01:01:53]</strong> </span>
-<span class="speaker"><strong>发言人2: </strong></span>
-对，因为我觉得移动互联网，包括我们自己做产品，我有一个是不是过度依赖了，说移动互联网的套路，是不是今天的移动互联网对我们来说只是一个分发渠道，而不是应该从移动互联网的核心商业模式去想你的产品做成什么样子。你可能我还是得依赖f store去做分发。所以移动互联网的所有的增长手段都对我是有用的，但是产品手段或者产品思路应该去模仿学习移动互联网吗？我觉得其实是有一个比较大的疑问。
-</p>
-<p class="transcript-line">
-<span class="time"><strong>[01:02:20]</strong> </span>
-<span class="speaker"><strong>发言人1: </strong></span>
-可能会去看PC甚至于就是不是移动互联网是也不是互联网，是PC那一波的事情，可能更有参考意OK.
-</p>
-<p class="transcript-line">
-<span class="time"><strong>[01:02:27]</strong> </span>
-<span class="speaker"><strong>发言人2: </strong></span>
-大家分享一下，或者你可以写一下，作为第一个就是如何用好deep research，这个是个很有价值的内容。我就简单讲。
-</p>
-<p class="transcript-line">
-<span class="time"><strong>[01:02:35]</strong> </span>
-<span class="speaker"><strong>发言人1: </strong></span>
-假设是我懂的东西，不懂的东西就直接用，懂的东西的话我会让他再给我。比如说100个对于这个话题觉得比较牛逼的100个人物或者书籍，或者就相当于那种专家。然后把和他们主要的那个观点类型后，我就会去相当于100个里面的话，可能只有三四个是真的，你觉得方向是对路的，然后你我会去把那些东西我点开就相当于100篇，然后你可能就会点开个35篇的东西，或者十几篇，点开了之后我会飞快的看，然后看的时候我就会做摘抄。其实我就是去理解说这个我觉得懂的领域，其实我就肯定100个里面我就会很挑剔。然后摘抄完了之后的话，我会对着那些摘抄的话，对着那个get笔记我会说一遍，就相当于这一段大概什么意思，我选它就把我的理解和它启发了，我哪个点说出来，然后我把这个get笔记会把它整理成通顺的文章，因为你说乱说的，然后它整理通顺了之后的话，我会把这个通顺的相当于一个few shots，再丢回给那个deep research。然后说这是我要的一个大致的框架和这些就我要的东西是什么？然后这是我刚刚看到的一个比较好的一些对我有奇葩的东西，然后让他再根据我这些有奇葩的东西去思考我要的那个方向，再给我一个deep deep research。这个时候的话第二遍就会质量高很多。
-</p>
-<p class="transcript-line">
-<span class="time"><strong>[01:03:54]</strong> </span>
-<span class="speaker"><strong>发言人2: </strong></span>
-所以这是个home in the loop的，就是deep的work flow，它还不是一个套两个，这个需要你人工去介入说，我就是理解。对。
-</p>
-<p class="transcript-line">
-<span class="time"><strong>[01:04:03]</strong> </span>
-<span class="speaker"><strong>发言人1: </strong></span>
-其实我现在越来越觉得说prompt engineering的时候，已经不是因为AI已经比我聪明了。我现在觉得所有的AI的我们的prompting不是在在更好的用好它，而是更好的跟他alive，把我的上下文和我的偏好暴露给他他只有这个是不知道的，其他的事情他都知道的，比我多想的比我。
-</p>
-<p class="transcript-line">
-<span class="time"><strong>[01:04:26]</strong> </span>
-<span class="speaker"><strong>发言人2: </strong></span>
-好是的这这个是我也觉得是现在用AI的一个挑战是什么呢？你感觉你要打很多字，打很多字写的非常详细。但是这个我觉得带来另外一个困扰，就是说我有时候会觉得，比如说我让他写代码，我想我都写那么详细了，不如我先把代码写了。
-</p>
-<p class="transcript-line">
-<span class="time"><strong>[01:04:41]</strong> </span>
-<span class="speaker"><strong>发言人1: </strong></span>
-对，所以需要他有长记忆。你的东西包括我上次跟于一聊完之后，我就确实我在里面建了一个1500字的我自己的画像。对，各种各样的东西我都告诉他他我的是我的我的MBTI，我的各种测试结果什么，他反正至少这些他是都知道的，只是莫名奇妙。他在都知道这些事情之后，我现在也不知道是不是因为这个原因，还是因为那是因为O三本来就这样。我觉得O三的那个说话方式越来越低，不可话就说话神神叨叨，还是说他觉得我这种性格就喜欢那种神神我的，反正我就觉得这样我们可以跑跑一个deep research，让他也帮我们研究一下，怎么样可以在这一轮找到机会。我觉得你刚刚讲的很多点真的很有启发。
-</p>
-<p class="transcript-line">
-<span class="time"><strong>[01:05:24]</strong> </span>
-<span class="speaker"><strong>发言人2: </strong></span>
-我会再听一遍。因为我个人是个Rachel computer的爱好者，我们叫复古计算机的爱好者。发现我们今天设想过的很多东西，其实在时代都有一些稀奇古怪的产品都干过。
-</p>
-<p class="transcript-line">
-<span class="time"><strong>[01:05:37]</strong> </span>
-<span class="speaker"><strong>发言人1: </strong></span>
-按照你的说法，下一次我去硅谷的时候，我一定会去参观那个PC博物馆的。
-</p>
-<p class="transcript-line">
-<span class="time"><strong>[01:05:42]</strong> </span>
-<span class="speaker"><strong>发言人2: </strong></span>
-我这个印象说我觉得confident state museum是硅谷最值得去的旅游景点。
-</p>
-<p class="transcript-line">
-<span class="time"><strong>[01:05:47]</strong> </span>
-<span class="speaker"><strong>发言人1: </strong></span>
-好的，我下次会去。
-</p>
-<p class="transcript-line">
-<span class="time"><strong>[01:05:48]</strong> </span>
-<span class="speaker"><strong>发言人2: </strong></span>
-是的，其实我们做的很多产品就是没有那么偏productivity。我在想说PC出来的时候，有没有人做这种各种各样software来干这个事儿？我发现真的是有的是不是？然后你在youtube上还能翻到当时的那些软件的，比如说整个1个小时的gid的录屏是怎么样的。阳光底下没有新鲜事儿，所以我觉得是值得仔细去看一下这个80年代这些就是大家的起起伏伏，就是什么东西咵一下就起来了，然后慢慢可能衰退。
-</p>
-<p class="transcript-line">
-<span class="time"><strong>[01:06:20]</strong> </span>
-<span class="speaker"><strong>发言人1: </strong></span>
-以前王慧文讲好像讲过一个观点，说什么事情你觉得有有很重要，很很牛逼的话，你就做一下。如果不行的话，你三年之后再做一次，条件就变了。做那个PC那边可以找到那个software，可以参考的话，我是越来越觉得应该跨年代再去参考。因为我觉得我们的脑子其实是被互联网和PC或者和移动互联网塑造过了，所以很多的条条框框我们是被框住了。我们这个框当然是有道理的，但是我们的想象力一定有一个莫名其妙的墙壁，把我们在一些在一些地方挡住了。对然后如果去看跳过，就是去看那些没有经历互联网和移动互联网的人。他但是他们就是他们的一些在解决同一类事情上的信息化的想法，或者他们对于未来的畅想的话，有的时候会打开一些非常莫名其妙的边界。
-</p>
-<p class="transcript-line">
-<span class="time"><strong>[01:07:14]</strong> </span>
-<span class="speaker"><strong>发言人1: </strong></span>
-少男还在更新产品层思路的时候，经常就放一些那种特别老的PC的先辈们的一些关于产品设计上面的东西。我之前真的是被惊到过N次，就是还能这样。就比如说他们当时设计的一些coding的东西，你就会觉得说，比如说他的coding就是在旁边是实时有结果的。你知道就是你你会觉得这个杯子应该是有的时候意思就里面有个洞，对吧？就可以装东西的。看到凸起来这个杯子的时候还是会蛮震惊的，还能这样，但是你就算没往这个方向想过，所以我觉得像你刚刚讲说回到那个时候，把这批东西看一遍确实是有用的。那就回到了下一个问题，你什么时候会写这个东西？
-</p>
-<p class="transcript-line">
-<span class="time"><strong>[01:07:54]</strong> </span>
-<span class="speaker"><strong>发言人2: </strong></span>
-我一定会抽空写的。我觉得今天这个反正我可以写，我可以deep的试一下，然后写写一下大纲，然后让AI来写了。
-</p>
-<p class="transcript-line">
-<span class="time"><strong>[01:08:02]</strong> </span>
-<span class="speaker"><strong>发言人1: </strong></span>
-好的，那我们就等你的那个更新好了。今天我们其实聊的就是刚刚那个新的标题比较好，就是通过硅谷PC往事，看这一次AI的浪潮中的机会，我们来一一对应来找大家。如果觉得那个有帮助的话，请转发给朋友们，然后再留言。我们多看点留言。对的，留言多一点，显得这边很热闹的样子，推荐给朋友们。然后我们会定期聊天，也会邀请嘉宾聊天儿，然后我们也会自己发表各种奇奇怪怪的问题。大家如果对于刚刚讲的东西觉得有有兴趣的话，除了转发、订阅、评论之外的话，还有一个办法就是疯狂的留言艾特徐文浩老师对吧？然后催他更新，然后这样子我们就可以看到更系统化的内容。好，谢谢大家好，谢谢拜拜。好。
-</p>
-<p class="transcript-line">
-<span class="time"><strong>[01:08:54]</strong> </span>
-<span class="speaker"><strong>发言人2: </strong></span>
-谢谢。
-</p>
-<p class="transcript-line">
-<span class="time"><strong>[01:08:55]</strong> </span>
-<span class="speaker"><strong>发言人1: </strong></span>
-拜拜可爱。
-</p>
-<p class="transcript-line">
-<span class="time"><strong>[01:09:02]</strong> </span>
-<span class="speaker"><strong>发言人1: </strong></span>
-这安的。Why I see you in the door.
-</p>
-<p class="transcript-line">
-<span class="time"><strong>[01:09:17]</strong> </span>
-<span class="speaker"><strong>发言人1: </strong></span>
-I travel with the british. No way.
-</p>
-<p class="transcript-line">
-<span class="time"><strong>[01:09:33]</strong> </span>
-<span class="speaker"><strong>发言人1: </strong></span>
-都知道的爱。
-</p>]]></content:encoded>
-            <pubDate>Tue, 20 May 2025 11:43:07 GMT</pubDate>
-            <guid>682c7160a5412dad8caeec9c</guid>
         </item>
     </channel>
 </rss>

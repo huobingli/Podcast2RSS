@@ -4,7 +4,1028 @@
         <title>硅谷101</title>
         <link>https://www.xiaoyuzhoufm.com/podcast/5e5c52c9418a84a04625e6cc</link>
         <description>分享当下最新鲜的技术、知识与思想</description>
-        <lastBuildDate>Mon, 16 Feb 2026 04:42:29 +0800</lastBuildDate>
+        <lastBuildDate>Sat, 28 Feb 2026 04:48:42 +0800</lastBuildDate>
+        <item>
+            <title>E226｜聊聊DeepMind创始人哈萨比斯：一个科学家与失控的AI竞赛</title>
+            <link>https://www.xiaoyuzhoufm.com/episode/699f8dc4ff5fd5761ab49c2a</link>
+            <description>他是霍金口中“地球上最聪明的人之一”，4岁下国际象棋，13岁获大师称号，却在一场对弈中突然顿悟，转身奔向人工智能。
+他是DeepMind创始人，AlphaGo、AlphaFold背后的大脑，2024年诺贝尔化学奖得主。他也是那个因执念于强化学习险些错失大语言模型时代，又率领谷歌Gemini逆袭，成功回到牌桌的“孤傲天才”。
+我们想聊聊哈萨比斯，不仅因为他的天才传奇，更想了解：发明终极技术的那一小撮人，他们的思想从何而来，动机又是什么？
+作者塞巴斯蒂安·马拉比在传记中抛出一个问题：哈萨比斯一直想做正确的事，但他能做到吗？
+本期播客，我们邀请到了《哈萨比斯：谷歌AI之脑》译者周健工，他也是中国最早当面采访哈萨比斯的媒体人。我们从哈萨比斯的少年往事聊起，复盘DeepMind被谷歌收购的博弈，以及错失大模型的战略失误，也追问了那个绕不开的问题：当一个科学家手握可能改变人类命运的技术，他的理想、执念与野心，会把我们带向何方？
+【主播】
+泓君，《硅谷101》创始人，播客主理人
+【嘉宾】
+周健工，未尽研究创始人，资深媒体人，《哈萨比斯：谷歌AI之脑》译者
+【你将听到】
+03:12 外表普通，智力超群——译者对哈萨比斯的第一印象
+06:53 作者马拉比为什么选择哈萨比斯
+哈萨比斯早年经历
+10:38 象棋神童的顿悟时刻：下棋并非人生的全部，转向人工智能
+13:41 他在游戏中植入“智能体”的雏形，却因算力不足失败
+15:50 “如果你不能把一个东西造出来，你就不能真正理解它”
+17:22 对强化学习的执念，为未来悄悄埋下伏笔
+20:15 学派之争：萨顿的“强化学习”和辛顿的“深度学习”
+DeepMind崛起和失误
+22:23 DeepMind另外两位创始人登场：肖恩·莱格和苏莱曼
+26:17 融资历程：彼得·蒂尔觉得他商业上不成立，却还是投了
+31:33 扎克伯格“端水”回答，让DeepMind果断选择谷歌
+37:59 从围棋到生物学难题：“没有我玩不赢的游戏”
+41:18 AI发展里程碑：2024年诺贝尔化学奖背后的故事
+46:07 密谋脱离谷歌的“马里奥计划”、NHS数据风波和苏莱曼的离开
+52:42 昔日伙伴各自成为谷歌、微软AI掌门人
+55:16 孤傲下的战略失误：DeepMind为什么错失大语言模型
+故事的背后，我们再聊聊……
+59:31 Gemini逆袭背后，谷歌内部经历了什么
+1:03:02 AI末日警告？顶级科学家态度各不同
+01:07:24 客观看待作者倾向性：与硅谷保持距离的“英国立场”
+01:09:13 哈萨比斯的矛盾：他不愿意控制别人，却一定要赢过别人
+【听众福利】
+想了解更多故事，欢迎关注哈萨比斯官方授权传记：《哈萨比斯：谷歌AI之脑》（The Infinity Machine：Demis Hassabis, DeepMind, and the Quest for Superintelligence）
+作者：[美]塞巴斯蒂安·马拉比（Sebastian Mallaby）
+译者：周健工
+我们将在评论区抽出2名幸运听众赠送这本书，快来留言参与吧（截止时间3月2日）
+【监制】
+泓君
+【后期】
+AMEI
+【运营】
+朱婕
+【BGM】
+Ashbound Oath - Ruiqi Zhao
+Estimations - Christoffer Moe Ditlevsen
+Floating in Space - Eva Hummingbird
+【在这里找到我们】
+公众号：硅谷101
+收听渠道：Apple Podcast｜Spotify｜小宇宙｜喜马拉雅｜蜻蜓FM｜荔枝FM｜网易云音乐｜QQ音乐
+其他平台：YouTube｜Bilibili 搜索「硅谷101播客」
+联系我们：podcast@sv101.net
+Special Guest: 周健工.</description>
+            <content:encoded><![CDATA[<h1>转写链接</h1>
+<link>https://tongyi.aliyun.com/efficiency/doc/transcripts/klrbn2prda8b95zy</link><br>
+<h1>节目摘要</h1>
+<div class="summary">本期播客聚焦人工智能领域的杰出人物及其贡献，特别讨论了一位对AI发展有深远影响的天才人物。该人物自幼展现出非凡的智力，通过在国际象棋领域的成就和对神经科学的探索，最终引领他创建了旨在破解人工智能奥秘的公司。该公司不仅在解决复杂问题上取得突破，还面临与科技巨头合作时保持独立性的挑战。对话中，该人物表达了对AI潜在风险的关注，强调了伦理和安全控制的重要性。同时，播客也探讨了当前AI领域的竞争态势及人物在其中的影响力，呼吁关注AI带来的风险，并介绍了如何获取更多相关资讯的方式。</div><br>
+<h1>章节速览</h1>
+<div class="chapters">
+<div class="chapter-item">
+<span class="time"><strong>[00:00:00]</strong> </span>
+<span class="chapter-title"><strong>哈萨比斯与DeepMind：AI探索者的智慧与使命</strong></span>
+<div class="chapter-summary">对话围绕DeepMind创始人哈萨比斯展开，探讨了其从国际象棋大师到AI领军人物的非凡历程。哈萨比斯追求理解宇宙的科学精神，以及对AI可能带来的风险有着深刻认识。与黄仁勋对比，哈萨比斯展现出更多真诚与智慧，强调AI研究的纯粹动机。</div>
+</div>
+<div class="chapter-item">
+<span class="time"><strong>[00:05:27]</strong> </span>
+<span class="chapter-title"><strong>AI科学家与技术伦理：哈萨比斯的内心世界</strong></span>
+<div class="chapter-summary">对话探讨了AI科学家在开发强大技术如AGI时的内心想法与伦理考量，特别是通过深入对话揭示人物真实微妙的想法。提及哈萨比斯从神童成长为AI领域关键人物的经历，以及他对技术未来方向的看法。同时，强调了技术发明者动机对技术影响人类未来的重要性，以及AGI运动自2010年起由哈萨比斯团队发起的背景。</div>
+</div>
+<div class="chapter-item">
+<span class="time"><strong>[00:10:38]</strong> </span>
+<span class="chapter-title"><strong>哈萨比斯的智能体启蒙与实践之路</strong></span>
+<div class="chapter-summary">哈萨比斯在少年时期通过下棋经历和阅读国际象棋编程书籍，对智能体概念产生兴趣，这一启蒙结合了信息论与编程理论。他在游戏公司工作和创业期间，将智能体概念应用于游戏设计，尽管创业项目因资源限制失败，但这些经历塑造了他知行合一的科学实践态度，为日后创建DeepMind奠定了基础。</div>
+</div>
+<div class="chapter-item">
+<span class="time"><strong>[00:16:25]</strong> </span>
+<span class="chapter-title"><strong>AI发展史：强化学习与深度学习的交汇</strong></span>
+<div class="chapter-summary">讨论了AI领域中强化学习与深度学习两条发展线的交织，强调了算力对算法实现的重要性，回顾了deep mind通过阿尔法系列项目在游戏领域的成功，以及强化学习在AI发展中的核心地位。</div>
+</div>
+<div class="chapter-item">
+<span class="time"><strong>[00:21:45]</strong> </span>
+<span class="chapter-title"><strong>DeepMind崛起与联合创始人故事</strong></span>
+<div class="chapter-summary">对话深入探讨了DeepMind的崛起历程，聚焦于其三位联合创始人——Shame Leg、苏莱曼及David Silver的背景与贡献。Shame Leg在伦敦大学学院神经计算研究所结识了H，苏莱曼则通过社会正义和商业理念与H建立信任，成为重要合伙人。David Silver虽未成为联合创始人，但对DeepMind的技术发展有显著影响。初期融资艰难，最终一位基于宗教信仰的投资人提供天使资金，支持了DeepMind的创立。</div>
+</div>
+<div class="chapter-item">
+<span class="time"><strong>[00:27:06]</strong> </span>
+<span class="chapter-title"><strong>DeepMind融资历程与关键投资人分析</strong></span>
+<div class="chapter-summary">DeepMind在成立初期得到了多位关键投资人的支持，包括一位MIT教授的10万美元投资，以及Peter Thiel通过其基金Founders Fund的多次注资。尽管Peter Thiel对DeepMind的商业模式持怀疑态度，但他的合伙人Netscape一直坚定支持。此外，华人投资者周凯旋在DeepMind融资困难时期提供了重要资金援助。2013年，随着深度学习技术的突破，硅谷人才市场开始升温，Peter Thiel意识到市场共识可能形成泡沫，因此决定不再追加投资。最终，DeepMind因C轮融资困难被谷歌收购，期间马斯克也承诺投资500万美元，显示了科技巨头与初创企业之间的复杂关系。</div>
+</div>
+<div class="chapter-item">
+<span class="time"><strong>[00:32:04]</strong> </span>
+<span class="chapter-title"><strong>DeepMind收购案中的策略博弈</strong></span>
+<div class="chapter-summary">在SpaceX发射后，一场关于神经网络的讨论引出DeepMind的收购。谷歌通过Larry Page的个人魅力和对AGI的承诺，成功吸引DeepMind。Facebook试图用高额个人奖金拉拢，但因对AGI重视不足而失败。DeepMind利用多家竞争者抬高价格，最终以4500万美元被谷歌收购，展现了复杂的企业策略博弈。</div>
+</div>
+<div class="chapter-item">
+<span class="time"><strong>[00:36:58]</strong> </span>
+<span class="chapter-title"><strong>DeepMind收购与AI人才价值变迁</strong></span>
+<div class="chapter-summary">2014年，一家公司以6.5亿收购了DeepMind，其中AI研究人员的平均价格为1500万美元，核心人物定价高达1.4亿美元。两年后，即2016年，该公司在首尔通过击败李世石展示了其在围棋领域的突破，这标志着AI技术的重要进展。随着AI人才价值的提升，如今单个人才的价格已达到1亿美元，若要抢夺30至40名顶尖人才，可能需要花费30至40亿美元。</div>
+</div>
+<div class="chapter-item">
+<span class="time"><strong>[00:38:16]</strong> </span>
+<span class="chapter-title"><strong>AI从围棋到蛋白质：DeepMind的创新征程</strong></span>
+<div class="chapter-summary">DeepMind在谷歌支持下，利用强大的算力和人才优势，首先在围棋领域取得突破，随后将目光转向生物学难题——蛋白质结构预测，最终通过创新的神经网络技术成功破解，为生命科学领域带来革命性进展。哈萨比斯等研究者对挑战的执着追求，以及跨学科合作，是实现这一系列突破的关键。</div>
+</div>
+<div class="chapter-item">
+<span class="time"><strong>[00:42:56]</strong> </span>
+<span class="chapter-title"><strong>DeepMind崛起与谷歌合作揭秘</strong></span>
+<div class="chapter-summary">对话深入探讨了DeepMind从一家名为Roy的对冲基金转向人工智能研究的历程，重点介绍了其在蛋白质结构预测领域采用深度学习技术的突破性进展，特别是AlphaFold的成功。此外，讨论了DeepMind被谷歌收购后两者合作的模式与挑战，以及苏莱曼在推动AI伦理与安全方面的作用。</div>
+</div>
+<div class="chapter-item">
+<span class="time"><strong>[00:47:43]</strong> </span>
+<span class="chapter-title"><strong>DeepMind创始人与谷歌的博弈及后续发展</strong></span>
+<div class="chapter-summary">对话围绕DeepMind与谷歌之间的合作与矛盾展开，讲述了DeepMind在谷歌支持下获得大量资金进行研究，但因内部管理及NHS项目引发的舆论危机导致创始人之一离开并创立新公司Inflection AI，后者后被微软收购，形成与谷歌AI部门的竞争格局。</div>
+</div>
+<div class="chapter-item">
+<span class="time"><strong>[00:53:11]</strong> </span>
+<span class="chapter-title"><strong>深度学习与强化学习在AI发展中的战略博弈</strong></span>
+<div class="chapter-summary">讨论了OpenAI成立的背景，以及深度学习与强化学习在AI发展中的不同路径。DeepMind初期忽视大语言模型，专注于强化学习，直至GPT3发布后才警醒，开始追赶。期间，谷歌在AI安全与商业化方面持谨慎态度，但ChatGPT的迅速崛起改变了行业格局，凸显了深度学习在AGI道路上的潜力。哈萨比斯的战略失误在于过早否定深度学习作为通往AGI的路径，忽略了语言模型的间接接地性。</div>
+</div>
+<div class="chapter-item">
+<span class="time"><strong>[00:58:27]</strong> </span>
+<span class="chapter-title"><strong>DeepMind追赶与AI竞赛策略分析</strong></span>
+<div class="chapter-summary">讨论了DeepMind在AI竞赛中的追赶策略，包括与Google Brain的合并、算力集中、减少蓝天式研究、采用突击队工作方式等。这些调整帮助DeepMind在AI领域取得突破，特别是在大模型和多模态技术方面。尽管面临竞争，DeepMind创始人保持乐观，认为AI技术对人类有益，但同时对AI潜在风险保持警惕。</div>
+</div>
+<div class="chapter-item">
+<span class="time"><strong>[01:03:54]</strong> </span>
+<span class="chapter-title"><strong>哈萨比斯：科学探索者与AI伦理的平衡者</strong></span>
+<div class="chapter-summary">讨论了哈萨比斯作为科学家对AI探索的热情，以及其与硅谷企业家的不同之处。强调了哈萨比斯的欧洲科学精神，对AI伦理的重视，以及在书中展现的个人矛盾性。提到了哈萨比斯对待合伙人和创立公司时的特质，以及马拉比在书写中的倾向性和潜在的PR影响。</div>
+</div>
+<div class="chapter-item">
+<span class="time"><strong>[01:09:19]</strong> </span>
+<span class="chapter-title"><strong>天才科学家与AI风险：哈萨比斯的双面人生</strong></span>
+<div class="chapter-summary">讨论了一位科研工作者哈萨比斯，他既是一个在智力游戏中争强好胜的人，也是一个真诚善良、擅长沟通的领导者。书中探讨了他的行为是否构成另一种形式的控制，以及他如何影响他人。哈萨比斯对AI持有乐观态度，认为它将引领人类进入后稀缺时代，但近期他也开始警醒AI带来的风险，呼吁国际社会紧急关注。节目还提及了谷歌收购DeepMind的背景及其深远影响，包括阿尔法Go等重大成果。最后，节目邀请听众思考AI的潜在风险，并提供了多个平台关注后续内容。</div>
+</div>
+</div><br>
+<h1>问题回顾</h1>
+<div class="qa-item">
+<div class="question"><strong>Q:</strong> 哈萨比斯造AI的初衷是什么？</div>
+<div class="answer"><strong>A:</strong> 哈萨比斯造AI不是为了产品或赚钱，而是为了理解宇宙，他认为科学是一种精神追求。</div>
+</div>
+<div class="qa-item">
+<div class="question"><strong>Q:</strong> 您第一次见到哈萨比斯是什么场景？对他的第一印象是什么？</div>
+<div class="answer"><strong>A:</strong> 在2017年5月，我进行了约1个小时的电视专访。我对他的第一印象是他瘦小且头发有些秃顶，像一个普通的科研人员，非常亲切。他交流平和，语速快，思维流畅清晰，逻辑性强，能自如切换不同领域的知识，展现出了极高的智力水平。</div>
+</div>
+<div class="qa-item">
+<div class="question"><strong>Q:</strong> 您觉得哈萨比斯和黄仁勋作为AI创始人，身上最核心的特质有何不同？哈萨比斯身上有哪些特质让您觉得特别打动？</div>
+<div class="answer"><strong>A:</strong> 哈萨比斯身上更多体现出真诚，马拉比书中大量对话揭示了他内心深处的真实想法，而黄仁勋可能更偏向于公关式的讲话方式。哈萨比斯的真实真诚，以及他在对话中流露出的对技术、AI发展和人类关系等深层次问题的深度思考，让人印象深刻。</div>
+</div>
+<div class="qa-item">
+<div class="question"><strong>Q:</strong> 哈萨比斯在创建Deep Mind之前的经历是怎样的？</div>
+<div class="answer"><strong>A:</strong> 哈萨比斯小时候展现出国际象棋天赋，13岁成为大师，并在获得剑桥大学录取后选择继续攻读神经科学博士，以期通过理解人脑来制造真正智能的AI。他曾在一家欧洲顶级游戏公司工作，并在年轻时就表现出对计算机和编程的兴趣，受到国际象棋大师李维和信息论发明者香农的影响，逐渐将国际象棋的世界与计算机世界联系起来。</div>
+</div>
+<div class="qa-item">
+<div class="question"><strong>Q:</strong> 在游戏公司打工阶段，哈萨比斯是如何通过游戏设计来实现早期智能体概念的？</div>
+<div class="answer"><strong>A:</strong> 在游戏公司打工时，哈萨比斯在游戏设计中加入了许多智能体初步的概念。例如，在游戏中设定一个角色，通过让角色在游戏环境中做出反应，如吃咸食物后产生口渴感觉，喂水后又有其他互动反馈，这样的游戏具备了一定的互动性，从而让人感受到早期朦胧的智能体感觉。</div>
+</div>
+<div class="qa-item">
+<div class="question"><strong>Q:</strong> 万灵药工作室的创业经历对哈萨比斯有何重要意义？</div>
+<div class="answer"><strong>A:</strong> 万灵药工作室是一个失败的创业项目，因为他们设定了过高的目标——要做世界上最牛的游戏，并尝试将复杂的故事情节、人物互动和玩家参与全部融入其中。由于算力和资源有限，他们未能实现承诺，推出的《共和国》虽说是史诗级游戏，但因未能成功运行而备受打击。这次失败让哈萨比斯深刻认识到拥有优秀算法和想法还需要足够的算力支撑，并且从环境中学习、迭代和优化的重要性。</div>
+</div>
+<div class="qa-item">
+<div class="question"><strong>Q:</strong> 《共和国》游戏的失败经历与现代AI判断有何关联？</div>
+<div class="answer"><strong>A:</strong> 《共和国》游戏的失败揭示了两个与现代AI判断息息相关的点：一是再好的算法和想法若无足够算力支持将无法实现；二是从环境中获取反馈并学习对AI发展至关重要，这与强化学习理念密切相关，也是DeepMind在早期落后于OpenAI后能够反超的关键因素之一。</div>
+</div>
+<div class="qa-item">
+<div class="question"><strong>Q:</strong> DeepMind的崛起过程中有哪些关键节点和技术突破？</div>
+<div class="answer"><strong>A:</strong> DeepMind的崛起包括创始人团队的组建、早期艰难融资、谷歌收购以及阿尔法Go和阿尔法Fold等技术突破。其中，强化学习是DeepMind的核心技术之一，他们坚信通向通用人工智能（AGI）之路必经强化学习，并通过实践证明了其在规则清晰、奖励机制明确的游戏领域的威力。同时，强化学习与深度学习之间存在紧密联系，并在后来的产品如阿尔法4中实现了融合，深度学习占据主导作用。</div>
+</div>
+<div class="qa-item">
+<div class="question"><strong>Q:</strong> DeepMind三位联合创始人的背景是怎样的？</div>
+<div class="answer"><strong>A:</strong> DeepMind最初的联合创始人包括David Silver、Shame Leg和苏莱曼·班达拉尼。Shame Leg与哈萨比斯在伦敦大学学院相遇，共同筹备创业；苏莱曼则通过与哈萨比斯建立的信任关系，以其商业头脑和对社会正义的关注参与其中。他们的早期天使轮融资过程颇具挑战，最终得到了部分投资者的支持，其中一位基于宗教信仰投资，另一位则是哈萨比斯MIT指导教授的信任推荐。</div>
+</div>
+<div class="qa-item">
+<div class="question"><strong>Q:</strong> 在投资DeepMind的过程中，Peter Thiel扮演了什么样的角色？诺赛克合伙人对DeepMind投资的重要性体现在哪里？</div>
+<div class="answer"><strong>A:</strong> Peter Thiel对于DeepMind的投资基于他的逆向投资理念，他认为像哈萨比斯这样能在科学上做出顶级发现但在商业模式上可能不擅长的人值得投资。他破例为DeepMind提供了不需经过投资委员会表决的资金支持。诺赛克合伙人非常看好哈萨比斯和DeepMind，即使面临其他合伙人的反对意见，他坚持要投资，并促使Peter Thiel最终破例投资了这家公司。</div>
+</div>
+<div class="qa-item">
+<div class="question"><strong>Q:</strong> Peter Thiel为何决定不再追加对DeepMind的投资？</div>
+<div class="answer"><strong>A:</strong> Peter Thiel发现硅谷的人才身价迅速上涨，认为这是共识导致的泡沫，不符合他的投资理念，因此决定不再追加投资。</div>
+</div>
+<div class="qa-item">
+<div class="question"><strong>Q:</strong> Founders Fund在投资DeepMind上的决策过程是怎样的？</div>
+<div class="answer"><strong>A:</strong> Founders Fund对DeepMind进行了至少三轮投资，投入远超联合创始人的股份总和，尽管Peter Thiel本人对哈萨比斯和DeepMind持保留意见，但合伙人洛塞克坚持支持并推动了这些投资。</div>
+</div>
+<div class="qa-item">
+<div class="question"><strong>Q:</strong> 周凯旋在DeepMind融资过程中起到了什么关键作用？</div>
+<div class="answer"><strong>A:</strong> 在DeepMind融资困难时，周凯旋的关键作用不可忽视，他参与了至少一轮的大额投资，并帮助筹集了2500万美元的资金。</div>
+</div>
+<div class="qa-item">
+<div class="question"><strong>Q:</strong> 谷歌收购DeepMind的背景是什么？谷歌收购DeepMind的关键转折点是什么？</div>
+<div class="answer"><strong>A:</strong> 谷歌在C轮融资中未能获得足够大的资金，而此时伊隆·马斯克表示将投资DeepMind，这让Larry Page等人意识到需要尽快采取行动以保持领先地位。随后，谷歌通过其对外投资的负责人接触到了DeepMind，并最终收购了该公司。关键转折点在于Larry Page的一句话打动了哈萨比斯，即如果哈萨比斯加入谷歌，谷歌将为他提供实现目标AGI所需的资源和条件，这使得哈萨比斯最终决定与谷歌谈判并签约。</div>
+</div>
+<div class="qa-item">
+<div class="question"><strong>Q:</strong> Facebook为何未能成功收购DeepMind？</div>
+<div class="answer"><strong>A:</strong> Facebook提出较高的估值和额外的个人奖励，但哈萨比斯认为扎克伯格对未来技术缺乏独立判断，且Facebook没有强调AI安全等重要方向，因此拒绝了Facebook的offer。</div>
+</div>
+<div class="qa-item">
+<div class="question"><strong>Q:</strong> DeepMind被谷歌收购的价格是如何确定的？</div>
+<div class="answer"><strong>A:</strong> 经过一系列策略运作和谈判，最终谷歌以6.5亿美元的价格收购了DeepMind，其中每个核心技术人员的平均价格达到了1500万美元，而哈萨比斯个人的定价约为1.4亿美元。</div>
+</div>
+<div class="qa-item">
+<div class="question"><strong>Q:</strong> 谷歌为何选择围棋作为AI技术突破的目标？</div>
+<div class="answer"><strong>A:</strong> 谷歌收购DeepMind后，出于展示其AI技术实力以及哈萨比斯本人对围棋的兴趣，他们决定攻克围棋这一世界难题来证明自身在AI领域的领先地位。</div>
+</div>
+<div class="qa-item">
+<div class="question"><strong>Q:</strong> David Baker的折叠游戏是如何启发人们研究蛋白质折叠的？</div>
+<div class="answer"><strong>A:</strong> David Baker是华盛顿大学的科学家，他开发了一个名为“折叠”的游戏，让大众参与到蛋白质折叠的过程中，并通过打分机制进行互动。这个游戏吸引了全球数千名对该领域熟悉的人员参与。</div>
+</div>
+<div class="qa-item">
+<div class="question"><strong>Q:</strong> 在预测蛋白质结构方面，最初采用的技术是什么？后来又做了哪些改进？</div>
+<div class="answer"><strong>A:</strong> 最初预测蛋白质结构的技术主要是X射线晶体学，需要大量博士花费很长时间才能解析出一个蛋白质的结构。随着研究深入，科学家们发现这是一个序列问题，于是尝试使用循环神经网络来解决。然而，在进一步研究中，他们意识到蛋白质折叠不仅涉及序列问题，还与复杂的三维结构有关，因此转而采用卷积神经网络进行图像识别式的解读，效果有所提升。</div>
+</div>
+<div class="qa-item">
+<div class="question"><strong>Q:</strong> 哈萨比斯在这一过程中发挥了怎样的作用？</div>
+<div class="answer"><strong>A:</strong> 哈萨比斯在早期工作于对冲基金时就利用原子间动力学机制预测蛋白质折叠方式，并在谷歌收购后将这一方法带入DeepMind。他凭借跨学科的天赋，决定转向机器学习，尤其是深度学习，成功地将氨基酸序列映射到其最终的折叠架构上。</div>
+</div>
+<div class="qa-item">
+<div class="question"><strong>Q:</strong> DeepMind如何获取训练数据并解决算法问题？</div>
+<div class="answer"><strong>A:</strong> DeepMind利用已有的X射线晶体学数据以及UniPro数据库等资源作为训练数据，并在此基础上研发了一种卷积神经网络，通过预测氨基酸之间的距离来解决接触问题和折叠问题，从而有效解决了算法和数据来源的问题。</div>
+</div>
+<div class="qa-item">
+<div class="question"><strong>Q:</strong> DeepMind与谷歌的关系以及苏莱曼的角色是怎样的？</div>
+<div class="answer"><strong>A:</strong> 谷歌收购DeepMind后，苏莱曼在其中起到了引领作用，特别是在AI战略制定上。尽管谷歌曾承诺提供长期资金支持，但在组织内部管理、独立性和长期投入等方面存在分歧，导致双方关系发生变化。苏莱曼试图保持独立并推动项目发展，最终因一系列事件导致与谷歌关系紧张，甚至一度寻求与OpenAI合作或脱离谷歌，但最终并未成功，最终离开DeepMind并创立了Inflection AI，目前担任微软AI部门掌门人，与哈萨比斯领导下的谷歌AI形成了竞争关系。</div>
+</div>
+<div class="qa-item">
+<div class="question"><strong>Q:</strong> 在2022年底OpenAI推出ChatGPT时，DeepMind的内部状况是怎样的？</div>
+<div class="answer"><strong>A:</strong> 当时DeepMind研究组非常重视强化学习，认为这是通往通用人工智能（AGI）的重点。然而，对于大语言模型的研究，在他们的研究 portfolio中排在神经科学和数据归纳之后，所以当时并未得到足够重视。直到OpenAI在GPT系列模型上取得突破后，尤其是GPT-3的发布，才引起了DeepMind的警觉。</div>
+</div>
+<div class="qa-item">
+<div class="question"><strong>Q:</strong> 谷歌和DeepMind在大模型研发方面的反应和行动是什么？</div>
+<div class="answer"><strong>A:</strong> 谷歌DeepMind团队在2022年6月左右开始意识到问题的严重性，并计划在几个月后发布自己的大模型产品，但没想到OpenAI已经开始研发参数量远超GPT-3的巨大模型。与此同时，谷歌在安全方面非常慎重，尽管内部有工程师认为AI有意识，但经过内部讨论并未发布。谷歌DeepMind和Google Brain团队在2023年4月合并后，加大了对大模型的研发力度，并调整了工作方式，集中资源攻克前沿大模型。</div>
+</div>
+<div class="qa-item">
+<div class="question"><strong>Q:</strong> 哈萨比斯在面对OpenAI领先时犯下的战略性错误是什么？</div>
+<div class="answer"><strong>A:</strong> 哈萨比斯固执地认为通向AGI的道路主要是强化学习，忽视了深度学习的重要性。他轻视了语言模型在反映人类经验和逻辑上的作用，坚持认为语言是不“接地”的，而实际上语言间接体现了大量接地经验与逻辑。此外，哈萨比斯未充分认识到将DeepMind的成果转化为产品并推进其商业应用对于推进AGI发展的重要性。</div>
+</div>
+<div class="qa-item">
+<div class="question"><strong>Q:</strong> DeepMind后来是如何追赶上竞争对手并实现逆转的？</div>
+<div class="answer"><strong>A:</strong> DeepMind通过内部架构的重大调整，如合并DeepMind和Google Brain团队，削减非关键研究项目，集中力量攻克大模型技术，并采取更为透明和高强度的合作模式。同时，他们对AI模型的创新保持领先地位，如推出GPT-4和相关先进技术。尽管推理模型初期OpenAI领先，但随着强化学习的发展，DeepMind很快追上了竞争对手。</div>
+</div>
+<div class="qa-item">
+<div class="question"><strong>Q:</strong> 对于哈萨比斯个人及其对AI的看法，您怎么评价？</div>
+<div class="answer"><strong>A:</strong> 哈萨比斯是一个好人，他的真正理想是科学发现，身上具有浓厚的英国科学革命精神和人文特质。尽管他也展现出竞争性和控制欲，但他的核心信念是探索的乐趣和科学精神，相信AGI技术能帮助解决人类面临的重大挑战。对于AI风险，哈萨比斯持相对乐观态度，主张以人为本，建立人对机器的协作控制机制，确保AI不给人类社会带来伤害。</div>
+</div>
+<h1>节目文稿</h1>
+<p class="transcript-line">
+<span class="time"><strong>[00:00:02]</strong> </span>
+<span class="speaker"><strong>发言人1: </strong></span>
+Hello, 大家好，欢迎收听硅谷101，我是红军。今天我们来聊一聊deep mind d的创始人德米斯哈萨比斯。他掌管着整个谷歌AI的研发，也是站在这场全球AI军备竞赛最前线的人。最近英国作家塞巴斯蒂安马拉比，他出版了一本关于哈萨比斯的新书，中文的名字叫做哈萨比斯谷歌AI之脑。
+</p>
+<p class="transcript-line">
+<span class="time"><strong>[00:00:27]</strong> </span>
+<span class="speaker"><strong>发言人1: </strong></span>
+正好借着这个由头是可以聊一聊我想聊很久的这样的一个人，我先简单介绍一下哈萨比斯他整个的一个经历。他四岁开始下国际象棋，13岁成为大师，15岁被欧洲顶级的游戏公司录用。从剑桥毕业以后，又回到学校继续读神经科学的博士。因为他觉得要造出真正的AI得先搞明白人脑是怎么工作的。他创建的deep mind打败了围棋世界冠军，破解了困扰生物学家半个世纪的蛋白质折叠难题，还因此拿了诺贝尔化学奖。但是这个人最打动我的倒不是说他的这些成就，而是驱动他的东西。
+</p>
+<p class="transcript-line">
+<span class="time"><strong>[00:01:13]</strong> </span>
+<span class="speaker"><strong>发言人1: </strong></span>
+哈萨比斯造AI，他不是为了做产品，不是为了赚钱，用他自己的话说是为了理解宇宙。他说对我来说，科学是一种精神追求。而且很巧的是在他创办deep man的办公室旁边，就是当年物理学家希拉德谋发核链式反应堆想法的那个路口。他说他自己每天经过那里的时候，都会想现在正在做的事情，重要性跟原子弹是不相上下的。
+</p>
+<p class="transcript-line">
+<span class="time"><strong>[00:01:41]</strong> </span>
+<span class="speaker"><strong>发言人1: </strong></span>
+一个人一生只想造出比人类更聪明的东西，同时又比谁都清楚这件事情可能失控。今天我们就带着这种矛盾感请到了这本书中文版的译者周建功老师，一起来聊一聊哈萨比斯与deep man的崛起的故事。Hello, 周老师您好。
+</p>
+<p class="transcript-line">
+<span class="time"><strong>[00:02:03]</strong> </span>
+<span class="speaker"><strong>发言人2: </strong></span>
+红军你好，101的听众你们好。
+</p>
+<p class="transcript-line">
+<span class="time"><strong>[00:02:05]</strong> </span>
+<span class="speaker"><strong>发言人1: </strong></span>
+周老师你要不要先跟听众简单介绍一下您自己。
+</p>
+<p class="transcript-line">
+<span class="time"><strong>[00:02:09]</strong> </span>
+<span class="speaker"><strong>发言人2: </strong></span>
+首先我是非常喜欢硅谷101这个节目的，我记得2022年加密爆雷的时候，我听的比较密集，因为很多事情通过这边获得了非常权威和专业的解读。我本人主要是一个科技和财经的媒体人我以前负责过福布斯中文版，也负责过第一财经，也在企业里做过一些管理工作。现在我在做一个研究公司叫微信研究，我们的公众号也叫微信研究。前年跟湛庐一起翻译了黄仁勋那本书，最近也翻译了哈萨贝斯这本书。
+</p>
+<p class="transcript-line">
+<span class="time"><strong>[00:02:43]</strong> </span>
+<span class="speaker"><strong>发言人1: </strong></span>
+对我觉得您翻译的这两本书都是非常经典的，也是现在AI圈最受关注的两个人。如果我们说黄仁勋他可能是代表硬件，那哈萨比斯可以说现在在整个的AI层面上，他就代表了软件的这一端。周老师，其实我知道您其实也是国内第一批当面去采访哈萨比斯的中国媒体人。您要不要讲一下之前比如说您第一次见到哈萨比斯是一个什么样的场景？然后您对他的第一印象是什么？
+</p>
+<p class="transcript-line">
+<span class="time"><strong>[00:03:12]</strong> </span>
+<span class="speaker"><strong>发言人2: </strong></span>
+好像2017年，我记得是五月份，那个时候那个阿尔法狗已经非常出名了。战胜李世石是2016年，我对哈萨克斯进行了一场大概1个小时左右的电视专访。我对他的第一印象，第一个他这个人非常的瘦小。第二个他当时大概将近40岁，头发有些秃顶。我觉得非常像一个中国普普通通的研究所里搞科研的人，非常典型的这样一个形象。他母亲是新加坡的华人，看到他那种有一点点文化上的亲切感。
+</p>
+<p class="transcript-line">
+<span class="time"><strong>[00:03:47]</strong> </span>
+<span class="speaker"><strong>发言人2: </strong></span>
+我事先知道他很聪明，当时还在世的这个物理学家霍金说哈斯佩斯是世界上最聪明的人我觉得那次交流的非常的愉快，我觉得有两个特别深的印象。第一个他没有摆出那种神童，世界上最聪明的那种架子。他跟人交流是非常平和的，但是他的语速是比较快的，表达的思想极其的流畅清晰，甚至非常的sharp。你问他任何问题，他都能给你一个非常清晰的逻辑。在不同的知识之间的切换，可以说是运用自如。你就感觉到任何智力上的挑战，对这个人可能是没有任何障碍的，这是我最深的一个印象。
+</p>
+<p class="transcript-line">
+<span class="time"><strong>[00:04:27]</strong> </span>
+<span class="speaker"><strong>发言人1: </strong></span>
+聪明智慧。为什么您用了智慧而不是用聪明这个词儿？
+</p>
+<p class="transcript-line">
+<span class="time"><strong>[00:04:32]</strong> </span>
+<span class="speaker"><strong>发言人2: </strong></span>
+我觉得他们讲话不是那种一套一套的，很多人他被训练出公关的那种讲话。我觉得黄仁勋有一点点这个味道，他讲话的他非常specific的这针对你问的这个问题，他能贡献出最fresh的一个想法。就是你觉得这东西不是说就像放了无数遍的一个PPT1样，他不停的给你播放，我觉得这是一种智慧。
+</p>
+<p class="transcript-line">
+<span class="time"><strong>[00:04:53]</strong> </span>
+<span class="speaker"><strong>发言人1: </strong></span>
+然后您刚刚也提到了，他跟黄仁勋是非常不一样的人。这两本传记也都是您翻译的。如果总结一下，您觉得哈萨比斯跟黄仁勋他们作为两个创始人，对AI的发展都有着非常重大的影响。那他们身上最核心的特质会有什么不一样的地方呢？
+</p>
+<p class="transcript-line">
+<span class="time"><strong>[00:05:13]</strong> </span>
+<span class="speaker"><strong>发言人2: </strong></span>
+在哈萨比斯身上能感觉到更多真诚的东西。你可以看到马拉比的这本书跟马拉比其他的几本书，我觉得有一个非常大的不同。富可敌国和风险投资史是写一个行业的历史。
+</p>
+<p class="transcript-line">
+<span class="time"><strong>[00:05:27]</strong> </span>
+<span class="speaker"><strong>发言人2: </strong></span>
+这本书里面其实他用了大量的对话。你可以从他跟哈萨比斯，就是私下里他大概有三十多个小时的对话，你可以感觉到卡萨比是发自内心的很多想法。他为什么写其他人的，包括写黄仁勋里面没有那么多的对话呢？我就觉得很多的对话都是一些可能平时他在公开场合下讲了很多的话，还有他的一些套话，我觉得写到书里面可能意义也不是很大，反而它揉到他的叙述里面了。所以我在翻译的过程中，他对他的对话，也非常认真仔细的去处理。怎么把它可以从对话中看到这个人内心深处的真实的微妙的一些想法，我觉得这一点是非常大的一个不同。
+</p>
+<p class="transcript-line">
+<span class="time"><strong>[00:06:13]</strong> </span>
+<span class="speaker"><strong>发言人1: </strong></span>
+对我觉得这一点也是我自己对哈萨比斯这个选题非常感兴趣的一个原因。我们现在这期节目的录制时间是在春节前夕。最近的这两周从open crowd出来了以后，我整个人处在一种非常震惊的状态中。这种震惊是我以前觉得AI它的能力不如我。但是我现在觉得AI它在做博客、做选题，甚至做采访提纲上，他可以做的比我好。我觉得他可能已经会开始冲击到很多人类的工作了。但是其实像哈萨比斯，包括我们说像antha aupic的dario MY，他们都是这些AI的建造者。
+</p>
+<p class="transcript-line">
+<span class="time"><strong>[00:06:52]</strong> </span>
+<span class="speaker"><strong>发言人1: </strong></span>
+其实在整个哈萨比斯的书中，在用奥本海默的例子去做对比。我记得那本书它的结尾也是觉得哈萨比斯一直想做正确的事情，但是他能不能做到，这是一个问号。所以其实我还挺感兴趣，我们今天在探讨这样一个，我更愿意把它定位成AI科学家，而不是一个商人，就是一个AI科学家。他在建成一个非常强大的AI的过程中，他到底自己是怎么去看待技术，包括是怎么看这些AIV写论，以及到底我们会把这个技术带向何方，跟人的关系，这一系列都是我很感兴趣的讨论点。
+</p>
+<p class="transcript-line">
+<span class="time"><strong>[00:07:34]</strong> </span>
+<span class="speaker"><strong>发言人2: </strong></span>
+马拉比首先他是一个写作的高手，他在写这本书的立意我觉得也是非常高的。你从头到尾读完之后，我有一个突出的感受，马拉比驱动这本书的叙事最底层的那个力量是什么？AGI是威力无比强大的一个技术，也可能是人类的一个终极技术。就像他的这本书的原名infinity machine，它是一个上帝的机器，对人类未来的福祉，甚至对人类的文明影响这么大，他作恶的可能性也是有的。那么发明这些技术的这一小撮人究竟是什么样的人？他们带着什么样的动机来发明这些技术？他们的动机可能会直接影响到这个技术对人类的未来究竟意味着什么。
+</p>
+<p class="transcript-line">
+<span class="time"><strong>[00:08:18]</strong> </span>
+<span class="speaker"><strong>发言人2: </strong></span>
+他认为哈萨比斯可能是里面的一个最关键的一个人物，我觉得他也找对了。因为AGI他作为一个技术也好，或者我也称之为是一个技术浪潮也好，确实是从哈萨比斯和他这个创业团队，还有deep mind这家公司发起的。我相信绝大多数的读者和你的听众，可能对AGI这个词，或者说deep mind和open I之间的这种竞争，是从ChatGPT开始关注的。实际上在ChatGPT出现10年之前，AGI这个运动已经就开始了，就源自于哈萨比斯他们这个团队。所以他找到哈斯佩慈是非常的准确的一个选择。
+</p>
+<p class="transcript-line">
+<span class="time"><strong>[00:08:57]</strong> </span>
+<span class="speaker"><strong>发言人1: </strong></span>
+我们说到这里，要不要给我们的听众简单介绍一下帕萨比斯这个人，以及他在创建deep mind以前到底是一个什么样的经历。Deep mind应该是在2010年创建的对吧？
+</p>
+<p class="transcript-line">
+<span class="time"><strong>[00:09:10]</strong> </span>
+<span class="speaker"><strong>发言人2: </strong></span>
+对，首先它的第一个标签是神童，四岁是看大人下国际象棋，然后五岁就开始自己下。到9岁的时候，他就是英国11岁以下的国际象棋队的，13岁的时候是国际象棋大师，而且他的积分在全球同年龄段是排名第二。所以他经常是比如说十岁、11岁就跟那些成人一起下棋。他个子本来就很矮小，年幼的时候就更小。他坐在凳子上连棋盘都看不清楚，经常是屁股底下垫两个厚厚的书，他才能看着棋盘，看着这个对手。他经常一下就是8个小时、9个小时，甚至10个小时，吓一下就睡着了。
+</p>
+<p class="transcript-line">
+<span class="time"><strong>[00:09:51]</strong> </span>
+<span class="speaker"><strong>发言人2: </strong></span>
+因为他太小了，他是非常典型的移民家庭，他母亲是一个华人，他的父亲是塞浦路斯的一个大人。两个人都是在伦敦的，勤勤恳恳勤俭持家抚养孩子。孩子一有什么天赋，他们就倾其所有的去发展孩子这个天赋。他父亲几乎自己的事情也不做了，就开着家里那辆。货车带着小小的哈萨比斯在伦敦、英国，甚至去欧洲，到处去比赛国际象棋。当然了，哈萨比斯也赢了一些小额的一些奖金。但是我觉得最重要的一点就是说他的父母认为他将来走上国际象棋这条路，那肯定会成功的。而且他已经是大师了，在父母的眼里已经是非常成功，已经非常自豪了。
+</p>
+<p class="transcript-line">
+<span class="time"><strong>[00:10:38]</strong> </span>
+<span class="speaker"><strong>发言人2: </strong></span>
+但是最关键的两个顿悟点，我觉得完全是哈萨比斯自己在身上促成的。第一个他在11岁的时候，我记得书里面写到他在列支敦士登跟丹麦的一个国际象棋冠军在对弈的时候，一口气下了10个小时。按照他的水平，这局棋很可能是和棋，但是可能还要纠结下去。这个时候对方在思考，他看着对方，然后又看着大厅里到处都是下棋的人，他突然想到一个问题，他说难道我就在下棋中度过这一辈子吗？然后他又想一个问题，这个屋子里所有的人都是世界上可能最聪明的人，他们难道把自己的智力全部用在下棋这一件小事上吗？他突然感觉下棋对他的意义没有那么重大了，而且胜负对他来说也不重要了。于是他就放弃了这局棋，就认输了。
+</p>
+<p class="transcript-line">
+<span class="time"><strong>[00:11:32]</strong> </span>
+<span class="speaker"><strong>发言人2: </strong></span>
+投子认输了，对方就非常吃惊，说你如果下去你是求和的，那为什么要放弃呢？他也没说什么话，因为他自己的想法跟在座的所有人都不一样。从那以后，他就对下象棋这件事情就不再那么执念了，对胜负也无所谓，当然他还是在下。
+</p>
+<p class="transcript-line">
+<span class="time"><strong>[00:11:50]</strong> </span>
+<span class="speaker"><strong>发言人2: </strong></span>
+第二件事儿是他在11岁的还是12岁，她父亲带他去伦敦的一个号称世界上最大的一个书店，他看到了一本薄薄的小册子。当时在英国的一个国际象棋大师叫李维写的一本书，关于怎么编程国际象棋的程序的一本书，里面就讲了用计算机怎么去下国际象棋，怎么去战胜对手，它的原理是什么。哈萨比斯就一口气把这本书读完了，这本书立刻把它从国际象棋这个世界连接到了计算机的这个世界。而且这本书里提到了一个非常关键的人叫香农，香农是信息论的发明者，香侬在现代意义上比较成熟。
+</p>
+<p class="transcript-line">
+<span class="time"><strong>[00:12:32]</strong> </span>
+<span class="speaker"><strong>发言人2: </strong></span>
+计算机出现之前，在1950年就写过一篇文章，关于如何编程象棋的一篇文章。而且相东提出了一个当时非常有预见性的一个观点。他说如果我们能编程下象棋，那么我们这个编程也可能完成其他的非常多的智力和认知方面的任务。它可能具有通用性，可能是一个通用计算机，都是在理论上做了这样一个探索。所以一个是立维的这本书，还有一个香浓的理论，还有关于信息的一些观点，对当时幼小的哈萨比斯产生了极大的一次启蒙，可以说是给他打开了另外一个更加广阔的世界。这个是我对他在神童阶段，我印象最深的两件事儿。
+</p>
+<p class="transcript-line">
+<span class="time"><strong>[00:13:15]</strong> </span>
+<span class="speaker"><strong>发言人1: </strong></span>
+对他16岁被剑桥录取，因为当时他的年龄太小了，剑桥就要求他推迟一年入学。在这一年的等待时间里面，她是去游戏公司工作了一段时间，表现也非常的突出。我记得他在创建deep mind以前，包括从学校毕业出来，其实自己也做了一个游戏公司，是有两段游戏公司的经历的对。
+</p>
+<p class="transcript-line">
+<span class="time"><strong>[00:13:39]</strong> </span>
+<span class="speaker"><strong>发言人2: </strong></span>
+叫万灵药公司。其实这两段游戏公司对哈萨米斯影响很大。第一次他叫牛蛙公司，是当时欧洲和全球非常知名的一家游戏公司。然后他是参加一次竞赛被老板看上了，邀请他去参观公司。他去非常喜欢老板也非常喜欢他他就加入了。
+</p>
+<p class="transcript-line">
+<span class="time"><strong>[00:13:59]</strong> </span>
+<span class="speaker"><strong>发言人2: </strong></span>
+第一次在游戏公司对他的一个非常大的影响，就是他在游戏中增加了很多所谓后来这种智能体的一些初步的概念。就是你在玩游戏的过程中里面设计的一个角色。比如说你先给他吃很咸的食物，他之后就会产生口渴的感觉，然后你就给他喂他水，然后又怎么样。一个人物你会给他设定一些他能够产生反馈的一个环境。这样的游戏具有一定的互动性，所以这个时候它产生了一个非常早期的朦胧的智能体的感觉。这个是打工的阶段。后来他在剑桥毕业之后，他自己就创业。当时找了David silver，就是强化学习那面旗帜，他们俩一起搞了万灵药的工作室。
+</p>
+<p class="transcript-line">
+<span class="time"><strong>[00:14:44]</strong> </span>
+<span class="speaker"><strong>发言人2: </strong></span>
+万灵药的工作室应该说是一个失败的创业项目，因为他给自己的立的标准太高了，我一定要做一个世界上最牛的一个游戏。然后他把自己所有能想到的游戏中间那种复杂的故事情节，人物之间的互动，还有玩家的这种参与，想全部都设计进去。但是因为他们的算力有限，资源有限，最后就没有能够兑现他们的承诺，所以这个叫共和国。这款游戏也可以说是一个史诗级的游戏吧。当时冷战刚刚结束，它实际上是以苏联的崩溃作为一个背景来设计的一个游戏。所以对于当时这么年轻听的人来说，设计这么复杂的一款游戏，我觉得真的是非常有野心的。但是最后这款游戏到美国的一个游戏的博览会上，在演示的时候就掉链子了让silver当时就放鸽子就跑了。
+</p>
+<p class="transcript-line">
+<span class="time"><strong>[00:15:36]</strong> </span>
+<span class="speaker"><strong>发言人2: </strong></span>
+哈萨克斯凭自己的三寸不烂之舌，然后勉强应付把大家糊弄过去了。但后来这个游戏迟迟不能退出，退出之后大家已经对他不感兴趣了。那这次失败对于哈萨比斯也是非常有意义的。
+</p>
+<p class="transcript-line">
+<span class="time"><strong>[00:15:50]</strong> </span>
+<span class="speaker"><strong>发言人2: </strong></span>
+我觉得这本书里面写的有一个点很好，就是它一方面他有自己的很深的一些哲思和理论，对于科学发现，对于智能AGI。但另外一方面他又非常崇尚费曼的一句话，就是如果你不能把一个东西造出来，你就不能真正理解它。所以他真正是一个知行合一的人。他如果想到通用的计算的一个机器，一个智能体，他一定要想在一个游戏这样的环境里把它造出来。我觉得这个打工和创业的这段经历，就奠定了他实际上不是一个空谈的科学家，他是一个实践的一个科学家。
+</p>
+<p class="transcript-line">
+<span class="time"><strong>[00:16:26]</strong> </span>
+<span class="speaker"><strong>发言人1: </strong></span>
+您刚刚讲的这段在万灵药工作室的创业经历的过程中，我觉得有两点跟我们现在对AI的判断还是非常的息息相关的。第一个就是哈萨比斯，他当时设计了极其超前的您说的这个共和国的游戏。这个游戏他想在一个城市里同时模拟上千个独立思维的角色。这个引擎号称能够渲染无限多边形。但是那个是在2003年，那个时候的电脑不光是显卡、CPU还有内存，可能都跟不上这个野心。所以就像您提到的，他们演示的关键时候会掉链子。最后这个游戏它其实是被砍掉了大量的功能才勉强能上线，所以评价也一般。
+</p>
+<p class="transcript-line">
+<span class="time"><strong>[00:17:09]</strong> </span>
+<span class="speaker"><strong>发言人1: </strong></span>
+这件事情其实我觉得是恰恰给哈萨比斯了一个非常深刻的教训。就是说你拥有再好的算法和想法，如果没有足够的算力支撑，它还是只能是停在纸面上的。另外一个点就是您刚刚提到了他从环境的反馈中去学习。
+</p>
+<p class="transcript-line">
+<span class="time"><strong>[00:17:27]</strong> </span>
+<span class="speaker"><strong>发言人1: </strong></span>
+这个最近也非常火，有一个词儿叫做强化学习。这跟deep mind的最开始为什么落后于OpenAI，后面又反超的关系是很大的。比如说大家都知道，其实transformer它是谷歌的另一个部门google brain发明的deep mind。它虽然当时也是被谷歌收购了，但是其实deep mind的最强的是强化学习，这也是它刻在DNA里的东西。因为哈萨比斯他是一直坚信，光靠大语言模型是到达不了AGI的，而且还需要有类似于阿尔法狗的那种规划和推理的能力。所以我们说虽然deep mind很早就被谷歌收购了，而且谷歌手里一边是transformer，一边是强化学习，手里有两张王牌，但他们其实就是各干各的，早期也没有融合。这是我们看到为什么OpenAI早期去抢了风头。
+</p>
+<p class="transcript-line">
+<span class="time"><strong>[00:18:18]</strong> </span>
+<span class="speaker"><strong>发言人1: </strong></span>
+但我觉得现在一个有意思的事情是，过去OpenAI的O1，包括deep seek它的R1，都是在往强化学习的方向去回摆。反过来也在借鉴阿尔法go的思路。现在其实强化学习它的整个的优势也开始显现出来了。
+</p>
+<p class="transcript-line">
+<span class="time"><strong>[00:18:34]</strong> </span>
+<span class="speaker"><strong>发言人2: </strong></span>
+对我觉得这个其实有它很深的渊源的，他谈这个事情不是从ChatGPT突然横空出世这个时候谈起。其实要从他们怎么产生AGI的报复开始的。其实AGI这个词是他在剑桥读书的时候，就是他们的计算机系那个学霸叫David silver。他从AI这个圈外引入到圈内的一个词silver建议他当时的一个老板写一本书，就建议他用facial general intelligence。这个词大概是98年的时候，美国的阿帕开的一次会上，就有一个美国的科学家在写nano technology，就是纳米科技的时候，在里面用了AGI这个词。就是最早是从那儿发源的。他们成立deep mind这家公司的时候，AGI这个词的理念，和哈萨比斯的这个理念是高度吻合。所以他们这家公司的使命，就是要发明AGI这个机器，先解决AI再用AI解决一切。
+</p>
+<p class="transcript-line">
+<span class="time"><strong>[00:19:28]</strong> </span>
+<span class="speaker"><strong>发言人2: </strong></span>
+就是他们最早的一个口号，husband和David summer有一个执念，他们一开始就认为通向AGI之路一定是强化学习，未来的AGI一定是一个单一的模型。这本书叫什么singularity，就是是一个单一模型。所以他们这种执念导致了他们的成功。阿尔法go、阿尔法zero、阿尔法food其实用了transworld，我们不提那个，最起码在游戏的领域他们是大获成功的。为什么成功？我觉得很简单，因为有游戏是一个规则相对明晰，边界相对清晰，奖励机制非常清晰。然后你可以用这种强化学习试错、反馈机制，快速的优化。就这个强化学习威力最大的这方面可以发挥得淋漓尽致。
+</p>
+<p class="transcript-line">
+<span class="time"><strong>[00:20:15]</strong> </span>
+<span class="speaker"><strong>发言人2: </strong></span>
+在这个过程中，其实在强化学习和神经网络的这个深度学习之间，又发生了两个学派之争。其实就是辛顿和萨顿非常有意思，这两个人都在加拿大，辛顿在多伦多大学，萨顿在阿伯特大学。萨顿是强化学习之父。David silver就知道了这个萨顿是强化学的理论之后，跟他的想法非常近似。他就立刻跑到阿尔伯塔那个冰天雪地去读他的这个研究生去了。这里面书中写了几个情节非常有意思。比如说有些人在萨顿那里读了硕士，就想去多伦多大学读辛顿的博士。Jack instance.
+</p>
+<p class="transcript-line">
+<span class="time"><strong>[00:20:53]</strong> </span>
+<span class="speaker"><strong>发言人2: </strong></span>
+下面的人就说，你是从萨顿那边来的那你强化学习那套要放弃的，跟我们这边是行不通的。两个派别之间实际上也是有对峙的。你谈到强化学习和深度学习之争，其实这本书里我觉得也有非常精彩的。这个书里我。
+</p>
+<p class="transcript-line">
+<span class="time"><strong>[00:21:10]</strong> </span>
+<span class="speaker"><strong>发言人1: </strong></span>
+觉得这段背景太精彩了，它其实也是现在在AI发展中没有被大家注意到的两个派别。之前我记得还有一本书叫做深度学习革命，其实是以深度学习为核心来去讲这样的一群人的。在这本书里面你刚刚提到像rich certain，然后还有强化学习的这条路线，它也是一非常明显的一条发展线。如果我们要讲到这个发展线的话，是不是我们可以从整个deep mind的崛起来看，它有一些高光时刻。包括阿尔法go，阿尔法a zero，还有阿尔法food，它都是跟这条线一脉相承的。
+</p>
+<p class="transcript-line">
+<span class="time"><strong>[00:21:46]</strong> </span>
+<span class="speaker"><strong>发言人2: </strong></span>
+是的，阿尔法force其实它两者之间在实践过程中，他们是在不断的融合的。Deep side不停的从jeff的那挖人，open I成立之后也从open I那挖人，open I也不停的从deep my那挖人，两家都知道彼此在做些什么。实际上他们在做自己的模型的时候，深度学习和强化学习之间是在不断的融合的。到后来在做阿尔法4的时候，其实我认为这是一个完全融合的，甚至是说深度学习占据了更主要的作用。Open I他后来做一些推理模型，包括人力反馈这方面，其实也都是用的强化学习。
+</p>
+<p class="transcript-line">
+<span class="time"><strong>[00:22:23]</strong> </span>
+<span class="speaker"><strong>发言人1: </strong></span>
+那我们再把故事线稍微往回拉一拉。刚刚其实聊到了他的游戏公司万灵药工作室，接下来就是整个deep mind的崛起了。我自己粗略的把deep mind它的崛起分成了几个比较大的部分。一个是他们创建的时候，这几个人是怎么走到一起的。还有一段经历是他早期融资的时候，还是经历了很多艰难的。接下来就是一个大的谷歌收购deep mind的，后来大家都知道了，但是这个里面还是挺多故事的。接下来就是我们刚刚提到的阿尔法go跟阿尔法fold，它是怎么样在技术上做到突破，然后让大家关注到deep mind这家公司的那周老师你要不要先跟大家介绍一下deep my的三个创始人以及他们的背景？
+</p>
+<p class="transcript-line">
+<span class="time"><strong>[00:23:09]</strong> </span>
+<span class="speaker"><strong>发言人2: </strong></span>
+其实我觉得最应该成为他联合创始人应该是David silver。但是两个人因为在万灵药工作室创业时候，因为失败，当时silver就离开了。他在成立deep mind找的创始人，第一个叫shame leg。Shame leg这个人好像是一个新西兰人，后来去英国去留学了。Shame leg这个人是是在伦敦的大学学院的神经计算研究所认识的哈萨比斯。在这里读博士的时候，已经在盘算着创业的事情，已经开始留意找这些志同道合的人了。
+</p>
+<p class="transcript-line">
+<span class="time"><strong>[00:23:44]</strong> </span>
+<span class="speaker"><strong>发言人2: </strong></span>
+那么谁like这个人发挥了一个非常重要的作用呢？就是把哈萨比斯跟硅谷连接起来了。里面有一个细节特别有意思，有一天在电梯里两个人一起遇上了声音。Like出门的时候，哈萨皮就问你去哪儿？他说去硅谷。他说那你去硅谷干嘛？他说我参加一个起点大会。所以他把哈萨比斯引向了起点大会。我觉得这又是作为联合创始人发挥了一个特别重要的一个作用。另外一个就是苏莱曼了，苏莱曼这是我觉得有一点点是一个特例了。
+</p>
+<p class="transcript-line">
+<span class="time"><strong>[00:24:17]</strong> </span>
+<span class="speaker"><strong>发言人1: </strong></span>
+对我在这里稍微给大家画个重点，大家可以关注一下苏莱曼，因为他后面还有好几起风波，现在也是整个微软AI的负责人。好，苏老师您继续。对。
+</p>
+<p class="transcript-line">
+<span class="time"><strong>[00:24:30]</strong> </span>
+<span class="speaker"><strong>发言人2: </strong></span>
+苏莱曼他也是一个移民家庭，好像是来自一个穆斯林背景的家庭。他父母很早就离异了，书上说的比较隐晦，这实际上他和他弟弟是被父母就给抛弃了，他们就住在他们在伦敦的什么叔叔家里。苏莱曼从小的生活还是比较艰辛的，但是人很聪明。他考上了牛津大学的是神学。上了两年之后，他就觉得没意思就辍学了，就开始做一些小事。争议他那个创业和我们谈的硅谷的创业是完全不是一回事儿了。开冰激凌铺，跟帕萨米斯弟弟两个人一起，他经常去哈萨比斯他家玩。有时候哈萨比斯不在家，他就住在那哈萨比斯那个房间里，他就看哈萨比斯读书什么什么是个技术极客、神童之类的。Hazardous以前在游戏公司打工，创业，他还是挣了一些钱的，手头大概有几百万英镑。
+</p>
+<p class="transcript-line">
+<span class="time"><strong>[00:25:26]</strong> </span>
+<span class="speaker"><strong>发言人2: </strong></span>
+苏莱曼喜欢做点小生意，拉帕萨比斯就谈两件事儿。第一件事儿就谈社会正义，我们应该怎么去让这个社会更加公正，更加美好。第二个就是说我们怎么去做生意。他说这样子你拿一部分钱，我们一起开一个公司，是一个公寓出租公司，然后我们俩对半分什么什么之类的，这样就跟哈萨比斯建立了信任。后来哈萨比斯因为他成立公司之后，他也要融资，公司要经营，他就觉得苏莱曼在这方面能帮他。所以最早的三个联合创始人就是他们三个股份，他的比占了绝对多数的股份，是shame leg的九倍还是十倍？
+</p>
+<p class="transcript-line">
+<span class="time"><strong>[00:26:08]</strong> </span>
+<span class="speaker"><strong>发言人1: </strong></span>
+对，一个九倍，一个14倍.
+</p>
+<p class="transcript-line">
+<span class="time"><strong>[00:26:10]</strong> </span>
+<span class="speaker"><strong>发言人2: </strong></span>
+苏莱曼14倍。对，大概是这样子。第一笔天使融资，我觉得是最有意思的一个过程。就是你看什么样的人愿意投资蒂夫曼的这家公司。如果是说伦敦有这么几个年轻人说我要造一个AGI，我相信在硅谷可能有一些人听得懂。在伦敦几乎是没有人能听得懂的，很多人觉得他们就是骗子。他们讲他们去找金融街上的人去融资，对方说，那你们还不如加入我们公司的，你们去做量化交易不就行了吗？你们干嘛搞那玩意儿？
+</p>
+<p class="transcript-line">
+<span class="time"><strong>[00:26:44]</strong> </span>
+<span class="speaker"><strong>发言人2: </strong></span>
+但是他们还是在英国找到了一个愿意投资他们那个人。那个人投资的动机非常有意思，就是他听了哈萨维斯讲了AGI这个事情之后，他立刻认定这是一架上帝需要的机器，或者是一个上帝的机器。所以那个人出于一种宗教信仰说我要投你。这是一个天使投资的来源，大概几十万英镑。
+</p>
+<p class="transcript-line">
+<span class="time"><strong>[00:27:06]</strong> </span>
+<span class="speaker"><strong>发言人2: </strong></span>
+另外一个愿意投资他的是哈萨比斯在博士后的时候去MIT做研究，他的一个指导的教授就非常欣赏哈萨比斯。他我认为哈萨比斯将来是一定能获得诺贝尔奖的，而且他获得颁奖不是普通的人能获得的那种，他一定是费曼和克里克那个级别的。克里克就是和沃森一起发现DNA双螺旋结构的那个人。当哈萨比斯跟他开口的时候，他说这样，我可以投你10万美元，我就这么多了。
+</p>
+<p class="transcript-line">
+<span class="time"><strong>[00:27:37]</strong> </span>
+<span class="speaker"><strong>发言人2: </strong></span>
+当然第三个最重要的是Peter theil了。Peter zo他认为哈萨比斯是那种可以在科学上做出顶级发现的，但在商业模式上完全不成立的那种人。Peter theil它是一种反共识式的那种投资，所以这个逆向投资，他觉得这种人是需要投的。如果说世界上可能在一个遥远的未来存在着一个AGI的话，那么能够做成这件事儿的这个人，肯定就是哈萨克斯坦。
+</p>
+<p class="transcript-line">
+<span class="time"><strong>[00:28:07]</strong> </span>
+<span class="speaker"><strong>发言人2: </strong></span>
+不管怎么说先投。特别重要的是他手下一个叫诺赛克的一个合伙人。他们那个时候你看已经投了plantier，已经投了space x他一见哈萨克斯就认为这个人就是跟马斯克一样的一个创业者。他整天磨着卡兰蒂尔和其他的合伙人，就是说他一定要投。Peter zo就破例，就说我们不上投决会。如果表决肯定是多数否定的，就给他了一个不上同学会表决的一个特殊的通道。才投了这家公司。所以这家公司，你看能投deep mind的人都是非凡的人，他们的想法跟一般人非常不一样的。
+</p>
+<p class="transcript-line">
+<span class="time"><strong>[00:28:48]</strong> </span>
+<span class="speaker"><strong>发言人1: </strong></span>
+对你刚刚提到了沙恩莱格，他其实是把哈萨比斯引向硅谷的人。然后你刚刚提到了绩点大会，也是去参加他们这个基点大会的人讲到了Peter till的投资。但是其实在整个founder fund投资deep min d的这段过程里面，我们会发现Peter till他其实并不看好哈萨比斯跟deep mind，反而是他的合伙人洛塞克一直在支持哈萨比斯。而且founders found投了deep mind至少有三轮，就从最开始的230万美元的一个支票。而且我印象很深，大概这一张支票是占了接近于一半的股权，第二张支票是九百多万的一张支票。他三轮下来founders放的在deep my这家公司，它的股份已经是超过三个联合创始人的所有的股份之和了。但是我们看到他每次投票的关键节点，还是会有很多的犹豫的，包括到后面他不愿意领投，其实是周凯旋的领头救了迪普迈德的。
+</p>
+<p class="transcript-line">
+<span class="time"><strong>[00:29:48]</strong> </span>
+<span class="speaker"><strong>发言人1: </strong></span>
+最后一轮融资的主要原因还是founders found，他一直在质疑他们如何商业化。后面之所以投它，我觉得跟这个机构的投资风格也是挺有关系的。就像您说的，他不需要上投委会，他可以自己做一个比较激进的投资的方式，或者是投一个不被大众看好的公司。只要这个方向是共识了，那他们就开始卖了。
+</p>
+<p class="transcript-line">
+<span class="time"><strong>[00:30:14]</strong> </span>
+<span class="speaker"><strong>发言人2: </strong></span>
+对我觉得平台fail决定卖的时候，就是2013年了。那个时候alex net已经出来了，jeff hinton、伊利亚还有alex做的alex net，他在图像识别的时候已经超过人类了，深度学习取得一个突破。那个时候深度学习或者整个AI就开始热起来了。我记得Peter to他就突然发现硅谷的这些人才的身价突然开始迅速的上涨。他认为这是一个共识，共识就意味着泡沫，泡沫就意味着你要投入更多的钱去做一个更不确定的事情。这个又不符合他的投资的理念了，他就决定不再追加了。
+</p>
+<p class="transcript-line">
+<span class="time"><strong>[00:30:50]</strong> </span>
+<span class="speaker"><strong>发言人1: </strong></span>
+这个投资里面其实还有一个很有意思的名字，就是周凯旋。他应该是帮李嘉诚管理他的家族基金的。他其实也是在当时应该是哈萨比斯拿不到钱的时候，是非常关键的一个人。
+</p>
+<p class="transcript-line">
+<span class="time"><strong>[00:31:03]</strong> </span>
+<span class="speaker"><strong>发言人2: </strong></span>
+对还出现过蔡崇信，其实是后来被收购之后，deep mind要从alphabet里面，比如说有一批让他独立就spring out出去，其实他们也曾经找过蔡崇信，所以这里面你看出现了一个周凯旋，一个蔡崇信都是华人的富豪。周凯旋最关键的第一轮，他们筹了2500万美元，然后周凯旋那边大概1000万左右，其实起到了非常重要的作用。
+</p>
+<p class="transcript-line">
+<span class="time"><strong>[00:31:29]</strong> </span>
+<span class="speaker"><strong>发言人1: </strong></span>
+对谷歌当时收购deep mind的是在一个什么样的背景下。
+</p>
+<p class="transcript-line">
+<span class="time"><strong>[00:31:34]</strong> </span>
+<span class="speaker"><strong>发言人2: </strong></span>
+那就是它的C轮它融不到足够大的钱。就是在C轮的时候就非常有意思了。第一个他认为Peter c又背叛了他们不再跟了，这个时候马斯克就跳出来了，这里面有个逻辑特别有意思，因为shame leg参加了几点大会，因为到了极点大会，他认识了Peter sale，就知道伊隆马斯。伊隆马克也在B轮也承诺要投资500万美元，因为哥投了SpaceX，伊隆马斯克就整天跟Larry page他们就混在一起。
+</p>
+<p class="transcript-line">
+<span class="time"><strong>[00:32:04]</strong> </span>
+<span class="speaker"><strong>发言人2: </strong></span>
+有一次马斯克跟Larry page他们去看他那个space x发射之后，然后就坐同一架私人飞机上回加州的时候，在飞机上他们就谈起神经网络这个事情。Larry page他的父亲是在以前苏联的时代，也是一个计算机科学家，也研究过神经网络。所以他对这个事情还是有一定敏感度的。所以当时提到马斯克一听非常的炫耀式的就说你看我们谈这个事情，我已经开始投资一家公司了，这家公司就叫deep mind。Larry page听完之后，默默的掏出了安卓手机，在安卓手机上记下了deep mind的这家公司的名字。过了没多久，PSP I就收到了一个email，第一句话自我介绍说我是谷歌负责对外投资的，一条线就串起来。
+</p>
+<p class="transcript-line">
+<span class="time"><strong>[00:32:51]</strong> </span>
+<span class="speaker"><strong>发言人2: </strong></span>
+在谷歌决定收购deep man的时候，中间又插出了facebook的扎克伯格。当时AI火了起来，渣哥也很着急，也急于想找到一个团队来做这个事情。哈萨比斯和苏莱曼，这是他们的一个博弈的策略，他们用马斯克，用扎克伯格作为手中的牌来对付谷歌，希望能弹出更高它的价钱。
+</p>
+<p class="transcript-line">
+<span class="time"><strong>[00:33:15]</strong> </span>
+<span class="speaker"><strong>发言人2: </strong></span>
+但是哈萨比斯非常聪明，我记得里面写了一段，扎克伯邀请哈萨比斯去他家，两个人就神侃。哈萨比斯就很聪明，就说你觉得哪些技术的赛道非常好啊？他说AI、虚拟现实、增强现实、三弟打印，我都非常看好怎么样。然后我就说了一大堆。当时哈萨比斯听完就非常失望，因为他想要一个对他投资的人是真正的看重AGI是未来的发展方向，其他的东西都是次要的。但是扎克伯格把这些东西都看得同样的重要，所以一方面AGI在他的眼中地位远远没有那么重要。第二个他认为扎布格对未来的技术是没有自己的判断的，所以他就告辞了，然后就马上他就打个电话，我们继续谈，这个细节我觉得非常的精彩。
+</p>
+<p class="transcript-line">
+<span class="time"><strong>[00:34:04]</strong> </span>
+<span class="speaker"><strong>发言人1: </strong></span>
+但是他最终没有接受facebook的offer，还是因为他们提到的一个AI安全宪章的这件事情，对不对？因为我印象中当时facebook出的offer是能让哈萨比斯自己的身价比谷歌收购在钱上是会好很多的。
+</p>
+<p class="transcript-line">
+<span class="time"><strong>[00:34:22]</strong> </span>
+<span class="speaker"><strong>发言人2: </strong></span>
+我觉得是这样的，他没有透露具体的金额，这个钱里面扎克伯格的策略，你从这件事上就看得出来他最近在硅谷挖人的手法了。他说我给你deep mind一笔不错的估值，但是具体多少没有说，但是应该不是非常高。他说如果你过来之后，我再给你和你几个创始人个人一笔无法拒绝的钱，哈萨克斯没有接受。
+</p>
+<p class="transcript-line">
+<span class="time"><strong>[00:34:49]</strong> </span>
+<span class="speaker"><strong>发言人2: </strong></span>
+第二个，hazara斯之所以接受谷歌，我觉得他一开始最认真的还是谷歌。我觉得他对facebook那边一直是把它拿一张牌来打的。它里面讲了一个细节，就是Larry page有一次两个人见面，约他一起出去散步，就聊Larry page在中间就讲了一句话，就完全打动了pass peace。他说那你为什么不来谷歌呢？你的目标不是追求AGI吗？那我已经在这里为你准备了一切。
+</p>
+<p class="transcript-line">
+<span class="time"><strong>[00:35:17]</strong> </span>
+<span class="speaker"><strong>发言人2: </strong></span>
+所以这一句话真正打动了哈萨比斯，因为哈萨比当时他为了融资这个事情，搞得他已经焦头烂额了。对于这公司的未来，他非常的焦虑了。所以他对这个事情已经烦透了。他还是这时候科学家的本性，他目的是为了发明这个机器。所以如果是说一个人给他提供了最好的资金，最好的算力，包括谷歌这家公司的文化和气质也是非常吸引他他认为两个创始人是有科学家的情怀的，他觉得他们能谈得来的。另外谷歌所谓那种不作恶的文化，其实跟他们提到AI这个安全的，实际上在当时是有契合点的。但是facebook就没有这些东西，所以当他谈到这一点，他基本上就决定跟谷歌谈了。
+</p>
+<p class="transcript-line">
+<span class="time"><strong>[00:36:02]</strong> </span>
+<span class="speaker"><strong>发言人2: </strong></span>
+那接下来就是价钱了。在之前，谷歌不是收购jeep新的师生三个人那个小公司吗？其实deep mind也参与竞购了，这个时候就显示出positif其实在这些事情上也是非常有策略的。他就是出了1000万去报价。当时杰弗逊顿在他的酒店里面，把地上那个垃圾桶反过来扣在那个桌子上，电脑放上去，上面就是当时各家的出价，每家报一下，在电脑上显示一下，就在那里面自己搞了一个拍卖仪式。
+</p>
+<p class="transcript-line">
+<span class="time"><strong>[00:36:33]</strong> </span>
+<span class="speaker"><strong>发言人2: </strong></span>
+当哈萨比斯出局之后，他立刻给杰弗逊打了一个电话。他说你的要价无论如何不能低于4000万，这就很有意思了。杰夫辛顿说哈特利斯这个人太狡猾，他自己出了1000万。当他出局的时候，他就拼命的怂恿我抬高价钱。结果他们这个团队4500万成交了，算下来平均一个人就是1500万。
+</p>
+<p class="transcript-line">
+<span class="time"><strong>[00:36:56]</strong> </span>
+<span class="speaker"><strong>发言人1: </strong></span>
+对，这是Jeffery hinton的团队。
+</p>
+<p class="transcript-line">
+<span class="time"><strong>[00:36:58]</strong> </span>
+<span class="speaker"><strong>发言人2: </strong></span>
+对对对，所以在谈麦丁曼的这家公司，谷歌开始报了一个价，低于他们的预期。哈萨克斯就把前面这个deal的价格作为参考就提出来。当时谷歌的报价大概是算了，就是说你们有30到40个世界顶级的AI的研究人员吗？在当时情况下，我给你每个人1000万美元已经是最高了。当时这样一算，也就是三四个亿，哈斯梅就不干了，他说你看我们不能低于1500万美元。那最后，你这样一算，那就应该是五六个亿，那最后是以6.5亿成交了。后来真的是这些每一个核心技术人员的平均价格确实是在1500万。而且谷歌对哈萨比斯这个人的定价大概是1.4个亿左右。所以这是当时AI的人才的价格，现在已经涨到一个亿了对吧？
+</p>
+<p class="transcript-line">
+<span class="time"><strong>[00:37:48]</strong> </span>
+<span class="speaker"><strong>发言人1: </strong></span>
+对，现在一个人一个亿。
+</p>
+<p class="transcript-line">
+<span class="time"><strong>[00:37:50]</strong> </span>
+<span class="speaker"><strong>发言人2: </strong></span>
+对facebook如果是抢了三四十个人，可能得花三四十个亿美元。
+</p>
+<p class="transcript-line">
+<span class="time"><strong>[00:37:55]</strong> </span>
+<span class="speaker"><strong>发言人1: </strong></span>
+这段挺精彩的。他的接下来的一个大的节点就是能够在首尔击败李世石。时间是到2016年。我们刚刚讲到谷歌收购deep mind的差不多是在2014年左右。就时间我们再拉回到两年以后，为什么他们会选围棋这样一个领域攻破呢？
+</p>
+<p class="transcript-line">
+<span class="time"><strong>[00:38:16]</strong> </span>
+<span class="speaker"><strong>发言人2: </strong></span>
+他在书里面写了，没有讲那么多的为什么，但是我觉得很自然。谷歌在收购deep mind之后，有一天他就突然跟page来讲，说我们将战胜围棋的世界冠军，对方就很吃惊的说多长时间，他随口就说了两年。被谷歌收购之后，他们的整个的算力、人才，各方面都是当时全世界首屈一指的。国际象棋已经不用说了，IBM的深蓝已经击败了卡斯帕罗夫，对于他们来说已经没有必要了。他们一定要找到一个世界上最难的一个游戏项目来攻克它，来证明自己是世界首屈一指的AI实验室。我觉得这是他们主要的一个出发点。
+</p>
+<p class="transcript-line">
+<span class="time"><strong>[00:38:56]</strong> </span>
+<span class="speaker"><strong>发言人2: </strong></span>
+另外哈萨比斯他自己也在剑桥的时候学过一段时间围棋。我在采访哈萨维时候，我专门问他了，因为我自己也下围棋，我你怎么评价你的围棋水平？还有一次其实他在围棋方面不像在国际象棋上面那么强大。他当时告诉我大概就是初段的水平，围棋一段的水平。我自己觉得它实际上还是一个懂围棋，但是还基本上停留在一个达不到专业的水平。他也知道围棋的难度远远的比国际象棋难，所以他选择这样一个目标。
+</p>
+<p class="transcript-line">
+<span class="time"><strong>[00:39:29]</strong> </span>
+<span class="speaker"><strong>发言人1: </strong></span>
+所以选围棋核心是因为它难。我记得谷歌创始人像Larry page，他也很喜欢下围棋。当时他们说他们要在围棋上战胜人的时候，我觉得是没有人相信的。因为他们算了你第一步、第二步、第三步，你每一步要增加多少种可能性。当时觉得以计算机现在的计算水平，感觉它是很难去穷尽所有的情况做到这样的一个技术的。当时大家真的说在围棋上战胜人。在当时看来还是有一点点天方夜谭的。
+</p>
+<p class="transcript-line">
+<span class="time"><strong>[00:39:57]</strong> </span>
+<span class="speaker"><strong>发言人1: </strong></span>
+对的对，然后接下来还有一个阿尔法fold，它是破解了困扰生物学界半个世纪的蛋白质折叠的难题。破解的时间是在2020年，2024年的哈萨比斯，他其实是因为这个事儿获得了诺贝尔的化学奖。从围棋到蛋白质这个跨越它是怎么发生的？
+</p>
+<p class="transcript-line">
+<span class="time"><strong>[00:40:17]</strong> </span>
+<span class="speaker"><strong>发言人2: </strong></span>
+他佩斯他一直非常关注生命科学，他应该是在伦敦大学学院的学计算神经科学。读博士的时候，他注意到有一位生物学叫安芬森，他就提出蛋白质的结构是由氨基酸链构成的，而且自然界中大约只有20种常见的氨基酸链。如果能破解其中的密码，是有可能把蛋白质的结构全部破解出来的。这个事情触动了他，这个事情在他后来的十几年的过程中间，一直在萦绕在他的脑海里。书里面有一段讲了他在2016年在汉城跟李世石下棋的时候，讲了他中间跟David silver谈起了这个事情，说我们现在把围棋给攻克了，下一个目标是不是蛋白质？而且特别有意思，两个人在谈的时候，旁边围了一堆记者，他们私下里谈这些话居然被录下来了，这个事情也就传出来了。他们为什么敢于做这个事？
+</p>
+<p class="transcript-line">
+<span class="time"><strong>[00:41:16]</strong> </span>
+<span class="speaker"><strong>发言人2: </strong></span>
+这时候有一个叫David Baker的，是华盛顿大学的一个科学家，就生物学家他做了一个叫folded的游戏，翻译成叫折叠它的游戏。他知道了蛋白质的折叠是有一定的规则的，他就发明了一个游戏，大家就可以去玩这个蛋白质的折叠游戏，玩完之后会给你一个打分。全世界大概有几千个对这个领域比较熟悉的人，就非常喜欢玩这个游戏。后来他们又知道世界上有一个蛋白质折叠的竞赛叫CESP马拉比写哈斯比C最本质的一个特点就是玩什么游戏都一定要赢的。而且哈萨比斯有这样一个自信，他说没有我玩不赢的游戏。
+</p>
+<p class="transcript-line">
+<span class="time"><strong>[00:41:56]</strong> </span>
+<span class="speaker"><strong>发言人2: </strong></span>
+预测蛋白质的结构，当时一个主流的技术就叫X射线的晶体学。要多少个博士，花多少时间才能产生一个蛋白质的结构？就人类历史上大概积累的那么几万个，但是蛋白质的结构是非常多的。你怎么去把蛋白质折叠的结构给预测测出来？他们觉得蛋白质的结构是由氨基酸的序列无穷无尽的组合构成的，它一定是一个序列的问题，所以他们就用的循环神经网络来解决。
+</p>
+<p class="transcript-line">
+<span class="time"><strong>[00:42:25]</strong> </span>
+<span class="speaker"><strong>发言人2: </strong></span>
+后来突然发现它不是一个序列问题那么简单。因为氨基酸之间他们不仅仅是一个排序的问题，他们还有折叠、接触什么比较复杂的纠合在一起。他们又觉得这是一个图像识别的问题，所以他们就用了一个卷积神经网络，就用来解读它的图像。结果比循环神经网络这个效果就好了一点。突然他们发现这个也不对，这个时候他们引入了一个人叫詹ber，后来也是获得诺贝尔化学奖的。前面说那个David Baker也是获得2024年，他们三个人获得诺贝尔奖的。
+</p>
+<p class="transcript-line">
+<span class="time"><strong>[00:42:56]</strong> </span>
+<span class="speaker"><strong>发言人2: </strong></span>
+哈萨斯在他之前是在一家叫roy的一个对冲基金工作。那个对冲基金就有点像今天的deep sick，他是一个非常成功的对冲基。但是他又有自己科学研究的一个部门，他造了一台超级计算机来发现各种各样化学物质，特别是蛋白质的结构，所以他捐门在那个机构工作了很多年。他用的是一个叫原子间动力这样的一个机制，大概能预测蛋白质的折叠方式。他把这个方法带入了deep mind，当然chAmber也是deep mind David silver他们给挖过来的。我这个人天生就是做这个事情的料，懂数学、统计学，什么量子物理化学、生物科学，就是跟哈萨比斯都是那种跨学科的天才。如果是一个错误的模型，我模拟的越精确，可能在错误的道路上走得越远。
+</p>
+<p class="transcript-line">
+<span class="time"><strong>[00:43:48]</strong> </span>
+<span class="speaker"><strong>发言人2: </strong></span>
+所以这个时候占卜就发挥了一个特别决定性的作用。他决定转向机器学习，实际上就是转向深度学习。这是一个深度学习挑战，但并不是一个强化学习的问题。所以你有可能通过深度学习，你能够将氨基酸的这个链映射到他们最终的折叠的架构上去。所以jamo决定转向机器学习，得到了哈萨比斯的支持。
+</p>
+<p class="transcript-line">
+<span class="time"><strong>[00:44:11]</strong> </span>
+<span class="speaker"><strong>发言人2: </strong></span>
+那么好，算法的问题决定了数据从哪儿来。数据他们也想了很多。第一个就是说前面说了X射线晶体它已经有10万种的蛋白质，它可以用来做训练。后来他们又发现了一个uni pro的一个数据库，大概有2万个人类，数百万个动植物和细菌的蛋白质的结构。但是即使有这些，体现不出他们deep mind他在这方面有什么优势。因为这个数据库大家都在用，所以他们又决定了自己生成一些数据。
+</p>
+<p class="transcript-line">
+<span class="time"><strong>[00:44:40]</strong> </span>
+<span class="speaker"><strong>发言人2: </strong></span>
+怎么去生成呢？氨基酸这个链之间有一个接触，他们把这个接触的问题变成了一个距离的问题。那我能不能用自己研发的一个卷积神经网络呢？当然这个卷积神经已经是在他们非常的强大的算力支撑下的一个更更强大的卷积神经网络。它预测出每个氨基酸之间的距离，那么你能预测出距离就能解决了它们之间的接触，因为有了接触才能折叠什么什么形成各种各样形状。这样他们解决了算法的问题，模型的问题，也具备了谷歌知识的强大的算力的问题，也解决了数据的问题。
+</p>
+<p class="transcript-line">
+<span class="time"><strong>[00:45:15]</strong> </span>
+<span class="speaker"><strong>发言人2: </strong></span>
+结果他们后来就一路开挂，2018年第一次参赛击败了97个团队。到2020年是阿尔法four two的时候，得分的92点4分，颠覆了整个的领域。决定阿尔法fold 2的成功，其实就是他们最终采用的transformer这个架构。
+</p>
+<p class="transcript-line">
+<span class="time"><strong>[00:45:32]</strong> </span>
+<span class="speaker"><strong>发言人1: </strong></span>
+这一段非常精彩，而且我们的播客过去两度，就阿尔法fold跟阿尔法fold two我们都出过节目，讲他对整个生物学的意义，然后以及是如何解决这个困扰生物学界半个世纪的这些难题的。有兴趣的听众也可以往回听一听。刚刚我们的这一段叙述，在真正的OpenAI做出ChatGPT以前的这一段，已经是非常清晰的把deep mind的崛起的几个关键节点都讲过了。在这个过程中，哈萨比斯在被谷歌收购以前，我觉得他很头大的一个问题是融资，就是找不到钱。在被谷歌收购以后，你觉得它跟谷歌的关系是怎么样的？谷歌对它的控制是它的一个大的苦恼吗？
+</p>
+<p class="transcript-line">
+<span class="time"><strong>[00:46:17]</strong> </span>
+<span class="speaker"><strong>发言人2: </strong></span>
+其实我当年我在采访他的时候问到了这些问题。第一，我说丁曼在谷歌的收购以后，在谷歌公司里面它起到一个什么作用？他就是说我们在整个谷歌在确定AI force的这个战略中，我们起到了一个引领的作用。他说的比较虚，我说你们做的研究和谷歌brain他们之间是怎么分工的，你们的绩效是怎么考核的。他说我们帮他们研究了一些预测，那个推荐，我自己感觉这个问题是大家其实是比较关心的。我觉得这里面主要是苏莱曼在中间起到很大的作用。那这个作用到底是好还是不好呢？马拉比他在书中也给出了自己的一些判断。
+</p>
+<p class="transcript-line">
+<span class="time"><strong>[00:46:56]</strong> </span>
+<span class="speaker"><strong>发言人2: </strong></span>
+苏莱曼一方面他确实抱定改变社会，社会正义的从小养成的这样的一些想法，他对AI的安全和他的社会效益是非常关注的。在谷歌收购deep mind的时候，他们就主张建立一个安全和伦理的委员会。333的比重，三个人来自外部，三个人来自谷歌，三个人来自deep man的。刚开始谷歌也是表面上同意了，他们第一次开会还是让马斯克来召集。但这个事情其实是没有搞起来的，谷歌的内部法务什么一些比较反对这个事情的。而且后来因为阿尔法bet成立这个控股公司，要把一些当时出于公司的业绩，还有股价的一些考虑，要把一些需要长期投入不挣钱的一些业务给分离出去。
+</p>
+<p class="transcript-line">
+<span class="time"><strong>[00:47:43]</strong> </span>
+<span class="speaker"><strong>发言人2: </strong></span>
+所以这就给了第一个机会，他们一定从自己的最大利益的角度来考虑，我既想拿你的钱，同时我又保持我最大程度的独立，想做我的研究。当时一度是非常乐观的，谷歌给他承诺未来十年给他150亿美元的有经费。苏莱曼也为自己争取了一个地盘，整个deep mind做应用的这一块由他负责，而且做应用的这一块，他放到谷歌的大的框架里，甚至他本人也要被委任为一个副总裁来负责这块儿。但是后来就发生了一些变化，支持他的那个高管好像被苹果挖走了。而且负责这一块，就任命了杰弗丁，把他的那批人马，什么搞医学的那些一百多号人，都并到谷歌那边了。就等于说他手下业务也没了，人也没了。在这个过程中，他曾经撺掇他萨比斯要不借这个机会，我们再次跟谷歌去博弈。如果你不答应我的条件，那我就跟你拜拜了。
+</p>
+<p class="transcript-line">
+<span class="time"><strong>[00:48:44]</strong> </span>
+<span class="speaker"><strong>发言人1: </strong></span>
+所以他们是有想过要独立的，然后做了一个马里奥计划，然后秘密谋求去脱离骨骼。他在这个过程中，其实重点是苏莱曼的这一系列的想法。哈萨比斯他是怎么想的？书里有提到吗？
+</p>
+<p class="transcript-line">
+<span class="time"><strong>[00:48:58]</strong> </span>
+<span class="speaker"><strong>发言人2: </strong></span>
+我觉得哈德比斯刚开始还是觉得苏莱曼对他很忠诚的。哈斯比斯最在乎，我觉得是他有足够资源去做研究，这是他最在乎的。所以刚开始那个安排对他来说他是完全可以接受。你给我150亿美元，我就负责研究这块应用这一块。
+</p>
+<p class="transcript-line">
+<span class="time"><strong>[00:49:16]</strong> </span>
+<span class="speaker"><strong>发言人2: </strong></span>
+给苏莱曼，苏莱曼等于说也从那挖走了很多人，这波人很可能被谷歌给收过去了，他那里都没意见。但是后来这个苏莱曼就在这个过程中，这些东西都没有满足之后，当时Larry page和劈柴当时刚上任。两个人的意见前后有矛盾，然而佩里说，你们就这样就行了。那劈柴一会儿同意，一会儿不同意。所以他们就很焦虑，就想到了我们干脆独立出去。所以这里面就他们找过蔡崇信，就是在这个时候他们先找了hofman，就雷的那个创始人霍夫曼，就是初步答应10亿美元。
+</p>
+<p class="transcript-line">
+<span class="time"><strong>[00:49:51]</strong> </span>
+<span class="speaker"><strong>发言人2: </strong></span>
+这个时候，还有一个事情对他们影响很大，就是OpenAI的成立。OpenAI建立了一个非盈利的机构，他们甚至设计这个架构的时候，跟OpenAI也是一样的。Global investment company为全球所有的人服务的一家公司。但是这些蔡崇信没有答应这个事儿，所以他们钱也不够。后来劈柴就非常果断的就没有给苏莱曼坐实了一个副总裁的职位。苏莱曼就很无聊的继续待在deep man，后来就出了一系列的这些事儿。像哈萨比斯，我觉得对他影响的是这些事儿，他认为是对deep mind和他个人品牌的一些损伤。
+</p>
+<p class="transcript-line">
+<span class="time"><strong>[00:50:30]</strong> </span>
+<span class="speaker"><strong>发言人1: </strong></span>
+你指的是伦敦NHS医疗项目引发的一个公共的舆论危机，对不对？
+</p>
+<p class="transcript-line">
+<span class="time"><strong>[00:50:36]</strong> </span>
+<span class="speaker"><strong>发言人2: </strong></span>
+对，但是这个舆论危机，马拉比在书中客观的评论说，其实这个是被媒体放大了炒作的一个事情。但是他肯定是采访苏莱曼，他也采纳了苏莱曼的很多的解释。苏莱曼在这个数据的安全和隐私保护，还有怎么不把所谓英国的国民教育体系的数据被一家硅谷的科技巨头给拿去。这个事情上，他做了大量的治理方面的工作。
+</p>
+<p class="transcript-line">
+<span class="time"><strong>[00:51:00]</strong> </span>
+<span class="speaker"><strong>发言人2: </strong></span>
+但是不管怎么说呢，这件事儿在当时的情况下，对deep and和哈萨比斯的声誉都是一个很大的损伤。再加上内部人的举报，他们在管理上的一些作风伤害了很多人。所以哈萨比斯就启动了调查，这是非常关键的。哈萨比斯没有捂住这件事情，但是这里面始终没有说，哈萨比斯就跟他说，你走吧，你走吧，没有这么一段。后来彭博就突然爆出来说哈特比斯和苏莱曼那闹掰了，就苏莱曼准备离开了。当时莫名其妙说我没有说这个事儿，就经过这一系列的事儿，苏德曼就边缘化了，他自己就离开了deep mind，谷歌就也给他个虚职，所谓的副总裁，所以他待了两年没事干嘛他就离开了。那后来就是创立inflection，那就是另外一个故事了。
+</p>
+<p class="transcript-line">
+<span class="time"><strong>[00:51:49]</strong> </span>
+<span class="speaker"><strong>发言人1: </strong></span>
+是的，我觉得在这里面，哈萨比斯跟苏莱曼矛盾的产生还有裂痕，其实也是中间一直以来的一条暗线。我刚刚提到的NHS的事件是苏莱曼在deep mind的。从创建最开始，他就一直是在帮他们公司走商业化的。因为早期我们刚刚提到说他们公司不赚钱，然后苏莱曼他其实是自己有做一些游戏，帮deep mind看看能不能商业化一点点。这个事儿他也是想跟NHS用他们160万份患者的资料去训练，看他能不能识别出肾衰竭。为了让模型帮助大家能够有更好的医疗，但是在这个过程中其实是侵犯了隐私的。然后也成为了他跟哈萨比斯矛盾爆发的一个导火索。
+</p>
+<p class="transcript-line">
+<span class="time"><strong>[00:52:38]</strong> </span>
+<span class="speaker"><strong>发言人1: </strong></span>
+为什么我们这么关注苏莱曼？我觉得很有意思的一点是，刚刚周老师提到了他是inflection AI的创始人。Inflation AI现在已经被微软收购了，所以现在苏莱曼他的身份是微软AI部门的掌门人。就相当于是谷歌把自己的员工走了以后，相当于现在是哈萨比斯掌管谷歌的AI跟苏莱曼掌管微软的AI，他们之间互相现在又有一点竞争的关系。所以我觉得这个历史的由来跟关系，跟分界点还是挺有意思的对。
+</p>
+<p class="transcript-line">
+<span class="time"><strong>[00:53:11]</strong> </span>
+<span class="speaker"><strong>发言人2: </strong></span>
+你说的这点非常重要。其实后来发生的一切，很多都是因为有D的这家公司。你现在想想OpenAI为什么成立？那还不是因为了mask没办法控制deep mind的。Deep mind被谷歌收购，他为了抗衡骨骼，他们才一起成立一个OpenAI。
+</p>
+<p class="transcript-line">
+<span class="time"><strong>[00:53:28]</strong> </span>
+<span class="speaker"><strong>发言人1: </strong></span>
+然后OpenAI它的这个非营利性组织的性质又戳到了哈萨比斯的点，他就开始想到独立了。
+</p>
+<p class="transcript-line">
+<span class="time"><strong>[00:53:36]</strong> </span>
+<span class="speaker"><strong>发言人2: </strong></span>
+对对对，这些有意思的东西只有通过这些故事线的梳理才能凸显出来。这些细节和很鲜活的东西。
+</p>
+<p class="transcript-line">
+<span class="time"><strong>[00:53:44]</strong> </span>
+<span class="speaker"><strong>发言人1: </strong></span>
+然后他跟谷歌的关系，你觉得他是从什么时候开始不再挣扎于他在谷歌的架构中，然后可以安心做他的研究。还是说因为其实谷歌是全资收购，还是说他跟谷歌的关系始终在一个更大的。比如说大家要去做AGI的这件事情，一直是在他头上的一朵乌云。
+</p>
+<p class="transcript-line">
+<span class="time"><strong>[00:54:05]</strong> </span>
+<span class="speaker"><strong>发言人2: </strong></span>
+对我觉得所谓这种科学理想或者说技术信仰和商业变现之间的矛盾始终是存在的。我记得在chat GP推出之前，还有人在写这个东西，就是说d one的又亏损了多少。就给人感觉deep mind就是一个能做出一些很好玩很惊艳的一些东西之外，在商业上一直没有实现变现，一直不能自立，不能养活自己。
+</p>
+<p class="transcript-line">
+<span class="time"><strong>[00:54:29]</strong> </span>
+<span class="speaker"><strong>发言人2: </strong></span>
+但是我觉得大家对ChatGPT出来之后，我觉得改变了很多人的一个看法。大家突然发现，D卖他15年成立，ChatGPT出来之前，他不也是一直在亏损吗？而且他现在还在亏损。突然发现微软花了一百多亿，后来估值节节攀升。那你现在回头看，当年谷歌收购deep mind是不是一个非常英明之举呢？非常便宜，非常有远见的。很多技术的发展在不同的阶段去回首的时候，其实你会得出不同的判断。也许现在这件事情对于整个技术，对于产业革命的意义如此重大，我们无法甚至在十年八年之内看清它的全部的意义。
+</p>
+<p class="transcript-line">
+<span class="time"><strong>[00:55:11]</strong> </span>
+<span class="speaker"><strong>发言人1: </strong></span>
+后来在2022年底OpenAI推出ChatGPT的时候，deep mind他当时是一个什么样的状况？他们内部是什么反应？
+</p>
+<p class="transcript-line">
+<span class="time"><strong>[00:55:22]</strong> </span>
+<span class="speaker"><strong>发言人2: </strong></span>
+这又回到刚才谈到的哈萨比斯和David silver对强化学习的执念。Deep mind研究的portfolio，他是亲自讲过的，他给外人感觉是非非常包容，非常跨学科的。但是它还是有先后顺序的。它第一我们认为强化学习就是通向VGI的这是我们的重中之重。第二就是神经科学向人的大脑学习。第三才是从数据中去归纳。而且大语言的模型是在数据归纳里面的一个分支。所以大语言模型是排在第三位里面的一个分支。
+</p>
+<p class="transcript-line">
+<span class="time"><strong>[00:55:56]</strong> </span>
+<span class="speaker"><strong>发言人2: </strong></span>
+逐渐他是非常不重视的了。这个时候尤其是一到了OpenAI之后，他在研究上做出一系列的突破，特别是在transformer之后，一定要第一个就拉着一帮工程师，他你必须依照这个给我做出模型出来。所以有GPT1GPT2到GPT2的时候，才引起了哈萨克他们的关注，还不到重视。这时候就有一些他们从open I挖来的人像什么欧文什么之类的，他们就不断的提醒他，你要重视大语言模型，他一直不重视，一直到GPT3出来的时候，才真的让他们警醒了。
+</p>
+<p class="transcript-line">
+<span class="time"><strong>[00:56:31]</strong> </span>
+<span class="speaker"><strong>发言人2: </strong></span>
+这个时候谷歌下面一个deep man的团队，还有jeff定的那个google bring两个团队的同时在做两个大模型，他们都要远远的去超出GPT3。Deep mind这边做的一个叫sparrell，叫麻雀那个模型，谷歌大脑那边做的啥叫lambda那个模型。后来转为bd但是他没想到的时候，当他们在准备超过GP3的时候，OpenAI已经开始研发一个更大的，后来据说是将近2万万亿的参数，GPT30 1750亿，他们要做数倍于他大概什么4000亿，什么6000亿的参数。但是没想到欧phone已经在偷偷做一个更大的一个参数。
+</p>
+<p class="transcript-line">
+<span class="time"><strong>[00:57:10]</strong> </span>
+<span class="speaker"><strong>发言人2: </strong></span>
+另外，他们没想到的时候，谷歌在安全上还是非常慎重的。记不记得2022年6月份发生一件事儿，就谷歌那边工程师说AI有意识了，后来他被炒了吗？所以他们是非常慎重的，他们也准备发布这个产品。他们对所谓金条，对人类反馈的学习、对齐，他们也都在做。但是在chat GP发布之前，他们也准备发布。他们是计划是花几个月的时间完成这些东西之后再慢慢的发布，结果没想到chat GP一下子出来了。
+</p>
+<p class="transcript-line">
+<span class="time"><strong>[00:57:42]</strong> </span>
+<span class="speaker"><strong>发言人1: </strong></span>
+你觉得在整个过程中，哈萨比斯犯的最大的战略性的错误是什么？就是在早期OpenAI一骑绝尘遥遥领先的时候。
+</p>
+<p class="transcript-line">
+<span class="time"><strong>[00:57:51]</strong> </span>
+<span class="speaker"><strong>发言人2: </strong></span>
+我觉得他有他固执的一面，不服输的一面。他一直不愿意承认通向ATI的另外一条可能的道路是深度学习。他认为就是我强化学习。你看他当时的阿尔法fold已经证明了深度学习在阿尔法fold里面其实是起到了比强化学习更大的一个作用。但是他又藐视的语言，他一直认为AGI一定是grounded的，一定是接地的，他认为语言是不接地的。当然伊利亚反驳的这个观点，他认为语言里面间接的反映人类大量的接地的经验和逻辑，是通过语言反映出来的。这个其实他是不承认的。
+</p>
+<p class="transcript-line">
+<span class="time"><strong>[00:58:27]</strong> </span>
+<span class="speaker"><strong>发言人2: </strong></span>
+所以当ChatGPT出来之后，还有一点，他们一直认为deep mind的应该是一家以科学研究为主的一个机构。但是他突然发现，通过不仅仅是科研而且是工程，不仅仅是模型而且是产品，不仅仅是只做研发，而且这个商业其实对于推进AGI所起到的作用是非常巨大的。如果你不让更多的人用它，你谈什么general都是没有意义的。所以这些都是让哈萨比斯反思的地方。
+</p>
+<p class="transcript-line">
+<span class="time"><strong>[00:58:56]</strong> </span>
+<span class="speaker"><strong>发言人2: </strong></span>
+当然哈萨比斯没有放弃他内心的那种，我认为是某种程度的一种孤傲。他对这个事情，他另外一个情绪是非常的愤怒。书里面也写了，他说他们把坦克开到了我们家草皮上了，他就觉得AGI这个地盘应该是我deep mind的。你现在open a居然搞出这么大的一个挑衅，我必须要反击。当时哈萨比斯在反思的同时，也内心也埋下了复仇的种子。是这我觉得可能是有点这个意思。
+</p>
+<p class="transcript-line">
+<span class="time"><strong>[00:59:27]</strong> </span>
+<span class="speaker"><strong>发言人1: </strong></span>
+对我觉得整个过程也很有意思。这本书大概是写到了2025年年初，对不对？
+</p>
+<p class="transcript-line">
+<span class="time"><strong>[00:59:35]</strong> </span>
+<span class="speaker"><strong>发言人2: </strong></span>
+我看他包括歼三他是写了，可能后来他又补充了一些。
+</p>
+<p class="transcript-line">
+<span class="time"><strong>[00:59:38]</strong> </span>
+<span class="speaker"><strong>发言人1: </strong></span>
+发展的太快了。对我觉得整个战局以下发展的太快了。在他写整本书的过程中，我觉得deep mind他虽然很强大，但他还是一个忍辱负重者。在2025年，其实我觉得真正是在六月份以后，整个形势发生了逆转。就是google IO以后，基本上谷歌的Jimmy模型已经在各种AI的测评榜上成为了可以说全球表现最好的模型。当我们说现在这场AI的竞赛也是各领风骚三个月、六个月，今年可能会是cloud。就从现在的情况来看，后面我们也可以说deep mind他其实是追上了。你觉得后面他在追赶竞争对手的过程中间，他有哪些关键的策略，或者谷歌进行了怎样的调整，让他研究的动力爆发力出现了。
+</p>
+<p class="transcript-line">
+<span class="time"><strong>[01:00:31]</strong> </span>
+<span class="speaker"><strong>发言人2: </strong></span>
+我觉得第一个是deep mind和google brain的合并，是在2023年4月份GPT4出来。然后那个bar的发布应该说是一个失败。当时谷歌内部进入了一个据说是危机的状态。联布林32g bring另外一个创始人都回来上班了，说是蹲在那儿跟大家一起看代码、看数据、看模型。有点有意思的说，google deep mind的CEO是卡萨克斯，不是JFD。所以也证明了当初劈柴不让他分离出去，一直认为他是一个战略性的一个棋子。总有一天要用上，这个时候真的就用上了，我觉得这是一个很大的调整。
+</p>
+<p class="transcript-line">
+<span class="time"><strong>[01:01:06]</strong> </span>
+<span class="speaker"><strong>发言人2: </strong></span>
+还有一个就是说deep my的内部的工作方式发生了变化，那个做法有一个好处，deep my以前他的研究占了谷歌内部大量的算力。里面有一句话说take man的一家占的算力比gmail几十亿用户所占的算力都多。这样就可以把所有的资源给集中起来，攻克最前沿的大模型。
+</p>
+<p class="transcript-line">
+<span class="time"><strong>[01:01:26]</strong> </span>
+<span class="speaker"><strong>发言人2: </strong></span>
+另外google deep mind里面的一些前沿的研究，他不发表了。一个是削减，以前很多人都在做各种各样的blue sky research，所谓蓝天式的研究，他这个要削减，我们要做更多的工程上的。另外一个，即使是研究出来成果，我们也不及时发表，以前谷歌总是第一时间去发表。
+</p>
+<p class="transcript-line">
+<span class="time"><strong>[01:01:48]</strong> </span>
+<span class="speaker"><strong>发言人2: </strong></span>
+还有一点，他们的工作方式回到了以前deep my那种突击队式的工作方式。当我们去比如说我们把Terry里面做一个智能体的时候，我们会把整个公司所有的最重要的实力都集中在这个事情上。精英式的这种合作的方式。就是谁在哪个模块哪个环节取得了突破了，就立刻内部公开，然后立刻给予采纳。就是完全透明的高强度的公关的这种方式。所以这几点还是证明了比较有效的。
+</p>
+<p class="transcript-line">
+<span class="time"><strong>[01:02:16]</strong> </span>
+<span class="speaker"><strong>发言人2: </strong></span>
+German I第一代的产品出来，还有germany的flash thinking，还有后来的23，原生多模态，长上下文，都是他先推出来的，所以就慢慢就赶上了。即使到最后在推理模型open I其实是领先了两三个月。但是这一点其实推理模型它的后训练，其实强化学习发挥了很大的作用。所以这一点谷歌也不用担心，它后来就很快就赶上来了。
+</p>
+<p class="transcript-line">
+<span class="time"><strong>[01:02:44]</strong> </span>
+<span class="speaker"><strong>发言人1: </strong></span>
+所以整体来说一个是谷歌组织架构的大调整，然后是创始人的回归，然后给钱给算力资源。整体上这些基本盘的事情做了追上来也是很快的事情。
+</p>
+<p class="transcript-line">
+<span class="time"><strong>[01:02:55]</strong> </span>
+<span class="speaker"><strong>发言人2: </strong></span>
+对，他的实力在吗？对我觉得。
+</p>
+<p class="transcript-line">
+<span class="time"><strong>[01:02:58]</strong> </span>
+<span class="speaker"><strong>发言人1: </strong></span>
+事情发展到今年，就是我们录播课的这个时间，就像我开始说的，我觉得现在整个AI的能力就表现出让人恐惧。其实在这本书里面他有提到jeffrey hinton，他自己一直在很多公开场合说，他觉得我们完了。他对AI是非常负面的看法，他觉得可能AI会毁灭人类。另一位图灵奖的得主奔久，他也发出了AI的末日警告。但是哈萨比斯依然觉得AI是人类有史以来最有益的一个技术。而且书的结尾其实提到了一个问题，就是说哈萨比斯他想做正确的事情，但是他能做到吗？您怎么看哈萨比斯这个人？你觉得他是一个乐观主义者，还是因为现在他的立场跟他所参与的这场竞争，他就是一个当事人，所以他是一个被竞争裹挟的一个囚徒。
+</p>
+<p class="transcript-line">
+<span class="time"><strong>[01:03:54]</strong> </span>
+<span class="speaker"><strong>发言人2: </strong></span>
+我觉得任何一个事情都是多维度的来看他，一个人也是非常复杂。哈萨比斯这个人用最简单的一句话，我觉得他是个好人。他的真正的理想还是科学发现。他身上有一种非常浓厚的英国科学革命和整个欧洲的这种人文精神，在他身上还是比较明显的。我觉得这是他跟硅谷的那些伊隆马斯克、黄仁勋、赛罗奥特曼，甚至阿莫迪亚，我觉得都不一样。他身上这种欧洲的科学气质，我觉得还是有的。
+</p>
+<p class="transcript-line">
+<span class="time"><strong>[01:04:25]</strong> </span>
+<span class="speaker"><strong>发言人2: </strong></span>
+我记得阿莫迪在今年的达沃斯会上，他跟在一个panel上，他讲了一句话，我觉得很有意思哈他把PI的创业者大概分为三类。他一类就是科学家，第二个就是工程师，背景叫entrepreneur r第三类就是那些所谓的什么做社交网络的人，在这里也做了。你也知道他是指谁吗？
+</p>
+<p class="transcript-line">
+<span class="time"><strong>[01:04:44]</strong> </span>
+<span class="speaker"><strong>发言人1: </strong></span>
+是sam奥特曼吗？他deck berg像奥特曼之前做了一个移动地理位置的社交软件。
+</p>
+<p class="transcript-line">
+<span class="time"><strong>[01:04:51]</strong> </span>
+<span class="speaker"><strong>发言人2: </strong></span>
+对他把自己摆在科学家这个位置。他说我们做科学家做事情天生就是一种向善的情怀，他有这种人文的特质。他的最大的愿望不是说有多大的权利，将来控制多么大的公司，有多少财富。
+</p>
+<p class="transcript-line">
+<span class="time"><strong>[01:05:06]</strong> </span>
+<span class="speaker"><strong>发言人2: </strong></span>
+他也谈到，我最想的是回大学去研究我的物理学和生命科学。他的想法就是说探索宇宙的奥秘和现实的构成。他想发明一个机器，能够完成比爱因斯坦和牛顿更伟大的发现世界的奥秘。他想破解整个宇宙，对上帝进行逆向工程，所以这个谈话是特别精彩的。我是见过他的人，有时候我就跟他在交谈，我就感觉这个人是一个天生的一个最底色的东西，是一个偏乐观的。他继承了欧洲的科学革命以来这种理性，科学主义这种精神，我觉得在他身上还是有的。他还是相信AGI这个技术，他最终能够帮助人类解决人类所面临的最重大的一些挑战。他认为除了AI之外没有别的办法。
+</p>
+<p class="transcript-line">
+<span class="time"><strong>[01:05:54]</strong> </span>
+<span class="speaker"><strong>发言人2: </strong></span>
+至于jeff hinton和本吉奥的那个，我自己不太喜欢那种AI的漠视论。对，AI的威胁人类生存的这些论调，很多人批评他们所谓这种澳威海默情节，是本质上是想夸大他们所发明的技术的威力。我还是主张是以人为本的这个AI所以在这个发展的过程中，你怎么去建立一套人对机器的一种协作式的控制的机制，我觉得是非常的根本的。人类应该把它控制在一个沙盒之内，让他们去玩去弄。但是对我人类社会绝对是不能造成任何伤害的对。
+</p>
+<p class="transcript-line">
+<span class="time"><strong>[01:06:29]</strong> </span>
+<span class="speaker"><strong>发言人1: </strong></span>
+还有我觉得对像哈萨比斯这样的顶级科学家而言，即使他知道I的威力很大。我记得书里其实有一句话就是讲为什么他还要研究这项技术？是因为探索的乐趣对他来说实在是太大了。我觉得这也是我在很多这个世界顶级的科学家身上看到的一种共同的特质。他们没有办法停止自己去探索去创新。
+</p>
+<p class="transcript-line">
+<span class="time"><strong>[01:06:54]</strong> </span>
+<span class="speaker"><strong>发言人2: </strong></span>
+对，就是这本书的扉页基本上表达了马拉比的一些立场。就是他引用了冯诺依曼在研制原子弹的时候写了一句话，我们知道这个威力太大，但是我们作为科学家，如果我们不履行我们的发现的天责，这是违背我们科学伦理的。但是一旦把这些产品的威力释放出来，我们可能成为世界上最被憎恨的人，就是体现了他们这个矛盾的这种心情。
+</p>
+<p class="transcript-line">
+<span class="time"><strong>[01:07:19]</strong> </span>
+<span class="speaker"><strong>发言人1: </strong></span>
+是的，我自己是觉得这本书就是马拉比他在写作的时候对哈萨比斯的写法有一点点过于好了。就像您刚刚说到的，他是一个好人。我鲜少看到他在一些关键事件，关键抉择的时候展现的这个人的矛盾性。而他很多的叙述其实是在长篇大论的写哈萨比斯他的思想是什么，想法是什么。但是人很多时候他是可以在事情成了之后，事后来给自己安一个光鲜亮丽的理由的这一点我不知道你是怎么看的。
+</p>
+<p class="transcript-line">
+<span class="time"><strong>[01:07:58]</strong> </span>
+<span class="speaker"><strong>发言人2: </strong></span>
+就马拉比是英国人，我认为哈斯比斯是英国的国宝，他在写自己的国宝的时候，他很自然的倾向性会流露出来了。而且你可以看到他在书中在谈到AGI的未来对人类究竟是好是坏这个事情上，他其实非常的不相信硅谷的那帮人的。他流露出一个倾向，就是哈萨比斯这样的人就在伦敦来引领AGI。可能代表了这个技术的未来。我觉得跟他的英国立场，我觉得是要有一定的关系的。
+</p>
+<p class="transcript-line">
+<span class="time"><strong>[01:08:29]</strong> </span>
+<span class="speaker"><strong>发言人1: </strong></span>
+你是否觉得会有一点点PR的感觉？
+</p>
+<p class="transcript-line">
+<span class="time"><strong>[01:08:33]</strong> </span>
+<span class="speaker"><strong>发言人2: </strong></span>
+我觉得这个PR是哈萨比斯潜移默化影响他的。
+</p>
+<p class="transcript-line">
+<span class="time"><strong>[01:08:37]</strong> </span>
+<span class="speaker"><strong>发言人1: </strong></span>
+所以你觉得他是真的被哈萨比斯说服了。
+</p>
+<p class="transcript-line">
+<span class="time"><strong>[01:08:40]</strong> </span>
+<span class="speaker"><strong>发言人2: </strong></span>
+最起码他选择那么多的对话，用这本书把哈萨比斯想对公众谈的很多东西给传递出来了。如果你不相信哈萨比斯在这个话中的真诚度的话，那你可能就觉得这里面有些PR。但是我是倾向于相信其中的多数的。
+</p>
+<p class="transcript-line">
+<span class="time"><strong>[01:08:58]</strong> </span>
+<span class="speaker"><strong>发言人1: </strong></span>
+对，您自己在翻译这本书的时候，其实他也写到了哈萨比斯。比如说他对待他的合伙人，然后还有他之前创立公司的时候，他的一些其他的特质。因为我觉得一个人动人，他不仅仅是因为身上的优点，有的时候也是因为身上的缺点。就是你觉得哈萨比斯这个人身上是有矛盾点的吗？
+</p>
+<p class="transcript-line">
+<span class="time"><strong>[01:09:19]</strong> </span>
+<span class="speaker"><strong>发言人2: </strong></span>
+他争强好胜，就是我见他第一印象过，就是说他就像一个普通的科研工作者一样。他不开口时候，你说他是一个特别普通的，与世无争的，特别随和的一个人。但是这本书里面就写了，他是一个非常真诚好性的人。他在任何智力游戏中他不玩则已，他一玩一定要战胜别人，包括玩桌面足球、打扑克牌、象棋、双鹿旗什么，他一玩就要战胜别人。他要打扑克牌到社会上一玩就要赢钱。就是他口口声声说我不愿意控制别人，但是你一定要赢过别人，是不是是一另外一种控制呢？
+</p>
+<p class="transcript-line">
+<span class="time"><strong>[01:09:55]</strong> </span>
+<span class="speaker"><strong>发言人1: </strong></span>
+对他就一边说她不要控制别人，另一边她的行为，包括他他在对待人的这个过程中是不是有涉及到控制。我觉得这也是书中在反复讨论的一个议题。哈萨比斯也有一个类似于绝地武士这样的一种说服力，他同时也是口才非常好的。
+</p>
+<p class="transcript-line">
+<span class="time"><strong>[01:10:13]</strong> </span>
+<span class="speaker"><strong>发言人2: </strong></span>
+非常好。真的我觉得他的本事就在于可以把所有的人给侃晕。他那种敏捷度和对你提问题的针对性，跨学科的逻辑的打通的能力，我觉得在这个世界上很少有人能做到这一点的对。
+</p>
+<p class="transcript-line">
+<span class="time"><strong>[01:10:27]</strong> </span>
+<span class="speaker"><strong>发言人1: </strong></span>
+今天整个的故事都非常的精彩，我觉得现在整个的AI竞赛也开始白热化了。我们但愿就是我们聊的这样的一个天才，他是一个好人。也希望在整个AI的构建的过程中，这些人都是好人，而不是被资本绑架。
+</p>
+<p class="transcript-line">
+<span class="time"><strong>[01:10:44]</strong> </span>
+<span class="speaker"><strong>发言人2: </strong></span>
+但愿如此。对。
+</p>
+<p class="transcript-line">
+<span class="time"><strong>[01:10:46]</strong> </span>
+<span class="speaker"><strong>发言人1: </strong></span>
+好的，那周老师您还有什么要补充的吗？
+</p>
+<p class="transcript-line">
+<span class="time"><strong>[01:10:49]</strong> </span>
+<span class="speaker"><strong>发言人2: </strong></span>
+没有了。我觉得今天你问的问题也非常的有深度有质量，我觉得谈的非常好，非常感谢。
+</p>
+<p class="transcript-line">
+<span class="time"><strong>[01:10:56]</strong> </span>
+<span class="speaker"><strong>发言人1: </strong></span>
+谢谢。对，跟我们讲了好多好多好玩的故事。如果大家感兴趣，其实也可以看一下这个哈萨克斯谷歌AI之脑这本书非常好看。好，谢谢周老师好。
+</p>
+<p class="transcript-line">
+<span class="time"><strong>[01:11:07]</strong> </span>
+<span class="speaker"><strong>发言人2: </strong></span>
+谢谢。
+</p>
+<p class="transcript-line">
+<span class="time"><strong>[01:11:10]</strong> </span>
+<span class="speaker"><strong>发言人1: </strong></span>
+好，最后我做一个小更正。我们节目中提到谷歌收购deep mind的价格是6.5亿美元。因为这笔交易它从来没有被官方确切披露过金额，所以更严谨的说法大概是5亿到6.5亿美元之间。但其实不管最终的数字是多少，这笔交易确实是谷歌历史上最重要的一笔收购，而且怎么看都太便宜了。因为deep mind给谷歌带来了阿尔法go、阿尔法a fold、gini, 还有一座诺贝尔奖，这远不是几亿美元能够衡量的这本书在写作的时候，甚至是我们在录这期节目的时候，哈萨比斯总体上对AI的态度还是乐观的。包括书中也记录了一段他的原话。他说AI会把人类带入到一个后稀缺时代，我们会开采小行星，解决核聚变，从海水里提取燃料，把人类文明推到一个全新的高度。
+</p>
+<p class="transcript-line">
+<span class="time"><strong>[01:12:09]</strong> </span>
+<span class="speaker"><strong>发言人1: </strong></span>
+但是在我们编这期节目的这几天的过程里，啊哈萨比斯也开始公开站出来警醒AI带来的风险。他在一个AI峰会上说，我们需要紧急关注，因为AI系统正在变得越来越自主，而且它一旦偏离了我们的预设轨道，后果可能会非常严重。当前国际的合作可能根本不够用。听到这里可能又要抛出我们开头的这个问题了，就是一个科学家想用AI去理解宇宙，却发现自己可能亲手打开了潘朵拉的盒子。大家会如何去看AI带来的风险呢？欢迎给我们写评论，写留言。
+</p>
+<p class="transcript-line">
+<span class="time"><strong>[01:12:49]</strong> </span>
+<span class="speaker"><strong>发言人1: </strong></span>
+喜欢我们的听众可以通过小宇宙、苹果播客、spotify、喜马拉雅来收听关注我们，也可以在B站还有youtube上搜索硅谷101播客关注到我们。同时我们的部分文章的文字稿也会发表在我们的微信公众号硅谷101上。我是红军，感谢大家的收听。
+</p>]]></content:encoded>
+            <pubDate>Thu, 26 Feb 2026 00:00:00 GMT</pubDate>
+            <guid>699f8dc4ff5fd5761ab49c2a</guid>
+        </item>
         <item>
             <title>E225｜SaaS业数千亿市值蒸发：AI如何变革组织架构？</title>
             <link>https://www.xiaoyuzhoufm.com/episode/698fbbc62cbb0d7f6e4ae7e7</link>
@@ -34535,1052 +35556,6 @@ OK现在是2025年年中，我们看见整个agent在大爆发。你觉得现在
 </p>]]></content:encoded>
             <pubDate>Thu, 17 Jul 2025 00:00:00 GMT</pubDate>
             <guid>68783d4733e162b18f8c4b9d</guid>
-        </item>
-        <item>
-            <title>E199｜悬赏1亿美金逆转人类10年生理年龄，抗衰疗法距离落地还有多远？</title>
-            <link>https://www.xiaoyuzhoufm.com/episode/6874490456583a39b9ef1a07</link>
-            <description>长寿与永生，是人类社会亘古不变的终极命题。近年来，换血疗法、干细胞移植等硅谷富豪青睐的“长寿黑科技”频频出圈，前沿科技的突破也让抗衰从幻想走向了可验证的科学实践。作为一个高度复杂、跨学科交叉的研究领域，抗衰涵盖了分子生物学、细胞学、遗传学、免疫学、神经科学、人工智能、临床医学乃至伦理学等等诸多维度。而以延长寿命或避免死亡为目标的研究，也正在挑战传统的临床试验设计。
-本期节目，我们以一场当下最具雄心的全球抗衰竞赛——XPRIZE Healthspan为切入口。这是一项为期7年、总奖金高达1.01亿美元的大赛，目标是通过一年的治疗，让50–80岁的健康成年人，在认知、肌肉、免疫功能上实现10–20年的“逆龄”。我们不仅介绍了这场比赛本身的赛制、组织者与参赛团队，更希望借此机会，为你搭建一个认知抗衰领域的科学框架。我们将探讨：抗衰的关键机制有哪些？“衰老时钟”如何衡量一个人的健康年龄？哪些创新疗法已经进入人体临床验证？如果你对“健康活得久”这件事抱有兴趣，本期节目将带你走近最前沿的研究者视角，踏入抗衰科学的真实世界。
-【主播】
-Yushan，《硅谷101》研究员，生物医药行业从业者
-【嘉宾】
-周广宇，Regenerative Bio联合创始人兼CTO
-仁晖，哈佛麻省总医院医学人工智能研究临床科学家
-【你将听到】
-悬赏1亿美金找到逆龄10年抗衰疗法的XPRIZE Healthspan比赛介绍
-2:26 赛制介绍：7年，1.01亿美金奖金，逆转10年寿命
-4:09 参赛感受分享：契合公司研发方向，看重平台公信力、科学执行和奖金诚意
-6:46 众星璀璨的组织团队：非执行董事包括谷歌创始人Larry Page，大导演James Cameron
-10:12 参赛团队方法保罗万象：前沿科技如基因疗法、细胞/类细胞疗法、传统药物治疗等；生活方式干预如运动、营养方案
-12:22 参赛公司之一Longeveron，以间充质干细胞疗法抗衰，已在Nasdaq上市
-抗衰在解决什么问题（抗衰机制）如何衡量健康寿命（衰老时钟）
-17:18 介绍抗衰机制：14个衰老标志（参见后文相关名词和概念解释）
-26:29 理想情况14个衰老标志一切正常可实现人类寿命永续，但实际上很难达成
-31:29 抗衰疗法设计通常以一个衰老标志为靶标，但往往会影响到多个衰老标志；需要通过临床试验评估可能的脱靶效应造成的健康损害
-36:51 抗衰研究最重要的工作之一是建立衰老时钟，衡量人类相对于生理年龄的“健康”年龄，当前分析维度高达几亿、几十亿
-39:53 指标的采集和校准与采集人群规模高度相关，受经费所限，需要选取更有研究价值的人群
-42:29 测量年龄的颗粒度可以到器官，也可以跟当前的临床体系接轨
-44:50 微观指标可以提示未来疾病风险，在探索通过血液指标（如DNA甲基化或蛋白)做癌症预测和早期筛查
-45:56 AI如何辅助衰老时钟形成？研究中结合机器学习模型方法、可解释的AI探索
-49:33 生物标志物联合会(Biomarker of Aging Consortium)每年在波士顿召集科学家、产业从业者进行衰老时钟学术讨论、建立共识
-53:19 如何衡量10年寿命逆转？参赛团队”自带标尺”，需要获取组委会/同行审议认可
-55:59 以抗衰/延长寿命为临床试验终点的探索只有二甲双胍在进行中
-参赛公司和抗衰界明星公司的研究进展，嘉宾抗衰小贴士
-1:00:12 对于比赛更前沿科技的抗衰方法，仍需符合监管框架，与研究团队正在进行的临床研究相结合
-1:03:11 未参赛神秘的抗衰赛道的明星公司Altos Lab聚焦细胞重编程疗法，初始融资高达30亿美金
-1:09:09 通过对照试验，在衰老时钟指标观测维度下，比赛中1年的临床试验也可以获得初步临床证明
-1:13:37 最省钱的抗衰方法：冥想、运动
-1:14:32 补剂、创新型抗衰疗法不一定适用于每一个人，需要充分了解个人健康状态和需求进行干预
-1:15:49 适当走出身体感受舒适区对于抗衰有好处：冷暴露、热暴露
-【延伸阅读】
-2025年Cell杂志发表的14大衰老标志文章：From geroscience to precision geromedicine: Understanding and managing aging
-【相关节目】
-E143｜亲历者讲述：神秘的长寿乌托邦与疯狂的生物极客运动
-【相关名词、概念和人物解释】
-Peter H. Diamandis：一位美籍工程师、医生和企业家，创立了XPRIZE基金会，推动全球大型创新竞赛，同时也是奇点大学的联合创始人及执行主席，致力于利用指数型技术解决人类重大挑战
-基因疗法：利用基因编辑技术（如CRISPR-Cas9）或通过引入端粒酶基因等方法修复、替换或调控人体内受损或衰老相关的基因，恢复细胞的正常功能，从而延缓细胞和组织的衰老过程的一种治疗方法
-细胞/类细胞疗法：利用干细胞或经过工程改造的细胞，通过移植或激活它们在体内发挥修复、再生和调节免疫的作用，从而延缓组织衰老、改善功能和促进健康寿命的治疗方法
-间充质干细胞疗法：利用间充质干细胞来修复和再生受损组织的治疗方法。间充质干细胞是一类来源丰富、具有自我更新和多向分化能力的成体干细胞，最早从骨髓中分离发现
-细胞重编程疗法：通过激活或引入特定的基因因子（如山中因子），将成熟的体细胞部分或完全“重置”为更年轻或多能的状态，从而逆转细胞的表观遗传老化特征，恢复细胞功能，延缓甚至逆转衰老过程的一种技术
-归巢效应：干细胞在体内能够定向迁移，主动寻找并进入受损或特定的组织部位，在那里定植并发挥修复功能的过程
-衰老标志：衰老与该标志表现出随时间推移的关联；通过实验加剧该标志，会导致衰老加速；通过实验减弱该标志，会导致衰老减缓
-图片来源：From geroscience to precision geromedicine: Understanding and managing aging
-行业共识的14大衰老标志：
-主要标志 Primary Hallmarks - 驱动衰老进程
-* 基因组不稳定性 Genomic instability: 细胞DNA突变等受损累积且修复能力下降，导致基因组完整性破坏和功能衰退
-* 端粒磨损 Telomere attrition: 端粒是染色体末端保护结构，随着细胞分裂，端粒逐渐缩短，最终引发细胞衰老或凋亡
-* 表观遗传改变 Epigenetic alterations: 例如 DNA 甲基化、组蛋白修饰等变化，不改变DNA序列，导致基因表达异常和细胞功能失调
-* 蛋白质稳态丧失 Loss of proteostasis: 细胞内蛋白质合成、折叠和降解失衡，导致错误折叠蛋白积累和细胞毒性
-* 细胞自噬失能 Disabled macroautophagy: 细胞自噬是细胞清除受损细胞器和蛋白的过程，自噬系统功能减弱，促进衰老
-拮抗标志 Antagonistic Hallmarks - 对主要标志的变化做出响应
-* 营养感应失调 Deregulated nutrient sensing: 细胞对营养和能量信号的感知异常，扰乱代谢平衡和生长调控
-* 线粒体功能障碍 Mitochondrial dysfunction: 线粒体能量代谢效率降低，产生过量活性氧，损伤细胞结构和功能
-* 细胞衰老 Cellular senescence: 细胞进入不可逆的生长停滞状态，分泌促炎因子，影响组织微环境
-整合标志 Integrative Hallmarks - 解释衰老表型
-* 细胞外基质变化 Extracellular matrix changes: 细胞外基质ECM成分和结构改变，影响细胞黏附、迁移和信号传导，破坏组织稳态
-* 干细胞耗竭 Stem cell exhaustion: 干细胞自我更新和分化能力下降，导致组织修复和再生功能减弱
-* 细胞间通讯改变 Altered intercellular communication: 细胞间信号传递异常，导致慢性炎症和组织功能障碍
-* 慢性炎症 Chronic inflammation: 炎症因子持续释放，引发持续低度炎症状态，损伤组织加速衰老
-* 菌群失调 Dysbiosis: 肠道及其他微生物群落失衡，影响免疫和代谢健康
-心理-社会隔离 Psychosocial isolation：（长期心理压力和社会隔离加剧生理衰老和健康风险）位于中心，通过神经-内分泌-免疫等通路与位于三类衰老标志相互作用
-衰老时钟：一种利用分子组学数据和机器学习等方法，评估个体生物学年龄的工具，可以反映身体或特定器官的真实衰老程度，而不仅仅是实际年龄。它常用于预测健康状况和疾病风险，并为衰老干预和健康管理提供科学依据
-HeartMate：一类植入式心脏辅助装置，主要用于治疗晚期心力衰竭患者，帮助心脏泵血，改善全身血液循环。
-C反应蛋白：C-Reactive Protein，CRP是一种由肝脏合成的血浆蛋白，常作为炎症和感染的标志物，在急性炎症、细菌感染或组织损伤时血液中水平会迅速升高
-UK Biobank：英国生物样本库，是英国自2006年启动的全球最大规模之一的长期生物医学数据库，收集了约50万名40-69岁志愿者的遗传、健康、生活方式等多维度信息，旨在研究遗传和环境因素对重大疾病发展的影响。该数据库为全球研究者开放，推动了癌症、心脏病、糖尿病等多种疾病的预防、诊断和治疗研究
-二甲双胍 metformin：一种常用的降糖药，主要用于治疗2型糖尿病，可以帮助降低血糖水平
-雷帕霉素 rapamycin：一种常用的免疫抑制剂，主要用于器官移植后预防排斥反应，也具有抗肿瘤和抗真菌活性
-NMN：全称β-烟酰胺单核苷酸，是人体内天然存在的一种物质，是合成重要辅酶NAD+的前体，参与细胞能量代谢和多种生理功能。补充NMN被认为有助于提升NAD+水平，改善新陈代谢、延缓衰老并辅助多种代谢性疾病的防治
-PQQ：全称吡咯喹啉醌，是一种类维生素的生物活性物质，具有强抗氧化作用，能够促进线粒体生成、提升细胞能量代谢，并在脑健康、心血管健康等方面有积极作用。人体无法自身合成PQQ，需通过膳食或补充剂摄取
-Longeveron：一家成立于2014年的美国临床阶段生物技术公司，专注于开发基于间充质干细胞（MSC）的再生医学疗法，主要用于治疗衰老相关疾病和危及生命的疾病。其核心产品Lomecel-B来自健康成年捐献者骨髓，已在阿尔茨海默病、老年衰弱症和左心发育不全综合征等领域开展临床试验
-Retro Biosciences：成立于2021年的美国生物科技公司，专注于通过细胞重编程、自噬和血浆疗法等前沿技术延长人类健康寿命。公司获得了OpenAI CEO Sam Altman等投资人1.8亿美元支持，致力于开发逆转衰老的创新疗法
-Altos Lab：一家成立于2022年的美国生物科技公司，专注于通过细胞重编程等前沿技术，恢复细胞健康、逆转衰老并延长人类寿命。公司以“细胞重编程”为核心研究方向，吸引了多位诺贝尔奖得主和顶尖科学家加入，并于2022年完成了高达30亿美元的天使轮融资，是生命科学领域有史以来最大规模的初创公司融资之一，主要投资人包括亚马逊创始人贝索斯(Jeff Bezos)和投资人尤里·米尔纳(Yuri Milner)等
-Steve Horvath, PhD 教授：现任Altos Labs首席研究员，生物老年学和衰老表观遗传生物标志物领域的领军科学家，因开发首个表观遗传时钟(epigenetic clocks)和WGCNA（加权基因共表达网络分析）方法享誉全球
-Vadim Gladyshev, PhD 教授：哈佛医学院Brigham and Women&#x27;s医院的教授兼氧化还原医学中心主任，他的实验室专注于利用实验和计算方法研究衰老、逆转和寿命调控
-Shinya Yamanaka, PhD 山中伸弥教授：因发现成熟体细胞可以通过引入特定基因被重新编程为多能干细胞（iPS细胞）而于2012年获得诺贝尔生理学或医学奖
-David Sinclair, PhD 教授：哈佛大学遗传学教授和著名抗衰老研究专家，开创性地揭示表观遗传变化在衰老中的关键作用，致力于通过调节NAD+等分子逆转衰老进程，推动延长健康寿命的科学和技术发展
-【监制】
-泓君
-【后期】
-AMEI
-【运营】
-孙泽平、王梓沁
-【BGM】
-Tickle - Josef Falkenskold
-Lost in Time - Aiyo
-【在这里找到我们】
-公众号：硅谷101
-收听渠道：Apple Podcast｜Spotify｜小宇宙｜喜马拉雅｜蜻蜓FM｜荔枝FM｜网易云音乐｜QQ音乐
-其他平台：YouTube｜Bilibili 搜索「硅谷101播客」
-联系我们：podcast@sv101.net
-Special Guests: 仁晖 and 周广宇.</description>
-            <content:encoded><![CDATA[<h1>转写链接</h1>
-<link>https://tongyi.aliyun.com/efficiency/doc/transcripts/kvjonymrpr8gnlx3</link><br>
-<h1>节目摘要</h1>
-<div class="summary">本期硅谷101节目探讨了抗衰和长寿科技的前沿进展，特别聚焦于通过冷热暴露、断食等方式降低慢性炎症和增强免疫系统的方法，以及适当挑战舒适区的重要性。节目还讨论了营养补充剂的个性化选择和天然产物的安全性。在抗衰竞赛的背景下，两位嘉宾周广宇博士和任辉博士分享了衰老的科学定义、抗衰研究的挑战与进展，强调了生活方式、心理健康和个性化医疗的重要性。最终，节目鼓励听众通过科学途径和健康选择提升生活质量，突出了积极心态、社交互动和心理健康的积极影响。</div><br>
-<h1>章节速览</h1>
-<div class="chapters">
-<div class="chapter-item">
-<span class="time"><strong>[00:00:00]</strong> </span>
-<span class="chapter-title"><strong>硅谷101：探索抗衰科学前沿</strong></span>
-<div class="chapter-summary">本期节目邀请了两位在科研和临床领域有丰富经验的嘉宾，共同探讨抗衰话题。内容包括全球正在进行的、以逆转人类十年生理年龄为目标、奖金高达1.01亿美金的抗衰大赛，以及从生物学机制到临床应用的抗衰研究进展。节目旨在为听众提供一个科学的抗衰理解框架，帮助其在面对各种抗衰信息时，具备更专业的判断力。</div>
-</div>
-<div class="chapter-item">
-<span class="time"><strong>[00:02:27]</strong> </span>
-<span class="chapter-title"><strong>抗衰和长寿科技：express健康寿命挑战赛的探讨</strong></span>
-<div class="chapter-summary">讨论围绕抗衰和长寿科技这一前沿话题展开，特别是关注了一个名为express健康寿命挑战赛的全球赛事。这个赛事旨在通过逆转50至80岁健康人群的肌肉、认知和免疫功能，来评估各种抗衰疗法的效果。赛事总奖金高达1亿美元，由沙特王室和富豪支持，是历史上奖金最高的抗衰老科研赛事。比赛计划从2023年持续到2030年，吸引了来自58个国家的超过600个团队参与。参赛团队需在一年内证明其疗法能增加10到20年的寿命，以期在2030年选出冠军并获得接近1亿美金的奖金。瑞健生物regenerated bio的周光宇博士分享了其团队参与比赛的感受，尽管未能入围前40名，但表示比赛对于推动长寿行业的发展和不同领域的PK具有积极影响。</div>
-</div>
-<div class="chapter-item">
-<span class="time"><strong>[00:05:47]</strong> </span>
-<span class="chapter-title"><strong>抗衰老科技竞赛：从参赛到决赛的历程与体验</strong></span>
-<div class="chapter-summary">讨论了从2023年底开始注册至宣布前40名的抗衰老科技竞赛过程，强调了参赛需要提交的详尽材料，包括研究背景、团队能力、已取得的成绩等，与科研项目的申请类似。竞赛特别关注干预衰老过程的有效性。组织者和专家评审团由教育科技、投资界的重要人士组成，包括西点大学校长、Google创始人Larry Page和导演詹姆斯卡梅隆等。科学家团队则以外部顾问的形式参与。非执行董事主要负责战略决策，通过资金或资源支持竞赛。竞赛通过设定共同的目标，即抗衰老，将不同领域的公司聚集在一起，共同参与竞争。</div>
-</div>
-<div class="chapter-item">
-<span class="time"><strong>[00:09:17]</strong> </span>
-<span class="chapter-title"><strong>抗衰老领域的前沿科技与生活方式干预</strong></span>
-<div class="chapter-summary">抗衰老领域涵盖了从前沿生物科技如基因疗法、靶向细胞治疗到传统生活方式干预如饮食调整、运动和营养补充等多种方法。这些干预手段的有效性评估是一个系统性和挑战性的难题。当前，该领域内存在多种类型的公司，包括专注于生物科技的公司和侧重于生活方式干预的企业。生物科技方向的公司更多，涉及基因治疗、干细胞疗法、小分子或多肽干预等。获奖的抗衰老方案通常具有创新性和多样性，即便在相同解决方案中，也会选择最具代表性的公司或团队，强调方案的多样性而非单一公司的实力。</div>
-</div>
-<div class="chapter-item">
-<span class="time"><strong>[00:12:17]</strong> </span>
-<span class="chapter-title"><strong>探讨抗衰技术：间充质干细胞疗法与机制</strong></span>
-<div class="chapter-summary">对话讨论了抗衰领域的40家公司的多样方向，特别是提及了一家以间充质干细胞疗法为切入点的公司。间充质干细胞因其多功能性和干性被用于治疗，如肺纤维化等适应症，但衰老本身尚未被严格定义为临床适应症。抗衰效果的评价标准仍在形成共识过程中。间充质干细胞通过释放细胞因子，重塑细胞微环境，刺激细胞活力，从而可能清除衰老细胞并使身体更年轻。此外，对话还涉及了抗衰背后的多种机制，包括干细胞疗法、基因疗法和重编程，这些技术通过影响体内过程和机制来达到抗衰目的。</div>
-</div>
-<div class="chapter-item">
-<span class="time"><strong>[00:17:48]</strong> </span>
-<span class="chapter-title"><strong>衰老机制的新兴研究及其抗衰应用</strong></span>
-<div class="chapter-summary">这段对话深入探讨了衰老机制的新兴研究领域，特别是过去10至20年间，科学家如何将衰老机制与生物医学及临床应用相结合。讨论中提到了衰老的标志，从最初九大标志逐步发展到最新的四大标志，这些标志被分为基因组不稳定性、功能丧失与失调、以及表象形成三大类别。通过这些标志，研究者能够更全面地理解衰老过程，并探索可能的干预策略。此外，对话还强调了抗衰研究的复杂性，包括不同机制间的交叉作用，以及如何通过临床实验设计来衡量抗衰的有效性，旨在实现寿命的延长和疾病发病率的降低。</div>
-</div>
-<div class="chapter-item">
-<span class="time"><strong>[00:21:35]</strong> </span>
-<span class="chapter-title"><strong>探讨抗衰老研究及其背后的生物学机制</strong></span>
-<div class="chapter-summary">对话围绕人体的复杂性以及对衰老的理解展开，强调了衰老是一个每个人都面临的问题，其定义至今仍不清晰。讨论中提到了健康状态、疾病状态和绝对寿命等问题，并探讨了如何在临床实验中衡量衰老。对话深入到基因、蛋白质合成、线粒体能量供给和生物信息能量等基础生物学过程，指出这些过程对器官正常工作和抗衰老研究的重要性。最后，讨论了抗衰老和长寿科技研究背后的假设，即如果能够使14个衰老标志的运行正常，可能人类寿命可以显著延长。其中提到两种观点：一种认为人类寿命可能达到200岁或300岁，另一种则认为可以在一个年轻的生理状态下活到120岁，后者被看作短期内更可实现的目标。</div>
-</div>
-<div class="chapter-item">
-<span class="time"><strong>[00:25:49]</strong> </span>
-<span class="chapter-title"><strong>人类寿命极限与长寿科技的探讨</strong></span>
-<div class="chapter-summary">对话围绕人类寿命极限、长寿科技及衰老科学的研究展开。当前，人类寿命极限估计在130到140岁之间，基于目前最长寿的人类记录为122.5岁。讨论指出，若能解决核心器官更替或利用干细胞技术实现自我更新，人类寿命可能被突破。然而，这涉及到复杂的技术和伦理问题。短期目标是延长人类的健康寿命。假设消除衰老标志，如端粒缩短、DNA错误复制等问题，理论上生命可无限延续，但这在现实中难以实现，因为生命机制本身设计中包含了随机错误，以确保适应性和多样性。此外，通过现代医疗技术如器官替代延长生命，引发了关于生活质量与真正长寿的伦理和哲学问题。最终，努力的方向是减少生命过程中的痛苦和不适，而非追求永生。</div>
-</div>
-<div class="chapter-item">
-<span class="time"><strong>[00:30:02]</strong> </span>
-<span class="chapter-title"><strong>抗衰老研究：目标、方法与挑战</strong></span>
-<div class="chapter-summary">讨论集中于抗衰老研究的核心目标和方法，以及在此过程中可能面临的挑战。通过比较癌症细胞的永生性与健康的寿命延长，强调了抗衰老研究追求的并非简单的生命延长，而是全方位的健康寿命。通过14个不同的抗衰老标志物，研究者试图观察和控制影响寿命和衰老过程的多种机制，比如细胞间通讯。采用干细胞治疗等方法，旨在修复这些机制中的问题，从而逆转或抵抗衰老。然而，抗衰老疗法的复杂性在于，它们往往不仅针对单一目标，而是同时影响多个衰老标志，因此需要评估在人体内的多维度效应，包括可能的副作用和器官损伤，这就突显了临床实验的重要性。</div>
-</div>
-<div class="chapter-item">
-<span class="time"><strong>[00:33:18]</strong> </span>
-<span class="chapter-title"><strong>多维度衡量衰老及其免疫指标</strong></span>
-<div class="chapter-summary">对话强调了衡量衰老需要从多个维度进行，包括认知功能、行为能力、能量代谢和免疫系统健康等。讨论中提到，临床上常用的度量方式往往集中在特定功能上，如免疫系统，而逆转衰老10到20年的说法在现有研究中尚缺乏实证。特别提到了C反应蛋白等免疫指标，以及通过更详细的淋巴细胞亚群分析来更准确地反映个体的衰老状态。这些方法旨在超越传统的正常与异常的简单区分，提供更细微、实时的衰老指标。</div>
-</div>
-<div class="chapter-item">
-<span class="time"><strong>[00:36:24]</strong> </span>
-<span class="chapter-title"><strong>衰老研究：表观遗传与蛋白稳态在生物年龄衡量中的作用</strong></span>
-<div class="chapter-summary">对话围绕衰老研究中的两大关键因素——表观遗传改变和蛋白稳态改变展开，探讨了这两类改变如何共同构成衡量衰老的标尺，即所谓的“衰老时钟”或“生物年龄”技术。通过高精度的检测和大规模数据收集，研究者试图建立一个能够准确反映不同年龄段人群健康状态和生物年龄的图谱。此外，讨论还涉及了人群样本选择的重要性以及如何通过长期跟踪和随访，尤其是像英国生物银行（UK Biobank）这样的项目，来更准确地反映全人类的衰老指标。</div>
-</div>
-<div class="chapter-item">
-<span class="time"><strong>[00:41:44]</strong> </span>
-<span class="chapter-title"><strong>高维度数据在生物年龄评估中的应用及挑战</strong></span>
-<div class="chapter-summary">对话讨论了高维度数据在反映低维度数据规律中的优势，特别是在评估个体和器官的生物年龄以及预测未来健康风险方面的应用。提到了使用稳定可靠的技术，如基因序列、基因修饰（如甲基化）和蛋白质指标，来精确刻画每个器官的生物年龄。此外，讨论了器官年龄评估的复杂性，包括不同器官衰老的相对独立性和如何建立不同器官的基线和标准。最后，指出器官层面的测量如何与临床医学体系更好地接轨，以及高维度数据在疾病早期检测和预知风险方面的潜力，如在癌症早期诊断中的应用。</div>
-</div>
-<div class="chapter-item">
-<span class="time"><strong>[00:46:02]</strong> </span>
-<span class="chapter-title"><strong>AI在生物标志物研究中的应用与挑战</strong></span>
-<div class="chapter-summary">对话围绕人工智能在生物标志物研究，特别是癌症早期筛查和衰老时钟建立中的应用进行探讨。讨论指出，AI技术虽然能处理大规模数据并从中发现规律，但其“黑盒”特性使得分析过程难以解释，这在生物学研究中是一个重大挑战。此外，还提到了在利用AI建立衰老时钟时面临的实际问题，如如何精确预测人的生物年龄以及如何区分健康与亚健康状态。最后，讨论强调了全球科研界在这一领域的进展与挑战，以及努力寻找能够去除干扰因素、建立更准确生物标志物体系的策略。</div>
-</div>
-<div class="chapter-item">
-<span class="time"><strong>[00:53:29]</strong> </span>
-<span class="chapter-title"><strong>全球寿命逆转比赛的检测标准与评估机制</strong></span>
-<div class="chapter-summary">全球性的比赛旨在通过有效的手段逆转50到80岁相对健康人群的寿命10到20年，比赛重点在于推出一系列共同使用的检测标准。参赛团队可以选择现有的方法和体系作为衡量标准，这导致了可能存在的多种标尺。组委会面临的挑战在于如何公正地评估这些多样化的标准，确保比赛结果的公允性。评价过程需要考虑到临床指标的变化以及标尺的可靠性，同时也需要同行评议和公开的方法体系来进行综合评估。</div>
-</div>
-<div class="chapter-item">
-<span class="time"><strong>[00:55:49]</strong> </span>
-<span class="chapter-title"><strong>衰老干预研究及临床试验进展</strong></span>
-<div class="chapter-summary">对话深入探讨了衰老干预研究的现状和挑战，特别是聚焦于如何通过临床试验验证这些干预措施的有效性。讨论指出，尽管对衰老机制的理解尚有限，但研究者们正在尝试通过至少一年的临床实验在人体上测试各种干预措施的效果。当前的临床研究多以观察性为主，如哈佛大学的一项研究旨在建立衰老标尺与临床指标之间的关系。在干预性研究方面，选择的药物通常为已知安全的老药新用，如二甲双胍用于寿命延长的实验，但由于跟踪时间长且缺乏商业动力，进展缓慢。此外，对话还讨论了比赛赛制设计的合理性，强调了一年时间窗口对于干预措施的限制，以及在现有监管框架下进行抗衰老疗法临床试验的挑战。</div>
-</div>
-<div class="chapter-item">
-<span class="time"><strong>[01:02:03]</strong> </span>
-<span class="chapter-title"><strong>基因疗法与抗衰老研究的伦理与进展</strong></span>
-<div class="chapter-summary">对话围绕基因疗法，尤其是细胞重编程技术在抗衰老领域的应用展开，讨论了科技伦理、头部公司如auto slap的科研进展与临床试验设计的挑战。提及了auto slap在细胞重编程方向上的研究，以及其在融资、科学团队构成上的优势，但同时也指出了由于信息披露和内部监管要求，其科研成果与进展对外公开信息有限，从而增加了外界对其研究的神秘感。</div>
-</div>
-<div class="chapter-item">
-<span class="time"><strong>[01:05:17]</strong> </span>
-<span class="chapter-title"><strong>细胞重编程及其临床应用探讨</strong></span>
-<div class="chapter-summary">细胞重编程是指在不改变基因的基础上，通过特定工具或信号刺激，改变细胞命运的过程。这一过程类似于个体发育中细胞如何从受精卵分化为完全个体的调控机制。目前，细胞重编程的基础研究集中在诺贝尔奖获得者及世界级科学家的团队中，临床应用则采取较为激进的推进方式，可能通过创新性或突破性疗法的形式进行。细胞重编程疗法的标准化面临挑战，因此预计其应用将更倾向于个性化或突破性疗法，而非大规模生产的标准化产品。</div>
-</div>
-<div class="chapter-item">
-<span class="time"><strong>[01:08:06]</strong> </span>
-<span class="chapter-title"><strong>抗衰老研究与临床试验的多元化探索</strong></span>
-<div class="chapter-summary">对话围绕抗衰老研究中的临床试验设计、创新疗法及其评估展开。讨论强调了各研究团队在技术、临床研究和综合健康管理方面的专长，并指出目前评估体系尚不成熟，需要进一步探索。尽管方法各异，从硬核科技到综合治疗，目标都是提高健康质量并延长有质量的寿命，呈现出“殊途同归”的趋势。同时，通过比赛等形式促进了各领域的创新和百花齐放的探索，有望在未来形成更为清晰和全面的抗衰老研究地图。</div>
-</div>
-<div class="chapter-item">
-<span class="time"><strong>[01:13:37]</strong> </span>
-<span class="chapter-title"><strong>探讨抗衰老的有效方法及个性化干预</strong></span>
-<div class="chapter-summary">对话聚焦于抗衰老的有效方法，包括心理社会层面的影响、生活方式的调整以及营养补充剂的使用。讨论指出，心情好、冥想和身心健康锻炼等方式有助于降低慢性炎症，促进长寿健康。同时，适量的走出舒适区，如适当冷热暴露和断食也有助于降低慢性炎症。此外，个性化干预，根据每个人的具体健康状况提供针对性的解决方案，被认为是一个未来的大趋势。营养补充剂的选择需因人而异，尽管有些成分可能对大多数人有益，但安全和有效性的前提下，更建议进行个性化的调整和适配。</div>
-</div>
-</div><br>
-<h1>问题回顾</h1>
-<div class="qa-item">
-<div class="question"><strong>Q:</strong> 这期节目我们主要会聊什么话题？</div>
-<div class="answer"><strong>A:</strong> 这期节目我们将继续深入探讨抗衰这个话题，具体来说，会介绍一个目前全球最具雄心的抗衰比赛——express health span康寿命挑战赛，该比赛奖金高达1.01亿美金，并将为大家搭建一个系统科学的抗衰理解框架，从生物学机制、衰老时钟到临床试验的实际应用进展等方面进行讲解。</div>
-</div>
-<div class="qa-item">
-<div class="question"><strong>Q:</strong> 能否请嘉宾简述一下这个比赛的情况？</div>
-<div class="answer"><strong>A:</strong> 这个比赛由沙特王室和一些富豪支持，旨在评价各种抗衰疗法的效果，目标是证明参赛团队的疗法能在一年内逆转相对健康的50到80岁人群10到20年的寿命，主要从肌肉、认知和免疫功能角度衡量。比赛从2023年底开始，历时七年，已有来自全球58个国家的600多个团队参与。</div>
-</div>
-<div class="qa-item">
-<div class="question"><strong>Q:</strong> 周广宇博士所在的公司瑞健生物为何参与这个比赛？</div>
-<div class="answer"><strong>A:</strong> 瑞健生物参与这个比赛是因为比赛对于整个长寿行业具有重要意义，能够推动不同领域团队在同一赛道上进行PK。同时，瑞健生物自身从事的人工智能和长寿科技研发项目与比赛主题高度契合，因此决定参与比赛。</div>
-</div>
-<div class="qa-item">
-<div class="question"><strong>Q:</strong> 参赛团队需要提交哪些材料？</div>
-<div class="answer"><strong>A:</strong> 参赛团队需要提交一份完整的科研计划类材料，包括研究背景、团队人员资质、过往成绩和结果等，其结构类似于科研项目申请，但更关注干预衰老过程的有效性证明。</div>
-</div>
-<div class="qa-item">
-<div class="question"><strong>Q:</strong> 比赛的组织者和专家评审团有哪些背景？</div>
-<div class="answer"><strong>A:</strong> express health span康寿命挑战赛的组织者和专家评审团由教育、科技、投资界有建树的人士组成，其中不乏知名人士如西点大学校长以及Google创始人Larry Page等担任非执行董事，科学家团队则以外部顾问的形式服务。</div>
-</div>
-<div class="qa-item">
-<div class="question"><strong>Q:</strong> 这些参赛公司有何特点？</div>
-<div class="answer"><strong>A:</strong> 参赛公司多样且多元，既有专注于生物科技前沿技术如基因疗法、细胞疗法的公司，也有侧重于生活方式干预、运动和营养调整的公司。虽然名称各异，但多样性是其共同特点。</div>
-</div>
-<div class="qa-item">
-<div class="question"><strong>Q:</strong> 这些参赛公司中有没有一些代表性公司及其抗衰方法？</div>
-<div class="answer"><strong>A:</strong> 获奖的前40个团队中，有的公司以特定主题或目标命名，而非以公司名称参赛。朗健生物是一家以间充质干细胞疗法为切入点的公司，其估值波动反映了投资者对其新药管线在临床实验中的预期。</div>
-</div>
-<div class="qa-item">
-<div class="question"><strong>Q:</strong> 那么，用具有分化潜能的干细胞去抗衰，这个逻辑是什么呢？</div>
-<div class="answer"><strong>A:</strong> 这个逻辑基于细胞学实验和小鼠实验中得到的好数据和证据。这类干细胞能通过归巢效应自行到达需要的地方进行分化和增殖，比如在大量失血需要造血时会进入骨髓等部位形成新鲜血液细胞。此外，间充质干细胞还能通过重塑细胞微环境，激活和刺激周围的细胞群保持活力。</div>
-</div>
-<div class="qa-item">
-<div class="question"><strong>Q:</strong> 把间充质干细胞输入人体内，是否可以刺激细胞微环境，释放一些因子并清除衰老细胞，从而让身体变得更年轻？</div>
-<div class="answer"><strong>A:</strong> 是的，输入间充质干细胞后，它可以改变细胞微环境，可能释放某些因子，帮助更快清除衰老细胞。具体机制涉及自体与异体干细胞的区别，自体干细胞更容易被免疫系统接受并发挥弹性回巢效应，而异体干细胞则更多地对微环境重塑并释放细胞因子，甚至有轻微激活和刺激免疫系统的作用。</div>
-</div>
-<div class="qa-item">
-<div class="question"><strong>Q:</strong> 现在是否是一个比较好的时机，请广宇博士来介绍一下抗衰背后的机制，包括干细胞疗法、基因疗法和重编程等技术？在研究中，如何应用这些衰老相关的机制来进行抗衰研究？</div>
-<div class="answer"><strong>A:</strong> 当前学科是一个新兴领域，对衰老机制的研究已有近百年历史，但将其与生物医学和临床应用结合大约是过去10到20年内发展起来的。衰老的标志可以分为基因组不稳定性、细胞端粒磨损、遗传改变、蛋白质稳态丧失、细胞自噬失能（第一类标志）；功能丧失和失调（拮抗标志）；以及干细胞耗竭、细胞间通讯改变、慢性炎症和菌群失调（整合标志）三类。在生物学研究中，通常将复杂的生命过程抽象为通路图，通过调控上游开关和调控元件来影响下游结果，包括衡量抗衰有效性的各项指标，如寿命延长、高质量寿命延长以及全因发病率降低等。在临床实验设计中，可通过设定观察窗口来验证干预衰老的效果。</div>
-</div>
-<div class="qa-item">
-<div class="question"><strong>Q:</strong> 是否可以假设如果将14大衰老标志或相关机制运行正常，人就不会死亡？</div>
-<div class="answer"><strong>A:</strong> 当前行业认知存在两种观点，一部分人认为人类寿命极限可能被突破至200岁甚至更久，另一部分人则倾向于通过改善衰老标志，在保持年轻状态的身体中实现更长久的生命。不过，所有长寿科技和衰老科学的研究目标短期内更集中在延长人类健康寿命，而非单纯追求寿命极限的突破。</div>
-</div>
-<div class="qa-item">
-<div class="question"><strong>Q:</strong> 抗衰老大赛中，大家通过比赛尝试逆转10到20年的寿命，实际上是在做些什么？</div>
-<div class="answer"><strong>A:</strong> 这个问题旨在理解抗衰老研究的意义。14个不同的抗衰老标志物是用来观测人体内部过程的重要抓手，通过测量细胞间通讯等因子是否正常，以判断并影响可能加速衰老的机制。通过干预这些标志，就像是修复身体“漏水的水龙头”，从而实现更健康的寿命。</div>
-</div>
-<div class="qa-item">
-<div class="question"><strong>Q:</strong> 大家通过不同的抗衰机制组合来逆转衰老过程，这种理解是否合理？</div>
-<div class="answer"><strong>A:</strong> 这个理解是正确的。许多研究和创新型疗法都基于特定的目标靶标，并考虑到衰老是一个全面的过程。例如，在进行干细胞耗竭干预的同时，也会调整表观遗传修饰和蛋白稳态，通过一个或多个标志作为目标，实现对衰老过程的多维度影响。</div>
-</div>
-<div class="qa-item">
-<div class="question"><strong>Q:</strong> 衡量衰老时，为何需要考虑多个维度，以及如何将免疫指标与逆转寿命10到20年的尺度对应起来？</div>
-<div class="answer"><strong>A:</strong> 衡量衰老涉及认知功能、行为能力、能量代谢效率、免疫系统功能等多个方面。尽管在免疫领域已有诸如C反应蛋白等指标用于检测，但将这些指标与寿命延长的具体关系还需要进一步研究。目前，抗衰老治疗的研究随访时间相对较短，尚未见到显著延长寿命的研究成果。</div>
-</div>
-<div class="qa-item">
-<div class="question"><strong>Q:</strong> 生物年龄的测量是否需要涵盖广泛的生理和分子层面变化？</div>
-<div class="answer"><strong>A:</strong> 是的，生物年龄的测量需要反映真实状态，通过表观遗传和蛋白稳态等微观层面的变化来建立一个新的衡量标准——生物年龄或衰老时钟。这样可以更准确地反映个体从年轻到老年的健康状态和生物年龄变化，并希望通过长期跟踪观察，实现有效抗衰老效果的量化评估。</div>
-</div>
-<div class="qa-item">
-<div class="question"><strong>Q:</strong> 是否人群样本的数量会影响衰老指标的准确性？对于个体差异较大的情况下，如何确保测量结果能准确反映年龄？</div>
-<div class="answer"><strong>A:</strong> 人群样本数量确实会影响结果的统计效应和准确性。虽然理想情况下，涵盖全球所有人群进行测试是最佳选择，但由于资源限制，研究通常会选择具有代表性的特定人群进行长期跟踪随访。在处理混乱的数据时，高维度的数据能够更好地揭示低维度数据的规律，从而逼近真相，对于不同个体的衰老状况进行更精细的刻画。</div>
-</div>
-<div class="qa-item">
-<div class="question"><strong>Q:</strong> 在器官衰老的研究中，是否存在公认的不同器官间的衰老程度差异？</div>
-<div class="answer"><strong>A:</strong> 目前的研究倾向于每个器官的衰老过程具有较大差别，即相对独立。虽然存在一个大的背景，但特定器官可能比其他器官衰老得更快，但具体到多少岁的问题尚无定论。</div>
-</div>
-<div class="qa-item">
-<div class="question"><strong>Q:</strong> 如何建立基于器官年龄的健康评估标准？</div>
-<div class="answer"><strong>A:</strong> 我们需要为不同年龄段的各个器官（如心脏、肝脏等）设定基线和标准，并通过复杂的维度和难度来定义，这将与现有的临床医学体系更好地接轨，便于利用已有的科室专业知识进行评估。</div>
-</div>
-<div class="qa-item">
-<div class="question"><strong>Q:</strong> 器官衰老的测量主要依赖于哪些指标？</div>
-<div class="answer"><strong>A:</strong> 在器官层面，最终会通过血液中的蛋白指标、基因层面的序列及修饰（例如甲基化等表观遗传学指标）来反映器官的衰老程度。</div>
-</div>
-<div class="qa-item">
-<div class="question"><strong>Q:</strong> AI在分析器官衰老数据中扮演什么角色？</div>
-<div class="answer"><strong>A:</strong> AI在处理百万到千万级别的复杂数据时，目前的做法是多条腿走路，既使用经典的机器学习方法寻找数据规律，也尝试寻找更多可解释性，让AI理解和运用已知的生物学通路进行推断。同时也有完全交给算法进行无监督学习的方式，但最终仍需对其结果进行合理解释和发现新的规律。</div>
-</div>
-<div class="qa-item">
-<div class="question"><strong>Q:</strong> 衰老时钟建立的挑战主要来源于哪里？</div>
-<div class="answer"><strong>A:</strong> 主要挑战在于尽可能去除干扰因素以准确评估年龄，并平衡去除背景噪音和反映健康水平之间的关系。此外，不同样本间的健康差异也带来较大干扰，需要建立去除亚健康影响的标尺并作为健康年龄的新体系参考。</div>
-</div>
-<div class="qa-item">
-<div class="question"><strong>Q:</strong> 当前衰老时钟的研究进展如何？</div>
-<div class="answer"><strong>A:</strong> 目前全球研究者正通过每年召开的国际会议讨论衰老生物标志物的研究进展。尽管已有算法竞赛的优秀结果，但目前预测真实年龄的误差仍约为3.5岁左右，这是一个需要持续改进和进步的目标。</div>
-</div>
-<div class="qa-item">
-<div class="question"><strong>Q:</strong> 全球比赛选取的检测标准是由谁决定的？</div>
-<div class="answer"><strong>A:</strong> 比赛允许每个参赛团队自带检测标准，这些标准可以是现有公认的方法或团队自有的标准体系，比赛旨在衡量各团队标准在逆转相对健康人群寿命方面的效果。</div>
-</div>
-<div class="qa-item">
-<div class="question"><strong>Q:</strong> 如何确保组委会衡量参赛团队标尺的公正性？</div>
-<div class="answer"><strong>A:</strong> 组委会将参考临床指标、同行评议以及公开发表的方法和体系来评估标尺的可靠性。同时，实验设计和数据质量也至关重要，不能局限于封闭体系内自评，需要有足够多常规临床指标反映健康状况。</div>
-</div>
-<div class="qa-item">
-<div class="question"><strong>Q:</strong> 人体实验在衰老干预措施上的进展如何？</div>
-<div class="answer"><strong>A:</strong> 目前研究仍以观察性研究为主，但在具体适应症上，如移植抗宿主病、肺纤维化和糖尿病等领域，已有基于衰老相关观察的干预实验，但仍需更多临床实验验证其效果。</div>
-</div>
-<div class="qa-item">
-<div class="question"><strong>Q:</strong> 在进行以衰老为标准的临床实验时，为什么选择二甲双胍作为研究药物？</div>
-<div class="answer"><strong>A:</strong> 选择二甲双胍是因为它是一个成熟且广泛应用的糖尿病治疗药物，大部分专利已经过期，仿制药普遍，这样可以观察其对寿命延长的影响。但在现有临床评价体系中，此类以衰老为终点指标的研究较为罕见。</div>
-</div>
-<div class="qa-item">
-<div class="question"><strong>Q:</strong> 这个衰老指标具体是如何定义的？</div>
-<div class="answer"><strong>A:</strong> 衰老指标主要是看研究对象能活到多少岁，并且需要长时间的跟踪随访直至生命终点，通常会选择相对高龄组入组进行研究。</div>
-</div>
-<div class="qa-item">
-<div class="question"><strong>Q:</strong> 在现有的衰老临床实验中，药物干预是否多以安全性为主？</div>
-<div class="answer"><strong>A:</strong> 是的，目前围绕衰老的临床实验中，干预性研究往往侧重于药物的安全性探索，需要充分论证后才能进行有效性探索。新药研发可能会选择一些已知的老药进行新用途研究。</div>
-</div>
-<div class="qa-item">
-<div class="question"><strong>Q:</strong> 针对比赛要求一年内完成人体临床验证，这种赛制设计是否合理？</div>
-<div class="answer"><strong>A:</strong> 目前看来，一年的时间窗口是目前能够接受的最大妥协，虽然理论上如果能有更长的时间会更好，但可能变得冗长且缺乏关注度。对于轻量级干预如饮食运动，到重度疗法如基因疗法、细胞治疗等，干预时间都需要控制在这个窗口内。</div>
-</div>
-<div class="qa-item">
-<div class="question"><strong>Q:</strong> 基因疗法、细胞治疗这类重磅疗法是否会在临床实验中直接应用？</div>
-<div class="answer"><strong>A:</strong> 如果参赛，这些疗法确实需要按照现行监管体系进行，比如以干细胞移植为例，可将其作为次要观察指标，如免疫力提升或综合免疫抗衰，将其纳入研究范畴。</div>
-</div>
-<div class="qa-item">
-<div class="question"><strong>Q:</strong> 是否有可能直接针对抗衰老开发创新药物或疗法参赛？</div>
-<div class="answer"><strong>A:</strong> 在当前大部分监管体系下，直接针对抗衰老开发创新药物或疗法不太可能获批参赛，但一些新兴或重新建立的临床体系可能会更开放地接纳此类研究。</div>
-</div>
-<div class="qa-item">
-<div class="question"><strong>Q:</strong> 像AutoSage这样的头部公司如何进行抗衰老实验？</div>
-<div class="answer"><strong>A:</strong> AutoSage等公司虽有较大影响力，但由于其临床报批进度和研究方向难以与当前赛制完全匹配，故未能参加该比赛。他们的研究方向主要是细胞重编程，基于干细胞基础研究原理改造细胞过程，以实现逆转衰老过程。</div>
-</div>
-<div class="qa-item">
-<div class="question"><strong>Q:</strong> 细胞重编程疗法能否做成普世的产品？</div>
-<div class="answer"><strong>A:</strong> 细胞重编程疗法目前标准化存在挑战，更可能像个性化或突破性疗法，难以大规模应用为普世产品，需要在严格监控环境下进行。</div>
-</div>
-<div class="qa-item">
-<div class="question"><strong>Q:</strong> 对于一年内各种抗衰老实验的设计，您怎么看？</div>
-<div class="answer"><strong>A:</strong> 各个团队各有专长，有的侧重硬核科技，有的侧重临床研究或综合健康管理。不同的实验方式可以有不同的终点指标，只要在伦理批准和试验设计合理的基础上，都能衡量其疗效。</div>
-</div>
-<div class="qa-item">
-<div class="question"><strong>Q:</strong> 对于一年内逆转寿命10到20年的目标，您觉得如何实现？</div>
-<div class="answer"><strong>A:</strong> 实现这一目标需要通过公认的一些指标进行衡量，即使采用非硬性终点如认知改变、肌肉力量等，只要与对照组比较有显著差异，或者自身前后改变明显，都可以作为评估疗效的依据。</div>
-</div>
-<div class="qa-item">
-<div class="question"><strong>Q:</strong> 衰老时钟的定义及抗衰老产业现状如何？</div>
-<div class="answer"><strong>A:</strong> 定义衰老时钟是一个复杂的问题，业界存在多种技术路线和人群目标的探索。尽管百花齐放，但最终目标都是希望通过各种方式提高健康质量，延长有质量的寿命。</div>
-</div>
-<div class="qa-item">
-<div class="question"><strong>Q:</strong> 普通人如何开始尝试抗衰老？</div>
-<div class="answer"><strong>A:</strong> 最简单的可能是保持良好心情和心态，减少慢性炎症程度，如通过冥想、心理健康锻炼等方式。此外，适当走出舒适区，如冷暴露、热暴露及断食等方式也有助于降低慢性炎症。</div>
-</div>
-<div class="qa-item">
-<div class="question"><strong>Q:</strong> 关于营养补充剂，有什么推荐吗？</div>
-<div class="answer"><strong>A:</strong> 营养补充剂的选择应因人而异，因为每个成分对人体的作用可能不同。虽然大部分天然产物提取物相对安全，但仍需根据个人需求和健康状况做针对性选择，不可一概而论。</div>
-</div>
-<h1>节目文稿</h1>
-<p class="transcript-line">
-<span class="time"><strong>[00:00:04]</strong> </span>
-<span class="speaker"><strong>发言人1: </strong></span>
-欢迎收听硅谷101，我是雨珊。这期节目我们继续来聊聊抗衰这个话题。还记得我们在第143期节目中曾讲到一群生物极客如何在洪都拉斯的私人岛屿上尝试各种前沿黑科技来追求长寿与永生。当时节目播出后，引发了评论区非常热烈的讨论，也有不少听众留言，希望我们能邀请更有专业背景的嘉宾带来更系统的科普。于是这期我们请来了两位在科研产业和临床实践方面都非常有经验的嘉宾。一方面我们会带大家了解一个当前正在进行中的全球最具雄心的抗衰比赛。这是一场以逆转人类十年生理年龄为目标的大赛，奖金高达1.01亿美金，吸引了来自全球的团队参与，既大胆又有科学设计。另一方面，我们也希望借这个机会为大家搭建一个更系统科学的抗衰理解框架，从支撑各种抗衰研究背后的关键生物学机制，到衰老时钟这样衡量健康年龄的工具设计，再到各类疗法在人体临床试验中的实际应用进展，帮助大家厘清这条从基础研究走向应用的路径。希望这期节目能让你在面对五花八门的抗衰信息时，拥有一套更有判断力的科学视角。
-</p>
-<p class="transcript-line">
-<span class="time"><strong>[00:01:28]</strong> </span>
-<span class="speaker"><strong>发言人1: </strong></span>
-需要提前说明的是，这期节目会涉及一定的专业术语和背景知识，我们也在shown note中准备了详细的名词解释，欢迎大家结合shoe notes一起收听，辅助理解。今天和我一起录制这期节目的有两位嘉宾，周广宇博士和任辉博士，我们先请他们分别跟大家打个招呼。
-</p>
-<p class="transcript-line">
-<span class="time"><strong>[00:01:49]</strong> </span>
-<span class="speaker"><strong>发言人2: </strong></span>
-Hello, 大家好，我是周广宇，目前担任regeneration bio的联合创始人和首席技术官。我们是一家从事人工智能和长寿科技相关的科技企业。同时在做一些我们对于衰老评估的一些基础技术和衰老干预方向的一些产业转化和技术的探索。
-</p>
-<p class="transcript-line">
-<span class="time"><strong>[00:02:09]</strong> </span>
-<span class="speaker"><strong>发言人3: </strong></span>
-大家好，我叫任辉。我之前是一个心内科医生背景，目前前在麻省总医院做临床流行病学研究，以及人工智能在医疗领域的应用的一些临床转化研究。之前在美国进修期间，获得了在哈佛公共卫生学院的一些公共卫生的背景。
-</p>
-<p class="transcript-line">
-<span class="time"><strong>[00:02:27]</strong> </span>
-<span class="speaker"><strong>发言人1: </strong></span>
-我们今天这个话题，抗衰和长寿科技是一个非常前沿，也是非常大的一个话题。从严肃研究的角度，大家都说抗衰的研究难就难在衰老不是一个被很好定义的临床终点，而且做临床试验的时间非常久，可能要跟踪人一辈子才能验证抗衰的效果。我近来发现一个正在进行中的很有趣的全球赛事，从一个有点取巧的角度来评价各种抗衰疗法的效果。这个比赛叫express health span康寿命挑战赛，奖金高达1亿美金，据说是由沙特王室和各种富豪支持的，也是历史上奖金最高的抗衰老科研赛事了。我看到有人说这个是抗衰领域的登月计划，这个比赛的决胜目标是参赛团队要证明他们的疗法可以逆转相对健康的50到80岁的人。10到20年的寿命主要是从肌肉认知以及免疫功能的角度去衡量。这个10到20年的寿命治疗时间必须在一年以内。它有一个非常有趣的赛制，一共是七年的时间。
-</p>
-<p class="transcript-line">
-<span class="time"><strong>[00:03:34]</strong> </span>
-<span class="speaker"><strong>发言人1: </strong></span>
-从2023年底开始，一直到2030年，注册比赛的有来自全球58个国家，超过600个团队。今年也就是2025年5月份的时候，基于递交的方案选出了半决赛的前40名种子选手，每个团队获得25万美金的奖金支持。接下来要做概念性验证POC的临床研究。基于这个结果，到2026年会选出前十名决赛种子选手，每个团队奖励100万美金。从2026到2029年，每个团队都要进入为期一年的人体临床试验，到2030年选出冠军，拿走剩下的接近1亿美金的奖金。
-</p>
-<p class="transcript-line">
-<span class="time"><strong>[00:04:16]</strong> </span>
-<span class="speaker"><strong>发言人1: </strong></span>
-这个里面有非常多有趣的点，我想要跟两位嘉宾讨论。当然我们也希望借着这个话题给大家讲一讲长寿科技抗衰都有哪些研究方向，从业者如何看待不同的尝试。首先我知道周光宇博士所在的公司瑞健生物regenerated bio也参加了这个比赛。你能不能先给我们讲讲你参加这个比赛的感受，你们为什么会参与到这个赛事中？
-</p>
-<p class="transcript-line">
-<span class="time"><strong>[00:04:40]</strong> </span>
-<span class="speaker"><strong>发言人2: </strong></span>
-我们参与这个比赛对于整个比赛的影响力，包括蒋介石还是非常感兴趣的，我们也非常坦诚。这样一个比赛其实对于整个长寿行业来说是一次非常好的。能够让大家在不同的方向和不同的领域有一点强行拉到同一个赛道去进行一些所谓的PK。但是我们对于比赛的，不管是专家的评审团，还是说主办方express，其实他在科技领域的公信力能够在目前整个赛道还是非常的新兴，可以说是蓝海的这个状态。这样一个大的背景下去主办这场比赛的一个决心，包括其实是需要很多勇气的，我们本身是非常钦佩的。正好这个主题和我们公司在进行的研发和在开展的相关的项目都是相关的。所以我们觉得本身也是一个非常好的契合。所以我们是作为了最终全球一百余支参赛的队伍里面去参加。但是比较遗憾，第一阶段其实我们没有真正的入围前40名，就是在长跑中的第一圈，暂时是处于一个落后的称谓的。
-</p>
-<p class="transcript-line">
-<span class="time"><strong>[00:05:48]</strong> </span>
-<span class="speaker"><strong>发言人1: </strong></span>
-当然后面还有一年的时间，到决赛他还有100万美金的奖金。我看他是从2023年底开始注册，到现在宣布前40的位置，这个过程中大概发生一些什么事情？你们的团队在这个过程中是一个带来什么样的体验和感受呢？
-</p>
-<p class="transcript-line">
-<span class="time"><strong>[00:06:04]</strong> </span>
-<span class="speaker"><strong>发言人2: </strong></span>
-对，报名参赛其实需要提交的材料还是挺完整的，不亚于一个大的科研计划。提交的方案就是他需要你交在所有的研究背景，参与团队人员的能力和资质，以及说你目前所取得的成绩和结果。它的整个设置上是比较像一个在美国，包括咱们中国各个科研机构，像这个NH咱们国家的国自然科技部等等这样的一些科研的项目的申请的类似的结构。但是不同的点也在于，他可能会更关注最终的结果和你怎样证明我们的整个intervention的过程，就是干预衰老的这个过程是真正有效的。所以他从比赛的设置和希望你去提交的内容方案里，是希望围绕着如何有效的抗衰这件事情去进行的理解。
-</p>
-<p class="transcript-line">
-<span class="time"><strong>[00:06:56]</strong> </span>
-<span class="speaker"><strong>发言人1: </strong></span>
-你刚刚提到说这个比赛你们当时去参与，也是看到他的专家评审团，包括组织者的这一些公信力。这个比赛组织者和专家评审团，他们大概是一些什么样的背景，以及一些什么样的人在参与。
-</p>
-<p class="transcript-line">
-<span class="time"><strong>[00:07:12]</strong> </span>
-<span class="speaker"><strong>发言人2: </strong></span>
-X press其实它的整个组成也是非常的丰富。它有一个执行董事的群体，都是在各个领域内，从教育科技和投资界非常有建树和积累的一些人士。然后这里面可能大家更熟知的，比如说像西点大学的校长，这是可能比较重要的。
-</p>
-<p class="transcript-line">
-<span class="time"><strong>[00:07:34]</strong> </span>
-<span class="speaker"><strong>发言人2: </strong></span>
-Express的发起人在非执行董事里面，其实名人就更多了。他们可能更多的是以对于协会的出资，或者是对于他整体的战略和方向的制定。这里面可能大家认识的google的创始人Larry page，包括我们非常喜爱的大导演詹姆斯卡梅隆，也是其中一位非执行董事。所以管理团队其实还是非常强大的。然后他的科学家团队其实是一个外部顾问的形式，所以这里面就没有太多披露。但是我们熟知的一些衰老方向的大的科学家，包括产业内的一些比较活跃的企业人士，可能都是作为他的科学顾问或者说产业顾问去服务于express。
-</p>
-<p class="transcript-line">
-<span class="time"><strong>[00:08:14]</strong> </span>
-<span class="speaker"><strong>发言人1: </strong></span>
-像这些科学家团队，这都可以理解。就像刚刚提到的google的Larry page，它是不是比如说从一个富豪的角度，它有抗衰的需求。像这个导演为什么他们会参与，他们在里边是一个什么样的作用呢？
-</p>
-<p class="transcript-line">
-<span class="time"><strong>[00:08:26]</strong> </span>
-<span class="speaker"><strong>发言人2: </strong></span>
-我的理解其实往往在整个NGO的架构里面，这些董事会的成员是更干活的。然后这个非执行董事可能他一年我估计2到3次一些战略性的决策，可能他们会共同去参与。通常这些都是带资进组的，他肯定要对整个express要么是提供了他们直接的金钱或者是等交物的支持，要么是可能他他往这个组织里面去带来更多的一些资源。那大导演我不好推测，但是这几方面可能都有包括他在影视圈明星们的这个影响，对吧？都是他能够给这个组织提供的东西。
-</p>
-<p class="transcript-line">
-<span class="time"><strong>[00:09:02]</strong> </span>
-<span class="speaker"><strong>发言人1: </strong></span>
-OK你刚刚还提到一个我觉得有意思的点，你说就是把大家强行拉到同一个赛道，其实这些参赛公司它本来可能不是搞抗衰或者是长寿科技的，但是它以这个终点把大家给聚拢。怎么理解这个问题？
-</p>
-<p class="transcript-line">
-<span class="time"><strong>[00:09:17]</strong> </span>
-<span class="speaker"><strong>发言人2: </strong></span>
-因为本身对于衰老的干预，其实是一个非常包罗万象的方向。但是它里面可以包括到一些非常前沿科技的，像基因疗法，像靶向细胞，甚至细胞内的某一个元件。比如说线粒体的分子。也有一些我们可能在新闻或者媒体上看到的，类似于叫重编程，或者是一些新的生物科技的技术。然后另一方面，它也可以有一些是非常的不能说传统。但是日常可见或者说已经在临床实践上会使用很多的像生活方式的干预。包括饮食的调整，运动，综合的一些健康管理，营养的膳食补充剂，或者是相对没有那么的硬核的一些手段。这里面要去评估他们的是否有效逆转衰老这件事情是一个非常系统性和前的难题。
-</p>
-<p class="transcript-line">
-<span class="time"><strong>[00:10:15]</strong> </span>
-<span class="speaker"><strong>发言人1: </strong></span>
-我想先大概了解一下这些公司它本身是抗衰这个领域比较头部的公司了，还是他们大概是一些什么样的位置。因为我看到新闻里面还有说有想用GLP one的疗法去看抗衰作用的，所以我感觉确实还是挺杂糅的一些公司。是不是也可以请光影博士给我们简单介绍一下，现在还在赛制中的这个一百多家公司，有没有一些大概的分类，或者你会怎么去看这一些公司他们的方向。
-</p>
-<p class="transcript-line">
-<span class="time"><strong>[00:10:43]</strong> </span>
-<span class="speaker"><strong>发言人2: </strong></span>
-强行的二分法的话，就是偏生物科技的公司和相对偏生活方式干预和运动和营养方向。但是以科技的方向来说，其实它的占比和方案的类型又会更多一些。所以它更多的会包括了比如说基于基因治疗或者是基因疗法这一类。有一些是可能基于以干细胞或者是干细胞的衍生物，我们可以统称为细胞或者类细胞疗法的。再有一些更像传统制药的这些小分子或者是多肽来进行干预的。只剩下一些科技元素运用了对于衰老生物学的一些新的理解。
-</p>
-<p class="transcript-line">
-<span class="time"><strong>[00:11:22]</strong> </span>
-<span class="speaker"><strong>发言人2: </strong></span>
-代表性的公司的话，其实最终我们看到获奖的团队很多他的名字并没有那么熟悉，这些公司可能本身它是要求一个team name，就是它其实并不要求你用公司或者是实名的方式。所以很多可能取了一些他们自己希望去达成的目标，或者是以他们的整个主题去参赛。比如GLP one的相关的一些干预疗法，可能它就叫GLP one large ity。公开的信息里面已经适当的隐去了，它具体是咱们所熟知的这些大药厂，还是说它是一个新兴的八肽，或者是一个。但是我们也最终的复盘来看，这前40个获奖的这个方案里面，它其实是囊括了很多不同的类别。但是在相同解决方案和策略里面，可能他选择的就是一家，最多两家。他更看重的是多样性。
-</p>
-<p class="transcript-line">
-<span class="time"><strong>[00:12:17]</strong> </span>
-<span class="speaker"><strong>发言人1: </strong></span>
-如果他相同类别是1到2家的话，那40家公司就意味着可能有二三十个不同的方向，是吗？
-</p>
-<p class="transcript-line">
-<span class="time"><strong>[00:12:24]</strong> </span>
-<span class="speaker"><strong>发言人2: </strong></span>
-是的。
-</p>
-<p class="transcript-line">
-<span class="time"><strong>[00:12:25]</strong> </span>
-<span class="speaker"><strong>发言人1: </strong></span>
-这个前40家公司里边有没有一些，比如说我看新闻里面也会提到有纳斯达克上市公司朗javon。当然我去看了它的市值，现在好像只有2000万美金了，一度股价大概可能是在一块多，但是他一度可能股价也曾经冲到三百多。我发现这些公司还挺有意思的，他可能之前并不是特别在大众视野里。比如说刚刚讲到朗加的这个公司，我不知道光宇博士是不是了解，他们大概是用什么样的方法在做抗衰呢？
-</p>
-<p class="transcript-line">
-<span class="time"><strong>[00:12:53]</strong> </span>
-<span class="speaker"><strong>发言人2: </strong></span>
-这家应该是一家以间充质干细胞疗法为切入点的公司。这个公司如我以严格的新药或者说新的细胞疗法的公司来看的话，它更多的还是属于一个有不同的一些临床管线。那刚刚提到它的估值的波动和可能整个二级市场或者说投资者对他的预期的话，肯定希望是他的这个疗法在某一期的临床实验里面会有一个很好的表现。之后，那相对应的它的整个预期，股价可能都会有一个比较好的表现。但是如果他在某一些临床实验中，一旦数据不理想，可能有很多原因，有的甚至不见得是他的技术或者是疗法的问题，有可能是他的适应症选择，或者是他的临床实验设计等等这些方面没有做好的情况下，导致了最终结果是一个阴性结果，或者是临床实验失败的话，那最终它的市场的表现都会大幅的跳水。
-</p>
-<p class="transcript-line">
-<span class="time"><strong>[00:13:52]</strong> </span>
-<span class="speaker"><strong>发言人2: </strong></span>
-以监控质干细胞为例的话，其实它更多的会去以更具备多功能和干性的一类干细胞作为切入点。通常会选择一些像肺纤维化或者是不同的一些具体的适应症为切入点。但是这里面如果真正以衰老为目标，我们可能不能称为适应症，我比较纠结这个用词的地方，就是通常在临床实验里面，我们是需要选取一个具体的适应症的。但是衰老在目前的定义里面，其实它还不能严格意义上算为一个适应症，那我们且称之为临床实验的目标。但是比赛悬赏的关键就是什么叫做有效的抗衰。这件事情目前在整个学术界，包括产业界，其实它还是一个逐步在形成共识的过程。还远没有到说我们过去有一套标准或者体系能够系统的评价这件事情。
-</p>
-<p class="transcript-line">
-<span class="time"><strong>[00:14:48]</strong> </span>
-<span class="speaker"><strong>发言人1: </strong></span>
-首先你刚刚提到间充质干细胞，那对于我们可能很多听众，他也不是这个行业的从业者来说，我们能不能简单介绍一下线充至干细胞，它是不是干细胞中的一个类？他希望用一个什么样的原理来逆转衰老呢？
-</p>
-<p class="transcript-line">
-<span class="time"><strong>[00:15:04]</strong> </span>
-<span class="speaker"><strong>发言人2: </strong></span>
-监控质干细胞其实是一类有分化潜能的干细胞，它可能离我们最初理解的最具备干性的胚胎干细胞，它可能还有一定的距离，但是在人体中，比如说骨髓、脂肪组织里面都会有存在，它的形成或者说发挥它干性是会需要具备一定的条件的。如果我们把干细胞想象成一棵树的话，它是在比较接近树根的位置，它可以有很好的潜力和最终分化和演变成不同细胞的能力。像胎儿的胎盘、脐带血这些都会有一些来源，包括咱们的肌肉里面。
-</p>
-<p class="transcript-line">
-<span class="time"><strong>[00:15:45]</strong> </span>
-<span class="speaker"><strong>发言人1: </strong></span>
-那用比较有分化潜能的干细胞去抗衰，这是一个什么逻辑呢？
-</p>
-<p class="transcript-line">
-<span class="time"><strong>[00:15:50]</strong> </span>
-<span class="speaker"><strong>发言人2: </strong></span>
-这个是在目前的细胞学的实验和小鼠的实验中，是有比较好的数据和证据支持的。它通常有几种方式，一种是会以细胞本身它会有一些归巢效应，去到他需要去的地方。如果说某一些地方大量的失血需要去进行造血的时候，他的干细胞会行驶到骨髓或者说需要去造血的这个地方，来形成一些对应的新鲜的血液细胞进行分化和增殖。但是更多的其实以肩中质干细胞为例的话，其实它提供的是一个细胞的微环境，通俗一点就是告诉周围的这个细胞，这是一个很好的生长环境，让细胞群保持活力，这个称之为对于微环境的重塑。
-</p>
-<p class="transcript-line">
-<span class="time"><strong>[00:16:41]</strong> </span>
-<span class="speaker"><strong>发言人1: </strong></span>
-我是不是可以理解说把间充质干细胞输入到人的体内，它是可以刺激细胞的一个微环境，它是不是会释放一些什么样的因子？它会造成一些什么样的改变呢？是比如说衰老的细胞就会被更快的清除掉，而它是一个什么样的机制来让身体更加年轻呢？
-</p>
-<p class="transcript-line">
-<span class="time"><strong>[00:17:00]</strong> </span>
-<span class="speaker"><strong>发言人2: </strong></span>
-这里面还涉及一个分类，是尖生子干细胞的来源，它到底是自体的尖生子干细胞还是异体的。如果是倾向于自身的话，它在整个人体的免疫系统里面会识别到相对友好的环境，它能够更好的去发挥它的弹性和回巢的效应。另一方面，异体的干细胞更多的是对于微环境的重塑，去释放不同的一些细胞因子也好，甚至是有一定的对于免疫系统的小小的激活和刺激的。
-</p>
-<p class="transcript-line">
-<span class="time"><strong>[00:17:32]</strong> </span>
-<span class="speaker"><strong>发言人1: </strong></span>
-我在想现在是不是一个比较好的时点，我们可以请广宇博士来大概介绍一下抗衰的背后的一些机制。就包括干细胞疗法，然后基因疗法、重编程什么。他们其实是在影响我们体内的一些过程和这一些机制来达到抗衰的目的。
-</p>
-<p class="transcript-line">
-<span class="time"><strong>[00:17:48]</strong> </span>
-<span class="speaker"><strong>发言人2: </strong></span>
-我们可能只能分享一些我们目前有的理解和认知，因为首先这个学科它其实是一个非常新兴的学科。大家对于衰老的机制的感兴趣，保守估计应该有接近上百年的时间。但是真正对于把衰老和生物医学和临床应用去相结合，大概就是过去10到20年的这个时间。
-</p>
-<p class="transcript-line">
-<span class="time"><strong>[00:18:11]</strong> </span>
-<span class="speaker"><strong>发言人2: </strong></span>
-从机制和原理上，它通常会分为衰老的标志。这个过程从过去的10年之间，我们也在不断的归纳。就最初的是九大标志，然后到十二大。然后最新的25年的中文章上，目前是提出来是四大衰老的标志。
-</p>
-<p class="transcript-line">
-<span class="time"><strong>[00:18:29]</strong> </span>
-<span class="speaker"><strong>发言人2: </strong></span>
-初分的话其实我们可以分为三个类别，但是其实这三个类别里面它是相互有很多交互和联系的。如果大家看到一些对于衰老的科普文章里面往往展示的也是这12或者十四大衰老标志物，它会展示成一个环形，然后这个环形里面其实是伴随着整个衰老过程中的一些变化。第一类主要标志里面就是对于基因组的不稳定性，对于细胞端粒的磨损，包括导管遗传的改变，以及蛋白质稳态的丧失和细胞自噬的失能，这些是主要标志的类别，它决定着整个生命的信息或者说它的承载形式的变化。第二大类是拮抗标志，就是它往往是一些功能的丧失和失调，有营养方面的，有线粒体或者细胞方面的。第三类是整合标志，也就是说它最终会形成一些我们看到的表象。但是这一类又是非常的显著和值得关注，甚至是未来是值得我们去作为一些干预衰老的目标的这里面有干细胞的浩劫，细胞间的通讯改变，包括一些慢性炎症和菌群失调。所以这是整体分为了三类的标志。
-</p>
-<p class="transcript-line">
-<span class="time"><strong>[00:19:48]</strong> </span>
-<span class="speaker"><strong>发言人1: </strong></span>
-明白，我相信可能很多听众听到这里已经开始感觉有一些难度。这个三大类我听起来感觉它的层次结构确实是有一些交叉的。你比如说第一类里边你提到基因组的改变，表观遗传也就是基因上面的一个修饰甲基化，它的一些改变，它是可以我们说生命密码很本质的这样一些改变。那这些东西它可能也会带动后续的，比如说细胞间的通讯的一些变化。就你刚刚说第三类这个里边对吧？然后包括一些炎症反应。第二里边可能也会有一些影响，比如说线粒体的一些功能改变，这个也是有一些底层的变化引起的这听起来这个系统它不是一个非常切的很干净的。每一个机制都说的很明白，放到自己的位置上，中间不存在这种重叠逻辑的体系。那我们怎么用这样的一些机制，它和做抗衰的这一些研究，我们从一个研究者的角度怎么去看这些不同的机制，它实际上在研究中怎么样被应用了。
-</p>
-<p class="transcript-line">
-<span class="time"><strong>[00:20:39]</strong> </span>
-<span class="speaker"><strong>发言人2: </strong></span>
-目前的生物学的研究里面，其实大家都非常喜欢用通路这个词。就是它呈现的形式，大家会变成一张非常复杂的电路图。它会有一些在上游的开关和调控元件，或形成一个最终下游的结果。不管是人体的机能转不转，还是说会有一些生命体征的活动，最终如何去衡量抗衰的有效性。
-</p>
-<p class="transcript-line">
-<span class="time"><strong>[00:21:03]</strong> </span>
-<span class="speaker"><strong>发言人2: </strong></span>
-出发点无非是从终局上来看寿命的延长。当然这里面更多的大家希望的是高质量寿命的延长。另外其实是希望我们在的人群里面看到他们的全因发病率，也就是说他们所有患疾病的概率在降低。然后我们可以选定一个可能三年、五年甚至十年的观测的窗口去回答这件事情。这里面就涉及到我们可以去进行一些临床实验的设计和观测了。当然这个刘辉博士是专家，可以请他再展开给我们讲。
-</p>
-<p class="transcript-line">
-<span class="time"><strong>[00:21:35]</strong> </span>
-<span class="speaker"><strong>发言人3: </strong></span>
-我还是觉得我们的人体是非常的复杂，我们目前的认知只是一部分。你们提到衰老的概念，我觉得就是为什么刚刚广宇说这个比赛实际上是非常有胆量的一个比赛，主要原因是他想要去解决的衰老的这个问题，本身是很宏大的问题，因为是每个人都会面临的问题。那衰老的定义就像广宇说的，可能目前为止也不是非常清楚。那像刚刚提到了有几种，比如说是很高质量的健康状态，没有到疾病状态，这种算是一类。那后面可能是有疾病状态，那我怎么样能够有高质量的生活？再退而求其次可能是更硬的终点。比如说死亡，绝对寿命的问题。以前我们最早的时候会在临床上更关注的是已经出现疾病了，我们怎么样能延长寿命，就更关注后面这个更硬的重点。但是现在随着技术的进步，还有大家生活水平质量的提升，大家可能会越来越往前来看这个问题，可不可能延缓疾病的发生，或者是即使带病的话，有没有可能生活质量更高。这也涉及到一些我们如果将这些疗法也好，创新的一些组合的方式应用在临床的实验里面的时候，我们如何来衡量衰老的这个问题。
-</p>
-<p class="transcript-line">
-<span class="time"><strong>[00:22:54]</strong> </span>
-<span class="speaker"><strong>发言人3: </strong></span>
-刚刚广宇介绍了十四大衰老的标志。就是我觉得我们作为一个人体而言，大家都知道的是我们会有基因，对吧？基因是我们最基本的产生所有生命过程的一个最基本的模板，就像乐高一样。那你把哪些乐高拼在一起，你可能就造出不同的建筑结构。比如说拼成一类蛋白，那它可能就发挥这个蛋白的功能。我们基因模板都在那里，那我们怎么拼成这个蛋白，拼成哪个蛋白？
-</p>
-<p class="transcript-line">
-<span class="time"><strong>[00:23:27]</strong> </span>
-<span class="speaker"><strong>发言人3: </strong></span>
-这里面有很多的生物过程，那就涉及到刚刚你们提到的假计划翻译这些过程。所有这些生物过程它都需要有能量的支持，比如说线粒体，包括信息传递，这些都是很重要的，是这个过程能够发生的生物过程。所有这些都会影响到我们能不能够准确的翻译或者生成我们需要的功能。好比说我们现在需要这个蛋白质，我们有这么一串基因，那我们有没有可能利用有限的能量非常有效的找到相应的靶点，把它翻译成需要的蛋白质，输送到相应的器官。如果我们现在这个器官的细胞受到损伤了，有没有可能有很有效的信息传递给我们的免疫系统，给我们的神经系统发生它的再生，让他能够补充到他的正常行为。如果你从最底层的生物信息能量的这个水平，再往上它就形成了这个器官能不能够很好的工作。再往上就是涉及到神经调节，我这个器官和其他器官之间怎么样能够沟通协调。
-</p>
-<p class="transcript-line">
-<span class="time"><strong>[00:24:32]</strong> </span>
-<span class="speaker"><strong>发言人3: </strong></span>
-如果他能够很好的反应的话，那他就是不衰老的，他就是能够完成我们正常功能的那我们如果他不能完成，我们会认为他的功能有减退。如果他比我们常规的aging的过程更快，那我们可能就会认为他有一些疾病的状态。所以我觉得这可能是一些非常浅显的理解，来把这些基本的生物标志物可能串起来。
-</p>
-<p class="transcript-line">
-<span class="time"><strong>[00:24:56]</strong> </span>
-<span class="speaker"><strong>发言人1: </strong></span>
-我在想我们所有这一些抗衰或者长寿科技研究，它背后如果我们把它和14大衰老标志的大的体系去连接起来的话，是不是它背后有一个假设，就是如果我们可以把14个衰老标志，或者是我们最后越来越定义清楚的这一些机制，如果它的运行都是正常的话，是不是人就不会死？我可以做这个假设，这个是不是一个大家去研究这个机制背后的一个核心假设分两派。
-</p>
-<p class="transcript-line">
-<span class="time"><strong>[00:25:23]</strong> </span>
-<span class="speaker"><strong>发言人2: </strong></span>
-目前的行业认知里面有些人会说，我们有可能可以让人类的寿命达到200岁、300岁，这是一类的说法。另外一类更倾向于说，我们可以在一个比如说20岁或者25岁的身体里面活到120岁。我个人可能更会倾向于后者，至少它是一个短期内会更可及，或者说我们可以预见的一个目标。
-</p>
-<p class="transcript-line">
-<span class="time"><strong>[00:25:49]</strong> </span>
-<span class="speaker"><strong>发言人2: </strong></span>
-前者的话就涉及到所谓人类的寿命极限的问题，就是目前大家所理解的寿命的极限大概是在130岁到140岁之间吧，因为已知的最长寿的老人大概是122.5岁。就是现在有记录和可考证的。所以大家通常的估计就是以目前的人类的这个寿命极限，大概是在130到140之间。当然这里面如果涉及到一些核心器官的更替，或者是未来的如果说干细胞的技术真的达到了一个哪里衰老去替换哪里，或者是实现一个完全的自我更新的话，其实是有可能突破的。但是这里面就会涉及到很多很多复杂的技术问题，包括伦理问题。所以这个部分我们觉得存在这个可能性，而且我个人可能还比较期待。但是回过头来，以目前的所有的长寿科技和衰老科学的研究目标，和在未来10到20年之内，大家更期望企及的一个目标是说延长人类的健康寿命，这是我们目前的一个小目标。
-</p>
-<p class="transcript-line">
-<span class="time"><strong>[00:27:01]</strong> </span>
-<span class="speaker"><strong>发言人1: </strong></span>
-我们假设说不考虑实际干预的有效性以及伦理问题的话。你提到说现在的寿命期限是130到140，到底是什么限制的寿命极限可以突破到，比如说200岁甚至500岁。我们可以认为假如说我们发现这些衰老标志或这一些流程，如果这些流程都没有问题，比如说端粒不会缩短，比如说DNA永远都是正确的复制，比如说这个线粒体的功能永远都在线，比如说细胞间的信息传递永远都是准确无误的。相对就是它有一定的纠错机制，我们是不是认为这个生命就会永远的活下去呢？这些机制让它正确的运行，是不是就是人死到不死的一个核心的开关？
-</p>
-<p class="transcript-line">
-<span class="time"><strong>[00:27:44]</strong> </span>
-<span class="speaker"><strong>发言人2: </strong></span>
-我觉得如果有雨山提到这么多的假设的话是可以的。但是这些假设的前提，就像我们当时在学习物理里面说，一个小球在一个没有摩擦和没有阻力的环境里面去运作，这是有点类似的。但是现实情况往往我们是达不到这样一个理想状况的。
-</p>
-<p class="transcript-line">
-<span class="time"><strong>[00:28:03]</strong> </span>
-<span class="speaker"><strong>发言人2: </strong></span>
-无论如何，生命机制的设置从DNA或者说基因的复制开始，他就是希望去保证它会有一定的随机的错误。这个随机的错误一方面是限制了他未来的一些可能性，或者说给他带来的一些疾病的风险。但是同时也提升了他对于所谓环境的适应性。一旦环境发生了变化，不管是温度、湿度，还是一些可能更极端的一些环境，其实还能有一些带有不同的遗传背景或者说基因的人可以去适应这样一个环境。所以这是从生命体最初的设计上，它就需要产生错误的机制来保证它的适应性和多样性。
-</p>
-<p class="transcript-line">
-<span class="time"><strong>[00:28:46]</strong> </span>
-<span class="speaker"><strong>发言人3: </strong></span>
-我觉得刚刚这个问题非常有意思，但事实上涉及到很多伦理和哲学问题。因为以我们目前的医疗技术而言，我们如果要替代一些脏器功能，那大家都知道肾脏可以有透心脏可以有起搏器，然后甚至可以有人工的心脏哈尔内对吧？呼吸系统可以有呼吸机，就是我们已经临床上面有很多可以替代我们现有器官功能的方法了。那么当他们被替代了以后，我们会认为这是延长寿命。那一个很极端例子就是如果是在ICU里面，如果没有意识，那一直用机器维持的话，那这是我们认为的长寿或者是不衰老吗？可能也不是，对吧？所以我觉得目前可能我会个人比较认同的一个认知，就是作为我们生命体而言，我们可能就像所有的碳基生命或者什么，它可能都就像你的汽车有出厂设置，你可能有你的使用限度，但在这个过程里面，如果当你出现这些症状或者是不适的时候，你可能会发生，因为作为人会痛苦，那怎么样能减少这些痛苦或延缓这些事情的发生，更像是我们现在努力在达到的目标，而不是所谓的到永生。
-</p>
-<p class="transcript-line">
-<span class="time"><strong>[00:30:02]</strong> </span>
-<span class="speaker"><strong>发言人3: </strong></span>
-比如说一个更极端的永生的例子，可能更像是癌症细胞。癌症细胞非常的活跃，它一直复制非常的有活力，但是它可能会对身体系统是更毁灭性的一些打击。那在这种情况下，你并不会认为它是我们想要追求的一个目标。
-</p>
-<p class="transcript-line">
-<span class="time"><strong>[00:30:21]</strong> </span>
-<span class="speaker"><strong>发言人1: </strong></span>
-对我问这个问题其实也是在试图去理解抗衰的这个大赛，它作为一个形式，大家通过这个比赛去衡量怎么样健康的逆转10到20年的寿命，到底背后大家实际上是在做一件什么事情。我的一个理解是在看到这个14个不同的抗衰标志。假如说我们不考虑刚刚仁辉博士讲到极端情况，就是他其实可能已经脑死亡了，但是还在靠着一些呼吸机什么的维持他的寿命，这个肯定是非常不理想的那我们肯定是希望人是在方方面面是有一个健康寿命，在这样的情况下尽量去延长我们的生命。14个不同的抗老的标志物，其实它相当于是观测人体内在发生的过程的一个抓手。当然这个是需要具体的一些对因子的测量。我们去看比如说细胞间通讯是不是正常，如果它要出现一些问题，我们可能就会觉得是不是就是一些会影响到寿命，会加速我们衰老的一些指征。如果我们可以有效的去控制这一些不同的抗衰的标志，相当于他们就是水龙头一样，我们把它给关上不会漏水。那是不是这个身体就可以相对比较好的去运作，就回到比赛的这一个场景里面的那是不是大家就在用各种各样不同的方法，比如说干细胞的治疗去影响这个里边的一个或者是几个不同的机制，去把这个里边有问题的地方给修复，把这个漏水的水龙头给关上。
-</p>
-<p class="transcript-line">
-<span class="time"><strong>[00:31:44]</strong> </span>
-<span class="speaker"><strong>发言人1: </strong></span>
-那大家就是通过不同的一些去对抗机制的方法排列组合，最后可以从一些角度去逆转或者是抵抗修复我们的衰老这个过程。我不知道我这样的一个理解大家怎么去看待。
-</p>
-<p class="transcript-line">
-<span class="time"><strong>[00:31:56]</strong> </span>
-<span class="speaker"><strong>发言人2: </strong></span>
-我觉得从思路上是没有问题的。而且往往很多的不管是这个研究，还是一些创新型的疗法，确实都是这样一个出发点或者设计。就是我们会有一个目标的靶标，同时我们考虑到的就是系统性和衰老的过程，是一个非常。全面的过程。所以往往我们在比如说进行干细胞耗竭的这个干预的同时，我们就会改变它的表观遗传的修饰或者是蛋白的稳态。就是这里面可能我们以其中一个标志作为目标的同时，我们可能改变的是3到5个，甚至是可能更多个不同的这些衰老的标志。
-</p>
-<p class="transcript-line">
-<span class="time"><strong>[00:32:35]</strong> </span>
-<span class="speaker"><strong>发言人3: </strong></span>
-我很同意有时候我们很多的疗法的初衷都是针对某一个机制，或者是那个是他的一开始初衷或强项。但是最后这个涉及到评价的时候，它总是要作用在这个人体里面。那它在人体里面和其他的系统的平衡是什么样的结果？会是一个多维度的问题。比如说我们经常会见到的情况是，就比如说我们用一个靶点的药，在小鼠实验里面或者是实验室环境都很好，可是他到人体里面就会出现一些达到了一些不想要去的靶点，那就会造成一些其他器官的损伤。那到底是利多还是弊多？这是为什么需要有临床实验的这个问题。
-</p>
-<p class="transcript-line">
-<span class="time"><strong>[00:33:19]</strong> </span>
-<span class="speaker"><strong>发言人3: </strong></span>
-像刚才我们一直在提到说，我们需要有多个维度来去衡量衰老，我会觉得这是一个非常好的问题。但是我只能说目前大家的认知，可能我了解大家在什么地方。很好理解的是作为人而言，我们要在这个世界上健康的生活，首先我要有认知功能。我有认知以后，我要有行为能力。我在能够行动的一个很重要的过程就是我的能量代谢够不够有效。这可能就涉及到一些比如说血糖的利用，然后代谢健康这个方面。
-</p>
-<p class="transcript-line">
-<span class="time"><strong>[00:33:55]</strong> </span>
-<span class="speaker"><strong>发言人3: </strong></span>
-我们总是会出现一些损伤，对吧？不管是感染了病毒还是什么，我们的免疫系统可以帮助我们修复。如果正常的话，如果修复不好，我们可能就会产生炎症。炎症的水平可能又会衡量我们身体受损伤的程度。
-</p>
-<p class="transcript-line">
-<span class="time"><strong>[00:34:12]</strong> </span>
-<span class="speaker"><strong>发言人3: </strong></span>
-所以我觉得这些方面可能都非常的重要。现在就这几个方面都会有一些现成的度量的方式。我看到的是目前大家倾向于在自己主要靶向的这个功能上面。比如说他靶向的是免意，那他很可能这个方面作为一个主要的衡量指标。但同时如果他有一些其他的相关的作用，不管是安全性的还是其他的好的作用的那他可能都会相应补充一下其他的观察方式。
-</p>
-<p class="transcript-line">
-<span class="time"><strong>[00:34:42]</strong> </span>
-<span class="speaker"><strong>发言人1: </strong></span>
-如果举个例子，比如说免疫里边我们是可以看一些什么样的指标，然后这个指标又怎么能和逆转了寿命10到20年这一个尺度去对应。
-</p>
-<p class="transcript-line">
-<span class="time"><strong>[00:34:53]</strong> </span>
-<span class="speaker"><strong>发言人3: </strong></span>
-上的免疫指标还是有不少的那很常见的，比如说C反应蛋白，或者是一些其他他的现在衡量更多的一些指标，那些就更细节一些，不一定非常在临床上非常常用。但是我会认为逆转10到20年这个事情，除非你如果从传统临床研究设计角度而言。因为我用了这个治疗，我的寿命延长了20年。目前我还没有看到这样的研究，起码是在抗衰老治疗方面有这样的研究。目前我们看到最长的可能就是哈佛医学院这边稳定在做的一个长寿研究，可能也就随访五年。
-</p>
-<p class="transcript-line">
-<span class="time"><strong>[00:35:32]</strong> </span>
-<span class="speaker"><strong>发言人2: </strong></span>
-我们先以免疫力为切入点，像我们经常听到的血常规，其实就会有一些对于细胞数或者是粗略的判断。他会把血液中的一些有的情况做一个整体性判断，但是这个判断其实我们只能够区分正常和异常。因为在正常的范围里面，不管他是一个20岁的人，还是他是一个65岁的人，其实他检测指标范围的差别是不大的。所以更多的是希望通过一些更微观，更能够实时反映衰老的方向去看。目前有的会议，比如说淋巴细胞的亚群，这里面能够看到更多的一些具体的定量的检测。包括免疫细胞上带的不同的一些细胞的这些标志。这个是目前从一些传统的技术上去评估的。
-</p>
-<p class="transcript-line">
-<span class="time"><strong>[00:36:24]</strong> </span>
-<span class="speaker"><strong>发言人2: </strong></span>
-但是更更底层次的就是我们刚刚提到的这些主要标志里面有两类。一类是叫表观遗传的改变，一类是蛋白稳态的改变。其实表观遗传和蛋白这两个因素是目前很多的研究和一定程度上会形成了共识和协同体的观察标准。就是说我们能够把所有衰老的变化，不管它是临床性的或者生理性的，还是说它是一个非常微观的分子上的变化，反映到以上这两个部分。百万渔船会更像是基因的开关，它会控制这些基因在每一个细胞里去如何去协作和形成什么样的一个流水线。对于蛋白的话可能就会更直接一些，就是它是组成我们生命和很多的物质和行使它的功能的一些基本的结构。所以这两类的观察以及现在我们更希望是建立一个新的衡量衰老的标尺。我们通常称之为衰老的时钟，或者说生物年龄这样一个技术。
-</p>
-<p class="transcript-line">
-<span class="time"><strong>[00:37:32]</strong> </span>
-<span class="speaker"><strong>发言人2: </strong></span>
-像荣辉提到的目前以衰老为目标的这些临床实验，其实它都还在一个试行的这个阶段。有很多他往往是察性研究，就是我们只去检测不同的这些指标。包括了我们刚刚提到的一些常规的体检也好，或者是影像也好。这些指标结合像表观遗传或者是蛋白层面的变化，这样子去建立一个联系和映射。最终我们希望是能够有一个比较好的图谱，或者说是一个对应有具体刻度的标尺去衡量一个比如说20岁的人、25岁的人到80岁、90岁，他的整个健康的状态和生物年龄的基础是什么样子的。有了这样一个标尺之后，未来我们就更希望是以一个比较长按图索骥的这个方式，当一个60岁的人，他一开始可能是生物年龄在65，但是他通过可能一年人的努力，他能够把他的收入年龄逆转五岁。这样子我们就能够比较好的去回答有效抗衰老这个问题。
-</p>
-<p class="transcript-line">
-<span class="time"><strong>[00:38:36]</strong> </span>
-<span class="speaker"><strong>发言人1: </strong></span>
-我理解这个逻辑是说，比如说汽车也有很多仪表盘指标，对吧？那我们人体也可以有非常多的指标。然后我们去检测一定的人群样本中不同的年龄，他们的这个仪表盘都是在一个什么样的水平。我们可能就可以大概平均的做出来一些估计。就综合来看，你这些指标都在什么样的一个范围，可能对应你就是一个比如说25岁或者你是一个30岁这样的年纪，我可以这么理解吗？
-</p>
-<p class="transcript-line">
-<span class="time"><strong>[00:39:00]</strong> </span>
-<span class="speaker"><strong>发言人2: </strong></span>
-对，是这样一个理念和设计。这个想法里面更多的是希望我们在选取这些指标的情况下，它能够更好的去反映真实的状态。对应的就是说我们其实是用一个更高维度的数据，更高精度的检测来反映一个更细致的东西。所以往往在表观遗传或者是蛋白的这个检测领域，我们是会有成百万、上千万，甚至是几亿、几十亿的数据维度和指标来反映我们最终的drive的变化。可能它会落到一些比较易于理解直接的生物年龄的概念。
-</p>
-<p class="transcript-line">
-<span class="time"><strong>[00:39:39]</strong> </span>
-<span class="speaker"><strong>发言人1: </strong></span>
-但是我在想我们去衡量这一些指标，它肯定就跟你去收集什么样的人群样本是相关的那是不是你说的人越多，最后的结果就越好？因为我们看到也有很多很多公司都想要去做衰老时钟这样的工作。是不是选人群样本会是一个非常核心的变量，会影响你的最后观测的结果。另外一个就是比如说我们之前一起讨论肠道菌群，我们当时是说健康人的菌群各有各的不同，不健康的菌群可能就都很单一，对吧？都是类似的。如果是这种情况下，你这个指标的表现可能是混乱的，它可能不是一个有清晰逻辑的那我们又怎么样把这个和人的年龄对应上呢？就是人和人的可能差异性都比较大。
-</p>
-<p class="transcript-line">
-<span class="time"><strong>[00:40:20]</strong> </span>
-<span class="speaker"><strong>发言人2: </strong></span>
-是的，雨珊提到这两个问题都是非常好的问题。第一个问题的话，简单的说确实是人群越大基数越大。它带来的不管是统计的效应，还是对于每一个细分的年龄段的指标和反应是更准确的。但是如果我们希望把全球的所有人类都测了，那是最理想的一个状况。但是现在做不到，因为经费在燃烧，大家每一个研究或者是开发都是有一定的预算的上限的。所以更多的时候我们需要对于临床实验去进行相应的设计。也就是我们去选取一个更有研究价值的人群去反映刷这件事情。
-</p>
-<p class="transcript-line">
-<span class="time"><strong>[00:41:01]</strong> </span>
-<span class="speaker"><strong>发言人2: </strong></span>
-但是在衰老在没有标识的情况下，它会更像一个我们在不断的接近真相和逼近全球六七十亿人的整体的结构上靠近。所以这是我们可能希望去做的，就是他最终可能会去能够反映全人类的指标。但是一开始的时候，我们可能会选择几千人、几万人，或者是像特定的区域。像我们著名的一个英国的生物银行叫做UQ8 bank。他们的选取其实是一个特定年龄段，但是有一个非常长时间的跟踪和随访的数据。所以这些是可能对于衰老的研究和对于我们去建立这样一个标尺会非常有帮助的一个方向。
-</p>
-<p class="transcript-line">
-<span class="time"><strong>[00:41:45]</strong> </span>
-<span class="speaker"><strong>发言人1: </strong></span>
-刚才还提到一个测结果可能混乱的这个问题。
-</p>
-<p class="transcript-line">
-<span class="time"><strong>[00:41:49]</strong> </span>
-<span class="speaker"><strong>发言人2: </strong></span>
-测结果从数据的理解上的角度，我们更相信的是高维度的数据是能够更好的反映低维度数据的规律。如我们测了成千上百万的基础指标的变化，只要我们的方法学和技术，它是一个足够稳定可以信赖的技术，在我们反映它的生物年龄，它各项疾病的发病率情况，甚至预测他未来发病的风险。更进一步像我们公司自己在做的是对于每一个器官的生物年龄。一个60岁的人，我们不光是了解他综合的健康状况是怎么样，而是了解到他的每一个具体的器官的生物年龄和他未来的健康风险。这样子的一个刻画是在混乱的数据和非常庞杂的数据里面逼近和揭示它的规律的过程。
-</p>
-<p class="transcript-line">
-<span class="time"><strong>[00:42:39]</strong> </span>
-<span class="speaker"><strong>发言人1: </strong></span>
-我们再回到刚才咱们一起讨论的，其实生物体是一个很大的体系，牵一发动全身。这个器官和器官之间，它的年龄是可以相对独立的。我们如果要是去做每个器官的生物年龄，它是不是建立在一个假设上，其实这些器官之间运作是相对独立，可能我的肝是20岁，我的心可能是30岁。
-</p>
-<p class="transcript-line">
-<span class="time"><strong>[00:43:00]</strong> </span>
-<span class="speaker"><strong>发言人2: </strong></span>
-我觉得目前的研究认知上是会倾向于每一个器官的衰老过程会有很大的一些差别，或者说我们称之为相对独立。整个人如果你理解为一个大的系统，它肯定不可避免的会有一个大的背景。但是以器官年龄的差别往往会看到有一些特定的器官的衰老程度会比其他的大很多。但是他是不是有到10岁或者是20岁的这个差别，其实是相对来说没有那么的公认或者说定论的一个事情。
-</p>
-<p class="transcript-line">
-<span class="time"><strong>[00:43:34]</strong> </span>
-<span class="speaker"><strong>发言人2: </strong></span>
-因为我们真正需要建立的就是回到了刚才那个更复杂的问题。就是当时我们是希去把60岁的健康人或60岁的生物年龄去建立。现在我们多了20，甚至以这个分类学更广泛的，它会到30到50，就是不同的器官，包括不同的系统这样子的一个基线和标准。就是我们需要去定义60岁的心脏是什么样。60岁的肝脏十秒，那对应的就是它的复杂的维度和难度会更加增加。但是好处是以器官为分类的时候，其实跟我们目前所有的临床医学和现有的医学体系是更好的能去接轨的那像我们荣慧博士之前是心内科，然后像不同的一些科室，其实它对应的关注的都会有特定的一个到几个器官。所以这样是我们可能能够建立一个从现在的衰老的平评估的认知和我们传统或者说目前已经在为大家的健康保驾护航的这样一个临床医疗的体系里面更好的去连接的基础。
-</p>
-<p class="transcript-line">
-<span class="time"><strong>[00:44:37]</strong> </span>
-<span class="speaker"><strong>发言人1: </strong></span>
-我帮大家快速理解一下，我们如果在器官层面，其实最后测量的这一些维度，最后都是落在比如说一些血液里边的蛋白指标，基因层面测试出来的一些基因的序列，包括基因的修饰。比如说甲基化就是这个表观遗传的角度，可能它是一个什么样指标。对于器官来说，它有一些更对应的更关注的指标。通过去分析这些指标，最后得出来一个器官的大概的一个年纪。
-</p>
-<p class="transcript-line">
-<span class="time"><strong>[00:45:03]</strong> </span>
-<span class="speaker"><strong>发言人2: </strong></span>
-我可以这么理解吗？是的，他目前建立的联系是会通过我们观测的指标，包括他的影像学的这些形态，和刚才提到要的我们这些检测指标的关系。但是更深层次的其实他希望反映的是说，当我们看到这些形态，包括因为我们选择的是更微观的检测，像流光遗传或者是蛋白，它能够提供的信息的维度和风度是更高的，所以它能够提示或者说预知未来的风险的能力也会更强。那最简单的例子就是像癌症，如果在血液中检测到了一些特定的信，它往往会早于影像学，或者是真正我们临床诊断出来的癌症的时候。它会有一个1到5年不等的时间的提前。我们能够去更好的预知器官的疾病风险，癌症是其中一个例子。像其他的一些疾病，其实都是有类似的一些更好的预期和可能性的。
-</p>
-<p class="transcript-line">
-<span class="time"><strong>[00:46:03]</strong> </span>
-<span class="speaker"><strong>发言人1: </strong></span>
-对，刚才王磊博士提到这个点就比如说癌症里面其实有一些早期筛查，还有一些血液指标，可能对于一些失灵的人群就应该检查起来。确实提早的去筛查，其实对于我们普通大众来说也是很重要的。是可以帮我们尽早的发现问题，然后也可以尽早得到诊治，就会有更好的预后。
-</p>
-<p class="transcript-line">
-<span class="time"><strong>[00:46:21]</strong> </span>
-<span class="speaker"><strong>发言人1: </strong></span>
-我也想问一下广宇博士，因为你们自己在锐界在regenerated bio，你们其实也用AI的方法。因为其实你提到在跟踪的这一些指标的维度，有百万上千万，这个是非常大的一个宇宙过了，我们现在有很好的AI的方法，让人去分析，真的不知道分析到什么时候AI进来。但是我一个疑问就是AI相对还是一个比较黑盒的一个分析过程。这么多维度这些维度，他可能有一些跟这个年龄的相关性也许更强，有一些可能更弱。最后我们就完全把他甩手交给AI去做数据和到年龄的mapping这样的一个关系吗？我怎么去理解AI在里边的作用呢？
-</p>
-<p class="transcript-line">
-<span class="time"><strong>[00:47:03]</strong> </span>
-<span class="speaker"><strong>发言人2: </strong></span>
-我觉得这是一个非常深刻的问题，我们目前的做法其实是多条腿走路，就是去尝试不同的一些策略和方式。有一些是更经典的AI的前身，我们称之为机器学习。就是它会单纯的只去用数据中的规律和它的一些映射，甚至很多时候是为了降低数据的复杂性，把它去做一些归类和信号的降噪这样子的一些目的，去发现它相应对应的这个规律。当然这里面最终会发现，其实它的往往的表现和预期的结果就以单纯最简单的就是我们预测一个人的真实年龄，去通过不看他的出生年月日，而是看他的一些指标检测的变化，去做这样一个预测。
-</p>
-<p class="transcript-line">
-<span class="time"><strong>[00:47:49]</strong> </span>
-<span class="speaker"><strong>发言人2: </strong></span>
-单纯的可能一些经典的机器学习模型往往的表现是不好的。后续的就会分为两类，一类是我们希望寻找更多的可解释性，也就是以上刚才提到这个黑盒的问题。就如果我们不去使用单纯的机器给我们提供的规律，而是去寻找我们在比如说生物学上已经研究的这些通路和这些我们已经掌握的生物的内去做一些训练也好，或者是让机器同步的理解这些现有的规律，在彼此去做更多的可解释性的推断，这是一类的路线。当然这类路线的前进会比较艰难，因为它积累的有限的这些维度还是我们目前的认知。它首先是相对还是比较少的，同时也是需要在不断迭代和积累的过程中。我们发现甚至有一些之前的理解是错的或者是反的这里面就会带来很多的复杂性。
-</p>
-<p class="transcript-line">
-<span class="time"><strong>[00:48:47]</strong> </span>
-<span class="speaker"><strong>发言人2: </strong></span>
-另外一类就是单纯的我们更多的交给算法，让他去做一些无监督和完全去依托于机器学习和人工用智能的算法和模型去做的推断。带来的难度就是我我们最终还是需要给他有一个更合理的解释，或者说能够去最终发现一些之前在我们自己的分析和理解过程中没有去发现的这个规律。以上是一些不同的尝试路径。但是现在其实还是回到之前的说法，就是它的领域内还是不断在前进的。所以大家目前的认知可能更像是当年的盲人摸象的这个故事里，就是每个人只能够理解衰老和人工智能其中的很小的一角。有的人可能就直接宣称说我已经摸到大象了。但是其实更多的一些规律和更底层的认知，其实还是要持续的去建立和积累的。
-</p>
-<p class="transcript-line">
-<span class="time"><strong>[00:49:42]</strong> </span>
-<span class="speaker"><strong>发言人1: </strong></span>
-那你觉得如果我们去看衰老时钟，用这么多维度，然后利用AI方法去建立一个衰老时钟的横梁这一件事情，你觉得他现在做到了一个什么样的程度了？就是我们全球包括你们自己就大家在做应用的这一个工作，然后你觉得这个里边现在最大的挑战是来自于哪里？还是说可能全方位都有挑战。
-</p>
-<p class="transcript-line">
-<span class="time"><strong>[00:50:02]</strong> </span>
-<span class="speaker"><strong>发言人2: </strong></span>
-目前的领域内，其实我们是每年都会在波士顿去召开我们对于生物标志物的全球的协作组，或者说联合协会的工作会议。这个会议其实会把目前科学界、产业界从监管视角，包括express其实也是这个会的常客。他会从不同的维度去看，我们现在对于衰老的生物标志物研究进展到哪了，以及我们下一步该往哪走。这是一个每年都会在哈佛医学院，就是以往是在加州，在不同的地方都巡回。但是近几年其实他把会址已经固定在波士顿的哈佛医学院来举行的全球的大会。
-</p>
-<p class="transcript-line">
-<span class="time"><strong>[00:50:42]</strong> </span>
-<span class="speaker"><strong>发言人2: </strong></span>
-这上面其实我们讨论的就是说目前的生物标志物对于年龄的评估。其实它的误差大家通俗的理解可以到3.5岁左右。也就是说其实单纯以预测一个人的年龄来说，其实这件事情并没有做到非常完美。不管是举办的一些算法的竞赛，第一名的获奖队伍，还是说一些大的研究组。就比如说整个衰老时钟的领域的奠基人Steve house，包括大会主席和组织者wreh f这些教授，他们的研究组的进展差不多，目前也还是围绕着这个水平上下。所以这是一个其实还有很多的改进空间和持续进步空间的工作。那也是全球的研究者和科技工作者，大家在努力和奋斗的一个目标。
-</p>
-<p class="transcript-line">
-<span class="time"><strong>[00:51:34]</strong> </span>
-<span class="speaker"><strong>发言人1: </strong></span>
-你说3到5岁的误差，这个是对于人的真实年龄还是一个健康年龄。
-</p>
-<p class="transcript-line">
-<span class="time"><strong>[00:51:40]</strong> </span>
-<span class="speaker"><strong>发言人2: </strong></span>
-他更多的现在会以真实年龄作为一个打标。但是他的目标其实是为了能够反向的在这样一个标尺足够准了之后，去建立一个生物年龄或者说健康年龄的新的体系。
-</p>
-<p class="transcript-line">
-<span class="time"><strong>[00:51:56]</strong> </span>
-<span class="speaker"><strong>发言人1: </strong></span>
-但这个有点反常识，那和真实年龄的误差。比如说我是一个相对健康状态的一个，比如说30岁和一个我其实是一个亚健康状态的一个30岁。本身其实就从健康寿命的这个角度来说，它就应该是有误差了。如果我取的这个样本，它本身的健康程度差别特别大的话，它其实很难做到一个有效的对于真实年龄的校正。这个会是以中间的一个比较大的干扰因素吗？
-</p>
-<p class="transcript-line">
-<span class="time"><strong>[00:52:21]</strong> </span>
-<span class="speaker"><strong>发言人2: </strong></span>
-是的，你抓住了这个问题的关键本身它从建立这个标志的过程中，其实需要做的一点就是我们希望是尽可能的去除干扰因素，或者说背景噪音如或。我们能够通过一定的定义或者说检测的指标，把刚才提到的亚健康的这些去单独的分到一类，把健康的人作为一个更好的基线和参考标准，这是目前通常的做法和希望去建立的体系。但是大家也会担心说，你比如到了高龄的时候，其实或多或少的都会有一些基础疾病和一些问题。那怎么去建立一个比如说70岁的健康人的标尺？如果你选的都是各项指标都非常正常，那甚至什么三高这些都没有，这个其实是一个有一些过度矫正的一目标。所以在整个衰老标志物的建立里面，一个是说我们能够有一个非常干净，或者说去除背景噪音的一些方法和体系。同时我们又希望他的数据是能够反映这个年龄段的健康水平，或者说分布的。这个事情永远是有点像跷跷板，就是两边在平衡。
-</p>
-<p class="transcript-line">
-<span class="time"><strong>[00:53:29]</strong> </span>
-<span class="speaker"><strong>发言人1: </strong></span>
-回到这个全球的比赛，它的终点是在看是不是能有效的逆转相对健康的50到80岁的人，10到20年的寿命？然后我看比赛的规则说明里边，我理解应该是比赛方最后推出一系列大家共同去使用的检测的标准。那他怎么去选取这一些来检测的标准呢？
-</p>
-<p class="transcript-line">
-<span class="time"><strong>[00:53:51]</strong> </span>
-<span class="speaker"><strong>发言人2: </strong></span>
-这是非常有意思的一个问题。简单的说这个比赛是允许大家自带标尺的，这个尺子其实是每一个参团队可以选择现在有的一些方法和体系。就像现在已经公布和发表的很多这些方法，包括有一些可能已经在提供科研用途，甚至一些小范围的to c的测试了。但是更多的团队可能会选择像我们自己，也是选择了我们自己的一些标准和体系。因为整个方向来说，其实它还没有一个大家首先是公认或者说绝对完美的一个体系。只有说它是一个经典方法，他发表的比较早或者说比较有名，这是有的。所以更多的保守估计，比如说这一百多个参赛团队里面，可能大家准备的标尺可能就有四五十种，可能是有的。
-</p>
-<p class="transcript-line">
-<span class="time"><strong>[00:54:40]</strong> </span>
-<span class="speaker"><strong>发言人1: </strong></span>
-那这样的话组委会怎么去衡量它这个标尺是不是公允呢？以及开玩笑大家说如果你的赛道切的足够小，你就是这个赛道冠军，对吧？那他自己的标尺里他就是可以做到王者。那最后我怎么判断谁是冠军呢？
-</p>
-<p class="transcript-line">
-<span class="time"><strong>[00:54:53]</strong> </span>
-<span class="speaker"><strong>发言人2: </strong></span>
-这个是包括荣威博士也提到说他们主办方比较勇敢，或者说比较雄心勃勃。
-</p>
-<p class="transcript-line">
-<span class="time"><strong>[00:54:58]</strong> </span>
-<span class="speaker"><strong>发言人1: </strong></span>
-原来勇敢是在这点。
-</p>
-<p class="transcript-line">
-<span class="time"><strong>[00:55:01]</strong> </span>
-<span class="speaker"><strong>发言人2: </strong></span>
-其实它的评价是非常难做的。但是回过头来，如果真正在一年之内，首先这些临床指标和它在一个非常好的研究的设计里面，其实它有足够多的一些常规的指标是能够反映它的基础的这些健康状况的。但是回过头来它反映的特点也是相对有限的。所以更多的对于两方面，我觉得一方面是临床的指标和变化，这个肯定是会作为一个重要的参考的。同时对于这个标尺的可靠性，肯定不能够像雨善提到的，如果他是一个自己把自己切到一个非常窄和非常封闭的体系里面去，那自己做自己的评价肯定是不太行的。它更多的需要同行评议，甚至他是一个已经不管是发表还是公开的一些方法和体系。
-</p>
-<p class="transcript-line">
-<span class="time"><strong>[00:55:51]</strong> </span>
-<span class="speaker"><strong>发言人1: </strong></span>
-我们刚才聊了很多基本原理和怎么去衡量衰老的这一些问题。我们最后的这一些时间再回过来看一看参赛这些团队。我觉得这个在这里很有意思一点。也是最后大家不管你是用了一个什么样的绝技，最后你还是需要通过至少一年的临床实验在人体上，最后来看你的结果的。我也比较好奇，在这一块儿的话，我们对这个机制的了解还是比较有限的。我们有这么多复杂衡量的维度。如果他这一些干预措施真的上了人体，大家会有一些什么样的预测吗？或者说现在产业界大家在做人体的实验上是一个什么样的进展吗？
-</p>
-<p class="transcript-line">
-<span class="time"><strong>[00:56:30]</strong> </span>
-<span class="speaker"><strong>发言人2: </strong></span>
-对我分享几个例子。一个是目前整个研究它还是会以观察性的为主。就像前面荣辉博士其实也给大家提到过，哈佛大学有核定gash f教授在哈佛医院发起的验。它更多的就是为了建立衰老标尺和临床指标的关系，以干预实验为切入点的话，其实往往它会需要在一个具体的适应症。它还是回到了以往的新药的切入点，像干细胞。目前获批的这个药其实是叫急性移植抗宿主病，这个是一个挺长的名字，但是大体上就是移植了造血干细胞之后的一些排异反应和会存在的一些急性的问题。用于这些方向，还有一些比较大的肺纤维化、糖尿病等等一些具体的适应症上观察的终点疾病，就还是会回到疾病的诊断。但是更多的以衰老相关的这些观察，目前其实只有一个临床。
-</p>
-<p class="transcript-line">
-<span class="time"><strong>[00:57:30]</strong> </span>
-<span class="speaker"><strong>发言人2: </strong></span>
-目前在做的一个二甲双胍的对于寿命延长的实验，目前它的推进也是非常艰难。因为我们其实它的主要的研究者，其实是一个也是相当于非常有公信力和学术威望的一个老教授。但是选择了二甲双胍之后，他是一个已经非常成熟的用于治疗糖尿病的药。它的大部分专利都已经过期了，而且现在仿制药或者什么各大药厂都已经非常普遍。选择了这样一个药物的时候，他的观察就可以是比如说我们直接去看寿命的延长。这是我们在现有的临床评价体系里面仅有的以衰老为达标的临床实验。
-</p>
-<p class="transcript-line">
-<span class="time"><strong>[00:58:13]</strong> </span>
-<span class="speaker"><strong>发言人1: </strong></span>
-他这个衰老就是说看这个人活多少岁？他得跟踪多长时间。
-</p>
-<p class="transcript-line">
-<span class="time"><strong>[00:58:17]</strong> </span>
-<span class="speaker"><strong>发言人2: </strong></span>
-对，他的跟踪随访时间是非常长的，就是一定要到了生命终点。他选择的录取，我忘了是六十五还是70，一定是选一个相对比较高龄组的研究组去入组，但是他的观察时间也会非常长。基本的论述就是说其实它在目前围绕着衰老的临床实验里面，其实是以观察性为主。干预性的话通常会选择一些老药新用，包括可能现在还在立的一些雷帕霉素，或者其他熟知的一些药物重新的再利用。我觉得标准或者原则的话，可能更多的还是在干预的安全性上。它需要做非常充分的论证之后，才能够去进行一个有效性的探索。
-</p>
-<p class="transcript-line">
-<span class="time"><strong>[00:59:01]</strong> </span>
-<span class="speaker"><strong>发言人1: </strong></span>
-因为这个比赛的赛制，它不是要有一年的人体的临床验证时间吗？疗法必须要在一年以内就完成，不是说持续的使用。最后比赛的结果是看是不是能在50到80岁的这个人里边逆转寿命10到20年。我就比较好奇，他这个一年的临床实验，他做干预就是在人体上。刚刚听光宇博士介绍，他其实目前来说业界可能没有太多相关的临床研究，当然是有一些在具体的疾病的适应症上，是有一些对这个疗法的研究，对吧？像你刚刚提到间充质干细胞的疗法。但是现在这个比赛从26年开始，可能大家就要逐渐进入一个临床的时期，做一年的研究。它的这个赛制的设计是合理的吗？
-</p>
-<p class="transcript-line">
-<span class="time"><strong>[00:59:43]</strong> </span>
-<span class="speaker"><strong>发言人2: </strong></span>
-我只能说这是目前大家能够想到的，我们能够做的一个比赛的方法。但是如果他能够有比如说17年或者27年的时间，那肯定更好。但是他可能会变成一个非常冗长且也没有关注度，也没有理解的。就是我觉得七年是一个可能在目前能够允许的时间和观察和设计里面最大的妥协了。但是如果在一个青年赛制里面，它的干预窗口就会非常的窄，需要缩短到一年的时间里面。所以不管是前面提到的比较轻量级的饮食运动的干预，还是说比如说我们上一个比较重磅这个疗法，那它对应的干预的时间都是需要锁定在这个时间窗口里的对。
-</p>
-<p class="transcript-line">
-<span class="time"><strong>[01:00:29]</strong> </span>
-<span class="speaker"><strong>发言人1: </strong></span>
-而且你提到一些重磅的疗法，比如说基因的疗法，细胞的治疗，还有包括一些重编程，这个重编程是不是也是基因层面的一些改变，这些它都是直接会在临床实验中上人的。
-</p>
-<p class="transcript-line">
-<span class="time"><strong>[01:00:43]</strong> </span>
-<span class="speaker"><strong>发言人2: </strong></span>
-对，如果他需要参赛的话，我觉得是需要的。我觉得更能在目前的监管体系下能够可行的方法。就是因为本身这些如果他作为一个创新药，它也是需要做对应的动作的。只是比如说我们以干细胞为例，假如它是一个急性移植性抗宿主病，就是它已经获批了这个适应症的这样一个临床实验。那同时它会说我们把它作为一个次要观测指标，是它的免疫力的提升，或者说对于综合免疫的抗衰。这是在现行的框架里面我觉得可行。且估计大部分的干预的团队会去采取的一个方式。就是他本身已经在做一系列的研究，同时他把x press的大赛的这些观测指标作为他的其中一些项去纳入在里面。
-</p>
-<p class="transcript-line">
-<span class="time"><strong>[01:01:33]</strong> </span>
-<span class="speaker"><strong>发言人2: </strong></span>
-但是肯定他立这个题，像雨珊反复提到这个问题，就是我们不太可能去直接说我们要立一个意抗衰的创新药物，或者是创新疗法的开发，这个在大部分的监管体系下是不太行的。当然我也知道可能少数一些重新建立的临床体系里面也有可能去开这个绿灯的。但是像FDA，像我们国家的这个MPA等等比较成熟的健康体系，包括欧洲版，对于框架内还是需要限定适应症且限定目标人群的。
-</p>
-<p class="transcript-line">
-<span class="time"><strong>[01:02:04]</strong> </span>
-<span class="speaker"><strong>发言人1: </strong></span>
-像基因疗法重编程什么，就是这一些真的是科技狠活的这样的一些可能伦理上大家都要打一个问号的。参赛的里边有没有一些公司相对出名的头部的一些案例。咱们从公开信息能了解到，他们打算怎么去做这个实验呢？或者他怎么去验证他这个方法呢？
-</p>
-<p class="transcript-line">
-<span class="time"><strong>[01:02:22]</strong> </span>
-<span class="speaker"><strong>发言人2: </strong></span>
-这里面其实比较有意思的一个问题就是往往在衰老领域，所谓融资规模最大和关注度比较高的，比如说这个auto slap，包括Rachel science，就是这些公司据我所知是没有参加这个express。我觉得很大的一个限制点就在于刚刚雨珊提到这个问题。他们的临床报批的进度和自己的方向是不太能够去适配到现在这个赛制里的，所以他需要更多的时间去跟监管去做沟通，需要去把特定的一些临床实验去做开展和设计。所以他是不太能够把他自己的临床实验的时间表对应到另外一方面。也是确实他们这些公司是比较财大气粗，他一直是资本市场的宠儿。所以他的相对的预算和研发的这个节奏，可能是更在他原先的融资计划和公司设立的支出，就已经有一个既定方向和大体的时间表。
-</p>
-<p class="transcript-line">
-<span class="time"><strong>[01:03:26]</strong> </span>
-<span class="speaker"><strong>发言人1: </strong></span>
-我不知道这个公开信息是不是多，比如说auto slaps他拿到了贝索斯非常高额的一个投资。这个科学团队也有很多说诺贝尔奖。那他们现在到了一个什么样的一个研究程度？他们到底是在做一些什么事情？这个咱们公开资料有一些了解吗？
-</p>
-<p class="transcript-line">
-<span class="time"><strong>[01:03:41]</strong> </span>
-<span class="speaker"><strong>发言人2: </strong></span>
-从auto flap的成立之初，其实我们就一直比较关注。它整个力的方向就叫做细胞重编程。它基于的是当时终端声明在对于干细胞的一些基础的研究里面的原理和认知。在此基础上去对细胞的过程去进行一些改造和逆转，这是它的一个大体上的设立的逻辑和概念。
-</p>
-<p class="transcript-line">
-<span class="time"><strong>[01:04:07]</strong> </span>
-<span class="speaker"><strong>发言人2: </strong></span>
-但是像我们可能有一些比较好的当年的合作者也好，或者是一些在抗衰学术团体里面比较活跃的一些研究者。但是他一旦进入了auto slap这个体系里面之后，其实更多的他的目标和方向就被统一到了auto slap的大方向里面。同时它受信息披露和公司内部的监管体系的要求。他其实很难再像当年，比如说他在一个学术机构或者在其他中科技企业对外的信息披露的这个程度了。包括很多的最初是以基础科学或者是做研究的这批人，他进入这个outfile里面。其实他对外跟学术界的连接，不管是发表了文章也好，还是说学术上去参会，他能够讲的东西都会少很多很多。所以大家一直会觉得auto drive是比较神秘。目前其实能够知道的就是他其实在衰老的干预和评估这两件事情上都会去做相应的布局和研究。但是主题上会围绕着选择的细胞层面，成了这样一个大的主题去推进和展开。
-</p>
-<p class="transcript-line">
-<span class="time"><strong>[01:05:17]</strong> </span>
-<span class="speaker"><strong>发言人1: </strong></span>
-这个细胞重编程怎么理解？它是在干一个什么事情去做这个细胞重编程的。
-</p>
-<p class="transcript-line">
-<span class="time"><strong>[01:05:22]</strong> </span>
-<span class="speaker"><strong>发言人2: </strong></span>
-细胞重编程其实最基础的理解，基因会比较像是基础的基机器遥控调控会比较像机器的开关。所以整个重编程的过程其实就是说它在不改变这些基因的情况下去进行对于细胞命运的改变。就是更多的因为从胚胎发育或者说人的生长的过程中，基因其实都是没有变化的那他怎么样从最初的一个受精卵去发育成一个完全个体，其实是有一套决定于细胞命运或者说和他的对应的调控的过程。在理解的发育的过程中，我们能够通过一定的工具，或者说是给细胞一定的信号和刺激，让它逆转整个这个过程。它能够诱导的多功能干细胞就是这个意思，就是它会把一些高度分化的细胞还是回到树的例子的话，就是接近数的末招的这个例子。它能够回到主干，甚至是回到最初的根部。所以对于细胞重编程这个事情也是类似。就是说他希望是在一个不管是个体还是器官的这个层面，去进行一系列的对于发育和分化的过程中的一些逆转。
-</p>
-<p class="transcript-line">
-<span class="time"><strong>[01:06:35]</strong> </span>
-<span class="speaker"><strong>发言人1: </strong></span>
-对于他的进度咱们有任何的认知吗？
-</p>
-<p class="transcript-line">
-<span class="time"><strong>[01:06:38]</strong> </span>
-<span class="speaker"><strong>发言人2: </strong></span>
-这个其实公开信息就很少了，跟雨山包括咱们听众们能够分享的就是一些坊间的传说。就是说目前其实它的基础研究肯定还是会会围绕着这几位诺奖和比较世界级的科学家的团队去开展。在临床实验上我们一直了解到他会选取一些比较激进的方式。就是希望只要时机成熟，它的不管是细胞层面还是动物层面的这个数据足够好的情况下，能够尽快的推进这个临床。他可能会选择比如说在现在的美国有一些创新性或者是突破性这个疗法的形式去推进。当然由于auto slap它是一个全球的架构，所以它有可能也会选择一些不同的国家和地区去开展它的临床的实验。
-</p>
-<p class="transcript-line">
-<span class="time"><strong>[01:07:25]</strong> </span>
-<span class="speaker"><strong>发言人1: </strong></span>
-细胞重编程的疗法，它有可能做成一个普世的铜质的一个产品，还是说它基本都是要个体化的，基于这一个人去做细胞重编程？
-</p>
-<p class="transcript-line">
-<span class="time"><strong>[01:07:34]</strong> </span>
-<span class="speaker"><strong>发言人2: </strong></span>
-我们目前的理解和认知，其实咱们国家自己也有很多研究细胞编程和重编程机制的科学家。它的标准化其实还是有很大的挑战的。所以我们对这个技术目前的判断就是说它会比较像一些个性化或者突破性的这种疗法。就是它不太能够大规模的应用，甚至变成一个类似于创新药或者生物药的这个形式。它可能更多的还是一些需要在充分的检测监控的环境下去。
-</p>
-<p class="transcript-line">
-<span class="time"><strong>[01:08:06]</strong> </span>
-<span class="speaker"><strong>发言人1: </strong></span>
-进行的疗法。OK回到临床实验，我也比较好奇任慧博士你怎么看？他们现在用一年的时间去做各种各样的，不管是比较生物科技的方式，还是传统的一些综合健康管理什么这种方式。就对于他的实验的设计，荣威博士你这边会有一些什么样的看法吗？
-</p>
-<p class="transcript-line">
-<span class="time"><strong>[01:08:23]</strong> </span>
-<span class="speaker"><strong>发言人3: </strong></span>
-我觉得目前好像这些拆散的团队，他们各有各的强项。要不然你是有很硬核的科技，要不然你就是有很强的临床研究的团队，或者是前期期的临床研究结果。如果你前期的研究比较强，那有可能你能推进成一期的研究。那可能在伦理还有批准这个临床试验的方面就更有一些优势。但是一些其他的团队他可能利用了自己，比如说综合的治疗能力。比如说我看有团队是进行身心干预，或者是利用现有的一些现成已知的疗法，可能不涉及临床治疗。但是他用综合的管理希望能够达到同样的目的。但他的终点如果同样是在一年以内的认知改变，肌肉能力的改变，或者是这些软性的终点的话，我觉得还是有可能去衡量和比较到底他们提出的治疗方案有没有效的。
-</p>
-<p class="transcript-line">
-<span class="time"><strong>[01:09:21]</strong> </span>
-<span class="speaker"><strong>发言人1: </strong></span>
-对于相对硬核的这些方式的话，一年像刚刚仁辉博士讲，他可能更多还是一个一期。比如说安全性的实验，就是他也不一定是能在一年内就立刻的做出结果。但是怎么样能够达到他的获胜目标呢？他最后还是得看是不是能逆转寿命10到20年.
-</p>
-<p class="transcript-line">
-<span class="time"><strong>[01:09:39]</strong> </span>
-<span class="speaker"><strong>发言人3: </strong></span>
-对吧？我觉得是往这个方向在走，但就像刚刚广宇说，首先有一些公认的一些指标，但也因为还没有那么成熟这个评价体系，所以各自也会在自己作用的机制方向上面进行更好的衡量。那他最重要，如果他有自己的对照组的话，那它比它的对照组要好，或者自身前后改变要好。我觉得这些也是一些可以用来帮助我们了解这个疗法有没有效果的一个方法。
-</p>
-<p class="transcript-line">
-<span class="time"><strong>[01:10:10]</strong> </span>
-<span class="speaker"><strong>发言人3: </strong></span>
-但是我觉得刚才广宇还有你讨论的一个点很重要，就是他设立的逆转十年可能更多的是基于表观生物钟或者这个角度来衡量，而不是真的实际寿命之类的。因为它有一个替代终点，所以有可能你能在短的时间去做这样的丈量。而且它的衡量终点不是硬终点，一般都是认知，然后肌肉力量，这些都可能。如果他有对标的表观生物钟或者是器官生物钟的话，那他还是有可能做这样度量的。这个我觉得是可能他相对创新和讨巧的一点。但我仍然觉得这个领域可能是还没有那么成熟。所以现在鼓励各种创新，只要你能出来一些什么，那总对大家是有一些帮助的。在认知上对我这应该。
-</p>
-<p class="transcript-line">
-<span class="time"><strong>[01:11:00]</strong> </span>
-<span class="speaker"><strong>发言人1: </strong></span>
-也是一个挺好的尝试，就相当于是猛力地把大家往前推一把，加速一下抗衰方面的一个研究产业化。
-</p>
-<p class="transcript-line">
-<span class="time"><strong>[01:11:07]</strong> </span>
-<span class="speaker"><strong>发言人3: </strong></span>
-是的，能看得出来点什么。
-</p>
-<p class="transcript-line">
-<span class="time"><strong>[01:11:11]</strong> </span>
-<span class="speaker"><strong>发言人1: </strong></span>
-也想问二位，从业然后临床的角度怎么样去定义衰老的时钟，这还是一个很复杂还在探索的问题。当然我们有很多很多好的一个进展了。我们现在来看的话，整个这个抗衰的产业界，它有没有一些比较共识的方向，还是它现在是在一个什么样进度，它是一个大家都百花齐放，方方面面都探索，这个都刚刚走出来了一点儿，未来还有非常多未知。还是说现在其实慢慢的大家已经开始有一些相对的共识明确的方向。
-</p>
-<p class="transcript-line">
-<span class="time"><strong>[01:11:40]</strong> </span>
-<span class="speaker"><strong>发言人2: </strong></span>
-如果用四个字的话，我觉得可能是殊途同归。大家可能在现在的出发点和切入的方向上会有很大的一些差异。因为从衰老的评估和检测上，不管是技术路线也好，还是大家选择的人群目标，这些其实都会有很大的不同。在干预上的话，那就更五花八门了。就是前面我们提到的强行的二分法也好，或者它把它分为了更细节的一些不同的生物技术和方向在衰老干预上的应用。但是最终的目的和方向可能都是非常一致的。
-</p>
-<p class="transcript-line">
-<span class="time"><strong>[01:12:16]</strong> </span>
-<span class="speaker"><strong>发言人2: </strong></span>
-大家都意识到了目前的医疗体系可能在帮助大家解决疾病的问题上已经做到了很大的成就。而且是使大家的平均的寿命其实有一个很大的延长。但是寿命的比例或者说是不是躺在病床上的时间能够缩短和让他能够有一个更好的健康质量。这个是大家目前希望共同努力的一个方。所以对于不管是做java评估和检测，还是说去用一些不同的方式干预衰老的这个过程。其实最终的目标其实都是希望能够把大家的健康质量，把一个有质量的寿命做一个很好的延长。
-</p>
-<p class="transcript-line">
-<span class="time"><strong>[01:12:58]</strong> </span>
-<span class="speaker"><strong>发言人3: </strong></span>
-我也用四个字来形容。我觉得如果从这次的比赛，参赛者提出的方案或者解决方案以及观察目标来讲，我会觉得在这个领域大家探索是百花齐放。因为首先初中大家都是很好的那有这样一个平台可以各自提出自己的想法，甚至有机会可以展现。有没有可能验证这个临床的效果，肯定是对于大家对这个领域衰老认知会有很大的提升。可能到后面这些各个方向都会各自有发展，就像广宇说殊途同归，可能拼成一张大的地图，我们可能就会更有方向性。
-</p>
-<p class="transcript-line">
-<span class="time"><strong>[01:13:38]</strong> </span>
-<span class="speaker"><strong>发言人1: </strong></span>
-最后也想请二位给大家一些建议。我们现在所知道的，当然我觉得什么基因疗法、细胞疗法，可能受限于技术的成熟度以及他的财富的能力。我觉得可能现在不是一个非常常规的普通的大众可以接触到的一些尝试了。那相对普通人来说，或者是比如说小有一些余力想要去做抗衰提升尝试的这样的一些人来说，有哪一些相对证据比较充足。然后我们也可能看到了一些有效的抗衰的方法。
-</p>
-<p class="transcript-line">
-<span class="time"><strong>[01:14:08]</strong> </span>
-<span class="speaker"><strong>发言人3: </strong></span>
-从最省钱的开始吗？嗯，开玩笑，因为我觉得就像广宇提到我目前的新增的两个标志物，其中就有一个心理社会层面，甚至也包括慢性炎症层面的标志物。其实目前比较省钱，就是大家比较心情好，对吧？因为已经有研究可以证明，心情好的话或者是心态好，慢性炎症的程度就会低。从这个角度肯定是对我们的长寿健康是有好处的。比如说一些在疫情期间可能广泛更为接受和普及的，可能一些冥想，或者是身心健康的锻炼方式，可能也都是更可性更高的那对于广大的群众而言，可能是更为可及的一种让自己延缓衰老的方式。
-</p>
-<p class="transcript-line">
-<span class="time"><strong>[01:14:58]</strong> </span>
-<span class="speaker"><strong>发言人1: </strong></span>
-如果是从5G或者有一点干预性的这种会有什么建议吗？
-</p>
-<p class="transcript-line">
-<span class="time"><strong>[01:15:03]</strong> </span>
-<span class="speaker"><strong>发言人2: </strong></span>
-我觉得首先一个理念，还是说每一个人是自己的健康第一负责人。这个说法其实是非常正确，而且是希望大家都能能够建立这样一个理念，就是了解自己的健康需求，以及说了解自己希望不管是说提升还是改变的一些健康的习惯。这个是对于每一个人最好去践行，而且也是每一小步都会能够带来很多一些积极和正面的影响的一个过程。
-</p>
-<p class="transcript-line">
-<span class="time"><strong>[01:15:33]</strong> </span>
-<span class="speaker"><strong>发言人2: </strong></span>
-具体到一些实操的方面，我们是在器官抗衰的方向上持续的希望去探索。而且目前已经基于我们的认知和理解去提供了一些解决方案。然后很多的形式是以营养补充剂的形式去呈现的。未来更多的方向上来说，我们觉得个性化的干预，也就是在以吃了每个人的健康的情况下去提供针对性的干预方案是一个大的趋势。这里面就包括了营养补充剂以及选取的不管是生活习惯的这个方式，还是去判断一个创新型的抗衰疗法是不是适用于每一个人。这个我觉得都是需要有一系列的检测和评估才能够达到的一个过程。
-</p>
-<p class="transcript-line">
-<span class="time"><strong>[01:16:20]</strong> </span>
-<span class="speaker"><strong>发言人2: </strong></span>
-另外一个大家日常上可以做的，这个也是当时哈佛医学院的抗衰的教授David thinker比较推崇的一个方式。就是适当的去走出一些每个人的这个舒适区。因为对于冷暴露和热暴露，包括一些不同的断食的这个方式，都一定程度上在慢性炎症的方式上是有一定帮助的。通俗一点就是怕冷的可能去适当的有一些在户外的活动，怕热的如果有条件的情况下去考虑桑拿这些方式。这些是一些走出自己舒适区的方式。其实对于整个人的应激的反应，以及说降低综合的慢性炎，是有数据表明是有帮助的。
-</p>
-<p class="transcript-line">
-<span class="time"><strong>[01:17:03]</strong> </span>
-<span class="speaker"><strong>发言人1: </strong></span>
-可能大家都想躺平，这样最舒适。但是其实为了让你活得更长，其实你不能让自己太躺平，对吧？你得经常的挑战一下自己的这个免疫系统。
-</p>
-<p class="transcript-line">
-<span class="time"><strong>[01:17:11]</strong> </span>
-<span class="speaker"><strong>发言人2: </strong></span>
-对，但是还是在自身的这个条件和承受的范围下允许，所以就是了解自己和知道自己的能力范围和舒适的区域的极限在哪里，这个可能是一个关键。
-</p>
-<p class="transcript-line">
-<span class="time"><strong>[01:17:23]</strong> </span>
-<span class="speaker"><strong>发言人1: </strong></span>
-从营养补充剂的角度，因为市面上有非常多各种各样的补充剂，什么NMN、PQQ，广宇博士的角度有没有一些比如说广谱的，大家可能吃起来都会有好处的，还是这个也是可能要分情况，要看具体情况具体分析。
-</p>
-<p class="transcript-line">
-<span class="time"><strong>[01:17:38]</strong> </span>
-<span class="speaker"><strong>发言人2: </strong></span>
-对我觉得可能更多还是因人而异。因为对于每一个成分来说，其实和药物是类似的。但是它好的地方在于说，大部分的这些成分，它可能是一个所谓天然产物的提取物，或者是已经在自然界中已经存在很长时间的一些分子。对于人体的摄入来说，在特定的分子上其实都是有一个安全这样的。这个和药物的思路是一样的，就是抛开剂量去谈功效都是耍流氓。所以更多的就是希望是在每个人对于特定的，不管是营养素还是这些补充剂的需求的情况下，是需要有一个理解和评估的情况下。当然就像药一样，就是每个人会有一个广谱适用于80% 90%人群的大众型的解决方案。但是如果追求有效且安全的这样一个前提下的话，其实可能还是希望去更多的做一些因人而异的调整和适配。
-</p>
-<p class="transcript-line">
-<span class="time"><strong>[01:18:37]</strong> </span>
-<span class="speaker"><strong>发言人1: </strong></span>
-好的，谢谢二位今天的时间。
-</p>
-<p class="transcript-line">
-<span class="time"><strong>[01:18:39]</strong> </span>
-<span class="speaker"><strong>发言人2: </strong></span>
-好。
-</p>
-<p class="transcript-line">
-<span class="time"><strong>[01:18:41]</strong> </span>
-<span class="speaker"><strong>发言人3: </strong></span>
-谢谢。
-</p>
-<p class="transcript-line">
-<span class="time"><strong>[01:18:45]</strong> </span>
-<span class="speaker"><strong>发言人1: </strong></span>
-这就是我们今天的节目。欢迎在小宇宙、苹果播客、spotify还有喜马拉雅、蜻蜓FM、荔枝FM、网易云音乐、QQ音乐上订阅收听我们。如果你是习惯通过视频平台来收听播客，也可以在youtube和B站上搜索硅谷101播客来关注到我们。另外我们音频的部分文字稿会发表在我们的公众号硅谷101上。如果大家感兴趣，欢迎大家持续记得关注我们。我是雨山，感谢大家的收听。
-</p>]]></content:encoded>
-            <pubDate>Mon, 14 Jul 2025 00:00:00 GMT</pubDate>
-            <guid>6874490456583a39b9ef1a07</guid>
         </item>
     </channel>
 </rss>
