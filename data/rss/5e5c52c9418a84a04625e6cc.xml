@@ -4,7 +4,1396 @@
         <title>硅谷101</title>
         <link>https://www.xiaoyuzhoufm.com/podcast/5e5c52c9418a84a04625e6cc</link>
         <description>分享当下最新鲜的技术、知识与思想</description>
-        <lastBuildDate>Fri, 06 Mar 2026 05:02:28 +0800</lastBuildDate>
+        <lastBuildDate>Mon, 16 Mar 2026 01:34:43 +0800</lastBuildDate>
+        <item>
+            <title>E228｜谷歌TPU能撼动英伟达吗？前TPU工程师首次揭秘</title>
+            <link>https://www.xiaoyuzhoufm.com/episode/69b35445dc0cc48a76772b57</link>
+            <description>在AI算力争霸时代，英伟达凭借GPU市值一路狂飙。但如今，它的蛋糕正在被一点点分食——2024年，苹果论文披露Apple Intelligence全部由TPU训练；2025年，Anthropic签下数十亿美元订单，购买TPU训练Claude；近期，Meta与谷歌签署数十亿美元协议，租用TPU跑Llama。
+TPU一直是谷歌低调的“自家武器”，在过去十年里驱动着几乎全部核心产品。直到TPU训练的Gemini 3打了一场漂亮的翻身仗，人们才开始重新审视：这套从搜索推荐系统中长出来的定制芯片，究竟藏着多少秘密？
+本期播客，我们邀请到前谷歌TPU工程师Henry。他在2018年至2024年间深度参与了三代TPU的研发，也见证了大模型时代TPU的关键转型。他将从硬件架构、软件生态、生产供应链三个维度，一层层揭开TPU的神秘面纱。
+我们将深入探讨：TPU与GPU的架构有何根本不同？TPU的产能瓶颈卡在哪里？当谷歌开始向Anthropic、Meta开放TPU，它在软件生态上要迈过哪些坎？如果未来模型的底层范式发生改变，TPU还能押准方向吗？而最关键的问题是：TPU真的有机会撼动英伟达的霸主地位吗？
+【主播】
+泓君，硅谷101创始人，播客主理人
+【嘉宾】
+Henry Zhu，前Google TPU工程师，参与V6/V7/V8 TPU研发
+【你将听到】
+TPU挑战GPU
+03:06 架构对决：GPU像多个大厨，TPU像流水线接力
+06:41 TPU vs GPU：谁在模型训练上更强？
+10:20 TPU产能之困：HBM、封装与良率
+XLA软件黑盒
+14:06 Anthropic为何率先下单百万部署？
+16:01 黑盒优化如何“榨干”硬件性能
+17:47 XLA与CUDA，两种生态之争
+19:53 苹果为什么能成为TPU大客户？
+“大模型客户”
+20:45 Gemini成功背后，TPU做了什么？
+22:34 TPU是如何做MoE优化的？
+23:45 设计难点：如何押中两三年后的算法？
+26:05 TPU的转身：V6开始押注大模型预训练
+28:53 Transformer先发优势带来的旗鼓相当能持续多久？
+32:04 Meta的TPU托管服务：生态逐渐走向兼容
+供应链命门
+36:08 拓扑通信架构如何为TPU打赢数据中心成本战
+38:27 博通（Broadcom）是谁？为什么它如此关键
+42:04 挑战GPU的机会：用户规模越大推理越快
+45:36 V7（Ironwood）之后：Gemini实现100%TPU训练
+48:15 一句话总结TPU优劣势
+TPU十年进化史
+49:49 V1推理芯片试水，V2训练芯片旗舰，V4优化推荐算法
+52:16 V5/V6：进入大模型时代，推出推理专用版本
+56:05 团队演变：软件组话语权越来越重
+新星Groq
+57:14 踩准每一次红利的编译器公司
+59:27 差异化定位：做小规模部署的低延迟优化
+01:01:59 AI算力芯片新战局
+【更正】
+54:20 口误，Groq创始人Jonathan Ross，现为英伟达首席软件架构师
+【延伸阅读】
+《谷歌收获大单：与Anthropic达成数百亿美元合作，部署100万个TPU芯片》
+《不再单押英伟达，Meta斥资数十亿美元租用谷歌TPU》
+【监制】
+泓君
+【剪辑】
+小师 Jacob
+【运营】
+朱婕
+【BGM】
+Virtuoso Violin - Rafael Krux
+Angular Pulse - Guy Copeland
+Top Flow - This Violin
+【在这里找到我们】
+公众号：硅谷101
+收听渠道：Apple Podcast｜Spotify｜小宇宙｜喜马拉雅｜蜻蜓FM｜荔枝FM｜网易云音乐｜QQ音乐
+其他平台：YouTube｜Bilibili 搜索「硅谷101播客」
+联系我们：podcast@sv101.net
+本期节目中嘉宾所表达观点均为其个人看法。
+本期节目不构成任何投资建议，投资有风险，入市需谨慎。
+Special Guest: Henry Zhu.</description>
+            <content:encoded><![CDATA[<h1>转写链接</h1>
+<link>https://tongyi.aliyun.com/efficiency/doc/transcripts/47z39vwkjxzrnedg</link><br>
+<h1>节目摘要</h1>
+<div class="summary">至2025年，TPU（张量处理单元）因其在人工智能领域，特别是在谷歌的搜索引擎、翻译服务和地图应用中的卓越表现，逐渐成为行业新宠。谷歌的GMS3系统凭借TPU登顶AI性能排行榜，显示了TPU的强大计算能力。苹果、Anthropic和Meta等公司也纷纷采用TPU，用于大型模型训练和预训练，这表明TPU正挑战GPU市场垄断。尽管如此，专家指出TPU与GPU各有优势，未来两者可能并存。讨论深入到TPU和GPU在架构、性能和适用场景上的差异，强调了TPU对AI和机器学习领域的贡献及其在行业生态中的潜在影响。</div><br>
+<h1>章节速览</h1>
+<div class="chapters">
+<div class="chapter-item">
+<span class="time"><strong>[00:00:00]</strong> </span>
+<span class="chapter-title"><strong>谷歌TPU：挑战英伟达GPU的神秘武器</strong></span>
+<div class="chapter-summary">2025年，谷歌的TPU在AI领域崭露头角，被多家科技巨头采用，包括苹果、anthropic和meta，用于训练AI模型。这表明在特定条件下，TPU能够挑战英伟达GPU的主导地位。对话深入探讨了TPU的复杂产业链，从软件硬件到代工，揭示了TPU作为谷歌核心AI芯片的重要性及其对AI产业的影响。</div>
+</div>
+<div class="chapter-item">
+<span class="time"><strong>[00:02:19]</strong> </span>
+<span class="chapter-title"><strong>TPU与GPU在大模型预训练中的性能对比</strong></span>
+<div class="chapter-summary">讨论了谷歌TPU与英伟达GPU在架构上的差异，TPU针对机器学习设计，通过流水线作业提高矩阵计算效率，减少数据搬运等待时间，更适合当前计算密集型到内存密集型转变的趋势。而GPU虽并行计算能力强，但在处理大量数据时存在闲置期，导致利用率下降。</div>
+</div>
+<div class="chapter-item">
+<span class="time"><strong>[00:06:41]</strong> </span>
+<span class="chapter-title"><strong>TPU与GPU在模型训练中的性能对比及成本分析</strong></span>
+<div class="chapter-summary">对话讨论了TPU和GPU在模型训练中的优势与区别。TPU通过矩阵计算和高效的软件硬件协同，实现更高的浮点运算效率和内存带宽利用，尤其在大规模预训练模型中表现出更强的性价比。相比之下，GPU虽单卡性能优秀，但在大规模集群训练时，通信效率和成本控制上略逊一筹。</div>
+</div>
+<div class="chapter-item">
+<span class="time"><strong>[00:10:20]</strong> </span>
+<span class="chapter-title"><strong>高性能HBM与TPU产能瓶颈分析</strong></span>
+<div class="chapter-summary">讨论了高性能HBM内存的供应链难题，包括三家垄断厂商的订单获取困难及与TSMC封装产能分配问题。分析了谷歌TPU产能提升的挑战，包括HBM内存供应、TSMC封装产能、良率问题以及与GPU的不同。提及了谷歌与anthropic深度合作下的大订单对市场份额的影响。</div>
+</div>
+<div class="chapter-item">
+<span class="time"><strong>[00:15:37]</strong> </span>
+<span class="chapter-title"><strong>TPU与谷歌软件生态在模型训练中的关键作用</strong></span>
+<div class="chapter-summary">讨论了谷歌的TPU和XLA在模型训练中的优势，以及XLA作为静态编译器如何优化计算和内存管理。提及了anthropic等公司利用谷歌TPU训练模型的情况，以及在遇到XLA相关问题时的解决途径。强调了TPU成本控制和软件优化的重要性，以及TPU对谷歌模型训练效率的显著贡献。</div>
+</div>
+<div class="chapter-item">
+<span class="time"><strong>[00:21:47]</strong> </span>
+<span class="chapter-title"><strong>芯片定制周期与TPU优化MOE技术解析</strong></span>
+<div class="chapter-summary">讨论了芯片定制周期长达2至3年，涵盖设计、验证及量产等阶段。针对TPU在处理MOE模型时的通信瓶颈，V4版本引入3D Tars和OCS光纤交换机，通过软件可编程配置解决跨芯片通信问题，显著提升MOE模型运行效率。</div>
+</div>
+<div class="chapter-item">
+<span class="time"><strong>[00:24:34]</strong> </span>
+<span class="chapter-title"><strong>TPU芯片与Transformer架构的协同发展</strong></span>
+<div class="chapter-summary">对话探讨了谷歌TPU芯片从早期针对推荐系统优化，到后来转向支持大模型预训练的演进过程。强调了TPU在设计上押对了Transformer架构方向，尤其是在GPT模型出现后，TPU通过调整算力需求和优化算法，显著提升了在模型预训练和推理中的性能表现。V6版本开始，TPU分为专门用于训练和推理的版本，体现了谷歌对大模型趋势的前瞻性布局。</div>
+</div>
+<div class="chapter-item">
+<span class="time"><strong>[00:27:55]</strong> </span>
+<span class="chapter-title"><strong>GPU与TPU在AI模型训练中的优势与挑战</strong></span>
+<div class="chapter-summary">讨论了GPU与TPU在AI模型训练中的优劣势，指出GPU因通用性好在模型迭代上更具优势，而TPU在特定架构如MOE上表现突出。担忧未来新模型范式可能影响TPU的适用性，强调GPU快速迭代的能力。对于RL训练，TPU的适用性需进一步观察。</div>
+</div>
+<div class="chapter-item">
+<span class="time"><strong>[00:31:07]</strong> </span>
+<span class="chapter-title"><strong>TPU芯片与AI算法软件生态的优化与合作</strong></span>
+<div class="chapter-summary">讨论了TPU芯片设计的通用性与未来算法适应性，以及谷歌与Meta在软件层面对TPU生态的优化合作。提及了TPU在硬件支持PyTorch和XLA结合上的进展，以及直接使用谷歌云服务可能存在的性能浪费问题。最后，提到了第三方加入高技术壁垒工作的挑战与谷歌工程师的市场需求。</div>
+</div>
+<div class="chapter-item">
+<span class="time"><strong>[00:36:34]</strong> </span>
+<span class="chapter-title"><strong>TPU与GPU在数据中心成本与合作模式的对比</strong></span>
+<div class="chapter-summary">讨论了谷歌TPU相较于GPU在数据中心构建中的成本优势，主要得益于其独特的芯片间直接通信技术和减少的交换机使用，降低了基础设施成本。同时，分析了谷歌与Broken深度合作的定制化解决方案，以及可能面临的议价权挑战，强调了多元化供应商合作的重要性以控制成本。</div>
+</div>
+<div class="chapter-item">
+<span class="time"><strong>[00:39:48]</strong> </span>
+<span class="chapter-title"><strong>谷歌TPU与英伟达GPU竞争分析</strong></span>
+<div class="chapter-summary">对话讨论了谷歌TPU在特定条件下挑战英伟达GPU市场地位的可能性。TPU在大规模部署和固定模型推理方面展现出成本优势，尤其是在云计算环境中。然而，TPU在灵活性和单用户应用方面不如GPU。HBM内存的产能和技术壁垒成为影响TPU竞争力的关键因素。博通在通信和信号连接技术上的角色也被提及，强调了其在芯片生产中的重要性。</div>
+</div>
+<div class="chapter-item">
+<span class="time"><strong>[00:44:06]</strong> </span>
+<span class="chapter-title"><strong>TPU与GPU在AI模型训练与推理中的优劣势对比</strong></span>
+<div class="chapter-summary">讨论了TPU和GPU在AI模型训练与推理中的性能差异，指出TPU在大规模用户场景下成本效益高，但软件生态不成熟，需专业团队调优；GPU则生态成熟，灵活性高。TPU更适合批量处理，而GPU在响应速度和算法适应性上更胜一筹。</div>
+</div>
+<div class="chapter-item">
+<span class="time"><strong>[00:49:48]</strong> </span>
+<span class="chapter-title"><strong>谷歌TPU发展历程与核心人物</strong></span>
+<div class="chapter-summary">对话围绕谷歌TPU的开发历程展开，从针对内部模型加速的初衷，到第一代inference芯片的推出，再到后续各代的迭代优化，尤其是V4、V5、V6版本中对推荐系统、大模型训练及推理市场的适应。核心人物参与了TPU架构设计，解决了软件协同和产能瓶颈，奠定了现代TPU性能基础。</div>
+</div>
+<div class="chapter-item">
+<span class="time"><strong>[00:53:47]</strong> </span>
+<span class="chapter-title"><strong>TPU的发展历程与核心团队作用</strong></span>
+<div class="chapter-summary">对话回顾了TPU从初期研究到成为AI计算关键组件的历程，指出GPU成本问题促使谷歌开发TPU。TPU在阿尔法狗项目中应用，经历了从服务搜索广告到支持大模型的转变。软件团队在TPU生态系统中扮演重要角色，与硬件团队共同推进TPU技术发展，其中软件团队影响力逐渐增强。</div>
+</div>
+<div class="chapter-item">
+<span class="time"><strong>[00:57:14]</strong> </span>
+<span class="chapter-title"><strong>英伟达收购Brock及其在推理芯片领域的独特优势</strong></span>
+<div class="chapter-summary">对话讨论了英伟达收购Brock后，该公司在推理芯片领域的创新与优势，特别是其在低延迟、agent智能体应用方面的表现。Brock通过精准的市场定位，专注于低延迟解决方案，满足了高频交易、实时语音处理等场景需求，与主流大模型推理训练市场形成差异化竞争。</div>
+</div>
+<div class="chapter-item">
+<span class="time"><strong>[01:01:59]</strong> </span>
+<span class="chapter-title"><strong>未来推理芯片市场格局：英伟达GPU与谷歌TPU的竞争与共存</strong></span>
+<div class="chapter-summary">讨论聚焦于未来推理芯片市场的格局，认为尽管英伟达GPU在大模型推理市场占据主导，但随着成本下降，端侧部署需求增加，市场将呈现分层趋势，不同应用场景催生多样化需求。谷歌TPU作为挑战者，其生态构建与软件支持对GPU市场构成影响，未来市场将呈现百花齐放的健康生态，包括通用与定制场景并存，同时强调了供应链和数据中心布局的重要性。</div>
+</div>
+</div><br>
+<h1>问题回顾</h1>
+<div class="qa-item">
+<div class="question"><strong>Q:</strong> 在2025年，谷歌的GMS3登顶AI性能排行榜时，训练它的芯片是什么？TPU在谷歌的产品中扮演了什么角色？</div>
+<div class="answer"><strong>A:</strong> 训练它的不是英伟达的GPU，而是谷歌自己的芯片TPU。TPU驱动了谷歌几乎所有的核心产品，包括搜索、翻译、地图以及阿尔法fold 2等。</div>
+</div>
+<div class="qa-item">
+<div class="question"><strong>Q:</strong> 苹果和Meta等公司在AI训练方面是如何使用TPU的？</div>
+<div class="answer"><strong>A:</strong> 2024年苹果发表论文称其全部使用TPU训练，2025年anthropic用100万颗TPU进行训练，2026年Meta签订了数十亿美元协议租用TPU来跑lama。</div>
+</div>
+<div class="qa-item">
+<div class="question"><strong>Q:</strong> 市场对于AI芯片机会的看法是怎样的？TPU是否能挑战英伟达在GPU的垄断地位？</div>
+<div class="answer"><strong>A:</strong> 过去市场普遍认为推理芯片有机会，但目前谷歌的TPU正在成为英伟达在训练芯片领域的替代方案。在某些限定条件下，TPU完全可以挑战GPU。</div>
+</div>
+<div class="qa-item">
+<div class="question"><strong>Q:</strong> TPU与GPU的主要区别是什么？特别是在预训练方向上。</div>
+<div class="answer"><strong>A:</strong> TPU和GPU架构完全不同，TPU针对机器学习做了定制优化，更注重流水线和局部计算，而GPU采用多线程单一指令架构，适用于大规模并行计算。</div>
+</div>
+<div class="qa-item">
+<div class="question"><strong>Q:</strong> GPU和TPU在模型训练上的优势和缺点是什么？</div>
+<div class="answer"><strong>A:</strong> GPU在预训练阶段由于其架构特点，在等待数据搬运过程中可能会出现闲置期，导致利用率下降；而TPU通过优化内存访问和并行化矩阵计算，提高了效率，更适合大规模集群训练。</div>
+</div>
+<div class="qa-item">
+<div class="question"><strong>Q:</strong> 如果训练同样的模型，使用GPU与谷歌TPU相比，哪个更省钱？</div>
+<div class="answer"><strong>A:</strong> 对于谷歌自家定制的大模型，使用TPU在TCO方面更具优势，性价比更高。</div>
+</div>
+<div class="qa-item">
+<div class="question"><strong>Q:</strong> 当前谷歌TPU的产量情况如何？</div>
+<div class="answer"><strong>A:</strong> TPU的产量正在逐渐爬坡，受限于与TSMC的产能分配、HBM内存供应商的垄断以及良率问题等因素。</div>
+</div>
+<div class="qa-item">
+<div class="question"><strong>Q:</strong> 生产环节是否取决于订单量，以及谷歌与anthropic关于TPU采购的情况如何？</div>
+<div class="answer"><strong>A:</strong> 是的，生产环节确实取决于订单量。Anthropic向谷歌采购了100万块TPU，这是一个相当大的订单量。而且，对于像GB200或H100这样的型号，也可能是以百万到千万级的采购。</div>
+</div>
+<div class="qa-item">
+<div class="question"><strong>Q:</strong> TPU是否正在蚕食市场份额，以及为什么谷歌与meta等其他公司的成本对比存在差异？</div>
+<div class="answer"><strong>A:</strong> 谷歌的TPU正在逐渐蚕食市场份额。主要存在两个原因：首先，SP google与anthropic之间存在深度合作关系，尤其是考虑到anthropic的一些投资方也是谷歌；其次，NSF工程师的技术能力强，能够使用TPU部署自家模型。此外，anr目前拥有谷歌生态的支持，这也是其拿下订单的重要因素之一。</div>
+</div>
+<div class="qa-item">
+<div class="question"><strong>Q:</strong> TPU上的软件生态是否与谷歌整体软件生态相关联？</div>
+<div class="answer"><strong>A:</strong> TPU上搭有一层软件，其中XLA（一种黑盒或秘密调料）是谷歌的重要组成部分。它是一个静态编译器，能够针对已知工作负载进行全局优化，有助于提高TPU的性能和内存管理效率。虽然XLA对开发者来说较为复杂，但anthropic因其团队成员熟悉Google生态体系，所以能够较好地利用TPU进行模型训练。</div>
+</div>
+<div class="qa-item">
+<div class="question"><strong>Q:</strong> 在使用TPU过程中遇到bug时，开发者能否自行解决还是需要找谷歌工程师协助？</div>
+<div class="answer"><strong>A:</strong> 尽管XLA有许多工具帮助开发者调试bug，但它仍是一个黑盒，需要对硬件有深入理解才能更好地分析问题。一旦发现XLA相关bug，通常需要谷歌工程师介入分析和解决。对于外部开发者而言，独立处理这类问题较困难，不像CUDA生态体系那样拥有良好的社区支持和资源。</div>
+</div>
+<div class="qa-item">
+<div class="question"><strong>Q:</strong> 谷歌是否有专门团队支持anthropic使用TPU？</div>
+<div class="answer"><strong>A:</strong> 谷歌有专门的软件团队对接外部客户，包括apple、Midjourney和anthropic等，以处理各种bug和需求问题。其中，苹果是使用谷歌TPU最大的团队之一，这得益于苹果前员工将谷歌TPU生态带到苹果公司。</div>
+</div>
+<div class="qa-item">
+<div class="question"><strong>Q:</strong> 谷歌的germa模型与TPU的关系有多大，算法是否占据决定性因素的一部分？</div>
+<div class="answer"><strong>A:</strong> 谷歌的germa模型与TPU的关系非常密切，算法在决定性因素中占有重要位置。通过优秀的算法结合TPU定制加速器，可以在更短的时间内迭代测试并优化模型，从而提高训练效率。虽然算法很重要，但TPU在加速特定算法方面也发挥了重要作用。</div>
+</div>
+<div class="qa-item">
+<div class="question"><strong>Q:</strong> 定制芯片如TPU的过程是怎样的？大概需要多久时间？</div>
+<div class="answer"><strong>A:</strong> 定制芯片是一个复杂过程，包括预测未来市场和技术需求，设计流程从构思到量产通常需要2年至2年半甚至更长时间。例如，V7或V8版本的TPU芯片的研发始于两年前，并根据模型更新趋势不断调整优化方向。</div>
+</div>
+<div class="qa-item">
+<div class="question"><strong>Q:</strong> 在当前的模型迭代周期中，GPU是否因为其通用性好而在模型迭代速度上超过TPU？</div>
+<div class="answer"><strong>A:</strong> 是的，现在的模型迭代周期非常短，以月为单位，GPU由于其通用性，在模型迭代速度上比TPU更快一些。</div>
+</div>
+<div class="qa-item">
+<div class="question"><strong>Q:</strong> 现在是哪个阶段TPU更快？</div>
+<div class="answer"><strong>A:</strong> 目前v7与GPU black处于旗鼓相当的状态，但具体技术细节无法透露。对于未来TPU在不同工作负载上的表现，尤其是面对可能出现的新架构范式时，其优势可能会受到挑战。</div>
+</div>
+<div class="qa-item">
+<div class="question"><strong>Q:</strong> 如果整个大模型的训练范式变了，会影响TPU的销量吗？</div>
+<div class="answer"><strong>A:</strong> 如果出现了不同于transformer的全新架构，TPU可能不再有目前对GPU的优势。然而，如果只是底层架构如transformer的核心矩阵计算不变，TPU仍会保持一定优势。</div>
+</div>
+<div class="qa-item">
+<div class="question"><strong>Q:</strong> TPU未来是否会持续占优势，包括面对像RL（ Reinforcement Learning）这样的新训练方式的影响？</div>
+<div class="answer"><strong>A:</strong> TPU会通过变得更通用来适应不同的workload，例如处理各种矩阵计算以及稀疏矩阵计算。对于像RL这样的新方法，TPU也会受到影响，但谷歌正在努力让TPU软件层更加灵活，以便更好地支持各种开发者调整和优化模型。</div>
+</div>
+<div class="qa-item">
+<div class="question"><strong>Q:</strong> Google与Meta的合作主要是关于什么？</div>
+<div class="answer"><strong>A:</strong> Google与Meta的合作主要是围绕TPU的使用和托管服务，同时谷歌也在尝试通过像pyTorch这样的软件工具改进对TPU生态系统的支持，让开发者更容易进行研究和开发。</div>
+</div>
+<div class="qa-item">
+<div class="question"><strong>Q:</strong> 如果直接使用谷歌云服务，是否意味着无法充分利用TPU的性能？</div>
+<div class="answer"><strong>A:</strong> 是的，直接使用谷歌云托管服务，用户无法进行底层控制，可能会浪费大约50%到60%的性能发挥空间，尽管支付的费用并不会因此减少。</div>
+</div>
+<div class="qa-item">
+<div class="question"><strong>Q:</strong> 谷歌是否能直接跟HBM供应商（如broken或marvel）议价？</div>
+<div class="answer"><strong>A:</strong> 谷歌主要通过broken这样的中间环节来获取高带宽内存（HBM）的产能，并与TSMC合作争取好的制造成本。broken作为to b业务，会与大客户深度合作和定制，而marvel则可能提供更广泛的解决方案，不针对特定模型做深度定制。</div>
+</div>
+<div class="qa-item">
+<div class="question"><strong>Q:</strong> 在当前技术环境下，谷歌的TPU是否具备挑战英伟达GPU垄断地位的可能性？</div>
+<div class="answer"><strong>A:</strong> 没有绝对答案，但在特定条件下，例如大规模部署且模型相对固定，TPU是可以挑战GPU市场的。其优势在于通过系统级优化能力和软硬件协同，使得在大规模用户同时调用接口的情况下，能够以较低的成本获得良好的吞吐量。</div>
+</div>
+<div class="qa-item">
+<div class="question"><strong>Q:</strong> TPU在推理方面的延迟表现如何？</div>
+<div class="answer"><strong>A:</strong> 官方文档中显示TPU在推理上的延迟表现也是不错的，但前提是需要有足够的用户并发使用，以实现批处理并有效利用其计算密度。如果用户规模较小，单个用户的推理延迟可能会较高。</div>
+</div>
+<div class="qa-item">
+<div class="question"><strong>Q:</strong> 谷歌内部是否所有模型都使用TPU训练？</div>
+<div class="answer"><strong>A:</strong> 谷歌内部大部分模型是使用TPU训练的，但在V7之前，GPU曾作为TPU的备份，因为当时XLA和GX组成的软件生态较为复杂且不稳定，存在较高的出错风险。但现在，随着系统的成熟与稳定，TPU已成为主流训练方式。</div>
+</div>
+<div class="qa-item">
+<div class="question"><strong>Q:</strong> 现在谷歌内部对于TPU的使用情况如何？</div>
+<div class="answer"><strong>A:</strong> 目前，谷歌内部由于大量用户从CPU迁移至TPU，导致硬件需求增加，出现过因请求过多而无法正常使用的情况，但并非硬件卡顿问题。</div>
+</div>
+<div class="qa-item">
+<div class="question"><strong>Q:</strong> 训练芯片和推理芯片哪个数量更多？</div>
+<div class="answer"><strong>A:</strong> 目前，谷歌既有针对训练的独立训练芯片，也有针对推理的独立推理芯片。两者数量对比没有具体数据，但推理芯片的量更大一些。</div>
+</div>
+<div class="qa-item">
+<div class="question"><strong>Q:</strong> TPU与GPU相比，优势和劣势是什么？</div>
+<div class="answer"><strong>A:</strong> TPU的优势在于性能上可以达到甚至超过GPU水平，在数据中心部署上成本更低，推理成本也有所降低。缺点主要体现在软件生态不如GPU成熟易用，对HBM供应链控制较弱，以及如果用户没有专业团队进行调优，其性能可能无法被充分利用，尤其是在云端使用时只能发挥约50%到60%的性能。</div>
+</div>
+<div class="qa-item">
+<div class="question"><strong>Q:</strong> TPU的历史和发展历程是怎样的？</div>
+<div class="answer"><strong>A:</strong> TPU最初是为了加速内部推荐系统中矩阵计算而设计的，第一代仅作为inference芯片。随着发展，第二代芯片加入了训练功能，并且针对谷歌内部如AlphaGo等项目进行了优化。后续版本逐渐增加了稀疏计算单元、针对大模型时代的优化以及针对推荐和ranking算法的特定优化。TPU的发展过程中，软件生态系统的建立和完善也是一个重要部分。</div>
+</div>
+<div class="qa-item">
+<div class="question"><strong>Q:</strong> 第二代和第三代是什么情况？</div>
+<div class="answer"><strong>A:</strong> 第二代和第三代是连续的，第三代是基于前代的发展和改进。</div>
+</div>
+<div class="qa-item">
+<div class="question"><strong>Q:</strong> 大模型是从第六代开始的吗？</div>
+<div class="answer"><strong>A:</strong> 是的，大模型可能从第六代开始，早期版本服务于谷歌的搜索和广告推荐算法，第五代到第六代是一个巨大的方向转变。</div>
+</div>
+<div class="qa-item">
+<div class="question"><strong>Q:</strong> 软件团队是什么时候加入的？</div>
+<div class="answer"><strong>A:</strong> 软件团队从一开始就存在，并且规模已经大大超过硬件团队。</div>
+</div>
+<div class="qa-item">
+<div class="question"><strong>Q:</strong> TPU组的核心人物是谁？</div>
+<div class="answer"><strong>A:</strong> 软件组的核心人物包括Jeff，他在推动TPU的发展中起到重要作用，而硬件组则负责具体落实。</div>
+</div>
+<div class="qa-item">
+<div class="question"><strong>Q:</strong> Brock在谷歌TPU的发展中扮演了什么角色？</div>
+<div class="answer"><strong>A:</strong> Brock在早期对TPU的发展起到了关键的支持和推动作用。</div>
+</div>
+<div class="qa-item">
+<div class="question"><strong>Q:</strong> TPU的发展方向由谁决定？</div>
+<div class="answer"><strong>A:</strong> 下一代TPU的发展方向由DM团队决定，他们负责决策并指导硬件组具体实施。</div>
+</div>
+<div class="qa-item">
+<div class="question"><strong>Q:</strong> Johnnson Rose在被英伟达收购前的情况如何？</div>
+<div class="answer"><strong>A:</strong> Johnnson Rose最初是TPU compile team的一员，带着成熟的TPU编译器经验创建了GROUPE，可理解为一家专注于编译器的公司，芯片主要服务于软件编译器需求。</div>
+</div>
+<div class="qa-item">
+<div class="question"><strong>Q:</strong> 针对inference、ASIC和agent这三次踩准时代红利点，芯片的要求有何不同？</div>
+<div class="answer"><strong>A:</strong> inference阶段因专注于inference而不做training，软件和硬件架构决定了其局限性；ASIC阶段更注重成本控制；agent则针对低延迟需求，尤其适合高频交易、实时语音等场景。</div>
+</div>
+<div class="qa-item">
+<div class="question"><strong>Q:</strong> GROUPE的主要客户群体是什么？</div>
+<div class="answer"><strong>A:</strong> GROUPE的主要客户包括高频交易商、直播应用以及与实时智能体相关的业务。</div>
+</div>
+<div class="qa-item">
+<div class="question"><strong>Q:</strong> 推理芯片市场未来格局是百花齐放还是以GPU为主导？</div>
+<div class="answer"><strong>A:</strong> 随着技术发展和市场需求多元化，推理芯片市场将呈现分层和分应用场景的格局，既有巨头如Google和TPU占据高位，也会有更多玩家进入中间和低端市场，未来是百花齐放的格局。</div>
+</div>
+<h1>节目文稿</h1>
+<p class="transcript-line">
+<span class="time"><strong>[00:00:00]</strong> </span>
+<span class="speaker"><strong>发言人1: </strong></span>
+2025年，当谷歌的GMS3登顶AI性能排行榜的时候，训练它的不是英伟达的GPU，而是谷歌自己的芯片TPU。
+</p>
+<p class="transcript-line">
+<span class="time"><strong>[00:00:09]</strong> </span>
+<span class="speaker"><strong>发言人2: </strong></span>
+从搜索翻译到地图，甚至是阿尔法。
+</p>
+<p class="transcript-line">
+<span class="time"><strong>[00:00:14]</strong> </span>
+<span class="speaker"><strong>发言人1: </strong></span>
+fold 2TPU，它驱动了谷歌几乎所有的核心产品。而如今它正在向整个的AI产业渗透。2024年苹果发表论文，apple intelligence全部使用TPU训练。2025年anthropic拿下100万颗TPU，价值数百亿美元用来训练下一代的cloud。2026年刚开年，meta就签下了数十亿美元的协议，租TPU来跑lama。
+</p>
+<p class="transcript-line">
+<span class="time"><strong>[00:00:43]</strong> </span>
+<span class="speaker"><strong>发言人1: </strong></span>
+过去我们说整个市场都认为未来AI芯片的机会在于推理芯片，英伟达在训练芯片的地位是难以撼动的。但是我们看到现在在越来越多的顶级模型公司中，谷歌的TPU正在成为英伟达的替代方案。觉得现在谷歌的TPU可以挑战英伟达在GPU的垄断地位吗？
+</p>
+<p class="transcript-line">
+<span class="time"><strong>[00:01:05]</strong> </span>
+<span class="speaker"><strong>发言人2: </strong></span>
+在某些限定的条件下，TPU是完全可以挑战GPU的。很多人都在讨论TPU和GPU之间区别，我熟了熟练，未来肯定是两者并存的。
+</p>
+<p class="transcript-line">
+<span class="time"><strong>[00:01:14]</strong> </span>
+<span class="speaker"><strong>发言人1: </strong></span>
+Hello, 大家好，欢迎收看硅谷101，我是红军。今天我们来聊一聊谷歌的秘密武器TPU。今天跟我在一起的是谷歌前TPU的工程师Henry。
+</p>
+<p class="transcript-line">
+<span class="time"><strong>[00:01:30]</strong> </span>
+<span class="speaker"><strong>发言人2: </strong></span>
+Hello Henry你好，hello红军你好。首先给大家自我介绍一下，我的名字叫Henry。很开心硅谷101的邀请，然后我也是你们忠实的听众和粉丝。我之前上一份工作是在谷歌TPU组，然后我们我也深度参与了三代TPU的研发。最近发布的air wood DV七是我做的第二台TPU，V8是我做的最后一代TPU。
+</p>
+<p class="transcript-line">
+<span class="time"><strong>[00:01:51]</strong> </span>
+<span class="speaker"><strong>发言人2: </strong></span>
+在我离职之前，很开心今天能跟大家分享一下我对TPU的一些理解。首先我想说就是TPU是一个上下有产业链，非常复杂的一个产品。所以它是里面牵扯了很多软件硬件，包括代工。所以里面很多很多技术细节是非常复杂的，也是一个非常庞大的一个工业体系。所以我也希望我今天只是根据我的理解去帮助大家更加解惑一下TPU这一层神秘的面纱。
+</p>
+<p class="transcript-line">
+<span class="time"><strong>[00:02:19]</strong> </span>
+<span class="speaker"><strong>发言人1: </strong></span>
+你刚刚提到了你其实参与了V7和V8的开发，然后据我了解这个其实是谷歌的TPU，他们开始去适应大模型的这种预训练。最核心的然后也是最有竞争力的这两代的芯片，也是最新的两代。因为你刚刚提到了它可能涉及到软件硬件，然后包括代工生产。所以今天我觉得我们可以从硬件软件生产环节，每个环节都把它详细的剖析一遍。包括现在谷歌的TPU跟像anthropic，像meta这之间的合作，我们可以看看它是如何影响到整个未来的英伟达的生态的。最开始就是第一个问题，很多人他并不清楚我们说TPU跟英伟达现在的比如说GB200或者H100的GPU它有什么样的不一样。我们可以先简单给听众介绍一下TPU跟GPU它的不同之处，尤其是它在预训练方向的不同之处。
+</p>
+<p class="transcript-line">
+<span class="time"><strong>[00:03:13]</strong> </span>
+<span class="speaker"><strong>发言人2: </strong></span>
+觉得首先TPU和GPU本身它的架构是完全不一样的。然后GPU大家可能更加了解更加多一些。因为它是最开始它是做游戏的显卡，所以它里面会用到一个数据sin t它是一个simply的架构，single instruction multiple threading, 它是一个多线程单一指令的一个架构，所以可以理解成一个厨房里面同时安排着很多很多个大厨，他每个人都有自己独立的思考能力，然后独立去从冰箱里把东西拿出来，然后做完菜最后上菜，他们可以独立完成这样一件事情。所以你安排很多很多大厨的话，这样的并行计算能力就会非常的强对。
+</p>
+<p class="transcript-line">
+<span class="time"><strong>[00:03:53]</strong> </span>
+<span class="speaker"><strong>发言人1: </strong></span>
+这个是GPU。如果我们同样用做菜来比喻TPU的话，你觉得它的流程跟GPU有什么不一样？
+</p>
+<p class="transcript-line">
+<span class="time"><strong>[00:04:00]</strong> </span>
+<span class="speaker"><strong>发言人2: </strong></span>
+TPU和GP最大区别就是TPU是一个针对机器学习的一个加速器。我们知道机器学习任何的算法，包括最开始的CNN到现在的attention，到transformer，到未来的架构，您的核心就是矩阵计算。我们知道矩阵计算这个东西其实非常computer bound，是一个computer intensive的一个工作。
+</p>
+<p class="transcript-line">
+<span class="time"><strong>[00:04:22]</strong> </span>
+<span class="speaker"><strong>发言人2: </strong></span>
+TPU的话就是针对这个体重T3专门做了一个定制的加速器。所以你可以理解成做饭的话，我们是一个流水线，我们知道今天要做哪道菜。然后TP的话相当于是把不用安排那么多的大厨，但是他会把大厨安排在每一个步骤上，会把每一个步骤都告诉你具体做哪个步骤的活。然后你做完之后直接把你做完的，比如说第一个人会从冰箱里把它给取出来。第二个人直接把第一个人做完的部分的中间态的结果做加工传到第三个人。
+</p>
+<p class="transcript-line">
+<span class="time"><strong>[00:04:58]</strong> </span>
+<span class="speaker"><strong>发言人2: </strong></span>
+然后相当于中间每一步骤，你可以理解成是心脏的泵血。当你每蹦一次，它就会把你血液传输到你身体的各个角落。所以这样的话中间它会少很多的调度，少很多的调控。所以这样的话它能保证每一对计算单元的使用率会更高一些。
+</p>
+<p class="transcript-line">
+<span class="time"><strong>[00:05:16]</strong> </span>
+<span class="speaker"><strong>发言人1: </strong></span>
+所以我理解其实就是GPU它是这种有点类似于并行的，就是你每一个环节它是独立运行的，然后TPU它是一场接力赛。在模型的训练上，这两种就是不同的架构，它的各自的优势跟缺点是什么？
+</p>
+<p class="transcript-line">
+<span class="time"><strong>[00:05:36]</strong> </span>
+<span class="speaker"><strong>发言人2: </strong></span>
+我觉得现在预训练，包括后面的influence，我们现在慢慢的从一个计算computer bound变成memory bound。所以我们现在对内存的要求是非常高的。所以CMD它架构它有一个缺陷，就是因为你需要独立的去做这样的计算的任务。所以你有时候会一直在等数据翻译过来的过程当中，你就会有一些闲置的idol period。所以这个过程当中的话，就会导致他的那个矩阵计算的利用率没有那么的高，interior ation rate就会有下降。然后TPU就是根据这个特点，弥补这样一个缺点。
+</p>
+<p class="transcript-line">
+<span class="time"><strong>[00:06:15]</strong> </span>
+<span class="speaker"><strong>发言人2: </strong></span>
+我这么觉得，然后他相当于是啊我们大家可以具体聊一下它的软硬件的一个协同的一个效应。它会保证它是一个满功率下的一个运行。然后它不需要等待数据搬运的过程，它要么利用当地的缓存，把一些提前能搬运过来的数据重复去利用，或者说把我们的带宽跑满。这样我们可以把那个memory realization rate也能达到一个峰值。
+</p>
+<p class="transcript-line">
+<span class="time"><strong>[00:06:41]</strong> </span>
+<span class="speaker"><strong>发言人1: </strong></span>
+所以如果整体上我们用一句话来去做结论的话，你觉得TPU跟GPU他们在这个模型的训练上就是谁更强，然后能优化多少。
+</p>
+<p class="transcript-line">
+<span class="time"><strong>[00:06:54]</strong> </span>
+<span class="speaker"><strong>发言人2: </strong></span>
+我觉得从预训面上来讲的话，目前GPU和TPU最大的区别就是当GPU现在也开始往那个方向去发展。因为GPU一直做一个system level，它是一个大的计算集群，而不是单卡单芯片去做预训练。GPU可能很长一段时间都是单张卡的性能非常的好，但是它没有一个网络。TPU一直是主打一个TPU pod，它是一个有几千张卡的一个协同的一个训练的一个状态。它里面牵扯到了很多通信。我们当然可以继续聊一下ICI就international connect它芯片与芯片的通信和和这个网络我们叫做3d tres一个拓扑的一个网络。它可以让几千张卡芯片在用户的感觉当中是一张卡的芯片。那它中间训练效率是非常高的，这样的话它的成本也是可以打得下来。
+</p>
+<p class="transcript-line">
+<span class="time"><strong>[00:07:44]</strong> </span>
+<span class="speaker"><strong>发言人1: </strong></span>
+因为我我是看新闻报道说谷歌V7的就是你研发的这这套iron wood它的芯片，它在物理参数上已经非常接近这个GB200了。所以它如果在真实的这个工作中，或者我们这样说，我们同样是训练一个gan的模型，同样一代的模型，同样的参数量，那用GPU跟用谷歌的TPU谁更省钱？
+</p>
+<p class="transcript-line">
+<span class="time"><strong>[00:08:11]</strong> </span>
+<span class="speaker"><strong>发言人2: </strong></span>
+对我觉得这很好的问题。我的理解是针对自家定制的大模型，就是谷歌的话就是gi将来如果说谷歌给其他大公司方T大模型公定制的话，我觉得谷歌性价比是更高的。性价比我指的就是它的TCO就told across all ownership，就是它的成本会更加有优势。
+</p>
+<p class="transcript-line">
+<span class="time"><strong>[00:08:34]</strong> </span>
+<span class="speaker"><strong>发言人2: </strong></span>
+当你知道你的workout是什么的时候，你就可以根据你的work code去做一些不管是物理的芯片层面的一些定制，或者说在软件层面去定制。虽然说他可能有点黑盒的感觉，但是就是我知道相当于给出了你所有的assumption，你所有已知条件都确定下来。我觉得TPU在现实生活中，现实条件下它的效率还是TCU都是会比GPU更加强大的。
+</p>
+<p class="transcript-line">
+<span class="time"><strong>[00:09:02]</strong> </span>
+<span class="speaker"><strong>发言人2: </strong></span>
+刚才我也提到这两点，它的realization rate是更好的原因。第一是它的一个flops，它的flops我们指的就是单位时间内他做多少次浮点式运算。所以这样的话，因为TPU它里面主要的架构就是矩阵计算，所以它软件和硬件可以保证它每次每个时间、每个计算单元它都有活在做。我们的软件相当于是帮助硬件说，我不会让你闲下来，每个时间点你都给我做活。但是你具体做什么活是我告诉你的，你不需要去精准的去预测或者怎么样。所以在硬件层面说，我们不会加很多的控制单元。这跟GPU很大的区别就是我们不需要任何的prediction。它prediction那一层level相当于都是在软件层面去实现的对，所以相当于你把硬件变得更蠢了一点，相当于是一个机械式的劳作，软件那边帮你把所有complete都给处理掉。
+</p>
+<p class="transcript-line">
+<span class="time"><strong>[00:09:56]</strong> </span>
+<span class="speaker"><strong>发言人2: </strong></span>
+所以这样的话i would主要有两大的进步。一个进步就是他把他的flops peak flops数值上跟GPU更加接近了。然后另外一个点我觉得非常重要，就是它的memory band with也是有一个巨大的提升。首先它肯定是用了更大的HBM，它保证了一定的带宽。然后更然后第二点就是这个HBM的带宽，它能被软件充分的去利用起来。
+</p>
+<p class="transcript-line">
+<span class="time"><strong>[00:10:20]</strong> </span>
+<span class="speaker"><strong>发言人1: </strong></span>
+更高性能的HBM它现在在市场上就从供应链的环节。
+</p>
+<p class="transcript-line">
+<span class="time"><strong>[00:10:24]</strong> </span>
+<span class="speaker"><strong>发言人2: </strong></span>
+它好找货吗？非常难找。因为HBI的话首先它是一个非常非常有点垄断的一个感觉。一共有三家公司垄断这一个生产，应该是SK hino x3星和micron英格兰一直是HBM最大客户。然后TPU的话一直是相当于是一个一个secondary的一个customer。所以你要跟那三家公司去确定一个订单的话，我觉得是需要一个良性的合作关系。之前的话TPU一直没有办法获得那么好的HBM或者说那么大的订单。
+</p>
+<p class="transcript-line">
+<span class="time"><strong>[00:11:00]</strong> </span>
+<span class="speaker"><strong>发言人1: </strong></span>
+那现在谷歌TPU它的产量是多少？
+</p>
+<p class="transcript-line">
+<span class="time"><strong>[00:11:02]</strong> </span>
+<span class="speaker"><strong>发言人2: </strong></span>
+具体数据我不是非常清楚，但是我觉得也是在一个慢慢的爬坡这个过程当中。谷歌TPUE seven之前的话一直是有一个产能的问题，我觉得也是一个很多因素导致的。因为毕竟e seven之前我们一直没有一个对外的一个生态，所以我们更多的是针对内部的一个deploy和使用。所以我们没有办法和broken TSMT或者刚才所说的那几家HBM的厂商去锁定一个很大的一个订单。因为产能都是提前一年或两年去锁定的。当你没有那么大的客户，我没有那么大的需求的话，就是你临时想去调整是比较困难的一件事情。
+</p>
+<p class="transcript-line">
+<span class="time"><strong>[00:11:41]</strong> </span>
+<span class="speaker"><strong>发言人2: </strong></span>
+然后第二点我觉得就是一个cross就是cos是TSMC的一个capacity，我们可以理解成我们现在的芯片都是跟以前完全不一样，因为我们现在都是做一个core design，我们的HBM内存心片和计算芯片是两块独立的芯片。通过一个2.5d stacking的一个封装，把它封装成一个集成芯片。这个的话TPU google自己做不了，broken也做不了，它只能依赖于TSMC。所以现在三三给你分配多少的产能，你就能一年达成多少产能。
+</p>
+<p class="transcript-line">
+<span class="time"><strong>[00:12:14]</strong> </span>
+<span class="speaker"><strong>发言人1: </strong></span>
+所以TSMC它去分配产能的时候，他也可能会看谷歌它要的量是多少。如果你的量大的话，比如说像英伟达，它的量就比较大。他是不是可能会先去做这个英伟达的量，凭这个订单量说话。对，然后你这个covers是指在它的整个的封装环节的一个部分。就是我们可以把现在产能的瓶颈，如果我们要去整体的总结一下，就是你刚刚提到的covers跟TSMC这块是在封装上的一个产能。然后还有一块就是HBM，它是高带宽的内存供应。然后这个可能也是一个瓶颈，就是有三大垄断巨头去把持。所以主要是产能，主要是这两块，对，卡在这两块上。
+</p>
+<p class="transcript-line">
+<span class="time"><strong>[00:12:56]</strong> </span>
+<span class="speaker"><strong>发言人2: </strong></span>
+对，还有一点就是良率，良率的话就意味着当你GSMC把一个wafer带生产出来之后，它上面这一块wafer上有多少是合格的芯片。因为TPU和TPU它的制造理念是不太一样的。TPU它更多的是主打一个通信，它是主打一个芯片与芯片之间通信。然后这样的话导致它的中间的失败率会比GPU会更高一些。然后一旦失败了，因为它保证整个系统里面每张芯片都是性能大致是一样的。是的，如果有参差不齐的话，它整个system跑起来的效率就不会有那么的高。但GPU可能就不存在太大这样的问题，因为我们都知道GPU有自己阉割的版本，比如H100、A100。所以一旦良率不好的话。
+</p>
+<p class="transcript-line">
+<span class="time"><strong>[00:13:44]</strong> </span>
+<span class="speaker"><strong>发言人1: </strong></span>
+他们是有它可以往下降级。对，但是TPU不可以。但你们也有之前，比如说你现在有V8，然后你有V7，你还有V6，它不可以降级吗？
+</p>
+<p class="transcript-line">
+<span class="time"><strong>[00:13:52]</strong> </span>
+<span class="speaker"><strong>发言人2: </strong></span>
+很难，因为是定制的芯片，价格都会不太一样。对，是对，比较难。不是通用的芯片。所以一旦你良率不行的话，就这一块芯片相当于报废了。所以相当于你产能就没办法一下子提上来。
+</p>
+<p class="transcript-line">
+<span class="time"><strong>[00:14:06]</strong> </span>
+<span class="speaker"><strong>发言人1: </strong></span>
+所以这个是我们刚刚说到的生产环节中的，然后生产环节取决于你的订单的量。因为anthropic它其实是有跟谷歌说，我要采购你100万的TPU，100万应该也是一个很大的订单。英伟达现在它的比如说GB200或者H100这些可能也是一个百万。
+</p>
+<p class="transcript-line">
+<span class="time"><strong>[00:14:29]</strong> </span>
+<span class="speaker"><strong>发言人2: </strong></span>
+级到千万百万千万级。
+</p>
+<p class="transcript-line">
+<span class="time"><strong>[00:14:31]</strong> </span>
+<span class="speaker"><strong>发言人1: </strong></span>
+百万千万级。所以其实我觉得谷歌现在看起来这个TPU已经是在蚕食这一块的市场份额。
+</p>
+<p class="transcript-line">
+<span class="time"><strong>[00:14:38]</strong> </span>
+<span class="speaker"><strong>发言人2: </strong></span>
+对我觉得我觉得TPUGP就很难是同一个维度的去考量或者评价。我觉得s sopp这一个订单确实是挺大的一个订单。我觉得第一有很多个因素。第一我觉得SP google是一个相对于内循环，因为anthropic很多投资方也是google，所以我觉得s topic谷歌是一个深度合作的一关系。相当于如果说是meta或者说其他的公司的话，我不确定它的成本，它的TCO到底是能不能压得下来。
+</p>
+<p class="transcript-line">
+<span class="time"><strong>[00:15:08]</strong> </span>
+<span class="speaker"><strong>发言人2: </strong></span>
+然后第二点的话，我觉得就是NSF它的工程师的技术能力还是非常强的，所以他们能去用TPU来部署他们自己的自家的模型。然后我们早上可以详细聊一下，为什么TPU的部署在一般external third party customer上那么的难。但我觉得anr目前来讲是有这样一个谷歌的生态的。我是我是这么觉得，所以SV拿下这个订单，我觉得也是有很多因素在里面。
+</p>
+<p class="transcript-line">
+<span class="time"><strong>[00:15:37]</strong> </span>
+<span class="speaker"><strong>发言人1: </strong></span>
+那我们就顺着继续讲一下topic可以。它是不是跟谷歌的整个的软件生态有关系？因为我们说在TPU上要搭一层软件。然后我听说过这样一个说法，就是说因为anthropic他们的很多人最开始是在google的，所以他们其实是非常了解TPU上的这一套软件生态的部署的。所以他们可以用TP有去训练模型。
+</p>
+<p class="transcript-line">
+<span class="time"><strong>[00:16:01]</strong> </span>
+<span class="speaker"><strong>发言人2: </strong></span>
+回答这个问题之前，我们可以先简单聊一下XLA。因为我觉得XLA也是google的一个，你可以理解成黑盒，也可以理解成是一个secret sauce。对我觉得XLA和酷大最大区别，XLA是一个静态的一个编译器。然后静态编译器指的就是当你的workload是已知的或者给定的话，它可以在一个全局的report一个system level，它可以把它做一个全局的优化，优化分很多层面。
+</p>
+<p class="transcript-line">
+<span class="time"><strong>[00:16:31]</strong> </span>
+<span class="speaker"><strong>发言人2: </strong></span>
+我知道就是他们会做很多内部的算子融合。比如说你一个可能里面有很多计算，然后还会把一些计算合并到一个计算单元，一个算子。这样的话你能更好的去利用你的那个systole里面的矩阵计算的利用率。然后你中间的中间态结果你不用反复的存进内存，它存出来XLA会帮你自动做这样的优化，然后他还会做很多的一些内存的管理，怎么去更好的去分布你的内存，让他知道TPU怎么喜欢，怎么从内存里面去把书给读出来。这些相当于都是跟硬件架构和一些具体的细节是非常相辅相成的。所以XRV会通过一个黑盒帮你去优化这样的一件事情。但问题就是这个事情你是没办法去很好的去debug和去控制。
+</p>
+<p class="transcript-line">
+<span class="time"><strong>[00:17:19]</strong> </span>
+<span class="speaker"><strong>发言人1: </strong></span>
+对，就开发者他很难去用XL的这套系统，然后就一个是编程语言，他们不会对吧？对他他用的是什么编程语言？
+</p>
+<p class="transcript-line">
+<span class="time"><strong>[00:17:27]</strong> </span>
+<span class="speaker"><strong>发言人2: </strong></span>
+是这样，XLU它它是一个一个编译器，它编译器它上层是python jack和text floor，相当于你的开发者，你可以写任何一样的语言。然后他他通过XIA可以把你转化成TPU的的assembly code，就是TPU的指令。它中间是做一个翻译的工作，翻译加优化。
+</p>
+<p class="transcript-line">
+<span class="time"><strong>[00:17:47]</strong> </span>
+<span class="speaker"><strong>发言人1: </strong></span>
+所以它对应如果对应英伟达的话，对应的就是科大的整个生态体系。对，我们说我们刚刚提到其实antha rope c他们是有工程师去懂XLA的这套体系的。然后anthropic他现在应该已经是用谷歌的TPH train了一些模型，对不对？对，就已经有这样的一些成果了。因为我们知道在GPU去训练模型的过程中，工程师经常会遇到的问题就是说他有一个bug，然后我需要去解决它。然后我需要在它的这个软件的编译器上，比如说酷大的生态上去看看是哪个环节出了问题，然后把它解决掉。那现在如果是用谷歌的TPU出了问题，刚刚你也提到了XLA它是一个黑盒，那要怎么去解决呢？是必须找谷歌的工程师来解决，还是他们自己就可以解决？
+</p>
+<p class="transcript-line">
+<span class="time"><strong>[00:18:36]</strong> </span>
+<span class="speaker"><strong>发言人2: </strong></span>
+你可以理解成XY是黑盒，但是它里面有很多很多的帮助你去第bug的一些工具可以function。但它问题就是你需要对硬件是有一些了解，你才能更好的去分析它。因为它XIA它会把很多算法做融合，然后内存做管理。这样的话它是一个graph，它不是一个单个的计算机，它是一个链条，有一个图表。所以相当于你这样第八起来，它对工程师的要求会更它是可以低bug，但对工程师要求会更高一些。
+</p>
+<p class="transcript-line">
+<span class="time"><strong>[00:19:05]</strong> </span>
+<span class="speaker"><strong>发言人1: </strong></span>
+所以，antha rapier找你们了吗？在训练的过程中。
+</p>
+<p class="transcript-line">
+<span class="time"><strong>[00:19:08]</strong> </span>
+<span class="speaker"><strong>发言人2: </strong></span>
+因为一旦发现XLA的bug，你就必须让google的工程师来去帮忙去分析去解决。如果是真的是个bug需要去解决，就外部的开发者很难独立去处理一个或fix一个bug。不像CUDA的话是有一个很好的生态，你可以去。
+</p>
+<p class="transcript-line">
+<span class="time"><strong>[00:19:24]</strong> </span>
+<span class="speaker"><strong>发言人1: </strong></span>
+对对对，所以你们大概比如说因为有卖一些TPU给anthropic，你们会有多少人的一个工程师团队去支持他们？这个就是项目中遇到的各种bug的问题。
+</p>
+<p class="transcript-line">
+<span class="time"><strong>[00:19:34]</strong> </span>
+<span class="speaker"><strong>发言人2: </strong></span>
+我是做硬件，我们有很多软件组织专门去对接不同的外部的客户。像我们现在可能之前他们是有apple，有啊Midjourney，然后anthropic他们都是会有很多很多的request。就是我我离职之前的话，也听说他们很多人都是非常忙的。
+</p>
+<p class="transcript-line">
+<span class="time"><strong>[00:19:53]</strong> </span>
+<span class="speaker"><strong>发言人1: </strong></span>
+是的，我昨天听说用谷歌的TPU最大的团队其实不是antha a pic。虽然他们下了一个一百订单，之前模型上也有有用过。最大的团队其实是苹果。对，然后苹果是因为庞若明之前在这个google，然后他去苹果的时候，他就是相当于把谷歌的一整套带过去了，然后直接用的这个TPU去训练他们的这个大模型。
+</p>
+<p class="transcript-line">
+<span class="time"><strong>[00:20:17]</strong> </span>
+<span class="speaker"><strong>发言人2: </strong></span>
+我觉得也牵扯到一个软件这样的迁移，就是你要用TP的话，你必须要把原来的一套软件债全部迁移到jack XLA上。如果你不迁移的话，你当然可以去做。它能跑，但你就利用不到TPU那么好的性能和TCO.
+</p>
+<p class="transcript-line">
+<span class="time"><strong>[00:20:34]</strong> </span>
+<span class="speaker"><strong>发言人1: </strong></span>
+就要把它的性能榨干。
+</p>
+<p class="transcript-line">
+<span class="time"><strong>[00:20:36]</strong> </span>
+<span class="speaker"><strong>发言人2: </strong></span>
+对，因为如果现在目前TP它最相比GP它最大的优势就是它它成本控制的很好。相比起芯片，它更多是依赖于软件。
+</p>
+<p class="transcript-line">
+<span class="time"><strong>[00:20:45]</strong> </span>
+<span class="speaker"><strong>发言人1: </strong></span>
+那你觉得google的这个germany它的模型，因为它现在是应该是市场上最好的模型。他的训练出来跟TPU的关系有多大？
+</p>
+<p class="transcript-line">
+<span class="time"><strong>[00:20:55]</strong> </span>
+<span class="speaker"><strong>发言人2: </strong></span>
+我觉得这关系是很大的。
+</p>
+<p class="transcript-line">
+<span class="time"><strong>[00:20:57]</strong> </span>
+<span class="speaker"><strong>发言人1: </strong></span>
+能占决定性因素吗？还是算法其实是占决定性因素的一部分。
+</p>
+<p class="transcript-line">
+<span class="time"><strong>[00:21:01]</strong> </span>
+<span class="speaker"><strong>发言人2: </strong></span>
+算法当然很重要，因为我觉得现在训练，特别是free training，它k pex很大。然后他算法我觉得D麦那边有非常前沿的算法，TPU能帮你制作的一件事情。当你有一个很好的算法之后，然后你提前跟TPS沟通好，我是怎么样的一个算法，我怎么样那个work code，我给你去定制这样的一个加速器。这样的话我能帮助你在一个更短的时间更快的迭代去测试这样一套。但我觉得这是一个很重要的一个事情。如果说你的训练效率很差的话，你需要花更长周期去验证一套算法是否能work。那TB如果能把你的时间打下来之后的话，迭代速度会你就会更快一些。
+</p>
+<p class="transcript-line">
+<span class="time"><strong>[00:21:47]</strong> </span>
+<span class="speaker"><strong>发言人1: </strong></span>
+对，你们定制这样的一个芯片大概要多久？流程？
+</p>
+<p class="transcript-line">
+<span class="time"><strong>[00:21:51]</strong> </span>
+<span class="speaker"><strong>发言人2: </strong></span>
+对我觉得这也是非常这是一个这是一个任何芯片公司的一个痛点。就包括TPU，包括GPU，他们很多的时候都是在预测未来市场的变化，包括预测未来模型的变化。之前知道MOE的话也是很早有这样的一个想法。MOE很长一段时间在TPU和TP上跑的效果都不是特别好。但是后来TPU增加了，或者和软件一起增加针对MOE的优化。那是哪一年？应该是V4V5，V4V5那时候好早。
+</p>
+<p class="transcript-line">
+<span class="time"><strong>[00:22:23]</strong> </span>
+<span class="speaker"><strong>发言人1: </strong></span>
+V4V5应该是在模型面模型初。
+</p>
+<p class="transcript-line">
+<span class="time"><strong>[00:22:27]</strong> </span>
+<span class="speaker"><strong>发言人2: </strong></span>
+端。
+</p>
+<p class="transcript-line">
+<span class="time"><strong>[00:22:27]</strong> </span>
+<span class="speaker"><strong>发言人1: </strong></span>
+出刚刚开始出来的。
+</p>
+<p class="transcript-line">
+<span class="time"><strong>[00:22:29]</strong> </span>
+<span class="speaker"><strong>发言人2: </strong></span>
+是对对。
+</p>
+<p class="transcript-line">
+<span class="time"><strong>[00:22:30]</strong> </span>
+<span class="speaker"><strong>发言人1: </strong></span>
+具体是2022年.
+</p>
+<p class="transcript-line">
+<span class="time"><strong>[00:22:33]</strong> </span>
+<span class="speaker"><strong>发言人2: </strong></span>
+二三年三年。对，那太早了。可以详细介绍一下，为什么之前MOE一直在TPU上跑不起来的原因，就是因为它是一个to detour，相当于你每个TPU的芯片只能跟它的neighbor相邻。TPU芯片做通信，它不是一个o to o的一个communication。这意味着如果说MOE的话，它还要有一个routing的一个一个face。他需要把他的routing给不同的专家，他不同专家分布在不同的芯片上。所以如果说你没有一个auto connection的话，你这样的话中间你就相当于你要找一个朋友。你中间经过很多个环节。对，经过很多这样的话有很多的浪费，很多的拥堵。
+</p>
+<p class="transcript-line">
+<span class="time"><strong>[00:23:13]</strong> </span>
+<span class="speaker"><strong>发言人2: </strong></span>
+然后后来在V4的时候，TPU推出了一个叫做3d tars。它这还用了一个叫做OCS1个光纤的一个交换机。它相当于就是一个software programmable的configure的一个交换机。相当于的话你在一个TPU泡的一个节点，你可以通过软件来更改你想通信的那个TP集群的一个路径。这样的话就相当于一下子把MOE的一个痛点给去解决了。然后之后的话MOE就在TPU上跑起来，效率就会明显比之前高很多。
+</p>
+<p class="transcript-line">
+<span class="time"><strong>[00:23:44]</strong> </span>
+<span class="speaker"><strong>发言人1: </strong></span>
+所以我理解这个迭代是以年来计算的，因为你设计出来了还要量产对吧？对，量产的节奏一般是多久？半年打的下来吗？
+</p>
+<p class="transcript-line">
+<span class="time"><strong>[00:23:54]</strong> </span>
+<span class="speaker"><strong>发言人2: </strong></span>
+打不下来。对打不下来。对我觉得看每家公司的philosophy都不一样。对，像TPU的话一直都是主打说我一定要做一个旗舰的一个training chip或旗舰的influence chip。一直以来都是这样的一个想法，所以说这对快速迭代要求会非常高。因为你每一代芯片都会塞很多很多样的是对的request，然后相当于整个流程当你设计完，然后我们会做验证，然后再交给broken去做通信上面的那些设计，然后在整个package level在做验证，最后交给GSMP。我觉得整个流程最快也要2年到2年半三年。
+</p>
+<p class="transcript-line">
+<span class="time"><strong>[00:24:34]</strong> </span>
+<span class="speaker"><strong>发言人1: </strong></span>
+所以我们今天看到的就是你刚刚提到谷歌已经更新到V7V8V8的这一款了。这一块我理解它在设计上它是两年以前就做了。但是我们说模型的更新，包括模型里面大家核心的这个算法往哪个方向走，最近我觉得基本上是每六个月可能就会变化一次。是的，也就是说你要在两年前去预测是年以后的这个模型它在往哪个方向走。
+</p>
+<p class="transcript-line">
+<span class="time"><strong>[00:25:02]</strong> </span>
+<span class="speaker"><strong>发言人2: </strong></span>
+对押对了吗？目前来讲v seven应该是押对了，这也是为什么可以解释一下为什么之前GPU芯片和GPU的纸面参数上是有一些挺大的距离的。因为之前TPU的主要的workload是内部的一些recommendation和ranking system的算法，所以他可能没有想到GPT出来之后有这样一个大的需求和对算力上一个那么大的一个需求。他针对recommendation rankin是完全不一样的word就它里面我之前我参与也是设计了一道一个模块，叫做SPA core稀疏计算的一个模型。他是专门针对一个recommendation的一个embedding，它这个layer的一个算法做了一个特定的优化。在那个优化里面它没有很稠密的矩阵计算，它更多的是比较稀疏的矩阵计算。所以我们会针对它，我们做了很多算法，所以它牺牲掉一些矩阵的算术的密度。那时候我们发布出来之后，你感觉跟GPU好像比TP更好了一点。
+</p>
+<p class="transcript-line">
+<span class="time"><strong>[00:26:01]</strong> </span>
+<span class="speaker"><strong>发言人1: </strong></span>
+是V几的版本。
+</p>
+<p class="transcript-line">
+<span class="time"><strong>[00:26:02]</strong> </span>
+<span class="speaker"><strong>发言人2: </strong></span>
+那时候应该是V4V5。
+</p>
+<p class="transcript-line">
+<span class="time"><strong>[00:26:05]</strong> </span>
+<span class="speaker"><strong>发言人1: </strong></span>
+对他开始把他所有的这个核心性能往大模型的预训练上调。是哪一代？然后是哪一年？
+</p>
+<p class="transcript-line">
+<span class="time"><strong>[00:26:13]</strong> </span>
+<span class="speaker"><strong>发言人2: </strong></span>
+对，应该就是V.
+</p>
+<p class="transcript-line">
+<span class="time"><strong>[00:26:14]</strong> </span>
+<span class="speaker"><strong>发言人1: </strong></span>
+6版6开始的。
+</p>
+<p class="transcript-line">
+<span class="time"><strong>[00:26:16]</strong> </span>
+<span class="speaker"><strong>发言人2: </strong></span>
+V6开始我记得应该是做了两个版本，一个是专门做训练，一个专门做inference。对，训练和influence其实本质上他们是用的是同一套架构。Influence可以理解成是训练芯片的一套自己。它可以有更小的运算单元，它可以有更小的内存。因为相比于training的话，input它不需要做back propagation反向传播。所以它不需要很多的那种中间台，不需要存储很多的一个副本。
+</p>
+<p class="transcript-line">
+<span class="time"><strong>[00:26:46]</strong> </span>
+<span class="speaker"><strong>发言人1: </strong></span>
+差不多是在也是在。
+</p>
+<p class="transcript-line">
+<span class="time"><strong>[00:26:48]</strong> </span>
+<span class="speaker"><strong>发言人2: </strong></span>
+两年多两三年以前去开始。
+</p>
+<p class="transcript-line">
+<span class="time"><strong>[00:26:50]</strong> </span>
+<span class="speaker"><strong>发言人1: </strong></span>
+调整方向的。其实GPT它是在2020年，他就有一个版本放出来。当时是GPT three，就谷歌那个时候它已经开始就意识到这是一个next big thing。然后他有去做这个芯片上的调整，或者TPU上的调整。
+</p>
+<p class="transcript-line">
+<span class="time"><strong>[00:27:06]</strong> </span>
+<span class="speaker"><strong>发言人2: </strong></span>
+对，其实谷歌很早就开始，因为transformer也是google出来的，谷歌很很早就开始知道transformer这套架构。然后根据这套架构，我们芯片组我们也知道，我们会去做这一套架构的一些去优化。包括attention kernel l，就很早就已经在内部里面。
+</p>
+<p class="transcript-line">
+<span class="time"><strong>[00:27:23]</strong> </span>
+<span class="speaker"><strong>发言人1: </strong></span>
+你知道了你这样说，我突然想起来就是我觉得谷歌的TPU到现在，它能在整个的模型预训练中性能表现非常的优秀。也是因为transformer这套架构是谷歌发明的。然后从TPU的这个诞生开始，他就一直走的是这一条的路径。所以我们其实也可以把TPU理解成一个针对于大模型预训练或者推理的asic这样说是对的吧？
+</p>
+<p class="transcript-line">
+<span class="time"><strong>[00:27:49]</strong> </span>
+<span class="speaker"><strong>发言人2: </strong></span>
+没问题。对对对。
+</p>
+<p class="transcript-line">
+<span class="time"><strong>[00:27:50]</strong> </span>
+<span class="speaker"><strong>发言人1: </strong></span>
+然后你这个asic就一定要压对方向。对他压到了transformer没问题。
+</p>
+<p class="transcript-line">
+<span class="time"><strong>[00:27:55]</strong> </span>
+<span class="speaker"><strong>发言人2: </strong></span>
+对，因为我觉得有点inside the news的感觉，就是我们知道这transfer的大概模型什么价格。比起行业外，我们更早的知道这样的一手信息，更早知道它是怎么样的一个workload。所以我们相当于是有一个先发的优势。但我们的问题就是本质上AC和GPU它就是一个是通用性好一个通用性不好。就是说即使我没有一手的信息，但是你一旦确定这个AC它是没办法去改变的。所以说GPU胜就胜在它。
+</p>
+<p class="transcript-line">
+<span class="time"><strong>[00:28:24]</strong> </span>
+<span class="speaker"><strong>发言人2: </strong></span>
+因为现在的模型迭代周期非常短，都是以月来做单位。是的，所以一旦你的芯片架构固定下来之后，你一旦有一个新的算法上的一个动态的一个改变的话，你在TPU上就很难去实现这样一件事情。即使你有先发优势，但后面的竞争会越来越激烈。这样的话你的先发优势可能也会慢慢被蚕食。我觉得有一个阶段就是GPU因为它通用性好，所以它GPU上去跑模型的迭代速度会比TPU更快一些。
+</p>
+<p class="transcript-line">
+<span class="time"><strong>[00:28:53]</strong> </span>
+<span class="speaker"><strong>发言人1: </strong></span>
+那现在是哪个阶段TPU更快？
+</p>
+<p class="transcript-line">
+<span class="time"><strong>[00:28:56]</strong> </span>
+<span class="speaker"><strong>发言人2: </strong></span>
+目前v seven是感觉跟GPU black是旗鼓相当了。对，但是VI的目前不能透露，但但对，但是技术细节肯定是不能透露。但是我刚刚提到MOE这样一个架构，TPU在物在芯片或通信层面system level它去解决这样一个问题。但是我担忧的一点就是这一套架构它的scalability到底有多强。如果说将来有一个完全不同的一个范式，完全不同的一个模型，然后你没办法在GPU上做这样的去优化。对，然后GPU上可以，因为是的，对，这样的话你定制芯片，因为GPU团队跟GPU是不是一个量级的，你没办法做一个快速的迭代。这样的话你的性能上差距可能就会。被拉大，所以我觉得这个很难去评判。现在我就觉得可能是我对GPU的一个担忧。就是万一将来有一个不同的范式，他他怎么去跟上GPU的部分。
+</p>
+<p class="transcript-line">
+<span class="time"><strong>[00:29:57]</strong> </span>
+<span class="speaker"><strong>发言人1: </strong></span>
+我们刚刚提到了如果整个大模型它的训练范式变了，然后就会影响到整个TPU它的销量。你的这个范式指的是就是有多大的范式调整。我可以举个例子，就比如说如果我们整个以transformer为底层架构的这样的一个范式变了的话，那我理解TPU没用了对吧？
+</p>
+<p class="transcript-line">
+<span class="time"><strong>[00:30:19]</strong> </span>
+<span class="speaker"><strong>发言人2: </strong></span>
+我可以可以这样说，不完全准确，就transformer它核心还是矩阵计算。
+</p>
+<p class="transcript-line">
+<span class="time"><strong>[00:30:25]</strong> </span>
+<span class="speaker"><strong>发言人1: </strong></span>
+对矩阵计算的对矩阵计算的如果这样的一个但这样应该。
+</p>
+<p class="transcript-line">
+<span class="time"><strong>[00:30:29]</strong> </span>
+<span class="speaker"><strong>发言人2: </strong></span>
+不会应该。
+</p>
+<p class="transcript-line">
+<span class="time"><strong>[00:30:30]</strong> </span>
+<span class="speaker"><strong>发言人1: </strong></span>
+不会对应该不会对。但是我们就是说如果出现了类似于不同于transformer的新的架构，那TPU它就不一定有这个GPU它的表现好是如果是在模型层面，就像你刚刚说的，比如说说有一些这种MOE的一些新的方法的微调，但它还是基于整个transformer的这种。你觉得TPU未来他还是会持续的占优势？包括大家现在很热的说，我要用这个RL的方式去做agent的训练，或者去做模型的训练。就是RL对TPU的影响会大吗？
+</p>
+<p class="transcript-line">
+<span class="time"><strong>[00:31:08]</strong> </span>
+<span class="speaker"><strong>发言人2: </strong></span>
+我觉得肯定是会会是不一样的workload，肯定是会有影响。就是我觉得现在TP的一个策略就是把芯片变得更加的通用，我觉得也是在往这样一个方向去发展，相当于它矩阵单元，它可以处理各种workload的矩阵计算。然后它也有专门负责去处理一些稀疏的矩阵计算的一些单元。它可以理解成把很多硬件上的一些计算和内存模块化，来适应将来不同的方式。所以从某种意义上来讲，也是一个像通用性的一些妥协了解。
+</p>
+<p class="transcript-line">
+<span class="time"><strong>[00:31:42]</strong> </span>
+<span class="speaker"><strong>发言人2: </strong></span>
+对我觉得之前以往几代芯片可能设计的没有那么激进的原因也是有一部分的考量。就是如果一旦你设计的非常激进，你可以在加上模型效率可以提升个30%到40%。但万一有变化呢？万一有变化，那你回去的话你就会非常的痛苦。所以我觉得这是一种基于现实的一种compromise。
+</p>
+<p class="transcript-line">
+<span class="time"><strong>[00:32:04]</strong> </span>
+<span class="speaker"><strong>发言人1: </strong></span>
+我觉得然后我们刚刚提到了，就是整个在适应新的算法方向的从设计层面的调整。还有一个我觉得谷歌最近也比较用力的，就是在软件层，让整个的中间的软件能够适应更多的开发者的调整。我最近是看到一条新闻说，google跟meta也有一个这样的TPU的采购协议。然后谷歌向meta提供这种TPU的托管的服务。但是他可能核心想做的就是把拍touch变成这个TPU的一个中间层，类似于像谷歌的酷大生态这样的一个。比如说大家在做编译器的时候，可以用py touch来编译。
+</p>
+<p class="transcript-line">
+<span class="time"><strong>[00:32:45]</strong> </span>
+<span class="speaker"><strong>发言人2: </strong></span>
+我有了解，但是具体的细节还没有没有公开。所有的meta都是用patch ch，这大家应该是众所周知。所以当python刚才我也有提到，它跟TPU的生态其实不是特别的兼容。所以它很难像s sopp那样，它做一个深度的一个对TPU整个软硬件生态的一个使用。目前来讲，我觉得它可能更多是依依托于谷歌云，google cloud提供更多的算力。
+</p>
+<p class="transcript-line">
+<span class="time"><strong>[00:33:12]</strong> </span>
+<span class="speaker"><strong>发言人2: </strong></span>
+因为包括马哈精灵，它其实股价不是那么好的原因也是一个k pass还是太大了。他对特别预训练这一块的成本支出实在是需求非常的大。他已经把市面上所有能买来的算力都都买来了，去做这样一件事情。所以我觉得TPU相当于目前来讲，也是去帮他去outflow的一些他这方面的一些压力。
+</p>
+<p class="transcript-line">
+<span class="time"><strong>[00:33:35]</strong> </span>
+<span class="speaker"><strong>发言人2: </strong></span>
+软件态的话patout ch很早之前就跟TPU，包括菲尔那个团队跟TPU都有接洽。就是说能不能在TP上更好的去支持python，这样的话我们也更好的去做一些research的开发。但目前来讲，我觉得google也是有在去做一些改变了。离职之前也知道有很多组在做PyTorch和XLA的结合。包括在XLA的P上支持很多native的一些patos的一些library，一些并行的library和一些算子。现因为现在拍套一下算子实在太太多了，它可能有好几千个算子。如果你不在硬件上原生的去支持这些算子的话，你的性能表现就会比较差一些。
+</p>
+<p class="transcript-line">
+<span class="time"><strong>[00:34:18]</strong> </span>
+<span class="speaker"><strong>发言人1: </strong></span>
+所以如果大家直接用谷歌云。
+</p>
+<p class="transcript-line">
+<span class="time"><strong>[00:34:21]</strong> </span>
+<span class="speaker"><strong>发言人2: </strong></span>
+这样当然可以。
+</p>
+<p class="transcript-line">
+<span class="time"><strong>[00:34:22]</strong> </span>
+<span class="speaker"><strong>发言人1: </strong></span>
+但是问题是什么问题？
+</p>
+<p class="transcript-line">
+<span class="time"><strong>[00:34:24]</strong> </span>
+<span class="speaker"><strong>发言人2: </strong></span>
+就是直接用谷歌云的话，相当于你把你相当于托管了，你没办法做很多底层的去控制。如果你想去挖掘每一分的性能的话，你从谷歌你就没办法。
+</p>
+<p class="transcript-line">
+<span class="time"><strong>[00:34:35]</strong> </span>
+<span class="speaker"><strong>发言人1: </strong></span>
+去做这样的。
+</p>
+<p class="transcript-line">
+<span class="time"><strong>[00:34:36]</strong> </span>
+<span class="speaker"><strong>发言人2: </strong></span>
+就是会有浪费。
+</p>
+<p class="transcript-line">
+<span class="time"><strong>[00:34:37]</strong> </span>
+<span class="speaker"><strong>发言人1: </strong></span>
+这个浪费大概会在一个多少的百分比，这个很难说多少到多少一个大概的比例。比如说50%它可能是一个非常大的浪费，10%它会稍微小一点。
+</p>
+<p class="transcript-line">
+<span class="time"><strong>[00:34:48]</strong> </span>
+<span class="speaker"><strong>发言人2: </strong></span>
+对，这就是我刚才说到那个model elevation rate。如果说你结合的非常好的话，你能几乎满状态的达到一个peak flows或pek memory band with但是如果你用谷歌语音来跑的话，你很有可能可能用到只有50% 60%它的inflation ation rate。但是你还是要付同样的钱。
+</p>
+<p class="transcript-line">
+<span class="time"><strong>[00:35:06]</strong> </span>
+<span class="speaker"><strong>发言人1: </strong></span>
+对吧？那区别还是挺大的对，所以现在meta跟google的合作，反正我是看新闻报道，我觉得好像是在谷歌的谷歌云上跑。
+</p>
+<p class="transcript-line">
+<span class="time"><strong>[00:35:18]</strong> </span>
+<span class="speaker"><strong>发言人2: </strong></span>
+对吧？对。目前我知道直接购买TPU机架的rag，直接从pro上购买应该只有s topic，其他都还是目前还是谷歌云。
+</p>
+<p class="transcript-line">
+<span class="time"><strong>[00:35:28]</strong> </span>
+<span class="speaker"><strong>发言人1: </strong></span>
+所以你苹果跟me journey也是在谷歌云上跑的。那这样也简单，就从谷歌招工程师，过去人才的流动，所以谷歌的工程师现在应该是还挺吃香的。
+</p>
+<p class="transcript-line">
+<span class="time"><strong>[00:35:41]</strong> </span>
+<span class="speaker"><strong>发言人2: </strong></span>
+对我觉得如果将来有很多更多的第三方加入的话，特别是jack加X这其实是一个非常高技术壁垒的一个工作。所以特别是我觉得如果之前在google有这样的经验的话，肯定能更好的迁移过去。对。
+</p>
+<p class="transcript-line">
+<span class="time"><strong>[00:35:59]</strong> </span>
+<span class="speaker"><strong>发言人1: </strong></span>
+多长时间时间能学会一个工程师。
+</p>
+<p class="transcript-line">
+<span class="time"><strong>[00:36:03]</strong> </span>
+<span class="speaker"><strong>发言人2: </strong></span>
+还是挺难的。对对对，因为你需要了解硬件，也需要软件。了解软件。
+</p>
+<p class="transcript-line">
+<span class="time"><strong>[00:36:08]</strong> </span>
+<span class="speaker"><strong>发言人1: </strong></span>
+它是一个复合技能。对，然后我们看到在今年包括之前前就很多开发者他在调这个大模型的API接口的时候，其实我注意到谷歌的这个API接口的成本，大概最开始是只有OpenAI跟anthropic的10分之1。同时这个anthropic它最近的4.5，它的这个API接口大概是下降了67%。
+</p>
+<p class="transcript-line">
+<span class="time"><strong>[00:36:34]</strong> </span>
+<span class="speaker"><strong>发言人1: </strong></span>
+然后我看有媒体报道，把这一部分的功劳归功于它是用谷歌的这个TPU train的。所以是这两者是直接相关的。可以说在推理成本。
+</p>
+<p class="transcript-line">
+<span class="time"><strong>[00:36:46]</strong> </span>
+<span class="speaker"><strong>发言人2: </strong></span>
+上确实是这样。我觉得google它现在的推理芯片成本确实会比GPU要高不少。它的原因就是刚刚所说，它是一个集群的一个推理，它的TCO就能打得下来。刚才没有提到一点，就是GPU的集群它用的是一种NV link，NV switch这样的一种以通信协议。这个其实很烧钱，它是一个你可以理解成是一种infrastructure的一种tax。所以你需要跟很多不同厂商去买这种交换机，然后部署在你的数据中心当中，这是一个很大的成本开支。
+</p>
+<p class="transcript-line">
+<span class="time"><strong>[00:37:21]</strong> </span>
+<span class="speaker"><strong>发言人2: </strong></span>
+Google因为他用了他不一样的一个拓扑架构，他用了一个是芯片与芯片之间直接通信。他用的是个铜，他不用交换机。然后他只有在某些节点上用一些光学交换机，它也比较少。然后实现了同样的一个通信的一个效果。所以它的一个成本支出上就是会比GPU要好很多。
+</p>
+<p class="transcript-line">
+<span class="time"><strong>[00:37:41]</strong> </span>
+<span class="speaker"><strong>发言人1: </strong></span>
+所以就是我理解在建数据中心的这一环成本。
+</p>
+<p class="transcript-line">
+<span class="time"><strong>[00:37:46]</strong> </span>
+<span class="speaker"><strong>发言人2: </strong></span>
+已经拉开了。
+</p>
+<p class="transcript-line">
+<span class="time"><strong>[00:37:47]</strong> </span>
+<span class="speaker"><strong>发言人1: </strong></span>
+Video的主要成本是交换机。我了解到他们在搭的整个的这个芯片集群里面还要铺很多的铜，是不是他们都是用这种铜的这个线来连接起来的对。那谷歌的主要成本是什么呢？是液冷的。
+</p>
+<p class="transcript-line">
+<span class="time"><strong>[00:38:02]</strong> </span>
+<span class="speaker"><strong>发言人2: </strong></span>
+液冷是某一块，液冷是一块，然后其实跟英伟达也也差不太多，它也主要成本也是它的一些series，它的那个我们会跟broker深度合作一些，这种surd s就相当于是把信号从一个芯片准确无误地传输到另外一个芯片。因为相比GP的话，TPU它更多依赖于surgeons的一个稳定性，所以它的那块资本支出还是很高的。
+</p>
+<p class="transcript-line">
+<span class="time"><strong>[00:38:27]</strong> </span>
+<span class="speaker"><strong>发言人1: </strong></span>
+然后你们跟broken的这个合作会持续多久？还是它是根据量来的。如果量大了。
+</p>
+<p class="transcript-line">
+<span class="time"><strong>[00:38:33]</strong> </span>
+<span class="speaker"><strong>发言人2: </strong></span>
+谷歌可能就对对，因为现在市面上有两家公司跟做这样的代工，一家是broken，另外一家是marvel。然后broken和麻烦最大区别就是它有点像to b它是一个to b的一个business。他就锁定几个最大的客户，然后跟他们做深度的合作和定制。然后麻布的话可能更多的是跟一些中型或者一些start up，他们可能说提供一个埃批的一个solution。它可能不会根据你的模型去深度去定制一些硬件，但它可能会做一个量。然后pro看到它好处就是可以帮它最大的客户去争取最大的产能，就是靠靠TSMC。所以说一直以来TPU都是跟Brown come去做这样一个合作，也是目前我不觉得会有很大的改变但。
+</p>
+<p class="transcript-line">
+<span class="time"><strong>[00:39:20]</strong> </span>
+<span class="speaker"><strong>发言人2: </strong></span>
+这样导致的一个不好的问题就是broken的议价权会越来越大。相当于你在中间TPU能赚的margin也会越来越少。是的，对如果你非常依赖的，然后你没有一个back up的话，其实有点像TP和GP的关系。一直以来TPU是GPU的一个back，也是有有议价权的考量在里面。所以如果你没有一个backup的话，你在成本上就很难控制的下来。所以我觉得这也是将来可以关注的一个点。
+</p>
+<p class="transcript-line">
+<span class="time"><strong>[00:39:48]</strong> </span>
+<span class="speaker"><strong>发言人1: </strong></span>
+所以谷歌它能直接跟covers这一块来议价吗？决定的核心要素是什么？
+</p>
+<p class="transcript-line">
+<span class="time"><strong>[00:39:55]</strong> </span>
+<span class="speaker"><strong>发言人2: </strong></span>
+Covas主要还是那个HBM，就是我们的内存的一个封装。所以这样的话相当于我的理解是broken是一个中间的环节，他会把所有的东西全部帮你铺设好，然后它交给TSMC去量产。所以我觉得第一你需要去拿到一个很高的很好的一个HBM的一个capacity，再通过problem去跟TSMT争取一个好的cause。
+</p>
+<p class="transcript-line">
+<span class="time"><strong>[00:40:19]</strong> </span>
+<span class="speaker"><strong>发言人1: </strong></span>
+我听说现在整个HBM的这个capacity被英伟达垄断了。
+</p>
+<p class="transcript-line">
+<span class="time"><strong>[00:40:23]</strong> </span>
+<span class="speaker"><strong>发言人2: </strong></span>
+基本上是垄断了。对，因为刚才也提到，因为HBM现在我们已经慢慢从compute bound变成memory棒。特别是像现在的attention kino，它其实核心就是一个你怎么样去更快的从内存里把数据给搬运出来。因为它这个KB cash它里面有很多数据的一些搬运。未来几年的方向可能就是HBI能决定了你的上限。如果你还缺，如果你买不到好的HBN的话，那你的听力效率就会会大打折扣。
+</p>
+<p class="transcript-line">
+<span class="time"><strong>[00:40:54]</strong> </span>
+<span class="speaker"><strong>发言人1: </strong></span>
+所以博通的主要核心的作用是在这一块。
+</p>
+<p class="transcript-line">
+<span class="time"><strong>[00:40:57]</strong> </span>
+<span class="speaker"><strong>发言人2: </strong></span>
+博通主要的核心作用它是做很多的通信，就ICI international p connect，然后它会做很多的后端。因为我们芯片的话，我们TPU团队主要设计它的前端。比如说我们相当于是把一张图纸给打印出来，然后broken会把每个芯片与芯片之间物理上去连接起来，然后最后交付给TSMC在物理上去生产出来。所以broken做更多是做一个信号的连接，怎么去布局这样一个拓扑的一个网络。所以看可能是在这一边。
+</p>
+<p class="transcript-line">
+<span class="time"><strong>[00:41:28]</strong> </span>
+<span class="speaker"><strong>发言人1: </strong></span>
+也是挺核心的一个环节。
+</p>
+<p class="transcript-line">
+<span class="time"><strong>[00:41:30]</strong> </span>
+<span class="speaker"><strong>发言人2: </strong></span>
+非常核心，而且是一个技术壁垒非常高的一个环节。因为现在目前一旦信号里面有问题的话，那整个机器就不能用了。所以这是一个你可以理解成脏活累活，但你可以理解成这是一个非常吃经验的，也是技术壁垒非常高的。因为我看他们那边的话，主要是一个复合的一个信号。我们TPU、GPU都是一个数字电路，但那个是一个mix signal，是一个一个模拟电路和数字电路。所以他对他对经验的要求会更高一些。
+</p>
+<p class="transcript-line">
+<span class="time"><strong>[00:42:05]</strong> </span>
+<span class="speaker"><strong>发言人1: </strong></span>
+如果我们用一句话来总结，你觉得现在谷歌的TPU可以挑战英伟达的在GPU的垄断地位吗？或者说至少是我去阻挠一下英伟达在这个市场上绝对的定价权。
+</p>
+<p class="transcript-line">
+<span class="time"><strong>[00:42:19]</strong> </span>
+<span class="speaker"><strong>发言人2: </strong></span>
+没有绝对答案。但我的结论是，在某些限定的条件下，如果一旦满足这些限定条件，我觉得GPU是完全可以挑战GPU的心的。条件就是一个大规模部署，因为TPU它主打就是走量。如果说TPU它其实不太擅长做一件事情，就是他没办法针对一个单用户。比如说做agent它就不太适合，因为它颜值会比较高一些。
+</p>
+<p class="transcript-line">
+<span class="time"><strong>[00:42:43]</strong> </span>
+<span class="speaker"><strong>发言人1: </strong></span>
+是推理芯片也不行是吧？
+</p>
+<p class="transcript-line">
+<span class="time"><strong>[00:42:45]</strong> </span>
+<span class="speaker"><strong>发言人2: </strong></span>
+现在的提升。但是它比起像broke，比起英伟达，它的可塑性就没有那么的强。所以他必须在一个非常大的一个吞吐量下，比如有很多很多用户同时去去调用这个接口，很多很多用户同时去用碱面拿回去GPT，他才能把这个成本给分摊开来，这样的话才能得到一个很好的一个吞吐量。所以在这种情况下大规模部署，然后模型相对比较稳定，它不需要很多的变动。这样的话它的整体的成本就相比GPU有很大的优势。
+</p>
+<p class="transcript-line">
+<span class="time"><strong>[00:43:17]</strong> </span>
+<span class="speaker"><strong>发言人2: </strong></span>
+我的总结就是，当如果你的模型相对比较固定，不需要很多的改变，然后它的形态也是比较静态形态，TPU是非常适合去大规模部署的。就比如说你已经训练好了一套模型，然后你只需要去做inference。TPU它的一个system level的优化能力，软硬件协同能力，能帮助你的这一套模型能把成本控制在一个非常好的一个范围之内。这也是TPU最大的优势。但它有它的前提，就是它必须是一个非常大的用户在用，很多的用户在用，他不太适合去做本地的部署，然后他很适合在云上去用，很适合比如说你加密的x GPT，cloud这种，这种，每天都有millions of users，这样的话他会把成本分摊给每个user。
+</p>
+<p class="transcript-line">
+<span class="time"><strong>[00:44:06]</strong> </span>
+<span class="speaker"><strong>发言人1: </strong></span>
+但如果他去做推理的话，它的延迟会有多少，就是跟普通的这种GPU相关的这些agent来比。
+</p>
+<p class="transcript-line">
+<span class="time"><strong>[00:44:15]</strong> </span>
+<span class="speaker"><strong>发言人2: </strong></span>
+大家可以去看它官方的documentation，它的延迟做的也是非常不错的。但它没有写的就是它需要有一个大用户。当我们内部会有一个batch，就是你可以理解成有多少个curse，多少个request。你如果每一秒你没有很多足够多的用户的话，他TPU没办法软件把它打包成一个很大的一个真计算。然后就很好的去利用这个曲子计算的这个计算密度。所以如果你就你一个用户的话，那你这个成本就会很高了。
+</p>
+<p class="transcript-line">
+<span class="time"><strong>[00:44:45]</strong> </span>
+<span class="speaker"><strong>发言人1: </strong></span>
+就是用户规模数越大，它它反而越快，即使在推理上也是这样。对，如果你是一个非常小的这种创业公司，那大家可以用谷歌的语音接入。然后我跟其他的就是request打包吗？
+</p>
+<p class="transcript-line">
+<span class="time"><strong>[00:44:59]</strong> </span>
+<span class="speaker"><strong>发言人2: </strong></span>
+因为su p它其实有两个性能的指标。一个是吞吐量，就super你市面上比较讨论比较多，就tokers per second，每秒产生多少个tokens。还有另外一个就是我们的尾部延迟，就critical pass那个latency，它可以保证一个非常快的响应速度。然后每一个token之间它的类似性都是非常低延迟的。所以我觉得这一块的话，TPU是不太适合去做这种非常快的响应速度。但他可以适合做就是他每秒产生100 token，但是有些用户可能稍微慢一点点，然后有些用户快一点，他保证一个平均值，这是他能做到的一件事情。
+</p>
+<p class="transcript-line">
+<span class="time"><strong>[00:45:36]</strong> </span>
+<span class="speaker"><strong>发言人1: </strong></span>
+谷歌的jm他是不是所有的模型全部是用TPU训的？但是他也会有加入GPUV7的发布。
+</p>
+<p class="transcript-line">
+<span class="time"><strong>[00:45:44]</strong> </span>
+<span class="speaker"><strong>发言人2: </strong></span>
+它基本上是说100%是用TPU。但是在V7之前，GPU一直是TPU的backup。原因也很简单，XLA加GX是一套非常复杂，也非常不稳定的一套软件生态。他很多人很多时候会容易去报错，一旦报错它的，特别是在pretrail ing它的风险是很大的。但现在我觉得这套系统已经非常steady了也非常成熟了。在之前不成熟的时候，你就需要用GPU来做back up。所以之前一直是GPU和TPU混着混用训练。并不意味着TPU训练效果没有GPU好，只是意味着它的整个system，它的稳定性还没有达到一个非常好的一个状态。
+</p>
+<p class="transcript-line">
+<span class="time"><strong>[00:46:25]</strong> </span>
+<span class="speaker"><strong>发言人1: </strong></span>
+我听说现在谷歌内部的gm就是非常缺TPU，因为我有时候用它模型的时候，他会说这个请求过多，然后就挂了。这应该是没有卡是吧？
+</p>
+<p class="transcript-line">
+<span class="time"><strong>[00:46:37]</strong> </span>
+<span class="speaker"><strong>发言人2: </strong></span>
+对，就是没有卡。
+</p>
+<p class="transcript-line">
+<span class="time"><strong>[00:46:38]</strong> </span>
+<span class="speaker"><strong>发言人1: </strong></span>
+这个持情况会持续多久。
+</p>
+<p class="transcript-line">
+<span class="time"><strong>[00:46:41]</strong> </span>
+<span class="speaker"><strong>发言人2: </strong></span>
+具体不是非常清楚。但是现在可能就是大家一下子，因为我也看到了，大家用户很多都是从家具比较迁移到这面来了。对，要满足这样的很大用户的一个migration的话，其实硬件上需要销售period。
+</p>
+<p class="transcript-line">
+<span class="time"><strong>[00:46:56]</strong> </span>
+<span class="speaker"><strong>发言人1: </strong></span>
+刚刚我们提到了，其实它是有带独立的训练芯片跟独立的推理芯片的。哪个现在的量更。
+</p>
+<p class="transcript-line">
+<span class="time"><strong>[00:47:04]</strong> </span>
+<span class="speaker"><strong>发言人2: </strong></span>
+大对对，是这样。
+</p>
+<p class="transcript-line">
+<span class="time"><strong>[00:47:06]</strong> </span>
+<span class="speaker"><strong>发言人1: </strong></span>
+对我其实如果不说具体数据也没有关系。我其实是想给听众一个大概的印象，就是想让大家看一下这个训练跟推理他们各自的大概的一个比例跟综合情况是怎么样的。
+</p>
+<p class="transcript-line">
+<span class="time"><strong>[00:47:17]</strong> </span>
+<span class="speaker"><strong>发言人2: </strong></span>
+Air 5其实它是一款主要针对inference推理芯片的一个性能上的一个优化的一个芯片。它当然可以做训练。它里面很多的一些核心的黑科技，是针对我们现在当下的一个推理的一个应用的一个市场。所以他比起训练他要求的那些指标，L的更更多是他要保证一个低延迟，保证一个大的吞吐量，保证你的memory band with是足够大的。这样的话你做LM特别带抵扣那个环节，你不会被内存那边卡住。所以说我觉得这也是一种信号，就是说谷歌觉得未来，包括整个市场，我觉得未来对input这个成长的潜力还是非常看好的。但pre training也是非常重要的一个环节。因为google作为少数几家做双铁大模型的公司，他们一直以来他们的philosophy就是我设计一款芯片，首先是要把training做好。
+</p>
+<p class="transcript-line">
+<span class="time"><strong>[00:48:14]</strong> </span>
+<span class="speaker"><strong>发言人1: </strong></span>
+综上我们所有所说的，我试着总结一下这个TPU跟GPU的优势跟劣势。整体来看，现在TPU它在性能上，包括在模型的训练上，如果你用的好的话，你是可以把它跑满的，它可能会达到这个GPU的性能，甚至是比它跑得更好。然后在数据中心的部署上，它是更省成本的，这个是它的一些核心优势。同时就是用了它，你的推理成本可以降低。
+</p>
+<p class="transcript-line">
+<span class="time"><strong>[00:48:43]</strong> </span>
+<span class="speaker"><strong>发言人1: </strong></span>
+它的缺点就是首先我们说在这个软件的生态上，XLA它还是一个比较难入门的这样的一个核心门槛。它没有英伟达的扩大它的这个生态。另外一点就是。他在整个的体量上，包我对这个HBM它的供应链的控制上还是比较弱的。还有一个核心的问题就是说如果大家使用了TPU，但是你内部没有特别懂的人，他还是一个黑盒，就是你没有办法用自己的工程师去把它调优，然后把它的性能跑满。然后如果用谷歌云的话，可能只能跑到50%到60%的性能。在这种情况下，它跟GPU谁的性能更好，现在其实也是一个很难说的话题。所以整体上我们看到这样的一个趋势。然后TPU最大的核心的问题就是说未来如果整个模型它在架构跟算法上有升级，它类似于一款专用的asic芯片，那通用的GPU是更有优势的。但是如果你们的算法赌对了，你们就是有核心优势的。
+</p>
+<p class="transcript-line">
+<span class="time"><strong>[00:49:46]</strong> </span>
+<span class="speaker"><strong>发言人2: </strong></span>
+我的总结准确而且非常精确。
+</p>
+<p class="transcript-line">
+<span class="time"><strong>[00:49:49]</strong> </span>
+<span class="speaker"><strong>发言人1: </strong></span>
+其实我们前面聊了这么多的TPU，就是你要不要跟大家再简单的回溯一下，就是谷歌它是怎么样去发明这个TPU的？它的一个历史是什么？然后谁是中间的核心人物？
+</p>
+<p class="transcript-line">
+<span class="time"><strong>[00:50:01]</strong> </span>
+<span class="speaker"><strong>发言人2: </strong></span>
+我们最开始TPU的话主要是针对内部CN追答模型的一个加速器。然后最开始第一代芯片它只是一款influence芯片。因为刚才我也提到就inference相比train更好做一些，所以inference相当于是一个testing chip，就作为一个入口。我们先把这个它里面的架构相对比较简单，它就是以矩阵计算器加内存，没有其他更多的一些模块。
+</p>
+<p class="transcript-line">
+<span class="time"><strong>[00:50:26]</strong> </span>
+<span class="speaker"><strong>发言人2: </strong></span>
+然后最开始的初衷就是大家发现我们内部有很多的online的recommendation system，但它的influence都是用CPU来做influence。大家都知道CPU是什么样的问题，就是对它的运行效果是非常差的。然后那时候也没办法用GPU，因为今天那时候GPU它还没有加入它的那个矩阵计算单元，所以它更多是一个做显卡，做一个pixel。是的，对，所以那时候没有更好用的芯片，所以谷歌说为什么我们不自己开发一款只做矩阵计算的模型？所以最开始这就是最开始出中应该是jeff dean，包括后来图灵奖的获得者，the person也是深度参与了第一代模型的架构，所以设计出来性能非常的好。
+</p>
+<p class="transcript-line">
+<span class="time"><strong>[00:51:11]</strong> </span>
+<span class="speaker"><strong>发言人2: </strong></span>
+我们有了第二代芯片，第二代芯片它就是一个非常旗舰的做做training做训练的模型。所以包括我们后来知道的alphago o包括palm包括bot包括早期的early transformer，包括后来transformer都是用了这一套架构去做的训练。但那时候有一个比较大的问题，就是那时候我们先有了硬件，但是软件还没有跟上来。对，包括一直在V2、V3、V4的时候，就一直痛点。就可能硬件上理论上我们现在是不错，对，但是具体能部署多少，第一产能跟不上来，第二就是我们软件上协同效应还没有产生。所以一直在在做这样的一个工作，中间，我们也提出了这一个system的一个level的一个TP part的一个拓扑的一个网络。这也是奠定了现代TPU那么好好的性能的一个基础。
+</p>
+<p class="transcript-line">
+<span class="time"><strong>[00:52:01]</strong> </span>
+<span class="speaker"><strong>发言人2: </strong></span>
+然后在第四代的时候，我们又针对recommendation推荐和ranking的一个算法，我们加入了一个Spark稀疏式的计算单元。这也很好的解决谷歌内部的一些推荐的一些workload。所以然后V5V6的话就是开始进入大模型时代了，就进入ChatGPT时代。所以我们那时候就会针对transformer做了很多很多的优化。然后一直到我们中间还推出了一个influence的一个版本。就是因为influence市场需求非常大，直到现在的预期influences.
+</p>
+<p class="transcript-line">
+<span class="time"><strong>[00:52:36]</strong> </span>
+<span class="speaker"><strong>发言人1: </strong></span>
+的版本是从什么时候开始？
+</p>
+<p class="transcript-line">
+<span class="time"><strong>[00:52:38]</strong> </span>
+<span class="speaker"><strong>发言人2: </strong></span>
+应该是VV6。我觉得V6V6对V6对，我觉得那时候在TPU组里工作也挺有意思。最开始那几年其实市场上没有那么大的需求，相当于那时候还没有大模型，没有下GPT，所以我们那时候工作还相对比较轻松一点。因为只是针对自己家的workload，所以感觉就是只要满足内部的需求就可以了。
+</p>
+<p class="transcript-line">
+<span class="time"><strong>[00:53:00]</strong> </span>
+<span class="speaker"><strong>发言人1: </strong></span>
+对你是从哪一年开始在google的？
+</p>
+<p class="transcript-line">
+<span class="time"><strong>[00:53:02]</strong> </span>
+<span class="speaker"><strong>发言人2: </strong></span>
+我是从18年.
+</p>
+<p class="transcript-line">
+<span class="time"><strong>[00:53:04]</strong> </span>
+<span class="speaker"><strong>发言人1: </strong></span>
+18年到2242422。那你基本上是完整的参与了好多代的GPU的开发。
+</p>
+<p class="transcript-line">
+<span class="time"><strong>[00:53:13]</strong> </span>
+<span class="speaker"><strong>发言人2: </strong></span>
+最开始我做的是另外一个project，但我是从第四代的时候加入的。
+</p>
+<p class="transcript-line">
+<span class="time"><strong>[00:53:17]</strong> </span>
+<span class="speaker"><strong>发言人1: </strong></span>
+第四代第五代的时候，核心的几代你基本上都有参与。
+</p>
+<p class="transcript-line">
+<span class="time"><strong>[00:53:21]</strong> </span>
+<span class="speaker"><strong>发言人2: </strong></span>
+对我不能说是核心几代，我只能说就是核心几代。核心的肯定是第一代和第二代，因为他们是奠基者。但后来我是可能经历了从模型快速迭代那个周期，就是你可以可以想象的出，就是最开始大家都在做训练，但一下子现在推理市场一下子变那么火，那我们要不要做另外一个版本的芯片？相当于project一直在是一个非常volatile，一个非常变化非常快的一个状态下。
+</p>
+<p class="transcript-line">
+<span class="time"><strong>[00:53:47]</strong> </span>
+<span class="speaker"><strong>发言人1: </strong></span>
+关于整个TPU它刚刚诞生的时候，还有一些特别好玩的故事。当时jeff dean他是谷歌的首席科学家。然后他其实是在一次整个内部的演示中去演示说深度学习网络他会怎么样去在语音识别上有一个突破性的进展。就是2013年左右的时候，然后那个时候大家其实就发现我们需要的是GPU而不是CPU。后来他们就开始在那不是demo这个事情，就是JoNathan rose现在应该也是rock的一个，他应该是cofounder是吧？
+</p>
+<p class="transcript-line">
+<span class="time"><strong>[00:54:20]</strong> </span>
+<span class="speaker"><strong>发言人2: </strong></span>
+现在已经是英伟达的VP了。
+</p>
+<p class="transcript-line">
+<span class="time"><strong>[00:54:22]</strong> </span>
+<span class="speaker"><strong>发言人1: </strong></span>
+对，现在是英伟达的VP因为英伟达收购了block对他当时就给内部demo的时候，他就是他就放了两页PPT，第一页是这个GPU他真的是工作了，这是好消息。然后第二页就是这是一个坏消息，我们付不起这个钱。对，就是他们当时是算了说对成本就是说如果所有的用户他们给谷歌发三分钟的语音的话，那么当时谷歌的整个的数据中心的成本会就是增加一倍，大概是数百亿美元，是非常大的一个量。这个其实也是他们开始去研究这个TPU的一个起点。
+</p>
+<p class="transcript-line">
+<span class="time"><strong>[00:54:59]</strong> </span>
+<span class="speaker"><strong>发言人1: </strong></span>
+接下来的故事好像就是到了整个1 1516年，就是阿尔法狗击败对围棋冠军李世石的时候。这个时候其实谷歌已经在用TPU了，而且据说在他们的这个AI算法里面是放了四张TPU进去的。应该是第一代、第二代，对不对？
+</p>
+<p class="transcript-line">
+<span class="time"><strong>[00:55:19]</strong> </span>
+<span class="speaker"><strong>发言人2: </strong></span>
+应该第二代或第三代。
+</p>
+<p class="transcript-line">
+<span class="time"><strong>[00:55:21]</strong> </span>
+<span class="speaker"><strong>发言人1: </strong></span>
+第二代跟第三代对。
+</p>
+<p class="transcript-line">
+<span class="time"><strong>[00:55:23]</strong> </span>
+<span class="speaker"><strong>发言人2: </strong></span>
+第一代是不做确定的。
+</p>
+<p class="transcript-line">
+<span class="time"><strong>[00:55:25]</strong> </span>
+<span class="speaker"><strong>发言人1: </strong></span>
+对，比如说刚刚你提到了，其实可能整个大模型出来以后，它是从这个第六代开始的。而且前面它有一些是服务于谷歌的整个的搜索跟广告推荐的这些算法。那第五代到第六代，它相当于是一个巨大的方向上的转变。
+</p>
+<p class="transcript-line">
+<span class="time"><strong>[00:55:43]</strong> </span>
+<span class="speaker"><strong>发言人2: </strong></span>
+对我觉得方向上转变更多的就是你相当于你可以把重心根据LM现实中的workload去做一些调配。其实理论上来讲就是high level上来讲，就是你把你的计算资源要变得更大。是对，因为之前可能没有这样的case，没有这样的word case。
+</p>
+<p class="transcript-line">
+<span class="time"><strong>[00:56:05]</strong> </span>
+<span class="speaker"><strong>发言人1: </strong></span>
+对，软件团队是什么时候加入的？
+</p>
+<p class="transcript-line">
+<span class="time"><strong>[00:56:08]</strong> </span>
+<span class="speaker"><strong>发言人2: </strong></span>
+你说XLA那边吗？对，他们从一开始就有这样的团队在。
+</p>
+<p class="transcript-line">
+<span class="time"><strong>[00:56:13]</strong> </span>
+<span class="speaker"><strong>发言人1: </strong></span>
+对，然后谁是这个TPU组的核心跟灵魂人物？
+</p>
+<p class="transcript-line">
+<span class="time"><strong>[00:56:20]</strong> </span>
+<span class="speaker"><strong>发言人2: </strong></span>
+对，我我我觉得相比现在，我觉得软件团队的规模已经大大超过硬件的规模了。对，因为软件组确实它现在目前这个生态中扮演一个非常重要的一个位置。就是他不仅需要跟内部的人内部的团队打交道，也需要跟外部的人打交道。所以我觉得现在软件组的话语权会更加重一些。
+</p>
+<p class="transcript-line">
+<span class="time"><strong>[00:56:41]</strong> </span>
+<span class="speaker"><strong>发言人1: </strong></span>
+我觉得软件更大众一些。灵魂人物就比如说jeff定在推动这件事情，他他肯定。
+</p>
+<p class="transcript-line">
+<span class="time"><strong>[00:56:48]</strong> </span>
+<span class="speaker"><strong>发言人2: </strong></span>
+是在支持和推动早期。
+</p>
+<p class="transcript-line">
+<span class="time"><strong>[00:56:50]</strong> </span>
+<span class="speaker"><strong>发言人1: </strong></span>
+推动后后期后期。
+</p>
+<p class="transcript-line">
+<span class="time"><strong>[00:56:52]</strong> </span>
+<span class="speaker"><strong>发言人2: </strong></span>
+的话后期我觉得可能我觉得现在肯定是jeff ting。包括DM那边是一个深度的一个你可以理解成一个大脑，他决定的下一代TPU往哪个方向去发展。
+</p>
+<p class="transcript-line">
+<span class="time"><strong>[00:57:05]</strong> </span>
+<span class="speaker"><strong>发言人1: </strong></span>
+对，他们决定方向。
+</p>
+<p class="transcript-line">
+<span class="time"><strong>[00:57:07]</strong> </span>
+<span class="speaker"><strong>发言人2: </strong></span>
+具体的落实是啊落到硬件组。
+</p>
+<p class="transcript-line">
+<span class="time"><strong>[00:57:12]</strong> </span>
+<span class="speaker"><strong>发言人1: </strong></span>
+就是落实是硬件组。
+</p>
+<p class="transcript-line">
+<span class="time"><strong>[00:57:13]</strong> </span>
+<span class="speaker"><strong>发言人2: </strong></span>
+对，硬件组。
+</p>
+<p class="transcript-line">
+<span class="time"><strong>[00:57:14]</strong> </span>
+<span class="speaker"><strong>发言人1: </strong></span>
+我们刚刚其实提到了johnnson rose，我们要不要讲一下brock？因为英伟达其实也是把它收购了。然后他在推理芯片端，我记得他最开始出来的时候，它的整个性能表现，然后包括他说的那些方案，在业界还是让很多人都新的。
+</p>
+<p class="transcript-line">
+<span class="time"><strong>[00:57:29]</strong> </span>
+<span class="speaker"><strong>发言人2: </strong></span>
+对对对，我觉得我当初也跟他们内部团队人也聊过，然后目前他们被英伟达收购，也是踩准了每一个时代的红利，踩准了每一个很好的时间点。第一个时间点就是influence，然后第二时间点是asic第三时间点就是今年是AG的元年，相当于有很多智能体的爆发。然后gross最好的一个应用case就是agent智能体。因为agent智能体的话它对延迟的要求是非常高的。如果说你的延迟做的很差的话，你整个帮你去做这一个任务的一个链条就会被拉到无限长。这是对于单用户来讲的话是一个非常痛苦的一件事情。所以group就是能很好的去解决或者说解决这样的一个问题。
+</p>
+<p class="transcript-line">
+<span class="time"><strong>[00:58:12]</strong> </span>
+<span class="speaker"><strong>发言人2: </strong></span>
+Group的芯片。因为Johnson rose最开始是TPU的compile team，他是TPU compiler那边的一个类似于founder，就相当于他是带着一套他非常成熟的TPU的那个compile XLA的一些经验去开放了grove。所以group你也可以理解成是它是一家compiler的公司，而不是一家芯片公司。因为它的芯片更多是为它的软件compiler服务的，它的硬件可能比TQ更加的单一，或者说没那么的智能一些。他compiler在某种程度上决定了一切，他LPU里面每个时间点，每个计算单元里面去做哪些事情，它可以精准到每一个cycle，都是用compiled去确定好的一个非常确定性非常高的一个事情。
+</p>
+<p class="transcript-line">
+<span class="time"><strong>[00:58:58]</strong> </span>
+<span class="speaker"><strong>发言人1: </strong></span>
+你刚刚提到他们精准踩到了每一个有时代的红利点。第一轮是inference，第二轮是asic第三轮是agent这三个时间点对芯片的要求有什么不一样吗？
+</p>
+<p class="transcript-line">
+<span class="time"><strong>[00:59:12]</strong> </span>
+<span class="speaker"><strong>发言人2: </strong></span>
+Influence的话，就是因为growth最开始它就主做influence，他不做training，它的软件和硬件的架构决定了它做不了training。第二个asic的话就相当于asic它的成本更加可控一些。
+</p>
+<p class="transcript-line">
+<span class="time"><strong>[00:59:27]</strong> </span>
+<span class="speaker"><strong>发言人1: </strong></span>
+它是针对哪个方向的asic.
+</p>
+<p class="transcript-line">
+<span class="time"><strong>[00:59:30]</strong> </span>
+<span class="speaker"><strong>发言人2: </strong></span>
+它是针对低延迟。
+</p>
+<p class="transcript-line">
+<span class="time"><strong>[00:59:31]</strong> </span>
+<span class="speaker"><strong>发言人1: </strong></span>
+的A主要是做低延迟，所以现在agent它我可以理解，比如说现在我们用agent觉得延迟很低了，它还是有硬件层面的提升的。对对对。
+</p>
+<p class="transcript-line">
+<span class="time"><strong>[00:59:40]</strong> </span>
+<span class="speaker"><strong>发言人2: </strong></span>
+这就是我刚才讨论的吞吐量的问题。谷歌的的它的TCU比较好的原因就是你有很多海量的客户同时去用这样一个influence服务，它的吞吐量就会很高。但他不在乎它的尾部不延时。而不延迟指的就是你单用户用的话，他可能会有时候会快的，有时候会慢一点，但相信大家也都会有这样的用户体验。但是group你一旦去用的话，它就会非常快。它的原理就是因为它第一是它的SM，它第二就是它是一个相当于你一个人他占用了非常多的LPU的资源，而不是跟很多人去共享它就这样一套逻辑。
+</p>
+<p class="transcript-line">
+<span class="time"><strong>[01:00:20]</strong> </span>
+<span class="speaker"><strong>发言人1: </strong></span>
+Agent跟asic的区别又是什么？我们在讲升到第三个逻辑A当然。
+</p>
+<p class="transcript-line">
+<span class="time"><strong>[01:00:25]</strong> </span>
+<span class="speaker"><strong>发言人2: </strong></span>
+跟asic没有它很多的关联，但agent的主要就是grow的一个非常适合growth服务的一个场景。
+</p>
+<p class="transcript-line">
+<span class="time"><strong>[01:00:31]</strong> </span>
+<span class="speaker"><strong>发言人1: </strong></span>
+这是它是服务的。
+</p>
+<p class="transcript-line">
+<span class="time"><strong>[01:00:32]</strong> </span>
+<span class="speaker"><strong>发言人2: </strong></span>
+grow服务适合growth服务的场景。第一个是agent，第二个是real time的一些voice。然后还有一些高频的一些交易，他对颜值要求会更高一些。
+</p>
+<p class="transcript-line">
+<span class="time"><strong>[01:00:44]</strong> </span>
+<span class="speaker"><strong>发言人1: </strong></span>
+所以现在rock他的客户主要是以哪些客户为主？比如说像你刚刚提到的高频交易商，然后还有直播对吧？或者说跟大模型相关的这种实时的直播。
+</p>
+<p class="transcript-line">
+<span class="time"><strong>[01:00:56]</strong> </span>
+<span class="speaker"><strong>发言人2: </strong></span>
+大家可以去google一下grog最这一年他跟哪些人，哪些哪些厂家签了订单。一个他跟中东的一个数据中心，然后另外还有一个IBM，它相当于是一个当地部署的一个计算机群，它只针对本地人去用，相当于在你家搭了一个局域网的感觉，一个私有的一个云，然后你用起来会非常性能非常高。
+</p>
+<p class="transcript-line">
+<span class="time"><strong>[01:01:24]</strong> </span>
+<span class="speaker"><strong>发言人1: </strong></span>
+所以他卖的是什么？就是你刚刚提到他是跟IBM签这种数据中心的合同。我开始以为他是卖给agent的，他是卖芯片或者解决方案给这些agent的创业公司的。但是他现在看起来他是在往这个上游去卖。
+</p>
+<p class="transcript-line">
+<span class="time"><strong>[01:01:40]</strong> </span>
+<span class="speaker"><strong>发言人2: </strong></span>
+具体细节我不是非常清楚，但是我觉得它就是主打一个市场的差异化。就现在主流的市场都是做这种大模大模型的推理和训练。他可能就是针对一些小的规模部署的一些计算机群，做这样的一个低颜值的一个性能的优化。
+</p>
+<p class="transcript-line">
+<span class="time"><strong>[01:01:59]</strong> </span>
+<span class="speaker"><strong>发言人1: </strong></span>
+你觉得未来在整个agent的应用中，推理芯片它是会是一个百花齐放的格局，还是说它依然是以英伟达的GPU为主导的。
+</p>
+<p class="transcript-line">
+<span class="time"><strong>[01:02:10]</strong> </span>
+<span class="speaker"><strong>发言人2: </strong></span>
+我觉得自从去年dept出来之后，大家他发现在推理端，如果你成本下来之后，打下来之后的话，端侧然后本地的部署它的推理的需求是非常大的。所以这样的话我觉得就是有很多不同layers的的市场和不同layers的对的指标的需求。当然google和TPU肯定会占据最高层，就是最大规模。那些部署的包括云，包括那些大模型的推理。然后中间和下面的一层的话，我觉得会有更多的玩家和更多的参与者进来。然后这样的话相当于growth这块芯片，其实它如果是一个非常大参数量的模型的话，它其实成本是挺高的。我觉得对如果说是一个小规模部署的话，它成本是可以控制的。
+</p>
+<p class="transcript-line">
+<span class="time"><strong>[01:02:59]</strong> </span>
+<span class="speaker"><strong>发言人1: </strong></span>
+所以他未来整个芯片市场在推理端也会分层，然后分应用场景。对对对，可能最大量的需求还是这些大的巨头。
+</p>
+<p class="transcript-line">
+<span class="time"><strong>[01:03:08]</strong> </span>
+<span class="speaker"><strong>发言人2: </strong></span>
+可能就是相当于你要是做做start up创业公司的话，你没办法说我要做下一家英伟达，你基本上做不到。因为他已经护城河实在太深太深了，你只能做一些尾端的一些客户。很多人都在讨论TP和GPU之间区别，我孰有孰劣。但我觉得未来肯定是两者并存的，包括现在所有很多大厂都在自研自己家的芯片，不管是推理还是训练，我觉得你不能说DPU将来会一统江山和TPU会一统江山。我觉得这个生态我觉得是一个非常健康的生态。有定制的环节也有通用的环节，有通用场景也有定制的场景，也有垂类的场景。所以我觉得将来的话是百花齐放的一个格局。所以一旦产能各方面供应链都解决问题之后，我觉得对用户来讲都是一件好事情。我觉得这一一下子把成本下来之后的话，你能做的事情就有无限的可能。
+</p>
+<p class="transcript-line">
+<span class="time"><strong>[01:04:05]</strong> </span>
+<span class="speaker"><strong>发言人1: </strong></span>
+大家都需要有一个人能出来打破垄断。
+</p>
+<p class="transcript-line">
+<span class="time"><strong>[01:04:09]</strong> </span>
+<span class="speaker"><strong>发言人2: </strong></span>
+对我觉得目前TPU可能是一个很好的一个挑战者，是对的。然后我们看一下他这个生态到底能布局到什么样的一个阶段。如果他能把一个软件生态也像gooda一样搭起来的话，我觉得对gooda和GPU也是一件好事情。也能我觉得需要同行的激励和鞭策。
+</p>
+<p class="transcript-line">
+<span class="time"><strong>[01:04:27]</strong> </span>
+<span class="speaker"><strong>发言人1: </strong></span>
+而且我觉得其实今天这个话题可能有很多坊的人都会关注。比如说从华尔街的视角，他们会非常关注未来整个谷歌的TPU，它能抢走英伟达多少的市场份额。这绝对是他们来去计算估值的这样的一个非常重要的点对对。同时我觉得对很多的这种大模型厂商来说，其实像不仅仅是我们刚刚提到的antha rope c跟meta，我看像XAI甚至是OpenAI都表达出说未来可能会跟谷歌去进行TPU的合作。我觉得从模型厂，这可能也是他们怎么样去提高自己的模型的能力，同时降低自己数据中心的成本的一个非常重要的决策。
+</p>
+<p class="transcript-line">
+<span class="time"><strong>[01:05:08]</strong> </span>
+<span class="speaker"><strong>发言人1: </strong></span>
+我们再往下就是细到这个TPU它的整个的供应链环节。包括我们刚刚说到的这个HBM，包括液冷，然后包括数据中心，它的布局有什么不同。我觉得谷歌它的TPU的位置，未来会影响到很多的这个产业链中的各个小的环节跟厂商。所以还是很感谢Henry今天来我们的这样一期播客，跟我们聊了很多的技术细节，我觉得对大家做决策会有很多的参考价值。
+</p>
+<p class="transcript-line">
+<span class="time"><strong>[01:05:37]</strong> </span>
+<span class="speaker"><strong>发言人2: </strong></span>
+不构成投资金。
+</p>
+<p class="transcript-line">
+<span class="time"><strong>[01:05:38]</strong> </span>
+<span class="speaker"><strong>发言人1: </strong></span>
+对对对，那必须做一个声明，就是今天我们所有的观点应该都是你的个人言论，不代表公司观点。同时我们所有的这些言论也不构成任何的投资建议。
+</p>
+<p class="transcript-line">
+<span class="time"><strong>[01:05:51]</strong> </span>
+<span class="speaker"><strong>发言人2: </strong></span>
+对，最后补充一点就是因为确实很多TPU的布局都是发生在高层，就是他具体想把TP打造成怎样的一款产品，我觉得相当于底下工程师是了解的比较少的。所以我觉得我一直从我在google的工作的经历当中去，包括和同事聊天的一些过程当中，去了解一些只言片语，然后把它拼凑成一篇故事。
+</p>
+<p class="transcript-line">
+<span class="time"><strong>[01:06:17]</strong> </span>
+<span class="speaker"><strong>发言人1: </strong></span>
+好的，谢谢Henry，谢谢。好，谢谢Henry，感谢大家收听我们这一期的播客。如果大家对TPU有什么样的想法，可以给我们写评论，写留言。如果大家对我们的博客感兴趣，可以通过苹果博客、spotify还有小宇宙来关注我们。如果大家喜欢我们这种视频播客的形式，也可以在B站还有youtube上搜索硅谷101播客，关注我们。我是红军，感谢大家的收听。
+</p>]]></content:encoded>
+            <pubDate>Fri, 13 Mar 2026 00:00:00 GMT</pubDate>
+            <guid>69b35445dc0cc48a76772b57</guid>
+        </item>
         <item>
             <title>E227｜美国医疗市场AI争夺战：巨头押注，创业公司能赢吗？</title>
             <link>https://www.xiaoyuzhoufm.com/episode/69a77745f44b398f59390e48</link>
@@ -34269,1331 +35658,6 @@ OK另外挺想听您讲讲过去，因为您是金融行业的老兵，是从传
 </p>]]></content:encoded>
             <pubDate>Thu, 31 Jul 2025 00:00:00 GMT</pubDate>
             <guid>688ab4cfb0bb6f0b35a6ed70</guid>
-        </item>
-        <item>
-            <title>E201｜OpenAI挑战通用型AI Agent，聊聊Agent的底层架构、AGI转折点与RL人才分布</title>
-            <link>https://www.xiaoyuzhoufm.com/episode/68842962c596672715f45f8d</link>
-            <description>美国时间7月17日，OpenAI终于迎来了它的“Agent时刻”——通用型ChatGPT Agent正式发布。它整合了深度研究工具Deep Research与执行工具Operator，可一站式完成复杂任务，但仍存在速度慢、个性化不足等短板。
-ChatGPT Agent的技术本质是“浏览器+沙盒”的混合架构，与Manus、Genspark形成技术路线差异。在底层架构层面，浏览器（Browser-based）代理虽堪称“万能”，但运行速度较慢；沙盒（Sandbox）代理高效，但无法联网操作、工具库受限；而工作流集成（Workflow API）速度快、结果精准。在训练方法层面，强化学习（RL）被视为AGI从“执行者”向“创新者”跨越的重要路径，但当前面临的验证泛化与训练不稳定难题，如同两道枷锁锁住了这扇进阶之门。
-强化学习能否成为通用AI爆发的关键引擎？AGI实现技术跃迁的分水岭究竟在哪？在把Agent产品化和商业化的道路上，又如何平衡模型能力与用户体验？本期《硅谷101》，主播泓君对话Pokee.ai创始人朱哲清，多维度测评ChatGPT Agent使用体验，并深入拆解Agent的四大底层设计逻辑、探讨强化学习的训练路径，以及我们迎接“超级智能时刻”所面临的技术挑战。
-【主播】
-泓君Jane，硅谷101创始人，播客主理人
-【嘉宾】
-朱哲清，Pokee.ai创始人，前MetaAI应用强化学习团队负责人，斯坦福强化学习博士（X：@ZheqingZhu）
-【101 Weekly新节目预告】
-硅谷101上线了一版更加轻量级的音视频节目「101Weekly」，每周由我们的三位主播复盘三个商业热点事件，每期10分钟左右，并请来行业专家来一手分析解读，希望这每周的30分钟，帮助大家轻松了解一周新闻大事件，点击收听。
-音频版：Fireside｜小宇宙｜苹果播客｜Spotify
-视频版：BiliBIli｜Youtube｜视频号｜抖音
-【你将听到】
-ChatGPT Agent首发体验与技术拆解
-00:21 拆解AI Agent技术路径：什么是“聪明机器的大脑”？
-02:12 ChatGPT Agent一手实测：浏览器操作如超人 VS 速度慢如蜗牛
-04:26 视觉能力加持：Action体验有提升，但仍需等待
-05:45 旅行规划场景：支付环节仍需人类介入，信任门槛尚未跨越
-08:11 “全部推翻重来”：缺乏个性化机制、记不住反馈细节
-10:07 ChatGPT Agent“打通搜索与执行”的本质：Deep Research + Operator的“拼贴工程”
-通用型Agent技术路径对比
-12:31 通用Agent技术类比：Operator最早专注Browser操作，如今叠加Sandbox后，在通用Agent里表现最强
-14:52 四大技术方向优劣势对比：
-15:40 浏览器为主：通用性强，但速度慢、体验差、成本高
-17:21 开放虚拟机：本地运行快，但访问互联网等外部服务不易
-17:37 大模型+虚拟机：GensPark模式，相对环节更封闭
-18:46 Workflow+工具集成：Pokee模式，交付好但不是所有任务都能做
-20:23 Manus模式：Browser-based，Sandbox强，全能但慢
-22:28 Genspark模式：标化工作流，牺牲通用性换取速度与稳定性
-23:41 Pokee模式：速度快成本低，但范围受限
-26:52 B端客户还是C端客户，适用场景与底层技术逻辑完全不同
-29:36 Agent将重塑互联网入口，传统门户流量将大幅下滑
-32:03 MCP无人维护：2万个协议中，真正可用的不到200个
-33:47 Agent时代的广告逻辑大变：反而更有利于创作者？
-强化学习与AGI的五个层次
-38:52 强化学习适用场景：目标明确、机制清晰但数据稀缺
-41:50 新兴路径：强化学习预训练（RL Pretraining）
-44:40 一个非共识：验证（Verification）方向的泛化性，可能产出人类所不拥有的知识
-46:51 AGI五级路径中，“执行者”(L3) 与“创新者”(L4) 间存在巨大技术鸿沟，核心在于验证能力
-50:37 强化学习预训练的致命弱点：给出的解决方案可能“人类都看不懂”
-52:43 强化学习（RLHF） Vs 监督学习微调（SFT）：效果×2，但成本×10
-Meta收购ScaleAI背后的逻辑
-54:08 Meta收购Scale：多模态数据仍然是瓶颈
-56:46 多模态数据的最大挑战：数据复杂 + 维度多 → 主观标准难统一
-57:59 AI的核心问题：短期算力，中期数据，长期人才
-59:10 如何让Agent调用更好用？自研模型
-01:03:33 平衡模型能力与用户体验：模型能力决定下限，产品细节决定上限
-强化学习的人才大本营
-01:05:42 RL奠基人、2024年图灵奖得主Richard Sutton：想法极具前瞻性，且坚持原则
-01:07:47 模型可塑性挑战：AI的“灾难性遗忘”亟待解决
-01:09:56 奖励函数设计难：强化学习中如何设定“道德且有效”的多目标激励
-01:11:47 RL核心研究圈：学术界与业界均高度集中
-学术界：OpenAI早期团队，Peter Abbeel, Sergey Levine , Richard Sutton
-业界：以David Silver为代表的DeepMind员工、以John Langford为代表的微软员工等
-01:12:50 从AlphaGo开始，伦敦成为强化学习研究的重要中心
-01:15:28 如何像投资人销售过于超前的想法：只说一个非共识
-01:16:58 市场正在分化，技术路径选择是创业公司活下来的核心
-【节目中提到的AI Agent】
-OpenAI相关：
-ChatGPT Agent｜Operator｜Deep Research
-其他：
-Manus｜Genspark｜Perplexity｜Claude Agent｜Fellou｜Flowise｜Zapier｜UIPath｜Replicate
-【节目提到的相关术语】
-MCP / Model Context Protocol（模型上下文协议）
-A2A（Agent-to-Agent Protocol）
-SDK（软件开发工具包）
-API（应用程序接口）
-Vision Model
-Browser-based Agent
-Sandbox（沙盒环境）
-Virtual Machine (VM)
-Token Consumption（Token消耗）
-Tool Calling：调用第三方工具或API完成任务
-Workflow-based Agent
-Reinforcement Learning / RL（强化学习）
-RL Fine-tuning / RLFT（强化学习微调）
-RL Pre-training（强化学习预训练）
-Verification（验证机制）
-Ground Truth（基准真值）
-Hallucination（幻觉）
-Human Feedback（人类反馈）
-Supervised Fine-tuning / SFT (监督式微调)
-Human Readability（可读性）
-Catastrophic Forgetting（灾难性遗忘）
-Benchmark Score（基准分数）
-ICML（International Conference on Machine Learning）：机器学习顶级学术会议
-【相关节目】
-E200｜投资人视角深聊：AI Agent的核心壁垒与投资逻辑
-E195｜从工具到伙伴：七位AI Agent深度使用者的思考
-E191｜小而美的机会来了，聊聊这轮AI Agent进化新范式
-【监制】
-泓君
-【后期】
-AMEI
-【Shownotes】
-陈思扬
-【运营】
-王梓沁
-【BGM】
-Simple Pleasantries - Arthur Benson
-Anticipating a New Day - Stationary Sign
-【在这里找到我们】
-公众号：硅谷101
-收听渠道：Apple Podcast｜Spotify｜小宇宙｜喜马拉雅｜蜻蜓FM｜荔枝FM｜网易云音乐｜QQ音乐
-其他平台：YouTube｜Bilibili 搜索「硅谷101播客」
-联系我们：podcast@sv101.net
-Special Guest: 朱哲清.</description>
-            <content:encoded><![CDATA[<h1>转写链接</h1>
-<link>https://tongyi.aliyun.com/efficiency/doc/transcripts/47z39v5rbr8mnedg</link><br>
-<h1>节目摘要</h1>
-<div class="summary">本次讨论深入探讨了人工智能（AI）代理的设计哲学、逻辑及其未来发展，旨在简化AI的使用，使消费者和企业开发者都能通过简单API调用完成任务，而无需面对复杂技术问题。讨论强调了避免复杂内部架构、集成更多能力到AI模型中、自定义模型以降低成本和提高泛化能力的重要性。同时，也关注了模型训练的挑战，如成本、速度和泛化性问题，并探讨了强化学习在处理无标注数据和实现复杂任务上的潜力。讨论还覆盖了AI在不同领域的应用，如聊天机器人、自主操作的AI智能体，以及高级AI的创新能力和组织管理能力。此外，对话还触及了AI技术的商业应用、伦理和监管挑战，以及如何确保AI技术的发展既能促进科技进步，又能安全、负责任地服务于人类社会。整体上，此次讨论展现了AI技术的前沿探索、应用及其背后的技术挑战和策略思考。</div><br>
-<h1>章节速览</h1>
-<div class="chapters">
-<div class="chapter-item">
-<span class="time"><strong>[00:00:00]</strong> </span>
-<span class="chapter-title"><strong>探讨通用型AI agent的技术架构与设计逻辑</strong></span>
-<div class="chapter-summary">本期节目讨论了OpenAI最新发布的通用型AI agent ChatGPT agent的技术特性和性能表现，以及与Manus、James Park等通用型AI agent的区别。节目邀请了Poke AI的创始人，前Meta AI应用强化学习团队负责人朱哲清，深入探讨了强化学习在通用型AI agent设计中的重要性，以及AGI发展的五个层次。此外，还讨论了OpenAI在AI领域的定位和当前面临的挑战，特别是在速度和实用性方面的问题。对于非技术听众，建议通过观看字幕版以更好地理解对话内容。</div>
-</div>
-<div class="chapter-item">
-<span class="time"><strong>[00:03:33]</strong> </span>
-<span class="chapter-title"><strong>Chat BT在旅行规划和支付环节中的优势与局限</strong></span>
-<div class="chapter-summary">对话中提到，Chat BT在旅行规划方面具有明显优势，特别是通过其强大的视觉模型能力，能够更有效地搜索和筛选航班及酒店信息，从而为用户制定详细的行程。尽管如此，支付环节仍是一大挑战，因为大多数用户对于代理完成支付操作缺乏信任，因此在实际操作中，即便Chat BT能完成大部分流程，支付部分仍需用户亲自操作，这限制了其整体实用性。整体而言，虽然Chat BT能在二三十分钟内帮助用户选好航班和酒店，但支付环节的限制使得其在实际应用中的便利性有所折扣。</div>
-</div>
-<div class="chapter-item">
-<span class="time"><strong>[00:06:49]</strong> </span>
-<span class="chapter-title"><strong>AI在电商和旅行规划中的应用及局限</strong></span>
-<div class="chapter-summary">对话讨论了AI在电商和旅行规划中的应用及局限性。一方认为AI在电商中搜索和匹配产品较慢，且无法与人类快速决策相匹配，而旅行规划方面，AI缺乏有效的反馈机制，无法记住或准确应用用户的个性化偏好，导致其提供的解决方案往往与用户需求不符。尽管AI具有记忆功能，但复杂偏好的记忆并不完整，影响了其在定制化服务中的表现。</div>
-</div>
-<div class="chapter-item">
-<span class="time"><strong>[00:09:50]</strong> </span>
-<span class="chapter-title"><strong>OpenAI的ChatGPT agent结合深度研究与电商操作的挑战与策略</strong></span>
-<div class="chapter-summary">OpenAI最近推出的ChatGPT agent被观察者认为是其先前两个agent，Operator和deep research的结合体。Operator专注于电商购物相关的任务调用，而deep research则致力于深度研究。这次新产品似乎更像是为了应对市场上通用AI代理的兴起而做出的市场策略，而非完全准备就绪的解决方案。尽管如此，OpenAI试图通过结合这两个领域的功能，实现从信息收集到任务执行的端到端体验。然而，实际应用中，该产品在任务完成效率和效果上可能并不优于市面上的通用代理。此策略旨在通过集成信息获取和任务执行能力，提供更全面的解决方案，但目前看来，它更像是一个工程上的结合，需要根据用户需求在复杂信息检索和直接任务执行之间进行判定。此外，产品还包含类似于coding和sandbox的解决方案，允许执行复杂任务如生成PPTX文件或执行Python脚本。</div>
-</div>
-<div class="chapter-item">
-<span class="time"><strong>[00:12:28]</strong> </span>
-<span class="chapter-title"><strong>通用型AI agent的市场对比与底层架构</strong></span>
-<div class="chapter-summary">对话讨论了市面上通用型AI agent的主要区别及优劣势，特别强调了不同场景下解决具体问题的区分度。提到了Perplexity、Open and Topic、Spark、Eutoria、Flow等公司或产品的特点，其中OpenAI在浏览器能力和Operating能力方面表现最为突出。同时，分析了AI agent的底层架构，包括基于浏览器的agent、浏览器加虚拟机的agent、只有虚拟机但内部有大限制的agent以及可以集成多种工具的agent。特别指出，OpenAI的brother 3 box在某些测试中表现优异，但速度问题可能源于其试图在浏览器中处理过多内容。</div>
-</div>
-<div class="chapter-item">
-<span class="time"><strong>[00:15:39]</strong> </span>
-<span class="chapter-title"><strong>网页浏览器与虚拟机环境在自动化任务中的应用及局限</strong></span>
-<div class="chapter-summary">讨论了四种不同类型的自动化任务处理方式：浏览器（Browser）基础的代理、虚拟机环境（3 box）下的脚本运行、基于语言模型（LM）与有限环境的结合以及与第三方服务直接集成的工作流。浏览器代理能直观地操作网页但速度慢且资源消耗高；虚拟机环境支持运行各种线下开源包但无法访问需网络连接的服务；LM结合有限环境设计虽能执行代码但受限于预设的包；而直接集成第三方服务的工作流虽然稳定但灵活性有限，无法满足所有个性化需求。这些方法之间存在相互借鉴与重叠，但在能力与限制方面各有不同。</div>
-</div>
-<div class="chapter-item">
-<span class="time"><strong>[00:20:03]</strong> </span>
-<span class="chapter-title"><strong>不同AI代理用户体验对比分析</strong></span>
-<div class="chapter-summary">对话中讨论了Pokey、James Park、Menus以及OpenAI的ChatGPT代理在用户体验上的差异。Pokey因其万能环境和强大的LM规划能力而受到赞赏，但受限于浏览器导航能力，处理复杂任务时效率较低。ChatGPT则因其详尽的深度研究和较为全面的执行能力获得优势，而James Park通过将大任务拆分为细分的小任务并使用特定模板，提高了处理速度和节省了计算资源，尽管这使得它在某些方面变得不那么通用。</div>
-</div>
-<div class="chapter-item">
-<span class="time"><strong>[00:23:27]</strong> </span>
-<span class="chapter-title"><strong>开发快速高效的AI代理技术与商业模式探讨</strong></span>
-<div class="chapter-summary">对话主要围绕开发一款速度远超市场现有产品的AI代理技术，强调其通过简化复杂操作和第三方集成的SDK与工具，大幅提升运行效率，速度可达同类产品的4到10倍。此外，讨论了该技术在商业应用上的定位，特别是针对企业用户和创作者账户，而非个人用户，以遵循平台的商业逻辑和限制。同时，提到了与OpenAI的ChatGPT等竞争对手的商业模式差异，指出自家产品更侧重于B端市场。</div>
-</div>
-<div class="chapter-item">
-<span class="time"><strong>[00:26:49]</strong> </span>
-<span class="chapter-title"><strong>AI Agent在B端和C端应用及API开放策略</strong></span>
-<div class="chapter-summary">当前，B端和C端应用的界限模糊，专业级用户对AI代理的使用频率和需求较高，而消费者端则相对较低，因AI代理工作流往往缺乏重复性。平台是否开放API接口对于AI代理的发展至关重要，美国科技公司普遍拥有完善的API和SDK包，而中国公司正在逐步开放。企业微信等平台通过开放接口，促进了自动回复等功能的实现。大公司开放API接口的动力在于适应AG（人工智能生成内容）浪潮，以AI代理取代传统的网页浏览和操作流程，成为新的流量入口。因此，公司无需自行开发MCP协议，只需开放API接口，即可通过AI代理获得额外流量入口。</div>
-</div>
-<div class="chapter-item">
-<span class="time"><strong>[00:32:46]</strong> </span>
-<span class="chapter-title"><strong>AI Agent对未来创作者和广告行业的影响</strong></span>
-<div class="chapter-summary">对话探讨了随着AI agent的广泛应用，互联网形态将发生的变化，特别是对创作者和广告行业的影响。提到随着AI技术的发展，门户网站的流量可能会大幅下降，而创作者的商业模式也将发生转变。例如，播客可以通过直接收费来代替依赖广告流量的模式，使得创作者能更直接地从知识产权中获益。此外，讨论还涉及了推荐系统可能的变革，从基于排名的传统模式转向更精准和交互式的推荐方式，这可能对现有推荐算法产生重大影响。</div>
-</div>
-<div class="chapter-item">
-<span class="time"><strong>[00:38:43]</strong> </span>
-<span class="chapter-title"><strong>强化学习在AI创作生态中的应用与优势</strong></span>
-<div class="chapter-summary">对话围绕强化学习（RL）在AI创作生态系统中的作用和优势展开。强调了强化学习架构的多种类型，包括基于token的强化学习和以行动（action）决策为主的强化学习，指出两者虽无优劣之分，但适用于不同的用例。重点讨论了使用强化学习框架训练AI代理（agent）的原因，即目标驱动，与传统的语言模型（LM）训练相比，强化学习能够更好地处理目标导向的任务。此外，探讨了监督学习与强化学习在不同任务上的应用，指出对于已有大量标注数据的任务，监督学习通常更有效，而强化学习则适用于那些只有目标驱动且缺乏现成数据的任务，如代码编写、数学物理问题解决等。最后，提到了当前研究组正在探索的RL预训练方法，以及强化学习在生成未曾出现过的代码或解决高难度数学问题时的独特优势。</div>
-</div>
-<div class="chapter-item">
-<span class="time"><strong>[00:43:52]</strong> </span>
-<span class="chapter-title"><strong>迈向超人类智能的关键：提升AI的泛化和创新能力</strong></span>
-<div class="chapter-summary">讨论集中于如何提升AI的verification方向的模型或机制的泛化性，以及AI在面对新输出时如何适应并进行更好的验证。这种提升不仅能够解决AI产生的幻觉问题，还可能使AI发现人类未知的知识和物理定理，从而实现真正的创新和超人类智能。此外，提及了OpenAI对AGI的五个层级划分，从聊天机器人到超人级AI，特别强调了从代理型AI到创新型AI之间的巨大跨越，即AI需要具备创造性思维和发现新解决方案的能力。这一能力的实现被认为是迈向超人类智能的关键点。</div>
-</div>
-<div class="chapter-item">
-<span class="time"><strong>[00:48:21]</strong> </span>
-<span class="chapter-title"><strong>从数学到生物：AI泛化能力与未来知识探索的挑战</strong></span>
-<div class="chapter-summary">对话围绕AI泛化能力的挑战展开，特别是如何通过简单的描述从一个领域推理到另一个领域，以及AI能否通过自我探索基于现有知识延伸对未知知识的理解。讨论还触及了从代理型AI到创新型AI的跨越，这被认为是AI发展中的一个重大突破点，可能使AI超越人类水平。此外，还探讨了在去中心化的AI系统中可能出现的政治斗争和目标冲突问题，这将对AI的协作和决策机制提出新的挑战。</div>
-</div>
-<div class="chapter-item">
-<span class="time"><strong>[00:50:44]</strong> </span>
-<span class="chapter-title"><strong>AI技术的挑战与监管需求</strong></span>
-<div class="chapter-summary">对话深入探讨了AI技术，尤其是强化学习和监督微调学习（SFT）在实际应用中的挑战与潜在风险。讨论指出，虽然强化学习在解决复杂问题上可能效果更佳，但其高昂的计算成本和可能出现的不可解释性解决方案成为了其广泛应用的障碍。此外，还提到了AI技术可能创造出人类无法理解的知识和解决方案，这引发了对AI技术监管和奖励设计重要性的讨论，特别是考虑到未来更复杂任务的需求时，强化学习可能成为不可或缺的选择。</div>
-</div>
-<div class="chapter-item">
-<span class="time"><strong>[00:53:46]</strong> </span>
-<span class="chapter-title"><strong>Meta收购Scale AI：强化学习与数据标注的战略布局</strong></span>
-<div class="chapter-summary">讨论集中在Meta收购Scale AI的战略意义，特别是针对强化学习和监督学习在处理未标注数据上的不同优势。强化学习能够在无标注数据情况下应用，而监督学习则需要标注数据。随着行业共识转向强化学习，数据标注的重要性并未减少，尤其是在处理复杂视频和图像数据时。Meta可能正试图通过Scale AI增强其在多模态数据解析和标注上的能力，以提升其在机器人技术和多模态理解领域的表现。同时，对话还探讨了数据标注的技术挑战，尤其是图像和视频内容的标准化评估，以及在多模态和行动序列理解中的复杂性。最终，Meta的目标可能是解决中期的数据瓶颈，以提升其在机器人和多模态技术上的竞争力。</div>
-</div>
-<div class="chapter-item">
-<span class="time"><strong>[00:58:21]</strong> </span>
-<span class="chapter-title"><strong>AI Agent开发哲学与技术挑战</strong></span>
-<div class="chapter-summary">对话围绕AI agent的开发哲学、技术挑战以及模型能力的提升展开。早期遇到的算力问题已解决，当前的中期问题集中在文字和代码的优化，以及如何在motility层面解决问题。讨论中提到，通过自建模型而非依赖于其他大模型，可以降低成本、提高速度和泛化性，特别是在处理复杂的专业场景时。开发哲学强调简化用户使用AI agent的过程，使其像使用ChatGPT一样简便，无论对于消费者还是企业开发者，都能通过简单的API调用获得结果，避免复杂的中间环节。此外，通过集成多种能力于单一模型，可以实现从用户输入到结果输出的全流程处理，从而显著提高AI agent的实用性和效率。</div>
-</div>
-<div class="chapter-item">
-<span class="time"><strong>[01:03:17]</strong> </span>
-<span class="chapter-title"><strong>AI模型能力与产品用户体验的平衡</strong></span>
-<div class="chapter-summary">对话探讨了在AI应用中，模型能力与产品用户体验之间的平衡。一方认为应将更多问题交给AI处理，减少人为干预，让AI从错误中学习；另一方则强调在实际应用中，产品与用户体验优先，需减少AI的幻觉，通过拆分细节以确认工作流程，确保产品可用性和落地。CEO作为产品人和研究者，认为模型的通用性虽能训练出更强大的模型，但用户体验与模型能力并不成正比。举例说明了即使模型选择的工具正确，用户体验不佳仍会导致产品问题。强调产品的细节决定其上限，而模型能力则决定了产品的下限，创业公司必须打磨产品细节以提升用户体验。</div>
-</div>
-<div class="chapter-item">
-<span class="time"><strong>[01:05:39]</strong> </span>
-<span class="chapter-title"><strong>强化学习奠基人Race Sutton的学术贡献与个人影响</strong></span>
-<div class="chapter-summary">对话围绕Race Sutton教授在强化学习领域的奠基性贡献展开，提及他是2025年图灵奖得主，并详细讲述了他与对话者导师的学术联系，以及对话者在斯坦福读博期间与Sutton的个人交往。Sutton在罹患癌症期间仍坚持研究，最终在University of Alberta获得支持，展现出极高的学术原则性和前瞻性。他的坚持奠定了整个行业基础，对行业发展起到了关键作用。尽管当前行业内外对强化学习有广泛讨论，但真正理解并推动其发展的专家寥寥无几，Sutton的贡献在此背景下显得尤为重要。</div>
-</div>
-<div class="chapter-item">
-<span class="time"><strong>[01:07:45]</strong> </span>
-<span class="chapter-title"><strong>大型模型训练的挑战与伦理考量</strong></span>
-<div class="chapter-summary">对话聚焦于大型模型训练中的几个关键挑战，包括模型容量限制导致的灾难性遗忘（catastrophe forgetting），即模型在长时间训练后开始忘记已学知识，以及模型在不断接收新数据时如何保持持续学习能力的问题。此外，讨论还涉及了设计世界模型时的伦理标准和多目标优化难题，特别是如何在多个目标之间找到平衡点，以及如何设计一个能够同时优化多个目标的决策机制。对话强调了长期坚持和专注于正确的方向对于解决这些复杂问题的重要性。</div>
-</div>
-<div class="chapter-item">
-<span class="time"><strong>[01:11:44]</strong> </span>
-<span class="chapter-title"><strong>强化学习研究的演变与核心人群分析</strong></span>
-<div class="chapter-summary">对话围绕强化学习（RL）的研究演变、核心研究人群以及不同阶段的研究重点展开。早期的研究以OpenAI和Peter Bill的学生为中心，主要集中在学术界，但存在过于理论化的问题。工业界则以Microsoft的某些团队为代表，关注实际应用。伦敦被视为强化学习研究的重要基地，特别是David Silver等人在形式验证和专用代理训练方面的独特方法。从AlphaGo和AlphaZero的热潮到近期的沉寂，再到最近的复兴，强化学习经历了从游戏环境应用到寻求解决实际问题能力的转变。目前，研究者们正在探索通过预训练实现通用问题解决能力的可能性，这被认为是该领域的重要突破方向。</div>
-</div>
-<div class="chapter-item">
-<span class="time"><strong>[01:15:17]</strong> </span>
-<span class="chapter-title"><strong>探讨AI公司技术路径与投资策略</strong></span>
-<div class="chapter-summary">在讨论AI公司与投资人的互动中，强调了技术路径的正确选择对于AI公司生存的重要性。提到技术超前可能导致与投资人共识不足，因此在与投资人沟通时，需要基于市场共识并加入逻辑跳跃。同时指出，AI公司尽管融资额高，但如果成本控制不当，增长越快可能死得越快。技术路径的优化对于实现盈利至关重要。此外，讨论还展望了未来一两年内，市场可能会出现大鱼吃小鱼的竞争格局，强调了技术路径与决策对最终产品形态和市场格局的决定性作用。</div>
-</div>
-</div><br>
-<h1>问题回顾</h1>
-<div class="qa-item">
-<div class="question"><strong>Q:</strong> ChatGPT agent在运行速度上具体有什么问题？ChatGPT agent在某些场景下相较于其他基于浏览器的AI agent有何优势？</div>
-<div class="answer"><strong>A:</strong> 核心原因是由于其deep research和office本身的速率较慢。Deep research相对于市面上所有产品来说还是相对比较慢的一个research产品，加上office本身的benchmark速度也慢，导致两者结合后整体速度变得更慢。在做与消费相关的工作时，例如定制衣服或旅行计划，ChatGPT agent在Brothers上的点击能力更强，表现优于市面上大多数基于浏览器的agent，因为它具有更强的vision能力，能根据视觉结果进行更有效的交互和操作。</div>
-</div>
-<div class="qa-item">
-<div class="question"><strong>Q:</strong> 在OpenAI发布ChatGPT agent后，你有没有使用过它？</div>
-<div class="answer"><strong>A:</strong> 是的，我在ChatGPT agent发布当天下午三四点钟就开始试用了，感觉它的总体效果比我们想象中要差一些，速度也比想象中慢很多。</div>
-</div>
-<div class="qa-item">
-<div class="question"><strong>Q:</strong> 可以分享一下你在使用ChatGPT agent订机票酒店做旅行规划的具体场景吗？</div>
-<div class="answer"><strong>A:</strong> 当我要求ChatGPT agent为我规划去新加坡三天的整体旅程，包括往返航班和酒店时，虽然它花了大约二三十分钟时间，但在搜索和选择航班酒店的过程中，其vision能力表现优于市面上的其他agent，并且在视觉呈现上更为直观。但最后的支付环节仍需人工介入，因为信任问题使得支付过程成为了所有agent业务范围内的一大挑战。</div>
-</div>
-<div class="qa-item">
-<div class="question"><strong>Q:</strong> 对于电商方向的应用，你有什么看法？</div>
-<div class="answer"><strong>A:</strong> 在电商方面，ChatGPT agent也投入了不少精力，如根据用户要求查找对应产品，但我个人对此功能并不太满意，因为搜索和筛选产品这一过程其实较为耗时，而真正需要人类决策的部分往往较为短暂。此外，ChatGPT agent未能记住用户的个性化偏好，如航班选择直飞且价格较低的标准，导致用户需要重新选择并进行沟通调整。</div>
-</div>
-<div class="qa-item">
-<div class="question"><strong>Q:</strong> OpenAI这次发布的ChatGPT agent的核心技术壁垒是什么？是否结合了之前Operator和deep research两个agent的特点？</div>
-<div class="answer"><strong>A:</strong> 结合Operator和deep research两者的优点来创建ChatGPT agent并不是很大技术难题，OpenAI可能是为了抢占市场而快速推出的这一产品，但从信息获取到执行的任务流程来看，它的效果和速度与市面上的一些通用AI agent相比可能并不理想。ChatGPT agent本质上是将信息获取和执行两个阶段整合在一起，试图提供一个端到端的解决方案，但目前看来更像是一个工程上的结合体而非完全打通了信息获取到执行的完整链路。</div>
-</div>
-<div class="qa-item">
-<div class="question"><strong>Q:</strong> 在AI agent的搭建方面，目前有哪几种底层架构方向？</div>
-<div class="answer"><strong>A:</strong> 目前AI agent有四种大的构建方向，分别是基于浏览器的agent、浏览器加虚拟机的agent、只有虚拟机且在其中受限运行的agent以及可以横跨多个工具集成的agent。</div>
-</div>
-<div class="qa-item">
-<div class="question"><strong>Q:</strong> 基于浏览器的agent有什么特点和优缺点？虚拟机环境的agent如何工作以及它的优缺点是什么？</div>
-<div class="answer"><strong>A:</strong> 基于浏览器的agent（如Brother）的优势在于理论上可以操作任何网页和互联网服务，用户可以直观看到agent在页面上的操作过程。但其缺点也很明显，速度慢且token consumption高，因为需要加载整个HTML文件并从零解析执行。虚拟机环境（如Closer 3Box）可以运行线下编写的任意脚本，例如Python script或JavaScript script来完成复杂任务，如数据分析。它的优点是可以执行任何open source package，但缺点是很多情况下无法访问互联网，尤其对于需要实时更新数据的任务受限较多。</div>
-</div>
-<div class="qa-item">
-<div class="question"><strong>Q:</strong> LM加3Box组合的agent是如何运作的，有何限制？</div>
-<div class="answer"><strong>A:</strong> LM加3Box组合（如James box）中，LM负责主体推理和生成代码，而3Box提供一个受限的环境用于运行这些代码。该模式受限于预设的包集，无法下载和使用额外的开源包，工作流相对封闭。</div>
-</div>
-<div class="qa-item">
-<div class="question"><strong>Q:</strong> 是否有第四种工作流方式？其特点是什么？</div>
-<div class="answer"><strong>A:</strong> 第四种工作流是通过与第三方服务提供商直接集成，每个节点通过集成服务完成，这种方式能保证服务的稳定性，但同时也受限于第三方服务的功能和权限，无法实现所有功能。</div>
-</div>
-<div class="qa-item">
-<div class="question"><strong>Q:</strong> 对于用户来说，Pockey、James Park、Menus以及OpenAI的ChatGPT agent体验上有哪些不同之处？</div>
-<div class="answer"><strong>A:</strong> Pockey由于其设计较为万能，理论上可以执行很多任务，但受限于浏览器能力，实际操作中会遇到一些无法完成的任务。ChatGPT则在深研方面表现出色，通过详尽的报告执行任务，速度相对较快。而Jans bok通过模板化特定应用场景，将用户体验作为核心目标，虽然速度更快，但在功能全面性上略逊于Pockey。</div>
-</div>
-<div class="qa-item">
-<div class="question"><strong>Q:</strong> 在当前的商业逻辑下，是否通过一个agent来使用AI工具对平台造成损失，进而导致平台限制这种行为？</div>
-<div class="answer"><strong>A:</strong> 是的，如果用户通过一个agent去黑客式地攻击或爬虫其他平台，对平台而言确实会造成损失，因此很多平台会采取措施阻止这种情况。现在随着技术发展，用户可以通过写一段简单的文字和prompt来完成原本需要代码才能实现的任务，并直接上传到媒体平台上。</div>
-</div>
-<div class="qa-item">
-<div class="question"><strong>Q:</strong> 你们的产品是面向C端用户还是B端用户？</div>
-<div class="answer"><strong>A:</strong> 我们的商业模式目前更偏向于B端，但B端和C端存在一定的模糊性。我们的产品在专业用户群体中使用率较高，而非普通消费用户。专业用户更倾向于使用有重复性工作流的AI agent来提高效率。</div>
-</div>
-<div class="qa-item">
-<div class="question"><strong>Q:</strong> 对于微信等平台是否愿意开放接口给开发者，帮助用户管理信息或回复基础信息？</div>
-<div class="answer"><strong>A:</strong> 美国的一些大科技公司通常会开放完善的API接口和SDK给开发者。在中国，像企业微信级别的平台也会开放接口，允许开发者进行自动回复等功能。国内生态也在逐渐开放，例如高德地图在MCP政策后也开放了地图生态。</div>
-</div>
-<div class="qa-item">
-<div class="question"><strong>Q:</strong> 大公司在合作过程中开放API接口的动机是什么？</div>
-<div class="answer"><strong>A:</strong> 大公司开放API接口的动机主要是顺应AG浪潮的发展，让自己的服务能够适应新的工作流模式，取代传统的web流量，成为各种场景下的核心入口，比如通过ChatGPT或类似工具完成整个购物流程。</div>
-</div>
-<div class="qa-item">
-<div class="question"><strong>Q:</strong> 为何你们想自己退出MCP协议而非接入标准的MCP协议？</div>
-<div class="answer"><strong>A:</strong> 因为现有的MCP协议可用性较差，大多数维护不佳，导致公司不愿投入时间。我们希望简化过程，让公司只需提供开放API，我们负责剩余部分，使他们能快速获取额外流量入口。</div>
-</div>
-<div class="qa-item">
-<div class="question"><strong>Q:</strong> 接入agent后，互联网形态会发生怎样的变化，特别是对创作者的影响是什么？</div>
-<div class="answer"><strong>A:</strong> 对于创作者来说，未来广告行业将经历变革。传统的流量分成模式可能会减弱，转而变为基于agent调用创作者内容并直接向创作者付费的新模式。创作者不再需要通过免费提供内容以换取广告收入，而是通过高质量的内容获得付费使用。</div>
-</div>
-<div class="qa-item">
-<div class="question"><strong>Q:</strong> 在OpenAI的发布会上，它们提到了使用强化学习底层架构，能否请你简单介绍一下强化学习架构的优势以及它对应的应用场景是什么？</div>
-<div class="answer"><strong>A:</strong> 强化学习架构有多种类型，例如以token为基础的token base强化学习方向和直接通过action进行决策的方式。这两种方式没有绝对的好坏之分，应用场景也有所不同。但总体来说，使用21的framework进行agent训练是为了实现目标驱动，这与传统的LM训练有很大不同，后者可以通过大量预训练数据完成任务。对于一些工具链型的任务，由于缺乏对应数据和标注困难，无法通过单一的to calling训练方式，而需要强化学习来解决问题。</div>
-</div>
-<div class="qa-item">
-<div class="question"><strong>Q:</strong> 哪些任务更适合通过强化学习微调，哪些任务则更适合直接用监督学习进行训练呢？</div>
-<div class="answer"><strong>A:</strong> 目前共识是，对于已有大量标注数据的任务（如文本、视频、图片等），一般通过监督学习可以获得较高水平，并进一步利用RHF的post training提升模型表现以符合人类偏好。而强化学习更适合解决那些明确目标驱动且数据稀缺的任务场景，比如写代码、数学物理问题、城市规划等领域，这些场景不仅数据少，而且问题解决方式可能需要高度泛化和创新思维。</div>
-</div>
-<div class="qa-item">
-<div class="question"><strong>Q:</strong> 现在有哪些公司在做RL pretrain的研究？</div>
-<div class="answer"><strong>A:</strong> 目前只有研究组在做RL pretrain相关工作，但一些公司已经开始着手类似的研究，不过它们还结合了一些先验知识，去掉了一些确定性过程。不过这里先不详细讨论，而是先讲述以21为核心的训练机制。</div>
-</div>
-<div class="qa-item">
-<div class="question"><strong>Q:</strong> 强化学习是如何解决特定问题的，比如针对专业型目标驱动场景的挑战？</div>
-<div class="answer"><strong>A:</strong> 在专业型目标驱动场景中，如写代码、数学物理、金融机构等领域，预训练可能不再必要，因为这些领域往往没有足够的数据，且问题解决过程需基于特定目标和完整的世界模型。强化学习在这种情况下能通过模拟真实任务环境，利用ground truth进行精确判断和优化，从而实现对复杂、罕见问题的有效解决。</div>
-</div>
-<div class="qa-item">
-<div class="question"><strong>Q:</strong> 如何提升模型或verification机制的泛化性，以及如何让AI适应新的输出类型以完成更好的verification？</div>
-<div class="answer"><strong>A:</strong> 提升verification机制泛化性的能力是迈向更高级智能的关键点，它能帮助AI避免产生幻觉，甚至发现新的物理定理等人类尚未掌握的知识。目前尚未有很好的突破，但如果能解决这一问题，将有助于AI更准确地理解和验证世界。</div>
-</div>
-<div class="qa-item">
-<div class="question"><strong>Q:</strong> OpenAI提出的AGI五个层级划分中，各个层级之间的主要区别是什么？</div>
-<div class="answer"><strong>A:</strong> OpenAI提出的五个层级从聊天机器人开始，逐步升级到推理型AI、代理型AI（或智能体）、创新型AI（能自主发明新工具或方案）和组织型/超人级AI（能独立承担一个组织的全部职责）。其中，代理型AI到创新型AI的跨越可能意味着从低于人类平均水平到超过人类平均水平甚至最佳水平的转折点。同时，各层级之间的鸿沟体现在从依赖简单知识到实现深度理解和创新思维的转变，以及在多代理环境中可能出现的alignment问题和潜在的政治冲突。</div>
-</div>
-<div class="qa-item">
-<div class="question"><strong>Q:</strong> rich sutton和carl在知识发现方面的差异是什么？</div>
-<div class="answer"><strong>A:</strong> rich sutton更擅长于合影，因为他所创造的网络能够更好地代表人类知识。而carl在counterfactual的知识发现或政策发现方面更有优势。如果谈到regulatory问题，认为对reward设计可能需要一定程度的监管努力。</div>
-</div>
-<div class="qa-item">
-<div class="question"><strong>Q:</strong> 对于强化学习和SFT监督微调学习的性价比问题，您怎么看？</div>
-<div class="answer"><strong>A:</strong> 强化学习虽然效果可能比SFT好两倍，但消耗的token数量可能多十倍，从商业化应用角度看，性价比不高。因为reinforcement for tuning仅依赖单一reward function和无其他信息，追求目标标准答案导致成本较高。随着问题复杂度增加，到了无法进行suffit tune的程度时，情况将发生变化。</div>
-</div>
-<div class="qa-item">
-<div class="question"><strong>Q:</strong> 为何meta选择收购scale AI，尽管数据标注是行业共识？</div>
-<div class="answer"><strong>A:</strong> 数据的重要性虽有所下降，但在多模态如视频和图片数据上，标注仍然是无法避免且难以撬开的方向。模型需要具备解析能力才能处理这类数据，而当前模型在这方面的能力较弱，尤其是在multi model模型中，更多偏向于text能力。因此，meta可能希望通过基础训练，解决多模态数据的标注问题，并逐步提升其相关技术能力。</div>
-</div>
-<div class="qa-item">
-<div class="question"><strong>Q:</strong> 在图像和视频数据标注上，技能含量和技术环节的重要性如何？</div>
-<div class="answer"><strong>A:</strong> 图像和视频数据的标注工作不仅需要大量人力，更关键的是其中的技术挑战，例如对产品图好坏的标准化判断具有很大的主观性和alignment问题。短期内可能通过复杂的rubrics训练人员以降低主观性，但长期来看，还是需要强大的模型解析能力来解决。</div>
-</div>
-<div class="qa-item">
-<div class="question"><strong>Q:</strong> meta在解决长期数据问题上采取的策略是什么？</div>
-<div class="answer"><strong>A:</strong> meta正在致力于解决中期数据问题，比如通过基础模型训练提升性能，并在未来可能将基础模型与reward model结合，形成更强大的泛化能力。短期是解决资源和算力问题，中期则是优化模型在特定任务上的表现，长期则是进一步优化模型能力。</div>
-</div>
-<div class="qa-item">
-<div class="question"><strong>Q:</strong> meta开发AI agent时遵循的底层开发哲学和逻辑是什么？</div>
-<div class="answer"><strong>A:</strong> 核心逻辑是希望AI agent的使用能够像ChatGPT那样简单，用户只需通过简单的API调用即可获取结果，无需关心底层复杂架构。为此，meta尽可能将多种能力集成到模型中，以实现模型能力的最大化，同时提供直接使用各种工具的功能，使得agent能够操作整个互联网或仅限于特定任务。</div>
-</div>
-<div class="qa-item">
-<div class="question"><strong>Q:</strong> 为何meta要开发自己的模型而非直接使用大模型？</div>
-<div class="answer"><strong>A:</strong> meta开发自己的模型是因为成本高、速度慢、泛化性差等问题，尤其在处理专业性强、非标准化的工作流程时，定制化的模型能更好地适应各种场景，降低用户操作成本，提升用户体验和工作流程的适用范围。</div>
-</div>
-<div class="qa-item">
-<div class="question"><strong>Q:</strong> meta的产品哲学更偏向于哪种派别？</div>
-<div class="answer"><strong>A:</strong> 作为CEO，meta在产品哲学上既是一名产品人也是一名研究员。作为研究员，他倾向于让AI在更一般环境中接受训练以获得更强的能力；作为产品人，则重视用户体验优先，选择减少幻觉、确保产品可用性和落地性的方式。</div>
-</div>
-<div class="qa-item">
-<div class="question"><strong>Q:</strong> 在产品设计上，为什么产品细节如此重要？</div>
-<div class="answer"><strong>A:</strong> 因为对于用户来说，一个产品能否提供无缝、可控的使用体验至关重要。例如Google Slides中直接嵌入编辑功能，让用户能在原地修改girl size，而不是跳转到其他页面操作，这使得产品更具吸引力和易用性。因此，作为产品或创业公司，必须注重产品的细节打磨，而模型能力决定了产品的下限，产品的上限则由产品细节决定。</div>
-</div>
-<div class="qa-item">
-<div class="question"><strong>Q:</strong> 你与强化学习奠基人之一、2025年图灵奖得主Rasul Sutton有何渊源？</div>
-<div class="answer"><strong>A:</strong> 我和Rasul Sutton的导师是好友，在21这个概念刚提出时就已相识。我的导师当年证明了q learning最基础的理论，并且我在斯坦福读博期间也见过Rasul Sutton多次，甚至参加过他在家里举办的聚会。</div>
-</div>
-<div class="qa-item">
-<div class="question"><strong>Q:</strong> Rasul Sutton在学术生涯中有何特别经历？</div>
-<div class="answer"><strong>A:</strong> Rasul Sutton曾罹患癌症，面临生活艰难的挑战，但他从未放弃对21这个研究方向的追求。他的坚持为21整个行业奠定了基础，尽管目前市面上很多人并不深入了解21，但所有人都在谈论要发展21相关领域，而真正能够做好21的人并不多。</div>
-</div>
-<div class="qa-item">
-<div class="question"><strong>Q:</strong> Rasul Sutton有哪些前瞻性的想法让你印象深刻？</div>
-<div class="answer"><strong>A:</strong> 他提到了“model policy”问题，即模型训练到一定程度后会遭遇性能崩溃，出现catastrophe forgetting现象，即模型开始忘记已学习的知识。此外，他还关注如何解决模型在面对大量数据时的持续学习问题以及如何设计具有道德标准的世界模型等问题。</div>
-</div>
-<div class="qa-item">
-<div class="question"><strong>Q:</strong> 目前模型训练的数据量是否已达到极限，如GPT-4或GPT-5这样的大型模型？</div>
-<div class="answer"><strong>A:</strong> 目前还未达到极限，模型的size还在增长，而数据量的增长是一个指数级的过程，两者最终会碰壁。在训练过程中，当模型大小与数据量达到某个阶段时，必须增大模型规模以避免性能急剧下降的情况。</div>
-</div>
-<div class="qa-item">
-<div class="question"><strong>Q:</strong> 对于同时优化多个目标的挑战，如何找到平衡点？</div>
-<div class="answer"><strong>A:</strong> Rasul Sutton提出了一种方法，通过学习一个多目标函数（multi-objective function），该函数能在每个状态下为多个目标计算对应的值，从而帮助决策者在多个目标间取得平衡。</div>
-</div>
-<div class="qa-item">
-<div class="question"><strong>Q:</strong> 从Rasul Sutton身上你学到了什么？</div>
-<div class="answer"><strong>A:</strong> 我学到的是，如果你坚信某个方向正确，就不要轻易放弃，短期、中期、长期的结果可能会有所不同，有时看似停滞不前，但长期来看可能会得到更好的结果。</div>
-</div>
-<div class="qa-item">
-<div class="question"><strong>Q:</strong> 当前对RL（Reinforcement Learning）研究最深的高校或研究机构是哪些？</div>
-<div class="answer"><strong>A:</strong> 当前对RL研究深入的以OpenAI早期一批人、Peter Bill的学生以及MIT的某些研究团队为主，同时还有微软等工业界的参与者。伦敦地区也有不少优秀人才，但整个领域还是由上述核心人群及其衍生的学生和合作团队主导。</div>
-</div>
-<div class="qa-item">
-<div class="question"><strong>Q:</strong> 伦敦是否会成为LL（Language Model）的大本营？</div>
-<div class="answer"><strong>A:</strong> 虽然伦敦在早期有一批人如David等在研究强化学习，但现在看来，伦敦可能不会成为LL的大本营，因为OpenAI和Demystify等机构的存在，可能会使旧金山湾区成为该领域的核心地带。</div>
-</div>
-<div class="qa-item">
-<div class="question"><strong>Q:</strong> 当你的思维方式较为超前时，在与投资人沟通产品或想法时会遇到哪些困难？</div>
-<div class="answer"><strong>A:</strong> 遇到共识问题，超前的想法往往难以获得投资人的广泛认同。建议在市场共识的基础上加入逻辑飞跃，展示技术优势和解决问题的实际意义，以及相较于其他公司独特的竞争优势。</div>
-</div>
-<div class="qa-item">
-<div class="question"><strong>Q:</strong> 在AI agent的发展中，未来脱颖而出的关键点是什么？</div>
-<div class="answer"><strong>A:</strong> 关键点在于技术路线的选择和技术升级，因为高效的AI agent系统成本很高，技术路径的选择将决定公司能否存活下去。同时，产品发展形态和市场格局将由创始人及团队决策所导致，并会产生显著区分。</div>
-</div>
-<h1>节目文稿</h1>
-<p class="transcript-line">
-<span class="time"><strong>[00:00:00]</strong> </span>
-<span class="speaker"><strong>发言人1: </strong></span>
-Hello, 大家好，欢迎收听硅谷101，我是红军。上一集节目我们刚刚复盘完AI agent的投资逻辑，OpenAI就发布了它的第一款通用型agent ChatGPT agent。
-</p>
-<p class="transcript-line">
-<span class="time"><strong>[00:00:14]</strong> </span>
-<span class="speaker"><strong>发言人2: </strong></span>
-We have a bang afford today. We&#x27;re going to launch chat BT agent. People want to a unified agent that could go off use its own computer.
-</p>
-<p class="transcript-line">
-<span class="time"><strong>[00:00:21]</strong> </span>
-<span class="speaker"><strong>发言人1: </strong></span>
-很多网友问，怎么感觉这个有一点点像我们经常用到或者提到的manus跟James park这些通用型的AI agent。这一集我们就来聊一聊这些看上去很像的通用型AI agent们，他们不同的技术架构和设计逻辑有什么不一样。我们邀请来了poke AI的创始人朱哲清，他也是前meta AI应用强化学习团队的负责人，本科与斯坦福博士的研究方向都是强化学习。所以这一集我们也会聊到全世界最顶尖的强化学习大本营的人才分布，以及AGI的五个层次。从这两三年的AI发展来看，OpenAI它定义的前三个层次的AGI可能已经实现或者是部分实现了。而对于一些前沿研究者来说，我们现在正处在一个从第三层到第四层的跨越期。而强化学习正式揭开谜底的钥匙。
-</p>
-<p class="transcript-line">
-<span class="time"><strong>[00:01:23]</strong> </span>
-<span class="speaker"><strong>发言人1: </strong></span>
-另外再发一个高能预警，嘉宾的学习与工作语言都是英文，所以今天的播客专业术语中出现了很多的中英夹杂。而且我觉得他可能对非技术的听众听起来有一点点不友好。但比起语言的问题，这依然是一期很高质量且极具前瞻性的对话。如果大家理解有困难，可以在B站或者youtube上来看我们的字幕版。
-</p>
-<p class="transcript-line">
-<span class="time"><strong>[00:01:49]</strong> </span>
-<span class="speaker"><strong>发言人1: </strong></span>
-欢迎poky AI的创始人朱哲卿bill猪，hello bill, 大家好。对，我们今天录制的时间正好是在OpenAI刚刚发他的ChatGPT agent的这个周末。它其实是周五上午发布ChatGPT agent的，我不知道在它发布以后，差不多过去一天半的时间你有没有使用。
-</p>
-<p class="transcript-line">
-<span class="time"><strong>[00:02:09]</strong> </span>
-<span class="speaker"><strong>发言人2: </strong></span>
-对我确实上来第一手就使用了它。因为在它发布前一天，大家其实都已经看到了他们在twitter上面的一些预热。我们在当天下午的三四点钟就开始试用它了，感觉它的总体效果可能比我们想象中要差一些，速度也比我们想象中要慢很多。
-</p>
-<p class="transcript-line">
-<span class="time"><strong>[00:02:29]</strong> </span>
-<span class="speaker"><strong>发言人2: </strong></span>
-核心的原因应该是跟它原本的deep research和office本身的速率有关。因为research相对于市面上所有的产品来说，它还是相对比较慢的一个research产品。再加上offer的本身，我们也知道它的那个benchmark上面它速度也很慢。所以它把两者结合了以后，整体速度就更慢了。比如说有一个比较简单的，大家都在对比的一个用例，就是先做deep research，然后再去创建一个slice。像这种用力的话，时间基本上在35分钟到1个小时之间，所以它是个非常慢的一个过程。
-</p>
-<p class="transcript-line">
-<span class="time"><strong>[00:03:03]</strong> </span>
-<span class="speaker"><strong>发言人2: </strong></span>
-我觉得它的一个优势是在于它在brothers上面真的要做Operation的时候，是相对有优势一些。比如说他去定个定制的衣服或者定制的旅程的时候，他在brothers上面的去点击的能力是要超过市面上的大多数的brother visage。所以非常取决于你的使用的方向是什么。如果是偏运营相关的一些工作的话，可能不是很实用。但是如果是偏consumer相关的，它可能会更实用一些。
-</p>
-<p class="transcript-line">
-<span class="time"><strong>[00:03:34]</strong> </span>
-<span class="speaker"><strong>发言人1: </strong></span>
-你可不可以具体举一下例子，就是你具体用了他的哪些方面。因为刚刚其实有举到在挑衣服或者在做旅行的时候，它会看起来比其他的这些基于浏览器的agent它会更有优势一点。可不可以讲一下你的整个的一个使用场景，包括我们对比它跟其它的一些使用浏览器的A真的来比，它的不一样是什么？
-</p>
-<p class="transcript-line">
-<span class="time"><strong>[00:03:56]</strong> </span>
-<span class="speaker"><strong>发言人2: </strong></span>
-对我可以简单举两个例子。一个就是我想要去新加坡待三天，我就问他说你能不能帮我把整体旅程定下来，然后去找对应的航班酒店信息把它定下来。他确实是花了很长的时间，他一开始先去做了规划，然后那个规划所有的LOM现在都可以做，所以这个没什么可impressive的地方。之后就去搜了往返的航班以及所对应的酒店，其实难度也没有很大。但是目前市面上大多数的broader base agents这方面其实做的都不是很好。Chat BT在这上面会相对的好一些，因为它的vision的能力会相对更好。它有点像机器人的那种解决架构，就是它有vision language model在里面，然后它根据vision的结果，他会再有反馈。
-</p>
-<p class="transcript-line">
-<span class="time"><strong>[00:04:42]</strong> </span>
-<span class="speaker"><strong>发言人1: </strong></span>
-你的vision model是指的你在比如说找航班的时候，他能看到这个搜索页面的信息。他不一定是要用后台数据API接口调用的方式，指的是这个不同的。
-</p>
-<p class="transcript-line">
-<span class="time"><strong>[00:04:54]</strong> </span>
-<span class="speaker"><strong>发言人2: </strong></span>
-大多数的bv里面都有一些vision的部分，就是说我要去看那个页面到底长什么样。因为很多时候你如果说靠像broader use这种，它就完全是靠后端想办法去拉它的页面里面的所有的HTML的components。然后拿到components以后，我再去看说每个component是什么，然后再选择点哪个地方，然后再去执行。很多时候第一，你有可能去访问页面的时候就会被卡死，因为你是等于是在爬虫爬人家的页面。第二，作为一个browse with agent的话，你是希望说能够看到它整个visual的structure是什么样子的那他的vision的能力就会有帮助。当然了，像很多的computer use的agent都带vision能力，所以也不是一个很大的创新了。但是因为它的vision能力相对强一些，所以导致它真的take action的时候，要比我现在看到市面上别的要好一些。
-</p>
-<p class="transcript-line">
-<span class="time"><strong>[00:05:42]</strong> </span>
-<span class="speaker"><strong>发言人1: </strong></span>
-他帮你订机票酒店，然后做旅行规划，整体花了多久？
-</p>
-<p class="transcript-line">
-<span class="time"><strong>[00:05:46]</strong> </span>
-<span class="speaker"><strong>发言人2: </strong></span>
-我记得应该是二三十分钟。
-</p>
-<p class="transcript-line">
-<span class="time"><strong>[00:05:49]</strong> </span>
-<span class="speaker"><strong>发言人1: </strong></span>
-他是最后完成支付环节了，还是说只是把所有的航班给你选好了。
-</p>
-<p class="transcript-line">
-<span class="time"><strong>[00:05:54]</strong> </span>
-<span class="speaker"><strong>发言人2: </strong></span>
-只是选好了，就是到了支付环节都是documented over。我觉得支付的环节是所有的agent业务范围内最麻烦的一个点。因为正常的人类不会trust agent去做支付环节。所以很多时候所有的A卷一旦涉及到支付，都会卡死在那里。不是技术上卡死在那里，而是产品上卡死在那里。因为人和A卷之间的信任其实没有达到那个标准，所以导致大多数像我们也一样，我们其实有很多跟制服相关的功能是已经集成完的，但是我们一直都没有release他们。因为我觉得不会有人那么轻易的信任poky去做这件事情。
-</p>
-<p class="transcript-line">
-<span class="time"><strong>[00:06:32]</strong> </span>
-<span class="speaker"><strong>发言人2: </strong></span>
-Open I也有一样的问题，就是说到了支付环节，它还是需要人类去take over，然后去完成这个支付的任务。等于说他花了二十多分钟，但当中你还是得要招聘说我要去付钱。总体来说我觉得实用性没有很大，我宁可说自己花点时间十几分钟全部搞定了。
-</p>
-<p class="transcript-line">
-<span class="time"><strong>[00:06:50]</strong> </span>
-<span class="speaker"><strong>发言人2: </strong></span>
-另外一个相对比较常用的用例就是他们在电商方面也花了很多力气。比如说根据你的要求，然后去找相对应的产品。我个人还挺不是很喜欢这个产品方式的，因为我感觉它整个帮你去搜索产品，找相对应的产品的形态。比如说什么颜色，什么样的款式的过程，它其实是一个挺慢的一个程。而人去选的话也就是点几个键的事情。
-</p>
-<p class="transcript-line">
-<span class="time"><strong>[00:07:17]</strong> </span>
-<span class="speaker"><strong>发言人2: </strong></span>
-我一直认为说电商这个方向它的决策链路很短，导致说A正真正能够给你带来的优势很小。因为它真正需要人类决策的那个范畴，也就是可能3到4步最多了。它没有像别的那种，比如说你要做个research，你要写一个slides，你要去写一个a fresh eat，这样这种东西都是很花时间，而shopping可能没有那么花时间。
-</p>
-<p class="transcript-line">
-<span class="time"><strong>[00:07:43]</strong> </span>
-<span class="speaker"><strong>发言人1: </strong></span>
-我觉得shopping他最花时间的地方，其实不是在你已经想好了你要什么到下单的这个过程，而是一个你在选择的那个过程。所以刚刚其实你有提到就是你用它去订航班跟酒店的时候，我就特别想问你最后自己订的那家酒店跟他做旅行规划，然后帮你找到的那家酒店最后是一致的吗？就是你对他找的结果满意吗？不一致航班也不是。
-</p>
-<p class="transcript-line">
-<span class="time"><strong>[00:08:09]</strong> </span>
-<span class="speaker"><strong>发言人2: </strong></span>
-因为他有很多信息他都不知道。我举个例子，我一般出门都住hide飞航班的话，我一般都会选尽可能在直飞里面找，可能价格比较低的。但是他在找的时候，他其实没有这个反馈机制，就一开始问你的时候，他只会high level问你三四个问题，就是deep research的那种问题。他一轮完成了以后，他后面没有再跟你有反馈了，他就一直在自己执行。所以他定的就是一个相当于笼统的这么一个解决方案，到最后我得要全部推翻重来，因为他并没有用任何我喜欢的品牌。个性化的部分是我认为目前市面上A类产品，特别是to c的A类产品，而且跟productivity不相关的A类产品的一个最大痛点。欧贝安一直在强调他们memory的能力，这是很重要的。确实，但是他们从哪里去一开始去收集这个memory，就变成了一个good start问题，我没有办法解决的一个事儿。
-</p>
-<p class="transcript-line">
-<span class="time"><strong>[00:09:01]</strong> </span>
-<span class="speaker"><strong>发言人1: </strong></span>
-但是其实只要你告诉他一次你喜欢住嗨他的酒店，他可能以后就记住了，跟一个人类的助理一样，你越用才会越顺手。而且假设让你的秘书去帮你订这个机票，你可能也得跟他沟通说，我要还要他的酒店，我在飞机上偏好什么时间段，什么价格，什么仓位。
-</p>
-<p class="transcript-line">
-<span class="time"><strong>[00:09:20]</strong> </span>
-<span class="speaker"><strong>发言人2: </strong></span>
-对，确实是这样的。但是人类会不会愿意去做这么一两轮的沟通，说完了以后他是不是能记住？其实我目前用ChatGPT用下来，它对于你的一些行为的偏好是有些记忆的。但是更复杂的偏好，其实他的记忆没有那么完整。Chat b刚出来的时候，我其实有问过他跟旅行相关的问题。但这次问他的时候，他还仍然没有记住当时给他的一些反馈。所以他并不是能够很完整的把你所有的返回都记下来。
-</p>
-<p class="transcript-line">
-<span class="time"><strong>[00:09:50]</strong> </span>
-<span class="speaker"><strong>发言人1: </strong></span>
-我们知道其实OpenAI在推出这一轮的ChatGPT agent以前，就刚刚我们反复提到它有两个agent。一个是Operator，它处理的是跟电商购物相关的agent的调用。另一个是deep research，是做深度研究的。然后我看他这次整个的发布，我自己的感受是它有一点点像这两个agent之间的一个结合体。因为其实你也自己在开发agent的相关的产品，你觉得OpenAI在这个中间核心的技术壁垒是什么？就是把这两个agent放在一起，它的难度大吗？
-</p>
-<p class="transcript-line">
-<span class="time"><strong>[00:10:23]</strong> </span>
-<span class="speaker"><strong>发言人2: </strong></span>
-其实没有很大。这次的这个产品让我甚至于感觉是他们为了看到市面上有很多通用医症的出现，想要占领市场而做的一个move。而不是说他们真的已经准备好了。像他们发布会上面甚至给到的一定的产品的demo，其实也并不是很ready的一个状态。说句实话，他们做的很多的任务和市面上的通用agent相比，其实可能效果更差一些，速度又更慢。
-</p>
-<p class="transcript-line">
-<span class="time"><strong>[00:10:51]</strong> </span>
-<span class="speaker"><strong>发言人2: </strong></span>
-它为什么结合deep research和Operator这两件东西放在一块变成一个agent？核心原因是因为deep research是帮你achieving，就是说我从哪里可以得到更完整的面向于用户需求的这么一个信息。Operator说基于这些信息我怎么去执行这个任务。
-</p>
-<p class="transcript-line">
-<span class="time"><strong>[00:11:10]</strong> </span>
-<span class="speaker"><strong>发言人2: </strong></span>
-过往的话基本上这两个方向是割裂开的。如果说要去了解更完善的新技术，就直接只能用deep research。用完了以后，他可能给了你一个巨大的report，这个report也不足以让你去做任何事情，你可能只能拿这个report复制粘贴到某一个文档里面。然后Operator也是一样的，就是你必须要已经知道说你想要什么。然后基于你想要的东西，你再去找Operator说帮你去操作一些网页来完成这个任务。这两个都是可能在自己的这个领域里面做的比较好的。
-</p>
-<p class="transcript-line">
-<span class="time"><strong>[00:11:39]</strong> </span>
-<span class="speaker"><strong>发言人2: </strong></span>
-那他希望说可以从信息获取information material到execution这一个端到端的体验能够把它打通。通过这两个，这是个比较natural的决策。但我目前看起来它相当于是一个工程解决方案，就相当于是一个判定。如果这个用户需要非常复杂的information rival，那你就去做deep research。完成了d research以后，我拿着这个信息再去做执行。如果不需要，那就直接执行就好了。
-</p>
-<p class="transcript-line">
-<span class="time"><strong>[00:12:06]</strong> </span>
-<span class="speaker"><strong>发言人2: </strong></span>
-然后当中还有一个偏coding和sandbox一个解决方案。就是它跟minus很像的一个点是它确实有sandbox，它可以去执行，比如说生成PPTX的文件，用python的script写一些那种比如说bash那种script，让你去3 bo x去执行一些任务。所以它是基本上就是一个从deep research到a brothers到sandbox的一个结合体。
-</p>
-<p class="transcript-line">
-<span class="time"><strong>[00:12:29]</strong> </span>
-<span class="speaker"><strong>发言人1: </strong></span>
-对，那你觉得它跟市面上的这种通用型的AI agent它的主要区别是什么？或者说市面上所有这些通用型的AIA枕头，我们把它放在一个池子里，我们看各家它们的优劣势都分别是什么。因为我相信他们可能在解决不同场景的问题，还是会有一些些区分度的对目前。
-</p>
-<p class="transcript-line">
-<span class="time"><strong>[00:12:48]</strong> </span>
-<span class="speaker"><strong>发言人2: </strong></span>
-的通用agent我把brothers和非brothers全部列出来，可能包括这么几家，一个是perplexity，一个是open and topic。其实没有推出他们自己的通用agent，但他们有coding的agent。我们相对比较小一些，我们比较晚期才出来有minus。就是Spark可能在浏览器方面有eu toria fellow，还有flow，但fluid可能更偏向vertical一些。
-</p>
-<p class="transcript-line">
-<span class="time"><strong>[00:13:14]</strong> </span>
-<span class="speaker"><strong>发言人2: </strong></span>
-首先在browser能力最强和Operating的能力最强的应该是目前还是OpenAI。特别在deep research加brother Operation放在一块儿以后，他们绝对是最强。如果你去看一些benchmark里面，比如说像最新出来的browsing camp，他们能够在browser camp上面达到50%多的battering score。而别的最高，现在目前也只有二十多分。
-</p>
-<p class="transcript-line">
-<span class="time"><strong>[00:13:37]</strong> </span>
-<span class="speaker"><strong>发言人2: </strong></span>
-就是在开源环境下，然后在closer真的execution上面，Operator做的还是相对比较好的。因为当年的Operator是跟很多有API有3 box环境去对比的，它就只有一个broader。所以现在加上3 box的能力以后，opa加open AA3 box应该是会超越市面上别的一些工具的brother 3 box的。但是它唯一的一个比较麻烦的点，就是在于OBI的brothers尝试do you but too much？就是说他什么东西都想往往browse里面塞，导致他速度很慢。那broker就包括了open I fellow以及minus的一部分。因为minus brother在另外一个方向就是完全只有LM然后再加上一些execution，可能是也能算3 box。但是它是一个limited，就是说它并不是可以never给整个系统里面的所有的package，它有一些预设package然后去做这件事情的。
-</p>
-<p class="transcript-line">
-<span class="time"><strong>[00:14:29]</strong> </span>
-<span class="speaker"><strong>发言人2: </strong></span>
-当然我们忘记说xy proxy在browser里面，我觉得是做了一个相对比较另类的。就是他的那个browser不是说我做一个能够navigation wsa的agent。而是说他在一个用户在使用browser的时候，他给你个cyber，然后让你去说我需要在这个页面上做些什么，然后他去帮你执行。
-</p>
-<p class="transcript-line">
-<span class="time"><strong>[00:14:49]</strong> </span>
-<span class="speaker"><strong>发言人1: </strong></span>
-对，brothers就是浏览器的意思，sandbox就是虚拟机。所以刚刚其实你提到了基于浏览器跟虚拟机的这两种搭建方，是可不可以整体跟听众科普一下，现在整个AI agent它的搭建在底层架构上有哪几种？
-</p>
-<p class="transcript-line">
-<span class="time"><strong>[00:15:06]</strong> </span>
-<span class="speaker"><strong>发言人2: </strong></span>
-现在的agent有这么四种大的方向，一个是基于浏览器的那种agent然后第二种是浏览器加虚拟机的agent。在这种agent里面就会有很多通过虚拟机里面的代码以及命令行来完成的操作，第三种是只有虚拟机，但是在虚拟机内部有非常大的限制的那种，主要通过LM的能力去生成代码，然后只能运行某一种类型的代码。然后最后一种就是一个可以横跨很多很多工具集成的这种agent。
-</p>
-<p class="transcript-line">
-<span class="time"><strong>[00:15:39]</strong> </span>
-<span class="speaker"><strong>发言人2: </strong></span>
-我先讲一下browser，非browser就是closer 3 box和像pocky可能是个另类，在所有的里面是个另类就是broster，然后3 box纯LM然后在poky的这种这四个方向都有互相可借鉴的地方，而且也有互相overland的地方。Browser的意义是在于说，我认为是上所有的网页和所有的互联网服务都可以在某个网页上面呈现。所以我只需要我的agent能够看到那个网页，去操作那个网页，我就可以完成我的任务。那browser就用户可视化的可以看到这个browser base agent在页面上体现哪些地方，他可以一页一页的去看，说这是不是跟人一样在操作一些网页。
-</p>
-<p class="transcript-line">
-<span class="time"><strong>[00:16:20]</strong> </span>
-<span class="speaker"><strong>发言人2: </strong></span>
-那它的缺点是什么？就是它很慢，而且它的token consumption特别高。原因在于你去看一个网页要花就等于把那个HTML的文件直接拉下来，然后可能还包一些javascript些scripts。然后你把它全部拉下来，然后就从零开始全部读一遍，就只为了操作一个网页。但是它确实是万能的那第二个就是sam box sambol x的意义是我可以线下写一些python script，写一些比如batch script，甚至写一些javascript的一些script。就直接在那个虚拟机环境里面直接去跑那个script来完成一些任务。
-</p>
-<p class="transcript-line">
-<span class="time"><strong>[00:16:52]</strong> </span>
-<span class="speaker"><strong>发言人2: </strong></span>
-你像你要去做数据分析，你完全就可以说，这是一个表格的一样的文件。然后我直接告诉虚拟机一阵说我有这个文件，它的抬头是比如说是个sales文件的话，那就是时间weekly sales品类各种各样的抬头。然后你得到这个文件以后，你就直接告诉那个虚拟机说，你能不能照着这个帮我去做一个每周的week over week的analysis。然后他就啪给你写个pilon script，然后就帮你运行了，得到那个结果。
-</p>
-<p class="transcript-line">
-<span class="time"><strong>[00:17:19]</strong> </span>
-<span class="speaker"><strong>发言人2: </strong></span>
-虚拟机环境的好处就在于它可以运行任何的线下的open source那种package。但它的缺点就在于它很多情况下无法访问互联网，特别是那种需要OF的那种产品。比如说你要去登录你的facebook，这些东西它都是肯定做不到的。
-</p>
-<p class="transcript-line">
-<span class="time"><strong>[00:17:35]</strong> </span>
-<span class="speaker"><strong>发言人2: </strong></span>
-第三种就是LM加3 box放一块的那种，它可能是limit一个大环境。James box是一个这样的例子，它并不给你完整的一个sandbox，它这个例子连连你都没有。James mark作为一个例子，是它有一个LM作为主体的一个reasoning的过程。然后他写代码也是完全靠这个LM。它有一个sandbox，让他去运行一些代码，去生成一些东西，然后再把它render出来。
-</p>
-<p class="transcript-line">
-<span class="time"><strong>[00:17:58]</strong> </span>
-<span class="speaker"><strong>发言人2: </strong></span>
-但那个sam box是不能叫example，因为它是very limited的一个环境。就是说它只有三四个package，它是fully control。就是说这个环境内部，它无法说我现在现有去下载一个开源的package。比如说我现在需要临时去修改一张图片。这个任务如果在他原始的那个package design里面没有，他自己不会去说我去下载一个package，然后去做这件事情。所以这种设计是js bug。比如说像那种slide agent、piece agent, 他们在设计的时候就把它那个可用的包裹给限制住，说我不再让用户去用更多的package。
-</p>
-<p class="transcript-line">
-<span class="time"><strong>[00:18:33]</strong> </span>
-<span class="speaker"><strong>发言人2: </strong></span>
-就是一个相对来说比较封闭的一个环境的一个工作流。在限制环境下用一个LM做主体写代码，同时用一个小的那种环境去执行。然后最后一种就是可能和我们还有以前的ZPRNANUI pass这种一个工作流似的。但是工作流内部的每一个节点，它是通过和第三方服务提供商直接集成来完成的这么一个做法。这个的优势就在于说我可以保证每一个服务的delivery是非常solid。
-</p>
-<p class="transcript-line">
-<span class="time"><strong>[00:19:07]</strong> </span>
-<span class="speaker"><strong>发言人2: </strong></span>
-因为第三方服务，比如说facebook，它就facebook给我们的access它不会出错。但与此同时它有它的限制，就是他不能做do everything，就是他有很有可能会出现这个用户想要在personal的facebook账户上面发图片，那我们就做不到。因为facebook只让creator和商业用户去自动化的发这种帖子。所以这是我们的和比如说以前的UI path，ZPRNN的一条路径，所以有这么四种类型。
-</p>
-<p class="transcript-line">
-<span class="time"><strong>[00:19:34]</strong> </span>
-<span class="speaker"><strong>发言人2: </strong></span>
-第二种和第三种之间的边界是很模糊的。唯一的区别就在于第二种的3 box是LM执行完了以后，它所能够给你用使用的samp box是一个几乎开放的一个sam box。就是你自己可以选择说我要去下载新的package再去执行。所以那个3 box本身的能力是占整个能力做主体的。而第三种可能是LM的能力，在现有package底下能生成出代码，就已经是限制了整个AG能力的主体。
-</p>
-<p class="transcript-line">
-<span class="time"><strong>[00:20:03]</strong> </span>
-<span class="speaker"><strong>发言人1: </strong></span>
-对对对，很精彩。从用户的使用体验上说，如果我们说pokey跟James park，跟menus，跟OpenAI的ChatGPT agent，你觉得比如说用户的体验，他会有什么非常明显的不一样吗？
-</p>
-<p class="transcript-line">
-<span class="time"><strong>[00:20:17]</strong> </span>
-<span class="speaker"><strong>发言人2: </strong></span>
-其实有蛮多地方都还蛮不一样的。我们先讲minus，因为他们是第一家出来的。Manus的体验就是说他尽可能用一个sam boo x加上brothers的环境来搭建一个几乎让人觉得万能的一个环境。我有一个LM作为一个planning主题，然后planning完了以后，它进入到brazen以后，它是另外一个agent在完成broza navigation他得到的信息，再用这个信息总结下来，再去进3 box做执行。
-</p>
-<p class="transcript-line">
-<span class="time"><strong>[00:20:47]</strong> </span>
-<span class="speaker"><strong>发言人2: </strong></span>
-如果有必要的话，他确实可以做很多事情。虽然他有很多时候会出现很多是因为他看整个上下文太长了，但是它确实理论上可以涵盖市面上你所需要的所有的功能。但同与此同时它也被browser能力所限制住。比如说你要去真的发个帖，他就做不到。因为他对整个页面的navigation说，我要去选择那个小的button，然后选择完了以后去上传一个图片，生成一个视频，各种各样的这就很难。比如说你要去建一个google sheet，说我要把goole sheet里面的某一个cell，把它改成某一个格式，它也比较难。因为这个attention的space太小了。那brothers就是它的一个main limitation。第二个点就是它很慢，这个是minus跟charge VT agent的一个通病。就因为你用了browser，所以它的速度就会非常慢三十多分钟左右的task.
-</p>
-<p class="transcript-line">
-<span class="time"><strong>[00:21:35]</strong> </span>
-<span class="speaker"><strong>发言人1: </strong></span>
-三十多分钟我觉得还是快的。估计因为我最开始使用的时候可能是一两个小时，但那个时候非常早。
-</p>
-<p class="transcript-line">
-<span class="time"><strong>[00:21:42]</strong> </span>
-<span class="speaker"><strong>发言人2: </strong></span>
-对，现在肯定比以前要快了，因为他们的整个基建什么的都上来。但是它的瓶颈会在它的瓶颈甚至最后变成nevermore。就你low的一个网页本身你可能就需要三四秒，那你这个是跳不掉的。Chat PT的优势在于他们deep rearch做的好，他能够做出一个很详尽的。然后你如果通过这个report去执行某些任务，它会变得相对来说比较更comprehensive一些。
-</p>
-<p class="transcript-line">
-<span class="time"><strong>[00:22:05]</strong> </span>
-<span class="speaker"><strong>发言人2: </strong></span>
-Minus的话可能它的总体优势可能在于它的那个3 box的环境搭的可能要比chat PT要搭的更好一些。但这个我还需要更详尽的去look into。因为ChatGPT里面的那个sandbox它能做到什么程度我还不太清楚。但我猜一个minus在3 bok就花了很多精力去defy，应该会有一个比较小的优势。
-</p>
-<p class="transcript-line">
-<span class="time"><strong>[00:22:26]</strong> </span>
-<span class="speaker"><strong>发言人2: </strong></span>
-Jans bok就是它一开始有个super agent，几乎说我可以做任何事情，但是到后面就发现它能够处理的工具数量开始变得有限，所以他开始做template ts就比如说slide是一个agent，比如说AI call是一个agent，sheet是一个agent，browser也单独做了一个agent。在同一个用例下面，他们把用户体验作为他的核心目标，然后做一些template。不管你问什么问题，他总是用这样的template去生成slide，总是用这些工具去搜索信息，使得它变成一个相对比较标化的工作流，就越来越不是一个general agent，他就变成一个偏人为选择的这么一个agent。但是它速度确实要比minus跟chat PT要快一些，原因就是因为它没有那么大的browser navigation。同时它的3 box本身是非常有限制的，它就只有这么一点工具在某一个agent里面。
-</p>
-<p class="transcript-line">
-<span class="time"><strong>[00:23:14]</strong> </span>
-<span class="speaker"><strong>发言人1: </strong></span>
-这样是不是也更节省tokens.
-</p>
-<p class="transcript-line">
-<span class="time"><strong>[00:23:16]</strong> </span>
-<span class="speaker"><strong>发言人2: </strong></span>
-会相对节省一些tokens。
-</p>
-<p class="transcript-line">
-<span class="time"><strong>[00:23:17]</strong> </span>
-<span class="speaker"><strong>发言人1: </strong></span>
-对他把大任务都拆成了细分的垂直的小任务。然后我猜他想做的是当他把应用场景一个完善。他可能就类似于一个承载了很多小任务的一个大平。
-</p>
-<p class="transcript-line">
-<span class="time"><strong>[00:23:28]</strong> </span>
-<span class="speaker"><strong>发言人2: </strong></span>
-对它就会变成一个类似于像微信小程序一样的一个所在tok可能最大不一样，就是说它可能是目前所有的A件里面最快的。我们现在还没有把我们的deep research agent开出来，但是我们是有一个deep research age正在开发当中的。所以我们最后会有我们自己的deep reagent，加上我们的x real agent放在一块儿。总体体验会有大幅提升。但是总体速度应该是市面上所有产品的4到10倍左右。
-</p>
-<p class="transcript-line">
-<span class="time"><strong>[00:23:56]</strong> </span>
-<span class="speaker"><strong>发言人2: </strong></span>
-为什么可以做到的？原因就是因为你如果不再需要用非常复杂3 box，你也不再需要去用非常复杂的to calling。我们现在直接用第三方集成的SDK和工具，通过我们自己的to calling foundation model call function的话，整个速度是会大幅度提升的。就是没有了像MCP和现在市面上的这种在to calling里面的巨长无比的context问题。所以他每次脱靠的整个成本可能能够削减掉百分之五六十。再加上我们自己的上下文的engineering，使得整个的cos在市面上至少跟open I的chat VTH跟demand a相比是个数量级的difference。跟像vertical zed jet bag这样的可能是几倍的一个差距。
-</p>
-<p class="transcript-line">
-<span class="time"><strong>[00:24:39]</strong> </span>
-<span class="speaker"><strong>发言人2: </strong></span>
-在头跟使用上面，我们确实是有劣势的。特别是跟Brown base相比，我们并不是完全万能的。有一些任务像你要去personal economy去post facebook post，我们只能在facebook ge上面去post，然后instruct必须是creator account或者business account。但是个人账户没有办法帮你post.
-</p>
-<p class="transcript-line">
-<span class="time"><strong>[00:24:59]</strong> </span>
-<span class="speaker"><strong>发言人1: </strong></span>
-它只有企业用户才能去使用你们的agent。因为比如说你在接instagram跟facebook的接口的时候，他给到你的就是一个企业用户才能操作的界面。
-</p>
-<p class="transcript-line">
-<span class="time"><strong>[00:25:10]</strong> </span>
-<span class="speaker"><strong>发言人2: </strong></span>
-不是企业用户，是creator。就是相当于说创作者或者企业账户，他们不希望说个人用户全都用这个去post，post完以后没人上facebook、instagram. 他们希望个人用户像consumer仍然可以每天去facebook和instagram面自己去看那些帖子，然后去发帖子，这样有engagement。然后企业用户和创作者用户，他希望能够让他们去创作更多。所以在为什么把API开给他们，然后每个平台都有他们自己的limitation。
-</p>
-<p class="transcript-line">
-<span class="time"><strong>[00:25:38]</strong> </span>
-<span class="speaker"><strong>发言人2: </strong></span>
-我觉得这个路径其实是相对比较符合商业逻辑的。因为如果你想象所有的个人用户都通过一个agent，想办法用brother去hack facebook，或者is one账户，或者是hack某一个平台，说我通过一个agent去爬虫你的网页来完成一个任务。那对于这个平台来说是一个损失，我就把这全都卡掉。所以如果你一开始就是跟着他们的商业逻辑走。以前有人会通过非常menu写代码的方式去完成这个产品up主。现在就会有人直接写一段文字，然后直接bike working，然后就直接把这个视频creative直接上传到这些传媒平台上。别的平台也是一样的，他就给你所开放的权限，就是他们认为开发者和非个人用户或者非consumer用户真正会最需要用得上的一些工具。如果你可以把这些都放进agent里面，那些原来就会使用这些工具的人，他就会转过来说我写一行prompt就行了，不再需要写任何代码。
-</p>
-<p class="transcript-line">
-<span class="time"><strong>[00:26:38]</strong> </span>
-<span class="speaker"><strong>发言人1: </strong></span>
-对，所以我理解其实像minus James park还有OpenAI的ChatGPT agent，他们的商业模式其实是to c的。然后你的商业模式听起来现在应该是更偏to b的。
-</p>
-<p class="transcript-line">
-<span class="time"><strong>[00:26:50]</strong> </span>
-<span class="speaker"><strong>发言人2: </strong></span>
-现在这个时代下，B端跟C端的模糊性很高。但是我们一定是在professional plus来使用我们的产品的。Professional below consumer用户其实使用一个非常省时间的AI agent的这个概率不是很高。这也是为什么市面上很多AI agent的retention是非常差的原因。因为他没有重复性，他很多的工作流是用一次就结束了。而我们的很多的目前上来的用户，我们看到的是他每周都会在跑一模一样的工作。所以这是我们发现它有重复性。
-</p>
-<p class="transcript-line">
-<span class="time"><strong>[00:27:23]</strong> </span>
-<span class="speaker"><strong>发言人1: </strong></span>
-在那这个是不是也很取决于平台会给你们开放一些什么样的SDK工具跟它的API接口。假设我每天的微信太多了，然后我想有一个agent去帮我管理有的信息，帮我去回复一些比较基础的信息。那其实前提还是说微信他要给这样的一个agent开放一个它的接口。那他们是不是愿意把这些接口开放给开发者呢？
-</p>
-<p class="transcript-line">
-<span class="time"><strong>[00:27:47]</strong> </span>
-<span class="speaker"><strong>发言人2: </strong></span>
-在美国的话，像这种开发者的community是很多大公司，特别是科技公司所崇尚的一个方向。所以大多数公司都有非常完善的API接SDK package。甚至于说他们给到你的就是个非常简单的一个pro的接口，他也不给你派送SDK之类，国内公司可能会相对差一些，它很多接口不开放给你。但微信的话，比如说企业微信的那种级别的微信也把接口放给你，你也可以自动回复，什么都有。
-</p>
-<p class="transcript-line">
-<span class="time"><strong>[00:28:16]</strong> </span>
-<span class="speaker"><strong>发言人2: </strong></span>
-国内的整个生态其实也在慢慢在开放，特别是MCP这波出来了以后，有很多的公司都开始被迫开放他们的SDK跟API。比如说高德地图就是一个例子，之前可能没有那么开放的高德地图，后面在MCP出来了以后，他们是首先把地图这个生态给完全打开的这么一家公司。所以其实有蛮多这样的例子的。
-</p>
-<p class="transcript-line">
-<span class="time"><strong>[00:28:38]</strong> </span>
-<span class="speaker"><strong>发言人2: </strong></span>
-我们目前有一些公司给到我们的开放一些平台的一些API或者接口是独家的，但有一些不是。总体来说这个商业模式一定是偏professional的商业模式。因为有很多的consumer端的一些use case，它就是非常brother oriented。比如说你去浏览网页买东西，其实穿。Request也有偏professional和非professional。
-</p>
-<p class="transcript-line">
-<span class="time"><strong>[00:29:02]</strong> </span>
-<span class="speaker"><strong>发言人2: </strong></span>
-就professional就比如说出差的这种，那你每次都是标化的。比如说你每两个礼拜要去飞一趟湾区，那你每次都住同一个酒店，那你就每两周帮你买一次这个机票。但如果是一个consumer出去旅行的话，那他就是我要去玩这个地方，然后我住的酒店也要去export新的东西。然后我的航班要比如说今天我刚发了奖金，我要飞商务舱了，它有很多的变数在里面，所以这种用例它本身就更适合，比如说可能brother base agent，因为他就是有一个laptop在他面前，他可以开那个bra去做事情。
-</p>
-<p class="transcript-line">
-<span class="time"><strong>[00:29:34]</strong> </span>
-<span class="speaker"><strong>发言人1: </strong></span>
-在你跟大公司合作的过程中，他们去开放这个API接口，他们的动力是什么？包括其实刚刚你也提到了像国内高德地图再去接入MCP协议，就是他们的动力又是什么呢？
-</p>
-<p class="transcript-line">
-<span class="time"><strong>[00:29:45]</strong> </span>
-<span class="speaker"><strong>发言人2: </strong></span>
-首先第一点是整个AG的浪潮会从某种意义上来说取代正常的web traffic。过往可能是一个人打开一个浏览器，然后在google社区里面打入一段搜索，得到这个搜索结果以后，点一个网页再去做某件事情，对吧？这是一个常规流程。
-</p>
-<p class="transcript-line">
-<span class="time"><strong>[00:30:06]</strong> </span>
-<span class="speaker"><strong>发言人2: </strong></span>
-但未来可能是你打开ChatGPT，比如说你是做consumer端，你比如说打开pokey是你的professional端。你可能就打一段字说，今天早上我看到了reply的CEO和YC的一个采访。那你能不能直接把youtube上面的那个script直接拉下来，帮我写一段报告，告诉我说他的那个gross strategy key take away是什么？然后他就直接做完了整个流程。我从来没有打开过youtube，一个agent就是从头到尾做完了这件事情。可能你以后shopping的use case也是一样，你可能从头到尾就只是打开了。
-</p>
-<p class="transcript-line">
-<span class="time"><strong>[00:30:37]</strong> </span>
-<span class="speaker"><strong>发言人2: </strong></span>
-ChatGPT说我明天要去一个晚宴，需要一套正装。他已经知道了，说我的身材是什么样子的，我多高。然后他就自动帮我说找到了，这是最符合你的，然后把这个衣服摁在了你的身上，你看一眼就觉得好。然就说现在这边有个折扣，然后就付款了，就可能是这么一个流程。
-</p>
-<p class="transcript-line">
-<span class="time"><strong>[00:30:56]</strong> </span>
-<span class="speaker"><strong>发言人2: </strong></span>
-这个给我们的启示是什么？就是说以前的那种所谓的工作流已经被改变了。他们不再是通过browser去initiate整个工作流的开端，去下单或者去得到这个信息，然后再去进入另外一个网页去进行操作。无法避免的是我认为在接下来1到2年的时间内，大多数的门户网站，不管是e commerce还是搜索，还是视频网站，还是各种方面的门户网站，他们的流量一定会非常快速的下降。而它的入口变成了各个方向的agent。
-</p>
-<p class="transcript-line">
-<span class="time"><strong>[00:31:29]</strong> </span>
-<span class="speaker"><strong>发言人2: </strong></span>
-这是为什么当时google要推出a to a的协议。每一家公司都可能会有自己的agent，可能是agent和agent之间的交互。他如果能够占用这个协议的话，在jm里面完成这个协议的首先部署，最后他就会是整个里面最大的赢家。因为他成为了agent的入口。在GPT也是一样，cloud也是一样。为什么他们要退出协议？也是他们想要战略有这个A镇入口的核心目的。那也是为什么poky要退出协议的原因，就是我们也想占据professional这个场景下的agent入口。
-</p>
-<p class="transcript-line">
-<span class="time"><strong>[00:32:01]</strong> </span>
-<span class="speaker"><strong>发言人1: </strong></span>
-你们为什么想自己退出协议，而不是就接一个标准的MCP协议。这样其实大家都是可以统一用的。然后你也在一个更大更广的生态里面，可以直接的接入很多已经接好了的APP。
-</p>
-<p class="transcript-line">
-<span class="time"><strong>[00:32:14]</strong> </span>
-<span class="speaker"><strong>发言人2: </strong></span>
-其实MCP现在的可用性是很差的，现在市面上应该快要2万个MCP了，其中可用的MCP大概不到200个，而且大多数MCP都无人维护。导致的结果就是大多数的公司是不愿意花时间去做那个MCP协议的。我们的目标是说公司不再需要做MCP协议，你也不需要自己去做一个MCP server。你就直接把open IPI给到我，我们就take care of the rest。所以公司在一些service provider公司的层面上来说，就他们啥也不用干，他们就可以得到一个额外的流量入口。
-</p>
-<p class="transcript-line">
-<span class="time"><strong>[00:32:47]</strong> </span>
-<span class="speaker"><strong>发言人1: </strong></span>
-对，然后你刚刚在描述整个未来在接入了agent以后，互联网它会发生一个什么样的形态的变化。比如说门户网站它的流量会大幅的下降。就像你听到rapper的CEO的一段演讲，你就直接在ChatGPT或者自己pokey上就完成所有对演讲的复述了。其实我是在想这样一个问题，因为我自己的身份是一个创作者，就我俩身份是不一样的。那你觉得未来这个对创作者的影响是什么呢？
-</p>
-<p class="transcript-line">
-<span class="time"><strong>[00:33:13]</strong> </span>
-<span class="speaker"><strong>发言人1: </strong></span>
-如果我现在做一档播客，假设我们上一期内容，腾讯算法广告大赛它是有一个口播广告在里面的。只有更多的人听这个播客，大家才可以听到这个广告。他才能支撑一个播客的商业模式运转下去。就是大家才能持续的赚到钱，然后能把这档节目持续的运营下去。如果没有这样一个过程了，还有人在下面说，这期播客为什么没有开AI总结？对，就不去听这个播客了，就直接去看这个AI总结。其实对广告其实是一种流量的折损。
-</p>
-<p class="transcript-line">
-<span class="time"><strong>[00:33:45]</strong> </span>
-<span class="speaker"><strong>发言人2: </strong></span>
-我觉得广告这个行业会永远存在，但是它的发生形式会发生改变是为什么？市面上有很多专注于广告的AI公司，他们想要去看在LM时代或者A正时代，广告要如何被插入。我举个简单例子，在播客里面插播广告这件事情，未来会变成一个什么样子的？现在的博客大多数除了平台方收你钱以外，播客提供者本身是不收你钱的。比如说硅谷101录的一个播客，但是大家都是免费听的。如果你在youtube上面只是用了youtube的广告，然后youtube通过那个广告给你们分成，那未来可能是说我们需要去access你的这个博客本身这个知识产权就是值价钱的。每一次通过调用也好，通过网页访问也好，去找到你们这个播客的时间，或者是得到你这个信息的那一刻，任何的A选方就要向你付款了。你不再需要去担任那个广告流量的负责方。
-</p>
-<p class="transcript-line">
-<span class="time"><strong>[00:34:41]</strong> </span>
-<span class="speaker"><strong>发言人2: </strong></span>
-那个广告是由agent来完成的。就是agent说我得到了这个信息以后，我怎么去在整个工作流或比如说在用户体验当中插入广告。那个agent就可以问说，我们现在得到了这个对比，你想要选哪一个agent去start playing around with？这个时候它就有一个ranking的机制在那儿。因为这个地方并没有back and why的answer，对吧？那它就有个ranking机制，它这个时候推荐哪个agent去或者user try，它就可以向那个agent的公司去收钱了。所以广告在这个时候发生。而支持每个API，每个第三方的插件的产品本身，或者说知识产权本身是可以直接收费的。
-</p>
-<p class="transcript-line">
-<span class="time"><strong>[00:35:20]</strong> </span>
-<span class="speaker"><strong>发言人2: </strong></span>
-所以对于创作者生态以及SARS生态，从某种意义上来说是变好了，而不是变差了。你不再需要去在google上面投广告，你也不再需要去免费的把你的内容发给youtube，让他去帮你投放。而是有一个agent直接向你付费，通过他自己的广告机制去cover他自己的cost。我不觉得说你们会受到很大的冲击。
-</p>
-<p class="transcript-line">
-<span class="time"><strong>[00:35:45]</strong> </span>
-<span class="speaker"><strong>发言人1: </strong></span>
-对整体上我觉得其实就是说流量分成这样的一个模式，它会变得越来越弱。如果agent调用了很多创作者的内容，怎么给创作者付费，其实是未来可能会讨论的一个问题。然后我觉得稍微有一点点疑问的就是基于流量的这套方式。因为比如说你有推荐算法，你一个页面可以显示十条博客的内容，或者是12条你想要点击的一个视频信息。但是比如说一个agent他在回答一个问题的时候，我觉得现在他还是比较聚焦于精准，他可能引用的范围就相对更小了。
-</p>
-<p class="transcript-line">
-<span class="time"><strong>[00:36:21]</strong> </span>
-<span class="speaker"><strong>发言人2: </strong></span>
-其实上礼拜在icml的时候，有一个专门做推荐系统的人。然后我们俩其实聊到了这件事情。Panel之后有一个researcher上来问我说，那你觉得推荐系统之后会是一个什么样的发展路径？我当时告诉他，我觉得推荐系统的大方向可能会受到巨大挤压。
-</p>
-<p class="transcript-line">
-<span class="time"><strong>[00:36:38]</strong> </span>
-<span class="speaker"><strong>发言人2: </strong></span>
-在asian的整个框架下面，它还是一个推荐系统的一个端到端的multihull decision making的一个过程。但是他每一次给你的交互，其实只是给你一条信息的结果，或者说几条最相关信息的结果。这个时候它的整个决策线不再是按照排行第一，排行第二第三这样的方式去决策了，而是时间是他的决策点。因为一个人和一个agent之间的交互的总时长是基本固定的，就是说这个agent好，我就会交互时间久一点。他的目标可能是说我在每一个时间点上，我给你推荐的东西，可以让你所consume的time和他能够得到的回报成正比。
-</p>
-<p class="transcript-line">
-<span class="time"><strong>[00:37:20]</strong> </span>
-<span class="speaker"><strong>发言人2: </strong></span>
-那这个时候它的整个原始的推荐系统算法可能就不那么成立了。因为原来推荐系统算法是说，我可能每一条点击的概率是跟它的排行所成正比的。而现在成为说我每一次给你推荐或者给你回复的这个信息，基本上都是你必定会去点的东西。但是你会有第二轮跟我交互的过程，我下一次你花这个时间跟我交互，我所占用这个时间成本给你推荐的东西，这一条就必须是最精确的。这样会使得你跟我有更多的交互。所以他的目标就变成了说我不是有五条十条在一个页面给你呈现，还是说我可能有五轮十轮的。然后每一轮我的目标是让你跟我做下一轮的交互。这个时候就跟传统推荐系统的算法就完全不一样。
-</p>
-<p class="transcript-line">
-<span class="time"><strong>[00:38:07]</strong> </span>
-<span class="speaker"><strong>发言人2: </strong></span>
-所以当时我跟他说，我觉得整个推荐系统，特别是这种rank base推荐系统的长期的发展的潜。你可能会被极度压缩，因为它可能没有rank。它更多的是一个sequential的，然后experience base expansion base的这么一个交互机制。你可能唯一的目标就是说每一条我都是给你最精确的，能够在不损失我未来的opportunity cost情况下，我在同等级别的content里面选择一个我可以有更多收入的这么一个content。当然我也不是百分之百确定是一定是未来的方向。但我个人从目前的这个agent发展趋势来说，感觉是这么一个方向。
-</p>
-<p class="transcript-line">
-<span class="time"><strong>[00:38:43]</strong> </span>
-<span class="speaker"><strong>发言人1: </strong></span>
-我觉得非常有意思。而且整个之后，比如说创作者的生态会怎么演变，也是我们一直非常关注的一个话题。我注意到其实在整个这次OpenAI它的发布会里面，它其实也提到了他在用强化学习的底层架构。我知道强化学习架构也是你的强项。你可不可以跟听众简单介绍一下，用强化学习的架构好在哪儿？它对应的是什么？
-</p>
-<p class="transcript-line">
-<span class="time"><strong>[00:39:08]</strong> </span>
-<span class="speaker"><strong>发言人2: </strong></span>
-我觉得先要简单解释一下的就是强化学习的架构有很多种，有完全以ON为核心的token base的这种强化学习的方向，也有我们这种这个action本身就是我要让agent去决策的。这个点可能不再是一个language token为决策element的这么一个决策方式。
-</p>
-<p class="transcript-line">
-<span class="time"><strong>[00:39:29]</strong> </span>
-<span class="speaker"><strong>发言人2: </strong></span>
-这两种决策方式没有好坏之分，但是他们的用例也不太一样。但是总体来说，为什么要用21的framework去完成agent训练的原因就是因为有目标在。不管是deep research，它可能只需要从token by token的generation的方式去尽可能的搜索相关信息，然后完成一整个report。还是说AS里面像pokey一样，说我的工具可能就是一个totalities的东西。然后我可能通过很多个工具放在一块儿可以解决一个问题。它都是为了以目标为驱动，跟过往的一个LM训练很大的一个不同在于说，LN本身的训练是可以通过大量的super story data来完成的，就是all of resolve的这种的方式。而agent&#x27;s system这件事情很难deep research仍然可以用一些。
-</p>
-<p class="transcript-line">
-<span class="time"><strong>[00:40:16]</strong> </span>
-<span class="speaker"><strong>发言人2: </strong></span>
-但是到了to calling这一部分，单一的to calling可以通过数据来完成。但是当变成工具链的时候，它就很难再完成一个order progressive training。原因是因为市面上不存在一个，比如说我有这么一个任务，而这个任务所对应的是这50个图扣。然后把这个数据复印的给一个来什么让他去训练，对吧？
-</p>
-<p class="transcript-line">
-<span class="time"><strong>[00:40:37]</strong> </span>
-<span class="speaker"><strong>发言人2: </strong></span>
-没有人去撞见过这个数据，也不可能通过互联网去得到这个数据。因为互联网上也没有人产生过这种数据，所以只能靠人为标注了。如果说你非要用这样的数据。
-</p>
-<p class="transcript-line">
-<span class="time"><strong>[00:40:47]</strong> </span>
-<span class="speaker"><strong>发言人1: </strong></span>
-你觉得有哪些任务？比如说他用监督学习微调的方式更加容易，有哪些任务它它是一定要通过这种强化学习的方式来做呢？就是这两者之间我想他针对的任务可能也是不太一样的。
-</p>
-<p class="transcript-line">
-<span class="time"><strong>[00:41:00]</strong> </span>
-<span class="speaker"><strong>发言人2: </strong></span>
-目前的共识是针对于世界上已经有的很多的写作数据，文本、视频、图片这一系列有大量已标注数据的这种任务，一般来说通过监督学习就已经可以得到一个很高的水平。然后再通过RHF的这种post training的方式，使得这个能力再上一个台阶，使得可以更符合人类大多数preference的一个效果。为什么要做这个原因呢？是因为你大量的监督数据，其实很多数据掺杂着好坏，并不是每一个数据点都是人类所喜欢的那他训练完了以完全泛化到所有的互联网上的数据。下一步就是说我能不能以人类喜好为目标，去fine tune一下我的模型，使得它更偏向于人类喜好的模式。这是r traf的目的在后面。为什么现在甚至于要讲RL free training？原因是在于很多的任务是只有目标驱动的。
-</p>
-<p class="transcript-line">
-<span class="time"><strong>[00:41:55]</strong> </span>
-<span class="speaker"><strong>发言人1: </strong></span>
-有哪些公司在做RL pretrail？
-</p>
-<p class="transcript-line">
-<span class="time"><strong>[00:41:58]</strong> </span>
-<span class="speaker"><strong>发言人2: </strong></span>
-现在只有研究的组在做，但我们其实就已经开始做一些类似于our present的东西。但他还有一些a prior knowledge，那些没法靠pressure定得到。但是其实他已经基本上把中间的那些很多确定的过程给扔掉了。但我就不细讲这朋友，我先讲讲以21为核心的训练机制。
-</p>
-<p class="transcript-line">
-<span class="time"><strong>[00:42:17]</strong> </span>
-<span class="speaker"><strong>发言人2: </strong></span>
-为了解决什么问题？就是说很多的任务是以目标驱动的。比如说写代码，比如说数学物理，就金融机构的一些东西。然后再比如说城市规划，你做Operation supplies这些东西，它都是有明确目标的，世界机制也很完整。如果A发生了，会出现B那在这种情况下，pre training就变得不是很有必要。
-</p>
-<p class="transcript-line">
-<span class="time"><strong>[00:42:38]</strong> </span>
-<span class="speaker"><strong>发言人2: </strong></span>
-第一，你这种专业型的目标为驱动的这些场景，你可以想象，大多数都是没有任何的数据的，数学跟代码是唯一的两个，可能有相对比较多的数据点的一些场景。除此以外，我刚刚说的剩下的那些点基本上都没什么数据。你很难在互联网上得到大量的数据去完成这个训练。第二，本质至少他要解决的问题是非常泛化的，而书面上已经出现的数据大多数都是非常聚焦在一些经常会发生的coding问题和代码问题和数学问题。而那些非常高深难测的那些数学问题，它是从来没有出现过的那它就必须要通过一个counterfactual的形式，就是我要生成一些这市面上从来没有出现过的代码，数学物理规划等等等等的这种输出。然后靠一个ground truth devalue来告诉我做的对不对，然后去self train。这种训练方式是非常适合于这种有ground truth能够做出精确判断的这种用例，然后去进行优化的。这个时候R的最闪光的时候了。
-</p>
-<p class="transcript-line">
-<span class="time"><strong>[00:43:39]</strong> </span>
-<span class="speaker"><strong>发言人2: </strong></span>
-其实有很多research在网上都说过，就是说其实现在最大的问题是verification。我如果能够找到一个good verified，那我会consider prom soft。因为可以通过21去完全对于这个verified opposition就可以了。
-</p>
-<p class="transcript-line">
-<span class="time"><strong>[00:43:53]</strong> </span>
-<span class="speaker"><strong>发言人2: </strong></span>
-接下来我要讲一个我个人认为可能有一定非共识的一件事情。在verified之上，我们可能下一步最需要完成的一件事情就是怎么去提升那个verification方向，那个模型或者verification机制的泛化性。以及说当这个agent本身输出在DV from what people have seen in the world的时候，如何能够使那个verify可以adapt到新的输出上面去，然后使得那个verify可以完成更好的verification。这个如果有谁能做出来，我们就可能会真正踏入向super humor intelligence迈进的这么一条路。因为它可能闪出的知识就是人类所不拥有的。
-</p>
-<p class="transcript-line">
-<span class="time"><strong>[00:44:34]</strong> </span>
-<span class="speaker"><strong>发言人1: </strong></span>
-这个如果能做出来，它是可以解决幻觉的问题吗？
-</p>
-<p class="transcript-line">
-<span class="time"><strong>[00:44:38]</strong> </span>
-<span class="speaker"><strong>发言人2: </strong></span>
-我觉得幻觉问题是另外一个问题，就是这个东西很容易产生幻觉。这个方向是就像我们当年看到offer zero打败人类一样，它所能够走出的一些路子，是跟人类正常想象当中想象不到的一些路子。可以通过这个机制甚至于可以发现新的物理定理，它可能可以真正去discover human所不拥有的knowledge。这个可能是下一步我觉得真正迈向supreme talk的一个关键点，但是目前还没有什么很好的一个突破。
-</p>
-<p class="transcript-line">
-<span class="time"><strong>[00:45:07]</strong> </span>
-<span class="speaker"><strong>发言人1: </strong></span>
-对你说到这个点，让我想起了OpenAI对AGI的五个层次的划分。其实也是因为OpenAI在这一轮跟微软争夺控制权的问题上，把他们之前跟微软签的一份协议给曝光了。我觉得整个路径就是在沿着你说的这个方向走。它的AGI的第一个层级是就是聊天机器人，我们可以理解成ChatGPT对话型AI很好理解。第二个是推理型的AI这也是大家在去年其实看到的一个方向。第三个方向就是AI agent代理型AI或者AI智能体。这个AI不仅能思考，还能替代人类去执行这种多步骤的自主操作，完成一系列的任务。比如说我们刚刚说的旅行，订航班、订酒店这一类的，看起来今年也在朝着这个方向迈进了。
-</p>
-<p class="transcript-line">
-<span class="time"><strong>[00:45:53]</strong> </span>
-<span class="speaker"><strong>发言人1: </strong></span>
-第四个等级的AI就是创新型AI它把它叫做innovators。他说的是这个人工智能需要具备创造性思维，它能够自主的发明新的工具或者方案。比如说在药物发现中，他可以去发现一个新的分子。那这个时候其实AI它就已经可以提出人类没有想过的办法，然后自己去找到这种创新型的解决方案。就是你刚刚说的，如果有了这个方案，AI是不是在创作性的问题上可以超越人的范畴，去提出一些人没有想到的这个解决方式。现在看起来我们今年就是在整个市面上，大家看到的是大家对AI agent的一个非常热的市场在爆发。但是就是你刚刚说的这一点，让我想到了OpenAI它定义的第四个等级。
-</p>
-<p class="transcript-line">
-<span class="time"><strong>[00:46:37]</strong> </span>
-<span class="speaker"><strong>发言人1: </strong></span>
-他说的第五个等级就是组织型或者是超人级的AI。就是说AI可以独立承担一个组织的全部职责，远超常人。有一点类似于我们说的超级AGI。
-</p>
-<p class="transcript-line">
-<span class="time"><strong>[00:46:49]</strong> </span>
-<span class="speaker"><strong>发言人2: </strong></span>
-我不得不说的一个点就是说他们对于AI能力的定义其实是偏产品能力的，它不是偏技术能力的。其实从某种意义上来说，二跟三之间没有一个巨大的跨越性。然后一看你怎么定义它了。因为聊天机器人可以是非常普通的聊天机器人，也可能是像现在我们看到的这些聊天机器人，对吧？然后四跟五之间，我个人认为也没有很大的gap，主要是3到4之间有个巨大的gap。这个gap的核心原因就是我刚刚说的navigation能力的无法跨越。
-</p>
-<p class="transcript-line">
-<span class="time"><strong>[00:47:23]</strong> </span>
-<span class="speaker"><strong>发言人2: </strong></span>
-从人的角度来举例子，因为人可能是他的学习方式其实就跟21很像。比如说你小时候学一个东西，你可能可以判断的东西都是在你的知识范围之内的。比如说你学会了加法，那你只能判断一加一等于多少，2加2等于多少。你没办法直接去泛化到说3减2等于多少。
-</p>
-<p class="transcript-line">
-<span class="time"><strong>[00:47:44]</strong> </span>
-<span class="speaker"><strong>发言人2: </strong></span>
-这个reasoning的过程并不是一个靠内在知识就可以完成提升的一个问题。像我们现在所说的verifiable的，像比如说reinforcement fine tuning这些都是以一个内在verities体系就可以完成的知识迭代。就是说我有这么一个very fiction，它是永久固定的，你可以通过这个verification去不停的提升。或者说我预计了给到你一定vertical knowledge，你根据这个knowledge就可以不停提升。但如果说一个A卷可以做到20位数的加减法，但他从来没有见过减法这个东西。他仍然没有办法verify说一个减法是对还是错那。
-</p>
-<p class="transcript-line">
-<span class="time"><strong>[00:48:21]</strong> </span>
-<span class="speaker"><strong>发言人1: </strong></span>
-我觉得人也是，对吧？假设我学的是数学，或者说我从来没有学过生物，我的数学领域的知识我不知道生物的底层逻辑的话，我也很难泛化。
-</p>
-<p class="transcript-line">
-<span class="time"><strong>[00:48:33]</strong> </span>
-<span class="speaker"><strong>发言人2: </strong></span>
-所以这个地方最难的一个点两个地方。一如何通过一个人类给定的简单的描述，可能是减法跟加法的关系是什么？直接能够从A推理到B的version是什么？如果可以做到这一点，那agent的整个verification泛化性就直接上到下一个台阶。
-</p>
-<p class="transcript-line">
-<span class="time"><strong>[00:48:55]</strong> </span>
-<span class="speaker"><strong>发言人2: </strong></span>
-第二点是他能不能通过自我探索，基于现有知识的去完成对于未来知识variation的一个延伸。这个也很难。比如说你已经知道了大多数的碱和酸之间会生成，比如说二氧化碳。那你能不能对二氧化碳的性质进行一个简单的自我了解，并且对于未来可能会出现对二氧化碳的问题做出一个location，这个也是非常难的。然后未来如果出现了类似的agent本身产生的结果，我能够去verify说这个结果是对还是错，这个也非常难。
-</p>
-<p class="transcript-line">
-<span class="time"><strong>[00:49:26]</strong> </span>
-<span class="speaker"><strong>发言人1: </strong></span>
-所以我理解就刚刚比如说我们在说到AGI的五个等级的时候，就是从第三个代理型AI到创新型ai他可能是跨越从低于人类水平到一下子超过人类的平均水平，甚至是超过最好的人类的水平的一个时间节点。
-</p>
-<p class="transcript-line">
-<span class="time"><strong>[00:49:44]</strong> </span>
-<span class="speaker"><strong>发言人2: </strong></span>
-所以3到4之间是远超过123跟45之间的gap的。我觉得5可能还有一个很微妙的东西，A正跟agent之间会不会出现人之间politics。因为如果agent和agent之间是decentralize的话，那他们的objective可能互相之间是有misalignment的那在decentralize volt agent system里面，它就有可能会出现politics。
-</p>
-<p class="transcript-line">
-<span class="time"><strong>[00:50:08]</strong> </span>
-<span class="speaker"><strong>发言人1: </strong></span>
-你指的是人与人之间的，比如说办公室政治斗争，就是类似于这。
-</p>
-<p class="transcript-line">
-<span class="time"><strong>[00:50:13]</strong> </span>
-<span class="speaker"><strong>发言人2: </strong></span>
-样子的对，但是A正在agent环境下会出现一个完全不一样的。因为他们的objective会互相冲突，一旦出现互相冲突也会卡死在那，甚至有点像在计算机系统里面的那种racing condition.
-</p>
-<p class="transcript-line">
-<span class="time"><strong>[00:50:24]</strong> </span>
-<span class="speaker"><strong>发言人1: </strong></span>
-直接lock在那。回形针问题。
-</p>
-<p class="transcript-line">
-<span class="time"><strong>[00:50:26]</strong> </span>
-<span class="speaker"><strong>发言人2: </strong></span>
-对，就可能会出现类似的情况。但是123和4之间是一个鸿沟，这个是谁能解决的话，这个是一个非常大的一个突破。
-</p>
-<p class="transcript-line">
-<span class="time"><strong>[00:50:35]</strong> </span>
-<span class="speaker"><strong>发言人1: </strong></span>
-你有看见有大公司是在沿着你说的方向，用RL做pre training这个路径去解决。包括做这个verification的机制的泛化。
-</p>
-<p class="transcript-line">
-<span class="time"><strong>[00:50:44]</strong> </span>
-<span class="speaker"><strong>发言人2: </strong></span>
-affiche区的泛化，目前还没有谁在做任何非常大的突破。目前大家能想到的就是说human knowledge distillation来做到variation的提升。Our free training确实有很多人在提了，但是our free training有一个致命弱点。因为oil是一个complete conceptual learning的一个过程。它会给你无法避免带来的一个问题就在于，它会不会出现一个能够解决问题的human看不懂的解决方案。
-</p>
-<p class="transcript-line">
-<span class="time"><strong>[00:51:12]</strong> </span>
-<span class="speaker"><strong>发言人2: </strong></span>
-比如说我们写一个代码verification，能够verify input是什么，offer是什么。然后这个agent写了一段代码，它确实work了，但是里面所有的Operator全是你看不懂。比如说object的variable的definition都是一些乱码。它的加减乘除都是用那些非常复杂的，甚至用编译语言写出来的东西，然后把它硬生生摁进了原来的那种代码里面。人类就看不懂的东西发生了什么，但它就是能work，这个也是它的一个致命弱点。所以它的那个reward definition会非常重要的。
-</p>
-<p class="transcript-line">
-<span class="time"><strong>[00:51:41]</strong> </span>
-<span class="speaker"><strong>发言人2: </strong></span>
-是比如说human read ability要怎么样。但是human read ability你没有办法用个如果来解决，吧？所以你就变成没有办法unverifiable.
-</p>
-<p class="transcript-line">
-<span class="time"><strong>[00:51:47]</strong> </span>
-<span class="speaker"><strong>发言人1: </strong></span>
-整个听下来世界也很危险。我大概听到这里能理解为什么jeffrey hinton他会那么悔恨自己去创造了AI的底层吗？比如说当这个AI它已经可以用人类不知道的语言写出超越人类知识的时候，就这个时候还是蛮危险的那今天。
-</p>
-<p class="transcript-line">
-<span class="time"><strong>[00:52:07]</strong> </span>
-<span class="speaker"><strong>发言人2: </strong></span>
-rich sutton更会合影，因为jeff hinton所创造的network更多的是能够represent human knowledge。而要做到counterfactual的knowledge discovery或者说policy的discovery，还得carl。所以如果要说悔恨的话，那rich stock可能会更悔恨。我觉得最终的一个事情还是如果说要谈到regulatory的这个问题，我觉得eventually对于reward design可能是需要有一定的regulatory efforts的。训练的时候给agent是什么样的一个incentive，他可能会决定说这个A型训练出来是什么样子。
-</p>
-<p class="transcript-line">
-<span class="time"><strong>[00:52:41]</strong> </span>
-<span class="speaker"><strong>发言人1: </strong></span>
-对，其实关于刚刚我们在比较强化学习跟SFT监督微调学习，就我们在比较这两者的时候，我也听到了这样一个说法。就我在我有一期节目里面讲过，比如说我们假设用强化学习的效果是比这个SFT的效果要好个两倍，但是它消耗的token的数量可能在十倍之多。就是对于现在大家马上要商业化，马上要应用来说，它的这个性价比算不过来，你怎么看？
-</p>
-<p class="transcript-line">
-<span class="time"><strong>[00:53:08]</strong> </span>
-<span class="speaker"><strong>发言人2: </strong></span>
-对，这个是很正常的。因为reinforcement for tuning的做法是说，我只有一个reward function，我没有任何的其他信息，我要去完成那个目标，而且你是说我已经有标准答案了，我只是需要想办法去靠近这个标准答案就好了。这个无法避免的就是2 il functioning的价格会更高。但是长期以往有更复杂的任务，他就没有办法做suffit tune。因为它没有标准答案了，所以它就不再是一个选择性问题。现在为什么会有选择性问题？是因为我们解决的问题还不够复杂，到了未来问题会越来越复杂。当他问题到了极度复杂的时候，就没有选择。
-</p>
-<p class="transcript-line">
-<span class="time"><strong>[00:53:47]</strong> </span>
-<span class="speaker"><strong>发言人1: </strong></span>
-对，然后你刚刚提到强化学习和监督学习微调的这些方式的不太一样的一个大点。我理解强化学习就是在你没有标注数据的时候，你也可以用这种方法。但是比如说传统的方法，这数据必须是标注的。而且这个可能已经慢慢的成为业界的一个共识了。那基于这个meta为什么还要收购scale AI？
-</p>
-<p class="transcript-line">
-<span class="time"><strong>[00:54:09]</strong> </span>
-<span class="speaker"><strong>发言人2: </strong></span>
-数据的重要性在现在的这个大时代下是有下降的。但是有一个方向是无法避免，就是数据的标注性在multiple，特别是在视频和图片数据上，是目前完全无法撬开的一件事情。
-</p>
-<p class="transcript-line">
-<span class="time"><strong>[00:54:24]</strong> </span>
-<span class="speaker"><strong>发言人2: </strong></span>
-因为它的variation能力会基于，比如说我们要做基于视频跟image的reinforce。它的作为image input的解析能力要达到很高的一个程度，而且没有办法靠human rule来完成。就是说他必须要靠模型的解析能力，去把那个video和图片的content整个解析出来。在这个content之上human才能写入，说我怎么去verify它，那这个解析能力就变得非常的难。因为我们现在都知道图片里面的很多细节，视频里面的很多细节。现在其实我们的模型是没有办法很好的解析的，特别是这种multi model的模型，它其实还是更多的偏向于text的能力。所以我的总体感觉是他们可能想在motte什么法理，而motive上面以及robotics上面标注目前是还跳不开的一个问题。所以这个方向可能会是一个meta接下来会发力的一个点。
-</p>
-<p class="transcript-line">
-<span class="time"><strong>[00:55:16]</strong> </span>
-<span class="speaker"><strong>发言人1: </strong></span>
-所以第一步多模态上还是得有先解析好了的或者标注好了的数据。相当于是把所有的数据先有一个基础的训练以后，我们再看强化学习能怎么处理。
-</p>
-<p class="transcript-line">
-<span class="time"><strong>[00:55:27]</strong> </span>
-<span class="speaker"><strong>发言人2: </strong></span>
-我现在看的整个路径都是这样。拆GPT最早是我有大量的数据训练出来模型。你这个基础模型再做一些sufi find鉴定，把它变成一个精炼的技术模型。精炼的基础模型之上，最早的时候我们拿一些数据训练一个reward model，然后通过这个reward model再去训练我的language model。用21去训练language model，让它变得泛化性更强，或者说它能够在未知领域能够达到更好的效果。现在慢慢就变成reinforcement，也就是说我不要那个ruler model，我就用现在大家的共识或者说LMS judge去训练模型。那这个已经成为慢慢会变成一个共识。
-</p>
-<p class="transcript-line">
-<span class="time"><strong>[00:56:02]</strong> </span>
-<span class="speaker"><strong>发言人2: </strong></span>
-在moto medi上面现在还处于第一第二步就是说我现在有大量的数据，我现在在训练一个基础模型，基础模型训练完了以后，我做一些22。那我怎么能够去做一个标准化的judge welfare，或者说一个ruby的welfare？这个是目前不存在的一个东西，而非常难做。因为一个image本身它没有标准答案。所以他可能会说我先通过数据来训练一个robot model，然后使得我multiple ody能力变到最大，然后再OK，我们达到的能力已经很强了。我能不能去通过这个输入输出的能力把它变成一个wifi，然后通过这个wifi我再去做reinforcement。我觉得整个lisa都是这样。在转到目前为止。
-</p>
-<p class="transcript-line">
-<span class="time"><strong>[00:56:44]</strong> </span>
-<span class="speaker"><strong>发言人1: </strong></span>
-对你觉得skill AI它在标注图片跟视频的这些数据上，更像是一个技术含量很高的一个工作。还是说他其实就是一个我找很多工人来给这个数据打标。只要找的人多，然后打的标多，它就可以成为一个数据库很多的地方。还是说它这个中间其实有很多要考验你技术的环节。
-</p>
-<p class="transcript-line">
-<span class="time"><strong>[00:57:04]</strong> </span>
-<span class="speaker"><strong>发言人2: </strong></span>
-我觉得第一点最难的地方就是文字的人为达标。还稍微简单一点，图片的人为打标就变得更难了。比如说你要生成一个产品图，这个产品图是好还是坏，100个人估计有100个说法，那他怎么能够标化那个产品图好坏呢？这个非常难。所以这里面其实有alignment问题。
-</p>
-<p class="transcript-line">
-<span class="time"><strong>[00:57:24]</strong> </span>
-<span class="speaker"><strong>发言人2: </strong></span>
-这个alignment问题是个技术问题，我觉得短时间内可能很难解决。他们可能会先写一个非常复杂的rubrics，然后去训练这些人说这些图哪些比较好，哪些比较不好，然后变得更难了。就是说在这个情况下，肉曝干了这么一件事情是好还是不好？人可能都看不懂，说这个robot在干嘛。但我可能自己心里有plan，说我可能要先做这个，再做那个，再做那个可以完成这个目标。但是人可能完全不懂说为抹干这件事情。所以multi model以后再加上multi model加action这一层串下来，其实需要很多很多数据的支持。
-</p>
-<p class="transcript-line">
-<span class="time"><strong>[00:57:56]</strong> </span>
-<span class="speaker"><strong>发言人2: </strong></span>
-所以我觉得data是个中期问题。如果你说非常短期纯比如说resource，人人菜，中期可能会在data上面有瓶颈。长期可能还是一个optimization r的问题，所以它短中长期所需要的资源和能力都不太一样。而meta可能希望说它能够从某种意义上解决他自己的中期的数据问题，使得他自己motorola的能力会比较大的提升。
-</p>
-<p class="transcript-line">
-<span class="time"><strong>[00:58:22]</strong> </span>
-<span class="speaker"><strong>发言人1: </strong></span>
-他挖的这批人算是在解决长期问题。对，短期是什么？是算力。
-</p>
-<p class="transcript-line">
-<span class="time"><strong>[00:58:27]</strong> </span>
-<span class="speaker"><strong>发言人2: </strong></span>
-我们最早不是遇到了卡不够，各种各样的问题，那个问题已经解决了吗？现在就到中期问题，中期我们可能已经解决了一些在文字上面的代码上面的optimization的问题。但现在motive上面是不是也能够解决这些问题？在数据上还是有缺口的那之前的那些数据缺口在GPT4O之后的那一整批的intuition里面，其实已经基本上完成了。对于代码和文字上面的这些，现在就到了motility上面。等于是一模一样的game chart，他只是把这个东西横移过来了而已。
-</p>
-<p class="transcript-line">
-<span class="time"><strong>[00:58:59]</strong> </span>
-<span class="speaker"><strong>发言人1: </strong></span>
-对，但是也会有新的问题产生，就比如说刚刚我们提到的审美，图片的标注，视频的标注。
-</p>
-<p class="transcript-line">
-<span class="time"><strong>[00:59:05]</strong> </span>
-<span class="speaker"><strong>发言人2: </strong></span>
-对对对，但我觉得都是时间问题。
-</p>
-<p class="transcript-line">
-<span class="time"><strong>[00:59:07]</strong> </span>
-<span class="speaker"><strong>发言人1: </strong></span>
-那你觉得你自己做这个pokey AI你搭AI agent的一个你自己的底层的开发哲学跟逻辑是什么？
-</p>
-<p class="transcript-line">
-<span class="time"><strong>[00:59:15]</strong> </span>
-<span class="speaker"><strong>发言人2: </strong></span>
-最核心的逻辑是说我们现在认为AI agent的使用不像当年ChatGPT刚出来的时候那么简单。但我们希望说AI agent的使用就跟chat PT1样简单。不只是在用户层面跟consumer层面。而是说对于任何的企业开发者professional来说，他们调用一个agent就是对着一个简单的API1行prompt就完成了整个agent调用，得到的就是你最后的结果。而你不用去担心说中间出现各种各样的browser的环境，各种各样的问题都不再存在。
-</p>
-<p class="transcript-line">
-<span class="time"><strong>[00:59:48]</strong> </span>
-<span class="speaker"><strong>发言人2: </strong></span>
-这是我们的开发逻辑。这是为什么我们尽可能避免了非常复杂的info架构。而是通过很多的集成，把更多的能力全都压在A正本身的模型里面。而不是说我通过一个language model，然后通过不停的去调用市面上更多的infrastructure，去by pass这个工具的能力，把工具的数量去压缩。就某种意义上说，你用broader就是用一个工具代替了几千个工具。但是同时也意味着你的模型所需要的能力会更小一些。而我们的方式就是说我们希望模型的能力变得最强，然后工具就直接把它铺开，你就直接去想要用什么工具就用什么工具就好了。就相当于一个agent可以操作整个internet和一个agent只能看。
-</p>
-<p class="transcript-line">
-<span class="time"><strong>[01:00:30]</strong> </span>
-<span class="speaker"><strong>发言人1: </strong></span>
-一个网页这样的一个区别。模型的能力用到最強，还是接其他的基座大模型吗？还是你们自己也会开发自己的模型。
-</p>
-<p class="transcript-line">
-<span class="time"><strong>[01:00:38]</strong> </span>
-<span class="speaker"><strong>发言人2: </strong></span>
-我们会开发自己的模型。就是我们现在的很多的to coin to selection的这些能力都是我们自己的模型在做的。未来的话可能连那个land model的部分会跟我们的模型会直接结合在一块，变成一个单一模型。那个时候就从用户的input到语义理解，到工具选择planning，到最后的结果全都变成同一个A人来完成。这个时候这个agent会变得非常好用。因为它就不再像很多市面上的这种agent一样，它需要有大量的来来回回的info之间的跳转。而是说你只要把那个prompt输入一个API，这个API就可以给你提到你最后的deliver的结果。
-</p>
-<p class="transcript-line">
-<span class="time"><strong>[01:01:13]</strong> </span>
-<span class="speaker"><strong>发言人1: </strong></span>
-为什么要开发自己的模型？这个是所有的通用型agent它必须具备的一个技能。还是说他也可以直接大模型。
-</p>
-<p class="transcript-line">
-<span class="time"><strong>[01:01:21]</strong> </span>
-<span class="speaker"><strong>发言人2: </strong></span>
-如果你用browser，你用那些sam box，就是说我用了sam box，然后让另外一个coding agent去完成coding的过程，然后再给到我结果。你可以不用自己开发大模型，原因是在于你把工具压缩了，我去依赖于另外一个写代码的一阵去跳过这些工具的使用。或者说我选择一个process agent，我去跳过你选择工具的使用。这个就是通过压缩工具的数量选择更general的工具来完成你的目标。不是说直接选择工具。
-</p>
-<p class="transcript-line">
-<span class="time"><strong>[01:01:50]</strong> </span>
-<span class="speaker"><strong>发言人2: </strong></span>
-为什么我们要去训练模型的原因呢？第一个一成本很高。你从一开始去解析用户理解planning到你选择3 box，3 box本身价格很高，brother还有vision的部分。第二，它速度很慢。第三，它的泛化性差，它训练的时候见过很多很多网页，当你进入到专业场景以后，它就很难。
-</p>
-<p class="transcript-line">
-<span class="time"><strong>[01:02:10]</strong> </span>
-<span class="speaker"><strong>发言人2: </strong></span>
-我举个例子，有朋友问我们要的一个feature，说我能不能从post talk，就是一个analyze web rec的一个网站上面这是个很复杂的网页，去找到用户本身的behavior，基于用户behavior的一些matrix，然后去导入一个NL一个script。然后在这个scrip里面得到这个plantation的几个figure。这个figure再放进一个report里面，生成一个PDF。就这么一个agent flow，你是不可能通过broader加SM box完成的，你必须要直接去access那个工具去得到最精确的数据，然后再去做分析。那这个流程就变成了我们的优势。
-</p>
-<p class="transcript-line">
-<span class="time"><strong>[01:02:44]</strong> </span>
-<span class="speaker"><strong>发言人2: </strong></span>
-类似于这种用户设计其实非常多。在广告分析里面，在用户分析里面，其实有很多很多的工具是在互联网上面。但是正常的brothers是肯定搞不定的，因为他们在训练当中从来没见过。所以我们能够通过我们的foundation model把成本降下来，把泛化性提升，把它的适用的workflows的类型有很大程度的拓展。而不只是限定于说那几个最简单的购物，写slides，做些research这种。其实有很多很多专业性的workplace他们解决不了的。
-</p>
-<p class="transcript-line">
-<span class="time"><strong>[01:03:17]</strong> </span>
-<span class="speaker"><strong>发言人1: </strong></span>
-所以我理解其实你们搭的是一个垂直的选agent的模型，对不对？
-</p>
-<p class="transcript-line">
-<span class="time"><strong>[01:03:22]</strong> </span>
-<span class="speaker"><strong>发言人2: </strong></span>
-选工具的模型我们不选agent，它不只是选单一工具，它是选一个sequence of工具，就是一个推理加工具选择的一个模型。
-</p>
-<p class="transcript-line">
-<span class="time"><strong>[01:03:31]</strong> </span>
-<span class="speaker"><strong>发言人1: </strong></span>
-对，因为我看见大家在谈到AI的时候，大家其实一般有两种派别。一种是说我把越来越多的问题交给AI，然后端到端的训练，它主打的就是一个人更少的干预，让AI去犯错误，让AI去学习。另外一种就是说我们在真实的应用中，还是产品跟用户体验优先。那这种情况下我们就要减少幻觉。减少幻觉的方式就是说我们还是要去拆分一些细节，让他的工作流稍微能确认的地方能够更加确认，让产品跟应用能够先用起来跟落地。你觉得你自己的产品哲学上你更偏向于哪种？
-</p>
-<p class="transcript-line">
-<span class="time"><strong>[01:04:07]</strong> </span>
-<span class="speaker"><strong>发言人2: </strong></span>
-就是我作为一个CEO，现在一半的我是一个产品人，一半的我是一个researcher。作为一个researcher我同意我第一个观点，因为越是general的环境能训练出越强的模型。作为一产品人，我会选择第二种。因为用户的体验跟模型的能力是不成正比的。我们模型能力肯定很强，但是所有的用户的体验可以是非常糟糕的。
-</p>
-<p class="transcript-line">
-<span class="time"><strong>[01:04:27]</strong> </span>
-<span class="speaker"><strong>发言人2: </strong></span>
-举个简单例子，我们之前自己遇到的问题就是我们模型其实选择的工具从头到尾都是对的。我们其实我们的工具是可以发帖到所有的平台的。就以社媒运营作为例子。之前我们其实有一段时间那个设备运营本身就发布完了以后那个link没有给到你。有很多用户就非常get confused to like我就发文发到哪儿去了呢？他也不知道说自己应该跑到那个账户里面，自己去看是不是有新的视频出现了，或者有新的图片出现了。然后就导致说能力其实都大家都打通了，但是就是这个用户不知道说你的产品在干什么。
-</p>
-<p class="transcript-line">
-<span class="time"><strong>[01:05:00]</strong> </span>
-<span class="speaker"><strong>发言人2: </strong></span>
-然后还有一个另外的例子，就是我们比如说成google slides，我们之前是就给你一个google slight，你自己去看。但现在我们会直接把那个goal sizes接ebed在我们的网页里面，你就直接可以原地在booky里面就直接可以修改girl size。大家就会觉得说这个东西是完全in my control的一个东西，而不是说我还要跑到另外一个网页里面去再改完，改完回来再看你生成点什么东西。所以他有很多这种用户细节在里面，跟你模型能力毫不相关。那在这种情况下，作为产品或者作为一家创业公司，你就必须要去打磨产品的细节。而模型能力是决定你的产品下限的，而产品的上限是由你的产品细节决定。
-</p>
-<p class="transcript-line">
-<span class="time"><strong>[01:05:39]</strong> </span>
-<span class="speaker"><strong>发言人1: </strong></span>
-对，我们刚刚好多次提到了race starter教授，他是强化学习的奠基人之一，也是2025年的图灵奖得主，因为我知道你在斯坦福读博，自己学的也是强化学习嘛，所以你跟race sutton他的渊源是什么？
-</p>
-<p class="transcript-line">
-<span class="time"><strong>[01:05:56]</strong> </span>
-<span class="speaker"><strong>发言人2: </strong></span>
-肖战跟我的导师是铁哥们，在他们提出21这个概念，当时提出这个difference learning的时候就认识了。然后我的导师当年是证明q learning最基础的temporary difference of polite learning的那个理论，能够被function proximately完成的那篇paper老师写的。然后我在stanford读博的时候，其实见过好几次的certain。甚至有一次在我导师家里，return来开party，然后大家就在一起吃烧烤啥的。
-</p>
-<p class="transcript-line">
-<span class="time"><strong>[01:06:24]</strong> </span>
-<span class="speaker"><strong>发言人2: </strong></span>
-有很多点，为什么我提到了certain？第一是他的这个经历跟很多人不太一样，他当年其实是罹患癌症的，他那个时候其实有好几年都没有任何工作，一度非常艰难。但是他从来没有放弃21这个research方向。后来他去了有universe Albert，然后Albert其实给了他挺大的支持，但他其实整个人身体的状态其实一直都不是很好，即便很多人都说是一个玄学，那时候也没有放弃过。第二个就是他这个人我跟他交流过几次，然后他非常principle。他的PHT学生是我们公司的vic scientist，所以还有更多的原因在里面。
-</p>
-<p class="transcript-line">
-<span class="time"><strong>[01:07:02]</strong> </span>
-<span class="speaker"><strong>发言人2: </strong></span>
-我们其实有聊很多这种我们的start of想法，然后聊模型的想法。它其实有非常多的前瞻性的想法，就是它不会拘泥于现在，比如说LM的能力或者是fdic model是会取代21。就是因为他的坚持，所以现在有了211整个行业的基础，与此同时有现在那么大的发展。虽然现在市面上有很多害怕，很多人其实并不是特别懂21，但所有人都在说我们要do or whatever。但真正能够把20 offer好的，其实整个行业也就这么几十号人。然后你可以看到都concentrate在这些人发的paper和做的产品里面。我觉得未来还是有很大的潜力的，而且要非常感谢他能够对这个行业和他自己的领域有那么强的坚持，否则也没有我们现在那么大的发展。
-</p>
-<p class="transcript-line">
-<span class="time"><strong>[01:07:46]</strong> </span>
-<span class="speaker"><strong>发言人1: </strong></span>
-然后你提到你跟rich arterton在聊天的时候，他提到了很多非常前瞻性的想法。你觉得有哪些想法是非常打动你的，或者让你印象深刻？
-</p>
-<p class="transcript-line">
-<span class="time"><strong>[01:07:55]</strong> </span>
-<span class="speaker"><strong>发言人2: </strong></span>
-我觉得他跟我提了很多次叫model policy这个问题。模型本身你的训练是不可以无限制对他训练的，就是你训练到某一个程度它就会fall apart。其实在21领域之前很经常看到叫catastrophe forgetting。就是说在你训练很久很久以后，他开始忘记所有过往的学习到的知识，然后整个模型像疯了一样，他所有的原来的抛弃都消失了。
-</p>
-<p class="transcript-line">
-<span class="time"><strong>[01:08:17]</strong> </span>
-<span class="speaker"><strong>发言人1: </strong></span>
-这个出现过吗？
-</p>
-<p class="transcript-line">
-<span class="time"><strong>[01:08:18]</strong> </span>
-<span class="speaker"><strong>发言人2: </strong></span>
-出现过很多文章里面都提到过这种事情。这是为什么？你一开始模型要变得足够大，其实就像海绵一样，然后你往里面不停的注水，然后你注水注到一定程度它满了，那你再往里面注水会发生什么？就是它会流出来一些，但流出来的不一定是注入的水，很可能是原来已经有的水。如果原来已经有的一部分水是很重要的水，就像你大脑里面不停的灌输知识，然后到最后你过载了，然后把加减乘除忘了，那是不是剩下的所有的知识体系就直接follow part。这个问题本身叫model plus disc，就是说它的可塑性到了某种程度就直接崩溃了。
-</p>
-<p class="transcript-line">
-<span class="time"><strong>[01:08:52]</strong> </span>
-<span class="speaker"><strong>发言人2: </strong></span>
-然后你要怎么去解决这个问题，叫continue learning。现在可能有一天会人类生成一个terabytes of data，那这十天是十个terabits，那未来可能生成数据还会越来越多。那你怎么能够用一个模型无限的去训练它，让它仍然能够对未来的知识进行获取，是不可能的。
-</p>
-<p class="transcript-line">
-<span class="time"><strong>[01:09:10]</strong> </span>
-<span class="speaker"><strong>发言人1: </strong></span>
-你觉得现在整个模型的训练，比如说到GPT four，甚至是GPT five，它的数据量已经到极限了吗？
-</p>
-<p class="transcript-line">
-<span class="time"><strong>[01:09:17]</strong> </span>
-<span class="speaker"><strong>发言人2: </strong></span>
-还没有没有。模型的size是一个clear在增长的一个过程，但是我们的数据量是一个指数在往上涨的过程，到了某一个阶段一定会碰壁的，没有办法这样scale下去。其实我们在pokey训练的时候就已经遇到过这个问题。因为我们训练的模型比较小，然后我们的工具量又很大，我们的数据量也挺大的。我们其实用小模型训练，训练到某一个点，它就突然之间整个performance就会掉的非常厉害。然后我们必须要把模型变得更大一号，然后再去训练才能够不出现这个protection覆盖的情况。它取决于你的use case，有些use case你可能小模型有一定的数据量，它已经发生了。
-</p>
-<p class="transcript-line">
-<span class="time"><strong>[01:09:54]</strong> </span>
-<span class="speaker"><strong>发言人2: </strong></span>
-然后另外一个他一直提的就是如果design的问题，在未来的世界，如果211作为核心的模型的优化机制了，那去设计这个world model的这个人他有什么样的标准？这个我本身是怎么去设计能够保证它的moral standard。这是一个非常麻烦的事情。因为你应该知道RL是一个sequential decision in的问题，也就是它的如果是相加的，你可以定义一个单步的rear是make sense。当它被加起来以后，变成很多步以后，它就变得并不是一个你可预测的的东西。因为它的那个总体如果是跟着policy，就是那个agent policy或者它的决策机制所改变，所以它的设计可能跟你原来的想法可能已经背道而驰了。
-</p>
-<p class="transcript-line">
-<span class="time"><strong>[01:10:40]</strong> </span>
-<span class="speaker"><strong>发言人2: </strong></span>
-然后还有一个问题，比如说你有多个reward怎么办？那你要同时优化四五个不同的目标。那在这种情况下，你怎么能够做到baLance这些目标，然后能够在这些目标当中找到一个每个项目都做的相对比较好的状态，这也是个问题。然后他也提出过这个想法，叫gender方式。怎么能够去学到一个同时优化多个objective的一个mod function。Mod function就是在211里面去决策，说我去到下一步，去到哪个状态能够达到更优解的这么一件事情。然后它可以在一个状态下得到多个目标所对应的值。这样的话可以去判断说我要怎么去平衡这些对应的这些objectives。
-</p>
-<p class="transcript-line">
-<span class="time"><strong>[01:11:20]</strong> </span>
-<span class="speaker"><strong>发言人1: </strong></span>
-挺有意思的，你觉得你从他身上学到了什么？
-</p>
-<p class="transcript-line">
-<span class="time"><strong>[01:11:23]</strong> </span>
-<span class="speaker"><strong>发言人2: </strong></span>
-我觉得如果你自己觉得first是对的，就不要放弃，坚持自己的路。有很多东西中期、短期、长期所看到的结果都很不一样。然后有些东西你可能短期内你可以看到很多的结果，但你会卡死在那儿。但有些你可能take a step back，真正去专注于你认为first report是对的东西，你可能长期会得到更好的结果。
-</p>
-<p class="transcript-line">
-<span class="time"><strong>[01:11:45]</strong> </span>
-<span class="speaker"><strong>发言人1: </strong></span>
-你说到现在对RL研究的特别深的人是以哪些高校或者以哪些中心为原点的？
-</p>
-<p class="transcript-line">
-<span class="time"><strong>[01:11:52]</strong> </span>
-<span class="speaker"><strong>发言人2: </strong></span>
-就是以open I早期的这批人，Peter bill的学生，可能现在派里面的这批人给的学生，其他的学生基本上都在学界。除此以外也有很多现在已经分支出来的好的教授，学界偏多一些。但是学界一个问题就是大家做然后都做的太理论，然后写很多regret bound，写些新的theory之类的。Industry的话可能就是demand的那篇diver为核心的这一批demand的人，还有我找谁在demand，可能对二楼的领域是最了解，然后做最好的。然后microsoft也有，比如说像lefort的话，其实是做21的理论方向，很早期很先驱的人之一。但是这个核心人群并不大，基本上不管他们怎么换地方，你都看到是这几个核心人底下的学生，或者跟他们work together这些人衍生出来的。
-</p>
-<p class="transcript-line">
-<span class="time"><strong>[01:12:47]</strong> </span>
-<span class="speaker"><strong>发言人1: </strong></span>
-对你觉得伦敦会是一个LL的大本营吗？因为我其实是想到当年阿尔法go阿尔法zero那一段历史的时候，其实那个时候是强化学习非常火的一段时。他可能也是一个最早的一批人在研究强化学习的方向的，也算是一个小热潮。你觉得那个时候研究这个强化学习跟现在大家去研究强化学习它方向上会有很大的不同吗？
-</p>
-<p class="transcript-line">
-<span class="time"><strong>[01:13:13]</strong> </span>
-<span class="speaker"><strong>发言人2: </strong></span>
-15到18年是alphago alpha zero u zero，到后面有一些比如说starcraft游戏里面的2楼发展的一个巅峰，到了那个之后就开始沉寂了，然后所有人都说LM可以stop everything，然后到现在突然间2L又变火了。我自己看下来，是觉得伦敦的Davis over他们这批人做的，然后是有一个他自己的一个style的，还有一个formal verification的一个方式，一定能够知道true or not。基于这个verification方式去训练一个非常dedicated agent。这个agent只能解决一个问题的那种。他没有真的说我通过一个非常通用的decision making的action space，去训练一个可以解决很多问题的verifiable的一个agent。但是现在伦敦其实做21的人也不止David，有很多人在做21。我觉得大本营上感觉还是会是弯曲，因为对OpenAI跟demand的人都在那儿，大概率还是以那边为核心。
-</p>
-<p class="transcript-line">
-<span class="time"><strong>[01:14:13]</strong> </span>
-<span class="speaker"><strong>发言人1: </strong></span>
-OpenAI是不是也是15到17年左右，是花了很多时间去研究强化学习的。因为我记得他们早期的研究就是有各种有戏里面的推方块。对我觉得那些好像都是强化学习去解决问题的。
-</p>
-<p class="transcript-line">
-<span class="time"><strong>[01:14:28]</strong> </span>
-<span class="speaker"><strong>发言人2: </strong></span>
-对对对，最早的时候是Jimmy environments，他们希望能够通过一些比较简单的游戏证明说二楼的go orange的解决问题的能力。但是因为这些游戏就止于游戏。18年为什么慢慢熬熬开始沉寂的一个核心原因，就是因为大家都认为嗷嗷就是一个游戏环境的产物，他没有一个真正能够解决实际问题的能力。但是直到现在，我不得不承认的一点就是到目前为止，21还是作为一个LM之上的optimizing。它并不是从零开始训练出了一个机制是可以解决通用问题的。所以现在大家说21 pre training，这个也是一个值得去深究的一件事情。就是说这个事儿如果能做成的话，那意味着可以从零开始训练一个完全通用221解决方案，这个会是一个非常大的一个成果。
-</p>
-<p class="transcript-line">
-<span class="time"><strong>[01:15:18]</strong> </span>
-<span class="speaker"><strong>发言人1: </strong></span>
-刚刚在我们整个的聊天过程中，就是我自己的感受，是你的整个思维方式，包括你的眼界还是非常超前的。但是当你真正去做产品，或者去跟投资人卖一个想法的时候，他们可能有的时候就是越超前是越没有共识的。你会有遇到类似的困难吗？
-</p>
-<p class="transcript-line">
-<span class="time"><strong>[01:15:36]</strong> </span>
-<span class="speaker"><strong>发言人2: </strong></span>
-有，其实上礼拜在IC我们聊panel的时候，其中有一个问题就是怎么跟投资人聊特别technical的starter项目。我个人认为是不要尝试去销售IDA，除非你的idea是共识。但是一旦你的idea是超共识的话，那也没有任何的意义去投你的项目。我的一般观点是，如果要去跟投资人聊的话，利用市场的共识，但是在这共识之上加一个logic leap。比如说市场共识是our agent is the hot thing。
-</p>
-<p class="transcript-line">
-<span class="time"><strong>[01:16:04]</strong> </span>
-<span class="speaker"><strong>发言人2: </strong></span>
-大家都觉得这个东西有点你的唯一的那个hope是说你怎么能够实现它。同时你实现它的时候你有什么优势？就是你要告诉他说，我训练这个2A卷的方式跟所有人都不一样，其实是没有任何意义的。所有人都会理解说你为什么跟别人不一样。但你要求的时候，你要解决的这个问题，在你的技术基础之上是很有意义的。同时你为什么有这个unfair vantage就可以了。
-</p>
-<p class="transcript-line">
-<span class="time"><strong>[01:16:28]</strong> </span>
-<span class="speaker"><strong>发言人1: </strong></span>
-刚刚其实我们在谈到你做这个AI agent底层哲学的时候，我也把两种不同的这种思维方式有丢给你。然后同时我们刚刚在评价几家不同的AI agent的公司的时候，比如说James park manners，OpenAI的ChatGPT，还有fellow所有的公司大家用的方法都不太一样。就是你觉得未来agent大家能在这个中间脱颖而出的核心的点是什么？是技术路线产品还是什么样的决策。
-</p>
-<p class="transcript-line">
-<span class="time"><strong>[01:16:55]</strong> </span>
-<span class="speaker"><strong>发言人2: </strong></span>
-我觉得这些公司最后都会走向一个不一样的A有点像当年早期的像mystery，像OpenAI，像anthropic，大家后面都走了不一样的路，最后会有一个区分化diverse化的一个过程。然后大家会发现这个A线都越发展越不一样，原因就是因为方队不一样。其实人在这里面就会自然的发展出很多的不一样的diversity的一些decisions。
-</p>
-<p class="transcript-line">
-<span class="time"><strong>[01:17:21]</strong> </span>
-<span class="speaker"><strong>发言人2: </strong></span>
-第二，我觉得技术方向确实它会是一个决定一家公司能够存活下去的核心。原因在于agent ic system它的成本很高。虽然你融了很多钱，但是很多AI公司的一个核心痛点就是你融了钱，你的growth越快，你死的越快。因为你都是入不敷出的在做。然后你下一轮融资的时候，给所有的投资人一看，你的growth profit全是负的50%什么的。第一反应就是这些东西就算我投了，你下一轮你有什么办法给他转正吗？你说你没有，那投资人也不会买账了。总体来说就变成了一个无限消耗的过程。
-</p>
-<p class="transcript-line">
-<span class="time"><strong>[01:17:54]</strong> </span>
-<span class="speaker"><strong>发言人2: </strong></span>
-技术的提升会使得你可以把这个growth file转正。所以投资人说那是请你找能增长那就值得投。所以技术路径是你能够活下来的核心。但是最后的产品发展形态以及最后的市场的格局，会是founder以及这个团队的decision所导致的，而且会区分度很大。
-</p>
-<p class="transcript-line">
-<span class="time"><strong>[01:18:14]</strong> </span>
-<span class="speaker"><strong>发言人1: </strong></span>
-对讲的特别好。确实是如果你技术路径选错了，那可能整个AI的成本就太高了。短时间还可以靠融资维持。但是这不是一个长时间他能一直维持的事情。
-</p>
-<p class="transcript-line">
-<span class="time"><strong>[01:18:26]</strong> </span>
-<span class="speaker"><strong>发言人2: </strong></span>
-对对对，当然很多朋友都估值很高了，都换上一个别的了。可能阿克汉的可能性不太大。但是小一点团队的，现在相对高级比较高的这种团队，被acher的概率其实都挺大的。所以现在这个市场可能接下来1到2年都会是一个非常疯狂的大鱼吃小鱼的过程，所以我们可以拭目以待。我觉得接下来1到2年的商业市场会是一个非常有意思的一个故事。
-</p>
-<p class="transcript-line">
-<span class="time"><strong>[01:18:50]</strong> </span>
-<span class="speaker"><strong>发言人1: </strong></span>
-好的，太精彩了。
-</p>
-<p class="transcript-line">
-<span class="time"><strong>[01:18:51]</strong> </span>
-<span class="speaker"><strong>发言人2: </strong></span>
-谢谢感谢。
-</p>
-<p class="transcript-line">
-<span class="time"><strong>[01:18:55]</strong> </span>
-<span class="speaker"><strong>发言人1: </strong></span>
-好的，这就是我们今天的节目。如果大家有什么样的想法，可以给我写评论，写留言。另外如果大家对整个硅谷每天在发生什么感兴趣，我们也有一档关于硅谷热点的轻解读节目，叫做101 weekly。大家可以在小宇宙还有spotify上来搜索到我们的节目。同时也可以在各大的视频网站看硅谷101的视频。最后如果大家喜欢我们的播客，也可以在你所收听的音频渠道来订阅我们。我是红军，感谢大家的收听，谢谢。
-</p>]]></content:encoded>
-            <pubDate>Sat, 26 Jul 2025 00:00:00 GMT</pubDate>
-            <guid>68842962c596672715f45f8d</guid>
         </item>
     </channel>
 </rss>

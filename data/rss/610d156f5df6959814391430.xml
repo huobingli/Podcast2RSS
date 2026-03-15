@@ -4,7 +4,1000 @@
         <title>中金研究院</title>
         <link>https://www.xiaoyuzhoufm.com/podcast/610d156f5df6959814391430</link>
         <description>中金研究院出品，分享前沿观察</description>
-        <lastBuildDate>Wed, 11 Feb 2026 01:14:51 +0800</lastBuildDate>
+        <lastBuildDate>Mon, 16 Mar 2026 01:42:23 +0800</lastBuildDate>
+        <item>
+            <title>episode 49｜中金机器人播客 跨维智能贾奎：物理AI、世界模型与具身智能的商业化路径</title>
+            <link>https://www.xiaoyuzhoufm.com/episode/69b3efa8dc0cc48a76b3993f</link>
+            <description>欢迎来到中金机器人播客！本期的播客嘉宾是跨维智能创始人、香港中文大学（深圳）数据科学学院教授贾奎博士。
+【本期主播】
+周子彭 中金研究院执行总经理、创新经济团队负责人
+【本期时间线】
+00:01:31 从顶尖科学家到创业者：跨维智能的诞生
+00:06:46 AI模型的进化：从处理2D信号到读懂三维空间
+00:15:41 通用 vs 专用：寻找一条可持续发展的路径
+00:19:53 创业的取舍：做贴近真实需求的创新
+00:24:04 2026年的行业考验：做真正有落地价值的事
+00:41:40 世界模型如何赋予机器“物理常识”
+00:49:33 数据决定模型，模型决定本体
+00:59:17 2028：具身商业爆发之年
+《中金机器人播客|ZHOUZIPENGPODCAST》由中金研究院创新经济组出品。本播客旨在深入探究人形机器人技术迭代背后的产业逻辑与商业机遇，剖析从技术落地、供应链构建到未来应用场景的根本性议题。我们将和一线的创业者、投资人、研究者一起，为您展现中国人形机器人产业发展的真实前沿。
+【关于我们】
+中金研究院（CICC Global Institute，缩写CGI）作为中金公司一级部门，定位为新时代、新形势下的新型智库，服务于中国公共政策研究与决策，参与国际政策讨论和交流，并为中国金融市场尤其是资本市场发展建言献策；研究院致力于打造研究中国和全球经济、金融和资本市场中长期发展重大问题的能力和团队，对涉及国计民生的重大课题进行前瞻性研究，并通过研究咨询、主题论坛、国际交流、系列讲座等形式为政府、企业及相关机构提供服务。
+中金公司首席经济学家、研究部负责人彭文生博士担任中金研究院院长，中金公司研究部执行负责人、ESG办公室负责人吴慧敏博士担任执行院长。
+【官网链接】
+cgi.cicc.com
+【
+法律声明】
+本播客不是中国国际金融股份有限公司（下称“中金公司”）研究报告的发布平台。本播客音频内容仅是中金公司相关研究成果的部分观点讲解录音，订阅者若使用本播客音频内容，有可能会因缺乏对研究报告内容的了解或缺乏专业、完整解读而对音频中的信息、观点、判断等内容产生理解上的歧义。订阅者如使用本播客音频内容，须寻求专业顾问的指导及解读。
+订阅本播客不构成任何合同或承诺的基础，中金公司不因任何单纯订阅本播客的行为而将订阅人视为中金公司的客户。
+本播客所载信息、意见不构成对买卖任何证券或其他金融工具的出价或征价或提供任何投资决策建议的服务。该等信息、意见在任何时候均不构成对任何人的具有针对性的、指导具体投资的操作意见，订阅者应当对本播客所载信息和意见进行评估，根据自身情况自主做出决策并自行承担风险。
+中金公司对本播客音频内容的准确性、可靠性、时效性及完整性不作任何明示或暗示的保证。对依据或者使用本播客音频内容所造成的任何后果，中金公司及/或其关联机构、关联人员均不承担任何形式的责任。
+本播客音频所述意见、评估及预测仅为音频录制日的观点和判断。该等意见、评估及预测无需通知即可随时更改。在不同时期，中金公司研究部可能会发出与本播客音频所述意见、评估及预测不一致的研究报告。中金公司的销售人员、交易人员以及其他专业人士可能会依据不同假设和标准、采用不同的分析方法而口头或书面发表与本播客音频意见不一致的市场评论和/或观点。
+本播客所有内容的版权均为中金公司所有。未经中金公司书面许可，任何机构和个人不得以任何形式转发、转载、复制、翻版、抄录、修改、仿制、发表或引用本播客所载任何内容。</description>
+            <content:encoded><![CDATA[<h1>转写链接</h1>
+<link>https://tongyi.aliyun.com/efficiency/doc/transcripts/g2y8qeg45ylgnbeo</link><br>
+<h1>节目摘要</h1>
+<div class="summary">本期播客，中金机器人播客探讨了机器人产业的关键转折点、商业化交付的挑战，以及投资人的视角。讨论强调了自2021年以来，机器人商业化和落地实现的可持续进展，尤其是在大模型进展的支持下，AI技术突破为机器人产业提供了强大动力。跨维智能通过GS word模型的物理仿真和合成数据训练，解决现实世界与模拟环境差距，以及真实数据采集的局限，实现了机器人在不同场景下的高效、通用操作。贾教授指出，技术创新是推动机器人产业发展的关键，预见到2026年机器人产业将开始从技术论证转向商业化交付，特别在商业服务和家庭场景等领域，机器人将实现广泛应用。</div><br>
+<h1>章节速览</h1>
+<div class="chapters">
+<div class="chapter-item">
+<span class="time"><strong>[00:00:00]</strong> </span>
+<span class="chapter-title"><strong>具身智能与机器人产业的未来</strong></span>
+<div class="chapter-summary">对话探讨了人形机器人产业从技术论证迈向商业化交付的关键转折点，以及具身智能在真实世界产生商业价值的路径。嘉宾回顾了机器人领域十多年的技术变迁，强调底层技术创新和真实场景需求对推动行业发展的关键作用，看好具备AI能力的机器人在未来生活生态产业链中的重要角色。</div>
+</div>
+<div class="chapter-item">
+<span class="time"><strong>[00:06:45]</strong> </span>
+<span class="chapter-title"><strong>AI与机器人领域融合：从二维信号到三维物理问题的跨越</strong></span>
+<div class="chapter-summary">跨越智能公司于2021年成立，其初衷在于探索AI解决三维物理问题的新路径，区别于传统的文本、图像处理。自2016年起，AI领域开始重视三维信号处理，催生了几何深度学习等新方向，以适应机器人领域的多模态需求。随着Transformer架构的成熟及大模型的发展，AI技术在机器人领域的应用潜力被进一步挖掘，实现了从理论到实践的跨越。</div>
+</div>
+<div class="chapter-item">
+<span class="time"><strong>[00:11:41]</strong> </span>
+<span class="chapter-title"><strong>Transformer与传统网络架构的创新与泛化能力对比</strong></span>
+<div class="chapter-summary">讨论了Transformer架构与卷积神经网络、几何深度学习在创新难度上的差异，指出Transformer在大算力和数据量下展现出更强模型容量。强调泛化能力与架构关系不大，更多依赖于数据采样和模型容量。解释了AI的‘智能涌现’本质为高效样本插值，类比人脑创新为知识连接，指出AI在无意识状态下也能展现创新潜力。</div>
+</div>
+<div class="chapter-item">
+<span class="time"><strong>[00:15:41]</strong> </span>
+<span class="chapter-title"><strong>跨维智能：从专机到通用AI的探索与取舍</strong></span>
+<div class="chapter-summary">对话围绕跨维智能在2021年创立时的商业逻辑及其演变展开，强调了技术与产品需产生实际价值，填补社会经济生活中的价值空间。跨维智能在专机与通用AI的光谱中寻找平衡，致力于开发可持续的物理AI路径，既不过分追求短期专业解决方案，也不盲目追求长期的通用智能。从科学家到企业家的转变中，最大的挑战在于如何平衡创新技术与市场需求，确保技术的前沿性与产品的实用性。</div>
+</div>
+<div class="chapter-item">
+<span class="time"><strong>[00:20:06]</strong> </span>
+<span class="chapter-title"><strong>从学术到企业：创新思维的转变与挑战</strong></span>
+<div class="chapter-summary">讨论了从学术研究到企业经营的创新思维转变，指出学术研究倾向于风险可控的创新路径，而企业经营则需面对更广阔、更具挑战性的创新范畴，强调了企业创新与社会需求的紧密联系，以及这种转变对个人成长和社会贡献的积极影响。</div>
+</div>
+<div class="chapter-item">
+<span class="time"><strong>[00:24:05]</strong> </span>
+<span class="chapter-title"><strong>机器人行业泡沫与价值：华为智能的商业逻辑</strong></span>
+<div class="chapter-summary">讨论了机器人行业可能面临的泡沫与优胜劣汰，指出AI泡沫推动创新的重要性。针对机器人商业化质疑，强调不同细分赛道的价值，如灵巧作业机器人解决劳动力问题。华为智能通过技术与硬件解决方案，聚焦于劳动价值的创造，与运营商及场景方合作推广，定位机器人于产生实际作业价值。</div>
+</div>
+<div class="chapter-item">
+<span class="time"><strong>[00:29:03]</strong> </span>
+<span class="chapter-title"><strong>全栈人形机器人与AI赋能的商业价值探讨</strong></span>
+<div class="chapter-summary">讨论了全栈人形机器人相较于特定应用场景机器人在商业价值上的优势，强调AI赋能升级的重要性，以及跨维智能在智能制造与商业服务领域的技术布局和产品创新。</div>
+</div>
+<div class="chapter-item">
+<span class="time"><strong>[00:33:31]</strong> </span>
+<span class="chapter-title"><strong>机器人公司面对AGI挑战的核心素质</strong></span>
+<div class="chapter-summary">讨论了机器人公司在向AGI过渡中需具备的关键素质，强调了创新技术的严谨设计与社会价值创造的重要性，指出创业者应回归初心，重视长期价值而非短期风口，同时批评了仅凭demo获取投资的不正常现象，倡导透过现象看本质，坚守技术价值与社会链接。</div>
+</div>
+<div class="chapter-item">
+<span class="time"><strong>[00:37:31]</strong> </span>
+<span class="chapter-title"><strong>天才少年与科学家型创业者的技术路线差异探讨</strong></span>
+<div class="chapter-summary">对话讨论了天才少年型创业者与科学家型创业者在技术路线和工程落地思路上的差异。强调了在科学创新面前，不同标签的创业者应具备前瞻性技术思维和从技术到产品的创新驱动力。指出年轻人可能因缺乏全局思考和历史经验而面临挑战，但轻装上阵也是优势。最后，强调创业者需有驾驭领域发展和创新变现的能力，而非陷入学术争论。</div>
+</div>
+<div class="chapter-item">
+<span class="time"><strong>[00:41:37]</strong> </span>
+<span class="chapter-title"><strong>跨维智能GS word model：构建机器人理解物理世界的桥梁</strong></span>
+<div class="chapter-summary">对话探讨了跨维智能如何通过GS word model让机器人理解物理常识，实现从感知到行动的闭环。强调了多模态感知在机器人灵巧操作中的重要性，指出当前技术范式虽有局限，但通过高效数据采集模式如无本体方式，正推动机器人智能的快速发展。</div>
+</div>
+<div class="chapter-item">
+<span class="time"><strong>[00:45:31]</strong> </span>
+<span class="chapter-title"><strong>合成数据与物理仿真的创新应用</strong></span>
+<div class="chapter-summary">讨论了在AI和三维物理问题中使用合成数据的历程，从17年的初步尝试到21年启动自研智能引擎，强调了从学术成果到实际应用的成功率提升。指出通过物理仿真、数据生成和模型训练的综合方法，解决了从92%到99%成功率的挑战，展现了从技术、泛化、商业到ROI的全面考量。同时，对比了与英伟达等公司的异同，突出了端到端解决方案在真实场景中的应用价值，以及底层创新、产品创新和业务模式创新的重要性。</div>
+</div>
+<div class="chapter-item">
+<span class="time"><strong>[00:49:30]</strong> </span>
+<span class="chapter-title"><strong>物理仿真与真实数据在具身智能训练中的应用对比</strong></span>
+<div class="chapter-summary">讨论了物理仿真、合成数据与真实数据在具身智能训练中的应用，强调数据生成效率与质量的重要性。指出物理仿真能解决三维物理动作因果错误，而真实数据在语义理解方面有优势。通过对比视频生成与物理仿真，论证了后者在动作生成上的优越性。</div>
+</div>
+<div class="chapter-item">
+<span class="time"><strong>[00:54:28]</strong> </span>
+<span class="chapter-title"><strong>具身智能与虚拟世界引擎：数据生成与现实差距的探讨</strong></span>
+<div class="chapter-summary">讨论了具身智能在虚拟环境中的数据生成优势，对比了真实数据采集与虚拟数据生成的效率及局限性，强调了不同数据来源的互补性，以及在模拟物理规律和提升模型泛化能力上的挑战与机遇。</div>
+</div>
+<div class="chapter-item">
+<span class="time"><strong>[00:59:15]</strong> </span>
+<span class="chapter-title"><strong>具身智能机器人在工厂应用的商业落地探讨</strong></span>
+<div class="chapter-summary">讨论了具身智能机器人在工厂应用中成功率对生产线影响的重要性，以及机器人技术如何逐步融入不同生产阶段，强调了大脑智能在机器人应用中的核心地位，提出通过反向优化设计本体，以实现商业价值的创造。</div>
+</div>
+<div class="chapter-item">
+<span class="time"><strong>[01:02:57]</strong> </span>
+<span class="chapter-title"><strong>具身智能与大语言模型：商业场景下的泛化与专业化</strong></span>
+<div class="chapter-summary">讨论了具身智能与大语言模型在商业应用中的差异，强调具身智能追求的是具备通用常识与专业技能的泛化专家。指出在不同场景下，机器人需具备最优结构，而人形可能因其广泛的适用性成为通用形态。分析了中国公司在与国际巨头竞争时的优势，认为深圳作为全球机器人制造和试验中心的地位，以及以正确方式探索技术本质的理念，为中国企业提供了独特竞争力。</div>
+</div>
+<div class="chapter-item">
+<span class="time"><strong>[01:07:54]</strong> </span>
+<span class="chapter-title"><strong>AI赋能商业与可持续发展：具身智能与机器人经济的未来</strong></span>
+<div class="chapter-summary">讨论了AI技术，特别是具身智能和机器人，如何赋能商业领域，推动可持续发展。强调了AI作为通用技术底座在不同场景中的应用，如工业、物流及家庭服务，以及如何通过减少对特殊硬件的依赖来降低成本。提出了‘dex boat’理念，即通过赋能商业从业者实现增量价值，预测三年内具身智能将在商业服务场景中爆发。</div>
+</div>
+<div class="chapter-item">
+<span class="time"><strong>[01:11:47]</strong> </span>
+<span class="chapter-title"><strong>机器人操作系统与家庭场景应用探讨</strong></span>
+<div class="chapter-summary">对话围绕机器人领域操作系统类比IOS或Android的可能性展开，讨论了通过遥操作能力渗透真实场景的重要性，以及数据与模型进步对技术发展的关键作用。提及了在家庭场景中的应用挑战，以及AI能力对本体和应用场景结合的影响。讨论了硬件与软件发展速度的对比，强调数据采集效率对模型进步的重要性。最后，展望了2030年机器人在服务场景中的广泛应用，以及竞争对手可能带来的突破性挑战。</div>
+</div>
+<div class="chapter-item">
+<span class="time"><strong>[01:17:31]</strong> </span>
+<span class="chapter-title"><strong>跨维智能商业化进展与未来规划</strong></span>
+<div class="chapter-summary">对话围绕跨维智能的商业化进展与未来规划展开，强调了可持续发展与技术落地的重要性。回顾过去，公司已在工业物流、智能制造等领域实现批量应用，产品覆盖国内外市场，出货量超千套。展望未来，预计2026至2027年间，商业服务场景下的机器人将迎来爆发性增长，而智能制造领域则保持稳健的年增长率。整体规划基于现实与技术的双重驱动，旨在实现多点开花的商业化布局。</div>
+</div>
+</div><br>
+<h1>问题回顾</h1>
+<div class="qa-item">
+<div class="question"><strong>Q:</strong> 在2026年的当下，人形机器人产业处于何种关键转折点？</div>
+<div class="answer"><strong>A:</strong> 2026年时，人形机器人产业正从单纯的技术论证阶段迈向残酷的商业化交付阶段。</div>
+</div>
+<div class="qa-item">
+<div class="question"><strong>Q:</strong> 今天的嘉宾是谁，他的背景是什么？贾逵教授创立了哪家公司，该公司在机器人领域做了哪些工作？</div>
+<div class="answer"><strong>A:</strong> 今天的嘉宾是贾逵教授，他博士毕业于伦敦大学玛丽女王学院，现任香港中文大学深圳终身教授和几何感知与智能实验室主任。他在几何深度学习和3D视觉领域有重要研究成果，对具身智能走向实用有决定性理论贡献，并深度参与了华为智能以及聚生智能的商业化实践。贾逵教授创立了跨越智能，该公司自2016年起就开始研究AI解决三维物理世界的问题，进行了大量的基础性研究工作，包括三维建模、生成式AI、模型自动训练等方面，并开发了与真实场景贴合的产品线，如大脑和眼睛产品，已成功应用于机器人控制、工业场景等。</div>
+</div>
+<div class="qa-item">
+<div class="question"><strong>Q:</strong> 跨越智能为何选择投身机器人领域，尤其是在2021年成立时？</div>
+<div class="answer"><strong>A:</strong> 当时有两个主要原因：一是AI应用于三维物理问题的需求增长，二是基于transformer架构的大模型在大算力和大数据支持下迅速发展。这使得AI能够更好地解决三维物理世界和机器人所需的学习问题。</div>
+</div>
+<div class="qa-item">
+<div class="question"><strong>Q:</strong> AI在解决三维物理问题上的挑战是什么？</div>
+<div class="answer"><strong>A:</strong> 早期AI模型架构对于处理三维物理世界的数据并不理想，因为它们缺乏对三维空间中位移、旋转等变化形式的理论保障。而随着AI学习目标转向三维物理世界，催生了对能够适应这种变化的模型架构的需求，如几何深度学习和transformer架构的发展。</div>
+</div>
+<div class="qa-item">
+<div class="question"><strong>Q:</strong> 从卷积神经网络到transformer架构，创新难度如何？</div>
+<div class="answer"><strong>A:</strong> 创新难度并非绝对更难，而是随着数据量和算力的增长，transformer架构因其能够包含更大模型容量，在大规模数据和算力支持下表现出更好的作用。尽管transformer从原理上可能不如早期架构那样“美”，但其学习效率更高，对数据和计算资源的要求更低。</div>
+</div>
+<div class="qa-item">
+<div class="question"><strong>Q:</strong> 在商业领域中，创业的本质是什么？</div>
+<div class="answer"><strong>A:</strong> 创业的本质是解决填补当前社会经济生活中出现的新价值空间的机会，无论采用何种创新技术或商业模式，核心都是创造价值，确保产品或技术能产生实际效用并弥补现有市场的缺失。</div>
+</div>
+<div class="qa-item">
+<div class="question"><strong>Q:</strong> 跨维智能在机器人应用中处于技术光谱的哪个位置？</div>
+<div class="answer"><strong>A:</strong> 跨维智能不偏向于专机或泛化能力的极端，而是希望找到一条可持续发展的路径，即开发能理解并模仿人类智能（physical AGI）的机器人，这需要长期投入时间和资金，并结合当前数据、算力、模型及机器人硬件的成熟稳定性等因素。</div>
+</div>
+<div class="qa-item">
+<div class="question"><strong>Q:</strong> 跨维智能如何平衡AI的灵活性与通用性？</div>
+<div class="answer"><strong>A:</strong> 跨维智能致力于找到一个平衡点，既不忽视AI带来的灵活性和通用性，也不脱离实际需求。公司既进行前沿创新研究，也关注当前和未来几年内可实现并转化为成熟产品的技术，并对其进行严谨把控。</div>
+</div>
+<div class="qa-item">
+<div class="question"><strong>Q:</strong> 从科学家转变为企业家，您最大的或最难的取舍是什么？</div>
+<div class="answer"><strong>A:</strong> 作为科学家，持续创新是其职业特点，但当创新成为职业后会失去原本的乐趣。而作为企业家，面对的是更宽泛维度的创新，包括底层原理研究、技术与市场需求的链接、实现可能性等多方面挑战。尽管角色转变带来了思维方式的变化，但个人依然乐于面对挑战并从中获得成长与社会贡献的乐趣。</div>
+</div>
+<div class="qa-item">
+<div class="question"><strong>Q:</strong> 当看到社会和经济发展的真实需求时，对现有的学术路径是否有新的认知和思考？</div>
+<div class="answer"><strong>A:</strong> 认为底层科研工作者若具备企业家般的成熟思维，在选题时会做出完全不同的决策。虽然基础创新非常重要，但如果每个科研人员都有过企业经营经验，创新效率可能会更高。泡沫的存在一定程度上促进了创新和科技进步，如同互联网发展中的泡沫一样，虽有风险，但也推动了时代的进步。</div>
+</div>
+<div class="qa-item">
+<div class="question"><strong>Q:</strong> 对于2026年机器人行业可能经历的洗礼，您认为是泡沫破裂还是优胜劣汰的过程？</div>
+<div class="answer"><strong>A:</strong> AI行业确实包含泡沫，但泡沫的存在有助于推动技术和创新的发展。短期看，AI似乎充满了泡沫，但从长远看，低估了AI的潜能。泡沫破裂后，真正具有商业价值和技术实力的公司将得以生存和发展。</div>
+</div>
+<div class="qa-item">
+<div class="question"><strong>Q:</strong> 华为如何证明其具备可行的商业逻辑，以回应投资人关于机器人无法产生商业账单的质疑？</div>
+<div class="answer"><strong>A:</strong> 华为专注于由大脑驱动的灵巧作业类机器人赛道，这类机器人的价值形态不仅限于表演或特定场景，而是应回归到劳动力的本质——解决实际的人类工作需求。华为通过全栈人形机器人产品的研发和推广，旨在展示其在各种应用场景下的劳动价值，从而证明其商业逻辑的可行性。</div>
+</div>
+<div class="qa-item">
+<div class="question"><strong>Q:</strong> 坚持全栈人形方向的商业价值体现在何处？</div>
+<div class="answer"><strong>A:</strong> 全栈人形方向能够提供更大的产品设计空间和技术创新潜能，避免过早限定技术架构和应用场景，使得公司在智能制造、商业服务等领域都能实现灵活、通用的解决方案。通过底层技术工具链的建设，如dex words自动化工具链，确保跨维智能的产品能在不同场景下高效运行，创造更大的商业价值。</div>
+</div>
+<div class="qa-item">
+<div class="question"><strong>Q:</strong> 像我们提到的pick with和x waz这样的大脑软件，它的创新之处是什么？</div>
+<div class="answer"><strong>A:</strong> 这个大脑软件创新在于其前端客户端使用的同时，能够一键启动云端的dex worse工具链进行模型训练，并且在研发人员不参与的情况下训练出模型后返回前端使用。这种模式可以实现产品级的成功率和稳定性，并且具备在运行过程中回流真实数据的能力。</div>
+</div>
+<div class="qa-item">
+<div class="question"><strong>Q:</strong> 对于机器人公司能否跨过2026年这个考验的关键点，即实现AGI，您认为他们最需要具备的基础素质是什么？</div>
+<div class="answer"><strong>A:</strong> 机器人公司最应该具备的基础素质是坚守初心，思考技术或产品如何在短、中、长线为社会创造价值，而不仅仅是关注风口或者短期的成功。即使面临泡沫期，也要回归本质，严谨地设计产品和技术骨架，确保其沉稳发展。</div>
+</div>
+<div class="qa-item">
+<div class="question"><strong>Q:</strong> 是否认同现在很容易通过做几个demo就能吸引投资的现象？</div>
+<div class="answer"><strong>A:</strong> 这种现象确实存在，但这是不正常的。创业者应该注重技术与产品的本质价值，而非仅仅依赖于风口或短期内的成果展示来获取投资。</div>
+</div>
+<div class="qa-item">
+<div class="question"><strong>Q:</strong> 您如何看待天才少年型创业者与科学家型创业者的差异，尤其是在技术路线和工程落地方面？</div>
+<div class="answer"><strong>A:</strong> 不论何种标签，重要的是采用第一性原理进行创新，无论是科学创新还是技术创新。天才少年和科学家在面对挑战时，都需要前瞻性的技术思维和从技术到产品再到场景的全面规划能力。天才少年可能因为缺乏全局经验而在应对周期波动和规划未来时有所欠缺，但他们的优势在于能够轻装上阵，敢于尝试新事物。</div>
+</div>
+<div class="qa-item">
+<div class="question"><strong>Q:</strong> 跨维智能如何让机器人具备物理学常识，实现更复杂、多模态的操作？</div>
+<div class="answer"><strong>A:</strong> 跨维智能致力于从视觉语言到action的完整闭环，利用多模态感知信号理解外部世界和操作对象，通过具身模型推理生成适应不同场景的动作。这比单纯的小脑控制（如跳舞或跑步）复杂得多，需要考虑多种因素并进行泛化和适应性学习，以实现灵活且精准的操作。此外，公司自研的dex ros深度智能引擎也是解决这一问题的关键，通过数据生成、数据合成和模型训练的方式高效获取数据，提高模型泛化能力。</div>
+</div>
+<div class="qa-item">
+<div class="question"><strong>Q:</strong> 在从demo到产品落地的过程中，如何跨越这个鸿沟？</div>
+<div class="answer"><strong>A:</strong> 这是一个真正考验技术实力的阶段，需要找到高效的训练方式和高质量的数据生成方法。</div>
+</div>
+<div class="qa-item">
+<div class="question"><strong>Q:</strong> 物理仿真或合成数据对于训练模型的护城河有多深？</div>
+<div class="answer"><strong>A:</strong> 物理仿真和合成数据各有优势，它们与真实数据相比，在数据生成效率上有显著差异。物理仿真和合成数据可以用来补充真实数据，各自发挥所长，但关键在于数据生成的质量和效率。</div>
+</div>
+<div class="qa-item">
+<div class="question"><strong>Q:</strong> 对于利用真实数据和视频数据训练模型的看法是什么？</div>
+<div class="answer"><strong>A:</strong> 真实数据对于获取操作语义和人的动作理解具有优势，而视频生成是一种数据补充的方式，但基于RGB像素空间的视频生成模型存在三维物理动作因果关系上的问题。AI模型架构需要对三维空间和物理量进行建模，以避免生成不准确的动作。</div>
+</div>
+<div class="qa-item">
+<div class="question"><strong>Q:</strong> 关于计算量巨大，是否可能无法完全模拟真实世界的精细操作？</div>
+<div class="answer"><strong>A:</strong> 数据生成效率的重要性远大于对算力的要求，未来数据生成算力将远超模型训练所需的算力。同时，物理引擎引入真实物理规律到模型中，有助于提升模型性能，尽管完全模拟真实世界可能难以实现，但通过高效的数据生成方法可以克服这一问题。</div>
+</div>
+<div class="qa-item">
+<div class="question"><strong>Q:</strong> 对于现实世界到真实世界的gap（reality gap）如何理解？</div>
+<div class="answer"><strong>A:</strong> reality gap是指在不同环境下采集的数据之间的巨大差异，真实数据采集效率低且难以解耦变量，而模拟或合成数据可通过虚拟世界控制各种因素，实现指数级更高的效率。虽然两者gap很大，但它们可以互补，真实数据提供了人的操作语义和美感，而模拟或合成数据则有利于模型泛化和通用性。</div>
+</div>
+<div class="qa-item">
+<div class="question"><strong>Q:</strong> 具身智能设备与工厂结合实现商业落地还有多久？</div>
+<div class="answer"><strong>A:</strong> 尽管工厂对全尺寸人形机器人的需求巨大，但实际落地还需时间。目前可以先将智能技术应用于现有工厂的不同点，逐步产生价值并推动行业发展。机器人应用具有灵活性，核心仍然是大脑层面的智能决策和优化。</div>
+</div>
+<div class="qa-item">
+<div class="question"><strong>Q:</strong> 是否会出现统一形态的本体结构，还是会有多种形态？</div>
+<div class="answer"><strong>A:</strong> 具身智能追求的是generalized specialist，即具有通用智能和特定领域专业技能的结合。未来本体结构可能会根据应用场景优化，不一定收敛到同一形态，而是支持不同形状和任务需求。</div>
+</div>
+<div class="qa-item">
+<div class="question"><strong>Q:</strong> 在不同场景下，您的本体（机器人）结构会发生变化吗？还是说所有本体结构都相似？</div>
+<div class="answer"><strong>A:</strong> generalize的specialist意味着针对不同应用场景，机器人的最优结构会有所不同。虽然人形机器人可能适应更多场景，但特定场景下专用形态更优。</div>
+</div>
+<div class="qa-item">
+<div class="question"><strong>Q:</strong> 中国公司在与世界巨头如英伟达、Google等在AI领域竞争时，是否会因为使用开源模型而处于劣势，成为简单的搬运工角色？</div>
+<div class="answer"><strong>A:</strong> 首先，中国在硬件上领先，AI上落后美国几个月。作为创业者和科技创新者，我们应以符合第一性原理的本质方式去探索，而不是过分关注竞争对手的做法。我们关注的是问题的本质，并且利用深圳的地理优势进行机器人试验和AI落地。</div>
+</div>
+<div class="qa-item">
+<div class="question"><strong>Q:</strong> 有没有一些商业前景巨大但反直觉的具身智能落地场景？</div>
+<div class="answer"><strong>A:</strong> 所有场景都是围绕人的需求展开，AI作为通用赋能者，在商业服务领域有巨大潜力。例如，在三年周期内，“dex go inside”理念下的机器人将赋能各类商业店铺，创造增量价值，这是我们认为会迅速爆发的场景。</div>
+</div>
+<div class="qa-item">
+<div class="question"><strong>Q:</strong> 是否希望在机器人领域构建类似iOS或Android的操作系统？</div>
+<div class="answer"><strong>A:</strong> 我们最终会实现这一目标，但路径不是直接竞争，而是将本体渗透到真实环境中，自然形成生态。对于家庭场景，虽然存在不同技术路径，但关键在于技术的通用化和高效数据产生能力。</div>
+</div>
+<div class="qa-item">
+<div class="question"><strong>Q:</strong> 硬件进化速度与大脑或数据层面进化速度哪个更快？</div>
+<div class="answer"><strong>A:</strong> 硬件目前快于软件，尤其是在当前范式下。但软件层面，尤其是数据方面，需要高效的方式不断扩充以跟上硬件发展速度。</div>
+</div>
+<div class="qa-item">
+<div class="question"><strong>Q:</strong> 展望2030年，最担忧竞争对手在哪些方面取得突破？</div>
+<div class="answer"><strong>A:</strong> 我们规划严谨，有信心在不同服务场景部署大量机器人。当前关注的是技术底座的稳健性和可持续性，以及随着技术进步带来的商业变现能力。</div>
+</div>
+<div class="qa-item">
+<div class="question"><strong>Q:</strong> 跨维智能在商业落地进展如何？未来商业计划是什么？</div>
+<div class="answer"><strong>A:</strong> 遵循可持续发展原则，目前的产品已应用于多个领域并取得批量落地成果。未来将持续推动技术创新和价值创造，按照既定规划稳步实现目标。</div>
+</div>
+<div class="qa-item">
+<div class="question"><strong>Q:</strong> 未来2026年至2027年，机器人在商业场景落地有哪些可预见的进展？</div>
+<div class="answer"><strong>A:</strong> 预计2026年为打基础阶段，2027年起将稳步增长，特别是在商业服务场景中的人形机器人会有爆发性增长，而在智能制造领域则呈现更稳健的增长态势。</div>
+</div>
+<h1>节目文稿</h1>
+<p class="transcript-line">
+<span class="time"><strong>[00:00:08]</strong> </span>
+<span class="speaker"><strong>发言人1: </strong></span>
+大家好，欢迎收听中金机器人播客，我是周子鹏。在2026年的当下，人形机器人产业正处于一个关键转折点，开始从单纯的技术论证迈向残酷的商业化交付。从投资角度看，比起短期的技术爆发，我们更需要一种穿透行业周期的洞察力，来审视产业演进的内在逻辑。
+</p>
+<p class="transcript-line">
+<span class="time"><strong>[00:00:33]</strong> </span>
+<span class="speaker"><strong>发言人1: </strong></span>
+今天的嘉宾是贾逵教授，贾逵教授拥有极为硬核的学术背景，他博士毕业于伦敦大学玛丽女王学院，现任香港中文大学深圳终身教授，几何感知与智能实验室主任。作为全球前2%的顶尖科学家，他在几何深度学习和3D视觉领域的研究是具身智能走向实用的理论基石。他还在2021年创立了华为智能，深度参与了聚生智能的商业化实践。贾教授完整见证了机器人领域十多年的技术变迁，今天我们邀请他来，是希望借用他的专业视角复盘机器人的发展历程，并探讨在新AI时代，巨神智能如何才能在真实世界产生商业价值。下面让我们有请贾逵教授。贾教授，欢迎做客中英机器人播客，也非常欢迎。要不这样您先跟大家介绍一下您自己，包括咱们的跨维智能。
+</p>
+<p class="transcript-line">
+<span class="time"><strong>[00:01:42]</strong> </span>
+<span class="speaker"><strong>发言人2: </strong></span>
+感谢子朋友邀请，感谢中金机器人播客邀请。对，今天很高兴来去跟子鹏一起聊，跟AI跟机器人、跟具身智能、跟物理AI相关的很多有趣的话题。我是跨越智能创始人，我也是香港中文大学深圳数据科学学院的老师。简单介绍一下我自我自己。对我是做AI研究其实超过20年了。完整经历了AI深度学习，从不同的模型架构，不同的训练优化方式，他在他在视觉问题，它在自然语言，它在机器人不同方向的应用。这也是为什么催生了我们华为智能在21年的成立。
+</p>
+<p class="transcript-line">
+<span class="time"><strong>[00:02:27]</strong> </span>
+<span class="speaker"><strong>发言人2: </strong></span>
+实际上在21年成立之前，我们研究AI做三维物理世界的问题，其实从16年就开始了。其实那时候全球有很少的lab来做这种AI做三弟，做偏物理这样的信号的一个学习，非常小众。当然我们从16年到21年也做了大量的这条链条上的很多的基础性的研究工作。我们在21年进行开始产业化落地。把把我们这个持续的很多的技术性的工作，进行这个产品业务上面的一个尝试。当然我们的底层的创新研究在持续进行，包括在这个路上，我们其实做了很多的。
+</p>
+<p class="transcript-line">
+<span class="time"><strong>[00:03:15]</strong> </span>
+<span class="speaker"><strong>发言人2: </strong></span>
+例如怎么样去做neural的3d model，也就是用AI做三维建模，三维生成，怎么做用纯合成数据去训练这个AI模型，训练三弟感知模型，训练这个VRA模型，包括这里头很多的你要用这个合成数据去训练模型到真实世界，使用它的本质问题，或者说它在这个AI机器学习上的问题，本质是叫做the main adaptation。也就是说你从一种统计分布的数据训练的模型，怎么在在另一种统计上使用。这个其实在机器学习领域是非常经典的一个一个一个范式，举个例子，例如可能你用这个CT的图像训练的模型，怎么在MR上面去使用，其实是从这个demain adaptation的角度是一样的。所以我们也是在这块也发表了大量的论文。
+</p>
+<p class="transcript-line">
+<span class="time"><strong>[00:04:11]</strong> </span>
+<span class="speaker"><strong>发言人2: </strong></span>
+其实我们在大模型的一个adaptation大模型的这个test time adaptation等等上面持续有很多的工作，包括我们在二三年发表的这种第一个三弟生成式AI能够生成非常高质量的shape appearance，这些其实也是有大量的引用。包括我们在跨越智能的层面，其实我们严格按照如何高效的去做具身智能工具链的方式。包括如何去做这样的物理仿真，如何去做这个本质上是各种虚拟传感器的数据的生成。怎么样做这个模型的自动训练，怎么样让这样的链条能够能够在真实场景中以符合产品要求的这样的成功率去落地。怎么样去跟真实数据相结合，把人的这个操作的语义能够融入进去，能够作为这个所谓的ceding poyor，也就是种子数据去能够把整个的链路去高效的给启动等等。其实做了大量工作。
+</p>
+<p class="transcript-line">
+<span class="time"><strong>[00:05:13]</strong> </span>
+<span class="speaker"><strong>发言人2: </strong></span>
+所以到目前为止，其实我们跨为智能已经形成了多个产品线的跟真实场景贴合的这样的一个业务的范畴。包括我们的大脑和眼睛这样的产品。具体意思就是我们的这种大脑软件加上我们的纯视觉传感器，其实目前已经能够驱动市面上主流的各种的机械臂，单臂的、双臂的写作璧工业必人形去做很多例如分解，例如装配这样的一个场景。我们的自己的本体的产品，其实在这种走出工厂，在商业服务场景，其实目前也已经进行了快速的在真实场景的适配。目前其实也已经有啊不少的出货。所以本质上我们其实作为一个宏观层面是一个AI公司或者说聚生智能公司，同时又有我们本体的这样一个企业。我们是希望能够把这个物理世界的智能物理AI落在机器人本体上。
+</p>
+<p class="transcript-line">
+<span class="time"><strong>[00:06:17]</strong> </span>
+<span class="speaker"><strong>发言人2: </strong></span>
+这件事情能够通过底层技术的创新，通过真实场景的需求，能够让能够推动整个行业的往前发展。作为在手机汽车之后的终极的智能终端，我们是非常看好机器人，尤其是具备AI能力的机器人，在未来不管是中国还是整个世界的生活生态产业链上面去扮演越来越重大的作用。我先开场说这么多。
+</p>
+<p class="transcript-line">
+<span class="time"><strong>[00:06:45]</strong> </span>
+<span class="speaker"><strong>发言人1: </strong></span>
+跨越智能其实是2021年成立的。就在那个时候，做聚生智能的这样一个思路，跟我们现在利用比如说大模型，多模态的这样一个模型，或者一些其他的foundation model去驱动的这样一个具身智能是不太一样的。那在2021年的时候，什么促使您觉得说我要去投身机器人领域？
+</p>
+<p class="transcript-line">
+<span class="time"><strong>[00:07:08]</strong> </span>
+<span class="speaker"><strong>发言人2: </strong></span>
+对，这里其实有两个维度，就两个线条的事情。首先是一个AI落在三维的信号，三维物理问题上的一个线条的事情。第二个线条就是AI技术本身。从这个就像您提到的，从20年之后，甚至21年22年这个越来越大模型基于transformer架构。那么更大的算力，更大的数据，催生大语言模型以及多模态的大元模型的尽快发展。所以这是一个两条线路的事情。
+</p>
+<p class="transcript-line">
+<span class="time"><strong>[00:07:38]</strong> </span>
+<span class="speaker"><strong>发言人2: </strong></span>
+第一条线路首先说这个AI解决这个三维物理问题。因为在我1616年签人计划回国的时候之前，甚至包括那个时候，AI主要还是在做文本的问题、图像的问题，视频的问题，包括大家非常熟悉的那时候的人脸识别，图像理解。但是从更加经典的AI学习的角度，图像其实它本质是一个二维信号。
+</p>
+<p class="transcript-line">
+<span class="time"><strong>[00:08:07]</strong> </span>
+<span class="speaker"><strong>发言人2: </strong></span>
+AI解决图像的问题，其实有非常底层的原理性的一些要求。例如不像是作为一个二维信号，AI其实要求你的神经网络架构，也就是你的网络架构要具备所谓的translation equivalence到最后的translation environs。那么translation它其实或者说位移在平面的位移，它其实只是如果是我们生活的这个三维物理世界的话，它只是SO3空间，也就是位移再加上旋转，其实最简单的一个一种信号的变化形式。如果你需要做到三维的，要要要做三维的信号，三维的问题，如果你要做物理的问题，它其实它的信号形式是高维的。那个时候AI模型的架构层面，其实是啊从原理层面是不太适合做三维的物理的问题，包括机器人所需要的AI的学习。当然你去暴力的去用的，例如卷积神经网络，例如mlp去做也不是不行。但是它没有理论保障，它并不符合AI模型。
+</p>
+<p class="transcript-line">
+<span class="time"><strong>[00:09:17]</strong> </span>
+<span class="speaker"><strong>发言人2: </strong></span>
+为什么之所以相比，如果我们把AI模型叫做所谓的deep model，就是比较深的模型。而相比之前的例如SVM或者其他的这种所谓的shallow architecture。Deep model它之所以能够有这么强大的学习的，我们叫做learning capacity，就是它的模型的容量。
+</p>
+<p class="transcript-line">
+<span class="time"><strong>[00:09:39]</strong> </span>
+<span class="speaker"><strong>发言人2: </strong></span>
+之所以有人有有这么强大的这个能力，其实不光是它的架构是这么搭的。更重要的是啊，就像我刚才讲的，你的打法要符合你要你的诉求。就是如果你的学习目标是在三维物理世界的这种目标的话，其实你是需要具备我刚才讲的这个translation and roads and rotation的equivalence and insurance。所以16年之前的AI的模型架构，其实是从理论层面是不符合这样的要求的。
+</p>
+<p class="transcript-line">
+<span class="time"><strong>[00:10:14]</strong> </span>
+<span class="speaker"><strong>发言人2: </strong></span>
+在那个时刻，其实机器人领域跟AI领域还是两个领域，对，就没有融合。但是基本上就是从16年我刚才讲那个时间点，因为你一旦要把AI落在机器人上，它立刻就变成了三维的物理的多模态的。这个跟之前的不管是你做自然语言，还是做图像理解，还是做别的是完全不同的。所以就是说这是为什么？其实正是因为你需要去做更加高维的信号，动脉态的信号，其实催生了模型架构的增长。
+</p>
+<p class="transcript-line">
+<span class="time"><strong>[00:10:44]</strong> </span>
+<span class="speaker"><strong>发言人2: </strong></span>
+从更早的卷积网络到这个，那时候其实有一个词儿可能现在已经不太说了，叫做draw metric deep learning，就是几何深度学习。为什么有这样的一个流派？就是因为他的这个AI学习的从信号到AI学习的方式是不同的。当然这些更加principle的这些AI学习的方式去到20年之后，就是去到transformer。当然transformer一开始发表出来之前的那时候其实并不跑皮了。这也是为什么google说我们发明了transformer，但被OpenAI拿去使用了。对那么真正其实是到OPPO NI，他们其实所谓的这个skin in low的时候，才让21年22年让transformer这样的架构更加的去发扬光大。所以到现在为止，其实transformer基本上统治了所有的网络架构层面的事情。
+</p>
+<p class="transcript-line">
+<span class="time"><strong>[00:11:41]</strong> </span>
+<span class="speaker"><strong>发言人2: </strong></span>
+那么从transformer其实从架构层面相比卷积神经网络，相比geometric deep learning的架构网络。从创新的这种这种创新难度的角度讲或者怎么样，其实其实也不一定说更难。其实它相对其实还是一个incremental的一个过程。但是随着这个数据量的增加，随着算力的增加，其实transformer这种它能够有包含更大模型容量的，在这种大的算力和数据下面能够更好的发挥作用。之前像无论是卷积神经网络还是叫metric deep learning，我刚才说的那些东西，其实那些从数学上是更美的。
+</p>
+<p class="transcript-line">
+<span class="time"><strong>[00:12:29]</strong> </span>
+<span class="speaker"><strong>发言人1: </strong></span>
+是不是可以这样讲，就是在之前的时候更多的可。可能是通过一种计算的方式，解方程的方式去做。您说的数学上更美，我是不是可以这样。
+</p>
+<p class="transcript-line">
+<span class="time"><strong>[00:12:39]</strong> </span>
+<span class="speaker"><strong>发言人2: </strong></span>
+解你可以这么理解，或者用另一个角度讲，他们其实他的学习效率更高，就是更美的方式，他的学习效率更高。那么意思是什么呢？就是说它对于数据的要求，它对于计算的算力的要求更低。在更低的数据核算的情况下，它能取得更好的效果。
+</p>
+<p class="transcript-line">
+<span class="time"><strong>[00:12:57]</strong> </span>
+<span class="speaker"><strong>发言人1: </strong></span>
+就是在比较早之前，很多人觉得机器人学习的时候，更多其实可能是属于专机的这样一个概念。然后蜷缩的架构来了以后，大家开始觉得机器人有一种比较强的泛化的可能。那这个符不符合您刚刚讲的这个逻辑呢？
+</p>
+<p class="transcript-line">
+<span class="time"><strong>[00:13:18]</strong> </span>
+<span class="speaker"><strong>发言人2: </strong></span>
+其实在我们的范畴内，泛化跟你是什么样的架构没什么关系。对句泛化是AI的泛化，其实到现在为止并没有脱离。如果大家学过这个machine learning foundation的话，就是机器学习的基础理论的话，其实泛化它其实是一种对于分布的学习。它更多的是你的training data。你是否有足够的采样或者说更均衡的采样，能够覆盖住你想要泛化的这个范畴内的这种样本。当然这是从数据的维度，从模型的维度，你的模型是需要具备这样的容量。当你足够的这些采样分布的数据出来以后，你能学进去。这是两者的一个关系和缺一不可的事情。就像回到我刚才说的，transformer这种架构，它其实它把更principle的东西丢掉，但是它更好的支持这个算力，支持这个数据。这样的话，当你把全世界所有的数据，互联网上的这些东西来进行学习的时候，似乎就是大家看到的那种涌现。
+</p>
+<p class="transcript-line">
+<span class="time"><strong>[00:14:34]</strong> </span>
+<span class="speaker"><strong>发言人2: </strong></span>
+所谓的涌现，如果我们仍然从机器学习的角度讲的话，其实本质上是一种差值。就对，因为你有这么多样本，你可以查查。当然神经网络因为它有很多很多的层，这些层之间以非常高效的方式进行组合，它的差值方式会产生一些神奇的方式，插射出一个一些大家看起来似乎智能对智能涌现出来的东西。但实际上换一个角度讲，人的大脑当然跟我们现在的靠算力，靠数据的这种AI的方式肯定是完全不同。但是本质上AI本质上人的大脑，人为什么有创新？其实就像以前那个jobs所说过的，就是你有很多的这个知识或者什么所谓的创新，只是有有connect the dots。对你把你的一些不同的店，somehow你连上以后就是一个创新。
+</p>
+<p class="transcript-line">
+<span class="time"><strong>[00:15:27]</strong> </span>
+<span class="speaker"><strong>发言人1: </strong></span>
+就跟Jeffery hinton的理解也很相似。
+</p>
+<p class="transcript-line">
+<span class="time"><strong>[00:15:30]</strong> </span>
+<span class="speaker"><strong>发言人2: </strong></span>
+跟神经网络是一样的。所以从这个角度讲，人可能并没有自己想象的那么厉害。所谓的创新能力其实AM形态也可以，只是他可能在某种无意识的状态下或者怎么样。
+</p>
+<p class="transcript-line">
+<span class="time"><strong>[00:15:41]</strong> </span>
+<span class="speaker"><strong>发言人1: </strong></span>
+2021年您创立跨维智能，那个时候肯定有自己的一些商业逻辑。然后经历了后面的transformer架构的这种大爆发，一直到2026年。您觉得2021年创立跨维智能的时候，当时的一些商业的思路有哪些是变的，有哪些是没有变的对。
+</p>
+<p class="transcript-line">
+<span class="time"><strong>[00:16:04]</strong> </span>
+<span class="speaker"><strong>发言人2: </strong></span>
+这是一个关于商业问题。其实我觉得只要我们还是生活在我们现在的这种人类社会，经济生活社会，其实你创业的本质都是一样的。就是你其实不管是你用什么样的创新的技术，还是用新的商业模式，本质上你是要去解决填补当前动态的这个社会经济生活发展中，它所出现的这个新的价值空间的一个机会。对那么回到用个人话来说，就是说你做的技术，做的产品，你还是要产生价值。大家觉得你要有用，你要你你你你要弥补一些现在的一些缺失。
+</p>
+<p class="transcript-line">
+<span class="time"><strong>[00:16:48]</strong> </span>
+<span class="speaker"><strong>发言人1: </strong></span>
+因为现在有两种思路，相当于在机器人应用产生价值。有一个光谱，光谱的左端可能是专机，就是我解决特定的任务。然后右端就是我要去做泛化的，做通用的能力。专机这一块，大家就觉得我可能利用数据量相对比较小一点，模型比较小一点。我就特定的问题我去解决，特定的生成一些特定的方案。对通用的话就是我需要大量的数据去让它具有很强的这样一个泛化能力。两种不同的思路。咱们跨维智能在这个光谱当中，如果您自己去定位的话，它是处在一个什么样的分布点呢？
+</p>
+<p class="transcript-line">
+<span class="time"><strong>[00:17:28]</strong> </span>
+<span class="speaker"><strong>发言人2: </strong></span>
+就像我们公司那一步，我经常说的一句话是develop a sustainable road towards physical AGI，就是可持续发展的路径。就是我们既不fever，这一端也不favor另一端。其实我们是希望是要找到一条路径能够走过去。因为对你你现在停留在这个，刚才我就要是就是要实现一个未来跟人一样的机器人在家里什么都能干。那你可以，那你就需要长期化PPT，你是以当前的这个数据算力模型各方面，包括机器人硬件的本体的它的成熟稳定性等等。这个比当年做无人驾驶其实还要来的不可预期。那么你需要足够多的时间，足够多的钱。也许你看看迭代十年二十年，看看是否有一些小的步骤。
+</p>
+<p class="transcript-line">
+<span class="time"><strong>[00:18:33]</strong> </span>
+<span class="speaker"><strong>发言人2: </strong></span>
+另一方面你是特别专业的话，那你忽略了AI它的潜能。他是真的能够带来很多之前这种砖机等等这些他所不具备的灵活性，不具备的通用性。所有的这些带来的就是它能够提升更加的高效低成本，能够让产品做的更通用、更有用。
+</p>
+<p class="transcript-line">
+<span class="time"><strong>[00:18:59]</strong> </span>
+<span class="speaker"><strong>发言人2: </strong></span>
+所以我们其实首先是我们是希望能够找到一个路径能走过去，就像刚才开头介绍的，我其实还是港中文深圳的老师，其实我们持续在做最前沿创新的研究。同时在企业我们知道真正的当前真正的需求是什么？真正的需求还需要的就是更成熟的技术应该怎么弄。所以如何把这种创新的技术，它当前所有的东西用进来。其实以及如何去做接下来三年内会成熟的技术，并且把它用到变成产品，把它用起来，以及5到10年的技术是什么，我们对这个的把控是非常严谨的。我觉得这一点可能是我或者是我们跨越智能在做physical AI在做这个embody的AI上面，可能是一个非常不一样的一个东西。
+</p>
+<p class="transcript-line">
+<span class="time"><strong>[00:19:53]</strong> </span>
+<span class="speaker"><strong>发言人1: </strong></span>
+我也知道您在AI领域其实是一位非常顶尖的学者了。从科学家到企业家转变的过程当中，您做过最大的或者最难的取舍是什么？
+</p>
+<p class="transcript-line">
+<span class="time"><strong>[00:20:06]</strong> </span>
+<span class="speaker"><strong>发言人2: </strong></span>
+应该说我自己其实从个人性格的角度讲，我其实是喜欢面对挑战，喜欢学习新东西的一个人。任何一个职业，包括科学家他也是一个职业，但他在里边去你持续了几十年，其实你已经形成了惯性。但是科学家有一个非常好的一个东西，就是他的职业就是创新。但是当你这种创新本身变成一种职业以后，它就失去了它原本的趣味。
+</p>
+<p class="transcript-line">
+<span class="time"><strong>[00:20:40]</strong> </span>
+<span class="speaker"><strong>发言人2: </strong></span>
+做企业其实是一个更宽泛维度或者更宽泛范畴内的一个创新。你不仅仅要去做底层的原理性的一个所谓的论文这些东西。你还要就像刚才我们聊到的，你的这个创新如何跟真实的现在的三年后的五年或者10年后的需求链接。链接住以后，你如何manage to make IT possible？就是让它实现了。这些是一个非常有趣的。然后对个人成长，对企业发展，对社会做贡献都是非常很有意思的事情。
+</p>
+<p class="transcript-line">
+<span class="time"><strong>[00:21:18]</strong> </span>
+<span class="speaker"><strong>发言人2: </strong></span>
+所以总的来说，我其实是觉得通过做企业它你的创新的形式变了，你的创新的这个范畴更广了。转换回来的我的思维方式其实发生了很大的变化。不瞒您说，其实我现在跟因为我现在还有在学校还有学生，就是硕士生、博士生，其实蛮有冲突的。因为我会经常看到，因为你只要是学生大家也能理解。因为我我是在读博士，我要发论文，所以会沿着一个学里头的那那种相对比较风险可控的方式去做一点做一点创新。
+</p>
+<p class="transcript-line">
+<span class="time"><strong>[00:22:00]</strong> </span>
+<span class="speaker"><strong>发言人2: </strong></span>
+但实际上当你做企业以后，当你知道真正的需求，真正产生价值方式是什么以后，其实你会觉得其实可能大部分的做的这些事情，他其实你往长线的来看，没有太大价值。所以总的来说，其实并没有说碰到特别的好像去过不去的这么一个巨大的挑战。反而是跟我个人的性格，跟整个我们做的这个事情上。其实我们是当你看到了更好的风景，然后你在这个新的更好的风景中去体验、去解决问题、去尝试、去挑战。我觉得这个本身是一个可能是我想做的事情。
+</p>
+<p class="transcript-line">
+<span class="time"><strong>[00:22:42]</strong> </span>
+<span class="speaker"><strong>发言人1: </strong></span>
+那可不可以这样讲，就是当您看到这个社会或者是经济发展的真实需求的时候，您可能对就现在的这样一个学术的总按部就班的路径，其实还是有自己的一些新的一些认知，或者新的一些思考了。
+</p>
+<p class="transcript-line">
+<span class="time"><strong>[00:22:58]</strong> </span>
+<span class="speaker"><strong>发言人2: </strong></span>
+我觉得如果每一个底层的科研工作者，当然就是没有这么多时间了。假如说突然就给他赋予了做过一个企业家，经营过公司的一个这种成熟的思维的话，他在做每一个选题的时候都会发生完全的很大的改变。当然我不是去否定，其实底层创新非常重要。因为我们后面真正用到社会上面的，就是各方方面面的这些创新形成的成果，形成的这个价值创造，都是来自于非常基础的创新。只是说它是一种，它就像随机一样。因为我们就是我们我们创新就鼓励每个人都有自己的想法。这样的话，100个创新里面，也许最后十年以后有一个产生了比较。有价值的东西，99个90 99篇论文变成了大家互相发问的一个基数。但是这就是科学它的本质和魅力。但是如果说每一个这100个人他都是做过企业的人我相信这个创新的效率会高得多。
+</p>
+<p class="transcript-line">
+<span class="time"><strong>[00:24:05]</strong> </span>
+<span class="speaker"><strong>发言人1: </strong></span>
+我们也知道，很多人都在讲，2026年的机器人行业可能要经历一场比较大的洗礼。如果真的是有洗礼的话，您觉得这个市场是一个单纯的泡沫破裂，还是说它其实只是一个优胜劣汰的过程？
+</p>
+<p class="transcript-line">
+<span class="time"><strong>[00:24:22]</strong> </span>
+<span class="speaker"><strong>发言人2: </strong></span>
+首先总的来说，毫无疑问，AI现在不管是OpenAI这种大语言模型层面的，还是说我们的emboss AI physical AI的机身智能物理世界AI的范畴，其实毫无疑问现在是包含泡沫的。但是其实就像我们其实这也算大家的一些老生常谈。就是说你没有泡沫，你如何去引领往推动视线往前发展。你没有泡沫你如何去支撑创新。如果对如大家都停留在非常严谨的层面，就不会有下一个伟大的时代。就像互联网一样，互联网这个2000 2000年之前，90年代到2000年其实巨大的泡沫。但你没有这些的话，我们现在的生活的方式就不是我们现在这样。所以AI也一样。其实这里可能就简单引用哈萨贝斯的他的一个说法，就是说就是你短期来看AI一定是泡沫的，但是你从长线来看你其实低估了AI的潜能。
+</p>
+<p class="transcript-line">
+<span class="time"><strong>[00:25:33]</strong> </span>
+<span class="speaker"><strong>发言人1: </strong></span>
+我们也看到，就最近在互联网上有有几位比较活跃的投资人，他们也提出一些质疑，他们有人说说现在的机器人就会翻跟头，但拿不出商业账单。那面对这样的质疑，您觉得就是华为就如何去证明说我们是具备可行的这样一个商业逻辑的？
+</p>
+<p class="transcript-line">
+<span class="time"><strong>[00:25:54]</strong> </span>
+<span class="speaker"><strong>发言人2: </strong></span>
+首先在这个大的机身智能这个赛道下，确实有不同的细分，就是引用您刚才说的这个翻跟斗。翻跟斗其实本质上是一个小脑，其实是做这算一个赛道，一个细分。另一类其实就像我们华为智能这样的，本质上我们长期是做的由到哪大脑所驱动的这种从视觉到可能语言可以作为一个指令，再到这个action的这样的一个上至灵巧作业的这么一类型的赛道细分。所以这是不一样的，甚至可能还有一些其他的细分。
+</p>
+<p class="transcript-line">
+<span class="time"><strong>[00:26:32]</strong> </span>
+<span class="speaker"><strong>发言人2: </strong></span>
+其实不同的赛道都能产生他们在这个社会上的新型的价值形态。例如我就拿这个您因为您刚才问的是这个翻跟翻跟头这个问题。当然你如果他就只会跳那三个舞，然后你的商业形式如果都是一个，就像以前村里的那种，红白喜事，你拉出来这个机器人跳这三个舞，它当然它的价值就有限。当然举个例子，机器人去打拳击，如果这两个机器人具备足够多的智能，这个拳击比赛真的最后他就像我们人的那个拳击比赛一样，那么它就看起来就会找到一个更可持续的一个价值形态。这是我是说这个，但是我们不做这一块。灵巧作业类的机器人，其实它的想象空间是要大得多的。因为本质上这样的一个机器人，在当前阶段，它的人形其实是有价值的。
+</p>
+<p class="transcript-line">
+<span class="time"><strong>[00:27:32]</strong> </span>
+<span class="speaker"><strong>发言人2: </strong></span>
+除了人天然对这个人形的东西会有亲切感，同时人形的话它能fit in很多我们的生活场景，所以它是有价值的。但是从长线来看，甚至不用太长。那么上肢灵巧作业类的机器人，它最终其实还是要回到劳动力本质。不管你是在工厂里面干活，还是在商场里面干活，甚至有可能后面到家里干活，本质上他得能解决人的问题。所以这也是为什么我们化为智能，无论是做底层的技术，我们的and body chain，我们的jazz word这样的就是real to seem to real这样的高效的范式，还是说我们的硬件的产品，我们的解决方案，其实都是真正要把这个作业的价值给展示出来。因为客户他买你的机器人，不是只是看两眼觉得好看，所以他一定要回到他的在这个社会上的那个作业的价值。我们其实非常认准了这一点，所以我们做我们的人形产品。
+</p>
+<p class="transcript-line">
+<span class="time"><strong>[00:28:39]</strong> </span>
+<span class="speaker"><strong>发言人2: </strong></span>
+其实虽然我们我们现在是在在商业服务上面去跟很多的这个呃运营商，然后包括这个场景方进都有战略合作，并且快速的推广。前期我们会用好人型的这种流量的价值。但是更重要的一定要把自己的机器人定位成产生劳动价值的那个人。
+</p>
+<p class="transcript-line">
+<span class="time"><strong>[00:29:03]</strong> </span>
+<span class="speaker"><strong>发言人1: </strong></span>
+这个又回到另外一个问题，投资人也讲说他现在要做投资的时候，他要偏15度进行投资。他认为人行这个赛道非常的拥挤，所以他要做一些比如说我可以去清扫轮船的底部这样的轮式的这种机器人。但是咱们跨为其实在一定程度上还是坚持了全栈人形的这样一个方向。您看中了全栈人形，它的商业价值究竟在什么地方呢？
+</p>
+<p class="transcript-line">
+<span class="time"><strong>[00:29:34]</strong> </span>
+<span class="speaker"><strong>发言人2: </strong></span>
+其实这里就去到了一个机器人这个大的赛道行业。对机器人本身本本身跟AI跟这个大模型没什么关系。对，然后机器人的就像您提到的，不管是工厂里的机器人还是特种机器人，就包括你刚才讲轮船什么，这些都是属于一些细分使用的机器人。包括现在非常火的这个割草机器人、扫雪机器人、这个泳池机器人都属于这些。这个本身其实它已经它从它的研发到成熟，到现在商业的体量已经经过了好几个周期了。
+</p>
+<p class="transcript-line">
+<span class="time"><strong>[00:30:15]</strong> </span>
+<span class="speaker"><strong>发言人2: </strong></span>
+AI在这里的作用是其实是让这样的机器人具备，就是从技术范式上其实做了一个升级。其实它AI在这里更多的是一个赋能升级的作用。并且让它产生了就像您提到的一些灵活的、通用的泛化的能力。这些的话我觉得是有助于这些发展的。
+</p>
+<p class="transcript-line">
+<span class="time"><strong>[00:30:39]</strong> </span>
+<span class="speaker"><strong>发言人2: </strong></span>
+但是如果你的底层的技术架构，你的成你的公司的或者说你的团队的。从底层的技术架构到产品形态，你其实上去就从中期的那个你说我这个机器人就是要在轮船底上去清扫的那绝对限制了你整个公司的想象力和空间，或者说你所能做的产品的它的一个更好的一个潜能。所以这是为什么我们跨维智能其实看起来我们做智能制造的应用场景，我们做商业服务的应用场景。但是我们其实做的是非常的有设计的。例如在智能制造里面，其实我们只做柔性分拣和柔性装配。
+</p>
+<p class="transcript-line">
+<span class="time"><strong>[00:31:26]</strong> </span>
+<span class="speaker"><strong>发言人2: </strong></span>
+我们在商业服务场景当前阶段，我们就做例如这种，我们刚才讲商业服务具体一点，其实我们做桌面的这种整理，然后卖饮料，卖盲盒这些，其实他从技术上跟我们在工厂里面没什么区别。所以在工厂里面其实他也有非常需求量很大的。例如你去做焊接，你去做喷涂，你去做打磨。但是当对于这些对工艺要求非常高的，其实我们反而不一定。这就是您刚才讲的这个比较专业的。所以从这个角度讲，其实我们还是希望能够去把physical AGI从就像我们开头聊到的要推过去。这也是为什么我们花了大量的精力做我们底层的dex dex words这样的自动的高效的从physical simulation到data generation到model training这样的自动化的类工具链。这是为什么我们所有的产品离开了我们这个自动的工具链，所训练出来的矩阵智能模型都不能工作。
+</p>
+<p class="transcript-line">
+<span class="time"><strong>[00:32:33]</strong> </span>
+<span class="speaker"><strong>发言人2: </strong></span>
+其实坦白讲，像我们的pick with像我们的x waz这样的大脑软件，是非常创新的。它软它的软件前端在客户端使用，同时它能一键启动我们云端的dex worse。刚才描述的这个数据产生模型训练的自动的工具链，并且研发不参与，然后训练出模型以后能够返回到前端去使用。同时我们的像这样的大脑软件，他用这样的方式串出来的模型，就可以达到产品级的成功率和稳定性。但是它又具备自动的在运行过程中回流真实数据的技能。
+</p>
+<p class="transcript-line">
+<span class="time"><strong>[00:33:11]</strong> </span>
+<span class="speaker"><strong>发言人1: </strong></span>
+你可以理解成其实形成一个数据分对。
+</p>
+<p class="transcript-line">
+<span class="time"><strong>[00:33:14]</strong> </span>
+<span class="speaker"><strong>发言人2: </strong></span>
+就跟无人驾驶。可能您看到这个，但是我们比无人驾驶更加的高效自动化。当然它的应用场景就广泛的多。那么它它操作这种东西，或者是啊或者是操作那种场景等等。所以其实对可能这是我们的一个看法。
+</p>
+<p class="transcript-line">
+<span class="time"><strong>[00:33:31]</strong> </span>
+<span class="speaker"><strong>发言人1: </strong></span>
+这个看法我觉得很好啊。像2026仍然是一个很多人把它当成是一个考验机器人公司能否长久发展的非常关键的一年。您觉得要想跨过那个坎，就是从我们现在机器人看起来很多地方成功率还相对比较低，到后面可能会实现所谓AGI。这些机器人公司他们最应该具备的基础的素质，就会最重要的素质是什么呢？
+</p>
+<p class="transcript-line">
+<span class="time"><strong>[00:34:00]</strong> </span>
+<span class="speaker"><strong>发言人2: </strong></span>
+其实我们已经跨了。
+</p>
+<p class="transcript-line">
+<span class="time"><strong>[00:34:02]</strong> </span>
+<span class="speaker"><strong>发言人1: </strong></span>
+五个砍。
+</p>
+<p class="transcript-line">
+<span class="time"><strong>[00:34:03]</strong> </span>
+<span class="speaker"><strong>发言人2: </strong></span>
+我们公司是21年成立的，我们公司前面的阶段坦白讲并没有风口，并没有所谓我们刚才聊到的聊聊到的这个泡沫。我们其实一直其实就是在思考这种创新的技术，如何以IOI的测算的方式去做产品，做业务，并且还能推动底层创新的技术持续往前发展。所以我们其实是经历了严苛的这种创新市场的考验的。所以26年对于我们来说，坦白讲我倒没有特别觉得有什么不同。
+</p>
+<p class="transcript-line">
+<span class="time"><strong>[00:34:39]</strong> </span>
+<span class="speaker"><strong>发言人2: </strong></span>
+但是就像您刚才问的这个问题，如果或者我之前也用过这么一个比喻，就是这个风来了，你是一个纸飞机，风很大，很容易就把你吹上去。但是你没有自己的非常严谨的这个骨架的设计，沉稳的设计，那么你就飞飞不高，飞不远。所以回到您这个问题，我是觉得。创业者还是要回归初心。其实就是不要觉得风口来了或者怎么样，似乎做的正好，做的这个技术就是厉害的。其实不论是技术也好还是产品也好，并不并不存在所谓的厉害不厉害。重点还是说你要想好，你如你的这个东西如何在短线、中线、长线为社会创造价值，你的价值点在哪里？
+</p>
+<p class="transcript-line">
+<span class="time"><strong>[00:35:33]</strong> </span>
+<span class="speaker"><strong>发言人1: </strong></span>
+也有一些投资者认为说我们现在重新设立一个机器人公司，其实是很容易的。我只要花几百万做几个demo，我觉得可以圈到就是一大笔钱。您认同这种说法吗？
+</p>
+<p class="transcript-line">
+<span class="time"><strong>[00:35:47]</strong> </span>
+<span class="speaker"><strong>发言人2: </strong></span>
+这是当前的现状。从您这个问题上面我们就能imply出来。
+</p>
+<p class="transcript-line">
+<span class="time"><strong>[00:35:51]</strong> </span>
+<span class="speaker"><strong>发言人1: </strong></span>
+其实这是不正常的。所以您还是认同这样一个观点，就是说这个赛道里面其实也是存在了很多，可能刚刚进入的一些人，然他自己花几百万就是做几个demo，然后就可以拿到投资人的钱。
+</p>
+<p class="transcript-line">
+<span class="time"><strong>[00:36:06]</strong> </span>
+<span class="speaker"><strong>发言人2: </strong></span>
+从我过去这几年跟投资人打交道，我觉得投资人是最聪明的一群人之一。
+</p>
+<p class="transcript-line">
+<span class="time"><strong>[00:36:14]</strong> </span>
+<span class="speaker"><strong>发言人1: </strong></span>
+那他们为什么就看了几个demo，然后就愿意去投钱呢？
+</p>
+<p class="transcript-line">
+<span class="time"><strong>[00:36:17]</strong> </span>
+<span class="speaker"><strong>发言人2: </strong></span>
+所以我们需要这个，怎么讲呢？就是透过现象看本质。在整个的大的赛道或者说游戏中，不同的人的诉求目的是不一样的，而且也有不同的从业者，有从这个商业角度的从业者，有有从这个技术创新的角度的从业者，有从资本的从业者。然后我相信大从大的事上面，其实大家都是对这个行业，对这个产业在起了推动作用。但是作为我们自身或者我自己，其实还是要回归初心，还是要透过现象看本质。就是我知道我们的使命是要把这种最前沿的技术去产生价值，并且通过跟真实社会的链接，去反向推动physical AGI的就是按照可持续的方式去实现。所以我们能坚守我们的步调，我们的这个计划。那么整个行业，整个社会环境，我觉得大家可以从各自的角度去观察。
+</p>
+<p class="transcript-line">
+<span class="time"><strong>[00:37:31]</strong> </span>
+<span class="speaker"><strong>发言人1: </strong></span>
+您刚刚创业的时候，211年，其实机器人这个赛道还不算是风口。就像您说的。但到今天的话，我们也看到很多这种创业者，甚至是所谓少年天才型的这样一个创业者不断的涌现。您觉得像这种天才少年型的创业者，跟咱们科学家型的这样一个创业者之间，有没有一些技术路线的一些差异，或者是说在工程落地上，他们的这些思路是不是也有一些区别。
+</p>
+<p class="transcript-line">
+<span class="time"><strong>[00:38:04]</strong> </span>
+<span class="speaker"><strong>发言人2: </strong></span>
+我觉得做所有的事情的时候，其实都是第一性原理，第一性原理其实他当你的你要做的事情明确以后，总的来说是有他的最优解的。天才少年我不知道该怎么定义科学家，因为我们做的是一个这种创新技术所牵引的这么一个新的行业，未来的一个生态。从理性的角度讲，其实不管是冠以什么样的标签，你都是需要用最前瞻性的技术思维，从技术到产品到这个场景的思维去驱动整个事情的。所以在科学创新面前，或者说刚才说的这个技术到产品到场景的创新面前，他人人是平等的。
+</p>
+<p class="transcript-line">
+<span class="time"><strong>[00:38:57]</strong> </span>
+<span class="speaker"><strong>发言人2: </strong></span>
+其实那么不这样的话，不同的您刚才讲的，如果如果用这个天才少年和科学家两个标签来说的话，他们各自有各自的游猎。就是年轻人其实因为他没有就像他没有经历过更长周期的波峰波谷。可能假如说这个天才少年还是一个完成了博士学位的，那么他的在他的这个研究阶段，其实他就只学过这些东西。甚至更早的我们人类是非常善于忘记历史的，甚至在他PHD之前的一些东西他也不知道。这样的话轻装上阵，我就去是去闯，这是优势劣势就是说就是不能更全局的思考整个的事情该如何计划，如何规划。然后当真的碰到这个潮起潮落没有风的时候该怎么处理。这些当然如果你如如果从对于这个科学创新者来说，像对其实创新本身是持续发展。
+</p>
+<p class="transcript-line">
+<span class="time"><strong>[00:40:12]</strong> </span>
+<span class="speaker"><strong>发言人2: </strong></span>
+居人智能其实作为一个新兴的，不光是我们我我我们资本市场，我们产业界关系，其实学术界也一样。学术界在基本上在24年底到25年，其实之前做做计算机视觉的，做这个machine learning的，做这个NRP的，有一半都开始做去生成的。所以实际上从底层技术的角度，其实embodied AI physical AI它的底层的这种纯技术的创新，一定是整个学术产业生态去共创共同推进的。
+</p>
+<p class="transcript-line">
+<span class="time"><strong>[00:40:50]</strong> </span>
+<span class="speaker"><strong>发言人2: </strong></span>
+所以从这个角度讲，我们创业者，我们企业经营者其实更应该思考的是，首先你有自己从技术到产品到业务的非常完整的思考。然后你要能够有很强的驾驭领域朝前发展的这么一个能力。你要能够知道怎么样把这种不断创新的新的机会，把它在不同的时间周期进行变现的能力。而反而不太要去把你的资源投入到被学术淹没的东西。所以总的来说，我不觉得不同的标签会有什么不同。而是这个人本身他是不是一个能够综合全面有洞察力的这么一个人。
+</p>
+<p class="transcript-line">
+<span class="time"><strong>[00:41:37]</strong> </span>
+<span class="speaker"><strong>发言人1: </strong></span>
+您说的还是非常客观的，因为您刚刚也提到了，就是所谓的第一性原理。现在有很多人在讲，就是我们看到很多机器人的demo，就像是跳舞或者是翻跟头。其实它的整个的运动轨迹在不同的场合都是一样的。我知道咱们跨维智能其实是希望做一些不一样的工作的，特别是咱们之前推出的所谓的GS word model。能不能跟我们介绍一下，就是GSO model是怎么样让机器人能够真正只懂得所谓的物理学的一些常识。华为智能是怎么做到的？
+</p>
+<p class="transcript-line">
+<span class="time"><strong>[00:42:16]</strong> </span>
+<span class="speaker"><strong>发言人2: </strong></span>
+您刚才说到一个非常关键的点，就像我们去年也进行了这个机器人马拉松等等。因为翻跟头也好，跑步也好，本质是小脑。其实那些他们是不需要眼睛的，就像你这不用眼，您看反正他就动就行了。
+</p>
+<p class="transcript-line">
+<span class="time"><strong>[00:42:31]</strong> </span>
+<span class="speaker"><strong>发言人2: </strong></span>
+当然我们跨越智能作为一个大脑公司，学生智能公司，其实你是要完成完整的从简单的说从视觉语言到action的一个闭环。更延伸一点，从这个多模态的感知信号，视觉的、力觉的、触觉的，然后让他能够理解你的外围世界，理解你的操作对象。然后通过这个具身模型的推理，然后去生成action，生成不同的动作，这个其实是我们要去做的事情。这个事情坦白讲比小脑或者说跳舞难得多得多。你基本上你可以理解成你去操作每一个不同的东西都是一次新的舞蹈。所以说正是因为这种底层的问题的本质的不同，他造就了其实你要去做这样的上肢的灵巧操作，其实你就要考虑的非常多。所以现在也有不同的技术范式。
+</p>
+<p class="transcript-line">
+<span class="time"><strong>[00:43:25]</strong> </span>
+<span class="speaker"><strong>发言人2: </strong></span>
+从模型架构层面的话，其实已经有好几年没有什么突破了，基本上都还是transformer这些架构，包括我们的大小脑结构等等。但是如何能够产生这些数据，让刚才说的这说的从眼睛到action的这个闭环能够自适应的泛化的、通用的去见到什么就能符以符合人的意图的去做操作，这真的是一个很难的事情。所以回到我们现在当前AI还是这个数据驱动的这个范式下。其实你就得获取这么多样的数据，你才可能有这样的能力。也是为什么现在我们要我们录这个播客军智能还这么火的原因。因为其实大家仍然有不同的看法。最直截了当的办法就是我就在这个桌面上瑶草采数据，这是最直截了当。对，因为我在这里去踩完，然后哪怕你这个杯子你位置随便放，或者是咱们两个杯子不一样，反正我就对着彩。这也是适应的模型，这也是最直接的。
+</p>
+<p class="transcript-line">
+<span class="time"><strong>[00:44:31]</strong> </span>
+<span class="speaker"><strong>发言人2: </strong></span>
+但是这里其实有一个非常大的大家忽略的点，就是你在这个桌面上对着这些踩完，你换到那个桌面那个环境它立刻就会失败。那么你想要踩出足够多的，在哪个桌面都行的，你几乎就得在每个桌面上都踩。如果这变成了问题的本质，我觉得第一个要做的事情不是说咱们在每个桌面上都搭都搭上这个机器人环境开始采。而是说要想一下是不是有更好的模式能够高效的获取。无人驾驶汽车可以在路上，反正我们每天都在开车，我把传我把这个传感器装到车上我就能获取。我们人每天并不是蹲在机器人里头在生活。是否有更好的商业模式，是否有更好的形态能够获取这件事情。这也是现在新的，例如像5米这样的，就是这种所谓的无本体的方式在快速的流行。因为大家发现我大不了这么多机器人的环境。
+</p>
+<p class="transcript-line">
+<span class="time"><strong>[00:45:32]</strong> </span>
+<span class="speaker"><strong>发言人2: </strong></span>
+我们其实我们跨化为智能思考这个问题比这个时间点早的多。我们在17年的时候，一开始做AI做三维物理问题的时候就有这个问题，那时候就没有数据。所以其实行业也是经历了发展的那时候其实大家尝试用这个图形学里面的渲染图片的方式，用来做游戏电影的方式。我是不是能够产生一些4 etic data。包括我们在19年发的europe的论文，其实我们训了第一个端到端的模型，完全用合成数据训练的，能够去抓取没有见过的物体，成功率大概百分之八九十。
+</p>
+<p class="transcript-line">
+<span class="time"><strong>[00:46:13]</strong> </span>
+<span class="speaker"><strong>发言人2: </strong></span>
+然后这也是为什么催生我们公司在21年成立的时候，其实我一开始就要去启动自研的dex ros这个巨深智能引擎。插一句话就是它不是说一个全身智能引擎，它不是物理引擎，不是渲染引擎。它其实就是物理仿真、数据生成、数据合成、模型训练的这种综合的新型的这么一个安置。所以我们其实从一开始就在思考这个问题的本质。你这么做就是你真实去踩从技术上、从泛化上、从商业上、从ROI上是不是可行。
+</p>
+<p class="transcript-line">
+<span class="time"><strong>[00:46:51]</strong> </span>
+<span class="speaker"><strong>发言人2: </strong></span>
+我们在21年。的就是运行公司的时候，第一个其实我们就有无序分拣的需求。我们用我们学术上所累积的成果去在实际上上去是能够到百分之差不多92左右的成功率的。但是从92怎么去到客户所要求的99、99.9，我们也有不同的选择。
+</p>
+<p class="transcript-line">
+<span class="time"><strong>[00:47:14]</strong> </span>
+<span class="speaker"><strong>发言人2: </strong></span>
+我可以蹲到这个现场来去，不管这种方式真实数据也好，各方面调也好，对吧？因为从对一个创业公司来说，其实你一个第一个典型客户，典型案例是非常重要的。但是我们当时就思考，你如果这样的话，我在这个地方这么搞。因为客户付你的这套东西的成本计算跟你的逻辑不同。他付的是就像我们刚才有提到劳动力价值，他付的是劳动力替代的价值，不管你是在商场里，在家里，所以你如果以这样的方式，你是不可能挣钱的那当然幸运的是我们有一套更先进的底层的理念。我们知道其实通过生合成的方式，进一步演进到我们GS word这样生成式的方式，它有更加高效的可行的路径。所以我们就一开始就启动了我们dex force就是自研的工作。
+</p>
+<p class="transcript-line">
+<span class="time"><strong>[00:48:09]</strong> </span>
+<span class="speaker"><strong>发言人2: </strong></span>
+其实本质上我们整套这个东西跟英伟达其实做omniverous，做艾萨克其实是差不多同期的。对，这也是为什么。当然稍微插一个不同，就是英伟达本质还是一个学术生态，但是我们的东西是非常的端到端。我们能够针对一个真实的应用场景，它全链条的把这个打通，最后能够work，这是我们的一个特点。但这个有时间待会儿再展开说。所以总的来说我们还是就是从最终的目标倒推，就是第一性原理去找到正确的方式进行底层的创新，进行产品的创新，进行业务模式的创新。
+</p>
+<p class="transcript-line">
+<span class="time"><strong>[00:48:52]</strong> </span>
+<span class="speaker"><strong>发言人2: </strong></span>
+当然你这些对底层的技术能力，无论是做这个neural的a three d modeling neural the generation，还是做刚才讲的domination，还是做不同的viral sensor的一个构建，还是说这个呃AI模型的训练等等，要求的非常综合。所以可能这也是为什么行业大家因为现在大家希望快速看到demo，所以就是这样的方式。但是你如何去跨越从demo到产品落地的鸿沟，才是真正见大家见真章的时候。
+</p>
+<p class="transcript-line">
+<span class="time"><strong>[00:49:31]</strong> </span>
+<span class="speaker"><strong>发言人1: </strong></span>
+其实您刚刚也提到第一性原理，elon musk也非常强调第一性原理，他的twitter上面也在讲就是optimus第三代的非常惊艳。我感觉他们的采取的思路好像非常不一样。他们希望说我可以在30年左右更快推出100万台的这样一个真机。然后我就通过摇操作的方式去采集一些所谓的真实的数据。那跟咱们的这种物理仿真或者是用合成数据的这个方式，其实还是不太一样的。您觉得就是咱们做物理仿真或者做合成数据来进行训练的这个护城河究竟有多深？
+</p>
+<p class="transcript-line">
+<span class="time"><strong>[00:50:07]</strong> </span>
+<span class="speaker"><strong>发言人2: </strong></span>
+就像你刚才讲这个optimus就是特斯拉的人形。包括包括马斯克也说，甚至整个特斯拉从造车要变成造机器人。其实我们不能狭隘的去看特斯拉，那不就或者是包括马斯克的说的单独的这句话那句话，他们的技术也是在演进的，就是大家对新鲜事物的认知都是在发展的。那么从技术的角度，哪怕从纯技术的角度讲，其实optimus其实也现在更多的在用其他的更高效的方式。包括我们其实我们并不反对真实数据，或者是反对包括视频数据等等，其实我们也都在用。
+</p>
+<p class="transcript-line">
+<span class="time"><strong>[00:50:51]</strong> </span>
+<span class="speaker"><strong>发言人2: </strong></span>
+我们核心就像我们在这个js word，我们这我们前段时间开源的body chain，它作为js word第一个counter stone。里边有一个图非常重要。其实我们强调的是一个rate of data generation。就是你不管什么方式，你的数据生成的高质量，数据的生成效率是最重要的。现在的模型的容量是够的，但是你的具身智能的数据相比训大连训练大语言模型的那简直是不就差几个数量级。所以当你根本就没有这种数据产生效率的时候，你其实谈你的模型怎么样，训的好不好，他他只是谈纸上谈兵。因为他的这个模型根本就发挥不出他应该有的东西。所以我们就像刚才可能间接的也有提到，我们用真实数据，用视频数据，用生成的完全三维物理的synthetic data，是各自用在他自他各自擅长的地方。
+</p>
+<p class="transcript-line">
+<span class="time"><strong>[00:51:54]</strong> </span>
+<span class="speaker"><strong>发言人2: </strong></span>
+例如我们也会用真实数据去作为种子数据。把这个人的操作的语义给他拿到。因为人看到杯子知道这么来抓，人，看到这个话筒知道这么这些包含大量的语义，这个语义非常直觉的翻译成人的动作。这些其实是真实数据或者真的真实采集的方式它的优势。当然这一条线我们也快速演进到甚至我就只用人的人就是人人的胳膊和双手直接操作。我们就可以把人的这个胳膊的手的指头的轨迹动作提取出来，投射到我们的这个dex我的引擎世界。但它也是真实数据。
+</p>
+<p class="transcript-line">
+<span class="time"><strong>[00:52:36]</strong> </span>
+<span class="speaker"><strong>发言人2: </strong></span>
+视频生成其实我们也用，包括我们也跟视频生成其实做了严格的它的比较。因为视频生成它其实本质上还是从文GBT的文本到这个image的生成，到sora这样的视频生成的一个一个一个延续。因为受惠于互联网上大量的视频，所以现在的这种基于这样的视频生成，它其实做的不错，它能生成很多看起来不错的动作。它作为一种类型的数据的补充，其实也是可以的。但是重点它一个根本性的问题就是，如果你还是基于对fusion这样的这种仍然是在RGB像素空间的一个视频生成的学习范式，那么你不可避免的你会有三维的物理的动作因果上面的错误，这是几乎不可解的。对那么它的一个正确的解法就像我们GS word的那种方式。
+</p>
+<p class="transcript-line">
+<span class="time"><strong>[00:53:33]</strong> </span>
+<span class="speaker"><strong>发言人2: </strong></span>
+AI模型架构，你的transformer架构从内蕴的方式，你要对三弟进行建模，你要对这个物理量进行建模，你要对基于三弟和物理的这个action的dynamics建模。也就是说你的模型得这么设计，那么你整个你所生成的这个action，它才不会出现像sora那样的那种那种那种那那种那种幻觉。所以这也是我们其实一直在推进的。包括我们刚刚投稿cigarette的这种领域，最强的铰链是物体生成，包括它的一个action dynamics，这些其实都是在这个上面在推动领域在向前发展。我们自己的dex force引擎，我们自己的body chain，其实也是把最前沿的这些技术在持续的注入，然后让它更加的高效自动化。
+</p>
+<p class="transcript-line">
+<span class="time"><strong>[00:54:29]</strong> </span>
+<span class="speaker"><strong>发言人1: </strong></span>
+That words或者是跟英伟达的universe，它其实都是基于一些物理引擎，把真实的一些物理规律引入到我们的模型当中。但现在也有人认为说，如果我们把整个世界都模拟的非常好的话，它整个计算量是非常巨大的。说在一定程度上可能都是不能实现的，特别是对一些所谓的一些精细的操作层面上。您觉得这种说法有有可行？
+</p>
+<p class="transcript-line">
+<span class="time"><strong>[00:54:55]</strong> </span>
+<span class="speaker"><strong>发言人2: </strong></span>
+就像我们刚才说的那个data rate of data generation。其实整个现在居人智能的核心任务就是得要把数据产生从人的劳动力变成算力。用来训练模型的，无论是英伟达的芯片和它的架构方式扩大，还是例如google的TPU，其实都能训练模型。我说的大模型，但是只有英伟达的架构，它支持海量的数据生成，所以在不远的将来，可能很快你会发现，其实用来产生数据的算力是现在包括大语言模型在内的这些公司的训练模型的算力的十倍、百倍。这其实才是真正行业发展的方向，包括世界模型发展的方向。所以我根本不担心他对算算力甚至背后的电力要求更大，反而是担心没有这样的意识。
+</p>
+<p class="transcript-line">
+<span class="time"><strong>[00:55:54]</strong> </span>
+<span class="speaker"><strong>发言人1: </strong></span>
+回到我们的GS word model或者是dex words的这个引擎上面。我知道二维智能其实是坚持seem to或者是real seem to real的这样一个技术路径。很多人就在讲说中间又可能会遇到一些reality gap这个问题，那咱们怎么理解？
+</p>
+<p class="transcript-line">
+<span class="time"><strong>[00:56:16]</strong> </span>
+<span class="speaker"><strong>发言人2: </strong></span>
+所以这个其实又回到，就像我中间我们聊到过好几次，其实本质是一个数据分布的问题。就是我们先说real to real gap，大家完全没有意识到real to real的gap有多大。就是你在这个桌面，你在这个环境，你在这个楼里，你在这个天气下采的数据，你到另一个环境下，一样的巨大的real to real gap。而且真实数据采集它还有一个重大的缺陷，或者说不能说缺陷，就是它的劣势就是这种real to real的gap，它其实不好解决。当你在这个环境下采集这个真实数据的时候，因为具身智能模型它是一个非常多模态的数据到模型的东西，视觉的、触觉的、机器人的传感器的、机器人的动作的。那么真实采集的时候，所有的这些变量完全耦合在一起，不可解耦。也就是说我在现在这种这里采了一遍数据，把这个灯关掉，我需要再采一遍，完全不可求。
+</p>
+<p class="transcript-line">
+<span class="time"><strong>[00:57:18]</strong> </span>
+<span class="speaker"><strong>发言人2: </strong></span>
+一方面就是real to real的gap巨大，另一方面采集的方式其实是非常低效的。但是它有它的好处，就是他获取了人的在操作过程中的语义，它甚至还学到了人操作的美感。因为你的数据是这样的对，所以它也有它的优势。但是另一方面其他的范式，无论是video generation，还是我们的这种and body chain这样的3D的这样的generation，还是还是这种多种传感器的deselect data。当完全在这个可控的engine里头，或者说这个virtual world里头，你刚才聊的所有的那些factor你都可以接我。都可以解耦，意味着你是有相比真实采集指数级的更高的效率。
+</p>
+<p class="transcript-line">
+<span class="time"><strong>[00:58:07]</strong> </span>
+<span class="speaker"><strong>发言人2: </strong></span>
+至于说是gap的问题，我刚才也聊到了，real to real gap也很大，它并不比seem to real gap小。以及具身智能本身的泛化性、通用性，本身是在学习分布，不是在学习，我就在这个桌面上踩这个桌面上去demo。Sim tory也一样，你已经想让一个矩阵式的引擎去完全复刻出，哪怕是当前这个环境不可能。但是他能够复刻出把这个环境包括在内的那个分布，这才是泛化所要求的东西。
+</p>
+<p class="transcript-line">
+<span class="time"><strong>[00:58:44]</strong> </span>
+<span class="speaker"><strong>发言人1: </strong></span>
+其实就是因为有不同的gap，所以整体上也可以看出来。就是所谓的瑶操或者增肌的一些数据，跟咱们的这种做仿真或者合成的数据，其实还是互补的，有很强的互补。
+</p>
+<p class="transcript-line">
+<span class="time"><strong>[00:58:56]</strong> </span>
+<span class="speaker"><strong>发言人2: </strong></span>
+是的，就是你如何能用好，虽然就像虽然我们公司确实我们具备用百分之百的这种生成的这种sthetic data训练VRA newark的能力，但是我们看待它还是一个效率的问题，我们也不排斥其他的方式。
+</p>
+<p class="transcript-line">
+<span class="time"><strong>[00:59:15]</strong> </span>
+<span class="speaker"><strong>发言人1: </strong></span>
+贾总我还想问一下您，其实现在很多在工厂里面也反馈，如果我们用一些具身智能的一些设备或者机器人的设备的时候，就像您刚刚讲的，成功率如果只有那么1%的这种差距，很可能就导致整个生产线的停摆。
+</p>
+<p class="transcript-line">
+<span class="time"><strong>[00:59:32]</strong> </span>
+<span class="speaker"><strong>发言人2: </strong></span>
+对对对。
+</p>
+<p class="transcript-line">
+<span class="time"><strong>[00:59:33]</strong> </span>
+<span class="speaker"><strong>发言人1: </strong></span>
+他们就觉得我这样投资的话，就有可能是不成功的。他有没有可能又把机器人又挤到特种设备的角落里？
+</p>
+<p class="transcript-line">
+<span class="time"><strong>[00:59:43]</strong> </span>
+<span class="speaker"><strong>发言人2: </strong></span>
+对，这就是问题所在。如果你最后用你这个新的技术，结果还起到了特种设备上，那你大家想象的巨大的天花板在哪里？对不对？
+</p>
+<p class="transcript-line">
+<span class="time"><strong>[00:59:53]</strong> </span>
+<span class="speaker"><strong>发言人1: </strong></span>
+从您的这个角度来讲的话，我们的真正的设备跟工厂进行结合，我们真正能看到商业落地这个路还有多久呢？
+</p>
+<p class="transcript-line">
+<span class="time"><strong>[01:00:03]</strong> </span>
+<span class="speaker"><strong>发言人2: </strong></span>
+其实哪怕是工厂里对一个全尺寸的双腿的具备灵巧手的这样的人形机器人的需求也是巨大的，前提是你要能做好。但是就回到你刚才问的这个问题，当你完全到达那一天的时候，你当然可以落地。但实际上我们工厂长什么样，也是随着历史在发展的对，其实从家庭作坊到小作坊，到规模化生产，到自动化流水线，到黑灯工厂。然后其实它它的每一步发展都是基于当前那个时间的最新的技术的一个沉淀。所以一方面我们在做中期的physical ATI，我们在在造一个跟人一样有能力的机器人。另一方面举个例子，假如说你今年就要产生商业价值，或者说明年，或者说后年，你得考虑当前人家工厂的环境，你得要非得硬，你得要跟人家的这个方式。所以其实我经常用一个理论就是如果我们是造一个全尺寸的人形，有有肢体、有手、有有脑子、有眼睛，就像卖猪肉一样，你可以把你的不同的身上的东西拿来先用着。
+</p>
+<p class="transcript-line">
+<span class="time"><strong>[01:01:26]</strong> </span>
+<span class="speaker"><strong>发言人2: </strong></span>
+对，这也是这个车身人行赛道相比，其实很多包括无人驾驶它的好的东西，它是存在可持续发展的条件的。就是因为无人驾驶在路上开。当然虽然有辅助驾驶，它本质上你没有实现，大家就不敢用。但实际上居身智能它的机器人，它其实你是就像刚才说的卖猪肉一样。其实你是可以在当前的工厂的或者其他的环境下，把不同的智能的东西赋能。在不同的点上先产生了价值，并且推动了整个行业的发展。
+</p>
+<p class="transcript-line">
+<span class="time"><strong>[01:02:00]</strong> </span>
+<span class="speaker"><strong>发言人1: </strong></span>
+核心就是说其实对机器人应用而言的话，它是具备很多灵活性的。是但核心是感觉还是大脑，这个层面还是非常重要的。
+</p>
+<p class="transcript-line">
+<span class="time"><strong>[01:02:08]</strong> </span>
+<span class="speaker"><strong>发言人2: </strong></span>
+我们的理念AI定义本体。在我们的dex words这个引擎里面，从反向优化的角度讲，我用强化学习不光可以优化书我如何去做这个灵巧造作业的policy，我还可以进一步反向优化出我这个本体该怎么设计。因为一个本体其实它就是一个有3D结构的树状结构，铰链式的。那么每一个关节有它的一些连接的力角什么之类的。实际上你针对一个任务或者说针对很多个任务，你是直接可以优化出你的本体该怎么设计的。所以从长线的发展，我没有否定做本体的公司，我们自己也做本体。对，但是从生态发展的角度讲，绝对是做大脑的，或者大小脑都包括的。其实最后是真正产生价值。
+</p>
+<p class="transcript-line">
+<span class="time"><strong>[01:02:57]</strong> </span>
+<span class="speaker"><strong>发言人1: </strong></span>
+因为您刚才提到一个也很有意思一个点，就是用AI来定义本体，包括最有效的方式，本体结构是一个什么样的情况？未来会不会导致大家的本体结构是收敛到同一个某种相对比较固定的形态上，还是说未来的话您还是觉得我是有不同本体的形态的做simulation或者做一些合成训练的这样一个大脑，然后我是可以一脑多型支持不同形状的问题的。
+</p>
+<p class="transcript-line">
+<span class="time"><strong>[01:03:25]</strong> </span>
+<span class="speaker"><strong>发言人2: </strong></span>
+其实聚生智能跟大语言模型有一个非常不一样的点。其实具身智能追求的是generalized的specialist，大语言模型追求的就是所有的知识的大一统。那不一样，因为巨神智能最后是有一个躯体，要在不同的医生能看好病，厨师能做好菜。其实他需要他只要有common sense，加上他专业的技能就行。而且从这个角度讲，其实鞠身智能的泛化从来都不不是一个技术问题，它是商业问题。你要以最高性价比的方式做出你的这个模型，去到本体，去到那个商业场景下，在那个边界内的泛化才是你所需要的。
+</p>
+<p class="transcript-line">
+<span class="time"><strong>[01:04:12]</strong> </span>
+<span class="speaker"><strong>发言人1: </strong></span>
+我怎么样去理解您刚刚说的generalized的specialist？核心是说我首先前端要有一个通用的这样一个AI然后可以根据我的商业应用场景，我去最优化一个specialist。
+</p>
+<p class="transcript-line">
+<span class="time"><strong>[01:04:26]</strong> </span>
+<span class="speaker"><strong>发言人2: </strong></span>
+我可以这样理解吗？这也是一个理解的很好的角度。其实甚至这样的角度跟我们的技术抵站都很像。就是我们公司有自己的foundation model，同时我们的dex words可以高效的对我们的fan foundation model进行翻tuning甚至蒸馏，让它能够你这个foundation model其实它有很强的通用性，但是通用性跟它的精度成功率很多情况下是一个trade off。我们能够通过我们的引擎，高效的让它在不同的应用场景里头去把模型变小，同时在那个场景下他还work的更好。这是我们相比很多其他赛道公司的一个可能是我们早做几年的一个优势。
+</p>
+<p class="transcript-line">
+<span class="time"><strong>[01:05:08]</strong> </span>
+<span class="speaker"><strong>发言人1: </strong></span>
+在不同场景下，您的本体也是会变吗？还是说不同的本体其实结构也是相似的？
+</p>
+<p class="transcript-line">
+<span class="time"><strong>[01:05:13]</strong> </span>
+<span class="speaker"><strong>发言人2: </strong></span>
+我刚才聊到那个generalize的specialist的意思是就是说因为你的这个居身智能机器人最后做的事情就是不一样的，所以它一定是有它在那个场景下最优的结构的。只是为什么人形人形可能确实它是一个它是能够适用到更最多场景的一个通用的形态。
+</p>
+<p class="transcript-line">
+<span class="time"><strong>[01:05:34]</strong> </span>
+<span class="speaker"><strong>发言人1: </strong></span>
+包括它有范围效应、规模效应，成制造成本会急剧的下降。其实提到大脑或者提到这种仿真的模型，我们知道像英伟达，您刚刚也提到了英伟达，google其实也提到了很多这种大脑基本模型的就是一些产品。您觉得中国公司跟这些世界巨头进行抗衡的时候，我们会不会比较吃亏？知道现在有很多机器人公司，其实他们用的大脑模型基本上都是一些开源的模型，做了一些自己的一些调整，会成为沦为一些所谓的搬运工，这样的一个角色在跟这种世界巨头进行竞争的时候，您觉得我们的优势在什么地方？
+</p>
+<p class="transcript-line">
+<span class="time"><strong>[01:06:15]</strong> </span>
+<span class="speaker"><strong>发言人2: </strong></span>
+我觉得首先是我先用现在行业上成常规的一些说法。例如这个硬件上中国领先，然后大脑上或者AI上中国落后美国两个月，这个大家其实经常会提到的。但是我是觉得对于一个创业者，或者也包括对于一个科技创新者。
+</p>
+<p class="transcript-line">
+<span class="time"><strong>[01:06:36]</strong> </span>
+<span class="speaker"><strong>发言人2: </strong></span>
+其实中国也好，美国也好，欧洲英国也好，法国也好，其实还是你自己。因为我们也有很多很很多伟大的华人科学家，很多具体的成果其实也都是中国人做的。所以真理就在那儿，你一定要去以符合第一性原理的本质的方式去探索。所以这是我们的基本理念。
+</p>
+<p class="transcript-line">
+<span class="time"><strong>[01:06:59]</strong> </span>
+<span class="speaker"><strong>发言人2: </strong></span>
+所以我们并不会去特别看这个。例如就像你说的这个特斯拉怎么做的，或者说OpenAI怎么做的。而是说这个问题它的本质是什么？其实我们以正确的方式去做。这也是为什么例如早在16年那个时候大家都还在做图像的时候，我要去做AI三维物理的问题。对所以所以总的来说我觉得再加上我们公司在深圳，那么在全球范围内你要造机器人，你要去试验机器人，你要把AI大脑落在机器人上，那就是最有优势的。很多的欧洲的甚至美国的创业者其实也到深圳来。
+</p>
+<p class="transcript-line">
+<span class="time"><strong>[01:07:38]</strong> </span>
+<span class="speaker"><strong>发言人1: </strong></span>
+在深圳来设厂。我最近看到有些苗头是美国的创业公司说我要做硬件，我要到深圳来。这是一个非常有意思的一个趋势。
+</p>
+<p class="transcript-line">
+<span class="time"><strong>[01:07:46]</strong> </span>
+<span class="speaker"><strong>发言人2: </strong></span>
+没错，因为你这你physical AI，你要落到机器人上，你光停在大脑层面，你也不知道你的大脑怎么样。结果你想做一次实验要半年。
+</p>
+<p class="transcript-line">
+<span class="time"><strong>[01:07:54]</strong> </span>
+<span class="speaker"><strong>发言人1: </strong></span>
+你当然要过来。您刚刚提了一个很好的例子，我突然想到可能也是一个就非常好的来总结您刚的一个看法。2017年google提出了transformer的架构，但真正开花结果是在OpenAI。另外一个问题，像除了汽车或者是物流场景，这样我们经常提的可以提前落地的一些特定的领域。有没有一些您觉得这种商业前景非常巨大的，但是又是反直觉的落地场景。
+</p>
+<p class="transcript-line">
+<span class="time"><strong>[01:08:25]</strong> </span>
+<span class="speaker"><strong>发言人2: </strong></span>
+首先我可能不能直直接的来回答，实际上我们所有的这个场景其实也都是围绕人的需求。对，就是都是围绕人的需求的。人的需求。那么是直接的服务于人，还是服务于给人造的产品，还是说服务于给人做的服务。其实所以他的选项机会点确实是非常的多。这个里头我觉得AI它作为一个通用的赋能者，赋能的技术底座，然后包括落到机器人上，其实它可以变现的点是非常多的。
+</p>
+<p class="transcript-line">
+<span class="time"><strong>[01:09:04]</strong> </span>
+<span class="speaker"><strong>发言人2: </strong></span>
+回到我们所推崇的这种可持续发展道路。这个可持续发展道路不光是一个企业你要能够可持续，也包括技术本身要能够可持续。因为AI本身经历了这么多的，就是从从上世纪50年代开始多轮的波峰波谷。其实每一个向上的曲线能够维持多久，也取决于从业者是否能够采取一套可持续的思维去做。而不是说是去过度去利用社会对这一轮的一个想象空间。对所以当然具体一点，其实现在例如你想做个人家庭，那么当前的技术包括硬件、软件、大脑什么之类的，可能你就做小玩具是最合适的。对，那么那么当前其实你在相对涉及人机交互，但是同时又相对安全可控的场景，是当前具身智能包括人类在内的一个三年周期内的一个好的选择。
+</p>
+<p class="transcript-line">
+<span class="time"><strong>[01:10:11]</strong> </span>
+<span class="speaker"><strong>发言人2: </strong></span>
+对安全要求非常高的，然后对这个通用性各方面没有边界的，例如养老，例如家庭，那么我不认为是五年内要去，就是你是能够变现的。当然你可以去做你的技术本身，当然也是要是支持往那边走的。但是如果考虑到变现，就是我刚才说的。所以商业服务这样的场景，像我们所推崇的，我们的理念叫做dex boat。Inside dex boat其实就是我们的机器人的名称。我们这个名词其实也套用了into inside这个广告词儿的意思，就是说我们的机器人不是自己要去开店。我们的机器人是赋能广大的我们的商业的从业者，各种的shopping more里面的店，各种的例如加盟店、品牌方等等，我们是给让他们去产生增量的价值。所以这就是我们认为三年内一定会起爆的场景。
+</p>
+<p class="transcript-line">
+<span class="time"><strong>[01:11:07]</strong> </span>
+<span class="speaker"><strong>发言人2: </strong></span>
+当然在工业场景，在物流场景这些它也是在核心的起到降本增效的作用。它的降本增效不是例如我开发一个专机去降本增效，它的降本增效体现在它是一个通用的技术。我在这个工位上，在那个物流网上，我是一套东西都能做，我自然成本会降低。然后我通过更AI的方式，我会降低对特殊传感器的依赖，我会降低对特殊硬件的依赖，它也会降低成本。所以这其实都是我们过去几年已经在实践的东西。我们华为智能的很多的产品，就是在这样的理念下，你能够以完全IOI的方式进行批量的落地。
+</p>
+<p class="transcript-line">
+<span class="time"><strong>[01:11:47]</strong> </span>
+<span class="speaker"><strong>发言人1: </strong></span>
+从您刚刚讲的是dex go inside的这个理念当中，我似乎听出来一个比较宏大的一个商业前景。我不知道这个理解对不对？未来您是不是希望能做在机器人领域的，比如说像IOS或者是android这样一个操作系统。
+</p>
+<p class="transcript-line">
+<span class="time"><strong>[01:12:02]</strong> </span>
+<span class="speaker"><strong>发言人2: </strong></span>
+我们必然会实现那个目标的。只是说我们的路径不是就是我们我们的路径不是上去就是这样，而是我要把我们的本体要渗透到真实的，对，然后你就自然而然。
+</p>
+<p class="transcript-line">
+<span class="time"><strong>[01:12:18]</strong> </span>
+<span class="speaker"><strong>发言人1: </strong></span>
+可能就会形成了这样一个生态。像在最近刚刚您也提到，就是在家庭场景当中，您刚刚虽然提了一些小玩具这些。但是我们也看到有一些真实的应用场景，比如说one x或者是sundays，他们基本上都是主打要进入家庭这样一个场景当中的。但这里面就好像遇到一个问题，比如说one x它实现的模式，我就是通过摇操作，比如说我可以有一些expert，你每每个月订阅。那跟咱们的这样一个做这种仿真引擎这个方式是不是天然就有一个区别了。我们去进入家庭的话，是不是这个壁垒就更高一些。因为背后不是通过摇操作这种方式来进行的，我们是不是更适合进入，比如说像一些工程。
+</p>
+<p class="transcript-line">
+<span class="time"><strong>[01:13:04]</strong> </span>
+<span class="speaker"><strong>发言人2: </strong></span>
+首先我想说一下，我们认为尧操作的从硬件到软的技术是非常重要。我们其实公司我们的产品也非常看重我们的要机器人的遥操作能力。对那么就像刚才聊到的，其实它提供了一个不同的从数据到这个模型能力的一个相比。相比这个三维物理的，包括合成数据的一个补充。
+</p>
+<p class="transcript-line">
+<span class="time"><strong>[01:13:31]</strong> </span>
+<span class="speaker"><strong>发言人2: </strong></span>
+像Sunny robot的这种，就是说当前大家就不管是不是在实际的在做真的家庭里面的那些demo或怎么样，其实你更多的要把他看成一个技术的演进。这是他们在做技术，不是在做落地。对，其实我们也在做这样的技术，对，只是你受什么样的demo的问题。技术都是要以能够去向这种通用泛化的方式，以高效的数据产生方式，以多多多种的互相补充的数据产生方式去做。但是你是落到刚才讲到的相对结构化的，甚至不需要跟人交流的场景，例如工厂，还是说你是落到有一定开发的开放程度的，例如office，例如或者是这个商场，还是说你是落到完全的家庭，是取决于技术当前它能落到哪里。当然就是有些人觉得OK，我有我手里有1000亿，我不管那些我就做那个。但我们的理念是觉得如果你在一个office环境你都搞不定，没有产品级的稳定性、成功率，你凭什么你能觉得很多技术的迭代是在真实应用中反向推出来的。
+</p>
+<p class="transcript-line">
+<span class="time"><strong>[01:14:48]</strong> </span>
+<span class="speaker"><strong>发言人1: </strong></span>
+所以说现在可能比较大的掣肘还是AI能力。AI能力去寻找本体，或者是AI能力去决定应用场景。然后这样去有一个结合。
+</p>
+<p class="transcript-line">
+<span class="time"><strong>[01:15:00]</strong> </span>
+<span class="speaker"><strong>发言人2: </strong></span>
+去到家庭层面，包括也去到商业层面，本硬件也也是的，硬件硬件也是的，包括你的就像我们其实例如林教授也是一个非常细分的。好的赛道就是很重要的。实际上当前行业里面，因为我们除了我们自己以外，我们也测过很多行业里面的零销售，能够这么去动超过10万次以上的都没几家。
+</p>
+<p class="transcript-line">
+<span class="time"><strong>[01:15:25]</strong> </span>
+<span class="speaker"><strong>发言人1: </strong></span>
+在硬件层面上的话，您觉得硬件这种进化的速度，跟咱们大脑或者是数据层面上面进化的速度哪个快呢？还是是硬件跟不上软件呢？还是软件跟不上硬件的发展速度。
+</p>
+<p class="transcript-line">
+<span class="time"><strong>[01:15:39]</strong> </span>
+<span class="speaker"><strong>发言人2: </strong></span>
+在硬件的当前的这个范式层面上，硬件快，但是硬件它有它的。
+</p>
+<p class="transcript-line">
+<span class="time"><strong>[01:15:45]</strong> </span>
+<span class="speaker"><strong>发言人1: </strong></span>
+有一些天然的一些障碍。软件层面、大脑层面最重要的还是数据掣肘。如果是模型没有太多的进步的情况下。
+</p>
+<p class="transcript-line">
+<span class="time"><strong>[01:15:53]</strong> </span>
+<span class="speaker"><strong>发言人2: </strong></span>
+如果我们还在从20年开始的这一波transformer skinning law，大模型的这个AI的范式下的话，是的。
+</p>
+<p class="transcript-line">
+<span class="time"><strong>[01:16:02]</strong> </span>
+<span class="speaker"><strong>发言人1: </strong></span>
+那这两个再进行一个比较，是一个就是我们模型范式跟数据采集速度这两个突破的话，您觉得哪个是目前来看更有希望的？是数据上面的不断的扩充，还是我突然在模型层面上又出现了一个突破性的进步？
+</p>
+<p class="transcript-line">
+<span class="time"><strong>[01:16:20]</strong> </span>
+<span class="speaker"><strong>发言人2: </strong></span>
+应该说是数据上面，但是数据得要采用我所一直强调的高效的方式。
+</p>
+<p class="transcript-line">
+<span class="time"><strong>[01:16:26]</strong> </span>
+<span class="speaker"><strong>发言人1: </strong></span>
+咱们展望2030年，就是假设有一些应用场景已经开始真的可以部署，比如说百万台的这样一个机器人。现在让您感觉，如果我们已经预计到有那个场景，可能有厂商有可能做出来，有可能是跨维，也有可能是其他公司做出来。那现在让您觉得就是您的竞争对手们最有可能在什么地方产生的突破，让你觉得是最担忧的。
+</p>
+<p class="transcript-line">
+<span class="time"><strong>[01:16:54]</strong> </span>
+<span class="speaker"><strong>发言人2: </strong></span>
+其实我们的规划严谨，我们的步调，我们要做的事情是非常明确和紧凑的。就像您刚才讲2030年，我可以预期2030年你会在现在的社会上看到很多的机器人，可能都不止百万太对，就是会更多。这其实里头你到时候一定会看到我们的很多机器人在不同的服务场景在给你去进行的服务。然后去甚至做一些各种的有趣的，比人的店员或者什么做的更好的事情。所以当然我们的机器人也不会占领所有的我们把我们要做的事情把它给体现出来就可以。
+</p>
+<p class="transcript-line">
+<span class="time"><strong>[01:17:31]</strong> </span>
+<span class="speaker"><strong>发言人1: </strong></span>
+到目前为止的话，咱们跨为智能在商业落地层面上面，就是这个进展究竟怎么样。未来您的一个比较偏中长期的这样一个商业计划或商业规划又是一个什么样子的？
+</p>
+<p class="transcript-line">
+<span class="time"><strong>[01:17:45]</strong> </span>
+<span class="speaker"><strong>发言人2: </strong></span>
+就像刚才我们有聊到的，就是我们是遵从可持续发展的理念。如果是套用而万l two到L5的这种分类，我们是坚决相信以L而五为技术目标。但是你从商业变现的角度讲，你要2345的走过去不可能。我不相信存在，就不管是做什么东西，就是你就奔着L5，最后就落L5。它是不符合事物的基本逻辑的。
+</p>
+<p class="transcript-line">
+<span class="time"><strong>[01:18:15]</strong> </span>
+<span class="speaker"><strong>发言人2: </strong></span>
+所以在过去的几年中，其实我们华为智能基于我们的大脑软件的产品，基于我们的大脑加上我们的眼睛的产纯视觉传感器的产品，再加上我们的这个人形本体。其实我们也已经进行了，在不同应用场景的这种批量化的逐渐的落地。在落地过程中，其实也反向推动了我们整个技术底座，我们dex force引擎，我们的整个的产品到业务的这个闭环。
+</p>
+<p class="transcript-line">
+<span class="time"><strong>[01:18:42]</strong> </span>
+<span class="speaker"><strong>发言人2: </strong></span>
+我们的大脑软件其实目前驱动国内的、国外的不同的这些单臂的双臂的机械臂、机器人，其实也已经出货超过1000套了。我们例如在这个工业物流，在这个智能制造，我们其实在汽车车汽车零配件，在3C在家电，在新能源，其实在不同的这样需要柔性的多sku甚至海量SKU的分件，以及单臂双臂的柔性的装配等等上面其实已经有大量的落地的。同时我们自己的我们的眼睛、大脑本体，我们的全站的人形，其实也在快速目前在广义的商业服务场景进行落地。目前我们跟很多的文旅运营商，包括一些商业服务的运营商，品牌方其实建立了战略合作关系。
+</p>
+<p class="transcript-line">
+<span class="time"><strong>[01:19:37]</strong> </span>
+<span class="speaker"><strong>发言人2: </strong></span>
+我们其实从这个人形出货的角度讲，其实我们26年其实保守的话也是要接近1000台。因为我们到目前为止，其实我们一台机器人的平均这个售价其实是四十多万人民币。因为本质上它是在创造价值，所以这块的话其实。他就需要一个非常强大的技术到产品的底座来支持。否则的话我在这个店里帮人家在那儿卖盲盒，在那个店里帮人家卖酒，在那个店里帮人家做爆米花等等。其实你没有一个很强的技术底座和这个能力的支撑，你是无法做到真正多样的这样的一个多点开花的。
+</p>
+<p class="transcript-line">
+<span class="time"><strong>[01:20:23]</strong> </span>
+<span class="speaker"><strong>发言人2: </strong></span>
+其实我们在工厂里也一样，就像刚才提到的，你在汽车厂里面去做这个分解。你在例如电脑生产厂里面做做那种组装，它其实对这个机器人的技能都是要求非常不同的。只有有强大的我们这样的dex worse的这样的底座去。并且我是刚才提到的前端的软件到后端云端的自动化的这个模型训练的和和更新的这样的链条。才能够让我们今年25年，其实也就在这个44年多的时间里，就是产生这么多的真实的驱动，并且真实的落地。并且这些其实真实的落地反向，就像刚才提到，让我们形成了我们独特的一个做具身智能的稳健的并且可持续能落地的思维。
+</p>
+<p class="transcript-line">
+<span class="time"><strong>[01:21:18]</strong> </span>
+<span class="speaker"><strong>发言人1: </strong></span>
+作为一个科学家型的这种创业者，您觉得从2021年到现在，就是机器人在商业化或者落地节奏上面，符合您刚刚讲的这种可持续的，然后紧凑的这样一个预期？
+</p>
+<p class="transcript-line">
+<span class="time"><strong>[01:21:33]</strong> </span>
+<span class="speaker"><strong>发言人2: </strong></span>
+我就用前两天他入选那个什么颠覆性创始人名单上面，我发朋友圈的那句话，就是我是学习。成为一个更好的技术创新和价值创造者。在过去的这几年中，无论是我们在刚才讲的那么多的那些场景过程中，其实我们小步快跑的已经还是验证了我的每一步的预期。所以我还是更加坚定的就是按照我们所规划的思路。然后我是觉得我们所规划的这个事项，我们的这个计划还是完全可预期的实现的。因为本质上我们就没有去朝着一个不可遥不可及的一个大饼，那我们是知道怎么样去走过去。
+</p>
+<p class="transcript-line">
+<span class="time"><strong>[01:22:24]</strong> </span>
+<span class="speaker"><strong>发言人1: </strong></span>
+那按照您这种其实是还是相对比较客观，比较严谨的这样一个预期，您觉得在未来2026年到2027年，这两年的时间，我们可预见的机器人在商业场景落地这个层面上有什么样的进展？其实是比较理性的，或者是比较可能实现的。
+</p>
+<p class="transcript-line">
+<span class="time"><strong>[01:22:49]</strong> </span>
+<span class="speaker"><strong>发言人2: </strong></span>
+就像我们在以每一个就是在每一个场景，因为你刚才聊的是一个商业层面的事情，其实它除了技术驱动产品创新，它其实也要遵从这个行业自身的一个发展逻辑。就是相比这个商业场景，相比工业场景，它的其它的这个爆发的曲线会更陡然后当然是可能相比互联网会要稍微平缓一点。总的来说，所以我们预期在26年是一个打基础之年。那么27年会稳步增长到2828年。这个在商业服务场景的人形机器人是会有一个喜报性的发展的。喜报性的发展是什么什么意思呢？就是说它它可能会按照百分之几百的增速在增长。如果是在相对更稳健的，例如智能制造的话，它其实你每年有这个double或者更更多一点的。
+</p>
+<p class="transcript-line">
+<span class="time"><strong>[01:23:51]</strong> </span>
+<span class="speaker"><strong>发言人1: </strong></span>
+其实就算不错了。非常感谢贾总或者贾老师给我们描绘的这样一个比较客观，比较现实的这样一个未来场景。我也非常欢迎未来贾老师可以经常来咱们中间机器人播客做客，来分享您对产业，包括咱们跨维智能它最新的发展。
+</p>
+<p class="transcript-line">
+<span class="time"><strong>[01:24:13]</strong> </span>
+<span class="speaker"><strong>发言人2: </strong></span>
+谢谢子鹏，今天很高高兴交流，后希望后面有机会我们再聊。
+</p>]]></content:encoded>
+            <pubDate>Fri, 13 Mar 2026 10:39:41 GMT</pubDate>
+            <guid>69b3efa8dc0cc48a76b3993f</guid>
+        </item>
         <item>
             <title>episode 48｜中金机器人播客 王潜：中国具身智能赛道没有“过热”而是“过冷”</title>
             <link>https://www.xiaoyuzhoufm.com/episode/6979b170f653bd50d61d4560</link>
@@ -17449,312 +18442,6 @@ cgi.cicc.com
 </p>]]></content:encoded>
             <pubDate>Tue, 25 Apr 2023 05:19:10 GMT</pubDate>
             <guid>644767f6a540f6cf66acd763</guid>
-        </item>
-        <item>
-            <title>episode 19 | 一些流动性问题分析</title>
-            <link>https://www.xiaoyuzhoufm.com/episode/64118d10ac82886b1fb5644d</link>
-            <description>【本期内容】
-本周海外市场的一个热点问题是硅谷银行（以下称SVB）事件，简单来讲，这是一次因利率上升而导致的银行流动性危机：SVB为满足客户提取资金的需求，选择折价出售资产，但这一行为也引发市场对该银行偿付能力的质疑，最终加剧挤兑，引发市场波动。
-本期节目，我们邀请到了中金研究部海外宏观分析师刘政宁，一起探讨几个大家都非常关注的问题：SVB为什么会出问题？SVB的问题有多严重？是否具有普遍性？是否会引发美国金融系统性风险？
-【本期嘉宾】
-刘政宁 中金研究部海外宏观分析师
-【本期主播】
-徐恩多 中金研究院
-左烜晅 中金研究院
-【时间轴】
-SVB为什么会出问题？ 00:35
-SVB的问题有多严重？是否具有普遍性？ 04:01
-政策应该如何应对来避免风险蔓延？ 06:09
-当前已采取的政策够不够？还需要什么？ 12:34
-最好的结果和最坏的结果 17:34
-【音乐】
-StockSounds - Happy Upbeat Uplifting Summer Pop
-InflectionPoint - Real Estate
-本期播客录制时间：2023年3月14日
-摘自：2023年3月11日已经发布的《硅谷银行事件，影响不可低估》
-刘政宁 分析员 SAC 执业证书编号：S0080520080007 SFC CE Ref：BRF443
-肖捷文 联系人 SAC 执业证书编号：S0080121070451
-周 彭 分析员 SAC 执业证书编号：S0080521070001 SFC CE Ref：BSI036
-张文朗 分析员 SAC 执业证书编号：S0080520080009 SFC CE Ref：BFE988
-【关于我们】
-「中金研究院」：
-中金研究院（CICC Global Institute，缩写CGI）作为中金公司一级部门，定位为新时代、新形势下的新型高端智库，服务于中国公共政策研究与决策，参与国际政策讨论和交流，并为中国金融市场尤其是资本市场发展建言献策；研究院将致力于打造研究中国和全球经济、金融和资本市场中长期发展重大问题的能力和团队，对涉及国计民生的重大课题进行前瞻性研究，并通过研究咨询、高端论坛、国际交流、系列讲座等形式为政府、企业及相关机构提供服务。
-中金公司首席经济学家、研究部负责人彭文生先生担任中金研究院院长，中金研究院董事总经理，一带一路研究中心负责人吴慧敏女士担任执行院长。
-【法律声明】
-本播客不是中国国际金融股份有限公司（下称“中金公司”）研究报告的发布平台。本播客音频内容仅是中金公司相关研究成果的部分观点讲解录音，订阅者若使用本播客音频内容，有可能会因缺乏对研究报告内容的了解或缺乏专业、完整解读而对音频中的信息、观点、判断等内容产生理解上的歧义。订阅者如使用本播客音频内容，须寻求专业顾问的指导及解读。
-订阅本播客不构成任何合同或承诺的基础，中金公司不因任何单纯订阅本播客的行为而将订阅人视为中金公司的客户。
-本播客所载信息、意见不构成对买卖任何证券或其他金融工具的出价或征价或提供任何投资决策建议的服务。该等信息、意见在任何时候均不构成对任何人的具有针对性的、指导具体投资的操作意见，订阅者应当对本播客所载信息和意见进行评估，根据自身情况自主做出决策并自行承担风险。
-中金公司对本播客音频内容的准确性、可靠性、时效性及完整性不作任何明示或暗示的保证。对依据或者使用本播客音频内容所造成的任何后果，中金公司及/或其关联机构、关联人员均不承担任何形式的责任。
-本播客音频所述意见、评估及预测仅为音频录制日的观点和判断。该等意见、评估及预测无需通知即可随时更改。在不同时期，中金公司研究部可能会发出与本播客音频所述意见、评估及预测不一致的研究报告。中金公司的销售人员、交易人员以及其他专业人士可能会依据不同假设和标准、采用不同的分析方法而口头或书面发表与本播客音频意见不一致的市场评论和/或观点。
-本播客所有内容的版权均为中金公司所有。未经中金公司书面许可，任何机构和个人不得以任何形式转发、转载、复制、翻版、抄录、修改、仿制、发表或引用本播客所载任何内容。</description>
-            <content:encoded><![CDATA[<h1>转写链接</h1>
-<link>https://tongyi.aliyun.com/efficiency/doc/transcripts/ro84nrar66jwqkb3</link><br>
-<h1>节目摘要</h1>
-<div class="summary">硅谷银行因资产与负债期限错配，加之市场对美联储加息的反应，遭遇流动性危机，后被接管，凸显了金融市场的脆弱性。事件根源在于银行的资产配置与美联储政策的互动，特别是长期国债在利率上升时价值下降，加剧了流动性问题。期限错配和流动性危机的概念被清晰阐述，同时指出其对其他银行及金融系统的潜在影响，如存款搬家现象和对中小银行信心的冲击。美联储采取措施保障储户存款安全并提供流动性工具，旨在稳定市场，但后续行动需视金融风险演变而定。此次事件强调了金融稳定性的关键性，预示着对金融市场和政策制定者可能的长远影响，包括未来政策的调整方向，以增强金融体系的韧性。</div><br>
-<h1>章节速览</h1>
-<div class="chapters">
-<div class="chapter-item">
-<span class="time"><strong>[00:00:00]</strong> </span>
-<span class="chapter-title"><strong>硅谷银行事件分析</strong></span>
-<div class="chapter-summary">硅谷银行因利率上升导致的流动性危机成为了焦点。随着美联储加息，硅谷银行面临客户提取现金需求增加，选择出售资产应对，引发市场对其偿债能力的担忧。这一情况导致挤兑，资产价格大幅波动，最终联邦存款保险公司接管硅谷银行。市场担忧此事件可能扩散至其他银行，引发更大的金融风险。</div>
-</div>
-<div class="chapter-item">
-<span class="time"><strong>[00:01:54]</strong> </span>
-<span class="chapter-title"><strong>硅谷银行危机分析</strong></span>
-<div class="chapter-summary">硅谷银行，作为一家主要服务于科技创新企业的银行，其总资产规模曾达到2118亿美元，位列美国第16大银行。该银行主要客户来自科技、生命科学和医疗保健等领域，以及私募股权和风险投资。银行因疫情期间美联储的宽松政策导致资金大量流入，存款从2019年的600多亿美元增至2022年的近1800亿美元。随后，硅谷银行将这些资金大量投资于长期的美国国债和MBS，造成期限错配。随着美联储加息，科创企业开始提取现金，引发挤兑现象。为应对挤兑，银行不得不折价出售资产，导致亏损，进一步引发市场担忧和恐慌情绪。</div>
-</div>
-<div class="chapter-item">
-<span class="time"><strong>[00:04:53]</strong> </span>
-<span class="chapter-title"><strong>硅谷银行危机分析</strong></span>
-<div class="chapter-summary">硅谷银行面临的主要问题不是资产质量，而是流动性问题和期限错配。与2008年次贷危机不同，硅谷银行的资产主要是国债等相对安全的债券类产品，这些资产在理论上应该是非常安全的。然而，由于疫情后科创投资热情高涨导致存款扩张，硅谷银行在资产配置上的流动性管理出现问题，特别是在需要快速变现时，资产无法迅速转换为现金，导致流动性危机。这种情况下，即使拥有高价值的资产，如一套价值500万的房子，如果无法迅速变卖成现金，也会面临流动性危机，可能不得不打折出售资产，从而造成重大财产损失。硅谷银行的案例凸显了流动性管理和期限错配的重要性。</div>
-</div>
-<div class="chapter-item">
-<span class="time"><strong>[00:07:31]</strong> </span>
-<span class="chapter-title"><strong>硅谷银行危机及美联储的应对措施</strong></span>
-<div class="chapter-summary">硅谷银行近期面临的问题引发了对可能的系统性风险的担忧，因为其他银行如Simple Gate和Signature Bank也出现了类似问题。市场担心这可能只是问题的冰山一角。对此，美联储迅速反应，宣布救助措施，包括保障硅谷银行所有储户的现金存款得到偿还，并为所有银行提供流动性工具，旨在帮助银行渡过难关，从而在一定程度上安抚市场情绪，降低金融系统性风险的概率。</div>
-</div>
-<div class="chapter-item">
-<span class="time"><strong>[00:11:17]</strong> </span>
-<span class="chapter-title"><strong>硅谷银行事件对美联储加息政策的影响</strong></span>
-<div class="chapter-summary">硅谷银行的事件可能会影响美联储的加息步伐和节奏，因为美联储非常重视金融稳定性，特别是考虑到过去金融危机的教训。尽管美国通胀水平较高，需要继续加息以抗通胀，但加息幅度可能会较小，以避免增加金融系统的风险。美联储在做出加息决策时会全面考虑硅谷银行及其他金融机构的风险。</div>
-</div>
-<div class="chapter-item">
-<span class="time"><strong>[00:13:13]</strong> </span>
-<span class="chapter-title"><strong>美联储对金融风险的应对策略及市场影响</strong></span>
-<div class="chapter-summary">目前美联储在出台应对措施后可能暂时观望市场反应，以评估金融风险的演变及其是否扩大。如果金融风险有升级迹象，美联储将推出新政策以维持金融稳定。从历史教训中，美联储认识到迅速应对金融风险的重要性，以避免小风险演变成大风险，造成更高成本甚至系统性金融危机。硅谷银行事件可能影响公众对中小银行的信心，倾向于选择大银行。</div>
-</div>
-<div class="chapter-item">
-<span class="time"><strong>[00:14:58]</strong> </span>
-<span class="chapter-title"><strong>硅谷银行事件及对美国中小银行的影响</strong></span>
-<div class="chapter-summary">硅谷银行的倒闭事件引起了人们对美国中小银行安全性的担忧，导致出现存款搬家现象，即从中小银行向大银行转移资金。这种现象给中小银行带来压力，导致其股票价格下跌。尽管美国政府希望以市场化方式解决硅谷银行问题，找到潜在买家接手，但目前尚未有银行愿意收购。美联储已介入垫付资金，并将继续寻求解决方案，以债务重组为最佳选择。</div>
-</div>
-<div class="chapter-item">
-<span class="time"><strong>[00:17:07]</strong> </span>
-<span class="chapter-title"><strong>美联储救助硅谷银行及其影响分析</strong></span>
-<div class="chapter-summary">讨论重点在于美联储对硅谷银行的救助措施以及此举措可能带来的道德风险，强调了美联储承诺不使用纳税人的钱，而是让银行通过变卖资产自行还债，以减少未来银行冒险行为的可能。同时，分析了救助措施的最佳和最坏情境，指出若风险扩散，可能对美国乃至全球经济产生负面影响。此外，还提到需密切关注美国金融风险的进一步发展，特别是考虑到美联储加息政策的持续性。</div>
-</div>
-</div><br>
-<h1>问题回顾</h1>
-<div class="qa-item">
-<div class="question"><strong>Q:</strong> 大家好，今天我们请来刘正宁老师，想和他讨论一下最近非常热点的硅谷银行事件。首先，请刘老师为我们介绍一下这个事件的基本情况。</div>
-<div class="answer"><strong>A:</strong> 好的，简单来讲，硅谷银行出现的问题是一次因利率上升导致的银行流动性危机。随着美联储加息，客户提取现金的需求增加，为了应对这一需求，硅谷银行选择出售资产，但出售过程中产生的损失引发了市场对其偿债能力的担忧，并最终导致挤兑行为和资产价格大幅波动。目前，美国联邦存款保险公司已关闭并接管硅谷银行，市场担心这一事件可能蔓延至其他银行，引发更大金融风险。</div>
-</div>
-<div class="qa-item">
-<div class="question"><strong>Q:</strong> 硅谷银行出现问题时，大家很震惊。第一个问题就是硅谷银行为什么会出现问题？</div>
-<div class="answer"><strong>A:</strong> 硅谷银行是一家主要服务于科技创新类企业的上市银行，在新冠疫情后美联储大幅宽松政策下，科技企业获得了大量资金并存放在硅谷银行。从2019年至2022年，硅谷银行存款大幅增长了三倍，达到近1800亿美元。银行将这些存款主要投资于长久期的美国国债和MBS，形成了期限错配。随着美联储加息，科创企业提取现金增多，硅谷银行为应对挤兑而不得不出售资产，这进一步造成了资产损失，引发了市场担忧和恐慌情绪。</div>
-</div>
-<div class="qa-item">
-<div class="question"><strong>Q:</strong> 银行通常被认为风险较低，硅谷银行出现问题是否是因为它做出了错误的决策行为？</div>
-<div class="answer"><strong>A:</strong> 硅谷银行的问题并非源于其资产质量，而在于流动性管理上的期限错配。虽然其资产主要是相对安全的国债，但由于无法快速变现以满足客户提取现金的需求，从而陷入了流动性危机。</div>
-</div>
-<div class="qa-item">
-<div class="question"><strong>Q:</strong> 那从您的角度来看，硅谷银行这次的问题有多严重，是否会蔓延成为系统性的风险？</div>
-<div class="answer"><strong>A:</strong> 硅谷银行的问题确实很严重，并且由于银行具有同质性特点，我们发现不止一家银行出现了类似情况。这意味着如果不能有效处理，有可能会演变为系统性金融风险。</div>
-</div>
-<div class="qa-item">
-<div class="question"><strong>Q:</strong> 那么这家银行的特点是什么？它的客户群体主要针对的是哪类投资者？</div>
-<div class="answer"><strong>A:</strong> 这家银行主要针对的是加密货币投资者，如比特币等加密货币的投资者。</div>
-</div>
-<div class="qa-item">
-<div class="question"><strong>Q:</strong> 现在市场最担心的问题是什么？</div>
-<div class="answer"><strong>A:</strong> 市场最担心的是，硅谷银行出现的问题可能并非个例，其他中小银行也可能存在类似风险。</div>
-</div>
-<div class="qa-item">
-<div class="question"><strong>Q:</strong> 公共政策在应对当前金融风险时采取了哪些措施？</div>
-<div class="answer"><strong>A:</strong> 美联储及时采取了救助措施，包括保证硅谷银行所有储户的现金存款能够得到偿还，并设立了一个流动性工具，用于帮助面临类似问题的其他银行从美联储获取流动性。</div>
-</div>
-<div class="qa-item">
-<div class="question"><strong>Q:</strong> 美联储加息的步伐和节奏是否会受到此次硅谷银行事件的影响？</div>
-<div class="answer"><strong>A:</strong> 此次事件肯定会影响美联储加息的步伐和节奏，由于美联储关注金融稳定性，会谨慎考虑后续加息决策，既要对抗通胀，又要避免加大金融系统风险。</div>
-</div>
-<div class="qa-item">
-<div class="question"><strong>Q:</strong> 当前已采取的政策措施是否足够，是否需要进一步措施？</div>
-<div class="answer"><strong>A:</strong> 目前美联储不急于采取下一步措施，先观察市场反应和风险演变情况。如果金融风险扩大，会推出新的政策来保证金融体系稳定。</div>
-</div>
-<div class="qa-item">
-<div class="question"><strong>Q:</strong> 硅谷银行事件后，是否会影响大家对中小银行的信心？</div>
-<div class="answer"><strong>A:</strong> 是的，硅谷银行事件可能导致大家对中小银行的信心受损，出现存款搬家现象，即从小银行取出存款放入大银行，这对中小银行带来压力。</div>
-</div>
-<div class="qa-item">
-<div class="question"><strong>Q:</strong> 是否有潜在买家接盘硅谷银行？</div>
-<div class="answer"><strong>A:</strong> 目前尚未有明确的买家愿意收购硅谷银行，美国政府曾尝试通过市场化方式解决，但未能成功引入买家，最终由美联储介入救助。</div>
-</div>
-<div class="qa-item">
-<div class="question"><strong>Q:</strong> 美联储出手救助硅谷银行是否存在道德风险？</div>
-<div class="answer"><strong>A:</strong> 美联储救助硅谷银行确实存在道德风险，但此次救助是让问题银行自己买单，而非动用纳税人资金，以此来降低道德风险。</div>
-</div>
-<div class="qa-item">
-<div class="question"><strong>Q:</strong> 对本次事件可以预期一下最好的和最坏的情境是什么样的？</div>
-<div class="answer"><strong>A:</strong> 最好的情境是硅谷银行被成功救助，其他银行未受太大波及，金融系统正常运转；最坏的情境是金融风险扩散至其他银行或金融机构，对整体金融稳定构成重大威胁，并可能对实体经济和全球经济产生负面影响。</div>
-</div>
-<h1>节目文稿</h1>
-<p class="transcript-line">
-<span class="time"><strong>[00:00:09]</strong> </span>
-<span class="speaker"><strong>发言人1: </strong></span>
-Hello大家好，欢迎收听中心研究院的播客节目。我是主持人左璇璇，我是主持人玄多。我们今天邀请来的是中心研究部的宏观组海外宏观分析师刘正宁。他今天与我们一起交流一下关于最近非常热点的硅谷银行事件。
-</p>
-<p class="transcript-line">
-<span class="time"><strong>[00:00:26]</strong> </span>
-<span class="speaker"><strong>发言人2: </strong></span>
-大家好，我是刘振宁。
-</p>
-<p class="transcript-line">
-<span class="time"><strong>[00:00:28]</strong> </span>
-<span class="speaker"><strong>发言人1: </strong></span>
-我们今天请郑钧老师来，其实是想聊一下这个发生在上周末的一个非常热点的一个话题相信很多听众可能对此都多少有一些了解。他其实就是上周五硅谷银行发布了一个第一季度最新的一个战略的一个改变。其中就包括这个大规模的融资，再包括一些的出售部分债券。所以这也引起了很多市场投资者对于这个流动性的一些担忧。我们先请郑宁老师为我们介绍一下这个事件的一个情况。
-</p>
-<p class="transcript-line">
-<span class="time"><strong>[00:01:01]</strong> </span>
-<span class="speaker"><strong>发言人2: </strong></span>
-好的，简单来讲，这是一次因为利率上升而导致的银行流动性危机。这个硅谷银行，它随着美联储的加息，它的客户从银行提取现金的需求越来越多。那么为了应对这个客户提取现金的需求，硅谷银行就选择了出售资产。但是由于出售资产也带来了一些损失，所以这样的一个行为，也引发了市场对于硅谷银行的一个偿债能力的一个担忧，最后也是加剧了挤兑，引发了一个资产价格的大幅波动。那么面临面对这样的一个挤兑，美国的这个联邦存款保险公司已经宣布关闭，并且接管了硅谷银行。现在市场也比较担心，像硅谷银行的这个事情，会不会蔓延和扩散到其他的银行，从而引发一个更大的一个金融风险。这个就是现在大的一个背景。
-</p>
-<p class="transcript-line">
-<span class="time"><strong>[00:01:54]</strong> </span>
-<span class="speaker"><strong>发言人1: </strong></span>
-我们就先首先从第一个问题先开始问起硅谷银行出事件的时候，其实大家也都非常震惊。第一个问题就是硅谷银行为什么会出问题。
-</p>
-<p class="transcript-line">
-<span class="time"><strong>[00:02:06]</strong> </span>
-<span class="speaker"><strong>发言人2: </strong></span>
-我们首先要了解一下硅谷银行是一家什么样的银行，它是一家主要为科技创新类企业提供融资服务的一家上市银行。这家银行它在2022年底的总资产规模，达到了2118亿美元。那么2118亿美元是一个什么概念呢？按照这个排名来看，它这样的一个资产规模在整个美国排名第16。也就是说它是一个第十六大的一个银行，它不算一个小银行，算是一个比较大的这样的一个银行了。硅谷银行它的客户主要是来自于科学技术、生命科学、医疗保健这些科技创新行业，还有就是私募股权以及风险投资，也就是我们经常说的PE和VC这些初创领域。硅谷银行为什么会发生这样的一个问题呢？背后的原因在于疫情新冠疫情后美联储大幅的宽松，那么大幅宽松就带来了很多流动性，那个时候美国的科技企业就获得了大量的资金，他们就把这个资金就存放在了硅谷银行。
-</p>
-<p class="transcript-line">
-<span class="time"><strong>[00:03:21]</strong> </span>
-<span class="speaker"><strong>发言人2: </strong></span>
-根据硅谷银行的一个年报数据，它的这个负债端的积累的存款，从2019年的六百多亿美元，是大幅的上升到了2022年的接近1800亿美元，相当于是翻了三倍。那我们知道这个银行它从这个储户这里获取了存款之后，他就会去投放投放到贷款，或者说去用于购买一些金融资产。在硅谷银行这个情况下，他就是买了很多长久期的美国国债和MBS。这样的一个过程中，也形成了所谓的期限错配。也就是说他的债务端是一些短久期的债务，但是它的资产端是一些长久期的一些资产，从而形成了一个期限错配。我们说期限错配，对于这个银行来说也无可厚非，因为银行本身它的经营模式就是这个期限错配。
-</p>
-<p class="transcript-line">
-<span class="time"><strong>[00:04:12]</strong> </span>
-<span class="speaker"><strong>发言人2: </strong></span>
-但是问题是，随着美联储加息以后，他的这个客户这些科创企业，开始不断的去提取这个现金。随着提取现金的企业越来越多，从而就造成这样的一个挤兑。为了应对这样的挤兑，硅谷银行是选择出售他的资产。出售资产的过程中，又导致了他这个资产的一个亏损。因为出售资产，因为他要折价去变卖这些资产，形成了亏损。这个就引发了这个市场的担忧，所以投资者包括储户担心硅谷银行最终拿不出这么多资产来，所以他们就开始进一步的加大挤兑，最后就引发了这样的一个恐慌的情绪，大概整个过程就是这个样子的。
-</p>
-<p class="transcript-line">
-<span class="time"><strong>[00:04:54]</strong> </span>
-<span class="speaker"><strong>发言人1: </strong></span>
-当听您讲述这个整个的过程，其实我就有一个小的疑问。就是银行最近大家都说他feel so fast，但是听起来他好像并没有做出什么错误的一个决策行为。就是他说的这些存款的一个扩张，也是因为疫情之后这两年一些科创投资的热情高涨。然后他投资这一块，也是投了一些相对比较安全的一些债券类的产品。那就是他出现这个问题，听起来好像并不是他自己本身所积累的一个风险。
-</p>
-<p class="transcript-line">
-<span class="time"><strong>[00:05:27]</strong> </span>
-<span class="speaker"><strong>发言人2: </strong></span>
-的问题其实你说的也没错，这次这个硅谷银行的问题，很多人会想到2008年的次贷危机，当时雷曼兄弟，这些当时倒闭的这些金融机构。确实这次和那个时候相比，一个很大的不同点，就是他们的资产的质量是不一样的。在08年，当时的很多金融机构的资产，是所谓的有毒资产，那个资产本身就是次级贷款，所谓的次级贷款就是质量非常低的贷款。所以那种资产的那种毒有毒资产，我们称之为有毒资产，它就很容易出问题。但是这次，好像它这个硅谷银行它主要是一些国债，国债按道理应该是个非常安全的资产，所以很多人就觉得，那国债为什么会出问题？所以我们说这次他的问题的主要不是在于它这个资产的质量，而是在于什么呢？在于它这个流动性，它这个期限错配。
-</p>
-<p class="transcript-line">
-<span class="time"><strong>[00:06:20]</strong> </span>
-<span class="speaker"><strong>发言人2: </strong></span>
-这里可能我要解释一下什么叫流动性。就是说当我有一个这样的一个资产，但是我不能把它很快的变现，很快的变卖成这个现金的话，这个就会面临一个流动性的问题。我举个例子，比如说我有一套房价值500万，那么我的这个财富看上去是有500万，但是现在你突然让我拿出100块钱，可是我现在没有办法突然把这五这个500万的房子卖掉来换取100块钱。所以这个时候实际上我是面临的一个流动性危机的。就虽然我有500万的房子，但是我现在拿不出100块的现金，我也会面临这样的流动性的危机，所以这个时候，怎么办？我就不得不去借钱，或者说我打折变卖我的资产，假设我这套房我就100块钱甩卖掉，那我可能很多人会想要抢着买，这样的话我就可以马上拿到100块钱。但是当我拿到100块钱的时候，相当于我这个房子这个价值已经被我打折出售，相当于是我一个重大的一个投资或者说财产的损失了。大概就是这样的一个问题。所以这次硅谷银行它的问题主要是出在了一个期限错配带来的流动性问题上。这是它的一个主要的问题所在。
-</p>
-<p class="transcript-line">
-<span class="time"><strong>[00:07:31]</strong> </span>
-<span class="speaker"><strong>发言人1: </strong></span>
-那就是回到硅谷银行它本次的这个问题那从您的角度来看，它这回这个问题有多严重，是不是有可能蔓延成为一个系统性的风险？
-</p>
-<p class="transcript-line">
-<span class="time"><strong>[00:07:41]</strong> </span>
-<span class="speaker"><strong>发言人2: </strong></span>
-对，所以这个问题也是大家非常关注的问题。所以当时我们看到这个硅谷银行以后，我们首先想到的就是有没有其他的银行也是跟它一样的。因为我们知道银行有个特点，就是它的同质性特别强。大家做的生意，做生意的模式基本上都是一样的。所以除了硅谷银行，有没有别的银行也是这样，结果我们发现确实也有不止他一家，比如说上周还有一家银行，它也是出现了挤兑和最后的一个倒闭清算。
-</p>
-<p class="transcript-line">
-<span class="time"><strong>[00:08:13]</strong> </span>
-<span class="speaker"><strong>发言人2: </strong></span>
-那么这家银行的特点是什么呢？它的客户群体虽然不是针对这个科创企业，但它主要针对的是我们说加密货币的这些投资者，就是像比特币，像一些这种加密货币。所以这些投资者也面临一个问题，就是当美联储加息之后，加密货币的价格下跌，他们一开始抛售货币，然后开始提取现金。这个过程中，也对这个银行，simple gate这家银行也产生了挤兑。然后还有另外一家，就是在纽约的叫做signature bank，这家银行也出现了问题。所以我们发现，这个问题似乎并不只是硅谷银行一家独有，而是其他的银行卡，特别是一些中小银行，它都有这个问题。
-</p>
-<p class="transcript-line">
-<span class="time"><strong>[00:08:58]</strong> </span>
-<span class="speaker"><strong>发言人2: </strong></span>
-这个也是现在市场最担心的。就是我们经常说一个屋子里面如果发现了一只蟑螂，那他可能不止一只，可能还有第二只、第三只。这个就是现在市场上最担心的一个问题。
-</p>
-<p class="transcript-line">
-<span class="time"><strong>[00:09:11]</strong> </span>
-<span class="speaker"><strong>发言人1: </strong></span>
-那现在公共政策的一个应对方式是怎么样的呢？就是我们也看到其实美联储可能都会有一些措施出台。您可以为我们介绍一下整个的这些救助措施吗？
-</p>
-<p class="transcript-line">
-<span class="time"><strong>[00:09:24]</strong> </span>
-<span class="speaker"><strong>发言人2: </strong></span>
-对，那么面对对这样的一个情况大家就会想到这个政策会怎么去应对，我们看到这次美联储的这个反应，应对的时间还是比较及时。是的，在这个硅谷银行是上周五出现了这样的一个问题。那么在整个周末，美联储也是内部肯定是做了一个讨论。
-</p>
-<p class="transcript-line">
-<span class="time"><strong>[00:09:47]</strong> </span>
-<span class="speaker"><strong>发言人2: </strong></span>
-在北京时间的周一的早上，在这个亚洲的开盘前，美联储就公布了他的一个决议，就是什么呢？就是宣布要救助这家硅谷银行。他的救助包括两个方面。第一个就是首先他保证所有硅谷银行的储户，他的这个现金存款能够得到偿还，这一点很重要。因为如果大家觉得自己的钱是安全的，就不会再去银行挤兑了，所以这是他的第一个，就保证所有的储户他的钱是能够拿到的。
-</p>
-<p class="transcript-line">
-<span class="time"><strong>[00:10:18]</strong> </span>
-<span class="speaker"><strong>发言人2: </strong></span>
-第二个，就是美联储设立了一个流动性的工具，这个工具，也是针对所有银行的。这个工具的用意在于，如果哪家银行发现自己面临了像硅谷银行同样的问题，那么他可以立刻找到美联储，美联储可以把这个流动性提供给他，帮助这些银行来渡过难关，因为我们知道美联储作为央行，他的一个职责就是最终贷款人。所谓最终贷款人就是当银行在市场上借不到钱的时候，他去找这个美联储，美联储是可以给他提供流动性的。所以这一点也是美联储为了应对其他的银行也出现类似的情况，而推这样的一个流动性的工具，所以在这两个措施出台之后，市场情绪是得到了一定程度的安抚的，大家觉得在一定程度上，这个政策的一个救助，能够有助于降低金融出现系统性风险的这样的概率。大概是这么个情况。
-</p>
-<p class="transcript-line">
-<span class="time"><strong>[00:11:18]</strong> </span>
-<span class="speaker"><strong>发言人1: </strong></span>
-那您之前也提到，其实他这次的一个这个风险事件，可能也是与美联储之前的持续加息的这个事件有关。那出了硅谷的银行这个事件之后，对于美联储这个加息的步伐和节奏会不会有一些影响呢？
-</p>
-<p class="transcript-line">
-<span class="time"><strong>[00:11:35]</strong> </span>
-<span class="speaker"><strong>发言人2: </strong></span>
-这个对于美联储加息的影响是是肯定是会有的，因为我们知道美联储他也是非常关注这个金融的稳定性的，特别是像2008年经历过一次次贷危机。当时也是2007年美联储也是加息，后来加加着美国的房地产泡沫破灭破灭，最后引发了次贷危机，所以我们说这个金融危机，它和这个加息，在某种程度上也是有关联的。所以这次美联储也特别的小心，当他发现这个加息出现了这个问题以后，他一定会非常的小心谨慎，特别是对于后续的加息，他会非常的小心。
-</p>
-<p class="transcript-line">
-<span class="time"><strong>[00:12:16]</strong> </span>
-<span class="speaker"><strong>发言人2: </strong></span>
-那我们说下周的美联储，下周四美联储会召开一些会议，我们现在判断美联储可能还会有一些加息，但是加息的幅度会比较小。那么为什么他要还要加呢？是因为美国的通胀水平现在还比较高，那美联储还肩负着一个降低通胀，抗通胀的这么样的一个使命。所以由于需要抗通胀，所以他还是要继续的加息。但是加息的幅度不能太大，因为加的太多，这个金融系统，银行的风险容易暴露。所以在这个问题上，他又要在这个硅谷银行的事件的影响，又会制约它的这个加息。所以回答你的问题就是肯定的。美联储在加息的决策的时候，会兼顾硅谷银行以及其他金融机构的一个风险，从而全方位的全盘来考虑，最后来做出这样的一个加息的决策。
-</p>
-<p class="transcript-line">
-<span class="time"><strong>[00:13:13]</strong> </span>
-<span class="speaker"><strong>发言人3: </strong></span>
-明白。现在还有一个问题，就是关于当前已经采取的一个政策措施够不够呢？是否还需要采取进一步的一些措施？
-</p>
-<p class="transcript-line">
-<span class="time"><strong>[00:13:23]</strong> </span>
-<span class="speaker"><strong>发言人2: </strong></span>
-目前来看，美联储可能不急于再采取下一步的措施，我认为他他因为已经出台了一些这样的应对措施，是所以他的第一步可能是要观望一下，通过看看市场的反应，看看这个储户还有银行的一个反应，来看看这个风险本身到底是怎么演变，会不会扩大成更更大的一个风险，如果没有再扩大出更大的风险，那么美联储就可以在继续的去观察其他的，包括通胀，其他的一些变量。如果这边金融风险这块有进一步升级的这样的一个迹象，也会倒逼美联储再来推出新的政策，从而来保证这个金融体系的稳定。那我们的观察是，如前所述，美联储对于金融风险还是非常重视的。而且08年次贷危机后一个教训就是当这个金融风险发生的时候，央行必须在第一时间尽快的去应对，因为如果拖拖拉拉，犹豫不决，最后这个小的风险就容易演变成大的风险。等到那个时候再来进场灭火的话，成本就会更高，最后有可能会引发系统性的金融危机，所以从这个角度看美联储一定是在这个风险暴露的初期，他就会去介入解决这样的一个问题。
-</p>
-<p class="transcript-line">
-<span class="time"><strong>[00:14:47]</strong> </span>
-<span class="speaker"><strong>发言人1: </strong></span>
-就是往长期一点看的话，硅谷银行这件事出了之后，会影响大家对于中小银行的一些信心。就是我就宁愿把钱放在大银行这里。
-</p>
-<p class="transcript-line">
-<span class="time"><strong>[00:14:58]</strong> </span>
-<span class="speaker"><strong>发言人2: </strong></span>
-我认为会的。所以现在我们也担心美国会不会出现这个存款搬家。所谓存款搬家，就是我从这个小银行把钱取出来放到大银行。因为我觉得小银行不安全，虽然可能我存钱的那个银行不是硅谷银行，但是我也担心其他银行也会出现同样的问题，所以现在会有这样的一个存款搬家这么样的一个情况。存款搬家，其实也是会给一些中小银行带来压力的。所以我们看到这两天美国的这个市场，有一些中小银行的股票价格也跌的比较厉害，虽然它本身并没有出现问题，或者说还没有出现负面的新闻。但是，由于大家的担心，有可能会触发这样的一个恐慌，所以这个也是现在美国一些中小银行面临的一些问题和挑战。
-</p>
-<p class="transcript-line">
-<span class="time"><strong>[00:15:47]</strong> </span>
-<span class="speaker"><strong>发言人3: </strong></span>
-那现在就是硅谷银行这个事件之后，有没有一些您看到的新闻上新的追踪，包括一些潜在的买家，谁来接这个硅谷银行的盘呢？
-</p>
-<p class="transcript-line">
-<span class="time"><strong>[00:15:57]</strong> </span>
-<span class="speaker"><strong>发言人2: </strong></span>
-对的，其实一开始的话换了这个美国政府是希望有其他银行能够来收购这个硅谷银行，因为最好的方式就是政府不要出手，让这个银行以市场化的方式来自我的解决，有人来收购它，这样的话就以市场化的方式来解决了。但是到目前来看，好像还没有看到有有银行愿意去购买它。因为有些银行也觉得如果政府自己也不掏钱，他也不愿意去收购。所以这里面可能也有一个政府和银行博弈的这么一个过程，所以到目前为止好像也没有成功的引入这样的一个买家，所以最后跟美联储也不得不去自己去先介入，先来垫付这个资金。后续的话，美联储还会去继续的寻求其他的买家，从而尽可能让这个银行的这个硅谷银行的事件能够以一个市场化的方式解决。当然这样是这个市场化的方式，债务重组这是最好的一个选择。
-</p>
-<p class="transcript-line">
-<span class="time"><strong>[00:17:09]</strong> </span>
-<span class="speaker"><strong>发言人1: </strong></span>
-这个对那美联储出手救助这个道德风险这块您怎么理解呢？
-</p>
-<p class="transcript-line">
-<span class="time"><strong>[00:17:15]</strong> </span>
-<span class="speaker"><strong>发言人2: </strong></span>
-对，这个美联储救助它确实有个问题，就是道德风险。因为如果我今天救助了硅谷银行，那明天另外一家银行倒闭了，我也要救助另外一家银行。所以这就会让银行更加肆无忌惮，更加敢于冒险。所以对于这一点，美联储在救助的时候也提到了，就是他的这个救助是不会花纳税人的钱的，他这里面的每一分钱都是出在银行自己的身上，依靠银行去变卖资产，来给自己还债。所以他的这个表态，也是就是告诉这个市场，告诉美国这个纳税人，我们这次不像08年要租用纳税人的钱来拯救华尔街，这次是他们谁出了问题，谁自己给自己买单，我们不会去花纳税人钱。这个在他的救助的这个条款里面，也是美联储也是有所表态。
-</p>
-<p class="transcript-line">
-<span class="time"><strong>[00:18:11]</strong> </span>
-<span class="speaker"><strong>发言人3: </strong></span>
-那还有一个小问题，就是本次事件您是否可以预期一下，他一个最好和最坏的一个情境是什么样的呢？
-</p>
-<p class="transcript-line">
-<span class="time"><strong>[00:18:19]</strong> </span>
-<span class="speaker"><strong>发言人2: </strong></span>
-最好的情景就是说硅谷银行被美联储拯救了，然后其他他的银行也没有得到没有受到大的波及，所以整个美国银行系统继续的正常的运转，那么这个事情，风险都得到了管控，这是一个比较好的情形。比较差的情形，就是这个金融风险的扩散，除了硅谷银行以外，还有第二家甚至第三家、第四家银行也出现问题，甚至可能还有其他的一些机构也是出现这样的风险。这种情况下，对于整个美国金融体系的稳定，就会带来一个非常大的一个风险，这个，就要求美国政府，包括美联储的去进一步的去出台措施来应对，这种情况下，如果是金融行业出了大的问题，大的风险，那么这个对实体经济，对美国经济，甚至乃至全球经济而言，都会带来一些负面的影响。这个也是我们觉得后面需要特别关注的一个风险，就是美国的这个金融风险还会不会继续的，在其他银行或者说其他的金融机构上面发生。因为毕竟美联储加息还没有结束，美国利率还处在一个非常高的水平。在这样的背景下我觉得去不排除这个风险还是有啊进一步扩散，进一步发酵的可能性的，这点我们需要特别的关注和留意。
-</p>
-<p class="transcript-line">
-<span class="time"><strong>[00:19:44]</strong> </span>
-<span class="speaker"><strong>发言人3: </strong></span>
-好的，谢谢刘振宁老师为我们详细的解读这次硅谷银行的事件。需要注意的是，我们本次播客录制于2023年的3月14日，所以后续也会有进一步的报告来做追踪。请大家持续关注中金研究院和中金点睛的公众号，谢谢大家的收听，我们下次再见，拜拜。
-</p>]]></content:encoded>
-            <pubDate>Wed, 15 Mar 2023 08:55:42 GMT</pubDate>
-            <guid>64118d10ac82886b1fb5644d</guid>
         </item>
     </channel>
 </rss>

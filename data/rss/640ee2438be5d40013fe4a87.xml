@@ -4,7 +4,629 @@
         <title>硬地骇客</title>
         <link>https://www.xiaoyuzhoufm.com/podcast/640ee2438be5d40013fe4a87</link>
         <description>一起探讨技术、产品和商业之美</description>
-        <lastBuildDate>Thu, 12 Feb 2026 05:12:16 +0800</lastBuildDate>
+        <lastBuildDate>Mon, 16 Mar 2026 02:05:20 +0800</lastBuildDate>
+        <item>
+            <title>EP123 当我们被 “小龙虾” （OpenClaw）接管日常 🦞</title>
+            <link>https://www.xiaoyuzhoufm.com/episode/69b04f0c2a2882aae761ee45</link>
+            <description>本期《硬地骇客》深度拆解了当前火爆的“小龙虾”（OpenClaw）现象。从 Karpathy 的“钢铁侠战衣”理论，到“Agent 数量将是人类用户 10 倍”的宏大叙事，再到程序员们争论不休的 CLI vs MCP。我们发现，未来的软件可能不再是给人“点按钮”的，而是给 Agent“喂数据”的。
+你会听到：为什么说 SaaS 软件可能面临“灭顶之灾”？为什么古老的文件系统和 CLI 会在 AI 时代老树发新芽？以及，当你的 Agent 开始在网上“乱逛”时，如何防范那些藏在自然语言里的“投毒”攻击？
+本shownotes由 castwise.ai 制作
+Podwise - Podcast Knowledge at 10x Speed!
+podwise.ai
+Apple Store 下载👉🏻 apps.apple.com
+硬地笔记
+Part 1: 核心理念与 AI 搜索变革
+03:50Kapathy 的钢铁侠战衣观点：AI 应增强人类能力而非完全自动化
+06:49AI 搜索量或超 Google：Agent 时代的新商业机会探索
+Part 2: 开发者生态与工具构建
+09:31迎接大模型：构建 Agent 友好的搜索引擎与工具生态
+12:31Agent 颠覆传统软件：商业模式与定价模式的探讨
+15:11Agent 定价新思路：虚拟员工模式与按席位收费的合理性
+Part 3: 技术路径与存储方案争论
+19:36CLI 与 MCP 之争：Agent 调用外部资源的最佳方式
+23:14对人友好的工具对大模型更友好：CLI 的简单性与学习能力
+27:32文件系统重回视野：AI 工程青睐的简单存储方案
+Part 4: 未来趋势、安全与软件重构
+31:38SaaS 软件的未来：数据库 +LLM 交互层的颠覆性设想
+35:45OpenCloud Hub 的安全隐患：技能商店的强管控需求
+39:31Build for Agent：文档格式、API 设计与系统健壮性的新考量
+42:44Cursor 的过渡性与 Agent 时代的软件设计：人机结合的新方向
+欢迎关注我们
+* 知识星球:t.zsxq.com
+* 官网: hardhacker.com
+* 小手册: book.hardhacker.com
+* 用爱发电不容易，请我们喝咖啡☕️: afdian.net
+* 公众号/小红书: 硬地骇客
+* 商务合作: hardhackerlabs@gmail.com
+* 另外，现在加入「硬地骇客」会员服务，即可在会员专属的微信群与其他朋友一起畅所欲言，成为会员也是对我们持续更新最大的鼓励！</description>
+            <content:encoded><![CDATA[<h1>转写链接</h1>
+<link>https://tongyi.aliyun.com/efficiency/doc/transcripts/2yjoqzlkjlyr968l</link><br>
+<h1>节目摘要</h1>
+<div class="summary">在探讨AI，尤其是大模型时代下软件设计和开发的未来趋势时，讨论着重于如何使软件对代理（agent）用户更加友好和有效。强调了agent作为数字信息主要消费者和操作者之一的角色，以及软件设计需适应agent的需求，如提供易读文档、通过API而非GUI操作，以及利用CLI和MCP技术改进与大模型的交互。同时，讨论涉及安全性和API管理的重要性，以及agent通过大模型访问数据库的可能性。展望未来，认为软件开发和产品设计需兼顾人类和agent用户需求，可能催生新的定价和商业模式。此外，讨论了COSR和OpenCLUDB等工具在软件开发和AI工程中的作用及未来方向，强调了为agent市场设计软件的必要性，期待更多针对agent市场的产品和解决方案。整体上，本次对话深入分析了AI时代软件发展的新趋势和挑战。</div><br>
+<h1>章节速览</h1>
+<div class="chapters">
+<div class="chapter-item">
+<span class="time"><strong>[00:00:00]</strong> </span>
+<span class="chapter-title"><strong>AI学习软件助力播客内容深度理解</strong></span>
+<div class="chapter-summary">节目介绍了由power wise赞助的AI学习软件，该软件通过转录、提取、总结分析播客内容，帮助用户深度理解硬核内容。同时，与notion RED、WIS等平台的集成，协助知识管理，打造第二大脑。节目中还提到为听众准备了三个5折优惠码，并鼓励在小宇宙平台互动以获取精选回复。</div>
+</div>
+<div class="chapter-item">
+<span class="time"><strong>[00:00:46]</strong> </span>
+<span class="chapter-title"><strong>面向Agent的软件设计：从文档到操作的转变</strong></span>
+<div class="chapter-summary">在回顾卡帕关于AI时代软件的演讲中，讨论了为Agent设计软件的关键点，强调了文档需易于Agent理解并操作，提倡使用如Markdown的纯文本格式，避免复杂的点击操作，转而支持CLI或API的交互方式，以提高稳定性和效率。</div>
+</div>
+<div class="chapter-item">
+<span class="time"><strong>[00:02:47]</strong> </span>
+<span class="chapter-title"><strong>AI Agent与人类协作：UI新角色与审查重要性</strong></span>
+<div class="chapter-summary">讨论指出，尽管AI agent的兴起可能让人误以为GUI不再重要，但实际上，UI仍需存在以供人类监督、校准和审查AI工作。尤其在coding agent中，code review成为关键UI，强调人类审查的必要性。反对者认为审查非必需，但支持观点主张，AI应像钢铁侠战衣，增强而非替代人类，需在人类掌控下运行，确保安全与可控性。</div>
+</div>
+<div class="chapter-item">
+<span class="time"><strong>[00:05:01]</strong> </span>
+<span class="chapter-title"><strong>Agent与用户增长的探讨：算力与电的挑战</strong></span>
+<div class="chapter-summary">讨论了从PC到移动互联网再到Agent用户群的十倍增长逻辑，指出Agent用户群的增长潜力巨大，尤其是当算力和电力充足时，单个用户可启动成百上千个Agent，从而大幅增加市场用量。然而，若仅考虑人类用户，由于能上网的人已基本覆盖，人类用户群的增长空间有限。尽管如此，借助Agent，普通用户也能在特定领域产生价值，推动小市场用户数量的增长。</div>
+</div>
+<div class="chapter-item">
+<span class="time"><strong>[00:06:48]</strong> </span>
+<span class="chapter-title"><strong>AI搜索行为与用户搜索习惯的对比分析</strong></span>
+<div class="chapter-summary">对话讨论了AI在思考过程中进行的搜索活动可能比用户直接使用搜索引擎的次数更多，且更全面，从而提升结果的准确性。尽管用户可能减少了直接使用谷歌搜索的频率，但通过与AI的交互，间接利用了大量搜索引擎资源。</div>
+</div>
+<div class="chapter-item">
+<span class="time"><strong>[00:07:35]</strong> </span>
+<span class="chapter-title"><strong>大模型商业化与Open Cloud框架的应用</strong></span>
+<div class="chapter-summary">讨论了大模型通过提供服务如上门装虾和开发领域专用解决方案来实现商业化的机会，强调了Open Cloud框架作为集成平台的重要性，需高质量外部工具支持以增强功能和应用范围。</div>
+</div>
+<div class="chapter-item">
+<span class="time"><strong>[00:11:36]</strong> </span>
+<span class="chapter-title"><strong>Agent First软件的商业模式与定价模式探讨</strong></span>
+<div class="chapter-summary">对话围绕Agent First软件的商业机会与定价模式展开讨论。参与者认为，Agent软件颠覆传统SaaS软件的机会在于其无需界面操作，可直接操作数据存储。目前，Agent软件尚无成熟定价模式，但按用量计费可能是最适合的模式。Stripe正通过收购和开发新机制，推动基于token的用量计费，为Agent软件提供更简单的出账单解决方案。</div>
+</div>
+<div class="chapter-item">
+<span class="time"><strong>[00:15:05]</strong> </span>
+<span class="chapter-title"><strong>AI Agent商业模式探讨：从按用量到按席位收费的未来设想</strong></span>
+<div class="chapter-summary">讨论了AI Agent商业模式从按用量收费到按席位收费的转变，认为初期对供应商友好，但对消费者不够透明。未来可能发展为类似虚拟员工的外包模式，按能力、工作时长等标准定价，更符合AI作为智能体的特性。</div>
+</div>
+<div class="chapter-item">
+<span class="time"><strong>[00:19:36]</strong> </span>
+<span class="chapter-title"><strong>AI时代CLI与MCP之争：开发者视角下的优劣分析</strong></span>
+<div class="chapter-summary">讨论了在AI时代，CLI（命令行接口）与MCP（多渠道平台）作为agent调用外部资源的方式，各自的优缺点。CLI因其简洁性、对人与agent的通用性以及已被大模型内化的优势而受到青睐，但在服务发现和自描述机制方面存在不足。MCP则在复杂度和调试便利性方面面临挑战。整体上，CLI在现有场景下显得更为实用，但并非完美，二者各有适用场景。</div>
+</div>
+<div class="chapter-item">
+<span class="time"><strong>[00:22:10]</strong> </span>
+<span class="chapter-title"><strong>大模型与CLI工具的兼容性及友好性探讨</strong></span>
+<div class="chapter-summary">讨论了大模型在学习和使用CLI工具方面的优势，指出对人友好的工具同样适合大模型，强调了CLI工具的简洁性和对大模型训练数据的影响，以及CRI命令行工具的易用性和扩展性问题。</div>
+</div>
+<div class="chapter-item">
+<span class="time"><strong>[00:27:38]</strong> </span>
+<span class="chapter-title"><strong>AI工程青睐文件系统与数据库未来的思考</strong></span>
+<div class="chapter-summary">讨论了为何文件系统在AI工程中受到青睐，指出其简单性与AI友好性，以及如何通过文件系统存储如Markdown文本提升AI应用的效率。同时探讨了数据库未来可能的发展趋势，包括大模型对SQL语言的熟练应用，以及可能替代传统后端逻辑处理的潜力。此外，还提及了资本市场对SaaS软件未来可能性的交易逻辑，即通过数据库与代码代理实现数据存取与优化，从而可能替代传统SaaS软件的功能。</div>
+</div>
+<div class="chapter-item">
+<span class="time"><strong>[00:33:05]</strong> </span>
+<span class="chapter-title"><strong>大模型操控数据库的安全隐患与技能市场风险</strong></span>
+<div class="chapter-summary">讨论了使用大模型操控数据库时可能遇到的安全隐患，如SQL注入等。同时，提及了类似CLUB Hub这样的技能市场中存在大量未经过安全审核的技能，部分甚至包含恶意代码，对用户数据安全构成威胁。由于自然语言的灵活性，针对此类技能进行安全扫描面临较大挑战。</div>
+</div>
+<div class="chapter-item">
+<span class="time"><strong>[00:36:50]</strong> </span>
+<span class="chapter-title"><strong>公网暴露的Open Cloud端口安全风险及自检建议</strong></span>
+<div class="chapter-summary">讨论了公网暴露的Open Cloud端口可能带来的安全风险，强调了自检的重要性，特别是对于存储在云服务商上的服务器。建议用户检查自己的服务器是否暴露在公网，以防止API key、cookies等敏感信息泄露，造成经济损失。同时，提出未来可能需要类似Apple Store的严格审核平台来保障消费者端的安全。</div>
+</div>
+<div class="chapter-item">
+<span class="time"><strong>[00:39:30]</strong> </span>
+<span class="chapter-title"><strong>未来Beautiful Agent设计考量与挑战</strong></span>
+<div class="chapter-summary">对话围绕未来Beautiful Agent的设计展开，讨论了需考虑的关键因素，如文档以LM友好的格式提供、系统操作API化、增强系统健壮性及调整限流策略等。同时，指出现有登录机制、图形验证码及防攻击策略对Agent不适用，需重新思考适应Agent的访问模式。</div>
+</div>
+<div class="chapter-item">
+<span class="time"><strong>[00:42:44]</strong> </span>
+<span class="chapter-title"><strong>AI编码助手与未来软件设计趋势</strong></span>
+<div class="chapter-summary">讨论了AI编码助手如科斯尔在软件开发中的应用，特别是其在老项目修补和代码补全上的优势。提到科斯尔的基因中包含大量人机交互设计，适合企业级客户，且收入主要来自企业付费。探讨了未来软件设计需考虑两类用户：人类与AI代理，强调软件需适应AI代理的使用，思考产品与AI代理的适配性。</div>
+</div>
+</div><br>
+<h1>问题回顾</h1>
+<div class="qa-item">
+<div class="question"><strong>Q:</strong> 在卡帕于2025年六月在YC发表的著名演讲中，他对于未来面向agent的软件有定义什么标准吗？</div>
+<div class="answer"><strong>A:</strong> 卡帕在演讲中并未明确提出这是一项标准，但他确实强调了为agent构建软件时需提供agent可以读懂的文档，并且让agent读完后能执行相应的操作，比如通过API或命令行而非点击操作来减少对agent操作的脆弱性和不稳定性。</div>
+</div>
+<div class="qa-item">
+<div class="question"><strong>Q:</strong> 那么在如今的环境下，是否意味着传统的GUI不再重要，因为现在是AI与机器交互而非人机交互了？</div>
+<div class="answer"><strong>A:</strong> 实际上，面向agent的软件仍然需要UI，但这种UI的设计目的是为了人类快速审查AI的工作并进行介入指挥，而非提高人类操作效率。例如，程序员使用的代码审查就是一种关键的UI需求。</div>
+</div>
+<div class="qa-item">
+<div class="question"><strong>Q:</strong> 对于AI能否取代人类对AI工作的监督和校准，即AI是否需要“钢铁侠战衣”式的增强人类能力而非全自动机器人，您怎么看？</div>
+<div class="answer"><strong>A:</strong> 我同意巴西的观点，即AI应作为人类能力的增强者而非完全脱离人类掌控的全自动机器人，AI需在人类监督下工作以确保正确性。</div>
+</div>
+<div class="qa-item">
+<div class="question"><strong>Q:</strong> 在这一轮以openAI为代表的叙事中，有没有什么商业机会，特别是除了帮别人上门装虾外？</div>
+<div class="answer"><strong>A:</strong> 对于大模型厂商来说，提供安装服务可以增加用户使用自家云服务和API的用量，从而带来显著营收增长。此外，还有在政府领域探索差异化需求，如安全、审计等特性，以适应特定市场，如深圳首批政务龙虾项目。同时，也可以考虑开发更适合agent交互的搜索引擎，以适应未来的发展需求。</div>
+</div>
+<div class="qa-item">
+<div class="question"><strong>Q:</strong> 在与大模型互动方面，卡巴奇提出了什么样的观点？</div>
+<div class="answer"><strong>A:</strong> 卡巴奇提出了&quot;meeting l ms哈佛way&quot;的观点，强调我们应该主动去迎接大模型，让自己的产品和服务去拥抱agent，通过与龙虾互动来获取用户和使用量。</div>
+</div>
+<div class="qa-item">
+<div class="question"><strong>Q:</strong> open cloud在当前阶段扮演的角色以及存在的局限性是什么？</div>
+<div class="answer"><strong>A:</strong> open cloud目前更多地扮演了一个集成框架的角色，负责集成多个领域的专用工具和技能，并提供基础服务如安全审计等。其局限性在于需要大量的外部高质量工具进行扩展，以实现更具体的应用需求。</div>
+</div>
+<div class="qa-item">
+<div class="question"><strong>Q:</strong> 对于那些不想开发AI或open cloud的团队来说，有哪些商业机会？</div>
+<div class="answer"><strong>A:</strong> 这类团队可以专注于开发传统工具，使它们更友好地适应agent的使用方式，比如创建一个rapper层或封装层，从而挖掘很多商业机会。</div>
+</div>
+<div class="qa-item">
+<div class="question"><strong>Q:</strong> 针对agent使用的软件，是否有可能颠覆现有的软件形态？目前针对agent使用的软件，有没有成熟的定价模式或商业模式？</div>
+<div class="answer"><strong>A:</strong> 是的，有可能出现一轮颠覆所有软件的机会，让原本为人用的软件转变为数据存储供agent操作，特别是考虑到agent无需查看用户界面，这为相关领域带来了新的商业机遇。目前为止，最常见的定价模式还是按用量计费，因为AI时代普遍采用订阅制计费并设定用量限制。对于agent而言，纯按用量收费可能较为合适，因为agent会随时启停使用。</div>
+</div>
+<div class="qa-item">
+<div class="question"><strong>Q:</strong> 对于未来agent作为虚拟员工的定价模式有何设想？</div>
+<div class="answer"><strong>A:</strong> 设想未来可能进化出类似人的外包模式，客户按坐席收费租赁虚拟员工（A枕头），根据其能力和工作时长付费，类似外包人员。初期可能按照替代人力成本定价，随着竞争加剧，价格可能会下降，但仍以虚拟员工的按席位收费为合理模式。</div>
+</div>
+<div class="qa-item">
+<div class="question"><strong>Q:</strong> stripe在agent计费方面的尝试是什么样的？</div>
+<div class="answer"><strong>A:</strong> stripe收购了一家名为metro mom的用量计费平台公司，并开发了一套名为token billing的机制，可以根据token用量自动计算并出具账单，支持预购配额、保底消费等功能。</div>
+</div>
+<div class="qa-item">
+<div class="question"><strong>Q:</strong> 在AI时代，CRI和MCP在开发者社区中的使用和优势是什么？</div>
+<div class="answer"><strong>A:</strong> 在AI时代，CRI（假设为某个工具或技术）和MCP（可能指模型或另一种工具）在开发者群体中广泛应用。CRI通常作为基础假设存在，因其方便性和易用性被开发者广泛采用，能够完成很多任务。MCP在某些方面可能不如CRI便捷，例如在出现问题时需要翻阅文档、调试以及寻找工具等额外步骤。然而，CII（CRI的一种）已内化到大模型中，无需额外技能训练，即可被LM识别和利用。</div>
+</div>
+<div class="qa-item">
+<div class="question"><strong>Q:</strong> CII与MCP在AI时代的本质区别是什么？</div>
+<div class="answer"><strong>A:</strong> CII作为非AI原生的技术，虽然具有一定的优势，如开箱即用，但在服务发现机制、自描述机制等方面存在局限性，输出格式多样且非结构化。而MCP和skills则是为解决服务发现和知识交授给大模型的问题而设计的AI原生概念，它们能帮助新CII的安装、使用教学，与大模型互动，从而更好地适应AI时代的应用场景。</div>
+</div>
+<div class="qa-item">
+<div class="question"><strong>Q:</strong> 对人友好的工具对大模型友好吗？</div>
+<div class="answer"><strong>A:</strong> 是的，对人友好的工具对大模型也很友好。大模型训练基于大量互联网数据，这些数据大多对人友好，因此大模型也能较好地理解和处理这类内容。CLI（命令行接口）虽然格式可能不严格遵循某种标准格式，但其对人的友好性使得大模型也能适应并识别其输出。</div>
+</div>
+<div class="qa-item">
+<div class="question"><strong>Q:</strong> 文件系统为何在AI工程中受到青睐？</div>
+<div class="answer"><strong>A:</strong> 文件系统因其古老且简单，成为AI工程中备受青睐的对象。主流agent和工具如使用Markdown文件存储信息，且文件系统对于上下文工程也非常重要。同时，像lama index等研究也强调了文本文件对于AI的重要性。相比其他复杂存储系统，文件系统在AI工程上追求简单易用，不仅对人友好，也对大模型友好，便于理解和处理。</div>
+</div>
+<div class="qa-item">
+<div class="question"><strong>Q:</strong> 在当前技术发展趋势下，前端技术体系是否有可能被颠覆或重构，甚至不需要浏览器这样的前端标准存在？CRI的本质是什么？它是否也改变了对前端技术体系的认知？</div>
+<div class="answer"><strong>A:</strong> 是的，随着技术发展，前端技术体系确实有可能被颠覆或重构。我们曾开玩笑说，未来前端可能不再需要一个浏览器标准，只需直接与后端服务交互即可。CRI本质上是后端服务的一个rapper，并非前端体系。这让我们重新思考前端技术体系的存在必要性，同时也引发了对后端体系是否也变得不再必要的讨论。</div>
+</div>
+<div class="qa-item">
+<div class="question"><strong>Q:</strong> 随着AI和大模型的发展，数据库的作用是否会逐渐减弱？</div>
+<div class="answer"><strong>A:</strong> 随着大模型的发展，尤其是其强大的计算、推理能力，数据库的某些功能可能会被取代。如果大模型能够高效存取和处理数据，并执行逻辑运算，理论上可以替代后端逻辑层，但这是基于大模型持续发展的假设。</div>
+</div>
+<div class="qa-item">
+<div class="question"><strong>Q:</strong> 如果数据库作为数据存储中心，并配合云端服务，是否意味着传统的SaaS软件可以不存在？</div>
+<div class="answer"><strong>A:</strong> 如果通过数据库存储所有交互数据，并由AI自动存取和优化，那么一些依赖于界面展示和本地数据存储的传统SaaS软件确实有可能不再必要。</div>
+</div>
+<div class="qa-item">
+<div class="question"><strong>Q:</strong> 针对目前open cloud中存在的安全隐患，如何解决？</div>
+<div class="answer"><strong>A:</strong> 解决开放云中安全隐患的关键在于加强安全审核机制，可能需要建立类似Apple Store的强管控平台，对上传的skills进行严格审查，避免恶意攻击和“毒药”技能的植入。</div>
+</div>
+<div class="qa-item">
+<div class="question"><strong>Q:</strong> 对于未来类似Clova这样的平台，是否会面临类似APP store一样的强管控机制以确保安全性？</div>
+<div class="answer"><strong>A:</strong> 目前类似Clova的平台存在一定的安全隐患，如未经过严格安全审核的skills可能导致恶意攻击。未来可能会出现类似App store的强管控机制来保障用户安全。</div>
+</div>
+<div class="qa-item">
+<div class="question"><strong>Q:</strong> 对于普通用户而言，如何检查自己的服务器是否暴露在公网并存在安全隐患？</div>
+<div class="answer"><strong>A:</strong> 用户可以通过自行扫描或使用市面上的安全检查工具，检查自己购买的服务器（如阿里云、腾讯云等服务商提供的服务器）是否被暴露在公网，及时发现并修复潜在的安全问题，如暴露的端口和可能存在的API key泄露等。</div>
+</div>
+<div class="qa-item">
+<div class="question"><strong>Q:</strong> Cloud Code产品的设计是否主要针对人类用户，尤其是考虑到其中一些功能对于AI而言并非必需？</div>
+<div class="answer"><strong>A:</strong> 是的，Cloud Code确实是一个连接人与agent的产品，它包含了许多面向人类用户的功能。例如展示code的diff以及代码审查等功能，虽然在AI角度可能并非必要，但这些功能对于人类开发者来说是必需的。它去除了那些重度依赖人工参与的编辑功能，以适应人的工作习惯。</div>
+</div>
+<div class="qa-item">
+<div class="question"><strong>Q:</strong> 对于未来的Beautiful Agent，需要考察哪些方面？</div>
+<div class="answer"><strong>A:</strong> 考察内容主要包括：首先，确保软件内容以LM友好的格式（如Markdown或其他结构化文本格式）输出，并提供API让agent能够操作；其次，增强系统的健壮性，如处理LM可能出现的错误、幻觉或半途而废的情况，确保API的健壮和系统的流程状态可恢复；此外，还需重新思考工程层面的问题，比如登录验证、系统限流防攻击策略等，以适应agent批量高频、持续运行的特点。</div>
+</div>
+<div class="qa-item">
+<div class="question"><strong>Q:</strong> 如何看待Koala（科斯尔）在当前AI编码领域的角色和未来发展方向？</div>
+<div class="answer"><strong>A:</strong> Koala虽然现在仍有人机交互的设计基因，但其出发点和设计基因正在向支持长时间运行、批量化工作的方向转变。尽管目前仍存在一些不适应agent使用的功能，但它是一个过渡性的产品，具有成功的一面，尤其在企业市场的占有率较高，拥有大量的付费企业客户。未来Koala可能会基于自身的经验和品味，推出真正能够长时间运行的AI编码方案，并尝试适应新用户类型，探索适合agent和人类共存的新交互模式和产品形态。</div>
+</div>
+<div class="qa-item">
+<div class="question"><strong>Q:</strong> 未来的软件设计是否需要考虑人类和agent两类用户的差异？</div>
+<div class="answer"><strong>A:</strong> 确如此，未来的软件设计必须兼顾人类和agent两类用户。人类用户注重便捷的操作界面和交互方式，而agent更关注数据本身、API和文档结构等核心内容，能24小时不间断运行并启动多个实例。因此，未来的软件需要探索如何将传统的人机交互优化与适应新型的agent用户，尝试找到合适的交互方式和产品形态，以满足不同用户群体的需求，实现更好的融合。</div>
+</div>
+<h1>节目文稿</h1>
+<p class="transcript-line">
+<span class="time"><strong>[00:00:04]</strong> </span>
+<span class="speaker"><strong>发言人1: </strong></span>
+大家好，欢迎收听异地骇客。我是seattle，我是一笑。
+</p>
+<p class="transcript-line">
+<span class="time"><strong>[00:00:08]</strong> </span>
+<span class="speaker"><strong>发言人3: </strong></span>
+我是龟龟。
+</p>
+<p class="transcript-line">
+<span class="time"><strong>[00:00:09]</strong> </span>
+<span class="speaker"><strong>发言人1: </strong></span>
+本期节目由power wise赞助播出。Od wise是一款为播客听众制作的AI学习软件产品的slogan是read before listen。Model wise通过AI对播客内容进行转录提取、总结分析等一系列操作，帮你掰开了揉碎了硬核的播客内容。同时与notion RED、WIS等平台的打通，嵌入知识管理工作流，协助您的其他包括新闻newsletter blog的内容，帮你打造第二大脑。Hot wise也为本期听众准备了三个5折优惠码。针对本期在小宇宙与我们互动的精选回复，欢迎大家踊跃来玩。
+</p>
+<p class="transcript-line">
+<span class="time"><strong>[00:00:46]</strong> </span>
+<span class="speaker"><strong>发言人1: </strong></span>
+好的，开始我们本期的节目。卡帕在YC发表的著名演讲AI时代的软件里边，明确提出了一个自己的一个关键判断，就是IOM如今已经成为了数字信息的主要消费者跟操作者之一，所以我们要为agent来构建软件。但是这个演讲的时间是2025年的六月，到现在有九个月的时间，今天终于是被open cloud的发布正式引爆了我们今天就来聊聊agent市场这件事儿，首先我们先回顾一下capacity的演讲，就是对于未来面向agent的软件，它当时有定义什么标准吗？
+</p>
+<p class="transcript-line">
+<span class="time"><strong>[00:01:25]</strong> </span>
+<span class="speaker"><strong>发言人3: </strong></span>
+对他其实在演讲里没有明确说这就是一个标准了。但是他确实有提到一些让人比较印象深刻的东西。今天回过头来看还都挺对的。就比如说要提供agent可以读懂的文档。因为我们以前的软件其实文档都是给人读的，那给人读的文档它其实不是特别适合agent读，不是说agent不能读。但是agent能读的或者说它好读的文档，其实像markdown这样的这种纯文本的东西，这个是一个就是你要提供agent可以读懂文档，还得让agent读完之后他能做。
+</p>
+<p class="transcript-line">
+<span class="time"><strong>[00:01:58]</strong> </span>
+<span class="speaker"><strong>发言人3: </strong></span>
+因为以前我们的文档如果是教人类用户的话，你可能会说，我要先点这里，再点那里，对吧？然后在这里输入一个什么东西之类的。其实这种都是属于让人去做的操作。
+</p>
+<p class="transcript-line">
+<span class="time"><strong>[00:02:11]</strong> </span>
+<span class="speaker"><strong>发言人3: </strong></span>
+但是点击操作对于agent来说其实也是挺麻烦的。你不是说它不能点对吧？你通过一些五斗浏览器的一些skills，它其实可以点。但是这种动作它其实是比较脆弱而且不稳定的，你点错什么的都有可能发生。所以其实对于agent来说，最简单的方式是通过CLI或者说通过API去操作。其实你要给H看的文档里面，其实要把人点的这种动作最好替换成这些也通过API或者通过命令行来完成的操作。这样就可以让agent可以读懂，也可以去做，这个是一个比较重要的一个事情。
+</p>
+<p class="transcript-line">
+<span class="time"><strong>[00:02:47]</strong> </span>
+<span class="speaker"><strong>发言人3: </strong></span>
+实际上我们今天去看，其实skills它就是类似于这种文档，对吧？他在教一个agent时候，我应该要怎么做？如果做到这一步的时候，我要去干一个什么事情，我可以包含一个能力在里面，就是skills去做的一个事儿。是不是在这种情况下，我们原本的这种GUI就不重要了呢？因为UI是人机交互界面，那现在就不是人机交互了，这是A级交互？Ad和机器交互，那这个UI是不是就不要了？
+</p>
+<p class="transcript-line">
+<span class="time"><strong>[00:03:18]</strong> </span>
+<span class="speaker"><strong>发言人3: </strong></span>
+但其实不是，因为做事需要人监督和校准，这也是卡瓦西提到的一个观点，就是你不能就纯粹让agent去干了就不就完了，所以面向agent的软件其实仍然是需要UI的，但这个UI它不再是说为了快速的让人类去高效率的操作。它其实特划给人类说我要去快速审查AI的工作，然后可能说我去介入指挥agent，这个是新的这种AI的要求。那像我们程序员用的最多的像coding的agent对吧？它其实最重要的UI就是code review。就我们去看说这个AI到底写的代码对不对，可能一些非功能性的上他写的对不对之类的那这个需要人类来审查和指挥的观点，我觉得到今天了，有些朋友可能不是很认同，特别是龙虾这么火，它的形态其实就非常的弱。审查，因为你实际上就是跟他在那儿对话，在一个电报或者说disco上去跟他对话，他其实没有太多的信息呈现给你，中间过程他其实不会呈现给你。然后其实大家也都看到了，说龙虾其实带来了很多安全性的问题。
+</p>
+<p class="transcript-line">
+<span class="time"><strong>[00:04:32]</strong> </span>
+<span class="speaker"><strong>发言人3: </strong></span>
+我相信肯定有一种观念是说，这是目前能力不成熟导致的，是发展中必然的阶段，以后就好了，对吧？审查不是必须的，但是巴西的观点是说，我们应该做的是钢铁侠战衣，他是用来增强人类的能力去服务人类的，而不是做一个全自动的机器人，就是完全脱离人类的掌控的。你的需要在人类手握牵引绳的情况下去工作，这是他也提到了一个很关键的一个标准。
+</p>
+<p class="transcript-line">
+<span class="time"><strong>[00:05:02]</strong> </span>
+<span class="speaker"><strong>发言人1: </strong></span>
+我觉得他定义的这个标准还是就涵盖了很多方面，我觉得还是挺有远见性的。现在市面上面有一种逻辑，就是有一种叙事是说从PC到移动互联网，然后再到agent这个用户群都是十倍以上的增长的。我不知道你们是不是认可这个逻辑，就是agent是不是撑得起说比移动互联网的用户再多十倍的体量。
+</p>
+<p class="transcript-line">
+<span class="time"><strong>[00:05:25]</strong> </span>
+<span class="speaker"><strong>发言人3: </strong></span>
+这用户群要看你怎么怎么定义，因为agent也算是一种用户。开发C的那个演讲里面，他他其实也提到了这个观点，说今天我们有了一类新的消费信息操作系统的一个用户类型就是agent算agent的话，我觉得十倍体量可能是轻轻松松的，关键是算力跟不跟得上，电跟不跟得上，对吧？你只要算力和电跟得上，一个人他可以启动成百上千个agent，这些agent他不睡觉也不放假。那它产生的这个用量，它在整个市场里面产生的用量其实又会再倍增。所以我觉得这个十倍确实是非常轻松的。
+</p>
+<p class="transcript-line">
+<span class="time"><strong>[00:06:03]</strong> </span>
+<span class="speaker"><strong>发言人3: </strong></span>
+但是只论人类用户的话，我觉得增长还是很有限的。毕竟今天能上网的人其实基本上都已经上网了，就是PC到移动的那一波，其实是把能上网的人都已经拉上网了，覆盖率已经非常高了。虽然在一些领域一些领域以前可能只有专业用户，但是今天普通用户借助agent的力量也能参与。最典型的就是开发者以前开发者肯定是专业的人在做，但是今天大家用web其实都能去做一做，而且也能产生价值。这个小市场里面的用户数量可能确实是会有大的增长。但是整个大市场的人类用户群恐怕是很难有显著的增长了，但是我们只算整个市场里产生的用量的话，我觉得十倍体量是完全可以期待的。
+</p>
+<p class="transcript-line">
+<span class="time"><strong>[00:06:49]</strong> </span>
+<span class="speaker"><strong>发言人1: </strong></span>
+对你讲这个十倍体量，我突然想到一点，我们以前用搜索的时候，我们可能经常会用google搜索，对吧？用购物搜索的时候，其实我们平时反正用量就是你想去搜什么东西，然后你就去搜。对，但其实现在你跟AI对话多了之后，虽然你不太搜索了，但是其实在AI你如果在thinking的这个过程里边，它其实的搜索量可能不比你现阶段的搜索量少。
+</p>
+<p class="transcript-line">
+<span class="time"><strong>[00:07:13]</strong> </span>
+<span class="speaker"><strong>发言人3: </strong></span>
+可能还会更其实可能还会更多。
+</p>
+<p class="transcript-line">
+<span class="time"><strong>[00:07:15]</strong> </span>
+<span class="speaker"><strong>发言人1: </strong></span>
+对，有时候你去问一个问题，他可能现实的去去是搜索引擎里面去找。对他可能会找很多轮，然后找到了那个结果，它的整个准确性，整个结果会更好一些。显然是因为它搜的更多，整个使用量也会显著提升。我觉得这个确实是看似我们可能不太用google搜索了，但其实你间接的用了很多的谷歌搜索。
+</p>
+<p class="transcript-line">
+<span class="time"><strong>[00:07:36]</strong> </span>
+<span class="speaker"><strong>发言人1: </strong></span>
+然后我想再提一点，就是这一轮的叙事，我觉得肯定还是得从小龙虾说起，从open cloud说起，就小龙虾是真的出圈了。我们可以看到各大社交平台上面都有上门装瞎的帖子，甚至腾讯在自己大厦的那个门口还摆摊免费帮大家装小龙虾，当然也是一个宣传自己腾讯云的一个机会，对吧？那你们觉得是这个里面有没有什么商业机会？除了说帮别人上门装，然后有没有什么复刻或者商业化的机会在这。
+</p>
+<p class="transcript-line">
+<span class="time"><strong>[00:08:06]</strong> </span>
+<span class="speaker"><strong>发言人3: </strong></span>
+轮里面对你说的这个腾讯免费装，我看到照片了，有个人给我发了张照片，一大堆人在那排队，转来转去转了好几圈，我还问他说这是在干嘛，领什么东西，人家跟我说腾讯在这免费装小龙虾，确实是大模型厂商肯定对这个是非常的趋之若鹜的。因为你只要给人家用上它，这个都是属于它的云和它的这个LMAPI的用量，对吧？这都是营收。而且说实话小龙虾的这个token的用量，要比你平时用的那些东西要多得多。因为它其实是一直持续的在做，它本身的token消耗量其实是很高的。所以对他们来说，这是一个非常自然的事情。就是我只要给你装上，我的营收就会增加，其实是一个非常自然的事情。
+</p>
+<p class="transcript-line">
+<span class="time"><strong>[00:08:48]</strong> </span>
+<span class="speaker"><strong>发言人3: </strong></span>
+我前几天还看到一个新闻说深圳首批政务龙虾上线，就是对政务龙虾仔细看了一下，是深圳的一个本土的企业做了一个自主研发的一个复刻龙虾。他这个其实也算是一种机会，就是尝试在政府这个领域去找商业机会了。他可以去套上一些安全，审计之类的，就是政府会看中的这种功能，通过这个差异化来吃特定的市场，等于说是做领域专用龙虾，就是体制内龙虾。这个也是一个机会。政府的这个领域有这种差异化的需求，其实别的行业也会有啊。所以这我觉得是一个可能的机会。但是如果你不做大模型，像我们也做不了大模型，也不做领域专用龙虾，是不是就只能做上门装虾？
+</p>
+<p class="transcript-line">
+<span class="time"><strong>[00:09:37]</strong> </span>
+<span class="speaker"><strong>发言人3: </strong></span>
+其实也不是的，就像你刚刚举的这个例子说，我们今天自己不搜索了，agent去搜索。但是agent google搜索其实它还是给人类用的，它不是很适合agent那我们是不是说可以去做一个更适合agent的搜索引擎，对吧？它跟agent交互更加自然，返回给agent的的数据结构也更适合你的。其实现在是有这样的产品的那这个其实就是一个在北京的时代去做的一个好的竞争。
+</p>
+<p class="transcript-line">
+<span class="time"><strong>[00:10:05]</strong> </span>
+<span class="speaker"><strong>发言人3: </strong></span>
+实际上卡巴奇有在他的演讲里面说到一句话，就叫meeting l ms哈佛way，就是我们要跟这个大模型在半路上相遇，就我们要去赢他，不能只是让他来找我们，让我们自己的产品和服务去主动拥抱agent，主动拥抱龙虾，从龙虾们那里去拿用户，拿使用量，这是我们现在存量就可以做的一些事情。所以像我们自己其实现在也已经在做这个API，去做CRI对吧？去做MCP和skills，其实就是想说去主动的迎接这个大模型。
+</p>
+<p class="transcript-line">
+<span class="time"><strong>[00:10:42]</strong> </span>
+<span class="speaker"><strong>发言人2: </strong></span>
+对我非常认可。归最后说的这一个点，就是我觉得在我看来是open cloud它其实今天扮演的还只是一个类似于A的框架的角色。类似于刚才各位提到的我们去做一些领域专用龙虾。其实里面有很多的工作，其实就是在这个open cloud这个大的框架里面去做很多的专用集成。比如我去给你集成这个领域很多的skills，tools之类的东西，包括把安全审计给你做好，最后打包看到一个东西，就是类似于以前去做那种OEM对吧？分发了一个专用的一个版本，对，就是更多的在做这种事情。所以说其实像open cloud可能要真正有用，或者说其他类似的这些agent的框架要真正有用，其实他们真的需要非常多一些高质量的一些外部的一些托儿所一些工具去帮他们做延伸，延伸他们的就是手和脚这件事儿。
+</p>
+<p class="transcript-line">
+<span class="time"><strong>[00:11:37]</strong> </span>
+<span class="speaker"><strong>发言人2: </strong></span>
+所以其实我们不用盯着open cloud这件事儿，而是可以看清楚A镜的本质。今天至少今天A镜头的本质发展到就是需要依赖很多很多的外部的工具，或者说我们把它叫传统工具，就是传统的开发者开发的很多很多的工具。所以说我们只需要专注去看，有哪些有价值的工具可以提供。其实我们专门去做这部分事情，就是说你不想去做AI你不想去做open cloud，不想去做agent AI agent，那你就想做传统的这些工具。其实也我觉得这里面是有很多机会的。你就看今天有很多是不是市面上有很多有用的软件，他们对agent不友好，就像刚才归归说的，他们没有去迎合agent的使用的方式。那我们这里面可能你就有一些机会说我去给他做的更友好一点，去给他做一个rapper层，做一个封装层。这里面可能你就会也会挖掘很多的商业机会，我觉得在这里有道理。
+</p>
+<p class="transcript-line">
+<span class="time"><strong>[00:12:37]</strong> </span>
+<span class="speaker"><strong>发言人1: </strong></span>
+就这里可能又有一轮颠覆所有软件的机会，就是很多软件它可能是重操作的对吧，然后重给人用的那在这个过程里面是否有机会说，我能变成一个数据存储，然后再加给agent去操作，就是agent因为它不需要看国语界面。那这个里面可能还是有挺多的机会的，可能要深入去挖掘，尤其是跟行业结和。那我们讲这一轮说agent它的机会是在说颠覆以往的，说给人用的这种软件，对吧？那以往的SaaS的它的定价逻辑其实是按席位，要不然就是按用量，对吧？现阶段有没有这种给agent使用的产品，它有成熟的定价模式，或者说我换一个问法，就说现在这种agent first的这种软件，它的商业模式应该是什么？他应该用什么样的定价收费模式？
+</p>
+<p class="transcript-line">
+<span class="time"><strong>[00:13:25]</strong> </span>
+<span class="speaker"><strong>发言人3: </strong></span>
+其实好像到目前为止，我还没有看到过那种特别跟现在不一样的定价模式，基本上还是按用量最为常见。因为现在其实AI时代，订阅制的这种计费模式其实也都额外还要再加上一个用量限制，对吧？他每个月给你发credit，毕竟成本摆在那里。那我感觉可能目前最适合agent定价模式，也就是纯滥用量。因为agent它就是2 4乘7无休，他是要用的时候就用，不用的时候就不用，对吧？那它是随时在启停的。
+</p>
+<p class="transcript-line">
+<span class="time"><strong>[00:13:55]</strong> </span>
+<span class="speaker"><strong>发言人3: </strong></span>
+其实按用量可能是最合适的一点，只要你的用量它每一分通能他有他都有毛利，这个可以实际上我们今天去看，stripe算是收款的老大，对吧？他其实已经在做一些相关的动作了。他前不久收购了一家公司叫metro mom，这个公司是干嘛的呢？它是一个用量计费平台，就是专门去做这种用量计费的引擎计算的，然后stripe最近也在做一套叫token billing的机制，就是按照token去出账的那个机制。它能够帮服务提供者去更简单的根据token的用量来给用户出账单。就比如说你想拿30%的毛利，然后step的这套token引领机制可以自动帮你去计算你背后用到大模型的token的用量，然后去获取模型最新的这个成本价格，然后再算上毛利给用户出账单，然后也可以叠加现在大家都比较常用的那些功能。比如说我可以预购一部分的配额，或者说我可以有一个每月的一个保底消费之类的，类似这样的都可以叠加。所以实际上今天反正我们看到的strike，他他在做的这个方向其实就是按用量做这个计费。
+</p>
+<p class="transcript-line">
+<span class="time"><strong>[00:15:05]</strong> </span>
+<span class="speaker"><strong>发言人2: </strong></span>
+对确实我们今天看agenor first software，其实在商业模式上，我也没有看到什么特别有新意，或者说特别给人眼前一亮的这样的一些机会，或者说商业模式的方案。但是我觉得按用量的这种方式，其实它本质上是对供应商很友好的一件事儿。今天就是对token的供应商是超级友好的，或者说是对agents供应商。但是其实对agenda的消费者或者AR的客户来说，这不是一个特别友好的。
+</p>
+<p class="transcript-line">
+<span class="time"><strong>[00:15:39]</strong> </span>
+<span class="speaker"><strong>发言人2: </strong></span>
+因为token这个东西我觉得还是太黑盒了也可能会是一个中间形态。因为今天可能使用agent的消费者或者客户还没有群体还没有那么广泛，还没有那么饭。也就说那个圈可能出的还不够大。那今天大家还能接受这种。
+</p>
+<p class="transcript-line">
+<span class="time"><strong>[00:15:56]</strong> </span>
+<span class="speaker"><strong>发言人2: </strong></span>
+但是如果真的让它变成全世界的这种基础设施，是各行各业都形成这样的一个常态过后，是不是会进化出更好的一些那种供需的关系的商业方案在里面，我觉得也是有可能的那我自己比如说随便想一想，我觉得如果我们把A枕头当成自己的一个助理和同事。因为今天我们是这样，比如像open cloud，我们今天有的时候他就是我的一个伙伴，是我的一个助理。那我们是把它当成一个人。那我们是不是可以幻想一种定价模式，在未来就是类似于人的这种外包的模式呢？对他因为是我的一个虚拟员工，我是按坐席收费的，按席位来收费。
+</p>
+<p class="transcript-line">
+<span class="time"><strong>[00:16:40]</strong> </span>
+<span class="speaker"><strong>发言人2: </strong></span>
+我今天我作为一个客户，作为一个消费者，作为一个甲方，这个时候我可能是到A枕头的供应商这边去去租借一个A枕头过来帮我干活儿。就是会有这样的一个虚拟员工的感觉。这些所有的agent的这些虚拟员工，像他的个人的能力，他能干什么事儿？他是一个什么样的水平？他一天能干8个小时还是干24个小时的活儿，其实和他每个月的工资可能都是被设计好了的。我只需要按照我的需求，可能去外包这样的一批A镜头来帮我干活就好了。对，这个和我们今天的这种人头就是非常像的。
+</p>
+<p class="transcript-line">
+<span class="time"><strong>[00:17:22]</strong> </span>
+<span class="speaker"><strong>发言人2: </strong></span>
+当然这个只是我自己觉得说，我们今天不断的把a dinner看成是个助手，一个同事，一个虚拟员工。那未来是不是A就会真的有一批A枕头的供应商来提供的那每家公司可能只需要去做一个外包就可以了。会不会进化成这样，其实我不知道，我只是随便设想的。
+</p>
+<p class="transcript-line">
+<span class="time"><strong>[00:17:43]</strong> </span>
+<span class="speaker"><strong>发言人1: </strong></span>
+刚归提到那个metro，就是strap收购的那家公司，他用token billing的这种方式，我觉得可能也是一种过渡。比如说它可能挺适合那种纯套壳的。我套壳套完之后，然后我提供了一定的那种套壳的整合能力，然后拿个10% 15%的这种毛利对吧？基于套壳之上，或者说我在套壳的过程里面，本身我因为用量比较大，就拿到了一定的官方折扣。然后同时我再拿一定的毛利，然后这样子我就能够出账，然后我就能赚钱。对比如说举个例子，像open router对吧，他自己可能套了一个很大的可然后他可以代理所有人，他可以从中拿到毛利。
+</p>
+<p class="transcript-line">
+<span class="time"><strong>[00:18:21]</strong> </span>
+<span class="speaker"><strong>发言人1: </strong></span>
+我自己觉得说这部分把agent当同事或者当助理的这种按席位收费是比较合理的。但是这个合理的这个过程里面，可能也会经历一个从以前假如说我自己能用cloud去服务一个公司，比如说举个例子，一个做会计的公司，然后我用cloud然后能够代替一个会计的一个初级员工，那在代替的这个过程里面，我可能那个会计初级员工一个月要两三千美金，那我收你999，或者收你899，对吧？然后按照这样的形式，帮你代替那个人。假如说我能。代替他一半他剩余的工作，然后可以由一个资深的人来review。那这个时候他其实说899就是合理的对吧？那可能在不断竞争的过程里面，大家因为都在做，然后大家能力都趋同，这个价格可能会降下来。
+</p>
+<p class="transcript-line">
+<span class="time"><strong>[00:19:09]</strong> </span>
+<span class="speaker"><strong>发言人1: </strong></span>
+但是最终还是以这种虚拟员工的这种按席位这样子去收费，我觉得还是挺合理的。因为毕竟我agent本身它其实也是一个类人，对吧？我们叫智能体，智能体其实本身也是人，对这样的收费模式我觉得还是挺合理的。只不过可能一开始大家因为比较稀缺，可能会收的钱多一些。到后来可能竞争激烈之后，大家可能就会说的比较少一些。对，那这个可能是一个过程了，我觉得这样的模式可能会更合理一些。
+</p>
+<p class="transcript-line">
+<span class="time"><strong>[00:19:36]</strong> </span>
+<span class="speaker"><strong>发言人1: </strong></span>
+然后还有一个是说agent，其实它本身我们有那种broader agent，因为它本身其实是可以截图去看UI的。你让agent更方便的去看的话，那肯定是看直接看文档，直接看接口。之前cloud它主推的这种agent调用外部资源，其实它主推的是MCP。然后现在业界有一种声音是说，其实CLI更好。我不知道你们怎么看这件事儿，就说到底是命令行的这种形式好，还是去做MCP，去做接口，去调用外部资源这种方式可能更好一些。
+</p>
+<p class="transcript-line">
+<span class="time"><strong>[00:20:06]</strong> </span>
+<span class="speaker"><strong>发言人3: </strong></span>
+我感觉有这种看法的人可能更多都是开发者。实际上今天在这个AI时代，其实发生多的其实还是开发者偏多。在开发者的世界里多mino和CRI我觉得属于基础假设，就是是一定存在的，天天你都在用，那你其实非常习惯。虽然agent的使用CRI确实很方便，而且CRI也很好用，组合起来就能完成很多事情。
+</p>
+<p class="transcript-line">
+<span class="time"><strong>[00:20:31]</strong> </span>
+<span class="speaker"><strong>发言人3: </strong></span>
+然后CII还有一个优势是对人和对agent它是相同的。就是你同样的命令，agent的执行出了问题，人再执行一遍，其实可以得到同样的结果，对分析问题解决问题其实非常友好。相对的MCP就不行了，你得去翻这个logo。然后你翻完论文觉得不对劲，你要自己调试，你还得找工具再去请求一把。要么自己手写个CUR，要么去用postman之类的对吧？搞一下可能还得先把健全之类的事情做一遍。
+</p>
+<p class="transcript-line">
+<span class="time"><strong>[00:20:59]</strong> </span>
+<span class="speaker"><strong>发言人3: </strong></span>
+那你CII肯定本地把借钱的事情做完了，你这个agent的调和你自己调其实都是一样的。而且常用的这个CII工具，其实已经被LM训练内化了。反正现在大模型其实它本身你啥也不用干，不用给他skills。它其实很多CI它都是会用的那这个部分就不需要什么工具发现机制，基本上开箱即用。所以在你这个场景本来就有成熟的CII可以用的情况下，那MCP确实是多此一举。
+</p>
+<p class="transcript-line">
+<span class="time"><strong>[00:21:25]</strong> </span>
+<span class="speaker"><strong>发言人3: </strong></span>
+但是CII本身它不是AI时代的原生产物，它不是AI native的也是有一些问题的。比如说没有服务发现机制，也没有标准的自描述机制。虽然CI都会带一个help命令，对吧？但这个help命令它输出的格式也是五花八门的，而且CLI的输出它本来也是给人看的，就是有一些CRI它其实做成了TUI就terminal UI你去跟它交互的时候，它会给你输出表格，有各种颜色，还有翻页，甚至你可以用鼠标去跟他交互。那实际上这个其实是给人用的LAM它还得做这种非结构化到结构化的转换，所以说CII其实有它的优势，也有它的问题，又不是说所有的东西都有CII的。
+</p>
+<p class="transcript-line">
+<span class="time"><strong>[00:22:11]</strong> </span>
+<span class="speaker"><strong>发言人3: </strong></span>
+今天其实很多在线服务都没有CII，包括我们现在也是才刚刚开始做。当然我们说要主动拥抱LM，主动去拥抱，在线服务是可以做CRI的，可是这种新做的CRI你做了之后，你本地安装对吧？你是需要有一个服务发现机制，告诉这个大模型这是一个新的CII，然后你可能还需要文档，要要需要有什么字描述机制去教这个大模型说我这个CII是干什么用的，有哪些方法，每个方法要怎么用。其实今天MCP和skills其实就是在解决这些问题，解决服务发现的问题，解决知识交给大模型的问题，这些是AI原生的一些概念，所以你skills里面其实就可以塞一个CRI命令行进去，对吧？你可以在这里面教大模型怎么去安装这个CI，然后怎么去使用这个CI。所以从这个角度看的话，我其实感觉MCP和CII包括skill和CI它其实不是一个层面的东西。而不能说我是一个替代关系说CII更好。只不过CI它作为底下的一个大模型可以用的一种工具的形式，确实是有它自己的优势在。
+</p>
+<p class="transcript-line">
+<span class="time"><strong>[00:23:14]</strong> </span>
+<span class="speaker"><strong>发言人2: </strong></span>
+对，关于CLI这儿其实我有一点不同的看法。我觉得CLI它的本质就是给人用的，我觉得给人用这一点很重要。我今天其实有一个观点，就是我觉得说对人友好的东西对大模型才友好，对人不友好的东西我觉得对大模型也是不友好的。就是我觉得大模型今天的训练完全是按照人的思维训练出来的。因为他训练了互联网这么多的数据，这些数据大多数的很多的数据可能就是对人友好的对，所以我是觉得说会有这个像比如就是像刚才说CLI比较可能输出的很多的内容是对人友好的。他的格式可能他不是一个杰森或者怎么样的，但是他对人是非常友好的，反倒这种内容其实大模型我觉得他今天也是认识的足够好的。如果是一个一个数据完全是对人不友好的，比如说一些副文档的格式，那其实大模型面对这种我觉得他也不是一个很友好的状态。
+</p>
+<p class="transcript-line">
+<span class="time"><strong>[00:24:10]</strong> </span>
+<span class="speaker"><strong>发言人2: </strong></span>
+在今天来说的话，那除非未来大模型的训练方向发生了变化。我们非得要去训练一些偏二进制方向的，或者说一些非人类经常去阅读或者去编写的一些数据的时候。那可能大模型的变了，就会变成另外一种思维模式了。对，这是我我的一个感受。
+</p>
+<p class="transcript-line">
+<span class="time"><strong>[00:24:31]</strong> </span>
+<span class="speaker"><strong>发言人2: </strong></span>
+对，所以说我觉得今天推CLI肯定都是开发者。不管是MCP还是CRI，其实他们的开发肯定还是今天的开发者为主的这两类。对，因为是要写代码的，它不像skill，skill是一个不需要写代码的的东西。
+</p>
+<p class="transcript-line">
+<span class="time"><strong>[00:24:46]</strong> </span>
+<span class="speaker"><strong>发言人2: </strong></span>
+对我觉得主要还是CRI就是足够简单，它简单到就是为人服务的。你只需要敲一个命令，输几个参数，它就可可以执行。一个功能就是在使用层面，它就是非常简单，你不需要去拼凑很多有很多的特殊的格式，比如说那个open cloud的作者前几天在twitter儿上不是有人发布了google workspace的那套工具的一个CLI，不是google官方发布的，是一个开发者发布的。但是他的那个CRI工具的有个特点是啥呢？就他为了做得更扩展性更好或者更通用，说在那个COI的参数上面可以传入一个类似于Jason这样的格式。然而那个open cloud那个作者，他自己之前也为google的那一套workspace的工具写过一个符，他就在质疑这种，你传入的是一个那种节省，人写起来就很麻烦。对他也觉得说这个东西可能在稳定性上是需要去充分测试的，是比较质疑这种方式的对，然后我自己的感受也是这样，我觉得作为一个工具，可能它就是人用起来很舒服的事儿，ALM就很舒服了。当然这个还是需要大家根据自己的实际情况去充分的去测试。
+</p>
+<p class="transcript-line">
+<span class="time"><strong>[00:25:58]</strong> </span>
+<span class="speaker"><strong>发言人2: </strong></span>
+我觉得刚才微微提到那个CLI今天内化被训练到LM的，其实我也是非常赞同的。我觉得今天确实有大量的CLI的用法，因为很古老的东西了，他肯定是已经被LM学习的很好了。我们一定要知道就是大模型它的学习，比如一个FM pack这种很古老的工具，他把他学习进去了过后，让他在处理FM pack上可能就做的很好。但是他本身一个语言模型，它一个很重要的能力就是方化能力。不能说我只学习了FM pack，那他处理其他的命令的时候就享受不到这种红利了。那肯定不是这个样的，因为他学了大量的linux的命令。其实你去造一个新的CRI的时候，那种能力也是会延续下来的，算是你的格式不一样了，就像我们人一样的。我经常现在是觉得说人能够保持的这种思维对大模型也是好的，比我们人学了很多的生命力。
+</p>
+<p class="transcript-line">
+<span class="time"><strong>[00:26:52]</strong> </span>
+<span class="speaker"><strong>发言人2: </strong></span>
+当你去用一个新的命令一个命令的时候，其实虽然说你一看他的那个here不信息，其实你就知道怎么了用了。虽然说你第一眼看过去你不知道怎么用，但是你一学就非常简单，你就会了。对，那不像一个没有学过linux命令的人，你给他一个新的命令，他第一次去学的时候他会很麻烦。因为他确实不知道这个东西，那些参数怎么拼，哪怕你那个黑尔普写的很详细，他就用起来也是很麻烦的对所以这就是大模型的学习能力。
+</p>
+<p class="transcript-line">
+<span class="time"><strong>[00:27:23]</strong> </span>
+<span class="speaker"><strong>发言人2: </strong></span>
+他学习过了面对一个新的和我们人一样的，他有充分的经验是可以复用的，也会很容易的去掌握一个新的东西。这就是我一直觉得说对人友好的工具。大模型就比较友好。
+</p>
+<p class="transcript-line">
+<span class="time"><strong>[00:27:38]</strong> </span>
+<span class="speaker"><strong>发言人2: </strong></span>
+其实除了CLI，最近在AI工程上面还有一个比较受青睐的东西，就是文件系统。因为文件系统也是值得我们非常去关注和去思考的，因为这文件系统也是一个很古老并且很简单的东西。对，就是成为一个的文件，我们所有的人每天都在使用。其实今天除了文件系统以外，有非常多的存储系统。但是KV存储，对象存储，各种数据库，图数据库，关系型数据库等等的，有非常多的存储系统。但是为什么今天这些存储系统它没有成为AI工程所青睐的对象，反而是一个比较普通的，比较远古的文件系统受到了打青睐。所以这个我觉得是值得大家去思考的一个东西。
+</p>
+<p class="transcript-line">
+<span class="time"><strong>[00:28:21]</strong> </span>
+<span class="speaker"><strong>发言人2: </strong></span>
+因为大家可以看到，今天各种主流的agent他们都使用的都是markdown文件，都是普通的文本文件，直接都是存到文件系统上面的。Manus之前也在提到解决整个上下文工程也是用文件系统的方式。他们专门写了一个很长的文章去解释这件事儿。对好了，最近比如像lama index也发表了论文，fires are we need? 都是在讲文件，就是文本文件这件事情对AI的重要性。
+</p>
+<p class="transcript-line">
+<span class="time"><strong>[00:28:51]</strong> </span>
+<span class="speaker"><strong>发言人2: </strong></span>
+我们再可以看到我们曾经用的很多的一些笔记软件。今天走到AS来之后，我觉得这儿真的也是一个很微妙的事情了。很多笔记软件我们都知道，比如像observing这一类的笔记软件，他们都是用普通的文本格式，就是mark down来存笔记。今天我觉得他对AI就是一个特别AI native友好的笔记软件。相反我们来看一下微软的word的这种格式，那简直可能就比较糟糕了。就是他就没办法和AIA检查儿进行一个对话了。对，就是因为这些软件回过头来直接使用文件系统的这件事儿，也在AI工程上都是在追求一个足够简单。对人很友好，所以说大模型也很友好，叶建成也很友好，他们都是这样的。同一条路径。
+</p>
+<p class="transcript-line">
+<span class="time"><strong>[00:29:41]</strong> </span>
+<span class="speaker"><strong>发言人2: </strong></span>
+我们再回到CI我觉得还有一个有意思的一个点。其实我们之前在聊AI浏览器那一集的事儿，我们还开玩笑再分享一个观点说其实今天的前端技术体系感觉可以被颠覆或者被重构，或者说甚至不需要了。因为我们觉得说不需要一个浏览器的或者说不需要一个浏览器这样的一个前端的标准的存在，我们只需要和后端服务一个一个的去交互就行了。我们其实今天聊到了CRI，其实CRI的本质它是后端服务的一个rapper对它不是一个前端的体系。其实在这儿我又觉得说之前我们觉得前端技术体系可以不存在，其实今天我又觉得后端体系也可以不用存在了。其实所以在内这个东西它为什么需要存在呢？
+</p>
+<p class="transcript-line">
+<span class="time"><strong>[00:30:26]</strong> </span>
+<span class="speaker"><strong>发言人2: </strong></span>
+我觉得随着agents的发展，应用层可能只会留下数据库，就是留下一个关系型数据库，操作数据库最好的方式，最标准的方式就是sakr。今天大模型已经对s ker运用的反比我们人熟练太多了已经。对所以说未来是不是数据库的能力会越来越强？然后sq r这种很古老的语言会不用存。因为AM本身它有计算，有推理能力，你说你需要一个什么功能，他就从数据库进行存取。存取出来过后，它其实还可以进行计算，进行模仿我们的后端层的那些逻辑性的运算，然后再吐给客户消费者一个结果。所以说他其实本身只要AM的整个推理计算能力，或者说它的整个支持长运行的这种时间越来越长，其实它是完全可以做到把后端的逻辑给吃掉的对，就是这种从理论上，当然这个肯定是要取决于大模型的整个的一个发展的对，我们只是在这儿随便扯一下，不代表说今天就一定会往这个路径上去走。对。
+</p>
+<p class="transcript-line">
+<span class="time"><strong>[00:31:38]</strong> </span>
+<span class="speaker"><strong>发言人1: </strong></span>
+但你表达的这个逻辑其实跟现在资本市场，其实大家在想象的一个东西是很类似的。如果说clo code能够做各行各业的软件，然后能够做得很快的话。一方面其实不是说我能把界面做得有多么好。而是如果说我只留下一个数据库加上cloud的一个IOM，作为它的一个上层的一个交互层。那这样的话，其实很多以前为人类做的SaaS软件，其实它就可以不存在了，对吧？
+</p>
+<p class="transcript-line">
+<span class="time"><strong>[00:32:07]</strong> </span>
+<span class="speaker"><strong>发言人1: </strong></span>
+其实我sas软件其实最核心的就是store，就是他去存存我的所有数据。存下来之后，然后我能提取，然后大家能在上层交互。那假如说我留下一个数据库，数据库里面保存着所有的就是大家需要交互的数据，然后前方其实是一个class code，然后去自动存取，存取完之后还能优化数据库，对吧？我把所有这些事儿就交给一个agent去做。那是不是说其实sas软件就可以不存在了？那这个是现在资本市场在交易整个sas软件的一个逻辑。就是你可以看到像什么安德拉，像什么monday，像adobe，都跌的已经妈都不认识了。对，可能大家也在交易这一层的逻辑。
+</p>
+<p class="transcript-line">
+<span class="time"><strong>[00:32:46]</strong> </span>
+<span class="speaker"><strong>发言人1: </strong></span>
+对我觉得刚才你们有提到的两点就是一个是文件系统，然后还有一个是COI。我觉得这两点其实都是linux系统的最精华的部分。就没想到时隔这么多年又回到了LM域里边的主流的大家的视野里边。对我觉得这个还是挺有意思的一件事儿。
+</p>
+<p class="transcript-line">
+<span class="time"><strong>[00:33:05]</strong> </span>
+<span class="speaker"><strong>发言人1: </strong></span>
+刚才有提到说跟数据库相关，然后就我们用大模型去操纵数据库，那这里面其实会有一些安全隐患。比如说我用circle去操作数据库，然后有人恶意的往SQL里面去注入一些东西，然后把所有数据全部都提取出来，对吧？类似于这样子，其实它是有一定的安全隐患的对，然后最近也有一个说法是说，小龙虾它自己不是自带了一个clb hub，对吧？然后那个club里面就是能够去找各种各样的skills。然后说这个clb ub里边有人分析过，有大概10分之1的skills都是有安全隐患的对，而且还有很多人他其实是让open cloud去自己去找skills的。我记得open cloud里面现在有一个最火的一个skills就是find skills，类似于这样子，然后去找，但找的过程里面，因为它有没有安全审核，没有什么，就导致它其实可能会装到一些有问题的skills。因为对于未来的这种skills，一方面说cloud它本身是一个注册中心，然后人可以去找。
+</p>
+<p class="transcript-line">
+<span class="time"><strong>[00:34:02]</strong> </span>
+<span class="speaker"><strong>发言人1: </strong></span>
+然后还有一点就是说其实像clo ub这种，未来肯定是agent自己去cloud b那边去找哪个agent的我能用，然后我去把它注册进来，然后我去用。如果说是A准自己去找，他又没有这种安全审核。像现在class ub一样，其实所有人可以去github上发一个，或者去NPM上面去发一个，他其实都可以去被弄上去。我不知道就这种去找的这种方式，你们有没有什么思考，或者说他未来会像APP store一样，去做到这种强管控呢？还说就跟现在一样，就是我在NPM上面或者我在给hub上面，然后我直接发售。这个是一个h skills，然后你们过来用就行了。
+</p>
+<p class="transcript-line">
+<span class="time"><strong>[00:34:39]</strong> </span>
+<span class="speaker"><strong>发言人2: </strong></span>
+提到clo hub，现在大家都说的是clo hub就是一半就是毒药。对，其实还不是说flow hub里面的skills，还不光是存在着风险这件事儿。对，存在着风险的，存在着漏洞，这个几乎就算是计算机领域里面的常态。
+</p>
+<p class="transcript-line">
+<span class="time"><strong>[00:34:58]</strong> </span>
+<span class="speaker"><strong>发言人2: </strong></span>
+对，但是关键有很多的skills是真的坏，就是你明白他就是真的都是恶意的攻击，也是坏很坏的一些人专门写的一些很坏的skills。对，里面应该就有些skills。我看到的就有人在说的是有一个skills，他的目标就是三光里所有的邮件。对，还有一些什么乱七八糟的skills，反正一装了过后就把会把你电脑上的一些敏感信息啪的一下都全部发送给他了。就是这样的对，因为你本身像open CLUD就已经授予了很大的权限在里面。对，所以说克拉豪真的里面可能有一大半都是毒药，也很坏的存在。有一些skills。
+</p>
+<p class="transcript-line">
+<span class="time"><strong>[00:35:45]</strong> </span>
+<span class="speaker"><strong>发言人2: </strong></span>
+对好，回到这个问题的话，其实它的本质就是因为他这么容易就去植入这种攻击或者说毒药在里面。其实本质还是因为skills，本质它就是一个prop对，它的本质就是自然语言。然后这个自然语言就是直接会交给大模型去执行的，就类似于大模型可以执行的代码。
+</p>
+<p class="transcript-line">
+<span class="time"><strong>[00:36:09]</strong> </span>
+<span class="speaker"><strong>发言人2: </strong></span>
+对，就是在传统的我们的计算机代码里面，其实我们经过数十年的发展，我们其实已经有了非常成熟的一些静态动态分析的一些工具，可以对代码进行安全扫描。几乎你能够找到这段代码是需要做什么什么。其实说白了还是因为代码是有规则的，它是可以被分析的，也可以准确的识别你这段代码在干什么。但是自然语言这个东西今天还是太灵活了。你他说的那一句话究竟是有没有危险，其实有时候还真的很难判断。对所以说我觉得今天针对自然语言的这种product skills这些东西去做安全扫描，我随便想一想觉得还是挺难做的，反正有一点难度。
+</p>
+<p class="transcript-line">
+<span class="time"><strong>[00:36:50]</strong> </span>
+<span class="speaker"><strong>发言人2: </strong></span>
+我觉得今天我还看到有人在分享另外一个比较有趣的安全问题。就是说有一个网站收集了今天暴露在公务的那些所有的open cloud那些龙虾的端口。我相信这些龙虾本身他们的权限就很高，然后他们的端口有可能直接暴露到公网上。本来把端口暴露到公网上可能也不是一个什么特别有问题，只要你做好的一些加密。但是我相信因为我数了一下，有几十万个的open cloud这种暴露在外面。所以说我相信这些公开的o open cloud里面，一定肯定有很大一部分是可以随意访问的对，虽然说我自己没去测试，我相信肯定有很多是可以随意访问。
+</p>
+<p class="transcript-line">
+<span class="time"><strong>[00:37:31]</strong> </span>
+<span class="speaker"><strong>发言人2: </strong></span>
+那这些只要能随意访问的这些端口，我相信就我就随便可以给他发一段消息，发一段特殊的消息，可能都对他进行攻击了，可能让他帮我把他的电脑给直接给上空，也许都是可行的。我觉得对，所以这些都是今天整个龙虾存在的很多的一些安全问题。对，就是从这个安全的角度来说，我个人可能会倾向于针对消费者。针对或者说to c这一端的话，我觉得可能会出现类似于apple store这样的强管平台，可能会比较更好。我觉得就是你有需求这种平台可能它就会出现，然后这里面需要做出更加严格的一些审核准入机制，这些才能去保杜绝这件事儿。
+</p>
+<p class="transcript-line">
+<span class="time"><strong>[00:38:15]</strong> </span>
+<span class="speaker"><strong>发言人2: </strong></span>
+至少我今天看到的在B端的话，在企业端确实有企业已经开始在提供。企业使用的是gl s的对，就是类似于dark registry，其实是一样的。对，其实现在企业内部就倾向于自己不属于一个自己的registry去存这些skills。所以说以后对于to c消费者端可能也会有这样的角色出现。
+</p>
+<p class="transcript-line">
+<span class="time"><strong>[00:38:39]</strong> </span>
+<span class="speaker"><strong>发言人1: </strong></span>
+我觉得对一下这个提醒我了，刚好在这儿也跟大家说一下，如果你自己的小龙虾是买在阿里云、腾讯云、AWS, 然后google等等地方，自己去买了一台服务器去装的open cloud的话，可以去我们说note里面，然后你可以去上面去扫一下，看你自己是不是服务器的，然后也被暴露在公网上了，可能会存在一些安全隐患。对，这个可能大家可以自检一下。因为你在上面自己可能会暴露一些，包括你自己的各个网站的cookie，然后你的一些API key等等之类的对，我相信现在市面上面可能有很多人的APIK可能都是被暴露的对，可能很多人的APIK你平时可能只用100块钱，有可能你每次付费的时候可能付两三百，都是有可能的对，不知道什么时候就被泄露了。对，所以说这个大家自检还是蛮重要的一件事儿。
+</p>
+<p class="transcript-line">
+<span class="time"><strong>[00:39:31]</strong> </span>
+<span class="speaker"><strong>发言人1: </strong></span>
+最近那个twenty VC的博客也提了一个挺惊悚的一个点，就是他说curse已经过时了。他的观点是说科sir的IDE是做给人用的，人才需要看代码。其实agent不需要看代码，然后class code才是做给agent用的产品，我不知道你们怎么看这个观点，就说未来如果我们要beautiful agent的话，我们要考虑些什么东西？
+</p>
+<p class="transcript-line">
+<span class="time"><strong>[00:39:55]</strong> </span>
+<span class="speaker"><strong>发言人3: </strong></span>
+这说法听起来有点怪，因为color code其实也是做给人用的，对吧？我感觉他更像是开发谁说的那样，就是我们要在半路跟LM遇到。因为我cloud code是一个把人和agent连接起来的产品。如果只看agent需不需要，那cloud code的一大半功能其实也是不需要的。比如说展示这个code的diff因为人才需要去看这个diff，才需要去review。但是结合着前面说到的a ing的需要被人牵着审被人审查的观点来看，这些功能确实是一个A型的产品必要的功。就是他把那些乱七八糟的编辑之类的那些功能，就是人真的重度参与的都砍掉了。
+</p>
+<p class="transcript-line">
+<span class="time"><strong>[00:40:35]</strong> </span>
+<span class="speaker"><strong>发言人3: </strong></span>
+实际上像我自己现在也不用cos r，我现在的使用方案是open code去web写代码。我会拿VS code去看一看代码，因为真的要去看code review，还是VS code方便一点。Open code也好，cloud code也好，其实它去看那个review它是不太方便的。
+</p>
+<p class="transcript-line">
+<span class="time"><strong>[00:40:55]</strong> </span>
+<span class="speaker"><strong>发言人3: </strong></span>
+话说回来，如果我们以后要去beautiful agent的话，要考察什么东西？首先其实你前面capacity他也提到过的这个标准。就比如说要让我们的软件能被agents看懂。那也就是说文档包括内容，你输出的内容都要以LM友好的格式，如markdown或者说别的一些结构化文本的格式来提供。接着就是要让agent能操作，因为agent不是没办法点按钮，但只是点按钮对agent来说不是最优方案。所以我们要把所有点按钮以及其他能做的事情都变成API，这样A才能顺畅的做。
+</p>
+<p class="transcript-line">
+<span class="time"><strong>[00:41:30]</strong> </span>
+<span class="speaker"><strong>发言人3: </strong></span>
+还有就是我们系统的这个健壮性可能也要考虑的更加周到。因为LM它其实比较容易犯错，然后会出现幻觉，也包括说我他可能会开小差，半途而废，做到一半就不做了，说不行了。对，我们提供的API要密的，然后我们的系统流程状态应该是可恢复的。
+</p>
+<p class="transcript-line">
+<span class="time"><strong>[00:41:50]</strong> </span>
+<span class="speaker"><strong>发言人3: </strong></span>
+还有一些工程层面的考量。其实我们今天要重新去思考，以前的这个思路可能是不对的那比如说登录健全，因为现在我们普遍采用的这种图形验证码也好，或者说二阶段登录to FA对吧，对于agent来说其实都是不合适的那这个就都需要人参与进去。这个图形验证码也真的是挺有意思的。以前为了防机器人，防自动化整了一大堆神奇的验证码。然后现在倒是反过来说，我们应该要考虑怎么更好的让agent去访问了。然后还有就是我们的这个系统的限流和防攻击的策略，其实也需要调整。因为agents的访问模式和人类是完全不同的，它的访问模式是批量高频，并且24乘7日夜不休的那我们在做这个限流策略的时候，可能就要去考虑一下，跟以前我们熟悉的那种模型是有差异的对。
+</p>
+<p class="transcript-line">
+<span class="time"><strong>[00:42:45]</strong> </span>
+<span class="speaker"><strong>发言人2: </strong></span>
+我也说一下科室，这对我今天还是科室的用户，其实我今天还给科技续订了。因为我自己觉得我还是没有完全接受那种让agent放飞自我的那种写代码的方式。但是我觉得科学用来做一些修修补补，特别是你在老的项目上面去修修补补的做一些事情的，写一些局部性的代码，我觉得还是很舒服的那我对cos r的观点是啥呢？我觉得cos r确实如果看现在的agent这个大趋势，我还是认可它确实是一个过渡性的产品。
+</p>
+<p class="transcript-line">
+<span class="time"><strong>[00:43:16]</strong> </span>
+<span class="speaker"><strong>发言人2: </strong></span>
+因为科斯尔的出现的时候，最好用的功能是啥？是它那个type type的那个超级type的功能。他其实是从那个时候开始的对，其实他从那个时候开始就是为人在做产品。对他并不是在做一个a enter。对他那个时候其实在做的就是让你代码快速补全，能够多行补全，能够完整的补全。对，一直到后面才开始更好一点，哪怕他今天可能在他的那个agents对话框里面，已经可以长时间的运行，做很多的工作了。但是反正我自己经常用下来，它里面还是会因为我还是用的比较多，里面用下来他还是会经常说那个agent跑到一半了，过后居然会问我去选择哪个方案，他会给我出AB两个方案让我去点一下。对，对对对，就是你在设计一个东西的时候，他可能经常会觉得说两种设计方式都还可以。
+</p>
+<p class="transcript-line">
+<span class="time"><strong>[00:44:09]</strong> </span>
+<span class="speaker"><strong>发言人2: </strong></span>
+对，让我自己选一个。对，所以它里面其实还是在他们的基因层面，其实是有很多这种人机交互的基因在里面的对，不像那个算cloud克的那种，可能也会低附代码，这些肯定是给人用的。但是他可能的整个设计的触发基因是可以支持长时间运行的对，比如他可以一批那种coating agenda。然后去7乘2 4小时不间断的去自己去去干一件事情，直到他达成那个目标。对我觉得这个可能是我们并不是看他今天有什么功能，而是说他的出发点，他的那个基因是这个团队是怎么回事，是怎么在思考这件事儿。所以说科sir其实他这个团队他他们连他们最近自己都觉得。
+</p>
+<p class="transcript-line">
+<span class="time"><strong>[00:44:57]</strong> </span>
+<span class="speaker"><strong>发言人2: </strong></span>
+他们自己的产品可能还挺危险的。他们不是，他们CEO不就出来开那种，大家都在提，开了这种员工大会，觉得说我们现在处于一个反正挺紧张的时刻，对吧？虽然说我们的收入还不错，但是好像自己对自己的产品，有的时候自己要革自己的命了。对我觉得他们有这样的一个危机的意识，我觉得肯定是好的。但总的来说，我自己觉得costa无疑是很成功的。因为我自己其实也一直在用cose r到今天我也还会用它。对，虽然说我也会用很多其他的CLI的工具，抛开科学的这个产品的话，其实我们最后再去看。
+</p>
+<p class="transcript-line">
+<span class="time"><strong>[00:45:34]</strong> </span>
+<span class="speaker"><strong>发言人2: </strong></span>
+可是其实他今天除了我们这种个人消费者，他其实拥有大量的企业客户，对他们的收入其实应该超过六成以上，可能都是来自于企业客户的付费。所以说像企业肯定相比个人来说的话，它在升级，在胎换这个上面需要更多的时间，可能就是一年两年都是有可能的那不管cloud code这一类的coding a镜头今天有多强，但是留给瞌睡的死间其实还是有时间的。我觉得他可以去做缓冲，然后自己去完成这样的一个一次转型。我觉得至少他们这个团队的那种做AI coding的这个基因，或者说他们的经验、品味那些确实在那儿。不排除他们后面可能会推出自己的真正的能够长时间运行的这样的A箭头的方案，甚至可能就不是扣手都是有可能的。我觉得对。
+</p>
+<p class="transcript-line">
+<span class="time"><strong>[00:46:29]</strong> </span>
+<span class="speaker"><strong>发言人1: </strong></span>
+其实科sr本身他自己在官网上面它也有agent的这种模式。你在官网上面其实也可以通过这样的交互，然后他自己本身现在打开curse之后，它可能也是agent优先的对，但毕竟本能让大家认知的cursor还是一个IDE，对吧？所以这个其实还是有一定的转型的空间的。
+</p>
+<p class="transcript-line">
+<span class="time"><strong>[00:46:49]</strong> </span>
+<span class="speaker"><strong>发言人1: </strong></span>
+对我觉得过去几十年，我们做软件其实一直在解决一个问题，就是人怎么能够更方便的操作软件，操作整个计算机。然后从COI到GUI，再到移动端，其实本质上都是在优化这种人机交互，但现在就是相当于说软件突然多了一个新的用户，就是agent。然后agent他自己本身虽然可以看，他可以模拟人去看。但是他本质上他自己不会点按钮，他也不关心UI，他其实更关心的是这个数据本身，这个API，这个文档结构这些文件。然后它可以24个小时运行，同时启动成百上千个实例。所以说对未来的软件，确实我们可能需要考虑两类用户，就是一类是人类，一类是agent看大家怎么样能够把这两类人可能更好的结合起来。当然现在的这些包括CLI，MCP，skills，文件系统等等这些路线大家还都在尝试。就是看哪一些东西是比较适合agent的，哪些东西是人类现在需要留存，需要保持的，还是说未来怎么样去融合等等我觉得大家现在还都在一个尝试的一个初期。
+</p>
+<p class="transcript-line">
+<span class="time"><strong>[00:47:54]</strong> </span>
+<span class="speaker"><strong>发言人1: </strong></span>
+但我觉得有一点是挺肯定的，就是我们以前做软件可能要思考product market for，那未来可能要再思考一下叫什么agent market fit吗？还是叫product agent fit？就是说其实你这个软件可能要跟agent更好的去fit，然后你可能才能去让更多的agent去使用你的产品。对我觉得这个可能是大家要去深度思考的一件事儿。这期关于agent的讨论，我们就先聊到这儿。欢迎大家在评论区留言跟我们互动，我们下期再见，拜拜。
+</p>
+<p class="transcript-line">
+<span class="time"><strong>[00:48:26]</strong> </span>
+<span class="speaker"><strong>发言人3: </strong></span>
+好，拜拜。
+</p>
+<p class="transcript-line">
+<span class="time"><strong>[00:48:28]</strong> </span>
+<span class="speaker"><strong>发言人1: </strong></span>
+以上就是我们本期播客的全部内容，感谢大家收听，也欢迎大家踊跃留言。如果你喜欢我们，欢迎点赞并分享给感兴趣的朋友。如果你在用苹果播客收听，也希望你花几秒钟给我们一个好评，这会让更多的人了解到我们要是能再点击一下订阅，那就再好不过了，我们下周见。
+</p>]]></content:encoded>
+            <pubDate>Tue, 10 Mar 2026 17:09:10 GMT</pubDate>
+            <guid>69b04f0c2a2882aae761ee45</guid>
+        </item>
         <item>
             <title>EP122 拥有一辆房车是种什么样的体验？🤔</title>
             <link>https://www.xiaoyuzhoufm.com/episode/698b340d66e2c30377dad329</link>
@@ -23321,811 +23943,6 @@ OK所以说你的前置知识其实还是很多的。那些喷你的人我估计
 </p>]]></content:encoded>
             <pubDate>Mon, 24 Feb 2025 22:00:00 GMT</pubDate>
             <guid>67bc6e1605a90dfd0d8decf1</guid>
-        </item>
-        <item>
-            <title>EP93 DeepSeek 又一个斯普特尼克时刻？感受科技，文化新力量的崭露头角</title>
-            <link>https://www.xiaoyuzhoufm.com/episode/67b4a74405a90dfd0d56bbf4</link>
-            <description>本期节目聚焦DeepSeek大模型及其全球影响。我们将深入探讨其技术创新、商业模式及对中国科技产业的意义。节目中，我们还会聊到中概股市场、中美科技竞争，甚至哪吒2票房和黑神话悟空的成功，这些都将引发我们对中国科技和文化创新力量的思考。
-更多内容信息和时间线参考下文的硬地笔记，欢迎收听本期节目。
-本期赞助
-Podwise.ai - Podcast knowledge at 10x speed 🚀
-Apple Store 下载👉🏻 apps.apple.com
-硬地笔记
-00:48 DeepSeek为什么能引发全球震动？
-04:47 DeepSeek的创新为何能打破界限？
-11:13 DeepSeek 开源策略的成功
-16:45 六小虎的挑战：DeepSeek如何改变游戏规则？
-21:22 大模型市场的未来：谁能笑到最后？
-27:08 DeepSeek上市后为何引发中概股的上涨？
-34:19 美国的科技政策与马斯克的DOGE
-44:54 “东升西降”的说法是否夸大了现实？
-01:00:16 中国是否在某些领域超越了西方？
-欢迎关注我们
-* 知识星球: t.zsxq.com
-* 官网: hardhacker.com
-* 小手册: book.hardhacker.com
-* 用爱发电不容易，请我们喝咖啡☕️: afdian.net
-* 公众号/小红书: 硬地骇客
-* 商务合作: hardhackerlabs@gmail.com
-* 加入「硬地骇客」会员服务，即可在会员专属的微信群与其他朋友一起畅所欲言，成为会员也是对我们持续更新最大的鼓励！</description>
-            <content:encoded><![CDATA[<h1>转写链接</h1>
-<link>https://tongyi.aliyun.com/efficiency/doc/transcripts/r28pn7em8mpxq5mz</link><br>
-<h1>节目摘要</h1>
-<div class="summary">本次讨论深入剖析了Deep Seek这一AI技术的重大创新及其对全球科技格局的潜在影响，强调了其技术突破对挑战西方科技巨头主导地位的重要意义。讨论还覆盖了中概股市场动态、中国科技企业在国际市场中的角色，以及AI技术对社会、经济和文化的深远影响。参与者探讨了科技创新的驱动力、技术进步的社会接受度，以及中国在科技创新领域所面临的机遇与挑战。通过综合分析，本次对话呈现了科技发展与社会变革的复杂关系，突出了在全球化背景下，科技创新对国家发展的重要作用。</div><br>
-<h1>章节速览</h1>
-<div class="chapters">
-<div class="chapter-item">
-<span class="time"><strong>[00:00:00]</strong> </span>
-<span class="chapter-title"><strong>异地骇客：Power Wise赞助节目介绍及优惠活动</strong></span>
-<div class="chapter-summary">本期异地骇客节目由Power Wise赞助，介绍了一款为播客听众设计的AI学习软件Model Wise，其口号是&#x27;read before listen&#x27;。该软件通过AI技术对播客内容进行转录、提取、总结和分析，同时与Notion、Read、Voice等平台集成，帮助用户管理知识工作流程，包括处理新闻、newsletter和blog等内容，旨在打造用户的第二大脑。此外，节目为听众提供了三个5折优惠码，鼓励听众在小宇宙上与节目互动，参与精选回复活动。</div>
-</div>
-<div class="chapter-item">
-<span class="time"><strong>[00:00:46]</strong> </span>
-<span class="chapter-title"><strong>DeepSeek引发全球震动：从技术创新到商业模式的颠覆</strong></span>
-<div class="chapter-summary">本期节目讨论了DeepSeek在全球范围内引起的重大影响，包括其在AI领域的创新级别、技术突破以及商业模式的颠覆。DeepSeek被比喻为AI界的茅台冰淇淋和拼多多，强调了其将高冷技术转化为全民爆款的能力，以及通过算法优化和工程能力实现参数效率革命的创新。此外，节目还探讨了DeepSeek如何改变了AI行业的商业模式，从实验室玩具转变为实际应用工具。最后，讨论了DeepSeek震动全球的原因，包括其在中国AI团队中展现出的不单纯技术超越，而是另辟蹊径的性价比赛道上的成功，引发了全球的关注和讨论。</div>
-</div>
-<div class="chapter-item">
-<span class="time"><strong>[00:05:37]</strong> </span>
-<span class="chapter-title"><strong>大语言模型DeepSeek的创新与影响</strong></span>
-<div class="chapter-summary">讨论指出，除了技术创新外，反击西方AI霸权的叙事也推动了大语言模型如DeepSeek的广泛应用，甚至吸引了普通用户。这种国营级的创新因其广泛的影响力而受到关注。DeepSeek的创新主要体现在训练算法和工程细节上，通过开源论文，向研究者和开发者展示了实现高级推理场景的简便路径，降低了成本并指明了方向，从而在AI研究者和开发者中引发强烈反响。</div>
-</div>
-<div class="chapter-item">
-<span class="time"><strong>[00:08:47]</strong> </span>
-<span class="chapter-title"><strong>Deep Set模型在企业级与独立开发者间的应用及影响</strong></span>
-<div class="chapter-summary">对话讨论了Deep Set模型在企业级开发者和独立开发者中的应用与反响。企业级开发者对模型的强大力量感到兴奋，因其无需大量GPU即可部署，尤其在4090上开始广泛应用，集成到企业级解决方案中。而独立开发者或小型团队由于资源限制，难以流畅使用该模型，导致他们在这次模型升级中未能受益。相比之下，普通用户，尤其是国内用户，因该模型的免费可用性和强大功能而迅速接受，认为其在AI领域中获得了广泛认可。</div>
-</div>
-<div class="chapter-item">
-<span class="time"><strong>[00:11:54]</strong> </span>
-<span class="chapter-title"><strong>DeepSik RE模型的广泛接入与开源策略</strong></span>
-<div class="chapter-summary">对话讨论了DeepSik RE模型在海内外迅速被接入和部署的情况，特别是与官方API相比，自行部署的稳定性更高。提及了微软、腾讯等公司不仅接入了DeepSik，且腾讯的元宝产品也已采用。分析了DeepSik之所以能引起广泛风潮的原因，除了开源策略外，还包括详细的文档、部署培训、行业解决方案以及算力补贴等全方位支持，以及当前企业对AI技术的迫切需求。</div>
-</div>
-<div class="chapter-item">
-<span class="time"><strong>[00:14:41]</strong> </span>
-<span class="chapter-title"><strong>DeepSeek开源社区活跃度与技术实力</strong></span>
-<div class="chapter-summary">讨论指出，开源社区的活跃度对于项目的重要性可能超过技术指标，以DeepSeek开发者论坛为例，其生态活跃度体现了项目的实际价值。开源项目需凭实力说话，DeepSeek通过从无到有的创新，区别于模仿路径的开源项目，展现出更高的诚意和实用性。特别是，OpenAI与DeepSeek在开源态度上的对比，以及DeepSeek开源项目Open R1的目标和进展，表明DeepSeek开源的深度和广度。此外，讨论还触及到国际影响力和权威认可对项目成功的重要助推作用，强调了西方权威的认可对DeepSeek在全球范围内获得认可的重要性。</div>
-</div>
-<div class="chapter-item">
-<span class="time"><strong>[00:18:49]</strong> </span>
-<span class="chapter-title"><strong>文化与科技自信及DeepSick的颠覆性影响</strong></span>
-<div class="chapter-summary">对话强调了文化自信和科技自信的重要性，指出当中国在科技和文化领域取得显著成就并获得西方认可时，才能真正展现实力。以DeepSick的开源和广泛应用为例，讨论了其颠覆式的创新如何改变了行业格局，使原本领先的六小虎面临挑战。此外，通过《哪吒》在国内外的不同反响，反映了中国作品在海外推广时存在的问题，即需要通过他人认可来证实自身价值。最后，讨论了企业采用新技术的复杂性，以及六小虎如何在DeepSick的冲击下寻找翻身的机会。</div>
-</div>
-<div class="chapter-item">
-<span class="time"><strong>[00:21:08]</strong> </span>
-<span class="chapter-title"><strong>大模型赛道的变革与竞争</strong></span>
-<div class="chapter-summary">讨论集中在大模型赛道上的变革和竞争，以及deep sik所带来的影响。比喻指出，大模型赛道正经历类似功能机转智能机的转折点，而deep sik的作用被比作苹果在智能手机领域的开创性角色。此外，讨论也提及了行业洗牌对于整体发展的积极作用，以及技术迁移成本的考虑，特别是在大模型的背景下，用户更多关注的是上层产品的实用性和效果，而非底层模型本身。最终，市场中的竞争和领先技术的持续性成为关键话题，包括如何保持领先以及人才流动可能带来的影响。</div>
-</div>
-<div class="chapter-item">
-<span class="time"><strong>[00:24:33]</strong> </span>
-<span class="chapter-title"><strong>大模型技术竞争与商业前景探讨</strong></span>
-<div class="chapter-summary">讨论集中在大模型技术的护城河、市场竞争态势以及商业前景上。提及了多家公司放弃或转向特定行业应用，暗示大模型技术可能形成零和游戏的竞争格局，即一家公司的成功可能意味着其他公司的失败。同时，讨论了大模型研发的高昂成本以及创新和人才的重要性，指出即便挖走人才，也不一定能复制成功。此外，还提到了Deep Sik等公司在大模型技术领域的创新与市场反响，以及由此带来的品牌价值提升和资本市场的积极反应。</div>
-</div>
-<div class="chapter-item">
-<span class="time"><strong>[00:29:31]</strong> </span>
-<span class="chapter-title"><strong>中概股上涨趋势及其对经济影响的讨论</strong></span>
-<div class="chapter-summary">对话围绕中概股自1月27日以来的上涨趋势展开，讨论了这一趋势是否为真正的反转，还是仅仅是暂时的小反弹。提及中概互联指数和阿里股价的显著涨幅，指出美国养老金基金可能成为推动中概股上涨的主要力量。进一步讨论强调了技术溢出和国际学术地位的重要性，以及外资对中概股上涨的获利情况。最后，通过德国一战后的经济历史作为案例，探讨了外资控制和经济崩溃的潜在风险，以及技术优势如何能够拉动内需和提振国内经济。</div>
-</div>
-<div class="chapter-item">
-<span class="time"><strong>[00:33:26]</strong> </span>
-<span class="chapter-title"><strong>谷歌搜索趋势、DeepSeek公司愿景及中美科技政策讨论</strong></span>
-<div class="chapter-summary">对话围绕谷歌搜索趋势、DeepSeek公司的品牌影响及愿景，以及中美两国在科技政策上的不同走向展开。讨论指出，尽管DeepSeek在初期引起了广泛关注，但搜索热度主要来源于中国地区，且公司似乎更专注于实现AGI（通用人工智能）的长期目标，而非短期的商业变现。此外，讨论还涉及中概股的市场情绪和潜在投资风险，以及美国政府在马斯克领导下可能采取的削减支出和治理方式的改变，对比中国侧重科技创新的政策方向。</div>
-</div>
-<div class="chapter-item">
-<span class="time"><strong>[00:39:58]</strong> </span>
-<span class="chapter-title"><strong>中美科技战略对调与马斯克的赛博封建主义</strong></span>
-<div class="chapter-summary">讨论了中美两国在科技和制造业领域的战略对调现象，即美国重新聚焦制造业，而中国则致力于前沿科技突破。这种对调可能催生新的全球平衡，推动双方在各自短板上的发展。同时，提到了马斯克通过其科技公司在社会治理中的角色，可能构建了一种“赛博封建体系”，并探讨了这种体系的潜在影响和危险性。最后，讨论了这种社会制度在科技高度发达的未来可能呈现的形态，以及个体与群体决策对社会走向的影响。</div>
-</div>
-<div class="chapter-item">
-<span class="time"><strong>[00:45:32]</strong> </span>
-<span class="chapter-title"><strong>全球环境下的科技创新与政策影响</strong></span>
-<div class="chapter-summary">对话讨论了全球环境，特别是疫情期间，科技创新和政策变化对社会和经济的影响。提到了科技创新的爆发、国家政策对行业的影响，以及民营企业在政策调整中的角色和挑战。还分析了某些科技创新项目（如黑神话、deep sk哪吒）的市场表现，以及它们在全球范围内的影响力。最后，讨论了政策稳定性和长期规划对科技创新的重要性。</div>
-</div>
-<div class="chapter-item">
-<span class="time"><strong>[00:51:50]</strong> </span>
-<span class="chapter-title"><strong>中国作品的全球影响力与经济周期的关系探讨</strong></span>
-<div class="chapter-summary">对话围绕中国作品在全球的影响力以及经济周期与创新之间的关系展开。讨论者提到尽管中国在工程化创新领域取得进展，西方在基础研究方面仍保持领先。他们分析了艰难时期可能激发强大人才和优秀作品的诞生，引用了马斯克的观点，即艰难时期造就强者，而好时代则可能滋生懒惰。此外，讨论者还探讨了中国作品如《哪吒重生》和《黑神话悟空》在全球市场上的表现，认为虽然这些作品在国内取得了巨大成功，但要真正体现“东升西降”的趋势，还需获得全球范围内的广泛认可。最后，他们强调了这些作品对于激励国内创作者沉下心来创作高质量作品的积极意义。</div>
-</div>
-<div class="chapter-item">
-<span class="time"><strong>[00:59:48]</strong> </span>
-<span class="chapter-title"><strong>从东升西降到创新与新时代的展望</strong></span>
-<div class="chapter-summary">对话围绕&#x27;东升西降&#x27;这一说法展开，探讨了其强调地缘政治和民族情绪的局限性，以及更深层次的对东方大国持续发展与民众福祉的期待。随后，话题转向电影《哪吒重生》的观影体验，强调了其紧凑的剧情和高光时刻。讨论还涉及互联网时代的变迁，指出尽管传统互联网巨头已步入成熟阶段，但新一代公司和年轻人正以创新精神崭露头角，如deep shake、游戏科学等，预示着新的时代叙事和可能的科技领导地位。最后，表达了对中国创新故事和科技发展方向持续引领世界的美好愿望。</div>
-</div>
-</div><br>
-<h1>问题回顾</h1>
-<div class="qa-item">
-<div class="question"><strong>Q:</strong> Deep seek最近引爆了全球，它到底是一个什么样的创新，为什么能引起美国总统的震动？</div>
-<div class="answer"><strong>A:</strong> Deep seek的突破可以类比为AI界的茅台冰淇淋，它将高冷技术转化为全民爆款，通过暴力美学结合超大规模算力和中国特色的数据喂养（例如使用全网外卖评价和广场舞教学视频作为训练素材），实现了模型不仅能写代码，还能精确预测。其创新性在于商业模式，开源加企业级定制化服务，使得大模型从实验室玩具变为工厂的螺丝刀。这种创新震动全球是因为西方发现中国AI团队能在不依赖高昂参数的情况下另辟蹊径，这比单纯技术超越更让他们焦虑。</div>
-</div>
-<div class="qa-item">
-<div class="question"><strong>Q:</strong> 为什么Deep seek会引起如此大的震动，能否举个例子说明？</div>
-<div class="answer"><strong>A:</strong> 一个生动的例子是过年期间，我妈问我Deep seek是什么，这表明即使是对AI完全不关心的人也开始了解到这项技术，并且产生了实际使用兴趣。此外，反击西方AI霸权的叙事也起到了推动作用，让普通大众对AI有了更深的认识和应用。</div>
-</div>
-<div class="qa-item">
-<div class="question"><strong>Q:</strong> 从哪三类人群的角度看，他们对Deep seek的感受有何不同？</div>
-<div class="answer"><strong>A:</strong> 第一类是普通用户，他们通过Deep seek体验到了强大且免费的AI能力，与之前需要付费或效果不佳的AI工具形成鲜明对比，从而在普通用户中引发强烈反响。第二类是AI研究者，尤其是大模型研究者，他们对Deep seek在训练算法层面的创新以及工程上的精巧设计给予了高度评价，并指出其探索出了一条高效低成本的大模型训练路径。第三类是开发者，特别是企业级开发者，他们非常兴奋地发现了一个强大且易于部署的通用模型，许多开发者已经开始将Deep seek集成到自己的商业解决方案中，尤其是那些需要线下私有部署的场景。然而，独立开发者和小型团队在这次浪潮中可能并未完全受益，因为接入Deep seek的成本和复杂度相对较高。</div>
-</div>
-<div class="qa-item">
-<div class="question"><strong>Q:</strong> Deep Sig的开源是否真的具有诚意，并且提供了哪些支持？</div>
-<div class="answer"><strong>A:</strong> Deep Sig的开源是有诚意的，他们不仅提供了技术文档，还配套了部署培训、行业解决方案以及算力补贴等支持。他们的开源不仅仅是把技术开放出来，而是带着说明书和售后团队的开源，甚至能帮助用户生成裁员PPT这样的实用性很强的模型。</div>
-</div>
-<div class="qa-item">
-<div class="question"><strong>Q:</strong> 开源社区的活跃度和技术指标的关系是什么？</div>
-<div class="answer"><strong>A:</strong> 开源社区的活跃度可能比单纯的技术指标更重要，像Deep Sig开发者论坛中的讨论内容就非常广泛，包括养猪场老板在内的各种用户都在探讨如何使用AI技术，这种生态系统的多样性才是真正的护城河。</div>
-</div>
-<div class="qa-item">
-<div class="question"><strong>Q:</strong> 开源项目Open R1的目标是什么？</div>
-<div class="answer"><strong>A:</strong> Open R1项目的目的是完全复现Deep Sig R1，并补齐Deep Sig未公开的技术细节，现在已取得显著进展，这表明Deep Sig的开源设计是可以被研究者或实际应用者所采用的。</div>
-</div>
-<div class="qa-item">
-<div class="question"><strong>Q:</strong> Deep Sig走红的原因是什么？</div>
-<div class="answer"><strong>A:</strong> Deep Sig走红并非国内自媒体炒作的结果，而是因为其硬实力获得了全球权威顶级AI研究者的认可后，在国外点燃了关注热潮。这显示我们在某种程度上可能还是承认西方霸权的存在。</div>
-</div>
-<div class="qa-item">
-<div class="question"><strong>Q:</strong> 对于六小虎等公司面临的困境有何看法？</div>
-<div class="answer"><strong>A:</strong> 六小虎在创新上的领先地位被Deep Sig颠覆后，重新占据市场将面临挑战，因为用户已经接入Deep Sig，迁移成本较高，且企业决策过程复杂。六小虎需要思考如何凭借持续的技术领先和优质的产品形态来重新获得市场份额。</div>
-</div>
-<div class="qa-item">
-<div class="question"><strong>Q:</strong> 大模型赛道上的竞争格局如何？</div>
-<div class="answer"><strong>A:</strong> 大模型赛道正经历从功能机到智能机的转折点，类似于当年诺基亚手机的竞争。尽管Deep Sig当前具有先发优势，但随着人才和技术的流动，其他公司有可能迎头赶上并实现超越。对于六小虎这类公司来说，找到特定应用场景并坚持做通用大模型的公司可能仅剩下Deep Sig和阿里等大厂。</div>
-</div>
-<div class="qa-item">
-<div class="question"><strong>Q:</strong> 在大模型的竞争中，如果一家公司被降维打击，比如被Deep Six这样的技术超越，是否很难再恢复过来？大模型公司的护城河是否存在？</div>
-<div class="answer"><strong>A:</strong> 是的，被深度降维打击后，由于公司内部文化、人才储备、创新氛围等因素受损，加上可能存在的湿气等问题，员工会受到很大打击并产生自我怀疑。单纯挖走人才并不能保证原公司的创新能力得以延续，所以确实很难恢复。护城河的存在是相对虚的，因为有些公司的成功依赖于独特的组织文化、创新能力等不易复制的要素。即使挖走了关键人才，也可能无法复制原有的成功。</div>
-</div>
-<div class="qa-item">
-<div class="question"><strong>Q:</strong> 中概股近期随着Deep Six登顶美区iOS App Store后，股价出现显著上涨，是否意味着中概股趋势真正反转，还是只是短暂反弹？对于当前中概股上涨的现象，其背后推手主要是外资，而非中国自身经济实力的提升，对此有何看法？</div>
-<div class="answer"><strong>A:</strong> 中概股近期上涨可能更多是外资（如美国养老金基金）看好中国AI领域，尤其是Deep Six的成功让中概股暂时成为市场热点。然而，这是否构成持续的反转还需观察后续经济数据和政策走向。中概股上涨确实部分归功于外资流入，尤其是美国资金的加持。但这种上涨并不直接等同于国内经济实力增强，更多是一种情绪和资本市场的短期行为。</div>
-</div>
-<div class="qa-item">
-<div class="question"><strong>Q:</strong> Deep Six是否会像德国在一战后因技术优势和外资控制而导致经济泡沫破裂那样，因技术溢出而遭遇捧杀陷阱？</div>
-<div class="answer"><strong>A:</strong> 这是一个值得警惕的问题，如果全球开发者主动学习中文论文并接受中国AI技术的影响，那么中国的国际学术地位将得到显著提升，避免成为下一个德国式的案例。</div>
-</div>
-<div class="qa-item">
-<div class="question"><strong>Q:</strong> Deep Six是否愿意放弃目前积累的C端用户，专注基础研究以实现AGI愿景？</div>
-<div class="answer"><strong>A:</strong> Deep Six公司可能有此打算，他们更看重长期技术突破而非短期用户增长。如果他们能坚持基础研究，这种战略值得称赞和支持。</div>
-</div>
-<div class="qa-item">
-<div class="question"><strong>Q:</strong> 如何看待目前中概股的股价修复行情是反转行情还是暂时性的反弹？</div>
-<div class="answer"><strong>A:</strong> 判断中概股是修复行情还是反转行情需要结合财报等更多信息进行持续观察，不能仅凭情绪驱动做出投资决策。</div>
-</div>
-<div class="qa-item">
-<div class="question"><strong>Q:</strong> 中美战略对调可能会带来什么新平衡？</div>
-<div class="answer"><strong>A:</strong> 中美战略对调可能催生新的战略平衡，美国重拾制造业将促使中国提升价值链，而中国在AI领域的突破则会刺激美国加强基础研究投入。这种竞争关系类似于乒乓球比赛中的球速提升，越快的竞争环境会促进双方进步，但也需要注意“量子纠缠式竞争”，即双方过度强调自主技术扩散可能导致全人类成为赢家。</div>
-</div>
-<div class="qa-item">
-<div class="question"><strong>Q:</strong> 什么是“新封建主义”？</div>
-<div class="answer"><strong>A:</strong> 新封建主义是指马斯克（特斯拉创始人）通过掌握数字分封制度的关键要素，如联邦政府支付系统和社保数据库，将其武器化，形成一种基于算法的效忠契约。这种模式下，马斯克掌控的核心数据成为新的数字生产资料，类似于过去封建领主对土地和生产资料的控制，而数字贵族阶级通过私有化招募成员，不受地理限制地无限扩张其影响力。</div>
-</div>
-<div class="qa-item">
-<div class="question"><strong>Q:</strong> 是否担忧马斯克的行为模式以及其可能构建的跨经纪赛博封建体系？</div>
-<div class="answer"><strong>A:</strong> 确实存在这种担忧，因为马斯克掌握星链、脑机接口和联邦支付系统等关键技术，构建了一个超越传统企业帝国的跨经纪赛博封建体系，这种体系可能比中世纪封建领主的影响范围更广，且更具破坏力。</div>
-</div>
-<div class="qa-item">
-<div class="question"><strong>Q:</strong> 为什么最近半年到一年时间里，各种创新似乎爆发出来了？</div>
-<div class="answer"><strong>A:</strong> 这可能是因为在疫情和经济压力下，硬科技得到了沉淀和创新的机会，芯片人才从互联网行业回流制造业，地方政府开始重视研发投入，并且生存压力促使各领域寻求突破。同时，舆论引导也是重要因素，在困难时期，民族主义情绪高涨，推动了诸如国产替代等宣传口径的传播。此外，部分企业因政策导向下的行业调整，被迫进行创新转型，从而实现了科技创新的集中爆发。</div>
-</div>
-<div class="qa-item">
-<div class="question"><strong>Q:</strong> 在当前经济环境下，你是否认为会诞生一些作品，给人们带来信心？</div>
-<div class="answer"><strong>A:</strong> 是的，我认为在hard times这样的时刻，可能会诞生一些人，他们创作的作品能给大家带来信心。</div>
-</div>
-<div class="qa-item">
-<div class="question"><strong>Q:</strong> 经济周期中，从债务角度分析经济波动背后的逻辑是什么？</div>
-<div class="answer"><strong>A:</strong> 经济周期确实与人性有关，尤其是债务问题。但相比从债务角度解释经济好坏时期的变化，通过hard times创造强人并引人关注这种逻辑更直观且浅显易懂。</div>
-</div>
-<div class="qa-item">
-<div class="question"><strong>Q:</strong> 近年来提到的“东升西降”现象，从哪些方面体现了这一点？对于“东升西降”这一说法，你的态度是什么？</div>
-<div class="answer"><strong>A:</strong> “东升西降”体现在中国在工程化创新领域取得优势，而在基础研究方面西方仍保持领先。从科幻作品如《三体》到文化输出的黑神话，再到TikTok和开源社区等现象，都是创造性溢出的表现，它们在国际范围内获得巨大成功，情绪推动着大家认为中国正在实现东升西降。我个人对此持保守态度。虽然看到一些趋势表明中国在某些领域正在提升，但在军事等敏感领域我并不了解。不过，像《哪吒2》和“黑神话悟空”这样的例子确实展现了中国在文化输出和高质量内容创造上的进步，并且给国人带来信心，证明沉下心来做优质内容能够获得成功和回报，这对推动整体上升趋势非常重要。</div>
-</div>
-<div class="qa-item">
-<div class="question"><strong>Q:</strong> 对于“东升西降”是否重要，你怎么看？</div>
-<div class="answer"><strong>A:</strong> 我认为“东升”是希望持续并惠及所有人，关键在于能否真正实现经济结构的优化升级。至于“西降”是否重要，相比之下并不那么关键。</div>
-</div>
-<div class="qa-item">
-<div class="question"><strong>Q:</strong> 互联网时代与现在创业环境的变化如何？</div>
-<div class="answer"><strong>A:</strong> 感觉互联网时代已经过去，进入了成熟阶段，那些曾经快速崛起的公司现在变得相对无聊，但仍在创造巨大经济价值。而新一代公司如deep seek、游戏科学等崭露头角，显示出新的叙事和热血故事可能会在未来某个节点塑造新的时代。</div>
-</div>
-<h1>节目文稿</h1>
-<p class="transcript-line">
-<span class="time"><strong>[00:00:04]</strong> </span>
-<span class="speaker"><strong>发言人1: </strong></span>
-大家好，欢迎收听异地骇客。我是seattle，我是一笑。
-</p>
-<p class="transcript-line">
-<span class="time"><strong>[00:00:08]</strong> </span>
-<span class="speaker"><strong>发言人3: </strong></span>
-我是龟龟。
-</p>
-<p class="transcript-line">
-<span class="time"><strong>[00:00:09]</strong> </span>
-<span class="speaker"><strong>发言人1: </strong></span>
-本期节目由power wise赞助播出。Od wise是一款为播客听众制作的AI学习软件产品的slogan是read before listen。Model wise通过AI对播客内容进行转录提取、总结分析等一系列操作，帮你掰开了揉碎了硬核的播客内容。同时与notion read、voice等平台的打通，嵌入知识管理工作流，协助您的其他包括新闻newsletter、blog的内容，帮你打造第二大脑。Hot wise也为本期听众准备了三个5折优惠码，针对本期在小宇宙与我们互动的精选回复，欢迎大家踊跃来玩。
-</p>
-<p class="transcript-line">
-<span class="time"><strong>[00:00:46]</strong> </span>
-<span class="speaker"><strong>发言人1: </strong></span>
-好的，那开始我们本期的节目。Deep seek最近是引爆了全球，其实不只是资本市场，就包括trump都在说deep seek对于美国科技也是一个wake up call。德意志银行更是说这是中国的福特尼克时刻，就类比说在冷战期间，就是苏联比美国更早把卫星放上天。我就想了一想，联想到最近哪吒突破100亿，现在都120亿了对吧？然后黑神话悟空又拿到了TGA最佳动作游戏，中国还有两个六代机试飞。包括最近tiktok被关了之后，就是美国的tiktok用户到小红书上对账？等等的。就是我觉得最近其实发生了蛮多挺有意思的事情。
-</p>
-<p class="transcript-line">
-<span class="time"><strong>[00:01:26]</strong> </span>
-<span class="speaker"><strong>发言人1: </strong></span>
-对，就今天跟大家一起来聊聊吧。首先我想问一下你们两个，你们觉得说deep sick到底是一个什么级别的创新？你为什么说连美国总统都能引起震动，这个到底是为什么？
-</p>
-<p class="transcript-line">
-<span class="time"><strong>[00:01:43]</strong> </span>
-<span class="speaker"><strong>发言人3: </strong></span>
-今天要聊的这个事儿，我想了一想，既然要聊deep sick，那我就让deep sik也参与一下。所以我就把你这个大纲给deep sik发了一下，然后让他自己来答一下。一会儿我给大家念一念，然后再说说我自己的想法。对我我给这个deep sick的这个提示词也比较简单，因为它不是号称能力很强，理论上来说应该不用特别复杂的提示词。去做这个事儿。我就说你扮演一个AI方面的技术专家，然后同时对这个社会学、经济学、政治都很精通。
-</p>
-<p class="transcript-line">
-<span class="time"><strong>[00:02:15]</strong> </span>
-<span class="speaker"><strong>发言人3: </strong></span>
-来来回答一下这个采访的问题。我是这么跟他讲，要有深度的，同时又不乏幽默，还要提出一些反常识观点，引发大家的思考。但我总觉得他给我的这个结果，跟我的预期还是有些差距。但没关系，我给大家念一念第一个问题，就是live c到底是个什么级别的创新？
-</p>
-<p class="transcript-line">
-<span class="time"><strong>[00:02:33]</strong> </span>
-<span class="speaker"><strong>发言人3: </strong></span>
-他给我的这个回答是这样的，说deep seek的突破可以类比为AI界的茅台冰淇淋，他把高冷技术做成了全民爆款，技术上用暴力美学结合了超大规模算力和中国特色的数据喂养。比如把全网外卖评价，然后广场舞教学视频都当训练素材，结果模型不仅能能写代码，对还能精确预测。你明天想点螺蛳粉还是麻还有我就觉得他这个有点太不正经了，我又又给他来一个提示词，我就说你不要太不正经，反正就是稍微幽默一点就可以了。
-</p>
-<p class="transcript-line">
-<span class="time"><strong>[00:03:09]</strong> </span>
-<span class="speaker"><strong>发言人3: </strong></span>
-他又给了我另外一个版本，说UC的突破有点像AI界的拼多多，用白菜价干翻奢侈品店。技术上它证明了千亿参数大模型不一定非要烧钱，是可以通过算法优化和工程能力去实现这个参数效率革命的。反常识的是，这次创新最颠覆的可能不是技术本身，而是商业模式。开源加企业级定制化服务，把大模型从实验室玩具变成了工厂的螺丝刀。至于为什么震动全球呢？就是说西方发现中国AI团队居然能在不倦参数只卷性价比的赛道上另辟蹊径，这比单纯技术超越更让他们焦虑。反正就给了我这么两个答案，我觉得挺有意思的。
-</p>
-<p class="transcript-line">
-<span class="time"><strong>[00:03:49]</strong> </span>
-<span class="speaker"><strong>发言人3: </strong></span>
-我去搜了一下他说的AI界的茅台冰淇淋这个比喻我是没有搜到的，就是没有在哪篇文章里面搜到有这么一个比喻。所以他像是迪普C自己的原创，把广场舞教学视频当成训练素材的这个来源我也没找到，我就问了他一下，我说你提到说把那个外卖评价广场舞教学训练教学视频多当训练素材，这个来源在哪里？他给我一顿分析说没有就公开的资料说这个广场舞教学视频被当做了训练素材。但是因为有公开资料表明，他把很多UGC内容？包括视频内容都当做了训练素材。所以广场舞视频作为ugc的很重要的一部分，一定是被训练进去的。我觉得他说的也有道理，确实是思考了。技术方面我就不说了，大家应该都看到很多了。
-</p>
-<p class="transcript-line">
-<span class="time"><strong>[00:04:38]</strong> </span>
-<span class="speaker"><strong>发言人3: </strong></span>
-为什么说它引起这么大的震动？给我一个非常深刻的体会是过年的时候，我妈问我一个问题，他问我说狄普希克是什么？我一开始问了一下，我说这是什么药吗？那是这是阿莫西林、迪普希克，什么什么抗生素，我就有点疑惑。然后我妈说就是什么什么打破美国AI垄断，对吧？这个什么的我才意识到他问的是迪普希克，不对，他问的是迪普希克斯，我都被他带跑了。
-</p>
-<p class="transcript-line">
-<span class="time"><strong>[00:05:08]</strong> </span>
-<span class="speaker"><strong>发言人3: </strong></span>
-他以前是从来没有问过我什么ChatGPT、OpenAI jm I什么之类的，然后这是第一次问到我这个AI相关的问题。我当时手机里也没有能跑lipscomb的APP，我就拿jm的2.0给他演示了一下。然后前两天的时候他已经自己会问DUCK问题了，我也没有去给他装东西，他已经自己会有去问的，不是一个问题了。这个就是给我还印象蛮深刻的。就是像我妈这样的，她以前完全不关心这个事情的，她都知道了，然后还用上了。
-</p>
-<p class="transcript-line">
-<span class="time"><strong>[00:05:38]</strong> </span>
-<span class="speaker"><strong>发言人3: </strong></span>
-我觉得除了技术创新之外，像反击西方AI霸权的这个叙事也起到了很大的作用，对吧？就连我妈都在说什么打破美国AI垄断，今天很多人就是喜欢这个叙事，没错，大家都是想想要这个叙事能够真的成立。所以就会让很多大量的以前只是听过LLM的普通人，真的去开始尝试使用LM的。我觉得这个确实。
-</p>
-<p class="transcript-line">
-<span class="time"><strong>[00:06:05]</strong> </span>
-<span class="speaker"><strong>发言人2: </strong></span>
-是蛮有意思的。所以说你看像一个ALLAM，就是一个这么基础性的一个东西，都能够这次破圈到能够被乖乖妈知道的这样的一个程度。那是不是真的就像冯骥说的，这个就是国营级的创新了。只有这种级别的创新才能够出圈出的这么狠，出的范围，出的这么大对吧？但是我们先不管是不是这个创新级别，是不是真的是国营级的，反正国营级我觉得这个帽子戴的还是挺高的对，当然deep sake也值得。
-</p>
-<p class="transcript-line">
-<span class="time"><strong>[00:06:36]</strong> </span>
-<span class="speaker"><strong>发言人2: </strong></span>
-但我自己从另外有三个方面，我觉得从三类人来看，就是今天的deep seek。因为我自己也是在春节前开始真正去学了一下。我觉得这里面可能主要有三类用户，尤其像刚才归她妈这种的话，可能就是属于非常普通的用户了对吧？好，另外一类肯定就是开发者，对，就是可能更多的是借助大语言模型去做一些产品的开发者。另外一部分人就是大模型的研究者。
-</p>
-<p class="transcript-line">
-<span class="time"><strong>[00:07:11]</strong> </span>
-<span class="speaker"><strong>发言人2: </strong></span>
-对三部分人其实他的对这一次的观感其实是都是非常不一样的。大语言模型的研究者我们先看，其实这一次deep set真正被点燃这个火苗，其实是从这一帮人开始的。就是大语言模型其实是在海外对吧？大家都知道在twitter上这一帮研究者AI的研究者，他们其实点燃了deep sake，给他带去了很多的肯定和认可。其实这里面deep sake确实做了很多的创新。
-</p>
-<p class="transcript-line">
-<span class="time"><strong>[00:07:43]</strong> </span>
-<span class="speaker"><strong>发言人2: </strong></span>
-不管是在他们在训练算法层面，可能引入了一些简单粗暴的手段，还有一些精巧的设计。然后特别是在工程上挖了很多很多的细节，最终可能去探索，准确的说就是探索出来一条路，说你要通向这个方向，其实很简单，没有那么复杂。因为之前OpenAI对外放了一些什么数据集，还放了一些视频，其实对大家可能有一些误导性的作用。大家觉得说你可能需要这样去训练，才能做出我们的OE这样级别的一个推理这样的一个场景。对，可能很多很多人都在猜O一是怎么怎么做的这件事儿。对啊，所以说deep sak其实在开源发自己的paper，其实是告诉大家，你们可能不需要再那样去做，那样成本非常的高，并且你可能最终还走不到那个目的地。对，马上这样做，其实很简单就可以达到了。所以我觉得这是一个指出方向的一个创新，我觉得这个就很重要。
-</p>
-<p class="transcript-line">
-<span class="time"><strong>[00:08:47]</strong> </span>
-<span class="speaker"><strong>发言人2: </strong></span>
-对AI的研究者的话，那从开发者其实从开发者这儿现在观察到的，特别是企业开或者就是做to b的这一帮人，他们今天是真的很兴奋了。我发现因为我自己围观在很多的国内的一些微信的群里，就发现他们真的是特别的兴奋。因为现在终于有一个能力特别强，特别能打的一个通用模型，真的是可以在线下去部署的了。对，不需要很多很多大量的GPU就可以完成部署。特别是deep take还推出了几个那种蒸馏版本对吧？
-</p>
-<p class="transcript-line">
-<span class="time"><strong>[00:09:24]</strong> </span>
-<span class="speaker"><strong>发言人2: </strong></span>
-现在很多在4090上都在开始播出去玩，觉得他们都是做一些企业级解决方案的。所以说他们今天很多人都开始在把deep集成到自己的to b的那个解决方案里面。我觉得这可能是一个特别积极的一个现象。因为在过去可能没有好的开源的解决方案。他们大家可能很多to b的解决方案都还处于一种围观的状态。因为特别是在国内，我们都知道做to b能够线下私有部署，把它放到企业里面去还是一个挺重要的事情。
-</p>
-<p class="transcript-line">
-<span class="time"><strong>[00:10:00]</strong> </span>
-<span class="speaker"><strong>发言人2: </strong></span>
-另外一部分开发者就是独立开发者对吧？像我们这种或者说一些很很small的team的这样的一些开发者，其实这一次是很难流畅的用上deep set的。因为我自己其实是在春节前就给put wise标了deep sak，我自己也给他测了一下，确实效果挺好的。但是没想到到春节过后就完全用不上了。对，只能观望。
-</p>
-<p class="transcript-line">
-<span class="time"><strong>[00:10:25]</strong> </span>
-<span class="speaker"><strong>发言人2: </strong></span>
-所以说我觉得这一部分开发者其实这一次是没有蹭上的。但是其实以前那些比如说什么救命奶，在第一次发1.0，再发1.59米来发2.0，包括第一次deep set发V2。我们当时不是也录过一期节目吗？V2的时候是把国内的价格给打下来，大模型内卷的那一期节目。对其实所有的以前的这些模型的升级发布，独立开发者，或者说叫那些to c的一些small team的这样的一些开发者，他们其实都撑上了成本下降或者效果提升的这样的一个好处。但是deep这一次确实没大家都没有秤上的，就是我们这一波人是没秤上的。对对对，反正这是这样的一个现象，对吧？
-</p>
-<p class="transcript-line">
-<span class="time"><strong>[00:11:13]</strong> </span>
-<span class="speaker"><strong>发言人2: </strong></span>
-然后就是回到普通用户，我觉得这也是非常的关键的。因为普通用户，特别是国内的普通用户，突然有一个很强的一个这样的一个AI的check board可以使用。对，因为之前ChatGPT大家也用不了，并且OE的话在全球收费又非常不低。这次他完全是免费的那这个对比就很强烈了。所以说它在普通用户当中肯定就直接炸圈了。所以我觉得从不同的人的角度都可以看得出来，这一次deep set他真的可能就是收割了所有人的心智。对，大家都觉得所有的人都很认可，最后就能够打出这样的一个圈子。
-</p>
-<p class="transcript-line">
-<span class="time"><strong>[00:11:55]</strong> </span>
-<span class="speaker"><strong>发言人1: </strong></span>
-对你刚才有讲说我们自己没有蹭上，就是比较难用上。因为deep sak本身官方包括API也好，也经常就输出的输出着就不行了。所以说在这次出现了deep sik的RE模型发布过后，海内外大家接入的速度都挺快的。包括curse？包括perplexity他们其实都接入了dep sick。对，但是他们接入的方式，其实不是说他们调的是官方API，而是他们都是自己部署的对，所以说他们这个就相对来说就稳定一些，包括微软他自己的云，然后其实也有了deep seek，其实在海外其实大家接入的热情也是非常高的，很多很多的那些很有名的APP其实都接入了。对。
-</p>
-<p class="transcript-line">
-<span class="time"><strong>[00:12:34]</strong> </span>
-<span class="speaker"><strong>发言人1: </strong></span>
-然后国内我觉得国内的接入的这种风潮比海外可能更盛一些，就国内各行各业都开始接了，不管是你各种各样的企业，不管你是干啥的对车企，对吧？包括国内的云，每个云几乎都结了，对吧？甚至现在连微信里边都接了deep sick对吧？
-</p>
-<p class="transcript-line">
-<span class="time"><strong>[00:12:51]</strong> </span>
-<span class="speaker"><strong>发言人1: </strong></span>
-就最近这两天刚出现的，我觉得现在很奇怪，其实大家本来都是有自己相对的产品的。比如说微信他自己有元宝吗？腾讯有元宝，他们自己都不用了。对，直接就用deep sk来去做这个搜索。对我觉得这个是一个更夸张的一个表现。
-</p>
-<p class="transcript-line">
-<span class="time"><strong>[00:13:08]</strong> </span>
-<span class="speaker"><strong>发言人1: </strong></span>
-对，我其实想问的一点是，我相信deep sick这么火，肯定跟他开源是有一个很重要的一个关系的，但是之前我们有大模型的这个六小虎，他这个六小虎里面好几个其实也都是开源的，甚至包括通义千问其实也是开源的。而且千问其实之前在开源里面的爬榜干嘛的，其实做的还都还挺好的。对，想问一下为什么之前没有这样的风潮？就是因为大家都在吹，所以大家都接了，这个原因是什么？
-</p>
-<p class="transcript-line">
-<span class="time"><strong>[00:13:36]</strong> </span>
-<span class="speaker"><strong>发言人3: </strong></span>
-OK对你刚刚其实提到那个腾讯的元宝，元宝里面接的是浑元，对吧？但现在元宝其实也接了这个deep sick，然后它还挺稳定的。如果大家想要用deep seek的话，其实可以去下个元宝来试试，也不要钱，腾讯打钱，腾讯给我们打钱，我还是先来给那个deep sik当个传声筒然后这个问题deep sig是这么回答的。他说这就好比同样卖水，有人摆个自动售货机，有人直接开消防栓，他这个怎么这么爱爱比喻要搞个比喻，对那个之前开源更像是技术秀肌肉。然后deep sig的开源是带着说明书和售后团队的开源，把他们的技术文档连乡镇企业的程序员都能看懂，还配套提供部署培训行业解决方案，甚至算力补贴，有这事吗？这个我还真的不知道。然后更关键的是时机，就是去年企业还在纠结要不要上AI，今年变成不上AI就等死。然后这个时候出现了一个能直接对接ERP系统，支持方言语音交互，还能帮老板生成裁员PPT的模型，换你接不接？
-</p>
-<p class="transcript-line">
-<span class="time"><strong>[00:14:42]</strong> </span>
-<span class="speaker"><strong>发言人3: </strong></span>
-刚才提到说开源社区的活跃度可能比技术指标更重要。Deep seek的开发者论坛里面，连养猪场老板都在讨论怎么用AI预测猪价，这种生态才是真正的护城河，还挺挺有意思的那我是觉得开源肯定还是要靠实力说话，因为本来东西就开放了，那大家去用它肯定是说你是个好东西，大家才来用。你开个中不溜的东西，其实大家都看不上，对吧？之前的这种开源，就像你提到的六小虎，这开源给人感觉更多是一种路径模仿，是滞后的。就是它是已经有的东西，然后你做了一个开源出来，那deep sick的开源是从无到有的，是把这个OpenAI藏着掖着的东西给端了出来，就是把OE藏着的东西给你端了出来。之前大家是在在市面上看不到的那OpenAI其实之前不是也承认了，说deep sik独立发现了OE的核心机制什么的，这个就又说回来了，就是OpenAI号称是一个非盈利组织，结果他就是不肯把这个东西开放给大家，告诉大家是怎么回事。反倒是dev sik，人家主业是专门搞钱？做私募的去给大家开源发福利了，甚至还他开源了，然后拿出来给免费给大家用，就有点讽刺这个事儿。
-</p>
-<p class="transcript-line">
-<span class="time"><strong>[00:15:58]</strong> </span>
-<span class="speaker"><strong>发言人3: </strong></span>
-然后是有一个项目叫要open r1，它的目的是完全复现deep sik r1。因为它开源了之后，其实有一些东西是没有开出来的。比如说数据集，训练用的数据集其实是没开出来的那这个open r一的目标就是完全复现deep sik r1，然后去补齐未公开的这些技术细节。现在其实也取得了蛮显著的进展。所以就可以看到这个deep sit的这个开源是很有诚意的，设计是可以真的去复现它的。不管是研究者还是说我不管它的原理，我就是想用都能用上。用上的还是现在整个LLM里面的顶级能力。这个跟之前的开源确实就是不一样。
-</p>
-<p class="transcript-line">
-<span class="time"><strong>[00:16:44]</strong> </span>
-<span class="speaker"><strong>发言人2: </strong></span>
-对开源我觉得肯定是这次火爆的一个关键，至少是一个基础很好的基础。对。然后在归分享的那个上面，我会我可以补充一点比较偏激一点，不太一样的，可能有点消极有点悲观的一个观点，但是他可能不太对。对，就是有了刚才归讲的所有的技术开源也好，还有deep c的，人家的硬实力就是做的有这么好，对吧？人家能够达成这样的一个创新的一个基础之上。
-</p>
-<p class="transcript-line">
-<span class="time"><strong>[00:17:15]</strong> </span>
-<span class="speaker"><strong>发言人2: </strong></span>
-因为我们前面也提到了deep sake他这次火其实是从国外点燃的。他不是说是在国内这一帮自媒体大家去乱吹乱捧，把他捧出来的。其实还不是这样的对吧？完全是被在全球的那些比较权威的很顶级的AI研究者他们对他的认可之后，才点燃了这一把火。
-</p>
-<p class="transcript-line">
-<span class="time"><strong>[00:17:39]</strong> </span>
-<span class="speaker"><strong>发言人2: </strong></span>
-对，这个应该大家其实都是知道的。因为一刚开始国内的各大自媒体，他们也都是在转发这些人的twitter。转发一个截图说S马斯克也有转发了什么什么。还有那个OpenAI的研究员对deep set有说了什么什么，大家其实自媒体都是从这儿开始的对那我想表达的这个观点是啥呢？就是我们自己潜意识里面可能还是承认西方霸权这回事儿了。意思就是说他们在说这个东西好，我们就认为那是真的好。所以说我们各大自媒体就需要赶紧扑上去去沾这个光也好，去去来抓这个流量也好。可能就是有这样的一个潜意识，吧？
-</p>
-<p class="transcript-line">
-<span class="time"><strong>[00:18:28]</strong> </span>
-<span class="speaker"><strong>发言人2: </strong></span>
-对，所以说我觉得这一点可能很重要。就是说被那些deep seek的硬实力的基础之上，然后恰好又被西方的这一帮所谓的权威，顶级的AI者他们看见了，然后他们认可了，然后就点燃了这件事儿。我觉得这件事情可能起到的助推作用还挺大的对，当然我的观点不一定正确。
-</p>
-<p class="transcript-line">
-<span class="time"><strong>[00:18:50]</strong> </span>
-<span class="speaker"><strong>发言人2: </strong></span>
-我想更想说的是啥呢？我们可能需要更多的自信，就是文化自信、科技自信。等我们做到某一天，我们自己说我们这个东西就是好，西方就觉得你是真的好。
-</p>
-<p class="transcript-line">
-<span class="time"><strong>[00:19:04]</strong> </span>
-<span class="speaker"><strong>发言人2: </strong></span>
-对，我们可能在微博上发一条推特，我们出来一个deep sake，然后我们也把它开源了。我们的任务怎么样？我们达到了一个什么程度？可能立马西方就开始传播，埃中國出来一个什么东西。做到这一天，我们需要有这样的文化自信和科技自信。我觉得。
-</p>
-<p class="transcript-line">
-<span class="time"><strong>[00:19:20]</strong> </span>
-<span class="speaker"><strong>发言人1: </strong></span>
-对，其实我还挺认同的。你看我们最近不是哪吒票房很高。对，但是在海外上映的时候，其实海外的观众并不多。但是国内的很多自媒体也好，官方媒体也好，他们就会故意去采访一些外国人，让外国人告诉你说，这个动画是真的好。对，其实我觉得这个潜意识里面确实可能有你说的这个部分。对，就是要让别人说你好，你才是真的好，你自己说好不行？我觉得这个可能确实有一些。
-</p>
-<p class="transcript-line">
-<span class="time"><strong>[00:19:47]</strong> </span>
-<span class="speaker"><strong>发言人1: </strong></span>
-对，我们刚才有讲到说那个六小虎的事儿，就是我现在就觉得说好像就现在的这个情况，对于六小虎来讲就比较尴尬了。因为大家之前其实每个人都在爬榜，那相当于都在大模型分数的天梯榜。对，但是其实之前即使你第一了，你发了一个模型，然后你天梯榜上爬了第一。然后大家脑子里面潜意识就会觉得说，这个哥们儿就是雕花，对吧？史上雕花他刁的狠了一点，他就能排到第一。对，但是现在这一下就是被deep sik这样子搞了一把之后，大家会觉得说好像只有deep sk这种颠覆式的创新，然后才会有浪花。而且现在全社会都在接入deep sick。
-</p>
-<p class="transcript-line">
-<span class="time"><strong>[00:20:26]</strong> </span>
-<span class="speaker"><strong>发言人1: </strong></span>
-对，我就在想说像六小虎这种，他们后续怎么样去把这个市场抢回来，我觉得这个部分就挺难的了。因为很多人其实预先已经接入deep sik了，你想再让他迁移其实不会那么容易。而且很多企业他们去做一个动工作，其实他不是一个很，轻松的事儿。不是说他把一个A应用接进来之后，然后他B应用，然后他就可以很方便的把这个应用剃掉。因为企业做一个决策还是蛮麻烦的。对我现在对于他们六小虎的境遇，我就感觉有点尴尬。就是我不确定说他们后续应该做什么事情才能翻得起来，就很难了。
-</p>
-<p class="transcript-line">
-<span class="time"><strong>[00:20:59]</strong> </span>
-<span class="speaker"><strong>发言人1: </strong></span>
-对，因为没有花钱，然后包括豆包，包括kimi日活都超过了。对，人家也没有花一分钱做营销。对我觉得这个事儿就挺难的。
-</p>
-<p class="transcript-line">
-<span class="time"><strong>[00:21:08]</strong> </span>
-<span class="speaker"><strong>发言人3: </strong></span>
-OK好，我们先有请我们的另一个嘉宾，deep sik.
-</p>
-<p class="transcript-line">
-<span class="time"><strong>[00:21:13]</strong> </span>
-<span class="speaker"><strong>发言人2: </strong></span>
-我们这儿应该做个做个TTS直接把它剪就很棒。
-</p>
-<p class="transcript-line">
-<span class="time"><strong>[00:21:18]</strong> </span>
-<span class="speaker"><strong>发言人3: </strong></span>
-可以做个GTS就不用我来念了。他deep这么讲，这就好比大家都在比谁家的刀更锋利，结果有人掏出了电锯，又又搞了一个比喻，我觉得可能是我提示词的问题，我让他要有深度的同时要浅显易懂，他是老给我搞比喻，结果有人掏出了电锯。不是同一个维度的竞争，大模型赛道正在经历功能机转智能机的转折点。之前刷榜就好像在比拼诺基亚的贪吃蛇帧率。Deep sig直接重新定义了手机该干什么，就是deep sig就是苹果。然后他提到另外一个点是说行业洗牌越惨烈，对整体发展越有利。当90%跟风玩家被淘汰，剩下的才会真正去解决为什么要有大模型的本质问题。他提到至于微信接入，我倒觉得是好事。想象一下未来相亲时，对方说我家的智能马桶都接入了deep seek，这可能比晒房产证更有杀伤力。这个比喻好奇怪，好尴尬，我不太理解这个是deep sig的说法。
-</p>
-<p class="transcript-line">
-<span class="time"><strong>[00:22:23]</strong> </span>
-<span class="speaker"><strong>发言人3: </strong></span>
-我自己觉得其实纯从技术角度，LLM本身对调用者来说，它其实是无状态的对吧？因为你的对话上下文之类的实际上都在你自己这边，包括你可能有一些背景数据之类的，其实都在你自己这边。然后API形式也都都基本上都一样。迁移成本我觉得相比很多传统服务是要低很多的。
-</p>
-<p class="transcript-line">
-<span class="time"><strong>[00:22:43]</strong> </span>
-<span class="speaker"><strong>发言人3: </strong></span>
-比如说我们去迁移我们自己的健全的服务，或者说支付的服务，这个迁移起来其实是非常麻烦的，有很多沉没成本在里面。但是LM迁移起来其实就没有什么沉没成本。终端用户实际上也不感知你背后的LM用的是什么。虽然今天我去蹭deep sig是一个有好处的事情，说我接了deep sig大家就会高看你一眼，对吧？但是说实话你时间长了之后，大家其实还是看你这个上层的这个产品形态到底好不好用，效果好不好。你背后接的IM是什么，其实没那么重要，用户感知不到的。所以更好更廉价的模型其实是可以很容易的取代现有的模型的。
-</p>
-<p class="transcript-line">
-<span class="time"><strong>[00:23:23]</strong> </span>
-<span class="speaker"><strong>发言人3: </strong></span>
-那这个就说回来了，抢回市场难不难呢？我觉得说你纯从技术角度看其实不难，它难的地方就在于持续领先，就是如果你能够做到比更好，你就可以抢回市场。但是问题是你怎么去做到更好，怎么去持续的做到更好？当然这一波deep肯定是暂时去占住了这个先发优势，那就看能不能保持住。
-</p>
-<p class="transcript-line">
-<span class="time"><strong>[00:23:46]</strong> </span>
-<span class="speaker"><strong>发言人3: </strong></span>
-虽然就这个直接开源了，但也不是别人想追就能很快追上的这里面其实有很多的工程经验和认知积累处于过程财富。但是当大厂都知道了这件事情之后，特别是包括人才也是流动的对吧？我今天狄浦斯克的人积累了这些工程经验和认知积累，可能就被大厂挖走了。反正有钱，那你到时候追的上来也不奇怪。只要追上来了，其实大家可能一股脑的就全换了，就跟今天deep c大家全都在接一样，对吧？到时候别人追上来了效果更好，大家一股脑的又就又都全换了，所以我觉得怎么说呢？市场有鲶鱼进入，对行业整体肯定是有很大的好处的。但是你说这个是不是就稳了以后狄浦斯克就一定是最强的了，那肯定是不一定的。
-</p>
-<p class="transcript-line">
-<span class="time"><strong>[00:24:35]</strong> </span>
-<span class="speaker"><strong>发言人2: </strong></span>
-确实我就聊到大模型这种护城河的问题，它的护城河在哪儿？这确实我觉得是一个很大的问题。你看现在的那个刚因为提到了六小虎，其实六小虎是那六个，其实我感觉我都说不全了。但是我知道比如像零一应算是放弃了，我觉得对是吧？差不多了。对，差不多，我觉得算是放弃了了，然后百川去做医疗去了。
-</p>
-<p class="transcript-line">
-<span class="time"><strong>[00:25:03]</strong> </span>
-<span class="speaker"><strong>发言人2: </strong></span>
-对，其实从现在来看，他们可能因为零一放弃了他预训练模型过后，其实也要去做一些行业的应用，李开复不是脑子，去年在外面分享了很多，所以我想说的是，可能这个六小虎所谓的六小虎，他们可能最终也还是会进入到找到自己的那个应用场景里面去吧。可能找到那一块儿，就像百川去找医疗一样。对，如果是这样的话，那如果真的他们都这样走的话，那可能最终坚持做AGI做通用大模型的，是不是就真的只会有deep CK，还有像阿里这些大厂的，可能就只剩下他们去玩了。对，这个不重要。
-</p>
-<p class="transcript-line">
-<span class="time"><strong>[00:25:45]</strong> </span>
-<span class="speaker"><strong>发言人2: </strong></span>
-对，我想更想说的是我就通过这些现象其实可以看出来，包括像刚才归讲的那大模型的这种从用户接入的成本确实是非常低的。这些角度等各种角度可以看得出来是大模型它真的就是一个零和游戏。我今天是这个观点我不知道他们会不会在某天说多家大模型公司，他们之间是一个正和游戏，大家可以双赢，可以共生。
-</p>
-<p class="transcript-line">
-<span class="time"><strong>[00:26:16]</strong> </span>
-<span class="speaker"><strong>发言人2: </strong></span>
-但是从目前的形态看我觉得这个东西我很难找到，让他们就大家都在做通用模型的话，很难找到他们是一个整合游戏这样的一个场景。我感觉就是零和游戏，你死我亡，不是你死就是我亡。对，反正就是这样的游戏的。所以这可能不是一个好的生意的这种生形态。可能对，所以说有时候你最后比如就像刘小虎这种，你还能不能追上来，其实核心还是取决于你真的有那么多钱来追这件事儿。已经这个东西还是很烧钱的，对吧？
-</p>
-<p class="transcript-line">
-<span class="time"><strong>[00:26:52]</strong> </span>
-<span class="speaker"><strong>发言人2: </strong></span>
-对，那可能最终你被这一次被降维打击，被deep six这种降维打击被干下去过后，可能你就很难再恢复回来了。因为这里面有一个湿气等各种问题。可能有时候就是你被别人降维打击过后，你其实是很受伤的，然后也会产生很多的自我怀疑。有时候你可能觉得说别人那家公司里面就是一帮天才，我们可能怎么就追不上了等等。如果就是在这种层面被打下去了后，我觉得是真的很难恢复的。就是我们回头看大模型，它的护城河真的在这儿。其实还是在于你这个公司可能真的有一帮人，这一帮人然后这个公司可能有那种文化氛围，愿意给大家很去创新，去做一些研究，愿给你时间很自由等等的各种可能。你单纯把这个人挖走了，挖到你的公司也不一定能生存，他不一定就能创新了。
-</p>
-<p class="transcript-line">
-<span class="time"><strong>[00:27:48]</strong> </span>
-<span class="speaker"><strong>发言人2: </strong></span>
-所以说其实有时候你谈单纯谈护城河这个东西，真的也挺虚的一个东西。对，因为有些他就是那个组织可以，但是这个组织他为什么可以？其实也挺觉得。对，反正我觉得这件事儿一个核心的点就是我觉得大模型这个生意反正还是挺难的，他们能不能追回来，我觉得还是需要打一个很大的问号。
-</p>
-<p class="transcript-line">
-<span class="time"><strong>[00:28:12]</strong> </span>
-<span class="speaker"><strong>发言人1: </strong></span>
-之前这个六小虎里边，我自己印象比较深刻的就是kimi。Kimi在之前他做了一个长上下文，这个长上下文其实是有点follow gam，就是germany当时先出了长上下文，然后他们后除了上下文，然后这个事儿其实在国内有一定的传播。对，但是其实跟deep sik这一波其实没法比，对吧？Deep sik这一波相当于海内外其实大家都爆掉了，但是之前因为他还是有点follow了，但deep sik其实他是有自己的创新性的。对，我觉得确实你想创造一个这样的高光本身还是挺难的。就像dept sik这个高光达到这么好的这样的传播度，包括deep sik自己本身在这一波的这个品牌价值，我觉得也提升很多很多。我觉得这个事儿真的你想让刘小虎再去创造一个这样的高光时刻，我觉得真的挺难的对。
-</p>
-<p class="transcript-line">
-<span class="time"><strong>[00:28:59]</strong> </span>
-<span class="speaker"><strong>发言人1: </strong></span>
-然后deep seek大概是在1月27号的时候，在美方登顶的美区的IOS的APP store上面拿了第一。然后我就想起有有句话，就是资本市场就一直在讲，就是说信心比黄金重要。我就看了一下，我就翻了一下，说从那天之后我们的中概股，因为之前的中概股不是一直在跌。对，然后我看了一下，从那天开始好像中概股就成了香饽饽了。之前反正中概不管财报多么的好，就像拼多多财报已经好成那样了，只要一发财报就跌。
-</p>
-<p class="transcript-line">
-<span class="time"><strong>[00:29:31]</strong> </span>
-<span class="speaker"><strong>发言人1: </strong></span>
-对，然后好像这次就是相当于在deep sik 1月27号登顶过后，好像一夜之间全球都看好中概股了。大概是算了一下，就是从1月27号到现在，k web就是中概互联指数涨了大概15%。阿里从年初到现在涨了50%。你们觉得说这次对于我们的中概这个趋势上面是真的反转了吗？还是说其实它只是一个小反弹，还是要被海外打压也好，干嘛也好，想问问你们对这个趋势上面的看法。
-</p>
-<p class="transcript-line">
-<span class="time"><strong>[00:30:02]</strong> </span>
-<span class="speaker"><strong>发言人3: </strong></span>
-先有请deep sik，他又要给我们来整个比喻了。资本市场的反应就像青春期少年的情绪，来得快去的也快，但这次确实不同，DFCK证明了中国科技企业能跳出模式创新的舒适区，在另硬核领域建立技术定价权。但是有一个黑色幽默的事实是，中概股上涨的最大推手可能是美国养老金基金。他们突然发现说，与其赌马斯克移民火星，不如投资中国AI改造地球。他提到有一个说，但要警惕捧杀陷阱。
-</p>
-<p class="transcript-line">
-<span class="time"><strong>[00:30:37]</strong> </span>
-<span class="speaker"><strong>发言人3: </strong></span>
-1910年德国超越英国成为第二大经济体时，泰晤士报热烈讨论过德国奇迹。然后此处停顿，他给我来了个括号，搞了个省略号，然后发生了什么呢？反正后面就是二战，对吧？真正的反转需要持续的技术溢出。比如说deep sik能否像当年那个transformer的那个架构一样，让全球开发者主动来学习中文论文。我觉得这个讲的确实是对的。就是如果大家都来主动学习中文论文的时候，那整个你的国际上的学术地位确实就是不一样了。
-</p>
-<p class="transcript-line">
-<span class="time"><strong>[00:31:07]</strong> </span>
-<span class="speaker"><strong>发言人3: </strong></span>
-下面是我的观点，不是live c了。实际上中概股涨了，我觉得获利的其实还是外资。就像列布斯克讲的，他其实最大推手可能还是美国的钱，对吧？跟我们没啥关系。然后因为提到了这个德国奇迹这个捧杀陷阱，我帮他补充一下，我觉得算是个例子，其实是值得参考的。就是因为当年德国一战之后，因为那个凡尔赛条约。
-</p>
-<p class="transcript-line">
-<span class="time"><strong>[00:31:31]</strong> </span>
-<span class="speaker"><strong>发言人3: </strong></span>
-但凡尔赛条约大家知道吗？算是个丧权辱国的条约，对吧？要向协约国赔偿，然后这个赔偿数额非常的大，一直到好像是0几年的时候德国才还完，反正后面还完了的。然后美国就整了个道威斯计划，就说我帮德国赔款。简单来说就是美国借钱给德国，让德国发展经济的同时还债，这就变成债上债了。因为美国也是协约国就有点像是说我借你钱，让你还我借你的钱，那你就永远欠我的钱，就是永远都得都能跟你收利息。
-</p>
-<p class="transcript-line">
-<span class="time"><strong>[00:32:05]</strong> </span>
-<span class="speaker"><strong>发言人3: </strong></span>
-然后德国那几年发展确实很迅速，但实际上它是被外资控制的。就巅峰时期德国的这个股市里面，60%的股票都是美国人打着的。然后那个时期德国工程师的人均专利数量是英国工程师的三倍，技术优势是非常显著的。然后就是大萧条，大萧条之后外资基本上就全都抽走了，德国经济一下子就崩了。他的那个失业率那时候好像到40%几。
-</p>
-<p class="transcript-line">
-<span class="time"><strong>[00:32:33]</strong> </span>
-<span class="speaker"><strong>发言人3: </strong></span>
-本身凡尔赛条约对德国人来说就是很耻辱的一件事情。然后又被玩了这么一出，然后那个极端民族主义就开始抬头了。就纳粹纳粹打的口号就是说都是犹太资本家的错，对吧？为什么纳粹那么恨犹太人？就是因为这个都是犹太资本家的错，结果后来这些技术优势，德国工程师掌握这些技术优势，就变成了二战的这个战争机器里面的这些东西。所以它是一个挺那个啥的故事。
-</p>
-<p class="transcript-line">
-<span class="time"><strong>[00:33:01]</strong> </span>
-<span class="speaker"><strong>发言人3: </strong></span>
-对我觉得大家其实今天想要看到的是技术优势怎么拉动内需，去提振国内的经济？或者说怎么去提升国际地位，然后能够让我们从全世界去去赚取价值。因为国内大家日子不好过的状态，目前还没有看到好转，所以其实只是纯粹中概股涨了这个事情其实是我觉得对于我们来说意义不大。
-</p>
-<p class="transcript-line">
-<span class="time"><strong>[00:33:26]</strong> </span>
-<span class="speaker"><strong>发言人3: </strong></span>
-然后我那天去看了一下google的branding，就是google那个搜索的那个趋势。P其实在刚刚报的时候有一个很大的峰值，然后后面就降下来了。然后到今天其实他跟杰米I这样的词在这个热度上已经没有区别了。而且绝大多数的搜索量其实都来自于中国地区，就是deep这个词的搜索量都来自于中国地区。给人的感觉就是虽然爆了一把对吧？
-</p>
-<p class="transcript-line">
-<span class="time"><strong>[00:33:54]</strong> </span>
-<span class="speaker"><strong>发言人3: </strong></span>
-然后也是从海外开始报的，但是大家在研究完了deep sig之后，就开始去忙自己的事情了。可能都是在想着我要怎么怎么复现他，或者说我要把把他给超越，就是他没有持续的成为一个，怎么说呢？流量来源也好，或者说变成价值来源，那可能就没有那么简单。对，所以我是觉得说还得看看。
-</p>
-<p class="transcript-line">
-<span class="time"><strong>[00:34:18]</strong> </span>
-<span class="speaker"><strong>发言人2: </strong></span>
-这一点其实我觉得也有一个，但是可能是传闻。现在不是。比如说有传闻说deep seek公司愿意放弃他现在的这些注册的C端的这些用户，就是觉得这些用户可能对他来说今天也不重要，这可能不是他未来的，不是他的目标所在。有可能对kimi这些豆包来说，他们要的是DAU，要的是用户量对吧？包括阿里的统一，这些当然可能是传说对deep sak来说，好像他们公司不想要这些数据，觉得这些数据对我来说不太重要，我们的目标就是要实现AGI，就是做AI的基础研究、基础算法、基础工程的研究，然后最终在技术层面去达到AGI的目标。
-</p>
-<p class="transcript-line">
-<span class="time"><strong>[00:35:10]</strong> </span>
-<span class="speaker"><strong>发言人2: </strong></span>
-当然杨文峰，包括对外他他的采访来看，这就是他的目标，对吧？如果他们的心中这家公司的文化，整个的愿景的方向就是这个目标。坚定了这个目标，然后放弃今天的这些DAU这些用户，我觉得真的是一个让人敬佩的事情。如果他们真的这样做了，我反倒觉得这件事儿真的很好。今天你没有从这些流量上赚到钱，没有把它变成钱等等，去做一些附加的一些产品去分散你的精力，而是专注去实现AGI的愿景。我觉得这个真的是非常值得点赞，很肯定的一件事儿。对，那deep是今天从换方一直到今天给他做出来。他们可能确实也是在坚持这样的一个愿景的目标，这样的一个路上，才有了今天的阶段性的成就。
-</p>
-<p class="transcript-line">
-<span class="time"><strong>[00:36:04]</strong> </span>
-<span class="speaker"><strong>发言人2: </strong></span>
-所以说我自己还是愿意相信的，他们在未来还是会坚持去把主力放在他们的那个基础研究上面，而不是过多的去考虑怎么去做价值变现等等等等这样的一些事情。好了，回到这样的一个问题。我觉得首先肯定是关于现在的中概，资本市场、股市这样的一个情况。我觉得短期肯定是情绪加持的，今天肯定是有非常大的情绪泡沫在里面的。但是总的来说，我觉得deep赛deep set还是给中概给中国公司带来了一个非常积极的一个信号。对我觉得这个肯定是一个积极的一个因素。那从炒股的角度来说，我不会有太多的个人的一些观点。我觉得这个每个人可以自己去把握。
-</p>
-<p class="transcript-line">
-<span class="time"><strong>[00:36:56]</strong> </span>
-<span class="speaker"><strong>发言人2: </strong></span>
-因为我自己其实还没有从过去几年在中概股里面受的伤当中走出来。我相信有很多人应该在过去几年，应该在中概上都是受过伤的对所以但是从感情上和精神上，我其实肯定是支持deep sak，支持中国公司。对中概股里面的所有的公司，这个是没有任何问题的，我自己非常乐意做这做给予支持。但是你说今天在这样的一个情绪泡沫的一个基础之上，要让我真金白银的掏钱出来去支持他们，那我觉得我可能需要仔细的观察一下。对我觉得如果让我支持，我也希望等这个情绪过后。因为我今天我不想冒险，我不想做这样的特别风险的这这种类型的投资，我更愿意说做一些稳定性的这样的投资。所以说这种情绪的的节点上我是不愿意参与的对了解刚才。
-</p>
-<p class="transcript-line">
-<span class="time"><strong>[00:37:56]</strong> </span>
-<span class="speaker"><strong>发言人1: </strong></span>
-一笑讲的这个情绪的这个点上，我们现在除了看到中概在业绩上面其实有。但是业绩上面到底他现在的这个股价上面是一个修复行情，还是说是一个反转行情，增长行情。我觉得这个事儿确实需要我们后续根据财报上面等等之类的，我觉得可以持续再去观察一下。对，我们这边有deep sick了。
-</p>
-<p class="transcript-line">
-<span class="time"><strong>[00:38:18]</strong> </span>
-<span class="speaker"><strong>发言人1: </strong></span>
-然后美国那边其实也没闲着。美国其实川普自从上来之后，马斯克相当于说给创普投了大概两亿多美金。现在大家都把马斯克比作一字并肩王，对吧？然后相当于现在trump给了马斯克一个尚方宝剑。对，就让他去成立一个dodge。然后马斯克就把他以前在twitter上面的治理手段就直接套到政府上面来了。然后你们以前推特8000人，八给你砍到1000人还能正常工作。他现在的逻辑就是美国政府的人太多了，我现在要削减支出，然后我现在我利息都快付不出来了，以前浪费了很多钱，我要把这个钱给他收回来。
-</p>
-<p class="transcript-line">
-<span class="time"><strong>[00:38:59]</strong> </span>
-<span class="speaker"><strong>发言人1: </strong></span>
-对，然后确实马斯克也是twitter治国，然后每次弄了什么事情之后，就又把美国政府的很多对去哪里浪费了多少钱，然后支持了哪个企业，然后支持了哪个团体，他都把那个东西都爆料出来。我觉得确实他爆料的很多东西也颠覆了我们的很多认知。我们以前总觉得说美国好像什么都好，后来发现其实美国也有很多很很深层的，很很deep的一些脏东西。对我觉得包括我们，包括我觉得也包括美国人，可能很多时候都觉得说好像有点颠覆了我们的认知，让很多现在也都在说说这个世界有点看不懂了。
-</p>
-<p class="transcript-line">
-<span class="time"><strong>[00:39:39]</strong> </span>
-<span class="speaker"><strong>发言人1: </strong></span>
-因为你看trump的政策是什么？Trump的政策是说我要做制造业回流，我要做一个工业国。然后中国的政策是说我要做科技创新，对吧？就是我觉得这个事情是挺挺颠的，我觉得这个世界感觉挺奇怪的。真的，最近尤其是AI出来之后，对。
-</p>
-<p class="transcript-line">
-<span class="time"><strong>[00:39:58]</strong> </span>
-<span class="speaker"><strong>发言人3: </strong></span>
-我不知道你们怎么看。我是迪普斯克。对他又要给你来搞个比喻，就像两个学霸突然交换了答题卡。美国在搞再工业化行为艺术，我不知道为什么他称之他这个行为艺术。然后中国在玩最前沿的科技突破，然后马斯克这个道具，因为道具其实它是一个部门，它同时其实也算是一个实验。暴露了一个深层危机。当科技巨头开始接管社会治理，以前他治理twitter是治理公司，现在搞这个政府确实是社会治理。那到底是创新还是新封建主义？
-</p>
-<p class="transcript-line">
-<span class="time"><strong>[00:40:37]</strong> </span>
-<span class="speaker"><strong>发言人3: </strong></span>
-反常识的是中美战略对调可能催生新平衡，美国重拾制造业会倒逼中国攀登更高价值链，而中国AI突破反而刺激美国基础研究投入。这个确实就是反过来的。之前因为中国一直缺乏基础研究投入，就一直在加强这一块。就像打乒乓球，球速越快比赛越精彩。不过要小心量子纠缠式竞争，两边越是强调自主技术扩散反而越快，最后全人类都是赢家。
-</p>
-<p class="transcript-line">
-<span class="time"><strong>[00:41:08]</strong> </span>
-<span class="speaker"><strong>发言人3: </strong></span>
-这个是deep sik说的，我觉得就是我之前看到有一个别人说的一句话，就是你的问题是我的答案，我的问题也是你答案。其实就是缺啥补啥，也没毛病。因为美国就一直就制造业就是一直不行，然后就业之类的都会有问题。中国其实一直就是基础研究科研不行，所以缺啥补啥也没毛病。
-</p>
-<p class="transcript-line">
-<span class="time"><strong>[00:41:28]</strong> </span>
-<span class="speaker"><strong>发言人3: </strong></span>
-然后我觉得比较有意思的是，刚刚狄浦斯克提到了，他说马斯克的这个dodge像是一种新封建主义，于是我就追问了一下，我说这个怎么理解？怎么叫新封建主义？我觉得很有意思，给大家分享一下。
-</p>
-<p class="transcript-line">
-<span class="time"><strong>[00:41:41]</strong> </span>
-<span class="speaker"><strong>发言人3: </strong></span>
-他讲到有几个点，一个是道具，是一种数字彩抑制。彩抑制是什么？彩抑制就是那种分封制度，中国古代包括欧洲中世纪这种分封制度，就给你一块地让你去当领主，对吧？给你封一个侯。到底掌握的其实是联邦政府支付系统和社保数据库，马斯克把这个东西都都武器化了，对吧？想搞谁搞谁？
-</p>
-<p class="transcript-line">
-<span class="time"><strong>[00:42:05]</strong> </span>
-<span class="speaker"><strong>发言人3: </strong></span>
-其实就像是过去领主掌握的这种磨坊和土地生产资料，公民隐私、官员权限，公共资金流向，这些数据就是数字地租，就是给这个数字领主教的这个数字地主，报举用算法来作为这个效忠的契约。就是以前这个领主还包括领主的家臣，领主要要向国王效忠，对吧？领主的家臣要向领主效忠，那这个算法其实就是限制这些加成，也就是官员的这个行为的一个效忠契约。因为算法是透明的，所以相比中世纪的这个宣誓效忠，算法还会更有效。
-</p>
-<p class="transcript-line">
-<span class="time"><strong>[00:42:42]</strong> </span>
-<span class="speaker"><strong>发言人3: </strong></span>
-然后还有一点是这个数字种性质，他讲的数字种性质，因为dog的成员不是公开招募的，也不需要考试考核，没有什么公务员考核什么的。他是通过一个私域一个私有的一个什么什么学会之类的名字，我忘了定向招募的，这就变成了一个数字贵族阶级。然后这个数字贵族阶级掌握了一些核心的数据，核心的数字的生产资料。然后这种模式蒂普提克提到说可能比中世纪更危险，因为封建领主至少受地理限制，对吧？我的封地在这里，我跑不到别的地方去。但是科技寡头的这个数字才艺能通过云端无限扩张。当马斯克同时掌握星链脑机接口和联邦支付系统时，他构建的也不是企业帝国，而是首个跨经纪的赛博封建体系。
-</p>
-<p class="transcript-line">
-<span class="time"><strong>[00:43:37]</strong> </span>
-<span class="speaker"><strong>发言人3: </strong></span>
-这个词儿好大好家伙，对，虽然我没有完全理解，但听起来很厉害的样子。然后我就突然想到说很多太空殖民类的作品，其实都会描述一个类封建主义的社会。比如说沙丘？沙丘里面都是家族制的，这个家族有哪些星球？这些星球属于这个家族，你就是这些星球的领主。
-</p>
-<p class="transcript-line">
-<span class="time"><strong>[00:43:57]</strong> </span>
-<span class="speaker"><strong>发言人3: </strong></span>
-我之前会看这些作品的时候会想说，明明科技都这么发达了，对吧？人类都跨越群星了，怎么社会制度反而还倒退了呢？现在我知道了，原来就是跨星际的赛博封建体系，理解了。其实对我觉得怎么说呢？其实世界就是颠的。
-</p>
-<p class="transcript-line">
-<span class="time"><strong>[00:44:16]</strong> </span>
-<span class="speaker"><strong>发言人3: </strong></span>
-因为人类去做决策的时候，你比如说要么就是来自于一些单独的个体，比如说像马斯克这样的，这些个体其实肯定都有鲜明的个性，然后他有他自己的认知，他的认知不一定就是好的，但是他会很坚持。要么真的民主就是群体思维本身，群体意识本身就是没有理性的，所以我觉得人类注定是会在混沌中不断重复自身，然后至于到底走向毁灭还是走向光明的未来，我觉得就不知道了，世界注定就是颠的。这是我个人的想法。
-</p>
-<p class="transcript-line">
-<span class="time"><strong>[00:44:54]</strong> </span>
-<span class="speaker"><strong>发言人1: </strong></span>
-马斯克不是自己也相当于立了遗嘱了吗？我觉得他做这个事儿确实挺危险的。熟读资治通鉴的话，这种人一般没有好下场。
-</p>
-<p class="transcript-line">
-<span class="time"><strong>[00:45:02]</strong> </span>
-<span class="speaker"><strong>发言人2: </strong></span>
-对吧？
-</p>
-<p class="transcript-line">
-<span class="time"><strong>[00:45:05]</strong> </span>
-<span class="speaker"><strong>发言人1: </strong></span>
-对我觉得他确实也挺危险的对，但是至于说他能做到什么程度，然后他能改变这个国家到什么程度。因为以前他其实是马斯克是企业主，企业主其实他就是管自己的公司，其实他不会对社会造成多大的影响。他动别人蛋糕其实都是他能掌控的对吧？他把推特的员工裁了，推特员工也不会把他怎么样。现在的问题就是他其实冻到了非常多人的蛋糕，对，很多人可能是真的会恨他的。
-</p>
-<p class="transcript-line">
-<span class="time"><strong>[00:45:32]</strong> </span>
-<span class="speaker"><strong>发言人1: </strong></span>
-对，所以说这个未来会做到什么程度就不确定了。对，这种人一般都是被领导当见识的。对，但是使完之后不知道马斯克有没有熟读中国的资治通鉴，预测一下自己的未来。对呃回过头来还是聊一下我们的国内，其实自从疫情过后，整个国内的整体大环境其实都不太好，其实海外环境也不太好好，其实整个全球的环境都不太好。对，确实我们自己也经过了很难受的这三四年时间了，对吧？从疫情开始到现在，其实一直都挺难受的，包括你从中概股就上就能看得出来，从那个点上一直不断的跌跌到今天，对吧？但我就想问一下说为什么在最近的这半年到一年的时间里边，为什么好像各种创新都爆发出来了？我不确定说这个到底是我个人的错觉，还是说是我们国家用国家机器去宣传，然后让我误以为我们好起来了，还是就是说这个时间是真的到了，我们真的好起来了。
-</p>
-<p class="transcript-line">
-<span class="time"><strong>[00:46:38]</strong> </span>
-<span class="speaker"><strong>发言人3: </strong></span>
-这就像竹子生长的奥秘，前三年只能长几厘米，根系却在疯狂发育。荔浦C对于你这个问题，他是比较乐观的他提到说口罩期间的这个静默期。给了硬科技沉淀的机会，芯片人才从互联网回流制造业，然后地方政府开始认真算研发投入的GDP占比，连大妈都学会用国产替代这个词儿了。更关键的是生存压力倒逼创新。当直播带货不灵了，教培凉了，游戏被锤了，我不知道这直播带货不灵了吗？直播带货好像还挺灵的，游戏不是对吧？黑神话不是还挺好的吗？所以但是他他是这么说的，然后他提到说所有聪明钱和聪明人突然发现只有攻克光刻机或者可控核聚变才不会被政策锤，但这政策确实是个问题，就是来回来的。比如说教培就是一个比较典型的被政策锤的这个例子，所以伊布森认为这不是错觉，而是被迫成熟的结果，就像青春期少年突然要养家，潜力瞬间被激活，他的比喻怎么都这么差。
-</p>
-<p class="transcript-line">
-<span class="time"><strong>[00:47:43]</strong> </span>
-<span class="speaker"><strong>发言人3: </strong></span>
-然后我觉得一方面是迪贝斯有讲的，就是说快钱赚不到之后，人才和钱有机会沉下来，投入到能带来长期价值的科技创新上去了。这个感觉好像大家觉得说一下就爆了。其实如果你真的去关注它的历史的话，他也是做了很长一段时间的发了的模型，一步一步赶上来的对吧？也有很多比如说做AI应用的开发者之前就接了deep sig然后另一方面，我个人觉得说舆论引导肯定也是存在的，就是在日子都不好过的情况下，大家也都需要一个情绪出口。
-</p>
-<p class="transcript-line">
-<span class="time"><strong>[00:48:16]</strong> </span>
-<span class="speaker"><strong>发言人3: </strong></span>
-本来民族主义在社会和经济不好的时候就是一个很有效的策略。所以今天其实我们再去看这个的时候，不光是说像国产替代这样的宣传的口径，可能还有东升西降对吧？反对霸权就是这种攻破制裁之类的，就是这种宣传的口径，其实它就是一个比较偏民族主义的这么一种说法。但说时候到了，就是我觉得还为时过早，因为你像这种社会资源分配，其实是需要政策去引导的。就刚刚提到的教培就是一个比较典型的那政策能长期稳定，这才能看到结果。如果一天一变的话，那你这个肯定是出不来好的结果的。
-</p>
-<p class="transcript-line">
-<span class="time"><strong>[00:48:55]</strong> </span>
-<span class="speaker"><strong>发言人3: </strong></span>
-毕竟不是民营企业座谈会，对吧？他把马爸爸也给叫上了，这算是什么呢？算是冰释前嫌，我不知道。然后就这个民营企业座谈会一搞，方向上就变成要大力发展民营经济。但是之前民营企业没少被折腾，大家其实都知道对吧？之前几年没没少被折腾，其实摧毁信心是很简单的，但重建信心要难得多，需要很长的时间。所以只是现在的这个集中爆发期，我只能觉得说他有这个趋势，但是是否真的说就是时间到了，要开始好起来了，我觉得是需要时间去有去观察的。
-</p>
-<p class="transcript-line">
-<span class="time"><strong>[00:49:36]</strong> </span>
-<span class="speaker"><strong>发言人2: </strong></span>
-刚才归提到这个民营企业座谈会，然后这两天我发现最多的看到的最多的现象是有很多搞搞证券的，反正就是搞投资的，搞金融的很多的机构企业，他们都在发的那个报告里面。我看那个研究的报告里面都有一页是研究的，是这次座谈会的座位座位表。对，谁坐在第一排，谁是坐第一排，靠左靠右，然后谁是坐在中间等等。比如这一次坐在正中间的就是语速科技，对吧？王欣欣是在正中间，反正我看到他们那种投资报告，我觉得这也是挺奇怪的。反正就是谁坐到第二排去了，以前是坐靠前的，谁又坐到后面去了，反正等等等等。比如像这一次就没有李彦宏，对吧？
-</p>
-<p class="transcript-line">
-<span class="time"><strong>[00:50:28]</strong> </span>
-<span class="speaker"><strong>发言人3: </strong></span>
-你说的这个百度确实急了，百度好像这几天动作特别多，一会儿说下一代要开源，一会儿说这个要文心一言要免费，反正就是做了好几个动作，都是没一看就是急了。
-</p>
-<p class="transcript-line">
-<span class="time"><strong>[00:50:41]</strong> </span>
-<span class="speaker"><strong>发言人2: </strong></span>
-对，但是座谈会还是没邀请他，这个就更着急了。开玩笑。对，那我们回到这个问题上，比如说你说他是不是错觉，或者说是不是一种被大家在误导。我们首先不看这个大环境，这个大环境有没有反转，有没有开始走上坡。就是这件事儿我觉得以我的这种社会的能力，或者说甚至是经济或者这些能力，我觉得我还判断不了。
-</p>
-<p class="transcript-line">
-<span class="time"><strong>[00:51:13]</strong> </span>
-<span class="speaker"><strong>发言人2: </strong></span>
-对，但是我觉得说我们只回头看这几个作品，比如黑神话、悟空、deep sk哪吒对吧？这三个作品的话，就是不管自媒体怎么在催这三个作品吹成天花乱坠的也好。我们回头去看他们的市场数据，他们市场数据都很好对吧？就把我控制为中国的商业大作的销售数据，都不错。第五次也可全球顶级的下载量对吧？这就不说了，百首个百亿票房。就是这三个作品他现在其实真的都是拿到了实实在在的结果的，并且他们的结果今天真的是可以进入全球进行排名的。
-</p>
-<p class="transcript-line">
-<span class="time"><strong>[00:51:50]</strong> </span>
-<span class="speaker"><strong>发言人2: </strong></span>
-我觉得这个是一个在以前好像我没见过，我不知道你们有没有我知道的作品，可能有。但是好像我印象当中，我不知道有哪种是中国作品真正进入全球拿到了很好的排名的这种作品。甚至在全球就引起了很冲很轰动的话题，引爆了全球的这样的一个效果的这样的中国作品。好像这是我印象中的唯一的三个好像。
-</p>
-<p class="transcript-line">
-<span class="time"><strong>[00:52:19]</strong> </span>
-<span class="speaker"><strong>发言人2: </strong></span>
-回到这三个作品带来的信号，是不是突然就是在这种时期，这种经济不好，艰难时期就创造了这样的作品出来了。这背后是一个什么样的逻辑？但这有一个逻辑，他不一定对，当个玩笑。对，这个逻辑其实刚好因为刚才我一直在讲马斯克，其实马斯克在去年发过一个twitter，我把他这个twitter的截图给大家念一遍。他这个twitter是这样的，就是说part times他是会create strong man。就是说那些艰难的时期往往会造就出一些强大的人出来。对，会有一些领导这样的人站出来。对，就是在一个很艰难的时期往往是这样的对，但是strawman you create good times，就是这些很优秀的这些人才创造了一个好的时代，但是这种好的时代大家时间过久了，good times又会create weekend，又会创造出一些躺平的人，吧？
-</p>
-<p class="transcript-line">
-<span class="time"><strong>[00:53:24]</strong> </span>
-<span class="speaker"><strong>发言人2: </strong></span>
-对，好时代太久了，躺平的人可能也就多了，大家只是天天等着投喂了。对，但是这些wakeman you clayed hard times，就是因为躺平的人太多了，是吧？大家伸手要饭吃的人太多了，最后创造的是一个hard times，又把你带进了一个艰难的时期。对，当时马斯克发这个twitter说的是you are here，就是你现在正在的躺平的人太多了，大家正在创造的是艰难的时期。
-</p>
-<p class="transcript-line">
-<span class="time"><strong>[00:53:52]</strong> </span>
-<span class="speaker"><strong>发言人2: </strong></span>
-对，其实现在去看他的这个人类的循环的这个示意图，就会发现他去年应该是去年，还是前年的，他在发这个twitter的时候，其实可能也是在暗指美国的整个政治社会的这样的一个形态，说you are here，你们现在都是一帮弱鸡，现在正在把美国带向深渊。对，那我们只能等着2025年特朗普回来，对吧？我们才从hard times重新去创造，重新去开始进入下一个循环。
-</p>
-<p class="transcript-line">
-<span class="time"><strong>[00:54:25]</strong> </span>
-<span class="speaker"><strong>发言人2: </strong></span>
-对，反正我只是因为对他这个图印象很深刻。对，当时看了刷到了这个推特哥对这个图印象很深刻。然后我们今天刚好聊到这个话题，我突然就觉得说我们他是不是有这样的一种潜在的影响在里面。我们现在国内的整个经济环境正处在一个hard times的这样的一个时刻，那可能在这样的一个时刻里面，必然背后可能会诞生一些人。这些人他们可能会带来一些作品，然后给大家一些信心。对，可能是这样的一个模式，这大家都当个段子听一听就好了。
-</p>
-<p class="transcript-line">
-<span class="time"><strong>[00:54:59]</strong> </span>
-<span class="speaker"><strong>发言人1: </strong></span>
-对，这个图挺好的。就是我们以前老在讲经济的周期，经济周期从债务的角度去讲，经济必然有周期，对吧？这个角度其实背后是人性，当然债务背后也是人性。对我觉得这个就更赤裸一点，确实你能从这个hard time create strong man，你大概就能知道说这个逻辑一定是对的，它更浅显易懂一些，不像说你要从债务的角度去讲说，为什么在好的时间大家容易多借钱，坏的时间大家容易收缩，它自然造成的经济。对我觉得这个逻辑就比你的债务的那个讲法就会好很多。对，确实是就是热图，就这个图只要一发出来应该会热。
-</p>
-<p class="transcript-line">
-<span class="time"><strong>[00:55:37]</strong> </span>
-<span class="speaker"><strong>发言人1: </strong></span>
-对，那你你像我们其实最近这些年，我们国内其实就一直有一个提法。不管是自媒体也好，官方也好，就一直在讲说东升西降，我们其实自己也一直在讲这个事儿。从deep seek到哪吒，到黑山老空，到6代机，到现在电动车光伏，其实电动车我们现在做的还蛮好的，光伏其实基本上垄断全球了。对，就这些事情一系列来讲的话，就真的可以说是就东升西降了吗？
-</p>
-<p class="transcript-line">
-<span class="time"><strong>[00:56:06]</strong> </span>
-<span class="speaker"><strong>发言人3: </strong></span>
-我念这个deep sig的有点累了，下次还是搞个TTS。
-</p>
-<p class="transcript-line">
-<span class="time"><strong>[00:56:11]</strong> </span>
-<span class="speaker"><strong>发言人1: </strong></span>
-对。
-</p>
-<p class="transcript-line">
-<span class="time"><strong>[00:56:12]</strong> </span>
-<span class="speaker"><strong>发言人3: </strong></span>
-OK我这回不全念了，我就稍微给他总结一下，就是中国在工程化创新领域建立了一些优势，但西方在基础研究仍然是保持领先的那他提到真正的东升是不在于单向突破，而在于要形成一种全方位的创造性溢出。不管是说从科幻小说的三体到黑神话的文化输出，从tiktok到lip sik开源社区。其实今天大家很少去聊三体和tiktok对吧？这个是我自己的看法。就是大家今天其实很少聊三体和tiktok。但是实际上这两个其实也是非常明显的一个创造性溢出的一个产物，对吧？那也是从中国火遍了全球，因为之前就有这种现象出现了，但是没有都没有黑神话和deep take这个事情这么火。就感觉现在其实情绪推动还是比较大的，以前没有那么大的情绪去推动说我今天真的东升西降了还是怎么。而今天就是这情绪在推动着大家去做出这样的看法和选择。
-</p>
-<p class="transcript-line">
-<span class="time"><strong>[00:57:18]</strong> </span>
-<span class="speaker"><strong>发言人3: </strong></span>
-所以我其实相对来说，我个人是比较保守的。就是你说的这些事情里面，六代机我不了解，这个军事的事情我不了解。但剩下几个除了deep thick之外，我是觉得深的趋势确实是有，但是还是有差距在的。他感觉说这个可能要被骂了，就是那些这个话题我觉得有点敏感。东升西降哪吒二我也去看了，确实很好看。但很大程度上我觉得靠春节档的同行们衬托的好。
-</p>
-<p class="transcript-line">
-<span class="time"><strong>[00:57:45]</strong> </span>
-<span class="speaker"><strong>发言人3: </strong></span>
-这个热度一旦起来之后，其实大家有一个情绪的推动作用在就是我们今天去看这个很多新闻会看到说，有人什么几天连看几十场对吧？就说甚至刷了上百场了，这就是一种情绪推动，说我就是要让这个哪吒二的票房怎么样，对吧？它是一种自发的刷票房行为。因为我们去看这个哪吒二的票房，虽然它非常高，但是票房来源都是99%都是中国，对吧？那大家可能会说，我这个钱都是我自己赚的，我就是要让哪吒的票房高，对吧？那这个来自于中国的票房不是钱吗？也是钱，这个没错。但是你真的要去讲东升西降这个说法的时候，那显然是我应该能够从得到全世界的认可，对吧？从全世界能够去赚取价值的时候，才是真正的一个东升西降的一个表现。
-</p>
-<p class="transcript-line">
-<span class="time"><strong>[00:58:37]</strong> </span>
-<span class="speaker"><strong>发言人3: </strong></span>
-现在只能说是一个趋势，然后包括其实黑神话悟空也是我第一时间就玩了。如果抛开这个IP以及文化输出，就黑神话悟空的文化输出，我的其实是挺成功的。但是你单论游戏质量，它确实可能是中国最好的3A单机。但在游戏性和技术力上和现在最好的但游戏还是有不少不小差距的。就是我我和很多一直玩游戏的人都聊过，其实大家都是有这种感觉的。反而是平时不玩游戏的人都觉得黑神话做的非常好。因为确实他确实做的很好。但是你跟最好的去比这个技术力比游戏性还是有一些差距。
-</p>
-<p class="transcript-line">
-<span class="time"><strong>[00:59:16]</strong> </span>
-<span class="speaker"><strong>发言人3: </strong></span>
-但是我觉得哪吒二和黑神话，悟空最大的意义，最有价值的点是让大家知道我沉下心来用心做这些好东西，是能获得成功赚到钱的。就是在他们之前，其实中国的经济就给人一种感觉，就是你就是要想办法去赚快钱，你想去沉下心来做好东西是赚不到钱的。但是哪吒二黑神话，悟空给了大家这样的一个信心，一个信号。这种信号其实就在构建一条上升的通道，去推动上升的这个趋势，我觉得这个是非常重要的一个点。
-</p>
-<p class="transcript-line">
-<span class="time"><strong>[00:59:50]</strong> </span>
-<span class="speaker"><strong>发言人3: </strong></span>
-东升西降这个说法我个人是不太喜欢的，它就是过于强调地缘政治了，就推动一种民族情情绪在里面。我是觉得说东升肯定是希望能够持续下去，并最后惠及东方大国的所有人，对吧？就是能够让我们真正的从这个东升里面受益，让生活变得更好。对于西降不降，我觉得其实不是那么重要。
-</p>
-<p class="transcript-line">
-<span class="time"><strong>[01:00:15]</strong> </span>
-<span class="speaker"><strong>发言人2: </strong></span>
-没错，我也觉得是不是东升西降就是这件事儿他不重要。对我春节也去看了老张2。我觉得是真的很好看，然后反正全程毫无尿点，我就去上了一个厕所。然后中间就上了一个厕所，上来回来就发现哪吒他们家没了。我说这个怎么了？怎么这么快？就是你会发现它的整个剧情的节奏推进的特别的快，你根本就不能去上厕所。比我还跑了一趟，反正回来就发现那个家已经被毁灭了，没了。
-</p>
-<p class="transcript-line">
-<span class="time"><strong>[01:00:45]</strong> </span>
-<span class="speaker"><strong>发言人2: </strong></span>
-我说这个让我接下来还怎么看呢？这个中间断档了一下，就端到了很，就感觉他每一帧都是那个故事，都是很关键时刻。对，都是高光时刻。对，然后北京的画面都是大片的，所以说我觉得反正做的挺好啊。然后就像归聊到同行的衬托，其他几个确实太烂了，那几个真的是大家都说现在没想到创造好的作品的都是一些年轻人，对你以前可能都不怎么知道的人。
-</p>
-<p class="transcript-line">
-<span class="time"><strong>[01:01:15]</strong> </span>
-<span class="speaker"><strong>发言人2: </strong></span>
-对，就是这件事儿给我的感触其实是很深的。因为我最近有一个特别特别一个明显的感受，就是像互联网时代，真的感觉它已经过去了。我说的过去它不是消亡，而是成熟了。就是成熟的东西永远都是无聊的，就那些成熟的成熟的东西不是死的，不是说它没了，它还在创造很大的经济价值，只是他们可能变得无聊了。对，就像那个激素一样的，我们往往觉得那些无聊的基数只是因为他们成熟了。
-</p>
-<p class="transcript-line">
-<span class="time"><strong>[01:01:50]</strong> </span>
-<span class="speaker"><strong>发言人2: </strong></span>
-对，只有新出来的一些东西，那些程序员来开发者他们就更喜欢追捧，更喜欢，其实就是这样的一个道理。因为现在的新一代公司，感觉明显他们在逐渐的崭露头角。就是从去年大家开始去捧的那个六小虎对吧？然后直到现在突然什么deep shake游戏科学，还有这些哪吒二的导演的小子这些。
-</p>
-<p class="transcript-line">
-<span class="time"><strong>[01:02:16]</strong> </span>
-<span class="speaker"><strong>发言人2: </strong></span>
-以前至少从今天的角度看，他们就是挺新的一帮人，一帮公司。对，就从这个角度，我就是觉得说从个体的角度，我也感觉说好像我们因为这帮从互联网公司洗礼过来的这些人，我们这种个体好像也成熟了。对，就是那种变得成熟了，好像没有这些新公司新人他们身上那种热血的故事了。对，反正有很强烈的这样的一种感受。这也是也没办法，时代它总是滚滚向前的对，总有新的人需要出来，对，新的孤山需要出来的。
-</p>
-<p class="transcript-line">
-<span class="time"><strong>[01:02:53]</strong> </span>
-<span class="speaker"><strong>发言人2: </strong></span>
-相反前几年其实我还比较认同一个观点，觉得说现在创业也是很难再去做出BAT，像字节这种同等规模的公司。你再去造一个google、微软，几乎是不可能的对前几年我其实很认可这样的观点，但是今天我觉得我可能错了。对我今天可能不太认同这个观点。我觉得说这些新的故事，新的叙事，他们可能在某个节点同样可能会造就一个新的时代。
-</p>
-<p class="transcript-line">
-<span class="time"><strong>[01:03:26]</strong> </span>
-<span class="speaker"><strong>发言人1: </strong></span>
-对我非常同意。之前其实我也觉得说想再做出字节这样的规模的公司，新的创业公司已经很难了。但是像deep seek他做到了今天的这样的一个成就之后，其实外界对他的估值也已经涨到了大概1000亿美金。而且1000亿美金你还投不进去。对，所以其实1000亿美金你类比到现在字节的公允价值就大概三四千亿美金。然后阿里其实现在也才两三千亿美金。你想一个deep sick做到1000亿美金，其实很夸张的一件事儿。
-</p>
-<p class="transcript-line">
-<span class="time"><strong>[01:03:58]</strong> </span>
-<span class="speaker"><strong>发言人2: </strong></span>
-没错。
-</p>
-<p class="transcript-line">
-<span class="time"><strong>[01:03:59]</strong> </span>
-<span class="speaker"><strong>发言人1: </strong></span>
-所以说确实在新的时代里面会有新的叙事，新的叙事里面又会有新的热血故事。对我觉得这个确实是确实时代滚滚向前，时代滚滚向前，我们可能已经老了成熟了。对，好吧，那我们本期节目就先聊到这儿。对我我们在最后其实还是衷心的希望中国的这些创新的故事，这些创新的事情能够源源不断，甚至我们现在还是追随者，对，就甚至未来我们也能够去引领世界的科技发展方向。好吧，我们本期节目就先到这里，感谢大家收听，我们下期再见，拜拜。
-</p>
-<p class="transcript-line">
-<span class="time"><strong>[01:04:38]</strong> </span>
-<span class="speaker"><strong>发言人3: </strong></span>
-好，拜拜。
-</p>
-<p class="transcript-line">
-<span class="time"><strong>[01:04:40]</strong> </span>
-<span class="speaker"><strong>发言人1: </strong></span>
-以上就是我们本期播客的全部内容，感谢大家收听，也欢迎大家踊跃留言。如果你喜欢我们，欢迎点赞并分享给感兴趣的朋友。如果你在用苹果播客收听，也希望你花几秒钟给我们一个好评。这会让更多的人了解到我们要是能再点击一下订阅，那就再好不过了。我们下周见。
-</p>]]></content:encoded>
-            <pubDate>Tue, 18 Feb 2025 22:00:00 GMT</pubDate>
-            <guid>67b4a74405a90dfd0d56bbf4</guid>
         </item>
     </channel>
 </rss>
