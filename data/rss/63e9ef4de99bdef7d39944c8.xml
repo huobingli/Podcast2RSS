@@ -4,7 +4,1265 @@
         <title>AI炼金术</title>
         <link>https://www.xiaoyuzhoufm.com/podcast/63e9ef4de99bdef7d39944c8</link>
         <description>关注 AI 带来的本质变化和商业机会</description>
-        <lastBuildDate>Mon, 16 Mar 2026 02:08:15 +0800</lastBuildDate>
+        <lastBuildDate>Fri, 20 Mar 2026 05:09:15 +0800</lastBuildDate>
+        <item>
+            <title>Cherry Studio 王新铭：2 个人，Github 42k 星，代码贡献第一名是 Claude</title>
+            <link>https://www.xiaoyuzhoufm.com/episode/69bbfc43efabb9c9895157d3</link>
+            <description>Cherry Studio 早期只有 2 个人，却在 Github 拿了 42k Star。
+它最早只是一个开源版 ChatGPT 客户端，后来一路长成 4.2 万 Star 的明星项目，开始往 Agent、甚至 long-running agent 方向演化。这期我们和创始人王新铭聊了 Cherry Studio 的起点、增长、开源社区运营、商业化克制，以及他对下一代 AI 产品形态和 AI Native 组织的判断。如果你关心开源项目怎么长成公司、AI 产品会怎么变、组织会不会被 AI 重写，这期值得一听。
+关键要点
+AI 时代追求小而美等于慢性自杀
+本地弱模型驱动 Agent 等于雇童工
+要用最疯狂烧 Token 的方式跑满能力
+新公司最大优势是零历史包袱
+AIBP 将是企业最稀缺的新角色
+金句
+「搞一个弱智的模型去驱动它，其实打童工，不能期望一个童工能产生多大的生产价值。」—— yinsen
+「节约成本这件事情一点都不重要。就是要用最疯狂的燃烧 Token 的方式去想象一件事情。」—— yinsen
+「我们以后就没有所谓的流水线了。产品经理就是需求工程师，设计师就是品味好的前端工程师，研发是架构或质量工程师。」—— yinsen
+「过去大家都是通过汇报线来对齐，它一定是熵增的。有没有可能在中间加一个 AI 总线，把组织对齐路径缩得非常短。」—— yinsen
+时间线
+01:30 Cherry Studio 是什么：从开源 Chat 客户端到全量 Agent 客户端
+03:52 为什么很早就开始想 long-running agent：token 消耗的波峰波谷终将被填平
+05:21 创业源起：做产品是学习 AI 最好的方式，找到合伙人竟住在同一个镇
+08:46 从多模型客户端到早期增长：客户端形态为什么能跑出来
+10:07 42K Star 算什么量级：对比 OpenClaw 的 30 万
+11:01 为什么一开始选开源而不是闭源收费
+12:21 DeepSeek 爆火，用户涌入把 Cherry Studio &quot;推成了公司&quot;
+15:47 社区贡献量超过内部：Claude 代码贡献排第一，社区贡献者排第二
+17:34 核心贡献者一半是研究生，靠报销订阅和美团外卖凝聚社区
+20:50 AI 时代还要不要小而美：保持开放才能跟上变化速度
+25:35 用户画像：从技术极客到连截图都不会的人，从中科院到母猪配种企业
+29:47 为什么没有急着做卖 token 的激进商业化
+37:51 团队规模：半年前 2 人，现在 9 人。十倍杠杆可行，百倍仍有挑战
+41:03 新公司更有机会做 AI Native 组织：最大优势是没有历史包袱
+45:10 PRD 要写到 AI 能看懂为止，设计师要直接输出前端代码
+47:18 AI 效能中心：一个 04 年实习生撬动全公司 AI 工作流改造
+51:18 客户端形态会被飞书和 IM 替代吗：短期分流，长期 IM 自身也会收缩
+55:59 Cherry Studio 下一站：从客户端走向后端 long-running agent
+1:01:36 OpenClaw 到底是炒作还是时代信号
+1:06:24 思维转变：从节约 Token 到最疯狂燃烧，从本地推理有价值到毫无价值
+1:10:31 AIBP 的机会：批量培养没被传统路径特化规训的跨界 AI 人才
+1:20:16 管理 AI 和管理人一样：从指令型授权走向目标型授权
+1:27:24 Vision：帮企业实现 AI Native 组织，十倍乃至百倍能效提升
+1:30:22 AI 替代知识劳动后，人类文明可能迎来下一次跃升
+欢迎订阅「AI 炼金术」的播客，以及同名公众号、视频号
+「AI 炼金术」是一档由徐文浩和任鑫——两位多年老友、AI 领域的资深从业者——打造的播客。这里是探讨 AI 和创业的理想聚集地，我们会邀请一线创业者、产品产品和科研学者，深入探讨 AI 如何重塑行业、变革生活，以及如何从 0 到 1 打造 AI 原生产品。
+我们的讨论会涵盖多个话题：从 AI 如何改变世界的未来，到如何找到 AI 创业的 PMF；从如何利用 AI 降本增效，到怎样将 AI 技术融入日常生活……如果你对 AI、产品、创业感兴趣，这里有满满的干货和一线实战经验，欢迎关注并推荐给你的朋友，共同探索未来的无限可能！
+商务合作：公众号 「AI炼金术 」菜单栏中【商务】获取联系方式
+节目主理人：
+徐文浩：某AI创业公司联合创始人，正在面向全球市场开发AI应用。连续创业者，参与过多家创业公司，拼多多早期员工。广告科技公司MediaV的算法和数据负责人，后被360收购。离开后加入成立不到1个月的拼多多。后创办了基于AI的海外客服聊天机器人公司 BotHub.AI 和 海外社交电商平台 Bukito 都宣告失败。2023年再次下场创业。
+任鑫：美元基金合伙人，主要在投资和孵化面向全球市场的 AI 应用。之前是连续创业者，曾经打造“今夜酒店特价”用移动互联网应用特价销售酒店尾房；被京东并购后内部创业“京东到家”开展本地即时零售业务；2015 年再次创业 Get 探索对话式人工智能助理成为先烈；2021 年出售公司，2023 年重新回到 AI 世界。
+BGM：
+片尾：Rangga Jones - i confess</description>
+            <content:encoded><![CDATA[<h1>转写链接</h1>
+<link>https://tongyi.aliyun.com/efficiency/doc/transcripts/372e9op6l4oknxb6</link><br>
+<h1>节目摘要</h1>
+<div class="summary">在这场讨论中，参与者探讨了人工智能（AI）在教育、管理及日常工作的应用前景和实际案例。他们强调，尽管AI能有效处理重复性任务并增强工作效率，但人类的创造力和情感交流仍无法被替代。AI与传统管理思维的结合，以及高效的组织网络体系，是实现有效管理的关键。同时，AI开源项目被认为是推动技术进步和创新的重要力量。讨论还涵盖了AI对未来生产力提升和人类文明进步的潜在贡献，以及AI在教育领域的应用，如何通过AI提高学习效率和效果。两位从业者分享了他们对AI技术革命的看法，包括AI如何改变工作方式、产品设计，并且通过AI减少资源消耗。整体而言，这场讨论凸显了AI在社会进步和解决问题方面的重要潜力，鼓励大家探索AI的潜力并积极参与相关项目。</div><br>
+<h1>章节速览</h1>
+<div class="chapters">
+<div class="chapter-item">
+<span class="time"><strong>[00:00:00]</strong> </span>
+<span class="chapter-title"><strong>AI创业者分享与碰撞：从炼金术士到产品实践</strong></span>
+<div class="chapter-summary">两位AI领域的创业家，曾分别成功创办并出售公司，后投身AI投资与产品孵化。他们分享了在AI浪潮中的实践与观点，强调AI既是技术革命也是挑战与机遇。邀请了一位产品创始人，讨论其优秀产品及应用，展现了AI领域的深度对话与交流，旨在激发更多创新与实践。</div>
+</div>
+<div class="chapter-item">
+<span class="time"><strong>[00:01:36]</strong> </span>
+<span class="chapter-title"><strong>Cherry Studio：从Chatbot客户端到自主化Agent引擎的进化</strong></span>
+<div class="chapter-summary">对话介绍了Cherry Studio从最初的Chatbot客户端发展成为支持多种模型的Agent客户端的过程，强调了其在自主化方向上的演进，包括心跳机制、定时任务和外部channel连接能力的加入。此外，讨论了未来AI工具向24小时运转的自主化工作模式转变的趋势，以及这一转变对AI消耗量分布的影响。</div>
+</div>
+<div class="chapter-item">
+<span class="time"><strong>[00:05:12]</strong> </span>
+<span class="chapter-title"><strong>Cherry Studio的诞生与成长历程</strong></span>
+<div class="chapter-summary">一段对话讲述了Cherry Studio产品的起源与成功因素，从对AI行业的热情出发，通过寻找创新点，结合PC端客户端的优势，解决了现有产品在部署与体验上的难题。与一位技术伙伴的巧遇，促成了合作。项目在功能迭代与用户友好性上保持了稳定节奏，获得了社区的认可，Star数量从4K增长至42K，成为开源项目中的佼佼者，展现了其在AI工具领域的独特价值与影响力。</div>
+</div>
+<div class="chapter-item">
+<span class="time"><strong>[00:10:37]</strong> </span>
+<span class="chapter-title"><strong>从开源项目到全职创业：用户需求推动的转型之路</strong></span>
+<div class="chapter-summary">讨论了项目最初选择开源的原因，包括学习和分享的目的，以及资源和人力限制下的社区参与期望。随着Deep Seek的火爆，项目经历了用户激增的挑战，促使团队意识到商业化机会，最终决定全职投入，以应对行业趋势和用户需求。</div>
+</div>
+<div class="chapter-item">
+<span class="time"><strong>[00:15:21]</strong> </span>
+<span class="chapter-title"><strong>开源项目Chair Studio的社区贡献与运营策略</strong></span>
+<div class="chapter-summary">对话讨论了开源项目Chair Studio如何从仅由内部团队开发转向大规模社区贡献的过程，以及项目如何通过建立联系、提供支持（如订阅费用报销、美团企业版晚餐补贴）等方式，团结并激励来自全球的贡献者，特别是学生群体。项目强调了社区参与在产品路线规划中的作用，展现了不同于传统商业公司主导的开源项目运营模式。</div>
+</div>
+<div class="chapter-item">
+<span class="time"><strong>[00:19:58]</strong> </span>
+<span class="chapter-title"><strong>开源项目功能扩展与社区贡献平衡之道</strong></span>
+<div class="chapter-summary">讨论了开源项目在面对外部贡献者功能提议时的接纳标准与平衡策略。强调了在AI快速发展的背景下，项目需保持开放态度，接纳有意义的贡献，同时评估功能实用性与维护性，避免功能冗余。通过案例说明，项目组认为某些看似非核心的功能，如笔记功能，在AI应用场景下可能具有潜在价值，体现了项目对创新与实用性的平衡追求。</div>
+</div>
+<div class="chapter-item">
+<span class="time"><strong>[00:24:51]</strong> </span>
+<span class="chapter-title"><strong>Cher Studio用户群体广泛，技术型至非技术型用户均采用</strong></span>
+<div class="chapter-summary">Cher Studio的用户群体从最初的技术型用户扩展到了包括个人、学生、大中小企业在内的广泛群体，甚至包括养殖企业与科研学生。早期，技术型用户因工具简化而接受，随后，非技术型用户如科研学生和普通企业员工也开始使用。这表明Cher Studio具有高度的泛用性，但同时也暴露出在用户引导和错误提示方面的不足，需进一步优化用户体验。</div>
+</div>
+<div class="chapter-item">
+<span class="time"><strong>[00:29:05]</strong> </span>
+<span class="chapter-title"><strong>企业与个人版AI模型使用门槛探讨</strong></span>
+<div class="chapter-summary">讨论了企业版与个人版AI模型使用的关键差异，企业版由IT管理员配置，用户无需关注细节，降低了使用门槛；个人版用户需自行提供key，简化了配置流程但未达到极致，目前采取克制策略，未涉及订阅或计划，用户按需充值token使用。</div>
+</div>
+<div class="chapter-item">
+<span class="time"><strong>[00:30:55]</strong> </span>
+<span class="chapter-title"><strong>AI模型商业化与社区平衡探讨</strong></span>
+<div class="chapter-summary">对话围绕AI模型商业化策略展开，讨论了用户自备Key的高门槛及模型套壳应用的商业化模式。指出早期资源限制与社区保护是未采取直接商业化路径的原因。提及POE API调用的第三方应用超越官方产品，强调了社区与商业化平衡的重要性，以及改善用户体验的策略。</div>
+</div>
+<div class="chapter-item">
+<span class="time"><strong>[00:34:45]</strong> </span>
+<span class="chapter-title"><strong>商业化策略与社区支持的平衡</strong></span>
+<div class="chapter-summary">对话围绕企业在发展过程中如何平衡商业化与社区支持展开，强调了企业版和模型服务推出时获得的广泛好评，以及社区对开源性质保持不变的积极态度。同时，讨论了当前和未来token消耗量增长、用户付费意愿提升对商业化的影响，以及Cherry in作为商业化基础的潜力。</div>
+</div>
+<div class="chapter-item">
+<span class="time"><strong>[00:37:14]</strong> </span>
+<span class="chapter-title"><strong>AI Native组织与团队规模的挑战</strong></span>
+<div class="chapter-summary">讨论了在AI Native组织中，尽管研发人效提升显著，但整体产能提升需多环节同步发展，商业化团队需具备一定规模以覆盖不同岗位需求。同时，开源社区对于技术问题解决的重要性被提及，以及从零构建AI组织的挑战与心得分享，包括如何在小团队基础上迅速扩展至九人全职团队，涉及产品设计、商务和研发等全面职能。</div>
+</div>
+<div class="chapter-item">
+<span class="time"><strong>[00:41:02]</strong> </span>
+<span class="chapter-title"><strong>AI Native组织构建与挑战探讨</strong></span>
+<div class="chapter-summary">对话深入探讨了构建AI Native组织的三大优势与挑战，包括新公司轻装上阵的优势、组织意愿与方法的匹配难题，以及理念层面的深度应用。强调了AI在减少对齐成本、提升个人产能和企业决策优化方面的潜力，同时指出这依赖于长期的基建迭代与探索。</div>
+</div>
+<div class="chapter-item">
+<span class="time"><strong>[00:44:57]</strong> </span>
+<span class="chapter-title"><strong>AI赋能工作流程革新与效率提升</strong></span>
+<div class="chapter-summary">对话探讨了通过AI技术革新传统工作流程，提升团队效率的实践。包括产品经理编写详尽的PRD以指导AI自动生成代码，设计师直接产出前端可用代码，以及AI在自动化部署和代码编写中的应用，从而大幅减少人力成本和时间消耗。团队内部设立AI效能中心，推动AI在工作流程中的深度应用，已实现2-3倍的效率提升，预计未来有更多团队可达10倍以上提效。</div>
+</div>
+<div class="chapter-item">
+<span class="time"><strong>[00:50:30]</strong> </span>
+<span class="chapter-title"><strong>客户端与IM平台在AI时代的价值变迁</strong></span>
+<div class="chapter-summary">对话探讨了客户端和即时通讯(IM)平台在AI发展中的角色变化。过去，客户端是访问AI服务的主要方式，但随着官方产品和服务的多样化，特别是集成到IM平台如飞书、钉钉中的AI能力，客户端的重要性逐渐减弱。长期来看，无论是客户端还是IM平台，都可能因AI代理的兴起而价值下降，未来的协作模式可能更依赖于AI而非人与人之间的直接沟通，这将重塑飞书、钉钉等平台的角色和形态。</div>
+</div>
+<div class="chapter-item">
+<span class="time"><strong>[00:55:20]</strong> </span>
+<span class="chapter-title"><strong>未来基金产品形态与AI社会实验</strong></span>
+<div class="chapter-summary">讨论了未来基金产品可能不再需要个人客户端，而转向云服务和边缘计算，强调AI在生产环境中的应用，如权限隔离、数据隔离等，以及AI技术对社会的深远影响，被视为一场大型AI社会实验。</div>
+</div>
+<div class="chapter-item">
+<span class="time"><strong>[00:59:12]</strong> </span>
+<span class="chapter-title"><strong>AI Native组织的工具使用与整合策略</strong></span>
+<div class="chapter-summary">对话探讨了AI Native组织Chair Studio内部使用的AI工具及其整合策略。主要工具包括Cloud Code、Open Code、派Agent和Code Dex等，用于代码编写、审查及办公自动化。组织不仅直接使用原版工具，还结合自身AI能力进行功能对齐与优化，特别是在通用办公领域的价值探索。日常运营、法务、财务等工作依赖Chat完成，而代码编写与设计则依靠Cloud Code等专业工具。</div>
+</div>
+<div class="chapter-item">
+<span class="time"><strong>[01:01:36]</strong> </span>
+<span class="chapter-title"><strong>AI养虾与Open Class：是炒作还是未来？</strong></span>
+<div class="chapter-summary">讨论了AI养虾和Open Class产品的当前热点，观点各异，有的认为是炒作，有的视为未来趋势。建议有兴趣者实际体验，控制预期，针对具体需求使用，避免盲目跟风，感受技术价值。</div>
+</div>
+<div class="chapter-item">
+<span class="time"><strong>[01:05:27]</strong> </span>
+<span class="chapter-title"><strong>AI Agent与创业思维的转变：从节约Token到云端优先</strong></span>
+<div class="chapter-summary">讨论了创业领域内对AI Agent认识的变化，从早期的节约Token消耗转变为大胆投入，强调使用最强大模型而非本地弱模型。同时，创业者的思维模式也在转变，更加注重AI Agent的潜能和云端算力的重要性，认为云端模型能提供更优的性能与价值。</div>
+</div>
+<div class="chapter-item">
+<span class="time"><strong>[01:10:31]</strong> </span>
+<span class="chapter-title"><strong>AI效能中心与AIBP角色的探索与实践</strong></span>
+<div class="chapter-summary">讨论了AI效能中心的重要性及AIBP角色的培养难题，提出通过实习生的全面能力探索适合AIBP特质的方法，强调在AI同质化背景下，提升社会生产力和传递新理念的机会，建议企业可通过内外部培养体系批量生产AIBP角色。</div>
+</div>
+<div class="chapter-item">
+<span class="time"><strong>[01:13:50]</strong> </span>
+<span class="chapter-title"><strong>AI人才培养与组织协同的挑战与机遇</strong></span>
+<div class="chapter-summary">讨论了批量培养AI人才的可行性和必要性，强调了AI与人的协同管理，提出结合最新AI理念与经典管理学思维构建高效培养体系的重要性。同时，指出愿意投身基础性人才培养的团队对行业具有重大价值，但此类团队稀缺。</div>
+</div>
+<div class="chapter-item">
+<span class="time"><strong>[01:16:08]</strong> </span>
+<span class="chapter-title"><strong>AI与开源项目管理：协同进化的新时代</strong></span>
+<div class="chapter-summary">对话探讨了AI在开源项目中的角色和影响，指出AI在代码编写和项目管理中的潜力，以及从指令型授权转向目标型授权的管理变革。强调了AI与人类协同工作的未来趋势，以及管理学在AI时代的重要性与演变。</div>
+</div>
+<div class="chapter-item">
+<span class="time"><strong>[01:22:07]</strong> </span>
+<span class="chapter-title"><strong>从创业到管理：目标与上下文的重要性</strong></span>
+<div class="chapter-summary">对话讨论了从创业到管理不同规模团队时，目标设定与上下文沟通的重要性。通过实例分享，阐述了在不同管理角色下，如何从具体命令到框架，再到目标与上下文的转变，强调了避免过度干预、信任团队成员的专业能力，并通过目标导向促进协作。此外，还提到了在非专业领域管理时，利用目标和权衡来指导团队，以及开源项目在填补市场缺口中的作用。</div>
+</div>
+<div class="chapter-item">
+<span class="time"><strong>[01:26:19]</strong> </span>
+<span class="chapter-title"><strong>AI与效率提升：Chair Studio的愿景与实践</strong></span>
+<div class="chapter-summary">对话围绕AI技术如何提升效率展开，讨论了AI在编码、组织管理等领域的应用。Chair Studio致力于通过AI技术实现企业组织的效率提升，目标是帮助企业和个人达到十倍乃至百倍的产出提升。此外，Chair Studio强调其产品和服务的开放性与灵活性，鼓励用户尝试并反馈，以促进AI技术的进一步发展。最后，提到了AI可能带来的不仅是工作效率的提升，还有人类文明的下一次飞跃，期待AI能替代脑力工作后，人类社会将迎来新的升级。</div>
+</div>
+</div><br>
+<h1>问题回顾</h1>
+<div class="qa-item">
+<div class="question"><strong>Q:</strong> 在这一轮AI浪潮中，你都参与了哪些项目？</div>
+<div class="answer"><strong>A:</strong> 在这轮AI浪潮中，我加入了美元基金永久资本，积极投资和孵化AI产品。之前我曾创业过两次，分别在2011年将今夜酒店特价卖给了京东，并在京东内部做了京东到家；2015年我再次创业，创办了对话式人工智能公司get。</div>
+</div>
+<div class="qa-item">
+<div class="question"><strong>Q:</strong> 你能先介绍一下Cherry studio是什么吗？</div>
+<div class="answer"><strong>A:</strong> Cherry studio最初是一个基于开源ChatGPT原理的Chatbot客户端，可以接入市面上几乎所有模型，如OpenAI的GPT模型、云模型、木乃伊模型以及国内的深陷千问、KIMI、GM等。2023年9月份之后，我们将其升级为一个agent客户端，底层使用class agent SDK实现了AIGC能力，并全面支持各类云代码特性，如skill、commands、party等，现在也在向更自主化的方向演进，增加了心跳、定时任务和外部channel连接等功能。</div>
+</div>
+<div class="qa-item">
+<div class="question"><strong>Q:</strong> Cherry studio一开始设计的初衷是什么？</div>
+<div class="answer"><strong>A:</strong> Cherry studio的初衷是在AI行业发展迅速且充满机遇的背景下，作为一个桌面客户端，让用户能够方便地接入和使用各种AI单元模型，以提高学习和掌握AI技术的效率，同时尽可能全面覆盖各类模型特性，让用户有一个更全面学习AI的机会。</div>
+</div>
+<div class="qa-item">
+<div class="question"><strong>Q:</strong> 你们是什么时候开始将Cherry studio当作主业来做的？</div>
+<div class="answer"><strong>A:</strong> 我们大约在2023年8月份开始投入更多精力在Cherry studio上，随着行业观察深入和用户需求增长，在DeepSIK爆火之后，注册用户量大幅增加，特别是在知识库功能方面，Cherry studio因其文档详尽且实用而受到用户欢迎。这时我们意识到这个项目具有很好的商业化前景，并决定将其作为主业来经营。</div>
+</div>
+<div class="qa-item">
+<div class="question"><strong>Q:</strong> 为什么决定以开源形式来做这个项目？</div>
+<div class="answer"><strong>A:</strong> 当时选择开源形式是因为ChatGPT很火热，我们希望通过开源吸引更多用户尝试和使用，同时由于自身资源和人力有限，也希望社区贡献者能参与进来共同完善项目。初期并没有把它当作主业来经营，而是作为一个业余项目或者学习工具去做。</div>
+</div>
+<div class="qa-item">
+<div class="question"><strong>Q:</strong> 当初为什么决定全职投入做这个项目？</div>
+<div class="answer"><strong>A:</strong> 因为之前在CDN托管上遇到不稳定性和突发的大流量问题，这导致了项目运营非常狼狈，无法真正抓住行业发展的趋势和红利。因此，为了应对这种情况并持续发展，决定全职来做这个项目。</div>
+</div>
+<div class="qa-item">
+<div class="question"><strong>Q:</strong> 现在项目的开发团队和社区贡献情况如何？</div>
+<div class="answer"><strong>A:</strong> 目前，项目的代码贡献量中，社区贡献者的贡献远远超过我们自己的贡献。在github上查看数据时，社区贡献者长期占据第二、第三名的位置，甚至超过了核心开发人员。</div>
+</div>
+<div class="qa-item">
+<div class="question"><strong>Q:</strong> 在开源社区中团结和管理贡献者的方式是怎样的？</div>
+<div class="answer"><strong>A:</strong> 我们很早就意识到要团结对项目有热情、愿意持续投入的小伙伴。我们会主动与他们联系，添加微信并邀请进群，甚至在项目初期就为贡献者报销相关费用，提供更好的工具资源支持，如报销cloud code订阅费，为学生开通美团企业版等。</div>
+</div>
+<div class="qa-item">
+<div class="question"><strong>Q:</strong> 社区贡献者是否在主导项目发展方向？</div>
+<div class="answer"><strong>A:</strong> 起初项目以我们自己为主导，后来逐渐转变为由我们主导路线和规划，同时接受社区的参与和贡献。尽管如此，相较于很多由公司内部研发力量主导的开源项目，我们的项目更倾向于接纳外部贡献者，这在一定程度上体现了项目的不典型性。</div>
+</div>
+<div class="qa-item">
+<div class="question"><strong>Q:</strong> 面对众多外部贡献者，如何保持对产品的定位和平衡？</div>
+<div class="answer"><strong>A:</strong> 我们采用开源的方式来运作项目，充分尊重贡献者的功能提议，但在合并代码时会综合考虑代码质量、维护频率以及需求的真实性，避免功能过于庞大或偏离产品定位。我们倾向于保持一定的开放度以保持产品活力，同时确保产品能跟上AI快速发展的趋势。</div>
+</div>
+<div class="qa-item">
+<div class="question"><strong>Q:</strong> Cher Studio当前的主要用户群体是什么样的？</div>
+<div class="answer"><strong>A:</strong> Cher Studio的用户分布广泛，包括技术型用户、学生、办公场景用户、小型企业以及大型企业。用户群体从理解API的技术型用户扩展到了不完全理解API的普通用户，这也反映出我们在用户引导和错误提示方面还有待改进。</div>
+</div>
+<div class="qa-item">
+<div class="question"><strong>Q:</strong> 那么用户是否需要自己提供key才能使用叉四队（APAX）的模型？</div>
+<div class="answer"><strong>A:</strong> 我们已经为用户做了微商配置，用户通过登录后就可以使用很多模型，我们在这个过程中保持克制，并未给第三方提供额外倾向或侧重，简化了用户使用门槛。</div>
+</div>
+<div class="qa-item">
+<div class="question"><strong>Q:</strong> 企业版是如何解决IT管理员和员工的问题的？</div>
+<div class="answer"><strong>A:</strong> 在企业解法中，IT管理员在后台做好配置，员工无需关注具体配置流程即可直接使用相机等功能，相比个人版，企业版在简化用户操作上有一定优势，但还未做到极致。</div>
+</div>
+<div class="qa-item">
+<div class="question"><strong>Q:</strong> 为什么选择让用户自行获取key，而不是直接提供服务或订阅计划？</div>
+<div class="answer"><strong>A:</strong> 这样做是因为初期资源有限，无法像第三方那样补贴用户以较低价格调用模型。早期用户使用是平进平出，自行承担成本，这种方式虽然门槛较高，但也促使用户反馈和习惯沉淀在产品内。</div>
+</div>
+<div class="qa-item">
+<div class="question"><strong>Q:</strong> POE平台在商业化决策上有何独特之处？</div>
+<div class="answer"><strong>A:</strong> POE不仅提供网站和客户端上的模型服务，还开放API供第三方调用，其中通过API调用POE服务的软件在社区中排名第一，超过了其他知名coding工具。这表明我们能在商业化和社区平衡方面取得相对较好的成果。</div>
+</div>
+<div class="qa-item">
+<div class="question"><strong>Q:</strong> 团队规模是如何增长的？</div>
+<div class="answer"><strong>A:</strong> 团队从最初的两人团队发展到现在的九人全职团队，成员包括产品设计、商务和研发等多个岗位，团队规模扩大且分工明确。</div>
+</div>
+<div class="qa-item">
+<div class="question"><strong>Q:</strong> 对于开源软件和AI native组织的看法？</div>
+<div class="answer"><strong>A:</strong> 开源软件具有很高的灵活性和社区支持，对于新的AI native组织构建而言是一个优势。而对于已有的大型公司，由于历史包袱和组织结构复杂，转变为AI native组织存在较大挑战。而我们的公司在快速成长的过程中，能够更轻松地拥抱AI并进行组织优化。</div>
+</div>
+<div class="qa-item">
+<div class="question"><strong>Q:</strong> 新公司在利用AI解决问题方面面临的挑战是什么？</div>
+<div class="answer"><strong>A:</strong> 新公司在方法层面面临挑战，即如何让团队成员真正有效地利用AI来解决问题，而不仅仅是筛选相信AI的人。很多组织虽然聚集了一批相信AI的成员，但并未真正运用AI的方法去做事，没有最大化利用AI的杠杆加速组织运作方式的迭代。</div>
+</div>
+<div class="qa-item">
+<div class="question"><strong>Q:</strong> 在理念层面，AI能帮助企业解决什么样的问题？</div>
+<div class="answer"><strong>A:</strong> 在理念层面上，AI可以帮助企业减少对齐成本，比如通过产品功能设计构建AI总线，缩短组织目标对齐路径中的信息损失。此外，AI还能提升个人产能，挖掘企业数字化环境中的真正问题，帮助避免决策局限性并发现新机会。</div>
+</div>
+<div class="qa-item">
+<div class="question"><strong>Q:</strong> 你们内部有没有采用一些创新的写作方式或流程优化的例子？</div>
+<div class="answer"><strong>A:</strong> 我们最近的一个创新举措是要求产品经理编写完善的PRD（产品需求文档），确保AI能理解所有功能需求，而不是仅依赖敏捷快速地开发。同时，我们改变了研发和设计的角色分工，研发专注于技术选型、架构和质量把关，而设计师则提供前端可用的代码。这种转变使得协作流程从线性变为并行，围绕AI进行开发工作。</div>
+</div>
+<div class="qa-item">
+<div class="question"><strong>Q:</strong> AI技术在组织提效中具体发挥了多大的作用？</div>
+<div class="answer"><strong>A:</strong> 目前，通过这些变革，我们感觉组织提效大概提升了两三倍，但相信肯定有团队能达到十倍以上的提升。不过，尽管个人提效明显，但在组织层面的提效效果尚未达到理想状态。</div>
+</div>
+<div class="qa-item">
+<div class="question"><strong>Q:</strong> 对于未来产品形态的发展趋势，你们有何设想？</div>
+<div class="answer"><strong>A:</strong> 随着技术发展，产品形态将发生变化，例如从客户端转向基于云服务和API网关的形式。未来，用户可能不再需要安装客户端，而是通过集成到现有工作平台（如飞书、钉钉）的方式获取服务。长期来看，无论是IM交互方式还是客户端形态，都可能会因技术进步而受到冲击，最终服务形式将更加灵活多样。</div>
+</div>
+<div class="qa-item">
+<div class="question"><strong>Q:</strong> 在企业版本中，你们的产品会有怎样的功能升级？</div>
+<div class="answer"><strong>A:</strong> 在企业版本中，我们的产品将支持在云端以server的形式运行，通过一个中国客户端连接到其他应用如飞书、telegram，实现对外部channel的定时任务、心跳监测和控制等功能。下周就会发布这一更新。</div>
+</div>
+<div class="qa-item">
+<div class="question"><strong>Q:</strong> 对于企业用户来说，是否会考虑将产品部署在后端？</div>
+<div class="answer"><strong>A:</strong> 是的，从长期来看，我们认为该产品更适合部署在后端服务器上，而不是作为客户端运行，这样它可以更好地满足企业的需求，实现任务调度、数据处理等复杂功能。关于具体部署位置（云端还是边缘设备），我们仍在探讨中，但明确会朝这个方向发展，并已有相关计划。</div>
+</div>
+<div class="qa-item">
+<div class="question"><strong>Q:</strong> 未来是否会有类似云端工作室（Cloud Studio）的产品提供给用户？</div>
+<div class="answer"><strong>A:</strong> 我们会提供一个类似云端的工作室产品，让用户能够随时通过服务端访问。这个产品将关注生产环境的可用性、权限隔离、数据隔离以及角色感知等特性，同时也会借鉴OpenAI产品的优点进行设计。</div>
+</div>
+<div class="qa-item">
+<div class="question"><strong>Q:</strong> AI native的组织在使用哪些AI工具方面有哪些情况？</div>
+<div class="answer"><strong>A:</strong> 我们主要使用了Cloud Code作为主力工具，同时也用到了Constr、OpenAI的工具、派agent、Coder、Figma等产品。在某些场景下，我们会尝试将AI工具与Cherry Studio的AI能力进行对齐和整合，以提升效率和效果。</div>
+</div>
+<div class="qa-item">
+<div class="question"><strong>Q:</strong> 对于OpenAI的龙虾项目（即ChatGPT等AI能力的应用），普通用户是否有必要投入精力去研究或体验？</div>
+<div class="answer"><strong>A:</strong> 我认为OpenAI的出现确实是一个重要的科技趋势，建议有兴趣的用户尝试使用，亲自体验其在编写代码、设计等方面的实际效果。不过，用户不应期待它无所不能，而应在特定场景下有目标性地应用，这样才能获得更好的反馈。同时，创业者和产品思考者的思维模式也因此发生了变化，更加敢于赋予AI更大的空间和自由度。</div>
+</div>
+<div class="qa-item">
+<div class="question"><strong>Q:</strong> 你们在做AIBP（AI辅助的业务岗位）的培训和人才输出吗？对于真正做AIBP这件事，它是不是一个复杂且重大的任务？</div>
+<div class="answer"><strong>A:</strong> 我们目前还没有达到那个规模，但已经有一个中国studio讲师计划，并做了两期培训，大约有两百多人参与。不过，我们认为这个事情是可以做的，但实际上赋能还不够，需要有人来主导这个过程，AI可能可以解决一些重复性工作或增强能力，但关键还是人与人之间的交互和管理。是的，这是一个相当复杂且重大的任务。它涉及到结合最新的AI知识理念和解决方案，以及经典的管理学思维，并构建一套高效的培养组织网络体系。这样的事情在当今AI公司中是稀缺的，需要有人愿意去做，并且能够为整个行业带来价值。</div>
+</div>
+<div class="qa-item">
+<div class="question"><strong>Q:</strong> 在AI时代，开源形态是否更适合传统公司？</div>
+<div class="answer"><strong>A:</strong> 从质量角度来看，AI编写的代码质量目前还未超过人类，但随着AI能力的提升，这种情况可能会发生改变。从管理角度看，开源项目本身可能更适合AI时代，因为它允许各种能力和资源自由贡献和整合，尽管有人担忧AI可能仅停留在表面的代码修改层面。</div>
+</div>
+<div class="qa-item">
+<div class="question"><strong>Q:</strong> 当前管理AI的原则和方法论是否可以借鉴传统管理学？AI在工作中能否帮助提高管理效率？</div>
+<div class="answer"><strong>A:</strong> 是的，许多管理学原则如明确表达需求、及时给予反馈等，在管理AI时同样适用。随着AI能力的进化，未来管理AI的方法论可能会更加依赖于先进的管理学手段，如目标型授权等，同时也要设定边界以避免AI偏离预设目标。例如，AI可以协助审查和优化工作成果，通过对比不同版本找出差异，甚至主动提出改进建议，从而减少繁琐的手动管理工作，让管理者能更专注于高层次的战略和创造性思考。</div>
+</div>
+<div class="qa-item">
+<div class="question"><strong>Q:</strong> 在您管理不擅长的领域时，如何进行有效的管理？</div>
+<div class="answer"><strong>A:</strong> 当我管理自己不擅长的领域时，比如硬件产品的结构设计，我会设定明确的目标和权衡标准，而不是试图立刻掌握所有细节。我会关注生产成本、产品可靠性、外观还原等关键要求，并通过沟通与团队成员协作，让他们了解我在项目上的重点是在成本、可靠性还是用户体验上，这样的沟通方式有助于更顺畅的合作。</div>
+</div>
+<div class="qa-item">
+<div class="question"><strong>Q:</strong> 您对Chair Studio这款产品的认识和它的定位是什么？</div>
+<div class="answer"><strong>A:</strong> 我了解到Chair Studio是一个填补市场空白的产品，尤其适合非研发同事使用，它提供了网页版ChatGPT和多模型支持，满足了团队在多场景下的需求。随着AI技术的发展，Chair Studio在未来的目标是帮助企业实现AN native组织建设，提升组织整体效能至少十倍，甚至百倍，并且不仅限于B端客户，也包括C端个体用户。</div>
+</div>
+<div class="qa-item">
+<div class="question"><strong>Q:</strong> 对于想要尝试Chair Studio的用户，有什么推荐吗？</div>
+<div class="answer"><strong>A:</strong> 欢迎大家试用Chair Studio，社区版对所有人免费开放，包括小团队也可以免费使用。企业客户也可以了解并尝试其企业版，在公司层面实践并提供反馈。同时，Chair Studio采用完全开放的模型策略，用户可以自由选择使用模型，不必局限于特定平台或付费投币。</div>
+</div>
+<div class="qa-item">
+<div class="question"><strong>Q:</strong> 您如何看待AI带来的影响以及人类文明可能的下一次跃升？</div>
+<div class="answer"><strong>A:</strong> AI可能带来的最大影响之一是替代人类的知识工作或脑力劳动，这可能会促使人类文明实现下一次重大飞跃。当人类不再需要从事体力劳动后，就像工业化社会生产飞跃一样，人类可以有更多时间和精力投入到更高层次的创新和发展中，甚至可能出现新的“特异功能”般的智能体，推动人类社会进入更高维度的发展阶段。</div>
+</div>
+<h1>节目文稿</h1>
+<p class="transcript-line">
+<span class="time"><strong>[00:00:01]</strong> </span>
+<span class="speaker"><strong>发言人1: </strong></span>
+AI是人类历史上最激动人心的技术革命，也是我们这一代人最大的挑战与机遇。我们这些从业者就是一群充满好奇的炼金术士，想通过不断的猜想、实验。
+</p>
+<p class="transcript-line">
+<span class="time"><strong>[00:00:14]</strong> </span>
+<span class="speaker"><strong>发言人2: </strong></span>
+搞出黄金或者放个烟花。
+</p>
+<p class="transcript-line">
+<span class="time"><strong>[00:00:16]</strong> </span>
+<span class="speaker"><strong>发言人1: </strong></span>
+无论结果如何，过程应该都会很好玩。我是任心，创业过两次，卖过两家公司。2011年我创业今夜酒店特价卖给了京东，在京东内部做了京东到家。2015年我再次创业，做了对话式人工智能公司get。这一轮AI浪潮里，我加入了美元基金永久资本，积极投资和孵化AI产品。
+</p>
+<p class="transcript-line">
+<span class="time"><strong>[00:00:38]</strong> </span>
+<span class="speaker"><strong>发言人3: </strong></span>
+我是徐文浩，曾经做过国内最早的机器学习广告系统，每天处理百亿的广告流量，最终公司被收购。2016年我创办过一个AI聊天机器人的公司go top。这一轮的AI浪潮里，我再次创业来做AI for shopping，担任首席技术官。
+</p>
+<p class="transcript-line">
+<span class="time"><strong>[00:00:55]</strong> </span>
+<span class="speaker"><strong>发言人3: </strong></span>
+我和任心是大学同学，现在都在搞AI都算是一线实战的AI炼金术士。在这档播客中，我们会定期交流彼此最新的实践和观点，也会邀请我们欣赏有动力的朋友们一起来分享碰撞。希望通过这些深入的对话与交流，能帮助我们所有人点燃炼金的芦火。欢迎大家来到新一期的AI炼金术。今天我们又邀请到一位做了一个很好产品的一个创始人。他们的产品我们其实也是他们最早一批的商业用户。
+</p>
+<p class="transcript-line">
+<span class="time"><strong>[00:01:30]</strong> </span>
+<span class="speaker"><strong>发言人2: </strong></span>
+大家好，我是医生，然后是这个Cherry dido的创始人。然后今天非常高兴能在这里跟大家交流。
+</p>
+<p class="transcript-line">
+<span class="time"><strong>[00:01:37]</strong> </span>
+<span class="speaker"><strong>发言人3: </strong></span>
+你能先介绍一下Cherry studio是什么吗？虽然我知道可能chers studio在很多用户中已经非常知名了，但是我们其实大家都看过一张图，就是前一阵子流行那张图，就是世界上可能有百分之八九十的人连ChatGPT都还没有用过。然后很多人可能看到chair studio会说，这是个minus吗？这是个ChatGPT吗？我相信我们听众中有很多人可能听说过chair studio，可能也有一小部分用户用过chair studio，可能也有很多用户是没有用过chair to do的。所以你今天先给大家介绍一下chair seto是一个什么样的产品？
+</p>
+<p class="transcript-line">
+<span class="time"><strong>[00:02:10]</strong> </span>
+<span class="speaker"><strong>发言人2: </strong></span>
+Chat study的话最早的话它就是一个chatbot的一个客户端，可以等同于理解是一个开源的ChatGPT。但是它可以接入市面上当时几乎是所有的单元模型。无论是这个OpenAI的GPT的模型，还是cloud模型，还有这木乃伊，还是国内的像这个deep seek千问、kimi、GM等等等等。
+</p>
+<p class="transcript-line">
+<span class="time"><strong>[00:02:37]</strong> </span>
+<span class="speaker"><strong>发言人2: </strong></span>
+就是2025年9月份之后，我们把它升级为了一个agent的一个客户端。它是底层是用了class agent SDK去实现了整个A正的能力。然后到目前的话，它也是全量的支持这个cloud code，或者cloud code的一些特性，像skill、像commands，像party等等等等。他现在也在向一个更自主化的方向去演进，加入了像心跳，像定时任务，还有像外部channel连接的一些能力。这就是Cherry do的一个简单的介绍。
+</p>
+<p class="transcript-line">
+<span class="time"><strong>[00:03:12]</strong> </span>
+<span class="speaker"><strong>发言人1: </strong></span>
+但是我对Cherry studio一开始的印象，其实它不光是套，可它就是个可你可以装在自己电脑上摇摇软件，然后你被后台该接想接啥模型都可以接。然后你还可以在上面配什么知识库，调那个prompt，创建agent，反正就把各个模型让你更更方便集中在一个地方，可以配置，可以用了。再往现在慢慢的发展，就会发现上面的功能越来越多。然后刚刚听你讲，我简直觉得就是之前比如说他是做process engineer做agent，那你现在感觉听你讲养的越来越像小龙虾。他感觉是harness的，harness engine的那一层，你们也在做，就越来越聋瞎画的那种。可对，大概这样子理解对吗？
+</p>
+<p class="transcript-line">
+<span class="time"><strong>[00:03:52]</strong> </span>
+<span class="speaker"><strong>发言人2: </strong></span>
+其实是有一些像的。因为这个事情我们在o cloud刚出来那会儿，其实我们还没有关注到的情况下，我们那会儿已经有在内部讨论这个AZ的下一步的计划。当时有一个比较明确的方向，就是long running这个面的一些东西。因为现在的cloud code也好，还是go work也好，它本质还是人类的一个工具，它是工具型的A着的那我们在看到这个抛开消耗量的一个曲线的时候，它是有明显的波峰和波谷的那我们认为在未来的时候，整个偷窥的消耗量，它会向这个工业革命之后，这个机器是24小时运转，会填平这些波峰和波谷。那这个依赖渝A真的是可以完全自主化去工作的，而不是依赖于由人去触发他的任务。所以我们当时认为这个running的基础就是它要有心跳的机制和有定时的任务，还有一些事件触发。所以这是当时我们的一些规划，但是很快就看到了这个op cloud爆火。然后大家确实有一些些在理解上比较接近的地方了。当然这个事情其实也不是open cloud率先提出来的。其实在第三方一些类cloud code的产品当中，已经有这种功能体现了。
+</p>
+<p class="transcript-line">
+<span class="time"><strong>[00:05:12]</strong> </span>
+<span class="speaker"><strong>发言人3: </strong></span>
+其实我有几个问题比较好奇，就是当时最早一开始为什么会决定来做Cherry studio这样一个产品？
+</p>
+<p class="transcript-line">
+<span class="time"><strong>[00:05:20]</strong> </span>
+<span class="speaker"><strong>发言人2: </strong></span>
+这里面其实还有一个小小的一个渊源，就是我的合伙人王千应该是文浩的老同事老下属了。我在上家公司是一家做智能硬件的公司，然后我在那家公司是做一个产品合伙人，但是跟AI其实关系不大的那我在之前的经历的话是在互联网公司和AI公司多一点。那那AI公司的话比较有代表性，就是叫依图，它也是这个AI什么视觉四小龙之一。我一直对AI还是非常有有热情和关注的。
+</p>
+<p class="transcript-line">
+<span class="time"><strong>[00:06:00]</strong> </span>
+<span class="speaker"><strong>发言人2: </strong></span>
+然后在上家公司的时候，就24年年初我当时就想这个AI行业发展很快，真的是非常好的一个时代，自己来去深度的去使用它，去学习它，掌握它，甚至做点东西，这个是最好的一个状态。但在那会儿已经感觉到，就是光从使用层面来去学习，它的效率已经很低了。因为每天层出不穷新的概念。当时觉得做东西是学东西的一个非常好的一个方式。所以我当时就开始找想了一个概念，就怎么去做一个在单元模型之前他没有的这个没有的产品AI之后他有了，然后以及它能尽可能全面的覆盖单元模型的所有这些特性。能让自己有一个更全面学习AI的一个机会。然后我就构思了一个桌面客户端。
+</p>
+<p class="transcript-line">
+<span class="time"><strong>[00:06:57]</strong> </span>
+<span class="speaker"><strong>发言人2: </strong></span>
+其实那会儿我因为在高强度的使用chat GT plus那个会员，经常会触发5小时30次，还是3小时15 10次那个limit。当时我就觉得肯定我要在PC端上去做了。因为他跟我的很多工作的这个呃环境，很多工作流它都已经相关了。它显然是一个效率工具的定位，当时也用过类似于open web UI之类的这种产品，但是觉得这个网页端的体验整体不是特别好。而且网页端它有一个比较大的弊端，就是它的部署很麻烦。它要有一个peep的一个环境，或者是有一个docker的一个环境，然后还要自己去做数据持久化。反正没有点技术能力的话，它其实还蛮难搞的。我就觉得做一个客户端，用户下载它装上去就能用，这是一个反倒是低门槛的一个方式。所以我当时就写了一个文档，做了一些简单示意图，就开始找朋友做。
+</p>
+<p class="transcript-line">
+<span class="time"><strong>[00:07:57]</strong> </span>
+<span class="speaker"><strong>发言人2: </strong></span>
+然后找了大概三五个朋友，做出来的效果都不是让我特别的理想。我就在给他那去去翻已经有的这个项目，就找到了王谦当时做的项目，他是在github是七月中下旬发的第一个版本。然后0.02那会儿，其实那个版本非常简单，就是一个接了四五个provider，配上K之后他就可以对话，除此之外没有任何功能了。
+</p>
+<p class="transcript-line">
+<span class="time"><strong>[00:08:22]</strong> </span>
+<span class="speaker"><strong>发言人2: </strong></span>
+然后我找到他之后，但是我感觉整体的这个框架跟我想象当中的还是挺match的。我就联系他他在给他的这个主页上留了一个联系方式，然后我就约他喝咖啡。原来我们就都住在一个地方，都住在这个嘉定区的南翔镇，然后隔了就几百米。其实是一个非常巧妙的一个缘分。
+</p>
+<p class="transcript-line">
+<span class="time"><strong>[00:08:45]</strong> </span>
+<span class="speaker"><strong>发言人2: </strong></span>
+我们在线下见完面之后，觉得对这个事情的想法还是有一些一致性的那我们就开始决定一起做。八月份的时候我见到他，然后一直往功能更丰富的这个方向去做。加了像web search，加了知识库，后来加ICP这一系列的迭代下来，其实我觉得我们做对了两件事情。一个是在功能迭代上，我们还是保持了比较稳定的节奏。第二个我们选的这个客户端的这个形态，它的确对用户的这个安装部署来讲是更简便的。而且我们比当时市面上其实也有一些其他的客户端形态的一些项目，但是整体的界面或者是这个交互的友好程度也会稍好一些，所以在那会儿得到了一个社区第一阶段的一个认可。每个月到年底的时候，每个月差不多稳定会有1k star的一个增速，一直到接近春节的时候，已经有4k star了，那会儿还是挺有成就感的，因为其实我是第一次做看音响，大概花了小半年的时间做了4K让他觉得这个是一个小小的成就。
+</p>
+<p class="transcript-line">
+<span class="time"><strong>[00:09:56]</strong> </span>
+<span class="speaker"><strong>发言人1: </strong></span>
+大家还是比较实在的。听众就是会想说，我们来聊这个产品，因为我跟徐荣浩，因为都是你产品用户。那你可不可以想想你现在一共在get up上有多少颗星，有多少。
+</p>
+<p class="transcript-line">
+<span class="time"><strong>[00:10:07]</strong> </span>
+<span class="speaker"><strong>发言人2: </strong></span>
+用户来现在应该是有接近42K.
+</p>
+<p class="transcript-line">
+<span class="time"><strong>[00:10:11]</strong> </span>
+<span class="speaker"><strong>发言人1: </strong></span>
+的42000颗星。Skit b上的中国圈子圈子里面算是给在开源项目里面算非常大的一个是吧？
+</p>
+<p class="transcript-line">
+<span class="time"><strong>[00:10:18]</strong> </span>
+<span class="speaker"><strong>发言人2: </strong></span>
+应该是我没有太了解大家这个分布。
+</p>
+<p class="transcript-line">
+<span class="time"><strong>[00:10:21]</strong> </span>
+<span class="speaker"><strong>发言人3: </strong></span>
+我可以举一个例子，就是现在史上最多新的项目大概是最近的这个open cloud，对吧？Open cloud大概是30万心.
+</p>
+<p class="transcript-line">
+<span class="time"><strong>[00:10:30]</strong> </span>
+<span class="speaker"><strong>发言人1: </strong></span>
+open cloud是全球最牛，大概30万。然后我们Terry study有4万，所以大家可以感受到一下这个含金量。
+</p>
+<p class="transcript-line">
+<span class="time"><strong>[00:10:37]</strong> </span>
+<span class="speaker"><strong>发言人3: </strong></span>
+第一个，当时为什么决定用开源的形式来做这个项目呢？因为其实当时ChatGPT也很火热，对吧？我相信作为一个产品，周围还是有很多朋友愿意用的，就像你们有很多很多star一样。也许不开会的话可能没有那么多star但是可我相信可能用户量也未必会少，甚至可能因为是闭源的，更多的用户会用可以直接付费。
+</p>
+<p class="transcript-line">
+<span class="time"><strong>[00:11:00]</strong> </span>
+<span class="speaker"><strong>发言人2: </strong></span>
+坦白一点，就是当时也没有把它当成一个主业来去做，就当时觉得是一个类似于学习，然后又能同时给别人也带来一些使用便利的角度去做的这个事情。起码在第一天的时候，没有非常严肃的去想商业化这件事情。所以我们就选了这个开源。然后再有一个就是我们也觉得自己在当时的这个资源和人力的情况下，是没有办法持续把它迭代到一个非常健全的一个状态。所以我们觉得也希望有一些社区的贡献者可以参与进来，然后把它做得更好。但其实蛮长时间都没有人参与的，他基本上就是我的合伙人，他在写代码，然后我就在提需求的一个状态。但是真正有有贡献者可能都是有比较密集的贡献者的话，大概就是到了25年年初的时候了。
+</p>
+<p class="transcript-line">
+<span class="time"><strong>[00:11:54]</strong> </span>
+<span class="speaker"><strong>发言人3: </strong></span>
+所以当时你们两个人都是还是说没有全职在做这个项目。它是相当于从一个个人的一个side project或者业余时间大家在做，觉得这东西有意思，所以大家开时间开始慢慢做的是吧？
+</p>
+<p class="transcript-line">
+<span class="time"><strong>[00:12:08]</strong> </span>
+<span class="speaker"><strong>发言人2: </strong></span>
+对，是的。
+</p>
+<p class="transcript-line">
+<span class="time"><strong>[00:12:09]</strong> </span>
+<span class="speaker"><strong>发言人3: </strong></span>
+什么时候你们开始觉得说我们其实应该把它当成是一个自己的主业来干了。就是在什么时候阶段你们会有这个感受，好像我做原来的那份工作，还不如我直接把这个事儿当成个事业来干。
+</p>
+<p class="transcript-line">
+<span class="time"><strong>[00:12:21]</strong> </span>
+<span class="speaker"><strong>发言人2: </strong></span>
+第一个阶段是大概做我们八月份开始做，做到十一之后，两三个月之后，我当时觉得因为对行业也有了更多的一些新的观察和理解，我觉得这个事儿肯定是有商业化机会的。肯定不单纯是一个业余项目的一个感觉了。就是让我觉得可以到这个时间点的时候，就是那个deep sik爆火。那个时候deep sik当时爆火了之后，出现了一系列的怎么叫连锁反应。然后deep seek官网一直在绷，一直在挂，轨迹流动就那增加了他们的模型，用那个升的服务器，最早的时候就接了晦气流动的这个provider。那客户端在在安装上又相对简单，所以就很多用户是奔着这个用dept sick来的。然后就注册了硅基流动，然后在Christy里面硅基硫动。
+</p>
+<p class="transcript-line">
+<span class="time"><strong>[00:13:17]</strong> </span>
+<span class="speaker"><strong>发言人2: </strong></span>
+再有一个就是在当时硅基流动的官网，实际上是没有提供知识库这个功能的。知识库的原理它很简单，就是一个reg加一个召回的东西。但是在当时市面上同类的这个产品当中，有知识库的也还蛮少的。然后就很多人去DP个官网问怎么做一个用AI做一个自己的知识库。因为我们在当时这个官网的这个文档里面，就写了还比较多关于知识库的一些说明。Deep seek又用了薄查的搜索引擎，博查的搜索引擎的这个算法，会对那个说明更详细、更全面的这种的这个项目加权重，然后我们就被deep seek推荐出来了。然后deep sick就告诉这个用户，你可以去下载一个Cherry studio，然后接入deep sick的这个模型，就可以有自己知识库。很多用户就一下就涌进来了。
+</p>
+<p class="transcript-line">
+<span class="time"><strong>[00:14:13]</strong> </span>
+<span class="speaker"><strong>发言人2: </strong></span>
+我们我们当时那个CDN托管在cloud flare，因为github国内用户下其实是不太稳定的，然后cloud flared还比较稳，但是他一个月就两T的那个流量，我印象就是一个上午两三小时就给干光了，就跟那个流浪汉一样，到处去瞟人家的CDN，然后切来切去，每天就应对这种的非常大的下载流量。勉勉强强，撑过了那个爆发阶段。然后到那个阶段的时候，我就觉得，这个事情已经是箭在弦上了，就必须得出来全职做了。要不然的话就前面这些很狼狈的这种的情况还会持续发生。以及我们没有办法真正去承接住行业的发展的这些趋势和和红利。所以我们觉得应该要出来了。
+</p>
+<p class="transcript-line">
+<span class="time"><strong>[00:15:07]</strong> </span>
+<span class="speaker"><strong>发言人3: </strong></span>
+听起来是用户追着你们屁股后面说，你们出来坐吧，你们出来坐吧，而不是说你们设想好说，我已经想出来做了，是发现说感觉是说不出来，做都已经说不过去了。
+</p>
+<p class="transcript-line">
+<span class="time"><strong>[00:15:18]</strong> </span>
+<span class="speaker"><strong>发言人2: </strong></span>
+对吧？是是是对不住大家的要求了，已经。
+</p>
+<p class="transcript-line">
+<span class="time"><strong>[00:15:21]</strong> </span>
+<span class="speaker"><strong>发言人3: </strong></span>
+第二个是也会比较好奇，就像你说的，一开始其实是虽然是个开源项目，但其实是只有你们自己在贡献这个项目，对吧？但是现在我理解是说，但是到现在，现在其实是整个的chair studio有多少，还是说是你们自己的全职团团队在开发，还有有多少是说其实已经越来越多是社区贡献的。不管是他们的IDA，他们的想法，还是他们直接提贡献的代码。
+</p>
+<p class="transcript-line">
+<span class="time"><strong>[00:15:47]</strong> </span>
+<span class="speaker"><strong>发言人2: </strong></span>
+从贡献的代码量来讲，其实是社区的贡献量已经远远超过我们的自己的这个贡献量了。然后其实可以因为github上可以看到一个数据统计，比如像这个在在contributors那个页面很长时间就是第二三名都是社区的贡献者，然后王倩只能排到第三名、第四名了。当然最近又发生一些变化，就是cloud的那个排名排到了第一，社区贡献者已经排到第二了。
+</p>
+<p class="transcript-line">
+<span class="time"><strong>[00:16:20]</strong> </span>
+<span class="speaker"><strong>发言人3: </strong></span>
+对，现在大家的代码都是cloud贡献第一了。
+</p>
+<p class="transcript-line">
+<span class="time"><strong>[00:16:23]</strong> </span>
+<span class="speaker"><strong>发言人2: </strong></span>
+再就是那个想法的层面的话，其实当然最早期的时候是我们自己为主，中间一个蛮长的时间是社区。可能每个人来TPI的时候都是有自己的想法的。那会儿我们也没有去做一个比较有秩序的组织。再后来的时候，我们就把这些核心贡献者拉到了一起飞书群里面。然后实际现在整个的路线和和规划是由我们来去主导，社区参与的一个状态。
+</p>
+<p class="transcript-line">
+<span class="time"><strong>[00:16:54]</strong> </span>
+<span class="speaker"><strong>发言人3: </strong></span>
+这个其实我我也会很好奇。第一个是当然是组织一个开源社区去做产品，其实本身就很不容易，他不像比如说我们是个商业公司，他的想法是非常明确的，特别是有很多开源项目。一般来说即使有很多开发商他是开源的，其实大部分的贡献者还是公司内部，对吧？其实是以公司内部的研发力量为主导，这个是主流的，开很多开源项目其实都是这样的。这就是为什么chair studio今天其实是一个我们我们撇开那个cloud的这个AI不算，就是会是外部的贡献者的会更大。这个其实我我会比较好奇。
+</p>
+<p class="transcript-line">
+<span class="time"><strong>[00:17:34]</strong> </span>
+<span class="speaker"><strong>发言人2: </strong></span>
+其实在我们这个项目里面，我觉得是一个还挺不典型的一个项目。就是我们很多贡献者，我们很多核心的贡献者是第一次做开业项目。而且他们都是从用户转向的贡献者，十来个贡献者里面学生占了将近一半，都是在什么北京，然后西安、广东，还有在英国，就是这些研二研三的学生占了那一半，他们其实热情也很高。
+</p>
+<p class="transcript-line">
+<span class="time"><strong>[00:18:06]</strong> </span>
+<span class="speaker"><strong>发言人2: </strong></span>
+然后再有一个，就是我们还有一些也有很有经验的一些小伙伴，这个规范方面也非常好，就形成了一个非常好的互补。我们也是很早就意识到贡献者不能让他随意的来，然后提完之后大家也没有联系，这种情况下肯定是大家的这种联络是弱的那我们很早就觉得要有热情，愿意持续投入的小伙伴团结到一起。我们就很早就把把大家我去每个人联系他们，加他们的这个微信，拉拉群。后来的时候我们整个搬迁到飞书上面去，我们在还没什么收入的情况下，我们就是每给每个贡献者报销20美金的科斯尔的订阅费，希望大家在这个事情上可以用得更好一点。再后来的时候是大家现在是给大家报销cloud code，有200美金的订阅，然后我们的核心贡献者都可以用最高档的扣扣的A键的这个工具。再就是我们还给我们的学生开通了美团企业版，大家每天可以点一个晚餐，然后还是有一些比较用心的。
+</p>
+<p class="transcript-line">
+<span class="time"><strong>[00:19:22]</strong> </span>
+<span class="speaker"><strong>发言人3: </strong></span>
+太接地气了。
+</p>
+<p class="transcript-line">
+<span class="time"><strong>[00:19:24]</strong> </span>
+<span class="speaker"><strong>发言人2: </strong></span>
+对对对，然后我们有一个贡献者，他在西北工大读书，然后他说他在山沟沟里面，30块钱都可以吃的，非常豪华的。
+</p>
+<p class="transcript-line">
+<span class="time"><strong>[00:19:36]</strong> </span>
+<span class="speaker"><strong>发言人3: </strong></span>
+然后也非常开心吧。
+</p>
+<p class="transcript-line">
+<span class="time"><strong>[00:19:39]</strong> </span>
+<span class="speaker"><strong>发言人2: </strong></span>
+我觉得这个也是我们体现出我们愿意去团结大家，愿意给大家去做一些基本的支撑一个意愿。
+</p>
+<p class="transcript-line">
+<span class="time"><strong>[00:19:49]</strong> </span>
+<span class="speaker"><strong>发言人3: </strong></span>
+这个很有意思，这是个另一种用外卖经营社群的方式是吧？
+</p>
+<p class="transcript-line">
+<span class="time"><strong>[00:19:55]</strong> </span>
+<span class="speaker"><strong>发言人2: </strong></span>
+这个订阅和外卖对。
+</p>
+<p class="transcript-line">
+<span class="time"><strong>[00:19:58]</strong> </span>
+<span class="speaker"><strong>发言人3: </strong></span>
+好奇的就像你说的，你们来提供这个产品方向，然后有越来越多的外部贡献者的时候，第二个会遇到说因为产品它都有定位。之所以我说很多开源产品其实是公司内部主导，一般外围的需求都是大家会选择性的接受或者不接受，或者说外围的很多的贡献者提供的就是很多是一些简单的PR对吧？就是在你们这个其实由外部贡献者占最更多，我的这个提交或者代码贡献的时候，你们对自己的产品的定位会是什么呢？会出现这种就是说贡献者说我想做这个功能，你们觉得他跟产品其实不一定有关系，或者说和你们的想法不太一样。会有这种讨论也好，讨论、争论或者说会导致说这个产品本身变得过于什么都能做？
+</p>
+<p class="transcript-line">
+<span class="time"><strong>[00:20:50]</strong> </span>
+<span class="speaker"><strong>发言人2: </strong></span>
+我觉得这个情况肯定是存在的，必然是存在的。然后其实在于某种程度上，也有一些用户在抱怨他好像什么都能做，就是功能有点多，这种情况也有。然后也确实还有用户反馈说还缺什么功能，希望功能变得更多。然后这个在社区层面也是一样的，就是有些贡献者也觉得他的功能有点多了。也有想做新功能的贡献者，这个我觉得它是必然存在的。
+</p>
+<p class="transcript-line">
+<span class="time"><strong>[00:21:21]</strong> </span>
+<span class="speaker"><strong>发言人2: </strong></span>
+我们是真的去用开源的方式来做的话，而不是说纯粹的把代码开放出来。但是还是公司主导，我们还是希望能在当中取一个平衡。最早的时候其实一个功能我们觉得有一定的实用价值，不是特别的离谱的时候，我们都会往里合的，不会给大家特别强制的约束，然后还是充分尊重贡献者的一些想法。但是我们也会去看它整个代码质量，他这个人持续维护的一个频率，以及这个功能它是不是完全的伪需求，或者说完全的是自嗨型的这种需求，我们可能也会拒绝掉。就在这中间取了一个平衡，里面也有两个很很底层的想法，一个就是我们的人手资源确实少，我们确实要更更加的依赖社区。然后第二个我们认为在今天去做所谓的克制和小而美，在AI的这个时代不是特别适用的，因为AI的变化非常快，会层出不穷的新的概念，新的功能。
+</p>
+<p class="transcript-line">
+<span class="time"><strong>[00:22:39]</strong> </span>
+<span class="speaker"><strong>发言人2: </strong></span>
+如果你保持小而美或保持极度克制，这个产品可能他是没有办法一直跟上这个发展趋势的，所以我们当时也是选择了更加开放的一个状态。甚至我们觉得这个东西它到后面的时候就并非是一个完全给用户用的东西，它会变成一个AI的一个。这种情况下，它很多的复杂度其实会被屏蔽到这个A站的背后。用户实际上是不需要看到那么多复杂度的东西的，但是前期这些贡献它都是很有价值的那举一个例子来讲的话，就是之前我们有个社区贡献者，他想在里面做一个笔记的功能。我当时觉得这笔记功能其实挺扯的。我有abc我有notion，我为什么要在Charles DO里面再去用一个笔记呢？但是其实在蛮长的时间之后，我发现笔记这个能力在整个你把它当成A证可以用的一个工具，当成他的一个info的一环的话，发现它还是有它的价值的那他会可以提供更好的跟AI更精确颗粒度的一个交互的一个界面，然后也可以作为AI和人交互产物的一个一个沉淀的一个一个功能。所以我就觉得他好像也有新的价值，所以保持一定的开放度，对产品保持活力，我觉得在今天来讲是很重要的。
+</p>
+<p class="transcript-line">
+<span class="time"><strong>[00:24:06]</strong> </span>
+<span class="speaker"><strong>发言人3: </strong></span>
+明白，所以听下来就签出的在开源上选择的一个叫哲学。他其实相对比较开放的，就是只要你们觉得它是有意义的，其实你们并不会说，因为我们觉得这个产品要小而美。比方说说所以我只接受我任何的功能，或者说你们只接受说我们就只是个agent，所以你们这些扩展功能其实和我没关系，对吧？你就你们可能会选择说，你们只要自己觉得说大致上整体上觉得贡献者愿意花时间花精力去维护。然后你们觉得从在AI时代来讲，它可能就是AI功能可以提供的一部分，你们就会选择把它合进来。所以某种程度上讲，它的功能也就会变得越来越丰富，越来越多。
+</p>
+<p class="transcript-line">
+<span class="time"><strong>[00:24:51]</strong> </span>
+<span class="speaker"><strong>发言人3: </strong></span>
+下一个好奇的问题就是在这个场景下，今天所以你们去观察cher studio的用户更多的是哪些用户呢？就他的用户群体是一个什么样的现象？因为举个例子，就像最近open cloud虽然非常火，对吧？但也有很多人说，我用cloud code不就是够了吗？像我们有些人会觉得说，我们程序员其实半年前或者九个月前用cloud code就已经是他是个agent了。为什么你们现在看到overcloud那么稀奇呢？
+</p>
+<p class="transcript-line">
+<span class="time"><strong>[00:25:18]</strong> </span>
+<span class="speaker"><strong>发言人3: </strong></span>
+Cher 4的用户会是一群什么样的用户呢？今天在你看来他是更多的是个人用户或者是学生，还是专业的。比如说办公场景的用户还是可能技术类型的用户，我是大企业在采用还是小企业在采用？
+</p>
+<p class="transcript-line">
+<span class="time"><strong>[00:25:35]</strong> </span>
+<span class="speaker"><strong>发言人2: </strong></span>
+我觉得chair studio是现在是用户分布极其的广。最早的时候其实是偏技术型的用户，其实他起码得理理解API，理解K是什么东西，他才用得起来。然后当时我们观察到技术用户对他的一个拥抱程度，其实超出了我们想象。因为我们最想最早想的是技术用户可能会更偏向于o open web UI或者是一些更硬核的一点的一些产品，然后自己搞个刀割部署之类的。我们发现开发者其实技术型用户，他也不会没苦硬吃，不想去整天搞刀客的一些东西。有一个简单的工工具能完成他的需求的话，他也愿意用。
+</p>
+<p class="transcript-line">
+<span class="time"><strong>[00:26:18]</strong> </span>
+<span class="speaker"><strong>发言人2: </strong></span>
+然后第二阶段的时候，我们就发现好像用户群体发生一些变化了。就是有些用户他并不是很理解那些API和K是什么这个东西的情况下，他也想用。我第一次有很强烈的感受就是有个用户在拍照给我们反馈问题，照片拍的不是很清楚，我就问他你能不能截图发我，他问我怎么截图？我当时就想这是一个什么样的用户，然后怎么连截图都不会，还在用cha studio是吧？
+</p>
+<p class="transcript-line">
+<span class="time"><strong>[00:26:49]</strong> </span>
+<span class="speaker"><strong>发言人2: </strong></span>
+后来发现他真的不是孤立，就是有很多很多这种用户他也不理解什么。比如说他当时误打误撞的注册了这个硅基流动，然后因为我们在轨迹流动跟Christ做了一个OSS登录，登录完了之后，它是有一个14块钱的一个赠金，然后他就开始用起来了。用起来之后，那14块花完了，他发现用不了了。然后那个报错信息是这个API直接抛的就是一个什么，就是你baLance什么不够了那之类的，用户也看不明白啥意思，我跟他说没钱了，他说这个东西还要钱吗？或者说我去哪里充值，就是完全没有概念。我发现这种用户特别多。
+</p>
+<p class="transcript-line">
+<span class="time"><strong>[00:27:30]</strong> </span>
+<span class="speaker"><strong>发言人2: </strong></span>
+其实这也反馈出来我们现在的还没有做好的一个点，就是他on board的体验其实还做的不够好。一些错误的提示不够的友好，不够的直接，然后一些相关的引导也没有做好。因为用户群体其实跟最早的时候已经发生比较大的变化了。
+</p>
+<p class="transcript-line">
+<span class="time"><strong>[00:27:50]</strong> </span>
+<span class="speaker"><strong>发言人2: </strong></span>
+就采用的群体来讲的话，大企业、小企业，还有个人，还有这种泛知识工作者，还有学生其实都有。像大一点的企业的话，比如说像国企或者事业单位的性质的，有什么中国科学院、中国社科社、社科院。然后这这种，也有像这个大的像平安微众银行，像南方电网，然后还有像麦当劳中国，这些是体量比较大的。然后小一些的就是十几个人，五十多号人的这种企业，也有好多。甚至当时有一个是做母猪配种的，养殖企业，畜牧产业的，这个也来问他们公司可能是100来号人。这个用户的或者是客户的这个群体的广泛度也是远超我们想象的。然后其实前面也还有像什么一个朋友来来截图给我们说什么他有一个同学在国外读书，然后说他们做科研的一些博二博三的一些学生，都在用叉s studio去帮他们做科研。这个当时也是让我们还挺意外的，然后这个也体现出他的用户的一个泛用性吧。
+</p>
+<p class="transcript-line">
+<span class="time"><strong>[00:29:15]</strong> </span>
+<span class="speaker"><strong>发言人3: </strong></span>
+就像你刚才有讲到说，这当中有很多用户，他其实不是一个，技术性的用户。我们用的其实只是一个客户端。因为我们虽然用了你们的企业版本，但是我们的key其实是我们公司内部去部署的。其实没有看过今天看的个人版。那今天大家用叉四队还是要自己把自己的key给给提供出来吗？还是说你们本身已经提供了说你只要买一个比如chair studio的账户就可以用AAPX去使用这些模型了。
+</p>
+<p class="transcript-line">
+<span class="time"><strong>[00:29:47]</strong> </span>
+<span class="speaker"><strong>发言人2: </strong></span>
+我们实际上是已经做了一个微商，然后去让用户OS登录之后，他就可以用到很多模型了。但是这个我们做的非常克制，他跟所有第三方的这个provider是平权的。我们没有给他去做更多额外的倾向或者侧重。某种程度上也简化了用户使用的一些门槛。其实我们做做这件事情的时候，就真的目的就是怎么降低用户的门槛。
+</p>
+<p class="transcript-line">
+<span class="time"><strong>[00:30:16]</strong> </span>
+<span class="speaker"><strong>发言人2: </strong></span>
+那到我们企业的解法的话，就是企业的这个IT同学管理员他在后台配好。那员工那边其实是不需要关注这个配置的流程的那他就可以看相机用了，所以这个企业这边问题相对会好一点。那个人这边其实做到这个程度也还没有我觉得没有做的特别的极致。相对是一个初期或者说好听点就是克制的状态。因为我们也没有去做订阅，也没有去做各种plan。大家是充值token按量计费这种情况。
+</p>
+<p class="transcript-line">
+<span class="time"><strong>[00:30:55]</strong> </span>
+<span class="speaker"><strong>发言人3: </strong></span>
+对，就这个选择其实我还是蛮好奇的。因为第一个是说让用户自己一个key进来，其实是个挺高的门槛对吧？就像你说的，当然他如果连截图都不知道，他其实很难理解说我key是什么，我去哪里。而且某种程度上讲，你也是把用户在往外推，因为他至少要去一个别的平台才能拿到这个key。
+</p>
+<p class="transcript-line">
+<span class="time"><strong>[00:31:18]</strong> </span>
+<span class="speaker"><strong>发言人3: </strong></span>
+而且第二个是说，就像我们去年看到有很多做sas的，做AI SaaS的工具，当然他们也做了很好的产品。但是某种程度上看，我们看到这个公司营收推的很高，或者说估值推得很高。其实是因为他把套壳里卖tok那个钱也挣了。
+</p>
+<p class="transcript-line">
+<span class="time"><strong>[00:31:37]</strong> </span>
+<span class="speaker"><strong>发言人3: </strong></span>
+今天所有人都是大语言的模型的套壳者，对吧？就是我们当然做了很多有价值的产品或者功能，但是归根结底这个当中让用户觉得最想用的部分不完全有，至少有一半。是因为那个模型有一个很强的能力。但是有很多公司说，你我把这个门槛降低，你直接在我这儿充值就能用所有的模型。比较典型的像海外那个kora的CEO做的POE对吧？包括我们看到像当然我们做的非常好的产品，但是我相信比如说meters营收非常高的很大一部分钱，他其实又以token的形式交给了这些模型厂商。你们为什么没有做这个决策呢？因为这个听起来就是说从一个商业公司或者从一个商业化的角度来讲，它其实是很快容易推高你的收入，让你获得更多的资源给眼球的一个选择。
+</p>
+<p class="transcript-line">
+<span class="time"><strong>[00:32:28]</strong> </span>
+<span class="speaker"><strong>发言人2: </strong></span>
+它有多方面的原因。首先在早期的时候，其实我们没有那么多资源去做极度商业化的事情。因为其实很多第三方的那个套壳应用，它实际上是在补贴补贴的做法去去卖的。无论是科sir还是像minus，我相信他今天的这个毛利可能都是负的那咳嗽的话有5亿的营收，它是有10亿的亏损是吧？这种方式在做，就是我们在当时是没有这种资源，可以补贴用户这种更便宜的价格去使用，就去调用模型的本质上把它开放出来，用户还是在我的产品里面用了。但这个成本是用户就是平进平出的，自己承担掉了，那也不需要我们来去补贴。这个反馈用户的反馈或者用户习惯依然还是会沉淀到这个CSD的里面。
+</p>
+<p class="transcript-line">
+<span class="time"><strong>[00:33:20]</strong> </span>
+<span class="speaker"><strong>发言人2: </strong></span>
+所以刚才提到那个POE的话，其实有一个很有意思的地方。就是POE它是可以在他的网站上或者在他客户端里面去用他的那个模型服务。也可以通过API去调用他的这个服务。在第三方调用POEAPI的这个软件当中，查尔斯迪是排名第一的，而且是超过了他自己的一个叫apple creator的一个功能模块。这个是很有意思，就是我们一个三方超过了他一方第三名第四名可能就是像什么re code，像什么kilo code这种的coding agent，就是我们一个chat客户端超过了一些这个code。A证的这个我觉得还是也让我蛮意外的一个点了。
+</p>
+<p class="transcript-line">
+<span class="time"><strong>[00:34:02]</strong> </span>
+<span class="speaker"><strong>发言人2: </strong></span>
+再从这个商业化和社区平衡这个角度来讲的话，当时也有一些想法，因为我们还是也不想把它完全转向了一个商业化产品。那这样的话其实是比较伤害社区。然后另外一个点的话就是我们也没有余力再做一个纯商业化的产品了。纯商业化的产品无论维护来讲，还是重新获客来讲，它的这个成本都很高。所以我们就在在里面想先从解决用户的on保定体验的痛点来讲去做这件事情。其实现在已经可以绕过这个APIK了，它OS登录之后，它就自动把K给它填进去了。用户其实是没有感知的那这种情况下他他体验会好很多。
+</p>
+<p class="transcript-line">
+<span class="time"><strong>[00:34:45]</strong> </span>
+<span class="speaker"><strong>发言人2: </strong></span>
+再有一个就是我们无论是在做企业版的时候，还是我们再去上我们自己的模型服务的时候。我们这两个带有商业化的举动，其实是得到了我们所有用户的一个百分百的支持，甚至我们当时只在我们公众号里面发一些信息，也会被搬运到其他地方，然后大家都是好评的。我们推企业版的时候，就会社区的贡献者就会有担忧。其实他们跟我们的这个立场，跟我们的这种的感受其实是非常同频了。就是他他就觉得他他是自己深度的一员了。然后他又担心我们出了企业版之后，大家会不会觉得Cherry studio的这个开源的性质有点有变化。但是被搬运到一个叫lindy two的一个社区之后，下面好多好多跟帖全都是清一色的知识。
+</p>
+<p class="transcript-line">
+<span class="time"><strong>[00:35:40]</strong> </span>
+<span class="speaker"><strong>发言人2: </strong></span>
+没有一个人去说你这个怎么着这个变味了，一个都没有。当时情况还是让我们蛮意外的，所以我们做的这两个商业化的举动还是在社区和商业化当中相对好的平衡。而且我们当时团队也非常小，而不需要那么激进的商业化的策略。
+</p>
+<p class="transcript-line">
+<span class="time"><strong>[00:36:04]</strong> </span>
+<span class="speaker"><strong>发言人2: </strong></span>
+以及以我看来，就在当下在之前chat那个阶段，真正能产生token的消耗。说实话那个营收它是非常低的，也不足以支撑一家比较大的公司。但在现在我们处于一个非常重要的转变期，也就是A正的它token的消耗量以及它能解决是用户的实际问题，以及用户的实际付费意愿都在快速变化。这个已经看起来是一个还不错的生意了。
+</p>
+<p class="transcript-line">
+<span class="time"><strong>[00:36:36]</strong> </span>
+<span class="speaker"><strong>发言人2: </strong></span>
+然后在未来的话，long running agent真正普及之后，这个通渭消耗量我认为在未来肯定还是百倍千倍以上的增长。那渗透率的话，其实也会因为像open cloud这种把门槛快速降低的，变化也会快速扩大。到那会儿的话，其实这个商业化就变成一个非常重要的事情了。而且我们本身已经做好了商业化的这个基础，就是我们的Cherry in。Cherry in本身是Cherry inf，它有API网关，还有计费等等的这些基础模块。做商业化的时候，只不过把它做的更好的一个联通就可以了。
+</p>
+<p class="transcript-line">
+<span class="time"><strong>[00:37:14]</strong> </span>
+<span class="speaker"><strong>发言人3: </strong></span>
+当初也是做了一个选择，就是觉得一个是当时的商业上考虑，可能是觉得chat时代其实token消耗也没有那么大，做商业化也未必有非常高的收入，对吧？第二个是说其实也并没有拒绝，也并没有选择拒绝商业化。包括因为客户端始终是开源的，所以即使你们做一些商业化，引入一些的，其实整个社区大家来讲也是欢迎的。第三个比较好奇，就是你其实在刚才反复提到说你们一支团队都很小，就方便透露一下现在团队是一个什么规模吗？我们我们来看一个比如说有40k star的这么一个项目，实际的团队是有多少人来维护的？
+</p>
+<p class="transcript-line">
+<span class="time"><strong>[00:37:51]</strong> </span>
+<span class="speaker"><strong>发言人2: </strong></span>
+现在的话我们团队有九个全职的人了。因为之前其实在25年九月份之前，就只有我跟王倩两个人写代码的，其实只有王倩一个人。到现在的话其实已经有九个人了。我们有比较全面的团队，产品有设计，然后有商务，然后有研发，大概是这样的一个组合。
+</p>
+<p class="transcript-line">
+<span class="time"><strong>[00:38:11]</strong> </span>
+<span class="speaker"><strong>发言人3: </strong></span>
+那那其实也不多，就是半年前你们只有两个人，现在你们也只有九个人。
+</p>
+<p class="transcript-line">
+<span class="time"><strong>[00:38:16]</strong> </span>
+<span class="speaker"><strong>发言人2: </strong></span>
+而且其实都是最近加进去的。
+</p>
+<p class="transcript-line">
+<span class="time"><strong>[00:38:19]</strong> </span>
+<span class="speaker"><strong>发言人3: </strong></span>
+所以之前说的这个sam奥特曼说的这个文明company？就一个人能做十个别人的估值的公司，这件事情看起来在你看来是不是觉得是完全是可能的？
+</p>
+<p class="transcript-line">
+<span class="time"><strong>[00:38:29]</strong> </span>
+<span class="speaker"><strong>发言人2: </strong></span>
+怎么讲呢？从这个研发人效来讲，包括一些其他岗位的人效来讲，大幅提升这个是必然的。我认为里面它还有一些细节的问题。比如说光研发的产能提升的话，其实并不意味着整个公司这个产能提升。用一个panine，它它有进水口，它有出水口，要把每个环节都扩的足够大，它的产能才持续提升。这个就有点像大家一直在讲的，AIDT的组织要解决什么样的命题？就只把研发产能做大了，产品需求没跟上，或者说是市场这个需求没跟上。的瓶颈它就不在研发上面了，所以我觉得这个地方是一个问题。
+</p>
+<p class="transcript-line">
+<span class="time"><strong>[00:39:12]</strong> </span>
+<span class="speaker"><strong>发言人2: </strong></span>
+再有一个的话，在今天看来的话，一个商业化非常好的团队，他必然还需要一定的团队的规模。也就是某些岗位他必须要有一个人，但可能他只需要一个人了。因为很多这个人跟人见面层面的东西，在今天他是还不能完全通过AI去解决的那这样的话其实我觉得可能30个人以后可以干300个人的事情，也可能能干500个人的事情，但是30个人可能还是干不了5000个人的事情。
+</p>
+<p class="transcript-line">
+<span class="time"><strong>[00:39:43]</strong> </span>
+<span class="speaker"><strong>发言人3: </strong></span>
+所以我觉得开源软件非常好，对不对？你想我们现在用这个riverside，它有一个巨大的问题是它不是开源的。所以他出现网络问题的时候，我都不能去wipe code一下，帮他修一下，对吧？
+</p>
+<p class="transcript-line">
+<span class="time"><strong>[00:39:54]</strong> </span>
+<span class="speaker"><strong>发言人3: </strong></span>
+接下来说你就是今天你其实觉得这个十倍的杠杆其实完全能做到的。但是如果真的要做到百倍的杠杆，可能在今天的这个场景下还是有比较大的挑战。特别是你还是会觉得说你还是认为不同的工种其实也不会完全消失，对吧？今天也不太可能让一个程序员去做商务。
+</p>
+<p class="transcript-line">
+<span class="time"><strong>[00:40:12]</strong> </span>
+<span class="speaker"><strong>发言人3: </strong></span>
+另外一个事情我会比较好，就是你也刚才提到了叫AI native的组织，我觉得很多公司去变成一个a native的组织其实是很有挑战的。就是你今天想让那些巨头区别AIATF的组织是很难的，因为它本身已经有组织结构盘根错节在里面。每个人也不一定是真的一定是拥抱AI的。但你们今天其实处在一个很舒服的，是一个很很好的位置上。就是你们有一个很大的社区，同不是你们的人非常少。这个组织其实是从零开始建的，你们本身是在做AI产品，所以不存在说一个人今天加入你们说我是不拥抱AI的，我想来这家公司从建AI的ATF的组织角度，你自己从你们过去半年从两个人变成九个人，你有什么感受或者说心得愿意给大家分享一下吗？
+</p>
+<p class="transcript-line">
+<span class="time"><strong>[00:41:03]</strong> </span>
+<span class="speaker"><strong>发言人2: </strong></span>
+我觉得首先第一点就是你刚才讲的，就是过去的公司它其实有一个很重的历史包袱。然后新的公司从零开始搭建的，他还是轻装上阵的，这个我是非常认同的。可能是0 0304年之后建立的公司最大的优势了，没有之一了。就是无论他是做的什么样的产品，怎么什么样的商业化，可能最大优势就是它真正是有机会做一个AI native组织的。但是过去的公司我觉得它极其的难。甚至像字节、腾讯这些在今天比较先进的公司，我相信它里面是有非常，大的比例，可能百分之超过50%的比例是不相信AI或者是没有那么愿意拥抱AI的。而且这样的盘的错觉，组织里面的惯性是没有办法让他去实现快速优化的那除非老板有一天不管不顾了，对吧？这个疯掉了，要去把50%的人干掉，我觉得这个还蛮难的。
+</p>
+<p class="transcript-line">
+<span class="time"><strong>[00:41:59]</strong> </span>
+<span class="speaker"><strong>发言人3: </strong></span>
+我现在美国我感觉他就是老板们就是疯掉了，就是在开始把12% 11步步就在把人干掉。
+</p>
+<p class="transcript-line">
+<span class="time"><strong>[00:42:06]</strong> </span>
+<span class="speaker"><strong>发言人2: </strong></span>
+我也看到这个像meta，像阿里他们都在做这件事情了。我觉得可能有些人就是有些老板已经回过神来了，他必须要去做这些事情了。即使影响到当前这个基本牌面，但是可能有一个一个短暂下降之后，可能会有一个快速的陡峭拉伸，这个事情我觉得是不可避免的，但是对我们来讲就没有这些问题，不会去跟那些所就的势力去做抗争。
+</p>
+<p class="transcript-line">
+<span class="time"><strong>[00:42:33]</strong> </span>
+<span class="speaker"><strong>发言人2: </strong></span>
+这个载体，然后这是第一点。然后第二点的话，其实在意愿和方法这个层面，对新公司来讲，它仍然是个挑战。就愿意加入这么小的一个公司一个团队的人，他通常来讲他是相信AI而且在筛选的时候，你也是会筛选相信A愿意拥抱烟的人。但是在这个组织之下，有没有好的方法让他去真正的利用AI解决问题。我觉得也不见得是所有的组织在今天都有这个意识的。很多组织其实是搞了一帮相信I的人，但是可能没有真正用AI的方法去做事情，没有尽最大化的去利用AI的这个杠杆去加速。让大家从当中继续获得这个正反馈，去迭代这个组织的运作方式。这个方法层面其实也是非常重要的。
+</p>
+<p class="transcript-line">
+<span class="time"><strong>[00:43:26]</strong> </span>
+<span class="speaker"><strong>发言人2: </strong></span>
+然后第三个层面就是我觉得是到了理念层面，就是真正要用AI去解决什么样的问题。大概三个月前有一个粗糙的抽象和和梳理，比如说我们可以进一步减少对齐的成本。因为过去我们的组织都是分层的，分好多好多层。大家都是通过汇报线来去对齐一个组织的目标。但是在层层传递目标的时候，他一定是熵增的，一定是有大量的信息损失的那有没有可能在中间加一个AI总线来去把这个组织对齐这个路径缩的非常短。这其实也是要通过产品的功能设计来去来去对齐的。
+</p>
+<p class="transcript-line">
+<span class="time"><strong>[00:44:09]</strong> </span>
+<span class="speaker"><strong>发言人2: </strong></span>
+然后再有一个就是当然提升个人产能这件事情在今天是显而易见的了，是已经是共识了。以及AI是不是能在整个企业的数字化环境当中挖掘出来企业的真正的问题，像过去咨询公司跳进来看这个公司有什么样问题一样。去帮助避免一些决策的局限性，或者是去发发现新的机会。像这些东西，我觉得在今天它还依赖很多基建层面的东西，比如说组织记忆，或者是整个组织的信息化建设。这些东西它也是要靠长期的一个探索持续来去迭代的，我觉得这个是我们在当前对NAT组织的一些理解和想法。
+</p>
+<p class="transcript-line">
+<span class="time"><strong>[00:44:57]</strong> </span>
+<span class="speaker"><strong>发言人3: </strong></span>
+能举一个例子，就是你们内部比方说现在有什么你觉得自己的小妙招，或者说是别人想不到的，或者说你觉得你在传统组织中没有看到的写作方式。
+</p>
+<p class="transcript-line">
+<span class="time"><strong>[00:45:10]</strong> </span>
+<span class="speaker"><strong>发言人2: </strong></span>
+比如说我们最近在讲，就是因为我们有产品经理，有设计师师，有研发。过去的时候是产品提需求，然后那个设计师去画稿，最后切图，最后交付给研发。研发就开始错代码了。
+</p>
+<p class="transcript-line">
+<span class="time"><strong>[00:45:27]</strong> </span>
+<span class="speaker"><strong>发言人2: </strong></span>
+我最近对我们团队的要求，就是我们原来觉得初创团队产品经理不需要写PID，虽然我是产品经理出身，我一直都是在过去的公司。无论是自己还是要求我团队的同学都是要把PID写的好，然后写的让大家能看懂，然后也写的全面。但是我觉得初创公司传统的大家的这个观念就是PID不重要，然后重要的是敏捷快速，然后把东西做出来。但是今天我们会有一个非常不一样的点，就在于我们要求产品经理把PRD写的极其的完善，完善到AI可以看懂为止。然后要求就是产品经理的PID扔给class code，他就应该写出你要的所有的功能。
+</p>
+<p class="transcript-line">
+<span class="time"><strong>[00:46:10]</strong> </span>
+<span class="speaker"><strong>发言人2: </strong></span>
+研发只去做这个技术选型架构和和这个质量的一个把关，不去做需求的搬运工。因为今天本身产品经理把需求提给研发之后，研发也是在告诉这个克拉扣的？转换一些技术语言。但是今天这个事情为什么要让研发再去做一个搬运工呢？人力就反倒变成那个瓶颈了。
+</p>
+<p class="transcript-line">
+<span class="time"><strong>[00:46:32]</strong> </span>
+<span class="speaker"><strong>发言人2: </strong></span>
+然后设计师也是，过去我们这个做完之后，前端同学再去做布局，再去做这样再去做做各种各样的前端实现。我今天我对设计师的要求不是我说设计师就是要提供前端可用的代码，我们以后就没有所谓的这个pipeline了。我们就是要求产品经理就是需求工程师，设计师就是品味好的前端工程师，研发这个架构或者质量工程师。
+</p>
+<p class="transcript-line">
+<span class="time"><strong>[00:47:02]</strong> </span>
+<span class="speaker"><strong>发言人2: </strong></span>
+而且这个原来是是线性的一个协作流程，可能以后就是变成并行的了，大家都都围绕着克拉code，围绕着这个AI再去做开发工作，这个是一个一个很大的变化。但是其实在这个过程当中，我仍然感觉大家用AI去解决问题的意识实际上是并没有，那么彻底的。就比如说有一个例子，像文浩公司买了我们的企业版之后，那我过去的时候它是一个docker的镜像，它要在一个服务器上部署它。我们写了一非常详细的部署手册。大家就是工程师用这个终端工具连上去，然后各种拉金箱，手动部署，修改环境变量这样的一些操作流程是吧？我发现我们团队还是在这么做，但其实今天在这些工作里面都是可以交给cloud code做的。把SSH的这个用户名和密码，当然它这个安全性的问题是待会儿再讲，扔给这个克拉克的。
+</p>
+<p class="transcript-line">
+<span class="time"><strong>[00:48:04]</strong> </span>
+<span class="speaker"><strong>发言人2: </strong></span>
+克拉克的理论上是来可以完成所有的交付工作的，它是完全可以做到自动化的那像前两天的时候也跟一个公司，他是做企业大规模的私有云和私有化部署方解决方案的一个公司。一套系统，一套内部的私有部署的系统，迁移到另外一套系统的时候，过去报价大概可能在10万人民币左右。是有大量的胶水代码的工作的。但是在今天去用cloud code去做这件事情的话，他会把成本压缩到5000块钱，是20倍的压缩，所有教学代码都是AI写的了。这样的一些大家惯性层面的思维，我觉得在今天来讲是完全没有转变过来。我们也在团队内部去扭转这个事情，我们会有一个叫AI效能中心的这个部门。实际只有一个人，他就去看我们所有的工作流程里面，哪些可以靠AI解决的。这个让大家就从观念上要去改变，要从方法上去去去落实出来，而不是停留在我很喜欢AI我很拥抱AI但是一转头还是在手敲这些东西。
+</p>
+<p class="transcript-line">
+<span class="time"><strong>[00:49:20]</strong> </span>
+<span class="speaker"><strong>发言人3: </strong></span>
+这个肯定是不行的。我自己使用就是在我们说AINT当中，我觉得过去几年有一个体会，就是他对个人的提效其实是高的。就像你说的，我今天如果是个工程师，我去开clour code，我本身我自己就已经起效了，对吧？或者我今天有一个设计师，他用nana banana或者其他的各种SARS去出图，但往往在组织前面的提效它没有那么明显。就是一旦进入一个组织的场景，似乎大家又退回到那个传统组织沟通的模式。就人与人的意见的一致跟不一致，以及上下游的这个责任。容易出现说，好像虽然每个提效了300%，公司好像只提交了20%。会比较好奇是说就像你刚才说你们内部在做一些角色上的分工，你自己改自己，你们体会下来，你觉得他实际对绩效的帮助大概在一个什么样的规模。
+</p>
+<p class="transcript-line">
+<span class="time"><strong>[00:50:17]</strong> </span>
+<span class="speaker"><strong>发言人2: </strong></span>
+我们现在我觉得可能有个两三倍的一个提升。但其实我们肯定不是提效做的最好的这个组织。我相信一定现在有十倍以上提效的这个团队已经出现了。
+</p>
+<p class="transcript-line">
+<span class="time"><strong>[00:50:30]</strong> </span>
+<span class="speaker"><strong>发言人3: </strong></span>
+还回到那个问题，其实就是因为chair studio最早是一个客户端，这个产品的形态其实一开始并不多见，对吧？大家一开始用chat BT都是用网页版，后来也有很多各种套壳。像POE最早也是网页版，包括us最早也是个网页版。但是其实过去半年其实大家会看到客户端越来越多了，包括AG的能力出来之后，而且很多官方的产品其实今天也是以客户端形式出现的。比如说像cloud，它也有客户端，客户端里也有扣work跟cloud的。你不需要打开命令行，你也有那个客户端能用来工作的对吧？就是包括像open class出来之后，其实这个产品形态又一次变化了。就close出来之后，他连客户端也不需要了。
+</p>
+<p class="transcript-line">
+<span class="time"><strong>[00:51:18]</strong> </span>
+<span class="speaker"><strong>发言人3: </strong></span>
+今天大家可能用的是一个，国内大家同时大部分养虾都在用飞书，对吧？海外可能很多人是在用telegram或者discord。就是我我会比较好奇说你就是这些你觉得对你们的用户会或者说对你们的用户会形成一定的分流或者冲击吗？原来我因为用过客户端，我能能读本地的文件，我可以。但是今天好像一个是一种是说，我官方也有客户端，他也有很强大的agent的能力。或者说说，我也不想装个新的客户端，公司里只要帮我配一下，我的飞书里就直接能用所有的模型不就好了吗？
+</p>
+<p class="transcript-line">
+<span class="time"><strong>[00:51:55]</strong> </span>
+<span class="speaker"><strong>发言人2: </strong></span>
+我就官方客户端其实对我们冲击不大了。一个因为本身我们就是在模型选择上面比较自由。然后再有一个就是我们也还是有一些自己特色化的东西。这些东西其实跟官方客户端，它就像在chat阶段的时候，其实ChatGPT也没有冲击到我们。大家其实本质上还是包括豆包也没有冲击到我们本质上是在不同的分层上面，我们也惦记不上他们的这个用户。在这个AG阶段的时候，其实也还是不太一样了。就是我们包括跟科沃克的这个用户群体还是不太一样，然后包括跟minders也是不一样。
+</p>
+<p class="transcript-line">
+<span class="time"><strong>[00:52:35]</strong> </span>
+<span class="speaker"><strong>发言人2: </strong></span>
+O cloud出来之后，通过IM去访问会不会冲击到，我觉得在一个时间阶段来讲的话，会而且这个东西会我觉得在家具这个东西好像启发了很多很多星座这个产品的人。他们发现不需要通过这个再再去做产品，做分发，再去获客了。我只要把这个东西做出来之后，去去通过飞书或者钉钉微信去接入，然后就可以了。有人看到这样的机会，其实所有人都会看到这样的机会，大家都会去往这个东西这个方式去做。守门的其实是飞书和钉钉，他们是更不可能放过这个机会的，他们肯定会去做这个事情。这个赛道它会变得极度的拥堵，然后让这边会变得更加冷清。所以我觉得这个阶段他其实是会的。但是更长期来看的话，就是某种程度上来讲，无论是IM的交互方式，还是一个客户端的交互方式，可能都会变得不重要。
+</p>
+<p class="transcript-line">
+<span class="time"><strong>[00:53:47]</strong> </span>
+<span class="speaker"><strong>发言人2: </strong></span>
+飞书和钉钉在今天它都是人跟人协同的一个重要的一个工具平台。然后在未来如果不需要那么强的人跟人的一个协同的话，他们本身的这个价值或者说他们本身今天呈现出来的这种形态，他可能就会受到非常大的冲击。就像我们刚才讲的，这个原来是产品设计在研发，它是一个线性的一个拍卖，然后以后可能变成一个新型的了。就是所有人是围绕着中间这个agent。那其实大家是不需要去做就有那么强的人跟人的协同了。可能以后产品经理和和研发他是他他是没有沟通的，他是没有协同的。到时候就是流水线上的工人不同，这个环节的工人他实际上不需要沟通的，他们的职责都被定义的极其清楚了，他只需要对流水线负责就可以了。这种情况下，其实飞书和钉钉可能也会消失，或者是收缩的一个比较小的一个状态里面。
+</p>
+<p class="transcript-line">
+<span class="time"><strong>[00:54:56]</strong> </span>
+<span class="speaker"><strong>发言人2: </strong></span>
+查尔斯蒂顿可能也不重要了。查尔斯蒂顿现在因为本质是在人去触发，人去使用，那那所以这个事情是要动态看的那长期看Charles d6也需要演变，比如他也需要变成像overcloud一样，它就变成一个后端服务，需以任何用户需要的形式来去提供服务，而不是在今天还需要打开一个客户端了。但是高强度的使用，高强度的交互。
+</p>
+<p class="transcript-line">
+<span class="time"><strong>[00:55:20]</strong> </span>
+<span class="speaker"><strong>发言人3: </strong></span>
+它可能还是需要的。明白。那倒过来就想就是你其实已经有这个设想或者有这个判断，未来基金可能不是一个每个人要有一个客户端，那这对这就意味着什么呢？某种程度上来讲，就是是是你们已经觉得说你们已经想好你们下一步的产品形态了吗？或者说你们觉得你们产品的下一步的你们的微信，或者你们想要还变成一个什么样子。可能可出来之后，chat studio有点像上一个时代的产品形态，就像当call code或者medals出现之后，ChatGPT向上一个最早只有聊天chat PT向上一个是在产品形态。你们设想中CHR46未来的产品形态会。
+</p>
+<p class="transcript-line">
+<span class="time"><strong>[00:55:58]</strong> </span>
+<span class="speaker"><strong>发言人2: </strong></span>
+是什么样子的呢？其实首先XSD在这一波当中是吃到了一些红利的。做法很很取巧。我们我们不是是一个electron的这个环境，然后我们在里面是可以做一些集成和分发的这个功能的。所以我们做了overcloud一键安装，这个让很多想安装open CLUD，但是他又不太会的人，得到了一个很简单的一个工具。然后那个data view写了一篇公众号，应该全网有有四十多万的阅读。成了china study，反正变成了一种open cloud安装的一个经典实践的感觉。
+</p>
+<p class="transcript-line">
+<span class="time"><strong>[00:56:37]</strong> </span>
+<span class="speaker"><strong>发言人2: </strong></span>
+然后很很这个小聪明的一个功能，我们他实际在里面提供什么呢？其实就是提供了模型网关，提供了API网关。我可能可以直接用chers d6提供的模型服务了。这个其实就印证了我们之前在讲的，就越来越会变成一个AI info的一个东西，而不是完全的用户界面了。所以这种情况下，我们提供这个OPPO，它的运行时提供它的二进制，然后提供它的APIOK它就可以用起来。然后提供它的大ball的这个可视化的东西，对吧？这是迟到了一点点红利，但是这个我觉得也是临时性的了。
+</p>
+<p class="transcript-line">
+<span class="time"><strong>[00:57:13]</strong> </span>
+<span class="speaker"><strong>发言人2: </strong></span>
+更长期看的话，其实我们会在企业，现在企业版本当中，因为个人版本里面的那个A阵的也在做眼镜，就是他可以去做的心跳，可以去做定时任务，可以去做一定的外部的channel的连接。其实把一个china的一个客户端跑在那里，它就变成一个server。然后也可以连接到了那些什么飞书和telegram，然后来去控制这个Charles d6里面这个agent的实现各种各样的任务。其实这个我们已经下周就会发版了。
+</p>
+<p class="transcript-line">
+<span class="time"><strong>[00:57:44]</strong> </span>
+<span class="speaker"><strong>发言人2: </strong></span>
+这也不是最终极的，我觉得最终极的肯定。因为把一个客户端当一个server，它还是有一定的局限性的。针对这个超级个体来讲，就一个人用户来讲，他他就很合适的，他不需要再搞一个服务器。但针对企业来讲的话，我觉得长期看，它一定是需要把它跑在后端的一个long running a的一个真正的形态。然后这个后端是跑在云服务器上的，而跑在边缘，还是跑在设备上呢？这个事情也还有很多探讨的空间，在今天我们也没有完全想清楚。但是我觉得往后端去放这个事情是已经非常明确了，而且我们也有计划去去做了。
+</p>
+<p class="transcript-line">
+<span class="time"><strong>[00:58:20]</strong> </span>
+<span class="speaker"><strong>发言人3: </strong></span>
+可能未来你们也会提供一个像云端的cloud一样，一个long running的在在服务端的用户可以随时access的这么一个studio cloud一样的产品。
+</p>
+<p class="transcript-line">
+<span class="time"><strong>[00:58:30]</strong> </span>
+<span class="speaker"><strong>发言人2: </strong></span>
+对对对，但是我觉得可能跟over cloud的那个word很多方式还是会不一样。可能我们会真正关注生产环境里面的这个可用性，比如说它的权限隔离，它的数据隔离。他的角色感知，然后还有他的一些自迭代的这个限制。比如有些人可以让他自迭代，有些人不能让他自己迭代。老板可以让一个人的岗位定义发生变化，但是他同事不行。包括一对一的关系和一对多的关系，这些层面都会有一些不同的思路。但是从open我觉得还是会得到非常多的启发和灵感的。我觉得他现在就是一场大型的AI社会实验。
+</p>
+<p class="transcript-line">
+<span class="time"><strong>[00:59:22]</strong> </span>
+<span class="speaker"><strong>发言人3: </strong></span>
+第三个就比较好奇，那chair studio肯定是一个比较AI native的组织，对吧？即使我们相信到一旦具体到每件事，每个人可能想法或者怎么样可能始终觉得不够的。但是我相信KC的一定是一个相对于我们见过的大部分公司，甚至大部分AI公司都是足够AI native的。从你们的大数，从你们的人数，从你们在做什么，其实大家都能判断出来。Chair student内部在用哪些AI工具，就除了chair的自己的产品之外，还会有哪些AI工具让自己更像一个AIATF的组织的。
+</p>
+<p class="transcript-line">
+<span class="time"><strong>[00:59:58]</strong> </span>
+<span class="speaker"><strong>发言人2: </strong></span>
+我们其实用的不是特别多，然后主要就是那个cloud code主力了。基本上我们现在用constr用的比较少了，然后class code的这个是最主力的这个产品。再就是也有同时用open code，也有用派agent的，少量的在用code dex去做一些代码review。再就是像菲gma菲格玛，它有那个maker功能和MCP的那个就是提供代码的能力。这些就是我们在用的一些主力的第三方产品了。
+</p>
+<p class="transcript-line">
+<span class="time"><strong>[01:00:32]</strong> </span>
+<span class="speaker"><strong>发言人3: </strong></span>
+第二个表示我听到了其中有很多工具其实是AI coin类的工具，对吧？就是包括卡扣的，包括这些工具，你们是直接用那个工具本身，还是在尝试用chair studio，只是拿着那个的token在用。因为我看chair studio里它其实也有AIQ coding的功能。
+</p>
+<p class="transcript-line">
+<span class="time"><strong>[01:00:50]</strong> </span>
+<span class="speaker"><strong>发言人2: </strong></span>
+我们是直接用原版工具的，以我们也会在用原版工具的过程当中，去跟Cherry studio的AG的能力去做对齐。就我们看到，比如克拉code它迭代很快，它出现了一个新功能，我们的场景其实接近柯work。但是其实在今天color k他他做的还是比较初级了。那我们就在看这个clo code它新上了什么样的能力之后在这个通用领域，通用办公领域，它可以产生什么样的价值。我们就会考虑Charles dude下一步怎么做。然后chair sd do。当然就是我们日常的一些很多工作，比如运营、法务、财务很多很的工作的话，这些都是靠chat to you来去完成了，但是编写代码的和设计工作还是靠cloud code这种工具了。
+</p>
+<p class="transcript-line">
+<span class="time"><strong>[01:01:36]</strong> </span>
+<span class="speaker"><strong>发言人3: </strong></span>
+再来聊聊最近的龙虾热，大家的各种观点也不一样。有些人的观点是说，就是你现在不需要关心龙虾，反正它更像一个炒作出来的热点。其实对于大部分普通人来讲，你没有必要去养虾，对吧？也有些人认为说养虾非常重要，这个其实是一个就跟拆GPT刚刚出来的时候AI非常重要。你应该投入重度的精力去研究一下open class，或者把open class使用起来。当然还有更多的人是他一时好奇养了虾，养了两三天，我也不知道该干嘛，所以就放弃了。你自己怎么看open class这个产品，以及如果你给一般的普通用户的建议，是有没有必要去尝试或者体验一下，对吧？比方说用chair studio一键在自己的电脑上安装一个。
+</p>
+<p class="transcript-line">
+<span class="time"><strong>[01:02:25]</strong> </span>
+<span class="speaker"><strong>发言人2: </strong></span>
+用起来这个其实就跟拆GP刚出来的时候，就很多人觉得，当然他那会儿也有很多问题，比如说他的幻觉，他其实3.5的时候模型能力也没有那么好，然后他的上下文也很短，然后那会儿就很多人唱衰，说这个东西就是全不过是把一些数据堆到一块儿，然后在里边去找差不多的这个东西给你扔出来而已。就是菜市场上捡烂叶子，然后这种感觉。也有人说这个就是未来，这个就是人类终极AGI的机会。我觉得这种不同的观点一直都是会反复上演的那在今天我们考拉我觉得也很像会有很多人觉得他的全是AI写的代码，就是实战一坨不可维护，就是没有任何意义圈子炒作。告诉我什么克拉code是哪个能力做不到的，等等等等。然后也有一些人觉得他确实是有了非常强的启发性，这就预示着未来真正ANA真的形态。我觉得所有观点其实一直都是这样的，从我的角度来讲就是他都没有那么极端。就是今天讲open cloud是未来的终极形态，我觉得显然为时过早了，然后所有人在今天都不应该低估这个AI发展的这个剧烈程度。
+</p>
+<p class="transcript-line">
+<span class="time"><strong>[01:03:46]</strong> </span>
+<span class="speaker"><strong>发言人2: </strong></span>
+你说他就是完全炒作，我觉得显然也不是的。它实际上是cloud code，它底层其实跟cloud的非常像。但是他真正把crock code就是人为设定的一些边界解除掉之后，看到他能有什么样的可行可能性。出发点本身就很有它价值了。我是建议所有有兴趣的人都去尝试，真正用的过程当中才能产生真实的感觉，才有这个话语权，或者才有这个说服力，去对他去理解或者评论。如果只是看几篇新闻或者是大家的这一种PR就去对他产生各种各样的评论的话，我觉得这个是很容易浮于表面的。
+</p>
+<p class="transcript-line">
+<span class="time"><strong>[01:04:34]</strong> </span>
+<span class="speaker"><strong>发言人2: </strong></span>
+另外一个角度就是我虽然很推荐大家去尝试一下去玩一下，但是也不要抱抱有太高的期望，就是他无所不能。这个我觉得在今天来讲，显然也是有一些妄念在的。我觉得是今天反倒是有一些具体场景需求，过去比较难通过其他工具解决的这种这种人群在今天可以尝试用o cloud解决它实际的这个需求。这时候是更有目标性，更目的更明确的去做这件事情，大家的反馈正反馈应该会更好一些，但是自己本身就没有什么需求，强行去他又用他去做一些事情的话，我觉得玩两天之后就觉得没有意思了。这个是非常容易容易进入这种状态的，也要控制预期。但是无论如何，我都推荐大家去用一下感受一下，感受其实才是最重要的。
+</p>
+<p class="transcript-line">
+<span class="time"><strong>[01:05:28]</strong> </span>
+<span class="speaker"><strong>发言人1: </strong></span>
+因为最近我跟很多创业者也聊过，会觉得说大家在open colo出来之后用了不管你是好的坏的，至少看到他火了。其实蛮多人的思考产品的那模式好像有了一些变化。就比如说现在更加的觉得说我们应该胆子大一点，更加的觉得说应该比如说给智能更大的空间。之前我们也会讲要给agent做事儿，但是没想到几个月就可能比如说token消耗量涨了十倍100倍这种事情你之前不敢想，那就发现说那更加他应该说agent那反正我身边接触蛮多创业者，他们思考产品的范式一些逻辑和方法论的话，其实发生了变化。你在最近比如说半年或者三个月，有没有发生这种重大的说一年之前你绝对不半年之前你绝对不这么想。
+</p>
+<p class="transcript-line">
+<span class="time"><strong>[01:06:16]</strong> </span>
+<span class="speaker"><strong>发言人3: </strong></span>
+现在你觉得应该那样做。
+</p>
+<p class="transcript-line">
+<span class="time"><strong>[01:06:19]</strong> </span>
+<span class="speaker"><strong>发言人1: </strong></span>
+不应该这样做，有没有这样子思考产品或者思考创业路径上一些变化？
+</p>
+<p class="transcript-line">
+<span class="time"><strong>[01:06:24]</strong> </span>
+<span class="speaker"><strong>发言人2: </strong></span>
+我觉得还是有的，而且肯定不止一次了。就是在25年年初的时候，大家其实已经在讲25年是A真的元年了。所有人出来都在聊A针的2 3月份3 4月份的时候，但是去问A真的是什么的时候，其实很多人的理解是极其模糊的。甚至说他能做一个什么提示词，让它有特定的功能，那就是A正的。很多人是在做伪agent再去去宣传的。
+</p>
+<p class="transcript-line">
+<span class="time"><strong>[01:06:52]</strong> </span>
+<span class="speaker"><strong>发言人1: </strong></span>
+就封装好的提示词就叫agent对。
+</p>
+<p class="transcript-line">
+<span class="time"><strong>[01:06:56]</strong> </span>
+<span class="speaker"><strong>发言人2: </strong></span>
+还有说我flow也是agent的，我不显人，不是A证的。但是那会儿大家都是有人敢宣传，有人就敢信这种状态。我那会儿就非常困惑，我甚至都觉得A证已经变成一个营销名词了，它不是真正的有有它实际真实含义的一个东西了。
+</p>
+<p class="transcript-line">
+<span class="time"><strong>[01:07:13]</strong> </span>
+<span class="speaker"><strong>发言人2: </strong></span>
+那真正让我有开始比较强烈的思维转变就是在五月底那个class code出来，我在六月份。对，然后那个minus其实当时我觉得让我看到了一些，但是那个卡code是真的让我感受到了这个A证到底是什么的这个产品。刚开始我们一个社区贡献者，他就说我们接下来要做A的，我当时其实不是特别理解，然后他让我驱动社区大家一起来去做。我当时也不是很有兴趣了，大概六月份的时候我就自己用了cloud code以及用了java CLI。然后我当时感觉到它差别其实是非常大的。我当时就理解了什么是agent以及A的通用能力是什么样的。我们呈现出来的不一力驱动社区，我们一定要做A诊的，这是一个比较大的转变。然后当时就好像就是顿悟了，突然知道了这是一个什么东西。
+</p>
+<p class="transcript-line">
+<span class="time"><strong>[01:08:08]</strong> </span>
+<span class="speaker"><strong>发言人2: </strong></span>
+结合那个时间转变，其实我之前参加过一个小小活动。当时就是有一个小小的话题，就是大家在节约偷看消耗这件事情上在讨论。然后当时有一个朋友，他就说就不要考虑怎么节约，偷个消耗，就用这个最烧偷看的方式去做事情。
+</p>
+<p class="transcript-line">
+<span class="time"><strong>[01:08:27]</strong> </span>
+<span class="speaker"><strong>发言人1: </strong></span>
+那样才真对。我们也一直这么认为，用最贵的最多。
+</p>
+<p class="transcript-line">
+<span class="time"><strong>[01:08:31]</strong> </span>
+<span class="speaker"><strong>发言人2: </strong></span>
+对我那会儿还是觉得有一些疑虑。我说就是在因为我当时觉得AI已经可以做很多很多事情了，就不一定非得烧大家想象的很烧A的那个阶段，他才能做那么多事情。在这样的情况下，节约token，节约cos这件事情也是重要的。但是现在我可能就完全不这么想了，我觉得节约cos的这件事情一点都不重要。然后就是要用最疯狂的燃烧这个图文的方式去去想象一件事情，这个对我来讲也是一个转变。
+</p>
+<p class="transcript-line">
+<span class="time"><strong>[01:09:04]</strong> </span>
+<span class="speaker"><strong>发言人2: </strong></span>
+再就是我觉得也有一些转变。就早期的时候我有一段时间认为。这个本地推理，本地算力这个事情是有它的重要性和价值的。但在今天的话，我可能认为本地模型推理这个事情毫无价值。然后也是一个转变。
+</p>
+<p class="transcript-line">
+<span class="time"><strong>[01:09:23]</strong> </span>
+<span class="speaker"><strong>发言人1: </strong></span>
+有小龙虾之后，其实很多人会觉得本地，就比如说因为他越来越多的其实在控制你本地的东西，越来越多的人觉得说本地算力更重要了。因为它比如说帮你看一层，帮你过滤一下再给外面什么的。你反倒是觉得就这么多人已经把大门都开放给小龙虾，所以内部不需要搞一个什么自己的弱智小机器人了。
+</p>
+<p class="transcript-line">
+<span class="time"><strong>[01:09:44]</strong> </span>
+<span class="speaker"><strong>发言人2: </strong></span>
+对吧？不需要。因为本质上在今天所有表现的不够令人满意的，或者能力不足的，这个原因其实都本质上是模型不够好。这种情况下就是云端的模型上T的模型他都让他表现不够好，在限制他的能力，那本地搞一个弱智的一个模型去驱动它。其实打童工，就是不能期望一个童工能产生多大的生产价值的那还是要去选最好的。这好像就是我从村里选一帮童工来，然后我给他这个工资开的很少，然后他也不不会在外面乱讲。和我要去请一个博士来去做这个事情，我觉得是道理本质是一样的，依然不重要，云端算力还是最重要的。
+</p>
+<p class="transcript-line">
+<span class="time"><strong>[01:10:31]</strong> </span>
+<span class="speaker"><strong>发言人1: </strong></span>
+然后刚刚你跟孙浩聊的时候，我也听到一个词，其实是叫AI效能中心。然后我现在跟在跟一些公司在做一些合作的时候，也是在建议他们要搞一个这样的。但是我们管他这样AIBP也有点像HRBP，但是实际上挺难做出来的。就是对那个人他到底要有哪些特质，然后他他如何进入到业务，如何去BP去赋能。这你们是做到的。
+</p>
+<p class="transcript-line">
+<span class="time"><strong>[01:10:57]</strong> </span>
+<span class="speaker"><strong>发言人2: </strong></span>
+还是说小公司比较好做好问题，好问题其实不见得是小问题。小是小公司比较好做，然后小公司其实人力是非常吃紧的。就是我其实一直都想做这件事情，但是没有一个很好的人来去承接。
+</p>
+<p class="transcript-line">
+<span class="time"><strong>[01:11:09]</strong> </span>
+<span class="speaker"><strong>发言人2: </strong></span>
+真正让我觉得要可以做这件事情的时候，是我们进来的一个实习生。他是2004年的他进来的，他是另外一个之前的一个朋友推荐过来的。他进来的时候，其实我当时也不知道该让他做什么。他可以他说他想做运维，我说不想想做运维，他说我说你不能做开发吗？他说我也可以做前端，但是我觉得前端太卷了。我说那你还可以做别的东西吗？他说我还可以做自媒体，我会拍视频剪视频。然后我又问了一下，他自己玩AI玩的也很多，他真的很AI native，他会想象所有事情是不是都可以通过AI解决。
+</p>
+<p class="transcript-line">
+<span class="time"><strong>[01:11:48]</strong> </span>
+<span class="speaker"><strong>发言人2: </strong></span>
+来的时候我就让他先剪了一段视频，然后又让他搞了一些我们工作流里面可以用AI去搞定的一些事情，配了一些机器人。后来我发现他能力极其全面，但是每一项可能都不是最顶尖的，它运维或者前端肯定都不是顶尖的。但它每一项能力都有多多多少少有一些就是它是没有进入社会化的策划的这个培养体系。
+</p>
+<p class="transcript-line">
+<span class="time"><strong>[01:12:12]</strong> </span>
+<span class="speaker"><strong>发言人3: </strong></span>
+是自己都有。
+</p>
+<p class="transcript-line">
+<span class="time"><strong>[01:12:13]</strong> </span>
+<span class="speaker"><strong>发言人1: </strong></span>
+还是他都会用AI做一点。
+</p>
+<p class="transcript-line">
+<span class="time"><strong>[01:12:15]</strong> </span>
+<span class="speaker"><strong>发言人2: </strong></span>
+对自己都还是有一点的。他又没有进入这个企业，就是特化培养的这个路线，这些能力就都被比较完整的保留下来了。然后我就觉得他就很适合做这件事情。其实你刚才提到就是很多企业想去做这件事情比较难。然后我我是我其实是深有感触的，这对我们来讲可能就是一个机会。就是如果我们可以批量去生产这个AIBP的这样的一个角色的话，无论是外部专家还是内部的一个培养体系来讲，那其实就是一个非常好的事情。
+</p>
+<p class="transcript-line">
+<span class="time"><strong>[01:12:49]</strong> </span>
+<span class="speaker"><strong>发言人2: </strong></span>
+本质上我大家都在做套壳的事情，是最底层都是这个模型，然后都是同样的模型。中间层这个的东西其实大家都是无论是考A的SDK也好，还是拍A正的也好，它的同质化也已经比较强了。就好像说OPPO、vivo、小米、华为中间都是啊，但华为现在不是安卓了。对，都是安卓。上层的大家跑的应用也是什么美团、微信、微博是吧？也是那些APP，也是那些skill。这些东西其实同质化都会越来越严重，大家的壁垒在什么东西呢？其实我反倒觉得怎么能让整个社会的生产力提升，谁可以去做这个事情，谁可以通过人跟人的界面去把这样的一些理念，把一些思维去传递出去，帮助大家建立起来。这个可能也是一个新的机会了。
+</p>
+<p class="transcript-line">
+<span class="time"><strong>[01:13:51]</strong> </span>
+<span class="speaker"><strong>发言人1: </strong></span>
+我也挺想做的。你们在做这个事情吗？我们是我最近在跟一些商学院什么在聊，说是不是可以批量培养AIBP啥的。你们是已经在做这个什么培训或者干嘛的这种输人才输出吗？
+</p>
+<p class="transcript-line">
+<span class="time"><strong>[01:14:04]</strong> </span>
+<span class="speaker"><strong>发言人2: </strong></span>
+我们就九个人还做不了，但是我现在已经想了一些了，但是我觉得这个事儿是是肯定是可以做的。但是我们做了一个china studio讲师计划，然后做了两期，大概有两百多人。但实际上给大家的这个帮助和和赋能是不够的，实际上是让大家自己去考一个试就得到了。那那其实我等到我们这个有相关的，还为什么说还是得有人？不真的不能让AI直接去去教这些事情。当然AI可能在里面会解决掉很多重复性的工作，或者是一些增强的能力，但是这个事情还是要人来去主导的。
+</p>
+<p class="transcript-line">
+<span class="time"><strong>[01:14:43]</strong> </span>
+<span class="speaker"><strong>发言人2: </strong></span>
+这个事情真正要做的话，它是一个挺复杂挺重的一个事情。假期的时候我的合伙人逼着我看了一本高效能人士的七个习惯，我是最讨厌看鸡汤的，但是我看了之后发现他真不完全是鸡汤。我看到了很多管理学层面的一些东西，在今天也很适用于人怎么去管理AI，以及怎么去组织AI和人的协同。我们要结合最新的AI的知识理念和解决方案，加上相对一些经典的管理学思维，再加上一套高效的培养组织的一个网络体系。这样一整套的事情其实是挺有难度的，或者说他挺重的。我觉得在今天这个AI公司当中，有这样的意愿和有这样能力的团队是很稀缺的。因为AI行业太多太聪明的人了。聪明的人都希望可以做最雕花的事情，最锦上添花那个事情，不愿意去做这种汤底水的事情。如果有愿意做这件事情的团队，我觉得对整个行业是非常有价值的。我觉得他也会得到相应的奖励。
+</p>
+<p class="transcript-line">
+<span class="time"><strong>[01:16:09]</strong> </span>
+<span class="speaker"><strong>发言人1: </strong></span>
+还有一个问题就是那你现在是开源的一个形态，有很多贡献者，是不是这种形态在AI到了之后，他到底是更适合，就比如传统公司来讲是更好的一个形态，还是更差的一个形态？我觉得它更好的话，其实是因为就比如说熊浩，创业公司他有很多人，但是他原本这些人跟他就是一个紧密合作关系，那来了一堆AI对吧，来了他他有50个人，再来50个AI他之前的经验就是管理那种就是他的员工的经验，对吧。但是你这边本来就有管理大量莫名其妙的，外面五湖四海奇奇怪怪的人的经验，这种是不是对于怎么怎么把莫名其妙的各种能力用进来的话，那管开源项目本身的这个组织形态，其实是更符合AI这个时代的。
+</p>
+<p class="transcript-line">
+<span class="time"><strong>[01:16:56]</strong> </span>
+<span class="speaker"><strong>发言人1: </strong></span>
+但是就是往好了说，但是往差了说又会觉得说那你根本你无非就是让他们上来，比如说改改发信息bug，写写代码啥的。你也刚刚说了cloud code都是第一名了，对吧？大家也不把它当一个正事儿干的话，也就是闲时贡献一下。那那这个贡献你让AI贡献不就完了吗？对，那徐荣浩虽然没有你那么多贡献者，但是他他开了五个卡扣的账号，对吧？一样到底是更好还是更糟了。
+</p>
+<p class="transcript-line">
+<span class="time"><strong>[01:17:20]</strong> </span>
+<span class="speaker"><strong>发言人2: </strong></span>
+我觉得肯定是更好了，我觉得这个是毫无疑问的了。
+</p>
+<p class="transcript-line">
+<span class="time"><strong>[01:17:24]</strong> </span>
+<span class="speaker"><strong>发言人1: </strong></span>
+那为啥呢？
+</p>
+<p class="transcript-line">
+<span class="time"><strong>[01:17:26]</strong> </span>
+<span class="speaker"><strong>发言人2: </strong></span>
+首先这个写代码就是让AI写，我今天可能还没有超过人，就是从整个复杂项目的这工程层面来讲，他还没有完全超过人。当然点上肯定显然的是已经超过人了。Opc w大家很诟病一点，就是他很多那个PR就是AI去扫一手，扫完一首之后自己写PR然后自己用AI review，review完了之后自己全程没有人参与，搞成了十三一坨。但是我觉得这个事情的改变，它一定必然的会有一个临界点，就是AI去看一手TPR的能力，质量超过人从那一个点之后，那就真的是飞升了。整个项目的质量可能就是要超越人类历史上所有的人类写的这个项目了。所以从这一点上来讲，我觉得从质量上是不需要担忧的。
+</p>
+<p class="transcript-line">
+<span class="time"><strong>[01:18:19]</strong> </span>
+<span class="speaker"><strong>发言人2: </strong></span>
+然后从管理上来讲的话，我觉得蛮长一段时间人都还是需要去用一些管理学的手段来去管理这个A的。像我其实我之前没有做过太多管理工作，在上家公司的时候也就最多于管理个二十来个人的这种状态。但是我从几管两三个人到管理二三十个人的时候，感觉这个还是挺不一样的。刚开始上手的时候就会觉得每个人干的都不如自己好，很想把。这个踢到一边自己上手干，发现两三个人的时候，你还可以cover一下的。但是二三十个人的时候，你发现你顾不过来了，你不可能每个人你都让他去一边，你自己上手干，这个是不现实的。
+</p>
+<p class="transcript-line">
+<span class="time"><strong>[01:19:01]</strong> </span>
+<span class="speaker"><strong>发言人2: </strong></span>
+第二个就是你管理二十多个人的时候，你会发现并不是所有人的工作领域你都是完全懂的，你都是会的。你会必然面临管理你不会的事情。这个其实也是一个大的变化。
+</p>
+<p class="transcript-line">
+<span class="time"><strong>[01:19:17]</strong> </span>
+<span class="speaker"><strong>发言人2: </strong></span>
+我当时就开始想什么是管理的这个最小级？我是野路子。我发现管理最小的一个几个工具就是你先把事儿提清楚，你把你的要求，你把你的这个需求提清楚。我发现很多管理者连这一步都做不到，他让下面的人猜老板，让下面人猜老板想要什么东西，让自己猜自己的leader想要什么东西。做不好老板就不满意。其实老板根本就没有把这个上下文，没有把这个事情交代清楚，提明白要求。这个第一步我觉得很多人就没有走了。
+</p>
+<p class="transcript-line">
+<span class="time"><strong>[01:19:53]</strong> </span>
+<span class="speaker"><strong>发言人2: </strong></span>
+然后第二步就是给予反馈，做的好了你就要褒奖他，如果做不好的话你就干掉他，不然你不能直接干掉。你要刚才告诉他你没有干好，你要重新干。这个很多人也没有做的，特别人跟人有的时候他会有一些面子层面的东西，但拉不下面子来？去说他做的不好，然后心里又憋得难受。然后像这种基本动作，其实都都大家都是没有做好的。
+</p>
+<p class="transcript-line">
+<span class="time"><strong>[01:20:16]</strong> </span>
+<span class="speaker"><strong>发言人2: </strong></span>
+但是其实我们在今天看去管理AI的时候，它是同样适用的。如果不看这个简单工具的话，看一些更复杂度的一些管理学手段。像那个高效能人士里面七个习惯。关于指令型授权还是目标型授权，以及目标型授权怎么设定边界这样的问题，今天看AI也同样适用。
+</p>
+<p class="transcript-line">
+<span class="time"><strong>[01:20:36]</strong> </span>
+<span class="speaker"><strong>发言人2: </strong></span>
+比如说就做一个登录系统，过去研发最讨厌产品经理写这个一句话需求？我要实现一个登录功能，那实际对于一个比较有经验的产品经理来讲，他会写我需要支持哪些登录方式，我怎么找回密码？如果出现了这个边界问题我怎么处理？我的一些规则约束，比如我的密码长度，或者我的密码字符的组成，这些规则我都要写的清清楚楚。但那会儿又有个矛盾，说这个研发他不看PRD，他只看效果图是吧？
+</p>
+<p class="transcript-line">
+<span class="time"><strong>[01:21:05]</strong> </span>
+<span class="speaker"><strong>发言人2: </strong></span>
+但是在今天来讲的话，一句话的需求就有可能是成真了。因为AI它实际上是训练了大量的这种最佳实践。告诉他完成一个完善的登录系统，他真的可能比人想的都要更全的。大家就要去从指令性授权变成目标性授权了，给予AI更高的自由度。另外的话还是要设定边界。你比如说我们刚才讲你要完善的一个登录系统，还是一个经典的登录系统，然后以及不要让做什么事情，不然的话他如果实现不好的话，你还是会回到指令型授权的这个泥潭里面去。所以这个对管理学的要求，我觉得还是会在很长一段时间内它都适用。所以这也是我们刚才讲的AIBP的一个价值。但更长期看，也就是在技能层面被模型全都进化完了之后，可能很多管理学思维也会进入到这个模型里面去。到那会儿的时候，可能对人的要求会进一步降低。
+</p>
+<p class="transcript-line">
+<span class="time"><strong>[01:22:07]</strong> </span>
+<span class="speaker"><strong>发言人1: </strong></span>
+就有点像自己在创业的时候的话，你再管三个人，管30个人，管300个人。其实对于这个创业者的要求其实在不断的提高，你就思考的东西越来越抽象。但是现在其实对每个人都是这样提高的。之前我们在讲要把命令提清楚，后来再讲说你要把框架提清楚。现在的话想的是你要把目标跟上下文提清楚。其实是原来你要做好带实习生，后来做小组长，后来做总监，然后现在做CEO，然后未来做董事长，你别框住了组织的发展。
+</p>
+<p class="transcript-line">
+<span class="time"><strong>[01:22:38]</strong> </span>
+<span class="speaker"><strong>发言人1: </strong></span>
+我举一个这两天我发生的真实的例子。就是我自己在让AI帮我做一个相当于做了一个wiki的数据库，做所有AI产品的研究。做了一个这种东西的时候，因为他做的还是有些不靠谱的地方，所以我让他们每个东西都出两份，一份我会在上面改，叫做review version。然后我是这样想的，我说我改的版本改好之后，你每一个我改的版本，你看一下跟你的版本有什么不一样，然后你来沉淀，说我的我的品味是什么，然后这样子你不就可以学习了吗？然后我做做完之后，我就突然觉得说我想的这个方法怎么就自己觉得这么恶心呢？就是很丑。那我就想你自己来想办法，结果他他想的办法就是一个其实他可以用get，对吧？他可以看看diff，所以根本不需要像我那样靠两个版本。
+</p>
+<p class="transcript-line">
+<span class="time"><strong>[01:23:23]</strong> </span>
+<span class="speaker"><strong>发言人3: </strong></span>
+其实就是受限于我。
+</p>
+<p class="transcript-line">
+<span class="time"><strong>[01:23:25]</strong> </span>
+<span class="speaker"><strong>发言人1: </strong></span>
+而且他还有一些地方，他就能不是去用get看diff.
+</p>
+<p class="transcript-line">
+<span class="time"><strong>[01:23:29]</strong> </span>
+<span class="speaker"><strong>发言人2: </strong></span>
+而是他直接出了一批。
+</p>
+<p class="transcript-line">
+<span class="time"><strong>[01:23:31]</strong> </span>
+<span class="speaker"><strong>发言人3: </strong></span>
+类似于题目一样。
+</p>
+<p class="transcript-line">
+<span class="time"><strong>[01:23:34]</strong> </span>
+<span class="speaker"><strong>发言人1: </strong></span>
+他做了一个界面，然后说这个你点评一下这样的好吗？对不对？
+</p>
+<p class="transcript-line">
+<span class="time"><strong>[01:23:37]</strong> </span>
+<span class="speaker"><strong>发言人3: </strong></span>
+然后你有你有不同意见跟我说。
+</p>
+<p class="transcript-line">
+<span class="time"><strong>[01:23:39]</strong> </span>
+<span class="speaker"><strong>发言人1: </strong></span>
+然后给我看六道奇艺圈而已。我先帮你过一下，你的品味到底是什么样子的，我觉得这样也挺好，这样也挺好，但是我之前就管的太细了，但是我自己其实又不在行，又不内行，管的太细插手又多，就是个坏老板。说说目标就可以了。
+</p>
+<p class="transcript-line">
+<span class="time"><strong>[01:23:55]</strong> </span>
+<span class="speaker"><strong>发言人2: </strong></span>
+是是是，这个其实在在我当时管理那个就是我不擅长的领域，因为我在上家公司做产品合伙人的时候，我是我是软件产品经理出身。首先我是确实是不会写代码的。那会儿的时候我是管软件产品、硬件产品工业设计和结构设计。工业设计起码我还能看看好看不好看，漂亮不漂亮。但是结构设计其实是一个非常有他专业这个know how，对对对专业科学的一个岗位。我就是完全不懂了。他刚开始跟我讲什么这个堆叠怎么做拆件，什么是这个分型，什么是合模，什么是留模分析，这些东西我是真的都不懂。我觉得可能他专业差异跟我过于的大了，所以我没有上来那种妄念，就是我要把这个东西学得非常的透彻再去管，然后我可能就是目标了。
+</p>
+<p class="transcript-line">
+<span class="time"><strong>[01:24:49]</strong> </span>
+<span class="speaker"><strong>发言人2: </strong></span>
+比如说我的的生产成本，我的可靠性，我的对外观的一个还原，然后等等等等。更多的是用这个目标和权衡来去提出我的要求。这时候其实大家协作的也会更顺畅一些了。当然他们也会问我就是那那你到底是要什么？你到底是在这个项目上你要成本，还是你要这个可靠性，还是你要这个用户体验，这些其实我觉得也是一个非常好的一个沟通方式了。
+</p>
+<p class="transcript-line">
+<span class="time"><strong>[01:25:22]</strong> </span>
+<span class="speaker"><strong>发言人3: </strong></span>
+其实今天也是得到了很多大开眼界的经验和inside。虽然我是一个20年工程师，我我我用过很多开源项目，可能也提过一些PR，但其实自己也没有运营过一个开源项目。所以今天请到那个instance也一个也是很有缘。
+</p>
+<p class="transcript-line">
+<span class="time"><strong>[01:25:39]</strong> </span>
+<span class="speaker"><strong>发言人3: </strong></span>
+因为我其实很早就知道X的，但是我其实没有意识到这个是网签开发的。所以我们也算是最早的一批HR studio的用户，其实比较适合团队里的非研发同事。其实我们也是一样的，就是我们当初用车studio也不是因为研发同事？八仙过海各显神通，都有自己的方法去使用各种各样的家产品。但是非研发同志可能对他们来讲，就是他们缺少一个在网页版的ChatGPT跟一个可用的多模型，各种场景的这么一个产品。就是我觉得当时就是很好的填补了我觉得市场上的这个缺口。
+</p>
+<p class="transcript-line">
+<span class="time"><strong>[01:26:19]</strong> </span>
+<span class="speaker"><strong>发言人3: </strong></span>
+最后有一个问题还是会比较好奇，就是因为你们希望最终把chair studio或者说对，因为今天我觉得所有人已经不是在做功能了。因为当AI coding能力特别强的时候，其实任何人做的一个功能别人很快就能复刻出来。就像今天如果我们去看，因为今天AI口译能力很强，所以很多人说，我传统的什么VS code或者terminal，开了code的方式已经不好用了。因为我自己也觉得不好用了。虽然我用我之前是用自己的terminal的一些配置，然后还变得好用，但我觉得已经不够用了。所以我再找一些产品，然后我一找产品我就大开眼界。
+</p>
+<p class="transcript-line">
+<span class="time"><strong>[01:26:59]</strong> </span>
+<span class="speaker"><strong>发言人3: </strong></span>
+就是市场上可能有十个不同的叫AIIDE。它本质上是帮你管理十个，你打开的十个的超扣的或者codex的这个窗口，他做了各种各样，但是带来了另外一个问题，就是你会发现这真的是有十几十个这样的产品，每个产品做的都不错。但你要去选择这个产品可能也挺痛苦的。
+</p>
+<p class="transcript-line">
+<span class="time"><strong>[01:27:24]</strong> </span>
+<span class="speaker"><strong>发言人3: </strong></span>
+我自己的感受是今天其实大家去想要卖一个产品给其他人，你得去让大家相信你，你的vision或者说你的philosophy。我会比较好奇说china to do下一个下一步，今天chance是什么？就是大家大家都可以去chair studio的官网上去下载去用一下，对吧？那chair studio在在可出现了，在在你相信狼A狼run age会出现之后，他下一步的vision会是什么呢？
+</p>
+<p class="transcript-line">
+<span class="time"><strong>[01:27:51]</strong> </span>
+<span class="speaker"><strong>发言人2: </strong></span>
+我觉得其实chair斯蒂就下一步的这个目标，就是真正帮企业实现AN native组织的一个。一个建设过程。然后真正实现十倍，甚至在未来百倍的能效提升。
+</p>
+<p class="transcript-line">
+<span class="time"><strong>[01:28:07]</strong> </span>
+<span class="speaker"><strong>发言人2: </strong></span>
+我觉得这个是chair studio的一个核心目标。当然这个企业或者说客户的话，他也会非常的宽泛，甚至现在在大家在讲这个OPC的话，也可能会是我们的一个目标群体。B端和C端的界限会进一步模糊化。一个人他可以是企业，他也是个可以是个体。无论如何就叉SDU都可以帮助他们去实现真正AI的十倍提升。并不只是单点岗位的十倍提升，而是整个组织产出的十倍提升。当然从这些层面就会要倒推推演，chh d6做什么样的事情，做什么样的功能可以能实现这样的目标，这个就会变得很很更具象一些。
+</p>
+<p class="transcript-line">
+<span class="time"><strong>[01:28:57]</strong> </span>
+<span class="speaker"><strong>发言人3: </strong></span>
+你们觉得会把你们自己的使命跟vision还是放在这个效率这一层，就是productivity这一层，更多的是去提升不管是企业还是个人的这个productivity。
+</p>
+<p class="transcript-line">
+<span class="time"><strong>[01:29:07]</strong> </span>
+<span class="speaker"><strong>发言人2: </strong></span>
+提升了效率，大家才有更多的时间享受生活。
+</p>
+<p class="transcript-line">
+<span class="time"><strong>[01:29:12]</strong> </span>
+<span class="speaker"><strong>发言人1: </strong></span>
+你看说话效率多高，然后越来越忙了，不睡觉了。
+</p>
+<p class="transcript-line">
+<span class="time"><strong>[01:29:16]</strong> </span>
+<span class="speaker"><strong>发言人3: </strong></span>
+对，这个我觉得它其实是一个addiction的问题。就是我称之为其实今天你玩code有点像打游戏，就是特别打这种回合制策略游戏对吧？你打了一个回合，然后得到一个正反馈，想想下一个回合要启动成本也很低，对不对？那就不如开始下一回合了。您在今天有什么特别想要跟大家分享的？不管是你想给车子就打个广告，还是还想讲讲你相信的未来或者怎么样，有什么想要愿意再跟大家说的吗？
+</p>
+<p class="transcript-line">
+<span class="time"><strong>[01:29:46]</strong> </span>
+<span class="speaker"><strong>发言人2: </strong></span>
+也欢迎大家用试用一下chi studio。然后社区版的话对所有人都是完全免费的，包括一些小的团队的话，我觉得也都可以免费的用起来，然后也满足这个需求。用的模型的话，我们也是完全开放的，用什么模型都可以，不一定非得给这个Cherry来去投币。然后再有一个就是企业客户也可以来了解一下这个Cherry的企业版，去可以再尝试在在公司层面来去推行，然后也给我们更多的一些实践的反馈。
+</p>
+<p class="transcript-line">
+<span class="time"><strong>[01:30:22]</strong> </span>
+<span class="speaker"><strong>发言人2: </strong></span>
+之前跟朋友聊到过一个话题，就是AI可能带来最大的影响是什么？就是因为大家都在在今天都在讲AI让人失业，让让这个效率提升。但是我觉得可能背后潜在的一个机会是人类文明的下一次的月升。
+</p>
+<p class="transcript-line">
+<span class="time"><strong>[01:30:39]</strong> </span>
+<span class="speaker"><strong>发言人2: </strong></span>
+人大脑的这个神经元可能有有800亿到1000亿的这个数量级，个每个神经元上又有上千个突出连接。就是如果把每个突出连接等效为现在我们讲大模型的这个参数的话，那其实它比今天的这个大模型最大的模型可能都还要高出2到3个数量级。而且它的机制根本又完全不一样，甚至它可能会更高。就这么大的这个参数量的一个智能体，它不可能只做现在AI能做到的事情。如果今天人类的所有的工作都被AI替代之后，人类也许可以实现更高层层面的稳定升级。就像人类不需要再为这个体力劳动去付出自己的时间和精力之后，我们实现了工业化社会生产的一个飞跃。所以我觉得如果AI能替代掉今天人类的所谓的知识工作，或者是脑力工作之后，也许人类会出现新的一次跃升，这个是我最期待看到。
+</p>
+<p class="transcript-line">
+<span class="time"><strong>[01:31:52]</strong> </span>
+<span class="speaker"><strong>发言人1: </strong></span>
+的体力不用体力劳动，大家变成白领，不当白领了之后，我们大家都可以修仙，总有意想不到的另外一个维度上的事情可以发生。
+</p>
+<p class="transcript-line">
+<span class="time"><strong>[01:32:01]</strong> </span>
+<span class="speaker"><strong>发言人2: </strong></span>
+说对，下次就是特异功能了。
+</p>
+<p class="transcript-line">
+<span class="time"><strong>[01:32:05]</strong> </span>
+<span class="speaker"><strong>发言人3: </strong></span>
+好的，今天很高兴邀请到这chair studio的founder instance，感谢他也给大家分享了很多怎么运营一个外部贡献者比内部贡献者提供了更多代码的这样一个开源项目。也给大家分享了他自己对于一个AIN的组织实际遇到的问题，跟他们的一些解决方案跟设想。最后欢迎大家可以去尝试去下载一下cheer studio。如果你是个对AI很感兴趣大学生，你也可以考虑给这个项目提供贡献代码。他们不但管订阅还管饭。今天这一期的爱炼金术就到这里了，欢迎大家收藏订阅，可给我们留言评论对吧？Mars老师是一定会看评论的，我会尽我所能偶尔看一下。
+</p>
+<p class="transcript-line">
+<span class="time"><strong>[01:32:54]</strong> </span>
+<span class="speaker"><strong>发言人2: </strong></span>
+谢谢。好的，拜拜。
+</p>
+<p class="transcript-line">
+<span class="time"><strong>[01:32:56]</strong> </span>
+<span class="speaker"><strong>发言人3: </strong></span>
+好好好。
+</p>
+<p class="transcript-line">
+<span class="time"><strong>[01:32:58]</strong> </span>
+<span class="speaker"><strong>发言人1: </strong></span>
+谢谢，拜拜。
+</p>
+<p class="transcript-line">
+<span class="time"><strong>[01:33:05]</strong> </span>
+<span class="speaker"><strong>发言人4: </strong></span>
+If you will not feel on my side. With my. See the same.
+</p>
+<p class="transcript-line">
+<span class="time"><strong>[01:33:29]</strong> </span>
+<span class="speaker"><strong>发言人4: </strong></span>
+How kiss that just me the thing.
+</p>
+<p class="transcript-line">
+<span class="time"><strong>[01:33:47]</strong> </span>
+<span class="speaker"><strong>发言人4: </strong></span>
+I feel.
+</p>
+<p class="transcript-line">
+<span class="time"><strong>[01:33:58]</strong> </span>
+<span class="speaker"><strong>发言人4: </strong></span>
+For because you want all to没到这里，没你关心什么也。
+</p>]]></content:encoded>
+            <pubDate>Thu, 19 Mar 2026 13:00:32 GMT</pubDate>
+            <guid>69bbfc43efabb9c9895157d3</guid>
+        </item>
         <item>
             <title>余一：如何高效 PUA 100 个 Agents 为你卖命</title>
             <link>https://www.xiaoyuzhoufm.com/episode/69b3e6f8719b26db811623df</link>
@@ -35195,597 +36453,6 @@ No, we don&#x27;t care. We don&#x27;t make. We got dream. They don&#x27;t unders
 </p>]]></content:encoded>
             <pubDate>Tue, 10 Jun 2025 12:30:00 GMT</pubDate>
             <guid>684827ac7dd7cf6566106f72</guid>
-        </item>
-        <item>
-            <title>拥抱 AI，CEO 要做的 10 件事｜任鑫Mars</title>
-            <link>https://www.xiaoyuzhoufm.com/episode/684235367b5695c4a33de8a3</link>
-            <description>欢迎来到新一期《AI炼金术》，这是任鑫Mars的一期单口。
-作为CEO或者创业者，是否想拥抱 AI 却不知从何下手？觉得 AI 落地太复杂，公司动不起来？别纠结了，先从自己开始，你自己可以从哪儿入手，能做哪些事儿？你可以立刻动手做的十件事，帮你建立AI真实体感！
-「 关键结论 」
-核心是用起来：别只提升认知却不行动，关键在于实际使用。
-AI 应用闭环体验：做自媒体更新20条内容，能完整体验AI在商业上的应用。
-Agent 标准：不在于设计多好，而在于能否100%完成你的任务；公司遇到问题就一定会用它。
-体感至上：别光看不练，先建立真实的使用体感，每天和 AI 互动。
-统一思想不如统一提示词：公司要统一思想，共享提示词是最好的方法。
-时间线：
-0:02:31 第一件事：下载热门AI应用，先用起来！
-点开热门 AI 应用玩个遍，建立最初的 AI 体感。
-进阶版： 把至少两个AI应用放在手机导航栏，时刻提醒自己多用！
-0:05:36 第二件事：购买海外一线AI工具会员，体验顶尖水平！
-强烈建议购入ChatGPT, Claude, Gemini等AI工具的付费账号。用最好的工具，感受最前沿的技术。
-小贴士： B站搜索购买教程，或在公司内部寻求帮助。也可以试试Poe或Monica这类集合了多种大模型的工具。
-0:08:12 第三件事：至少体验三次Deep Research功能，让AI成为你的情报官！
-尝试 Deep Research 功能，它能主动进行大量信息收集，并从不同角度深入挖掘。尤其适合研究你不熟悉的领域，比如市场格局调研、新兴企业分析、AI与本行业结合的应用场景等。还可以用它来学习别人已交过的“学费”，完善你的创业点子。
-0:11:53 第四件事：用AI辅助学习，效率倍增！
-将你想学习的内容（如YouTube频道、文章）丢给AI，告诉它你的学习目标，让AI帮你筛选重点、总结方法论、提炼案例。
-进阶版： 发现有价值的内容后，让AI帮你深挖作者的更多相关思想，将学到的知识应用于你的实际工作。
-0:15:16 第五件事：创建你的第一个AI智能体（Agent）
-不要被“Agent”概念吓到，最简单的Agent就是一段存下来的、可复用的提示词。试试在豆包里创建一个，比如笔记助手，让它帮你总结知识点、案例，甚至反驳你的笔记以拓宽思路。
-真实案例： 创建一个翻译Agent，帮你润色英文，或将中文自然地翻译成口语化英文。还可以创建“奇异博士”这样的决策参谋Agent，帮你从多角度审视决策。
-0:19:30 第六件事：学会录音，并用AI处理录音稿，获取额外视角！
-开会时使用通义千问等工具进行实时记录，或将会后录音转写成文字。将文字稿交给AI（如Gemini, ChatGPT），让它帮你生成会议纪要。
-更重要的是： 会议录音是宝贵的上下文信息。将包含大量公司讨论的录音稿喂给AI，能让AI更了解你的业务，从而在战略分析、复盘反思时给出更精准的建议。
-0:22:00 第七件事：开设一个自媒体账号，并更新20条内容，倒逼自己深度使用AI！
-定下更新20条内容的目标，你将不得不依赖AI。 从定位、用户分析、AI工具选择到内容生产、复盘迭代，完整体验一遍AI在商业上的应用闭环。
-半AI模式： 像AI炼金术播客一样，先人工对谈，再用 AI 剪辑并生成长文。
-全AI模式： 利用 AI 生成系列内容，如“听懂一百篇AI经典论文”或“拆解100个AI明星产品”播客，从选题、研究到内容生成，大部分由 AI 完成。
-0:27:06 第八件事：打造一个工作中真正会用到的Agent，实现100%任务替代
-将你的工作拆解成具有明确输入、处理流程和输出模块。 挑选重复性的模块，尝试制作能100%替代你这部分工作的Agent。
-0:30:00 第九件事：撰写一个超长的“母提示词”（Stone Prompt），让AI更懂你
-写下几千字的个人介绍，AI了解你越多，给出的回答质量就越高。
-延伸思考： 公司层面也可以统一核心价值观的“母提示词”，各部门再继承并加入自身偏好，实现“提示词对齐”，这才是最好的统一思想。 核心在于告诉AI那些“它不知道，但你知道”的上下文信息。
-0:35:41 第十件事：行动起来，并在公司内部做一次分享
-用 AI 关键在于建立真实体感，而不是停留在认知层面。
-欢迎订阅「AI 炼金术」的播客，以及同名公众号、视频号
-「AI 炼金术」是一档由徐文浩和任鑫——两位多年老友、AI 领域的资深从业者——打造的播客。这里是探讨 AI 和创业的理想聚集地，我们会邀请一线创业者、产品产品和科研学者，深入探讨 AI 如何重塑行业、变革生活，以及如何从 0 到 1 打造 AI 原生产品。
-我们的讨论会涵盖多个话题：从 AI 如何改变世界的未来，到如何找到 AI 创业的 PMF；从如何利用 AI 降本增效，到怎样将 AI 技术融入日常生活……如果你对 AI、产品、创业感兴趣，这里有满满的干货和一线实战经验，欢迎关注并推荐给你的朋友，共同探索未来的无限可能！
-商务合作：公众号 「AI炼金术 」菜单栏中【商务】获取联系方式
-节目主理人：
-徐文浩：某AI创业公司联合创始人，正在面向全球市场开发AI应用。连续创业者，参与过多家创业公司，拼多多早期员工。广告科技公司MediaV的算法和数据负责人，后被360收购。离开后加入成立不到1个月的拼多多。后创办了基于AI的海外客服聊天机器人公司 BotHub.AI 和 海外社交电商平台 Bukito 都宣告失败。2023年再次下场创业。
-任鑫：云九资本合伙人，主要在投资和孵化面向全球市场的 AI 应用。之前是连续创业者，曾经打造“今夜酒店特价”用移动互联网应用特价销售酒店尾房；被京东并购后内部创业“京东到家”开展本地即时零售业务；2015 年再次创业 Get 探索对话式人工智能助理成为先烈；2021 年出售公司，2023 年重新回到 AI 世界。
-BGM：
-片头：Shortwire - Reconfig
-片尾：elijah woods - where we&#x27;re going</description>
-            <content:encoded><![CDATA[<h1>转写链接</h1>
-<link>https://tongyi.aliyun.com/efficiency/doc/transcripts/zj78qppdbvlwqxdp</link><br>
-<h1>节目摘要</h1>
-<div class="summary">讲话者强烈建议听众积极利用人工智能（AI）技术，包括下载并尝试多个AI应用，尤其推荐使用海外高级AI工具，以进行深入研究。强调创建自媒体并持续更新内容的重要性，同时指出实际操作远比单纯认知来得关键。内容覆盖了个人利用AI学习、创建智能体助手、录音并利用AI处理，甚至开AI相关的播客，以提升工作效率和个人能力。最后，鼓励听众在公司内部推广AI的使用，彰显实践和体验在AI学习过程中的核心地位。通过这些措施，听众能更全面地理解和应用AI技术，从而在个人和职业发展中获得显著提升。</div><br>
-<h1>章节速览</h1>
-<div class="chapters">
-<div class="chapter-item">
-<span class="time"><strong>[00:00:00]</strong> </span>
-<span class="chapter-title"><strong>CEO如何利用AI提升个人效率的十个实践方法</strong></span>
-<div class="chapter-summary">本期节目是基于演讲内容，专注于探讨CEO和创业者如何通过AI技术提高个人效率。演讲者分享了十个简单易行的实践方法，旨在帮助听众快速掌握并应用AI，从而显著提升工作效率。这期节目适合那些每天使用AI时间少于2小时，希望在AI领域有所发展的创业者和CEO们。内容聚焦于实际操作，而非高深理论，适合初学者快速上手。</div>
-</div>
-<div class="chapter-item">
-<span class="time"><strong>[00:02:31]</strong> </span>
-<span class="chapter-title"><strong>通过下载和使用AI应用增强AI体验</strong></span>
-<div class="chapter-summary">建议首先下载多个AI应用和访问AI相关网站以增强对人工智能的直观体验。推荐在手机的应用商店搜索“AI”下载相关应用，并利用导航站如AI bot点CN、AIGC点CN等获取热门AI应用信息。进阶建议是将至少两个AI应用放置在手机的快速访问栏，以提高日常使用频率，增强对AI应用的熟悉度和使用效果。</div>
-</div>
-<div class="chapter-item">
-<span class="time"><strong>[00:05:35]</strong> </span>
-<span class="chapter-title"><strong>CEO应购买海外一线AI工具并体验deep research功能</strong></span>
-<div class="chapter-summary">建议所有CEO至少购买一个海外一线的AI工具，如ChatGPT cloud或吉米奶的会员账号，以体验其独特功能和提升工作效率。此外，建议CEO们至少使用三次deep research功能，以更深入地理解和应用AI技术。同时，提出通过B站教程或公司内部交流来解决使用这些海外工具可能遇到的障碍。</div>
-</div>
-<div class="chapter-item">
-<span class="time"><strong>[00:08:21]</strong> </span>
-<span class="chapter-title"><strong>深入理解Deep Research及其应用</strong></span>
-<div class="chapter-summary">Deep Research是一种高级研究方法，它通过主动收集和分析大量信息，为用户提供详细的报告和见解，而不仅仅依赖关键词搜索。这种方法适用于我们不熟悉但又重要的领域，如市场格局、新兴企业分析或跨行业结合的案例。通过利用Deep Research，用户可以获取到更深入的市场洞察和创新想法，特别是在探索新市场或产品方向时，能够从别人的经验中学习，从而完善自己的创业点子和市场计划。建议每位同学尝试使用三次Deep Research功能，以体验其与普通深度搜索的不同，并在自己的专业领域外寻找新的视角和思路。</div>
-</div>
-<div class="chapter-item">
-<span class="time"><strong>[00:11:52]</strong> </span>
-<span class="chapter-title"><strong>利用AI加速学习和研究方法</strong></span>
-<div class="chapter-summary">通过使用AI，可以更高效地学习和研究。方法包括让AI筛选和分析大量内容，如观看视频或阅读文章，从而快速找到感兴趣的点和反共识观点。此外，AI还能进行深度研究，帮助整理特定人物或主题的全面信息，进一步深化理解和应用。通过这种方式，AI不仅加速了学习过程，还能帮助发掘和利用更多有价值的信息和资源。</div>
-</div>
-<div class="chapter-item">
-<span class="time"><strong>[00:15:16]</strong> </span>
-<span class="chapter-title"><strong>创建AI智能体助手：从基础到高级应用</strong></span>
-<div class="chapter-summary">讨论了创建AI智能体助手的基础方法，包括在豆包等平台上创建最简单的存留prompt，以及如何利用更高级的AI工具如ChatGPT进行复杂任务，如笔记整理、英语翻译和决策参谋。通过具体实例，强调了AI智能体在日常和专业场景中的实用价值。</div>
-</div>
-<div class="chapter-item">
-<span class="time"><strong>[00:19:29]</strong> </span>
-<span class="chapter-title"><strong>利用录音和AI提升会议效率与个人洞察</strong></span>
-<div class="chapter-summary">建议通过录音并利用AI的实时记录和音视频转写功能，将会议内容整理为文字稿，以便进一步分析和总结。此外，通过给AI提供丰富的上下文，可以获取更高质量的战略分析建议。同时，建议开一个自媒体并更新20个内容，利用AI帮助进行内容创作和定位，以吸引更多目标受众。</div>
-</div>
-<div class="chapter-item">
-<span class="time"><strong>[00:22:27]</strong> </span>
-<span class="chapter-title"><strong>运用AI技术提升自媒体内容生产和效率</strong></span>
-<div class="chapter-summary">讨论了如何利用AI技术进行自媒体的定位、内容生产和优化流程，包括利用AI工具进行内容创作、剪辑和分析，以及通过AI生成播客和长文，从而实现高效、高产的自媒体运营。此外，还提到了如何通过AI研究经典论文和拆解AI明星产品，以轻松的方式提供科普和启蒙内容。最后，建议读者利用AI技术来提高实际工作中的效率和质量。</div>
-</div>
-<div class="chapter-item">
-<span class="time"><strong>[00:27:11]</strong> </span>
-<span class="chapter-title"><strong>将AI应用融入工作流的具体方法</strong></span>
-<div class="chapter-summary">对话强调了将AI技术成功落地到公司工作流中的关键步骤，包括将工作职责拆解为具体的、可由AI处理的任务模块，以及确保这些AI代理能够100%完成特定任务，从而提升工作效率和实用性。此外，通过监控AI工具的使用时间和自编AI代理的数量，可以衡量AI在工作中的应用效果。最终目标是找到实际工作中的具体模块，将其转化为AI代理，并实现完全替代，以此增强对AI应用的感知和能力。</div>
-</div>
-<div class="chapter-item">
-<span class="time"><strong>[00:30:27]</strong> </span>
-<span class="chapter-title"><strong>创建个性化长提示词以优化AI互动效果</strong></span>
-<div class="chapter-summary">对话建议撰写一个详细的、包含个人或公司背景信息的长提示词，以便AI能够更好地理解并提供针对性的建议。这种长提示词可以包含星座、MBTI、工作困难、个人价值观等信息，旨在通过几千字的自我介绍提升后续AI回答的质量。此外，还提到了为不同部门定制提示词以实现公司内部思想的统一，将此视为一种有效的管理工具。</div>
-</div>
-<div class="chapter-item">
-<span class="time"><strong>[00:34:30]</strong> </span>
-<span class="chapter-title"><strong>利用AI提升工作效率与团队协作</strong></span>
-<div class="chapter-summary">对话强调了利用乔哈里窗理论来优化与AI的互动，指出在AI比人类更聪明的背景下，应更多地向AI提供其未知而人类已知的信息，如公司现状、个人价值观等，以促进AI更有效的学习和应用。同时，建议通过实际操作，如使用AI进行研究、学习、处理录音等，来建立对AI应用的直观感受，并鼓励在公司内部分享这些经验，以激发团队成员对AI技术的兴趣和应用。最后，提到了订阅相关科普内容以深入了解AI基础知识的重要性。</div>
-</div>
-</div><br>
-<h1>问题回顾</h1>
-<div class="qa-item">
-<div class="question"><strong>Q:</strong> 对于CEO或创业者来说，第二个要做的事情是什么？</div>
-<div class="answer"><strong>A:</strong> 第二个建议是购买至少一个海外一线AI工具的会员账号，如ChatGPT cloud、Jimi奶等，以获得更好的体验和更多的功能。</div>
-</div>
-<div class="qa-item">
-<div class="question"><strong>Q:</strong> 在AI应用方面，对于CEO或创业者来说，首要推荐做什么？除了下载AI应用，还有哪些建议可以帮助提高对AI的使用认知？</div>
-<div class="answer"><strong>A:</strong> 首要推荐是下载至少10个AI应用，并打开10个AI相关网址，先用起来形成初步体验。可以通过在手机应用商店搜索“AI”来发现和下载各类AI应用。另一个建议是将部分常用AI应用放在手机dock栏的固定位置，比如最下面的四个按钮中，这样每天看到它们就能自然提醒自己多使用这些AI应用。</div>
-</div>
-<div class="qa-item">
-<div class="question"><strong>Q:</strong> 为什么强调要使用海外一线的AI工具？</div>
-<div class="answer"><strong>A:</strong> 使用海外一线的AI工具，如ChatGPT cloud和Jimi奶，能够提供更优质的模型和体验，相较于国内的一些AI工具会有显著差异。作为CEO或创业者，投资在这方面的几百块钱是非常值得的，因为这将直接影响到工作效果和决策效率。</div>
-</div>
-<div class="qa-item">
-<div class="question"><strong>Q:</strong> 在使用AI工具时，是否推荐使用综合套壳工具，比如莫妮卡或POE？</div>
-<div class="answer"><strong>A:</strong> 我建议可以使用像莫妮卡或POE这样的综合套壳工具来初步体验各种大模型，它们将多个模型整合在一起，只需支付一定的费用即可尝试所有模型。但若具备条件，我更推荐直接去官方网址创建账号，因为官方平台可能提供尚未开放给API的更多功能，使用体验会更好。</div>
-</div>
-<div class="qa-item">
-<div class="question"><strong>Q:</strong> 对于遇到使用障碍的同学，有什么解决方法吗？</div>
-<div class="answer"><strong>A:</strong> 遇到使用障碍时，有两点建议：一是利用B站搜索购买空格L（ChatGPT）等账号教程，网上也能找到很多相关教程；二是鼓励在公司内部寻找已经购买这些工具的同事，请求他们分享使用经验并进行教学。</div>
-</div>
-<div class="qa-item">
-<div class="question"><strong>Q:</strong> 对于CEO或创业者，如何有效利用AI工具？</div>
-<div class="answer"><strong>A:</strong> 创业者或CEO应至少购买并体验一次海外一线AI工具的账号，并且建议至少三次使用deep research功能。deep research不仅进行初步搜索，还会主动从多个角度收集信息，生成详细报告，提供深度且全面的知识挖掘体验，尤其适用于对某个领域不熟悉但又想了解其重要信息的情况。</div>
-</div>
-<div class="qa-item">
-<div class="question"><strong>Q:</strong> deep research最适合应用于哪些场景？</div>
-<div class="answer"><strong>A:</strong> deep research最适合应用于需要深入了解且自身不熟悉的领域，例如市场调研、行业趋势分析、结合AI的实际应用场景探索等。它能够帮助做市场格局调研，提供关于某一行业与AI结合的典型应用场景和真实案例，帮助完善创业点子和形成更可靠的产品市场计划。</div>
-</div>
-<div class="qa-item">
-<div class="question"><strong>Q:</strong> 如何通过AI进行跨语言学习和获取启发？</div>
-<div class="answer"><strong>A:</strong> 可以通过AI进行英文搜索并要求中文报告，以获取深度研究的维度和借鉴意义。例如，在准备进入某个海外市场时，可以让AI找到历史上有借鉴价值的案例，并提供相关产品的信息和市场策略，从而帮助学习并完善自己的创业项目。同时，也可以利用AI学习新的知识领域，如观看特定频道的视频内容并从中提炼关键观点和方法论。</div>
-</div>
-<div class="qa-item">
-<div class="question"><strong>Q:</strong> AI如何帮助我们高效地筛选学习内容？</div>
-<div class="answer"><strong>A:</strong> 我可以将学习内容的第一遍初筛逻辑交给AI，例如jim a的大远模型，它能挑出我可能感兴趣的文字内容，相比自己看视频更高效。</div>
-</div>
-<div class="qa-item">
-<div class="question"><strong>Q:</strong> AI在学习过程中的进阶作用是什么？</div>
-<div class="answer"><strong>A:</strong> AI不仅可以帮助我们快速学习，还能拓宽视野、深入理解。通过提供deep research服务，AI可以帮我整理和梳理关于某个主题的所有信息，并基于我的需求给出深度见解和设计建议。</div>
-</div>
-<div class="qa-item">
-<div class="question"><strong>Q:</strong> 如何利用AI进行深入研究并获取相关资源？</div>
-<div class="answer"><strong>A:</strong> 可以通过告诉AI你想从中学到什么，让它帮你进行deep research，整合并呈现所需信息。例如，针对企业AI领域的研究，AI能够收集并整理相关资料，形成系统观点，甚至找到类似领域的其他宝石和专家意见。</div>
-</div>
-<div class="qa-item">
-<div class="question"><strong>Q:</strong> 如何创建AI智能体助手以提升工作效率？</div>
-<div class="answer"><strong>A:</strong> 建议大家创建一个AI智能体助手，以增强工作效率。最简单的方法是在豆包等平台创建新对话，设置AI智能体，通过写入提示词来定义其功能，如笔记助手、翻译助手等。这样，AI就能根据提示词复用并执行相应任务，帮助我们提高工作效能。</div>
-</div>
-<div class="qa-item">
-<div class="question"><strong>Q:</strong> AI智能体助手的实际应用场景有哪些？</div>
-<div class="answer"><strong>A:</strong> 实际应用中，可以创建专门的AI智能体助手，例如翻译助手，用于修改和优化英语表达，提高英语水平；或者作为决策参谋，为创业者CEO提供决策支持。通过个性化设置和训练，AI能更好地服务于特定场景需求。</div>
-</div>
-<div class="qa-item">
-<div class="question"><strong>Q:</strong> 在与用户交流后，如何利用多元宇宙的概念来理解决策错误及其补救措施？</div>
-<div class="answer"><strong>A:</strong> 当你听到用户描述的状态时，可以探讨在三个平行宇宙中，由于某个决策的错误，用户如何发现其他未看到的选项并走向了意想不到的道路。然后讨论后续如何通过补救和调整，最终得到一个happy ending。这个过程可以帮助用户认识到决策错误背后的隐含假设，并学会如何更好地决策。</div>
-</div>
-<div class="qa-item">
-<div class="question"><strong>Q:</strong> 如何利用AI工具如通义进行录音转录并辅助决策分析？</div>
-<div class="answer"><strong>A:</strong> 首先尝试使用通义进行实时录音和音视频转写功能，在会议中开启录音并将其转为文字稿，再将该文档丢给AI工具（如吉木乃或ChatGPT）进行分析。例如，要求AI根据会议内容整理会议纪要或提供战略分析建议，从而利用丰富的上下文帮助AI给出更有针对性的回答。</div>
-</div>
-<div class="qa-item">
-<div class="question"><strong>Q:</strong> 如何运用AI创建并维护一个有效的自媒体内容更新流程？如何结合AI实现内容创作自动化或半自动化？</div>
-<div class="answer"><strong>A:</strong> 建议创建一个自媒体并设定更新20个内容的目标，通过与AI讨论和规划，确定自媒体定位、目标用户以及选择的AI工具。然后根据AI生成的内容反馈进行调整优化，形成从定位到生产、发布再到根据反馈调整的闭环实验，逐步实现AI辅助下的高效内容创作流程。可以通过AI完成部分内容创作工作，比如通过AI剪辑播客，生成一篇基于对话内容的长文，这样既节省了时间，也实现了内容的快速产出。对于每周更新20篇内容的目标，可以探索全AI或高度自动化的工作流程，让AI完成大部分工作，从而提高效率和内容生产力。</div>
-</div>
-<div class="qa-item">
-<div class="question"><strong>Q:</strong> AI如何在战略会议等场景中提供深度洞察？</div>
-<div class="answer"><strong>A:</strong> 在战略会议等场景中，通过AI处理大量的语料数据，结合提问者的角色和发言内容，生成详尽的上下文背景信息，让AI能够给出更高质量的战略思考建议。同时，还可以让AI从第三方视角分析互动和对话，为决策者提供异步的洞察视角。</div>
-</div>
-<div class="qa-item">
-<div class="question"><strong>Q:</strong> 如何利用AI工具快速生成论文内容并制作成播客？对于复杂内容如拆解成功AI产品的案例，是如何操作的？</div>
-<div class="answer"><strong>A:</strong> 通过让Google notebook LM使用5到15分钟的时间，根据每篇论文和Wikipedia链接生成两位角色的中文对谈。首先，只需让AI生成100篇论文的单个文档及其链接，然后将这些链接输入到Google notebook LM中，选择生成播客功能，即可轻松创建出包含论文讲解的播客。针对拆解100个AI明星产品的案例，首先选定100个成功的AI公司，让AI协助进行初步分析。接着，挑选部分公司，交给ChatGPT进行深度研究，探究其成功背后的定位、技术和历程。之后，将ChatGPT的研究成果和推荐的十篇关键素材一起输入到Google notebook LM中，让它生成两个人物的对话内容，介绍该公司是如何建立起来的，最终形成一期5到15分钟的播客。</div>
-</div>
-<div class="qa-item">
-<div class="question"><strong>Q:</strong> AI技术如何帮助进行启蒙和科普工作？</div>
-<div class="answer"><strong>A:</strong> AI可以协助将复杂的论文内容以易于理解的方式呈现出来，让用户在短时间内了解论文主旨，达到科普效果，虽然深度解读无法替代，但通过这种方式，用户能快速获取相关知识，从而激发进一步学习的兴趣。</div>
-</div>
-<div class="qa-item">
-<div class="question"><strong>Q:</strong> 如何利用AI技术优化企业工作流程并落地实施？</div>
-<div class="answer"><strong>A:</strong> 企业应先从自身日常工作出发，识别出重复且可拆解的任务，并将其转化为有明确输入、处理和输出的单个模块。例如，可以开发记笔记或翻译的AI agent，逐步替代部分人工工作，随着AI能力的提升，逐步替换更多任务。重要的是要确保所开发的agent能够百分之百完成指定任务，真正解决实际问题。</div>
-</div>
-<div class="qa-item">
-<div class="question"><strong>Q:</strong> 如何监控AI工具的使用效果以及如何提高提示词的质量？</div>
-<div class="answer"><strong>A:</strong> 企业需要监控员工是否充分利用AI工具，如查看使用AI工具的时间长短和自编agent的数量。同时，建议员工编写较长且详细的提示词（至少上千字），包括个人偏好、工作困难、价值观等信息，以提高AI工具的回答质量和适应性，从而更好地满足实际工作需求。</div>
-</div>
-<div class="qa-item">
-<div class="question"><strong>Q:</strong> 在与ChatGPT等工具互动时，如何提供背景信息以获得更好的回应？</div>
-<div class="answer"><strong>A:</strong> 强烈建议用户编写几千字的提示词，包含个人或公司背景、偏好、目标等内容。如果工具支持定制化提示词，可将其作为母提示词放入背景中；如果不支持，则可以先输入一段较长的提示词，每次与AI对话时再根据需求调整。通过这种方式，AI能更好地理解用户并给出相关性更高的回应。</div>
-</div>
-<div class="qa-item">
-<div class="question"><strong>Q:</strong> 如何利用提示词来实现公司内部各部门之间的统一思想和文化对齐？</div>
-<div class="answer"><strong>A:</strong> 每个部门可以根据公司的整体提示词（母提示词）创建自己的子提示词，融入部门特定的背景、偏好和约束原则。这样，每个员工继承部门的提示词，公司内部就形成了有效的元素对齐，有助于各部门在使用AI时保持一致的思想和价值观。</div>
-</div>
-<div class="qa-item">
-<div class="question"><strong>Q:</strong> 面对比我们更聪明的AI，我们应该如何与其互动并发挥其作用？</div>
-<div class="answer"><strong>A:</strong> 应该尽可能暴露AI不知道但你知道的上下文信息，如公司当前状况、关心的问题、价值观、原则和偏好等，并减少在AI已知的领域内提供指导性内容，以免限制AI探索未知领域的发挥空间。</div>
-</div>
-<div class="qa-item">
-<div class="question"><strong>Q:</strong> 如何通过实际行动推动员工理解和应用AI技术？</div>
-<div class="answer"><strong>A:</strong> 建议领导者首先尝试这九件事情，并在公司内部分享自己的实践经历，包括遇到的困难和启发，以此激发员工的积极性。同时，鼓励员工也动手实践，建立对AI的实际认知和体感，从而带动整个团队更好地利用AI工具。</div>
-</div>
-<div class="qa-item">
-<div class="question"><strong>Q:</strong> 对于想要深入学习和实践AI的用户，有哪些具体的建议？</div>
-<div class="answer"><strong>A:</strong> 建议用户注册海外账号，进行三次深度研究，利用AI进行自我学习，制作AI agent，学会录音并利用AI处理录音，开设自媒体，编写大的母提示词，并举办一场分享会，展示如何运用AI。通过这些实践，用户能建立起对AI的真切感知，进而更有效地利用这项技术。</div>
-</div>
-<h1>节目文稿</h1>
-<p class="transcript-line">
-<span class="time"><strong>[00:00:05]</strong> </span>
-<span class="speaker"><strong>发言人1: </strong></span>
-建议大家下一个应用，然后至少买一个海外的账号，然后用三次deep research。公司里面假如说我有什么事情需要说，大家要统一思想。那其实不如统一提示词share prompt才是最好的统一思想。建议大家开一个自媒体，然后更新20个内容。
-</p>
-<p class="transcript-line">
-<span class="time"><strong>[00:00:36]</strong> </span>
-<span class="speaker"><strong>发言人1: </strong></span>
-大家好，欢迎大家来到AI炼金术。今天这一期又是一个单口的节目，这其实是我上周在那功能上海的一个演讲。然后这个演讲获得了非常好的一个反馈，然后让我觉得说可能大家真的需要这方面的内容。所以把它拿过来跟大家再私下的再唠一唠。
-</p>
-<p class="transcript-line">
-<span class="time"><strong>[00:00:55]</strong> </span>
-<span class="speaker"><strong>发言人1: </strong></span>
-这个演讲讲什么内容呢？主要讲的就是说每一个CEO，每一个创业者自己个人应该从哪里入手，可以做哪些AI的事情。因为经常我也会讲一些大道理，大家平时也会看到很多震惊啼说这个改变世界，那个改变世界，但是就有点无从下手是吧？然后也不知道公司该怎么干。比如说就会告诉你要学这个，要装那个，要什么部署，这个就动不起来。但是实际上世界上有非常多的马上就能做的事情。作为一个创业者，作为一个CEO，你马上就能干的事情，其实就能显著的提高你个人的效率。没有一件事情是你一定会拦在什么基础上干不好的那我今天就会给大家十个你一定能做到的事情。
-</p>
-<p class="transcript-line">
-<span class="time"><strong>[00:01:38]</strong> </span>
-<span class="speaker"><strong>发言人1: </strong></span>
-而当你把这十件事儿做到的话，我觉得应该作为一个创业者CEO的话，你的AI的认知，AI的真实的使用的体感会变得比原来好很多。所以这一期其实是有一点科普向的一个节目。所以你如果是大神，你已经用了多少个软件了，然后你已经是大牛了，那可以把它关掉，推荐给你身边还不是大牛的同学们。然后如果你现在每天用AI的时间小于2个小时的话，那其实你可以听一下，看看中间有没有什么事情是可以帮助到你的。或者你身边有同学，朋友，他想要搞AI那又不知道从哪里搞起。那你也可以把这一期播客转发给他，因为这一期就是非常实在的告诉你，十个点，时间做了基本上就差不多。而且这十件事儿都是非常初级的幼儿园的东西，然后就是大家先干。
-</p>
-<p class="transcript-line">
-<span class="time"><strong>[00:02:31]</strong> </span>
-<span class="speaker"><strong>发言人1: </strong></span>
-好的，首先讲第一件事儿，第一件事儿就是叫做下载APP。什么叫下载APP呢？就是我发现大部分人手机里面没有几个AI应用，所以第一件事儿就是强烈建议每位同学你去下载AI应用。除了deep sick之外也有豆包，除了豆包也有kimi，除了kimi也有快手的，比如说那个可怜什么的，在有些在手机上，有些在电脑上。所以第一件事儿的话，你先不要去学习什么认不认知这些东西。
-</p>
-<p class="transcript-line">
-<span class="time"><strong>[00:03:00]</strong> </span>
-<span class="speaker"><strong>发言人1: </strong></span>
-第一件事儿其实是你要下载手机里下载足够多的应用，在你的浏览器里打开足够多的AI网址，然后你先用起来。如果你不知道该怎么样找这些东西的话，几个方法我讲了，今天是科普向的。第一个就是你跑到你的应用商店，你搜AI。我刚刚在苹果里面搜了，你搜到的就是会什么元宝、什么新会、什么夸克、什么face play、猫箱，你管它是啥，全下来，每个都用一下，你产生一个体感。
-</p>
-<p class="transcript-line">
-<span class="time"><strong>[00:03:29]</strong> </span>
-<span class="speaker"><strong>发言人1: </strong></span>
-要不然的话，其实说AI说一说一堆，对吧？那其实还是不会。就有点像是比如说iphone出来，移动互联网出来之后，一个人跟你讲一堆的关于移动互联网的未来，但是他用的还是诺基亚的手机。另外一个人，他天天在那边买了一个新的iphone，在那边下载新的软件。那谁对于这事儿会更有体感呢？我相信还是第二个人，就是你得用起来。
-</p>
-<p class="transcript-line">
-<span class="time"><strong>[00:03:51]</strong> </span>
-<span class="speaker"><strong>发言人1: </strong></span>
-所以第一件事儿就是你赶紧把AI的应用，然后AI的那些网站打开。那你会说可能，可是我还是不知道有哪里有啊，除了你说的这个搜索，对吧？另外也会有一些导航站，比如说什么AI bot点CN，AIGC点CN这些站的话它都是一些导航站，就有点像很hao 123。
-</p>
-<p class="transcript-line">
-<span class="time"><strong>[00:04:11]</strong> </span>
-<span class="speaker"><strong>发言人1: </strong></span>
-如果知道这个年同学应该暴露年龄了，hao 123那你就可以。它上面会把那种热门的那些AI应用都列在上面，你就一个个点开先玩一下，对吧？纤体感一下。所以这就是一个非常简单的第一件你可以做的事情就是下载至少10个AI应用，然后打开10个AI网址，那你就都玩一下，这比上课有用对吧？
-</p>
-<p class="transcript-line">
-<span class="time"><strong>[00:04:32]</strong> </span>
-<span class="speaker"><strong>发言人1: </strong></span>
-然后当你都玩过一遍之后，给你第二个建议，就还是第一件事儿，我想十件事儿每件事儿都有一个基础版，就是你下载几个应用。那还有一个进阶版，就是你把两个应用放在你的docker的地方，就是你的手机不是有一个每一屏都会下面会有四个那个按钮是不变的。一般的那四个按钮是电话、短信，还有什么浏览器什么的。你把这四个坑位至少留两个坑位给AI的应用。这个时候你每天看到它，那你就自然而然会被提醒要更加把这些AI应用用起来，多被提醒要用我自己。现在这四个放的就是给我放了ChatGPT，一个放微信，那是没有办法。还有一个我放了一个通义，它就叫通义。
-</p>
-<p class="transcript-line">
-<span class="time"><strong>[00:05:14]</strong> </span>
-<span class="speaker"><strong>发言人1: </strong></span>
-然后我还放了一个是flom a然后帮我记那笔记。他现在也号称叫AI应用了，对吧？早两期跟少男那一期聊了，所以把它放到了最底下，多下载的一些AI应用。然后第二个就是把两个放在你的docker，放在你的手机的最下面，然后这样子提醒自己用。这就是最简单的，每个人一定可以做到的一件事情，而且你只要做到了，一定会有效果。
-</p>
-<p class="transcript-line">
-<span class="time"><strong>[00:05:36]</strong> </span>
-<span class="speaker"><strong>发言人1: </strong></span>
-第二个我建议所有的CEO都应该做的事情，就是你购买至少一个海外一线的AI工具的会员账号。什么叫海外一线的AI工具呢？讲白了就是ChatGPT cloud和吉米奶，当然可能还有group。所以的话我强烈建议每位同学都去试一下，体验还是不太一样的。
-</p>
-<p class="transcript-line">
-<span class="time"><strong>[00:05:56]</strong> </span>
-<span class="speaker"><strong>发言人1: </strong></span>
-之前会讲一些比较复杂的一些prompt的应用的话。有一些朋友会跟我讲说，我试过了，没有那么好用。那是你用的模型不对。你可能是在比如说豆包里面，或者说有可能你是在deep seek里面。虽然deep sick已经真的很牛了，就是赶得非常的快，但是还是有一定差距的。
-</p>
-<p class="transcript-line">
-<span class="time"><strong>[00:06:13]</strong> </span>
-<span class="speaker"><strong>发言人1: </strong></span>
-所以你如果是说你的工作的话，强烈建议还是ChatGPT cloud和前面奶至少要有一个，然后最好是交钱。因为它不交钱和交钱还是有差别的，还是会有一些它里面可以调用的模型上的差别。要用就用最好的。所以如果你是把自己定位成CEO或者创业者的话，其实你肯定不每个月不差这么一两百块钱。
-</p>
-<p class="transcript-line">
-<span class="time"><strong>[00:06:34]</strong> </span>
-<span class="speaker"><strong>发言人1: </strong></span>
-那这个时候的话，强烈建议还是生产工具都用最好的，他们各有千秋。你到时候用一下就感受到了。这几个到底哪个更好，我也不知道哪个更好，我反正现在都在用。那你如果要感受一下，说具体你要用哪一个的话，也可以用一些综合的套壳工具，比如说莫妮卡，莫妮卡点IM不是莫妮卡点CN莫妮卡点IM它里面就把这些大元模型都套壳套了，然后你就可以进去用，或者用海外的那个叫POEPOE点com，应该是。然后它里面也是把这些所有的模型都套壳套了，你给他20美金的话，他就所有的都让你用一下。但是我还是建议大家要如果有能力还是去官网开一个账号。因为它还是会有一些这个能力没有放API出来，所以你通过官网你去使用的话，感受会更好一点。但是这个时候的话就会有很多同学问说，我不知道怎么搞，不了，那肯定你会遇到很多障碍，对吧？
-</p>
-<p class="transcript-line">
-<span class="time"><strong>[00:07:26]</strong> </span>
-<span class="speaker"><strong>发言人1: </strong></span>
-那这个障碍的话，我建议你两个方法搞定。第一个就是世界上有一个地方叫做B站，你去B站里面搜索购买空格L的那个那个账号，对吧？ChatGPT比如说然后会出很多的教程，但是你去网上搜，应该搜得到，所以大家自己去想办法。
-</p>
-<p class="transcript-line">
-<span class="time"><strong>[00:07:43]</strong> </span>
-<span class="speaker"><strong>发言人1: </strong></span>
-第二件事情，就是你应该在公司里面吆喝一嗓子说，谁已经买了这些，他到底怎么用？谁来教教我？如果你们公司一个这样的年轻的小朋友，然后这种跳脱的也没有的话，那你们公司的问题可能就离AI还非常远先要有一批这种奇奇怪怪的小朋友对吧？所以如果一个都没有的话，那问题更大一点。第二个建议就是大家去买至少一个AI的海外的一线的工具的账号，然后去用一下，体验一下OK。第三个建议，每一个CEO创业者都可以做的事情，或者你要拥抱AI可以做的事情，就是建议你使用至少三次deep research功能。
-</p>
-<p class="transcript-line">
-<span class="time"><strong>[00:08:21]</strong> </span>
-<span class="speaker"><strong>发言人1: </strong></span>
-Deep research什么叫deep research呢？就是大家现在去用，比如说deep sick是不是他会先搜索一堆，然后再给你答案，对吧？但是他搜索一堆的话，他也是只是根据你的关键词然后拆一拆，然后帮你去搜。Deep research他就会主动的帮你去做大量的信息收集。而且他在收集的过程当中，他还会想说，我刚刚搜到这些东西好像没什么用，我换一个角度去再搜一点东西给你。所以的话你可以把它当做是deep search了，又再deep search，再deep search它是research，就是search完再search，那这样子最后它会出来一份很详细的报告给你。这个时候的话强烈建议每一位同学都可以用一下，感受一下这个。体验和你日常的只是用那个深度搜索，或者说你用普通的那大约模型给你一个回答是不完全不一样的体验。
-</p>
-<p class="transcript-line">
-<span class="time"><strong>[00:09:07]</strong> </span>
-<span class="speaker"><strong>发言人1: </strong></span>
-那它最适合用在什么地方呢？它最适合用在一些对我们很重要，但是我们也不了解的地方。他搜的东西再多，他里面乱七八糟的那种垃圾材料还是挺多的。所以当你比如说你的行业，你是做灯具的，然后你问他灯具的一个具体的东西，他很有可能讲的还没你好，你就很容易发现他讲的不对。
-</p>
-<p class="transcript-line">
-<span class="time"><strong>[00:09:28]</strong> </span>
-<span class="speaker"><strong>发言人1: </strong></span>
-但是如果你自己不熟的领域，比如说你觉得灯具行业应该如何跟AI结合，然后海外有什么例子，像这样的一些东西的话，它就非常少，所以你可以把它当一个情报官来用。比如说你可以问他说，欧洲现在灯具市场到底是一个什么样的格局？有哪些新兴的做灯的企业起来了？他们起来的原因是什么？这就是帮你做一个市场格局的调研，然后你不懂的地方，或者说你们让他去把你跟你想要做的一件事情所结合起来。
-</p>
-<p class="transcript-line">
-<span class="time"><strong>[00:10:01]</strong> </span>
-<span class="speaker"><strong>发言人1: </strong></span>
-比如说你说我是个卖灯的，然后灯具市场跟AI到底有哪些应典型应用场景，你告诉我一下，这个东西也是你也不知道，对吧？然后他给你一点都是增量，就在这个地方我们可能都是20分的水平，他的水平可能是60分，那我们就提高了40分。但是在你的专业领域，可能你本身就是60分，你可能就只能靠它，提高的就比较有限了。对，所以你可以让他做这个，还有我平时会用它做比较多的，我要做的事情的方向上，有哪些学费别人已经交了。
-</p>
-<p class="transcript-line">
-<span class="time"><strong>[00:10:28]</strong> </span>
-<span class="speaker"><strong>发言人1: </strong></span>
-比如说我会去美国，我要做一个新的产品。然后的话但是那个产品的会怎么样我也不知道。然后他要给我讲一个大道理，我这么会讲大道理的人我也听不进去。所以我会跟他讲说我想去美国做巴拉巴一个产品。我想要通过相关的真实案例了解这个市场和可能的打法。你可不可以帮我想一下哪些产品会给我启发，然后把相关的产品给我讲一遍。我希望可以通过别人交的学费来完善我的创业点子，并且形成更靠谱的市场计划。
-</p>
-<p class="transcript-line">
-<span class="time"><strong>[00:10:58]</strong> </span>
-<span class="speaker"><strong>发言人1: </strong></span>
-然后请他用英文做研究，中文给我报告，对我越有借鉴意义越好。然后他就会从我的点子里面发散出不同的维度，去找到历史上曾经有哪家公司跟这个事情是有借鉴意义的。然后告诉我说那家公司叫什么，他做的怎么样。布拉给我很多的的意见和建议，这就非常有意思。
-</p>
-<p class="transcript-line">
-<span class="time"><strong>[00:11:16]</strong> </span>
-<span class="speaker"><strong>发言人1: </strong></span>
-而且他给的那些维度真的是我以前没有想到的，没有想到。对对对，这个东西我要知道一下，然后我就会去自己在做深度研究。所以强烈建议每位同学的话，你可以去用三次deep research功能。只要你交了钱，这个都能用。然后最近像国内，比如说像夸克早两天发消息给我说他们有deep research的功能了，对吧？然后国内像蜜塔，我不知道有没有deep research，所以大家都可以去试一下，是deep research而不是deep search，大家可以去看一下。所以前三件事情你看多小白多容易用，对吧？你要下载十个应用，然后至少搞一个老外的，然后再用三次deep rearch功能，很简单。
-</p>
-<p class="transcript-line">
-<span class="time"><strong>[00:11:53]</strong> </span>
-<span class="speaker"><strong>发言人1: </strong></span>
-第四个进阶的事情的话，就是强烈建议大家用AI帮助自己去学一个东西。比如说我现在已经看那个latent space的youtube频道，我就全是用AI学的。就是我自己做了一个在界面I里面，就是google的那个那个大约模型里面，我做了一个jam，其实就做了一个所谓的agent。然后按照我的偏好，让我只要丢一个链接给他他就会返回。这里面到底有没有什么反共识的观点，以及做事儿的方法论或者具体的案例给我。然后我就把最近从一月份到现在的所有的latent space的个youtube小几十个，然后花了大概2个小时就都看完了。他他直接会也会给我时间戳，告诉我说哪里是什么东西。
-</p>
-<p class="transcript-line">
-<span class="time"><strong>[00:12:37]</strong> </span>
-<span class="speaker"><strong>发言人1: </strong></span>
-相当于我把我的那个看学习内容的第一遍初筛的逻辑的话，其实丢给了jim a让大远模型帮我处理。然后他会挑出来我可能感兴趣的内容，直接用文字的形式给我。这样就比我去看几十个1个小时的视频要效率会高很多。
-</p>
-<p class="transcript-line">
-<span class="time"><strong>[00:12:53]</strong> </span>
-<span class="speaker"><strong>发言人1: </strong></span>
-所以大家强烈建议说你想学习什么，你就可以把它丢给AI然后你告诉他说你想从中学到什么，然后他就会给你去学。所以这就是帮助我们快速学习一个内容，这是基础片。然后每一个都带一个进阶篇。
-</p>
-<p class="transcript-line">
-<span class="time"><strong>[00:13:07]</strong> </span>
-<span class="speaker"><strong>发言人1: </strong></span>
-进阶篇的话，就是因为我们这种学习其实还是很古典的一种学习。就是我们要学一个东西，就是把一个东西往自己脑子里灌。但是实际上的话，AI还有一个很大的用处，就是可以帮我们打的更广，然后看的更学得更深。
-</p>
-<p class="transcript-line">
-<span class="time"><strong>[00:13:24]</strong> </span>
-<span class="speaker"><strong>发言人1: </strong></span>
-有一个公众号好像叫乌鸦智能说还是哪里看到了一篇很好的文章，然后应该是一个印度人写的，他们翻译了一下。然后我就觉得说他真的每句话打到我心里。然后我就去跟那个ChatGPT说来做个deep research。把这个人的所有的关于我感兴趣的几个方面，就是关于我现在其实在做关于企业enterprise AI，就是企业怎么样智能化的到这在这方面正在形成一套方法论，但是其实我有点形成的支离破碎了。
-</p>
-<p class="transcript-line">
-<span class="time"><strong>[00:13:54]</strong> </span>
-<span class="speaker"><strong>发言人1: </strong></span>
-然后那个印度人好像就已经搞得很好。然后我就说你帮我做deep research，帮我把所有的关于他的所有的思想帮我整理起来，我关心的点在这个。然后他就帮我把那个人的他的什么个人网站，他的什么sub stack，他的所有的东西都拔下来了。
-</p>
-<p class="transcript-line">
-<span class="time"><strong>[00:14:09]</strong> </span>
-<span class="speaker"><strong>发言人1: </strong></span>
-拔下来然后帮我形成了观点，我看了觉得巨好，然后我就跑到他从各种媒体上再仔细看，再仔细读。而且读的过程当中，我再把他的东西丢给AI说这个东西结合我自己。比如说我现在要做一个MVAI就是amendment viable AI的一个工作坊，我应该怎么设计？他就说那结合他这个应该你怎么设计。所以你就会发现说我发现了一片好的宝石之后，可以通过AI去找，说它的那个矿脉在哪里。然后我还能够让AI帮忙去找到这个矿脉，找到更多类似的宝石。
-</p>
-<p class="transcript-line">
-<span class="time"><strong>[00:14:45]</strong> </span>
-<span class="speaker"><strong>发言人1: </strong></span>
-找到类似的宝石之后的话，我还去跟他讲说，这个宝石我想做的是，比如说一个皇冠，那我应该怎么做？他把做的步骤，把它应用在我的环境里面，这个应用他也可以帮我做了，对吧？所以他可以很好。当然我也问了AI说类似于这个人的观点，就是像这么牛逼的人的话，再帮我给几个。然后他也给了我一些其他人，我也跑到其他人那里去看了，我就说那其他人我就一个一个输给，他说每一个人帮我做一个deep research，这是一种学习。所以他可以帮你打开，又可以帮你生化OK。大家可以这样子再弄一下。
-</p>
-<p class="transcript-line">
-<span class="time"><strong>[00:15:16]</strong> </span>
-<span class="speaker"><strong>发言人1: </strong></span>
-第五个我建议大家可以做的事情就是创建一个AI的智能体助手，创建一个AI的智能体，练一下手。对虞听AI炼金术听得下去的同学，我觉得这就是一个常识对吧？每个人都会创建很多可复杂的东西了。但是对于绝大部分人的话，我特别上一次演讲中把我震惊到了，无数人其实从来没有做做过所谓的任何一个存下来的prompt。所以很多人对于agent就是有非常多奇奇怪怪的想法。所以我觉得大家可以如果我们科普下一点的话，agent这个词有很多的定义，从最傻的定义，其实它就是一段存下来的提示词，存下来的prompt。最聪明的用法的话，它就是会根据你的目的自己去计划，自己去写提示词，就自己去干一切的对吧？我们今天先讲讲最傻的这种，其实就是你把一句提示词把它存下来了以后复用。那强烈建议每位同学可以自己去复用一个，自己去创建一个这样的agent的，就最傻的。
-</p>
-<p class="transcript-line">
-<span class="time"><strong>[00:16:10]</strong> </span>
-<span class="speaker"><strong>发言人1: </strong></span>
-如果你不知道怎么创建的话，最简单的方法就是跑到豆包里面。豆包里面的话打开它的界面可以创建新对话的。那边的话就有一个按钮叫创建AI智能体。然后你点进去看，发现他的所谓创建AI智能体，其实就是让你写了一个提示词而已。所以我就举个例子，比如说我就会让他做我的笔记助手，我说你是一个笔记助手，然后我给你任何一段话，你就告诉我说三个的相关知识，三个典型案例，然后再给我一段话来驳斥我这条笔记，让让我知道它的应用范围，说哪里不对，这个提示词就存下来了。以后我只要在豆包里面打开这个对话，那我就任何发给他一段笔记，他就会告诉我三个相关知识，三个应用案例和一段说你这个东西不对，它其实在这种环境下它不适用不拉。不拉的话我每次记笔记可以复用了，对吧？
-</p>
-<p class="transcript-line">
-<span class="time"><strong>[00:16:58]</strong> </span>
-<span class="speaker"><strong>发言人1: </strong></span>
-所以豆包里面创建一个是最简单的，而且虽然傻，但是对我今天讲的是科普项，所以大家如果没做过的，强烈还是建议做一下。如果你做过的话，其实最好还是用像ChatGPT，像吉姆奶，然后用这些来。做那他们里面的话还可以让你加知识库，加to use，你就可以加很多东西了。
-</p>
-<p class="transcript-line">
-<span class="time"><strong>[00:17:19]</strong> </span>
-<span class="speaker"><strong>发言人1: </strong></span>
-我真实在用的举一个例子，就是我有一个agent是专门帮我做翻译的，因为现在我总是要跟老外要说话，或者说有一些中国的同事。但是就是你在what&#x27;s up上就总觉得你应该用英语说一说。我的英语属于可以，但是绝对不地道。所以我就专门做了一个agent。
-</p>
-<p class="transcript-line">
-<span class="time"><strong>[00:17:38]</strong> </span>
-<span class="speaker"><strong>发言人1: </strong></span>
-它的作用就是每次我发英文给他他他就会帮我小改一下。因为你经常会让他帮你改，你直接给GPT讲的话，他会大改。我就说你每次小改一下，并且小改完了之后，他会告诉我他改了哪几个地方。为什么我还想顺便学一下，提高一下我的英语能力。而如果我偷懒，我直接发他中文的话，他就会把我改成一个亲切的要随意的英文。你如果不跟他说好是亲切随意的话，你就跟他讲说翻译英文。有的时候翻译的过于正式，我日常会用这样的一个你们也叫agent，对吧？
-</p>
-<p class="transcript-line">
-<span class="time"><strong>[00:18:10]</strong> </span>
-<span class="speaker"><strong>发言人1: </strong></span>
-其实这个GBTS那你会说这个事情你为什么一定要说什么创业者CEO可以用吗？很多时候其实你是做创业者CEO你是需要很多决策参谋的那决策参谋这个时候的话，其实很难的找到其他人来跟你来做什么。所以这个时候你其实可以创造一些agent，是专门帮你做决策的参谋。比如说我会创造一个agent叫做奇异博士。
-</p>
-<p class="transcript-line">
-<span class="time"><strong>[00:18:33]</strong> </span>
-<span class="speaker"><strong>发言人1: </strong></span>
-然后我说当你听到用户描述的状态之后，告诉用户在哪三个平行宇宙。用户发现了当前没有看到的其他选项，走到了意想不到的路，打开你的那个选择权，在哪三个平行宇宙，决策错误。然后一段时间之后问题暴露了，这个决策错误是源于当下的什么隐含还假设。在哪三个平行宇宙？约决策不够正确，但是后续做了怎样的补救和调整，让整件事情最后还是happy ending。他帮我取了一个名字叫做多元宇宙的奇异观察者。
-</p>
-<p class="transcript-line">
-<span class="time"><strong>[00:19:05]</strong> </span>
-<span class="speaker"><strong>发言人1: </strong></span>
-你就可以做一些类似于这样的一些agent，帮助你每一次去更好的决策。但这只是举个例子，主要就是说大家先试试用最傻的这种agent，你能不能把一件事交给他。那你你教多了事情之后，你大概就会有感觉说，那应该是怎么样调一个agent出来，它应该用在哪些方面，你搞一个A政策非常不靠谱，哪些事儿一搞就靠谱，那你就可以做了，对吧？
-</p>
-<p class="transcript-line">
-<span class="time"><strong>[00:19:29]</strong> </span>
-<span class="speaker"><strong>发言人1: </strong></span>
-第六建议大家可以做的事情就是那个录音。我刚刚说我之所以把通义放在耳机的显要位置，其实它方便录音，它有实时记录和音视频转写的功能。所以我现在会开会什么都会开，它做实时记录。然后最后的话，我会把这个实时记录的文稿丢给吉木乃去做分析。所以大家先试一下，就是你一个入门版，就是你开会的时候把它打开一下，然后把这段录音让他搞一个文字稿，对吧？你如果是先用什么收音机录了，你也可以让他音视频转写，或者你直接打开让他实时记录的话，他就给你一个直接给你一个文档，然后你再试着把这个文档丢给，比如说吉木乃丢给ChatGPT，然后你按照你自己的风格问他说你帮我写个会议纪要，对吧？这样子就可以试一下把录音给做下来了。
-</p>
-<p class="transcript-line">
-<span class="time"><strong>[00:20:17]</strong> </span>
-<span class="speaker"><strong>发言人1: </strong></span>
-当然这个其实会议纪要其实我一直觉得不是很重要。真的重要的是会议其实他给了我们极大的一个上下文。比如说你现在你跟AI去聊，说你希望AI给你明年度的战略分析，那其实他给不出什么好建议，因为他对你公司了解实在太少了。他如果真的你用我给你的提示词，比如说叫做如果你觉得什么信息对你产生更优质的回答有帮助，请你先向我提问。然后再不拉不拉不拉，这个时候他会向你提问，但是你其实也没空搭理他，你回答了他35句之后也懒得讲那么清楚，就有点像你下属老问你问题，你也会烦躁。
-</p>
-<p class="transcript-line">
-<span class="time"><strong>[00:20:52]</strong> </span>
-<span class="speaker"><strong>发言人1: </strong></span>
-但是你比如说你开战略会的时候，其实这个时候你们在可能吵架要吵一天。这个时候其实提供了非常丰富的语料。你在过程当中其实把公司的很多事情都说了一遍。这个时候的话你再把这个文档导给他，然后你告诉他我是发言人2，对吧？请你把我的发言整理成我们公司，你觉得我对于战略是怎么思考的那他就会帮你整理，然后这个时候天然就一个非常详尽的一个相当于context，一个上下文。那你有了这个上下文再接着跟他聊。比如说那你觉得怎么样？你如果扮演乔布斯，你如果干嘛不拉出来的质量会好很多。
-</p>
-<p class="transcript-line">
-<span class="time"><strong>[00:21:25]</strong> </span>
-<span class="speaker"><strong>发言人1: </strong></span>
-而在这个时候的话，你接下来还可以跟他讲说，那你站在CEO教练的角度，你刚看我跟其他同事的互动，你会对我有什么建议。然后刚刚我跟客户的这一段会谈，你站在一个CEO教练的角度的话，他有什么言言下之意是我没有听出来的那这些东西你就可以都可以看了，相当于多了一个异步的第三只眼，可以帮助我们更好的看见自己，以及看见我们当时的一个处境。不一定是开会，各种各样的事情都可以。
-</p>
-<p class="transcript-line">
-<span class="time"><strong>[00:21:53]</strong> </span>
-<span class="speaker"><strong>发言人1: </strong></span>
-我自己有一些日常生活场景录音之后的话，事后处理的时候发现给了我非常深刻的一些启发。所以大家可以试一下，这是第六个非常简单的建议，就是录音，然后把文字稿丢给AI去看一看，给自己一个额外的视角。第七个就是建议大家开一个自媒体，然后更新20个内容。为什么是更新20个内容呢？是更新两个内容你就会自己搞。假如我跟你讲下个星期一定要更新20个内容，那你就只能靠AI了，对吧？所以你可以让AI帮你做什么呢？因为我想我喜欢干嘛，我想吸引谁，我要干嘛，你就做定位。
-</p>
-<p class="transcript-line">
-<span class="time"><strong>[00:22:27]</strong> </span>
-<span class="speaker"><strong>发言人1: </strong></span>
-做这种一个自媒体的定位，其实跟做一个公司的定位一样。你就自己把这个流程跑一遍。从怎么定位，从我要什么样的用户，到我要选择什么样的AI工具，到怎么生产。到生产完了之后发现我靠这个东西根本没人听，然后我再改流程，或者这个AI你说的天花乱坠，他根本做出来的东西不行，改自己的使用AI的方法，它相当于闭环了，相当于我们做一个小实验，把整个AI应用在商业上，把它给跑通了。
-</p>
-<p class="transcript-line">
-<span class="time"><strong>[00:22:54]</strong> </span>
-<span class="speaker"><strong>发言人1: </strong></span>
-所以先从定位开始，你就跟AI聊，对吧？我想要做一个自媒体，我想要一个一周出20条内容，应该怎么做？就慢慢出。
-</p>
-<p class="transcript-line">
-<span class="time"><strong>[00:23:01]</strong> </span>
-<span class="speaker"><strong>发言人1: </strong></span>
-你出了一个定位之后，你就可以跟AI一起研究一个工作流出来。而这个工作流的话有可能是半AI的，也可能是全AI的。什么叫半AI呢？就比如说AI炼金术好了。AI炼金术的话，现在的话是我跟徐文浩在白话，对吧？那一期真的强烈推荐。比如说我就拿那一期为例，就是我跟徐文浩聊聊硅谷往事。那一期就是类比这一次AI的话，类比成硅谷的PC不是微互联网，就是电脑兴起的那一段历史。
-</p>
-<p class="transcript-line">
-<span class="time"><strong>[00:23:31]</strong> </span>
-<span class="speaker"><strong>发言人1: </strong></span>
-然后来看给这今天有什么启发，那我们就可以先用那个我们先录一期播客，然后用AI做一些剪辑，然后就直接有小伙伴就帮忙出了。出来之后其实这一期我们就直接又丢给AI，然后AI就可以帮我们生成一篇长文，这篇长文就不需要我跟徐文浩去写了。那这样子的话，我们的AI树的那个公众号就有救了，是吧？但大家还是可以关注一下，就可以看到说一个比较好好读的长文，这就是算半自动。
-</p>
-<p class="transcript-line">
-<span class="time"><strong>[00:24:00]</strong> </span>
-<span class="speaker"><strong>发言人1: </strong></span>
-原本的时候你不大可能这样子去生成内容，因为生成一篇长文需要很长的时间。那现在如果你聊一次天就可以把它给捣鼓出来的话，就容易很多。当然了，这样子就达不到我说的一周二十篇。那一周二十篇怎么做到呢？你就可以把它全部用AI或者说没有人类的那么复杂的工作，这件事儿就有可能了。大家听到这里的话，我顺便做一下广告。就是点击我的头像的话，可以看到新开了好几个博客。这些的话其实里面大部分的工作是AI完成的。有一个新播客叫做听懂一百篇AI经典论文，它就是把AI历史上的或者不是历史上的近几年的最重要的100篇论文，从transformer从attention is all you need开始到最近的论文，然后挑了100篇出来，然后干嘛呢？就是让AI帮你讲解。
-</p>
-<p class="transcript-line">
-<span class="time"><strong>[00:24:51]</strong> </span>
-<span class="speaker"><strong>发言人1: </strong></span>
-那怎么讲解呢？其实是每一篇论文都把论文和wikipedia的链接丢给了google的notebook LM，让他生成了两个人的中文对谈。然后轻松诙谐的方式，用5到15分钟的方式给你讲一篇论文。那这种时候其实你只需要让AI帮你生成100篇论文的一个单子和他们的相应的链接。然后你把这个链接在google的notebook LM里面打开，然后把它贴进去。然后说是来生成播客，它就生成了。生成好了，你就在小宇宙背后上传一下，然后这个东西就做出来了，很容易，所以现在已经更新了几十篇了。另外一个的话，稍微复杂一点，叫做拆解100个AI明星产品，那就是像黑镜，像vigo这种成功的产品，它到底。怎么做出来的，或者plex ity。
-</p>
-<p class="transcript-line">
-<span class="time"><strong>[00:25:37]</strong> </span>
-<span class="speaker"><strong>发言人1: </strong></span>
-那这个时候怎么做呢？我们就会同样是我们找了100个AI的成功的明星公司，然后让AI帮忙出了一部分。然后我自己挑了几个，挑了几个的话，然后就有同事会每一个把它丢给ChatGPT，让他去做deep research，做深度研究，说他是怎么成的。然后chat BT就会去看一百多批个网站去查说他定位上怎么成的，他技术上怎么成的，他经历过哪些艰难险阻。巴拉巴拉把它形成一篇跌宕起伏的文章。然后我们再把这篇跌宕起伏的文章和里面推荐我们最值得看的十篇的素材一起丢给notebook RN，然后还是做博客的那个，然后让他生成两个人的对谈，来介绍这家公司是怎么做起来的。然后这样子一期播客5到15分钟很快就做出来了。
-</p>
-<p class="transcript-line">
-<span class="time"><strong>[00:26:25]</strong> </span>
-<span class="speaker"><strong>发言人1: </strong></span>
-质量我自己觉得听听的话，对于启蒙和科普是挺好的。你深度肯定是不要想，但是听得下去，本来那些论文我也看不下去是吧？现在我大概知道他是干嘛的了，可以达到一个跟牛人聊天的时候，我表达那篇论文大概也就到这个地步，但是肯定不能到说我能够根据这篇论文写什么东西。但是我大概知道世界上有这么一件事儿，花了五分钟时间。所以的话像这种内容的话，大家都是可以用AI来帮忙出的，也欢迎大家去关注。我的号上面还有其他好几个博客，都欢迎关注，欢迎转发，欢迎推荐，反正大家也要学习的，对吧？这是第七个，就是大家做做自媒体。第八个就是建议大家去做一个真的工作当中会用的agent。
-</p>
-<p class="transcript-line">
-<span class="time"><strong>[00:27:11]</strong> </span>
-<span class="speaker"><strong>发言人1: </strong></span>
-我们前面讲的其实是那种举了个例子说你可以做一个什么记笔记的，你可以做一个翻译的那这边的话很多公司说我们AI落地不下去，其实很多时候是因为没有办法把自己的工作流拆解成单个的具体的任务。什么叫单个具体的任务？就是可以明确我给你什么输入，经过什么处理，能够得到什么输出，就是input output process IPO都非常精确的。你如果能够把公司里面的各种各样的角色拆成他的职责，每个职责再拆成非常多的明确的这种一个模块。每个模块是一个IPO的话，其实很多模块是都是可以用AI来做的那你用我们刚刚讲的那个，比如说做一个翻译的A政策的方法，你一个个替，对吧？可能很有可能100件事情里面就有三五件能够替换。那先替这三五件，然后再深度学习一些更复杂的agent的制作技巧，说不定就可以替掉三五十件了。
-</p>
-<p class="transcript-line">
-<span class="time"><strong>[00:28:04]</strong> </span>
-<span class="speaker"><strong>发言人1: </strong></span>
-所以的话第一件事儿的话，就是我们先自己产生这种体感，不是要求下面你想你如果是公司里面最强的人的话，你都不会用的话，谁会用这个东西。所以你第一件事儿，你就先拆解一下自己平时每天在干嘛，你有哪些活儿，有哪些活是重复的。然后你能不能把这些活的话拆解成单个的，有明确的输入，有明确的处理，有明确的输出的这种流程。就比如说我的那个翻译和我记笔记都是有明确输入输出的。
-</p>
-<p class="transcript-line">
-<span class="time"><strong>[00:28:31]</strong> </span>
-<span class="speaker"><strong>发言人1: </strong></span>
-你看看能不能从中间挑出几个来做这种真实的agent，然后让你每天用什么样，就是要算作这个agent做成了，不是看他设计的好不好，不是看他设计的有没有一堆的高科技，而是看你用这个agent是不是百分之百的完成了你的任务。就比如说我的那半页是百分之百完成我的任务。我只要每次要发英文的东西，我就会先过它一下，它就相当于就是不是一个想起来用一下，不想起来就不用的一个东西。他百分之百的解决了一个问题。那这个时候我就相当于这个模组已经百分之百放心了。那这个时候就比你有比如说有五个20%管用的模组的话，要有用100倍，对吧？它就是真的解决了可能很小的一个问题，但是它是百分之百解决。
-</p>
-<p class="transcript-line">
-<span class="time"><strong>[00:29:15]</strong> </span>
-<span class="speaker"><strong>发言人1: </strong></span>
-最重要的事情就是要监控一个数据。其实是叫做说是否已经在这一步上，只要公司有这个问题要处理，就会经过这个A症的那这个时候的话，这个A就是牛的。哪怕它其实就是一个prompt。但是如果是一个可用可不用想也想不起来的话，不管它再高级，比如说它里面有什么market agent在吵架什么的，那也不重要。所以关键看有没有用透，用透之后我们怎么样再衡量自己有没有在agent上用好呢？对吧？
-</p>
-<p class="transcript-line">
-<span class="time"><strong>[00:29:45]</strong> </span>
-<span class="speaker"><strong>发言人1: </strong></span>
-我我我的能力，再看我的那个使用的多不多，那就看你的屏幕使用时间，看看你比如说你使用各种AI工具的时间到底长不长，然后你用这些AI工具里面用到的AI的agent，你自己编的agent数是足够多。所以第八件事情其实就是把我们前面讲的A证这件事情做一个演示。你能不能找一件真的事情，然后真的工作当中的一个模组，有明确的IPO的模组，然后把它做成一个agent。并且这个agent要百分之百的替代你这一部分工作，不管他高级不高级，百分之百替代。如果做到了的话，那你其实你这方面的sense就已经很好好倒数第二个建议大家干嘛呢？
-</p>
-<p class="transcript-line">
-<span class="time"><strong>[00:30:27]</strong> </span>
-<span class="speaker"><strong>发言人1: </strong></span>
-建议大家写一个非常长的提示词，就这么简单。很多时候我们写提示词就比较短，我强烈建议大家写一个非常长的。这个长的包括了你的什么星座，你的MBTI，你当下工作困难在哪里，你最在乎什么，你的三观，反正你想得到的都写上去，写个几千字。但是有些工具你放不下几千字，比如说ChatGPT可能只要你放1500字，你可以先写完了之后让他去压缩。所以建议写至少上千字的一个母提示词，然后你把它放在那个custom instruction，就是很多的软件都会给给你一个相当于你的自我介绍。然后它就是一个母提示词，你放在那里，你得到的所有的后续的回答质量都会变好。
-</p>
-<p class="transcript-line">
-<span class="time"><strong>[00:31:05]</strong> </span>
-<span class="speaker"><strong>发言人1: </strong></span>
-就是因为他不知道你是谁，你问他说我要去哪里旅游，你给我什么建议，他鬼知道你是谁，对吧？他给你的建议一定不好。但是如果你已经在系统的提示词里面给了他，我平时最喜欢旅游了，我去过哪些地方，我最喜欢什么地方么？他相当于就会把这一段话在你的每一个提示词的最开始都会提前的丢给自己。那他就了解你了了解你了，他给你比如说怎么去旅游，说我公司最近的营销应该怎么做，他鬼知道怎么做对吧？但是如果你已经提前把你们公司最好的客户什么样，你公司经营怎么样，目前遇到的卡是什么？你把这些都放进去了，那他就给直接你这么一句简单的话，他也可以给你很好的一个回应。所以强烈建议就是大家写一个几千字的提示词。
-</p>
-<p class="transcript-line">
-<span class="time"><strong>[00:31:47]</strong> </span>
-<span class="speaker"><strong>发言人1: </strong></span>
-如果你的工具支持，比如说ChatGPT cloud，然后它都是支持你有那个定制化提示词的，就母提示词，定制化的个人提示词放在背景里面，你就提前放进去。如果不支持的话，你也可以辛苦一点，你每次贴一下对吧？先贴个2000字进去，然后再跟他说话，这个时候你得到的效果就好很多。你就开一个文档，开在旁边。对，有一个道理叫做一定要给每一件事取个名字。然后我就问GPT要取什么名字，然后我说要跟AI炼金术有关系。他说你应该管这个东西叫philosopher stone哲人。
-</p>
-<p class="transcript-line">
-<span class="time"><strong>[00:32:18]</strong> </span>
-<span class="speaker"><strong>发言人1: </strong></span>
-因为他说炼金的时候就是会放一块石头，这块石头本身不参与反应，但是它可以极大的提高你炼金成功的效率。炼金炼丹都要放一块这种石头，就你放了之后或者话之后的出来的东西就更好。我在想这个东西好像哈利波特里面有的，好像不这意思，但是听着很有道理，然后他就说你就应该管他叫stone prompt。我后来想想有道理，我就要取名字叫stone prompt。所以大家就很朴实，可以写一个给自己很长的提示词来用OK跟主要是自我介绍，让大家更了解你。有点像你的新员工入职培训手册，你们你先给AI然后下一次他每次给你的回答就更好。而这里面的话，如果我们刚刚定位是给CEO和创业者买入，你听到这里很有可能会发现说他其实还有别的用处。
-</p>
-<p class="transcript-line">
-<span class="time"><strong>[00:33:04]</strong> </span>
-<span class="speaker"><strong>发言人1: </strong></span>
-就是当你可以写出来你的提示词的话，那你其实理论上来讲就可以跟各个部门和各个职责的人写好它的提示词。比如说你们营销部门应该拿你的提示词，那公司整体的提示词作为一个蓝本。然后他营销部门应该再有一个自己的母提示词。比如说叫做我们不能写好看两个字，我们要高端大气，我们不能low，或者我们一定要接地气，我们不能凡是太脱离实际的词我们都不要，对吧？他们再加上这些他们自己的背景偏好、约束原则，把这些都加上去。
-</p>
-<p class="transcript-line">
-<span class="time"><strong>[00:33:36]</strong> </span>
-<span class="speaker"><strong>发言人1: </strong></span>
-工作如果每一个员工继承的都是他的部门的提示词，而每一个部门继承的又是公司的提示词的话，就是母提示词。那这样子的话其实就相当于公司做好了自己的所谓的element对齐。我们经常讲对齐，但是人很难对齐的，你不如在提示词方面对齐。假如大家比如说公司里面你们都用同一套AI或者用什么拆，对，应该是可以调的。那公司里面假如说我有什么事情需要说，大家要统一思想，那其实不如统一提示词。Share的prompt才是最好的统一思想。
-</p>
-<p class="transcript-line">
-<span class="time"><strong>[00:34:11]</strong> </span>
-<span class="speaker"><strong>发言人1: </strong></span>
-假设你们是个卖猫粮的，就认为说公司的价值观就是猫比人更高贵。你就把这个写到提示词里面，那大家不之后拿着这个AI不管问什么的，他都给予这个假设，叫做猫比人更高贵。这个时候的话其实才能真正做到对齐。所以大家也可以在这个方向想一想，它其实也是一种管理工具。
-</p>
-<p class="transcript-line">
-<span class="time"><strong>[00:34:30]</strong> </span>
-<span class="speaker"><strong>发言人1: </strong></span>
-这个部分的话，其实它里面有一个很深的道理，就是李继刚讲的乔哈里窗。我们之前讲所谓的提示词工程，讲的都是说你要怎么把提示词给写好。但是这其实是说AI试试，对吧？你应该是你比他聪明，所以你得教他。但是现在AI其实比我们聪明，这个时候你再去指手画脚，他就是限制他的发挥了。
-</p>
-<p class="transcript-line">
-<span class="time"><strong>[00:34:51]</strong> </span>
-<span class="speaker"><strong>发言人1: </strong></span>
-这个时候最应该给他的东西，不是给他一些你也知道他也知道的所谓的道理，告诉他你是一个什么优秀的科学家，你应该干嘛。而是应该告诉他他什么是他不知道，但是你知道的东西也就是我们的上下文。比如说你公司现在当下的状况，你最关心的事情，你的价值观、你的原则、你的偏好，这些是他不知道的。所以我们应该尽可能的是暴露乔哈里窗的我知道AI不知道的这个象限。而在所谓AI知道我也知道的象限里面，那些废话就可以少写一点，不要限制他的发挥。因为你在那个我知道AI也知道的象限里面写的东西越多越会妨碍他去探索那些AI知道我不知道的象限。最后一件事情就是建议大家把这九件事情真的做一遍。然后的话在公司里面做一场分享，就讲我已经试了这九件事情，你就以身作则。
-</p>
-<p class="transcript-line">
-<span class="time"><strong>[00:35:41]</strong> </span>
-<span class="speaker"><strong>发言人1: </strong></span>
-很多时候大家都觉得说，员工不动，但是其实自己也不懂，那你就以身作则，然后说我试了这九件事情，或者我只做成了六件，然后你就跟大家做一个分享，做一个演讲，分享自己做这些事情的真实经历截图，遇到什么困难，得到什么启发。你想让大家把AI搞起来的话，你挑几个人说来你们也搞一个来，你们也把这些事情做一遍。对，这个时候的话就可以把大家给带动起来。最关键的其实就是你自己有这个体感，不要天天就在提升认知，但是屁都不干。然后另外的话就是把让小朋友们都动起来，不要天天看正经体和一些东西就好了。关键是用起来。对，所以就把这十件事用起来就好了。
-</p>
-<p class="transcript-line">
-<span class="time"><strong>[00:36:20]</strong> </span>
-<span class="speaker"><strong>发言人1: </strong></span>
-建议大家下一个应用，至少买一个海外的账号，然后用三次的research，然后用AI做自做学习，然后做一个AI agent，然后要学会怎么录音，然后让AI帮忙处理这个录音。然后开个自媒体，然后做一个工作当中真的能用的agent，然后写一个大的母提示词，最后做一场我这样用AI的一个分享。那你把这些事情都做好之后的话，基本上我觉得体感上就没有什么问题了。因为大部分人现在其实是看了有一堆的正确或者不正确的认知，但是没有什么体感。所以你先建立体感，每天泡跟AI建立一些关系。你有了这些关系之后，那些东西就自然会出，不是很要紧。
-</p>
-<p class="transcript-line">
-<span class="time"><strong>[00:37:01]</strong> </span>
-<span class="speaker"><strong>发言人1: </strong></span>
-欢迎大家订阅AI炼金术，这其实比较科普向的。你觉得哪位朋友可能需要的话，可以转发给他表达一下。你听听这个蛮管用的对吧？然后如果你自己感兴趣，比如说了解AI更多的基础知识的话，我们你看我们用AI做的一些播客也你可以点击我的头像，然后看看那些博客你有没有兴趣？有兴趣可以订阅一下，也可以推荐一下朋友啊，欢迎大家订阅转发，谢谢，欢迎留言，谢谢，拜拜。
-</p>
-<p class="transcript-line">
-<span class="time"><strong>[00:37:35]</strong> </span>
-<span class="speaker"><strong>发言人2: </strong></span>
-I got slipping in the dar so long time, I never, never find a one so along, but you finally see me. Oh, I couldn&#x27;t do you or no. Oh, even if I try. And every day are four in the.
-</p>
-<p class="transcript-line">
-<span class="time"><strong>[00:38:05]</strong> </span>
-<span class="speaker"><strong>发言人2: </strong></span>
-But I don&#x27;t care away.
-</p>
-<p class="transcript-line">
-<span class="time"><strong>[00:38:11]</strong> </span>
-<span class="speaker"><strong>发言人2: </strong></span>
-It&#x27;s all right down the road. Let go. I don&#x27;t get away.
-</p>
-<p class="transcript-line">
-<span class="time"><strong>[00:38:30]</strong> </span>
-<span class="speaker"><strong>发言人2: </strong></span>
-I can try to find the words, but I always seen the right. I get our eyes of body doing, show the way I feel.
-</p>]]></content:encoded>
-            <pubDate>Fri, 06 Jun 2025 00:11:18 GMT</pubDate>
-            <guid>684235367b5695c4a33de8a3</guid>
         </item>
     </channel>
 </rss>
