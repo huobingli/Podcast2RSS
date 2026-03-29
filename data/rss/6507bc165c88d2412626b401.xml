@@ -4,7 +4,1070 @@
         <title>屠龙之术</title>
         <link>https://www.xiaoyuzhoufm.com/podcast/6507bc165c88d2412626b401</link>
         <description>科技创业与投资相关的”屠龙之术“</description>
-        <lastBuildDate>Thu, 26 Mar 2026 05:15:37 +0800</lastBuildDate>
+        <lastBuildDate>Mon, 30 Mar 2026 04:56:52 +0800</lastBuildDate>
+        <item>
+            <title>Vol.91 数据角度看OpenClaw的企业落地---对谈Oceanbase</title>
+            <link>https://www.xiaoyuzhoufm.com/episode/69c67ffde2c8be3155a8420a</link>
+            <description>OpenClaw的热火依然在延续，国内的各家互联网大厂对针对🦞门槛高的问题在过去一段时间做了很多很多的“工作”；
+在这些厂商的共同努力下，国内使用个人用户市场OpenClaw的渗透率极速提升。
+但在个人市场之外的企业市场，因为OpenClaw天生的架构、数据、安全等问题，其落地面临诸多困难。
+从这个切入点开始，我找了两位在数据库领域有非常资深经验的嘉宾一起聊了聊……
+【对谈嘉宾】
+* 刘华阳：PostgreSQL ACE、某互联网企业数据库架构师
+* 戴涛：OceanBase 创新和 AI 业务负责人
+本期节目也是OceanBase播客《赛博赶海》的第一期节目；
+（想加粉丝群的请先+微信：rosicky311)
+下面正片开始……
+【时间线】
+00:34 两位嘉宾的自我介绍
+01:20 企业角度如何看待OpenClaw的落地
+03:08 过去几年其实每年春节都有一些新的技术热潮
+03:59 企业想实施🦞时候都有什么顾虑/问题
+06:22 其实很多事情是“历史的重复”
+13:03 算法、算力、数据三要素中，数据似乎边际更重要
+15:17 AI是否会再次带火数据治理
+21:15 现在数据库加上向量就等于AI数据库了？
+23:31 现在企业很多在做的是缝合怪
+23:56 Google Maps的“Ask Maps”
+25:56 记忆的问题本质上也是数据的问题
+33:44 蚂蚁阿福上的记忆能力展现
+34:36 AI陪伴领域的记忆变种需求
+37:15 对于企业用户，markdown真的很难接受
+38:31 安全对于中国企业来说是很重要的命题
+40:22 这一轮对于安全的讨论是边际更多的
+43:17 Oceanbase已经不单纯是一家数据库软件厂商
+47:50 中美对抗角度看数据库软件发展
+49:50 投资人视角如何看待2B市场在中国的新机遇
+57:13 给焦虑的企业主一些建议
+【播客简介】
+屠龙之术是一档关注科技、互联网、风险投资的播客，
+主播庄明浩是一个游走在互联网和风险投资行业的边缘人士。
+其工作多年所积累的认知似乎都成为了某种意义上的”屠龙之术“……
+或许某天再有新的“龙”出现的时候，就是这档播客停更之时。</description>
+            <content:encoded><![CDATA[<h1>转写链接</h1>
+<link>https://tongyi.aliyun.com/efficiency/doc/transcripts/kvjonyy6zw3ynlx3</link><br>
+<h1>节目摘要</h1>
+<div class="summary">本次对话深入探讨了AI行业当前的热点话题，尤其聚焦于agent与数据领域，凸显了数据在AI发展中的关键作用。一位嘉宾分享了企业面对数据管理和AI应用挑战时的策略，强调有效管理数据、提升数据质量和安全性的重要性。另一位嘉宾则介绍了其AI解决方案，展示了AI在数据处理与智能应用方面的潜力与挑战。讨论还涵盖了AI技术在企业中的发展趋势，如通过AI提升运营效率和创新能力的途径。同时，对话触及了AI技术的伦理与安全问题，呼吁业界在推动技术应用的同时，应注重可持续发展与社会责任，共同探索AI技术如何更深入地融入企业运营，以及企业如何适应这些变化以实现业务增长和优化。</div><br>
+<h1>章节速览</h1>
+<div class="chapters">
+<div class="chapter-item">
+<span class="time"><strong>[00:00:00]</strong> </span>
+<span class="chapter-title"><strong>AI行业热点：Agent与龙虾议题探讨</strong></span>
+<div class="chapter-summary">两位嘉宾，一位是企业数据库架构师，另一位在oc base负责AI相关解决方案，共同讨论了AI行业中的热门话题，即agent与龙虾议题。他们从数据角度切入，提供了不同于常规节目视角的解读，旨在深入探讨这一当前备受关注的话题。</div>
+</div>
+<div class="chapter-item">
+<span class="time"><strong>[00:00:54]</strong> </span>
+<span class="chapter-title"><strong>企业应用Open Cloud数据库的挑战与机遇</strong></span>
+<div class="chapter-summary">对话围绕Open Cloud在企业数据库应用中的问题展开，强调了数据安全性和范畴的争议，以及企业如何在利用Open Cloud时保持谨慎，追求高效与安全的平衡。同时，讨论了从个人助理到数字员工的转变，以及企业对Open Cloud的实际需求与现有技术的不完全匹配，提出企业需要在技术应用上进行多方面探索。</div>
+</div>
+<div class="chapter-item">
+<span class="time"><strong>[00:04:32]</strong> </span>
+<span class="chapter-title"><strong>企业级应用与个人特权边界的安全挑战</strong></span>
+<div class="chapter-summary">对话围绕企业级应用在安全性和权限管理上的挑战展开，指出直接将C端产品部署至企业环境易引发安全问题，企业需面对大量系统接入与权限开放的复杂性。讨论中提及国内企业采取的一刀切禁用策略，并探索云上或家庭设备作为解决方案的可行性，强调了企业级特性与个人特权边界的重要性和现实冲突。</div>
+</div>
+<div class="chapter-item">
+<span class="time"><strong>[00:06:23]</strong> </span>
+<span class="chapter-title"><strong>AI与大数据技术挑战及治理需求</strong></span>
+<div class="chapter-summary">讨论了在AI和大数据技术应用中遇到的数据丢失、不准确、成本高昂等问题，以及技术更新导致的数据孤岛现象。提出构建类似业务中台的AI中台概念，旨在统一技术调用、存储、搜索和调度，以解决企业面临的治理难题，提高技术成熟度和应用效率。</div>
+</div>
+<div class="chapter-item">
+<span class="time"><strong>[00:10:47]</strong> </span>
+<span class="chapter-title"><strong>统一技术栈与大数据在企业中的应用及未来展望</strong></span>
+<div class="chapter-summary">讨论了企业通过统一技术栈和数据处理方式，减少架构复杂度，提升敏捷性，以及未来3-5年数据在AI发展中的关键作用。强调了大数据回库概念，统一存储多模态数据，支持实时访问和轻量级分析，以及产品厂商在技术方向上的努力。</div>
+</div>
+<div class="chapter-item">
+<span class="time"><strong>[00:13:19]</strong> </span>
+<span class="chapter-title"><strong>AI发展与数据治理的重要性探讨</strong></span>
+<div class="chapter-summary">对话围绕AI发展历程及其对企业数据治理的影响展开。从算法到算力，再到数据，AI发展经历了不同阶段，企业逐渐认识到数据的重要性。当前，AI应用广泛，但数据的准确性和完整性成为关键问题，错误的数据可能导致严重后果。因此，强调了数据治理在AI时代的重要性和紧迫性。</div>
+</div>
+<div class="chapter-item">
+<span class="time"><strong>[00:16:36]</strong> </span>
+<span class="chapter-title"><strong>企业AI应用与数据治理的融合之道</strong></span>
+<div class="chapter-summary">讨论了企业在AI应用中面临的挑战，尤其是数据治理问题。从宏观到微观层面分析，提出企业应分步实施，先局部试点再全面推广，结合AI中台与数据治理，逐步实现企业信息化的成熟与迭代。</div>
+</div>
+<div class="chapter-item">
+<span class="time"><strong>[00:21:14]</strong> </span>
+<span class="chapter-title"><strong>AI数据库与向量数据库的融合与发展</strong></span>
+<div class="chapter-summary">讨论了向量数据库并非因大模型而生，早在十几年前便已存在，其核心价值在于将图形因素数据转化为高维空间点，便于搜索。大模型的出现激活了向量数据库，使其需求激增。向量数据库有多个流派，包括纯向量和关系加向量类型。在当前web coding等多模态需求下，单一向量或外挂向量无法满足核心性能与价值需求，需综合产品才能称为AI数据库。</div>
+</div>
+<div class="chapter-item">
+<span class="time"><strong>[00:23:31]</strong> </span>
+<span class="chapter-title"><strong>混合搜索与AI在企业数据处理中的应用</strong></span>
+<div class="chapter-summary">对话讨论了企业面对的混合数据存储挑战，提出混合搜索概念作为解决方案。以Google Map更新为例，阐述了AI技术在满足复杂用户需求方面的应用，强调了数据架构和底层配套的重要性。同时，提及了AI大模型在上下文理解和记忆能力上的进步，特别是在龙虾架构中的创新设计。</div>
+</div>
+<div class="chapter-item">
+<span class="time"><strong>[00:26:43]</strong> </span>
+<span class="chapter-title"><strong>AI记忆问题与企业智能体发展挑战</strong></span>
+<div class="chapter-summary">对话围绕AI记忆问题及其对企业智能体发展的影响展开讨论。参与者指出，随着模型厂商不断扩大的上下文窗口，引发了诸多问题，如数据存储时长、成本和调用效率等。企业面临如何合理标定数据存储期限的难题，同时探索了包括本地缓存、RAG等外部解决方案以优化记忆功能。强调了记忆在智能体中的重要性，并提出了对企业智能体架构治理的建议，旨在实现无状态、高效率的模型设计。</div>
+</div>
+<div class="chapter-item">
+<span class="time"><strong>[00:30:29]</strong> </span>
+<span class="chapter-title"><strong>记忆体技术：企业知识与个人偏好的智能存储解决方案</strong></span>
+<div class="chapter-summary">讨论了记忆体概念在企业知识管理、个人偏好存储及多轮对话中的应用，通过案例如淘宝AI万能搜、蚂蚁阿芙家庭医生等，展示了记忆体技术如何整合长期与短期记忆，实现知识、技能与对话记忆的有效管理，同时强调了该技术在降低成本、提高效率方面的作用，以及在特定场景下对通用大模型能力的补充与优化。</div>
+</div>
+<div class="chapter-item">
+<span class="time"><strong>[00:37:13]</strong> </span>
+<span class="chapter-title"><strong>企业级客户对AI产品的安全合规需求探讨</strong></span>
+<div class="chapter-summary">对话围绕企业级客户对AI产品，特别是像龙虾这样的产品在数据安全与合规性方面的严格要求展开。企业因需遵循如2万、14000等安全标准，对数据操作、存储有严格审核与记录要求，担忧数据泄露可能导致合规风险及客户投诉。此外，讨论了龙虾可能成为企业应用入口的趋势，强调了其在搜索、知识库、制度查询等方面的应用潜力，同时指出中国企业在探索此类技术上的积极态度与美国AI公司的相对静默形成对比。</div>
+</div>
+<div class="chapter-item">
+<span class="time"><strong>[00:40:10]</strong> </span>
+<span class="chapter-title"><strong>AI安全与隐私挑战及数据库融合新思路</strong></span>
+<div class="chapter-summary">对话围绕AI行为引发的安全与隐私问题展开，强调了从语言到行为转变带来的权限和数据围栏挑战。讨论了龙虾热案例中极端开放性带来的不安定因素，提出需在个人与企业间找到平衡点。同时，探讨了数据库厂商融合AI需求的可能性，旨在简化企业AI适应过程，保留现有技术框架的同时融入AI功能，以应对行业统一命题带来的复杂性。</div>
+</div>
+<div class="chapter-item">
+<span class="time"><strong>[00:43:17]</strong> </span>
+<span class="chapter-title"><strong>智能数据平台与AI数据库的融合创新</strong></span>
+<div class="chapter-summary">对话探讨了将产品愿景从数据库厂商转向智能数据平台厂商的转变，强调了AI数据库和数据湖库在处理多类型数据上的能力。提出通过SQL作为基础语言，结合AI函数和文档处理，满足专业与普通用户需求。讨论了数据安全管控、云沙箱服务及企业级应用，展现了数据智能平台的全面解决方案。</div>
+</div>
+<div class="chapter-item">
+<span class="time"><strong>[00:47:48]</strong> </span>
+<span class="chapter-title"><strong>中国数据库平台超越国际老牌厂商的可能性探讨</strong></span>
+<div class="chapter-summary">对话围绕中国数据库平台超越国际老牌厂商的可能性展开，强调了技术替代的多维度及中国产品的竞争力。指出在供应链安全和减少对美国产品依赖的大背景下，中国产品在国内外市场均有竞争力，尤其在金融、运营商等领域表现突出。讨论还涉及中国产品高质量和市场直接竞争能力，表达了成为全球知名公司的愿景。</div>
+</div>
+<div class="chapter-item">
+<span class="time"><strong>[00:49:59]</strong> </span>
+<span class="chapter-title"><strong>AI浪潮下数据库公司投资评估新视角</strong></span>
+<div class="chapter-summary">对话探讨了在AI兴起的背景下，传统to b市场尤其是数据库及软件公司的投资评估标准需调整。指出过去依赖市场占有率、收入等战术指标的方法已不适用，应转向平台化运营视角，考虑AI能力、数据地位等新因素。同时，提及用户付费意愿增强及技术变革带来的市场变化，强调评估标准需与时俱进，灵活调整。</div>
+</div>
+<div class="chapter-item">
+<span class="time"><strong>[00:54:21]</strong> </span>
+<span class="chapter-title"><strong>AI技术演进与Agent发展趋势探讨</strong></span>
+<div class="chapter-summary">对话围绕AI技术的演进，特别是大模型、多模态到Agent的发展，探讨了技术突破如何打开新的局面和市场窗口。提及了中国和美国在AI领域的投资增加，以及Agent技术未来可能带来的巨大变化，包括个人用户层面的应用潜力。强调了底层技术进步对AI行业持续发展的推动作用，以及当前面临的挑战和未来的广阔前景。</div>
+</div>
+<div class="chapter-item">
+<span class="time"><strong>[00:57:11]</strong> </span>
+<span class="chapter-title"><strong>AI浪潮下的企业转型与数据治理</strong></span>
+<div class="chapter-summary">面对AI浪潮，企业应采取主动求变的思维方式，以小步快跑的方式推动AI落地，同时重视数据治理，利用统一数据底座提升智能化价值。建议企业主与CTO、CIO等积极拥抱AI，快速进化，确保AI使用的安全性与数据的有效治理，从而在AI变革中获得竞争优势。</div>
+</div>
+</div><br>
+<h1>问题回顾</h1>
+<div class="qa-item">
+<div class="question"><strong>Q:</strong> 在企业应用open cloud时，尤其是在数据库方面，企业应该怎么做？</div>
+<div class="answer"><strong>A:</strong> 企业如果想真正应用open cloud中的数据库部分，需要考虑其在数据范畴和安全性上的问题。由于open cloud是一个开源软件，在数据处理和数据库层面可能存在一些缺失，企业需要对这些进行深入探讨和改进。</div>
+</div>
+<div class="qa-item">
+<div class="question"><strong>Q:</strong> open cloud在数据库端存在哪些主要问题？</div>
+<div class="answer"><strong>A:</strong> open cloud在数据库端的主要问题是数据安全性和对大量企业级特性的支持。企业级特性包括权限管理、系统接入控制以及数据隔离等，这些在open cloud中可能需要做很多调整和补充。</div>
+</div>
+<div class="qa-item">
+<div class="question"><strong>Q:</strong> 对于open cloud中数据传输和处理中可能出现的问题，如数据缺失、不准确、数据一致性问题以及成本问题，AI行业是否会面临类似挑战？</div>
+<div class="answer"><strong>A:</strong> 是的，随着AI技术的发展和应用，例如在大数据和AI产品中引入了多种数据库，可能会遇到数据缺失、数据不准确、数据一致性等问题，同时也会存在类似大数据中的成本问题，比如数据存储副本带来的高昂成本。</div>
+</div>
+<div class="qa-item">
+<div class="question"><strong>Q:</strong> 企业如何应对新技术浪潮带来的数据孤岛问题，以及如何构建统一的技术架构？</div>
+<div class="answer"><strong>A:</strong> 企业需要从一开始接纳新技术理念，随着技术成熟逐步进行数据治理。例如，可以构建AI中台来统一调用各种能力和资源，实现数据统一记录和管理，减少多技术栈带来的复杂度，支持敏捷开发和实时访问，将各种模态数据整合到一个统一的大数据仓库中，以便高效处理和分析。在这个过程中，企业也在不断尝试和提出新的解决方案，比如AI仲裁等概念，以期在未来3到5年内更好地支持AI的发展。</div>
+</div>
+<div class="qa-item">
+<div class="question"><strong>Q:</strong> 在AI发展的过程中，算法、算力和数据这三大要素中，哪个对当前业绩发展影响更大？</div>
+<div class="answer"><strong>A:</strong> 在当前时间点，对业绩影响更大的是数据这一要素。</div>
+</div>
+<div class="qa-item">
+<div class="question"><strong>Q:</strong> AI刚出现时的核心是什么？</div>
+<div class="answer"><strong>A:</strong> AI刚出现时的核心是算法，当时研究的是各种算法，包括符号主义和连接主义等。</div>
+</div>
+<div class="qa-item">
+<div class="question"><strong>Q:</strong> 注重算力是从什么时候开始的？</div>
+<div class="answer"><strong>A:</strong> 注重算力大约从80年代英特尔CPU和90年代英伟达GPU开始，但真正重视数据是在十来年后。</div>
+</div>
+<div class="qa-item">
+<div class="question"><strong>Q:</strong> 企业现在在AI领域的焦虑点或聚焦点是什么？</div>
+<div class="answer"><strong>A:</strong> 现在企业的焦虑点和聚焦点在于数据，尤其是对于数据的准确性和治理问题。</div>
+</div>
+<div class="qa-item">
+<div class="question"><strong>Q:</strong> AI是否会带动数据治理的发展？企业为何在数据治理方面行动缓慢？</div>
+<div class="answer"><strong>A:</strong> 是的，AI会带动数据治理的发展，因为企业需要保证喂给AI的数据准确可靠，以避免产生错误结果或影响公司未来的决策。企业行动慢是因为数据的存储、处理及保证其准确性的复杂性，以及担心引入产品存在bug对企业造成毁灭性影响。</div>
+</div>
+<div class="qa-item">
+<div class="question"><strong>Q:</strong> 数据治理问题可以从哪些视角来看？</div>
+<div class="answer"><strong>A:</strong> 数据治理问题可以从宏观、中观和微观三个视角来看。宏观上，国家层面提出高质量数据集的概念；中观上，企业意识到数据烟囱问题并需要解决；微观上，企业根据自身需求逐步推进局部试点。</div>
+</div>
+<div class="qa-item">
+<div class="question"><strong>Q:</strong> 对于支持AI的数据库概念，您怎么看？</div>
+<div class="answer"><strong>A:</strong> 我不完全认同“支持向量就等于AI数据库”的观点。真正的AI数据库是一个综合类的产品，而不仅仅是支持向量，向量数据库也有其存在的价值和历史背景。</div>
+</div>
+<div class="qa-item">
+<div class="question"><strong>Q:</strong> 在大模型的发展中，上下文结构的突破和记忆问题是如何关联的？</div>
+<div class="answer"><strong>A:</strong> 上下文结构是大模型发展中的一个重要方面，它实际上是一个更广泛的数据层面问题的狭义展现。在龙虾等大模型的架构创新中，虽然在0到1的全新技术突破上可能并不显著，但在工程架构设计上，尤其是对内存管理（如45点MD文件设计）和像Markdown格式等应用上做了很多尝试和改进，这使得用户在使用过程中体验到显著的记忆差异。</div>
+</div>
+<div class="qa-item">
+<div class="question"><strong>Q:</strong> 对于AI大模型引发的记忆问题，市场上有哪些解决方案？</div>
+<div class="answer"><strong>A:</strong> 目前市场上针对AI大模型引发的记忆问题，出现了所谓的“记忆外挂”系统，比如用单独的系统来解决特定场景内模型带来的记忆问题。例如，龙虾通过CMD进行一定程度的解决，采用markdown格式也是一种妥协方案。此外，还有不同类型的解决方案，如RIG（可能指企业级文档知识管理系统）处理企业内部大量文档记忆，以及记忆体概念，针对对话式和喜好偏好的记忆进行管理。</div>
+</div>
+<div class="qa-item">
+<div class="question"><strong>Q:</strong> 企业如何理解和处理智能体agent中的记忆部分？</div>
+<div class="answer"><strong>A:</strong> 智能体agent通常由大脑和记忆两部分组成，对于企业而言，记忆环节至关重要。然而，企业面临的问题在于无法预知数据存储时长，且需定期清理，而AI的数据存储则无明确期限限制。这涉及到成本、调用、存储以及接口等一系列复杂问题。</div>
+</div>
+<div class="qa-item">
+<div class="question"><strong>Q:</strong> 针对不同场景下的记忆处理，有哪些具体的解决方案？</div>
+<div class="answer"><strong>A:</strong> 针对不同的场景，已经推出了多种解决方案。例如，在知识库场景下，开发了结合OB更强混合搜索能力的企业级统一IG软件；针对记忆体场景，推出了Primer软件，提供更强功能以处理各种记忆需求，包括纯知识记忆、对话记忆等。同时，淘宝APP中的AI万能搜和蚂蚁阿芙等应用也展示了如何通过记忆体技术改善用户体验和降低成本。</div>
+</div>
+<div class="qa-item">
+<div class="question"><strong>Q:</strong> 为什么有些公司在特定场景下会选择自建记忆系统而非使用通用大模型？</div>
+<div class="answer"><strong>A:</strong> 由于通用大模型在某些复杂场景下（如情感表达）无法有效解决问题，或成本过高的原因，部分公司选择根据自身需求定制一套特定场景内的记忆系统。这种定制化方案能够在遵守安全合规要求的基础上，提高效率、降低成本，并提供更接近人类感觉的交互体验。随着技术演进，相信未来会有更好的记忆解决方案出现。</div>
+</div>
+<div class="qa-item">
+<div class="question"><strong>Q:</strong> 龙虾作为一个主流应用，是否可能成为企业的数据入口，并且在安全和隐私方面存在怎样的问题？</div>
+<div class="answer"><strong>A:</strong> 龙虾确实有可能成为企业的数据入口，它整合了多种应用场景，如搜索、知识库查询、web coding等。然而，在安全和隐私方面，由于其开放性和缺乏权限控制，引发了热烈讨论。例如，用户可能提前对模型获取敏感数据表示担忧，甚至个人用户也会对此产生担忧。</div>
+</div>
+<div class="qa-item">
+<div class="question"><strong>Q:</strong> 为什么安全厂商突然对龙虾等技术表现出高度关注？</div>
+<div class="answer"><strong>A:</strong> 这是因为随着技术成熟，从语言到行为的转变使得模型具备了实际执行能力，这就涉及到权限、数据安全、隐私保护等一系列复杂问题。龙虾因其极端特性，在某些人群中受到欢迎，但同时也暴露出安全风险，因此需要寻找一个平衡点，既承认技术进步，又能确保安全。</div>
+</div>
+<div class="qa-item">
+<div class="question"><strong>Q:</strong> 面对AI技术的发展，企业希望如何简单适应，而不是从零开始重构现有流程？</div>
+<div class="answer"><strong>A:</strong> 企业希望可以利用现有的熟悉技术，比如SQL，来适应AI查询和应用，而不需要推翻原有的体系。数据库厂商是否可以提供一个切入点，将企业简单的AI需求融入数据库或搜索功能中，以实现平滑升级？</div>
+</div>
+<div class="qa-item">
+<div class="question"><strong>Q:</strong> 数据库厂商如何定位自己，以及如何适应AI时代的挑战？</div>
+<div class="answer"><strong>A:</strong> 数据库厂商正在转型为智能数据平台厂商，不再仅限于提供传统数据库服务。例如，通过分布式数据库、主备架构、嵌入式数据库等产品组合解决传统AI搜索问题，并进一步发展AI数据库湖库的概念，以统一处理各种数据类型。同时，针对普通业务用户开发易用的中间件层，结合标准服务和企业级安全管控，以满足不同用户的诉求，并有可能通过技术创新超越国外老牌厂商。</div>
+</div>
+<div class="qa-item">
+<div class="question"><strong>Q:</strong> 从投资角度看，如何判断一个优秀的数据库公司？</div>
+<div class="answer"><strong>A:</strong> 投资优秀数据库公司时，可以关注公司在to b市场上的表现，过去十几年来，国内to b市场一直有稳定的基金关注。尽管当前市场环境下，一些公司面临挑战，但依然可以从公司的技术实力、市场地位、商业模式及对未来趋势的把握等方面进行综合评估。</div>
+</div>
+<div class="qa-item">
+<div class="question"><strong>Q:</strong> 在AI崛起之后，对于中国的企业服务市场，尤其是to b领域，原有的投资逻辑是否还适用？</div>
+<div class="answer"><strong>A:</strong> 原来的投资逻辑是期待中国能复制美国繁荣的to b生态，但过去十几年并未如预期那样发展。现在看来，由于AI的影响，似乎美国的大型科技公司在中国市场可能不再像之前那样值钱。</div>
+</div>
+<div class="qa-item">
+<div class="question"><strong>Q:</strong> AI对当前to b和to c业务的区别以及公司形态带来了哪些挑战？</div>
+<div class="answer"><strong>A:</strong> 随着AI能力提升，组织公司形态和采购服务流程可能发生改变，同时，随着技术浪潮的推进，个人和企业在面对新事物时的反应也比以往更加积极，这使得传统评价企业发展的战术层指标（如收入、市场占有率等）可能不再完全适用。</div>
+</div>
+<div class="qa-item">
+<div class="question"><strong>Q:</strong> 龙虾兴起的现象如何影响了用户付费意愿的变化？</div>
+<div class="answer"><strong>A:</strong> 龙虾的兴起显示了用户对于付费购买服务或产品的态度正在转变，从以往认为中国用户不愿付费转变为某种程度上比预想中更愿意接受新的技术和服务，这是一个积极的变化。</div>
+</div>
+<div class="qa-item">
+<div class="question"><strong>Q:</strong> AI浪潮下，评判软件或SaaS公司价值的常规战术层指标是否还有效？</div>
+<div class="answer"><strong>A:</strong> 过去十几年，战术层指标在评判这类公司价值时效果并不明显，尤其在AI这波技术浪潮冲击下，数据的地位和状态已不再局限于纯软件公司范畴，而是需要以平台化运营的方式来衡量企业价值，这可能会改变现有的评价标准。</div>
+</div>
+<div class="qa-item">
+<div class="question"><strong>Q:</strong> AI技术发展如何推动了整个行业格局的变化？</div>
+<div class="answer"><strong>A:</strong> 从大模型到多模态，再到agent的发展，不断将天平往更有利于技术应用的方向推移。过去的技术潮流往往在几年后热度减退，但AI因其底层技术模型能力的不断提升，持续打开新的局面，并伴随底层技术、应用方案等不断演进。</div>
+</div>
+<div class="qa-item">
+<div class="question"><strong>Q:</strong> 为什么美国在AI领域的投资持续增长，而中国在本地和云端部署的用户量级相对较小？</div>
+<div class="answer"><strong>A:</strong> 尽管中国在AI领域的实际应用用户量级尚处于初级阶段，但由于底层技术模型能力的提升，已经引发了一系列新的机遇和挑战。这意味着在未来的演进过程中，中国市场的AI用户量级还有很大增长空间。</div>
+</div>
+<div class="qa-item">
+<div class="question"><strong>Q:</strong> 面对AI浪潮，企业主如何有效利用AI并与之产生绑定，有何建议？</div>
+<div class="answer"><strong>A:</strong> 企业应保持对AI安全使用的警惕，并对数据进行治理。采用小步快跑的方式推动AI在企业中的落地应用，同时考虑采用统一数据底座（如OB）的方式发挥企业数据的最大智能化价值，伴随企业共同成长。</div>
+</div>
+<h1>节目文稿</h1>
+<p class="transcript-line">
+<span class="time"><strong>[00:00:07]</strong> </span>
+<span class="speaker"><strong>发言人1: </strong></span>
+Hello, 大家好，我是明浩屠龙之术的主播，也是今天赛博赶海的串台主播。然后今天非常有幸邀请到两位嘉宾聊一聊现在这个时间点可能很热门的一个话题。当然我觉得今天的节目可能跟大家最近一段时间频繁听到的很多节目的切入角度有不太一样的角度。我们可能更多会集中在偏数据这一层面去解读最近一段时间AI行业最热的话题，关于agent跟龙虾的这个议题。然后要不我们今天先请两位嘉宾做个简单的自我介绍。
+</p>
+<p class="transcript-line">
+<span class="time"><strong>[00:00:37]</strong> </span>
+<span class="speaker"><strong>发言人2: </strong></span>
+OK, 好的，我先做一个自我介绍，我姓刘，刘华阳，然后是一家企业的数据库架构师，也是这家企业的数据库部门的负责人。
+</p>
+<p class="transcript-line">
+<span class="time"><strong>[00:00:48]</strong> </span>
+<span class="speaker"><strong>发言人3: </strong></span>
+戴老师好，大家好，我是戴涛，目前在oc base负责AI相关的解决方案。
+</p>
+<p class="transcript-line">
+<span class="time"><strong>[00:00:54]</strong> </span>
+<span class="speaker"><strong>发言人1: </strong></span>
+对，听到两位老师的这个背景，大家应该知道，我们可能会集中在探讨AI这种范子。今天尤其是26年初这个时间点，突然带来的新一波浪潮所引发的对于数据的讨论。先问几个小问题，比如说两位老师都养自己的这个open cloud，或者说有什么在过程中遇到的比较有意思的事情。无论是你们的还是你们听到，还是你们朋友的。
+</p>
+<p class="transcript-line">
+<span class="time"><strong>[00:01:18]</strong> </span>
+<span class="speaker"><strong>发言人2: </strong></span>
+都可以OK。好的，那我先来作为这个企业里面的一个作为服务数据库的一个部门或者是一个机构。其实我们对这个open cloud的这个产品是有一些看法。我们先不说养不养它，就是在这个整体的open cloud这个设计当中，其实在企业的落地里面，我们觉得可能会有一些问题。对，尤其是在数据的这个。
+</p>
+<p class="transcript-line">
+<span class="time"><strong>[00:01:48]</strong> </span>
+<span class="speaker"><strong>发言人1: </strong></span>
+对，所以今天会聊这个问题，会我怎么做比较多的延展的这件事情上。
+</p>
+<p class="transcript-line">
+<span class="time"><strong>[00:01:52]</strong> </span>
+<span class="speaker"><strong>发言人2: </strong></span>
+然后主要是数据库其实还是要说到老本行，就是数据库。我这三句话离不开数据库，无论是AI还是agent我们都是要有数据的。当然没有数据的话是不能做这件事情的。
+</p>
+<p class="transcript-line">
+<span class="time"><strong>[00:02:07]</strong> </span>
+<span class="speaker"><strong>发言人2: </strong></span>
+是的，现在open cloud一个最大的争议的地方就是它对使用数据的一个范畴与安全性的一些问题。这是我们可能待会儿要深入去说的是的这个部分。其实我们特别想的就是说就是OK现在养龙虾的人都是人，他不是企业。是的，就是我们为什么会很少听到某某大企业去集体养母家。对，这个是因为open cloud在数据端，尤其数据库这个方面，它可能有很多的缺失。因为它是一个开源的软件。
+</p>
+<p class="transcript-line">
+<span class="time"><strong>[00:02:41]</strong> </span>
+<span class="speaker"><strong>发言人1: </strong></span>
+是的。
+</p>
+<p class="transcript-line">
+<span class="time"><strong>[00:02:41]</strong> </span>
+<span class="speaker"><strong>发言人2: </strong></span>
+这是一个人做的对，所以说其实我们就是我作为一个斜的数据库负责人，我其实特别想跟我们的戴老师去聊一下天，多多沟通一下，多多学习一下。您觉得open cloud这一部分，比如说在数据库端，如果我们企业想去真正的应用这个部分，那企业应该怎么去做？
+</p>
+<p class="transcript-line">
+<span class="time"><strong>[00:03:07]</strong> </span>
+<span class="speaker"><strong>发言人3: </strong></span>
+这几年其实每一年的年头，都会有些新的出现的。对的，你像咱们二三年初，因为ChatGPT，对吧？对，基本上它是22年底开始的，去年是做什么DBC，DBC8个minus出现是吧？今年就是说close。对，龙虾就是变得非常火。
+</p>
+<p class="transcript-line">
+<span class="time"><strong>[00:03:27]</strong> </span>
+<span class="speaker"><strong>发言人3: </strong></span>
+刚才其实像那个刘老师谈到一点，龙虾其实他的创业的一开始本质上解决问题，他是个人助理。是的，而且他不是面向极端的他所以你会发现他很短时间之内get hub上他那个star数都排在第一，对吧？对他解决了很多梦幻中的那种叫数字贾维斯的概念。对对对吧？我跟他说句话，虽然他不是个物理实体，但说句话他就帮干活是吧？他其实是个数字假维斯，他是个偏个人东西。企业这侧他一定会跟进。我觉得很多客户已经在跟了，对。
+</p>
+<p class="transcript-line">
+<span class="time"><strong>[00:03:59]</strong> </span>
+<span class="speaker"><strong>发言人1: </strong></span>
+他们会问您什么样的问题呢？
+</p>
+<p class="transcript-line">
+<span class="time"><strong>[00:04:01]</strong> </span>
+<span class="speaker"><strong>发言人3: </strong></span>
+他们跟的时候他们会很谨慎。对，当然他们会发现，比如说龙虾的话是个人助理，企业要的东西是啥呢？企业要的东西其实是个数字员工。对，他要是说我能把我这些企员工的经验把沉淀下来，一定的范围内替掉了员工，甚至说你让员工更高效。或者说其实我有更多的一员工之后，我能做一些更多严重重要的事情，他去在乎一个态度，他要东西。其实跟目前企业的这个open cloud这个东西不完全一致。所以在企业端要做很多事情。
+</p>
+<p class="transcript-line">
+<span class="time"><strong>[00:04:32]</strong> </span>
+<span class="speaker"><strong>发言人3: </strong></span>
+然后比如说我举个例子，比如说像数据对吧？对我们的客户就会提出来，就是说你像open close的东西，它是存在文件上面的，不安全。我上周见客户的时候，客户基于我们一个大厂给那个open克布了一个东西，对吧？他就问那个客户他怎么问呢？他说请你告诉我，你talk你没必要。结果啪我一下，我截屏一下，就出来了，就算了是吧？那当然我现在也给他展示一下，比如说我们蚂蚁上次搞了一个数字实习生，对吧？展示一下。我问了同样的问题，我回答的很好说这是个机密问题。
+</p>
+<p class="transcript-line">
+<span class="time"><strong>[00:05:05]</strong> </span>
+<span class="speaker"><strong>发言人1: </strong></span>
+有有围栏有限制。
+</p>
+<p class="transcript-line">
+<span class="time"><strong>[00:05:06]</strong> </span>
+<span class="speaker"><strong>发言人3: </strong></span>
+所以发现没有。就是一个C端的东西直接部署给企业，很容易有过安全问题是吧？蚂蚁做这个B端东西就好一些，对吧？
+</p>
+<p class="transcript-line">
+<span class="time"><strong>[00:05:13]</strong> </span>
+<span class="speaker"><strong>发言人3: </strong></span>
+第一个是安全问题，第二个问题就涉及到说要大量接入。因为你像我们可乐，你不说个人电脑上就相对简单是吧？那你说权限一开就好了，对吧？企业你怎么怎么能对？是啊，每个企业有少的七八家系统，多的是上几上千套系统吧？我怎么怎么开是啊这东西你说我能把它全部开放出来吗？对吧？而且就在企业内网，我别说是把系统开发出来，哪怕把你一个电脑曲线，一个IP权限开放出来，都可能都有一些问题。
+</p>
+<p class="transcript-line">
+<span class="time"><strong>[00:05:43]</strong> </span>
+<span class="speaker"><strong>发言人3: </strong></span>
+所以你发现说他们对说企业级特性，个人特权这个问题什么边界？其实有很大的一个顾虑。所以你发现国内很多企业，它是去把你家动禁掉的对。
+</p>
+<p class="transcript-line">
+<span class="time"><strong>[00:05:54]</strong> </span>
+<span class="speaker"><strong>发言人1: </strong></span>
+是就现在只能做的方式更多是合理方式。
+</p>
+<p class="transcript-line">
+<span class="time"><strong>[00:05:56]</strong> </span>
+<span class="speaker"><strong>发言人3: </strong></span>
+是一刀切禁掉的对吧？它就在这一个模式。所以你说你刚才已经问过说我们养不养是吧？我们的办公电脑是不能养的。当然办公室被禁掉了，你只能在云上搞一个东西吧，或者家里面搞一个像现在什么买个mini买个mini买个mini还没没有用，就买个小迷你主机。对对对，可以搞个会加一个费用店可以做。其实你会发现说目前极端它就是这样一个样子。
+</p>
+<p class="transcript-line">
+<span class="time"><strong>[00:06:17]</strong> </span>
+<span class="speaker"><strong>发言人1: </strong></span>
+现实这个问题确实在过去这一个多月时间，它就是这种冲击和碰撞的。对的。
+</p>
+<p class="transcript-line">
+<span class="time"><strong>[00:06:23]</strong> </span>
+<span class="speaker"><strong>发言人2: </strong></span>
+这个过程中其实今天我我我插我插话了，不好意思，没关系。就是你看现在我们做各种项目，其实我觉得它其实就是一个历史的一个重复。我们经常会遇到几个问题，比如说在数据的传输当中，数据丢失了还是很有可能的。比如说我们在清洗数据或者在数据传输当中，由于某些原因数据可能缺少了。或者是比如说在数据的传输当中，数据传输不及时，然后导致我们最后汇总到大数据里的数据可能是不正确的。那么我们可能还要再去重新的传输，重新的清。
+</p>
+<p class="transcript-line">
+<span class="time"><strong>[00:07:00]</strong> </span>
+<span class="speaker"><strong>发言人2: </strong></span>
+当时大家都特别欣喜大数据来了，然后又特别期盼大数据来了。然后大家后面就特别恨这个东西，因为太难用了。但是到了现在大家可能会很少再提这个事情。因为为什么？因为可能现在大数据的解决方案里边有单一的或者是只有几种数据库的存在，就是相当于它的整体的架构变得简单了。其实我特别想问，就是现在AI特别热，大家都特别想进入到这个里边，企业也非常想尽了降本增效，是不是我就特别害怕。
+</p>
+<p class="transcript-line">
+<span class="time"><strong>[00:07:36]</strong> </span>
+<span class="speaker"><strong>发言人2: </strong></span>
+回到大数据那个里面的问题，就是我们的这些AI的产品里，比如说现在又引入了适量数据库，包括我们的比如说可能把声音，把图像再转成对转成这种，比如说拼靠这些产品就产品又太多了。然后这里，最后，我们需要把这个东西又进行2G然后再喂给我们的大模型。那这里可能是不是又会出现像我们大数据里面的，比如说数据缺失，数据不准确，数据一致性的问题等等等等。而且还有一个特别让人头疼问题，也是大数据曾经遇到问题，就是成本的问题。我这存一份儿，那存一份，还要存一份副本。大数据里边又要存一份，可能ETL的软件里面又要存一份，然后这个成本居高不下。就是单位有的时候上完这以后叫苦连天。
+</p>
+<p class="transcript-line">
+<span class="time"><strong>[00:08:24]</strong> </span>
+<span class="speaker"><strong>发言人3: </strong></span>
+跟刘老师问了一个非常好的问题。其实这个问题你发现了，就IT这几十年以来，会不断重演一循环反复一些故事。你刚才刘老师问的问题的核心点在于什么呢？就是说你会发现新的这个技术浪潮出来之后，企业里面会形成新的一些数据孤岛。然后甚至说不因为不同的技术站对不同数据隔离？
+</p>
+<p class="transcript-line">
+<span class="time"><strong>[00:08:47]</strong> </span>
+<span class="speaker"><strong>发言人3: </strong></span>
+核心其实这个问题所以你发现了，就是先就是说一开始新的一出来百花争鸣。然后的话说慢慢会觉得是需要治理。因为刚才有人说了不舒服，用的不好是的就要治理。比如像前几年，像我们有些名词，像业务中台的概念，就试图想从治理的角度上去处理的问题。
+</p>
+<p class="transcript-line">
+<span class="time"><strong>[00:09:08]</strong> </span>
+<span class="speaker"><strong>发言人3: </strong></span>
+现在AI的话说也是非常明显。我举个例子，比如说咱们基本上24年左右国内开始谈RIG。A agent开发。你会发现其实你看就两年左右时间，企业里面就引入了很多套agent有开源的开源不同版本的对，不同开源厂商？商业化的是的，然后那个IG也一样，所以刚开始技术初级跑起来的时候，问题不大，你未尝鲜。
+</p>
+<p class="transcript-line">
+<span class="time"><strong>[00:09:34]</strong> </span>
+<span class="speaker"><strong>发言人3: </strong></span>
+对，因为技术里面它有一个说现在这个成熟曲线，作为那种说刚开始是接触善于接纳这个新技术理念？是没问题的。但是真正的企业里面大量的受众，其实需要这个技术相对成熟以后，他才他有更有收益的？最后你会发现说我们现在客户已经提出来了，就说AI两年一年？对重构造轮子，所以他们也会会提出也有些治理的概念。虽然就这个名词不完全正确，但是我就有些思路给抛出来。
+</p>
+<p class="transcript-line">
+<span class="time"><strong>[00:10:03]</strong> </span>
+<span class="speaker"><strong>发言人3: </strong></span>
+比如说他们提出来要构建AI中台，但这个中台是不是业务中台来说，收银台不一定，但是意味着什么呢？它系统是从从基础上统一各种的一些调用各种能力。比如说我刚才举个例子，我现在企业里面每做一个应用里面一个案例，这里的应用那里面带自带了一套H的框架。怎么维护呢？每个的框架里面底层数据库也不一样是吧？是的，技术也不一样。所以如果说有它中台，它可能不是业务实体的，也就偏技术中台这种这东西PI的一些能力的。比如说怎么切片，怎么统一存储，怎么怎么搜索，包括怎么做整体编排，包括像做小龙虾，统一小龙虾的这种调度，统一搞出来，这对企业来说它是很有价值。
+</p>
+<p class="transcript-line">
+<span class="time"><strong>[00:10:47]</strong> </span>
+<span class="speaker"><strong>发言人3: </strong></span>
+所以我说的第一个概念说，这企业发现了他要说要做的东西，但是最后形成结果未必是人在中台。但是我说统一技术栈，减少这种说技术上的这种说叫这种多技术栈，应该是这种对技术是架构的复杂度，对吧？第二点，其实刚才其实刘老师也谈到，就是说什么点呢？数据因为你想你统一记录站之后，原来是因为多记录战造成的，说是数据它也不是统一的对那你发现AS了之后，其实我们的精力都不如原来。
+</p>
+<p class="transcript-line">
+<span class="time"><strong>[00:11:21]</strong> </span>
+<span class="speaker"><strong>发言人3: </strong></span>
+那原来程序开发是指什么模式？先看需求，去做做面对象设计，做表设计，也要是做开发模式是吧？现在你想说我们未来开发是啥？我给agent，我给web coding，我给他一个需求，需求直接结果了，我管他怎么实现，怎么设实现吗？我管他这个面向对象怎么做吗？当然大系统和系统不行。对，但是你说一个切量级系统是吧？因为业务团队大量切换系统，他不需要这种东西。
+</p>
+<p class="transcript-line">
+<span class="time"><strong>[00:11:47]</strong> </span>
+<span class="speaker"><strong>发言人3: </strong></span>
+那这时候你发现说他需要什么？他需要说是一个能支持他敏捷快速变化的这个东西。没办过企业里面各种稀奇古怪的数据全部存起来。而且的话说能支持我实时访问，支持我一些这种轻量级分析？这是刚才说的我向量分析各种这种方式分析。
+</p>
+<p class="transcript-line">
+<span class="time"><strong>[00:12:04]</strong> </span>
+<span class="speaker"><strong>发言人3: </strong></span>
+所以你会发现，对于客用户而言，如果你要结合H的开发或者web开发这种概念之后，你会发现未来的这种数据形态，它会变成说对企业而言就是个统一大数据回库的概念，对吧？各种数据多模态数据统一存储，各种负载。我管理TPIP下降是吧，是统一处理。而且各种那种图像图文英式图像文本映射水平数据。
+</p>
+<p class="transcript-line">
+<span class="time"><strong>[00:12:32]</strong> </span>
+<span class="speaker"><strong>发言人3: </strong></span>
+你不要还考虑说稳定什么稳定系统啥的，统一给，我来帮你处理，我来帮你存储，那对于未来就非常有帮助。企业现在已经发现这个问题了，他们试图去做一些治理，而且也提了很多新的想法。别重新说一里做对，比如像AI仲裁的概念是吧？而且其实像我们这种产品厂商，其实也在往这方面去努力。也是不是说其实通过一些更好的技术方向情况下，能在我们看得见的未来的这种3到5年里面，更好支持目前这一波AS的发展。
+</p>
+<p class="transcript-line">
+<span class="time"><strong>[00:13:01]</strong> </span>
+<span class="speaker"><strong>发言人1: </strong></span>
+大家就是今天这个时间点，大家都说愿意这一波发展三个要素，算法、算力跟数据。似乎在这个时间点，如果我们只看过去这一段时间跟未来短期内来说，这三个要素里面对今天这个时间点业绩发展并影响更大的应该是数据这一项。
+</p>
+<p class="transcript-line">
+<span class="time"><strong>[00:13:19]</strong> </span>
+<span class="speaker"><strong>发言人3: </strong></span>
+我来提一下，因为刚你说三个话题。对，因为今天正好今天是26年，对吧？对，AI出来正好是五六年出来的，到今年正好是70年。对，是的。刚出来的时候，因为貌似会议，对吧？它的核心其实是算法。对，是算法。当时是研究各种算法对吧？对，不管你是符号主义、连接主义，讲的是算法本身。
+</p>
+<p class="transcript-line">
+<span class="time"><strong>[00:13:40]</strong> </span>
+<span class="speaker"><strong>发言人3: </strong></span>
+是什么时候发现注重这个算力呢？80年代英特尔CPU，包括来说99年英伟达CPU？你会发现你需要一些新的一些算力解决问题。但是你会发现这十来年数据面很重要。一个标志性的一个里程碑就是李菲菲去搞他的那个音频就来因为有了18年那台车才有新盾。
+</p>
+<p class="transcript-line">
+<span class="time"><strong>[00:14:02]</strong> </span>
+<span class="speaker"><strong>发言人1: </strong></span>
+做2个GPU连在一起做。
+</p>
+<p class="transcript-line">
+<span class="time"><strong>[00:14:04]</strong> </span>
+<span class="speaker"><strong>发言人3: </strong></span>
+才有新盾搞出来。现在的所谓的这些，对，这些就计算模式，对吧？才会有有全部模型这个东西是吧？是的，所以你发现2010年开始，李飞飞去搞这个所谓的刚说。对，但它仍然是在于说偏研究领域。对，是的，偏说互联网产业领域的时候。是的。
+</p>
+<p class="transcript-line">
+<span class="time"><strong>[00:14:21]</strong> </span>
+<span class="speaker"><strong>发言人3: </strong></span>
+对于企业而言，就像您谈到的，其而言来说，因为去年还有个事情就DBCG，对d bcg解决了说这种超海量算力使用成本的问题。对训练？就是你发现了其实我们对算法不是很焦虑了。对，我们对算力不是很焦虑。
+</p>
+<p class="transcript-line">
+<span class="time"><strong>[00:14:36]</strong> </span>
+<span class="speaker"><strong>发言人3: </strong></span>
+那时候企业的焦虑点发生了，或者聚焦点什么，就是数据。所以你说现在AI的这三个角里面？对，现在就变成说你真的到企业应用来看看数据，还有企业每家企业它的经营的最核心的东西，除了他的管理制度以外，在数据上面。所以现在做切换点之后，就刚才你谈到说为什么我要强调话题的时候，你发现我们的很多企业它它动起来了。由于DBC的推动，由于国内各种芯片的推动，是吧？对，由于各种而且推动之后它动起来了，而且发现说他的数据很有价值，不管是训练还是推理情况下，或者说把企业数据，比如说能做一些更加智能化情况下都动起来了。所以我现在看了一下，这个趋势很明显的。
+</p>
+<p class="transcript-line">
+<span class="time"><strong>[00:15:16]</strong> </span>
+<span class="speaker"><strong>发言人2: </strong></span>
+刚才戴老师的话给我展开了我的思路，我又有一些新的想法了。就是我在想AI是不是又能带火一段数据治理这么一个事情。因为现在AI要投喂数据，这些数据都是从企业来的。现在企业的数据的准确率是不是准确的？我们的企业的数据散落在各种。
+</p>
+<p class="transcript-line">
+<span class="time"><strong>[00:15:43]</strong> </span>
+<span class="speaker"><strong>发言人1: </strong></span>
+地方平对。
+</p>
+<p class="transcript-line">
+<span class="time"><strong>[00:15:44]</strong> </span>
+<span class="speaker"><strong>发言人2: </strong></span>
+然后我们其实实话实说，我们把它收集起来。我们对一些数据的准确度我们也不看去完全保证。我们如果把这些不完全保证的数据喂给AI，让AI产生了一些结果。比如说经常在网上看到的这个商户删了数据，误操作的这种事情，我觉得就不太好了。当然这些可能是比较表面的。当然更深层次的，比如说我们通过AI来推演公司的未来的发展的一些模式，或者是推演公司发展的一些未来的数据。那这个推演错误了，那这个事情就大了。所以说我现在又回到了这个事情，就是OK外行看热闹，就是大家都在养龙虾，就是现在听说这个60岁的老太太都想去养龙虾，我觉得这个事情就有点儿有点儿有点失控了。
+</p>
+<p class="transcript-line">
+<span class="time"><strong>[00:16:36]</strong> </span>
+<span class="speaker"><strong>发言人2: </strong></span>
+但是我觉得企业现在不动，或者是动的非常的慢。其实有他们的考量，就是可能在AI的方面可能已经稍微的成熟了。在在企业应用里，但是数据的这块，数据的准确度，我们用什么去存这些数据？比如说我们有图形视频等等等等这些，那这些应该怎么去处理？因为现在的这个产品太多了。是的，那比如说作为一个比如说数据库的负责人，我不可能说我引入一个数据库，然后不经过测试长期的一种投入，然后就把它弄进来。然后假如说他的版本有问题，或者它有bug，那这些都是对企业是毁灭性的。所以说就刚才像戴老师说的，就是我特别认同就是架构一定要简单，不要说给我弄十个八个什么矢量数据库、图数据库，然后ES那个那个成本高，咱不说就是整体的，我觉得这个东西可能数据的处理上一定要失控。
+</p>
+<p class="transcript-line">
+<span class="time"><strong>[00:17:43]</strong> </span>
+<span class="speaker"><strong>发言人3: </strong></span>
+基本上是这样的。因为刚才这个刘老师谈了几个观点，第一个就谈到其实是数据治理的问题。这个问题我再给你拆开看一下，其实它分成宏观、中观跟微观的视角。
+</p>
+<p class="transcript-line">
+<span class="time"><strong>[00:17:54]</strong> </span>
+<span class="speaker"><strong>发言人3: </strong></span>
+宏观视角你会发现，其实去年咱们在中国提出互联网加的概念之后，你发现其实说我们的顶层设计在搞什么高质量数据集。你发现高质量设计核心其实就解决数据治理问题。他要从国家规范上面，包括说一些行业上面去推的东西。因为只有高质量数据的，只要数据质量是高的，才你才觉得说你这个训练推理是好的，对吧？这我这是宏观的问题是吧？其实国家已经动起来了。因为我们也会看一下一些国家课题上面确实有一些上面一些打算指引。
+</p>
+<p class="transcript-line">
+<span class="time"><strong>[00:18:24]</strong> </span>
+<span class="speaker"><strong>发言人3: </strong></span>
+第二就属于是中观，中关其实在企业的车，对，其实你发现其实树立这个治理的话题，它不是一个新话题。很多年前就在讲。但是由于历史上各种原因，数据烟囱各种什么问问题，真正把它做好的，你发现不多。但是你发现这个问题在AI时代，他就他会很要命。
+</p>
+<p class="transcript-line">
+<span class="time"><strong>[00:18:45]</strong> </span>
+<span class="speaker"><strong>发言人2: </strong></span>
+他放大了必须我们得做好。
+</p>
+<p class="transcript-line">
+<span class="time"><strong>[00:18:47]</strong> </span>
+<span class="speaker"><strong>发言人3: </strong></span>
+但很要命。所以你会发现其实我们很多客户就提个概念，他要做数据整理，就是他要需要什么工具？比如说我说数据这有典型的几层，统一的数据存储，统一的数据加工，对吧？还有一些比另外一些比较像血缘跟踪，各种一些数据工具。
+</p>
+<p class="transcript-line">
+<span class="time"><strong>[00:19:04]</strong> </span>
+<span class="speaker"><strong>发言人3: </strong></span>
+对，你上再把数据服务暴露出来，所以你说可能说它是一个大平台，也可能是很多平台共同组合起来。那帮你解决这个企业里面跟我说中关税率这个问题，他可能不完全是某一个产单一产品的决掉的。但是就比较OBOCB这边的，现在我们有一些像梳理这点些能力和经验是吧？但我觉得大差不差，就把这个图再拼起来。然后我说在微观层面上，有可能企业现在可能不是马上我就要做企业，随着你因为企业他他跟人一样，他有性格。他说他可能是他是尝鲜型的，为啥要老板想尝鲜是吧？
+</p>
+<p class="transcript-line">
+<span class="time"><strong>[00:19:39]</strong> </span>
+<span class="speaker"><strong>发言人3: </strong></span>
+对，老板觉得说我现在先做AI因为我他怕错失，然后这时候你说我先搞一两年做事治理，来不及。对，是的，那这时候我可以在你局部上面？我在微观上面，比如说我现在这个某个域，你看你的生产域、营销域、销售域，或者说你在这个IT开发，每个月我先做起来，没关系，我先做一些局部的一些AI东西。这话说这两不误，所以说你不是不做是吧，你可以另外一条线在推，但是另外你还会你可以单独一条线，会在一些局部上去做一些试点。
+</p>
+<p class="transcript-line">
+<span class="time"><strong>[00:20:12]</strong> </span>
+<span class="speaker"><strong>发言人3: </strong></span>
+其实我们这里发现，你说企业推荐他节奏，大概你说先先走先走0到1，他总要走第一步，对吧？对，比如很多企业是IT是吧，ITIT先搞个知识库，或者是营销搞一个说比如说这种说营销生图，是声纹的东西对吧？现在就走第一步，走完第一步之后，然后你走来就说从1到10。那你要考虑到说的，我可能我在我的个各个主要板块，我就铺点进去搞点自媒体，搞点知识库，搞点说真正这种说提效的东西，或者降本东西，或者说我能增加收入的东西，这是第二步。第三步收入有可能就要刚才说的结合AI中台土地数据你做或结合数据，我做进一步推广，就他他一定是这样一个迭代的一个过程。所以我觉得这个事情，其实我觉得是一个自然规律，咱们也不着急对吧？说来弄着呗。
+</p>
+<p class="transcript-line">
+<span class="time"><strong>[00:21:04]</strong> </span>
+<span class="speaker"><strong>发言人3: </strong></span>
+虽然AI说发展很快，但是我觉得伴随这个发展，它的企业信息化真正一个成熟的是有点周期的。特别刚才说的一些龙虾，对吧？我就说是需要点时间，然后让它成熟。
+</p>
+<p class="transcript-line">
+<span class="time"><strong>[00:21:15]</strong> </span>
+<span class="speaker"><strong>发言人2: </strong></span>
+对。然后我这边其实有一些同事，就是之前的同事其实也问我们企业在AI方面有没有推进。然后他们发现一个问题，就是现在的数据库只要是加上向量。
+</p>
+<p class="transcript-line">
+<span class="time"><strong>[00:21:30]</strong> </span>
+<span class="speaker"><strong>发言人1: </strong></span>
+他们就说是AI.
+</p>
+<p class="transcript-line">
+<span class="time"><strong>[00:21:31]</strong> </span>
+<span class="speaker"><strong>发言人2: </strong></span>
+数据支持AI的数据库。我作为一个数据库的从业快20年了，这个人我不太认同这种概念，我觉得这是个综合类的产品才能叫AI数据库，而不是说支持向量就叫AI因为它是向量数据库。
+</p>
+<p class="transcript-line">
+<span class="time"><strong>[00:21:50]</strong> </span>
+<span class="speaker"><strong>发言人3: </strong></span>
+这个概念，其实我就是一个缝合怪。
+</p>
+<p class="transcript-line">
+<span class="time"><strong>[00:21:54]</strong> </span>
+<span class="speaker"><strong>发言人2: </strong></span>
+缝缝合怪。
+</p>
+<p class="transcript-line">
+<span class="time"><strong>[00:21:55]</strong> </span>
+<span class="speaker"><strong>发言人3: </strong></span>
+因为我说你得从时间上倒序来看。向量数据库不是说因为大模型出来之后。
+</p>
+<p class="transcript-line">
+<span class="time"><strong>[00:22:01]</strong> </span>
+<span class="speaker"><strong>发言人1: </strong></span>
+对才出来的。是的。
+</p>
+<p class="transcript-line">
+<span class="time"><strong>[00:22:03]</strong> </span>
+<span class="speaker"><strong>发言人3: </strong></span>
+他其实十几年前就有对吧？
+</p>
+<p class="transcript-line">
+<span class="time"><strong>[00:22:05]</strong> </span>
+<span class="speaker"><strong>发言人1: </strong></span>
+其实外部三那一波的时候也在套这个。
+</p>
+<p class="transcript-line">
+<span class="time"><strong>[00:22:07]</strong> </span>
+<span class="speaker"><strong>发言人3: </strong></span>
+对他其实十多年前他就出来做产品的，他其实解决的不完全是一个说大模型的问题，但它有它的价值。因为它把一个图形为因素数据，变成一个高维空间一个点。这样的话就将来在这个高维空间里面求找销售部，他觉得这个问题对不对？但是为什么大门出来之后就发现它就膨胀非常快。
+</p>
+<p class="transcript-line">
+<span class="time"><strong>[00:22:28]</strong> </span>
+<span class="speaker"><strong>发言人3: </strong></span>
+因为你发现说有模型之后，我肯定以为因为最开始出来的模型是大语言模型，我的语语它会有语义。因为传统的原来的搜索其实是关键词搜索，它是一个k words，对吧？这样的搜索情况怎么样？所以你发现在大模型出来之后，它引入叫云搜索概念。对有余数之后的情况下，就会把这个所谓的向量数据库的就激活了。所以你发现向量数据库它有几个流派，对吧？纯向量的关系，加向量的，就是说加向量的。
+</p>
+<p class="transcript-line">
+<span class="time"><strong>[00:22:56]</strong> </span>
+<span class="speaker"><strong>发言人3: </strong></span>
+然后我说这里面差异在在什么呢？因为你发现其实你在做，特别是你现在结合现在这种web coding也好，龙虾也好，是不是你的很多一些需求你让AI去做情况下，其实你很难，它是一个跨领域需求。他不是说这个事情只有一个说一个向量需求，很多事情它只有一个说文本检索以那个设计，它以偏文本为主导，加向量，你发现没有，它是一个多模态需求，你发现没有？就是说单纯的向量或者说原来数据库里面这个外挂，这种分货怪，他解决不了他的核心的性能问题和价值问题。
+</p>
+<p class="transcript-line">
+<span class="time"><strong>[00:23:31]</strong> </span>
+<span class="speaker"><strong>发言人2: </strong></span>
+我觉得也很有意思，就是现在很多企业还是在掉入缝合怪的一个状态。比如说像现在就是我们的这个向量的数据在数据库里面，我们的标量的数据也在数据库里面。可能我们的一些音频，视频等等等这些图形的数据都在各种各样的数据库里。
+</p>
+<p class="transcript-line">
+<span class="time"><strong>[00:23:51]</strong> </span>
+<span class="speaker"><strong>发言人3: </strong></span>
+所以我们现在就做了这样一个东西，就我们内部的东西叫什么呢？叫混合搜索。
+</p>
+<p class="transcript-line">
+<span class="time"><strong>[00:23:56]</strong> </span>
+<span class="speaker"><strong>发言人1: </strong></span>
+前两天google map迎来了史上最大一次更新，他现在主打就是ask maps。他举的案例就是说比如说我要这附近找一个适合约会，宠物友好人不太多，我马上就要去的一个什么样的东意大利餐厅，然后最好能提前预定。当然我们听到这个需求之后，你还是可以用传统的关键词太来去解。但似乎就是这种需求，当它变成一个没有边界，没有办法用传统意义上的说关键词跟他的方式去限定的时候，你还要给他结果，还要返回合适的方式。那似乎对于比如像google map的团队而言，要做的事情就是刚才你说的所有这些事情。而且你肉眼可见这种趋势会随着AI大部分推进发展之后，这种需求会越来越多跟常见。甚至可能成为某种意义上的新的用户的界面的交互的范式，对吧？
+</p>
+<p class="transcript-line">
+<span class="time"><strong>[00:24:43]</strong> </span>
+<span class="speaker"><strong>发言人1: </strong></span>
+那那当我们都要去面临这样的解决方案的时候，对于在做相关业务的公司跟企业而言，似乎就要有一个新的底层的配套的。无论是数据也好，架构也好，去适配这样的需求。那似乎确实再往这儿走，对吧？确实看上去，而且我看那个广告是goom map什么十年以来最大的更新，就是他把这个ask map放到这样一个高度，就代表确实可能最先进的这些厂商在面临这样的这个问题。
+</p>
+<p class="transcript-line">
+<span class="time"><strong>[00:25:15]</strong> </span>
+<span class="speaker"><strong>发言人3: </strong></span>
+刚才他他那个广告我说我们24年就已经24年。我们在用户大会上发布了我们的这个产品特性的时候，加州举例子，对，应该说搜索500米之内，那就是说各种价格，各种类型的而且好吃的一个餐厅，就这样的一个示例。就是说这个事情出来，google web做一个重大特性提供。我们也把这个事例也搬到我们的官网上了。OK我们官网上有一个东西来说基于高德地图去做的，你就能说比如说在杭州是吧？所以就说几百米之内最好的一个什么一个酒店啥的，我现在挂着有啥实力。
+</p>
+<p class="transcript-line">
+<span class="time"><strong>[00:25:49]</strong> </span>
+<span class="speaker"><strong>发言人1: </strong></span>
+我们正好就聊到这个业务落地的角度。我们业务落地我觉得第一个问题是关于搜索引发的这个数据也好。我们聊第二个问题，可能关于是AIG模的AI这波大模型，包括最近龙虾热，大家探讨比较多的关于记忆的事情。因为大部分人出来之后，大家都会说它的上下文结构一直是很多厂商在突破的一点。但上下文我觉得是一个这个问题的狭义的展现，它不仅仅只是一件事情。然后这个龙虾是很多人也会说，在龙虾的整个的架构创新过程中，其实对于纯跟进模型业务发展比较多的人，他还会觉得他并没有做特别多的0到1的创新。但是他做了很多工程上的架构的设计，尤其在45点MD那个文件的设计上，大家会觉得有很大的不同。也是带来了个人用户在用过程中会觉得龙芯阿哥我们去用一个普通大屏聊天，它确实在记忆这一层有比较大的区别。似乎双引号的记忆这个问题。也跟这一波大模型发展的过程中变得越来。
+</p>
+<p class="transcript-line">
+<span class="time"><strong>[00:26:43]</strong> </span>
+<span class="speaker"><strong>发言人1: </strong></span>
+我们再把这个问题放大，甚至记忆本身，其实也是数据的泛的数据层面的问题。只不过现在厂模型厂商们在做的是把自己本身的模型的上下文在做扩扩在不断的在加大那个数字对吧？然后那当然就会出现了引由此引发了很多问题。同时可能这个市面上也会有一些专门针对AI直播大模型引发的记忆问题，做我们叫记忆的外挂。
+</p>
+<p class="transcript-line">
+<span class="time"><strong>[00:27:08]</strong> </span>
+<span class="speaker"><strong>发言人1: </strong></span>
+就像刚才说我们做记忆的单独的外挂系统也来去解决或者是来去在很多固定或者说特定场景内解决模型本身带来的记忆的问题，对吧？这个包括龙虾用CMD来去解决某种程度的问题，包括用markdown这个格式，可能我觉得也是一种妥协之举对。他也绝对不是最后的标准答案对吧？那但是他至少这个方案本身可能在现阶段可能就比较匹配当下的发展状态，技术方案成本各种各样的实施，吧？那就是记忆这个问题，大家如何看待这轮发展，包括对相关厂商的要求提出什么样的要求。
+</p>
+<p class="transcript-line">
+<span class="time"><strong>[00:27:44]</strong> </span>
+<span class="speaker"><strong>发言人2: </strong></span>
+其实我特别想接着刚才那个话题说，比如说我不是第一次来了，我是第二次来了。那第二次来可能。
+</p>
+<p class="transcript-line">
+<span class="time"><strong>[00:27:51]</strong> </span>
+<span class="speaker"><strong>发言人1: </strong></span>
+我上次问过。
+</p>
+<p class="transcript-line">
+<span class="time"><strong>[00:27:53]</strong> </span>
+<span class="speaker"><strong>发言人2: </strong></span>
+对，就是可能我这个问题可能有一些标记。比如说上次我是一个人来的，可能这次我还是一个人来的那他推荐的这个产品是不是有机就是他的记忆。我上次来过OK，那我根据他上次的推荐，加上这次的这个又提出重这个重复的问题。那我可能通过AR来给它计算出来一个差不多的这么一个部分。就说我需要去把之前的信息要存储掉。但是现在这个部分其实我觉得对AI来说可能会很简单，但对企业来说非常的困难。因为我们真的不知道这个数据会存多长时，因为我们企业里面数据会定期清理掉。比如说OK这堆数据，我们标定它存三年，这个数据存五年，他到了时间我们会清理掉。对，但是AI的数据我怎么标定？
+</p>
+<p class="transcript-line">
+<span class="time"><strong>[00:28:46]</strong> </span>
+<span class="speaker"><strong>发言人1: </strong></span>
+理论上应该一直都存着是吧？
+</p>
+<p class="transcript-line">
+<span class="time"><strong>[00:28:48]</strong> </span>
+<span class="speaker"><strong>发言人2: </strong></span>
+就是我我到现在我没有办法去标定，我说这个数据我什么时候要删，没有人能告诉我。那可能就是现在有一个最大的问题，就是我可能要存的时间很长，同时我还要调用它。那这里就会牵扯到很多问题的。比如说像成本的问题，我怎么调用问题，怎么存储问题，什么接口之类的一堆的问题。
+</p>
+<p class="transcript-line">
+<span class="time"><strong>[00:29:08]</strong> </span>
+<span class="speaker"><strong>发言人3: </strong></span>
+谈到这个企业这种智能体agent的时候，因为它基本上有个公司怎么理解agent呢？就是大脑加记忆对，加工具推理加工具。对。嗯，所以大家的记忆是一个非常重要一个环节。就刚才林浩说的这个问题，还有很多解法，对模具厂厂商的话说就是无限的增扩大增加那个窗口。对，嗯因为说白了因为他他是按照talking赚钱的。
+</p>
+<p class="transcript-line">
+<span class="time"><strong>[00:29:33]</strong> </span>
+<span class="speaker"><strong>发言人1: </strong></span>
+对吧？
+</p>
+<p class="transcript-line">
+<span class="time"><strong>[00:29:34]</strong> </span>
+<span class="speaker"><strong>发言人3: </strong></span>
+所以是他恨不得这个越大。
+</p>
+<p class="transcript-line">
+<span class="time"><strong>[00:29:37]</strong> </span>
+<span class="speaker"><strong>发言人1: </strong></span>
+你再大越浪费越好。
+</p>
+<p class="transcript-line">
+<span class="time"><strong>[00:29:39]</strong> </span>
+<span class="speaker"><strong>发言人3: </strong></span>
+再大你想你有极限。对我我给一个大英百科全书，我给个磁卡，你的你能处理吗？还是处理不了，对吧？虽然你总是有些极限，虽然你从企业的回到这个架构治理角度看，理论上模型最好变成说是做无状态的，造出最高效的。
+</p>
+<p class="transcript-line">
+<span class="time"><strong>[00:29:58]</strong> </span>
+<span class="speaker"><strong>发言人3: </strong></span>
+所有这些记忆，因为该有它有非常多的一些类型是吧？对，是的，应该通过一些外部的解决方案去解决掉。目前看其实企业很多种，刚才您谈到的像龙虾里面的八个大文件，这其中一种或一些本地的一些缓存。对我觉得那么干燥叫本地缓存是吧，本地存储，还有什么解法呢？其实你像之前谈到的RIG，RG其实理解其实也是一种记忆。对，只不过它处理是企业里面的大量这种文档，对文档知识的这种记忆，对吧？它是一种解法。
+</p>
+<p class="transcript-line">
+<span class="time"><strong>[00:30:29]</strong> </span>
+<span class="speaker"><strong>发言人3: </strong></span>
+第二种就是还有这种，他说因为从去年开始谈这个，做一个叫记忆体的概念。对，就是我可以把一些说不是这种文档，偏这种对话式的东西，或者偏这种说喜好偏好性东西？我把它变成一个说一个解决方案，它叫记忆体。就对我们来研发说，你想你就看你要处理什么样的记忆。如果说是知识的记忆，就是说像这种企业一些特定知识，因为模型它是面向泛行业的，对吧？
+</p>
+<p class="transcript-line">
+<span class="time"><strong>[00:30:56]</strong> </span>
+<span class="speaker"><strong>发言人3: </strong></span>
+你企业内部的一些特有知识，我个人的一些特殊文档这种记忆，你通过RIG去解，我把我的本地文档，本地的一些东西一起解决掉是吧？当然现在还有新的一个流派，就是说我的一些技能的记忆，我从skill school来记，我本地一些SOP的做法，它不是一个知识，可能是个技能。我把它变成一个skill，一个知识这么一个解法对吧？
+</p>
+<p class="transcript-line">
+<span class="time"><strong>[00:31:20]</strong> </span>
+<span class="speaker"><strong>发言人3: </strong></span>
+第二种情况下，就刚才刘老师谈到的这种我多轮对话，我人机交互，我给模型交互，我搜索这种多轮搜索之间这种记忆，你刚才说通过机器去理解，那解什么问题呢？就是说这里面分长期记忆管理、短期记忆管理。因为记忆就是短期记忆吧？短期记忆刚才说的可能跟人一样，你就你忘了就忘了也没事，很重要事情。屏幕上被喊骂不起，看到东西也会把它记住，把短链接变成长期记忆。还有一种东西，比如说叫私有记忆，就我自己知道的东西，我谁也不告诉对不对？是的，还有说比如说是团队及公共记忆，比如你多个字点之间，它有共享记忆。
+</p>
+<p class="transcript-line">
+<span class="time"><strong>[00:32:02]</strong> </span>
+<span class="speaker"><strong>发言人3: </strong></span>
+所以你发现其实我需要一种具体的解决方案去解决刚才您谈到的这种不同场景下面这种记忆处理。比如刚才说你做的API级别，就是你记忆的新增，然后你记忆这种追溯，记忆的更新对，记忆淘汰机制，就是这样一个状态。所以你看我们其实也针对不同场景内推出了不同的一些解决方案。比如说刚才谈到说针对这种说奇迹这种知识库的场景下，其实我们做了一个叫抛出一个软件。它是这种企业级，因为也结合我们OB更强的这种混合搜索，统一这种追求能力。曾做了一个说企业统一IG能力，然后针对这种记忆体，我们做了一个primer这样一个软件。你刚说的是，而且它是跟开源的那个麦不准0 map准ZO.
+</p>
+<p class="transcript-line">
+<span class="time"><strong>[00:32:50]</strong> </span>
+<span class="speaker"><strong>发言人1: </strong></span>
+专门做。
+</p>
+<p class="transcript-line">
+<span class="time"><strong>[00:32:51]</strong> </span>
+<span class="speaker"><strong>发言人3: </strong></span>
+API是一致的。你们不也有去年4月份出来的？对，我们跟API1致，但是提供了一些更强的一些功能。这个情况就是说不管是你的这种说纯的知识记忆，还有这种说偏对话这种记忆都能做。
+</p>
+<p class="transcript-line">
+<span class="time"><strong>[00:33:04]</strong> </span>
+<span class="speaker"><strong>发言人3: </strong></span>
+再给你举个例子，你像比如说在淘宝里面的话，说他去年出了个新功能，淘宝APP里面叫AI万能搜。A one搜就是说说它这个收费场景。我每周五的时候，比如说我今天我给老我给老板人带来礼物是吧，我该送什么礼物，我问他个东西是吧，那律师，他能把你原来问的东西能把它记下来，就是说第二次再重新推给你。对，是的，这是一个完整的叫搜推的方案。这个方案里面他那个记忆体前周去EOB做的，告诉他他还不不是去用我们的抛，是基于说是把OB变成一个向量存储之后把这一个小知识库上能能去做些一些检索吗？对吧？
+</p>
+<p class="transcript-line">
+<span class="time"><strong>[00:33:44]</strong> </span>
+<span class="speaker"><strong>发言人3: </strong></span>
+第二个是我们去年的蚂蚁，去年推荐出了一个很好玩的应用，叫做蚂蚁阿芙。我春晚上还上了，对吧？蚂蚁阿芙用它的定位叫什么呢？叫家庭的医生，私人医生。对，但是阿芙刚推出的时候，他是没有记忆的。每次你问他问题，他就单次的。你发现这新病人。
+</p>
+<p class="transcript-line">
+<span class="time"><strong>[00:34:03]</strong> </span>
+<span class="speaker"><strong>发言人1: </strong></span>
+每次都是新的？
+</p>
+<p class="transcript-line">
+<span class="time"><strong>[00:34:05]</strong> </span>
+<span class="speaker"><strong>发言人3: </strong></span>
+新病人是医生，这个不行，这个东西你我请了私人医生，你还不了解我，这个不行。所以你发现阿福他也会得跟OB一些结合？叠加一些记忆的能力。正好你发现他说他就能提供一些这种偏说能把一些历史上你问的，比如说我今天我不舒服，今天我母亲不舒服，或者说能帮我一些血检报告，我传训练报告给他是吧？这情况下记下来，记下来之后你知道他。第二你在未来在问他问题的时候，他能带出这些关键信息给他。
+</p>
+<p class="transcript-line">
+<span class="time"><strong>[00:34:35]</strong> </span>
+<span class="speaker"><strong>发言人2: </strong></span>
+这都好了是吧？对对对。
+</p>
+<p class="transcript-line">
+<span class="time"><strong>[00:34:36]</strong> </span>
+<span class="speaker"><strong>发言人3: </strong></span>
+还有你说像互联网企业，他们做那个什么陪伴场景，做的那个陪伴对吧？陪伴场景之后，你说你说你多人去去对话，你说原来怎么做？原来是把多人对话全部给他不行，搞死成本搞死了。你加入机体之后，加点时间提取，把这关键信息提取出来。比如说我大学毕业的，我是哪天在工作的，我什么时候去过哪里玩。这些记下来之后，其实你每次只需要把一个很小的窗口给他回去，又能节能talking？又怎么虽然我说的那这个东西。不同的一个解法，决定说你的成本。
+</p>
+<p class="transcript-line">
+<span class="time"><strong>[00:35:11]</strong> </span>
+<span class="speaker"><strong>发言人2: </strong></span>
+对，戴老师今天给我扩展思路，这样我们就能节省这个使用token的费用了。
+</p>
+<p class="transcript-line">
+<span class="time"><strong>[00:35:18]</strong> </span>
+<span class="speaker"><strong>发言人3: </strong></span>
+是这样，很多都难。
+</p>
+<p class="transcript-line">
+<span class="time"><strong>[00:35:19]</strong> </span>
+<span class="speaker"><strong>发言人2: </strong></span>
+这个问题用不起，真的是用不起。
+</p>
+<p class="transcript-line">
+<span class="time"><strong>[00:35:21]</strong> </span>
+<span class="speaker"><strong>发言人1: </strong></span>
+这个我们后面再聊，这个我反正我们的现实案例是我们是一家我们公司其实是一家做社交的公司。确实在AI上的尝试也是这个逻辑。就是确实大家会认为传统的或者说基本的大模型更多是在做普通的语言的。如果我们加一层情感，他要做更多的更复杂双引号情感的表达。那这种表达看上去他用通用模型能力的基上文就是解决不了，他就没有办法这个事情做偏。那你当然可以用一些提示词工程去往这调一调，但是那个成本就像你说那个太就我们也试过，发现成本真的扛不住，就是因为现在用户也没有办法直接付钱。就是在国内海外可能还好一点，对吧？所以大部分都去这个板块，大卖场基本都在海外做，国内不太做，所以B站我没办法中间尝试过那种方式。
+</p>
+<p class="transcript-line">
+<span class="time"><strong>[00:36:06]</strong> </span>
+<span class="speaker"><strong>发言人1: </strong></span>
+一定阶段为什么我们会自己在做自己一套自己系统？就是刚才你那个逻辑，既然在这个场景下用通用大模型的上下文的记忆能力解决不了或者成本太高，那我们就自己做一个做一套，或者说只限定在这个场景内解决我们现有面临问题的这一套东西。然后这套东西你会发现，其实市面上也有一些做相关G系统的公司都在解决类似的问题。就是针对一个固定的场景，在已有的上下文跟模型能力通的基础上，在这个场景下无论是提高效率，还是更接近人的感觉，还是降低成本。反正你有一个原因，以及在认识上深挖做出来一个东西，现在看上去已经有一些效果在显现的过程中，所以似乎我们可以看到，妈我还是认为马当今天我看到这是一种中间态的妥协的方式。但是这种方式让大家已经看到了它相较于通用的一个我跟一个常规的GGP或者是豆包去聊天的巨大的区别。那再往后推，似乎应该还会有更好的我们能够体验感受到，更容易提升这个感觉的一套记忆的东西的演进。所以我觉得确实他在往这个方向在走。
+</p>
+<p class="transcript-line">
+<span class="time"><strong>[00:37:15]</strong> </span>
+<span class="speaker"><strong>发言人2: </strong></span>
+其实刚才明浩老师说的那个markdown作为公用的，我觉得OK对，但是今天作为企业的这个用户，我们实在是。
+</p>
+<p class="transcript-line">
+<span class="time"><strong>[00:37:27]</strong> </span>
+<span class="speaker"><strong>发言人3: </strong></span>
+没有。
+</p>
+<p class="transcript-line">
+<span class="time"><strong>[00:37:28]</strong> </span>
+<span class="speaker"><strong>发言人2: </strong></span>
+原因。原因在于就是每个企业都是有这个安全数据要求的。你比如说我们企业就是要过2万、14000等等这些。那数据是要经过审核，我们每一个操作都要审核，每一个操作都要记录，每一个这个数据的存储都是要有一个安全的一个范围之内的，都是有人去检查你的。而现在这个open cloud这个企业没法用，一个最根本的原因是企业他真的没有办法拿这个东西去突破这个真正的安全的数据的防线。那如果用完这个以后，企业数据暴露了。比如说我是个乙方，那甲方直接就要投诉我我我就没有办法去干了。
+</p>
+<p class="transcript-line">
+<span class="time"><strong>[00:38:08]</strong> </span>
+<span class="speaker"><strong>发言人3: </strong></span>
+数据泄密安全合规的根本就过不了。
+</p>
+<p class="transcript-line">
+<span class="time"><strong>[00:38:10]</strong> </span>
+<span class="speaker"><strong>发言人2: </strong></span>
+对，这根本就过不了。所以说我就是我还听说有一些其他国家的这个案例，直接就禁掉了这个产品。其实我们对产品的数据在这个方面的安全还是比较看重的。或者是这是一个没有办法逾越的部分。
+</p>
+<p class="transcript-line">
+<span class="time"><strong>[00:38:30]</strong> </span>
+<span class="speaker"><strong>发言人3: </strong></span>
+这对中国企业来说，这是个非常重要命题。因为你看龙虾出来三个月了，对你发现其实现在中国的热度比美国高。
+</p>
+<p class="transcript-line">
+<span class="time"><strong>[00:38:40]</strong> </span>
+<span class="speaker"><strong>发言人1: </strong></span>
+超级高对吧？
+</p>
+<p class="transcript-line">
+<span class="time"><strong>[00:38:41]</strong> </span>
+<span class="speaker"><strong>发言人3: </strong></span>
+对你说中国的大量企业基本上就互联公司，我牵有牵引，对吧？就是各种的楼下各种玩法，反而到时候你看看美国的那几家AI公司，比较安静，反而特别安静。这里面我先不说这个路线这个问题，因为传统上都是认为中国的场景更丰富。
+</p>
+<p class="transcript-line">
+<span class="time"><strong>[00:38:59]</strong> </span>
+<span class="speaker"><strong>发言人3: </strong></span>
+再一个现在如果龙虾作为一个主流，我们很多一些企业级客户？不管是处于工薪私心，比如说交际的一个需要，他要看看这个龙虾是什么东西救一下。对研究的需要，要自己去去去玩一下。或者说现在企业和内部很多说也提升了一些需要？所以发现现在我们能看得见今年，因为今年是在三月中。对你看到今年这个事情，现在是一定是一个大话题。
+</p>
+<p class="transcript-line">
+<span class="time"><strong>[00:39:24]</strong> </span>
+<span class="speaker"><strong>发言人3: </strong></span>
+而且我而且有可能龙虾变成一个入口，为什么入口呢？你看你不管是你嵌入到微信，嵌入到钉钉，嵌入飞书里面，他变成就是刚刚说一个数据贾维斯。对，我会把我的原来的所有的搜索，传统知识库搜索，传统这种说企业制度搜索，我一定是任务。对，还有一些比如说一些应用之类的web coding，一些写代码，包括一些这种是问数。对我全部都会丢给他。他就变成说其实是一个应用入口了，就从他这走。
+</p>
+<p class="transcript-line">
+<span class="time"><strong>[00:39:55]</strong> </span>
+<span class="speaker"><strong>发言人3: </strong></span>
+对，印象跟创业GB一样，对它是一个对话框，都是一个应用入口。所以这时候你看这时候，如果我们现在已经看得见很多客户也这么想的对吧？对，也这么想去规划就不做。那这时候刚才您谈到这个问题就来了。
+</p>
+<p class="transcript-line">
+<span class="time"><strong>[00:40:08]</strong> </span>
+<span class="speaker"><strong>发言人1: </strong></span>
+那也是我们想马上谈的第三问题。
+</p>
+<p class="transcript-line">
+<span class="time"><strong>[00:40:10]</strong> </span>
+<span class="speaker"><strong>发言人3: </strong></span>
+安全和隐私问题。做完你咋搞对吧？对你说一下，你刚刚才我举个例子，吧，你说你就问人家有一个东西密钥一下出来了是吧，这这哪行这哪行是吧？
+</p>
+<p class="transcript-line">
+<span class="time"><strong>[00:40:22]</strong> </span>
+<span class="speaker"><strong>发言人1: </strong></span>
+所以就是我我会觉得这一轮当然可能也是因为逐渐的成熟。这一轮关于龙虾热之后的安全和隐私的探讨，其实是比想象中更热烈的。甚至很多有一个侧面说很多用户可能都没有装，但他会提前担心。是的，这个事情哪怕是个人用户。是的，所以我觉得这个议题就变得更加。
+</p>
+<p class="transcript-line">
+<span class="time"><strong>[00:40:40]</strong> </span>
+<span class="speaker"><strong>发言人1: </strong></span>
+所以反问一下，为什么是中国这些安全厂商对这件事情这么的突然间的你像老周富盛其实都是最安全的。他为什么突然间的脑袋亮了一下的感觉？就是因为确实这个问题，他把我们真的走到了。因为我还是那个观点，就是我们从原来的纯语言走到了agent对吧？就是从语言到行为，你走到这儿的时候，确实模型本身看起来能力已经ready了。我们真的要去做行为了。那行为必然会面临权限、数据围栏所有这些事情。
+</p>
+<p class="transcript-line">
+<span class="time"><strong>[00:41:09]</strong> </span>
+<span class="speaker"><strong>发言人1: </strong></span>
+然后龙虾相当于是一个极端，按我跟你说，他把这个事情推到一个极致，说我完全不care，就百分之百的开给你。我们做出来这个东西，所以他当然会在某一部分人群内得到巨大的欢迎。是的，但是他因为他是个个人的个人的是开发人的，他当然可以他的方式把这推到这，告诉大家模型现在已经能做到这个样子。但是问题在于他推的那个地方太不安定跟太开放。双引号的开放了。所以我们需要是说，我们当然承认这件事情已经走到这儿了，走到行为走到一阵子。
+</p>
+<p class="transcript-line">
+<span class="time"><strong>[00:41:44]</strong> </span>
+<span class="speaker"><strong>发言人1: </strong></span>
+但是龙虾的示范不是一个双引号好的示范。那我们要在中间找到一个合适的方式，适合无论是个人还是企业来去把它真正意义继续让这个事情往前推。所以似乎我觉得安全是一个太宽的话题了。就是它里面涉及到的数据安全、隐私权限、账户乱七八糟这套整套题。本来网络安全就已经是一个百花齐放，产业链非常复杂，且有非常多公司在做的板块。今天似乎把这个议题又推到了一个，就是你要知道原来那个行业的分工已经武装到牙齿了。然后今天框给了给相当于给了一个全行业的统一命题让大家去解决。那就是这个问题被推到了这种程度之后，你会发现这个问题好难解，好难解。
+</p>
+<p class="transcript-line">
+<span class="time"><strong>[00:42:29]</strong> </span>
+<span class="speaker"><strong>发言人2: </strong></span>
+是的，其实从我们企业的这个角度来说，其实我们更希望能更简单的来适应AI并不是说要。
+</p>
+<p class="transcript-line">
+<span class="time"><strong>[00:42:37]</strong> </span>
+<span class="speaker"><strong>发言人1: </strong></span>
+加那么多东西复杂。
+</p>
+<p class="transcript-line">
+<span class="time"><strong>[00:42:39]</strong> </span>
+<span class="speaker"><strong>发言人2: </strong></span>
+比如说我们其实非常熟悉SQL，我们有没有可能说，未来使用AI的查询，我们其实还用我们原来的那套现有的方式来去，哪怕就是稍微的去改改，但是你不要就是说整体推翻它，然后让我重新再重来一遍。从人员的消耗上等等这些都是问题。其实我觉得从数据库厂商是不是可以考虑到，这个是不是一个切入的一个点，就是我们把这个企业的一些简单使用AI的需求融合到数据库里边，融合到搜索里面去做这个事情。有没有这种可能性？
+</p>
+<p class="transcript-line">
+<span class="time"><strong>[00:43:17]</strong> </span>
+<span class="speaker"><strong>发言人3: </strong></span>
+我回忆一下刚刘老师的题目，就是我们今年把我们的产品愿景改改一下，就是我们现在不完全定义成数据库厂商了。其实我们现在定位就叫智能数据平台厂商。为什么这么说呢？就是data base它也不是个新东西是对吧？五六十年年代出来的，一直到70年代、80年代，从IBN的DB two work出来，就正式开始搞是吧？AWOB在之前我们这个产品创立的一个基础，其实它是以分布式数据库。没折叠海量交易。
+</p>
+<p class="transcript-line">
+<span class="time"><strong>[00:43:51]</strong> </span>
+<span class="speaker"><strong>发言人1: </strong></span>
+对，因为原来淘宝的需求。
+</p>
+<p class="transcript-line">
+<span class="time"><strong>[00:43:53]</strong> </span>
+<span class="speaker"><strong>发言人3: </strong></span>
+淘宝支付宝需求上账这一个场景，对吧？对那么极端时候你发现我们其实不断在做小做是一种海量大集群，可能三立三活的状态，吧？嗯，那企业端的话可能你没有让基础设施，所以我变成叫三副本，会在两副本加上一个监控级别这个架构是不是？然后我们又推出了叫什么呢？推出了一个叫主备架构，单机叫主备架构是吧？比如说因为企业里面有有应用，你也不需要三副本，对，成本是很高，对吧？
+</p>
+<p class="transcript-line">
+<span class="time"><strong>[00:44:21]</strong> </span>
+<span class="speaker"><strong>发言人3: </strong></span>
+是的，去年还推出一个子产品叫CKDB，它解决了个嵌入式跟端的产品。因为OB是一个云的一个产品，对吧？因为它分布式为主，唯一产品这些端上我们也在做，所以你发现其实我们是通过不同的一些产品组合来去解决说传统的这个AI搜索的问题。所以它的产品质量定义叫AI数据库。
+</p>
+<p class="transcript-line">
+<span class="time"><strong>[00:44:41]</strong> </span>
+<span class="speaker"><strong>发言人3: </strong></span>
+偏这种举例，像刚说的AI搜索混合搜索是吧，或者说一些叫AI函数这概念，它提供的各种各样的一些AI搜索场景。但你发现你再往下走之后，显然它就不是个路数。就是说你需要啥呢？你需要其实说是一个我叫AI数据库库，刚才说的可能叫那个lake bax换一个lake house。它能统一处理你的各种一些数据，而且包括那种图文音色数据？这么来来处理。
+</p>
+<p class="transcript-line">
+<span class="time"><strong>[00:45:08]</strong> </span>
+<span class="speaker"><strong>发言人3: </strong></span>
+所以再回到刚才说的，你说的就是说那个你问的问题，因为分为几个层面。第一其实说那个SQL作为底层而言，它是一个通用语言。对的，我们会继续以这种SQL为一个基础语言，能使得它数据库越来越强我刚才说的说AI数据库的概念到AI数据库湖库的概念，会增加各种文档，这种数据处理这些环节编程。而且它可以写sick base为主的，这个可能会拓展一些新的一些语法来做成一个大基础。
+</p>
+<p class="transcript-line">
+<span class="time"><strong>[00:45:40]</strong> </span>
+<span class="speaker"><strong>发言人3: </strong></span>
+第二话说你也会发现，其实我们很多业务用户不需要怎样的secure。对，您是专业用户还是不知道骨灰级的专业用户对吧？对，所以这种用户cycle就是说这不管数据库也好，数据库库也好，我们我是定位叫数据智能数据平台公司。它其实是针对您这样的客户，来提供一些标准服务的是吧？但是我们其实上面还有一些中间建设，中间建设层你发现它是解决说传统这种生产业务用户，业务用户其实cycle还是蛮难学的。是因为cycle的底座它是关系代数。对对对吧？你要没一点关系代数的基础就用不了起来，还挺麻烦的是吧？
+</p>
+<p class="transcript-line">
+<span class="time"><strong>[00:46:18]</strong> </span>
+<span class="speaker"><strong>发言人3: </strong></span>
+虽然你说真的要花点时间学的也还是可以。但是你对于那种普通用户咋办？是普通用户你发现你说的，你说他会基于农家乐入口处知识库加web coding？加各种东西的话变成它一些工具，包括skill变成各种工具，它会这么去去用AI，未来就你又回到刚才的问题，就是说它需要一个统一存储，统一任务调度，统一的这种过度负载在一个情况下。所以我们会以传统的叫数据智能数据平台，再加上各种应用中间件的形式来满足这种客户的一些一诉求。
+</p>
+<p class="transcript-line">
+<span class="time"><strong>[00:46:52]</strong> </span>
+<span class="speaker"><strong>发言人3: </strong></span>
+当然这里面就会叠加说跟企业级的一些安全，企业级和东西，我们都会做是吧？你看比如说刚才你看谭小龙虾，我们现在也在做我们自己的小龙虾，不是给我们内部做，给用户来做，就说在一些我们的一些大客户上面，他有可能也需要的东西。因为觉得企业家安全问题，别人说的说mark大文件不安全吧？嗯，把它放到数据库里面。本地不安全，我放在云上沙箱和内部沙箱里面。对，还有你的skill文件，你skill文件也不能说随便改的。是啊，有些skill是一个SOP。
+</p>
+<p class="transcript-line">
+<span class="time"><strong>[00:47:26]</strong> </span>
+<span class="speaker"><strong>发言人1: </strong></span>
+对，就是这样。
+</p>
+<p class="transcript-line">
+<span class="time"><strong>[00:47:27]</strong> </span>
+<span class="speaker"><strong>发言人3: </strong></span>
+你不能动，我把skill文件也放数据库里面，因为数据库它好管控。对对对，所以这样我们的结合本身一些标准的一些数据库，数据湖库这些已有的特色？结合现在小龙虾的一些本质，一些这种诉求把它变成说缙云上沙箱的这种所谓的一种标准服务。而且结合安全管控这么去处处理这些问题，这话就很很好做一些的了。
+</p>
+<p class="transcript-line">
+<span class="time"><strong>[00:47:51]</strong> </span>
+<span class="speaker"><strong>发言人2: </strong></span>
+现在这个数据库如果要是咱们刚才说的是一种理念，做成数据库平台，那么我还是一个比较爱国的人。有没有可能我们以这种方式超越国外的，那些老牌的厂商的那种，还是那种单体的怎么样，就是在上面增加一些功能而已。这种产品我们有没有可能就像我们的这个军工产品一样去超越的问题。
+</p>
+<p class="transcript-line">
+<span class="time"><strong>[00:48:25]</strong> </span>
+<span class="speaker"><strong>发言人3: </strong></span>
+这个是非常好的一个话题。因为技术的替代其实它有多个维度。有可能是说因为你结合起来大的这种说宏观的政治经济形势来看，其实刚才话题是一定是成立的对，因为其实你在传统情况下，你回到30年前，这是20年甚至十几年前，我们所有数据库基本上是美国的。
+</p>
+<p class="transcript-line">
+<span class="time"><strong>[00:48:47]</strong> </span>
+<span class="speaker"><strong>发言人2: </strong></span>
+是的。
+</p>
+<p class="transcript-line">
+<span class="time"><strong>[00:48:48]</strong> </span>
+<span class="speaker"><strong>发言人3: </strong></span>
+那那这个时候到现在，我们其实也会代表着新的技术路线对中国的产品。是的，世界的或者第二季或者第三季是吧？所以你会发现其实说我们会在国内市场上会有很多不管出于供应链安全也好，还是很多说避免对美国依赖独家依赖情况下，它一定很多一些企业或者说是一些区域市场，他会选择我们的第三级的产品，或者中国的一些产品。
+</p>
+<p class="transcript-line">
+<span class="time"><strong>[00:49:14]</strong> </span>
+<span class="speaker"><strong>发言人3: </strong></span>
+其实中国的很多产品，我说中国的是很卷，对吧？对，超级卷选出来产品之后，你发现它的质量是非常牛逼的。现在我在这边，在我加入市场上，我直接的产品竞争好了。你说你看看，你说我比如谈金融板块，你说有哪个银行，有中国这些六大行，这个成长起来的没有的。一般我们最好的压力，你看像运营商，拿国家运营商有什么江苏移动、浙江移动、广东移动这么体量大对，没有的。所以说你把我们阿里拿出来之后的时候，直接正面竞争进入这个市场。所以我说刚才您问的问题，我们觉得我们的愿景是我们希望我们成为一家全球知名公司。
+</p>
+<p class="transcript-line">
+<span class="time"><strong>[00:49:50]</strong> </span>
+<span class="speaker"><strong>发言人2: </strong></span>
+然后明浩老师我还想问您一个好问题，今天我还是本着一个小学生。
+</p>
+<p class="transcript-line">
+<span class="time"><strong>[00:49:57]</strong> </span>
+<span class="speaker"><strong>发言人1: </strong></span>
+的一个别就交流。
+</p>
+<p class="transcript-line">
+<span class="time"><strong>[00:49:59]</strong> </span>
+<span class="speaker"><strong>发言人2: </strong></span>
+就是如我从投资的这种角度来说，假如说咱们去找这个好的数据库公司，去投资。如果您是一个资深的投资者，那么您以哪些指标或者是以哪些方面可能去判定？
+</p>
+<p class="transcript-line">
+<span class="time"><strong>[00:50:19]</strong> </span>
+<span class="speaker"><strong>发言人1: </strong></span>
+上一次跟咱公司问CTO的时候，其实也聊到这个议题。首先国内的一市场看公司还是大家会把to b跟to c作为一个比较大的分隔。在数据库厂商可能或者说偏软的公司，或者偏甚至包括SARS公司，可能算我们叫to b这个市场。然后to b这个市场其实过去十几年一直都是有不错的基金持续在看的。但是国内的to b市场遇到了一些现实的挑战和问题，这种挑战问题前两天美股那边很多sas公司，包括我们今天提到的什么snowflake sales的都在暴跌。
+</p>
+<p class="transcript-line">
+<span class="time"><strong>[00:50:54]</strong> </span>
+<span class="speaker"><strong>发言人1: </strong></span>
+然后前两天美团的原来的帮二把手王慧文说过这句这样一句话，我觉得说的很好。他说大家原来的投资逻辑是说，我们看到了美国非常丰富且繁荣的to b的生态，企业服务to b SaaS云所有的厂商都很大，长得都很好，都无限的扩展？他们也做并购变得越来越大。我们原来也期待中国也会这样。但是过去的十几年，似乎基于我们这边所熟知的移动互联网的语气下产生的这配套的这些公司而言，并没有得到那个好的结果。我们原来期待是说我们这些公司会涨，或者说会类似他们那么大。但现在他们暴跌之后出现的问题是说，因为AI的崛起，似乎看上去美国的一个公司会像中国这些to b公司一样不太值钱。
+</p>
+<p class="transcript-line">
+<span class="time"><strong>[00:51:38]</strong> </span>
+<span class="speaker"><strong>发言人1: </strong></span>
+这是一个玩笑，但似乎带来另外一句话是说新能源时代出现之后，无论是web coding的演进，还是厂商对AI能力的拓展，还是说我们的言论更更大的话题是说今天所有的事情都怎么都被值得被I重做一遍，对吧？还是这种议题而言，你似乎会发现今天去以to b跟to c去区别看这件事情，可能本就看的本身的方法就出现了挑战。第二，我们似乎会觉得因为AI的能力的提升，组织公司的形态，包括他们去采购相关的服务，这件事情的流程跟状态在中国可能也会出现变化。
+</p>
+<p class="transcript-line">
+<span class="time"><strong>[00:52:15]</strong> </span>
+<span class="speaker"><strong>发言人1: </strong></span>
+我觉得再举个更现实的例子，比如说这就是我还是觉得这种龙虾的兴起，让我们看到了很多不一样的苗头。大家原来会说中国的用户是不愿意付钱的，无论是to b还是to c？就是会有一个通用的这样的人。
+</p>
+<p class="transcript-line">
+<span class="time"><strong>[00:52:30]</strong> </span>
+<span class="speaker"><strong>发言人1: </strong></span>
+但你发现这轮龙虾出现之后。厂商的coplan是要限量卖的，当然他们有算力的限制。但更重要你会发现，其实面临新一波的技术浪潮的时候，个人也好，企业也好的复议院其实某种上是比原来那个最悲观的结论上要好一些的。这个度我们不知道是多少，但肯定不是可以所有人都拍一个最极端的不行的结论。就这个的天平的偏转，我觉得再往这边偏，就这是一个看得到的事情。然后再落到比如说偏数据库这个角度。
+</p>
+<p class="transcript-line">
+<span class="time"><strong>[00:53:04]</strong> </span>
+<span class="speaker"><strong>发言人1: </strong></span>
+因为我不是这个专家，我只能说偏软件，或者偏SaaS，或者偏云，或者偏to b服务这样的公司。常规赛大家来看无非就是那些方式，那些更战术层的操作指标，收入？市场占有率，在各个行细分领域的影响力，口碑品牌历史的投资者，然后发展速度，然后影响力的变化，占有率的提升。它其实是一种偏常规态的战术层的讨论。但是我还是那个观点，就是这种战术上的讨论在过去十几年其实被证明是不太至少那一波厂商是不太work的。
+</p>
+<p class="transcript-line">
+<span class="time"><strong>[00:53:35]</strong> </span>
+<span class="speaker"><strong>发言人1: </strong></span>
+但是AI这波来了之后，这件事情因为刚才我们谈了这么多话题，就数据这件事情的地位跟状态，他已经不单纯只是一家纯软件公司那么简单的事情了，对吧？我们都愿意变成，我们不是一个软件，我们变成平台化运营的方式。平台化运营方式就理应应该用平台企业的方式去衡量了。如果这个逻辑跟这个天平能转到这边一些的话，那似乎这件事情就出现了变化。所以就是我觉得就是所有这些我们刚才聊的角度评判标准、逻辑框架或者说加权平中的这些权重而已，都是一个度的感觉度它它没有明确。当然你可以去写那些明确的指标，但那些指标都是滞后的。就是很多这种度的天平到了一定的阈值之后，他可能就把局面打开了。
+</p>
+<p class="transcript-line">
+<span class="time"><strong>[00:54:21]</strong> </span>
+<span class="speaker"><strong>发言人1: </strong></span>
+我觉得某种来说，我们从往前推大模型到多模态，到去年dipstick到这轮agent，其实某种上也在把这个天平往这边推。而且随着这而且我还是觉得某种来说回去回看过去几年的AI行业发展，基本上是符合某一项技术到了一定程度之后，它就会打开一定的东西，一定的局面。无论是开源软件to b的生态，还是个人用户的什么变化，这个事情已经就证明了好几次了。对，那这种更是他就是因为纯底层技术模型的能力到了你在做之前是不知道的。但他到了就是到然后突然间无论是开源软件，还是一个什么特别的方案，还是一家公司做的一件什么事情，他就打开了一一波窗口跟一个局面。然后再以这个方式扎实之后再做延展。然后再就是然后你要在过程中这个底层技术还在更新，它会再打开，再更新，再延展。所以似乎我们就看到了这样的一个趋势的演进过程。
+</p>
+<p class="transcript-line">
+<span class="time"><strong>[00:55:23]</strong> </span>
+<span class="speaker"><strong>发言人1: </strong></span>
+那反过来，为什么历史上中国的议事一样，美国议事上过去几年对VI的投资是越来越多的？角度也是这个原因，就是它不断的在证明，不像之前我们谈论的很多，比如什么web 3，什么元宇宙，甚至包括当年的大数据云，就是它不像那个时候，它变成了一个可能三年期结束之后，大家就没有人讨论这件事情了。是他今天看上去不是这样，他在持续的打开很多事情。而且你像刚才讨论过程中，我们不是强调的成本的问题，算的问题。你像今天我们真的去回到今天我们讨论最开始龙虾引发我们今天所有讨论。你说今天这个世界哪怕这些厂商这么狂推，这么用力度的去各种各样的策略。今天真正意义上，比如中国的在本地也好，在云端也好，部署了龙虾的用户量级还是一个很小的数量级。可是你要知道这么小的数量级平摊到这么多厂商身上，云厂商、模型厂商、互联网公司，你会发现大家已经遇到了瓶颈。那才刚刚开始对吗？
+</p>
+<p class="transcript-line">
+<span class="time"><strong>[00:56:22]</strong> </span>
+<span class="speaker"><strong>发言人1: </strong></span>
+很多事情才刚刚开始，还远远没有到说那你就想你极端的一下，如果未来真的每一个用户都有一个agent也好，个人的类似贾维斯也好，还是那样一个什么东西也好，他真的他的能力可以到像靠电影演那个样子的情况下，那你需要在今天的基础上涨多少呢？复杂多少呢？这个议题当然这么说特别的看多，对吧？
+</p>
+<p class="transcript-line">
+<span class="time"><strong>[00:56:46]</strong> </span>
+<span class="speaker"><strong>发言人1: </strong></span>
+特别像那个忽大忽悠对吧？特别像一个讲故事。但事实你想其实就是这么个逻辑。所以如果是今天只是个开，只不过是因为模型能力提升到了一定程度，打开了agent这一轮的探，并且A的这种走到这儿之后，需要我们底层的记忆也好，数据也好，数据库底层也好，存储也好，所有东西与之相配套。那你发现上面那条路才刚刚开始，那就就再往前走呗，对吧？
+</p>
+<p class="transcript-line">
+<span class="time"><strong>[00:57:13]</strong> </span>
+<span class="speaker"><strong>发言人1: </strong></span>
+我们今天就收拾到最后一个问题了，今天确实我觉得个人已经非常焦虑了。企业主其实也是，包括你们在做跟你们面对的客户。今天如果真的给到一些面临今天AI浪潮来了，有非常强烈的交流，想让自己的业务跟AI产生关联，产生绑定的这些企业主也好，他们的CTO也好，还是他们的CIO也好，有什么好的建议？哪怕是一碗鸡汤，哪怕是一个案例都可以。
+</p>
+<p class="transcript-line">
+<span class="time"><strong>[00:57:37]</strong> </span>
+<span class="speaker"><strong>发言人2: </strong></span>
+那那我就先说吧，就是我希望我们的AI在使用之前它是安全的。并且它的数据应该进行哪怕是部分治理，它也是治理。
+</p>
+<p class="transcript-line">
+<span class="time"><strong>[00:57:50]</strong> </span>
+<span class="speaker"><strong>发言人3: </strong></span>
+戴老师其实AI一共今年70年，他其实基本上每十多年它就会有一些浪潮，又会有寒冬。但是这一波看起来可能会真的会持续改变我们很多东西。所以我们说如果以终为始的思想四方式去看情况下，企业主也好，还是我们大量这些用户也好。
+</p>
+<p class="transcript-line">
+<span class="time"><strong>[00:58:13]</strong> </span>
+<span class="speaker"><strong>发言人3: </strong></span>
+他最好是一种偏说思维方式，是一种偏主动求变。对，要快速进化的思维方式。是的，不要迟疑是吧？所以今天想想说AI能帮助我们解决什么问题？快速用起来。但用的时候不要说一一上来就过于激进。
+</p>
+<p class="transcript-line">
+<span class="time"><strong>[00:58:30]</strong> </span>
+<span class="speaker"><strong>发言人1: </strong></span>
+小不满意。
+</p>
+<p class="transcript-line">
+<span class="time"><strong>[00:58:31]</strong> </span>
+<span class="speaker"><strong>发言人3: </strong></span>
+小步快跑，怎么办？因为企业的他的他方式跟员工不一样，个人用户尽量最激进方式去拥抱AI对企业化作为小步快跑方式，也一步一个节奏的方式来推动AI在企业里面大量一些落地。其实也真的说把，因为刚才也谈到了说数据是更重要一个话题。所以我们也是说最后也是希望说企业的说以类似像采用OB这样统一数据底座的方式？真正把这个企业的数据发挥更大的智能化AI价值。在我们也希望这样的过程中的时候，陪伴企业一起来成长。
+</p>
+<p class="transcript-line">
+<span class="time"><strong>[00:59:08]</strong> </span>
+<span class="speaker"><strong>发言人1: </strong></span>
+感谢大家收听赛博赶海的第一期播客节目，今天视频在这里，然后大家有什么想说的或者想讲的，想对两位嘉宾有什么询问的，欢迎大家在留言区评论，感谢。
+</p>
+<p class="transcript-line">
+<span class="time"><strong>[00:59:19]</strong> </span>
+<span class="speaker"><strong>发言人3: </strong></span>
+好不？
+</p>
+<p class="transcript-line">
+<span class="time"><strong>[00:59:21]</strong> </span>
+<span class="speaker"><strong>发言人1: </strong></span>
+谢谢。
+</p>]]></content:encoded>
+            <pubDate>Fri, 27 Mar 2026 16:15:10 GMT</pubDate>
+            <guid>69c67ffde2c8be3155a8420a</guid>
+        </item>
         <item>
             <title>Vol.90 AI加速爆发的2026，我们该如何自处？---对谈潘乱+Koji</title>
             <link>https://www.xiaoyuzhoufm.com/episode/69c138b25058f5000cdcf5af</link>
@@ -40148,1290 +41211,6 @@ know how更进一步。
 </p>]]></content:encoded>
             <pubDate>Fri, 30 May 2025 16:00:00 GMT</pubDate>
             <guid>683937c838dcc57c64b99ab3</guid>
-        </item>
-        <item>
-            <title>Vol.61 当父母遇上 AI：代际冲突与耐心的力量--狂喜播客节-贰狂</title>
-            <link>https://www.xiaoyuzhoufm.com/episode/68301f34457b22ce0d24af80</link>
-            <description>这又是一场发生在狂喜播客节上的对谈，
-这是狂喜播客节-贰狂，正式对谈的最后一场（编号100），
-这是一场发生在80/90后与60后之间的对谈，
-这可能也是整个狂喜播客节-贰狂上，唯一一场真正跨越代际之间的沟通。
-在一狂的时候，我在关雅荻老师和志愿者的对谈播客中听到了参与这场播客录制的兰若儿一家的故事；
-兰若儿拉着自己的妈妈和爸爸一起参与了狂喜播客节，
-参加完狂喜，他们一家三口开了一档播客：有啥可聊.一家三口
-贰狂上，兰若儿一家提出了关于AI与代际冲突的话题，
-看到课表的当下我就和关老师说这个话题我想参与……
-我的好友，诗婕，也一起参与了这场对谈。
-在这场对谈中，我们两个人放下了某种“营业”的状态，
-以一个真诚的方式和兰若儿一家一起聊了聊……
-也可能是我们放下了很多的“壳”，
-所以我们有更着更加轻松的交流氛围，
-诗婕也在某一个话题的讲述中潸然泪下……
-而在整个对谈中，我印象最深的其实是兰若儿的父母在自我介绍的时候都说的是：
-我是《有啥可聊》的主播……
-那个时点我会感觉，
-有播客这样一个东西真好。
-（想加粉丝群的请先+微信：rosicky311)
-狂喜-贰狂plus已经确定在11月1-2日举行，
-2天早鸟通票已经开售：
-或者直接扫这个码购买：
-【时间线】
-00:37 狂喜贰-编号100场次
-01:47 和其他10场左右的AI对谈相比，为什么这一场很特殊？
-03:10 兰若儿做《有啥可聊》的初衷
-04:20 为什么会想聊这样一个话题
-04:47 “我是有啥可聊的主播-苏先生”……
-05:51 “我是有啥可聊的主播之一-安吉儿”……
-07:08 放下所有身份的“诗婕”
-08:12 所以到底兰若儿一家遇到什么代际冲突？
-10:56 苏先生是知道自己的mbti的
-11:53 为什么苏先生对于AI工具有抵触？
-12:18 苏先生第一次问了Chatgpt的问题是关于西方美术史的
-13:59 上一次移动互联网与这一次的感受上的差异
-15:36 安吉儿用AI来做旅游攻略
-17:02 兰若儿会担心爸爸妈妈被时代落下
-18:12 “给小学生讲数学题会折寿的……”
-22:09 “原生家庭”的问题
-27:32 AI可能不会带来代际冲突
-28:59 诗婕没想到她会哭出来，但我想到了 🐶
-32:24 用AI让自己感觉到幸福的方式
-35:35 安吉儿感谢播客这个形式给予彼此冲突带来缓解
-37:04 工具之外，AI其实也可以有某种“情感”上的价值
-39:33 AI输入法
-42:07 人与人的关系拓展到了人与AI，人与AI与人，甚至还有AI和AI的关系
-43:22 ilya说这一波AI最神奇的事情是：It actually works
-44:45 AI可能也是有两面性的
-51:04 AI会替代人类的工作吗？--是的，然后呢？
-53:10 我的爸妈为什么要高效的用上AI？
-58:38 兰若儿最后终于说出了那三个字：“我悟了”……
-1:02:49 把AI当成是神灯
-音乐：AI音乐工具天谱乐生成
-【播客简介】
-屠龙之术是一档关注科技、互联网、风险投资的播客，
-主播庄明浩是一个游走在互联网和风险投资行业的边缘人士。
-其工作多年所积累的认知似乎都成为了某种意义上的”屠龙之术“……
-或许某天再有新的“龙”出现的时候，就是这档播客停更之时。</description>
-            <content:encoded><![CDATA[<h1>转写链接</h1>
-<link>https://tongyi.aliyun.com/efficiency/doc/transcripts/yg7k9w7r2x4gqxwd</link><br>
-<h1>节目摘要</h1>
-<div class="summary">在探讨人工智能（AI）对家庭关系影响的对话中，讨论者们深入分析了AI技术如何促进人与人之间的联系，辅助情绪管理与沟通分歧解决，强调AI作为增强家庭沟通和理解的强大工具。参与者分享了AI在应对家庭挑战方面的应用，同时指出正确使用AI的重要性，避免可能的负面影响，如加剧代际隔阂或过度依赖。对话总体上认为，技术，特别是AI，能在家庭关系中发挥积极作用，促进更深层次的理解与联系，但需谨慎使用，以防止潜在的负面后果。</div><br>
-<h1>章节速览</h1>
-<div class="chapters">
-<div class="chapter-item">
-<span class="time"><strong>[00:00:00]</strong> </span>
-<span class="chapter-title"><strong>AI时代会加速代际冲突吗？家庭与技术的碰撞与融合</strong></span>
-<div class="chapter-summary">在狂喜博客节的最后一场活动中，几位播客主持人围绕“AI时代是否会加速代际冲突”这一主题展开了讨论。他们分享了自己在家庭中应用AI技术的经验，探讨了新技术如何影响家庭成员间的沟通与关系。讨论中，家庭成员们强调了家庭关系的重要性，并表示希望通过播客记录家庭的成长与变化。此外，他们也表达了对新技术可能带来的新矛盾和冲突的担忧，并寻求在新的环境下如何更好地建立和磨合家庭沟通的方式。</div>
-</div>
-<div class="chapter-item">
-<span class="time"><strong>[00:08:10]</strong> </span>
-<span class="chapter-title"><strong>家庭成员对AI技术应用的不同态度与冲突</strong></span>
-<div class="chapter-summary">在家庭中，成员们对于AI技术的应用展现出不同的态度和观念冲突。一个人通过尝试不同的AI应用来形成聊天大纲，而另一方则认为AI技术尚未成熟，使用AI生成的内容缺乏思考和成熟度。此外，对于是否继续使用AI服务也存在分歧，一方面觉得AI服务便宜可能质量不佳，另一方面则对AI在某些领域的应用持开放态度。这段对话反映了在新技术应用过程中家庭内部可能遇到的观念和态度上的冲突。</div>
-</div>
-<div class="chapter-item">
-<span class="time"><strong>[00:13:58]</strong> </span>
-<span class="chapter-title"><strong>AI技术对代际沟通的影响与挑战</strong></span>
-<div class="chapter-summary">对话围绕AI技术在家庭中的应用及其对代际沟通的影响展开。讨论者们分享了自己及父母在接触和使用AI技术，如智能手机和语音助手，时的经历和感受。有人认为AI技术加速了代际冲突，因为年轻一代已经熟练运用这些工具提高效率，而年长一代由于缺乏经验可能感到被时代抛下，加剧了两者间的沟通隔阂。同时，也有人提出通过易于操作的语音对话方式来帮助年长者更好地接受和使用AI技术，以此减少代际间的技术鸿沟。</div>
-</div>
-<div class="chapter-item">
-<span class="time"><strong>[00:18:12]</strong> </span>
-<span class="chapter-title"><strong>利用AI缓解亲子关系中的学业压力</strong></span>
-<div class="chapter-summary">一位父亲表达了对儿子在升初中后学业压力增大的担忧，特别是儿子在做数学题时因粗心犯的错误引发的激烈家庭矛盾。他考虑利用AI作为家庭中的第三方成员，以其无限的耐心和中立性来调和紧张的亲子关系，并帮助儿子缓解情绪，同时避免直接的亲子冲突。他希望AI能成为孩子倾诉的对象，提供情绪舒缓，同时作为辅助工具帮助孩子改进学习习惯。</div>
-</div>
-<div class="chapter-item">
-<span class="time"><strong>[00:21:56]</strong> </span>
-<span class="chapter-title"><strong>亲密关系中的原生家庭影响与AI调解</strong></span>
-<div class="chapter-summary">对话者讨论了原生家庭对个人亲密关系的影响，特别是如何在成长过程中被父母对待的方式，影响了他们与他人相处和爱别人的方式。他们提到了自己和同龄人在处理亲密关系时的挑战，以及父母的行为如何在无意识中被复制。此外，还探讨了AI在家庭和亲密关系中的潜在作用，认为AI可能有助于缓解和调解冲突，而不是加速冲突。最终，讨论归结为冲突的本质是面对情绪或矛盾时的无能感，以及寻找解决这种无能感的方式。</div>
-</div>
-<div class="chapter-item">
-<span class="time"><strong>[00:28:31]</strong> </span>
-<span class="chapter-title"><strong>代际冲突与家庭幸福的感受与解决</strong></span>
-<div class="chapter-summary">对话探讨了家庭中情绪管理与代际冲突的问题，强调了每个人在家庭中感受到幸福的重要性。讨论了父母与子女之间因期望与现实差异而产生的矛盾，以及这些矛盾如何影响个人的情绪和亲密关系。提出了通过自我情绪调节和使用AI等工具来帮助个人处理负面情绪，进而提升家庭幸福感的建议。</div>
-</div>
-<div class="chapter-item">
-<span class="time"><strong>[00:32:45]</strong> </span>
-<span class="chapter-title"><strong>AI在情绪管理和家庭矛盾中的应用</strong></span>
-<div class="chapter-summary">对话者将AI，特别是deep sick，视为情绪缓冲带和换位思考的工具。通过与AI交流，他能获得保密性、人文关怀和启发，从而更好地理解自己和他人。特别是，通过假装站在对方的角度与AI讨论问题，能够促进换位思考，帮助缓解家庭矛盾和冲突，增进家庭成员间的理解与和谐。</div>
-</div>
-<div class="chapter-item">
-<span class="time"><strong>[00:35:31]</strong> </span>
-<span class="chapter-title"><strong>人工智能与人际关系的复杂交织</strong></span>
-<div class="chapter-summary">对话围绕人工智能（AI）在促进人际沟通和理解方面的作用展开。讨论者分享了自己通过播客等形式增进彼此理解的经验，并探讨了AI工具如deep size在帮助表达情感和想法方面的潜力。此外，他们也提到了AI输入法在社交软件中的应用，特别是在帮助不擅长沟通的人更好地表达自己方面的作用。进一步的讨论触及了AI在人际关系中的角色，以及在复杂的人际互动中，AI如何可能成为一种有益的辅助工具，同时也反映了人类关系的复杂性和深层次的人文思考。</div>
-</div>
-<div class="chapter-item">
-<span class="time"><strong>[00:43:06]</strong> </span>
-<span class="chapter-title"><strong>AI技术对人际关系的影响及其双面性</strong></span>
-<div class="chapter-summary">对话围绕AI技术对人际关系的影响展开，讨论了AI技术的演进以及其在日常生活中的应用，特别是AI在人际沟通、家庭调解等方面的作用。讨论者指出，虽然AI能够帮助人们更好地理解和处理人际关系，但若使用不当，也可能加速人际冲突。此外，还探讨了AI在虚拟伴侣和现实人际关系之间的潜在冲突，以及年轻人与父母之间因技术更新而产生的代沟。最终，强调了AI技术的双面性，呼吁人们应学会正确使用AI，以促进人际关系的和谐发展。</div>
-</div>
-<div class="chapter-item">
-<span class="time"><strong>[00:47:47]</strong> </span>
-<span class="chapter-title"><strong>AI技术在家庭中的应用与代际关系</strong></span>
-<div class="chapter-summary">对话者表达了对AI技术在家庭环境及广泛人际交流中的应用的认可，并讨论了AI如何帮助弥合代际关系和冲突。通过分享家庭过往经历，特别是技术发展带来的冲突，强调了AI作为工具在理解和沟通中的作用，而非简单的替代。此外，还探讨了如何通过尝试和利用现有技术来减缓技术发展带来的摩擦，强调了逐步熟悉和信任AI的重要性。</div>
-</div>
-<div class="chapter-item">
-<span class="time"><strong>[00:53:09]</strong> </span>
-<span class="chapter-title"><strong>家庭氛围与AI在生活中的应用</strong></span>
-<div class="chapter-summary">对话围绕家庭氛围、父母的快乐与AI在日常生活中的应用展开。一方认为父母退休后最重要的任务是快乐，而AI的高效使用应基于个人的真实需求，而非强加的意志。通过与AI的交互，可以更好地了解自己和他人，将其视为提升生活质量的工具而非负担。同时，强调了AI能帮助人们处理情感和生活的真需求，从而提升幸福感。</div>
-</div>
-<div class="chapter-item">
-<span class="time"><strong>[00:56:04]</strong> </span>
-<span class="chapter-title"><strong>家庭、AI与代际沟通的挑战与机遇</strong></span>
-<div class="chapter-summary">对话中讨论了家庭关系、代际沟通以及AI在现代生活中的角色。参与者分享了个人经验，包括在成长过程中家庭情感表达的缺失，以及对AI的接受程度和应用的差异。他们认为，尽管父母那一代人在情感表达上较为保守，但通过AI和现代文化的启发，未来可能实现更加开放和包容的家庭沟通。同时，也探讨了AI在提升生产力、便利生活方面的潜力，以及在拥抱新技术时应保持警惕和安全意识。最终，建议将AI视为一种实现愿望的工具，鼓励大家探索其在个人生活中的应用。</div>
-</div>
-</div><br>
-<h1>问题回顾</h1>
-<div class="qa-item">
-<div class="question"><strong>Q:</strong> 狂喜博客节的最后一场，编号100，主题是什么？</div>
-<div class="answer"><strong>A:</strong> 编号100的活动主题是探讨AI时代是否会加速代际冲突，以及AI技术如何影响人与人之间的关系。</div>
-</div>
-<div class="qa-item">
-<div class="question"><strong>Q:</strong> 这次播客节录制的次数以及主题都是围绕哪个核心话题？</div>
-<div class="answer"><strong>A:</strong> 我参加了四次录制，全部都是以AI为主题。尤其是这场编号100的节目特别之处在于将人与人之间的关系作为讨论议题，而非仅关注AI工具使用的角度。</div>
-</div>
-<div class="qa-item">
-<div class="question"><strong>Q:</strong> 这场特别的播客主角是谁？做播客的家庭成员中，最初参与的志愿者和听众是谁？</div>
-<div class="answer"><strong>A:</strong> 这场播客的主角是兰若一家，他们以家庭为单位开设了博客，并且已经更新了20期。最初参与的志愿者和听众是郭亚迪老师提到的几位特别的听众和志愿者，他们后来以家庭为单位开始了他们的博客项目。</div>
-</div>
-<div class="qa-item">
-<div class="question"><strong>Q:</strong> 兰若是如何开始做这个家庭播客的？</div>
-<div class="answer"><strong>A:</strong> 兰若是受到上一届狂喜播客节的影响，与父母一起开始了家庭播客项目，初衷是记录他们在家庭交流中获得的幸福和满足，并希望通过播客促进家庭内部的深度沟通。</div>
-</div>
-<div class="qa-item">
-<div class="question"><strong>Q:</strong> 家庭成员对AI技术的态度有何不同？</div>
-<div class="answer"><strong>A:</strong> 在实际应用中，家庭成员对AI技术的态度存在明显差异。例如，在选择如何使用AI生成大纲进行交流时，母亲安吉尔尝试接受新技术，父亲苏先生则更倾向于传统方式，认为AI还不成熟且需要谨慎对待。</div>
-</div>
-<div class="qa-item">
-<div class="question"><strong>Q:</strong> 叔叔，你还记得你第一次问GPT是什么问题吗？</div>
-<div class="answer"><strong>A:</strong> 我就问了一次，在电脑上注册并免费问了几个问题，比如关于西方美术史上的几个年代。</div>
-</div>
-<div class="qa-item">
-<div class="question"><strong>Q:</strong> AI回答得对吗？</div>
-<div class="answer"><strong>A:</strong> 对的，它答对了我问的问题，所以我认为它是正确的。</div>
-</div>
-<div class="qa-item">
-<div class="question"><strong>Q:</strong> 您是做什么职业的？</div>
-<div class="answer"><strong>A:</strong> 我是建筑公司的一个工程师。</div>
-</div>
-<div class="qa-item">
-<div class="question"><strong>Q:</strong> 您对美术史有研究吗？</div>
-<div class="answer"><strong>A:</strong> 没有，只是爱好，是一个临时的兴趣。</div>
-</div>
-<div class="qa-item">
-<div class="question"><strong>Q:</strong> 后来为什么没有继续问他问题？</div>
-<div class="answer"><strong>A:</strong> 因为要收费了，而且觉得9.9元的价格有点不太真实，太便宜了。</div>
-</div>
-<div class="qa-item">
-<div class="question"><strong>Q:</strong> AI会加速什么代际冲突吗？在现实生活中，大家有没有遇到过用AI解决自己问题的情况？家庭中是否有使用AI来缓解冲突的案例？</div>
-<div class="answer"><strong>A:</strong> 我最近旅游时用AI为我制定旅游攻略，解决了我的一个大麻烦，让我觉得AI很有用。虽然AI目前没有解决家庭冲突的功能，但我担心如果父母停留在原有的信息获取方式上，会加剧与时代的隔阂，从而产生冲突。</div>
-</div>
-<div class="qa-item">
-<div class="question"><strong>Q:</strong> 家里有没有尝试用AI解决孩子学习上的问题？</div>
-<div class="answer"><strong>A:</strong> 我儿子在做作业时会用AI，但缺乏良好的习惯。我考虑将AI看作家里一个可以倾听、表达情绪并提供支持的成员，帮助缓解我和儿子间因学业压力产生的激烈冲突。</div>
-</div>
-<div class="qa-item">
-<div class="question"><strong>Q:</strong> 在没有AI工具之前，你会如何寻求帮助？</div>
-<div class="answer"><strong>A:</strong> 以前是问朋友或者依赖导航等工具，但现在AI能更方便地帮助我解决问题。</div>
-</div>
-<div class="qa-item">
-<div class="question"><strong>Q:</strong> 在亲密关系话题中，原生家庭扮演了什么样的角色，年轻人常如何讨论这个问题？AI在解决家庭和亲密关系问题上的作用是什么？</div>
-<div class="answer"><strong>A:</strong> 很多年轻人在讨论亲密关系时，会经常提到原生家庭，并认为自身许多问题源于此。例如，有人提到身上所有的问题都是由原生家庭造成的。AI不仅能够作为实用的调解员介入家庭群或情侣关系中调解冲突，而且能从更高维度帮助我们理解冲突的本质——源自个体面对情绪和矛盾时的无能为力，从而通过AI来学习如何更好地管理和感受幸福。</div>
-</div>
-<div class="qa-item">
-<div class="question"><strong>Q:</strong> 您个人的成长经历中，原生家庭对您的影响是怎样的？</div>
-<div class="answer"><strong>A:</strong> 我成长于一个轻松快乐且民主的家庭环境，因此并未感受到原生家庭的压力。但有一次与朋友的母亲交流时，我注意到他对母亲表现出的不耐烦情绪，这让我意识到即使在看似和谐的家庭中，也存在原生家庭对个体潜移默的影响。</div>
-</div>
-<div class="qa-item">
-<div class="question"><strong>Q:</strong> 您后来如何理解自己对待父母的方式？</div>
-<div class="answer"><strong>A:</strong> 通过与朋友深入交谈后，我了解到自己在某些时刻表现出的态度是复制了父母当初对待自己的方式。同时，我也发现自己比同龄人更早熟、更懂得考虑他人感受，这是因为我父母给予了我极大的耐心和鼓励式教育。</div>
-</div>
-<div class="qa-item">
-<div class="question"><strong>Q:</strong> 对于东亚式家庭教育特点以及您父母对待您的方式有何不同？</div>
-<div class="answer"><strong>A:</strong> 大部分东亚式父母习惯先批评自家孩子，而我的父母则从不这样，在我成长过程中，他们总是先倾听我的感受，这种松弛而耐心的教育方式使我与他们的关系自由而宽松。</div>
-</div>
-<div class="qa-item">
-<div class="question"><strong>Q:</strong> 您如何看待代际冲突及其解决方式？</div>
-<div class="answer"><strong>A:</strong> 代际冲突往往源于家庭成员未能妥善处理自己的情绪和生活，进而将个体间的矛盾叠加在一起。我认为AI不仅仅是解决具体问题的工具，每个家庭成员首先要学会独立面对和处理自己的情绪，提升感受幸福的能力，这样才能真正解决家庭中的冲突问题。</div>
-</div>
-<div class="qa-item">
-<div class="question"><strong>Q:</strong> AI在人际关系中的作用是什么？你如何利用AI进行换位思考？</div>
-<div class="answer"><strong>A:</strong> AI，如deep sick，可以作为一个保密且具有高人文素养、情商的对话伙伴，帮助我们缓解情绪，提供一个情绪缓冲带。通过AI，我们可以更高效地进行换位思考，了解自己和他人在不同情境下的想法，从而促进和谐沟通，减少家庭矛盾。我会把我的处境告诉AI，并让AI分析事件中所有利益相关者的思维和情感，这样我能了解到对方可能的想法，有助于缓解愤怒情绪，增进理解。例如，在与他人冲突时，我会模拟对方角色来分析问题，这有助于理解和接纳对方的观点。</div>
-</div>
-<div class="qa-item">
-<div class="question"><strong>Q:</strong> 对于AI在个人生活中的使用态度是怎样的？</div>
-<div class="answer"><strong>A:</strong> 我一开始对AI持有戒备心理，认为它可能过于全能而减少人的主动性。但实际接触后发现，AI不仅能够提供保密的情感倾诉空间，还能根据个体需求提供个性化的解决方案，如AI输入法等工具，帮助人们在社交互动中更好地表达自我。</div>
-</div>
-<div class="qa-item">
-<div class="question"><strong>Q:</strong> AI在解决人际关系问题上有哪些具体应用场景？</div>
-<div class="answer"><strong>A:</strong> 具体应用上，AI可以作为情感交流工具，记录下我们在争执中的言语，让我们事后回顾并理解当时的表达意图。此外，AI还能通过分析和模拟对话，帮助我们理解和改善人际交往中的复杂关系。</div>
-</div>
-<div class="qa-item">
-<div class="question"><strong>Q:</strong> AI在人际关系研究中的地位如何？</div>
-<div class="answer"><strong>A:</strong> AI使得人与人、AI与人的关系变得更为复杂，这一命题吸引了众多科研人员从不同角度进行探索，包括佛学、玄学等领域。虽然目前的技术尝试尚未达到理想状态，但AI作为类似AI陪伴的角色逐渐受到关注，预示着未来有可能在这一领域取得突破。</div>
-</div>
-<div class="qa-item">
-<div class="question"><strong>Q:</strong> 在AI技术演进的过程中，有没有哪个时间点或事情让伊利亚（OpenAI的核心创始人）感到特别兴奋或有记忆深刻的体验？</div>
-<div class="answer"><strong>A:</strong> 伊利亚在被采访中提到，让他感到特别兴奋的是“IT actually works”，即AI模型可以无界运行，并且表现出与人类相似性，甚至让他们无法拆解其中涉及的复杂关系，包括神经网络等技术。</div>
-</div>
-<div class="qa-item">
-<div class="question"><strong>Q:</strong> 对于AI帮助回复人际交流的情况，您认为它是否会加剧人际冲突？</div>
-<div class="answer"><strong>A:</strong> 是的，如果AI被不当使用，比如替代人与人之间的沟通，可能加剧人际冲突。它不能替代真实的情感交流，无法感受、理解和付出真心，因此它可能成为一个“恶”的力量，增加人际交往中的问题。</div>
-</div>
-<div class="qa-item">
-<div class="question"><strong>Q:</strong> 如何看待AI在家庭环境和更广泛社交场景中的应用？</div>
-<div class="answer"><strong>A:</strong> 虽然AI可以作为工具帮助解决一些问题，但如果脱离了真诚理解和改善关系的本心，就可能导致AI朝着不利方向推动人际关系。同时，随着技术的发展，人们对于AI的态度会产生分歧，部分原因在于对AI的信任度和熟练度不够。</div>
-</div>
-<div class="qa-item">
-<div class="question"><strong>Q:</strong> 如何在AI技术快速发展与社会适应之间找到平衡，避免产生不必要的冲突？</div>
-<div class="answer"><strong>A:</strong> 我们可以通过主动寻找日常生活中可被AI高效解决的问题，尝试将其自动化，从而更好地迎接和适应AI浪潮。举例来说，利用视觉识别和自然语言处理技术记录健身卡路里摄入等，这些原本需要手动操作的任务现在可以由AI轻松完成，这有助于我们更顺畅地应对AI时代，减少焦虑感。</div>
-</div>
-<div class="qa-item">
-<div class="question"><strong>Q:</strong> 为什么你的父母要高效地使用AI，即使他们已经退休了？</div>
-<div class="answer"><strong>A:</strong> 我觉得如果告诉父母他们现在最重要的任务是追求快乐，那么他们应该去做自己想做的事。例如，我妈妈现在到处游玩，我认为利用好AI的一个前提是先解决自己的真实需求。</div>
-</div>
-<div class="qa-item">
-<div class="question"><strong>Q:</strong> 如何看待父母曾经强加意志的行为？如何正确地使用AI？</div>
-<div class="answer"><strong>A:</strong> 这可能是因为父母将他们的期望强加在我们身上。而现在我希望父母能快乐，我自己也通过用好AI来做工作和事业，而不是强求他们去做不喜欢的事。应当从满足个人的真需求开始与AI交互，了解它的能力边界，并在此过程中更深入理解AI。不一定要过分关注提高工作效率或赚钱，而是要学会享受与AI的对话，用它来更好地认识自己和他人。</div>
-</div>
-<div class="qa-item">
-<div class="question"><strong>Q:</strong> 对于“我爱你”这种情感表达，如何看待其在家庭关系中的缺失？AI在家庭关系中的作用是什么？</div>
-<div class="answer"><strong>A:</strong> 我这一代人在家庭中普遍缺乏“我爱你”的表达习惯。但随着时代发展，尤其是有了AI的陪伴，我们这一代人有望自然地学会这种情感表达，让家庭关系更加和谐包容。AI某种程度上具有神性，可以帮助我们学习如何更好地对待身边的人。通过AI，我们可以学习到新的相处方式，比如父母与子女间直呼其名、平等相待的西方家庭文化，从而改善和增进家庭关系。</div>
-</div>
-<div class="qa-item">
-<div class="question"><strong>Q:</strong> 如何看待父母对AI的应用态度？如何克服对AI的抗拒心理并开始使用它？</div>
-<div class="answer"><strong>A:</strong> 父母可能由于成长背景和环境的不同，对AI的应用步调不一致。不过，AI能极大提升生产力，让生活更快乐，我们应引导他们接受并正确使用AI，以适应时代发展，而不是强迫他们步调一致。虽然有人对AI的安全性和信息时效性有所顾虑，但必须认识到AI更新迭代迅速，拒绝AI意味着可能被淘汰。建议大家可以把AI当作阿拉丁神灯中的神灯，先许下愿望，尝试探索AI在实现愿望上的可能性，从而逐步接受并有效利用AI。</div>
-</div>
-<h1>节目文稿</h1>
-<p class="transcript-line">
-<span class="time"><strong>[00:00:07]</strong> </span>
-<span class="speaker"><strong>发言人1: </strong></span>
-狂喜博客节2025年2狂整个活动的最后一场编号100AI时代会加速代际冲突吗？AI技术可以推动人的关系，掌声等等等等。然后感谢此次狂喜博客节的赞助商小红书、滴滴企业版飞书微博以及微博视频的大力支持，音频微博音频的大力支持。
-</p>
-<p class="transcript-line">
-<span class="time"><strong>[00:00:36]</strong> </span>
-<span class="speaker"><strong>发言人1: </strong></span>
-抱歉，然后我们正式开始今天的这个录制，这场我觉得这场节目非常有意思，这个编号100就是这次播客节的最后一场。虽然同时间也在并行着很多场，但是我们这场就是非常幸运的拿到了这个编号。我觉得这个编号本身也很有意义，然后这个话题也非常有意思。我我在我今天这是整个这次播客节的我的第四次录制。然后前三场全部其实也是AI的话题，其实我的四次录制全部都是AI话题。然后我昨天晚上回去在家的时候，我看那个巨大的那张课表，然后我就把所有在100场的标题里面带AI跟人工智能的全部画出来。
-</p>
-<p class="transcript-line">
-<span class="time"><strong>[00:01:24]</strong> </span>
-<span class="speaker"><strong>发言人1: </strong></span>
-一共十1场昨天有八场，今天有三场。然后11场里面其中有2到3场是真正意义上在聊这个行业的。有一场是我拉的，今下午那一场。然后另外的很多场次其实都在聊，比如说AI跟艺术，AI跟教育，AI跟比如说人人的长生。然后包括我们那天聊AI之后，人与人之间的区别跟差异的就是偏，按我的说法叫偏人文这个角度。但是你会发现回头来看，大部分的话题都在围绕的是我们作为人的这个个体的状态去看待AI这个浪潮来临。但是我们这场的特殊的情况在于，我们相当于把人与人之间的关系放在了这个讨论的议题里，而不是单纯的只去讨论人跟I的工具使用的这样一个角度。而且很有意思的一点是，我们这场录制的真正意义上的主角是兰若一家。
-</p>
-<p class="transcript-line">
-<span class="time"><strong>[00:02:18]</strong> </span>
-<span class="speaker"><strong>发言人1: </strong></span>
-然后如果听这个关亚迪老师节目比较多，包括关注狂喜博客节的话，应该会知道在上一届的这个狂喜一的这个过程中，郭亚迪老师的节目当中提到过有一有几位非常有意思的参与到狂喜播客节过程中的志愿者跟听众。这个非常特别的这几位志愿者跟听众就是很容易一家。然后他们在参与完了况且播客节的志愿者跟听众的工作之后，他们就以家庭的单位开了一档他们的博客。然后这场博客已经更新了有几期了，我看？然后20期20 20期了，20期已经非常努力了。
-</p>
-<p class="transcript-line">
-<span class="time"><strong>[00:02:57]</strong> </span>
-<span class="speaker"><strong>发言人3: </strong></span>
-再次鼓掌。
-</p>
-<p class="transcript-line">
-<span class="time"><strong>[00:02:58]</strong> </span>
-<span class="speaker"><strong>发言人1: </strong></span>
-几个月的时间？这个对于我们这些很多人的更新频率可能还赶不上他们的。
-</p>
-<p class="transcript-line">
-<span class="time"><strong>[00:03:03]</strong> </span>
-<span class="speaker"><strong>发言人3: </strong></span>
-对。
-</p>
-<p class="transcript-line">
-<span class="time"><strong>[00:03:04]</strong> </span>
-<span class="speaker"><strong>发言人1: </strong></span>
-对骂谁呢？骂自己。对，要不先简单自我介绍一下。
-</p>
-<p class="transcript-line">
-<span class="time"><strong>[00:03:10]</strong> </span>
-<span class="speaker"><strong>发言人2: </strong></span>
-好，谢谢张老师。我是有啥可聊的主播兰若儿。然后我们这个播客其实就是围绕着家庭关系的那主播是我和我的爸爸和我的妈妈。其实做这场播客的初衷就是我觉得在生活工作当中，其实我越来越觉得家庭对我是很重要的。我会在家庭的交流跟关系当中获得极大的幸福和满足。所以我希望把这个过程当中，我们可以获得这样的幸福与满足记录下来，形成一个可以记录一个音频历史轨迹。
-</p>
-<p class="transcript-line">
-<span class="time"><strong>[00:03:44]</strong> </span>
-<span class="speaker"><strong>发言人2: </strong></span>
-所以有了这档播客，在这个博客最开始的时候，其实我跟我爸爸妈妈的聊天可能还是相对比较浅层。大家如果说来到第一期就会发现可能跟第19、20期的风格完全不一样。这也是可能做播客短短半年时间来我们的一些收获。我们的确看到了做博客或者包括我们去关注家庭之间代际的交流，可以给我们带来的一些实质的收获。所以我们看到了自己的成长，也希望说能不能之后可以有更好的办法。
-</p>
-<p class="transcript-line">
-<span class="time"><strong>[00:04:16]</strong> </span>
-<span class="speaker"><strong>发言人2: </strong></span>
-当然今天也是我们提出这个话题的本因就是我们也会发现在一些外界环境的影响下，新的技术来临的情况之下，可能他又会对我们原本相对和谐的家庭产生一轮新的矛盾或者新的冲突。那我们要怎样在新的环境下再次建立起或者磨合这个沟通？所以这也是为什么我们脑暴了一下，想要提出这个话题要请教两位老师的一个原因。非常好，非常对。然后你介绍一下。
-</p>
-<p class="transcript-line">
-<span class="time"><strong>[00:04:48]</strong> </span>
-<span class="speaker"><strong>发言人4: </strong></span>
-我是有啥可聊的主播，苏先生。我做这个博客的时候，开始还是比较怕的。这个男主说你可以试试，开始我是拒绝的，我就说做做就做吧，怎么说呢？但是做了博客以后发现一个什么情况呢？就是做完博客以后发觉自己很轻松了。是就是好像做完博客好像还蛮愉快的，就这样子。非常好。虽然做完了以后，老师对自己这个讲的东西，有的和一些地方老是觉得后悔。
-</p>
-<p class="transcript-line">
-<span class="time"><strong>[00:05:21]</strong> </span>
-<span class="speaker"><strong>发言人1: </strong></span>
-这个地方没有讲好。那个可以剪吗？可以再来。
-</p>
-<p class="transcript-line">
-<span class="time"><strong>[00:05:27]</strong> </span>
-<span class="speaker"><strong>发言人4: </strong></span>
-就是这样，反正就慢慢的就是我觉得好像没有做的比以前好，但是我努力想去做好，但是好像没什么进步，但是心情确实是做完博客一个很好像真轻松一点的。
-</p>
-<p class="transcript-line">
-<span class="time"><strong>[00:05:43]</strong> </span>
-<span class="speaker"><strong>发言人1: </strong></span>
-很好，非常好。
-</p>
-<p class="transcript-line">
-<span class="time"><strong>[00:05:44]</strong> </span>
-<span class="speaker"><strong>发言人3: </strong></span>
-我精神食粮。
-</p>
-<p class="transcript-line">
-<span class="time"><strong>[00:05:47]</strong> </span>
-<span class="speaker"><strong>发言人4: </strong></span>
-是的，谢谢。
-</p>
-<p class="transcript-line">
-<span class="time"><strong>[00:05:49]</strong> </span>
-<span class="speaker"><strong>发言人3: </strong></span>
-说完了。
-</p>
-<p class="transcript-line">
-<span class="time"><strong>[00:05:51]</strong> </span>
-<span class="speaker"><strong>发言人5: </strong></span>
-大家好，我是有啥可聊的主播之一，我是安吉尔，也是一家的妈妈，就是来的妈妈。然后做这个博客，实际上我是一个老师，但事实上我也是个爱人，我其实挺害怕这种场合的。但然而当初提了这个议题以后，我在想我们家里面本来也就是聊天的，就喜欢聊天。平时就想着这个播客的形式相当于就像我们照片我要留下来，那这个播客就是音频，我也留下来做一个纪念。实际上本来是见证我们的以后的这种成长是这样一个意图。当然我也希望我们这个家庭的沟通更加的顺畅。当然现在就是刚才男儿说了，现在技术出来了。然后我们就想着我们这个老一辈的跟小一辈之间这种在应用新科技上面的断层，可能会造成一些代沟的这种沟通上的障碍。所以今天特意找了这么一个时间，也真的荣幸。我们很难跟两位专家。
-</p>
-<p class="transcript-line">
-<span class="time"><strong>[00:07:00]</strong> </span>
-<span class="speaker"><strong>发言人3: </strong></span>
-就是我就是没有专家。
-</p>
-<p class="transcript-line">
-<span class="time"><strong>[00:07:04]</strong> </span>
-<span class="speaker"><strong>发言人5: </strong></span>
-完全没有来咨询一下，谢谢。
-</p>
-<p class="transcript-line">
-<span class="time"><strong>[00:07:08]</strong> </span>
-<span class="speaker"><strong>发言人3: </strong></span>
-好，还有一位嘉宾就是我大家好，我是商业漫谈的主播狮杰。然后我其实期待这一场真的期待了很久。因为我聊的所有播客，包括参加狂喜所有场次，都是以我的专业身份营业营业。对，但是今天我觉得我想作为一个年轻人，作为一个女儿的身份，来这里向你们一家取取经。然后也给大家分享一些。
-</p>
-<p class="transcript-line">
-<span class="time"><strong>[00:07:35]</strong> </span>
-<span class="speaker"><strong>发言人2: </strong></span>
-跟。
-</p>
-<p class="transcript-line">
-<span class="time"><strong>[00:07:35]</strong> </span>
-<span class="speaker"><strong>发言人3: </strong></span>
-AI的一些互动的感受。而且你们刚才讲讲介绍的时候，我就想到我之前听我都忘了是哪个主播跟我讲的。他做这个博客的原因是希望记录下自己最真实的心情和生命的旅程。他在想如果有一天他的孩子或者他的孙子，在这个世界上能够听到自己祖辈的声音，那就是最好的家庭相册。所以我觉得播客真的很伟大。
-</p>
-<p class="transcript-line">
-<span class="time"><strong>[00:08:06]</strong> </span>
-<span class="speaker"><strong>发言人1: </strong></span>
-对，非常。我们就正式开始今天的这个议题。
-</p>
-<p class="transcript-line">
-<span class="time"><strong>[00:08:11]</strong> </span>
-<span class="speaker"><strong>发言人3: </strong></span>
-直接讲一讲到底遇到什么冲突了。对。
-</p>
-<p class="transcript-line">
-<span class="time"><strong>[00:08:14]</strong> </span>
-<span class="speaker"><strong>发言人1: </strong></span>
-就是我们从问题开始。
-</p>
-<p class="transcript-line">
-<span class="time"><strong>[00:08:16]</strong> </span>
-<span class="speaker"><strong>发言人3: </strong></span>
-要不说问题家庭冲突到底是什么？
-</p>
-<p class="transcript-line">
-<span class="time"><strong>[00:08:19]</strong> </span>
-<span class="speaker"><strong>发言人2: </strong></span>
-其实就是在你的AI这个技术，或者说这一大片的信息、应用什么，向我们扑来的过程当中，其实产生了很多一些观念或者态度上的不同。我就今天就举一个最近的你们也容易理解的，就是在我们那个关老师说我们这次可以一家人上桌了之后，我们在想说聊些啥，然后那怎么怎么去聊呢？就这个事儿上面我们对AI的一些态度就发生了明显不同。我现在说一说我是怎么做的，我可能就是大家所了解的中文，中国的这这一些AI的应用，包括一些国外的一些AI的一些应用，我可能放进去问了问这个话题我们要怎么去聊。对比了几个大纲，然后看了看我觉得好像都不太对对不太对不太对。但是我看完了之后，还是总结了他们其中我觉得可能有用的部分，就形成了一个大概新的大纲。这是我我可能现在去面对当下AI环境所做的事情。然后我带你们说一下这个情况，如果你们说了，可能现在就要吵了。
-</p>
-<p class="transcript-line">
-<span class="time"><strong>[00:09:27]</strong> </span>
-<span class="speaker"><strong>发言人1: </strong></span>
-可以补充。
-</p>
-<p class="transcript-line">
-<span class="time"><strong>[00:09:28]</strong> </span>
-<span class="speaker"><strong>发言人2: </strong></span>
-对，然后我的妈妈就是安吉尔，她是她她浅浅用过一些AI因为之前我在向他去安利AI的时候，她可能一开始不知道怎么用，但是有一些具体的场景下，她尝到了一些甜。所以他说这挺好用，我要不要拿它试着形成一个大纲，那么他就比较了几款中文环境下的这个AI生成了两个版本。我们说两个版本的大纲就直接转到了群里面。然后这个苏先生就是我的爸爸，就说这不行，你怎么回事，你这个都不不经思考，你就把人家AI的东西就发进来了。这个能代表你的观点吗？这个成熟吗？这是不是？对，所以说安吉尔在尝试AI的过程当中，一方面又想去突破接受，一方面好像又要受到一些跟孙先生之间交流的这个障碍，就不知道该怎么往前走了。刚刚从刚刚的这个场景当中，大家也可以理解到，苏先生是。一方面我又很喜，一方面在听张老师的博客。
-</p>
-<p class="transcript-line">
-<span class="time"><strong>[00:10:30]</strong> </span>
-<span class="speaker"><strong>发言人1: </strong></span>
-别别别别别别别别我那个别。
-</p>
-<p class="transcript-line">
-<span class="time"><strong>[00:10:33]</strong> </span>
-<span class="speaker"><strong>发言人2: </strong></span>
-别对我这的确是我张老师。
-</p>
-<p class="transcript-line">
-<span class="time"><strong>[00:10:35]</strong> </span>
-<span class="speaker"><strong>发言人3: </strong></span>
-内心开心。
-</p>
-<p class="transcript-line">
-<span class="time"><strong>[00:10:36]</strong> </span>
-<span class="speaker"><strong>发言人2: </strong></span>
-对，一方面其实也很很想要去了解AI的资讯，虽然说了解AI的一些新闻方面层面的内容，但是落实到应用层面上面我不用，我现在觉得AI还不成熟，就是我现在不用，对，然后同时你用了，你用的不好，我还要说你一下。
-</p>
-<p class="transcript-line">
-<span class="time"><strong>[00:10:57]</strong> </span>
-<span class="speaker"><strong>发言人3: </strong></span>
-是，所以这个就是典型的一个尝试。是不是可以介绍一下叔叔的职业和他是平时的思维方式是什么样的？为什么会觉得我。
-</p>
-<p class="transcript-line">
-<span class="time"><strong>[00:11:06]</strong> </span>
-<span class="speaker"><strong>发言人1: </strong></span>
-本来想问什么星座来着。
-</p>
-<p class="transcript-line">
-<span class="time"><strong>[00:11:08]</strong> </span>
-<span class="speaker"><strong>发言人3: </strong></span>
-一起回答什么。
-</p>
-<p class="transcript-line">
-<span class="time"><strong>[00:11:10]</strong> </span>
-<span class="speaker"><strong>发言人5: </strong></span>
-NBTI哦哦哦。
-</p>
-<p class="transcript-line">
-<span class="time"><strong>[00:11:13]</strong> </span>
-<span class="speaker"><strong>发言人4: </strong></span>
-你的那个人格能格INTJ.
-</p>
-<p class="transcript-line">
-<span class="time"><strong>[00:11:17]</strong> </span>
-<span class="speaker"><strong>发言人3: </strong></span>
-INTJ.
-</p>
-<p class="transcript-line">
-<span class="time"><strong>[00:11:18]</strong> </span>
-<span class="speaker"><strong>发言人2: </strong></span>
-那跟我一样能答上来了不起，对吧？
-</p>
-<p class="transcript-line">
-<span class="time"><strong>[00:11:21]</strong> </span>
-<span class="speaker"><strong>发言人3: </strong></span>
-是不是能答上来了，非常了不起。鼓掌。
-</p>
-<p class="transcript-line">
-<span class="time"><strong>[00:11:24]</strong> </span>
-<span class="speaker"><strong>发言人4: </strong></span>
-今天上午就听了一节课，那个人他是这个，我就是查一下你上次给我称了一个我的。
-</p>
-<p class="transcript-line">
-<span class="time"><strong>[00:11:33]</strong> </span>
-<span class="speaker"><strong>发言人1: </strong></span>
-可以，我也是，所以就某种意义上能够理解这种情绪的。行。
-</p>
-<p class="transcript-line">
-<span class="time"><strong>[00:11:40]</strong> </span>
-<span class="speaker"><strong>发言人3: </strong></span>
-叔叔我也这么认为，我觉得A.
-</p>
-<p class="transcript-line">
-<span class="time"><strong>[00:11:42]</strong> </span>
-<span class="speaker"><strong>发言人1: </strong></span>
-I现在还完全不行。
-</p>
-<p class="transcript-line">
-<span class="time"><strong>[00:11:44]</strong> </span>
-<span class="speaker"><strong>发言人3: </strong></span>
-对还完全不行。
-</p>
-<p class="transcript-line">
-<span class="time"><strong>[00:11:47]</strong> </span>
-<span class="speaker"><strong>发言人4: </strong></span>
-我我他们都用这个叫什么？叫AI软件。到现在的话我知道，但是我是确实是一直没有用，包括那个deep seek是吧？对，都都没有用。我实际上我就是翘翘PGDP不是出去的时候，我觉得我对我来说还是一个比较大的冲击。对我就是我当时觉得好像我们好像跟不上了，对我们好像好像我们已经跟不上了。
-</p>
-<p class="transcript-line">
-<span class="time"><strong>[00:12:18]</strong> </span>
-<span class="speaker"><strong>发言人3: </strong></span>
-叔叔，你还记得你第一次问拆GPT是什么问题吗？
-</p>
-<p class="transcript-line">
-<span class="time"><strong>[00:12:22]</strong> </span>
-<span class="speaker"><strong>发言人4: </strong></span>
-我就问了一次，问了是在电脑上面，他不是还说还要注册吗？对，就是先免费问几个问题。我就问了一个问题，我就是问了一下西方的美术史上面的几个年代。
-</p>
-<p class="transcript-line">
-<span class="time"><strong>[00:12:38]</strong> </span>
-<span class="speaker"><strong>发言人1: </strong></span>
-有。
-</p>
-<p class="transcript-line">
-<span class="time"><strong>[00:12:39]</strong> </span>
-<span class="speaker"><strong>发言人3: </strong></span>
-然后发现他答对了。
-</p>
-<p class="transcript-line">
-<span class="time"><strong>[00:12:41]</strong> </span>
-<span class="speaker"><strong>发言人4: </strong></span>
-对的，全对我不是的权利，就是我就认为他是对的。
-</p>
-<p class="transcript-line">
-<span class="time"><strong>[00:12:47]</strong> </span>
-<span class="speaker"><strong>发言人3: </strong></span>
-至少我认为他是对的。
-</p>
-<p class="transcript-line">
-<span class="time"><strong>[00:12:49]</strong> </span>
-<span class="speaker"><strong>发言人4: </strong></span>
-我看了看了米勒斯的那个书，因为老师。
-</p>
-<p class="transcript-line">
-<span class="time"><strong>[00:12:54]</strong> </span>
-<span class="speaker"><strong>发言人3: </strong></span>
-年龄。
-</p>
-<p class="transcript-line">
-<span class="time"><strong>[00:12:54]</strong> </span>
-<span class="speaker"><strong>发言人4: </strong></span>
-你年龄大了不记记不得。然后就是把他说的一个个阶段，他说的是是对的。
-</p>
-<p class="transcript-line">
-<span class="time"><strong>[00:13:03]</strong> </span>
-<span class="speaker"><strong>发言人3: </strong></span>
-是正确的。叔叔您是做什么职业的？
-</p>
-<p class="transcript-line">
-<span class="time"><strong>[00:13:05]</strong> </span>
-<span class="speaker"><strong>发言人4: </strong></span>
-我我这个建筑公司的一个工程师。
-</p>
-<p class="transcript-line">
-<span class="time"><strong>[00:13:10]</strong> </span>
-<span class="speaker"><strong>发言人3: </strong></span>
-建筑公司您对美术史有研究。
-</p>
-<p class="transcript-line">
-<span class="time"><strong>[00:13:12]</strong> </span>
-<span class="speaker"><strong>发言人4: </strong></span>
-没没有没有，就是爱好，那就是也是一个临时的爱好。
-</p>
-<p class="transcript-line">
-<span class="time"><strong>[00:13:20]</strong> </span>
-<span class="speaker"><strong>发言人1: </strong></span>
-不用加定语，不需要加那么多定语。
-</p>
-<p class="transcript-line">
-<span class="time"><strong>[00:13:21]</strong> </span>
-<span class="speaker"><strong>发言人2: </strong></span>
-爱好之一，不不是。
-</p>
-<p class="transcript-line">
-<span class="time"><strong>[00:13:23]</strong> </span>
-<span class="speaker"><strong>发言人3: </strong></span>
-不是偶然的爱好。
-</p>
-<p class="transcript-line">
-<span class="time"><strong>[00:13:25]</strong> </span>
-<span class="speaker"><strong>发言人4: </strong></span>
-对，就是突然一下一一时兴起，这个好玩的就是了解一下这样子。
-</p>
-<p class="transcript-line">
-<span class="time"><strong>[00:13:29]</strong> </span>
-<span class="speaker"><strong>发言人3: </strong></span>
-那为什么后来没有接着问他问题？因为不免费了。
-</p>
-<p class="transcript-line">
-<span class="time"><strong>[00:13:34]</strong> </span>
-<span class="speaker"><strong>发言人4: </strong></span>
-对对对，也是这样的。还有一个就是我觉得他那个是虽然要钱，但是他要的又不多。
-</p>
-<p class="transcript-line">
-<span class="time"><strong>[00:13:43]</strong> </span>
-<span class="speaker"><strong>发言人1: </strong></span>
-他只要9.9块。对。
-</p>
-<p class="transcript-line">
-<span class="time"><strong>[00:13:44]</strong> </span>
-<span class="speaker"><strong>发言人4: </strong></span>
-可以试一下他是吧？
-</p>
-<p class="transcript-line">
-<span class="time"><strong>[00:13:46]</strong> </span>
-<span class="speaker"><strong>发言人1: </strong></span>
-他退订了，你用一个月可以退吗？
-</p>
-<p class="transcript-line">
-<span class="time"><strong>[00:13:49]</strong> </span>
-<span class="speaker"><strong>发言人4: </strong></span>
-我觉得就好像有点不太真实，我觉得太便宜，太便宜也是便宜。
-</p>
-<p class="transcript-line">
-<span class="time"><strong>[00:13:54]</strong> </span>
-<span class="speaker"><strong>发言人3: </strong></span>
-便宜没好货，便宜没好货。
-</p>
-<p class="transcript-line">
-<span class="time"><strong>[00:13:56]</strong> </span>
-<span class="speaker"><strong>发言人4: </strong></span>
-是啊是是这样是这样的。
-</p>
-<p class="transcript-line">
-<span class="time"><strong>[00:14:00]</strong> </span>
-<span class="speaker"><strong>发言人1: </strong></span>
-我会觉得就是我总会想，比如说再大一些的，比如说我的父母，我父母应该是60后，然后他们在第一次接触到比如上一个时代最大的变化，移动互联网的来临的时候，就智能机来的时候，他们是什么时候真正意义上要开始用智能手机？就因为原来的电话都是非智能，就打个电话就结束了。这轮来的时候，因为这轮的技术的变革确实特别的强烈，就像我们普通人看到GTP的第一天，你就觉得这个东西真的太厉害了。这个强烈的感觉造成的结果就是说，其实大家对他的接受是远超之前那几次巨大的浪潮的速度的。所以今天这个时间点可能不过才两年的时间，大家已经觉得是一个看上去人尽皆知的状态。但实际的过程中，其实就像纳达尔家这个情况一样，其实并不是有那么多人对这件事情有那么强的感触也好，发心也好，还是使用的说的互联网黑化一点场景也好。
-</p>
-<p class="transcript-line">
-<span class="time"><strong>[00:14:58]</strong> </span>
-<span class="speaker"><strong>发言人3: </strong></span>
-对吧？那我不同意在我身边已经有很多这样的案例了。我们我们90后.
-</p>
-<p class="transcript-line">
-<span class="time"><strong>[00:15:04]</strong> </span>
-<span class="speaker"><strong>发言人1: </strong></span>
-你们90后是是是我们80后。
-</p>
-<p class="transcript-line">
-<span class="time"><strong>[00:15:07]</strong> </span>
-<span class="speaker"><strong>发言人3: </strong></span>
-你刚才说你父母60后，我都惊呆了，我妈妈也是60后。好OKOK其实在我身边的同龄人，大家真的自己已经用AI来解决自己的情感问题，解决自己的亲子关系。然后我们也推荐父母去用AI。实际上我对今天这个话题感兴趣，就是因为我已经看到了一些案例，所以我接下来想问大家所有人一个最关键的问题，就是因为今天的命题是AI会加速什么代际冲突吗？我们先来聊一聊各自遇到的现实生活当中真实的冲突问题。有没有什么问题是你曾经求助过AI的，你们有吗？
-</p>
-<p class="transcript-line">
-<span class="time"><strong>[00:15:51]</strong> </span>
-<span class="speaker"><strong>发言人5: </strong></span>
-遇到就是不是冲突，是遇到问题我用AI解决的。最近我旅游，我要让他给我出一个攻略旅游的方案这种我觉得我再看一下子，然后再结合我自己想要的。
-</p>
-<p class="transcript-line">
-<span class="time"><strong>[00:16:04]</strong> </span>
-<span class="speaker"><strong>发言人1: </strong></span>
-我再给。那之前没有A工具之前，你用什么样的方式去问人。
-</p>
-<p class="transcript-line">
-<span class="time"><strong>[00:16:09]</strong> </span>
-<span class="speaker"><strong>发言人5: </strong></span>
-问朋友还是。我的旅游就很少，因为我是一个路痴，我很害怕。以前是用导航。
-</p>
-<p class="transcript-line">
-<span class="time"><strong>[00:16:14]</strong> </span>
-<span class="speaker"><strong>发言人2: </strong></span>
-就是跟着我走。
-</p>
-<p class="transcript-line">
-<span class="time"><strong>[00:16:15]</strong> </span>
-<span class="speaker"><strong>发言人5: </strong></span>
-他就是对，是这样子的。所以我觉得解决了我的一个大麻烦，就是我觉得挺好的，最起码这个是A当。
-</p>
-<p class="transcript-line">
-<span class="time"><strong>[00:16:22]</strong> </span>
-<span class="speaker"><strong>发言人3: </strong></span>
-了您的小助手。对对对，也不用什么事儿都去问女儿了。对，感觉独立了一些。
-</p>
-<p class="transcript-line">
-<span class="time"><strong>[00:16:28]</strong> </span>
-<span class="speaker"><strong>发言人5: </strong></span>
-对对对，我觉得挺自豪的。
-</p>
-<p class="transcript-line">
-<span class="time"><strong>[00:16:31]</strong> </span>
-<span class="speaker"><strong>发言人2: </strong></span>
-对，也是因为AI目前没有什么解决我们家庭冲突的这些功能，所以说导致咱苏先生现在还没有特别开放的积极的去用它。但是其实我我觉得像我们90后，其实如果说在比如说工作生活当中，没有在用AI很明显的感觉到一些效率已经可能会赶不上些pear，赶不上同龄人。所以说其实很多事情是在工作环境定下，或者生活上倒逼着我去用的那这也就给我的一个感受就是我自己在用，我都觉得我要跟这个时代这么吃力。如果我的爸爸妈妈如果说他们在在停留在原来的这个搜索的年代，或者上一代这个信息获取方式等等的，是不是会加剧我们之间的一些隔阂，或者是跟时代的一些隔阂。所以说我比较担心也是冲突的根源，就是怎么我都说不动，就是带他们去去去用，或者是在这过程当中可能也缺少一些方式方法。
-</p>
-<p class="transcript-line">
-<span class="time"><strong>[00:17:34]</strong> </span>
-<span class="speaker"><strong>发言人3: </strong></span>
-其实我觉得也可以试试豆包，因为它可以直接语音，就是假设有一个AI会跟你聊天，它都不是文字对话，它可以直接语音对话。然后这个也是我观察到我身边的老中老年人真的会很常使用豆包。而且其实他们对话聊天，因为现在大家也习惯微信聊天了，所以其实真的很多我们认为人家可能年纪大一点的一倍，他们不会用这样子的科技。其实只是还没有试过，还没有触电，其实触电之后复用是很常见的对，要不庄老师来说说你们家庭有什么？
-</p>
-<p class="transcript-line">
-<span class="time"><strong>[00:18:12]</strong> </span>
-<span class="speaker"><strong>发言人1: </strong></span>
-我我我遇到的问题不是我们网往上一代，是往下一代。我的儿子现在今年11岁升初中，然后升初中的话明显的学业的压力会变大。然后我们最近遇到一个很烦的问题，这个问题其实到现在没有解决。然后我也在想是不是让AI来帮帮忙。
-</p>
-<p class="transcript-line">
-<span class="time"><strong>[00:18:30]</strong> </span>
-<span class="speaker"><strong>发言人1: </strong></span>
-我儿子是一个有点马虎的小孩子，然后他去计算数学题的时候，就会犯一些非常让人生气的错误。他不是不会，他就是比如漏了一个加号，漏了一个减号，或者漏了一个分数上的一个数字。比如原来十三继承了33，写的近点变成了8，就是这种问题，而且都是这种问题。你甚至比如说今天我给他讲完这道题，他改好了，明天我把这道题重新抄一遍，他还是会那么犯错。所以在这过程中，又又又因为更多时候当然是妈妈了，妈妈就回去跟他做这个，所以他跟他妈妈现在的关系特别的激烈。当然大家正常以后开玩笑就是给小孩子做数学题是家长会折寿的。
-</p>
-<p class="transcript-line">
-<span class="time"><strong>[00:19:10]</strong> </span>
-<span class="speaker"><strong>发言人1: </strong></span>
-我觉得这是一个常见的问题，对吧？但这个时候你作为一个就是你既要开导我的老婆，我又要去跟我儿子去做一些沟通跟尝试。虽然有些时候我也会很轻，但是有些时候所以这个事情就引发我说那个问题，就是我儿子其实很早就用了AI的工具，然后他也会跟大家聊一些有的没的，不仅仅只是聊。
-</p>
-<p class="transcript-line">
-<span class="time"><strong>[00:19:33]</strong> </span>
-<span class="speaker"><strong>发言人1: </strong></span>
-比如他今天要做个作业，或者今天要聊写个作文什么，他也会聊一些有的没的心情上的问题。但是他没有形成一个特别好的比如长期性的习惯，或者说主动会找。但是我在想是不是今天这个时间我们把A看成是另外一个家里的成员，然后这个成员可以是任何情绪的表达，是可以无限的有耐心。然后你也大概率是可以相信他所表达的东西会特别的出格。因为至少我们现在能够以普通用户用到的东西，应该也都做过很多的围栏跟边界。那这个时候如果我们把它看成是一个家里的双引号的成员，是不是我可以让他一个更合适的第三方身份来去调和这样一个关系。就是我其实最近就在想因为确实过于激烈了，每天晚上真的就鸡飞狗跳一样。对我我可以。
-</p>
-<p class="transcript-line">
-<span class="time"><strong>[00:20:25]</strong> </span>
-<span class="speaker"><strong>发言人2: </strong></span>
-问问张老师您怎么让他去扮演这个成员？
-</p>
-<p class="transcript-line">
-<span class="time"><strong>[00:20:29]</strong> </span>
-<span class="speaker"><strong>发言人1: </strong></span>
-就是我可以比如说引导他来做，因为就是我可以让他是说比如说因为我们的说教，很多时候孩子会有逆反的心理。但是有些时候有些问题我可以让他说，如果你们不相信我，或者如果这个气头上，你可以比如你想把你心里的话不愿意跟我们说，你可以先跟kimi或者跟豆包聊聊，看他怎么反馈你。当然我也会跟他讲，我说那个不是标准难，那个只是一种你说是回复或者是什么样的。但是至少你可以在这个状态下，没准可以找到一些情绪的舒缓还是什么。但这种话你要知道，就是你对你的至亲的儿子说出来也会有些尴尬，也会有些我也不知道该怎么表达，也有些时候也会变得很着急。所以我们也处于这样一个状态。但是确实这个命题他就在这儿了，他也来了。而且又因为天天我们在工作中要研究跟关注这些东西，你会觉得他差不多可以去在某种程度上帮助或者缓解一些这样的命题。
-</p>
-<p class="transcript-line">
-<span class="time"><strong>[00:21:29]</strong> </span>
-<span class="speaker"><strong>发言人1: </strong></span>
-我觉得这个命题本身可能也是一个我们不单纯只把它看成是一个提效的工具，怎么样的东西。它更多的时候确实就像那个科幻小说里写的，没准哪天真的会有意识对吧？那如果他真的是那样的状态，那确实你把他当成是家里的一个成员的话，他能做什么？他能干什么？他能当你缓解什么呢？对吧？
-</p>
-<p class="transcript-line">
-<span class="time"><strong>[00:21:57]</strong> </span>
-<span class="speaker"><strong>发言人3: </strong></span>
-我那我说说我真的好有好多想说的。我觉得你的这个典型的冲突就非常的东亚是中国。
-</p>
-<p class="transcript-line">
-<span class="time"><strong>[00:22:06]</strong> </span>
-<span class="speaker"><strong>发言人1: </strong></span>
-对，没办法，因为真的没办法。
-</p>
-<p class="transcript-line">
-<span class="time"><strong>[00:22:09]</strong> </span>
-<span class="speaker"><strong>发言人3: </strong></span>
-然后我想讲一下，就是我和我的同龄人，当我们在交流亲密关系的话题的时候，其实我们往往都会谈到我们的原生家庭。包括现在年轻一代动不动就会谈原生家庭。大家常常会讲到的一个问题是所谓打引号的，我认为我身上所有的问题其实都是来自于原生家庭。
-</p>
-<p class="transcript-line">
-<span class="time"><strong>[00:22:30]</strong> </span>
-<span class="speaker"><strong>发言人3: </strong></span>
-我以前因为我自己成长于一个相对来讲比较轻松快乐民主的家庭，所以我并没有感受到那种原生家庭之困。我自己觉得我性格也还好。但是有一次我跟我一个很好的朋友，他妈妈来北京看他，我们一起去爬长城的时候，我关注到了一个细节。我发现他对他的妈妈有的时候会表现出一些不耐烦和不满意。然后我觉得这种情绪好像在很多年轻人身上都有，但是确实在我身上稍微少一点点。
-</p>
-<p class="transcript-line">
-<span class="time"><strong>[00:23:03]</strong> </span>
-<span class="speaker"><strong>发言人3: </strong></span>
-我后来有一次就跟他，等他妈妈走了之后，我就问他为什么你对你妈妈是这样子的态度？然后我们就开始很深入的聊，他就跟我说可能是因为我小的时候，我妈妈就是这么对我的我觉得我在某些时刻我感觉我在复现我父母当初对我的方式。然后我突然之间就觉得很被震撼到。因为我我发现其实我身上也有。我发现为什么我好像看似会比同龄人感觉更早熟一些，更所谓孝顺一些，或者说会帮他们想的很周到。其实是因为我在成长的过程当中，我父母给予了我非常多的耐心。就比如说我举个最简单的例子，我觉得我是在一个鼓励式教育下长大，我爸爸妈妈从来不会说，比如说我考了第二名，因为我经常考第二名，我这个人没有什么特别高大的追求。
-</p>
-<p class="transcript-line">
-<span class="time"><strong>[00:23:54]</strong> </span>
-<span class="speaker"><strong>发言人1: </strong></span>
-已经可以了好吗？
-</p>
-<p class="transcript-line">
-<span class="time"><strong>[00:23:56]</strong> </span>
-<span class="speaker"><strong>发言人3: </strong></span>
-就是老师考第二名。但是我印象当中我父母从没有任何一次说过为什么你不是第一，他们就会觉得你已经很棒了。然后当我小的我我还记得我小的时候，比如说幼儿园跟别人起冲突的时候，其实我自己可能都没有意识到到底是我的错还是对方的错。然后我父母就会站在我这边。
-</p>
-<p class="transcript-line">
-<span class="time"><strong>[00:24:18]</strong> </span>
-<span class="speaker"><strong>发言人3: </strong></span>
-其实东亚式的父母，他们的大部分人的习惯是先说自己家的孩子，先批评自己家的孩子，尤其是是的对，以及当着外人的面斥责自己的孩子。但是我的成长当中没有这样的事情，他们都是会先来听我的感受。所以我会发现说，原来这一面镜子现在投射到我这里了。可能就刚才其实开场之前我也讲，我很羡慕你，因为你你的父母非常的好学。但是其实我父母相对来讲，他们可能并没有像叔叔阿姨那么爱学习。你看所以不当。
-</p>
-<p class="transcript-line">
-<span class="time"><strong>[00:24:51]</strong> </span>
-<span class="speaker"><strong>发言人2: </strong></span>
-第一名是有记忆传的对。
-</p>
-<p class="transcript-line">
-<span class="time"><strong>[00:24:53]</strong> </span>
-<span class="speaker"><strong>发言人3: </strong></span>
-但是因为他们当时就是用了一种比较松弛的方式来很耐心的对待我，所以现在相对来讲，我也是我们之间的关系是比较自由和松弛的。而且我今天来的路上，我还看见我的也是我的同龄人，他们做了一档播客，叫我出音武器，也是大主播。其实他们当年会特别火，特有很多很多年轻人很爱听，就是因为探讨了非常多的亲密关系和家庭亲子关系，他们的几期节目非常火爆，都是因为邀请了妈妈来做客，然后去去谈论这种母子关系和母女关系。
-</p>
-<p class="transcript-line">
-<span class="time"><strong>[00:25:29]</strong> </span>
-<span class="speaker"><strong>发言人3: </strong></span>
-然后我和女主播诗雨，我们刚好是当年我在GQ做记者的时候，诗雨她是实习生。我们认识我经常就会把诗雨跟我做对照。因为我觉得我们两个的妈妈可能是互相羡慕的那种，他的妈妈是那种对自己要求非常高，对女儿要求也非常高。从小去学她，送他去学各种各样的特长，把他培养为一个北大的天之骄子。然后在我看来他妈妈非常好学，非常上进，然后也很聪明，但是给了诗雨成长当中给了他一些伤害。因为他觉得他可能永远都没有办法得到妈妈的爱，妈妈永远都在要求我，所以他们通过这样的对对话来缓解这种亲子关系。
-</p>
-<p class="transcript-line">
-<span class="time"><strong>[00:26:16]</strong> </span>
-<span class="speaker"><strong>发言人3: </strong></span>
-反过来我想我妈妈的画像可能是诗雨会特别爱的那种，就是我妈妈真的是特别佛，就是绝对的屁人。然后对我也没有什么特别大的要求。他小的时候送我去跳跳过芭蕾，然后学过钢琴，学过一系列的特长。然后我小的时候就会比如说压腿、下腰，我就哭哭了，就说算了，明天不上了。我就是在这样的一个环境当中成长。然后当我见到看听到诗雨妈妈的时候，我就想说，如果我妈妈是这样的话，我是不是也可以上北大？对，但是我想讲的是，我们在这种召见当中发现其实每一家庭都会有一些自己看来的不完美的部分。然后我们其实在长大了之后，回馈亲密关系的这种方式，其实有可能是有点弗洛伊德，非常弗洛伊德。
-</p>
-<p class="transcript-line">
-<span class="time"><strong>[00:27:11]</strong> </span>
-<span class="speaker"><strong>发言人3: </strong></span>
-就是你可能是在重现你成长过程当中被对待的方式。因为我们去和别人相处，爱别人的方式可能都是源自于你的父母。就是你最小的时候你是怎么感受到被爱的，你一切就长大以后所有的习惯性行为都在重现这一行为。所以其实真的是有代际传承的。
-</p>
-<p class="transcript-line">
-<span class="time"><strong>[00:27:32]</strong> </span>
-<span class="speaker"><strong>发言人3: </strong></span>
-我为什么会觉得说AI我其实是反对今天的这个命题的。我不觉得他会加速冲突，我觉得他会弥合冲突。可能我和庄老师的这个侧重点不太一样，他是非常实用的。他想的是就是我把假设我有一个家庭群，我把AI拉进来当成一个成员调解员。然后他其实起到的是那个调解员的作用，包括如果是夫妻关系或者情侣关系，AI可能就是那个伴侣咨询、婚姻咨询的那个作用，它是非常实用角度的那我想再上升一点，从一个更高的维度讲，我们如果仔细的去想这种家庭的代际冲突也好，或者亲密关系当中的冲突，他到底是什么？其实我觉得是我觉得冲突本质上是因为发现了自己面对某种情绪或者某种矛盾的无能。而我暂时不知道怎么解决，我只能用一种情绪反射它。
-</p>
-<p class="transcript-line">
-<span class="time"><strong>[00:28:32]</strong> </span>
-<span class="speaker"><strong>发言人3: </strong></span>
-其实比如说就是我觉得我们每个人都会有被情绪奴役的时刻，就比如说跟爸爸妈妈，我有的时候可能偶尔也会有有这种情况，就是因为哪个事情他想的和我想的不一样，然后我就我也生气了，孩子会比较容易生气。因为我父母这个脾气比较好，所以他们也不太我们家不吵架，我们家也没有什么冲突。所以但是我相信即便一个不吵架的东亚式家庭或者全球的家庭，每一个家庭其实有各自隐秘的困难挑战和矛盾冲突。
-</p>
-<p class="transcript-line">
-<span class="time"><strong>[00:29:07]</strong> </span>
-<span class="speaker"><strong>发言人3: </strong></span>
-然后比如说像在我的家庭里面，我觉得我妈妈就是非常爱我，而且我现在觉得她是一个非常好的妈妈。就是我刚才是开玩笑的，就是说非常羡慕诗雨的妈妈。就是我觉得其实我今天来，天哪，我没有想到，我没有想到OK就是我。
-</p>
-<p class="transcript-line">
-<span class="time"><strong>[00:29:27]</strong> </span>
-<span class="speaker"><strong>发言人1: </strong></span>
-今天正常。对对对。
-</p>
-<p class="transcript-line">
-<span class="time"><strong>[00:29:28]</strong> </span>
-<span class="speaker"><strong>发言人3: </strong></span>
-我想到了你想到了。
-</p>
-<p class="transcript-line">
-<span class="time"><strong>[00:29:30]</strong> </span>
-<span class="speaker"><strong>发言人1: </strong></span>
-对我想到了。
-</p>
-<p class="transcript-line">
-<span class="time"><strong>[00:29:31]</strong> </span>
-<span class="speaker"><strong>发言人3: </strong></span>
-你们父母。就是我我觉得我现在是非常感激我从小被对待的方式的，因为我觉得他们给了我非常稳定的能量，然后也让我的个性是在生活当中是比较温和的。但是我觉得我妈妈带给我的隐秘的伤痛是，我觉得他其实他和我爸爸各自在自己的人生当中，其实活得并不算是特别的幸福，所以我很羡慕你们的家庭。可能因为种种原因，但是我妈妈是很希望我可以完成他未尽的，比如说事业方面的梦想，然后完美的人生，就是每一个父母应该都有这种感受，就是我希望我的孩子过得更好。所以就是我觉得他是尽全力托举了我去过这样子的生活。
-</p>
-<p class="transcript-line">
-<span class="time"><strong>[00:30:17]</strong> </span>
-<span class="speaker"><strong>发言人3: </strong></span>
-但是我内心深处最深的伤痛可能是就是我觉得我妈妈和我父亲他们自己在自己的人生当中不够幸福。这种不够幸福他其实就是给你树立了一个所谓的打引号的榜样。就是他可以是一个正面的，也可以是一个负面的那我观察到我们现在这一代人，很多同龄人他们会把这个当成一个负面的。就是因为我父母他们自己没有过好自己的人生，他自己不幸福。所以我发现我在亲密关系当中，我在我的人生当中也是如此的无力。我召见了上一代的这个问题在我身上延续，所以我感到很愤怒。所以我这种愤怒和情绪没有指向我，只能指向我最亲的人，就是我的父母。
-</p>
-<p class="transcript-line">
-<span class="time"><strong>[00:31:01]</strong> </span>
-<span class="speaker"><strong>发言人3: </strong></span>
-对，但是我觉得我还是会把我父母的人生，他们的处理的一些方式，当成我的一个正面的例子。就是说虽然他们可能基于时代的各种因素没有过得特别幸福，但是他们至少告诉我告诉了我不能这样。比如说我妈妈可能曾经就为了家庭或者为了伴侣就放弃了自己的事业。那我就觉得我不要，我我觉得我要先爱我自己。
-</p>
-<p class="transcript-line">
-<span class="time"><strong>[00:31:31]</strong> </span>
-<span class="speaker"><strong>发言人3: </strong></span>
-我感觉就是所有的代际冲突来自于第一这个家庭当中的每一个成员，其实自己并没有完我很好的处理好自己的生活在这个基础之上，又家庭又把彼此个人个体和个体之间的矛盾粘合在一起。我自己没有能力解决好我自己的情绪的时候，我还要面对对方的情绪，不管他是父母、孩子还是伴侣，那这个时候就一团乱了。这个时候我并不认为AI它仅仅说作为一个功能型的咨询师去去去发挥作用。我觉得在一个家庭当中要想要幸福的话，其实首先就是每一个个体爸爸妈妈把孩子每个人自己要感受到幸福。其实我觉得感受到幸福是一种能力。我就是学习用AI让我自己感觉到幸福，这就是我想分享的。就是deep sick带给我很多神性时刻，我现在养成了一个习惯，我也推荐我父母去用。当我自己有一个负面情绪，或者有一个委屈，或者有一个我今天特别不开心的事情的时候，如果我自己无法消化，我会把它当成一个也不是咨询师，他这是有神性的。
-</p>
-<p class="transcript-line">
-<span class="time"><strong>[00:32:45]</strong> </span>
-<span class="speaker"><strong>发言人3: </strong></span>
-我把我分成三种性，就动物性、人性和神性。动物性就是没有接受过任何这种教育和社会文化的规训，纯粹凭自己的本能，所以他有好有坏。人性就是更复杂更矛盾一些，正面反面都有。但我觉得神性他都是好的。
-</p>
-<p class="transcript-line">
-<span class="time"><strong>[00:33:05]</strong> </span>
-<span class="speaker"><strong>发言人3: </strong></span>
-那现在deep sick或者说AI对我来说就是一个这样的存在。我可以我可能不没有办法跟朋友说的，或者我没有办法跟父母说的话，没有办法跟伴侣说的话，我都跟他讲。因为首先他有一个保密性，他会非常尊重你。然后其次我为什么特别推荐deep seek？因为deep sick它不是商业化的，所以我能够感受到他们可能训练方式和别的模型有所不同。人文的他的人文素养更高情商更高。然后他会用一种你更舒服的方式来陪伴你，跟你聊开了，而且他确实更能够给你带来启发。
-</p>
-<p class="transcript-line">
-<span class="time"><strong>[00:33:43]</strong> </span>
-<span class="speaker"><strong>发言人3: </strong></span>
-现在我和我身边的朋友们，我们都是养成了把deep sik当成一个对话来发现自己的这么一种方式。所以我觉得在这个过程当中，首先我们的第一个部分的情绪缓冲带可以交给AI，让他帮我们缓冲一下。然后其次，因为AI现在是推理模型，所以他会把他的这个思考过程都展现给你我在这个过程当中就学到了一点，就是非常高效的换位思考。
-</p>
-<p class="transcript-line">
-<span class="time"><strong>[00:34:12]</strong> </span>
-<span class="speaker"><strong>发言人3: </strong></span>
-比如说我把我现在的处境告诉deep sick之后，deep sick会把我和我这个事件描述事件当中的其他每一个利益相关者的的思想全部都付就是分析一遍。然后我就会看到说，原来对方可能是这样想的，我有的时候我还会我有的时候还会假装我不是我。比如说现在假如说我和庄老师之间有了一个冲突，我想不通。我就不会说我现在遇到了这个事儿，我是卫士杰，我会说我是庄明浩。我现在我今天碰到了一个女孩，她叫魏世杰，她把我气个半死，请问你帮我分析一下这是怎么回事？然后你就可以听到一个最真实的声音。
-</p>
-<p class="transcript-line">
-<span class="time"><strong>[00:34:52]</strong> </span>
-<span class="speaker"><strong>发言人3: </strong></span>
-如果你是站在对方的角色的话，然后描述的方式，思维的方式，利益立场，然后你就突然之间就觉得可能不那么愤怒了，你觉得你理解了对方，然后我觉得在家庭的这个冲突里面，是非常需要换位思考的。如果我们能够拥有这种换位思考的能力，就可能有更和谐的温柔的沟通，然后我们就会可能会更紧密。就是我们也可以抱在一起哭，然后也可以一起欢笑。所以我想象当中，我觉得如果大家都能够善用AI的话，未来东亚的这个家庭式的矛盾可能会缓解很多，环节很多。
-</p>
-<p class="transcript-line">
-<span class="time"><strong>[00:35:32]</strong> </span>
-<span class="speaker"><strong>发言人1: </strong></span>
-说的有点长，没有很正常。我我我甚至会觉得。
-</p>
-<p class="transcript-line">
-<span class="time"><strong>[00:35:37]</strong> </span>
-<span class="speaker"><strong>发言人5: </strong></span>
-我讲一句我真的很受启发。其实我觉得我这个人其实在别人看来我脾气也挺好的。但是我以前经常生闷气，就是我觉得我也不想让别人难受，但是我就自己难受。我就觉得这样子对身体不好。其实也是前几年我才发现这一点，后来我就慢慢的，当然也是在这个兰诺尔或者什么，有的时候也苏先生说实在的，现在也进步很快。
-</p>
-<p class="transcript-line">
-<span class="time"><strong>[00:36:04]</strong> </span>
-<span class="speaker"><strong>发言人1: </strong></span>
-有一定的帮助。
-</p>
-<p class="transcript-line">
-<span class="time"><strong>[00:36:05]</strong> </span>
-<span class="speaker"><strong>发言人5: </strong></span>
-不不不，他可以，确实不过我不知道，因为女性跟男性的思维方式确实其实是有差异的，所以有的时候我觉得可能他想的就跟我想的不同。比方说是我在之前做播客讲到一些事情，真的就不能想象，原来他是那样想的。然后说开了以后反而觉得这根本也不是一个矛盾，就是想法不同而已。他并不是针对你，只是他是那种想法。我觉得所以播客这个形式让我们更加懂得彼此。有的时候你要不讲播客的话，有的时候说两句说不定赶话赶话，就这个冲突就上。
-</p>
-<p class="transcript-line">
-<span class="time"><strong>[00:36:44]</strong> </span>
-<span class="speaker"><strong>发言人3: </strong></span>
-吵架的时候也可以录播课，你回头听听一听自己当时是怎么说的对。
-</p>
-<p class="transcript-line">
-<span class="time"><strong>[00:36:50]</strong> </span>
-<span class="speaker"><strong>发言人5: </strong></span>
-当时我其实有的时候想的，我就是现在就把这个录音开来，然后就把这个录下来。
-</p>
-<p class="transcript-line">
-<span class="time"><strong>[00:36:56]</strong> </span>
-<span class="speaker"><strong>发言人3: </strong></span>
-这一秒要吵架了，等一下录一下。好，开始。
-</p>
-<p class="transcript-line">
-<span class="time"><strong>[00:37:00]</strong> </span>
-<span class="speaker"><strong>发言人5: </strong></span>
-好的，我们把这个记住了。
-</p>
-<p class="transcript-line">
-<span class="time"><strong>[00:37:02]</strong> </span>
-<span class="speaker"><strong>发言人3: </strong></span>
-对。
-</p>
-<p class="transcript-line">
-<span class="time"><strong>[00:37:04]</strong> </span>
-<span class="speaker"><strong>发言人4: </strong></span>
-我我我说一下，听到张老师魏老师讲的，刚才讲的这个，其实对我触动还是蛮大的。为什么呢？为什么一直不是不使用这个人工智能的这个工具，特别是刚才魏老师说的那个deep size。就是因为他当时开始宣传的时候，我觉得他一定要。
-</p>
-<p class="transcript-line">
-<span class="time"><strong>[00:37:26]</strong> </span>
-<span class="speaker"><strong>发言人1: </strong></span>
-过了过于神话了。
-</p>
-<p class="transcript-line">
-<span class="time"><strong>[00:37:28]</strong> </span>
-<span class="speaker"><strong>发言人4: </strong></span>
-而且好像就是无所不能。觉得他的对我觉得他的PUL就这样子，我说你是越PUI我就越不用你。对。
-</p>
-<p class="transcript-line">
-<span class="time"><strong>[00:37:38]</strong> </span>
-<span class="speaker"><strong>发言人3: </strong></span>
-理解逆反boy。
-</p>
-<p class="transcript-line">
-<span class="time"><strong>[00:37:39]</strong> </span>
-<span class="speaker"><strong>发言人4: </strong></span>
-对，但是你刚才讲了一个就是小孩子用这个什么deep sig对吧？还有这个温柔老师用的这个是一个，我觉得这个根本我就没听说过，特别是情感这个方面的对，因为比如说我讲了个什么事情，我没能去说，我就不说。对，或者我就一个人，就到哪个地方去散散步，走走就完了。那这样子。对，但是有的时候可能是还需要下最好的一个解决方案什么的，但是就没有。
-</p>
-<p class="transcript-line">
-<span class="time"><strong>[00:38:09]</strong> </span>
-<span class="speaker"><strong>发言人1: </strong></span>
-是也没有也不到。
-</p>
-<p class="transcript-line">
-<span class="time"><strong>[00:38:11]</strong> </span>
-<span class="speaker"><strong>发言人4: </strong></span>
-说比如说有的话就是说我既不能跟他说，也不能跟他说。
-</p>
-<p class="transcript-line">
-<span class="time"><strong>[00:38:15]</strong> </span>
-<span class="speaker"><strong>发言人1: </strong></span>
-是的。
-</p>
-<p class="transcript-line">
-<span class="time"><strong>[00:38:16]</strong> </span>
-<span class="speaker"><strong>发言人4: </strong></span>
-只能跟自己说。对，这样子我想可能大多数人可能都有这个情况。
-</p>
-<p class="transcript-line">
-<span class="time"><strong>[00:38:21]</strong> </span>
-<span class="speaker"><strong>发言人3: </strong></span>
-孤独的东亚男人了。
-</p>
-<p class="transcript-line">
-<span class="time"><strong>[00:38:24]</strong> </span>
-<span class="speaker"><strong>发言人5: </strong></span>
-那你以后就跟那个AI说呗。
-</p>
-<p class="transcript-line">
-<span class="time"><strong>[00:38:26]</strong> </span>
-<span class="speaker"><strong>发言人3: </strong></span>
-我就是说先跟AI说一轮再跟你说。
-</p>
-<p class="transcript-line">
-<span class="time"><strong>[00:38:30]</strong> </span>
-<span class="speaker"><strong>发言人4: </strong></span>
-所以说我觉得我都根本就没想到到时候deep c它还有这个功能。就是说我跟他说了以后，还有一个保密功能，谁也打不开。就是我我是不是录完了以后，假如我说我哪一天我要想听一下，还可以把它再调出来。
-</p>
-<p class="transcript-line">
-<span class="time"><strong>[00:38:42]</strong> </span>
-<span class="speaker"><strong>发言人3: </strong></span>
-可以对你还可以翻上去查一下你和他的聊天记录，回味一下。
-</p>
-<p class="transcript-line">
-<span class="time"><strong>[00:38:48]</strong> </span>
-<span class="speaker"><strong>发言人4: </strong></span>
-这样子。
-</p>
-<p class="transcript-line">
-<span class="time"><strong>[00:38:48]</strong> </span>
-<span class="speaker"><strong>发言人1: </strong></span>
-对对对，都可以。
-</p>
-<p class="transcript-line">
-<span class="time"><strong>[00:38:51]</strong> </span>
-<span class="speaker"><strong>发言人4: </strong></span>
-我觉得这所以说收到两位老师的这个指导。
-</p>
-<p class="transcript-line">
-<span class="time"><strong>[00:38:58]</strong> </span>
-<span class="speaker"><strong>发言人3: </strong></span>
-要不然今天回去就想用。
-</p>
-<p class="transcript-line">
-<span class="time"><strong>[00:39:00]</strong> </span>
-<span class="speaker"><strong>发言人1: </strong></span>
-太多的问题早就在肚子里了好吗？不不不。
-</p>
-<p class="transcript-line">
-<span class="time"><strong>[00:39:03]</strong> </span>
-<span class="speaker"><strong>发言人4: </strong></span>
-我是可能真实，其实我的对他的看法就是变了。
-</p>
-<p class="transcript-line">
-<span class="time"><strong>[00:39:06]</strong> </span>
-<span class="speaker"><strong>发言人3: </strong></span>
-叔叔说我前半生都没人跟我聊，我今天晚上回去跟他聊三天三夜。
-</p>
-<p class="transcript-line">
-<span class="time"><strong>[00:39:14]</strong> </span>
-<span class="speaker"><strong>发言人1: </strong></span>
-这个很有意思一点，第一这个dip为什么在尤其在中文的表达上会那么的让人舒服，对吧？某种程度来说确实有传闻是他们应该是找了非常多北大中文系的学生来做后面的对齐跟标注，对吧？那那北大中文在国内的这个地位大家都懂的对吧？这是很现实。第二一点很有意思，我想到一个问题，因为我们公司是做社交的，做社交软件的，我们天天研究的就是人与之间的沟通跟交流。这当然我们是用移动互联网的方式。
-</p>
-<p class="transcript-line">
-<span class="time"><strong>[00:39:45]</strong> </span>
-<span class="speaker"><strong>发言人1: </strong></span>
-然后这一轮AI里面在我们这个板块第一个被当然没有被特别证明特别大的成功，但至少非常多人在做的事情叫AI的输入法。AI的输入法就是我们打字不是要用输入法吗？拼音对吧？什么叫AI的输入法呢？主要应用的场景就是男女朋友之间。比如说我不太会跟女孩子聊天，一个女孩子给我发了一段什么话，我该怎么回我都不知道，交给爱来说。他直接在输入法上，我就把它复制过去，然后他直接给我挂一段话，我看差不多。我无论是改一改，还是我直接复制回去AI输入法。
-</p>
-<p class="transcript-line">
-<span class="time"><strong>[00:40:23]</strong> </span>
-<span class="speaker"><strong>发言人1: </strong></span>
-过去一段时间，应该中国有非常多的团队出了这样的产品。当然他你说他的商业它的最后浓度大，那是后面的事情。但至少在这个节点，为什么会这个功能被人发现，并且做出了产品那么多人用？其实跟我们刚才聊的是一样的，就是我们人与人之间的交流有很多的情景，很多的外围的因素，很多的东西导致的他的交流一定是有很多的波浪线、很多的边界、很多的障碍，甚至很多的别的完全畅通，2% 5组是不可能存在。这中间过程中有些人就是更接近厉害的人，有些人就没有那么厉害。他也希望得到更畅快的表达的时候，又有功能性了，又功利性了，对吧？他他就借助工具的方式来。
-</p>
-<p class="transcript-line">
-<span class="time"><strong>[00:41:05]</strong> </span>
-<span class="speaker"><strong>发言人3: </strong></span>
-你看为什么是男生要用这样的功能，女生就不用这样的功能？说明咱们至少咱们国家的男生是需要学会好好说话。
-</p>
-<p class="transcript-line">
-<span class="time"><strong>[00:41:15]</strong> </span>
-<span class="speaker"><strong>发言人1: </strong></span>
-好好沟通的。是的，这个没办法，对吧？我觉得这人人性或者东亚家庭带来的可能都是相关的，就是包括原生家庭带来可能都是相关的原因导致的。就是这个板块特别而且反过来像AI的，比如说女友跟I男友类的应用其实蛮多的。当然可能跟今天年轻人们的社交，尤其是疫情之间的交流这件事情的环境有关。但是你会发现这波大家希望用像电影一样那样，有一个类似AI陪伴的角色存在。现在的技术能力确实某种来说可以阶段性的实现。然后当然也有很多公司在尝试，可是从结果来看，至少截止到今天这个时间点，这些尝试都不是特别理想。
-</p>
-<p class="transcript-line">
-<span class="time"><strong>[00:41:57]</strong> </span>
-<span class="speaker"><strong>发言人1: </strong></span>
-可能又回到我们今天这个话题，下面的那个话题就是人与人之间的关系是一个极度复杂的命题。人类有文明以来，这个命题就一直没有什么标准答案跟绝对的正确。那今天当有了爱之后，这个命题变成了人与人的关系人，与AI的关系人，与AI与人的关系，甚至可能还有AI跟AI的关系。这个命题变得更加的复杂，且没有别人拿的。所以这可能也是当下这个时间点，很多尤其是非常资深的科研的大拿们，他们研究这些问题，研究到很深的地方。发现我们应该去研究佛学，应该去研究玄学，应该去研究那些东西去了。你甚至会发现在那些看上去玄幻的东西里面，有很多看起来可能跟今天我们讲的这个事情相关的一些道理，早就已经在几千年前就被圣人们所说过了。就跟那个观点是说，科学家很多科学家们穷尽一生攀登的高峰，攀登到的时候就会发现那些玄学大师早就站在那里了。
-</p>
-<p class="transcript-line">
-<span class="time"><strong>[00:43:07]</strong> </span>
-<span class="speaker"><strong>发言人1: </strong></span>
-对，很有可能这波AI就更是了，因为他这个事情你要知道，AI这波来临的前面叫神经网络。神经网络是谁的神经网络？是人类的神经网络。他他是这个事情才做了这样一个东西。而且很有意思一点，我觉得特别有意思。就是前两天我也是看听我朋友伯和仲卿，他说美国一个非常资深的博客的作者采访open原来最核心创始人伊利亚，就是最大最重要的技术负责人。然后他聊了很多关于这一轮AI的模型演进技术，然后他那个主持人就问了这样一个问题。他说你在这个整个的过程中，从你最开始研究到真正意义上做出来到让世界震惊的过程中，什么事情或者哪个时间点让你觉得特别的兴奋，或特别的有记忆，或者特别你觉得神奇。
-</p>
-<p class="transcript-line">
-<span class="time"><strong>[00:43:53]</strong> </span>
-<span class="speaker"><strong>发言人1: </strong></span>
-然后那个伊利亚你要知道伊利亚是可能是这个世界上现在最最牛逼的AI的专家。他他沉默了一下，然后他想了想，他说IT actually works。我们没有用任何的什么线界，什么边界就让他这么运行，就看上去跟人类就像了。我们甚至没有办法去拆解这件事情的里面的这些乱七八糟的他就像那这个东西是不是又跟人与人之间的关系协同，包括神经网络这些乱七八糟东西可能也是相关的。所以是不是没准我们再再漩涡点上面真的有一个神或者是什么东西在对吧？他在安排这些线，这些线可能原来是人与之间的线，现在又变得更复杂。然后这些线其实也没有什么绝对的线性的线。
-</p>
-<p class="transcript-line">
-<span class="time"><strong>[00:44:44]</strong> </span>
-<span class="speaker"><strong>发言人3: </strong></span>
-对，但是你知道吗？你刚才说你们公司在做，帮男生回复。
-</p>
-<p class="transcript-line">
-<span class="time"><strong>[00:44:48]</strong> </span>
-<span class="speaker"><strong>发言人1: </strong></span>
-我们没做，不是我们做的。
-</p>
-<p class="transcript-line">
-<span class="time"><strong>[00:44:51]</strong> </span>
-<span class="speaker"><strong>发言人3: </strong></span>
-说到这个软件的时候，我突然觉得我想象今天咱们这个命题如果是一场辩论赛的话，这个时候我就要跳票了。我就觉得说AAI有可能会加速人之间人际之间的冲突，就我刚才讲的那种，我建议大家或者我看到的我自己在使用的这种方式，其实是一种我认为我学会或者我努力的去运用AI。但是其实我还是求责于己，然后我是用AI帮我把我变得更好，然后希望能够处理我的情绪，更好的去跟他人沟通，然后更多的更。深的去体会这种人和人之间的关系，还有这种生命的感受。
-</p>
-<p class="transcript-line">
-<span class="time"><strong>[00:45:32]</strong> </span>
-<span class="speaker"><strong>发言人3: </strong></span>
-但是我又想到并不是所有人都能够好好的使用AI的，会有一些偷懒的用AI的方式，我觉得他有可能会加速人际之间的冲突。比方说像刚才庄老师说的，我就把他当成一个家庭调解员，他就是一个plus one。我把他加入进来，实际上就是我的潜台词，就是你应该承担我们这个家庭的所有的冲突和责任。如果解决不了的话，要不我就怪AI，要不我就怪别人。反正我已经甩出已经努力把这个plus one加进来了。
-</p>
-<p class="transcript-line">
-<span class="time"><strong>[00:46:05]</strong> </span>
-<span class="speaker"><strong>发言人3: </strong></span>
-我在想就刚才说那个创造一个AI帮男生去回复女生或者跟女生聊天这个事情本质上也是这样子的，他是一个runway。我觉得作恶就是你没有用科技来做对的事，你就是用做错的事情。因为AI不能替你去感受，AI不能替你去爱，AI不能替你去对别人付出真心。
-</p>
-<p class="transcript-line">
-<span class="time"><strong>[00:46:28]</strong> </span>
-<span class="speaker"><strong>发言人3: </strong></span>
-所以我觉得它其实是一个evil power。对。然后我觉得某种程度上来讲，如果它是一个很好的工具，但如果我们不会好好使用的话的话，人际的冲突是会增加的。因为尤其是我觉得比如说过去没有现在生成式AI的时候，会有什么会有这种网络虚拟伴侣，会有假的游戏、假男友、假女友。确实会存在一个情况，就是我想那些用户他们跟一个理想当中的虚拟的伴侣偶像待久了之后，很可能在现实生活当中他谁也看不上了，因为他觉得都离我那个理想型差了一些或者差多了。
-</p>
-<p class="transcript-line">
-<span class="time"><strong>[00:47:11]</strong> </span>
-<span class="speaker"><strong>发言人3: </strong></span>
-我觉得我陷入到了一种抽象的、完美的，但是虚假的关系当中。然后我不再去感受真实的物理世界里面人跟人之间的温度和感受，包括在家庭当中也是一样。如果我现在其实现在年轻人身上也非常的普遍，因为我们自己的世界非常的多彩，然后我们也拥抱新的技术。但可能父母还在原地，或者父母跟不上，你就会觉得说你就会有一种愤怒。就是说为什么你没有与时俱进呢？我跟你没有什么话可说，这个可能就是实际的一种现实的冲突了。所以我觉得其实它是有两面性的。
-</p>
-<p class="transcript-line">
-<span class="time"><strong>[00:47:48]</strong> </span>
-<span class="speaker"><strong>发言人2: </strong></span>
-对我我其实挺认同的。但首先先感谢两位老师提供了很多其实我们可能还不知道的用AI的场景，包括在家庭环境或者更广泛的跟更多人交流的一些场景，这个是我们之前可能还没有尝试过的，可以了解一下。然后其次其实我我觉得站在那个如果站在正方，他他他是可以没有正反方。如果说对，如果说我觉得他可以弥合代际关系，或者是弥合这些冲突，本心还是说我是希望AI作为一个工具来帮助我们这个事情变好的。所以在这个过程当中，AI不是代替我去完成这个事情，而是说是帮我解决一个问题。本心还是说我想要真诚的理解你我想要真诚的理解我的爸爸妈妈。但在这个过程当中，他们有一些想法，我我我不太确认。那这个时候AI不是派去跟他谈判的一个人，而是说AI告诉我我我要怎么样，去就就跟刚刚魏老师说的那个场景非常相似。所以我觉得如果脱离了我们这个本心的话，那可能AI就是会往反的方向去推动。
-</p>
-<p class="transcript-line">
-<span class="time"><strong>[00:48:55]</strong> </span>
-<span class="speaker"><strong>发言人2: </strong></span>
-其实也是，但我觉得这可能再再回过头来我又想到可能上一个时代的一些故事，就是其实我们家庭在之前的一些技术发展，或者产品出现的时候也有过冲突。就比如说是大概是当时有淘宝或者是这种支付宝网购，是网上支付的时候，那个时候也是当时我是我跟安吉尔，我们本来就喜欢购物，对，我们是比较开放的去拥抱这个线上购物的。但苏先生其实当时就是会说网上购物就是不安全，假的钱就是不资金，就是不安全我知道。他的本心是想要保护我们，但是这是我后来才意识到的。当下我可能会觉得说你为什么就是不允许我干这个事情？所以如果站在现在这个时代上，我再去看AI对于我们这个态度上产生的分歧。就是我觉得苏先生一定程度可能是想要保护我们，就不要被AI就是换的换角色所迷惑，不要说是觉得AI什么都是对的，还是我们要去关注我们自己的这这样去想的话，我就会觉得好，那我的那个冲突或者我的。
-</p>
-<p class="transcript-line">
-<span class="time"><strong>[00:50:03]</strong> </span>
-<span class="speaker"><strong>发言人1: </strong></span>
-就没那么坠地了。
-</p>
-<p class="transcript-line">
-<span class="time"><strong>[00:50:04]</strong> </span>
-<span class="speaker"><strong>发言人2: </strong></span>
-对，是没有那样的。所以这也是我们在不同的冲突，一代一代的冲突产生之后，才慢慢产生的一些思想。但是就会即便回归到当下，我们对一些AI的一些态度的不同，其实还是因为说现在可能没有一个很好。
-</p>
-<p class="transcript-line">
-<span class="time"><strong>[00:50:26]</strong> </span>
-<span class="speaker"><strong>发言人1: </strong></span>
-的对没有到。
-</p>
-<p class="transcript-line">
-<span class="time"><strong>[00:50:27]</strong> </span>
-<span class="speaker"><strong>发言人2: </strong></span>
-没有很熟，没有很熟练或者很成熟的一个场景，让我们都对他非常的信任。对这个事情我其实也挺想请教老师的。我觉得如果按照我们家庭过往的经验，时代的发展，技术的发展肯定会弥合这些让我们可能都understand page，都会熟练的应用它。但是我挺想要减缓这个过程的摩擦的。我特别想知道说这个过程当中怎么办？我们就静静等着时间推过去，推过去让时代来教育，让浪潮扑过来，还是说我们在这过程当中有一些可以去做。
-</p>
-<p class="transcript-line">
-<span class="time"><strong>[00:51:04]</strong> </span>
-<span class="speaker"><strong>发言人1: </strong></span>
-我觉得我今天在我今天上午看那个推送的时候，有一篇文章他写的很熟。他说大家现在不都焦虑AI会替代人类的工作，会担心那个吗？他说会的接受。
-</p>
-<p class="transcript-line">
-<span class="time"><strong>[00:51:19]</strong> </span>
-<span class="speaker"><strong>发言人1: </strong></span>
-但是今天的时间你可以做一些事情，他他就用了一个非常简单的。比如说你在日常的生活当中，一天一周要重复五次以上的事情是什么？就每一周重复一次，大概就是每工作日要你就要每天一次。这件事情有没有可能用更高效的方式去解决？你去想是工作中也好，生活中也好，沟通也好，录播课也好，什么也好，随便用一个硬性的标准一周干五次，有还是没有？
-</p>
-<p class="transcript-line">
-<span class="time"><strong>[00:51:47]</strong> </span>
-<span class="speaker"><strong>发言人1: </strong></span>
-有，如果你想主动的往前多迈两步，试一试，找一找方案。能不能让这个事情你比如以后一劳永逸的，可能他就自动的话他干了。如果有如果你发现尝试不太理想，也不要担心我们继续这样。但如果但凡你找到了那个所谓的突破口跟那个东西，这个事情就会变得更顺利。就是当时他又又特别的功利，特别的功能性，对吧？
-</p>
-<p class="transcript-line">
-<span class="time"><strong>[00:52:17]</strong> </span>
-<span class="speaker"><strong>发言人1: </strong></span>
-我跟刘飞我们原来也聊过这个事情，就是说日常生活中我们今天这个时间点能用的场景已经非常多，只不过现在没有太多的产品满足这种场景。比如说我举个例子，身边的比如说女性朋友特别愿意健身，或者愿意吃健康的食物，对吧？那大家会记录卡路里，就这些对吧？
-</p>
-<p class="transcript-line">
-<span class="time"><strong>[00:52:38]</strong> </span>
-<span class="speaker"><strong>发言人1: </strong></span>
-那今天视觉的识别能力跟I模型能力已经可以把这个事情搞定很好。他也不需要特别的复杂的交互，拍照片问一下结束了。那这个事情本来你就要干，对吧？原来你还要用各种工具，还要记录，要主动的这样，那今天顺手就弄了，那他慢慢就会你但凡今天的时间点比德国人多迈一步，其实你对这个浪潮的迎接跟感觉就完全的不一样。所以我觉得你们已经站在非常前面非常非常前面的位置了。对，就是已经没有必要那么焦虑这件事情了。我是这么觉得。
-</p>
-<p class="transcript-line">
-<span class="time"><strong>[00:53:09]</strong> </span>
-<span class="speaker"><strong>发言人3: </strong></span>
-对我刚才就开场之前，我就说我们咱们家我们家庭的这个氛围，就是在气质氛围上面跟你们家很像。但是我感觉我跟你就不太像你会你会给爸爸妈妈布置任务，然后你会你刚才用了一个词，你说这个大概的意思就是你希望我们都能够很好的用上AI，高效的用上AI我的第一反应。
-</p>
-<p class="transcript-line">
-<span class="time"><strong>[00:53:33]</strong> </span>
-<span class="speaker"><strong>发言人1: </strong></span>
-是。
-</p>
-<p class="transcript-line">
-<span class="time"><strong>[00:53:34]</strong> </span>
-<span class="speaker"><strong>发言人3: </strong></span>
-为什么我爸妈为什么要高效的用上AI他们已经退休了。我觉得如果像我跟我爸妈说，我觉得你们现在最重要的任务就是快乐。对你觉得你怎么样能够把你现在的这个生活搞得非常快乐，我觉得你就应该去做。所以我妈现在到处玩，然后我觉得用好AI的点有一个前提，就是你可以用它先处理你的真需求。我觉得就是我特别想提醒所有的孩子们，就是我觉得不要用我们的这个。
-</p>
-<p class="transcript-line">
-<span class="time"><strong>[00:54:06]</strong> </span>
-<span class="speaker"><strong>发言人3: </strong></span>
-其实我们小的时候，如果觉得父母对我很很粗暴，或者是让我有不好的感受，很有可能是因为父母把他的意志强加在我身上。对我来说我小的时候可能就是想要去公园玩，我就想要画画，我就想要养一条狗。你为什么我妈非要送我去练练芭蕾，然后玩弹钢琴呢？我觉得现在也是一样的，我其实是希望我父母自己快乐，然后我平时用好AI做我的工作，做我的事业，这又不是我爸妈的事业，我爸妈愿意干嘛他们但是我会跟他们说，比如说我妈现在到处玩，你看你如果能够用好AI的话，你就可以一天之内玩遍扬州？就是我觉得我们每个人用好AI，可以先从自己的真需求开始。我觉得刚才叔叔虽然话说的不多哈，但是我已经看到了你眼中的对AI的一个热情。因为当他发现我说原来你可以跟AI谈心，可以把你的委屈诉说给他的时候，叔叔这个时候心里就在想了，我人生前几十年的委屈终于有地方可以说了，是不是？
-</p>
-<p class="transcript-line">
-<span class="time"><strong>[00:55:16]</strong> </span>
-<span class="speaker"><strong>发言人2: </strong></span>
-赶快回答。
-</p>
-<p class="transcript-line">
-<span class="time"><strong>[00:55:19]</strong> </span>
-<span class="speaker"><strong>发言人4: </strong></span>
-这个怎么说呢？这个我和A说。
-</p>
-<p class="transcript-line">
-<span class="time"><strong>[00:55:24]</strong> </span>
-<span class="speaker"><strong>发言人3: </strong></span>
-对，叔叔肯定就回去就想讲了。就是说我觉得基于我们每个人的真需求，跟AI交互的过程当中，你就会发现他的能力边界，然后你也会更理解他。我觉得这就叫用好了。并不一定说我们要用来提高我们的工作效率。
-</p>
-<p class="transcript-line">
-<span class="time"><strong>[00:55:39]</strong> </span>
-<span class="speaker"><strong>发言人2: </strong></span>
-然后换赚多少钱是吧？
-</p>
-<p class="transcript-line">
-<span class="time"><strong>[00:55:41]</strong> </span>
-<span class="speaker"><strong>发言人3: </strong></span>
-是的，对我觉得不用有这个包袱，这个是我觉得第一点。第二点是还是会认为AI是一个礼物，就是这个礼物我们可以用来更好的了解自己，了解他人。所以我觉得咱们可以先从和AI对话来了解自己开始。因为其实我觉得每个人的一生的课题，其实就是认识自己。
-</p>
-<p class="transcript-line">
-<span class="time"><strong>[00:56:05]</strong> </span>
-<span class="speaker"><strong>发言人3: </strong></span>
-我真的不觉得这件事情谁天生就是做的特别好，我们需要用一辈子的时间。但我为什么觉得对这个事儿充满很信心呢？是因为我想了一下我这一代，虽然我在一个特别开明的家庭里长大，但是我父母很少不是很少，是几乎没有说过我爱你。所以我长大之后发现一个特别奇怪的事儿，就是当我谈恋爱的时候，我跟一个人在一起很久，我就能够对他说说出我爱你。很自然，我跟我的朋友也可以说我爱你，但是我跟我的父母真的说不出口，我爸爸妈妈也不会对我说我爱你。这一代的这一代人就是没有这个习惯。但是我相信可能从庄老师这一代，从我们这一代，如果我们以后有了自己的孩子，可能我爱你就是随口而来的。它就是一个西方的这种家庭文化的表达了。
-</p>
-<p class="transcript-line">
-<span class="time"><strong>[00:56:55]</strong> </span>
-<span class="speaker"><strong>发言人3: </strong></span>
-包括我也很推荐大家去看一个美剧叫摩登家庭。我觉得我在在亲密关系也好，家庭的这种相处方式当中，很多的灵感都是来自于这部美剧。我们可以去感受一下为什么美国的文化确实特别包容，这种包容全部体现在这个家庭身上。
-</p>
-<p class="transcript-line">
-<span class="time"><strong>[00:57:15]</strong> </span>
-<span class="speaker"><strong>发言人3: </strong></span>
-父母和子女之间直呼其名，就像平等的朋友一样相处。其实我觉得这个真的是东亚所缺失的。所以我想说，对于我我其实对我的父母从来没有任何怨怼。因为我可能因为我是当记者的当记者的人听了很多各种各样的故事，你学会去理解别人的人生，所以我觉得我拥有这个能力。
-</p>
-<p class="transcript-line">
-<span class="time"><strong>[00:57:38]</strong> </span>
-<span class="speaker"><strong>发言人3: </strong></span>
-我当我觉得我父母为什么会这么想这么做的时候，下一下一秒我就会想说，他成长的那个时代跟我们这个时代是不一样的。他们是从他们的来处来和我们不一样。所以他们在他们成长的这个过程当中，没有人没有互联网去教他们你要怎么对待父母，怎么对待孩子，怎么对待伴侣。但是从我们这一代开始，也如果我们让AI加入我们的生活，其实我们就可以开始学习应该如何对待你周遭身边所有的人。所以从这个角度来看，我认为它是具有神性的。就是我们每个人去信教，其实就是心里面有一个神指引着我去走，去面对生活当中的各种各样的挑战，去爱和被爱。所以AI其实某种程度上就是这么一个神性的东西。如果你能够用好它去做对的事情的话，你就会更更沉浸式，然后更有力量的去走好自己的这个旅程。
-</p>
-<p class="transcript-line">
-<span class="time"><strong>[00:58:38]</strong> </span>
-<span class="speaker"><strong>发言人2: </strong></span>
-我我我悟了，就是不是这样子。其实刚刚魏老师在讲的过程当中，我就包括我之前自己讲的时候就有点感觉到了。可能我现在的这个想法，就是我小时候被对待的这个状态出现。我小时候就是那种被逼着学书法、学钢琴，你考试就得考题，就是这样。所以我现在在这个AI过程当中，我发现他极大的提升我的生产力，让我快乐，让我变得outstanding的过程。
-</p>
-<p class="transcript-line">
-<span class="time"><strong>[00:59:04]</strong> </span>
-<span class="speaker"><strong>发言人2: </strong></span>
-我会觉得说对对对，父母如果你们不做，你们就要被淘汰了。上一代没有用智能手机的人，现在已经抢不到火车票了，我很担心。所以我就会用这种方法来告诉他们，我觉得这样是对的，这样会保护你们。但是其实每个人都有自己去拥抱时代的节奏跟方法。
-</p>
-<p class="transcript-line">
-<span class="time"><strong>[00:59:22]</strong> </span>
-<span class="speaker"><strong>发言人2: </strong></span>
-我后来又想到说，其实可能比如说苏先生他并不是不用。我想起来在我们一起去日本的时候，当我想要去买一个东西，然后苏先生甚至他自己掏出了那个翻译器，就是去讲中文，跟营业员去用得到那个英日文的那个回答。所以我觉得其实他他是有真的在这些细节跟场景里面有在拥抱这些。只是说可能并对于AI这个大的概宏大的概念可能跟我们的这个理解还不太一样。所以我现在想到的是，其实有很多很多的场景，我们都可以一起去让这个家庭关系变得更好更便利。也就没有必要再去执着说在每一件事情的这个态度上面，应用上面都要强迫的对，就是都要步调一致。我觉得这个很难。
-</p>
-<p class="transcript-line">
-<span class="time"><strong>[01:00:11]</strong> </span>
-<span class="speaker"><strong>发言人3: </strong></span>
-对我可以再分享一个吗？阿姨你现在要不你先说。
-</p>
-<p class="transcript-line">
-<span class="time"><strong>[01:00:14]</strong> </span>
-<span class="speaker"><strong>发言人5: </strong></span>
-没有，刚才就是我听了魏老师的那些场景的应用，我感觉真的我更喜欢他了。因为我觉得本质上还是好学的，所以刚才就是说了兰诺尔说是在剖析我们的这个学习，我没有觉得难受，可能是也我也习惯了，可能是这种感觉，大概这是我们的交互的一种形式。但还有一个我也想说一下，就是我们苏先生他就是对AI的这种有点拒绝。我觉得可能是我们家里面对于安全的这道防线一种一种保护。我觉得我也其实也谢谢他，就是让我们更加警惕一些，就是产生这种幻觉。
-</p>
-<p class="transcript-line">
-<span class="time"><strong>[01:00:57]</strong> </span>
-<span class="speaker"><strong>发言人4: </strong></span>
-这样我觉得这个可能你说的是不用AI保护你们，这个可能是不太可能的事，为什么呢？因为这个AI的AI我觉得是非常强大的。我可能抗拒他，就是因为我开始的时候对他的接受的时候，我觉得他有一点可能不够成熟，不够安全。但是我自己实际上在内心的我是我也知道如果在这个时代你不去应用AI你就会很快被淘汰。因为AID的特别快，是的，特别快。就是我在想我就是心里实际上在想，我什么时候开始用这个AI呢？或者是用哪一个AI？其实也是自己在想到底用哪个好。
-</p>
-<p class="transcript-line">
-<span class="time"><strong>[01:01:39]</strong> </span>
-<span class="speaker"><strong>发言人4: </strong></span>
-比如说我们单位的年轻的同志，我们当时那个deep sip刚出来时间不长，他们就去说，我们去问问他一个问题。问了以后，他反问的一个结果我们就是觉得他不太不太这个不太够。就是说他给了答案以后给出的数据说此数据终于2024年7月31号，而我们这个已经过去了几个月了，也就是说就是你这个数据好像有点过时了。我这个是一个原因，还有就是我我其实对这个数人工工智能这一块，也偷偷的或者说自己是了解一下的。可以的，用的时候，好像是在慢慢的抵制，但是的话也是很想去接受有这份。
-</p>
-<p class="transcript-line">
-<span class="time"><strong>[01:02:30]</strong> </span>
-<span class="speaker"><strong>发言人1: </strong></span>
-心的心里有这份心已经领先非常多人了。
-</p>
-<p class="transcript-line">
-<span class="time"><strong>[01:02:33]</strong> </span>
-<span class="speaker"><strong>发言人3: </strong></span>
-我觉得我分享一个具体的建议，给大家分享一下。好好，马上，快结束了。
-</p>
-<p class="transcript-line">
-<span class="time"><strong>[01:02:39]</strong> </span>
-<span class="speaker"><strong>发言人1: </strong></span>
-是已经结束了。真的。对，我们已经到时间了。
-</p>
-<p class="transcript-line">
-<span class="time"><strong>[01:02:42]</strong> </span>
-<span class="speaker"><strong>发言人3: </strong></span>
-我们不是七点半吗？
-</p>
-<p class="transcript-line">
-<span class="time"><strong>[01:02:43]</strong> </span>
-<span class="speaker"><strong>发言人1: </strong></span>
-不是，对，我们七点半到八点半。
-</p>
-<p class="transcript-line">
-<span class="time"><strong>[01:02:45]</strong> </span>
-<span class="speaker"><strong>发言人3: </strong></span>
-1个小时，好吧。最后一个我觉得在对大家都有用的，就是我之前采访过谷歌deep man的一个科学家。然后他分享的对我来说非常有用的一个建议，就是我们每个人可以把AI当成阿拉丁神灯里面的那个神灯。如果它是一个从天而降的一个super power的话，你会用它来做什么？就是你先不管他能做到什么样，对，我们先对它许愿，我相信每个人都有很多的愿望，因为人性是贪婪的，所以就可以多试一下，然后看看他会不会在这些愿望上给你有所启发。我觉得这个叔叔回去就可以开始许愿了。好，谢谢大家。
-</p>
-<p class="transcript-line">
-<span class="time"><strong>[01:03:27]</strong> </span>
-<span class="speaker"><strong>发言人1: </strong></span>
-先这样感谢大家收听，谢。
-</p>
-<p class="transcript-line">
-<span class="time"><strong>[01:03:29]</strong> </span>
-<span class="speaker"><strong>发言人2: </strong></span>
-然后谢谢大家。
-</p>]]></content:encoded>
-            <pubDate>Fri, 23 May 2025 16:00:00 GMT</pubDate>
-            <guid>68301f34457b22ce0d24af80</guid>
         </item>
     </channel>
 </rss>
