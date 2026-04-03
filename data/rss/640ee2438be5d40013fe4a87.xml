@@ -4,7 +4,645 @@
         <title>硬地骇客</title>
         <link>https://www.xiaoyuzhoufm.com/podcast/640ee2438be5d40013fe4a87</link>
         <description>一起探讨技术、产品和商业之美</description>
-        <lastBuildDate>Mon, 16 Mar 2026 02:05:20 +0800</lastBuildDate>
+        <lastBuildDate>Sat, 04 Apr 2026 05:37:02 +0800</lastBuildDate>
+        <item>
+            <title>EP124 为什么 Agent 时代，CLI 反而成了最优解？⚡</title>
+            <link>https://www.xiaoyuzhoufm.com/episode/69caa449e2c8be3155f03013</link>
+            <description>如果你还在“听播客”，那你可能已经错过了下一代的信息消费方式。
+这期节目，我们从一个看似技术选型的问题出发——为什么不做 API / SDK，而是选择 CLI。一路聊到了一个更本质的变化：当用户从“人”变成“Agent”，软件该如何重新设计？
+安装 Podwise Skills：
+for Openclaw：
+clawhub install podwise
+On Claude Code / Codex / Opencode
+npx skills add hardhackerlabs/podwise-cli
+Podwise 最新发布的 CLI + Skills，不只是一个工具更新，更像是把播客从“内容”升级成“可调用的能力”。你不再需要一条条听完节目，而是可以直接搜索、拆解、组合、导出，让 AI 帮你完成一整套信息处理流程。从“听内容”到“调能力”，信息获取的范式正在被重写。
+我们聊了很多关键问题：
+* 为什么 CLI 反而成了 Agent 时代最自然的接口？
+* 为什么传统 SaaS 的 API 思路正在失效？
+* Workflow vs Agent，产品的“确定性”和“无限组合”该如何取舍？
+* 为什么你会不知不觉中消耗更多内容，甚至更多 token？
+* 以及——未来的软件，是不是只剩下“原子能力 + AI 组合”？
+如果你是开发者，这期会帮你重新思考产品架构；
+如果你是重度信息消费者，这期可能会直接改变你的学习方式。
+也许不久之后，“听播客”这件事本身，就会变得有点过时了。
+本shownotes由 castwise.ai 制作
+Podwise - Podcast Knowledge at 10x Speed!
+podwise.ai
+Apple Store 下载👉🏻 apps.apple.com
+硬地笔记
+Part 1: 背景与核心理念
+00:04Podwise 发布 CLI 和 Skills 的原因：用户场景推动与 Agent 需求进化
+01:16为什么选择 CLI 而非 API 或 SDK：反传统 SaaS 服务方式
+05:15Agent 生态推动 CLI 普及：Obsidian 和 Podwise 的案例
+Part 2: CLI 功能设计与原则
+07:05Podwise CLI 的功能设计：四大类原子能力与内容发现的重要性
+11:27CLI 设计：兼顾人类与 Agent 用户，提供可渲染选项与 TTY 环境判断
+14:51CLI 设计原则：管道、谜等、非交互式、Help 信息与错误信息
+Part 3: Skills 扩展与 AI 结合
+19:18Podwise Skills：基于 CLI 的工作流能力，实现自然语言调用与动态工具链
+24:30LLM 与 CLI 的化学反应：无限排列组合与动态组合系统
+27:38Agent 是新时代的魔法：颠覆低代码/无代码平台，交付结果更直接
+Part 4: 用户体验与商业模式
+30:36Podwise Skills 体验：Token 消耗与播客消费量成倍增长
+33:40AI 时代的内容消费：效率提升与 Token 消耗的性价比
+36:49Podwise CLI 与 Skills 的商业模式：免费开源与滚动窗口限制
+Part 5: 架构建议与安装指南
+38:54软件架构建议：API 优先、逻辑放到 CLI 与服务端做核心业务
+45:51安装 Podwise Skills 与反馈渠道
+欢迎关注我们
+* 知识星球:t.zsxq.com
+* 官网: hardhacker.com
+* 小手册: book.hardhacker.com
+* 用爱发电不容易，请我们喝咖啡☕️: afdian.net
+* 公众号/小红书: 硬地骇客
+* 商务合作: hardhackerlabs@gmail.com
+* 另外，现在加入「硬地骇客」会员服务，即可在会员专属的微信群与其他朋友一起畅所欲言，成为会员也是对我们持续更新最大的鼓励！</description>
+            <content:encoded><![CDATA[<h1>转写链接</h1>
+<link>https://tongyi.aliyun.com/efficiency/doc/transcripts/wg57n3wa2eay9kr3</link><br>
+<h1>节目摘要</h1>
+<div class="summary">播客主人们讨论了开发和应用CLI（命令行接口）在AI技术中的优势，指出CLI相比传统API和SDK，能显著减少用户的认知负担，提升操作效率。他们强调了CLI在自动化流程、知识管理工作流中的应用价值，并探讨了通过CLI和定制功能（Skills）来增强AI工具实用性的可能。讨论还触及了AI自动生成代码和文档，以及如何利用AI辅助提升生产力的前景。最后，播客主人们鼓励听众尝试他们的CLI和Skills，并邀请大家分享反馈和疑问，以促进技术交流和进步。</div><br>
+<h1>章节速览</h1>
+<div class="chapters">
+<div class="chapter-item">
+<span class="time"><strong>[00:00:00]</strong> </span>
+<span class="chapter-title"><strong>AI学习软件助力播客内容消化</strong></span>
+<div class="chapter-summary">介绍了一款名为Model wise的AI学习软件，它能对播客内容进行转录、总结等处理，帮助用户更高效地理解硬核内容。该软件还与多个平台打通，支持知识管理，并为本期听众提供了优惠码。</div>
+</div>
+<div class="chapter-item">
+<span class="time"><strong>[00:00:46]</strong> </span>
+<span class="chapter-title"><strong>PODAYS CLI开发：面向Agent的友好工具</strong></span>
+<div class="chapter-summary">讨论了为何选择开发CLI而非API或SDK，强调CLI作为面向Agent的清晰、无歧义接口的重要性，回归CLI作为人机交流基础通道的本质，简化使用复杂度。</div>
+</div>
+<div class="chapter-item">
+<span class="time"><strong>[00:03:30]</strong> </span>
+<span class="chapter-title"><strong>CRI与CLI在Agent生态中的重要性及优势</strong></span>
+<div class="chapter-summary">讨论了CRI和CLI在Agent生态中的关键作用，指出它们提供了低认知负担的自然输入输出方式，便于工具组合与调用，相比API更加便捷，降低了软件接入Agent的综合成本，加速了功能复用与开发效率。</div>
+</div>
+<div class="chapter-item">
+<span class="time"><strong>[00:06:22]</strong> </span>
+<span class="chapter-title"><strong>CLI与AIA生态：软件升级的外卖模式</strong></span>
+<div class="chapter-summary">对话通过堂食与外卖的比喻，阐述了CLI在软件中的应用及与AIA生态的融合，强调了CLI为现有软件带来的新能力与面向不同用户群体的扩展性，讨论了如何在不改变核心体验的前提下，利用CLI构建新的服务模式。</div>
+</div>
+<div class="chapter-item">
+<span class="time"><strong>[00:07:37]</strong> </span>
+<span class="chapter-title"><strong>SaaS平台COI能力设计：聚焦四大原子功能</strong></span>
+<div class="chapter-summary">讨论了SaaS提供商在开发COI能力时可能遇到的问题，强调不应简单地将Web版功能移植到CLI上，而是要聚焦于提供四大原子能力：发现、处理、获取结果和导出，特别是强调了发现能力的重要性，以支持AI和自动化工作流的精准内容定位。</div>
+</div>
+<div class="chapter-item">
+<span class="time"><strong>[00:11:26]</strong> </span>
+<span class="chapter-title"><strong>CLI设计兼顾人类与Agent用户的方法</strong></span>
+<div class="chapter-summary">讨论了在设计CLI时如何平衡满足人类用户和Agent用户的需求，提出了通过提供开关选项，使CLI在TTY环境下以丰富的视觉效果呈现给人类用户，而在非TTY环境下则采用简洁的文本输出以适应Agent使用，实现了两者的兼容与优化。</div>
+</div>
+<div class="chapter-item">
+<span class="time"><strong>[00:14:57]</strong> </span>
+<span class="chapter-title"><strong>面向Agent的CLI设计原则探讨</strong></span>
+<div class="chapter-summary">对话深入探讨了面向Agent的命令行接口（CLI）设计原则，强调了管道支持、幂等性、非交互式操作、清晰的help信息、指导性的错误信息及结构化输出的重要性。这些原则旨在提升CLI在自动化场景下的友好性和效率，确保Agent能够更顺畅地组合使用各种工具，处理错误并理解输出。</div>
+</div>
+<div class="chapter-item">
+<span class="time"><strong>[00:19:18]</strong> </span>
+<span class="chapter-title"><strong>CLI与Skills：提升AI代理能力的关键</strong></span>
+<div class="chapter-summary">对话强调了在CLI设计中提供清晰示例的重要性，以降低AI代理的失误率。同时，介绍了如何通过Skills实现工作流自动化，将复杂任务简化为自然语言调用，从而提升AI代理的执行效率和用户体验。</div>
+</div>
+<div class="chapter-item">
+<span class="time"><strong>[00:22:22]</strong> </span>
+<span class="chapter-title"><strong>AI与CLI结合的化学反应：无限可能的智能系统</strong></span>
+<div class="chapter-summary">对话探讨了AI与CLI结合产生的化学反应，指出传统SaaS固定工作流的局限性，而AI驱动的动态组合系统能根据用户临时需求生成无限可能的解决方案，展现了AI应用架构设计中Agent模式的旺盛生命力和魔幻体验。</div>
+</div>
+<div class="chapter-item">
+<span class="time"><strong>[00:27:36]</strong> </span>
+<span class="chapter-title"><strong>低代码平台与AI大模型：新时代的魔法</strong></span>
+<div class="chapter-summary">讨论了低代码/无代码平台通过封装原子能力和提供编排机制解决自由度问题，但指出用户仍需专业知识进行复杂操作。AI大模型直接提供结果，简化了过程，提升了用户体验，建议持续迭代的低代码平台应考虑转型或停止维护，强调AI技术在流程编排中的新体验和对传统平台的颠覆。</div>
+</div>
+<div class="chapter-item">
+<span class="time"><strong>[00:30:34]</strong> </span>
+<span class="chapter-title"><strong>大模型助力内容消费与效率提升</strong></span>
+<div class="chapter-summary">通过使用Pod Wise技能，不仅显著增加了token消耗量，还大幅提高了播客内容的阅读效率。以研究David Singleton为例，Pod Wise快速处理并汇总了他参与的播客内容，展示了其在内容消费上的高效能力。此外，大模型在编码领域的应用也极大提升了工作效率，通过高速阅读和理解文档，减少了程序员在方案设计上的时间消耗，实现了从内容消费到产出的高效转换。</div>
+</div>
+<div class="chapter-item">
+<span class="time"><strong>[00:33:41]</strong> </span>
+<span class="chapter-title"><strong>AI辅助消费与CLI/Skills商业模式探讨</strong></span>
+<div class="chapter-summary">讨论了AI在内容消费中的应用，如通过AI助理快速阅读和总结文档，提高了效率但也增加了成本。提及了娱乐与工作场景下AI使用的性价比差异，以及token消耗的争议。分享了CLI和skills的商业模式，包括免费开源、成本高昂的转录服务及针对高价值功能的滚动窗口限制策略，同时提到了推广期为特定用户提供专属AI处理配额的优惠。</div>
+</div>
+<div class="chapter-item">
+<span class="time"><strong>[00:38:53]</strong> </span>
+<span class="chapter-title"><strong>面向Agent的产品架构设计与前后端分离策略</strong></span>
+<div class="chapter-summary">对话讨论了在开发新产品时，如何设计软件架构以适应Agent使用，强调API优先的前后端分离策略，建议将更多逻辑置于CLI实现，减轻服务端压力，专注于提供核心业务能力，同时利用本地计算资源增强功能扩展性。</div>
+</div>
+<div class="chapter-item">
+<span class="time"><strong>[00:43:01]</strong> </span>
+<span class="chapter-title"><strong>将PDF转换能力沉淀为原子能力提升产品体验</strong></span>
+<div class="chapter-summary">讨论了将PDF转换功能沉淀为原子能力的重要性，以减少token消耗并提高用户体验。同时，强调了服务端与客户端配合设计的价值，以及如何根据产品特性决定开源策略。最后，介绍了如何通过不同平台安装和使用相关工具。</div>
+</div>
+</div><br>
+<h1>问题回顾</h1>
+<div class="qa-item">
+<div class="question"><strong>Q:</strong> 为什么PODOYS选择开发CLI而不是API或SDK来提供给用户？</div>
+<div class="answer"><strong>A:</strong> 选择开发CLI是反传统SaaS服务提供方式的一种体现，相较于复杂的API和SDK，CLI旨在提供一个干净、易用且无需复杂认知负担的接口给agent直接使用。</div>
+</div>
+<div class="qa-item">
+<div class="question"><strong>Q:</strong> CLI相较于API有哪些优势？</div>
+<div class="answer"><strong>A:</strong> CLI作为可组合的文本接口，降低了认知负担，用户可以轻松使用并组合多种工具，实现灵活的功能。而API通常需要程序员编程并结合文档理解使用，相对不友好且复杂。</div>
+</div>
+<div class="qa-item">
+<div class="question"><strong>Q:</strong> 在agent生态中，为什么CLI及skills成为接入综合成本最低的方式？</div>
+<div class="answer"><strong>A:</strong> 使用CLI接入agent时，AI调用方便，用户安装调试也更便捷，同时开发复用性高，能快速调用软件已有能力。这就像在堂食餐饮的基础上加上外卖服务，门店能力得以复用，只需接入外卖平台和设置取餐区即可。</div>
+</div>
+<div class="qa-item">
+<div class="question"><strong>Q:</strong> power wise的CLI当前具备什么能力？</div>
+<div class="answer"><strong>A:</strong> 由于时间关系，具体介绍power wise CLI当前能力细节并未给出，但提及了它作为软件接入agent的综合成本最低方式，并强调了其便捷性和易用性。</div>
+</div>
+<div class="qa-item">
+<div class="question"><strong>Q:</strong> 在SaaS提供方转向提供COI时，团队可能会犯的错误是什么？</div>
+<div class="answer"><strong>A:</strong> 团队可能会错误地将外部版SARS的所有功能无节制地迁移到CLI上，导致最终生成的CLI臃肿且不好用，对用户体验不佳。</div>
+</div>
+<div class="qa-item">
+<div class="question"><strong>Q:</strong> 在设计CI时，团队如何决定CLI应该模仿SaaS服务的哪一部分？</div>
+<div class="answer"><strong>A:</strong> 这确实是一个需要深入思考的问题，其中涉及到取舍。团队不能原封不动地把SARS功能搬到CLI上，而应精简并提炼出核心功能，以实现一个易用且高效的CLI。</div>
+</div>
+<div class="qa-item">
+<div class="question"><strong>Q:</strong> 在构建provides的CLI时，团队将功能划分为哪几大类？</div>
+<div class="answer"><strong>A:</strong> 团队将已有的功能主要分为四大类：发现（内容搜索）、处理（音频、视频或文件处理）、获取结果（组织稿等总结结果导出至外部平台）和交互（四大类原子能力的组合与应用）。</div>
+</div>
+<div class="qa-item">
+<div class="question"><strong>Q:</strong> 在设计CLI时，如何平衡面向人类用户和agent用户的调用需求？针对面向人的设计，团队采取了什么特别技巧来兼顾人类和agent用户？</div>
+<div class="answer"><strong>A:</strong> 设计上需权衡考虑，虽然CLI本质上是为了方便agent调用，但也应满足人类用户的使用场景。例如，提供可视化增强的“human-friendly”模式，但确保此模式仅在终端TY环境下发挥作用，避免影响非TY环境下的agent正常运行。团队提供了一个单独的选项以支持人类用户，当此选项被开启时，结果会进行渲染，包括颜色和动画效果。同时，为了防止A镜头误用，当检测到非TY环境时，会自动切换回纯文本方式输出，保证了不同环境下输出的兼容性和安全性。</div>
+</div>
+<div class="qa-item">
+<div class="question"><strong>Q:</strong> 在CRI设计原则中，为什么管道功能非常重要？</div>
+<div class="answer"><strong>A:</strong> 管道功能非常重要是因为它能够实现输入输出的灵活重定向，而许多CRI在这方面做得不够好，仅提供直接写入文件等基本功能。利用管道，agent在编排时可以更好地整合和利用系统中的命令行工具，从而提高最终组合效果。</div>
+</div>
+<div class="qa-item">
+<div class="question"><strong>Q:</strong> 为什么CRI需要支持交互式界面？</div>
+<div class="answer"><strong>A:</strong> CRI不需要交互式界面是因为它们基于文本工作，理解并处理纯文本输入。此外，交互式界面可能导致操作过程繁琐且不友好，尤其对于自动化agent而言，无法像人类那样根据视觉提示进行交互。</div>
+</div>
+<div class="qa-item">
+<div class="question"><strong>Q:</strong> 清晰的帮助信息和错误信息在CRI设计中有多重要？</div>
+<div class="answer"><strong>A:</strong> 清晰的帮助信息至关重要，因为它能指导agent根据参数提示进行正确调用；而错误信息同样关键，应当能够提供明确指导，帮助agent在出现认证失败等问题时知道如何去进行下一步行动，而非仅显示常规的编程式错误信息。</div>
+</div>
+<div class="qa-item">
+<div class="question"><strong>Q:</strong> 输出结构化内容在CRI设计中的作用是什么？</div>
+<div class="answer"><strong>A:</strong> 输出结构化内容是为了确保信息表达清晰，便于理解各个字段的内容。现今常用的输出格式如JSON或Markdown等，都应保证语义清晰，让agent能够准确解析并执行相应操作。</div>
+</div>
+<div class="qa-item">
+<div class="question"><strong>Q:</strong> 如何解释CRI中的工作流能力？</div>
+<div class="answer"><strong>A:</strong> 工作流能力是指在CRI之上，通过skills提供一系列预设的操作，可以将复杂的多步骤任务转化为一句简单的自然语言调用。例如，用户只需提出一个完整流程的需求（如“找到最近关于AI agent的播客并导出至Notion”），系统就能自动拆解并执行一系列相关命令，如search、process、get transcription、summer和export，形成完整的自动化工作流程。</div>
+</div>
+<div class="qa-item">
+<div class="question"><strong>Q:</strong> 在PODWYS中，用户可以实现什么样的个性化体验？</div>
+<div class="answer"><strong>A:</strong> 用户可以在PODWYS中通过参数化和嵌套功能来描述任务，将原本的过程式编程转变为声明式编程。例如，用户可以让PODWYS总结本周的博客周报，回顾自己看过的播客，并学习外语，记录当前英语水平，下次遇到新播客时帮助提取生词和地道表达。此外，PODWYS还内置了苏格拉底式的问答功能，可以深入探讨诸如世界模型与大语言模型之间的区别等话题。</div>
+</div>
+<div class="qa-item">
+<div class="question"><strong>Q:</strong> PODWYS中的智能如何在CLI层面产生神奇的化学反应？</div>
+<div class="answer"><strong>A:</strong> PODWYS内置的智能作用于CLI时，能自动拆解自然语言指令为多个CI命令调用，这种结合产生了许多意想不到的效果，比如在执行流程时mock flow的自动化处理。而使用API或SDK时则无法获得这种体验。这种“化学反应”源于排列组合的增强，使得AI能够根据用户需求动态生成系统形态，而非依赖固定的业务流程。</div>
+</div>
+<div class="qa-item">
+<div class="question"><strong>Q:</strong> AI智能带来的高度自动化如何改变SaaS产品的形态和上限？</div>
+<div class="answer"><strong>A:</strong> 随着像LLM这样的智能技术带来的高度自动化，传统的SaaS服务基于固定编排的工作流，其上限相对较低。而现在，AI智能可以动态生成系统，根据用户的临时需求实时调整产品形态，从而实现无限可能的产品组合和形态变化，极大地提升了产品生命力和灵活性。</div>
+</div>
+<div class="qa-item">
+<div class="question"><strong>Q:</strong> 如何看待AI应用架构设计中work flow与agent的争论？</div>
+<div class="answer"><strong>A:</strong> 在AI应用架构设计中，争论的核心在于使用固化好的work flow还是灵活的agent。传统的work flow优点在于稳定，但想象力上限较低；而通过AI技术，尤其是AIGC方式，产品形态更加生动活泼，能够根据用户实时需求迭代变化，生命力更强。</div>
+</div>
+<div class="qa-item">
+<div class="question"><strong>Q:</strong> 低代码或无代码平台与CII（大模型）之间的区别是什么？</div>
+<div class="answer"><strong>A:</strong> 低代码或无代码平台提供封装好的原子能力和编排机制，让用户通过可视化工具或DSL自行实现需求，虽然提供了确定性和可能性，但用户仍需投入专业知识去构建工具。而CII提供的大模型无需编排即可直接交付结果，消除了低代码平台中复杂工具制作的过程，极大提升了用户体验。对于仍在维护低代码无代码平台的产品来说，鉴于其价值有限，建议适时舍弃，拥抱新技术带来的变革。</div>
+</div>
+<div class="qa-item">
+<div class="question"><strong>Q:</strong> local的no go平台在早期为何比较火，以及它与IOM在性能和功能上的关联是什么？</div>
+<div class="answer"><strong>A:</strong> local的no go平台在五年前左右确实很火，这与其对性能要求不高的特性有关。这个平台本质上是一个数据库集合和数据模型，其编排业务流程的能力并非性能最优，但其组合能力很强，这恰好与IOM的特性相匹配。通过结合数据模型和IOM，可以在某种程度上替代以前local平台的流程编排功能。</div>
+</div>
+<div class="qa-item">
+<div class="question"><strong>Q:</strong> 使用pod wise skill后，您有什么具体感受？</div>
+<div class="answer"><strong>A:</strong> 使用pod wise skill后，我发现自己的token消耗量显著增长，同时通过技能处理和总结内容，不仅节省了大量时间，也使得获取信息和理解内容的效率大幅提升。例如，当需要研究David singleton的言论时，pod wise能够快速找到并处理相关博客内容，为我节省了大量阅读和分析的时间。</div>
+</div>
+<div class="qa-item">
+<div class="question"><strong>Q:</strong> AI在处理内容上的效率提升体现在哪些方面？对于内容消费方面，AI带来的变化是怎样的？</div>
+<div class="answer"><strong>A:</strong> AI在处理内容上的效率提升主要体现在阅读、理解和转化内容的速度上。例如，在coding方面，AI可以快速阅读并梳理代码、文档等信息，大大提高了编程效率。以前需要人工花费大量时间去阅读和思考方案，而现在AI可以高效完成这一过程，使得开发者能更快地理解和掌握新知识，提高产出的质量和确定性。AI使得内容消费效率大幅提升。比如在接新产品开发时，以往需要人工仔细阅读文档，而现在可以直接让AI快速阅读并总结关键点，大大减少了人工阅读的时间成本，从而导致内容消费量成倍增长。</div>
+</div>
+<div class="qa-item">
+<div class="question"><strong>Q:</strong> AI带来的效率提升是否伴随着成本问题？</div>
+<div class="answer"><strong>A:</strong> 是的，AI虽然带来了明显的内容消费效率提升，但同时也存在成本问题。在娱乐场景中，如果纯娱乐式消费，token消耗量可能会很高。而在工作场景如编程和写代码时，AI的性价比则相对较高，因为它可以显著提高工作效率。</div>
+</div>
+<div class="qa-item">
+<div class="question"><strong>Q:</strong> 关于AI消耗token的标准和定义，您怎么看？</div>
+<div class="answer"><strong>A:</strong> 不同人对AI消耗token的标准和定义有不同的看法。有人认为掌握AI技术需要一定量的token消耗，也有人从商业角度出发，认为卖方希望买家每天消耗大量token以获取收益。例如，有人提出50万美金年薪的程序员一年应该消耗至少25万美金的token，但这更多是从生意和经济利益的角度出发。</div>
+</div>
+<div class="qa-item">
+<div class="question"><strong>Q:</strong> 在Potos的CLI和skills这些商业模式中，你们是否有设计一些关于调用限制或收费策略？为什么选择将pod wise的CLI开源？</div>
+<div class="answer"><strong>A:</strong> 对，我们对价值较高的能力采取了滚动窗口限制，比如获取AI处理后的结果，设置了每5小时和一周的滚动窗口，并会进行重置。这是为了确保大家正常使用时够用，同时防止一次性爬完所有数据的情况发生。此外，在推广期，我们为福瑞用户提供了专属CRI的AI处理配额，可以在不付费的情况下试用。因为我们认为大多数核心业务逻辑在服务端，特别是涉及到计费等认证过程，客户端并不重要，可以开源让开发者修改。如果COI成为未来核心服务的一部分，它应该和server端形成配套，就像iOS APP中既有远程API调用也有本地SDK能力调用一样。</div>
+</div>
+<div class="qa-item">
+<div class="question"><strong>Q:</strong> 针对开发者听众，如果他们要重新做一个新产品，并考虑同时给用户和agent使用，在软件架构上有什么建议吗？</div>
+<div class="answer"><strong>A:</strong> 总体来说，从工程技术角度看，跨度并不大，关键在于生态意识的转变，即是否转向使用A（可能是AI相关的技术）。在架构方面，我建议首先考虑API优先，有清晰、易于对外开放的API，具备完善的token认证和限流机制。对于前后端分离，应追求绝对的API优先，再结合提供面向人的GUI和面向agent的CLI。</div>
+</div>
+<div class="qa-item">
+<div class="question"><strong>Q:</strong> 对于面向A进程的软件架构，有什么具体的建议？</div>
+<div class="answer"><strong>A:</strong> 现在可以将更多逻辑放到CLI中实现，减轻服务端压力。例如，pod wise的CRI可以导出各种格式的内容，这些功能可以在本地桌面电脑上完成，利用其强大的算力和存储控制能力。这样，服务端只需专注于提供稀缺的核心能力和流程，而CLI则成为一个完整的程序，提供丰富的原子能力供A（可能指AI）直接调用。</div>
+</div>
+<h1>节目文稿</h1>
+<p class="transcript-line">
+<span class="time"><strong>[00:00:04]</strong> </span>
+<span class="speaker"><strong>发言人1: </strong></span>
+大家好，欢迎收听异地骇客。我是seattle，我是一笑。
+</p>
+<p class="transcript-line">
+<span class="time"><strong>[00:00:08]</strong> </span>
+<span class="speaker"><strong>发言人3: </strong></span>
+我是龟龟。
+</p>
+<p class="transcript-line">
+<span class="time"><strong>[00:00:09]</strong> </span>
+<span class="speaker"><strong>发言人1: </strong></span>
+本期节目由power wise赞助播出。Od wise是一款为播客听众制作的AI学习软件产品的slogan是read before listen。Model wise通过AI对播客内容进行转录提取、总结分析等一系列操作，帮你掰开了揉碎了硬核的播客内容。同时与notion RED、WIS等平台的打通，嵌入知识管理工作流，协助您的其他包括新闻newsletter blog的内容，帮你打造第二大脑。Hot wise也为本期听众准备了三个5折优惠码，针对本期在小宇宙与我们互动的精选回复，欢迎大家踊跃来玩。
+</p>
+<p class="transcript-line">
+<span class="time"><strong>[00:00:46]</strong> </span>
+<span class="speaker"><strong>发言人1: </strong></span>
+好的，那开始我们本期的节目。最近PODOYS发布了CLI跟skills，这可能也是很多用户特别期待的一件事儿。当然这不是第一天就规划好的，我们只是不断的被用户们的场景推着走，然后大家开始把播客内容接近小龙虾，各种各样的workflow跟自动化流程里边。所以pod wise的用户也就需要从人进化到agent。今天刚好趁这个机会，跟大家来分享一下我们对于这方面的一些思考。首先我觉得可能很多朋友会有一个疑问，就是为什么我会选择开发了CLI而不是API或者SDK，或者一些什么别的东西，听起来有点反潮流。
+</p>
+<p class="transcript-line">
+<span class="time"><strong>[00:01:27]</strong> </span>
+<span class="speaker"><strong>发言人2: </strong></span>
+我觉得这个不是反当下的潮流，其实更多的是在反传统的这些SaaS服务的对外提供的方式。因为传统的SaaS服务肯定提供的都是以API，或者包装一个SDK为主，对吧？但是恰恰今天的潮流是提供CRI的，这是一个很反传统的事情。
+</p>
+<p class="transcript-line">
+<span class="time"><strong>[00:01:49]</strong> </span>
+<span class="speaker"><strong>发言人2: </strong></span>
+其实在我看来的话就是SDK，API这些，它其实本质上还是给程序员去编程的，去写代码使用的那这些SDKAPI它们其实设计的往往都是比较复杂的，甚至是很臃肿的。因为我们看到可能一个API它上面有很多很多的参数，这些参数以不同的组合可以达到不同的功能效果之类的那要结合它的丰富的文档，然后才能去搞清楚这个API具体如何去使用。还需要定义很多的scheme，我的整个结构是怎么样的。所以说相对其实SDK和API，其实它本质上还是一个灵活编程的事情。它不是给人直接去友好去使用的一个接口。
+</p>
+<p class="transcript-line">
+<span class="time"><strong>[00:02:37]</strong> </span>
+<span class="speaker"><strong>发言人2: </strong></span>
+所以今天面向agent的话，其实我们还是希望说给到agent的是一个很干净的，就像人去使用就是很清晰的医用的对吧？它是没有什么歧义的，也不需要什么复杂的一些认知负担在里面，就可以轻松使用的一个工具，COI它本身就扮演了这样的一个角色。因为我们都知道像早年像linux unix诞生的时候，它就只有COI这样的一个用户界面。它本质上是人和电脑和机器去交流的一个通道，是那个年代的一个唯一的通道。是后面才有了GUI，有了大家这种点一点的通道，对吧？所以说CLI它本质其实是一种可组合的文本接口，它不是一个那种代码的接口。对，它是给到人可以直接去使用的这种可组合的文本接口。
+</p>
+<p class="transcript-line">
+<span class="time"><strong>[00:03:30]</strong> </span>
+<span class="speaker"><strong>发言人2: </strong></span>
+你看CRI它本质天生就有很好的STD，那STD out的这种很自然的输入输出的。对，这个就对a gent or来说，他就用要一个很自然的去输入，很自然的输出，然后又提供了pip的组合，组合这个就很重要了。在linux这样的一个电脑上面，其实有很多很多的工具。我们能够通过pip去组合的话，就可以发挥出很强大的一些功能。比如去搜索一个grape一个文本，那些东西其实都可以cat一个文本，然后去grap想要的内容。对，都是通过这种组合从而达到了很很好的一些灵活性。
+</p>
+<p class="transcript-line">
+<span class="time"><strong>[00:04:10]</strong> </span>
+<span class="speaker"><strong>发言人2: </strong></span>
+我觉得确实更重要的还是一个命令就能跑，认知负担超级低。这件事儿就是在今天的unique slack这样的系统上，它就是一个很天然的一个事情。它不需要说我去写一个API，我还得先把它集成到代码里面才能跑。就是这件事儿它是是多了一个步骤的，并且是一个工作量其实还不低的，或者说认知是一个不低的一个事情。
+</p>
+<p class="transcript-line">
+<span class="time"><strong>[00:04:37]</strong> </span>
+<span class="speaker"><strong>发言人2: </strong></span>
+Agents他是会写代码，并且他还今天还能写很复杂的代码。但实际上agent他还是更会写，也更容易去编写一条命令，对吧？我们通过编写一个CLI就可以很轻松的就完成了一个很复杂的工具的调用。所以这件事情我觉得是不但要低很多很多的。相对于API来说，这也是我觉得说今天为什么大家会发现在agent的生态里面，大家去做工具调用这件事情。突然就发现COI好像运行的很稳定很好用。我觉得这是一个很重要的一个原因。
+</p>
+<p class="transcript-line">
+<span class="time"><strong>[00:05:15]</strong> </span>
+<span class="speaker"><strong>发言人3: </strong></span>
+我现在确实感觉大家都是一股脑的在做这个CRI。比如说我一直在用的这个obsidian，然后他是二月底的时候也release了一个CRI阿布西，他做了有六年了，20年的时候release的第一个版本。那如果不是今天的这个agent的生态，我估计再过六年也不会想着说要做个CLI的，是吧？它作为一个编辑的笔记编辑软件，它不可能会去做个CRI的，包括我们自己polo wise也是，如果不是这个A型的生态，肯定也不会想着说要去做个CRI。没错。
+</p>
+<p class="transcript-line">
+<span class="time"><strong>[00:05:48]</strong> </span>
+<span class="speaker"><strong>发言人3: </strong></span>
+但是今天这个CLI加上skills，应该是把软件接入agent综合成本最低的这个方式了。那就像一下讲的，如果你去做SDK去做API，当然其实CII背后也有API只不过我们不把这个API给到用户。那你做这个东西用户得不写代码，虽然AI也会写代码，但是这个CI肯定更方便。所以一个是AI调用方便，一个是用户他自己的安装调试也方便，然后包括我们自己开发起来也方便，可以快速复用软件已有的能力。
+</p>
+<p class="transcript-line">
+<span class="time"><strong>[00:06:22]</strong> </span>
+<span class="speaker"><strong>发言人3: </strong></span>
+说一个不恰当的比喻，就像我们之前的软件，它其实是做堂食餐饮的。终端用户他是到店去吃饭，门店的装修漂亮，然后服务也得周到，对吧？要考虑顾客的到店体验。CLI就像这个堂食店加了个外卖，他这个门店能力是复用的，然后只要接上外卖平台，在门口安排个外卖取餐区就行了。这一趴是不用装修的，也不用服务的，所以还可以做成外卖专门店。就像是今天有些可以纯面向AII进去的软件一样。也是因为说有了外卖这个生态，CI也是一样，有了AIA的这个生态之后，才会成为一个新的生态的板块，然后我就可以在我现在的这个软件基础上去加上这个东西。
+</p>
+<p class="transcript-line">
+<span class="time"><strong>[00:07:10]</strong> </span>
+<span class="speaker"><strong>发言人1: </strong></span>
+我觉得你这个比喻特别有意思，就堂食加外卖。对，甚至可能人家把那个饭都放在那儿了，然后你进来之后自己打是吗？每个菜有一个盘，然后你进来之后拿个盘子，然后自己打打完之后该付钱，该干嘛干嘛。对我觉得我觉得这个比喻还挺有意思的。
+</p>
+<p class="transcript-line">
+<span class="time"><strong>[00:07:28]</strong> </span>
+<span class="speaker"><strong>发言人3: </strong></span>
+对它面向的用户不一样。
+</p>
+<p class="transcript-line">
+<span class="time"><strong>[00:07:30]</strong> </span>
+<span class="speaker"><strong>发言人1: </strong></span>
+对面向客群不一样。我们既然做了CLI，要不要先给大家介绍一下powder wise的CLI现在有什么能力？
+</p>
+<p class="transcript-line">
+<span class="time"><strong>[00:07:37]</strong> </span>
+<span class="speaker"><strong>发言人2: </strong></span>
+我之前也看到大家就是在X在推特上在讨论，今天作为一些SaaS提供方要去提供COI的话，就觉得说有很多的团队可能在做这件事儿上可能会做错。做错的观念是什么？可能有很多的SARS，特别是一些比较偏老的SARS，它的功能可能已经非常的多了。那这个时候如果说是因为公司觉得说要去紧跟这个潮流，或者说要去转向做这样的一个战略的话。可能觉得说我们的COI的能力可能就需要和web版的SARS去对齐。然后就会发现一股脑的把外部版的sas的功能全部迁移到CLI上去。然后最后你就会发现，你会得出来一个非常臃肿的，非常不好用的一个CLI，甚至对agenda一点都不友好。我觉得这个观点也是很正确的。
+</p>
+<p class="transcript-line">
+<span class="time"><strong>[00:08:29]</strong> </span>
+<span class="speaker"><strong>发言人2: </strong></span>
+可能有很多的团队今天去做CI可能会面临这样的一个决策。就是CLI你需要做成什么样子？就你需要做成你的已有的sas服务的哪一部分。我觉得这个东西确实可能是最值得去思考的一个问题了。对，这里面肯定是取舍的。就是说你不可能是把你的SARS功能原封不动的全部一比一的搬到CRI上。你可能真的会得到一个很难用的1CLI。
+</p>
+<p class="transcript-line">
+<span class="time"><strong>[00:09:01]</strong> </span>
+<span class="speaker"><strong>发言人2: </strong></span>
+那回到我们这一次在做provides的CLI的时候，我们最终得出来的功能其实只有四大类的一个原子能力。对我这儿说的是原子能力。就它不会可能向外部界面，你可能一下打开一个页面，然后就给你呈现很多帮你计算好的，或者说一些工作流的结果，给你一眼都能够看清楚，就很方便。我们的社会它其实更多的还是在提供一些原子能力。你自己可以去组合，你可以写个脚本去组合，写个skill去组合，或者用一个自动化的workflows去组合，最终可能达到你想要的一个。
+</p>
+<p class="transcript-line">
+<span class="time"><strong>[00:09:40]</strong> </span>
+<span class="speaker"><strong>发言人2: </strong></span>
+最终的结果。其实这是我们在功能上设计的一个目标。所以我们现在做的已有的功能其实分成四大类。第一类更多的是发现，就是内容发现了，因为我们平台上有很多的内容。第二类可能就是处理，就是要处理一个音频、视频或者说本地文件之类的。处理完过后，第三的一类功能就是获取结果了，就是可以去拿到我们的组织稿之类的各种总结的结果。这些他最终就是能够把这些内容给导出到一些外部的平台，什么read wise，notion，log等等等。主要就是做了这四大类的工作。
+</p>
+<p class="transcript-line">
+<span class="time"><strong>[00:10:19]</strong> </span>
+<span class="speaker"><strong>发言人2: </strong></span>
+在发现里面还做了非常完善的搜索的能力。因为我觉得发现其实是很重要的，因为你要真的去用一个CLI，特别是要用到agenda这样的场景去自动化的去驱动的话，你会发现就是人他已经不在这个路口里面了。那就需要让AI自己去发现。我们在做CI的时候，必须要提供非常完善的发现的能力，能让agent让AI能够很精准的找到想要的内容。所以说我觉得这是所有做名下agent CRI的人都需要思考的这一点就是怎么能让他去完成第一步，发现了这个问题。其实讲过这个问题，它其实是一个朴实性的，它并不是一个port wise自己的一个问题。所以说我们就提供了什么AI的ask AI search，包括能够去list你自己的一些更新，包括你的history等等，你所有的内容都能够被完善的去发现到。所以说总的来说我们就核心就是在围绕这四大类原子流程的展开。
+</p>
+<p class="transcript-line">
+<span class="time"><strong>[00:11:28]</strong> </span>
+<span class="speaker"><strong>发言人1: </strong></span>
+那在设计上我们有没有什么特别考虑过的？因为agent现在也作为新的用户了，那我们以往是人类用户，设计上我们需要把CLI也满足人类用户的调用吗？我需要满足两类用户，还是说其实我CI就专门为agent的用户去实现就行了。这个里面有没有什么需要取舍的？
+</p>
+<p class="transcript-line">
+<span class="time"><strong>[00:11:46]</strong> </span>
+<span class="speaker"><strong>发言人2: </strong></span>
+就是我觉得说今天为什么大家发现CLI比MCP好用？一个很关键很关的东西都是CLI它能够能直接用。所以说我觉得这是一个非常关键的一个点。因为我自己其实我们在开发CRI的时候，对我来说根本没想去写一个MCP的服务，MCP的server出来给agenor去使用。因为我先写了出来之后去封装MCP server的时候，其实我发现调试起来很麻烦。就是因为它不像CLI，我能够本地自己很轻松的去调试这个东西。然后MCP你必须要接到那样的一个编程的生态里面，就是写代码，然后才能够去做一些调试性的工作，就相对来说要麻烦很多。所以说我觉得说CRI面向人类的设计是需要考虑的。
+</p>
+<p class="transcript-line">
+<span class="time"><strong>[00:12:35]</strong> </span>
+<span class="speaker"><strong>发言人2: </strong></span>
+但是面向人类的设计这件事儿，我觉得这里面可能有一些技巧。比如说之外大家都知道它是个黑屏幕，一些白蚊子。那看起来可能对人来说，你的视觉效果肯定是赶不上外部的，就没有那么清晰的表达这些。对嗯尤其像我们刚开始做这个事儿，我们自己也会觉得说能不能加一些文字，能不能加一些动画，让他就是更好看，体验更好，就是更清晰。这个对人来说确实是非常的重要的对我们最终也选择把这个东西加上去了。但是我们选择加的方式是怎么加的？我觉得说这个也是值得大家去去参考，可以去有去思考的一件事儿。
+</p>
+<p class="transcript-line">
+<span class="time"><strong>[00:13:17]</strong> </span>
+<span class="speaker"><strong>发言人2: </strong></span>
+我们提供了一个单独的party的选项，是专门给人用的对，当你打开这个选项过后，你就会发现结果可以被渲染。对，渲染的有颜色，该有动画的地方才可以有动画。比如什么进度、处理等等等等，申请这些东西就可以是带动画的方式。
+</p>
+<p class="transcript-line">
+<span class="time"><strong>[00:13:36]</strong> </span>
+<span class="speaker"><strong>发言人2: </strong></span>
+对，但是我觉得这里有一个小技巧，就是啥呢？因为你提供了这样的开关选项，映像人的开关选项。我们如果真的为了防止A镜头误用，因为这样的开关打开过后，其实你的输出结果里面是有大量的非文本性的东西，有很多的颜色的编码，一些很多color的数字在里面。这些东西肯定是会影响agent的的正常的运行的token量分寸，并且会非常的巨大的那这个时候一定要做一个小技巧的事，你面向人的这个事情，它一定要只能支持在终端的TTY的环境下去运行。
+</p>
+<p class="transcript-line">
+<span class="time"><strong>[00:14:13]</strong> </span>
+<span class="speaker"><strong>发言人2: </strong></span>
+大家都知道人用的这个环境是带TTY的，但如果你像A镜头去作为工具去调用，它是肯定没有TTY的。然后通过管道进行重定向的时候也是没有TTY的对所以说我们要去在要去做这样的一个小技巧去判断。要识别出当前是人用的环境，那这个时候就让他走人的这种更plenty的方式。但如果你发现这个环境它不是人用的一个环境，它没有TTY这样的设备的时候，那你就应该用最原始的最文本的方式去做这样的一些输出。所以我觉得这只是一个非常小小的去兼顾人和agents的一个小技巧。
+</p>
+<p class="transcript-line">
+<span class="time"><strong>[00:14:58]</strong> </span>
+<span class="speaker"><strong>发言人2: </strong></span>
+回到我觉得说CO的设计原则对我们要怎么特别去考虑这件事儿。除了刚才前面其实提到了一点点以外，我觉得其中非常重要的就是还是又回到管道。管道这件事儿我觉得就是第一重要的，以前给人用的CLI里面会经常不会考虑管道，它的输入可能就是人提供的一个参数，然后输出。比如说我要写一个文件，可能就是会设计一个杠O或者output fire这样的一个选项，然后写一个文件就直接输进去了。其实很多很多的CRI在这一方面都是不合格的，几乎都是采用这种方式在做输入输出，根本没有考虑用管道的形式去输入输出。其实我们做CRS不需要自己去说，我要把文件写到一个什么样的文件，最好这个东西就留给管道去做重定向之类的。因为agents在编排的时候，他可能除了用到你的工具，他还会调用系统的很多其他的一些命令化的工具。所以你的管道支持的好，那最终的组合的效果就会好很多很多。
+</p>
+<p class="transcript-line">
+<span class="time"><strong>[00:16:00]</strong> </span>
+<span class="speaker"><strong>发言人2: </strong></span>
+米等就不用说了，米等也是一个非常重要的了。其实人可能误操作，有时候可能还有保证，但是agent可能操作起来可能就很疯狂，对吧？它毕竟是自动化的那可能就会有非常多的重复调用之类的。所以说迷人肯定是非常关键的。
+</p>
+<p class="transcript-line">
+<span class="time"><strong>[00:16:17]</strong> </span>
+<span class="speaker"><strong>发言人2: </strong></span>
+第三的一下不要交忽视，这个就不用大家都能理解。因为A检查肯定是没办法进行交互式的。你给他一个交互式的界面，比如输个yes，输个no才能进行下一步，那这个肯定是一个不友好的对吧？那我们肯定要的是单纯的非交互式的命令。
+</p>
+<p class="transcript-line">
+<span class="time"><strong>[00:16:36]</strong> </span>
+<span class="speaker"><strong>发言人2: </strong></span>
+其实这一点也有一个东西，就是因为他为什么不能要交互式的呢？其实说白了就是他主持的他其实理解的还是纯文本。我一直觉得说，我们为什么他不能做成像人这样的agenda，不能够像人这样去工作。他不能说我看到这儿需要这样输入，那我就输一个什么样的东西。这件事儿其实更多的可能还是是因为今天的A镜头还是基于文本在在工作。
+</p>
+<p class="transcript-line">
+<span class="time"><strong>[00:17:03]</strong> </span>
+<span class="speaker"><strong>发言人2: </strong></span>
+对，大家有听最近的很博客，就是730在讲的一件事儿。可能730更倾向的是觉得说未来在AI的世界里面，他觉得视觉这件事儿是非常重要的。他还是有的视觉，因为他可能自己也是做视觉的，就是觉得说今天的AI是没有视觉的这个能力。它不像人，我们其实是看到了这个屏幕有什么东西，然后我们再去输什么东西，再去点什么东西。其实他不是这个逻辑，他更多的还是在分析文本内容是什么样子，然后去做什么样的操作。我觉得这儿可能还是有点不太和人还是确实有很大的不一样。人的现在的智能里面，我觉得视觉确实还扮演了一个挺重要的一个角色。所以说为什么我们去看文字，觉得说有颜色就是很重要的一件事儿，它主要也就在这个地方。
+</p>
+<p class="transcript-line">
+<span class="time"><strong>[00:17:56]</strong> </span>
+<span class="speaker"><strong>发言人2: </strong></span>
+第四点，刚才前面讲了三点，管道米等不要交互。第四点就是help信息了，这个就不用说了，那肯定是要写的非常的清晰，并且最好有那种可以直接复制就可以使用的例子，对，这个是非常重要的。好，第五的一个是很多时候会比较忽略的就是错误信息。因为我们的CRI去访问后端的API这些，不管访问什么东西，他肯定是会出现错误信息。我们过去写错误信息更多的还是偏向程序员的这种方式，打印一个L的怎样。但是这个东西我们最好现在的错误信息，它是能指导agent去进行下一步行动的。比如说你说你他去访问这个东西，比如说你的A镜头没有认证，没有登录，那你最好能够告诉他如何去认证，这样的有下能指导他下一步的行动是最好的。
+</p>
+<p class="transcript-line">
+<span class="time"><strong>[00:18:46]</strong> </span>
+<span class="speaker"><strong>发言人2: </strong></span>
+对，最后一个我觉得比较重要的就是有输出的结构了。这个就没什么好说的，我觉得输出肯定是要结构化的输出。现在可能常用的都是一定会支持一个节省的选项，让他做节省的结构化的输出。其实不管是节省还是markdown，只要你的内容表达的那个语义是要很清晰的对每个字段是什么是什么内容，这个东西一定要告诉我。Agenda可能这样整体下来，我觉得说就算是一个比较好的CRI，至少面向agent的话，我觉得是挺友好的了。
+</p>
+<p class="transcript-line">
+<span class="time"><strong>[00:19:18]</strong> </span>
+<span class="speaker"><strong>发言人1: </strong></span>
+对我觉得这几个点特别好。有一个点其实我觉得我特别印象深刻，就是讲说要有一个清晰的help的一个事例，对吧？其实现在因为agent他本身他是可以去执行CLI里面的help的，他自己已经有内化这个能力。他知道说当他找到一个CRI的时候，他其实可以先看一下help里边到底有什么能力。根据help里边的那些参数提示，它其实就可以做下一步清晰的调用。比如说你想干嘛，然后它可以根据那个help里面案例，然后去帮你做那个调用。但如果你没有很清晰的示例的话，他就得去猜，那他这个失误率就很高。所以说如果说具体他是做什么的，都给你标注上。
+</p>
+<p class="transcript-line">
+<span class="time"><strong>[00:19:56]</strong> </span>
+<span class="speaker"><strong>发言人1: </strong></span>
+对于IOM来学习的话，其实是一个很重要的一个帮助点。对我觉得这个可能也是大家在去设计CLI的时候，一个需要去关注和关心的一件事儿。当然我们现在除了CRI之外，我们在CRI之上还有很多skills提供给大家。里面原始的这些操作在skills里面其实我们都可以直接使用。比如说你可以去问，能不能帮我获取某一期节目的主旨稿，比如说2026年的AI发展趋势等等，这些其实它都可以直接调用CLI的原始能力。还有一个就是工作流的能力，这个是skills里边我觉得说是比较关键的一层能力。
+</p>
+<p class="transcript-line">
+<span class="time"><strong>[00:20:35]</strong> </span>
+<span class="speaker"><strong>发言人1: </strong></span>
+怎么解释这个workflow呢？就是说你可以把问hot wise的一些问题搜索，然后处理获取逐字稿，导出等等这些东西通过pip就通过管道或者说都不调用，然后把它串成一个完整的流程。我举一个简单例子，比如说帮我找到一集播客，把它的总结拿到，然后再把它的主字稿拿出来，帮我导出到notion里边。如果说你要完成这一个步骤，就是比如说找到博客拿取总结，拿到逐字稿然后再导出。那你在COI里面你可能需要调用很多条命令。但是如果说你把这个东西做成一个skills，在LM的这个环境里面，其实它整个这个流程你就可以变成一句简单的自然语言调用。
+</p>
+<p class="transcript-line">
+<span class="time"><strong>[00:21:18]</strong> </span>
+<span class="speaker"><strong>发言人1: </strong></span>
+请帮我找到最近讲AI agent的播客，然后把重点帮我导出来，然后同步到notion里边。如果你把这句话讲出来，对于IOM来讲的话，它就会自动把这些东西拆成一连串的步骤。比如说他会先去search，调用COI里面的search，然后去找内容，然后调用process。如果这一期内容没有被处理的话，他会调用process，然后把这些内容做一次AI处理。然后再去get去拿transcription也好，拿summer也好，去拿这个结构化的内容，最后在export到notion里边。也就是说这个workflow其实它不是你手写的，而是完整的被生成的。再进一步一点的话，其实这些workflow还可以说，我可以把这个workflow相当于说我自己固定了，它就变成一个固定skills。
+</p>
+<p class="transcript-line">
+<span class="time"><strong>[00:22:03]</strong> </span>
+<span class="speaker"><strong>发言人1: </strong></span>
+然后我还可以去做一些参数化，还可以做一些嵌套。所以说这个里面其实就有一些很有意思的一些体验。就比如说以前其实你是在调用工具的，那现在其实你更像是在描述任务，就是把以前的过程式编程变成了声明式的编程了。然后它可以帮你去动态的拼出这个工具链。
+</p>
+<p class="transcript-line">
+<span class="time"><strong>[00:22:23]</strong> </span>
+<span class="speaker"><strong>发言人1: </strong></span>
+在这个基础之上，我们其实内置了一些skills是蛮有意思的。比如说你可以让PODWYS帮你总结本周的博客周报，就是你自己看过的听过的播客。然后你可以想想再去recap一下，然后想去再回顾一下自己本周到底看过什么，听过什么，学过什么。然后可以让pod OS帮你整一份博客周报，然后呃可以帮你去学外语，可以让PODWYZ记下来你当前的英语水平。记下来之后，下次当你听到一些新播客的时候，可以让他帮你去把博客里面的生词也好，他的一些地道表达也好，然后帮你抽象出来。
+</p>
+<p class="transcript-line">
+<span class="time"><strong>[00:22:58]</strong> </span>
+<span class="speaker"><strong>发言人1: </strong></span>
+然后还可以去让pod IS跟你深度探讨一些内容。比如说刚才一笑提到的谢三宁的博客，对吧？你可能有一些问题，你说世界模型跟大语言模型到底有什么区别？为什么说世界模型这件事儿更重要？当然这是现在您的观点，对吧？那我们就可以跟他去深入探讨一下，说到底哪里有问题。我们内置了一些苏格拉底式的问答，就是一个问题从头追到尾，然后你可以去跟他去探讨，到底有什么样的区别。这个是一些比较核心的overflow，还有一些我们也内置了。大家如果想去探索的话，可以自己在装了powder wise的skills之后，在LM里面去问一下说你有什么样的能力，你可以告诉我，大家可以去深度探索一下，我觉得这个蛮好玩的。
+</p>
+<p class="transcript-line">
+<span class="time"><strong>[00:23:44]</strong> </span>
+<span class="speaker"><strong>发言人1: </strong></span>
+我觉得这部分比较神奇的是什么？就是说IOM在内置的这种智能，就是作用在CLI之上的时候，就产生了很多化学反应。不光是说我mock flow的执行，还有包括很多自然语言被IOM它自己就自动的拆解出成了多个CI的命令调用。但是如果说你是在用API或者在用SDK的时候，其实你是没法获得这种体验的对，也就是说当我们有原子能力的时候，其实我就可以做很多事儿。有可能它效率有点低，但对于很多场景来讲无伤大雅。比如说就像我们这个播客场景，我要就这样一步一步，它对于我本身的性能要求不是很高，它只是对于串起这个流程的要求比较高。我觉得这种场景来讲的话，对于polus是非常有用的一个场景，这是一个非常神奇的体验，我不知道你们怎么去看LM跟有CII结合的这种化学反应。
+</p>
+<p class="transcript-line">
+<span class="time"><strong>[00:24:36]</strong> </span>
+<span class="speaker"><strong>发言人2: </strong></span>
+对，其实我们在讲这件事儿还是就像刚才你说你使用API，使用SDK可能就没办法获得这种神奇的体验。对，因为我们在去直接使用APISDK，它其实还是根据自己的需求去去开发代码，然后写一个固定的workflows，这些又达不到确实像LM这种智能加持的自动化的这种体验。所以说我认为这里面最核心的它的一个化学反应可能就是来源于我们常说的排列组合这件事儿。就传统的编程就是我拿着APISDK去编程的话。其实我是根据我自己的需求，或者说根据我的经验，我对产品的理解，然后就去实现一些比较固定的workflow的组合，或者实现一些固定的业务流程。然后我们认为这个业务流程是绝大多数用户所需要的对，这就是传统的所有的SaaS提供的服务。就是这个样子，就是固定编排好的workflow，那它的上限其实是比较低的。
+</p>
+<p class="transcript-line">
+<span class="time"><strong>[00:25:37]</strong> </span>
+<span class="speaker"><strong>发言人2: </strong></span>
+然后对，就是你做成了什么样子的这个产品，它就是什么样子的。用户可能有源源不断的需求过来，然后去改变你产品的形态，不断的去迭代他，去发版本的。所以说这个就是我们整个传统SARS的一个形态的。他今天有了像LLM这样的智能带来的这种高度的自动化过后，它就让这种排列组合就变得了无限的可能。
+</p>
+<p class="transcript-line">
+<span class="time"><strong>[00:26:03]</strong> </span>
+<span class="speaker"><strong>发言人2: </strong></span>
+对，就是可能我自己不需要根据用户的需求，或者说根据我自己对产品的理解的经验，然后去去把这个产品的形态做成一个什么样子。而是完全让A检测，让AOM，让AI去动态去帮我生成我这个系统是长成什么样子。这就可以理解成我们的整个的sas系统，它可能就是变成了一个组合系统。对它是一个动态的组合系统，这种动态的组合的驱动力完全是来自于用户的临时的需求。用户此刻是怎么所想的那我就给他一个什么样的这样的一个系统的结果。所以这个上限就看上去就非常高，也是一个看着是一个非常神奇的一个体验，对吧？我可能想要什么，突然就给我生成了一个什么。对我觉得这是一个很确实是一个很神奇的体验。
+</p>
+<p class="transcript-line">
+<span class="time"><strong>[00:26:56]</strong> </span>
+<span class="speaker"><strong>发言人2: </strong></span>
+回到这个问题的本质，我觉得他其实非常等在于我们在做AI应用的架构设计的时候，究竟是使用workflow还是使用agent的这个争论里面去了。又回到了这个争论。所以看通过今天看这个问题的话就会发现，work floor就是我们固化好的东西，那就是一个想象力的上限是很低的。优点就是我们以前也常说就是稳定，对吧？但是对于产品形态来说确实太死板了。但是今天通过A这种价格方式，我们确实会发现，产品的生命力就感觉要旺盛很多。你可以从里面变出各种魔法，真的是蛮magic.
+</p>
+<p class="transcript-line">
+<span class="time"><strong>[00:27:36]</strong> </span>
+<span class="speaker"><strong>发言人3: </strong></span>
+就是这样的。我之前做过几年这个local的平台，其实这种低代码或者无代码平台，他也是想解决一个自由度的问题。就是他是以前旧时代的魔法，今天这个AIG的是新时代的魔法。
+</p>
+<p class="transcript-line">
+<span class="time"><strong>[00:27:54]</strong> </span>
+<span class="speaker"><strong>发言人3: </strong></span>
+其实像这种低代码或者无代码平台，它其实就是提供封装好的原子能力。然后通过他这个平台提供的这种编排机制，不管是所见即所得的也好，还是说我有一个可以写workflows的DSL也好之类的，让用户自己去实现他自己的需求。原子能力其实提供了确定性，而这种编排机制提供了可能性。然后如果大家以前做过这种平台，会发现说有时候用户就是能做出各种各样奇奇怪怪的，超出你原本设想的东西。你会发现说我这个平台还能做成这个样子，我自己可能以前都没想到过。但这个过程的问题就是用户需要先自己动手去做工具，然后才能用工具得到结果。但是这个动手做工具的过程，哪怕在有这种无代码平台辅助的情况下，其实也并不简单，很多时候就是你要往复杂了做之后，你其实还是需要不少的专业知识的。
+</p>
+<p class="transcript-line">
+<span class="time"><strong>[00:28:54]</strong> </span>
+<span class="speaker"><strong>发言人3: </strong></span>
+但今天CII提供确定性的原子能力大模型，提供了无需编排的这种可能性。就是他去直接交付结果了，直接把这种一代码平台或者五代码平台最麻烦的那一步干掉了。那对用户的使用体验上来说就非常爽了。那就不需要中间这个过程，直接就是魔法把它拿到结果。所以我感觉如果今天还有说还在持续迭代维护的这种低代码无代码平台的产品，是已经到了应该舍弃他的时候了。不管你投入了多久，他都应该壮士断腕了，那肯定是没什么价值的对。
+</p>
+<p class="transcript-line">
+<span class="time"><strong>[00:29:30]</strong> </span>
+<span class="speaker"><strong>发言人2: </strong></span>
+认可这个对你讲这个。
+</p>
+<p class="transcript-line">
+<span class="time"><strong>[00:29:32]</strong> </span>
+<span class="speaker"><strong>发言人1: </strong></span>
+local的no go的平台，就前几年的时候，可能五年前左右，确实挺火的对，但这个里面其实也刚好隐含了一个点，就是local的logo的平台它本身对于性能的要求它不是特别高的。这恰好跟我们刚才有聊过，这个IOM本身它的这个组合能力，它可能不是性能最高的那一种，但是它可以帮你无限组合，恰好我觉得跟这个local的平台特别合适。因为local的平台本身首先它是一个数据库集合，它其实首先是数据模型，然后其次才是上面的业务流程，当然它能去做编排业务流程就代表着它其实它肯定不是那种性能最优的形式。当然今天我用IM可以去替代他去做这样的流程编排，当然这个就效果可能就特别好。我觉得这个确实是一个蛮新的一个体验，也是对于以前的local local的产品的一个颠覆。也就是说意味着说其实我用数据模型再加上IOM，就已经可以替代以前的local local的平台本身的那个流程编排的能力。
+</p>
+<p class="transcript-line">
+<span class="time"><strong>[00:30:36]</strong> </span>
+<span class="speaker"><strong>发言人1: </strong></span>
+接着再回到这个skills这件事儿，我聊一个我自己在使用完我们pod wise的skill之后的一个感受。我发现不光我的token消耗量增长了，然后我自己消耗播客的数量也成倍增长了。我举个例子，我前两天准备说研究一下strap的前CTO David singleton大卫丹利，就是我们设计模式里面的那个单利singleton，然后他说了一些挺反常识的观点，我就想研究一下说他之前在播客里面还表达过什么，那我就让pod OS帮我研究了一下David singleton他过往的言论。然后POS就帮我找找说他就找到了9份他参与的博客，然后有五个是处理过的，有四个是没有处理过的，结果pot就帮我直接处理了那四个，然后处理完之后他就统一汇总给我了，就告诉我说在strap是有什么样的表达？然后他在新的创业公司叫dreamer，然后他做CEO之后有什么样的表达？整个结论就非常的完美，因为他都是从博客里面提取的。对，也就是说不光它消耗了很多token，实际上它也消耗了很多pot west的里边的内容这个是我觉得有点反直觉的，当然这可能是我个人的案例，我不知道你们有没有这种消耗量增长的这种体感，就是可能你读的更多了。
+</p>
+<p class="transcript-line">
+<span class="time"><strong>[00:31:54]</strong> </span>
+<span class="speaker"><strong>发言人3: </strong></span>
+我觉得这个倒是挺直觉的。因为token的流转其实本身就是内容的流转。大模型是通过这个token的流转来阅读和理解内容的。当然这个阅读和理解是加引号的，毕竟从原理上来讲，他只是在做模式匹配和推测的输出，对吧？概率的推测。反正表象上是他消耗了这个输入的内容，他把内容转化了成了token，又又把token转换出了新内容，阐述了新内容。所以它其实也是在消费内容。
+</p>
+<p class="transcript-line">
+<span class="time"><strong>[00:32:24]</strong> </span>
+<span class="speaker"><strong>发言人3: </strong></span>
+从coding的角度，其实体感也是一样的。我们因为主要用的可能是coding，因为本身你人去写代码也是要去消费内容的，你要去看已经存在的代码，你要去看文档，可能你使用那些第三方库的文档之类的。现在这些其实也都是大模型，在消费效率上是有巨大的提升的，虽然结果上看大模型直接写了代码，但他在这个之前，在他动手写代码之前，其实是以几百倍于人类的速度在阅读内容，然后去梳理和产出方案。
+</p>
+<p class="transcript-line">
+<span class="time"><strong>[00:32:55]</strong> </span>
+<span class="speaker"><strong>发言人3: </strong></span>
+像我自己最开始AI控制能力还没那么强的时候，我是习惯先看代码和看文档。然后我自己在脑子里有一个大概方案之后描述给大模型，从而来提高产出的质量和确定性。但这个过程其实很耗时，就像我们以前也会尝试着说，其实程序员花时间最多的不是写代码，写代码很快对吧？其实你更多的时候是花在想上面去想方案上面。但现在AI coding能力强了之后，这部分对时间的节约是非常明显的。所以我自己的体感上，就是以前我一想着说，我要去看个新东西，我要去接个什么玩意儿，我要看看文档什么的，我觉得很烦，但现在我就觉得挺方便的，因为我就让大模型去代劳了，他来帮我消费了这些内容，效率上就非常的高。
+</p>
+<p class="transcript-line">
+<span class="time"><strong>[00:33:42]</strong> </span>
+<span class="speaker"><strong>发言人2: </strong></span>
+对，其实我的体感这儿肯定也是一样的。因为今天这种内容型的消费，我自己也是完全不太会自己人肉去消费了。我举一个例子，比如说我平时就我这儿不说播客这件事儿，播客这件事儿肯定的。你只要现在通过我们的skills去消费的话，通过agent，open code或者cloud code，CC这些，那你会发现你就会关注很多不同的博客。所以这件事儿我不补充这件事儿，而是我在平时可能还有一些其他的场景里面的时候。
+</p>
+<p class="transcript-line">
+<span class="time"><strong>[00:34:14]</strong> </span>
+<span class="speaker"><strong>发言人2: </strong></span>
+比如说我现在去接任何一个新产品，比如说一个sas的产品的那种开发的产品的时候，它的整个文档网站写的非常多。我几乎也是直接把这个东西，扔给A检察，然后几乎就让他先帮我阅读一遍总结篇，包括那个文档可能写的已经很清晰，说他的整个系统的架构是怎么样的，我也懒得去看了。我几乎都是把文档扔给A检查，就问他帮我介绍一下从架构原理到最后的收费策略，帮我把关键点给我列举出来，然后他就咔嚓咔嚓的把他所有的文档都给读一遍，可能就几分钟就全部看完了。把这个东西换成我们人自己去慢慢看的话，你会发现我可能只会挑pricing收费是怎么收的，然后了解一下它的架构设计，其他的细节可能就很多，就不会再去看了。对，所以说你会发现你消费的内容肯定是成倍的增长的。
+</p>
+<p class="transcript-line">
+<span class="time"><strong>[00:35:08]</strong> </span>
+<span class="speaker"><strong>发言人2: </strong></span>
+但这种效率的提升，就是说他虽然说是很明显，但是这个成本肯定也是摆在那儿了。所以说这个带来的其实里面的性价比回到娱乐场景，比如像博客，或者说还有其他的一些娱乐场景。这种性价比其实我觉得有很多东西还是需要去去考虑的。比如说我如果去工作，我去编程，去写代码，我觉得这个性价比是非常的高的。但如果你是一个纯娱乐式的，对你没有什么工作内容的效率的帮助，可能投入的成本，我觉得这个token的消耗量还是一个很高的事情。
+</p>
+<p class="transcript-line">
+<span class="time"><strong>[00:35:44]</strong> </span>
+<span class="speaker"><strong>发言人2: </strong></span>
+当然今天在AI时代，很多人也在鼓吹这种token的消耗，觉得说你想真正掌握，那你今天就是应该要每天要消耗多大量的token对吧？你要消耗多少钱呢？Token你才是合格？就像老黄这种都出来不断的在鼓吹这些token的消耗量的这种标准和定义。
+</p>
+<p class="transcript-line">
+<span class="time"><strong>[00:36:11]</strong> </span>
+<span class="speaker"><strong>发言人2: </strong></span>
+当然和别人聊的时候，我也会提醒那个人我说你也想一想王振兴是做什么生意的对吧？对，就是说不定每个人都是都是生意角度，对吧？每个人的观点都是代表自己的那个视角，我觉得比如说阿里或者说google，腾讯那些，他们卖token的好像是卖卡？那他们是对从自己的生意的角度觉得的话，每个人你每天就是过来消耗1万美金对吧？那钱都到他们的袋子里面去了，这个也是非常合情合理的对。
+</p>
+<p class="transcript-line">
+<span class="time"><strong>[00:36:49]</strong> </span>
+<span class="speaker"><strong>发言人1: </strong></span>
+对老黄宣传的是说，如果是一个50万美金年薪的程序员，一年至少得消耗25万美金的token。
+</p>
+<p class="transcript-line">
+<span class="time"><strong>[00:36:56]</strong> </span>
+<span class="speaker"><strong>发言人2: </strong></span>
+对对。
+</p>
+<p class="transcript-line">
+<span class="time"><strong>[00:36:58]</strong> </span>
+<span class="speaker"><strong>发言人1: </strong></span>
+然后讲到消耗这件事儿，我们也提一下我们做CLI还有skills的这些商业模式的问题。Potos本身的CLI跟skills现在是免费开源的，然后大家可以在github上面搜索pod OS杠COI，然后可以找到。对，但对我们平台来讲的话，因为我们的转录本身还是挺昂贵的，它不是免费的，对于我们来讲其实成本也挺高的对，但这个里面我们有没有设计什么关于CLI还有skills的一些收费策略或者调用限制。就比如说现在很多coding agent，对吧？比如说COOD code的，它有一些周限额、月限额等等之类的。然后还有一些定时刷新，什么5小时刷新、几小时刷新等等之类的。我们有没有类似这样的一些策略？
+</p>
+<p class="transcript-line">
+<span class="time"><strong>[00:37:43]</strong> </span>
+<span class="speaker"><strong>发言人3: </strong></span>
+对我们现在对价值比较高的能力，其实做了这个滚动窗口的限制，就比如说这个获取AI处理后的结果，我们是做了每5小时的一个滚动窗口以及一周的一个滚动窗口，会去重置。这个限制原则上是让大家正常使用的时候够用。但是如果你想要去一下子把我们的数据全都爬完，那我们要限制一下对吧？防御一下这个情况。
+</p>
+<p class="transcript-line">
+<span class="time"><strong>[00:38:09]</strong> </span>
+<span class="speaker"><strong>发言人3: </strong></span>
+对，主要是然后对成本大头的这个转录和AI处理的能力。现在CII和我们的APP的credit是共享的，当然转录结果也是共享的，就是你用CII转录的，你在APP上也能看到，毕竟本质上CI就是对APP能力的再包装。但有一点值得一提的是，目前推广期，我们给福瑞用户也送了专属于CRI的AI的处理配额，或大家可以方便大家可以去试用一下。这个是专属CII的，外部上用不了，所以大家可以去体验一下，你也不用付费去体验一下。像跟前面settle说到的，他用这个CI加上这个agent有一些神奇的体验对吧？
+</p>
+<p class="transcript-line">
+<span class="time"><strong>[00:38:54]</strong> </span>
+<span class="speaker"><strong>发言人1: </strong></span>
+对，欢迎大家去试用一下。然后我是想帮大家再问一下，因为我们其实听众里面有很多开发者。对，如果我们现在要开始重新做一个新的产品的话，有这个新的产品可能一开始考虑的就不光是说我们给人用了，可能也要给agent去用。那在软件架构上面你们有什么建议吗？
+</p>
+<p class="transcript-line">
+<span class="time"><strong>[00:39:15]</strong> </span>
+<span class="speaker"><strong>发言人2: </strong></span>
+对我觉得总的来说肯定就这个跨度也还没有特别大。就是我觉得从工程上的基础型的架构，我觉得跨度还是没很大。我觉得更多的可能还是这种生态意识的转变，要不要转到A镜头上去。我觉得可能这个还是所有的开发者也好，或者说做产品的人也好，可能更多的要去思考的一个核心的问题。纯工程技术的话，我觉得可能都不是特别大的一个问题。当然我们这里还是回到架构上面去分享几点我自己的一个思考。
+</p>
+<p class="transcript-line">
+<span class="time"><strong>[00:39:53]</strong> </span>
+<span class="speaker"><strong>发言人2: </strong></span>
+我觉得前后端分离这个是我们其实提过很多很多年的老的东西。但是你会发现在过去所有的前后端分离的架构里面，都有一个很神奇的点。前后端是分离了，但是你最终找后端的同学要说一个清晰的那种rest的API其实是没有的。就是几乎给不出一个特别好用的那种能够作为open API去对外开放。有完善的token认证，然后有完善的限流机制。这样的一些API和前端没有任何的耦合，它就是一个非常清晰的API的这种很少。
+</p>
+<p class="transcript-line">
+<span class="time"><strong>[00:40:30]</strong> </span>
+<span class="speaker"><strong>发言人2: </strong></span>
+所以说我觉得说现在去做前后端分离，其实要的就是绝对的API的优先。要在API先行的基础之上，再考虑去提供什么面向人的GUI，面向agents的这样的CLI。对我觉得这个是可能我们你刚开始可以花更多的时间去思考，对，免得后面又可以再重新去做这件事儿。
+</p>
+<p class="transcript-line">
+<span class="time"><strong>[00:40:52]</strong> </span>
+<span class="speaker"><strong>发言人2: </strong></span>
+面向A进程软件架构，我觉得今天的话当你决定做这件事儿的话，就可以有更多的选择。比如这样更多的逻辑放到CLI上去实现了。对，就不需要完全让放到服务端，可以让服务端就变会变得更简单。比如举个例子，像pod wise的CRI可以导出内容，比如说可以导出SRT这样的字幕格式，VTT这样的字幕格式，甚至可以生成PDFX mind这样的一些格式。这些格式其实今天看你在C2端做就非常的自然。
+</p>
+<p class="transcript-line">
+<span class="time"><strong>[00:41:22]</strong> </span>
+<span class="speaker"><strong>发言人2: </strong></span>
+你在利用本地的桌面电脑的算力也是一个很合适的一件事儿。非常的自然就可以做。完全不需要在服务端给服务端增加更多的压力。服务端就可以专心去提供那些很稀缺的高价值的核心能力了。也就是说你可以把服务端做成一个只做核心业务，提供那么一点儿核心能力的一个小服务。比如说去完成用户的认证，这些完成计费，然后再提供你最核心的一个业务流程和能力就可以了。
+</p>
+<p class="transcript-line">
+<span class="time"><strong>[00:41:58]</strong> </span>
+<span class="speaker"><strong>发言人2: </strong></span>
+然后你的CLI里面，因为CRI它是完全跑在本地桌面电脑，或者跑在其他的一些服务器电脑上面的。它上面其实是拥有很强的对电脑的这种算力，存储这样的一些控制的能力。它就是一个非常完整的程序，他可以做你在web浏览器里面做不到的，其他的所有的事情他都能做得到。今天我们不要把CRI当成一个rapper层，只是对API的rapper，那其实他干的事儿非常的少。
+</p>
+<p class="transcript-line">
+<span class="time"><strong>[00:42:27]</strong> </span>
+<span class="speaker"><strong>发言人2: </strong></span>
+其实你把CRA也可以当成一个服务的标准的配套，就像你开发那个IOS的APP1样的道理了。等一下IOS的APP其实今天非常的复杂，它远远不只是调用一个远程的API，然后做一个展示的结果就完了。其实他也利用了很多本地的计算的能力，去做了很多的本地的一些逻辑。今天我们就做CRI，其实完全可以从这个角度去做对COI去实现所有的一些扩展的功能，提供更多的原子能力去供A检查直接去调用。
+</p>
+<p class="transcript-line">
+<span class="time"><strong>[00:43:02]</strong> </span>
+<span class="speaker"><strong>发言人2: </strong></span>
+这儿再举一个例子，比如说其实我们今天用class code这样的一些A检查的时候，它其实是可以将一个真诚的一个文章，这样的一个文字的内容给它。他自己通过写代码先给你写一个HTML出来，然后再把你转成PDF文件给你保存到本地。这个过程像所有的AIA就是今天它几乎都能完成。但是这个过程需要消耗非常多的token，并且也有更多的不稳定的因素存在，对吧？转成的那个PDF文件是否足够漂亮，每一次也不一定对吧？所以像这个转PDF这件事儿，把一篇文章，把一个文字内容转成PDF这件事儿，其实就完全可以沉淀到COI当中，它就可以变成一个固定的兔耳了，变成一个固定的原子能力了。那这样的话，对于ADR来说，它就可以直接的反复调用这个工具了。所以从这个角度就会发现之外，其实可以扮演的角色，它不是一个外层，它是一个合理的server端进行配套的一个客户端的一个程序。
+</p>
+<p class="transcript-line">
+<span class="time"><strong>[00:44:07]</strong> </span>
+<span class="speaker"><strong>发言人2: </strong></span>
+那回到我们pod wise上面，我们为什么把它开源呢？是因为我们觉得说我们的CRI，我们大多数的核心业务逻辑，它其实是在服务端的。特别是你涉及到可能需要计费的，这些都是被认证掉的，都在服务端。所以说客户端它不重要，它可以给到大家，大家可以随便的修改。你的如果把COI做成了一个未来和成为了你的核心服务的一部分的时候，和server是一个配套的。
+</p>
+<p class="transcript-line">
+<span class="time"><strong>[00:44:35]</strong> </span>
+<span class="speaker"><strong>发言人2: </strong></span>
+就像我说的这种，就像IOS的APP这种的话，那你可能确实你们就需要去决策你这个东西是不是要开源的问题了。你可能是选择不开源的方式提供给用户。对，这个都是要根据自己的产品是就像LS APP是一样的道理。对，需要自己从这个角度去决策。
+</p>
+<p class="transcript-line">
+<span class="time"><strong>[00:44:56]</strong> </span>
+<span class="speaker"><strong>发言人1: </strong></span>
+对我们讲IOS APP的软件的时候，我们不光有很多远程的API调用，它也有很多的IOS内部提供的一些能力的调用。就是比如说IOS本身的SDK提供了很多能力，它其实是不用跟服务端交互的。刚才小举个例子说，就跟我们本地其实可以转PDF，对吧？那因为本地我们软件里边其实想装一个转PDF的软件干嘛也好，或者在COI里边我去调用一个别的能力，把它甚至转视频等等都可以。其实这个就是你本地的一个能力，其实你本地是可以做很多很多这样的事情的。然后可以跟你的服务端去做一个配合，去做一个整合，然后让你的CLI的能力可以变得更强，可以降低你的token的消耗，然后可以给用户带来更好的体验。对我觉得这个是一个大家去做产品你的设计的时候，从体验角度里面可以去着重思考的。然后可也可以降低用户成本。对我觉得这一点非常好。我们本期节目就先聊到这里。
+</p>
+<p class="transcript-line">
+<span class="time"><strong>[00:45:54]</strong> </span>
+<span class="speaker"><strong>发言人1: </strong></span>
+最后再给大家安装的一个通道，如果大家在用小龙虾的话，就用open cloud的话。可以在cloud hub上面直接找到cloud wise，然后你搜索poo DOS，然后安装就可以了。如果你不想用网页，你想让open cloud自己安装的话，可以直接使用命令叫cloud hub install，也可以的。然后如果大家不是在用open cloud，在用别的产品的话，比如说你在用cloud code，再用open code，再用codex等等之类的。然后你也可以用NPX skills add hot hiker labs，然后powder wise杠CLI直接安装。这个我们也会在评论区帮大家把这个命令打出来。欢迎大家试用pot wise的CLI还有skills。如果大家有任何问题的话，可以在我们的github issue里面反馈，也可以在我们评论区下方跟我们留言互动。对，那我们本期节目就先到这里，我们下期再见，拜拜。
+</p>
+<p class="transcript-line">
+<span class="time"><strong>[00:46:51]</strong> </span>
+<span class="speaker"><strong>发言人2: </strong></span>
+拜拜。
+</p>
+<p class="transcript-line">
+<span class="time"><strong>[00:46:52]</strong> </span>
+<span class="speaker"><strong>发言人1: </strong></span>
+以上就是我们本期播客的全部内容，感谢大家收听，也欢迎大家踊跃留言。如果你喜欢我们点赞并分享给感兴趣的朋友。如果你在用苹果播客收听，也希望你花几秒钟给我们一个好评。这会让更多的人了解到我们要是能再点击一下订阅，那就再好不过了。我们下周见。
+</p>]]></content:encoded>
+            <pubDate>Mon, 30 Mar 2026 16:34:33 GMT</pubDate>
+            <guid>69caa449e2c8be3155f03013</guid>
+        </item>
         <item>
             <title>EP123 当我们被 “小龙虾” （OpenClaw）接管日常 🦞</title>
             <link>https://www.xiaoyuzhoufm.com/episode/69b04f0c2a2882aae761ee45</link>
@@ -23317,632 +23955,6 @@ OK了解。好，感谢天珠跟五花肉的时间。最后给你们一分钟时
 </p>]]></content:encoded>
             <pubDate>Mon, 03 Mar 2025 09:32:39 GMT</pubDate>
             <guid>67c5744abf52a16cd1357d2d</guid>
-        </item>
-        <item>
-            <title>EP94 对话“一手撸算法，一手做视频”的知名UP主&quot;朝发&quot;- 每个人都应该公开表达？</title>
-            <link>https://www.xiaoyuzhoufm.com/episode/67bc6e1605a90dfd0d8decf1</link>
-            <description>本期特别邀请到B站和YouTube知名UP主 &quot;朝发&quot;，他不仅是一位优秀的视频内容创作者，更是一位在一线大厂从事大模型的算法工程师。节目中，朝发将分享他如何平衡高强度工作和内容创作，如何打造爆款视频，以及他面对网络评论的心态转变。他不仅会分享他的创作经验和技巧，还会为想要学习LLM的听众提供学习路径建议。如果你对人工智能、内容创作或高效工作方法感兴趣，千万不要错过本期访谈！
-更多内容信息和时间线参考下文的硬地笔记，欢迎收听本期节目。
-嘉宾介绍
-朝发，一线大厂的大模型算法工程师，同时也是一位活跃在 B 站和 YouTube 的知名 UP主，其中 B 站已经超过 1.7万 粉丝。
-推荐他的 B 站和Youtube：
-* space.bilibili.com
-* www.youtube.com
-本期赞助
-Podwise.ai - Podcast knowledge at 10x speed 🚀
-Apple Store 下载👉🏻 apps.apple.com
-硬地笔记
-00:49 如何在大厂与自媒体之间找到平衡？
-05:00 如何克服内容创作的心智负担？
-11:15 视频创作中的逻辑：价值与观众期望的平衡
-14:27 如何缓解内容创作中的数据焦虑？
-18:53 如何在评论区中保持心理平衡？
-24:33 家庭与自媒体的平衡和视频变现
-31:18 未来的内容创作，AI将扮演什么角色？
-40:48 从零开始，学习LLM的最佳路径是什么？
-欢迎关注我们
-* 知识星球: t.zsxq.com
-* 官网: hardhacker.com
-* 小手册: book.hardhacker.com
-* 用爱发电不容易，请我们喝咖啡☕️: afdian.net
-* 公众号/小红书: 硬地骇客
-* 商务合作: hardhackerlabs@gmail.com
-* 另外，现在加入「硬地骇客」会员服务，即可在会员专属的微信群与其他朋友一起畅所欲言，成为会员也是对我们持续更新最大的鼓励！</description>
-            <content:encoded><![CDATA[<h1>转写链接</h1>
-<link>https://tongyi.aliyun.com/efficiency/doc/transcripts/ro84nra5o3ypqkb3</link><br>
-<h1>问题回顾</h1>
-<div class="qa-item">
-<div class="question"><strong>Q:</strong> 当时你是怎么确定要做大模型相关内容的？是不是因为你本身在做这个方向的工作，同时又踩中了大模型这一风口？</div>
-<div class="answer"><strong>A:</strong> 确实有这方面的因素。我本身从事大模型算法相关工作，所以在专业领域内制作内容更有价值。不过，起初我只是随手发了一个视频，没想到它意外火爆并给我带来了大量正反馈，之后才逐渐持续做下去。</div>
-</div>
-<div class="qa-item">
-<div class="question"><strong>Q:</strong> 对于从幕后走到台前，甚至露脸拍视频这件事，你是怎么迈出这一步的？为何一开始选择直接露脸而非先从小范围开始逐渐适应？</div>
-<div class="answer"><strong>A:</strong> 一开始我是没有露脸的，但在获得一定正反馈后，我希望内容能有更广泛的传播。我认为如果能让观众看到一个活生生的人，他们会更容易接受和信任我的内容。所以尽管一开始会有羞耻感，但为了更好地与粉丝建立联系并打造个人IP，我还是决定勇敢地露脸面对镜头。</div>
-</div>
-<div class="qa-item">
-<div class="question"><strong>Q:</strong> 当时你发的第一个视频就有爆款，爆款流量是从哪里来的？后来你有分析出这个流量来源吗？</div>
-<div class="answer"><strong>A:</strong> 这个爆款可能是因为标题起得比较吸引人，加上当时观众对我个人不熟悉，所以没有互动数据。平台根据用户的正反馈（点赞、留言评论）以及高完播率，给予了视频流量支持。随着内容传播，逐渐吸引了目标群体——想要学习知识的人群，他们的互动率保持在20%到30%以上。</div>
-</div>
-<div class="qa-item">
-<div class="question"><strong>Q:</strong> 你在制作新视频时，有没有抓到一些内容一定会爆款的逻辑？或者对于未来在B站上做新视频内容有什么建议？</div>
-<div class="answer"><strong>A:</strong> 做视频前需要先确定账号定位，不一定非要靠标题党吸引人，而是要思考视频内容本身的价值。例如，在印度骇客这个理论中，一个东西想要广泛传播，需满足感同身受、喜闻乐见或对我有用这三个条件中的至少一个。真正有深度的教学内容，如从0到1写一个IOM，虽然标题可能吸引人，但其价值在于实际教学和知识传递，而不是单纯靠标题党效应。</div>
-</div>
-<div class="qa-item">
-<div class="question"><strong>Q:</strong> 在做以教学为主的视频时，如何解决创作瓶颈问题，比如内容升级到高级阶段后可能影响数据的情况？</div>
-<div class="answer"><strong>A:</strong> 我个人的核心目的是表达和传递知识，而非通过视频内容盈利。即使数据有所下降，对我而言影响不大。我会随着自己的学习进展去做更深入的算法解读，同时也会兼顾观众的成长与进步，而不是盲目迎合观众的短期兴趣。</div>
-</div>
-<div class="qa-item">
-<div class="question"><strong>Q:</strong> 对于出视频的时间点，你有何要求？</div>
-<div class="answer"><strong>A:</strong> 最初希望每周更新一期，但后来发现两周更新一期也很难保证。现在越来越卷，更新频率随缘，但至少每两周会争取更新一期，因为自己每天都有较多的学习输入，希望能通过制作视频将所学分享给他人。</div>
-</div>
-<div class="qa-item">
-<div class="question"><strong>Q:</strong> 你有没有发现你的竞品？</div>
-<div class="answer"><strong>A:</strong> 我的对标账号或者说竞品主要是那些用爱发电的up主，比如五道口时梁某路程序员、秋刀鱼等。他们分享的前沿知识与我的视频内容有一定的契合度，我会推荐粉丝去观看他们的视频，同时强调自己的原则——主业工作优先，业余时间才制作视频。</div>
-</div>
-<div class="qa-item">
-<div class="question"><strong>Q:</strong> 在做教学类视频时，你是否遇到过喷子或者负面评论较多的情况？</div>
-<div class="answer"><strong>A:</strong> 是的，在制作教学类视频时，如果出现讲解上的疏忽，很容易引来喷子。他们可能会因为视频中的一处小错误就来指责甚至辱骂视频制作者。</div>
-</div>
-<div class="qa-item">
-<div class="question"><strong>Q:</strong> 你的视频下粉丝们的整体氛围如何？</div>
-<div class="answer"><strong>A:</strong> 整体来说，我的视频下的氛围还是不错的，大家表达观点较为真诚且尊重他人，大多数观众基于一定的基础水平进行交流。但难免会有同质化问题或误解，导致部分人觉得我讲得不对，进而喷我两句。</div>
-</div>
-<div class="qa-item">
-<div class="question"><strong>Q:</strong> 遇到这类喷子或负面评论时，你会在意吗？你会不会因为这些负面评论而改变自己的创作方式或内容？</div>
-<div class="answer"><strong>A:</strong> 我确实会在意这些评论，尤其是当它们涉及到我用心制作的内容时，我会感到伤心和难过，比如有评论指出视频设计或表达方式有问题，我会因此调整和改进。有时候我会受负面评论影响，比如有观众说我视频底纹的问题，为了证明自己，我甚至关闭了那个功能，但实际上这反而造成了额外的工作量。现在我认为应减少对这类评论的关注，避免它们对我个人情绪和创作方向造成过大影响。</div>
-</div>
-<div class="qa-item">
-<div class="question"><strong>Q:</strong> 家庭方面，你的配偶对你投入大量业余时间做自媒体是否满意？</div>
-<div class="answer"><strong>A:</strong> 目前陪家人的时间相对较少，这是需要改进的地方。虽然工作时间无法减少，但我可以通过外包剪辑等工作，提高效率，从而腾出更多时间陪伴家人。</div>
-</div>
-<div class="qa-item">
-<div class="question"><strong>Q:</strong> 在内容创作过程中，你是否运用了AI技术来提升效率？</div>
-<div class="answer"><strong>A:</strong> 在内容创作本身（如选题、构思）上并未使用AI，但在剪辑阶段，我使用了名为auto cut的开源工具，它可以将视频转录为文本，帮助我快速初检并删掉口播报文，提高剪辑效率。未来计划进一步优化工作流，让AI协助更多环节。</div>
-</div>
-<div class="qa-item">
-<div class="question"><strong>Q:</strong> AI是否能帮你完成视频的封面创作、标题设定以及剪辑工作？目前AI在剪辑方面的表现如何？</div>
-<div class="answer"><strong>A:</strong> 是的，AI可以帮我自动完成这些工作，让视频直接达到可发布的状态，只需要我录好视频，它就能处理标题、封面和剪辑等物料。目前AI在剪辑上做得还不够理想，但随着技术发展，期待未来能有更大进步。</div>
-</div>
-<div class="qa-item">
-<div class="question"><strong>Q:</strong> 你剪辑1小时视频内容大概需要多长时间？</div>
-<div class="answer"><strong>A:</strong> 我一般情况下剪辑1小时的视频内容大约需要1倍视频时长的时间，因为我边录边纠正自己的错误，并且是自己一个人录制。</div>
-</div>
-<div class="qa-item">
-<div class="question"><strong>Q:</strong> 目前你的频道盈利情况如何？</div>
-<div class="answer"><strong>A:</strong> 目前盈利不多，主要是B站流量费三四百块钱，以及部分粉丝打赏和充电收入，总额不到1000块钱。还没有实现真正的商业合作盈利。</div>
-</div>
-<div class="qa-item">
-<div class="question"><strong>Q:</strong> 是否考虑将视频发布到YouTube上以增加收益？</div>
-<div class="answer"><strong>A:</strong> 我确实把视频放到了YouTube上，但由于播放量不高，建议多做宣传以吸引更多海外用户观看，因为YouTube的广告分成按播放量计算，对海外用户较多的视频来说收益相对可观。</div>
-</div>
-<div class="qa-item">
-<div class="question"><strong>Q:</strong> 做视频除了虚荣心外，还有什么其他收获？</div>
-<div class="answer"><strong>A:</strong> 最大的收获是结识了许多潜在的朋友，包括很多高学历的人才，他们因为觉得我做的内容有价值而主动加我交流，这对我来说是一个很大的精神满足。同时，也收到了一些知名人士对视频的点赞，对未来可能还会有更多意想不到的收获。</div>
-</div>
-<div class="qa-item">
-<div class="question"><strong>Q:</strong> 在互联网上，内容生产者是否具有一定的价值？互联网对于个人表达的价值体现在哪里？</div>
-<div class="answer"><strong>A:</strong> 是的，内容生产者在互联网上有一定的价值。因为90%的人是潜水者，只浏览而不参与互动，而真正产生内容的只有2%的人。即使这些内容可能被视为垃圾，但它们是从大量人群中筛选出来的少数人的表达，因此本身就具有一定的价值。互联网就像一个宇宙，你每发布一条信息或内容，都是一个探索的信号。同频的人可能会看到并从你的内容中受益，给予反馈。这种放大效应能够帮助你在互联网上展示自己的特点，并可能因此获得意想不到的联系和机会。</div>
-</div>
-<div class="qa-item">
-<div class="question"><strong>Q:</strong> 观看你视频的群体主要是什么样的人？</div>
-<div class="answer"><strong>A:</strong> 观看我视频的群体主要是学生，还有一小部分是在互联网上的算法工程师，他们可能因为工作繁忙而放松了对新技术的学习，通过观看网络上的解读来追踪最新技术。</div>
-</div>
-<div class="qa-item">
-<div class="question"><strong>Q:</strong> 如果有人想从0到1掌握LM，需要做些什么准备？</div>
-<div class="answer"><strong>A:</strong> 要掌握LM，首先要具备基本的编程能力，尤其是Python编程；其次要熟悉并掌握transformers框架的应用，了解其API；此外，需要对NLP（自然语言处理）和深度学习有一定的认识，推荐学习李牧大佬的动手学习深度学习课程以及Hugging Face的NLP tutorial。在了解相关基础知识后，再阅读GPT系列论文，最后观看我的视频会更容易理解其内容。</div>
-</div>
-<div class="qa-item">
-<div class="question"><strong>Q:</strong> 你的视频内容主要分为哪几类？</div>
-<div class="answer"><strong>A:</strong> 我的视频主要分为两类：一类是动手实战类，面向希望直接使用大模型的Java工程师等，例如录制了“动手学习大模型”课程；另一类是较为深入的内容，面向想要成为大模型算法工程师的人群，会涉及从0到1手写大模型以及深度学习核心算法原理等内容。</div>
-</div>
-<h1>节目文稿</h1>
-<p class="transcript-line">
-<span class="time"><strong>[00:00:04]</strong> </span>
-<span class="speaker"><strong>发言人1: </strong></span>
-大家好，欢迎收听异地骇客。我是seattle，我是一笑。
-</p>
-<p class="transcript-line">
-<span class="time"><strong>[00:00:08]</strong> </span>
-<span class="speaker"><strong>发言人2: </strong></span>
-我是龟龟。
-</p>
-<p class="transcript-line">
-<span class="time"><strong>[00:00:09]</strong> </span>
-<span class="speaker"><strong>发言人1: </strong></span>
-本期节目由power wise赞助播出。Auto wise是一款为播客听众制作的AI学习软件产品的slogan是read before listen。Auto wise通过AI对播客内容进行转录提取、总结分析等一系列操作，帮你掰开了揉碎了硬核的播客内容。同时与notion read wise等平台的打通，嵌入知识管理工作流，协助您的其他包括新闻news letter blog的内容，帮你打造第二大脑。Hot wise也为本期听众准备了三个5折优惠码，针对本期在小宇宙与我们互动的精选回复，欢迎大家踊跃来玩。
-</p>
-<p class="transcript-line">
-<span class="time"><strong>[00:00:46]</strong> </span>
-<span class="speaker"><strong>发言人1: </strong></span>
-好的，那开始我们本期的节目。今天我们非常荣幸邀请到潮发来我们节目。阿发是一个在一线大厂的大模型团队工作的算法工程师，同时也是一位活跃在B站和youtube的知名up主，其中在B站的粉丝已经超过1.7万了。最出圈的内容应该是IOS zero to hero从零手写大模型系列。我看了一下每期的浏览量都接近10万，我强烈推荐大家都去学习一下。如果你对大模型非常有兴趣的话，对，那我先不多说了，先欢迎潮发，潮发也帮我们介绍一下自己。先hello大家好。
-</p>
-<p class="transcript-line">
-<span class="time"><strong>[00:01:21]</strong> </span>
-<span class="speaker"><strong>发言人3: </strong></span>
-我是潮发。然后我是目前在一个互联网大厂上班，以前在腾讯主要是做大模型算法相关的一些工作。不过我主要是做应用算法的，因此对于大模型在各个领域的一些应用可能会相对更了解一点。但是一些那种具体的训练细节，我其实自己还在学习。我学习就是一个分享的过程，所以才开始在哔哩哔哩或者说youtube这种地方去更新一些视频。
-</p>
-<p class="transcript-line">
-<span class="time"><strong>[00:01:48]</strong> </span>
-<span class="speaker"><strong>发言人1: </strong></span>
-其实我就想问一下超发，因为你看你在大厂工作，之前在腾讯，现在在也在一线大厂。大家猜吧猜吧，反正也就这几家，对吧？我猜你应该就非常忙，对吧？你为什么还会选择去在去做up主呢？我这个是想不太通的。
-</p>
-<p class="transcript-line">
-<span class="time"><strong>[00:02:03]</strong> </span>
-<span class="speaker"><strong>发言人3: </strong></span>
-其实做up主的话就是你的动机是什么？你想一下，就是一个人做事情的动机可能不外乎是利益驱动。你可能能赚很多的钱，然或者说你是像李牧说的，可能是恐惧驱动，你害怕错失掉了这样一个机会。比如说如果你是大模型的风口，那么你怕错失了这种机会。但是对我来说更多的不是这两种，而是虚荣心驱动。因为我能看到很多的人去做公开表达的时候，他能被很多的人看到，那么你在其中会收获到很多的正正反馈。因为被看见是人类的一种普遍的需求，所以我觉得我是想要去被别人看到我的一些言论，然后去帮助到别人。所以我目前的话是工作之余的话，可能就基本上没有什么个人的生活了，基本上都是在忙着做那个视频。
-</p>
-<p class="transcript-line">
-<span class="time"><strong>[00:02:55]</strong> </span>
-<span class="speaker"><strong>发言人1: </strong></span>
-我理解说你其实想要被别人看到，就是有一个所谓的虚荣心驱动。那在内容上面，你当时是怎么确定说你想做什么内容的？因为我现在回头再看，因为你自己已经火了，有点小火了，已经至少B站1.7万粉丝，每天也都在10万以上。对，所以我就想问你说你自己再去做这个事情的时候，我看你好像踩中了一个风口，因为大模型。对，然后这个也刚好在你的专业，你当时在考虑说你想做什么内容的时候，有这方面的因素吗？就是因为你自己也在做大模型，然后大模型刚好也火了，所以你就想去朝这个方向去做一部分内容。
-</p>
-<p class="transcript-line">
-<span class="time"><strong>[00:03:30]</strong> </span>
-<span class="speaker"><strong>发言人3: </strong></span>
-有这么一点点因素在这里面。因为我是做这一行的，我肯定做我自己擅长的东西，对别人才会有价值。但是我更多的不是说我想要去踩中这一个风口，而是我是随手发了一个视频，然后刚好他火了，然后给了我一些正反馈，然后我才是接着去做的。
-</p>
-<p class="transcript-line">
-<span class="time"><strong>[00:03:49]</strong> </span>
-<span class="speaker"><strong>发言人3: </strong></span>
-因为那个时候我刚好在那个公司上班，那个时候是很卷，就内部活水一下，在准备一些面试的过程中，自己在准备一些相关的知识点。然后活水完了之后，相对会有一段时间是会做那个交接，交接的过程中相对比较闲一点。因此我那个时候就把我自己准备的过程中的一个非常重要的算法，把它录制成了视频，然后发到B站上。
-</p>
-<p class="transcript-line">
-<span class="time"><strong>[00:04:13]</strong> </span>
-<span class="speaker"><strong>发言人3: </strong></span>
-在前一个星期的话，基本上都是没人看的，可能就五六十播放就是这种情况。但是不知道为什么，在第二个星期，第三个星期的时候，它突然开始有人看，然后就流量迅速的增长。刚好就到了国庆，然后就给了我一个很强的正反馈。因为很多人会私信我说，你这个视频做的很好，对我的帮助很大。他是会真的是私信你，我告诉你说你这个东西对我的帮助很大。这个东西的话对于一个历史上就已经会去做一些公开表达的人来说，他是一个很强的正反馈的。因为我以前也会去写一些文章，我有自己的那个blog，但是看的人都非常的少。因此这种带来的反馈的话是非常强烈的，所以就才开始慢慢的去做这样一个事情。
-</p>
-<p class="transcript-line">
-<span class="time"><strong>[00:05:00]</strong> </span>
-<span class="speaker"><strong>发言人1: </strong></span>
-对，那我就有点疑惑了。你看我们印第骇客直到今天，我们也没有露脸，对吧？大家可能也不知道我们长什么样子，对吧？你刚才也讲说你最早前可能是做文章的blog，写博客的。我知道你自己还有一个博客，只不过那个博客发的内容不是很多。然后你现在也在做视频的，但视频的话其实相当于说一做就爆掉了。
-</p>
-<p class="transcript-line">
-<span class="time"><strong>[00:05:22]</strong> </span>
-<span class="speaker"><strong>发言人1: </strong></span>
-那从我自己的体感上面来讲，就是说从我内容发布的这个心智负担上里面来讲，其实我发twitter是心智负担最低？反正我只要写几个字就发了？那写文章的话薪资负担稍微高一些？我要编辑一下，总结一下，整理一下，他有一些上下文的一些结构有些关系，但是他薪资负担也是低的。
-</p>
-<p class="transcript-line">
-<span class="time"><strong>[00:05:42]</strong> </span>
-<span class="speaker"><strong>发言人1: </strong></span>
-我觉得做博客就有一点羞耻感在了，大家可能能听到你的声音，你觉得说我声音不好听怎么样，然后我讲的这个东西大家到底有没有人愿意花这么长时间去听，这个就开始有一些负担了。我觉得负担最重的可能是露脸，就是这样子的。很多人觉得说我长得又不帅，我露脸有没有人看？大家会不会觉得反感，怎么样，或者说这个羞耻感就来了。对我就不确定说你是怎么样迈出这个羞耻感这一步的，为什么一上来就拍视频了？我觉得对很多人来讲这个是很重要。大家很多人可能他不会去拍视频露脸这件事儿。
-</p>
-<p class="transcript-line">
-<span class="time"><strong>[00:06:18]</strong> </span>
-<span class="speaker"><strong>发言人3: </strong></span>
-这个的话我先说一下，其实我一开始的视频也是没有露脸的，这样在前前面几期的视频是没有露脸的。只是说当我真正的开始想要去做这个事情之后，我就希望能有一个更广泛的传播。这就是当我获得了一定的正反馈的时候，我希望开始真正的去重视这件事情了。然后我就想要去怎么样去把它做好。我们都知道现在那个互联网上面的内容是供给是非常的多的，其实是非常多的。你怎么样能够让自己的内容相对于别人来说会有更独特的一些价值。可能就是别人看到了你，他觉得你会相对更亲切，他觉得你是一个活生生的人，然后他可能才会去看你这样的一些内容。
-</p>
-<p class="transcript-line">
-<span class="time"><strong>[00:07:04]</strong> </span>
-<span class="speaker"><strong>发言人3: </strong></span>
-因为我从来不把我的粉丝当成粉丝，我是把想把他们当成我的朋友。所以说我就觉得如果是我的朋友的话，他应该是比较接受我长这个样子。虽然说我长得不帅，然后是一个非常普通的人，但是这就是我们大多数人都是这样的。因此我觉得好像露脸也没有那么大的问题，只是说一开始会有一些那种羞耻感。因为每个人听自己的声音都可能会有声音羞耻，看自己的那个照片或者说视频，你就更会有羞耻感了。所以这个的话还是说我是把它当做一个内容去做运营的，它是一种那种手段。
-</p>
-<p class="transcript-line">
-<span class="time"><strong>[00:07:43]</strong> </span>
-<span class="speaker"><strong>发言人1: </strong></span>
-OK。所以说露脸这个背后再去结合到说，其实我自己是想去打造我个人埃批打造人设的。所以说依靠利益把自己吸引出来说其实我可以露脸是吗？
-</p>
-<p class="transcript-line">
-<span class="time"><strong>[00:07:56]</strong> </span>
-<span class="speaker"><strong>发言人3: </strong></span>
-是这样子的，或者说我更希望的是别人能真正的活生生的看到我这个人，然后把我当做朋友。可能它里面的那个利益的话倒也没有多少，但是它会在那个传播上面应该是会有一些正向的作用的对。
-</p>
-<p class="transcript-line">
-<span class="time"><strong>[00:08:13]</strong> </span>
-<span class="speaker"><strong>发言人2: </strong></span>
-其实露脸比较容易让别人信任，比较真诚，对吧？是的，然后对，一般其实西方像欧美那边的那些创业公司什么的，这个创始人一般都很愿意出来露脸。就是让家大家看看说我这个背后是真的有这么一个人在。但是我们这边其实大家就感觉比较你也不能说是羞耻感，他就是比较保守，可能就是但是我发现我感觉好像过了35之后我就无所谓了，你知道吧？过了35之后我就觉得反正我就长这个样子了，我也不不是靠靠这个要去吸引异性还是怎么样，我已经过了求偶期了，所以无所谓。
-</p>
-<p class="transcript-line">
-<span class="time"><strong>[00:08:50]</strong> </span>
-<span class="speaker"><strong>发言人3: </strong></span>
-好像有可能是这个原因，因为我也已经结婚了。然后可能结婚过后的人就不太会有太多的那种叫什么颜值压力。
-</p>
-<p class="transcript-line">
-<span class="time"><strong>[00:09:02]</strong> </span>
-<span class="speaker"><strong>发言人2: </strong></span>
-因为你是靠知识去吸引别人的对吧？是内在。
-</p>
-<p class="transcript-line">
-<span class="time"><strong>[00:09:07]</strong> </span>
-<span class="speaker"><strong>发言人3: </strong></span>
-我老婆她就经常问我，你为什么直接穿一个睡衣就录视频了？然后她说这样会不会不好，然后我就觉得好像也无所谓。
-</p>
-<p class="transcript-line">
-<span class="time"><strong>[00:09:18]</strong> </span>
-<span class="speaker"><strong>发言人1: </strong></span>
-对，潮发我想问一下你，你看你刚才讲说你一开始发了一个视频，他是没有露脸的。然后一开始过了一个周，其实都没什么反应，对吧？然后突然就爆了。你知道这个爆点的原因是什么呢？是因为平台推给你流量的，还是有人在二次传播了，还是怎么样？因为我们是比较明显的知道印第骇客的博客是怎么起来的。就是因为有一个我们的一个听众朋友叫老C老C他是一个微博的大V他在微博上面帮我们转发了，我们好像第二期还是第三期。对他转发过后，然后我们那一期就爆掉了，然后就多了很多的粉丝。
-</p>
-<p class="transcript-line">
-<span class="time"><strong>[00:09:53]</strong> </span>
-<span class="speaker"><strong>发言人1: </strong></span>
-我不知道你的这个，你刚才讲说第一个发了就有爆款，这个爆款是从哪儿来的？这个流量从哪来的？你后来有知道吗？有分析出来吗？
-</p>
-<p class="transcript-line">
-<span class="time"><strong>[00:10:02]</strong> </span>
-<span class="speaker"><strong>发言人3: </strong></span>
-这个的话应该就是一些随机性，因为我那个内容的话，它标题起的比较吸引人，后面再回想一下的话，他可能是起的比较吸引人。一开始的话只是因为大家对我这个人不认识，所以他没有一些互动的数据。因为我以前也做过广告推荐相关的一些算法，所以是知道这种就是当你的后面的人，假设你每一次看到那个标题，他都会对他产生一些那种正反馈。比如说点赞或者是留言评论。那么这种情况下以及它的完播率是非常高的。
-</p>
-<p class="transcript-line">
-<span class="time"><strong>[00:10:37]</strong> </span>
-<span class="speaker"><strong>发言人3: </strong></span>
-它后面的话是慢慢的会给你一些流量的，它核心应该是我后面的那些看了的人。就是一开始因为我我以前是发的是一些生活的视频，就我日常的一些生活视频。然后后面他可能会在慢慢的扩圈的过程中，它精确的命中到了这一部分。想要学习知识的人，他们的那些互动率是很高的。像我的视频的互动率基本上保持在20%到30%以上。所以这是一个从数据上来说是一个非常好的一个数据。所以那个平台的话是在那种传播机制上面的话，它会是给这种视频一些流量了解。
-</p>
-<p class="transcript-line">
-<span class="time"><strong>[00:11:16]</strong> </span>
-<span class="speaker"><strong>发言人1: </strong></span>
-因为你刚才讲说你有做过广告，因为在从这个内容上面来讲，其实大家的逻辑都是共通的。比如说我的完播率，比如说我的互动率等等之类的，我不知道你自己再去做，现在做了很多这样的新的视频了，你自己有没有一个体感说，我今天发的这个内容他一定会报，就是你有没有抓到一些，你觉得他一定会报的一些逻辑，能不能跟我们分享一下。比如说我们现在，比如未来印蒂哈克想在B站上面去做新的视频内容了，然后你会有什么建议，比如说一定要标题党，然后一定要干货还是怎么样？我不知道你的那个内容逻辑是什么，能跟我们分享一下。
-</p>
-<p class="transcript-line">
-<span class="time"><strong>[00:11:54]</strong> </span>
-<span class="speaker"><strong>发言人3: </strong></span>
-我觉得这个东西是一个你做视频之前就要先想好的东西。你可以是通过标题党去吸引人，但是我一般来说我不想去做这样一个事情。因此你需要在在你做视频之前，你就想好你的那个本身账号的一个定位是什么。
-</p>
-<p class="transcript-line">
-<span class="time"><strong>[00:12:13]</strong> </span>
-<span class="speaker"><strong>发言人3: </strong></span>
-在印度骇客里面已经讲一个理论，讲了非常多次了。我这里再重申一遍，就是应该是判断在那个乱翻书上面说那个经典理论一个东西想要广泛传播，那么它其实满足的是三个中的至少一个。第一个的话叫做感同身受，然后第二个是喜闻乐见，第三个是对我有用。前面两者都很难，包括像印第骇客，你们前面的节目里面也都说到你们的那个做事的逻辑，就是说觉得前面很难，我就只能做对别人有用的东西。因此像我如果是我们这种类型的一些人，你是真正的想要去做内容的。我会觉得你去设置一些标题党，或者说封面做的非常的夸张，这其实是没有太大的必要的。因为我的封面都是一些非常简单的封面，核心就是我做的内容是真正的对别人是有价值的。这个东西是需要你在一个账号的定位，就得要先想好的事情。
-</p>
-<p class="transcript-line">
-<span class="time"><strong>[00:13:12]</strong> </span>
-<span class="speaker"><strong>发言人1: </strong></span>
-了解我，我知道你自己的那个内容里面主要是以教学为主的对吧？我看你的所有的内容里面很多都是教学的，而且你的教学的内容就蛮吸引人的。比如说从0到1写一个IOM对吧？我觉得这个其实有点标题党。
-</p>
-<p class="transcript-line">
-<span class="time"><strong>[00:13:28]</strong> </span>
-<span class="speaker"><strong>发言人3: </strong></span>
-但是他是真的是很有理解。
-</p>
-<p class="transcript-line">
-<span class="time"><strong>[00:13:30]</strong> </span>
-<span class="speaker"><strong>发言人1: </strong></span>
-的对对对对对他确实就很吸引人。可能没有干过的，或者说大家可能是小白没有接触过的，他就可能很愿意说，我去看一下这个从0到1写一个到底是怎么回事。对我不确定就是你自己在做这类内容的时候，因为你知道这个是一个教学性质的，对吧？然后教学性质的内容的话，我感觉是会有一定创作瓶颈的。比如说你这个教学完了之后，因为你从0到1写什么东西，它是有界的。你不能说我永远都是从0到1写一个什么东西，你后续可能会写到很高级的。比如说我从0到1写一个什么很高级的算法，但那个算法可能不是所有人都愿意听的，或者不是所有人都有用的，那有可能他的可能数据就掉下来了。对，我不知道你自己有没有考虑过，你在做这种内容创作的时候，你的就是内容层面上面，然后你是怎么考虑，怎么规划的。因为我觉得这个事还挺头大的。
-</p>
-<p class="transcript-line">
-<span class="time"><strong>[00:14:19]</strong> </span>
-<span class="speaker"><strong>发言人3: </strong></span>
-我倒没有考虑那么多，因为我核心并没有想通过他去赚很多的钱，这就是我一个表达的目的。我从利益上面来说，就是哪怕他后续他的那个数据掉下来了，对我来说他的那个影响是没有那么大的。因为我希望的是做出有用的内容，能够帮助到别人。我不可能永远去写，比如说从0到1去干什么？我核心肯定是会去做一些那种更深入的算法，我得要做我同时自己在学习的东西，然后同时再把它去做二次的一些加工，帮助别人去做理解，这就是费曼学习法。所以我不会去迎合那些人想要看什么内容，而是说我希望的是大家能随着我一起去成长，一起去进步。
-</p>
-<p class="transcript-line">
-<span class="time"><strong>[00:15:08]</strong> </span>
-<span class="speaker"><strong>发言人1: </strong></span>
-OK所以说你自己可能不会太在乎说，因为你不靠这个视频本身的内容盈利，然后你可能不会去在乎说我自己想表达的这个内容跟观众想看的内容，然后我要做一个？我要做一个权衡。因为如如果我是要靠视频本身盈利的，然后我是要靠他生活的那我可能会永远追着流量走。那对你来讲，因为你自己有正常工作，你工作赚的应该比这个视频赚的多的多的多，对吧？所以你可能不太care你一个视频说到底我要怎么去迎合观众，是这个意思吗？
-</p>
-<p class="transcript-line">
-<span class="time"><strong>[00:15:38]</strong> </span>
-<span class="speaker"><strong>发言人3: </strong></span>
-对，虽然有的时候会有一些数据焦虑在一开始的时候，但是我后面已经想通了这个逻辑了。就是我其实靠这个东西我也做赚不到什么钱。因为我他就是赚的钱就很很少很少，可能你一个月买咖啡的钱都比这个要多很多。
-</p>
-<p class="transcript-line">
-<span class="time"><strong>[00:15:56]</strong> </span>
-<span class="speaker"><strong>发言人1: </strong></span>
-是OK。所以说在这个点上你就不会太焦虑，最后的那个数据是怎么样子或者怎么样。那你自己对于你自己出视频的这个要求，就是时间点上多长时间出一期，你会对这个有要求吗？
-</p>
-<p class="transcript-line">
-<span class="time"><strong>[00:16:08]</strong> </span>
-<span class="speaker"><strong>发言人3: </strong></span>
-以前有考虑过，就是希望能每周更一期，但后面发现两周跟一期也很难保证。然后目前越来越卷了，之后就可能比较随缘，但是是会争取去至少每两周更新一期。因为我自己平常的话也是需要去学习东西的，我每天的输入都是有比较多的，但是就是没有时间去做输出。因此我在那个选题上倒不会说存在像你刚刚说的的那个问题，就是觉得没有东西做了，而是我想做的东西太多了。因为可能是跟这个领域有关，就是AI领域的话它日新月异，就今天一个算法，明天一个算法，就像那个deep sick一样。他说接下来五天要得要发布几个开源几个技术，但是你每一个你可能都得要去学。对于有的人来说，你能学习的更深，你去把它做一次解读，你去把传播出去，对别人就是有帮助的。你看像这些东西我都是想做的，但是我是没有时间去做的。
-</p>
-<p class="transcript-line">
-<span class="time"><strong>[00:17:07]</strong> </span>
-<span class="speaker"><strong>发言人1: </strong></span>
-OK了解，那我估计很多人会想听，很多人会想看你做的这个新的解读。对你就我相信在高阶的做IM这个相关的这个视频领域里面，其实真正的大家在出好内容的创作者其实并不多，对吧？你自己有发现你的竞品吗？
-</p>
-<p class="transcript-line">
-<span class="time"><strong>[00:17:24]</strong> </span>
-<span class="speaker"><strong>发言人3: </strong></span>
-这个就回到了我做视频的一个，就是我为什么要做这样一个视频？我是受到了很多那种哔哩哔哩的那种用爱发电的up主的一些影响。就比如说像五道口那时梁某路程序员，还有什么秋刀鱼这种，比如说李睦就是大家都知道的。然后像他们的话，他们也都是分享一些比较前沿的东西，包括我的那些东西的话，也相对来说是比较深的。
-</p>
-<p class="transcript-line">
-<span class="time"><strong>[00:17:49]</strong> </span>
-<span class="speaker"><strong>发言人3: </strong></span>
-其实真正的有一些内容的话，小白是看不懂的，我自己也会去推荐我的很多粉丝朋友们去看别人的一些视频，因为他们会希望我去出某种类型的视频。但是我自己是不可能说在那个工作上面有打折，这是我的原则。我肯定是得要主力，是要把工作做好的。然后你业余。如果有时间的话你才去做视频。所以我是会去推荐很多粉丝朋友们去看别人的视频，那肯定也是OK的，只要你能学习到东西就好了。
-</p>
-<p class="transcript-line">
-<span class="time"><strong>[00:18:23]</strong> </span>
-<span class="speaker"><strong>发言人3: </strong></span>
-所以在我这里的话可能不存在所谓的竞品，只能说是对标账号。但是对标账号，那为什么叫对标账号？核心是因为我想成为他他是我的榜样。这算是追星，或者说我以前关注的很多up主，我以前从他那里学到很多东西，他回关我了，我就觉得非常的有成就感。而且确实这件这种事情他已经正在慢慢的发生。
-</p>
-<p class="transcript-line">
-<span class="time"><strong>[00:18:46]</strong> </span>
-<span class="speaker"><strong>发言人1: </strong></span>
-OK所以说好的内容还是会迎来尊重的对吧？其实满足了你的虚荣心。OK我们在做博客，所以印第安克做播客，我印象中就是直接怼我们的人不是很多。大家可能更多的是表达自己观点，然后发表一些自己的意见等等之类的，他不会直接怼我们个人。但是我觉得好像做教学类的视频，挺容易出现喷子的。比如说你做一个教学类的视频，假如你某一个地方稍微有些疏忽，可能就很多喷子过来了。然后就过来喷你说，你这个东西都搞不对，你还过来给我们做视频怎么样。我不知道你自己有没有碰到过这样的，你自己的视频下面的氛围怎么样？
-</p>
-<p class="transcript-line">
-<span class="time"><strong>[00:19:27]</strong> </span>
-<span class="speaker"><strong>发言人3: </strong></span>
-整体来说我的视频下面的那个氛围还是比较好的。因为可能是因为我表达的话也相对来说比较真诚，然后是比较考虑大家的一些那种基础水平，而且都是带着写的，所以整体来说它是一个好的氛围。但是不乏有一些人，他就是会觉得你做的这个东西跟别人可能会有一些同质化。或者说你这里哪里讲的有一点点小问题，他就会觉得你是啥也不懂。或者说他觉得你可能是一个麦克的，就导致他就会想要喷你两句，或者说他他曲解了你的意思，也是有可能的。
-</p>
-<p class="transcript-line">
-<span class="time"><strong>[00:20:04]</strong> </span>
-<span class="speaker"><strong>发言人3: </strong></span>
-比如说我举一个例子，我的视频会留一些小作业。比如说我那个从0到1手写LM的时候，因为模型的话它是有一个迭代的过程的。你第一版模型可能是一个初阶版，然后第二版模型的话你会需要一些进阶。然后我会在我的视频里面留一个小作业，我说同学们你学完了这个之后，这个模块很重要。比如说这个FFN模块很重要，那么你需要去把它做一次优化，变成switch GLU。这种情况下你自己去实现一下，你会对这个模型有更深入的了解，并且更接近现代的LM。这种情况下有一个人他竟然跟我说，他说你做视频就不要藏着掖着了。然后我就满头的问号，我说如果我藏着掖着的话，我为什么要做这个视频？
-</p>
-<p class="transcript-line">
-<span class="time"><strong>[00:20:54]</strong> </span>
-<span class="speaker"><strong>发言人3: </strong></span>
-对，然后还有一些人他又会去发表一些错误的观点。因为并不是所有的人都是非常专业的，他可能会去觉得你哪里讲错了，然后他会去说你这里做的不对，那里做的不对。还有一个非常经典的例子，就是有一个人他分不清transformers but lama，然后百川intel m这些模型之间的联系和区别，或者说什么attention的哪些方式他都不知道。他在那里视频里面给我大讲特讲，搞得我很尴尬，然后我就不得不写一大段的文字去纠正它。你到底哪里的有错误了？因为模型是有一个迭代的过程的，你在演示的过程中，你不可能把所有的东西都讲清楚。在他的那个基础稍微弱一点的情况下，他可能就产生了错误的理解。因此有的人是非常有自信的，他什么都不懂的情况下，他就敢大放厥词。
-</p>
-<p class="transcript-line">
-<span class="time"><strong>[00:21:52]</strong> </span>
-<span class="speaker"><strong>发言人1: </strong></span>
-了解我想问一下你，你在碰到类似这样的人的时候，你看有些时候我们去会跟他争论，对吧？有些时候可能他喷真的就是完全没有道理，可能我们也无所谓，反正就反喷回去，吧？有些时候他可能讲的有一点点，对，我们可能可能稍微做错了一点点，我们也可以承认对吧？你有些时候你会不会在意这些评论，评论好的地方当然就无所谓了，那评论不好的地方会不会特别在意，几天都过不去。
-</p>
-<p class="transcript-line">
-<span class="time"><strong>[00:22:17]</strong> </span>
-<span class="speaker"><strong>发言人3: </strong></span>
-我会比较在意，就是我觉得我可能是有一点点玻璃心，不太适合做在这一点上面，会不太适合做up主什么的。因为我会觉得如果他说一些伤害到了我的话，我就会内心很难受。就比如说有一个人我记得非常的清楚，他说你的视频因为你用了那个特色，它是有底纹的。他说你这个视频就是对着底纹敲。然后我下一期视频我就说我就直接把那个科室给关掉了，我不补全了，我直接真的一行一行手打，然后导致那个视频我又要debug，那个视频又又很长。但是都是一些那种小错误，就是比如说变量命名你可能不统一了这种。我是会比较关注这种评论的。然后我有朋友就说其实没有必要去理他们，但是我会比较在意，因为我觉得我是真的用心的去做了这些事情，我觉得是有价值的。但是受到了这种不公正的评论的话，我会有一点点伤心。比如说有人说我的英语不太好，然后我也挺难受的，因为我还是一直想把它搞好的。
-</p>
-<p class="transcript-line">
-<span class="time"><strong>[00:23:30]</strong> </span>
-<span class="speaker"><strong>发言人2: </strong></span>
-对，但是实际上就是这个，怎么说呢？就是你像你刚刚举的这个例子，我觉得其实对于你来说，你反而是吃亏的对吧？你为了证明自己，然后把科室给关了，在那手枪带把？其实自证是一件很难的事情，然后你自己其实受到了损失。但是对于那个喷你的人来说，他完全无所谓？他甚至都有可能不会去看你这个新的这一期的视频。
-</p>
-<p class="transcript-line">
-<span class="time"><strong>[00:23:53]</strong> </span>
-<span class="speaker"><strong>发言人3: </strong></span>
-对，是这样子的对。
-</p>
-<p class="transcript-line">
-<span class="time"><strong>[00:23:55]</strong> </span>
-<span class="speaker"><strong>发言人2: </strong></span>
-所以我是觉得除非说反正我个人，我相对来说也以前我会比较在意这种事，后来我就觉得无所谓了，无非是特别比如说对你污蔑抹黑的，然后剩下还有很多人他自己本身的认知上带来的问题，其实是会有你的观众去帮你喷回去的，很多时候会这样的对吧？就是他们这种比较降智的这种回复，自然会有人帮你去解决掉。所以我觉得还是要不要太去在意，对自己影响太大了，这个不太好。
-</p>
-<p class="transcript-line">
-<span class="time"><strong>[00:24:27]</strong> </span>
-<span class="speaker"><strong>发言人3: </strong></span>
-是这样子的，我现在还在学习中，就是有一些评论的话我就直接不回复了。就像上一次，我已经控制了一段时间不去回复那些那些喷子的评论。但是有一次他又说我的视频毫无价值，这个东西真的有意义吗？说别人的很有价值，然后我就无非发了一个视频，稍微的小白一点点。就比如说教别人去怎么在本地安装那个deep sick RE，这个视频就挺小白的。然后有一个人就喷我的视频没有价值，说别人都有价值，然后我就我实在是忍不住了，我又回喷回去了，就感觉感觉自己又破防了。我很容易破防这个。
-</p>
-<p class="transcript-line">
-<span class="time"><strong>[00:25:07]</strong> </span>
-<span class="speaker"><strong>发言人1: </strong></span>
-事儿确实是需要修炼的。年轻的时候我们都很挺容易破防的对，现在脸皮厚了可能就还好了。对，年轻时候别人喷你一下，你都不敢回喷回去，总觉得说我自己是一个博主，我是一个up主，我喷他显得感觉好像不对。但是你说他又把你喷了，然后你心里又觉得不舒服，对吧？我觉得这个事确实是需要修炼的对，很多时候很多人确实没有理他的必要。
-</p>
-<p class="transcript-line">
-<span class="time"><strong>[00:25:31]</strong> </span>
-<span class="speaker"><strong>发言人3: </strong></span>
-确实是这样的，这点是得要像你们这种前辈学习。
-</p>
-<p class="transcript-line">
-<span class="time"><strong>[00:25:37]</strong> </span>
-<span class="speaker"><strong>发言人1: </strong></span>
-我们也只是年大了懂。对你刚才有讲说你工作结束之后就自媒体，然后就是自己去做视频干嘛的。你好像没有提到你的家庭。对，就是一般来讲你有工作有家庭，然后还有你的业余时间，对吧？那如果你把业余时间，你如果都分配给自媒体的话，那家庭就没时间了。我不知道你现在你家里边，包括你老婆对你的状态是满意的吗？你有没有说感觉她好像被冷落了，你没事干，你就在做视频，你也不管她。
-</p>
-<p class="transcript-line">
-<span class="time"><strong>[00:26:09]</strong> </span>
-<span class="speaker"><strong>发言人3: </strong></span>
-我目前的话会觉得陪家人的时间还是相对少了一些，这个的话是我需要改进的地方。但是工作的时间你是没有办法的，他你上班他就是得要这么多的时间，这个可能改进的地方比较少。但是在自媒体上面或者说公开表达上面，我是有一些方式去提高那个效率。比如说关于剪辑这种事情，我是可以去外包给别人，让别人去帮我做剪辑。这样的话我去剪一个视频，肯定比我录的视频的时间要长很多。但是我把它外包出去，我就节约了很多时间。那么这个时候我就可以去陪我的老婆去散步，或者说去公园遛弯什么的都都可以。这样子的话目前的话会不是特别满意，还需要改进。但是未来的话我想应该会做的。
-</p>
-<p class="transcript-line">
-<span class="time"><strong>[00:27:05]</strong> </span>
-<span class="speaker"><strong>发言人1: </strong></span>
-OK对，那我想问一下朝发，因为你自己也是AI从业者，你就在做AM的算法相关的这些东西。对你现在有在用AI在你的内容创作的工作流里吗？因为你在剪视频干嘛的对。
-</p>
-<p class="transcript-line">
-<span class="time"><strong>[00:27:17]</strong> </span>
-<span class="speaker"><strong>发言人3: </strong></span>
-在创作的内容的创作上面它是没有的。因为我本身已经有想好的那个选题了，就是我要做什么内容，我的我这一期视频想要表达什么东西，它是有个非常明确的东西的。就像我们学一个算法，比如说递归或者说其他的内容，它是一个很明确的东西。所以AI其实能帮助我的东西很少。它能帮我提效的是在剪辑的过程中，我用的是李牧开源的一个东西叫auto cut。它是可以把你的那个视频转录为文本，然后我只要对着那个文本去删掉我的一些口品，然后它就会自动帮我去做一遍初检。基本上我这样做完之后，它的那个视频的可用性还是相对比较高的。然后剩下的我就可以去交给一些其他的人去做了，就是我后面打算这样处理，或者说把这套工作流告诉他，然后他去帮我这样处理就好了。
-</p>
-<p class="transcript-line">
-<span class="time"><strong>[00:28:11]</strong> </span>
-<span class="speaker"><strong>发言人1: </strong></span>
-OK, 那有没有一些是你觉得你现在在这个视频创作里面，你觉得非常繁琐的？你刚才说你想要外包一部分吗？有没有一些理想的工作流是现在的AI还办不到的，但是你希望未来AI有可能能帮你办到的。就是你觉得假如说你的内容创作是非常理想的情况下，它应该是一个什么样的流程？
-</p>
-<p class="transcript-line">
-<span class="time"><strong>[00:28:30]</strong> </span>
-<span class="speaker"><strong>发言人3: </strong></span>
-那应该就是它自动帮我剪辑了，并且比较能在不标题党的情况下，尽量吸引人的那些标题，或者说一些封面创作，你都可以去找他帮忙做。然后还有字幕，自动剪辑这些东西他都帮我做的。就是我只要一遍把视频录好了，然后我就能得到一个直接可发布的状态，所有的物料都帮我准备好了，这是最理想的。但目前来说在剪辑上面我觉得还是稍微差一点。
-</p>
-<p class="transcript-line">
-<span class="time"><strong>[00:29:02]</strong> </span>
-<span class="speaker"><strong>发言人1: </strong></span>
-OK所以说你可能希望AI帮你办的。就是说首先封面对吧？你需要，然后标题不需要那么标题党，但是至少那个标题是合格的对吧？够格的对对。然后再一个就是字幕，再一个就是你的所有的剪辑。
-</p>
-<p class="transcript-line">
-<span class="time"><strong>[00:29:17]</strong> </span>
-<span class="speaker"><strong>发言人1: </strong></span>
-我不知道你的剪辑现在大概要花多长时间，因为我看你有些剪辑的内容它非常长，就是你的整个视频可能内容会非常长。然后我们大概讲1个小时的播客内容的话，如果我现在去剪的话比较快，大概要2到3倍的时间，甚至有时候可能三倍以上。有些时候剪的比较繁琐的情况下，可能会时间稍微长一点。我不确定你剪1个小时的视频内容的话，大概需要多长时间的剪辑。
-</p>
-<p class="transcript-line">
-<span class="time"><strong>[00:29:41]</strong> </span>
-<span class="speaker"><strong>发言人3: </strong></span>
-我基本上是一倍视频时长。因为我在录的过程中，我是会知道我自己大概哪里讲错了。然后我这种是边边写边讲知识点的，所以就基本上一倍时长。OK，所以说因为都是你。
-</p>
-<p class="transcript-line">
-<span class="time"><strong>[00:29:55]</strong> </span>
-<span class="speaker"><strong>发言人1: </strong></span>
-自己一个人在录，所以说你觉得你哪里讲错了，你就自己给自己设一个卡点，反正从那个卡点直接剪掉就可以了，是吧？
-</p>
-<p class="transcript-line">
-<span class="time"><strong>[00:30:04]</strong> </span>
-<span class="speaker"><strong>发言人3: </strong></span>
-对对对。
-</p>
-<p class="transcript-line">
-<span class="time"><strong>[00:30:05]</strong> </span>
-<span class="speaker"><strong>发言人1: </strong></span>
-对你这个就相对方便一些，因为如果你跟别人录播课的话，这个就不太好控制了，对吧？
-</p>
-<p class="transcript-line">
-<span class="time"><strong>[00:30:10]</strong> </span>
-<span class="speaker"><strong>发言人3: </strong></span>
-是是是。
-</p>
-<p class="transcript-line">
-<span class="time"><strong>[00:30:12]</strong> </span>
-<span class="speaker"><strong>发言人1: </strong></span>
-那我想问一下，就是你现在你看1.7万粉丝，然后有将近40万播放数据。你刚才讲说你没赚多少钱，那到底有赚钱吗？
-</p>
-<p class="transcript-line">
-<span class="time"><strong>[00:30:19]</strong> </span>
-<span class="speaker"><strong>发言人3: </strong></span>
-赚了一点咖啡钱，这个东西也都是可以公布的。目前的话应该是B站的一个流量费可能是三四百块钱。然后它ECPM是很低的。
-</p>
-<p class="transcript-line">
-<span class="time"><strong>[00:30:31]</strong> </span>
-<span class="speaker"><strong>发言人3: </strong></span>
-然后第二个的话就是有一部分朋友会给我充电，就是充电的话OK充电的话好像一百多块钱。然后还有一些粉丝朋友们加了我的微信，我是真的想跟他们做朋友的。但是他们会觉得我的视频做的还不错，然后会给我打赏一些红包。有一个朋友给我打赏了200块钱，加起来这里的话就是直接给我发微信红包的话，应该也有三四百块钱了。然后加起来的话应该不到1000块钱。就是这目前的情况。因此我目前的话还没有一个真正的到我账户里面的一个盈利的钱。但是以后的话可能会有一些那种是真正的商业合作的那种形式，那就是这个频道的商业化的一个探索了，应该马上可能就会有了。
-</p>
-<p class="transcript-line">
-<span class="time"><strong>[00:31:19]</strong> </span>
-<span class="speaker"><strong>发言人1: </strong></span>
-期待你这里有一个比较好的结果。然后也给很多创作者，比如包括我们做IOM相关的，做技术相关的同学，可以探索一条路出来。
-</p>
-<p class="transcript-line">
-<span class="time"><strong>[00:31:26]</strong> </span>
-<span class="speaker"><strong>发言人2: </strong></span>
-对，B站的这个播放收益其实还是比较低的。它不靠打赏的话，纯播放收益好像还是比较低的。不靠恰饭的话，但好像youtube的还不错。你有没有把视频考虑放到youtube上面？
-</p>
-<p class="transcript-line">
-<span class="time"><strong>[00:31:39]</strong> </span>
-<span class="speaker"><strong>发言人3: </strong></span>
-我youtube也放了。
-</p>
-<p class="transcript-line">
-<span class="time"><strong>[00:31:40]</strong> </span>
-<span class="speaker"><strong>发言人2: </strong></span>
-但没人看啊，也放了。对，但是没人看我觉得可以考虑多宣传一宣传youtube的。因为youtube的播放收益还是比较可观的。因为人家他是广告分成，按它的这个播放量就按不同地区的。要是你的视频，比如说很多是在海外的华人在看的话，那这个收益相对来说会可观一些。
-</p>
-<p class="transcript-line">
-<span class="time"><strong>[00:32:03]</strong> </span>
-<span class="speaker"><strong>发言人3: </strong></span>
-我的视频还挺多海外的人看的。
-</p>
-<p class="transcript-line">
-<span class="time"><strong>[00:32:06]</strong> </span>
-<span class="speaker"><strong>发言人2: </strong></span>
-所以针对于这些海外用户的，你可以在宣传口径上更多就是给让他们去看youtube的这个K带来的收益会更高一些。
-</p>
-<p class="transcript-line">
-<span class="time"><strong>[00:32:14]</strong> </span>
-<span class="speaker"><strong>发言人3: </strong></span>
-是的，就是我目前也想尝试去做这样一些事情，就是从一些宣发的那个角度上面去让更多的人看到。尤其是比如说海外的用户去关注我的那个youtube的频道，这样的话我可能会能够更专心的去创作，就不需要我自己去对接一些广告组，这样的话就能够省很多的时间。然后我又同时能有一部分的收益来支持我去把我自己的一部分事情外包出去。这样的话又能进一步的节省我的人力，并且扩大我的影响，或者说我的那个知识能被更多的人看到。
-</p>
-<p class="transcript-line">
-<span class="time"><strong>[00:32:53]</strong> </span>
-<span class="speaker"><strong>发言人2: </strong></span>
-对，这样就能更专心的去输出内容，对吧？是的，其实对把收益拿来去花到跟输出那种无关的事情上。比如说像外包给别人剪辑之类的，这个就可以回到你的初心，对吧？就是回到你的初心。虚荣心上说我能够更多的去输出内容，更多的让别人看到。
-</p>
-<p class="transcript-line">
-<span class="time"><strong>[00:33:13]</strong> </span>
-<span class="speaker"><strong>发言人2: </strong></span>
-所以我觉得其实像youtube，包括因为我们做播客的话，因为海外的播客的这个变现模式更多也是平台去做广告，就是DII把动态广告插入这种方式。但是国内也没有，都是要播客主自己去恰饭这种。我觉得对于纯粹的创作者不是特别友好。然后一旦你开始要去恰饭的时候，很多时候你产出的内容也就会变形。我确实是不太喜欢，就是希望说国内什么时候也能变成这个样子。但是这个东西怎么说也是国内自己自找的。当初就是在线的这些媒体平台出来的时候，大家都打着说无广告，免费之类的这个噱头，然后就变成了广告全都要那个创作者自己去恰，我觉得这个真的是自找的。
-</p>
-<p class="transcript-line">
-<span class="time"><strong>[00:33:58]</strong> </span>
-<span class="speaker"><strong>发言人3: </strong></span>
-我后面会想要去探索一下，就是做知识内容和平台的一个商业化的一个契合。目前的话目前的话我在尝试一种形式，就是他免费给我提供平台。因为我自己在写代码的时候，我虽然说用家里的电脑，但是我家里的电脑是没有GPU的，因此我需要用GPU。所以说其实是会有平台给我提供免费提供GPU，然后我去用他们的GPU，本质上就是在帮他们宣传，这是一种那种互免的一个形式。其实目前的话有在尝试这种，然后后续的话可能会有一些其他的这种商业化的合作，在尽量不影响观众的情况下来去让整个频道能够持续的运营下去。
-</p>
-<p class="transcript-line">
-<span class="time"><strong>[00:34:40]</strong> </span>
-<span class="speaker"><strong>发言人1: </strong></span>
-对，我们一开头就一直在讲说我们做视频是为了虚荣心，对吧？然后其实自己现在也得到虚荣心了。那除了虚荣心之外，你还有什么别的收获吗？就是你在做视频的这个期间，因为你毕竟。现在也做了四十多万播放了，对吧？那这四十多万播放你觉得对你来讲收获最大的是什么？
-</p>
-<p class="transcript-line">
-<span class="time"><strong>[00:34:58]</strong> </span>
-<span class="speaker"><strong>发言人3: </strong></span>
-我个人觉得这四十多万最后我收获最大的可能就是一些潜在的朋友。因为有不少的人加了我的微信，可能有一两百个人了。而这其中一两百个人里面，你知道博士的比例有多少吗？比我以前认识的博士加起来都要多。
-</p>
-<p class="transcript-line">
-<span class="time"><strong>[00:35:19]</strong> </span>
-<span class="speaker"><strong>发言人3: </strong></span>
-而且有一些朋友，我一开始忘记问他他是哪个，就是学校工作什么的，就是我我没有问他。但是后面的时候我开始问一些朋友之后，我才发现，原来我加了那么多大佬，就是那种学历也很高的，比如说浙大、上交，连清华的都有。我的天哪，我是可能是我以前认识加起来都没有那么多，就是能够认识很多朋友。因为他们觉得我做的东西是有价值的，所以他们会想加我去进行一些简单的交流。我觉得这个是一个很大的价值。我觉得他们是真正的把我当朋友的，然后我也我也没有收他们的钱，所以就相对。
-</p>
-<p class="transcript-line">
-<span class="time"><strong>[00:36:04]</strong> </span>
-<span class="speaker"><strong>发言人3: </strong></span>
-还有一个就是我以前关注了很久的一些人，他开始会给我的视频去点赞。比如说我以前一直在哔哩哔哩看高天然后在知乎也一直看高天，或者说王俊东，然后还有很多的那些很知名的大佬，有的是学术圈的，有的是那些很知名的人，他会去给我的视频点一个赞。这种情况下我就我也觉得很开心，也是然后以及收获的话，那可能就是一个未来的可能性。虽然说目前没有赚到钱，那么以后还能不能赚到钱，这个不好说，对不对？
-</p>
-<p class="transcript-line">
-<span class="time"><strong>[00:36:42]</strong> </span>
-<span class="speaker"><strong>发言人1: </strong></span>
-是有没有加到你自己偶像的微信？
-</p>
-<p class="transcript-line">
-<span class="time"><strong>[00:36:47]</strong> </span>
-<span class="speaker"><strong>发言人3: </strong></span>
-好像没有，他们还没关注我，我做的视频还是太出街了。等我后面做一些比较高阶的视频之后，也许慢慢的就会有我以前关注的那些大佬开始看我的视频了。
-</p>
-<p class="transcript-line">
-<span class="time"><strong>[00:37:00]</strong> </span>
-<span class="speaker"><strong>发言人1: </strong></span>
-OK我理解你的这个收获就是除了收获很多朋友，然后收获自己虚荣心，然后收获一些大佬。以前你给别人点赞的，现在回过头来给你点赞了，还有未来可能性。对我觉得这些都蛮重要的对，然后我自己就在想说，因为你自己也是一线大厂的工程师，然后你的内容也是从你的专业出发的，你就是在做IOM的那是不是说其实我们每个人都可以从自己的专业出发。因为我们可能很多人做java工程师，很多人做前端工程师，一堆的人。但其实这些好的内容并不多，是不是大家都可以从专业出发，尝试做一些这样的公开表达，就跟你一样，因为我觉得你的这个收获可能是很多人也是都想要的，有虚荣心，想要得到别人关注。我觉得这个可能是每个人天生的底色，大家可能都会需要。
-</p>
-<p class="transcript-line">
-<span class="time"><strong>[00:37:47]</strong> </span>
-<span class="speaker"><strong>发言人3: </strong></span>
-我觉得是的，因为公开表达它就是有一种价值，或者说稀缺就是一种价值，公开表达就是很稀缺的，就是李笑来他应该有一本书里面写到，在互联网上90%的人都是潜水者，他什么也不干，他就是在那里看刷。可能就是比如说抖音往上滑，往下滑，他也不点赞，不关注什么的，然后其中有8%的人可能会去点赞，然后做一些互动，然后点赞评论。还有2%的人才是会去做相关的内容的生产。所有的内容都是从这2%的人里面产生的，哪怕是一些什么垃圾，你已经是从100个人里面选出来的一两个人去做的表达。因此它本身就是会有一定的价值的。所以不要觉得自己做的东西非常的烂，没有人看。它实际上就是互联网，它是能够放大你的一些特点的。
-</p>
-<p class="transcript-line">
-<span class="time"><strong>[00:38:44]</strong> </span>
-<span class="speaker"><strong>发言人3: </strong></span>
-你可以把互联网理解成一个宇宙，你每发的一条信息或者说一个公开表达的内容，它就是一个探索的信号。同频的人，他喜欢你内容的人，他可能就会看到，因为互联网太广袤了，每个人喜欢的东西都是千奇百怪的。他真的有可能就会从你的内容里面获得东西，然后就会给你一个信号，然后你就会得到对应的反馈。
-</p>
-<p class="transcript-line">
-<span class="time"><strong>[00:39:12]</strong> </span>
-<span class="speaker"><strong>发言人1: </strong></span>
-对你指的这个其实我们还挺深有体会的。有些时候我们聊到新的嘉宾之后，因为我我们跟嘉宾其实并不认识。但是嘉宾会告诉我们说，我听过你们哪一期的节目，你们讲了什么东西，讲的还挺好的。对我觉得这个还感觉挺好的。对，可能过了不久之后，然后你可能也会碰到了一些新的嘉宾来宾等等之类的。你可能后续会跟别人做对谈做采访。可能别人一开始说我其实也是看你的视频才学着从IOM里面从0到1的对吧？我相信你里面应该有很多学生的群体，大家可能是透过你可能想去学IM去找工作等等干嘛的对，我不知道你自己有没有观察过大家看你的这个视频的这个群体大概是什么人？
-</p>
-<p class="transcript-line">
-<span class="time"><strong>[00:39:51]</strong> </span>
-<span class="speaker"><strong>发言人3: </strong></span>
-大部分都是一些学生，大部分都是学生。然后还有一小部分是目前在互联网上，它已经是一些算法工程师。但是因为他比较忙，我们每一个人肯定都经历过那个阶段，就是一回家就只想躺着，什么也不干。因此那部分人他其实是有求知欲望的，而且他本身的那个基础知识也很强。但是他对于那种新的技术，可能相对来那个阶段他有一点松懈，他变懒了。然后他就会去看那个公开网络上的一些别人的那种解读，他要去追踪最新的技术，基本上就是两种群。
-</p>
-<p class="transcript-line">
-<span class="time"><strong>[00:40:25]</strong> </span>
-<span class="speaker"><strong>发言人1: </strong></span>
-这两种群体OK了解。所以说你极有可能会碰到等到某些时候有些人在大学毕业了，然后找到工作了，博士毕业了，然后找到新的单位了。然后后面写说我们是看着潮发的视频从0到1选LM然后学起来的对，有可能某一天对，某一天你很有可能会达成这样的成就。对我觉得这个其实是一个挺了不起的一个事儿。然后我觉得最后我们再聊一聊你的内容，就是MM从0到1就是从zero到hero。因为我们其实在听我们的播客的群体，其实也有大家也有很多是做技术的出身的同学。比如说你能不能给大家推荐一下，假如说我想真正从0到1，想手写一个LM我大概需要做些什么事儿，或者说我需要了解一些什么东西，能不能给大家简单做一下介绍，然后让大家稍微入个门再去看你的视频。
-</p>
-<p class="transcript-line">
-<span class="time"><strong>[00:41:17]</strong> </span>
-<span class="speaker"><strong>发言人3: </strong></span>
-这个问题我遇到很多，就有的人他问我你的代码是用什么语言写的？他甚至都不知道我的我的代码是用什么语言写的。因此我觉得你核心得要知道掌握基本的编程能力，就是你python的编程，你得要会，不然的话你那些函数是什么东西都看不懂，那这显然都没法搞。然后第二个的话，因为现在patch ch已经统治了整个学术圈和工业界了。就从大模型出来之后，尤其是所以你得要掌握patch ch的一些那种基本的应用，就是它的API你得要掌握，这就是一个框架，所以你得要掌握语言以及框架。
-</p>
-<p class="transcript-line">
-<span class="time"><strong>[00:41:56]</strong> </span>
-<span class="speaker"><strong>发言人3: </strong></span>
-然后第三个的话是你得要对于NLP有一定的认识能力，以及对深度学习有一定的认识能力。这里我推荐两个课程，一个是李牧大佬的动手学习，深度学习。你得要把相关的那个概念了解，比如说所谓的训练集、验证集以及测试集，或者说loss是什么，这种东西是非常基础的，你肯定得要会。然后第二个的话就是NLP相关的一些基础知识，你得要知道什么叫token，什么叫做分词，什么叫做language model，这种东西你都是需要知道的。
-</p>
-<p class="transcript-line">
-<span class="time"><strong>[00:42:29]</strong> </span>
-<span class="speaker"><strong>发言人3: </strong></span>
-我这里推荐的话是推荐大家去学习hugin face的那个NLP的tutorial。它是一个从实战的部分带你去了解NLP的一个内容的。如果你能把这些内容看完了之后，就三部分了。你接下来的话就去了解ChatGPT出来之后的那几篇论文，就是GPT1到GPT3，然后再到ChatGPT。把这四篇论文看了之后，你就会对现代的大模型训练有一定的了解。等你了解完这个之后，你就可以去看我的视频了。你就大概看我的视频就会比较清晰，就知道我做这个视频还是挺不容易的。
-</p>
-<p class="transcript-line">
-<span class="time"><strong>[00:43:07]</strong> </span>
-<span class="speaker"><strong>发言人1: </strong></span>
-OK所以说你的前置知识其实还是很多的。那些喷你的人我估计十有八九前面的一定没看完。我不知道我们的听众有多少人会沿着这个路径去学。如果大家有人去学的，然后可以在我们小宇宙评论区下方写一个我开始打卡了，我看一下有多少人看完了之后再打一个卡说我已经学完了。好的，感谢长发今天的时间。最后再给潮发一分钟时间，然后你可以自由发挥一下对吧？你介绍你自己的那个视频，然后你自己的工作等等之类的都可以，你自由发挥。
-</p>
-<p class="transcript-line">
-<span class="time"><strong>[00:43:44]</strong> </span>
-<span class="speaker"><strong>发言人3: </strong></span>
-我就最后讲一下我的那个哔哩哔哩的频道。我在哔哩哔哩频道上面叫做潮发用代码打点酱油，名字很长，基本上都显示不全。这个名字我也想了很久，到底叫什么，最后选了十名就是炒饭用代码打点酱油，然后告诉大家，我这个频道是我自己在做，然后是和编程相关的东西，但是比较随意，就是想透露这种，基本上全平台都是叫这个名字，炒饭用代码打点酱油。如果能够去给我的youtube点个关注，或者说直接去那里看视频就再好不过了。
-</p>
-<p class="transcript-line">
-<span class="time"><strong>[00:44:22]</strong> </span>
-<span class="speaker"><strong>发言人1: </strong></span>
-能不能再给大家说一下你的视频的主要的内容分布都是做些什么样的视频？
-</p>
-<p class="transcript-line">
-<span class="time"><strong>[00:44:28]</strong> </span>
-<span class="speaker"><strong>发言人3: </strong></span>
-我一般会做两种类型的视频，第一种的话是就是动手实战类，你可能只是想要用，比如说像一些java工程师，他现在大模型的冲击很大，他可能真的就是只是想用起大模型来，他又是需要在工作里面用，不能直接调一个API就行了。所以说他可能得要去了解一些这种相关的知识。我录的那个课程叫做动手学习大模型。
-</p>
-<p class="transcript-line">
-<span class="time"><strong>[00:44:54]</strong> </span>
-<span class="speaker"><strong>发言人3: </strong></span>
-然后第二类的话就是相对比较深一点的，他可能是面向算法工程师的。你想求职去面试一个大模型的算法工程师，那么你得要去了解相关的内容。比如说你从0到1手写一个大模型，或者说你要去了解deep sick算法的一些核心原理。比如说MLA算法，或者说deep sick的share的expert 48MOE这种算法，你都是需要去了解的。所以我的就是这两个系列，一个就是面向普通的人去直接用，第二的话是面向算法工程师的。你想要去面试或者说掌握更前沿的知识OK了解。
-</p>
-<p class="transcript-line">
-<span class="time"><strong>[00:45:36]</strong> </span>
-<span class="speaker"><strong>发言人1: </strong></span>
-感谢潮发今天的时间，我觉得如果你是一个算法工程师，或者说你对大模型非常感兴趣，然后我觉得都可以去看一下炒发的视频的内容对吧？潮发用代码打点酱油。希望大家看潮发的视频，都能有所收获。我也挺希望的就是大家听完我们本期的节目的听友们，都可以像潮发一样，可以尝试在平台上面多多的自我表达。不管你是满足自己的虚荣心也好，然后收获一些莫须有的赞扬也好，都可以。然后我觉得可能这个对你的个人的包括提升也好，包括你个人的自信的建设也好，我觉得可能都是非常有帮助的对。我们本期节目就先到这里，感谢超发的时间，我们下期再见，拜拜拜拜。
-</p>
-<p class="transcript-line">
-<span class="time"><strong>[00:46:22]</strong> </span>
-<span class="speaker"><strong>发言人1: </strong></span>
-以上就是我们本期播客的全部内容，感谢大家收听，也欢迎大家踊跃留言。如果你喜欢我们，欢迎点赞并分享给感兴趣的朋友。如果你在用苹果播客收听，也希望你花几秒钟给我们一个好评，这会让更多的人了解到我们要是能再点击一下订阅，那就再好不过了，我们下周见。
-</p>]]></content:encoded>
-            <pubDate>Mon, 24 Feb 2025 22:00:00 GMT</pubDate>
-            <guid>67bc6e1605a90dfd0d8decf1</guid>
         </item>
     </channel>
 </rss>
