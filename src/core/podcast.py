@@ -276,27 +276,14 @@ class PodcastClient:
         try:
             changed_pids = []
 
-            # 通过订阅列表一次性获取所有播客信息，替代逐个 API 调用
-            subscription_list = self.get_subscription()
-            all_podcast_info = {}
-            for item in subscription_list:
-                pid = item.get('pid')
-                if pid and pid in pids:
-                    all_podcast_info[pid] = {
-                        'latestEpisodePubDate': item.get('latestEpisodePubDate'),
-                        'pid': pid,
-                        'title': item.get('title'),
-                        'brief': item.get('brief'),
-                        'episodeCount': item.get('episodeCount', 0),
-                        'description': item.get('description'),
-                    }
+            # 逐个获取播客信息（不依赖订阅关系，任何有效 token 都能查询）
+            all_podcast_info = self.fetch_all_podcast_info(pids)
 
-            # 检查 config 中有但订阅列表中没有的播客
             missing_pids = set(pids) - set(all_podcast_info.keys())
             if missing_pids:
-                logger.warning(f"以下播客不在订阅列表中，将跳过: {missing_pids}")
+                logger.warning(f"以下播客信息获取失败，将跳过: {missing_pids}")
 
-            logger.info(f"从订阅列表获取到 {len(all_podcast_info)}/{len(pids)} 个播客信息")
+            logger.info(f"获取到 {len(all_podcast_info)}/{len(pids)} 个播客信息")
 
             for pid in pids:
                 podcast = all_podcast_info.get(pid)
