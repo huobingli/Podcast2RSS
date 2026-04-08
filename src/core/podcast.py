@@ -89,6 +89,7 @@ class PodcastClient:
     @retry(stop_max_attempt_number=3, wait_fixed=5000)
     def get_subscription(self):
         """获取订阅的播客列表"""
+        self.ensure_token()
         results = []
         url = "https://api.xiaoyuzhoufm.com/v1/subscription/list"
         data = {
