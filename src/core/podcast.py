@@ -83,6 +83,7 @@ class PodcastClient:
         if not token:
             raise Exception("未获取到有效的访问令牌")
         self.headers["x-jike-access-token"] = token
+        self.session.headers["x-jike-access-token"] = token
         # 等待token生效
         time.sleep(1)
 
