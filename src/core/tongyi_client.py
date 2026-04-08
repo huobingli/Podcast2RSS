@@ -1,14 +1,12 @@
 import json
-import re
 import time
 import os
-from pathlib import Path
 from typing import List, Dict, Optional
 from retrying import retry
 import requests
 from dotenv import load_dotenv
-import traceback
 import logging
+from src.config.paths import AUDIO_PARSE_TIMEOUT, TONGYI_PAGE_SIZE
 
 load_dotenv()
 logger = logging.getLogger(__name__)
@@ -42,12 +40,24 @@ class TongyiClient:
             "x-tw-from": "tongyi",
             "cookie": cookie
         }
+        self.session = requests.Session()
+        self.session.headers.update(self.headers)
+
+    def check_cookie_valid(self):
+        """检查 TONGYI_COOKIE 是否有效，启动时调用"""
+        try:
+            self.get_dir()
+            logger.info("TONGYI_COOKIE 验证通过")
+            return True
+        except Exception as e:
+            logger.error(f"TONGYI_COOKIE 无效或已过期: {e}")
+            return False
 
     def create_dir(self, name):
         """创建文件夹，返回文件夹ID"""
         payload = {"dirName": name, "parentIdStr": -1}
         url = "https://qianwen.biz.aliyun.com/assistant/api/record/dir/add?c=tongyi-web"
-        r = requests.post(url, headers=self.headers, json=payload)
+        r = self.session.post(url, json=payload)
         if r.ok:
             return r.json().get("data").get("focusDir").get("idStr")
 
@@ -56,7 +66,7 @@ class TongyiClient:
         url = (
             "https://qianwen.biz.aliyun.com/assistant/api/record/dir/list/get?c=tongyi-web"
         )
-        response = requests.post(url, headers=self.headers)
+        response = self.session.post(url)
         if response.ok:
             r = response.json()
             success = r.get("success")
@@ -91,7 +101,7 @@ class TongyiClient:
         """
         result = []
         pageNo = 1
-        pageSize = 48
+        pageSize = TONGYI_PAGE_SIZE
         
         while True:
             payload = {
@@ -101,7 +111,7 @@ class TongyiClient:
                 "status": [20, 30, 40, 41],  #20 正在转 30是成功 40是失败
             }
             url = "https://qianwen.biz.aliyun.com/assistant/api/record/list?c=tongyi-web"
-            response = requests.post(url, headers=self.headers, json=payload)
+            response = self.session.post(url, json=payload)
             
             if response.status_code == 200:
                 data = response.json()
@@ -120,7 +130,7 @@ class TongyiClient:
                         # print(f"找到转写记录: {record.get('recordTitle')} 状态: {record.get('recordStatus')}, 任务ID: {record.get('genRecordId')},记录ID：{record.get('recordId')}")
                 pageNo += 1
             else:
-                print(f"请求失败: {response.status_code}")
+                logger.error(f"请求失败: {response.status_code}")
                 break
         return result
 
@@ -141,14 +151,14 @@ class TongyiClient:
         url = "https://tw-efficiency.biz.aliyun.com/api/trans/getTransResult?c=tongyi-web"
         
         try:
-            response = requests.post(url, headers=self.headers, json=payload)
+            response = self.session.post(url, json=payload)
             if not response.ok:
-                print(f"请求失败：{response.status_code}")
+                logger.error(f"请求失败：{response.status_code}")
                 raise Exception(f"HTTP请求失败: {response.status_code}")
-            
+
             response_data = response.json()
             if not response_data.get("success"):
-                print(f"API调用失败: {response_data.get('message', '未知错误')}")
+                logger.error(f"API调用失败: {response_data.get('message', '未知错误')}")
                 raise Exception(f"API调用失败: {response_data.get('message', '未知错误')}")
             
             # 获取用户信息
@@ -201,8 +211,8 @@ class TongyiClient:
             return results
             
         except Exception as e:
-            print(f"处理转写结果时出错：{str(e)}")
-            raise  # 重新抛出异常以触发重试
+            logger.error(f"处理转写结果时出错：{str(e)}")
+            raise
 
     @retry(stop_max_attempt_number=5, wait_fixed=10000)
     def get_all_lab_info(self, taskId):
@@ -214,9 +224,9 @@ class TongyiClient:
             "transId": taskId,
         }
         
-        response = requests.post(url, headers=self.headers, json=payload)
+        response = self.session.post(url, json=payload)
         if not response.ok:
-            print(f"请求失败：{response.status_code}")
+            logger.error(f"请求失败：{response.status_code}")
             return None
             
         try:
@@ -271,8 +281,8 @@ class TongyiClient:
             return result
             
         except Exception as e:
-            print(f"处理实验室信息时出错：{e}")
-            raise  # 重新抛出异常以触发重试
+            logger.error(f"处理实验室信息时出错：{e}")
+            raise
 
     @retry(stop_max_attempt_number=10, wait_fixed=10000)
     def prepare_audio_file(self, eid,url: str) -> Optional[List[Dict]]:
@@ -305,20 +315,20 @@ class TongyiClient:
                 "url": url
             }
             parse_url = "https://tw-efficiency.biz.aliyun.com/api/trans/parseNetSourceUrl?c=tongyi-web"
-            parse_response = requests.post(parse_url, headers=self.headers, json=parse_payload)
+            parse_response = self.session.post(parse_url, json=parse_payload)
             
             if not parse_response.ok:
-                print(f"解析URL请求失败：{parse_response.status_code}")
+                logger.error(f"解析URL请求失败：{parse_response.status_code}")
                 return None
-                
+
             parse_data = parse_response.json()
             if not parse_data.get("success"):
-                print(f"解析URL失败：{parse_data.get('message', '未知错误')}")
+                logger.error(f"解析URL失败：{parse_data.get('message', '未知错误')}")
                 return None
-                
+
             task_id = parse_data.get("data", {}).get("taskId")
             if not task_id:
-                print("未获取到任务ID")
+                logger.error("未获取到任务ID")
                 return None
             
             # 2. 查询解析状态
@@ -328,11 +338,17 @@ class TongyiClient:
                 "taskId": task_id
             }
             query_url = "https://tw-efficiency.biz.aliyun.com/api/trans/queryNetSourceParse?c=tongyi-web"
-            
+
+            max_poll_time = AUDIO_PARSE_TIMEOUT
+            poll_start = time.time()
             while True:
-                query_response = requests.post(query_url, headers=self.headers, json=query_payload)
+                if time.time() - poll_start > max_poll_time:
+                    logger.error(f"解析音频超时（{max_poll_time}秒），eid: {eid}")
+                    return None
+
+                query_response = self.session.post(query_url, json=query_payload)
                 if not query_response.ok:
-                    print(f"查询状态请求失败：{query_response.status_code}")
+                    logger.error(f"查询状态请求失败：{query_response.status_code}")
                     return None
                     
                 data = query_response.json().get("data")
@@ -341,7 +357,7 @@ class TongyiClient:
                 if status == 0:  # 成功
                     urls = data.get("urls", [])
                     if not urls:
-                        print("解析结果为空")
+                        logger.error("解析结果为空")
                         return None
                     # 构造转写任务需要的文件信息
                     audio = urls[0]
@@ -360,15 +376,15 @@ class TongyiClient:
                         }
                     }]
                 elif status == -1:  # 处理中
-                    print("解析处理中，等待重试...")
+                    logger.debug("解析处理中，等待重试...")
                     time.sleep(1)
                     continue
                 else:  # 失败
-                    print(f"解析失败，状态码: {status}")
+                    logger.error(f"解析失败，状态码: {status}")
                     return None
                     
         except Exception as e:
-            print(f"准备音频文件时出错: {str(e)}")
+            logger.error(f"准备音频文件时出错: {str(e)}")
             return None
 
     def start_transcription(self,files,dir_id="-1" ):
@@ -380,7 +396,7 @@ class TongyiClient:
             "bizTerminal": "web",
         }
         url = "https://qianwen.biz.aliyun.com/assistant/api/record/blog/start?c=tongyi-web"
-        response = requests.post(url, headers=self.headers, json=payload)
+        response = self.session.post(url, json=payload)
         return response.ok
 
     @staticmethod
@@ -397,29 +413,13 @@ class TongyiClient:
         """删除指定recordId的任务"""
         url = "https://qianwen.biz.aliyun.com/assistant/api/record/task/delete?c=tongyi-web"
         payload = {"recordIds": [record_id]}
-        response = requests.post(url, headers=self.headers, json=payload)
+        response = self.session.post(url, json=payload)
         if response.status_code == 200:
             response_data = response.json()
             return response_data.get("success", False)
         return False
 
-    # def is_transcribed_in_dir(self, dir_id: str, eid: str) -> bool:
-    #     """检查指定播客目录下是否已有对应剧集的转写文件"""
-    #     try:
-    #         files = self.dir_list(dir_id)
-            
-    #         # 检查是否有以eid命名的文件
-    #         for file in files:
-    #             title = file.get('title', '')  # 使用title而不是showName
-    #             if eid in title and file.get('status') == 30:  # 30表示转写成功
-    #                 return True
-                    
-    #         return False
-    #     except Exception as e:
-    #         logger.error(f"检查转写状态时出错: {str(e)}")
-    #         raise  # 重新抛出异常以便上层处理
-
 if __name__ == "__main__":
     client = TongyiClient()
-    files=client.dir_list(client.ensure_dir_exist('6022a180ef5fdaddc30bb101'))
-    print(files)
+    files = client.dir_list(client.ensure_dir_exist('6022a180ef5fdaddc30bb101'))
+    logger.info(files)

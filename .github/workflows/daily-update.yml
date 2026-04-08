@@ -1,4 +1,4 @@
-name: Daily RSS Update
+name: Podcast RSS Update
 
 on:
   schedule:
@@ -36,7 +36,7 @@ jobs:
         REFRESH_TOKEN_3: ${{ secrets.REFRESH_TOKEN_3 }}
         REFRESH_TOKEN_4: ${{ secrets.REFRESH_TOKEN_4 }}
         REFRESH_TOKEN_5: ${{ secrets.REFRESH_TOKEN_5 }}
-      run: python src/main.py
+      run: python -m src.main
         
     - name: Commit and push if changed
       run: |

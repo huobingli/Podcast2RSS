@@ -1,21 +1,21 @@
 import json
 import logging
-import os
 import time
-from pathlib import Path
-from typing import Dict, List, Optional, Tuple
-import sys
-
-# 添加项目根目录到Python路径
-project_root = Path(__file__).parent.parent.parent
-sys.path.append(str(project_root))
+from typing import Dict, List, Tuple
 
 from src.core.storage import Storage
 from src.core.tongyi_client import TongyiClient
 from src.core.exceptions import TranscriptionError
+from src.config.paths import (
+    MIN_EPISODE_DURATION,
+    MAX_EPISODE_DURATION,
+    TRANSCRIPTION_BATCH_SIZE,
+    TRANSCRIPTION_POLL_INTERVAL,
+    TRANSCRIPTION_MAX_WAIT,
+    RSS_MAX_EPISODES,
+)
 
 # 配置日志
-logging.basicConfig(level=logging.INFO)
 logger = logging.getLogger(__name__)
 
 class EpisodeCollector:
@@ -59,7 +59,7 @@ class EpisodeCollector:
             
             # 按发布时间降序排序并只取最新的30集
             episode_list.sort(key=lambda x: x.get('published_at', ''), reverse=True)
-            episode_list = episode_list[:30]
+            episode_list = episode_list[:RSS_MAX_EPISODES]
             
             # 处理排序后的剧集
             for episode in episode_list:
@@ -77,11 +77,11 @@ class EpisodeCollector:
                 duration = episode.get('duration')
                 if not duration:
                     continue
-                if duration < 180:  # 3分钟以下的单集跳过
-                    logger.info(f"剧集时长低于3分钟，跳过转写: {episode['title']} ({episode['eid']}), 时长: {duration/60:.1f}分钟")
+                if duration < MIN_EPISODE_DURATION:
+                    logger.info(f"剧集时长低于{MIN_EPISODE_DURATION // 60}分钟，跳过转写: {episode['title']} ({episode['eid']}), 时长: {duration/60:.1f}分钟")
                     continue
-                if duration > 18000:  # 超过5小时的单集跳过
-                    logger.info(f"剧集时长超过5小时，跳过转写: {episode['title']} ({episode['eid']}), 时长: {duration/3600:.1f}小时")
+                if duration > MAX_EPISODE_DURATION:
+                    logger.info(f"剧集时长超过{MAX_EPISODE_DURATION // 3600}小时，跳过转写: {episode['title']} ({episode['eid']}), 时长: {duration/3600:.1f}小时")
                     continue
                     
                 # 检查是否已转写
@@ -97,7 +97,7 @@ class EpisodeCollector:
 
 class TranscriptionProcessor:
     """转写处理器"""
-    def __init__(self, tongyi_client: TongyiClient, pid: str, storage: Storage = None, batch_size: int = 10):
+    def __init__(self, tongyi_client: TongyiClient, pid: str, storage: Storage = None, batch_size: int = TRANSCRIPTION_BATCH_SIZE):
         self.client = tongyi_client
         self.pid = pid
         self.batch_size = batch_size
@@ -161,34 +161,43 @@ class TranscriptionProcessor:
                 self.process_transcription(batch)
 
     def _prepare_and_submit_tasks(self, episodes: List[dict], dir_id: str) -> List[dict]:
-        """准备音频文件并提交转写任务
-        
+        """准备音频文件并提交转写任务（并行准备音频）
+
         Args:
             episodes: 需要处理的剧集列表
             dir_id: 目录ID
-            
+
         Returns:
             List[dict]: 提交成功的任务列表
         """
+        from concurrent.futures import ThreadPoolExecutor, as_completed
+
         tasks = []
-        for episode in episodes:
+
+        def _prepare_one(episode):
+            """准备单个音频文件，返回 (episode, file_list) 或 (episode, None)"""
             try:
                 file_list = self.client.prepare_audio_file(
                     episode['eid'],
                     episode['audio_url']
                 )
+                return episode, file_list
+            except Exception as e:
+                logger.error(f"处理任务时出错: {episode['title']}, 错误: {e}")
+                return episode, None
+
+        with ThreadPoolExecutor(max_workers=3) as executor:
+            futures = {executor.submit(_prepare_one, ep): ep for ep in episodes}
+            for future in as_completed(futures):
+                episode, file_list = future.result()
                 if not file_list:
                     logger.error(f"获取音频文件信息失败: {episode['title']}")
                     continue
-                
                 tasks.append({
                     "episode": episode,
                     "file_info": file_list[0]
                 })
                 logger.info(f"成功准备任务: {episode['title']}")
-            except Exception as e:
-                logger.error(f"处理任务时出错: {episode['title']}, 错误: {e}")
-                continue
         
         if not tasks:
             return []
@@ -204,43 +213,44 @@ class TranscriptionProcessor:
 
     def _monitor_task_status(self, tasks: List[dict], dir_id: str) -> Dict[str, dict]:
         """监控任务状态直到完成
-        
+
         Args:
             tasks: 任务列表
             dir_id: 目录ID
-            
+
         Returns:
             Dict[str, dict]: 任务状态字典，键为eid
         """
-        MAX_WAIT_TIME = 1800  # 最大等待半小时
+        MAX_WAIT_TIME = TRANSCRIPTION_MAX_WAIT
         start_time = time.time()
         task_status = {}
-        
+        poll_count = 0
+
         while True:
             if time.time() - start_time > MAX_WAIT_TIME:
                 logger.error("等待任务完成超时")
                 break
-                
+
             all_tasks = self.client.dir_list(dir_id)
             completed = failed = running = 0
-            
+
             for task in tasks:
                 episode = task["episode"]
                 eid = episode["eid"]
-                
+
                 matching_record = next(
-                    (record for record in all_tasks 
+                    (record for record in all_tasks
                      if record["title"] == eid),
                     None
                 )
-                
+
                 if matching_record:
                     status = matching_record["status"]
                     if status == 30:  # 成功
                         completed += 1
                         task_status[eid] = {
                             'status': 'completed',
-                            'task_id': matching_record["taskId"],  # 从目录中获取taskId
+                            'task_id': matching_record["taskId"],
                             'record_id': matching_record["recordId"],
                             'episode': episode
                         }
@@ -256,37 +266,32 @@ class TranscriptionProcessor:
                         running += 1
                 else:
                     running += 1
-            
+
             # 输出进度
             total = len(tasks)
             progress = (completed + failed) / total * 100 if total > 0 else 0
             logger.info(f"批次进度 {progress:.1f}% - 完成: {completed}, 失败: {failed}, 运行中: {running}")
-            
+
             if running == 0:
                 break
-                
-            time.sleep(45) # 每45秒检查一次
+
+            # 递进式轮询：前 3 次 15 秒，之后 45 秒
+            poll_count += 1
+            interval = 15 if poll_count <= 3 else TRANSCRIPTION_POLL_INTERVAL
+            time.sleep(interval)
             
         return task_status
 
     def _cleanup_failed_tasks(self, task_status: Dict[str, dict], dir_id: str) -> None:
-        """清理失败的任务
-        
-        Args:
-            task_status: 任务状态字典
-            dir_id: 目录ID
-        """
-        current_dir_tasks = self.client.dir_list(dir_id)
+        """清理失败的任务"""
         failed_tasks = [
             task for task in task_status.values()
-            if task['status'] == 'failed'
-            and any(dt['recordId'] == task['record_id'] 
-                   for dt in current_dir_tasks)
+            if task['status'] == 'failed' and 'record_id' in task
         ]
-        
+
         if not failed_tasks:
             return
-            
+
         logger.info(f"开始清理 {len(failed_tasks)} 个失败任务...")
         for task in failed_tasks:
             try:
@@ -314,11 +319,14 @@ class TranscriptionProcessor:
                     logger.error(f"获取转写结果失败: {task['episode']['title']}")
                     continue
                     
-                # 获取实验室信息
-                lab_info = self.client.get_all_lab_info(task['task_id'])
+                # 获取实验室信息（可选，失败不影响转写结果保存）
+                lab_info = None
+                try:
+                    lab_info = self.client.get_all_lab_info(task['task_id'])
+                except Exception as e:
+                    logger.warning(f"获取标注信息失败，将跳过: {task['episode']['title']}, 错误: {e}")
                 if not lab_info:
-                    logger.error(f"获取标注信息失败: {task['episode']['title']}")
-                    continue
+                    lab_info = {"summary": "", "qa_pairs": [], "chapters": [], "mindmap": None}
                 
                 # 保存结果
                 result = {
@@ -372,7 +380,7 @@ class TranscriptionProcessor:
                 
         return episodes_to_process, existing_tasks
 
-def transcribe_podcast(pid):
+def transcribe_podcast(pid, storage=None, tongyi_client=None):
     """处理播客的音频转写
     
     Args:
@@ -386,8 +394,8 @@ def transcribe_podcast(pid):
     """
     try:
         # 初始化必要的对象
-        storage = Storage()
-        tongyi_client = TongyiClient()
+        storage = storage or Storage()
+        tongyi_client = tongyi_client or TongyiClient()
         
         # 收集任务
         collector = EpisodeCollector(storage)

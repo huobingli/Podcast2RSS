@@ -2,13 +2,13 @@ import logging
 import os
 import time
 import yaml
-import json
 from pathlib import Path
-from core.podcast import PodcastClient
-from core.transcription import transcribe_podcast
-from core.rss import RSSProcessor
-from core.storage import Storage
-from core.exceptions import PodcastError, TranscriptionError, RSSError
+from src.core.podcast import PodcastClient
+from src.core.transcription import transcribe_podcast
+from src.core.rss import RSSProcessor
+from src.core.storage import Storage
+from src.core.tongyi_client import TongyiClient
+from src.core.exceptions import TranscriptionError, RSSError
 
 def setup_logging():
     """配置日志处理器"""
@@ -71,55 +71,52 @@ def main():
         # 2. 初始化处理器
         client = PodcastClient(storage)
         rss_processor = RSSProcessor()
-        
+        tongyi_client = TongyiClient()
+        cookie_valid = tongyi_client.check_cookie_valid()
+        if not cookie_valid:
+            logger.warning("TONGYI_COOKIE 无效，将跳过转写步骤，仅更新播客数据和重新生成RSS")
+
         logger.info("开始更新播客与剧集数据...")
         pids = [p['pid'] for p in podcasts if 'pid' in p]
-        client.update_all(pids)
+        changed_pids = client.update_all(pids)
         logger.info("完成更新播客与剧集数据...")
 
-        # 3. 处理每个播客
-        for index, podcast in enumerate(podcasts, 1):
+        # 3. 处理有新内容的播客
+        changed_podcasts = [p for p in podcasts if p.get('pid') in changed_pids]
+        if not changed_podcasts:
+            logger.info("所有播客均无新内容，无需处理")
+
+        for index, podcast in enumerate(changed_podcasts, 1):
             pid = podcast.get('pid')
             name = podcast.get('name')
             if not pid or not name:
                 logger.error(f"播客配置错误: {podcast}")
                 continue
-                
-            logger.info(f"[{index}/{total_podcasts}] 开始处理播客：{name}")
-            podcast_start_time = time.time()
-            
-            try:
-                # 3. 获取播客数据和转写
-                logger.info(f"正在处理播客: {pid}")
-                
-                # 3.1 从文件中读取剧集信息
-                episodes_file = storage.get_episodes_file(pid)
-                with open(episodes_file, 'r', encoding='utf-8') as f:
-                    episodes = json.load(f)
-                logger.info(f"从文件读取到 {len(episodes)} 个剧集")
-                
-                # 3.2 处理音频转写
-                logger.info(f"正在处理音频转写...")
-                has_new_transcripts = False
-                try:
-                    has_new_transcripts = transcribe_podcast(pid)
-                    if not has_new_transcripts:
-                        logger.info("没有新的转写内容，跳过RSS生成")
-                        continue
-                except TranscriptionError as e:
-                    logger.error(f"音频转写失败: {str(e)}")
-                    continue
 
-                # 3.3 生成RSS
-                logger.info(f"检测到新的转写内容，正在生成RSS...")
+            logger.info(f"[{index}/{len(changed_podcasts)}] 开始处理播客：{name}")
+            podcast_start_time = time.time()
+
+            try:
+                logger.info(f"正在处理播客: {pid}")
+
+                # 3.1 处理音频转写
+                if cookie_valid:
+                    logger.info(f"正在处理音频转写...")
+                    try:
+                        transcribe_podcast(pid, storage=storage, tongyi_client=tongyi_client)
+                    except TranscriptionError as e:
+                        logger.error(f"音频转写失败: {str(e)}")
+
+                # 3.2 生成RSS
+                logger.info(f"正在生成RSS...")
                 try:
                     rss_processor.generate_rss(pid)
                 except RSSError as e:
                     logger.error(f"RSS生成失败: {str(e)}")
-                
+
                 podcast_time = time.time() - podcast_start_time
                 logger.info(f"播客 {name} 处理完成，耗时：{podcast_time:.2f}秒")
-                
+
             except Exception as e:
                 logger.error(f"处理播客 {name} 时发生错误：{str(e)}")
                 continue

@@ -4,9 +4,8 @@ from pathlib import Path
 from email.utils import formatdate
 import pendulum
 from src.core.storage import Storage
-import datetime
+from src.config.paths import RSS_MAX_EPISODES
 from html import escape
-import time
 
 class RSSProcessor:
     """RSS处理器类"""
@@ -33,13 +32,6 @@ class RSSProcessor:
         """生成播客主页链接"""
         return f"https://www.xiaoyuzhoufm.com/podcast/{pid}"
     
-    def _generate_transcript_link(self, task_id: str) -> str:
-        """生成转写任务链接"""
-        if not task_id:
-            return ""
-        else:
-            return f"https://tongyi.aliyun.com/efficiency/doc/transcripts/{task_id}"
-
     def _parse_date(self, date_str) -> datetime:
         """解析日期字符串或时间戳为datetime对象"""
         try:
@@ -83,67 +75,23 @@ class RSSProcessor:
         </item>"""
 
     def _format_transcript(self, transcript_data) -> str:
-        """格式化转写文稿为HTML格式"""
+        """格式化转写文稿为HTML格式，仅保留对话原文"""
         try:
-            # 检查是否所有内容都为空
-            if not any([
-                transcript_data.get('task_link'),
-                transcript_data.get('transcription'),
-                transcript_data.get('summary'),
-                transcript_data.get('chapters'),
-                transcript_data.get('qa_pairs')
-            ]):
+            if not transcript_data.get('transcription'):
                 return ""
-                
+
             result = []
-            
-            # 1. 转写链接
-            if transcript_data.get('task_link'):
-                result.append('<h1>转写链接</h1>')
-                result.append(f'<link>{transcript_data["task_link"]}</link><br>')
-            
-            # 2. 摘要部分
-            if transcript_data.get('summary'):
-                result.append('<h1>节目摘要</h1>')
-                result.append(f'<div class="summary">{escape(transcript_data["summary"])}</div><br>')
-            
-            # 3. 章节部分
-            if transcript_data.get('chapters'):
-                result.append('<h1>章节速览</h1>')
-                result.append('<div class="chapters">')
-                for chapter in transcript_data['chapters']:
-                    result.append(
-                        f'<div class="chapter-item">\n'
-                        f'<span class="time"><strong>[{chapter.get("time", "")}]</strong> </span>\n'
-                        f'<span class="chapter-title"><strong>{escape(chapter.get("title", ""))}</strong></span>\n'
-                        f'<div class="chapter-summary">{escape(chapter.get("summary", ""))}</div>\n'
-                        f'</div>'
-                    )
-                result.append('</div><br>')
-            
-            # 4. 问答部分
-            if transcript_data.get('qa_pairs'):
-                result.append('<h1>问题回顾</h1>')
-                for qa in transcript_data['qa_pairs']:
-                    result.append('<div class="qa-item">')
-                    result.append(f'<div class="question"><strong>Q:</strong> {escape(qa.get("question", ""))}</div>')
-                    result.append(f'<div class="answer"><strong>A:</strong> {escape(qa.get("answer", ""))}</div>')
-                    result.append('</div>')
-            
-            # 5. 转写文稿部分
-            if transcript_data.get('transcription'):
-                result.append('<h1>节目文稿</h1>')
-                for item in transcript_data['transcription']:
-                    result.append(
-                        f'<p class="transcript-line">\n'
-                        f'<span class="time"><strong>[{item.get("time", "")}]</strong> </span>\n'
-                        f'<span class="speaker"><strong>{item.get("speaker", "")}: </strong></span>\n'
-                        f'{escape(item.get("text", ""))}\n'
-                        f'</p>'
-                    )
-            
+            for item in transcript_data['transcription']:
+                result.append(
+                    f'<p class="transcript-line">'
+                    f'<span class="time"><strong>[{item.get("time", "")}]</strong> </span>'
+                    f'<span class="speaker"><strong>{item.get("speaker", "")}: </strong></span>'
+                    f'{escape(item.get("text", ""))}'
+                    f'</p>'
+                )
+
             return '\n'.join(result)
-            
+
         except Exception as e:
             self.logger.error(f"格式化转写文稿失败: {e}")
             return ""
@@ -172,7 +120,7 @@ class RSSProcessor:
         
         # 按发布时间降序排序并只取最新的30集
         episode_list.sort(key=lambda x: x.get('pubDate', ''), reverse=True)
-        episode_list = episode_list[:30]
+        episode_list = episode_list[:RSS_MAX_EPISODES]
         
         # 将列表转换回字典格式
         filtered_episodes = {episode.pop('eid'): episode for episode in episode_list}
@@ -196,29 +144,18 @@ class RSSProcessor:
                 "title": episode['title'],
                 "description": episode.get('description', ''),
                 "pubDate": episode.get('pubDate', ''),
-                "duration": episode.get('duration', 0),
                 "shownotes": episode.get('shownotes', ''),
                 "link": self._generate_episode_link(eid),
-                "task_link": None,
                 "transcription": [],
-                "summary": "",
-                "chapters": [],
-                "qa_pairs": []
             }
-            
+
             # 尝试加载转写信息
             if self.storage.is_transcribed(pid, eid):
                 try:
                     transcript = self.storage.load_transcript(pid, eid)
                     if transcript:
                         has_transcript = True
-                        episode_data.update({
-                            "task_link": self._generate_transcript_link(transcript.get('task_id', None)),
-                            "transcription": transcript.get('transcription', []),
-                            "summary": transcript.get('lab_info', {}).get('summary', ''),
-                            "chapters": transcript.get('lab_info', {}).get('chapters', []),
-                            "qa_pairs": transcript.get('lab_info', {}).get('qa_pairs', [])
-                        })
+                        episode_data["transcription"] = transcript.get('transcription', [])
                 except Exception as e:
                     self.logger.error(f"读取转写文件失败: {eid}, 错误: {e}")
             
@@ -236,21 +173,10 @@ class RSSProcessor:
         """
         rss_content = self._format_channel_xml(temp_data["podcast"])
         
-        # 按发布时间排序
-        sorted_episodes = sorted(
-            temp_data["episodes"].items(),
-            key=lambda x: self._parse_date(x[1].get('pubDate', '')),
-            reverse=True  # 最新的在前
-        )
-        
-        for eid, episode in sorted_episodes:
+        for eid, episode in temp_data["episodes"].items():
             try:
                 html_content = self._format_transcript({
-                    "task_link": episode["task_link"],
                     "transcription": episode["transcription"],
-                    "summary": episode["summary"],
-                    "chapters": episode["chapters"],
-                    "qa_pairs": episode["qa_pairs"]
                 })
                 
                 item_info = {

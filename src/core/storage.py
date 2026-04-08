@@ -1,11 +1,5 @@
 import json
 from pathlib import Path
-from typing import Iterator, Dict
-import sys
-
-# 添加项目根目录到Python路径
-project_root = Path(__file__).parent.parent.parent
-sys.path.append(str(project_root))
 
 from src.config.paths import DATA_DIR
 
@@ -50,14 +44,6 @@ class Storage:
         with (podcast_transcript_dir / f"{eid}.json").open('w', encoding='utf-8') as f:
             json.dump(transcript_data, f, ensure_ascii=False, indent=2)
 
-    def save_rss(self, pid: str, rss_data: dict):
-        # 确保播客转写目录存在
-        podcast_rss_dir = self.rss_dir / pid
-        podcast_rss_dir.mkdir(parents=True, exist_ok=True)
-        # 保存转写结果
-        with (podcast_rss_dir / f"{pid}.xml").open('w', encoding='utf-8') as f:
-            f.write(rss_data)
-            
     def save_rss(self, pid: str, rss_content: str):
         """保存 RSS 内容到文件"""
         rss_file = self.rss_dir / f"{pid}.xml"

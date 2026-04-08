@@ -11,14 +11,11 @@ setup(
     packages=find_packages(),
     python_requires=">=3.8",
     install_requires=[
-        "aiohttp>=3.8.1",
         "pyyaml>=6.0",
-        "feedgen>=0.9.0",
         "python-dotenv>=1.0.0",
         "requests>=2.31.0",
-        "aiofiles>=23.2.1",
-        "loguru>=0.7.2",
         "pendulum>=2.1.2",
+        "retrying>=1.3.4",
     ],
     classifiers=[
         "Development Status :: 3 - Alpha",
