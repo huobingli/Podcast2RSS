@@ -53,10 +53,10 @@
 
 ```yaml
 podcasts:
-- pid: 63c534ba100c9300109380d9
-  name: 浪潮之巅
-- pid: 65257ff6e8ce9deaf70a65e9
-  name: 人民公园说AI
+- pid: 6388760f22567e8ea6ad070f
+  name: 面基
+- pid: 611719d3cb0b82e1df0ad29e
+  name: 无人知晓
 ```
 
 `pid` 是播客在小宇宙的唯一标识，可以从播客页面 URL 中获取：
