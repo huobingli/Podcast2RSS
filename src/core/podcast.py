@@ -312,21 +312,29 @@ class PodcastClient:
 
             logger.info(f"播客信息更新完成，{len(changed_pids)}/{len(pids)} 个播客有新内容")
 
-            # 只获取有新内容的播客的剧集信息
-            for index, pid in enumerate(changed_pids, 1):
-                try:
-                    start_time = time.time()
-                    logger.info(f"[{index}/{len(changed_pids)}] 正在获取播客 {pid} 的剧集信息...")
-                    episodes = self.get_episodes(pid)
-                    if episodes:
-                        self.save_episodes(episodes, pid)
-                        logger.info(f"[{index}/{len(changed_pids)}] 获取到 {len(episodes)} 个剧集")
-                    else:
-                        logger.warning(f"[{index}/{len(changed_pids)}] 播客 {pid} 没有任何剧集")
-                    process_time = time.time() - start_time
-                    logger.info(f"[{index}/{len(changed_pids)}] 处理完成: {pid}, 耗时: {process_time:.2f}秒")
-                except Exception as e:
-                    logger.error(f"[{index}/{len(changed_pids)}] 处理失败: {pid}, 错误: {str(e)}")
+            # 并行获取有新内容的播客的剧集信息
+            from concurrent.futures import ThreadPoolExecutor, as_completed
+
+            def _fetch_and_save_episodes(pid):
+                episodes = self.get_episodes(pid)
+                if episodes:
+                    self.save_episodes(episodes, pid)
+                return pid, len(episodes) if episodes else 0
+
+            if changed_pids:
+                logger.info(f"开始并行获取 {len(changed_pids)} 个播客的剧集信息...")
+                with ThreadPoolExecutor(max_workers=5) as executor:
+                    futures = {executor.submit(_fetch_and_save_episodes, pid): pid for pid in changed_pids}
+                    for future in as_completed(futures):
+                        pid = futures[future]
+                        try:
+                            _, count = future.result()
+                            if count > 0:
+                                logger.info(f"获取到 {count} 个剧集: {pid}")
+                            else:
+                                logger.warning(f"播客 {pid} 没有任何剧集")
+                        except Exception as e:
+                            logger.error(f"获取剧集失败: {pid}, 错误: {str(e)}")
 
             return changed_pids
 

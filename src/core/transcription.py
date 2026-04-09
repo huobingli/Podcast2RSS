@@ -303,51 +303,59 @@ class TranscriptionProcessor:
                 logger.error(f"删除任务出错: {task['episode']['title']}, 错误: {str(e)}")
 
     def _save_transcription_results(self, task_status: Dict[str, dict]) -> None:
-        """保存转写结果
+        """保存转写结果（并行获取）
         
         Args:
             task_status: 任务状态字典
         """
-        for eid, task in task_status.items():
-            if task['status'] != 'completed':
-                continue
+        from concurrent.futures import ThreadPoolExecutor, as_completed
+
+        completed_tasks = {eid: task for eid, task in task_status.items() if task['status'] == 'completed'}
+        if not completed_tasks:
+            return
+
+        def _fetch_and_save_one(eid, task):
+            # 获取转写结果
+            trans_result = self.client.get_trans_result(task['task_id'])
+            if not trans_result:
+                logger.error(f"获取转写结果失败: {task['episode']['title']}")
+                return
                 
+            # 获取实验室信息（可选，失败不影响转写结果保存）
+            lab_info = None
             try:
-                # 获取转写结果
-                trans_result = self.client.get_trans_result(task['task_id'])
-                if not trans_result:
-                    logger.error(f"获取转写结果失败: {task['episode']['title']}")
-                    continue
-                    
-                # 获取实验室信息（可选，失败不影响转写结果保存）
-                lab_info = None
-                try:
-                    lab_info = self.client.get_all_lab_info(task['task_id'])
-                except Exception as e:
-                    logger.warning(f"获取标注信息失败，将跳过: {task['episode']['title']}, 错误: {e}")
-                if not lab_info:
-                    lab_info = {"summary": "", "qa_pairs": [], "chapters": [], "mindmap": None}
-                
-                # 保存结果
-                result = {
-                    "pid": task['episode']['pid'],
-                    "eid": eid,
-                    "title": task['episode']['title'],
-                    "task_id": task['task_id'],
-                    "transcription": trans_result,
-                    "lab_info": lab_info
-                }
-                
-                self.storage.save_transcript(
-                    task['episode']['pid'], 
-                    eid, 
-                    result
-                )
-                logger.info(f"成功保存转写结果: {task['episode']['title']}")
-                
+                lab_info = self.client.get_all_lab_info(task['task_id'])
             except Exception as e:
-                logger.error(f"保存结果时出错: {task['episode']['title']}, 错误: {e}")
-                self.error_records[eid] = f"保存结果失败: {str(e)}"
+                logger.warning(f"获取标注信息失败，将跳过: {task['episode']['title']}, 错误: {e}")
+            if not lab_info:
+                lab_info = {"summary": "", "qa_pairs": [], "chapters": [], "mindmap": None}
+            
+            # 保存结果
+            result = {
+                "pid": task['episode']['pid'],
+                "eid": eid,
+                "title": task['episode']['title'],
+                "task_id": task['task_id'],
+                "transcription": trans_result,
+                "lab_info": lab_info
+            }
+            
+            self.storage.save_transcript(
+                task['episode']['pid'], 
+                eid, 
+                result
+            )
+            logger.info(f"成功保存转写结果: {task['episode']['title']}")
+
+        with ThreadPoolExecutor(max_workers=3) as executor:
+            futures = {executor.submit(_fetch_and_save_one, eid, task): eid for eid, task in completed_tasks.items()}
+            for future in as_completed(futures):
+                eid = futures[future]
+                try:
+                    future.result()
+                except Exception as e:
+                    logger.error(f"保存结果时出错: {eid}, 错误: {e}")
+                    self.error_records[eid] = f"保存结果失败: {str(e)}"
 
     def _check_existing_tasks(self, episodes: List[dict]) -> Tuple[List[dict], Dict[str, dict]]:
         """检查已有任务并返回需要处理的剧集和已存在的任务

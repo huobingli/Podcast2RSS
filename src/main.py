@@ -81,45 +81,56 @@ def main():
         changed_pids = client.update_all(pids)
         logger.info("完成更新播客与剧集数据...")
 
-        # 3. 处理有新内容的播客
+        # 3. 并行处理有新内容的播客（转写 + RSS生成）
         changed_podcasts = [p for p in podcasts if p.get('pid') in changed_pids]
         if not changed_podcasts:
             logger.info("所有播客均无新内容，无需处理")
 
-        for index, podcast in enumerate(changed_podcasts, 1):
+        def _process_single_podcast(podcast):
+            """处理单个播客的转写和RSS生成"""
             pid = podcast.get('pid')
             name = podcast.get('name')
             if not pid or not name:
                 logger.error(f"播客配置错误: {podcast}")
-                continue
+                return
 
-            logger.info(f"[{index}/{len(changed_podcasts)}] 开始处理播客：{name}")
             podcast_start_time = time.time()
+            logger.info(f"开始处理播客：{name}")
 
             try:
-                logger.info(f"正在处理播客: {pid}")
-
                 # 3.1 处理音频转写
                 if cookie_valid:
-                    logger.info(f"正在处理音频转写...")
+                    logger.info(f"正在处理音频转写: {name}")
                     try:
                         transcribe_podcast(pid, storage=storage, tongyi_client=tongyi_client)
                     except TranscriptionError as e:
-                        logger.error(f"音频转写失败: {str(e)}")
+                        logger.error(f"音频转写失败: {name}, {str(e)}")
 
                 # 3.2 生成RSS
-                logger.info(f"正在生成RSS...")
+                logger.info(f"正在生成RSS: {name}")
                 try:
                     rss_processor.generate_rss(pid)
                 except RSSError as e:
-                    logger.error(f"RSS生成失败: {str(e)}")
+                    logger.error(f"RSS生成失败: {name}, {str(e)}")
 
                 podcast_time = time.time() - podcast_start_time
                 logger.info(f"播客 {name} 处理完成，耗时：{podcast_time:.2f}秒")
 
             except Exception as e:
                 logger.error(f"处理播客 {name} 时发生错误：{str(e)}")
-                continue
+
+        from concurrent.futures import ThreadPoolExecutor, as_completed
+
+        if changed_podcasts:
+            logger.info(f"开始并行处理 {len(changed_podcasts)} 个播客（最多3个同时进行）...")
+            with ThreadPoolExecutor(max_workers=3) as executor:
+                futures = {executor.submit(_process_single_podcast, p): p for p in changed_podcasts}
+                for future in as_completed(futures):
+                    try:
+                        future.result()
+                    except Exception as e:
+                        podcast = futures[future]
+                        logger.error(f"播客处理异常: {podcast.get('name')}, {str(e)}")
         
         total_time = time.time() - start_time
         logger.info(f"所有播客处理完成，总耗时：{total_time:.2f}秒")
