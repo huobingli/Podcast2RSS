@@ -4,7 +4,214 @@
         <title>人民公园说AI</title>
         <link>https://www.xiaoyuzhoufm.com/podcast/65257ff6e8ce9deaf70a65e9</link>
         <description>如有干货，纯属巧合</description>
-        <lastBuildDate>Sat, 18 Apr 2026 04:54:39 +0800</lastBuildDate>
+        <lastBuildDate>Fri, 24 Apr 2026 05:01:03 +0800</lastBuildDate>
+        <item>
+            <title>AI 御三家，已经不打模型了：Codex 反杀，桌面端正式开打</title>
+            <link>https://www.xiaoyuzhoufm.com/episode/69e9e7a11d989496e755a70f</link>
+            <description>本期节目，我们深入拆解 AI 领域“御三家”最近密集发布的桌面端产品。为什么 Google 的 Gemini 桌面端看起来像是个“糙活”？Claude 又是如何通过激进的策略活成了“客户的样子”？而那个满口黑话的 Codex，凭什么让开发者又爱又恨？最后，马斯克收购 Cursor 的阳谋，是否预示着 AI 供应链的新一轮洗牌？
+01:42 Gemini 最近的模型确实有点飘啊，不能说拉胯，就是不稳定
+02:04 Deepmind 这帮天龙人，模型做模型的，产品做产品的，强行融合是真的搞不定
+03:55 如果一个公司开始抓Vibe Coding考勤了，这公司就快黄了！
+05:58 现在最激进的是 Claude！三合一一个东西，已经是超级 APP 了
+08:49 Codex 是什么？Codex 就是奥特曼心中的小龙虾
+11:30 浏览器是资源消耗大户，一个晚上花了 200 美金，搞不好房子都给烧没了
+14:10 在上市之前这个阶段，必须要用各种骚操作拿下编程这块市场
+19:01 Opue4.7 你看着雄狮冲了过来，手一呼，发现一只小猫跟你唱喵喵喵
+24:47 恶心的Claude，其实是长成你客户的样子
+27:21 Codex黑话大赏！
+32:03 你们去探索前沿，我往死里搞价格。中国又把 AI 干成了制造业。
+35:21 收购Cursor？马斯克的判断大概率都是正确的，但他的时间表...
+38:32 揶揄了一下 Google，是因为爱之深责之切
+【订阅 JustSayAI 早晚报】
+🌈 新朋友！订阅「JustSayAI 早晚报」· 每日两封 · 一键听报🌟 老朋友！加入会员获取 JustSayAI 早晚报+深度研报+文字专栏
+【主播小红书】📕叫我小苏就好啊
+【关注频道】▶️Youtube｜ 📺B 站｜ 📕小红书｜ 🎵抖音｜ 📻Podcast
+📱 商务合作/听友群：justsayai666</description>
+            <content:encoded><![CDATA[<p class="transcript-line"><span class="time"><strong>[00:00:00]</strong> </span><span class="speaker"><strong>发言人1: </strong></span>天天是这个黑话。</p>
+<p class="transcript-line"><span class="time"><strong>[00:00:01]</strong> </span><span class="speaker"><strong>发言人2: </strong></span>知道我现在要漏盘了，我现在要把这个收口。</p>
+<p class="transcript-line"><span class="time"><strong>[00:00:04]</strong> </span><span class="speaker"><strong>发言人1: </strong></span>然后你别急，我已经稳稳托住了。你大家现在看的已经快要PDSD了，因为他经常会说我再收一下口。</p>
+<p class="transcript-line"><span class="time"><strong>[00:00:12]</strong> </span><span class="speaker"><strong>发言人2: </strong></span>压实一下，我不跟你绕，我先从这个角度来帮你cloud .</p>
+<p class="transcript-line"><span class="time"><strong>[00:00:16]</strong> </span><span class="speaker"><strong>发言人1: </strong></span>4.7把这一点点风格也学了，被大家骂了，说你好好的干嘛学code x的，这个不说人话。</p>
+<p class="transcript-line"><span class="time"><strong>[00:00:29]</strong> </span><span class="speaker"><strong>发言人2: </strong></span>还是要跟大家道个歉，最近还是比较忙，因为最近确实是出名了。对，确实是出名了。要出国比赛了，对不对？</p>
+<p class="transcript-line"><span class="time"><strong>[00:00:40]</strong> </span><span class="speaker"><strong>发言人3: </strong></span>也不是，这是一个丑媳妇难免见公婆了，对吧？</p>
+<p class="transcript-line"><span class="time"><strong>[00:00:43]</strong> </span><span class="speaker"><strong>发言人2: </strong></span>要出去晾晾了。这一次我们真的也是排面了，对吧？上次节目跟大家预告的说google IO我们可能这次会去哈那也是感谢google，感谢抖音。这一次5月20号的google IO，我们真的会到现场，给大家带来一手的报道跟点评。所以也大家锁定我们的频道，锁定我们频道520。</p>
+<p class="transcript-line"><span class="time"><strong>[00:01:03]</strong> </span><span class="speaker"><strong>发言人3: </strong></span>对，如果有有我们的听众也在现场的，一定要提前说一声，大家一起咱们线下也能见一下。</p>
+<p class="transcript-line"><span class="time"><strong>[00:01:09]</strong> </span><span class="speaker"><strong>发言人2: </strong></span>对对对，如果到时候有要去现场的，我们可能跟贤哥一起组个团，好不好？然后小小帽子，小旗帜带一下，跟一下贤哥导游。</p>
+<p class="transcript-line"><span class="time"><strong>[00:01:18]</strong> </span><span class="speaker"><strong>发言人3: </strong></span>团举个蹄儿。</p>
+<p class="transcript-line"><span class="time"><strong>[00:01:19]</strong> </span><span class="speaker"><strong>发言人1: </strong></span>到时候提个提儿，你这用上老北京腔，带着你们不迷路。</p>
+<p class="transcript-line"><span class="time"><strong>[00:01:25]</strong> </span><span class="speaker"><strong>发言人2: </strong></span>我们聊起来了，今天主要是想聊一个什么事情呢？因为最近还是有点密集，不能说炸裂，但是说有点密集，那我们频道很多时候就是头疼医脚，对吧？我觉得我想聊最近想聊一个什么事情？就是御三家最近还是特别的猛对吧？最近这个你争我赶还是特别的激烈。</p>
+<p class="transcript-line"><span class="time"><strong>[00:01:47]</strong> </span><span class="speaker"><strong>发言人2: </strong></span>你看这个gi，这个完全违背了google的祖训，直接出了一个mac APP。当然我是期待已久的，我是该出了早就该出了对吧？早就该出了。我当时还判断说你google应该是要憋到google IIO大会才出，对吧？</p>
+<p class="transcript-line"><span class="time"><strong>[00:02:05]</strong> </span><span class="speaker"><strong>发言人1: </strong></span>实在憋不住了，实在憋不住，在等的时候太晚了，够了对吧？</p>
+<p class="transcript-line"><span class="time"><strong>[00:02:09]</strong> </span><span class="speaker"><strong>发言人2: </strong></span>对我我猜应该是deep mind搞不定，因为最近german的模型确实有点飘，不能说拉胯，就是不稳定，上限下限都特别高。</p>
+<p class="transcript-line"><span class="time"><strong>[00:02:19]</strong> </span><span class="speaker"><strong>发言人1: </strong></span>对，那是有点对我。</p>
+<p class="transcript-line"><span class="time"><strong>[00:02:20]</strong> </span><span class="speaker"><strong>发言人3: </strong></span>觉得我都快弃用他了。真的不是有点的问题，真的有时候让你气愤的很，你提了一个好问题都觉得浪费了。靠。</p>
+<p class="transcript-line"><span class="time"><strong>[00:02:29]</strong> </span><span class="speaker"><strong>发言人2: </strong></span>我觉得是正常的，我觉得是正常的，为什么呢？那可能内部还是有点搞不定，deep mind这帮天龙人？天龙国大佬，对，还是有点搞不定。就是我觉得它模型跟产品这两条线，虽然说是强硬说要融合，吧？但实际上这是过程中还是模型做模型的，产品做产品的。据说还是跟这个antigravity的团队一起工作的，做出来的好像说做了三个月对吧？然后我就看有很多朋友评论说，你不要看他这么操，人家是大大厂花了好几个。</p>
+<p class="transcript-line"><span class="time"><strong>[00:03:01]</strong> </span><span class="speaker"><strong>发言人1: </strong></span>做出来的这个东西价值就上千万了，对吧？那么大厂几个月费了多少人力？这对。</p>
+<p class="transcript-line"><span class="time"><strong>[00:03:07]</strong> </span><span class="speaker"><strong>发言人2: </strong></span>这不是对坐在桌子。</p>
+<p class="transcript-line"><span class="time"><strong>[00:03:09]</strong> </span><span class="speaker"><strong>发言人3: </strong></span>边上喝着咖啡直接web coding的是吧？</p>
+<p class="transcript-line"><span class="time"><strong>[00:03:12]</strong> </span><span class="speaker"><strong>发言人2: </strong></span>但是我我我后面又听一个消息，就是说在google内部，还不是说所有人都能用cloud，你知道吧？Web coding这个事情就天龙国的人可以用，你知道吗？就deep mind这些人还是开绿灯的。</p>
+<p class="transcript-line"><span class="time"><strong>[00:03:26]</strong> </span><span class="speaker"><strong>发言人1: </strong></span>最近好像也不让了，最近也不让了是吗？对，最近听说是得那个了得强制。就是他是他那个创始人之一的个人出来说，所有人都给我在用我们自己的煎饼奶以及自己的那些coding的那些东西，其他东西都不能用，这是心疼。</p>
+<p class="transcript-line"><span class="time"><strong>[00:03:43]</strong> </span><span class="speaker"><strong>发言人2: </strong></span>谷歌员工一秒钟。</p>
+<p class="transcript-line"><span class="time"><strong>[00:03:44]</strong> </span><span class="speaker"><strong>发言人1: </strong></span>对，就这玩意儿，这玩意儿被他我就看到有解读是说什么，你这东西就天天用人家菜刀用的很顺手，现在自己家的刀不好用也得用，你先用再说，就得这样。然后看到他创始人出来是急了，好像也成立了专项组，那个老外是叫什么strike team，就我们说那个counter strike CS那个strike突击团队，一定要把这个东西给赶上。就是说这个INT，什么anthropic的这个cloud，我们一定要干把它干下来，这个已经是直接类似当时那个奥特曼拉那个什么红色警报差不多的意思。毕竟是创始人出来干的，这个事情又是不一样。</p>
+<p class="transcript-line"><span class="time"><strong>[00:04:21]</strong> </span><span class="speaker"><strong>发言人3: </strong></span>但这个新闻如果是真的，我就挺鄙视的。就跟咱们之前要说的是，如果有一个公司开始抓考勤了，这公司快黄了。你说如果你你要需要这个创始人出来强调说我们不能用别人家的公司的东西，这说明这家公司得差成什么样，对不对？自己员工特别尬，你不如让他大胆吃，大胆方用说，大家好好看看，别人就是师夷长技以自强，大家想看看人家好在哪儿，咱们能不能做出比人更好的东西来，有点情怀或者有点心胸好不好？我我我没看见新闻，但我觉得如果真的是出来靠靠喊口号，那没戏，谁能管住人家自己私人家电脑用什么？</p>
+<p class="transcript-line"><span class="time"><strong>[00:04:57]</strong> </span><span class="speaker"><strong>发言人2: </strong></span>工作的时候可能但我是感觉google整个还是受制他这个组织，我们不是说大企业病官僚这些都不是不是这个还是说他的所谓模型跟产品，还是有一条泾渭分明的界限。我觉得他是很努力在补产品的。你看josh这个团队，真的很努力在补这个产品了，你也很少看过说google做产品现在发功能发的这么认真，开始雕花了。你可想象google什么时候在产品上面雕花。</p>
+<p class="transcript-line"><span class="time"><strong>[00:05:27]</strong> </span><span class="speaker"><strong>发言人1: </strong></span>对吧？因为我们讲谷歌是应该就刚好是去年的IO大会的时候，然后那个时候还有香蕉，那诺banana后面火爆了，就他这个累计是原生的这种训练优势还是很大的对，就是他这个数据的累计从技术上来讲有代差，没有那么容易改的。但是大家现在至少可以看到国内的这个方向是非常的精确，就所有的力量都集中到这个编码上。那谷歌是还是全方位的在打这个除了阵地战之外的海陆空各种地方都在打。对，就不差钱。</p>
+<p class="transcript-line"><span class="time"><strong>[00:06:00]</strong> </span><span class="speaker"><strong>发言人2: </strong></span>的玩法。</p>
+<p class="transcript-line"><span class="time"><strong>[00:06:02]</strong> </span><span class="speaker"><strong>发言人1: </strong></span>是的，不差钱的玩法。对。</p>
+<p class="transcript-line"><span class="time"><strong>[00:06:04]</strong> </span><span class="speaker"><strong>发言人2: </strong></span>因为桌面端最大的优势就是说你有多应用，跨应用的上下文，以及能够操作本地文件的权限。是的，对，但是当我用这个所谓小龙虾，我拉了一个御三家的群以后，就直接可以在本地帮我操作文件，帮我执行任务。我为什么我连web端我都不需要了。你说现在御三家摊开来讲，我觉得产品或者功能上最激进的是cloud对吧？你像cloud太激进了，直接在桌面端集成了cloud的chat，然后code就什么cloud code，还有这个？三合11个东西已经。</p>
+<p class="transcript-line"><span class="time"><strong>[00:06:39]</strong> </span><span class="speaker"><strong>发言人1: </strong></span>已经是已经是超级快成超级APP了。</p>
+<p class="transcript-line"><span class="time"><strong>[00:06:42]</strong> </span><span class="speaker"><strong>发言人2: </strong></span>对吧？最激进的是它，第二激进的是这个GPT，GPT我们等下会讲一讲。这个GPT自从我们全公司切到GPT以后，我觉得这个google已经如果再不发力就有点不香了。</p>
+<p class="transcript-line"><span class="time"><strong>[00:06:56]</strong> </span><span class="speaker"><strong>发言人3: </strong></span>变成前女友了，刚是以。</p>
+<p class="transcript-line"><span class="time"><strong>[00:06:57]</strong> </span><span class="speaker"><strong>发言人1: </strong></span>事实上已经大部分事情都不想了。我们都不用它了，连连UI现在也不用它，为什么就已经被cloud又抢了？Cloud最近一周还出了cloud design，我是专门做那个把那个f gma的股价都干掉了快10%。你想一下f gma是这个design界的上市公司唯一一家真牛逼的，然后就直接干下去，因为很多人会恐慌，就跟前一段时间讲这个什么sas软件后背一凉，对这不是一凉，是真的是感觉是后背直接是被统一花一紧。然后其实这一个月还有把很多东西，还有塞到了office的365里面去等等的一些地方，都是这一个多月。</p>
+<p class="transcript-line"><span class="time"><strong>[00:07:38]</strong> </span><span class="speaker"><strong>发言人2: </strong></span>做的非常激进。</p>
+<p class="transcript-line"><span class="time"><strong>[00:07:39]</strong> </span><span class="speaker"><strong>发言人1: </strong></span>非常快非常非常的快。</p>
+<p class="transcript-line"><span class="time"><strong>[00:07:41]</strong> </span><span class="speaker"><strong>发言人2: </strong></span>然后果然在百度待过。</p>
+<p class="transcript-line"><span class="time"><strong>[00:07:43]</strong> </span><span class="speaker"><strong>发言人1: </strong></span>而且他最近还说特别说中国模型只要六个月左右，6到12个月就能赶上。我们现在他最强的这个VS这个模型，他达里奥有出来讲，他说中国模型6到12个月就能赶上，然后我们得再抓紧一点。对，然后我看什么果然是在反映。</p>
+<p class="transcript-line"><span class="time"><strong>[00:08:00]</strong> </span><span class="speaker"><strong>发言人3: </strong></span>说还有之前泄露的事儿，估计6到10个月，12个月都不用干，头六个月就出来了。</p>
+<p class="transcript-line"><span class="time"><strong>[00:08:08]</strong> </span><span class="speaker"><strong>发言人1: </strong></span>对，所以这个更新就是特别快，然后那code x更是了，code x我就感觉我现在我自己天天用code x就是天天都在给我提醒要更新的，天天都在给我提醒要有新版的。然后这个星期是更新了。电脑操作这一块，他自己讲的是说几乎可以干任何事，确实是可以干几乎干任何事的，你的电脑也能接管。就这些东西的话，你看他们是已经在产品阶段去深度应用了。但是谷歌的什么时候能够有一个像样的computer use，我就根本没看到这个影子，在哪都不知道。所以这些东西我觉得说真的是差差很远，我们就特别期待说5月20号你得能端出点菜来，如果端不出来这个事情，这可能一段时间就是被动的又不出来。</p>
+<p class="transcript-line"><span class="time"><strong>[00:08:54]</strong> </span><span class="speaker"><strong>发言人2: </strong></span>贤哥去现场举横幅。</p>
+<p class="transcript-line"><span class="time"><strong>[00:08:56]</strong> </span><span class="speaker"><strong>发言人1: </strong></span>是你贤哥在。</p>
+<p class="transcript-line"><span class="time"><strong>[00:08:57]</strong> </span><span class="speaker"><strong>发言人2: </strong></span>现场横幅举起来。</p>
+<p class="transcript-line"><span class="time"><strong>[00:09:00]</strong> </span><span class="speaker"><strong>发言人3: </strong></span>对，拉横幅。</p>
+<p class="transcript-line"><span class="time"><strong>[00:09:02]</strong> </span><span class="speaker"><strong>发言人2: </strong></span>刚刚讲到那个老师讲到那个computer use吗？对。</p>
+<p class="transcript-line"><span class="time"><strong>[00:09:06]</strong> </span><span class="speaker"><strong>发言人1: </strong></span>我真的去试了一下，这个我真的去试了一下。</p>
+<p class="transcript-line"><span class="time"><strong>[00:09:10]</strong> </span><span class="speaker"><strong>发言人2: </strong></span>这就是我要的小龙虾，我还要什么小龙虾，对不对？</p>
+<p class="transcript-line"><span class="time"><strong>[00:09:14]</strong> </span><span class="speaker"><strong>发言人1: </strong></span>小龙虾那些太弱爆了，就是小龙虾能做他肯定能做，小龙虾不能做他还能做。</p>
+<p class="transcript-line"><span class="time"><strong>[00:09:18]</strong> </span><span class="speaker"><strong>发言人2: </strong></span>就是这样的。所以我就觉得印证我们上一期节目我就讲过，我说code x是什么？Code x就是奥特曼心中的小龙虾，对吧？我觉得慢慢的我觉得codex会长成一个奥特曼心中小龙虾的样子。</p>
+<p class="transcript-line"><span class="time"><strong>[00:09:32]</strong> </span><span class="speaker"><strong>发言人1: </strong></span>基本上应该忘了小龙虾了。</p>
+<p class="transcript-line"><span class="time"><strong>[00:09:34]</strong> </span><span class="speaker"><strong>发言人3: </strong></span>忘了小龙虾的那个创始人去哪儿了。</p>
+<p class="transcript-line"><span class="time"><strong>[00:09:38]</strong> </span><span class="speaker"><strong>发言人1: </strong></span>是是是没失敬。对，而且应该肯定超越小龙虾。就是他现在的那个多任务的code x他会在我们给他过的那个多任务之间去主动找一些关联和去给你一些建议的。</p>
+<p class="transcript-line"><span class="time"><strong>[00:09:51]</strong> </span><span class="speaker"><strong>发言人1: </strong></span>我相信说不定就是1到3个月左右，就是我相信早上，比如说我们早上一起来，一打开code x他就会推荐，可能会开始告诉我你昨最近做的一些事情怎么样了，我建议你怎么做。因为这个事情我在龙虾上已经实现了，我在龙虾上自己调的超级cloud code的那个做梦梦做梦的机制。他最近经常提醒我，上次跟你讨论的那个方案，我有新新的想法了。然后我跟你讨论一下，他早上起来就会跟我聊这个，然后我现在就觉得挺好。我相信code x很快也会把这个能力实现好。</p>
+<p class="transcript-line"><span class="time"><strong>[00:10:22]</strong> </span><span class="speaker"><strong>发言人1: </strong></span>然后是在code x这种级别。因为小龙虾毕竟是我个人的，我自己自己调教的，我想给你们俩分享一下。都没办法，对吧？那那这个事情就是code x可以做得到，它可以做到更通用的。不管是做成plugin，还是后面的那个他的skill，还是他本身就是变成了一个foundation的一个基础能力都可以。那这个事情就变成他可以主动的来帮你去想你可能需要什么。根据你的操作习惯，这个事情就会真的比龙虾跟龙虾，因为龙虾还有太多的所谓调教。</p>
+<p class="transcript-line"><span class="time"><strong>[00:10:50]</strong> </span><span class="speaker"><strong>发言人1: </strong></span>我们经常说要给龙虾什么吃虾粮，要给它吃好的虾粮对吧？各种大脑。他如果头肯要要多给他烧，那你这个东西多费劲。De x直接给你在中心做好了。</p>
+<p class="transcript-line"><span class="time"><strong>[00:11:01]</strong> </span><span class="speaker"><strong>发言人2: </strong></span>那我这个会更少。而且我觉得很多人是小看的就是code x的更新。这个code x更新其实他都没有把它的卖点讲出来，我觉得可能是公关层面不能讲。其实我觉得总结来讲就是两大卖点。第一个支持computer use对吧？第二个支持浏览器了，就它内置了一个浏览器在里面。对对对，浏览器自动化。</p>
+<p class="transcript-line"><span class="time"><strong>[00:11:22]</strong> </span><span class="speaker"><strong>发言人1: </strong></span>支持浏览器自动。这个应该就是他之前想把他的attu s浏览器合成的一部分。</p>
+<p class="transcript-line"><span class="time"><strong>[00:11:28]</strong> </span><span class="speaker"><strong>发言人2: </strong></span>是的，其实这两个事情就是小龙虾最核心的两个本质的能力，我觉得就是在code x上面补齐。</p>
+<p class="transcript-line"><span class="time"><strong>[00:11:36]</strong> </span><span class="speaker"><strong>发言人1: </strong></span>对我估计不敢讲，是因为不太成熟。讲了很多问题，他哪怕是continue还有这些东西，至少现在用起来，我相信问题是很多的。因为这些东西就是天生自带问题，很多浏览器也是，浏览器是资源消耗大户。对，我就说我们只是做编程，大部分时候做编程偶尔掉掉浏览器去做一些测试验证什么的。</p>
+<p class="transcript-line"><span class="time"><strong>[00:12:00]</strong> </span><span class="speaker"><strong>发言人1: </strong></span>我们能够在一个晚上花了200美金，一个晚上花200美金没干啥，就是非常恶心。他是出了一个小bug，是在调调浏览器的时候出了一个问题，然后它会出现的超级死循环。然后一个晚上一直在那边起浏览器一直在那边搞，然后一下子200美金就没了。然后早上起来一看，那账号都被封住了，因为超已经跑到负数的价格了，就是这么跑出来的。像这种东西是很容易发生的那如果我们稍微有一点点没注意，那搞不好房子都给烧没了。</p>
+<p class="transcript-line"><span class="time"><strong>[00:12:31]</strong> </span><span class="speaker"><strong>发言人3: </strong></span>对，所以就是说我必须骂一句，这两天我就明显感觉到这个token焦虑了，因为前一段时间我用的是ChatGPT plus版本的里面的code x的额度，结果就前段时间的时候开始用这个hold x的mac版，结果过不了一会儿，我这个周额度就hit了，就直接到limit了。现在我感觉就是plus版本的这个codex的额度完全就是尝鲜级别的，根本不够真正正常使用，逼着你得买买那什么买API的额度才行。</p>
+<p class="transcript-line"><span class="time"><strong>[00:12:57]</strong> </span><span class="speaker"><strong>发言人2: </strong></span>但是我这都不是我care的问题，我完全不关心这些，我只关心说我能不能通过你放出来什么能力，我能不能看到你后面要做什么。这次还有一个就我刚才讲一个浏览器自动化，一个控制电脑，computer use，还有一个是它增加了单独一个聊天的入口，你可以只聊天不写代码。所以我有理由相信他从公关层面是希望把自己还是包装成一个叫做code x的这样一个产品。就他写code的，但是实际上我觉得他是超越扣的。只是说很多事情他从公关层面我觉得现在不能讲，但是我觉得他离那个super觉得是我。</p>
+<p class="transcript-line"><span class="time"><strong>[00:13:33]</strong> </span><span class="speaker"><strong>发言人3: </strong></span>觉得这讲不了，讲不出来。就是说他现在这种感觉模模糊糊，但是他说不出来。他没并没有说在战略层面上直接把这东西想的已经非常透彻了才去执行，而是说在这个阶段上来讲的话，想法是有的。然后能把它做出来就已经先是第一步了。至于说第二步怎么样，小车不倒，尽管推先往前走着走到说一个东西真正被大家所广泛接受，然后发现从后台数据看起来，就所有人都在用这个东西。用的很爽的时候，再把它包装成公关语境。</p>
+<p class="transcript-line"><span class="time"><strong>[00:14:00]</strong> </span><span class="speaker"><strong>发言人2: </strong></span>这东西反着来。问题不对，我导师不太同意。我觉得他在上市之前这个阶段是必须要用各种骚操作拿下code这块市场，就编程这块市场，我不管你是泛扣的还是全扣的，纯编码还是饭编码，我不管你是什么。</p>
+<p class="transcript-line"><span class="time"><strong>[00:14:16]</strong> </span><span class="speaker"><strong>发言人3: </strong></span>这我倒不反对。你看前两天不是有新闻说有两个工程级别的，核心级别的高管，OpenAI的核心级别高管离职了，一个是以前负责sora的，然后还有一个是干嘛的？</p>
+<p class="transcript-line"><span class="time"><strong>[00:14:27]</strong> </span><span class="speaker"><strong>发言人2: </strong></span>来一个干嘛休产假了，然后一个身体有问题了，这个一听就有问题，就是要。</p>
+<p class="transcript-line"><span class="time"><strong>[00:14:33]</strong> </span><span class="speaker"><strong>发言人3: </strong></span>就是明显知道，这个整把所有资源都集中在coding这块了。这回就是萨普特曼也被被扔了燃烧瓶之后也想明白了是吧？</p>
+<p class="transcript-line"><span class="time"><strong>[00:14:43]</strong> </span><span class="speaker"><strong>发言人1: </strong></span>我你你。</p>
+<p class="transcript-line"><span class="time"><strong>[00:14:44]</strong> </span><span class="speaker"><strong>发言人2: </strong></span>去年一年是整个发散的一年，你做sora，你做什么社交什么都做对吧？你去年浏览器什么都做，但是你今年你面对这个事情，我要不要上市？我要上市对吧？我要上市，但是我要怎么讲好我的故事，我基本盘不能丢，我chat 8亿用户不能丢，因为我coding。现在说今天破了400万用户，400万日活，还是用户量，我忘了。</p>
+<p class="transcript-line"><span class="time"><strong>[00:15:09]</strong> </span><span class="speaker"><strong>发言人1: </strong></span>应该是用户量，用户量他活跃大概是三百多万。对。</p>
+<p class="transcript-line"><span class="time"><strong>[00:15:13]</strong> </span><span class="speaker"><strong>发言人2: </strong></span>已经很高了。对，但是还是很少的，还是不够的。像这个企业这一块一直是OpenAI的心病，对吧？被这个微软栓着狗链一直是他的心病。所以就我不管任何的骚操作，如果我是奥特曼，我就用尽我所有办法。就是所谓叫code x产品，只要跟code相关，哪怕就是你只是跑了一个脚本也算够的，好不好，我就记录我的用户量，我必须把这一块给做起来。对我觉得这还是不惜一切要拿到这一块的。</p>
+<p class="transcript-line"><span class="time"><strong>[00:15:42]</strong> </span><span class="speaker"><strong>发言人1: </strong></span>是啊，其实实际已经做了，我们不也在好。那个code x500美金的那个震惊对吧？他的这个要求很，其实后来去试了以后发现，你第一得是一个企业绑定你公司的域名，完了以后还得用五个新的账号。这个不能是你已经在什么chat GP business，各方面都不能有，得有全新账号对吧？</p>
+<p class="transcript-line"><span class="time"><strong>[00:16:01]</strong> </span><span class="speaker"><strong>发言人2: </strong></span>那我就给他硬开了五个账号，熟悉的叙事方式。</p>
+<p class="transcript-line"><span class="time"><strong>[00:16:04]</strong> </span><span class="speaker"><strong>发言人1: </strong></span>对，我不在国内，这个来了。对，在外面给人家发鸡蛋的时候，不也是干这个事吗？来扫个码，拿个鸡蛋拿去，结果说就是这个事情。</p>
+<p class="transcript-line"><span class="time"><strong>[00:16:13]</strong> </span><span class="speaker"><strong>发言人2: </strong></span>老板小邱，今天怎么发了那么多鸡蛋？小邱说我发了十盒鸡蛋，少了20个码。</p>
+<p class="transcript-line"><span class="time"><strong>[00:16:20]</strong> </span><span class="speaker"><strong>发言人1: </strong></span>对，平均每个人获客成本只要两块钱。你原来要200，我现在两块怎么样？怎么就这个事情一模一样。所以我觉得他做的还不错，而且时间限的很死。4月30号之前必须把这个给搞了。我也有，而且震惊也只能用到4月30号，不管你哪天激活，反正4月30号就没了。所以这个事情就是猛烈在拉人，就是把人先拉上来再说，管他的上来干什么呢？</p>
+<p class="transcript-line"><span class="time"><strong>[00:16:46]</strong> </span><span class="speaker"><strong>发言人3: </strong></span>今年任务太重了，一定要那什么，一定要保证增长，还要保证说在上市前能把自己的估值做起来。像去前几周不是说他有一批股份拿到一级市场去搞，然后最后都卖不出去，无人问津了。虽然不知道这个新闻真伪，也不知道是不是真的完全没卖出去还是怎么样。但是你明显感觉到他现在的势头已经增长势头已经完全低于这个the opiate。对对对。</p>
+<p class="transcript-line"><span class="time"><strong>[00:17:10]</strong> </span><span class="speaker"><strong>发言人1: </strong></span>这个就是听他，你那个我有听说大家转头都去买anthropic了，就说是他那个没就是这种情况。</p>
+<p class="transcript-line"><span class="time"><strong>[00:17:18]</strong> </span><span class="speaker"><strong>发言人2: </strong></span>所以现在就产品即公关了，模型即公关，对不对？你连anthropic做那么多动作，那么激进，包括什么cloud代码泄露了，然后今天什么可work发出来集成微软什么什么三件套，什么几件套的产品技公关。我觉得这个产品技公关的时代，就已经不是靠你去吹，不是靠你讲PPT了。人家是看你的产品的小米的code，对不对？</p>
+<p class="transcript-line"><span class="time"><strong>[00:17:41]</strong> </span><span class="speaker"><strong>发言人3: </strong></span>我觉得产品技公关这件事儿，还是拿前朝的剑斩斩当今的当当朝的官，已经有点过时了。我觉得现在是什么？就是在在这个美国市场或者是在这个资本市场上，大家认的是coding这个部分。然后coding这个部分又正好是被athrob c抢了先机。然后之前的话那个拆GPT它是抢了先机了，抢了AI这个入局的先机。然后后面的coding这块是整个的我就是增长和收入的先机，所以这一块已经拆机落后了，所以code x现在奋力往前追赶，而且效果还不错，所以现在就没办法，那继续往这条道走呗。</p>
+<p class="transcript-line"><span class="time"><strong>[00:18:15]</strong> </span><span class="speaker"><strong>发言人3: </strong></span>这个我觉得已经不是产品级别的问题，而是说这个战略级增增战略级增长怎么产生的问题。所以现在下一步就是说code to x的编程能力，还有价格，还有说这个产品推广速度到底够不够。所以这条既道路可能已经很清楚了，所以他把其他都砍掉了，什么sora什么东西，其他的各方面。</p>
+<p class="transcript-line"><span class="time"><strong>[00:18:33]</strong> </span><span class="speaker"><strong>发言人2: </strong></span>我觉得他口碑上来了。就我个人的一个体感就是说最近大家用code x的口碑其实是加上cloud。自己也作死。</p>
+<p class="transcript-line"><span class="time"><strong>[00:18:43]</strong> </span><span class="speaker"><strong>发言人1: </strong></span>自己掉链，自己作死是自己作死。</p>
+<p class="transcript-line"><span class="time"><strong>[00:18:45]</strong> </span><span class="speaker"><strong>发言人2: </strong></span>然后你讲一下OPPO4.7之类那个东西，就是我先讲一下我的体感。</p>
+<p class="transcript-line"><span class="time"><strong>[00:18:51]</strong> </span><span class="speaker"><strong>发言人3: </strong></span>就是说疲软。对。</p>
+<p class="transcript-line"><span class="time"><strong>[00:18:52]</strong> </span><span class="speaker"><strong>发言人1: </strong></span>Jimmy真的我们说了，刚才已经骂过了不别不说了。</p>
+<p class="transcript-line"><span class="time"><strong>[00:18:56]</strong> </span><span class="speaker"><strong>发言人2: </strong></span>5月21号再说，520以后再说，今天不说了，在此不表。</p>
+<p class="transcript-line"><span class="time"><strong>[00:19:02]</strong> </span><span class="speaker"><strong>发言人1: </strong></span>接不来是啥？这个编码都已经挤不进来了。</p>
+<p class="transcript-line"><span class="time"><strong>[00:19:04]</strong> </span><span class="speaker"><strong>发言人2: </strong></span>简单先不说，先不说。对，我们就说codex，我们就说codex。我个人的体感，包括身边朋友啊，用技术的人，首先有cloud自己作的成分对吧？自己作了，自己怎么又做这个KYC了，对不对？要核实身份的，什么东西的泄露了，当然自己也降智。</p>
+<p class="transcript-line"><span class="time"><strong>[00:19:26]</strong> </span><span class="speaker"><strong>发言人1: </strong></span>最关键是降智也是网上最流传的最火的。就是你去野生动物园，看着远处一只凶猛的雄狮冲着你冲了过来，你好怕。然后手一挥，发现一只金毛跟你汪汪汪。</p>
+<p class="transcript-line"><span class="time"><strong>[00:19:38]</strong> </span><span class="speaker"><strong>发言人2: </strong></span>一起唱喵喵喵，就是这么差，就是这么差。</p>
+<p class="transcript-line"><span class="time"><strong>[00:19:41]</strong> </span><span class="speaker"><strong>发言人1: </strong></span>我们一起学猫叫实际的体验就是这么差。你感觉我靠一顿操作猛如虎，最后干出来跟鬼一样。什么你说的跟他干的完全是两件事。好多不是国内的，夸张的是国外大量的博主都是这么讲的那我们原来以为我们用的中间是不是中转了，他妈的被降，后来发现在他那儿就也是这样子的，这个体验太真实了。所以直到最近出这个office 4.7大家才觉得终于下架了。</p>
+<p class="transcript-line"><span class="time"><strong>[00:20:09]</strong> </span><span class="speaker"><strong>发言人1: </strong></span>但是出现了新的情况，他换了token lizer等等的一些东西，就是重新计费计价思考方式都变了。他没有那种思考模式了，就是默认他自己决定思考还是不思考，完全是配合了。但是确实有一些质量是提升了，模糊的任务的质量提升了，但是明确的任务的质量有些部分还下降了。但是总体来讲总体来讲是比以前要好啊。但最致命的是它更贵了，就是它的token消耗比以前可能高了百分之二三十是至少的事情。</p>
+<p class="transcript-line"><span class="time"><strong>[00:20:36]</strong> </span><span class="speaker"><strong>发言人2: </strong></span>我觉得你刚才讲的是明确任务这一块，是被code x抢了很大的市场了，刚好这个空隙被奥特曼钻进去了。现在很多明确的任务，修一些复杂的bug，现在大家也都用code x去做。</p>
+<p class="transcript-line"><span class="time"><strong>[00:20:48]</strong> </span><span class="speaker"><strong>发言人1: </strong></span>会用code x干，就是我们自己也是这么干的，有一个问题，就是说像刚才我说的4.7，它是强了，但是token消耗变大了，这个等于我的变相涨价了那是吧对，这个东西现在的问题就是我稍微好好让他又变成了那种做plan的时候好好用一用，真干活我可能找code x去干活对吧。因为你这个plan可能实在是做的还不错，但是干活起来你实在太少token了。然后那个有一些细，有一些东西你可能比4.6还差一点。像我们在干的时候，有一些具体的活，我会强制切回4.6去干。然后还会而且会用4.6的那个呃上下文，不要用最新的100万上下文的。百万上下文还经常会出问题，就是给他退回以前非百万上下文，那个两百多K还是四百多K的，那个样子的就跑起来反而会比现在新的好。这个就是他现在的各种调教是确实可能针对可能不同的企业，很多东西做了很多的变化，做太多了做太多了。</p>
+<p class="transcript-line"><span class="time"><strong>[00:21:44]</strong> </span><span class="speaker"><strong>发言人1: </strong></span>他这一次发布你有一个很不一样的，就是他发布之后，他自己的那个手机工程师还出来专门出了一个guideline，还蛮细致的guideline就是说怎么样去用好4.7。你要这个就是一个不好产品的特点，不好产品才需要精配一个长长的说明书来讲这个东西怎么用。好的产品是不用的，只要说发布了，剩下大家自己去用。前面他都是这么发布的这一次特别讲了4.7要怎么用，然后他生怕大家变成说烧了token又不好用。</p>
+<p class="transcript-line"><span class="time"><strong>[00:22:13]</strong> </span><span class="speaker"><strong>发言人3: </strong></span>这就是知道发之前就知道自己会被骂了，对吧？没办法，所以先自己先上来一下，先贴个补丁，然后让大家知道骂你怎么骂，告诉你骂的时候也是小心点。我们其实有有预知的。</p>
+<p class="transcript-line"><span class="time"><strong>[00:22:24]</strong> </span><span class="speaker"><strong>发言人2: </strong></span>并不是你可以我先叠一层甲。</p>
+<p class="transcript-line"><span class="time"><strong>[00:22:26]</strong> </span><span class="speaker"><strong>发言人1: </strong></span>对，先叠一层甲。我告诉你怎么用了，没用好是你的问题。</p>
+<p class="transcript-line"><span class="time"><strong>[00:22:30]</strong> </span><span class="speaker"><strong>发言人3: </strong></span>说回那club code，我对这家公司一直喜欢不起来。真的就是说我喜欢不起来的感觉是什么？就是这个东西对于我这种用户来讲，以前不编程的人来讲的话，我总感觉他高高在上。虽然我知道他评价很高。各种的这种模型的能力怎么样，我之前又又做了一些这个，怎么说呢？就像他之前那个新模型出来之后又不让大家用等等。</p>
+<p class="transcript-line"><span class="time"><strong>[00:22:50]</strong> </span><span class="speaker"><strong>发言人3: </strong></span>咱上期节目也说过，但我一直想不起来，我感觉他的这个有一种什么呢？就是有一种傲慢在里头。然后这种傲慢体现在这个定价，体现在这个限制，体现在封号，体现在各个方面。你说能力上强确实强，但这个强也只是他找到一个点，就是编程这个点我不知道我这个想法对不对，反正我是感觉就是说他就是那种我有一门特别强，特别灵，我就像有点像当时拿着倚天剑的这个灭绝师太，所以我就可以大杀四方。然后我也不用说给谁面子，我更不需要讲什么道理，因为只要手里我有这把剑，我就可以瞎砍，胡侃乱侃，就这种感觉。</p>
+<p class="transcript-line"><span class="time"><strong>[00:23:24]</strong> </span><span class="speaker"><strong>发言人2: </strong></span>那你活该孤老终身。对。</p>
+<p class="transcript-line"><span class="time"><strong>[00:23:27]</strong> </span><span class="speaker"><strong>发言人3: </strong></span>所以就灭绝了。</p>
+<p class="transcript-line"><span class="time"><strong>[00:23:29]</strong> </span><span class="speaker"><strong>发言人2: </strong></span>那你问一下这个被被cloud虐千百遍，待他如初恋的老兄对不对？</p>
+<p class="transcript-line"><span class="time"><strong>[00:23:35]</strong> </span><span class="speaker"><strong>发言人3: </strong></span>对，对，所以我也想说，反正我是喜欢不起来。</p>
+<p class="transcript-line"><span class="time"><strong>[00:23:38]</strong> </span><span class="speaker"><strong>发言人1: </strong></span>我不知道老修是不是就没办法，我们在国内也经常大家骂他，因为他是明确把中国这个事情，中国我们这边列入黑名单了。我们而且你用的词是很恶心的，那个词用英文翻译过来大概就是敌对的国家的意思。其实国内大家都很不爽，但是问题是妨碍不住国内大家都要上去用它，还是企业是用脚投票，就是你这个东西能把活给干了，贵一点我们也要用，对吧？就类似这样子。</p>
+<p class="transcript-line"><span class="time"><strong>[00:24:06]</strong> </span><span class="speaker"><strong>发言人1: </strong></span>然后我记得还有个更硬核的是数据应该也是这周发生的。就是说有其中有有一小段的时间数据上是显示那个anthropic的to b这一端的是营收好像有比那个OpenAI高了。就是因为这个是挺挺夸张的一件事情，因为原来是要知道我们在一年前讲的cloud code的时候，那个时候其实才呃才是多少个亿，十个亿都不到的那种规模。然后现在已经是讲非常大的，然后大部分的收入其实是真的是硬生生从AI那边抢过来的那这个是一个此消彼长的过程，他不是他说大家一起抢那个大蛋糕，其实过程中间可能有一段时间是此消彼长，被他直接抢了好多。然后现在在在大家在一起去抢，抢什么国防军工这些的，大家什么网络安全的，什么打伊拉克各种地方都都。</p>
+<p class="transcript-line"><span class="time"><strong>[00:25:00]</strong> </span><span class="speaker"><strong>发言人2: </strong></span>你不用喜欢他，我觉得你在国内做这种政企的，你也要喊口号。对，那他无非是在美国做这块，他也喊他美国的口号。</p>
+<p class="transcript-line"><span class="time"><strong>[00:25:09]</strong> </span><span class="speaker"><strong>发言人1: </strong></span>这个是不是又是学了百度的精髓？</p>
+<p class="transcript-line"><span class="time"><strong>[00:25:14]</strong> </span><span class="speaker"><strong>发言人2: </strong></span>怎么样？没有这个什么长成你客户的样子。对你要长成你客户的样子。</p>
+<p class="transcript-line"><span class="time"><strong>[00:25:21]</strong> </span><span class="speaker"><strong>发言人1: </strong></span>对，就是再恶心，但是首选你就是这样子。</p>
+<p class="transcript-line"><span class="time"><strong>[00:25:24]</strong> </span><span class="speaker"><strong>发言人3: </strong></span>你这么说我就有点理解为什么不喜欢他了，对吧？因为他属于这种套路。</p>
+<p class="transcript-line"><span class="time"><strong>[00:25:28]</strong> </span><span class="speaker"><strong>发言人2: </strong></span>是你不喜欢他的客户，不是你不喜欢他，是因为你对。</p>
+<p class="transcript-line"><span class="time"><strong>[00:25:32]</strong> </span><span class="speaker"><strong>发言人3: </strong></span>这个套路太熟悉了，所以被看穿了。</p>
+<p class="transcript-line"><span class="time"><strong>[00:25:36]</strong> </span><span class="speaker"><strong>发言人2: </strong></span>我就觉得我太熟悉了，我太熟悉这个套路了，我这熟的不要命。我没，我跟你讲，我见不同客穿不同的衣服，我告诉你。</p>
+<p class="transcript-line"><span class="time"><strong>[00:25:45]</strong> </span><span class="speaker"><strong>发言人3: </strong></span>而且我在那个X上好像看一新闻说，他当时好像有一段时间悄悄的把那个pro版里的什么cloud code给取消掉了，然后必须得max 5以上才能用cloud code。然后当时看了那个之后，我觉得底下那评论特别逗我就说了，以前你觉得大家一起吃自助餐，结果吃着吃着发现有些东西要单独收收钱了。</p>
+<p class="transcript-line"><span class="time"><strong>[00:26:04]</strong> </span><span class="speaker"><strong>发言人1: </strong></span>恶心的多了。我不是我们这个估计还用用着用着还得请你本人出来帮我们做什么的身份验证，还得活体验证。</p>
+<p class="transcript-line"><span class="time"><strong>[00:26:12]</strong> </span><span class="speaker"><strong>发言人2: </strong></span>我们毕竟人在中国，我怎么想到腾某讯？我动不动扫码验证。</p>
+<p class="transcript-line"><span class="time"><strong>[00:26:20]</strong> </span><span class="speaker"><strong>发言人3: </strong></span>所以你定义了吗？就活成了你客户的样子，是吧？不过说回来就是说说回code x，所以code x被被大家映衬着对吧？显得眉清目秀起来了，突然一下子变得楚楚动人了，开始起开始招人喜欢了，整个。</p>
+<p class="transcript-line"><span class="time"><strong>[00:26:35]</strong> </span><span class="speaker"><strong>发言人2: </strong></span>对，那个大善人的位置，他把谷歌大大善人的位置接过来了。对，最近开始做大善人。</p>
+<p class="transcript-line"><span class="time"><strong>[00:26:42]</strong> </span><span class="speaker"><strong>发言人1: </strong></span>最重要的就是它的量够大。简单的说，可能10分之1的价格能够用到差不多90% cloud的能力。你能不用吗？这肯定要用，肯定要先去把它用干活。</p>
+<p class="transcript-line"><span class="time"><strong>[00:26:54]</strong> </span><span class="speaker"><strong>发言人3: </strong></span>对。</p>
+<p class="transcript-line"><span class="time"><strong>[00:26:54]</strong> </span><span class="speaker"><strong>发言人1: </strong></span>现在确实真的就真的能干活。你看我们就说90%的能力，而且有些地方可能要超越于你就是看干这种确定性比较强对，然后那个就是我说的确定性比较强，往往是我们就说需求相对比较清楚。但是有难度，可能有这个东西有要排查一些历史的bug.</p>
+<p class="transcript-line"><span class="time"><strong>[00:27:13]</strong> </span><span class="speaker"><strong>发言人2: </strong></span>应该说面向专业工程师。</p>
+<p class="transcript-line"><span class="time"><strong>[00:27:15]</strong> </span><span class="speaker"><strong>发言人1: </strong></span>死3 bug，这种他都真的能干。我们实际上是有好多，我像我最近在，因为我们我们自己也在重构我们自己的产品，其实有一些历史的bug我都是用code x去改的，他能够帮我们找到。而且大家现在都已经开玩笑了，因为那个QX他用的5.4的那个那个GPT，然后5.4有一些专有一些很装的，这个不是人话的黑化现在要落盘了，我现在要把这个收口，然后你别急，我已经稳稳托住了。你就是这大家现在看都已经快要PDSD了，因为他经常会说，不着急，我已经稳稳拖住了。然后你们我再收一下口，压实一下，就把你这个问题解决了。天天是这个黑话。</p>
+<p class="transcript-line"><span class="time"><strong>[00:28:00]</strong> </span><span class="speaker"><strong>发言人2: </strong></span>然后这个黑话我不跟你让，我先从这个角度来帮你。</p>
+<p class="transcript-line"><span class="time"><strong>[00:28:04]</strong> </span><span class="speaker"><strong>发言人1: </strong></span>然后来就是先说结论，这这些这些套路都已经用的很好了，那我都不得不说就是活干的可以。然后这话说的就是有一点点难受，但是这个套路也是比较直接的这也是然后对，有自己的风格，甚至好到好像那个四点，那个cloud 4.7也有一点点，把这一点点风格也学了一点，被大家骂了，说你好好的干嘛学这个code x的，这个不说人话。</p>
+<p class="transcript-line"><span class="time"><strong>[00:28:32]</strong> </span><span class="speaker"><strong>发言人3: </strong></span>这话一出溜了，直接就是直接就跟着走了。不是，那就是说现在来是御三家都大大概都说到了。然后Jimmy a也好，完code x也好，还有那个cloud code。现在这种情况对国产模型怎么样呢？</p>
+<p class="transcript-line"><span class="time"><strong>[00:28:45]</strong> </span><span class="speaker"><strong>发言人1: </strong></span>国产模型现在追赶很快，非常快。我们最开始讲的像这种kimi的K2.6这种，还有那个mini max的那个应该是2.7。他们版本号好接近，他们都是原生多模态的新的这种coding模型。然后agents的代理的评分都很高，实际完成的情况也也是也是蛮好的。</p>
+<p class="transcript-line"><span class="time"><strong>[00:29:06]</strong> </span><span class="speaker"><strong>发言人1: </strong></span>因为相当于国外的这些御三家大家在在抢，然后各种能力迭代特别快，但是真正的把活干下来，对，这个事情其实你还是国内的，这个想为什么？就是说首先不用说真的国至少国内的价格是绝对够便宜。就是干这些活，你看这个agent越聪明，你的你就马上越能感觉到你的token在燃烧。那这个土粉在燃烧的时候，你烧国内的这个你烧的你就觉得心安理得，就觉得这个也烧不到哪里去就还好，不会一晚上一个晚上把房子烧没是吧，也不会一晚上就怎么样了。这个其实就是妥妥的。</p>
+<p class="transcript-line"><span class="time"><strong>[00:29:43]</strong> </span><span class="speaker"><strong>发言人1: </strong></span>然后还有一个就是国内的话还是集中精力再把编码打穿。就是这个编码里面的方方面面，每一个小细节他们现在都在弄。最开始举例的那个kimi的这种，就是说你一边编码一边直接扔截图，然后去告诉他哪里不行，他就可以理解的很好。然后可以去把你，而且把你一些没讲出来的图上的隐藏的bug都给你发现了。像这些事情其实是以前是很不顺利的，以前这种东西都是我们以前干的时候都是断裂的。</p>
+<p class="transcript-line"><span class="time"><strong>[00:30:13]</strong> </span><span class="speaker"><strong>发言人1: </strong></span>我们以前就干的时候都会去跑到别的模型再去看一下。现在的话其实你可以看得到，国内就是典型的每一家都可以做到一站式自己搞定所有的事情，还可以一站式搞定所有的事情。然后那这个时候的话，就是我觉得是国外的厂商其实还没有完没有到这个程度。我们在国外，我们你看就像我们御三家，我们预三家都会用，这肯定是这样子的。在国内的话，其实我现在发现趋势上就是我用一家可以基本上完成大部分工作，应该叫越来越少的场景。我需要去换另外一个模型，包括说最近我没有用，但是我注意到好多地方都在讲字节的那个seed的那个编码就trial，他的大模型也现在也做的很好，就是大家现在都都都都在快速的追赶，编码这个很细致的，所有的工程上面的细节都在赶，特别是最近又看了color code写的代码。我靠。这个事情我觉得应该是很快的，至少我们在日常干活，我觉得国内的是还是会非常有希望。</p>
+<p class="transcript-line"><span class="time"><strong>[00:31:12]</strong> </span><span class="speaker"><strong>发言人2: </strong></span>国内静悄悄。必定在作妖。对，所以特别是你刚才讲那个cloud泄露。</p>
+<p class="transcript-line"><span class="time"><strong>[00:31:17]</strong> </span><span class="speaker"><strong>发言人1: </strong></span>这个是对国内大家你看大厂都都没有什么反应，大家也不出来分析，反正就是不断的更新自己的产品。</p>
+<p class="transcript-line"><span class="time"><strong>[00:31:25]</strong> </span><span class="speaker"><strong>发言人2: </strong></span>就是必定在作妖。</p>
+<p class="transcript-line"><span class="time"><strong>[00:31:26]</strong> </span><span class="speaker"><strong>发言人3: </strong></span>必然的对，这回这作业抄的是，你说你比如说你在这个暑假放假结束之前，对吧？然后那闹哄哄的就是想找本作业抄，等你有作业你看全都安静了，大家都在抄没人抬头。谁在班里走来走去，先把作业抄了再说，是不是先交上去再说。所以说中国模型？那我觉得是不是就可以不用说可考虑太多产品，就把竞能价格达到极致就完了。直接背靠着说现在这些什么小龙虾和爱马仕，现在这还在往前迭代。然后从开源上来讲还能够继续占领市场，对吧？</p>
+<p class="transcript-line"><span class="time"><strong>[00:32:01]</strong> </span><span class="speaker"><strong>发言人2: </strong></span>那这最大的智慧就包赢的智慧，你们去卷，你们什么code s什么都你们去探索前沿。你把市场给我跑清楚了，需求确定了，比如现在需求确定就是coding对吧？</p>
+<p class="transcript-line"><span class="time"><strong>[00:32:12]</strong> </span><span class="speaker"><strong>发言人1: </strong></span>就是coding了。好。</p>
+<p class="transcript-line"><span class="time"><strong>[00:32:13]</strong> </span><span class="speaker"><strong>发言人2: </strong></span>我往所以搞，价格足够低对不对？</p>
+<p class="transcript-line"><span class="time"><strong>[00:32:17]</strong> </span><span class="speaker"><strong>发言人1: </strong></span>价格足够低，各种选项全部给你拉满。</p>
+<p class="transcript-line"><span class="time"><strong>[00:32:19]</strong> </span><span class="speaker"><strong>发言人2: </strong></span>对吧？你飞一趟中国，你现在连飞都不用飞。对你不用飞，那么直接拿到全世界最低的价格。</p>
+<p class="transcript-line"><span class="time"><strong>[00:32:26]</strong> </span><span class="speaker"><strong>发言人1: </strong></span>对不对？对，所以我最低的价格，最最性价比最高的模型跟。</p>
+<p class="transcript-line"><span class="time"><strong>[00:32:31]</strong> </span><span class="speaker"><strong>发言人2: </strong></span>你怼到面前，就中中国又把AI干成了制造业，对吧？</p>
+<p class="transcript-line"><span class="time"><strong>[00:32:35]</strong> </span><span class="speaker"><strong>发言人3: </strong></span>对对对，不过说到coding这个如果说coding就是不应该不能叫如果了，现在已经是事就是既成事实了，就coding现在就是最热的AI应用，对吧？我记得今天，还是就昨天就说到这个s SpaceX要收购curse r我看这个事儿的时候，我觉得说真话这件事儿应该在意料之内。只不过就是说马斯克在现在这个阶段来做这件事儿的话，然后这个价格合不合适只是讨论这个问题。至于说到底该不该买，我觉得他早该出手。</p>
+<p class="transcript-line"><span class="time"><strong>[00:33:07]</strong> </span><span class="speaker"><strong>发言人2: </strong></span>我怎么觉得有点奇怪，马斯克怎么会看上柯舍我。</p>
+<p class="transcript-line"><span class="time"><strong>[00:33:11]</strong> </span><span class="speaker"><strong>发言人1: </strong></span>觉得有点奇怪。</p>
+<p class="transcript-line"><span class="time"><strong>[00:33:12]</strong> </span><span class="speaker"><strong>发言人3: </strong></span>这个事儿你想整个其实你分析。</p>
+<p class="transcript-line"><span class="time"><strong>[00:33:15]</strong> </span><span class="speaker"><strong>发言人1: </strong></span>起来又不奇怪了，为什么？因为我们刚才好歹还讲第三家在那边砍他他都在外面看的对吧？就是他那马斯克其实他没有刀，早就想上场了。他去年你记不记得我们去年有一次想要直播，就直播他那个group几，发布group 4.</p>
+<p class="transcript-line"><span class="time"><strong>[00:33:32]</strong> </span><span class="speaker"><strong>发言人2: </strong></span>应该编码一直出不来。</p>
+<p class="transcript-line"><span class="time"><strong>[00:33:33]</strong> </span><span class="speaker"><strong>发言人1: </strong></span>Group 4他当时说一个月后编码他就上来，现在多久？现在应该半年以上了，还没有出现一个像样的编码的出来。对，就是他能有一些的但编码，但是没有一个像样的，而且那个用户，然后那个模型这些东西都都卡住了。然后现在这个curse的话，他其实你看到收购的这个消息之前，他就是有两个应该是engineering的负责人，已经被X就XAI他们挖走了，已经是把很关键的干活的人挖走了。那现在的话觉得不行，还得把他用户给买过来。对，就光有人干活都来不及，等一下在等着等我的用户攒起来，都都去都被。</p>
+<p class="transcript-line"><span class="time"><strong>[00:34:14]</strong> </span><span class="speaker"><strong>发言人2: </strong></span>他们3个11万要上市的。对，首先讲一下关系，现在应该SpaceX已经收了XAAI对不对？</p>
+<p class="transcript-line"><span class="time"><strong>[00:34:20]</strong> </span><span class="speaker"><strong>发言人1: </strong></span>AI已经被收了。</p>
+<p class="transcript-line"><span class="time"><strong>[00:34:22]</strong> </span><span class="speaker"><strong>发言人2: </strong></span>先讲一下这个关系，那今年这几笔上是应该是最重要SpaceX，然后open I跟。</p>
+<p class="transcript-line"><span class="time"><strong>[00:34:27]</strong> </span><span class="speaker"><strong>发言人1: </strong></span>对，所以这个动作是很诚实。</p>
+<p class="transcript-line"><span class="time"><strong>[00:34:29]</strong> </span><span class="speaker"><strong>发言人2: </strong></span>的对你说总不能。</p>
+<p class="transcript-line"><span class="time"><strong>[00:34:31]</strong> </span><span class="speaker"><strong>发言人1: </strong></span>等到上市后再干。这个事情现在已经四月份了得跟着用户能买就直接买了。而且他给的那个方案，我看也挺鸡贼的，两种方案对吧？一个是600亿美金直接把客舍收了，还有一个就是到了那个时间，他好像约定了几个月时间吧。到那个时间以后，如果不行，我就用100亿美金付个一次性的这个费用，就当租了。当然租了你们这些事情，不管是资源还是什么的，就100亿美金了。然后这个是他是就是这么谈的，然后保留了能用600亿美金收这个curse的这个fan然后他们curse r的团队也确定是接受了600亿美金。确实不错，可以很香很香确实很香。</p>
+<p class="transcript-line"><span class="time"><strong>[00:35:10]</strong> </span><span class="speaker"><strong>发言人3: </strong></span>跟你说，前两天我听了一句话给我逗的，我在当时从窗上都乐起来。就是那个KK不是那个失控那本书的作者说埃隆马斯克的很多想法，他的判断一定大家要注意，他的判断价格大概率都是正确的，但他的时间表永远都不对。他他的他没有时间概念，对很多预估的时间都识别不了的。</p>
+<p class="transcript-line"><span class="time"><strong>[00:35:29]</strong> </span><span class="speaker"><strong>发言人2: </strong></span>都是吹牛的。但是这个没办法，这回我逼的对吧？</p>
+<p class="transcript-line"><span class="time"><strong>[00:35:32]</strong> </span><span class="speaker"><strong>发言人1: </strong></span>对。</p>
+<p class="transcript-line"><span class="time"><strong>[00:35:33]</strong> </span><span class="speaker"><strong>发言人3: </strong></span>但我觉得这个SpaceX收购XAI之后，估值不是一点一点几万亿，对吧？</p>
+<p class="transcript-line"><span class="time"><strong>[00:35:39]</strong> </span><span class="speaker"><strong>发言人1: </strong></span>一点一点反正上万亿1.5万亿对。</p>
+<p class="transcript-line"><span class="time"><strong>[00:35:42]</strong> </span><span class="speaker"><strong>发言人3: </strong></span>中间拿600亿，现在说先锁定一个采购权，锁定一个麦克斯的采购权，我觉得这太值得了，对吧？这故事随便以马斯克的本领，或者说拿这个space XX来来来讲故事，随便讲讲未来上市之后的估值，或者上市之前的估值，可能就远超这个要购买的价。再说到底买不买，到时候还是回事儿，因为他毕竟只是个权利。对。</p>
+<p class="transcript-line"><span class="time"><strong>[00:36:05]</strong> </span><span class="speaker"><strong>发言人2: </strong></span>聪明你赶紧的，space s股票跟我可少换一点，对不对？</p>
+<p class="transcript-line"><span class="time"><strong>[00:36:11]</strong> </span><span class="speaker"><strong>发言人3: </strong></span>你要是你要有OpenAIr股份，股票给卖了之后买spaces没准还赚赚两倍的，一进一出个。</p>
+<p class="transcript-line"><span class="time"><strong>[00:36:18]</strong> </span><span class="speaker"><strong>发言人1: </strong></span>而且科sir也算是捡到了。我看了一下科sir为啥那么开心，除了600亿高，马斯克画的那个饼也很大，说你们上我的他有一个专门有一个太空计算的计算的什么云，真正的云云，比云端还要云端的云端之上的太空计算的。</p>
+<p class="transcript-line"><span class="time"><strong>[00:36:38]</strong> </span><span class="speaker"><strong>发言人2: </strong></span>一套方案。不用排队。</p>
+<p class="transcript-line"><span class="time"><strong>[00:36:40]</strong> </span><span class="speaker"><strong>发言人1: </strong></span>不用排队，你直接来。然后你不是没有自家模型，你来我这里训对，你来我这里训完，价格便宜的，这个量又足，你随便搞。对对，这个东西也是很吸引他的。因为他不是前阵子训练一个模型，可能composer，然后搞了半天，最后终于认了，是基于我们蒙树的kimi做的。然后认了以后，他现在还得再进一步训自己的模型，可能这个搞得有点丢人。</p>
+<p class="transcript-line"><span class="time"><strong>[00:37:08]</strong> </span><span class="speaker"><strong>发言人2: </strong></span>你确定马斯克不是说我带你去跟中国老板喝酒？</p>
+<p class="transcript-line"><span class="time"><strong>[00:37:12]</strong> </span><span class="speaker"><strong>发言人1: </strong></span>说不定其实最后又绕到了中国老板还是挺有可能的。</p>
+<p class="transcript-line"><span class="time"><strong>[00:37:16]</strong> </span><span class="speaker"><strong>发言人2: </strong></span>老师哥我带你去跟质朴喝酒。</p>
+<p class="transcript-line"><span class="time"><strong>[00:37:18]</strong> </span><span class="speaker"><strong>发言人1: </strong></span>对吧？说这个模型底层模型我是帮不了你的，我只能把你们3D搞定了。你说模型我认识这几个老板，我带你过去。</p>
+<p class="transcript-line"><span class="time"><strong>[00:37:26]</strong> </span><span class="speaker"><strong>发言人3: </strong></span>以后又变成供应链思维。我靠。</p>
+<p class="transcript-line"><span class="time"><strong>[00:37:30]</strong> </span><span class="speaker"><strong>发言人2: </strong></span>如果是供应链二道贩子，马斯克。</p>
+<p class="transcript-line"><span class="time"><strong>[00:37:34]</strong> </span><span class="speaker"><strong>发言人1: </strong></span>对，有可能的。你说没问题，这空中你再多算力，你最终还是得有模型跑。那模型不自研，那就是搞中国的，这也可以。</p>
+<p class="transcript-line"><span class="time"><strong>[00:37:42]</strong> </span><span class="speaker"><strong>发言人2: </strong></span>好，反正我们就闲聊。这期就是7788跟大家从御三家扯到这个SpaceX，反正就是一个闲聊节目。对，那反正也是希望大家锁定我们的频频道。然后5月19号，5月20号，这个贤哥在google IO大会现场来的一个直击。</p>
+<p class="transcript-line"><span class="time"><strong>[00:38:02]</strong> </span><span class="speaker"><strong>发言人1: </strong></span>希望是非常。</p>
+<p class="transcript-line"><span class="time"><strong>[00:38:04]</strong> </span><span class="speaker"><strong>发言人2: </strong></span>期待今天虽然是拉踩了一下御三家，恶心了一下业余了一下google。但其实为什么揶揄他就爱之深责之切对不对？这个google还是因为我们还是心里还是非常对对对，我们希望他能再度。</p>
+<p class="transcript-line"><span class="time"><strong>[00:38:21]</strong> </span><span class="speaker"><strong>发言人1: </strong></span>振作起来。</p>
+<p class="transcript-line"><span class="time"><strong>[00:38:22]</strong> </span><span class="speaker"><strong>发言人2: </strong></span>对对对，而且我们频道还是有很多google的股东，对不对？还是有非常多google的股东，包括老肖也是对吧？我们肯定不希望google不好。对，所以就是借这个御三家点评一下，拉踩一下。希望说google大圣人5月20号、19号、20号就是发力一把好不好？好，这期节目期待就到这里结束了。好，谢谢大家收听，拜拜。</p>
+<p class="transcript-line"><span class="time"><strong>[00:38:45]</strong> </span><span class="speaker"><strong>发言人1: </strong></span>下次再见，拜拜。</p>]]></content:encoded>
+            <pubDate>Thu, 23 Apr 2026 09:52:14 GMT</pubDate>
+            <guid>69e9e7a11d989496e755a70f</guid>
+        </item>
         <item>
             <title>水！吃着爱马仕小龙虾，收藏Claude Code源码 ，AI 界的“艳照门”爷青回！</title>
             <link>https://www.xiaoyuzhoufm.com/episode/69e06842e2c8be31555998b9</link>
@@ -4215,228 +4422,6 @@ Apple podcsat朋友请移步👋
 <p class="transcript-line"><span class="time"><strong>[00:43:47]</strong> </span><span class="speaker"><strong>发言人3: </strong></span>拜拜，期待拜拜。</p>]]></content:encoded>
             <pubDate>Wed, 08 Oct 2025 23:00:00 GMT</pubDate>
             <guid>68e52ee58e321a0d6f38f7b6</guid>
-        </item>
-        <item>
-            <title>Sora 2 | OpenAI版“抖音”来了！ChatGPT 还能比价购物，亚马逊最怕的来了？</title>
-            <link>https://www.xiaoyuzhoufm.com/episode/68dceafc8bf86095c57825a2</link>
-            <description>OpenAI在9月30日发动“闪电战”，发布Sora版抖音，加上本周发的ChatGPT一键下单功能，这不是简单的产品上新，而是对内容和电商两大万亿赛道的“蓄谋已久的入侵”。当Sam Altman的野心不再掩饰，TikTok的流量护城河与亚马逊的电商帝国是否会一夜变天？
-🔥訂閱「JustSayAI早晚報」· 每日兩封 · 一鍵聽報：justsayai.org （需科学上网）
-👉老朋友！加入會員獲取JustSayAI早晚報+深度研報+文字專欄 ：www.youtube.com
-00:00 Sora 2一出抖音就真的危险了吗？
-02:03 AI生成的短视频为何依然让人上头？
-06:15 OpenAI是否在精准卡位TikTok的窘境？
-09:24 AI短视频与AI购物是天作之合吗？
-12:42 GPT-5没带来的震撼为何Sora 2做到了？
-15:51 OpenAI如何定义新的商业游戏规则？
-18:20 字节的AI能力真的被外界低估了吗？
-20:21 “以销定产”会是AI电商的终极形态吗？
-23:49 Sora 2掌握了“世界引擎”的关键钥匙吗？
-26:31 Sam Altman最聪明的阳谋是什么？
-27:06 硅谷精英为何能洞察最底层的商业逻辑？
-28:38 OpenAI真的只想在电商领域炫技吗？
-34:21 坚守学院派是Google的优势还是诅咒？
-37:21 为什么说亚马逊今晚会睡不着觉？
-40:07 Sam Altman会和微软的Nadella决裂吗？
-42:53 OpenAI的算力储备能支撑它的野心吗？
-🔥訂閱「JustSayAI早晚報」· 每日兩封 · 一鍵聽報：justsayai.org （需科学上网）
-👉老朋友！加入會員獲取JustSayAI早晚報+深度研報+文字專欄 ：www.youtube.com
-【关注频道】：
-📺B站：叫我小苏就好啊
-📕小红书：人民公园说AI
-▶️油管：人民公园说AI
-📱听友群：justsayai666</description>
-            <content:encoded><![CDATA[<p class="transcript-line"><span class="time"><strong>[00:00:00]</strong> </span><span class="speaker"><strong>发言人1: </strong></span>抖音危险了。</p>
-<p class="transcript-line"><span class="time"><strong>[00:00:01]</strong> </span><span class="speaker"><strong>发言人2: </strong></span>这一次周A2的物理引擎非常强。</p>
-<p class="transcript-line"><span class="time"><strong>[00:00:03]</strong> </span><span class="speaker"><strong>发言人3: </strong></span>我们听众说咱节目里别说脏话，我真想说脏话。</p>
-<p class="transcript-line"><span class="time"><strong>[00:00:06]</strong> </span><span class="speaker"><strong>发言人1: </strong></span>我觉得他太牛逼了。你就直接闭环，把抖音整个商业模式搬到AI上面来。</p>
-<p class="transcript-line"><span class="time"><strong>[00:00:10]</strong> </span><span class="speaker"><strong>发言人3: </strong></span>骚扰要未来能够把流量再做下来。那么恐怖，新经营30年的这么一个帝国，真的可能就会被踹倒一面墙。</p>
-<p class="transcript-line"><span class="time"><strong>[00:00:18]</strong> </span><span class="speaker"><strong>发言人1: </strong></span>其实我觉得现在抖音在旁边笑了。你open I先帮我把这条路趟好，反正我都准备好了，你这条路可以我就直接上了。</p>
-<p class="transcript-line"><span class="time"><strong>[00:00:25]</strong> </span><span class="speaker"><strong>发言人3: </strong></span>真的就是要在电商上有巨大发力了吗？还是说只是要确定一下技能？</p>
-<p class="transcript-line"><span class="time"><strong>[00:00:36]</strong> </span><span class="speaker"><strong>发言人1: </strong></span>今天早上起来发现奥特曼也不过国庆，直接发了一个sora版的抖音，对吧？直接搞出来这个东西，我们马上也体验了一下，赶紧跟大家分享一下。我觉得这个还是几件事情结合起来还是蛮有的聊的。刚刚贤哥体验过了，宪哥你觉得怎么样？抖音危险了。</p>
-<p class="transcript-line"><span class="time"><strong>[00:00:59]</strong> </span><span class="speaker"><strong>发言人3: </strong></span>对，这何止抖音？哇塞我觉得很多内容创作者都要抖一抖了是吧？我刚才我觉得还挺那什么挺好玩感觉。因为我这边是晚上，感觉就有点像过年30的感觉，就是发红包了，春晚了。对，很多好玩东西都来了，大家这个节目精彩不断，大家还互相问候这种感觉。</p>
-<p class="transcript-line"><span class="time"><strong>[00:01:17]</strong> </span><span class="speaker"><strong>发言人1: </strong></span>刚才不是给你发一个奥特曼给大家拜年，不是拜年，看奥特曼给大家什么什么国庆快乐的事对。</p>
-<p class="transcript-line"><span class="time"><strong>[00:01:24]</strong> </span><span class="speaker"><strong>发言人3: </strong></span>是的，真的。刚才你说咱是上午，上午知道说这个出了一个solo的这什么版本，对吧？安装了之哇塞我感觉打开了新世界。不不夸张，不夸张，就是说我说这打开新世界的感觉是什么？就是说内容创作的新世界打开了，并不是说这个形式，因为它完全模仿抖音，就是从那个产品形态UI上来讲，完全模仿抖音。我觉得这个奥特曼真的是不愧成为妙人，太狠了。</p>
-<p class="transcript-line"><span class="time"><strong>[00:01:49]</strong> </span><span class="speaker"><strong>发言人1: </strong></span>很上头。我觉得我自己的体验下来，你其实很难去说这个是AI生成的怎么样，你还是很上头的会去刷的。</p>
-<p class="transcript-line"><span class="time"><strong>[00:01:58]</strong> </span><span class="speaker"><strong>发言人3: </strong></span>我对你就非常感性的讲，就是我觉得我拒绝不了他，就是我没有理由拒绝他。首先你我觉得他这里面有几点设计太妙了，就给大家稍微介绍。因为可能有些朋友还没有上手。</p>
-<p class="transcript-line"><span class="time"><strong>[00:02:09]</strong> </span><span class="speaker"><strong>发言人3: </strong></span>首先你先得就是注册完了之后，你先得不是说光上传一个头像或者名字，这是最基本操作的。然后你要录一个小特别短的片段，对吧？大概5秒10秒，这样子让你动一动。然后录完之后他要上传，上传完之后他把声音和你的十几秒的这个东西都上传。上任之后你要选择就是你是否授权，你授权给什么人能用你的肖像。比如奥特曼就把自己的那个形象说钱给所有人都可以用，对吧？</p>
-<p class="transcript-line"><span class="time"><strong>[00:02:35]</strong> </span><span class="speaker"><strong>发言人1: </strong></span>对，然后后来就做了一段视频，就是跟奥特曼聊，你怎么想把抖音删掉的，这个想法聊一下。但我发现说比如说我要跟雷军聊一下，最近小米玉溪卖的好不好，这个就不行，因为他没有这个人物。</p>
-<p class="transcript-line"><span class="time"><strong>[00:02:48]</strong> </span><span class="speaker"><strong>发言人2: </strong></span>没错。对，没错。</p>
-<p class="transcript-line"><span class="time"><strong>[00:02:51]</strong> </span><span class="speaker"><strong>发言人3: </strong></span>然后你干嘛呢？然后你就可以开始创作了。创作的时候你就真的是纯文字的，给他描述一个场景开始创作。</p>
-<p class="transcript-line"><span class="time"><strong>[00:02:57]</strong> </span><span class="speaker"><strong>发言人3: </strong></span>我当时在做的时候，我自己还想到底一开始首先我在想这个一致性的问题，就是如果生成一个相对长一点的视频，它的一致性会怎么样。第二我考虑的是什么？考虑是说这个还原性就是他真正在这个场景中虚拟场景中融合度的时候会怎么样。然后第三个我又考虑说OK那个时长会不会卡，比如说只有5秒或者说只有10秒。哇塞结果生成的时候我是生成了一段20秒左右，然后用了大概三四分钟生成，生成效果真的是非常惊艳，就是一个玄幻的题材的东西。完全就是把我真真人的形象和和这个语音都放进去。</p>
-<p class="transcript-line"><span class="time"><strong>[00:03:35]</strong> </span><span class="speaker"><strong>发言人2: </strong></span>语音声音都是你的。</p>
-<p class="transcript-line"><span class="time"><strong>[00:03:37]</strong> </span><span class="speaker"><strong>发言人3: </strong></span>形象看的很好的对，很对。你还可以out 32、out 33奥特曼，因为他现在把自己的形象公开了，所以就说在视频中你可以利用你自己的形象，他的形象就是整个这个过程丝滑。你在生成过程中生成过程中，因为它是云端在生成，所以你还可以刷别人的。我在生成中一点都不枯燥，我还在看别人生成这些东西，太有意思了。</p>
-<p class="transcript-line"><span class="time"><strong>[00:03:58]</strong> </span><span class="speaker"><strong>发言人1: </strong></span>真的是我不知道我看的很多都是奥特曼的视频。我觉得他今天做了一整天网红，什么去英伟达门口去，我多给我投一些钱，然后跑到机房说我的GPU没了。</p>
-<p class="transcript-line"><span class="time"><strong>[00:04:11]</strong> </span><span class="speaker"><strong>发言人2: </strong></span>怎么在路上跑跑被警察给抓了瞎搞。</p>
-<p class="transcript-line"><span class="time"><strong>[00:04:16]</strong> </span><span class="speaker"><strong>发言人1: </strong></span>对，然后去敲什么黄仁勋家的门，然后被保安抓走。</p>
-<p class="transcript-line"><span class="time"><strong>[00:04:21]</strong> </span><span class="speaker"><strong>发言人3: </strong></span>但是我刚才说了一个特别逗的，就10秒就5秒钟，他就直接就是一奥特曼形象，说你想要邀请码吗？点关注点like点like就是他自己去，我这太狠了。</p>
-<p class="transcript-line"><span class="time"><strong>[00:04:31]</strong> </span><span class="speaker"><strong>发言人1: </strong></span>真的，所以你担心的问题最后都不是问题。就是真的刷起来以后，你会发现什么诡异自信，什么时长都不是问题。我觉得这个老师可以跟我们讲一下，之前我们聊马斯克那个groot的时候，其实就验证了这个在黄在那个擦边面前，对，这些全部都不是问题。</p>
-<p class="transcript-line"><span class="time"><strong>[00:04:50]</strong> </span><span class="speaker"><strong>发言人3: </strong></span>什么速度画质什么这些都不是问题的。</p>
-<p class="transcript-line"><span class="time"><strong>[00:04:54]</strong> </span><span class="speaker"><strong>发言人2: </strong></span>是的，我觉得做的特别好，包括像贤哥刚才讲的那个体验，其实体验方面，就是我觉得他基本上融合了所有tiktok还有GLK那边的一些体验都融合进来了，对吧？所以就是你这个整整体的体验就感觉特别顺，而且他这个流这个启动也特别的丝滑，是吧？到时候现在唯一的问题就是怎么搞的。</p>
-<p class="transcript-line"><span class="time"><strong>[00:05:14]</strong> </span><span class="speaker"><strong>发言人3: </strong></span>邀请码就这个事儿。而且你给我邀请码之后，你给我验证码之后，自动就关注你了，对吧？自动就follow。没错，就是这哇塞这个就把这个成闭环了，把微信的那一套东西搞明白了。</p>
-<p class="transcript-line"><span class="time"><strong>[00:05:26]</strong> </span><span class="speaker"><strong>发言人1: </strong></span>厉害做产品的这个我觉得是很神奇的，就是group证明了这个事情也不需要效果好，但是只要这个东西够快。</p>
-<p class="transcript-line"><span class="time"><strong>[00:05:35]</strong> </span><span class="speaker"><strong>发言人3: </strong></span>但我觉得效果。</p>
-<p class="transcript-line"><span class="time"><strong>[00:05:36]</strong> </span><span class="speaker"><strong>发言人1: </strong></span>不出来也没关系。</p>
-<p class="transcript-line"><span class="time"><strong>[00:05:37]</strong> </span><span class="speaker"><strong>发言人2: </strong></span>对，够快的，而且效果而且要跟你自己有关系。他这一次其实骚扰我觉得做的特别好是跟你自己有关系。Groot都没做到这么强，groot是想看别人对吧？专门去脱人家的什么衣服，看人家什么的。他这个索软的话是上来是引导你去传自己的东西，当然可以不传。我是没传的，我是先看看别人的，但是写歌是比较直接就传了。</p>
-<p class="transcript-line"><span class="time"><strong>[00:05:59]</strong> </span><span class="speaker"><strong>发言人2: </strong></span>我看了一下，他而且他传的这里面的授权的这些关系，他都设计的很好。所以我觉得说不是说一个他为了赶一个什么东西出的，还真的是肯定是酝酿了蛮久。整体设计的做出来的这样一个产品还是挺棒的。</p>
-<p class="transcript-line"><span class="time"><strong>[00:06:14]</strong> </span><span class="speaker"><strong>发言人1: </strong></span>我觉得那我觉得他是不是卡了一个时间点，最近不是中美在谈t talk这个事情吗？反正你说能谈完也是谈完了，你说没谈完也有很多事情还没执行。</p>
-<p class="transcript-line"><span class="time"><strong>[00:06:25]</strong> </span><span class="speaker"><strong>发言人2: </strong></span>对吧？对。</p>
-<p class="transcript-line"><span class="time"><strong>[00:06:26]</strong> </span><span class="speaker"><strong>发言人1: </strong></span>还有他可能应该就是在谋划这个时间点，把那个t tok未尽的事业我先接走了，t tok没做的事情我先帮你做。</p>
-<p class="transcript-line"><span class="time"><strong>[00:06:36]</strong> </span><span class="speaker"><strong>发言人3: </strong></span>对，超人后路？你k tok你现在AI的这个功能还都没上，我直接有我的算力，我有我自己的这什么产品能力，直接上。对，这真的挺狠的，反正我我我看啊我看这个事情没有那么简单。他首先首先他肯定是准备了很久。第二来讲这个产品设计的非常的，我觉得非常的完成度很高，一点都不草率，好多地方都想到了。</p>
-<p class="transcript-line"><span class="time"><strong>[00:07:00]</strong> </span><span class="speaker"><strong>发言人3: </strong></span>对，包括说他说不能生成限制级内容，包括他说你的自己形象授权这个问题，对吧？包括说生成的速度，就是当时整个来讲，我想你要生成十几秒二十几秒的这种视频，尤其保持一致性的话需要多久？结果我掐了一下表，真的就是说两三分钟的样子就开始了。当然了，这当然现在再再试可能不行了，因为服务器到了，我刚才试图把我的视频分享给你们都不行。</p>
-<p class="transcript-line"><span class="time"><strong>[00:07:22]</strong> </span><span class="speaker"><strong>发言人1: </strong></span>你说到这个，我觉得还可能真的是一盘大棋。我们先赌一个点，你说下一步川普会不会上这个平台。我从我背上说了，会背上不好。</p>
-<p class="transcript-line"><span class="time"><strong>[00:07:32]</strong> </span><span class="speaker"><strong>发言人3: </strong></span>说不好说不好说。但是吧对对，不好说。对。</p>
-<p class="transcript-line"><span class="time"><strong>[00:07:36]</strong> </span><span class="speaker"><strong>发言人1: </strong></span>但是因为我觉得我觉得现在美国的媒体有一个担忧，是非常明显的一个担忧，就是在中美的AI竞争之间，像google之前那个CEO叫什么斯施密茨对吧？也出来讲，他说除了电力以外，美国有一个非常大的弱势，就是说他没有控制社交媒体。所以我觉得这个事还是蛮痛的那我觉得奥特曼做这个事情，你们觉得会不会有一点点政治目的？</p>
-<p class="transcript-line"><span class="time"><strong>[00:08:07]</strong> </span><span class="speaker"><strong>发言人2: </strong></span>其实会，你记不记得我们今天的早晚报其实有讲。</p>
-<p class="transcript-line"><span class="time"><strong>[00:08:11]</strong> </span><span class="speaker"><strong>发言人1: </strong></span>是吗？</p>
-<p class="transcript-line"><span class="time"><strong>[00:08:11]</strong> </span><span class="speaker"><strong>发言人2: </strong></span>我们今天早晚饭最后其实问了一个问题，他说如果像sora two这样子的这种AI合成的社交媒体的视频到处都是的时候，他如果在暗中操纵你的投票，大家会怎么办？对大家都怎么办？他在影响你的投票的那个倾向怎么办？</p>
-<p class="transcript-line"><span class="time"><strong>[00:08:27]</strong> </span><span class="speaker"><strong>发言人3: </strong></span>当时非book什么的不就都面临过这种真实的问题吗？真实的拷问。对，而且都是当时被chAllenge，所以才就是说两边不是人，里外不是人。然后tiktok之所以在美国有这么大的这个震动，也是因为它会影响整体整整个舆论的传播。</p>
-<p class="transcript-line"><span class="time"><strong>[00:08:45]</strong> </span><span class="speaker"><strong>发言人1: </strong></span>所以这个我觉得还是蛮重要的一个点。应该奥特曼也是综合了所有这些信息，然后在这个时间精准狙击的这个事情。而且我觉得他也很爽啊，就是抖音尝试过的东西他就全抄就好了。那个内容短视频，然后电商对吧？</p>
-<p class="transcript-line"><span class="time"><strong>[00:09:03]</strong> </span><span class="speaker"><strong>发言人2: </strong></span>直接给他包括支付，支付都可以搞进来像抖音的支付现在都搞起来了。</p>
-<p class="transcript-line"><span class="time"><strong>[00:09:09]</strong> </span><span class="speaker"><strong>发言人1: </strong></span>对，是啊，就直接闭环，就把抖音整个商业模式搬到AI上面来。对，那那现在就看说你能跑得出什么新的品类出来了。</p>
-<p class="transcript-line"><span class="time"><strong>[00:09:17]</strong> </span><span class="speaker"><strong>发言人2: </strong></span>所以这里就可以很自然的就影响到他。前两天不是把那个shopping的东西弄进来，这其实是这两个绝对是有强关联的。</p>
-<p class="transcript-line"><span class="time"><strong>[00:09:25]</strong> </span><span class="speaker"><strong>发言人1: </strong></span>但是他放在就讲到shopping这个贤哥，就是讲到shopping这个AI的这种自动购物跟这ACPAI的视频结合。你觉得我这个事情其实已经是在像抖音已经验证了，对不对？小黄车，那你觉得在AI这一块的话，你觉得未来会蹦出什么样的这种不一样的东西？</p>
-<p class="transcript-line"><span class="time"><strong>[00:09:47]</strong> </span><span class="speaker"><strong>发言人3: </strong></span>首先我想回应一下你刚才说那个话，我觉得这是一盘大棋。这个事儿我首先觉得上帮他一定是个有野心的人，而且是完全都不掩藏的对吧？我经常说他是个妙人，他是真的是有能力，同时还有野心。像这种两者都具备，然后现在又具备了影响力，这就很难了。而且他现在星通过星际之门，然后通过他的一张上下运作来讲的话，他已经把open I深深地绑定在美国现在的这个发展上面了，对吧？</p>
-<p class="transcript-line"><span class="time"><strong>[00:10:13]</strong> </span><span class="speaker"><strong>发言人3: </strong></span>无论是硬件投入，还是说未来的舆论的传播，还是说商业模式，都是我觉得他把自己深深的嵌入到美国这个经济体的发展中来。然后那谁也都都不想把它踢开。也就是说既然大你有这么大利用价值，那每每个人都会把你捧成座上宾。所以他也就有点儿，我觉得有点肆无忌惮。就是所谓肆无忌惮这个词儿在咱中国历史贬义词。但是我认为肆无忌惮这个词也代表了野心家的一种状态。</p>
-<p class="transcript-line"><span class="time"><strong>[00:10:39]</strong> </span><span class="speaker"><strong>发言人3: </strong></span>就是说我不用顾及那么多，然后很多时候一个成熟企业会顾及非常多东西，这就不得不说google，对吧？咱们经常夸google，也有很多我们的听众因为听我们节目，也买了google股票，也赚到钱了。但是你作为大企业，你首先要保证，你首先防垄断，对吧？你要担心可能被被这个所谓的垄断，对这件事情的什么，就是被反垄断。又又担心什么单纯伦理对吧？</p>
-<p class="transcript-line"><span class="time"><strong>[00:11:06]</strong> </span><span class="speaker"><strong>发言人3: </strong></span>可能会被人起诉，或者说被因为这个所谓的对齐等等问题。还会担心什么？还担心你竞争对手的模仿各种情况。</p>
-<p class="transcript-line"><span class="time"><strong>[00:11:14]</strong> </span><span class="speaker"><strong>发言人3: </strong></span>OpenAI来讲的话，在现在这个阶段他就是一个挑战者，一个创新者的。但他同时又有另一个标签，就是在AI里的领先者。所以他同时具备这三重身份之后，我觉得他以他AI领先能力去进入到各个其他领域，这是一种非常可怕的竞争，对吧？</p>
-<p class="transcript-line"><span class="time"><strong>[00:11:30]</strong> </span><span class="speaker"><strong>发言人3: </strong></span>就好像我记得我看过一期节目，就是把这个老虎放在非洲草原上。我不知道你们看没看过有一部纪录片说把两只老虎放到非洲草原会怎么样，就真是有人这么干过。结果没没多段时间非洲草原的生态都快被破坏了，因为老虎在那完全没有天敌，而且捕杀力巨强对，就是你咱不说远了，就是open I你说他要进入电商领域，他现在已经这么干了，那你说阿峰总得多害怕，对吧？那以前的这个靠卖流量就可以赚钱的时候，open I自带流量，同时还能成闭环，而且还能够做定制化。这些东西所有都是以前叫了很久的事情，在AI里实际实现了，而且他还有算力。那后面的话还有整体的这个生态环境拖着他。然后现在来讲，他又开始绑定在比如说以川普川为以川黄为首的这个美国政体之上。</p>
-<p class="transcript-line"><span class="time"><strong>[00:12:19]</strong> </span><span class="speaker"><strong>发言人2: </strong></span>那未来对，那未来。</p>
-<p class="transcript-line"><span class="time"><strong>[00:12:20]</strong> </span><span class="speaker"><strong>发言人3: </strong></span>从从投资，从舆论到影响到伦理各方面来讲的话，我觉得他都叫先生。就咱不多说，起码他占先手对吧？那一个电商再加上一个于舆论足够了。你把哪个玩明白了，都是赚大钱的事情。你何况你还有AS算力，你还不知道AI的模型的边界在哪。所以GPT5当时没给我多大震撼。但今天尤其是这个第三季度最后一天，9月30号临时交作业，人家能把这两个东西拿出来，而且呈现出来的东西不是一个试玩版，我觉得就是一个真实直接拿出来的武器，直接当当当当然后对面我觉得都傻了。虽然我们听众说咱节目里别说脏话，我真想说脏话，我觉得太太牛逼了。</p>
-<p class="transcript-line"><span class="time"><strong>[00:13:02]</strong> </span><span class="speaker"><strong>发言人1: </strong></span>对我觉得他的野心还是比较大的。因为从一个叫做OpenAI这样一个科研，原本一个科研偏科研的组织，然后到现在开始做成模型公司模型创新，到现在在做应用创新，开始做场景、做电商购物、做内容。这个野心是非常明显的，一定是奔着1万亿估值，一定是要去上市的了。我觉得这个奥特曼的野心可能路人皆知了，他可能远不止于说想做一个这样OpenAI的角色。但是老兄，我问你一下，我们说AI搜索下单这个事情，你觉得到了这个时间点没有？</p>
-<p class="transcript-line"><span class="time"><strong>[00:13:44]</strong> </span><span class="speaker"><strong>发言人2: </strong></span>他应该还是蛮前瞻的，就是这块地方我觉得是推进到这一步了。然后只是说用户心智有有有个缺一个东西，就跟我们其实在国内抖音也不是一开始大家会在一边看东西一边买的，对吧？那就哪怕是说像董宇辉这种对吧。当然我们知道就他他早期在抖音及其他各种直播间，就是那边一直播也不会有人买，就是用户心智不在。但是一旦这个心智通了之后，它的交易量就很大了。后面哈哈哈就不说了，那几亿多少亿的那个都能卖得出来。那那这里其实我是觉得说从技术上应该是可以的，应该是没有问题的。</p>
-<p class="transcript-line"><span class="time"><strong>[00:14:22]</strong> </span><span class="speaker"><strong>发言人2: </strong></span>这次我也看了他的整个的实现，它也是典型的美国的这种快速发展拼接的一个方式。因为它的支付走的是stripe shop fy那些成熟的这些专业的支付厂商。Stripe就类似我们的。</p>
-<p class="transcript-line"><span class="time"><strong>[00:14:36]</strong> </span><span class="speaker"><strong>发言人1: </strong></span>我给大家提供的这个货盘。</p>
-<p class="transcript-line"><span class="time"><strong>[00:14:38]</strong> </span><span class="speaker"><strong>发言人2: </strong></span>对对对，供货对，索ppi fy那边应该还有一些。</p>
-<p class="transcript-line"><span class="time"><strong>[00:14:43]</strong> </span><span class="speaker"><strong>发言人1: </strong></span>fia说错了，是解决。</p>
-<p class="transcript-line"><span class="time"><strong>[00:14:45]</strong> </span><span class="speaker"><strong>发言人2: </strong></span>货盘。对对对，stripe解决像支付宝一样的这种中间的这个中介，支付的就中间中介也一样。那像这些东西他都直接接得很顺，而且是在stripe和strip fy那边各自他们其实也不是说只接入OpenAI，他们是是都是推出了通用的这些服务的。也就是说其他的电商，其他的这些大模型厂商想接也是可以接的。</p>
-<p class="transcript-line"><span class="time"><strong>[00:15:08]</strong> </span><span class="speaker"><strong>发言人1: </strong></span>所以让我在german想做这个事情也是。</p>
-<p class="transcript-line"><span class="time"><strong>[00:15:11]</strong> </span><span class="speaker"><strong>发言人2: </strong></span>可以的也是可以的对，但是他首他至少先把这个组合先跑通了。因为其实在美国这个是比较常见的做法，因为就是各司其职，每个地方都有的各自的比较好的大型的SARS厂商。对，SARS厂商，他不会像中国，可能支付宝是一个超级巨大，但他那边strike就是专门真的只做支付的，他跟其他的东西不管，然后那他就是他就会选择他先做这个合作。那stripe肯定也借这个机会做一个通用的，他肯定不会直接OpenAI.</p>
-<p class="transcript-line"><span class="time"><strong>[00:15:40]</strong> </span><span class="speaker"><strong>发言人1: </strong></span>但是用这个ACP协议，就代理人商业协议。对，应该也是一个通用的对。</p>
-<p class="transcript-line"><span class="time"><strong>[00:15:46]</strong> </span><span class="speaker"><strong>发言人2: </strong></span>会会肯定是会通用的，这些东西就是其他的也能用。但是这个其实就像open I你到现在大模型调用的时候，目前大模型调用就有两种规则，两种事实的规范。一种是OpenAI的模式，还有一种就是anthropy cloud的方式。一般就是这两种兼容的方式，你实际去调大模型都是这两种。你所有包括我们国内做的时候都会说，我这个兼容OpenAI的调用或者兼容anthropic的调用。你只要兼容它，最后都很容易被其他的SaaS服务去使用或者是MCP的这种专门对于那个大模型的协议去使用。所以这个部分的话，我觉得它还是非常的有建设意义的。就是说他直接把这个商业化是直接打通了。</p>
-<p class="transcript-line"><span class="time"><strong>[00:16:31]</strong> </span><span class="speaker"><strong>发言人2: </strong></span>后面的话就是培养用户心智。用户心智也许需要点时间，但是我觉得同样就是参考抖音就完事了，对吧？抖音也是先把这个内容做到质量比较好了，很很好了之后，他再通过也学习了。</p>
-<p class="transcript-line"><span class="time"><strong>[00:16:44]</strong> </span><span class="speaker"><strong>发言人1: </strong></span>比如说说白了就那么几招上爆款，抢茅台、抢iphone发红包。</p>
-<p class="transcript-line"><span class="time"><strong>[00:16:49]</strong> </span><span class="speaker"><strong>发言人3: </strong></span>对，发红包。</p>
-<p class="transcript-line"><span class="time"><strong>[00:16:50]</strong> </span><span class="speaker"><strong>发言人2: </strong></span>然后把什么大牌明星，请把大牌明星请进来入住。</p>
-<p class="transcript-line"><span class="time"><strong>[00:16:54]</strong> </span><span class="speaker"><strong>发言人1: </strong></span>然后大家都拍黄的更灵，什么蓝的更行之类。</p>
-<p class="transcript-line"><span class="time"><strong>[00:16:58]</strong> </span><span class="speaker"><strong>发言人2: </strong></span>对你现在先卖自己，然后后面卖大牌，然后再卖百亿补贴对吧？再卖这种逢年过节发红包这几件事情就搞完了。因为抖音也是按其实以前腾讯成功的那个过程去做的。然后大家都打好那个先视频的质量给他再弄好。因为视频质量现在肯定相对是比较早期，没有那么好，他肯定还要一段时间去迭代。但是一旦大家习惯了，就是注意力从别的各种各地各种各样的地方移到他这里来以后，他再把这个支付多多做多做一点，他就很顺了。</p>
-<p class="transcript-line"><span class="time"><strong>[00:17:28]</strong> </span><span class="speaker"><strong>发言人1: </strong></span>就应该是这样子。我讲你讲到这个我就很有启发。因为我们刚才讲说抖音危险，对不对？抖音这个失去的江山要被OpenAI拿走了。但其实我觉得现在应该在抖音在旁边笑，对不对？说你open a先帮我把这条路趟好，反正我这个豆包，什么集梦，那些我都准备好了，你这条路可以我就直接上了。</p>
-<p class="transcript-line"><span class="time"><strong>[00:17:50]</strong> </span><span class="speaker"><strong>发言人3: </strong></span>对不对？</p>
-<p class="transcript-line"><span class="time"><strong>[00:17:50]</strong> </span><span class="speaker"><strong>发言人1: </strong></span>然后对那个运营，电商什么我都是现成的，我就直接接入了。</p>
-<p class="transcript-line"><span class="time"><strong>[00:17:55]</strong> </span><span class="speaker"><strong>发言人2: </strong></span>对，是的，其实会很快。因为我是觉得抖音其实就像我们国内的腾讯一样，可以有一个后发优势的。我因为他的绝对视频的那个材料算法这些东西是非常成熟的。无非就是你这个新的形式我没搞过，对吧？而且抖音这边的话，至少在后面的豆包模型和其他的一些通用的模型，其实能力也挺强的。</p>
-<p class="transcript-line"><span class="time"><strong>[00:18:18]</strong> </span><span class="speaker"><strong>发言人1: </strong></span>自然就做了多久了。</p>
-<p class="transcript-line"><span class="time"><strong>[00:18:20]</strong> </span><span class="speaker"><strong>发言人2: </strong></span>你想对大家都不知道而已。就是C端在天天用多包都已经很习惯了。他其实企业端的也挺强的，他后面的火山引擎云，然后包括他有一些没有公开的一些模型。其实也有拿奥数的那个金牌级别的，只不过没有去参加正式的比赛，他就从那个去模拟的情况他去拿所以。</p>
-<p class="transcript-line"><span class="time"><strong>[00:18:39]</strong> </span><span class="speaker"><strong>发言人1: </strong></span>这个画风有点不对，本来想说抖音危险的，越讲那抖音全部都是优势，你看又有前端平台，后面还有剪辑工具，还有剪映，还生成的什么豆包。</p>
-<p class="transcript-line"><span class="time"><strong>[00:18:52]</strong> </span><span class="speaker"><strong>发言人2: </strong></span>我这个还是有用户心智的，我觉得还是会差很多。</p>
-<p class="transcript-line"><span class="time"><strong>[00:18:55]</strong> </span><span class="speaker"><strong>发言人3: </strong></span>还有你们现在说的是抖音，刚才咱们聊的是tiktok，这是两个完全不一样的主体。</p>
-<p class="transcript-line"><span class="time"><strong>[00:19:01]</strong> </span><span class="speaker"><strong>发言人2: </strong></span>现在对吧？</p>
-<p class="transcript-line"><span class="time"><strong>[00:19:03]</strong> </span><span class="speaker"><strong>发言人1: </strong></span>但是他都有两套了，其实都有集梦也有。</p>
-<p class="transcript-line"><span class="time"><strong>[00:19:06]</strong> </span><span class="speaker"><strong>发言人3: </strong></span>一套海外版。</p>
-<p class="transcript-line"><span class="time"><strong>[00:19:08]</strong> </span><span class="speaker"><strong>发言人1: </strong></span>然后那个剪映也有一套海外版，其他都是有两套的。</p>
-<p class="transcript-line"><span class="time"><strong>[00:19:12]</strong> </span><span class="speaker"><strong>发言人2: </strong></span>就是从AI现在的这个情况来讲，我是觉得说你创新一个形式，我觉得特别值得肯定。但是真的在竞争的时候，大家存量的数据特别重要。就是说tiktok存量的过去的很多的优质视频的数据。其实如果能用新的方式去训练去生成它，其实还是会有很大优势的，只是看这个大家怎么跑了。</p>
-<p class="transcript-line"><span class="time"><strong>[00:19:33]</strong> </span><span class="speaker"><strong>发言人1: </strong></span>但是有个问题我觉得有个问题，贤哥我是这么想的，就是像这种AI电商加AI内容，我觉得有一个很好的场景，他不可能像抖音一样做全品类了，就是真人的我给你什么小姐姐跳舞，什么卖车卖房什么都可以，但是他肯定是有品类限制的。我突然想到一个点，因为它是生成性的，所以有可能很多产，如果你是真的GPT挂电商的话，理论上这个要无限库存，对吧？老兄，理论上你的shop平台里面的货是需要无限库存的，否则这个东西如果长尾被调出来以后，你他妈又没货，你就完蛋。对这肯定是不行。那我觉得最理想的一种情况有可能是以销定产，就有可能卖的是一个AI生成的概念图。对，这个图可能连打样都没打样，就是AI生成的一个花样的一个花瓶，或者AI生成的一个水杯。但这个东西都还没生产出来，没有任何现货，但是这个东西就是被卖爆了。那我再去生产有可能会不会是这样子。</p>
-<p class="transcript-line"><span class="time"><strong>[00:20:41]</strong> </span><span class="speaker"><strong>发言人3: </strong></span>我你刚才说这个我也当看的时候，我就在想，第一来讲的话就是柔性生产。当然这要说能跟到中国的这个柔性供应链供应商的话，那太牛了。比如说像宠物类的、婴儿类？母婴类的或者说情侣类的，就是感情有有一定的怎么讲情绪价值在里面的东西。完全可以做定制化，而且是完全可以就看看到之后出动下的单，这个比这购买一个锅碗瓢盆这种标准品要强太多了。在在这种场景之下。</p>
-<p class="transcript-line"><span class="time"><strong>[00:21:05]</strong> </span><span class="speaker"><strong>发言人1: </strong></span>囤货肯定不行。</p>
-<p class="transcript-line"><span class="time"><strong>[00:21:06]</strong> </span><span class="speaker"><strong>发言人3: </strong></span>囤货太少了没必要。对。</p>
-<p class="transcript-line"><span class="time"><strong>[00:21:08]</strong> </span><span class="speaker"><strong>发言人2: </strong></span>那我不会搞囤货的对。</p>
-<p class="transcript-line"><span class="time"><strong>[00:21:09]</strong> </span><span class="speaker"><strong>发言人3: </strong></span>快消品你进超市就完了。北美人本来也喜欢在销售超市，但你这种感情情感类的东西，你肯定还是线上更就是直接消费冲动消费更快。但是刚才我在做自己视频的时候，我突然想到就是这个场景之下，你知道有一类产品也许是只有只有这个是这个渠道能做的，就是肖像授权。就比如说我看到一个特别好看小姐姐，我在我幻想中就想跟小姐吃个饭，那不可能。你把这授权给我完，我把我生成个图片，生成个那个那个短片，我们两个做一个什么短片，或者跟张曼玉一块儿，跟年轻时候张曼玉一起来拍一个虚拟版画年华。你只要张曼玉愿意授权我一下这个视频我就可以做。那我愿意真的我愿意你。</p>
-<p class="transcript-line"><span class="time"><strong>[00:21:51]</strong> </span><span class="speaker"><strong>发言人1: </strong></span>给我说你上上一请你上一期鲁豫有约。对。</p>
-<p class="transcript-line"><span class="time"><strong>[00:21:55]</strong> </span><span class="speaker"><strong>发言人3: </strong></span>任何就任何这种，其实我觉得如果聪明的一层。曾经一线演员，如果说这种有有兴趣的话，绝对的就是能够迅速火起来。我山姆奥特曼特别推荐大家订阅人民公园说AI的youtube会员。你不仅能获得just say AI早晚报，还可以看到每期节目的深度研究报告和主播专栏邮件。</p>
-<p class="transcript-line"><span class="time"><strong>[00:22:14]</strong> </span><span class="speaker"><strong>发言人1: </strong></span>前两天不是分享了一个鲁豫采访窦文涛的一个节目。完了最后两个人在那边哭穷，告诉我太穷了。鲁豫说以后我给你遗产继承。</p>
-<p class="transcript-line"><span class="time"><strong>[00:22:25]</strong> </span><span class="speaker"><strong>发言人2: </strong></span>什么东西，反正就是假如你收养我什么的。</p>
-<p class="transcript-line"><span class="time"><strong>[00:22:28]</strong> </span><span class="speaker"><strong>发言人1: </strong></span>在那个中国，然后两个都在哭穷。你看你刚才这个想法挺好，你就你跟窦文涛跟鲁豫讲一下，你说你们两个也不要做圆桌派，也不要做什么鲁豫有约一样，直接上sora授权你的那个。</p>
-<p class="transcript-line"><span class="time"><strong>[00:22:39]</strong> </span><span class="speaker"><strong>发言人3: </strong></span>但他们两个不是靠卖脸来的什么的来赚钱，简单不是你你记得吗？就是说在中国互联网有一个博主就专门剪辑什么，剪辑那些电视剧里头那些女演员的镜头，把自己再配进去。</p>
-<p class="transcript-line"><span class="time"><strong>[00:22:52]</strong> </span><span class="speaker"><strong>发言人2: </strong></span>然后有有好几个这样的。</p>
-<p class="transcript-line"><span class="time"><strong>[00:22:54]</strong> </span><span class="speaker"><strong>发言人3: </strong></span>我所有的点评论都是你们广东人在干嘛，还不把他给打死，其实就是一样的，就是他拿了。</p>
-<p class="transcript-line"><span class="time"><strong>[00:23:01]</strong> </span><span class="speaker"><strong>发言人2: </strong></span>还有就是一堆人说能不能拜托让我上一集。</p>
-<p class="transcript-line"><span class="time"><strong>[00:23:04]</strong> </span><span class="speaker"><strong>发言人3: </strong></span>对对对，给多少钱一集，让我拍一集。对，你就想在这个场景下，就靠卖肖像或者卖这个授权就够了，就那么多漂亮小姐姐对吧？你把那个自己形象授权出来，反正这个平台已经限制，不能做限制级，对吧？那那起码就是说是安相对安全的，就算有了东西，有不好东西的话，也是平台的问题。所以我觉得这个虚拟类的这个产品本身是有价值的。而且只有在这个。</p>
-<p class="transcript-line"><span class="time"><strong>[00:23:28]</strong> </span><span class="speaker"><strong>发言人1: </strong></span>我觉得放的更大一点，应该是说他自己能够跑出一个像榜一大哥、小火箭，类似这样一种独特的一种虚拟内容的一个生态。因为是只是形象授权的太多了。</p>
-<p class="transcript-line"><span class="time"><strong>[00:23:41]</strong> </span><span class="speaker"><strong>发言人3: </strong></span>就好像你刚才。</p>
-<p class="transcript-line"><span class="time"><strong>[00:23:42]</strong> </span><span class="speaker"><strong>发言人1: </strong></span>讲创意视频，其实你看所有创意视频用sora本，理论上是可以重做一遍的对吧？</p>
-<p class="transcript-line"><span class="time"><strong>[00:23:49]</strong> </span><span class="speaker"><strong>发言人3: </strong></span>无限供给。是的。</p>
-<p class="transcript-line"><span class="time"><strong>[00:23:51]</strong> </span><span class="speaker"><strong>发言人2: </strong></span>就这里面其实我我我想到一个更大的一个事情，其实有一个很重要的是他这个是的，sara跟一年前的sora有个本质的区别。就一年前的时候，你记得刚出来的时候，大家有曾经说过一个事，叫它世界引擎。但是其实不行，它有很多的物理规则都不行。对对对，但是这一次的sora 2的物理引擎非常强，就是有很多那种做体操，然后你做那个包括说一些物理的一些。</p>
-<p class="transcript-line"><span class="time"><strong>[00:24:17]</strong> </span><span class="speaker"><strong>发言人3: </strong></span>甚至一些物理实验。对。</p>
-<p class="transcript-line"><span class="time"><strong>[00:24:19]</strong> </span><span class="speaker"><strong>发言人2: </strong></span>然后那运动，什么倒影、重力，这些它都是还原的非常好的。所以像这样子的话，其实他可能我看到还有一个野心就是世界引擎。我们之前有谈过谷歌和像李飞飞他们的这些歌。</p>
-<p class="transcript-line"><span class="time"><strong>[00:24:34]</strong> </span><span class="speaker"><strong>发言人1: </strong></span>等一下一定要骂一下，等一下最后骂。</p>
-<p class="transcript-line"><span class="time"><strong>[00:24:36]</strong> </span><span class="speaker"><strong>发言人2: </strong></span>随时等会儿，等会儿你可以顺便骂。对，就是这些东西都他都人家都讲的概念特别好了，大家也都看好了。但是看摸不到对吧？就是没有很实际的一个东西在那儿。对，那他现在的话我们先不说他到底这个通用性有多高，但是至少刚才说到的几种场景，这种体操，然后什么水，然后各种各样的一些小的物理实验，它都能很好的实现出来。在这种情况下，他其实已经有一个机会，就是你这种真实的物理世界的一些东西。你就是原来都靠人拍的，是不是真的可以不用人拍了？</p>
-<p class="transcript-line"><span class="time"><strong>[00:25:09]</strong> </span><span class="speaker"><strong>发言人1: </strong></span>就是我觉得酷，当时sora刚出来的时候，我们就是说这个东西妈的就是做影视素材库。</p>
-<p class="transcript-line"><span class="time"><strong>[00:25:14]</strong> </span><span class="speaker"><strong>发言人2: </strong></span>对，那这样子的话直接我觉得两方面的冲击。第一个就是我们说的世界引擎最大的一个优势，就是说它可以相当于完全全由虚拟世界来来实现。你在那个真实世界里面要花很大精力拍摄，或者做实验，或者做试错的那个东西，他可以直接给你做出来，而且你和你人可能很难识别了，这可以降低非常多的制作的成本。完了以后再就是这种东西如果真的能形成一个新的世界，对吧？就是这里面真的是一个新的世界模型生成的世界。在这个里面有很多的内容可以关联起来的话，那在这里面再去做生意，就刚才说的那种虚拟生意就很自然，对不对？有些有就是相当于你喜欢的有很多东西有可能只有在他骚扰这个世界里面才有，其他没有。但是他在这个地方可以实现的又跟你真实世界非常的相近，你的那个粘性不知道有多高在里面，然后你消费的东西就是无限的库存，就是无限库存的，随便消费都有。</p>
-<p class="transcript-line"><span class="time"><strong>[00:26:10]</strong> </span><span class="speaker"><strong>发言人3: </strong></span>很多人都觉得自己要去做什么虚拟陪伴，但是我是反正觉得这sora two它展示出的能力非常有惊艳。这背后我不知道有多少算力的。</p>
-<p class="transcript-line"><span class="time"><strong>[00:26:19]</strong> </span><span class="speaker"><strong>发言人1: </strong></span>我觉得那些都是算法的那那些都在在所谓的内容，在电商面前都是都都都是山姆奥特曼不想看到的东西，对他来讲都是噪音。我觉得他很聪明的一点就是他知道我今天抖音或者t talk这一块其实是完全被低估了。而且因为地缘政治的时间，他看到了一个非常好的点点。所以他想借着to .</p>
-<p class="transcript-line"><span class="time"><strong>[00:26:46]</strong> </span><span class="speaker"><strong>发言人2: </strong></span>c里面。</p>
-<p class="transcript-line"><span class="time"><strong>[00:26:47]</strong> </span><span class="speaker"><strong>发言人1: </strong></span>的两个明珠，一个是社交内容，一个是电商。他就是想借这两个事情就想爬上去，我觉得这是最直接我们看到的目的，因为这个刀法很准的，你正常人不会去切这个刀法的，对不对？</p>
-<p class="transcript-line"><span class="time"><strong>[00:27:00]</strong> </span><span class="speaker"><strong>发言人3: </strong></span>这一点让我也很佩服，他是一个号称在硅谷的精英，然后能够对商业的洞察有这么深入，这真的让我非常佩服。因为你知道在北美现在是第三季度结尾，已经进入第四季度。第四季度什么时候有有感恩节，然后圣诞节黑5对吧？这些东西就是说你现在有一个月的酝酿期，到后面就是买买买了。纯粹的买买就是属于北美人花钱最最疯狂的一个季度。</p>
-<p class="transcript-line"><span class="time"><strong>[00:27:24]</strong> </span><span class="speaker"><strong>发言人1: </strong></span>真的是非常好。你想你想现在大家都想花钱，就是说在北美大家就是一个消费主义，对不对？但是你没有那么多的主播，你不可能请中国的人去那边播，对不对？对你坦白你tiktok在国外落地有很多原因，就是因为这些内容供给他可能没有中国那么卷那么多。对，那说白了那你如果AI接手了，那那AI做不管是做直播，做内容，做这种产品的这种分发发小广告，就说白了AI就是做那个贴电线杆弄牛皮癣广告的东西说对吧？那这个事情其实可以解决很多的。</p>
-<p class="transcript-line"><span class="time"><strong>[00:28:04]</strong> </span><span class="speaker"><strong>发言人3: </strong></span>所以我就说，刚才我看到sora to因为我之前没下solo那APP他竟然是自己独立做了个APP，就这一点上我觉得他就野心就很大了，对吧？把它直接没有整合成一个功能，你看比如它的shopping功能，它只是个agent。因为他毕竟现在只是在美国范围之内适用，但是很快我觉得我相信就会扩展到其他的地方。但起码他把美国市场先吃下来，这块电商就非常的利空。</p>
-<p class="transcript-line"><span class="time"><strong>[00:28:27]</strong> </span><span class="speaker"><strong>发言人1: </strong></span>马总非常你只能做美国市场，你不做，你如果做别的地方，市场根本起不了量，对不对？</p>
-<p class="transcript-line"><span class="time"><strong>[00:28:33]</strong> </span><span class="speaker"><strong>发言人3: </strong></span>不应该说是不能快速的你立马实现这什么吗？对，当然但你觉得他真的就是要在电商上有巨大发力了吗？还是说他只是要展示一下自己的炫一下技能？</p>
-<p class="transcript-line"><span class="time"><strong>[00:28:44]</strong> </span><span class="speaker"><strong>发言人1: </strong></span>我觉得他也是想试一下，就作为一个顺便的动作配套一下。其实我觉得他更care这个sora two这个内容的东西，因为这个是毕竟是流量。你所有在货在这个电商这些面前，我觉得流量是最重要的那现在没有流量。</p>
-<p class="transcript-line"><span class="time"><strong>[00:29:02]</strong> </span><span class="speaker"><strong>发言人2: </strong></span>你没有后面的搞不了，没有后面的事了，流量一定是要搞好的，这个池子要养大对吧？</p>
-<p class="transcript-line"><span class="time"><strong>[00:29:08]</strong> </span><span class="speaker"><strong>发言人1: </strong></span>对对对，他现在是to c的流量，更多是说用GPT的这些用户。说实话用GPT的用户坦白讲就是大家研究了那么久，大家google也在做，谁都在做，party也在做。其实可能不管GEO的效率是很低的，搜索引擎营销这个效率肯定是不高。因为它不标准，没办法量化，他就没办法成为一个行业，他没办法成为一个生意。那你要让他变成一个生意，这个时候我觉得奥特曼会反过来想，那我可能还要去造新的流量，我要用我这个原本GPT累积的这些东西，我去造新的流量。否则我靠这种所谓问答型的AI我做到猴年马月我才能起来，对不对？</p>
-<p class="transcript-line"><span class="time"><strong>[00:29:51]</strong> </span><span class="speaker"><strong>发言人1: </strong></span>这个是一个很现实的问题，就是选赛道的的那个逻辑，我觉得他还是很强的对，但是我觉得吹了半天，但是我要讲一个这是看品类的，它不会比抖音更很难说突然间比抖音更大。如果你用抖音的方式去做的话，它更多的是在某一些品类，比如擦边对吧？比如说这个治愈，什么那个叫做什么AAASMR还是什么东西的，就是那种治愈类吧？擦边类的。</p>
-<p class="transcript-line"><span class="time"><strong>[00:30:23]</strong> </span><span class="speaker"><strong>发言人2: </strong></span>然后这还虚拟感的这些一些虚拟类的，或者说他会好一点。</p>
-<p class="transcript-line"><span class="time"><strong>[00:30:28]</strong> </span><span class="speaker"><strong>发言人1: </strong></span>对对对，你比如说那个切那个切那个什么切石头的那种视频，对吧？那个那个就很火。然后不要包括像那种一些虚拟商品的生成，类似这种它是有机会的。因为你的客户心智一进来就知道说，好，我看的都是AI的视频。但是他有趣有创意，比人做的有创意，这个可以对吧？然后再加上说我看到这个创意，你还给我推五折茅台，5折iphone，那这个创意就能闭环，否则这个事情就做不了。对。</p>
-<p class="transcript-line"><span class="time"><strong>[00:30:58]</strong> </span><span class="speaker"><strong>发言人3: </strong></span>嗯，但这个后面的技术也很难吗？其他厂家跟不上吗？就是其他的比如像facebook或者说像什么阿马总，他们能迅速的也把这个流也就把自己这块流量再做起来了。</p>
-<p class="transcript-line"><span class="time"><strong>[00:31:11]</strong> </span><span class="speaker"><strong>发言人1: </strong></span>老兄开骂谷歌。</p>
-<p class="transcript-line"><span class="time"><strong>[00:31:15]</strong> </span><span class="speaker"><strong>发言人3: </strong></span>别这样。</p>
-<p class="transcript-line"><span class="time"><strong>[00:31:15]</strong> </span><span class="speaker"><strong>发言人1: </strong></span>你看这个谷歌。</p>
-<p class="transcript-line"><span class="time"><strong>[00:31:17]</strong> </span><span class="speaker"><strong>发言人2: </strong></span>你这个问题用不了这里几次。</p>
-<p class="transcript-line"><span class="time"><strong>[00:31:20]</strong> </span><span class="speaker"><strong>发言人1: </strong></span>对不对？这些技术你全有，然后你现在还在干嘛？你给我最近一周谷歌在干嘛？在开源什么chrome的那个N.</p>
-<p class="transcript-line"><span class="time"><strong>[00:31:29]</strong> </span><span class="speaker"><strong>发言人2: </strong></span>CD浏览器自动化让大家自己去赚钱。</p>
-<p class="transcript-line"><span class="time"><strong>[00:31:33]</strong> </span><span class="speaker"><strong>发言人1: </strong></span>他不赚钱给别人做嫁衣。</p>
-<p class="transcript-line"><span class="time"><strong>[00:31:35]</strong> </span><span class="speaker"><strong>发言人2: </strong></span>对他不赚那个钱，所以这个写哥问的问题就是问到点上了，你说别人没有吗？那你具体举的像亚马逊这种的可能是没有的。亚马逊是没有这种模型在在跑这一块的。但是谷歌是必须要说他是肯定可以干的，但是谷歌就是没干谷歌的这整个的整个看起来你还是会看到比较浓重的好像一个先知在前面去引领这个潮流的这个状态。就是说他有最早做了大这个世界模型的很深入的这种迭代。但是到用户端这一块，其实都还没有放开，给大家随便用。然后到电商这个层级的话，那你那你自己是这个他就更远了。因为他还在做，他的应该是在广告这一块，就是AI搜索广告这个部分的商业化的部分还没到支付，因为支付以前也不是他管的。</p>
-<p class="transcript-line"><span class="time"><strong>[00:32:30]</strong> </span><span class="speaker"><strong>发言人1: </strong></span>OpenAI一单抽百分9‰这种钱，你觉得google想赚吗？Google不想赚中9‰的钱。</p>
-<p class="transcript-line"><span class="time"><strong>[00:32:39]</strong> </span><span class="speaker"><strong>发言人2: </strong></span>对，所以谷以以谷歌的那个其实是有绝佳的优势的，因为流量还是大头还在他那儿，但是他并没有这么做，这个肯定是要喷一下的。他只要是有太太好的机会去做这件事情。</p>
-<p class="transcript-line"><span class="time"><strong>[00:32:53]</strong> </span><span class="speaker"><strong>发言人1: </strong></span>而且是在上半年的IO大会，这些包括浏览器自动化，电商很的电商，包括换一个视频。对，全部都出来了，全都全部都出来了，对不对？</p>
-<p class="transcript-line"><span class="time"><strong>[00:33:08]</strong> </span><span class="speaker"><strong>发言人3: </strong></span>咱们那些211大会的时候，专门还把它分析了，咱们还畅想了一下。</p>
-<p class="transcript-line"><span class="time"><strong>[00:33:12]</strong> </span><span class="speaker"><strong>发言人2: </strong></span>对，但是你说骂他，但是他的实际上是一如既往的的战略好像也没变。就是他最先进的东西一定是做出来，做成一个工具给商家自己去做。比如说V3，那现在就是放到油管上面，youtube上让大家去做那个创作者的工具了，他他这个东西是这么做的，而不是说让大家都来用揭秘的，然后用这个东西再去怎么生成，他不是这么去做的。对他有做。</p>
-<p class="transcript-line"><span class="time"><strong>[00:33:37]</strong> </span><span class="speaker"><strong>发言人1: </strong></span>但是没有那么强。而且他如果做，我估计他产品力也不会比OpenAI好啊，但可能他模型力会更好或者是怎么样。但是我觉得他产品力估计搞不过OpenAI对吧？所以我觉得他还是认认自己的命说，我还是做底层模型提供算了。</p>
-<p class="transcript-line"><span class="time"><strong>[00:33:52]</strong> </span><span class="speaker"><strong>发言人2: </strong></span>做底层的模型提供还有硬件的这些支持算力cloud这些事情，我觉得他还是把这个事情抓抓稳。</p>
-<p class="transcript-line"><span class="time"><strong>[00:34:00]</strong> </span><span class="speaker"><strong>发言人1: </strong></span>但是你说像OpenAI这种完全就是面向to c来做这种模型变现的，跟google这种基本上我觉得它的战略就是做to b了，就是to b的这个云加模型这些快了，to c我觉得他暂时没有更好的想法，或者他不想动。贤哥你觉得你更看好哪一块？</p>
-<p class="transcript-line"><span class="time"><strong>[00:34:21]</strong> </span><span class="speaker"><strong>发言人3: </strong></span>我说实话说实话就是在咱们这个语境里，一直把google作为正面典型，对吧？然后对标i apple对吧？但是确实是说google。但我查了一下，他现在十几万人，18万多人吧？然后你说这些人嗷嗷待哺需不需要养着，然后就养这些人需不需要干活，对吧？那你每每天是多少个人时在做？如果你说他没有就内部没有人想做这个事儿，我觉得是不可能的。甚至说很多你看对硅谷创业成功人都是从大厂出来，从google出来的，自己创又又又去创业，对吧？</p>
-<p class="transcript-line"><span class="time"><strong>[00:34:53]</strong> </span><span class="speaker"><strong>发言人1: </strong></span>所以你说想做的都被拍死了。</p>
-<p class="transcript-line"><span class="time"><strong>[00:34:55]</strong> </span><span class="speaker"><strong>发言人3: </strong></span>就是这个意思。我想说的这句话就很很可能你抢了我台词？就是他内部有自己的战略，就像刚才小老师也说了，他战略其实没变，对吧？他自己保持自己的学院范儿、精英范，或者不管怎么样，我们随便给他套一个标签。为了好理解，但人家就是把自己的模型往前打磨，然后打磨到什么地步，就像这个少林寺一样。最后我有藏经阁，我的武功可能已经比世界武林中一半人加起来都多。但是我还在继续练我们少林长拳。然后这也是一种一种一代宗师的一种风范，然后像open eye一样，open eyes.</p>
-<p class="transcript-line"><span class="time"><strong>[00:35:27]</strong> </span><span class="speaker"><strong>发言人3: </strong></span>什么属于这个天纵奇才，然后下来直接在山谷里面拿了本易筋经就开始练练完之后出来就是这个横推800无里少轩辕重出武状元，然后直接就开始脚踢这个m zone是吧？然后什么拳打什么google。你说他的战略不一样，像现在桑巴奥特曼，他在这个形势之下，他是个非常我的激进的人。他现在才几千人对吧？四千多人那跟googoogling或者说像其他大厂的几万人，十几万人，他他传销好掉头，又改。</p>
-<p class="transcript-line"><span class="time"><strong>[00:35:58]</strong> </span><span class="speaker"><strong>发言人1: </strong></span>而且产品力想的问题也不一样。</p>
-<p class="transcript-line"><span class="time"><strong>[00:36:00]</strong> </span><span class="speaker"><strong>发言人3: </strong></span>对，想的问题不一样，就是你肯定你躺在床上，每天晚上睡觉前琢磨那点事儿是不一样的。所以在这种情况之下，我们做出的产品也是不一样。你只要有能力有野心，这个世界就是你的。这一点上不得不佩服。所以在9月30号这一天，我我这一天我是相当敬佩OpenAIde。对。</p>
-<p class="transcript-line"><span class="time"><strong>[00:36:17]</strong> </span><span class="speaker"><strong>发言人1: </strong></span>作为创业者算个账你算个账。比如说像OpenAI这么做，对比google反正他就看着to c一点点掉，但是他to to b也一点点在增长。你觉得从算账的角度，你更看好哪个？</p>
-<p class="transcript-line"><span class="time"><strong>[00:36:32]</strong> </span><span class="speaker"><strong>发言人3: </strong></span>从算账角度来讲的话，我这么想就是咱一言以蔽之就是真的今天你让google做这件事儿，他还是养不起自己18万人。还不如坚定自己为了未来的十年的那什么对那个所谓百年基业去好好做好自己该做的事儿，你让大象看见个吃的就往那边跑光跑这几步消耗体能，可能都比吃到嘴里要浪费的体能大对吧？你现在就可以把那什么open a想成一只豹子，豹子可能都说多了，都说大了，你可以把它想成猎狗。对，然后那你我们一直说google是大象，你让大象非要跑出去追食物，我觉得不现实。说真话。</p>
-<p class="transcript-line"><span class="time"><strong>[00:37:11]</strong> </span><span class="speaker"><strong>发言人1: </strong></span>是的，是这样，这样我们就不骂google了，再想一想也有道理对吧？</p>
-<p class="transcript-line"><span class="time"><strong>[00:37:18]</strong> </span><span class="speaker"><strong>发言人3: </strong></span>对，但是我觉得我如果是阿嬷纵，我心里真的睡不着觉，我今天晚上肯定睡不着，未来一周我可能都睡不踏实。因为为什么？就是说在这件事上来讲的话，OpenAI选择了stripe和shop fy对吧？</p>
-<p class="transcript-line"><span class="time"><strong>[00:37:31]</strong> </span><span class="speaker"><strong>发言人3: </strong></span>On stripe来讲的话是非常完整的支付，包括会员。就这块来讲的话，你根本就是说不用担心了。这一块儿你不需要重做。因为你想重新建立这一套金融系统，加上监管非常费的费劲的那欧朋爱我说我自己来了，不是我直接接了，我不玩了，然后你还可以给我带来会员，更重要是shoop ify polivy在这个疫情期间，它的整个的估值涨了十倍。因为特别清楚，是当年我也刚刚开始在加纳做这温哥华做电商。然后那个时候没办法，就是说只疫情就得选择好的那什么，要不然你就上amazon e要不然你就自己自建站。</p>
-<p class="transcript-line"><span class="time"><strong>[00:38:04]</strong> </span><span class="speaker"><strong>发言人3: </strong></span>在这边来讲的话，最最方便肯定是烧沸快。而且上面有非常多的模板，对一些品类的商城来讲的话是非常好用的。当然在疫情之后，它的估值掉了一大块，但这段时间又涨回来。但烧的饭本身作为独立站来讲，是很多有有应该叫有雄心的电商从业者的双选会。在阿纵上可能会先有一个店，然后做到了盈利，就会都会有为了那个就是苦阿纵酒以，就开始做自建站。做自建站的话首选就是shop ify。</p>
-<p class="transcript-line"><span class="time"><strong>[00:38:32]</strong> </span><span class="speaker"><strong>发言人3: </strong></span>那现在来讲，shop wify有那么多用户，但他没有流量，就是shop fy自己很难带来流量。但把OpenAI自己的这个东西接入之后，它的整个电商系统闭环，直接我觉得领先了三年43年到5年。可以这么讲，就是OpenAI不用自己去做电商这个东西，但是又用sora to要未来能够把流量再做起来。哇塞那阿纵苦心经营30年的这么一个帝国，真的可能就会被被不是挖角了，我就直接踹倒一小的。</p>
-<p class="transcript-line"><span class="time"><strong>[00:39:00]</strong> </span><span class="speaker"><strong>发言人1: </strong></span>但是我觉得这样比是挺好的。你不管是对比亚马逊还是对比google，但是实际上这样比也不公平。一个是体量，我们刚才讲了，还有一个就是说。毕竟你现在做AI应用也没几个赚钱的，你open a都还没赚钱，但这些都是已经赚了大把钱的上市公司，对吧？老牌硅谷，硅谷的这个商业帝国了，对不对？那你其实这样比是我觉得可能我们会有点不科学。但是实际上我觉得我们只能把OpenAI作为一个风向标，它是这叫做什么光脚的不怕穿鞋的，对不对？</p>
-<p class="transcript-line"><span class="time"><strong>[00:39:38]</strong> </span><span class="speaker"><strong>发言人1: </strong></span>我先去把这个方向烫出来，我把我的这个估只做上来，我拿到我要的政治资本，那我可以可能后面还可以干嘛，我也可以跟微软决裂了，对吧？现在胆大了对不对？是跟微软就不好了。然后google那边TPU满一点对吧？然后甲骨文这边数据中心建一下，还有的老黄投资的钱点，对不对？</p>
-<p class="transcript-line"><span class="time"><strong>[00:40:04]</strong> </span><span class="speaker"><strong>发言人2: </strong></span>我现在撸一把。</p>
-<p class="transcript-line"><span class="time"><strong>[00:40:05]</strong> </span><span class="speaker"><strong>发言人1: </strong></span>对，社交小湖叠现在才不跟你这个老狐狸，然后我才不跟你搞那些事情。</p>
-<p class="transcript-line"><span class="time"><strong>[00:40:12]</strong> </span><span class="speaker"><strong>发言人3: </strong></span>妙人是妙人。</p>
-<p class="transcript-line"><span class="time"><strong>[00:40:15]</strong> </span><span class="speaker"><strong>发言人1: </strong></span>但是实际上毕竟我跟你讲，毕竟还没赚钱，我觉得这个是也不能太小。</p>
-<p class="transcript-line"><span class="time"><strong>[00:40:23]</strong> </span><span class="speaker"><strong>发言人3: </strong></span>那怕啥人家还后面还一帮人追着给他钱的人，只要得到证明自己就行了。</p>
-<p class="transcript-line"><span class="time"><strong>[00:40:28]</strong> </span><span class="speaker"><strong>发言人1: </strong></span>但是亚马逊这个事情倒是会有冲击。如果这个习惯真的养成的话，我觉得大家不去搜索了，你怎么卖广告，你怎么卖排名，对吧？然后如果大家发现说，我又能托管在你亚马逊的仓，我还可以用shopping fire去接单，对吧？很有可能未来出现像国内的这种情况，对不对？我在淘宝下的单，从京东上发货，我从微信小程序下单，从京东仓走。那这个时候其实你就变成你是一个庞大的基础设施要去做摊销了。所以我觉得这个事情。</p>
-<p class="transcript-line"><span class="time"><strong>[00:41:06]</strong> </span><span class="speaker"><strong>发言人3: </strong></span>也是。</p>
-<p class="transcript-line"><span class="time"><strong>[00:41:06]</strong> </span><span class="speaker"><strong>发言人1: </strong></span>蛮被动的。</p>
-<p class="transcript-line"><span class="time"><strong>[00:41:07]</strong> </span><span class="speaker"><strong>发言人3: </strong></span>是，所以当时第一句话就先问老修，就是为什么阿木纵没有就做不做做出来这种。然后因为如果说阿总不再以一个科技公司去估值的话，那他现在这个市值一定维持不住的。如果说只是把它做成基建公司，作为一个物流公司，作为一个仓储公司，那这个估值就肯定不是这样的了。所以我也想看看m zo会怎么样来来应对这件事情。</p>
-<p class="transcript-line"><span class="time"><strong>[00:41:29]</strong> </span><span class="speaker"><strong>发言人1: </strong></span>有一个好的方法，就大家可以关注我们最近早晚报的升级。我们最近的早晚报如果在推出像cloud，so net这些模型的更新的时候，慢慢的以后你会注意到我们会在这条新闻的下面加上阿猫这种股价的变化，或者OpenAI的新闻下面，我们可能就会加上微软的一些股价当天的一些变化。综合到每天来看，大家可以跟进这些新闻背后的市场的反馈。我们计划也很快会推出一个周报版本，就有更多量化的指标要结合新闻跟这个市场的变化，然后给大家提供一个方便大家追踪新闻追踪行情的一个更实用的一个周报。所以这个功能我们正在测试当中，希望说能够在下个月或者是这个月稍微晚一点能够放出来给到大家。所以大家也一定要关注我们的早晚报。</p>
-<p class="transcript-line"><span class="time"><strong>[00:42:27]</strong> </span><span class="speaker"><strong>发言人3: </strong></span>然后怎么样获得我们早晚报呢？</p>
-<p class="transcript-line"><span class="time"><strong>[00:42:29]</strong> </span><span class="speaker"><strong>发言人1: </strong></span>一定要在我们的评论区订阅我们的just AI早晚报，每天两封一键听。鲍真的就是我们的会员。对，或者成为我们youtube的会员，你还可以获得我们的深度研究报告跟主播专栏等等等等，包括每周的股东会专享视频权益。</p>
-<p class="transcript-line"><span class="time"><strong>[00:42:51]</strong> </span><span class="speaker"><strong>发言人3: </strong></span>那我最后再问一下老邱，那这个要这么搞的话，搞视频搞这个电商的话，那他这个open s算力能用多久？后面会不会又出现彻底危机呢？</p>
-<p class="transcript-line"><span class="time"><strong>[00:43:02]</strong> </span><span class="speaker"><strong>发言人2: </strong></span>对，这其实是一个很很实际的问题。为啥他要去找oracle买个五年十年的算力呢？这其实你肯定是他在布局这件事儿，但我感觉照他这么如果真的发展很快的话，可能要提前预支一点了。这边的算力确实是有可能会不够的，这边的算力要求其实非常的高。</p>
-<p class="transcript-line"><span class="time"><strong>[00:43:19]</strong> </span><span class="speaker"><strong>发言人3: </strong></span>这么想象来讲的话，当年他可能去做商业计划的宣讲的时候，路演的时候，都已经在内部跟人大家看过solo的这个下一步规划或者什么的，那还挺厉害的。靠对对对。</p>
-<p class="transcript-line"><span class="time"><strong>[00:43:31]</strong> </span><span class="speaker"><strong>发言人2: </strong></span>其实因为你看现在索软的整个的产品力和它的这种合规的这种设计可以看得出来。我觉得至少是一个从去年到今年这一年左右，应该都是在很系统性的在迭代做出来的一个产品。我相信他这个算力也是也也已经做了一些预测的，然后去搞这个算力，那今天当然肯定是要崩的，因为今天第一天就算不崩也得崩。我就他我们不知道他后面算力储备怎么样，就是大概是这种情况很有可能我是猜测是说堆了，但是没有堆够，他但是后面应该还有储备的，应该还有储备。</p>
-<p class="transcript-line"><span class="time"><strong>[00:44:06]</strong> </span><span class="speaker"><strong>发言人3: </strong></span>反正我自己做那个视频还在草稿箱里发不出去的。每次发都说service problem，直接这服务器就挂了。</p>
-<p class="transcript-line"><span class="time"><strong>[00:44:13]</strong> </span><span class="speaker"><strong>发言人2: </strong></span>这个我我我有点怀疑是个套路，就是因为大家第一天如果服务不当的话，都可能显得你这个产品。</p>
-<p class="transcript-line"><span class="time"><strong>[00:44:20]</strong> </span><span class="speaker"><strong>发言人3: </strong></span>不够够热是吧？</p>
-<p class="transcript-line"><span class="time"><strong>[00:44:21]</strong> </span><span class="speaker"><strong>发言人2: </strong></span>对对对，这个有可能是个套路。因为我觉得他这个准备这么的充分的话，按道理算力应该是够的。他他现在足够的多的算力都在背在他手上。</p>
-<p class="transcript-line"><span class="time"><strong>[00:44:33]</strong> </span><span class="speaker"><strong>发言人3: </strong></span>所以这又回到我经常在讨论那个话题，就是到底是英雄造少时势，还是时势造英雄？对于这个萨姆奥特曼来讲，在硅谷一直传说奥特曼是一个非常结构洞的人。所谓结构洞就是说他身边的资源太丰富了，而他本身就是一个非常受大佬青睐的人。无论是投资界的还是说在这个技术界的都是很厉害。当年这个open在内部攻辩的时候，它能够迅速的摆平，也是有之前的这种积累的，还是很厉害的。所以我我我觉得今天起码就是再次说，我觉得9月30号这一天，我是把自己的敬仰完全奉献给open I的。产品化能力太好了，而且这个时间点掐的太好了，商业化能力也是非常的非常的非常尽兴，让我觉得今天晚上真是不虚此行，体验了好多。</p>
-<p class="transcript-line"><span class="time"><strong>[00:45:16]</strong> </span><span class="speaker"><strong>发言人2: </strong></span>好是的是的，聊的太嗨了。</p>
-<p class="transcript-line"><span class="time"><strong>[00:45:18]</strong> </span><span class="speaker"><strong>发言人1: </strong></span>好，希望大家都去体验一下。然后提早去看一下未来我们可能AI的应用会长成什么样子。然后也就是希望大家国庆快乐。</p>
-<p class="transcript-line"><span class="time"><strong>[00:45:31]</strong> </span><span class="speaker"><strong>发言人3: </strong></span>对，有个话题我们没聊到，就是没有畅想一下这个事情对国内的生态的环境的启发。大家有兴趣的话看可以在评论区里面跟我们来多聊一聊。是的，好，我们到这儿，大家一定要加入我们，加入我们的会员，成为我们的股东和董事。</p>
-<p class="transcript-line"><span class="time"><strong>[00:45:47]</strong> </span><span class="speaker"><strong>发言人1: </strong></span>是的，期待你的加入，期待在晚报上面更多的探讨。</p>
-<p class="transcript-line"><span class="time"><strong>[00:45:51]</strong> </span><span class="speaker"><strong>发言人3: </strong></span>好。</p>
-<p class="transcript-line"><span class="time"><strong>[00:45:51]</strong> </span><span class="speaker"><strong>发言人2: </strong></span>期待在评论区见，谢谢大家，拜拜，拜拜。</p>]]></content:encoded>
-            <pubDate>Wed, 01 Oct 2025 08:55:48 GMT</pubDate>
-            <guid>68dceafc8bf86095c57825a2</guid>
         </item>
     </channel>
 </rss>
