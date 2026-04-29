@@ -4,7 +4,7 @@
         <title>Buidler Talk｜Web3 对谈</title>
         <link>https://www.xiaoyuzhoufm.com/podcast/5f33c9c59504bbdb779dffd5</link>
         <description>挖掘Web3的有趣见闻和干货知识</description>
-        <lastBuildDate>Fri, 10 Apr 2026 01:42:32 +0800</lastBuildDate>
+        <lastBuildDate>Wed, 29 Apr 2026 20:38:40 +0800</lastBuildDate>
         <item>
             <title>E71 | FLock.io Jiahao 创业心路：资深 AI 从业者如何在 Web3 抓住 AI Agent 机遇</title>
             <link>https://www.xiaoyuzhoufm.com/episode/67976e53247d51713c95fad2</link>
@@ -49,7 +49,30 @@ Haifeng
 官方社区：Discord
 公众号：搜索 BuidlerDAO
 MOVE OVER HODL, IT&#x27;S TIME TO BUIDL!</description>
-            <content:encoded><![CDATA[<p class="transcript-line"><span class="time"><strong>[00:00:04]</strong> </span><span class="speaker"><strong>发言人1: </strong></span>Flock是基于联邦学习的去中心化AI训练平台，新晋上线by bit 1月flog被灰度列为其考虑纳入投资产品的潜力代币之一，随即成为第一个入选finance阿尔法的AI基础设施代币。Flock也是加速器sprex 017的成员。本期我们采访了FLCK的方的加号。他将分享一位资深AI从业者在crypto创业的故事，以及vlog将如何抓住AI agent等机遇实现增长，成为去中心化AI浪潮中不可忽视的重要力量。</p>
+            <content:encoded><![CDATA[<div class="episode-summary">
+<h3>内容摘要</h3>
+<h3>主题概述</h3>
+<p>本期播客对话嘉宾是FLock.io创始人Jiahao。FLock是一个基于联邦学习（Federated Learning）的去中心化AI训练平台，近期上线Bybit并获灰度关注。Jiahao是牛津背景的连续创业者，曾在传统AI领域深耕。节目中，他分享了自己如何从资深AI从业者跨界到Web3，将联邦学习与区块链结合，并阐述了FLock如何通过技术迭代（如边缘计算下沉）和商业策略（如Agent Launchpad）抓住AI Agent浪潮的市场机遇。</p>
+<h3>关键要点</h3>
+<ol>
+<li><strong>核心观点：Vlog是一个“开源算法框架”，而非特定应用</strong>。Jiahao强调，FLock的定位是“就像用PyTorch在传统Web2做AI一样”，用户可以魔改成ZK-Flock、TEE-Flock等不同隐私计算版本，关键在于社区驱动和开放生态。</li>
+<li><strong>创业心路：从“觉得Web3离谱”到“早了市场两三年”</strong>。Jiahao在2017-2018年接触ICO，但当时作为AI从业者“觉得搞币圈太离谱”，仅作为投资者。直到2021年底，他发现了联邦学习与区块链结合的学术空白，2022年便在顶会发表论文并获得以太坊基金资助，但直到2024年初整个市场才突然“懂了这个叙事”。</li>
+<li><strong>独家数据：测试网已积累1500+开发者与600+验证节点</strong>。Jiahao透露，FLock早期通过严格的“白名单制”筛选用户，平台上的开发者基本是“全球自带4090显卡的极少数人”，这为项目提供了扎实的基本盘，但也导致零售端感知门槛高。</li>
+<li><strong>关键决策：2022年底选择“技术布道”而非“社群割韭菜”</strong>。Jiahao承认早期过于侧重开发者生态，导致Marketing偏弱。但面向二级市场时，他意识到必须转型，通过降低硬件门槛（从4090下沉到Mac M芯片和树莓派）和推出Agent Launchpad，触达零售用户的“痒点”。</li>
+<li><strong>商业差异化：FLock vs 其他去中心化AI项目</strong>。Jiahao对比了Bittensor、Prime Intellect等四家项目，指出FLock的差异化在于“让所有用户数据保护在本地，做边缘计算”，而Prime追求用更多卡训练大模型，Bittensor侧重算法和GPU连接。Jiahao认为“隐私从nice-to-have变成must-have”是FLock的核心叙事。</li>
+<li><strong>前沿观察：AI Agent被“技术上高估，商业上低估”</strong>。Jiahao直言，某知名AI框架的代码质量“很差，能拿到那么多星是个奇迹”，但市场效应被低估。他预测2025年将出现真正应用Agent，如基于自然语言的跨链支付和投资Agent，FLock已与GS2等机构合作训练交易Agent。</li>
+<li><strong>原话</strong>：“两年前我去说能做手机上的去中心化训练，大家会说我神经病；但两年后的今天，MacBook的M芯片已经可以跑了。科技发展会快于你的固有认知。”</li>
+</ol>
+<h3>独家细节</h3>
+<ol>
+<li><strong>谐音梗的由来</strong>：Jiahao自称是“线下脱口秀小演员”，项目名FLock是“Federated Learning”与“Blockchain”的组合，同时也是“鸟群”的谐音，“一堆数据被联合在一起，这个感觉非常match”。</li>
+<li><strong>被骂的两次经历</strong>：Jiahao坦言上交易所后第一次被人骂“Scam”时“难受了一天”，随后被团队和朋友告知“这是常态”。他形容自己从“一级市场没被人骂过”到“解锁人生新体验”，心态已调整为“涨跌都有人骂，不如做自己”。</li>
+<li><strong>关于隐私的真实需求</strong>：Jiahao分享了一条让他深有共鸣的推文——“如果你的AI女友生活在一个公共API里，那她不是你的女友，是个prostitute”。他认为这是让隐私从“nice-to-have”变成“must-have”的经典比喻，FLock的本地训练正是为了满足这种情感控制需求。</li>
+<li><strong>对创始人的提醒</strong>：Jiahao批评“整天换赛道”的Web3创业者，但也不建议固守Web2的“技术可行性”思维。他自嘲“两年前觉得去中心化训练不make sense，但现在觉得可行——因为技术变了，但你得先活到技术变化的那一天”。</li>
+</ol>
+</div>
+<hr/>
+<p class="transcript-line"><span class="time"><strong>[00:00:04]</strong> </span><span class="speaker"><strong>发言人1: </strong></span>Flock是基于联邦学习的去中心化AI训练平台，新晋上线by bit 1月flog被灰度列为其考虑纳入投资产品的潜力代币之一，随即成为第一个入选finance阿尔法的AI基础设施代币。Flock也是加速器sprex 017的成员。本期我们采访了FLCK的方的加号。他将分享一位资深AI从业者在crypto创业的故事，以及vlog将如何抓住AI agent等机遇实现增长，成为去中心化AI浪潮中不可忽视的重要力量。</p>
 <p class="transcript-line"><span class="time"><strong>[00:00:41]</strong> </span><span class="speaker"><strong>发言人1: </strong></span>大家好，欢迎来到beauty talk，我是beauty到的dream。今天我们很高兴邀请到了flock的founder加号来参与我们的访谈。Flock是我们spring x017的优秀的项目，历史上得到了DCG light speed等顶级基金的支持，最近也成功上线了by bit，所以恭喜嘉豪和团队。</p>
 <p class="transcript-line"><span class="time"><strong>[00:01:00]</strong> </span><span class="speaker"><strong>发言人2: </strong></span>Hello大家好。</p>
 <p class="transcript-line"><span class="time"><strong>[00:01:01]</strong> </span><span class="speaker"><strong>发言人1: </strong></span>我是嘉豪OK。hello. 首先能不能给我们介绍一下flock？因为我知道你肯定会讲到一个联邦学习这个词，可能对一些可能对联邦学习不熟悉的朋友，也请用通俗易懂的方式解释一下联邦学习是什么。</p>
@@ -236,7 +259,55 @@ HEYEAH, createpjf
 * 官方社群：TG
 * 公众号：微信搜索 BuidlerDAO
 MOVE OVER HODL, IT&#x27;S TIME TO BUIDL!</description>
-            <content:encoded><![CDATA[<p class="transcript-line"><span class="time"><strong>[00:00:05]</strong> </span><span class="speaker"><strong>发言人1: </strong></span>欢迎收听新一期的big talk，这是一档聚焦web 3建设者有深度的对谈节目。本期我们邀请到00后的创业者danny，一起来听听他的创业故事。</p>
+            <content:encoded><![CDATA[<div class="episode-summary">
+<h3>内容摘要</h3>
+<h3>主题概述</h3>
+<p>本期播客邀请到00后创业者、Web3安全项目KEKKAI的创始人兼CEO Danny杜玛。对话从他的早期创业经历（高中时期做留学活动平台）开始，延伸至其连续创业的试错过程（日本留学期间的校园社交、金融产品等），最终聚焦于他如何进入Web3行业并创立KEKKAI。Danny详细分享了项目的产品策略（从浏览器插件转向移动端安全浏览器）、对Web2方法论迁移到Web3的思考，以及个人成长心态的变化（从为生存接外包到追求产品价值），并探讨了早期创业者的核心品质。</p>
+<h3>关键要点</h3>
+<ol>
+<li>
+<p><strong>创业起点始于“电梯演讲”</strong>：Danny首次创业的契机是在国贸偶遇一场由以太资本、经纬和分众传媒举办的创投活动。他当场报名了“电梯演讲”，与两位投资人交流后，被刺激到“落地能力比较差”，进而决心启动针对留学生的活动平台项目。他说：“我当场就报名了，然后就跟当事人跟两个投资人聊了一下，他们觉得其实想法不错，但是可能觉得我的落地能力比较差，然后我自己也是一个比较好胜心比较强的那种人，所以当时过了一两周，我们就我就开始这个项目。”</p>
+</li>
+<li>
+<p><strong>选择日本创业的独特逻辑</strong>：Danny决定去日本留学并继续创业，核心原因是看中了当地的市场空窗期。“其实最主要的来日本原因是因为……VC其实日本是一个资本比较多的国家，但是项目比较少，就因为创作氛围不太好，所以其实VC的钱比较多。……因为人少，然后创业者也少，其实你的竞面临的竞争潜在威胁可能会更小一些。”</p>
+</li>
+<li>
+<p><strong>外包经历带来的核心心态转变</strong>：在长达两年的外包和项目试错阶段，Danny的心态经历了重大挑战。“这个过程中的话，其实是经历了这种不断在挑战自己耐心，还有创业的这个事情的信心……所以这两年的话对我心态最大的影响，其实就是我变得更有耐心了。”</p>
+</li>
+<li>
+<p><strong>Web2方法论迁移是KEKKAI的核心Know-how</strong>：Danny明确将过去积累的互联网产品、运营、团队管理经验视为竞争优势。“如果我们用外包的原来的这些管理方法论和这个产品的思路，还有包括增长思路去做外翻产品的话，这个三号是可以超过很多团队的。因为他在之前的这个领域，这种相似领域里面已经被验证过无数次。”</p>
+</li>
+<li>
+<p><strong>产品定位的防竞争策略</strong>：面对钱包自身提升安全能力的潜在威胁，KEKKAI将产品定位从“外挂插件”向“浏览器”迁移。核心逻辑是：浏览器是用户交互的入口，使用周期和生命周期更长，比钱包更坚固。“用户对于这种额外的这种插件的导入，它是有它是心理还有成本，就时间上面是有成本的……所以就把这个position慢慢的往浏览器方向去移。”</p>
+</li>
+<li>
+<p><strong>移动端切入市场的破局思路</strong>：KEKKAI推出移动端安全浏览器的首要原因是避开了与Chrome的直接竞争。“因为移动端的chrome它是没法用插件的，这个很长时间都是不行的……但日本它又有很大群很大一部分的这种移动端的wifi用户……所以我们的最开始target就是在这个部分这些地域。”</p>
+</li>
+<li>
+<p><strong>“早期创始人应是超人”的核心观点</strong>：Danny认为，早期创始人必须有能力亲手接管任何岗位的工作，从而赢得团队信任。“我会给他们一种信心……他的任何一个task，我可以当我去接手过来的时候，我可以做的一定比他好。所以他们会更更信服我，我也更愿意跟着我做。” 他认为创始人需要先自己搞清楚所有事，才能有效管理别人，而不是直接依赖外部高手。</p>
+</li>
+<li>
+<p><strong>参与加速器项目的核心收获</strong>：Danny将参与builder talk的spring x项目评价为“认知提升了大概300%”，主要收获来自导师分享的“从0到1到100甚至退出的整个的心路历程”，以及“互为孤独病友”的同辈友谊。“大家在做的项目上面也都有很多相同的困难……在友谊提升这块儿非常的大。”</p>
+</li>
+</ol>
+<h3>独家细节</h3>
+<ol>
+<li>
+<p><strong>国贸偶遇的创投活动</strong>：Danny并非主动寻找创业资源，而是在北京国贸闲逛时看到门口写着“创业”的大型活动，好奇之下进入，开启了创业者之路。这个不经意的偶然契机，是他创业生涯的起点。</p>
+</li>
+<li>
+<p><strong>对“第一桶金”的实感缺失</strong>：Danny坦诚分享了一个略带反差的内心状态：尽管赚到了远超同龄人的钱，但直到去年都“没有太强实感”，甚至觉得“没有觉得这个东西是我应该得到的”。他的满足感更多来自产品发布、公司成长，而非金钱回报。这种心态直到今年才有所变化。</p>
+</li>
+<li>
+<p><strong>“超人”观点的具体例证</strong>：Danny解释“超人”理论时，给出一个生动的场景——他如何面对比自己大十岁、工作经验更丰富的下属。他不是去管理，而是通过证明“我接手过来一定干得比你好”来获得信服，这颠覆了传统管理的路径。</p>
+</li>
+<li>
+<p><strong>加速器项目中的“友情”价值</strong>：Danny强调在spring x项目中，导师的认知提升固然重要，但同批创始人之间“互为孤独sunder”的友谊同样宝贵。他提到大家在其他场合交流时，会主动思考“是不是能帮到对方”，这种“互补”且“愿意互相帮助”的关系非常难得。</p>
+</li>
+</ol>
+</div>
+<hr/>
+<p class="transcript-line"><span class="time"><strong>[00:00:05]</strong> </span><span class="speaker"><strong>发言人1: </strong></span>欢迎收听新一期的big talk，这是一档聚焦web 3建设者有深度的对谈节目。本期我们邀请到00后的创业者danny，一起来听听他的创业故事。</p>
 <p class="transcript-line"><span class="time"><strong>[00:00:23]</strong> </span><span class="speaker"><strong>发言人2: </strong></span>Hello大家好，欢迎来到builder talk。本期beautiful talk我们邀请到了danny，也是我们第一期spring x的项目方之一的创始人，来聊一聊他的创业，还有他的成长的经历。就先有请丹尼做一个简单自我介绍。</p>
 <p class="transcript-line"><span class="time"><strong>[00:00:41]</strong> </span><span class="speaker"><strong>发言人3: </strong></span>Hello大家好，我是danny，然后我是K这个项目的founder，也兼CEO，K凯是一个web tory的security项目。主要旨在我们在做产品，然后帮助用户去解决链上的防盗欺诈问题。我们目前的话我们有上线了两款产品。一款是一个brother extension，是叫KKPLUG in。它是可以在你每次交互的时候，给你弹出来一个模拟。我去帮助你把可能潜在会遇到的一些存在线上的问题，这种欺诈问题，还有sa contract可能存在的一种作恶性。以一个比较human rebel的形式UI给你展示出来。然后这样你可以清楚哪一个traction是安全或者是有risk。然后另外一款的话，我们在移动端做了一款web端的移动安全浏览器，可以理解为是prom的更web 3 native和更安全的版本。然后我们现在在目前在规划一些底层的有关安全相关的开发，包括但不但不限于比如说像security chain这种产品的技术研发。</p>
 <p class="transcript-line"><span class="time"><strong>[00:01:52]</strong> </span><span class="speaker"><strong>发言人2: </strong></span>好的好的，Denny介绍了很多KKI项目的一些事情。我们其实本期节目可能除了说当下的一些我们做的项目，然后一些在在忙的事情，可能更多的也想来探索一下像丹尼作为这么年轻的创始人，成长经历中的一些曾经埋下的一些种子，或者说怎么会走上这条路的那要不我们就从可能比较早期的一些事儿开始聊聊。因为之前也了解到danny从初中高中就开始有接触一些创投，或者说做一些小生意等等，可以聊聊当时发生了什么，就是怎么样慢慢的开始接触到创业这件事情。</p>
@@ -332,7 +403,79 @@ A Million Things - Mochas.
 官方社区：Discord
 公众号：搜索 BuidlerDAO
 MOVE OVER HODL, IT&#x27;S TIME TO BUIDL!</description>
-            <content:encoded><![CDATA[<p class="transcript-line"><span class="time"><strong>[00:00:03]</strong> </span><span class="speaker"><strong>发言人1: </strong></span>欢迎收听新一期的build talk，这是一档聚焦web 3建设者有深度的对谈节目。本期播客的嘉宾是迪拜明星项目kindle的创始人tim，他分享kindle产品的设计思路，个人的创业感受以及片的未来的规划等。博客全程采用英文录制。</p>
+            <content:encoded><![CDATA[<div class="episode-summary">
+<h3>内容摘要</h3>
+<h3>主题概述</h3>
+<p>这期BuildTalk节目采访了DeFi领域明星项目Pendle的创始人兼CEO TN。对话围绕Pendle的产品设计理念、从V1到V2的关键演进、创业历程、团队建设以及未来规划展开。TN分享了他在Cover的早期经历，以及Pendle如何从2020年DeFi夏季的“矿币挖矿”痛点中诞生，旨在通过收益代币化和固定收益交易为DeFi生态提供基础工具。</p>
+<h3>关键要点</h3>
+<ol>
+<li>
+<p><strong>创业起源：从“挖矿痛点”到产品构想</strong><br />
+    TN团队在2020年DeFi夏季疯狂挖矿，追逐年化2万-3万%的高APY，但他们意识到这种高收益不可持续。正是这种“享受高收益但深知无法持续”的矛盾，让他们开始思考构建一个能解决用户实际需求的产品，最终催生了Pendle。</p>
+</li>
+<li>
+<p><strong>V2核心优化1：AMM机制革新，实现资本效率飞跃</strong><br />
+    V2最大的改变是AMM机制。V1中，PT（本金代币）和YT（收益代币）在不同平台交易，用户体验割裂。V2将两者及其底层资产（如stETH）整合到一个流动性池中，使交易体验更可控。更关键的是，V2的AMM设计将资本效率比V1提升了数十到上百倍。</p>
+</li>
+<li>
+<p><strong>V2核心优化2：用户界面分层，降低使用门槛</strong><br />
+    V1面临的首要问题是产品过于复杂，用户需要理解PT、YT等原生概念。V2推出了两个界面：<strong>Earn（原Simple UI）</strong> 为用户屏蔽了技术细节，可直接提供或获取固定收益；<strong>Pro/Trade UI</strong> 则服务于希望自定义策略以优化收益的高级用户，通过分层设计有效扩大了受众。</p>
+</li>
+<li>
+<p><strong>V2核心优化3：为“无需许可资产上市”奠定基础</strong><br />
+    TN认为DeFi的终局是无需许可的资产上市。V2在合约层面已支持此功能，允许任何代币发行方像在Uniswap上一样创建Pendle的流动性池。团队目前正专注于建设基础设施（如交易知识普及），待条件成熟后再加速推进面向用户的无需许可UI。</p>
+</li>
+<li>
+<p><strong>创业融资策略：利用机构信誉建立初始信任</strong><br />
+    对于一个新项目，自身没有信用记录，Pendle的策略是“借别人的信誉”。通过引入顶级机构（如DeFinance、Coinbase）的投资，用机构的背书来建立社区对Pendle的信任感。同时，TN强调在牛市融资时，投资者会考虑投资回报的机会成本，因此早期融资需要“更务实的商业估值”以吸引有耐心的长期资本。</p>
+</li>
+<li>
+<p><strong>团队管理与人才吸引：寻找“智力上灵活”的人</strong><br />
+    TN认为，对于Pendle这样创新性极强的产品，经验并非最重要的招聘标准。团队更看重候选人是否具备“战略和智力上的灵活性”（strategically and intellectually flexible）。他相信聪明有能力的人能相互吸引，形成良性循环。受益于新加坡的地理位置，团队能够吸引来自马来西亚、印尼等地区的优秀年轻人才。</p>
+</li>
+<li>
+<p><strong>应对代币价格下跌：聚焦核心指标，忽略短期噪音</strong><br />
+    当Pendle的代币价格低迷时，TN的策略是选择“不关注价格”，而是回归到对协议最核心的指标：<strong>TVL（总锁仓量）和交易量</strong>。因为这两者是协议的收入来源。团队集中精力设计能改善这两个数值的措施，最终价格随着基本面的改善而回升。</p>
+</li>
+<li>
+<p><strong>应对熊市团队士气：坦诚沟通，不“糖衣”包装</strong><br />
+    面对困难时，TN认为团队大多数成员是成熟的成年人。他的方法是“诚实和现实地沟通”，不掩盖市场的糟糕状况，但同时提供经过考虑的“应急预案”（contingency）。这种做法能让团队看到希望，比空泛的鼓励更有效地保持士气。</p>
+</li>
+<li>
+<p><strong>对DeFi收入来源的见解：收益基础是“费用”，贿赂是“甜味剂”</strong><br />
+    TN认为，协议费用（Fees）始终是为代币持有者产生价值的最重要支柱。贿赂（Bribes）或投票激励是很好的补充，但只有在协议本身有健康的基本活动时才有意义。一个垂死的协议，即使贿赂也无法吸引人。</p>
+</li>
+<li>
+<p><strong>给创业者的建议：执行力比想法更重要</strong><br />
+    TN强调，在技术高度民主化的加密货币领域，想法很容易被复制，窗口期转瞬即逝。对于有想法的创始人，行动至关重要。他建议团队对项目保持一定程度的信念（例如超过50%的成功可能性），然后让市场来验证。如果市场有反应，再投入更多资源；否则，果断放弃。</p>
+</li>
+</ol>
+<h3>独家细节</h3>
+<ol>
+<li>
+<p><strong>坦率的难度声明</strong><br />
+    TN坦言创业之路“比我最初预期的要困难得多”，他预见到了困难，但“困难的规模远远超出了我的初始预期”。这种发自内心的、未经修饰的表述，比任何成功故事都更真实。</p>
+</li>
+<li>
+<p><strong>内部“打气”的具体操作</strong><br />
+    在回应如何提升团队士气时，TN提到了一个例子：他邀请了一位知名人物（原文中为“小旺”或类似的创业者）到内部团队做分享。他认为此举“无疑帮助很大”。这表明Pendle团队在早期尚未正式发布产品时，就已经通过这种“外部激励”来凝聚人心。</p>
+</li>
+<li>
+<p><strong>对“拉盘”行为的间接批判</strong><br />
+    在讨论机构投资者可能带来的负面影响时，TN指出一些大型投资者会“不遵守锁仓期或持有期，直接向市场抛售代币”，这种行为会<strong>“让社区失去对项目的信心”</strong>，并让项目方“很难反弹”。这是对行业“老鼠仓”或“砸盘”现象的直白描述。</p>
+</li>
+<li>
+<p><strong>一段成功的“借力”合作案例细节</strong><br />
+    在描述与Rocket Pool、Balancer、Ora的四方合作时，TN详细叙述了他们的策略：当时Pendle V2还很小，他们通过主动设计合作方案，分别向规模更大的三方推介，最终实现了“站在巨人肩膀上”的效果。他特别提到，那次联合发布是“我们第一次在所有社交媒体上产生非常健康的印象，大概有十几万到二十万次”。</p>
+</li>
+<li>
+<p><strong>创始人关于“保持健康”的私人习惯</strong><br />
+    在播客最后关于如何保持状态的轻松话题中，TN给出了一个非常具体的回答：“多吃纤维，少吃碳水，多吃蛋白质……现在我的饮食中摄入了更多的纤维。” 这个对话中的即兴生活细节，让一个严肃的创始人形象变得有血有肉。</p>
+</li>
+</ol>
+</div>
+<hr/>
+<p class="transcript-line"><span class="time"><strong>[00:00:03]</strong> </span><span class="speaker"><strong>发言人1: </strong></span>欢迎收听新一期的build talk，这是一档聚焦web 3建设者有深度的对谈节目。本期播客的嘉宾是迪拜明星项目kindle的创始人tim，他分享kindle产品的设计思路，个人的创业感受以及片的未来的规划等。博客全程采用英文录制。</p>
 <p class="transcript-line"><span class="time"><strong>[00:00:22]</strong> </span><span class="speaker"><strong>发言人3: </strong></span>Hey, everyone will come back to build a talk when we engage with builders expLoring various facets of crap to offering a pick into their brilliant minds. In today&#x27;s episode, we are joined by tin, the founder. Panda, hi, tin, how are you doing?</p>
 <p class="transcript-line"><span class="time"><strong>[00:00:39]</strong> </span><span class="speaker"><strong>发言人2: </strong></span>Yeah, well, thanks for having .</p>
 <p class="transcript-line"><span class="time"><strong>[00:00:41]</strong> </span><span class="speaker"><strong>发言人3: </strong></span>me pleasure to have you here as some of our listeners may remember, look, and I recently featured panda in a detailed report and so very timely for us to have team here today for some talks that I hope will give you further introduction to pandas, current developments, its design principles and the teams insight gained along the entrepreneurial ney. First, could you share a little bit about yourself and what panda is for our audience?</p>
@@ -565,7 +708,79 @@ A Million Things - Mochas.
 官方链接：nextme.one
 官方社区：Discord
 MOVE OVER HODL, IT&#x27;S TIME TO BUIDL!</description>
-            <content:encoded><![CDATA[<p class="transcript-line"><span class="time"><strong>[00:00:03]</strong> </span><span class="speaker"><strong>发言人1: </strong></span>欢迎收听新一期的build talk，这是一档聚焦web 3建设者有深度的对谈节目。本期播客我们邀请到了vesty brand的两位主理人ruby和star，一起来聊聊web 3品牌和total ization的故事。</p>
+            <content:encoded><![CDATA[<div class="episode-summary">
+<h3>内容摘要</h3>
+<h3>主题概述</h3>
+<p>本期节目由Web3Brand主理人Ruby和Star与BuildUp的Jane共同探讨Web3品牌忠诚度设计与会员体系代币化。嘉宾们以Blackbird（去中心化餐饮商家联盟）和星巴克奥德赛（NFT忠诚度计划）为案例，深入剖析了Web3相比传统积分体系的本质差异——从用户互动、数据资产到开放忠诚度，并讨论了数据所有权、上链成本与用户体验之间的平衡。对话还涉及日本数据银行法下的消费数据变现APP“ONE”，以及理想中的无感品牌互动场景。</p>
+<hr />
+<h3>关键要点</h3>
+<ol>
+<li>
+<p><strong>Blackbird的核心机制：双重代币激励与开放忠诚度</strong><br />
+   Blackbird同时扮演去中心化商家联盟和前端APP。其积分（代币）发放方式独特——当用户进行对生态有帮助的行为（如签到、评价）时，系统同时向商家和用户对半分发代币（各占50%），另有1%奖励早期合作方。这打破了传统积分的“商家负债”模式，使代币成为生态价值的衡量指标。同时，商家可以查看整个生态用户的活跃度，向高价值用户定向邀约（如新店试吃），实现跨店获客。</p>
+</li>
+<li>
+<p><strong>星巴克奥德赛的三个发展阶段</strong></p>
+</li>
+<li>第一阶段：任务化互动（如VR参观咖啡农场）换取积分兑换NFT，融入内容与娱乐性。</li>
+<li>第二阶段：售卖数字收藏品，最成功的是“海妖”NFT系列（4000个，每个100美元，十几分钟售罄），最高涨至600美元，后稳定在300美元左右。</li>
+<li>
+<p>第三阶段：跨界合作（如与阿库合作）及常规运营，同时探索AI与忠诚度结合。</p>
+</li>
+<li>
+<p><strong>Web3忠诚度与Web2的三点本质区别</strong></p>
+</li>
+<li><strong>提升互动方式</strong>：NFT具有流动性和市场定价，让忠诚度计划不再无聊，尤其吸引年轻用户。</li>
+<li><strong>构建用户数据资产</strong>：用户的行为数据被代币化，用户可从中直接获益（如变现），而不再是平台无偿使用。Star指出：“用户数据在此刻就是被部分被变现的，但用户其实并没有拿到一分钱。通过Web3的方式，用户构建了自己的数据资产。”</li>
+<li>
+<p><strong>开放忠诚度（Open Loyalty）</strong>：用户的钱包可被任何品牌识别价值，其他品牌可基于其链上行为精准触达（如Blackbird的商家联盟），实现跨品牌合作。</p>
+</li>
+<li>
+<p><strong>日本APP“ONE”的消费数据变现模式</strong><br />
+   该APP允许用户扫描线下消费小票并出售数据，每笔交易用户获得1-10日元，每天最多卖10笔（约50日元）。它利用了日本数据银行法（数据归个人所有且可买卖）的合法性，但存在隐私和防作弊问题。Star认为，区块链可通过加密保护隐私、防作弊、提供即时支付（直接发放代币），将这一模式推向新高度。</p>
+</li>
+<li>
+<p><strong>理想品牌互动方式：无感、低门槛的链上身份</strong><br />
+   Ruby设想：用户穿着粉丝T恤、带手环参加演唱会，其参与数据自动上链，下次演出时自动获得优先购票权，无需与黄牛竞争。关键是“不需要向他去介绍区块链是什么，你怎么去开钱包”，通过NFC芯片或钱包即NFT（如EIP-6551协议）等基础设施，让品牌用户自然成为链上用户。</p>
+</li>
+<li>
+<p><strong>数据所有权≠数据公开（Victor观点）</strong><br />
+   Victor强调：“开放的关键是用户能向第三方证明自己的数据和使用数据，而非必须把所有数据公开。”例如，用户拥有Amex黑卡会员的ownership，但不必上链，只需在需要时证明即可。区块链最适合记录可交易的权益（ownership）及其变化规则，对于低价值或隐私敏感数据，过度上链未必划算。</p>
+</li>
+<li>
+<p><strong>品牌忠诚度设计的底层趋势（Ruby总结）</strong></p>
+</li>
+<li>年轻消费者期望更高参与度和ownership，而非被动接受交易性积分。</li>
+<li>品牌获客成本攀升，需要社区“自来水”降低投放压力。</li>
+<li>数据合规要求增高（各国数据法案），代币化可降低品牌间合作成本，实现低门槛的联名活动。</li>
+</ol>
+<hr />
+<h3>独家细节</h3>
+<ol>
+<li>
+<p><strong>Blackbird的商家筛选理念：要复购，不要海量流量</strong><br />
+   Star透露：“这些社区小店要的是中层的客户，不是成千上万的客户。它不希望客户天天来，因为会吃腻。”因此Blackbird的联盟刻意避开连锁巨头，专注于接受“客户共享”理念的精品社区店。</p>
+</li>
+<li>
+<p><strong>星巴克“海妖”NFT的定价逻辑：经典IP的市场验证</strong><br />
+   Star提到：“这个形象在星巴克已经几十年，甚至快100年了，对用户来说非常有辨识度，而且拿出来的形象是外面设计上从来看不到的新形象。”100美元的发售价能短期暴涨到600美元，证明用户对品牌经典数字收藏品有真实需求。</p>
+</li>
+<li>
+<p><strong>创始人Benson的餐饮业背景是Blackbird的信任基石</strong><br />
+   “他（Blackbird创始人）其实十几年一直在做餐饮业”——这句话在对话中自然带出，暗示设计机制时对行业痛点的深入理解（平台抽成高、商家利润薄、社区小店依赖老客），而非单纯的区块链技术附会。</p>
+</li>
+<li>
+<p><strong>日本APP“ONE”的日活400万与现实尴尬</strong><br />
+   “每天最多卖10笔，每笔1-10日元，最多50元（约2块多人民币）。如果真的一年都在卖，还是一笔不小的钱，可以吃好几顿好烤肉。”Star用这样生活化的比喻，既说明变现可行性，也暗示依赖用户主动扫描的效率瓶颈。</p>
+</li>
+<li>
+<p><strong>Victor的回忆：2020年就已见过类似Blackbird的澳洲项目“Point”</strong><br />
+   “我们一九、20年的时候跟一澳大利亚项目叫Point，现在还在，做的差不多。每带进来一个商家，token发行量增加，分三份……”这一对比说明Blackbird并非孤例，但市场验证周期极长，Web3忠诚度计划的规模化仍是挑战。</p>
+</li>
+</ol>
+</div>
+<hr/>
+<p class="transcript-line"><span class="time"><strong>[00:00:03]</strong> </span><span class="speaker"><strong>发言人1: </strong></span>欢迎收听新一期的build talk，这是一档聚焦web 3建设者有深度的对谈节目。本期播客我们邀请到了vesty brand的两位主理人ruby和star，一起来聊聊web 3品牌和total ization的故事。</p>
 <p class="transcript-line"><span class="time"><strong>[00:00:22]</strong> </span><span class="speaker"><strong>发言人2: </strong></span>欢迎大家收听web sy brand for apc的第四期的space，我是主理人ruby。Web 3 brand我介绍一下，我们是一档致力于探索web 3和AI如何赋能个体和企业的内容栏目。也欢迎订阅我们在推特链接里面的news letter。我们每周会发送一篇深度的文章，以及近期的一些行业观察我们的访谈类space。希望通过对话和连接行业内的建设者以及华人社区，共同探讨商业案例、应用场景和未来的发展。本期对话我们很高兴请到build到投研工会的jane，以及beautiful的6，就我与他一直很关心的很关注的一个话题推organization和品牌忠诚度设计一起做一些探讨。欢迎建作为本期的co host建议要不先做一下介绍。</p>
 <p class="transcript-line"><span class="time"><strong>[00:01:16]</strong> </span><span class="speaker"><strong>发言人3: </strong></span>大家早上好，很高兴今天有机会来跟star和ruby交流，我是build up的jam。我们build到是一个人才和项目网络。然后我们里面聚集了开发者、研究员和运营者不同的角色。我们在尝试的是以道的方式组织内容输出和产品实践，目前也是华语头部道之一。我们的愿景是说搭建一个全球建设者的连接和协作网络，推动web 3的大规模采用和价值实现。所以从这个角度出发，我们会关注比较多大规模采纳的案例，当然品牌也会是其中非常重要的一块儿。</p>
 <p class="transcript-line"><span class="time"><strong>[00:01:51]</strong> </span><span class="speaker"><strong>发言人3: </strong></span>然后我个人的话，我之前做过比较久的消费VC，我一直关注d to c领域的发展。D to c就是direct to consumer，然后对于如何利用数据改变消费者的体验以及提升复购特别感兴趣，也就是搭一套我们通常所说的忠诚度体系。不过在传统的web two的零售体系中，很多平台的数据它更接近于黑盒。比如淘宝、天猫很多数据他不会披露给品牌方，包括说品牌方这边他触达用户的方式也很有限，你除非像瑞幸那样做自己的独立APP。所以我最开始看到像焊或者blackboard的这些通过web 3的方式来尝试做新的忠诚度体系。我自己就非常感兴趣，想看看说这里能否探索出一些新的方案，给品牌方带来一些新的工具箱。所以也才会跟ruby和star来讨论，我们要不要来就着这个话题做一些细致的讨论。对我这边就这些。</p>
@@ -747,7 +962,31 @@ Thunderbird - Ooyy
 官方链接：nextme.one
 官方社区：Discord
 MOVE OVER HODL, IT&#x27;S TIME TO BUIDL!</description>
-            <content:encoded><![CDATA[<p class="transcript-line"><span class="time"><strong>[00:00:04]</strong> </span><span class="speaker"><strong>发言人1: </strong></span>欢迎收听新一期的big talk，这是一档聚焦web 3建设者有深度的对谈节目。今天这一期我们邀请到了四位web三项目的founder，一起来聊聊他们的创业故事和最近一起发起的supreme accelerator，也叫supreme x加速器。他们分别是confluence的founder元杰，galaxy founder Charles老王，as back car performer jack, 以及biodome行on nails。</p>
+            <content:encoded><![CDATA[<div class="episode-summary">
+<h3>内容摘要</h3>
+<h3>主题概述</h3>
+<p>本期节目邀请了四位处于不同发展阶段的Web3创业者：穿越两轮牛熊的Conflux创始人元杰、头部增长平台Galaxy的创始人Charles、专注开发者的数字身份协议Aspecta创始人Jack，以及社区型组织Builder Dao的发起人Neos。对话围绕各人进入Web3的契机、创业经验，以及他们联合发起的“SpringX加速器”展开，核心议题是在熊市背景下，华人创业者如何从亚太到北美进行全球化布局，并抱团取暖、支持后来者。</p>
+<h3>关键要点</h3>
+<ul>
+<li><strong>入场时机与赛道选择</strong>：元杰在“ICO尾声”的2018年加入，利用金融背景帮助Conflux在极差的市场环境下完成了3300万美元融资。他强调，当时选择加入是因为“这是一个safe bet”，因为团队（清华姚班、姚期智院士）底线高、成功概率大。Charles在2017年牛市开始，从Steem上的直播项目Dlive做起，穿越牛熊后，在2021年DeFi热潮中创立Galaxy，抓住了项目方增长需求的市场空白。Jack则在2022年熊市入场，最初做基于GitHub数据的人才招聘工具，后发现Web3项目方需求更强，转型为面向开发者的身份和数据生态。</li>
+<li><strong>全球化策略的挑战与经验</strong>：Charles强调，团队DNA决定了其从第一天起就是全球化而非单纯“出海”。他指出，“北美跟亚洲是两个topic”，华人创业者做全球化，需要团队从文化、种族上就保持多元化，而非仅用华人视角思考。他建议团队应“diversified”，并从0到1就享受了海外VC活跃和政策宽松的红利。</li>
+<li><strong>Jack关于全球化的实操挑战</strong>：Aspecta虽从Day One就定位全球化，但团队研发在亚洲、商务在美国，面临巨大的时区沟通和语言转化成本。他给出的方法论是“用产品驱动Strategy来Onboard用户”，对于开发者而言，“让他直接用产品”比任何宣传都有效。同时，他强调了“Global from Day One”是团队整体的事情，而非口号，包括推行纯英文办公、将表达规范到产品文档等系统化工作。</li>
+<li><strong>对香港市场的独特判断</strong>：元杰给出了一个极具争议性的观点：香港政府的公信力虽存疑，但这恰恰是华人的机会。他认为政府“缺乏公信力”的同时“有很强的KPI”，西方意见领袖不看好不去，空白就留给了华人。他举例OKX有400多人在香港运营，且政府仅对“提1000刀需要出9999刀手续费”的JPEX发出警告，所以合规的模糊地带非常大，只要本着做业务而非诈骗的逻辑，就能获得支持。</li>
+<li><strong>熊市中的创业者心理与韧性</strong>：元杰犀利指出，许多来自传统行业的创业者对发币后的负面影响（币价下跌、用户骂声）毫无心理准备。他观察到“大部分人会soft rug”，只有极少数能“面对币价波动不为所动”。他以Pendle为例，认为其团队虽产品小众、价格惨淡，但仍在坚持迭代，这种心态是新入行者最关键的考验。</li>
+<li><strong>SpringX加速器的核心差异</strong>：由14位项目方创始人和3家投资机构联合发起，第一期注资2000万美金。Neos强调其三个特点：1）<strong>Founder视角</strong>：发起人需线下累积出足够时间，建立深度信任关系，而非讲完即走；2）<strong>小班制+代币互换</strong>：每期控制在10个项目左右，并设计代币池由当期学员和社区持有，形成强绑定；3）<strong>国际化导向</strong>：半数发起人主战场在海外，能带入选项目打通全球资源。</li>
+<li><strong>理想创业者的画像</strong>：Charles认为核心是“product market fit”，在熊市中尤其要证明有巨大用户需求，并认真把商业模式优先级提高，不能只依赖Token和Crypto的拉新策略。他对创始人的要求是“自己能打”，且能随着团队扩大证明领导力，同时要随时准备好融资，把握融资节奏。元杰则补充，创业者必须对“发币即上市”带来的金融副作用有心理准备，保护好自己的心理，才能在外部嘈杂下维持专注。</li>
+</ul>
+<h3>独家细节</h3>
+<ol>
+<li><strong>元杰对香港“危机”的露骨评价</strong>：他直言香港政府现在“缺乏公信力”，其政策是“官员有很强的KPI”，评论区“都是一边倒的不相信他们”。但他认为这种“对立与争议中蕴藏着巨大机会”，因为“政府非常希望市场中有勇夫，能够一马当先为他们打开局面”。</li>
+<li><strong>Charles对Jack的一见钟情</strong>：Charles在描述投资Aspecta的原因时说，他是在一个大会上见到Jack，“背着一个书包一个人”，他觉得“团队比事情本身还要重要”，而Jack这个人“非常的靠谱”，所以“支持了一下”。这个细节生动描绘了早期创业者孤身闯荡的形象，以及投资人看重“人”而非“事”的直觉。</li>
+<li><strong>元杰给项目起名的幕后故事</strong>：元杰透露，一个叫NFTSCAN的项目（做NFT数据库）的名字是他起的。当时他建议创始人别做线上画廊，应该去做OpenSea的数据中台，因为OpenSea会优先服务于自己的应用。创始人后来采纳并执行，现在已能通过收费调用数据实现盈亏平衡。</li>
+<li><strong>Charles对“30人管理”的心得</strong>：他在分享团队管理时说，团队到了30人是个分水岭，很多草根创业者没经历过100人或200人的管理阶段，尤其是在remote work文化下，如何保证效率和沟通“非常非常有挑战”。他建议团队扩张要谨慎，“创始人对于自己的决定不见得是最好的决定，这个可以谨慎一点”。</li>
+<li><strong>Jack和Neos的惊人巧合</strong>：两人在对话中发现，他们不仅是耶鲁校友、真格基金实习生，连第一次创业项目都非常相似——都是帮助大学生在线下组局交友的小程序/平台（Jack是约即时活动，Neos是约狼人杀）。这个巧合让氛围瞬间变得亲切。</li>
+</ol>
+</div>
+<hr/>
+<p class="transcript-line"><span class="time"><strong>[00:00:04]</strong> </span><span class="speaker"><strong>发言人1: </strong></span>欢迎收听新一期的big talk，这是一档聚焦web 3建设者有深度的对谈节目。今天这一期我们邀请到了四位web三项目的founder，一起来聊聊他们的创业故事和最近一起发起的supreme accelerator，也叫supreme x加速器。他们分别是confluence的founder元杰，galaxy founder Charles老王，as back car performer jack, 以及biodome行on nails。</p>
 <p class="transcript-line"><span class="time"><strong>[00:00:43]</strong> </span><span class="speaker"><strong>发言人2: </strong></span>欢迎大家来到我们新一期的bill talk，然后我是今天的主持人news，同时也欢迎本期的另位主持人jack。</p>
 <p class="transcript-line"><span class="time"><strong>[00:00:50]</strong> </span><span class="speaker"><strong>发言人1: </strong></span>Hello, 大家好，我是jack。感谢neos邀请，也很高兴有机会和大家聊天。</p>
 <p class="transcript-line"><span class="time"><strong>[00:00:56]</strong> </span><span class="speaker"><strong>发言人2: </strong></span>我跟jack其实挺有缘分的，咱俩有很多的渊源。然后咱俩都是业务的校友，而且是同一个专业。正好20年的时候我刚毕业，他刚进入读书。同时我们之前也是在真格基金一起做过实习，这次创业不约而同的进入P3进行创业。然后也同时也拿到了像一些沃布尔沃浦三的一些机构的投资。然后今天我们会聊一聊在五三中持续build的创业者。因为在这个熊市的大背景下，沃森的创业者怎么在市场中来找到机会，并且能够脱养出，其实是我们在一直聊的话题。</p>
