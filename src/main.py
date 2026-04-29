@@ -78,14 +78,14 @@ def main():
 
         # 初始化 LLM 摘要（可选）
         summarizer = None
-        if os.getenv("OPENROUTER_API_KEY"):
+        if os.getenv("DEEPSEEK_API_KEY"):
             try:
                 from src.core.summarizer import Summarizer
                 summarizer = Summarizer()
             except Exception as e:
                 logger.warning(f"Summarizer 初始化失败，将跳过摘要生成: {e}")
         else:
-            logger.info("未设置 OPENROUTER_API_KEY，跳过 LLM 摘要生成")
+            logger.info("未设置 DEEPSEEK_API_KEY，跳过 LLM 摘要生成")
 
         logger.info("开始更新播客与剧集数据...")
         pids = [p['pid'] for p in podcasts if 'pid' in p]
