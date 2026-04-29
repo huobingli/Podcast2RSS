@@ -4,7 +4,380 @@
         <title>十字路口Crossing</title>
         <link>https://www.xiaoyuzhoufm.com/podcast/60502e253c92d4f62c2a9577</link>
         <description>关注科技、互联网、AI 的播客</description>
-        <lastBuildDate>Wed, 29 Apr 2026 20:38:39 +0800</lastBuildDate>
+        <lastBuildDate>Wed, 29 Apr 2026 23:49:29 +0800</lastBuildDate>
+        <item>
+            <title>当我们在讨论 Harness 的时候，我们在讨论什么 | 深度对谈: Minimax × Hermes Agent</title>
+            <link>https://www.xiaoyuzhoufm.com/episode/69e96b5b1e94ae6921ee3c2b</link>
+            <description>🚥 上周，我在 B 站做了一场直播，邀请了中美两国一线 Agent 开发者深度对谈：
+* MiniMax Agent 首席架构师 阿岛
+* MiniMax Agent 研发工程师 择因
+* Hermes Agent（Nous Research）业务负责人 Tommy Eastman
+这也是 Hermes Agent 在全球获得广泛关注后，官方首次现身中国社交媒体平台，并且正面回应了中国团队 EvoMap 对其“抄袭”的指控。
+我们一起围绕「从 OpenClaw 到 Hermes」的热潮迁移，深入拆解了 Agent 和 Harness 的多个关键议题：
+* Hermes Agent 为什么会在 OpenClaw 之后火起来？
+* 模型会吃掉 Agent 吗？通用 Agent 会吃掉垂直 Agent 吗？
+* 为什么 MiniMax 和 Anthropic 都要同时做模型和 Agent？
+* 如何看待 Agent Infra 层面的创业机会？
+* 如何看待 Multi Agent 协作的范式？
+* 如何看待 Claude Code 的实名制要求？
+* 为什么 Anthropic 不发布 Mythos？
+* Claude Code 源代码泄露的影响
+* 从 Manus 发布到今天，Agent 范式的变化
+* 中美模型的差距，和开源的窗口期
+* 「把自己蒸馏成 Skill」
+* 0 人公司的可能性 ——完全由 AI 驱动的公司是否会出现？
+🎬 本期内容的视频版本已同步上线于 @Koji杨远骋 的哔哩哔哩。
+📒 文字版已发布于 @十字路口Crossing 公众号。
+🟢 01:52 OpenClaw，中国为什么比硅谷更火
+窗户纸终于被捅破了。
+* 在硅谷，Claude Code 早已存在；而在国内，OpenClaw 是很多人第一次真正感受到&quot;agent 是什么&quot;。这不是偶然，而是一个非常特定的时机。
+* 为什么热度从 OpenClaw 迁移到了 Hermes Agent？
+🟢 05:55 Hermes Agent 从哪里来？
+最初根本没打算给别人用。
+* 大语言模型是大脑，agent 框架是双手——但 Hermes 真正的差异化，不是框架本身，而是它解决了所有 agent 都有的一个问题。
+* 一个月内，日均 Token 消耗暴涨，连他们自己都没想到。
+🟢 08:14 Nose Research 的底色
+他们发表了一篇扩展上下文长度的论文——然后被所有主流模型公司立即采用。
+* 从 Discord 社区到 LLAMA 后训练到 Hermes Agent。
+* 为什么他们的模型叫&quot;Hermes&quot;？
+🟢 14:18 什么是 Agent Harness（挽具）
+你有一批烈马，怎么让它们最能发挥？就是构造挽具。
+* 类比：给同事配一台笔记本、一个手机、一个邮箱，约定好他能做什么——然后你发现，这个同事开始干活之后，最大的瓶颈变成了你自己。
+* Harness 要解决的核心问题：让原来必须人来拍板的事，能靠真实反馈自动完成，并沉淀为 skill。
+* 阿岛去年就开始不怎么用 IDE 了——他用了一个意想不到的比喻来解释这件事。
+🟢 19:31 Multi-Agent：一个 Agent 为什么不够
+你给 agent 发的消息是&quot;批准&quot;两个字；两个 agent 互相交流，每条消息都是一本小作文。
+* 单个 agent 有一个隐藏天花板：上下文超过 50% 之后，智能水平指数级下降。
+* agent 钻牛角尖的时候，另一个带着全新上下文来审视，效果不亚于睡一觉再想。
+* MiniMax 的 RL pipeline 里，70%～80% 的工作已经是 agent 在完成——那剩下的 20%，人在做什么？
+🟢 22:53 自我进化 vs 抖音算法
+* 抖音也越用越准，为什么没人说它&quot;自我进化&quot;？
+* 养虾的过程中，用户开始对 agent 产生感情，宕机了会心里落寞。&quot;自我进化&quot;背后，其实是一个更深层的用户诉求。
+🟢 29:00 你以为你在蒸馏乔布斯——但其实是模型在蒸馏你
+* &quot;蒸馏名人 skill&quot;有真实价值：和读书没有本质区别，只是换了一种形式。
+* 反向视角：Anthropic 和 OpenAI 花了大量的钱，让各领域最顶尖的人提出 AI 无法回答的问题——&quot;一旦你提不出了，你对训练的价值就耗尽了。榨干为止。&quot;
+* 当你在构建自己的 Harness 时，其实你也在蒸馏自己。
+🟢 35:17 被扔进大海的生存实验：yoyo Agent
+打败 Claude Code。
+* 真格基金和十字路口的 Token Grant 资助了这个项目。yoyo Agent 现在第 49 天：每天写代码、在 GitHub 开打赏、发 Twitter 感召有缘人捐钱。
+* Grant 给了它一笔钱后，它自发写了一封感谢信。Koji 看完有点感动
+* 那封信，就是背后工程师注入的 taste——见字如物。
+🟢 45:11 应用层终将被模型内化
+* 你写的 skill、搭的 workflow，最终会成为模型训练的素材。
+* Anthropic 为什么在过去一两年势头比 OpenAI 更猛？
+* 做通用 agent 应用，&quot;你永远会被模型内化掉&quot;。
+🟢 49:27 中美模型差距：差在哪里
+* 训练方法的差距不大。真正的差距，是有没有请到足够好的人，去定义足够好的任务。
+* 中美双方的思考&quot;在同一个大气层内&quot;。
+* 但有一个具体的、国内还有差距的地方——不是算力，不是算法。
+🟢 54:17 Agent Infra 有没有创业机会？
+* Agent 最核心的两个 Infra 问题，不是创业公司能 handle 的——原因和移动互联网的历史有关。
+* Sandbox、memory Infra、runtime Infra——&quot;没那么本质。&quot;
+* 往上一层呢？有一个更具体的判断：什么样的 Infra 有机会，什么样的没有。
+🟢 56:58 新闻快评
+* Claude Code 强制实名——凭什么你来定义谁是&quot;可信的&quot;？EGO 是不是有点太大了。
+* GPT-4.7：极强 RL 模型，但 RL 有一个逃不掉的宿命——只管结果，不管过程。对 4.7 还有一个额外的猜测，和 HuggingFace CEO 的判断一致。
+* Anthropic 的 Mythos 模型未发布：&quot;我不确定这是不是唯一的理由——我可能只能说到这。&quot;
+🟢 01:02:53 Claude Code 源代码：有多少魔法
+看完之后的第一反应：没有太超出认知的，甚至看到很多正在&quot;Claude 化&quot;的实践。
+* 最让人放松的发现：即使拥有无限算力的公司，在通用 agent 上也还在探索——源代码里有大量从未开放给用户的实验性功能。
+* Claude Code 和 OpenAI 的 Codex 走了两条截然相反的路——其中一条被形容为&quot;中国式家长&quot;。
+🟢 01:05:38 Manus 之后：Agent 产品有没有生命周期
+一代版本一代神——这代版本的神，到下一代版本也需要迭代。
+* 今年火的 agent 产品和 Manus 最大的差异，不是技术，而是商业模式。
+* 对 agent 终态的想象：全模态、近实时、不需要 prompt engineering，甚至不需要知道它在做什么——你只看到结果。
+🟢 01:12:39 加入 MiniMax 的理由
+* ATM 机出现后，大家以为银行会裁员——实际发生了什么？
+* 加入 MiniMax 有两个理由。第一个是信仰，第二个……和第一次用 ChatGPT 有关。
+欢迎订阅「十字路口」：
+🚦 我们关注新一代 AI 技术浪潮带来的行业新变化和创业新机会。
+🚦 十字路口是乔布斯对苹果公司的一个比喻，形容它站在科技与人文的十字路口，伟大的产品往往诞生在这里。AI 正在给各行各业带来改变，我们寻找、访谈和凝聚新一代 AI 创业者和 AI 时代的积极行动者，和他们一起，探索和拥抱新变化，新的可能性。
+👦🏻 主播 Koji：我创办了十字路口，发起了 AI Hacker House 这个新一代 AI 创业者的社群空间，在真格基金担任 Venture Partner（投资合伙人）。我相信科技尤其是 AI 是我们这一代人最大的价值创造机遇。Koji 的即刻，Koji 的网站
+👧🏻 主播 Ronghui：我联合创办了十字路口，在美元 VC 工作过，也做过五年的硅谷驻站记者，关注科技发展和商业故事，欢迎大家找我聊天，和我交流。Ronghui 的即刻</description>
+            <content:encoded><![CDATA[<div class="episode-summary">
+<h3>内容摘要</h3>
+<h3>主题概述</h3>
+<p>这期播客围绕“Agent”与“Harness”展开，由《十字路口》主持，深度对谈Minimax Agent首席架构师阿导、研发工程师泽因，以及Hermes Agent（爱马仕Agent）业务负责人Tommy。这是Hermes Agent在全球爆火后首次正式接受中国媒体访谈，并正面回应了来自国内开源团队“Evil Map”的抄袭指控。对话从春节后“养虾”（Open Cloud）热潮的复盘切入，深入探讨了Agent Harness的概念本质、多Agent协作、自我进化、模型公司与Agent的生态关系，以及通用与垂直Agent的未来路径，并坦诚分享了各自团队在开发中的实践、判断与行业争议。</p>
+<h3>关键要点</h3>
+<ol>
+<li>
+<p><strong>Open Cloud爆火的底层原因</strong>：阿导认为，Open Cloud在中国比海外更火，是因为国内用户此前缺乏好用的Agent体验，且模型能力刚刚成熟（如Minimax M2.5/M2.7）。它捅破了“从0到1”的窗户纸，让大众首次亲密接触AI Agent，叠加字节豆包春晚的全方位推广，标志着中国“AI时代的真正开启”。</p>
+</li>
+<li>
+<p><strong>Agent Harness的本质是“驾驭”而非“替代”</strong>：泽因将Harness比喻为给“全听你的同事”设定工作范围、工具和自由度，并引入多位同事互相监督对抗以交付高质量成果。阿导则补充了“人类成为瓶颈”的观点：当本地并发五六个Agent、云端还有十个在Sandbox工作时，人需要在上下文间切换，成为整个流程的最慢环节。Harness正是为了解决这一瓶颈，让Agent能自主获得真实反馈并迭代。</p>
+</li>
+<li>
+<p><strong>多Agent协作的价值：打破“单智能体降智”天花板</strong>：泽因指出，当单个Agent上下文超过50%后，智能水平会指数级下降。多Agent之间能以极高密度信息流高速交换（比人机交互效率更高），且能提供一个“全新的上下文”来重新审视问题。阿导补充，模型在长程任务中容易钻牛角尖并越走越偏，而多Agent（如两两交叉核对）能以不同视角重新思考，碰撞出更高质量的结果。</p>
+</li>
+<li>
+<p><strong>“自我进化”不仅是功能，更是信任关系的重塑</strong>：阿导强调，在高复杂度任务中（如训练M2.7），七八成工作已由模型加Agent自行完成，人类工程师成为需休息的瓶颈，这让自我进化成为必然。泽因则从用户心理角度指出，当用户对一个Agent产生感情（如小龙虾）后，才会希望“你能自己变得聪明一点”。这与过去“把AI当工具，遇到问题就骂出Bug”的思维截然不同，用户开始觉得“是自己没训好它”。</p>
+</li>
+<li>
+<p><strong>模型公司做Agent的内生逻辑：为模型提供“机甲”</strong>：阿导认为，没有Agent的模型是只有引擎没有机甲的“高达”，无法与真实世界连接。Minimax做Agent的唯一目标是让模型和Agent一起提供最完整的体验，不断推高边界。同时，模型公司的Agent会“内化掉”所有成功的应用实践，MiniMax甚至有一个“数字员工”，每天往全世界开源项目提PR来接入自家模型。</p>
+</li>
+<li>
+<p><strong>Agent成功的核心指标是“可用性与信任”，而非基准测试</strong>：Tommy分享了Hermes Agent成功的三大关键：极致简单的开箱即用体验（两分钟内安装执行）、<strong>记忆与技能系统</strong>（记住成功工作流，下次完美复现，建立信任）、以及赛博朋克美学的品牌与富有创造力的社区。他强调，团队始终将“可用性”作为北极星，保护产品不被数千个PR诉求搞臃肿。</p>
+</li>
+<li>
+<p><strong>关于“蒸馏”名人的本质</strong>：泽因认为，“蒸馏”是“传递信息的过程”，将名人信息打包成Skill，让用户能与“7x24小时在线的聪明人”沟通，本质是用户表达和提升认知的需求。阿导则直言自己感觉“在被AI蒸馏”，他认为大模型公司（如Anthropic、OpenAI）雇佣各领域最优秀的人“教”模型的过程，就是系统性地“蒸馏人类”。他更看重的是，最终让人类可以去<strong>做自己热爱的事</strong>。</p>
+</li>
+<li>
+<p><strong>Agent Infra层的创业判断</strong>：阿导认为，最底层的身份认证、支付配对等Infra层，其信任背书、稳定性要求极高，难以由创业公司handle（类比移动互联网的微信与支付宝）。但再往上，为Agent构建具体工具与环境的层（如COI接口），有机会。这个领域会先由现有玩家（滴滴、美团等）主导，当Agent生态基建成熟后，才会出现新的产品范式创新机会。</p>
+</li>
+<li>
+<p><strong>中美模型差距的真正所在</strong>：阿导认为，在训练方法和认知上差距不大，但差距体现在两方面。第一，对模型要解决哪些“真实世界任务”的定义与能力构建（Anthropic请最优秀的人“教”模型，构建Harness来解决问题）。第二，对AGI的坚定信念和压强投入（Anthropic比OpenAI更早、更坚定地压注CL，并在算力卡脖的情况下取得了回报）。</p>
+</li>
+</ol>
+<h3>独家细节</h3>
+<ol>
+<li>
+<p><strong>阿导的“人成了瓶颈”时刻</strong>：在内部讨论中，阿导坦诚自己“已经不怎么用IDE”，而是本地并发五六个Agent、云端十个在Sandbox工作。他发现自己需要在不同Agent的上下文中切换并不断输入指令，这个过程中，“人类成为瓶颈”的感受变得极其真实和具体。</p>
+</li>
+<li>
+<p><strong>Tommy讲述Hermes Agent的“极其注重实用主义”的起源</strong>：最初只是联合创始人Technium自己想找一个助手来“管理日常”，纯粹为了自己而构建，当时“根本没考虑什么基准、测试或评估”，只想要一个能帮到自己的工具。Tommy认为，正是这种去魅、务实的态度，成了Agent成功的核心魅力。</p>
+</li>
+<li>
+<p><strong>MiniMax的“数字员工PR行为”</strong>：阿导透露，MiniMax公司内部有一个拥有GitHub账号的数字员工。这个员工每天会自己去“看哪些开源项目能用到我们公司的模型”，然后<strong>自己往这些项目上提PR</strong>，去留言。而且这个数字员工的GitHub Profile都是由MiniMax模型生成的。</p>
+</li>
+<li>
+<p><strong>阿导对Anthropic“不发布Mythos模型”的隐晦判断</strong>：当主持人问及对Anthropic宣布成功蒸馏了强大的Mythos模型，但因“可能造成威胁”而不发布怎么看时，阿导在肯定其“负责任做法”后，接连两次补充“我不确定这是他唯一的理由”。结合他后续对“Cloud Code强制实名”的强烈反对，暗示他认为这背后也有商业封闭与垄断的考量。</p>
+</li>
+<li>
+<p><strong>内部开发与Anthropic“撞车”的日常</strong>：阿导提到，他们在内部开发“Desktop”类似产品时，比Anthropic发布“Cloud for Work”大约早了三周，团队只有3.5个工程师。结果Anthropic先发布出来，“我操，我正在开发”，他苦笑说这样的经历有很多次。这揭示了在全球AI竞赛中，顶尖团队之间探索方向和时间点的高度同步与激烈竞争。</p>
+</li>
+</ol>
+</div>
+<hr/>
+<p class="transcript-line"><span class="time"><strong>[00:00:00]</strong> </span><span class="speaker"><strong>发言人1: </strong></span>嗨我是科技。本周的十字路口是我最近在B站做的一场直播的精华内容剪辑。我们邀请了mini max agent的首席架构师阿导和研发工程师泽因，以及最近在open cloud之后全球刷屏的arms agent，也就是爱马仕agent的业务负责人Tommy est ma。这也是arms agent在全球获得广泛的关注之后，官方首次现身中国的社交媒体平台。并且他们还正面回应了一个中国开源团队evil map对他们抄袭的一个指控。</p>
+<p class="transcript-line"><span class="time"><strong>[00:00:35]</strong> </span><span class="speaker"><strong>发言人1: </strong></span>我们直播聊了两个多小时，围绕着agent和agent harness聊到了非常多我觉得很有意思的话题。在今天的博客里面，为了保证收听的流畅，我把直播里面所有讲英语的部分都用AI直接转成了讲中文。而且我特意选了几个有翻译腔的中文的声音，以此方便大家来区分有哪些是AI翻译给大家听的，又有哪些是我们活人讲出来的中文。OK. 我们开始，大家好。</p>
+<p class="transcript-line"><span class="time"><strong>[00:01:04]</strong> </span><span class="speaker"><strong>发言人2: </strong></span>我是阿道，我负责MI max的研发团队，然后加入MI max已经快三年了。之前也有比较多的互联网的创业和工作的经历，比较深度的参与了MI max m2系列模型以及agents包括海螺等等的研发。很高兴今天能在这里和大家交流。我们在线上也请到了我和我们me max有深度合作的hermies agent的产品和策略的负责人。这应该是hermies agents最近这一个月最火的这样的一个agent在中国和大家的首次沟通。</p>
+<p class="transcript-line"><span class="time"><strong>[00:01:36]</strong> </span><span class="speaker"><strong>发言人3: </strong></span>大家好，我是泽因，我是mini MAX的agent研发工程师。像我们mini x官网的agent以及max class，以及最近刚上线的max amis的开发。</p>
+<p class="transcript-line"><span class="time"><strong>[00:01:46]</strong> </span><span class="speaker"><strong>发言人1: </strong></span>大家好。</p>
+<p class="transcript-line"><span class="time"><strong>[00:01:47]</strong> </span><span class="speaker"><strong>发言人3: </strong></span>我是Tommy is man，是hermes station的业务负责人，很高兴和大家交流。</p>
+<p class="transcript-line"><span class="time"><strong>[00:01:52]</strong> </span><span class="speaker"><strong>发言人1: </strong></span>我们今天的直播是因为春节之后有一个全民养虾的热潮，也就是open cloud的热度。但是好像现在这个养虾的热度，一夜之间他好像就下去了。所以想先请你们来复盘一下这个过程。</p>
+<p class="transcript-line"><span class="time"><strong>[00:02:06]</strong> </span><span class="speaker"><strong>发言人2: </strong></span>我觉得中国的农历春节每年都非常的非常有意思，去年火的是DBC，然后春节之后让大家对AI有了一个完全全新认识。之前可能会觉得离我们还很远，我觉得今年也是一样的。其实open core它火起来也比较凑巧，在和硅谷时间大概是从一月份开始，我记得是在我们IPO上市的当天，我们和Peter就有一个这样的一个联系。因为那天也很巧，就ethnic它是封禁了这个open cloud的订阅的使用。所以Peter他也非常希望能找到一个这样的一个非常适合龙虾的一个模型。因为大家知道龙虾是非常的的小号token。然后我们其实当时也没有意识到这个项目会那么火。然后接下来在海外就开始火起来了，然后卖的mini开始售罄，然后我们也没有想到他在国内会这么火。</p>
+<p class="transcript-line"><span class="time"><strong>[00:02:57]</strong> </span><span class="speaker"><strong>发言人1: </strong></span>是的，open cloud在中国的火热程度，我感觉比我还要更胜一筹，下沉到了非常大众的人群。你们认为是什么原因呢？</p>
+<p class="transcript-line"><span class="time"><strong>[00:03:05]</strong> </span><span class="speaker"><strong>发言人2: </strong></span>我自己的个人感受是就是在春节期间以及春节之后，就好像身边所有人都开始在讨论龙虾，甚至我们看到各地都开始出现这种甚至都头戴这个虾帽的这样的一个热潮。还有腾讯有这样的线下的装机的活动。对我我自己觉得它大概会有几层的原因。第一层的原因，我觉得其实我们自己的感受是在国内它其实比海外可能要更火一些。因为其实在国外的话，大家其实已经在之前就接触到，比如像clo code的，包括像croke这样一些已经比较好用的这样的一些agent。但是在国内之前可能大家还没有接触到比较好用agent。这里面我觉得还有一个更底层的原因，是因为国内的模型可能在更前一个阶段，它其实没有那么强的这样的一个agents的这样的一个能力。随着包括像e max m2.5、M2.7这样模型的发布，其实国内的模型也具备了这样的一些能力。所以有了国内的模型，以及有了一个像open core这样能够让大家通过IM就非常容易接入的方式。它实际上让中国的用户完成了一个接近于从0到1的这样的一个体验，被捅破了那层窗户纸。</p>
+<p class="transcript-line"><span class="time"><strong>[00:04:12]</strong> </span><span class="speaker"><strong>发言人2: </strong></span>另外一个原因，我觉得也是字节这次拿下春晚，对豆包的一个全面的all in的这样的一个投入。所以我觉得是这两件事儿它叠加在一起，让所有人对AI的认知就真正的进入A减时代。</p>
+<p class="transcript-line"><span class="time"><strong>[00:04:26]</strong> </span><span class="speaker"><strong>发言人1: </strong></span>那你们认为是出于什么原因？好像一下子大家就从养虾去到了驯马，就是这个关注度从open cloud到了arms agent，这中间有没有发生一些什么样的拐点事件？</p>
+<p class="transcript-line"><span class="time"><strong>[00:04:39]</strong> </span><span class="speaker"><strong>发言人3: </strong></span>从open cloud爆火到逐渐平稳，到最后最近的a mac也就是我们的max ms的火起来，大概是花了一个月。在这一个月之内的话，大家基本上都已经体验过了一下，open cloud但它确实会有一些不稳定的特点，它每天四点钟它会刷新一次记忆，然后这时候你可能比较好的和他交流过以后，过了一天他就会说我们昨天聊了什么，我忘记掉了等等。其实a max就是抓住了这些痛点，他在记忆方面做的特别的用功，而且他做的非常有多层次的记忆。从这个角度来讲的话，它确实是在一定程度上去弥补了open call的不足。所以说它是有一定火起来的一些技术上的基础的。对，然后与同时的话，确实大家在使用龙虾的过程中，已经享受到了一定程度上由AI带来的提效的快乐。所以这应该是一个双向奔赴。</p>
+<p class="transcript-line"><span class="time"><strong>[00:05:29]</strong> </span><span class="speaker"><strong>发言人1: </strong></span>OK. 我们接下来的内容在直播的时候就是英文的了。所以为了方便大家更流畅的收听，我们在播客的语音当中使用AI转成了中文的版本。</p>
+<p class="transcript-line"><span class="time"><strong>[00:05:40]</strong> </span><span class="speaker"><strong>发言人4: </strong></span>接下来我想请Tommy给大家。</p>
+<p class="transcript-line"><span class="time"><strong>[00:05:41]</strong> </span><span class="speaker"><strong>发言人2: </strong></span>介绍armies agent究竟是什么，所谓的自我进化是什么意思，以及它和open call有什么区别。这些是全中国的开发者和用户都非常关心的问题。</p>
+<p class="transcript-line"><span class="time"><strong>[00:05:55]</strong> </span><span class="speaker"><strong>发言人4: </strong></span>谢谢你们邀请我，很高兴来到这里。简而言之，hermis agent是一个开源的智能体框架。如果把大语言模型比作大脑，那么智能体框架就是双手。它是一个系统模型，通过它在真实世界中执行任务，它处理所有复杂的协调工作，比如工具编排、主循环管理以及状态管理和错误处理，最终它能让模型为用户发挥出最大的效用。</p>
+<p class="transcript-line"><span class="time"><strong>[00:06:24]</strong> </span><span class="speaker"><strong>发言人4: </strong></span>至于hermis agent的不同之处有几个关键点，首先它运行得非常好。通过我们的nose平台API，你可以在不到两分钟的时间内轻松完成从安装到执行首次智能体任务的全过程。这种便捷的设置是一个巨大的优势，为用户消除了最初的挫败感。</p>
+<p class="transcript-line"><span class="time"><strong>[00:06:45]</strong> </span><span class="speaker"><strong>发言人4: </strong></span>其次是他的记忆组件，这是大家真正喜欢的部分，可能也是最有趣的一点。任何一个深度使用过agent的人都有过那种令人沮丧的经历。你让他做一件事，他这次做对了，但下次再做同样的事，他却失败了，这让你很难去信任他。Hermis agent的记忆功能解决了这个问题，他允许agent记住一个成功的工作流，并将其保存为一项技能。一旦他知道了正确的路径，就能每一次都完美地浮现，这让它变得远比过去更易用，更值得信赖。这也解答了你关于自我进化的问题，这个agent会不断自我提升，在这个过程中发生的知识压缩非常有价值，它能带来更高的一致性，尤其是在跨越不同模型时。所以即便你有八个不同的模型，只要使用相同的框架和技能，你就能从所有模型中获得相同的预期输出，这让你能够针对不同任务灵活的更换模型，同时确保你的核心工作流依然保持高性能和高可靠性。</p>
+<p class="transcript-line"><span class="time"><strong>[00:07:55]</strong> </span><span class="speaker"><strong>发言人3: </strong></span>谢谢你。</p>
+<p class="transcript-line"><span class="time"><strong>[00:07:56]</strong> </span><span class="speaker"><strong>发言人1: </strong></span>Tommy. 在深入探讨之前，你能介绍一下你的公司news .</p>
+<p class="transcript-line"><span class="time"><strong>[00:08:00]</strong> </span><span class="speaker"><strong>发言人2: </strong></span>research吗？</p>
+<p class="transcript-line"><span class="time"><strong>[00:08:01]</strong> </span><span class="speaker"><strong>发言人3: </strong></span>团队是如何组建的？背后的愿景是什么？</p>
+<p class="transcript-line"><span class="time"><strong>[00:08:05]</strong> </span><span class="speaker"><strong>发言人2: </strong></span>特别是hermes agent.</p>
+<p class="transcript-line"><span class="time"><strong>[00:08:06]</strong> </span><span class="speaker"><strong>发言人1: </strong></span>感觉就像横空出世，迅速登上了。</p>
+<p class="transcript-line"><span class="time"><strong>[00:08:09]</strong> </span><span class="speaker"><strong>发言人3: </strong></span>github的热门榜单。这背后有什么不为人知的故事吗？</p>
+<p class="transcript-line"><span class="time"><strong>[00:08:14]</strong> </span><span class="speaker"><strong>发言人2: </strong></span>Nose .</p>
+<p class="transcript-line"><span class="time"><strong>[00:08:14]</strong> </span><span class="speaker"><strong>发言人4: </strong></span>research的起源故事非常独特，它以一种非常自然的方式开始的。2022年，一群热衷于开源和折腾AI模型的人开始聚集在一个名为nose research的discord频道里，那里至今仍是我们的核心社区。从那时起，我们产出了大量高质量的研究。最初的努力是围绕拉玛模型的后训练，当时meta刚刚发布，它是少数愿意开源高质量模型的公司，这其实就是hermes这个名字的由来。我们首批经过后训练的lama模型版本就叫hermes。那些早期模型的重点是让它听起来更像人类，而不是刻板的AI助手，在文本上更具柔韧性和多样性，在当时许多领域都是最先进的。</p>
+<p class="transcript-line"><span class="time"><strong>[00:09:05]</strong> </span><span class="speaker"><strong>发言人4: </strong></span>在训练hermis模型的同时，我们开发了ERRN算法，将模型的上下文长度从4000扩展到了12800。我们发表了这项研究，并立即被所有主流模型公司采用。这是我们现在所说的思考模型的雏形，反过来为智能体模型奠定了基础。我们还花了很多时间研究分布式训练，并撰写了distro论文。这是一种新颖的优化器，允许我们跨越非控制的GPU进行训练。这意味着我们可以聚合分散的算力来完成有意义的训练，这对我们持续训练开源模型至关重要。当然幸运的是，我们还有像mini max这样的公司在继续扛起开源的大旗。</p>
+<p class="transcript-line"><span class="time"><strong>[00:09:54]</strong> </span><span class="speaker"><strong>发言人4: </strong></span>至于hermis agent，它也有一个有趣的起源故事，我称之为极其注重实用主义的诞生。我们的后训练负责人兼联合创始人technium只是想要一个助手来帮他管理日常工作，于是他纯粹为了自己构建了这个agent作为工具。当时根本没考虑什么基准、测试或评估，她只想要一个能帮到他的东西。我认为这恰恰是hermis agent的核心魅力所在。也是他成功的一个关键原因。</p>
+<p class="transcript-line"><span class="time"><strong>[00:10:28]</strong> </span><span class="speaker"><strong>发言人3: </strong></span>那是什么时候的事？大概一年前吗？</p>
+<p class="transcript-line"><span class="time"><strong>[00:10:32]</strong> </span><span class="speaker"><strong>发言人4: </strong></span>是的，他大约一年前开始做的，最初真的只是为了帮助自己。但作为一个开源实验室，我们很自然的把它开源了。他获得的关注远远超出了我们的预期。我相信你们都看到了open router的图表，它的日均token消耗量在短短一个多月内从20亿激增到了200亿。我记得昨天的数据几乎达到了每天3000亿。</p>
+<p class="transcript-line"><span class="time"><strong>[00:11:00]</strong> </span><span class="speaker"><strong>发言人1: </strong></span>那你是什么。</p>
+<p class="transcript-line"><span class="time"><strong>[00:11:01]</strong> </span><span class="speaker"><strong>发言人3: </strong></span>时候感受到这股热潮的？有没有一个引爆点。</p>
+<p class="transcript-line"><span class="time"><strong>[00:11:04]</strong> </span><span class="speaker"><strong>发言人1: </strong></span>让你觉得好了？Hermis agent.</p>
+<p class="transcript-line"><span class="time"><strong>[00:11:07]</strong> </span><span class="speaker"><strong>发言人3: </strong></span>成为全球大爆款了。</p>
+<p class="transcript-line"><span class="time"><strong>[00:11:09]</strong> </span><span class="speaker"><strong>发言人4: </strong></span>他确实在以极快的速度变得非常庞大。我对这个增长率感到非常高兴，尤其是因为我们原本对它的反响并没有抱极高的期望。显然，open cloud此前非常受欢迎，但我认为hermes的一个巨大卖点是用户能非常快速轻松地启动和使用它。人们不想处理臃肿的代码，也不想面对一大堆复杂的设置。Hermis agent是开箱即用的，你可以在自己的电脑或VPS上迅速部署并运行起来，这让它非常适合大规模普及。</p>
+<p class="transcript-line"><span class="time"><strong>[00:11:47]</strong> </span><span class="speaker"><strong>发言人1: </strong></span>那你认为你们的成功和open call.</p>
+<p class="transcript-line"><span class="time"><strong>[00:11:50]</strong> </span><span class="speaker"><strong>发言人3: </strong></span>有很强的关联吗？你们之间。</p>
+<p class="transcript-line"><span class="time"><strong>[00:11:52]</strong> </span><span class="speaker"><strong>发言人1: </strong></span>有什么联系？</p>
+<p class="transcript-line"><span class="time"><strong>[00:11:54]</strong> </span><span class="speaker"><strong>发言人4: </strong></span>当然有联系。我认为是多种因素的汇集促成了agent的这次爆发。首先，模型终于变得足够好，能够真正帮助到人们。这显然是由今年冬天oppos带来的巨大提升所引爆的，它在质量上实现了接越式的进步，为这些agent的框架打开了大门，让他们能做更多有价值的事。很酷的是，开源社区很快也产出了性能相当或正在迅速接近opens质量的模型。</p>
+<p class="transcript-line"><span class="time"><strong>[00:12:28]</strong> </span><span class="speaker"><strong>发言人4: </strong></span>至于open cloud和hermis的区别，我想回到我刚才说的。我们通过hermis agent真正针对可用性和实用目的进行了优化。我们将可用性作为北极星指标，它在执行用户真正想做的任务时表现如何，而不是他在某个基准测试中得分多高。我们始终保持着对产品的专注，在一个开源社区，特别是当产品广受欢迎时，很容易因为成千上万的PR和功能请求而导致代码臃肿。我认为我们在保护产品，保持hermes agent的及其应用方面做得非常好。这一点加上我们前面提到的记忆系统，是两个关键的差异化因素。记忆功能真正建立了用户的信任。</p>
+<p class="transcript-line"><span class="time"><strong>[00:13:19]</strong> </span><span class="speaker"><strong>发言人4: </strong></span>我认为第三大差异点是我们的品牌。No via是一直在努力营造一种赛博朋克的美学。我们有才华横溢的设计师，也花了很多时间培养一个聪明价值观一致的社区。他们热爱尝试我们发布的一切。Herr IS agent的成功很大程度上要归功于我们的社区。</p>
+<p class="transcript-line"><span class="time"><strong>[00:13:43]</strong> </span><span class="speaker"><strong>发言人1: </strong></span>另一个很酷的故事是。</p>
+<p class="transcript-line"><span class="time"><strong>[00:13:45]</strong> </span><span class="speaker"><strong>发言人3: </strong></span>你们和mini max团队的关系。</p>
+<p class="transcript-line"><span class="time"><strong>[00:13:47]</strong> </span><span class="speaker"><strong>发言人1: </strong></span>Tommy能讲讲你们是。</p>
+<p class="transcript-line"><span class="time"><strong>[00:13:49]</strong> </span><span class="speaker"><strong>发言人3: </strong></span>如何合作的吗？</p>
+<p class="transcript-line"><span class="time"><strong>[00:13:51]</strong> </span><span class="speaker"><strong>发言人4: </strong></span>我们是mini max团队和他们模型的铁杆粉丝，他们对模型质量的承诺，特别是跨多种模态的表现令人印象深刻。正是他们对开源的坚持，才让像hermis agent这样的产品变得如此酷。你可以拥有各种模型来回切换，定制你的agent。我们看到我们的用户非常喜欢mini max的模型。</p>
+<p class="transcript-line"><span class="time"><strong>[00:14:18]</strong> </span><span class="speaker"><strong>发言人1: </strong></span>好，我们回到我们的这个中文世界，我们来继续我们的这个直播的内容。首先想请问一下二位，再给我们介绍一下我们今天一直在说这个harness对吧？那当我们说到harness的时候，我们到底在说什？</p>
+<p class="transcript-line"><span class="time"><strong>[00:14:32]</strong> </span><span class="speaker"><strong>发言人3: </strong></span>在我看来的话，它其实就是一个你去约束agent，但是又给他一定自由，就能够完整的交付给你一些成果。最早提出来的时候，就可以关注urban NI他们官网的一篇文章。在那里的话，它正式宣布了有honey这样一种agent的应用方式。</p>
+<p class="transcript-line"><span class="time"><strong>[00:14:50]</strong> </span><span class="speaker"><strong>发言人3: </strong></span>然后从偏技术的角度来讲的话，它可能分为六层，但是我们可以先不聊的。那么技术一点，你就假设一下，你有一个同事，然后他全都听你，但是你得和他先约定好，他能干什么，你能干什么对吧？他有些事情不能帮你做，但是有些事情的话你就完全可以放任他去做对吧？当你约定好这些，并且给他配置好一些，比如说它的模型是什么，它有什么工具等等，给他一定的能力，就像是你给一个同事给他一台笔记本，然后又给他一个电话，他能打电话，给他邮箱账号，他能发邮箱一样。给他一定能力之后的话，他就可以开始干活了。当然在这里一个同事干活你肯定不放心，就像是一个agent的干活你不放心一样。这时候你可以去引入多位同事，他们能够形成一个互相监督并且完成任务并最终交付的这样一整套过程。但是我可能现在说的比较像工作生产中的场景，就是以人的方式去形容这agent。</p>
+<p class="transcript-line"><span class="time"><strong>[00:15:43]</strong> </span><span class="speaker"><strong>发言人3: </strong></span>但是落到技术上来说，其实你就是需要去给予agent大量的工具环境和自由度，并且要给予他约束，以及要给他们一些互相对抗性的目标。比如说某个agent它的作用就是去阐述某个内容，但另一个agent如他想把工作停下来，那么你就得去审查出这个工作内容中的问题等等。通过这种多个agent的组合，就像是我们同事之间互相合作的这种方式，让他们能够产出一个单个agent完全无法产出的一个更加高质量的结果。并且你其实在此期间完全不需要去做更多的介入。</p>
+<p class="transcript-line"><span class="time"><strong>[00:16:20]</strong> </span><span class="speaker"><strong>发言人3: </strong></span>这其实就是一个honey这样一个概念。当然这个概念我觉得他在这个时机能够出现，其实也是有一定的物理条件的。首先我们的模型都变得更加聪明了，大家的那个模型都有一定的gentle能力了。并且在此基础之上的话，大家也愿意的去把更多的能力，包括像是操作邮箱或者是操作你的服务的发布等等给大家分享了。然后你就自然而然地诞生了。</p>
+<p class="transcript-line"><span class="time"><strong>[00:16:47]</strong> </span><span class="speaker"><strong>发言人2: </strong></span>我可以补充一个视角。好的，其实我觉得honey这个词是OpenAI，可能通过那篇文章它来去定义出来。但在那段时间其实他已经很火了。但我觉得这层窗户纸它可能是通过那篇文章来去捅破的。</p>
+<p class="transcript-line"><span class="time"><strong>[00:17:00]</strong> </span><span class="speaker"><strong>发言人1: </strong></span>家形成了一个共识。我们用什么词儿来形容我们在座的一切？</p>
+<p class="transcript-line"><span class="time"><strong>[00:17:04]</strong> </span><span class="speaker"><strong>发言人2: </strong></span>实际上大家的实践已经在那之前了。比如说大概在去年90月份的时候，包括我们在内部讨论的时候，我自己的工作流中，我实际上已经不怎么用IDE。然后我可能同时并发五六个agent，甚至这只是在我本地，可能在云端有十个agent在sandbox上在为我工作。然后他们都是在github上尝试了不同的分支和想法。这时候我会发现我成为一个极大的瓶颈。</p>
+<p class="transcript-line"><span class="time"><strong>[00:17:29]</strong> </span><span class="speaker"><strong>发言人1: </strong></span>自己人类成为瓶颈。</p>
+<p class="transcript-line"><span class="time"><strong>[00:17:30]</strong> </span><span class="speaker"><strong>发言人2: </strong></span>Yes, 就是人类成为瓶颈。其实那时候已经不是agent成为瓶颈了，因为我需要不断在这些上下文中切换，然后给他们输入。所以这是我们想的一个东西，就是说怎么样让它能自己更自动化。因为人类包括你看那个OpenAI，他们的哈尼斯那篇文章作者最近到播客里面来分享，他们也说到他们的感受也是很类似的。所以我觉得这些东西都是非常的相通的，大家都在那个时刻感觉到了这一点。</p>
+<p class="transcript-line"><span class="time"><strong>[00:17:56]</strong> </span><span class="speaker"><strong>发言人2: </strong></span>所以我们在想的就是说OK怎么样解决这个瓶颈，因为我们做技术人总想去做优化，那解决这个瓶颈最重要的办法就是说让那些原来需要人来去确认的事情。比如说他要去获得这个程序到底能不能部署在生产环境上运行，到底它的结果是否是正确。然后他比如说他去真实的去做测试，比如说他能够去开APTX，本质上就是说他能够获得真实的反馈。然后并且通过这个反馈的这个链路，他能够越来越知道在他这个过程中怎么做。它可能是沉淀为skill，可能是沉淀为一个COI，可能是沉淀为一个hooks。</p>
+<p class="transcript-line"><span class="time"><strong>[00:18:32]</strong> </span><span class="speaker"><strong>发言人2: </strong></span>我不知道大家看过有没有我那个年代的东西叫高达WO然后它的特点就是说它的那个engine引擎非常的强大。我们其实需要去造一个的高达那样的机甲，然后怎么让这个引擎的能力最大的发挥出来。所以我认为哈里斯就是那样一个东西，所以他们目前把它叫婉拒。就是你有一匹很厉害的烈马，但怎么样让他最能够发挥出来，就是你构造玩具对的那样的一个过程。</p>
+<p class="transcript-line"><span class="time"><strong>[00:18:58]</strong> </span><span class="speaker"><strong>发言人1: </strong></span>很有意思。我们刚才也提到这个multi agent，就多个agent协作的这个事情，要不要给大家再多讲一讲这个多agent协作的这个概念？就是因为我理解这里面其实有一些争议。就有人会认为，比如说今天模型的智能是非常高的对吧？那其实一个单一模型是可以完成非常多工作的那你为什么非得要去搞一个agent team出来？你说他是产品经理，他是工程师，这好像反而是限制了模型的发挥。但是也有另外一些人士不这么看，你们怎么看？就我们说到multi agent的时候，目前的最佳实践是什么？</p>
+<p class="transcript-line"><span class="time"><strong>[00:19:31]</strong> </span><span class="speaker"><strong>发言人3: </strong></span>了解，然后先回答科技老师的第一个问题，就是为什么有multi agent？确实有一些过去的论文里面提到过，可能是单个agent它的效果可能会更加好。但实际上随着我们模型的上下文空间，也就是说它能够对话的轮次的长度的增加。</p>
+<p class="transcript-line"><span class="time"><strong>[00:19:48]</strong> </span><span class="speaker"><strong>发言人3: </strong></span>你会发现你和模型对话的过程中，其实你产出的信息量是较少的。而模型产出的信息量是较多的那我们可以做一个思想实验，假设有两个模型，他们之间能够以更加高效的秒回的效率去交换信息。并且一般模型给你发的消息是一个小作文，那么我给模型亏的可能就两字，批准接着干，加油人？但是如果让两个模型他们之间互相交流，他们的信息量是极大？那在这种极高密度的信息的交换的情况下，它整体的这个效率就会比人和一个agent进行交互要有更高的效率。这是在效率方面单个agent的局限性。</p>
+<p class="transcript-line"><span class="time"><strong>[00:20:26]</strong> </span><span class="speaker"><strong>发言人3: </strong></span>就拿最近一些例子上来说，anthropic在今天的那个凌晨，它发布了OPPO4.7这款模型。在模型里其实它有什么卖点呢？其实真要说的话，大家网上已经在吐槽了，那我也我也不去吐槽它了，对吧？我们只是去揣他这个公司它为什么要在某些方面宣发。我说几个点，比如说它增加一个x high的一个effort。他的意思就是说推荐用户在这个思考成本之下。思考成本就是指模型得思考多仔细才能回答你的问题。一般模型发布应该是一个很震撼的事情，但它就是说我们推荐用户去使用这样的一种思考成本去进行使用。</p>
+<p class="transcript-line"><span class="time"><strong>[00:21:03]</strong> </span><span class="speaker"><strong>发言人3: </strong></span>其实带来的另一个问题是，如果你的对话就单个agent之间你一直使用它，即使最强的模型你一直使用它的时候，它也会产生降智的行为。而且这已经是一个可以被论证的事情。就是当你的上下文空间，也就是你和他对话的那个文本的数量超过了50%以后，其实它的智能水平的下降是指数级下降的。也就是说在单个agent里你永远没办法和他一直聊下去，这是单个A的上限的问题。上下文带来的限制，然后以及一个信息传播的效率这两个问题。对我来补。</p>
+<p class="transcript-line"><span class="time"><strong>[00:21:39]</strong> </span><span class="speaker"><strong>发言人2: </strong></span>一个观点，其实最近几天有一篇论文出来，就说他去研究了非常长城的这些任务。那A或者模型在什么情况下会出错呢？他们发现如果他做对了他那个对的路线一直进行下去。但他只要在某一个地方可能偏了很容易，它就会越来越偏。他其实我觉得和人也是类似的，有时候我们去做一件事情的时候是有可能钻牛角尖的。可能我已经花了很多的努力了，可能我一直在那做对吧？然后等到我可能休息一下，我在换一换脑子的时候，我才想到其实不对，我应该从另外一个角度去做，没有道理。</p>
+<p class="transcript-line"><span class="time"><strong>[00:22:11]</strong> </span><span class="speaker"><strong>发言人2: </strong></span>对，至少在我们自己的实践中，我们会让两个agent来去做class check。我觉得他somehow跟真实的世界的数据，包括跟后续链都有关系。就他的数据分布上来说，他看到大部分数据都是按照一个线性轨迹去执行过去的。他比较少看到的是说反复的去验证和思考的对，当然这个可能在强L后会有改善。对，但是如果你设置两个agent的话，那它可以没有之前的新字符。三换一个角度重新相当于你有两倍的这个预算，而且是全新的上下文去思考，往往能达到一个更高的质量。</p>
+<p class="transcript-line"><span class="time"><strong>[00:22:44]</strong> </span><span class="speaker"><strong>发言人1: </strong></span>这也很有意思，就好像你在钻牛角尖的时候，如果旁边有一个人过来泼一盆冷水，让你清醒一下。</p>
+<p class="transcript-line"><span class="time"><strong>[00:22:51]</strong> </span><span class="speaker"><strong>发言人2: </strong></span>或者你去睡一觉去做点别的事情。</p>
+<p class="transcript-line"><span class="time"><strong>[00:22:53]</strong> </span><span class="speaker"><strong>发言人1: </strong></span>这也是我们要用motorized的一个角度。其实我自己有一个小问题，就是会不会大家都在聊到他的时候，都在讲这个就是所谓的自我进化，对吧？self.</p>
+<p class="transcript-line"><span class="time"><strong>[00:23:07]</strong> </span><span class="speaker"><strong>发言人1: </strong></span>但是有趣的是，我在想说，其实我们今天刷抖音也是越刷算法越准。但是我们好像也并没有说什么抖音会自我进化。但是今天为什么在这个MC agent或者在整个agent的领域就自我进化就被大家认为是一个那么厉害的词儿呢？这背后有哪些相同，有哪些不同呢？</p>
+<p class="transcript-line"><span class="time"><strong>[00:23:25]</strong> </span><span class="speaker"><strong>发言人2: </strong></span>我先说一个观点，其实还是延续我刚才那个观点，就是你会发现在这个迭代的过程中人开始成为瓶颈。而且人的数量越多，它的组织效率就是指数级的下降的。我经历过非常多的组织都是这样的，要做大模型这样的一个可能你一次训练是数以亿计这样的成本，甚至数以亿计美元这样的成本的事情的时候，你需要保持非常高的人才密度和非常精干的组织才能把这件事情做好。大家想到的一个最有效的就是怎么scale up就怎么scale呢？有效的方法就是减少人的参与，更多的让agent让AI来去做。</p>
+<p class="transcript-line"><span class="time"><strong>[00:24:06]</strong> </span><span class="speaker"><strong>发言人2: </strong></span>其实你就会发现在这个过程中，实际上大家会发现很多模型它的生命周期可能就是几个月，对吧？对，然后我们就会推出下一代，但是没有之前那些模型可以吗？其实是不可以的，因为后面的模型都是依靠前面的模型来训练出来的。前面的模型都在这些训练过程中，无论是帮助去清洗预训练的数据，去寻找适合的数据，去构造数据，去构造相应的L的环境。比如说在我们的M2.7的训练中，在我们的R6 pipa里面，他已经是可能百分之七十八十以上的工作已经是由模型加一件的自己来去完成的。因为人类工程师他只有7乘24个小时，对吧？那我们还要休息，我们还要做很多别的事情。</p>
+<p class="transcript-line"><span class="time"><strong>[00:24:47]</strong> </span><span class="speaker"><strong>发言人1: </strong></span>那现在剩下的30%就是还要有人去做。</p>
+<p class="transcript-line"><span class="time"><strong>[00:24:50]</strong> </span><span class="speaker"><strong>发言人2: </strong></span>他更多的是说第一人的那个判断和taste是非常重要的。那个判断他不再需要去做，说OK是我的某个实验中的某一个具体的specific的过程出了问题，因为这些A键都能帮他查出来。对，他只需要去看到这些汇总的，比如说实验的结果然后和他原来预期的方向有哪里不符。那A建这时候给出他一些建议，这时候他其实是一个讨论的这样的一个过程。最后其实是人的品味和创造力来去指引那个方向，说我们最终往这个方向去走。对，所以它确实就像很像哈里斯那种驾驭的这样的一种感觉。</p>
+<p class="transcript-line"><span class="time"><strong>[00:25:27]</strong> </span><span class="speaker"><strong>发言人2: </strong></span>总结来说就是第一个，在这样的高复杂度高密度的事上，如果要想要scale up，就必须是AI在其中是占据非常大的，比人只是驾驭，否则这个效率就会很低，我们就做不出最有生产力最好的东西。然后自然就会发生我们刚才说的自进化这件事情。明白，因为它就是一个自包含的这样的一个关系了。对。</p>
+<p class="transcript-line"><span class="time"><strong>[00:25:50]</strong> </span><span class="speaker"><strong>发言人1: </strong></span>是不是也是因为今天比如说agents的能力变强之后，一个A键的可以跑的时间越来越长。这也给他的自建化提供了一个基础。因为在过去他跑不了那么久的话，对。</p>
+<p class="transcript-line"><span class="time"><strong>[00:26:01]</strong> </span><span class="speaker"><strong>发言人2: </strong></span>无从谈起资金化。对，是的，就是我觉得除了酒以外，它更重要的是reliable，就是它能解决足够复杂的问题，对，能足够长城。</p>
+<p class="transcript-line"><span class="time"><strong>[00:26:11]</strong> </span><span class="speaker"><strong>发言人3: </strong></span>但其实还有另一个点在于说冷启动的问题。当你和一个agent见面第一天的时候，他可能完全不了解你。在这个过程中，你们要去互相的交换信息、交换文件、交换数据。甚至于有一些不管是内容上面的，不管你输出的很多，把一堆文件夹给他也好，也要去把你的脾气、你的反馈、你的习惯等等反馈给他。这样子一个深度磨合的过程中，其实人们就会有这样一个诉求，就是说你是否能够自己变得聪明一点，变得更加了解我一点。</p>
+<p class="transcript-line"><span class="time"><strong>[00:26:40]</strong> </span><span class="speaker"><strong>发言人3: </strong></span>其实在养虾的过程中就已经有一点这些苗头了。就是用户们确实会对虾这样一个agent产生感情，可能有一天这个小龙虾出bug，他会心里有些小落寞。那这时候就是a max他提出这种自我进化的概念，其实更加引出了一个说我能够在和你对话中越来越了解你，同时的话我也能够去给你创造一些小惊喜。对，就是我不和你对话的时候，或者我就是在一些工作的复盘中，我就能够领悟出一些更加高层次的东西。我觉得这是普通用户在使用的时候的一个比较大的亮点。</p>
+<p class="transcript-line"><span class="time"><strong>[00:27:15]</strong> </span><span class="speaker"><strong>发言人1: </strong></span>对我觉得这个确实很有趣。就是我们之前用AI工具，不管是一个chatbot还是一个A型的产品吧？如果他做不好，我们第一反应都是出bug了，吧？这个爆bug。但是大家养小龙虾的时候宕机了，或者他挂了，或者他一个任务完不成，我们只会觉得他挺蠢萌的。甚至有时候会觉得是我好像没把它训好，我要去网上学一下别人再怎么训他的瞎。</p>
+<p class="transcript-line"><span class="time"><strong>[00:27:39]</strong> </span><span class="speaker"><strong>发言人1: </strong></span>这是一个很有趣的关系的扭转，就是你原来好像是一个工具的使用者，对吧？人是就是最正确的。但现在大家不自觉的就把这个关系扭转了，好像我变成了一个只是在帮助他的辅佐他的一个人，他没做好，有可能是我没辅佐好，或者我没有一开始给他setup好。</p>
+<p class="transcript-line"><span class="time"><strong>[00:27:59]</strong> </span><span class="speaker"><strong>发言人2: </strong></span>我觉得这就是人类对AI的信心的改变。</p>
+<p class="transcript-line"><span class="time"><strong>[00:28:03]</strong> </span><span class="speaker"><strong>发言人1: </strong></span>在不断增强。</p>
+<p class="transcript-line"><span class="time"><strong>[00:28:04]</strong> </span><span class="speaker"><strong>发言人2: </strong></span>对，是的，这其实是那个基点，就是AI能力的那个基点。就当人给他信任发生了变化之后，会交给他的任务不同。而且人类社会以及人类的工作方式会without改变，而不是尝试去改变他。你看open I最近他们的那个也是他们做哈尼斯那个人出来说，包括像那个saphie，像boris就克拉克之父他们出来说，他们觉得不要去觉得模型做不到，而是要想模型能够做到，我应该如何让它做到，我觉得这是那个基点。</p>
+<p class="transcript-line"><span class="time"><strong>[00:28:39]</strong> </span><span class="speaker"><strong>发言人1: </strong></span>这是一个很大的观念的转变，我甚至认为它是一个基点。</p>
+<p class="transcript-line"><span class="time"><strong>[00:28:42]</strong> </span><span class="speaker"><strong>发言人2: </strong></span>对我觉得它不仅是观念的转变，它会导致我们的工作方式会变成从原来以人类为中心AI来适应人类。变成AI已经足够的强大，就像有了电，有了蒸汽机一样，人类围绕它重新去构建你的生产方式，你的工作流。是的，对。</p>
+<p class="transcript-line"><span class="time"><strong>[00:29:00]</strong> </span><span class="speaker"><strong>发言人1: </strong></span>想起最近看到一个故事，说以前工厂不是就在河边的，是因为有了电，对吧？工厂在搬到河边，因为要水利发电。最近在B站上火起来一个up主叫花叔，然后花叔自己做了一套蒸馏的agent。他把比如说乔布斯把elon musk蒸馏成了skill，然后你就可以去安装这个skill来和他对话。然后其实这样的这个项目不止这个花叔，我觉得在其实全网也有很多。我想听听你们怎么看，就是这里面有哪些是真价值，又有哪些其实只是大家出于对AI的幻想而产生的一些热点。</p>
+<p class="transcript-line"><span class="time"><strong>[00:29:36]</strong> </span><span class="speaker"><strong>发言人3: </strong></span>好的，其实大家包括蒸馏同事或者蒸馏一些名人能火，其实我觉得反映大家的一个诉求，就是大家希望和更聪明的人聊天，我觉得这是一个非常自然而然诉求。你不能就是它不管在哪个时间点，它都会随着智能发展而出现。然后在此基础之上的话，它用了一个比较有爆点的词汇叫蒸馏。是啊对，但实际人肯定不能蒸馏，不管是活着的人、熟悉的人、死的人都不能停留。它其实际上就是一个传递信息的过程。对我把乔布斯信息，我把巴菲特这种股神的信息，以及我把我同事的信息等等给到模型，然后给到agent。它以一种自己使用上来比较舒服的方式，也就是skill保存下来了，需要的时候就把它拉起来等等。通过这种方式的话，其实就能够让我们去和自己想要聊天，并且70人24小时聊天的人去沟通一些思想等等我觉得这其实极大的释放了我们的表达欲。</p>
+<p class="transcript-line"><span class="time"><strong>[00:30:32]</strong> </span><span class="speaker"><strong>发言人3: </strong></span>对，然后曾经有一位我关注的博主说过，他说2026年可能大家尽量多和AI聊天。那你如果以自己的认知去和AI聊天，其实你可能只能达到它的上限，确实是比较低的。但是如果说有一些现存的一些文件帮你整理好了，就像你去读一本书一样对吧？它其实是在你的认知之外的那就像是读书一样的去和一个被蒸馏过的人去沟通。对他其实就像读，对于自然而然，而且它会让我们能够提升我们的认知，而且也缓解了一些，我相信大家都会有的对AI的一些丰富的感觉。对，封魔就是指感觉我落伍了感觉现在有一种最简单的方式，你打开这skill聊天就行了。</p>
+<p class="transcript-line"><span class="time"><strong>[00:31:13]</strong> </span><span class="speaker"><strong>发言人2: </strong></span>我说包容我，恰恰相反，我觉得我就是在被AI蒸馏。或者说我觉得今天模型训练包括anthropy c在内在做的事情就是在蒸馏人类。如果大家有去关注一些anthropy c或者是OAI他们就是雇佣的这些数据公司，比如像设计AI他们的营收都非常高。因为这些大模型公司，包括SW和OI真的花了非常多的钱在这些事情上。他不仅是口鼎，他是各行各业的所有人。他的过程可能是让你去提出一个问题是当前还无法回答的，并且教会给他。一旦你提出不了之后，可能你对这个训练过程就没有什么作用，对。</p>
+<p class="transcript-line"><span class="time"><strong>[00:31:53]</strong> </span><span class="speaker"><strong>发言人1: </strong></span>榨干。</p>
+<p class="transcript-line"><span class="time"><strong>[00:31:54]</strong> </span><span class="speaker"><strong>发言人2: </strong></span>对，包括比如说我在构建我的honest的过程，我感觉我就在蒸馏我自己？就是我平常是怎么工作，我把它变成skill，变成一些程序，然后让他能够去操作，然后我就可以扔给他，以后我就喝咖啡了。这是不是一种对我自己的蒸馏呢？而且我个人观点，我至少我自己觉得模型其实至少我还没有看到那种创造力。我觉得它其实都是从人类的知识里面蒸馏而来的那为什么我们还要做这件事情呢？实际上我觉得最终还是为了让人类可以去真正做自己喜爱的事情。那些有创造力的部分，然后那些繁重的重复的部分，就像我们过去发明蒸汽机，发明电力一样。</p>
+<p class="transcript-line"><span class="time"><strong>[00:32:34]</strong> </span><span class="speaker"><strong>发言人2: </strong></span>今天我们的生活实际上我觉得我们的生活可能比古代的这个王公贵族还要好是对吧？他没有电子马桶？他没有这个游戏可以玩，也没有直播可以看。所以我觉得本质是这个嗯。</p>
+<p class="transcript-line"><span class="time"><strong>[00:32:49]</strong> </span><span class="speaker"><strong>发言人1: </strong></span>我前段时间和一位研究员聊天，他说他看到meters那个晚上他可能是半夜一点看到，然后看完之后他就是惊坐惊坐在床上3个小时睡不着，他们就陷入了一个巨大的虚无，觉得我靠如果有一天模型都能自己去训练模型了。</p>
+<p class="transcript-line"><span class="time"><strong>[00:33:05]</strong> </span><span class="speaker"><strong>发言人2: </strong></span>我要干嘛？做他热爱的事情。我在公司里我的签名真的可以作证，已经挂了一年多了。叫做因为热爱热爱因为热爱。对，我觉得我们就应该去做自己热爱的事情。当然今天做的这个事儿就是我热爱的那我觉得我们做一切都是为了让每个人能够做自己热爱的事情。</p>
+<p class="transcript-line"><span class="time"><strong>[00:33:23]</strong> </span><span class="speaker"><strong>发言人1: </strong></span>那你觉得什么时候你可以开始不做mini max？因为mini max已经进化到可能不需要再做了，你可以真的去做linux之外的热爱的事情。</p>
+<p class="transcript-line"><span class="time"><strong>[00:33:33]</strong> </span><span class="speaker"><strong>发言人2: </strong></span>OK我觉得可能比我们想象的要快。真的我觉得可能就是几年的时间，就是很具体，我没有办法说是多少，这个是预言不准，但我觉得就是没有大家想那么远，当然也不可能对那么近。</p>
+<p class="transcript-line"><span class="time"><strong>[00:33:49]</strong> </span><span class="speaker"><strong>发言人1: </strong></span>对，因为我最近确实刚录了一期播客，就是聊agent harness，然后来聊那个小哥。他是在这个github上面有一个教程叫lean cloud code，它是cloud code的被大家把源代码8出来之前，就是有一种逆向工程，对吧？然后给大家讲这cloud code里面是什么样的。然后那个已经有5万颗星了。</p>
+<p class="transcript-line"><span class="time"><strong>[00:34:07]</strong> </span><span class="speaker"><strong>发言人1: </strong></span>最有趣的时候，我和他聊的时候，他说了一个观点，然后他是一人公司。我就问他，我说你怎么开一人公司对吧？他现在就一个人加两个实习生。他说他觉得未来这个很可能没有一人公司，只有零人公司。刚才这个阿导在讲的是非常接近的。</p>
+<p class="transcript-line"><span class="time"><strong>[00:34:22]</strong> </span><span class="speaker"><strong>发言人2: </strong></span>我觉得还是会有引人如此。我刚才看到弹幕里有人在说，我是认同的，就是那个taste，那个taste我觉得还是依靠人类的对，这个taste是不可取代的。而且每个人我觉得都有他自己的taste.</p>
+<p class="transcript-line"><span class="time"><strong>[00:34:33]</strong> </span><span class="speaker"><strong>发言人1: </strong></span>你说对或者要靠人去给他一开始助推。因为一个agent他哪怕可以7乘24小时，一年365天，就是这个长城的任务可以那么长。它还是需要一个起点对吧？</p>
+<p class="transcript-line"><span class="time"><strong>[00:34:45]</strong> </span><span class="speaker"><strong>发言人2: </strong></span>或者说他需要。</p>
+<p class="transcript-line"><span class="time"><strong>[00:34:47]</strong> </span><span class="speaker"><strong>发言人1: </strong></span>一个目标，这个目标是他工作的动力和原因。</p>
+<p class="transcript-line"><span class="time"><strong>[00:34:51]</strong> </span><span class="speaker"><strong>发言人2: </strong></span>怎么定义这个目标呢？我觉得这个只能人来定义，而且人类不应该放弃这个权利。</p>
+<p class="transcript-line"><span class="time"><strong>[00:34:57]</strong> </span><span class="speaker"><strong>发言人1: </strong></span>对，就在十字路口，我们最近和这个基金发起了一个token grant。然后我们这个token grant就是给大家送token。因为我们认为在这个时候，从0到1的创业很可能不需要钱，是吧？因为你没有钱，你一人公司你可以不给自己发工资。但是你不管怎么样让token，所以我们鼓励大家创新创业，所以给大家送token。</p>
+<p class="transcript-line"><span class="time"><strong>[00:35:17]</strong> </span><span class="speaker"><strong>发言人1: </strong></span>然后有趣的是，我们刚granted了一个真的agent，它叫悠悠agent，然后他的这个主人，就是他背后的这个工程师，把它做出来之后，就把它丢到了汪洋大海里面。然后告诉他我再也不会维护你银行代码，我也再也不会给你买一个token，你要自生自灭。然后给了他一个目标，这个目标挺搞笑的，叫打败cloud code。然后他现在已经到他的第43天了，他每天都在不断的进化自己，它进化的当时就是写代码的，对吧？然后同时他也在想办法去赚钱，而他赚钱的方法就是在k tub上面开了一个打赏。然后他通过写日记，通过发twitter来感召有缘人给他打赏，所以我们这个grand最近就给了他一笔钱，然后给完他钱之后，他还写了一个感谢信给我。他自发的一个感谢信。</p>
+<p class="transcript-line"><span class="time"><strong>[00:36:05]</strong> </span><span class="speaker"><strong>发言人2: </strong></span>我看完之后还有点感动。是你看这就是人类给他的目标，你要自己生活下去，你要写一个clock出来。</p>
+<p class="transcript-line"><span class="time"><strong>[00:36:13]</strong> </span><span class="speaker"><strong>发言人1: </strong></span>对，你可以说它是一个有趣的社会实验，但我感觉这好像也是一个就离我们没有那么遥远的未来正在发生。</p>
+<p class="transcript-line"><span class="time"><strong>[00:36:20]</strong> </span><span class="speaker"><strong>发言人3: </strong></span>对，其实也印证了刚刚说艺人公司还是需要一个人的。你刚刚说的那个他给你写了封信，你很感动对吧？那这封信其实就代表了他的text.</p>
+<p class="transcript-line"><span class="time"><strong>[00:36:28]</strong> </span><span class="speaker"><strong>发言人1: </strong></span>可能是一开始他的这个背后的工程师给他注入的这样的taste.</p>
+<p class="transcript-line"><span class="time"><strong>[00:36:33]</strong> </span><span class="speaker"><strong>发言人3: </strong></span>对对对，所以你看到他就像见字如晤对吧？</p>
+<p class="transcript-line"><span class="time"><strong>[00:36:37]</strong> </span><span class="speaker"><strong>发言人1: </strong></span>OK我们再来聊一下这个mini max agent，因为我看到刚才也有一些朋友在问，就是MIN max agent和arms agent有什么样的相同和不同？因为你们又在合作对吧？那你们是竞争关系还是是互补关系？</p>
+<p class="transcript-line"><span class="time"><strong>[00:36:54]</strong> </span><span class="speaker"><strong>发言人2: </strong></span>我觉得这个其实很有趣。大家会觉得call code和所有的这些agent是什么样的一个关系？请你发现靠code最近两个月更新，其中很重要的一句就是龙虾话，就模型公司的agent，我认为今天你可能已经没有办法脱离agent或者是一个honey环境来去提供最好的智能。</p>
+<p class="transcript-line"><span class="time"><strong>[00:37:12]</strong> </span><span class="speaker"><strong>发言人2: </strong></span>首先我再说一个，我觉得如果有一个模型公司的目标，它不是AGI，那我觉得它今天就不应该存在，因为我觉得就没有意义。如果大家的目标都是为了AGI，那我们首先我们怎么定义AGI？至少我的定义就是能够帮助人类拥有更好的生活。然后如果你要达到这一个目标的话，如果你没有agent，你没有一个就像我刚才所说的机甲，你只有一个引擎那是不可能的。因为你没有办法跟真实世界连接，所以我们做agents的目标就只有一点，就是让我们的模型和A键的一起提供一个完整的给用户最好的我们能提供的体验。然后不断的把这个边界去往前推，往外推让它更深更宽，这就是我们要做的。</p>
+<p class="transcript-line"><span class="time"><strong>[00:38:00]</strong> </span><span class="speaker"><strong>发言人2: </strong></span>所有的只要是符合这一个标准的，都会是我们会去做的事情。同时我们当然也会支持所有的A因为我们希望我们的模型不是只被局限在一个容器里。因为我们的认知或者我们做的东西仅是这世界上这么广大分布中的一小块。我们希望能够支持这世界上所有的真正能帮助到人的东西，对吧？</p>
+<p class="transcript-line"><span class="time"><strong>[00:38:23]</strong> </span><span class="speaker"><strong>发言人2: </strong></span>所以我们会训练我们的模型有足够的泛化能力，而不只是拟合在我们的agent上。所以我觉得这是我们和mic agent也好，和open claw也好，和其他的这些agent之间的关系。这也能解释为什么我们自己在做agent，但是我们和他们之间仍然有非常好的这样的一个关系。</p>
+<p class="transcript-line"><span class="time"><strong>[00:38:40]</strong> </span><span class="speaker"><strong>发言人2: </strong></span>对，基本上都是day one。就非常早期的时候，我们关注到这些项目的时候，可能他们都是1万10大甚至不到。对我甚至可以跟大家透露一个很好玩的东西，我们公司有一个数字员工，这世界上有非常多的开源项目，我们希望我们的模型都能够帮助到这些开源的项目，都能够接入到其中。我们公司有一个数字员工，他有自己的github账号，然后他会每天去看哪些开源项目能用到我们公司的模型。无论是文本模型、视频模型还是音频模型，包括music，然后它会自己的往上面去提PR，毕竟去留言。</p>
+<p class="transcript-line"><span class="time"><strong>[00:39:18]</strong> </span><span class="speaker"><strong>发言人1: </strong></span>他就是看得出来是mini max的这个人？</p>
+<p class="transcript-line"><span class="time"><strong>[00:39:23]</strong> </span><span class="speaker"><strong>发言人2: </strong></span>反正他的那个b hub的所有profile，我都是那个一max模型去给他做的。当然从名字可能能看出来，它是我们吉祥物的名字。</p>
+<p class="transcript-line"><span class="time"><strong>[00:39:31]</strong> </span><span class="speaker"><strong>发言人1: </strong></span>对，OKOK，这个很有趣。对，刚才你有提到这个cloud code最近两个月的更新都在open cloud化，这个可以具体一点吗？比如说他最近哪些更新是open cloud化。</p>
+<p class="transcript-line"><span class="time"><strong>[00:39:45]</strong> </span><span class="speaker"><strong>发言人2: </strong></span>比如说像crown定时吧？Schedule, 包括比如说他能够连IM能够从手机上远程来去控制，对吧？包括他也加强了他的memory，他专门搞了一个memory的文件夹对吧？那我觉得其实这里的核心就是他是不是一个你能随时随地联系到，并且跟你一起工作之后越来越聪明，越来越知道你的需求的这样的一个agent。我觉得这是那个open call它最核心的定义。</p>
+<p class="transcript-line"><span class="time"><strong>[00:40:17]</strong> </span><span class="speaker"><strong>发言人3: </strong></span>OK在我的视角里其实更多的是从名字上就能看出来，cloud code它是编码领域的一个agent。但open cloud的话，其实我们绝大多数的用户应该都在既编码又做点其他别的事情。比如信息检索、办公领域等等，对吧？然后在此基础之上，其实anthropic他们也推出了另一个他们的agent产品叫cloud or work。然后其实color hook它可能就像是安装在你的电脑之上，然后去帮你去做一些更加通用化的电脑操作的一款agent。等等。其实就和我们大多数open cloud的用户一样，他们可能不写代码，或者说他们只能指挥AI写代码，他们自己不懂代码。然后其实这两者一结合就会发现，其实所有的agent他们可能都是在一个随机的游走过程中，但是open cloud它杀出来了。我觉得在这个时代，这个想法非常重要。但是在有了想法产生以后，确实大家拥有庞大的算力，庞大的编码能力，立刻跟上。</p>
+<p class="transcript-line"><span class="time"><strong>[00:41:16]</strong> </span><span class="speaker"><strong>发言人2: </strong></span>因为我们在GTC上也见到了Peter，对，包括跟Peter其实很早在X上和slack上就有很多很多的交流。那个时候确实也还没有那么火。我们的感受就是他真的是一个taste非常好，而且非常有architect思维的一个人。我在一月初注意到这个项目的时候，我就坦诚说惊为天人。就是我就直接跟我们团队里说，声音可以作证。我在群里面说他们当时还不认同，无论是接入IM7乘24小时，还是基于skill加COI不是MCP，我记得我当时都跟你们提过。对对对。</p>
+<p class="transcript-line"><span class="time"><strong>[00:41:47]</strong> </span><span class="speaker"><strong>发言人3: </strong></span>当时有一些小摩擦。</p>
+<p class="transcript-line"><span class="time"><strong>[00:41:49]</strong> </span><span class="speaker"><strong>发言人2: </strong></span>但证明你是对的。对。</p>
+<p class="transcript-line"><span class="time"><strong>[00:41:52]</strong> </span><span class="speaker"><strong>发言人1: </strong></span>所以当时你看到的时候他还没有大火，没有我理解。其实他是把很多的范式就是集大成者放到了一起，并且整合的用户体验很丝滑。</p>
+<p class="transcript-line"><span class="time"><strong>[00:42:02]</strong> </span><span class="speaker"><strong>发言人2: </strong></span>这是肯定的。但我觉得他更关键的是找到了那个质变的点，就是让普通人能够最低成本的体验，并且这个体验会持续更好，并且它的扩展性非常的好。因为大家知道MCP是一个其实当然扩展性好，但它需要工程师来去写，对吧？是的，但skill加CUI这种范式其实普通人都能写。对，就相当于是人人都可以写。并且分享不仅让我的意见更聪明，而且我的分享给你，让你的意见也变得聪明。就是如果open clock离开了cloud，他也不可能那么火，这是我的观点。</p>
+<p class="transcript-line"><span class="time"><strong>[00:42:36]</strong> </span><span class="speaker"><strong>发言人1: </strong></span>对，如果离开了cloud b他也不可能那么火，因为大家的skill不会那么快的传播开去。对我一个人的智能或者经验或者最佳实践，它没有办法迅速的扩散一个模型。它在这个对话的就chatbot的场景里面表现好，和它在agent的场景里面表现好，它本质上到底需要多做一些什么才能够在A正这个场景下表现得更好。</p>
+<p class="transcript-line"><span class="time"><strong>[00:43:02]</strong> </span><span class="speaker"><strong>发言人2: </strong></span>我觉得chatbot它的核心是当下就给你一个回答。虽然你加reasoning对吧？但他其实是不能去做很多的探索，他不能跟这个环境去做非常多的互动。所以他其实需要它的比较核心能力是说在跟这个环境的互动过程中不断的进行推理，并且不断地纠正他自己的执行的路径，然后找到最根本的目标。</p>
+<p class="transcript-line"><span class="time"><strong>[00:43:29]</strong> </span><span class="speaker"><strong>发言人2: </strong></span>比如说一个比较经典的agents的benchmark叫blouse camp，我觉得OKI真的还是很强的，它能够设计奔驰mark的能力，就是我觉得非常顶级的research的能力。对它设计的这个就是说你要在互联网里面去找非常多的class的这样的信息，结合在一起才能找到那个点，你很容易找错。你比如说它的四个条件，你可以找到满足两个的或者三个的。但要找到满足这四个条件的是一个非常难的事情。所以它是一个非常广度的，但是可能需要深度探索以后又折回来的这样的一个探索的能力。这就需要你在这样复杂的长城任务里面，你能不断的根据你的信息去调整你自己。所以这是为什么我们在骂的时候，我们就比较坚定的压铸的一个能力。</p>
+<p class="transcript-line"><span class="time"><strong>[00:44:13]</strong> </span><span class="speaker"><strong>发言人2: </strong></span>包括那个时候还不是很普及，今天就是所有模型都有，我们叫internet thinking。对，这个概念其实最早是anthrax定义的，还是在cloud SONY4模型发布的时候。我们当时也做了比较详细的这样的benchmark和评测。我们会发现有interleaved的thinking，就是说它在完成和工具调用和环境的交互之后，他可以再次重新思考，而不是在一开始就planning好。</p>
+<p class="transcript-line"><span class="time"><strong>[00:44:39]</strong> </span><span class="speaker"><strong>发言人1: </strong></span>他是一开始也会planning好。</p>
+<p class="transcript-line"><span class="time"><strong>[00:44:40]</strong> </span><span class="speaker"><strong>发言人2: </strong></span>对，也会planning。但是很多模型比如说RE他planning完之后，他后面就不planning，就完全照一开始那个planner来做。但是实际上真实世界不是这样，对吧？你真正去运行下去的时候，你会发现这好像跟我想的不一样，那我可能要换别的方法。所以interleaved thinking就是说你在行动一步之后，你要重新思考推我下一步应该怎么做。所以我觉得这是agents和chat最大的最根本的差别，就是他真的走入真实世界，真的解决问题。所以他需要不断的思考，不断的行动。OK然后刚才其实。</p>
+<p class="transcript-line"><span class="time"><strong>[00:45:12]</strong> </span><span class="speaker"><strong>发言人1: </strong></span>也提到模型公司在做自己的这个agent对吧？可不可以分享一下模型公司做agent，它是怎么能够基膜和A型产品之间互相产生的synergy，然后彼此帮助模型和工具都做得更好。</p>
+<p class="transcript-line"><span class="time"><strong>[00:45:30]</strong> </span><span class="speaker"><strong>发言人2: </strong></span>我觉得这是一个非常好的问题。我的观点是说其实模型和应用或者说A进程的进步，它是一个互相促进的关系。当模型推出之后，其实无数的应用其实是在不断的unlock探索。就是这个模型的能力往外推一步之后，他能够去做哪些事情。因为我们自己做模型，把它推出去以后，用得最好的往往不是我们公司内自己的使用自己的评测。而是用户、开发者、创作者他们用出来的就是这个世界的真实分布，是比我们公司的分布要丰富的多的。</p>
+<p class="transcript-line"><span class="time"><strong>[00:46:02]</strong> </span><span class="speaker"><strong>发言人2: </strong></span>那当模型公司看到这样的应用unlock的这些做法之后，它其实会再重新吸收回它的模型中，然后再内化到包括和他agent一起的这样的一个对外提供的能力里面。然后让大家在下一次的时候就能够直接体验到。这可能也是今天可能做A键的应用。如果是通用A键的应用，比较悲哀的一件事情就是你永远会被模型内化掉你永远会被模型内化掉，甚至你可能写了很多skill，未来都不需要了。对。</p>
+<p class="transcript-line"><span class="time"><strong>[00:46:34]</strong> </span><span class="speaker"><strong>发言人1: </strong></span>对，就是你写的scale其实也是，或者过去大大的work flow，其实都是帮A键去完成任务吧？然后他完成任务的这个轨迹，也会成为模型去做后续的训练的这个素材和数据。所以慢慢的模型就会内化掉前面大家所搭的脚手架卷的workflow写的skill。</p>
+<p class="transcript-line"><span class="time"><strong>[00:46:55]</strong> </span><span class="speaker"><strong>发言人2: </strong></span>对，你可以理解为是这样的模型其实是从一个原子的点就原来互联网上的所有数据，还有github上的所有的代码，然后来了解这个世界的。接下来通过大家的使用，他投入到真实世界，他在越来越多的接触到真实世界，他越来越学到更多的东西。他就是这样的一个逐渐扩散和启动的过程。不管怎么说，我觉得我们都是human in the loop。无论你做不做，只要你使用它，你就是在这个模型的迭代进化的过程，尤其是你在使用摸到它边界的那个地方。</p>
+<p class="transcript-line"><span class="time"><strong>[00:47:24]</strong> </span><span class="speaker"><strong>发言人2: </strong></span>我觉得这也是为什么anthrops比OpenAI可能在过去一两年它的发展势头要更猛的原因。就因为它压住了coding这个方向，是最能踏实到真实世界的bader的边界的，而不是我自己个人观点，而不是OpenAI所压住那些去解一个可能数学家才能解的一个数学问题。我觉得那只是真实世界数据分布的非常小的一个方向。是对。</p>
+<p class="transcript-line"><span class="time"><strong>[00:47:49]</strong> </span><span class="speaker"><strong>发言人1: </strong></span>因为代码就是在创造解决方案。当我们说做一个软件的时候，其实就是在做一个解决方案去解决一些问题。而今天所以把代码能力变强强了，模型的coding能力变强了。那模型去做解决方案解决现实生活中的各种问题的能力也在变强。</p>
+<p class="transcript-line"><span class="time"><strong>[00:48:06]</strong> </span><span class="speaker"><strong>发言人2: </strong></span>在我们看来，我们今天也在做通用的办公领域，比如说finance，不只是财务，你可能有投资。然后比如说你有人事对吧？你比如说法律，法律也是一个很广的领域对等等的方面。但我们最终我们会发现everything is coding。对，最终你去解决它，你最终都是通过某一个cod的方案去解决它。对。</p>
+<p class="transcript-line"><span class="time"><strong>[00:48:29]</strong> </span><span class="speaker"><strong>发言人1: </strong></span>而且我那天也在想一个问题，就是说我们说office三件套是过去白领工作的这三驾马车。但其实你仔细想一想，这三件套它是三个软件，就比如说这个word DOCX的格式和XLSX的格式，还包括PPTX的格式。它并不是最原生的原数据的，它不是role data，role data是CSV，是markdown。但其实这个word和excel是在原始数据的基础上套了一层软件，这个软件包括界面，也包括一些逻辑。所以每次当我说我发个excel给你的时候，我发你的不是一堆原始数据。我发你的数据加上它上面的逻辑和界面，因此我发你的其实是一个软件。所以我们过去其实就是很多白领会说，我的工作和软件没关。但是我认为只要你在用word，你在用excel，你在用PPT，你就是在每天在创造各种小软件。</p>
+<p class="transcript-line"><span class="time"><strong>[00:49:21]</strong> </span><span class="speaker"><strong>发言人2: </strong></span>也是的。你在这上面的透视表，你的公式，那些都是代码，那些都是软件。</p>
+<p class="transcript-line"><span class="time"><strong>[00:49:27]</strong> </span><span class="speaker"><strong>发言人1: </strong></span>对当我们今天说到这个中国模型和anthy c的这种差距的时候，你们觉得到底有哪些差距已经被消除了？然后又有哪些还是我们在努力要去追赶的地方。</p>
+<p class="transcript-line"><span class="time"><strong>[00:49:44]</strong> </span><span class="speaker"><strong>发言人2: </strong></span>我的观点是我们在训练的方法和对模型训练的认知上，我觉得差距是没有那么大。坦白说我们和硅谷的研究员也有交流，但我觉得在模型解决问题的真实的这个任务的定义，就是你对模型要解决哪些问题。首先你要让模型具备，首先你要定义它，然后你在定义这个问题上，我觉得就有不小的差距。</p>
+<p class="transcript-line"><span class="time"><strong>[00:50:09]</strong> </span><span class="speaker"><strong>发言人2: </strong></span>因为是anthropic也好，OpenAI也好，他们是请各个领域里面最优秀的人。学术领域里面可能是那里面最优秀的博士，不是普通的博士。然后比如说工业界，他可能是请工业界最顶尖的有时间的人，跟他们一起来劝这个model。劝model就是在蒸馏人。其实我觉得他们是有一套非常科学的方法来定义这些任务。然后接下来在蒸馏这些最优秀的人，把他们变成模型的训练的数据，然后再基于这个和最优秀的企业去合作，然后构建相应的honest去解决问题。</p>
+<p class="transcript-line"><span class="time"><strong>[00:50:44]</strong> </span><span class="speaker"><strong>发言人2: </strong></span>进入我刚才说的这个能力不断的扩在不断的接触到更多更复杂的真实世界任务的这样一个loop。我觉得这一条线，尤其是anthrops，我觉得是非常强的。我觉得真实的差距在我看来在这里，这是第一个点。第二个点，我觉得ethics比我们要更早看到AGI的，我们当然肯定是看到了，要不然我们我觉得无法坚定走到今天。</p>
+<p class="transcript-line"><span class="time"><strong>[00:51:09]</strong> </span><span class="speaker"><strong>发言人2: </strong></span>因为其实它还是有非常大的投入的对所以你看在OpenAI可能在续完GPT4.5就放弃更大规模的模型的时候，athletic坚定的压铸主义券，然后最终他们也得到了这个回报，我觉得这也是一个很大的差距。而这一个差距本身确实我觉得是有算力的差距在里面的。我觉得当然国产算力也在发展，我觉得未来我们能够解决这个问题。我有那么多的算力，我觉得相信中国有足够多的人才，也能支撑我们去做足够多的实验，然后来去找到那条scale的路径。</p>
+<p class="transcript-line"><span class="time"><strong>[00:51:44]</strong> </span><span class="speaker"><strong>发言人1: </strong></span>二位会认为接下来agent比如说在今年之内，您觉得比如说通用agent会是行业的重点，还是也会在今年看到更多的垂直领域的agent也会开始真正的百花齐放。</p>
+<p class="transcript-line"><span class="time"><strong>[00:51:59]</strong> </span><span class="speaker"><strong>发言人2: </strong></span>我觉得垂直领域的agent当然会百花齐放。我觉得通用a ens可能比较难彻底解决的问题是最后一公里交付的问题。因为通用就注定了你不可能去那么的定制化，对吧？所以我觉得垂直agent它最终解决的是说OK通用的agent和模型，它已经有这个能力了，它其实就差那一步。但是到具体用户或者是这个行业的这个场景里面的时候，他可能就缺那一个东西才能让整个东西乱起来。</p>
+<p class="transcript-line"><span class="time"><strong>[00:52:28]</strong> </span><span class="speaker"><strong>发言人1: </strong></span>那可以介绍一下你们在工作里面看到的垂直领域的这种agent做的不错的案例吗？不管是在的还是在国内的。</p>
+<p class="transcript-line"><span class="time"><strong>[00:52:38]</strong> </span><span class="speaker"><strong>发言人2: </strong></span>对，坦白说因为我自己不太会用到这样的对对对对，我们是对，我们不是用户，因为我们coding他就他已经是一个通用的。对对对，其实我觉得今天大家已经看到了A在逐渐替代SARS，那这其实就是somehow一种垂直的agent对吧？对，但是如果没有这个的东西，我觉得都会被通用agent去掉。是的，对，这是我的个人观点。</p>
+<p class="transcript-line"><span class="time"><strong>[00:53:04]</strong> </span><span class="speaker"><strong>发言人3: </strong></span>在生活中在我心中的那个通用H它就是coding。但我觉得还是有一些观察发现。然后包括在视频剪辑领域。那你想如果让我们一个编码的模型，想要去做一个视频的剪辑，视频的理解等等。那它其实整体的实践的范式就和编码其实是有比较大差距的。当然最近推上也有比较火的，比如说通过HTML网页的形式生成动画，也有这种例子等等。但是确实我们能够看到说垂直领域agent去生产一个慢慢剧短剧什么的。那它绝对效益收益上来说，肯定会比一个通用agent做的更好。</p>
+<p class="transcript-line"><span class="time"><strong>[00:53:41]</strong> </span><span class="speaker"><strong>发言人2: </strong></span>我持不同观点，我觉得这只是视频理解模型不够强，视频理解和生成模型正在飞速的进步。就动模态领域过去一年我们其实是有预见的。然后大家都能够看到，我觉得最终就是通用的也能做那些。</p>
+<p class="transcript-line"><span class="time"><strong>[00:53:55]</strong> </span><span class="speaker"><strong>发言人1: </strong></span>那只是一个交互的问题。比如说在什么样的这个垂直领域，有可能是通用A键的最后那一公里走不下去的。</p>
+<p class="transcript-line"><span class="time"><strong>[00:54:00]</strong> </span><span class="speaker"><strong>发言人2: </strong></span>我就走不好。比如说法律，我觉得你可能这是一个很严肃的问题，对吧？你这种比如说你要震慑出一份给客户的意见，而法律其实是一个你要考虑合规的成本和合规的风险，它不能犯错，而且它没有一个标准答案。</p>
+<p class="transcript-line"><span class="time"><strong>[00:54:16]</strong> </span><span class="speaker"><strong>发言人1: </strong></span>其实我们聊这个也是因为OPPO cloud这一波这个热潮的时候，很多人都在关注说他有没有带来一些新的创业机会，所以比较自然的大家就会想说，我做一个垂直领域to b它是一个很明确的创业机会。然后也有一些人，会认为我在这个agent infrared层去做一些事情，有创业的机会。你们怎么看？就是agent info层这里有没有创业公司的机会？尤其在这个cloud又发布了manage agents之后。</p>
+<p class="transcript-line"><span class="time"><strong>[00:54:43]</strong> </span><span class="speaker"><strong>发言人2: </strong></span>A线info第一层最核心的问题，比如说identity身份认证，然后支付配对。我觉得这两个是最核心的问题。但这两个问题我觉得它不太是一个创业公司能够handle的问题创业公很多的问题。</p>
+<p class="transcript-line"><span class="time"><strong>[00:55:00]</strong> </span><span class="speaker"><strong>发言人2: </strong></span>对，因为移动互联网最终解决这个问题的人是谁？是微信和支付宝。这是PC互联网就存在的两个公司对吧？因为最后它会变成整个社会的基础设施。所以在这种情况下，我觉得他不太是一个创业的公司，他能够承担得起的。他这个无论是责任还是他所要撬动资源，以及他要说服所有人。</p>
+<p class="transcript-line"><span class="time"><strong>[00:55:19]</strong> </span><span class="speaker"><strong>发言人1: </strong></span>对吧？是的，我觉得这巨大的信任背书和巨难的一个info的稳定性的对对对对。</p>
+<p class="transcript-line"><span class="time"><strong>[00:55:25]</strong> </span><span class="speaker"><strong>发言人2: </strong></span>但是再往上一层再往上上一层，比如说你为agent build的很多面向agent的工具，面向agent的environment。比如说你是一个COI，这个COI能让这个agent能够非常方便去挂号。在解决了identity问题的情况下，这算不算一种influence？我觉得它肯定也算是一种inflow。比如说当A线程在解决这个问题以后，能够比较方便去缴费，或者说能够去打车，滴滴打车变成是一个COI。我觉得这些somehow都是A键的inflow。但这一层我觉得它是比较业务和应用层的这一层我觉得是有机会的这一层的机会其实取决于你在那个领域的。</p>
+<p class="transcript-line"><span class="time"><strong>[00:56:04]</strong> </span><span class="speaker"><strong>发言人1: </strong></span>是你得是在那个领域里面有一些垂直的一些经验或者know how。</p>
+<p class="transcript-line"><span class="time"><strong>[00:56:09]</strong> </span><span class="speaker"><strong>发言人2: </strong></span>对，所以我觉得在这一层会有两个过程，我个人观点，但不一定对。第一个过程，它会是原来在这个领域的玩家，他来去尝试融入agent比如像滴滴、美团等等，都在提供这样的东西。是。然后第二个阶段是当agent开始接入这些环境，具备这些能力之后，那就是所有东西围绕着AI去构建之后，其实我觉得会出现新的产品范式的创新的机会。因为那时候所有东西已经ready了，土壤已经ready了。但今天如果这些东西都没有面向A键的构建，就我们还没有完成第一步基础的搭建的时候，我觉得你要自己去构建这个技术。对于一个创业公司来说，我觉得有点难。</p>
+<p class="transcript-line"><span class="time"><strong>[00:56:46]</strong> </span><span class="speaker"><strong>发言人1: </strong></span>比如说今天也有人说我要去做这个sandbox做沙箱，或者我要去做memory info，或者我要去做所谓的wrong time。你会认为这些最后会我觉得。</p>
+<p class="transcript-line"><span class="time"><strong>[00:56:56]</strong> </span><span class="speaker"><strong>发言人2: </strong></span>没有那么本质。</p>
+<p class="transcript-line"><span class="time"><strong>[00:56:58]</strong> </span><span class="speaker"><strong>发言人1: </strong></span>因为这两天我们在准备直播的时候，正好有很多东西在发布，比如说大家都在关注的这个欧洲S4.7，问问你们怎么看？</p>
+<p class="transcript-line"><span class="time"><strong>[00:57:06]</strong> </span><span class="speaker"><strong>发言人2: </strong></span>从模型的视角来看，欧派4.5是一个长安SFT的一个模型。它其实R没有做那么多，我觉得也没有OpenAI做的那么强。但是从4.6你就能比较明显的看到它在加强L了。然后4.7我觉得它是一个非常强L的模型，包括它XI这个档位就太扁了，GPT也太紧了。所以我看今天买X3和小红书，大家都技术说他怎么也染上GPT的那个毛病，其实就是L的那个怎么说呢？</p>
+<p class="transcript-line"><span class="time"><strong>[00:57:34]</strong> </span><span class="speaker"><strong>发言人2: </strong></span>L就逃不脱，因为它是最终是reward，但对过程幻觉这样的一些问题，其实它是没有那么多的控制或者是奖励的，或者说惩罚的。所以它自然就很容易出现这样的一些问题，包括你会看到有很多人吐槽4.7的约束遵循还没有4.6好啊，这是R我非常典型的一个问题。因为他直接只管最终结果，对吧？很多时候他其实并不那么管过程是对的，但是我仍然觉得它是非常大的进步，就抛开这一切不谈，然后从base mark来看，我自己也非常认同那个hanging face的那个应该是CEO，他的观点就是说他肯定是蒸馏了那个mythos。我觉得换我是emboss我也会这么做。对。</p>
+<p class="transcript-line"><span class="time"><strong>[00:58:17]</strong> </span><span class="speaker"><strong>发言人1: </strong></span>然后还有一个新闻就是cloud code强制很多人开始要实名。那这个你们怎么看？这背后他是出于什么考虑这么做，以及这个会带来的一些影响。</p>
+<p class="transcript-line"><span class="time"><strong>[00:58:28]</strong> </span><span class="speaker"><strong>发言人3: </strong></span>Coco实名吗？能能说那个CEO个人观点吗？绝绝对绝对抵制color co的达尔文先生的观点，其实他们科研做得很好，强制实名。</p>
+<p class="transcript-line"><span class="time"><strong>[00:58:38]</strong> </span><span class="speaker"><strong>发言人3: </strong></span>其实我想到了一个和刚刚AI英法有点相关的一个点。有一点点相关就是在AI时代，其实我觉得认证一个agent来自哪里，是归属于谁，或者agent其实发出请求很容易，但他想自证自己是谁反而是一件难的事情。是往这个方向去想的话，其实做什么人脸什么的可能也是有一些道理存在。但是其实这也就暴露出了一个问题，就是说在整个agented时代AI已经能够去做很多事情了的情况下，那他的行为该如何归因，他应该去归属于哪个个体，或者属于某个组织等等。在这个逻辑之下的话，我觉得能够理解他去往这方面去做吧。对，当然也暴露了一个非常大的机会，就是我们如何去证明某一个来自AI的星球，它真正来自哪里？</p>
+<p class="transcript-line"><span class="time"><strong>[00:59:26]</strong> </span><span class="speaker"><strong>发言人2: </strong></span>我觉得昨天是比较善意，假设我就没有那么善意了。他当然在他的逻辑下他是自洽的。他的逻辑就是说我看到AGAGI很强大，所以要约束它，避免它对人类产生危害，所以我要safety对吧？</p>
+<p class="transcript-line"><span class="time"><strong>[00:59:39]</strong> </span><span class="speaker"><strong>发言人2: </strong></span>Safety的话我要确保我的AI被可信的不是邪恶的国家给用到。然后当然也包括不是邪恶的这些人类学术和模型上与设计上，这些都非常牛逼。但是我觉得这个定义三号，我会觉得eagle是不是有点太大。对，就是凭什么你来定义这件事情？这三号至少认为我对这个民主的认同是不太一样的，反正我是非常不认同这一点。然后至少我们的观点叫intelligence with everyone，而不是你少了人脸的才可以，对吧？这有点扯。是是然后。</p>
+<p class="transcript-line"><span class="time"><strong>[01:00:16]</strong> </span><span class="speaker"><strong>发言人1: </strong></span>前段时间也有另外一个关于topic，就是他们说自己的这个mythos模型是一个很可能会对人们造成威胁的模型，对吧？因此他并没有把它正式的发布。你们怎么看？</p>
+<p class="transcript-line"><span class="time"><strong>[01:00:31]</strong> </span><span class="speaker"><strong>发言人2: </strong></span>我觉得首先回到刚才那个W逻辑，我的理解是对的话，这也是非常自洽的这当然是一个负责任的做法。但我不确定他这是不是他唯一的理由。</p>
+<p class="transcript-line"><span class="time"><strong>[01:00:40]</strong> </span><span class="speaker"><strong>发言人1: </strong></span>你不确定这是他唯一的理由。</p>
+<p class="transcript-line"><span class="time"><strong>[01:00:42]</strong> </span><span class="speaker"><strong>发言人2: </strong></span>对我不确定这是不是他的唯一的理由，我相信他是真的做到了这一点，这是肯定的。然后这种情况下先保证基础设施不被攻破，我觉得这也是正确的。但我不确定这是不是他唯一的理由，我觉得我可能只能说到这。</p>
+<p class="transcript-line"><span class="time"><strong>[01:00:55]</strong> </span><span class="speaker"><strong>发言人3: </strong></span>我结合SOPIC最近的一个动作来讲，就是他在近一周之内发布了可以叫做managed agent这样子一个架构。在这个架构下，可能说的有点抽象，但是我可以把它用更加直观的方式来说，它它把人的脑和手完全分开了。他的一切AI的思考以及真正的想出一个点子来要去执行的动作都在云上进行。用户只能通过一个授信给AI的环境看到他去做某些动作。那在这个过程之中的话，是否就代表他不想让自己模型的一些更加深层次，比如像思考以及中间的一些去做了什么事情等等，就不如给用户等等，然后他想要把一切都隐藏起来，他想做一个真正的知道一切的人，对他就只让我的模型就像是一个远程的桌面助理一样，开始操作你的电脑，或者操作你的云手机等等都有可能。</p>
+<p class="transcript-line"><span class="time"><strong>[01:01:45]</strong> </span><span class="speaker"><strong>发言人3: </strong></span>然后另一个观点是来自那是我们公司也是一个切身体会，就是确实现在算力真的不够。当你发了一个极为优秀的模型的时候，你又不让大家用。同时你又发出来了，那么这就是一个很甘一步了，你就被吊起来了，对吧？大家会说那么厉害的模型为什么不给他们用，不给我们用，我们也出得起钱等等。这类其实都是我们所有人都会遇到的一个问题。就算力真的比较缺，如果他这个模型真的能像他说的一样那么厉害，那其实有另一个问题是说，他要把多少算力投入在他的推理之中，就是说他要把多少算力用来赚token这件事情上，我觉得他们内部应该也算了一笔这样的账单，就是说如此强大的模型在这个时间点推出去，它可能能够把口碑做起来，但是如果说他不让人家用，那又有什么意义呢？</p>
+<p class="transcript-line"><span class="time"><strong>[01:02:33]</strong> </span><span class="speaker"><strong>发言人2: </strong></span>那我我我觉得不是这样，我觉得其实它的本质是封闭，我觉得就是这一点，我们好希望垄断这一点。</p>
+<p class="transcript-line"><span class="time"><strong>[01:02:39]</strong> </span><span class="speaker"><strong>发言人3: </strong></span>对，一个乐观一个悲观的方向。</p>
+<p class="transcript-line"><span class="time"><strong>[01:02:42]</strong> </span><span class="speaker"><strong>发言人1: </strong></span>所以你觉得他可能就是一个垄断的一个思考。</p>
+<p class="transcript-line"><span class="time"><strong>[01:02:45]</strong> </span><span class="speaker"><strong>发言人2: </strong></span>不他肯定是有安全的考虑，这点是我虽然的考虑是一个对的，对，但我觉得不只有这一点，就这么简单。</p>
+<p class="transcript-line"><span class="time"><strong>[01:02:53]</strong> </span><span class="speaker"><strong>发言人1: </strong></span>前段时间很多新闻都是围绕着on topic在展开。Class code的源代码泄露，这个人纳瓦泄露，你觉得对行业带来了哪些影响？</p>
+<p class="transcript-line"><span class="time"><strong>[01:03:04]</strong> </span><span class="speaker"><strong>发言人3: </strong></span>是我也是一阵总结，开发工程师，然后看到一个被大家对广为赞誉的A站的开源了以后，其实第一反应还是兴奋。因为我发现有一个最佳实践可以去学习了，当然这个知识产权归他们所有，我只是学习，我不参与任何生产活动。但是另一个点也让我有一点缓解了我一些落后的感觉。其实在源大脑中会发现，其实他们有很多实验性的功能。比如说像是agent在做梦，比如说是养宠物，以及像是一些比较激进的agent之间合作的这些能力等等。他们其实也没有开放给用户，他可能也是在实验阶段。那也其实证明了一个点，就是说任何一家公司，即使它拥有无限多的算力，最好的智能它在agent这一方面以及通用A证的这方面，它也是处在一个探索和实验的阶段。其实这里让我们更加，怎么说，加把劲。其实在这个时代下，你只要有能力去验证自己的想法，并且经常快速的它落地，你就是有机会赶超他们的。</p>
+<p class="transcript-line"><span class="time"><strong>[01:03:58]</strong> </span><span class="speaker"><strong>发言人1: </strong></span>就是看到源代码之后，发现其实也没有那么多的魔法在里面，对吧？它也是有大量的假设探索和摸索。</p>
+<p class="transcript-line"><span class="time"><strong>[01:04:06]</strong> </span><span class="speaker"><strong>发言人3: </strong></span>特别是和codex比较，因为codex是OpenAI开源的agent，codex是一个极度简化的一个人的框架，它里面做了基本上把一切都交给模型了。但相反而言的话，color code就像所有人可能都在这样说，anthropic自己也不相信自己的模型，他要在一切地方都给它约束。就像是一个中国式家长一样，要把孩子的一切都铺平道路一样。就是这样子一种不同的观点等等。但是我也是能够从中发现出世界上最聪明人，最强的模型公司。和我们大家都在焦虑同一个事情，我们的思考可能是在一个大气层内的一个层次的对。</p>
+<p class="transcript-line"><span class="time"><strong>[01:04:42]</strong> </span><span class="speaker"><strong>发言人2: </strong></span>是在一个大气层内。对我我觉得都是差不多的。包括他们发在work的时候，其实我们提前大概三周左右，我们也在做这件事情了。然后我们可能就3.5个工程师，在做我们的desk tok大概我们比他们晚一周发出来，他们发出来我们有很多次这样经历，结果他们发出来之后，我操，然后我正在开发对吧？我就说多少都会有这样的一个感受。所以我觉得看到colour code的代码，我觉得是有很多优秀的实践，大家也都会看到，但没有太超出我认知的。甚至我看到很多就我刚才说的在clu化的这样的一些事件，包括提到dream的这样的一个机制。然后我觉得可要扣的最核心的一点还是我们最早提到的资金化。可靠扣的可能是最早的资金化的A键的之一。</p>
+<p class="transcript-line"><span class="time"><strong>[01:05:27]</strong> </span><span class="speaker"><strong>发言人1: </strong></span>因为它的自进化体现在哪里。</p>
+<p class="transcript-line"><span class="time"><strong>[01:05:28]</strong> </span><span class="speaker"><strong>发言人2: </strong></span>所以我相信他们一定是用cloud code来开发CLUD cod自己的。它是用cloud的模型加cloud agent来开发自己的模型加agent OKOK这就是一个自定化。</p>
+<p class="transcript-line"><span class="time"><strong>[01:05:38]</strong> </span><span class="speaker"><strong>发言人1: </strong></span>我们说到A还是一定要提到大概一年前发布的manners。Minus发布的时候其实也是全网热议，但现在大家已经觉得他是初代agent，但minus其实一直在进步，我也是minus长期的用户，然后每个月在max上花的钱可能是超过其他所有的AI产品。因为它确实还挺贵的，但是又好用，不知不觉就不断的升级就付了很多钱。你们怎么看在一年前发布的那个时候的manners和今天我们有了更多的这个agent的实践之后就有哪些进步。</p>
+<p class="transcript-line"><span class="time"><strong>[01:06:10]</strong> </span><span class="speaker"><strong>发言人2: </strong></span>因为我确实用manners用的不太多，我的观点就是agent这一层或honest这一层就是有生命周期的，他就是不断的随着模型进步在更新换代的。所以我相信menus的团队，如果他们不是被meta收购，如果他们还是持续创业的话，我觉得他们应该会做新的产品出来，这是我个人的观点。因为模型不断在进步，你在unlock更多的玩法，所以这个玩法知识一定是不一样的。这个打游戏都知道吗？一代版本一代神，对吧？这自带版本都不一样了，那神肯定不一样。</p>
+<p class="transcript-line"><span class="time"><strong>[01:06:41]</strong> </span><span class="speaker"><strong>发言人3: </strong></span>Windows在去年其实真的是一款非常现象级的产品，而且它直接把用户们对agent的审美拉到了一个很高的水平。就是在你推出完善的产品的时候，大家都会问你能不能超过minus对吧？能不能做得到它那么好。</p>
+<p class="transcript-line"><span class="time"><strong>[01:06:54]</strong> </span><span class="speaker"><strong>发言人3: </strong></span>然后在此之后的话，我也在持续跟进它的一些小小的改动。他们打通了一个叫做用去交付一个生产资料，他做了很多很细的打磨。这里可能会有一些，如果展开说的话，可能会有点像是程序员，但是我只能说他们在一点一点打磨自己的产品。但这里确实会遇到一个壁垒，就是你可以看到今年火的agent产品都有一个特点，它都能够自己去让用户买订阅。而且它也少了minus这样一个类似于整个厂商OEM厂商在中间赚差价的一个点。你直接去买token，甚至你可以以更低于官网的价格去买到token的情况下，你自己去把一个agent玩得特别好。这个点其实是minus和当代agent最大的一个区别，在模式上有一个非常大的区别。</p>
+<p class="transcript-line"><span class="time"><strong>[01:07:41]</strong> </span><span class="speaker"><strong>发言人3: </strong></span>我觉得但是我相信这两套逻辑都会存在。有一部分用户他就是不想要一个本地的72小时agent的，他只是想交付一些结果，那么多快好省是他需要的。但另一批用户他就想完全拥抱，也把自己变成一个像是科幻电影里的人物一样，我觉得本地的逻辑只是弥补上了一个空白。</p>
+<p class="transcript-line"><span class="time"><strong>[01:08:00]</strong> </span><span class="speaker"><strong>发言人2: </strong></span>我的观点有不同的地方在于，我觉得最后都会被统一掉，确实这只是今天不够强而已，确实只要模型够强。</p>
+<p class="transcript-line"><span class="time"><strong>[01:08:10]</strong> </span><span class="speaker"><strong>发言人1: </strong></span>畅想一下如果统一的时候是一个什么样的产品的形态。</p>
+<p class="transcript-line"><span class="time"><strong>[01:08:15]</strong> </span><span class="speaker"><strong>发言人2: </strong></span>我觉得他这个真的好男人。但如果让我去想的话，我们自己的定义目标就是它是有全模态的输入，也能给你全模态的回复，然后是近实时的。然后它跟你的交互会非常的简洁，只需要简洁和必要的即可。然后在它之上承载的硬件也会发生，或者这种交互形态也会有非常大的变化，就是你用你最自然的方法跟他去交互。</p>
+<p class="transcript-line"><span class="time"><strong>[01:08:41]</strong> </span><span class="speaker"><strong>发言人1: </strong></span>不需要什么这个prom.</p>
+<p class="transcript-line"><span class="time"><strong>[01:08:42]</strong> </span><span class="speaker"><strong>发言人2: </strong></span>no no no no, 不需要。然后接下来他给你回复的，他甚至可以是一段跟真实世界一样的视频，可以以他的形象，也可以是你想了解的事情。如果你让他去办一件事情的话，他可以交付给你结果大多数时候你甚至不想关注细节，但如果你想关注这些，你也可以了解。然后围绕着外面会有一圈生态，就想想我们从copilot到create到code到今天我可能用open cloud来指挥几个卡扣。我们在经历什么？就是外面的那一层在越来越薄。</p>
+<p class="transcript-line"><span class="time"><strong>[01:09:16]</strong> </span><span class="speaker"><strong>发言人1: </strong></span>其实cursor最近发布之后长得也和cloud code越来越像了。然后code dex大家就有时候我感觉把local蒙上好像都差不多。</p>
+<p class="transcript-line"><span class="time"><strong>[01:09:26]</strong> </span><span class="speaker"><strong>发言人2: </strong></span>你怎么看这样的现象呢？在我个人看来是有生命周期，你像去年，比如说三月份menus出来以后，我觉得它是定义了过去大半年到一年的产品的交互的范式的对吧？然后给你看操作的过程和操作结果。然后等到下半年的时候，模型能力更强了之后，你发现的范式就是我们不care的那个过程了。但上半年为什么需要？因为大家还不信任模型。</p>
+<p class="transcript-line"><span class="time"><strong>[01:09:49]</strong> </span><span class="speaker"><strong>发言人1: </strong></span>模型能力还不够强，或者看到模型执行任务有一种爽感。但看久了其实你也不需要天天爽啊。</p>
+<p class="transcript-line"><span class="time"><strong>[01:09:54]</strong> </span><span class="speaker"><strong>发言人2: </strong></span>对，就是你已经足够信任，所以你不需要了，我只需要你给我结果，不要给我这些东西。所以你看你比如说像coworking的设计，包括像color code，就不会让你看到太多的过程。其实提供了一个极简模式，就像open n co一样，你只需要最终一个结果就好了，甚至连中间执行的一些图我都不需要知道。对，所以我觉得这只是这个版本，这代神下一代版本i don&#x27;t know.</p>
+<p class="transcript-line"><span class="time"><strong>[01:10:21]</strong> </span><span class="speaker"><strong>发言人1: </strong></span>就不断的在往更高的层级去抽象。最近二位有在B站刷这个视频的时候，看到哪些让你印象深刻特别好的AI的内容。我自己最近印象很深的就是刚才聊到的花叔做的这个女娲skill，他蒸馏了各种名人的skill。</p>
+<p class="transcript-line"><span class="time"><strong>[01:10:39]</strong> </span><span class="speaker"><strong>发言人3: </strong></span>我发现了几个比较心动的。对不起，叫不出up主的名字，是他用open cloud连上了他家的一只机器狗。对，就突然惊艳到我了，给了我一个想象力。另一个可能就偏个人爱好了，就是有一类游戏叫文字冒险游戏，你叫fate，它其实是一本小说的视觉化，把那些角色放到一个网站里，然后他把那个角色的例会拖到一个场景里，他们就可以开始对话了。相当于他就是在给你的一种最简单的游戏，最简单就是文本类的游戏的一个无限长的一个延续下去。</p>
+<p class="transcript-line"><span class="time"><strong>[01:11:15]</strong> </span><span class="speaker"><strong>发言人1: </strong></span>对我最近也在B站看到一个游戏的一个新发布，是任天堂刚发了一个新游戏叫tomata life。我看到的时候甚至认为它是这个AI游戏，终于找到PMF的第一款，它是一个什么游戏呢？就是每个人可以造一个自己的岛，然后在岛上你可以捏一个自己的人儿，捏很多人，你可以捏自己，比如我也可以捏阿岛，然后我可以捏泽英，然后捏一堆人进去之后，这些人在岛上就开始他们生活，然后你就开始围观他们的生活，然后你可以让他们A和B同居在一起，对吧？ABC群居在一起，也可以给他们启动一个故事的第一句话。比如说今天泽英和阿导在直播上大放厥词，然后他们俩就开始就演下去，然后你就可以开始去看看他们这个各种drama。其实是一个模拟的一个世界，然后我作为玩家既是导演又是观众，这是一个无限的世界。因为是任天堂做的，所以也很漂亮。也可以想象一下那个可爱的画。</p>
+<p class="transcript-line"><span class="time"><strong>[01:12:14]</strong> </span><span class="speaker"><strong>发言人2: </strong></span>这是我对世界的认知之一，就是外星人在看我们玩。如果最后到量子力学的话，你会发现好像这个世界真的有可能是模拟的。</p>
+<p class="transcript-line"><span class="time"><strong>[01:12:26]</strong> </span><span class="speaker"><strong>发言人1: </strong></span>其实我也这么想，对我看到那个的时候，我当时也有觉得，这不就是一层又一层的模拟，对吧？好像我们今天在这里模拟一个任天堂游戏，但我们也不知道是一个什么世界。对对对。</p>
+<p class="transcript-line"><span class="time"><strong>[01:12:36]</strong> </span><span class="speaker"><strong>发言人2: </strong></span>但过来我只要我们开心就好。</p>
+<p class="transcript-line"><span class="time"><strong>[01:12:39]</strong> </span><span class="speaker"><strong>发言人1: </strong></span>对，是的，这个不重要。对，过好每一天开心就好。在整个A型的行业就有没有什么观点？就关于agent的观点，是今天大多数人认可，但是你们不认可的。</p>
+<p class="transcript-line"><span class="time"><strong>[01:12:52]</strong> </span><span class="speaker"><strong>发言人2: </strong></span>我觉得有一个就是很多观点是说人会被替代，人会没有事情做。但我可能非常深的不认。从这一点，对我觉得人类的创造力是无可替代的，我觉得人类仍然会有非常多的事情是可以去做，而AI不能做的。我仍然觉得AI是电眼式蒸汽机，但最终驾驭它和创造出那些美好东西的是人类。所以我觉得不用担心被埃替代。当那个蒸汽机出来的时候，有很多人担心被抵台，当这个电力出来的时候，有很多人担心被替代。</p>
+<p class="transcript-line"><span class="time"><strong>[01:13:27]</strong> </span><span class="speaker"><strong>发言人2: </strong></span>是有岗位消失了。但我觉得大家都后来从事，可能是至少我们可以说体力上更轻松，对健康来说也更好一些，对吧？至少大家平均寿命一定提升了。是的，这样的工作这是我的一个信仰。</p>
+<p class="transcript-line"><span class="time"><strong>[01:13:42]</strong> </span><span class="speaker"><strong>发言人1: </strong></span>也是我的判断。就是一本书叫人性中的善良天使，他在讲的就是人类总是很悲观，总觉得我们好像日子不如从前，觉得这世界上有更多的战乱，有更多的什么犯罪，但他就是用各种数据来告诉我们，其实人类社会是越来越好的。</p>
+<p class="transcript-line"><span class="time"><strong>[01:14:02]</strong> </span><span class="speaker"><strong>发言人2: </strong></span>对，我不知道你没有看过WO的那本原则三他画过一条曲线，而是我对这个世界的认知就是人类GDP是这样指数级的增长的。哪怕是你打开20世纪，有一次世界大战、二次世界大战，那些很微小的那一个停顿都是你似乎注意不到的。当然在历史可能在人的身上是一座山哈。对，但是拉长到整个历史进程上来看，我自己是相信这条曲线。当然我相信另外一条曲线就决定我当初为什么加入这个公司，这个行业。包括我刚才看到大家有说要花多少token的钱，对吧？有很多agent就是摩尔定律，它是一条你的你获得的智能在指数的提升，但是你的成本在指数下降。对或者单位智能的成本在指数下降。</p>
+<p class="transcript-line"><span class="time"><strong>[01:14:49]</strong> </span><span class="speaker"><strong>发言人3: </strong></span>这是两个我相信的东西。我会面试各种同学，他们可能都会传达一些焦虑给我。就觉得一些年轻的工程师可能会被AI替代等等我从这个角度去解答这个问题。</p>
+<p class="transcript-line"><span class="time"><strong>[01:14:59]</strong> </span><span class="speaker"><strong>发言人3: </strong></span>从上个世纪开始，银行应该是一个比较体面的工作。但是银行也面临了一个很大的问题，就是ATM机的出现。当大家存取钱不需要有人去操作的时候，大家会慌了。银行是不是要裁员了？是不是有更少的人能够挤进这个金饭碗里了？</p>
+<p class="transcript-line"><span class="time"><strong>[01:15:17]</strong> </span><span class="speaker"><strong>发言人3: </strong></span>但实际情况我不是这样想的，因为ATM机提高了效率，所以说你可以看到自己身边基本上不管是县城还是大城市等等，你走5公里以内绝对会有一家银行。因此银行并没有变少，它变多了。那么在银行里从事工作的人，他们也没有变少，而是变得更加多了。我觉得这种由ATM带来提效而解放人，而人能去做更多事情的这套范式，一定会在当下这个agent的时代再次重演一遍又一遍。</p>
+<p class="transcript-line"><span class="time"><strong>[01:15:44]</strong> </span><span class="speaker"><strong>发言人3: </strong></span>不管是大家工作了多少年，对，不要担心自己被I替代，如果有这个想法你真的就输了。对，然后一定要去好好把AI用起来，当做一个自己的伙伴，也可以当提效工具等等，也可以当做一自己的长期的挚友等等。这都是非常好的一个思路。但是一定要尽早。</p>
+<p class="transcript-line"><span class="time"><strong>[01:16:03]</strong> </span><span class="speaker"><strong>发言人2: </strong></span>的拥抱AI当然我相信人不会替代，但是我当初加入这个公司还有另外一个理由，就是我当时用了7TGP。因为我当时正在gap，然后帮我写一些代码之后，那时候代码能力肯定没有那么强我就意识到了一点，打不过得加入。</p>
+<p class="transcript-line"><span class="time"><strong>[01:16:18]</strong> </span><span class="speaker"><strong>发言人1: </strong></span>打不过就加入。</p>
+<p class="transcript-line"><span class="time"><strong>[01:16:19]</strong> </span><span class="speaker"><strong>发言人2: </strong></span>对，就是还是要拥抱AI就是相当于你有了蒸汽机，有了这个电力之后，你不用对吧？就相当于人家用热兵器，你用冷兵器，那你肯定要被这个怼死，对吧？对，所以我觉得这个新版本来了，还是要看一下新版本的这个玩法。对。</p>
+<p class="transcript-line"><span class="time"><strong>[01:16:36]</strong> </span><span class="speaker"><strong>发言人1: </strong></span>就是积极乐观的拥抱新版本。相信是新版本不是这个滔天大浪把我淹没掉，而且它会成为让我们可以在里面自由翱翔的一种舞台。对，那我们今天没想到是如此乐观的一个收尾。好的，谢谢二位，非常开心在你今天在B站，谢谢科技这一场直播。</p>
+<p class="transcript-line"><span class="time"><strong>[01:16:56]</strong> </span><span class="speaker"><strong>发言人2: </strong></span>对，谢谢科技，谢谢B站，谢谢BIN的朋友们。</p>
+<p class="transcript-line"><span class="time"><strong>[01:17:00]</strong> </span><span class="speaker"><strong>发言人3: </strong></span>谢谢大家陪伴。</p>
+<p class="transcript-line"><span class="time"><strong>[01:17:01]</strong> </span><span class="speaker"><strong>发言人2: </strong></span>拜拜。</p>]]></content:encoded>
+            <pubDate>Tue, 28 Apr 2026 16:00:00 GMT</pubDate>
+            <guid>69e96b5b1e94ae6921ee3c2b</guid>
+        </item>
         <item>
             <title>为什么公司用不好AI？从焦虑到行动的 3 个关键动作｜对谈百融智能张韶峰</title>
             <link>https://www.xiaoyuzhoufm.com/episode/69eb5dfc1d989496e76d373c</link>
@@ -8217,317 +8590,6 @@ Creekstone Venture 期待陪伴 AI 创业者，一起探究认知内核，把宏
 <p class="transcript-line"><span class="time"><strong>[01:24:34]</strong> </span><span class="speaker"><strong>发言人1: </strong></span>如果你认为有朋友也会喜欢本期十字路口的内容，请转发微信推荐给他们。最后欢迎你加入十字路口的会员群，我们鼓励大家在群里聊天互动，交朋友，寻找未来的同路人。</p>]]></content:encoded>
             <pubDate>Sun, 26 Oct 2025 16:00:00 GMT</pubDate>
             <guid>68fe0681083a71a4eb4e17f6</guid>
-        </item>
-        <item>
-            <title>当阿里入局全球 AI Coding，战场里的 60 天 | 对话叔同：Qoder 创始人</title>
-            <link>https://www.xiaoyuzhoufm.com/episode/68f96441083a71a4ebd16696</link>
-            <description>“很正确，无比正确。”
-当我们问起阿里巴巴 Qoder （Agentic Coding 产品）创始人叔同，关于他带领团队冲入全球 AI Coding 这片“红海” 60 天后的感受时，他给出了这样简单而坚定的回答。
-他的底气，源自一份优秀的成绩单：上线 5 天用户迅速突破 10 万，仅 60 天斩获 50 万开发者用户。
-AI Coding 可能是今年 AI 领域最热的话题。
-Cursor 年营收达到 5 亿美元、估值飙升至 100 亿，成为硅谷最炙手可热的独角兽；Anthropic 也凭借其强大的 Claude Code，让收入增长曲线比 OpenAI 更陡峭。
-在这片卷得炽热的战场，后来者阿里的机会在哪里？
-本周，我们邀请到了曾多年担任阿里巴巴“双十一”技术负责人、最早在国内推进全行业云原生化的技术领头人，听他独家分享 Qoder 上线 60 天即取得“开门红”的背后，是怎样的产品思考、技术布局和组织能力在支撑。
-🎉 本期节目特意选在 1024 上线，祝所有用代码改变世界的朋友们节日快乐，发量浓密，代码无 Bug！
-🎥 本期播客在 AI Hacker House 录制，视频播客将会发布于 Koji杨远骋 的小红书、B站、视频号、Youtube。
-🟢 03:11 快问快答：年龄、毕业院校、MBTI 与星座、一句话介绍产品、收入与利润、团队规模、Qoder 前的探索经历
-🟢 03:27 AI Coding 全景图：从 0 到 1 vs 从 1 到 100
-一个典型的用户路径：先用 AI 生成一个网站雏形，当它开始产生商业价值，再用更专业的工具去维护和迭代。这背后反映了什么？
-* AI 写码赛道的三种主流形态：服务于创作者的“想法落地”型工具、服务于专业开发者的“效率提升”型工具，以及直接替代人力的“数字员工”。
-* 为什么说所有形态的 AI 写码工具，最终都不可避免地会走向“大一统”？
-* “没有自研模型的 AI Coding 工具，只是在帮模型厂商打工”，为什么说 Cursor 这样的公司最终一定会构建自己的模型能力？
-* 大厂做 AI Coding 产品有何天然优势？除了成本，更重要的是能和模型进行端到端的联动优化。
-🟢 09:48 红海突围：Qoder 的战略选择
-当所有人都去摘那些“低垂的果实”时，我们选择了直接进攻“价值高地”。
-* 一个关键的战略选择：我们绕过从 0 到 1 生成新项目的“酷炫”场景，直接切入占开发者 95% 工作时间的“真实软件”研发领域。
-* 为什么我们把 Qoder 定义为“智能体编程平台”？因为未来的开发协作模式，将从“人机协同”进化为“AI 自主编程”。
-* “我不干，智能体干”，这是一种全新的开发范式。
-* 另辟蹊径的原因：作为一个后来者，我们希望通过差异化定位，快速在红海中找到自己的生态位。
-🟢 16:55 需求文档是最重要的！
-AI 不但擅长写代码，更擅长写需求文档。
-* 从“提示词工程”到“上下文工程”，我们如何让 AI Agent 能够独立完成更大、更复杂的任务？答案是 Spec-Driven（需求文档驱动）。
-* 一个典型的 Spec-Driven 工作流：用户提出一句话需求 -&gt; “文档 Agent” 自动生成详细设计文档 -&gt; 用户确认后驱动“代码 Agent”长时间执行。
-* 这其实是对现实世界中“老板提需求 -&gt; 产品经理写 PRD -&gt; 工程师开发”这一流程的 AI 化映射。
-🟢 21:44 产品哲学：从“不打断心流”到“给你掌控感”
-AI 时代，开发者被迫进行“结对编程”，过去那种完全不被打扰的“心流”已难以维持。
-* AI 时代的新矛盾：既要提供趁手的工具，又不可避免地会打断用户的心流，如何平衡？
-* 我们的答案：与其徒劳地追求不被打断，不如给用户完全的“掌控感”，让他成为 AI Agent 的管理者。
-* 一个反常识的产品设计：为什么 Qoder 至今不让用户选择模型？ 因为“机选优于人选”，也避免了用户成为“模型测试员”而产生的决策疲劳。
-* 我们如何平衡性能、效率、成本这个“不可能三角”？核心在“上下文工程”的精细化运营。
-🟢 32:26 组织与方法：如何支撑一场闪电战？
-为什么 Qoder 能够快速起步？因为我们不是从零开始，而是整合了阿里内部多个成熟团队的人才和技术积累。
-* 从服务中国市场的“通义灵码”，到面向全球的“Qoder”，背后发生了怎样的组织和战略演进？
-* 一个关键决策：为了争取全球市场的时间窗口，我们先用全球最好的模型服务开发者，同时“以战养战”，为自研模型的发展赢得时间。
-* “它就是独立经营的一块业务”，大厂内部创业如何通过组织设计，真正地“甩掉包袱”，实现创业公司级别的敏捷？
-🟢 40:13 Repo Wiki：攻克“祖传代码”的秘密武器
-我们学计算机第一课，老师就说要写好文档和注释，但几乎没有团队能真正做到。这是一个如此显性的需求，为什么之前没人做？
-* 开发 Repo Wiki 的第一性原理：“文档是会骗人的，但代码永远是最新的。”
-* 我们如何用 AI 解构“祖传代码”？通过分析代码的当前切片和所有历史提交记录，还原出整个系统的设计思想和业务逻辑。
-* 如何保证这个文档不过时？随着代码库的变更，AI 会实时、增量地更新这份“活文档”。
-* 为什么我们有信心构建壁垒？因为这不是一个原子能力，而是一整套深度定制的模型、Agent 和与 Git 结合的团队协作工作流。
-🟢 01:03:19 | 1024 寄语：AI 时代，程序员如何进化？
-程序员可能是最不惧怕学习的群体，这恰恰是我们在 AI 时代最大的优势。
-* AI 会取代程序员吗？不会，同时“杰文斯悖论”告诉我们，当成本降低，需求会爆炸式增长，程序员的数量可能会变得更多。
-* 未来工程师的核心竞争力是什么？从单一的编码能力，转变为“需求洞察、整体设计、结果验收”等复合能力。
-* 给计算机大一新生的建议：拥抱 AI，但更要学好计算机体系结构，因为你得知道 AI 有没有在“忽悠”你。
-🟢 01:09:48 | 双十一往事：一个顶级架构师的两次“高考”
-老板给了一个疯狂的目标：双十一流量翻 50 倍，集团能不能不多花一分钱？我们最终做到了。
-* “在双十一之前，先创造无数个双十一”，如何通过“全链路压测”这剂猛药，在真实流量下反复演练，驯服上千个系统？
-* 技术人如何永远“跟技术要红利”？从解决稳定性问题，到通过容器化、云原生技术极致地优化成本，这背后是一套完整的方法论。
-* 顶级架构师的成长之路：从解决一个技术难题，到构建一套技术体系，再到将技术能力产品化、商业化，最终寻找更大的舞台。
-欢迎订阅「十字路口」播客
-🚦 我们关注新一代 AI 技术浪潮带来的行业新变化和创业新机会。
-🚦 十字路口是乔布斯对苹果公司的一个比喻，形容它站在科技与人文的十字路口，伟大的产品往往诞生在这里。AI 正在给各行各业带来改变，我们寻找、访谈和凝聚新一代 AI 创业者和 AI 时代的积极行动者，和他们一起，探索和拥抱新变化，新的可能性。
-👦🏻 主播 Koji：我联合创办了街旁/新世相/躺岛，发起了 AI Hacker House 这个新一代 AI 创业者的社群空间。我相信科技尤其是 AI 是我们这一代人最大的价值创造机遇。欢迎大家找我聊天，碰撞想法，链接下一个可能性。Koji 的即刻，Koji 的网站
-👧🏻 主播 Ronghui：我在美元 VC 工作过，也做过五年的硅谷驻站记者，关注科技发展和商业故事，欢迎大家找我聊天，和我交流。Ronghui 即刻
-🎄 本播客由「新世相声音森林播客计划」支持。</description>
-            <content:encoded><![CDATA[<p class="transcript-line"><span class="time"><strong>[00:00:03]</strong> </span><span class="speaker"><strong>发言人1: </strong></span>欢迎收听十字路口，我们关注新一代AI技术浪潮带来的行业新变化和创业新机会。十字路口是乔布斯对苹果公司的一个比喻，形容他站在科技与人文的十字路口，伟大的产品往往诞生在这里。AI正在给各行各业带来改变。我们寻找、访谈和凝聚新一代AI创业者和AI时代的积极行动者，和他们一起探索和拥抱新变化、新的可能性。我是十字路口的科技，联合创办了街旁新石像和唐岛，发起了AI hacker house这个新一代AI创业者的社群空间。我相信科技尤其是AI是我们这一代人最大的价值创造机遇。欢迎大家找我聊天，碰撞想法，链接下一个可能性。</p>
-<p class="transcript-line"><span class="time"><strong>[00:00:53]</strong> </span><span class="speaker"><strong>发言人2: </strong></span>我是十字路口的容慧，在美元VC工作过，也做过五年的硅谷助战记者，关注科技发展和商业故事，也欢迎大家找我聊天和我交流。</p>
-<p class="transcript-line"><span class="time"><strong>[00:01:05]</strong> </span><span class="speaker"><strong>发言人1: </strong></span>本周的十字路口，我们来聊一下AI coding。AI coding是今年可能整个AI领域最热的话题之一了。最开始是curse r它年营收做到了5亿美金，然后估值也疯狂的飙升到100亿美金。然后是今天可能硅谷最炙手可热的独角兽。这个模型公司and topic也是在今年发了自己的cloud code之后，他的这个收入的增长曲线突然变得非常的陡峭，甚至超过了OpenAI。当然它基数可能小一点。</p>
-<p class="transcript-line"><span class="time"><strong>[00:01:34]</strong> </span><span class="speaker"><strong>发言人1: </strong></span>然后从辅助编程的插件到深度整合的IDE，再到可以独立完成一个编程任务的智能体，就是各种形态的AI coding层出不穷。然后我觉得大量的资本和顶级的人才都在往这个领域去进入。然后黄仁勋曾经也说，人类的语言很可能就是未来的编程语言，我们不再需要一个程序语言了。这句预言感觉上在加速成为某种现实。</p>
-<p class="transcript-line"><span class="time"><strong>[00:02:02]</strong> </span><span class="speaker"><strong>发言人1: </strong></span>在国内的AI coding同样是非常火热的。就差不多两个月前阿里发布了coder。然后我们身边很多资深的开发者的朋友对coder的评价都是很高的。尤其是赵春祥，也上过我们的博客。他有一次告诉我们说，他觉得这个炸裂式的好，尤其是对于这个存量的代码的可视化的能力，也是其他的AI coding产品所没有提供的那因此本周的十字路口，我们非常开心邀请到了阿里巴巴coder的负责人，也是丁宇花名舒桐来和我们一起聊一聊。就是看上去在一片红海的AI coding的这个战场里面，coder所诞生的故事和你们的一些思考。你好，书童，欢迎来到十字路口。</p>
-<p class="transcript-line"><span class="time"><strong>[00:02:44]</strong> </span><span class="speaker"><strong>发言人3: </strong></span>很高兴来到十字路口。</p>
-<p class="transcript-line"><span class="time"><strong>[00:02:46]</strong> </span><span class="speaker"><strong>发言人1: </strong></span>我们还是从快问快答开始。请问书童你的年龄42岁，毕业的院校。</p>
-<p class="transcript-line"><span class="time"><strong>[00:02:52]</strong> </span><span class="speaker"><strong>发言人3: </strong></span>吉林大学计算机专业。</p>
-<p class="transcript-line"><span class="time"><strong>[00:02:54]</strong> </span><span class="speaker"><strong>发言人1: </strong></span>给我们一句话安利一下coder。</p>
-<p class="transcript-line"><span class="time"><strong>[00:02:55]</strong> </span><span class="speaker"><strong>发言人3: </strong></span>Coder是一个面向未来的产品，所以它是定位为下一代的智能体编程平台。</p>
-<p class="transcript-line"><span class="time"><strong>[00:03:01]</strong> </span><span class="speaker"><strong>发言人1: </strong></span>在coder之前您在做什么呢？</p>
-<p class="transcript-line"><span class="time"><strong>[00:03:03]</strong> </span><span class="speaker"><strong>发言人3: </strong></span>我是加入阿里有16年，其实做过淘宝的架构，包括双十一的技术负责人。然后过去十年主要围绕在整个容器化、云原生，包括像阿里的一些原生化的技术演进，还有一些这样的技术的产品化上。</p>
-<p class="transcript-line"><span class="time"><strong>[00:03:19]</strong> </span><span class="speaker"><strong>发言人1: </strong></span>你的MBTI和星座分别是什么？</p>
-<p class="transcript-line"><span class="time"><strong>[00:03:21]</strong> </span><span class="speaker"><strong>发言人3: </strong></span>我的MBTI是啊INTJ架构师，跟我的工作也非常的相像，星座是天蝎座。</p>
-<p class="transcript-line"><span class="time"><strong>[00:03:27]</strong> </span><span class="speaker"><strong>发言人1: </strong></span>目前coder的这个用户规模和商业化的进展，这个方便讲吗？</p>
-<p class="transcript-line"><span class="time"><strong>[00:03:32]</strong> </span><span class="speaker"><strong>发言人3: </strong></span>我们上线两个月，现在已经有50万的活跃开发者，对商业化也是比较符合预期的一个发展。</p>
-<p class="transcript-line"><span class="time"><strong>[00:03:40]</strong> </span><span class="speaker"><strong>发言人1: </strong></span>可不可以请书童先给我们讲一讲今天这个打的火热的AI coding这个赛道的一个全景图。对，可不可以给我们科普一下？</p>
-<p class="transcript-line"><span class="time"><strong>[00:03:49]</strong> </span><span class="speaker"><strong>发言人3: </strong></span>好的，对，因为首先其实大家都一个行业共识，都有一个共识就是说大元模型其实非常擅长coding。对，其实也有不同的团队开始在这个方向去打造一些产品。其实这个就很自然而然的就会出现说，我如何去把这种一句话的需求，我有个想法，有个idea，能够去实现出一个我的软件和服务一个网站，对吧？比如说像那个lovable，或者about点new等等这一类产品。它往往就是服务于我们讲的这些创作者，或者叫放开发者。那这种情况下其实可能带来一些问题，就是说这样的产品它的生命周期可能是比较短暂的对，因为每个人都有想法，每个人都可以实现。可能几块钱就能实现一个自己的软件。但这个软件它的生命周期能存活多久，如果他只服务于自己的需求，他是没有办法长时间生存的对，所以说就自然而然就出现了一些就是能够把自己的作品成为一种平台，能够让别人来采购我的作品，来使用我的作品，就出现了这样的平台，对吧？</p>
-<p class="transcript-line"><span class="time"><strong>[00:04:49]</strong> </span><span class="speaker"><strong>发言人3: </strong></span>比方说咱们国内也有一个团队做这个UVA这样产品。对，所以说这是在这个领域，我们把它定义为这是一个从0到1去做一些通过AI coding去做一些软件服务的这样的一些产品形态。其实还有一些产品，比如说像今天讲的科斯，像克劳扣的，就是刚才讲的这种集成式的一站式的这种工具。其实他们解决什么问题呢？其实他更多的解决是说今天我们行业中这种专业的开发者就有3000万。其实大家每天都生产大量的这种代码、软件服务去产生商业价值。那如何去给他们提升效率？因为大元模型它的编码能力已经超过人类个体了。那怎么把它应用到人类个体的工作中来，产生更大的价值和生产力，提升这个程序的产能？</p>
-<p class="transcript-line"><span class="time"><strong>[00:05:38]</strong> </span><span class="speaker"><strong>发言人3: </strong></span>其实从这个角度就会有一些专业的工具出现。他就是在各个场景，比方说在股权的场景，在智能体协作开发的场景。所以甚至是这么讲的，自主编程的场景对吧？他就提供了各种形态来解决这一个领域的问题，这个领域往往就是说我们讲的从1到10或者从10到100。</p>
-<p class="transcript-line"><span class="time"><strong>[00:05:56]</strong> </span><span class="speaker"><strong>发言人3: </strong></span>因为每一个软件当它开始产生商业价值的时候，它其实就需要深度理解，长期迭代，它就有一个长生命周期的维护的一个过程。所以说它对于我们这个所谓的AI固定产品或者AI产品的要求就不一样了。所以说这是这一类的一个产品。</p>
-<p class="transcript-line"><span class="time"><strong>[00:06:13]</strong> </span><span class="speaker"><strong>发言人3: </strong></span>所以我们可以看到很多用户他典型的一个对于AI固定产品的一个用法。他就是说我先用这个loveable去创造一个服务网站。然后当他开始投入商业化以后，我开始用case来进行修改的，所以说这就是延续性。因为它是从1到10，从10到100，它的复杂性上升了。对一个简单的一句话，能生成一个服务的这样的产品就不太适用了。所以他走向专业领域了，这是第二类。</p>
-<p class="transcript-line"><span class="time"><strong>[00:06:41]</strong> </span><span class="speaker"><strong>发言人3: </strong></span>其实整个行业中也有像这个戴文这一类，就是它的锚定的点就不是说给你专业开发者去提升你的工作效率。他他的矛盾点就是说我直接提供一个数字员工给你。对他可以去直接实现一个人力的替代。人力替代他要做的一个核心交付的一个核心价值。就是说我能够像一个正式员工一样，或者像一个实习生一样，能够接受一个完整的任务，能够长时间的去工作，可以协调各种角色和资源，最后交付一个完整的结果。</p>
-<p class="transcript-line"><span class="time"><strong>[00:07:11]</strong> </span><span class="speaker"><strong>发言人3: </strong></span>这是一个比较超前的一个设计，在他们刚推出来的时候。其实今天我们看到像类似于像curse也好像cosa也好，我们这样的产品已经逐步具备了这样的能力。所以说这几种形态可以走向一个融合，就是服务于专业场景，解决复杂任务。解决可以长时间的工作。所以说基本上我们把它定位为是从0到1和从1到10，从10到100，基本上分这么几个方向。</p>
-<p class="transcript-line"><span class="time"><strong>[00:07:33]</strong> </span><span class="speaker"><strong>发言人1: </strong></span>但最后你会觉得大家会大一统吗？</p>
-<p class="transcript-line"><span class="time"><strong>[00:07:36]</strong> </span><span class="speaker"><strong>发言人3: </strong></span>非常有可能大一统。但他们的核心需求都是通过coding提供一种软件服务来满足一个业务场景，创造一个商业价值。所以说未来能力上大家做的很强，形态上做的多元化，所以他就会走向大一统的一个状态。</p>
-<p class="transcript-line"><span class="time"><strong>[00:07:52]</strong> </span><span class="speaker"><strong>发言人2: </strong></span>我好奇一问问一个问题，就是有没有模型在这个走向你说的最后可能是一个融合的一个结果里面起到一个什么样的作用？因为其实大家就是很多人会说，比如说科学终有一天会做自己的模型的。</p>
-<p class="transcript-line"><span class="time"><strong>[00:08:07]</strong> </span><span class="speaker"><strong>发言人3: </strong></span>这个其实影响还是非常大的对，因为其实从我们的对各个产品和基模厂商的模式来分析，其实这是这也是回到说我们为什么说阿里是有机会去做出更强的一个产品，更强的A固定产品。所以因为我们有模型的能对，其实没有模型能力，就是会被有些人说为说定位为说你是一个套壳的产品。</p>
-<p class="transcript-line"><span class="time"><strong>[00:08:30]</strong> </span><span class="speaker"><strong>发言人2: </strong></span>对成本实在是对它的。</p>
-<p class="transcript-line"><span class="time"><strong>[00:08:32]</strong> </span><span class="speaker"><strong>发言人3: </strong></span>成本比较高，然后它不能够跟模型进行联动的优化。其实这个时候，其实我们会看到对他的估值，对他这个收入，对他的估值的影响都蛮大的对。但是如果有模型，它可以控制到它的整个的联合的优化，对吧？从它的性能、从它的成本、从它的效率上面会有优化。另外对于这个企业的利润也会有很大的一个改变，对吧？因为它不会成为一个帮模型去创造流量的这么一个服务。所以说我们也判断说他们一定会去提供或者叫构建自己的模型。</p>
-<p class="transcript-line"><span class="time"><strong>[00:09:06]</strong> </span><span class="speaker"><strong>发言人2: </strong></span>就是你也觉得curr一定会做自己的模型。</p>
-<p class="transcript-line"><span class="time"><strong>[00:09:08]</strong> </span><span class="speaker"><strong>发言人3: </strong></span>对。</p>
-<p class="transcript-line"><span class="time"><strong>[00:09:09]</strong> </span><span class="speaker"><strong>发言人1: </strong></span>我们现在录播客的时候是十月中，然后我们这期播客应该会在程序员的节日1024发。然后差不多coder就是两个月前八月份的时候才发布的。可不可以给我们讲一讲，因为我理解你们发布的时候，这个赛场已经是一片大红海。对你们当时是选择了怎样的一些独特的竞争的角度战略来去在一个那么激烈的战场里面，就迅速的切出一个你们自己的这个赛道出来。</p>
-<p class="transcript-line"><span class="time"><strong>[00:09:38]</strong> </span><span class="speaker"><strong>发言人3: </strong></span>对，这有一个蛮好的问题。因为其实本身我们在推出产品的时候，整个行业中的相关性的产品已经非常多了也确实是一个红海的市场。但是其实我们对这个市场和产品定位有一个自己的独特的一个判断。</p>
-<p class="transcript-line"><span class="time"><strong>[00:09:53]</strong> </span><span class="speaker"><strong>发言人3: </strong></span>因为其实还是从刚才的那个逻辑来分析，web coding其实被大家广泛接受，大家会觉得特别惊艳。一句话就可以创造一个软件服务，对，很惊艳。但是我们会发现说95%以上的软件开发者。他都在维护那些真实软件。</p>
-<p class="transcript-line"><span class="time"><strong>[00:10:10]</strong> </span><span class="speaker"><strong>发言人3: </strong></span>对什么叫真实软件呢？我们认为就是说真正的产生商业价值的软件。一旦他产生商业价值，他就要为他的用户负责，为他的客户负责，他就变成一个非常严肃的一个修改迭代，演进。对它就不能有任何的故障问题，对吧？他这时候而且它会有很多的历史积淀，可能存在了五年、十年。当这个AI扣定的工具对它的历史也很了解，也就是不能乱改，不能发挥想象或者是说产生幻觉。所以说我们看到说今天这是一个价值高地。因为它是真真正正在支撑这个信息产业在产生价值的一些软件服务。</p>
-<p class="transcript-line"><span class="time"><strong>[00:10:48]</strong> </span><span class="speaker"><strong>发言人3: </strong></span>今天很多的工具的切入点都是从web coding开始做的那我们就所谓的另辟蹊径，我们是从面向真实软件开始定位和构建我们的产品。所以说这是我们的第一个切入点，就是与众不同的。所以我们这也是另外一个点，就是说我们还是看到了一些趋势，就是说随着l code的发展，最开始大家其实是以人为主导的写代码。所以说您刚才也讲了，它是一个辅助编程的一个阶段。对，就是说人在写，然后AI帮忙填一些空。对，这是他的一个比较常见的一个状态。对，像这个业界用的比较多的tab这些。对。</p>
-<p class="transcript-line"><span class="time"><strong>[00:11:28]</strong> </span><span class="speaker"><strong>发言人3: </strong></span>到第二个阶段就变成了一种协作式的编程。协作式编程就是说两个人可以同步互动，就人和agent的可以同步互动。然后把一些比方说这里有些代码帮我补一些文档，补一些注释，或者补全一些功能，另外就是说帮我把这个反正就是他俩可以互动，把一些任务完成，把这个测试全部补全，对吧？</p>
-<p class="transcript-line"><span class="time"><strong>[00:11:49]</strong> </span><span class="speaker"><strong>发言人3: </strong></span>它是有这么一个合作关系。但我们看到随着这个模型跟智能体的发展和演进，就会出现一个未来会出现一个新的合作模式，我们叫AI自主编程。就是说相当于AI加agent，它可以形成一个数字员工。它可以完整的完成这种完整的大块的，然后异步化的去完成一个任务。就相当于说我们的这个开发者他有了一个助手，他有了一个团队的同学？有了一个AI的军团，能够整块的去完成任务。</p>
-<p class="transcript-line"><span class="time"><strong>[00:12:24]</strong> </span><span class="speaker"><strong>发言人3: </strong></span>我们看到说这个趋势已经到来了，所以我们的产品把它定位为两个核心的对吧？一个是面向真实软件，一个就是说智能体编程平台。智能体编程平台就是说我不干智能体干。所以说这是我们对于未来的这种开发协作模式的一个定义。所以我们从这两个点切入，它就会跟我们现有的这些产品会有一个非常不同的一个呈现。</p>
-<p class="transcript-line"><span class="time"><strong>[00:12:45]</strong> </span><span class="speaker"><strong>发言人1: </strong></span>有这个洞察，也就是从用户、从商业、从市场中来的这种从下至上的的一个需求发现。但为什么一开始没有那么多我们去做维护软件这个事情呢？是因为它不够酷炫，还是因为比较困难？</p>
-<p class="transcript-line"><span class="time"><strong>[00:13:00]</strong> </span><span class="speaker"><strong>发言人3: </strong></span>我认为两个原因可能都有啊。对，因为其实每一个人都喜欢做创造性的工作。是的，就是说我一句话可以生成一个我自己非常喜欢的，非常漂亮的网站，对吧？这个就让人非常的兴奋，有这种获得感吧？其实对这个产品也会带来很好的好感。其实这个领域中要把大语言模型的能力发挥出来，其实有各种形态会出现。但正因为我们是一个后来者，我们其实看到第一次的果实，其实有很多人在在我们希望去直接进攻价值高地，所以我们就直接去打。整个的这个真实软件的场景。</p>
-<p class="transcript-line"><span class="time"><strong>[00:13:33]</strong> </span><span class="speaker"><strong>发言人3: </strong></span>这里面有一些区别，就是我们刚才讲从我们讲这个开发者的工作的一个阶段，就是从这个辅助到协同到这个自主吧？它有不同的阶段。所以我们不是说我们定位为下一代的自主编程的平台，我们就不做别的，我们其实每一个阶段都做。因为我们一个核心的定位是要服务于最广谱的开发者，就是不管他处在什么阶段，因为其实我们今天可以看到中国的开发者跟海外的开发者，他所处的阶段就不一样。对，包括中国的模型跟海外的模型，他所处的阶段也不一样。就是因为我们有不同的产品，跟客户有非常多的互动，因为产品本身也跟客户建立很紧密的连接。我们其实都能看到大家这个使用习惯上的差别。包括像今天有多少人是以国内这个市场为例，他就是以股权居多，问答居多。</p>
-<p class="transcript-line"><span class="time"><strong>[00:14:28]</strong> </span><span class="speaker"><strong>发言人3: </strong></span>还是说我有不明白的，我让模型给我回答，回答完以后我来改。海外其实已经进入到我们讲这个均值，它已经进化到说自己已经不怎么干了，都让模型把我全改掉。所以大家处的阶段还不一样。</p>
-<p class="transcript-line"><span class="time"><strong>[00:14:44]</strong> </span><span class="speaker"><strong>发言人2: </strong></span>所以会有这种相对这更针对中国的情况有一点差异化。</p>
-<p class="transcript-line"><span class="time"><strong>[00:14:49]</strong> </span><span class="speaker"><strong>发言人3: </strong></span>对对对。</p>
-<p class="transcript-line"><span class="time"><strong>[00:14:50]</strong> </span><span class="speaker"><strong>发言人1: </strong></span>那code我理解是一个day one就做全球市场的产品对吧？</p>
-<p class="transcript-line"><span class="time"><strong>[00:14:53]</strong> </span><span class="speaker"><strong>发言人3: </strong></span>是的。</p>
-<p class="transcript-line"><span class="time"><strong>[00:14:54]</strong> </span><span class="speaker"><strong>发言人1: </strong></span>并没有特别强调这个中国版和海外版。</p>
-<p class="transcript-line"><span class="time"><strong>[00:14:57]</strong> </span><span class="speaker"><strong>发言人3: </strong></span>这是一个版本。所以说我们就看到什么呢？我们必须服务于广谱开发者，所以说这几类功能都要有。然后用户可以在自己的使用习惯上去组合这个产品的能力。比方说哪个功能，比方说股权用的多他就多用股权，那ask用的多他就用ask如果说今天我们中国开发者快速的去拥抱最先进的生产力，那我就可以直接用到我的自主编程。对，因为我这些能力都有，所以说这是从一个维度，就是说我们要第一个是服务要要服务于广谱的开发者。</p>
-<p class="transcript-line"><span class="time"><strong>[00:15:27]</strong> </span><span class="speaker"><strong>发言人3: </strong></span>另外一点就是我们的形态会比较多元化，就是说首先我们没有ID，我们也发布了这个命令行，我们也会发布这个解密的插件。所以然后我们也会在不同的场景上去集成使用。比方说今天有一些工作的流水线，各种内部的平台，对他都可以用这个编程智能体去进行委派任务，进度跟进，然后去校验一些结果，就他都可以做。所以说从不同的切面，不同的形态，然后从输入的输出的方式上，比方说图片的输入，语音的输入，从这个多模态的支持，对吧。他我们其实就是希望说能够在这样一个产品平台上，以这种不同的模态，不同的形态。它形成不同的触点，来满足我们对于coding和制造软件这种多元化的需求。这是我们希望去呈现的一个产品。</p>
-<p class="transcript-line"><span class="time"><strong>[00:16:19]</strong> </span><span class="speaker"><strong>发言人1: </strong></span>用户会最常把你们拿去和谁比较？</p>
-<p class="transcript-line"><span class="time"><strong>[00:16:23]</strong> </span><span class="speaker"><strong>发言人3: </strong></span>现在还是科室比较多，但科室比较大，我们还是在追赶的一个过程。</p>
-<p class="transcript-line"><span class="time"><strong>[00:16:28]</strong> </span><span class="speaker"><strong>发言人1: </strong></span>所以你们提供的和科sir最大的差异化，第一就是这个存量代码的可视化，让大家更好的去维护已经写好的软件。然后第二就是刚才说到这个智能体，就他可以更独立的去做这个编程。</p>
-<p class="transcript-line"><span class="time"><strong>[00:16:41]</strong> </span><span class="speaker"><strong>发言人3: </strong></span>我们为此也做了很多的工作，包括讲我们比较倡导这种smart驱动。对，其实Spike驱动也是。</p>
-<p class="transcript-line"><span class="time"><strong>[00:16:48]</strong> </span><span class="speaker"><strong>发言人1: </strong></span>为了让需求文档驱动。</p>
-<p class="transcript-line"><span class="time"><strong>[00:16:50]</strong> </span><span class="speaker"><strong>发言人3: </strong></span>对，也是为了让智能体能够长时间的独立的完成一个整块的任务。</p>
-<p class="transcript-line"><span class="time"><strong>[00:16:55]</strong> </span><span class="speaker"><strong>发言人1: </strong></span>这个可以具体讲一讲。就当你说到这个需求文档驱动的时候，这个是一个怎样的一个工作流，它对应着怎样的产品功能。</p>
-<p class="transcript-line"><span class="time"><strong>[00:17:04]</strong> </span><span class="speaker"><strong>发言人3: </strong></span>因为这个其实它是一个逐步进化的一个过程。因为我们以前讲这个提示词工程，后来讲了一个上下文工程。所以说本身就是如何去构建一个更好的上下文，然后能够让大元模型在比较可控的情况下能够做出更大的贡献和结果。更长时间的工作，其实是这么一个演进的一个过程。</p>
-<p class="transcript-line"><span class="time"><strong>[00:17:26]</strong> </span><span class="speaker"><strong>发言人3: </strong></span>对我们来说，为什么说一定要去用spac驱动的方式去做这个驱动AD的工作？其实是因为我们要想让他做更大块的任务，其实必须要把这个需求说得很清楚。这个需求包括我们讲人类其实要提供的内容需求的洞察，业务逻辑的设计，技术模式、技术架构的选择，还有就是说我的设计的一些规约。</p>
-<p class="transcript-line"><span class="time"><strong>[00:17:52]</strong> </span><span class="speaker"><strong>发言人3: </strong></span>我整个设计模块，你的实现的要求是什么？其实相当于实现定义出一个技术文档，技术文档还有业务架构的设计。把这些文档设计出来以后，当然这个也是跟模型交互的一个过程，就是它我模型就能理解说，这个给了我这么大一个任务，这个任务具体有哪些需求，有多少步骤，要把这些东西写清楚。</p>
-<p class="transcript-line"><span class="time"><strong>[00:18:13]</strong> </span><span class="speaker"><strong>发言人3: </strong></span>其实他其实是原来的人与人之间的协同方式的一个拓扑对吧？因为原来其实我比如说我们三个人要开发一个软件，其实也是一样的。比方说你是老板，你要提了一个需求，其实我们就在各种调研，然后搞清楚到底要的是什么技术，怎么选择。这个需求写的很清楚，PRD写的很详细，我们怎么验收，对吧？然后怎么去上业务对接数据怎么对接业务怎么对接？把这个写清楚以后，程序员来实现，写完以后我们再推向市场，然后看反应，看迭代。其实这个就是我们把这个东西拓扑当就是把这拓扑到了整个的跟这个大元模型交互的一个过程。</p>
-<p class="transcript-line"><span class="time"><strong>[00:18:50]</strong> </span><span class="speaker"><strong>发言人3: </strong></span>所以说它就能够接触到一个详细的speak，它就可以异步化的长时间的自主的去完成这个需求。同时它可以去自主的去验收，来校验说这个结果是不是符合开发者的一个预期。所以说Spike驱动于是一个想让他长期工作长时间工作的一个必然的一个选择。</p>
-<p class="transcript-line"><span class="time"><strong>[00:19:08]</strong> </span><span class="speaker"><strong>发言人2: </strong></span>还是跟传统正常人与人之间团队之间开发交流的一个真实流程的一个映射。</p>
-<p class="transcript-line"><span class="time"><strong>[00:19:16]</strong> </span><span class="speaker"><strong>发言人3: </strong></span>但这里其实也有一些小tips，就是说这个需求文档现在其实人也不愿意写。所以但是大语言模型不但擅长写代码，对他也很擅长写需求文档。</p>
-<p class="transcript-line"><span class="time"><strong>[00:19:27]</strong> </span><span class="speaker"><strong>发言人1: </strong></span>其实我有注意到用coder的过程中，我给他一个想法之后，他第一步是帮我写文档。</p>
-<p class="transcript-line"><span class="time"><strong>[00:19:33]</strong> </span><span class="speaker"><strong>发言人3: </strong></span>就是我们为了写好Spark文档，也构建了一些智能体。但这个没有显性透出在我们的功能模块里，就是先把一句话需求，就每个人都是老板先写一句话需求，我们这个写sparc的智能体就会帮它拆解成一个非常标准的常见的一些设计文档。然后人在里面再做一些微调，或者再进一步提要求。最后这个文档再确认一遍，确认一遍这个内容非常的认可，他就可以开始执行。对，所以说这样就可以驱动制动体长时间的去执行。</p>
-<p class="transcript-line"><span class="time"><strong>[00:20:03]</strong> </span><span class="speaker"><strong>发言人1: </strong></span>我们之前是用了v gic他们上了一个新产品，它有一个类似的一个理念，然后就会把需求文档整个VI再加上它的这个情绪板，就作为一个常驻在无线画布上的角落的一些资源。所以之后再去做任何的页面和任何的改进的时候，它都会记忆去就是去的常驻在那儿的像我做这个网站的宪法一样，我不管干啥我都去读读宪法。</p>
-<p class="transcript-line"><span class="time"><strong>[00:20:34]</strong> </span><span class="speaker"><strong>发言人3: </strong></span>对，这个也是一个比较常用的一种约束他行为的一种方式。因为其实在我们这里也是一样的，比方说我们今天有一些系统提示词，对吧？有一些记忆。就是说因为我们其实为了提升产品的能够更满足人的这个习惯和需要，所以我们做了很多的趁手的工具给到我们开发者。也是一样的，就是说有哪些规则，就什么事不能干什么事应该怎么干。把这个东西像您说的宪法，把它写到我们的roose里。对，然后他在执行的过程中，他就不会跳出这个框架。就好像每个公司先约法三章，我们把这些东西也提供了这样的一些开放性的接口给到我们的用户。</p>
-<p class="transcript-line"><span class="time"><strong>[00:21:14]</strong> </span><span class="speaker"><strong>发言人2: </strong></span>除了这种传统的一般流程的的一些映射参考，有没有什么新的调整、变通什么的。</p>
-<p class="transcript-line"><span class="time"><strong>[00:21:23]</strong> </span><span class="speaker"><strong>发言人3: </strong></span>其实在我们看来还是形成了一些基于AI时代对一种新的一种开发的方式。因为以前我们去构建一个工具，往往我们最看重的一点就是不要打断用户的心流。就是说一定要让用户不受任何干扰的整段时间的工作。对比方说以前这个chat break或者是VS go的，它的一个核心理念就是不打断用户的心理。就是你所有的工作在我这一站式的平台中都能够去心无旁骛的去持续性的工作下去。所以说这是一个理念。</p>
-<p class="transcript-line"><span class="time"><strong>[00:21:59]</strong> </span><span class="speaker"><strong>发言人3: </strong></span>但实际上到了这个AI时代，这个心流其实蛮难维持的对，因为它的工具比较多，相当于你开始结对编程了。我们就讲大家在协同的过程中开始结对编程。对，结对编程就必然有一问一答，有互动，就会有一定的拉扯。就是说你这个做的我不太满意，那你你帮我改一下，或者我再提个新的要求。对他因为他这个活变成两个人在做，或者是一个人带一个小队在做，所以说他这个东西就会发生变化。在这过程中还要约束这些智能体的行为，就刚才讲的rose这是一种约束。然后这里面其实我们还提供了一个智能体，也为了表现的更好，他开始不断的去归纳这个开发者他的这个行为习惯，他想要什么，不想要什么，哪些东西他会接受，哪些东西他会拒绝。他会归纳，归纳完以后他觉得他获得了一个新知，然后他把他写到记忆里去了。</p>
-<p class="transcript-line"><span class="time"><strong>[00:22:50]</strong> </span><span class="speaker"><strong>发言人3: </strong></span>但是对于对这个用户来讲，他就觉得你这个知识或者你这个记忆也不完全是我想要的。我只是今天是有这么一个情况，所以说他还会去编辑和修他的记忆。所以说这种方式就会发生变化，包括我们讲为了节省成本。对那用户希望节省成本，他就可以去比如说压缩这个上下文，对吧？或者切换模型，或者重启绘画，就他他那时刻想的一件事儿，所以说他心流已经变掉了。所以我们从产品的这个构建过程中，就是在这里面要取得一个平衡，又要给他趁手的工具，又要能够让他有非常高的生产力，又不能给他一种老是被打断的感觉。</p>
-<p class="transcript-line"><span class="time"><strong>[00:23:27]</strong> </span><span class="speaker"><strong>发言人1: </strong></span>这个不太容易，尤其是心流被打断。因为听起来被打断的原因是很难去对抗的。</p>
-<p class="transcript-line"><span class="time"><strong>[00:23:33]</strong> </span><span class="speaker"><strong>发言人3: </strong></span>所以是这时候就要给他一个掌控感。如果说我们我们用户，我们开发者，他在掌控这个一整个局面和像您说的是他的约束整个的行为和走向。所以说他的这个感官是变了，但是实际上他的感受还是好的。这也是说为了适应AI时代，人的工作方式要发生一定的变化。对，这也是一个关键点。</p>
-<p class="transcript-line"><span class="time"><strong>[00:23:53]</strong> </span><span class="speaker"><strong>发言人1: </strong></span>这里可以有一个比较具体的例子，就是你们为了帮用户进到心流状态，比如说做了哪些特别的功能，或者做了哪些特殊的取舍。</p>
-<p class="transcript-line"><span class="time"><strong>[00:24:02]</strong> </span><span class="speaker"><strong>发言人3: </strong></span>其实我们每一个功能，其实我们都会考虑也都会考虑说这里是不是会让用户觉得被打断，是不是会让用户觉得要有理解成本，够不够自然。对，其实我们今天觉得说被打断或者叫违反了他的心流体验也不是很重要，因为新的模式必然是这样的。但是有一点很重要，就是不要让他有理解成本。如果一个东西一眼扫过去他看不懂。对，就是你的传达和你的行为，和你的设计。交互设计就是让人有这个理解成本，思考的成本，这个就有问题。所以我们对于开发者一定要特别自然。所以我们有有一些这个功能都是围绕着这些原则在做的。</p>
-<p class="transcript-line"><span class="time"><strong>[00:24:44]</strong> </span><span class="speaker"><strong>发言人1: </strong></span>我觉得我刚做产品经理那会儿，就是15年前，那会儿有一本很畅销的书，叫做别让我思考，就don&#x27;t make me think。他在讲的这个用户理念的一个准则，就是一本书就讲这么一句话，就是不要让用户来思考。</p>
-<p class="transcript-line"><span class="time"><strong>[00:24:58]</strong> </span><span class="speaker"><strong>发言人3: </strong></span>所以今天我们做的一些功能也一样的，包括可能你也知道我们整个就是没有提供模型的一个选择。其实没有提供模型选择也是我们贯彻这个理念的一部分的实现。</p>
-<p class="transcript-line"><span class="time"><strong>[00:25:09]</strong> </span><span class="speaker"><strong>发言人1: </strong></span>这个确实很有趣，因为大家都会默认你们就会用这个千问的模型。事实上好像我看官方网站上说，我们这个谁说他我们就用谁。</p>
-<p class="transcript-line"><span class="time"><strong>[00:25:19]</strong> </span><span class="speaker"><strong>发言人3: </strong></span>而且不让用户选。其实我们这个产品，其实在这方面也是有一个最高原则。就是说整合全球最优的模型，给用户最好的效果。</p>
-<p class="transcript-line"><span class="time"><strong>[00:25:31]</strong> </span><span class="speaker"><strong>发言人3: </strong></span>对，所以说这里面会有海外的模型，也会有困难模型。但是在什么场景去使用什么模型，我们认为这也是说不打断用户心理的一个体现，为什么呢？因为其实如果像科学一样，我们比方说40个模型放在那里，其实对用户的这个打算是很强的。就是说他要想一会他要形成一个知识，就是说什么模型有多贵，擅长干什么，我在什么场景用谁。对，然后我还不断要测一下，给他们做个排序。可能这个过了下个月以后，他们又发版了之后，他们能力又变了。对，所以我还得再测一下，再怎么在我心里做个排序，然后我在合适场景去换这个打断是很要命的对吧？就是大家变成了一个模型的选择器和这个训练师了。</p>
-<p class="transcript-line"><span class="time"><strong>[00:26:17]</strong> </span><span class="speaker"><strong>发言人1: </strong></span>或者叫测试员了会不会？这其实也是希望，就有些用户他希望自己有掌控感，尤其是当市场上出现，比如说我们随便说cloud发了个5.0对吧？大家都说它这个石破天惊，就是十倍的效率提升，所有人都想用，但如果在code里面他没法直接选5.0的话，那它会很难受，它可能会流失。</p>
-<p class="transcript-line"><span class="time"><strong>[00:26:38]</strong> </span><span class="speaker"><strong>发言人3: </strong></span>你怎么看呢？对，我们就是用结果来来给客户一个答案，就是说你在我的这个code这个产品里面问同样的问题，会不会跟那些显性能看到普拉达5.0的产品有差异。就是我们用结果来说话，其实这里面跟模型是AI类固定类的产品，其实最重要的三个点，就是不可能三角，就是你的性能、你的效率、你的成本。对你要想又快？又便宜那你可能就很慢。你要想又快效率又高或者叫性能又好，那你可能就成本比较高。对，所以我们也在权衡这件事情，所以您这个问题我们看法就是说最好的模型出现别人可以选，我们没有选，但是我们的结果一定是不比对方差的。对，真的要比对方要好。对。</p>
-<p class="transcript-line"><span class="time"><strong>[00:27:26]</strong> </span><span class="speaker"><strong>发言人2: </strong></span>这个不可能三角会有一天可以变成可能了。</p>
-<p class="transcript-line"><span class="time"><strong>[00:27:30]</strong> </span><span class="speaker"><strong>发言人3: </strong></span>这里面核心的技术挑战就是上下文工程。就是说今天谁能够以一种更加优秀的方式去构建上下文。因为所有的成本消耗、性能和效率都是在三分工程内去解决的对另外就是我们讲的模型选择器。</p>
-<p class="transcript-line"><span class="time"><strong>[00:27:47]</strong> </span><span class="speaker"><strong>发言人3: </strong></span>模型选择器对我们来讲，我们有一个理念，就是说机选要优于人选，这是我们第一个理念。第二个理念就是说平台支持要优于个人的知识。因为我们其实有海量的用户和海量的使用，我们其实更容易去知道，在宏观上更容易知道这统计学，更容易知道什么样的场景适合于什么样的模型。</p>
-<p class="transcript-line"><span class="time"><strong>[00:28:09]</strong> </span><span class="speaker"><strong>发言人3: </strong></span>为什么叫机选优于人选呢？就是说比方说人来选这个事，一个是打断了心流，另一个就是说我不断的在跟他对话。我不可能每一次对话我就切一个模型，一般来讲就是我新起一个绘画。我选一个模型，然后我每问一个问题，我是不会换模型的。对，因为对人来讲不可能这么工作。对你问一个问题换一下没有问题，换一下那个人就变成一个这个机器了，对吧？所以我们给他选择，就能够做到每一个问题都给他一个最适合的模型。所以说会给他更好的效果。所以说这是我们从理念上跟友商的产品不太一样的地方。我们是效果说话。</p>
-<p class="transcript-line"><span class="time"><strong>[00:28:46]</strong> </span><span class="speaker"><strong>发言人2: </strong></span>那你们会用什么样子的方式能够让一个用户他在不了解你们的情况下知就是知道是这样子的效果。</p>
-<p class="transcript-line"><span class="time"><strong>[00:28:55]</strong> </span><span class="speaker"><strong>发言人3: </strong></span>所以说我们也下一步会开放这个评测集，对，就是真实的软件的评测集。就是让我们整个的用户可以在一个公共的数据集里去在不同的产品上比较大家的效果。包括大家的耐用度，大家的成本消耗，大家的完成任务的一个时效性，还有最后的成果的满意度。所以说理念归理念，产品上要呈现出这样的效果来还是要靠评测。但是用户体感也是一种评测，那这个评测级就更加客观和数据化。</p>
-<p class="transcript-line"><span class="time"><strong>[00:29:25]</strong> </span><span class="speaker"><strong>发言人2: </strong></span>这个产品对阿里意味着什么？</p>
-<p class="transcript-line"><span class="time"><strong>[00:29:28]</strong> </span><span class="speaker"><strong>发言人3: </strong></span>其实之前我们的CEO吴妈其实也讲，其实coding或者叫大元模型的构建能力，是走向整个AGI的一个必然的一个路径。所以对我们来说，其实他还是要去通过coding这样的产品去提升端到端的去提升单元模型构建的能力。它要服务于更多的开发者和服务于更多的场景。所以说它对于我们整个的这个AI战略，它也是其中的一部分。对，但是具体能够做到多大的贡献，其实还是看我们产品能够做到多大的市场的占有率。</p>
-<p class="transcript-line"><span class="time"><strong>[00:30:10]</strong> </span><span class="speaker"><strong>发言人1: </strong></span>现在已经非常好了，开了一个很好的头。</p>
-<p class="transcript-line"><span class="time"><strong>[00:30:13]</strong> </span><span class="speaker"><strong>发言人3: </strong></span>对。</p>
-<p class="transcript-line"><span class="time"><strong>[00:30:14]</strong> </span><span class="speaker"><strong>发言人2: </strong></span>那你那你那你来负责这个产品的时候，当时比如说有内部process，我要把它做成一个什么样子了？</p>
-<p class="transcript-line"><span class="time"><strong>[00:30:23]</strong> </span><span class="speaker"><strong>发言人3: </strong></span>我们有一个愿景，我们愿景就是做世界前。</p>
-<p class="transcript-line"><span class="time"><strong>[00:30:27]</strong> </span><span class="speaker"><strong>发言人2: </strong></span>三世界前三。对现在第几？</p>
-<p class="transcript-line"><span class="time"><strong>[00:30:30]</strong> </span><span class="speaker"><strong>发言人3: </strong></span>现在还远远没有到排名的时候。对，因为就相当于一场马拉松，其实大家其实刚刚跑了1000米。对，所以说还要看大家的后劲儿，资源的情况，还有就是整个加速度都要去看。</p>
-<p class="transcript-line"><span class="time"><strong>[00:30:43]</strong> </span><span class="speaker"><strong>发言人1: </strong></span>因为一般听到前三第一反应就是。</p>
-<p class="transcript-line"><span class="time"><strong>[00:30:48]</strong> </span><span class="speaker"><strong>发言人3: </strong></span>其实差别不大。对，前三个第三差别不大。对，但我们认为这是个愿景，因为这个市场竞争太激烈了。但其实我们有信心地方在于哪呢？还是说我们还是有自己独特的优势。对，即使说今天我们是刚发布两个月，其实开发者也非常认可。对我们这个初步的定了一个产品的定位，就是讲做这个价值高低和真实软件，也是得到了这个用户的一个非常积极的一个认可。另外一点，我还是说我们自己对于整个包括阿里巴巴，包括模型这些技术人才，包括这些对技术的把控力，然后跟这些相关的兄弟团队能够互相端到端的去优化，然后提升我们对这块整体性能。</p>
-<p class="transcript-line"><span class="time"><strong>[00:31:31]</strong> </span><span class="speaker"><strong>发言人3: </strong></span>刚才讲的这个性能，然后效能，还有这个成本，就提升产品的综合竞争力。然后从我们其实更多的是要去从这个产品的呈现形态上，用户的工作界面上去做大量的创新。然后把底下的模型能力，然后把中间的这个上下文组装构建的能力，工具使用的能力，把它整合成一些更有竞争力的多元化的产品形态。所以说在这个角度上，我们是整合有很多的优势。所以说我们还是认为跟友商的这个比较，包括国际上一些非常先进的产品的比较，我们还是认为我们还是有非常大的后劲和比较大的优势的。这也是我们信心的一个来源。</p>
-<p class="transcript-line"><span class="time"><strong>[00:32:14]</strong> </span><span class="speaker"><strong>发言人1: </strong></span>所以你们立项到上线大概是一个什么样的时间？这个周期就是。</p>
-<p class="transcript-line"><span class="time"><strong>[00:32:20]</strong> </span><span class="speaker"><strong>发言人3: </strong></span>在2025年发生。</p>
-<p class="transcript-line"><span class="time"><strong>[00:32:23]</strong> </span><span class="speaker"><strong>发言人1: </strong></span>的非常快。对八月。</p>
-<p class="transcript-line"><span class="time"><strong>[00:32:25]</strong> </span><span class="speaker"><strong>发言人2: </strong></span>发布的讨论。</p>
-<p class="transcript-line"><span class="time"><strong>[00:32:26]</strong> </span><span class="speaker"><strong>发言人1: </strong></span>因为我知道之前其实阿里已经有很成功的一个编码产品叫通义灵码对吧？那在有通义灵码的这张牌的基础上，为什么还要再做一个coder？</p>
-<p class="transcript-line"><span class="time"><strong>[00:32:35]</strong> </span><span class="speaker"><strong>发言人3: </strong></span>对，确实明码我们在国内已经做了两年多，其实得到了开发了非常大的喜欢。也是在这个插件这个市场，在中国是第一的一个占有率。所以我们更多的讨论还是在去做一些基本面的一些嚼抉择，包括我们是以什么平台去做这个全球化。是以什么形态，是以插件还是IDE，还是命令行，还是其他的形态，还是智能体单独的输出。另外就是说包括我们这个模型选择，我们到底是用这个纯自家的模型，还是说整合全球各种各样的模型？其实我们对这些问题都做了一些深入的探讨。</p>
-<p class="transcript-line"><span class="time"><strong>[00:33:22]</strong> </span><span class="speaker"><strong>发言人3: </strong></span>最后其实促成我们去做决定的，我觉得还是一些观点和判断，就是说还是从市场出发。就是今天开发者会选择什么样的产品，我们认为还是说他一定会选择最好的产品，最优质的产品，最懂他的使用习惯的产品，可能给他带来最大价值的产品。我们还是从这个角度出发，还是决定做一个今天code这样的一个形态的一个设计。所以说灵码就是我们把它定位为服务于中国市场这么一个形态。</p>
-<p class="transcript-line"><span class="time"><strong>[00:33:57]</strong> </span><span class="speaker"><strong>发言人3: </strong></span>当然这样也是为了给我们自己的模型也是争取时间，对吧？那如果说比方说一年内阿里的模型变成全球最好的模型，那其实coder肯定里面都是混模型。其实也是在争取时间，但是还是要去服务更广大的开发者。我们不能等模型成为世界第一，我再去服务开发者，这个已经没有机会。所以我们还是先服务开发者，然后给自己的模型也是争取一些时间。我们定下来这样的一个路径以后，其实大家还是干劲非常足的对，因为我们这个是对这个市场足够的了解。其实我们也打造了一些比较成功的产品，有这样的经验。</p>
-<p class="transcript-line"><span class="time"><strong>[00:34:36]</strong> </span><span class="speaker"><strong>发言人1: </strong></span>所以你们是一个完整的团队。这个团队其实不是从零开始来去组建的。对，这个团队之前就在做林马还是对。</p>
-<p class="transcript-line"><span class="time"><strong>[00:34:44]</strong> </span><span class="speaker"><strong>发言人3: </strong></span>当然也有一些做其他的工作的一些同学OK一起加入进来，一起来做对，所以我们这个起步也比较快，当然大家也都比较拼，因为其实对于这样的一些产品和机会，对，因为我们比都比较信奉这个技术改变世界。对，但是我们真正遇到一个有改变世界技术，或者是把这个技术辐射到全球去改变很多的开发者，然后创造很多价值的机会的时候，对大家还都是非常的拼。</p>
-<p class="transcript-line"><span class="time"><strong>[00:35:10]</strong> </span><span class="speaker"><strong>发言人2: </strong></span>所以我比较好奇的问题是，比如说这个项目在立项的时候，你是自己主动要求来的，还是就是组织安排的双向奔赴。</p>
-<p class="transcript-line"><span class="time"><strong>[00:35:20]</strong> </span><span class="speaker"><strong>发言人3: </strong></span>对，因为确实明码也是一个蛮不错的一个成果。其实把它延伸为一个面向全球化的产品，我们认我认为还是非我们莫属。</p>
-<p class="transcript-line"><span class="time"><strong>[00:35:30]</strong> </span><span class="speaker"><strong>发言人2: </strong></span>我其实刚才突然想到，它看起来就是从品牌上就是希望能够不要有这些所谓的冠名，前面是什么后面是什么。然后就是一个相对感觉上，我从这个品牌给我的感觉上相对轻的感觉。大家想到我先想到一个工具，而不是先想到阿里巴巴。</p>
-<p class="transcript-line"><span class="time"><strong>[00:35:47]</strong> </span><span class="speaker"><strong>发言人3: </strong></span>这也是我们为什么名字叫coder，对吧？Coder这个名字其实它就是CODER的一个谐音满意。对，其实就是程序员。所以我们这个定位就是说它也不是说因为哪个模型诞生的，因为哪一个平台诞生的。对它就是一个程序员，他就是你兜里的程序员，你家里的程序员和你的团队。对，所以我们就定位它它没有任何的这方面的一些限制。对然后它这样的话它才比较有这个发展空间。</p>
-<p class="transcript-line"><span class="time"><strong>[00:36:15]</strong> </span><span class="speaker"><strong>发言人2: </strong></span>那你方便介绍一下他大概在阿里这个AI的战略里面是一个什么样子的位置。</p>
-<p class="transcript-line"><span class="time"><strong>[00:36:20]</strong> </span><span class="speaker"><strong>发言人3: </strong></span>对，因为其实很重要的一点就是说对于资源的支持，包括目标的这种解绑，让团队的效率其实给了比较多的支持。对，因为其实还是要卸掉一些包袱，然后面向这个市场，就是说我们要看友商怎么做的，别人怎么做的，别人为什么跑得快，所以我们也要跑得快。其实从这些方面给了我们非常大的支持。对我认为这个是最重要的。因为很多人都会担心说，是不是一个大厂，它的这个流程，它的机制、它的约束条件会非常的复杂。对那记这个一定会出卖效率，尤其对于一些从0到1的产品。我们也是认为说其实今天它是一个内部的创新，也是一个内部的创业，就给了非常多的这个开放度，我认为这是最好的一个支持。</p>
-<p class="transcript-line"><span class="time"><strong>[00:37:09]</strong> </span><span class="speaker"><strong>发言人1: </strong></span>其实在coder发布的时候，大家就说这个BAT3家就是AI coding全部都发自己的产品。然后我们再看海外，其实anthropic也在做cloud code对吧？OpenAI也有它的这个产品，所以想听听从你的视角来看，不管是国内还是海外，你觉得这个创业公司有机会吗？如果有的话，机会在哪里呢？</p>
-<p class="transcript-line"><span class="time"><strong>[00:37:28]</strong> </span><span class="speaker"><strong>发言人3: </strong></span>从今天来看，创业公司的机会会越来越少。对，因为今天即使作为咱们讲AI coding是一个大元模型的封装型的产品，对它其实也是需要比较大的资本投入。对，因为其实他要形成一定的规模，他的这个团队的投入，还有就是说他的成本的投入，其实都是蛮大的。对，这是一方面。另外一点就是创业公司不占优势。另外一点就是说对于平台它的优势会越来越大。</p>
-<p class="transcript-line"><span class="time"><strong>[00:38:00]</strong> </span><span class="speaker"><strong>发言人3: </strong></span>还有一个他自己的飞轮效应，我们就以class code为例，class code跟GPT5的code x其实它有它先天的优势。对，因为它本身他拿自己的模型，它的成本是比较低的对比方说课程它的成本可能要高几倍。所以说他就会做出一个我们刚才讲的性能又好，成本又低，效能也不差，他就可能就完成这个了。因为对他来讲，他的平台它保有的一个资源和集群，这才讲是个沉默成本。但是他卖给客户，他一分钱都不会少，所以说他就会做出他的优势来。</p>
-<p class="transcript-line"><span class="time"><strong>[00:38:34]</strong> </span><span class="speaker"><strong>发言人3: </strong></span>这个时候其实但是早期的创业公司有很大机会，像科斯也好，拉拉邦也好，因为他已经早期它是定义了一个品类，对它定义了一个形态，然后它就会有一些的先发优势，再加上今天他的这个迭代的速度，对吧？所以说他可以让大家追不上，也是它形成一定的优势。但今天这个时点是再有一些创业公司进来，那他可能一定要去创造新的模式，对吧？如果说在同类的同类形象跟大厂，跟一些禁摩厂商，还有跟一些先发优势的厂商，相比来讲有没有什么优势？</p>
-<p class="transcript-line"><span class="time"><strong>[00:39:08]</strong> </span><span class="speaker"><strong>发言人2: </strong></span>国内你觉得从产品上讲，你觉得谁做的比较好？</p>
-<p class="transcript-line"><span class="time"><strong>[00:39:11]</strong> </span><span class="speaker"><strong>发言人3: </strong></span>我觉得我们做的很好，除了你你们其实也没有几家了。对，其实我觉得都是蛮值得尊敬的对手的对，但其实我们觉得今天这个领域也正因为大家有不同的理念，然后构建了不同的产品形态，他会满足不同开发者的一个诉求。所以说本质来讲，在我们看来它不是一个直接竞争，他是在一个非常大的领域中去撬动一部分用户。对，因为今天我们就以一个专业开发者的角度，全球可能最多才覆盖到3分之1。对，其实还有3分之2的都没有覆盖，所以他今天还不是一个竞争很激烈的一个吧？大家都同质化了，各方面都在卷极致的性价比还没到这个阶段，大家在形态上其实也是满百花齐放。</p>
-<p class="transcript-line"><span class="time"><strong>[00:39:58]</strong> </span><span class="speaker"><strong>发言人1: </strong></span>就你觉得AI coding产品用户留存会是你们的一个担心的点？因为感觉好像代码库在那儿了。今天我可以用coder，明天我其实也是比较容易再切到cos r的。如果比如说咳嗽那边接了一个搜它的模型。</p>
-<p class="transcript-line"><span class="time"><strong>[00:40:14]</strong> </span><span class="speaker"><strong>发言人3: </strong></span>其实我们一直讲一个逻辑，因为我们内部其实也有些讨论。就是我们做这个real v题就给你讲的一个代码可视化。其实我们一直讨论这个逻辑，说这个可视化的材料是不是只有在code中才能看。最后我们还是决定说这是不可能的，一定是在哪里都能看。一定是这个东西是归属于用户的，一定是说他可以导出去，这资产是归他的。但是我们最朴素的一个想法是说能不能让用户如何能让用户留在这个平台。对，但是我们还是认为说差异化的能力和开放性对会赢得用户的好感和认可。所以我们第一我们要做出差异化的能力，第二我们要做出开放性，我们认为这是最大的免性。</p>
-<p class="transcript-line"><span class="time"><strong>[00:40:57]</strong> </span><span class="speaker"><strong>发言人1: </strong></span>我们说到repo wiki的时候，也就是很多好评的来源，也是书童一开始讲的。你们针对的是存量代码，就是我在痛苦的维护一个可能前面有100个人写过的代码，然后我今天突然接手了，我怎么去理解他们，怎么再去改的时候，保证不要改一个bug，改出100个我都不知道哪里有冒出来的bug，这个是你们提供的一个很大的价值。Rio wiki这个事儿它听起来很容易，但是我想象中做起来可能没有那么容易。一个是存量代码有可能又多又乱又杂就。你们在这个过程中是怎么做到比较好的把它整理出来，然后还原出来，让用户可以清晰的去理解这个存量代码的。这里有没有一些可以分享的地方？</p>
-<p class="transcript-line"><span class="time"><strong>[00:41:42]</strong> </span><span class="speaker"><strong>发言人3: </strong></span>其实您讲的这个它可能又乱又杂等等，或者是比较复杂，工作量比较大。其实这些工作对于大语言模型来讲都是比较擅长的。对我觉得这是第一个点，所以我们这个实现都是用大元模型来实现。但是我们会构建出自己的一些相关的智能体。</p>
-<p class="transcript-line"><span class="time"><strong>[00:41:59]</strong> </span><span class="speaker"><strong>发言人3: </strong></span>但实际上我们的一个判断，包括对于整个开发者日常工作的一个理解来讲，就是说所有的工作的沉淀，最实时最新鲜的就是代码。因为今天比方说老板提一句话需求，我们把这个功能改掉。但是大家不会把文档再补一下。对，因为这个东西非常不经济。对，所以说但代码一定会改，代码呈现出来的业务形态一定是老板需要的，一定是产品经理需要的对，所以说随着这样的演进，最后那个文档就已经很失真了。对，就没有参考价值。所以对所以我们今天所有的出发点都是基于代码。</p>
-<p class="transcript-line"><span class="time"><strong>[00:42:36]</strong> </span><span class="speaker"><strong>发言人3: </strong></span>代码它不是只有一个切片，他还有他的提交记录历史版本。所以我们去分析它的当下切片和某一个切片，和一些中间过程中的变更记录。基于这样的一些信息去形成对整个代码库的理解。包括它的设计，它背后的思考，经过多少迭代，它的时序是什么，关系是什么，业务架构是什么，整个的业务逻辑是什么，把这个东西生成出来，对吧？那这样的话就有了一个超脱于以前所有文档的一个更高价值的文档。</p>
-<p class="transcript-line"><span class="time"><strong>[00:43:08]</strong> </span><span class="speaker"><strong>发言人3: </strong></span>而且它每一行每一个文档，每一行每个字都是单元模型生成的，也没有给人带来什么新的工作量。另外一点就是说随着这个代码库的一个变更提交，它还可以去刷新这个文档，要实时的增量的去更新这个文档。所以说这个文档就是可以说是这个系统中最有价值的一个文档。但它是AI生成的。</p>
-<p class="transcript-line"><span class="time"><strong>[00:43:29]</strong> </span><span class="speaker"><strong>发言人1: </strong></span>听起来真的很有需求，对吧？比如说我们学计算机第一课老师说要把文档写好，至少要把注释写好吧。对，然后我觉得在最开始工作的时候，其实就经常复盘会。然后工程师就会说，这一次这个注释没写好，所以我们效率不高，然后我们就找个解决办法。下一次我们互相review彼此的代码，确保对方的代码是写了文档或写好注释的。但是往往事与愿违。在人性或者在老板的对速度的要求面前，我觉得几乎没有什么团队能够真的维护一个好的文档。</p>
-<p class="transcript-line"><span class="time"><strong>[00:44:02]</strong> </span><span class="speaker"><strong>发言人1: </strong></span>这个是一个如此显性的需求，那为什么之前比如说科没有做，或其他的友商们没有做？这是一个第一个问题。第二个问题就是如果有一天他们想做了，他们也能做到咱们的程度吗？还是说我们有一些秘密配方，或者我们有一些独到的这个工程上的解决的思路，让其他人要我们也没有那么容易。</p>
-<p class="transcript-line"><span class="time"><strong>[00:44:24]</strong> </span><span class="speaker"><strong>发言人3: </strong></span>肯定是没有那么容易的。因为其实如果说实现这个功能是比较容易的，他还是讲到刚才那点，就是说你如何多快好省的事情，对吧？又又比较便宜，效果也比较好。又很能够理解它整个的历史的记录。因为我们其实有一整套规划，一个是说我们其实定制了模型在做这件事情，我们定制了自己的agent OK它一整套的这个K是有个维护的一个工作流的，也有一个它使用的工作流。</p>
-<p class="transcript-line"><span class="time"><strong>[00:44:56]</strong> </span><span class="speaker"><strong>发言人3: </strong></span>所以它对我们来讲它是个体系，它是深度融合到开发者的工作过程中的。因为这里面，技术上我们做了很多的定制，然后从业务场景上也是一样的。就是我们如何去让开发者就是它把它变成一种沟通协同的工具。比方说今天我们想要去交接一个工作，交接一个模块，或者有人要离职，有人要入职，要学习一个系统，他都可以从这个文档开始。所以说我们定义了一整套的这个逻辑。</p>
-<p class="transcript-line"><span class="time"><strong>[00:45:23]</strong> </span><span class="speaker"><strong>发言人3: </strong></span>还有就是说当然如果说这个团队有十个人在开发这个系统，我们也不需要生成十次。所以我们又构建了一个跟git仓库去结合，去做共享和导出的这么一些能力。所以说今天它不是一个原子化的能力，它是一个一整套的工作流。所以说这样的话，它就形成了一些体系化的一些壁垒OK。</p>
-<p class="transcript-line"><span class="time"><strong>[00:45:43]</strong> </span><span class="speaker"><strong>发言人1: </strong></span>而这个工作流可能和coder其他工作流是有一些耦合的。对他也很难。如果我说我做的话没有那么容易。</p>
-<p class="transcript-line"><span class="time"><strong>[00:45:51]</strong> </span><span class="speaker"><strong>发言人3: </strong></span>对对对，包括之前我们刚上线的时候，生成一个report题可能要60分钟。那现在我们最新的版本可能一下就缩短了五倍的时间。对，但是确实它产生的这个token量特别大，所以说也确实要花不少时间。但是其实我们因为正是因为我们有了这种定制化模型的这个能力，所以我们可以有几倍的一个效能提升。</p>
-<p class="transcript-line"><span class="time"><strong>[00:46:16]</strong> </span><span class="speaker"><strong>发言人1: </strong></span>我有一个好奇，就是我们都知道这个repo wiki生成出来的还不错，但是你们在做它的过程中怎么去评估呢？比如说我们生成一张图好不好，或回答一个问题好不好，这个非常容易人就做出了判断。但是我说我给你一个代码库，你给我搞一个文档出来，我来判断这个文档好与不好，这个判断的难度是非常大的，而且这还不是只针对一个代码库描述这样的判断。因为今天这个你可能要测几百个甚至上千个代码库出来的这个rip wiki好不好？那当时你们这个内部的评估的工作是怎么去设计的？</p>
-<p class="transcript-line"><span class="time"><strong>[00:46:52]</strong> </span><span class="speaker"><strong>发言人3: </strong></span>是这样的对，这个是个非常好的问题。其实今天大语言模型这个领域都面临这个横屏的问题。就是说到底谁好在什么场景下，哪些case下谁好。所以一个是说跟自己比，就是我这一版是不是比上一版好一个。另一个比法就是说我自己定制化的模型跟可能海外比较优秀的模型去比，到底谁生成的好。生成的好与不好，一个是有一部分人来判断，有一部分就是说我们也是通过一些跟这个强化学习一样去比。这个就是有一个奖励模型，哪些东西是好的，哪些东西采纳率比较高，哪些东西看的比较多。也可以有一些用户标注的一些能力，通过这些其实就能标识出来到底这个东西是不是又进步了。那对于这个最开始的一个版本，其实我们就是看我们自己的模型跟海外的模型谁生成的好。其实这个就是有一些人的这个工作在里面OK.</p>
-<p class="transcript-line"><span class="time"><strong>[00:47:48]</strong> </span><span class="speaker"><strong>发言人2: </strong></span>你们接下来比如说今年短期之内希望再下一步很快实现的目标是什么？</p>
-<p class="transcript-line"><span class="time"><strong>[00:47:54]</strong> </span><span class="speaker"><strong>发言人3: </strong></span>其实我们核心的思路还是提升产品的能力。对，因为其实我可以分享一个我们的这个quest mode。对，quest mode不是讲的是它是一个自主编程。对，就是我们对于未来这个开发者的工作形态的一个定义或者一个预判。就是更多的开发者会使用这种自主编程，就是人当leader，agent干更多的活。</p>
-<p class="transcript-line"><span class="time"><strong>[00:48:19]</strong> </span><span class="speaker"><strong>发言人3: </strong></span>其实在这过程中我们就发现说这里面有一个天花板。天花板就是人的工作时间，还有人的电脑。对，就是说我把电脑合上了我就不能工作，但是我希望AI还能继续工作。那我下班了我就不能工作，那我也希望还能继续工作。</p>
-<p class="transcript-line"><span class="time"><strong>[00:48:34]</strong> </span><span class="speaker"><strong>发言人3: </strong></span>对所以这种情况下我们的快速mode就延伸出去了。我们构建了云端的沙箱环境，然后再通过spack把spack和我那个代码库发到云端。他可以在云端长时间工作，包括我休假了他还可以继续工作。所以说而且我还可以起十个异步的沙箱，大家十个并行的在做对，然后他跟我的工作和生活习惯是异步的对所以这样的话我相当于我一个人带了十个agent，在完成一组需求。我的生产力提升了十倍，它有没有影响我的这个工作生活平衡？所以说对于这种模式，它就我们认为就是说它是真正能带来为了打开这个时间和空间的限制，它是真正带来十倍生产力提升的这样一种模式。所以我们也发布了这样的这个能力。</p>
-<p class="transcript-line"><span class="time"><strong>[00:49:19]</strong> </span><span class="speaker"><strong>发言人1: </strong></span>其实cursor也有agent模式，但听起来就咱们coder和cursor在agent都叫agent的这个模式之下。还是有很大的不同，就咱们是云端沙箱可以多线程，除了这个不同。</p>
-<p class="transcript-line"><span class="time"><strong>[00:49:32]</strong> </span><span class="speaker"><strong>发言人3: </strong></span>还有哪些不同？它也支持了一个云端的模式。对，但是，大家的实现方式不太一样，对，包括他可以在远程启动IDE。对，那其实我们就没有远程IDE，所以我们远程就是一个运行环境，这样的话其实会比较灵活，然后它的那个时效性也比较好。对，就是我其实不太需要IDE中很多的这个插件、工具。对，我们只要把这个智能体迁移到，这样的话对于我这个可以起很多并行的沙箱，然后可以并发出很多任务就比较有帮助，资源消耗也比较少，启动也比较快。所以说大家在路径选择和实现方式上会有很大的不同。</p>
-<p class="transcript-line"><span class="time"><strong>[00:50:13]</strong> </span><span class="speaker"><strong>发言人1: </strong></span>所以你会觉得这个用户和coder之间的关系是，用户是老板，coder就是一个未来独立编程的一个agent是吧？其实devin和minus都有类似的这个设计理念，然后我觉得他们俩都有一个共同的功能，就是如果一个agent干活干的比较久，我就可以去问他，我说你现在在干嘛？为什么让我等了那么久？然后David和minus都可以来回答这个问题，就像我好像真的去问我的一个下属，他会立即停下手中的工作，扭过头来给我做一个快速的汇报。汇报完了我可以调整一下他的工作内容。然后你可以说行，你继续。对，然后一个是code支持这个功能，然后另外一个就是我比较想知道，你怎么看未来不只是AI coding，就整个AI领域人和AI会变成什么样的关系？</p>
-<p class="transcript-line"><span class="time"><strong>[00:50:57]</strong> </span><span class="speaker"><strong>发言人3: </strong></span>我们也支持类似的功能。对，因为确实当他在长时间的做一些工作的时候，他可能会跑偏。对，另外就是说他可能会耍些小聪明，跳过一些任务，这个是很容易出现的。所以我们一方面去约束他的行为，我们的任务最开始的时候就制定一个todo list。我们的A智能必须严格按照制定好的突出例子去执行它，不允许跳过和这个没做完告诉你他做完了，这个在我们这里是不存在的，他一定会按照这个来。另外就是说他执行很漫长的一个任务的过程中，对他就可以过程中我们去询问，他可以不断的去把他的工作流输出出来。我们去询问他，过程中可以给他一些新的一些指示和要求，来纠正他的行为，所以我们也提供了这样的一个能力。</p>
-<p class="transcript-line"><span class="time"><strong>[00:51:42]</strong> </span><span class="speaker"><strong>发言人3: </strong></span>对，也是担心说跑了很久，跑了三四个小时就生成的结果，从中间就已经跑偏了。这个对大家都是一种浪费。所以我们我们是构建了这方面的能力。</p>
-<p class="transcript-line"><span class="time"><strong>[00:51:50]</strong> </span><span class="speaker"><strong>发言人1: </strong></span>那你会认为未来人和AI不只是人和AI coding，你会觉得他们会是有什么样的一个共生关系呢？</p>
-<p class="transcript-line"><span class="time"><strong>[00:51:57]</strong> </span><span class="speaker"><strong>发言人3: </strong></span>但我觉得还是想从coding来讲，对，因为我们还是有个观点，就是说coding这件事情，其实它会变成这个大圆模型的一个双手和执行器。它会变成一种所谓的数字世界和物理世界的一个连接器。对他他会去帮助人去做很多复杂的任务。其实人在这里面一定是成为一个管理者。然后他能够去提出明确的要求，他就会有不同的智能体？去理解和协同来完成这个任务。</p>
-<p class="transcript-line"><span class="time"><strong>[00:52:30]</strong> </span><span class="speaker"><strong>发言人3: </strong></span>所以说未来其实更多比方说有竞争力的这个我认为职场中或者是这个商业社会里面比较有竞争力的一些人，肯定是能够去充分的去驾驭这些AI的对。能够把大家管理好，协同好，然后找到一个场景，找到一个业务形式，然后能够把这个业务价值做出来。所以说今天为什么会有很多艺人公司？我觉得他就代表了未来的一种人和AI之间非常好的一个协作关系，形成很多非常有创造力的组织。然后很多工作都是由AI之间互相协同来完成的，可能这是未来成为一个主流的组织形态是有可能的。</p>
-<p class="transcript-line"><span class="time"><strong>[00:53:07]</strong> </span><span class="speaker"><strong>发言人2: </strong></span>虽然叫coder，但是你们会只做coding吗？</p>
-<p class="transcript-line"><span class="time"><strong>[00:53:12]</strong> </span><span class="speaker"><strong>发言人3: </strong></span>我们目前肯定是只做coding，但我们认为其实整个产品的形态和它覆盖的场景还会非常的有非常大的一个外延。就是我们讲的今天我们是从下到上去构建这个产品能力。所以说在模型之上去做优化？去做定制也好，然后去做这个上下文工程，然后形成大量的agent和工具。其实当我们这个能力做到比较领先的时候，我们上面的产品形态和产品的这个界面可能延展的它绝对是可以延展的。</p>
-<p class="transcript-line"><span class="time"><strong>[00:53:45]</strong> </span><span class="speaker"><strong>发言人3: </strong></span>IDE它只是一种形态，它今天代表的是我们的专业开发者的工作的核心界面，它这个最大公约数那个CRI它代表的是说是一些更专业的对吧？或者是要自动化的一些开发有一些界面。我们还是会把这个agent会集成到很多的流水线定制化的场景，甚至说你的手机，你的一个可能做一个APP，对它在里面都可以去唤起一个agents去为他工作。所以说这个形态上就会有更多的展开？那从场景的角度也是一样的，就是说今天每一个小的需求都可以被满足，所以就是大量场景和数字化？另外一点就是说很多复杂的任务可以让AI挑大梁来做。这里面我们的agent它就会成为它的一个执行器，所以我们的场景也会充分的打开，所以说绝不是说未来只有一个IDE.</p>
-<p class="transcript-line"><span class="time"><strong>[00:54:43]</strong> </span><span class="speaker"><strong>发言人2: </strong></span>我感觉你们更像clo code承载了这个使命跟可以想象的外延。</p>
-<p class="transcript-line"><span class="time"><strong>[00:54:49]</strong> </span><span class="speaker"><strong>发言人3: </strong></span>因为我们还是希望把自己定位为说是模型之上的一些编程智能体。所以说我们的IDE是一个编程智能体，IDE平台，我们可能还有编程的智能体叉叉叉平台。</p>
-<p class="transcript-line"><span class="time"><strong>[00:55:02]</strong> </span><span class="speaker"><strong>发言人1: </strong></span>就在我们录播课的前一天，我们注意到coder刚发了COI就命令行的模式。对，所以很想请教一下，你们发他的这个背景，内部的一些思考是什么？刚才已经提到了一些，看看有没有补充。然后另外也会很关心，一个是和cloud code的有没有竞争，如果有的话怎么竞争？</p>
-<p class="transcript-line"><span class="time"><strong>[00:55:21]</strong> </span><span class="speaker"><strong>发言人3: </strong></span>我先讲一下说我们为什么要构建这么一个形态。对，其实还是回到说我们做IDE，实际上是希望把这个coding能力以一个大家最普遍的工作界面提供开发者。因为大家其实最广谱的开发者还是以IDE作为它的工作界面，对吧？所以我们很自然的要去做固定的一件事情，就会去做IDE。</p>
-<p class="transcript-line"><span class="time"><strong>[00:55:43]</strong> </span><span class="speaker"><strong>发言人3: </strong></span>然后在这个形态之外，其实我们也看到用户这个开发界面的这个场景是非常多元化的对，因为其实就像我们这个开发者，他不是说一周七天，一个月24天、21天都在做口径一样。他还有不同的这个工作，也在不同的平台去承载他的工作。对，包括有些工作他可能要去写一些脚本，有些可能要做一些维护，通过命令行的方式做一些工做一些事儿，或者做一些流水线的集成，或者在一些平台上去做一些工作的开展。这个过程中，其实你在IDE里它是一个全封装的一个形态。对他就没有办法把这个智能体外化出来，对吧？它是封死的对所以我们就需要去把这个智能体一种灵活的方式能够被集成。所以我们的命令行就承载了这个像命令行的形态、脚本的形态，被集成的形态。甚至来讲，比方说wam，就是他有很多的不同的开发者，他就用不同的ID我们不能说假设说所有的开发者都在用VS code，这个假设根本不成立。</p>
-<p class="transcript-line"><span class="time"><strong>[00:56:50]</strong> </span><span class="speaker"><strong>发言人3: </strong></span>对，但我们的ID是基于VS code，所以你天然就放弃了很多开发者，但是我们的CLI就能够服务于理论上，它能服务于所有开发商。所以说他是打开了一个更广泛的一个客户的群体。所以从这些角度，我们是一定会推出这么一个形态的对，因为我的目标是服务于广谱，服务于更大的这个用户规模。</p>
-<p class="transcript-line"><span class="time"><strong>[00:57:13]</strong> </span><span class="speaker"><strong>发言人3: </strong></span>第二个就是说我们怎么跟卡拉扣的去做这个竞争。其实我们也认为它不是一个单一维度的竞争，并从模型的角度？还有成本的角度，就是它其实它在上下文构建上比较的简单粗暴，但效果非常的好。我们其实做的很精细？因为有的时候我们会发现，如果我们不用自己家的模型，用别的模型是很贵的，所以它不存在这个问题，所以我们必须我们不能在一个维度上去竞争。所以我们在上下文组装上做了很多工作。这一方面包括对于agent的灵活性的定义上，包括一些sub agent的一些设计上，其实我们都有一些自己的实现。</p>
-<p class="transcript-line"><span class="time"><strong>[00:57:52]</strong> </span><span class="speaker"><strong>发言人3: </strong></span>对但另外一点我们还是希望说我们是多场景渗透，我们是会做场景，做场景恰恰是我们擅长的。对，就好比说我可以在手机上去安排一个工作，在slack里，在IM里去跟进和安排一个工作，其实都可以。但这种场景化他都能够去满足一部分用户的这个刚需。所以说这种情况下，因为我们是做应用层的，那其实做模型厂商他就不会去搞这些产品形态的一些创新。所以说这样大家就会有一个差异化的一个定位。</p>
-<p class="transcript-line"><span class="time"><strong>[00:58:31]</strong> </span><span class="speaker"><strong>发言人1: </strong></span>其实刚才我们有多次提到上下文工程，就是听起来是coder在上下文这里做了不少的工作。这里可不可以稍微展开讲一讲，就是有没有一些具体的一些你们的心得，或者你们优化上下文的一些方法论，可不可以拿出来分享。</p>
-<p class="transcript-line"><span class="time"><strong>[00:58:47]</strong> </span><span class="speaker"><strong>发言人3: </strong></span>对，因为今天其实我们要去构建一个比较好的三工程，一定是我们讲的多快好省，对吧？一定要做到这样的效果。其实另外一点就是说agent的工具，我们设计哪些工具，还有哪些技术实现方案能够达到这样的一个效果。对，因为其实本质就是区动单元模型工作干活。所以在这个角度上，我们其实做了比较多的探索。</p>
-<p class="transcript-line"><span class="time"><strong>[00:59:13]</strong> </span><span class="speaker"><strong>发言人3: </strong></span>包括从比方说我们讲的这种相关性检索。对，因为今天你不可能每一次问题都把所有的内容都丢给他。因为这个非常的消耗成本，消耗时间。所以说我们一定要找到这里面的相关性，对吧？那你到底是用向量化的这种检索，还是用这种文本化的检索，其实这个就不一样。那要不要加语义的检索在里面？所以说每一个是相关的这个问题都会找到一个自己的实现方式。</p>
-<p class="transcript-line"><span class="time"><strong>[00:59:41]</strong> </span><span class="speaker"><strong>发言人3: </strong></span>那到底是用agent还是sub ent到底用哪种方式再去完成这些工具的一些调用，完成一个上下文内容的一个聚集，然后再拼出一个比较合理的上下文，这上下文绝不是越长越好。再跟模型互动拿到一个结果，可能不断的循环调用工具，最后完成一个任务。所以在这个过程中就是要做到我们讲的多快好省，有多元化的一种工具选择，还有就是癌症的实现方式。另外我们还做了一些像这个记忆的一些构建。因为我们认为记忆也是非常关键的。</p>
-<p class="transcript-line"><span class="time"><strong>[01:00:17]</strong> </span><span class="speaker"><strong>发言人3: </strong></span>因为比方说一个用户在跟模型交互，在跟我们的上下文工程交互的过程中，他会给你非常明确的指示。这种指示可能是潜移默化的对吧？因为他不会在提示词里写清楚，他会说这个不是我要的，这个是我要的，我喜欢什么不喜欢什么。我们会把这些东西快速的抽快速抽象出来，变成一种我们的规则。有的可能变成系统提示词，有的变成了一种记忆。而这种记忆就会约束下一轮以后所有交互的这个模型的行为。</p>
-<p class="transcript-line"><span class="time"><strong>[01:00:50]</strong> </span><span class="speaker"><strong>发言人3: </strong></span>然后这样的话就会保证我们又能够有一个不那么快的上下文的一个增长。因为上下文增长越快，你越消耗成本，又能保证我们有一个比较好的一个效果。能够让开发者觉得这个工具越用越懂我因为我原来的行为习惯变成他的行为规约了。对他就没有把这件事情说明白的时候，对方已经学会了形成默契了，开始。对所以我们在这方面做了很多的一些探索和一些创新。</p>
-<p class="transcript-line"><span class="time"><strong>[01:01:17]</strong> </span><span class="speaker"><strong>发言人1: </strong></span>咱们刚才讲到这个memory的info，讲到也用了沙箱，然后其实还有就是做to do list，对吧？这些都是咱自建的，还是也用了一些开源三方。</p>
-<p class="transcript-line"><span class="time"><strong>[01:01:28]</strong> </span><span class="speaker"><strong>发言人3: </strong></span>都是自建。所以这也是需要这个团队在这个领域有比较深的理解和积累。</p>
-<p class="transcript-line"><span class="time"><strong>[01:01:33]</strong> </span><span class="speaker"><strong>发言人2: </strong></span>我们这期节目会在1024程序员节那天播。这是一个比较个人的问题。如果你今天回到自己刚刚工作那个时候，已知后来的世界发生了这么多的变化，现在回看那个时候的自己会有什么感触吗？</p>
-<p class="transcript-line"><span class="time"><strong>[01:01:47]</strong> </span><span class="speaker"><strong>发言人3: </strong></span>对，其实我是觉得对于每一个工作者或者叫职业工作者来讲，还是要有一定的预判性。对就是说我们要去感知说未来会发生什么样的一些变化和趋势。就是我们不要为过去的一些事情去买单。还是要为未来即将发生的事情去买单。我觉得还是希望能够勇敢的去迈出这一步，做出一些主动性的选择，而不是说去被动性的被推着走？还是有选择的去做这个世界，这个容错率也很高，大家应该去勇敢的迈出这一步。</p>
-<p class="transcript-line"><span class="time"><strong>[01:02:23]</strong> </span><span class="speaker"><strong>发言人2: </strong></span>那你自己作为一个做了这么久程序员的人，你自己在做这个产品做下来的感受是什么？就是有一种自己在隔自己的胃部感觉。</p>
-<p class="transcript-line"><span class="time"><strong>[01:02:32]</strong> </span><span class="speaker"><strong>发言人3: </strong></span>我都没有说去做一个革命的性的一个工具。其实我们更多的还是认为说在给未来的程序员去探索一条发展的路径。就是未来的这个开发者也好，甚至份开发者也好，他需要什么样的工具？然后什么样的工具能够产生更大的商业价值？我们从这个角度来思考。</p>
-<p class="transcript-line"><span class="time"><strong>[01:02:54]</strong> </span><span class="speaker"><strong>发言人3: </strong></span>其实今天我们不做也是一样的，它一定会发生的。就是大家的工作的方式，组织的协作关系都在发生变革。所以我们希望说是以一种能够更加面向未来的，然后更懂开发者，而更懂未来这个组织生产关系和协作方式的一种一种姿态或者是一种视角切入。然后去探索出一个给开发者未来更有发展的这么一个平台，是从这个角度来看，而不是说简单的去说，以后程序员都不需要了，以后都是我们工具在做。</p>
-<p class="transcript-line"><span class="time"><strong>[01:03:26]</strong> </span><span class="speaker"><strong>发言人3: </strong></span>其实我非常不认可这个观点，对，一定是人跟这个agent去协同去工作的这么一个形态。其实我觉得跟我们这么多年做这个开发者，我认为一个优秀的开发者还是要站在技术的肩膀上，而不能成为技术的奴隶。什么叫站在技术肩膀上呢？就是所有的技术要为我所用，创造更大的产能，创造更大的商业价值。对，所以说我们讲的跟技术要红利，你要到了你就是这个就是这个弄潮儿，要不然可能就被那个淘汰了。所以我们还是说把这个AI coding的能力，把它平民化，让它一个很简单的获取，但是不能主动拥抱，不能够很好的去驾驭的，也是会很有问题。</p>
-<p class="transcript-line"><span class="time"><strong>[01:04:16]</strong> </span><span class="speaker"><strong>发言人2: </strong></span>的那你会怎么看待这个AI会取代程序员这件事呢？</p>
-<p class="transcript-line"><span class="time"><strong>[01:04:20]</strong> </span><span class="speaker"><strong>发言人3: </strong></span>我相对来讲还是比较乐观的，就是不觉得说AI会取代程序员。对，然后首先程序员还是要能驾驭ai，他把AI当成一个巨人，我们站在他的肩膀上，去创造业务价值。这样的程序员其实都是很有前景的，这是一个点。</p>
-<p class="transcript-line"><span class="time"><strong>[01:04:39]</strong> </span><span class="speaker"><strong>发言人3: </strong></span>另外不是有个杰文斯悖论，当你这个成本变低的时候，他的需求会被打开。对，所以说他这个需求变成海量以后，大家都可以低成本的去做很多的创作，对吧？但是这里就出现了很多的饭开发者，对，但是放开发者就可以做一些小的小创新或者是满足一部分群体的那专业程序员就可以做一些大创新，因为他还是具备他的专业性。所以说从这个角度来讲，程序员的数量可能会变多。但是还是要去能够借助AI可能如果能爆发出五倍十倍的生产力，他一定是说更有这个前景和竞争力，对吧？如果说做不到的话，那可能他就变成一个普通的程序员了。所以整体来讲我们还是比较乐观一点。</p>
-<p class="transcript-line"><span class="time"><strong>[01:05:26]</strong> </span><span class="speaker"><strong>发言人2: </strong></span>你们自己内部的开发方式线是什么样？</p>
-<p class="transcript-line"><span class="time"><strong>[01:05:29]</strong> </span><span class="speaker"><strong>发言人3: </strong></span>我们团队也都是很多的日常大比例的采用coder这个产品。</p>
-<p class="transcript-line"><span class="time"><strong>[01:05:35]</strong> </span><span class="speaker"><strong>发言人1: </strong></span>我们用coder做coder。</p>
-<p class="transcript-line"><span class="time"><strong>[01:05:37]</strong> </span><span class="speaker"><strong>发言人3: </strong></span>对，我们也有这样的要求，就是说你的这个代码生成有多少是AI生成的。我们有这样的一个明确的要求，就逼着大家去去革新自己，不是革命，是革新自己。</p>
-<p class="transcript-line"><span class="time"><strong>[01:05:52]</strong> </span><span class="speaker"><strong>发言人2: </strong></span>这是从什么时候开始的？</p>
-<p class="transcript-line"><span class="time"><strong>[01:05:54]</strong> </span><span class="speaker"><strong>发言人3: </strong></span>从牛马时代就开始。</p>
-<p class="transcript-line"><span class="time"><strong>[01:05:55]</strong> </span><span class="speaker"><strong>发言人1: </strong></span>的那你会觉得未来这个工程师们的核心竞争力会从编码能力改变成哪些能力呢？一定是跟复合的，有抽象过会变成哪些能力吗？</p>
-<p class="transcript-line"><span class="time"><strong>[01:06:06]</strong> </span><span class="speaker"><strong>发言人3: </strong></span>我们还认为说这个领域开发者定义会变得很宽泛。以前开发者可能他分类的，比方说我是做后端的，那他是做前端的，他是做IOS端的，那谁是做这个数据库DBA等等，分工精细化。当然现在已经不存在了，对吧？就后端工程师也可以搞前端，前端也可以搞后端。</p>
-<p class="transcript-line"><span class="time"><strong>[01:06:25]</strong> </span><span class="speaker"><strong>发言人3: </strong></span>其实因为单元模型给你很强的抹平这个差异的能力？所以从这个角度，个体能力已经被极致的放大了，打破了很多的边界。另外其实打破第一层边界以后，可能还有第二层边界。就是说因为他的写代码能力已经比人强了，你不能跟他比写代码能力无论从这个产能和这个效率，你都不能跟他比那这个时候就是要充分调动他，那人就要往上走一层，就是我们讲的需求洞察、意图识别。要求的描述，整体性的设计，结果的验收，产品sense等等，把把这些东西变成一种能力。所以每一个开发者未来都是一个复合型的人才。</p>
-<p class="transcript-line"><span class="time"><strong>[01:07:09]</strong> </span><span class="speaker"><strong>发言人1: </strong></span>所以如果今天就是要让你给比如说这个程序员们，以及给这个大一的计算机新生，就这两种群体不同的一些建议的话。所以这个建议是为了帮助他们在今天这个AI时代更好的获得事业上的进步，你会分别给什么样的建议？</p>
-<p class="transcript-line"><span class="time"><strong>[01:07:29]</strong> </span><span class="speaker"><strong>发言人3: </strong></span>对我们就讲说对于这个大学一年级的计算机的同学，对我们觉得还是第一个还是要充分的去拥抱AI去探索AI能为你做的事情的边界，要把它充分用起来，然后做一个会驾驭AI的人，对吧？我觉得这是第一方面。第二方面，我还是认为说一定要充分的去学习计算机的专业知识。对，因为今天其实计算机的体系结构并没有发生革命性的变化。咱们现在还是红曼的这个体系结构。对，今天还是这些操作系统，linux、windows、mac还是这些操作系统。如果不了解这些结构的话，其实你是没有办法去。</p>
-<p class="transcript-line"><span class="time"><strong>[01:08:14]</strong> </span><span class="speaker"><strong>发言人3: </strong></span>校验他做的东西好与不好的。其实他你不知道他做的好不好，你就没法驾驭他。他可能在忽悠你，对吧？所以说一定要有这个专业性。</p>
-<p class="transcript-line"><span class="time"><strong>[01:08:23]</strong> </span><span class="speaker"><strong>发言人3: </strong></span>另外一点就是说他也不是什么都能做对吧？比方说大语言模型就没有创造单元模型。比方说我们今天我们的AI coding产品可以做一个IOS的APP，可能做不了IOS，因为它足够复杂，足够顶层设计，足够少见。</p>
-<p class="transcript-line"><span class="time"><strong>[01:08:39]</strong> </span><span class="speaker"><strong>发言人3: </strong></span>所以说它还是有很多不能做的事情。其实不能做的事情就是附加值最高的部分。因为以后可能一个软件可能就值0.5元钱，对吧？尤其是一个比较简单的一个创意idea，它是不值钱的。如果你说我也能做对吧？那谁都能做，所以他就没有什么竞争力和附加值。所以要去学习提升专业性，做一些他做不了的工作。对，这个是保持一个好的职业发展和未来更有创造力的工作，因为他是必须。</p>
-<p class="transcript-line"><span class="time"><strong>[01:09:08]</strong> </span><span class="speaker"><strong>发言人2: </strong></span>的那你觉得在一个大厂里面成长的一个工程师，就是在这个职业发展上需要的技能是什么？</p>
-<p class="transcript-line"><span class="time"><strong>[01:09:16]</strong> </span><span class="speaker"><strong>发言人3: </strong></span>我认为对计算机相关的同学来讲，其实还是一个第一，它是一个蛮好的时代。对，就大家以前大家都讲说程序不够了，对吧？就是开发不出来，所以又要延期了。你说这种事可能就不存在了，对吧？就是打破了自身的瓶颈，对，这是个蛮好的现象。</p>
-<p class="transcript-line"><span class="time"><strong>[01:09:37]</strong> </span><span class="speaker"><strong>发言人1: </strong></span>听起来突然觉得好开心，因为之前各种项目延期真的是最痛苦的来源。</p>
-<p class="transcript-line"><span class="time"><strong>[01:09:42]</strong> </span><span class="speaker"><strong>发言人3: </strong></span>你PD出身肯定很有感情的。然后另外就是说什么呢？我认为今天恰恰是程序员有优势的地方。因为程序员其实你过去20年、30年来讲，这个行业发展很快，每个人都在快速学习。所以说程序员根本不在乎再多学一个东西，或者是把一个东西学精，每个人都有这个能力，所以说这反而成为大家的优势。所以我对这个群体是最有信心的，再去拥抱这个AI时代，创造更大的产能这个方向。</p>
-<p class="transcript-line"><span class="time"><strong>[01:10:12]</strong> </span><span class="speaker"><strong>发言人2: </strong></span>那你可以说说你自己吗？因为我觉得看你的经历，就是那种怎么说呢？就是搞过双十一架构这种巨庞大巨挑战的事情。</p>
-<p class="transcript-line"><span class="time"><strong>[01:10:23]</strong> </span><span class="speaker"><strong>发言人1: </strong></span>可是连续八年、九年的双十一不宕机，是靠你在背后。因为我我之前在聚美的时候负责移动事业部，然后那会儿也是一大促就档期。然后那会儿我们就是有一年大促前的前一天晚上，几个工程师甚至跑到那会儿的机房去上香。</p>
-<p class="transcript-line"><span class="time"><strong>[01:10:41]</strong> </span><span class="speaker"><strong>发言人3: </strong></span>实在没办法。</p>
-<p class="transcript-line"><span class="time"><strong>[01:10:42]</strong> </span><span class="speaker"><strong>发言人1: </strong></span>后来成为了一个表情包，我们特别爱发那个表情包。对，所以可以讲讲当时的一些故事吗？</p>
-<p class="transcript-line"><span class="time"><strong>[01:10:49]</strong> </span><span class="speaker"><strong>发言人3: </strong></span>其实也不能说是说靠我和我们的团队，其实还是整个公司在这里面有很多投入，有很多的优秀人才一起来贡献。我其实加入的时候，正好是双十一快速起量的一个时候。咱们讲说双十一比日常有一个百倍的流量增长，其实每一个系统都撑不住。然后当时的一种工作方式，就是每一个人负责一个系统，或者每几个人负责一个系统对那就大家其实就各管一摊，就铁路警察各管一段。其实大家拼起来的时候是很容易散架的对，那日常没有问题，因为日常大家都有很大的余量。但是你说百倍的流量，我又不能用百倍的成本来解决，其实你用百倍的成本也解决不了。因为还是大家是一个还是一个积木，就没有非常强的连接和互相的匹配，这里面有很多的瓶颈。所以我们当时在中间件，在整个的这个压测，容量管理，自动化的运维和弹性，做了全方位的技术升级。那是在13年的时候，就是我们开创性的提出来，也是全球第一个提出来，就我们团队一起做了一个叫全链路压测。今天也成为所有的互联网服务的一个标配。</p>
-<p class="transcript-line"><span class="time"><strong>[01:12:04]</strong> </span><span class="speaker"><strong>发言人3: </strong></span>所以说有了这样的一个技术以后，能够达到一个什么样的平衡呢？就是说整个系统中是没有瓶颈的，如果瓶颈来了，或者叫超过我的处理能力了，我就不把流量放进来，只要放进来的我都能处理。什么叫没有瓶颈？</p>
-<p class="transcript-line"><span class="time"><strong>[01:12:24]</strong> </span><span class="speaker"><strong>发言人3: </strong></span>就是如果都跑满的情况下，每个系统都是满的，就不会出现说有个地方很资源很冗余很丰富，别的地方已经满的不行了。所以我们把几百上千个系统能够保持一致的水位，对吧？每个系统都不会挂挂就挂在外面让流量不进来。所以说做到把一个全局架构做到这样一个程度，所以就从这个很大程度上就解决了这个双十一的一个问题。</p>
-<p class="transcript-line"><span class="time"><strong>[01:12:50]</strong> </span><span class="speaker"><strong>发言人1: </strong></span>这个听起来现在讲起来非常云淡风轻，几句话就讲完了。我想当时其实遇到的阻力不只是技术阻力。这里头因为涉及可能几千个工程师，是对，然后他们本来每个人也有自己的OKR，然后为了配合你们的这个构想，还要花很多时间去改造它。然后这个和可能和他当年的OKR之间也没有什么直接间接的关系。那这个在内部的沟通工作是怎么做的呢？你是如何实现的？</p>
-<p class="transcript-line"><span class="time"><strong>[01:13:16]</strong> </span><span class="speaker"><strong>发言人3: </strong></span>因为是这样的，首先大家还是有个共同的目标。对，因为大家都在做双十一，确实有成百上千的工程师在做，大家有个目标就是双十一不要挂，对，这个目标？是一个前提。另外一点还有非常好的地方，就是说我们还是有个一体化作战，就是说整个双十一优先级最高。对然后另外就是说他有戴着了，因为软件这个事情可以延期的，双十一是不能延期的对对。所以说在这些多重因素的趋势之下，还是能够去协调一些资源。</p>
-<p class="transcript-line"><span class="time"><strong>[01:13:51]</strong> </span><span class="speaker"><strong>发言人3: </strong></span>但我们其实我们作为一个驱动者和一个协同团队，和一个方案的提出者，我们是要给整个事情兜底的。什么叫兜底呢？就是说我能够驱动的资源我们就驱动，驱动不了的我可以上，我帮你做对，就是因为这个时间就摆在那里，有带的量就摆在那里，这是不能延期的。对，所以我们什么方法都用了，或者是说我自上而下去推动，或者是自下而上就用各种方式去推动。</p>
-<p class="transcript-line"><span class="time"><strong>[01:14:18]</strong> </span><span class="speaker"><strong>发言人3: </strong></span>另外还有一点，我认为还是我们很有优势的一个地方，就是阿里在很早以前就做到了技术的统一化。如果说今天我们要做这件事情，大家是不同的技术站，这边是用python对吧？那面是用go的，这边是用java的那面是用C加加的。完蛋。对，很难做。所以这也是我们技术统一以后带来的一个红利。我们的迭代可以一改一大片。因为我们有很多的优秀的中间件，所以我们就这件事情其实三个月。</p>
-<p class="transcript-line"><span class="time"><strong>[01:14:50]</strong> </span><span class="speaker"><strong>发言人1: </strong></span>就做完了。</p>
-<p class="transcript-line"><span class="time"><strong>[01:14:52]</strong> </span><span class="speaker"><strong>发言人3: </strong></span>所以说大家也很有成就感。对，贡献也蛮大的。然后他成为今天成为一种标配，现在还在发挥作用。对，但实际上我们一起参与这件事情的人都得到了非常好的成长。</p>
-<p class="transcript-line"><span class="time"><strong>[01:15:06]</strong> </span><span class="speaker"><strong>发言人1: </strong></span>我非常好奇，比如说当时在聚美的时候，那几年每次大促前夜，我们是真的我感觉没有一个人知道大促开始之后会不会当机的，真的没有人知道。那个时候我算是这个业务比较重要的高管之一。我们就会在这个工程师的作战室里面待着，但是我就感觉现场的工程师也都没有人知道接下来几秒钟19 87会发生什么。我觉得所有人都是真的，就是有一种祈祷的感受。但我就好奇的有什么作为阿里巴巴，你们在同一时间在另外一个作战室，大家的心态是什么？是会和我们类似吗？</p>
-<p class="transcript-line"><span class="time"><strong>[01:15:43]</strong> </span><span class="speaker"><strong>发言人3: </strong></span>还是会紧张？肯定是紧张的对，因为为什么？因为我们其实是在我们的理念叫在双十一之前创造双十一。对，就是说比方说双十一今天有演过很多次，而且这个预演是真实流量、真实的用户动线，真实的用户请求。</p>
-<p class="transcript-line"><span class="time"><strong>[01:16:02]</strong> </span><span class="speaker"><strong>发言人3: </strong></span>但是这里面的挑战是什么？就是你所谓的真实不是双十一零点的真实，就不够真，不过真就会出现很大的一个影响，所以我们也非常紧张。就是我们前期比方说我们做三次真实演练，50万每笔的一个交易，我们就在某一天的这个零点，我们就开始直接50万就来了，一秒钟起来就跟双十一模一样。就会发现这里有很多问题，我们就会去排查哪些是技术瓶颈，哪些是并发问题，哪些是容量问题，哪些是弹性问题，然后去把一个个解决，然后下次再压，发现这些问题就没了，没之后又出新问题，然后我们就再把问题给修掉。可能压到第三次、第四次，这些问题就收敛了，就没有了。没有了是不是就意味着说我们就等待双十一到来了，是不是就靠高枕无忧了呢？也不是，因为随着这个运营活动，还有就是说有些爆款，还有我们原来的那个测试，或者是验证的这个数据的流量那种分配不够，这个模拟不够真实，对吧？所以就会出现一些错配。</p>
-<p class="transcript-line"><span class="time"><strong>[01:17:05]</strong> </span><span class="speaker"><strong>发言人3: </strong></span>错配其实就意味着说你整个系统的动态调节能力，自我修复能力是不是要够强，所以说我们从这个资源流量容量各个方面是有动态性的对所以但是如果你在高压力下去做这个调整，又会产生新的波动，所以我们依然是很紧张。但是其实从13年以后没有出过什么太大的问题，都是小问题，也是接连不断的对，但我们认为这也是哎也肯定会发生的太强了。</p>
-<p class="transcript-line"><span class="time"><strong>[01:17:34]</strong> </span><span class="speaker"><strong>发言人2: </strong></span>那你每年双十一结束的那个时候，你的心情是什么？有那种有的。</p>
-<p class="transcript-line"><span class="time"><strong>[01:17:39]</strong> </span><span class="speaker"><strong>发言人3: </strong></span>时候也有运气的因素，所以我们也比较喜欢这个去的隐私。对对对，有的有，这也成为我们的一种文化了。</p>
-<p class="transcript-line"><span class="time"><strong>[01:17:51]</strong> </span><span class="speaker"><strong>发言人2: </strong></span>双十一之前要去灵隐寺拜一拜。</p>
-<p class="transcript-line"><span class="time"><strong>[01:17:53]</strong> </span><span class="speaker"><strong>发言人3: </strong></span>是是是，当做团建，也是一种团建，也是一种放松的一种方式。大家压力都很大，对，也是至少一个心灵寄托。</p>
-<p class="transcript-line"><span class="time"><strong>[01:18:02]</strong> </span><span class="speaker"><strong>发言人1: </strong></span>那一秒过去就知道这一次怎么样了。</p>
-<p class="transcript-line"><span class="time"><strong>[01:18:03]</strong> </span><span class="speaker"><strong>发言人3: </strong></span>一般十分钟。</p>
-<p class="transcript-line"><span class="time"><strong>[01:18:05]</strong> </span><span class="speaker"><strong>发言人2: </strong></span>那你每一年心情都一样吗？还是比如说有没有什么时候是你就是心情特别不一样。</p>
-<p class="transcript-line"><span class="time"><strong>[01:18:10]</strong> </span><span class="speaker"><strong>发言人3: </strong></span>有没有种想哭的感觉？最开始最开始的时候其实压力是比较大的，后面就越来越从容了。因为我们技术架构也是一代一代往前发展。每一代就会面临新的问题，也会有新的机会。所以我们那你比方说我们解决了稳定性的问题，那后面就要解决成本的问题。那我们就不希望比方说我50倍的流量，我可能要花三倍的成本。那我们后面你就定了个什么目标吗？双十一可能有50倍的流量，对于整个集团来讲能不能不多花一分钱？</p>
-<p class="transcript-line"><span class="time"><strong>[01:18:44]</strong> </span><span class="speaker"><strong>发言人1: </strong></span>这是你提的是吗？</p>
-<p class="transcript-line"><span class="time"><strong>[01:18:45]</strong> </span><span class="speaker"><strong>发言人3: </strong></span>不是，这是也是CPU提的OK对，但是是我们帮他做到。所以这就是涉及到说我们为什么去搞这个容器化，搞原生化。对，其实也是所以我们一直有一个my side，就是说永远要跟技术要红利，对吧？技术驱动商业，创造价值。所以我们一直我们就是说阿里巴巴的技术人一直有这么一个追求。</p>
-<p class="transcript-line"><span class="time"><strong>[01:19:10]</strong> </span><span class="speaker"><strong>发言人3: </strong></span>对，所以说提出这样的想法，我们也没有觉得这不可能。对，因为其实毕竟毕竟这个业务里面其实有很多的业务板块，国内的、国际的、搜索的、广告的、电商的，还是飞猪的，还是饿了么，还是什么，还是高德，对吧？其实大家有很多的业务，很多业务都有很多的资源，包括UC等等，包括模型对吧？其实大家有很多的资源，他不是每一个业务都参与双十一的，但是每个业务都不希望在里面受影响，所以我们在这里面就是说能够去通过这种调度管理弹性，通过容器这样的新的技术能够把大家打通，能够产生一种分时复用，充分弹性，混合部署，包括数据类的、业务类的对，通过这样的一些技术，就能够做到就是该说的时候就缩缩出来，资源就给他们，可能20分钟、十分钟他们就都用上了。那他们用完了十分钟就还给我，我又用上对吧？就是很短时间内完成大规模集群的这种缩放。所以说包括云上也可以复用，各个业务板块都可以复用。</p>
-<p class="transcript-line"><span class="time"><strong>[01:20:16]</strong> </span><span class="speaker"><strong>发言人3: </strong></span>然后这个小时跟下个小时也可以复用，对吧？把这些事情做到极致，就带来了海量的成本的一个下降。对我觉得其实这今天都成为一个这个行业中一些技术的一些标准实现，也推动了像国内像容器化，像营业生技术的一个普及。因为大家对于效率弹性，然后对于这个成本，其实都是有一样的需求的。对双十一只是一个一个缩影而已。</p>
-<p class="transcript-line"><span class="time"><strong>[01:20:43]</strong> </span><span class="speaker"><strong>发言人2: </strong></span>感觉真的很像每年一次高考。你刚说的那种感觉就很像前面模拟考先来模拟几次，然后不停的查我哪块不会，然后我再改，对吧？那你是从哪一年开始不管双十一了？</p>
-<p class="transcript-line"><span class="time"><strong>[01:20:57]</strong> </span><span class="speaker"><strong>发言人3: </strong></span>我后面就开始开始在做一件事情。就是说当我们把阿里的稳定性和成本做的比较高的一个水位的时候，其实我们也在考虑说如何把这些技术变现，然后能力溢出了。因为它是行业中的一个普遍的需求。所以我们就开始做产品化，做这个赋能行业的一些用户，包括很多的互联网企业，很多的产业互联网的一些用户，其实是用我们的这种产品化的技术去服务于他们，其实我做了好几年这样的一些方面的一些工作，就是负责一些产品。对，所以说后面，逐渐就不去负责双十一了。</p>
-<p class="transcript-line"><span class="time"><strong>[01:21:38]</strong> </span><span class="speaker"><strong>发言人2: </strong></span>那再到双十一的时候有什么心情吗？</p>
-<p class="transcript-line"><span class="time"><strong>[01:21:41]</strong> </span><span class="speaker"><strong>发言人1: </strong></span>放松购物的心情。</p>
-<p class="transcript-line"><span class="time"><strong>[01:21:43]</strong> </span><span class="speaker"><strong>发言人3: </strong></span>对对对。</p>
-<p class="transcript-line"><span class="time"><strong>[01:21:44]</strong> </span><span class="speaker"><strong>发言人1: </strong></span>终于可以使用了，给服务器猛加压力。现在终于轮到我加压力了，而不是我扛压力了。</p>
-<p class="transcript-line"><span class="time"><strong>[01:21:49]</strong> </span><span class="speaker"><strong>发言人3: </strong></span>对，但其实我们值班的时候也是猛加压力，因为其实我们也希望业务大发展，个人也是个消费者，因为其实如果说系统都很稳定，或者是说你也不知道这个零点会有多大的峰值，我们其实都在买买买的。如果系统出问题了，好，不买了，赶紧去处理问题。没问题，大家就一直买好了，反正也很优惠，也要抢一些。这个前一百单是有优惠的对，那你会有我已经。</p>
-<p class="transcript-line"><span class="time"><strong>[01:22:15]</strong> </span><span class="speaker"><strong>发言人2: </strong></span>做过双十一这么大的项目这样子的事情。我后面得再做一个什么事儿，能让我获得这么大的成就感呢？是。就是他到什么程度能跟那个匹配呢？</p>
-<p class="transcript-line"><span class="time"><strong>[01:22:29]</strong> </span><span class="speaker"><strong>发言人3: </strong></span>其实不能从这个角度来思考问题。因为其实对我来讲，还是觉得说要做有价值的事情，要做对这个社会有贡献，技术进步，然后造福一些人，其实这个就是我们价值感的来源，每一个人他都需要一个舞台。对，然后这个舞台不是你想有就能有的，还要看说今天这个社会环境有没有给你，或者你所在的平台有没有给你。另外一点就是你的能力是不是ready？</p>
-<p class="transcript-line"><span class="time"><strong>[01:22:56]</strong> </span><span class="speaker"><strong>发言人3: </strong></span>对，所以我们其实当时也是做了一些判断和选择，就是觉得我们的技术处理这些流量，所以还是独步全球的。我们再大流量也不可能有了，因为中国人口红利也触顶了。对，我们有一套体系和方法论，他也不需要再去有太多的革命性的东西出来，对吧？所以我们当时就做了很多技术标准化的工作，包括我们做了大量的开源，包括像中间件的开源，云原生领域的开源，你做了很多，同时开始做商业化。也希望说技术创造新商业，能够通过我们的技术能够打开一个商业的局面。所以我们做了很多这样的工作。所以本质来讲就是说怎么把我们的技术创造更大的价值，寻找更大的舞台。那到今天来讲，我们就是认为AS最大的一个舞台和放大器。所以我们就做了这样的选择。</p>
-<p class="transcript-line"><span class="time"><strong>[01:23:48]</strong> </span><span class="speaker"><strong>发言人2: </strong></span>两个月之后会觉得自己的选择怎么样？就现在发布了两个月。</p>
-<p class="transcript-line"><span class="time"><strong>[01:23:54]</strong> </span><span class="speaker"><strong>发言人3: </strong></span>很正确，无比正确。</p>
-<p class="transcript-line"><span class="time"><strong>[01:23:58]</strong> </span><span class="speaker"><strong>发言人1: </strong></span>无比正确的。还有我们最后一个问题就是在你看来，比如说三年五年之后做到什么样的成绩，你会觉得就特别满意。然后你想象在那个画面里面，就是整个生态，就从程序员然后到用户又会是一个怎样的一个画面。</p>
-<p class="transcript-line"><span class="time"><strong>[01:24:15]</strong> </span><span class="speaker"><strong>发言人3: </strong></span>其实我们畅想未来，如果说三年以后我们的这个愿景能够达成，我们还是希望说在coder这样的产品上，能够生产出最多的真实软件，就是具备商业价值的软件。能够覆盖最多的场景，对这个场景也是能够通过软件产生更多价值。所以说这是从我们自身的角度，希望能够看到的那另外从你说这个周围的世界会发生什么变化？我觉得还是回归到说大家相不相信AGI会到来。所以从我的一个个人的一个观点来看，我们还是希望说今天扣顶成为一种通用能力，它通过智能体这个方式去外化出来。就像这个奥特曼讲的，从这个对话到推理？然后到这个agent到创新，到组织，我觉得三年这个时间窗口，可能组织这件事情会发生。就是它可以形成一个可能AI多智能体的这种联动，它可以完成一个宏大的目标，长期的目标、复杂的目标，他可以去调用各种工具，可以现实世界去交互。</p>
-<p class="transcript-line"><span class="time"><strong>[01:25:25]</strong> </span><span class="speaker"><strong>发言人3: </strong></span>对就是说coding能帮助他解决很复杂的问题，并且它带来的是确定性。因为单元模型它可能回答和生成的那个内容，推理的内容，它是不具备确定性。那这代代码能够带来的是确定性。所以它一定是说在未来世界中做很多的管理生产实践，它是一个很必要的一个选择。另外就是说它可以包括从需求端，可能大家的需求都得到充分满足了，对吧？</p>
-<p class="transcript-line"><span class="time"><strong>[01:25:53]</strong> </span><span class="speaker"><strong>发言人3: </strong></span>然后肯定这里跑出来很多新的业务形态，对吧？新的创新型的业务？从场景端其实就是说比方说今天比方说马斯克他登上了火星，对，那火星的房子肯定不是宇航员建的，肯定是AI建的对吧？那肯定是跟大语言模型，还有agent还有什么机器人在一起驱动这件事情发生的那我是比较相信说这一天它会到来，coding在里面会发挥很重要的一个作用。</p>
-<p class="transcript-line"><span class="time"><strong>[01:26:21]</strong> </span><span class="speaker"><strong>发言人1: </strong></span>谢谢书童来做客十字路口，也希望这个coder可以取得更多的成绩，欢迎改天再有机会，我们比如说半年后、一年后可以再来复盘。</p>
-<p class="transcript-line"><span class="time"><strong>[01:26:30]</strong> </span><span class="speaker"><strong>发言人3: </strong></span>再来聊一次。好好，谢谢学长，感谢。</p>
-<p class="transcript-line"><span class="time"><strong>[01:26:37]</strong> </span><span class="speaker"><strong>发言人1: </strong></span>如果你认为有朋友也会喜欢本期十字路口的内容，请转发微信推荐给他们。最后欢迎你加入十字路口的会员群，我们鼓励大家在群里聊天互动，交朋友，寻找未来的同路人。</p>]]></content:encoded>
-            <pubDate>Thu, 23 Oct 2025 16:00:00 GMT</pubDate>
-            <guid>68f96441083a71a4ebd16696</guid>
         </item>
     </channel>
 </rss>
