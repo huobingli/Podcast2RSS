@@ -75,15 +75,34 @@ class RSSProcessor:
             <guid>{escape(item_info['guid'])}</guid>
         </item>"""
 
+    def _format_summary_html(self, llm_summary: str) -> str:
+        """将 Markdown 格式的 LLM 摘要转为 HTML"""
+        try:
+            import markdown
+            html = markdown.markdown(llm_summary, extensions=['nl2br'])
+            return f'<div class="episode-summary">\n<h3>内容摘要</h3>\n{html}\n</div>\n<hr/>'
+        except Exception as e:
+            self.logger.error(f"摘要 HTML 转换失败: {e}")
+            # fallback: 直接用 <pre> 包裹
+            return f'<div class="episode-summary">\n<h3>内容摘要</h3>\n<pre>{escape(llm_summary)}</pre>\n</div>\n<hr/>'
+
     def _format_transcript(self, transcript_data) -> str:
-        """格式化转写文稿为HTML格式，仅保留对话原文"""
+        """格式化转写文稿为HTML格式，包含摘要（如有）和对话原文"""
         try:
             if not transcript_data.get('transcription'):
                 return ""
 
-            result = []
+            parts = []
+
+            # 摘要区块
+            llm_summary = transcript_data.get('llm_summary')
+            if llm_summary:
+                parts.append(self._format_summary_html(llm_summary))
+
+            # 对话文稿区块
+            transcript_lines = []
             for item in transcript_data['transcription']:
-                result.append(
+                transcript_lines.append(
                     f'<p class="transcript-line">'
                     f'<span class="time"><strong>[{item.get("time", "")}]</strong> </span>'
                     f'<span class="speaker"><strong>{item.get("speaker", "")}: </strong></span>'
@@ -91,7 +110,8 @@ class RSSProcessor:
                     f'</p>'
                 )
 
-            return '\n'.join(result)
+            parts.append('\n'.join(transcript_lines))
+            return '\n'.join(parts)
 
         except Exception as e:
             self.logger.error(f"格式化转写文稿失败: {e}")
@@ -148,6 +168,7 @@ class RSSProcessor:
                 "shownotes": episode.get('shownotes', ''),
                 "link": self._generate_episode_link(eid),
                 "transcription": [],
+                "llm_summary": None,
             }
 
             # 尝试加载转写信息
@@ -157,6 +178,7 @@ class RSSProcessor:
                     if transcript:
                         has_transcript = True
                         episode_data["transcription"] = transcript.get('transcription', [])
+                        episode_data["llm_summary"] = transcript.get('llm_summary')
                 except Exception as e:
                     self.logger.error(f"读取转写文件失败: {eid}, 错误: {e}")
             
@@ -178,6 +200,7 @@ class RSSProcessor:
             try:
                 html_content = self._format_transcript({
                     "transcription": episode["transcription"],
+                    "llm_summary": episode.get("llm_summary"),
                 })
                 
                 item_info = {

@@ -76,6 +76,17 @@ def main():
         if not cookie_valid:
             logger.warning("TONGYI_COOKIE 无效，将跳过转写步骤，仅更新播客数据和重新生成RSS")
 
+        # 初始化 LLM 摘要（可选）
+        summarizer = None
+        if os.getenv("OPENROUTER_API_KEY"):
+            try:
+                from src.core.summarizer import Summarizer
+                summarizer = Summarizer()
+            except Exception as e:
+                logger.warning(f"Summarizer 初始化失败，将跳过摘要生成: {e}")
+        else:
+            logger.info("未设置 OPENROUTER_API_KEY，跳过 LLM 摘要生成")
+
         logger.info("开始更新播客与剧集数据...")
         pids = [p['pid'] for p in podcasts if 'pid' in p]
         changed_pids = client.update_all(pids)
@@ -102,7 +113,7 @@ def main():
                 if cookie_valid:
                     logger.info(f"正在处理音频转写: {name}")
                     try:
-                        transcribe_podcast(pid, storage=storage, tongyi_client=tongyi_client)
+                        transcribe_podcast(pid, storage=storage, tongyi_client=tongyi_client, summarizer=summarizer)
                     except TranscriptionError as e:
                         logger.error(f"音频转写失败: {name}, {str(e)}")
 

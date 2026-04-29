@@ -97,11 +97,12 @@ class EpisodeCollector:
 
 class TranscriptionProcessor:
     """转写处理器"""
-    def __init__(self, tongyi_client: TongyiClient, pid: str, storage: Storage = None, batch_size: int = TRANSCRIPTION_BATCH_SIZE):
+    def __init__(self, tongyi_client: TongyiClient, pid: str, storage: Storage = None, batch_size: int = TRANSCRIPTION_BATCH_SIZE, summarizer=None):
         self.client = tongyi_client
         self.pid = pid
         self.batch_size = batch_size
         self.storage = storage or Storage()
+        self.summarizer = summarizer
         self.error_records = {}  # 记录每个剧集的错误原因
         self.dir_id = self.client.ensure_dir_exist(pid)  # 初始化时就获取目录ID
         logger.info(f"初始化转写处理器，播客ID: {pid}, 目录ID: {self.dir_id}")
@@ -330,6 +331,14 @@ class TranscriptionProcessor:
             if not lab_info:
                 lab_info = {"summary": "", "qa_pairs": [], "chapters": [], "mindmap": None}
             
+            # 生成 LLM 摘要（可选）
+            llm_summary = None
+            if self.summarizer:
+                try:
+                    llm_summary = self.summarizer.summarize(task['episode']['title'], trans_result)
+                except Exception as e:
+                    logger.warning(f"LLM 摘要生成失败，将跳过: {task['episode']['title']}, 错误: {e}")
+
             # 保存结果
             result = {
                 "pid": task['episode']['pid'],
@@ -337,7 +346,8 @@ class TranscriptionProcessor:
                 "title": task['episode']['title'],
                 "task_id": task['task_id'],
                 "transcription": trans_result,
-                "lab_info": lab_info
+                "lab_info": lab_info,
+                "llm_summary": llm_summary
             }
             
             self.storage.save_transcript(
@@ -388,15 +398,18 @@ class TranscriptionProcessor:
                 
         return episodes_to_process, existing_tasks
 
-def transcribe_podcast(pid, storage=None, tongyi_client=None):
+def transcribe_podcast(pid, storage=None, tongyi_client=None, summarizer=None):
     """处理播客的音频转写
-    
+
     Args:
         pid: 播客ID
-        
+        storage: Storage实例
+        tongyi_client: TongyiClient实例
+        summarizer: Summarizer实例（可选，用于生成LLM摘要）
+
     Returns:
         bool: 如果有新的转写内容返回True，否则返回False
-        
+
     Raises:
         TranscriptionError: 转写过程中出现错误
     """
@@ -404,19 +417,19 @@ def transcribe_podcast(pid, storage=None, tongyi_client=None):
         # 初始化必要的对象
         storage = storage or Storage()
         tongyi_client = tongyi_client or TongyiClient()
-        
+
         # 收集任务
         collector = EpisodeCollector(storage)
         untranscribed_episodes = collector.collect_untranscribed(pid)
         need_transcribe = len(untranscribed_episodes)
         logger.info(f"找到 {need_transcribe} 个未转写的剧集")
-        
+
         if not untranscribed_episodes:
             logger.info("没有需要转写的剧集")
             return False
-            
+
         # 开始处理转写任务
-        processor = TranscriptionProcessor(tongyi_client=tongyi_client, pid=pid, storage=storage)
+        processor = TranscriptionProcessor(tongyi_client=tongyi_client, pid=pid, storage=storage, summarizer=summarizer)
         processor.process_in_batches(untranscribed_episodes)
         
         # 重新检查转写结果

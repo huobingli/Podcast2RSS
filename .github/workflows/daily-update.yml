@@ -36,6 +36,8 @@ jobs:
         REFRESH_TOKEN_3: ${{ secrets.REFRESH_TOKEN_3 }}
         REFRESH_TOKEN_4: ${{ secrets.REFRESH_TOKEN_4 }}
         REFRESH_TOKEN_5: ${{ secrets.REFRESH_TOKEN_5 }}
+        OPENROUTER_API_KEY: ${{ secrets.OPENROUTER_API_KEY }}
+        OPENROUTER_MODEL: ${{ secrets.OPENROUTER_MODEL }}
       run: python -m src.main
         
     - name: Commit and push if changed
