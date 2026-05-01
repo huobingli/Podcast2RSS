@@ -4,11 +4,187 @@
         <title>人民公园说AI</title>
         <link>https://www.xiaoyuzhoufm.com/podcast/65257ff6e8ce9deaf70a65e9</link>
         <description>如有干货，纯属巧合</description>
-        <lastBuildDate>Wed, 29 Apr 2026 20:38:39 +0800</lastBuildDate>
+        <lastBuildDate>Sat, 02 May 2026 05:02:45 +0800</lastBuildDate>
+        <item>
+            <title>因为我善？DeepSeekV4 国产适配和100 亿美金融资背后的阳谋，黄仁勋最怕的噩梦成真了！</title>
+            <link>https://www.xiaoyuzhoufm.com/episode/69f34338b39400b493443a50</link>
+            <description>DeepSeek V4 的发布，不仅是一次大模型的迭代，更是一场关于未来5年全球AI走势的豪赌。当 V4在其产品说明的小字里写下“适配华为昇腾后价格将大幅下降”时，国产算力与顶级模型的联姻正式走入深水区。为什么腾讯、阿里不做的事情，偏偏是 DeepSeek 顶上去了？计划融资 100亿美金背后，梁文锋到底在下一盘什么样的棋？本期节目一起剥开这场关乎国产 AI尊严与商业命脉的顶级博弈！
+00:00 国产适配，因为我善？
+02:37 绕过 CUDA？极其聪明的商业阳谋
+06:59 这不是单纯的融资，这是一次关于未来五年入场券的战略卡位
+08:18 CUDA难以逾越，但“腾笼换鸟”是中国最擅长的游戏
+11:57 为什么是DeepSeek？不是BAT（B=Bytedance）
+14:13 拿钱的目的，是为了站队
+17:18 DeepSeek 选了一条最纯粹但也最危险的路
+19:23 算力、电力、地权，这些才是大模型真正的生命线
+25:51 当Nvdia变成稀缺品，华为升腾就成了唯一的 Option
+29:07 为什么这个时候拿出一流的V4？
+32:12 在广阔的亚非拉新兴市场，这套中国方案大有可为
+【订阅 JustSayAI 早晚报】
+🌈 新朋友！订阅「JustSayAI 早晚报」· 每日两封 · 一键听报
+🌟 老朋友！加入会员获取 JustSayAI 早晚报+深度研报+文字专栏
+【主播小红书】
+📕叫我小苏就好啊
+【关注频道】
+▶️Youtube｜ 📺B 站｜ 📕小红书｜ 🎵抖音｜ 📻Podcast
+📱 商务合作/听友群：justsayai666</description>
+            <content:encoded><![CDATA[<div class="episode-summary">
+<h3>内容摘要</h3>
+<h3>主题概述</h3>
+<p>本期节目围绕DeepSeek V4的发布及其引发的行业震动展开。三位嘉宾（小苏、杰哥、贤哥）从技术、商业和地缘政治角度，剖析了DeepSeek这家由量化基金“幻方”孵化的公司，为何能在BAT等大厂缺席的情况下扛起国产适配大旗，并同步曝出高达100亿美元的融资消息。对话揭示了V4模型背后“国产适配”与“融资站队”的双重战略意图，以及其“一箭多雕”的商业阳谋。</p>
+<h3>关键要点</h3>
+<ol>
+<li><strong>DeepSeek的独特生态位</strong>：DeepSeek作为一家“创业公司里的大厂”（据称年净利润50亿+），不碰应用和多模态，专注模型底座开源。这种“人畜无害”的卡位，使其在BAT、字节等大厂各有主营业务时，成为承接国产适配任务的最佳人选——“一看班里头，就这一哥们上次在校外拿奖了，你叫不叫他去？”</li>
+<li><strong>技术双轨策略</strong>：DeepSeek实际做了两套适配。开源版本是深度绑定NVIDIA CUDA的工具链，全球开发者拿来即用，用于刷GitHub Star；而华为升腾的适配则是付费服务，关键技术（如算子调优）未开源，属于与华为的Partner关系，旨在下半年大幅降价。</li>
+<li><strong>“绕过CUDA”的误解</strong>：外界宣传的“绕过CUDA”存在误导。实际上，DeepSeek并未完全绕过，而是在更底层编码层面进行优化，仍然深度依赖NVIDIA体系。当前所有部署教程仍要求NVIDIA显卡和特定CUDA版本，这印证了“技术要为市场服务”的现实逻辑。</li>
+<li><strong>融资的真实动机</strong>：融资不仅是为了“搞钱”，更是为了“站队”。在AI三国杀格局下，如果不主动选择一方站队，就可能成为所有人攻击的靶子。融资是宣布立场、联姻求存的信号，其规模（从3亿到100亿美金）实则是在抬高身价，并让未被选中的大厂“后悔”。</li>
+<li><strong>连攻带守的融资策略</strong>：V4发布叠加融资消息，是一套组合拳。攻指制造巨大话题吸引资本，守指以此逼迫大厂表态（要么投我，要么别打我）。嘉宾判断，梁文峰大概率会只拿一家钱，明确阵营，让其他“主公”知道谁是敌人、谁是朋友。</li>
+<li><strong>开源背后的生态野心</strong>：DeepSeek已是非中美国家（如法国、瑞士、印度、非洲）最受欢迎的开源基座模型。加上国产升腾适配后，意味着全球新兴市场可以拥有一套完全脱离NVIDIA和美国的、完整的中国技术栈——“广阔天地，大有可为”。</li>
+<li><strong>大模型无法闭环的困境</strong>：做大模型底座极度烧钱且需要人才（已有大将罗孚利被小米挖走）。由于无法像字节、质谱那样通过To C或To B应用实现商业闭环，DeepSeek必须通过融资续命，这是量化基金“印钞”也填不平的无底洞。</li>
+<li><strong>国家支持是隐形的“绿灯”</strong>：虽然国家支持未见公开报道，但嘉宾认为DeepSeek能走通这个生态位，国家一定给予了大力支持，形式为“开绿灯、加速、赊账”，而非直接巨资投入。</li>
+</ol>
+<h3>独家细节</h3>
+<ol>
+<li><strong>“离婚前先买房”的比喻</strong>：嘉宾用离婚场景比喻DeepSeek绕过CUDA的行为。一边还在用NVIDIA（原配）的家，一边已经在外面买了房（升腾适配）并且“在装修”。这样做不是为了偷情，而是为了分财产（融资和巩固生态位），形象揭示了其“脚踏两只船”的技术策略本质。</li>
+<li><strong>“闺女待字闺中”的联姻论</strong>：嘉宾用“闺女到了18岁，学了琴棋书画，准备见媒人”来比喻V4发布后的融资。暗示梁文峰早已设计好“模型当闺女，找流量平台联姻”的剧本，目的是进入AI市场的核心，让自己“再也不可能被剔掉”。</li>
+<li><strong>“我出来融资，两钟到村里散步都抬不起头”</strong>：小苏用极其夸张的比喻调侃DeepSeek的估值。强调其融资100亿美金的规模令人震惊，侧面印证了市场的狂热和“估值不说高点都不好意思”的无奈，暗讽了资本泡沫。</li>
+<li><strong>“梁总第一年心态：别搞我”</strong>：嘉宾复盘了梁文峰的心路历程。第一年面对BAT接触融资，心态是“别搞我，我人畜无害”，通过开源构建生态位自保；但第二年风水流转，人才流失、生态压力，逼得他必须“拿钱来宣布站队”，否则无法向团队和外界解释。</li>
+</ol>
+</div>
+<hr/>
+<p class="transcript-line"><span class="time"><strong>[00:00:00]</strong> </span><span class="speaker"><strong>发言人1: </strong></span>国产适配这么大的事情，腾讯不做，阿里不做，你为什么dipstick来做？凭什么我去？因为我善吗？</p>
+<p class="transcript-line"><span class="time"><strong>[00:00:07]</strong> </span><span class="speaker"><strong>发言人2: </strong></span>大家都在解读，好像绕过了主打是个很重要的事情。但是人家绕过。</p>
+<p class="transcript-line"><span class="time"><strong>[00:00:11]</strong> </span><span class="speaker"><strong>发言人3: </strong></span>是为了拿钱的目的，是为了站队。如果我现在不选择站队，那所有人都会把你当成敌人。</p>
+<p class="transcript-line"><span class="time"><strong>[00:00:16]</strong> </span><span class="speaker"><strong>发言人2: </strong></span>做大模型就没办法自己闭环。你短期没搞钱的话，我觉得是没有办法的。</p>
+<p class="transcript-line"><span class="time"><strong>[00:00:21]</strong> </span><span class="speaker"><strong>发言人1: </strong></span>不是你他妈不知道你怎么解释，你融个100亿两种到他们村里去散步，他都抬不起头来，对不对？</p>
+<p class="transcript-line"><span class="time"><strong>[00:00:34]</strong> </span><span class="speaker"><strong>发言人1: </strong></span>小弟我就是有几个问题不太明白，连换方都要融资了，我心想说这是出来融资了，我说这个是为什么呢？这是他需要融资吗？对吧？然后还有一个就是说你看他那个产品说明下有个小字。我说现在是这个价格，但是等几月份华为升腾出来以后，出来以后这个价格会大幅下降。</p>
+<p class="transcript-line"><span class="time"><strong>[00:01:01]</strong> </span><span class="speaker"><strong>发言人1: </strong></span>然后论文你稍微扒一下，你就发现他可能也是给国产适配基本上预留了一些空间。我就想说国产适配这么大的事情，你BAT腾讯不做，阿里不做，你为什么deep sk来做对吧？这一个人扛起了国家的使命，所以这是为什么？所以这是一个关于融资的事情，一个关于技术的事情，两位老哥给我指导一下。</p>
+<p class="transcript-line"><span class="time"><strong>[00:01:29]</strong> </span><span class="speaker"><strong>发言人3: </strong></span>跟他聊聊，我特别对这个话题特别兴奋。上次你记得吧？咱们聊那个黄仁勋，黄仁勋上节目上那个印度小哥的节目急了，对吧？说人说这个人是loser心态。当时他其实最最核心的一个观点就是说，如果有一天中国的模型跑在中国的芯片上，那就是真正的噩梦的开始。那我们开始了。所以当时那天我听他那个东西的时候，就觉得肯定这天会实现。但是真正看到V4发布，看到V四下面那个小字的时候，我还是真的有点还是有点感慨。</p>
+<p class="transcript-line"><span class="time"><strong>[00:02:00]</strong> </span><span class="speaker"><strong>发言人1: </strong></span>还有一个就是说职业敏感性，对吧？一个你广东人，第二个加上这个量化基金这个组合。</p>
+<p class="transcript-line"><span class="time"><strong>[00:02:06]</strong> </span><span class="speaker"><strong>发言人2: </strong></span>再加上模型再怎么样看也不会亏的感觉。</p>
+<p class="transcript-line"><span class="time"><strong>[00:02:09]</strong> </span><span class="speaker"><strong>发言人1: </strong></span>这个组合怎么看都不能吃亏了。</p>
+<p class="transcript-line"><span class="time"><strong>[00:02:13]</strong> </span><span class="speaker"><strong>发言人2: </strong></span>这一次我觉得说有一个很有意思的是，我们现在都应该觉得晕的是，到底他NVIDIA的那个哭打架构到底是甩掉了还是没甩掉，废不废？对，就是甩到底甩掉了没有？我们三个人看到的信息，我猜估计都不一致。杰哥你看到的是不是都已经甩掉了？你在在海外看到。</p>
+<p class="transcript-line"><span class="time"><strong>[00:02:31]</strong> </span><span class="speaker"><strong>发言人3: </strong></span>在我印象中，反正我被宣传到的就是说人家已经甩掉了。然后现在真的是重新打鼓另开张，而且说句不好听的话，就是自古华山一条路，我非要给你批出另一条路，然后劈山救母那种感觉。</p>
+<p class="transcript-line"><span class="time"><strong>[00:02:43]</strong> </span><span class="speaker"><strong>发言人1: </strong></span>反正太大于楚军心力对吧？</p>
+<p class="transcript-line"><span class="time"><strong>[00:02:45]</strong> </span><span class="speaker"><strong>发言人2: </strong></span>对对对，但你看在国内我们看到的就是他在公众号特别克制的一个发布。然后告诉你这个东西，可能他会直接说我这个能力，也就是cloud那个so net 4.54.6之间，那个水平点5，高一点我这个价格还要再降低，也得等到下半年生成适配完了才能降低。大概是这样的非常克制，你就觉得好像也不是很强的样子。但是实际上我觉得说他做的特别的聪明，就是国内国外他其实恰恰应该是让我们熟悉的媒体给我们讲了我们想听的故事。对他其实两边都都赚到了。</p>
+<p class="transcript-line"><span class="time"><strong>[00:03:25]</strong> </span><span class="speaker"><strong>发言人2: </strong></span>那我怎么说呢？因为我看了海外的news等这些社媒，海外的这些social media包括ready等等这些，他们也研究了我们开他们很务实，上来就是先看我们公布的这些论文的，他直接看论文，然后下载我们的公开的这些版本，然后去复现我们说的东西。然后我们deep sick也是很扎实的，直接告诉他们，我们是比特级可复现。任何一个比特，一个零和一我都是可以复现的。</p>
+<p class="transcript-line"><span class="time"><strong>[00:03:51]</strong> </span><span class="speaker"><strong>发言人2: </strong></span>然后这里面其实最重要的就是说给你能复现的这个版本，还是NVIDIA CUDA深度工具链绑定版本。这个是全球开发者，你全部都可以拿去用。它就是跟你现在手上的CUDA这个video的资源完全深度调教的，你拿去就能用。但是放出来的这个开源版本是不包含升腾的这些支持。这个没有的，是这个开源版本只支持。</p>
+<p class="transcript-line"><span class="time"><strong>[00:04:16]</strong> </span><span class="speaker"><strong>发言人3: </strong></span>等会儿你的意思是说他两个版本都做了，就是CUDA的版本也深度适配也做了，升腾的这个版本的这个适配也做了，是吗？</p>
+<p class="transcript-line"><span class="time"><strong>[00:04:25]</strong> </span><span class="speaker"><strong>发言人2: </strong></span>就是你对，其实是双轨这样调都做了，但是开源版本支持的是NVIDIA哭的让大家所有全球开发者拿去马上就能用，而且用的很爽。然后把我的开源star往上一直刷，这个开源的这个get up star继续往上高刷。对，这个是而且让大家用的爽，这个是完全没毛病，对不对？</p>
+<p class="transcript-line"><span class="time"><strong>[00:04:47]</strong> </span><span class="speaker"><strong>发言人2: </strong></span>然后第二个就是升腾这个东西它的调教就是在国内的话，你要想用deep sick去适配升腾，他的调教是没有把关键的那些算子的那些东西的开源出来的。没有的，这些都没有，那这些东西得你自己想办法搞。那那实际上就是这部分是付费的了，就是跟华为是有一个适配的收账的关系的，就是有个partner关系的，我肯定是要收你的适配费的那这个东西的话它不是不会去开源，我相信不会去开源，就至少现在这个阶段是这样的。然后到时候会怎么弄不知道，但是那那下半年价格会大大的降低，我相信是在实验室里已经调通了，应该一些MVP之类的东西，看起来应该是相当不错的，才能现在就明确的告诉你可以大幅相机，但是要到商用。因为我们其实从产品上，我们知道从实验室到最后叫做GA，就是general available，完全大家普遍可用。这个时间你现在算我们刚好在4 5月份这个时间到你下半年的某个时间，可能3到6个月之间，这是一个比较合理的时间。我们知道所有成功的开源平台最成功的，如果从软件层面来讲的话，就是它的开发的生态，还有商业的生态等等的这些东西。然后安全合规就是你作为一家普通的公司，其实是很难做到的那其实还是得有DPC自己这种原厂商来帮你出方案。</p>
+<p class="transcript-line"><span class="time"><strong>[00:06:06]</strong> </span><span class="speaker"><strong>发言人1: </strong></span>声明一下，deep seek是大厂，对换方是大厂。大家同志们你要先搞清楚一个概念，据不可靠消息，人家一年净利润也五十多个亿。</p>
+<p class="transcript-line"><span class="time"><strong>[00:06:19]</strong> </span><span class="speaker"><strong>发言人3: </strong></span>也是官方量化，是吧？</p>
+<p class="transcript-line"><span class="time"><strong>[00:06:21]</strong> </span><span class="speaker"><strong>发言人1: </strong></span>对对对，人家是大厂，谢谢。</p>
+<p class="transcript-line"><span class="time"><strong>[00:06:24]</strong> </span><span class="speaker"><strong>发言人2: </strong></span>对，所以就是这么大的厂出了一个这么深度产业链的一个适配的这个东西。所以他这一块儿的话，反正就是现在先告诉你我能搞。对。</p>
+<p class="transcript-line"><span class="time"><strong>[00:06:35]</strong> </span><span class="speaker"><strong>发言人3: </strong></span>然后你说的这个是真的，那我真的得拍大腿了。妈的妈我都老了，这太绝了。你就想一下，就是说一箭多雕，首先就说明为国争光，对吧？然后先把这个起来。</p>
+<p class="transcript-line"><span class="time"><strong>[00:06:45]</strong> </span><span class="speaker"><strong>发言人3: </strong></span>第二点来讲的话，就是海外国内都相信了这是一个成功故事。而且能看到这个开源版的酷带的版本？往前用起来。第三来讲的话，给对方竞争对手增加压力。再加上什么呢？融资，就是下一步咱要聊融资这个事儿，对吧？给融资制造巨大的话题。而且还给大家很一个期待，就是未来价格还能更便宜。哇塞这方案是不是V四自己出的方案？</p>
+<p class="transcript-line"><span class="time"><strong>[00:07:07]</strong> </span><span class="speaker"><strong>发言人1: </strong></span>还有一个现在升腾可以先预定起来了，对吧？</p>
+<p class="transcript-line"><span class="time"><strong>[00:07:10]</strong> </span><span class="speaker"><strong>发言人2: </strong></span>对，是这个预定了。</p>
+<p class="transcript-line"><span class="time"><strong>[00:07:12]</strong> </span><span class="speaker"><strong>发言人3: </strong></span>国产芯片又又亮起来了。哇塞。</p>
+<p class="transcript-line"><span class="time"><strong>[00:07:14]</strong> </span><span class="speaker"><strong>发言人2: </strong></span>这个事情我是觉得可能性还是蛮高的。我在两边看，因为外网的老外是直接看我们的论文，然后去复现的。他但是他只能复现NVIDIA套路的这套东西，但人家首先就是对，首先就是大模型的增强。就是你刚才提到了，可能大家现在听起来不痛不痒的什么百万上下文，各种MOE的这个架构，因为这些是标配了，现在大家都有了。那比如说对对对对对，这些大家都有了，所以大家可能觉得不痛不痒。但是这些能力我们之前也聊过，就是你做一个企业级生产，它已经很关键，够用了，就是完全够用了，对吧？你百万级上下文，一个三体几步塞进去，红楼梦塞进去都可以现实实时去检索。</p>
+<p class="transcript-line"><span class="time"><strong>[00:07:52]</strong> </span><span class="speaker"><strong>发言人3: </strong></span>然后可以记问题是那种情况有几个人会这么用，对吧？你这没事。</p>
+<p class="transcript-line"><span class="time"><strong>[00:07:57]</strong> </span><span class="speaker"><strong>发言人1: </strong></span>为本。</p>
+<p class="transcript-line"><span class="time"><strong>[00:07:58]</strong> </span><span class="speaker"><strong>发言人3: </strong></span>的对。</p>
+<p class="transcript-line"><span class="time"><strong>[00:08:00]</strong> </span><span class="speaker"><strong>发言人2: </strong></span>是的。但是企业的场景，这就很就是一个很重要的入场券，肯定没有那个不行，就不够对，而且很重要就是说老外他不知道中国的这个升腾到底怎么样，他想搞也搞不了，对不对？对，然后国内这边的话，大家都在研究这个哭打到底绕过去没有。那实际上就某些说法里面有一个误导，就是他大家说绕过了哭打，实际上是它不再扩大这个层面改写，而是在扩大可能更底层一些的编码的部分再去调。但是那个东西很重要，那个东西还是NVIDIA体系的这个方向是最能够看到结果的。毕竟你哭的你没有办法直接绕过它。然后还有这个东西本身是事实的标准，大家很多东西跑在上面，那如果你完全绕过他，很多现成的算力你要怎么办？我觉得商业上是必须肯定要优先考虑的，这个肯定是这样的。</p>
+<p class="transcript-line"><span class="time"><strong>[00:08:49]</strong> </span><span class="speaker"><strong>发言人1: </strong></span>反正你要离婚了，你先要打一个预防针。我外面买了套房子了，最近在装修，不好意思，身上有一个女性的头发，对吧？这都不是为。</p>
+<p class="transcript-line"><span class="time"><strong>[00:09:03]</strong> </span><span class="speaker"><strong>发言人3: </strong></span>离婚去了，你这是。</p>
+<p class="transcript-line"><span class="time"><strong>[00:09:06]</strong> </span><span class="speaker"><strong>发言人1: </strong></span>为这分财产的。</p>
+<p class="transcript-line"><span class="time"><strong>[00:09:09]</strong> </span><span class="speaker"><strong>发言人2: </strong></span>而且从另外一个角度来讲，华为最擅长干的是什么？就是这个飞机先飞起来，一边飞一边换飞换这个引擎对吧？这个就是他他常做的事情，我觉得两边都在干这个事，其实就是大家会在解读，好像绕过了主打是个很重要的事情，但是人家绕过是为了解决一些别的问题。</p>
+<p class="transcript-line"><span class="time"><strong>[00:09:27]</strong> </span><span class="speaker"><strong>发言人1: </strong></span>对，你是整天狗仔队跟拍人家说老兄夜不归宿对吧？实际不是这个问题，吧？他都已经离婚了，财产都分完了。</p>
+<p class="transcript-line"><span class="time"><strong>[00:09:38]</strong> </span><span class="speaker"><strong>发言人2: </strong></span>对，所以又走到这个。</p>
+<p class="transcript-line"><span class="time"><strong>[00:09:40]</strong> </span><span class="speaker"><strong>发言人3: </strong></span>下山路上了。所以是不是有点像国产大飞机或者当年我们合资汽车一样，对吧？就是说我是绕过了很多国产，转化率也提高了，中关键的部分我们也能造了。但是真正到了商业级别，还是像你在说的时候，就是最底层的东西还是那个英伟达的对。</p>
+<p class="transcript-line"><span class="time"><strong>[00:09:59]</strong> </span><span class="speaker"><strong>发言人2: </strong></span>说尤其现在没错，尤其是现在正在跑的更是这样。他他其实有明确的讲，就是有点间接的讲，他没有那么明确他他就是讲的这个东西，就是说他现在的很多东西其实还是要依赖video的这这一套的。而且你去看现在各个地方去部署，我们也去看了好多地方的部署教程，都是在跟你说，你必须得有一个NVIDIA的什么卡，然后再什么内存，然后再有CUDA的某个版本，你这样才能把它给搞搞起来，搞得比较顺。所以这个其实实际的操作可以印证这个事情。就是你现在的版本肯定是我们刚才讲的最就是开源的最清楚的，是为NVIDIA设定的。而且也你能拿起来跑到你的自己的方向的。</p>
+<p class="transcript-line"><span class="time"><strong>[00:10:41]</strong> </span><span class="speaker"><strong>发言人1: </strong></span>还是NVIDIA的。这个其实我觉得不需要纠结，这个就是你在技术跟市场之间，你觉得哪个重要吗？你不要说技术重要，其实市场是最重要的。你没有市场，你有技术有个屁用，对吧？你把这一套腾挪的方法，你换到中国汽车公业上面。你大概能够明白为什么当时用市场来换技术对吧？</p>
+<p class="transcript-line"><span class="time"><strong>[00:11:04]</strong> </span><span class="speaker"><strong>发言人1: </strong></span>对，在用市场来换技术的过程中，大家有很多质疑，你这个发动机造不出来，你那个什么东西造不出来，对吧？那最后你整个整装能力出来以后，突然有个电的这个方向起来了，对吧？那你不就是腾挪了，对吧？你就这个叫那个叫什么，那个叫那个词。</p>
+<p class="transcript-line"><span class="time"><strong>[00:11:21]</strong> </span><span class="speaker"><strong>发言人3: </strong></span>叫什么腾笼换鸟。</p>
+<p class="transcript-line"><span class="time"><strong>[00:11:23]</strong> </span><span class="speaker"><strong>发言人1: </strong></span>腾笼换鸟对吧？</p>
+<p class="transcript-line"><span class="time"><strong>[00:11:25]</strong> </span><span class="speaker"><strong>发言人3: </strong></span>或者说叫济公报报工记，这个也炒了二十多年了。对，后来其实大家最后看案例就好了，都有成功的案例。</p>
+<p class="transcript-line"><span class="time"><strong>[00:11:31]</strong> </span><span class="speaker"><strong>发言人1: </strong></span>对，但我还是有一点不明白，就凭凭什么就都让去干国产适配了，你其他家在干什么？阿里在干嘛？腾讯在干嘛？为什么就你一个开源？然后不务正业，人家主业干量化一个deep seek？去去去扛起了所有，这是为什么？</p>
+<p class="transcript-line"><span class="time"><strong>[00:11:53]</strong> </span><span class="speaker"><strong>发言人3: </strong></span>那你就看这个班里有更合适的人吗？你就说，其他哪个公司，哪个做得起这事的人不是上市公司，不是有头有脸的，哪个输得起，对吧？然后反正我看了一下，就是你你要是班主任，你一看班里头现在有一新项目，新项目咱比如说机器人比赛，然后咱们班有一个有一有一哥们儿上次在校外参加机甲比赛拿奖了，然后那你那你是不是还是让他去比较合适，即使输了对不对？那其他的也不丢人。其他的学霸还是学霸。</p>
+<p class="transcript-line"><span class="time"><strong>[00:12:21]</strong> </span><span class="speaker"><strong>发言人1: </strong></span>其他学霸你现在你瞎扯。我跟你讲，你要叫我上，对吧？你叫我去做打手，老师叫我去可以。那我昨天偷人家小卖部零食的那个事情，你不要给我通报。对我干的坏事你别跟我妈讲，对不对？最有条件的我凭什么我去，因为我善吗？</p>
+<p class="transcript-line"><span class="time"><strong>[00:12:43]</strong> </span><span class="speaker"><strong>发言人3: </strong></span>对，我觉得就咱现咱再说回来一件事，就是说融资这个事儿对吧？那你看这个V4说这个发布好像也跳票了好久了，对吧？从去年年底到这个春节，然后到这个什么，一直来讲都是都在说这件事，什么什么就是对，一会儿就说马上就怎么着，一会儿就说说留给这个dept的时间不多了等等等等各种话。但是你看人家什么叫连攻攻带守，就是咱打象棋也好，咱怎么样，什么叫连攻带守？就是这这这一局这一步棋，咱是攻，所谓攻就说我主要求融资，我听说我不知道，就是说听两位帮我求证一下。我听说当时是说要留融三个亿美金，然后可是现在已经翻到了好像十个亿美金都值都不止。就是追着要投，投deep sick，然后追着要投，只不过就是b sak需要选谁现在不确定。</p>
+<p class="transcript-line"><span class="time"><strong>[00:13:29]</strong> </span><span class="speaker"><strong>发言人3: </strong></span>所以我为什么说连攻带守？首先咱举个例子，就是还咱们一就几本书，毛毛主席的毛选是一定要看的，三国也是一定要看的对吧？那三国时期当时就是说这个18路突出和陶董卓的时候，然后到后面这个三分天下，这中间有一大段时间，你就想全国的所有武将想的一件事儿就是我找谁当主公。因为为什么这个判断不是说谁好、谁善、谁地盘大，而是说谁能活到最后。所以我觉得就是现在来讲，咱举个例子，咱也知道在这个BAT时代对吧？现在来讲的话，有一位已经不怎么提了，那是不是就掉队了。然后剩下两位加上现在新上的字节，然后未来小米等等的是不是都要去争这个位置，就是都要去占据这个江山中的一部分，而且中国人都有一个一统天下的心。</p>
+<p class="transcript-line"><span class="time"><strong>[00:14:15]</strong> </span><span class="speaker"><strong>发言人3: </strong></span>那未来的时候，如果我现在不选择站队，有可能的问题就是说别人就会把我当成对手。这是历史在历史中多次出现的。如果你迟迟不选择选边儿的话，那所有人都会把你当成敌人。有可能你在这个时间点变成了所有人的敌人，都会变成第一个被攻击的目标，把你的这资源先吃掉。刚才小苏也老师已经说到，人是一绝对的一方面，大家都是就都是掀抢人，对吧？那后面对，然后后面你这个你你要说这个资源，那资源包括几方面，比如政府的支持，给你地，给你电，给你那什么，就光电这一块儿你就想，再加上芯片对吧？那华为现在来讲是不是也是？</p>
+<p class="transcript-line"><span class="time"><strong>[00:14:52]</strong> </span><span class="speaker"><strong>发言人3: </strong></span>所以我觉得就是说所谓连攻带守的意思就是说在这个阶段上我要选一家，而且我要明确表态，这个时候不容不允许你模糊了。所以我更判断他只拿一家钱。如果我是梁文峰的话，我可能会跟所有人都接触，但最后我会明确告诉几家我为什么拿他的钱让你们后悔。这第一可能是抬高抬高身价。第二我明确了两种态度之后，我就知道到底谁是我的敌人，谁是我朋友。而且大概率来讲，即使我不拿你的钱，你也不会把我当成敌人的。</p>
+<p class="transcript-line"><span class="time"><strong>[00:15:19]</strong> </span><span class="speaker"><strong>发言人2: </strong></span>我我我想从另外一个角度看，就是说小苏问的是为啥是他？我是从结果现在再倒推一下。因为之前一年以前我们也看不清楚，对吧？聊了好多遍，不知道为啥他深藏功与名。</p>
+<p class="transcript-line"><span class="time"><strong>[00:15:32]</strong> </span><span class="speaker"><strong>发言人2: </strong></span>然后现在倒着看的话，你看如果是大厂的话，大厂都有自己的主营业务，对吧？不管是阿里还是腾讯，还有自己大家都有自己的主营业务。而且这一年大家也都各自跑出了各自的东西。阿里的千问很强，在各种地方其实它也是跟dipstick齐名的这个开源大模型基座，大家海外很多都在用。对然后然后字节这一块的这个视频，现在已经杀的大家都快已经快没有对手，对吧？他这个记梦的这套东西纱在外面真的是很厉害。大家会发现什么谷歌的vivo，然后那些其他的那些都感觉就不是他的对手，这些都是大厂。如果是创业公司，因为deep sik还是一家创业公司。</p>
+<p class="transcript-line"><span class="time"><strong>[00:16:13]</strong> </span><span class="speaker"><strong>发言人1: </strong></span>说到底还是创业公司，创业公司当中的大厂。</p>
+<p class="transcript-line"><span class="time"><strong>[00:16:16]</strong> </span><span class="speaker"><strong>发言人2: </strong></span>其他几家创业公司的问题是大家基本上都要通过做应用或者是说做企业服务。你要比如说现在上市的两家，一个是质谱，一个mini max。那质朴是典型的做企业服务上去的。然后那个mini max是通过全球的同全球的业务的营收，再加上一定的to b然后这样子搞起来应该是七三开，70%是全球的。这些各种各样都有历史包袱。对，就是这一些我觉得他们的生态位是很直接的，就是我必须得做大模型，加上to C2B的应用直接一起做，我才能够活下来。大概就是这么个事情。然后他们也我觉得他们也挺成功的，能上市。</p>
+<p class="transcript-line"><span class="time"><strong>[00:16:57]</strong> </span><span class="speaker"><strong>发言人1: </strong></span>能把这个钱续上。对，然后他们心想有个傻逼开源的要去适配了，我到时候再恭喜你。</p>
+<p class="transcript-line"><span class="time"><strong>[00:17:04]</strong> </span><span class="speaker"><strong>发言人3: </strong></span>我给你做个证实，对吧？也不能说人傻。</p>
+<p class="transcript-line"><span class="time"><strong>[00:17:06]</strong> </span><span class="speaker"><strong>发言人2: </strong></span>只不过是他对，有可能大家说不定也都挺熟的，互相也都探过底了，对吧？大家卡在我觉得这个很重要，就是我我觉得很喜欢一个词，就是生态位这个词就是生态位的话就是我觉得说大家找自己的位置。Deep seek的话他在模型的底层的基建上，我觉得他就还是一直很很坚持的在做这一块。他没有直接去碰应用，就是我们可以没有看到任何一个东西是他直接。</p>
+<p class="transcript-line"><span class="time"><strong>[00:17:35]</strong> </span><span class="speaker"><strong>发言人1: </strong></span>连多模态都不碰。</p>
+<p class="transcript-line"><span class="time"><strong>[00:17:36]</strong> </span><span class="speaker"><strong>发言人2: </strong></span>对他现在连多模态都没，这个也是也有被别人诟病的地方。对，很多人会去垢垢病的。但我们从企业服务的角度来看，我觉得这没有任何毛病，对吧？我干嘛非要多模态呢？对吧？那他的话其实就是很专注在做他的这个大模型。但是他现在这个生态位跑到这个状态，也碰到一个很大的危机。就是做大模型实在是太需要两样东西，一个很需要人才还是很需要钱。</p>
+<p class="transcript-line"><span class="time"><strong>[00:18:02]</strong> </span><span class="speaker"><strong>发言人2: </strong></span>人才的话，我们知道它里面有一个大将已经跑去小米做这个，做了一个开源模型，就做的很屌了。现在应该是罗孚利。对，就是从dip sick出去的，然后在那边做的也是可谓风生水起，在那边拿到大量的资源，然后小米也给了大量的资源去做。然后他还有很多其他的人才都是也在流失，有很多我们不知道那么知名，但也都很重要的人。对呀对，就字节可能给你开不知道多少倍的薪水，这个不得了对吧？然后那还要留在海外的都有，然后那像这些东西都是流这个真真流血。你想我们meta当时聊meta那边小扎天天挖人都是以亿级起步的，随便挖的这一堆人都不知道花了多少亿，对吧？那那在这边的话，我相信就算不是一级别，也是都是巨巨贵了，也是巨贵了。</p>
+<p class="transcript-line"><span class="time"><strong>[00:18:51]</strong> </span><span class="speaker"><strong>发言人2: </strong></span>这要留住这些人还挺困难的那然后大模型本身也要烧钱，因为你你专注这种模型底座，我觉得刚才我们的分析像华为升腾要或者是video的这些全部哪个烧钱都是不得了，对吧？都是一一上来的，那个数量级我们都无法想象。就是这种情况。所以我觉得说他踩他既然踩住这个生态位，那我觉得说到这个时间节点，就是我们如果从创业的这些公司来讲，他们是想的是怎么自己活下来，自己闭环。那我觉得做大模型就没办法，自己闭环。</p>
+<p class="transcript-line"><span class="time"><strong>[00:19:24]</strong> </span><span class="speaker"><strong>发言人3: </strong></span>就得就不得。</p>
+<p class="transcript-line"><span class="time"><strong>[00:19:26]</strong> </span><span class="speaker"><strong>发言人2: </strong></span>对。</p>
+<p class="transcript-line"><span class="time"><strong>[00:19:26]</strong> </span><span class="speaker"><strong>发言人3: </strong></span>就得去短期的迭代。</p>
+<p class="transcript-line"><span class="time"><strong>[00:19:28]</strong> </span><span class="speaker"><strong>发言人2: </strong></span>对你短期没搞钱的话，对我觉得是没有办法的。而且这个事情还有一个东西，刚才严哥讲到的国家情怀这个事情我觉得我虽然我看不到，但我觉得国家肯定是有一定程度的去支持这个事情的。而且人家是很大力的去支持他的，一定的不然的话这个事情我觉得太烧的钱简直是无底洞，简直是无底洞。就像ONI随便搞说五千亿多少亿，我要去融融这个钱。</p>
+<p class="transcript-line"><span class="time"><strong>[00:19:53]</strong> </span><span class="speaker"><strong>发言人1: </strong></span>那我国家也支持他，对吧？</p>
+<p class="transcript-line"><span class="time"><strong>[00:19:55]</strong> </span><span class="speaker"><strong>发言人2: </strong></span>对他美国也支持了他，但美国那个搞法是什么？甲骨文的拉过来填坑，对吧？那中国我们怎么做？我们其实对我们肯定做法跟他不一样。但是我们相信说这种东西对我们国家也挺重要的对，就是我觉得他好像走起来这个生态位，国家的生态。</p>
+<p class="transcript-line"><span class="time"><strong>[00:20:12]</strong> </span><span class="speaker"><strong>发言人3: </strong></span>对国家支持就开绿灯就好，对吧？你只要什么地方都开绿灯，什么事情都加速，往什么地方都可以先赊着，这就是最大支持了。</p>
+<p class="transcript-line"><span class="time"><strong>[00:20:19]</strong> </span><span class="speaker"><strong>发言人1: </strong></span>靠我我这个我这个突然听老师这么一讲，我就是有感触了，我有感触了。为什么我刚才听不有点不解，在听老师讲这个生态位以后，我突然这个事情，这两年的事情我都想明白了。你看第一年大家看第一年两种的心态，就是我deep sik出来是个偶然。妈的，你们别搞我，谁都别搞我，对谁都脑子都不见，要过来。别别搞我别搞我别搞我，对不对？梁总第一年心想就是梁文峰第一年心想就是你不要搞我。我相信那一年，阿里、腾讯应该都找他谈过了不只是今天要谈融资，当时应该给的估值可能比今天都高时。</p>
+<p class="transcript-line"><span class="time"><strong>[00:21:00]</strong> </span><span class="speaker"><strong>发言人2: </strong></span>应该就是明确拒绝的融资了，说了不搞不融资。</p>
+<p class="transcript-line"><span class="time"><strong>[00:21:03]</strong> </span><span class="speaker"><strong>发言人1: </strong></span>但是我跟你讲，人在江湖飘，对不对？人在江湖飘，不是说你能不拿钱就不拿钱，你说我人畜无害我就人畜无害的那怎么办呢？对不对？那怎么办？我肯定要有一个我自己的生态位。</p>
+<p class="transcript-line"><span class="time"><strong>[00:21:19]</strong> </span><span class="speaker"><strong>发言人1: </strong></span>如果马化腾今天来找梁总，梁总那那怎么说呢？第一个这个我是开源的。第二个这个腾讯云我可以支持你我可以支持你，我们一起赚钱对吧？哈布在那个deep seek布在腾讯云上面，这个我们可以交流。我是开源的那这个我不做这个我不做那个，我不做应用，我不做多模态，什么都不做。我就是做我这个东西，你也不用投我，反正我就是做我这件事情，大家相安无事。</p>
+<p class="transcript-line"><span class="time"><strong>[00:21:49]</strong> </span><span class="speaker"><strong>发言人1: </strong></span>然后腾讯云腾讯去年不就就致敬了一年，对不对？这一个对，狂蹭一年。对。</p>
+<p class="transcript-line"><span class="time"><strong>[00:21:54]</strong> </span><span class="speaker"><strong>发言人2: </strong></span>都是第一时间支持的，都是第一次。</p>
+<p class="transcript-line"><span class="time"><strong>[00:21:56]</strong> </span><span class="speaker"><strong>发言人3: </strong></span>本来也是开源的对吧？本来是场不不不。</p>
+<p class="transcript-line"><span class="time"><strong>[00:22:01]</strong> </span><span class="speaker"><strong>发言人1: </strong></span>我跟你讲的那个腾讯这边的一些新的能力，基本上是跟deep sik第一时间。</p>
+<p class="transcript-line"><span class="time"><strong>[00:22:07]</strong> </span><span class="speaker"><strong>发言人2: </strong></span>放都是第一时间然后把自己的资源都装进去了。</p>
+<p class="transcript-line"><span class="time"><strong>[00:22:10]</strong> </span><span class="speaker"><strong>发言人1: </strong></span>这个叫什么？这个就是老师讲的卡位。我就在这里，你别搞我，我在这个生态位我不会害你我人畜无害，我把我位置卡好，对吧？第二年不一样的，风水轮流转对吧？</p>
+<p class="transcript-line"><span class="time"><strong>[00:22:24]</strong> </span><span class="speaker"><strong>发言人1: </strong></span>第二年腾讯也有更高的目标了，阿里这个千问也起来了对吧？然后华为可能也过来说，怎么国产算力要不要搞一下？对，大家都在搞，然后我人也在走，但这个时候并不是说我不拿钱就行了。</p>
+<p class="transcript-line"><span class="time"><strong>[00:22:39]</strong> </span><span class="speaker"><strong>发言人1: </strong></span>我可以给你举个例子，就好比说我出去签单，这个客户很大，世界500强我明知道我卖了他，我整个公司会因为他亏整年，对吧？但是我要是签了，我回来就不能跟公司的人说，老兄这课我们不做了，对不对？全公司都干死我，对不对？不是老板公司都做对吧？你也没办法，老兄说根本你不做，我出去开公司我自己做，这肯定不行，对吧？所以你人在江湖飘，对吧？这个有些钱你就得拿了，对吧？</p>
+<p class="transcript-line"><span class="time"><strong>[00:23:12]</strong> </span><span class="speaker"><strong>发言人1: </strong></span>所以我就说到第二年这个生态位我又得卡准了，我还是开源对吧？我优先支持国产算力，我今年的目标都是在为国产算力服务，这个拿上台面我也能讲，然后拿下来你们大家这些脏活累活都不做，我来做。那个马哥两位马哥我很安全的，我在给你们打下手，我在适配国产算力，你们别搞，我要投，我可以可以投一点，投一点，估值不用太高，100亿美金就去入，不然怎么解释？</p>
+<p class="transcript-line"><span class="time"><strong>[00:23:48]</strong> </span><span class="speaker"><strong>发言人3: </strong></span>跟OpenAI比，跟那什么author比都太低了。</p>
+<p class="transcript-line"><span class="time"><strong>[00:23:52]</strong> </span><span class="speaker"><strong>发言人1: </strong></span>靠不是你他妈不然你怎么解释，你怎么解释？贤哥你不是你从你的角度你告诉我，你说你这个事情怎么解释，你融个100亿在隔壁，对吧？我觉得说你融个100亿两种出去就到他们村里去散步，他都抬不起头来，对不对？那肯定是有原因的。</p>
+<p class="transcript-line"><span class="time"><strong>[00:24:10]</strong> </span><span class="speaker"><strong>发言人3: </strong></span>我觉得你们刚才说的都是不得不的原因，就是无论是说政府有期待也好，还是说周边的这些生态的也好。我觉得首先第psk当年出来的时候就是个先手。所谓先手就是没有人期待说他出来，对吧？也没有人期待说他在这个公司换发量化能在AI时代造出一个能跟这个国际大模型抗衡的模型，对吧？那就人家本身就占着先手，那咱往后想，就是在他真正出大模型和这一年之间，他有没有考虑过未来要占位或者说替代掉谁。就跟当年这个字节做的时候，字节跳动做的时候，做这个什么头条也好，什么人家本来就想做新时代的这个流量入口，对吧？要跟阿里、腾讯掰掰手腕。但你就想就是换方乱画也好，或者说deep sak也好，当时他真正出来的时候，有没有想过自己就要做中国ai第一名。</p>
+<p class="transcript-line"><span class="time"><strong>[00:25:01]</strong> </span><span class="speaker"><strong>发言人3: </strong></span>我觉得这件事儿来讲的话，有可能就真的想过，咱们这么说，但这个想法能怎么实现？我觉得在他的设计里面会不会就有一天就想就是我先等着最好的时间，就跟咱看电影里面一样，大家先不要开口hold your fire对吧？等到对面的人跑到这个射程之内，然后hold your fire，然后再怎么开枪。那个时候有没有一种可能，咱就想在平宇宙有没有可能就是梁文峰这些东西都设计好了，我就有可能在某个时间点我就要开始站队了，或者说我就要开始掀桌了，这个时间点？</p>
+<p class="transcript-line"><span class="time"><strong>[00:25:34]</strong> </span><span class="speaker"><strong>发言人3: </strong></span>完了有没有可能就是当年我在别人都不知道我的时候，我攒了好多HH80H100的卡，做出了DBCK，让你们知道之后，现在我也很难拿到卡了。但我早就算到了未来我就是拿不到卡。所以我早晚我要跟华为来结合，我就要做出真正自己的这个模型来，再往下想一步，就是说到那个时间点我要不要站队？如果要站队的话，现在由中国来源有几方，阿里肯定是阿里系，对吧？腾讯有腾讯系，那现在还有个字节对吧？</p>
+<p class="transcript-line"><span class="time"><strong>[00:26:03]</strong> </span><span class="speaker"><strong>发言人3: </strong></span>那我要不要站队？那咱咱咱先把这个弹开一笔，咱就先不说DBC，咱就想想京东。大家回想一下十几年前的京东，当年的时候腾讯投资京东，然后给了给了京东什么给了京东什么？就当年是我在国内亲历，因为当时我正好在北京创业，所以对这件事情是前后关注。就几个东西。第一个，虽然刘强东不是大股东了，但他有绝对投票权，超过50%的投票权对吧？第二个就是微信是个开放一级入口，相当于把自己的那个电商商城等下就把当时腾讯自己也在做，就是微信自己也在做电商商城，就直接融入到京东了，相当于就是白送了，然后给了微信的第一入口。也就是说微信的购物就是只是靠京东了，对吧？</p>
+<p class="transcript-line"><span class="time"><strong>[00:26:44]</strong> </span><span class="speaker"><strong>发言人3: </strong></span>然后还给钱，这件事儿之后就是说一下双十一。就当年双十一我记得好像是就那一年的双十一就比上一年同比增加了好像是几十倍的情况。就是说这个腾讯流量对他来讲是巨大的，然后腾讯自己也市值也涨了，对吧？就是这一波之后，你知道最尴尬的是谁？最尴尬的是苏宁。当时苏宁和这个京东还能待一待的。</p>
+<p class="transcript-line"><span class="time"><strong>[00:27:08]</strong> </span><span class="speaker"><strong>发言人2: </strong></span>一南一北。</p>
+<p class="transcript-line"><span class="time"><strong>[00:27:09]</strong> </span><span class="speaker"><strong>发言人3: </strong></span>后面都没戏了。对，苏宁怎么办？只能扭扭捏捏的去找阿里了，然后阿里好吧好吧好吧，我就收你了。结果苏宁背靠阿里也没做起来。最后来讲，整个就是苏宁在这个电商领域上就被边缘化了。</p>
+<p class="transcript-line"><span class="time"><strong>[00:27:22]</strong> </span><span class="speaker"><strong>发言人3: </strong></span>本来真的是有机会跟京东来掰一掰，当年京东确实也属于惊险一跃，也确实是遇到一些瓶颈。他当时不是刘强东在大量投钱造这个物流，那是真正的硬投入，而且是真正的重资产。那我你就是咱们还回来，咱说回到今天，咱说deep sick。那在deep sak这个时间点上来讲，首先刚才小苏说了一点特别关键，就是是小老邱说的，就是他不靠产品对吧？他就是做模型，所以他没办法直接去做流量。你也可以看到这一年就是deep并没有说在流量上花钱，不像什么元宝，什么字节。</p>
+<p class="transcript-line"><span class="time"><strong>[00:27:56]</strong> </span><span class="speaker"><strong>发言人1: </strong></span>什么什么都很火。然后梁文峰出来做个人ip。</p>
+<p class="transcript-line"><span class="time"><strong>[00:28:04]</strong> </span><span class="speaker"><strong>发言人3: </strong></span>有道人家起码没着咱们做节目，对不对？没给咱们送上单来。然后从这咱咱再说回来，没说完，从这角度来讲的话，你看他既不是靠流量赚钱，第二不能靠卖token赚钱，对吧？显然的，完了靠一个自己的量化对冲基金，他又何必这么辛苦的就是那边造钱，往这边花钱，对吧？那早晚就是如果说我是梁文峰这么聪明的人，你你你不可能承认梁文峰不聪明，对吧？</p>
+<p class="transcript-line"><span class="time"><strong>[00:28:33]</strong> </span><span class="speaker"><strong>发言人3: </strong></span>人家做做对冲基金的，我靠这已经是金字塔尖儿了，那人家能不想这个事儿吗？我做出这模型来，我还把它发出来，我还把它开源了，我到底图什么？所以我的想法就是说也有可能在最开始就已经想明白了，就是在某个时间点，比如说这个时间点我们就划分到我已经可以让国产芯片您部分替代海外芯片的时候，我就要拿国内的这个人的钱。拿钱的目的是为了站队，站队的目的是为什么？是为了真正进入到这个AI市场，让别人不可能再把我剔掉。这个时间点上来讲的话，我就开始选择，我这个时候就发出，我们家闺女18了，可以开始接受媒人的介绍了。能拿出V4来让我们家闺女出来走一走，转一转。</p>
+<p class="transcript-line"><span class="time"><strong>[00:29:16]</strong> </span><span class="speaker"><strong>发言人1: </strong></span>我跟他学过琴棋书画。</p>
+<p class="transcript-line"><span class="time"><strong>[00:29:18]</strong> </span><span class="speaker"><strong>发言人3: </strong></span>样样精通对吧？样精通。你说这时候你就说这时候这媒婆能不能把鞋跑出跑烂几双，对不对？你说咱不说咱现在咱就以封建古代古代封建这个情况之下，两个家族要讲究门当户对。闺女嫁闺女拼拼就是拼拼这个拼。</p>
+<p class="transcript-line"><span class="time"><strong>[00:29:34]</strong> </span><span class="speaker"><strong>发言人1: </strong></span>闺女先别成假，没有任何不尊重，就是纯比喻。</p>
+<p class="transcript-line"><span class="time"><strong>[00:29:37]</strong> </span><span class="speaker"><strong>发言人3: </strong></span>纯纯比喻就就为了纯为了这比喻。然后那个时候两个家族结婚主要是为了这个联姻，联姻的意思就是资源重整，对吧？那这个时候就是说梁文峰把自己的这个模型拿出来当自己的闺女来跟来来给大家展示完了以后来开始那个联姻。不就是要找这些流量平台或者说产品平台，或者说大的这种互联网公司，然后大家一起携手走到下一个AI时代，这是第一层。</p>
+<p class="transcript-line"><span class="time"><strong>[00:30:02]</strong> </span><span class="speaker"><strong>发言人3: </strong></span>第二层就是我说为什么不是不得不，而是说当理当如此。你别忘了咱现在咱只谈中美，但不是说全球只有中美能使用AI模型。你大家想过没想过这事儿？就是说现在目前我在北美看到，我觉得我觉得我自我感觉我觉得AI模型已经走入了精英化了或者贵族化了。就是你想用好模型你就得跪，你就得花钱，然后你就得烧token。那个谁模型来讲的话，估值越来越高，这泡沫越来越大，可是谁也不敢戳破它。大家为了什么为了挣钱，还上股市里面继续吹高它，对吧？</p>
+<p class="transcript-line"><span class="time"><strong>[00:30:33]</strong> </span><span class="speaker"><strong>发言人3: </strong></span>不断note非洲的我们的黑兄弟们要不要用，那他们买得起H100吗？即使不限不限购，不不禁运的时候，买得起，买不起，还有那么多那些那些就是说整个创业嗷嗷待哺的这些企业想用的用谁？那是不是得有替代，那这时候国产芯片是不是有用武之地了，对吧？</p>
+<p class="transcript-line"><span class="time"><strong>[00:30:52]</strong> </span><span class="speaker"><strong>发言人2: </strong></span>然后这个事情我觉得贤哥我要补充一下，是真的，就是这么回没事儿。就是你忘了我们去年在讲的时候，deep sick已经是好几个国家，法国、瑞士，然后现在还有印度，然后还有好几个其他国家，就是非中美之外国家的开源模型，基本上都是deep seek在哪去二次训练的对，这个事情只是说大家有的明着讲，有的明的不讲。但是因为我们说过了，其实美国的拉马已经不行了，对吧？对，这个早就已经现在都已经闭园掉了。然后欧洲可能有mr有等等等，其他的他们也是有去借鉴deep sick的那在这个时候，当时那tip这个只是软件大模型，那软件大模型训练的话还是跑在这个media的CUDA上面去，这个是没毛病。但是现在的话就是多又多了一个option，对吧？又多了一个选项，你可以跑到华为的升腾上。只是这个事情现在比较模糊，海外可能也比较抵触，可能大家没有讲，但是我觉得特别映衬。就是你现在讲的这个事情，就是还有那么多的国家，他们在中美之外的时候，想要用一个完整的整套特这个技术战的时候，以前还得中美混着用，后面可以真的全部用中国一套。这个事情我觉得。</p>
+<p class="transcript-line"><span class="time"><strong>[00:32:06]</strong> </span><span class="speaker"><strong>发言人3: </strong></span>说华为是一个道理。</p>
+<p class="transcript-line"><span class="time"><strong>[00:32:08]</strong> </span><span class="speaker"><strong>发言人1: </strong></span>对吧？也是战队的对，这你选择华为就是选择战队了，我觉得这是很简单一个道理。</p>
+<p class="transcript-line"><span class="time"><strong>[00:32:13]</strong> </span><span class="speaker"><strong>发言人3: </strong></span>对，那你说咱们说东南亚有多少人？几几十亿人口对吧？在非洲还有多少人，拉丁美洲还有多少人，对吧？那咱就不说欧洲和美国，我把这市场让给你，把北美和市场就是欧洲让给你那我其他的新兴市场我都可以去做，广阔天地大有可为，对吧？</p>
+<p class="transcript-line"><span class="time"><strong>[00:32:32]</strong> </span><span class="speaker"><strong>发言人1: </strong></span>然后还是贤哥格局高，难怪贤哥赚那么多钱，我这个就是小肚鸡肠。你看人家贤哥这个就是什么，人家就印证一句话，就是什么把朋友搞得多多的，把敌人搞好的少少的。先分清楚谁是我的敌人，谁是我的朋友。</p>
+<p class="transcript-line"><span class="time"><strong>[00:32:48]</strong> </span><span class="speaker"><strong>发言人3: </strong></span>对吧？这话不敢当，这话这是毛主席的理论高度，不是咱只是蒙眼睛看着对吧？对吧？然后你看我这毛泽东毛泽东选集，您是在手边。</p>
+<p class="transcript-line"><span class="time"><strong>[00:33:01]</strong> </span><span class="speaker"><strong>发言人1: </strong></span>太猛了，太猛了。</p>
+<p class="transcript-line"><span class="time"><strong>[00:33:01]</strong> </span><span class="speaker"><strong>发言人2: </strong></span>你这跟当年拿着。</p>
+<p class="transcript-line"><span class="time"><strong>[00:33:04]</strong> </span><span class="speaker"><strong>发言人1: </strong></span>尚方宝剑说，皇上在跟我说。</p>
+<p class="transcript-line"><span class="time"><strong>[00:33:10]</strong> </span><span class="speaker"><strong>发言人2: </strong></span>就差衣服打开就是黄马甲了。</p>
+<p class="transcript-line"><span class="time"><strong>[00:33:12]</strong> </span><span class="speaker"><strong>发言人1: </strong></span>我红内裤。贤哥这个人民日报评论员的这个高度是上来了。</p>
+<p class="transcript-line"><span class="time"><strong>[00:33:20]</strong> </span><span class="speaker"><strong>发言人3: </strong></span>黑心老板是吧？</p>
+<p class="transcript-line"><span class="time"><strong>[00:33:22]</strong> </span><span class="speaker"><strong>发言人1: </strong></span>可以可可以可以可以可以可以。</p>
+<p class="transcript-line"><span class="time"><strong>[00:33:24]</strong> </span><span class="speaker"><strong>发言人3: </strong></span>可以可以可以可以。好。</p>
+<p class="transcript-line"><span class="time"><strong>[00:33:27]</strong> </span><span class="speaker"><strong>发言人1: </strong></span>我们这期节目就到这里结束了。</p>
+<p class="transcript-line"><span class="time"><strong>[00:33:29]</strong> </span><span class="speaker"><strong>发言人3: </strong></span>行，我们也期待看看这个梁文峰到底会选谁加钱，反正我投腾讯一票。</p>
+<p class="transcript-line"><span class="time"><strong>[00:33:34]</strong> </span><span class="speaker"><strong>发言人1: </strong></span>对对对，本期节目由人民日报首席评论员刘步轩同志蜻蜓初验纯。</p>
+<p class="transcript-line"><span class="time"><strong>[00:33:42]</strong> </span><span class="speaker"><strong>发言人3: </strong></span>腿瞎侃，如有雷同，实属巧合，千万不要上纲上线，大家一定要先叠叠两层甲，顶个锅盖。</p>
+<p class="transcript-line"><span class="time"><strong>[00:33:49]</strong> </span><span class="speaker"><strong>发言人2: </strong></span>我们就是瞎侃，没有干货也是此属巧合。</p>
+<p class="transcript-line"><span class="time"><strong>[00:33:52]</strong> </span><span class="speaker"><strong>发言人1: </strong></span>对对对，很多听友说你们节目真的是太水了，我说不是正常的吗？如有干货纯属巧合。</p>
+<p class="transcript-line"><span class="time"><strong>[00:34:00]</strong> </span><span class="speaker"><strong>发言人3: </strong></span>对，我们就一人饮水，就是那什么自乐了。好，希望大家也能带来点快乐吧。有什么想法评论区见，大家拜拜了拜拜了。</p>
+<p class="transcript-line"><span class="time"><strong>[00:34:08]</strong> </span><span class="speaker"><strong>发言人2: </strong></span>拜拜了，再见，拜拜。</p>]]></content:encoded>
+            <pubDate>Thu, 30 Apr 2026 12:15:22 GMT</pubDate>
+            <guid>69f34338b39400b493443a50</guid>
+        </item>
         <item>
             <title>AI 御三家，已经不打模型了：Codex 反杀，桌面端正式开打</title>
             <link>https://www.xiaoyuzhoufm.com/episode/69e9e7a11d989496e755a70f</link>
-            <description>本期节目，我们深入拆解 AI 领域“御三家”最近密集发布的桌面端产品。为什么 Google 的 Gemini 桌面端看起来像是个“糙活”？Claude 又是如何通过激进的策略活成了“客户的样子”？而那个满口黑话的 Codex，凭什么让开发者又爱又恨？最后，马斯克收购 Cursor 的阳谋，是否预示着 AI 供应链的新一轮洗牌？
+            <description>今早上了GPT5.5，刚好点题。这期我们深入拆解 AI 领域“御三家”最近密集发布的桌面端产品。为什么 Google 的 Gemini 桌面端看起来像是个“糙活”？Claude 又是如何通过激进的策略活成了“客户的样子”？而那个满口黑话的 Codex，凭什么让开发者又爱又恨？最后，马斯克收购 Cursor 的阳谋，是否预示着 AI 供应链的新一轮洗牌？
 01:42 Gemini 最近的模型确实有点飘啊，不能说拉胯，就是不稳定
 02:04 Deepmind 这帮天龙人，模型做模型的，产品做产品的，强行融合是真的搞不定
 03:55 如果一个公司开始抓Vibe Coding考勤了，这公司就快黄了！
@@ -4435,192 +4611,6 @@ Apple podcsat朋友请移步👋
 <p class="transcript-line"><span class="time"><strong>[00:39:59]</strong> </span><span class="speaker"><strong>发言人2: </strong></span>拜拜。好，拜拜，大家下次再聊，拜拜。</p>]]></content:encoded>
             <pubDate>Sun, 12 Oct 2025 23:00:00 GMT</pubDate>
             <guid>68ebb058224325ea70dbfbac</guid>
-        </item>
-        <item>
-            <title>大戏｜瓜分英特尔：沦为美国国企、复刻Wintel霸权，打造新”轴芯“时代？</title>
-            <link>https://www.xiaoyuzhoufm.com/episode/68e52ee58e321a0d6f38f7b6</link>
-            <description>英特尔就像一座正在没落的欧洲贵族古堡 。曾经辉煌，但维护成本高昂，早已跟不上时代。现在，村长（川普）带头，联合隔壁的新贵（英伟达）和远方的富商（孙正义）一起来了。每个人都在盘算着，如何从这摇摇欲坠的古堡里，为自己的新豪宅搬回几件最值钱的古董。
-唯独老贵族，体面而悲催，唱起最后的挽歌：噔！等灯等灯！
-🔥新朋友！訂閱「JustSayAI早晚報」· 每日兩封 · 一鍵聽報 ：justsayai.org
-👉老朋友！加入會員獲取JustSayAI早晚報+深度研報+文字專欄 ：www.youtube.com
-00:00曾经的王者如今为何要靠抢救？
-04:03英特尔已经变成正牌美国国企了吗？
-06:17黄仁勋入股意外干掉了AMD？
-12:42 AI时代的“Wintel联盟”？
-15:38芯片制造回流美国是一场政治阳谋吗？
-21:29孙正义为何甘当川普的“马前卒”？
-28:12各方觊觎的“古堡遗产”究竟是什么？
-30:32中美AI竞争会走向两条平行线吗？
-32:20美国的AI通往AGI中国的AI通往RMB？
-34:00欧洲会成为中美之外的第三极吗？
-35:59中国的开源战略会动摇美国地位吗？
-41:17AI竞赛的核心是算力还是生态？
-42:56 英特尔最终会沦为一座历史遗迹吗？
-👉訂閱「JustSayAI早晚報」· 每日兩封 · 一鍵聽報：justsayai.org （需科学上网）
-👉老朋友！加入會員獲取JustSayAI早晚報+深度研報+文字專欄 ：www.youtube.com
-【关注频道】：
-📺B站：叫我小苏就好啊
-📕小红书：人民公园说AI
-▶️油管：人民公园说AI
-📱听友群：justsayai666</description>
-            <content:encoded><![CDATA[<p class="transcript-line"><span class="time"><strong>[00:00:00]</strong> </span><span class="speaker"><strong>发言人1: </strong></span>瓜分英特尔，我这个我觉得是很有故事性的一个话题，这几方博弈其实还是特别精彩的。有川普进来搞一下英特尔，有英伟达进来投资了一下英特尔，然后连孙正义都来参讲。所以这个事情最有意思的点，每一方他的各自的小99跟心思都不一样，特别值得大家细细品。但是也给大家留一个悬念，就是其实你不管说川普还是英伟达，还是孙正义，我们觉得最后他们最看重的英特尔的其实就是一个皮卡丘。这个留在最后再跟大家解释。</p>
-<p class="transcript-line"><span class="time"><strong>[00:00:37]</strong> </span><span class="speaker"><strong>发言人2: </strong></span>对对对，咱们不能把这个故事的钩子先给掏出来。</p>
-<p class="transcript-line"><span class="time"><strong>[00:00:40]</strong> </span><span class="speaker"><strong>发言人1: </strong></span>是的，要卖个关子。</p>
-<p class="transcript-line"><span class="time"><strong>[00:00:50]</strong> </span><span class="speaker"><strong>发言人1: </strong></span>来那个贤哥跟我们讲一下，现在英特尔这个事情大概帮我们观众梳理一下。</p>
-<p class="transcript-line"><span class="time"><strong>[00:00:56]</strong> </span><span class="speaker"><strong>发言人2: </strong></span>其实英特尔这个事情大家也知道，不是说一天两天的事情，对吧？那英特尔过去十年其实一直在走下坡路，然后曾经的当当当对吧，当时代表着全球最高科技。那会儿说的英特尔真的就是皇冠上的明珠那种感觉。我是90年代，90年代那会儿说有一个用英特尔的芯片，是用AMB芯片，你YID都不好意思跟人打招呼。而且那会儿英特尔什么奔腾什么的，然后各所有的笔记本电脑都装英特尔。</p>
-<p class="transcript-line"><span class="time"><strong>[00:01:24]</strong> </span><span class="speaker"><strong>发言人1: </strong></span>还有贴都是指名购买的。比如说我记得我小学的时候，就配那个机器人，当时奔腾4出来，我一定要奔腾四的，对不对？</p>
-<p class="transcript-line"><span class="time"><strong>[00:01:34]</strong> </span><span class="speaker"><strong>发言人2: </strong></span>不是你光在那个电脑上贴了一小标蓝色英特尔小。</p>
-<p class="transcript-line"><span class="time"><strong>[00:01:37]</strong> </span><span class="speaker"><strong>发言人3: </strong></span>标inside。</p>
-<p class="transcript-line"><span class="time"><strong>[00:01:39]</strong> </span><span class="speaker"><strong>发言人2: </strong></span>对，都有多自豪的对吧？可是你看这现在此一时彼一时，对吧？现在来讲的话，大家都在考虑，都在都讨论的是什么？是卖给谁，有没有人能救他？然后能不能说再次辉煌，再次复兴，抢救一下对吧？对，抢救一下。对，让人们呼吸1下。</p>
-<p class="transcript-line"><span class="time"><strong>[00:01:56]</strong> </span><span class="speaker"><strong>发言人2: </strong></span>然后说简单说简单说就是说最近我们看到的新闻是什么？是说美国政府，尤其是川普对吧？然后说以前拜登的时候是以这个赠款的形式来救助这个科技企业，也就是说救助英特尔这个美国的明珠企业。现在川普变脸了，说对不起，不赠了，你直接把这东西给我变成股权了，我要入股了。而且入入的还不是小股，一下就是10%的股份。</p>
-<p class="transcript-line"><span class="time"><strong>[00:02:20]</strong> </span><span class="speaker"><strong>发言人2: </strong></span>另外那谁呢？黄仁勋，黄仁勋说我有钱，对吧？这来来来以前你把我当竞争对手，然后现在以前的我爱答不理，现在的我沟通不起，直接来来来来来过来买你的股份。</p>
-<p class="transcript-line"><span class="time"><strong>[00:02:32]</strong> </span><span class="speaker"><strong>发言人1: </strong></span>变成你以前retail不是很屌吗？我现在用retail。</p>
-<p class="transcript-line"><span class="time"><strong>[00:02:37]</strong> </span><span class="speaker"><strong>发言人2: </strong></span>对，直接来，这孙正义也过来敲一下，而且孙正义这个角色扮演的特别的，怎么说呢？就是用我的话讲叫鸡贼，是有一点贬低的意思，但确实是在我看来太鸡贼了，因为他本身他自己还是英国ARM的公司的股东，对吧？然后本身跟英特尔是构成竞争关系的。结果没想到在这个时候他也来掺一脚，占了个2%，你说多不多少不少，但是这个的战略意图太明显了，所以基本上是这么一个情况。那英特尔可视问题，就这十几十，应该是加起来应该有一百多亿，就是所谓的承诺投资额一百多亿，这一百多亿都不够英特尔一年烧的。而且在以大家的对英特尔的看法来讲，他目前你别说今年了，明年也缓不过来，后年可能还在亏损。所以真的这个钱够不够，能干嘛使？对于英特尔来讲的话，是不是已经直接渡过了难关，我觉得都就两说着，也未可知。</p>
-<p class="transcript-line"><span class="time"><strong>[00:03:32]</strong> </span><span class="speaker"><strong>发言人1: </strong></span>所以我第一个问题先给你就是你觉得川普政府救他干什么？</p>
-<p class="transcript-line"><span class="time"><strong>[00:03:38]</strong> </span><span class="speaker"><strong>发言人2: </strong></span>谁说在救他？我根本没觉得正在救他是吗？</p>
-<p class="transcript-line"><span class="time"><strong>[00:03:42]</strong> </span><span class="speaker"><strong>发言人1: </strong></span>这会救他的。</p>
-<p class="transcript-line"><span class="time"><strong>[00:03:43]</strong> </span><span class="speaker"><strong>发言人2: </strong></span>概率是什么意思？就是说你救一个人是说你无偿的或者说牺牲自己对吧？然后来帮助他，希望他能够恢复到以前的样子。我觉得英特尔已经不在了，就是现在的英特尔和2十年二十年前的英特尔已经不是一个。</p>
-<p class="transcript-line"><span class="time"><strong>[00:03:57]</strong> </span><span class="speaker"><strong>发言人3: </strong></span>你这是现在是吧？</p>
-<p class="transcript-line"><span class="time"><strong>[00:03:59]</strong> </span><span class="speaker"><strong>发言人1: </strong></span>美国政府我是他的第一大股东，现在是他的第一大股东，所以你说英特尔现在是正牌美国国企，这个也不过分，对吧？对，你这个以前做国有资产的很熟悉，对。</p>
-<p class="transcript-line"><span class="time"><strong>[00:04:11]</strong> </span><span class="speaker"><strong>发言人2: </strong></span>国有化了。对，对，在欧洲也一样，在中国也一样，都是国有化了，对吧？就是说你把它国有化的概念是什么？首先第一来讲的话，它就是大而不倒了，那很难就是说这个公司在以破产的形式直接什么就消失了，对吧？第二来讲的话，效率说句不好听的话，效率你觉得是提高还是降低，对吧？然后第三来讲的话，未来在在跟其他企业合作，或者说甚至说跟其他其他政体的政府合作的时候，大家会不会先想你到底什么背景对吧？再有说有没有未来再做融资的时候，会不会有涉及到国有资产流失。</p>
-<p class="transcript-line"><span class="time"><strong>[00:04:46]</strong> </span><span class="speaker"><strong>发言人1: </strong></span>你党支部要不要建起来？</p>
-<p class="transcript-line"><span class="time"><strong>[00:04:48]</strong> </span><span class="speaker"><strong>发言人2: </strong></span>对对对，就是你要不要把川党建起来？对，所以就这些东西你都要考虑，所以我不觉得这个是谁在救谁，或者说川普在救他。真正当时拜登还说以赠予的形式和贷款国家贷款形式低息贷款的那才叫救，对吧？那才叫救。然后现在来讲的话，我觉得叫夺，就是借用道家的一个说法，这叫夺舍。</p>
-<p class="transcript-line"><span class="time"><strong>[00:05:08]</strong> </span><span class="speaker"><strong>发言人1: </strong></span>这个是不是就是上一任没用完的预算？我这一任把你反正你用一个对，就是带动资本市场的方式给你花掉。</p>
-<p class="transcript-line"><span class="time"><strong>[00:05:18]</strong> </span><span class="speaker"><strong>发言人2: </strong></span>对，不光是他舆论，舆论场上放出的口径是什么？就是说你看看当年的老政府，乱撒钱，把我们纳税的钱乱撒，好像就这种不该救的企业或者救救不起来企业。现在我倒好，我直接把股权拿过来。未来这个东西复兴了之后，大家一起赚钱，我帮纳税人赚钱。</p>
-<p class="transcript-line"><span class="time"><strong>[00:05:34]</strong> </span><span class="speaker"><strong>发言人1: </strong></span>对对，你看之前金融危机，08年的时候，这些什么福特，这些车厂政府也是直接注资的。但是他那个不是属于说财务投资，他那个是还亏了钱，最后三年四年以后就出去了，对不对？对，但这一次其实川普可能就不跟你谈这个东西，川普觉得不行，我又要救你，又不是我又要注资，我又要财务回报，我两样都要有。</p>
-<p class="transcript-line"><span class="time"><strong>[00:06:00]</strong> </span><span class="speaker"><strong>发言人2: </strong></span>真的就是商人的算盘，对吧？就是我投的钱不能说白投，我一定要拿到点东西。那但到底他要拿到什么东西呢？你们两位怎么看？</p>
-<p class="transcript-line"><span class="time"><strong>[00:06:09]</strong> </span><span class="speaker"><strong>发言人1: </strong></span>他这个问题我要问这个老修了，对，这个事情就跟技术有关，到底他们都看重什么？你觉得这个黄仁勋老黄英伟达对吧？从最早跟跟在英特尔后面喝汤的，现在要带着英特尔一起去吃肉了，可能不一定，可能就要先放英特尔先先去先去咬人，有可能就英伟达现在这样算下来，应该是英特尔的第四大股东对吧？应该是第四大，应该没错。</p>
-<p class="transcript-line"><span class="time"><strong>[00:06:39]</strong> </span><span class="speaker"><strong>发言人3: </strong></span>对，应该是你。</p>
-<p class="transcript-line"><span class="time"><strong>[00:06:40]</strong> </span><span class="speaker"><strong>发言人1: </strong></span>你说他图什么。</p>
-<p class="transcript-line"><span class="time"><strong>[00:06:42]</strong> </span><span class="speaker"><strong>发言人3: </strong></span>其实还是屠自己的发展的对，因为英伟达和英特尔这两边是原来是英伟达是小弟，天天跟人家斗了好多轮，他诉讼可能都打了好多次，对吧？然后他现在这个事情其实还是很直接的，就是想他X86的整个生态的渗透，以及未来的他自己的NVIDIA的自己的这一套的这个GPU怎么样再去甚至更真正的渗入到更底层一点的地方。因为这个地方的整个的架构实际上实在是太深了。毕竟X86本身是大家可能都想不出来他哪一年的，有的就好像出生以来就有，因为它是七八年就开始有的东西。对，1978年8086处理器开始，快50年了。这玩意儿真的是感觉所有的人好像生来所有的事情都在这个上面做的那他的那个主流的软件操作系统，因为我们用的这个windows，然后这个linux，然后包括现在苹果的这个mac OS，其实也是基于linux做的。所以其实你所有的东西都是在主流的操作系统，都是在X86这个机构上面跑起来的那主要是分支是分支在差不多这十几年前的这个移动端开始做，出现了ARM的这这套这套架构，然后开始才会说后面的这个戏看起来比较精彩。</p>
-<p class="transcript-line"><span class="time"><strong>[00:08:08]</strong> </span><span class="speaker"><strong>发言人1: </strong></span>不然之前苹果先转从这个叉86转到了那个ARM。对，所以这是一个很很成功的转型。</p>
-<p class="transcript-line"><span class="time"><strong>[00:08:16]</strong> </span><span class="speaker"><strong>发言人3: </strong></span>对，很成功的转型。但是也其实也花了快20年的时间，也挺久的那那那当然是市场占有率上来讲，现在应该主流的还是在X86上面，超过全球一定是超过80%以上的一个占有率。</p>
-<p class="transcript-line"><span class="time"><strong>[00:08:29]</strong> </span><span class="speaker"><strong>发言人1: </strong></span>而且数据中心也有很大的比例。</p>
-<p class="transcript-line"><span class="time"><strong>[00:08:32]</strong> </span><span class="speaker"><strong>发言人3: </strong></span>那是非常高的数据中心。肯定为什么？因为其实大量的数据中心一般还是跑在linux这个系统下的。然后有一些是在微软的这个windows体系，但是linux可能还是主流的最多的，因为它的整个的平台最积累的工具链跟软件生态，包括开源和闭源的企业服务，全部都是累积的那盘根错节的那不得了。</p>
-<p class="transcript-line"><span class="time"><strong>[00:08:56]</strong> </span><span class="speaker"><strong>发言人1: </strong></span>坦白说你数据中心不可能只有GPU，你一定是有一定比例的CPU的，你GPU不能做所有的事情。</p>
-<p class="transcript-line"><span class="time"><strong>[00:09:03]</strong> </span><span class="speaker"><strong>发言人3: </strong></span>是啊，因为GPU毕竟还是专用的，你是只是说现在有AI了，它的重要性很高，你可能没有它没办法完成这些关键的交付。但是同样，因为这你操作系统你跑不掉，你不会GPU去做操作系统的对吧？这操作系统你的linux和windows这些底层的，他都是跟X86架构生成绑定的那那个ARM的这一块的这个东西，虽然这几年虽然发展很快，但是对也不妨碍X86在跟进。你X86因为体积大，它只是慢一点。但是他也都能跟上什么64位扩展的各种各样的能效。他现在可能S86有很多诟病的问题，他也在改善，他也在持续的去去支持。因为我们也知道企业的需求。</p>
-<p class="transcript-line"><span class="time"><strong>[00:09:47]</strong> </span><span class="speaker"><strong>发言人3: </strong></span>不用从一般来说都是不需要用最先进的技术的，都是要有最稳定，尤其是最稳定的售后支持及持续升级。这两个东西特别重要。你不能说你给我一个东西两三年你就用不了了，然后找不到售后了，或者说后面没升级了，我的安全的性能都没保障了，这是完全不能接受的那X86这个部分肯定是非常成熟的那AIRM这一块的话，它还是需要，它这个深度远远没有那么高，没有那么深。那像NVIDIA它就非常需要这个叉86的这种X86这种架构的整个生态要再跟深度的去跟他打通了，大一个打通，那这个价值才会就是非常的大。这个价值其实非常的大，因为太深了。这里面的企业订单我们就想，你就想通过vidia，通过英特尔去找企业订单，肯定是比他自己要快得多。因为这里面有一些不知道的合作几十年，那哪有那么容易被你vidia一个单独提供AI的东西来解决。</p>
-<p class="transcript-line"><span class="time"><strong>[00:10:48]</strong> </span><span class="speaker"><strong>发言人1: </strong></span>对吧？你看你看这个问题就来到这里了。其实整个数据中心领域，其实并不是说一家独大了，像86ARM最近也在起来，然后包括NVDA的这个东西，其实这是一个很大的一个市场，老黄是需要去拿下的。而且需要你的这个英特尔的这个CPU能够跟我的这个GPU能够更好的融合的这样一个生态。我得打进去，其实现在可能还是会有一些壁垒，并不是那么顺的，对吧？</p>
-<p class="transcript-line"><span class="time"><strong>[00:11:26]</strong> </span><span class="speaker"><strong>发言人3: </strong></span>对，这是肯定的。因为其实数据中心不是只是AI配件，这是对，这是大家想一想能想到。但是你可能没有想到，它背后操作系统加硬件基础的这些东西是很复杂的。因为那么多张卡在一起，首先就是经常大家的关注说，这么多张什么NN卡，或者是其他的什么卡在一起，怎么样子串在一起效果比单卡要好，而且损失要小。那很多都在想这个卡的是因为那是因为底层的这些叉86，他们把更底层的这些磁盘的内存，还有什么各种网络，这些问题都解决的很好了，才是你上面可以只管你AI的主要管理AI的事情才行。</p>
-<p class="transcript-line"><span class="time"><strong>[00:12:07]</strong> </span><span class="speaker"><strong>发言人3: </strong></span>那这个事情就是实际上是更底层的这个架构，你更需要去摆平，如果你摆平的是更底层的架构，那你去其他的地方不就更顺了吗？这个东西其实跟早期的英特尔，跟微软这种软硬件结合是类似的一个东西。只不过你现在是一个可能有硬件加硬件在硬件加软件全部都深度的一个交叉的一个渗透。那这个事情对他的价值是非常大的。</p>
-<p class="transcript-line"><span class="time"><strong>[00:12:33]</strong> </span><span class="speaker"><strong>发言人1: </strong></span>我觉得给大家打一个比方，就是如果你认为AI是一个操作系统的话，那现在这个合作就是下一代的winter。就以前PC时代的就是windows加intel，对不对？那现在可能AI时代就是NVIDIA加intel了，就有可能是变成这样一个。其实现在的趋势也是CPU跟GPU要越来越融合。我觉得老黄应该也是看到了这个点，他也非常痛。而且你看老黄这个人妈的天天在渲染这个华为领先我们只有一点点。</p>
-<p class="transcript-line"><span class="time"><strong>[00:13:06]</strong> </span><span class="speaker"><strong>发言人2: </strong></span>其他的华为。</p>
-<p class="transcript-line"><span class="time"><strong>[00:13:08]</strong> </span><span class="speaker"><strong>发言人1: </strong></span>对，其实我跟你讲，他根本只知道说华为这个我挡不住，但是我觉得他做这一步，我个人认为最重要一步。我不管我挡不挡得住你华为，我要先把你AMD干掉，这个AMD是第一个躺枪的。</p>
-<p class="transcript-line"><span class="time"><strong>[00:13:23]</strong> </span><span class="speaker"><strong>发言人2: </strong></span>现在应该整个全整个安安四轱辘推走，搬到欧洲去。</p>
-<p class="transcript-line"><span class="time"><strong>[00:13:28]</strong> </span><span class="speaker"><strong>发言人3: </strong></span>或者搬到亚洲来。</p>
-<p class="transcript-line"><span class="time"><strong>[00:13:30]</strong> </span><span class="speaker"><strong>发言人1: </strong></span>整个愣住了，说你在搞什么就神仙打架，然后把我给灭了。</p>
-<p class="transcript-line"><span class="time"><strong>[00:13:34]</strong> </span><span class="speaker"><strong>发言人2: </strong></span>不是，他也应该早有预期。真的，他现在是。</p>
-<p class="transcript-line"><span class="time"><strong>[00:13:38]</strong> </span><span class="speaker"><strong>发言人1: </strong></span>你看老黄其实我觉得你看他也是很会演很会哭的，对不对？来中国这边表演一下回去，你川总又把我H20给禁了，对吧？然后马上上节目说我们插华为，华为插我们就一点点，就那么一点。</p>
-<p class="transcript-line"><span class="time"><strong>[00:13:55]</strong> </span><span class="speaker"><strong>发言人3: </strong></span>就在我们身后，经常在我们身后。</p>
-<p class="transcript-line"><span class="time"><strong>[00:13:59]</strong> </span><span class="speaker"><strong>发言人1: </strong></span>一根头发丝的距离转了。然后现在不管怎么样，我先把你MD给灭了。所以还是我觉得这个博弈还是很多东西的。大家看到的很多是表面的，但我觉得背后还是蛮多的。</p>
-<p class="transcript-line"><span class="time"><strong>[00:14:14]</strong> </span><span class="speaker"><strong>发言人1: </strong></span>所以说大家可能有有很多人说，是不是川普就是不想让那个先进制程封装，这个晶圆代工这块流出美国本土什么东西的。有这种可能有就是协议里面确实也是这么写的。就是说我美国政府注资你了，你你的这个代工业务你是不能流去的，对吧？因为英特尔好像是很想剥离这一块，但贤哥你觉得这块是怎么看？我个人感觉这有点像以前我们那个三线计划，是不是？</p>
-<p class="transcript-line"><span class="time"><strong>[00:14:48]</strong> </span><span class="speaker"><strong>发言人2: </strong></span>你这个比喻还真的是有一点，可能大家不是很熟悉，听众可能不太懂什么三线计划。反正咱们先从这个英特尔自己说吧，就刚才我们站到说川总这边和黄总这边的角度来看。但你要看的站在英特尔角度来看的话，他肯定是从财务上来讲表现很难看，对吧？第一来讲的话，它本身的芯片业务虽然在增长，但是成本也在增加。所以他的整个的利润率在下降，这他可这可是他的核心业务。第二，他想转型的做晶圆加工这个业务？比不上台积电，然后产能投入又大，然后整体的资本投入又又多，然后效率又低，内部的这个臃肿又比较严重。</p>
-<p class="transcript-line"><span class="time"><strong>[00:15:22]</strong> </span><span class="speaker"><strong>发言人1: </strong></span>所以他肯六个亿美金。</p>
-<p class="transcript-line"><span class="time"><strong>[00:15:24]</strong> </span><span class="speaker"><strong>发言人2: </strong></span>对，这个谁谁靠谁亏得起。如果说如果说时间在他这边，也就是说比如说现在各方面的天时地利人和都允许他做大投入，完了未来给他两三年时间还可以，那现在并没有，对吧？第一，现在整个台积电本身占的就是最先进的技术。中国这边的话又在大陆地区又在整个在做投入，然后再再去做世俗，做追赶，欧洲也没放弃，那这个时候他还在每年投几百个亿，又不见得什么时候能赚钱。</p>
-<p class="transcript-line"><span class="time"><strong>[00:15:52]</strong> </span><span class="speaker"><strong>发言人2: </strong></span>如果从公司行为来讲，肯定是不划算的。但是如果说从传统这个角度来讲的话，那绝对要把它拿住。因为第一从战略上来讲的话，我要想卡住别人的脖子，那我首先这只手得能伸得出去，我能卡得住别人说伸一下卡不着伸一下卡不着对吧？那这个东西的产能不在我这儿。然后第二来讲的话，就是说从英特尔本身，他曾经这么辉煌，这么有技术，它的积累和沉淀在这儿。但如果你放任他流血，他大脑再好使，他身体动不了了，最终也就他那儿了，就变成半身不遂了，对吧？你最终留个霍金在身边也没啥意义，还是希望能来一个得人体体得人体面劳，身体健康，头脑发展挺灵敏的这么一个公司在。所以我认为就是说他做这件事的投资是一方面，更重要的是说来控制这个事情的发展的态势，要用我这10%的这个股份，让英特尔还要继续投入，还要在这件事上加码。</p>
-<p class="transcript-line"><span class="time"><strong>[00:16:46]</strong> </span><span class="speaker"><strong>发言人2: </strong></span>那未来是什么样的？我可能在私下承诺时候，我会给你带来更多资源，像孙正义等等的等等。其但是老黄起码很精，我看这协议里面，老黄特意说我的芯片没准备在这边做，我没准备让你加工这块。但其实英特尔最需要的不就是客户，就是我投入这么多，我最需要的就是订单。你先把这个订单给我，对吧？你把订单给了我之后，我再慢慢改善我的工艺，然后咱们大家用起来，你市值这么高，你分我点。老黄说，对不起，我并没有说因为这件事儿要耽误我跟台积电的合作。</p>
-<p class="transcript-line"><span class="time"><strong>[00:17:18]</strong> </span><span class="speaker"><strong>发言人1: </strong></span>对，其实我觉得这个是一个非常核心的问题，就是我你看很多分析的报告都说，最后都取决于英特尔怎么样。反正分析了一篇宏观形势，最后还是取决于英特尔什么S8先进封装这个能不能搞出来等等我觉得事实是怎么样不重要，英特尔有没有烂到根子里面也不重要。我个人觉得这个事情就是说川普很清晰的知道，我不能再把我先进战斗机的生产线拆掉了。像当年把F多少的产线拆了，我现在六代机五代机搞得很吃力，对吧？我你你你英特尔你这一套东西得给我留在本土，对吧？我到时候，然后万一出了什么问题，我大不了把那边的人搞过来。</p>
-<p class="transcript-line"><span class="time"><strong>[00:18:03]</strong> </span><span class="speaker"><strong>发言人2: </strong></span>就是在AI时代，我觉得更是因为AI本身对英特尔来说，我觉得是一个负面的很负面的东西。因为毕竟GGPU比它的CPU变得什么重要多了，对吧？然后全球的对GPU的需求比它CPU的需求要一下子提到了一个更高的高度上。但是对于川普或者对于美国来讲的话，在硅基这件事情上的工业化，我一定要抓在自己手里面。我有自己的设计能力，我有自己的工装能力，我还要有我自己的制造能力。但这个制造能力光靠川煌上一届的时候什么要求什么台积电建厂，要求三星建厂，对吧？我给你实收减免，给你补贴。太慢了。</p>
-<p class="transcript-line"><span class="time"><strong>[00:18:41]</strong> </span><span class="speaker"><strong>发言人1: </strong></span>不如我自己的英特尔自己国有企业先上，对吧？</p>
-<p class="transcript-line"><span class="time"><strong>[00:18:44]</strong> </span><span class="speaker"><strong>发言人2: </strong></span>不光是这样，就是说英特尔已经投了这么多钱了，对吧？你要是投，要是让他死了，这些钱就白扔了。要是让给他点钱，让他继续续着命，他没准能来个大的。</p>
-<p class="transcript-line"><span class="time"><strong>[00:18:54]</strong> </span><span class="speaker"><strong>发言人1: </strong></span>而且所以最最懂我党的就是川总，对吧？这个叫做什么呢？</p>
-<p class="transcript-line"><span class="time"><strong>[00:18:58]</strong> </span><span class="speaker"><strong>发言人2: </strong></span>耐心资对，长期价值。对，然后这个川建国同志还是非常有有但是谁知道？就是到底这个共和党能不能下去，海水上王川川总的接班人？能不能继续引领这个潮流不好说。</p>
-<p class="transcript-line"><span class="time"><strong>[00:19:14]</strong> </span><span class="speaker"><strong>发言人1: </strong></span>但是这件事就这个先进制造我留在了本土是不是？事实是我贴钱让他留在了，发生了对不对？没错，然后我是不是买了英特尔的股份？大家是不是开始有点激动了？有没有带来资本市场的价值，有对不对？对对对。</p>
-<p class="transcript-line"><span class="time"><strong>[00:19:31]</strong> </span><span class="speaker"><strong>发言人2: </strong></span>短期长期我都赚了，我这里外都是赢的。</p>
-<p class="transcript-line"><span class="time"><strong>[00:19:34]</strong> </span><span class="speaker"><strong>发言人1: </strong></span>只赢多赢少，对吧？老黄我是不是拉过来了，老黄也很满意，对不对？大家一想。</p>
-<p class="transcript-line"><span class="time"><strong>[00:19:39]</strong> </span><span class="speaker"><strong>发言人2: </strong></span>这个故事好像可以了。对。</p>
-<p class="transcript-line"><span class="time"><strong>[00:19:41]</strong> </span><span class="speaker"><strong>发言人3: </strong></span>这个故事能讲的一即合的太开心了。</p>
-<p class="transcript-line"><span class="time"><strong>[00:19:45]</strong> </span><span class="speaker"><strong>发言人1: </strong></span>那其实对大家来讲都是一张牌，对不对？都只是一张谈判的筹码，对不对？对，你看老王整天喊华为要杀到家门口了，其实也是一个谈判的筹码。</p>
-<p class="transcript-line"><span class="time"><strong>[00:19:56]</strong> </span><span class="speaker"><strong>发言人2: </strong></span>养寇自重。这在中国兵法里的都是上千年的思路了。</p>
-<p class="transcript-line"><span class="time"><strong>[00:19:59]</strong> </span><span class="speaker"><strong>发言人1: </strong></span>刚才叫吴三桂，天天就要喊人家边疆有人来乱，对吧？皇帝要拨款。</p>
-<p class="transcript-line"><span class="time"><strong>[00:20:08]</strong> </span><span class="speaker"><strong>发言人2: </strong></span>对，不是，但是孙正义这招棋我觉得走的，我不知道是他主动靠上来的贴上来的，还是说这个川总给他示意了。但是孙正义来投英特尔这件事儿，我不知道你们二位怎么看的。刘毅老兄，你觉得他自己已经有有ARM了？</p>
-<p class="transcript-line"><span class="time"><strong>[00:20:26]</strong> </span><span class="speaker"><strong>发言人1: </strong></span>跟各位汇报一下，我们上线的just AI的会员频道。大家可以在youtube来订阅我们的会员，你可以加入我们的公园董事会这个会员的栏目里面。你可以获得第一个每天两封的JCI早晚报，一个能够用听的AI语音播报。我们每天从两千多条信息里面帮你精选两封邮件，然后AI双人主播读给你听。每天多听十分钟，少刷手机2小时。中美AI资讯零时差，我觉得这个是非常棒的一个感觉，一定要拥有。对对对，你还可以获得我们每一次在做视频的深度研究报告的文档，以及获得我们三个人撰写的主播专栏的邮件推送。所以我觉得你订阅公园董事会这一档的会员，其实是对你来讲最划算的。所以请大家多多支持我们的youtube会员。</p>
-<p class="transcript-line"><span class="time"><strong>[00:21:24]</strong> </span><span class="speaker"><strong>发言人2: </strong></span>请我们的精神股东们，精神董事们尽快行动起来加入。对对对。</p>
-<p class="transcript-line"><span class="time"><strong>[00:21:29]</strong> </span><span class="speaker"><strong>发言人3: </strong></span>这个肯定双保险对冲一下比较好啊，对吧？</p>
-<p class="transcript-line"><span class="time"><strong>[00:21:33]</strong> </span><span class="speaker"><strong>发言人1: </strong></span>以前瞻凉了对不对？</p>
-<p class="transcript-line"><span class="time"><strong>[00:21:35]</strong> </span><span class="speaker"><strong>发言人3: </strong></span>以前肯定粘不上手了，以前粘不上手，你现在至少有个办法能杀进去，对吧？两边都投一下肯定是有有好处的。而且这个架构上的东西，我觉得说你多一方面的这个冗余一定是有好处的。因为其实从企业端来讲，我是肯定希望其实真正这种企业的应用来讲，我肯定是希望有冗余的对吧？就是你我我都不希望我专门在X8也会有专门的AM这个万一出了问题我咋搞？特别是AI因为AI这一块，现在比如说NVIDIA的很多的AI的训练，还有定制的芯片，都是基于ARM的这边做的对，那那万一哪天ARM这有什么情况，我不说它坏不坏，就是说产能跟不上，对吧？然后我有些设计是只能在这ARM那个CPU上，让那个CPU上跑，那这些东西不就问题就大了，这肯定还是最好能够多一个多一条路，那你至少多一点出路。</p>
-<p class="transcript-line"><span class="time"><strong>[00:22:30]</strong> </span><span class="speaker"><strong>发言人1: </strong></span>我是觉得现在而且那个安排是英国公司，我觉得川总还会防一下自家老表。</p>
-<p class="transcript-line"><span class="time"><strong>[00:22:36]</strong> </span><span class="speaker"><strong>发言人3: </strong></span>一定会的。就是ARM的应该是穿透股权的话，他不是美国的，对吧对吧？他们我印象都是这样。对，就是从从老穿这边看，肯定这个东西就不是自己人就是了，反正你总之还是差一点。</p>
-<p class="transcript-line"><span class="time"><strong>[00:22:49]</strong> </span><span class="speaker"><strong>发言人2: </strong></span>对，就是我想我想掐你脖子的时候，我还得拉点，你掐别人脖子时候拉点，你这就让我不爽了。</p>
-<p class="transcript-line"><span class="time"><strong>[00:22:55]</strong> </span><span class="speaker"><strong>发言人1: </strong></span>所以他前段时间不是去鼓英国，又鼓吹了一下英国是AI的高地，然后也也给也给英国投了几百亿。</p>
-<p class="transcript-line"><span class="time"><strong>[00:23:03]</strong> </span><span class="speaker"><strong>发言人2: </strong></span>比如说人家英国政府不也鼓励，对吧？什么oodle什么都来。对，都来了来投资。对。</p>
-<p class="transcript-line"><span class="time"><strong>[00:23:08]</strong> </span><span class="speaker"><strong>发言人3: </strong></span>大家多投一点钱，搞一下那个数据高地，我AI ready一下。然后这大致我就搞了。</p>
-<p class="transcript-line"><span class="time"><strong>[00:23:14]</strong> </span><span class="speaker"><strong>发言人1: </strong></span>你按架构的这个把你搞了一把。</p>
-<p class="transcript-line"><span class="time"><strong>[00:23:18]</strong> </span><span class="speaker"><strong>发言人2: </strong></span>不过孙正义确实是，你看他诚尘尘服务这么久，而我看过他的那个传记，我他这个人其实本身赌性就很强。这个不是我说的，是书里说的。就当时他投资无论是we work也好还是怎么样，其实失败的案例也有，然后成功案例也有，而且角色都非常快。而且他这个人本身自己的就是说这种怎么说集权性也很强。所以他这一回他就已经很明确了，就是我就是跟进了川总川总去哪儿我去哪儿，川总让我去哪，说我哭着喊着也要。</p>
-<p class="transcript-line"><span class="time"><strong>[00:23:45]</strong> </span><span class="speaker"><strong>发言人1: </strong></span>然后抱着讲的好斯文，这不是舔狗吗？</p>
-<p class="transcript-line"><span class="time"><strong>[00:23:50]</strong> </span><span class="speaker"><strong>发言人2: </strong></span>人家那个什么还是不一样的，人家是抱住了政治的立场。然后同时但他钱其实说实话，他不也是从中东拿的钱吗？从日本拿的低息贷款，就是有好多后面和非常繁复的，就是非常繁繁繁琐的这种财务操作。对，操作。但是把这些钱最后投到哪？投到美国市场。然后就像刚才老师说一句话，我特别同意，就是之前英特尔可能看都不看的人，英特尔什么时候说你想说进得去。</p>
-<p class="transcript-line"><span class="time"><strong>[00:24:15]</strong> </span><span class="speaker"><strong>发言人3: </strong></span>对。</p>
-<p class="transcript-line"><span class="time"><strong>[00:24:15]</strong> </span><span class="speaker"><strong>发言人2: </strong></span>你来投我点钱，让我的股份让你能在我的组织会列席一下，听见没有机会。对，怎么可能呢？对，就是我家大门常打开，不可能对你打开。对，然后现在来讲，你花20亿，你花20亿就能够成我的股东了，我靠，就拥有我的2%的股份了。这个对于孙正义来讲，我觉得是非常值得的一件事儿。就是从财务上来讲都是。但是如果反过来讲，就是从二级市场上看这个英特尔，我倒觉得英特尔现在可能真的长期看就也就这样。</p>
-<p class="transcript-line"><span class="time"><strong>[00:24:47]</strong> </span><span class="speaker"><strong>发言人1: </strong></span>你讲讲你这个老国企的经验。</p>
-<p class="transcript-line"><span class="time"><strong>[00:24:48]</strong> </span><span class="speaker"><strong>发言人2: </strong></span>讲一讲这你想首先它的性质变了，他不再是一家在在整个在充分在自由市场中竞争的这么一个状态了。而且他在过去十年的竞争中没有成功，现在来讲带入的虽然是资本和更更大更强力的股东，但是黄仁勋有自己的公司要做对吧？然后他也没有说准备把这个自己的东西注入到里面，真的去救他更多。他可能想的是从英特尔能掏点什么带回自己家里头，对吧？就从往回自己娘家拿东西一个道理。孙正义的软银来讲的话，他也不是做技术投入的。而英特尔本身的估值是在基于他的技术的，基于他的能力的，对吧？</p>
-<p class="transcript-line"><span class="time"><strong>[00:25:28]</strong> </span><span class="speaker"><strong>发言人2: </strong></span>我有一个自己的感受，就是说有点像什么呢？像英国或者欧洲这种古老的城堡，你说他曾经是一个贵族的一个居住地，曾经是平民无法踏足的地方，对吧？现在来讲占着多少地，然后曾经有多少的私人花园，那现在现在贵族已经不贵了，然后这块地又需要很多的钱去维护。你好多时候都是英国或者欧洲一美一欧一欧元或者说一英镑就可以买一个古宅。但问题是你每年要投入上百万英镑去维护它，你还要而且你不能拆。因为它是这个herit，只是这个历史遗迹，对吧？那你就说怎么办？那现在突然就是没人买，就过去10年没人真正。</p>
-<p class="transcript-line"><span class="time"><strong>[00:26:07]</strong> </span><span class="speaker"><strong>发言人1: </strong></span>打溥仪退位了，还要养一个紫禁城。</p>
-<p class="transcript-line"><span class="time"><strong>[00:26:10]</strong> </span><span class="speaker"><strong>发言人2: </strong></span>对，然后他突然村长说要不然我来对吧？把这个村长说你这10%可以给我。我对，改改个农场。</p>
-<p class="transcript-line"><span class="time"><strong>[00:26:19]</strong> </span><span class="speaker"><strong>发言人3: </strong></span>我给你开一下这个浏览，是吧？开开旅游什么。</p>
-<p class="transcript-line"><span class="time"><strong>[00:26:23]</strong> </span><span class="speaker"><strong>发言人1: </strong></span>其他帮你做个小程序APP在线买票。</p>
-<p class="transcript-line"><span class="time"><strong>[00:26:27]</strong> </span><span class="speaker"><strong>发言人3: </strong></span>对，还有网上卖货，反正就给你开源节流一下。</p>
-<p class="transcript-line"><span class="time"><strong>[00:26:31]</strong> </span><span class="speaker"><strong>发言人2: </strong></span>另外旁边那个原来旁边的邻居原来是老去偷人家的这个伸过来的果子的人，说要不然我也来，对，然后我也变成你的一个股东对吧？还有以前给你家送货的园丁，或者说送货的这个厨子也说我来，反正大家都是都来一下。你说他真的想把这个古堡真的再变成自己的家吧？我觉得不太可能。真的，所以这个古堡本身的价值就在这儿了，也就这样了。但是每一个在古堡里面拿了一些东西的人，自己的身价会提升，而自己的自己会得到自己所要的东西。而且以这个钱来说，就是从我看来以这个钱来说，真的不足以让他能够放心大胆的去做科研，去做自己的什么，完全没有使用错空间。</p>
-<p class="transcript-line"><span class="time"><strong>[00:27:11]</strong> </span><span class="speaker"><strong>发言人1: </strong></span>钱已经给的很少。</p>
-<p class="transcript-line"><span class="time"><strong>[00:27:12]</strong> </span><span class="speaker"><strong>发言人2: </strong></span>问题是很少。对，没多少钱。你说后面这些股东会源不断说我在承诺投入上千亿，我觉得从他们嘴里扣钱不容易，对吧？但是你说做科研本身就是长周期的事儿，又不给订单，又不给现金，然后又不给政策，这太难了。</p>
-<p class="transcript-line"><span class="time"><strong>[00:27:30]</strong> </span><span class="speaker"><strong>发言人1: </strong></span>所以又输了那个躯壳，又输了灵魂。</p>
-<p class="transcript-line"><span class="time"><strong>[00:27:35]</strong> </span><span class="speaker"><strong>发言人2: </strong></span>关键他未来的融资路也窄了，他已经有政府的这个股份在里面了，未来任何东西的话都会有这个被否决的可能性。</p>
-<p class="transcript-line"><span class="time"><strong>[00:27:44]</strong> </span><span class="speaker"><strong>发言人1: </strong></span>是的，我觉得对，这个还是挺可惜的一件事情。所以我不知道可能当时还有人觉得，最后分析下来，觉得这还是取决于英特尔什么什么。我觉得不取决于英特。</p>
-<p class="transcript-line"><span class="time"><strong>[00:27:56]</strong> </span><span class="speaker"><strong>发言人3: </strong></span>也是恰恰不取决于他自己，他是人为主。</p>
-<p class="transcript-line"><span class="time"><strong>[00:28:00]</strong> </span><span class="speaker"><strong>发言人1: </strong></span>他们已经属于他自己了。对，是的。</p>
-<p class="transcript-line"><span class="time"><strong>[00:28:03]</strong> </span><span class="speaker"><strong>发言人2: </strong></span>他就是已经被一个老贵族都已经去世的图宝而已，连连个活物都没有。</p>
-<p class="transcript-line"><span class="time"><strong>[00:28:08]</strong> </span><span class="speaker"><strong>发言人1: </strong></span>我们把题目扣回来，就回到最初我们问的这个问题。就是川普孙正义、黄仁勋，最终其实大家最看重的还是英特尔的什么东西。你们觉得我。</p>
-<p class="transcript-line"><span class="time"><strong>[00:28:22]</strong> </span><span class="speaker"><strong>发言人2: </strong></span>觉得还是这个生态，这个生态代表就是X86。因为这个东西已经渗入到整个系统的生态里面了。你要想说这个东西被取代掉或者被完全，比如举个例子，咱打一个响指，灭霸打个响指，X86没有了，那这个空白是很难被填补上的对吧？</p>
-<p class="transcript-line"><span class="time"><strong>[00:28:41]</strong> </span><span class="speaker"><strong>发言人2: </strong></span>短期之内的话，你需要你说说让所有人都换到ARM上、RARM上，或者说换到其他一个新的东西上面都不容易。所以与其这样的话，不如说直接过来用。拿过来用的话，你像那个谁的CUDA？也可以嫁接进去。然后那个什么的RMARM的话也可以跟他做一些交流。反正我觉得这个东西本身的生态太太有价值了，这是但是说。</p>
-<p class="transcript-line"><span class="time"><strong>[00:29:02]</strong> </span><span class="speaker"><strong>发言人1: </strong></span>打开这个生态的钥匙，就是把这个生态的门给打开。</p>
-<p class="transcript-line"><span class="time"><strong>[00:29:06]</strong> </span><span class="speaker"><strong>发言人2: </strong></span>也可以这么说，对吧？也可以这么说。</p>
-<p class="transcript-line"><span class="time"><strong>[00:29:08]</strong> </span><span class="speaker"><strong>发言人1: </strong></span>就是你直接是把它冲进北京。</p>
-<p class="transcript-line"><span class="time"><strong>[00:29:11]</strong> </span><span class="speaker"><strong>发言人3: </strong></span>你可能还不仅仅是开门，你是要把这个生态直接接管过来，就大家给分拿。我觉得比较像贤哥刚才说的，你就像去了一个古堡，拿出自己想要的东西，增强自己的实力。这个生态没有那么容易拿就是了。大家还得对就自己也得发力，你得自己等培养出一个新的生态，把它给吸纳进来，这差不多。</p>
-<p class="transcript-line"><span class="time"><strong>[00:29:30]</strong> </span><span class="speaker"><strong>发言人1: </strong></span>但你而且这个生态也是一个战略资源，就是你这个生态如果就是产全不明晰，对吧？那其实你万一爆发一些地缘政治的问题，那其实对美国来讲也是被动的，或者是不太可控的。我觉得所以。</p>
-<p class="transcript-line"><span class="time"><strong>[00:29:46]</strong> </span><span class="speaker"><strong>发言人2: </strong></span>从生态端来讲的话，这个东西是不可替代的。可以说。但这个东西怎么估值呢？我觉得对普通人来讲的话，或者说对二级市场来讲，或者对任何一其他小企业来讲，它这个价值都体现不出来，都无法那什么无法被吸收掉。对，无法被吸收掉对吧？那只有说原来对这生态最了解的人，那就是他的对手，然后还有什么呢？</p>
-<p class="transcript-line"><span class="time"><strong>[00:30:07]</strong> </span><span class="speaker"><strong>发言人2: </strong></span>还有从国家层面上来讲，我不看重你现在的这个亏损，我更看重你未来代表的战略能战略定力和战略的意图。这sorry战略的价值对吧？那只有这个成分，所以你分析来分析去，这三个投资人反倒是最合适的。然后其他人为什么可能看过，那也投不了，也不想投，对吧？你让AMD去投吗？我觉得这个事儿可以想完之后，但是确实他也消化不了。</p>
-<p class="transcript-line"><span class="time"><strong>[00:30:32]</strong> </span><span class="speaker"><strong>发言人1: </strong></span>是的，所以其实这个生态握在握在手上。其实我个人觉得以后可能会造成一个局面，就是中国跟美国这边就有两个完全不同的AI生态了。对，像美国这边可能大家已经看得很清楚谁是国家队，看得很清楚了。那中国这边其实华随着华为，随着最近deep seek这个V3.2对吧？这个版本也是用新一代华为的，应该是吧？对对对，应该也是多少？就00倍就支持了这个deep seek v3.2，对吧？所以这个其实信号已经非常明显了，就有可能有可能会发展出两套不同的生态。我觉得我会想到一个例子，就是有点像你知道以前2000年90年代日本市场的那种翻盖手机，就自成一格。他还有了自己的移动互联网。</p>
-<p class="transcript-line"><span class="time"><strong>[00:31:29]</strong> </span><span class="speaker"><strong>发言人2: </strong></span>NEC有什么？</p>
-<p class="transcript-line"><span class="time"><strong>[00:31:30]</strong> </span><span class="speaker"><strong>发言人1: </strong></span>对，然后还有包括以前日本的那种市场，那种笔记本电脑也都涨千奇百怪了，到现在身上还有企业接口。</p>
-<p class="transcript-line"><span class="time"><strong>[00:31:37]</strong> </span><span class="speaker"><strong>发言人2: </strong></span>对对对。</p>
-<p class="transcript-line"><span class="time"><strong>[00:31:38]</strong> </span><span class="speaker"><strong>发言人1: </strong></span>有可能我觉得最后会发展出两个不同的路线。因为我觉得很清晰的在这个点，我不知道我这样讲对不对，很清晰这个点我觉得老黄看到了，现在不是为算利润了，现在应该是微生态了，就是看生态的了，已经到了上看生态的阶段了。因为算力这个事情，我觉得对老黄来讲已经看得很清楚了。他会有个瓶颈在那里，不管是制成上面的瓶颈，还是整个互联上面的瓶颈。对对对，包括是从美国来讲，我那天看google前西欧的一个采访，他就是说其实制约美国最大一个问题是电力。电力这个事情很吃亏，非常的吃亏。然后第二点就是在中美竞争当中，除了电力以外，整个点技术栈美国其实很怕点错了。因为美国所有人都是在看通往HAI，但是中国所有人都是在看通往RMB，就是这个。</p>
-<p class="transcript-line"><span class="time"><strong>[00:32:35]</strong> </span><span class="speaker"><strong>发言人3: </strong></span>两个。</p>
-<p class="transcript-line"><span class="time"><strong>[00:32:35]</strong> </span><span class="speaker"><strong>发言人1: </strong></span>不同的方向是。</p>
-<p class="transcript-line"><span class="time"><strong>[00:32:37]</strong> </span><span class="speaker"><strong>发言人3: </strong></span>搞都是搞利润的对，搞应用。对。</p>
-<p class="transcript-line"><span class="time"><strong>[00:32:40]</strong> </span><span class="speaker"><strong>发言人1: </strong></span>中国这边的用法全部是用到企业生产环节，用到机器人对吧？用到这种就更实用的商业环节里面去。然后大家美国大家一直是在队算力队的，是说通往谁先通往AGI。所以这个是他作为一个他应该是美国国家的科技这块的战略顾问，其实他很担忧的一个问题就一个是电力，一个就真的就是AI落地的方向。那如果假设中国通往这种应用的方向是对的，那么算力很危险。就是老黄这种就是叠算力，或者是说美国这样叠数据中心的这样一个方式，或者拼单卡性能的话，其实是非常危险的。反而可能推理芯片，反而中国这一块实际应用落地的话，他可能做好更好的这种互联互通，有可能会有不一样的成果出来。我觉得这个是我看到说一个大家比较担心的问题，不知道老秋我只想跟你们怎么看。</p>
-<p class="transcript-line"><span class="time"><strong>[00:33:43]</strong> </span><span class="speaker"><strong>发言人2: </strong></span>对，所以川总才会想要做这个集中力量办大事儿，向中国学习，对吧？才要说国有化，咱们现在不说，就是以前叫去国有化，现在人家要回到国有化和或者说把产业回归。</p>
-<p class="transcript-line"><span class="time"><strong>[00:33:55]</strong> </span><span class="speaker"><strong>发言人1: </strong></span>或者主动脱钩，对不对？</p>
-<p class="transcript-line"><span class="time"><strong>[00:33:56]</strong> </span><span class="speaker"><strong>发言人2: </strong></span>对，人家动作已经很明显了。但是我想说的一点就是说你不要放弃。还有欧洲，我觉得欧洲不会这么轻易的就放弃了。欧洲还是有自己的实力和那什么的，无论是荷兰也好，英国也好，还是说德国也好，我觉得都是法国。</p>
-<p class="transcript-line"><span class="time"><strong>[00:34:11]</strong> </span><span class="speaker"><strong>发言人2: </strong></span>对，大家其实都是没有死心的。谁都希望在AI这个重新洗牌的阶段，再重新占据一方霸主的地位。显然当然美国现在是占优势的，在芯片方面。但中国有市场，有什么，有这个集中力量办大事的机制，再加上有这么多人愿意选，大家都都拼命为了人民币去努力。但欧洲自己有自己的底蕴，尤其是说在我们虽然不说抢首发，但是做后发。我认为欧洲市场是不容小觑的。人口和消费能力是在那儿的，市场是在那儿的，不是说只有消费在在承接的。</p>
-<p class="transcript-line"><span class="time"><strong>[00:34:46]</strong> </span><span class="speaker"><strong>发言人3: </strong></span>在这里面其实有有很实际的例子。我刚才提到法国的mr的那个大模型，那那一家做的，他其实大量的那个都都已经有好多信息都显示他就是在基于deep sick的模型在做。但那就没有问题，因为DPC本来就是开源的。而且最近我们说上周才讲他刚上那个自然杂志，上面那个是封面的。因为大家又专门这几个月去复现了他的能力，认证了他的数据训练的过程和开源的各种东西的可信度。就是把它的透明度可信度都拉到了一个顶峰的一个级别。</p>
-<p class="transcript-line"><span class="time"><strong>[00:35:18]</strong> </span><span class="speaker"><strong>发言人3: </strong></span>像这种的话，其实我是觉得确实就是会大家还是会一个博弈制衡的过程。中国我们会不断的放出可能不是最顶级的，但是也是第一梯队里面水平的这个AI的模型的东西。然后其实欧洲其实是可以一边看着我们的东西改，然后一边去再去找一个机会去跟美国有一个制衡的对。</p>
-<p class="transcript-line"><span class="time"><strong>[00:35:41]</strong> </span><span class="speaker"><strong>发言人1: </strong></span>是因为这里我刚才漏讲了一个点，其实就是那个施密茨之前是叫施密特还是密茨忘了，就是google前十，对它除了一个电力一个担忧以外，还有一个应用方向。还有一个就是现在中国的几乎所有的主流模型都是在走开源这个方向，就是开源权重。像这个通义？Deep seek就基本上都是开源的，其实这个是跟美国完全相反的路，其实这个是一个也是一个中国这边的主动脱钩，就是你走闭园，那我这边可能就全部走开源的方向。所以最终这两个路线其实欧洲中刚欧洲是刚好在中间。</p>
-<p class="transcript-line"><span class="time"><strong>[00:36:23]</strong> </span><span class="speaker"><strong>发言人3: </strong></span>对对对，就是这刚好可以在中间去弄。而且这个事情到现在，我们今天像今天有些各种各样的新闻，像ONI这种他跑出来会做，想直接做电商，然后直接做内容，什么索尔to这种。其实这里面有很深层的一个问题，就是你的AI是谁的，用谁的文化，用谁的文化语境、法律和风俗习惯在制造这些内容，制造完成这个交易。那这件事情就实在是影响太大了。你每一个国家其实都有自己不同的东西，如果都遵从美国的。这个问问题就非常的大还还是其实对于欧洲而言，他肯定还是应该要自己做一套的。只是说他这个基建你在美国这边没有很好模型的时候，其实中国会是一个很好的一个备选，你可以拿来参照，然后去去改成自己的东西。</p>
-<p class="transcript-line"><span class="time"><strong>[00:37:12]</strong> </span><span class="speaker"><strong>发言人3: </strong></span>我觉得从技术上这是非常自然的一件事情，你玩游戏也合理合法的，中国也都是授权的，甚至开放所有的这个不光开放权重，deep sik有一些的训练的数据其实也是有开放。然后还有一些训练用的工具也都开放了。这个是开放的比美国的那些开放的一些模型都是要好很多的对。</p>
-<p class="transcript-line"><span class="time"><strong>[00:37:33]</strong> </span><span class="speaker"><strong>发言人2: </strong></span>要彻底很多的。对对对。</p>
-<p class="transcript-line"><span class="time"><strong>[00:37:35]</strong> </span><span class="speaker"><strong>发言人1: </strong></span>但可能背后就是你选择了哪一个方向，那背后它配套的这个供应链你就要跟上了。比如说你选择了可能中国这一套的那很自然你可能未来你就会用到华为的国产的一些算力，对吧？或者千问你很自然就会用到阿里云。比如说如果你是用了像OpenAI这些的，你很自然就是用到微软这些英伟达这一套体系。我觉得可能最后还是会变成两套不一样的这种工业体系。</p>
-<p class="transcript-line"><span class="time"><strong>[00:38:03]</strong> </span><span class="speaker"><strong>发言人2: </strong></span>对，其实两边都在用阳谋，对吧？对，就是说我没有做什么，因为国家层面上很难做阴谋。那对川总来讲就是产业回归，我无论是加税也好，还是说强迫你也好，还是说直接入股也好，都是在做同一件事。然后人家的思路很清晰，我觉得作为一个商人来讲，他是成功的。然后作为在这个政策层面能不能成立不知道，但中国来讲的话，过去十年不都一直在电子化这块叫自主，对吧？</p>
-<p class="transcript-line"><span class="time"><strong>[00:38:28]</strong> </span><span class="speaker"><strong>发言人2: </strong></span>现在来讲我就是争生态了，在生态上我差太远了，无论是X86也好，还是CUDA也好，我都比不了。那我现在就开放，我把AI模型开放，那早晚也会成为一个新生态，对吧？那欧洲你跟不跟？欧洲假设你没有做出新的东西来，那你就用我的，用我之后咱俩联合起来，老二老三搞起来的话，搞个老大，最后变成一个多极。回到3就是三国鼎立的时候，这不是也是在中国历史上无数次出现，分久必合，合久必分。</p>
-<p class="transcript-line"><span class="time"><strong>[00:38:54]</strong> </span><span class="speaker"><strong>发言人3: </strong></span>是的，而且我刚刚想到一个例子，就应该是上个月那个瑞士他其实就做了一个大模型。瑞士你能想到这么小的国家对吧？他专门做了一个大模型。</p>
-<p class="transcript-line"><span class="time"><strong>[00:39:05]</strong> </span><span class="speaker"><strong>发言人1: </strong></span>实际上你没有放之前的。</p>
-<p class="transcript-line"><span class="time"><strong>[00:39:08]</strong> </span><span class="speaker"><strong>发言人3: </strong></span>有点像他专门做了的就是信用，他主打的还是信用。因为瑞士我们一讲出来，他就是那个可信，对不对？对，你的更容易可信，他就是在这个里面做了大量的可信的一一套一套的延伸。但是我不知道他是基于哪个模型做的，但是他他就是也有有讲是基于开源模型做的。我记得是这样，然后他做做出来以后，他主打的这种可信的内容的审查，然后还有就是允许你可以去加入自己的那个就是比如说机它是允许你去加入自己国家的一些特殊的一些东西去做限制或者做审查。然后也包括说方便其他国家的，你可以用我这个开源的模型，他也开源了一部分，然后说你用我这个东西可以去改成你自己国家的对，其实这个东西也是，我们在上个月的时候，我看到这个新闻的时候是觉得这个就是典型的。他其实已经做出来了，你做出来了，他不走商业化的部分，他就走的是国家级的这种所谓叫主权AI这样子的一种路线。</p>
-<p class="transcript-line"><span class="time"><strong>[00:40:09]</strong> </span><span class="speaker"><strong>发言人1: </strong></span>其实我觉得都是在融合，你说两边在对立，走向不同的方想，那你怎么不知道人家那个OpenAI and robic也偷偷看一下deep seek论文，也看看前面的这个论文对吧？</p>
-<p class="transcript-line"><span class="time"><strong>[00:40:23]</strong> </span><span class="speaker"><strong>发言人3: </strong></span>看了都看了？</p>
-<p class="transcript-line"><span class="time"><strong>[00:40:24]</strong> </span><span class="speaker"><strong>发言人1: </strong></span>那英伟达显卡对不对？</p>
-<p class="transcript-line"><span class="time"><strong>[00:40:27]</strong> </span><span class="speaker"><strong>发言人2: </strong></span>道理对世界其实大家都是一个草台班子。虽然说是草台班子，大家都在一个一个上面唱戏而已，唱的是各自的戏而已。对，然后这两天如果今大家听早晚报的话，一定看到很多都在提两件事儿。一个就是降降本，无论是deep sick也好，还是glock 4也好，都在降本。所以用吸收能力，就是尽量少的激活这个算力，但是能达到好的效果。</p>
-<p class="transcript-line"><span class="time"><strong>[00:40:51]</strong> </span><span class="speaker"><strong>发言人2: </strong></span>然后还有一个就是合规，对吧？就是从那个政策层面来讲的话，或者说企业层面不是sorry，政府层面就开始把合规这件事就要求在前面，所以增加这个企业的成本。但是如果一旦做好之后，你可以拿到大单，拿到政府大单，拿到整体的主权性的合作。所以这两点来讲，我觉得最终都是干嘛都是把大家驱赶到一个同样的方向上面。就是我们不要过分依赖某一个的力量，不能过分依赖算力，没错，也不能过分依赖算法，对吧？我们要干嘛？要走出利于我国家现在正常发展的所需的这样一个态势。所以把这些公司也往这上赶，大家都一样。</p>
-<p class="transcript-line"><span class="time"><strong>[00:41:32]</strong> </span><span class="speaker"><strong>发言人1: </strong></span>是的，所以最后给大家还是要广告一下，就是大家可以多多订阅我们的youtube会员。那关类似关于这样的话题，一个我们有早晚报的，每天早晚的及时的跟进跟踪。还有我们的深度研究报告，以及主播的专栏，以及会员专享的视频，能够提供给到大家对于一个事件更全面的思考。既有AI的deep search之后的AI的音频播报每天陪伴你，又有我们三个人的这个人肉的播报，对吧？每周没有你。</p>
-<p class="transcript-line"><span class="time"><strong>[00:42:09]</strong> </span><span class="speaker"><strong>发言人2: </strong></span>每周的会员专享节目，或者说是我们的研报给大家分享的。</p>
-<p class="transcript-line"><span class="time"><strong>[00:42:14]</strong> </span><span class="speaker"><strong>发言人1: </strong></span>是的，如果是新朋友你就直接订阅，just say I早晚报就可以了是吧？那可以详见我们的评论区，希望这些对大家有帮助。我们也尽快再迭代我们早晚报的功能，包括新闻事件尽快跟资本市场挂钩对吧？然后包括我们的周报，帮助大家更量化的去追踪某些新闻。很快这些能力我们会提供给到大家。如果你是我们的会员，就是可以无缝的享受到最新的早晚好的迭代跟功能。</p>
-<p class="transcript-line"><span class="time"><strong>[00:42:45]</strong> </span><span class="speaker"><strong>发言人2: </strong></span>还得扣一下题。今天说到英特尔，对吧？说的是英特尔被投资。未来我也简单的看了一下这个事情背后，也想预测一下就是英特尔怎么样。反正我还是那句话，就是这个曾经辉煌的古老的城堡，它已经无法再回到当年那个住着皇亲国戚的那个那个顶峰时期了，未来可能会变成一个局旅游景点。但是现在已经踏入进去的人肯定能捡到宝。不光是拿到古董，而且还能够直接把自己的一些说句不好听的话，一些能力和一些想法变成现实。因为这块地儿真值钱。</p>
-<p class="transcript-line"><span class="time"><strong>[00:43:21]</strong> </span><span class="speaker"><strong>发言人1: </strong></span>因为大家都看到的是想要打开叉八六这个系统架构的大门。</p>
-<p class="transcript-line"><span class="time"><strong>[00:43:27]</strong> </span><span class="speaker"><strong>发言人2: </strong></span>这个生态的大门。</p>
-<p class="transcript-line"><span class="time"><strong>[00:43:29]</strong> </span><span class="speaker"><strong>发言人1: </strong></span>然后成为这个生态里面的一员。这个大门一旦被打开，英特尔恭喜你成为了一个历史遗迹。</p>
-<p class="transcript-line"><span class="time"><strong>[00:43:37]</strong> </span><span class="speaker"><strong>发言人2: </strong></span>永远留在我们心中永远留在我们心中。对，好，当当当好。</p>
-<p class="transcript-line"><span class="time"><strong>[00:43:43]</strong> </span><span class="speaker"><strong>发言人1: </strong></span>这期节目就到这里结束，谢谢大家收看。</p>
-<p class="transcript-line"><span class="time"><strong>[00:43:46]</strong> </span><span class="speaker"><strong>发言人2: </strong></span>谢谢各位评论区见。</p>
-<p class="transcript-line"><span class="time"><strong>[00:43:47]</strong> </span><span class="speaker"><strong>发言人3: </strong></span>拜拜，期待拜拜。</p>]]></content:encoded>
-            <pubDate>Wed, 08 Oct 2025 23:00:00 GMT</pubDate>
-            <guid>68e52ee58e321a0d6f38f7b6</guid>
         </item>
     </channel>
 </rss>

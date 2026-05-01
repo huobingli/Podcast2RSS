@@ -4,7 +4,347 @@
         <title>屠龙之术</title>
         <link>https://www.xiaoyuzhoufm.com/podcast/6507bc165c88d2412626b401</link>
         <description>科技创业与投资相关的”屠龙之术“</description>
-        <lastBuildDate>Wed, 29 Apr 2026 20:38:39 +0800</lastBuildDate>
+        <lastBuildDate>Sat, 02 May 2026 05:03:32 +0800</lastBuildDate>
+        <item>
+            <title>语言、coding、多模态，到底谁坐AI的主桌？---狂喜98页PPT-solo</title>
+            <link>https://www.xiaoyuzhoufm.com/episode/69f2c01ffbed7ba94126a402</link>
+            <description>这期节目是上周末狂喜播客节现场我的专场内容，我用我可能最习惯的方式去讲述了2026年Q1-到4月底这段时间AI行业发生的种种……
+熟悉我播客的朋友可能会问，你不是春节前刚发了25年的总结，春节后的3月初也发了个超长的PPT吗？
+是，现在AI行业的发展速度过于快了，所以在四月底这个时间点我需要再做一次整理……
+（麻了都，真的）
+这次的机构我没有用之前的中美对抗的角度，而使用技术-产业-资本的叙事方式来展开。
+* 技术：Agent、Harness、Infra、世界模型、开源
+* 产业：coding、OpenAI vs anthropic、中美模型竞争、应用趋势、行业渗透
+* 资本：软件/saas股暴跌、MAG7、二级市场、算力/数据中心、一级市场
+以及在PPT的最后我又讲了点“别的”内容……
+PPT在我的IMA数据库中，可以扫码或者点击链接加入
+【ima知识库】屠龙之术VIP报告库 https://ima.qq.com/wiki/?shareId=7c732a68674e53edea8d17f9546ad5a2047e0c63985dde9d2592f2bb76fe43eb
+（想加粉丝群的请先+微信：rosicky311)
+下面正片开始……
+【时间线】
+00:41 标题页
+01:05 现场调查
+02:35 主桌的比喻
+04:08 第一章：技术
+04:53 26年共识：Agent
+05:54 我们一路走来
+07:20 junyang离职之后的推文
+08:34 “自主学习”
+09:21 “harness”
+10:26 harness的比喻
+11:54 harness的构成
+14:01 意外出现的世界模型
+14:50 openclaw
+15:32 claude code
+16:24 开源
+17:59 开源热门项目板块
+19:13 coding agent和通用agent边界模糊
+20:22 第二章：产业
+20:54 当前coding是绝对主桌
+22:04 AI coding带来的趋势
+23:48 coding战场很大很大
+24:31 OpenAI vs anthropic
+26:10 先看ChatGPT的用户数据：用户量、时长、留存
+28:38 挡不住的Anthropic
+30:02 疯狂发布产品和功能的claude
+30:44 两家公司的厮杀
+31:11 各种飞速增长的曲线
+32:01 all in one的不同理解
+33:34 模型的竞争
+34:44 模型的竞争进入按月计的周期
+36:51 大家的期待
+37:35 我们等到来gpt5.5和deepseek v4
+37:53 v4 怎么样？
+38:54 大家都学坏了
+39:50 开源
+40:41 中美对抗
+41:23 a16z每半年一次的AI应用榜单
+42:11 图片和视频的竞争，以及sora关停
+44:39 我们看到了新的sota图片模型gpt-image2
+47:27 老生常谈的arr
+47:58 AI+法律
+49:17 行业渗透
+51:04 第三章：资本
+51:32 软件已死
+52:04 两种对立的观点
+53:09 大写的一个惨
+53:58 跌到底了吗？
+54:29 servicenow的案例
+55:43 软件股一直都是“优等生”
+56:14 “这次不一样”
+57:40 MAG7也在经历调整
+58:30 他们依然非常大
+58:50 英伟达的疯狂预期
+59:42 cash flow出现了一些问题
+1:00:36 所以出现调整
+1:00:55 英伟达的股价
+1:01:32 科技巨头比沃尔玛便宜
+1:02:13 市场本身的调整
+1:02:44 收入大面积超预期，但股价……
+1:03:11 问题还是出在现金流上
+1:03:55 Q1涨的好的存储和光
+1:04:25 市场总是跌多了就会涨
+1:05:08 标普新高，英伟达重回5万亿美金
+1:06:08 再看所谓泡沫的核心议题-算力/数据中心
+1:06:50 数据中心-token工厂
+1:07:07 所有人疯狂囤积算力
+1:07:33 几年前的H100租赁价格居然还在涨
+1:08:16 半导体行业直接起飞，也包括中国的厂商
+1:08:42 CPU又是为什么？
+1:09:02 英特尔重回巅峰，以及100x pe
+1:10:59 市场的主题几乎全部围绕数据中心
+1:11:18 但这里肯定有一些“隐患”-半导体capex周期和数据中心延期
+1:12:20 一级市场
+1:13:02 创纪录的26年Q1
+1:13:39 大大大
+1:14:20 YC的眼里，这个行业只有AI，没有其他
+1:14:41 后期成为了某种意义上的新“公开市场”
+1:15:06 已经过时的OpenAI/anthropic的收入预期
+1:15:21 8000多亿美金的OpenAI是什么概念？
+15:34 那anthropic能到多大？
+1:16:35 循环融资again+标普500新高again
+1:17:08 所以我们在哪里？距离“泡沫”还有多远？
+1:17:45 番外篇
+1:18:06 书店的AI畅销书
+1:18:50 红果短剧- AI剧-单日投放破亿
+如果对AI短剧有兴趣的可以听下我去乱翻书以及另外两位资深嘉宾刚录制的关于AI短剧的播客
+从红果到AI短剧，谁在革谁都命？
+1:21:02 OpenAI星际之门计划的实施进度
+1:21:52 缅因州可能通过数据中心禁令
+1:22:47 一些更极端的“表达”
+1:23:08 “恩格斯暂停”
+1:24:08 谁甘心被拍成一张纸呢？
+1:24:40 上次狂喜摄影师的抓拍
+1:25:43 最后一页感谢
+【播客简介】
+屠龙之术是一档关注科技、互联网、风险投资的播客，
+主播庄明浩是一个游走在互联网和风险投资行业的边缘人士。
+其工作多年所积累的认知似乎都成为了某种意义上的”屠龙之术“……
+或许某天再有新的“龙”出现的时候，就是这档播客停更之时。</description>
+            <content:encoded><![CDATA[<div class="episode-summary">
+<h3>内容摘要</h3>
+<h3>主题概述</h3>
+<p>本期播客是“狂喜”在2026年4月底的一场solo演讲，嘉宾是长期跟踪AI行业的技术观察者，他刚从美国飞回，分享了关于AI行业最新发展的结构化分析。核心议题围绕“语言、coding、多模态”三大叙事，探讨谁在当前阶段占据AI发展主桌。演讲从技术、产业、资本三个维度展开，深入剖析了agent生态、harness工程、coding的绝对统治地位、中美模型竞赛、软件股暴跌、以及AI对社会和个人的影响，最后表达了在技术加速变革下的个体感受。</p>
+<h3>关键要点</h3>
+<ol>
+<li>
+<p><strong>行业加速：以“月”为单位的版本迭代</strong>：AI行业的更新速度已从“以半年为计算单位”缩短到“按月”。中国头部模型厂商在春节前后集中更新，而到了4月，几乎每天都有不止一个模型发布，如千问在连续一周内发布多个版本。演讲者指出，发布的模型已经是上一代，正在训练和测试的又领先两代。</p>
+</li>
+<li>
+<p><strong>核心共识：Agent与Harness（驾驭工程）</strong>：2026年AI行业的最大共识是Agent。为了让Agent有效运行，核心关键词变成了“Harness”。演讲者用“发动机”和“车”的比喻：基座模型是强大的发动机，Harness则是车身、轮子、方向盘等外围系统。基座模型加Harness等于Agent，模型从被询问的对象变成了行动主体。Harness包括上下文管理、工具调用、记忆、护栏、任务编排等所有模型之外的能力。</p>
+</li>
+<li>
+<p><strong>主桌易主：Coding（代码）登上主桌</strong>：在过去半年（截至演讲时），Coding绝对主导了主桌。所有AI相关的收入中，Coding的体量比第二名到第四名（法律、医疗、搜索等）加起来还要大。GitHub上由AI（如Claude Code）提交的代码量在Q1增长了数倍，新上线的网站、iOS App数量暴涨，原因是代码能力被下放，人人皆可开发。</p>
+</li>
+<li>
+<p><strong>Anthropic vs. OpenAI：巷战般的激烈竞争</strong>：两家头部公司进行着短兵相接的厮杀。Anthropic的收入（ARR 300亿美金）已超过OpenAI（ARR 250亿美金）。在B端企业首选模型上，Anthropic在26年1月实现反超，OpenAI持续下滑。Anthropic以每天平均1.5个功能更新的疯狂节奏发布产品（过去50多个工作日发布70多个功能）。</p>
+</li>
+<li>
+<p><strong>OpenAI的All-in-One与Anthropic的Harness策略</strong>：两者都采取“All-in-One”策略，但路径不同。OpenAI将ChatGPT、Codex、浏览器等独立产品合并。Anthropic则推出了自己模型之外最好的“壳子”（Harness），除了提供最好的模型，也为基于该模型的最佳“车”收费。</p>
+</li>
+<li>
+<p><strong>DeepSeek V4的价值：定义性价比标杆</strong>：DeepSeek V4的价值不再是“捅破天花板”，而是定义了“帕雷托最优”——在成本相对低的情况下达到最高分数。其公布token价格后，竞争对手直接降价75%，DeepSeek在推动整个行业的成本下降和普惠化。</p>
+</li>
+<li>
+<p><strong>Sora关闭的深层原因</strong>：Sora的关闭并非因为“不如抖音”，而是反映了模型公司在有限算力下的内部优先级取舍：如何权衡token效率、如何选择产品组织架构、以及在不同市场地位下做战略取舍。演讲者认为，“所有走过的弯路，最后可能都算数”。</p>
+</li>
+<li>
+<p><strong>软件股暴跌的现实</strong>：传统SaaS软件公司正被AI颠覆。ServiceNow的PE已从132倍跌至23倍，股价跌幅达80%-90%。核心原因是AI将软件开发的成本从“6个月50万美金”降至“6小时50美金”。SaaS的商业模式正在从“Software as a Service”转变为“Service as a Software”——AI只提供能力，用户可自行做软件。</p>
+</li>
+<li>
+<p><strong>英伟达与CPU的纠葛</strong>：英伟达股价横盘九个月，尽管业绩超预期。市场担忧其自由现金流问题。同时，随着Agent/推理时代的到来，CPU的重要性重新凸显（从训练时代1:7的CPU:GPU配比，到推理时代1:4，再到Agent时代1:1）。英特尔股价因此暴涨，市盈率超100倍，超过了2000年互联网泡沫时的思科。</p>
+</li>
+<li>
+<p><strong>AI短剧的凶猛与真实投资</strong>：在监管部门主办的会议上，头部短剧平台宣布拿出5亿扶持真人短剧，而同一天，其内部排行榜已不分AI剧与真人榜，前十中有6-7个是AIGC。实际投流数据更惊人：AI短剧的日投流广告费已稳稳超过1亿人民币。</p>
+</li>
+</ol>
+<h3>独家细节</h3>
+<ol>
+<li>
+<p><strong>从“养龙虾”到“龙虾活着吗”的PPT标题迭代</strong>：演讲者在制作PPT的短短一个月内，将标题从“你养龙虾了吗？”改成了“你的龙虾还活着吗？”。这个即兴的比喻生动地反映了OpenAI等概念在行业内的快速过时感，体现了技术迭代的残酷速度。</p>
+</li>
+<li>
+<p><strong>哈维（Harvey）公司的融资记忆</strong>：演讲者回忆起24年5月，他在便利店买饮料时刷到Harvey公司（AI法律助手）完成5000万美金A轮融资的消息；而到26年做PPT时，这家公司估值已达110亿美金。这种“两年暴增”的个人亲历回忆，比任何数据都更具冲击力。</p>
+</li>
+<li>
+<p><strong>“学坏了”的营销话术</strong>：演讲者调侃，现在头部模型公司在发布新模型时，都喜欢强调“模型太危险不能开放”。所有厂商都学会了这套说辞，既有一定的营销成分，也侧面印证了模型能力确实强到一定地步。</p>
+</li>
+<li>
+<p><strong>字节跳动的真实投流数据</strong>：一位行业人士在4月15日获取的内部数据显示，字节跳动旗下的巨量引擎平台，当日AI短剧的消耗金额为9968.92万。这个近乎1亿的日耗数字，结合平台表态要“扶持”真人短剧，形成了极具讽刺意味的对比。</p>
+</li>
+<li>
+<p><strong>“历史的一页”与“我的一页”的个人感受</strong>：面对“AI带来GDP增长却可能带来漫长工资停滞”的“恩格斯暂停”理论，演讲者强烈反驳了“历史的一页就是很多人的一生”这种上帝视角的说法。他强调，每个人都有自己的选择、爱人和兴趣，人不是生来成为历史的一页。这反映了技术浪潮下个体对自身价值的坚守与情绪宣泄。</p>
+</li>
+</ol>
+</div>
+<hr/>
+<p class="transcript-line"><span class="time"><strong>[00:00:08]</strong> </span><span class="speaker"><strong>发言人1: </strong></span>感谢大家，然后来听这个狂喜的最后一场，然后我们就不浪费大家时间正式开始。这个PPT的制作时间应该是在四月初，今天已经四月底了。其实很多内容我在做的过程中就不断的修改，不断的更新。甚至我今天早上是刚从美国飞回来，早上落地到浦东机场。甚至在昨天晚上，在应该是前天晚上在拉斯维加斯机场等飞机的时候还在改。对，反正最后现在这个版本我也不改了，就这样了。</p>
+<p class="transcript-line"><span class="time"><strong>[00:00:41]</strong> </span><span class="speaker"><strong>发言人1: </strong></span>今天起的标题叫语言coding多模态，我们到底谁做主？说这个如果听我之前播客的话，可能会理解我为什么起这样的标题。然后起了一个有一点意思的小标题，叫这是给我干哪来了？就是出来之后，我明显感觉整个A行业的发展非常疯狂的在加速。所以今天这个时间你会发现很多事情不太可以理解了。</p>
+<p class="transcript-line"><span class="time"><strong>[00:01:03]</strong> </span><span class="speaker"><strong>发言人1: </strong></span>然后我做个简单的自我调这个调查之前听过春节前跟春节后的这两期的整理的朋友方便举个手吗？好，OK大概4分之1、3分之1差不多。然后在上一次的狂喜伯爵也是在这个现场我讲过这个就是去年的11月份，听过这个的举手一下看看好吧？哦也差不多是这个是OK就是我一直以来的工作习惯是大概可能每三个月左右时间会整理一次这样的内容。</p>
+<p class="transcript-line"><span class="time"><strong>[00:01:31]</strong> </span><span class="speaker"><strong>发言人1: </strong></span>可是你发现出现了一个变化，对吧？我上一次狂野播客节是11月，11月过了两个月之后，在一月底的时候我就不得不做了2026、2026年对2025年的总结，我认为那个时间点做完了应该差不多了，结果过了个春节回来我发现不行，所以我在3月9号又做了一个版本。也就是说这两个中间只隔了两个月的时间。今天还没有到两个月的时间，我需要再做一个新的版本。所以你会发现这件事情真的在疯狂的加速。所以我用了一张范伟的图，这可能看不太清，大概就是学无止境的那张表情包，对吧？就是学。</p>
+<p class="transcript-line"><span class="time"><strong>[00:02:08]</strong> </span><span class="speaker"><strong>发言人1: </strong></span>然后你再发现更有意思一点，就是我刚才说过，我做这个PPT的开始大概是四月初的时候。所以我第一版放那个open cloud图标的时候，我当时列的标题还是你养龙虾了吗？可是我在做的过程中发现我要把这个标题改掉，这个标题不完成了，你的龙虾还活着吗？就是这么快的时间，你会觉得这件事情好像已经是上个时代的事情了，对吧？所以这个行业发生非常多的变化。</p>
+<p class="transcript-line"><span class="time"><strong>[00:02:33]</strong> </span><span class="speaker"><strong>发言人1: </strong></span>我们回到今天的这个主题，这张内嵌页其实是我在我没记错的话，应该是去年的狂野这个现场我讲当时讲的，我说今天这个时间点AI行业可能这一波有三个桌，第一桌，我们叫语言，也就是拆GP带来的这一波的变化。当时的说法是说，当机器掌握语言，强人工智能的到来。所以过去一段时间语言可能这件事情最主要的事情。</p>
+<p class="transcript-line"><span class="time"><strong>[00:02:57]</strong> </span><span class="speaker"><strong>发言人1: </strong></span>然后第二桌叫coding代码。当时说的这句话其实是按topic CEO说的。也就是说他说12个月之内，12个月之内是在2025年的大概9到10月份说的那我们距离12月还有半年的时间，我们可能会进入一个AI能写出所有代码的世界。回顾过去1到2个季度，你会发现这件事情完全不是天方夜谭，甚至很有可能会提前发生。</p>
+<p class="transcript-line"><span class="time"><strong>[00:03:22]</strong> </span><span class="speaker"><strong>发言人1: </strong></span>第三桌多模态那句话是d man的核心负责人说的，叫世界模型是一个孕育AGI能无限拓展的信息子宫多模态的领域的变化。所以你会发现在那个时间点，我们就会认为语言coding多模态这三种可能带来代表AI这轮发展最核心的几个叙事。然后你又很特殊的是，可能这三家今天这个时间点最头部的模型公司，恰恰好好对应了这三桌。但是这三桌到底谁独领风骚，或者说谁在某段时间站在最前面，似乎是在一直变化的那所以说这个主桌的笔我用过很多次，但最近似乎又要变了。三十天河东，30天河西，都不是30年，是30天。</p>
+<p class="transcript-line"><span class="time"><strong>[00:04:08]</strong> </span><span class="speaker"><strong>发言人1: </strong></span>然后我们一个个讲，如果大家有印象或者听我之前的版本的话，我去年的总结跟今年1月份的总结还是按中美对抗的角度去讲。但是因为这次是一个年中间的总结，所以我用了我更熟悉的一个结构叫技术产业资本。我们只讲这三件事情，就是技术发展到什么程度，产业之间的竞争到底是什么？资本行业跟资本世界发生了什么事情，以及相匹配的东西。所以我们一个个来讲，先讲技术，我列了几个关键词，agent这关键词其实去年在我PPT就提到非常多次。第二个关键词是今年新加的harness，对info世界模型开源的趋势五个小标题我们一个一个来agent很多人会说agent.</p>
+<p class="transcript-line"><span class="time"><strong>[00:04:56]</strong> </span><span class="speaker"><strong>发言人2: </strong></span>可能。</p>
+<p class="transcript-line"><span class="time"><strong>[00:04:56]</strong> </span><span class="speaker"><strong>发言人1: </strong></span>是今天这个时间点，2026年AI行业最大的共识，甚至不需要去探讨。我列了两张图，这张图看起来也跟上个世纪一样。左边这张图是千万的APP在年前去做推广的时候。千万AP在年前开始做推广，让大家去用千问APP下奶茶，这个下单订奶茶，对吧？所以当时他这场发布会的slogan叫from credit to action，从问题到行为。我原来的解释叫从语言到行为，是这种agent最大的代表。</p>
+<p class="transcript-line"><span class="time"><strong>[00:05:28]</strong> </span><span class="speaker"><strong>发言人1: </strong></span>然后这张图是应该是在去年26年1月份春节前的这张图是腾讯的汤道生dawson的演讲的图。应该是在三月份腾讯云的一个大会上。他标题就特别简单，就是AI从chatbot marry agent逻辑是一模一样的对吧？然后这件事情今天这个事情已经不需要去解释了，agent可能是今年这个时间点最大的业绩共识。</p>
+<p class="transcript-line"><span class="time"><strong>[00:05:54]</strong> </span><span class="speaker"><strong>发言人1: </strong></span>然后我们回头来看，从ctp发布到我们走到今天可能有三年半左右的时间。之前我也讲过无数多无数次的ONI用过L1到L5的对比方式，L一叫chatbot，l2叫推理，L3叫agent对吧？L4叫研究室，L5叫组织者。我们从L一走到了L3，我们一路走来经历了哪些事情，或者说头部公司们在干嘛？我们最开始走到了LE得到了基础模型，基础模型怎么来的呢？我们还通过预训练的方式，就是给大模型为无数多的数据。</p>
+<p class="transcript-line"><span class="time"><strong>[00:06:28]</strong> </span><span class="speaker"><strong>发言人1: </strong></span>通过预先训练的方式，我们得到了最最开始的ChatGPT以及GPT3.5到L2就推理模型的时候，O一是在24年9月份发布的，我们大概是从什么样的方式得到推理模型呢？在那个时间点开始，大家强调后训练跟强化学习。然后在deep sik发布的时候，deep sak是25年1月底发布的，到今天也不过才一年多一点点的时间。大家觉得deep sik已经上一世代的事情，对吧？</p>
+<p class="transcript-line"><span class="time"><strong>[00:06:53]</strong> </span><span class="speaker"><strong>发言人1: </strong></span>那deep sik之后L2成为标配，然后所有的厂商开始强调强化学习环境的搭建。这些事情底下这些事情从提示词工程到上下文工程，再到专门为推理优化的强化学习环境。我们一路走来走到这儿，然后我们现在进入到L3 agent那L3 agent的时候什么重要了？当然前面这事情还在做还很重要。那L3的时候什么变得更重要了？</p>
+<p class="transcript-line"><span class="time"><strong>[00:07:20]</strong> </span><span class="speaker"><strong>发言人1: </strong></span>右边这张图是3月10几号的时候，之前有一个新闻是阿里一位90后的年轻人离职当天把阿里砸下四个点还是五个点。这个人叫林俊扬，他是阿里签原来的负责人。他在离职之后发了过了一段时间发了一篇twitter去讲他过去可能大半年左右时间在千问做的实施跟实践，以及对未来的预期。他的逻辑是说我们要从原来的那套里面跳到一个新的阶段，这个阶段要有新的想法或者新的思维方式，这个思维方式叫agented thinking。</p>
+<p class="transcript-line"><span class="time"><strong>[00:07:57]</strong> </span><span class="speaker"><strong>发言人1: </strong></span>那具体指什么呢？比如说决定何时停止思考并采取行动，让模型决定让模型调用哪个工具以及调用顺序。整合来自环境中的噪声或观察。让模型能够在失败后修订计划，然后能够让模型在许多回合和许多工具的调用中保持连贯性。所有这些事情的努力跟工作是为了让AI agent变得更可执行跟做任务，对吧？他说这个叫agented thinking。所以今天这个时间点，所有的头模型厂商在模型的训练过程中在做的事情就这件事情。这件事情恰好符合另外一个事情。右边这张图是我在年前那次PPT当中的一张图。</p>
+<p class="transcript-line"><span class="time"><strong>[00:08:41]</strong> </span><span class="speaker"><strong>发言人1: </strong></span>在春节之前，其实也就是25年Q4开始，美国硅谷的头部模型厂商基本上已经形成共识是说下一代模型最核心的标准是模型自己可以自主学习。今天去听如果你关注业绩的话，最近一段时间中国的几家模型厂商的负责人出来讲的时候，也是讲这个逻辑。然后我们把刚才林俊杨所有说的这些话去回头去看你发现他的目标是一样的，就是让模型能够自主学习，来实现所谓的人。所以你发现在技术领域这件事情全部都连上了。所以就出现了一个关键词，我们怎么能让模型自主运行的那么好呢？出现了一个可能Q一最热的关键词叫harness。</p>
+<p class="transcript-line"><span class="time"><strong>[00:09:29]</strong> </span><span class="speaker"><strong>发言人1: </strong></span>我们前面在我们L一到L三那张讲，我们从上下文工程，从提示词工程开始到上下文工程对吧？我们从提示词工程，如果大家理性的话，当年第一次刚刚开始用h GPT跟豆包的时候，你要记很复杂的提示词才能让他打的很好，到L2左右开始强调上下文的工程，整个东西变得复杂了。到这一代我们开始强调叫honey，叫驾驭工程。它不单纯只是一个给他喂多少东西跟保证你喂东西的质量的问题，他变得一个更复杂的问题。</p>
+<p class="transcript-line"><span class="time"><strong>[00:09:59]</strong> </span><span class="speaker"><strong>发言人1: </strong></span>然后右边这张表情包就是可能整个Q1左右无数你在各种各样新闻看到的关键词特别的多，乱七八糟各种各样的东西都有。哈内斯对吧？还有爱马仕的那个关键词，然后SARS SARS死掉了，卡帕西的各种各样的文章，然后cloud把open cloud屏蔽掉了是吧？各种各样的包括agented engineer。就是你会发现这几个关键，这几个英文单词来后来的排列组合，频繁的出现在各种各样新闻里。</p>
+<p class="transcript-line"><span class="time"><strong>[00:10:26]</strong> </span><span class="speaker"><strong>发言人1: </strong></span>然后举一个更简单的比方，我觉得这张图画的非常好，这张图来自一个科技博客叫ahead of AI。他举个例子说，他同样用刚才L一到L3的对比，L一就简单的chat的模型。那个时候它很像一台发动机，发动机它可以转对吧。L2推理模型的时候模型能力变强了，它变成了一个很强的发动机，可能是F1的发动机，但是光有发动机是不够的。今天我们是要开车的，因为我们要做agent的agent要做任务的执行，要做所有的这些事情。我们需要把那个发动机放在车里，我们需要轮子，需要传动轴，需要方向盘，需要壳子，甚至需要轮胎。这些东西叫哈里斯。</p>
+<p class="transcript-line"><span class="time"><strong>[00:11:07]</strong> </span><span class="speaker"><strong>发言人1: </strong></span>有更简单的比喻是说这个比喻是魏航写的皈依上传人。他说基座模型就是今天我们看到各种各样的模型，加harness就等于agent。这种模型提供原始能力，它可以推理生成理解，但它是静态、被动且无方向。它什么都能干，但也代表他什么都干不了。所以你需要给他提供结构方向跟约束，把无限的可能性收束成有限的有目的的活动。两者结合的瞬间，AI从一个被询问的对象变成了一个去行动的主体。</p>
+<p class="transcript-line"><span class="time"><strong>[00:11:40]</strong> </span><span class="speaker"><strong>发言人1: </strong></span>如果大家在过去两个月用过open cloud的话，你就会非常理解为什么他会这么讲这件事情。一个非常简单的比喻，发动机更好的发动机倒车，所以我们要做车？好，那到底这个车需要什么东西？需要哪些模块一些？什么围栏的权限，你要设置它是哪地方能去，哪地方不能去。</p>
+<p class="transcript-line"><span class="time"><strong>[00:12:05]</strong> </span><span class="speaker"><strong>发言人1: </strong></span>技能的封装skill，然后又是一个关键词工具的调用。它要可以会用人类跟现在给机器的各种各样的工具，它有记忆系统。他要记住你是谁，记住你的任务是什么，你的标准是什么，你一直以来的习惯是什么？要评估反馈，刚才我们说过他需要不断的循环，它需要评估和反馈，他还需要任务的编排。当然这不是穷举，还有很多的模块都需要。所以你看那个图又是匹配L一到L3的。</p>
+<p class="transcript-line"><span class="time"><strong>[00:12:31]</strong> </span><span class="speaker"><strong>发言人1: </strong></span>222年到大概可能二三年底的时候，我们在做的还是print training。也就是说预训练跟的工程到上一轮工程的时候，我们开始走到了25年到26年，真的我们开始用哈里斯这套生态了。所以harness到底包括什么？包括特别多的东西。今天你能想到的说明模型之外，为了归属模型做行动之外的所有事情，你其实都可以放在焊的这个概念里。</p>
+<p class="transcript-line"><span class="time"><strong>[00:12:54]</strong> </span><span class="speaker"><strong>发言人1: </strong></span>所以就出现了一个问题，其实在去年跟前年的时候有一波一市场的热潮，就创公司的热潮是给agent或者给AI做什么东西。那个时候有对这类项目有一个比较宽的定义叫agent，叫AI的info就是基础设施。但是当哈利来了之后，你发现info这个概念被扩大了。Harness现在是新的infrared，因为它相当于你在给他做外围的所有的事情。所以第一关于harness，第一是修辞层的，honey AI就驾驭它是个动词对吧？第二是更重要是技术层的，就是上下文管理工具调用记忆护栏编排。都是哈里斯，这些都是好，那就变成了26年。</p>
+<p class="transcript-line"><span class="time"><strong>[00:13:39]</strong> </span><span class="speaker"><strong>发言人1: </strong></span>可能今天在截止到这个时间点，过去半年左右时间，在一市场最热的几个方向出现了。比如说最热的honey的infrared。第一个？第二个是汉文的记忆，持续学习，然后编排。</p>
+<p class="transcript-line"><span class="time"><strong>[00:13:54]</strong> </span><span class="speaker"><strong>发言人1: </strong></span>同时这张图里面出现一个意外的板块，叫word model世界模型。另一个关键词出现了。但其实我认为这个word model不应该放在这张图里。这个可能是因为他为了要把所有这种方向的创业项目包在这里，所以放在这里。那我们简单说一下word model世界模型。世界模型可能也是过去半年整个业界最热门的方向之一。大家会认为我们需要一个非语言之外的能够touch到的一个无论是视频流还是3D是什么样的一个类似虚拟世界那样的东西，所以出现了世界模型。</p>
+<p class="transcript-line"><span class="time"><strong>[00:14:24]</strong> </span><span class="speaker"><strong>发言人1: </strong></span>世界模型其实在2019年开始就有很多公司在尝试。只不过进入到2024年25年之后，更多公司才开始尝试了。比如说李飞飞老师的world lab，比如说腾讯的混元，比如说字节马上的C32.0之后的版本会支持世界模型。比如说阿里最近在快乐小马之后又发了一个快乐什么模型，也是世界模型，对吧？所有人都往这儿走，我觉得这是个意外的出现。</p>
+<p class="transcript-line"><span class="time"><strong>[00:14:48]</strong> </span><span class="speaker"><strong>发言人1: </strong></span>我们回到主线，你发现出现了另外一个今天最热的关键词open cloud。Open cloud也是符合刚才我们讲的所有事情的，他就是那个壳子，就是那台车。因为cloud自己不做模型，它只做了一层壳子，对吧？所以你会发现如果你去理解整个open load执行过程，我们把各种各样的IM软件接到一个网关里，然后网关里来运行整个agent agent。Agent底下有模型？有多agent实施，有记忆，有工具调用，他有交互层、网关层、智能体层和执行层。其实open cloud整个软件设计就是符合刚才我们说的hits的架构设计的。所以虽然open cloud今天已经太没有人提了，才火了几个月的时间，欧盟克拉也符合这个逻辑。</p>
+<p class="transcript-line"><span class="time"><strong>[00:15:31]</strong> </span><span class="speaker"><strong>发言人1: </strong></span>那有没有更符合的，或者说更被业界认可的？当然有。在上个月的时候，anthropic的cloud的编程的agent叫cloud code的代码被意外泄露了。意外是双引号，我们也没法评判是主动还是意还是真的意外，反正他被泄露了。然后就有无数的人去拆cloud code的这个软件的设置方式。你会发现它也分很多的层，对吧？各种各样层级。</p>
+<p class="transcript-line"><span class="time"><strong>[00:15:57]</strong> </span><span class="speaker"><strong>发言人1: </strong></span>然后你把整个的流程画下来，其实cloud也是一个honey，也是一台车。它通过cloud本身模型的超强大能力，再加上这台车车设计的特别的好，展示出了超强的能力。所以大家开玩笑说anthropic变成了真的OpenAI，对吧？真的OpenAI。那个AI是SO pic的logo，那现在这现在的ONI已经不太open了，对吧？可能是当年最佳时间。</p>
+<p class="transcript-line"><span class="time"><strong>[00:16:22]</strong> </span><span class="speaker"><strong>发言人1: </strong></span>然后再看另外一个角度，开源。开源可能也是过去一年多时间整个AI领域最热的关键词。我们就看在过去这半年时间，开源生态出现了什么变化。</p>
+<p class="transcript-line"><span class="time"><strong>[00:16:32]</strong> </span><span class="speaker"><strong>发言人1: </strong></span>首先这些图全部都是蚂蚁开源做的。我非常感谢蚂蚁开源的好朋友做了这样的整理，我觉得非常有意义。虽然这位负责人已经离开了蚂蚁开，他已经不更新了。我说那我以后用谁的呢？对吧？他说再说，他第一个统计了过去2026年以来到202年Q1，在github上最热的新兴的排名的这个项目。</p>
+<p class="transcript-line"><span class="time"><strong>[00:16:54]</strong> </span><span class="speaker"><strong>发言人1: </strong></span>当然第一是open cloud，你看各种各样的名字skill，cloud code，open cloud skills, 各种各样的词。然后蚂蚁的这个开源的总结，我觉得总结非常好。他说他者的注意全部流向了agent生态。围绕agent这个生态，虽然这里面有很多别的项目，但是只看这些项目的名词，open cloud skills, cloud kills, skills own cross skills就是来回来这几个词的排列组合就是代表这些项目对吧？大门相关项目大概占40%，然后如果把范围扩大到最受关注的1000个项目，粗略标注后在81%跟agent相关。然后这些最长的关键词又是agent cloud，have cold skill, 还是这些词。</p>
+<p class="transcript-line"><span class="time"><strong>[00:17:36]</strong> </span><span class="speaker"><strong>发言人1: </strong></span>其实回看过去几年从不同阶段出现的开源项目的命名上，我们都不需要看这个项目到底做什么。我们只看这个项目的名字，也能感受到整个技术生态的变化。更直接的是从项目的情况来看你会发现2026年整个AI生态里面开源项目最热的板块。</p>
+<p class="transcript-line"><span class="time"><strong>[00:17:54]</strong> </span><span class="speaker"><strong>发言人1: </strong></span>第一AI assistance我们cloud战局chatbot，chatbot依然是最主要战之一对吧？物理的声音是这个领域是coding，coding占的非常大块，然后agent free work，然后onest，对吧？你会发现这几个关系都有了，出现一些趋势。我们刚才也讲过，第一，从原来的单纯的提示词工程到伤害文管理，到honey对吧？</p>
+<p class="transcript-line"><span class="time"><strong>[00:18:19]</strong> </span><span class="speaker"><strong>发言人1: </strong></span>第二，软件开发。原来我们做软件是给人做的，可是今天大家开始为AI做软件，就是为agent。然后agent的编排框架自我演化。刚才前面也讲过，成为一个加从一个加分项。也就是说原来我们设计一个agent也好，一个模型也好，做编排跟做自我循环是一个加分项。可是今天新的这一波兴起之后，大家发现这是一个起点，就是说我在做的第一天就想着他要这么弄。</p>
+<p class="transcript-line"><span class="time"><strong>[00:18:50]</strong> </span><span class="speaker"><strong>发言人1: </strong></span>第二更有意思，这演化的命名最开始是龙虾，然后你发现有猫、有蜜蜂、有熊、有穿山甲，还有各种各样的名字出现了，还有小马对吧？然后带来一个结果，我觉得从一个纯用户体验端来发来发现我是一个完全不懂代码的纯文科生。但你发现今天我在做很多事情，我是在用上面那几个软件，auto code, 那个open ad code，x字写的tree。他们其实原来是做coding的。但你发现coding可以做所有事情，可以做PPT，可以做信息整理，可以做任何的事情。</p>
+<p class="transcript-line"><span class="time"><strong>[00:19:25]</strong> </span><span class="speaker"><strong>发言人1: </strong></span>然后下面这几个minus j bak包括自己的扣子，他们原来叫通用的agent。但你发现这两类东西的边界跟界限越来越模糊了。因为你想做一个任务，你并不care他是用coding解决的，还是用什么方式解决的，只要解决了就可以了，对吗？而且又因为今天这个时间点，所有的coding agent的交互方式也是自然语言，就要跟他说我要干什么就结束了。所以你就更不需要关心实现过程。所以出现了一个结论，第一章讲完，然后很快对吧？</p>
+<p class="transcript-line"><span class="time"><strong>[00:20:00]</strong> </span><span class="speaker"><strong>发言人1: </strong></span>第一章讲完了出现一个结论，这个结论是什么呢？Coding语言多模态到底谁做主桌？至少在过去半年coding在主桌上。那好，coding在主上，我们就往下看产业到底经历了什么。所以产业里面的第一张coding，第二个coding，今天这个时间点最头部的代表公司是anodic，那open I怎么办呢？Open I原来是语言的代表，对吧？是三桌里面语言那桌的代表。讲到欧元N之后，我们就开始讲中美模型之间的竞争，然后再扩展到应用。因为产业不能讲不讲应，然后最后回到所谓的行业的渗透，我们依次展开，从coding开始。</p>
+<p class="transcript-line"><span class="time"><strong>[00:20:43]</strong> </span><span class="speaker"><strong>发言人1: </strong></span>结论刚才我说过了，coding可能是当前这个时间点绝对的主桌，没有任何意外的主桌。而且coding这个战场很有意思，说我们原来认为coding最开始做的事情叫代码的补全。典型像get up的copilot。就原来程序员写个写的代码遇到一个什么问题，或者有一段很复杂不想自己写，他可以用AI的方式做补全，那是第一代的能力。现在生成比补全往前迈了一步，对吧？你可以自己不完全写的是生成，然后还有评审，对吧？除了做完之后你还要审，还要debug，还要做需求管理。所以你发现coding的整个市场延展变得更大。</p>
+<p class="transcript-line"><span class="time"><strong>[00:21:24]</strong> </span><span class="speaker"><strong>发言人1: </strong></span>然后这只是逻辑层的变化。从数据层更明显，今天这个时间点所有AI相关的收入获取的角度来看，coding是绝对的领先。它比第二名、第三名、第四名第几名加在一起还要大。第二名是legal法律、客户支持医疗搜索写作。这些我们常见的认为是今天的实验，大家用AI模型能力的各种各样的功能，加一起没有扣点大加一起没有空间大，就出现了一个结果。</p>
+<p class="transcript-line"><span class="time"><strong>[00:21:54]</strong> </span><span class="speaker"><strong>发言人1: </strong></span>这张图我觉得非常好玩。这张图是give up上统计所有被提交代码当中，你是用cloud code来提交的。这个代码的量从年初的大概每天可能121个谜涨到了这张图。截止到3月底应该是涨了三倍不止。越来越多用cloud code提交代码，提交github上，那他们提交代码干嘛呢？</p>
+<p class="transcript-line"><span class="time"><strong>[00:22:18]</strong> </span><span class="speaker"><strong>发言人1: </strong></span>英文张图更有意思，这是金融时报做的，他统计的是过去一段时间上线的新的网站，新的IOS的APP以及低套上代码。Github的代码已经看到了，全部都是AI越来越多。同样越来越多的网站跟越来越多。</p>
+<p class="transcript-line"><span class="time"><strong>[00:22:37]</strong> </span><span class="speaker"><strong>发言人2: </strong></span>的APP.</p>
+<p class="transcript-line"><span class="time"><strong>[00:22:38]</strong> </span><span class="speaker"><strong>发言人1: </strong></span>出现了。他们当然是要因为AI做的了，APP尤其明显。你发现进入到25年底，下半年开始爆发式增长，大家也在想，IOS已经发了第十几代了，对吧？IOS生态已经十几年了，你应该已经想到应该任何什么APP都有人做过了，对吗？那为什么在沉寂了几年，就突然间在25年之后开始暴涨呢？因为coding的能力被下放了。哪怕有人做过，我也想做个自己的，我也想提交到AP store。所以你发现outside的增长非常的快。</p>
+<p class="transcript-line"><span class="time"><strong>[00:23:18]</strong> </span><span class="speaker"><strong>发言人1: </strong></span>在这个领域做的最大一家s of cloud。Cloud从4.5发布开始，其实是再往前offer 4开始，这个曲线就一直是这个样子。这种类型的曲线你在今天我PPT里会见到无数次，就像我上一次PPT讲的，叫挡不住了对吧？然后那code x就open I也不会落后对吧？Open I发了code x之后，其实它的数据涨得也很好。最新的数据OPPO code x的舟魂应该已经达到400万。</p>
+<p class="transcript-line"><span class="time"><strong>[00:23:46]</strong> </span><span class="speaker"><strong>发言人1: </strong></span>结论是什么呢？就是coding这个战场挺大。这个结论在去年就有，但是今天这个结论是coding这个战场比很多人想的大的多的多的多，至少现在看上去是这样。因为coding看起来可以解决一切事情，那就不分我们前面说的那个观点。我不care是coding agent还是通用agent，只要能解决任务就可以。我根本不care是不是coding，所以饭的coding这个战场比很多人想的大的多。</p>
+<p class="transcript-line"><span class="time"><strong>[00:24:17]</strong> </span><span class="speaker"><strong>发言人1: </strong></span>然后好，我们提到了这两家。今天这个时间点这个行业最大的两家公司，或者说最最前面的两家公司，OpenAI sop c疯狂竞争的两家公司。我们已经很久没有见过一个细分领域的最头部的两家公司，而且都没有上市，疯狂的拼刺刀，在巷战中厮杀。我们已经很久没有见过了所以最最最简单粗暴的数据收入，AR2的数据其实在25年底的时候，大家就预期是说26年SOC的收入是有可能超过ONI的。结果没有任何人想到，在26年Q1，阿萨伯维公布的AR就超过了open a open a家open a open I这家公司从22年底发布拆GP到26年Q1之前，一直是引领这个行业发展的那个人。最简单粗暴的衡量标准当然就是收入涨得很好，可是底下有一个涨得更猛的，尤其进入到25年下半年Q3、Q4开始，也像挡不住了一样异军突袭。所以这两家最新公布的数字ONI是250亿美金的，ARSK达到了300亿美金。</p>
+<p class="transcript-line"><span class="time"><strong>[00:25:36]</strong> </span><span class="speaker"><strong>发言人1: </strong></span>当然这里面可能会有一些数据的标准不一致。比如说open I的收入数据是算到手收入的，他没有扣那个他是扣了云端的那个云服务厂商的渠道费用的，SP可能是没扣的。当然就是这些细节我们不讲了，反正从趋势上看就是这样的趋势。所以我们看到了，这个行业最头部的两家公司在短兵相争的疯狂厮杀。</p>
+<p class="transcript-line"><span class="time"><strong>[00:25:58]</strong> </span><span class="speaker"><strong>发言人1: </strong></span>那我们就分别看这两家公司，先看OK，或者说先看ChatGPT叫C端依然绝对领先的ChatGPT。我们先看用户量，用户量最新公布的应该是9亿的周活，而且这个数字还在涨。其实他的数据并不长得并不慢，对吗？他即便已经从1亿到3亿到2亿到5亿，到8亿到9亿，其实这个数字已经非常恐怖了。周火是周火，然后这个数据恐怖到其实你在25年下半年，大家会说gm可能对open I有一定的XGP上的影响。可是你看发现这个曲线，虽然那个比率红色的正面会确实在扩大，但是绝对领先还是产GPT的对吧？</p>
+<p class="transcript-line"><span class="time"><strong>[00:26:43]</strong> </span><span class="speaker"><strong>发言人1: </strong></span>从用户量角度来看，用户量看完用户量我们看第二个指标，留存依然绝对领先，而且这个领先的幅度更大。你会发现今天这个时间点在GPT的留存可以到月留存可以到71%，而且这个数字往上涨。这个在我之前的PPT也讲过，他拿到了微笑曲线，就是说他的留存在往上涨。也就是说他到了一定阶段之后，他过了那个线之后，这个东西往上涨。我们在抖音、在拼多多、在豆包上也出现类似的情况。可是其他厂商没有往上涨，还维持到一定水平。然后日活比月活也是一个衡量活跃的指标，或者是留存的指标，XGP依然是绝对领先的。所以在留存的角度来说，ChatGPT依然领先。</p>
+<p class="transcript-line"><span class="time"><strong>[00:27:33]</strong> </span><span class="speaker"><strong>发言人1: </strong></span>然后再看时长对吧，时长就更明显了，因为你想他本来用户量就大，留存又好，这两个数字一乘就是时长，所以在整个chatbot这个战场里，ChatGPT的时长依然疯狂的在累加。发现了吗？过去33页我们分别讲了用户量、留存跟时长。这三个指标恰好是我们今天这个时间点去衡量所谓的古典移动互联网项目最核心新的APP的指标，就是我们这批老登去衡量APP的公司的核心指标。但这里出现了一个问题，就是很多人会说AI时代这些古典的移动互联网的DAU留存时长这些指标可能已经没有任何意义了。小伟说是的，没有任何意义。</p>
+<p class="transcript-line"><span class="time"><strong>[00:28:25]</strong> </span><span class="speaker"><strong>发言人1: </strong></span>收入代表一切。就像前面讲的，很多人会想到26年的SV收入会超过，只是没有人想到会这么快快到一个季度就OK了，它会涨到了300亿美金的A2。然后从增速上来看非常的恐怖，25年底到24年底涨了十倍，如果只看三月份的话，涨了16倍。你要知道他是从几十亿美金涨到几百亿美金体量，这个数字非常的恐怖。所以小虎说你的你所care的那些用户量，留存跟市场，对我来说根本没有任何意义。在to b这个战场，to b这个企业的服务的战场，它会异军突起。你发现那个曲线，我说今天我们会见到无数次这样挡不住的曲线。</p>
+<p class="transcript-line"><span class="time"><strong>[00:29:11]</strong> </span><span class="speaker"><strong>发言人1: </strong></span>在to b的这个战场里，在模型的扩展的覆盖的范围角度来说，进入到25年下半年，其实open I就平掉了。但是在25年下半年开始暴涨，已经快追上opi了。然后更麻烦的是在to b的企业端默认第一首选的模型在25年26年1月份出现了一个交叉。交叉之后这两个公司就分道扬镳，它会继续往上涨，open还继续往下掉。但是在26年之前，OA还是企业首选AI模型公司。可是这件事情在26年1月份出现了一个巨大的交叉，就反过来了。所以在弊端战场攻城略地。对，攻城略地，然后那他们在做什么呢？</p>
+<p class="transcript-line"><span class="time"><strong>[00:29:54]</strong> </span><span class="speaker"><strong>发言人1: </strong></span>有人统计在过去的五十几个工作日里面，cloud这家公司发了七十多个功能跟产品。有时候平均一天有一个半功能跟产品发布。如果大家在互联网公司干的话，你会发现这个版本发布是不可能的。对于任何一家传统企业，对吧？有就每天可能有一天发好几个功能版本。所以大家开玩笑说睡醒了一睁开眼，然后又发新版本了。然后干掉cloud上一个版本，下一个cloud版本，然后干掉下一个版本，就是明天cloud要发的版本。所以每天一睁眼你看到各种各样新闻，就是他又发了个什么新的功能。</p>
+<p class="transcript-line"><span class="time"><strong>[00:30:26]</strong> </span><span class="speaker"><strong>发言人1: </strong></span>在过去的三个月时间差不多都是每天这样的节奏，每天如此疯狂的发布节奏。然后你把时间拉长来看，从22年底拆GP发布到今天这两家这个时间点，这个行业最领先的公司，在各种各样产品功能上的发布其实都没有停过。只不过进入到20年之后，SV更强势了，所以两家公司的竞争非常非常的激烈。我说过？这种曲线已经PPT上已经见过无数次了，对吧？</p>
+<p class="transcript-line"><span class="time"><strong>[00:31:04]</strong> </span><span class="speaker"><strong>发言人1: </strong></span>两家公司的收入曲线，然后另外一个曲线，两家公司的最头部的模型去执行任务的时长的曲线也是这样的。今天这个时间点，一个头部AI模型的agent可以不需要人类辅助下自己跑十几个小时。同样的把两家公司的收入放在一起去对比那些传统意义上的sas软件公司。你会发现他们从20年开始，一步一步的干掉了各种各样我们耳熟能详的软件公司。Day dog work day service now、adobe、salesforce这两家公司的收入超过这些公司的时间也是这样。还有我说过类似的这种曲线，我们会在今天PPT里无数次见到。</p>
+<p class="transcript-line"><span class="time"><strong>[00:31:49]</strong> </span><span class="speaker"><strong>发言人1: </strong></span>然后两家公司不约而同的选择了另外一种相同的策略，叫all in one。这个策略其实是中国的微信交给他们的，对吧？因为原来美国的APP是独立的，各种各样的业务是分开的。但是你发现在这个领域大家都往奥运one走。所以你发现出现一个变化，这是最新版的code x就是open I的code agent。但你发现这cos APP如果大家用的话，你会发现如果是一个没有全新的话，APP打开只有一个这样的对话框，跟你用ChatGPT是一模一样的。</p>
+<p class="transcript-line"><span class="time"><strong>[00:32:22]</strong> </span><span class="speaker"><strong>发言人1: </strong></span>Chat, 然后coding是做实施的效果。然后在最新版本的code x的这个APP里面，他们内嵌了一个浏览器。你要知道在这之前，chat code跟浏览器是三个产品，是open I内部定的三个最核心的产品。</p>
+<p class="transcript-line"><span class="time"><strong>[00:32:40]</strong> </span><span class="speaker"><strong>发言人1: </strong></span>今天all in one放在一起了。那unit的奥运one是什么呢？我们在技术那一章讲，今年最大的关键词叫honey。是那台车对吗？是模型之外那套东西对吗？大家会想那套东西应该是第三方公司来做，还是第一方公司来做呢？第一方公司是不可能不做的对吗？所以他最近推了他们的honors的这套外围的壳子。</p>
+<p class="transcript-line"><span class="time"><strong>[00:33:05]</strong> </span><span class="speaker"><strong>发言人1: </strong></span>就是我除了提供最好的名之外，我也给你提供基于这个模型最好的那台车，我针对这台车也要收钱。两家公司在all in one这个战略上的不同的选择，但是all in one是相同的。讲到这儿了，我们再往再把目光放远一点。我们只讲了两家公司对吧？OpenAI sop c这个领域最头部的两家公司。但是这个领域可能今天我们知道名字有十几家，20家公司，中国公司、欧洲公司、美国公司、上市公司、大公司、创业公司，各种各样的公司，对吧？</p>
+<p class="transcript-line"><span class="time"><strong>[00:33:39]</strong> </span><span class="speaker"><strong>发言人1: </strong></span>然后这张图也很有意思，这张图是我昨天晚上在不前天晚上在机场接的。因为这张图每天都在变，每天。所以今天模型厂商的竞争到底是什么情况？这张图上我只选了大概13家模型厂商，阿里的千问and sofia，百度deep sick，google kimi, meta mini max, OAI阶越XAI小米质朴，还有很多厂商我没有选。但你看那个位置，从26年底开始，那个位置就是最后的那个尾巴那个位置密密麻麻的，所有人都集中在一起了，发现了吗？然后最最最上面的是GPT5.5刚刚发的，因为如果不是最更新的，那个黑色的肯定低于offers对吧？每天那个那个线都在往上拉，每天都在。</p>
+<p class="transcript-line"><span class="time"><strong>[00:34:32]</strong> </span><span class="speaker"><strong>发言人1: </strong></span>然后你发现出现一个问题，左边这张图是我在春节之后3月9号那个版本里做的。我说春节期间正好是所有中国头部厂商在更新版本的。1月22号文昕跟踪是5.0，1月27号kimi 2.5，2月2号接约的3.5，2月11号质朴的GRN5，2月13号mini max 2.5，2月14号C的2.0，2月16号签了3.5，2月17号是大年初一，我没记错的话应该是这样的。所以在整个春节前的那一个月，中国的头部型厂商全部在疯狂的更新版本。</p>
+<p class="transcript-line"><span class="time"><strong>[00:35:05]</strong> </span><span class="speaker"><strong>发言人1: </strong></span>春节前到今天不过两个月的时间。你发现从3月16号开18号开始，me max更新了2.7，也就是说它距离它的2.5版本只过去了一个月05天。然后开始这进入到4月，尤其是上周开始，你发现每天甚至每天都有不止一个模型发布。3.6‰ plus GM5.1看，GM5.1，它五五是2月11号发的，4月7号就发了5.1。然后那个meta的新的模型终于发布了，然后是千分3.6的35B版本，然后OPPO4.7就是clouds，然后clock 4.3千问的3.6 max你看千问已经连续的一周发几个版本，然后kimi的K2.6，kimi的上一个K2.5是2 1月27号，他不过了，才过了三个月不到。千问3.6，你看又是千问，然后GPT5.5到周末dept sik 4.4，deep c4。</p>
+<p class="transcript-line"><span class="time"><strong>[00:36:04]</strong> </span><span class="speaker"><strong>发言人1: </strong></span>上一次头部模型厂商，因为中国模型厂商主动更新大版本是在一月到2月，再上一次是在25年的七月到8月。也就是说那个时候这个版本的更迭是按半年为计算单位的，可是到今天这个版本更迭是按两个月为计数单位的。再往后就是按月，就是你每个月都会看到这些模型厂商，尤其是投模型厂商不断的更新版本，是一个疯狂内卷疯狂加剧的过程。</p>
+<p class="transcript-line"><span class="time"><strong>[00:36:40]</strong> </span><span class="speaker"><strong>发言人1: </strong></span>在所有这些模型当中，大家最等待的多的你发现这右边这张图已经过时了对吧？因为我们等到了？这是一个KOL他在写他在等DCV4的这个心态。然后cloud说内部已经在测试一个非常牛逼的模型。它起的这个名字当然还在测还没有发布。所以说模型下一代还在疯狂。</p>
+<p class="transcript-line"><span class="time"><strong>[00:37:02]</strong> </span><span class="speaker"><strong>发言人1: </strong></span>你要知道发布出来的模型是以他们他已经他们已经训好的，甚至是已经训好的上一代模型。他们在训的跟已经训好在测试的又是两代？所以我们还好等到了？</p>
+<p class="transcript-line"><span class="time"><strong>[00:37:15]</strong> </span><span class="speaker"><strong>发言人1: </strong></span>在在上周，这是昨天晚上前天晚上在机场新加的，我们等到了GPT的5.5，非常强，口碑有点逆转？然后我们也等到了国人的骄傲，deep v4我们终于等到了。你要知道我在做上一个3月9号版本的时候，我就说过那个版本的标题，那个标PPT的标题就是V4不等了。我在那个时候是在等V4，还没有等到。还好我们等到了，我们今天真的等到了。Deep sig v4 dev 4怎么样呢？上面这张图是deep sig v3.2到deep sig v4的排名提升，下面这张图是在整个开源板块，depth v4基本上已经非常强了。</p>
+<p class="transcript-line"><span class="time"><strong>[00:37:51]</strong> </span><span class="speaker"><strong>发言人1: </strong></span>更重要的是右边这张图，右边这张图是一个帕雷托最优的图，什么意思呢？竖坐纵坐标是这个模型的能力表现，横坐标是它的价格越往那边越便宜。所以第四个最重要的，尤其是他那个小的规模的版本的意义在于，它在成本相对低的情况下达到了分数最高，这是DPCK的意义。</p>
+<p class="transcript-line"><span class="time"><strong>[00:38:11]</strong> </span><span class="speaker"><strong>发言人1: </strong></span>DPC今天已经不去承担把天花板捅漏的那个事情了。因为今天的时间点头模型竞争太过激烈，他已经不可能统漏了。但是他在承担另外一个角色，这个角色其实原来也是BC一直在承担的角色。所以你发现deep sk公布了它的token的价格之后，马上我没记错，应该今天早上新闻它的token的书那个价格就打了2.5折。2.5折你没有听错，直接砍到4分之1。所以第四个今天的价值是这个。</p>
+<p class="transcript-line"><span class="time"><strong>[00:38:42]</strong> </span><span class="speaker"><strong>发言人1: </strong></span>然后大家都学坏了，学坏了是什么呢？可是说他们的模型太厉害了，厉害到他们可以发现一个27年以来没有人发现的巨大的软件的漏洞。所以这个东西不能放开放出来太危险了，所以要去做测试。然后差不多同一时间，欧派也说我的模型也很厉害，也不能放出来，也太危险了。所以你看这个标题特别有意思，叫our new AI too is too dangerous to release to，就是我们也不能这样弄。我觉得大家都学坏了，就是我觉得有一定的营销成分。但是确实你可以想象这个模型真的强到了一定程度之后，他们才要这么干，对吧？那你说所以我我我家里说或许可能maybe也是需要的，也是需要在发布之前做更多的安全的测试，是有可能需要的。</p>
+<p class="transcript-line"><span class="time"><strong>[00:39:39]</strong> </span><span class="speaker"><strong>发言人1: </strong></span>所以我们提到的C我们就往下讲，就不得不提到另外一个关键词就是开源，对吧？然后这个关键词甚至可能是中国厂商来引领。所以在各种各样数据统计上，你发现无论从下载量，就是开源模型的下载量还是百分比来看，红色就是阿里的千问。</p>
+<p class="transcript-line"><span class="time"><strong>[00:39:56]</strong> </span><span class="speaker"><strong>发言人1: </strong></span>然后有deep seek，有国内的各种各样的厂商，包括可能美国有一些厂商，欧洲厂商也做。但是你会发现中国的某些厂商在开源这个板块非常的强势。上周美国国会专门开了一场关于中美AI对抗的听证会。有一位专门研究AI行业的类似大学的研究员，就引用这两张图来去讲。</p>
+<p class="transcript-line"><span class="time"><strong>[00:40:17]</strong> </span><span class="speaker"><strong>发言人1: </strong></span>相当于某种意义上来说，美国没有太多开源，相当于把这个事情拱手让给了中国厂商，他会认为这很危险。开源同样，开源引发的问题变成了中美对抗的问题。因为开源不仅仅只是开源软件的问题，它变成了中美两国在AI这件事情上竞争的最核心的占比。所以这个报告做的时候特意区分了中国模型、欧洲模型跟美国模型。从结果上来看，确实无论从模型能力还是模型的占比来看，中国模型厂商在开源这个板块确实非常的强，毋庸置疑的强。</p>
+<p class="transcript-line"><span class="time"><strong>[00:41:01]</strong> </span><span class="speaker"><strong>发言人1: </strong></span>然后我们讲完了coding，讲完了open I do on topic，讲完了开源，我们再往下讲应用。应用大家都会说AI要走到了应用环节里，对吧？这两张图是H6Z每半年会出的一张图，是他统计了前50大AI的网站以及前50大AI的APP。这个大的标准特别的简单，流量跟DAU但是又回到我刚才那个问题，在这个时代流量跟DAU还有价值吗？同样的，很多公司其实都非常多出现在榜单上。这个榜单本身的价值我觉得在被弱化。你会发现这个榜单的讨论越来越少了。因为大家发现流量跟DAU好像没有太大的价值。</p>
+<p class="transcript-line"><span class="time"><strong>[00:41:57]</strong> </span><span class="speaker"><strong>发言人1: </strong></span>但是我们还可以看到榜单的一些趋势。首先图片跟视频一直以来都是兵家必争之地。我也讲过无数次，我在判断的直播间也讲过无数次。</p>
+<p class="transcript-line"><span class="time"><strong>[00:42:10]</strong> </span><span class="speaker"><strong>发言人1: </strong></span>APS到今年已经十几年的时间，APS每年的最大应最佳应用绝大部分全部来自于图片跟视频这个领域。你看板块占比来看也确实如此。图片生成、图片编辑、视频生成、视频编辑一直占最大板块。但是同样也出了新闻，三月多少号？我看。</p>
+<p class="transcript-line"><span class="time"><strong>[00:42:29]</strong> </span><span class="speaker"><strong>发言人2: </strong></span>一下。</p>
+<p class="transcript-line"><span class="time"><strong>[00:42:30]</strong> </span><span class="speaker"><strong>发言人1: </strong></span>29号，应该是28号。OI关闭了他的视频生成的APP。Sorry, 大家想我操才过去一个月的时间，感觉像上个时代一样，对吗？这个新闻才过去不到一个月的时间，然后sara关闭当天我写了这条微博，我说sora关闭了，无数人看笑话，留存差这个瞎搞打败抖音的绝对不是另外一个抖音。这些观点应该你在无数的新闻媒体上都看到了。类似很多人挂在嘴边的，我早就说过这个APP不行，这不就是抖音的什么AI版，对吧？</p>
+<p class="transcript-line"><span class="time"><strong>[00:43:10]</strong> </span><span class="speaker"><strong>发言人1: </strong></span>大概率我觉得这些结论本身都是正确的。但很多时候这些判断会类似人总会死的情况是正确的废话。尤其在变革的当下，所有走过的弯路，我觉得最后可能都算输。</p>
+<p class="transcript-line"><span class="time"><strong>[00:43:24]</strong> </span><span class="speaker"><strong>发言人1: </strong></span>相较于那些议题，我觉得这个议题真正值得展开的是，或者说我想看到的表达式。第一，AI模型公司的架构选择，这个架构涉及到产品架构跟组织架构。第二，模型公司的资源的优先级，或者说如何权衡自身的token效率。因为今天这个时间点训练需要token，给用户提供服务需要token，研究新的模型也需要token，但token或者说算力是有限的，无论你用了多少钱。所以对于任何一家模型厂商而言，在今天这个时间点，token在内部的效率变得非常的重要。</p>
+<p class="transcript-line"><span class="time"><strong>[00:44:02]</strong> </span><span class="speaker"><strong>发言人1: </strong></span>优先级3，什么阶段、什么估值，什么市场的竞争地位的公司，如何做动态的战略取舍？这件事情是我们主动选择的取舍。因为他发现在摊子铺这么大，真的就追不上曹佩克了。但又想，谁会关心这些呢？然后你发现骚扰关骚扰two关闭之后出现了新的东西。GPT说我们关的是对的，因为我们推了更厉害的东西。就是最近两天大家应该被无数刷屏，叫GPT的新的视频模图片模型。因为two我当时看到的时候真的震惊的无以复加。</p>
+<p class="transcript-line"><span class="time"><strong>[00:44:46]</strong> </span><span class="speaker"><strong>发言人1: </strong></span>左边这张图是看到就一句生成词，叫生成一个抖音直播的截图。直播间名叫什么什么精选一个40岁左右的中年女性在北京央视大楼下讲解39.9的北京日游产品。一句提示词生成的结果是这样子，你发现他对什么叫抖音直播间了如指掌，评论区点赞、关注列表，什么红包用户数量排名，甚至连那个小黄车的卡都知道。这个事情还符合刚才我说的GPT，不是说抱歉。</p>
+<p class="transcript-line"><span class="time"><strong>[00:45:24]</strong> </span><span class="speaker"><strong>发言人1: </strong></span>Gym就是google gm在去年强势推出它的图片模型之后，再讲的就是在一桌的概念。什么叫在一桌？就是图片生成不单纯只是生成图片，图片理解今天世界所有的知识，就是语言跟图在一起在一桌。</p>
+<p class="transcript-line"><span class="time"><strong>[00:45:40]</strong> </span><span class="speaker"><strong>发言人2: </strong></span>然后你看我当时。</p>
+<p class="transcript-line"><span class="time"><strong>[00:45:42]</strong> </span><span class="speaker"><strong>发言人1: </strong></span>说法说新的GPT的新的图片模型，其实还是符合之前这边在做的多模态和语言是一桌的逻辑。就是不是单纯的画一张图，而是非常明显的带有逻辑跟know how。而且看起来因为这to比na banana更能理解世界发生了什么。但就像我们前面讲的，最近半年这个是业界的主线是coding对吧？但是直到我还是会被震惊于这一轮image two的能力。</p>
+<p class="transcript-line"><span class="time"><strong>[00:46:13]</strong> </span><span class="speaker"><strong>发言人1: </strong></span>右边这张图也应该你也应该看过，这张图的提示词是把原神、明朝、洛克王国、黑神话悟空做一张联动的类似活动的推广图。你知道这个事情的难度在哪里吗？原神、明朝、黑神话、悟空、洛克王国是分别属于四家公司的产品。</p>
+<p class="transcript-line"><span class="time"><strong>[00:46:38]</strong> </span><span class="speaker"><strong>发言人1: </strong></span>这张图做完，在最底下有一个版权说明，版权说明里把米哈游、库洛游戏科学跟腾讯都写到了。听懂了吗？我的提示词是这四个游戏的联动。他知道一张这样的图底下需要有一个版权声明。他同时也知道这4款游戏来自于哪四家公司，并且把他们的大小写都写对了。所以还是非常强的，非常非常强。</p>
+<p class="transcript-line"><span class="time"><strong>[00:47:15]</strong> </span><span class="speaker"><strong>发言人1: </strong></span>然后再往下看对吧？我们谈论那么多，大家说DAU留存都不重要，那重要的看上去只有收入了，对吗？只有收入了。所以我们又回到了AR老生常谈。除了我们看到几家coding公司，AR涨得非常之外，我们还能看到哪些公司口径长得很AR涨得很好。</p>
+<p class="transcript-line"><span class="time"><strong>[00:47:34]</strong> </span><span class="speaker"><strong>发言人1: </strong></span>这张图也更新了无数次版本，这张图叫什么呢？叫一家AI公司从一做到1亿美金A2所需要的时间。这个记录在过去几年疯狂的不断的被打破，时间的记录最新被打破了两家，一家叫李goa，一家叫waz，后面还有一家叫harvey。这两家公司libra跟哈维都是做法律的对吧？李阁A哈维跟李波A都是做法律的。</p>
+<p class="transcript-line"><span class="time"><strong>[00:48:03]</strong> </span><span class="speaker"><strong>发言人1: </strong></span>然后很有意思的是，如果大家听我播课时间比较长的话，我在24年应该是几月？五月还是四月的时候跟科技就是s look科技我们做过一次整理，是整理YC所有的创业公司的。24年五月份我们做的整理。在那个时候我们我记得特别清楚。在那天早上起我去找扣一，我在路边的便利店买东方树叶，然后打开手机刷新闻的时候，哈维在那个时候刚刚融A轮5000万美金。然后在我做这个PPT的那一天，哈维已经110亿美金了。两年多，不到两年，抱歉。所以我跟寇姐说，我说哈维已经110亿美金了。</p>
+<p class="transcript-line"><span class="time"><strong>[00:48:49]</strong> </span><span class="speaker"><strong>发言人1: </strong></span>记得我们那天见面聊的第一个第一句话，我们就是哈维刚刚融资了。他说所以可以说当时就应该投的，但是我没有办法投的这是一个侧面了。我觉得这两年两三年真的发生太多事情。然后再再看另外一个角度，就法律只是一个切面，这个切面其实切了非常多的行业。</p>
+<p class="transcript-line"><span class="time"><strong>[00:49:10]</strong> </span><span class="speaker"><strong>发言人1: </strong></span>右边这张图是一个对美国很多CIO就是首席信息官的统计。他们到底想看什么样的预算？首当其冲的是IT预算跟软件的sas预算，完全不砍的是安全的预算。那砍掉这些预算去干嘛呢？当然去做AI了对吧？</p>
+<p class="transcript-line"><span class="time"><strong>[00:49:28]</strong> </span><span class="speaker"><strong>发言人1: </strong></span>所以有另外一个角度，这是红杉画的一个图。就是说他会认为什么样的行业跟什么样的工种会有最先被AI所替代。第一个是就它分两个坐标轴。第一个坐标轴横坐标轴是左边是更多的这些东西是靠所谓人类判断的，右边那套是靠信息跟搜索的。然后上下两个是分外包跟内内内部做的那最危险的当然就是外包，已经外包出去了，来做信息相关的工作了。什么保险，什么IT设是啊这些，然后相对好一点是扣拍的。第二个就是也是外包，但是更多是基于人类的判断的那他可能现在AI能做的是快copilot，就是这个管理的consulting，对吧？</p>
+<p class="transcript-line"><span class="time"><strong>[00:50:10]</strong> </span><span class="speaker"><strong>发言人1: </strong></span>然后。第三象限，第三项是那里，这个是靠内部的，但是更多是靠判断的。这个相对来说还在观察中下一波的可能就是今天这个时间点更多是靠信息，但是内部在做的这些事情，可能下一波就会把他们吃掉。所以今天的时间点，这些行业几乎已经包含了所有我们能够想到的垂直行业，只是先后的问题，没有谁绝对安全的问题。所以我们讲完了这个技术产业，对吧？</p>
+<p class="transcript-line"><span class="time"><strong>[00:50:42]</strong> </span><span class="speaker"><strong>发言人1: </strong></span>那我们已经讲到了，你会发现这个话题慢慢影响到了很多人。今天探讨问题什么AI替代软件，替代人类，那我们就开始正式讨论这个问题。所以我们在这个问题上加了一个新的框架，就是关于资本市场的框架。</p>
+<p class="transcript-line"><span class="time"><strong>[00:50:57]</strong> </span><span class="speaker"><strong>发言人1: </strong></span>我们从资本角度来去讲这件事情。首先讲软件跟暴跌，可能也是过去一个季度整个二手市场最核心的议题。然后讲过去三年引领整个市场发展的所谓的那几家大家伙麦克7，然后从mac 7再扩到真正意义上整个安全市场的变化。然后再讲泡沫算力。最后讲一点点我更熟悉的意义上，我们就结束今天的内容。</p>
+<p class="transcript-line"><span class="time"><strong>[00:51:20]</strong> </span><span class="speaker"><strong>发言人1: </strong></span>软件。你应该见过无数的新闻说软件或者SARS已经死掉了。然后有人说当年会说软件吞噬世界，那这一轮就是AI推事软件从结论上来说特别的简单，标普500所有公司截止到26年，这应该是这张图应该是做在26年2月份二月底左右。所有板块涨得最好的energy能源，涨最差的红色的跌了20%。Sofa软件股市场是非常简单的，涨跟跌是非常清楚的对吧？</p>
+<p class="transcript-line"><span class="time"><strong>[00:51:53]</strong> </span><span class="speaker"><strong>发言人1: </strong></span>然后今天这个事情，其实市面上有两种非常截然不同的两种观点。对于软件股的认知这边是说所有软件股的增长开始放缓，AI开始影响这些软件股的利润率。并且更核心的问题就像我们前面那张图一样，AI真正意义上在影响软件和sas公司的商业模式，在颠覆你的根本，这是负面的那当然有正面的观点会认为软件公司还是增长非常稳定的，并且在各个细分板块最领先的公司，依然是强者恒强的。而且今天实现软件其实被AI打开了新的潜在的规模。这两方的观点听起来都是正确的，谁就选择相信哪一边代表了你的动作，对吧？</p>
+<p class="transcript-line"><span class="time"><strong>[00:52:33]</strong> </span><span class="speaker"><strong>发言人1: </strong></span>然后从另外一个结论来看，软件股的sas软件股的PE跟标普500的PE经历了一个巨大的波折。然后现在回到了一起。也就是说今天这个时间点，标普外所有公司软件股已经不是什么特殊的股份了，它不应该享有所谓的溢价。大家PE回到了一起，对吧？我觉得数字还是非常简单的，直白的惨，对，惨的一塌糊涂。两张图，这张图截止到26年4月9号，那张图应该是截止到26年Q1的。我没记错的话，你发现这些软件公司最疯狂的跌到了跌了4分之3对吧？然后如果这只是要这个历史的数据，然后如果比过去一年的这个数字的话，你像菲格玛跌了80%几，我没记错的话应该是吧，快跌到跌90%了，然后。</p>
+<p class="transcript-line"><span class="time"><strong>[00:53:25]</strong> </span><span class="speaker"><strong>发言人1: </strong></span>Dat dog adobe service now你发现了吗？刚才那张open a加and sofia收入超过两曲线上的公司都在这里出现了。你能知你能听过名字的大部分软件的sas公司，在过去一个季度的经历非常痛苦的过程，惨的一塌糊涂。惨到什么程度呢？这些公司的PE低到可以只有十倍，用明年的PS算可能只有四倍。就是跌无可跌了十倍的PE4倍的PS你要知道这些软件公司毛利可能有70%，已经跌成这个程度了。那就出现了一个问题，这个估值水平是不是已经体现了所有我们刚才那些负向的担忧。</p>
+<p class="transcript-line"><span class="time"><strong>[00:54:14]</strong> </span><span class="speaker"><strong>发言人2: </strong></span>是不是看。</p>
+<p class="transcript-line"><span class="time"><strong>[00:54:18]</strong> </span><span class="speaker"><strong>发言人1: </strong></span>两个例子，第一个例子service now这家公司。这个图我当时看完真的非常震惊。瑟维斯道。今天十点P已经跌到了23，这张图只截止到上次季度财报service频道昨天晚上还是前天晚，刚发完财报又跌了十几个点。一晚上跌十几个点，你知道什么概念吗？就PE直接跌好几个数字，但是你看到他的收入一直在涨。这么老的一家公司，又是那么传统的业务，能保证每个季度收入增长这么稳定的情况下，股价一直跌到这个样子。从巅峰可以到132倍的PE跌到现在只有23倍，可能今天实际数已经只有十几倍的PE了。</p>
+<p class="transcript-line"><span class="time"><strong>[00:54:54]</strong> </span><span class="speaker"><strong>发言人1: </strong></span>然后更有意思的一个数字是去统计标普500所有公司在发财报的时候的财报，分析师的会议上高管们提到AI跟盈利这两个关键词的对比特别有意思。你发现22年底OPTP发布之后，AI异军突起。但是财报分析师会议当然大家要谈的是利润，对吗？但这个数字什么时候出现了变化？25年Q2开始，AI变得更重要。所以这些公司即便收入利润还在涨，但市场不关心了该跌还是跌。</p>
+<p class="transcript-line"><span class="time"><strong>[00:55:32]</strong> </span><span class="speaker"><strong>发言人1: </strong></span>你回头来看这么多年，其实软件股一直都是非常优等的。比如说收入增长，平均来看，软件股恢复在17%，其他标准外公司只有6%毛利。软件股平均毛利74%，印钞机一样4分之3的毛利，收入的确定性基本上今年的收入，明年的收入今年就能确定，对吧？一直软件股为什么在那个时间点享受了高估值？因为他们确实在过去这么多年一直是优等生。</p>
+<p class="transcript-line"><span class="time"><strong>[00:56:03]</strong> </span><span class="speaker"><strong>发言人1: </strong></span>但是这轮好像不太一样，这次可能真的有点挡不住了，什么意思呢？就是原来比如说你是一家公司，要做一个相关的事情，做传统的方式到6个月花50万。然后今天可能有低代码的方式，你可以用6周五万。然后今天有web coding了，你可能只需要6个小时50美金，而且你可以自己搞。然后更简单的方式是说，比如说你有收入，然后你的成本结构去算。你把成本结构拆开，付给英特尔云的钱，付给知识的钱，付给营销的钱，付给专业服务的钱，到你的毛利，再到付给研发、销售、marketing IT内部成本，各种各样的板块。你发现AI在改变这些板块，所有板块的毛利水平，那减吧减吧，全减完，你发现好像都能减掉几个0。这就是今天这个时间点对苏AAI对于sas跟软件股的最大的担心。</p>
+<p class="transcript-line"><span class="time"><strong>[00:56:59]</strong> </span><span class="speaker"><strong>发言人1: </strong></span>然后有个比喻是说，SARS这个词的缩写叫software as a service。原来的SARS是说我给你提供软件，对这个软件是作为服务的。但是今天你发现反了，service as a software AI提供了一种能力，你想做软件是吗？自己做就好了，我只给你提供服务就好了。但是当这个商业模式变成这个样子的那确实建立在原有商业模式，这些公司都会非常受到非常大的挑战。然后你发现这件事情的影响扩大了，影响的不仅仅是软件股，也开始影响过去三年多一直引领该行业发展的所谓的那些大家伙们。</p>
+<p class="transcript-line"><span class="time"><strong>[00:57:44]</strong> </span><span class="speaker"><strong>发言人1: </strong></span>Mac 7在OpenAI发布chat GP的第一年二三年，引领了整个行业发的增长，24年依然引领，但差距在变小。25年就不引领，25年是AI的软件跟AI的，比如说能源公司来引领到，26年他们开始领跌了。截止到Q1 mac 7无1例外全部跌跌的，最狠的微软跌了3分之1。1998年以来就是微软表现最差的一个季度，26年QE微软做错了什么吗？除了copas做的不好之外，没做错什么。</p>
+<p class="transcript-line"><span class="time"><strong>[00:58:16]</strong> </span><span class="speaker"><strong>发言人1: </strong></span>那他为什么跌成这个样子？这家伙们依然非常非常大，而且越来越大。N video苹果、google、微软、亚马逊、特斯拉依然非常大。他们占整个标普百的比例也越来越高，对吧？他们还非常非常大。</p>
+<p class="transcript-line"><span class="time"><strong>[00:58:37]</strong> </span><span class="speaker"><strong>发言人1: </strong></span>但是你看这大到什么程度？比如说这是年初恩伟英英伟达的这个发布会上，英伟达的预期。你发现你要知道这个坐标系，其实你画的非常夸张了。你抛掉27年这个预期这个坐标系，原来你要想他从二三年、24年、25年、26年过去三年，英伟达收入已经暴涨到不可预知的地步。但是即便是这样，26年大概是两千多亿的收入的情况下，他预计27年要破到1万亿，也就是一年要翻五倍。</p>
+<p class="transcript-line"><span class="time"><strong>[00:59:05]</strong> </span><span class="speaker"><strong>发言人1: </strong></span>但现在英伟达已经世界最大的公司的情况下，还要翻五倍，为什么？因为所有的巨头在今年依然疯狂的加注所谓的KBS，中国的厂商也一样。这张图是中国的头部互联网巨头们对KBS的投入。百度、腾讯、阿里跟字节在这件事也不会放弃的。所以大家伙们依然很大，收入增长也很好。</p>
+<p class="transcript-line"><span class="time"><strong>[00:59:27]</strong> </span><span class="speaker"><strong>发言人1: </strong></span>那为什么跌成这个样子？出现了一些问题，投这么多钱影响的是什么？看这些公司的收入跟catch low from Operations，运营现金流还行，其实他们收入增长和利润都还可以。但出问题的是什么？现金流开始flow，就是自由现金流出现了问题。因为要投那么多钱，短时间不可能回来，所以这个曲线是这样。</p>
+<p class="transcript-line"><span class="time"><strong>[01:00:03]</strong> </span><span class="speaker"><strong>发言人1: </strong></span>然后最头部的这几家公司是最明显的，三家云公司加meta这个不要命的人。四家公司在KPS上一年要投3000亿美金，收入再涨他们也扛不住了。所以大家担心这些公司的收入，这些公司的现金会出问题。</p>
+<p class="transcript-line"><span class="time"><strong>[01:00:22]</strong> </span><span class="speaker"><strong>发言人1: </strong></span>最核心的担心，所以出现了一个变化，就是市场对于麦克七重新定价，微软、meta特斯拉。然后这张图是过去52周的这张图是26年截止到3月27号，就Q一的基本上趋势一模一样的都在跌，而且跌了不少。然后看英伟达，从PE角度来说，英伟达的forward的PE就是新的一年的这个收入，那个利润算PE已经只跌到了17倍。然后你要知道这个图跟刚才设备service now那张图是一模一样的。就是它的收入一直在涨，疯狂在涨，但它一直在掉。我也讲过很多次，英伟达的股价横在180到200已经九个月的时间了。这九个月时间里，英伟达已经发了两次财报，两次财报都是超预期的那为什么它横在这儿了呢？</p>
+<p class="transcript-line"><span class="time"><strong>[01:01:21]</strong> </span><span class="speaker"><strong>发言人1: </strong></span>更有意思的是，今天是还是看PE的话，微软、亚马逊、google和meta这四家疯狂在KPS上投入的公司的PE倍数只有20到30倍。可是市场给沃尔玛跟costco已经40倍到50倍了，沃尔玛costco明年的收入增长预期只有4到9个点，英伟达有70%的收入增长不合理不是吗？我为什么给一个只有4%增长的公司，超过40倍的P而且又是一家传统的不能再。</p>
+<p class="transcript-line"><span class="time"><strong>[01:01:53]</strong> </span><span class="speaker"><strong>发言人2: </strong></span>传统。</p>
+<p class="transcript-line"><span class="time"><strong>[01:01:53]</strong> </span><span class="speaker"><strong>发言人1: </strong></span>的沃尔玛市场到底在买什么，或者在怕什么？这件事情再扩大，你会发现纠结的不仅仅是软件股跟mac 7，还有市场本身。因为那些最大的家伙们已经可以影响市场了。所以你看整个标500的整整个曲线，从去年开始到今年的曲线，那个大坑是中美贸易战砸出来的。在那之后标500就一直涨，直接涨到20年Q1开始跌跌了一个小坑出来。</p>
+<p class="transcript-line"><span class="time"><strong>[01:02:25]</strong> </span><span class="speaker"><strong>发言人2: </strong></span>对吧？</p>
+<p class="transcript-line"><span class="time"><strong>[01:02:28]</strong> </span><span class="speaker"><strong>发言人1: </strong></span>然后你发现在整个Q一回看Q一的整个的所有公司的财报，我们刚才提到那些公司大部分都在科信息科技这个板块。超过90%的公司的收入增长是超预期的，也是他们的业绩很好，但跌的一塌糊涂。你看那几家大的全都跌的一塌糊涂，对吧？英伟达、苹果、高通、微软、google、亚马逊、meta、特斯拉跌的一塌糊涂，但他们收入涨得很好。同样的一样的问题，整个标普500其实单股盈利一直在涨，可是标普500所有公司的收入现金流。掉的非常的厉害。</p>
+<p class="transcript-line"><span class="time"><strong>[01:03:13]</strong> </span><span class="speaker"><strong>发言人1: </strong></span>更有意思的一点是，我们刚才说信软件股的PE回归到了跟所有股票一样。今天告诉你所有AI的相关的information，相关的公司的PE也回到了跟标普百平均的PE一样的地步。也就是说如果单纯看PE的话，过去三年的那个高峰已经消失了。我们过去三年对所有信息科技的优待跟议价也消失了。</p>
+<p class="transcript-line"><span class="time"><strong>[01:03:44]</strong> </span><span class="speaker"><strong>发言人1: </strong></span>然后市场总有人长得好，那长得好在1Q1最核心的存储跟光看所有公司，最前面3 desk就是异军突起的存储物。然后这张表上26年应该是涨得最好的一些公司。3 dex西部数据、希捷、美光除了做硬盘就是做内存的那几个蓝色的全都是做光的。所以为什么中A股的什么中续继创最近涨得很好，也是这个逻辑对吧？</p>
+<p class="transcript-line"><span class="time"><strong>[01:04:08]</strong> </span><span class="speaker"><strong>发言人1: </strong></span>市场只有存储跟光两个主题了，但是很有意思，市场跌多了就会涨。非常简单朴素的道理，对吧？所以你看那个坑，你这张图是更新的，这张图上一个版本黑色的那个部分是截止到Q1的。可是在那之后，在最近的一周飙五百重创新高。看我上面的标题里面叫0417这张图截止到4月17号，4月17号的飙500涨到了历史新高。</p>
+<p class="transcript-line"><span class="time"><strong>[01:04:42]</strong> </span><span class="speaker"><strong>发言人1: </strong></span>那个小小的坑在一周之内迅速的涨回来了。那几家刚才比沃尔玛跟costco都低的P的公司的PE在那，你看那个尾巴也开始长起来了。市场总是在这样波动，对吧？市场跌多了就会涨回来。英伟达重新回到5万亿美金了英伟达重新回到了5万亿美金，也就是他突破了200那个界限，然后标500达到了历史新高。</p>
+<p class="transcript-line"><span class="time"><strong>[01:05:09]</strong> </span><span class="speaker"><strong>发言人1: </strong></span>然后我就回头去翻，我的即刻翻到这样一条极客。因为我有印象，1月28号的时候，王慧文说了这样一句话。他说人类容易用历史经验去过度简化在预测未来。比如用2000年互联网泡沫来预测AI的股市优势。所以AI会不会回调，或者根本不会回调。</p>
+<p class="transcript-line"><span class="time"><strong>[01:05:30]</strong> </span><span class="speaker"><strong>发言人1: </strong></span>女生说这次不一样吗？我在下面说看起来很有可能发生的情况是，哪怕回调剧烈的回调也会非常短时间拉回来。现在看上去就是这样？上一页，那里发生了剧烈的回调，那里剧烈更剧烈的拉了回来。那到底发生了什么来去验证这件事情。我们我们抛开市场在讲另外一件事情，就是这个泡沫跟算力的事情。这张图你们应该看过另外一个版本，这张图是讲什么？</p>
+<p class="transcript-line"><span class="time"><strong>[01:06:07]</strong> </span><span class="speaker"><strong>发言人1: </strong></span>是讲美国的办公室的投入跟数据中心投入的曲线。这个数字在25年Q3有个版本，他俩接近在25年正好他俩超过了。然后超过之后出现的问题是你要知道在未来几年数据中心的投入是暴涨的，但给人类的办公室是不可能再涨的。也就是说给硅基世界的办公室在暴涨，给人类的办公室在一定而且是暴涨，这个数字超过之后就飞了，对吧？所以有人预期在未来五年，AI训练跟AI推理带来的数据中心的可能要占比整个数据中心的超60%到70%。</p>
+<p class="transcript-line"><span class="time"><strong>[01:06:47]</strong> </span><span class="speaker"><strong>发言人1: </strong></span>今天这个时间点，数据中心已经变成所谓的token跟工厂了。Token就是收入，就这么简单粗暴对吧？然后造成的结果是说所有的厂商就开始囤算力了。最头部的五家公司，微软、google、亚马逊、meta、oracle 5家公司加一起的算力可能占整个市场60%到70%。把中国都算进去了，我们把中国一个整体算进去了也仅仅跟occa差不多。所以算了这件事情我们还是有一定的压力的。</p>
+<p class="transcript-line"><span class="time"><strong>[01:07:20]</strong> </span><span class="speaker"><strong>发言人1: </strong></span>造成结果是什么呢？这样同学很有意思，就是我们去衡量今天这个时间点，市场对算力需求很重要的一个指标就是显卡的租赁的价格，就是GPU的租赁价格。六年之前还是五年之前发布的H100，也就是说这个H100发布的时候，ChatGPT还没有发。按理说这个显卡应该已经淘汰了，对吗？但是我告诉你，过去一个季度，H100的租赁价格还在涨。整个市场供不应求。同时英伟达在做的事情是说，把它赋予的现金流投给那些做算力租赁跟算力叫我们叫new cloud公司。在他在疯狂投资这些它的生态公司，所以不会跌下去的租赁价格不会跌下去的，然后造成结果半导体行业直接起飞。</p>
+<p class="transcript-line"><span class="time"><strong>[01:08:07]</strong> </span><span class="speaker"><strong>发言人1: </strong></span>十年之前的半导体行业是高通、是博通、是联发科。今天英伟达、博通AMD、高通牙科，然后中国的这些所谓的GPU公司跟CPU公司也迎来了增长，有要上市的上市，暴涨的暴涨，订单的起飞的起飞，盈利的盈利，半导体行业起飞。然后还有一点是过去两周左右业界最大的讨论。我们在过去几年一直强调算力是GPU带来的那相对的失意的一方就是CPU英特尔EMD这些公司。但是周五英特尔发完财报暴涨20个点，AMD跟着涨14个点，市场重新把CPU拉到了舞台中央。然后回头来看，截止到26年，应该这张图是截止到上周的。英特尔在今年已经翻倍了。A ARM已经涨了68%了，AMD也涨了50%了。</p>
+<p class="transcript-line"><span class="time"><strong>[01:09:12]</strong> </span><span class="speaker"><strong>发言人1: </strong></span>为什么又回到我们最前面讲，我们讲今天整个行业最大的共识是什么？是harness，是agent的编排跟任务的处理。这个事情不是GPU干的，更多是CPU干的。所以在训练的年代，一个数据中心常见的更多是为数据模型训练的。</p>
+<p class="transcript-line"><span class="time"><strong>[01:09:32]</strong> </span><span class="speaker"><strong>发言人1: </strong></span>数据中心在做的时候，一般是一个CPU配七到8个GPU。到了inference就是后训练开始强化学习的时候，一个GPUCPU要配4个GPU。在今天agent崛起了，一个CPU要配一个GPU，CPU变得重要了。什么程度呢？我的说法就是矫枉必须过，这个市场的规律就是这样的。所以英特尔的股价超过了2000年互联网泡沫的时候。</p>
+<p class="transcript-line"><span class="time"><strong>[01:10:07]</strong> </span><span class="speaker"><strong>发言人1: </strong></span>在经历了二十多年的曲折的发展之后，在上周英特尔的股价超过了2000年互联网泡沫的时候，英特尔今天的市盈率已经超过100倍了。如果大家在上一次的狂喜这个节这个现场听过我的故事的话，我讲过当年互联网泡沫最代表的公司思科，巅峰的市盈率117倍，这个数字非常疯狂。而现在看起来刚刚开始，这个概念刚刚开始炒。如果大家有有勇气炒短期，我觉得英特尔跟MD最近是有比较大的波动，大家可以试一试。所以除了这个CPU之外，还是这个存储的光依然长得非常好，对吧？3D是个美光那家光的公司，然后整个数据中心相关的股票在整个QE涨得确实非常好，这是基本上是共识了。</p>
+<p class="transcript-line"><span class="time"><strong>[01:11:05]</strong> </span><span class="speaker"><strong>发言人1: </strong></span>但是就跟市场涨了总会跌，市场这么强的预期一定会出现一些问题。首先的问题是，虽然这几家巨大的云厂商的KPS疯狂的提，但是你看半导体公司的KPS受限于。物理世界的极限，他们不可能提的那么快。无论是先进制造、封装、产线设计，甚至政府审批。再说到政府审批，从二我们一错应该是特朗普是24年还是25年上任，对吧？</p>
+<p class="transcript-line"><span class="time"><strong>[01:11:40]</strong> </span><span class="speaker"><strong>发言人1: </strong></span>数据中心这一波浪潮来了之后，你会发现今天26年回头去看25年，美国有超过一半的数据中心延期。土地审批不下来，没有工人造，没有发电机，所有事情往后延。我们所有人的预期都会认为我写一个数字，一句话叫不是那么容易的事情。物理世界有非常多的局限来限制你，所以事情没有那么一帆风顺。然后最后一个小的议题，议题。</p>
+<p class="transcript-line"><span class="time"><strong>[01:12:10]</strong> </span><span class="speaker"><strong>发言人2: </strong></span>市场就是。</p>
+<p class="transcript-line"><span class="time"><strong>[01:12:12]</strong> </span><span class="speaker"><strong>发言人1: </strong></span>柱状是代表投资金额，曲线代表投资项目数量。然后从2016年统计到2026年，大家有没有发现这张图有什么问题？今天是几号？四月底而已，26年的数字已经是这个样子了。如果我不说，大家可能会觉得26年好像已经结束的样子，对吗？26年只过去了四个月，他的他已经变成这个样子了。你如果把它线性外推，你应该知道26年如果全年的话，他应该已经突破那个天花板了，对吧？他已经比头顶要高了。</p>
+<p class="transcript-line"><span class="time"><strong>[01:12:50]</strong> </span><span class="speaker"><strong>发言人1: </strong></span>26年的Q1在历史上来讲是创历史记录的Q1，人类从来没有见过的Q1，一个季度以上投资出去3000亿美金。按季度看，它甚至超过了21年疫情放水的那个时候。然后我们刚才说整个Q一真正的卖mac 7不太行，一直想告诉你，我们这边有我们的mac 7SpaceX OpenAI XAI data bricks anthropic全都是该公司。Stripe是做支付的，但其实他也是享受这一波代表，所以这所谓的意义上上的mac 7有6家是I相关公司。然后前五大基金募走了市场4分之3的钱，前五大项目募走了市场4分之3的钱，大者恒强。OpenAI SO都是在Q一融了非常多钱的超级大to.</p>
+<p class="transcript-line"><span class="time"><strong>[01:13:42]</strong> </span><span class="speaker"><strong>发言人2: </strong></span>p 5的big .</p>
+<p class="transcript-line"><span class="time"><strong>[01:13:44]</strong> </span><span class="speaker"><strong>发言人1: </strong></span>deal，当然要配top 5的big fun。然后造成结果是说，哪怕今天这个时间点SPX没有上市，我也没有上市。但是这两个公司的市值已经可以排到全世界的前15。我们把今天世界上所有最值钱的公司全部列在这里。SpaceX我们已经在这个表里了，他们还没有上市。</p>
+<p class="transcript-line"><span class="time"><strong>[01:14:06]</strong> </span><span class="speaker"><strong>发言人1: </strong></span>那他们上市了之后，然后看YC的统计，每个季度YC会投各种各样的项目。在我跟科技24年做统计的时候，YC的项目还是分AI跟其他的。今天对不起，只有没有其他，连其他都没有了。95%以上的项目是AI项目。</p>
+<p class="transcript-line"><span class="time"><strong>[01:14:29]</strong> </span><span class="speaker"><strong>发言人1: </strong></span>然后同样的你会发现今天这个时间点，一市场的所谓的后期市场成为了公开市场。也就是说对于他这些大家伙们而言，他不需要去上市。他想目前就目前想发股就发股，想怎么样想收购就收购。同样的为什么？因为二市场经历调整过之后，二级市场给这些后期公司的PE倍数跟PS倍数非常的差。可是一级市场愿意给一家业绩上非常的慷慨，所以他们就可以选择不上。</p>
+<p class="transcript-line"><span class="time"><strong>[01:14:55]</strong> </span><span class="speaker"><strong>发言人1: </strong></span>然后这两家最大的公司的收入预期其实已经过时了。因为这张表做的时候已经是上个月的事情，你发现两个公司的收入预期已经在每个月更新，很恐怖对吧？Open and sofia的收入预期欧派A大到什么程度？欧派派八千多亿美金，相当于麦当劳加、迪士尼加、波音加、uber加、福特加这些公司。八千多亿美金的公司其实收入只有250亿美金，对吧？我们已经达到这个程度，那open I达到这个程度，现在这个时间点比它更好的SO值多少钱呢？</p>
+<p class="transcript-line"><span class="time"><strong>[01:15:31]</strong> </span><span class="speaker"><strong>发言人1: </strong></span>Q two他投资人质疑给了个预期，2030年爱所会可以值2万亿美金。如果大家同样在听上一次听过我讲这个故事的时候，应该知道trAiling这个数字万亿美金是一个非常恐怖的数字，对吧？Go to说2330年SO也就值2万亿。这个市场最有意思是说，当一个数字被喊出来，他就会被迅速打到。所以他今天在一级半市场里已经可以跑到1万亿美金的市值了。就在今天google加码了400亿美金。所以你发现那几家巨头除了微软之外，微软其实也在两个阵营，英伟达阵营跟google阵营，或者英伟达阵营跟TPU阵营，跟TPU阵营都在上上下了重注，甚至包括亚马逊。</p>
+<p class="transcript-line"><span class="time"><strong>[01:16:21]</strong> </span><span class="speaker"><strong>发言人1: </strong></span>听起来open有点危险了，对吧？但是open还告诉你我有巨大的泡沫的网络，对吧？这个循环这张表你们在上次这个场合应该也听过，对吧？那这张表变得更复杂了，这张表还没有画anthropic，如果把aupic画了，这张表会非常的复杂。然后标普。</p>
+<p class="transcript-line"><span class="time"><strong>[01:16:39]</strong> </span><span class="speaker"><strong>发言人2: </strong></span>500就像.</p>
+<p class="transcript-line"><span class="time"><strong>[01:16:40]</strong> </span><span class="speaker"><strong>发言人1: </strong></span>我们刚才说的，从去年4月中美贸易战砸出了坑之外，一直涨。然后Q又砸出了坑，但迅速又拉回来了，对吧？这个市场在经历各种各样乱七八糟的事情，非常多的事情，循环融资历史新高，各种各样的事情。</p>
+<p class="transcript-line"><span class="time"><strong>[01:16:56]</strong> </span><span class="speaker"><strong>发言人1: </strong></span>然后那自然而然的又是那个问题，我们到底在哪儿？这个议题我在上一次上也讲过，所以有篇文章写我们可能在1999年那个样子，在这儿的话，那就代表着我们距离泡沫确实越来越近了。但是我们可能有一段最最疯狂增长期还没有经历，对吧？那就跟所有的这种周期曲线是一样的。我们是否在山脚下可能不太现实，大家大部分人认为我们在山腰，当然也有一些基金观点说我们已经过了山峰再往下走了。每个人有自己的选择，我们不去探讨谁对谁错，每个人有自己的选择，反正我只把我所能看到的所有的这些信息列在这儿。</p>
+<p class="transcript-line"><span class="time"><strong>[01:17:33]</strong> </span><span class="speaker"><strong>发言人1: </strong></span>按理说今天的这个内容应该全部都讲完了，对吧？按照正常的技术资本，这个产业三章都讲完了。但是我在做PPT的时候，我做到这儿的时候，我觉得在今天这个时间点，我们可以讲一点别的事情。尤其在过去几个月，我相信大家有更多的体感想，讲点别的事情。</p>
+<p class="transcript-line"><span class="time"><strong>[01:17:54]</strong> </span><span class="speaker"><strong>发言人1: </strong></span>第一张图，这张图是我一位中信的朋友，他拍的一张他们书店的门头的热门书的照片，立起来的是open cloud。豆包这种时候已经只能横着放了，对吧？然后我说再过几个月，似乎横着放的时候也不需要再放了，对吧？Open cloud可以横着放了，然后会有新的输入立着放对吧？这些都是热门书，是热门书代表大家买的多。为什么焦虑？对巨大的焦虑。因为真的我我相信大家在各种各样的地方，已经肉身的感受到这种扑面而来的焦虑感，跟那个水被淹到脖子的状态焦虑。</p>
+<p class="transcript-line"><span class="time"><strong>[01:18:38]</strong> </span><span class="speaker"><strong>发言人1: </strong></span>这个也很有意思，这是三张图，我们先看这张，这个人是红果短剧的负责人，叫乐丽。这个新闻发生在我，没错，应该是4月10几号，他在干什么呢？他在会看到中国网络视听大会上做的发言。如果大家不做这个视听行业相关内容，应该不太知道中国网络视听大会是监管部门主办的。每年一次的业界的最大的年会是监管部门主办的。也就是说所有平台的一把手是一定要来的。</p>
+<p class="transcript-line"><span class="time"><strong>[01:19:08]</strong> </span><span class="speaker"><strong>发言人1: </strong></span>在这次会议上红果短剧的负责人发布的事情是说，我们拿出5亿支持真人短剧的拍摄。什么意思呢？今天的环境真人短剧是需要扶持的，听懂了吗？</p>
+<p class="transcript-line"><span class="time"><strong>[01:19:32]</strong> </span><span class="speaker"><strong>发言人1: </strong></span>同一天这张新闻红果短句子APP内的热门的排行榜。同一天，它的排行榜在这一天之前是分AI剧榜跟真人榜，然后在这一天这个榜不分了。你现在打开红包短剧，可能前十名里面有6到7个是AIGC。这个是诚实的，这个是给领导看态度的。为什么也是同一天，我的好友洪亮，他说4月17号字节巨量引擎投流，4月15日AIG的总消耗。9968.92万。</p>
+<p class="transcript-line"><span class="time"><strong>[01:20:19]</strong> </span><span class="speaker"><strong>发言人1: </strong></span>周五早上我们刚做过一场直播讲短句，这个数字在今天应该已经稳稳的超过一个亿了。比如说在红果跟短剧这个平台上，给AI慢剧AI短剧每天投的广告费有超过一个亿。这边说我拿5亿来支持。对，说打发要饭的可能都有点难听，对吧？但事实可能就是这么个事情，你知道这个状态的变化就这么几个月的时间。</p>
+<p class="transcript-line"><span class="time"><strong>[01:20:50]</strong> </span><span class="speaker"><strong>发言人1: </strong></span>这张图，这是123455个数据中心的建设的卫星图。这五个数据中心全部都是在特朗普刚刚上任的时候，他跟open I以及oracle跟软银谈的所谓星际人星际之门计划的数据中心。你会发现除了第一张图之外，大部分数据中心的建设进度是严重延期的，基本上没有什么动，可能就土木动了一点之外没做什么动作。我们新闻里看到说我要建5G网，要投几千亿美金，要增长，每年要带来几百亿美金收入。现实特朗普一上任多久了？之前预期的5个GWGW可能现在真正运营只有0.3个GW已经过去快两年的时间了。事情不是那么一帆风顺的。</p>
+<p class="transcript-line"><span class="time"><strong>[01:21:41]</strong> </span><span class="speaker"><strong>发言人1: </strong></span>再一点，上周美国的米因州是美国的一个州，通过了一个数据中心的禁令。也就是说到27年11月份之前，敏英州不能盖数据中心，你能看到岷州人民的开心的表情。为什么过去一年美国的电价一直在上涨，涨得最狠的米因州涨了17.6。今天这个时间在美国有11到12个州在认真的讨论是否要禁止或者暂缓数据中心的建设。</p>
+<p class="transcript-line"><span class="time"><strong>[01:22:20]</strong> </span><span class="speaker"><strong>发言人1: </strong></span>为什么是这个时间点？因为确实大家看到了太多所谓的科技故事的渲染，但是很少有人去理解这个东西到底对人类、对生活、对环境、对各种各样式的影响到底是什么。更极端的，我们看到了各种各样的游行示威，甚至最极端的open艾特创始人赛罗奥特曼的家被连续袭击两次，一次是燃烧瓶，一次是射击。所有的事情都发生在过去两三个月的时间。所有的事情。</p>
+<p class="transcript-line"><span class="time"><strong>[01:22:57]</strong> </span><span class="speaker"><strong>发言人1: </strong></span>然后我在准备这个材料的时候，找到一个历史的理论，因为无数人讲类似的故事，我也讲过。我说当年什么蒸汽机替代纺织工人那个故事，对吧？然后恩格斯有一个经典的理论叫恩格斯暂停。就是这段时间虽然因为新技术带来了GDP跟经济的增长，但是工人的工资在长达四五十年里面是没有变化的那很多人会说我们要经历新的一次恩格斯暂停，因为肉眼可见AI可能会带来GDP的快速增长，但是似乎跟我们的工资和福利没有太多的关系，对吧？所以很多人就会说这样一句话，叫历史的一页就是很多人的一生。那40年其实就是很多人的一生，那是我们似乎可能也要经历这样的事情，但我会觉得不太对，对吧？就是这个说法太上帝视角了，谁是一谁就被拍成了一页纸。每个人都有自己的一生，对吧？</p>
+<p class="transcript-line"><span class="time"><strong>[01:24:11]</strong> </span><span class="speaker"><strong>发言人1: </strong></span>你生下来你要经历什么？你要做什么？你会变成什么样子？你的兴趣是什么？你的爱人是什么？所有东西每个人都不一样，每个人都有自己的选择人生下来不是成为一张纸跟成为历史的一页的。所以我会觉得这种观点特别的。</p>
+<p class="transcript-line"><span class="time"><strong>[01:24:29]</strong> </span><span class="speaker"><strong>发言人1: </strong></span>然后这张图是我在上一次讲狂喜博客节的最后一页的时候，摄影师抓拍下来的。我特别像一个gest对吧？我也不知道为什么会抓拍这样的一个动作，但我觉得抓的很好。对我觉得很能代表当时的。</p>
+<p class="transcript-line"><span class="time"><strong>[01:24:44]</strong> </span><span class="speaker"><strong>发言人1: </strong></span>但是我回头去想，去年我在做这些的时候，更多是我觉得是一种单纯的情绪。因为去年我做了一次统计，我说在去年狂喜的上半年是狂喜的AI的话题的浓度是12%，到了去年年底那次只有6%，大家没有那么关心它到底是什么。这次其实管我给我的反馈说，这次AI的比例降得更低了。所以我觉得这不单纯是情绪，我觉得是一种感受。对，是一种感受，可能甚至是一种态度。</p>
+<p class="transcript-line"><span class="time"><strong>[01:25:17]</strong> </span><span class="speaker"><strong>发言人1: </strong></span>今天这个时间点AI真的太强了，越来越强。AI能做太多看上去正确而不会出错的事情。那我们就把那些正确而不会出错的事情交给他，我们去做那些能出一点错的事情。所以最后一页，sorry，我最后一页怎么出不来了，我还打了广告。算了，最后一页就是感谢大家，最后一页感谢大家这个闭幕时间。</p>
+<p class="transcript-line"><span class="time"><strong>[01:25:45]</strong> </span><span class="speaker"><strong>发言人1: </strong></span>因为我会觉得整个狂喜的闭幕式是整个狂喜最好的一次活动。它比任何一次演讲都有在场感，都有情绪的宣泄，有快乐，有感动，有各种各样的东西。如果大家有时间，我建议大家去闭幕式。好，谢谢大家。</p>]]></content:encoded>
+            <pubDate>Thu, 30 Apr 2026 02:58:37 GMT</pubDate>
+            <guid>69f2c01ffbed7ba94126a402</guid>
+        </item>
         <item>
             <title>中美AI创业的生态差异---对谈Google Cloud北亚区创投生态负责人</title>
             <link>https://www.xiaoyuzhoufm.com/episode/69ea99ef1d989496e75ecb41</link>
@@ -8261,553 +8601,6 @@ OpenAI与Anthropic的ARR对比
 <p class="transcript-line"><span class="time"><strong>[00:24:48]</strong> </span><span class="speaker"><strong>发言人2: </strong></span>就不在射程里了已经。</p>]]></content:encoded>
             <pubDate>Mon, 28 Jul 2025 05:57:32 GMT</pubDate>
             <guid>688710eea12f9ff06a6525b9</guid>
-        </item>
-        <item>
-            <title>Vol.68 VC的方法论是不是“祭祀求雨”？---做客蜉蝣天地</title>
-            <link>https://www.xiaoyuzhoufm.com/episode/687dba8ea9dec9250054beb7</link>
-            <description>3年前，我在还没有开始做屠龙之术播客之前，汉洋就和我有过一次对谈；
-当时的播客内容在晚点聊：
-28: 我不做 VC 了：庄明浩低调分享做投资的感悟
-25年，汉洋又一次创业了，同时也又开了一个播客的新坑：蜉蝣天地
-在蜉蝣天地的第1期节目中，
-参与节目的另外一位主播重轻和汉洋谈了很多他们对于内容的倾向、理解和期待……
-这里：
-汉洋：挖坑、媒介枷锁、好内容、对谈、为什么做蜉蝣天地
-蜉蝣天地前几期的嘉宾有曹丰泽、老蒋、约小亚，
-而我很有幸的是蜉蝣天地的第五期嘉宾……
-庄明浩：VC 投资到底有没有方法论？决断、遗憾、品味与移动互联网早年混沌中的故事
-蜉蝣天地全系列播客都有视频版本，访问地址：
-🔗 Bilibili
-🔗 YouTube
-【登场人物】
-* 汉洋：自称为“世界级街（gai）溜子，《山有虎》与《蜉蝣天地》的主播，funes.world创始人
-* 明浩：屠龙之术主播，知名VC逃兵
-（想加粉丝群的请先+微信：rosicky311)
-【时间线】
-00:11 汉洋的开场白
-01:42 我的职业经历
-08:14 09年的一级市场是怎么样的
-10:46 当年“诡异”的投资决策
-13:21 当年为什么离开盛大
-15:30 当年信移动互联网么？
-17:09 “14年移动互联网早期结束”这个结论是怎么下的？
-20:03 字节的早期融资是中国一级市场最大的“偏见”
-财经天下当年对于张一鸣专访的第一个问题：你是小偷吗？
-22:10 拼多多早年也是一级市场的“偏见”
-23:44 字节的：连接、算法的故事其实早年是没人能看清楚的
-24:52 人都是有路径依赖的，投资人评判项目更是
-26:35 影石、泡泡玛特、霸王茶姬当年的创业计划和今天的故事可能完全不同
-28:11 我为什么说早期投资很像“祭祀求雨”
-29:44 回头看当年IDG重注90后创始人的决策
-30:54 今天有VC基金敢做一个00后基金吗？
-32:15 那投资人的水平究竟体现在哪里？
-33:26 本质上投资人的决策其实就是一个“大模型”
-35:36 更换行业/赛道=换函数
-36:47 蔡文胜投资的时候是要看创始人八字的
-38:16 什么人适合做一级？
-39:40 膨胀到溢出的美元流动性+改变世界的工业革命AI，不投这个还能叫VC吗？
-40:45 我会比较认真的看哪些人的文章
-45:37 记者是否适合做投资？
-46:54 关于Peter Thiel的文章推荐：
-https://www.generalist.com/t/no-rivals-founders-fund
-(需要🪜）
-47:50 我对TME收购喜马拉雅的评论播客
-Vol.63 腾讯音乐过于慷慨了，聊聊喜马拉雅收购案
-50:49 总想终局可能就没办法做一级了
-51:44 泡泡玛特的故事早年我也没看懂
-53:53 投资人和一家公司的交集其实只发生在一瞬间
-59:51 年轻人还应该选择VC这份工作么？
-1:02:01 VC内心永远的冲动：干一票大的！
-1:02:28 看到这么多钱，我会慌
-1:02:57 资本的耐心和钱的属性之间往往是错配的
-1:06:01 “国资”
-1:08:23 投资人投一个项目的时候可能根本不用这个项目的产品
-1:10:44 推荐暗涌的访谈：
-当王宁、王兴兴、张俊杰的投资人坐在一起
-1:14:22 当年看好的项目最后结果不是特别好的案例
-1:16:29 十年“写东西”，到底再坚持什么？
-1:24:21 B站视频播客也找了我，但我的屠龙之术很难转
-1:25:50 怀念当年在网上冲浪的日子，到底在怀念什么？
-1:28:03 如果采访投资人，应该问什么问题？
-1:28:55 如果我想给一个东西建模……
-音乐：AI音乐工具天谱乐生成
-【播客简介】
-屠龙之术是一档关注科技、互联网、风险投资的播客，
-主播庄明浩是一个游走在互联网和风险投资行业的边缘人士。
-其工作多年所积累的认知似乎都成为了某种意义上的”屠龙之术“……
-或许某天再有新的“龙”出现的时候，就是这档播客停更之时。</description>
-            <content:encoded><![CDATA[<p class="transcript-line"><span class="time"><strong>[00:00:07]</strong> </span><span class="speaker"><strong>发言人1: </strong></span>大家好，欢迎收看本期的服务天地，我是主播汉阳。本期我们的嘉宾是投资人庄明浩。庄明昊2009年从盛大进入投资行业，彼时正值中国移动互联网的兴起。庄明昊的职业路径几乎涵盖了过去十多年中国移动互联网与一级市场的所有关键节点。从移动互联网到工具类应用，再到直播电商、内容平台，他长期关注to c领域，尤其擅长社交、游戏、娱乐等赛道，并通过他的博客屠龙之术，持续输出他对行业趋势和投资逻辑的反思。在这期节目中，我们从他的亲身经历出发，回顾了中国一级市场的早期混沌状态，讨论了为什么那么多投资人错过了字节跳动和拼多多，也探讨了风险投资是否真的存在可以复制的方法论，投资决策究竟是靠逻辑、品味还是运气。我们聊到了他如何理解屠龙术、这个时代隐喻，以及今天的投资人如何面对一个龙椅消失结构已变的世界。</p>
-<p class="transcript-line"><span class="time"><strong>[00:01:10]</strong> </span><span class="speaker"><strong>发言人1: </strong></span>我觉得咱俩有点像，就是很多人见我的时候，他不知道我是在干嘛，就是我在哪个公司究竟。对，然后我说我跟你录节目的时候，我也不需要。对，但是很多人会就会说他们都看过你写的东西，不管是知乎，还是后来你的博客，还是你上天直播。但他们会有人问我不同的话，他说明浩最近在电竞还行，这行业。然后还问我经纬最近咋样？然后有的人问我，甚至问我IDG的事儿，所以说我很好奇，就是你能不能正面的和大家说一下你的职业经历。</p>
-<p class="transcript-line"><span class="time"><strong>[00:01:41]</strong> </span><span class="speaker"><strong>发言人2: </strong></span>这样的就是我09年毕业来到上海，然后加入当时的盛大，就是陈天桥乔哥的盛大。然后当时是管培生管民生做了半年。然后10年初管明生轮岗轮到了投资部，就当时盛大的战略投资部算入行。然后10年入行的时候，正好赶上中国移动网这波的爆发。所以那个时候，当时在盛大投资部内部，我们几个小朋友跟一些比较资深的同事一直开移动互联网早期的项目。那时候还非常早，当年投过像比如今天还在墨迹天气这种公司，就是最早的一批移动互联网公司。</p>
-<p class="transcript-line"><span class="time"><strong>[00:02:16]</strong> </span><span class="speaker"><strong>发言人2: </strong></span>然后在那个时间点，同样有一家比较偏市场化的投资机构也看移动互联网，就是我后来加入的经纬。然后是因为这个原因，因为那时候看移动联网人不是特不是很多。然后经纬那时候需要在上海招一个看移动互联网的投资经理，然后我就去了经纬。是11年3月底四月初，11年去了经纬。我在经纬第一段时间干到15年10月。</p>
-<p class="transcript-line"><span class="time"><strong>[00:02:40]</strong> </span><span class="speaker"><strong>发言人2: </strong></span>然后15年10月的时候是什么呢？15年10月其实在经纬内部或者说在业界来看，14年移动互联网的早期就结束了。但事后证明其实不是这样的。因为最后几个移动互联产生最大的家伙都是15年之后成立的。但是在早期，你像我们那时候看什么工具，早期的用电商社交，然后移动的一些早期的项目。其实大家会认为在1415年之后，当所有的大厂都来的时候，早期机会就没有了。</p>
-<p class="transcript-line"><span class="time"><strong>[00:03:06]</strong> </span><span class="speaker"><strong>发言人2: </strong></span>然后那个时候就出现了分工。然后我在14年左右开始看，那个时候热门的话题叫新内容行业，二次元、动漫、电竞、游戏这些。因为你熟，你有原来兴趣爱好在。所以在15年有一个意外的机会，我就加入了当时王思聪成立的电竞公司熊猫，然后创业了。</p>
-<p class="transcript-line"><span class="time"><strong>[00:03:28]</strong> </span><span class="speaker"><strong>发言人2: </strong></span>你看我15年11月加入的10月1号，然后做到一不是11号不应该放假吗？10月1号11 11月1号OK，然后做到了。熊猫其实只做了大概三年多，19年三月份结束的，然后19年三月份我就离开了，所以在熊猫大概做了三点多。然后那段时间就是因为熊猫是做游戏直播的，所以我们跟电竞的关系就比较近。有战队，有俱乐部，有直播。因为我们的老板自己还有IG然后他还有一家做电竞赛事的公司叫香蕉。所以那段时间其实跟电竞和游戏行业就走的比较近。当然在经纬的时候我也看游戏移动早移动游戏早期的投资我也看。然后19年熊猫倒闭，我就闲逛了三个月，就是找各种人聊天。那个时候我是86年的，然后15年有。</p>
-<p class="transcript-line"><span class="time"><strong>[00:04:18]</strong> </span><span class="speaker"><strong>发言人1: </strong></span>许嵩的童年。</p>
-<p class="transcript-line"><span class="time"><strong>[00:04:19]</strong> </span><span class="speaker"><strong>发言人2: </strong></span>对，15年去创业的时候29岁，19年大概就33、34的样子。其实也不知道下一步该干什么，所以找很多人聊，去碰撞那个缘分。然后我找的第一个人就是我原来在经纬上海的老板德苏。德苏说不要聊聊什么，聊回来想办法是。</p>
-<p class="transcript-line"><span class="time"><strong>[00:04:36]</strong> </span><span class="speaker"><strong>发言人1: </strong></span>回来上班很有意思，是因为你原本也没有不上班，如果你的工资没了。</p>
-<p class="transcript-line"><span class="time"><strong>[00:04:41]</strong> </span><span class="speaker"><strong>发言人2: </strong></span>对，只不过就是换了个方式来上班。然后我说不行，我想再去聊聊看。但是聊了一圈之后，聊了大概三个月，其实没有聊到一个特别明确的可以被成交的结果。然后在19年六月份我就回到经纬了，回去经纬又继续做投资了。</p>
-<p class="transcript-line"><span class="time"><strong>[00:04:58]</strong> </span><span class="speaker"><strong>发言人2: </strong></span>然后19年六月份做到21年，大概六月份我来到现在这家公司，这家公司叫趣玩，之前的核心产品叫TT语音，这家公司其实是经纬投资的公司，也是我回去之后参与投资的一家公司。它其实跟我原来做的业务相关。因为这公司原来最早是做我们叫游戏的开黑工具的，他跟游戏，包括后来公司也涉及到了电竞，我们有自己的俱乐部，甚至在原来广州是有自己的电竞的主场，然后也有直播业务。所以其实这个公司业务跟我所熟的这个板块的内容是非常相关的。</p>
-<p class="transcript-line"><span class="time"><strong>[00:05:31]</strong> </span><span class="speaker"><strong>发言人2: </strong></span>然后21年六月份我就来到这家公司，然后我最近更新一期博客是讲喜马拉雅的。我里面强调的观点，我说21年六月份的世界跟今天之后的世界是不一样的两个世界。确实这公司本来其实要跟那家公司一样，要去美国上市的。但是因为21年六月份出了事情，所以到今天反正截止到今天，这家公司依然是一家没有上市的公司。但是反正也来了四年多了，然后一直在公司负责战略跟投资。说好听是这样，说的更简单一点，就是当老板的狗头军师，就是给他提供一些意见帮助，包括一些信息的引入。然我们也会做对外的投资，然后这公司的状态就很像一个今天这个时间点，其实我会有一个体感的特别明显的感受。包括我会涉及到比如说我的博客为什么叫屠龙之术，为什么会有这样一个名称。</p>
-<p class="transcript-line"><span class="time"><strong>[00:06:20]</strong> </span><span class="speaker"><strong>发言人2: </strong></span>我会觉得有很多今天这时间点市面上的上一代的互联网，尤其是曾经励志想作为平台公司存在的互联网公司，在今天这个时间点都变成了一种稳定态。这稳定态没有什么不好，但是它已经失去了早年的那个成为最巨大的可能性的机会。但是他还存在，甚至可能又非常稳定，然后可能竞争也没有那么激烈了，但是他已经失去了那个成为最大的机会，但是他就稳定态了。那在这个新的环境下就提出了一些新的你就是要求，你说是方向的发展也好，还是怎么样也好，他总要找一些新的，可能他不能躺在那儿，或者说大部分这些公司的创始人也不甘心于就躺在那儿了。所以今天可能比如说AI来了，或者是原来可能珠海来了，大家还会再去努力，再去折腾。</p>
-<p class="transcript-line"><span class="time"><strong>[00:07:10]</strong> </span><span class="speaker"><strong>发言人2: </strong></span>所以整个我的职业生涯的状态，基本上围绕着可能几个关键词，创业投资这是一套关键词。另外一套关键词就是我一直在看的是to c的互联网的东西，尤其是偏社交、娱乐、直播、游戏、电竞这些东西。所以我当时为什么起自己的博客名字叫屠龙之术？你会发现在当下这个时间点，这些关键词背后所代表的这些，你说是知识也好，你说是know how也好，本质上来讲其实已经是屠龙术了。它在新的时代似乎没有那么有用了。</p>
-<p class="transcript-line"><span class="time"><strong>[00:07:46]</strong> </span><span class="speaker"><strong>发言人1: </strong></span>就是新的时代没有龙了。</p>
-<p class="transcript-line"><span class="time"><strong>[00:07:47]</strong> </span><span class="speaker"><strong>发言人2: </strong></span>对，可能是这样的。</p>
-<p class="transcript-line"><span class="time"><strong>[00:07:49]</strong> </span><span class="speaker"><strong>发言人1: </strong></span>在第一次录节目的时候，你即将开始做通知书这个博客。对，就是连连名字还没起，应该对，然后也是来去玩没多久。对，在上一期博客里面咱俩其实详细聊了VC这个行业是怎么回事儿，深的一个科普。所以这期节目我就完全跳过这一块。我其实就最好奇就是屠龙之术到底是个什么术？也就是咱先从最开始的那个经历开始聊。你09年在盛大做投资，那个时候是盛大最辉煌的时候，对吧？对，然后也是一级市场非常早期的时候，非常早就那个年代的一级市场什么样？</p>
-<p class="transcript-line"><span class="time"><strong>[00:08:20]</strong> </span><span class="speaker"><strong>发言人2: </strong></span>那个时候我举一个视角，比如09年我刚作为一个毕业生毕业，然后进入盛大的轮岗轮班，1010年进入行业。在那个行业，在那个时间点，整个中国意识上的首先是信息是很不充分的。就是你甚至不太知道有哪些基金在真的看案子，有哪些基金可能已经名存实亡了。</p>
-<p class="transcript-line"><span class="time"><strong>[00:08:41]</strong> </span><span class="speaker"><strong>发言人1: </strong></span>我听那个时候有些创始人会说，就不知道有VC东西存在。</p>
-<p class="transcript-line"><span class="time"><strong>[00:08:44]</strong> </span><span class="speaker"><strong>发言人2: </strong></span>对，甚至很多创始人都不知道VC的工作方式，他也不知道该怎么去拿投资。甚至都不知道什么是美元投资，什么是人民币投资，什么是战略投资，他都不知道。那个时间点处于一个意识上。虽然中国的意识上如果追溯历史的话，可能从就2000年初就有第一批，可能10年左右就有比较今天大家比较知道比较多的，无论是人币还是美元。VC已经在干活了。</p>
-<p class="transcript-line"><span class="time"><strong>[00:09:05]</strong> </span><span class="speaker"><strong>发言人2: </strong></span>可是在我们的刚入行那个时间点，整个的这个环境跟今天完全不可同日而语。就是整套的运营方式思维方式跟建立在这种类似我们今天已经非常熟悉的硅谷这套逻辑上的东西的游戏规则都没有。所以那个时候很运气很好的是赶上移动互联网这一波的爆发。又因为移动互联网这波爆发跟美国几乎是差不多时间的同步发展。所以很多无论是美元VC的运营方式，还是创始人跟美国硅谷那边的信息同步的效率，这些东西是拉在一起的。所以他就会让如果没有这一波，可能中国的风险投资行业又还是会需要一个很长的时间来迅速建立它的规则跟它的玩法。</p>
-<p class="transcript-line"><span class="time"><strong>[00:09:48]</strong> </span><span class="speaker"><strong>发言人2: </strong></span>所以在那个时间点，我举最最现实的例子。比如说我10年1月份进盛大投资部，然后11年决定离开的时候，我决定离开到我选择去哪儿，比如说跳到哪儿，哪些基金在招人，或者哪基金真的在干活，我都不知道，就是信息闭塞到这种你今天不可想象。今天任何一个哪怕他是商科的大三的学生，他大概也知道。如果他的工作的想法是想往意义上发展的话，他也能知道哪些基金是好的，基金是不好，哪些在干活。除了基金这个行业，还有FA还有别的什么工种他都知道。但是在我们当年那个时间点，两眼一抹黑，什么都不知道。</p>
-<p class="transcript-line"><span class="time"><strong>[00:10:29]</strong> </span><span class="speaker"><strong>发言人1: </strong></span>能举个具体例子吗？就是当你说两两眼一抹黑的时候，你当然不知道这个公司是一个具体的你跟人合作的时候，就他们和你都黑在哪儿。</p>
-<p class="transcript-line"><span class="time"><strong>[00:10:38]</strong> </span><span class="speaker"><strong>发言人2: </strong></span>现在他甚至会觉得，比如说我们要跟一个创始人去聊这个投资的时候，他会问这个钱要什么时候还给。</p>
-<p class="transcript-line"><span class="time"><strong>[00:10:45]</strong> </span><span class="speaker"><strong>发言人1: </strong></span>你就是能举个更具体的例子吗？就是如果能说的话，就能不能说你投哪个公司的时候，他能什么反应。</p>
-<p class="transcript-line"><span class="time"><strong>[00:10:53]</strong> </span><span class="speaker"><strong>发言人2: </strong></span>当年有这样一个故事，是我的这个故事其实是促使我离开于原因。就是我们在09年10年决定比较认真的看移动互联网的时候，移动互联网还非常早期。</p>
-<p class="transcript-line"><span class="time"><strong>[00:11:05]</strong> </span><span class="speaker"><strong>发言人1: </strong></span>有非常有这词儿吗？</p>
-<p class="transcript-line"><span class="time"><strong>[00:11:07]</strong> </span><span class="speaker"><strong>发言人2: </strong></span>叫无线互联网，非常老原始的一个关键词，无线互联网。然后那个时候其实整个市场充满着非共识，然后这种非共识甚至强化到连创始人就这些做项目的人都不觉得自己能做到多大。但是在这种情况下，我们大概前期可能定了一些策略跟一些投资的标的。但在那个时间点，我们老板乔哥会觉得我们太慢了，就是你们想的太多，你们投的也太少。然后他就给了一个他让他的类似他的战略部，当时的战略部的秘书去拉了一下当时安卓的榜单。安卓当时不是有第三方应用市场吗？拉最大的几个安全运营市场以及IOS的榜单，把榜单前20名拉出来，能投的全投掉。当时的策略。</p>
-<p class="transcript-line"><span class="time"><strong>[00:11:53]</strong> </span><span class="speaker"><strong>发言人2: </strong></span>然后你要知道在那个时间点，你相当于你取了一个时间截面上的一个截面。那个截面产生的结果是有非常多的意外的。就是可能突然间某个游戏因为各种原因，他那天他就在那儿，然后他就被拉在了那个截面里面。</p>
-<p class="transcript-line"><span class="time"><strong>[00:12:08]</strong> </span><span class="speaker"><strong>发言人1: </strong></span>那截面是就一天。</p>
-<p class="transcript-line"><span class="time"><strong>[00:12:09]</strong> </span><span class="speaker"><strong>发言人2: </strong></span>就大概可能一周，顶多有一周。就有很多公司，我们当时去聊一个一定要投的，就是我们你要知道我们去之前就知道一定要投它了，我们连人都没见过。但是因为他在那个榜单里，我们为了完成KPI，我们一定要去投。大一家广州的游戏公司，手游公司做了一款山寨植物大战僵尸的手办，把植物大战僵尸换了个皮。那公司只有两个人在一个民房里，我们去了找他们，他们都不知道我们来干嘛的。我们是在他们楼下的肯德基里面跟他们聊的这个事情。</p>
-<p class="transcript-line"><span class="time"><strong>[00:12:45]</strong> </span><span class="speaker"><strong>发言人1: </strong></span>这听着像是一个传奇故事的开始。</p>
-<p class="transcript-line"><span class="time"><strong>[00:12:47]</strong> </span><span class="speaker"><strong>发言人2: </strong></span>但那公司肯定不行，因为他是被时代的一个突然间的意外事件拉进了一个漩涡里，然后就被人盯上了。我们当时投资了2万人民币，占20%.</p>
-<p class="transcript-line"><span class="time"><strong>[00:12:58]</strong> </span><span class="speaker"><strong>发言人1: </strong></span>那公司这还挺挺合理的估值。</p>
-<p class="transcript-line"><span class="time"><strong>[00:13:00]</strong> </span><span class="speaker"><strong>发言人2: </strong></span>对，反正当时就是给你了一套标准，一套备选的profile的列表，你就去看你。</p>
-<p class="transcript-line"><span class="time"><strong>[00:13:07]</strong> </span><span class="speaker"><strong>发言人1: </strong></span>你们怎么定的估值的。</p>
-<p class="transcript-line"><span class="time"><strong>[00:13:08]</strong> </span><span class="speaker"><strong>发言人2: </strong></span>跟他谈，就是你你下一款游戏要用多少钱，多长时间，大概比一年期你需要这些钱，需要招多少人我大概就给你这些钱。</p>
-<p class="transcript-line"><span class="time"><strong>[00:13:16]</strong> </span><span class="speaker"><strong>发言人1: </strong></span>最后这个公司活了多久。</p>
-<p class="transcript-line"><span class="time"><strong>[00:13:19]</strong> </span><span class="speaker"><strong>发言人2: </strong></span>就这笔钱花完就没有了。</p>
-<p class="transcript-line"><span class="time"><strong>[00:13:21]</strong> </span><span class="speaker"><strong>发言人1: </strong></span>但这个和你促使你离开声大的原因是什么？</p>
-<p class="transcript-line"><span class="time"><strong>[00:13:24]</strong> </span><span class="speaker"><strong>发言人2: </strong></span>声音最大原因就是我们当时我有个比喻，这个比喻在知乎上还是可以找到的。就是我们很像乔哥是一个管理风格比较他很像古代的皇帝，然后他的战略布局有点像东厂，然后我们有点像远征军。你可以这么理解，我们本来打的好好有自己的策略，突然间东厂跳来说，你们打的是什么玩意儿，按这个来。但你作为真正每天在看案子跟每天在想这个事情，你看到那个列表的时候，你是哭笑不得的。</p>
-<p class="transcript-line"><span class="time"><strong>[00:13:57]</strong> </span><span class="speaker"><strong>发言人1: </strong></span>就是皇上想微操，就是指挥到。</p>
-<p class="transcript-line"><span class="time"><strong>[00:14:01]</strong> </span><span class="speaker"><strong>发言人2: </strong></span>牌上细节，指挥到细节到不能再细。那你就会觉得，所以我我我在我知乎上第一个爆火的帖子是为什么离开盛大，我就写了这些。当然不仅仅是这个词，还有很多面。就是你会觉得这。</p>
-<p class="transcript-line"><span class="time"><strong>[00:14:16]</strong> </span><span class="speaker"><strong>发言人1: </strong></span>不对这不对。</p>
-<p class="transcript-line"><span class="time"><strong>[00:14:18]</strong> </span><span class="speaker"><strong>发言人2: </strong></span>至少你作为一个一线打仗的小兵而言，你不觉得应该是这么打的。但是可能特殊历史时期，为了解决特殊老板的顾虑，可能用这种过激的方式也有可能是对的。回头来看，然后你就去了经纬。对，因为经纬当时因为是这样的，当时整个中国的银行网市场只有三家是非常认可跟坚定投资的。互联网盛大开复老师那时候离开google拉着汪华做创业工厂，然后经纬就这三家。所以当时很多项目就是我前脚去了，或者是比如经纬前脚去了，他刚走我就进去了。我可能甚至在门口会碰到当时华东碰到穿越广场的小伙，这都是这样的。所以当时首先项目也不是很多，共识达成也很快，就那几个方向，那些项目你经常遇到。</p>
-<p class="transcript-line"><span class="time"><strong>[00:15:07]</strong> </span><span class="speaker"><strong>发言人2: </strong></span>然后正好当时经纬，因为这当时整个大部分团队在北京，然后他们在上海只有一个。我们另外同事是兼着他他还看别的方向，也兼着看移动互联网。然后当时经纬文化网小组觉得上海需要加一个人，那当时在看就这么几个人，然后就找了就去了，所以他不是一个。现在你要换工作，你要挑，你要选，不是这样的。</p>
-<p class="transcript-line"><span class="time"><strong>[00:15:30]</strong> </span><span class="speaker"><strong>发言人1: </strong></span>那时候你很相信无线互联网这个东西吗？信，你为什么信？</p>
-<p class="transcript-line"><span class="time"><strong>[00:15:35]</strong> </span><span class="speaker"><strong>发言人2: </strong></span>就是我觉得每一代的这个我前两天总结跟他们直播的时候，我去总结那个文章的内容，看到一个观点。其实观点很多人提过，他说是一个英国的写科技方向的小说作者写的。他说人类在你出生或者是你儿时就拥有的技术，人类会觉得是天经地义的。然后你15到35岁经历的技术，你觉得那是改变世界。然后当35岁之后，世界上出现新型技术，你觉得那东西应该遭天谴。</p>
-<p class="transcript-line"><span class="time"><strong>[00:16:08]</strong> </span><span class="speaker"><strong>发言人2: </strong></span>就是人一直以来可能都是这样的那你想我们那时候正好是刚毕业，然后你像一张白纸，然后你一进入到这个行业的第一天，你明显感觉有那种推背感，就是一个大浪来了。而这个感觉是比你的身边，比你自身，比如十年的同事更强烈的。因为他们可能会有他们固有的，你说是习惯也好，你说是路径依赖也好，你说是什么也好，他的他可能也或多或多少跟你聊着，但他没有那么信这件事情。但是我们那批年轻人，其实回头来看，整个中国历史上今天还比较活跃的。大概我们这个八五后左右的意识上的投资。人们大部分是要感谢这个推背感而来的大浪，就让我们这笔白纸瞬间站在了前面。而且因为你没有包袱，你没有过往的那些东西，所以你会更积极更正面的去迎接这些可能。</p>
-<p class="transcript-line"><span class="time"><strong>[00:17:01]</strong> </span><span class="speaker"><strong>发言人1: </strong></span>我这点比较好奇的是因为今年AI其实也有推背感。对那你当时移动互联网的推广，我觉得可能比现在还大。既然腿板这么大，你11年去的经纬，为什么14年你们就觉得移动互联网的是这事儿已经结束了？</p>
-<p class="transcript-line"><span class="time"><strong>[00:17:16]</strong> </span><span class="speaker"><strong>发言人2: </strong></span>是什么好奇结束是这样，当时几个判断，第一就是说比如终端的覆盖量可能到了一个数量级。你像王兴提互联网下半场是16年提的，我们大概14年。你想王兴是平台级公司，他已经那么大了，他16年提下半场是他认为的。你想作为早期应该比他再早一点，那大概就是1415年。然后再一点就是1四五年是几乎中国所有的头部互联网公司，真正意义上正规军完全的进入到战场里。游戏也好，社交也好，电商也好，全部都是差不多那个时间点。</p>
-<p class="transcript-line"><span class="time"><strong>[00:17:46]</strong> </span><span class="speaker"><strong>发言人1: </strong></span>那个时间点的正规军主要指的就是百度、阿里、腾讯。对。</p>
-<p class="transcript-line"><span class="time"><strong>[00:17:49]</strong> </span><span class="speaker"><strong>发言人2: </strong></span>甚至再小一点什么新浪，什么当年还比较强的那些。然后你就会觉得对于早期，尤其是资金规模没有那么大的阶段的选择性的可能性变少了。但事后证明这个判断下早了。拼多多是16年上线的民族都应该是更晚一点，当然字节成立的时间在那个时间，但抖音上线是更晚了。然后失忆，就这几个。最后证明最大的家伙其实在那个时间点，要么是还处于上一个襁褓阶段，要么就完全没有成立，就还不在那社城里。那个时候但是我觉得这也是一种惯性。就是你看多了之后，你想经纬也好，创新工厂也好，盛大也好，是从0910年就开始看移动上网公司的。</p>
-<p class="transcript-line"><span class="time"><strong>[00:18:32]</strong> </span><span class="speaker"><strong>发言人2: </strong></span>就是人跟组织的惯性的对一个事情的敏感跟兴奋的程度一定是有衰减期的。他到了一定阶段，他就会天生的对一件事情，他觉得看太多了，他就没有那么兴奋。他对很多再新出来他会有一些偏负面的情绪。再加上你可能已经投过很多相关的公司了，你可能天然的会把今天新来一个公司，你会默认它跟你原来投的母公司很像。然后如果那公司发展就不是很理想，那你的结论或者说你对他的评判天然是偏负面。</p>
-<p class="transcript-line"><span class="time"><strong>[00:19:06]</strong> </span><span class="speaker"><strong>发言人2: </strong></span>所以这是VC工作的一个难度也在于此，就是你需要频繁的刺激自己那个那个狼性也好，那个感觉也好，还是兴奋度也好。而你要想如果在过程中你已经得到正反馈，那那你要调回来的那个能量要变得更大。因为你已经得反馈去证明你原来可能做一些决定是对的，所以这也是VC的工作。我后来会觉得那么难做的原因，就是它是有周期有反馈，并且你在新的周期当中要用过往的反馈来去做选择。然后你也不知道是对和错那。</p>
-<p class="transcript-line"><span class="time"><strong>[00:19:39]</strong> </span><span class="speaker"><strong>发言人1: </strong></span>你们后来有复盘过这个事儿吗？就说为什么这几个当时你们没有想到他会跑这么大？</p>
-<p class="transcript-line"><span class="time"><strong>[00:19:46]</strong> </span><span class="speaker"><strong>发言人2: </strong></span>他们复盘的时候我已经我我已经走了。</p>
-<p class="transcript-line"><span class="time"><strong>[00:19:48]</strong> </span><span class="speaker"><strong>发言人1: </strong></span>你自己有想过吗？就是你有没有想过自己如果还在经纬才看到这个项目，如果你用今天的眼光来看你。</p>
-<p class="transcript-line"><span class="time"><strong>[00:19:55]</strong> </span><span class="speaker"><strong>发言人2: </strong></span>你会不会投的？可能也不会还是有很多的双引号的偏见。</p>
-<p class="transcript-line"><span class="time"><strong>[00:20:01]</strong> </span><span class="speaker"><strong>发言人1: </strong></span>这具体都有哪些偏见？</p>
-<p class="transcript-line"><span class="time"><strong>[00:20:03]</strong> </span><span class="speaker"><strong>发言人2: </strong></span>举个最简单例子，自己是对整个中国意义上最大的偏见。自己其实自己的吃到自己的红利的只有几个非常早的天使，那个时候完全就是天使只是投人了，他没有评判，没有那么强的评判的规则，完整吃到自己鸿利的基金只有一家SIG。中国整个市场全部错掉。那你要知道字节当年做今日头条的时候，前两轮融资是见过所有的主流投资人的。</p>
-<p class="transcript-line"><span class="time"><strong>[00:20:31]</strong> </span><span class="speaker"><strong>发言人2: </strong></span>做今日头条新闻客户端的时候，大家评判标准当然特别简单。第一，张明不是一个特别擅长表达跟有那么强的感染力的一个创始人，对吧？大家都承认直到今天。第二，那个时间点是新闻客户端这个战场打的最狠的一段时间。新浪、搜狐、腾讯疯狂做预装买量推广，然后内容团队跟上。经常那时候大家会。</p>
-<p class="transcript-line"><span class="time"><strong>[00:21:01]</strong> </span><span class="speaker"><strong>发言人3: </strong></span>觉得盗版刷榜。</p>
-<p class="transcript-line"><span class="time"><strong>[00:21:03]</strong> </span><span class="speaker"><strong>发言人1: </strong></span>不尊重创作者。</p>
-<p class="transcript-line"><span class="time"><strong>[00:21:05]</strong> </span><span class="speaker"><strong>发言人2: </strong></span>就是全是负面的buff对吧？全是你要知道当年因为你像我们这儿看着云互联网，早年的人，我们是天天盯AB4道榜单的，我们是真正看出来谁是刷上来的。那当年刷榜大户无非两家，字节、喜马拉雅，就是都不用去查证，你就知道它都是刷上来的。当然事后来看天经地义，双引号天经地义。但是你就你有这些莫须有的，你就是洁癖，你说是什么东西？</p>
-<p class="transcript-line"><span class="time"><strong>[00:21:37]</strong> </span><span class="speaker"><strong>发言人2: </strong></span>然后又认为比如说那轮可能B轮是融易美金DSG，那轮大家会觉得这个价格可能也有很有待商榷的商业模式也没有，然后又有各种各样的问题。你像前两天我看谁叛乱发那个转发当年张一鸣上财经的专访，财经第一个问题是别人说你是小偷是吗？第一个问题。所以当时的这种评价，今天回头来看似乎也没有错。所以你你你你带着你原来的这种经验，你的偏好双引号的洁癖还是什么，你去去面临这种选择的时候，我觉得不会投的一样。</p>
-<p class="transcript-line"><span class="time"><strong>[00:22:12]</strong> </span><span class="speaker"><strong>发言人2: </strong></span>然后你像拼多多，早年也是大家会认为拼多多是一个生鲜电商公司。生鲜电商这个品类埋了多少基金？历史上从早年的互联网年代开始，生鲜电商甚至再扩大垂类电商这个品类，什么母婴电商、化妆品电商，生鲜电商，生鲜又是这里面最难的，要考虑什么物流配送时效，乱七八糟退货，生鲜是最难的。早年拼多大无非就是认为它是一个在微信里面拉群卖水果的电商公司。无数的基金已经在实验电商上亏过钱了，而且亏的不是小钱，电商都是大钱。一家基金可能电商一个项目投几千万米，当年吉祥品还是非常大的钱的，然后没了很多都已经吃过亏了。这种基金他怎么会对拼多多有那么强的正面的反馈呢？</p>
-<p class="transcript-line"><span class="time"><strong>[00:23:06]</strong> </span><span class="speaker"><strong>发言人1: </strong></span>那你有没有后来想过，就是说在你你自己而言，你没法代表经纬。那就是你自己看这两家公司的时候，你觉得他们里面的你的哪个偏见和他们的成功是最相反的。他恰恰就是因为你这个偏见成功了，或者有没有另外一点，就是它这个称呼你完全没想过的，就没有从这个角度想过问题。</p>
-<p class="transcript-line"><span class="time"><strong>[00:23:25]</strong> </span><span class="speaker"><strong>发言人2: </strong></span>就是刚才我们讲的这些，拼多是利用了微信的巨大的生态的流量站起来了。生鲜只是他最早最不重要的一个标签。你把拼多多早期的逼赖赖给他贴标签，生鲜应该是油烟机放在最后的那个标签。</p>
-<p class="transcript-line"><span class="time"><strong>[00:23:42]</strong> </span><span class="speaker"><strong>发言人1: </strong></span>但大家把优先级放到最前面了，那字节就自己一样。</p>
-<p class="transcript-line"><span class="time"><strong>[00:23:46]</strong> </span><span class="speaker"><strong>发言人2: </strong></span>就是字节的策略。我们今天已经大家都知道这个故事，字节的A轮商业性计划书跟B轮商业计划书，现在网上都有，大家都找得到。你看他早年说的那个事情，他一直都没有说自己是信用口端。他说的是内容是连接式算法。可是在那个时间点，大家是从11年10年开始做工具，做各种各样的小的APP，做电器做尺子、做手电筒、做应用市场，做输入法长出来的公司。然后到开始有新闻客户端，有早期的移动游戏。到这个战场大家对再往后一段话发到终极，确实是算法吃掉所有这件事情是没有太多人有这个感知的。因为没有任何的经验，互联网也没有过说这个事情是移动上最重要的事情。</p>
-<p class="transcript-line"><span class="time"><strong>[00:24:37]</strong> </span><span class="speaker"><strong>发言人3: </strong></span>对吧？</p>
-<p class="transcript-line"><span class="time"><strong>[00:24:38]</strong> </span><span class="speaker"><strong>发言人2: </strong></span>所以可能你认知不够对吧？那为什么DST人看准？为什么SIT我觉得还是看人。那为什么DST有理敢赌？他可能认为这个事情就是应该往这走，那他就赌了，赌对了吗？</p>
-<p class="transcript-line"><span class="time"><strong>[00:24:52]</strong> </span><span class="speaker"><strong>发言人1: </strong></span>但这个事儿正好听到一个，我每次听这些事情的时候都有一种感觉，就是你非常真诚在说这个事儿。是，但是我还是有个疑问，咱们都是在创业和投资里面待过很久的人，就是你会发现很不说咱俩了，你今天随便点开任何一个创投的公众号，或者说他的节目，或者这个投资人自己说的话。因为大家都是靠逻辑来做事儿的。是的，就面对一个事情是他有一套自己的逻辑，然后他能推演出很多事情，他觉得去选对。但听下来拼多多和字节这个事儿在今天来看，它是不难推算出来的。为什么当时的人就是这么多靠逻辑来吃饭的人，他就没人往这推呢？</p>
-<p class="transcript-line"><span class="time"><strong>[00:25:29]</strong> </span><span class="speaker"><strong>发言人2: </strong></span>因为你的逻辑是建立在你之前的经验上的，你是没有办法去跟很多上一代大模型大家去探讨，他没有办法预测跟往前推演，这是很现实的。就跟今天很多AI里的问题一样。你像昨天我听原来阿里的高管玉帛出来坐到那个公司，然后他去找投资人问问题跟聊天，他也遇到类似一样的问题。就是他甚至会说坐在你对面那个投资人内心问答问你的问题，他心里是有答案的那。</p>
-<p class="transcript-line"><span class="time"><strong>[00:25:51]</strong> </span><span class="speaker"><strong>发言人1: </strong></span>我非常有这感觉，但是问我的时候我都知道你让我答什么。</p>
-<p class="transcript-line"><span class="time"><strong>[00:25:55]</strong> </span><span class="speaker"><strong>发言人2: </strong></span>对，但他那个答案跟他这套问题，跟那道题就像SOP1样已经架在脑子里了。那他是怎么来的呢？就是过往他投的这些项目，参与这些公司这些经验训出来的一个模型。你可以认为。</p>
-<p class="transcript-line"><span class="time"><strong>[00:26:09]</strong> </span><span class="speaker"><strong>发言人1: </strong></span>有没有一种可能性就是投资这事儿他就是运气，这你要赶上了。如果说所有人都会被这事儿困的话，那还有人成功。对，那他成功是可以复制的吗？是啊。</p>
-<p class="transcript-line"><span class="time"><strong>[00:26:20]</strong> </span><span class="speaker"><strong>发言人2: </strong></span>所以这个事情就是为什么这个行业同行相情严重。大家不认为你是因为通靠逻辑跟方法论成功的，你是靠别的因素成功的。但别的因素是一种看不见摸不着的东西。对，就跟今天，比如说昨天石头上市了，影视上市了，IG这一单妈赚了1000倍，都有垃圾当年投他的时候的逻辑，甚至我看那天谁写，你把这些今天最牛逼，就最近一段时间最红的这些公司，泡玛特、八行茶几、饮食，什么老铺黄金，就早年的BP拿出来一看，什么商业模式、产品运营、节奏规划可能全都变了，全都跟当年写的完全没有任何关系。</p>
-<p class="transcript-line"><span class="time"><strong>[00:27:05]</strong> </span><span class="speaker"><strong>发言人1: </strong></span>对，因为这个就是我觉得做投资特别难的那个地方。对，有时候我当年创业特别失败的时候，就去想过，要不然我做投资去吧，然后就说我做不了这个事儿，因为我看不明白，我看哪个公司给我讲的都挺好。对然后我就意识到以前我自己开公司的时候，我见投资人我最大那个痛苦是我有一窟的欧的话。但我只能跟你说两句。</p>
-<p class="transcript-line"><span class="time"><strong>[00:27:24]</strong> </span><span class="speaker"><strong>发言人2: </strong></span>对，因为说多了会。</p>
-<p class="transcript-line"><span class="time"><strong>[00:27:25]</strong> </span><span class="speaker"><strong>发言人1: </strong></span>出问题的说对，而且但是我又不知道该跟你说哪两句，而且关键是我不管怎么说，这两句你都能理解。我们后面的一裤兜子想法。是因为一个事儿它总是特别复杂，尤其你做一个实事儿的时候，它一定是特别复杂的。你越就会。</p>
-<p class="transcript-line"><span class="time"><strong>[00:27:36]</strong> </span><span class="speaker"><strong>发言人2: </strong></span>越复杂，对它的细节跟连接的点就特别的多。</p>
-<p class="transcript-line"><span class="time"><strong>[00:27:41]</strong> </span><span class="speaker"><strong>发言人1: </strong></span>所以我觉得一方面就是为什么我做节目很不太愿意聊创业公司。就像你说的，因为创业公司最终做成和他最开始做的原因不太一样。最开始全是假设他越做就更多内裤兜子的东西了，就是实在的东西。他发现我可以重新设计我的想法。那这个时候投资人本身他已经无法得到创业者的这一兜的想法了，或者得不全创业者的一裤兜子想法又没办法又在变。那他该如何做判断？</p>
-<p class="transcript-line"><span class="time"><strong>[00:28:07]</strong> </span><span class="speaker"><strong>发言人2: </strong></span>所以他只能找那些他认为信任是真理的东西。所以你看前几天我跟谁聊，我说游戏投资，尤其早期，很像古代祭祀求雨。就是现在回头来看，祭祀求雨是没有任何科学道理的。没有。</p>
-<p class="transcript-line"><span class="time"><strong>[00:28:22]</strong> </span><span class="speaker"><strong>发言人2: </strong></span>但为什么这么多年这么多国的压力是都有类似的仪式存在？因为人类就是要在那种非常不确定中，找到一些可以被确定下来的东西来不断的重复。如果真的实现了，哪怕是部分实现，它就会被坚持下来，成为一种仪式。这种仪式说好听就有成说难听一点，或者说说的更直白一点。就是这个基因你说是口味偏好还是他的策略，就是这些东西。</p>
-<p class="transcript-line"><span class="time"><strong>[00:28:50]</strong> </span><span class="speaker"><strong>发言人1: </strong></span>所以到今天你做这行这么多年，就你认为一个持续成功的基金，它究竟有没有一个方法能指导它成指导它有更大概率成功？</p>
-<p class="transcript-line"><span class="time"><strong>[00:28:59]</strong> </span><span class="speaker"><strong>发言人2: </strong></span>有还是有还是有的。这些方法是一些说不清道不明的，甚至可能跟组织，跟这一波人的组成的耦合的关系，跟那个氛围、跟气场可能都相关。甚至跟这些机构，跟机构里面的老大们，在一些特殊时间点，不知道哪儿来的天马行空的一个闪光的决定也相关。</p>
-<p class="transcript-line"><span class="time"><strong>[00:29:23]</strong> </span><span class="speaker"><strong>发言人1: </strong></span>我可不可以理解咱们聊的这个事情，就是你讲的屠龙之术。</p>
-<p class="transcript-line"><span class="time"><strong>[00:29:28]</strong> </span><span class="speaker"><strong>发言人2: </strong></span>你说大一点可能是，但是因为你没你其实并没有真正的掌握那个东西。</p>
-<p class="transcript-line"><span class="time"><strong>[00:29:35]</strong> </span><span class="speaker"><strong>发言人1: </strong></span>如何证明自己掌握这个东西呢？</p>
-<p class="transcript-line"><span class="time"><strong>[00:29:37]</strong> </span><span class="speaker"><strong>发言人2: </strong></span>我觉得很难太难了，除非你。但这个事情又有一个太过势力的评委说，我最近一段时间，我最近几年感触特别深的是就是IDG投影师那个案子。甚至再快点说，最近一段时间不是也有人转那个新闻，说IDG当年号称投90后。</p>
-<p class="transcript-line"><span class="time"><strong>[00:29:56]</strong> </span><span class="speaker"><strong>发言人2: </strong></span>其实从结果来看，那几个被打出来的标签的人结果都很好。孙玉晨影视的CEO，然后刘金康B站的笔试，然后tim mutation的创始人齐俊元，然后联盟的创始人face you，这都是那一批最早喊出来的。爱丽丝最早喊出要投90后的基金，然后拉出来一批代表人，当然也有不太成功，像是马加加这种对吧？</p>
-<p class="transcript-line"><span class="time"><strong>[00:30:24]</strong> </span><span class="speaker"><strong>发言人1: </strong></span>但是概率很高了，已经就七八个。</p>
-<p class="transcript-line"><span class="time"><strong>[00:30:26]</strong> </span><span class="speaker"><strong>发言人2: </strong></span>里面六七个都成了，有大成有小成。</p>
-<p class="transcript-line"><span class="time"><strong>[00:30:29]</strong> </span><span class="speaker"><strong>发言人1: </strong></span>但都成了那就代表它背后是有一套哲学和逻辑的。</p>
-<p class="transcript-line"><span class="time"><strong>[00:30:34]</strong> </span><span class="speaker"><strong>发言人2: </strong></span>就是很简单，我们从结果来看，他当时为什么敢下那个结论，并且敢下手。当然他选择肯定是有选择的战术层的操作的。但是我们把战术层拉高一点，就是从更高级的就在那个时间点抉择。要做这件事情，并且践行之不犹豫，这个是难的那它为什么会产生这种机制跟那个决定，就要去干呢？很想今天2025年当下又来一波，你敢不敢？那家基金跳出来说，我就投今天的20后、00后，甚至是10后，你敢吗？</p>
-<p class="transcript-line"><span class="time"><strong>[00:31:10]</strong> </span><span class="speaker"><strong>发言人1: </strong></span>20后还是有点不太行，他10后未必是可以的，或者00后你敢吗？</p>
-<p class="transcript-line"><span class="time"><strong>[00:31:16]</strong> </span><span class="speaker"><strong>发言人2: </strong></span>没有人敢也没有人敢那么实施实践。但反过来讲，你说这个决定事后证明没准可能是对的，就不应该。但是那就回归到刚才那个问题，就是变成了比如一家投资机构也好，或者一个投资人一个投资方案也好，他的内部对这种时代的感知，跟什么时间点下这种看上去有点一刀切的决定的体系构建就变得重要了。所以这点来看，我觉得IG牛逼就在于这儿。他又逮到一个你看上去。</p>
-<p class="transcript-line"><span class="time"><strong>[00:31:48]</strong> </span><span class="speaker"><strong>发言人1: </strong></span>Circle也是IDG的。</p>
-<p class="transcript-line"><span class="time"><strong>[00:31:50]</strong> </span><span class="speaker"><strong>发言人2: </strong></span>就是美元稳定币这个对。</p>
-<p class="transcript-line"><span class="time"><strong>[00:31:54]</strong> </span><span class="speaker"><strong>发言人1: </strong></span>但我觉得里面逻辑还不一样。Circle是一个看着很，就是你即使不懂这个行业，你只要深入进去一段时间。</p>
-<p class="transcript-line"><span class="time"><strong>[00:32:00]</strong> </span><span class="speaker"><strong>发言人2: </strong></span>你也知道这是干嘛嘛。</p>
-<p class="transcript-line"><span class="time"><strong>[00:32:01]</strong> </span><span class="speaker"><strong>发言人1: </strong></span>对，你以为你知道这个大概率是个还不错的生意，就是他你说做做大的天花板可能咱想不到。但是你说这是个能做成的生意，我觉得大家还是能想到的。但他投比如投靖康，投音色360这个事儿，我觉得绝对是一个跟circle不一样的逻辑投射。是那这个里面投资人的水平究竟体现在哪儿呢？因为如果你就看他们的事前发言，感觉都可有水平了，对是对吧？</p>
-<p class="transcript-line"><span class="time"><strong>[00:32:22]</strong> </span><span class="speaker"><strong>发言人2: </strong></span>我也一样。</p>
-<p class="transcript-line"><span class="time"><strong>[00:32:22]</strong> </span><span class="speaker"><strong>发言人1: </strong></span>不是关键就是在于这个事儿一旦失败了，大家就黑不提白不提了。</p>
-<p class="transcript-line"><span class="time"><strong>[00:32:26]</strong> </span><span class="speaker"><strong>发言人2: </strong></span>对，因为VC就是这样一个行业，VC只看成功不看失败。</p>
-<p class="transcript-line"><span class="time"><strong>[00:32:30]</strong> </span><span class="speaker"><strong>发言人1: </strong></span>他甚至不是成王败寇，不是因为成王之后那个败寇就消失了，就没有人会提那个扣，就只有成王，然后不断的成王，不断成王是但作为一个旁观者，有时候我就真的不知道这个VC的水平怎么被体现出来的。</p>
-<p class="transcript-line"><span class="time"><strong>[00:32:42]</strong> </span><span class="speaker"><strong>发言人2: </strong></span>结果体现的没有什么别的。</p>
-<p class="transcript-line"><span class="time"><strong>[00:32:45]</strong> </span><span class="speaker"><strong>发言人1: </strong></span>但这个结果就是咱们来聊那个，其实就一个核心点，就是这结果是可复制的吗？</p>
-<p class="transcript-line"><span class="time"><strong>[00:32:50]</strong> </span><span class="speaker"><strong>发言人2: </strong></span>如果结果是可以的，但是大部分人是不可以的对。</p>
-<p class="transcript-line"><span class="time"><strong>[00:32:53]</strong> </span><span class="speaker"><strong>发言人1: </strong></span>因为你看就是随着时代这个红利得到好结果，尤其15年之后得到好结果的投资人并不少。对你从比例上来看很小，但是绝对数量其实不少。这个时候有一群在移动互联网时代得到好结果的投资人，他们绝对是有水平。区别的是如果我们认为这个行业不只靠运气，是啊那这个时候这个水平包括比如说我们看十个投资人，在今天我们花时间看他写的微信文章，想决定他的AI投资逻辑。就这时候我们该怎么判断？说或者你觉得你有招吗？</p>
-<p class="transcript-line"><span class="time"><strong>[00:33:22]</strong> </span><span class="speaker"><strong>发言人2: </strong></span>没法判断黑盒完全黑盒。</p>
-<p class="transcript-line"><span class="time"><strong>[00:33:26]</strong> </span><span class="speaker"><strong>发言人1: </strong></span>那那本质投资人不是大模型吗？</p>
-<p class="transcript-line"><span class="time"><strong>[00:33:27]</strong> </span><span class="speaker"><strong>发言人2: </strong></span>是啊，我在你想我在经纬内部，原来我是负责实习生跟分析师的培训的。我给他们讲过，你想那是1213年的时候，我在讲课的时候，我说VC的投资决策就是黑盒。那黑盒放在今天不是大模型吗？就输入输出。而且你要知道那那再简化VC的工作，你如果是一个个人工作一年看完200个项目对吧？一天一个平均算工作日，你的输入就是不是你你比如说应该看1000个项目，一天五个多一点，1000个项目，你的输入就是1000个项目进来输出的零跟一就是5到10个，0跟111111，就是你要投五个。对，然后中间的过程就是黑盒，然后你的工作就变成你要让这个黑盒尽可能的你自己说得过去。</p>
-<p class="transcript-line"><span class="time"><strong>[00:34:15]</strong> </span><span class="speaker"><strong>发言人1: </strong></span>这就能可解释。对。</p>
-<p class="transcript-line"><span class="time"><strong>[00:34:17]</strong> </span><span class="speaker"><strong>发言人2: </strong></span>可是大变形不也是这样吗？然后你要知道为什么VC要有新人，我也讲过这个逻辑。因为但凡你做过一段时间VC之后，你不需要通过1000个去选五个，你可能只需要十个，你就能选出来五个。因为你会有认识人，你会有关系，你会有各种评判方式，你会有身边的人长成什么样子，你会有身边你信任的人介绍过来。你可能不需要通过1000个陌生的案子挑五个，你可能只需要从十个你熟的人跟十个案，你有人帮你背过书，那你挑五个你今年工作就结束了。</p>
-<p class="transcript-line"><span class="time"><strong>[00:34:48]</strong> </span><span class="speaker"><strong>发言人1: </strong></span>但这时候这里面。</p>
-<p class="transcript-line"><span class="time"><strong>[00:34:49]</strong> </span><span class="speaker"><strong>发言人2: </strong></span>剩下的怎么办呢？</p>
-<p class="transcript-line"><span class="time"><strong>[00:34:51]</strong> </span><span class="speaker"><strong>发言人1: </strong></span>剩下那950个里面可能就有有另外一个非常好的。对，这时候你就要一个新人来看。不是，这个行业它特别有意思，就是你说医生越老越吃香。对，投资人即使他很成功，他都没有办法保证他越老越吃香。</p>
-<p class="transcript-line"><span class="time"><strong>[00:35:07]</strong> </span><span class="speaker"><strong>发言人2: </strong></span>所以沈南鹏牛逼在于他今天依然跟投资经理一样。</p>
-<p class="transcript-line"><span class="time"><strong>[00:35:09]</strong> </span><span class="speaker"><strong>发言人1: </strong></span>天天看着他不会就是你就给我五个。因为我认识很多投资经理的确是这样，就是他他觉得我今年目标就投出去五个项目，我越快投完我越快放假。对。</p>
-<p class="transcript-line"><span class="time"><strong>[00:35:21]</strong> </span><span class="speaker"><strong>发言人2: </strong></span>而且从没准从概念上来说可能是效率更高的方式。</p>
-<p class="transcript-line"><span class="time"><strong>[00:35:25]</strong> </span><span class="speaker"><strong>发言人1: </strong></span>那那所以投资人到底该不该建立自己那个函数呢？</p>
-<p class="transcript-line"><span class="time"><strong>[00:35:29]</strong> </span><span class="speaker"><strong>发言人2: </strong></span>应该，肯定是要的。</p>
-<p class="transcript-line"><span class="time"><strong>[00:35:31]</strong> </span><span class="speaker"><strong>发言人1: </strong></span>他又要建立函数，但你一旦函数建立之后，你再改就很难了。对，那这是很矛盾的一个事儿。</p>
-<p class="transcript-line"><span class="time"><strong>[00:35:36]</strong> </span><span class="speaker"><strong>发言人2: </strong></span>所以难做。所以你看很多投资没为什么没有？就是凤毛麟角的，是可以不断的换行业看的投资人有，那它相当于在频繁换那个函数。有，但很多人是换不了的，他就会被当一浪结或者一个小浪结束，他就被淘汰了。我们这种典型就你只会干这个，你的参数就这一套，你没有第二套，而且这个参数看上去各个参数间你也不能动，因为它是耦合在一起的。</p>
-<p class="transcript-line"><span class="time"><strong>[00:36:04]</strong> </span><span class="speaker"><strong>发言人1: </strong></span>你觉得在这个函数里面是投资就一级市场投资这件事儿本身的共性的，还是不同行业之间的共性的。</p>
-<p class="transcript-line"><span class="time"><strong>[00:36:12]</strong> </span><span class="speaker"><strong>发言人2: </strong></span>就是区别大，区别更大。</p>
-<p class="transcript-line"><span class="time"><strong>[00:36:15]</strong> </span><span class="speaker"><strong>发言人1: </strong></span>这里面哪些东西是有共性的？就是一个好投资人不管投什么行业，他都必须有的能力。</p>
-<p class="transcript-line"><span class="time"><strong>[00:36:20]</strong> </span><span class="speaker"><strong>发言人2: </strong></span>那就是很多悬而悬而悬而悬的东西了。看人。</p>
-<p class="transcript-line"><span class="time"><strong>[00:36:26]</strong> </span><span class="speaker"><strong>发言人1: </strong></span>对，这首先是个非常悬的事儿，太玄了。</p>
-<p class="transcript-line"><span class="time"><strong>[00:36:30]</strong> </span><span class="speaker"><strong>发言人2: </strong></span>你说看人就跟老中医一样，他凭什么摸你两下麦，听一下他就知道。</p>
-<p class="transcript-line"><span class="time"><strong>[00:36:36]</strong> </span><span class="speaker"><strong>发言人1: </strong></span>至少好歹摩拜他这个经验。</p>
-<p class="transcript-line"><span class="time"><strong>[00:36:38]</strong> </span><span class="speaker"><strong>发言人2: </strong></span>那看人也是经验，有有道理看面相都是经验的，好吧？</p>
-<p class="transcript-line"><span class="time"><strong>[00:36:42]</strong> </span><span class="speaker"><strong>发言人1: </strong></span>对，因为确实有投资人看面相对。</p>
-<p class="transcript-line"><span class="time"><strong>[00:36:44]</strong> </span><span class="speaker"><strong>发言人2: </strong></span>算八字的也有。</p>
-<p class="transcript-line"><span class="time"><strong>[00:36:45]</strong> </span><span class="speaker"><strong>发言人1: </strong></span>那那那那那那个成功了吗？</p>
-<p class="transcript-line"><span class="time"><strong>[00:36:47]</strong> </span><span class="speaker"><strong>发言人2: </strong></span>后来蔡文胜原来就看所有的见他的创始人的八字的，他每个都要看的。而且是那个事情是很重要的一件事情，不是瞎看完就结束。他是要拿那个当他决策与否的重要的标准的。</p>
-<p class="transcript-line"><span class="time"><strong>[00:36:59]</strong> </span><span class="speaker"><strong>发言人1: </strong></span>这个确实我知道，而且他事实上他的投资是成功的。</p>
-<p class="transcript-line"><span class="time"><strong>[00:37:02]</strong> </span><span class="speaker"><strong>发言人2: </strong></span>还可以，人不错的天使投资人。</p>
-<p class="transcript-line"><span class="time"><strong>[00:37:04]</strong> </span><span class="speaker"><strong>发言人1: </strong></span>对，就是在这个里面我始终作为一个局外人，就是我跟他有接触，但我不是这行业的人我始终没有理解的一个事情就是这个行业到底是什么？就是他到底是个什么行业？就是你说这个行业是个看人的行业，他是看人。你说他是个有运气的行业，他有运气。他是个有积累的行业，他有积累有。你说是一个年纪轻有优势的行业，他也有有。但你合到一起就是你不知道什么人该干这个事儿。</p>
-<p class="transcript-line"><span class="time"><strong>[00:37:27]</strong> </span><span class="speaker"><strong>发言人2: </strong></span>对，所以什么人都可以干。</p>
-<p class="transcript-line"><span class="time"><strong>[00:37:29]</strong> </span><span class="speaker"><strong>发言人1: </strong></span>但什么人又不一定能干好。对。</p>
-<p class="transcript-line"><span class="time"><strong>[00:37:31]</strong> </span><span class="speaker"><strong>发言人2: </strong></span>但反过来讲，因为这个行业只结果只看结果，所以我不需要考虑中间过程。</p>
-<p class="transcript-line"><span class="time"><strong>[00:37:34]</strong> </span><span class="speaker"><strong>发言人1: </strong></span>所以很公平。</p>
-<p class="transcript-line"><span class="time"><strong>[00:37:35]</strong> </span><span class="speaker"><strong>发言人2: </strong></span>对，你投的好就是牛逼，管你怎么看呢？</p>
-<p class="transcript-line"><span class="time"><strong>[00:37:39]</strong> </span><span class="speaker"><strong>发言人1: </strong></span>如果你那你如果你是这个出资方，现在你要选一个GP帮你管钱。</p>
-<p class="transcript-line"><span class="time"><strong>[00:37:44]</strong> </span><span class="speaker"><strong>发言人2: </strong></span>你以后有什么标准去？我天这太难了。</p>
-<p class="transcript-line"><span class="time"><strong>[00:37:46]</strong> </span><span class="speaker"><strong>发言人1: </strong></span>这太难了。还是你选择我不做一级，我就只投二级，或者说我不投资，我存银行买比特币太难了。</p>
-<p class="transcript-line"><span class="time"><strong>[00:37:51]</strong> </span><span class="speaker"><strong>发言人2: </strong></span>真太难了。一级还是一个态度问题。所以很多时候你哪怕是作为所谓的类似像你的一个问题，像母基金，母基怎么去找，怎么去选GP我们现在还好一点，再看一看，至少还可以看你历史的，比如你这支基金DDPI多少，IR是多少，投入什么项目的决策方式怎么样，它至少还有一定的评判方式。但纯一战场里面的人我觉得真的太难了，所以我干不了。就是你你早就看明白这件事情了，干不了什么人。</p>
-<p class="transcript-line"><span class="time"><strong>[00:38:16]</strong> </span><span class="speaker"><strong>发言人1: </strong></span>你觉得能干呢？今天面对一个什么样的人，你会推荐他。</p>
-<p class="transcript-line"><span class="time"><strong>[00:38:20]</strong> </span><span class="speaker"><strong>发言人2: </strong></span>你做你所以你只能推一些，其实那些推荐的理由都是一些偏性格上的东西。你比如说你你你可能对很多东西很比较自发的，会有兴奋感会比较积极，而不需要别人太多的推动，会比较主动。然后你可能天生比较适合建立这个人脉关系也好，还是网络也好，或者说你比较容易在很早的时候构建出你自己的行业的脉络也好，就是他总有一些这样的软一点的描述，但是这个事情也不绝对。其实就是对，如果你有你也可以干别的，今天也有很多别的工作也比这个更对。</p>
-<p class="transcript-line"><span class="time"><strong>[00:39:01]</strong> </span><span class="speaker"><strong>发言人1: </strong></span>因为如果你是一个对很多东西都就是你是个容易兴奋的人，那第一点有可能你的精力会非常分散，是我自己就是这毛病。或者有一点，如果你对这个事特兴奋，那你不应该做投资，应该干那个事儿。对，应该干。所以他就得卡到中间那个位置，是不能太兴奋。对，也不能太不兴奋，就很难。</p>
-<p class="transcript-line"><span class="time"><strong>[00:39:16]</strong> </span><span class="speaker"><strong>发言人1: </strong></span>这个事儿是因为我就这几年咱聊完也两三年了时间了。我觉得这几年再重新，当时我在做内容就没有接触创业了。这几年重新接触创业，接触融资，最大的感觉就是这工作我感觉比我当年想的还难多了。我今天甚至不知道一个人他他到底该投什么公司，就完全想不出来。我觉得任何公司都不应该投了，但他又该投任何公司就很难这个。</p>
-<p class="transcript-line"><span class="time"><strong>[00:39:39]</strong> </span><span class="speaker"><strong>发言人2: </strong></span>事儿AI这波尤其明显，对，尤其明显溢出到膨胀的美元的流动性。</p>
-<p class="transcript-line"><span class="time"><strong>[00:39:48]</strong> </span><span class="speaker"><strong>发言人1: </strong></span>对。</p>
-<p class="transcript-line"><span class="time"><strong>[00:39:49]</strong> </span><span class="speaker"><strong>发言人2: </strong></span>巨大的趋势。对在这里。</p>
-<p class="transcript-line"><span class="time"><strong>[00:39:51]</strong> </span><span class="speaker"><strong>发言人1: </strong></span>对，就是天亮的钱和人类的未来。</p>
-<p class="transcript-line"><span class="time"><strong>[00:39:54]</strong> </span><span class="speaker"><strong>发言人2: </strong></span>对你他妈不搞这个，你对得起你叫VC吗？对，你VC不就搞这个，你不就应该他妈当年用沙子做出芯片的吗？那不就是硅谷的故事吗？那不就是你风险投资最牛逼的对跟最好的故事吗？我是来了一次，你不弄这个。</p>
-<p class="transcript-line"><span class="time"><strong>[00:40:08]</strong> </span><span class="speaker"><strong>发言人1: </strong></span>你弄什么？现在就是沙子又来了，钱又来了。对，你为不弄？但问题在于就是很多年之后，有些沙子它就是沙子它就从来没变成芯片。</p>
-<p class="transcript-line"><span class="time"><strong>[00:40:17]</strong> </span><span class="speaker"><strong>发言人2: </strong></span>所以就是这个很拧巴，非常拧巴。但是他无奈他很无奈，这个太大的叙事放在任何一家基金跟机构的个人面前都太宏大了。</p>
-<p class="transcript-line"><span class="time"><strong>[00:40:30]</strong> </span><span class="speaker"><strong>发言人1: </strong></span>但这里面肯定还是有做的好的人。当然了，就是你觉得他们有方法吗？咱就说AI这个行业，这次不说这个投资的共性了，就说AI这个行业，你觉得有谁的方法你是比较认可的？</p>
-<p class="transcript-line"><span class="time"><strong>[00:40:41]</strong> </span><span class="speaker"><strong>发言人2: </strong></span>你是爱投资还是AI项目。</p>
-<p class="transcript-line"><span class="time"><strong>[00:40:43]</strong> </span><span class="speaker"><strong>发言人1: </strong></span>都行。</p>
-<p class="transcript-line"><span class="time"><strong>[00:40:45]</strong> </span><span class="speaker"><strong>发言人2: </strong></span>你也很难说谁认可。我比较信一些人说的话，但他做的成绩怎么样，我们我们不知道，但我比较信他们说，或者说从结论来说，比如他们出什么新闻，或者他们参加播，或他们发文章，我会认真看的。</p>
-<p class="transcript-line"><span class="time"><strong>[00:40:57]</strong> </span><span class="speaker"><strong>发言人1: </strong></span>比如能举几个例子。</p>
-<p class="transcript-line"><span class="time"><strong>[00:40:59]</strong> </span><span class="speaker"><strong>发言人2: </strong></span>海外的我觉得sam我是我是挺认的奥特曼，对我是挺刃。虽然很他的风评不是特别的正向。</p>
-<p class="transcript-line"><span class="time"><strong>[00:41:06]</strong> </span><span class="speaker"><strong>发言人1: </strong></span>回忆太慢。</p>
-<p class="transcript-line"><span class="time"><strong>[00:41:07]</strong> </span><span class="speaker"><strong>发言人2: </strong></span>就是steam里那个，但是他的表达方式跟很多评判的这个方式我是认可的，相对比较认可。就他说什么他写什么，我会比较认真的去看。然后国内的其实小川总在这一段时间可能不是特别理想。但是在之前那段时间，在百川没有出太多问题的时候，他讲了很多方式跟他这一路的思考，我觉得还是挺认可的。开复老师也是。</p>
-<p class="transcript-line"><span class="time"><strong>[00:41:33]</strong> </span><span class="speaker"><strong>发言人1: </strong></span>但客观上来看，开复老师和小川这就是问题。</p>
-<p class="transcript-line"><span class="time"><strong>[00:41:37]</strong> </span><span class="speaker"><strong>发言人2: </strong></span>这就是变成的那个问题，包括汪华也是。我你看我上周不是前天三六氪开良储的大会，就他们每年一届的微博大会，投资大会。汪华是有一个演讲，然后我们华你要知道在过去十年，移动互联网每年是跟类似我们叫先知一样的存在了。但汪华的投资，也不能说汪华就创业，工厂的投资不是那么也还行，但是不是那个。</p>
-<p class="transcript-line"><span class="time"><strong>[00:42:02]</strong> </span><span class="speaker"><strong>发言人1: </strong></span>最有代表作知乎吗？</p>
-<p class="transcript-line"><span class="time"><strong>[00:42:04]</strong> </span><span class="speaker"><strong>发言人2: </strong></span>对，那不能这么讲，但万华总的当然是认为他的分析框架跟对预判的理性的是合理，且他的度掌握的非常，他没有那么技术，也没有那么商业，也没有他的那个度是特别适合我们这些人去吸收跟接纳了。但从结果来看，从投资结果，不是特别理想。但是这些人出的内容跟他们的分析的状态，你是愿意。但反而你就会认为，或者你可以基本推导出你也不适合做投资。</p>
-<p class="transcript-line"><span class="time"><strong>[00:42:32]</strong> </span><span class="speaker"><strong>发言人1: </strong></span>就因为你发现你喜欢的人。</p>
-<p class="transcript-line"><span class="time"><strong>[00:42:34]</strong> </span><span class="speaker"><strong>发言人2: </strong></span>对，就是这个跟投资的最后的结论是一样。就是你在做了一段时间之后，你做了几年投资之后，其实你对什么样的创始人会有偏好，它是基本上你自己是摸得清楚的。但是如果你做了几年之后，你发现你这些偏好选择出来的人的结果并不是最好的那一批，那就是你自己的问题吗？</p>
-<p class="transcript-line"><span class="time"><strong>[00:42:56]</strong> </span><span class="speaker"><strong>发言人1: </strong></span>我问个特别愚蠢的问题，如果你都发现了这一点，你反着偏好来的。</p>
-<p class="transcript-line"><span class="time"><strong>[00:43:02]</strong> </span><span class="speaker"><strong>发言人2: </strong></span>所有人都说枪口抬高1厘米抬不起来。</p>
-<p class="transcript-line"><span class="time"><strong>[00:43:06]</strong> </span><span class="speaker"><strong>发言人1: </strong></span>就是你看这些人你是真的不想投。</p>
-<p class="transcript-line"><span class="time"><strong>[00:43:07]</strong> </span><span class="speaker"><strong>发言人2: </strong></span>对你抬不起来，你就是抬不起来。</p>
-<p class="transcript-line"><span class="time"><strong>[00:43:13]</strong> </span><span class="speaker"><strong>发言人1: </strong></span>因为你说的这是一个特别就最近几个月才发生的事儿，就是百川的这个口碑变化，其实这几个月开始发生的。但你如果之前读小川写的东西，它确实是你觉得有道理的对，那我觉得这个事儿他就难在这儿。就这事儿他你跟咱们刚才前面聊的时候都说这事儿里的逻辑在哪儿。但当一个特别好的逻辑真给到你的时候，你也不知道他是是不是对的。</p>
-<p class="transcript-line"><span class="time"><strong>[00:43:33]</strong> </span><span class="speaker"><strong>发言人2: </strong></span>所以这里面就出现另外一个极端，你像江湖上另外一个大佬陈林风，陈霆锋他说他他给。</p>
-<p class="transcript-line"><span class="time"><strong>[00:43:40]</strong> </span><span class="speaker"><strong>发言人1: </strong></span>大家介绍一下。</p>
-<p class="transcript-line"><span class="time"><strong>[00:43:41]</strong> </span><span class="speaker"><strong>发言人2: </strong></span>陈庭锋原来是腾讯科技的主编，然后后来做自媒体，然后写各种各样的公号文章，写互联网史，写发展这些。他最近出了一本书，叫他是用西游记的方式写写腾讯，腾讯叫悟空传。然后他陈老师是有些神道的，他是研究什么佛学、道家、儒家，然后他还屁股，他是一个这样的人。然后他当时就说deep sik火了之后，他是用他的这套理论去解释为什么最后是deep sick，而不是王小川，不是李开复。就是他说什么就类似地性原理，身心要合一，要要要要你你像他说你像开复跟小川，自认为这个时代的浪潮给到你巨大的机会，你什么都具备，你又已经结束了上一段的过程，你又身价也很高，又市场上所有人都认为你适合做这件事情，你像集齐了七龙珠一样。但是我告诉你不是这样，你不是那个最shop或者罪。</p>
-<p class="transcript-line"><span class="time"><strong>[00:44:40]</strong> </span><span class="speaker"><strong>发言人1: </strong></span>就他们类似小说开场第一章出现的人。对，就你是为了引出主角。对。</p>
-<p class="transcript-line"><span class="time"><strong>[00:44:44]</strong> </span><span class="speaker"><strong>发言人2: </strong></span>就是他用这种方式去解释，然后你发现原来我是不太喜欢这些的论述方式，我觉得那是一个太过玄学的论述。但你会发现越来越多很多事情可能跟年纪大了有关，他似乎也能用这套理论去解释。</p>
-<p class="transcript-line"><span class="time"><strong>[00:45:00]</strong> </span><span class="speaker"><strong>发言人1: </strong></span>这套理论指的究竟是什么呢？</p>
-<p class="transcript-line"><span class="time"><strong>[00:45:02]</strong> </span><span class="speaker"><strong>发言人2: </strong></span>就是你说是中国几千年传下来的这些。历史的儒家也好，道家也好，各种各样的经典理论们。</p>
-<p class="transcript-line"><span class="time"><strong>[00:45:15]</strong> </span><span class="speaker"><strong>发言人1: </strong></span>能举一个具体的例子。你觉得你你觉得是可以下一步给你自己实操用的吗？</p>
-<p class="transcript-line"><span class="time"><strong>[00:45:19]</strong> </span><span class="speaker"><strong>发言人2: </strong></span>我现在没找到，不敢思抄抄不了。</p>
-<p class="transcript-line"><span class="time"><strong>[00:45:23]</strong> </span><span class="speaker"><strong>发言人1: </strong></span>就你隐约感觉这事有点道理，但你又不知道剧情有道理在哪。</p>
-<p class="transcript-line"><span class="time"><strong>[00:45:27]</strong> </span><span class="speaker"><strong>发言人2: </strong></span>我还没来得及看陈老师的悟空的那个，但我知道他就是我看他那个目录，我就知道他大概他的他他为什么写，以及怎么去构建这个内容。</p>
-<p class="transcript-line"><span class="time"><strong>[00:45:37]</strong> </span><span class="speaker"><strong>发言人1: </strong></span>从另外一个角度去问的话，就是这些互联网早年的这些最好的记者们，他们适合去做投资吗？</p>
-<p class="transcript-line"><span class="time"><strong>[00:45:42]</strong> </span><span class="speaker"><strong>发言人2: </strong></span>有啊，有适合做的，也有不适合记者的好处是说你在很早期的接触到这些人，这是最直接的好处。第二就是如果你能建立这些关系，当这些关系成立成为一种所有人都抬高一尺的时候，不就把你抬起来了。那那这是一个很很粗浅的原因，他只供你比如说打前三年，在之后的事情就跟你原来做记者可能没有太多的关系了。</p>
-<p class="transcript-line"><span class="time"><strong>[00:46:12]</strong> </span><span class="speaker"><strong>发言人1: </strong></span>对，因为可能很多观众不知道，就是我是13年开始看名号写东西的。就我回国创业前，我对国内投资者什么样的理解。因为我能读的书，那个年代全是美国人写的，所以我对于国内的投资是什么样的理解，全部是靠我不能说百分之百，但我至少50%到60%是靠名号建立的。就是你从那个时候就开始一直在在做写作，一直到今天你还在写很多东西，你那个通知书更的，其实我觉得投资人最勤的了，就是横向来。不是，那就是我讲这事儿你跟的最勤的了。对，但就是在这个里面我比较好奇，这其实我觉得这某种上来说跟投资是一样的。因为投资人也在讲逻辑，就是什么样的写作者写的商业东西是愿意看的，就从你个人审美上来说。</p>
-<p class="transcript-line"><span class="time"><strong>[00:46:53]</strong> </span><span class="speaker"><strong>发言人2: </strong></span>我今天上午看一篇文章，我看的挺深的，是讲那个founder fund的创始人，原来配联创他的。</p>
-<p class="transcript-line"><span class="time"><strong>[00:47:01]</strong> </span><span class="speaker"><strong>发言人1: </strong></span>维迪尔，对他为什么。</p>
-<p class="transcript-line"><span class="time"><strong>[00:47:04]</strong> </span><span class="speaker"><strong>发言人2: </strong></span>这一路走来这么强？然后从他最开始大学到你说的。</p>
-<p class="transcript-line"><span class="time"><strong>[00:47:07]</strong> </span><span class="speaker"><strong>发言人1: </strong></span>是一篇英文文章吗？对，是英文的。我我我特别喜欢的文章晚你也聊专门做过一期节目，就聊那一篇文章。</p>
-<p class="transcript-line"><span class="time"><strong>[00:47:13]</strong> </span><span class="speaker"><strong>发言人2: </strong></span>当然你可能看的是之前的，他最近又有一个新的。</p>
-<p class="transcript-line"><span class="time"><strong>[00:47:16]</strong> </span><span class="speaker"><strong>发言人1: </strong></span>又重新。</p>
-<p class="transcript-line"><span class="time"><strong>[00:47:17]</strong> </span><span class="speaker"><strong>发言人2: </strong></span>看一下他他只他现在只写到他票票卖给那个合并跟马斯克的原来那个公司合并的那个阶段。然后他这一路走来，就是你特别喜欢看这种东西。就是说还有时间的长线的脉络的积累，有这个时间线上发生的一些或大或小的事件。同时这个描述过程中揉杂着作者的某些情绪。你像昨天这为什么会对这个事情感觉？因为正好也是前天晚上写那个喜马拉雅的事情，就是我是就是莫须有的一种表达。</p>
-<p class="transcript-line"><span class="time"><strong>[00:47:49]</strong> </span><span class="speaker"><strong>发言人1: </strong></span>欲说今晚上我一定要把它写了，就是我看腾讯说喜马拉雅那事的第一反应就是这玩意儿明浩啥节目肯定很快就出来，我就等着看他节目就行。</p>
-<p class="transcript-line"><span class="time"><strong>[00:47:57]</strong> </span><span class="speaker"><strong>发言人2: </strong></span>我都不用新闻，反正那天晚上我跟我老婆说，我说我先把你们小孩儿洗完澡哄完睡弄好，我说我去干活了。然后面然后弄完之后，为什么然后我就在我的群里，我说我要写这个，然后我发了一个除夕计划，写的PPT已经来不及做了，我做了个脑图，然后很多朋友说你拿AI帮你做个PPT，我说不行，我说为什么不行？我说那些陈芝麻烂谷子的事情，那些情绪，那些封装在记忆里的情绪，AI是给不了的。那些东西才是有意思的，那些东西才是鲜活的。</p>
-<p class="transcript-line"><span class="time"><strong>[00:48:33]</strong> </span><span class="speaker"><strong>发言人1: </strong></span>对我觉得这是很有意思。就是说我们在看商业报道的时候，一般特别喜欢看独家，看最新的消息。但真正能记到我们脑子里头的都是作者有特别强情绪的。所以但是理论上来说，尤其像我这种真写这些东西的人，包括你也在写，咱不应该有情绪，一直在说的一个客观和客观的事儿。但最后你会发现，你能记住是那个作者的品味还不真不见得是这个公司的事。</p>
-<p class="transcript-line"><span class="time"><strong>[00:48:52]</strong> </span><span class="speaker"><strong>发言人2: </strong></span>所以这是一种反今天的，比如偏流量，偏这种叙事的东西。所以他可能他绝对不会成为巨大的主流。但是他会给大家，我觉得今天的好处是说，他给了无论是整个中国的还是美国内容的这个行业的发展来讲，他给了大家这样一些地方允许这种反流量的，反主流东西存在的地方。我觉得博客就是。</p>
-<p class="transcript-line"><span class="time"><strong>[00:49:18]</strong> </span><span class="speaker"><strong>发言人1: </strong></span>某种程度来说，投资不是也一样吗？对，就是一个人的品味确实是可以是投资。</p>
-<p class="transcript-line"><span class="time"><strong>[00:49:22]</strong> </span><span class="speaker"><strong>发言人2: </strong></span>你觉得最近那个品味的文章不是很多人转？就AI时代品味似乎变得更重要了。</p>
-<p class="transcript-line"><span class="time"><strong>[00:49:26]</strong> </span><span class="speaker"><strong>发言人1: </strong></span>我这一点我我我那篇上说说我只看了标题到底说是对的。对，是啊，但投资品味是怎么被练出来的？就是他这个投资的品味究竟跟投资有关，还是跟这人有关，就跟这人的过往经历有关。</p>
-<p class="transcript-line"><span class="time"><strong>[00:49:38]</strong> </span><span class="speaker"><strong>发言人2: </strong></span>我觉得跟经历更更更甚至说的再次表演就是钱砸出来的。你要投到一定额度才会建立这个品位。当然这个品味是好是坏是另外一件事情，但至少这个品味建立是需要巨大的成本的，而且是可能是前期的沉没成本的。</p>
-<p class="transcript-line"><span class="time"><strong>[00:49:56]</strong> </span><span class="speaker"><strong>发言人1: </strong></span>你觉得就这些年这些案子里面，就你作为一个旁观者看这案子里面，哪个案子是你觉得最莫名其妙。但是他最后取得了一个你想不到的结果，答案就不说那个大家都知道的什么失业拼多多什么。</p>
-<p class="transcript-line"><span class="time"><strong>[00:50:07]</strong> </span><span class="speaker"><strong>发言人2: </strong></span>这些我想想。</p>
-<p class="transcript-line"><span class="time"><strong>[00:50:09]</strong> </span><span class="speaker"><strong>发言人1: </strong></span>或者能不能各说一个，你觉得这事肯定行，他真行的，为什么行？或者说就是你觉得他不行，那最后行了，你有没有想过他。</p>
-<p class="transcript-line"><span class="time"><strong>[00:50:17]</strong> </span><span class="speaker"><strong>发言人2: </strong></span>为什么行行，还是你熟，你会认为就是你敢下这么强烈的行的结论，一定是你最熟的行业吗？直播行业是我下过最大的注，因为你的肉身进去了吗？那当然最后证明阶段性是行的，只不过最后它没有长到最大，它阶段性是行的，那这种形就代表着或者说我们这些做投资的人会想一个事情的时候，我经常会觉得就是做投资做投资意识上投资，做商业分析，做战略可能不是不太一样。</p>
-<p class="transcript-line"><span class="time"><strong>[00:50:49]</strong> </span><span class="speaker"><strong>发言人1: </strong></span>意义上很多。</p>
-<p class="transcript-line"><span class="time"><strong>[00:50:50]</strong> </span><span class="speaker"><strong>发言人2: </strong></span>时候很重要的事情是阶段性的结果。如果意识上总想终局，意识上很多事情就干不了。我再更希望你比如直播这个战场，最后证明直播是短视频的附属，直播天花板是被短视频封死了。</p>
-<p class="transcript-line"><span class="time"><strong>[00:51:08]</strong> </span><span class="speaker"><strong>发言人1: </strong></span>对，因为你说像美国这些，是头像是个萌的那个软件叫啥来我都忘了。他们当年出来的时候。</p>
-<p class="transcript-line"><span class="time"><strong>[00:51:16]</strong> </span><span class="speaker"><strong>发言人2: </strong></span>大家认为直播是全部。对，是啊原来当年我们做直播也认为直播就是全部。但是后来证明短视频把直播天花板封住了，但阶段性直播是在很短期达到很大成果，给到投资人推出的一个很很好的行业。所以你下了注，只不过就跟我们上次讲，这个注你75%概率，你是25%，我觉得这是然后返利就是你觉得什么一定不成的，最后成了。我想想，我觉得帕玛特就是最近最红的泡泡玛特。</p>
-<p class="transcript-line"><span class="time"><strong>[00:51:48]</strong> </span><span class="speaker"><strong>发言人1: </strong></span>很奇怪，你是喜欢接键盘的人，你应该是很理解泡泡玛特的。</p>
-<p class="transcript-line"><span class="time"><strong>[00:51:53]</strong> </span><span class="speaker"><strong>发言人2: </strong></span>我觉得跟阶段有关。昨天有一个记者加我，他说他要写泡玛特的这个主题，我说你找我，那可是我又不看消费。</p>
-<p class="transcript-line"><span class="time"><strong>[00:52:01]</strong> </span><span class="speaker"><strong>发言人1: </strong></span>他说你看节俭版不是。</p>
-<p class="transcript-line"><span class="time"><strong>[00:52:04]</strong> </span><span class="speaker"><strong>发言人2: </strong></span>然后我就跟他多聊了几句。因为咱们天天跟这些技术朋友打，你你你除了是作为一个给的行业信息，你甚至可能以朋友或者以一个身边人角度给他讲的。就说你说今天就最近这两个月，市面上写写画马文章没有那么一千篇，也有500篇了。</p>
-<p class="transcript-line"><span class="time"><strong>[00:52:19]</strong> </span><span class="speaker"><strong>发言人1: </strong></span>对，还有1万在写。</p>
-<p class="transcript-line"><span class="time"><strong>[00:52:21]</strong> </span><span class="speaker"><strong>发言人2: </strong></span>对，然后你说你今天接到的任务是写怕马特、谢拉布布，你有什么新的角度来写，几乎没有了。然后我就给他了一个角度，我说这个角度。</p>
-<p class="transcript-line"><span class="time"><strong>[00:52:33]</strong> </span><span class="speaker"><strong>发言人3: </strong></span>是这样的。</p>
-<p class="transcript-line"><span class="time"><strong>[00:52:35]</strong> </span><span class="speaker"><strong>发言人2: </strong></span>泡玛特在成为今天。</p>
-<p class="transcript-line"><span class="time"><strong>[00:52:38]</strong> </span><span class="speaker"><strong>发言人3: </strong></span>的泡。</p>
-<p class="transcript-line"><span class="time"><strong>[00:52:39]</strong> </span><span class="speaker"><strong>发言人2: </strong></span>玛特之前，以及他创业那段时间的故事都有人写了。他早年的天使投资，什么投资人是谁，也都很多人写了，对吧？它成为今天这个样子，长成这么大，港股上市暴涨怎么样也有人写了，但中间有一段时间的故事没有人写，就是在那段时间的故事是什么？</p>
-<p class="transcript-line"><span class="time"><strong>[00:52:57]</strong> </span><span class="speaker"><strong>发言人2: </strong></span>泡玛特早年是在新三板上过市的那几年跑马头的曹报表都是查得到的，他业务情况也全部都查得到。那段时间为什么没有人可泡马特？为什么那段时间他是那个样子的？为什么那个时候它你想它相当于在艺术上不是特别顺利，然后去了300，300也不是特别理想。当然三板有三板的问题，但是上面也不太理想。然后他又经过了什么样的故事才变成今天的宝马特。我接触宝马特是在那个时候，那个时候的喜欢马特就是不值得投资的，他就是个玩具集合店。</p>
-<p class="transcript-line"><span class="time"><strong>[00:53:35]</strong> </span><span class="speaker"><strong>发言人1: </strong></span>就像现在机场里的那些众多的数码家电一样。所以这个事儿的关键在于不是你看对看错了，而是王宁作为创始人对他改什么东西。</p>
-<p class="transcript-line"><span class="time"><strong>[00:53:45]</strong> </span><span class="speaker"><strong>发言人2: </strong></span>对，这个就是创始人的成长。</p>
-<p class="transcript-line"><span class="time"><strong>[00:53:50]</strong> </span><span class="speaker"><strong>发言人1: </strong></span>是不是很多时候我都可以这么理解，是就是投资人看的东西。</p>
-<p class="transcript-line"><span class="time"><strong>[00:53:53]</strong> </span><span class="speaker"><strong>发言人2: </strong></span>你要知道我们再从更现实、更低调的更细节执行角度来讲，投资人跟一家公司的交集只发生在一瞬间，也是一个瞬间的简便数据。那个瞬间当下的状态到底在整个的发展过程中的权重是随机的。</p>
-<p class="transcript-line"><span class="time"><strong>[00:54:13]</strong> </span><span class="speaker"><strong>发言人1: </strong></span>就是说这个事儿本质上和你在盛大的时候，这个陈老板对接。</p>
-<p class="transcript-line"><span class="time"><strong>[00:54:18]</strong> </span><span class="speaker"><strong>发言人2: </strong></span>拉了个拉个单子一样。</p>
-<p class="transcript-line"><span class="time"><strong>[00:54:20]</strong> </span><span class="speaker"><strong>发言人1: </strong></span>只不过这个是一个对人的洁面，而且还是很片面的洁面。好歹那个排名是个真的事儿。对但这个洁面是一个很虚的是啊。</p>
-<p class="transcript-line"><span class="time"><strong>[00:54:29]</strong> </span><span class="speaker"><strong>发言人2: </strong></span>所以反过来讲，为什么你看我们至少MAC非常认可红杉的在中国的成绩，成绩也很好，为什么？因为红杉有定力或甚至他可能内部有机制不断的拉回去。就比如我这个界面跟你碰到了不合适，分开了，我会在很固定的一段时间重新再拉回来。</p>
-<p class="transcript-line"><span class="time"><strong>[00:54:53]</strong> </span><span class="speaker"><strong>发言人1: </strong></span>就再看你再看他。</p>
-<p class="transcript-line"><span class="time"><strong>[00:54:54]</strong> </span><span class="speaker"><strong>发言人2: </strong></span>甚至会主动的做这件事情。</p>
-<p class="transcript-line"><span class="time"><strong>[00:54:57]</strong> </span><span class="speaker"><strong>发言人1: </strong></span>这个太难了，就是再探再报。</p>
-<p class="transcript-line"><span class="time"><strong>[00:54:59]</strong> </span><span class="speaker"><strong>发言人2: </strong></span>对，我觉得这个从无论从机制还是从人的主观能动性，还是从什么上角度个体来讲，这个真的佩服。</p>
-<p class="transcript-line"><span class="time"><strong>[00:55:07]</strong> </span><span class="speaker"><strong>发言人1: </strong></span>对，因为我就意识到投资人特别不愿意聊自己聊过的对。</p>
-<p class="transcript-line"><span class="time"><strong>[00:55:11]</strong> </span><span class="speaker"><strong>发言人2: </strong></span>因为他有过判断了好吗？</p>
-<p class="transcript-line"><span class="time"><strong>[00:55:13]</strong> </span><span class="speaker"><strong>发言人1: </strong></span>对，再聊他要不然打自己脸，要不然就否认自己脸被打了。</p>
-<p class="transcript-line"><span class="time"><strong>[00:55:17]</strong> </span><span class="speaker"><strong>发言人2: </strong></span>甚至这个故事当年也是发生过的。当年经纬最早看移动互联网的时候，没有太多人认可移动上网方向。然后很多基金后知后觉进来，然后可能也是通过他们自己方式来的。经纬当时已经投了可能满50家移动网公司了。我们不说最后结果怎么，反正至少探子就是探针的这个角度而言，绝对已经是踏到不能再踏了。洪山当时沈南鹏直接找到张颖，说，你把你手里的50杆子里面挑十架给我拳头。</p>
-<p class="transcript-line"><span class="time"><strong>[00:55:50]</strong> </span><span class="speaker"><strong>发言人1: </strong></span>这是很有魄力的。</p>
-<p class="transcript-line"><span class="time"><strong>[00:55:51]</strong> </span><span class="speaker"><strong>发言人2: </strong></span>也是对，沈南鹏给我VC好吗？低下头来跟张颖说，给我你十个案子，什么价格我不在乎，全部都。</p>
-<p class="transcript-line"><span class="time"><strong>[00:56:01]</strong> </span><span class="speaker"><strong>发言人1: </strong></span>那他他给的哪十个？或者说他以什么标准选的十个。</p>
-<p class="transcript-line"><span class="time"><strong>[00:56:04]</strong> </span><span class="speaker"><strong>发言人2: </strong></span>那张颖选的吗？当时有啊，饿了么、陌陌都有。</p>
-<p class="transcript-line"><span class="time"><strong>[00:56:07]</strong> </span><span class="speaker"><strong>发言人1: </strong></span>后来给挺好的。</p>
-<p class="transcript-line"><span class="time"><strong>[00:56:09]</strong> </span><span class="speaker"><strong>发言人2: </strong></span>所以你说沈南鹏怎么做这个决定，他他经过什么这样的心理的建设，评判的标准，还是谁给他的建议，还是没有可能都没有可能，就一念之间他就干了。</p>
-<p class="transcript-line"><span class="time"><strong>[00:56:23]</strong> </span><span class="speaker"><strong>发言人1: </strong></span>但这个确实可能观众如果不接触这个，他没有那个感觉。我作为接触这个事的人我特别理解，就是他愿意重新看一遍。这个就是非常大的是啊咱们切回一个刚才有一点古老的咱们聊到的事儿，就是你看咱们就说趋势这个事情，沈南鹏是后看到趋势，但他愿意回来重新来一次。但是创新工厂经纬和盛大是同时看到了一个对的趋势。那为什么经纬在这里面比另外两家要相对成功呢？也不是相对就绝对。</p>
-<p class="transcript-line"><span class="time"><strong>[00:56:53]</strong> </span><span class="speaker"><strong>发言人2: </strong></span>成功机制的问题，可能大家还是信奉一些看上去虚无缥缈的标准市场化。相信创业者你要知道那两家是不一样的，盛大是要占大股，并且甚至要控股了。</p>
-<p class="transcript-line"><span class="time"><strong>[00:57:08]</strong> </span><span class="speaker"><strong>发言人1: </strong></span>那完全不一样。</p>
-<p class="transcript-line"><span class="time"><strong>[00:57:10]</strong> </span><span class="speaker"><strong>发言人2: </strong></span>创新工场早期的项目都是孵化的，都是开复老师跟汪华攒的局，点心、豌豆荚、知乎都是传的项目对吧？都是他们找的人或者是碰撞出来的，要做什么，然后给的钱做的是孵化策略还是不太一样的。</p>
-<p class="transcript-line"><span class="time"><strong>[00:57:29]</strong> </span><span class="speaker"><strong>发言人1: </strong></span>但只有你们是坚定的市场化投资。</p>
-<p class="transcript-line"><span class="time"><strong>[00:57:31]</strong> </span><span class="speaker"><strong>发言人2: </strong></span>财务投资者占小区小股权比例。</p>
-<p class="transcript-line"><span class="time"><strong>[00:57:32]</strong> </span><span class="speaker"><strong>发言人1: </strong></span>相信创业者。其实你们在这方面，就是我觉得这其实本质上它是两个潮流。一个潮流是移动联网，但另外一个潮流是财务投资。它就应该是未来。而可能另外两家在这方面生工商可能还好，但是可能盛大就没想明白。</p>
-<p class="transcript-line"><span class="time"><strong>[00:57:47]</strong> </span><span class="speaker"><strong>发言人2: </strong></span>就这样对，他是战略投资人。那战略投资方有战略投资方的意图，有他的所求，也无关对错。那就是他的位置决定，就是屁股坐在那儿。</p>
-<p class="transcript-line"><span class="time"><strong>[00:57:57]</strong> </span><span class="speaker"><strong>发言人1: </strong></span>你刚才说就是一级市场，然后战略还有哪个来着？</p>
-<p class="transcript-line"><span class="time"><strong>[00:58:00]</strong> </span><span class="speaker"><strong>发言人2: </strong></span>商商业分析。</p>
-<p class="transcript-line"><span class="time"><strong>[00:58:01]</strong> </span><span class="speaker"><strong>发言人1: </strong></span>商业分析这三个你就区别在哪儿？我觉得从打。</p>
-<p class="transcript-line"><span class="time"><strong>[00:58:04]</strong> </span><span class="speaker"><strong>发言人2: </strong></span>工人的角色来讲，工作状态不太一样。就是一市场的打工人，刚才我讲他是个黑盒，就是你的工作就是那个黑盒。1000个项目进来输出五个亿，结束了你的工作，基本一年工就这些伤分的工作变成了一种，它是一个我觉得伤分是没有情绪的，它甚至可以做到完全理双引号，完全理性的一种工作。就是现实发生了什么，历史上发生什么，现在在发生，未来可能会发生什么，谁在做什么？他是一个这样的事情，战略可能很多时候是做选择的，就战略的前一步可能是上分，但战略更多的时候是做选择跟取舍。尤其是我觉得超级大的平台级公司的战略，可能上分的或者分析的成分更大一点，但是不是那么醉的。比如除了腾讯阿里这个来我的公司之外，几千名以上的，哪怕是我觉得100亿美金以内的所谓的战略的公司的战略本质上就是取舍，就是什么能干什么不能干，就这么简单一件事情。但战略的前提是你可能要有足够的分析，甚至要做过一些投资，要做过一些事情，要要甚至要亏过钱才怎么样才会有结果。</p>
-<p class="transcript-line"><span class="time"><strong>[00:59:16]</strong> </span><span class="speaker"><strong>发言人1: </strong></span>所以可不可以理解商分和战略的关键点还是公司想干什么，就是这家公司想干什么。而一级的关心的点是他投那家公司想干什么，就他自己没有那么大机构，就不是说这投资人说我想干一个事儿你替我干了，而是说我觉得你干事情对我把钱给你。对那这个里面你觉得哪个更难一点。</p>
-<p class="transcript-line"><span class="time"><strong>[00:59:35]</strong> </span><span class="speaker"><strong>发言人2: </strong></span>还是都很难。但相对来说，一上只看结果，就从个人工作角度来讲。</p>
-<p class="transcript-line"><span class="time"><strong>[00:59:43]</strong> </span><span class="speaker"><strong>发言人1: </strong></span>那那商分和战略不看结果吗？还是说结果不容易看到。</p>
-<p class="transcript-line"><span class="time"><strong>[00:59:46]</strong> </span><span class="speaker"><strong>发言人2: </strong></span>商分和战略的结果不是你背，是老板背对，是公司。</p>
-<p class="transcript-line"><span class="time"><strong>[00:59:51]</strong> </span><span class="speaker"><strong>发言人1: </strong></span>背那咱俩上次聊的时候，第一个话题就是今天的VC不是一个适合年轻人的工作了，因为当时的市场环境不太好。但隔了这么多年，就是回到尤其这个沙子和钱又来的时候，这行业投资人还是一个你当时想的那种没有人能承接的通融之处了吗？或者说就是年轻人可以来干这个。</p>
-<p class="transcript-line"><span class="time"><strong>[01:00:12]</strong> </span><span class="speaker"><strong>发言人2: </strong></span>我觉得还是可以的，工作本身还是可以的。</p>
-<p class="transcript-line"><span class="time"><strong>[01:00:15]</strong> </span><span class="speaker"><strong>发言人1: </strong></span>你那比那个时候好好一些。</p>
-<p class="transcript-line"><span class="time"><strong>[01:00:16]</strong> </span><span class="speaker"><strong>发言人2: </strong></span>因为毕竟有新的可能性，新的机会，有新的流动性。这个流动性对这个战场太重要了，新的人进来他就会跑一荡一荡弄，他有钱有有主动的出击，你会有阶段性结果。而这个阶段性结果因为这一波我今天坐地铁来的时候感觉特别明显。因为最近一年2、五年，如果因为我习惯每年会写年度总结，我二、五年写AI行业总结，一定有几页是写。今年叫并购大年，就这个蓬勃的流动性已经挤到并购这儿的时候，而且这个结果已经出现了。而且这种结果是一种在量级上比我们之前提一个量级的变化。你就很简单，前两天特色融资融9亿美金，估值100亿美金。我以前不敢想，9亿美金，我操一个他妈早基金，一只基金才他妈两一美金好吧？</p>
-<p class="transcript-line"><span class="time"><strong>[01:01:00]</strong> </span><span class="speaker"><strong>发言人1: </strong></span>对，他他融那个资已经赶好几个基金的总额了。</p>
-<p class="transcript-line"><span class="time"><strong>[01:01:03]</strong> </span><span class="speaker"><strong>发言人2: </strong></span>而且你要知道科技版本号才刚到1.0.</p>
-<p class="transcript-line"><span class="time"><strong>[01:01:05]</strong> </span><span class="speaker"><strong>发言人1: </strong></span>人还不多。对。</p>
-<p class="transcript-line"><span class="time"><strong>[01:01:07]</strong> </span><span class="speaker"><strong>发言人2: </strong></span>刚到1.0版本的软件公司几十号人估值100亿美，金融9亿美金。我操。</p>
-<p class="transcript-line"><span class="time"><strong>[01:01:14]</strong> </span><span class="speaker"><strong>发言人1: </strong></span>你就觉得那这不就是泡沫吗？</p>
-<p class="transcript-line"><span class="time"><strong>[01:01:18]</strong> </span><span class="speaker"><strong>发言人2: </strong></span>但这个战场的就跟打德州一样，那个筹码的那个零加了一个，你知道吧？</p>
-<p class="transcript-line"><span class="time"><strong>[01:01:24]</strong> </span><span class="speaker"><strong>发言人1: </strong></span>那就不是泡沫了，因为它就是多了。对。</p>
-<p class="transcript-line"><span class="time"><strong>[01:01:28]</strong> </span><span class="speaker"><strong>发言人2: </strong></span>所以打的方式就不一样了。你看原来我们干投资，我们想一家公司涨到10亿美金已经他妈天大了，好吧？</p>
-<p class="transcript-line"><span class="time"><strong>[01:01:33]</strong> </span><span class="speaker"><strong>发言人1: </strong></span>对。</p>
-<p class="transcript-line"><span class="time"><strong>[01:01:34]</strong> </span><span class="speaker"><strong>发言人2: </strong></span>这边一下永久一美加，我操永久。</p>
-<p class="transcript-line"><span class="time"><strong>[01:01:37]</strong> </span><span class="speaker"><strong>发言人1: </strong></span>我们也就如果我是咳嗽，我一定凑个整，他肯定是能凑到那个整的谁的。</p>
-<p class="transcript-line"><span class="time"><strong>[01:01:42]</strong> </span><span class="speaker"><strong>发言人2: </strong></span>反正就是就这个战场上，所以反过来讲，但人还是一个人。今天在上海买一栋房子跟十年前买上海买栋房子，肯定不需要提一个零那么多。对，所以纯属一个打工角色。你今天赌一个，就是你要知道VC内心永远有一个抹除不掉的这个叫slogan，或者是永远的路径依赖。要干一票。</p>
-<p class="transcript-line"><span class="time"><strong>[01:02:08]</strong> </span><span class="speaker"><strong>发言人1: </strong></span>大的对对吧？对。</p>
-<p class="transcript-line"><span class="time"><strong>[01:02:09]</strong> </span><span class="speaker"><strong>发言人2: </strong></span>就是今天的干一票大的，可他妈是比早年前干一票大大多了。</p>
-<p class="transcript-line"><span class="time"><strong>[01:02:13]</strong> </span><span class="speaker"><strong>发言人1: </strong></span>我操我今天干一票大的，可能等于以前干个新基金。</p>
-<p class="transcript-line"><span class="time"><strong>[01:02:18]</strong> </span><span class="speaker"><strong>发言人2: </strong></span>对。</p>
-<p class="transcript-line"><span class="time"><strong>[01:02:19]</strong> </span><span class="speaker"><strong>发言人1: </strong></span>都干出来了。如果是你今天再回到VC行业，你觉得你会有什么变化？</p>
-<p class="transcript-line"><span class="time"><strong>[01:02:25]</strong> </span><span class="speaker"><strong>发言人2: </strong></span>回不去的意思是不适合这个节奏了，也不适合这个打法了。</p>
-<p class="transcript-line"><span class="time"><strong>[01:02:29]</strong> </span><span class="speaker"><strong>发言人1: </strong></span>就是给这么多钱你会慌是吗？太荒投不出去。</p>
-<p class="transcript-line"><span class="time"><strong>[01:02:34]</strong> </span><span class="speaker"><strong>发言人2: </strong></span>很简单，很多公司我走就是因为这个原因。我当时就看那波上一个关键词叫元宇宙。内博我是看到了内部其实已经有这样的趋势，就一家公司可能什么都没有几美金了。</p>
-<p class="transcript-line"><span class="time"><strong>[01:02:46]</strong> </span><span class="speaker"><strong>发言人1: </strong></span>但那波现在证明是彻头彻尾的扯淡。</p>
-<p class="transcript-line"><span class="time"><strong>[01:02:51]</strong> </span><span class="speaker"><strong>发言人2: </strong></span>这是马后炮。你要知道那很简单，你那一年不投案，年终奖没有。</p>
-<p class="transcript-line"><span class="time"><strong>[01:02:57]</strong> </span><span class="speaker"><strong>发言人1: </strong></span>那这么来说就是我我其实这事儿我之前没想过这个问题，但我现在在想这是不是个有问题的激励机制。就是你做一个投资经理，你做一个打工人，虽然你能掌握开枪的权利，但你作为一个打工人，你必须为你的出租方负责。那他就会质问你，今年这些活你为什么没投？那这是个很短视的行为，就是你把一个钱给到一个五年甚至八年的基金，你却希望他今年必须投。今年最火的东西就是你在一个很有耐心的事上追求一个很快的结果。</p>
-<p class="transcript-line"><span class="time"><strong>[01:03:23]</strong> </span><span class="speaker"><strong>发言人2: </strong></span>所以它是错配的，耐心双引号的，在中国尤其双引号尤其要再加重的。</p>
-<p class="transcript-line"><span class="time"><strong>[01:03:30]</strong> </span><span class="speaker"><strong>发言人1: </strong></span>你只要错配是。</p>
-<p class="transcript-line"><span class="time"><strong>[01:03:32]</strong> </span><span class="speaker"><strong>发言人2: </strong></span>就是这样的，就是长期性短期性的问题。</p>
-<p class="transcript-line"><span class="time"><strong>[01:03:35]</strong> </span><span class="speaker"><strong>发言人1: </strong></span>你觉得什么样的钱是一个投资经理应该拿的，就是他会愿意真的有耐心的钱。</p>
-<p class="transcript-line"><span class="time"><strong>[01:03:40]</strong> </span><span class="speaker"><strong>发言人2: </strong></span>你要么历史上证明过你的LP不是不需要给你这种压力。</p>
-<p class="transcript-line"><span class="time"><strong>[01:03:44]</strong> </span><span class="speaker"><strong>发言人1: </strong></span>就是他没你懂你。</p>
-<p class="transcript-line"><span class="time"><strong>[01:03:45]</strong> </span><span class="speaker"><strong>发言人2: </strong></span>要么就是你真的，你像今天中国有两支基金，一支是长青的，一只是28年的。28年就是徐新今日的许昕姐的那支基金。28年当然他中间允许LP在某几个节点退掉，但当时的计价，但是它整个基金是28年。也就是说理论上来讲，他可以等一只公司等28年.</p>
-<p class="transcript-line"><span class="time"><strong>[01:04:07]</strong> </span><span class="speaker"><strong>发言人1: </strong></span>他不需要为今年这个恶恶眉头负责。</p>
-<p class="transcript-line"><span class="time"><strong>[01:04:10]</strong> </span><span class="speaker"><strong>发言人2: </strong></span>但是只有这一家，另外一家是常青的，是成为的那个基金。那基金不大很小，他可以任性。其实早年经纬的第一支人民币基金也是长青的，只有2亿人民币。而且可能一半的钱是经纬几个老板出的。所以那个钱就是说直白，你哪怕全亏了也不会怎么样。</p>
-<p class="transcript-line"><span class="time"><strong>[01:04:27]</strong> </span><span class="speaker"><strong>发言人2: </strong></span>但那只基金回报非常好，咱俩中午聊天的时候，那只基金当年投了一家公司叫名片全能网。十几年的家做移动软件的第一波公司，一个严格意义上的纯技术人做的纯工具软件公司，对吧？按早年的定义。最后A股上市巅峰500亿人民币。</p>
-<p class="transcript-line"><span class="time"><strong>[01:04:50]</strong> </span><span class="speaker"><strong>发言人1: </strong></span>我是感觉经纬头全全能天王名名片全能王这个故事比今年的大部分AI公司要更值得写。因为它明显是个更有意思，更说明这些事儿的。</p>
-<p class="transcript-line"><span class="time"><strong>[01:05:00]</strong> </span><span class="speaker"><strong>发言人2: </strong></span>更可以再复制一遍的事情。</p>
-<p class="transcript-line"><span class="time"><strong>[01:05:02]</strong> </span><span class="speaker"><strong>发言人1: </strong></span>对，是的。</p>
-<p class="transcript-line"><span class="time"><strong>[01:05:02]</strong> </span><span class="speaker"><strong>发言人2: </strong></span>对，因斯坦30也是类似的。</p>
-<p class="transcript-line"><span class="time"><strong>[01:05:06]</strong> </span><span class="speaker"><strong>发言人1: </strong></span>对，因为有时候这个问题我下一个问我先接着去把这事儿问完。就是说这个里面它又增加了咱们刚才说的做这事儿的很多难度，那这里面它又增加了一个难度，就是你的那个给你你说的这事儿都是对你的限制，但问题给你钱的人对你还有限制。</p>
-<p class="transcript-line"><span class="time"><strong>[01:05:23]</strong> </span><span class="speaker"><strong>发言人2: </strong></span>当然而且这个限制在过去几年又又又变得复杂。首先中美的这个情况出现了问题，所以美元基金严格萎缩，萎缩的非常厉害。</p>
-<p class="transcript-line"><span class="time"><strong>[01:05:35]</strong> </span><span class="speaker"><strong>发言人1: </strong></span>只有说这行业还存在吗？</p>
-<p class="transcript-line"><span class="time"><strong>[01:05:36]</strong> </span><span class="speaker"><strong>发言人2: </strong></span>今天的中国还存在，只有最头部的美元基金，那几家可以持续的摸到钱，剩下的基金都很难了，非常难。或者说他们的钱也虽然是美金，但是已经不是来自于美国了。可能是来自于上一代已经赚过钱的创始人们，或者是什么中东的钱，或者新加坡的钱，或者香港的web 3的这些对吧？他已经不是纯正意义上的美国的那套钱了，不是养老基金的钱。对，不是大学基金，不是哈佛那个钱了。然后人民币这边战场出现的问题就是国资。</p>
-<p class="transcript-line"><span class="time"><strong>[01:06:06]</strong> </span><span class="speaker"><strong>发言人1: </strong></span>以前都是上市公司和富有。</p>
-<p class="transcript-line"><span class="time"><strong>[01:06:08]</strong> </span><span class="speaker"><strong>发言人2: </strong></span>就是富有的个人就是民间的钱。你肯定就是民间的钱，就是还遵守一定的市场化的规则。当然从结果上来说，很多人会说你他妈做的也不好，凭什么让我担每年2%的管理费，又还得亏着。那最后结果可能收不回来10%，那这也是也是现实情况。但确实从可能1819年开始，整个人民币的市场的国资比例应该已经超50%了。到今天可能已经八十多了。</p>
-<p class="transcript-line"><span class="time"><strong>[01:06:36]</strong> </span><span class="speaker"><strong>发言人2: </strong></span>国资的问题，国资是一个很大的概念，国大国资不只只是国家的钱，地方上政府也是国资，国企的钱也是国资，什么各个部委的钱也是国资，甚至部委直属的高校的基金也是国资，对吧？国资不是只有国家的那个钱叫国资，它是有一个非常大的概念。所以到这儿的时候，国资出现的问题就变成了。中国有一个特别有名的罪叫国有资产流失。</p>
-<p class="transcript-line"><span class="time"><strong>[01:07:05]</strong> </span><span class="speaker"><strong>发言人1: </strong></span>不是特别有名，是特别容易出现。</p>
-<p class="transcript-line"><span class="time"><strong>[01:07:08]</strong> </span><span class="speaker"><strong>发言人2: </strong></span>也是有名对吧？就是风险投资是一个首先风险投资是一个它是金融行业的一个异类。整个大的金融行业，银行保险股票市场，它是一个偏稳定态的状态。但一市场是一个异类，异类就是说它是有巨大的波动性。</p>
-<p class="transcript-line"><span class="time"><strong>[01:07:26]</strong> </span><span class="speaker"><strong>发言人1: </strong></span>的这是风险投资。</p>
-<p class="transcript-line"><span class="time"><strong>[01:07:27]</strong> </span><span class="speaker"><strong>发言人2: </strong></span>对这种波动性甚至是完全赔掉，甚至赚他妈几千倍，它是一个巨大风险区间的。但是你这种巨大的波动的东西，前面绑了一个不能亏的紧箍咒，那你怎么搞？</p>
-<p class="transcript-line"><span class="time"><strong>[01:07:42]</strong> </span><span class="speaker"><strong>发言人1: </strong></span>就是你想在咱干一票大的，在这个市场里面，偶尔对这本身。</p>
-<p class="transcript-line"><span class="time"><strong>[01:07:47]</strong> </span><span class="speaker"><strong>发言人2: </strong></span>就是不匹配的。</p>
-<p class="transcript-line"><span class="time"><strong>[01:07:50]</strong> </span><span class="speaker"><strong>发言人1: </strong></span>那这个事儿会持续吗？就是他我我现在感觉这个事儿，他可能到某一天大家都意识到他他的荒谬之处，就玩不下去了。</p>
-<p class="transcript-line"><span class="time"><strong>[01:07:56]</strong> </span><span class="speaker"><strong>发言人2: </strong></span>没办法，不，市场会告诉你存在就是。</p>
-<p class="transcript-line"><span class="time"><strong>[01:08:01]</strong> </span><span class="speaker"><strong>发言人3: </strong></span>合理的存在。</p>
-<p class="transcript-line"><span class="time"><strong>[01:08:02]</strong> </span><span class="speaker"><strong>发言人2: </strong></span>就是合理。</p>
-<p class="transcript-line"><span class="time"><strong>[01:08:04]</strong> </span><span class="speaker"><strong>发言人1: </strong></span>是但这个事儿看吧。对，但回到刚才我想问的那个问题，就是我跟咱们不提到英特360了吗？要赶上他这两年上市，就我一直在用13360的东西，包括我们公司也在用。然后有时候我就有一个感觉，就是说这个公司早年为啥没人投呢？它是一个特别显而易见的事儿，这东西好用，我对很多事情都有这个感觉，就是我我有一个直觉感觉是投资人并不用他们投的和想的很多东西。</p>
-<p class="transcript-line"><span class="time"><strong>[01:08:32]</strong> </span><span class="speaker"><strong>发言人2: </strong></span>你要知道这一波AI的投资人，很多AI投资连AI都不用的。拆GPT都没有买的。</p>
-<p class="transcript-line"><span class="time"><strong>[01:08:39]</strong> </span><span class="speaker"><strong>发言人1: </strong></span>没有给他上过，每个月200美元是吗？</p>
-<p class="transcript-line"><span class="time"><strong>[01:08:41]</strong> </span><span class="speaker"><strong>发言人2: </strong></span>二十都没买过。</p>
-<p class="transcript-line"><span class="time"><strong>[01:08:43]</strong> </span><span class="speaker"><strong>发言人1: </strong></span>但他们在投。对，为啥呢？这不明显是个错误的事儿。你怎么可能会投一个和研究一个你根本就不在乎的东西呢？</p>
-<p class="transcript-line"><span class="time"><strong>[01:08:52]</strong> </span><span class="speaker"><strong>发言人2: </strong></span>现实存在就是这样。</p>
-<p class="transcript-line"><span class="time"><strong>[01:08:53]</strong> </span><span class="speaker"><strong>发言人1: </strong></span>的那他们能成功吗？</p>
-<p class="transcript-line"><span class="time"><strong>[01:08:54]</strong> </span><span class="speaker"><strong>发言人2: </strong></span>就有这样成功的，有啊也有。那你说那些老一辈的负责人怎么成功的？他可能也用不了。但成功可能下面人跟他配合或者怎么样，有人帮他去弥补了这些东西。</p>
-<p class="transcript-line"><span class="time"><strong>[01:09:04]</strong> </span><span class="speaker"><strong>发言人1: </strong></span>对，这个是我见投资人时候，我就时刻总有一种特别奇妙的感觉，就是你都想投我了，你都不用我东西。</p>
-<p class="transcript-line"><span class="time"><strong>[01:09:11]</strong> </span><span class="speaker"><strong>发言人2: </strong></span>你想这一波AI尤其明显，当然可能因为这波AI太快，太多新的东西出现了。可是真的我是见他不是一个例，是真的很多他真的没有，他可能只知道名字，连界面长什么样子都不知道。</p>
-<p class="transcript-line"><span class="time"><strong>[01:09:28]</strong> </span><span class="speaker"><strong>发言人1: </strong></span>但他们却能在外面讲他的AI投资之道。</p>
-<p class="transcript-line"><span class="time"><strong>[01:09:33]</strong> </span><span class="speaker"><strong>发言人2: </strong></span>就这事儿，但我想这个事情也没什么大不了的。很多很简单，很多二级场分析师，当一家公司上市的时候也没用过的东西。</p>
-<p class="transcript-line"><span class="time"><strong>[01:09:41]</strong> </span><span class="speaker"><strong>发言人1: </strong></span>不是二级市场人士，大家都知道他们在干什么，对吧？一级市场投资人在投一个实在的东西，你是在真金白银的买一个没出现的东西。</p>
-<p class="transcript-line"><span class="time"><strong>[01:09:48]</strong> </span><span class="speaker"><strong>发言人2: </strong></span>那也能干。</p>
-<p class="transcript-line"><span class="time"><strong>[01:09:50]</strong> </span><span class="speaker"><strong>发言人1: </strong></span>因为我之前加过一个投资人好友。我认识他的时候，我当时做神经网络，他跟我说这东西扯淡的一个算机技术，用生物的词，这肯定是假的。然后一个月之后，就是我见了他第二周阿尔法狗赢了，然后又过了三周，就当时我见他之后的一个月，他开始讲我的人工智能智能投资之道。然后隔了这么多年，他现在讲他对区块链和世界经济的看法。我就是你就一个人没有办法懂都懂这么多事儿，但投资人必须假装自己懂。</p>
-<p class="transcript-line"><span class="time"><strong>[01:10:20]</strong> </span><span class="speaker"><strong>发言人2: </strong></span>所有事儿一样的，所有的都是没办法，访问好事，就他逼着你不断的要去学新东西。</p>
-<p class="transcript-line"><span class="time"><strong>[01:10:28]</strong> </span><span class="speaker"><strong>发言人1: </strong></span>所以我今天自己的状态就是我对于很多我在网上看到的这个投资相关的东西，我是看都不看。但是我对于我真尊敬的投资人，我比以前更尊敬他们。因为我就是我发现以前我还试图学习他们是怎么做的，我现在还学不了。</p>
-<p class="transcript-line"><span class="time"><strong>[01:10:42]</strong> </span><span class="speaker"><strong>发言人2: </strong></span>你根本不知道怎么成功。所以今天我先讲个小的故事，如果大家有兴趣可以去翻，应该这个直播的回放已经有了，还是前两天36氪每年会办这个投资大会，纪念投大会很有意思。36周客下面是有一个专门写投资人的，叫暗涌。</p>
-<p class="transcript-line"><span class="time"><strong>[01:10:58]</strong> </span><span class="speaker"><strong>发言人1: </strong></span>我36课我只。</p>
-<p class="transcript-line"><span class="time"><strong>[01:10:59]</strong> </span><span class="speaker"><strong>发言人2: </strong></span>做暗涌对吧？暗涌是只写投资人的，投资人他跟创业者大部分是写投资人。然后这场大会是有两个会场的，主会场是三六氪主站办的，分会场是暗涌办的。当天的第一场论坛，36氪的主会场。那场论坛是一个很正经的论坛，双引号正就是找了一些基金的鸡皮大佬聊一聊刚才聊的什么环境、A股、中美。</p>
-<p class="transcript-line"><span class="time"><strong>[01:11:25]</strong> </span><span class="speaker"><strong>发言人1: </strong></span>人类，对吧？</p>
-<p class="transcript-line"><span class="time"><strong>[01:11:27]</strong> </span><span class="speaker"><strong>发言人2: </strong></span>这场我觉得很好，因为这场的主持人是阿勇的主编。</p>
-<p class="transcript-line"><span class="time"><strong>[01:11:31]</strong> </span><span class="speaker"><strong>发言人1: </strong></span>他常年你说这边场就是阿勇，阿勇这场是。</p>
-<p class="transcript-line"><span class="time"><strong>[01:11:34]</strong> </span><span class="speaker"><strong>发言人2: </strong></span>刘生主持的，就是他们的主编。他常年写这些，他也知道这些问题跟他想真的关心这些问题。他找了三位年轻一点的GP，他没有找那些叫大佬。曹西漕溪。</p>
-<p class="transcript-line"><span class="time"><strong>[01:11:49]</strong> </span><span class="speaker"><strong>发言人1: </strong></span>还不是大佬。</p>
-<p class="transcript-line"><span class="time"><strong>[01:11:50]</strong> </span><span class="speaker"><strong>发言人2: </strong></span>年轻一点的，我不是说大佬就是年轻，XVC的胡博宇，黑蚁的河语。</p>
-<p class="transcript-line"><span class="time"><strong>[01:11:58]</strong> </span><span class="speaker"><strong>发言人1: </strong></span>这都是这一代最佼佼者的对。</p>
-<p class="transcript-line"><span class="time"><strong>[01:12:00]</strong> </span><span class="speaker"><strong>发言人2: </strong></span>然后他找他们三个人，你要知道他前一天就把要问的问题给了这三个人，让他们认真准备。同时在现场问了两个不在这个列表上的两个问题。而且所有的这些问题都不是那些主会场会出现的问题，都是比如说你们怎么看所谓的反共识，你们怎么看你手里最成功的案子，你们当年怎么做的评判？为什么这些案子当年是法官是最后证明成功的那么厉害？黑羽就是泡马特，火影就是帮茶几，潮汐是快手。</p>
-<p class="transcript-line"><span class="time"><strong>[01:12:44]</strong> </span><span class="speaker"><strong>发言人2: </strong></span>同时要问他们当下这个时间点，最近两个月见过哪一个创业者？理论上说跟现在的市场公司最相反。三年之后我们再看那几个人是不是又一次的成功？再问你们怎么看另外两个人？</p>
-<p class="transcript-line"><span class="time"><strong>[01:12:58]</strong> </span><span class="speaker"><strong>发言人1: </strong></span>我这个问题非常好。</p>
-<p class="transcript-line"><span class="time"><strong>[01:13:00]</strong> </span><span class="speaker"><strong>发言人2: </strong></span>就是我很少已经很久很久没有看过，那么真心的想把事儿搞明白。</p>
-<p class="transcript-line"><span class="time"><strong>[01:13:06]</strong> </span><span class="speaker"><strong>发言人1: </strong></span>对话首先。</p>
-<p class="transcript-line"><span class="time"><strong>[01:13:07]</strong> </span><span class="speaker"><strong>发言人2: </strong></span>刘成常年跟踪这个战场，因为他只写这个，他不写别的。他的性格又是一个比较柔，比较内向好的人，就比较内向的他，所以他内心是有这些问题的，所以他会提前的告诉这三个人，我明天就聊这些。而且他也知道这三个人会认真的准备这些问题，不会跟你聊那些特别虚的方案。甚至在那场直播你是明显感觉三个人是有非常多的磕巴顿挫跟甚至有些不知道该怎么回答。就是他在想他在扔的，就跟他刚才讲他真的可能有一大堆的东西。对，但他要组织他他要去想跟构建他的表达。就是我觉得这个对话太太好了。</p>
-<p class="transcript-line"><span class="time"><strong>[01:13:50]</strong> </span><span class="speaker"><strong>发言人1: </strong></span>太不容易了，这我得看看。对。</p>
-<p class="transcript-line"><span class="time"><strong>[01:13:51]</strong> </span><span class="speaker"><strong>发言人2: </strong></span>就暗涌。如果是应该就是暗涌公众号视频号现在直播回放就可以找到。</p>
-<p class="transcript-line"><span class="time"><strong>[01:13:57]</strong> </span><span class="speaker"><strong>发言人1: </strong></span>那我应该独立出来做。</p>
-<p class="transcript-line"><span class="time"><strong>[01:13:59]</strong> </span><span class="speaker"><strong>发言人2: </strong></span>那是另外的问题是。</p>
-<p class="transcript-line"><span class="time"><strong>[01:14:01]</strong> </span><span class="speaker"><strong>发言人1: </strong></span>如果把他问这个问题问你。</p>
-<p class="transcript-line"><span class="time"><strong>[01:14:04]</strong> </span><span class="speaker"><strong>发言人2: </strong></span>也没什么，刚才不都差不多问了吗？</p>
-<p class="transcript-line"><span class="time"><strong>[01:14:06]</strong> </span><span class="speaker"><strong>发言人1: </strong></span>就是你但是你这里面没有没你没提到你投的项目。</p>
-<p class="transcript-line"><span class="time"><strong>[01:14:10]</strong> </span><span class="speaker"><strong>发言人2: </strong></span>我头像都不是特别理想，只能说有一些已经上市。但你说上市它最后你说它的估值，它的江湖地位也没有那么强。</p>
-<p class="transcript-line"><span class="time"><strong>[01:14:21]</strong> </span><span class="speaker"><strong>发言人1: </strong></span>那能不能换一个角度问这个问题，如果不方便也可以不打，然后至少可以减掉。就是有哪个你当时特别看好，先你投入的项目，你最终发现它没有那么好。这里面你有思考过你当时看错的原因吗？</p>
-<p class="transcript-line"><span class="time"><strong>[01:14:35]</strong> </span><span class="speaker"><strong>发言人2: </strong></span>其实很多这样的项目都不是一个量，因为你大部分都不是特别理想。但你投的时候都觉得。</p>
-<p class="transcript-line"><span class="time"><strong>[01:14:40]</strong> </span><span class="speaker"><strong>发言人1: </strong></span>他应该能举一个的具体例子吗？</p>
-<p class="transcript-line"><span class="time"><strong>[01:14:44]</strong> </span><span class="speaker"><strong>发言人2: </strong></span>我想想哪个能说。当年我们投过一家这样的公司，他是做那个H5的引擎的。就是帮很多人建立H5的页面，或者建立你想在H5上跑一个小的互动游戏或者互动页面，你需要一个类似中间件的这样一家公司。创始人业界经历非常丰富，然后资源方也很多，然后也比较适合当下我们的口味。也觉得哪怕不成这个事情，最后被收掉的概率也很高。因为它是一个很重要的中间节点一个点。但可能。</p>
-<p class="transcript-line"><span class="time"><strong>[01:15:27]</strong> </span><span class="speaker"><strong>发言人3: </strong></span>很多。</p>
-<p class="transcript-line"><span class="time"><strong>[01:15:28]</strong> </span><span class="speaker"><strong>发言人2: </strong></span>时候我从那个案子上总结的规律是说，很多投资时候，投资人是不能太过预设一些正向的立场给到创始人的。就当创始人感受到这种力量的时候，或者这种倾向的时候，他会贴着你走，他只会展现那个符合你预期跟方向的样子，但是他可能有很多别的面就不会给你看了。那在发展过程中，从最后结果来看，可能就是那些别的面导致的结果。这个项目最后就完全没有了。</p>
-<p class="transcript-line"><span class="time"><strong>[01:16:02]</strong> </span><span class="speaker"><strong>发言人1: </strong></span>就是说你们当时跟他聊的时候就已经在给他展示了一个画面。这个画面是你们觉得是可行的，他又贴着那个。</p>
-<p class="transcript-line"><span class="time"><strong>[01:16:09]</strong> </span><span class="speaker"><strong>发言人2: </strong></span>可行的走兜底的那。</p>
-<p class="transcript-line"><span class="time"><strong>[01:16:10]</strong> </span><span class="speaker"><strong>发言人1: </strong></span>甚至是这个真的是人之常情。</p>
-<p class="transcript-line"><span class="time"><strong>[01:16:13]</strong> </span><span class="speaker"><strong>发言人2: </strong></span>对，因为你相当于就点亮了自己，照亮了别人。</p>
-<p class="transcript-line"><span class="time"><strong>[01:16:18]</strong> </span><span class="speaker"><strong>发言人1: </strong></span>对，因为要是就坦诚的说，要是有投资人跟我说，他觉得你也是对的，我也绝对贴着来。对，因为市场要你钱。对对。</p>
-<p class="transcript-line"><span class="time"><strong>[01:16:29]</strong> </span><span class="speaker"><strong>发言人1: </strong></span>那最后一个方面的问题，就是我今天早上看你知乎的回答我就找那个最高赞的。你最高赞的回答是14年时候写的关于滴滴的打车的那个，然后15年更新的。从14年15年到今天25年十年时间了，你还在孜孜不倦的写写这个比如写点评，喜马拉雅被腾讯云收购，就是我觉得你肯我我有个感觉，我觉得你在修炼一些事儿，就是你在研究一些东西，这个东西不只是你想写就想写，不会这样你在研究一个东西，你在你我就很好奇说这东西是什么？</p>
-<p class="transcript-line"><span class="time"><strong>[01:17:06]</strong> </span><span class="speaker"><strong>发言人2: </strong></span>炼丹是吧？</p>
-<p class="transcript-line"><span class="time"><strong>[01:17:08]</strong> </span><span class="speaker"><strong>发言人1: </strong></span>对你再练一个东西，我觉得。</p>
-<p class="transcript-line"><span class="time"><strong>[01:17:10]</strong> </span><span class="speaker"><strong>发言人3: </strong></span>就是我。</p>
-<p class="transcript-line"><span class="time"><strong>[01:17:11]</strong> </span><span class="speaker"><strong>发言人2: </strong></span>觉得年纪到了，你看我86年的，到了一定阶段之后，你其实对自己是特别了解吧？你喜欢干什么，不喜欢干什么，你擅长做什么，不太擅长做什么，你比较容易在哪些事情上得到，无论是自己的正反馈还是外界给你的正反馈，你是特别清楚的。然后你到这个年龄你也不会贸然去做改变跟巨大的调整，所以你就要去把这个事情变得更正循环。</p>
-<p class="transcript-line"><span class="time"><strong>[01:17:38]</strong> </span><span class="speaker"><strong>发言人2: </strong></span>所以我觉得一直以来表达跟写东西是一种我的舒适区的东西，而且舒适区是也不单纯只是活在一个舒适区。它会频繁的受比如说内容媒介的变化的影响，身边朋友的影响，然后热点的传播的影响。它会不断的让你不单纯的只是呆在那儿，它会不断的要求你去做一些新的尝试跟探索。但反过来讲，我又是一个天性比较懒的人，所以你就要在这种刺激往前迈一步，跟这个懒惰性之间做一个调和。所以你其实练的是这个，就是每多迈一步其实就是你一个决定。那多迈一步可能就会进入一个多的可能性的状态里，然后在一段时间内可能又进入到一个新的舒适区间。但是但凡到你，然后你可能你有一个你想脑袋有两个，你有一个你就告诉你可能要再往前多迈一步，才能保证住这样一个东西。</p>
-<p class="transcript-line"><span class="time"><strong>[01:18:38]</strong> </span><span class="speaker"><strong>发言人2: </strong></span>所以今天你说你真的擅长什么？你你你你每天的工作状态是什么？其实已经变成类似双引号SOP了，然后你已经坚持了十几年，然后你总要一种方式把它练成一个什么，但你也不知道那东西到底是什么。你只不过说过去这十几年用这种方式写字，这两年做博客还是做整理、做分析、做总结。你反正大概率就是这样这样一套东西就揉着揉呗，就不断的揉呗，而且你甚至有一些病态的揉。就是你看我原来当年看过reader每天必须点完，不能有任何的未读数字。今天看stars take也一样，明天早上来必须点完。</p>
-<p class="transcript-line"><span class="time"><strong>[01:19:21]</strong> </span><span class="speaker"><strong>发言人1: </strong></span>就是不能有任何一个。你是用subset.</p>
-<p class="transcript-line"><span class="time"><strong>[01:19:24]</strong> </span><span class="speaker"><strong>发言人2: </strong></span>那个APP在看网页。</p>
-<p class="transcript-line"><span class="time"><strong>[01:19:25]</strong> </span><span class="speaker"><strong>发言人1: </strong></span>我以为大家都是从邮件来看我就不行。</p>
-<p class="transcript-line"><span class="time"><strong>[01:19:28]</strong> </span><span class="speaker"><strong>发言人2: </strong></span>有点不太好翻译，就网页的翻译现在比较更好一点。</p>
-<p class="transcript-line"><span class="time"><strong>[01:19:31]</strong> </span><span class="speaker"><strong>发言人1: </strong></span>对。</p>
-<p class="transcript-line"><span class="time"><strong>[01:19:33]</strong> </span><span class="speaker"><strong>发言人2: </strong></span>所以它就是一种你说是习惯，然后莫须有的坚持，然后滚滚。</p>
-<p class="transcript-line"><span class="time"><strong>[01:19:41]</strong> </span><span class="speaker"><strong>发言人1: </strong></span>但这里面我自己感觉最最佩服的一点是你有情绪。就一个事儿做十年还能有情绪是个非常不容易的事儿。正常人在写喜马拉雅收购，被腾讯收购时候，不可能带情绪，因为你太熟了，越熟越没有情绪。因为你觉得就这件事儿我觉得太熟了。</p>
-<p class="transcript-line"><span class="time"><strong>[01:19:56]</strong> </span><span class="speaker"><strong>发言人2: </strong></span>而且这个熟为什么就只有贴到屠龙都市这个屠龙之术这个名字上？就是说你的这种熟跟你的这种情绪是只有你参与其中，你跟他的时间线是搭在一起的，你才会有这种情绪，你才会有这种跌宕起伏的历史画面感的展开。你任何一个比如说新进行业的记者或者是一个主编什么，他可能其实从信息搜集整理加工编辑角度来讲，肯定比你强的很多。但他没有这种情绪，因为他没有贴在那条线上，但你贴了。</p>
-<p class="transcript-line"><span class="time"><strong>[01:20:31]</strong> </span><span class="speaker"><strong>发言人1: </strong></span>就因为我也是写作者和做那种人，我感觉你有没感觉，这就是一个巨大的礼物。如果你有这种能力和时间的话，你应该所以。</p>
-<p class="transcript-line"><span class="time"><strong>[01:20:39]</strong> </span><span class="speaker"><strong>发言人2: </strong></span>为什么那天我跟我老婆说，我说今天晚上熬夜，我一定要把它弄出来。就是你不写或者你不是个人表达，就没有人做这种表达了。对，他他他就会有这种我的莫须有的什么东西给推给你。</p>
-<p class="transcript-line"><span class="time"><strong>[01:20:53]</strong> </span><span class="speaker"><strong>发言人1: </strong></span>对，那面对这种情绪的时候，这是纯题外话。我这一段做了一个节目，就是有就经常有人问我一个事，你怎么找选题的？我的感觉就是很多人说他找不到选题最大的原因就是他从来没被一个东西推推过。</p>
-<p class="transcript-line"><span class="time"><strong>[01:21:06]</strong> </span><span class="speaker"><strong>发言人2: </strong></span>对他没有那个推背感。</p>
-<p class="transcript-line"><span class="time"><strong>[01:21:07]</strong> </span><span class="speaker"><strong>发言人1: </strong></span>对他没有那感觉。他因为他在乎所有事，所以他不在乎任何事，他就没有那个推背感，他在乎的就是说我要写东西这件事儿，但你没没你不需要写人可以不写火葬场。对，但你是有那个东西在推你的，而且推了你很多年了。</p>
-<p class="transcript-line"><span class="time"><strong>[01:21:20]</strong> </span><span class="speaker"><strong>发言人2: </strong></span>已经就时常都会出现。我很感激也很感激，时常会有一些情绪让你一定要写这个，而且真的是你不写就没有人以这个角度写了。</p>
-<p class="transcript-line"><span class="time"><strong>[01:21:28]</strong> </span><span class="speaker"><strong>发言人1: </strong></span>那你有没有考虑过，就是你就先不更通知书，你什么内容都不做，你就花一年的时间把你这之前的所有事全部好好写本书出来。因为我觉得你真应该干这个事儿。</p>
-<p class="transcript-line"><span class="time"><strong>[01:21:38]</strong> </span><span class="speaker"><strong>发言人2: </strong></span>你这事儿你很多人找我，但你会觉得我还有一定的羞耻感。</p>
-<p class="transcript-line"><span class="time"><strong>[01:21:43]</strong> </span><span class="speaker"><strong>发言人1: </strong></span>羞耻在哪儿呢？</p>
-<p class="transcript-line"><span class="time"><strong>[01:21:44]</strong> </span><span class="speaker"><strong>发言人2: </strong></span>你觉得这东西谁会看呢？</p>
-<p class="transcript-line"><span class="time"><strong>[01:21:47]</strong> </span><span class="speaker"><strong>发言人1: </strong></span>但它是给你自己写的，就像这个喜马拉雅被腾讯收购一样，你知道别人会看，他本质还是为你自己。对。</p>
-<p class="transcript-line"><span class="time"><strong>[01:21:52]</strong> </span><span class="speaker"><strong>发言人2: </strong></span>是，但我觉得这样够了。我最近经历一个这样的事情，因为我做很多偏行业的分析整理，而且我觉得可能我觉得受王华老师影响，我做的不是纯技术，也不是纯商业，它是夹在一个中间，就是投资人比较喜欢或者做商分跟战略人比较喜欢看的那个那个状态里，封装在那个状态里的。所以前两天吴晓波频道的编辑找到我，说想让我做客。</p>
-<p class="transcript-line"><span class="time"><strong>[01:22:21]</strong> </span><span class="speaker"><strong>发言人2: </strong></span>我说做什么课？他说做AI的课，我说市面上做AI的课的能力的人很多。无论是做技术的大，拿给你讲技术原理，还是做什么评测，做什么教程的博主也很多。我的这套东西我并不认为他被值得做成一堂课来卖。你懂吗？就是我认为那个套东西，它它就是一个我的观点的加一套逻辑框架的东西，你真的没有那么多人对这个东西有意义。它既不是达到顶的纯战略层的技术的色，也不是达到底的纯战术层的操作，它是一个中间态的东西，它并不适合绝大多数人。你的课是要拿来卖？那似乎他并不应该被做成一个商品。</p>
-<p class="transcript-line"><span class="time"><strong>[01:23:28]</strong> </span><span class="speaker"><strong>发言人1: </strong></span>那你就把你的所有东西好好写一下，它可以不是个商品就为你自己写。</p>
-<p class="transcript-line"><span class="time"><strong>[01:23:32]</strong> </span><span class="speaker"><strong>发言人2: </strong></span>那我不克扣了。我觉得你觉得。</p>
-<p class="transcript-line"><span class="time"><strong>[01:23:35]</strong> </span><span class="speaker"><strong>发言人1: </strong></span>在你这么多年这些做内容的经验里面，就是你讲这些事儿里面，因为你那个你刚才说你在中间夹在两个边，中间是个中间态。你播客也一样，对，你的音频是有大量的图的对，你就是你那个音频不看图，你的PPT根本是没有办法去。</p>
-<p class="transcript-line"><span class="time"><strong>[01:23:52]</strong> </span><span class="speaker"><strong>发言人2: </strong></span>跟上课一样。</p>
-<p class="transcript-line"><span class="time"><strong>[01:23:53]</strong> </span><span class="speaker"><strong>发言人1: </strong></span>对，但我是很沉浸享受这种信息密度的，我是有在很多话题上是优先信息密度大于个人。但你有个人风格，但是这个。</p>
-<p class="transcript-line"><span class="time"><strong>[01:24:03]</strong> </span><span class="speaker"><strong>发言人3: </strong></span>里面这还真。</p>
-<p class="transcript-line"><span class="time"><strong>[01:24:04]</strong> </span><span class="speaker"><strong>发言人1: </strong></span>不是我的问题，是一个别人问我的问题。我也想问你，你觉得这些媒介的区别在哪儿？</p>
-<p class="transcript-line"><span class="time"><strong>[01:24:10]</strong> </span><span class="speaker"><strong>发言人2: </strong></span>我觉得这些区别都是一些细微的零碎的tips加在一起叠加的一种状态。它不是一个单一的一个结论，它是一种感觉、一种氛围，一种舒适度的结果。就是你像我你像一样的话题。B站的今年不是在推视频播客吗？然后他们也找过我，我也跟他们开诚布公的讲了所有的事情。</p>
-<p class="transcript-line"><span class="time"><strong>[01:24:31]</strong> </span><span class="speaker"><strong>发言人1: </strong></span>我说这就是给他们做的，是我说。</p>
-<p class="transcript-line"><span class="time"><strong>[01:24:33]</strong> </span><span class="speaker"><strong>发言人2: </strong></span>就我一说他们就懂了。我说我的内容但凡做成那样子，我就跟知识区的up主没有任何区别了。但我又没有支持up主那么强的可视化的视频的展现的能力。我的那种放在划分类只能放在指示区，可是明显感觉它不够。以B站的审美跟流量的推荐逻辑来讲，它又不够达到知识去头部的样子，很现实吧？那反过来，波波老师说很多时候我看我播听我都特别累，因为他真的要配着图看。我会觉得我只吸引这些用户就好，我也不需要所有的人那些每天需要听听乐呵，需要放松一下，你可以不需要听我的东西吗？所以我觉得播出的播播客的好处，或者说播客的一种这种内容形态，它画的这个边界很让我觉得舒服，它就是那种乐趣。</p>
-<p class="transcript-line"><span class="time"><strong>[01:25:35]</strong> </span><span class="speaker"><strong>发言人2: </strong></span>那反过来为什么不太写知乎了？文字的现在其实写的少了，就是因为话题可能还是那些话题。当你用播客去做承载跟展览展现的时候，你去写那个回答的动力就变少了。</p>
-<p class="transcript-line"><span class="time"><strong>[01:25:50]</strong> </span><span class="speaker"><strong>发言人1: </strong></span>我那天看你也是看你写这个东西，就你怀念以前在网上上网的那些年，冲浪那些年怀念。你觉得那个年代和现在比区别在哪呢？你在怀念什么呢？</p>
-<p class="transcript-line"><span class="time"><strong>[01:26:05]</strong> </span><span class="speaker"><strong>发言人2: </strong></span>怀念一种年轻的时候的状态，年轻的时候接触到的信息的这种丰富的程度，然后那种求知的欲望，包括跟你类似的有这种心态跟习惯的朋友们的感觉。就跟咱们刚开始聊，我们那天那场去三流哥大会，我们那场论坛就是杨轩就是36氪的主编，然后拉着特工宇宙z potential，还有一个谁，他们都是这一波的AI自媒体的代表。然后杨轩的第一个问题问你们多少人？特工宇宙六个人，但六个人里面其中只有两个是写稿，另外四个人是做技术的。Zippo单手五个人。</p>
-<p class="transcript-line"><span class="time"><strong>[01:26:49]</strong> </span><span class="speaker"><strong>发言人1: </strong></span>但五个人全是兼职。对我认识他们几个人，发现他们都是在各地有自己的主意。</p>
-<p class="transcript-line"><span class="time"><strong>[01:26:53]</strong> </span><span class="speaker"><strong>发言人2: </strong></span>他做投资，做FA做什么的，然后可能带了十个实习生，然后有完整的AI的SOP的流程，AI写稿，AI翻译还是怎么的。然后你会觉得每一代似乎有每一代的SOP，但是那个感觉是很像。就是我看到这些时候，就跟当年我们开始看三六氪早年叫tech rss中文站一样的。我们从硅谷拉上来最好的美国的最新的消息翻译成中文给关心这个事情的这些人看，然后一起去构建，说构建可能高了一点，就是一起去描述这个行业可能会发生什么问题，遇到什么样的状态，可能往哪走。你甚至有些时候会感觉你的这些发出去的信号，也在影响这个行业的人跟这个行业的走势。这么说可能太高了。但你在某一个时刻，某一个模特moment，某一个文章写的那个过程中，你是真的有这种感觉的。</p>
-<p class="transcript-line"><span class="time"><strong>[01:27:55]</strong> </span><span class="speaker"><strong>发言人1: </strong></span>某种程度来说你就是一个好的投资人，他也应该有这个能力。</p>
-<p class="transcript-line"><span class="time"><strong>[01:28:00]</strong> </span><span class="speaker"><strong>发言人2: </strong></span>美国可能是，中国不一定。</p>
-<p class="transcript-line"><span class="time"><strong>[01:28:03]</strong> </span><span class="speaker"><strong>发言人1: </strong></span>确实我觉得如果我以后再采访其他投资人。</p>
-<p class="transcript-line"><span class="time"><strong>[01:28:06]</strong> </span><span class="speaker"><strong>发言人2: </strong></span>我应该问他们什么问题呢？问那些黑盒里的问题。</p>
-<p class="transcript-line"><span class="time"><strong>[01:28:10]</strong> </span><span class="speaker"><strong>发言人1: </strong></span>就是你怎么投这个公司，你叫逻辑。</p>
-<p class="transcript-line"><span class="time"><strong>[01:28:12]</strong> </span><span class="speaker"><strong>发言人2: </strong></span>而且问反着问就是你为什么。</p>
-<p class="transcript-line"><span class="time"><strong>[01:28:15]</strong> </span><span class="speaker"><strong>发言人1: </strong></span>没投这个。</p>
-<p class="transcript-line"><span class="time"><strong>[01:28:16]</strong> </span><span class="speaker"><strong>发言人2: </strong></span>或者当时你跟别人的非共识是什么？共识性的东西都太平了。</p>
-<p class="transcript-line"><span class="time"><strong>[01:28:23]</strong> </span><span class="speaker"><strong>发言人1: </strong></span>你觉得什么样的投资人应该问他这个问题。我我我我我先说下，我觉得你这个问题，我我在我感觉我乍一想我只能问那些最成功的投资人。</p>
-<p class="transcript-line"><span class="time"><strong>[01:28:31]</strong> </span><span class="speaker"><strong>发言人2: </strong></span>或者投到牛逼项目的都可以问。你就问最近，比如问联盟之前投安可，这个363N36应该也是插烂的。你想他一个常年在广州待着的，他是IDG的合伙人，他常年在广州待着，天上皇帝也没人管他。那他为什么这么牛逼，连续投入这么好的呢？</p>
-<p class="transcript-line"><span class="time"><strong>[01:28:51]</strong> </span><span class="speaker"><strong>发言人1: </strong></span>希望我们节目能采访他们。对我最后一个问题就是我们这节目的固定。最后一个问题就你我这不在全是这个建筑建模。如果今天让你随便选个建筑，你想把它保存下来，你会选什么？你要需要的话，可以给你一些别人的回答，但你也可以完全自己想。</p>
-<p class="transcript-line"><span class="time"><strong>[01:29:13]</strong> </span><span class="speaker"><strong>发言人2: </strong></span>我在你们俩来的时候，看你们俩去年前几年给东北的那个那个纪录片，就你们俩。</p>
-<p class="transcript-line"><span class="time"><strong>[01:29:20]</strong> </span><span class="speaker"><strong>发言人1: </strong></span>对我和柯达。对。</p>
-<p class="transcript-line"><span class="time"><strong>[01:29:21]</strong> </span><span class="speaker"><strong>发言人2: </strong></span>然后不你和汉卿，我和仲卿是吧？你和仲氢，然后去东北的林场里。</p>
-<p class="transcript-line"><span class="time"><strong>[01:29:27]</strong> </span><span class="speaker"><strong>发言人1: </strong></span>对。</p>
-<p class="transcript-line"><span class="time"><strong>[01:29:27]</strong> </span><span class="speaker"><strong>发言人2: </strong></span>我我我出生的地方在林场，在长白山下面的一个林场。那个林场在我们家应该是我读初中的时候，我们家离开那个农场林场，然后在我读大概大二的时候，然后就分离了，那个林场就不用了，所有的林场的人就搬到了镇里的那个林场，就没有人在那儿。如果有可能，那就是那个林场的我们当时那个那个类似大院，它就是办公室，这边是什么营林，就是建林子的，这边是消防，这边还有什么？它是一个大的远方中央广场，有一个假山，就是我小时候成长的那个地方。</p>
-<p class="transcript-line"><span class="time"><strong>[01:30:12]</strong> </span><span class="speaker"><strong>发言人1: </strong></span>我延伸问一个问题，就有一天我在内蒙拍应该拍青龙白塔的时候，就突然意识到一个事儿。就一个人如果从小长大在青龙白塔这样的环境，就是你茫茫无际。</p>
-<p class="transcript-line"><span class="time"><strong>[01:30:24]</strong> </span><span class="speaker"><strong>发言人2: </strong></span>的草原和远方。</p>
-<p class="transcript-line"><span class="time"><strong>[01:30:27]</strong> </span><span class="speaker"><strong>发言人1: </strong></span>那他的这个对世界的想法和我肯定是有区别。</p>
-<p class="transcript-line"><span class="time"><strong>[01:30:30]</strong> </span><span class="speaker"><strong>发言人2: </strong></span>对对对。</p>
-<p class="transcript-line"><span class="time"><strong>[01:30:31]</strong> </span><span class="speaker"><strong>发言人1: </strong></span>因为我的小时候长在什么地方，我也是茫茫无尽的平地，但我感觉全世界都是玉米地，全世界就是玉米，茫茫无际的玉米在你眼前。</p>
-<p class="transcript-line"><span class="time"><strong>[01:30:39]</strong> </span><span class="speaker"><strong>发言人2: </strong></span>这我读大学看湖旁边也是。</p>
-<p class="transcript-line"><span class="time"><strong>[01:30:41]</strong> </span><span class="speaker"><strong>发言人1: </strong></span>那你作为一个林场长大的人，你觉得林场这个环境对你有什么影响呢？我想象不出来，因为我没有在林场长期生活。</p>
-<p class="transcript-line"><span class="time"><strong>[01:30:49]</strong> </span><span class="speaker"><strong>发言人2: </strong></span>我就林场的小孩儿相对来说比较相对自由野一点儿。</p>
-<p class="transcript-line"><span class="time"><strong>[01:30:57]</strong> </span><span class="speaker"><strong>发言人3: </strong></span>然后他。</p>
-<p class="transcript-line"><span class="time"><strong>[01:30:58]</strong> </span><span class="speaker"><strong>发言人2: </strong></span>会有很多。我觉得吃跟喝上尤其的明显。</p>
-<p class="transcript-line"><span class="time"><strong>[01:31:05]</strong> </span><span class="speaker"><strong>发言人1: </strong></span>就是吃就展开讲讲。</p>
-<p class="transcript-line"><span class="time"><strong>[01:31:07]</strong> </span><span class="speaker"><strong>发言人2: </strong></span>比如说到今天我就像我们中午聊，我到今天依然还在喝我们家那儿产的水，就是你甚至真的能喝出来那个水是甜的。我觉得那个东西就是小时候记忆里带的，它不是一个，它甚至都不是科学的。我觉得因为我今天去乌龙河全羊泉，我也喝浓山泉，我也喝什么怡宝和什么，你是真的能觉得那个水里是甜的。然后到今天我我看到松子儿的，看到的松子的当下，我就能想到松子儿刚从树上掉下来，然后直接在这下面烤，用火烤松塔的那个烤出来的味道就是这个东西就是太这都多少年了，到今天我买松鼠看到松弛也能想到那个味道。</p>
-<p class="transcript-line"><span class="time"><strong>[01:31:50]</strong> </span><span class="speaker"><strong>发言人1: </strong></span>我特理解。因为你说这个场景是我一直梦寐以求的，我就想试试那个松哪儿掉下来，那一刻我就吃了什么感觉。</p>
-<p class="transcript-line"><span class="time"><strong>[01:31:56]</strong> </span><span class="speaker"><strong>发言人2: </strong></span>首先它咱们现在买的常规比较常见的炒出来油的那个甚至开口的兄弟，对，它的那个瓤是硬的，是比较硬一点的，它甚至有一点点脆。</p>
-<p class="transcript-line"><span class="time"><strong>[01:32:06]</strong> </span><span class="speaker"><strong>发言人1: </strong></span>对。</p>
-<p class="transcript-line"><span class="time"><strong>[01:32:07]</strong> </span><span class="speaker"><strong>发言人2: </strong></span>但你要知道刚从树下掉的，它是有巨多的水分，它是软的。</p>
-<p class="transcript-line"><span class="time"><strong>[01:32:11]</strong> </span><span class="speaker"><strong>发言人1: </strong></span>我想我想不出来它是像栗子吗？</p>
-<p class="transcript-line"><span class="time"><strong>[01:32:13]</strong> </span><span class="speaker"><strong>发言人2: </strong></span>没有粒子，那么面它是有一点柔性的韧性在里面的。而且又因为它刚从蔬菜店，它是带着油的。它为什么那东西好烤？因为它带着松的油。你知道搭个火往里扔那塔吗？那个塔上面是有油松的油，然后它会通过那个油的方式把那个味道更挤完，然后烤完。然后那个壳儿本身您现在的壳儿都可也是脆的。但你要知道刚考完或者刚拿那个松子的，可也是它是认的，它不是脆的，它像木头，它像木头的那个那个。</p>
-<p class="transcript-line"><span class="time"><strong>[01:32:42]</strong> </span><span class="speaker"><strong>发言人1: </strong></span>就扒树皮的感觉。对，所以是那样一种，它有什么特殊的味道吗？</p>
-<p class="transcript-line"><span class="time"><strong>[01:32:47]</strong> </span><span class="speaker"><strong>发言人2: </strong></span>它就有更浓郁的那甚至我曾经部分实现过，怎么实现的？我问了我妈，我因为你知道我们我们林场的小孩子吃松子，一种是像你来说，刚从树上打下来，松塔烤着吃。</p>
-<p class="transcript-line"><span class="time"><strong>[01:32:58]</strong> </span><span class="speaker"><strong>发言人1: </strong></span>另外一种就是打是什么意思？你要打下来。</p>
-<p class="transcript-line"><span class="time"><strong>[01:33:01]</strong> </span><span class="speaker"><strong>发言人2: </strong></span>拿个敲就把它敲下来。从树上需要爬树吗？</p>
-<p class="transcript-line"><span class="time"><strong>[01:33:04]</strong> </span><span class="speaker"><strong>发言人1: </strong></span>有的需要高的挺危险。</p>
-<p class="transcript-line"><span class="time"><strong>[01:33:06]</strong> </span><span class="speaker"><strong>发言人2: </strong></span>现在很多松塔也是这么打的。</p>
-<p class="transcript-line"><span class="time"><strong>[01:33:07]</strong> </span><span class="speaker"><strong>发言人1: </strong></span>就爬上去就打下来。对，每年不有那个因为坐着起球打飘走的事儿。</p>
-<p class="transcript-line"><span class="time"><strong>[01:33:11]</strong> </span><span class="speaker"><strong>发言人2: </strong></span>然后另外一种方式就是比如说成年的，比如去年或者是前段时间哪时候晾干再吃的时候怎么吃是要吵一下的。吵我当时尝试过是这种方式，后来问我妈，我妈说要加水。</p>
-<p class="transcript-line"><span class="time"><strong>[01:33:28]</strong> </span><span class="speaker"><strong>发言人1: </strong></span>这炒松子要加水。</p>
-<p class="transcript-line"><span class="time"><strong>[01:33:29]</strong> </span><span class="speaker"><strong>发言人2: </strong></span>就像有点像煮，就是比煮的水要少一些，但有水，然后也不加上别的那么炒。然后现在把那个味道炒出来。</p>
-<p class="transcript-line"><span class="time"><strong>[01:33:36]</strong> </span><span class="speaker"><strong>发言人1: </strong></span>然后吃就能复原刚一点点。</p>
-<p class="transcript-line"><span class="time"><strong>[01:33:39]</strong> </span><span class="speaker"><strong>发言人2: </strong></span>因为它它水分会进去，它它那个壳子，包括那个里面的瓤的那个形态会有一定的变化。</p>
-<p class="transcript-line"><span class="time"><strong>[01:33:46]</strong> </span><span class="speaker"><strong>发言人1: </strong></span>对我对今天你能买到的好，即使是好。松子儿最大的抱怨就是它上面那壳上有巨多的盐，所以你磕比如说你一桶送这，你如果你自己全吃了，你会头非常疼。</p>
-<p class="transcript-line"><span class="time"><strong>[01:33:56]</strong> </span><span class="speaker"><strong>发言人2: </strong></span>我觉得跟我们吃的不是一个东西。</p>
-<p class="transcript-line"><span class="time"><strong>[01:33:58]</strong> </span><span class="speaker"><strong>发言人1: </strong></span>就不是一个物种了，是吧？OK行，那今天到这儿。好好，谢谢。</p>]]></content:encoded>
-            <pubDate>Mon, 21 Jul 2025 16:00:00 GMT</pubDate>
-            <guid>687dba8ea9dec9250054beb7</guid>
         </item>
     </channel>
 </rss>
