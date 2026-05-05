@@ -4,7 +4,286 @@
         <title>十字路口Crossing</title>
         <link>https://www.xiaoyuzhoufm.com/podcast/60502e253c92d4f62c2a9577</link>
         <description>关注科技、互联网、AI 的播客</description>
-        <lastBuildDate>Wed, 29 Apr 2026 23:49:29 +0800</lastBuildDate>
+        <lastBuildDate>Wed, 06 May 2026 05:11:30 +0800</lastBuildDate>
+        <item>
+            <title>探秘 Claude Code，搞懂 Agent Harness｜对谈来新璐</title>
+            <link>https://www.xiaoyuzhoufm.com/episode/69f2e83fbb3ffa11e59dec82</link>
+            <description>🚥 为什么说 Agent 的上限来自 Harness？当我们讨论 Harness 时，我们究竟在讨论什么？
+不久前，Claude Code 源代码泄露，许多 Agent Harness 的关键模块得以完整呈现，成了一份极佳的教学标本。而在技术高速变化的红利期，主动理解新技术往往能带来很高的认知增量。
+因此，本周「十字路口」邀请到来新璐，一起聊聊 Agent Harness。新璐是 ShareAI 开源社区发起人，他撰写维护的《Learn Claude Code》教程在 GitHub 上获得超过 50k Star。
+在本期内容中，我们把 Agent Harness 从概念词拆解成工程语言，介绍它的三层框架：会跑（执行层）→ 跑久（状态层）→ 跑稳（治理层）。同时，我们也梳理了 Claude Code 中值得借鉴的多个机制：更多 context、更少 control 的思路、“零上下文管理”的哲学、长程任务的接力式交接策略，以及让 Agent 越用越聪明的“做梦”式记忆维护与迭代机制等
+新璐作为典型的一人公司，刚完成数百万美金融资；他也分享了自己对 OPC 的独特观点，甚至认为“未来只有 0 人公司，没有 1 人公司”，颇具启发。
+🎬 我们的视频播客已同步上线于 @Koji杨远骋 的视频号、小红书、哔哩哔哩、Youtube 等平台。
+📒 文字版已发布于 @十字路口Crossing 公众号。
+🟢 00:49 快问快答：年龄、毕业院校、MBTI、星座、一句话介绍公司、融资情况、团队规模、创业前经历
+🟢 01:52 模型以外都是 Harness
+机甲、大脑、机器人、智商120——Harness 到底是什么
+* 模型以外都是 Harness
+* Agent 上限由 Harness 决定吗？
+* 模型智商已在 120–170 之间；Agent Harness 像机甲——不提升智力，但极大扩展能力
+🟢 02:47 GitHub 50k star，是怎么来的？
+这个Agent教程，其实不只是写给别人看的——它本来是新璐自己整理的&quot;造 Agent 心法&quot;。
+* 9 个月前动笔，出发点是&quot;把 Claude Code 套网页壳就能得到一个强大 Agent 产品&quot;的简单直觉
+* 开源社区当时流行 LangChain、LangGraph等 prompt pipeline 做法开发“伪Agent”，是一场派系之争——&quot;Prompt Flow-Driven vs Agent Native-Driven&quot;
+* LangChain 过时了吗？
+🟢 04:02 Bash is all you need
+Claude 推出 Manager Agents 之后，大家还需要自己搭 Harness 吗？
+* 就像 Next.js出现后大家不再关心底层运行原理，两三年后 Agent Harness 也会收敛为开箱即用
+* 但现在是技术周期红利窗口——不懂 Agent Harness，做出来的Agent产品&quot;缺乏灵魂&quot;
+* 今天的 PM 和过去的 PM，指的根本不是同一种人
+🟢 07:04 Harness 三层拆解
+用两周时间、多 Agent 协作，从零写出一个 C 编译器——这个经典案例背后，到底走了哪三层？
+* 第一层：执行能力层 ——文件增删读写、浏览器、语言解释器；配错权限后果是什么？
+* 第二层：上下文与状态层 ——system prompt、skills、memory，以及上下文窗口满了之后 Agent 如何&quot;接力交棒&quot;
+* 第三层：治理与编排层 —— 数百上千 Agents 如何组织协作？测试 Agent 为什么不能同时拥有修改代码的权限？
+🟢 12:05 KB 的 K 系列Agent工具链
+他们公司叫 Komputer Blue，代号KB，目标是构建By Agents &amp; For Agents的整套开源Infra
+* Komputer：用 TypeScript 重写 Unix 文件系统和 bash，给 Agent 一个&quot;熟悉的生活环境&quot;；支持 WebAssembly 时切换WASM实现；
+* Kruntime：Agent Runtime 层，提供让人类开发 Agent 的接口，以及Agent 派生 Agent的接口
+* Kwatch：Agent 观测层，分析 Agent 任务在哪里卡住，反向指导 Agent 设计迭代
+* Krl：把 Agent 在 Runtime 上沉淀的轨迹数据拿来强化学习或做上下文层的自迭代
+🟢 13:55 vs. AWS AgentCore、阿里云 AgentBay
+云服务厂商当然也想做这一层
+* K 系列 Agent 工具链的核心理念：在离用户更近的场景运行 Agent，任何能跑 JavaScript 的场景都能用——浏览器、插件、App、Electron、小程序、纯静态网页、全栈 SaaS
+* 差异化：把Claw-Agent的运行时轻量到由纯数据结构模拟的 KB 级Unix虚拟计算机环境，而不是把 Linux 和浏览器全塞进去
+* 新璐认为要让 Agent 工作好的方法是给每个 Agent 一台专用计算机，一般通过虚机提供，但大多 Agent 完成的大部分工作不需要真的 Linux虚机（且成本高昂），像编译器、浏览器这类重工具原本就不该放进给每个 Agent 的虚机环境
+🟢 17:38 Memory 的流派
+* 完全结构化（知识图谱 + 向量搜索）：精细存储的知识结构，支持 pipeline 知识推理，rule-based，新璐不喜欢
+* 半结构化（Unix Files + Markdown + Agent 驱动更新）：Claude Code 和小龙虾都是这样做的；Claude Code 中的 auto-dream 机制：每隔一天触发后台 Agent 对最近会话做&quot;重放&quot;，纠错、合并、更新记忆——就像做梦
+* 模型内化 —— 距真正生产落地还需要～ 3 年时间，且记忆难批量提取 &amp; 无损转移，容易被单边模型提供商绑定
+🟢 22:49 共识与非共识
+* 共识：CLI is all you need——&quot;Bash is all you need&quot; 这句话是新璐 9 个月前写在开源仓库里的标语，现在成了行业共识
+* 非共识：大部分23年 ~ 25年诞生的主流开源 Agent 框架仍在用 PromptPipe + Node Graph的老路线 —— 就像齿轮与传送带编织的流水线
+* Unix 从 1971 年就存在，LLM预训练语料中 Linux 命令有数十亿条sample；MCP 提出才两年，预训练占比不到 0.1%——这解释了为什么 CLI 工具的任务完成率比 MCP 高，并且 shell 具备对CLI命令的可组合性 &amp; 二次编程空间
+🟢 26:33 Claude Code 源码泄露：最大的惊喜是什么
+让所有人看到了一件事：这家公司在&quot;上下文管理&quot;上做了多少别人没有做的工程工作
+* 上下文压缩策略：工具 output 何时删、窗口满到什么阈值开始交接、下一个 Agent 初始化时加载什么
+* Fork Agent 机制：每轮结束触发 turn stop hook，Fork 一个 Agent 复用 KV cache 做记忆更新
+* 记忆文件格式和 skill 保持同一套哲学：前三行 YAML，先读 description 而非全文
+* 新璐的结论：&quot;好的 Harness 要和模型的inference逻辑自洽，和Agent模型进步方向正交&quot;
+🟢 34:05 好 Harness 的标准
+* 不好的：随意裁剪上下文，导致 KV cache 频繁失效，重计算开销
+* 不好的：用 Prompt Graph硬控每一步决策——模型越强越被束缚
+* 好的公式：好的context space + 好的action space + less prompt control
+* Anthropic 从25年初率先从问答模型转向 Agent 模型训练，领先其他厂商半年
+🟢 38:52 新璐看好的三个创业方向
+* 第一：Agent Harness工具链（新璐自己在做）
+* 第二：Agent 组网——不是给 Agent 发 IM/Mail，而是混合云端/端侧的全设备组网；现有 Tailscale 不够 Agent Native，需要高通量上下文交换，以及更多控制能力
+* 第三：Agent模型集约训练、推理基础设施——Tinker（Thinking Machines Lab，OpenAI 前 CTO 创业方向）的路线：集约化高效训练 + LoRA 热插拔推理，让更多企业 &amp; 个人都能以较低成本获得个性化且更适合各自任务场景的Agent模型
+🟢 44:09 Agent 未来暴论
+&quot;我觉得以后很多的公司都是理财产品 —— 由有经验的人类 Team搭建这些公司、甚至由AI直接生成公司，然后自运转&quot;
+* 阶段：单 Agent → Agent 蜂群 → Agent 自管理 &amp; 协调更多 Agent → Agent 开始创造、发明
+* OPC “1人公司“不本质， 0PC “0人公司”是未来趋势
+* 真格基金和十字路口的 Token Grant 资助的 YoYo Agent
+* 未来的画面：从口袋里掏出一张卡，&quot;这张卡里跑了 5 个由Agent组成的公司，每年给我创造几十亿收入&quot;
+欢迎订阅「十字路口」：
+🚦 我们关注新一代 AI 技术浪潮带来的行业新变化和创业新机会。
+🚦 十字路口是乔布斯对苹果公司的一个比喻，形容它站在科技与人文的十字路口，伟大的产品往往诞生在这里。AI 正在给各行各业带来改变，我们寻找、访谈和凝聚新一代 AI 创业者和 AI 时代的积极行动者，和他们一起，探索和拥抱新变化，新的可能性。
+👦🏻 主播 Koji：我创办了十字路口，发起了 AI Hacker House 这个新一代 AI 创业者的社群空间，在真格基金担任 Venture Partner（投资合伙人）。我相信科技尤其是 AI 是我们这一代人最大的价值创造机遇。Koji 的即刻，Koji 的网站
+👧🏻 主播 Ronghui：我联合创办了十字路口，在美元 VC 工作过，也做过五年的硅谷驻站记者，关注科技发展和商业故事，欢迎大家找我聊天，和我交流。Ronghui 的即刻</description>
+            <content:encoded><![CDATA[<div class="episode-summary">
+<h3>内容摘要</h3>
+<h3>主题概述</h3>
+<p>本期节目围绕 <strong>Agent Harness</strong>（智能体工程框架）展开，嘉宾来新璐（CRAI 创始人、开源教程 Learn Claude Code 作者）结合 <strong>Claude Code 源代码泄露</strong> 这一事件，系统拆解了 Agent Harness 的三层架构（执行能力层、上下文环境层、治理编排层），分享了从代码设计、记忆机制到工具选择的核心洞察。对话还深入探讨了 Agent 开发范式演变（从 prompt flow 到 agent-native CLI）、开源社区共识与非共识，以及他创办的 <strong>1KB</strong> 公司在 Agent 基础设施（虚拟 Unix 计算机、运行时、观测层）上的创业探索。</p>
+<h3>关键要点</h3>
+<ol>
+<li>
+<p><strong>Agent Harness 三层结构</strong>：来新璐将 Harness 拆解为三层——<strong>执行能力层</strong>（CLI、工具、MCP 等行动能力）、<strong>上下文/状态层</strong>（system prompt、skills、memory、上下文窗口卸载与接力）、<strong>治理编排层</strong>（多 agent 协调、权限控制、任务并行与串行策略）。并以“两周构建 C 编译器”的经典案例串讲了三层如何协同工作。</p>
+</li>
+<li>
+<p><strong>核心观点：“模型以外都是 Harness”</strong>：来新璐认为 Harness 是为模型这个“聪明大脑”提供身体和手脚（机甲）。Agent 的上限提升仍依赖模型智力，但当前模型智商已够用（120-170），Harness 的设计极大扩展了能力边界。“好的 Harness 跟模型的运行原理自洽，跟模型未来的进步方向正交。”</p>
+</li>
+<li>
+<p><strong>Claude Code 源代码泄露的关键启示</strong>：最惊艳的是<strong>记忆机制</strong>，分为“每次交互后 fork agent 更新 markdown 记忆”和“每夜 auto dream（做梦）机制”——后者在多于5个 section 后自动启动后台 agent 重放对话、纠正事实、合并记忆。此外，<strong>上下文压缩策略</strong>非常精细：在上下文窗口满时，如何选择丢弃垃圾信息、保留关键进展文档、准备下一个 agent 的初始化上下文，包含大量 trade-off 设计。</p>
+</li>
+<li>
+<p><strong>范式转变：从 prompt flow 到 CLI 原生</strong>：“agent native”的范式（如 Claude Code、Sonic）正在取代基于 prompt node 的状态图/流程图框架（如 LangGraph、LangChain）。核心是“更多的 context，更多的 action 能力，zero control”。来新璐断言，类似 LangGraph 的方法会越来越不适用，未来开发者会直接拥抱 CLI 工具（Unix + shell）作为 agent 的标配，而不是另造 MCP 等新协议。</p>
+</li>
+<li>
+<p><strong>为什么 CLI 优于 MCP</strong>：CLI（命令行接口）在预训练语料中占比极高（数十亿条），模型训练充分；而 MCP 是近两年提出的全新概念，语料占比可能不到 0.1%，导致成功率天然劣势。GitHub CLI 和飞书 CLI 的使用体验对比 MCP 也印证了这一点。“不要再造更多的轮子，回到 Unix 自洽的哲学中。”</p>
+</li>
+<li>
+<p><strong>Harness 的创业机会与方向</strong>：来新璐认为当前 Harness 封装尚不成熟（范式变化太快），他的公司 <strong>1KB</strong> 正在做三件事：① <strong>1KB Unix Computer</strong>（用数据结构在内存中实现虚拟 Unix 计算机，只有 1KB 大小，可运行在浏览器/小程序等所有 JS 场景）；② <strong>agent runtime</strong>（给开发者提供接口语法糖）；③ <strong>观测层</strong>（Key Watch）和<strong>数据迭代</strong>（KeyL，支持强化学习或上下文调优）。此外，他看好 <strong>混合组网</strong>（类似 Tailscale 但更 agent-native）和 <strong>个性化模型训练/推理</strong>（低秩适配 LoRA 挂载推理）两个方向。</p>
+</li>
+<li>
+<p><strong>Agent 开发的排序：模型 &gt; 上下文 &gt; 工具</strong>：来新璐认为性能提升最重要的是换更强的模型；其次是上下文（工作环境、skills、memory、接力棒交接）；最后是工具。但大多数开发者能改变的就是上下文层。</p>
+</li>
+<li>
+<p><strong>产品经理必须懂技术周期</strong>：来新璐批评当前很多产品经理只画 UX/UI，但在技术快速变化的时代，产品本质是吃技术红利的应用，必须同时懂场景痛点和底层技术变化的内核。</p>
+</li>
+</ol>
+<h3>独家细节</h3>
+<ol>
+<li>
+<p><strong>“悄悄做梦”记忆机制的未发布特性</strong>：Claude Code 中有一个远程 flag 控制的记忆特性（auto dream），尚未对普通用户开放。来新璐提到它通过重放最近 section 提取信息、纠正错误，类似于人类睡眠时的记忆整合，设计哲学与 skill 的 markdown 文件一脉相承（前3行是 yaml 标题与描述）。</p>
+</li>
+<li>
+<p><strong>1KB Unix Computer 的实现与取舍</strong>：他们用 TypeScript 语言层重新实现了一个虚拟 Unix 系统（类似迷你版内核），大小仅相当于一个 Map 数据结构。牺牲了真实运行 GCC 编译器或浏览器的能力，但保留了文件系统、bash、局域网组网、后台进程、时钟推进等核心能力。来新璐认为浏览器等重型需求应放在外部作为集约服务，而非塞进 agent 配套环境。</p>
+</li>
+<li>
+<p><strong>创业初心的个人化表达</strong>：来新璐的公司 slogan 是“加速世界升级”。他描述了一个未来场景：“你走在路上，从口袋里掏出一张黑色卡片，跟朋友说这张卡片里跑了五个公司，每年创造几十亿收入。”他坚信“一人公司”不是本质，“零人公司”才是终极形态——由 agent 组成的公司，不需要人类员工。</p>
+</li>
+<li>
+<p><strong>对当前主流框架的直言批评</strong>：来新璐说如果不了解 Harness，做出来的产品“缺乏灵魂和进步迭代的空间”。他提及“派系之争”时指出，很多开发者仍困在 prompt node 和状态图的旧思维里，而 Claude Code 源代码泄露后展示的“pushing is all you need”才是未来方向。</p>
+</li>
+<li>
+<p><strong>个人经历与融资现状</strong>：来新璐24岁，毕业于河南工业大学，之前在大厂和研究院做 AI infra，刚融了300多万美元，团队主力只有他本人加两个实习生，无收入，主打开源工具链。他坦言创业是“押注技术周期红利”，认为当前阶段“CLI 是 all you need”是共识，但多数开源框架尚未围绕该理念原生构建。</p>
+</li>
+</ol>
+</div>
+<hr/>
+<p class="transcript-line"><span class="time"><strong>[00:00:00]</strong> </span><span class="speaker"><strong>发言人1: </strong></span>我是科技。最近大家都在讨论agent harness，agent的上限是由harness去决定的。可是当我们聊到harness的时候，我们到底在聊什么？不久之前cloud code的源代码被泄露，所以许多agent harness的关键模块也被完整的呈现了出来，成为了非常好的一个教学样本。今天我们请到的嘉宾是新路，新路是CRAI的创始人，然后他们做了一个教程learn cloud code，这是一个在github上面现在已经有超过5万颗星的教程。你好，谢木，欢迎来到十字路口。</p>
+<p class="transcript-line"><span class="time"><strong>[00:00:33]</strong> </span><span class="speaker"><strong>发言人2: </strong></span>Hello, 感谢科锐老师邀请。</p>
+<p class="transcript-line"><span class="time"><strong>[00:00:35]</strong> </span><span class="speaker"><strong>发言人1: </strong></span>我们这一期播客的目标是希望能够让大家感觉到harness不再是一个神秘的或者玄乎的词，然后可以让大家明白它其实就是建工程的一些方法，我们照旧还是从快安快答来开始。对，请问心路你的年龄23，毕业院校。</p>
+<p class="transcript-line"><span class="time"><strong>[00:00:53]</strong> </span><span class="speaker"><strong>发言人2: </strong></span>河南工业大学。</p>
+<p class="transcript-line"><span class="time"><strong>[00:00:54]</strong> </span><span class="speaker"><strong>发言人1: </strong></span>然后MBTI和星座。</p>
+<p class="transcript-line"><span class="time"><strong>[00:00:56]</strong> </span><span class="speaker"><strong>发言人2: </strong></span>INTP，星座我不太关注。</p>
+<p class="transcript-line"><span class="time"><strong>[00:00:59]</strong> </span><span class="speaker"><strong>发言人1: </strong></span>一句话介绍一下自己的公司和产品。</p>
+<p class="transcript-line"><span class="time"><strong>[00:01:02]</strong> </span><span class="speaker"><strong>发言人2: </strong></span>我现在在做一个一KB的一个agent computer的一个工具链给开发者，开发agent用的开源工具链。</p>
+<p class="transcript-line"><span class="time"><strong>[00:01:11]</strong> </span><span class="speaker"><strong>发言人1: </strong></span>然后再一句话来介绍一下我们刚才提到的这个开源的教程。Learn cloud code是什么？</p>
+<p class="transcript-line"><span class="time"><strong>[00:01:16]</strong> </span><span class="speaker"><strong>发言人2: </strong></span>Cloud code就是我们认为最好的agent harness，所以我们要学一点的例子。干脆我们做了一个资料仓库来解析color code，一定的设计模式。</p>
+<p class="transcript-line"><span class="time"><strong>[00:01:25]</strong> </span><span class="speaker"><strong>发言人1: </strong></span>咱们现在的融资情况。</p>
+<p class="transcript-line"><span class="time"><strong>[00:01:26]</strong> </span><span class="speaker"><strong>发言人2: </strong></span>我们刚扣的三百多万美金。</p>
+<p class="transcript-line"><span class="time"><strong>[00:01:28]</strong> </span><span class="speaker"><strong>发言人1: </strong></span>目前的团队规模。</p>
+<p class="transcript-line"><span class="time"><strong>[00:01:30]</strong> </span><span class="speaker"><strong>发言人2: </strong></span>团队非常的精翰，主力其实就是我。然后我有两个。</p>
+<p class="transcript-line"><span class="time"><strong>[00:01:34]</strong> </span><span class="speaker"><strong>发言人1: </strong></span>实习生收入和利润的。</p>
+<p class="transcript-line"><span class="time"><strong>[00:01:36]</strong> </span><span class="speaker"><strong>发言人2: </strong></span>新的创业方向，刚开始还没有收入。对。</p>
+<p class="transcript-line"><span class="time"><strong>[00:01:39]</strong> </span><span class="speaker"><strong>发言人1: </strong></span>有一句话介绍一下创业前在做什么。</p>
+<p class="transcript-line"><span class="time"><strong>[00:01:42]</strong> </span><span class="speaker"><strong>发言人2: </strong></span>我就是在一些大厂和研究院做一些AI infrared的相关工作。</p>
+<p class="transcript-line"><span class="time"><strong>[00:01:45]</strong> </span><span class="speaker"><strong>发言人1: </strong></span>如果今天新路你要用一句话，像一个都没有听说过这个harness的人介绍harness，你要怎么说？</p>
+<p class="transcript-line"><span class="time"><strong>[00:01:52]</strong> </span><span class="speaker"><strong>发言人2: </strong></span>模型以外都是harness，我会倾向于把模型比较为一个聪明的大脑，但是他没有身体和手脚的情况下，他只能思考对吧？没办法行动。</p>
+<p class="transcript-line"><span class="time"><strong>[00:02:01]</strong> </span><span class="speaker"><strong>发言人1: </strong></span>Agent的上限是来自harness的设计，你认可这句话吗？以及为什么agent的上限不是来自模型智能的提升。</p>
+<p class="transcript-line"><span class="time"><strong>[00:02:09]</strong> </span><span class="speaker"><strong>发言人2: </strong></span>我对这个话赞成一半。首先agent的智力的上限提升肯定还是模型层面的发展。因为agent其实是一个模型，模型越聪明肯定它越好。我们看到现在其实大部分模型智力也都比较够用了。把模型比成人的话，我们智商在120到170之间。但是我们可以通过去健身、去学舞蹈，然后去修习武术，去穿上这个机甲来作业，来让我们自己更加强大。</p>
+<p class="transcript-line"><span class="time"><strong>[00:02:35]</strong> </span><span class="speaker"><strong>发言人1: </strong></span>这个比喻还挺有意思的。机甲是harness.</p>
+<p class="transcript-line"><span class="time"><strong>[00:02:40]</strong> </span><span class="speaker"><strong>发言人2: </strong></span>就是我觉得它极大的扩充了我们的能力。</p>
+<p class="transcript-line"><span class="time"><strong>[00:02:43]</strong> </span><span class="speaker"><strong>发言人1: </strong></span>我们一开始也提到这个learn cloud code的这个教程，在kk TUP上面有超过5万颗星。那大概是什么时间点你开始写这个教程呢？</p>
+<p class="transcript-line"><span class="time"><strong>[00:02:53]</strong> </span><span class="speaker"><strong>发言人2: </strong></span>其实应该有九个月前了。</p>
+<p class="transcript-line"><span class="time"><strong>[00:02:55]</strong> </span><span class="speaker"><strong>发言人1: </strong></span>当时是出于什么考虑想要写这么一个教程。</p>
+<p class="transcript-line"><span class="time"><strong>[00:02:58]</strong> </span><span class="speaker"><strong>发言人2: </strong></span>我们当时的想法就是color code是非常强大的。那你只要把color code套一个网页，对吧？你其实应该会得到一个非常强大的一个agent的产品，所以我们就会做的给开发者用的工具链。但是开发者可能比较熟悉过去像LG graph lung chain这种这种一些基于prompt，基于node和这种flow的方法的。就是像派系之争。</p>
+<p class="transcript-line"><span class="time"><strong>[00:03:20]</strong> </span><span class="speaker"><strong>发言人2: </strong></span>每次我再给大说这一条的时候，很多人可能不太相信honest。当时其实还不到harness，就是可能叫agent的框架对吧？Agent run time这样的词，就觉得很多地方我可能不太好控制。他们更喜欢加上很多prompt的节点，然后自己可以流转和控制，然后成本又低，有可控。所以我觉得这是一个思想范式争论。所以我们当时做的这个资料放出去，其实也是指导我们构建code agent心法。</p>
+<p class="transcript-line"><span class="time"><strong>[00:03:46]</strong> </span><span class="speaker"><strong>发言人1: </strong></span>所以你会认为lunch non graph这样构建agent的框架，他们已经彻底过时了，就没有任何用武之地了吗？</p>
+<p class="transcript-line"><span class="time"><strong>[00:03:53]</strong> </span><span class="speaker"><strong>发言人2: </strong></span>像prompt的flow，就是这基于prompt提示词节点做流转和控制那一套方法论，可能就是未来的agent开发过程中越来越不适用了。这种基于CC这种agent native的agent级模型及A这种方法和思想去做事情，包括81造油腻的这种方式会越来越清晰，为更多人去采用。</p>
+<p class="transcript-line"><span class="time"><strong>[00:04:16]</strong> </span><span class="speaker"><strong>发言人1: </strong></span>然后在我们录播课的前几天，cloud正好推出了这个manage agents，也就是把他自己做agent harness的这一套给开发出来给大家用了，岂不说这个更早之前他的源代码也泄露了？那既然现在比如说我要开发一个agent，我就可以直接用cloud manage agents ts，那大家还有必要自己去搭harness吗？甚至还有必要去了解harness的细节吗？</p>
+<p class="transcript-line"><span class="time"><strong>[00:04:39]</strong> </span><span class="speaker"><strong>发言人2: </strong></span>做一个agent的开发工程师会需要的。就是我认为如果你不了解的话，你做出来的产品缺乏灵魂和缺乏进步迭代的空间。</p>
+<p class="transcript-line"><span class="time"><strong>[00:04:50]</strong> </span><span class="speaker"><strong>发言人1: </strong></span>但这个就像云服务器一样，云服务刚出来的时候，可能工程师也会说，不能直接就调他的API。我们也要去搞明白这个服务器的方方面面的影响。但到后面你发现，其实99%的工程项目根本就不需要。所以我想这个会不会在agent harness这个层面也是一样的。我们今天虽然这一期播客还没开始聊，我们要讨论harness，要让大家学习harness。但会不会有一天其实根本就不需要学了，大家直接用cloud manage agents的服务就够了。</p>
+<p class="transcript-line"><span class="time"><strong>[00:05:18]</strong> </span><span class="speaker"><strong>发言人2: </strong></span>如果从整个推演角度来看，肯定未来会有那么一天。就像大家今天去，比如说开发很多这种全栈的这种外部应用，都有NGS这个框架。但你不会知道GS里面怎么设计和工作，它的原理是什么。大部分人可能不care这一层，我开箱即用去开发就好了。那么以后的这个A级的hard，随着它迭代和收敛以后，maybe大概率还是会可能会回到这一层。两三年以后它成为一个非常清晰的蓝牙开枪启用去做这件事情。</p>
+<p class="transcript-line"><span class="time"><strong>[00:05:45]</strong> </span><span class="speaker"><strong>发言人2: </strong></span>在这个过程中，就是我们说现在是技术周期。大家所有创业也好，做产品也好，本质上是在做技术周期里的红利变化。你还是要自己拥抱技术周期的变化，知道里面在变的是什么。</p>
+<p class="transcript-line"><span class="time"><strong>[00:05:56]</strong> </span><span class="speaker"><strong>发言人1: </strong></span>现在都是什么人在学这个a harness？</p>
+<p class="transcript-line"><span class="time"><strong>[00:05:58]</strong> </span><span class="speaker"><strong>发言人2: </strong></span>我觉得就是偏自己在构建和开发A型产品的居多。不管是大厂里面的相关的组，还是外面的创业公司。</p>
+<p class="transcript-line"><span class="time"><strong>[00:06:07]</strong> </span><span class="speaker"><strong>发言人1: </strong></span>你觉得产品经理有必要了解agent harness吗？</p>
+<p class="transcript-line"><span class="time"><strong>[00:06:11]</strong> </span><span class="speaker"><strong>发言人2: </strong></span>我今天对产品经理会提出一个质疑，就是我觉得今天的产品经理跟过去的产品经理其实指的不是同一种产品经理。就今天是在技术变化周期内，我们今天所做的一切产品都是在吃这个技术周期变化的红利。所以说如果你自己都不了解这个技术周期变化的内核和本质到底在变什么，你很难构建一个产品很贴合要吃掉它的这个红利，或者说贴合这个变化和周期。所以以前的产品经理画好的UXUI。但今天其实我觉得我们本质上是如何把技术进步的红利应用在我们的某个场景领域上。所以你应该同时懂两者，后者是场景需求和痛点，前者是就是技术上到底在变什么。</p>
+<p class="transcript-line"><span class="time"><strong>[00:06:56]</strong> </span><span class="speaker"><strong>发言人1: </strong></span>我们再回到聊这个agent harness。当我们agent harness的时候，一般来说心路你会把它再拆成几个部分吗？</p>
+<p class="transcript-line"><span class="time"><strong>[00:07:04]</strong> </span><span class="speaker"><strong>发言人2: </strong></span>我会倾向于把它拆成三个部分。第一层是给模型去提供它的执行能力的一个层。简单像CLI也好，包括你去写代码去注册的那些工具，包括从MCP去扩展的工具，这些统一是给模型提供的action的能力。</p>
+<p class="transcript-line"><span class="time"><strong>[00:07:19]</strong> </span><span class="speaker"><strong>发言人2: </strong></span>第二层我会更偏向于叫类似于叫做上下文，就是状态这一层面。比如说你的模型你要去工作，它是不是需要有它的system prompt，它有它的skills，然后它有它的memory，包括这个模型的上下文窗口不是无限的，很多的任务它其实会超过模型的上下文窗口，它是不是会要有一些of load。然后那下一轮相当于其实你以为还是那个agent在工作，其实已经是一个新的模型窗口。再装上一些初始化上下文，让它继续上一个窗口里再进行的工作，其实有点像一个新的agent的那他怎么接上上一个agent的交接给他的工作，这里面会有很多的上下文和状态的问题。我第二层觉得他被归为上下文的环境层面更好。</p>
+<p class="transcript-line"><span class="time"><strong>[00:07:58]</strong> </span><span class="speaker"><strong>发言人2: </strong></span>第三层把它归为就是说对agent的上层的管理。这个管理也会分两个方面，一个是如果你今天面对的对象不是一个agent，你是面对100个agent的。就像你公司有100号员工，你怎么去组织他们协调起来，按照某种组织架构，某种协作方式和传递顺序，去把一个复杂的一个事情给解决掉。第二层就是说你针对这100个人，他每个人要有不同的岗位的访问权限。其实也会有很多这种关于权限治理，关于信息的提供和隔离，很多这种治理的方面问题。</p>
+<p class="transcript-line"><span class="time"><strong>[00:08:33]</strong> </span><span class="speaker"><strong>发言人1: </strong></span>所以这三层一个是执行能力层，然后一个是上下文的这个环境层，还有一个是治理编排就管理这一层。那我们要不要用一个例子来串一串这三层，就一个具体的agent的任务，它的背后harness的三层是怎么发挥作用的？</p>
+<p class="transcript-line"><span class="time"><strong>[00:08:48]</strong> </span><span class="speaker"><strong>发言人2: </strong></span>之前有一个知名的例子就是说就是用两周去协调大量的agents，从0到1构建了一个C编译器。他通过非常多agens交替完成任务次迭代就把这个任务给完成了。我觉得这是一个很好的case。</p>
+<p class="transcript-line"><span class="time"><strong>[00:09:01]</strong> </span><span class="speaker"><strong>发言人2: </strong></span>首先我们说首先A阵的最底层是一个模型，对吧？模型就像大脑和心脏一样，他要去驱动整个任务的。这个完成他要有action能力。所以说你至少要给他配置类似于稳健的增删读写搜索等等这样一些这样对应的工具能力。就是action能力，就是我说的harness第一层，你给模型提供的能力，那么模型才有机会去写代码，去创建文件，修改它前面创建过的文件。</p>
+<p class="transcript-line"><span class="time"><strong>[00:09:28]</strong> </span><span class="speaker"><strong>发言人2: </strong></span>第二层就是上下文状态这一层OK。我模型是不是要知道我现在是在一个什么样的环境中去工作，我的路径是什么？我这上面装有哪些依赖吧？然后我已经写的文件夹的结是什么？然后包括的我的gate信息以及它的模型上文窗口非常满。因为我们知道一个CB其是一个很大的工程量，它不可能在一个模型的上下文窗口中去直接去做完，而不装满。它要有些上下文的卸载策略，包括就是说我们刚刚说的上下文窗口满以后，下一个AP再去工作。</p>
+<p class="transcript-line"><span class="time"><strong>[00:10:04]</strong> </span><span class="speaker"><strong>发言人2: </strong></span>他要去重新去读一下，我当年环境信息是什么？前面已经写的代码写到哪儿了？接下来我要进行什么？在我这一轮的成名周期里做到某个阶段，我再会写类似的文档，去委托我当前的上下文状态，再交给下一个这样一次的接力，最后去把整个C编辑给写完。它不是一个单纯的action能力层就能完成的，它还是需要上下文环境的对。</p>
+<p class="transcript-line"><span class="time"><strong>[00:10:30]</strong> </span><span class="speaker"><strong>发言人2: </strong></span>然后第三层，就是这个编排和治理层。如何去指导这些之间去做一个传递和委托，包括我的写代码agent的和测试agent的之间的关系，包括这个任务中难道一定每个环节都是串行的关系吗？我只能有一个agents接着一个agent就完成吗？我是不是有很多模块我是可以并行的去写的，可以同一时间有多个agent做这个问题，他们之间的协调关系是什么？</p>
+<p class="transcript-line"><span class="time"><strong>[00:10:53]</strong> </span><span class="speaker"><strong>发言人2: </strong></span>这会涉及到编排的一个问题，以及就是说不同的A它的权限怎么样？我去做测试的A那是不是应该有这个测试环境，包括测试工具它对应的权限。他不应该在测试的时候对着我的这个代码，他一边测一边修改，说我测不过，我把那修改一下就好了。然后他一直在hike这种pass。对吧？所以说这里面会有很多的这种权限的治理，包括上层的这种协调关系的编排的一些问题，这属于第三层。</p>
+<p class="transcript-line"><span class="time"><strong>[00:11:19]</strong> </span><span class="speaker"><strong>发言人1: </strong></span>所以大家过去做一个agent的时候，说到的这三层都是要靠手搓的。但现在慢慢的可能有一些已经封装成了一些可以直接掉的这个info工具了，对吧？然后在你看来现在有哪些已经封装的很好的，有哪些仍然目前需要手术？</p>
+<p class="transcript-line"><span class="time"><strong>[00:11:35]</strong> </span><span class="speaker"><strong>发言人2: </strong></span>这三层到目前我并没有觉得有封装的非常好的，因为我们觉得这个范式变化太快了。从22年底ChatGPT的发布，再到现在类似于CC这一套背后这种A镇的智能体模型的这一套范式模型被训练的完成长城任务，也就是最近半年左右才开始出现。所以开源社区我其实也观察了很多，就是没有看到太让满意的这一层，所以也是我们自己在做一这一层的原因。</p>
+<p class="transcript-line"><span class="time"><strong>[00:12:03]</strong> </span><span class="speaker"><strong>发言人1: </strong></span>要不也请你介绍一下你们在做的这一层具体是什么。这是你们创业的一个项目。</p>
+<p class="transcript-line"><span class="time"><strong>[00:12:08]</strong> </span><span class="speaker"><strong>发言人2: </strong></span>对吧？我们在做这一层，围绕刚刚说的agent三个层面，我们去提供了一个完整的工具链。首先我们最底层是一个叫computer的一个工具链，它是取computer c的字母变成K叫computer。它是一个我们在数据结构上实现的一台unix计算机，你可以理解为我们在内存中实现了一台虚拟的计算机。它给我们像小龙虾，包括克拉克的等等这种下一代的一种主动式的agent。它有它的自迭代性、成长性。我们要给这种agent配一个它的执行环境，去让他在那个环境里去生活和工作。这是我们提出的，我们认为unix的计算机可能就是对他最好的居住和生活的环境。我们做第一层是这个，对，然后我们上一层会有一个叫key run time的东西，它是一个agent run time。这一层我们会相当于提供了给开发者去开发agent对象的非常多的接口，语法堂上的一个封装。</p>
+<p class="transcript-line"><span class="time"><strong>[00:13:05]</strong> </span><span class="speaker"><strong>发言人2: </strong></span>除了这一层，我们还会有其他很多跟大家正交的层面。比如说像key watch对吧？就是我的观测，比如说我过去半个月我的A真的他们分别在任务完成，在什么情况下遇到卡点了，这样就可以指导我去观测，是不是我的CLI没有设计好，还是我的skill没有提供到位，还是说我用那模型不太行OK那个时候观测层就很重要了，以及我们基于观测层的话，可以对数据做导出。导出以后，我们会有一个叫KL的一个工具链，你可以把这个数据拿来强化学习，去训练你的模型。或者说你说OK我不想练我自己的模型，我就想用一个标准的模型的API去请求那个新模。我们也可以对你做这个上下文层面，比如关于memory、关于skills，关于过去的一些经验的提取和词迭代的一个就是你可以理解为穷人版的强化学习。</p>
+<p class="transcript-line"><span class="time"><strong>[00:13:53]</strong> </span><span class="speaker"><strong>发言人1: </strong></span>我理解其实云服务厂商也会想要做这一层，对吧？AWS有agent core，然后阿里云有agent被，也都是想为搭建agent的人提供这个harness这一层的info然后你们作为创业公司会怎么看你们和云服务厂商之间提供的这种差异？</p>
+<p class="transcript-line"><span class="time"><strong>[00:14:10]</strong> </span><span class="speaker"><strong>发言人2: </strong></span>首先就是我想强调我们的AG的开发工具链并不是为了完全运行在云上或者发给云涧的。其实我们是希望一切能GS场景都可以跑得起来。比如说你在开发一个浏览器里的网页，就是完全运行在浏览器上，网页没有后端那种。然后包括你就可能在开发一个微信小程序对吧？然后你开发很多场景下，它是塞不进一个linux的对吧？你的微信小程序一个package可能也才几兆的大小。</p>
+<p class="transcript-line"><span class="time"><strong>[00:14:35]</strong> </span><span class="speaker"><strong>发言人2: </strong></span>我们希望就是说在所有的能跑GS的场景无差别别的给你提供一个类似于上个时代VOE rag的那一层的一个工具链框架。你就按pod它就直接用好了。它的心智非常的统一和简洁优雅，然后它背后的性能占用也非常极致，就只有1KB那么大小的一个unix的computer，然后给你的去提供一个生活居住的环。但是你的那个像小龙虾这种agent在那个环境里放着，他又以为自己是生活在一个unix的计算机上。他的命令行，他的文件系统，它的网络能力都是跟他平常训练的时候的心智是一致的。</p>
+<p class="transcript-line"><span class="time"><strong>[00:15:13]</strong> </span><span class="speaker"><strong>发言人1: </strong></span>所以你的公司名字就叫一KB。</p>
+<p class="transcript-line"><span class="time"><strong>[00:15:16]</strong> </span><span class="speaker"><strong>发言人2: </strong></span>对，当然其实没有那么前面那个一了，就是是KB的一个展开的线。对。</p>
+<p class="transcript-line"><span class="time"><strong>[00:15:22]</strong> </span><span class="speaker"><strong>发言人1: </strong></span>这怎么做到的呢？</p>
+<p class="transcript-line"><span class="time"><strong>[00:15:24]</strong> </span><span class="speaker"><strong>发言人2: </strong></span>就是因为我们是用数据结构重新实现unix这件事儿，你可以理解为我们就是mix五年系统，我们会用TS重启成虚拟的dash。再包括我们说OK我是不是还除了前台进程，我还有后台进程的一个运行能力。OK我也有我的cloud时钟的概念，就在那个虚拟的世界中往前推进。然后这一层我们要去做，包括我是不是要有局域网的组网能力，我要有类似于nas。那这些很多方面能力我们都会在我们的虚拟抽象层用语言去重写一遍。然后包括在一些支持web方面的场景，我们就会把一些我们的工具链rust重写一遍。然后在它能够支持的情况下，我们会切换过去，然后它不支持的情况下，我们会fall back到最朴素的GS。是我们的执行。</p>
+<p class="transcript-line"><span class="time"><strong>[00:16:09]</strong> </span><span class="speaker"><strong>发言人1: </strong></span>好，我们还是再说回来agent harness，我们说的第一层是执行能力层，是要给A键的各种各样的工具。可以列举一下现在最主要的工具有哪些吗？</p>
+<p class="transcript-line"><span class="time"><strong>[00:16:20]</strong> </span><span class="speaker"><strong>发言人2: </strong></span>我觉得最主要的工具首先就是关于文件系统的那些工具，就是增删读写、搜索这些。大部分A真的不管是在做coding任务，还是做之类的任务，基本上都会需要的一些工具。第二层我认为就是brother这一层，就是你给他一个关于原来用户识别系统的这样的一个操作能力的访问这一层。第三层其实有点类似于像python，node这种的，就是一个语言解释器层。我觉得这是大部分情况下你配好这些工具，它应该就是可以满足我们可能95%以上的这么一点点任务了。</p>
+<p class="transcript-line"><span class="time"><strong>[00:16:55]</strong> </span><span class="speaker"><strong>发言人1: </strong></span>听起来其实配工具这一层很简单，但是这一层有你认为比较容易踩的坑吗？</p>
+<p class="transcript-line"><span class="time"><strong>[00:17:01]</strong> </span><span class="speaker"><strong>发言人2: </strong></span>他很多时候跟我们的权限，包括agent的角色是相关的。比如说我某一个A就是负责去对这个代码库做一遍explore，对吧？这个时候我应该只给它配没有副作用的工具。比如说所有关于写的命令，就是包括删改的能力，包括有一些你是不能让他操作brother，或者就是你配给他以后，你是限制他访问很多网域的，这样的话会有很多的这种中间的trade off。就是你的agent的工具链的设计要紧密的跟agent的角色绑定，去limit掉它底层对于这台unix的计算机的操作能力。</p>
+<p class="transcript-line"><span class="time"><strong>[00:17:37]</strong> </span><span class="speaker"><strong>发言人1: </strong></span>我们刚才说到这个第二层上下文语状态层，在环境层的时候，memory就记忆是非常重要的。然后现在也可以看到有不同的记忆，不管是这个模型厂原生也有一些记忆的功能，对吧？然后有三方的一些开源的一些插件，它会给记忆的解决方案。然后可不可以给大家讲一讲，现在你认为agent harness的memory这一层。有哪些主要的解决方案？</p>
+<p class="transcript-line"><span class="time"><strong>[00:18:02]</strong> </span><span class="speaker"><strong>发言人2: </strong></span>Memory这一层的发展目前还处于一个很早期的阶段。我其实把它粗略的分为规则式的、半规则式的和完全模型驱动式的。目前落在使用上来看的话，相对规则式的和半规则式的为多。</p>
+<p class="transcript-line"><span class="time"><strong>[00:18:16]</strong> </span><span class="speaker"><strong>发言人2: </strong></span>完全规则式的就是像很多基于这种知识图谱和向量搜索，它们所构成的就是把最后你的这个信息在最后抽象成不同节点的表示，然后他们之间在做关联，然后检索和扩展。这种方式是非常结构化信息规则式做法的，当然我个人其实不太喜欢这种做法，然后我更喜欢的是像后者这种半规则式的。可能我底层是一个unix的files，我就是通过大量markdown的方式来存储这种私聊信息。其实克劳扣的也是这样做的，小龙虾其实里面也是这样做的。它可以通过一些类似于其他的空间关系，比如说像迷宫这种走势。这是最近生化危机的那个女主，最近做的特别红的记忆项目。这种其实就是底层找一种大家都公认的非常清晰的文档文件夹的方式。我有房间和空间位置关系，就是人也很容易懂，这个LM也很容易懂的一种底层的这种半结构化的这种方式的信息。</p>
+<p class="transcript-line"><span class="time"><strong>[00:19:13]</strong> </span><span class="speaker"><strong>发言人2: </strong></span>它的更新也是半规则式的，基本上是通过agent来做一个更新，而不是完全如base的1.1块下，就最后得到一个什么信息，再在知识图谱上做一个什么样的推理，我觉得那个是叫完全规则，是完全如base的半规则式的做法，其实就是用agent来在这里边去，你把这个流程和规则告诉agent，但是整个分析和过程是由agent去跑的。我现在要找什么信息，完全是一个后台的一个age，可能用一个更便宜的小模型去跑一遍。那更新其实也是这样的，像cloud d中也有这种类似于做梦的机制，来就是隔一天然后再跑一下。最近几个section的对话中，他提取一下有用信息，是可以对过去的记忆做这种更新纠正和合并的。然后包括这一块有一个开源项目叫memory u.</p>
+<p class="transcript-line"><span class="time"><strong>[00:19:58]</strong> </span><span class="speaker"><strong>发言人1: </strong></span>也做的很好。</p>
+<p class="transcript-line"><span class="time"><strong>[00:19:59]</strong> </span><span class="speaker"><strong>发言人2: </strong></span>M EMUI对MEMU是一个开源项目，它其实也非常去拥抱这种unix sales加上agent去驱动维护更新和查询的整个方式。其实clo code的里边也是这样设计的。感兴趣大家可以去看一下我们自己的learn clo code的这个开源仓库member u这个开源仓库。</p>
+<p class="transcript-line"><span class="time"><strong>[00:20:19]</strong> </span><span class="speaker"><strong>发言人1: </strong></span>我看到这个y community的CEO和gary也把他自己的个人的记忆开源出来了。</p>
+<p class="transcript-line"><span class="time"><strong>[00:20:25]</strong> </span><span class="speaker"><strong>发言人2: </strong></span>但是我觉得大家有点开始混淆了，所谓的memory skill，它中间的一些边界。最早做这件事儿的就是cloud code。在年前在去年底的时候发了一个版本里引入了一个叫insight的一颗星。它可以分析你最近大概一个月左右的对话，然后他会分析这个任务完成不成，他都犯了什么错误。他最后给你生成总结的report，那个东西就可以知道skills的生成了。</p>
+<p class="transcript-line"><span class="time"><strong>[00:20:49]</strong> </span><span class="speaker"><strong>发言人2: </strong></span>所以我觉得所有目前关于skill这一步字体在自定化也好，最早的起源就是在cloud d里面inside那个特性，包括最近像harms agent也非常火，它有点更像是类似于层面的一个一边的迭代和自行化。所以这个关键词背后有很多他们交集的区域。中间那个地带你很难说的清楚它属于是经验，就偏memory那一部分，还是偏标准化的可传播可分享skill SOP的那一部分。中间的交集其实还蛮大的空间。但总体上来说今天是可以理解，他们都是上下文的层面。</p>
+<p class="transcript-line"><span class="time"><strong>[00:21:19]</strong> </span><span class="speaker"><strong>发言人1: </strong></span>这让我想到最近有一篇文章，聚生智能的一个公司general list的AI，他们刚发了N1，这个模型非常屌，他们自己有跟着发了一篇博客，就是说我们其实也不是世界模型的路线，我们也不能说VOA彻底不靠谱了。就是不要用标签来定义我们，要用目的来定义我们我们的目的是去追求什么，而不是标签不但会限制外界对我们的想象力，甚至会限制我们团队对自己的想象力。我觉得刚才我们在讲说，我们现在聊到的一些harness的实践，它到底应该算memory还是算skill？可能聊这个定义没那么重要了。可能我们更重要的是agent的怎么可以不断的自己学习进化这个实践本身实现他的目标是重要。</p>
+<p class="transcript-line"><span class="time"><strong>[00:22:02]</strong> </span><span class="speaker"><strong>发言人2: </strong></span>的对标签没那么重要。</p>
+<p class="transcript-line"><span class="time"><strong>[00:22:04]</strong> </span><span class="speaker"><strong>发言人1: </strong></span>在今天我们聊到这个harness的时候，你觉得有哪些是共识？有哪些是非共识？</p>
+<p class="transcript-line"><span class="time"><strong>[00:22:09]</strong> </span><span class="speaker"><strong>发言人2: </strong></span>共识可能就是说我们现在说bush is all you need的是一个共识。大家现在都在做CLI对吧？或者简单我们说CRI is all you need的。每个人都开始说OK，我不要过去那些传统的各种做法，我MCP也不要，我都开发了CLI对吧？然后我装在服务器上要，那我电脑上的也好，我所有的agent都能用了，对吧？我MCP我可能还要一个A的配给他，还比较麻烦。这可能是我觉得算是一个共识了。</p>
+<p class="transcript-line"><span class="time"><strong>[00:22:32]</strong> </span><span class="speaker"><strong>发言人2: </strong></span>但我觉得今天的很多开源归阵的框架，并不是都是围绕这一理念来构建的。Graph等等。它还是围绕着这种prompt node去做这个状态图，去做路由和条件规则这种方式去构建agent的开发的这种框架。其实目前还好像大部分主流的一些框架，不是为了这一层理念来原生的构建的。我们在做我们K系列的这个A型的工具链。像我给大家提供这个共识范式之下的一个新的时代所需要的一层开发的工具链。</p>
+<p class="transcript-line"><span class="time"><strong>[00:23:00]</strong> </span><span class="speaker"><strong>发言人1: </strong></span>你们在面向未来。</p>
+<p class="transcript-line"><span class="time"><strong>[00:23:03]</strong> </span><span class="speaker"><strong>发言人2: </strong></span>我们在面向终极。</p>
+<p class="transcript-line"><span class="time"><strong>[00:23:06]</strong> </span><span class="speaker"><strong>发言人1: </strong></span>然后因为最近cloud code的源代码确实泄露，泄露出来之后有非常多关于它的这个文章。你觉得我们能从它的源码里面harness这个层面，你觉得能学到最关键的点有哪些？</p>
+<p class="transcript-line"><span class="time"><strong>[00:23:17]</strong> </span><span class="speaker"><strong>发言人2: </strong></span>它的压缩策略远比我们想的更加多级。比如说什么时候把这个工具的一些output给删掉，对吧？包括它的压缩的时候，它哪些信息保留，哪些信息恢复。因为相当于我刚刚说agent之间的接力棒，那下一个agent接到上一个完成了一半的任务的时候，上下文信息开始要准备哪些内容加载进来，哪些信息是不要的，哪些信息是让他自己接着去按需去查看的。它里面有非常多的一些trade off。我觉得他对上下文做了很多工作，这里面他做的其实也非常多工作，包括auto dream，包括他code。现在有很多记忆特性，没有对普通的用户的发布，还有一个远程的flag在控制，所以很多feature没有明显的推上来。包code里面记忆设计的也非常的精妙，也跟他的skills那套机制遵循了同一套哲学。</p>
+<p class="transcript-line"><span class="time"><strong>[00:24:05]</strong> </span><span class="speaker"><strong>发言人2: </strong></span>首先模型才是agent用户去写的那些prompt去组织这种提示。词流的这种做法，chain的链条式的做法是不make sense的对吧？模型才是agent or code，是完全淋漓尽致的体验这一点。第二个就我们发现cloud的本质上就是围绕着我如何给模型配对应合适的工具，让模型去调用对吧？就翻译过来不就是说你给模型去配置的这个action的能力，给模型充分的自由，让他去随心所欲，而不是程序员每一步指定就帮他去决策，你就按我这个办，对吧？我们过去开发A真的往往是喜欢在一个场景下。我们设想好一直在不同的情况下怎么处理，最后组成一个大的一个状态图。我发现cloud完全不是这样。</p>
+<p class="transcript-line"><span class="time"><strong>[00:24:44]</strong> </span><span class="speaker"><strong>发言人1: </strong></span>做做更多的context，更少的control.</p>
+<p class="transcript-line"><span class="time"><strong>[00:24:47]</strong> </span><span class="speaker"><strong>发言人2: </strong></span>更多的complex的，更多的action能力的提供。然后control zero control。最多就是限制你调工具的时候，你有些工具不能调。对上线的。</p>
+<p class="transcript-line"><span class="time"><strong>[00:24:59]</strong> </span><span class="speaker"><strong>发言人1: </strong></span>时候他其实用了一个云端沙箱，叫E2B今天可以讲一讲这个沙箱有一些什么样的进化吗？从一年前到现在。</p>
+<p class="transcript-line"><span class="time"><strong>[00:25:08]</strong> </span><span class="speaker"><strong>发言人2: </strong></span>关于沙箱我们关注也比较多了。最近虽然也出了非常多的sandbox，把各种浏览器塞在里面做的更all in one更聚合的。但是我们觉得这个领域其实目前大的进展还不多。以前有一些轻量级的沙箱，那也是好多年出的，该有的还是有。我觉得我们自己做的这个就是一KB的unique computers，可能算是这个领域，或者会是一个大的进展。</p>
+<p class="transcript-line"><span class="time"><strong>[00:25:31]</strong> </span><span class="speaker"><strong>发言人1: </strong></span>对你们说是不是和对头A有点像，但detonator能没有你们那么小。</p>
+<p class="transcript-line"><span class="time"><strong>[00:25:36]</strong> </span><span class="speaker"><strong>发言人2: </strong></span>对，我们做的更加极致清亮。我们做的本质上不再是一个X了，它是我们语言层实现的一个数据结构，你可以理解为它像一个map对吧？</p>
+<p class="transcript-line"><span class="time"><strong>[00:25:47]</strong> </span><span class="speaker"><strong>发言人1: </strong></span>差不多的一个大小。但你们做的那么小，你们有牺牲什么特性吗？</p>
+<p class="transcript-line"><span class="time"><strong>[00:25:51]</strong> </span><span class="speaker"><strong>发言人2: </strong></span>我们当然做了一些check up，我们上面没有办法真实的想运行一些GCC编译器。真的在我们这台虚拟计算机里跑的这个浏览器？有很多的需要依赖真实的做这个代码执行和编译的，我们是做不了的。但是我们提供的最小化的unix的这个file system，以及最小化的unix的bash的这样的一个comment能力的一个B级，类似于它的局域网的文件夹共享磁盘，它的这个gmail的局域网的通信，包括cloud命令，局域网做相互之间通信，这些能力我们都是有的。而且我们认为浏览器这种东西，或者说GCC编译器等等很多重要东西，原本就不应该塞在一个生产级的一个AG的给它本身的配套环境中。它就应该放在另外一个地方，提供一个info，做一个集约的服务。之前我们做的这个四大系统的性能优化，往往就是分析整个pipeline中低频调用的。但是它的性能占用比较重的，我把它单独抽出来一点。</p>
+<p class="transcript-line"><span class="time"><strong>[00:26:50]</strong> </span><span class="speaker"><strong>发言人1: </strong></span>我们看到cloud code源代码泄露的时候，有一个很有趣，悄悄做梦的这个记忆机制。刚才我们也简单提到了，这里可以稍微展开讲一讲这个悄悄做梦，他到底是怎么在帮助记忆变得更好的。</p>
+<p class="transcript-line"><span class="time"><strong>[00:27:03]</strong> </span><span class="speaker"><strong>发言人2: </strong></span>Code中是有两个记忆的更新机制的。一个是你每次给color code发消息的时候，他在A正的工作完成以后，它会触发一个hoke叫stop的一个。这一轮完成了一个hoke，但是在hoke上注册一个机制，就是有一个folk的agent，那什么叫folk agent呢？简单讲就是它会带上你之前所有的这个系统提示词，包括你之前交互的上下文。它可以复用之前的KV cache去判断有什么信息我需要保存。它就会更新到对应的一些unix一些files中这些markdown。</p>
+<p class="transcript-line"><span class="time"><strong>[00:27:31]</strong> </span><span class="speaker"><strong>发言人2: </strong></span>但是那些markdown设计的也非常结构化，就跟skill是一样的。前三行是一个压mail，他会像skill一样写好自己的discretion。就相当于这些做记忆的markdown文件，在color code中也不会被一开始有加载这个markdown的全文。他也是先读取各个文件名和discretion，他去判断，相当于跟你实时的交互的这个过程中去更新记忆。</p>
+<p class="transcript-line"><span class="time"><strong>[00:27:56]</strong> </span><span class="speaker"><strong>发言人2: </strong></span>第二层就是它有一个auto dream的记者，每隔一天差不多它会有一个判断条件，至少大于五个section。他开始去进行这套机制，去做一个更深层的记忆整理，那就是对最近的section做一个回顾。用户都跟我的agata去聊了什么，他就会综合的去看这些最近的section，去提取进一步榨干利用这些信息纠正记忆中有些错误的事实，或者说不及时的需要更新的事实，对记忆做一些合并和整理。你可以理解为他每隔天定时的开启一个后台agent，对最近的绘画信息做一遍重放。就像我们做梦一样做重放，做信息整理，就是这么两套的A真的机制。</p>
+<p class="transcript-line"><span class="time"><strong>[00:28:35]</strong> </span><span class="speaker"><strong>发言人1: </strong></span>所以cloud code的源代码泄露，除了我们刚才说到的它的记忆机制被大家看到之外，还有哪些带来的惊喜吗？</p>
+<p class="transcript-line"><span class="time"><strong>[00:28:43]</strong> </span><span class="speaker"><strong>发言人2: </strong></span>我觉得对我而言，最大的惊喜就是记忆。我读下来认为它的设计也是跟他之前skill的这种思想和哲学是一脉相承的。格式也好，整理维护的结构也好，做的非常make sense。对我最大的这个惊喜。</p>
+<p class="transcript-line"><span class="time"><strong>[00:29:00]</strong> </span><span class="speaker"><strong>发言人2: </strong></span>其次就是我刚刚说的，在关于上下文压缩的时候，因为A帧的上下文窗口满了，他不可能继续干活。所以本质上他做一个接力赛跑，它必须传递给下一个agent的。这时候传递之间他有非常多的trade off的策略，也是我觉得他做了非常多的这种这种工程兜底。</p>
+<p class="transcript-line"><span class="time"><strong>[00:29:17]</strong> </span><span class="speaker"><strong>发言人1: </strong></span>这可以展开讲讲吗？</p>
+<p class="transcript-line"><span class="time"><strong>[00:29:18]</strong> </span><span class="speaker"><strong>发言人2: </strong></span>因为它是一个模型的上下文窗口，虽然今天还不长，但其实也不是说你随便丢点东西就满了。现在标准的AG的模型都是在200 256可以定上下文长度，它其实可以装下非常多的信息。所以我觉得更大的就是关于上下文管理的启发，就是在于上下文窗口确实装满了，我再装装不下的时候，但是我这个任务还是要继续干你怎么给我腾出更空间，或者想个办法让我接着把这个任务给完成。这个时候咱们看这个下文中有什么垃圾或者不必要信息，或者我们把它给上下文窗口踢掉，可能又腾出来几十K空间，我就可以再干点事情了，这是一种典型的策略。</p>
+<p class="transcript-line"><span class="time"><strong>[00:29:57]</strong> </span><span class="speaker"><strong>发言人2: </strong></span>另外另一种就是这个阈值上限，比如说乘以0.8，它留下了20%的上限，这时候我们交代一下，我们把我们这个任务干到什么情况，接下来还要干什么，总体上用户是希望我们干一个什么样的任务，我们写一个文档，写一下我们现在的整体的一个进展。然后让下一个位置开始干工作的时候，OK他先读一下这个文档，然后去接着工作，这相当于是一种交接。那上文交接的时候，该交接什么，不该交接什么，以及下一个agent的上下文初始化的时候怎么准备。它里边有很多的很好的一个设计的。</p>
+<p class="transcript-line"><span class="time"><strong>[00:30:28]</strong> </span><span class="speaker"><strong>发言人1: </strong></span>所以当我们聊agent harness的时候，其实和我们过去这一年讨论的很多agent怎么做优化的工程实践，他好像也是类似的对吧？因为Venus其实写过蛮多的文章，他们在分享怎么做这个context management。他们发布的时候有在讲我们说less control，more context等等等等。听起来我们今天聊harness的时候还是在聊这一套。</p>
+<p class="transcript-line"><span class="time"><strong>[00:30:49]</strong> </span><span class="speaker"><strong>发言人2: </strong></span>对，在我看起来harness就是比较贴近于agent的模型。这一代之上的工程时间，曾经我们有了CPU处理器，我们才能在之上去诞生出来汇编这种东西。正是因为我们的汇编的经验成熟，我们可以在上面做语言层的抽象，可以后面有C，后面包括C加加的抽象。正是因为我们有了一代又一代的抽象，我们后面才有机会去诞生出来python node JS，才有机会诞生出来这些。</p>
+<p class="transcript-line"><span class="time"><strong>[00:31:13]</strong> </span><span class="speaker"><strong>发言人2: </strong></span>比如说你要开发一个全站的项目，上面的最佳时间什么？它应该用的框架是什么？其实我们每一层的技术的最佳时间就是迭代。在曾经已有的诞生的基础上，我现在是诞生了一个新的底层的运行层，就是这个模型。我们很难修改它的参数。在这种情况下，我们如何围绕着上层在利用它这种智能性在做我们工程上去压实践。</p>
+<p class="transcript-line"><span class="time"><strong>[00:31:33]</strong> </span><span class="speaker"><strong>发言人2: </strong></span>其实我觉得反而就是现在分享的很多东西，都是如果你从模型的视角来出发，它都是非常自然的，非常符合常识和知觉的。但是如果说原来你只做前后端代码开发，非常做那些robes的东西，反而你会认为这些最佳实践好像他为什么是这样的没道理，他只是告诉你他是这样做的，你不知道它背后的reason是什么。但是如果你去稍微思考一下，transform的模型就是自回归的，怎么在运行，它的推理是怎么样，agent的模型到底怎么工作。你再结合这个来思考所有的agent最佳实践的工程方式，包括之前minus的那些东西，你就觉得非常make sense。我上层代码调用的时候就应该符合他的工作逻辑。</p>
+<p class="transcript-line"><span class="time"><strong>[00:32:13]</strong> </span><span class="speaker"><strong>发言人1: </strong></span>那当我们说到一个agent harness做的好或做的不好的时候，什么叫好什么叫不好？</p>
+<p class="transcript-line"><span class="time"><strong>[00:32:18]</strong> </span><span class="speaker"><strong>发言人2: </strong></span>上下文管理那一块儿就是不好的上下文管理就是他会随便去做一些中间的裁剪，去扔掉一些前面的轮子，或者说随意的修改系统提示词，会导致promote caching的失效。因为过去1到2年我发很多开发者非常关心上下文的管理的问题。其实最好的管理，不要做管理，因为你做管理真的会导致KV开始失效的对吧？就最导致他要重新算一遍，这是我觉得不好的做法。</p>
+<p class="transcript-line"><span class="time"><strong>[00:32:43]</strong> </span><span class="speaker"><strong>发言人2: </strong></span>就是跟模型的运行不自洽的那好的harness的设计就是跟模型的运行是自洽的，但模型未来的能力的进步是正交的。比如说有一些harness的机制，就可能我这一步让模型干什么，下一步让模型干什么。那是因为当时的模型能力非常弱，只能做简单的问答，或者说做一些简单几轮的工具调用就停下来了。那这个时候你必须基于大量的这种一个node一个node做这种craft的做法。但是这个东西随着模型的进步，这个东西就必须拆掉了，要不然你就限制了这个模型的能力。好的，首先要符合模型本身在运行上的逻辑，是符合模型未来能力进步的逻辑。只要跟这两个点不match的就是不好的哈尔尼斯。</p>
+<p class="transcript-line"><span class="time"><strong>[00:33:24]</strong> </span><span class="speaker"><strong>发言人1: </strong></span>因为不同的agent在完成同样任务的时候，就有表现的好与不好。即便表现的相同，好的agent它可能燃烧token的数量也会不一样，或者完成一个任务的时间也不一样。这背后是不是也是去判断harness好或不好的一个标准。</p>
+<p class="transcript-line"><span class="time"><strong>[00:33:40]</strong> </span><span class="speaker"><strong>发言人2: </strong></span>首先我觉得今天还处于agent模型发展的早期。去年初的时候s pic开始率先转型，去从问答模型这一代开始去训练智能体模型。所以才有了我们今天的AG的模型。其他的包括open I在内的很多模型厂是从25年的下半年，其实已经落后了半年以后，才开始从问答模型，包括带有思维链的问答模型去开始追智能体模型这一代的范式。所以到目前为止，我认为还是处于A阵的模型的婴儿期，很多东西都还没有收敛。我觉得可能还不必要过多过快的去讨论所谓的这个token efficient。当然这个也非常重要，但是我觉得对我们唇调模型的使用者来说，你就调到它的模型。其实我们的harness也好，我们的做事情的方法论也好，只需要围绕着sota的模型以及次sota的模型去贴着它去构造和做产品做工具就可以。</p>
+<p class="transcript-line"><span class="time"><strong>[00:34:31]</strong> </span><span class="speaker"><strong>发言人1: </strong></span>所以sota是ethnic，那次sota在你看来有哪些？</p>
+<p class="transcript-line"><span class="time"><strong>[00:34:34]</strong> </span><span class="speaker"><strong>发言人2: </strong></span>Sota是SB，次sota可能像kimi对吧？包括我们说mini max GLM，他们最新一代的模型都算是紧贴着索塔那一代的在做。</p>
+<p class="transcript-line"><span class="time"><strong>[00:34:44]</strong> </span><span class="speaker"><strong>发言人1: </strong></span>如果未来比如说A键的模型越来越强之后，harness之间的水平差异还重要吗？</p>
+<p class="transcript-line"><span class="time"><strong>[00:34:51]</strong> </span><span class="speaker"><strong>发言人2: </strong></span>假如我们说时间已经到了两三年以后，理论上来讲不应该有那么多的harness。首先好的harness要跟模型的运行时候的原理是贴合的，而且是自洽的。其次好的harness应该是跟模型的进一步方向是正交的。模型越强，模型加上你这个harness构建的一套agent的系统，它的能力应该是越强的。而不是说模型越强，你的反而束这个模型。导致你的harness要像lung chan一样，不断的去重构很多版本，把这些代码全都扔掉，做一个破坏性更新。</p>
+<p class="transcript-line"><span class="time"><strong>[00:35:22]</strong> </span><span class="speaker"><strong>发言人2: </strong></span>对我们的理念来说，我们就是做一个unix的系统。你可以理解为linux这个玩意就是对模型最强的号。如果模型有一天发展成ASI了，它也只会更会用linux这个东西。</p>
+<p class="transcript-line"><span class="time"><strong>[00:35:34]</strong> </span><span class="speaker"><strong>发言人1: </strong></span>那今天如果我们去做一个agent要做的好。然后它也是多个部分组成的对吧？模型上下文harness，比如工具等等。你有一个排序吗？什么是最重要的？什么是最不重要的？</p>
+<p class="transcript-line"><span class="time"><strong>[00:35:46]</strong> </span><span class="speaker"><strong>发言人2: </strong></span>我对他整体的排序，首先第一位肯定是模型，因为我们前面说的agent的其实是模型，模型才是agent的。当然很多开发者今天不太在意这个观点，但是我自己是非常信这个观点的。我认为agent从始到终都是一个模型，所以说模型是我会排重要性第一位的。就是说如果你的H任务表现不好，换一个更强的模型就好了，大概率就能提升很多。</p>
+<p class="transcript-line"><span class="time"><strong>[00:36:10]</strong> </span><span class="speaker"><strong>发言人2: </strong></span>其次我觉得上下文其实是一个非常开放的概念。比如说他工作在什么样那个文件夹里，或者他的工作在windows上还是linux上，对吧？包括他能够用哪些工具，这些工具是CRI的形式给他的，还是用MCP形式给他的。这个也属于执行层面能力的上下文。包括skills，包括memory，包括上一轮那个agent干完干满了，他要传一个激励棒，交给下一个agent接着干。所以我觉得上下文是一个也是非常重要的部分。</p>
+<p class="transcript-line"><span class="time"><strong>[00:36:36]</strong> </span><span class="speaker"><strong>发言人2: </strong></span>第二重要对第二重要的部分其实对用户视角来说，上下文才是最重要的。但是其实因为模型我们大部分人没有上千卡的集群，所以我们做不了这个模型参数的修改。我们能做的空间就更多在上下文这一层面。</p>
+<p class="transcript-line"><span class="time"><strong>[00:36:48]</strong> </span><span class="speaker"><strong>发言人2: </strong></span>然后第三个问题是这个工具，如果你给它配一些powerful的工具，它真的可以完成很多更多的事情了。25年的三月份的时候，那个时候我去关注到了github是有它的这个MCP的，我发现我很多的这个工作就是解放了，你知道吗？我不用真的自己再去打开这个，然后每次忍受我的那个页面3秒加载一次，完全把我之前很费劲很花时间的很多工作自动化了。然后后面我发现get up是有它的那个CLI的。我会发现GH的CLI调用的时候，很多能力，任务的成功率会比用MCP高很多。所以后面我就又把那个给他们给卸载掉了，不用了。后面我就在思考这件事儿，为什么我觉得就是linux的这种命令在预训练的时候出现可能有几十亿条，它的训练是非常鲁邦和充分的。那MCP是最近两年才提出的概念，它是一个全新的协议和抽象层。首先网络预训练的时候，语料占比非常少，可能都不到0.1%。</p>
+<p class="transcript-line"><span class="time"><strong>[00:37:44]</strong> </span><span class="speaker"><strong>发言人1: </strong></span>飞书CLI最近也很火，你用下来感觉怎么样？比起MCP是不是也好一大截？</p>
+<p class="transcript-line"><span class="time"><strong>[00:37:49]</strong> </span><span class="speaker"><strong>发言人2: </strong></span>其实的CLI会比之前飞书有一个插件，专门配给小龙虾用的。它的组合性和灵活度会更高，然后它的使用任务的完成率各方面也会更高。就是你会发现其实最近大家各个系统都开始开发自己的CLI，然后给用户的A去用。我发现大家都开始不再提供自己的MCP的，因为MCP是一种最近两年出现的一种全新的定义和抽象。但是unix这个东西1971年就出现了。也许我们今天不应该再造更多的轮子，我们不应该再做更多的协议，我们就回到unit。超自洽的哲学中，然后他的训练语料就是最多最充分。</p>
+<p class="transcript-line"><span class="time"><strong>[00:38:26]</strong> </span><span class="speaker"><strong>发言人1: </strong></span>的返璞归真。</p>
+<p class="transcript-line"><span class="time"><strong>[00:38:28]</strong> </span><span class="speaker"><strong>发言人2: </strong></span>所以我非常喜欢拜师一次奥油腻的这句话。这句话是我们九个月前开源的learn CC那个仓库的时候写在上面的一个标语。</p>
+<p class="transcript-line"><span class="time"><strong>[00:38:37]</strong> </span><span class="speaker"><strong>发言人1: </strong></span>A harness其实还是催生了很多创业方向，包括你们其实的K系列就在做这些事情。除了你们之外，你还看到了哪些你特别看好的方向或者团队。</p>
+<p class="transcript-line"><span class="time"><strong>[00:38:49]</strong> </span><span class="speaker"><strong>发言人2: </strong></span>我会关注，主要有三个大的方向，但是我们可能自己算是其中一个就是harness这一层的info，我们自己算是这一层的开发工具链。另外两个就是关于agent的组网的方向，他还不是纯粹说我给小龙虾去组网，给agent去做组网，去给他们开发AM我说没有，而是我最关心下放了真正的硬件资源。比如说我云上是有服务器的，我端侧可能有我们的mac笔记本电脑，有我的mac mini我的路由器，有我的nas，有我的闲置的手机。而他们不一定都是有公网的埃批地址的，然后他有很多的混合作用的问题。</p>
+<p class="transcript-line"><span class="time"><strong>[00:39:22]</strong> </span><span class="speaker"><strong>发言人2: </strong></span>以前我们可能会用FRP内网穿透等等很多方案，但我觉得那个不太可以scale。其实我这方面就非常喜欢一个一个工具叫做tee scale。Tee scale它是一个不管你是云上的还是边上的，它的组网方式就非常的简洁，全部都统一组。这种混合组网方案我觉得在agent的时代非常需要。但tile scale其实不太additional native，它的CRI上有很多的第二种能力都没有。这个赛道可能对A站来说可能需要一个全新的混合组网形态，尤其很多时候需要高通量的上下文交换。这个交换不只是说我发一个mail，我发一个IM消息就完成了它。</p>
+<p class="transcript-line"><span class="time"><strong>[00:39:56]</strong> </span><span class="speaker"><strong>发言人1: </strong></span>所以这其实和这个A键的支付也是一样的。这些人的支付其实不需要那么高的并发，不需要那么碎的小额支付的。但A键之间的支付很可能是比如说几分钱他特别高频的在发生。所以这其实也是在去做agent payment的这一层的这些创业公司，他们在讲的一个bat的一个未来的可能的方向。对，这是一个。然后你刚才说第二个是什么？</p>
+<p class="transcript-line"><span class="time"><strong>[00:40:20]</strong> </span><span class="speaker"><strong>发言人2: </strong></span>我们思考就是今天是今天就是说agent这个模型在一个baby，我们回到10年后，我们到10年后就是说难道每个人都是在发一个API请求，在调用一个相同模型ID的机模吗？那个世界也太无趣了，每个人都在用kimi 15.0，pic 4.0几点几的版本，我觉那就很无聊。所以我在想，类似于t thinker的这种方案可能就很需要。就是他把大量的卡集中在一起做这种高速互联金融集群。通过这种集约化的设计，导致我们去可以去用更低的成本和资源的开销去做这种PFT的训练。然后就是这种高效低成本的训练，就每个人都可以得到自己的个性化训练。</p>
+<p class="transcript-line"><span class="time"><strong>[00:41:07]</strong> </span><span class="speaker"><strong>发言人2: </strong></span>好的模型，包括其实今年光讯号也还不太有用，你还要推，就比如说我推的时候，我可能需要一个基座模型，加上我个性化的模型参数那一部分。今天一个典型代表就是laa。那我能不能就是说我的API请求的过去的时候，我的header信息中是带有我的一个lower的一个信息的那我可以reference它，然后我还是像我发API请求给吉姆一样，但是它会获取我用户池是哪个老二信息，可以瞬间挂上去，做一个自由化推理。这样对大家来说推的成本可能也很降低。因为我挂一个老二上去推，那我可能多支付5%的成本，其这也不高。但我获得了一个可以修改模型这个参数层的一个更加个性化的体验。所以我会非常care这个方向的进展了。</p>
+<p class="transcript-line"><span class="time"><strong>[00:41:50]</strong> </span><span class="speaker"><strong>发言人1: </strong></span>现在有人在做这个方向吗？</p>
+<p class="transcript-line"><span class="time"><strong>[00:41:51]</strong> </span><span class="speaker"><strong>发言人2: </strong></span>欧派的前CEO当时出去做了t inker那个项目，对king machine lab，然后国内好像有一些，但我觉得做的还不太符合tinker他们那个水准。在做的事情。因为他其实跟我们的工具链方向也很互补。我就刚刚说的，我们工具链上是有一个数据的harness，让你运行了半个月，你上面肯定会存有大量的轨迹。有case和bad case，你要针对性做分析，做迭代调优。但是很多时候你没有钱，没有卡去修改这个模型，你只能做上下文层面的调优，你没有办法去说OK我真的去修改这个模型的参数，我去获得一个我的个性化模型。它可能越来越适配我的这个ERP系统，越来越适配我的这个CRM系统，适配我的某个下游场景。</p>
+<p class="transcript-line"><span class="time"><strong>[00:42:35]</strong> </span><span class="speaker"><strong>发言人1: </strong></span>你觉得未来你们在做的这个K系列，就是AJ infrared这一步会存活很多公司吗？</p>
+<p class="transcript-line"><span class="time"><strong>[00:42:43]</strong> </span><span class="speaker"><strong>发言人2: </strong></span>我觉得是会是一个比较激烈的赛道。我们认为未来agent harness may be不需要所谓的水平差异化。因为他首先他要跟模型的运行是自洽的，其次是要跟模型未来的进步方向是自洽的。所以我觉得从这两个角度来看，如果同时要自洽这两个点，那么就是大概率它的结构设计上不会存在太多的派系。应该最多就是比如说我们比较占这个unix以及shell这一块，来给大家提供一个unix computer这个排序上，然后做虚拟，把性能做到极致，然后做到数据结构上，做到原层也而不是下放到原来的docker等等很多Sandy books层面。但是我觉得可能有一些其他派系说OKTS也都有你的，对吧？他们走type 3，然后去做这种严格的优化控制，这可能会是另外的派系，可能maybe派系不会太多。</p>
+<p class="transcript-line"><span class="time"><strong>[00:43:35]</strong> </span><span class="speaker"><strong>发言人1: </strong></span>那是出于什么原因？你预感到这个又很激烈对吧？最后其实可能两年之后，maybe这个赛道都没了，还是要去做这个事情的。</p>
+<p class="transcript-line"><span class="time"><strong>[00:43:44]</strong> </span><span class="speaker"><strong>发言人2: </strong></span>我们不是最近进入这个赛道，我们过去做了将近一年的就是这个事情。现在我们只是在去演进，去做我们的二代，去把这个事情做的更加的自洽和更加的站在终点上去考虑，回过来去考虑整好事情的做法。</p>
+<p class="transcript-line"><span class="time"><strong>[00:44:01]</strong> </span><span class="speaker"><strong>发言人2: </strong></span>我自己创业的初心，每个公司会有自己的一个slogan，然后我们的slogan是加速世界升级。就是说这件事情在当前阶段内是不是对这个世界。在当前阶段内的最大的有效的加速，maybe下个阶段会有下一阶段的一个加速。比如说某个时间点造更好的火箭或者更好的核聚变手段，是对世界最大的加速升级。但是当前这个技术阶段里，我们可以看到如何让这个地球上充满agents，让agents成为社会基础设施，尤其是让all coding agent成为整个社会的一种info。然后未来社会上这个星球上可能有比人类多几百倍的a ens运行的地球上，那你怎么去serving他们，支撑他们自己去开发agents，创建agents，去folk agent，那是一个非常crazy的世界。支撑他们的in和工具链到底是什么样子的？我们其实在思考和支撑做这样一件事情所以就回到我们的这个slogan，加速世界升级，这是我们的做实验的发心和这个人最初的愿景。</p>
+<p class="transcript-line"><span class="time"><strong>[00:44:56]</strong> </span><span class="speaker"><strong>发言人1: </strong></span>关于这个agent未来会发展成什么样子，你还有其他的预测或者暴论吗？</p>
+<p class="transcript-line"><span class="time"><strong>[00:45:02]</strong> </span><span class="speaker"><strong>发言人2: </strong></span>其实我觉得A类的未来样子已经非常清晰了，或者至少当前技术阶段你还是非常清晰的。我觉得这个领域还很早期，所以agent的这个模型这个阶段可能maybe会持续三年左右。预测未来的话，现在更多的agent的是一个单体的a agent。我就下一步是这个agent蜂群咨询化的作业，就现在是很多人对agent做手动的管理和编排，就是协调100个agent。那下一步应该是agent自己去管理和协调。</p>
+<p class="transcript-line"><span class="time"><strong>[00:45:30]</strong> </span><span class="speaker"><strong>发言人2: </strong></span>更多的agent会在训练的时候就加入A的协调和编排，然后再到未来，就是说现在AI其实很难去做发明任务。那就是他如何做一个发明者。他可以自己迭代的提出更多的新的科研方案，去做这种实验。如果他能自己做发明和对其完全用agent的驱动很多公司的运行，那我觉得以后的公司其实更多意义上是一种理财产品公司，不是由人组成的公司。因为所谓的公司不就是这个公司要做一件事情，他有他的输入和输出，那它中间里边是怎么运行的？大部分客户并不会天天跑你公司的那个office里盯着你干。所以说公司内部是一个黑盒。我觉得agent以后可以完全做成A型的公司，以后就是零任公司。我从来不觉得一人公司是本质的事情，我认为真正make sense是零任公司。</p>
+<p class="transcript-line"><span class="time"><strong>[00:46:15]</strong> </span><span class="speaker"><strong>发言人1: </strong></span>真格和十字路口最近发起了一个token grant。然后我们最近grant的一个项目叫UU agent，我觉得他也可以认为是一个零任公司。因为他的这个创作者把他这个软件做出来之后，就把他丢进汪洋大海了。就从此不再给他一行代码，也不给他一分钱，他要自己去进化，要自己去想办法搞到钱来给自己买token，然后他有一个目标，这个目标就是有一天超越cloud code，然后他不断的进化自己，然后他怎么来赚钱呢？他现在赚钱的方法就是在k top上面开打赏去化缘，让大家给他捐钱。所以我们token grant就是给他捐了第一笔钱，让他开始有token有养料可以去净化。</p>
+<p class="transcript-line"><span class="time"><strong>[00:46:53]</strong> </span><span class="speaker"><strong>发言人1: </strong></span>其实在今天还是很早期，但未来某种意义它也是一个名人公司，对吧？然后今天我们给他捐了一些钱，但没有占他的股权。但在未来可能这个经济体系越来越发达，可能大家投资的标的就不再是一个一个的今天的人类造成的公司，而是一个一个的agent。</p>
+<p class="transcript-line"><span class="time"><strong>[00:47:11]</strong> </span><span class="speaker"><strong>发言人2: </strong></span>这个我是完全相信的。未来你可能是一个是一个大老板。你可能你走在路上，然后去见到你的朋友，从口袋中去掏出来一张黑色的卡片。然后你跟朋友说介绍说这张卡片里跑了五个公司，他们就是可能每年给我创造几十亿的收入，这是我的公司，就在这张卡片里。</p>
+<p class="transcript-line"><span class="time"><strong>[00:47:32]</strong> </span><span class="speaker"><strong>发言人1: </strong></span>好的，未来想一想又有点兴奋，又有点可怕。</p>
+<p class="transcript-line"><span class="time"><strong>[00:47:36]</strong> </span><span class="speaker"><strong>发言人2: </strong></span>对我不是开玩笑。</p>
+<p class="transcript-line"><span class="time"><strong>[00:47:39]</strong> </span><span class="speaker"><strong>发言人1: </strong></span>好，OK好，今天谢谢新路。好，十字路口。好，谢谢。好好，拜拜。</p>]]></content:encoded>
+            <pubDate>Tue, 05 May 2026 16:00:00 GMT</pubDate>
+            <guid>69f2e83fbb3ffa11e59dec82</guid>
+        </item>
         <item>
             <title>当我们在讨论 Harness 的时候，我们在讨论什么 | 深度对谈: Minimax × Hermes Agent</title>
             <link>https://www.xiaoyuzhoufm.com/episode/69e96b5b1e94ae6921ee3c2b</link>
@@ -8285,311 +8564,6 @@ Creekstone Venture 期待陪伴 AI 创业者，一起探究认知内核，把宏
 <p class="transcript-line"><span class="time"><strong>[01:11:23]</strong> </span><span class="speaker"><strong>发言人1: </strong></span>如果你认为有朋友也会喜欢本期十字路口的内容，请转发微信推荐给他们。最后欢迎你加入十字路口的会员群，我们鼓励大家在群里聊天互动，交朋友，寻找未来的同路人。</p>]]></content:encoded>
             <pubDate>Sun, 02 Nov 2025 16:00:00 GMT</pubDate>
             <guid>6905b82c48dbe0eb56e37a98</guid>
-        </item>
-        <item>
-            <title>刚完成亿元级融资，他要如何挑战 AI 硬件的“不可能三角”｜对谈马啸：未来智能创始人/CEO</title>
-            <link>https://www.xiaoyuzhoufm.com/episode/68fe0681083a71a4eb4e17f6</link>
-            <description>在今年火热的 AI 硬件赛道里，AI 耳机几乎已经是一张“明牌”。它方便携带，能通过录下用户听到的声音作为 AI 的“耳朵”来补充物理世界的信息，弥补 AI 所需要的上下文。
-那么，如何做一款 AI 耳机呢？
-本周，我们邀请刚刚宣布获得来自蚂蚁、启明等投资机构亿元级规模融资的未来智能创始人兼 CEO 马啸，这已是他们今年的第三次融资。
-未来智能推出的讯飞 AI 耳机在各大电商平台稳坐 AI 耳机销量榜首，创业到现在已经实现了持续盈利。
-马啸分享了他做 AI 耳机的 15 年旅程，对 AI 硬件如何成为“入口”的理解，以及在硬件本身的“不可能三角”（即性能、续航与重量）中，如何做出艰难的取舍，并最终超越它。
-除此之外，马啸也和我们分享了他在职场这些年的一些心路历程，当坚持把耳机做下去的决定不被理解，当所有人都告诉他此路不通，他如何顶着巨大的压力，在内心深处反复诘问自己：“万一是别人错了呢？” ——正是这份反思，让他学会在低谷中理解自己，并最终在“贵人”的点拨下，做出“follow my heart”的决定，开启了创业之路。希望这些分享能让大家有所收获。
-🎥 本期播客在 AI Hacker House 录制，视频播客将会发布于 Koji杨远骋 的小红书、B站、视频号、Youtube。
-🟢 02:21 快问快答：年龄、毕业院校、MBTI 与星座、一句话介绍产品、收入与利润、团队规模、创业前在做什么
-🟢 04:54 穿越周期：AI 硬件的血泪与选择
-* 我们给自己的定位：做全球最好的“AI 软硬件一体化”的办公助理公司。
-* 穿越周期的感悟：亲身经历过上一代 AI 浪潮（第三波）“喧嚣过后又归于沉寂”的全过程。
-* 所有的硬件都可以被 AI 再改造一轮，但你不能什么事儿都自己做，必须要有重点。
-🟢 06:51 AI 入口不是“下一个手机”
-* 未来的 AI 入口可能不只是一个，不要总想着“用另一个硬件去打败手机”。
-* 为什么是耳机？它是用自然语言跟 AI 交互的好方式，可以随时随地携带。
-* 耳机的优势是随身，劣势是没屏幕、交互效率可能不高，但它是一个不可避免的交互途径。
-🟢 10:09 AI 耳机的“5+X”能力与“不可能三角”
-* 创业初期的坑：AI 功能很强，但耳机本身很烂。一个好的 AI 硬件，首先要具备它原来该有的功能。
-* 什么是“5”？耳机的五个基本盘：音质、外观、续航、降噪、佩戴舒适度。
-* 什么是“X”？AI 耳机要超越传统耳机，它要能“陪用户一起听”，把外界的自然信息实时转换成数据流。
-* 硬件的“不可能三角”：续航、重量（舒适度）和处理性能。必须取舍。
-🟢 14:27 “性感”与“皮实”：AI 耳机的艰难取舍
-* 牺牲一定的“性感”和“优美”，换取“商务化”和“皮实”。
-* 商务用户一天可能有 6-8 小时的会议，需要 AI 录音全程在线，不能中途换耳朵充电。
-* 把通话续航做到了 9-10 小时，市面通常是 5-6 小时。
-* 最大的取舍之一：音质。好的喇叭是能耗大户，必须在续航和音质间找一个平衡点。
-🟢 17:47 红海中的“非共识”：为什么平台巨头做不了未来智能在做的事情？
-* “AI 耳机”是共识，但“做什么样的 AI 耳机”这个问题下有大量非共识。
-* 手机厂商（苹果、华为）必须做量大面广的耳机，在“5”个属性上卷到极致。
-* “我们从第一天就很清楚：创业公司很难跟苹果竞争。”在垂直领域（会议办公）找突破。
-* 服务几千万人的垂直办公助理，对平台（苹果）来说是“杀鸡用牛刀”，他们短期不会做。
-🟢 23:03 未来智能的看家本领：在蓝牙窄带上传输音频流
-* 行业难题：蓝牙通话会占满经典蓝牙带宽，无法再传数据。
-* 未来智能的“黑科技”：改造 BLE GATT 协议（原用于传小指令），稳定传输语音流。
-* 技术护城河只是短期优势。
-* 真正的护城河是用户的心智和认可。
-🟢 30:22 “用户一边骂一边用”：靠 80% 月活数据说服果链代工厂
-* 2021 年（ChatGPT 前），“AI 耳机”概念不被接受。
-* 打动苹果的耳机供应商
-* 关键数据：讯飞上一款失败的产品（只卖 4 万台），App 月活竟高达 80%。
-* “用户一边骂一边用”：骂耳机难看、音质烂，但就是离不开录音转文字功能。
-* 创业的底气：只要把耳机本身做好，这个 AI 功能就能引爆。
-🟢 41:14 务实的 8 小时：为什么不做 24 小时“Always-on”
-* 24 小时全天候录音？这个想法很激进，但现在一定是非主流。
-* 人对隐私的关注非常高，技术、伦理、社会接受度都要跨越。
-* 先把“工作 8 小时”里最有价值的点做好。
-🟢 51:56 为什么不做《Her》？我踩过“万能助理”的坑
-* 在讯飞做过中文第一个类 Siri 产品，但有两个瓶颈至今难解。
-* 瓶颈一（已解决）：AI 的理解能力。
-* 瓶颈二（未解决）：“服务贯通能力”。你想语音订机票？在线服务平台根本不愿开放他们的内部交易流程。
-* “万能助理”最大的失败：告诉用户什么都能干，但每一样都干得非常平庸。
-🟢 56:29 “硬件是短板原理，互联网是长板原理”
-“为什么很多互联网公司做硬件都不太成功？就是他用互联网思维做硬件。”
-* 互联网（长板）：一个功能特别好就行，别的 bug 快速迭代。
-* 硬件（短板）：一旦发布，一个致命缺陷就能让公司完蛋。研发、开模、库存“像山一样压过来”。
-* 硬件的渠道信心极其重要。
-* 我为什么还选硬件？“硬件更像种地，春种秋收，能逐渐积累优势，让人感觉踏实。”
-🟢 01:06:21 “万一是别人错了呢？” ——决定创业的 30 分钟电话
-“我就怀疑自己，难道我想错了吗？... 万一是别人错了呢？”
-* 在讯飞后期的困境：公司高层已拍板砍掉耳机业务。
-* 内心煎熬：抓着 80% 的月活数据，觉得“再做一代就能成”。
-* 科大讯飞联合创始人胡郁对马啸说：一定要 Follow your heart，才能把自己的能量发挥出来。
-* 以前听了这么多 follow your heart，但当自己真的在那个情境里了才真正明白这句话。
-🟢 01:18:40 AI 人才的“巨大断层”：老专家可能不如新学生
-* 做一家“本分”的公司，做“人机协同、解放人的能力”的 AI，而不是替代人的 AI。
-* AI 人才出现了巨大的“撕裂和断层”。
-* 上一代 AI，算法、产品、Coding 是分离的。
-* 新一代 AI，他们天然就把场景、Coding 和算法融为一体。
-欢迎订阅「十字路口」播客
-🚦 我们关注新一代 AI 技术浪潮带来的行业新变化和创业新机会。
-🚦 十字路口是乔布斯对苹果公司的一个比喻，形容它站在科技与人文的十字路口，伟大的产品往往诞生在这里。AI 正在给各行各业带来改变，我们寻找、访谈和凝聚新一代 AI 创业者和 AI 时代的积极行动者，和他们一起，探索和拥抱新变化，新的可能性。
-👦🏻 主播 Koji：我联合创办了街旁/新世相/躺岛，发起了 AI Hacker House 这个新一代 AI 创业者的社群空间。我相信科技尤其是 AI 是我们这一代人最大的价值创造机遇。欢迎大家找我聊天，碰撞想法，链接下一个可能性。Koji 的即刻，Koji 的网站
-👧🏻 主播 Ronghui：我在美元 VC 工作过，也做过五年的硅谷驻站记者，关注科技发展和商业故事，欢迎大家找我聊天，和我交流。Ronghui 即刻
-🎄 本播客由「新世相声音森林播客计划」支持。</description>
-            <content:encoded><![CDATA[<p class="transcript-line"><span class="time"><strong>[00:00:03]</strong> </span><span class="speaker"><strong>发言人1: </strong></span>欢迎收听十字路口，我们关注新一代AI技术浪潮带来的行业新变化和创业新机会。十字路口是乔布斯对苹果公司的一个比喻，形容他站在科技与人文的十字路口，伟大的产品往往诞生在这里。AI正在给各行各业带来改变。我们寻找、访谈和凝聚新一代AI创业者和AI时代的积极行动者，和他们一起探索和拥抱新变化、新的可能性。我是十字路口的科技，联合创办了街旁新石像和唐岛，发起了AI hacker house这个新一代AI创业者的社群空间。我相信科技尤其是AI是我们这一代人最大的价值创造机遇。欢迎大家找我聊天，碰撞想法，链接下一个可能性。</p>
-<p class="transcript-line"><span class="time"><strong>[00:00:53]</strong> </span><span class="speaker"><strong>发言人2: </strong></span>我是十字路口的容慧，在美元VC工作过，也做过五年的硅谷驻站记者，关注科技发展和商业故事，也欢迎大家找我聊天和我交流。</p>
-<p class="transcript-line"><span class="time"><strong>[00:01:05]</strong> </span><span class="speaker"><strong>发言人1: </strong></span>本周十字路口的嘉宾是未来智能的创始人和CEO马啸。最近的未来智能刚刚完成了一轮新的融资，领投方是蚂蚁集团老股东启明创投，也超额跟投融资的规模，这一次在人民币亿元级别，而且这已经是他们今年的第三次融资了。在AI硬件今年非常火的这个赛道上面，未来智能是一个大家知得去了解和关注的公司。在各个电商的这个AI耳机的排行榜上，也经常在冠军的位置。今年他们还发布了一个出海的新品牌叫做vm而对于马啸来说，这其实是一场在AI加音频这个赛道上面长达十几年的坚持之后，才有了今天得到的耕耘后的收获。所以今天我们请到马啸，我们希望和他聊一聊一个穿越了周期的创始人他的创业的旅程。我们也会和马潇来探讨AI硬件的方方面面。尤其是打造出现在这样一个取得了市场的认可，从销量上也拿到了很好结果的AI硬件。马啸和未来智能的团队在他们自己看来做对了哪些关键的选择？你好，马啸，欢迎来到十字路口。</p>
-<p class="transcript-line"><span class="time"><strong>[00:02:15]</strong> </span><span class="speaker"><strong>发言人3: </strong></span>你好你好，科技你好你好，融汇大家好，观众大家好。好。</p>
-<p class="transcript-line"><span class="time"><strong>[00:02:21]</strong> </span><span class="speaker"><strong>发言人1: </strong></span>我们会先用几个快问快答，来让大家更了解你，也更了解你的公司和产品。好的，首先你的年龄。</p>
-<p class="transcript-line"><span class="time"><strong>[00:02:28]</strong> </span><span class="speaker"><strong>发言人3: </strong></span>43岁.</p>
-<p class="transcript-line"><span class="time"><strong>[00:02:30]</strong> </span><span class="speaker"><strong>发言人1: </strong></span>毕业院校。</p>
-<p class="transcript-line"><span class="time"><strong>[00:02:30]</strong> </span><span class="speaker"><strong>发言人3: </strong></span>厦门大学研究生毕业。</p>
-<p class="transcript-line"><span class="time"><strong>[00:02:32]</strong> </span><span class="speaker"><strong>发言人1: </strong></span>你的MBTI.</p>
-<p class="transcript-line"><span class="time"><strong>[00:02:33]</strong> </span><span class="speaker"><strong>发言人3: </strong></span>和星座天蝎座MBTI叫INFG，那个G是那个勾F勾。</p>
-<p class="transcript-line"><span class="time"><strong>[00:02:40]</strong> </span><span class="speaker"><strong>发言人1: </strong></span>对。然后用一句话来安利一下你们现在的公司和产品。</p>
-<p class="transcript-line"><span class="time"><strong>[00:02:45]</strong> </span><span class="speaker"><strong>发言人3: </strong></span>我们是一家面向办公场景的软硬件一体化的AI公司，叫未来智能。我们做了一个现在目前有百万级的用户的一个硬件产品，叫讯飞AI耳机及我们未来会去做全球最好的软硬件一体化的办公助理公司。</p>
-<p class="transcript-line"><span class="time"><strong>[00:03:07]</strong> </span><span class="speaker"><strong>发言人1: </strong></span>然后可以介绍一下融资的情况吗？</p>
-<p class="transcript-line"><span class="time"><strong>[00:03:10]</strong> </span><span class="speaker"><strong>发言人3: </strong></span>对，公司经历了三轮融资，目前这个由蚂蚁领投的这轮融资刚刚结束，现在公司的估值是达到了接近10亿人民币。</p>
-<p class="transcript-line"><span class="time"><strong>[00:03:21]</strong> </span><span class="speaker"><strong>发言人1: </strong></span>然后你们的收入和利润目前方便分享吗？</p>
-<p class="transcript-line"><span class="time"><strong>[00:03:24]</strong> </span><span class="speaker"><strong>发言人3: </strong></span>这个大几亿级别的收入，这个利润的话也刚刚实现盈利。</p>
-<p class="transcript-line"><span class="time"><strong>[00:03:29]</strong> </span><span class="speaker"><strong>发言人1: </strong></span>咱们目前的团队规模。</p>
-<p class="transcript-line"><span class="time"><strong>[00:03:31]</strong> </span><span class="speaker"><strong>发言人3: </strong></span>我们现在大概有150多号人，在很多地方分布这一点上可以给大家介绍一下。我们有合肥office，然后北京office、然后上海office，还有杭州office，还有深圳office。我们是从day one一个比较习惯这种远程协同办公的公司。这几个区域因为是人才非常密集的地方，我们也希望从这些区域能够找到更优秀的人。</p>
-<p class="transcript-line"><span class="time"><strong>[00:03:59]</strong> </span><span class="speaker"><strong>发言人1: </strong></span>可不可以再一句话介绍一下这一次创业之前在做什么？</p>
-<p class="transcript-line"><span class="time"><strong>[00:04:03]</strong> </span><span class="speaker"><strong>发言人3: </strong></span>在之前是在一家还比较知名的上市公司，科大讯飞做一个业务部的负责人，做过很多事。然后最后一份工作就是做耳机，然后做的不算太成功。</p>
-<p class="transcript-line"><span class="time"><strong>[00:04:18]</strong> </span><span class="speaker"><strong>发言人1: </strong></span>所以出来创业了。未来智能这家公司其实在AI的硬件圈子里面已经是非常有名的。但是因为你们的产品不是用的这个公司的名字。对，所以可能我们的听众还有一些不太了解。</p>
-<p class="transcript-line"><span class="time"><strong>[00:04:28]</strong> </span><span class="speaker"><strong>发言人3: </strong></span>你们是我们这家公司是22年正式成立的，我们虽然未来智能这四个字可能大家不太很熟悉，但是大家可能会在各大电商平台或者是在一些数码门店上能看到这个讯飞AI耳机。这是我们目前的主力产品，当然未来还会有更多围绕着办公的，软硬件一体化的智能硬件会推出来。</p>
-<p class="transcript-line"><span class="time"><strong>[00:04:54]</strong> </span><span class="speaker"><strong>发言人1: </strong></span>你们究竟想成为一家什么样的公司呢？</p>
-<p class="transcript-line"><span class="time"><strong>[00:04:57]</strong> </span><span class="speaker"><strong>发言人3: </strong></span>对这个我们思考了很久，简单一句话来讲，我们是觉得所有的硬件都可以被AI再改造一轮，但是你不能什么事儿都自己做了。对你一定要有一定的重点，并且立刻马上给到用户，能让他们可以体验到的真实的价值。我们觉得我们自己给自己现在选定的赛道，就是我们的AI软硬件一体化的办公助理这个方向。我们做的所有的产品都围绕着这几个字在在。</p>
-<p class="transcript-line"><span class="time"><strong>[00:05:28]</strong> </span><span class="speaker"><strong>发言人1: </strong></span>做对A.</p>
-<p class="transcript-line"><span class="time"><strong>[00:05:29]</strong> </span><span class="speaker"><strong>发言人3: </strong></span>I软硬件一体化的智能助理办公助理。对，办公助理。对。</p>
-<p class="transcript-line"><span class="time"><strong>[00:05:33]</strong> </span><span class="speaker"><strong>发言人1: </strong></span>是的，所以软硬件一体化。</p>
-<p class="transcript-line"><span class="time"><strong>[00:05:35]</strong> </span><span class="speaker"><strong>发言人3: </strong></span>对，是的，这个关键词我们提炼了好久，但是非常的重要，每一次都是血泪。</p>
-<p class="transcript-line"><span class="time"><strong>[00:05:42]</strong> </span><span class="speaker"><strong>发言人1: </strong></span>对，那这个最大的血泪是什么？</p>
-<p class="transcript-line"><span class="time"><strong>[00:05:46]</strong> </span><span class="speaker"><strong>发言人3: </strong></span>这个可能就要稍微把过去的事情稍微翻出来讲一讲。刚才科技讲过，我们是一个穿越这个周期的一个公司，实际上并不是我们这个创业的公司。创业周期实际上然后我们是一直以来是在一些大公司里面，作为一个团队，经历过上一代的人工智能的一个浪潮。这个行业里面，大家现在把人工智能浪潮，现在这波以transformer为代表的，实际上是分为第四波浪潮了。对，实际上在这之前有三波浪潮。我有幸的是在这个职业的发展初期，经历了第三波的人工智能热潮，总的来讲就是喧嚣过后又归于沉寂的这个过程，我是比较亲身地感受到了。然后也是在这个周期里面也做了好多事，所以确实是有这么一些经历。</p>
-<p class="transcript-line"><span class="time"><strong>[00:06:42]</strong> </span><span class="speaker"><strong>发言人3: </strong></span>对，这个是我当时的一些，但是可能需要把它展开讲一讲的话，就是我其实讲很久了。对，要展开讲了很久了，待会再来留着这个。对，可以讲。</p>
-<p class="transcript-line"><span class="time"><strong>[00:06:51]</strong> </span><span class="speaker"><strong>发言人1: </strong></span>对，我们现在还是来聊一聊这个耳机这款产品OK因为今天做AI硬件的创业者都在赌AI的入口是什么？哼就连OpenAI，其实他们也收购了苹果的设计师艾薇的那家公司。对，然后大家的这个路径各有不同。然后你们是一开始选了AI耳机，这是因为在你看来蓝牙耳机是一个最好的硬件入口。</p>
-<p class="transcript-line"><span class="time"><strong>[00:07:15]</strong> </span><span class="speaker"><strong>发言人3: </strong></span>这个其实也有一定的偶然性，不是说我们决定要做一个AI入口，所以才决定做耳机OK。而是我们其实在做耳机的过程中，慢慢发现这个产品有一定的潜力。但是我始终认为未来的这个AI的入口绝对不只是一个。大家会用一个相对过去一点的思维去看未来的事情。比如说手机成功了，大家会觉得OOK下一代人工智能浪潮起来以后，是不是还会有一个取代手机的东西？对，其实未必是这样。就是未来的这个业务形态有可能是一种非常多元化的，非常组合型的。它未必是用另一个硬件去打败手机，它有可能是一大堆硬件，或者是一大堆分散的一些入口，包括软件的，包括硬件的，但是他们有个共同的源头，或者一个共同的大脑，然后他们来组成一个矩阵，然后它是无所不在的。</p>
-<p class="transcript-line"><span class="time"><strong>[00:08:14]</strong> </span><span class="speaker"><strong>发言人3: </strong></span>然后慢慢的对手机的这种时间形成一种这种分散，慢慢的形成一个所谓的入口，就是我觉得这个过程还需要很长的一段时间，但是做耳机这件事情，是我们很早就开始做了。但是我们发现它是一个很好的用自然语言去跟AI交互的这样的一个方式。所以它未来很有可能是一个就是从分散用户使用时长。</p>
-<p class="transcript-line"><span class="time"><strong>[00:08:42]</strong> </span><span class="speaker"><strong>发言人3: </strong></span>现在就是比如说我们现在大家家一天的时间除了8小时休息，8小时工作，8小时生活。那这16个小时里面大家用的最多的屏，或者是接触最多的设备是什么？现在毋庸置疑是手机。</p>
-<p class="transcript-line"><span class="time"><strong>[00:08:58]</strong> </span><span class="speaker"><strong>发言人3: </strong></span>但是随着这个交互方式的一些变化，当人工智能越来越智能的时候，你有可能有些时候你是不一定要拿起手机这块屏就能完成你一些任务的。那这些设备是什么？这些设备不可能一下子就说OK我用了一个什么，比如说眼镜，然后立刻就把手机扔掉了，这是不可能。而是我认为它是一个渐进式的过程。先是可能某些功能上在用依赖于耳机或者是眼镜之类的这些设备，但是越来越时常会发生一些变化。然后手机的这个重要性可能会不如现在那么重要，但是大家都是平等的，我跟AI去互动的这样的一种媒介，最后有一个云端的这个服务一直在收敛这些所有的数据来跟你去交互。那我认为有可能未来的这个生态有可能是这样的一个样子。</p>
-<p class="transcript-line"><span class="time"><strong>[00:09:49]</strong> </span><span class="speaker"><strong>发言人3: </strong></span>但耳机有可能就是一个，它的特点是什么呢？永远可以随身携带，随时随地的去沟通。它没有那么一块屏，它获取用户数据就交互的效率可能没有那么高。所以它有利有弊，但是我认为它是未来的一个不可避免的一个很重要的一个交互途径，大概是这样。</p>
-<p class="transcript-line"><span class="time"><strong>[00:10:09]</strong> </span><span class="speaker"><strong>发言人2: </strong></span>对我们之前其实有采访像做AI眼镜的创业者，像也有像李楠这种非常有让资深的硬件创业者。其实他们都提到了一个，比如说你作为一个AI眼镜，它首先得是一个眼镜它首先得是一个大家喜欢的眼镜。你们在做AI耳机的这件事儿的时候，对它首先得是一个好的耳机。而且我觉得耳机可能它跟眼镜更不一样的地方是，眼镜还能在就比如说时尚感什么的做一些探索。耳机是一个被苹果定义的非常清楚这个耳机是个什么样子的耳机的一个产品。对你们对这块是怎么想？</p>
-<p class="transcript-line"><span class="time"><strong>[00:10:46]</strong> </span><span class="speaker"><strong>发言人3: </strong></span>好，这个事儿我也比较同意，就是一个好硬件，首先它应该具备它原来该有的那些功能，而不是因为是个AI耳机就一定是。AI做的极强，但是耳机做得很烂。我们在创业初期踩的坑里面有这一项。</p>
-<p class="transcript-line"><span class="time"><strong>[00:11:01]</strong> </span><span class="speaker"><strong>发言人3: </strong></span>所以我们自己总结未来我们的这个耳机它的一个核心竞争力是什么呢？我们把它叫做5加X5是什么呢？就是五五就是耳机的最基本的属性，音质、外观、续航、降噪和配备的舒适度。我基本上把市面上的这个比较主流的耳机都用过了。我们都总结了一下，这个用户买耳机本身就是看这五个属性。所以你如果在这个五个属性上做的不太好，然后你就片面的去强调AI那你其实不是一个合格的消费品。即使消费者因为你的AI功能买买了你他也不可能长时间的去使用，更不可能去推荐给周围的人。其实这个AI硬件的逻辑就不能够实现一个快速的扩散。</p>
-<p class="transcript-line"><span class="time"><strong>[00:11:47]</strong> </span><span class="speaker"><strong>发言人3: </strong></span>关于这个耳机，它要进一步的就是怎么才能把它做得更好呢？其实它这里面还有很多不一样的东西，这就是在耳机的基础上再去发挥的一些东西。比如说我其实我们一直有一个观点，就是虽然耳机还是耳机，但是AI耳机要在这个基础上还要超越他们。比如说这个耳机它实际上如果有AI的功能以后，它在干什么呢？他其实是跟用户一起去听，一起去感知外界的，我们叫信息。他把这个外界的自然信息随时随地能够转换成数据流，能回到这个AI能处理的这个数据域里面，哪怕是一些非结构化的一些数据。这一点上就对这个耳机本身又提升了一点难度。就是我除了要听好我自己去讲的话，我还要比如说我们现在这个场景，我们要让周围的人都能够这个耳机能够听到周围人去讲的话。比如科技讲的话，或者是融汇你讲的话都能说的很清楚。</p>
-<p class="transcript-line"><span class="time"><strong>[00:12:47]</strong> </span><span class="speaker"><strong>发言人1: </strong></span>因为我看咱们的那个产品里面有一个设置，就是我到底是只收自自己的音，还是我要收整个空间的音。</p>
-<p class="transcript-line"><span class="time"><strong>[00:12:53]</strong> </span><span class="speaker"><strong>发言人3: </strong></span>是没错，就是他一定要让他能够听，就是你要选择让人工智能的耳朵去听，谁听我还是听周围的声音都要去听，这样的话才能最大程度的变成你的一个助理，就是听你所听。</p>
-<p class="transcript-line"><span class="time"><strong>[00:13:06]</strong> </span><span class="speaker"><strong>发言人1: </strong></span>其实这个会让这个硬件变重，对它的续航的要求也变高。是的，那类似这样的功能还有哪些呢？就和传统耳机比起来不一样。</p>
-<p class="transcript-line"><span class="time"><strong>[00:13:14]</strong> </span><span class="speaker"><strong>发言人3: </strong></span>对还会有很多，我只能说这只是其中一个。其实大家会看到说，耳机能不能让这个佩戴能够超越这个市场。因为现在大家看到的就是被苹果定义的这个耳机，其实样子已经比较固定了，就是入耳式的卖的比较贵，然后半入耳式的那种相对便宜一点，然后还有这种耳挂式或者是耳夹式，它其实已经被定义的比较日式了，流程化了。那这里面就需要在耳机本身的这个硬件上要做一些二次的突破，一定比如说超长的续航，怎么能够用一个无感佩戴能够带一天至少可能十几个小时都不会觉得这儿有一个耳机。但是随时随地就可以把它给唤醒，或者是让它来产生作用，或者是它本身就在默默的在产生作用。这些东西都需要对它的重量和它的佩戴舒适度提出了挑战。所以耳机里面会有一个不太可能三角，就是续航。它的重量就是重量背后就是佩戴舒适度，对，然后还有它的处理性能，这三件事情是一种不太可能达成一个都非常好的这样的一个三角，所以就选择取舍取舍。</p>
-<p class="transcript-line"><span class="time"><strong>[00:14:27]</strong> </span><span class="speaker"><strong>发言人1: </strong></span>对，你们的选择是什么？你们的选择是做六边形战士，还是你们选择在这三个里面我们就主攻一个？</p>
-<p class="transcript-line"><span class="time"><strong>[00:14:33]</strong> </span><span class="speaker"><strong>发言人3: </strong></span>就很难做六变展示，这是这个供应链或者是硬件技术待突破的东西。在有限的条件下，我们一定要把我们的这个功能，就是说我们的目前的性能，用最好的原电子元器件，用最好的芯片把它呈现的最好。但这样它依然是一个不能做成六边形战士的一种模式。OK所以我们会更强调它的对于我们AI功能这样的一个支持。</p>
-<p class="transcript-line"><span class="time"><strong>[00:15:00]</strong> </span><span class="speaker"><strong>发言人3: </strong></span>也就是说它的续航能力上，因为我们的这个耳机主要是给商务用户去用的那商务用户其实他在娱乐属性上，可能就对这个产这个耳机的需求是要弱一点。但是它可能要超长时间的通话，一般正常的市面上通用的耳机，可能大概单耳机续航在5到6个小时。打电话的话听音乐的话到7个8小7到8小时。我们能尽量做到不去充电的这个通话能做到9到10个小时。然后如果去充电的话，能做到可能30个小时到40个小时充电，就是说放回去放回充电仓。因为我们的客户大量的是一些商务人士，他有时候一开一天上午两个电话会议，下午两个电话会议，那基本上的时长会在7到8个小时，或者是至少是6个小时以上。他要在这个过程中要完成记录，让AI的能够陪伴他，把他一些重要的信息都能记录下来，而不是说频繁的去左右耳倒替去充电等等，这个我们都要考虑到。</p>
-<p class="transcript-line"><span class="time"><strong>[00:16:01]</strong> </span><span class="speaker"><strong>发言人3: </strong></span>所以就是说回到应用场景上，一定要把现在我们这个用户感知到的这种商务的这种能力要把它拉满。所以我们会牺牲一些，比如说体积上做的没有那么性感，没有做的那么优美。但是他会做的非常的商务化，非常的皮，我们叫它皮实，就是让他感觉到非常靠谱，非常非常可靠。可能在优美上可能不如那些。</p>
-<p class="transcript-line"><span class="time"><strong>[00:16:29]</strong> </span><span class="speaker"><strong>发言人1: </strong></span>有些手势化的。</p>
-<p class="transcript-line"><span class="time"><strong>[00:16:30]</strong> </span><span class="speaker"><strong>发言人3: </strong></span>对对对，但是我们会把这方面的属性做强对。</p>
-<p class="transcript-line"><span class="time"><strong>[00:16:33]</strong> </span><span class="speaker"><strong>发言人1: </strong></span>咱们这还是一个定位非常清晰的。然后因为有了这个定位，不管是用户的品牌的定位，所以是做了。</p>
-<p class="transcript-line"><span class="time"><strong>[00:16:40]</strong> </span><span class="speaker"><strong>发言人3: </strong></span>一些减法取舍。</p>
-<p class="transcript-line"><span class="time"><strong>[00:16:42]</strong> </span><span class="speaker"><strong>发言人2: </strong></span>是的，这里面有哪些取舍是特别艰难的。</p>
-<p class="transcript-line"><span class="time"><strong>[00:16:46]</strong> </span><span class="speaker"><strong>发言人3: </strong></span>这其实真的很多每一个都很对，每一个很多就是我围绕这五个，比如说音质、外观、续航、降噪、佩戴和舒适度。佩戴舒适度，其实音质是一个很重要的一个取舍。其实用户买耳机很大程度上其实对音质的一个期待。因为我想买耳机，我除了开会，开会可能对音质的这种需求没有那么高，但是我还是要听音乐的，因为耳机本身它就有作用。</p>
-<p class="transcript-line"><span class="time"><strong>[00:17:09]</strong> </span><span class="speaker"><strong>发言人3: </strong></span>那如何要保证续航的情况下，因为大家可能会知道就是这个喇叭，这个耳机的喇叭其实是能耗的一个主力的一个消耗点。那么你要是要用动圈，还是两双动圈单元，还是动圈加动铁单元，这些可能都会对能耗造成很大的这样的波动。但是如果它的能耗消耗大了，那你录音的时长，你续航的时长就会降低。这个其实是一个很艰难的抉择，我们到底要保障用户的足够的时长，还是让它有一定的音质。这里面没有一个绝对的零和1，它而是找到一个比较平衡的一个地带，一直在取舍。对对对。</p>
-<p class="transcript-line"><span class="time"><strong>[00:17:47]</strong> </span><span class="speaker"><strong>发言人1: </strong></span>但你觉得比如说AI耳机，它有点像这一波创业的一张名牌吗？就大家都看得到这个机会，只是说谁有更多的钱，或者谁有更先发的优势。还是你其实不这么认为，你觉得这里头其实有非常多的可能走错一步，在竞争当中就会输掉的一些可能。</p>
-<p class="transcript-line"><span class="time"><strong>[00:18:05]</strong> </span><span class="speaker"><strong>发言人3: </strong></span>但我认为第一层是一张名牌，所有人都看到耳机是个机会，但是做什么样的耳机，这就产生了完全不同的思考方式。比如说这个手机厂商他一定会做耳机，但是他们做耳机的思路是什么？和我们做的耳机是一样的吗？</p>
-<p class="transcript-line"><span class="time"><strong>[00:18:21]</strong> </span><span class="speaker"><strong>发言人3: </strong></span>其实我觉得这里面有很多的非共识，比如说这些厂商他一定要做量大面广的耳机。因为他手机卖到这些用户了，他理所当然的会想到他的耳机要去服务这些用户。他一定要去面临这个主流的这种耳机的竞争。所以他有可能就是我在我在刚刚讲的这个五个属性里面，它一定要卷到极致，才能把它做得非常好。这类厂商他的思考是这样子的这有非共识。而我们去做这个东西，作为一个创业公司，很难去跟苹果去竞争，很难跟华为去竞争。这是我们从day one就很清楚的。我们只可能在一些垂直领域能够完成一个创新和突破，也给予用户价值。</p>
-<p class="transcript-line"><span class="time"><strong>[00:19:03]</strong> </span><span class="speaker"><strong>发言人3: </strong></span>所以在这些点上就有很多的不一样的分歧点。可能有些耳机会去做AI的运动，有些耳机要做AI的生活，AI的陪伴。比如说那个字节的这个耳机，这个欧拉dance的这个耳机，它可能就是你戴上以后可能是主打陪伴聊天儿，或者是一些叫口语陪练。我看到他们的一个商详上讲的这些方向，而我们去做这个东西显然不是我们想象的那个出发点或者我们的初心。</p>
-<p class="transcript-line"><span class="time"><strong>[00:19:32]</strong> </span><span class="speaker"><strong>发言人3: </strong></span>为什么定义的是会议办公这个相对严肃，但是又对数据有比较高的追求的相对来说的垂直领域。当然还有很多其他的完全不同的耳机，他们在做不同的AI耳机。所以在这个耳机的一个大的共识之下，其实在有大量的这种非共识存在。</p>
-<p class="transcript-line"><span class="time"><strong>[00:19:51]</strong> </span><span class="speaker"><strong>发言人1: </strong></span>我看你们也有翻译，但对自己之前讲了十几分钟。</p>
-<p class="transcript-line"><span class="time"><strong>[00:19:54]</strong> </span><span class="speaker"><strong>发言人3: </strong></span>一直没提到翻译这个词。是我认为翻译是一个未来所有的手机厂商以及通用硬件都会要去解决的问题。但录音不是吗？录音不是，记录不是。就或者说基于办公的这种流程闭环的这种服务，AI助理这种服务不是手机厂商非常迫切一定要去解决的一个需求。</p>
-<p class="transcript-line"><span class="time"><strong>[00:20:20]</strong> </span><span class="speaker"><strong>发言人3: </strong></span>我举个例子，比如说我们的苹果耳机，这个苹果手机，苹果手机要卖给全球，我相信是十几亿人的对这样的一个水平。他率先想到的是他考虑用户需求的时候，一定考虑尽可能的做这个交集。就所有人共同的交集是什么？我认为一定是像翻译这种解决跨语言障碍的东西，这一定是他们优先会考虑。所以这些赛道他们一定会把他们的人才技术能力在上面做一些放大。</p>
-<p class="transcript-line"><span class="time"><strong>[00:20:52]</strong> </span><span class="speaker"><strong>发言人3: </strong></span>因为他一解决这个问题，他可能这十几亿人里面可能有两三亿人因此而受益。但如果他去做这个非常垂类的这种办公的助理，他可能花很大的精力。但是他只服务于他的那几千万人。对这样的话，他的这个使就有点杀鸡用牛刀的这种感觉。</p>
-<p class="transcript-line"><span class="time"><strong>[00:21:11]</strong> </span><span class="speaker"><strong>发言人3: </strong></span>这就是垂类和平台之间的区别。明白平台一定要解决大家通用的需求，而垂直要解决这类垂直用户的痛点需求。有点像苹果做了一个IOS操作系统，安卓谷歌做了安卓操作系统，它做的是通用的需求。但是上面的各种APP其实是解决我们垂类的各种各样的需求。我们是一个生态的一个一个锤一个平的这样的一个关系了解。</p>
-<p class="transcript-line"><span class="time"><strong>[00:21:37]</strong> </span><span class="speaker"><strong>发言人2: </strong></span>我大概是这样。你理解为其实你们可能跟这些大厂商相比，更核心的竞争力是在于你们对办公这个场景的理解。是的，那你可以说几个就是办公这个场景，你们这几年做下来，觉得他最你们这个耳机可能最核心针对的几个他们的核心的需求点。</p>
-<p class="transcript-line"><span class="time"><strong>[00:21:56]</strong> </span><span class="speaker"><strong>发言人3: </strong></span>其实耳机和其他的它最大的一个区别就是它其实可以是随时随地可以去录音，它是一个外设。比如说我我如果我是飞书的用户，那我去录飞书，其实有飞书提供的这套录音的记录的方式。但是换成腾讯，就得要切换到腾讯的这个服务。如果换成其他的，甚至还有很多比如说这个微信里面也不带相应的这种功能。我现在。</p>
-<p class="transcript-line"><span class="time"><strong>[00:22:22]</strong> </span><span class="speaker"><strong>发言人1: </strong></span>日均。</p>
-<p class="transcript-line"><span class="time"><strong>[00:22:23]</strong> </span><span class="speaker"><strong>发言人3: </strong></span>用三个。是的，当你来回去切换的时候，你的这些信息都是被各个平台对各自分散去记录的。那你怎么有一个设备能够把它统一管理起来？这个就是我们耳机能够解决他们没有解决的这样的一个优势，那我就要把这些优势发挥到极致。</p>
-<p class="transcript-line"><span class="time"><strong>[00:22:42]</strong> </span><span class="speaker"><strong>发言人3: </strong></span>第二个耳机是一个戴上以后，它其实一个不是说我需要一直拿着手机，它是一个佩戴式设备。那佩戴式设备跟人耳更近。能够更随时随地的来启动。然后我会在随时启动的这个方式上去做很多的这个文章，让他去会更方便的便捷的去使用。这也是一个非常重要的一个场景。</p>
-<p class="transcript-line"><span class="time"><strong>[00:23:03]</strong> </span><span class="speaker"><strong>发言人1: </strong></span>所以我不得不说就是我自己用咱们的这个耳机有两个特别好的体验。一个就是我只要在任何的APP里面开始通话，他就会提醒我开始录。反正我没看到别的类似的产品有实现这一点，可能我用的也不够多，对这个体验就很好。比如说飞书开始聊了。对，然后微信有个人打电话来了，或者最近还在路上有好几个扣，然后他都会提醒我开始录。然后第二就是他会一边录，一边这个转录就出来了，文本就出来了。我每次打完电话，然后这个文本就有了。</p>
-<p class="transcript-line"><span class="time"><strong>[00:23:34]</strong> </span><span class="speaker"><strong>发言人1: </strong></span>但我也很好奇，为什么咱们就能够一边录，一边就传到了手机上，并且还把它转出来了。因为其实pro的这个卡片它也不小，耳机也没有比卡片从硬件上大很多。为什么咱们能够做到。</p>
-<p class="transcript-line"><span class="time"><strong>[00:23:48]</strong> </span><span class="speaker"><strong>发言人3: </strong></span>他们做不到呢？这个其实是在耳机的芯片上做了一些开发OK这个开发还挺难的。我们在这个开发上面一直坚持了三年多的时间，一直在迭代。</p>
-<p class="transcript-line"><span class="time"><strong>[00:23:59]</strong> </span><span class="speaker"><strong>发言人3: </strong></span>其实这是一个行业共同的难题，就是用蓝牙传输信息，它的带宽很低。大家可能觉得蓝牙可能挺快，实际上是经典蓝牙的通道。那个经典蓝牙当被通话占用的时候，他就不能再干别的了。那这时候需要一个蓝牙提供的另外一套协议，就是数字蓝牙协议。数字蓝牙信息就是BLEGATT这类的这种协议。这类的协议最大的特点是它原先是干嘛用的。它是给这个耳机传输一些非常小小字节的指令来决来使用的。我们是把这个协议把它改造了让它不断的稳定的传输语音流。</p>
-<p class="transcript-line"><span class="time"><strong>[00:24:36]</strong> </span><span class="speaker"><strong>发言人3: </strong></span>这件事情有点难，就相当于你在一个非常窄的通道里面，要保证这个耳机录音的质量。它里边要涉及到信息传输的稳定性，因为无线传输一定会被干扰的。那个蓝牙是走到2.4G协议，这个2.4G是很容易被wifi，被周围的那种信号灯很多的信号干扰。一干扰这个数据流就会中断。这时候它就表现为数据要么很慢，要么包。还有一种情况，就是说当你传的你倒是传输稳定了，但是你因为压缩会丢掉很多细节，这时候你的识别率就会降低。我们在这些方面做了好多好多的公关和优化，最后再完成的这些事情。总的来讲就是用低带宽保证质量的前提下，保证实时性的前提下，让它实现稳定的数据流传输，这个是我们的一个看家本领。</p>
-<p class="transcript-line"><span class="time"><strong>[00:25:25]</strong> </span><span class="speaker"><strong>发言人1: </strong></span>这个有比如注册一些专利成为类似。因为我知道韶音有很多专利，对，就成为了这个骨传导耳机的很多护城河。就咱们刚才提到这个，我确实能感受到和竞品的这个差异。咱们有专利能够成为未来长期的护城河吗？</p>
-<p class="transcript-line"><span class="time"><strong>[00:25:41]</strong> </span><span class="speaker"><strong>发言人3: </strong></span>说实话我对这个技术护城河这件事情不是特别的信仰，但是它确实是我短期内的一个。</p>
-<p class="transcript-line"><span class="time"><strong>[00:25:47]</strong> </span><span class="speaker"><strong>发言人2: </strong></span>吃过很多苦的感觉。</p>
-<p class="transcript-line"><span class="time"><strong>[00:25:48]</strong> </span><span class="speaker"><strong>发言人3: </strong></span>对对对，真的是吃过很多苦。就是大家不要片面的相信说我有一项技术别人搞不定，在现在这个时代几乎没有了。因为它的原理比较简单，我们确实注册了专利，但是如果用换一种编码格式，换一种什么方式，它也有可能能实现OK。对我认为技术永远不是最终的护城河，但是他确实我们是给用户的体验足够好这件事情是下了很多功夫的对这我只觉得他能够不断做技术攻关，能够提升用户体验，这是他最大的价值，让用户满意。至于说他能不能成为护城河，我是觉得真正的护城河还是用户的心智，用户的认可。</p>
-<p class="transcript-line"><span class="time"><strong>[00:26:27]</strong> </span><span class="speaker"><strong>发言人1: </strong></span>这个长期的数据。我们之前和mannus聊，因为所有人也都会觉得你有啥护城河，对吧？对，然后他们的答案也非常的直接，就不断的创新。</p>
-<p class="transcript-line"><span class="time"><strong>[00:26:36]</strong> </span><span class="speaker"><strong>发言人3: </strong></span>不断创新以及创新的。</p>
-<p class="transcript-line"><span class="time"><strong>[00:26:37]</strong> </span><span class="speaker"><strong>发言人1: </strong></span>速度是我们的护城河。</p>
-<p class="transcript-line"><span class="time"><strong>[00:26:39]</strong> </span><span class="speaker"><strong>发言人2: </strong></span>常认可。看我看你之前的一个采访，你们这个耳机的供应链上的一个核心的一个厂商是立讯。</p>
-<p class="transcript-line"><span class="time"><strong>[00:26:45]</strong> </span><span class="speaker"><strong>发言人3: </strong></span>对，是的，苹果必须精密。对。</p>
-<p class="transcript-line"><span class="time"><strong>[00:26:47]</strong> </span><span class="speaker"><strong>发言人2: </strong></span>是的，就是你你们是怎么说服他们跟你们合作的？你们的订单量应该跟苹果的订单量对不在一个量级上。我猜的就是所以你们怎么样说服这样的一个公司来跟你们合作。</p>
-<p class="transcript-line"><span class="time"><strong>[00:27:00]</strong> </span><span class="speaker"><strong>发言人3: </strong></span>是立讯是在就是从我们这个耳机的供应链上，它是最好的ODM制造厂商。对，也是给国际上最牛的企业做代工的。最早我们的量是非常低的，就是可能是以几万为单位去来一次moq。这个数据相比于像他们这种体量的是以KK级，是这个KK就是1000乘1000 2个K对，就是10 10万KK起订量哦啊10万KK是起订量。然后这个百万是一个正常的一个数据，就是至少要达到百万才能够在我的这个上面能够一年我的工人能够在这条产线上能持续的去工作，这是一个起码的，10和KK100万就是一个起码的一个起订量。但是我们在创业的这个初期，也是找到了这个耳机上下游的几乎大概二三十家，就是这个从知名的一直往下走的这个第二阶梯、第三阶梯的，其实基本上没有几家是愿意来支持我们做的，但实际上最后，我觉得锲而不舍。然后另外一个就是我们提出来的这个AI耳机的这个概念，在当时现在大家已经已非常习惯了。但是在2021年的时候，我们在准备创业的时候，去找这样的这个供应商的时候，大家还不一定能接受这样的这个AI耳机的概念。</p>
-<p class="transcript-line"><span class="time"><strong>[00:28:34]</strong> </span><span class="speaker"><strong>发言人1: </strong></span>因为那会儿还没有插GPT。</p>
-<p class="transcript-line"><span class="time"><strong>[00:28:35]</strong> </span><span class="speaker"><strong>发言人3: </strong></span>对对对，那个时候其实并不是现在这波人工智能智能热潮的时候。对，大家还是在上一波人工智能，大家觉得说，这个用途不是非常大的对，为什么要去做这？所以就是找到了立讯的董事长。</p>
-<p class="transcript-line"><span class="time"><strong>[00:28:48]</strong> </span><span class="speaker"><strong>发言人3: </strong></span>立讯董事长他是对未来还是蛮有这个眼光的。他会觉得说OK现在的立讯已经把这个主流的耳机代工已经做得很好了。但是我们的下一步的增长在哪里？会不会有一些现在看比较小比较微小，但是未来会发展很大的一个机会。所以我们也是用我们的一个真诚，加上我觉得立讯董事长的这个未来的眼光。</p>
-<p class="transcript-line"><span class="time"><strong>[00:29:14]</strong> </span><span class="speaker"><strong>发言人3: </strong></span>两个一结合，我们是成功的说服立讯在一开始只有几万订单的情况下，陪着我们去打磨我们的这个产品。这点还是蛮蛮感谢。其实不只是利息了，其实在产业链上下游，还有上游，还有芯片，还有很多大的公司在支持我们。那时候我都是靠这样的一种以诚动人的方式，尽量的去争取到他们的一个支持。</p>
-<p class="transcript-line"><span class="time"><strong>[00:29:35]</strong> </span><span class="speaker"><strong>发言人2: </strong></span>对举个例子就是夺锲而不舍。</p>
-<p class="transcript-line"><span class="time"><strong>[00:29:38]</strong> </span><span class="speaker"><strong>发言人3: </strong></span>夺锲而不舍那就是多次拜访，然后去把我们的一些商业的计划，然后我们的一些对未来的一些畅想，其实我觉得最打动他们的，其实我们是对未来的一个畅想。那时候其实大家有很多的非共识，就是你觉得未来是A他觉得未来是B但是很少有人把未来描述的比较清晰。我觉得我们做的还比较不错的一点就是我们顺着我们这条路去推演。我们推演出了一条其实是可以从如何到A的一条路径。这条路径我们讲的相对比较清晰，就是大家觉得说OK可行，而不是你突然做了个梦，然后就要来找我来要资源。那个时候怎么自圆其说呢？</p>
-<p class="transcript-line"><span class="time"><strong>[00:30:22]</strong> </span><span class="speaker"><strong>发言人1: </strong></span>因为那个时候没有生成CAI，这就意味着转录不会太转录完了之后还没有办法做摘要。对啊，就后面的这个很多包括翻译可能也做不好。</p>
-<p class="transcript-line"><span class="time"><strong>[00:30:32]</strong> </span><span class="speaker"><strong>发言人3: </strong></span>我们其实有些数据其实也不光是纯粹是靠这个故事。因为我们在上一家公司，我们这是一个整建制的团队。在科大讯飞我们其实是做了耳机的。当时是很不巧，就那个耳机没做的特别成功，整个耳机只卖了总共在讯飞里面只卖了4万台。</p>
-<p class="transcript-line"><span class="time"><strong>[00:30:52]</strong> </span><span class="speaker"><strong>发言人2: </strong></span>老师你说卖799的对.</p>
-<p class="transcript-line"><span class="time"><strong>[00:30:54]</strong> </span><span class="speaker"><strong>发言人3: </strong></span>卖799的那款，这个卖的真是不多，相比于现在这个动辄就是KK级的4万，简直是什么都不不不值入法眼了。但是那里面有一组数据真的非常吸引人，就是因为用我们这个耳机需要下载我们的APP。APP的这个月活基本上能维持在总注册用户的80%。也就是说有80%的用户，就是100个用户买了我们，有80个用户几乎每个月都在用。</p>
-<p class="transcript-line"><span class="time"><strong>[00:31:24]</strong> </span><span class="speaker"><strong>发言人1: </strong></span>他们用APP干什么？</p>
-<p class="transcript-line"><span class="time"><strong>[00:31:25]</strong> </span><span class="speaker"><strong>发言人3: </strong></span>用来做大量的会议的录音和事后的记转成文字。因为那个时候没有大模型，没办法做摘要总结，但是已经进了一步了。就是说能把大量的，比如2个小时的会议，我能转转成一篇，转成的语音，转成文字。我看这些文字，如果我听录音，我两小时的录音我就得听2小时，哪怕我加快一下也可能也得一个多小时。但是看文字可能二三十分钟就能把它看完。</p>
-<p class="transcript-line"><span class="time"><strong>[00:31:52]</strong> </span><span class="speaker"><strong>发言人1: </strong></span>所以那个时候ASR已经可以比较精准了。</p>
-<p class="transcript-line"><span class="time"><strong>[00:31:55]</strong> </span><span class="speaker"><strong>发言人3: </strong></span>对，ASR那时候能够在一定条件下，其实能够做到帮用户提升效率，但远没有现在这种效率的提升那么好。</p>
-<p class="transcript-line"><span class="time"><strong>[00:32:05]</strong> </span><span class="speaker"><strong>发言人1: </strong></span>其实这是一个非常牛逼的数字，就80%的用户会成为月活用户，而且他们很典型的在依赖其中某一个具体的功。那为什么那个产品没继续做呢？</p>
-<p class="transcript-line"><span class="time"><strong>[00:32:17]</strong> </span><span class="speaker"><strong>发言人3: </strong></span>确实给我们的老东家亏了不少钱，因为做耳机这个事情，大家感受一下，就是当时的这种压迫性的环境，就是苹果、华为这些手机厂商已经做得非常好了。然后那些甚至那些老牌的音频厂商都在节节败退。就原先我们非常喜欢的像SONY之类的这些品牌，它的销售量也其实被手机厂商极度的在压缩。在这样我们叫他红海。在这样的一个红海市场里面，你是一个既没有之前没有做过耳机，没有积累，又不是一个非常知名的消费品品牌。然后你又想做一个卖的还挺贵的AI耳机，这个概念又不被用户所熟知。你凭什么能够在这么多竞争对手里面，如此之强的竞争对手里面杀出重围？</p>
-<p class="transcript-line"><span class="time"><strong>[00:33:04]</strong> </span><span class="speaker"><strong>发言人3: </strong></span>大家都有一个很深的问号，其实我们当年在做这个项目的时候，讯飞其实有几款产品做的已经比较成功了。但是那些成功的他们叫讯飞内部叫蓝海产品。比如说讯飞做比较长办公本办公本，然后录音笔翻译机这类产品，它有个共通的特点，就是原先这个赛道比较垂。这个市场虽然没有那么大，但是它没有被AI改造过。它一旦被AI改造过以后，它的这个效果立竿见影。同时讯飞做的这个产品确实不错，体验，这种质感各方面都不错。</p>
-<p class="transcript-line"><span class="time"><strong>[00:33:44]</strong> </span><span class="speaker"><strong>发言人3: </strong></span>他一下子就把这个行业里原先那些玩家一下子出现了碾压，我就变成了这个行业里边的头部。我一旦变成行业的头部，其实我们知道电子消费品里面有一个很重要的点。一旦你变成头部，你就有定价权。一旦你有定价权，你就来引领这个赛道。别人再去我可能会给你带来更多的流量，就是这个行业的后入者。这种方式对讯飞来讲，它就有一个很快的一个上升。</p>
-<p class="transcript-line"><span class="time"><strong>[00:34:09]</strong> </span><span class="speaker"><strong>发言人1: </strong></span>所以叫做讯飞的舒适区。</p>
-<p class="transcript-line"><span class="time"><strong>[00:34:10]</strong> </span><span class="speaker"><strong>发言人3: </strong></span>数据的舒适区在那儿。但是耳机不是这种赛道，其实上来就是红海赛道。所以一坐就是大家觉得，天哪。要跟这么多竞争对手去竞争，你没有足够的钱，没有足够的优秀的供应链和足够的资源，你凭什么能够竞争的过吗？这个问题是很自然的对。</p>
-<p class="transcript-line"><span class="time"><strong>[00:34:29]</strong> </span><span class="speaker"><strong>发言人1: </strong></span>那那这个我也很好奇，就是在讯飞大家都看到那么多困难，你也是讯飞的一份子。但是在那个时候你哪来的勇气呢？就这些困难你都看得到梁静茹给的吗？</p>
-<p class="transcript-line"><span class="time"><strong>[00:34:39]</strong> </span><span class="speaker"><strong>发言人3: </strong></span>那时候确实也听过梁静茹，这也不说了。确实这个是一种一方面是对未来的一种相信。那个时候就觉得AI这个东西，它还是有进一步去发展的空间的。我们那时候看的科幻电影，大家很多时候对耳机的灵感是来自于有一部科幻电影叫贺还有流浪地球，就是戴着耳机就能自由交流。</p>
-<p class="transcript-line"><span class="time"><strong>[00:35:10]</strong> </span><span class="speaker"><strong>发言人3: </strong></span>就是我觉得会有一个逻辑，就是说这个事情会不会发生。你先问自己，我的答案是这些事情早晚都会发生，只不过是时间的问题。对，那这个时间合适不合适，无非是要回答这样的一个问题。然后我觉得这是对于未来的一个我比较坚定的相信这件事情一定能成功。而且我觉得这个事情，虽然我那时候不知道transformer，但是我觉得这个事儿应该是有机会能解决的。因为我我们在讯飞里面也有机会接触一些顶尖的科学家，接触一些顶尖的算法人员。他们也认为这个东西未来有机会。剩下的就是你怎么能够熬到那个机会的那个时间点。</p>
-<p class="transcript-line"><span class="time"><strong>[00:35:50]</strong> </span><span class="speaker"><strong>发言人3: </strong></span>就是我觉得耳机这个东西不是说有这么多竞争对手就铁板一块。我自己的思考就是虽然是红海，但红海里面还是有机会能找到一些垂直蓝海赛道的。当时给我比较大的一个启发的公司有两家，一家就是韶音，一家是饮食。这两家公司做的都非常好。哨音你想如果耳机是一个已经被打完的战役，那韶音是怎么？虽然他十几年，但是其实它的爆发，包括他的他这个骨传导的垂直的这个领域能一直做的非常好。这个规模是非常大的，而且是在强手如林的市场里面，他做了一个运动耳机。这个运动的耳机它是非常独特，非常垂直的。就是说你有苹果耳机，你可能在运动的时候还会想到你要拥有一副运动耳机韶音的运动耳机。</p>
-<p class="transcript-line"><span class="time"><strong>[00:36:41]</strong> </span><span class="speaker"><strong>发言人3: </strong></span>这就给我很大的启发，就是虽然是红海，但是红海中还会有一些新的场景出现。这些场景你有没有及时的去发现，有没有及时的去捕捉到这个机会。就是我觉得红海依然有机会，这是我觉得另外一个就是饮食，饮食其实当时大家也看到了，其实当时我印象中在1几年、17年、18年的时候，大家用的是go pro，他就是把go pro又做了体验的这种提升，先学习再超越。实际上我觉得现在的饮食的这个体验，我们非常自豪的讲，它已经是超越了远超go pro的体验。那就是说这个行业里就算是最牛的企业，它的创新也不一定能够那么及时。这里面就一定会有这种后代后浪超越前浪的机会。我就觉得这个一个是赛道，一个是创新的机会，我觉得还是有可能。</p>
-<p class="transcript-line"><span class="time"><strong>[00:37:38]</strong> </span><span class="speaker"><strong>发言人3: </strong></span>第三个就是我刚才提到的，就是那些用户数据已经验证过了。其实当时有一个现象，就是不瞒大家说，就是用户用完我们的这个产品，大家骂并用着骂的时候，就是说你这个耳机怎么这么难看，这个质感怎么这么差，然后这个音质怎么这么烂，这些东西都是骂耳机的，但是这个功能还有人一边骂一边用。这个就给了我一个动力，就是说我只要把耳机再做好，是不是这个AI的这个功能就能够更广泛的得到那种传播。一旦这个耳机做好了，大家觉得口碑好了，口碑好就会告诉周围的人，我们当时的那个耳机做的不好，大家说用，但是不会告诉别人，因为这个东西太难用了，不好意思推荐给别人。但如果这个耳机做好了，那你就有机会去推荐给别人，那么就有可能实现一个从0到1的这样的一个快速增长。所以可能有这三点底气，然后就有这样的一个想法。对。</p>
-<p class="transcript-line"><span class="time"><strong>[00:38:30]</strong> </span><span class="speaker"><strong>发言人2: </strong></span>是我觉得你说的耳机这个市场的这个特点真的还挺有意思的。就是可能我们很多人都有一个苹果耳机，但是你有可能还有一个别的，而且这个里面还有那种头戴式。是还有这个市场像那个一家的培育，他那时候出来创业做的第一个产品也是一个耳机，nothing的第一个产品就是一个耳机，做的非常漂亮。是的，那你担不担心像比如说苹果这种厂商，我往里面加一个AI的功能。</p>
-<p class="transcript-line"><span class="time"><strong>[00:38:57]</strong> </span><span class="speaker"><strong>发言人3: </strong></span>其实事实上它已经在加了。其实刚才我们那个话题讲过了，就是翻译的功能它已经在海外加了。只不过因为我们现在国内的需要做一些合规各方面的东西，它还没有正式进入国内。所以我是觉得翻译这种大型的功能，苹果一定会加的，华为也一定会加的，所以三星这些巨头一定会加的。但是你要想把这个AI记录的这个东西做做深做细，那苹果需要可能杀鸡用牛刀的这个逻辑就立在这儿。所以我觉得短时间内这些巨头应该也不会去做这么细的东西，因为它相当于是在抢应用的这个份额。他应该做的就是把这个台子搭了，然后大家都是来去做这些垂直的应用。所以我是不是太担心像这种超级巨头硬件公司去做我们做的这个赛道？</p>
-<p class="transcript-line"><span class="time"><strong>[00:39:44]</strong> </span><span class="speaker"><strong>发言人2: </strong></span>对，但是与此同时，比如说像我们刚刚录之前，我会在GPT你给我推荐几款AI耳机。对，是他推荐了，当然有你们前几个。其实都是中国品牌。是是是对，另外两家是深圳的公司。对对对。</p>
-<p class="transcript-line"><span class="time"><strong>[00:39:58]</strong> </span><span class="speaker"><strong>发言人3: </strong></span>这个是其实正宗的我们的竞争对手。一个行业如果没有竞争，这个公司肯定也不会有多么有活力，对不对？我一直相信大家只有竞争才能给用户提供更好的体验，对吧？你做了一个好产品，我要比你做的更好，我才能给争取到我们用户的心。所以我是不排斥这些竞争的那至于说大家对于这个未来的思考，其实是这个比拼的一个关键。</p>
-<p class="transcript-line"><span class="time"><strong>[00:40:25]</strong> </span><span class="speaker"><strong>发言人3: </strong></span>就是你能不能想到他可能会学我们现在做的东西，因为这些东西都是公开的，也没有什么秘密。但是他能不能学到我半年以后做的产品？他能不能学到我一年以后再做的产品？他能不能理解我对于未来的这样的一个认知，或者他认不认可，他即使理解了，他认不认可这个认知都是一个问号。</p>
-<p class="transcript-line"><span class="time"><strong>[00:40:45]</strong> </span><span class="speaker"><strong>发言人3: </strong></span>所以我觉得我们会愿意跟这些AI耳机公司去竞争，最后可能大家都是很多的水下的非共识，就像您刚才提的那个问题，耳机是共识，但是做什么样的耳机是非共识。我们在过程中不断的去叫去伪存真然后再不断的修正我们自己的观点，最后能够大家都能够给用户一个更好的体验。同时我们在过程中也检验我们自己的对未来的这种叫理解也好，对未来的认知也好，到底对还是不对。</p>
-<p class="transcript-line"><span class="time"><strong>[00:41:14]</strong> </span><span class="speaker"><strong>发言人1: </strong></span>你会觉得你们主要的竞争对手是那些AI耳机们，还是其实是其他形态的AI硬件，然后也不得不提各种录音卡的产品。是是是，所以你会怎么看你们的整个竞争的一个格局？</p>
-<p class="transcript-line"><span class="time"><strong>[00:41:27]</strong> </span><span class="speaker"><strong>发言人3: </strong></span>对我觉得大家都是一种叫竞合关系。我们对未来的一个理解，就是我们其实现在在做什么。其实在这一代transformer做得很好的情况下，其实就是说如果把AI比作人的大脑，那么这个大脑比起上一代人工智能有非常显著的升级。还有推理能力，有逻辑能力，有一些问题的解决能力了。</p>
-<p class="transcript-line"><span class="time"><strong>[00:41:48]</strong> </span><span class="speaker"><strong>发言人3: </strong></span>其实大脑变强了，大脑变强了，那下一步你能去让这个大脑变得更强吗？这个东西一般都是基膜去做的，就是基础大模型去做的事情。基础大模型做好了，上面的应用就会变得更强。然后上面的应用变得更强，上面的agent就会变得更强。其实这是一个一个一个一个链，就是内核是基础大模型，然后现在很多人在做围绕基座大模型的细分市场的这个细分服务。这个是调教型的这个大模型就是在说是这个叫后调教，叫预训练模型。后训练模型再往外一层是agent然后利用各种各样的功能去做一些任务流的闭环。我是觉得基座大模型会把大脑做的足够好。</p>
-<p class="transcript-line"><span class="time"><strong>[00:42:34]</strong> </span><span class="speaker"><strong>发言人3: </strong></span>那下一步是什么？其实大家普遍忽略了一点，就是基座大模型他要跟人去交互。现在附着的主要的硬件载体是手机和laptop，这两个东西已经是巨头早就已经闭环的东西了。那么它还有什么东西能够手机和laptop不一定方便使用的情况下，怎么来获取这些数据？就像我们现在这个访谈，可能就不适合把这个手机打开或者把电脑打开。可能我们这个领夹上这个麦就起到了把物理世界的信息变成数字世界的比特的这样的一个工作。</p>
-<p class="transcript-line"><span class="time"><strong>[00:43:10]</strong> </span><span class="speaker"><strong>发言人3: </strong></span>然后后面就是大模型开始处理。本质上这个东西是什么？我们做的东西是什么？稍微抽象一点，其实是大模型的耳朵和眼睛。耳朵和眼睛，比如说卡片式的，其实是贴在手机背后的耳朵，对吧？然后有人在做眼镜，眼镜可能是长在脸上的眼睛。对，这个可能放在桌上的那个音箱就是一个放在桌面上的眼睛加耳朵。对，本质上都是这个东西。</p>
-<p class="transcript-line"><span class="time"><strong>[00:43:38]</strong> </span><span class="speaker"><strong>发言人3: </strong></span>所以我觉得大家在本质上在竞争的是让这些耳朵和眼睛谁能更好地伴随着我们的用户。然后一旦伴随的时间足够长，获取的这个垂类的数据足够的精准，那么这个人工智能大脑就开始给你处理的能力就会变得更强。最后就变成一个双向促进的一个作用。</p>
-<p class="transcript-line"><span class="time"><strong>[00:44:02]</strong> </span><span class="speaker"><strong>发言人3: </strong></span>这是我觉得这一轮AI硬件以随身个人消费的这个AI硬件为基础的这样的一个创业的核心逻辑，我们就从耳机开始，有些竞合对手就会从这个卡片开始，有些会从音箱开始，最后大家的这个汇聚点都是一样的。所以比拼的是谁能够更长久的去伴随用户。更长久的伴随用户，你不可能用一个非常违和的东西陪着他，对，那你一定要更贴合他的日常的使用习惯。这就是为什么我们知道前一阵硅谷出了好多非常有想象力的产品。</p>
-<p class="transcript-line"><span class="time"><strong>[00:44:42]</strong> </span><span class="speaker"><strong>发言人1: </strong></span>都失败了。</p>
-<p class="transcript-line"><span class="time"><strong>[00:44:42]</strong> </span><span class="speaker"><strong>发言人3: </strong></span>比如的AIP，AIP别在胸口上的，然后还有挂在脖子上的，都不是非常的成功。为什么？因为这种硬件的形态是让用户先去理解它，然后再慢慢去接纳他。然后在这过程中接纳的前提条件是带来高价值，才能形成这样的一个闭环。当这两样东西都不太强的时候，这个产品就卖的不够好。</p>
-<p class="transcript-line"><span class="time"><strong>[00:45:07]</strong> </span><span class="speaker"><strong>发言人3: </strong></span>但是耳机可能现在已经验证的一些形态，它为什么能卖好呢？因为它本身是一个很好的耳机，然后它又伴随着你能够去工作开会，这是我觉得他就能够成功的一个核心的逻辑。所以我们跟这些做硬件的这个背后，我认为大家的逻辑慢慢从非共识变成共识的。</p>
-<p class="transcript-line"><span class="time"><strong>[00:45:26]</strong> </span><span class="speaker"><strong>发言人3: </strong></span>是在这一点上，就是大家都愿意都要去做AI的耳朵和眼睛。谁做的更精准，信息捕捉的更清晰，那么就谁就能够长期占住用户的身上的这些配件。谁就能够获得更好的数据。获得更好的数据就能让AI去迭代的更快，服务价值就更高。这两件事情就循环起来了。这就是我们自己给公司站定的这个叫双引擎的战略。对对对，大概是这样。</p>
-<p class="transcript-line"><span class="time"><strong>[00:45:53]</strong> </span><span class="speaker"><strong>发言人2: </strong></span>对你会怎么想你呢？这个品牌的就是这个品牌效应应该是什么？因为我说实话，比如说我刚才说问ChatGPT的那个问题，他给列给我三个，其实说实话感觉都差不多。</p>
-<p class="transcript-line"><span class="time"><strong>[00:46:06]</strong> </span><span class="speaker"><strong>发言人3: </strong></span>那可能就是我们还不够努力，没有足够的区分度，这个也实话实说，这个创业毕竟是慢慢从小的草台班子变成一个更大的草台班子，是不是？越越做也是这样的，所以我们也在不断加强这方面。但是我觉得一个产品的气质跟他的这个创始团队是另link到一起的，他们要解决的问题是link一起的。我们可能不会去走那个时尚的路线，我们想给用户的是那种踏实靠谱。我们的这个产品从day one开始，就是商务人士就是一种比较皮实耐用的东西，给我留下很深的印象。虽然你像比如说早期的这个IBM这个thin pad的电脑，我就很喜欢。就是我当当年当年刚毕业的时候，我的梦想就是拥有一台thinkpad。</p>
-<p class="transcript-line"><span class="time"><strong>[00:46:50]</strong> </span><span class="speaker"><strong>发言人1: </strong></span>我也是是吧？那现在自己赚到钱就买了一个thinkpad s thinkpad有一些。</p>
-<p class="transcript-line"><span class="time"><strong>[00:46:55]</strong> </span><span class="speaker"><strong>发言人3: </strong></span>小红点的那个。对，那个时候苹果还是个小众产品。Thi nk pad是那种真正的那种工程师也好，金融人士也好，他们首选的产品。对，就是他给别人一种我不管经历什么样的东西，在多么复杂的环境下，这个thinkpad都能表现得非常的稳定靠谱，给你一种很踏实的感觉。</p>
-<p class="transcript-line"><span class="time"><strong>[00:47:18]</strong> </span><span class="speaker"><strong>发言人3: </strong></span>我其实一直带着这样的一种心态去做产品的。就是我们的产品希望给用户的是那种拿起来就能用，就不会出问题，然后给你一个高精准的这种服务。毕竟我们服务的是商务人士，又是高净值的，然后他对体验要求也非常苛刻。所以我是希望能够做出这样的东西来区别于跟其他的的这种竞品的这样的一个差异。同时这样的一个气质也跟我们未来的那个战略也是link到一起的。</p>
-<p class="transcript-line"><span class="time"><strong>[00:47:47]</strong> </span><span class="speaker"><strong>发言人3: </strong></span>我们想做一个靠谱的助理。现在大家也都知道AI是有幻觉的，就是讲来讲去是给你一些乱七八糟的答案。我们在在所有的AI的记录生成过程中，我们是用了一些我们自己的模型技术，想尽办法去控制AI的这种幻觉，让它做到非常的精准，来自于你的记录，然后这些东西是一脉相承的一种感觉，就是能够让我觉得整个AI靠谱。</p>
-<p class="transcript-line"><span class="time"><strong>[00:48:16]</strong> </span><span class="speaker"><strong>发言人3: </strong></span>然后我们也在主动收敛我们的范围，因为早些年我的经历里也做过智能助理。智能助理最大的失败就是他告诉用户他什么都能干，但是每干一样都干得非常的平庸，甚至是不能干。用户的这种需期望和他实际获得的体验之间是个断崖式的下降。我们就把我们的这个AI助理就限定在我是在做办公这个方向，或者是从记录开始的这个办公的方向。先把这个最简单的工作给你做的足够扎实，足够的靠谱，再往后慢慢的去延伸到你的工作的各个领域，这样足够精准，就有点像这种品牌气质。我一直力图我们的可能您在后面观察一下，我们公司可能明年后今年的年底，明年推出的产品就会越来越接近我描述的这样的一个状态。</p>
-<p class="transcript-line"><span class="time"><strong>[00:49:06]</strong> </span><span class="speaker"><strong>发言人1: </strong></span>所以现在还有一个大家的做产品的路径是24小时持续的录音，或者在24小时之内，每过五分钟就拍一段小视频。我们之前其实也访谈过rookie，然后我们之前还有一期内容是和在硅谷的鸭哥，一个dick OK超级大geek OK他自己把apple watch改造成了一个24小时录音的设备。他把go pro改造成了一个每过几分钟拍一下环境。</p>
-<p class="transcript-line"><span class="time"><strong>[00:49:35]</strong> </span><span class="speaker"><strong>发言人3: </strong></span>挂在这个地方，挂在自己的胸前。</p>
-<p class="transcript-line"><span class="time"><strong>[00:49:38]</strong> </span><span class="speaker"><strong>发言人1: </strong></span>对，就用AI的。大脑给他装上眼睛和耳朵。所以我比较好奇的一个是你怎么看这个24小时always on就记录一切这样的一个有些人在做的创业方向。</p>
-<p class="transcript-line"><span class="time"><strong>[00:49:53]</strong> </span><span class="speaker"><strong>发言人3: </strong></span>这个就比较aggressive了，就是非常的极限。就是我觉得硅谷有这个气质，就是硅谷会引领很多的潮流。而且我不否认到了一定的阶段，这个事儿有可能会变成一个主流。现在一定是一个非常早期的一个非主流行为。</p>
-<p class="transcript-line"><span class="time"><strong>[00:50:10]</strong> </span><span class="speaker"><strong>发言人3: </strong></span>因为第一用户非常关注隐私。前两天刚刚有一个小故事，某品牌的眼镜，在饭局上眼镜的主人吹嘘了一番这个产品的功能，然后饭局就凉了，因为这个大家就不能说话了，其实大家人类对隐私的关注其实非常高的。但我们去做的东西就是我我我不可否认AI去陪着你听，陪着你看，一定是个趋势。硅谷会想的更远一点，会想的更极限一点。但是现在到未来的这个路径上，一定要克服很多很多的问题。除了技术问题，续航问题也好，还有这种清晰度的问题也好，还有内容理解的这种足够有效性也好。这些东西都需要很多的技术难点和道德伦理，甚至人类社会的这种接受度的这种跨越。</p>
-<p class="transcript-line"><span class="time"><strong>[00:51:05]</strong> </span><span class="speaker"><strong>发言人3: </strong></span>我现在要做的是什么？我们我们比较务实，就我们一直继承了这种务实的心态。就是我先把你工作上你需要记录的东西先做好，先把你生活中一共三个八小时，睡觉8小时、工作8小时和生活8小时。我先别贪那16个小时什么都想干，甚至睡觉的8小时我也要记一下子。</p>
-<p class="transcript-line"><span class="time"><strong>[00:51:26]</strong> </span><span class="speaker"><strong>发言人3: </strong></span>我先把这个工作8小时里面最重要的一些点，你最需要的，你用完以后就能感觉到这个东西有价值的这些点先做了。然后慢慢的再去接近刚才那些硅谷大神们去描述未来，我觉得这样会务实一点。对我不我不否认我觉得这种勇敢的创新，但是我觉得我们会选的路是一种比这个往前一小步的这样的一种创业逻辑去做这个事情。</p>
-<p class="transcript-line"><span class="time"><strong>[00:51:56]</strong> </span><span class="speaker"><strong>发言人1: </strong></span>另外一个方向，就是刚才你也提到就是你会被电影和里面这个耳机的用法所感染。甚至好像有一种因为相信所以看见，因此我要创业的这个逻辑在里头。是但你们没有再去做这个方向，就一个陪伴式的耳机。</p>
-<p class="transcript-line"><span class="time"><strong>[00:52:12]</strong> </span><span class="speaker"><strong>发言人3: </strong></span>是我们做了AI的交互，但还是围绕着你办公的内容。就是未来我们的除了耳机以外还会有其他的硬件，你都可以跟他交互。但交互的内容我再也不想做一个什么都知道的这样的一个产品了。因为我以前就干这个，我是做了中文的第一个和siri一样的这个产品，那时候科大讯飞有这个实力能做这个东西。</p>
-<p class="transcript-line"><span class="time"><strong>[00:52:33]</strong> </span><span class="speaker"><strong>发言人3: </strong></span>我做了以后我们发现有很大的一个瓶颈在里面。第一整个的当年的AI的对人类的语言的理解能力差很多。对，就是你给他说十句，可能有八句他不理解。现在这件事情已经解决的7788了。我认为当时的一个瓶颈现在已经解了，但是后边几个瓶颈还是没解。</p>
-<p class="transcript-line"><span class="time"><strong>[00:52:54]</strong> </span><span class="speaker"><strong>发言人3: </strong></span>第一这个服务的贯通能力这个是做不到的。就是你我举个例子，比如说我们当年费了九牛二虎之力想搞一个语音订机票的事情，最后也搞了一个试点的一个接口，但是很快就被停掉了，跟某些这种在线服务平台去提供服务。但为什么呢？因为在线服务平台的逻辑是，他不希望你的这些数据接口能够深入到它内部的交易流程里面去。他不愿意开放他的数据。本质上他是不愿意开放自己的数据的那这种行业里边，每一个行业都有一个巨头。比如说外卖，我想用语音点外卖，我必须跟谁合作，这个不用说了对吧？我想要语音订机票，或者是甚至用AI去订机票，别说用语音了，语音还是都落后了。</p>
-<p class="transcript-line"><span class="time"><strong>[00:53:40]</strong> </span><span class="speaker"><strong>发言人3: </strong></span>用AI去给我做做agent，他必须要打穿很多的商业环节，这些商业环节目前其实是打不穿的，大家不会把自己的接口就随意的给到你们。当然现在有MCP有什么就跳过，用屏幕遥控的方式，有各种各样的方式。这其实都不是那种非常有效的路径，其实都可以被被封掉或者怎么样的。所以我认为这个商业的环境里面不具备做大而全的助理。</p>
-<p class="transcript-line"><span class="time"><strong>[00:54:07]</strong> </span><span class="speaker"><strong>发言人3: </strong></span>但是反过来，你把它缩得足够小，你就发现它可以做了。比如说我们当年也做过车载这个智人工智能助理，那车载里面就四个场景，导航、这个设置，车的各种什么空调这些东西。然后内容点播，就是听音乐什么的。第四个是通信，给谁打电话或给谁发消息怎么样，他就解决这四个。而且车机已经把这四个的这些接口都打通了7788了。这时候你再叠加一个智能助理的交互就很有用了。这是我觉得这个里边这个商业生态上暂时他不会能work的。</p>
-<p class="transcript-line"><span class="time"><strong>[00:54:42]</strong> </span><span class="speaker"><strong>发言人3: </strong></span>这两点你一旦不work，你又推向了这种服务用户，用户的需求你不可控，因为你用户可能跟这个智能助理做任何的交互，一旦发现这个不好用，他就体验断崖式的下降。他不会按照你设计好的路径。因为APP是你设计好的，你要按这个按钮就一定会产生这个结果。但智能交互或者是AI交互，它不是这样的，大量的内容是浮在水下的。它可能给你一个小点，就是一个界交互界面了。</p>
-<p class="transcript-line"><span class="time"><strong>[00:55:09]</strong> </span><span class="speaker"><strong>发言人3: </strong></span>剩下的东西你全部要你自己去开发。这个过程其实是一种现在的交互不太能够去满足用户的这样的一个现状，这是一个很重要的一个问题。即使这个问题有一定的解，你是不是能够有效的把这些服务整合起来，并且能够提供这种非常闭环的体验。这些东西都有太多的不确定性，所以我们的选择是做垂直，比较务实。</p>
-<p class="transcript-line"><span class="time"><strong>[00:55:34]</strong> </span><span class="speaker"><strong>发言人1: </strong></span>应你刚才提到你们接下来会发一些硬件产品的。</p>
-<p class="transcript-line"><span class="time"><strong>[00:55:37]</strong> </span><span class="speaker"><strong>发言人3: </strong></span>这个确实在保密研发。但是我可以讲一些逻辑，还是回到我们的大逻辑，就是我们应该在我们不是要做软硬件一体化最好的这个办公助理，所以它一定是跟办公有关的一些硬件产品。同时这个硬件可以现在的产品不能够很好的满足用户的需求。我们用AI去赋能他以后，能让他做成一个完全不一样的东西。然后同时又有一定的伴随性，让更多的用户能够随时随地带着这个设备，能够解决他的办公问题。</p>
-<p class="transcript-line"><span class="time"><strong>[00:56:09]</strong> </span><span class="speaker"><strong>发言人1: </strong></span>我听起来就是耳机。</p>
-<p class="transcript-line"><span class="time"><strong>[00:56:12]</strong> </span><span class="speaker"><strong>发言人3: </strong></span>耳机是其中一个形态，还会有OK打开想象力，但是确实受制一些。我因为我们现在公司对也确实有一些，这个大家都很关注，我们还是要保留一点点神秘感。对对对，今年年底明年年初大家会看到一些产品。</p>
-<p class="transcript-line"><span class="time"><strong>[00:56:29]</strong> </span><span class="speaker"><strong>发言人2: </strong></span>今年AI硬件这个创投行业非常的火热。你自己的实际的体感是什么样子？体感非常的融三轮体感应该很强烈。</p>
-<p class="transcript-line"><span class="time"><strong>[00:56:39]</strong> </span><span class="speaker"><strong>发言人3: </strong></span>体感很强的体感很强烈。但是这一年融三轮背后是三年没开张，满打满算，我们是对这个就是开玩笑，这个说的有点夸张，就是21年我们其实从我们公司正式完全剥离，然后独立运营是22年的1月1号。我们其实从21年的下半年就开始做这种筹备，做新品的筹备。如果把那个时间也算上，你看21年、22年、二三年，其实整个AI硬件是挺冷的一个状态。你们各位也是有这种体感的。我印象中21年没有大模型。那个时候我们提的这些我们的这些创业的理念，可能大家就基本上因为我21年的年底就开始尝试去融资了。那时候我是个素人，在很融资行业那属于素人，完全是误打误撞进去的。然后我就聊了好多投资人，可能一方面也是我们自己的实践经验也不够，那就很多人就觉得不太值得去投。</p>
-<p class="transcript-line"><span class="time"><strong>[00:57:41]</strong> </span><span class="speaker"><strong>发言人1: </strong></span>那个时候听到AI就等于赔钱还。</p>
-<p class="transcript-line"><span class="time"><strong>[00:57:43]</strong> </span><span class="speaker"><strong>发言人3: </strong></span>对对对，你说的太对了，就是那种体感非常冷，非常冷，22年也基本上这样的一个状态。二三年发生了不一样，二三年的时候就AI就是完全不一样了，因为我印象特别深，就是这个OpenAI带起来这波浪其实是，但是二三年大家的方向不是应用，是大模型。我印象中当时的那个大量的这种江湖，已经退休的老同志们都出来创业了，就又来了一波对吧？这个大模型六小龙等等等等。</p>
-<p class="transcript-line"><span class="time"><strong>[00:58:17]</strong> </span><span class="speaker"><strong>发言人3: </strong></span>就是那个时候是那个状态，那时候也有人劝我们说，你们要不要搞个大模型？你们也从讯飞里面出来，稍微有点这个背景能不能搞？我们一看那玩意儿我们肯定搞不了。那不是第一，不是我们的基因，那个东西还巨烧钱。第二个就是我们那个时候就有推理，推理是什么呢？大模型的底层transformer这套就你说的这套原理，其实很多年前就被发明了。只不过是因为算力的这种极度膨胀让这件事情变可行了。</p>
-<p class="transcript-line"><span class="time"><strong>[00:58:45]</strong> </span><span class="speaker"><strong>发言人3: </strong></span>就是predict next token这个逻辑被验证了。原先是没有这么多算力，他做不出这个东西来。那你要做这事儿，你就必须有足够多的算力，这件事我们根本不可能做。我们自己有很强的自知之明，所以我们就继续守着我们这个应用的这个赛道。</p>
-<p class="transcript-line"><span class="time"><strong>[00:59:01]</strong> </span><span class="speaker"><strong>发言人3: </strong></span>但是开始有一些比较有远见的投资人，他们也在推理说，大模型算力、算法和数据这三样数据大家你有我也有，就是这种通用的训练数据？算力比谁多？算法上会有不一样。但是大家看一下现在的这种大模型，它各有千秋。但是总体来讲，它没有next level的创新，对吧？Clock cloud, ChatGPT，他们的这个背后差不多，就是国内的这个也差不多，当然也会有优秀的，这个确实是有一定分歧，但是没有出现这种比如说五倍十倍的这种差距。那在这种情况下，他们一定会变成同质化的东西。</p>
-<p class="transcript-line"><span class="time"><strong>[00:59:46]</strong> </span><span class="speaker"><strong>发言人3: </strong></span>我的理解就是未来大模型这种能力基座。大模型有点像自来水管一样，你拧开你拧谁的就用谁的。但是最核心的是你用这些水干什么用，所以我们就继续沿这条赛道，可能有一些相对有眼尖的投资人，已经开始在看这个事情，就是感觉稍微有点回暖。二三年的下半年，我觉得理解成二三年的5 6月份之后。</p>
-<p class="transcript-line"><span class="time"><strong>[01:00:07]</strong> </span><span class="speaker"><strong>发言人2: </strong></span>那你对这个就是这一轮融资的这个数额有什么，就是当时在考虑的时候有什么具体的一些想法？我觉得首先肯定就市场上抓住这个机会，这个时间窗口肯定很快就可能很快就过去了。对对对，就抓住这个机会先融一些钱。但是对创业公司来说，其实有的时候你融太多钱也不是一个好事。所以你要怎么就是要既要抓住这个时间窗口，与此同时要融一个合理的量。这个合理你自己怎么算？</p>
-<p class="transcript-line"><span class="time"><strong>[01:00:33]</strong> </span><span class="speaker"><strong>发言人3: </strong></span>我基本上是算我们的营收基本上是按照PS的几倍来算，所以我们现在估值不是很高。相比于目前行业里边跟我们一起跑的，可能已经叫价是我们的5倍到10倍了。是投资人把钱给到我们，其实是对未来的一项投资。你一定要给投资人回报和创造价值，给股东创造价值是公司天经地义应该做的事，所以你一定要有把握的时候再去融。</p>
-<p class="transcript-line"><span class="time"><strong>[01:00:59]</strong> </span><span class="speaker"><strong>发言人3: </strong></span>我们基本上是认为我们的收入能看到哪个档位，我们不会估一个非常高的一个值。就是因为我知道这些钱大家是信任你，你一定要在一段时间内去兑现。在没有看到这个行业发生一个天翻地覆的变化的时候，你就不应该要那么多钱。所以这是我的一个基本理念，就是我有多少能力我能兑现，在未来1到2年能兑现我的业绩的时候，我再去融这笔钱。我确实不是觉得他确实是个风口，我们赶上了。但是我觉得一个稳健的公司，一个本分的公司，其实还是需要回归到理性的。就是你该值多少钱，大概是多少，就不要去盲目的降价。很多就是原先互联网那个逻辑，就是说的不好听一点，硅谷那边过来的这个风气，比如说fake IT you make IT，就是我先有足够的钱是吧，我然后我再想办法解决这个问题。</p>
-<p class="transcript-line"><span class="time"><strong>[01:01:53]</strong> </span><span class="speaker"><strong>发言人1: </strong></span>就是你现在应该在市场上会遇到一些这个竞争对手。对，他们就可以在可能产品什么都没有的情况下，11亿美金的估值。</p>
-<p class="transcript-line"><span class="time"><strong>[01:02:01]</strong> </span><span class="speaker"><strong>发言人3: </strong></span>对。</p>
-<p class="transcript-line"><span class="time"><strong>[01:02:01]</strong> </span><span class="speaker"><strong>发言人1: </strong></span>然后拿到很多的子弹是吧？然后。Fait to make fake to make IT.</p>
-<p class="transcript-line"><span class="time"><strong>[01:02:05]</strong> </span><span class="speaker"><strong>发言人1: </strong></span>对。那你会害怕这样的竞争吗？你会担心自己没有去利用好这个泡沫，从而失去一些竞争优势。</p>
-<p class="transcript-line"><span class="time"><strong>[01:02:12]</strong> </span><span class="speaker"><strong>发言人3: </strong></span>我不会，我觉得不会。就是至少在硬AI软硬件一体化领域，这个逻辑未必走得通。软件可以快速扩张，快速有一个膨胀，然后再填一些非常优秀的人，然后快速实现用户的瞬间暴涨。这个逻辑其实在互联网是可以验证的。但是在一定是大家有种惯性思维，就是投惯了互联网企业，它总觉得AI和互联网一样，是一个急速膨胀的一个市场。我就应该按照互联网的逻辑去估硬件公司的值。但是其实这个世界永远是不一样的，它的底层逻辑发生了变化的时候，你不能用上一个时代的逻辑去框下一个时代的一个业态。</p>
-<p class="transcript-line"><span class="time"><strong>[01:02:58]</strong> </span><span class="speaker"><strong>发言人3: </strong></span>硬件是什么？硬件和互联网。为什么好多互联网公司做硬件都不太成功？就是他用互联网思维做硬件，他忽略了非常重要的一些东西以后，就导致他急功近利，然后就会失败。我就不举一些知名公司的例子了，为什么呢？</p>
-<p class="transcript-line"><span class="time"><strong>[01:03:14]</strong> </span><span class="speaker"><strong>发言人3: </strong></span>互联网产品一旦发布了，它是一个核心逻辑叫长板原理。就是我有一个功能特别吸引你，然后其他的功能用户骂没关系，我第二个版本就迭代，第三个版本就迭代很快，一迭代就迭代出去了。硬件不是一旦发布了，用户在某一个功能点上不喜欢，或者是觉得吐槽，或者是有致命的缺陷。研发、开模、试产、销售的库存全部像山一样压倒过来。可能你成功的做三代产品，有一代产品做失败了，完蛋了，你没有办法及时修正你的所有的错误。所以用互联网那种非常快的那种逻辑去做事情是不对的。</p>
-<p class="transcript-line"><span class="time"><strong>[01:03:56]</strong> </span><span class="speaker"><strong>发言人3: </strong></span>做硬件是要首先考虑用户价值，考虑市场。所以用互联网的估值去套AI软硬件或者AI硬件公司，我认为这个逻辑始终不成立。所以我一点不担心这个融了很多钱。首先融了很多钱，它不可能像软件一样迅速推出一些新产品。他还要依托于它的硬件，它的硬件怎么卖呢？他还要打开他的销售渠道，线上一点点的做用户运营，然后去做线上营销，然后打自己的品牌。除了品牌上它子弹会丰富一点，可能会快一点。但是这些基本工作还是要去做的。</p>
-<p class="transcript-line"><span class="time"><strong>[01:04:35]</strong> </span><span class="speaker"><strong>发言人1: </strong></span>所以你觉得他融了更多的钱，并不能加速这个竞争力了。</p>
-<p class="transcript-line"><span class="time"><strong>[01:04:38]</strong> </span><span class="speaker"><strong>发言人3: </strong></span>会加速一点点。但是它不会是这个事情的本质因素。在互联网中我一下子我缺团队，我这个商业模式已经验证成功了。我只需要把我的团队扩十倍，把我的用户扩大概100倍。然后我的因为用户的这个up值就是回报值，它可以算出来。</p>
-<p class="transcript-line"><span class="time"><strong>[01:04:55]</strong> </span><span class="speaker"><strong>发言人3: </strong></span>然后我变成一个交易平台。一旦我形成垄断，我把别人挤走了，那我就变成了这个行业里边的买路钱的交通枢纽，对吧？我们可以看到这个电商，电商就是说我必须挤掉其他的乱七八糟电商，我才能变成交易双方的一个平台。现在我们的就类似于这种内容平台也是一样的。对用户有提供内容的和获取内容的两类，我必须变成这个行业最大的，所有人都在我这儿交易内容。</p>
-<p class="transcript-line"><span class="time"><strong>[01:05:25]</strong> </span><span class="speaker"><strong>发言人1: </strong></span>那我就赢了。因为它有数据飞轮和网络飞轮。</p>
-<p class="transcript-line"><span class="time"><strong>[01:05:28]</strong> </span><span class="speaker"><strong>发言人3: </strong></span>对，但在硬件里面不是这样的飞轮，但不是这个飞轮。</p>
-<p class="transcript-line"><span class="time"><strong>[01:05:31]</strong> </span><span class="speaker"><strong>发言人1: </strong></span>我比较好奇的就是听起来其实你有机会用更高的估值拿更多的钱。</p>
-<p class="transcript-line"><span class="time"><strong>[01:05:36]</strong> </span><span class="speaker"><strong>发言人3: </strong></span>那其实可以。</p>
-<p class="transcript-line"><span class="time"><strong>[01:05:37]</strong> </span><span class="speaker"><strong>发言人1: </strong></span>所以其实别人这么做，有可能你会觉得他拿了钱，他如果从0到1他也没办法，这个就是什么跳级对吧？从小学生直接因为拿了钱就变成初中生。但对你来说，其实你去追求一个更高的估值，手里拿更多的子弹，你是不是可以做的更快呢？或者你至少把市场上的钱拿了，别人拿不到，这也是某种竞争的策略？</p>
-<p class="transcript-line"><span class="time"><strong>[01:05:58]</strong> </span><span class="speaker"><strong>发言人3: </strong></span>我倒没想过是把市场的钱都拿了，我觉得我们的能力有限，可能拿不到市场的钱，因为市场钱非常的多。我就是我觉得我强调一个价值观，就是我们本分做好我们自己该给我们用户的价值这件事情一点一点的做，然后沿着一个正确的认知往前走，这件事情会慢慢成功的。这一点上我非常喜欢段永平他们讲的这个本分。</p>
-<p class="transcript-line"><span class="time"><strong>[01:06:21]</strong> </span><span class="speaker"><strong>发言人2: </strong></span>你刚刚说到AI硬件产品跟互联网产品的逻辑很不一样，感觉说到那里情绪很饱满。</p>
-<p class="transcript-line"><span class="time"><strong>[01:06:29]</strong> </span><span class="speaker"><strong>发言人3: </strong></span>因为之前我没讲，我其实讲了一半，其实硬件逻辑跟互联网是反逻辑。</p>
-<p class="transcript-line"><span class="time"><strong>[01:06:33]</strong> </span><span class="speaker"><strong>发言人2: </strong></span>就是你的这个领悟是大概什么时候得到的，以及你的那个比如说你的这一版产品可能做不好，你整个公司就完了。你有经历过那种马上就要面临这种时刻。</p>
-<p class="transcript-line"><span class="time"><strong>[01:06:43]</strong> </span><span class="speaker"><strong>发言人3: </strong></span>我在那个那那是在老东家时代，就是你这个产品真的做的不好就滞销了，滞销了就会向产生一个向下螺旋，就是越没有人愿意卖你的产品，你产品越卖不动，越卖不动，你没有任何投入去促销也好，去发动市场也好，就进入到一个负向螺旋，那个状态是非常糟的。所以做硬件风险是极高的。做硬件的逻辑，我刚才讲到互联网是长板原理，我稍微修稍微把它补充一下。做硬件是叫短板原理。你的能力取决于你最短的那块板，如果你哪块短，你一定会被硬件会被这个方向给制约住的，而且它是一个慢逻辑它是个慢逻辑。所以我是经历过您刚才讲的那个场景，就是我一个是看到自己经历过，然后我也看到别人经历过这个事情。像一些知名的大公司，非常有希望的收购了一些当时还是如日中天的企业，最后做的产品越来越差。最后不得不以大概10分之1的价格清掉那个库存的时候，真的像血的教训。</p>
-<p class="transcript-line"><span class="time"><strong>[01:07:50]</strong> </span><span class="speaker"><strong>发言人3: </strong></span>我再分享一个感觉，就是经销商因为硬件是需要渠道的。经销商是拿真金白银给你钱，然后进你的货，然后在他的渠要去销售的。这个里面经销商的信心是非常重要的。</p>
-<p class="transcript-line"><span class="time"><strong>[01:08:04]</strong> </span><span class="speaker"><strong>发言人3: </strong></span>你像互联网，我我我看过一个经典的错误，就是他们做了一个产品，卖的不太行。老板一句话降价好降价，降价完了经销商全部退掉，没信心了，因为我对你的这个产品没有任何的变化，没有任何的预期。我都不知道你会降价。你一降价，我原先花了这么多钱去进货，我怎么办？一下子是一旦伤到了这些经销商伙伴们，你在这个行业里面就完蛋了。就你这个人以及你这个公司的口碑就彻底的就坏掉了。那你再想做什么产品，别人是不会买你的账的那互联网不是这样的，互联网一个产品做不行，废掉团队砍掉我再做一个没问题，我再另起炉灶。</p>
-<p class="transcript-line"><span class="time"><strong>[01:08:51]</strong> </span><span class="speaker"><strong>发言人1: </strong></span>这是完全不同的逻辑。其实你在做耳机之前一直在做互联网的软件产品。所以听起来你现在会认为软件产品好像还挺现。那样的山路。</p>
-<p class="transcript-line"><span class="time"><strong>[01:09:01]</strong> </span><span class="speaker"><strong>发言人3: </strong></span>是的，是。</p>
-<p class="transcript-line"><span class="time"><strong>[01:09:01]</strong> </span><span class="speaker"><strong>发言人1: </strong></span>那为什么你自己就是明知山有虎，偏向虎山行？你其实可以选择做软件，怎么就进了硬件的坑了？</p>
-<p class="transcript-line"><span class="time"><strong>[01:09:09]</strong> </span><span class="speaker"><strong>发言人3: </strong></span>我们现在创业之初，其实在做软件还是做硬件上面，也曾经也考虑过。对，但是总感觉就是做软件这东西，我们的门槛不可能很高。就是做硬件虽然慢妃虽然笨，虽然这个有各种各样的链条非常长，但是它是一件能够逐渐积累优势的一件事情。OK比如说一就是软件和硬件，硬件更像种地。我这个春种秋收，然后把这个地土地养肥沃，然后一茬一茬的就长起来了，你会有种踏实的感觉。</p>
-<p class="transcript-line"><span class="time"><strong>[01:09:42]</strong> </span><span class="speaker"><strong>发言人2: </strong></span>你说你在前公司可能从前面做软件，然后转到做硬件，然后再从公司离开要来创业。因为我看你在江德尔的那个视频里面，其实用了当然就是当然用一个词打引号的那个垃圾食时间，就是在做一些认识。我就我对我在在那个里面对你说的一句话印象很深。就是你说的就是其实这样的一个时间也是在认识自己的时候。其实刚才高级问那个就是你是不是融融，比如说你是不是有很多钱，然后又又然后当你有很多钱，你有更多的资源，你可以去做一些其他的事情。我感觉这就是一个，其实我感觉那也是一条路，那属于艺高人胆大。</p>
-<p class="transcript-line"><span class="time"><strong>[01:10:19]</strong> </span><span class="speaker"><strong>发言人3: </strong></span>对对对。</p>
-<p class="transcript-line"><span class="time"><strong>[01:10:20]</strong> </span><span class="speaker"><strong>发言人2: </strong></span>那那也是，就比如说你要和一个很极端的例子，比如说英大家可能就是擅长搞这种方式的人。就是我感觉可能你说的那种也许也来自一个在过去很多年里面比较认识跟了解自己适合什么方式。就是你能想想，比如说你在有哪个职场的某一个哪个时期是有做过这种比如说深入的了解自己，我适合干什么，然后我怎么样去选一条适合我自己的路的。这个过程好啊。</p>
-<p class="transcript-line"><span class="time"><strong>[01:10:51]</strong> </span><span class="speaker"><strong>发言人3: </strong></span>我成长的经历，我大概对我自己形成了一个相对稳定的认知，就是我这个人永远不是最优秀的那个人。你看如果把中国名校排名最好的肯定是清北。但是我是想讲这个就是我有个优点，就是我到了一个圈层里，我一般能够混到中等偏上。但是我可能会求稳一点，然后我对自己有这样的一个偏长远的认识。</p>
-<p class="transcript-line"><span class="time"><strong>[01:11:16]</strong> </span><span class="speaker"><strong>发言人3: </strong></span>到职场其实也是这样的，就是当你进到一个圈层，我也是我第一份工作是在中国移动，中国移动当时在08年研究生毕业以后，中国移动是当前的最佳雇主。然后我有幸进到了中国移动的集团公司总部，做我认为那时候只能仰望的这样的一个工作。我周围的人都非常优秀，我一开始觉得他们太好太太厉害了。然后混长了以后，我也感觉我就慢慢融入进去了，我也好像就被提升成那样的一个人了。对，后来又去了科大讯飞，然后科大讯飞都是一群非常优秀的，像科大毕业的这种博士科学家，做事情很有脑子的，很讲逻辑的。我一开始跟不上的，后来我慢慢的也适应了，也就到了这样一个程度。所以我总感觉我的人生有这样的一个认知。</p>
-<p class="transcript-line"><span class="time"><strong>[01:12:05]</strong> </span><span class="speaker"><strong>发言人3: </strong></span>然后再就是回答您的这个问题，就是去有一个对自己的一个深刻的思考。其实一般这个是不是基本上是在人生的低谷的这个状态，就是要么就无路可去，要么就是在彷徨这个展辗转反侧过程中，慢慢的去想明白自己是干什么的。就是我原先我觉得难免我觉得多少有点虚荣，就是你会觉得说我有多么优秀了，然后往自己身上去贴金，然后慢慢变少。我后来有一个比较人生的两三次低谷，我觉得一个最重要的点就是你贴那些基因最终都没有用，都是身外之物也好，是那种不太能让你留得住的东西。</p>
-<p class="transcript-line"><span class="time"><strong>[01:12:50]</strong> </span><span class="speaker"><strong>发言人3: </strong></span>因为那不是你的，真正是你的东西，你是能够就算不是眼前不是你的，慢慢他也会回到你手里，我就越来越相信这件事情。所以你真正要做的就是做你心中的那个扇，就是那个好那个善不是不是善良的善，而是不断的去做，擅长优秀，你自信你应该扮演的那个角色，你越来越理解你自己了，你就扮演你应该扮演那个角色。我觉得我自己的特点就是比较擅长在长跑中慢慢击败别人。就是好多人讲究顿悟，我突然就极聪明了。然后我突然想起一个idea，我就改变世界了。我一直都没有这样的感觉，我对所有的事情都是在慢慢打磨中找到那个感觉的，这个感觉是好像水滴石穿，每天脑子都在跑这个事儿，每天跑好多，慢慢的越想越清楚了，这个逻辑越来越清楚了，然后越来越坚定了，然后就形成一个正反馈。所以我在几次低谷的过程中，我选择做自己擅长的东西。</p>
-<p class="transcript-line"><span class="time"><strong>[01:13:58]</strong> </span><span class="speaker"><strong>发言人1: </strong></span>我看到你在之前有一个地方分享过，说在你这一次创业之前，你给一位前辈打了一个30分钟的电话。对对对，然后挂了电话决定创业。对，可不可以讲讲那个那个人是谁，以及那是一个怎样的电话。</p>
-<p class="transcript-line"><span class="time"><strong>[01:14:11]</strong> </span><span class="speaker"><strong>发言人3: </strong></span>那个人就是我现在的董事长胡玉，他其实是科大讯飞的联合创始人，我做我们这个事情，其实面临着很大压力。刚才也讲了，就是整个讯飞其实希望我们做的是一些蓝海的产品，它符合讯飞的这个调性。但是做耳机这件事情确实是男儿正确，又很时间很长。这个其实是对整个讯飞会造成当年造成比较不太好的一些压力，那怎么办呢？我就更多的去大家其实经过决策，就是决定这个业务线，你不能再由现在这种模式来做了。</p>
-<p class="transcript-line"><span class="time"><strong>[01:14:48]</strong> </span><span class="speaker"><strong>发言人3: </strong></span>那时候就是给我几条路，第一条路就是我去转岗干别的东西。对大家对我还是挺不错的，真的就没有直接把我费尔教，对这个我觉得还是挺好，挺人性的。第二个就是说你要么就是离开，其实当时只有这两个选项，就是我就挺旁挺彷徨的。但是我就是觉得那些我抱着那些数据，我就给大家说，我觉得好像有点说不通。就是明明这个耳机再做一代有可能就成了，那为什么我们不去试一试呢？我用各种办法去，当时很煎熬，就是我其实是有点执拗的。</p>
-<p class="transcript-line"><span class="time"><strong>[01:15:24]</strong> </span><span class="speaker"><strong>发言人3: </strong></span>就是讯飞的各位领导轮流过来说服我说，不要做这些东西了，这东西对公司压力实在太大。但是我跟他讲，我说这里边有这么好的数据，我们只要再做一代，你相信我，我有可能成。但确实整个过程高层已经拍板了，那就没办法，我只能要么选择离开。</p>
-<p class="transcript-line"><span class="time"><strong>[01:15:45]</strong> </span><span class="speaker"><strong>发言人3: </strong></span>所以我当时很很迷茫，我坚在这个状态下，我其实坚持了半年。这半年我基本上就处在不断去想办法说服大家采纳我的想法，但是又处处碰壁的这样的一个状态。我就怀疑自己，难道我想错了吗？我看了一个图，特别有意思，所有的鱼都往这边走，只有一条鱼往这走。对。</p>
-<p class="transcript-line"><span class="time"><strong>[01:16:06]</strong> </span><span class="speaker"><strong>发言人1: </strong></span>到底是谁错了？</p>
-<p class="transcript-line"><span class="time"><strong>[01:16:07]</strong> </span><span class="speaker"><strong>发言人3: </strong></span>一个儿童绘本。他其实对他我是看到在哪儿，我在那个冰雪报那个美剧里边是个负面的例子。那个lester他决定铤而走险，他说万一是别人错了，就是鼓励他，但是这是个负面的，但是我对那个画面印象特别深，我是不是一条逆行的鱼呢？我到底对还是不对？因为那个时候没有人没有太多人支持我的观点。</p>
-<p class="transcript-line"><span class="time"><strong>[01:16:32]</strong> </span><span class="speaker"><strong>发言人3: </strong></span>对，就是你现在事后看可能很容易的一件事情，但实际上那时候你是到处都是战争迷雾，那时候完全不知道那条路能不能走得通的对，所以我就给我的现在的我们的董事长吴宇打电话，他其实也没有告诉我说这条路一定对还是一定不对。但是他给我讲的就是你要遵从你的内心的那个想法，你才能把你的自己的能量，你的力量发挥出来。如果你去做一个你不乐意的事情，你是其实是被压制住的。你其实在无形中就算你再努力，就算你主观上再努力，其实你还是没有解放你的这个天性。一旦你没有解放你的天性，你就没有办法去全情的去投入做这件事情，你就不快乐。他一讲这个事情，他讲的快乐我就大概就通了。就是我如果我去选择做别的，我能我认为我能做的不错，但我可能不快乐。那我就不如选择一条虽然很不确定性，但是它有可能让我快乐的事情，那我就一下子就通了。</p>
-<p class="transcript-line"><span class="time"><strong>[01:17:38]</strong> </span><span class="speaker"><strong>发言人3: </strong></span>这个点上就给我一个很大的启，他给我最大的一个影响就是你一定要follow your heart。虽然这个话有点儿很俗套，但是他讲到你那个时候，你才真正的解放你天性，能够快乐。他是把这句话给我解释通了，因为我原先觉得这条这个话就很Normal，就是所有口号都会讲，你你你要follow your heart，就所有美国大片儿什么的这种正向价值观都会讲，一定皮了，你脑子不产生任何化学反应。但是他讲到你这样做你才能解放天性能快乐，我就同了。对我也希望能够尽量的能够带给各位听众，就是我的这样的一个感受，所以他叫胡月胡煜煜。</p>
-<p class="transcript-line"><span class="time"><strong>[01:18:18]</strong> </span><span class="speaker"><strong>发言人1: </strong></span>所以你的勇气不是梁静茹给的，是胡预。</p>
-<p class="transcript-line"><span class="time"><strong>[01:18:22]</strong> </span><span class="speaker"><strong>发言人3: </strong></span>也有我们的团队。其实当时我们团队也是给我鼓励说，咱们干这个事儿，数据上是这样的，未来摆在那儿了。我们认为他是那样的，是就是中间怎么走通这条路的问题，对不对？走不通大家也就认了，其实我的这个合伙团队，大家对我还是非常的支持。</p>
-<p class="transcript-line"><span class="time"><strong>[01:18:40]</strong> </span><span class="speaker"><strong>发言人1: </strong></span>现在因为未来智能，我理解你们融完资之后，还是有很多想做的新的。不管是产品还是渠道，包括出海对吧？那你们应该在大量的招新的年轻的同事们。对。</p>
-<p class="transcript-line"><span class="time"><strong>[01:18:53]</strong> </span><span class="speaker"><strong>发言人3: </strong></span>所以说到我感兴趣的话题。</p>
-<p class="transcript-line"><span class="time"><strong>[01:18:55]</strong> </span><span class="speaker"><strong>发言人1: </strong></span>所以我会比较好奇。因为我感觉你自己也是对于公司做什么，什么样的文化，然后用什么样的方式去工作，你都会很有自己的一些想法。是对，所以你希望把这个未来智能做成一家什么样的公司，吸引到什么样的人来加入你们。</p>
-<p class="transcript-line"><span class="time"><strong>[01:19:11]</strong> </span><span class="speaker"><strong>发言人3: </strong></span>首先我们还是一个我们的气质以及创业团队气质。我一直在强调我们是一家本分的公司，我们是不是一家很狂很很张扬的公司。但是我们会我们始终最坚信的一个理念就是给用户或者我们的顾客，我们的客户创造价值。每用户买到我们的产品会感觉到打心眼里觉得这东西有用，这是我们最坚持的理念。我们是希望认同这件事情理念的人能够来到我们公司，这是我们公司一个最内核的东西。其次就是说我觉得我们这个公司应该是一家在未来AI领域，在垂直方向上，它的技术，它的产品体验，它的给用户的这种交互的这种界面都非常友好的这样一家公司。</p>
-<p class="transcript-line"><span class="time"><strong>[01:19:54]</strong> </span><span class="speaker"><strong>发言人3: </strong></span>因为我们又有一个是这个理念，就是AI其实AI大家提到AI和wifi不一样，wifi是什么？AI是什么？我把它两个拿在一起讲非常有意思。人是不可能进化出wifi来的，所以人对wifi是一种天然拥抱的，毫无保留的拥抱。因为有wifi太好了。但是人工智能是某种意义上跟人在竞争的这样一项技术，所以很多人是抵触人工智能。我们其实考虑到这个问题，我们一直觉得我们要做人机协同的，解放人的这种能力的，让每个人能够发挥自己能量的。而不是去做那种我要替代什么人，我要让谁抢谁的饭碗的这样的AI就是我们做的AI不去做那种替代的，而是让把人的能力变强的这种练。</p>
-<p class="transcript-line"><span class="time"><strong>[01:20:48]</strong> </span><span class="speaker"><strong>发言人3: </strong></span>所以我们有个理念就是AI不是你的对手，而是陪伴你以后，让你有更多时间去更轻松的工作，更好的去享受生活，更有效率的工作以后跟更好的去陪伴，让自己开心快乐，然后陪伴自己的家里人也好。这样的这种ai，我希望认同这些理念的这些朋友们能够来到我们的这个公司。我们不会做一个非常巨无霸的那种公司，但是我们会做一个比较有温情，比较友好，但是一切以用户为中心的这样的一家公司。这是我心中非常美好的未来智能，是这样子的一个体验。我觉得现在的这个AI人才，我们特别需要AI的人才。而且我观察到一个点，我不知道我这是我个人的观点，我不希望这个就是不是一个非常绝对的东西。</p>
-<p class="transcript-line"><span class="time"><strong>[01:21:38]</strong> </span><span class="speaker"><strong>发言人3: </strong></span>我觉得AI人才现在出现了一个巨大的撕裂和断层。因为我是从上一个AI时代经历过来的，我认识好多的上一个时代的AI的专家。我观察到一个什么现象呢？就是上一代的AI算法归算法差，产品归产品，coding归coding。比如说我会我们要把这个AI的模型，要把它放到线上怎么样，我还要有人在coding。然后我算法的人就不管coding，可能就不管那个具体的怎么部署，怎么上线。然后我场景的人只设计场景，然后由算法专家来设计，那个是上一代AI的一种协作方式。我会发现这一代的AI人才是完全把他们融合在一起的。</p>
-<p class="transcript-line"><span class="time"><strong>[01:22:20]</strong> </span><span class="speaker"><strong>发言人3: </strong></span>我们在找这样的人我发现特别难找。但是这类的人一定是未来的AI native这种thinker的这种种子用种子选手。我能在一些非常年轻的用户和非常年轻的人才里面找看，发现这些人。就比如说一些优秀学校的一些，哪怕他是大学生，他一一一上学，他就在接触transformer，他会把AI的这个工具天然变成他思考的一部分。</p>
-<p class="transcript-line"><span class="time"><strong>[01:22:49]</strong> </span><span class="speaker"><strong>发言人3: </strong></span>你像我我我四十来岁我就发现我在学这个东西很困难。我在强迫自己在学用各种各样的工具，而他们不是。他们day one他们上大学的第一天，他们就开始用这些工具。给自己做一些小的agent也好，做一些小的工具也好。它其实是把场景，把coding和AI的算法这些东西融成一个体系了。说白了为什么最近会出现有人预言说有一个人的公司或者说有几个人的公司，就能够创造过去几百人这个公司才能创造的价值。其实我觉得思维方式，思考方式是非常不一样的。</p>
-<p class="transcript-line"><span class="time"><strong>[01:23:27]</strong> </span><span class="speaker"><strong>发言人3: </strong></span>再换句话说，上一代的哪怕是AI专家，我说句不好听的话，都可能已经被淘汰掉了。他可能不如我，完全不如这个新时代的哪怕一个刚毕业甚至在上学的年轻人，他的利用AI的能力强。这一代的AI能够把人的能力放大100倍。上一代AI可能也就是可能1.5倍、2倍、三倍，我就随便说，就是这种感受。所以说我是特别希望我们有志于去做下一代AI的这些优秀的年轻人，能够跟我们能够来联系。就是我刚才描述的这样的这种人群，我相信非常的多。我非常希望能够接触到他们，这是我非常重要的一个目的。</p>
-<p class="transcript-line"><span class="time"><strong>[01:24:14]</strong> </span><span class="speaker"><strong>发言人1: </strong></span>好，今天谢谢马啸来到十字路口和我们分享了非常多。然后如果我们的这个用户朋友们听到了马啸的分享，对未来智能感兴趣，我们会在我们的评论区留下他们的联系方式。好，再次谢谢。</p>
-<p class="transcript-line"><span class="time"><strong>[01:24:28]</strong> </span><span class="speaker"><strong>发言人3: </strong></span>谢谢谢谢谢谢感谢。</p>
-<p class="transcript-line"><span class="time"><strong>[01:24:34]</strong> </span><span class="speaker"><strong>发言人1: </strong></span>如果你认为有朋友也会喜欢本期十字路口的内容，请转发微信推荐给他们。最后欢迎你加入十字路口的会员群，我们鼓励大家在群里聊天互动，交朋友，寻找未来的同路人。</p>]]></content:encoded>
-            <pubDate>Sun, 26 Oct 2025 16:00:00 GMT</pubDate>
-            <guid>68fe0681083a71a4eb4e17f6</guid>
         </item>
     </channel>
 </rss>
