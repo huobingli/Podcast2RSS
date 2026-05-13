@@ -1,4 +1,21 @@
 {
+  "6a0358b3e1eb34a939468885": {
+    "eid": "6a0358b3e1eb34a939468885",
+    "pid": "640ee2438be5d40013fe4a87",
+    "title": "EP126 Agent Harness 🏇",
+    "description": "同一个模型，为什么放在聊天框里只是“给建议”，放进 Claude Code / Codex / OpenCode 里却能读文件、改代码、跑测试，甚至完成真实任务？\n这期我们聊 Agent Harness：模型之外那套决定 AI 能不能真正干活的工程系统。它像大模型的马具和操作系统，负责工具、权限、上下文、执行环境和结果验证。\n别再只看模型了，真正让 Agent 变成产品的，可能是 Harness。\n本shownotes由 castwise.ai 制作\nPodwise - Podcast Knowledge at 10x Speed!\npodwise.ai\nApple Store 下载👉🏻 apps.apple.com\n硬地笔记\n00:48 Agent Harness 的概念定义与核心作用\n12:12 Harness 在工程实践中的管理范畴\n23:36 AI Coding 作为大模型工程化的练兵场\n33:42 模型能力与 Harness 生态的未来演进\n欢迎关注我们\n* 知识星球:t.zsxq.com\n* 官网: hardhacker.com\n* 小手册: book.hardhacker.com\n* 用爱发电不容易，请我们喝咖啡☕️: afdian.net\n* 公众号/小红书: 硬地骇客\n* 商务合作: hardhackerlabs@gmail.com\n* 另外，现在加入「硬地骇客」会员服务，即可在会员专属的微信群与其他朋友一起畅所欲言，成为会员也是对我们持续更新最大的鼓励！",
+    "duration": 3005,
+    "enclosure": {
+      "url": "https://media.xyzcdn.net/640ee2438be5d40013fe4a87/lhpMa_yS1MT_xSaVbgKgRH-95FGu.m4a",
+      "type": "audio/mpeg",
+      "length": 48609181
+    },
+    "pubDate": 1778604896,
+    "author": "skoowoo",
+    "explicit": false,
+    "payType": "FREE",
+    "shownotes": "<p>同一个模型，为什么放在聊天框里只是“给建议”，放进 Claude Code / Codex / OpenCode 里却能读文件、改代码、跑测试，甚至完成真实任务？</p><p>这期我们聊 <strong>Agent Harness</strong>：模型之外那套决定 AI 能不能真正干活的工程系统。它像大模型的马具和操作系统，负责工具、权限、上下文、执行环境和结果验证。</p><p>别再只看模型了，真正让 Agent 变成产品的，可能是 Harness。</p><p>本shownotes由 <a target=\"_blank\" rel=\"noopener noreferrer nofollow\" href=\"https://castwise.ai/\">castwise.ai</a> 制作</p><p>Podwise - Podcast Knowledge at 10x Speed!</p><p><a target=\"_blank\" rel=\"noopener noreferrer nofollow\" href=\"https://podwise.ai/\">podwise.ai</a></p><p>Apple Store 下载👉🏻 <a target=\"_blank\" rel=\"noopener noreferrer nofollow\" href=\"https://apps.apple.com/cn/app/podwise-ai/id6499190232?l=en-GB\">apps.apple.com</a></p><figure><img src=\"https://image.xyzcdn.net/FuH2kr-H-doEWzfo0ICiKgb6e_8F.png\"></figure><h2>硬地笔记</h2><h3><a class=\"timestamp\">00:48</a> <strong>Agent Harness 的概念定义与核心作用</strong></h3><h3><a class=\"timestamp\">12:12</a> <strong>Harness 在工程实践中的管理范畴</strong></h3><h3><a class=\"timestamp\">23:36</a> <strong>AI Coding 作为大模型工程化的练兵场</strong></h3><h3><a class=\"timestamp\">33:42</a> <strong>模型能力与 Harness 生态的未来演进</strong></h3><p></p><p>欢迎关注我们</p><ul><li><p>知识星球:<a target=\"_blank\" rel=\"noopener noreferrer nofollow\" href=\"https://t.zsxq.com/19SKbmflB\">t.zsxq.com</a></p></li><li><p>官网: <a target=\"_blank\" rel=\"noopener noreferrer nofollow\" href=\"https://hardhacker.com/\">hardhacker.com</a></p></li><li><p>小手册: <a target=\"_blank\" rel=\"noopener noreferrer nofollow\" href=\"https://book.hardhacker.com/\">book.hardhacker.com</a></p></li><li><p>用爱发电不容易，请我们喝咖啡☕️: <a target=\"_blank\" rel=\"noopener noreferrer nofollow\" href=\"https://afdian.net/a/hardhacker\">afdian.net</a></p></li><li><p>公众号/小红书: 硬地骇客</p></li><li><p>商务合作: hardhackerlabs@gmail.com</p></li><li><p>另外，现在加入「硬地骇客」会员服务，即可在会员专属的微信群与其他朋友一起畅所欲言，成为会员也是对我们持续更新最大的鼓励！</p></li></ul><figure><img src=\"https://image.xyzcdn.net/Fn51yNVEE4AD0pUYJz1RImGJWpHA.png\"></figure><h2></h2><p></p>"
+  },
   "69e669001e94ae6921be04dc": {
     "eid": "69e669001e94ae6921be04dc",
     "pid": "640ee2438be5d40013fe4a87",
@@ -1001,22 +1018,5 @@
     "explicit": false,
     "payType": "FREE",
     "shownotes": "<p>目前 AI search 赛道也是卷得不轻，这么多人都开始做 AI search，难倒做一个类Perplexity的门槛就这么低了吗？本期节目主要就是我们关于 AI search 的揭秘讨论，在技术上我们希望达到祛魅的目的，同时也又能围绕 AI search 给大家增添一些产品形态的想象空间。抱砖引玉，欢迎大家在评论区留言分享自己的思考和观点，共同进步。</p>\n<p>更多内容信息和时间线参考下文的硬地笔记，欢迎收听本期节目。</p>\n<p>另外，现在加入「硬地骇客」会员服务，即可在会员专属的微信群与其他朋友一起畅所欲言，成为会员也是对我们持续更新最大的鼓励。现在就扫描下方二维码加入吧！</p>\n<figure><img src=\"https://image.xyzcdn.net/Fn51yNVEE4AD0pUYJz1RImGJWpHA.png\"/></figure>\n<h2>本期赞助</h2>\n<p><a href=\"https://www.topview.ai/\">Topview</a>: AI学习TikTok/YouTube爆款，一键生成营销视频</p>\n<p>官网地址： <a href=\"https://www.topview.ai/\">www.topview.ai</a></p>\n<figure><img src=\"https://image.xyzcdn.net/FgPqMHRMArefO-eU2c7kvgDqEads.png\"/></figure>\n\n<p><a href=\"https://podwise.ai/\">Podwise.ai</a></p>\n<figure><img src=\"https://image.xyzcdn.net/Fr9JZPGMLVEDLDOgFbUQrh8Y5ybp.png\"/></figure>\n<h2>硬地笔记</h2>\n<p>00:00:04 AI 搜索的工作原理与Perplexity的特点</p>\n<p>00:05:30 AI 搜索的质量与关键步骤分析</p>\n<p>00:07:35 AI搜索的两阶段检索: 检索阶段和重排阶段的作用及优化</p>\n<p>00:11:26 Google 和 AI 候选方案在搜索领域的优势和挑战</p>\n<p>00:15:01 AI生成内容对搜索引擎的影响和竞争优势分析</p>\n<p>00:18:44 传统搜索与垂直搜索引擎的发展趋势和机遇</p>\n<p>00:21:39 垂直领域搜索和通用搜索的核心原理及差异</p>\n<p>00:24:20 大模型在企业数据分析决策中的关键作用与难点</p>\n<p>00:28:14 企业级AI搜索解决方案的探索与调研</p>\n<p>00:31:12 传统搜索引擎与AI搜索的对比与分析</p>\n<p>00:36:20 AI搜索的机会和可行性</p>\n<p>00:40:13 AI搜索的商业模式和发展思路</p>\n<p>00:44:10 AI搜索的商业模式：寻求终极形态</p>\n<h2>欢迎关注我们</h2>\n<ul>\n  <li>知识星球:<a href=\"https://t.zsxq.com/19SKbmflB\"> t.zsxq.com</a></li>\n  <li>官网: <a href=\"https://hardhacker.com/\">hardhacker.com</a></li>\n  <li>小手册: <a href=\"https://book.hardhacker.com/\">book.hardhacker.com</a></li>\n  <li>用爱发电不容易，请我们喝咖啡☕️: <a href=\"https://afdian.net/a/hardhacker\">afdian.net</a></li>\n  <li>公众号/小红书: 硬地骇客</li>\n  <li>商务合作: hardhackerlabs@gmail.com</li>\n</ul>"
-  },
-  "6682a002077b88831b7eee4f": {
-    "eid": "6682a002077b88831b7eee4f",
-    "pid": "640ee2438be5d40013fe4a87",
-    "title": "EP66 产品出海赚钱第一关： “支付” 的那些事",
-    "description": "“支付” 这个和钱息息相关的环节必须重视起来，本期节目为出海产品的一线支付实战经验分享，目的是为了让开发者朋友们“少走弯路，多赚钱”。如果你有更多更好的支付经验，欢迎在我们的评论区留言分享。\n更多内容信息和时间线参考下文的硬地笔记，欢迎收听本期节目。\n另外，现在加入「硬地骇客」会员服务，即可在会员专属的微信群与其他朋友一起畅所欲言，成为会员也是对我们持续更新最大的鼓励。现在就扫描下方二维码加入吧！\n本期赞助\nPodwise.ai\n硬地笔记\n00:00:04 海外在线支付产品的费率问题和与国内支付产品的区别\n00:03:31 国内外支付产品费率和合规成本的差异及其影响分析\n00:07:27 Lemon Squeezy：选择支付服务提供商的考虑因素和费用对比\n00:09:23 Lemon Squeezy的优势和问题\n00:12:32 Lemon Squeezy对中国用户付款的限制引发讨论\n00:15:25 Stripe和Lemon Squeezy的产品体验对比\n00:19:01 Stripe与Lemon Squeezy在开发过程中的差异与优劣\n00:22:00 Stripe 产品设计与定价的最佳实践和功能\n00:24:39 Stripe与支付宝微信付款的比较和申请差异\n00:27:08 Stripe产品对接的实际操作及注意事项\n00:32:37 Stripe优惠给创业者带来的帮助与支付流程整合问题\n00:36:47 关于跨多平台的订阅问题和支付流程的讨论\n00:41:43 为何早期加入支付功能对于价值的放大很重要\n欢迎关注我们\n* 知识星球: t.zsxq.com\n* 官网: hardhacker.com\n* 小手册: book.hardhacker.com\n* 用爱发电不容易，请我们喝咖啡☕️: afdian.net\n* 公众号/小红书: 硬地骇客\n* 商务合作: hardhackerlabs@gmail.com",
-    "duration": 2559,
-    "enclosure": {
-      "url": "https://media.xyzcdn.net/lgxs7PS9L8y6nFZWdSbZw4yKWKC5.m4a",
-      "type": "audio/mpeg",
-      "length": 41396520
-    },
-    "pubDate": 1719871200,
-    "author": "skoowoo",
-    "explicit": false,
-    "payType": "FREE",
-    "shownotes": "<p>“支付” 这个和钱息息相关的环节必须重视起来，本期节目为出海产品的一线支付实战经验分享，目的是为了让开发者朋友们“少走弯路，多赚钱”。如果你有更多更好的支付经验，欢迎在我们的评论区留言分享。</p>\n<p>更多内容信息和时间线参考下文的硬地笔记，欢迎收听本期节目。</p>\n<p>另外，现在加入「硬地骇客」会员服务，即可在会员专属的微信群与其他朋友一起畅所欲言，成为会员也是对我们持续更新最大的鼓励。现在就扫描下方二维码加入吧！</p>\n<figure><img src=\"https://image.xyzcdn.net/Fn51yNVEE4AD0pUYJz1RImGJWpHA.png\"/></figure>\n<h2>本期赞助</h2>\n<p><a href=\"https://podwise.ai/\">Podwise.ai</a></p>\n<figure><img src=\"https://image.xyzcdn.net/Fr9JZPGMLVEDLDOgFbUQrh8Y5ybp.png\"/></figure>\n<h2><br></h2>\n<h2>硬地笔记</h2>\n<p>00:00:04 海外在线支付产品的费率问题和与国内支付产品的区别</p>\n<p>00:03:31 国内外支付产品费率和合规成本的差异及其影响分析</p>\n<p>00:07:27 Lemon Squeezy：选择支付服务提供商的考虑因素和费用对比</p>\n<p>00:09:23 Lemon Squeezy的优势和问题</p>\n<p>00:12:32 Lemon Squeezy对中国用户付款的限制引发讨论</p>\n<p>00:15:25 Stripe和Lemon Squeezy的产品体验对比</p>\n<p>00:19:01 Stripe与Lemon Squeezy在开发过程中的差异与优劣</p>\n<p>00:22:00 Stripe 产品设计与定价的最佳实践和功能</p>\n<p>00:24:39 Stripe与支付宝微信付款的比较和申请差异</p>\n<p>00:27:08 Stripe产品对接的实际操作及注意事项</p>\n<p>00:32:37 Stripe优惠给创业者带来的帮助与支付流程整合问题</p>\n<p>00:36:47 关于跨多平台的订阅问题和支付流程的讨论</p>\n<p>00:41:43 为何早期加入支付功能对于价值的放大很重要</p>\n<h2>欢迎关注我们</h2>\n<ul>\n  <li>知识星球: <a href=\"https://t.zsxq.com/19SKbmflB\">t.zsxq.com</a></li>\n  <li>官网: <a href=\"https://hardhacker.com/\">hardhacker.com</a></li>\n  <li>小手册: <a href=\"https://book.hardhacker.com/\">book.hardhacker.com</a></li>\n  <li>用爱发电不容易，请我们喝咖啡☕️: <a href=\"https://afdian.net/a/hardhacker\">afdian.net</a></li>\n  <li>公众号/小红书: 硬地骇客</li>\n  <li>商务合作: hardhackerlabs@gmail.com</li>\n</ul>"
   }
 }
