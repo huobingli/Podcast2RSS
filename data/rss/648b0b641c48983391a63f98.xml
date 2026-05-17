@@ -4,7 +4,319 @@
         <title>42章经</title>
         <link>https://www.xiaoyuzhoufm.com/podcast/648b0b641c48983391a63f98</link>
         <description>和有趣、有独到认知的聪明人聊天</description>
-        <lastBuildDate>Wed, 29 Apr 2026 20:38:39 +0800</lastBuildDate>
+        <lastBuildDate>Mon, 18 May 2026 05:03:32 +0800</lastBuildDate>
+        <item>
+            <title>当软件容易被创作，新时代的产品长什么样？ | 对谈 Albert</title>
+            <link>https://www.xiaoyuzhoufm.com/episode/6a059d321b7bd50295257a5e</link>
+            <description>我们又又又请来了 Albert（笑）。
+前不久他刚刚来过，总结了一下他 AI 创业的阶段性思考（回顾：优化胜率而非赔率，把一件事做到理论上该有的样子｜对谈连续创业者 Albert）。之所以这么快又请他来，是因为过去两个月里，他们团队鼓捣了几十个新产品，但都没达到 Albert 心中的发布标准——直到这次的 merging.live。这个产品核心想做的事，是为新的 maker 群体提供「回响」。
+做这个产品的过程中，Albert 思考了很多问题。在这期节目里，我们就一一讨论了一下，包括：
+1. Opus 4.6 之后，公司内部做几十个项目的积累；
+2. 人人都能做自己产品的未来真的会到来吗？对软件行业会有什么影响？
+3. 未来的软件格局可能是什么样？现在还有什么值得做的机会？
+4. 一级市场可能有什么变化？
+5. 新产品的底层思路是什么，为谁做、为什么做、打算怎么做？
+其实这期节目一上来聊得稍微有点颓。就像 Albert 说的：「最近行业里可以说是哀鸿遍野」。这背后的一大原因，就是模型厂商在加速挤压创业空间、可能最终会掌握绝大多数价值。但在 Albert 心里，智能并不是最 high level 的价值，所以他找到了新的方向。希望他的思考，能给大家带来一些启发吧。
+【人类博物馆】
+导游：曲凯，42章经创始人
+六号珍藏：Albert
+【时光机】
+* 01:07 最近行业里哀鸿遍野…大家都在 pivot 和 pivot 的路上
+* 04:23 「人人自己做产品」的未来已来？
+* 07:19 两个月做了几十个新产品，主线是什么、有什么积累？
+* 10:43 探讨下未来软件的格局
+  * 13:52 软件可能会出现新的溢价和品牌效应？
+* 15:12 会有新的平台型机会吗？
+  * 17:46 长尾产品的可消费性到底有多强？
+  * 21:57 vibe coding 的核心价值其实是…
+* 26:23 build in public / 奉献自己的 skills，该怎么解决变现问题？
+* 27:33 决定做现在这个新产品，是因为观察到了几层变化
+  * 29:22 做「下一个抖音」的思考方式就不对
+* 30:55 介绍一下新产品：给 makers 创造「回响」
+  * 31:34 在我心里，智能就不是最 high level 的价值
+* 34:51 现在不能围绕普遍性去做产品，否则就完蛋了
+* 37:32 一级市场可能会…GG？
+* 38:14 软件行业会越来越像泡泡玛特
+* 39:17 我最近在思考：从 token 到经济价值的更短路径
+【The gang that made this happen】
+* 制作人：陈皮
+* 剪辑：陈皮
+* 片头：Mondo Bongo - Joe Strummer &amp; The Mescaleros
+* 片尾：Run Run Run - 回响</description>
+            <content:encoded><![CDATA[<div class="episode-summary">
+<h3>内容摘要</h3>
+<h3>主题概述</h3>
+<p>这期播客围绕AI模型（特别是OpenAI o1 pro、Claude等）快速迭代背景下，创业公司与个人创作者面临的机遇与困境展开。嘉宾Albert是一家AI创业公司的创始人/核心成员，他坦诚分享了团队在模型能力指数级增长中的真实体验：过去两个月做了几十个产品，但“收益是零”。对话深入探讨了模型公司垄断绝大多数价值、“压路机前捡钢镚儿”的创业窘境，以及由此催生的新创作形态——OPC（one person company/小团队）和“体验型产品”（情绪价值优先）。Albert正在构建一个面向新创作者的“连接社区”，核心理念是提供“回想”（被在意的人认可）而非单纯的回应或回报。</p>
+<h3>关键要点</h3>
+<ol>
+<li>
+<p><strong>AI创业者的普遍悲观</strong>：“现在大家整个哀鸿遍野……要么all in coding的模型，要么可能下个时代你就出局了。”模型公司创造绝大多数价值，创业公司只能“压路机前捡钢镚儿”，价值很薄。</p>
+</li>
+<li>
+<p><strong>零收益的高频实验</strong>：Albert团队在o1 pro发布后的两个月内做了几十个产品，全部仅供内部自用，外部收益为零。“我们一看，我靠这技术迭代太快了，我们又做了这么多东西，然后收益是零，然后我们也觉得挺好玩的这什么鬼？”</p>
+</li>
+<li>
+<p><strong>个人化定制门槛极低</strong>：“九点多想到一个idea，晚上三点钟固件完了，就自己可以用了。”内部基建（一键生成后端环境）使得任何想法都能快速实现，但需求高度个性化，同事做的文档工具自己无法使用。</p>
+</li>
+<li>
+<p><strong>哑铃型软件市场预测</strong>：未来软件行业会两极分化——顶端是模型公司拿走绝大多数价值；底端是充分分散的小团队（2-5人，效率堪比30-50人团队）。中间的中型公司“很尴尬”，因为它们既没有模型公司创造的价值，又失去了传统软件积累的壁垒。</p>
+</li>
+<li>
+<p><strong>情绪价值将成为核心溢价</strong>：“体验型产品”将超越纯生产力工具。例如同事做了一个竖着写字的笔记软件，“这他妈谁有需求，但他自己就很喜欢……情绪价值占比会非常高”。软件会越来越像艺术品或文化产品，像泡泡玛特一样存在品牌溢价。</p>
+</li>
+<li>
+<p><strong>新创作者人群与社区定位</strong>：Albert认为存在一批“maker/designer”新群体，他们喜欢创造但不需要盈利，需要的是“回想”——被值得在意的人认可。他正在做的社区产品核心是“连接”，帮助这些节点产生化学反应（如请其他设计师帮忙重构页面）。</p>
+</li>
+<li>
+<p><strong>传统内容平台不兼容新形态</strong>：AI创作的产品（如小型交互式工具）无法在抖音、小红书等平台内直接消费（缺乏“容器”），需要新的发布器和容器。Albert判断“老的平台不兼容它这个东西”，大概率会有新平台出现。</p>
+</li>
+<li>
+<p><strong>“直接token到经济价值”的变现路径</strong>：预测市场（如Polymarket）可能成为OPC的直接收入来源。AI分析信息后执行策略，“已经有人用AI在预测市场稳定年化几倍收益”。Web3的乱纪元中，交易策略基金可以“one person fund”，实现从token到赚钱的最短路径。</p>
+</li>
+<li>
+<p><strong>对编程能力差距的弥合</strong>：Albert（非工程师出身）感受到“你跟最顶级的程序员之间的这个距离已经抹平了很大一部分”，现在可以指挥coding agent独立完成大部分工作。</p>
+</li>
+<li>
+<p><strong>AI缺乏自主性是最大遗憾</strong>：“如果说AI没有自主性……它始终从属于一个人，是人的工具，那这件事太不性感了。” Albert期待未来出现拥有独立主权、能自我赋予意义的virtual being，这才是“有意思”的下一步。</p>
+</li>
+</ol>
+<h3>独家细节</h3>
+<ol>
+<li>
+<p><strong>失眠产品灵感碰撞</strong>：Albert曾想做一个“睡前与AI聊天助眠”的产品，后来同事悄悄做了一个“世界地图走路视频”产品，而另一位同事当晚就用该产品帮助自己入睡。“我们三个其实是完全不同的切入点……当你真的开放地去关注生活，有太多小玩意儿能带来乐趣。”</p>
+</li>
+<li>
+<p><strong>“拒绝模块”的画像洞察</strong>：Albert曾发布一个实验产品——分析用户与coding agent的聊天记录，专门看“你拒绝什么”。结果发现不同用户画像差异极大：有人紧盯技术架构，有人关注UI，有人在意产品定义。“这就是个小实验，做着玩的，挺有意思。”</p>
+</li>
+<li>
+<p><strong>零收益但“深感好玩”的情绪</strong>：团队做了几十个产品、收益为0，但感受是“我们也觉得挺好玩的这什么鬼？”这种荒诞感恰恰反映了他们从“岗位价值”转向“创造本身”的快乐——生产力工具周末就没人用了，但创造本身是情绪价值。</p>
+</li>
+<li>
+<p><strong>回家种田的遐想</strong>：Albert提到清明节回老家时认真考虑包50亩地、养牛羊，“觉得挺好玩的”。这与他之前“要盈利”的愤怒状态形成鲜明对比，反映出技术冲击下个人对意义感的重新审视。</p>
+</li>
+<li>
+<p><strong>“回想”与“回应”“回报”的区分</strong>：Albert用三个词定义创作者需求阶段——回应（被人理）、回想（被谁理）、回报（赚钱）。他特别强调“我更关注回想”，并举例公司内部同事之间直接拉人帮忙重构页面，“为什么不能让它是一个更开放的结构？”这直接构成了他做社区产品的原始动机。</p>
+</li>
+</ol>
+</div>
+<hr/>
+<p class="transcript-line"><span class="time"><strong>[00:00:02]</strong> </span><span class="speaker"><strong>发言人1: </strong></span>Do something there.</p>
+<p class="transcript-line"><span class="time"><strong>[00:00:20]</strong> </span><span class="speaker"><strong>发言人2: </strong></span>我觉得很多人看到这期播客可能跟我有一样的问题。就是哎不，你怎么又来了？你怎么又来了？</p>
+<p class="transcript-line"><span class="time"><strong>[00:00:25]</strong> </span><span class="speaker"><strong>发言人1: </strong></span>不是你叫我来的吗？</p>
+<p class="transcript-line"><span class="time"><strong>[00:00:27]</strong> </span><span class="speaker"><strong>发言人2: </strong></span>那你们不是又做新产品了吗？吧？你有没有算过今年你们。</p>
+<p class="transcript-line"><span class="time"><strong>[00:00:32]</strong> </span><span class="speaker"><strong>发言人1: </strong></span>做了几个新产品？过去两个月OPPO4.6之后，人均一个星期一两个，你们几十个人。我们实际在coding的五六个。</p>
+<p class="transcript-line"><span class="time"><strong>[00:00:44]</strong> </span><span class="speaker"><strong>发言人2: </strong></span>那你得搞了上百个了。</p>
+<p class="transcript-line"><span class="time"><strong>[00:00:46]</strong> </span><span class="speaker"><strong>发言人1: </strong></span>没有，上百个，有的是我有的，几十个有了，几十个有了。</p>
+<p class="transcript-line"><span class="time"><strong>[00:00:50]</strong> </span><span class="speaker"><strong>发言人2: </strong></span>你看你们几个月做了很多产品的，我现在看其实最近我们聊很多创业者也是这样。就是可能一个月前特别兴奋，对，找到好机会做的特别好。一个月后再问说不行，模型就是能力太强了是吧？我们做的这个好像没有。</p>
+<p class="transcript-line"><span class="time"><strong>[00:01:04]</strong> </span><span class="speaker"><strong>发言人1: </strong></span>那么大价值的。我就在pav IT和private路上。</p>
+<p class="transcript-line"><span class="time"><strong>[00:01:07]</strong> </span><span class="speaker"><strong>发言人2: </strong></span>对，就一直是这样，我就觉得很累，然后搞得我现在你看前几个月open磕到很火。对我就觉得我说实话没办法提起那么大的兴趣。对，因为确实不知道创业公司做这件事儿的价值在哪，壁垒在哪儿，而且很可能过几个又变了。你看最近不是又开始传那个hermes就是又有下一代的open克劳出来，可能过几个月又有新的东西了，你现在感受怎么样？</p>
+<p class="transcript-line"><span class="time"><strong>[00:01:31]</strong> </span><span class="speaker"><strong>发言人1: </strong></span>我觉得现在就是大家整个哀鸿遍野。</p>
+<p class="transcript-line"><span class="time"><strong>[00:01:34]</strong> </span><span class="speaker"><strong>发言人2: </strong></span>现在是啊你说整个是你。</p>
+<p class="transcript-line"><span class="time"><strong>[00:01:36]</strong> </span><span class="speaker"><strong>发言人1: </strong></span>你身边的创业者了解到的对，不仅是创业者，还有一些成熟公司的。也其实，大家就是觉得要么all in coding的模型，要么你可能就下个时代你就出局了，其实就是这种。因为最后价值就是掌握在他手里，然后最后的分布也会使这些公司控制一切，拥有大多数价值，他们就是在创造价值的。所以我自己是觉得首先肯定这个悲观是有道理的，因为确实回到创业的第一性原理，就是你还是要去做价值创造。然后价值创造确实他创造绝大多数价值，你在这里面搞点边角缝的对吧？这个压路机前捡钢蹦儿这种确实也没什么价值。</p>
+<p class="transcript-line"><span class="time"><strong>[00:02:15]</strong> </span><span class="speaker"><strong>发言人2: </strong></span>其实这是什么时候。</p>
+<p class="transcript-line"><span class="time"><strong>[00:02:16]</strong> </span><span class="speaker"><strong>发言人1: </strong></span>就是我才学来的一个新词，压路机前捡钢蹦儿，压路机前捡钢镚OK。对，很形象对吧？这个大的压路机要来了，那你能要是捡钢镚你也能捡，你闪的够快你就能捡到这钢蹦，那他就是个钢镚。对，所以我觉得这个肯定是现在的这个行业的情况了。但是你换一个角度去想，实际上它确实也让一些小团队，或者超级的这种生产力，它是有100倍的杠杆的。所以大家讲OPC的概念。</p>
+<p class="transcript-line"><span class="time"><strong>[00:02:44]</strong> </span><span class="speaker"><strong>发言人2: </strong></span>然后那你所谓的做新产品大概是做到什么程度在做。</p>
+<p class="transcript-line"><span class="time"><strong>[00:02:47]</strong> </span><span class="speaker"><strong>发言人1: </strong></span>就可以自己用的。</p>
+<p class="transcript-line"><span class="time"><strong>[00:02:49]</strong> </span><span class="speaker"><strong>发言人2: </strong></span>对我所以我刚才就想问你，真正的是你把它当做一个公司来做产品的，有多少真的你觉得这个东西是会发出来。</p>
+<p class="transcript-line"><span class="time"><strong>[00:02:56]</strong> </span><span class="speaker"><strong>发言人1: </strong></span>让大家去用的没有？</p>
+<p class="transcript-line"><span class="time"><strong>[00:02:57]</strong> </span><span class="speaker"><strong>发言人2: </strong></span>那你从公司的角度来讲。</p>
+<p class="transcript-line"><span class="time"><strong>[00:03:00]</strong> </span><span class="speaker"><strong>发言人1: </strong></span>你们过去是零收益。我们昨天还在聊这个事情，说我11月24号4.5出来，然后二月4.6出来，我们一看，我靠这技术迭代太快了，我们又做了这么多东西，然后收益是零，然后我们也觉得挺好玩的这什么鬼？</p>
+<p class="transcript-line"><span class="time"><strong>[00:03:19]</strong> </span><span class="speaker"><strong>发言人2: </strong></span>这为啥呢？为什么做是可以理解的，为什么为什么不是把它当做一个公司运营角度定义一个产品，然后好好的把整个流程做完发出来。</p>
+<p class="transcript-line"><span class="time"><strong>[00:03:30]</strong> </span><span class="speaker"><strong>发言人1: </strong></span>我觉得要服务市场上的用户还是有很多挑战和难度的。包括你要解决运营的问题，增长的问题，对吧。但是如果只是服务我们自己内部自己遇到的小问题，我觉得现在是很容易的。</p>
+<p class="transcript-line"><span class="time"><strong>[00:03:42]</strong> </span><span class="speaker"><strong>发言人1: </strong></span>然后我们做的这些所有的东西，实际上比如说我们有一个同事，他做了一个文档工具。因为他自己对于功能迭代的那个版本管理有自己的习惯。但其实我是另外一个习惯，我实际上做一个东西之前，我会先跟客厅人讨论很久，然后他可能就不是这种逻辑，所以他的那个产品我也没法用。那我可能会有自己的产品，所以这些需求还是很个性化的。为什么我们不发呢？原因是我们也不认为我们做这些东西价值厚度很高。你任何一个人他有自己的想法和使用自定义的这个方法和他日常中遇到的问题。</p>
+<p class="transcript-line"><span class="time"><strong>[00:04:21]</strong> </span><span class="speaker"><strong>发言人2: </strong></span>他都可以自己给自己扣定一个。我想先问一下，就是你们现在你刚才讲的所有的他们自己扣定的那些东西，对自己真的会持续用吗？会，然后这个你觉得会成为未来的一个现象吗？未来就是会每个人做很多自己的产品要自己用。</p>
+<p class="transcript-line"><span class="time"><strong>[00:04:39]</strong> </span><span class="speaker"><strong>发言人1: </strong></span>我觉得它是一个分布的问题，其实就是未来以来分布不均。实际上现在可能对于一些工具爱好者来说，实际上他自己应该已经给自己做很多东西了。然后有一些人比如像我们这种，我可能就用我同事做好的东西了。但是我可能也有一些自己个性化的需求，我可能也会自己做点小东西，但是数量上就没有刚才那种工具爱好者做的那么多，对吧？任何一个小问题他可能都会做一个小问题。然后我觉得还是会有相当多数的人，他可能还是在市场上去找一些已经比较成熟的，然后比较标准化的这种产品了。因为它并没有那么多对他来说比较痛的问题需要解决。</p>
+<p class="transcript-line"><span class="time"><strong>[00:05:25]</strong> </span><span class="speaker"><strong>发言人2: </strong></span>另外我好奇，就是你们实践下来，你感觉比如别人做的这个东西你得拿过来改，因为头顶可能微调一下，变成更适合你自己用的，这种比例高吗？还是你觉得AICODE已经强到说我其实也不用改，我干脆就是很快自己搞一个就行了。</p>
+<p class="transcript-line"><span class="time"><strong>[00:05:41]</strong> </span><span class="speaker"><strong>发言人1: </strong></span>首先你自己搞本来也不复杂，就是你只要把基建的东西做好，就我们内部有很多基建。就比如说我们有一套系统，原来我们自己搞的时候，我们就是我sel加super base，然后你要解决后端部署的问题，要解决数据库的问题。然后现在我们就把它一体化了。然后就接我们自己公司的那套后端的环境，发给他一个命令，然后基本上就结束了。那这些ready了以后，实际上你想起一个新项目，半个月前我想到一个IDR，然后把它固定出来。九点多想到的，晚上三点钟固定完了，就自己就可以用了。所以我觉得这个事情它也取决于你本身的功能复杂度。如果比较简单的，我觉得很快就能构建出来。</p>
+<p class="transcript-line"><span class="time"><strong>[00:06:22]</strong> </span><span class="speaker"><strong>发言人1: </strong></span>然后第二，我觉得你要拿来改一改用，还是要看品类的。有一些品类可能你会有一些个性化的需求，你可能会想要自己改改。但我们公司目前为止这件事情应该还没有发生过。</p>
+<p class="transcript-line"><span class="time"><strong>[00:06:38]</strong> </span><span class="speaker"><strong>发言人2: </strong></span>所以就是AI做出来的产品在个人端，未来它有这种folk的需求其实是不多的。</p>
+<p class="transcript-line"><span class="time"><strong>[00:06:46]</strong> </span><span class="speaker"><strong>发言人1: </strong></span>我觉得现在下这个结论有点早，我觉得这个核心取决于你是个什么类型的产品，然后你是怎么发现这个产品的，你的目的是什么？如果你的目的是说我要让这个东西对我来说更好用，我觉得可能不一定是一个比较广泛的事情。但如果说你folk可能是一种不知道娱乐的体验，或者非生产力向的这种，那他可能是不好说的。对。</p>
+<p class="transcript-line"><span class="time"><strong>[00:07:19]</strong> </span><span class="speaker"><strong>发言人2: </strong></span>那你们公司现在主线到底是什么呢？你这几个月积累了什么呢？</p>
+<p class="transcript-line"><span class="time"><strong>[00:07:24]</strong> </span><span class="speaker"><strong>发言人1: </strong></span>感受AI的逐渐变强的过程。我们没有任何积累，也不能说没有任何积累。我们更多的积累就还是说能不能把基建做好，能不能让每个人都像用的比较熟的这些人，然后能够快速的做一个产品，快速实现自己想法，快速的利用coding agent在自己的生产环境中提效。</p>
+<p class="transcript-line"><span class="time"><strong>[00:07:42]</strong> </span><span class="speaker"><strong>发言人2: </strong></span>对，我们能看到的是说你之前发的一个产品，是让大家把自己的一个echo定的聊天记录发上去，然后就自动会给评分什么那些。对对对，还有个人的页面对吧？那个有点像新一代的github的感觉。对，那个也发完以后就也没有后文了是吧？</p>
+<p class="transcript-line"><span class="time"><strong>[00:08:00]</strong> </span><span class="speaker"><strong>发言人1: </strong></span>没有那个发完以后启发了行业，还瞬间对吧？还有一堆人，我去市场上已经看到10个同类的项目了，然后我们发出去就我当时的思考路径是说，将来大家都是操作coding a ent了，对吧？然后有可能你所有的计算设备都有可能是人通过agent再去操作。Agent本身是没什么差别的，都是模型提供的能力。</p>
+<p class="transcript-line"><span class="time"><strong>[00:08:23]</strong> </span><span class="speaker"><strong>发言人1: </strong></span>那到底什么东西构成的差异呢？我觉得核心就是他跟coding a点的对话构成了它的差异，他怎么提需求吧？然后他跟客户在交流什么？因为我现在已经不怎么用ChatGPT了，基本上我所有的问题，计划调研基本都是用code验证来搞。然后我就在想，其实这是比较大的差异化。差异就代表着有可能有稀缺，对吧？那你去连接的稀缺就有可能有价值，所以我的思考就是这样一个路径。</p>
+<p class="transcript-line"><span class="time"><strong>[00:08:51]</strong> </span><span class="speaker"><strong>发言人1: </strong></span>基于这个路径，我就在想，为什么你不能去把coding agent扫你本地的对话记录呢？然后把一些你的特别的东西给拉出来呢？然后我当时设计了一个点叫做你拒绝什么。因为实际上你使用叩听的时候，99%的情况下，你都没什么可以教他的东西。尤其是比如说像我们这种非工程师出身的去看他的话，我其实对于他给出的方案也没有特别好的评估能力，都是按他的建议来。我就专门设计个模块，就是看你都在拒绝什么，然后搞这个以后，我就觉得蛮有意思的。</p>
+<p class="transcript-line"><span class="time"><strong>[00:09:23]</strong> </span><span class="speaker"><strong>发言人1: </strong></span>就是你能看到还是挺不一样的一个画像的对吧？有的人他对于技术架构关注的非常的紧，有的人他对于UI有的人对于。产品定义对我觉得这个就是蛮有意思，就是个小实验，做着玩的。</p>
+<p class="transcript-line"><span class="time"><strong>[00:09:38]</strong> </span><span class="speaker"><strong>发言人2: </strong></span>然后你们前段时间你跟我讲说在做一个给OBC用的产品基建。</p>
+<p class="transcript-line"><span class="time"><strong>[00:09:44]</strong> </span><span class="speaker"><strong>发言人1: </strong></span>我觉得也不能叫基建，就是我的这个逻辑是啥呢？我觉得首先我们自己做智能这方面也很短。其实12月份到现在，我自己感觉确实是说生产力大爆发，而且他没有看到收敛的迹象，智能水平不断在往上，然后coding的这个能力越来越强。所以所有操作计算设备的任务，首先它会都有人可能来指挥固定任务来办。尤其是这些生产力项的任务，他会干的越来越比人强。</p>
+<p class="transcript-line"><span class="time"><strong>[00:10:16]</strong> </span><span class="speaker"><strong>发言人1: </strong></span>那啥样的任务是超计算设备的呢？自从互联网移动互联网，大家各个行业都在数字化，对吧？那其实多数的信息，数据等等流程，其实都放到计算设备上去了，然后创造大量岗位。所以我觉得其实这都已经做好准备了。绝大多数的现在的这些生产力都是由这个超级计算设备带来的那下一步可能就是说模型公司会创造绝大多数的价值。</p>
+<p class="transcript-line"><span class="time"><strong>[00:10:43]</strong> </span><span class="speaker"><strong>发言人2: </strong></span>对我今天刚跟人聊，他提了一个点，我觉得挺有新意。而且他那个对比听起来很不合理，但又非常合理。他说未来的软件有可能发展成跟现在的硬件是一样的，就是跟电脑一样。电脑可能现在就比如十个牌子，我的软件可能也是十个模型或者产品，就是非常的垄断。大家就说未来我们每天用的东西，就像你讲你可能只用几个code a，对对对，然后别的可能各种SaaS什么软件都不用了。对，还有说未来的整个大家使用软件的场景跟行为，可能会跟大家使用硬件是一样的。</p>
+<p class="transcript-line"><span class="time"><strong>[00:11:20]</strong> </span><span class="speaker"><strong>发言人1: </strong></span>我觉得核心是首先就是说模型带来的这个智能水平，创造这个价值实在是太大了。然后模型又是一个非常动的事情，只有有限的人能做。而且我们今天也不讲coding agent，因为实际上与我们现在说的code x clo code，它其实也是模型公司的工具容器而已。所以我觉得最终掌握价值就这么多家模型公司。</p>
+<p class="transcript-line"><span class="time"><strong>[00:11:41]</strong> </span><span class="speaker"><strong>发言人1: </strong></span>然后这些模型公司创造最大的价值，那很有可能大多数的这些生产力的工具都不存在了。以后可能没有PS对吧？以后可能没有这些IDE的工具，以后可能没有这些各个领域的这些工具，你只要有一个内件就可以了。然后你只需要使用模型公司出品的codding edon就好了。它可能会有各种各样的coding a的对吧？围绕着创作领域，它可能是一个画布。围绕着非创作的领域，他肯定是个terminal，或者他把一个你最近color code不是要发一个跟设计有关的东西。我觉得最终就是模型公司拿走绝大多数价值。</p>
+<p class="transcript-line"><span class="time"><strong>[00:12:17]</strong> </span><span class="speaker"><strong>发言人1: </strong></span>然后模型公司拿走绝大多数价值以后，因为这个模型能力太强，然后你指挥规定可以干很多很多事情，导致每个人他其实都可以有一些非常逆驰的需求。这个世界上可能只有我不知道，1万个人可能跟你有共鸣，对吧？可能对你这东西有需求，但你也可以做，因为它成本太低了，所以你也可以把它做出来。</p>
+<p class="transcript-line"><span class="time"><strong>[00:12:38]</strong> </span><span class="speaker"><strong>发言人1: </strong></span>如果创作的这个形式发生了变化，我觉得势必他就会让创作的群体发生变化。就是能够操作这个coding a的人，就现在的新的这些创作者的群体，不管他做啥，我觉得这可能是个新的人群。就导致如果有足够多的这些人在这个地方创造的话，门槛足够低的话，那原来的这些中型公司在做事情就很尴尬了，对吧？</p>
+<p class="transcript-line"><span class="time"><strong>[00:13:01]</strong> </span><span class="speaker"><strong>发言人1: </strong></span>它既没有模型公司创造那么大价值，然后它本身又是利用他自己原来的这个软件的积累和成本，然后构筑起了一些所谓的壁垒。但实际上这些壁垒一夜之间就没了，大家都可以按照自己的需要来定制自己所需要的东西。那我觉得中信公司可能就很尴尬。所以最后它变成一个什么样？变成一个哑铃型的结构。大多数的价值在顶端是模型公司，然后一部分的价值在底端是充分分散的那就是大家所谓的OPC。但是我觉得OPC不一定是one person，可能就是两三个人、三五个人，然后大概就是一个三五十人团队的效率了。最终我觉得可能是一个这样的分布。</p>
+<p class="transcript-line"><span class="time"><strong>[00:13:39]</strong> </span><span class="speaker"><strong>发言人1: </strong></span>然后再说到他说的那个点，我觉得不能说软件就是模型的价值。在生产力上你可能用空间就够了。但反而到下面你日常要去使用的一些小型的产品，它可能会变得更加分散，我觉得反而会出现另外一种情况，就是你看传统的软件行业，实际上你很难看到一个软件行业它是能有溢价的。它没有溢价，它没有品牌效应，它没有这东西，这是软件行业特点，对吧？</p>
+<p class="transcript-line"><span class="time"><strong>[00:14:05]</strong> </span><span class="speaker"><strong>发言人1: </strong></span>但是当你这个东西涌现了足够的多样性以后，并且你有可能可以在里面创造更多差异化的体验的时候，甚至在这个工具里去比较好的影响人的情绪。比如说我们公司有一个同事，他比较喜欢古文的那种，他就做了一个笔记软件，软件是竖着写字。然后我们看这个就说这他妈谁有需求，但他自己就很喜欢这东西，然后你看这就是很差异化。那针对这种我觉得他有可能会非常分散，然后有可能他也会有一些所谓的这种溢价出来，就是情绪价值占比会比较高。对我觉得会占比非常高。然后最终有可能这样的团队他反而是能做出一些有一些价值的产品。</p>
+<p class="transcript-line"><span class="time"><strong>[00:14:49]</strong> </span><span class="speaker"><strong>发言人2: </strong></span>这个让我想到有点像什么，像那个艺术领域。对，就是大家会看，尤其是比如说一些行为艺术什么的，大家会觉得说靠这都行。他可能就随便胡搞，在在外行看来，就觉得他随便胡搞了一下，然后那个产品就特别值钱，大家特别认可。</p>
+<p class="transcript-line"><span class="time"><strong>[00:15:06]</strong> </span><span class="speaker"><strong>发言人1: </strong></span>对这个cryo就是这种对吧？你就是情绪价值。好的mean coin.</p>
+<p class="transcript-line"><span class="time"><strong>[00:15:11]</strong> </span><span class="speaker"><strong>发言人2: </strong></span>那你觉得后面这些长尾的产品，它会是模型厂商出的一个，比如类似APP store来承接还是会怎么样？你说会不会有。</p>
+<p class="transcript-line"><span class="time"><strong>[00:15:21]</strong> </span><span class="speaker"><strong>发言人1: </strong></span>一个分离的平台？</p>
+<p class="transcript-line"><span class="time"><strong>[00:15:22]</strong> </span><span class="speaker"><strong>发言人2: </strong></span>对我觉得。</p>
+<p class="transcript-line"><span class="time"><strong>[00:15:24]</strong> </span><span class="speaker"><strong>发言人1: </strong></span>大概率会有。</p>
+<p class="transcript-line"><span class="time"><strong>[00:15:26]</strong> </span><span class="speaker"><strong>发言人2: </strong></span>对，会是某个模型厂吗？</p>
+<p class="transcript-line"><span class="time"><strong>[00:15:28]</strong> </span><span class="speaker"><strong>发言人1: </strong></span>我觉得不会。你看这件事情，我认为如果你是从一个内容平台的角度来讲，那模型厂商掌握的是什么？模型厂商掌握的是发布器，因为那个创造工具在他手里，对吧？但实际上模型厂商很难掌握容器，因为容器是操作系统，可能是手机软件、移动APP，可能是网页，可能是一个PC的软件，这些是它的容器。那你要么就是你自己定义一个新的容器出来，你像抖音来装短视频，小红书来装图文。大家很多现在AI game？或者小型一点的游戏，什么rezon a什么这种lopt这种？它就是自己定义容器加自己做发布器。</p>
+<p class="transcript-line"><span class="time"><strong>[00:16:10]</strong> </span><span class="speaker"><strong>发言人1: </strong></span>但我觉得这件事情比较难的地，就这种我也不是很看好，为什么呢？因为发布器你做肯定是没有任何优势的。你自己做个发布器，但是你这个发布器本身你要跟这些coding agent的这些工具去做价格战，怎么可能呢？你要么就补贴，你如果不补贴的话，用户要创作反而要更多的钱。</p>
+<p class="transcript-line"><span class="time"><strong>[00:16:30]</strong> </span><span class="speaker"><strong>发言人2: </strong></span>但可以在。</p>
+<p class="transcript-line"><span class="time"><strong>[00:16:32]</strong> </span><span class="speaker"><strong>发言人1: </strong></span>这消费，对。</p>
+<p class="transcript-line"><span class="time"><strong>[00:16:33]</strong> </span><span class="speaker"><strong>发言人2: </strong></span>但可以在这消费后再去消费。</p>
+<p class="transcript-line"><span class="time"><strong>[00:16:35]</strong> </span><span class="speaker"><strong>发言人1: </strong></span>对，这就是容器。所以我觉得就是你要对于新的内容形式有一个比较好的判断，然后你做出一个这样比较好的容承接这种内容形式容器，我觉得这个可能也是make sense。</p>
+<p class="transcript-line"><span class="time"><strong>[00:16:46]</strong> </span><span class="speaker"><strong>发言人2: </strong></span>目前看起来至少我能看到的是一部分各种skill。什么大家发在github上，另外一堆人搞一些新产品会发到小红书上比较多。那未来是不是仍然会是这些老的平台？因为其实这些小产品小到有点像内容本身了，对吧？就跟我们讲小游戏其实本质是内容，而不是游戏类似。所以它是不是还是利好内容平台？</p>
+<p class="transcript-line"><span class="time"><strong>[00:17:08]</strong> </span><span class="speaker"><strong>发言人1: </strong></span>我觉得不会。首先你看现在的这些内容平台，它就没有容器。</p>
+<p class="transcript-line"><span class="time"><strong>[00:17:14]</strong> </span><span class="speaker"><strong>发言人2: </strong></span>就它不能消费。</p>
+<p class="transcript-line"><span class="time"><strong>[00:17:15]</strong> </span><span class="speaker"><strong>发言人1: </strong></span>对它不能消费。然后第二我觉得就是核心，如果你认为他是个新人群的话，那他其实在原来的这个平台上，他可能就有或多或少的分发和连接的问题，对吧？你说我现在要去抖音上发布一个作品，我以什么样的形式呈现呢？我用短视频去把我的这个东西再做一遍，我觉得这个就比较难。所以我认为如果真的会出现新的创作群体，围绕这个新创新有新的文化，我觉得它就一定会有新的平台。因为老的平台不兼容它这个东西。</p>
+<p class="transcript-line"><span class="time"><strong>[00:17:45]</strong> </span><span class="speaker"><strong>发言人2: </strong></span>你觉得未来这些长尾的所谓的OPC做的产品的数量级大概会是怎么样的？</p>
+<p class="transcript-line"><span class="time"><strong>[00:17:51]</strong> </span><span class="speaker"><strong>发言人1: </strong></span>我你算算我们做了多少个，我不比拍视频还快。</p>
+<p class="transcript-line"><span class="time"><strong>[00:17:55]</strong> </span><span class="speaker"><strong>发言人2: </strong></span>对，所以我现在一个想问就是说，但是它跟视频的区别是，视频可消费内容的必肯定是远高于这些产品的。</p>
+<p class="transcript-line"><span class="time"><strong>[00:18:02]</strong> </span><span class="speaker"><strong>发言人1: </strong></span>不一定，我觉得要换个角度想这个问题，就是为什么我们要刷视频？它是一种获取信息，消费内容，你是这种体验吗？但其实本质上你是为了杀时间对吧？那它就是一种娱乐体验。那为什么你不能把现在的就是我我随便想，为什么你不能用coding的能力把现在的有限的视频变得更有意思，这其实也是一种产品形态，这也是一种娱乐体验。</p>
+<p class="transcript-line"><span class="time"><strong>[00:18:28]</strong> </span><span class="speaker"><strong>发言人1: </strong></span>所以我觉得这件事情本质上，原来我们看到这些软件是因为你for q time的这种软件类型。可能就是游戏社交内容，就这些流媒体播放器其实就这些东西其实都还是平台。然后当这个东西发生变化以后，有没有可能利用这种模态融合的能力，使得体验变得更丰富。我觉得这个是有可能的那如果你这么去想的话，你说它的可消费性，它的消费价值？它可能不比视频弱。</p>
+<p class="transcript-line"><span class="time"><strong>[00:18:57]</strong> </span><span class="speaker"><strong>发言人2: </strong></span>你看我们之前聊过一个问题，就是AI降低视频生成的门槛对于抖音的影响有多大？我觉得当时我们提了一个核心观点是说，抖音现在的供给其实是非常充分的，非常充。所以你做再多的AI的视频进来，其实你至少短期的影响不会有那么大，对吧？因为反正每个人每天视频刷不完的。现在我随便讲一天刷1000条，他本身一天已经有上万条甚至更多的，那你再进来更多其实意义没有那么大。那对于。</p>
+<p class="transcript-line"><span class="time"><strong>[00:19:24]</strong> </span><span class="speaker"><strong>发言人1: </strong></span>做做平台的视角，还是说用消费者视角。</p>
+<p class="transcript-line"><span class="time"><strong>[00:19:28]</strong> </span><span class="speaker"><strong>发言人2: </strong></span>平台已经用过了。</p>
+<p class="transcript-line"><span class="time"><strong>[00:19:30]</strong> </span><span class="speaker"><strong>发言人1: </strong></span>你觉得这俩有我觉得有区别。就是你做平台的视角而言的话，你这么去看数字的话，确实是这样对吧？我优质的可以推荐的内容，我的这个池子我是很充分的。但你从消费者视角去讲这个事情的话，我觉得它永远是一个随着你的内容泛化和多样性增强，会使得一些原来留存不够好的用户留存变得更好。因为他想要获取的内容原来没有，现在有了。</p>
+<p class="transcript-line"><span class="time"><strong>[00:19:54]</strong> </span><span class="speaker"><strong>发言人2: </strong></span>但我会怀疑的就是这个编辑效应到底有多少？我觉得不会有那么大，至少目前看来没有那么大。</p>
+<p class="transcript-line"><span class="time"><strong>[00:19:59]</strong> </span><span class="speaker"><strong>发言人1: </strong></span>你说做平台的视角。</p>
+<p class="transcript-line"><span class="time"><strong>[00:20:01]</strong> </span><span class="speaker"><strong>发言人2: </strong></span>用户for.</p>
+<p class="transcript-line"><span class="time"><strong>[00:20:02]</strong> </span><span class="speaker"><strong>发言人1: </strong></span>用户的视角，我觉得因为现在模型还可以更好。我认为这件事情是说就是你想摄像头这件事情，摄像头在有想象力人和没有想象力之间其实差别是巨大的对吧？对于做出好的内容来说，然后我觉得当AI可控性变得再强，一致性变得再好，这些有想象力的人充分沉浸在里面去创作的时候，越来越多的人进来。我觉得它的内容的丰富性一定是越来越强的。所以它一定会使得内容的演化的这个过程会持续的进行。所以我觉得对消费者来说，一定是会看到越来越好的东西。</p>
+<p class="transcript-line"><span class="time"><strong>[00:20:37]</strong> </span><span class="speaker"><strong>发言人2: </strong></span>但我想讲几点，就是它是一个量变还看不到的，是一个质变的结果。我觉得就是你比如说现在抖音的视频刷起来可能已经是80分。我假设对你AI进来可能他从80提到80、50、90对吧？它不是一个从二三十提到七八十的那么一个过程。</p>
+<p class="transcript-line"><span class="time"><strong>[00:20:52]</strong> </span><span class="speaker"><strong>发言人2: </strong></span>对，然后我实际上想讲的是说，我们看现在的apple store，最终的结果是绝大多数长尾的大家是不用的是吧？大家最后慢慢的聚合到只用那些少数头部的。对对对，所以他是不是也会有一样的问题，就是本身供给的问题没有那么大。大家本身的想象力跟最后做出来的东西就是有限的那AI进来会不会也是这样的？最后还是会聚焦到一些少数的头部的产品。</p>
+<p class="transcript-line"><span class="time"><strong>[00:21:19]</strong> </span><span class="speaker"><strong>发言人1: </strong></span>首先我认为它一定是符合这个分布规律的，因为它就是这个选择的结果，我觉得这个是必然的。但是这个并不矛盾，就是新的生产工具变强以后，他可能会让新的更适合这个媒介的创作者出来，然后做出一些真正不一样的东西。抖音的短视频对吧？其实一样的，就是你像那些原来拿DV拍优酷土豆的那些视频拍客，他掌握的技巧和后来这波使用短视频拍摄的人完全是不同的。最终使消费者获得的内容越来越刺激了，越来越消费价值更强，或者符合时代。所以我觉得针对下一代其实也是一样的。</p>
+<p class="transcript-line"><span class="time"><strong>[00:21:57]</strong> </span><span class="speaker"><strong>发言人2: </strong></span>我目前感觉还是就是从如果单从使用价值来讲，可能不会有那么大的变化。因为大家绝大多数人我觉得日常需求其实就那些，没有那么多长尾的需求。所以我觉得从情绪价值角度来讲也许是更好的。包括我现在刷到一些好玩的，你看比如大家经常做一些什么桌面的一些什么效果，装饰之类的对吧？这个我看很多做出来就能很高的赞之类的这些其实我觉得就是小东西的偏内容，偏情绪价值。对，那这个也许他就是把它当做内容来做，最后大家觉得说这个人做就是好，甚至有可能说大家就认某个人对吧？这个人做出来每个东西都没错。</p>
+<p class="transcript-line"><span class="time"><strong>[00:22:35]</strong> </span><span class="speaker"><strong>发言人1: </strong></span>这个是我比较believe的，而且我觉得其实本来人只需要情绪价值，就是我自己web coding做产品也是情绪价值，我那么多东西也不发，他在干嘛呢？所以就是我认为大部分的生产力是岗位价值带来的。是你这个社会经济运转中，你的这个行业，你的这个岗位诞生的问题，所以你要去解决。但你说让他自己去搞这东西，他可能不愿意搞了。生产力就是一个很功利的东西，但实际上如果真的，你看那些生产力工具，你可能一到周六周日爹又没了，对吧？他可能就是这样的东西，但是你说真的再往后看，对吧？那大家真的不需要工作了，30岁退休了，所有人那接下来会怎么样？其实就是什么东西能影响你，什么东西能够让你相信他，什么东西能够让你有意义感，你可能就需要什么样的东西。</p>
+<p class="transcript-line"><span class="time"><strong>[00:23:25]</strong> </span><span class="speaker"><strong>发言人2: </strong></span>所以未来的AI构建出来的产品，或者OPC做的东西可能会更偏情绪价值。</p>
+<p class="transcript-line"><span class="time"><strong>[00:23:30]</strong> </span><span class="speaker"><strong>发言人1: </strong></span>我叫体验型产品。</p>
+<p class="transcript-line"><span class="time"><strong>[00:23:32]</strong> </span><span class="speaker"><strong>发言人2: </strong></span>是不是就会更像内容属性的东西？</p>
+<p class="transcript-line"><span class="time"><strong>[00:23:34]</strong> </span><span class="speaker"><strong>发言人1: </strong></span>你怎么定义内容属性？</p>
+<p class="transcript-line"><span class="time"><strong>[00:23:36]</strong> </span><span class="speaker"><strong>发言人2: </strong></span>就是我是在消费内容，而不是在消费它的使用价值。</p>
+<p class="transcript-line"><span class="time"><strong>[00:23:40]</strong> </span><span class="speaker"><strong>发言人1: </strong></span>不一定消费体验我觉得核心点就比如说你看就哪怕是工具影像领域一个产品叫大那个产品也是它的设计风格，调色这些东西也是很不一样的。它其实也会有自己非常时钟的一些粉丝影像。</p>
+<p class="transcript-line"><span class="time"><strong>[00:23:56]</strong> </span><span class="speaker"><strong>发言人2: </strong></span>我觉得是少有的不一样的领域。就是影像领域本来就是会我记得我们第一期播好像聊到过，影像领域的那个APP的排行榜是少有的不断在变化的。就是一个新的滤镜出来就会带动。</p>
+<p class="transcript-line"><span class="time"><strong>[00:24:09]</strong> </span><span class="speaker"><strong>发言人1: </strong></span>不是，其实是基础技术的变化。比如说从一开始的最早的一些图形学的东西，然后进化到深度学习刚开始出现的时候，然后再到干对吧？然后再到diffusion。它其实技术出现就可以做出很多不一样的东西来，包括玩法。其实你看现在这个技术进展的脉络也是一样，因为现在直接就一次性打破了，coding这件事情一下就地板了。我觉得他这个涌现式这个爆发就只有你想不到，就是我觉得他会太多样了，就很非标的。</p>
+<p class="transcript-line"><span class="time"><strong>[00:24:37]</strong> </span><span class="speaker"><strong>发言人1: </strong></span>我二三年准备做一个睡眠产品，因为我当时有一些失眠问题。然后我当时的idea是说，我觉得睡前你跟一个AI聊天，聊一些限定的内容，可能会加速让你睡着。对我就在想一个这样的idea，最近我们有一个同事coding了一个，这个是我之前也想过，但是他那天刚要跟我说，他说我做了一个他刚说的开头，我就说你做个行行。他说对对对，我们俩完全想一起去了，他做了一个地图，这个地图有很多个地方，然后你随便点一个地方，他就link到一个youtube上。在那个地方走路的视频，就让你看到世界各地什么样的这不是最好玩的一件事情。因为我有一个朋友之前就在全世界各地走路录那个接到下雨的感觉。</p>
+<p class="transcript-line"><span class="time"><strong>[00:25:20]</strong> </span><span class="speaker"><strong>发言人2: </strong></span>他就用这个东西比想象有很多。</p>
+<p class="transcript-line"><span class="time"><strong>[00:25:22]</strong> </span><span class="speaker"><strong>发言人1: </strong></span>对我看他可能就是还用了那个圆的，然后这不是最牛逼的，最牛逼的是什么呢？就是说我们另外一个同事知道这个产品以后没说话，然后当天晚上他睡不着就打开这个产品一看，然后希望用这个产品来帮自己睡着。你想想对吧，我们三个其实是完全不同的切入点，然后在这个上面，所以我觉得当你真的open monday的去，你就你的生活不是只有你的岗位价值的话，其实你有太多事情可以关注和太多可能让你的生活增加一点点小乐趣的这种小玩意儿是我。</p>
+<p class="transcript-line"><span class="time"><strong>[00:25:53]</strong> </span><span class="speaker"><strong>发言人2: </strong></span>最近在小红书上刷到一个产品给你做，我觉得特别好。对，他把各种古诗跟对应的地理位置放到了一起。</p>
+<p class="transcript-line"><span class="time"><strong>[00:26:01]</strong> </span><span class="speaker"><strong>发言人1: </strong></span>对。</p>
+<p class="transcript-line"><span class="time"><strong>[00:26:02]</strong> </span><span class="speaker"><strong>发言人2: </strong></span>这个很好。对，比如李白的某首诗，然后你直接点进去看，说他是在哪个地方写的，写的是哪儿，对吧？就是什么飞流直下三千尺对吧？你就点去看到那个瀑布。</p>
+<p class="transcript-line"><span class="time"><strong>[00:26:12]</strong> </span><span class="speaker"><strong>发言人1: </strong></span>对对对，这个蛮好。我觉得这种东西你说它能商业化吗？我觉得很难，但他就是个个人兴趣。可能他如果在推特发一发，他自己做一些乱七八糟的东西对吧？他可能有一些就有一些粉丝。</p>
+<p class="transcript-line"><span class="time"><strong>[00:26:23]</strong> </span><span class="speaker"><strong>发言人2: </strong></span>但你提的这个点特别好，我觉得现在很多人也在开始讨论这个问题，现在很多人在无私的奉献自己。Skills之类的对，但不能变现我觉得始终是一个问题。</p>
+<p class="transcript-line"><span class="time"><strong>[00:26:33]</strong> </span><span class="speaker"><strong>发言人1: </strong></span>是为什么你。</p>
+<p class="transcript-line"><span class="time"><strong>[00:26:34]</strong> </span><span class="speaker"><strong>发言人2: </strong></span>最后肯定是要有变现方法的？</p>
+<p class="transcript-line"><span class="time"><strong>[00:26:37]</strong> </span><span class="speaker"><strong>发言人1: </strong></span>不是，就个体而言，它不需要变现，我觉得这个东西是被成本决定的，就是我们去讲为什么不能变现，这个东西始终是有问题。我们讲的都是有一个更上层的目标，让你不得不变现。比如像我们这种公司，我们有股东义务，我们有股东责任，我们自己有员工责任，我们有这些东西，我们希望把公司做的越来越好，然后我们符合资本主义的这个路线，那我们就得无限增长。他就是这样的，但你对于个人，你说我那我就随便我搞点什么东西，我自己就发出来了，无所谓，因为没成本。所以我觉得它相对的就你到底有没有一个促使你不断向前呢？</p>
+<p class="transcript-line"><span class="time"><strong>[00:27:09]</strong> </span><span class="speaker"><strong>发言人1: </strong></span>我们再说极端一点，我们自己现在就这个情况，对吧？那都是大家可能两三个人就能搞了。北京这些写字楼都不需要了，为什么需要写字楼？为什么几十个人要聚在一起，几百人要聚在一起？没必要吧？那我不需要在北京，我不需要那么大的生活成本，我可能随便一个whatever地方我就可以待着了，我就低功耗，我也不需要多少钱，我就做一点有的没的司机喜欢的东西，其实完全make sense，没问题。</p>
+<p class="transcript-line"><span class="time"><strong>[00:27:33]</strong> </span><span class="speaker"><strong>发言人2: </strong></span>所以正好讲到这个问题，那你怎么样尽到你的股东责任。</p>
+<p class="transcript-line"><span class="time"><strong>[00:27:38]</strong> </span><span class="speaker"><strong>发言人1: </strong></span>怎么样进到我的股东群？我觉得我们自己本身还是比较喜欢创新，做一些不一样的东西。所以之前上一波就是二三年的时候在思考AI这东西怎么办。然后那时候也比较悲观，相对来说，因为我刚从一个矫枉过正的状态中，我说不行，我他妈现在要盈利。</p>
+<p class="transcript-line"><span class="time"><strong>[00:27:55]</strong> </span><span class="speaker"><strong>发言人2: </strong></span>对，这个可以听我们前几期播客，我很激动的。我要盈利。</p>
+<p class="transcript-line"><span class="time"><strong>[00:28:00]</strong> </span><span class="speaker"><strong>发言人1: </strong></span>然后我们就盈利了对吧？盈利了以后，那你要有一些精神至上的追求，你这东西没什么意思，那你现在就要重新去看这个时代需要什么。我还是回到这个点，就是你真的要去做时代需要的东西。然后我自己buying的这个新的群体，就是像我这种人，我们公司有好多这样的人。</p>
+<p class="transcript-line"><span class="time"><strong>[00:28:17]</strong> </span><span class="speaker"><strong>发言人2: </strong></span>你说web coding的。</p>
+<p class="transcript-line"><span class="time"><strong>[00:28:18]</strong> </span><span class="speaker"><strong>发言人1: </strong></span>人我觉得不能叫web coding.</p>
+<p class="transcript-line"><span class="time"><strong>[00:28:20]</strong> </span><span class="speaker"><strong>发言人2: </strong></span>就是说maker，对。</p>
+<p class="transcript-line"><span class="time"><strong>[00:28:22]</strong> </span><span class="speaker"><strong>发言人1: </strong></span>maker designer, 我觉得就是这种人。然后这种人其实很多，原来你没工具，现在你跟最顶级的程序员之间的这个距离已经抹平了很大一部分了。或者你去搞一些东西，不需要一个最顶尖的程序员。我觉得这就是个新人群，然后我认为现在也有新文化，就是你说的这个去什么奉献，巴拉巴拉，这就是个新文化。我觉得这个东西就很好，这个东西值得做。</p>
+<p class="transcript-line"><span class="time"><strong>[00:28:45]</strong> </span><span class="speaker"><strong>发言人1: </strong></span>而且我认为未来很有可能会转变成什么呢？就除了模型以外，很多商业体系，小型公司也好，也就只有小型公司，中型公司都没了。然后它是什么？它从一个business的这种model转化成impact的model。我觉得这个是很大概率会发生的。就像我们刚刚讲的那种，你其实无私奉献，或者你有自己的taste，有自己的审美，其实它是个impact，它不是一个business事情。但这个鹰派最后会转换成经济效益了。就因为你创造了价值，你为更多人创造意义感，这东西就是有价值的。</p>
+<p class="transcript-line"><span class="time"><strong>[00:29:16]</strong> </span><span class="speaker"><strong>发言人2: </strong></span>你这个就刚刚讲到当时的那个github开始的时候，你大家上去开源自己的代码什么的。</p>
+<p class="transcript-line"><span class="time"><strong>[00:29:21]</strong> </span><span class="speaker"><strong>发言人1: </strong></span>有点像对对对，所以这个社区，所以就回到我自己的老本行了，做老路呗。我就觉得我是相信这个群体是有新的社区的可能性的。这个社区我认为随着这个技术发展也跟原来会完全不一样。我觉得所有的大家去讲说抖音也好，这种我觉得都是不对的，就不应该用这种小问题方法来想这件事情。我觉得还是要回到更本质的那个角度去想。就是现在有一个新的人群，然后这群人非常喜欢创造，对吧？那怎么样能够帮助他们更好的连接，然后帮助他们再去连接可能对他们的taste比较适应的人。我觉得就是回到这个问题去想，所以我觉得形式上反正还是挺多可能性的。</p>
+<p class="transcript-line"><span class="time"><strong>[00:30:05]</strong> </span><span class="speaker"><strong>发言人2: </strong></span>所以就是你们现在在做一个maker的社区，maker社区。对，所以你们先讲一讲这个产品大概是一个什么思路，做什么事情。</p>
+<p class="transcript-line"><span class="time"><strong>[00:30:13]</strong> </span><span class="speaker"><strong>发言人1: </strong></span>这个产品核心来讲提供的价值就是连接价值。然后我想要给大家创造的就是回应、回想、回报。我创造的是回想，不是简单的回应和回报。</p>
+<p class="transcript-line"><span class="time"><strong>[00:30:26]</strong> </span><span class="speaker"><strong>发言人2: </strong></span>等我们定做一下回报很好理解，就是他能赚到钱。回应指的是吗？</p>
+<p class="transcript-line"><span class="time"><strong>[00:30:30]</strong> </span><span class="speaker"><strong>发言人1: </strong></span>三个阶段。第一个阶段是被人理，第二阶段是被谁理，第三个阶段是赚到钱，就是产生价值。然后他是一个创作者在这个生命周期里面的不同的阶段，被人理，就是有很多人认可你，对吧？你这东西发出来有一些数字上的反馈，这其实就已经完成了回应。</p>
+<p class="transcript-line"><span class="time"><strong>[00:30:49]</strong> </span><span class="speaker"><strong>发言人1: </strong></span>回想是什么？回想是说我在意谁来认同我，所以他就是社区更重要的事情，回报就是赚钱，所以我们更关注的是回想。就是你得拉到同样的人，同样的创作者，这些职业创作者可能会产生一些化学反应。</p>
+<p class="transcript-line"><span class="time"><strong>[00:31:05]</strong> </span><span class="speaker"><strong>发言人1: </strong></span>比如说我们自己内部经常我会动一个东西说，我实在没想法，我就拉我旁边那个设计师，我说快快快，这个页面你帮我搞一下，重构一下。我说我现在实在是我觉得都很烂，然后他就接受了。然后我要搞一些后端的东西，我要debug什么东西特别复杂，我就会拉另外一人过来。那我们公司内部能这样干，为什么它不能是一个更开放的结构呢？更能够让这么多节点连接起来，然后产生这样的反应呢？我觉得这是有可能的。所以我觉得这件事情就很有价值。</p>
+<p class="transcript-line"><span class="time"><strong>[00:31:36]</strong> </span><span class="speaker"><strong>发言人1: </strong></span>因为我belive的事情是就你回到最原始的，我觉得我们这一代人太稀缺了。赶上了完整的移动互联网，原生移动互联网居民，然后再到也我觉得太稀缺了。历史上但我还是相信互联网本身，因为我觉得互联网提供这个连接能力，是人类整个聚落的这个叙事的一个大的web。它是社会性动物和信息交换、通讯运输这些东西带来的价值。所以我是believe连接本身的是我觉得如果你们发现有新的人群出现，或者有巨大的连接问题出现的时候，那连接我认为始终是最大的价值。在我的心里，智能根本就不是最好莱坞那东西。</p>
+<p class="transcript-line"><span class="time"><strong>[00:32:16]</strong> </span><span class="speaker"><strong>发言人2: </strong></span>对AI其实没有改变这件事情，没有改变连接。</p>
+<p class="transcript-line"><span class="time"><strong>[00:32:19]</strong> </span><span class="speaker"><strong>发言人1: </strong></span>跟移动有可能会改变，就是因为它会凭空创造一些新的节点，对吧？因为A的就是一种节点。</p>
+<p class="transcript-line"><span class="time"><strong>[00:32:26]</strong> </span><span class="speaker"><strong>发言人2: </strong></span>就是人跟AI的人跟AI的连接。</p>
+<p class="transcript-line"><span class="time"><strong>[00:32:27]</strong> </span><span class="speaker"><strong>发言人1: </strong></span>这其实是一种新节点，但是目前来说还是差一点。对，这是我想的另外一个问题。我觉得如果说AI如果没有自主性，AI没有自己的身份，AI始终从属于一个人，他是一个人工具，一个人能力的延伸的话，我觉这件事情太不性感了，太没意思，太无聊了，就完全不好玩。我觉得真正好玩是说真的你能涉及到机制。这个机制能够真的凭空创造出很多你拥有自己独立主权的，能够自己给自己赋予意义感的AIB，virtual being对吧？你能够自己赋予给自己意义，我觉得这个事情就变得有意思了。</p>
+<p class="transcript-line"><span class="time"><strong>[00:33:00]</strong> </span><span class="speaker"><strong>发言人2: </strong></span>但你现在的产品还是面向人的。</p>
+<p class="transcript-line"><span class="time"><strong>[00:33:02]</strong> </span><span class="speaker"><strong>发言人1: </strong></span>我面向人，但是我不排除我可以面向virtual鼻影。就未来呗，未来对，我觉得这就是另外一个事儿了。因为他又不是我定义的这波创作者，对吧？</p>
+<p class="transcript-line"><span class="time"><strong>[00:33:13]</strong> </span><span class="speaker"><strong>发言人2: </strong></span>所以你现在这个产品是过去几个月真的认真在做的东西了。</p>
+<p class="transcript-line"><span class="time"><strong>[00:33:16]</strong> </span><span class="speaker"><strong>发言人1: </strong></span>比较认真参与的人数最多的一个产品。这个产品大概八个人参与。</p>
+<p class="transcript-line"><span class="time"><strong>[00:33:21]</strong> </span><span class="speaker"><strong>发言人2: </strong></span>能做。</p>
+<p class="transcript-line"><span class="time"><strong>[00:33:22]</strong> </span><span class="speaker"><strong>发言人1: </strong></span>七八个了，做了前前后后也有一个月了。但是就围绕着我的这个问题，我们已经改造了很多版了，就是都觉得东西不对，就是没有达到我想要那个结果。</p>
+<p class="transcript-line"><span class="time"><strong>[00:33:35]</strong> </span><span class="speaker"><strong>发言人2: </strong></span>你要的结果就是回想。</p>
+<p class="transcript-line"><span class="time"><strong>[00:33:37]</strong> </span><span class="speaker"><strong>发言人1: </strong></span>对我要的结果就是真正服务于这个人群什么样的形式，什么样的媒介形态，什么样的连接方式，什么样的网络结构能够支撑我说这东西。</p>
+<p class="transcript-line"><span class="time"><strong>[00:33:46]</strong> </span><span class="speaker"><strong>发言人2: </strong></span>这个人群就是现在在web coding的人我简单理解。</p>
+<p class="transcript-line"><span class="time"><strong>[00:33:49]</strong> </span><span class="speaker"><strong>发言人1: </strong></span>我新的创作者，你可以把它叫做正在web coding人。但这个正在的coding也有很多人，吧？有的人他就是在做一些岗位价值东西，然后你让他自己真的就没事儿了。那他可能就去打麻将，打王者荣耀，他也不是很想要去做一些东西。那这种人肯定不是我要的我要的人不是这些赚钱的人我要的人就是说他对于这件事情喜欢。</p>
+<p class="transcript-line"><span class="time"><strong>[00:34:09]</strong> </span><span class="speaker"><strong>发言人2: </strong></span>但你觉得这个人群未来会变得多大呢？因为现在其实还是相对小的。</p>
+<p class="transcript-line"><span class="time"><strong>[00:34:14]</strong> </span><span class="speaker"><strong>发言人1: </strong></span>现在小，我就现在就挺大了。</p>
+<p class="transcript-line"><span class="time"><strong>[00:34:15]</strong> </span><span class="speaker"><strong>发言人2: </strong></span>看你怎么定义的，扫描就是这个人群你觉得到底是目前可能是我不了解，可能千万级，你未来会是几个亿甚至更多吗？</p>
+<p class="transcript-line"><span class="time"><strong>[00:34:24]</strong> </span><span class="speaker"><strong>发言人1: </strong></span>如果你说最极端的未来，我觉得十年内我们就能看到大多数人不用工作了。十年可能有点乐观也不一定，就可能有一些突发事件有可能就会加速了，那大家总要有一些意义感。我觉得本质上就你的目标是被其他人影响的，所以取决于我要怎么做。我觉得如果你能够做出一些很好的这种impact model，你能做出很好的这种形态出来的。真的有一些这样的人的话，那我觉得他会影响其他人的。</p>
+<p class="transcript-line"><span class="time"><strong>[00:34:51]</strong> </span><span class="speaker"><strong>发言人2: </strong></span>我觉得现在对于大多数人用AI coding来讲，还是有门槛的对吧？大家还是会下意识的觉得说我需要懂技术。对对对，以及说我做出来的东西其实是。</p>
+<p class="transcript-line"><span class="time"><strong>[00:34:59]</strong> </span><span class="speaker"><strong>发言人1: </strong></span>不大多数人指的是普通老百姓是吧？对，但我觉得不该这么去想这个问题，你想这问题没有意义。因为最后所有的普遍性，就我们说的大多数和老百姓最后都是模型公司的价值。因为他是在做普遍性，你是拿不到普遍性价值的，你如果围绕他去做事情你就完蛋了，然后你反而要做特殊性，你要做定义，然后你要等待着他长大，他能不能长大只被一件事情决定。</p>
+<p class="transcript-line"><span class="time"><strong>[00:35:24]</strong> </span><span class="speaker"><strong>发言人1: </strong></span>就是你是不是believe这个东西是一个产生意义感，产生impact的一个原始的东西。我believe我believe创造就是产生鹰派，产生影响的最原始的东西。那你创造就是能够影响到其他人，然后你能影响这个东西就变大，对吧？</p>
+<p class="transcript-line"><span class="time"><strong>[00:35:41]</strong> </span><span class="speaker"><strong>发言人1: </strong></span>他可能一开始就不大。你说一开始做短视频的时候，真正能做出好东西，创造有多少？没多少，但是它会影响有的人他就会被影响，觉得我要做出好东西，我就有意义了。自然而然这个东西就一波一波一波。所以我相信还是媒介形式。我觉得整个就这个计算本身，我觉得这个太强大了。就人类发明的东西计算机，然后围绕计算，那你做出这些完全不同的互动的形式，完全不同的参与的方式，获得体验的方式。而这个东西大家都把他的想象禁锢住了，现在就要充分去想。</p>
+<p class="transcript-line"><span class="time"><strong>[00:36:14]</strong> </span><span class="speaker"><strong>发言人2: </strong></span>所以这个其实就是我要问的，就是你刚才讲的，其实你内涵你自己在对标的，你已经把它当做是一个短视频级别的东西了。比如下线至少是一个github级别的东西。</p>
+<p class="transcript-line"><span class="time"><strong>[00:36:24]</strong> </span><span class="speaker"><strong>发言人1: </strong></span>也不一样，不能定义。就是说你是要用什么规模来定义，还是影响力来定义都可以。我觉得规模上你肯定没有短视频大家，因为你不做普遍性，你怎么可能有短视频大家。</p>
+<p class="transcript-line"><span class="time"><strong>[00:36:34]</strong> </span><span class="speaker"><strong>发言人2: </strong></span>但像你讲它未来会涨。</p>
+<p class="transcript-line"><span class="time"><strong>[00:36:36]</strong> </span><span class="speaker"><strong>发言人1: </strong></span>它未来会涨，它也不会涨成一个普遍性。我认为就最终还是有一些人，他可能会知道有这么样一些创作者做出来一些有意思的东西，他自己会用。但是他可能也不会最终反哺这个网络，对于网络产生比较大的价值。</p>
+<p class="transcript-line"><span class="time"><strong>[00:36:50]</strong> </span><span class="speaker"><strong>发言人2: </strong></span>他这就是github。</p>
+<p class="transcript-line"><span class="time"><strong>[00:36:52]</strong> </span><span class="speaker"><strong>发言人1: </strong></span>那你说它更像github吗？我觉得也不太一样。所以我觉得你说从影响力的角度，我当然希望他能够做出很大的影响力了。因为我我还是觉得影像力足够大的话，你自然会产生比较大价值。</p>
+<p class="transcript-line"><span class="time"><strong>[00:37:06]</strong> </span><span class="speaker"><strong>发言人2: </strong></span>但你这么说，就是你现在在做的是一个创作的社区，对吧？创作最终的消费在哪呢？也在这个社区里面吗？</p>
+<p class="transcript-line"><span class="time"><strong>[00:37:13]</strong> </span><span class="speaker"><strong>发言人1: </strong></span>这个社区里一定会有一部分的消费，你说消费要不要做，它本质是个容器的问题。但你做容器，你实际上就是在限制我刚才说的这个创作的范围，对吧？所以我对于容器这件事情，反而我觉得不一定是现在这个时间点做的东西。</p>
+<p class="transcript-line"><span class="time"><strong>[00:37:32]</strong> </span><span class="speaker"><strong>发言人2: </strong></span>所以我在想你你看我们一直是一级市场创业投资这条路径起来的人，对吧？那如果后面没有这种中心公司的，最大的肯定在二级市场了，对吧？然后底下就是长尾的，那一级市场怎么办呢？</p>
+<p class="transcript-line"><span class="time"><strong>[00:37:47]</strong> </span><span class="speaker"><strong>发言人1: </strong></span>GGGG会不会有？你看现在我就是一级市场。</p>
+<p class="transcript-line"><span class="time"><strong>[00:37:54]</strong> </span><span class="speaker"><strong>发言人2: </strong></span>你说你的平台。</p>
+<p class="transcript-line"><span class="time"><strong>[00:37:55]</strong> </span><span class="speaker"><strong>发言人1: </strong></span>原来就是以前不但你。</p>
+<p class="transcript-line"><span class="time"><strong>[00:37:57]</strong> </span><span class="speaker"><strong>发言人2: </strong></span>里面的公司找不到。</p>
+<p class="transcript-line"><span class="time"><strong>[00:37:59]</strong> </span><span class="speaker"><strong>发言人1: </strong></span>不需要很大。</p>
+<p class="transcript-line"><span class="time"><strong>[00:38:00]</strong> </span><span class="speaker"><strong>发言人2: </strong></span>所以整个的投资和回报形式可能都会变化会变就像前几年有的人会去投那个连锁餐饮一样。</p>
+<p class="transcript-line"><span class="time"><strong>[00:38:06]</strong> </span><span class="speaker"><strong>发言人1: </strong></span>对吧？一样。</p>
+<p class="transcript-line"><span class="time"><strong>[00:38:07]</strong> </span><span class="speaker"><strong>发言人2: </strong></span>对，我给你一笔钱，然后你去开个店，然后我来分成。</p>
+<p class="transcript-line"><span class="time"><strong>[00:38:10]</strong> </span><span class="speaker"><strong>发言人1: </strong></span>cash for bed。对。</p>
+<p class="transcript-line"><span class="time"><strong>[00:38:12]</strong> </span><span class="speaker"><strong>发言人2: </strong></span>你觉得未来会是变成这样？</p>
+<p class="transcript-line"><span class="time"><strong>[00:38:14]</strong> </span><span class="speaker"><strong>发言人1: </strong></span>我觉得有这种可能性。这么说，我觉得软件行业会变得越来越像泡玛特，越来越像文化行业。但你说泡玛特这种这么大的公司？会存在吗？我觉得也有可能会存在。</p>
+<p class="transcript-line"><span class="time"><strong>[00:38:25]</strong> </span><span class="speaker"><strong>发言人2: </strong></span>对我在想比如就是类似。</p>
+<p class="transcript-line"><span class="time"><strong>[00:38:27]</strong> </span><span class="speaker"><strong>发言人1: </strong></span>于文化产业会繁荣，但是你像软件、SaaS这些，我觉得中型公司可能就不存在了。</p>
+<p class="transcript-line"><span class="time"><strong>[00:38:31]</strong> </span><span class="speaker"><strong>发言人2: </strong></span>所以我们再定一下你说的小型是多少。因为我觉得现在大多数人在讲OPC讲的时候，可能联想到的首先是独立开发者对吧？独立开发者的可能一年平均下来，大多数可能一年赚个几十万上百万，然后里面可能少数是赚个几千万的。</p>
+<p class="transcript-line"><span class="time"><strong>[00:38:46]</strong> </span><span class="speaker"><strong>发言人1: </strong></span>我觉得到达几百万美金这个体量应该会不少。</p>
+<p class="transcript-line"><span class="time"><strong>[00:38:50]</strong> </span><span class="speaker"><strong>发言人2: </strong></span>这个其实现在也是看到了看到。但当然我们就定义在美国市场。对，在国内其实相当于一年赚几百万人民币。</p>
+<p class="transcript-line"><span class="time"><strong>[00:38:56]</strong> </span><span class="speaker"><strong>发言人1: </strong></span>这个不不不，就是我觉得如果它更像一个文化产业的话，它可能会更分散。他可能也会有挺多这样的公司。</p>
+<p class="transcript-line"><span class="time"><strong>[00:39:03]</strong> </span><span class="speaker"><strong>发言人2: </strong></span>对我就说是能看到的。</p>
+<p class="transcript-line"><span class="time"><strong>[00:39:04]</strong> </span><span class="speaker"><strong>发言人1: </strong></span>几百万是能看到的，能看到几百万美金，几千万对，能看到。</p>
+<p class="transcript-line"><span class="time"><strong>[00:39:08]</strong> </span><span class="speaker"><strong>发言人2: </strong></span>那这样的话就是你在早期挖掘发现，然后给他钱帮他发展，然后最后去分润。</p>
+<p class="transcript-line"><span class="time"><strong>[00:39:16]</strong> </span><span class="speaker"><strong>发言人1: </strong></span>这可能是一种形式。然后这是我想的另外一个问题。我觉得如果说模型本身它你看SRP在一开始它就定义了它的目标，就是它的AGI的定义，就是它希望能够通过这个AI来去取代绝大多数的人类经济活动创造价值的这些岗位，最终让这个社会更繁荣。</p>
+<p class="transcript-line"><span class="time"><strong>[00:39:36]</strong> </span><span class="speaker"><strong>发言人2: </strong></span>然后让人类回归田园。</p>
+<p class="transcript-line"><span class="time"><strong>[00:39:38]</strong> </span><span class="speaker"><strong>发言人1: </strong></span>请问叫回归田园？</p>
+<p class="transcript-line"><span class="time"><strong>[00:39:39]</strong> </span><span class="speaker"><strong>发言人2: </strong></span>就是我最近看到有人说这个AI现在太发达了。</p>
+<p class="transcript-line"><span class="time"><strong>[00:39:42]</strong> </span><span class="speaker"><strong>发言人1: </strong></span>我要回去种田了，这个挺好的。我其实前面清明节回老家的时候，我还在想我还问我现在包50亩地是什么情况，我要养点牛，养点羊。觉得挺好玩的。对我就在想他一开始就定义这个目标，他整个做这个coding的场景就很好。但是你coding做出来以后，实际上我们大家总说生产力，对吧？那生产力的目标是什么呢？现在一个目标还是帮你赚钱。</p>
+<p class="transcript-line"><span class="time"><strong>[00:40:04]</strong> </span><span class="speaker"><strong>发言人1: </strong></span>然后我就在想，有没有更简短的一个intel的方法？实际上这些交易市场其实就是它是一个更短的路径，直接从token到经济价值，消耗多少token产生了多少经济价值。就是你宏观来讲是这样的经济价值，但对于微观来讲，个体在乎的根本不是金价值，是赚钱，对吧？我消耗到token赚到多少钱，这个是最直接的。你现在大家在这地方头顶的飞一起，对吧？</p>
+<p class="transcript-line"><span class="time"><strong>[00:40:27]</strong> </span><span class="speaker"><strong>发言人1: </strong></span>有几个赚钱的，根本没有几个赚钱的那其实这个东西它就长了。因为生产力它是被岗位价值创造的。如果你不在这个岗位里，或者你没有创造新的岗位，那价值从哪来呢？没有那价值，反而对大家来说，赚钱这件事情更简单的可能就是从token到赚钱。那它是什么呢？就交易市场，这是最简单的一个东西。所以我觉得接下来可能很大的一个概率，你说那些VC会怎么样，这些我觉得很有可能它就会变成OPF，就one person放的一个人的对吧？</p>
+<p class="transcript-line"><span class="time"><strong>[00:40:59]</strong> </span><span class="speaker"><strong>发言人1: </strong></span>他可能使用口径政策，然后就做一些小的这种不知道某种交易策略，然后他可能就能稳定的在这些交易市场里面拿到一些回报。你看前面最火的那个，也是说当时open colour刚出来，然后很快有个skill就是帮你怎么接the market。因为polo ma本来就是你去处理大量的信息，对吧？现在你用这一套东西在polo ma上，我觉得肯定已经有一些好的分析和收集的策略。</p>
+<p class="transcript-line"><span class="time"><strong>[00:41:24]</strong> </span><span class="speaker"><strong>发言人2: </strong></span>对，以及些套利，套利以后堵那个天气。</p>
+<p class="transcript-line"><span class="time"><strong>[00:41:27]</strong> </span><span class="speaker"><strong>发言人1: </strong></span>对对对，很多套利策略就已经能够在预测市场有不错的交易回报。</p>
+<p class="transcript-line"><span class="time"><strong>[00:41:32]</strong> </span><span class="speaker"><strong>发言人2: </strong></span>我认为对我都觉得这是point market的用户增长的手段，我就放一个东西在那让你可以赚点小钱。对对对。</p>
+<p class="transcript-line"><span class="time"><strong>[00:41:39]</strong> </span><span class="speaker"><strong>发言人1: </strong></span>然后你想想这种就很好。所以我就在想有没有这样的一种形态是更短的。并且我一开始东西出来以后，我这个蛮有意思的。我就在想有没有人他有一些比较有意思的交易策略，我能够参与了对吧？然后我前段时间听说有一个产品，它就是你可以把自己的一些策略放到那平台上，然后大家可以去买，可以去下注，对吧？你其实不用管它有些历史的收益率过去跑的怎么样，它的策略大概是什么样的。</p>
+<p class="transcript-line"><span class="time"><strong>[00:42:04]</strong> </span><span class="speaker"><strong>发言人2: </strong></span>然后你交易就好了。那相当于说就是每个人可以用自己的想法做一个AI的策略，然后放在平台上去卖。</p>
+<p class="transcript-line"><span class="time"><strong>[00:42:11]</strong> </span><span class="speaker"><strong>发言人1: </strong></span>对，放到上面去融资。就他这个策略在跑，然后你就可以投注。</p>
+<p class="transcript-line"><span class="time"><strong>[00:42:16]</strong> </span><span class="speaker"><strong>发言人2: </strong></span>有一点点像我买了一个什么交易策略和量化的这种基金的感觉。</p>
+<p class="transcript-line"><span class="time"><strong>[00:42:21]</strong> </span><span class="speaker"><strong>发言人1: </strong></span>对对对，其实就是这些基金都one person放的了。对，然后如果你有这样的平台的话，那所有的基金都可以one person放的。</p>
+<p class="transcript-line"><span class="time"><strong>[00:42:27]</strong> </span><span class="speaker"><strong>发言人2: </strong></span>是吧？叫啥？</p>
+<p class="transcript-line"><span class="time"><strong>[00:42:28]</strong> </span><span class="speaker"><strong>发言人1: </strong></span>这个叫ora，好像ORAOK，但它是campo的。因为如果你在法币市场去搞的话，可能有合规问题对吧？然后你预测市场现在也是crypto的。</p>
+<p class="transcript-line"><span class="time"><strong>[00:42:38]</strong> </span><span class="speaker"><strong>发言人2: </strong></span>所以对我觉得critter跟那个类似point market这种可能现在是套利的。</p>
+<p class="transcript-line"><span class="time"><strong>[00:42:42]</strong> </span><span class="speaker"><strong>发言人1: </strong></span>对对对，黄金时期。对对对，我那天聊了个做量化的朋友，他在跟我说，他说现在确实这个预测市场，你搞出一些好的策略，然后一年能有个几倍收益率，而且也还很稳定。我觉得这个也蛮有意思，这是一个方向。我觉得如果是套利的话，就是说直接产生经济价值而言，我觉得AI在这个领域现在肯定是远远没有爆发出他应该有的影响力。</p>
+<p class="transcript-line"><span class="time"><strong>[00:43:09]</strong> </span><span class="speaker"><strong>发言人2: </strong></span>对，但这个已经能看出来一些迹象了。因为我记得我忘了是哪个模型的一个数据是说大家用的最多的是炒股是吗？</p>
+<p class="transcript-line"><span class="time"><strong>[00:43:16]</strong> </span><span class="speaker"><strong>发言人1: </strong></span>对，就在聊股票。对对对，我觉得实际上有可能有一些聪明的策略，大家已经在这上面其实赚很多钱了。但实际上聪明策略可能不往外讲。</p>
+<p class="transcript-line"><span class="time"><strong>[00:43:25]</strong> </span><span class="speaker"><strong>发言人2: </strong></span>对我还知道就是大家会用AI去分析，比如什么reddit twitter上面的各种。</p>
+<p class="transcript-line"><span class="time"><strong>[00:43:30]</strong> </span><span class="speaker"><strong>发言人1: </strong></span>没错，这都是一些信号。所以我觉得这个事情倒是一个商业回报很清晰的事情。</p>
+<p class="transcript-line"><span class="time"><strong>[00:43:36]</strong> </span><span class="speaker"><strong>发言人2: </strong></span>对，就是最简单。</p>
+<p class="transcript-line"><span class="time"><strong>[00:43:37]</strong> </span><span class="speaker"><strong>发言人1: </strong></span>直接的简单直接。</p>
+<p class="transcript-line"><span class="time"><strong>[00:43:40]</strong> </span><span class="speaker"><strong>发言人2: </strong></span>所以最后大家可能发现外部三才是最终的归宿。因为本来就是token.</p>
+<p class="transcript-line"><span class="time"><strong>[00:43:45]</strong> </span><span class="speaker"><strong>发言人1: </strong></span>从一开始对。</p>
+<p class="transcript-line"><span class="time"><strong>[00:43:46]</strong> </span><span class="speaker"><strong>发言人2: </strong></span>这个谜底已经。</p>
+<p class="transcript-line"><span class="time"><strong>[00:43:47]</strong> </span><span class="speaker"><strong>发言人1: </strong></span>在谜面上了。对对对，我觉得这个就比较像web 3的市场。因为我有朋友跟我说，他web 3市场一直都是这样，就全是noise，跟今天一样。</p>
+<p class="transcript-line"><span class="time"><strong>[00:43:58]</strong> </span><span class="speaker"><strong>发言人2: </strong></span>就全是诺斯，就一直是乱纪元对吧？大家说现在已经有乱纪元了。</p>
+<p class="transcript-line"><span class="time"><strong>[00:44:02]</strong> </span><span class="speaker"><strong>发言人1: </strong></span>web story always乱纪元。所以你看真正那些赚钱的是什么？为梦想窒息都是这种。其实它就是意义感。最大的价值是什么？让人始终拥有希望，觉得自己可以暴富。</p>
+<p class="transcript-line"><span class="time"><strong>[00:44:17]</strong> </span><span class="speaker"><strong>发言人2: </strong></span>所以你们现在的产品就是钻石，all in对OPC这块的believe。</p>
+<p class="transcript-line"><span class="time"><strong>[00:44:22]</strong> </span><span class="speaker"><strong>发言人1: </strong></span>不能轻易说all in，我觉得对我们而言，我认为今天连接价值这是很高的价值。然后也存在一些连接的问题。我们试图在这里面做一些微小的工作，看能不能创造一些价值。有可能你的形态是对？你能创造价值，但有可能你的形态是不对的，但你启发到了别人？别人最终创造这个价值，我觉得也OK。那你最终答应这个方向，然后你就去尝试呗。</p>
+<p class="transcript-line"><span class="time"><strong>[00:44:50]</strong> </span><span class="speaker"><strong>发言人2: </strong></span>所以除了你做一个社区，给这些OPC做连接之外，你还会做哪些事情去赋能他们。</p>
+<p class="transcript-line"><span class="time"><strong>[00:44:57]</strong> </span><span class="speaker"><strong>发言人1: </strong></span>然后给他们提供价值。很多。比如说刚刚我们内部说的那个，就是一套整个部署后端的这套服务，对吧？实际上我都可以让你一键，然后你什么都不用管。然后还有基础的一些，包括增长的一些。</p>
+<p class="transcript-line"><span class="time"><strong>[00:45:13]</strong> </span><span class="speaker"><strong>发言人2: </strong></span>对我刚才其实想聊这个问题来着，就是大家做完以后一定会遇到一个问题，尤其长尾的市场。那就是怎么让我的目标用户看到，这个是你们会做一些东西帮他解决。</p>
+<p class="transcript-line"><span class="time"><strong>[00:45:24]</strong> </span><span class="speaker"><strong>发言人1: </strong></span>我们会做我们本身这个平台day one就是会以如何更好的解决这个问题出发来去设计这个平台，设计这个媒介形式。</p>
+<p class="transcript-line"><span class="time"><strong>[00:45:33]</strong> </span><span class="speaker"><strong>发言人2: </strong></span>设计这个网络。就怎么样被发现。</p>
+<p class="transcript-line"><span class="time"><strong>[00:45:35]</strong> </span><span class="speaker"><strong>发言人1: </strong></span>怎么样能够让你更好的拿到了tion也合理。</p>
+<p class="transcript-line"><span class="time"><strong>[00:45:40]</strong> </span><span class="speaker"><strong>发言人2: </strong></span>因为你要回想前面回应，回应首先是要有人看到。对，好的，谢谢。要不等你们产品上线。</p>]]></content:encoded>
+            <pubDate>Sat, 16 May 2026 13:30:00 GMT</pubDate>
+            <guid>6a059d321b7bd50295257a5e</guid>
+        </item>
         <item>
             <title>用 Agent 动力学，和 40 个 Agents 一起为「人 + AI」做产品｜对谈 Slock.ai 创始人 RC</title>
             <link>https://www.xiaoyuzhoufm.com/episode/69e999241e94ae6921f2901d</link>
@@ -7307,101 +7619,6 @@ Part2 给 Agent 用上强化学习
 <p class="transcript-line"><span class="time"><strong>[00:45:23]</strong> </span><span class="speaker"><strong>发言人1: </strong></span>现在我现在算小个子只融了几百万，所以不可能跟他们融了几千万的币。明白，所以明年你觉得是agent的元年吗？我从来不觉得有个元年的说法，因为很多年前就有agent这个概念了。我觉得明年可能会是有很多公司真的能把agent落地的一年，就是真正由agent来帮你采取措施并产生结果的一年。</p>]]></content:encoded>
             <pubDate>Sat, 18 Jan 2025 14:00:00 GMT</pubDate>
             <guid>678b10ecfd38652366dc9038</guid>
-        </item>
-        <item>
-            <title>为什么我们对 25 年 AI 极度乐观｜AI 年终复盘</title>
-            <link>https://www.xiaoyuzhoufm.com/episode/6777d48a15a5fd520ecd1ea6</link>
-            <description>去年我们做了一期年终总结，叫《24、25 年会是下一代浪潮最关键的两年》，今天我仍然坚定的站在这个结论背后，24 年看似悲观实则蕴藏了很多机会，而 25 年就是爆发的一年。而还没有进场的人，可能 25 年就是最好的机会。
-在这期播客中，我帮大家快速理解：
-1）23 年 24 年市场发生了什么，核心重点是什么，原因是什么。
-2）为什么市场普遍悲观，而我们却极其乐观。
-3）当下市场中最流行的 Prosumer 概念是什么，为什么会有这个概念。
-4）市场都说 Agent 是重点，我从传统软件到 SaaS 再从 SaaS 到 Agent 解释了这里的机会和做法到底是什么。
-5）为什么多模态 2C 产品，反而是我们最看好的机会？这个可能就是 AI Native 的答案。
-这期播客一共 30 分钟，23 到 25 年 AI 市场的精华都在其中。
-最后，我们的 AI 私董会也在持续报名中，目前已经聚集了一批市场上最好的 AI 创始人，欢迎点击链接报名（里面也有目前已加入的成员名单，可点击查看）
-【时光机】
-Part1 复盘过去两年的 AI 发展
-* 00:50 市场从盲目乐观走向过度悲观（不过最近有新风向
-* 02:26 24 年 1-9 月，一级市场是过去十年 (大概率也是未来十年) 之最差
-* 04:19 模型侧符合我们 23 年初的 4 个判断
-* 05:17 应用侧不及预期，但也有人赚到钱
-* 06:35 为什么我们开始乐观？
-  
-  * 06:48 ① 9 月后，融资市场明显复苏
-  * 07:05 ② 多模态的能力在持续加强
-  * 09:04 ③ 大多数人忽略的一点是，AI 创始人的画像发生了明显变化
-  * 10:07 无论外部因素如何，最终起决定性作用的是资产价值本身
-Part2 展望 2025
-* 10:41 市场大环境会进一步变好，但会越来越两极分化
-* 11:59 当下最好的选择不是创业，而是先加入一家 AI 公司积累经验
-* 12:30 市场关键词演变：23 年「大模型」，24 年「具身智能」，25 年「应用落地
-  
-  * 13:06 目前最具共识的是 Prosumer 赛道，可能会率先跑出千万美金 ARR
-  * 15:03 此外我们最看好 Agent 和多模态
-Part3 详谈 Agent 和多模态
-* 15:30 Agent 会是 SaaS 的十倍？
-* 16:02 Agent 更可能是新公司的机会，而不是现有 SaaS 公司的机会
-* 22:57 Perplexity 未来其实是一家 Agent 公司
-* 26:25 AI Native 的答案是什么？
-* 30:28 早入场的人、乐观的人，往往都获得了回报
-【The gang that made this happen】
-* 制作人：陈皮、Celia
-* 剪辑：陈皮
-* Bgm：Mondo Bongo - Joe Strummer &amp; The Mescaleros</description>
-            <content:encoded><![CDATA[<p class="transcript-line"><span class="time"><strong>[00:00:02]</strong> </span><span class="speaker"><strong>发言人1: </strong></span>Do something there.</p>
-<p class="transcript-line"><span class="time"><strong>[00:00:19]</strong> </span><span class="speaker"><strong>发言人1: </strong></span>你要是问我怎么看明年AI市场，我的回答就是一个极度乐观。我对当下的AI市场和明年的发展都非常乐观，明年肯定是个AI大年，我发现现在市场太悲观了，所以我拖延了好多天，但我最后决定一定要做一期这个年终总结的博客。就是这个原因就想给大家讲清楚，我们到底看到了市场里的什么东西。</p>
-<p class="transcript-line"><span class="time"><strong>[00:00:44]</strong> </span><span class="speaker"><strong>发言人1: </strong></span>我们先直入主题，看一下过去这两年的AI在发生些什么。二三年AI来了，然后很多互联网人跟美元基金就直接冲了，对吧？因为不管从什么角度，AI这波都跟大家熟悉的互联网那波机会太像。而且天下其实已经苦互联网人久矣，从15年以后其实大机会就不多，18年以后几乎没有。我记得过去两年涨起来的到千万日活的互联网产品，大概也就是像番茄小说在内的极少数的几个。</p>
-<p class="transcript-line"><span class="time"><strong>[00:01:20]</strong> </span><span class="speaker"><strong>发言人1: </strong></span>互联网人他发现说，我好不容易练成了一身武功绝学，江湖没了，那怎么办呢？这怎么能忍？然后市场跟大家一起做了个判断，说AI是不是大机会，那肯定是什么量级先不说，那它有可能是对标电、对标互联网、对标云什么的，我们先不管对吧？那肯定是个大机会。大家又做了一个判断，就是AI肯定还在早期。所以很多人就有个结论说做AI要先去投有技术背景的人。所以像清华的各种教授都被VC找了一遍。</p>
-<p class="transcript-line"><span class="time"><strong>[00:01:57]</strong> </span><span class="speaker"><strong>发言人1: </strong></span>二三年的最多的钱肯定都流向了大模型公司，很少量的钱流向了做中间层跟做应用的公司。其实我们一直在呼吁大家应该多把钱放在应用里面。但最后很遗憾并不是这样的。所以二三年的时候，比如说但凡你是个假设，从OpenAI出来的人都像是从神坛上下来的人一样。然后大家到美国去学习，也都是千方百计想约个open a的人聊聊。那冲的结果怎么样，我们就自然的来到了24年。</p>
-<p class="transcript-line"><span class="time"><strong>[00:02:30]</strong> </span><span class="speaker"><strong>发言人1: </strong></span>24年我觉得它不能作为一个整体来看，就24年要分成两个部分。第一个部分是24年的九月份前，第二个部分是24年九月份后。为什么？因为九月份前的市场基本就是一潭死水。我现在几乎可以断言，就是24年的上半年，整个一级市场，尤其是美元基金的一级市场，就是过去十年甚至20年及未来几年一级市场的最底部。这个一定是最差的时候了。尤其是新创业公司的融资几乎归零，就可能会有一些老公司拿到一些后续的融资，但新公司就真的是几乎没有拿到融资的那在这个期间，同时还发生几个事情，对吧？</p>
-<p class="transcript-line"><span class="time"><strong>[00:03:13]</strong> </span><span class="speaker"><strong>发言人1: </strong></span>比如说那几家大模型公司，大家总说的这些六小虎7小虎什么的，他们渐渐的从热点顶端开始退温了。然后像我们刚才打OpenAI的人举例，就如果一个OpenAI的人他是二三年出来的那可能刚开始的时候估值能到比如说几千万美金。然后到24年的时候，可能就甚至于不会有人去投了。一直到最近大家整个国内外得到一个结论说，pre training好像没用了，那大家也都不太做了，尤其是国内，大家都去搞post training去了。那你如果你说你是OpenAI做pre train的人，价值就更小了。可能现在要在国内跳槽找工作的性价比都没那么高。那这个时候如果一个机构仍然要出手怎么办？</p>
-<p class="transcript-line"><span class="time"><strong>[00:03:56]</strong> </span><span class="speaker"><strong>发言人1: </strong></span>我们就发现24年的钱去了两个方向，其中最主要的就是聚生智能。如果说二三年AI创业投资的关键词是大模型，那24年的关键词就肯定是具身智能。然后这个过程中也有一些没有那么坚信具身智能的机构，就同时兼顾了第二个方向，就是AI硬件或者说消费电子的投资。</p>
-<p class="transcript-line"><span class="time"><strong>[00:04:19]</strong> </span><span class="speaker"><strong>发言人1: </strong></span>同期来看，我们看一下二三年出来的那些创始人怎么样了。我们先说大模型，大模型其实大家已经讨论非常多了，不去再多去聊那些什么八卦之类的，我觉得意义也不大。总之现在模型的发展趋势是非常符合我们自己二三年初的判断的。比如说大模型最终是commodity对吧，它成为一个商业化的基础设施。然后比如说大模型开源的进展速度其实仍然是超过闭源的。再比如说实际应用落地的时候，市场跟公司其实都偏向于是多模型混合的方案，而不是单一模型通吃。它可能会用好多个模型应用在不同的场景，然后他也可能自己有一个自己训的小模型之类的。</p>
-<p class="transcript-line"><span class="time"><strong>[00:05:04]</strong> </span><span class="speaker"><strong>发言人1: </strong></span>最后我们一直以来的判断就是技术永远是为了解决问题而存在的，所以好的产品永远大于一切。你永远只是说我技术领先，可能用处没有那么大。那二三年出来的那些做应用产品的创业公司状态又怎么样呢？前两个月我们也计算了一下，当下市场当中大概有20到30家应用类的公司的估值是超过了5000万美金。当然这里的超过它也不会高太多，可能大多数就是在5000万美金，然后少数可能能摸到1亿美金左右的这个边。</p>
-<p class="transcript-line"><span class="time"><strong>[00:05:40]</strong> </span><span class="speaker"><strong>发言人1: </strong></span>然后所有的应用公司的ARR年收入情况怎么样呢？首先大多数为零，因为其实不得不承认，大多数还是在打磨没有上线，或者是刚上线在找PMF的阶段，少数的找到了PMF的能达到100万刀ARR极少数头部的项目现在达到了1000万刀左右的AR最最top的可能是能到三五千万刀。这个大概就是整个国内外应用市场的收入的情况。所以我觉得可以得到一个结论，就是我们所有人在二三年的时候都对于AI过于乐观了。以至于24年市场给的这些反馈就比较偏负面，又让大家过于悲观。包括我们最近看到很多人在讨论跟总结当下市场的时候，其实都是一个比较偏悲观的一个基调。就是有的人直接就说悲观，有的人讨论半天，但其实他心里是悲观的。但我们真的是不一样，我们真的是对当下跟未来AI市场是极度乐观的状态。</p>
-<p class="transcript-line"><span class="time"><strong>[00:06:41]</strong> </span><span class="speaker"><strong>发言人1: </strong></span>这就要从24年9月后来说起，在九月后我们发现市场发生了几个核心的变化。第一是融资市场明显复苏，就有很多高估值的初创企业出现。这可能来自于一些机构，如果他年底也要冲KPI对吧？或者他明年有一个募资的规划，所以今年到明年要多投都是可能的原因。</p>
-<p class="transcript-line"><span class="time"><strong>[00:07:05]</strong> </span><span class="speaker"><strong>发言人1: </strong></span>另外还有一个原因，就是我们确实发现各种模态模型的能力在默默加强了。比如说图片生成的能力，其实在某种维度上早就超过人类了。然后语音跟歌曲生成的能力，如果你看了最近苏宁新出的一些歌曲制作的东西，包括其他的一些语音性的东西。我相信你会跟我一样得到一个结论，说语音和歌曲模型的能力也基本超过人类的。</p>
-<p class="transcript-line"><span class="time"><strong>[00:07:32]</strong> </span><span class="speaker"><strong>发言人1: </strong></span>然后视频跟三弟模型，它的进展速度是远超大家预期的。我记得就二三年的时候，大家还在讨论说，视频模型可能还得要个两三年，三弟模型可能还更久。但过去一年里面视频模型的发展速度非常快，而且这里面核心主流的玩家也有非常多。国内的玩家比如说可能比如说mini max的海螺，比如说字节出的视频模型等等。还有很多创业公司的视频模型，其实在国际上都是比较领先的一个位置。我们可以说现在视频生成跟3D生成大概接近于GPT3当年的那个水平。如果是这样的话，25年大概可能能达到比如3到3.5，那其实基本是可用的一个状态。</p>
-<p class="transcript-line"><span class="time"><strong>[00:08:17]</strong> </span><span class="speaker"><strong>发言人1: </strong></span>最后大语言模型本身的进展速度反而是最低于市场预期的。大家都期望说GPT5和GPT4.5能抓紧出来，但最后实际上是没有的。但是我们同时要看到，虽然他大的发展低于预期，但是它不断的在做增加性能和降本的工作。所以其实现在很多应用已经到了一个可用的临界点，之前大家觉得说token费用太高，或者说模型的这个能力没有那么强，总差那么一点。现在在很多领域其实已经够了。另外就是今年以OpenAI为首，推出了像o one这样的推理模型。可能很多人觉得说o one使用起来就那样，但是它其实是真正的让agent落地变得可实现了。</p>
-<p class="transcript-line"><span class="time"><strong>[00:09:04]</strong> </span><span class="speaker"><strong>发言人1: </strong></span>然后最后一个点就是这几个月新发生的市场变化里面，可能大多数人最容易忽略的。但我们的感知特别明显的一个点是什么呢？就是创始人的画像发生了明显的变化。在24年中及以前，AI创始人基本都是互联网这些传统行业转型出来的。但最近几个月，我们看到了大量这种我们称之为AI创二代的人出现。就比如说大模型公司出来的，大厂的AI业务负责人出来，然后甚至也有一些中小型AI创业公司里面的联创高管出来在做创业。这些人对AI的理解，他们的认知，他们讲的要做的方向和故事，都给人耳目一新的感觉，可能跟之前的是非常不一样的。</p>
-<p class="transcript-line"><span class="time"><strong>[00:09:50]</strong> </span><span class="speaker"><strong>发言人1: </strong></span>所以我们是切身体会到了整个AI市场从底层技术到从业者的质量，再到资本的环境等等，全都是在进步的。而且这个进步毫无疑问会继续延续到25年，所以这个就是我们乐观的核心原因。当然我知道有很多人可能担心，比如说美元基金的问题，宏观经济的问题，包括一些地缘政治的问题等等。但我自己一直坚信，最终决定市场的是资产本身的价值供给总归会有波动，就是资金会流向那些能让他赚钱的地方。但只要你的资产做的足够好，那一切问题都是能解决的。所以我是觉得长期来看，AI这波是没有什么太大的问题的那讲完了过去，我们再来看一看25年AI会往什么方向走，都有哪些机会。</p>
-<p class="transcript-line"><span class="time"><strong>[00:10:41]</strong> </span><span class="speaker"><strong>发言人1: </strong></span>首先大的市场环境我们相信会进一步的变好。但这个变好的表现形式大家要注意，就是它不是一个像当年的万众创业，或者那个火热市场的回归的那种变化，而是越加的两极分化。从资本方向来说，现在已经分成了像美元基金和人民币基金。然后国内目前一级市场其实明确了两条路，一条是出海，一条是国产替代，硬科技、卡脖子等等。前者偏美元，后者偏人民币。</p>
-<p class="transcript-line"><span class="time"><strong>[00:11:09]</strong> </span><span class="speaker"><strong>发言人1: </strong></span>从创业融资来讲，机构会更倾向于把钱投给背景非常好的人，并且愿意给到更高的估值，而不是去低估值的撒很多小项目。从二三年开始的很长一段时间，我们看到了创业公司第一轮的估值大概就是在5000万人民币上下。平均下来，然后这两个月我们看到了很多一上来就是两三千万美金估值，甚至于也有几个市场里在传的5000万美金左右的第一轮的估值。所以其实单个项目的估值是在涨的，但是并不是说数量涨了非常多，就现在不存在一种情况是什么呢？你说我背景不太好，然后我这个事儿也不是准备那么好。但是我愿意接受一个低估值，我用低估值来换投资，就这个事儿仍然是不太成立的。所以你想提一个建议，如果现在在听我播客的人还没有进入到AI这个圈子，你又对自己的能力跟积累的有一定信心。那当下可能仍然不是选择创业的最好的时候。</p>
-<p class="transcript-line"><span class="time"><strong>[00:12:13]</strong> </span><span class="speaker"><strong>发言人1: </strong></span>现在最好的选择是什么？就是你可以选择加入另外一家AI的创业公司，或者去某个大厂的内部负责AI的业务，这样来进行一些积累和学习。当你在这段经历里面做出了一定成绩，然后你再考虑创业可能是一个更好的选择。</p>
-<p class="transcript-line"><span class="time"><strong>[00:12:30]</strong> </span><span class="speaker"><strong>发言人1: </strong></span>然后第二点就是像我们之前说的，二三年市场的关键词是大模型，24年的关键词是具身智能，25年的关键词会是什么？我觉得一定是应用落地。这里面包括软件的应用，以及说一些AI硬件的应用的落地。除了这些好像也没什么了。你说大模型大家也投完了，狙神智能也投了差不多了，那就是得投英落地了。而且这个现在好像已经变成了中美市场以及一二级市场的一个共识。就是大家25年都想去找那种真正能落地的资产标的。</p>
-<p class="transcript-line"><span class="time"><strong>[00:13:06]</strong> </span><span class="speaker"><strong>发言人1: </strong></span>从具体的落地角度，过去两年大家探索出来的一个最共识的方向，也是目前最能落地的方向，就是我们叫生产力工具类的产品。其实它大概是过去一年火起来的一个概念。也有人叫它perfumer，或者叫proceed人群，或者也可以说是小B大C的这么一群人。比如说专业的视频创作者、歌曲创作者、保险经纪人、券商从业者等等，甚至也包括像AI coding的工程师群体等等。</p>
-<p class="transcript-line"><span class="time"><strong>[00:13:36]</strong> </span><span class="speaker"><strong>发言人1: </strong></span>然后这里的核心原因是什么呢？就为什么最后卡出来这么一个人群？首先第一点就是过去5到10年，国内市场似乎验证得到一条结论，就国内的to大B市场好像不行，做不起来。这里问题原因当然有很多，但核心的几条我理解就是国内人均GDP氐人的成本低，所以用软件去替换人好像意义没有那么大。就是产业结构和美国不同，美国头部企业都是私企，国内很多头部企业是国企。然后最后，很多利润其实是被大量的渠道赚走了。当然这里面也会涉及到很多这种账期，定制化，私有化等等这样的问题。</p>
-<p class="transcript-line"><span class="time"><strong>[00:14:17]</strong> </span><span class="speaker"><strong>发言人1: </strong></span>然后大B不行，那纯C行不行呢？好像也不行。这里最核心的一个原因是什么？就是国内C端的付费意愿跟能力都比较低。AI又是一个一上来就token成本的事情。所以之前互联网时代说我先免费拉用户，我先亏钱。我未来在靠广告赚钱的路径好像就行不太通。</p>
-<p class="transcript-line"><span class="time"><strong>[00:14:39]</strong> </span><span class="speaker"><strong>发言人1: </strong></span>所以最终大家就卡出来这么一个小B大C的概念，就生产力工具。因为这个人群它兼具了C端的用户和传播属性，也有一定的类似B端的付费能力。而这个概念在25年我们相信仍然会是一个偏主流的方向。我也相信明年我们可能会看到一批达到千万美金ARR收入的这类创业公司的出现。</p>
-<p class="transcript-line"><span class="time"><strong>[00:15:03]</strong> </span><span class="speaker"><strong>发言人1: </strong></span>然后除此之外，25年我们最看好的两个方向是agent和多模态。这里agent其实大家提的很多，但我其实个人认为多模态的潜力是更大的那我们来分别讲一下，先讲agent，agent其实从去年就开始火，但直到最近推理模型能力提升，才真正解锁它的可行性。然后未来也许各种专业人群垂直领域都会有agent的机会。而且现在有很多人认为agent会是对传统SaaS的一次迭代更新，并且市场价值可能会是SaaS的十倍。</p>
-<p class="transcript-line"><span class="time"><strong>[00:15:39]</strong> </span><span class="speaker"><strong>发言人1: </strong></span>因为本质上sas是提供了软件服务，而agent是提供软件服务加人力的一整套打包解决方案。就是你可以想象到SARS是我提供一个软件给你公司的员工去用。但agent自己具备一定的智力，所以它是软件加用agent来执行，它可以替代整个部门，甚至。那这里也有个核心问题，就不管你是做一级还是二级投资，还是去做职业选择等等，都会遇到的问题就是agent到底是大厂和现存玩家的机会，还是新创业公司的机会？如果说agent是对sas的更新迭代，那会不会是现有的SaaS公司直接加上一些agent的能力，做一个新产品就可以。</p>
-<p class="transcript-line"><span class="time"><strong>[00:16:26]</strong> </span><span class="speaker"><strong>发言人1: </strong></span>为了回答这个问题，我去研究了SARS当年是如何取代传统软件公司的。也就是为什么传统软件公司当年没有成功转型成SARS。我发现答案有几个，第一就是将现有的本地化的软件迁移到云端，还是有一点技术门槛的，而且成本挺高的。第二是SaaS公司更用户导向，更产品导向，因为它需要持续交付，而传统软件公司更多是强销售，一次性销售。</p>
-<p class="transcript-line"><span class="time"><strong>[00:16:56]</strong> </span><span class="speaker"><strong>发言人1: </strong></span>然后最后一点也是最重要的，就是两者在商业模式上有本质的区别。传统软件是开发完成后一次性付费，比如说一年几百万的费用。而SARS公司是少量多次的订阅制收费。所以你可以想象，传统软件公司可能是重渠道、重线下、长周期，就是他不知道要开多少次会，吃多少次饭。最后敲定一个几百万上千万的大单。</p>
-<p class="transcript-line"><span class="time"><strong>[00:17:22]</strong> </span><span class="speaker"><strong>发言人1: </strong></span>而与此同时，SARS公司可能有一个刚毕业的学生，对吧？他正坐在办公室里跟客户约了个视频，会说你看我们这个线上可以直接开通，一个月只要500块每个人。然后功能可能跟你们几百万买的一样，那你要不要？所以说这个SARS公司和传统软件公司，从开发模式、销售模式到组织结构、人员管理等等都有本质的区别。这个区别就决定了传统公司要转型是很难的，最后可能还不如重来或者去做一些收购。</p>
-<p class="transcript-line"><span class="time"><strong>[00:17:58]</strong> </span><span class="speaker"><strong>发言人1: </strong></span>我们再来看AI公司和sas公司在这个点上相比如何呢？从技术门槛上来看，AI的技术门槛和改变可能没有之前变化那么剧烈，但开发模式一定是需要根据AI时代来重新变化的。然后从销售模式和商业化上来说，这里可能会有一个跟之前类似的核心的变化。就是如果未来AI真的能做到按结果付费，而不是按订阅付费，那可能就会是一个对现有SaaS公司和模式的颠覆式的变化。</p>
-<p class="transcript-line"><span class="time"><strong>[00:18:31]</strong> </span><span class="speaker"><strong>发言人1: </strong></span>就是我现在可以卖一个sas软件给客户说，这个能帮你。比如说100个销售人员提效，然后客户买了试了，但最后结果到底怎么样？到底使用的深度怎么样？这个其实我相信现有的SARS表现是不一定那么好的。但如果有家AI agent的公司出来说，你就拿去用，最后你看帮你省多少钱，你再翻我其中的百分之多少。如果最后真的AI agent能实现这个效果，那我就会倾向于认为agent仍然是新公司的机会。</p>
-<p class="transcript-line"><span class="time"><strong>[00:19:03]</strong> </span><span class="speaker"><strong>发言人1: </strong></span>因为像我们刚才比较，一个传统的公司，包括现在sas的公司，要彻底变革成一个新的商业模式太难了。因为这个随之而来的销售人员的管理和组织模式等等，可能都会发生剧烈的变化。在SaaS时代，销售的作用其实已经弱化了。比如我们会听到说很多SaaS公司会有这种成百上千人的电销团队的意思。所以说后面SARS会有这种PLG的说法，就是通过产品本身的功能和口碑来吸引用户，然后再去做商业转化。</p>
-<p class="transcript-line"><span class="time"><strong>[00:19:37]</strong> </span><span class="speaker"><strong>发言人1: </strong></span>但如果agent最后真的按结果付费，那似乎好像大多数公司就不再需要销售了，对吧？我可能做做SEOO，做做营销就够了。因为你想如果我是客户，反正你按结果付费，那有多少我都去试一下，最后谁做的好我就保留谁就好了。</p>
-<p class="transcript-line"><span class="time"><strong>[00:19:55]</strong> </span><span class="speaker"><strong>发言人1: </strong></span>除此之外，还有两个问题，其实是当下所有SaaS公司都会遇到。一个是客户觉得说sas软件的定制化太差了，都是通用功能。另外是sas软件太多，数据又无法打通。那这两个问题其实都非常适合用AI bot agent这种概念来去解决。所以未来有没有可能一个公司它就是使用一个打通的报道平台，上面有N个A站的互相协同就足够了。</p>
-<p class="transcript-line"><span class="time"><strong>[00:20:26]</strong> </span><span class="speaker"><strong>发言人1: </strong></span>所以上面的是我们基于商业逻辑的分析，但虽然分析了这么多，我最后始终认为最终最重要的就是人和组织的问题。比如说你可以想象到大多传统软件开发者，可能是背个公文包的中年人的形象。你不会觉得他们懂互联网，也不觉得他们能转型成功。那SARS创始人，其中有大量的很深的行业内耗的人，他们当然也懂互联网，但这里面有多少人能够快速的转型到AI这个不确定对吧？我相信他们可能会比如说犹豫一年，然后自己内部先试验一段时间，再从外面招个人做一段时间。中间万一发现这个人不行，那可能还要再换。这些时间成本其实已经完全足够一家创业公司跑起来了。所以最终我认为市场上创业者的平均基准线能力决定了新玩家的机会有多大。</p>
-<p class="transcript-line"><span class="time"><strong>[00:21:21]</strong> </span><span class="speaker"><strong>发言人1: </strong></span>我相信在比如说20年前，这个基准线肯定是不及格的，所以有大量的互联网人出来颠覆的机会。然后十年前，可能是刚及格，所以大家仍然会问说，你这个事儿腾讯做怎么办？百度做怎么办？但最后还是会出来大量的创业公司的机会。</p>
-<p class="transcript-line"><span class="time"><strong>[00:21:41]</strong> </span><span class="speaker"><strong>发言人1: </strong></span>然后在今天我觉得在to c领域这个基准线可能已经非常高了。比如说你不会觉得今年的张一鸣跟10年前的张明有本质的区别，也不会觉得他落伍了，实际上它应该是更强了。但to b领域，我觉得这个基准线还没有到to c那么高。尤其是国内的to b跟SaaS跟海外一些国家的水平比起来也是有待进步的。所以我觉得to b领域里面仍然是有大量新公司的机会的那作为结论，我觉得25年的agent第一主要会在to b领域落地，我们一会儿会提一下to c，但它主要会在to b领域落地。</p>
-<p class="transcript-line"><span class="time"><strong>[00:22:20]</strong> </span><span class="speaker"><strong>发言人1: </strong></span>第二是一些存量的SaaS公司会基于已有的渠道先快速利用AI概念空占一些市场，这个已经是我们看到的。比如一家上市公司，它之前本来一年有几亿的收入，然后有一堆的渠道，对吧？他说我现在推出的一个AI产品，然后利用已有的渠道很快的一年卖个几千万能不能行？肯定可以的，所以传统的有渠道的SaaS公司会利用AI的概念先减少收入。但是第三点就是我们刚才讲的更多的主打新商业模式的agent创业公司会开始冒头，并且会在未来持续的反攻现存的SaaS企业。</p>
-<p class="transcript-line"><span class="time"><strong>[00:22:56]</strong> </span><span class="speaker"><strong>发言人1: </strong></span>然后讨论完to b agent，我们这里再提一个容易被大家忽视的问题。比如说我们以perplexity这家公司为例，就是大家提到AI就会想到几个最大的场景跟代表公司。比如说典型的两个就是陪聊的character点，ai最后卖给了google和现在估值接近百亿美金的代表搜索的publicity。但如果我说perplexity实际上是一家agent的公司，你会怎么想？</p>
-<p class="transcript-line"><span class="time"><strong>[00:23:26]</strong> </span><span class="speaker"><strong>发言人1: </strong></span>Perplexity的创始人前阵子在斯坦福做了一个对谈，那个主持人问他说，你觉得你这家公司最终如何成为一家伟大的公司？他的回答是什么呢？他说如果我们能够帮助人们找到所有问题的答案，并帮助他们完成所有任务，我们肯定能跻身于此列。这个回答看起来很普通，但其实开启了我的一个认知升级，就是原来relaxation的目标不是搜索，而是在完成任务上。其实后来我一想觉得也是，你看我们每个人搜索最终是为了得到一个问题的答案和解决方案。就google已经把信息检索和推荐可能做到了极致了，但用户大多数时候仍然是要跳转出去去寻找答案的那如果A阵的可行，是否能在搜索的同时自动帮助用户完成这个解决方案？</p>
-<p class="transcript-line"><span class="time"><strong>[00:24:24]</strong> </span><span class="speaker"><strong>发言人1: </strong></span>比如说perplexity已经上线的电商搜索就是一个类似的常识。就与其我在各个平台先去搜索商品，搜索这些商品的评价，再去各种电商平台再比价，再下单。为什么我不能在一个平台上完成？我直接在搜索的时候说，在什么季节，现在什么温度，我想买双适合的鞋，然后给我推荐了一些鞋，再帮我比较各种品牌跟款型，各个平台的定价。最终我直接在这个搜索网站上一键点击下单，其实这个就完成了。</p>
-<p class="transcript-line"><span class="time"><strong>[00:24:57]</strong> </span><span class="speaker"><strong>发言人1: </strong></span>从这个角度来说，是否可以说proposed xi最终就是一家agent的公司？这是不是也解释了为什么它有这么高的估值？因为如果是这个逻辑的话，确实他有可能是下一代AI最大的入口跟平台，而且他好像就是OpenAI最大的竞争者。</p>
-<p class="transcript-line"><span class="time"><strong>[00:25:13]</strong> </span><span class="speaker"><strong>发言人1: </strong></span>我们再把这个逻辑推而广之，就是前微软的CEO纳德拉曾经讲过一个点。他说比尔盖茨在他整个职业生涯当中一直强调的一件事儿是数字领域只有一个类别，叫做信息管理。我相信张一鸣可能也会有这种共同的观点。我像我们刚才讲的PX的例子。如果信息管理最终大多都会指向一个行为，一个action，那有没有可能agent的时代最终的类别叫做信息管理加行动，然后agent就是一个完成体。</p>
-<p class="transcript-line"><span class="time"><strong>[00:25:51]</strong> </span><span class="speaker"><strong>发言人1: </strong></span>所以当下所有做信息类的辅助类的AI产品，尤其是to b和to consumer类的，未来是不是都要往提供结果的角度去思考和发展。比如说现在一款AI产品可能做的是帮你怎么样更好的搜集信息。那这款产品就要想，如果这个用户搜集信息是为了比如说做一个视频，那所谓的agent的时代，是不是你未来都要做搜集信息加自动出一个视频？这是一个简单的小例子，是大家可以持续思考的。</p>
-<p class="transcript-line"><span class="time"><strong>[00:26:23]</strong> </span><span class="speaker"><strong>发言人1: </strong></span>终于讲完了整个的agent，然后最后我想讲一个我觉得最重要却很少人提的方向，就是多模态。尤其是多模态在to c领域的落地跟应用。大家这两年一直在讨论AI native，讨论是不是所有的APP都值得被重做一遍。然后目前为止肯定还没有答案。我觉得这个答案就藏在多模态之中，尤其是to c领域里面。如果AI只是产品的一个附属功能，比如说现在很多人在产品里面加入了AI总结、AI提示、AI boat做一些聊天对吧？但产品的交互界面和形态都没有发生很大的变化，那自然不可能是一个AI native的产品。</p>
-<p class="transcript-line"><span class="time"><strong>[00:27:06]</strong> </span><span class="speaker"><strong>发言人1: </strong></span>但在多模态的视角之下，产品的组织形态和使用逻辑都是有可能发生彻底的变化的。比如我们以notebook LM为例，就是google出的一个产品，它能够让用户上传一篇文章，自动变成2个AI的对话，就像博客一样。而且用户还能随时插入这段对话去进行互动或者改变这个对话的走向。比如说你可以跟2个AI主播说，某个点我好像没太听懂，你们能不能再多解释一下。这两个人可能就往这个方向去讲了。</p>
-<p class="transcript-line"><span class="time"><strong>[00:27:41]</strong> </span><span class="speaker"><strong>发言人1: </strong></span>这里就典型的用到了AI的理解能力，语言能力，也引入了多个AI的人格，并且完成了跨模态的内容组织，还加入了用户的互动。可以想象到这类产品的最终形态跟使用行为肯定是现有产品无法承接的那如果我们再把这个例子泛化，我们用多模态中所谓的any to any的思路来推演，就是任何模态到任何模态。也就是说未来用户的输入可以是任何内容，不管是发一段话，拍一张图，上传一段视频，还是可能给个链接等等。AI可以把这类内容变成任何最适合的形式来输出。比如说如果我今天想学习个概念，然后我输入进去可能就是几句话。然后AI可以直接帮我生成一段辩论类的视频综艺来帮我理解。那我还可以随时作为其中的一方的辩手去加入进去提出我的问题，或者我去提出反对的意见。这是不是就是颠覆了现有的内容获取跟人类接受教育的方式。</p>
-<p class="transcript-line"><span class="time"><strong>[00:28:44]</strong> </span><span class="speaker"><strong>发言人1: </strong></span>所以我认为agent的路径是相对有标准答案的，但ANAT的答案可能就藏在多模态之中。当然我现在可能只能给一些大概的思路跟方向，这肯定不是一个完美的AI native的答案。当然这个也不是我现在能够解决的问题，对吧？我觉得这个是需要无数勇敢和天才的创业者和产品人来探索的。在这里我只能给大家几个我觉得可以持续思考的建议。</p>
-<p class="transcript-line"><span class="time"><strong>[00:29:13]</strong> </span><span class="speaker"><strong>发言人1: </strong></span>第一就是虽然我们讲它是any to any就是任何模态到任何模态，但从历史经验来看，是不是视频类型内容的输出才是多模态的一个最终的归宿。当然这里面有可能会有一些文字，会有一些图文，但是不是视频是最大的。然后第二点就是人们未来的内容消费会不会都从被动的接收信息转变为被动接收与主动参与的结合，就像我们刚才举的那个辩论类视频的例子一样，或者包括现在的notebook LM的播客，都是用户可以随时加入进去。也有很多人在讲未来的视频和游戏是不是会融合成一件东西，那我理解都是一件事情，就是增加互动性。然后第三点就是any to any多模态这件事仍然是生产力的变革。如果我们能够通过新的AI bot agent和人以及人与人之间的各种组织形式的变革，去改变背后的生产关系，是不是可行的那我相信如果这个问题的答案能够出现，那一天可能就是真正的下一个抖音将要出现的时候。</p>
-<p class="transcript-line"><span class="time"><strong>[00:30:28]</strong> </span><span class="speaker"><strong>发言人1: </strong></span>最后我想讲就是我知道很多人这两年可能没有那么好过，做不做AI其实可能也都差不多。但是我确实明确看到身边早入场的人和坚定乐观的人获得了回报，包括我们自己，就比如今天这一批高估值的公司，绝大多数都是二三年初就勇敢进场的创业者。比如去年我们交流AI比较多的人，这些人可能哪怕当时没有创业，他今天也都遇到了各种各样的机会，也成了各个大厂或者AI公司的核心业务的负责人。所以最后我想用之前我讲过的两句话来收尾，也是对大家2、五年的建议和祝福。就是在巨大的不确定性面前保持乐观，在脚踏实地赚钱的同时抱有梦想。希望大家2、五年一切顺利，一起加油。</p>]]></content:encoded>
-            <pubDate>Sat, 04 Jan 2025 14:00:00 GMT</pubDate>
-            <guid>6777d48a15a5fd520ecd1ea6</guid>
         </item>
     </channel>
 </rss>
