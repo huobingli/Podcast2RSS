@@ -1,0 +1,1128 @@
+{
+  "pid": "60502e253c92d4f62c2a9577",
+  "eid": "6a0be0cfe1eb34a939abced5",
+  "title": "人类和 AI Agent 的最佳配合方式，还没被发明｜对谈 Paperboy",
+  "task_id": "372e9oveekganxb6",
+  "transcription": [
+    {
+      "time": "00:00:00",
+      "text": "嗨我是科技。本周十字路口我们请到的嘉宾是paper boy的创始人jon杨，以及他们的一位foundation engineer见成。你好，二位，欢迎来到十字路口。",
+      "speaker": "发言人1"
+    },
+    {
+      "time": "00:00:10",
+      "text": "Hello口气感谢hello。",
+      "speaker": "发言人2"
+    },
+    {
+      "time": "00:00:11",
+      "text": "在这里也给大家说明一下，因为这样用英文表达会比较自然的，所以我们这一期内容会比较中英夹杂。我们同时有音频和视频，如果大家这个需要的话可以去看视频。看视频我们就会配字幕和字幕的翻译，帮助大家理解。我们还是从十字路口的传统快问快答开始，有请二位的年龄。",
+      "speaker": "发言人1"
+    },
+    {
+      "time": "00:00:30",
+      "text": "oh i'm twenty one 19.",
+      "speaker": "发言人2"
+    },
+    {
+      "time": "00:00:33",
+      "text": "你们的毕业院校may .",
+      "speaker": "发言人1"
+    },
+    {
+      "time": "00:00:35",
+      "text": "be AA prat。Institutional architecture.",
+      "speaker": "发言人2"
+    },
+    {
+      "time": "00:00:39",
+      "text": "我是上海新华双语学校高中毕业，然后现在在CMU读大一大一刚结束。",
+      "speaker": "发言人3"
+    },
+    {
+      "time": "00:00:44",
+      "text": "我们的MBTI和星座是什么？",
+      "speaker": "发言人1"
+    },
+    {
+      "time": "00:00:47",
+      "text": "ISTJ双子座。",
+      "speaker": "发言人2"
+    },
+    {
+      "time": "00:00:49",
+      "text": "INTJ处女座创业。",
+      "speaker": "发言人3"
+    },
+    {
+      "time": "00:00:50",
+      "text": "之前你们做了一些什么？",
+      "speaker": "发言人1"
+    },
+    {
+      "time": "00:00:52",
+      "text": "贝贝boy是我第二家公司，我的一家公司叫，我们是在react做了很多开源的debt words。然后我们做了一个产品叫sam def。普通人可以用一句话去输入一个URO，然后做出和任何网站一模一样的一个ui and a million was YC one twenty four。",
+      "speaker": "发言人2"
+    },
+    {
+      "time": "00:01:14",
+      "text": "我在p board之前是个高中生，我比较喜欢做开源项目，然后我喜欢打CTF。我做了一个东西叫earth kit，你拍一个照片，然后我用这个多模态去推测这个照片在哪里拍出来的，会比传统的纯神经网络的模型会更好。",
+      "speaker": "发言人3"
+    },
+    {
+      "time": "00:01:31",
+      "text": "那是哪一年？差不多一两年前。我们来介绍一下这个paper boy是一个什么样的产品。",
+      "speaker": "发言人1"
+    },
+    {
+      "time": "00:01:38",
+      "text": "Paper boy company就是started brody with the mission of I am trying to figure out我最喜欢的和AI一起合作的方式。我对去年你能做成后，在minus以后用过的产品都有那么一些不爽。所以，a people boy just started with me from the hack round different approaches to try to figure out how to solve on the technical ms here.",
+      "speaker": "发言人2"
+    },
+    {
+      "time": "00:02:08",
+      "text": "不知道the form factor，like我不应该需要把自己的文件，还有email，还有all this personal information丢到一个聊天框里。我如果需要和别人一起合作，同时跟一个agent对话，this should be a very easy way for me to for us to collaborate within the same conduct window agents. 如果知道了我的很多信息以后，他应该可以proactive的提前去帮我做一些事情。但是现在的全都是you really can do that。然后还有就是现在所有产品都是session space，so session IT多，你就找不到过去你要从哪个country window继续聊下去了。Just all kinds of these problems, I think where generally speaking, is the gap between multiple abilities and deploy yet. And uh I feel like you are still a large opportunity to to explore innovates uh on the product experience, on the names of work products.",
+      "speaker": "发言人2"
+    },
+    {
+      "time": "00:03:13",
+      "text": "我们待会展开一下，但我们先把快问快答做完。您的融资情况是什么？",
+      "speaker": "发言人1"
+    },
+    {
+      "time": "00:03:18",
+      "text": "We raised four point seven years at twenty five oh go。",
+      "speaker": "发言人2"
+    },
+    {
+      "time": "00:03:23",
+      "text": "收入和利润现在还没有发布对吧？",
+      "speaker": "发言人1"
+    },
+    {
+      "time": "00:03:26",
+      "text": "Zero and negative gross money day.",
+      "speaker": "发言人2"
+    },
+    {
+      "time": "00:03:29",
+      "text": "你们估计什么时候会发布产品大家用到。",
+      "speaker": "发言人1"
+    },
+    {
+      "time": "00:03:32",
+      "text": "So we ship the product type to friends, and that's like our uh agent dollars from OS. Activities, uh their cost issues is too expensive and is really work. Um so the next generation of products were trying to rap up by this month and um it's going try we gna market again.",
+      "speaker": "发言人2"
+    },
+    {
+      "time": "00:03:50",
+      "text": "And我们发博客的时候会放一个链接在下面，大家感兴趣可以去sign up一下。",
+      "speaker": "发言人1"
+    },
+    {
+      "time": "00:03:57",
+      "text": "应该说是i think when pcs .",
+      "speaker": "发言人2"
+    },
+    {
+      "time": "00:04:00",
+      "text": "come是好，然后咱们目前团队规模。",
+      "speaker": "发言人1"
+    },
+    {
+      "time": "00:04:03",
+      "text": "现在有12个全职员工，然后是十块钱之内。",
+      "speaker": "发言人2"
+    },
+    {
+      "time": "00:04:07",
+      "text": "我记得第一次见到这样的时候，你给我看了一个文档，那个文档应该是你写出来给内部去开会的时候用的一个会议文档。当时第一句话就是你说人类和AI配合工作的最佳的方式，很可能还没有被发明出来。写这句话的时候你看到了什么？然后到今天你觉得你看到的事情有发生一些变化吗？",
+      "speaker": "发言人1"
+    },
+    {
+      "time": "00:04:27",
+      "text": "要。So that dog is uh when are prepared for our very first all hands? Uh那个时候我就我杜哥陈jet思维and 11月30号。And yeah I think so we just started working with one thesis which is the best way to work with AI hasn't been invented and we have shot at um being the team that figures out that way.",
+      "speaker": "发言人2"
+    },
+    {
+      "time": "00:04:54",
+      "text": "So cursor started really trying to figure out what's the best way to code the I and um they have been largely successful beings where I think the first company to really approach on that goal um and they figured out how important IT was to you know focus on that oppose before everybody else。你问我从这句话说到现在还有什么新的学习？I think what's call is这其实是一个moving goal post inside the Marks expectation you can't really richer。You can only keep getting Better um because every time you come up with something new, right everybody else see IT.",
+      "speaker": "发言人2"
+    },
+    {
+      "time": "00:05:30",
+      "text": "And if the other teams have taste um for users have taste um they will know um and and they will see the fishing points or always be frequent um and so all you have, do you just keep him Better? I think it's it's really moving, go closed. And so were things I you know open clock outs, we have to work, which is anthropy s no.",
+      "speaker": "发言人2"
+    },
+    {
+      "time": "00:05:50",
+      "text": "对所以其实最近很多访者感到有一点绝望，就因为在这个创业的过程中，不断有新的王炸出现。正好其实你们在从创立公司到现在这半年，又是变化非常剧烈的半年，从cloud code到open cloud，然后再到arms。所以你的感受是什么？就是你一开始想象的要做的东西和今天在做的东西，有因为不断的这些新的庞然大物的出现而发生剧烈的变化吗？",
+      "speaker": "发言人1"
+    },
+    {
+      "time": "00:06:19",
+      "text": "还真没有什么剧烈的变化，因为。I think the problem space comes from people. How I think about this problem space from a technical one product.",
+      "speaker": "发言人2"
+    },
+    {
+      "time": "00:06:28",
+      "text": "One of you is three categories of problems. You have the technology of agents being able to actually learn from users. Environment has to be integrated into what the user already works, where the data comes from, loss of the files on a computer and integrations.",
+      "speaker": "发言人2"
+    },
+    {
+      "time": "00:06:44",
+      "text": "And then the second thing is you have to be person zed. So personalization means you don't really have to prompt as much. You can trust IT to work on you more and more complex and difficult.",
+      "speaker": "发言人2"
+    },
+    {
+      "time": "00:06:55",
+      "text": "You can trust us to make more higher stakes decisions and IT also means being more reliable um and that means you know you can actually use model and and just keep running up for longer and longer periods and also uh from the same point of view, you and needs be extremely intuitive to use. Issues have to learn IT as like a new tool. If your agents are proactive, they can bring up new ideas by themselves.",
+      "speaker": "发言人2"
+    },
+    {
+      "time": "00:07:19",
+      "text": "What is the form that holds of these proactive outputs together? The house of the environment and and needs be personalized and need be recovered well with your system team. So when you look at a new tools that come out, there's not really a new dimension come out yet because these three dimensions were limited by the human teams.",
+      "speaker": "发言人2"
+    },
+    {
+      "time": "00:07:39",
+      "text": "我们要不要非常简单的安利一下大家，就是为什么要用paper boy？因为听我们播客的很多人可能已经是重度的cloud code或者minus或者这个什么的用户。那为什么要在这个时候给paper .",
+      "speaker": "发言人1"
+    },
+    {
+      "time": "00:07:54",
+      "text": "bowl一次机会来用你们？So现在COO和manus media，the most success for forms of agents cell. There they are session based, and there are one to one like prom based. So too, very important factors here.",
+      "speaker": "发言人2"
+    },
+    {
+      "time": "00:08:09",
+      "text": "Session base means in their cyber, there is a bunch of, you know, you have workspaces, which projects and per project, you have a bunches of sessions, right? And every time you want to model, do something new, you have to start a new session and category into the work best. okay.",
+      "speaker": "发言人2"
+    },
+    {
+      "time": "00:08:24",
+      "text": "The second thing is um the way you interact with the model is you plan to something, wait, but then you just send another message and another assist turn at another message you know um the problem with this is one the agent is reactive. You have to be very specific. You can create up venture skills or like dog agency MD files to describe um sort of what you're doing.",
+      "speaker": "发言人2"
+    },
+    {
+      "time": "00:08:50",
+      "text": "You have to actively maintain that. And dogs matter how much effort you keep into maintaining that is very difficult to translate everything you know about your taste and judgments um what you believe best way do things into these raw text files. That's one novita.",
+      "speaker": "发言人2"
+    },
+    {
+      "time": "00:09:04",
+      "text": "And the second thing is like sessions are not continuous in the sucks is sucks to have like hundreds think many people even maybe have a couple thousand session snow. And I know in the past um there are some sessions where the information in that context window might have actually contained some very valuable insights. But if I doesn't save IT, if I doesn't say IT directly liberates like here, this is the most important part across all of these different sessions were working on this project. This is what we need to take away, take with into the future. The session kind just gets lost.",
+      "speaker": "发言人2"
+    },
+    {
+      "time": "00:09:39",
+      "text": "Yeah so you mean that's like, so what is paper boy? Yeah so we handle kind of these two problems had on one is the agents have to learn by themselves from observing how you user computer and that includes all of the information of your screen show your keys, drugs, melt movements, your meetings which includes videos and audio s um your browsing history or eye message um and of course you choose to give access um to paper boy what you wanted to get IT um in the second thing instead and needs to exist in chats and with persistent conversation histories that are much longer than a context window um in the chest needs to be searched and the the standard perform is really like, okay you're just like opening your MSA to opening of each check and you have a bunch chat yeah um and I go little child to keep our conversation with the participants in that chat. 我觉得还有。",
+      "speaker": "发言人2"
+    },
+    {
+      "time": "00:10:33",
+      "text": "一点就是说补充一下，关于前面session还有context window的事情。其实现在类似cloud code minus这种产品，他们你可以argue说他们有无线的context window，因为他们有compassion。然后其实也有更新的产品，就比如说一家叫interaction公司出的poke，zoo computer甚至open call，他们也都是以一种你不存在session，但是你一直是一个chest的形式去做这个agent and human的这个是，但是其实对于paper boy来说，就是我们和这类产品的一个主要的一个区分点是说这个产品他们就是他们context的来源。其实主要是要么是其实有用户和这个agency的过去的这个chat three，你纯粹从这里去like learn。然后还有个就是如果用户给这些agent，就比如说你的email或者你的messages之类的话，他们也可以通过读这些email去逐渐的去更加persons去学习关于这些用户的更多信息。",
+      "speaker": "发言人3"
+    },
+    {
+      "time": "00:11:27",
+      "text": "但是我们一开始做的prototype，其实也试图去导出用户所有的微信聊天数据，或者说imessage的所有聊天数据。但是我们很快就发现这其实并不是一个非常scalable的方式。然后最scalable的方式其实是通过观测用户在日常使用他的电脑，就从一个OS层面的一个形式去collect user data。然后我们其实发现这样子的话，会对用户每天做什么事情有一个非常全面的了解。而且就是你按照信息的这个浓度来说，用户的一般的computer use他信息的浓度是非常高的。你只要观察用户户，比如说用电脑用个差不多60分钟就可以学习到用户很多的信息。但是如果你只观察用户过去60分钟的微信聊天数据，其实学不到太多东西。所以说我们很早的beats就是说通过OS层面的这个context去做这个user adaptation。",
+      "speaker": "发言人3"
+    },
+    {
+      "time": "00:12:17",
+      "text": "其实十字路口之前有一些播客的嘉宾，LGLI的founder，他们其实在做的也是一个mark或者一个windows的桌面客户端后，以此来capture用户尽可能多的上下文和电脑使用习惯。然后最近OpenAI应该也出了这个ico对啊，其实也是类似的一个想法，就是用桌面客户端来抓尽可能多的上下文，所以你们在做的时候和大家是类似的这个实践吗？还是你们有什么不一样的一些想法和做法？",
+      "speaker": "发言人1"
+    },
+    {
+      "time": "00:12:44",
+      "text": "从mac还有用户使用的电脑上去。Struts raw data in the processing into memories, that is general thing is going to happen not just to start up the deliberate focus on IT like your jelly, but codex coco work cocos, they're all gonna do IT. It's sort like the most obvious expert of contacts available, you know but of course, how people treat that, grow streaming data and how about this process will happen very differently.",
+      "speaker": "发言人2"
+    },
+    {
+      "time": "00:13:16",
+      "text": "What you choose to and how do you choose to structure that information is directly related to um the application of the agents yeah so what every individual agent and what your application I should decide to help the user on, you shouldn't probe structure and and like you can't compress the all activity stream the same ways. And so yeah like just that alone, you probably gonna have like for a company that's hyper focus, for example, on studying um how a user replies to emails right then they're probable gonna have a different memory structure. Whatever way of compressing raw emails to learn from the action is big enough that there is enough room right now first to get to that really understanding who the user is across all your application surfaces and across their relationships and then you can sort of model what the user actually does within a day.",
+      "speaker": "发言人2"
+    },
+    {
+      "time": "00:14:08",
+      "text": "Yeah, it's just that ability alone. I think this is just going to be so obvious. Everyone's strumming into that, but depends on the application. There's room to customers .",
+      "speaker": "发言人2"
+    },
+    {
+      "time": "00:14:20",
+      "text": "and change the of the我也认为现在通过收集用户评估数据或者去build的这个context，已经一定程度上成为了一个行业共识。然后后面更重要的就是说你在这个范式下，你具体去做什么事情。目前像是codex或者说类似little bird这种，他们会把这个屏幕数据当做一个context later，就比如说对code critical，它其实目前的use case是说你可以通过收集用户屏幕收集去学习用户一般是怎么去develop这个application的。如果你你的use case不一样，它确实就你最后这个pipeline也会不一样。我觉得这是一个非常新的一个drain。",
+      "speaker": "发言人3"
+    },
+    {
+      "time": "00:14:55",
+      "text": "然后你在基础的收集用户评估数据，还有收集computers情况下，你其实还可以干非常多的其他的事情。然后这个需要非常多的engineering还有research，就比如说你如何去做最好的productive agency。你是在预测用户下一个keystroke，还是说预测用户后面1个小时去干什么，还是说去预测什么其他的事情。这些都是relatively，就是没有被这么好export的一些problem space。然后目前其实我认为也没有任何人发现一个绝对最好的一个recipe去干这件事情。所以说我觉得目前对于一个公司来说，去探索这个不是还是一个非常好的选择。",
+      "speaker": "发言人3"
+    },
+    {
+      "time": "00:15:33",
+      "text": "如果今天用户安装了paper boy，他立即会比如说在第1个小时，甚至在前面五分钟，他能够感受到的这个价值最大的是什么？我们期待用户在第一时间感受受到的差异和价值，然后从而能够留下来。就这个highlight点是什么？",
+      "speaker": "发言人1"
+    },
+    {
+      "time": "00:15:51",
+      "text": "The problem starts with a reading strap and 1个小时。其实很重要的是你要demonstrate to user一个框what your product can do，you know have to set expectation. One thing for what it's get Better to longer, you use IT.",
+      "speaker": "发言人2"
+    },
+    {
+      "time": "00:16:06",
+      "text": "And so you to need that initial period where they use trusted to to learn yeah and so you can open up you can see a chat box and not a chat box prop box, but on little all um chat window. And once you give a permissions to say a calender in your emails, it's gone to start reading week at IT and then it's going to kind of sort to be asking a lot of a question about who you are from the context of reading value. It's going to start giving you a couple suggestions like, hey, I see this meaning coming up the moment to look into that for you. Yes, 这方面其实我觉得是最好的，是pocket OK by interaction。This want to figure out the recipe here, which is, well, you just connect to use this existing context and you need to show the user you are an age that can actually engage with personality and an annoying manner um to help the user so you get the user into this expectation that we are the asian that can also text to you in a way that make sense.",
+      "speaker": "发言人2"
+    },
+    {
+      "time": "00:17:08",
+      "text": "你们二位或者整个团队用paper boy用了多久了？在你们自己用的过程中，有没有什么就可以分享的一些和moment？",
+      "speaker": "发言人1"
+    },
+    {
+      "time": "00:17:16",
+      "text": "Yeah so Vivian um also here. Hello yeah Vivian is very funny. So SHE joined from小红书，她之前在红杉的月所以we have a Williams a paper boy um community。Vivian, uh my paper boys uh, is called all john in the existence slack right now. You know, all the time, teammates on paper boy would just ask all the shown questions. So today to handle all the incoming questions and help teammates, a product team, design team, find the help that you need.",
+      "speaker": "发言人2"
+    },
+    {
+      "time": "00:17:48",
+      "text": "And for me, Vivian example, giving this lot of recruiting work and so like mini Vivian is d recruiting intern for her on the team because mini Vivian actually understands everything that I had ever said to IT uh across meetings you know slack which includes my judgment and taste on what kind of canada were trying to hire and where once was from. It's able to a lot more actually help live an surface these candidates across get up小红书in on twitter um something that saved her long time I think living in sense february has not used claud SHE can use claude because he just doesn't know。You can't use cloud to research candidates for you like you just there so many things you would have to tell IT about the judges of the person.",
+      "speaker": "发言人2"
+    },
+    {
+      "time": "00:18:33",
+      "text": "就因为他有了更多的context，所以你其实在给他prompt的时候，你甚至可以不prompt。",
+      "speaker": "发言人1"
+    },
+    {
+      "time": "00:18:39",
+      "text": "Yeah, I hate prompting. 从thing开始，我，like I just do not want a prompt. I think prompting such A, I mean, you have to communicate.",
+      "speaker": "发言人2"
+    },
+    {
+      "time": "00:18:49",
+      "text": "But people we don't think in prompts. We send text, you know, and we expect the other person to know what we're talking about. And we enjoy a relationship when the communication is high band with. We also enjoy at the smart people enjoy being told what we don't know, especially we don't know what we don't know. And today models are smarter than we are yeah um so yeah Frankly, I look forward today when you I slight back and join higher q OK.",
+      "speaker": "发言人2"
+    },
+    {
+      "time": "00:19:21",
+      "text": "然后这呢你有一些什么样的moment，在用paper ball的过程中。",
+      "speaker": "发言人1"
+    },
+    {
+      "time": "00:19:26",
+      "text": "首先就是确实很多时候和账的那个auto账聊天会比和账聊天好一点。",
+      "speaker": "发言人3"
+    },
+    {
+      "time": "00:19:31",
+      "text": "但你在和他auto jam，就他的这个agent替身对话的时候，你会担心他的这个意志目前还不能完全的代表这样，从而产生一些misunderstanding。",
+      "speaker": "发言人1"
+    },
+    {
+      "time": "00:19:41",
+      "text": "So when I look at IT, not just because we are creators of the thing, but like IT, the user has to be responsible for the agent eventually.",
+      "speaker": "发言人2"
+    },
+    {
+      "time": "00:19:50",
+      "text": "So what how old agent gets set up? It's not just like, you know one day boom, you have existence, the conversion slack yeah there are is an on boarding process where the agent does actually ask you questions and they ask questions like like how much allowed to share this big person by default and mirrors like for people I share a law with jet. Maybe I don't share as much with a new engineering higher and the should knows .",
+      "speaker": "发言人2"
+    },
+    {
+      "time": "00:20:16",
+      "text": "that from absorbing all my而且我觉得一般和一个人interact其实分很多种。有种你是可能因为成分的话，我有的时候会纯粹，就比如说和账在聊天，或者说我需要去做一个事情，就是我没有权限，我需要这样去approve一个东西。这些东西我觉得目前可能是就是我不会去和奥拓这样说的。",
+      "speaker": "发言人3"
+    },
+    {
+      "time": "00:20:33",
+      "text": "但是实际上就是在工作场景中，你很多时候和对方的一些communication是说这样他有整个对per boy一个公司的context。然后我作为一个工程师或者我作为一个IC就是我每天需要就是我如何能对这个公司产生最大价值，我去做什么research或者说做什么验证。黏人也是最有用的。然后这个时候就因为这个agent第一就是它它有占有的大部分context。然后第二他通过观测账工作的时候，他的heroic其实和这样的heroic是比较类似的。所以说就是我在做决策的时候，就关于contact，还有就说关于heroic方面的东西，就觉得东西其实我觉得奥拓账是比较有用的。",
+      "speaker": "发言人3"
+    },
+    {
+      "time": "00:21:12",
+      "text": "然后其他的那个哈哈我们其实对于我来说，我第一个哈蒙其实比较早就是我们做出text complete的时候，其实对于我平常编程的时候就已经挺有用的。因为我平常用的现在有很多AI terminal很火，但是就AI命令行很火。但实际上就是那些命令行不如很多传统的命令行做的来流畅。但是传统命令行那些APP很多时候并没有AI integration。然后很多时候你去写脚本的时候会很烦。但是我们做出text completion的时候，我完全可以写完一堆代码，然后我要去发一个get commit的时候，我直接就是说我是在命令行里面输入艾特PB commit，然后它就会自动把这个整个的message写好，然后按enter就可以发一个comment。",
+      "speaker": "发言人3"
+    },
+    {
+      "time": "00:21:55",
+      "text": "这个要不要稍微展开讲一讲，就这是一个什么样的feature，因为刚开始我没有介绍。",
+      "speaker": "发言人1"
+    },
+    {
+      "time": "00:21:59",
+      "text": "到OKOK我们就是开发流程大概是说我们先把收集操作系统这个用户数据到有一个比较好的memory系统这一套做出来了，然后我们做出这套系统出来之后，我们其实在工程上就有一个类似framework。你都会有一个比较好的一个markdown document。这个Martin document它是会适时更新的。包括这个用户的职业，他包括用户就过去几天做了什么，他也包括用户过去几秒钟几分钟做了一些什么事情。然后离用户现在在做事情越近，他那个granularity它颗粒度会更好，就是有更细，对，更细。所以说我们proper agent一直会有这个context。",
+      "speaker": "发言人3"
+    },
+    {
+      "time": "00:22:38",
+      "text": "然后我们有了这个context之后，我们其实在做的事情就是我们在寻找应用场景。然后我们找到第一个比较好的应用场景，我们可以在操作系统任何一个地方去做一个类似自动补全auto complete。就比如说你在发微信的时候，你可以在你的文字框里面输入SPB，这是个激活词。然后后面就是输入一个比较简短的一个instruction或者说prompt。就比如说你可以说也可以不输入。",
+      "speaker": "发言人3"
+    },
+    {
+      "time": "00:23:04",
+      "text": "也可以不输入，他就会猜你在这个时候你艾特我就找我了，对吧？对你不输入他也会猜一猜你此刻找我，是要我来干嘛。",
+      "speaker": "发言人1"
+    },
+    {
+      "time": "00:23:12",
+      "text": "对，因为他有这个context。",
+      "speaker": "发言人3"
+    },
+    {
+      "time": "00:23:14",
+      "text": "比如说有一个同事过来，可能我不需要对他说什么，就一个眼神他就懂了为什么我在找他。",
+      "speaker": "发言人1"
+    },
+    {
+      "time": "00:23:19",
+      "text": "That's grey.",
+      "speaker": "发言人2"
+    },
+    {
+      "time": "00:23:20",
+      "text": "对，就比如说很多时候你和你的工程师，你并不需要描述，你只要点一下屏幕，就你指一下屏幕，他就知道。",
+      "speaker": "发言人3"
+    },
+    {
+      "time": "00:23:27",
+      "text": "就是看这儿。对，看这儿他一看就就这个问题。",
+      "speaker": "发言人1"
+    },
+    {
+      "time": "00:23:30",
+      "text": "对，对，然后当时P我已经差不多达到这个效果OK所以说不管你在回微信的时候做任何事情，他都会适时的有这个context。然后对于我来说，他就是说在命令行里面，或者说甚至平常在get up里面，我会发PR，然后他可以直接把整个PR description都给你做出来。然后很多时候我发现他那个PR实际上会比科或者说talk to传统的那些会好。因为很多时候我开发一个就比如说比较大的feature，或者说就是一会儿在和卡扣打交道，一会儿我在微信里面和jom去发什么消息，然后一会儿我在浏览器里面去做research。其实我也可以把这所有的context都聚合在一起，然后并以一个PR的形式去给我做这个draft。然后我会发现就他对我去做什么事情的理解程度，会比任何基于单应用context的的这种agent或者AI会好很多。",
+      "speaker": "发言人3"
+    },
+    {
+      "time": "00:24:23",
+      "text": "还有吗？我自我怀疑我有ADHD，然后我在工作的时候很容易分心，我经常在那个的时候，旁边会看hacker news。然后hacker news如果有什么比较有意思的article，我可能就是点那个article，然后点到时我看了30分钟回来，就是考试可能已经结束了十几分钟了。其实对于这种情况，就是我我记得我当时是我每天晚上会让pair boy就类似给我一个report，就说我今天到底有多efficient。我让他会去，就是相当于骂我，我什么时候就是不够高兴，我什么时候分神了。我觉得对于我来说，就是我平常工作的时候，当我知道不在盯着我工作的时候，我会效率更高。",
+      "speaker": "发言人3"
+    },
+    {
+      "time": "00:25:00",
+      "text": "是不是？Big brother is watching you.",
+      "speaker": "发言人1"
+    },
+    {
+      "time": "00:25:01",
+      "text": "A large portion of my job now is to use different products and also to do research and talk to people. Unfortunately, can't code as much as used to anymore. But, you know, pinball is great, because IT actually keeps all the difference, like information, granular sources in, like in in head, right? And so like when I want to go learn about something, when I want to to like, for example, 去学习微信的历史，还有各种不同的network affects businesses。Um you know sort of the successes and failures outside the research I want to actually connect to about the paper. Boy, at that point I really have a bunch show, just like things is helping my head and I needs something helping through .",
+      "speaker": "发言人2"
+    },
+    {
+      "time": "00:25:45",
+      "text": "ah actually the dots yeah yeah.",
+      "speaker": "发言人1"
+    },
+    {
+      "time": "00:25:47",
+      "text": "And I even tell me, wait, have you thought about this very quick? You know, you tried this, you know, maybe a couple month ago. And this is the product form, and these are the problems that you recognize the product, right? Like I know about these things, but when you've doing like that sort of thinking across different plans, you can do that manually.",
+      "speaker": "发言人2"
+    },
+    {
+      "time": "00:26:07",
+      "text": "I should to see myself in front of paper. I can sketch out, but it's a lot faster. C, D, would have a very smart model that knows me to help me through our process.",
+      "speaker": "发言人2"
+    },
+    {
+      "time": "00:26:18",
+      "text": "所以这里有一个例子，就是最近一次给你这样的inspiration，或者一个所以uh.",
+      "speaker": "发言人1"
+    },
+    {
+      "time": "00:26:24",
+      "text": "I mean, the boy, we started working on this new, the latest interface two weeks ago. I was um glow problems. For example, if your shipping pet water VCMV is definitely part of ICPS, they want a personal module.",
+      "speaker": "发言人2"
+    },
+    {
+      "time": "00:26:38",
+      "text": "They wants like meetings coming up module. They wants like deals of the quarter or deals from module. They wants to keep track of everything is happening across other before companies.",
+      "speaker": "发言人2"
+    },
+    {
+      "time": "00:26:49",
+      "text": "They want to keep track of their relationship. L pace, right. And so maybe you can ship like a cyber where you have is like existing modules in place. Any questions like, okay, we know the thing works for Operators, for funders, for real state salesmen, they all need a different cyber.",
+      "speaker": "发言人2"
+    },
+    {
+      "time": "00:27:06",
+      "text": "So what do we do? Do we ship these things as skills, as plugins, as recipes, right? And allow the user to, like, pick which one they want to add into the product?",
+      "speaker": "发言人2"
+    },
+    {
+      "time": "00:27:18",
+      "text": "所以你在思考这个问题。A boy .",
+      "speaker": "发言人1"
+    },
+    {
+      "time": "00:27:21",
+      "text": "sense, right? So a boy want to ask me that i'm sort like a what application do we use that is what you obviously need a list but is infinite list, but is actually not annoying. And then came back to sort of the IM idea, which is when you think about, uh, what's going on your own message in which has today, which are special in china, there are contacts and there are bunch group chats. And then there are a group chats where sort of like maybe you have like three people OK, just three people, but youth three people can have four group chats for different topics and is actually a very intuit way for people to organize topics. And things are going.",
+      "speaker": "发言人2"
+    },
+    {
+      "time": "00:28:01",
+      "text": "Actually我们每一期播客会拉一个新的group，每个group里面是固定的几个人。因为这样好几期播客在同时做后期的处理，然后一开始在一个群里面会超级混乱，所以每次我们开一个新的博客就开一个新的group，大家同时进这个新group。",
+      "speaker": "发言人1"
+    },
+    {
+      "time": "00:28:16",
+      "text": "Yeah and the great thing about I am is你不在那个group里聊天了，他就被推掉了。你也可以选择右键或者划一下那个隐藏。right?",
+      "speaker": "发言人2"
+    },
+    {
+      "time": "00:28:25",
+      "text": "II did all the time. So my way chance like this inbox. Uh, so come the inspiration. We know we also need a inbox feature.",
+      "speaker": "发言人2"
+    },
+    {
+      "time": "00:28:35",
+      "text": "So what if we don't design an inbox feature? We just turn what is the thing that itself is an inbox. So that's how later came about.",
+      "speaker": "发言人2"
+    },
+    {
+      "time": "00:28:46",
+      "text": "所以其实我们在讲的时候，如果大家没有用过paper boy，可能就需要一些脑补。我们已经安利了非常多paper boy与众不同的功能特性，以及很独特的一些交互的理念和设计。正好也在这里我们来讨论一下。其实像我们刚才讲到的，就是capture所有的context，这是一个共识，大家都会做。然后我们刚才提到的一些新的交互的范式或者一些思考。我觉得其实如果他真的make sense，大家也会很快的追上来扑上来。",
+      "speaker": "发言人1"
+    },
+    {
+      "time": "00:29:18",
+      "text": "所以想问问二位怎么看待竞争？你们觉得最主要的竞争对手是谁？以及你们如何在竞争里面保持持续的优势和差异。",
+      "speaker": "发言人1"
+    },
+    {
+      "time": "00:29:26",
+      "text": "Only to the matters today are OpenAI and anthropic. Everybody else is behind them, right? And they have all the advances. They actually own the models and tropic on new computer now, and they have great distribution.",
+      "speaker": "发言人2"
+    },
+    {
+      "time": "00:29:40",
+      "text": "All we can pray for is where, like cursor, you know, where we have some edge in taste, you know when we beat done to you know sort of this new interface. And all that is for is for individuals and product experience that's not go away. If they are also second enterprise, um they were wanted go in the enterprise.",
+      "speaker": "发言人2"
+    },
+    {
+      "time": "00:30:02",
+      "text": "I mean it's what the money is. People一开始其实想做的第一个产品是AI slack。And that was our answer, uh, initially, to what to build if the best way to work with agents haven't been invented a.",
+      "speaker": "发言人2"
+    },
+    {
+      "time": "00:30:14",
+      "text": "所以这也是现在非常热门的一个赛道，就是有很多的产品都在尝试解决当agent进入团队以后，我们应该build一个什么样的产品去工作。所以你怎么看现在市场上一些大家讨论比较多的产品，比如说slog mota moxy。等等等等。",
+      "speaker": "发言人1"
+    },
+    {
+      "time": "00:30:32",
+      "text": "有没有你想讲的？First, I love slog. I thin. Richard is brilliant background, his cofounder, great. And now the building up a public team as well, the hard part about AI slack. And this is for my personality.",
+      "speaker": "发言人2"
+    },
+    {
+      "time": "00:30:47",
+      "text": "Ty, how do you get enterprise switch? And like the business that makes sense is you have to sell IT to a team. It's the team that's paying for IT.",
+      "speaker": "发言人2"
+    },
+    {
+      "time": "00:30:56",
+      "text": "And for enterprise, if there is a way to exports of later from slow, I can import IT into slog and one to one experience, then maybe can work. And but you know you still have to build a bunch of connectors like integrators for all other data the enterprise has. Yes, that in for work is way.",
+      "speaker": "发言人2"
+    },
+    {
+      "time": "00:31:13",
+      "text": "The second thing is, uh, slack, honestly, not a great product. You know like if you just try to build interface that similar to slack with channels and threats to me, I don't enjoy using that. I still well, you know all to see at the scale.",
+      "speaker": "发言人2"
+    },
+    {
+      "time": "00:31:31",
+      "text": "You can have to switch to that because nothing Better exist right now but is not draga policies. So that's all the on the user side getting adoption IDE and under the agents. As jet said, we don't believe that you know in the learning rates of the agents, if the only sources that he gets for uh understanding how to work with people comes from the messages you sent to that people with jobs are busy.",
+      "speaker": "发言人2"
+    },
+    {
+      "time": "00:31:57",
+      "text": "They do not have time um to care about training agents. They expect things to work for them on the box. They expect the product to keep getting Better. So and the reason we went away from slack is that is just like the agency，slack is still we need more context for them to learn，you know naturally酷。我觉得size.",
+      "speaker": "发言人2"
+    },
+    {
+      "time": "00:32:18",
+      "text": "其实还是有蛮多就是network effect。就像前面这样说来，阻止就是他们被新的那个被新的player去替代掉的。就比如说slack，它其实还有一个功能叫extra connections。目前所有比较认真的公司其实都会用slack。然后公司和公司之间的交流，其实现在很大程度上并不是email，而是通过explore connections去进行。然后这个是很难被替代的，我觉得下来肯定还有就很多其他的这种integration方面的这些network fact。就和现在微信一样，让他们到一个某种程度上不可替代的一个方式。然后相比如果你去把agent作为一个earlier above，更加在OS层面，或者说和slack形成一个互补形式的一个东西的，我觉得反而会有更好的一个adobe story。",
+      "speaker": "发言人3"
+    },
+    {
+      "time": "00:33:03",
+      "text": "所以这是你们在做的事情吗？就是尝试去和slack有一些互补。",
+      "speaker": "发言人1"
+    },
+    {
+      "time": "00:33:07",
+      "text": "We, we sum, if I will be, I will right now, you can't really try to sell something to a team larger than maybe fifty people. How much IT would take for them to switch off a slack will be a bit work. And that makes more sense again, to bring the agents to where people already work instead of trying to replace and build everything from scratch.",
+      "speaker": "发言人2"
+    },
+    {
+      "time": "00:33:30",
+      "text": "我只有注意到这个paper boy目前的官网产品还没有发布。但是你们放了一篇blog post，然后这个标题叫做the last interface。然后在那篇blog里面其实有提到这个five kinds of speed，有5种同的速度。各位稍微展开一下，我理解这背后好像是在讲你们如何理解今天的这个text layer，还有整个memory system等等。",
+      "speaker": "发言人1"
+    },
+    {
+      "time": "00:33:53",
+      "text": "Yeah because actually the choice of five isn't because we only have like five layers, is just because that was like a sensible contribution. The important thing is like if you think about okay, so in SF um there is a non profit called the LG nail foundation and h its founder Steve brands has published something called hayley's.",
+      "speaker": "发言人2"
+    },
+    {
+      "time": "00:34:17",
+      "text": "So it's so like at the top is like fashion and you was like common politics, uh or governance and then info and dance like, uh, civilizations like nature. And these are six places that changes at different locations. So fashion obviously changes of passes nature.",
+      "speaker": "发言人2"
+    },
+    {
+      "time": "00:34:34",
+      "text": "You know, our understanding that that doesn't really change, right? Physics and the world is made up of these kind of different places and of all, have relationship with each other. And they, you know, the reflective relationships between every layer and a larger to make up our society.",
+      "speaker": "发言人2"
+    },
+    {
+      "time": "00:34:49",
+      "text": "I have been kind of fascinated with that since high school, and it's made a kind of its influence. Definitely might work you, if like what is the world that we live in, built and natural and social sites. And um you know what I think about what's actually efficient and working skill um for representing this world that we live in in the agents world you need is different. You know .",
+      "speaker": "发言人2"
+    },
+    {
+      "time": "00:35:12",
+      "text": "pace later too所以还蛮有趣的那怎么会对应着？比如说nature不变的是没有对应着，like fashion是一直在变的。",
+      "speaker": "发言人1"
+    },
+    {
+      "time": "00:35:20",
+      "text": "我觉得对于产品来说，如果你把用户做的这些task的长度去做一个分类的话，其实会有蛮多不同的种类。就比如说用户在微信上回一条消息，他只需要一秒钟或者说十秒钟。然后我们觉得这是spectrum的一端。然后special的另一端可能是说用户去读十个非常长的一个report，然后去做一个business decision，去做一个决策。然后这个可能要花个几个小时。",
+      "speaker": "发言人3"
+    },
+    {
+      "time": "00:35:47",
+      "text": "他。",
+      "speaker": "发言人2"
+    },
+    {
+      "time": "00:35:50",
+      "text": "我来over over，就basic有个spectrum，然后我们认为就这个spectrum，我觉得它每一段都会去备这个，like some kind of AI agent去augment或者说自动化掉。但是每一端他们需要去做的事情其实不一定是一样的。如果你要去自动化，就是说用回复微信的这个task的话，你有可能最好的form tractor是说你点到那个微信的回复界面，你会自动去pop一个auto complete，这个是我们一直在做的。但是你随着这个time horizon就越来越长，其实说你产品形态就会越来越不确定。你去自动化用户一个几个小时task，这个最好的form facto是什么？这个其实就目前还是一个非常值得被探索的一个区域，我们也很感兴趣探索。",
+      "speaker": "发言人3"
+    },
+    {
+      "time": "00:36:30",
+      "text": "这其实在录这期播客之前，我和paper boy的团队也有一些交流。然后我发现团队里面好几个成员都有讲说他们认为每次和降沟通的时候，感觉不到他是04年的，我觉得他有超越年龄的成熟。我其实有这样的感觉，我想就是问一下这样你觉得自己的这样的这个状态它是怎么来的？是因为你过去做了什么，或者看了什么，或者被什么激发激励。",
+      "speaker": "发言人1"
+    },
+    {
+      "time": "00:36:55",
+      "text": "I think i'm still a pretty childish person, especially we chat around, you know, we have a lot of fun together.",
+      "speaker": "发言人2"
+    },
+    {
+      "time": "00:37:02",
+      "text": "I think you're old.",
+      "speaker": "发言人3"
+    },
+    {
+      "time": "00:37:04",
+      "text": "I think at least I do not just have a passion for business. You know we are trying to do something very hard in a very short amount time. And so clarity and efficiency and focus.",
+      "speaker": "发言人2"
+    },
+    {
+      "time": "00:37:18",
+      "text": "这要怎么做到呢？这个知易行难。",
+      "speaker": "发言人1"
+    },
+    {
+      "time": "00:37:21",
+      "text": "我们that starts for me，like my number one job is to bring you know to the team what like define what success looks like and be to make sure that the context every person have about their goals and you know how do actually Operating are complete and um accurate actually even for me, the best part of being able to start, companies get to learn so much of what about always want to explore, just understand about the world.",
+      "speaker": "发言人2"
+    },
+    {
+      "time": "00:37:49",
+      "text": "And that curiosity has probably been because dry performance high school, you know between high school and charge after a couple into ships. And of that are are different companies, just two different type of problem solving activities. And then million abousir, we started in the B2B business, right, selling the reformers, you know, P, R, about to large enterprises.",
+      "speaker": "发言人2"
+    },
+    {
+      "time": "00:38:15",
+      "text": "And then, you know, we learns like that is a difficult business to scale. We as twenty year odds are not good at and scaling up of enterprise relationships. So thanks. And I think II on the street actor, 我们just trying to learn about OK，what are the markets that actually makes sense for different players? And the well like learns not just for startups but across different .",
+      "speaker": "发言人2"
+    },
+    {
+      "time": "00:38:39",
+      "text": "business skills to founder market .",
+      "speaker": "发言人1"
+    },
+    {
+      "time": "00:38:42",
+      "text": "free yeah team team market fit. So I think market pickings were the most important, if not the most important trade of a founder early on is making sure that you understand what you are going to. Where are all the leverage points? You know, where are all of the chAllenges coming down on you? And then you can actually team and then is the experience in funding customers technology?",
+      "speaker": "发言人2"
+    },
+    {
+      "time": "00:39:04",
+      "text": "所以这里有什么可以分享的吗？就是如何去choose market，the right market?",
+      "speaker": "发言人1"
+    },
+    {
+      "time": "00:39:09",
+      "text": "Yeah, I think about, say, a venture, common sense. Again, IT has to be big enough. And this big isn't just dollar kind, but all sustainable is the market and the scale has to keep increasing. So your team can continuously develop your product and your market station across the decade. So when I look at, you know, the most successful products in history is never a single product.",
+      "speaker": "发言人2"
+    },
+    {
+      "time": "00:39:33",
+      "text": "It's actually sort like a product lineup where the expectation is when you build the thing is going take maybe a decade fords to get to a form where is really mouse consumer or everybody y's using IT. Yeah, that is the first thing you go to. To start with, the problem close to you is all just sort of like that to me, a method of understanding market. But then you need little history to be understand. If the business dynamics, you know the the economics are actually favorable and there have been success cases in the past or not, yeah, there are so many details, and I think I am just scratching the surface that pay boys just my can pull out what know?",
+      "speaker": "发言人2"
+    },
+    {
+      "time": "00:40:10",
+      "text": "Paper work应该是第一次做CEO，因为上一家公司是cofounder所以做CEO之后，你觉得自己最大的变化是什么？",
+      "speaker": "发言人1"
+    },
+    {
+      "time": "00:40:19",
+      "text": "Man, working hard. I got on everything. I mean, the call founder, you definitely that too. I get frustrated when, uh, an engineer for ways like an afternoon. But C, E, O, I am actually a personally can cause the company the most among money because I have so much leverage, right? If I say we go to there s and that is actually not a good idea.",
+      "speaker": "发言人2"
+    },
+    {
+      "time": "00:40:39",
+      "text": "Like like just it's the position where literally all of your ideas can have such a large cost on n reward and then asked the team skills obviously, who do actually to hire you know what did they come from and then once or hire, how do you continuously improve together for individual and for the time? Um you are making sure a person's always on road that they they deserve. I felt these are basic management skills.",
+      "speaker": "发言人2"
+    },
+    {
+      "time": "00:41:04",
+      "text": "This is basic. My first time is managed you too. So a lot that I have to figure out on the spot. How do you give performance reviews? How do you have one on once? How do you make sure that you know sometimes um I have to just talk to the team leader I am not to everyone and Michael age.",
+      "speaker": "发言人2"
+    },
+    {
+      "time": "00:41:20",
+      "text": "那你是从哪里来学这些管理技巧？刚才提到怎么开会，怎么做one怎么做performance review，你是用什么方式在学呢？",
+      "speaker": "发言人1"
+    },
+    {
+      "time": "00:41:30",
+      "text": "Before paper boy, the one stint I had were actually stayed biologic comment with a manis, a manis spent. And time is an amazing, amazing C. T. O. I mean, I haven't worked with any other, you know, real general managers, but he is a great interview manager.",
+      "speaker": "发言人2"
+    },
+    {
+      "time": "00:41:45",
+      "text": "And we've had the opportunity when I manage to have a couple, just ask all the questions I want to ask, how do you work? And I say with male and then also spend time, just like your reading. I think the best managed from book ever written is still just like high OPPO management by any growth.",
+      "speaker": "发言人2"
+    },
+    {
+      "time": "00:42:00",
+      "text": "And then then where is you know, he has the the thing, hard thing about the hard things. And then bill cambell, the trillion dollar ach biography and uh, I got myself ACO. Coach we met weekly for like an hour that's helping me a lot a the first few calls just helping me having a space sort of to talk about all of the specific problems that I have.",
+      "speaker": "发言人2"
+    },
+    {
+      "time": "00:42:22",
+      "text": "你怎么找到他的an investor .",
+      "speaker": "发言人1"
+    },
+    {
+      "time": "00:42:24",
+      "text": "in trio OK？Yeah it's a same coach for investors or two.",
+      "speaker": "发言人2"
+    },
+    {
+      "time": "00:42:27",
+      "text": "可以大概介绍一下他是谁吗？",
+      "speaker": "发言人1"
+    },
+    {
+      "time": "00:42:30",
+      "text": "Yes, like, uh, the code to self, h SHE was an XVC executive and like large a bunch of large corporations for many years, is like an expert for kind of first stem cees coaching. And I never tried getting a third pace before. I never, like, believed in therapy. Learn about how therapy est work, right? You just kind of go and talk about your emotions, but the coach is so much Better because you can obviously talk about your emotions, but then you can actually also talk about business. You can talk about everything is happening business and talk, you know confidential also, it's been really fun to use paper boy uh, with the coaching cost because paperboy listens to the cause and I can actually help me follow up on things that I committed to doing on cause, organize everything.",
+      "speaker": "发言人2"
+    },
+    {
+      "time": "00:43:15",
+      "text": "所以你们怎么看？比如说在今天，因为一开始你们说有十个人对吧？但其实今天不是每个团队都有那么多人的，你们的其实这个team size并不小。所以我也比较好奇，在你们看来在今天有那么多的工具AI agent的情况之下去build一个团队和过去我们做一个产业，然后产品团队又有哪些特别大的变化在发生？",
+      "speaker": "发言人1"
+    },
+    {
+      "time": "00:43:39",
+      "text": "If you try to make is serious info um structure built out, you need people who understand info. I think we hire to count people inside one who are like Young, high, you creative, just other types, to ship out of every problem he sees. And the second kind is like you have to be real so that we should do have to understand the system.",
+      "speaker": "发言人2"
+    },
+    {
+      "time": "00:44:00",
+      "text": "You got to understand. O, S, so we're higher. This guy out of AW, S, who worked on like windows kernels for, you know, the eight bus, like in for for the running when the only thing dance gna go away and time soon, the human experts.",
+      "speaker": "发言人2"
+    },
+    {
+      "time": "00:44:13",
+      "text": "其实这个建设现在大一对吧？对，就我们看到硅谷有一些公司，比如pantier直接给高中生offer，让他们不要读大学了，直接工作。因为认为在AI时代不需要大学了。很显然其实jet也是优秀的大一学生。但你也在paper boy是founding engineer，那你为什么现在还要读大学？",
+      "speaker": "发言人1"
+    },
+    {
+      "time": "00:44:33",
+      "text": "Is got chinese parents？",
+      "speaker": "发言人2"
+    },
+    {
+      "time": "00:44:35",
+      "text": "意义的话，其实对于大部分人来说，大学还是能提供非常大的意义的。因为至少我在CMU这边看见，大部分其实和我同龄人，他们其实并不是很确定未来想要做什么事情。然后你在不确定的情况下，你可以做的是什么？你可以提升你自己的technical能力。",
+      "speaker": "发言人3"
+    },
+    {
+      "time": "00:44:51",
+      "text": "上大学是个比较好的一个选项，学业只会占你相对比较少的一个时间。你大部分其他时间是你自己决定的，然后相当于四年的时间去做这个exploration。这个四年的时间其实是对大部分来说会是比较有用的。但是同时如果你在上大学的时候，已经很确定你想要做什么事情，并且你做事情这个方面确实机会。我觉得辍学也是一个理性的选择。对。",
+      "speaker": "发言人3"
+    },
+    {
+      "time": "00:45:16",
+      "text": "这个叫你作为一个非常年轻的founder，也是first time founder，你怎么吸引到同学们愿意加入你的，就是你怎么说服大家的对。",
+      "speaker": "发言人1"
+    },
+    {
+      "time": "00:45:26",
+      "text": "是的，这什么方面吸引到我？",
+      "speaker": "发言人3"
+    },
+    {
+      "time": "00:45:28",
+      "text": "你观察到的就因为对大家来说职业选择是非常重要的。这个人生投资很多。",
+      "speaker": "发言人1"
+    },
+    {
+      "time": "00:45:33",
+      "text": "时候你选一个founder也是你有intercept，你有slope，然后很多时候slope比intercept重要很多。然后我觉得这样是一个high slope founder。怎么说，他现在如果你看他的这个track record的话，他现在就差不多比我大。所以相当于他就是在一个很小的时间内，就是说。实现了特别多比较厉害的事情。然后就这一定程度上它是比较比较有agency。就是他可以很快的去学习，并且可以去做非常多的新事情。",
+      "speaker": "发言人3"
+    },
+    {
+      "time": "00:46:03",
+      "text": "对于一个创业者来说，这个arguably是最重要的一个quality。就是说你只要能你头脑清晰地了，能很快的去适应各种的情况。首先你得要认为它是一个good founder。对于我来说，首先我和丈已经工作的比较久，所以说就是我在和他合作，我有比较高的confidence说我们可以比较顺畅的合作。然后这样他也有不错的research engineering，甚至product的taste。我觉得和他在工作的过程中，我可以吸取很多这种经验，然后让我个人也有更好的成长。我个人觉得这还是就算比较charismatic的一个人。",
+      "speaker": "发言人3"
+    },
+    {
+      "time": "00:46:40",
+      "text": "大型表白现场，而且的人，所以这样你自己怎么看，你有没有有一些方法被你抽象总结出来。比如你像去approach一个新的candidate，你会有一些什么样的方法去说服他？",
+      "speaker": "发言人1"
+    },
+    {
+      "time": "00:46:55",
+      "text": "I treat every candidate individually, and I do not like a script that sick too. IT has been mutual. II never like to sell the company to a canada like heart cell. And now recruiting is one thing. What's more important is about my reliability, I think, and that's the thing I should place lot of attention to.",
+      "speaker": "发言人2"
+    },
+    {
+      "time": "00:47:13",
+      "text": "Just like after I recruit somebody, can I actually deliver what I tell them? Can I Carry that? And be to make sure that I deliver on, you know what the team needs time and time again.",
+      "speaker": "发言人2"
+    },
+    {
+      "time": "00:47:25",
+      "text": "You gotto pick people for grades, man. You can't talk to mediocre and and you can tell that from conversation spells or password. And especially important, like the past life decisions I really like to learn about, you know, if they are older, they have a decade sort of decisions behind them and um you can really learn lot. You just can't you can't fake that.",
+      "speaker": "发言人2"
+    },
+    {
+      "time": "00:47:44",
+      "text": "可不可以分享一下你们最喜欢用的AI产品？除了paper.",
+      "speaker": "发言人1"
+    },
+    {
+      "time": "00:47:49",
+      "text": "boy still, of course man still on your code text.",
+      "speaker": "发言人2"
+    },
+    {
+      "time": "00:47:54",
+      "text": "我特别喜欢codex。",
+      "speaker": "发言人3"
+    },
+    {
+      "time": "00:47:55",
+      "text": "Yeah cursor has always been a great inspiration, uh, to me, I have for them, but I hope that reaction that happens go through.",
+      "speaker": "发言人2"
+    },
+    {
+      "time": "00:48:04",
+      "text": "就是这样。第一次创业做cofounder的时候做billion。那个时候其实有一个收购的offer，来自David的那家公司。Cocoa.",
+      "speaker": "发言人1"
+    },
+    {
+      "time": "00:48:12",
+      "text": "yeah there are other offers to like from brave and like century.",
+      "speaker": "发言人2"
+    },
+    {
+      "time": "00:48:16",
+      "text": "所以当时你们都没有接这些offer。然后当时可以讲讲在面临这样的收购offer的时候，你们是怎么思考决策，以及你现在回头看，你是跟appreciate当时的决定，还是你会有一些遗憾。",
+      "speaker": "发言人1"
+    },
+    {
+      "time": "00:48:30",
+      "text": "首先，these are actually hires know whatever offers for the talent, not going to a lot of money OK. And you, the company, and like another employee, and you have to work on somebody else's ideas. I have never been interested in that tall damage.",
+      "speaker": "发言人2"
+    },
+    {
+      "time": "00:48:43",
+      "text": "So if he asked me to join century, or join our cell, or join technician as individual, I think I won't do IT right? So IT isn't really make sense. If you can stay independent, and if you can achieve your dreams, like I stay independent, you stay independent, right? We never found the wants.",
+      "speaker": "发言人2"
+    },
+    {
+      "time": "00:48:59",
+      "text": "好，我们再说回来，刚才你提到了你最喜欢的产品是可然后是codex。可不可以讲讲为什么是code dex而不是cloud code。",
+      "speaker": "发言人1"
+    },
+    {
+      "time": "00:49:10",
+      "text": "Cloud code它理念不一样，它相当于以最ambitious的形式，就是说你未来这个software engineer或者怎么我觉得coco他最重要的东西是体现opens有多好，不是说他那个命令好像有多好。我appreciate那个ops的模型，我不是很appreciate coco那个DIA本身cotex，我喜欢它几个点，一个就是说它核心的agent的是开源的，它的命令行，还有那个整体的agent loop，它实际上都放在github上。然后如果你用他们那个桌面端的APP的话，把那个桌面端的APP去和就比如说卡扣那个桌面端APP比他整个APP就是他那个craft的水平会非常好。他们前面买了一个团队叫sky，然后sky他们是做apple shortcuts的那个团队。然后open I就是会还有这种人去做一个非常polish的产品。",
+      "speaker": "发言人3"
+    },
+    {
+      "time": "00:49:54",
+      "text": "然后你去看codex的话，你会发现他们就比如说最近出了一个叫code dex pets的一个东西，就非常publish也很好玩。然后包括codex的computer use，broader use, 其实都做的非常polished。然后我觉得codex其实也是第一个高并行式的，就是说你不同A正的同时去工作的一个东西，当做主要UI的一个产品，然后也会出来。还有就是OpenAI在那个infrared层面其实比antoine c优势大非常多。所以说如果你用codex的话，模型大差不差，但是稳定很多。不好意思，就是因为AI在info上面其实可以subsidize更多的compute。然后topic他们现在就是投资的不够，所以他们没法subsidize，然后导致了一系列风波。就比如说你的repo里面有什么open class或者说hermies agents，然后COO可能会直接收你十倍的价格，反正就按照现在因为computer受限去做很多奇怪的操作。",
+      "speaker": "发言人3"
+    },
+    {
+      "time": "00:50:46",
+      "text": "如果可以买他们的这个secondary，就你可以买他们的股票。你现在会买OpenAI，还是买on topic，还是你会隔三期开买，还是怎么样？",
+      "speaker": "发言人1"
+    },
+    {
+      "time": "00:50:55",
+      "text": "我感觉我会买OpenAI all .",
+      "speaker": "发言人3"
+    },
+    {
+      "time": "00:50:57",
+      "text": "in OpenAI，可能就是。",
+      "speaker": "发言人1"
+    },
+    {
+      "time": "00:50:59",
+      "text": "比如说OpenAI80%和20% OK是什么原因呢？就是他们两个公司都会do very well，但是我更喜欢OpenAI在做的事情。我觉得and a做的最好的事情是他们的interpret able，还有他们的social impacts。那两个部门做的非常好，然后我特别喜欢那两个东西。",
+      "speaker": "发言人3"
+    },
+    {
+      "time": "00:51:17",
+      "text": "但是and topic在就比如说很多模型我觉得他们过于opinion，就是说用户该怎么用这个来会非常。就比如说不管是道德上还是具体使用习惯上会非常opinion。然后相比之下，OpenAI的理念是说就是在一个最小的一个局限性之下，就是用户想要怎么用这个模型就怎么用。然后我个人会比较libertarian，我会喜欢OpenAI这种更加opening的这种values。然后还有就是我觉得open还在computer上面会占优势。",
+      "speaker": "发言人3"
+    },
+    {
+      "time": "00:51:48",
+      "text": "所以说i'm gonna，i'm making an investment decisions. I'm not going to buy either of them at the current valuation, but I actually prefer anthropy commitment safety.",
+      "speaker": "发言人2"
+    },
+    {
+      "time": "00:51:58",
+      "text": "你们怎么看？就是模型吞噬一切这个说法。",
+      "speaker": "发言人1"
+    },
+    {
+      "time": "00:52:02",
+      "text": "我觉得你完全可以argue，就是很多公司会提供差不多的模型，然后产品的差异性还是在产品公司里面，这不一定会是真的，但是我觉得这是一个possible的。还有curse r我觉得是一个不错的一个example。他们一开始产品公司，但是现在他们既是产品公司又是模型公司。他们现在可以用XAI的这个computer去front coding model。所以我觉得公司不能把自己局限为模型公司还是产品公司。It's usually both.",
+      "speaker": "发言人3"
+    },
+    {
+      "time": "00:52:31",
+      "text": "如果给你们一笔虚拟的资金去做投资，那300万美金可以投三个团队身边认识的三个人。",
+      "speaker": "发言人1"
+    },
+    {
+      "time": "00:52:40",
+      "text": "Slog is good，just Better on Richard, you know, robots companies, I think that's something you going to be big and then info people who are focused on. And then I believe the e biggest company, similar cursor is going to come out. The consumer, it's not going come out.",
+      "speaker": "发言人2"
+    },
+    {
+      "time": "00:53:00",
+      "text": "Enterprise AI um it's onna come out of consumer and oldest y paper boys in the market because I followed up hef, yeah. Consumers, such a big market. There are so many opportunities.",
+      "speaker": "发言人2"
+    },
+    {
+      "time": "00:53:10",
+      "text": "我觉得robotics我也会特别讲透。因为我觉得在这一类去ultimate knowledge work产品之后，很有可能最大的市场是用这个model capability去净化物理世界的之类这种opportunity。然后还有一个就是安全，因为我觉得首先AI just QT是一个非常好的领域。这个demand的基本上是infinite，就只要模型越强的插克和defined能力都会变强。很多时候这种公司就是我觉得他也非常大。",
+      "speaker": "发言人3"
+    },
+    {
+      "time": "00:53:36",
+      "text": "With topic ONI.",
+      "speaker": "发言人2"
+    },
+    {
+      "time": "00:53:39",
+      "text": "肯定会有最好的模型。问题是就是你有最好模型之后，你下一个optimization layer是什么？你是做比较好的harness吗？你是把人类security researcher的各种create到agent里面，还是说你去做info就比如说非常庞大的一个multi agent系统去不断的去挖这些漏洞，我觉得这个探索空间会非常大。就比如说就你这个产品挖的漏洞会比另外一个产品，比如说多个10%，你这个产品就是非常有用的，这是一个非常metal craft的一个market.",
+      "speaker": "发言人3"
+    },
+    {
+      "time": "00:54:12",
+      "text": "所以我觉得是很不错的。We have zon yeah Hardy should the thing right like horizon law and don't think the other john on ship is new like sweet enc yeah uh today or like recently reproducing complete all basis from stocks like expects that's not go away.",
+      "speaker": "发言人2"
+    },
+    {
+      "time": "00:54:31",
+      "text": "我觉得安全能力对于国家安全是非常重要的一个事情。我觉得对于创业来说，这也是非常好的一个opportunity。因为模型最强的人，他有这个incentive去把这个模型说只有我们自己国家可以用这个东西。相当于你其他国家怎么搞呢？你其实很多很多不同的国家或者说那些都需要这种模型，所以说这个market是非常大的。",
+      "speaker": "发言人3"
+    },
+    {
+      "time": "00:54:55",
+      "text": "我们最后问个问题，你会期待就一年后的此刻paper boy是一个什么样的状态？你有一些什么样的期待，或者你有一些什么样的害怕做错的事。",
+      "speaker": "发言人1"
+    },
+    {
+      "time": "00:55:07",
+      "text": "Well, hope we're not losing money everyday anymore. I will keep hiring the best people I can find. So the talents ity needs be higher than you know what we worry out today. I mean, so much specific s we talk about everything from a team. And like this point for that, we actually need cash flow and we need to keep building about time OK.",
+      "speaker": "发言人2"
+    },
+    {
+      "time": "00:55:27",
+      "text": "好，谢谢二位，谢谢你，非常开心。好，拜拜。",
+      "speaker": "发言人1"
+    }
+  ],
+  "lab_info": {
+    "summary": "本期《十字路口》节目探讨了人工智能（AI）在提升工作效率和商业决策支持方面的潜力，通过讨论Paper Boy项目的案例，展现了AI技术在文件共享、协作效率和个人化体验方面的革新。尽管该项目目前仍处于亏损状态，但已开始预览版分发并计划迭代升级。讨论强调了AI与人类协作的未来模式，以及Paper Boy的核心竞争优势和与同类工具的互补性。此外，嘉宾们分享了个人经验，包括MBTI和星座信息，增加节目趣味性。节目中也触及了创业经验和团队建设的重要性，强调了目标设定、沟通效率和人才吸引与培养策略。讨论者们通过阅读、实践和导师指导提升管理技巧和行业洞察力，表达了对Paper Boy项目的期待，并强调了持续增长和盈利的重要性，展望了AI未来几年内的巨大变化。",
+    "qa_pairs": [],
+    "chapters": [],
+    "mindmap": {
+      "children": [
+        {
+          "children": [
+            {
+              "children": [],
+              "content": "Participants: Jon Yang (Paper Boy Founder) &amp; Jian Cheng (Foundation Engineer)"
+            },
+            {
+              "children": [],
+              "content": "Program: Crossroads Podcast"
+            },
+            {
+              "children": [],
+              "content": "Format: Mixed Chinese &amp; English, Video &amp; Audio"
+            }
+          ],
+          "content": "Introduction"
+        },
+        {
+          "children": [
+            {
+              "children": [],
+              "content": "Age: 21 (Jon), 19 (Jian)"
+            },
+            {
+              "children": [],
+              "content": "Education: CMU (Jian), Shanghai Xinhua Bilingual School (Jian)"
+            },
+            {
+              "children": [],
+              "content": "MBTI &amp; Zodiac: ISTJ &amp; Gemini (Jon), INTJ &amp; Virgo (Jian)"
+            }
+          ],
+          "content": "Fast Facts"
+        },
+        {
+          "children": [
+            {
+              "children": [],
+              "content": "Previous Ventures: React Open Source, Sam Def"
+            },
+            {
+              "children": [],
+              "content": "Projects: Earth Kit (Jian)"
+            }
+          ],
+          "content": "Background"
+        },
+        {
+          "children": [
+            {
+              "children": [],
+              "content": "Mission: Optimize AI-human collaboration"
+            },
+            {
+              "children": [],
+              "content": "Problem Space: Session-based, reactive agents; lack of personalization"
+            },
+            {
+              "children": [],
+              "content": "Solution: OS-level data collection, persistent conversations"
+            }
+          ],
+          "content": "Paper Boy Overview"
+        },
+        {
+          "children": [
+            {
+              "children": [],
+              "content": "Main Competitors: OpenAI, Anthropic"
+            },
+            {
+              "children": [],
+              "content": "Differentiation: OS-level context, proactive agents"
+            }
+          ],
+          "content": "Competitive Landscape"
+        },
+        {
+          "children": [
+            {
+              "children": [],
+              "content": "Text Completion: Auto-complete for commands, emails, etc."
+            },
+            {
+              "children": [],
+              "content": "Inbox Integration: Inspired by IM groups for organized communication"
+            },
+            {
+              "children": [],
+              "content": "User Adaptation: Learning from OS usage patterns"
+            }
+          ],
+          "content": "Unique Features"
+        },
+        {
+          "children": [
+            {
+              "children": [],
+              "content": "Target Market: Enterprise, early adopters"
+            },
+            {
+              "children": [],
+              "content": "Team Building: Focus on creativity, system understanding"
+            },
+            {
+              "children": [],
+              "content": "Recruitment Philosophy: Reliability, growth potential"
+            }
+          ],
+          "content": "Market &amp; Strategy"
+        },
+        {
+          "children": [
+            {
+              "children": [],
+              "content": "Founder&#39;s Growth: Clarity, efficiency, curiosity"
+            },
+            {
+              "children": [],
+              "content": "Team Dynamics: High slope, agency, mutual confidence"
+            },
+            {
+              "children": [],
+              "content": "Future Vision: Positive cash flow, talent acquisition"
+            }
+          ],
+          "content": "Personal Insights"
+        },
+        {
+          "children": [
+            {
+              "children": [],
+              "content": "AI Tools: Cursor, Codex, OpenAI"
+            },
+            {
+              "children": [],
+              "content": "Investment Preferences: OpenAI for openness &amp; values"
+            },
+            {
+              "children": [],
+              "content": "Opportunities: Robotics, Security, Consumer AI"
+            }
+          ],
+          "content": "Industry Perspectives"
+        },
+        {
+          "children": [
+            {
+              "children": [],
+              "content": "Expectations for Paper Boy: Financial stability, talent growth"
+            }
+          ],
+          "content": "Conclusion"
+        }
+      ],
+      "content": "Paper Boy &amp; AI Collaboration Innovation"
+    }
+  },
+  "llm_summary": "### 主题概述\n这期节目邀请到AI Agent初创公司Paper Boy的创始人Jon Yang（22岁）和首席工程师Jian（19岁）。核心议题是探讨“人类与AI Agent协作的最佳方式”，而Paper Boy正是对此的探索实践。公司成立于2023年底，已融资470万美元（估值2500万美元），团队12人，目前产品尚未正式发布。Jon认为，现有AI产品（如Claude Code、Manus）都是“基于会话”和“被动响应”的，而Paper Boy的目标是构建一个能通过观察用户整个操作系统使用来持续学习、主动提供帮助的AI Agent。\n\n### 关键要点\n\n1.  **核心判断：最好的协作方式尚未被发明，且是一个移动靶**。Jon在第一次全员大会上写下这句话，认为Cursor是成功范例，但整体机会巨大。他表示：“这其实是一个不断移动的目标，因为你每次想出新的东西，大家都会看到，用户也会看到。你只能不断做得更好。”\n\n2.  **产品核心差异：从OS层面收集上下文，而非仅依赖聊天框**。Paper Boy通过监控用户的屏幕、键盘、鼠标、会议、浏览历史等所有电脑活动来学习用户，而不是用户主动告诉它。Jian解释：“最可扩展的方式是通过观测用户日常使用电脑，在OS层面收集数据。用户一般的电脑使用，信息浓度非常高，观察60分钟就能学到很多。”\n\n3.  **产品设计哲学：消灭“提示”**。Jon明确表示：“我讨厌提示。我认为提示是一种……你得沟通，但人们不是靠提示思考的。我们发文字，然后期待对方知道我们在说什么。” Paper Boy的Agent通过观察学会用户的品味和偏好，目标是让用户无需写长prompt，只需“指一下”或“看一眼”Agent就能懂。\n\n4.  **关键应用场景：自动补全（Auto-Complete）Agent**。Paper Boy允许用户在操作系统中任何输入框（如微信、命令行）输入“@PB”并附带简短指令（甚至不输入），Agent会根据全量上下文自动完成。例如在Git命令行输入`@PB commit`，Agent能自动生成commit message。Jian形容：“很多时候你和你的工程师，你并不需要描述，你只要点一下屏幕，他就知道。”\n\n5.  **独家内部案例：Agent化身实习生（Vivian）**。Jon的Paper Boy分身“All-John”被配置为团队Slack里的Agent，能处理所有初级问题。Jon分享：“Mini Vivian（代理）是她（团队员工）的招聘实习生……因为它理解我在所有会议、Slack中说过的一切，包括我对候选人的判断和品味。”\n\n6.  **竞争判断：唯一的竞争对手是OpenAI和Anthropic**。Jon直言：“今天真正重要的只有OpenAI和Anthropic。其他人都落后。”他认为初创公司的竞争优势在于“品味（taste）”，即产品体验和交互设计的独特性，而非模型能力。\n\n7.  **对Slack类AI产品的批评**。Jon认为试图做“AI Slack”的初创公司（如Slog）面临巨大困境：需要说服企业团队切换沟通工具，且Agent的学习来源仅限聊天记录，信息密度不足。Paper Boy的策略是将Agent带到用户已有的工作流中，而不是试图取代Slack。\n\n8.  **关于大学和辍学的务实观点**。Jian作为大一学生仍在CMU就读，他解释：“对于大部分人来说，大学还是能提供非常大的意义……如果你不确定未来想做什么，上大学是一个比较好的选项。但如果你很确定，并且确实有机会，辍学也是一个理性的选择。”\n\n9.  **创始人选人标准与招聘方法**。Jon强调无法靠“销售”吸引人，关键在于自身的“可靠性”和交付能力。他会一对一对待每个候选人，并详细打探其过去的生活决策：“你不能和庸才交谈……过去人生中的决定，你无法伪造。”\n\n### 独家细节\n\n1.  **自我监督与“老大哥”**：Jian承认自己有ADHD倾向，难以专注。他让Paper Boy每晚给他出一份“效率报告”，“骂”他什么时候不够高效、什么时候分心了。他坦言“当我被盯着时，我工作效率会更高”。\n\n2.  **产品灵感来源：即时通讯（IM）的群组逻辑**：Paper Boy最新界面设计的灵感直接来自Jon对微信的使用。他思考如何组织Agent与用户的交互时想到：“你在微信里可以有多个群聊，这和Inbox的概念一样。我们不需要设计一个Inbox功能，我们只要让Agent本身成为一个Inbox。”\n\n3.  **CEO身份带来的巨大压力**：Jon坦诚作为CEO，“我的任何一个想法都有可能给公司带来巨大的成本或回报”。他第一次做CEO，需要学习如何开1v1、做绩效评估，甚至为此请了一位个人教练（一位前VC高管），每周通话一小时。他坦言：“我从未相信过心理治疗……但教练好太多了，你能同时谈情绪和生意。”\n\n4.  **尖锐判断：如果必须投资，押注OpenAI**。Jian直言如果必须在这两个巨头间选择，他会80%投OpenAI，20%投Anthropic。原因是“OpenAI在Infra层面比Anthropic优势大非常多”，并且“OpenAI的理念是在最小的限制下让用户自由使用模型，我更喜欢这种更开放的价值”。\n\n5.  **关于“模型吞噬一切”的反直觉观点**：尽管AI浪潮汹涌，Jon和Jian并不认为模型公司会赢家通吃。他们指出Cursor已经兼具“产品公司”和“模型公司”的属性（使用xAI的compute），建议公司不应自我设限。Jon则补充，最大的消费者AI公司可能不是做企业出身的，而会从消费者市场里长出来。"
+}
