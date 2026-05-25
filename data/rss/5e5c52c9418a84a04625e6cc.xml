@@ -4,7 +4,288 @@
         <title>硅谷101</title>
         <link>https://www.xiaoyuzhoufm.com/podcast/5e5c52c9418a84a04625e6cc</link>
         <description>分享当下最新鲜的技术、知识与思想</description>
-        <lastBuildDate>Fri, 22 May 2026 05:44:43 +0800</lastBuildDate>
+        <lastBuildDate>Tue, 26 May 2026 05:21:53 +0800</lastBuildDate>
+        <item>
+            <title>E238｜聊聊Harness时代AI-First的组织架构：从信任人到信任AI</title>
+            <link>https://www.xiaoyuzhoufm.com/episode/6a13923cfe904f3873c51d2b</link>
+            <description>“Harness Engineering”（挽具工程）正在成为硅谷的新共识，Anthropic、OpenAI等公司都在探索这一工程范式。但真正理解Harness的人还不多。前不久，一篇题为《Why Your “AI-First” Strategy Is Probably Wrong》的文章在X上获得百万级阅读和热议，作者是来自硅谷CreaoAI的Peter Pang。在这篇文章里，Peter展示了Harness Agent系统激发出的极致效率：99%的代码由AI完成，每天平均3到8次生产部署，过去六周的产品流程，现在一天就能跑完。
+本期播客，主播泓君邀请到Creao的三位创始人，聊聊这家公司对Harness的实践，以及在组织AI-First转型上的深度思考。嘉宾们指出，AI-First不等于“使用AI”，想要把效率提升100倍、1000倍，就不能只把AI当成工具，而要让AI成为所有生产力的主导。组织转型最难跨出的一步在于——是否能让所有员工都能做到信任AI。
+这场对话中有一些有趣的观察，比如在Creao，市场不用再追着开发提需求，因为开发速度已经远超市场消化能力；当大量对齐工作被AI接管之后，拿掉产品经理，反而让团队效率大幅提升；初级工程师比资深工程师更适应AI时代的转型；尽管过去十年积累的专长正在快速贬值，但资深工程师仍然有竞争力，因为未来的核心竞争力不再是写代码，而是“找到AI Planning的缺陷”和“判断什么是有价值的”。
+【主播】
+泓君，硅谷101创始人，播客主理人
+【嘉宾】
+Kai，Creao联合创始人/CEO
+Peter，Creao联合创始人/CTO
+Clark，Creao联合创始人/CPO，clark@creao.ai
+【你将听到】
+AI 主导的效率革命
+02:32 什么是Harness（挽具）？
+03:09 Harness范围远大于prompt/context engineering，榨干大模型能力
+04:52 Harness成败在于，设计好系统自身的feedback loop
+07:11 传统软件静态人主导，Harness动态AI主导迭代
+08:10 一篇X爆文，揭秘CreaoAI的Harness实战
+09:53 AI-first第一步：重构流程，降低对齐成本
+13:19 思维转变：AI不是工具，是所有生产力的AI主导者
+14:01 放弃传统开会讨论，让AI主导对齐，沟通成本大幅降低
+19:12 Agent主导排查bug，50%以上问题由AutoFixing自动修复
+23:48 搭建整个Agent系统，只需要1个Architect用一周定框架
+25:47 Harness观念：AI是动态系统，出错要弥补系统而非简单纠错
+27:13 你的内容和产品，受众可能是Agent
+Harness时代的组织转型
+31:09 组织转型挑战：只要有人觉得“不如人做”，改造就会被拉长
+32:02 AI能力已达，CreaoAI 2026年1月用两周完成全部架构重构
+36:00 “2026年我没有写过一行代码”，架构师的价值是找出AI planning的缺陷
+38:22 产品开发超前于市场，市场尚不了解Harness Agent的工作方式
+43:05 大企业难转型的原因：合规问题，人员过多
+Harness时代人的价值
+47:47 信任从人转向AI需要guardrails，产品经理角色被拿掉，对齐成本反而更低
+52:00 交流成本＞落地成本，AI环境下复合型人才更重要
+53:21 “资深悖论”：初级工程师更适应AI，资深专家转变难度大
+01:00:30 人类未来最核心的能力和价值：定义需求，review结果
+【延伸阅读和相关术语】
+《Why Your “AI-First” Strategy Is Probably Wrong》
+《The Self-Healing Agent Harness》
+CI/CD（持续集成/持续部署），软件开发中的自动化流程。CI（Continuous Integration，持续集成） 指开发者频繁地将代码合并到主干，并自动运行测试，以便尽早发现集成错误。CD（Continuous Delivery/Deployment，持续部署/持续交付） 指通过自动化流水线将通过测试的代码自动发布到生产环境。
+Agent Behavior（智能体行为），指AI Agent在执行任务时的行为模式，包括它如何理解指令、调用工具、做出决策、处理错误等。
+【监制】
+泓君
+【后期】
+Amei
+【运营】
+朱婕
+【BGM】
+Radar Focus - Blue Saga
+Rumors About Us - T. Morri
+Easily Served - Gerhard Feng
+Poisson d&#x27;Avril - Ludvig Moulin
+【在这里找到我们】
+公众号：硅谷101
+收听渠道：Apple Podcast｜Spotify｜小宇宙｜喜马拉雅｜蜻蜓FM｜荔枝FM｜网易云音乐｜QQ音乐
+其他平台：YouTube｜Bilibili 搜索「硅谷101播客」
+联系我们：podcast@sv101.net
+Special Guests: Clark Gao, Peter Pang, and 程凯.</description>
+            <content:encoded><![CDATA[<div class="episode-summary">
+<h3>内容摘要</h3>
+<h3>主题概述</h3>
+<p>本期节目探讨了AI工程能力从Prompt Engineering、Context Engineering到Harness Engineering的进化。三位嘉宾是Crew AI的创始人：CTO Peter（前Meta LLaMA基础模型团队研究科学家）、CEO陈凯、联合创始人Clark（前数据科学家和机器学习工程师）。核心议题是：如何通过Harness Engineering构建AI-First的组织架构，将信任从人转向AI，实现以AI主导生产力的工作方式。节目以Peter在Twitter上引发百万级讨论的文章为引子，深入分析了Crew AI自身从人主导到AI主导的组织转型实践。</p>
+<h3>关键要点</h3>
+<ol>
+<li>
+<p><strong>Harness Engineering的定义与范畴</strong>：Harness指围绕大模型搭建一套系统，使其能在真实世界中持续工作、自我修复和自我提升。它不仅仅是优化与大模型的交互（Prompt/Context Engineering），更是一个涵盖工具、基建、安全、以及系统动态迭代的完整工程过程，其核心是让系统能够<strong>self-healing</strong>（自我修复）和<strong>self-improvement</strong>（自我提升）。</p>
+</li>
+<li>
+<p><strong>真正的AI-First战略是组织重构</strong>：Peter认为大多数公司的“AI优先”是假的。真正的AI-First不是用AI工具提升现有流程效率，而是<strong>围绕AI能力重新设计公司流程与组织结构</strong>，将AI从“辅助工具”转变为“生产力主导”。Peter的文章在Twitter上获得了超过187万次流量。</p>
+</li>
+<li>
+<p><strong>效率提升的直观案例</strong>：在Crew AI内部，一个25人（工程团队&lt;10人）的公司，通过AI主导的开发流程，实现了“上午10点写功能，中午AB测试，下午3点砍掉部分功能，5点重写更好版本”的迭代速度，这<strong>替代了传统需要6周的工作量</strong>。开发一个类似于Crew AI的产品，传统需要100人团队花费四五个月，而他们用十人以下团队仅用两周完成。</p>
+</li>
+<li>
+<p><strong>组织转型的核心挑战：信任与心态</strong>：最大的障碍不是技术，而是<strong>人的心态转变</strong>。许多资深工程师和员工愿意使用AI工具提效，但不愿意将工作主导权交给AI。一个公司的转型意愿往往取决于创始人是否有“相信AI”的核心信念。团队内部需要花费时间（如Crew AI用了数月）来对齐心态，这是转型能否顺利推进的关键。</p>
+</li>
+<li>
+<p><strong>AI主导的开发流程与角色重塑</strong>：在该模式下，产品经理角色被“拆解”或“组织化”，其核心的对齐成本被AI大幅降低。工程师（尤其是Junior）和产品经理的边界在模糊，<strong>复合型人才（兼具产品、市场直觉和AI实现能力）</strong> 更有优势。资深工程师的价值在于系统架构能力，而非单纯的代码实现。</p>
+</li>
+<li>
+<p><strong>代码质量把控的新方式</strong>：引入了<strong>AI驱动的CICD系统</strong>和<strong>AI驱动的Bug Triage系统</strong>。目前50%以上的issue通过Auto-Fixing系统自动提交PR，只需工程师简单审核。理想状态下，从发现一个bug到修复并上线，周期从一周缩短到1-2小时。系统基于代码所在文件夹的风险等级，决定是否由AI自动修复。</p>
+</li>
+<li>
+<p><strong>销售与工程角色反转</strong>：在Crew AI内部，出现了一种“<strong>技术超前市场</strong>”的现象。开发团队的速度远超市场团队的推广能力，市场团队需要追赶开发团队的功能。这意味着公司不再需要讨论产品路线图，而是从已有的功能“宝库”中挑选当前市场所需的功能进行推广。</p>
+</li>
+<li>
+<p><strong>未来内容与Agent经济</strong>：Clark提出了一个前瞻性观点：未来消费内容的可能不是人，而是Agent。企业应思考工作成果是谁在消费（人还是AI），并据此调整自己的系统。他在自己的工作中已经实践了这一点，让Agent先帮他筛选合规服务商，再基于结果做人工判断。</p>
+</li>
+</ol>
+<h3>独家细节</h3>
+<ol>
+<li>
+<p><strong>CTO不写代码</strong>：Peter提到自己“<strong>2026年就没写过一行代码</strong>”，但通过Criticize AI的Planning，指出其安全或架构缺陷，来指导AI完成系统架构。这展现了未来架构师角色的新形态——从写代码变为“审阅和挑战AI的方案”。</p>
+</li>
+<li>
+<p><strong>组织转型中的“内部博弈”</strong>：陈凯透露，在转型过程中，市场团队和工程团队曾花了<strong>一到两个月</strong>来来回回探讨如何更好地协作。这表明即使技术可行，组织内部的价值对齐和接受度也是巨大的隐性成本。</p>
+</li>
+<li>
+<p><strong>产品经理角色的“消失”</strong>：陈凯表示，在Crew AI内部，产品经理角色被“拿掉”，因为它的功能（特别是对齐成本）可以被AI系统替代或分散到工程师身上。这是一个极端但也引人深思的组织实践。</p>
+</li>
+<li>
+<p><strong>“信任AI”的震撼</strong>：主持人“红军”在节目最后坦承，嘉宾们关于“<strong>相信AI</strong>”的讨论给她带来了“<strong>特别大的震撼</strong>”，这反映了即使在一线科技媒体，这种以AI为核心的系统性信任，仍然是一个超前的、具有冲击力的概念。</p>
+</li>
+<li>
+<p><strong>“机器猫的万能宝箱”</strong>：Clark用一个生动的比喻形容Crew AI的开发状态：公司的功能多得像一个机器猫的宝箱，市场需要苹果就拿苹果，需要香蕉就拿香蕉。这个比喻形象地描绘了技术储备碾压市场需求的状态。</p>
+</li>
+</ol>
+</div>
+<hr/>
+<p class="transcript-line"><span class="time"><strong>[00:00:00]</strong> </span><span class="speaker"><strong>发言人1: </strong></span>Hello, 大家好，欢迎收听硅谷101，我是红军。过去三年我们经历了大模型工程能力的三次概念上的进化。大家还记得在2023年模型刚刚出来的时候，我们大家都在聊prompt engineering。它的核心是说要怎么样去写好一个提示词，让模型给出更好的答案。后来在2024年，焦点就变成了context engineering，他是说怎么给模型提供更完整的上下文，让它能够去理解更加复杂的任务。到2026年，一个新的词开始在硅谷流行起来了，叫做harness engineering。Harness在英文里，它原本是指婉拒，就是说套在马身上，用来引导和约束马的那套装备。那现在它被用来形容一件事儿，就是你怎么样去围绕大模型搭建一套能够让它在真实的世界中持续工作，自我修复还能自我提升的一套系统。</p>
+<p class="transcript-line"><span class="time"><strong>[00:01:01]</strong> </span><span class="speaker"><strong>发言人1: </strong></span>最近cro的CTO Peter，他在twitter上写了一篇文章，叫做为什么你的AI优先战略可能错了，引发了几百万的关注与讨论。所以它的核心结论是大多数公司所谓的这种AI first都是假的。真正的AI优先战略是重新设计整个公司的流程，还有组织结构，本质上也是他们内部怎么样去的过程。Peter之前是meta lama基础模型团队的研究科学家，后来在苹果从事多模态模型的相关工作。所以他的工作语言是英文。如果本期内容的中英文夹杂过多，欢迎大家收看我们播客的字幕版，那也很难得。今天除了Peter，我们还把cryo的另外两位创始人，也是这个故事的亲历者邀请到了我们的节目上来聊一聊他们是怎么在AI快速进化的一年里，重新组织自己的组织架构，把信任人变成了信任AI好，首先我们请今天的三位嘉宾简单介绍一下自己。</p>
+<p class="transcript-line"><span class="time"><strong>[00:02:06]</strong> </span><span class="speaker"><strong>发言人2: </strong></span>大家好，我是Peter quill的co onder and CTO。</p>
+<p class="transcript-line"><span class="time"><strong>[00:02:09]</strong> </span><span class="speaker"><strong>发言人3: </strong></span>大家好，我是kill的CEO and cofounder陈凯。</p>
+<p class="transcript-line"><span class="time"><strong>[00:02:12]</strong> </span><span class="speaker"><strong>发言人4: </strong></span>大家好，我是Clark，我是cro的co founder，现在主要负责我们的go to market。之前是做了很多年的data scientist和machine learning engineer。现在在agent的这个领域里面跟凯还有Peter一起帮助用户更好的使用agent，然后达到AI first这样一个组织形态的目的。</p>
+<p class="transcript-line"><span class="time"><strong>[00:02:32]</strong> </span><span class="speaker"><strong>发言人1: </strong></span>好的，欢迎三位。开始的时候我们就直切主题。最近大家都在关注这个harness engineering，那Peter你要不要跟我们介绍一下什么是harness的engineering？</p>
+<p class="transcript-line"><span class="time"><strong>[00:02:42]</strong> </span><span class="speaker"><strong>发言人2: </strong></span>Harness这个概念其实可以追溯到大模型刚开始的时候，很多人在聊prompt engineering之后演变到context engineering到之后的harness。整个harness过程不仅仅是对于LM本身的harness，还包括围绕着整个大模型，包括它的基建tooling的使用，包括安全的security的，保证整个的这样一个improve的过程，我们把它叫做harness。</p>
+<p class="transcript-line"><span class="time"><strong>[00:03:09]</strong> </span><span class="speaker"><strong>发言人1: </strong></span>可不可以跟听众解释一下这三次进化它是怎么发生的，然后每一步它最重要的是什么？</p>
+<p class="transcript-line"><span class="time"><strong>[00:03:16]</strong> </span><span class="speaker"><strong>发言人2: </strong></span>对我先说一下proper engineering和context engineering，更多的是focus在怎么和LM这个大模型本身进行交互。就是我怎么优化它的context，怎么优化它的prompt。从这个角度上来讲，它的scope要比我们现在讲的harness要小得多。而且从静态和动态的角度上来讲，proved engineering context engineering相对来说是一个静态的事情。因为你优化的是一个大模型，你优化的任务可能也是一个相对来说比较vertical的任务。但是对于harness来讲，harness是一个系统的harness，而且对我们来说，我们是在harness the general的系统。所以从scope上来讲，会比promp和context engineering要大很多，因为这涉及到tooling的使用，涉及到你的sandbox的架构设计，和你的host service之间是怎么进行交互的，怎么样的交互能够安全，你的sandbox在启动的时间是多少，你的latency是多少，都是harness的一个部分。</p>
+<p class="transcript-line"><span class="time"><strong>[00:04:14]</strong> </span><span class="speaker"><strong>发言人1: </strong></span>我可不可以理解成harness的工程能力，再决定你怎么把一个大模型炸出它的最佳使用上限。它可以理解成是AI的一种工程能力。举一个例子，我记得凯你之前是在融资的一个新闻稿里面，其实你有提到一个agent，它可以一夜之间干掉三个人这种做SEO的工作流，同是还有一个content的pipeline，他跑了两天，然后才有人发现全是垃圾。这两者之间的巨大的区别就是一个非常好的表现跟一个非常差的表现。我可不可以理解成从本质上说，一个就是harness的胜利，一个就是harness失败。</p>
+<p class="transcript-line"><span class="time"><strong>[00:04:53]</strong> </span><span class="speaker"><strong>发言人2: </strong></span>对，刚才提到了两种状态，一种是你效果好，一种是效果不好。但是我觉得这个是完全就印证了为什么我们需要harness。因为harness的本质就是在于我们怎么能够持续提升一个系统。当你这个系统产生的效果不好的时候，你这个系统是需要人的feedback去提升呢？还是这个系统本身自己能够self healing self improvement，这个正好就是harness的核心。</p>
+<p class="transcript-line"><span class="time"><strong>[00:05:18]</strong> </span><span class="speaker"><strong>发言人2: </strong></span>因为通常来讲，我们也有很多用户在我们的平台上产生agent。但是这个agent不是说one shot就能达到一个完全优化的状态。用户怎么去follow up这个agent，我们的系统怎么能够self improve？这个agent也是整个harness的核心。</p>
+<p class="transcript-line"><span class="time"><strong>[00:05:34]</strong> </span><span class="speaker"><strong>发言人2: </strong></span>Harness很重要的一件事情就是怎么能够让agent在influence阶段scaling，包括你怎么能够把更多的context提供的给他，更多的tooling给他，让他思考更长的时间，完成一个任务用一个更长的时间。我觉得这都是在inference阶段的一个scaling。所以在inference scale，因为他工作时间长，tooling使用的数量多，他的context多。所以你harness如果做的不好的话，就很容易产生fluctuation，或者你context overflow，你的模型的能力会degredation。所以在这个过程之中，怎么把这个harness做好，其实是一件非常复杂而且需要一些经验的事情。</p>
+<p class="transcript-line"><span class="time"><strong>[00:06:17]</strong> </span><span class="speaker"><strong>发言人1: </strong></span>换句话说就是harness它是一个新概念，但是它所谓的新，其实是把这种传统软件的东西放到了agent的应用上。所以大家怎么去看这个harness里面它有哪些是我们这个时代的新的东西。传统工程没有的。</p>
+<p class="transcript-line"><span class="time"><strong>[00:06:34]</strong> </span><span class="speaker"><strong>发言人3: </strong></span>因为大多数业务的人，他可能都是从能力层面去理解一个软件。就像很多人从传统角度来讲，他不理解。就是说其实一个很简单的功能，可能都需要开发团队在之前的情况下，就可能要做2到3个月才能去实现。</p>
+<p class="transcript-line"><span class="time"><strong>[00:06:48]</strong> </span><span class="speaker"><strong>发言人3: </strong></span>很多业务员经常会说的事情是，我觉得这个功能很简单。为什么你这个产品就是一直解决不了我这个问题呢？其实是因为你后面有太多的工程化的问题牵扯在那边。其实这个对于agent来讲也是一样的。很多人会觉得l line的能力提升了，但为什么他做不到我想要做的事情？其实是因为还有很多工程化问题需要一起被解决。这个其实也是我们去做harness的一个原因。</p>
+<p class="transcript-line"><span class="time"><strong>[00:07:11]</strong> </span><span class="speaker"><strong>发言人1: </strong></span>你觉得今天我们市场在讨论harness的这个部分中有哪些是大家的共识，有哪些是非共识？</p>
+<p class="transcript-line"><span class="time"><strong>[00:07:18]</strong> </span><span class="speaker"><strong>发言人2: </strong></span>因为我觉得不同的群体对harness的认知可能不一样。我听到的很多看法，通常来讲对待harness是一个静态的过程。我怎么能够develop配套系统去把IOM的优势更大的发挥出来。而对于我们来讲，我们认知中的harness就是一个动态的过程。你这个系统怎么能够从一个静态的状态真的火起来，能够self improve，能够不停的adapt新的signal。不管是marketing的signal，还是产品本身的signal，还是用户的signal，能够让他不停的迅速的迭代。我觉得这个是可能很多人还没有意识到的一点。</p>
+<p class="transcript-line"><span class="time"><strong>[00:07:53]</strong> </span><span class="speaker"><strong>发言人1: </strong></span>然后这个迭代也是以AI为主导的，而不是人为主导的对。</p>
+<p class="transcript-line"><span class="time"><strong>[00:07:58]</strong> </span><span class="speaker"><strong>发言人2: </strong></span>也是以AI为主导的迭代。但是人所需要做到的事情就是怎么把各种各样的signal fed给AI不管是marketing signal，还是产品的signal，还是本身infrastructure自己的signal。</p>
+<p class="transcript-line"><span class="time"><strong>[00:08:09]</strong> </span><span class="speaker"><strong>发言人1: </strong></span>对我注意到最近你有一篇twitter的帖子非常火。然后其实是讲你们是怎么一家25个人的公司，然后99%的代码都是AI来写的。基本上你早上十点写了一个功能，中午就进行了AB test。然后下午三点的时候，就根据数据的反馈把它砍掉了一部分功能。五点又重写了更好的一个版本，这是一天的时间。但是这种工作的节奏在传统的开发产品的过程中，它是需要六周的。</p>
+<p class="transcript-line"><span class="time"><strong>[00:08:40]</strong> </span><span class="speaker"><strong>发言人1: </strong></span>你的这个帖子在推特上非常的火。到现在为止我昨天还去看了一眼，有187万的twitter的流量。同时下面大家也有很多的共鸣。但仔细看下来，其实我觉得你就是在讲creel在整个工作流程中用harness去做的，也算是你自己独立探讨出来的一条harness的方式。</p>
+<p class="transcript-line"><span class="time"><strong>[00:09:00]</strong> </span><span class="speaker"><strong>发言人2: </strong></span>对我觉得这个就牵扯到harness的一个具体细分的层级。在我们crew来看，harness分成两个主要的部分，一个是对于cro本身agent系统的harness，另外一个是对于用户使用creal的时候，在构建自己的agent的过程中，怎么harness自己的agent。在之前的话，我们传统的开发过程中，可能需要两三个月的时间来迭代一个feature。但是在agent这个情况之下，很多东西都是AI辅助的，coding本身implement的这个feature可能只需要一两个小时的时间。所以在这个过程之中，如果我们再花很长的时间去design和很长的时间去testing，就不是很make sense。所以我们怎么把design planning的阶段和testing的阶段include到整个的harness过程中，对这个公司能不能真正转型成为一个AI first的公司是非常。</p>
+<p class="transcript-line"><span class="time"><strong>[00:09:52]</strong> </span><span class="speaker"><strong>发言人4: </strong></span>critical的对我想先跟大家表达一个观点，我们如果想要做到所谓的AI first或者AI native这样的一个状态。那他并不是在现有的流程上面去使用AI的工具，而是要围绕AI的能力去重新的构建你的工作流程和组织形态。</p>
+<p class="transcript-line"><span class="time"><strong>[00:10:09]</strong> </span><span class="speaker"><strong>发言人4: </strong></span>所以这个是Peter刚刚所描述的，因为其实我们在之前的。很长一段时间里面，其实每一个工程师他都在用AI写代码，每一个产品经理都在用AI写PRD，每一个设计师都在用AI做图。但其实这样并没有增加我们的效率，反而是导致每一个人的工作的进度和节奏不一样之后，我们的alignment的成本变得非常之高。因为我们本身是一个全部都是remote办公的状态。所以在这样的一个机制下，我们要去重新的想，我们到底怎么样能够让AI在我们整个公司的运营的过程中能够真正的自动化跑起来。所以才Peter设计了一套新的开发流程，整合我们新的产品的架构重构。才有了今天Peter所写的这篇文章里面所讲的这个self healing的自我修复的agent harness或者engineer harness是一个什么样的形态。</p>
+<p class="transcript-line"><span class="time"><strong>[00:11:01]</strong> </span><span class="speaker"><strong>发言人1: </strong></span>可不可以举一个例子，因为你在说重塑开发流程跟组织架构，你们开始用AI自己去写agent的过程中，包括你们在重塑你们整个的组织架构的过程中，你们觉得哪些方向发生了变化，瓶颈在哪些方向？哪些方向跟你们在预期的过程中它是不一样的。</p>
+<p class="transcript-line"><span class="time"><strong>[00:11:23]</strong> </span><span class="speaker"><strong>发言人2: </strong></span>对我觉得在我们整个推进harness和推进AI first的过程之中，首先需要解决的就是人的问题。大家能不能够接受这个新的工作方式。所以我们也花了很长的时间去line大家的manet，我觉得这个满set的element是最重要的。</p>
+<p class="transcript-line"><span class="time"><strong>[00:11:40]</strong> </span><span class="speaker"><strong>发言人2: </strong></span>之前的话可能我们需要做这样一个转型需要很长的时间，因为人需要去搭建这个系统。通常比如说一个architecture，一个engineer，它需要several months的时间去demonstrate。我的这个新的工作方式是比之前的更好的。但这个转型的cost就相对来说非常的大。</p>
+<p class="transcript-line"><span class="time"><strong>[00:11:58]</strong> </span><span class="speaker"><strong>发言人2: </strong></span>但是在AI辅助的情况之下，我们在demonstrate整个新的工作方式的过程中，就比以前会快很多。可能我们只需要一两周的时间把整个系统进行重构，包括从前端、后端architecture infrastructure都进行重构。然后给大家demonstrate这样一个新的过程。他work起来是更efficient的。不管是deploy yet的频率，deployment reliability和最后的效果上来讲，都能够比之前的工作方式有一个很大的提升。这样的话，我们可以在很短的时间内对大家的mindset进行一个align。之后的话，大家on board到这个工作方式的过程之中的话，就能够更快速的融入到整个的开发过程。</p>
+<p class="transcript-line"><span class="time"><strong>[00:12:38]</strong> </span><span class="speaker"><strong>发言人3: </strong></span>对对对，其实harness本身其实它更多是在于build一个系统，真的能够让peer刚才说的这个所谓的AI first这样子的一个组织结构能够高效的运转。这个其实非常重要。为什么？因为很多的组织上的人，他的思维会很难去改变。他会觉得说我可以用AI来提升我的效率。但是AI first要求是说，你让AI来drive你的整一个公司的方向，还有可能你每天工作的方式都是由AI来drive的这是完全不一样的概念。</p>
+<p class="transcript-line"><span class="time"><strong>[00:13:06]</strong> </span><span class="speaker"><strong>发言人1: </strong></span>举个例子，是每次AI给你们布置任务吗？</p>
+<p class="transcript-line"><span class="time"><strong>[00:13:08]</strong> </span><span class="speaker"><strong>发言人3: </strong></span>还是对，其实就说对原来可能大家都是觉得还是人去提出一个概念，然后由ai来帮助人去提升效率。但这个东西可能因为人如果还是这个工具的使用者，那它的效率提升可能有一个所谓的效率的倍数的上限，可能最多就十倍，因为人最多每天可能就工作24小时。但是如果说你真的希望AI能够给比如说我们的工作的效率去提升100倍、1000倍。你不能还是说是你是那个工具的使用者，而是AI应该是所有生产力的主导。人的角色就会发生变化，更多是在于我怎么去去看最后的结果的是否是好的，或者说我怎么去review这个结果的好坏。还有包括我在这个系统里面，我并不是实际的工作者。如果在这样的角度下，我应该以怎样的一个方式去跟这个系统配合起来。这个其实我觉得是很多的企业他在做转型，要么就是他没有意识到的点，或者说他很难去做到的一个事情。</p>
+<p class="transcript-line"><span class="time"><strong>[00:14:01]</strong> </span><span class="speaker"><strong>发言人1: </strong></span>能不能举一个例子，你们的系统怎么跟人配合去工作，比如说是系统给人发任务。因为我觉得传统的团队，就大家在开发产品的时候，可能很大的一个痛点就是说我团队之间要对齐。然后我要把信息同步到每一个人。任何一个人他可能miss掉了一个信息点。他在产品做开发的时候，他可能就不知道我们上一版的更新是什么。现在是不是所有的这些工作都可以交给AI，或者在这个流程中他就可以自动去做了？</p>
+<p class="transcript-line"><span class="time"><strong>[00:14:31]</strong> </span><span class="speaker"><strong>发言人3: </strong></span>对我觉得这里面核心的一个点还是信任的问题。因为很多时候就人因为对这个系统他没有信任，所以说刚才会有像您说对齐的这个成本就会非常高。像Clark这边的auto market，这个king和比如说Peter这个engineer这个team，他们两个团队怎么配合起来？原来的话他们需要互相的沟通，互相达成共识，对齐之后才能事情往前推进。但现在如果是AI first这个组织结构的话，他们其实没有对齐的所谓的过程，而更多的是在于这个对齐是由AI来主导。比如说告诉我们的marketing team说，今天我们开发团队engineer要发布哪些功能，那这些功能到底是怎样的一个结构。那marketing就不用再去跟engineer交流说你明天要发什么功能，后天要发什么功能。这样的话它中间的对齐成本就会降低。</p>
+<p class="transcript-line"><span class="time"><strong>[00:15:18]</strong> </span><span class="speaker"><strong>发言人1: </strong></span>AI怎么知道Peter的engineering团队明天能把所有的工作做完？</p>
+<p class="transcript-line"><span class="time"><strong>[00:15:23]</strong> </span><span class="speaker"><strong>发言人3: </strong></span>这个就是peer可以说一下。</p>
+<p class="transcript-line"><span class="time"><strong>[00:15:25]</strong> </span><span class="speaker"><strong>发言人2: </strong></span>对我觉得在整个的这个过程，不管是叫harness还是AI主导的工作流过程中，主要大家体会到的improvement就是整个开发速度和迭代的提升。通常来讲implement一个feature或者deploy一个新的产品需要很长的周期，所以大家需要详细的讨论。但是我觉得在AI的mindset之下，因为它迭代一个产品的速度是很高的那在这个过程之中，我们其实更侧重的是OK这个新的feature能不能够带来产品的top matrix的提升，或者我新的这个feature能不能有真的用户使用的数据。所以在这个过程中，我们更核心的focus的点是怎么把整个的数据链搭建起来。我们把这个链条搭建起来之后，都是agent通过这些数据来决定OK这个feature到底是有用的。我们到底要不要rule out这个feature或者fall back这个feature。</p>
+<p class="transcript-line"><span class="time"><strong>[00:16:19]</strong> </span><span class="speaker"><strong>发言人1: </strong></span>也就是说工程师写完代码以后，不需要手动的跟AI比如说有一个什么工程管理的界面，说我写完了是传统的软件跟公司内部系统同步的一种方式。然后现在说AI，它就可以自动的根据你的整个的代码质量，你的进程去做出一个他的判断。</p>
+<p class="transcript-line"><span class="time"><strong>[00:16:40]</strong> </span><span class="speaker"><strong>发言人2: </strong></span>对，这个在传统的engineering中也有，我们叫CICD process。只不过在传统的CICD process很多都是room base的，或者一些unit testing driven。但是在AI这个情况之下，我们可以有很多AI driven的testing，不管是integration test还是in unit test。比如现在大家比较常用的像play red是可以做AI driven的复利的until的testing。这样可以保证我们chip的代码中是没有明显的可以break这个产品的bug。所以在这个过程中，很多AI driven的testing是非常重要的。包括你代码ship之后，在这个log中有没有error，有没有incidence，都是通过这些signal能够feedback给AI来看整个代码的质量什么样子的对。</p>
+<p class="transcript-line"><span class="time"><strong>[00:17:22]</strong> </span><span class="speaker"><strong>发言人1: </strong></span>Clark比如说你要在做市场营销的时候，你知道代码团队已经写完了。但是我觉得很多时候大家一个产品要传递的核心的理念是什么？包括你要跟这个市场传递的关键信息是什么。他很多时候是需要一个产品的灵魂人物，不管是CEO还是CTO还是产品经理，他是会有一些沟通跟关键信息的梳理的。这个是AI能做的吗？</p>
+<p class="transcript-line"><span class="time"><strong>[00:17:48]</strong> </span><span class="speaker"><strong>发言人4: </strong></span>是的，是您这个问题问的非常的一针见血。其实我们现在也花了很多时间思考这个问题，因为我们是实行这套新的开发机制已经有几个月时间。我自己的一个体会就是说现在我们确实不用跟engineer过多的沟通，说你要做什么feature，然后你什么时候能deliver。因为feature现在的数量已经远远超过我们能够去卖它的这个能力了。</p>
+<p class="transcript-line"><span class="time"><strong>[00:18:13]</strong> </span><span class="speaker"><strong>发言人4: </strong></span>这个是我最大的体会，就是我们现在开发的速度是远远超过于市场这边的进度的。但这样有一个好处，就是我们不再去用讨论说，今天你这个公司的prada road map是什么？而我们只需要讨论的是现在市场的需求在哪里。我们就好像有一个菜篮子一样，或者说像机器猫的万能的那个宝箱一样。如果今天说市场的需求是一个苹果，我们就从我们的这个篮子里面挑一个苹果去卖。如果今天市场的需求是一个香蕉，我们就可以挑一个香蕉去卖。这个反而是大大降低了我们对其说，今天好像市场的反应是这样的，我们要去重新思考我们要做什么样的产品。这个其实是比过去要省时和省力很多的。</p>
+<p class="transcript-line"><span class="time"><strong>[00:18:55]</strong> </span><span class="speaker"><strong>发言人1: </strong></span>我理解了，就相当于其实你们的开发能力是远远快于场能力的。所以当市场有新的风向的时候，反而是你们可以从你们的这个已经搭建好的产品库里面，看你们在哪一个点上穿透去营销。</p>
+<p class="transcript-line"><span class="time"><strong>[00:19:09]</strong> </span><span class="speaker"><strong>发言人4: </strong></span>是的，是这样的。</p>
+<p class="transcript-line"><span class="time"><strong>[00:19:11]</strong> </span><span class="speaker"><strong>发言人1: </strong></span>有意思。关于让AI写代码，我还有一个很核心的问题，就是怎么保证它的质量。因为Peter其实你在你那篇twitter的文章里面写到了，正常情况下写代码一天，然后大家修bug要三天。现在就是有哪些新的手段加入，可以让大家不用把很多的时间都花在修复上。</p>
+<p class="transcript-line"><span class="time"><strong>[00:19:33]</strong> </span><span class="speaker"><strong>发言人2: </strong></span>所以我觉得bug这个事情是一个整个engineering不可避免的一个事情。不管是AI写代码，还是人写的代码都会产生bug。因为harness它不是一个静止的状态，它不是说我现在有一个系统之后，我只需要维护这个系统。这个系统不会有bug，也不需要提升。Harness这个过程核心就是在于我能不能找到这个系统中的bug。</p>
+<p class="transcript-line"><span class="time"><strong>[00:19:56]</strong> </span><span class="speaker"><strong>发言人2: </strong></span>刚才聊到CICD的过程，就是在integration的时候后在testing的时候，我们会有一系列的regression test，去避免有一些bug可以shape到production中brick这个系统，这是第一步。第二步的话，即便有一些corner case或者risk condition ship到这个系统之后，我们怎么能够在最快的时间identify这些bug，然后及时的fix这些bug，是第二步的事情。所以这两步就是传统的情况之下，都是由人来追问的。但是在agent harness的情况之下，我们会有agent系统来追问，所以我们develop了agent driven的CICD系统和agent driven的bug triage系统。会根据系统中的一手去try这个issue，assign给engineer，让他们去fix这些。</p>
+<p class="transcript-line"><span class="time"><strong>[00:20:41]</strong> </span><span class="speaker"><strong>发言人1: </strong></span>对你觉得在你引入这两套系统以后，它的效率提升了多少？</p>
+<p class="transcript-line"><span class="time"><strong>[00:20:46]</strong> </span><span class="speaker"><strong>发言人2: </strong></span>首先因为很多都是agent driven，所以它可以parallel的进行，所以可以有很多agent去identify。比如说有一些agent专门负责前端的bug，有一些agent专门负责后端的bug，有一些负责agent的核心系统的bug。所以在这个过程中他发现一个bug可能只需要1到2分钟的时间。然后他再把这个bug assign给一个engineer的过程中，也可能也就是few second的时间。Engineer拿到这个task之后，也是用agent去investigate，提出一个solution。所以整个的这个cycle加起来可能也就是一到2个小时的时间。Compare之前的话，我们identify一个bug，fix一个bug，再把它ship到系统中，可能需要一个周的时间。</p>
+<p class="transcript-line"><span class="time"><strong>[00:21:26]</strong> </span><span class="speaker"><strong>发言人4: </strong></span>对这个里面有一个特别有意思的现象，就是因为我们之前所谓产研，产研就是产品和研发结合。然后我们一公司以前其实是有一个feature wish list，就是你到底希望做什么样的feature。然后很长，又有一个bug list，有很多bug要修复。然后以前就总是打架，对吧？到底是先修bug还是先做feature市场和产品，还有工程师大家就在那讨论来讨论去，现在这两个list都没有了。因为bug及时发现及时修复，feature现在的数量远远多过于我们所需要的数量。</p>
+<p class="transcript-line"><span class="time"><strong>[00:21:58]</strong> </span><span class="speaker"><strong>发言人2: </strong></span>对，就是提供一个数据的话，就是我们现在有一个auto fixing系统，这个auto fixing系统是根据整个我需要fix的code是存在于哪个文件夹下。因为有一些文件夹是敏感的，有一些文件夹是相对来说risc比较小的。对于我要fix的一些东西，如果只是存在一些risc比较小的文件夹之下的话，AI会自动的提交这个PR，然后可能只需要一个engineer简单的prove一下，它就上能够ship到production。所以可能现在50%以上的issue是通过auto of fixing的形式进行的。可能人在里面的参与只是简单的prove这个bug。如果这个fixing touch了一些比较sensitive的文件，比如说涉及到安全，涉及到agent behavior的话，我们可能需要专门的response这个error的people去进行一个更deeper的review。但整个的这个过程相比于之前来说也是有一个很大的提升。</p>
+<p class="transcript-line"><span class="time"><strong>[00:22:51]</strong> </span><span class="speaker"><strong>发言人1: </strong></span>有什么奇怪的agent behavior吗？</p>
+<p class="transcript-line"><span class="time"><strong>[00:22:53]</strong> </span><span class="speaker"><strong>发言人2: </strong></span>因为agent的behaving可以break down很多area。比如说这个cost太高或者太高，或者会有horizon ation，或者他使用two ling的时候和2之间的交互的authentication有问题，我觉得都涉及到agent behavior。所以任何这个系统中的一手都能导致用户具体在使用这个agent的时候不能够完成他的task。所以agent还是一个比较complicated的engineering系统。</p>
+<p class="transcript-line"><span class="time"><strong>[00:23:21]</strong> </span><span class="speaker"><strong>发言人1: </strong></span>简单来说就是现在agent还没有价值观的问题，它还是效率的问题。跟你灌输给他的一套思想，比如说是不是要用更便宜的cost，就同样的任务能更便宜的去完成，还是这方面的就是效率上的问题。</p>
+<p class="transcript-line"><span class="time"><strong>[00:23:35]</strong> </span><span class="speaker"><strong>发言人2: </strong></span>对我觉得主要是效率和具体能不能够完成用户的task的层面上。就是我们所focus就是怎么把我们的系统优化到在cost最低的情况下，能够reliable的完成用户的task。</p>
+<p class="transcript-line"><span class="time"><strong>[00:23:47]</strong> </span><span class="speaker"><strong>发言人1: </strong></span>对比如说当系统出现一个bug的时候，假设我是在改一篇稿子，即使他只出现了一个小错误，我可能需要把整个稿子看一遍。我再去看那个错误是在哪儿，我怎么去修改。这个时间其实就跟比如说我自己重新写，重新熟悉这个领域，它的时间花的是差不多的。因为我不太懂写代码，只能用写文章做比喻。</p>
+<p class="transcript-line"><span class="time"><strong>[00:24:09]</strong> </span><span class="speaker"><strong>发言人1: </strong></span>对应到开发的领域，就比如说agent帮你搭了一个非常好的技术框架，但是他可能在整个搭建层或者基础层出现了一个大的错误。这个时候当然有其他的很多的agent要去修复。但会不会说比如说有一些大的错误，大到了需要工程师去解决。但是工程师去解决的时候，我不能只看这一个点，我要先看你整个的构成是怎么样的，然后我才能去解决那个细分的问题。他同样要花的时间就是我还得把这个重新学一遍。</p>
+<p class="transcript-line"><span class="time"><strong>[00:24:41]</strong> </span><span class="speaker"><strong>发言人2: </strong></span>对我觉得这个问题很好。所以在之前的我的文章中我也讨论了，在AI环境之下的工程团队可能分为两种人，一种是architecture，一种是Operator。所以architecture在整个系统搭建过程中的作用是非常重要的。比如说在搭建整个crew的系统的过程之中，整个agent的architecture是什么样子的。比如说sandbox和host之间是怎么交互的，还是由architecture来决定的。如果说agent直接通过AI coding或者web coding的方式，它通常来讲会给你一个solution。但这个solution通常会有安全的隐患或者latent的隐患。怎么去优化整个的这个系统，还是由architecture来决定的。</p>
+<p class="transcript-line"><span class="time"><strong>[00:25:20]</strong> </span><span class="speaker"><strong>发言人2: </strong></span>但通常来讲，我觉得区别就是在传统的情况之下。搭建agent的团队以前可能需要10到20个人。但是现在搭建整个这样一个系统，只需要一个在一个周的时间之内就能完成。</p>
+<p class="transcript-line"><span class="time"><strong>[00:25:33]</strong> </span><span class="speaker"><strong>发言人1: </strong></span>你现在是那个architecture.</p>
+<p class="transcript-line"><span class="time"><strong>[00:25:35]</strong> </span><span class="speaker"><strong>发言人2: </strong></span>当然从一开始我们在develop这个系统的时候，需要我来architecture整个的系统，去demonstrate给整个的团队。整个这个architecture是比之前更优化，效率更高，cost更低。</p>
+<p class="transcript-line"><span class="time"><strong>[00:25:47]</strong> </span><span class="speaker"><strong>发言人4: </strong></span>我来补充一下刚刚Peter所讲的内容。第一就是我觉得AI的能力在很早以前就已经非常强了。但是他为什么没有达到人们所预期的那样说，今天AI可以替我干活，他如果没有干好，我还得帮他去弥补他的错误。我觉得这个点来讲，就是harness在这个过程中非常重要去发挥价值的地方。</p>
+<p class="transcript-line"><span class="time"><strong>[00:26:10]</strong> </span><span class="speaker"><strong>发言人4: </strong></span>这个主要里面有一个很大的一个概念上的转变，就是我们要把AI当成一个系统来看待，不要把它当成一个智能来看待。虽然系统是由智能所驱动的，但这里面一个核心的差距就是当AI或者说这个系统发生错误的时候，我们不要想着怎么样去纠正这个智能，我们要想着怎么样去弥补这个系统。这个其实就是我们在做harness跟现在普遍的认知最不一样的地方。就是它是一个动态改变和提升的一个过程，并不是一个静态的固定的枷锁去束缚这个智能，而是要给他提供空间，让他能够成长。这个成长的方式就好像你在养一个孩子，你怎么样能够让他不断的在一个规则内变得越来越好。</p>
+<p class="transcript-line"><span class="time"><strong>[00:26:53]</strong> </span><span class="speaker"><strong>发言人4: </strong></span>我们做harness其实是在给用户提供说我们给你一个培训师去弥补它。在发现错误之后你该怎么办？回答您刚刚那个问题，如果您在写作的时候发现说OK有一个巨大的问题，我觉得您应该花更多的时间去思考这个系统上面有没有漏洞。而不是我要去花更多的时间去改正具体的某一个错误。</p>
+<p class="transcript-line"><span class="time"><strong>[00:27:13]</strong> </span><span class="speaker"><strong>发言人4: </strong></span>这个里面还有一个更加极端的一个想法，就是您今天发的这些内容或者我们自己发的这些内容，可能未来的这些受众并不一定是人。这个错误可能对人来说是一个很致命的错误，但对于未来可能都是AI在读文章，或者AI在读我们的图片视频，对他们来讲可能并不是一个很致命的错误。所以我觉得大家其实在这个过程中要思考更多的就是我今天做的这个工作，到底是未来谁来去消费我的工作和我的这些结果。根据你的这些消费者他们的偏好，调整你harness的这个系统，才能够更好的达到你所能够希望去deliver的价值。</p>
+<p class="transcript-line"><span class="time"><strong>[00:27:53]</strong> </span><span class="speaker"><strong>发言人1: </strong></span>我觉得这个观点非常有意思，就是大家以前在出现问题的时候，都是说我们解决问题。对，现在说的是OK，我们解决搭建的环境中的系统上的问题，而不是一个单一的问题。就是彻底上修复它以后，它这个问题就永远都不要再出现了。</p>
+<p class="transcript-line"><span class="time"><strong>[00:28:09]</strong> </span><span class="speaker"><strong>发言人4: </strong></span>对，与其说是彻底修复它，不如说是我们重新思考这个问题，它是否还是一个问题。比如说我们平常会生产一些go to market的，比如说有些图片我们觉得可能从人的审美上去看，它并不是一个很好的一个asset。但实际上你把这个东西投向市场的时候，你会发现可能读这篇文章或者读这个图片是一个agent在读他的数据反馈回来其实可能是更好的。如果我们与其去说OK今天人觉得这个东西它不够好，我们要去修复人主观对这个东西的价值判断。那我们与其去修复说整个不管是我们自己的懂，还是别人的系统对这个事情的价值判断，它其实是从价值理解上面就会发生偏差。</p>
+<p class="transcript-line"><span class="time"><strong>[00:28:53]</strong> </span><span class="speaker"><strong>发言人1: </strong></span>为什么会是agens在读一个营销图片，就是你们的下载是针对谁的？是针对agent的还是针对人的。</p>
+<p class="transcript-line"><span class="time"><strong>[00:29:00]</strong> </span><span class="speaker"><strong>发言人4: </strong></span>现在大家也比较感兴趣的话题就是以后会不会有这样的agent的经济，可能买东西是由A去买，订报纸是由agent去订，订牛奶是由A正去定。那你的广告是发给A看还是发给人看？因为我现在自己看很多文章，看很多视频也是让agent去看。所以你要搞清楚你的内容到底是被谁消费，你的工作结果到底是被谁消费。针对这个东西的价值，我们再去思考，我们到底是提升系统，还是我们回到最原始的人，要参与到这个创作的过程中，去弥补我们一些错误。</p>
+<p class="transcript-line"><span class="time"><strong>[00:29:32]</strong> </span><span class="speaker"><strong>发言人1: </strong></span>我相信在未来真的是在agent帮大家做更多的购买决策的时候，最终的结果可能还是agent看的多。但是我没有想到在现阶段，包括你在现阶段测试的这个流量中，agent已经占到了一个这么大的比例。就是他来的比我预期中要快很多。</p>
+<p class="transcript-line"><span class="time"><strong>[00:29:51]</strong> </span><span class="speaker"><strong>发言人4: </strong></span>是的，一个亲身的经历，我最近在看有什么样的公司能帮我们做合规的。比如说sock 2，ISO这些认证。那我肯定是让agent先去帮我research一番，然后我基于他的结果我来看一看是不是适合我们。这个里面你会发现，第一步已经是在agent帮你做这个筛选了。那是不是那些内容它应该更偏向A镇去做，而不是偏向人去做。当然我点进去再去看某些东西的时候，可能需要有面向人一直就需要消费的内容，但是有可能他会把第二层也做掉了以后，甚至第三层也做掉。所以这个我觉得都是可能会发生的事情。</p>
+<p class="transcript-line"><span class="time"><strong>[00:30:27]</strong> </span><span class="speaker"><strong>发言人2: </strong></span>这个从另外一个角度上来讲，也可以很明显的看到，就是现在SaaS产品的转型。因为以前很多SaaS产品，尤其是像assa linear这种的产品做task management，它需要一个dashboard。以前可能很多的都是人在去看这些dashboard，manage这些dashboard。但是在起码现在这个阶段，我们团队在使用task management的时候，我们更关心的是agent能不能够更好的看这些task，prioritize这些task。所以instead of人去看这些或使用这些dashboard，更多的是我们会去看这些task management产品有没有更好的MCP和API提供给agent可以让我们使用。</p>
+<p class="transcript-line"><span class="time"><strong>[00:31:07]</strong> </span><span class="speaker"><strong>发言人1: </strong></span>所以整个进化还是非常的快的。</p>
+<p class="transcript-line"><span class="time"><strong>[00:31:09]</strong> </span><span class="speaker"><strong>发言人3: </strong></span>其实刚才您提到这个问题，也是很多公司他在做AI转型的时候会第一个考虑的问题。他可能会看到下面有很多的员工也好，或者说他的管理层会觉得，我使用AI的时候，如果我还要去review一遍，那跟我人去做。其实这个不管你是时间也好，还是你的成本也好，可能没有太大差别。但是就像刚才peer说，如果你真的能够把这样子的一个AI系统给构建起来之后，你会发现其实你仔细去算一下，你会发现你的时间还有你的成本是会有很大的一个提升的。只是这个过程需要整个团队一起有一个共同的一个目标。说今天我就是要把公司的组织结构也好，工作方式也好，都去改变了。他这个过程中只要有那么一些人，他可能觉得做很多东西可能还不如人去做，那这个过程就会让改造的时间会被拉长，以及这个过程就会变得特别不顺利。这个其实是一个大多数公司都会面临的一从组织上来讲的一个挑战。</p>
+<p class="transcript-line"><span class="time"><strong>[00:32:01]</strong> </span><span class="speaker"><strong>发言人1: </strong></span>你们是第一天就这种AI first的工作方式，还是说因为其实你们也成立一年多了，而这一年多我觉得是整个行业里面变化最快的一个时间段。还是说你们在后面慢慢的摸索到这样的一套工作方式的。</p>
+<p class="transcript-line"><span class="time"><strong>[00:32:16]</strong> </span><span class="speaker"><strong>发言人3: </strong></span>我觉得我们整个公司也是有一个过程的。你意识到谁是未来的生产力的核心的角色。可能在25年的上半年的时候，大家都会觉得可能那个时间点还是AI是辅助人去做事情，那人在整个工作里面还是占主导地位的。但是到了下半年的时候，我们会意识到，如果还是这样子的话，那其实企业的效率提升还是非常有限的，因为我们也用了这样的方式，我会发现好像效率没有提升的有我们想象那么多。所以我们会发现那里面核心问题，我们还是没有把这个生产力工具的使用者真正的从人转变到AI这个过程。如果没有彻底的去改造它，会发现可能还不如我人去做这个事情来的更高效。所以说这个过程也是需要一个非常长的过程。</p>
+<p class="transcript-line"><span class="time"><strong>[00:32:59]</strong> </span><span class="speaker"><strong>发言人3: </strong></span>还有包括像刚才Clark跟Peter提到的，不光是技术团队内部会有这样的一个挑战，还有包括marketing团队和开发团队之间，他们在对齐的时候，大家都需要一个理解的过程。我们也因为这个理解过程会浪费一些时间在上面。就比如说市场团队跟engineer团队有很长的一段时间，可能甚至1个月或两个月都在来来回回的探讨怎么样一个更好的方式工作，这个其实都是组织的进化，它需要一个过程。这过程一定不是从第一天。</p>
+<p class="transcript-line"><span class="time"><strong>[00:33:28]</strong> </span><span class="speaker"><strong>发言人2: </strong></span>开始就是这样的。对我觉得这个也是跟整个AI能力相关的。从过去的一年之内，AI从一个辅助engineering的角色到于一个参与到开发过程中的一个角色，到现在能够相对来说主导开发过程的一个角色。是根据本身基础模型能力的提升，A站的架构的提升和agent infrastructure的提升都是相关的。比如说一年之前，如果想让我们说用AI主导整个的这个开发过程中，我觉得从技术上来说是不成立的。但是从整个重构过程中我们发现当AI reach到这个point的时候，整个的重构不管是从速度还是从效果上来讲，都是远超于一年之前能够想象的一个程度。</p>
+<p class="transcript-line"><span class="time"><strong>[00:34:10]</strong> </span><span class="speaker"><strong>发言人1: </strong></span>你们是从哪个时间点开始重构的？然后这个重构的时候，整个市场发生了什么？你们做的最核心的几件事情是什么？</p>
+<p class="transcript-line"><span class="time"><strong>[00:34:18]</strong> </span><span class="speaker"><strong>发言人2: </strong></span>其实我们意识到需要重构这个事情可能是去年8 9月份的时候。之前的话我们会花一些时间进行团队的align。其实engineer产品团队和marketing团队，大家的mindset是最重要的。所以我们可能花的最多的时间就是怎么让大家转变这个mindset。我们真的开始重构了代码架构。整个的开发的过程可能也就是今年1月份的时间。就是今年过年之前，我们在使用了大概两个周的时间，就重构了整个我们的所有的架构。包括现在大家看到的产品，也是根据这个阶段重构的过程中的这样一个产品。</p>
+<p class="transcript-line"><span class="time"><strong>[00:34:57]</strong> </span><span class="speaker"><strong>发言人1: </strong></span>有哪些你们觉得之前AI解决不了的事情，然后AI解决了可不可以？</p>
+<p class="transcript-line"><span class="time"><strong>[00:35:03]</strong> </span><span class="speaker"><strong>发言人2: </strong></span>举两个例子，之前AI解决不了的事情主要是在planning阶段，比如说我100分为score的话，他能给我一个90分的score。我看到这个案的时候，我能够再给他一些critic size，他能够给我一个revised的plan，而不需要我真实的去改这个plan。比如说我说现在这个情况下能够打90分的话，那一年之前的话可能也就是50分1个不及格的状态。我可能需要人为的再去modify这个plan，再去改整个架构。但是现在的话，比如说整个我们这个新架构我可以。所以说我一行code也没有写，一行的tax也没有去改这个plan，我只是在跟他进行交流，我criticize你这个plan是不是有缺陷，是不是优化的。在create这个plan的时候，你可不可以reference一下其他popular的open source framework and framework。你给我一个最终的版本。</p>
+<p class="transcript-line"><span class="time"><strong>[00:35:52]</strong> </span><span class="speaker"><strong>发言人1: </strong></span>你觉得他的能力在你之上吗？AI写代码的能力。</p>
+<p class="transcript-line"><span class="time"><strong>[00:35:56]</strong> </span><span class="speaker"><strong>发言人2: </strong></span>首先AI写代码的能力肯定是在我之上的，因为我没有写能力，2026年我就没有写过一行代码。但是从planning的能力上来讲的话，作为一个architecture的价值或者在一个公司里面，不管是你是一个CTO还是一个tech lead，你的价值就是在于找到AI planning的缺陷。所以本身architecture和不管是tech lide在这个之上还是有价值的。我只能说现在AI的planning还是有缺陷的。比如说他一开始给我的planning，可能有security的缺陷，可能有license的缺陷。那我根据我之前的architecture的经验，我怎么能够criticize它或者chAllenge它，能够进行进一步的提升。</p>
+<p class="transcript-line"><span class="time"><strong>[00:36:35]</strong> </span><span class="speaker"><strong>发言人1: </strong></span>对，然后你们是一月开始做转型的，到现在你觉得AI现在在做planning，就是你交给了他，我们要怎么去做这个latency安全性。他现在在做新的计划的时候，他会变得好很多吗？</p>
+<p class="transcript-line"><span class="time"><strong>[00:36:49]</strong> </span><span class="speaker"><strong>发言人2: </strong></span>对我觉得这个就是harness的核心。之前我教给他，你在安全性上，在设计sandbox和host之间的关系的时候，你要follow什么样的准则。那这个时候我就可以把它变成一个skill。在下一次的过程之中，我只需要reference这个skill，instead of我去说更具体的内容。我说你能不能follow我这个principle，就变成一件很容易的事情。而且不光是我自己能够chAllenge AI包括所有其他的我们团队的engineer也可以reference这个skill。看AI的plan能够follow之前的我们的这些principle。</p>
+<p class="transcript-line"><span class="time"><strong>[00:37:23]</strong> </span><span class="speaker"><strong>发言人1: </strong></span>可不可以给听众一个直观的印象，你现在有了AI做生产的主力以后，他干出了配多少员工才能干到的事情，给大家一个数字上的直观的感受。就比如说以前一个团队他需要20个人做四周，我随便说现在就多长时间就做到了。</p>
+<p class="transcript-line"><span class="time"><strong>[00:37:42]</strong> </span><span class="speaker"><strong>发言人2: </strong></span>如果翻到一年之前，我们不是AI主导的情况之下，要develop像creal现在一个产品，我觉得起码需要100人左右的团队，花四五个月的时间去develop这样一个版本。如果大家看其他的general agent公司的company size，大概也是这样一个范围。</p>
+<p class="transcript-line"><span class="time"><strong>[00:38:00]</strong> </span><span class="speaker"><strong>发言人1: </strong></span>现在是25个人。</p>
+<p class="transcript-line"><span class="time"><strong>[00:38:01]</strong> </span><span class="speaker"><strong>发言人2: </strong></span>我们的engineering团队可能只是十人以下。</p>
+<p class="transcript-line"><span class="time"><strong>[00:38:04]</strong> </span><span class="speaker"><strong>发言人1: </strong></span>十人以下多长时间低位的。</p>
+<p class="transcript-line"><span class="time"><strong>[00:38:06]</strong> </span><span class="speaker"><strong>发言人2: </strong></span>这个从产品的第一个阶段的deploy yet，可能也就花了大概两周。</p>
+<p class="transcript-line"><span class="time"><strong>[00:38:11]</strong> </span><span class="speaker"><strong>发言人1: </strong></span>的时间十个人以下，对，这个效率提升很高的对。</p>
+<p class="transcript-line"><span class="time"><strong>[00:38:16]</strong> </span><span class="speaker"><strong>发言人3: </strong></span>从创业公司角度来看，或者说很多SaaS公司运营一个SaaS产品的时候，你会有个很直观感受。就是在原来的传统的软件时代下，你会发现销售团队他们在概念角度来讲会超前你自己的产品。可能4到5个月，可能大多数你的用户看到的是你4到5个月之后才会发布的一些功能。但现在这个情况下，它是反过来的。比如说car这边的marketing团队会感觉我们有很多很多功能，我们甚至都不知道他已经做完了。技术团队可能是反过来，是超前的marketing团队，可能3到4个月或4到5个月。更多时候变成marketing团队在追赶开发团队的一些功能还有安排。这就是一个我们从最外层来看它最大的一个区别。这个区别就会导致你的整个运营方式，它包括你的整个组织结构可能都会跟原来不一样。</p>
+<p class="transcript-line"><span class="time"><strong>[00:39:03]</strong> </span><span class="speaker"><strong>发言人1: </strong></span>凯也提到了，现在整个技术开发的速度是大于市场营销的速度的。Clark你这一块会有从市场营销的层面也用更多的agent，因为技术可以用，你们也可以用。我知道代码agent这两年特别的火。那在整个marketing的素材生成方面，以及这个素材的产出方面，或者是你其他的一些流程方向，你觉得现在这一块的agent的发展怎么样了？</p>
+<p class="transcript-line"><span class="time"><strong>[00:39:29]</strong> </span><span class="speaker"><strong>发言人4: </strong></span>所以我们现在整个go to market ting都会用我们自己公司的产品去构建AI first的go to market的workflow或者流程。当然这里面有很多坑，我觉得最大的一个困惑就是engineer它是一个相对比较好去做evaluation，相对封闭的一个环境。他能够有明确的指标说今天你干的好还是不好。但是从go to market的角度，不管是你是写文章也好，做视频也好，你是面向人的消费群体。他对于这个事的价值的认可和面向agent或者不同的人群，每个人他都有自己对这个价值的判断，这个是相对来说比较主观的那我们怎么样去构建这个系统，能够更好的把这些主观的判断变成一种信号，让我们的系统能够自动去运转起来，这个是一个比较大的挑战。我们也没有说我们今天就是百分之百让agent去做决策，但我们会放很多agent的结果，再由人才去判断说这个结果好还是不好。我们有很多很多的feature，但我觉得市场还没有ready，那我们就不会把这些东西放到市场上面去。</p>
+<p class="transcript-line"><span class="time"><strong>[00:40:37]</strong> </span><span class="speaker"><strong>发言人1: </strong></span>我很好奇你们有哪些超前的思想是市场还没有接受的。</p>
+<p class="transcript-line"><span class="time"><strong>[00:40:41]</strong> </span><span class="speaker"><strong>发言人4: </strong></span>每个人的agent都有所有的权限可以读写，这个其实是一个相对来说比较大胆的一个动作。我们希望说未来为了能够让你的组织更加高效，你的很多数据是应该开放给你的agent，开放给每一个人。但这里面可能还是需要更好的一些解技术的支持，包括你怎么样去限制每个人的权限，或者限制agent权限。怎么样让这个agent在读取这些数据的时候不会出现失误。因为如果他读的数据是错的，或者他自己开始乱搞，那你最后的决策可能会受到很大的影响。</p>
+<p class="transcript-line"><span class="time"><strong>[00:41:14]</strong> </span><span class="speaker"><strong>发言人4: </strong></span>所以我就是我觉得还没有ready推向市场，但是至少我们自己用起来很爽。比如说我原来我要说，Peter今天我们有多少个用户有这样的行为。可能还要去找做数据的同学或者是engineer去帮我打一个新的表格出来。但今天我只需要跟agent说，我提这个问题，他立刻3秒钟之后给我一个答复。</p>
+<p class="transcript-line"><span class="time"><strong>[00:41:35]</strong> </span><span class="speaker"><strong>发言人2: </strong></span>我觉得现在主要的chAllenge对于大部分agent公司来说，不是市场能不能接受这种工作方式，而是市场不知道这种工作方式的存在，或者他不知道怎么去高效的使用一个agent帮助他能够完成他的work。所以说在整个的这个过程中，我们也做了很多工作。就是让用户不用进行复杂的设置，能够更容易去access这个agent，帮助他完成他自己的本身的工作。</p>
+<p class="transcript-line"><span class="time"><strong>[00:42:04]</strong> </span><span class="speaker"><strong>发言人1: </strong></span>这是不是也是你们公司现在在做的事情，就是让AI自己去创建agent。</p>
+<p class="transcript-line"><span class="time"><strong>[00:42:08]</strong> </span><span class="speaker"><strong>发言人2: </strong></span>对我把上一个时代的general agent理解成这些公司会提供一个agent，用户会使用这个agent去帮助他们完成自己的一些工作。但这个agent不管把它叫做general agent还是super agent，它是一个unique的agent，所有用户access是同一个agent。我quill在做的事情就是我怎么能够让用户在我们的系统上搭建属于自己的agent。而且这个agent是具有self improvement，self healing的能力，能够去understand你的workflow。举个例子，你是在做一个广告的campaign，你每个周可能都要放一个广告。那通常来说，你可以用其他的general agent，每个周就去做一个这样的事情。但在creal上，你的使用的方法是你create一个属于自己的agent，比如说这就叫做campaign agent。我们会在背后做很多harness，保证你的这个campaign agent能够持续的提升the performance，能够降低它的cost，在这个过程中为你产生更多的产出。</p>
+<p class="transcript-line"><span class="time"><strong>[00:43:05]</strong> </span><span class="speaker"><strong>发言人1: </strong></span>所以你们对标的场景跟你们主要的客户是谁？就是你是对标大企业里面的工作流程自动化的还是专业的，类于创业者或者个人独角兽，类似于这样子的还是普通的大众。</p>
+<p class="transcript-line"><span class="time"><strong>[00:43:19]</strong> </span><span class="speaker"><strong>发言人3: </strong></span>其实他都会有。但是我们真正的目标来讲，还是那些所谓的SMB，还有企业端的那些中小企业的场景。因为这个可能是最早去AI的这个人群。</p>
+<p class="transcript-line"><span class="time"><strong>[00:43:29]</strong> </span><span class="speaker"><strong>发言人1: </strong></span>SMB是什么？</p>
+<p class="transcript-line"><span class="time"><strong>[00:43:30]</strong> </span><span class="speaker"><strong>发言人3: </strong></span>SM就是small to medium business，就是那些中小型的，可能就是30个人以内的团队。</p>
+<p class="transcript-line"><span class="time"><strong>[00:43:36]</strong> </span><span class="speaker"><strong>发言人1: </strong></span>跟你们公司现在非常像的这些团队。然后他们完全开始把自己的工作方式转移成以AI为主导的工作方式。这种是科技公司多，还是说传统公司它也可以做这个转型。</p>
+<p class="transcript-line"><span class="time"><strong>[00:43:50]</strong> </span><span class="speaker"><strong>发言人3: </strong></span>不管你是科技公司还是传统公司，都能做这样的转型。对，因为它核心的难点其实并不是一定是在于取决你的人数和规模大的企业。为什么它难？是因为越大的企业它会有越来越多的一些合规的问题，还有很多的一些人上面的因素会导致他的整个过程会非常艰难。但是你一家公司如果没有太多的所谓的合规，还有包括传统的一些数据库，还有传统一些lexi的这些东西的话，那其实你就是一批最容易去做这个转型的公司。所以我们target就是这样的一批公司，是我们核心的目标群体。</p>
+<p class="transcript-line"><span class="time"><strong>[00:44:21]</strong> </span><span class="speaker"><strong>发言人1: </strong></span>一个公司想要做这样的转型，是不是他们的创始人也得有一个核心信念，就是相信AI对。</p>
+<p class="transcript-line"><span class="time"><strong>[00:44:27]</strong> </span><span class="speaker"><strong>发言人3: </strong></span>这个是，但是我觉得更多还是他们得搞清楚，就是说这个转型最后代表是什么？我举个最简单的例子，其实在二三年刚大模型出来的时候，很多的SARS公司他想的都是我怎么把AI做成一个功能，集成到我的产品里面。这个本质来讲是没有搞清楚。如果你要做这样的功能，有没有可能你原来的产品的架构就是不支持把这些最新的AI的能力给集成进来的。因为你的数据库可能也不符合要求，你的交互可能也不是未来的一个方式。所以说你可能需要去做的事情是整体的产品的重构。这个结果如果是你接受不了的话，那可能你也很难去做这个转型。</p>
+<p class="transcript-line"><span class="time"><strong>[00:45:04]</strong> </span><span class="speaker"><strong>发言人1: </strong></span>所以你们现在在推广这个概念的过程中，因为现在AI发展的也很快。我觉得很多的企业主，包括中小企业，他们是非常愿意去拥抱AI的。但是我觉得你们整个推行的概念又过于超前，所以你们自己觉得市场对你们的反馈是怎么样的。</p>
+<p class="transcript-line"><span class="time"><strong>[00:45:21]</strong> </span><span class="speaker"><strong>发言人3: </strong></span>其实从我们现在用户上面的反馈来讲，我觉得并不是说我们的概念很超前。而是这也是为什么我们从组织上的变革是我们自己在做的事情。我们并没有说我们所有的客户跟我们一样去做组织上的改变。而更多是我们把harness这套系统变成我们的产品，能够让我们的用户先体验起来。然后在这个过程里面，他在慢慢去思考组织怎么去改变。</p>
+<p class="transcript-line"><span class="time"><strong>[00:45:42]</strong> </span><span class="speaker"><strong>发言人1: </strong></span>我觉得harness还有一个核心，就是说我对某一个领域非常了解，所以我才能给他做各种的更精确的系统上的限定条件。假设你说你对代码领域非常了解，我觉得很权威。但我觉得很少有人说我可以是每一个领域的专家，我懂每一个领域。那这个挑战怎么解决呢？</p>
+<p class="transcript-line"><span class="time"><strong>[00:46:04]</strong> </span><span class="speaker"><strong>发言人2: </strong></span>之前的话你在create一个自己的agent，比如说你用hermas或者open cloud，或者靠code，你是需要对代码有一定理解的，你才能做这件事情。因为这涉及到很多infrastructure安全性的问题，包括你的突然怎么接进来。但是对于比如说co来说，我们提供一个code端的service，你作为一个普通的使用者，你是不需要有很多架构的理解。因为我们把这个架构已经提供给用户了。用户对自己需要完成的任务需要有一个深入的理解。但是在这个过程之中，包括怎么接入tooling，怎么去maintain这个agent，能够长时间的工作，怎么能够保证安全性，是我们为大家提供的这样的一个service。</p>
+<p class="transcript-line"><span class="time"><strong>[00:46:44]</strong> </span><span class="speaker"><strong>发言人3: </strong></span>对，就现在因为我们还是在利用AI的很早期的阶段。当然就是有很多的创业公司都在讨论，我们可能要在某一个垂直场景上会非常了解，然后我们才能说我们这块harness做的很好。但核心是在于因为我们自己的这家公司，我们也想成为第一批所谓的AI first公司。</p>
+<p class="transcript-line"><span class="time"><strong>[00:47:03]</strong> </span><span class="speaker"><strong>发言人3: </strong></span>那所谓在组织结构调整之后，其实我们是有非常多的基础工作需要被A镇化的那在这些基础的工作上，首先它可能也并不会涉及到非常多的非常垂直专业的场景。比如说刚刚卡尔说一些所谓市场调研这个事情其实很多的人都需要去做。但是有些人agent利用的好，他这个系统build好的话，他自己人需要做的事情就会很少。但是如果你的系统build不够好的话，那你人需要做的事情就更多。其实我们的概念真正我觉得超前的地方，或者说市场现在没有准备好的地方是在于如果你真的想把AI用在你的生产的各个环节上面。首先你的组织结构是要先去变化的那组织结构变化之后，你需要有一个系统去保障这个组织能够稳定的运行。这个就是我们现在build这个highness这套东西。</p>
+<p class="transcript-line"><span class="time"><strong>[00:47:47]</strong> </span><span class="speaker"><strong>发言人1: </strong></span>可不可以讲一下你们的组织结构是如何发生变化的？比如说以前传统的组织结构是怎么样，然后现在你们是怎么样？我觉得刚刚过程中我们举了很多的案例，但是我们还是想知道一个whole picture.</p>
+<p class="transcript-line"><span class="time"><strong>[00:48:00]</strong> </span><span class="speaker"><strong>发言人3: </strong></span>对整个组结构变化，我觉得说这里面是很多角色的变化。首先一，如果你要真的做改造，你需要做第一个点，其实信任上的变化。就原来你组织信任的是人，那人本身是这个组织最核心的那一环。但现在当你把AI拿进来之后，其实你要先解决第一个问题，就是你能不能信任你的AI做决策或去执行任务。这个信任其实就跟为什么我们要去build一个harness的系统是一个道理。就是我们得有很多的所谓的garrets，还有机制去保障AI做的所有的工作。不管他做决策也好，还是做planning也好，还是做最后的execution执行也好，最后他的这个东西是能够被人去信任的那接下来就是你所有的组织结构里面的具体的位置的变化。</p>
+<p class="transcript-line"><span class="time"><strong>[00:48:41]</strong> </span><span class="speaker"><strong>发言人3: </strong></span>产品经理这个角色在我们我们公司其实是不能说它不存在，而是他被拆解到了每一个工程师和像Peter这样子的做工程管理的人身上。而不是专门在有一个单独的角色去做这个所谓的产品的这个事情。因为产品经理这个岗位，我并不觉得他不重要，而是在于他在大多数公司，他其实是矛盾最集中的那个点。因为产品经理同时要跟市场人沟通，也要跟开发人沟通。所有的对齐的成本很多时候也都会发生在产品经理的那个角色上面。但当你把这个角色给拿掉之后，你会发现对齐的成本反而有时候可能会更低。</p>
+<p class="transcript-line"><span class="time"><strong>[00:49:16]</strong> </span><span class="speaker"><strong>发言人3: </strong></span>这个前提也是在于你需要有一套机制，能保证在没有产品经理情况下，团队之间还能互相信任。就决策的信任成本没有因为没有这个角色了而变得更高。而是说没有这个角色之后它会变得更低。所以说这个其实就是我们在组上可能跟传统这些所谓的软件开发公司会不太一样的地方。</p>
+<p class="transcript-line"><span class="time"><strong>[00:49:35]</strong> </span><span class="speaker"><strong>发言人1: </strong></span>产品经理这个角色你觉得现在还有价值吗？或者说重新招一个类似于产品经理角色的人，你觉得他需要有什么样的心计呢？</p>
+<p class="transcript-line"><span class="time"><strong>[00:49:44]</strong> </span><span class="speaker"><strong>发言人3: </strong></span>这个问题应该是这样问，未来需不需要产品经理？他一定需要的。但是未来需要的是一种新的形态的产品经理。因为你的开发成本在降低，所以产品经理更多的首先它本身的背景也会发生变化。他做的事情可能他是一个工程师，之后工程师也可以成为产品经理的角色。那更多的人可能能够成为这种所谓的新型的产品经理。</p>
+<p class="transcript-line"><span class="time"><strong>[00:50:07]</strong> </span><span class="speaker"><strong>发言人3: </strong></span>或者说未来还有一种可能就是说他的职位的很多的权利会分散在开发团队的各个的人的身上。因为如果说你的每一个开发团队成员在AI的帮助下都能够更好的去有产品观念的话，那其实你本质来讲有没有这个职位也不太重要。因为原来产品经理我觉得他更多解决的是对齐的成本，还有包括如何帮助公司去降低这个所谓的开发成本。</p>
+<p class="transcript-line"><span class="time"><strong>[00:50:29]</strong> </span><span class="speaker"><strong>发言人1: </strong></span>对我可不可以这样理解，就是现在相当于工程师Peter的团队，他们某种程度上扮演了产品经理的角色。但是反过来，一个好的产品经理，他其实是对市场是非常有想法的，然后对产品也是非常有想法的。加上现在开发的成本是非常低的，他可能也很容易就把他的一个想法通过AI的执行能力，很快变成了一个好的产品。他甚至不需要工程团队了。所以说其实这两种角色他某种程度他在融合，再变成一种角色。所以这个角色到底是一个技术的团队来做，还是一个产品的团队来做，其实不重要。因为都是AI在主导，想法更重要。</p>
+<p class="transcript-line"><span class="time"><strong>[00:51:10]</strong> </span><span class="speaker"><strong>发言人3: </strong></span>对，因为会有人会觉得未来产品经理可能会变得更重要。因为就像您刚才提到，就是说如果产品经理也能写代码，那他可能自己就能build一个产品。但是一样会有人会觉得产品经理因为他没有很多的技术的背景，他就算能build一个产品，那这个产品到底能不能被商业化，我们要打个问号。如果这个产品真的要需要被商业化的时候，那可能我们还是需要有工程师真的能够帮这个产品经理去把这个产品给构建的更加能够商业化。</p>
+<p class="transcript-line"><span class="time"><strong>[00:51:37]</strong> </span><span class="speaker"><strong>发言人3: </strong></span>未来这个职位本身，他可能不是说是一个人，而是一个团队整体扮演这个产品经理的角色。这个角色本身它会被组织化掉，而不是被个人化掉。在传统软件时代下，有很多个人英雄主义。就说因为某一个产品经理或一个灵魂人物，导致最后这个产品特别受欢迎。但未来可能是一个组织，可能做了一个很好的产品，被这个市场接受。</p>
+<p class="transcript-line"><span class="time"><strong>[00:52:00]</strong> </span><span class="speaker"><strong>发言人2: </strong></span>对我觉得有一个非常明显的trend，就是复合型人才或者比较general的人，他在AI环境之下可以thrive的更好一些。不管是说一个工程师他有产品的sense和marketing sense，还是说一个产品经理他具有implementation的能力，都会非常的重要。刚才一直在谈产品经理其实有另外一些rule，像designer，不管是前端的designer还是UX designer。如果你问我未来的产品之中什么是最重要的，可能这两个人会变得非常的重要。但是我们在讨论这两个入的是不是说传统的不具备coding或者implementation能力的designer，而是具有能够把自己的想法implement的产品之中的这些UX和UI designer。这些人会变得非常的重要，包括产品经理。同样的事情，未来的产品需要有产品的sense，那这些产品的sense来源于谁其实并不重要。</p>
+<p class="transcript-line"><span class="time"><strong>[00:52:57]</strong> </span><span class="speaker"><strong>发言人2: </strong></span>但是有一点是非常重要的，这个人必须有implementation的能力。就是他能把他的idea直接在一到2个小时之内的时间就带到产品之中。如果你需要把你的idea传递给另外一个人或者另外一个engineer，那你交流或aligned的成本就远大于你implementation的成本。在整个的AI的工作环境之下，就变得不是那么的efficient。</p>
+<p class="transcript-line"><span class="time"><strong>[00:53:21]</strong> </span><span class="speaker"><strong>发言人1: </strong></span>Peter你有一篇文章我印象很深。你说其实在你真的做这一系列的组织架构的变化的过程中，你意识到初级的工程师是比资深的工程师更能适应AI的这个环境的。</p>
+<p class="transcript-line"><span class="time"><strong>[00:53:36]</strong> </span><span class="speaker"><strong>发言人2: </strong></span>因为初级的engineer不管说它的tech det或者他的思想的束缚通常来说比较小。他能够接受他的extent，他的scope。就是他不仅是作为一个january，包括他要融入到一些产品的设计之中，包括产品它的feature deploy之后，他还需要做一些analysis，它根据analysis能够做出他这样的一个判断。但通常来讲比较senior的engineering，因为它比较specialized。</p>
+<p class="transcript-line"><span class="time"><strong>[00:54:02]</strong> </span><span class="speaker"><strong>发言人2: </strong></span>比如说你是一个做infer的人，或者你是一个做后端的人。你可能在传统的工作环境之中，你不care你的code ship之后发生的事情。但是在AI这个环境之下，你的engineered的scope就需要比之前扩大的很多。就不只是在我把这个代码写完之后就结束了，而是在于我代码写之前，我怎么能够把自己的家庭的加进去。代码ship之后怎么能够判断它的impact，整个的这个过程是非常重要的。通常来讲junior engineer的话能够更好地接受这样的一种工作状态。</p>
+<p class="transcript-line"><span class="time"><strong>[00:54:37]</strong> </span><span class="speaker"><strong>发言人1: </strong></span>比如说你跟一个资深工程师说，除了负责前面就是你代码已经交完了的这个过程，你还要负责后面的这个过程。他们是不能理解跟马上去转变这个思想的。</p>
+<p class="transcript-line"><span class="time"><strong>[00:54:48]</strong> </span><span class="speaker"><strong>发言人2: </strong></span>通常来讲，需要align这个mindset的成本要高很多。其实作为一个senior engineer或者作为一个专业领域的，不管你是做infer的人，还是front还是back end的人，在过去的软件开发过程之中，你的knowledge是非常valuable的。因为你能够知道在开发这个系统之中，怎么样写最简洁的代码，怎么样设计最好的architecture。你可能需要两三个月的时间去完成这样一个事情。但是在AI这个环境之下，因为AI coding在现阶段它已经很强了，以后会变得更强，所以它会让你本身的speciality变得越来越低。所以很多人可能接受不了这样一种状态，就是它本身可能花了十年、20年时间学到的这样一些知识，变得可能在未来并不那么重要。</p>
+<p class="transcript-line"><span class="time"><strong>[00:55:37]</strong> </span><span class="speaker"><strong>发言人1: </strong></span>所以你们现在更倾向于招哪一类的人我拿工程师来举一个例子。比如说初级的人，他可能面临的问题是他在代码领域基础没有那么的扎实了。因为大家现在都已经用AI写代码了，可能你真的比如说这个AI系统它突然关机了，他们自己可能就写不了了。而且如果你的代码基础不扎实的话，就是你在判断它出问题的时候，你的专业知识也会稍微的差那么一点点。但是对于很多资深的工程师来说，他们依然非常的稀缺，就是因为他们还是有非常扎实的工程的基础。但是他们可能在转变跟适应AI思维上，他并没有年轻人那么快。</p>
+<p class="transcript-line"><span class="time"><strong>[00:56:20]</strong> </span><span class="speaker"><strong>发言人2: </strong></span>我文章中虽然提到要转变一个资深的工程师的难度要比一个相对来说junior的要难度大。但是从value上来讲，一个资深的工程师的value现在是不能被取代的。所以怎么能够找到一个资深的工程师，它还能够embrace AI的mindset，而且它能够具有一个产品的sense，它能够还知道一些marketing的knowledge。这个人虽然很难找，但是对于公司来说是非常valuable的。好处是在于之前我们可能需要很多这样的人，在没有AI的情况之下，但是现在的话我们可能只需要1到2个人就可以了。</p>
+<p class="transcript-line"><span class="time"><strong>[00:56:58]</strong> </span><span class="speaker"><strong>发言人1: </strong></span>很多是多少？十个？</p>
+<p class="transcript-line"><span class="time"><strong>[00:56:59]</strong> </span><span class="speaker"><strong>发言人2: </strong></span>我觉得十倍或者50倍以上的人，在没有AI辅助的情况之下。</p>
+<p class="transcript-line"><span class="time"><strong>[00:57:05]</strong> </span><span class="speaker"><strong>发言人1: </strong></span>但我觉得这样的人是不是也还比较好找？是因为我最近看见硅谷的趋势是所有人都在开始用AI然后所有人都在开始比这个AI生成代码的数量。大家也在很积极的去适应这个新时代新环境。</p>
+<p class="transcript-line"><span class="time"><strong>[00:57:22]</strong> </span><span class="speaker"><strong>发言人3: </strong></span>我们可能通常会发现有很多人是这样子的一个心态。但是有这样的心态跟在工作的时候愿意去相信AI然后真的把所谓的harness这些系统去build起来。就是我相信他跟我愿意花时间去构建一个系统，能帮助我更好的用AI去工作，这是完全两码事情。就是很多人会发现他愿意拥抱AI，只是在于他愿意用AI的工具去给自己去提升效率。但他并不愿意说，我去构建一个系统，真的能让未来我的工作完全由AI来驱动。我在里面可能扮演角色都可能发生变化了。这是两种完全不一样的心态。其实后面那种更激进那个心态的工程师也好，或者说做marketing的人也好，或者说做任何事情的人也好。</p>
+<p class="transcript-line"><span class="time"><strong>[00:58:04]</strong> </span><span class="speaker"><strong>发言人3: </strong></span>相对来讲在现在这个阶段，这个思想还是相对来讲比较超前的，这样的人还是少数。现在更多人更接受还在于我愿意去尝试用AI工具或拥抱AI的能力。但是我还没有到真的我希望做到AI first这个角度来讲，这样的人是比较少。</p>
+<p class="transcript-line"><span class="time"><strong>[00:58:18]</strong> </span><span class="speaker"><strong>发言人2: </strong></span>的对另外从一个角度上来讲，我认识的很多朋友其实他本身的能力很强，他有很强的架构能力。然后它源于我们摆AI，但通常很多这样的人，他会自己出来创业。对于一个start up，你像hair这种人，其实现在难度还是比较大的。</p>
+<p class="transcript-line"><span class="time"><strong>[00:58:34]</strong> </span><span class="speaker"><strong>发言人1: </strong></span>是Peter，你是从什么时候开始相信AI的？就是我觉得凯今天给我特别大的一个震撼，就是相信AI这四个字。</p>
+<p class="transcript-line"><span class="time"><strong>[00:58:42]</strong> </span><span class="speaker"><strong>发言人2: </strong></span>如果你问我的话，我其实从一开始刚毕业的时候，我就是在做A所以我肯定会业的。我是一一我是哪一年毕业的？我应该是18年.</p>
+<p class="transcript-line"><span class="time"><strong>[00:58:55]</strong> </span><span class="speaker"><strong>发言人3: </strong></span>你毕业我们肯定不会记得。</p>
+<p class="transcript-line"><span class="time"><strong>[00:58:57]</strong> </span><span class="speaker"><strong>发言人2: </strong></span>那么我可能是具体我记不清了，但是可能是十年之前的事情。我第一个在苹果做的工作就是在做AI方面的工作，而且也就是和语言模型相关的。所以我肯定是从一开始就相信AI能够改变这个世界的对。</p>
+<p class="transcript-line"><span class="time"><strong>[00:59:11]</strong> </span><span class="speaker"><strong>发言人1: </strong></span>那个时候大模型还没出来，然后那个时候我们在提到AI的时候，跟今天我们提到AI的时候是完全不一样的。包括我觉得那个时候AI给人的这个思想上的冲击，说我们是不是要把工作彻底的交给AI，跟今天也是不一样的。</p>
+<p class="transcript-line"><span class="time"><strong>[00:59:26]</strong> </span><span class="speaker"><strong>发言人2: </strong></span>对，但是那个时候虽然没有大模型，但是是非常重要的一篇paper，就是attention all you need。包括之前bert的出现，正好是我刚开始工作的时候。在那个时候我就意识到了pre training的重要性。包括对于我当时在苹果做的一些traffic prediction的一些工作，我就已经开始利用retraining。因为之前的retraining只是在文字上的retraining，我会在traffic signal上的retraining，但是同样利用了类似的concept做这样的事情。</p>
+<p class="transcript-line"><span class="time"><strong>[00:59:55]</strong> </span><span class="speaker"><strong>发言人1: </strong></span>所以可能是因为你的工作经历的关系，你一出来，甚至是你还没有出来，就你一直都觉得AI它是。</p>
+<p class="transcript-line"><span class="time"><strong>[01:00:02]</strong> </span><span class="speaker"><strong>发言人2: </strong></span>比人强的。我没有说AI会一直比人强，哪怕是现在这个的点上，AI也不能够取代人来做任何的事情。但是AI in the future或者在现在这样一个阶段，我AI已经能够主导很多事情，包括在架构的过程之中，AI是很强，但是你让AI系统能够运转起来，还是需要人去进行架构的。</p>
+<p class="transcript-line"><span class="time"><strong>[01:00:30]</strong> </span><span class="speaker"><strong>发言人1: </strong></span>对，我们刚刚其实有聊未来要招什么样的人，你觉得现在我们说AI为主力干活，AI可以迭代产品，所有的东西都是动态的。大家觉得未来人他最核心的能力是什么呢？</p>
+<p class="transcript-line"><span class="time"><strong>[01:00:44]</strong> </span><span class="speaker"><strong>发言人2: </strong></span>我觉得最大人需要的能力就是系统架构的能力。从以前implement的feature变成怎么架构这个AI系统和maintain这个AI系统。</p>
+<p class="transcript-line"><span class="time"><strong>[01:00:53]</strong> </span><span class="speaker"><strong>发言人1: </strong></span>这是工程师的角度。</p>
+<p class="transcript-line"><span class="time"><strong>[01:00:55]</strong> </span><span class="speaker"><strong>发言人2: </strong></span>对，不管是工程师还是marketing的角度，那你做go to market怎么搭建一套能够自主运行的agent的marketing系统也是核心的过程。而不是说只是单纯的产生一个marketing content。</p>
+<p class="transcript-line"><span class="time"><strong>[01:01:08]</strong> </span><span class="speaker"><strong>发言人3: </strong></span>这话就说人的价值如果从真的很长远来看，就跟我们技术发展整个过程一样。确定技术发展方向的永远是人的需求和这个社会的需求。只要人这个物种还存在，它的价值是不太会变化，它定义的是需求的方向和技术迭代的方向，因为它永远要为这个物种去服务。如果没有人在这个上面的价值的话，那就代表AI是自己在发展。它自己就是一个物种的编程。</p>
+<p class="transcript-line"><span class="time"><strong>[01:01:32]</strong> </span><span class="speaker"><strong>发言人3: </strong></span>对，这个是一个哲学问题。基于我定义了需求，那我一样就会需要去看最后的结果是不是我想要的那所以在未来系统里面，人还有一个很重要的价值是我review最后的结果，去看这个结果是不是真的符合我们的利益或符合我们的要求。人在需求的定义和最终的结果的审核上的价值是没有办法被取代的。除非说人作为这个物种本身的重要性已经不存在了，那这个是另外一回事情了。</p>
+<p class="transcript-line"><span class="time"><strong>[01:01:58]</strong> </span><span class="speaker"><strong>发言人1: </strong></span>对我看最近应该是的，他们已经开始设立哲学家的岗位了。</p>
+<p class="transcript-line"><span class="time"><strong>[01:02:02]</strong> </span><span class="speaker"><strong>发言人3: </strong></span>对，职位就叫哲学家。</p>
+<p class="transcript-line"><span class="time"><strong>[01:02:04]</strong> </span><span class="speaker"><strong>发言人1: </strong></span>对对对，是。</p>
+<p class="transcript-line"><span class="time"><strong>[01:02:04]</strong> </span><span class="speaker"><strong>发言人3: </strong></span>当然就是你们也有非常多的问题，还有包括如果我们真的把AI引进到agent真的能替代人工作。还有一个道德问题是在于agent和其他的agent也好，其他人之间也好，也会有沟通。那他沟通的这些内容到底，比如说我作为另外一个人能不能去看，那是不是侵犯他的隐私呢？这里面其实会有非常多道德问题，他都是跟未来组织这些关系都相关的。好，Clark.</p>
+<p class="transcript-line"><span class="time"><strong>[01:02:28]</strong> </span><span class="speaker"><strong>发言人4: </strong></span>我觉得其实刚刚凯讲的挺好的。因为我自己觉得人未来的价值就是判断任何事情是否还有价值。对于价值的定义可能就是人最大的价值，价值的定义本身延伸出来的东西就是我们怎么样定义自己的需求是什么。当我们知道自己想要什么的时候，才能判断这件事情是否有价值，我觉得这个就是人的价值。</p>
+<p class="transcript-line"><span class="time"><strong>[01:02:49]</strong> </span><span class="speaker"><strong>发言人1: </strong></span>对你们对未来整体是更悲观还是更乐观？我是说完全抛开企业，就是作为人来说。</p>
+<p class="transcript-line"><span class="time"><strong>[01:02:57]</strong> </span><span class="speaker"><strong>发言人4: </strong></span>我自己还是相对乐观关的。其实很多时候大家探讨就是人他为什么快乐？我自己现在工作还挺快乐，就是因为我虽然在工作中跟AI的配合，会导致我的工作的内容和工作的程度会比之前要强很多。但是当我不工作的时候，我在享受自然爬山也好，还是去做一些户外运动的时候也好，我可能会更加的放松。所以我觉得相对来说是比较乐观。可能AI给我们带来的价值就是比如说我们原来就经常说你work hard play hard，他可能可以反而更好的帮我去做工作和生活上的切割。</p>
+<p class="transcript-line"><span class="time"><strong>[01:03:38]</strong> </span><span class="speaker"><strong>发言人3: </strong></span>主要我们做创业的话，我们肯定是乐观的。如果悲观的话，就是大家今天也不会出来创业了。对于未来肯定还是相对来讲比较乐观的。</p>
+<p class="transcript-line"><span class="time"><strong>[01:03:45]</strong> </span><span class="speaker"><strong>发言人3: </strong></span>但是就像我们刚才聊的，就是因为就跟上一次工业革命一样。就是当时有很多的纺织工人也好，车夫也好，可能都被取代掉了。但是随着那个阶段过去之后，人会找到新的方向，去实现更大的一个自我价值。所以说未来的话，他一定是一个更好的世界。只不过这个世界是不是跟现在大家所定义的这个幸福一样，那可能是不一样。这个可能是可能未来会有的一个比较大的一个变化。</p>
+<p class="transcript-line"><span class="time"><strong>[01:04:10]</strong> </span><span class="speaker"><strong>发言人2: </strong></span>我觉得我还是非常谨慎的乐观的。因为我觉得在这个变革的过程之中会有很多痛苦，会有很多noise。但是这个变革的结果，我还是believing它是一个好的结果。就是人能够更多的有不管说自由的时间，还是能够发挥出自己更大的价值。在AI的辅助之下。</p>
+<p class="transcript-line"><span class="time"><strong>[01:04:30]</strong> </span><span class="speaker"><strong>发言人1: </strong></span>好，谢谢各位。好的。</p>
+<p class="transcript-line"><span class="time"><strong>[01:04:32]</strong> </span><span class="speaker"><strong>发言人3: </strong></span>感谢三位的分享。</p>
+<p class="transcript-line"><span class="time"><strong>[01:04:34]</strong> </span><span class="speaker"><strong>发言人1: </strong></span>我们今天聊了很多有意思的内容，比如说产品与工程的边界在消失，SaaS产品它本身也在来重构。我想三位的观点可能对很多的普通听众来说，它是有一点点超前的。但是我觉得这种一线亲历者的视角，恰好是大模型时代最稀缺的内容之一。大家对未来公司的组织形态有什么样的思考？欢迎给我们写评论，写留言。我们未来还会从更多的角度持续的关注这个话题。如果大家喜欢我们的播客，可以在小宇宙、苹果播客、youtube、哔哩哔哩、小红书和视频号上收听。关注我们，我是红军，感谢大家的收听。</p>]]></content:encoded>
+            <pubDate>Mon, 25 May 2026 00:00:00 GMT</pubDate>
+            <guid>6a13923cfe904f3873c51d2b</guid>
+        </item>
         <item>
             <title>E237｜央视和FIFA谈判纷争背后，体育赛事转播权的博弈与生意</title>
             <link>https://www.xiaoyuzhoufm.com/episode/6a0e4c4021e40bb435e4a53b</link>
@@ -7194,264 +7475,6 @@ Special Guests: 徐熠兴 and 王辰晟.</description>
 <p class="transcript-line"><span class="time"><strong>[00:53:40]</strong> </span><span class="speaker"><strong>发言人1: </strong></span>感兴趣的听众可以给我们写下你的评论，我们一起来讨论一下。这就是我们今天的节目。如果大家喜欢我们的节目，记得在小宇宙苹果播客spot FIY上来收听订阅我们。同样大家也可以在youtube或者哔哩哔哩上搜索硅谷101播客来关注订阅我们。我是红军，感谢大家的收听。</p>]]></content:encoded>
             <pubDate>Fri, 31 Oct 2025 00:00:00 GMT</pubDate>
             <guid>6903fc896e241a8dee4a7f8e</guid>
-        </item>
-        <item>
-            <title>E211｜站在内容创作者与机器人的交界处：聊聊3D数字人的进化</title>
-            <link>https://www.xiaoyuzhoufm.com/episode/68fac1c986851368ebb8a1b4</link>
-            <description>9月的最后一天，Sora2发布，它可以把一句话变成一段10秒的短视频；好莱坞完全由AI创作的演员Tilly Norwood，诞生6个多月就获得了6.5万粉丝，她发自拍、代言品牌，却从未真实存在。数字人，正在成为新的内容生产者。
-但从“生成一段视频”，到与一个3D数字人实时稳定互动，中间隔着很多技术壁垒。本期嘉宾柴金祥教授，他在2000年就已经进入卡内基梅隆大学研究机器人，但因为机器人应用与落地极为困难，他们团队反而成为世界上最早用AI做3D动画的团队；18年来，他几乎在做同样的研究。
-从机器人到好莱坞的AI动画，到我们今天讨论的3D数字人模型是不是又可以反过来驱动机器人，这听起来像是一种轮回，却也是一种新的开始。
-【主播】
-泓君，硅谷101创始人，播客主理人
-【嘉宾】
-柴金祥，魔珐科技创始人兼CEO，TAMU计算机科学和工程系终身教授、博导
-【你将听到】
-数字人，下一代内容生产者
-02:45 从Sora2的发布，看“文生视频”的进步与局限
-05:58 Text-to-Video与Text-to-3D的核心区别：像素和参数
-08:55 成本革命的基石：文生3D多模态大模型（星云平台）
-13:33 传统虚拟数字人是如何动起来的？
-16:34 好莱坞有数据无算法，AI公司有算法无数据
-多模态大模型重塑人机交互
-19:46 柴教授的从业经历：从机器人控制到数字人动画
-20:46 Jessica Hodgins：数字人物理动画的先驱
-22:24 很多做Robotics很厉害的人，其实都是做动画的
-26:49 “交互-游戏-好莱坞”，渐进式的技术落地路线图
-29:45 虚拟数字人的两条岔路：预制的完美v.s实时的鲜活
-32:07 AI渲染+分层模型，终结“显卡依赖”
-3D数字人的商业化前景
-37:02 B端的统一形象与C端的个人分身
-40:36 规模化落地需翻越“三座大山”：质量、延时、成本
-42:21 自研语音，风格化“人设”为数字人注入灵魂
-加速具身智能突破泛化
-45:07 对机器人产业判断：白领场景将早于蓝领场景落地
-46:13 用海量3D动作数据教机器人动作规划，但缺乏力的反馈
-47:18 从“运动学”到“动力学”，小脑进化仍需强化学习突破
-49:23 从“爬楼梯”这件小事，看数据如何促进泛化
-58:33 跳脱细节调配，机器人研究进入“黑盒模式”
-【延伸阅读和相关术语】
-文生3D多模态大模型：一种人工智能模型，输入一段文字描述，就能直接生成一个立体的、会动、会说话的3D数字人，“多模态”指输出包含了语音、表情、肢体动作等多种信息模式。
-VLA模型：下一代机器人的“大脑”模型，它能让机器人理解看到的画面（Vision），理解人类的语言指令（Language），并直接规划出要执行的动作（Action）。
-运动学和动力学（Kinematics and Dynamics）：机器人运动的两个基础学科。运动学解决 “做什么动作” 的问题，不考虑力；动力学解决 “用多大力气做” 的问题。让机器人完成精细操作，需要两者结合。
-【监制】
-泓君
-【后期】
-AMEI
-【运营】
-朱婕
-【BGM】
-Azoic - Max Anson
-Treasure Hunt - Helmut Schenker
-Lost in Time - Aiyo
-【在这里找到我们】
-公众号：硅谷101
-收听渠道：Apple Podcast｜Spotify｜小宇宙｜喜马拉雅｜蜻蜓FM｜荔枝FM｜网易云音乐｜QQ音乐
-其他平台：YouTube｜Bilibili 搜索「硅谷101播客」
-联系我们：podcast@sv101.net
-Special Guest: 柴金祥.</description>
-            <content:encoded><![CDATA[<p class="transcript-line"><span class="time"><strong>[00:00:03]</strong> </span><span class="speaker"><strong>发言人1: </strong></span>欢迎收听硅谷101，我是红军。Today we announcing the door APP .</p>
-<p class="transcript-line"><span class="time"><strong>[00:00:09]</strong> </span><span class="speaker"><strong>发言人2: </strong></span>powered by the all new sorted.</p>
-<p class="transcript-line"><span class="time"><strong>[00:00:12]</strong> </span><span class="speaker"><strong>发言人1: </strong></span>九月的最后一天，sora two发布，它可以把一句话变成一段10秒的短视频。而好莱坞完全由AI创作的演员TV诺伍的他诞生六个多月就获得了6.5万的粉丝。</p>
-<p class="transcript-line"><span class="time"><strong>[00:00:26]</strong> </span><span class="speaker"><strong>发言人2: </strong></span>I built on everything that came before me.</p>
-<p class="transcript-line"><span class="time"><strong>[00:00:28]</strong> </span><span class="speaker"><strong>发言人1: </strong></span>她发自拍、代言品牌，却从来没有真实存在过。</p>
-<p class="transcript-line"><span class="time"><strong>[00:00:32]</strong> </span><span class="speaker"><strong>发言人2: </strong></span>My team are binary.</p>
-<p class="transcript-line"><span class="time"><strong>[00:00:34]</strong> </span><span class="speaker"><strong>发言人1: </strong></span>所以我们看到一个趋势，数字人他正在成为新的内容生产者。但是我们说在屏幕上生成一段2D的视频，到与一个3D的数字人实现一个比较稳定的实时的互动。这中间其实还是有很多的技术壁垒的。</p>
-<p class="transcript-line"><span class="time"><strong>[00:00:52]</strong> </span><span class="speaker"><strong>发言人1: </strong></span>本期嘉宾柴金祥教授，他是2000年就已经进入了卡内基梅隆大学去研究机器人。但是因为机器人它的应用与落地都非常的困难，所以他们团队反而成为了世界上最早用AI做3D动画的团队。在这18年的时间里，他几乎都在做同样的研究。从机器人到好莱坞的AI动画，到今天，其实我们又在讨论一个非常前沿的问题，就是3D数字人的模型是不是又可以反过来去驱动机器人。所以这听起来其实有一点点像一种轮回，但也是一种新的开始。这一集我们就来讨论一下这一轮的人工智能浪潮到底是如何去改变3D数字人这个行业与机器人领域的。而在好莱坞与游戏产业里，到底谁又是这项技术的受益者？今天跟我在一起的嘉宾是魔法科技的创始人与CEO柴金祥教授。Hello柴教授您好。</p>
-<p class="transcript-line"><span class="time"><strong>[00:01:52]</strong> </span><span class="speaker"><strong>发言人2: </strong></span>Hello大家好。我以前是在美国当教授，是18年的时候回去创立了魔法科技，做了大概有七年多的时间。很高兴今天有机会和大家分享一下关于3D数字人和自身智能的一些观点。</p>
-<p class="transcript-line"><span class="time"><strong>[00:02:09]</strong> </span><span class="speaker"><strong>发言人1: </strong></span>因为正好是在采访您前几天，就是硅谷大家都在关注的一个大事儿，就是sorr two放出来了。然后他做成了一个类似于社交媒体的形式。就是我最近是被sam奥特曼刷屏了，好像每个人都会拿它去做一段demo。包括我们前几天刚刚开了硅谷101的科技大会，我们就生成了一段让sam altman帮我们去宣传我们大会的sr 2的视频。看起来它在屏幕里面的形象，这是一个底角数字人的形象。这个对你们的业务会有影响吗？</p>
-<p class="transcript-line"><span class="time"><strong>[00:02:43]</strong> </span><span class="speaker"><strong>发言人2: </strong></span>我自己大概也去快速的体验一下，我觉得solo two相比solo one的话进步是蛮大的。无论从画质也好，包括新的一种视频的那种形态。我觉得这里面应该核心的点其实还是一个纹身视频的能力了。它主要的形态是以人为中心的。以前可能top one的时候还是有风景，各种其他的一些视频的内容的形态。它可以让视频的人做各种各样的事情，跳舞也好，坐在那跟你交流也好吃东西也好等等等等。我也大概用了一下第一感觉的话，其实视频生成了，现在还是10秒钟的时间，还是没有跳出对时间的限制。纹身视频。</p>
-<p class="transcript-line"><span class="time"><strong>[00:03:23]</strong> </span><span class="speaker"><strong>发言人2: </strong></span>第二个点其实也特别重要。大家一直在说物理上的一致性，基本上大家看刷屏的时候，很多效果其实还是蛮好的。但你真正自己做的时候还是有很多瑕疵。</p>
-<p class="transcript-line"><span class="time"><strong>[00:03:34]</strong> </span><span class="speaker"><strong>发言人1: </strong></span>太多了。对他那个视频里面有皮卡丘跟一个唐老鸭在总统竞选的一段辩论，他可以在原视频上改。我就说把这个辩论变成一个在硅谷101上关于AGI的辩论，主题是aligned 2025是我们活动的主题。但你仔细去看的话，他后面的aligned那个字儿就是错的，就开始乱码了。</p>
-<p class="transcript-line"><span class="time"><strong>[00:03:56]</strong> </span><span class="speaker"><strong>发言人2: </strong></span>是还有一个点特别重要。对于视频这样的内容创作者来说，你不仅想生成视频，它的背景里面如果有字错了，或者人物的有一致性的问题。那你最想做的说我能不能edit一下能把它变好。其实他现在这个能力你还没有，更重要的是他现在是允许你用prompt去生成这个视频。你没有能力去精细化的去控制这个人的动作、表情等等等等。有一个点他是特别的好，他第一次让人看到了如果有一个大模型，其实你可以让人做各种各样的动作。</p>
-<p class="transcript-line"><span class="time"><strong>[00:04:30]</strong> </span><span class="speaker"><strong>发言人2: </strong></span>在视频这个层面上，我们是在做3D数字人这方面的研究，包括产品。我们认为假如说最后我们想做人，人可以在交流跳舞，可以在娱乐大家。那最后的大模型会是什么形态？它的训练数据会是什么形态？那你看到solo to他就说我用所有的视频作为输入，作为训练数据，我就可以做这个。最近人力三出来了以后，其实是它其实是3D的生成了，给你一种交互型的感觉是吧？对对对，但他不是人，他是关于这个场景相关的。最后如果咱们做大模型，如果做人的话，我们会觉得最后可能需要2D加3D的所有的训练技术在一起，我们是希望你生成这个人的时候，不仅是没有10秒钟的限制，你还希望他没有瑕疵，物理上是准确的，你能控制它最好，它是实时的，而且成本很低。</p>
-<p class="transcript-line"><span class="time"><strong>[00:05:24]</strong> </span><span class="speaker"><strong>发言人2: </strong></span>因为我们自己现在在做3D数字人的时候，除了我们3D的训练数据，其实我们也已经可以使用大量的一些视频的数据一起结合作为训练数据来做这个大模型的整个3D数字，整个表达力的一个模型。你看视频这个数据，如果你的模型做的好，其实还是有一定的生成能力的。以前我看solo one的时候觉得好像不行。</p>
-<p class="transcript-line"><span class="time"><strong>[00:05:45]</strong> </span><span class="speaker"><strong>发言人1: </strong></span>因为你觉得sora one都是场景式的生成。然后sorrow two里面它基本上因为你要让视频有生命力，就必须有一个主体。这个主体要么是人，要么是动物。是的，然后它的生成看起来也比较立体。所以其实我简单总结一下，sorry to跟你们的整个的3D数字人的生成最大的区别是它是纹身视频，你们相当于是文生3D然后这个3D它可以是在VR领域里面进行展示的。比如说我戴着一个VR头盔，我可以360度的去看到这个人。同时这个3D未来可不可以用于机器人，这个我们待会儿也可以去讨论一下。核心是这个区别是就是。</p>
-<p class="transcript-line"><span class="time"><strong>[00:06:25]</strong> </span><span class="speaker"><strong>发言人2: </strong></span>2D跟3D之间的区别，solo图还是纹身2D的视频。如果3D的话，你放在vrar里面，它就跟我们现实生活中是一样的。3D还有一个好处，它能让你控制，就像人一样，你让他怎么动就怎么动。但你2D因为在我们叫像素这个层面，其实要对他进行精准的人的动作，表情的控制相对来说会比较难。</p>
-<p class="transcript-line"><span class="time"><strong>[00:06:47]</strong> </span><span class="speaker"><strong>发言人1: </strong></span>因为我看见你们公司的数字人其实也会用于这种屏幕的展示，有一点我可能很难区分的是，我知道很多公司的那个展示屏的数字人都是你们来做的。假设我进到一个展听，看到一个屏幕上的非常立体的数字人，还有动作、声音、表情，跟我看到sam奥特曼在一个视频里的数字人。就我们说除了时长的这个区别，它在核心的技术上它的区别是什么呢？</p>
-<p class="transcript-line"><span class="time"><strong>[00:07:14]</strong> </span><span class="speaker"><strong>发言人2: </strong></span>一个区别在屏幕上这个数字人其实他担当的角色是人跟机器之间交流的一个载体。那人跟机器交流的时候，其实你是实时的互动的。我们是希望一般来说端对端小于2秒钟或1.5秒的延时才可以做。那不能说像你生成一个视频要等个十分钟、五分钟，这是不可能的。如果再往下走，屏幕里这个数字的如果是在展厅里面，你希望所有的介绍回答问题，他的动作不能出错。如果有一点瑕疵，那你肯定觉得这个不行。所以这里面跟sorry to有一个很大的区别，你不能有瑕疵，你的物理上是准确的。</p>
-<p class="transcript-line"><span class="time"><strong>[00:07:53]</strong> </span><span class="speaker"><strong>发言人1: </strong></span>不能有瑕疵。物理上准确指的是人他的表情动作他有一致性，他不会突然出现说我的胳膊突然衔接不上了。</p>
-<p class="transcript-line"><span class="time"><strong>[00:08:02]</strong> </span><span class="speaker"><strong>发言人2: </strong></span>不能是这样子的，不能是说大家以前可能看的比较多。当你用纹身视频去做的时候，手指是个特别难的事情，经常手指会多出来一点，或者从这一针的时候OK可能到5秒钟的时候，忽然多了一个手指会多出来的一截或穿插也好。那你在实际的交互中，特别是一个人的时候，他是一个服务人员，或者他这个销售人员给你讲解产品的时候，你肯定是不希望这个体验很差的，他一定要准确。最后一个点，当你把这样的3D的数字人部署在一个终端上的时候，你的成本不应该高，用终端本来今天来说，它本身这个屏幕可能也就一万人民币。那如果你说生成这个视频给他交互了20分钟，即使他能实时做，他说一年放在那我得花很多人钱，那就没法做了。但今天从骚扰的角度或骚扰出的纹身视频的角度来说，其实这个成本它是不能skill up的。</p>
-<p class="transcript-line"><span class="time"><strong>[00:08:54]</strong> </span><span class="speaker"><strong>发言人1: </strong></span>它的成本是多高？用你们的这个成本是多高？为什么成本之间会有这样的一个差距？</p>
-<p class="transcript-line"><span class="time"><strong>[00:09:00]</strong> </span><span class="speaker"><strong>发言人2: </strong></span>我不一定能给一个具体的数字，但我可以告诉你一个量级。我们现在比云合成的成本，比如说云合成现在大模型做的，我逼他的成本可能是几10分之1。这里面就很核心的一个点，就是2D跟3D之间的区别。其实3D对人类说，其实我要去描述一个人他的动作表情，其实他只要有几百个参数就行了。就是人的肌肉可能就是大几百块，那你只要去控制一些肌肉就可以了。那你下一步就是用3D的渲染，把它3D的内容变成视频，然后要3D的解算。因为不仅有人的表情动作，还有头发、衣服，我们需要用物理解算。这两个事情如果你AI来做，其实我们最大的一个核心是说你内容生成以后，你要用游戏的引擎，非常昂贵的GPU来做了。当我们把这两个事情用AI渲染跟结算做了，这就使得咱们的成本主要就是生成每一帧生成这几百个参数的成本，跟大模型生成token其实是一样的。所以它的成本就非常低。如果说你从纹身视频，因为你是没有结构化信息，你全是像素。所以在这个事情上使得你整个的推理，整个的生产的过程，你的成本。</p>
-<p class="transcript-line"><span class="time"><strong>[00:10:11]</strong> </span><span class="speaker"><strong>发言人1: </strong></span>会非常高。OK所以我理解现在你们之所以能把成本降下来，是因为你们有一个自己的端模型。可以这样理解吗？</p>
-<p class="transcript-line"><span class="time"><strong>[00:10:20]</strong> </span><span class="speaker"><strong>发言人2: </strong></span>是我们有一个怎么把文本变成我们所谓的3D多模态表达能力的一个模型。其实就是从文本生成语音表情的参数、动作的参数、字体，比如手势的参数。我们把这些参数传到终端，终端就是可以是pad或者是终端一个大屏上，我们用AI渲染，AI解算把它变成视频。这个渲染其实因为我们用AI做的，所以它对于终端的算力的要求是极低的。我们现在都可以用一个，比如说国内这种几百块钱的芯片，比如说RK3566瑞芯微的，我们在端上就可以跑了。</p>
-<p class="transcript-line"><span class="time"><strong>[00:10:56]</strong> </span><span class="speaker"><strong>发言人1: </strong></span>比如说他要跟人做实时的互动跟问答这种还是在端模型上，还是说你后面除了你自己的这个端模型在表达的内容上，你会去接大模型。</p>
-<p class="transcript-line"><span class="time"><strong>[00:11:08]</strong> </span><span class="speaker"><strong>发言人2: </strong></span>这是个很好的问题了。我在跟你交流的过程中，首先我的眼睛看到你我的耳朵听到你，这个我们叫做感知。那大模型其实是有理解跟决策能力的，然后我们做那个事情是把文本直接变成了语音，跟我试探身体的动作、表情、手势。</p>
-<p class="transcript-line"><span class="time"><strong>[00:11:27]</strong> </span><span class="speaker"><strong>发言人1: </strong></span>就相当于一个人它不仅仅只是有语音，也不仅仅只是有表情，或者表情比较木讷。他是动作、语言。</p>
-<p class="transcript-line"><span class="time"><strong>[00:11:35]</strong> </span><span class="speaker"><strong>发言人2: </strong></span>手势都是一，就是人与人之间的交互。现在你看GP的话，你可以输入声音、图片，它最后输出文字。我们做的是说是文字到3D的多模态输出。比如说咱们俩要交流，就人跟一个数字人，他其实需要两个模型。现在一个是像HGP这样的多模态到文本的模型，第二个是从文本再到多模态的3D多模。它的模型就语音的输出，动作表情、手势的输出，我们只有自己的垂直的大模型。但我们也可以用，比如说现在国内像千万的也好，deep seek也好，或者豆包的模型也好，跟我们接在一起，形成端对端的人与素人之间的这种像人一样的交流的一种体验。</p>
-<p class="transcript-line"><span class="time"><strong>[00:12:18]</strong> </span><span class="speaker"><strong>发言人1: </strong></span>所以你们从多模态到文本是可以。</p>
-<p class="transcript-line"><span class="time"><strong>[00:12:22]</strong> </span><span class="speaker"><strong>发言人2: </strong></span>用大模型来做用。</p>
-<p class="transcript-line"><span class="time"><strong>[00:12:23]</strong> </span><span class="speaker"><strong>发言人1: </strong></span>大模型来做。然后从文本到多模态就是你们。</p>
-<p class="transcript-line"><span class="time"><strong>[00:12:28]</strong> </span><span class="speaker"><strong>发言人2: </strong></span>自己的这个模叫做纹身3D多模态大模型。</p>
-<p class="transcript-line"><span class="time"><strong>[00:12:32]</strong> </span><span class="speaker"><strong>发言人1: </strong></span>这已经是一个产品可以发布。</p>
-<p class="transcript-line"><span class="time"><strong>[00:12:35]</strong> </span><span class="speaker"><strong>发言人2: </strong></span>新云平台是这个产品我们会在十月份发布。现在我们是在测试testing mode。然后我们现在可能有几百个的B端的企业客户在测试，那也有付费了已经。我们预计时间会在两周后，发布我们的纹身3D多模态这个模型。因为我们自己在做的过程做了很长时间。从我回到二十多年前，我读研究生开始，直到今天，我们花了很多的精力做。我们希望大家不要重复造轮子，能够把这个能力提供给所有的开发者，能够把我们的能力集成到他们的应用中去。</p>
-<p class="transcript-line"><span class="time"><strong>[00:13:12]</strong> </span><span class="speaker"><strong>发言人1: </strong></span>了解我自己觉得很有意思的一点就是因为我知道你们公司之前其实是在做3D数字人的。所以我理解随着你们要发的这个新云平台，所以你们其实就是从一家3D数字人的公司到了一家3D数字人的平台公司。我这样的理解是对的吗？</p>
-<p class="transcript-line"><span class="time"><strong>[00:13:30]</strong> </span><span class="speaker"><strong>发言人2: </strong></span>差不多，我觉得差不多。对，是的。</p>
-<p class="transcript-line"><span class="time"><strong>[00:13:33]</strong> </span><span class="speaker"><strong>发言人1: </strong></span>之前我在NVIDIA的发布会上真森黄他会非常自豪的说，你看到的我不是真的我。然后他是一个自己的虚拟的3D数字人跟大家介绍。比如说他后面有一个壁炉，然后他在前面介绍渲染的非常的真实。他经常会用他自己的虚拟人去讲他们的渲染能力有多强大，他们的显卡有多强大，他那个的成本大概有多少。</p>
-<p class="transcript-line"><span class="time"><strong>[00:14:00]</strong> </span><span class="speaker"><strong>发言人2: </strong></span>这个成本其实蛮高的，但你问的问题特别好，因为他今天做的其实还是视频的输出。通常来说造这个人如果像老黄造成这样子的话，通常是需要研发团队配合美术团队对一个team来做这个事情。按照业界的它的成本，基本上在美国的话，找国内的最顶尖的美术团队做，基本上在10万美金左右。</p>
-<p class="transcript-line"><span class="time"><strong>[00:14:23]</strong> </span><span class="speaker"><strong>发言人1: </strong></span>十万美金一个人。对，差不多做到他们发布会的那个效果。</p>
-<p class="transcript-line"><span class="time"><strong>[00:14:27]</strong> </span><span class="speaker"><strong>发言人2: </strong></span>然后B站效果包含视频，他只包含把这个人造出来。视频如果要做，可能成本也会按秒算，这个其实在我们通常会讲3D数字人其实还是在专业级的内容生产，就还没有到每一个人都能生产这样的3D数字人，能生成这样的视频。</p>
-<p class="transcript-line"><span class="time"><strong>[00:14:45]</strong> </span><span class="speaker"><strong>发言人1: </strong></span>我记得其实每次去那个游戏的展会会感受非常明显。大家怎么去噪那个3D数字人？以前我们是让一个演员他会有很多的动作捕捉的团队。同时会有一个环，你的摄像机把你身体的每一个部位都拍，再来建模，再一步一步的把它还原出来。这是不是也经常是好莱坞使用或者游戏公司。</p>
-<p class="transcript-line"><span class="time"><strong>[00:15:10]</strong> </span><span class="speaker"><strong>发言人2: </strong></span>使用到的一种方式。对刚才讲到了专业级的人，无论是3G游戏公司，包好莱坞的evita，或者老黄这样的数字人，其实整体来说它是两趴的东西。第一啪我要把这个人照出来，像你们一般会我们叫扫描，你会有很多相机在那，那你坐在那你做各种表情，把你的人的整个的几何词的意思，实际上雕塑雕你的人的这个形象一样。然后再把人表面的，我们叫纹理，包括这个材质，把它给重建出来，然后生成这个人，包括人本身的肌肉。我们用学术化的语言来说叫建模跟绑定。第二步你让他动起来，你看到的就是身上穿一件动物的衣服，上面有各种点，旁边有很大的一圈相机能把你的动作捕捉下来来再去驱动。刚才那个造完那个人再用渲染引擎或者用离线的渲染的引擎输出视频。其实它整个过程从建模绑定造这个人，到动画让这个人动起来，再到后面输出这个人的视频。整个过程都是非常expensive.</p>
-<p class="transcript-line"><span class="time"><strong>[00:16:16]</strong> </span><span class="speaker"><strong>发言人1: </strong></span>的这一套我理解是在大模型之前的时代，好莱坞跟游戏公司经常会用到的一种方式。现在有了模型这一套，在这两个行业里面仍然是主流吗？还是说他们其实也在探索，我能不能用3D直接去生成人？</p>
-<p class="transcript-line"><span class="time"><strong>[00:16:33]</strong> </span><span class="speaker"><strong>发言人2: </strong></span>其实这个问题特别好，这就说到这个行业的一个特性。其实3D内容本身的AI化，它取决于两个事情，一个叫高质量的数据，一个是AI的算法是不是能对3D的内容做大模型。咱们今天看到了所有的影视动画公司、游戏公司，他们比较擅长的是做内容，把美术，把3D的模型做的很好，很逼真。但绝大部分这些公司应该说AI的能力基本是缺乏的。因为他走的是跟我们现在互联网公司和科技公司两条线，他两条线之间的交叉是很少的。其实他们当然也希望拥抱AI但是今天他们在这方面的能力是欠缺了。该公司当然算法能力很强，但它其实是没有数据的。但是如果说是3D的内容，首先得解决你得有大量的3D的高质量的内容，你才能做大模型，所以这是他们的目标。但其实做起来，现在对他们来说，我就是两个行业没有交叉。</p>
-<p class="transcript-line"><span class="time"><strong>[00:17:29]</strong> </span><span class="speaker"><strong>发言人1: </strong></span>就是大模型公司缺这些好莱坞制作公司的数据，然后这些好莱坞制作公司缺AI的算法。</p>
-<p class="transcript-line"><span class="time"><strong>[00:17:37]</strong> </span><span class="speaker"><strong>发言人2: </strong></span>我可以这样理解吗？是基本上是这样子。</p>
-<p class="transcript-line"><span class="time"><strong>[00:17:39]</strong> </span><span class="speaker"><strong>发言人1: </strong></span>但我看也有一些公司开始在尝试做了。你们其实我理解在这一轮AI浪潮之前，你们做这个数字人跟积累这样的数据时间也很久了。</p>
-<p class="transcript-line"><span class="time"><strong>[00:17:50]</strong> </span><span class="speaker"><strong>发言人2: </strong></span>是的，我们是18年成立的，当时最主要做的是我们为B端的公司，比如说游戏公司或者影视动画公司，或者企业想做3D的虚拟偶像的，为他们去提供3D的内容制作的那时候其实做用AI加美术一起来提升效率，提升质量。然后在这个过程中，当AI的能力也在提升，我觉得大家都要突破的一个点就是3D内容的高质量数据。你没有数据，你AI算法再怎么厉害都没法干。</p>
-<p class="transcript-line"><span class="time"><strong>[00:18:18]</strong> </span><span class="speaker"><strong>发言人1: </strong></span>对，从18年到现在是2025年，你们大概积累了多少数可以透露吗？</p>
-<p class="transcript-line"><span class="time"><strong>[00:18:23]</strong> </span><span class="speaker"><strong>发言人2: </strong></span>就像我们动画数据，我们前面是为企业服务了，后面我们就自己来做动画数据。我们现在如果将3D高质量动画数据，我们在一千多个小时左右。其实这个数据可能跟视频的数据来讲，或者文本的数据来讲是小的。但是如果你考虑到他的成本。</p>
-<p class="transcript-line"><span class="time"><strong>[00:18:42]</strong> </span><span class="speaker"><strong>发言人1: </strong></span>一条数据大概要多少的成本？</p>
-<p class="transcript-line"><span class="time"><strong>[00:18:44]</strong> </span><span class="speaker"><strong>发言人2: </strong></span>大概比如说像我们现在要的，比如高质量的人脸的动画，手势表情这些我们叫动画数据。一秒钟至少在1000人民币左。没有在国内这个一方面。当然你说成本其实还有一个点，你得找到团队已经非常强的能力，把质量做的这么高。所以整体来说它的成本，它本身的数据的量，其实是很难在短时间内积累起来的。</p>
-<p class="transcript-line"><span class="time"><strong>[00:19:09]</strong> </span><span class="speaker"><strong>发言人1: </strong></span>很有意思。所以数据是你能训练成这样的一个模型的一个核心要素。</p>
-<p class="transcript-line"><span class="time"><strong>[00:19:16]</strong> </span><span class="speaker"><strong>发言人2: </strong></span>我觉得数据是最最核心的。如果你没有数据，其他任何的研发都没法做。因为我们现在有的是3D的数据。刚才其实我们也讲，我们其实还有的是有视频的数据。</p>
-<p class="transcript-line"><span class="time"><strong>[00:19:28]</strong> </span><span class="speaker"><strong>发言人1: </strong></span>视频的数据是哪里来？</p>
-<p class="transcript-line"><span class="time"><strong>[00:19:29]</strong> </span><span class="speaker"><strong>发言人2: </strong></span>举个例子你。现在在网上看到了有人在走路也好，有人在跟人交流也好。这个就是纯粹的视频的数据，它是没有3D信息的。但是另外3D的数据，其实我们现在开始把两者融合起来去做模型的训练。</p>
-<p class="transcript-line"><span class="time"><strong>[00:19:44]</strong> </span><span class="speaker"><strong>发言人1: </strong></span>OK有意思，你为什么当时会选3D数字人这个领域？</p>
-<p class="transcript-line"><span class="time"><strong>[00:19:50]</strong> </span><span class="speaker"><strong>发言人2: </strong></span>我是2000年去卡梅读博士，当时在机器人研究所我就做的是这个方向。当时的我的博士论文就做的是怎么能够创建一个可交互的3D数字人，怎么用AI去做动画。我们那个团队应该是世界上最早用AI做动画的。因为那时候也刚凑巧，运动捕捉刚刚在2000年的时候，那你有了动画数据，你就可以去做AI了。所以从那个时间点开始，我开始做3D动画。</p>
-<p class="transcript-line"><span class="time"><strong>[00:20:18]</strong> </span><span class="speaker"><strong>发言人2: </strong></span>3D数字人06年毕业去tax m当教授，其实也一直在做这个方向。那时候做动画主要在我们叫图形学。图形学专门是为影视动画公司，游戏公司这个行业服务的。所以那时候我们发了很多论文，全是关于3D数字人跟3D动画相关的。创业其实18年也是做了同样的事情，所以这个事情应该说坚持了有二十几年。当然在学校里做了还是以研究为主了。</p>
-<p class="transcript-line"><span class="time"><strong>[00:20:46]</strong> </span><span class="speaker"><strong>发言人1: </strong></span>然后我知道您的PHD的导师是Jessica hogans，他其实主要是研究人形机器人，还有3D的数字动画的。而且他的博士生导师是mac Robert，是boston dynamic的创始人，现在最有名的机器人公司，也是特别早的一家机器人公司，所以看起来整个的3D生成，它最开始的应用就是在好莱坞领域的。</p>
-<p class="transcript-line"><span class="time"><strong>[00:21:10]</strong> </span><span class="speaker"><strong>发言人2: </strong></span>我导师Jessica hodgins，他是cmo毕业的，也是卡梅八九年博士毕业的。Jessica以前是在博士的时候，他是做机器人的那时候机器人也叫人形机器人。但只有一个角是只有一个角。</p>
-<p class="transcript-line"><span class="time"><strong>[00:21:23]</strong> </span><span class="speaker"><strong>发言人1: </strong></span>为什么只有一个？</p>
-<p class="transcript-line"><span class="time"><strong>[00:21:24]</strong> </span><span class="speaker"><strong>发言人2: </strong></span>因为两个角baLance太难了。其实你也看到过现在人形姬其实在几年前，两个角的人形机还会跌倒baLance是一个非常重要的问题。他那时候做的是用物理运动控制的方式，动力学的方式控制机器人走跑跳单腿的是吧？</p>
-<p class="transcript-line"><span class="time"><strong>[00:21:39]</strong> </span><span class="speaker"><strong>发言人2: </strong></span>他毕业了以后，很奇怪，他进到的方向是到了湖心雪或动画这两个方向大家可能觉得好像没有联系。其实他当时想法是说，我在实际世界中能让机器人动起来。那我是不是用同样的方法能让虚拟世界中的3D的数字人，能让他动画能够动起来。所以他是全世界第一个用物理运动控制的方法来做数字人的动画的。</p>
-<p class="transcript-line"><span class="time"><strong>[00:22:03]</strong> </span><span class="speaker"><strong>发言人2: </strong></span>他到了他是叫georgia tag做professor，他就说我们叫做physical based simulation跟control做动画。然后他是2000年的时候又回到了卡梅当教授。在2000年动画数据慢慢有了刚才讲的运动捕捉的出现。然后他又开始我就是他在卡梅带了最早的博士，我们是那时候是最早用AID做动画，因为你有了数据了，然后他又做动画。做完了以后，后来觉得这个动画挺好的，用AI去做。那么反过来是不是还能去做robotics这个行业？</p>
-<p class="transcript-line"><span class="time"><strong>[00:22:35]</strong> </span><span class="speaker"><strong>发言人2: </strong></span>现在大家可能知道了，很多做了我就做很厉害的人，其实以前都是做动画的。比如说sgi levin，他是party的，连创始人也是德妃的教授。对，但你肯定都不知道他是在斯坦福拿了博士学位。他在斯丹佛读博士的时候就是做动画的。</p>
-<p class="transcript-line"><span class="time"><strong>[00:22:52]</strong> </span><span class="speaker"><strong>发言人2: </strong></span>他是用物理的方式，用运动控制动力学的方式来做动画。他毕业了以后说，我这种动画我也能做机器人。他后来当教授的时候就是开始做机器人。</p>
-<p class="transcript-line"><span class="time"><strong>[00:23:02]</strong> </span><span class="speaker"><strong>发言人1: </strong></span>难怪派。他们的核心思想是要解决整个机器人的大脑的问题，就是软件层的问题。他就是希望通过模型层来指挥机器人。我觉得这个跟他最开始不是从硬件研究开始的，他是用机器人去做动画，听起来是一脉相承的。</p>
-<p class="transcript-line"><span class="time"><strong>[00:23:20]</strong> </span><span class="speaker"><strong>发言人2: </strong></span>的确是的。我再给你举一个例子，我还有一个很好的朋友叫凯伦6，他现在在stanford当professor，他是同时做animation，做robotics。他以前是在georgia tech当profession，那也是做animation，做robotics。我们还有其他那个时候做animation的人，后面都做robotics for robotics and animation，就这两个领域是非常相通的。</p>
-<p class="transcript-line"><span class="time"><strong>[00:23:43]</strong> </span><span class="speaker"><strong>发言人2: </strong></span>因为都是3D1个在虚拟世界，一个在物理世界，你都是要驱动人都是让机器人像现在这样的人一样能够去驱动它。为什么那时候很多人做动画？因为动画这个事情相对来说会比机器人会简单一些。因为机器人你是有个本体的，你搭个hardway就老半天。动画在三维的世界当中，你至少不需要打这个hard way。第二个点线世界，其实也受很多的限制。比如说重力，或者这个房间的限制，或者这个机器人硬件的限制，动画这个事情其实没有限制。所以那时候其实就有很多做物理的人可以去做动画。</p>
-<p class="transcript-line"><span class="time"><strong>[00:24:17]</strong> </span><span class="speaker"><strong>发言人2: </strong></span>做动画这方面也分成几派，一派是物理来做，比较有名的Jessica肯定也是了。包括我们在UBC的Michael band pan，他是我博士的committee的成员，他一直做controller，做运动控制的那时候做动画的中心其实也在卡梅凯伦里奥，他的导师叫zora propose ge，他其实是从卡梅毕业的。那个时候做物理的，整个的动画这一波人其实人很少。那个时候国内基本上没有人做动画，可能欧洲也没人做。其实在美国可能最主要就是那么两三个组了。</p>
-<p class="transcript-line"><span class="time"><strong>[00:24:50]</strong> </span><span class="speaker"><strong>发言人2: </strong></span>后面的动画有一个大的飞跃是从2000年开始的那时候最主要的原因是做动画的时候有数据了。运动捕捉把数据有了以后，这个事情其实是使得这慢慢大于分。可以用AI做。那时候比较早，现在就要强化学习。我记得最早来做动画的陪伴应该是04还是05年，就用强化学习去做动画。</p>
-<p class="transcript-line"><span class="time"><strong>[00:25:12]</strong> </span><span class="speaker"><strong>发言人2: </strong></span>其实虚拟世界跟实际世界是差不多的，它唯一的区别就是实际世界中你有硬件的限制。但底层的方法其实很类似我们在讲小脑做的事情，动作的规划，运动的控制。这个流派到现在动画的人也有在做，robotics也有在做。如果到现在最新东西出来，我们叫VLA视觉语言动作模型，这是一个新的讲的是大脑。但小脑这个事情其实在动画跟机器人是蛮类似的。</p>
-<p class="transcript-line"><span class="time"><strong>[00:25:42]</strong> </span><span class="speaker"><strong>发言人1: </strong></span>很有意思。我们之前聊很多好莱坞的节目的时候，就有听众问我说，硅谷101不应该是一档技术节目？然后你们在讨论AI的时候，不是应该多聊聊技术？我就说其实好莱坞是还蛮重要的，驱动整个的科技向前发展的一层。而且很多AI技术它最开始用到的就是在电影制作上。是你们有没有想过，就比如说把你们的整个的3D数字人的产品用到更多的好莱坞造人。比如说你们公是只是用生成的这种方式，因为你们已经训练了自己的端模型，你是可以输出一个数字人的模型的。其实底层的技术你就有了，就可以去把一个不太动的演员让他活动起来。</p>
-<p class="transcript-line"><span class="time"><strong>[00:26:28]</strong> </span><span class="speaker"><strong>发言人1: </strong></span>我觉得这可能是对整个好莱坞的一次降维打击。就是我们刚刚提到了很多他们怎么去用AI技术跟机器人的技术去互相的促进跟发展的那现在听起来那一套技术已经是一个有一点点落实的技术。虽然说我们现在生成效果还没有那么好，但是我觉得现在整个进展很惊艳。</p>
-<p class="transcript-line"><span class="time"><strong>[00:26:48]</strong> </span><span class="speaker"><strong>发言人2: </strong></span>是的，其实你刚才讲到一个非常重要的点。当我们讲一项技术的时，然后其实这里面有几个关键的点。一个是它的质量，好莱坞质量可能最高的再往下是3A级游戏，再往下可能是我们在生活中有一些，如果说交互做的比较简单的。第二个是就是我们在讲的成本。第三个事情，其实又讲到了它的应用场景在哪里。</p>
-<p class="transcript-line"><span class="time"><strong>[00:27:10]</strong> </span><span class="speaker"><strong>发言人2: </strong></span>如果你要做好莱坞这个方向，fiddy它质量可能是特别重要。因为它可以等100个小时或200个小时，或花更多的钱去等你的高质量。但是在实时交互里面，他可能是说我今天我等不了你那么多时间，我就要马上能看到这个结果，能够给他交互。我在质量上可能不一定要像好莱坞那么高的质量。</p>
-<p class="transcript-line"><span class="time"><strong>[00:27:29]</strong> </span><span class="speaker"><strong>发言人1: </strong></span>但是可以做好莱坞的IP的衍生。</p>
-<p class="transcript-line"><span class="time"><strong>[00:27:31]</strong> </span><span class="speaker"><strong>发言人2: </strong></span>对，衍生品肯定可以。但是如果好莱坞要做，这方面也可以做。你需要更高质量的3D的数据来做这个AI的大模型。这块东西在我们自己在行进路径上，我们可能更先后的顺序。我对于我们自己来说，可能先是到日常生活中，比如说交互服务陪伴这道游戏。这到好莱坞。因为难度来说，其实好莱坞如果要做那个，那你的难度是很高，因为你的质量也很高。但能生产这个高质量数据的人，全世界可能就没几个。</p>
-<p class="transcript-line"><span class="time"><strong>[00:28:04]</strong> </span><span class="speaker"><strong>发言人1: </strong></span>正好是在我们采访前几天，我看好莱坞他们已经造了一个叫telly norwood的女演员。这个女演员她是完全由AI生成的。但是如果你去follow她的ins，她其实看起来跟真人就非常的像。他每天也会自己喝咖啡，也有自拍照，然后也有自己的生活。如果你只看他的社交媒体，你是很难区别它是一个真实的演员，还是一个数字造出来的演员的。像这种技术，以你们的平台，比如说开发者再接一个你们的API可以做到吗？还是说他需要更多的其他的方向的辅助。</p>
-<p class="transcript-line"><span class="time"><strong>[00:28:43]</strong> </span><span class="speaker"><strong>发言人2: </strong></span>他的现在的做法其实还是我们PGC的制作的方式，它还是它其实是纹身视频，它是纹身视频的方式。</p>
-<p class="transcript-line"><span class="time"><strong>[00:28:49]</strong> </span><span class="speaker"><strong>发言人1: </strong></span>对，但你们如果来做降维打击。</p>
-<p class="transcript-line"><span class="time"><strong>[00:28:52]</strong> </span><span class="speaker"><strong>发言人2: </strong></span>对，但是这里面有一个点是在元宇宙比较火的过程中，其实美国有一个虚拟virtual idol叫。亏了他在ins上可能有个一两百万的粉丝，他可能比今天你刚才讲到的T里老五的粉丝要多很多很多。刚开始大家都不知道他是个虚拟的偶像，所以我们今天在讲这个方式，其实在讲更多社媒运营怎么能生产这种专业的内容，去打造一个人设。但这里面有一个特别要注意的一个点，咱们今天在纹身视频的过程中，因为你不能保证每次生成的视频是百分之准确的，但他可以有时间。因为他如果要每天post一张picture的话或一段视频的话，他每天可以我生成100段，从中挑一个就可以了。如果是在这样的情况下，如果你要去做real time是不可以的那我们反过来再来看我们现在这套技术，如果post到。</p>
-<p class="transcript-line"><span class="time"><strong>[00:29:43]</strong> </span><span class="speaker"><strong>发言人1: </strong></span>比如说他要开一个现场演唱会。</p>
-<p class="transcript-line"><span class="time"><strong>[00:29:45]</strong> </span><span class="speaker"><strong>发言人2: </strong></span>当然是可以做的。纹身视频有一个好处，因为它是基于视频来训练的。你觉得这个真实感好真，虽然可能有一些物理上有人说会不准确，那我们现在采取了3D的方式做的时候，其实我们可能不是想做的跟现实界的那个真实感一模一样的。我们其实还是在于这个交互性上。</p>
-<p class="transcript-line"><span class="time"><strong>[00:30:06]</strong> </span><span class="speaker"><strong>发言人1: </strong></span>了解就是他更有一个实时性。如果是要实时性，他在训练上他要最侧重的是什么呢？</p>
-<p class="transcript-line"><span class="time"><strong>[00:30:14]</strong> </span><span class="speaker"><strong>发言人2: </strong></span>实时性里面我觉得它的核心的点，我们一直在讲这个latency，这个时间。比如说文本书的延迟是特别重要。如果你的时间要take，比如说十分钟、一分钟或者30秒或者一秒钟，我们基本上我们现在做到是500毫秒到600毫秒之间。如果说你是纹身视频的，他就没有这个需求，等个五分钟可以，等个十分钟可以。还有一个你部署的时候也很重要。因为你是个实时交互的一个用户，在跟他沟通交流的时候，很有可能我同时有100个用户或1000个用户，1万个用户给这个3D的AI数字人在做交互。那如果说每一个人生成的内容都可以不一样给交互，那如果你的成本很高，如果同时有1000个人你要乘个1000倍这个成本。</p>
-<p class="transcript-line"><span class="time"><strong>[00:30:55]</strong> </span><span class="speaker"><strong>发言人1: </strong></span>就是1000个用户跟同一个数字人交沪，那它可能就是一个高并发的场景的。所以你在后面就是要去做额外的服务器的部署。</p>
-<p class="transcript-line"><span class="time"><strong>[00:31:08]</strong> </span><span class="speaker"><strong>发言人2: </strong></span>这一类是如果说你今天成本又很高，延时又很长，那根本是没有可能做了。</p>
-<p class="transcript-line"><span class="time"><strong>[00:31:13]</strong> </span><span class="speaker"><strong>发言人1: </strong></span>对问一个稍稍有一点敏感的问题，你可以选择答不答。那你们现在整个的API接口放出去，我相信他肯定有一个基础的接入成本。你觉得他是能赚钱的吗？</p>
-<p class="transcript-line"><span class="time"><strong>[00:31:24]</strong> </span><span class="speaker"><strong>发言人2: </strong></span>这肯定的。因为我们在真正的发布这个平台之前，因为我们已经有B端客户了。你国内做AI公司，你得商业上这个账得算的过来，除非你是字节、阿里、腾讯是吧？所以在这里面就很核心的一个点，也是我们在过去的半年里面一个最大的突破。</p>
-<p class="transcript-line"><span class="time"><strong>[00:31:44]</strong> </span><span class="speaker"><strong>发言人2: </strong></span>从我们的交互能力也好，API也好，半年前其实我们已经做好了。但是我们那时候成本很高，就是刚才讲到服务一个人的成本。当时要一张显卡基本上是两三万。所以那时有很多很多的B端的客户进来说，你这个东西能不能让我用一下？然后一问我们这个价格是这个人就不用了。</p>
-<p class="transcript-line"><span class="time"><strong>[00:32:07]</strong> </span><span class="speaker"><strong>发言人1: </strong></span>所以这个成本是怎么降下来的？</p>
-<p class="transcript-line"><span class="time"><strong>[00:32:09]</strong> </span><span class="speaker"><strong>发言人2: </strong></span>因为我们是3D的内容，3D内容有一个特别重要的。所有的影视动画公司，游戏公司逃出去一定得有渲染引擎跟结算的引擎。</p>
-<p class="transcript-line"><span class="time"><strong>[00:32:18]</strong> </span><span class="speaker"><strong>发言人1: </strong></span>这个我太懂了，因为我们做视频渲染真的是太耗时间了。</p>
-<p class="transcript-line"><span class="time"><strong>[00:32:23]</strong> </span><span class="speaker"><strong>发言人2: </strong></span>对对对，如果你3D的内容如果要支持实时每一路一张显卡，就是为了做3D的渲染跟结算。那么我们用的可能最好的引擎叫unreal但成本放在那那我们当时一直在想，如果说我没有把这个成本这张显卡给干掉，我们在谈应用，真正的让大家都用。比如说在刚才讲的展厅里的大屏也好，手机上也好，pad上或电视机上根本不可能。其实我以前是觉得解决不了的，但技术有的时候就是很奇怪，忽然想到了一个方法。我们非常幸运，把渲染跟解算用AI做好好了，不需要渲染引擎，不需要渲染引擎所需要的这个显卡。我们看在非常便宜的端上，可能一两百块、两三百块钱的这个芯片上，我就可以做渲染跟解散。</p>
-<p class="transcript-line"><span class="time"><strong>[00:33:11]</strong> </span><span class="speaker"><strong>发言人1: </strong></span>所以你用AI的方式端到端的模型解决了渲染的问题。</p>
-<p class="transcript-line"><span class="time"><strong>[00:33:16]</strong> </span><span class="speaker"><strong>发言人2: </strong></span>渲染问题只是其中的一个。前面还有一个问题是说，从文本生成3D的动画表情所需要的参数跟语音，其实你要通过渲染跟结算的方式才能做的那以前需要显卡，实际上我们是两趴了，我们就要分成这个模型了。第一趴是解决的是文本到语音到3D的表情动作姿态。第二趴通过3D的动作表情姿态的参数输入，让输出了它对应的实时的视频。这样使得我们就成本就比语音的生成的成本还低。</p>
-<p class="transcript-line"><span class="time"><strong>[00:33:47]</strong> </span><span class="speaker"><strong>发言人1: </strong></span>那你觉得如果你能做到这件事情，把整个渲染的成本大幅降低，这次的整个的生成式AI技术对unreal这些游戏引擎公司会是一次冲击吗？对NVIDIA它可能就是一个左手跟右手的关系，他那一部分失去的看。</p>
-<p class="transcript-line"><span class="time"><strong>[00:34:03]</strong> </span><span class="speaker"><strong>发言人2: </strong></span>因为对游戏公司来说更多的是个机会。不一定是对unreal是个特别好的事情，但对游戏公司，因为每个游戏公司今天特别你3G游戏你去run的时候，你一定stay云端，有显卡或者在手机上你得有算力比较强，不然手机也经常很热，你玩的时候，所以这个事情对于游戏公司来说可能是一个好事。对于渲染跟解算引擎所需要的，将来是不是用AI的方式就可以把这个事情给解决掉。不需要引擎，你不需要填卡就可以玩游戏了。那游戏肯定是到时候也开始l one或者将来真的有原因做的时候，那大家在这个虚拟世界中的时候，它的成本就会很低。</p>
-<p class="transcript-line"><span class="time"><strong>[00:34:42]</strong> </span><span class="speaker"><strong>发言人1: </strong></span>也许那你觉得现在用AI的方式去解决渲染的问题，它的解决质量跟原有的游戏公司的渲染的质量大概到了一个什么样样的进度位。</p>
-<p class="transcript-line"><span class="time"><strong>[00:34:54]</strong> </span><span class="speaker"><strong>发言人2: </strong></span>对于我们这个特定的应用场景基本上是一样的。因为我们在做这个事情的，你的收入的训数据就是用最高质量的游戏引擎渲染的。然后你只是有大量的数据同时去逼近跟原先用游戏引擎的效果而已。把我们自己做了side by side comparison，就左边是用游戏引擎，右边是用AI没有一个人能看出来左边跟右边自己的区别。</p>
-<p class="transcript-line"><span class="time"><strong>[00:35:18]</strong> </span><span class="speaker"><strong>发言人1: </strong></span>这个非常的颠覆。</p>
-<p class="transcript-line"><span class="time"><strong>[00:35:20]</strong> </span><span class="speaker"><strong>发言人2: </strong></span>这个对于我们来说是个非常。特别是我们今天说我们希望把3D树人放到每一个终端，每一个屏幕，他就是一个最重要的事情。也许我们从技术上，我们说纹身3D的多模态的这个大模型我们能做。但是你真的要部署下去的时候，low cost这个事情他就是一个最最重要的问题。</p>
-<p class="transcript-line"><span class="time"><strong>[00:35:41]</strong> </span><span class="speaker"><strong>发言人1: </strong></span>对于游戏公司自己，他们也有很多的游戏人物，他们也需要大量的渲染，然后他们也需要很多的卡。</p>
-<p class="transcript-line"><span class="time"><strong>[00:35:47]</strong> </span><span class="speaker"><strong>发言人2: </strong></span>对他可以预渲染，其实还是需要卡，或者叫游戏引擎。就像我们生成训练数据不一样。或者大家今天看到，比如说做计算智能机器人，你要采集很多数据，但采集完了训练完了以后，你就这个数据就在实时。比如说在机器人去抓东西的时候，你就只是记模型去做而已，你就不需要这个数据了。</p>
-<p class="transcript-line"><span class="time"><strong>[00:36:08]</strong> </span><span class="speaker"><strong>发言人1: </strong></span>所以他们还是模式不一样，他们对实时性的要求没有那么高。就是游戏公司的AI渲染的问题。</p>
-<p class="transcript-line"><span class="time"><strong>[00:36:15]</strong> </span><span class="speaker"><strong>发言人2: </strong></span>游戏公司的AI渲染，我觉得将来也一定会走向到最后。实时玩游戏的时候，不一定要真正的游戏引擎。我认为最后可能只有大模型这种端的，能够针对某个特定游戏，某个特定应用场景的这样的一个AI的渲染引擎就可以做了。也许这个渲染引擎会比咱们今天用游戏引擎更用解算渲染的方法可能更便宜。</p>
-<p class="transcript-line"><span class="time"><strong>[00:36:37]</strong> </span><span class="speaker"><strong>发言人1: </strong></span>为什么这样？我听下来觉得unreal跟APP games是如果不赶紧更新是有点危险。</p>
-<p class="transcript-line"><span class="time"><strong>[00:36:43]</strong> </span><span class="speaker"><strong>发言人2: </strong></span>是的，但前面训练数据还是要从他们那获得，但实施的时候就不一定需要他们。其实你看到真的，他有很多训练数据就是用游戏引擎生产出来的。当你他生成视频的时候，他现在说我用3D的这种感觉，你可以跟他交互，那时候他其实不需要用心情了。</p>
-<p class="transcript-line"><span class="time"><strong>[00:37:02]</strong> </span><span class="speaker"><strong>发言人1: </strong></span>你觉得现在如果接入你们的这一部分开发者，他可以现在用这套3D数字人的平台去做一些什么样的事情？他的场景有哪些呢？</p>
-<p class="transcript-line"><span class="time"><strong>[00:37:11]</strong> </span><span class="speaker"><strong>发言人2: </strong></span>我觉得这是一个非常好的问题。我们真正在做这个平台的过程中，其实我们已经有很多客户合作过或者是找过我们。我们自己会看到了一个最最重要的应用。因为现在大家可能在国内，大家慢慢已经大模型了。将来有一天可能大模型会出现在各种终端，在你的手机tablet PC或者在你的线下大屏，或者我们现在有很多小的全息屏放在桌子上的办的。假如说大模型在出现是终端了，你怎么跟他交互？你交互难道今天还是在文本框里打字吗？或者用语音跟他说话，对着空气讲话一样。</p>
-<p class="transcript-line"><span class="time"><strong>[00:37:47]</strong> </span><span class="speaker"><strong>发言人1: </strong></span>我现在觉得打字的效率太低了。就是很多时候尤其是在一些突发跟实时的场景下，可能是我越来越依赖默契了，来不及。</p>
-<p class="transcript-line"><span class="time"><strong>[00:37:56]</strong> </span><span class="speaker"><strong>发言人2: </strong></span>是的，是这样子。有一个非常有名的心理学家，70年的时候有一个发现说人与人之间的沟通交流可能百分之五六十是视觉信号。语音信号占34%，语言这个信号可能占7%。</p>
-<p class="transcript-line"><span class="time"><strong>[00:38:11]</strong> </span><span class="speaker"><strong>发言人2: </strong></span>踩在交流的过程中。所以我们一个最大的应用场景，今天在后续的就是我们想把我们的3D数字人能跟用户交流的。通过语音、动作、表情、姿态，就是让他到每一个屏幕上去。从非常大的这种显示屏或展厅的屏幕，到电视机的屏幕上，再到电脑、手机、车机，到最后的mini的全息屏当。你跟他交流的过程中，其实你就像跟人交流一样。</p>
-<p class="transcript-line"><span class="time"><strong>[00:38:39]</strong> </span><span class="speaker"><strong>发言人1: </strong></span>有一个有意思的点是，大家现在看到大模型它的交互从文本到文本的输出，文本到图片的输出。我觉得这个全部是在ChatGPT发布的时候。我们可以说OpenAI定义了它的交互方式。但是其实我们看到现在整个OpenAI也在升级这一套的交互方式。所以你觉得未来的交互方式，它可能就是一个数字人对数字人的这样的一个交互，就是像人跟人之间的交互一样，而不应该是一个文本对语音或者文本对视频的这样的一个交互。</p>
-<p class="transcript-line"><span class="time"><strong>[00:39:11]</strong> </span><span class="speaker"><strong>发言人2: </strong></span>是我觉得将来咱们人跟机器或人跟屏幕的交互，一定是人跟人之间的交互一样。今天全GPT刚才讲到了，他们其实做了多模态到文本的，也做了文本到视频，文本到图片。</p>
-<p class="transcript-line"><span class="time"><strong>[00:39:25]</strong> </span><span class="speaker"><strong>发言人1: </strong></span>就差把这两个串起来。</p>
-<p class="transcript-line"><span class="time"><strong>[00:39:26]</strong> </span><span class="speaker"><strong>发言人2: </strong></span>但他没有文本到多模态表达，如加上了多模态到文本，这两边串起来就是完全就像我们现实生活中一样。我看到你的表情，听到你的说话，我自己知道要说什么。然后同时我有表情、动作、声音。</p>
-<p class="transcript-line"><span class="time"><strong>[00:39:39]</strong> </span><span class="speaker"><strong>发言人1: </strong></span>每个人都要渲染一个自己的模型吗？</p>
-<p class="transcript-line"><span class="time"><strong>[00:39:42]</strong> </span><span class="speaker"><strong>发言人2: </strong></span>我觉得将来每个人可能会有一个分身，至少我觉得企业来说，他肯定会有统一的一个形象。比如说我是做customer service的，所有的用户他们企业的都知道，这个是这个企业的customer的service.</p>
-<p class="transcript-line"><span class="time"><strong>[00:39:54]</strong> </span><span class="speaker"><strong>发言人1: </strong></span>或者他是一个品牌方虚拟人的。</p>
-<p class="transcript-line"><span class="time"><strong>[00:39:57]</strong> </span><span class="speaker"><strong>发言人2: </strong></span>对对对，个人肯定也会有个人，我们叫个人的分身。大家跟你沟通交流，比如说红军，你可能对于某方面非常专业，那你是个专家，你将来肯定会有一个你自己的分身。你休息的时候你同样可以跟别人去沟通交流，提供你的反馈等等等等。</p>
-<p class="transcript-line"><span class="time"><strong>[00:40:15]</strong> </span><span class="speaker"><strong>发言人1: </strong></span>如果我们把你们现在的模型放在一起综合去看这个能力的话，你觉得他最强的一点是什么？就比如说我们自己现在在看到很多的2D的视频渲染的时候，我觉得最大的一个痛点在前几年可能是这个口型对不上，他有一种虚假感，或者眼神他很空洞。那你觉得现在你们的这个3D数字人在应用到不同行业的时候，大家最大的痛点是什么？</p>
-<p class="transcript-line"><span class="time"><strong>[00:40:42]</strong> </span><span class="speaker"><strong>发言人2: </strong></span>你们是怎么解决的？我觉得这个问题非常好。我们自己在跟客户沟通交流的时候，我们说到的feedback永远是几个问题。第一个问题就是你提到的质量好吧。一个是他的语音、动作、表情，他的唇形是不是自然，是不是像真人一样。然后另外一个事情就是延时，我跟他聊的时候，是不是我说一句话他等5秒钟才回来，我肯定没有这个耐心了。</p>
-<p class="transcript-line"><span class="time"><strong>[00:41:06]</strong> </span><span class="speaker"><strong>发言人2: </strong></span>第三个事情，其实他们非常关心他的成本。如果非常expensive，基本上从客户的角度，因为他是要考虑这个RY的体验是提升了是吧？但是如果这个付出的成本很高，对他来说他也不一定愿意去做。</p>
-<p class="transcript-line"><span class="time"><strong>[00:41:20]</strong> </span><span class="speaker"><strong>发言人2: </strong></span>所以我们从整个的核心的点来说，这三个问题是我们真正在落地，我们要规模化的过程中，我们叫3座大山。如果还有一个点，可能是说我们要想这个聚生智能数字人能够到多终端。无论是说大屏上、小屏上，手机APP支持并发。这里面可能牵扯到不同的操作系统，不同的芯片的算力。</p>
-<p class="transcript-line"><span class="time"><strong>[00:41:42]</strong> </span><span class="speaker"><strong>发言人2: </strong></span>我们解决这个问题的方式，质量跟延时最主要用的是我们的大模型提升它的能力。质量这个事情当训练数据是最重要。如果你的动画的训练数据，这个人3D人的质量很差，你就根本做不好。然后另外它就是大模型本身的能力，你能不能通过文本去生成语音表情动作，包括唇形能不能让它匹配。同时我还能从文本里面提取一些情绪，比如说他笑或者打个招呼，它能够自动生成这些关键的意图，包括你的TTS语音生成是不是也是有情绪的那这个事情其实牵扯到大模型怎么能够让他的能力能够产生高质量的输出。</p>
-<p class="transcript-line"><span class="time"><strong>[00:42:21]</strong> </span><span class="speaker"><strong>发言人1: </strong></span>对，像语音生成它也是有情绪的这种你们怎么考虑？你们自己做这一块儿，还是说直接调用大模型。</p>
-<p class="transcript-line"><span class="time"><strong>[00:42:28]</strong> </span><span class="speaker"><strong>发言人2: </strong></span>我们这块是自己做，就是从文本生成语音跟所有的表情动作姿态是我们是就是怕输出，从文本到多模态输出全是我们自己做。</p>
-<p class="transcript-line"><span class="time"><strong>[00:42:39]</strong> </span><span class="speaker"><strong>发言人1: </strong></span>的这你们之前的数据积累，我理解其实就是外形的数据、动作的数据，表情的数据可能都有，语音的数据也是有的。</p>
-<p class="transcript-line"><span class="time"><strong>[00:42:46]</strong> </span><span class="speaker"><strong>发言人2: </strong></span>我们都一样有的，对，一样有。我们自己其实是有一个studio，里面可以采集各种的动作表情数据，同时我们就有自己的studio去录制这个最高质量的语音数据。因为有的时候，比如说我跟你交流的过程中，我的语音跟我的表情动作是匹配的。我同时要把这个数据同时录下来，而不是说我今天语音归语音，动作归表情。所以你录的时候这个数据就是要语音跟诚信是。</p>
-<p class="transcript-line"><span class="time"><strong>[00:43:13]</strong> </span><span class="speaker"><strong>发言人1: </strong></span>在一起的那你怎么考虑哪些环节自己做，哪些环节接模型？因为我觉得现在整个语音的应用，包括模型在语音层的进化已经做的非常好了。也有很多语音的开源模型跟接口出来，是我们。</p>
-<p class="transcript-line"><span class="time"><strong>[00:43:28]</strong> </span><span class="speaker"><strong>发言人2: </strong></span>现在对于文本去生成语音动作表情这一趴，我们自己一定会自己做。因为我们现在这个特定的应用场景，其实在现在的很多的语音的场景是没有的。举个非常简单的例子，我们在销售陪练的时候，我需要有一个医生是某一种风格的。或者我今天在做陪伴的时候，他可能是一个某一种特定人设，我们叫小奶狗。比如说举个例子，他的声音是特别的。所以你如果只是去调用别人的声音，没有去匹配他的人设，我们很多场是做不了的。</p>
-<p class="transcript-line"><span class="time"><strong>[00:44:01]</strong> </span><span class="speaker"><strong>发言人1: </strong></span>所以你们会针对一些特定的场景去做一些特定的声音训练。比如说有哪些场景。</p>
-<p class="transcript-line"><span class="time"><strong>[00:44:07]</strong> </span><span class="speaker"><strong>发言人2: </strong></span>我们现在做了一份B端给C端了。B端里面可能会有不同的。比如说我做customer service的，他的说话的声音或者我们现在做教练，比如说我是一个销售的培训的教练，或者我是面试官，这些其实是B端都会有一些不一样。有些可能要求专业，有些可能是稍微能够有一些严谨的。</p>
-<p class="transcript-line"><span class="time"><strong>[00:44:28]</strong> </span><span class="speaker"><strong>发言人2: </strong></span>到C端可能更会diverse一些。比如说今天是做陪伴的，可能会有卡通形象的陪伴，他的声音可能像小孩一样萌萌的对，所以我们在这一块，因为很多的现在已有的TTS它的应用场景没有像我们diverse。我们自己在整个做下来一个感觉是说，如果你用通用的，其实很多时候进到垂直场景是不行的。你一定要做自己，因为你不能等着他帮你来做，我们就像一套套模板一样。客户如果有文本大模型了以后，我们就直接调用我的整个纹身的多模态这趴就行了。或者客户说我自己有已经有语音了，我不需要你的语音也可以，你直接调用我的能力你都可以。如果你什么都没有，那我不提供。</p>
-<p class="transcript-line"><span class="time"><strong>[00:45:06]</strong> </span><span class="speaker"><strong>发言人1: </strong></span>对我们刚刚其实聊的很大的一部分都是在AI的技术，如何去做虚拟的世界。反过来，你们现在训练的这个模型，它可以去操控机器人吗？</p>
-<p class="transcript-line"><span class="time"><strong>[00:45:18]</strong> </span><span class="speaker"><strong>发言人2: </strong></span>你有试过吗？我们试过，我们在做所有3D数字人和3D动画一个很好的点就是它能够驱动机器人。比如说我是个3D素质人，能跟你交流说你问我的时候我能听懂你，然后我知道用什么样的语音生成语音动作、表情跟姿态。对一个机器人来说，我可以同样用这套东西去驱动它。机器人也可以做实时的语音动作、手势。只是现在机器人没有脸部，所以它表情表现不出来。</p>
-<p class="transcript-line"><span class="time"><strong>[00:45:46]</strong> </span><span class="speaker"><strong>发言人1: </strong></span>是他没有脸部的肌肉。</p>
-<p class="transcript-line"><span class="time"><strong>[00:45:47]</strong> </span><span class="speaker"><strong>发言人2: </strong></span>对，因为现在机器人就是个蓝领。尖锐机器人如果说陪伴，如果是做白领的工作，比如说他是个销售，他是个老师，他可能也需要表情。首先我知道这个机器人，比如说我跟你交流的时候，我的手势应该怎么动，表情应该怎么动，我的姿态应该怎么动。下一步就是说我们叫做用imitation learning，就像NVIDIA那种方法，我能够去做仿真，直接能够拿驱动跟你做交流。</p>
-<p class="transcript-line"><span class="time"><strong>[00:46:11]</strong> </span><span class="speaker"><strong>发言人1: </strong></span>太有意思了。然后你们现在在真实的应用中，就比如说你现在用你的这个模型的数据接到机器人上去，你觉得对他的哪一部分的提高最大？因为我们可能说机器人是没有表情的，对不对？然后他的手势是可以动的，你可以同时驱动手跟脚吗？还是只能驱动上半身？我们我们可以你们可以同时驱动手跟脚脚。</p>
-<p class="transcript-line"><span class="time"><strong>[00:46:32]</strong> </span><span class="speaker"><strong>发言人2: </strong></span>告诉你一个特别有意思的一个事情，国内现在比如说我们合作的过程中，因为我们生产的是从脸手，包括腿部的动作其实全有。现在很多机器人公司，其实他建这个机器人时候，其他的baLance还没有做那么好，就使得我给了他这个动作。他可能也是用强化学习这家simulation去做。因为我们提供了API给他们了以后，他们在这方面可能如果做的特别好的，那可能也能够驱动起来。因为上次真其实有很多的动作，就是它有一定的泛化性。但其实这个事情我觉得其实没有那么的难，就像我们爬楼梯也一样，我的动作能够通过我们的能力能够生产出来。那我就在simulation环境里面加上强化学习，让他能够去复制这个动作。</p>
-<p class="transcript-line"><span class="time"><strong>[00:47:16]</strong> </span><span class="speaker"><strong>发言人1: </strong></span>一点问题都没有。所以机器人的平衡问题是我们收集的这些3D人的3D数据，他只是动作姿态的，但是他并没有力的反馈。然后你只要加入到力这一点是就可能会出现平衡的问题。</p>
-<p class="transcript-line"><span class="time"><strong>[00:47:33]</strong> </span><span class="speaker"><strong>发言人2: </strong></span>摔跤的问题，我觉得你好专业。</p>
-<p class="transcript-line"><span class="time"><strong>[00:47:36]</strong> </span><span class="speaker"><strong>发言人1: </strong></span>没有我在在尝试理解。</p>
-<p class="transcript-line"><span class="time"><strong>[00:47:38]</strong> </span><span class="speaker"><strong>发言人2: </strong></span>这里面是两个核心的点，就是说你要驱动一个机器人，一个叫做运动学，我们叫climatic s还有叫dynamics，叫动力学。第一步比如说我要抓一个杯子，我首先知道我抓杯子手应该它的pose，它的姿态，应该怎么动去抓它。第二个事情，动力学其实解决的是我要用多少的力能够按照我想的那个路径，那个姿态去抓这个事情。所以我们先做acx，但很多时候叫做运动规划，做motion planning也是做这个事情的那一般来说两者之间可以结合起来。</p>
-<p class="transcript-line"><span class="time"><strong>[00:48:09]</strong> </span><span class="speaker"><strong>发言人1: </strong></span>所以我理解其实机器人公司在寻求合作的时候，他两个都是需要第一个可能他们自己现在如果从零起步做一家基层公司，他最缺的就是数据。然后你们有数据的模型就已经训练好了。是对。</p>
-<p class="transcript-line"><span class="time"><strong>[00:48:23]</strong> </span><span class="speaker"><strong>发言人2: </strong></span>因为我们聚焦是交互。从我们平台的角度来说，下一步我们今年也会发布一个3D动作的大模型。比如说他可以爬楼梯，或者你今天直接给他说，你往前走五步趴在地上，然后再爬起来再跑，它就能自动能生产出来3D的动作的数据。这个动作数据当然可以用来做机器人整个的训练了，因为他今天要去捕捉。其实这个数据有的时候如果我们有这样的动作大模型了以后，他也不一定要捕捉，因为你捕捉也是获取这样的数据而已。</p>
-<p class="transcript-line"><span class="time"><strong>[00:48:52]</strong> </span><span class="speaker"><strong>发言人1: </strong></span>了解，因为我看波士顿动力的机器人，就是这种爬楼梯旋转半箱子都已经做的非常的成熟了。但是他们其实我理解他是在大模型公司还没有出来之前，这家公司在机器人领域就已经研发了很多年。他用了各种的方式去做。你现在其实是用AI的模型再去驱动的这一套就是爬楼梯的动作。你觉得这两者之间我们看到机器人表现的是同样的技术，爬楼梯，但是他的技术路径是完全不一样的。</p>
-<p class="transcript-line"><span class="time"><strong>[00:49:22]</strong> </span><span class="speaker"><strong>发言人2: </strong></span>还是说我觉得你刚刚讲到一个很有意思的点，就是波士顿动力他以前能做爬楼梯。但是有一个点我想指出，就说他以前爬楼梯的时候，他的泛化能力并不强。比如说你给他不同的楼梯高度是不一样的，它不一定每一栋楼梯都能爬得很好。对，因为他给你秀demo的时候，永远给你绣的是问题。对对对，所以这里面有一个特别重要的一，我们叫泛化行。</p>
-<p class="transcript-line"><span class="time"><strong>[00:49:45]</strong> </span><span class="speaker"><strong>发言人2: </strong></span>我相信今天做人形机器人或者机器人的大家都会讲到，我的数据生成了以后，我能不能做我数据里做不到的事情。这个里面就非常重要，就是说爬楼梯。每个楼梯其实有一个高度，有多少层楼梯，包括楼梯本身的摩擦力多少，你看它系数是多少，这个其实都是一些叫泛化的参数。今天你有没有能力，今天说给你任何个楼梯你都能爬的特别稳。另外是不是你能给我说，我能控制他爬的快一点，爬的慢一点。</p>
-<p class="transcript-line"><span class="time"><strong>[00:50:13]</strong> </span><span class="speaker"><strong>发言人2: </strong></span>这个事情其实在今天来说，我觉得还是一个难的问题。其实也是来自于数据。假设说你今天有所有的数据，比如爬各种楼梯的这个高度的那不同的快慢的那我今天去做这个事情其实也没有那么的难。我们如果现在做了一个核心的点，我们说在虚拟世界里面，包括我们后面要发布的3D动画的大模型，其实也是要来生产出动画的数据。让他爬楼梯，所有东西都见过了。</p>
-<p class="transcript-line"><span class="time"><strong>[00:50:39]</strong> </span><span class="speaker"><strong>发言人1: </strong></span>太有意思了。所以你们其实也是在做机器人人动作的泛化性。</p>
-<p class="transcript-line"><span class="time"><strong>[00:50:43]</strong> </span><span class="speaker"><strong>发言人2: </strong></span>你看一种机器人动作的泛化性，我们也在做数字人动作的泛化性，其实这两个是一样的。</p>
-<p class="transcript-line"><span class="time"><strong>[00:50:49]</strong> </span><span class="speaker"><strong>发言人1: </strong></span>你觉得用AI的方式去做机器人，就是AI跟机器人它又经过了哪些变迁呢？就像你说的，可能最开始大家还没有想到要用AI的方式去做机器人，后来又开始在AI中加入了强化学习去做机器人。</p>
-<p class="transcript-line"><span class="time"><strong>[00:51:03]</strong> </span><span class="speaker"><strong>发言人2: </strong></span>最早的时候AI机器人这个方向很难，特别是对于人形机器人，我们叫ipad，就是两只脚要他最难的问题是平衡。另外一个问题就抓取，那个时候做人形机器人，最主要是在日本有一段时间很火烘的叫阿萨姆。那时候工程师要调一个他走路的动作，你都不知道后面有多少工程师在调这个参数，我们叫是叫控制器，怎么用这个力去控制它，让它在不同的表面上能够像人一样走路。这个参数而且也没那么稳定，如果你把平面稍微改一改，可能就跌倒了。Learning的东西，AI的东西其实是不多的那时候就做控制器。</p>
-<p class="transcript-line"><span class="time"><strong>[00:51:40]</strong> </span><span class="speaker"><strong>发言人1: </strong></span>所以早期机器人的发展，它其实主要是控制，就是为了让你的机器人不跌倒。</p>
-<p class="transcript-line"><span class="time"><strong>[00:51:44]</strong> </span><span class="speaker"><strong>发言人2: </strong></span>然后不跌倒baLance。如果它能走，不跌倒太了不起了。那时候后面大家说光这么走不行，你能不能有一定的泛化能力？我走路的时候能不能在不同的平面，不同的表面，或者你的走路的速度都能够不一样。这个事情如果你没有用AI的方法做，你基本上不可能做的。</p>
-<p class="transcript-line"><span class="time"><strong>[00:52:03]</strong> </span><span class="speaker"><strong>发言人1: </strong></span>你觉得现在的机器人跟你当时学机器人的时候，20年前进化有多少？</p>
-<p class="transcript-line"><span class="time"><strong>[00:52:09]</strong> </span><span class="speaker"><strong>发言人2: </strong></span>我的进化还是蛮大的，就是以前让一个机器有两只脚的能够跑走跑跳，觉得这个是好难。但你先看到国内很多做人形的公司，运动会拿个遥控器控制它还是能走的，跑也能跑，大部分的问题是能解决了。那在这个事情在20年前基本不可能，它的baLance平衡太难了。</p>
-<p class="transcript-line"><span class="time"><strong>[00:52:29]</strong> </span><span class="speaker"><strong>发言人1: </strong></span>但它是通过远程操控的方式。</p>
-<p class="transcript-line"><span class="time"><strong>[00:52:31]</strong> </span><span class="speaker"><strong>发言人2: </strong></span>对，就是通过远程操这种方式，他还是要解决我说的刚才的动力学控制那个问题。我觉得控制这个事情，如果你有视觉语言动作大模型，那他就不需要那个遥控器了当我们的小脑控制这个事情，让他走的跌倒这个事情其实蛮难的。所以但是现在的进步就是说一方面是data另一方面就是强化学习。那么positive lation这样的环境下一卑劣，这就是技术的进步能力。开放出来了以后，大家都在这个simulation环境都能做，你发现其实也没有那么的难了。</p>
-<p class="transcript-line"><span class="time"><strong>[00:53:02]</strong> </span><span class="speaker"><strong>发言人1: </strong></span>是的，机器人走路不摔倒，这个是现在一个做机器人的公司普遍能达到的水平，还是说只有头部几家公司能达到。</p>
-<p class="transcript-line"><span class="time"><strong>[00:53:12]</strong> </span><span class="speaker"><strong>发言人2: </strong></span>对于稍微OK的团队，我觉得是没什么问题，就已经都解决了。但是有一个点就是你的泛化到底有多强。</p>
-<p class="transcript-line"><span class="time"><strong>[00:53:18]</strong> </span><span class="speaker"><strong>发言人1: </strong></span>你指的走路不摔倒是在他们日常的训练中特定的场景。对走路会摔倒。</p>
-<p class="transcript-line"><span class="time"><strong>[00:53:23]</strong> </span><span class="speaker"><strong>发言人2: </strong></span>如果新的场景保不定还是会摔倒。</p>
-<p class="transcript-line"><span class="time"><strong>[00:53:27]</strong> </span><span class="speaker"><strong>发言人1: </strong></span>那你觉得现在这个世界上能让机器人走路不摔倒，在部分场景中实现的公司有多少？</p>
-<p class="transcript-line"><span class="time"><strong>[00:53:35]</strong> </span><span class="speaker"><strong>发言人2: </strong></span>如果说完全不摔倒，在新的应用场景其实蛮难的。我不知道现在有吗？能够做到泛化能力很强，他们很鲁棒会跌倒。其实基于我的认知来说，可能现在还没有。如果有，那我可能要学习一下。我觉得真的就爬楼梯这么一个事情，我今天就可以设置任何爬楼梯的，他肯定以前见过。我不相信今天世界上有任何一个人形机器人公司能够做到。</p>
-<p class="transcript-line"><span class="time"><strong>[00:54:00]</strong> </span><span class="speaker"><strong>发言人1: </strong></span>所以我们其实只是解决了在平面走的问题。</p>
-<p class="transcript-line"><span class="time"><strong>[00:54:03]</strong> </span><span class="speaker"><strong>发言人2: </strong></span>那个在特定特定场景的一个在特定的场景下，包括你现在看还有一个事情是grasping，就抓东西抓取。在我们那个时候比较早的时候，用人心手去抓东西其实不多的。包括机器人在整个的业界你去看，很多时候它是个吸盘，比这个东西我吸它就行了。但你现在可能很多人可以做抓取，像人形手一样，比如说拿筷子夹东西，那这个事情其实也是一个非常难的问题，还是要大脑和小脑的。大脑首先得看到这个东西，我应该怎么去抓他。到后面用小脑真正去控制你的筷子去夹它，我觉得这个事情也非常难。今天你现在看到的都是demo而已，我认为真正在一个特定的应用场景下，稍微有一点点泛化性。但是如果把它再往外延一些泛花，今天来说还是很难。</p>
-<p class="transcript-line"><span class="time"><strong>[00:54:51]</strong> </span><span class="speaker"><strong>发言人1: </strong></span>我们10月5号的这个活动你也去了，然后我们现场其实是有机器人给大家开可乐的。头一天他们在彩排的时候，中间我就放了一瓶可乐上去，我说我也要试这个，放完以后他说你得把可乐转一个方向，他说那个环要对着他的手指，如果你不把环对准的话，那个机器人他的手的灵活度还很难去把他那个转一个方向打开。</p>
-<p class="transcript-line"><span class="time"><strong>[00:55:17]</strong> </span><span class="speaker"><strong>发言人2: </strong></span>是真的，你这个还是在一个特定的环境，他已经布置好了，你更不要说他进入家庭。在这个家庭的环境中，更是各种各样灯光，包括神做限制，那就更难。所以我觉得这条路只是说大家亲眼看到了大脑，这我们叫VAOA这个模有可能可以去解决这个问题，但是不是百分之百能解决。其实也没有人知道如果可以解决，到底要多少的数据才能达到一定的泛化能力，一定鲁邦性去解决。大家只是觉得相信scaling law，相信大模型，相信有一天能够解决。但这里面的挑战是很大。</p>
-<p class="transcript-line"><span class="time"><strong>[00:55:52]</strong> </span><span class="speaker"><strong>发言人1: </strong></span>是。所以从你的角度，你觉得现在世界上最好的机器人公司是谁？为什么？</p>
-<p class="transcript-line"><span class="time"><strong>[00:55:57]</strong> </span><span class="speaker"><strong>发言人2: </strong></span>我觉得是这样，做机器人它有不同的流派，有做本体的，比如说有做硬件的，有做小脑的，也有做大脑的。我自己觉得还说不到有多好，因为多好有不同的定义。你今天在做研究，你这条路已经有一些promising results，是还是说你今天已经落地了。也许你今天这条路感觉看上去很有希望，因为最后发现你这条路是死的，你暂时领先并不是最终的领先。那你现在国内其实有不同的流派，像语速可能做的是机身本体加小脑。</p>
-<p class="transcript-line"><span class="time"><strong>[00:56:28]</strong> </span><span class="speaker"><strong>发言人1: </strong></span>他不做大脑。大脑是指什么？</p>
-<p class="transcript-line"><span class="time"><strong>[00:56:30]</strong> </span><span class="speaker"><strong>发言人2: </strong></span>小脑大脑就是说先做BOA叠衣服这种。小脑就是说你要爬个楼梯，跳个舞、跑个步，在这一块里面有做本体的，有做控制的。就是控制我们叫小脑，就是运动规划、运动控制、动力学整个这一套。还有做大脑的。</p>
-<p class="transcript-line"><span class="time"><strong>[00:56:45]</strong> </span><span class="speaker"><strong>发言人2: </strong></span>我觉得至少我现在还没有已经看到了曙光了，可能我比较悲观。他可能也会像任何其他领域，比如说无论是vrar也好，还是AI领域，也会有起起落落。因为这是robotics的第一波浪潮，无人其实也有起起落落，当然从长期的角度来说，那肯定是promising的那从短期来说。</p>
-<p class="transcript-line"><span class="time"><strong>[00:57:06]</strong> </span><span class="speaker"><strong>发言人1: </strong></span>可能还是有很多挑战。你觉得机器人模型要达到GPT30克需要多久？</p>
-<p class="transcript-line"><span class="time"><strong>[00:57:11]</strong> </span><span class="speaker"><strong>发言人2: </strong></span>这个其实我没有那么强的经验和认知，我觉得今天的数据要泛化能力至少要很长一段时间。今天我看到的这些还没有让我非常clear的能够判断两年或者三年。但我觉得十年可能后来这个问题可能能解决，十年是很长的时间了。</p>
-<p class="transcript-line"><span class="time"><strong>[00:57:30]</strong> </span><span class="speaker"><strong>发言人1: </strong></span>所以这也是为什么你们公司在做的时候，其实你没有直接去选我去切机器人这个赛道。反而是说我们把3D跟机器人的交叉的领域。</p>
-<p class="transcript-line"><span class="time"><strong>[00:57:41]</strong> </span><span class="speaker"><strong>发言人2: </strong></span>数字世界里的3D我们如果3D数字人在数字世界里，在we are space或在屏幕上能跟人像人与人之间交流，也是在这个数字世界里能我抓取东西，能走路，能爬楼梯。那本身在数字线已经很有用了。它已经可以有real world application，也可以有商业的落地的。</p>
-<p class="transcript-line"><span class="time"><strong>[00:58:00]</strong> </span><span class="speaker"><strong>发言人2: </strong></span>反过来，如果这些做了以后，对做robotics来说也是一个很有有价值的。因为我们在讲小脑这个事情的时候，你的控制运动学动力学你先得知道怎么动，然后再去决定用强化学，是用怎么样的力让他能够去做这个事情。我觉得做research它是一个今天robotics是一个非常好的方向，因为有太多的东西可以尝试了。如果从商业化的角度来说，我自己觉得其实挑战蛮多的。如果你要商业化落地，至少从人形机器人的话，我觉得白领可能会比蓝领更快。是是是。</p>
-<p class="transcript-line"><span class="time"><strong>[00:58:34]</strong> </span><span class="speaker"><strong>发言人1: </strong></span>你刚刚提到在数字世界里面，它可能也会涉及到一些力的反馈。会有比如说好莱坞动画里面，我们把一个苹果一个南瓜甩过去，它变成一个南瓜酱，它怎么炸开？那个就是物理。</p>
-<p class="transcript-line"><span class="time"><strong>[00:58:46]</strong> </span><span class="speaker"><strong>发言人2: </strong></span>其实物理还有一个人，比如说你是个数字人或3D的角色，你从二层楼跳到一层楼，那你跳下去的时候，你跟地面之间的整个的反馈怎么滚动，一定要满足物理。我们这个大模型的动画如果生成了以后，它本身就可以用物理的方式让它在虚拟世界中去仿真它。同样的方式其实也可以在虚拟实中用强化学习的方式去生成这个控制器。同样的方式我可以在实际世界中这么做，本身的逻辑是很通的。</p>
-<p class="transcript-line"><span class="time"><strong>[00:59:17]</strong> </span><span class="speaker"><strong>发言人1: </strong></span>但我有一个问题，如果我们把动画世界里的数据收集来学习，我知道一个人从楼梯上掉下去以后怎么弹，怎么滚的。但是我不知道为什么，我也不知道这个里面有多少地，但是就是看见了这些现象，然后用这些现象跟这些数据去训练出一个大模型，它能反馈，能模拟，我们还是不知道力是多少。就是我们说skin落跟所有的大模型都是黑盒模型。但是我们再把这个场景拉回到现实里面来，我们要去让一个机器人砸到一个东西或者拿到一个东西。这个力我不知道现在在现实数据中是不是就是要反复调控跟算出来的，所以他就必须有这个力的数据。我觉得人他真正在现实生活中，我们去举一个杯子，我们也不需要去计算它的力。这就是我们的一个经验习惯，就是我们有这样的一个感知就好了。</p>
-<p class="transcript-line"><span class="time"><strong>[01:00:09]</strong> </span><span class="speaker"><strong>发言人1: </strong></span>这是我总体的意思。大概就是过去整个机器人它的研究，包括它的力学的反馈，还是在用白盒的方式去做。但是整个模型在用黑盒跟一套更加经验主义的方式去做。</p>
-<p class="transcript-line"><span class="time"><strong>[01:00:22]</strong> </span><span class="speaker"><strong>发言人2: </strong></span>就是为什么我们觉得现在在已有的方式上做的时候，到真正你要泛化到一个实际世界中去抓取过这种东西的时候，它的挑战会非常大。因为它的泛化里面的东西太多。就是我们今天讲整个的过程中，你在选力的控制的函数。</p>
-<p class="transcript-line"><span class="time"><strong>[01:00:37]</strong> </span><span class="speaker"><strong>发言人1: </strong></span>以前的方式是要自己算的吗？</p>
-<p class="transcript-line"><span class="time"><strong>[01:00:39]</strong> </span><span class="speaker"><strong>发言人2: </strong></span>或者一个一个的自己。对，现在就是用强化学习的方式。</p>
-<p class="transcript-line"><span class="time"><strong>[01:00:41]</strong> </span><span class="speaker"><strong>发言人1: </strong></span>现在用强化学习就是大家不需要知道为什么。</p>
-<p class="transcript-line"><span class="time"><strong>[01:00:44]</strong> </span><span class="speaker"><strong>发言人2: </strong></span>我只要有足够多的数据跟他reward，他就慢慢就能够做。但这个问题是说我抓杯子是我很小的一个例子，这个世界上有多少？所以我就说这个事情就是他希望将来有一个制作的大模型。我足够多的数据了以后，大家能够去一个特定的场景，我能去调优这个模型，能够在这个环境里能把它慢慢把它做好。但其实是很难。你像我们学会抓东西，我们学会走路、跑步，我们花了多长时间。</p>
-<p class="transcript-line"><span class="time"><strong>[01:01:11]</strong> </span><span class="speaker"><strong>发言人1: </strong></span>是的，我自己听下来，就是我对机器人领域这一波最大的进展。我是觉得整个研究的方式，它从白盒模型的研究变成了黑盒模型的研究。从我们必须知道每一个细节它的受力点是多少，靠这种计算跟一个细节调配的方式的研究，变成了我们一个端到端的模型输出。我们不知道里面是怎么运作的，但是它可以是的。</p>
-<p class="transcript-line"><span class="time"><strong>[01:01:36]</strong> </span><span class="speaker"><strong>发言人2: </strong></span>我们在讲强化学习的时候就在讲这个事情，这是一个最大的点。就是以前的时候那套东西就是更多的显示的。比如说我要去抓这个东西，我大概知道要什么利息预先算好。不是说我在这过程中，我根据实际世界的情况，表面的第一次抓的时候的感受，我能够持续去调整他一定是我的方向。在后面这条路来说，那一定是打开了。</p>
-<p class="transcript-line"><span class="time"><strong>[01:01:59]</strong> </span><span class="speaker"><strong>发言人2: </strong></span>以前对机器人来说，觉得怎么做感觉也好像也没有希望，那种感觉好难，那种方法一定是不能skill up的。但今天其实大家为什么觉得，虽然我对一个外行来说，我自己会觉得很难。你说是三年还是五年，但是从长期的角度来说是有希望的这套方法它在大语言模型也好，在其他方向上也好，其实已经展示了他的一个能力。如果在机器人这个方向上，如果你有足够多的数据，是有可能能解决这个问题的。它的天花板就是大家能看到，也是有可能有一天能做到。我们真的像大家想象的一样，机器人能干各种各样的活，在各种复杂的场景里面。那中间是不是在这过程中会遇到大家想象不到的问题，会还会遇到低谷。其实我不知道。</p>
-<p class="transcript-line"><span class="time"><strong>[01:02:45]</strong> </span><span class="speaker"><strong>发言人1: </strong></span>看起来现在是一个大家刚找到一条新的路的那个兴奋感的时候，但是它的结果是不是能收，是不是一直能看到效果？是这可能就是中间起起落落的过程。是是的是的是的是的，对，好，谢谢柴教。</p>
-<p class="transcript-line"><span class="time"><strong>[01:03:00]</strong> </span><span class="speaker"><strong>发言人2: </strong></span>好，谢谢。</p>
-<p class="transcript-line"><span class="time"><strong>[01:03:03]</strong> </span><span class="speaker"><strong>发言人1: </strong></span>好的，这就是我们今天的节目。很可惜，今天我们在录制的时候是播客不是视频。所以其实很难去实时的展示跟感受一下这个3D数字人的效果。也希望未来我们视频可以出一个呈现的数字人给大家看看感受一下。所以如果大家对比如说像三弟的AI数字人到底可以用于哪些好玩的领域，去做一些哪些好玩的事情，有更多的想法，欢迎给我们写评论，多多交流。</p>
-<p class="transcript-line"><span class="time"><strong>[01:03:33]</strong> </span><span class="speaker"><strong>发言人1: </strong></span>我们的播客听众可以在小宇宙、苹果播客、spotify上来收听订阅我们。如果大家想看字幕版，也可以在youtube或者哔哩哔哩上来订阅我们。未来我们也会推出我们的news letter，在硅谷举办一些线下活动。如果大家对我们的线下活动感兴趣，可以在我们的show note里面订阅我们的news letter。我是红军，感谢大家的收听。</p>]]></content:encoded>
-            <pubDate>Fri, 24 Oct 2025 00:00:00 GMT</pubDate>
-            <guid>68fac1c986851368ebb8a1b4</guid>
         </item>
     </channel>
 </rss>
