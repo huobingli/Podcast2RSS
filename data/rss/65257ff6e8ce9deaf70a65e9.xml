@@ -4,7 +4,165 @@
         <title>人民公园说AI</title>
         <link>https://www.xiaoyuzhoufm.com/podcast/65257ff6e8ce9deaf70a65e9</link>
         <description>如有干货，纯属巧合</description>
-        <lastBuildDate>Sat, 16 May 2026 05:14:59 +0800</lastBuildDate>
+        <lastBuildDate>Thu, 28 May 2026 06:03:29 +0800</lastBuildDate>
+        <item>
+            <title>大神出山！Karpathy为何加入Anthropic？马斯克强力22万卡助攻，这波Anthropic赢麻了？</title>
+            <link>https://www.xiaoyuzhoufm.com/episode/6a146d6e8b5c94538eb2dfb9</link>
+            <description>连李飞飞的得意门生、OpenAI联合创始人Karpathy都跟不上现在的AI发展了？在狂卷后训练的2026，为何预训练又成了决定生死的硬骨头？这位传奇的技术大神到底看到了什么？这期节目我们彻底把卡帕西、马斯克与奥特曼恩怨情仇给扒了个底朝天～。
+00:00 强如大神Karpathy也焦虑？
+02:30 预训练和后训练倒挂到底是怎么回事？
+03:45 Karpathy擅长的合成数据！？
+06:30 去Claude独立干活能算实现AGI吗？
+08:10 离开顶级实验室的技术宅就废了？
+11:00 DeepMind掌门人悄悄投了Anthropic是何居心？
+14:15 这波联A抗O谁在扮演冤大头？
+16:00 DeepSeek和川总访华...
+21:30 SpaceX变身算力倒爷，马斯克变太空黄仁勋
+22:50 喜报：把早晚报塞进电报小程序是什么体验？
+【订阅 JustSayAI 早晚报】
+🌈 新朋友！订阅「JustSayAI 早晚报」· 每日两封 · 一键听报
+🌟 老朋友！加入会员获取 JustSayAI 早晚报+深度研报+文字专栏
+【关注频道】
+▶️Youtube｜ 📺B 站｜ 📕小红书｜ 🎵抖音｜ 📻Podcast
+📱 商务合作/听友群：justsayai666</description>
+            <content:encoded><![CDATA[<div class="episode-summary">
+<h3>内容摘要</h3>
+<h3>主题概述</h3>
+<p>本期节目围绕AI大神安德烈·卡帕西（Andrej Karpathy）加入Anthropic的消息展开。三位播客主播（自称“内参会”）以闲聊方式，串联起卡帕西的职业生涯、AI行业预训练与后训练技术趋势、马斯克与Anthropic的算力博弈、以及OpenAI、谷歌、xAI等多方势力的资本与人才流动。核心议题包括：卡帕西为何在此时选择加入Anthropic？他“跟不上AI发展”的焦虑是否真实？Anthropic如何凭借算力和资本从OpenAI手中夺走人才？以及马斯克在其中的角色。</p>
+<h3>关键要点</h3>
+<ol>
+<li><strong>卡帕西的焦虑是真实的</strong>：卡帕西本人多次公开表示“跟不上现在的AI发展”，即使他是OpenAI早期联合创始人、特斯拉Autopilot负责人、李飞飞学生。主播强调：“他至少脱离一线快两年了，两年时间都已经搞四代”（指大模型迭代速度）。脱离顶极实验室太久，认知假设会失效，这是技术人员的普遍焦虑。</li>
+<li><strong>预训练与后训练比例倒挂，现在可能又要倒回来</strong>：过去一段时间，行业更注重后训练（如Agent优化），因为大模型能力已够用，只需微调。但卡帕西加入Anthropic目的是带队搞预训练，意味着行业可能重新重视底层模型能力的提升。主播指出：“现在数据不够了，很多数据现实中不存在或拿不到”，卡帕西的特长正是合成数据（在特斯拉大量使用）。</li>
+<li><strong>卡帕西的合成数据经验是关键资产</strong>：他在特斯拉用合成数据解决自动驾驶场景问题，知道如何“像做配方一样”组装数据来提升模型智能。Anthropic近期通过控股传统企业获取行业数据，加上卡帕西的经验，可以突破数据瓶颈。</li>
+<li><strong>Anthropic的算力得到了马斯克和谷歌的双重锁定</strong>：马斯克的xAI向Anthropic供应算力，合同签到2029年，每月收款12.5亿美元（“一个月顶他去年一年收入”）。谷歌Cloud也锁定了约2000亿美元的算力消耗。主播调侃：“谷歌AI掌门人哈萨米斯是Anthropic的早期投资人，难怪谷歌编程这么拉胯，还被Anthropic忽悠了那么多算力过去。”</li>
+<li><strong>卡帕西加入Anthropic的动机：技术理想+财务自由</strong>：Anthropic估值已从8000亿飙升到可能2万亿美元，且即将IPO。卡帕西在OpenAI的股权不如伊利亚（首席科学家），错过了暴富机会。现在加入Anthropic，既能做自己擅长的预训练和数据合成，又能赶上上市红利——“快上市了，赶紧拿点股票”。</li>
+<li><strong>马斯克可能是卡帕西加入Anthropic的推手</strong>：主播严重怀疑：“卡帕西去Anthropic，可是马斯克撞上去的。”因为马斯克和卡帕西关系好（马斯克称其为“long lost friend”），但马斯克无法给卡帕西xAI的股票，转而推荐他加入与自己利益绑定的Anthropic。此外，xAI创始团队全跑了，算力囤着也是浪费，“租出去划算”。</li>
+<li><strong>Anthropic正形成“连横抗曹”格局</strong>：目前OpenAI走下坡路，谷歌、马斯克等对手纷纷扶持Anthropic，局面类似“连吴抗曹”。谷歌不仅投资算力，哈萨米斯本人还是早期天使投资人；马斯克则通过SpaceX转卖算力给Anthropic，直接拉动SpaceX估值（2万亿美金）。主播总结：“要人有人，要粮有粮，要钱有钱。”</li>
+</ol>
+<h3>独家细节</h3>
+<ol>
+<li><strong>程序员对“空窗期”的焦虑共鸣</strong>：主播调侃“强如卡帕西也没办法跟HR解释我那几年空窗期干嘛”，意指卡帕西gap year创业（做AI教育项目）后回归大厂，面临和普通程序员一样的空窗期尴尬。“可能面试腾讯都过不了了。”</li>
+<li><strong>谷歌CEO与Anthropic CEO挤在单人沙发上的名场面</strong>：世界经济大会上，哈萨米斯和Anthropic CEO达里奥挤在一张单人沙发上热聊，而达里奥与奥特曼则“手都不碰”。直到哈萨米斯是早期投资人的消息曝光，大家才恍然大悟。</li>
+<li><strong>马斯克算力合同的“90天反悔规则”</strong>：虽然签约到2029年，但条款允许提前90天反悔并支付违约金。主播认为这是马斯克留的后路：“他在资本市场已经变现了就可以了，后面应收不一定收得到。”</li>
+<li><strong>xAI创始团队集体跑路</strong>：马斯克的xAI联合创始人十几人全跑了，原因可能是“我做个毛线，算力算了”——自己模型跟不上，屯的算力却天天烧钱，不如租给Anthropic。</li>
+<li><strong>卡帕西的“卧龙凤雏”心理</strong>：主播猜测卡帕西一直等“三顾茅庐”，结果没人来找他。最后只能自己主动承认能力不足，“转了一圈之后，发现自己的能力不足，不足以支撑起了我的理想，还是要回到一个大的系统里面。”</li>
+</ol>
+</div>
+<hr/>
+<p class="transcript-line"><span class="time"><strong>[00:00:00]</strong> </span><span class="speaker"><strong>发言人1: </strong></span>强如卡帕西也没办法跟HR解释我那几年空窗期干嘛。</p>
+<p class="transcript-line"><span class="time"><strong>[00:00:03]</strong> </span><span class="speaker"><strong>发言人2: </strong></span>我的gap year干嘛去了。对我而言是有点意外。他是说他跟不上现在的AI发展。</p>
+<p class="transcript-line"><span class="time"><strong>[00:00:08]</strong> </span><span class="speaker"><strong>发言人1: </strong></span>我靠他都跟不上，对他都跟不上。大家最近的目标都是干的open，你们全部都要扶持我老大哥马斯克，老大哥都在扶持。</p>
+<p class="transcript-line"><span class="time"><strong>[00:00:16]</strong> </span><span class="speaker"><strong>发言人2: </strong></span>SO不管那个老大哥谷歌的AI长辈帕萨米斯，他是s robic早期投资人，是不是？</p>
+<p class="transcript-line"><span class="time"><strong>[00:00:22]</strong> </span><span class="speaker"><strong>发言人1: </strong></span>原来马斯克是要做太空的黄人勋，现在SC一个月不给他钱，顶他去年一年的收入，我都严重怀疑，卡帕西去SOP的是马斯克，叫他去。</p>
+<p class="transcript-line"><span class="time"><strong>[00:00:41]</strong> </span><span class="speaker"><strong>发言人1: </strong></span>主要是如果有经常听我们早晚报的朋友就会发现说，我们早晚报里面有个角色叫卡帕东，对吧？所以这个主要是我们个人对卡帕西的偏爱。对，所以老兄你帮跟我们梳理一下卡帕西入职这个s topic的事情。</p>
+<p class="transcript-line"><span class="time"><strong>[00:00:58]</strong> </span><span class="speaker"><strong>发言人2: </strong></span>我看了一些新闻，第一感觉就是妙妙就是妙。为什么呢？是因为他其实提了好多次，他是说他跟不上现在的AI发展的。</p>
+<p class="transcript-line"><span class="time"><strong>[00:01:06]</strong> </span><span class="speaker"><strong>发言人1: </strong></span>他一直在讲他，我靠他都跟不上。</p>
+<p class="transcript-line"><span class="time"><strong>[00:01:08]</strong> </span><span class="speaker"><strong>发言人2: </strong></span>对他都跟不上。你想想他是什么人，你要是从了那么多什么open I特斯拉这种地方，实际干都是实际干出来的，又什么李飞飞的学生。</p>
+<p class="transcript-line"><span class="time"><strong>[00:01:17]</strong> </span><span class="speaker"><strong>发言人1: </strong></span>我靠，那我不焦虑，是我有病。</p>
+<p class="transcript-line"><span class="time"><strong>[00:01:20]</strong> </span><span class="speaker"><strong>发言人2: </strong></span>结果他都跟不上，他就他他三四个月前他就说他已经跟不上了，就这么个情况，我要回大厂了。所以这个时候就是我觉得说出现的时候他去加入SO pic，那这个时候我觉得说很合理的地方就是agents就是代理的东西。虽然说都很花也很很厉害的样子。不管哪一家现在肯定都在说我的agency agent多么厉害。但是他再厉害，其实从核心上来讲，我们工程上来看，他还是在做软装更多一点，软装修更多一点。但是这个硬装就是底层或者框架这个东西，你还是得靠这个大模型底层的这些预训练以及后训练这些两个很重要的环节，就是你的这些东西的。他这一次其实也很明确的说，去的就是搞那个预训练的团队。</p>
+<p class="transcript-line"><span class="time"><strong>[00:02:07]</strong> </span><span class="speaker"><strong>发言人1: </strong></span>这个我就觉得很奇怪，因为按道理来讲，现在的这个预训练跟后训练的比例已经倒挂了，对吧？你之前还有说这个五五分，那现在可能就是28。</p>
+<p class="transcript-line"><span class="time"><strong>[00:02:18]</strong> </span><span class="speaker"><strong>发言人2: </strong></span>对，所以其实我是觉得恰恰有可能是。</p>
+<p class="transcript-line"><span class="time"><strong>[00:02:22]</strong> </span><span class="speaker"><strong>发言人1: </strong></span>现在又要倒挂回来。</p>
+<p class="transcript-line"><span class="time"><strong>[00:02:23]</strong> </span><span class="speaker"><strong>发言人2: </strong></span>为什么前面一段时间为什么会倒挂？是因为大模型能力还不错，大家是用用大模型套到那个agent里面去。然后会发现说把它从够用变成好用的时候，你就优化agent就行了。你大模型可以慢一点，也在优化，但是优化的带来的效果更好。</p>
+<p class="transcript-line"><span class="time"><strong>[00:02:42]</strong> </span><span class="speaker"><strong>发言人1: </strong></span>就简单的先搞后续搞。</p>
+<p class="transcript-line"><span class="time"><strong>[00:02:44]</strong> </span><span class="speaker"><strong>发言人2: </strong></span>对我就是说滴水果实，预训练跟后续训练反正都是很耗资源的，尤其是预训练。而且很多数据也不够了，这之前都讲过了好多次的问题，数据不够，很多case都只在那些专业的领域里面会拿不到那些数据。</p>
+<p class="transcript-line"><span class="time"><strong>[00:02:58]</strong> </span><span class="speaker"><strong>发言人1: </strong></span>那问题就是说现在要到挂回来，但是数据还是那些数据，用完了该用完了就用完了。</p>
+<p class="transcript-line"><span class="time"><strong>[00:03:04]</strong> </span><span class="speaker"><strong>发言人2: </strong></span>那怎么搞呢？所以这个里面又有一个跟卡哇伊背景很相关的一件事情。他是17年就离开了open I open I的早期的那个那个之一，特斯拉的早期他是公寓是吧？对，也是，他是open I的那个早期的那个cofounder的那个队伍里面。对，反正就是这样的。然后他离开了以后，但是二三和24年有在短期又回了open s就是两年前两年多前那两年多前我们大概想得到是什么时候就二进宫对吧？对，二进宫那个时候就刚好应该是第不是一个横空出世前的那一段时间，24年年初，他那段时间主要在搞的就是跟预训练相关的，就是有中间的训练，还有很多的合成数据。它的合成数据其实很强，因为在特斯拉要做大量的合成数据。</p>
+<p class="transcript-line"><span class="time"><strong>[00:03:46]</strong> </span><span class="speaker"><strong>发言人1: </strong></span>你这么讲就通了。对，应该是遇到了不不是说只是数据脏的问题。</p>
+<p class="transcript-line"><span class="time"><strong>[00:03:51]</strong> </span><span class="speaker"><strong>发言人2: </strong></span>还有很多数据不存在，或者说你不够太少了。那他要有非常优质的这种，我们叫做什么，就可以像是做配方一样，就像是不是做配方一样。他知道一些怎么去组一些数据来再提升你这个大模型的智能。但是这些数据不够，就是现实中可能很多数据已经没有了。对，还有就是在专有的这个领域里面，你也拿不到。是啊我会突然想到我们前两周刚讲的，不是SOPC也搞了一个合资公司合资公司，合资公司是而且是用那种直接是控股的那些PE就是那些跟私募搞各种私募公司，他们是直接控股那些传统企业或者相关企业。</p>
+<p class="transcript-line"><span class="time"><strong>[00:04:28]</strong> </span><span class="speaker"><strong>发言人1: </strong></span>就逼你就是一步到位AI化就是我。</p>
+<p class="transcript-line"><span class="time"><strong>[00:04:30]</strong> </span><span class="speaker"><strong>发言人2: </strong></span>指着你干你必须得干嘛，因为他是直接具有投票权的，然后你必须执行。其实我会觉得说可能有些行业数据在现在至少加入SR pi k是拿得到的。</p>
+<p class="transcript-line"><span class="time"><strong>[00:04:40]</strong> </span><span class="speaker"><strong>发言人3: </strong></span>但是我就觉得感觉好奇，他为什么就这个时候选择加入这个A设呢？这里面是有没有什么私人怨，还是说就是我肮脏的想，还是说他觉得现在这个时候，这个风头正劲的正是authorial。可以在那儿拿到更好的期权，未来的话价值更高的。但是动机是什么呢？</p>
+<p class="transcript-line"><span class="time"><strong>[00:04:58]</strong> </span><span class="speaker"><strong>发言人2: </strong></span>我动机我是觉得作为一个技术人员，你说的这一点肯定是重要的一个点。就是直接加入etho pic，大概率下半身估计以财富为自由没问题的。因为有个很实际的事情，我们虽然说他17年就在OpenAI，但是芬I的人才还是非常多的。就是说他不可能像伊利亚那样，我们最近不是看伊利亚跟马斯克他们打官司，他出来说他离开了open NI对他手上的OpenAI的股权的话，价值几十亿美金是都离开了，都还有那么多钱。但是他毕竟是当时相当于技术的一号位，首席科学家。然后andy就是卡巴西这边的话还是属于更偏工程化具体落地这块的。所以我相信肯定不是完全不是一个量级的股权。从技术上来讲，作为一个技术刚好能够踩到说是我想做的，而且还能挣大钱，那这件事肯定必须去做。</p>
+<p class="transcript-line"><span class="time"><strong>[00:05:50]</strong> </span><span class="speaker"><strong>发言人1: </strong></span>快上市了，就赶紧拿点股票，对吧？</p>
+<p class="transcript-line"><span class="time"><strong>[00:05:53]</strong> </span><span class="speaker"><strong>发言人2: </strong></span>今年这个时候就马上就要上市了。而且你看我刚才说他他去加入他是带着cloud去加速这个模型的迭代。这个事情其实应该有会有一个跨世纪的一个作用，就是大家一直在讲每次训练一个新模型要花多少的卡，多少的这个店，多少的人力物力。然后这些东西的话，因为都是人在干嘛，那肯定是很低很耗资源的那如果说他以他的擅长的预训练中训练，然后数据合成这些事情。那这些事情的话，如果能再带着cloud，带着他跑，一定的。就像我们刚才说，他给了大家开源了一个简单的能够自我迭代的研究员助理。这个东西能够带着cloud，能把cloud做成一个比较可靠的研究员助理，不要说把它做成说真的可以独立干活的研究员助理，那已经AGI直接干出来了。</p>
+<p class="transcript-line"><span class="time"><strong>[00:06:44]</strong> </span><span class="speaker"><strong>发言人1: </strong></span>没有，主要就是说去公司上班，也不花自己的钱买显卡对吧？也不花自己的钱烧token对吧？然后那个研究项目跟公司方向好像又有一些可以结合的，我干嘛不去，对吧？</p>
+<p class="transcript-line"><span class="time"><strong>[00:06:58]</strong> </span><span class="speaker"><strong>发言人2: </strong></span>对对对。</p>
+<p class="transcript-line"><span class="time"><strong>[00:06:58]</strong> </span><span class="speaker"><strong>发言人1: </strong></span>这种班为什么不上？</p>
+<p class="transcript-line"><span class="time"><strong>[00:07:00]</strong> </span><span class="speaker"><strong>发言人3: </strong></span>但是但是我记得他当时二次离开这个OpenAI的时候，是自己考创业去了，对吧？他去搞一个教育项目去了。对，那现在他这又回到这个，不是从不能叫回到了重新加入authorial。那问题是他自己的项目还搞不搞了。</p>
+<p class="transcript-line"><span class="time"><strong>[00:07:17]</strong> </span><span class="speaker"><strong>发言人1: </strong></span>这个就是重点。你看强如卡帕西也没办法跟中国的HR解释，我那几年空窗期干嘛，我year.</p>
+<p class="transcript-line"><span class="time"><strong>[00:07:24]</strong> </span><span class="speaker"><strong>发言人2: </strong></span>干嘛去了，说都说我去创业了，但实际干嘛了对吧？而且而且你看他的表达很多次的焦虑，我觉得很是很真实的。就好像就是最近一个月还有专门一个专访去采访他，就是说最近怎么样，他已经在说他在考虑要加入一个大厂去干活了，已经在明确的讲了。其实对，就是因为他他有一个有一个很人性，最基本的就是做技术的，我们脱离那个一线不要太长时间，我们知道这边就是半年就已经一代了，他至少脱离从24年出来，就相当于脱离了快两年了。对，两年时间都已经搞四代。</p>
+<p class="transcript-line"><span class="time"><strong>[00:08:03]</strong> </span><span class="speaker"><strong>发言人1: </strong></span>可能面试腾讯都过不了了。我跟你讲。</p>
+<p class="transcript-line"><span class="time"><strong>[00:08:05]</strong> </span><span class="speaker"><strong>发言人2: </strong></span>对，这种焦虑感还是真的很强的。就是我觉得这是很实际的焦虑感。就是说再离远一点，就是说你的很多的认知假设都已经错了，就是你你认为的是这样。但是这两年已经变化很大了，你不在世界的顶级实验室里面的话，你都不知道下面会是什么样子，你想象都想象不出来。因为这个东西发展太快，所以我觉得说他很现实的一个事情。如果我是他觉得说要做AI教育，那我也得教的出来，对吧？那我得交不能交个已经淘汰的那个东西，就是我的感觉。</p>
+<p class="transcript-line"><span class="time"><strong>[00:08:37]</strong> </span><span class="speaker"><strong>发言人3: </strong></span>那这件事儿是不是又打脸了？之前大家一直在说什么艺人公司？小团队，强如卡帕西自己搞个艺人公司想创业都那么难，最后还是乖乖的回到那个大厂去，谁有显卡吧？谁要上市，考虑对我觉得他肯定不会为了衣食而去考这个事儿，但谁不想多实现自己的个人价值，对吧？然后就是暗黑点想他自己可能觉得自己是卧龙凤雏，那也等得等着有人来三顾茅庐，结果我看可能。</p>
+<p class="transcript-line"><span class="time"><strong>[00:09:04]</strong> </span><span class="speaker"><strong>发言人1: </strong></span>这几年没有人来顾茅庐。</p>
+<p class="transcript-line"><span class="time"><strong>[00:09:07]</strong> </span><span class="speaker"><strong>发言人3: </strong></span>你知道我特意去查那八卦，看到那个特那个他不是在以前在特斯拉，他而且他是直接汇报给马斯克的，对吧？然后他和马斯克俩人关系还不错，就是表面上起码关系还不错。他对马斯克的评价一直都说还比较正面，马斯克在X上也经常跟他互动。还有的时候你知道吗？称呼他为什么称为long lost的friend？那意思就是我我异父异母的亲兄弟，你还不赶快回来吗？</p>
+<p class="transcript-line"><span class="time"><strong>[00:09:30]</strong> </span><span class="speaker"><strong>发言人2: </strong></span>其实很特色。</p>
+<p class="transcript-line"><span class="time"><strong>[00:09:32]</strong> </span><span class="speaker"><strong>发言人3: </strong></span>对，其实根本就是说我觉得他自己可能觉得自己是卧龙凤雏，就是普通人找？刘表找我，他肯定不能去，对吧？孙权找我也不去，我得等着我的诸葛亮能直接给我办成军师。是不是有这种感觉，我不知道，但我的感觉就是说以前这么独立的对吧？独立个性的，独立性格的一个创业者，现在又乖乖回去做这个数据预训练这块儿，要不然就是这个事儿的魅力特别大，让大到了就是我可以完全放弃自己的这个自由，回到一个大厂里面，再到一个组织。要不然就是说我自己的实现的转了一圈之后，发现自己的能力不足，不足以支撑起了我的理想。还是要回到一个大的系统里面，让这个系统平台来来构建我的力量。反正从我来看。</p>
+<p class="transcript-line"><span class="time"><strong>[00:10:11]</strong> </span><span class="speaker"><strong>发言人2: </strong></span>两个都说得通，应该两个都有，应该两个都有，因为他现在去的这个机会，我是觉得很好的。Sorry，我们上次不是也聊到像在那个一级半市场的，很吓人的。一级半市场现在跟前面跟瑞文他们聊的是吧，他不是说open I大概是就是800个B点对吧？就800个B点左右，就是8000万。然后那个SO pic已经可能干到1.11000.2万亿了完了好吓人。而且最近好像因为他的那个营收，原来大家以为是个十几倍，结果搞出了80倍的营收，80倍的增长，就是这种概念。所以他的那个市值都有人说炒到可能2万亿去了。</p>
+<p class="transcript-line"><span class="time"><strong>[00:10:48]</strong> </span><span class="speaker"><strong>发言人1: </strong></span>都有，而且他现在是资源最多，我觉得现在是最近的博弈就是做的非常好，一个是拖住了google老大哥。对不对？管你TPU好不好用，我先给你我死了对不对？然后SpaceX这边管你算不算太空，对吧？</p>
+<p class="transcript-line"><span class="time"><strong>[00:11:06]</strong> </span><span class="speaker"><strong>发言人2: </strong></span>先把你我也先锁死了，我先把你锁死了，那个是锁到29年了。</p>
+<p class="transcript-line"><span class="time"><strong>[00:11:10]</strong> </span><span class="speaker"><strong>发言人1: </strong></span>还是很牛逼的，对不对？然后你看他最近这个博弈在这里面，反正大家最近的目标都是干的OpenAI。干OpenAI的的那个后果就是你们全部都扶持我，对吧？所以现在的不google老大哥，马斯克老大哥都在扶持这个。</p>
+<p class="transcript-line"><span class="time"><strong>[00:11:25]</strong> </span><span class="speaker"><strong>发言人2: </strong></span>不光google老大哥，就连谷歌的AI掌门人。我说哈萨米斯前两天又看到说报他是SO pic早期投资人，是不是？原来他的是要早起，所以这能讲的明白。前一阵子不是什么世界经济大会，他有一个名场面，就是说那个主持人一个人坐了一个超长沙发，就一个人在那边采访他，采访那个哈萨比斯。然后哈萨比斯旁边就是坐的是SO pic的那个CEO达里奥，他们两个人起了一个非常小的沙发，这个明显就是做一个人的沙发，两个人挤在一起，然后在那边一直讲，当时大家就觉得说他们俩关系那么好。因为像s pic老大那个达里奥看到詹姆奥特曼他们俩肩肩肩并肩在一起。要这样子握不起，这样子要搞一下手都不会碰的，手都根本不碰的，然后这个就要躲起来，但是跟哈萨比斯这样蹲在一起，然后现在就会知道，原来就是至少利益上是有关系的。</p>
+<p class="transcript-line"><span class="time"><strong>[00:12:18]</strong> </span><span class="speaker"><strong>发言人1: </strong></span>而且好像真的假的问题。是啊是真的。</p>
+<p class="transcript-line"><span class="time"><strong>[00:12:21]</strong> </span><span class="speaker"><strong>发言人2: </strong></span>是真的是吗？是真的，是真的，是真的，那个有众多的媒体都有，已经报了，哈萨比斯是叫做early investor of an OPEC。对，然后他投了多少不知道，我不知道，大大不大不知道，但是至少是早期投资者。</p>
+<p class="transcript-line"><span class="time"><strong>[00:12:35]</strong> </span><span class="speaker"><strong>发言人1: </strong></span>会不会违规。</p>
+<p class="transcript-line"><span class="time"><strong>[00:12:36]</strong> </span><span class="speaker"><strong>发言人2: </strong></span>他可他好像不违规，就是特别老外的那个title讲的是totally legally，就是完全合法的。因为他是特别早期，可能有点像天使投资人那种的，就是很早的时候投的，你根本没有什么那个特点。难怪。</p>
+<p class="transcript-line"><span class="time"><strong>[00:12:51]</strong> </span><span class="speaker"><strong>发言人1: </strong></span>google的编程这么拉胯，这对吧？然后还被s pig忽悠了那么多算。</p>
+<p class="transcript-line"><span class="time"><strong>[00:12:57]</strong> </span><span class="speaker"><strong>发言人2: </strong></span>力过去就不用忽悠，就自己人先拿去用吧，就是最最先进的，你先躺一下对吧？然后我们取其精华，做个中庸一点的。我就开玩笑。</p>
+<p class="transcript-line"><span class="time"><strong>[00:13:08]</strong> </span><span class="speaker"><strong>发言人1: </strong></span>他那个是google cloud的事情，google cloud应该锁了非常多的这种算力给到s robic.</p>
+<p class="transcript-line"><span class="time"><strong>[00:13:14]</strong> </span><span class="speaker"><strong>发言人2: </strong></span>对吧？说的好像是几年两千亿的2000亿左右的消耗。</p>
+<p class="transcript-line"><span class="time"><strong>[00:13:18]</strong> </span><span class="speaker"><strong>发言人1: </strong></span>这个哈萨比斯管不了。</p>
+<p class="transcript-line"><span class="time"><strong>[00:13:20]</strong> </span><span class="speaker"><strong>发言人2: </strong></span>不是，一个是，但是所以这个就是说个人也好，谷歌的整个公司也好，确实都投了他确实是都投了SO对吧？</p>
+<p class="transcript-line"><span class="time"><strong>[00:13:29]</strong> </span><span class="speaker"><strong>发言人3: </strong></span>人家在coding这块确实是战略没有漂移，一下子把这事儿，就最早你看code x做出来的，其实是应该是coding这块的话，还是open I先做出来的，对吧？后来人际上the rope c自己把这个东西做发扬光大了，现在做到全球最领先的地步，所有人公认他的这模型最好。然后另外一方面就是这典型的连物抗曹，对不对？既然你open在当时风头正劲，估值又高，一枝独秀，大家都看你顺眼。然后突然一下你看这个马斯克跟着欧萨马斯曼打官司，对吧？然后这边的话锁定算命中心给你支持打架，这不明显的吗？就是不能让你open一人过爽了，而且现在open x走背字，所以一下子把这个什么authoritie给抬到这个空间上了。现在卡那卡帕西在加入，真的就是要人有人，要粮要粮有粮，要钱有钱。</p>
+<p class="transcript-line"><span class="time"><strong>[00:14:15]</strong> </span><span class="speaker"><strong>发言人1: </strong></span>这个是绝对不能让codex起来的，对不对？我都严重怀疑，卡帕西去s rop，可是马斯克撞上去。</p>
+<p class="transcript-line"><span class="time"><strong>[00:14:25]</strong> </span><span class="speaker"><strong>发言人2: </strong></span>原来他是霜波重建蝶。</p>
+<p class="transcript-line"><span class="time"><strong>[00:14:27]</strong> </span><span class="speaker"><strong>发言人1: </strong></span>我严重怀疑是老哥，我也没办法给你。对这老哥我也没办法给你多少space x的股票，要不你选logic。开玩笑的，我我我以上纯属瞎扯，这个各位自己判断。当然我觉得这个肯定就是一个小圈子的游戏了。对，就是还是一帮小圈子的人在这几个公司流动来流动去。</p>
+<p class="transcript-line"><span class="time"><strong>[00:14:54]</strong> </span><span class="speaker"><strong>发言人1: </strong></span>然后其实我我之前讲了很多观点，包括我们聊梁文峰什么的，我都会说我这人比较狭隘。对，确实是这样。因为我就一听到这种大公无私的事情，我的本能反应是这个有鬼对吧？有鬼，包括这种我我在我这里有很多关键词，什么AI教育了，在我这里都是敏感词，这绝对扯淡。</p>
+<p class="transcript-line"><span class="time"><strong>[00:15:16]</strong> </span><span class="speaker"><strong>发言人2: </strong></span>所以OpenAI天天被我们打的，OpenAI天天说他公益。</p>
+<p class="transcript-line"><span class="time"><strong>[00:15:20]</strong> </span><span class="speaker"><strong>发言人1: </strong></span>是啊就是天天听到这种什么开源、教育这些，我听到这些，我就反正绝对触发我的敏感词，我觉得这肯定不对。</p>
+<p class="transcript-line"><span class="time"><strong>[00:15:30]</strong> </span><span class="speaker"><strong>发言人3: </strong></span>你说到这一点，我还真有点快补充。既然咱们是内参会，对吧，咱就随便瞎说。这两天你看特朗普从中国回去了吗？然后立马中工信部今昨天还是前天发文，就是调整，就是算叫轻度调整。2026年及后半年后后面的一段时间的这个重点，然后立马就把这个人工智能这块的这个重点调整了一下，明显就是说我感觉在这之前那个deep sak出来，然后说包括上华为那个芯片这件事儿，真的是为政治而开导的。后面再怎么着对另外一个说法了。当时咱们节目里不是也谈到这种可能性吗？</p>
+<p class="transcript-line"><span class="time"><strong>[00:16:04]</strong> </span><span class="speaker"><strong>发言人1: </strong></span>我就感觉还是上面有人。</p>
+<p class="transcript-line"><span class="time"><strong>[00:16:08]</strong> </span><span class="speaker"><strong>发言人2: </strong></span>上面有高人都是高人。</p>
+<p class="transcript-line"><span class="time"><strong>[00:16:10]</strong> </span><span class="speaker"><strong>发言人1: </strong></span>我们当时聊deep sik的时候，就没办法跟特朗普访华联起来，对吧？</p>
+<p class="transcript-line"><span class="time"><strong>[00:16:15]</strong> </span><span class="speaker"><strong>发言人2: </strong></span>对对对。</p>
+<p class="transcript-line"><span class="time"><strong>[00:16:16]</strong> </span><span class="speaker"><strong>发言人1: </strong></span>但是这个事情促成了特朗普访华，拿到了一个很好的结果。</p>
+<p class="transcript-line"><span class="time"><strong>[00:16:20]</strong> </span><span class="speaker"><strong>发言人2: </strong></span>所以我经常觉得我们那个就真的是高手在民间。我们有好多听友经常会说你们这个政治太不敏感，我觉得真的是不一样。现在看他才看懂了。</p>
+<p class="transcript-line"><span class="time"><strong>[00:16:31]</strong> </span><span class="speaker"><strong>发言人1: </strong></span>对对对，观众高明。</p>
+<p class="transcript-line"><span class="time"><strong>[00:16:33]</strong> </span><span class="speaker"><strong>发言人2: </strong></span>观观众真的很高明。我就记得有观众说过我们这个事儿。</p>
+<p class="transcript-line"><span class="time"><strong>[00:16:37]</strong> </span><span class="speaker"><strong>发言人1: </strong></span>这个是，但是是这样的，就是说我们现在有很多话是不能讲的。对，就是最多就在我们小内参会会员频道讲一讲，这很多话我们现在这个也不能乱讲，就包括讲什么这个都都不能乱讲，对不对？对，但是实际上来讲的话，我是觉得说他肯定有关联，但很多事情他也不是一个必然，很多事情也是一个脆弱的平衡。</p>
+<p class="transcript-line"><span class="time"><strong>[00:17:03]</strong> </span><span class="speaker"><strong>发言人2: </strong></span>而且可能刚好说到GPC有结合最近看到的新闻，我觉得也是很有意思。就是衍生出来他们现在在大量的招harness engineering的工程师和产品经理，然后特别是产品经理，在招一个一号位的产品经理，就是可以去做好这种我们刚才说的脏活累活，agent代理的这个落地的工作，就专门去管管这个agent怎么把大模型用好这件事情。我们刚才说这个实际上是一个相对比较低垂的果实。老外可能已经卷的差不多了，现在又来又回来卷大模型了。那deep six是一直都在卷大模型的，是那他现在的话，但是他跟也很需要说最后要有合理的好的这些agent以及agent生态。然后开发者生态能够把它的DBC1个模型用下来。因为我们之前聊过了它的这个硬件的训练，预训练以及推理这些东西。现在马上看起来，今年下半年可能就全部都打通的机会还蛮大的。如果这些东西都搞定了，那其实剩下来要落地还是要搞agent的那他现在就是在大力的招agent这些人，而且薪资好像开的都挺高的，而且都只能在北京。</p>
+<p class="transcript-line"><span class="time"><strong>[00:18:06]</strong> </span><span class="speaker"><strong>发言人1: </strong></span>只能在北京，我也不知道为什么很正杰哥为什么只能在北京？你看阿里那个千问大部分一些核心的团队也在北京，他并不在杭州。</p>
+<p class="transcript-line"><span class="time"><strong>[00:18:16]</strong> </span><span class="speaker"><strong>发言人2: </strong></span>对，至少现在他招的团队是都是北京only的，反正大概是这样子。</p>
+<p class="transcript-line"><span class="time"><strong>[00:18:21]</strong> </span><span class="speaker"><strong>发言人1: </strong></span>还有一个刚才贤哥讲的川普访华离开以后，还有一个大礼包，就是FSD监管版，在国内。</p>
+<p class="transcript-line"><span class="time"><strong>[00:18:29]</strong> </span><span class="speaker"><strong>发言人3: </strong></span>这个是要落地了。</p>
+<p class="transcript-line"><span class="time"><strong>[00:18:32]</strong> </span><span class="speaker"><strong>发言人2: </strong></span>对对，那个我看的很实际的，就是已经在招路测员了，而且薪水挺高的，好像1万到31000个月.</p>
+<p class="transcript-line"><span class="time"><strong>[00:18:40]</strong> </span><span class="speaker"><strong>发言人1: </strong></span>是说先会先推给你用吗？</p>
+<p class="transcript-line"><span class="time"><strong>[00:18:41]</strong> </span><span class="speaker"><strong>发言人2: </strong></span>还是不是？</p>
+<p class="transcript-line"><span class="time"><strong>[00:18:42]</strong> </span><span class="speaker"><strong>发言人1: </strong></span>不是，还就是说开始要进入路测。</p>
+<p class="transcript-line"><span class="time"><strong>[00:18:45]</strong> </span><span class="speaker"><strong>发言人2: </strong></span>他现在是找专门的自动驾驶路测员，就是招聘的专业的。我就跟他说薪月薪能够开到1万到3万.</p>
+<p class="transcript-line"><span class="time"><strong>[00:18:51]</strong> </span><span class="speaker"><strong>发言人1: </strong></span>就等于你这合法了。</p>
+<p class="transcript-line"><span class="time"><strong>[00:18:53]</strong> </span><span class="speaker"><strong>发言人2: </strong></span>对，然后现在就是去应该是各种场景去测试，然后你达到某个程度了，政府等验收通过了。</p>
+<p class="transcript-line"><span class="time"><strong>[00:19:01]</strong> </span><span class="speaker"><strong>发言人1: </strong></span>估计就我靠，然后加上SpaceX最近招股书也开始交上去了，对不对？我觉得这个就转起来了，所以我觉得马斯克也是一个很神奇的人。你说这个SpaceX最近上市，然后估值说都快到。</p>
+<p class="transcript-line"><span class="time"><strong>[00:19:16]</strong> </span><span class="speaker"><strong>发言人2: </strong></span>2万亿了，2万亿2万亿2万亿.</p>
+<p class="transcript-line"><span class="time"><strong>[00:19:19]</strong> </span><span class="speaker"><strong>发言人1: </strong></span>然后进来是靠什么？靠那个转卖算力，我操对吧？人家说SBC现在一个月付给他钱，顶他去年一年的收入。</p>
+<p class="transcript-line"><span class="time"><strong>[00:19:29]</strong> </span><span class="speaker"><strong>发言人2: </strong></span>对吧？就是理论上能收到的钱。因为他现在一个月是收12.5亿美金，一年下来就能收18 180亿了，那就180亿，那去年就是整个的利营收的话还是利润，应该是利润。</p>
+<p class="transcript-line"><span class="time"><strong>[00:19:42]</strong> </span><span class="speaker"><strong>发言人1: </strong></span>还不如主要囤卡屯的确实都不多。对，囤卡屯的早。</p>
+<p class="transcript-line"><span class="time"><strong>[00:19:46]</strong> </span><span class="speaker"><strong>发言人2: </strong></span>对，但是实际上就是以马斯克这个就是说你到现在因为他那个团队有点惨了，就是好多创始XAI的创始团队全跑了，联合创始人十几个人全跑了。</p>
+<p class="transcript-line"><span class="time"><strong>[00:19:56]</strong> </span><span class="speaker"><strong>发言人1: </strong></span>都离职了。心想我做个毛线，算力算了。</p>
+<p class="transcript-line"><span class="time"><strong>[00:20:00]</strong> </span><span class="speaker"><strong>发言人2: </strong></span>我靠。然后他的group现在也是跟不上，我也跟不上那个那么强大的一个算力屯又囤了放那边那个店是天天都在烧的，最后还是租出去划算。是的，这个钱，而且他们其实我看了一些细节，也是很很双方都做的很优雅。怎么说呢？他有一个90天反悔规则，就是提前90天可以反悔。虽然说有一些违约金，我估计对他们只要战略上达到了这个违约金应该还好，可能就算再高也不算天价。</p>
+<p class="transcript-line"><span class="time"><strong>[00:20:30]</strong> </span><span class="speaker"><strong>发言人1: </strong></span>我觉得这个不重要，大家不会去看这些具体的细节，大家只关键说你这个今年应收款。</p>
+<p class="transcript-line"><span class="time"><strong>[00:20:36]</strong> </span><span class="speaker"><strong>发言人2: </strong></span>对，但是实际上他留好了扣子，他是就提前90天就可以解解掉。也就是说后面应收这一百多亿不一定收得到。但是至少现在看起来很很铁。</p>
+<p class="transcript-line"><span class="time"><strong>[00:20:47]</strong> </span><span class="speaker"><strong>发言人1: </strong></span>我已经在资本市场变现了就可以了。</p>
+<p class="transcript-line"><span class="time"><strong>[00:20:49]</strong> </span><span class="speaker"><strong>发言人2: </strong></span>签到了一直签到了29年对吧？这三年的都锁定了。</p>
+<p class="transcript-line"><span class="time"><strong>[00:20:54]</strong> </span><span class="speaker"><strong>发言人1: </strong></span>我我所以我觉得这搞钱，还是得看马斯克，还是得看奥特曼。真能搞真真能搞，真能搞。</p>
+<p class="transcript-line"><span class="time"><strong>[00:21:04]</strong> </span><span class="speaker"><strong>发言人3: </strong></span>我觉得这个钱里面就是2万亿估值。然后不是说马斯克有可能成为人类历史上第一个万亿级富翁吗？万亿美金的富翁吗？哇塞听起来就是非常的夸张我觉得这里面来讲讲video.</p>
+<p class="transcript-line"><span class="time"><strong>[00:21:17]</strong> </span><span class="speaker"><strong>发言人2: </strong></span>是个万亿级公司，都觉得好好牛逼，现在来一个个人万亿级。现在什么？</p>
+<p class="transcript-line"><span class="time"><strong>[00:21:22]</strong> </span><span class="speaker"><strong>发言人1: </strong></span>现在是马斯克要做太空的NVIDIA，马斯克是要做太空的黄人区。</p>
+<p class="transcript-line"><span class="time"><strong>[00:21:27]</strong> </span><span class="speaker"><strong>发言人3: </strong></span>现在我的感觉就是美国市场需要这么一个很好的故事，让这个狂欢，让这个宴会能继续下去。在现在这个阶段，大家谁都不想说，这么快大家今天可以开始唱难忘今宵了，然后马上回家吃饺子去了，根本没到这个时候，感觉应该是什么？这个正餐又要开始了，马上要上大菜了，对吧？准备开始开宴了。至于说这顿第一顿饭或者叫第一个菜端上来，是不是真的真材实料，合口不重要。气氛到这儿了。</p>
+<p class="transcript-line"><span class="time"><strong>[00:21:54]</strong> </span><span class="speaker"><strong>发言人3: </strong></span>所以我感觉尤其我看他这个招股书以后，感觉里面这个AI部分的虚的东西还是太多了。但是架不住马斯克人家会讲故事，而且人家在特斯拉上讲成了一个英雄之旅的故事。所以是不是能够在space sex上再实现一次，还是会有很多人信的。所以这个时候我。</p>
+<p class="transcript-line"><span class="time"><strong>[00:22:12]</strong> </span><span class="speaker"><strong>发言人1: </strong></span>感觉他没必要去讲AI。对，他AI对他来讲就是一个属于说防守动作，我有就行了对吧？跟腾讯一样，就是我做了，你看到我在投入了就可以了，其他无所谓。</p>
+<p class="transcript-line"><span class="time"><strong>[00:22:25]</strong> </span><span class="speaker"><strong>发言人3: </strong></span>对，那你看那高炒股书里面对于AI这块的估值的想象可是占了很大的比例的。它真正的就是星链那块的收入虽然增长很快，翻转翻的很大，然后未来的空间想的也很多，然后未来算力中心的这块也很多，但是这个应用方面都还是要跟AI结合才行。现在来讲它靠着跟anthropic这块有一个收入，能够把这个营收这块做起来。但是未来的估值它现在可是什么？可是他现在年有收入乘以一个60到100倍，这可不是说他年有利润，甚至说年有收入乘60到100倍。这个故事真是太牛了。我觉得也就也只有在美美股上或者在美国市场上才会有这么多人来信这样的故事。这要搁A股上早就那什么了。</p>
+<p class="transcript-line"><span class="time"><strong>[00:23:05]</strong> </span><span class="speaker"><strong>发言人1: </strong></span>早就成诈骗犯了。好了，这期就是一个简单的闲聊节目，把最近的这个热点关联跟大家发散一下，聊一聊串一串，然后不构成这个核心的一些什么意见参考。更多的一些思考，我们这两天也在继续的关注。对，尤其是这次IO回来，真的特别忙。贤哥在前面搞了两天对吧？然后我们在国内这边也加紧的在报道，所以我们也稍微休息一下。然后未来的这几周再持续跟大家关注一些热点的话题。也跟大家道个歉，好久没有更新我们的这个会员节目了，属实是最近比较忙，最近红了，有点红。</p>
+<p class="transcript-line"><span class="time"><strong>[00:23:52]</strong> </span><span class="speaker"><strong>发言人1: </strong></span>对，略红标了。对对对。但是有个好消息，跟各位这个会员宣，就是我们的just AI早晚报也即将升级到这个telegram版。然后大家可以在telegram上面直接收听我们的早晚报的音频。打开mini APP小程序，然后在上面直接翻牌我们每天的你的定制的早晚报的深度观察音频播报。对。</p>
+<p class="transcript-line"><span class="time"><strong>[00:24:21]</strong> </span><span class="speaker"><strong>发言人2: </strong></span>深度观察是按照我们三个人做了一个提炼，反正就是有三个人一起来讲解这个你喜欢的新闻。因为我们现在是把它做的有点像小龙虾，我希望最终它能够像一只称心如意的小龙虾助理帮着你去整理这些信息。</p>
+<p class="transcript-line"><span class="time"><strong>[00:24:36]</strong> </span><span class="speaker"><strong>发言人1: </strong></span>其实就是想等小龙虾这个热潮过了以后，我们再来说看真的事情沉淀下来是什么东西。至少从我们几个人的使用体验上面来讲，一个主动推送这个能力可能是更重要的那他也并不是一个chatbot，我觉得它更多是一个主动推送的。然后能够在你需要的一些关键的时间点，能够把你要的信息打给到你，同时预先帮你加工好非常多你需要的资讯，这个可能是更重要一件事情。所以这个产品的一些测试版也即将放出来。大家关注的朋友也可以持续关注我们的会员的邮件。好的，好，我们这期节目就到这里结束。</p>
+<p class="transcript-line"><span class="time"><strong>[00:25:18]</strong> </span><span class="speaker"><strong>发言人3: </strong></span>好的反馈。</p>
+<p class="transcript-line"><span class="time"><strong>[00:25:19]</strong> </span><span class="speaker"><strong>发言人1: </strong></span>好。</p>
+<p class="transcript-line"><span class="time"><strong>[00:25:20]</strong> </span><span class="speaker"><strong>发言人2: </strong></span>谢谢大家。拜拜拜拜拜。</p>]]></content:encoded>
+            <pubDate>Mon, 25 May 2026 23:00:00 GMT</pubDate>
+            <guid>6a146d6e8b5c94538eb2dfb9</guid>
+        </item>
         <item>
             <title>太会玩了！OpenAI、Anthropic联手私募暴击传统行业，硅谷终于学会“中国模式”了？</title>
             <link>https://www.xiaoyuzhoufm.com/episode/6a05e813e1eb34a9396adabe</link>
@@ -4638,29 +4796,6 @@ Apple podcsat朋友请移步👋
 <p class="transcript-line"><span class="time"><strong>[00:50:41]</strong> </span><span class="speaker"><strong>发言人2: </strong></span>期待下次再见，拜拜。</p>]]></content:encoded>
             <pubDate>Thu, 23 Oct 2025 23:00:00 GMT</pubDate>
             <guid>68fa50610156720321c0b640</guid>
-        </item>
-        <item>
-            <title>Gemini3前瞻：Google还能否遥遥领先？</title>
-            <link>https://www.xiaoyuzhoufm.com/episode/68f0bfae456ffec65e172607</link>
-            <description>付费单集请至小宇宙/YouTube/B站收听
-讲真！我对即将发布的Gemini 3，在产品层面毫无期待。但，技术上我从不怀疑Google，它就像《天龙八部》里的段誉，内力无穷，但偏偏就是使不好六脉神剑，时灵时不灵。
-特别是Google，根据我的研究，Google一个产品的水平，基本上取决于它的组织能力整合到了哪一步…就像发布Nano Banana之前，DeepMind和Gemini团队狠狠爱了一把一样…
-00:00:00Gemini为何像内力无穷但时灵时不灵的段誉？
-00:04:02 判断谷歌产品成败的关键，为何是看其内部团队整合程度？
-00:05:11 新的Computer Use与之前的Chrome MCP、Gemini CLI会成为其Gemini 3 Agent功能的护城河吗？
-00:11:32 Gemini目前最大的痛点是什么？
-00:15:35 Gemini 3能否将谷歌散落的“王炸”串联成一个完美的产品？
-00:17:34 端侧模型Gemma加Android是否是谷歌被低估的潜力股？
-00:23:01 等到Gemini 3真正发布，今天的预测有多少能成真？
-【主播小红书】：📕叫我小苏就好啊
-【关注频道】：
-▶️Youtube｜📺B站｜📕小红书｜📻Podcast
-【订阅JustSayAI早晚报】
-🌈新朋友！订阅「JustSayAI早晚报」· 每日两封 · 一键听报
-🌟老朋友！加入会员获取JustSayAI早晚报+深度研报+文字专栏</description>
-            <content:encoded><![CDATA[]]></content:encoded>
-            <pubDate>Thu, 16 Oct 2025 09:52:22 GMT</pubDate>
-            <guid>68f0bfae456ffec65e172607</guid>
         </item>
     </channel>
 </rss>
