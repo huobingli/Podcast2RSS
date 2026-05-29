@@ -4,7 +4,423 @@
         <title>知行小酒馆</title>
         <link>https://www.xiaoyuzhoufm.com/podcast/6013f9f58e2f7ee375cf4216</link>
         <description>有知有行出品的投资与生活向节目</description>
-        <lastBuildDate>Sun, 24 May 2026 05:06:36 +0800</lastBuildDate>
+        <lastBuildDate>Sat, 30 May 2026 06:05:09 +0800</lastBuildDate>
+        <item>
+            <title>E237 出发吧，扔掉旧地图，去 AI 时代的新世界尽情探索</title>
+            <link>https://www.xiaoyuzhoufm.com/episode/6a19390a7460cabdeb57c0e5</link>
+            <description>🦈 未来已经到来，只是尚未分布均匀。
+欢迎来到知行小酒馆，这是一档由 有知有行 出品的播客节目。我们关注投资，更关注怎样更好地生活，我是雨白。
+最近这段时间，我越来越强烈地感觉到，大家好像正在过两种不太一样的生活。
+一边是和 AI 相关的人，TA 们已经把 AI 很深地带进了自己的工作和生活里，不仅能一个人干以前两三个人的活，甚至开始去做那些自己原来做不了、也不会去做的事情；另一边，很多人的日常生活看起来还在照常运转。大家当然知道 AI 很厉害，但很多时候又会觉得，这件事离自己还有一点距离，或者至少，还没有那么强的体感。
+可我越来越担忧，这种距离感，可能不会持续太久。作为一档一直在聊投资、也聊生活的节目，我会觉得我们至少应该先把这件事搞清楚：为什么同样活在 2026 年，有些人已经被这场技术变革深深改变了，有些人却还没什么感觉？到底是前者在自嗨，在给大家制造焦虑，还是 AI 真的已经在悄悄改写这个世界？如果是后者，那这件事就不是喜不喜欢的问题了，而是我们至少得先知道现状。
+今天做客小酒馆的嘉宾 Cage，是拾象科技的 AI 研究负责人。前不久，友台主播孟岩邀请他来有知有行做了一次分享，听完之后我几乎是立刻就决定，一定要把他请来录一期小酒馆。因为我最想找的，不是一个再来告诉我们 AI 有多厉害的人，而是一个能帮我们把「现在到底发生了什么」讲清楚的人。Cage 刚好就有这样一种很稀缺的能力：他能把那些很前沿、零散、甚至有点让人不安的变化，慢慢翻译成一张我们能看懂的地图。
+所以这期节目，我想和 Cage 一起聊聊：为什么此时此刻大家的体感会这么割裂？关于 AI，我们到底高估了什么，又低估了什么？以及，如果 AI 真的是大势所趋，除了追着技术往前跑，我们还有没有别的出路？还是说，在这样一个时代，那些真正和人有关的事情，反而会变得更重要？
+希望这期节目会对你有一点点启发。
+🔗 官方地址
+如果你所使用的客户端显示不全，请点此访问有知有行的官网查看全文
+🍻 本期嘉宾
+Cage：拾象科技 AI 研究负责人，前 CMU/字节 AI 科学家。公众号：海外独角兽，播客：海外独角兽，即刻：CageZ
+🪡 时间轴
+03:22 你们说的 Agent，难道不就是 AI 的另一种时髦说法吗？
+10:08 人机协作中，人是主宰：我们不应该把思考的能力让渡给 AI
+22:17 搞科技的人正在拼了命地「砸自己饭碗」，离技术越远的人反而越能从中获益
+37:34 在 Cage 看来，关于 AI，大众目前可能有哪些低估与高估？
+47:37 AI 在物理世界的渗透速度可能没有我们想得那么快
+50:58 AI 圈多数都是噪音：用最好的产品，多上手，少看自媒体
+58:10 预测：未来的市场将不再分为 to B 或 to C，而是 to Agent 或 to Human
+01:00:21 奖励函数算不出李白的诗篇，也算不出人被一首歌所打动的瞬间
+01:09:36 让 AI 帮你管钱？可以是可以，但它背不了锅，也没真的亏过钱
+01:13:31 出发吧，扔掉旧地图，去探索新世界的无限可能
+📑 猜你想看
+03:48 Coding Agent（编程智能体）：能从头到尾自主完成一整套编程工作的 AI 系统。
+06:08 Anthropic：美国 AI 公司，由前 OpenAI 研究团队核心成员于 2021 年创立，旗下代表性产品为 Claude 系列大模型和 Claude Code。
+05:49 Claude Code：Anthropic 推出的 Coding Agent 产品。能读取本地文件、自主规划并执行任务，用户用自然语言下指令就能生成、修改和调试代码。
+06:50 Codex：OpenAI 推出的 Coding Agent 产品，可读取用户本地文件系统、自主规划并执行任务，支持通过自然语言指令自主生成、修改和调试代码。
+21:19 Vibe coding：指借助 AI Agent 写代码——使用者不必读懂代码，只需用自然语言描述需求，由 AI 实现。由 AI 研究者 Andrej Karpathy 提出。
+24:03 Manus：通用 AI Agent 产品，2025 年初推出后引发广泛讨论。
+30:01 Token（词元）：大语言模型处理信息的最小单元。
+31:54 「三种成瘾」：《反脆弱》作者纳西姆·尼古拉斯·塔勒布在 2010 年《塔勒布智慧箴言录》中的格言：
+最有害的三种成瘾是海洛因、碳水化合物和月薪。
+33:03 达芬奇在约 1482 年前后写给米兰公爵卢多维科·斯福尔扎的自荐信。信中列出十项本领，前九项都是修筑城防、军事工程、城市治理等能力，最后一项才提到自己也会画画与雕塑。
+36:01 出自罗伯特·海因莱因（Robert A. Heinlein）的科幻小说《时间足够你爱》：
+一个人应该能够换尿布，策划战争，杀猪，开船，设计房子，写十四行诗，结算账户，砌墙，接脱臼的骨头，安慰濒死的人，服从命令，发布命令，携手合作，独立行动，解数学方程，分析新问题，铲粪，电脑编程，做出可口的饭，善打架，勇敢地死去。只有昆虫才专业化。
+37:18 「15小时工作周」预言：经济学家凯恩斯 1930 年在《我们后代的经济可能性》（Economic Possibilities for our Grandchildren）中预测，技术进步将使人类百年后每周只需工作 15 小时。
+38:39 美股七巨头（Magnificent Seven）：华尔街对苹果、微软、Alphabet、亚马逊、Meta、英伟达、特斯拉七家科技公司的合称，因市值庞大且主导美股表现得名。
+42:25 有效加速主义（effective accelerationism,e/acc）：主张积极推动技术（尤其是 AI）快速发展的思想倾向，认为技术加速从整体上有利于人类，短期负面影响是可接受的代价
+49:36 恩格斯停滞（Engels&#x27; Pause）：经济史学家 Robert C. Allen 提出的概念，指 1790—1840 年间，英国工业革命快速推进、人均 GDP 大幅增长，但工人实际工资长期停滞的现象。
+58:10 to Agent / to Human：嘉宾在文章《Agent 时代启示录》中提出的新市场坐标。
+To B / To C 的边界已经模糊到无法分类 ...... 工程师愿意用个人信用卡买 Claude Code 做公司项目，这算 To C 还是 To B？智能产品的形态本身跨越了 C 和 B 的界限，消费者采购和企业采购在同一个人身上发生。
+To Human ：服务有具体目标、具体任务的人，To C / To B 的划分不再重要。
+To Agent ：Agent 本身成为生产者和消费者。它自主搜索、调用 API、开启 runtime、做采购决策、完成支付。在这里，商业逻辑的主体发生了物种替换。
+01:00:21 强化学习（Reinforcement Learning）：AI 训练的方式之一，逻辑类似训狗：做对了给奖励，做错了扣分，模型不断试错，往&quot;得分高&quot;的方向进化。只是这里的奖励不是零食，是一段数据公式（奖励函数，Reward Function）。
+01:00:55《诗云》：刘慈欣中短篇科幻小说，讲述一个超级文明为了超越李白的诗歌，穷尽算力生成所有汉字排列组合，却始终无法判断哪一首才是最好的诗。
+01:01:53 Suno：AI 音乐生成工具，AI 音乐生成工具，用户输入文字描述就能生成包含人声和伴奏的完整歌曲，也支持纯器乐模式。
+01:13:06 互联网泡沫（Dot-com Bubble）：1995 年至 2000 年间，大量互联网公司估值快速膨胀，于 2000 年 3 月达到顶峰后崩盘的历史事件。
+往期节目
+E230 一个畅想：如果有一天，人类不再需要工作😴
+E232 对话严艺家：我们和我们内心的资本主义
+E235 与其担心 AI 改变你，不如今天就用它做一件小事
+🌐 知行小酒馆公告牌
+🍻 我们是谁？「知行小酒馆」是 有知有行 出品的一档分享投资与生活的播客节目，每周五晚八点更新。我们关注投资理财，更关注怎样更好地生活。在我们看来，投资成功，是我们变成一个更好的人之后，自然的结果。
+有知有行 成立于 2020 年，目前在陪伴投资者用正确的方式学习投资，下场实操。凭借在投资领域的良好口碑，有知有行在初创阶段已与一大批忠实用户同行。未来我们希望成为一家财富管理公司，不仅帮助投资者学习投资，也能让大家在有知有行安心交易，踏实赚钱。欢迎在「有知有行」社区 和我们互动交流。
+🎺 创作团队
+主持 雨白｜嘉宾 Cage｜制作 星星 周一｜后期 孙称｜单集封面 Recraft Lovart
+免责声明
+本播客所述投资相关内容皆以交流分享为目的，仅供参考，不构成任何市场预测、判断，或投资、咨询建议。市场有风险，投资需谨慎。主持人及嘉宾对投资相关内容的准确性、可靠性、时效性及完整性不作任何明示或暗示的保证，并提醒您对相关内容请结合自身情况进行独立评估，依据或使用相关内容所造成的后果由您独自承担。
+感谢您对本播客原创内容的青睐。如转载或引用本播客所述内容，请注明出处。转载前请与有知有行联系并取得同意。</description>
+            <content:encoded><![CDATA[<div class="episode-summary">
+<h3>内容摘要</h3>
+<h3>主题概述</h3>
+<p>本期《知行小酒馆》邀请石像科技AI研究负责人 Cage，围绕2026年AI（尤其是Agent）的最新进展展开对话。嘉宾基于其在一线追踪前沿AI动态、并用于全球科技投资的实践经验，试图“翻译”当下AI技术变革的真实图景，解释为何不同人群对AI的体感如此割裂。核心议题包括：Agent技术如何从“聊天框”进化为“替你干活的同事”；当前AI被低估和高估的方面；以及个人及组织在“新世界”中应如何定位自己，保留哪些不可替代的能力。</p>
+<h3>关键要点</h3>
+<ol>
+<li><strong>Agent已成为技术变革的核心驱动力</strong>：过去半年，Agent（尤其是写代码的智能体）的技术进展和商业化落地速度远超预期。它不再只是提供建议的聊天框，而是能端到端完成任务，例如自动读取本地文件、制定计划、搜索资料、编写代码，就像一位合作已久的同事。</li>
+<li><strong>AI能力的“体感割裂”源自产品设计与人性的冲突</strong>：尽管Agent能力已超越多数人，但产品交互设计“反人性”，要求用户清晰表达需求、设计任务并持续监督，这对大多数人而言成本过高（“5小时导入 vs. 3小时手动”）。因此，只有极少数人真正将Agent用为生产力工具，而这部分人已获得指数级增长。</li>
+<li><strong>商业化数据揭示真实需求</strong>：以Anthropic公司的Claude Code为例，其用户量仅为ChatGPT的2%，但公司收入上月已成为全球AI公司第一。这说明<strong>端到端完成任务的Agent产品</strong>（而非对话机器人）蕴含着巨大的商业化潜力和市场需求，是“人类历史上增长最快的技术产品”。</li>
+<li><strong>技术行业的自我颠覆最残酷</strong>：Cage指出，AI研发人员正通过AI加速替代自身。在硅谷，一个资深程序员配几个Claude Code账号，效率已远超一整个年轻团队。<strong>离技术越近的行业，受到的冲击和颠覆越大</strong>；而非技术行业（如巴西的中小企业电商、零售）因使用“世界级智能”解决既有问题，反而获得更大增益。</li>
+<li><strong>AI是“杠杆”而非“替代”，但杠杆率极高</strong>：以投资研究为例，原需一周的任务（调研、整合、讨论），现在借助Agent可在2小时内完成（需用户两次介入规划）。这种效率提升（10倍）导致从业者“自动加班”，因为“token没压榨到极致不太想停下来”，形成一种对高杠杆率的“上瘾”。</li>
+<li><strong>对新旧时代的判断：高估与低估</strong>：<ul>
+<li><strong>低估</strong>：知识工作者被AI自动化的程度、AI的商业化收入（如Claude Code的增长）、以及科技巨头（如Meta、微软）2000亿美金级别的年度投入。下半年OpenAI、Anthropic和xAI可能上市，将重写“七巨头”格局。</li>
+<li><strong>高估</strong>：AI能立刻帮你解决所有问题。它是一个需要耐心磨合的同事，而非魔法棒。同时，对AI替代人类的速度也不应过度焦虑。</li>
+</ul>
+</li>
+<li><strong>人的核心优势：品味、判断力与拥抱不确定性的能力</strong>：AI擅长在有限规则内重复精进，但无法替代人对“什么是美、重要、好玩”的品味和判断力。在Agent时代，人应成为“AI的好领导”，保持对系统设计的感知，能评价并纠正AI的工作。<strong>“你不古法编程，你监督AI的能力就没了。”</strong></li>
+<li><strong>“To Human”服务将成为新价值洼地</strong>：未来市场将分化出“To Agent”（为AI同事优化）和“To Human”（为人类体验优化）两类。线下的、沉浸式的、无法被语言描述的物理体验（如音乐节现场的声光电冲击），因AI“不在场，感知以语言为中介”而无法被取代，因此提供此类体验的服务将更具价值。</li>
+<li><strong>Agent管理学会成为新学科</strong>：与AI协作的本质是纯粹的管理——目标一致、无政治斗争。AI的问题在于“背不了锅”（盈亏责任仍在人）。这会催生新的第三方审计或保险业务，核心是<strong>有些锅必须人背</strong>。</li>
+</ol>
+<h3>独家细节</h3>
+<ol>
+<li><strong>“每6小时刷新一次”的Token焦虑</strong>：Cage提到Claude Code的token每6小时刷新一次，导致有用户“每天早上四点钟必须起来，觉得不说点什么，不用就浪费了”。他本人也表示“如果agent的token没有压榨到极致，自己也不太想停下来”，生动描绘了高杠杆率带来的“上瘾”状态。</li>
+<li><strong>用“鲨鱼和小鱼”比喻信息筛选</strong>：Cage以在菲律宾潜水为例，将OpenAI和Anthropic这类巨头比作鲨鱼，其“吃下来的残渣”就足以养活无数自媒体（小鱼）。对于观察者而言，盯住鲨鱼（决定性力量）远比关注小鱼（噪音）重要，直言“AI自媒体大部分人自己也不用AI”。</li>
+<li><strong>“训练AI像陪打网球”</strong>：Cage将人与Agent的关系比作运动员和教练。AI拥有远超人类的身体素质（算力），但“教练”（人）需要知道在特定场景下用什么战术，并且<strong>必须下场陪打</strong>，以保持对“球拍（系统设计）”的基础感知，否则就会失去监督和评价能力。</li>
+<li><strong>“古法编程”与“Agent编程”的互斥</strong>：Cage提到一个行业梗：传统程序员和用Agent写代码的人互相嫌弃对方代码质量。旧时代的代码是写给人看的，对Agent不是最优解；而Agent代码充满了AI生成的冗余，传统程序员会认为“不够优雅”。两种思维方式在新旧交替时会发生强烈冲突。</li>
+<li><strong>对“人应该怎么活”的颠覆性反思</strong>：主播李白在结尾提出核心洞见：如果“上学-工作-退休”的标准人生路径只是特定历史阶段的产物，那么AI带来的冲击不仅是替代岗位，更是逼我们重新思考“人到底该怎么活？”——<strong>“每个时代都会放大一部分人的天赋，也会让另外一部分人长期活在逆风里。”</strong></li>
+</ol>
+</div>
+<hr/>
+<p class="transcript-line"><span class="time"><strong>[00:00:05]</strong> </span><span class="speaker"><strong>发言人1: </strong></span>欢迎来到知行小酒馆，这是一档有知有型出品的播客节目。我们关注投资，更关注怎样更好的生活。我是李白。</p>
+<p class="transcript-line"><span class="time"><strong>[00:00:14]</strong> </span><span class="speaker"><strong>发言人1: </strong></span>最近这段时间我越来越强烈的感受到，大家好像正在过两种不太一样的生活。一边是和AI相关的人，他们已经把AI很深的带进了自己的工作和生活里。不仅一个人能干以前两三个人的活，甚至开始去做那些原来自己做不了也不会去做的事儿。而另一边很多人的日常生活看起来还在照常运转。大家当然知道AI很厉害，但很多时候又会觉得这件事儿离自己还有一点距离，或者至少还没有那么强的体感，可是我越来越担心啊，这种距离感可能不会持续太久。</p>
+<p class="transcript-line"><span class="time"><strong>[00:00:52]</strong> </span><span class="speaker"><strong>发言人1: </strong></span>作为一档一直聊投资也聊生活的节目，我在想，或许我们至少应该先把这件事情搞清清楚。为什么同样生活在2026年，有些人已经被这场技术变革深深地改变了，可有些人却还没有什么感觉？到底是前者在自嗨，在给大家制造焦虑，还是AI已经真的在悄悄改写这个世界？如果是后者的话，那这件事儿就不是喜不喜欢的问题了，而是我们至少得先知道现状。</p>
+<p class="transcript-line"><span class="time"><strong>[00:01:24]</strong> </span><span class="speaker"><strong>发言人1: </strong></span>今天做客小酒馆的嘉宾cage是石像科技的AI研究负责人。前不久有台主播梦妍邀请她来有知有行做了一场分享。听完之后我几乎是立刻就决定一定要把他请来路一些小酒馆。因为我最想找的嘉宾不是一个再来告诉我AI有多厉害的人，而是一个能给我们把现在到底发生什么讲清楚的人。而cage刚好就有这样一种很稀缺的能力，它能把那些很前沿、很零散，甚至让人有点不安的变化，慢慢翻译成一张我们能看懂的地图。</p>
+<p class="transcript-line"><span class="time"><strong>[00:01:58]</strong> </span><span class="speaker"><strong>发言人1: </strong></span>所以在这期节目我想和kate一起聊聊，为什么此时此刻大家的体感会这么割裂。关于AI我们到底嘀咕了什么，又高估了什么，以及如果说AI真的是大势所趋，那除了追着技术往前跑，全民学AI我们还有没有别的出路呢？还是说在这样一个时代，那些真正和人有关的事情反而会变得更重要。希望这期节目会对你有一点点启发。</p>
+<p class="transcript-line"><span class="time"><strong>[00:02:32]</strong> </span><span class="speaker"><strong>发言人2: </strong></span>为什么会请kh老师来？也是因为kate老师是难得的可以比较深入浅出的跟大家讲清楚现在在发生什么。在我看来你是一个手拿地图的人，可以跟我们讲清楚我们面前的这一片疆域是什么样的，以及有哪些路线。再次感谢K老师。</p>
+<p class="transcript-line"><span class="time"><strong>[00:02:50]</strong> </span><span class="speaker"><strong>发言人3: </strong></span>谢谢你。</p>
+<p class="transcript-line"><span class="time"><strong>[00:02:51]</strong> </span><span class="speaker"><strong>发言人2: </strong></span>要自我介绍一下吗？</p>
+<p class="transcript-line"><span class="time"><strong>[00:02:52]</strong> </span><span class="speaker"><strong>发言人3: </strong></span>行，我自我介绍一下，我是cage，是时尚科技的AI research lead。然后我们团队主要做的事情就是专注在海外追逐AI的一些最前沿的变化。然后通过这些对前沿变化的理解来做全球的科技投资。我个人的话之前是在CMU和字节做AI然后在差不多chat PT出现之前的一个月，加入到石像团队一起来做投资和一起来做技术研究。</p>
+<p class="transcript-line"><span class="time"><strong>[00:03:22]</strong> </span><span class="speaker"><strong>发言人2: </strong></span>我这次邀请kate老师来，我当时给他出的题就是能不能给我们讲清楚，就现在到底在发生什么？如果换成那个常见的英文表达，就是what&#x27;s going on。我在想我们能从这个问题开始，就是你能不能讲一讲在你观察下现在正在发生什么样的变化。</p>
+<p class="transcript-line"><span class="time"><strong>[00:03:38]</strong> </span><span class="speaker"><strong>发言人3: </strong></span>我的观察是过去半年内，agent这件事情的技术进展和商业化落地都快了非常多。技术进展的意思其实就是说agent背后最重要的其实是那个coding。Agent也就是写代码的智能体。写代码并不是我们之前说狭义的软件开发，而是说所有操作电脑的事情都已经可以完成了。甚至做的事情的广度、深度、勤奋程度都比普通人要来的好。</p>
+<p class="transcript-line"><span class="time"><strong>[00:04:07]</strong> </span><span class="speaker"><strong>发言人1: </strong></span>因为大部分。</p>
+<p class="transcript-line"><span class="time"><strong>[00:04:09]</strong> </span><span class="speaker"><strong>发言人2: </strong></span>人平时更熟悉的可能还是豆包。</p>
+<p class="transcript-line"><span class="time"><strong>[00:04:12]</strong> </span><span class="speaker"><strong>发言人1: </strong></span>deep seek.</p>
+<p class="transcript-line"><span class="time"><strong>[00:04:12]</strong> </span><span class="speaker"><strong>发言人2: </strong></span>ChatGPT这种聊天框。</p>
+<p class="transcript-line"><span class="time"><strong>[00:04:14]</strong> </span><span class="speaker"><strong>发言人1: </strong></span>Ai就是你问一句他答一句。</p>
+<p class="transcript-line"><span class="time"><strong>[00:04:16]</strong> </span><span class="speaker"><strong>发言人2: </strong></span>可cage这里说的agent.</p>
+<p class="transcript-line"><span class="time"><strong>[00:04:18]</strong> </span><span class="speaker"><strong>发言人1: </strong></span>他不只是给你建议，而是真的开始替你干活了。</p>
+<p class="transcript-line"><span class="time"><strong>[00:04:21]</strong> </span><span class="speaker"><strong>发言人2: </strong></span>比如领导突然说下午开会前我要。</p>
+<p class="transcript-line"><span class="time"><strong>[00:04:24]</strong> </span><span class="speaker"><strong>发言人1: </strong></span>看到一份竞品分析报告。</p>
+<p class="transcript-line"><span class="time"><strong>[00:04:26]</strong> </span><span class="speaker"><strong>发言人2: </strong></span>如果用的是。</p>
+<p class="transcript-line"><span class="time"><strong>[00:04:27]</strong> </span><span class="speaker"><strong>发言人1: </strong></span>聊天框AI那你得自己先把资料聊天记录、文件都找齐，再一份份喂给他。</p>
+<p class="transcript-line"><span class="time"><strong>[00:04:33]</strong> </span><span class="speaker"><strong>发言人2: </strong></span>那agent会怎么做呢？它会自动的去你的电脑里翻周报。</p>
+<p class="transcript-line"><span class="time"><strong>[00:04:38]</strong> </span><span class="speaker"><strong>发言人1: </strong></span>找PPT模板看会议纪要。</p>
+<p class="transcript-line"><span class="time"><strong>[00:04:40]</strong> </span><span class="speaker"><strong>发言人2: </strong></span>再结合。</p>
+<p class="transcript-line"><span class="time"><strong>[00:04:40]</strong> </span><span class="speaker"><strong>发言人1: </strong></span>网上的信息先帮你把初稿给搭出来。这一整串准备工作很多时候你只需要点个确认就行了。</p>
+<p class="transcript-line"><span class="time"><strong>[00:04:48]</strong> </span><span class="speaker"><strong>发言人3: </strong></span>是我觉得这件事情在技术能力上是已经达到的，但是用的人的能力其实不一定跟得上AI的进步速度。因为虚拟世界的迭代永远比现实世界的一些各种扩散的速度要快。还有一部分就是目前产品的设计还是太反人性了。我们要真的去用好一个AI agent本身要求我们能清晰的表达自己的需求，设计好自己的任务，并且给一定的规划。同时我们还要监督好他做的每一个规划，并且怎么样把它往一个更好的地方去push。这些东西理论上应该有很多东西是包到产品里面的。</p>
+<p class="transcript-line"><span class="time"><strong>[00:05:23]</strong> </span><span class="speaker"><strong>发言人2: </strong></span>不是我们的能力问题是他这个产品设计的不好。</p>
+<p class="transcript-line"><span class="time"><strong>[00:05:27]</strong> </span><span class="speaker"><strong>发言人3: </strong></span>对对对，我觉得一定是双向奔赴的。就是慢慢所有人越来越习惯有这样一个新物种，新同事在身边了。与此同时那些产品设计要更多的去理解用户到底哪里没有用上。所以现在实际出现的情况其实就是最少量的人把coding agent用起来了。并且用起来之后他们的商业化收入增长其实非常快。</p>
+<p class="transcript-line"><span class="time"><strong>[00:05:49]</strong> </span><span class="speaker"><strong>发言人3: </strong></span>如果我们看刚刚说的clo code，其实它是一个人类历史上增长最快的技术产品。如果我们说现在最领先的模型公司是两家，第一家是OpenAI，他们还是以ChatGPT出名，所有人去用聊天机器人这种方式，它是单轮的对话，问他一个问题，他给我一个回答。然后第二名其实是anthropic，他们做的事情是clock code。这clock code是一个任务比较能端到端完成的agent产品。T code的用户量其实只有ChatGPT这款产品的可能2%左右。但是收入就在上个月，其实anthropy的收入已经成为了世界上第一名的AI公司。其实说明coding agent这件事情的需求和它带来的不管是商业画册还是组织当中，大家去采用的这个趋势的增速是非常快和恐怖的。</p>
+<p class="transcript-line"><span class="time"><strong>[00:06:40]</strong> </span><span class="speaker"><strong>发言人2: </strong></span>我觉得这里或许可以给大家一个更有体感的例子。比如说我把一篇论文丢给deep sak千问这样的。</p>
+<p class="transcript-line"><span class="time"><strong>[00:06:46]</strong> </span><span class="speaker"><strong>发言人1: </strong></span>对话框。</p>
+<p class="transcript-line"><span class="time"><strong>[00:06:47]</strong> </span><span class="speaker"><strong>发言人2: </strong></span>式的AI和我用cloud code或者。</p>
+<p class="transcript-line"><span class="time"><strong>[00:06:49]</strong> </span><span class="speaker"><strong>发言人1: </strong></span>codex这样的agent.</p>
+<p class="transcript-line"><span class="time"><strong>[00:06:51]</strong> </span><span class="speaker"><strong>发言人2: </strong></span>它的差距具体在哪儿？</p>
+<p class="transcript-line"><span class="time"><strong>[00:06:53]</strong> </span><span class="speaker"><strong>发言人3: </strong></span>我可以先讲它的工作方式。豆包也好，ChatGPT也好，它的工作方式就是聊天机器人这种方式，把我发给她的论文给读进来，读进来之后他做一两次简单的搜索，就把搜索的内容和文章的东西去整合起来，然后把一篇全新的文章给到我。然后我可能觉得好的话，复制粘贴到我的word里面去，我觉得不好的话，我再跟他对话去交互操作。而clock code的它的形式比这个要往后。</p>
+<p class="transcript-line"><span class="time"><strong>[00:07:23]</strong> </span><span class="speaker"><strong>发言人3: </strong></span>我们说端到端的原因是因为它会先做一个规划，这篇论文它到底要改什么。在这个过程当中，他一方面要去搜更多的文献，第二部分他可以自己去写代码，跑更多的实验。你只要不是说现实里面摇是短，确实现在还做不到。但是实际是写代码，做数据分析这些类型的事情他都可以做完。所以在它运行的半小时、一小时，甚至是5小时以上的时间里面，他就在把刚刚说的这样一个完整的按照他规划来的工作，留给完整的实现我实际工作当中的一个比较好的实践或者说经验。就是一开始去修改他的计划，后面的那些部分我其实都不太会干预他。但是他出计划的第一步，我一般会仔细帮他去修改一下。</p>
+<p class="transcript-line"><span class="time"><strong>[00:08:08]</strong> </span><span class="speaker"><strong>发言人2: </strong></span>这样就很像是在跟人布置任务。因为你在跟这种聊天框的时候，你往往是你先把文章丢给他，你帮我改的更好一点。但是当我们和像clour code或者codex这样的一个工作伙伴合作的时候，我会先说我想要达到要什么效果。或者是你可以先读我过去的300篇文章，我写作是什么风格，约定一些我们的这个改写的规则等等等等，以及我的目标是什么。</p>
+<p class="transcript-line"><span class="time"><strong>[00:08:34]</strong> </span><span class="speaker"><strong>发言人3: </strong></span>是就之前那种对话框的模式的问题在于任何人面对一个空白的对话框，在你的30到60秒之内，你的表达不会和别人有多大差异的。就是你只能大概的模糊的讲清楚你的需求，大家拉不开一个所谓的方差。然后现在的状态，刚刚所说的cloud code或者是codex这样的产品，它一般会调用你本地的文件系统。在这个文件系统当中，一半有你过往的所有工作的上下文。然后我把必要的东西放到一个对的文件夹里面，它会适当的时候去读取去搜索。它其实就很像一个我的同事，而且是和我合作了一段时间同事，并不是刚刚开始执行任务的同事。</p>
+<p class="transcript-line"><span class="time"><strong>[00:09:17]</strong> </span><span class="speaker"><strong>发言人2: </strong></span>假如AI成为了一个和你配合无间的同事，那当你和真实同事打交道的时候，会感觉怎么没那么顺畅了？你会对真实世界的这些人有一点不耐烦吗？</p>
+<p class="transcript-line"><span class="time"><strong>[00:09:30]</strong> </span><span class="speaker"><strong>发言人3: </strong></span>我现在的处理方式是这样子的，我尽量和AI交互的频次比人交互的频次稍微高一点。大部分时候和人交互之前，我都会过一道和AI的交流，把这个问题想得更加的清楚一些。因为我觉得人很多时候的无效沟通，大家开会的时候经常会遇到自说自话。就是大家聊天其实聊不到一起去，一个原因是因为不同人的常态不一样，但另外一部分的问题，其实是大家根本就没有想清楚这个问题想那么解决。</p>
+<p class="transcript-line"><span class="time"><strong>[00:10:00]</strong> </span><span class="speaker"><strong>发言人2: </strong></span>以及开会我们要达成的目标是什么。</p>
+<p class="transcript-line"><span class="time"><strong>[00:10:02]</strong> </span><span class="speaker"><strong>发言人3: </strong></span>大家也没有解决。对，那这些事情其实都是可以和agent先沟通去解决的。</p>
+<p class="transcript-line"><span class="time"><strong>[00:10:08]</strong> </span><span class="speaker"><strong>发言人2: </strong></span>所以现在在你们公司内部会这样吗？比如说开会之前大家的agent先碰一遍。</p>
+<p class="transcript-line"><span class="time"><strong>[00:10:13]</strong> </span><span class="speaker"><strong>发言人3: </strong></span>我们开会变少了，agent碰面也会。我觉得这件事情在未来一定会发生的，就是所有人至少都有一个A人及以上。然后所有开会包括我们今天，比如说约伯特之前，可能是我们的agent帮我们来准备一个大概今天我想分享什么，你想提问什么。然后他们之间互相碰完之后，可能我们不用花太多的精力来弄这个事情。</p>
+<p class="transcript-line"><span class="time"><strong>[00:10:36]</strong> </span><span class="speaker"><strong>发言人2: </strong></span>那人到底是主宰还是只是一个执行的角色？</p>
+<p class="transcript-line"><span class="time"><strong>[00:10:40]</strong> </span><span class="speaker"><strong>发言人3: </strong></span>人是主宰这个我觉得是一定的。因为比如说我们沟通肯定有说我今天大概了解那些话题，但是最关键的那一些点还是要自己花时间去思考和打磨的。这些东西是品味和判断力，就是到底什么东西是好玩的、美的、重要的。这些东西可能这阵子很长一段时间。</p>
+<p class="transcript-line"><span class="time"><strong>[00:11:02]</strong> </span><span class="speaker"><strong>发言人2: </strong></span>都替代不了。所以你是一个乐观派，觉得人不会把思考的这个能力让渡给AI.</p>
+<p class="transcript-line"><span class="time"><strong>[00:11:08]</strong> </span><span class="speaker"><strong>发言人3: </strong></span>或者说我们不应该把思考的能力让渡了AI因为如果我们让杜这AI之后，我们会发现知行合一两边都会出问题。第一边是在知这一部分，很多东西就是他帮我们收集资料，我们囫囵吞枣一下，可能我们也不是真的想清楚了这事儿。行，这边的问题就是他永远都自己只能做到90%、95%、99.9%、99.99%。</p>
+<p class="transcript-line"><span class="time"><strong>[00:11:30]</strong> </span><span class="speaker"><strong>发言人2: </strong></span>最后那些事情很多人来说够了。</p>
+<p class="transcript-line"><span class="time"><strong>[00:11:33]</strong> </span><span class="speaker"><strong>发言人3: </strong></span>因为会发生一个问题，就是所有人都能做到90%，这条线就不够了，它这条金线就不一样了。就像今天大家会发现很多所谓很无聊，或者说看AI写的东西。这东西一旦充斥了整个市场之后。</p>
+<p class="transcript-line"><span class="time"><strong>[00:11:47]</strong> </span><span class="speaker"><strong>发言人2: </strong></span>已经充斥了。</p>
+<p class="transcript-line"><span class="time"><strong>[00:11:48]</strong> </span><span class="speaker"><strong>发言人3: </strong></span>对，可能已经充斥了。那这个时候这个质量的东西就已经不能满足普通人的需求了。</p>
+<p class="transcript-line"><span class="time"><strong>[00:11:54]</strong> </span><span class="speaker"><strong>发言人2: </strong></span>对我印象很深。因为我下个月要去看一个音乐节，然后我就加了很多群。当时就有一个人分享了他关于这个音乐节的一条小红书到群里，然后被人狂骂。大家说你这第一句话就是错的，因为肯定是AI帮他总结的，但是这是一个事实性错误。然后底下大家就开始说，你一个讲音乐的一个小红书账号，你连做最基本的资料搜集都不做，你还做什么音乐发掘？然后大家就在一通狂骂，我觉得。</p>
+<p class="transcript-line"><span class="time"><strong>[00:12:23]</strong> </span><span class="speaker"><strong>发言人3: </strong></span>很真实。</p>
+<p class="transcript-line"><span class="time"><strong>[00:12:25]</strong> </span><span class="speaker"><strong>发言人2: </strong></span>但是我们描述的这些，我觉得是现在在生活中能够感受到的一些事情。不管你是在任何行业，但是像我们更前面说的那些在工作中的应用之类的，其实对于很多人来说，听起来还是离自己的生活有一点远。我觉得这也是我很好奇的，就是为什么同样是活在2026年，有些人像是活在科幻小说里，有些人却几乎还没有感觉。他能感觉到AI替代了很多人的工作，但是他和自己直接的冲击，他可能还没有实干。为什么会这么割裂？</p>
+<p class="transcript-line"><span class="time"><strong>[00:12:57]</strong> </span><span class="speaker"><strong>发言人3: </strong></span>有几个原因，我觉得首先是AI进步真的太快，就是在过去这段时间内还在加速。去年12月份双培这公司发布了一个模型之后，A就突然进入了加速阶段。而这件事情其实我觉得让大家感受到是有一定难度的。然后我觉得第二个可能是大家实际上工作当中真的去把这个东西用到位的那个mindset可能还没有。就是因为我们习惯于一个问题用之前的方式解决，而且有可能这个事情用AI一开始来解决，给我带来的成本是大于收益的。举个例子，我这个活儿可能之前3个小时做完，我现在要把agent导入到让它能真正实现，我可能要5个小时以上。尽管我知道这件事情我做完一次之后可能一劳永逸，或者接近一劳永逸，但是大部分人还是很难把这件事情给真的做下去。我觉得这是正常的人性当中的一部分。这时候可能需要一些组织的帮助。比如说大家会看到海外的meta的公司在加车伯爵的带领下大炼钢铁，所有人都疯狂小头疼，所有人都试着把自己给still化。</p>
+<p class="transcript-line"><span class="time"><strong>[00:14:06]</strong> </span><span class="speaker"><strong>发言人2: </strong></span>这到底是组织在帮助还是组织在迫害？</p>
+<p class="transcript-line"><span class="time"><strong>[00:14:10]</strong> </span><span class="speaker"><strong>发言人3: </strong></span>我觉得组织在筛选人，在筛选出那些比较想把自己工作这AI化的人。因为特仑上存在的问题是，组织当中的协同效率已经不如人和agent的协同效率。所以他们不得不做这样的事情。不然的话这是一个新时代了，就是agent来了之后，一切都是新时代了。我们拿着一个旧的地图去看新时代的东西，我觉得看怎么样都看不清的，还不如接受这件事情。它本身是一个半世纪的变化，一切东西都会处理的比较舒服一点。</p>
+<p class="transcript-line"><span class="time"><strong>[00:14:43]</strong> </span><span class="speaker"><strong>发言人2: </strong></span>我觉得我可以分享一下我自己的心路历程。一开始主要是归功于我们的友台主播梦一眼。他一直跟我们说大家应该用起来。然后那个时候我就觉得很头疼，因为我是做内容的，我不是写代码的。我就在想说这个AI到底能帮助我做到哪一步。然后梦要跟我说，你有很大的优势，你之前录了这么多期博客，你有这么庞大的语料库，我想想有道理。我就开始搭自己的数据库，开始让AI协助我创作。</p>
+<p class="transcript-line"><span class="time"><strong>[00:15:15]</strong> </span><span class="speaker"><strong>发言人2: </strong></span>然后我就经历了无数遍道心破碎，非常的烦躁。因为我觉得写得真的太烂了，而且一看表一两个小时过去了。我想说这完全不如我自己写，都让我怀疑我是不是一个抗拒进入新世界的一个旧人，对吧？新世界没有能容纳我的船。但是后面我发现不管可能在接触了更多的技术信息，可能也是身边的环境，我真的是组织的帮助了大家都用起来了。包括也请像kate这样的外来的高手来分享。</p>
+<p class="transcript-line"><span class="time"><strong>[00:15:44]</strong> </span><span class="speaker"><strong>发言人2: </strong></span>然后我会发现说，当我真的放下很多成见，试图以一个我先尝试任何工作，结合AI做一做。然后我会发现说其实在很多地方它也是能帮到我的，而且我能感觉到他越来越了解我，我觉得他越来越了解我是特别重要的一步。所以才会发生说当我想要改写我自己的文稿，不是说他从0到1的创作，我发现他的帮助特别大，话都是我说的，只是他的顺序重新组织了一下。</p>
+<p class="transcript-line"><span class="time"><strong>[00:16:13]</strong> </span><span class="speaker"><strong>发言人2: </strong></span>但是我相信可能很多人也经历过我这样的过程。可能有些人卡在第二步，就是他尝试着用，然后发现说好像对自己的工作没有太大帮助。他所在的组织可能试着用了用，发现也用不上。他就觉得说可能AI跟我们的这个行业关系还没有那么大。我就在想说这是因为有些行业有些组织它天然的更靠近AI还是说这样的变化本来就会先集中发生在某些行业、某些组织或者是某些人身上，就还是一个体感割裂的。</p>
+<p class="transcript-line"><span class="time"><strong>[00:16:44]</strong> </span><span class="speaker"><strong>发言人3: </strong></span>问题是我在想比如说你刚刚分享那个场景，你一开始没用起来的原因，你觉得是因为你给AI的上下文不够，还是模型本身的能力不够，还是什么原因？</p>
+<p class="transcript-line"><span class="time"><strong>[00:16:57]</strong> </span><span class="speaker"><strong>发言人2: </strong></span>我觉得这两者都有。因为之前可能还是在那种聊天对话框里，他对我的了解是不可能够的。比如说因为我们每期节目我都要在最后重新写一遍开头和结尾，给大家介绍一下为什么要听这期节目。</p>
+<p class="transcript-line"><span class="time"><strong>[00:17:12]</strong> </span><span class="speaker"><strong>发言人2: </strong></span>我以前会幻想说也许AI能帮我干这个事儿，然后后来我发现我花了一两个小时在训他，让我自己精疲力尽，不如我自己花半个小时自己写。我就会觉得非常的沮丧，就非常的怀疑人生。我想说我是不是被AI时代给抛弃了。但是随着后来我用codex cloud code之后，他更了解我，他拥有我很多知识库。他能从我的那么多的语料中提炼出我提问的方式，我是怎么看待问题的，怎么看待世界的。那么他后来出的内容的质量就会好很多。虽然最后的三公里还是得我写。对。</p>
+<p class="transcript-line"><span class="time"><strong>[00:17:45]</strong> </span><span class="speaker"><strong>发言人3: </strong></span>可能有几个要素非常的重要。第一个就是组织包容大家去试错，不要有一个环境来push你说你把事儿快做出来，而是说你的目标函数就是你多用用AI试试，这个环境其实不容易。但是我觉得在每一波科技浪潮早期其实很重要。因为一个放大生产力的技术突然出现的时候，大家都不知道怎么用的。比如说当年手机智能手机上出来的时候，甚至还没有iphone，可能还是多普达HTC那个时代大家也不知道一个手机到底能干哪些事情。大家只知道第一它可以打电话，第二他去上网。除此之外所有的那些APP其实都是当时那些大家可能觉得有点自嗨，或者说去搓一些小玩意儿的那些人去做出来的。所以在那一些人当中，最先的去把手机给用起来和不断的去试错。</p>
+<p class="transcript-line"><span class="time"><strong>[00:18:36]</strong> </span><span class="speaker"><strong>发言人3: </strong></span>和开发者交互的那一批人，慢慢的定义了手机到底能做什么，不能做什么。后来才有了更多的变化。比如说移动支付，短视频这样一些东西。但那都是后视镜看的。其实最早的时候很难定义清楚这些东西到底是什么样。所以我觉得包容一些试错可能是很重要的。</p>
+<p class="transcript-line"><span class="time"><strong>[00:18:57]</strong> </span><span class="speaker"><strong>发言人2: </strong></span>所以它并不是说完全的分行业，而是说他跟你所在的这个小环境有很密切的关系。</p>
+<p class="transcript-line"><span class="time"><strong>[00:19:04]</strong> </span><span class="speaker"><strong>发言人3: </strong></span>对，因为不管是什么行业，我觉得都会出现一开始上手有点难度的事情。但是你是不是足够包容这件事情？然后还有就是你自己以及你在的环境是不是足够相信模型和AI产品的能力还会进步。举刚刚例子，比如说互联网或者移动互联网早期拨号上网和2G3G网络的时代，当时的网是多么的慢，才多少KB对吧？然后他能用的那些网站是多么的很难说，它都是一个个非常小的图片，你还不一定加载的出来。但现在我们的5G网络所有的高画质的内容就像自来水一样流出来。我们是不是相信在某一个时间点，智能也会像自来水一样这样流出来。如果相信的话，我们就自己上手慢慢去做，同时等着他进步就好了。</p>
+<p class="transcript-line"><span class="time"><strong>[00:19:53]</strong> </span><span class="speaker"><strong>发言人2: </strong></span>我觉得kate老师还是太手续善良了。我觉得更普遍的一种其实是一种被迫感。比如说五年后，当大家再回头看，现在很多人接触AI用起来AI它可能都是一种被迫的选择。比如他感受到老板的焦虑，或者是老板说你们每个人都必须得用AI做一个东西出来，或者是你能感受到这种同级带给你的这种压力。我觉得这个可能是一个更普遍的事情。</p>
+<p class="transcript-line"><span class="time"><strong>[00:20:21]</strong> </span><span class="speaker"><strong>发言人2: </strong></span>然后这个也会让我想到，其实前段时间我在社交媒体上会看到大家嘲笑一个说法。如果你身边的人没有聊什么agent聊什么open cloud或聊什么什么，那你就应该换一个圈子了，很多人在玩这个梗，然后嘲笑他。但是我亲身经历了这几个月之后，我意识到其实那个话话糙理不糙。因为当你置身于这个环境的时候，很多时候有很多信息是你被动接受的。就像我中间一度我非常排斥AI但由于每天还要再有这有些工作，每天在被动的接受这些知识，其实你内心那个种子是在慢慢的发芽。可能有一天你说好像我终于摸索到了一个我可以实施的一的方法是再包括说我们的友台面基的主播老钱，他以前对于AI的使用可能也都是聊天框。好像就是上个月他才知道，原来还有cloud的这种东西。</p>
+<p class="transcript-line"><span class="time"><strong>[00:21:12]</strong> </span><span class="speaker"><strong>发言人2: </strong></span>因为他平时会做很多的投资类的内容的分享，现在发展是当他聊美股的时候，他就趴web coding一个关于美股走势历史数据的一个网站，跟他的读者说，你们每个人可以上这个网站来看。然后当他聊黄金的时候，他就趴做了一个黄金的网站，他做的非常快乐，非常开心。他以前非常擅长做图表，但是因为有了AI的加深，他甚至可以做一个网站，它甚至是可以动态的，他会觉得非常的有成就感。</p>
+<p class="transcript-line"><span class="time"><strong>[00:21:41]</strong> </span><span class="speaker"><strong>发言人3: </strong></span>我觉得张扬两个例子都很有意思。第一个例子给我的感受就是他有善意假设和恶意假设，对吧？善意的那个假设，或者说好的那例子，我觉得也是存在的。有一些老板是真的懂AI，并且想用好AI。自己发现它是个好东西之后，让手下人一起去用。这个我觉得是好的那种例子。恶意假设就是确实他也不懂什么是爱。</p>
+<p class="transcript-line"><span class="time"><strong>[00:22:03]</strong> </span><span class="speaker"><strong>发言人2: </strong></span>但他觉得这玩意儿很重要。</p>
+<p class="transcript-line"><span class="time"><strong>[00:22:04]</strong> </span><span class="speaker"><strong>发言人3: </strong></span>他觉得这玩意很重要，然后他就要表演自己懂ai那么在这种情况之下，它就是不好的。</p>
+<p class="transcript-line"><span class="time"><strong>[00:22:10]</strong> </span><span class="speaker"><strong>发言人2: </strong></span>但是有的时候这个因也不是很重要，很多时候很多事情都是坏端端的好起来了。</p>
+<p class="transcript-line"><span class="time"><strong>[00:22:15]</strong> </span><span class="speaker"><strong>发言人3: </strong></span>对对对，是的。</p>
+<p class="transcript-line"><span class="time"><strong>[00:22:17]</strong> </span><span class="speaker"><strong>发言人2: </strong></span>那在你的工作和生活中，有没有哪些例子是你觉得可能这个人的工作或者这个行业，它看起来离AI离科技很远，但它却可以用得上。</p>
+<p class="transcript-line"><span class="time"><strong>[00:22:27]</strong> </span><span class="speaker"><strong>发言人3: </strong></span>我觉得非常多，而且它应该就是离科技越远，可能还更用得上。因为AI这件事情其实是做科技的人在颠覆自己。你这么想。</p>
+<p class="transcript-line"><span class="time"><strong>[00:22:37]</strong> </span><span class="speaker"><strong>发言人2: </strong></span>觉得是这样想挺变态的。就是一群人每天熬夜，然后研发这个技术，然后把自己替代掉。</p>
+<p class="transcript-line"><span class="time"><strong>[00:22:43]</strong> </span><span class="speaker"><strong>发言人3: </strong></span>很有可能是这么一回事儿。因为你看最新的and shopping模型发布的时候，他就会说cloud参与到了训练下一代cloud工作当中。我和那些前沿的AI lab交流的时候，他们都会说自己可能在清清楚楚站着一两年可能也差不多了。因为接下来模型能够自己去优化自己，或者说可能人很难真的在开发这件事情上比AI做的更好。所以越是离技术越近。</p>
+<p class="transcript-line"><span class="time"><strong>[00:23:09]</strong> </span><span class="speaker"><strong>发言人3: </strong></span>然后现在大家也会发现，在硅谷，年轻人不太需要招。因为大家会发现一个资深的程序员，你给他开三五个clock code账号，比带上三五个年轻人的效率不知道高到哪儿去了。我觉得这是一件很残酷。</p>
+<p class="transcript-line"><span class="time"><strong>[00:23:23]</strong> </span><span class="speaker"><strong>发言人2: </strong></span>但是这个也太残酷了。</p>
+<p class="transcript-line"><span class="time"><strong>[00:23:26]</strong> </span><span class="speaker"><strong>发言人3: </strong></span>所以说回来我觉得技术行业对自己的颠覆是更大的。反而非技术行业的人应该用起来AI之后带来的增益是越大的。等于说研发成本其实被那一些公司给解决了之后，我用到的已经是一个世界级的智能。就是我们不能怀疑这模型本身其实比我们身边大部分人的人要聪明。在这个之后，就是我们怎么用这些聪明的脑袋来解决一些我们已有的问题。</p>
+<p class="transcript-line"><span class="time"><strong>[00:23:55]</strong> </span><span class="speaker"><strong>发言人3: </strong></span>所以大家实际去看北美以及南美的一些企业的时候，其实chat BT germany还有minus这种类型的产品。他们的用户量当中前三都有巴西。巴西是的中小企业主非常蓬勃的地方，有非常多的类似于像电商零售、美容医疗这种类型的小企业主。他们用AI其实用的非常的快。而且我们会发现其实用AI来做企业的公司里面，我们不说所谓的创业公司或者说独角兽，我们就说普遍的企业来说，其实零售，电商这种类型的场景是远比技术更多的。所以如果我们把它当做一个市场来看的话，用AI做出来的市场，它绝对不是像硅谷那样。它是有点像一个外面的集市那样的，就是什么样的生意可能在里面都有。</p>
+<p class="transcript-line"><span class="time"><strong>[00:24:46]</strong> </span><span class="speaker"><strong>发言人2: </strong></span>在这个AI时代，它未来就像是一个集市，而不是像硅谷那样大公司盈利的这样的一个组织形态。</p>
+<p class="transcript-line"><span class="time"><strong>[00:24:54]</strong> </span><span class="speaker"><strong>发言人3: </strong></span>或者说技术本身没有那么重要了，因为技术被平权了，就是做好开发这件事情变成一个基准线。那再往上可以出现什么样的生意形态，可能想象力就能打开很多。</p>
+<p class="transcript-line"><span class="time"><strong>[00:25:05]</strong> </span><span class="speaker"><strong>发言人2: </strong></span>刚才开始在讲说各个行业都可以把这个AI用起来，而且可能离AI越远的行业，可能对他们的帮助是最大的。但是上次你讲了一个例子，我印象很深。就是说可能硅谷的这个对冲基金给他们纽约的同行演示一下他们平时怎么工作。纽约对冲基金的人就会很震撼。这些硅谷的人可能1个小时完成了他们一周的工作。哪怕是在同一个行业，它在空间分布上，大家的认知理解也是非常的不均匀的。</p>
+<p class="transcript-line"><span class="time"><strong>[00:25:35]</strong> </span><span class="speaker"><strong>发言人3: </strong></span>这个可能就是自然规律和它所在的圈子必然会发生的一件事情。今天真的用上AI的和了解AI的人可能还是没有那么多，可能还是只有世界上的20%。</p>
+<p class="transcript-line"><span class="time"><strong>[00:25:48]</strong> </span><span class="speaker"><strong>发言人2: </strong></span>你这个20%它的了解程度是多少？</p>
+<p class="transcript-line"><span class="time"><strong>[00:25:52]</strong> </span><span class="speaker"><strong>发言人3: </strong></span>至少知道且用过任何一个AI产品知道它是怎么样。所以就是说ChatGPT豆包这种类型的产品。</p>
+<p class="transcript-line"><span class="time"><strong>[00:26:01]</strong> </span><span class="speaker"><strong>发言人2: </strong></span>我觉得都OK。但其实这样也只是20%是吗？</p>
+<p class="transcript-line"><span class="time"><strong>[00:26:04]</strong> </span><span class="speaker"><strong>发言人3: </strong></span>我相信是的。因为AI这一波浪潮其实也只有进行了三年，对我们来说变得太快了。就是这三年里面发生的事情像过了十年一样。</p>
+<p class="transcript-line"><span class="time"><strong>[00:26:13]</strong> </span><span class="speaker"><strong>发言人2: </strong></span>所以真的再把它当做生产力工具的人，那比例就更少了。</p>
+<p class="transcript-line"><span class="time"><strong>[00:26:18]</strong> </span><span class="speaker"><strong>发言人3: </strong></span>对，就物理世界的约束还是在那边的，而且物理世界的约束还分很多种，对吧？第一种就是很多工作需要人和人之间的信任，那么这个事情AI替代不了。第二个事情是很多工作需要人的从法律层面和监管层面的许可，那这件事情可能替代不了。第三种事情就是这个工作需要人物理上在那边，那就决定了它的渗透速度，就是物理世界的渗透速度，它不会那么快。</p>
+<p class="transcript-line"><span class="time"><strong>[00:26:48]</strong> </span><span class="speaker"><strong>发言人2: </strong></span>我在想有没有可能就是稍微展开一下，比如说我们前面举的那个例子，就哪怕是同行一个人1个小时完成的工作，是另外一个人一周的工作。我觉得这个对于大部分人来说很难想，好像这个例子能稍微展开一下吗？</p>
+<p class="transcript-line"><span class="time"><strong>[00:27:02]</strong> </span><span class="speaker"><strong>发言人3: </strong></span>在大部分需要写代码或者深度搜索做调研的任务来说的话，同样的时间内agent能处理的信息量和人已经不是你的量级了。比如说我们就拿我比较熟悉的做投资研究和AI研究来说的话，如果我们正常去理解一个行业或者是一篇论文，它就是需要很多时间的。比如说我外包给我的一个同事做，那么可能这个任务本身是一个礼拜的事情。他需要先做前期的行业调研，然后去想清楚关键问题之后。</p>
+<p class="transcript-line"><span class="time"><strong>[00:27:37]</strong> </span><span class="speaker"><strong>发言人2: </strong></span>对其中的几个你们的这种行业调研是要去实地的，还是说在网上搜资料，还是说电话访问等等等等。</p>
+<p class="transcript-line"><span class="time"><strong>[00:27:45]</strong> </span><span class="speaker"><strong>发言人3: </strong></span>实地会比较少，大部分是电话访问和网上的资料。</p>
+<p class="transcript-line"><span class="time"><strong>[00:27:49]</strong> </span><span class="speaker"><strong>发言人2: </strong></span>可能比如说一周，如果你觉得这个任务你的同事可能要需要一周完成，可是第一天她全天都得干这个事儿。</p>
+<p class="transcript-line"><span class="time"><strong>[00:27:55]</strong> </span><span class="speaker"><strong>发言人3: </strong></span>对，然后接下来可能他要把这些信息重新组织到一起，我们需要开会去沟通这个东西，他接下来研究的关键问题是什么，然后再把这个东西再迭代一遍。这件事情现在在agent可能能做到的事情就是在2个小时左右。这2个小时当中，我大概有两次左右的介入去和他沟通，说接下来的一步研究要怎么样去把它做好。如果2个小时内没有完成，这里的瓶颈也不一定是在AI大部分是在我，我可能没有时间去给它比较好的监督和任务。而且这件事情其实在我原来做的AI研究的领域其实也存在。因为比如说人要理解一篇论文，并且去比如说在数学上和在工程上去理解它，并且把它复现出来就是需要时间的。</p>
+<p class="transcript-line"><span class="time"><strong>[00:28:42]</strong> </span><span class="speaker"><strong>发言人3: </strong></span>因为人脑就是一个21瓦的算力。但是大模型本身大家都知道，现在的数据中心已经是G瓦量级的数据中心了，他们的算力根本不是一个级别的。所以现在我也身边有很多朋友在做AI研究的时候，他们先把一篇paper教给AI读，并且把当中的一些数学的东西摞成一堆still。然后再用cloud code去把这个实验的基础的复现一下。其实就是代替了人脑当中计算量不够大的问题。基本上也是的，你这一周左右的任务可能会被压缩到半天左右的时间内完成。就是所有这些偏调研和研究的任务，就刚刚说的在虚拟世界完成的话。</p>
+<p class="transcript-line"><span class="time"><strong>[00:29:23]</strong> </span><span class="speaker"><strong>发言人2: </strong></span>那我觉得都可以被压，所以一切不需要你实际去完成的对，但中间可能要解决一些事实核查以及相关的一些问题，你要做好这个监督review对。</p>
+<p class="transcript-line"><span class="time"><strong>[00:29:34]</strong> </span><span class="speaker"><strong>发言人3: </strong></span>就是我要确保它在对的方向上。</p>
+<p class="transcript-line"><span class="time"><strong>[00:29:36]</strong> </span><span class="speaker"><strong>发言人2: </strong></span>所以你现在的工作量是以前的几倍。</p>
+<p class="transcript-line"><span class="time"><strong>[00:29:40]</strong> </span><span class="speaker"><strong>发言人3: </strong></span>按照刚刚那个说法是十倍，对吧？因为五天的时间的任务被半天解决了。</p>
+<p class="transcript-line"><span class="time"><strong>[00:29:47]</strong> </span><span class="speaker"><strong>发言人2: </strong></span>对，太好奇了，所以可能会自动加班，自主加班。</p>
+<p class="transcript-line"><span class="time"><strong>[00:29:50]</strong> </span><span class="speaker"><strong>发言人3: </strong></span>是啊，就是有一个事情他都已经做完了之后，我不去颤一颤，让他接着做下一步不太舒服。就是我最近的状态经常是agent在这段时间内，如果我没有把他的token给压榨到极致的话，我自己也不太想停下来。</p>
+<p class="transcript-line"><span class="time"><strong>[00:30:07]</strong> </span><span class="speaker"><strong>发言人2: </strong></span>因为我记得cloud它是6个小时.</p>
+<p class="transcript-line"><span class="time"><strong>[00:30:09]</strong> </span><span class="speaker"><strong>发言人3: </strong></span>每6小时刷新一次。</p>
+<p class="transcript-line"><span class="time"><strong>[00:30:10]</strong> </span><span class="speaker"><strong>发言人2: </strong></span>对，每6个小时刷新一次。然后就导致有很多人的作息都全部紊乱。就比如说之前看过一个小红书的笔记，说老我老公每天早上四点钟一定要起来。因为那个时候是他的token重置的时间，他觉得不说点什么，不用就浪费了。</p>
+<p class="transcript-line"><span class="time"><strong>[00:30:25]</strong> </span><span class="speaker"><strong>发言人3: </strong></span>对，这不是挺好吗？</p>
+<p class="transcript-line"><span class="time"><strong>[00:30:27]</strong> </span><span class="speaker"><strong>发言人2: </strong></span>这个对于很多人来说，听起来都感觉不可思议，就哪怕像我这样跟AI已经在一起协作的人，对于那些可能现在的工作生活跟AI还没有完全接轨的，他就觉得说哇塞这人有病。每6个小时要起来爬起来，要跟一个AI哪怕说一句hello，他也觉得很开心。</p>
+<p class="transcript-line"><span class="time"><strong>[00:30:45]</strong> </span><span class="speaker"><strong>发言人3: </strong></span>我觉得大家都会上瘾的点是因为它的杠杆率真的很高。你说利用的也好，还是说去调用到的计算量和算力，实在是和现实世界不是一个量级，带来的冲击实在是太大。</p>
+<p class="transcript-line"><span class="time"><strong>[00:30:57]</strong> </span><span class="speaker"><strong>发言人2: </strong></span>因为我在想说，其实不是每个人都想做有杠杆率那么高的事情的，不是每个人都想掌握这么多能力。很多人只是希望可以舒舒服服的，不争不抢的过一个普通的生活。我之前也是跟AI聊，他跟我说了一组我觉得很好的对比。他说对主动性强的人来说，AI是翅膀，对疲惫的人来说他是鞭子，对有资源的人来说他是杠杆，对没有资源的人来说它是更高的门槛。</p>
+<p class="transcript-line"><span class="time"><strong>[00:31:25]</strong> </span><span class="speaker"><strong>发言人3: </strong></span>首先我觉得追求安逸，它看起来是一个人性本能的事情，但是它其实不太符合生物本能。就是生物本能当中是会知道，当出现危险的时候，我们是需要承受一定的波动和风险。但现代工业革命之后的资本主义社会给了我们一个很好的温床，就是觉得我们只要把某一部分事情给做好，那么好像一切事情都可以有一个系统给我兜着底。然后这个事情塔勒布曾经说过一句话，叫做世界上有三样东西的上瘾是对人非常不好的。第一种是海洛因，第二种是碳水化合物，第三种是工资。当然台乐部一直是这样一个人，对吧？在他的世界观里面，人只做一个非常小的分类式，并且幻想着这个事情可以永续一辈子，是一种幻觉。这种幻觉可能对人本身的能力是一种扼杀。</p>
+<p class="transcript-line"><span class="time"><strong>[00:32:23]</strong> </span><span class="speaker"><strong>发言人3: </strong></span>其实回到这个角度来说，是工业革命把人放到了这个位置上，在一个流水线上，你好像自己把这里的螺丝钉拧完，然后这件事儿做完就结束了。你就领好你的工资，你不用为你做的这个事情，最终产品的成果去付太多的责任，你只要把你这一步做好就行了。我最近正好去了一趟意大利旅游。其实文艺复兴的那些人是这第一次真的把人不是螺丝钉，而是能成为通才这件事情给放到纲领当中去了。所以会出现像达芬奇、米开朗基罗那样类型的人。当年很有意思的是，达芬奇在他给米兰大公爵的求职信当中，他前面的九段是关于自己能够修城防，指挥军事，怎么去做一个城市的总督等等这样类型的事情。最后一段是说，我还可以画点画。</p>
+<p class="transcript-line"><span class="time"><strong>[00:33:21]</strong> </span><span class="speaker"><strong>发言人2: </strong></span>和做点雕塑顺带手的对。</p>
+<p class="transcript-line"><span class="time"><strong>[00:33:24]</strong> </span><span class="speaker"><strong>发言人3: </strong></span>而且那时候对于人的预设其实是全能的，并且能够自己尽可能为自己的事情做的去负责的。所以也会出现后面米开朗基罗画创世纪，他尽管是一个雕塑家，但是他被放在西斯廷教堂里面去做了十年创世记者的作品。当时人的预设其实不光是做这样类型的事情。</p>
+<p class="transcript-line"><span class="time"><strong>[00:33:46]</strong> </span><span class="speaker"><strong>发言人2: </strong></span>而且那个时候也没有艺术家这个概念。那时候他就是他就是个工匠，他理论上他就应该什么都会干。</p>
+<p class="transcript-line"><span class="time"><strong>[00:33:51]</strong> </span><span class="speaker"><strong>发言人3: </strong></span>对他就是个活儿，甚至当时医生和画家是在一个行会里面的。当然因为这些事情之后，促使了后面的启蒙运动，工业革命这些东西。然后工业革命把人驯化到了一个好像人只能做螺丝钉的状态。</p>
+<p class="transcript-line"><span class="time"><strong>[00:34:07]</strong> </span><span class="speaker"><strong>发言人2: </strong></span>大家就无限的分工，然后分工越来越细。</p>
+<p class="transcript-line"><span class="time"><strong>[00:34:10]</strong> </span><span class="speaker"><strong>发言人3: </strong></span>这件事情到今天智能革命其实可能是会终结的。我们刚刚聊了那么多，其实就是说我们如果只做我们分工内的事情，AI一定能做的比我们好。因为AI最擅长的那件事情就是在一个有限的规则之内去不断的重复，并且把它精进。而人最擅长的事情，回到前面说文艺复兴那件事情，其实是在一个不确定性的有创造性的空间里面去尽可能地做更多事情，尽可能的端到端，为自己做的东西负责，并且为他们的美和重要性负责。这事情可能是AI真的能把大家从专业化分工当中解放出来的。所以它有点像这三阶段，对吧？</p>
+<p class="transcript-line"><span class="time"><strong>[00:34:50]</strong> </span><span class="speaker"><strong>发言人3: </strong></span>从文艺复兴开始那一刻，其实优秀的人的定义是人不是螺丝钉。但是到工业革命之后，其实人被放到了一个螺丝钉的位置上，因为这样生产力能最高。但是有了智能革命之后，可能人不再需要是螺丝钉了，而且这可能是更好的状态。就是大家知道了怎么分工，并且不用沉溺于那个过度专业化的螺丝钉分工当中。</p>
+<p class="transcript-line"><span class="time"><strong>[00:35:13]</strong> </span><span class="speaker"><strong>发言人2: </strong></span>当你想做一件事情，以前你会觉得说我可能得去找各种各样的人来帮我去做，或者要跟各种各样的人沟通协作，甚至是不太可能实现的。但是现在有了AI的辅助，其实很多事情他都可能变为现实。只要你有这样的想法是对。然后我刚才你在讲的过程中，我也会在想说，我们会讲父母这一代对孩子的期待，就是希望他能过一个按部就班的生活，那应该按部就班上班。可能就是过去几十年才出现的词，只是因为我们生下来之后，这个词它已经在了。我们觉得这个东西好像就像是太阳东升西落一样，它是一个颠簸不变的定理。当我们把历史的时间拉长这一段时间，它反而是一个异常的状态。</p>
+<p class="transcript-line"><span class="time"><strong>[00:35:55]</strong> </span><span class="speaker"><strong>发言人3: </strong></span>是就专业化分工不是人的自然状态，是某一个特定科技的带来的时代性产物。</p>
+<p class="transcript-line"><span class="time"><strong>[00:36:01]</strong> </span><span class="speaker"><strong>发言人2: </strong></span>这个让我想起之前我们有一个嘉宾，他引用了一句话，就是一个人应该会做什么事儿吗？他一个人应该会修补衣物，会造房子，会写十四行诗，会拿起兵器战斗等等等等。</p>
+<p class="transcript-line"><span class="time"><strong>[00:36:15]</strong> </span><span class="speaker"><strong>发言人3: </strong></span>这是海因莱因的话。对对对。</p>
+<p class="transcript-line"><span class="time"><strong>[00:36:18]</strong> </span><span class="speaker"><strong>发言人2: </strong></span>他就说只有昆虫才专业化，就一个人他本来就是应该掌握各种各样的技能。其实可能我们的教育也好，我们习惯的社会也好，把我们束缚住了。对，当然我觉得听到这节有些人会觉得有点兴奋，可能自己的束缚可以被打开，但是可能对于很多人来说是一种惧怕。就是难道我还要再学很多东西吗？我还要去掌握很多东西吗？我已经上了十几年的学，也上了十几年的班，我已经很累很辛苦了。为什么偏偏是我遇到这样的一次巨大的技术革命？</p>
+<p class="transcript-line"><span class="time"><strong>[00:36:50]</strong> </span><span class="speaker"><strong>发言人3: </strong></span>还是回到前面说的，那个人比AI强的能力就是拥抱不确定性的能力。就是遇到这些事情的时候，可能所有人都比自己想到的适应能力要更强一些。只是当听到这句话的时候，可能会觉得不适，或者说想要卖出一个自己之前已经适应的某一个舒适区。对，舒适区。但真的卖出去之后可能会发现比之前舒服未必不可能。如果大家都慢慢的适应这件事情之后，当年凯恩斯说的那个凯恩斯在上世纪大萧条的时候，不是说未来人类应该一周只工作15个小时，对吧？我觉得这件事情一定是往那个方向走的，就是说不定是四天工作制或者怎么样。</p>
+<p class="transcript-line"><span class="time"><strong>[00:37:34]</strong> </span><span class="speaker"><strong>发言人2: </strong></span>如果我们回到AI这件事情上来说，就现在大众对AI最容易误判的事情有哪些？有哪些是大家高估的，有哪些是大家低估的？</p>
+<p class="transcript-line"><span class="time"><strong>[00:37:43]</strong> </span><span class="speaker"><strong>发言人3: </strong></span>先说低估的，到底知识工作者会被多大程度的被AI的自动化？这件事情就是AI今天的能力其实。</p>
+<p class="transcript-line"><span class="time"><strong>[00:37:54]</strong> </span><span class="speaker"><strong>发言人2: </strong></span>被低估了，现在还处于低估。</p>
+<p class="transcript-line"><span class="time"><strong>[00:37:56]</strong> </span><span class="speaker"><strong>发言人3: </strong></span>的状态吗？我相信如果大家没有用到最好的AI agent的时候，一定是低估他的能力的这恰恰是因为没有很好的产品让所有人都感受到这个能力。听到这个很抽象的说法的时候，可能还是不能够立马感受到它到底能解决多少事情。以及因为他而产生的商业化收入，其实我觉得也被大家低估了。就是收入角度来说，还是刚刚说的那个，它就是人类历史上增长最快的一个产品线，而且没有之一。Cloud对，cloud这个是我想表达这个层面的地步的。</p>
+<p class="transcript-line"><span class="time"><strong>[00:38:30]</strong> </span><span class="speaker"><strong>发言人3: </strong></span>而且今年下半年会发生一件事情就是OpenAI and sharp s space set。这三家公司全部都会上市。全部都会上市之后，大家之前一直说的major seven，也就是七姐妹一下子就会重新洗牌。就有一些公司一定会因为AI落伍。到时候到底谁是这个世界上最好的公司，这个是要大大打一个问号的。很有可能模型加上agent就是cloud cold加上codex以及背后的and shop IT加上open IGI公司就是世界上最好的资产。这件事情我觉得大家。</p>
+<p class="transcript-line"><span class="time"><strong>[00:39:05]</strong> </span><span class="speaker"><strong>发言人2: </strong></span>代表嘉宾个人意见。</p>
+<p class="transcript-line"><span class="time"><strong>[00:39:08]</strong> </span><span class="speaker"><strong>发言人3: </strong></span>在那个时间市场很有可能会反映在这件事情上。</p>
+<p class="transcript-line"><span class="time"><strong>[00:39:12]</strong> </span><span class="speaker"><strong>发言人2: </strong></span>关于你前面那个事情，其实我有几点想补充。就包括像比如说我有一些朋友也会去参加各种各样的课程，可能都是一些非常知名的各个领域的教授，然后会讲说结合他们的领域和AI做这样的一些主题演讲或者是课程。然后他上了几天之后，他发现非常的失望。因为他意识到各个领域的专家，那些学者，他们只是浅浅的用了一下，可能跟AI聊了聊天，然后他觉得他对AI已经有了足够的了解。然后他就会讲比如说从经济，从哲学等等角度来看AI和AI时代，然后这些就会让他觉得还挺失望的。因为他发现这些各个领域专家对AI的了解和使用远远不够，确实就像你说的是低估的状态。</p>
+<p class="transcript-line"><span class="time"><strong>[00:39:56]</strong> </span><span class="speaker"><strong>发言人3: </strong></span>对，而且他们能成为专家代表着他们在上一个时代很成功。那么他就拿着上一个时代的旧地图，他们一定就在用AI这件事情上会带有自己的成见，他不是从AI原生的去思考这个问题的，这个问题他很难避免，就像今天马斯克做的XAI也没有如期那样能够追上超越OBNAI或者刷屏。尽管他一度是世界上算力最大的公司。</p>
+<p class="transcript-line"><span class="time"><strong>[00:40:21]</strong> </span><span class="speaker"><strong>发言人2: </strong></span>因为他在旧时代赢过，然后赢过很多次。</p>
+<p class="transcript-line"><span class="time"><strong>[00:40:24]</strong> </span><span class="speaker"><strong>发言人3: </strong></span>他的路径依赖一定不能让他在新时代去做到最好。</p>
+<p class="transcript-line"><span class="time"><strong>[00:40:28]</strong> </span><span class="speaker"><strong>发言人2: </strong></span>所以这才是现在的中年人危机。大家就觉得说新时代还是新脑子好用。</p>
+<p class="transcript-line"><span class="time"><strong>[00:40:33]</strong> </span><span class="speaker"><strong>发言人3: </strong></span>这不是好事儿。每一代人有每一代人的机会，大家的历史使命都有自己的历史使命，这样每一代人才能有机会。然后说到第二点，对低估这件事情投入角度来说，人类历史上集中投入最多的东西可能是美苏冷战时期的阿波罗登月计划。即使是阿波罗登月计划，按照CPAI算到今天整整13年，投入大概在2000到3000亿美金左右。而今年猪肉给大家的预期就是要在AI这一个层面投入2000亿美金左右。一家公司如果把meja 7加上oracle这些公司声称自己要投入的AI pad base加起来可能是大几千亿美金甚至更多的一个量级。所以我觉得大家还是低估了AI这件事情的重要程度，以及这些科技巨头认为这件事情对自己的重要程度。</p>
+<p class="transcript-line"><span class="time"><strong>[00:41:29]</strong> </span><span class="speaker"><strong>发言人2: </strong></span>当你提到这些大公司，尤其是美国的这些大公司的投入，可能很多人会觉得说离我生活很遥远。但其实包括最近一两个月，我们也能看到很多媒体在讨论，这些大公司，因为他们想all in AI。然后造成的资源浪费、环境污染等等那些事，切实的影响到很多，尤其是发展中国家的人。而且最悲伤的一点是，大家发现自己拿这件事情一点办法都没有。因为大公司他有资源，他有钱，尤其是美国的这些大公司，他跟这个监管层面也有千丝万缕的关系。比如说西班牙的农民或者是南美的一个土地主，他可能就没有任何的办法去来面对这样的事情，就是他你抵抗不了。</p>
+<p class="transcript-line"><span class="time"><strong>[00:42:14]</strong> </span><span class="speaker"><strong>发言人3: </strong></span>我现在分化出了两种想法。第一种就是如果从偏环保的角度来说，算力中心真的产生了二氧化碳和能源消耗太多了，这个事情是确实存在的。但是从技术加速主义的角度来说的话，现在人类环境已经有很多科学没有办法解决的问题。有了AI之后可能能大大加速他们的解决。比如说全球变暖。</p>
+<p class="transcript-line"><span class="time"><strong>[00:42:37]</strong> </span><span class="speaker"><strong>发言人2: </strong></span>我以为你想说的是加速毁灭。</p>
+<p class="transcript-line"><span class="time"><strong>[00:42:39]</strong> </span><span class="speaker"><strong>发言人3: </strong></span>可能是地球的加速毁灭，但未必是人类的加速毁灭。OK这话有点骄傲了，我重新说一下，就是我也不能我也不能说地球就会因为这个东西毁灭，因为地球把我们给清除掉。时间轻轻松松的事情的。对对对，我想说的点是在于AI能够加速科学发现的文艺复兴，进而让我们对能源的利用效率达到一种新的高度。那么现在看起来。</p>
+<p class="transcript-line"><span class="time"><strong>[00:43:04]</strong> </span><span class="speaker"><strong>发言人2: </strong></span>为了发展必须承受的代价。</p>
+<p class="transcript-line"><span class="time"><strong>[00:43:06]</strong> </span><span class="speaker"><strong>发言人3: </strong></span>系统就是以个体的牺牲来进步的，每一个系统都是这样，作为主事一大批创业公司的死掉而繁荣的。</p>
+<p class="transcript-line"><span class="time"><strong>[00:43:15]</strong> </span><span class="speaker"><strong>发言人2: </strong></span>可是如果发生在你身上，你还能这么淡然吗？</p>
+<p class="transcript-line"><span class="time"><strong>[00:43:18]</strong> </span><span class="speaker"><strong>发言人3: </strong></span>不能，我它不发生在我身上，我都不能这么淡然。</p>
+<p class="transcript-line"><span class="time"><strong>[00:43:22]</strong> </span><span class="speaker"><strong>发言人2: </strong></span>我想起前段时间应该是纽约时报上的一篇文章，引起了非常多的讨论。他提出了一个很有意思的脑洞，就是说这些恶行或者是这些坏的事情，就是按照不同的层级，哪些是人可以接受的。他讨论的缘起就是有人给sam奥特曼的豪宅丢了那个燃烧瓶，就可能说这个人犯法怎么样。当然有很多人为他叫好，觉得是他替大家出了一口气。</p>
+<p class="transcript-line"><span class="time"><strong>[00:43:47]</strong> </span><span class="speaker"><strong>发言人2: </strong></span>然后那篇文章在讨论说什么样的恶行是大家觉得OK的。比如说可能随地乱丢垃圾这种层级可能大家觉得OK。那比如说我去便利店小偷小摸一下，很多人觉得这样不行，这样是法犯罪的。但是与此同时，这些大公司也好，富豪也好，他们在把大量的资源浪费在这种商业竞争上。而且在这个过程中会比如说污染环境。大家就完全OK，就是已经习惯了接受这个事情。我觉得这篇文章还挺有趣的，所以它引起了很多的讨论。</p>
+<p class="transcript-line"><span class="time"><strong>[00:44:18]</strong> </span><span class="speaker"><strong>发言人3: </strong></span>我也不知道这是一种OK还是一种无能为力。就像如果你在三年前跟我说，特朗普要把格林兰道拿下，我会觉得这是一件非常荒谬的事情。但今天我觉得这好像顺理成章，就是这些O不OK的边界，我觉得实在是太难定义了。如果光说AI这件事情本身，大家觉得OK的点还是觉得它对生产力的释放真的足够大。所以大家会默许这件事情发生，并且善意的假设是他们的那些研发成本被集中力量办大事了之后，能够相对平等的分到大部分人身上。</p>
+<p class="transcript-line"><span class="time"><strong>[00:44:54]</strong> </span><span class="speaker"><strong>发言人2: </strong></span>乐观的假设。</p>
+<p class="transcript-line"><span class="time"><strong>[00:44:55]</strong> </span><span class="speaker"><strong>发言人3: </strong></span>悲观的假设是说搞AI的这批人会上车关门。有点像一个科技领域的诺亚方舟，对吧？就是有一部分人利用AI达到了十倍百倍的生产力，但更多的人可能都不用工作了，被替代了。</p>
+<p class="transcript-line"><span class="time"><strong>[00:45:09]</strong> </span><span class="speaker"><strong>发言人2: </strong></span>不是不用工作，是没有工作。对对对。</p>
+<p class="transcript-line"><span class="time"><strong>[00:45:12]</strong> </span><span class="speaker"><strong>发言人3: </strong></span>到那个时候我觉得也不用想的太坏。因为可能劳动的定义，资本主义的定义和之前都不一样。就是因为之前我们是靠劳动来证明自己的价值，但到那个时候他可能定义不太一样。</p>
+<p class="transcript-line"><span class="time"><strong>[00:45:27]</strong> </span><span class="speaker"><strong>发言人2: </strong></span>前面我们聊了两个嘀咕，有没有高估的？</p>
+<p class="transcript-line"><span class="time"><strong>[00:45:30]</strong> </span><span class="speaker"><strong>发言人3: </strong></span>我觉得第一大家高估的事情是AI一下子能帮我把事儿解决了。AI不是这样的一个东西。AI是一个需要大家去花一些时间适应和合作的同事，但还是要有一些耐心，不要高估AI现在一下子能把任务完成。</p>
+<p class="transcript-line"><span class="time"><strong>[00:45:53]</strong> </span><span class="speaker"><strong>发言人2: </strong></span>就擅长和AI沟通这件事情，我觉得目前或者是短期它不可能成为一个普遍的能力。目前还是只是少部分人掌握这个能力。对，而且我觉得好消息是，大家其实是从同一起跑线起跑的。不管你是一个高中生，还是你是一个应届大学生，还是你是一个40岁的中层，大家都是同一起跑线开始赛跑的。而更年轻的人，他思想更不僵化。也许你能够训练出和AI更好的沟通能力，让他更为你所用，和你互补。对。</p>
+<p class="transcript-line"><span class="time"><strong>[00:46:22]</strong> </span><span class="speaker"><strong>发言人3: </strong></span>一定是这样子的。而且能把人管理好的人不一定能管理好agent然后可能不同人的工作方式在下一个时代都是不一样的。这也是一个梗，就是古法编程的人和用agent编程的人互相嫌弃，互相的代码质量不行。因为两个时代的东西它就是不兼容的。可能现在习惯了five coding，直接用agent粗暴写代码的方式的人，遇到一个问题他没有办法解决，他就直接用AI再生成一遍。而一个传统思维的人，可能就是我要把它修修补补给修好。</p>
+<p class="transcript-line"><span class="time"><strong>[00:46:53]</strong> </span><span class="speaker"><strong>发言人3: </strong></span>之前的读法编程的人有一些历史遗留的问题。因为它代码是写给人看的，所以这些东西对agent来说不一定高。我想这些东西可能都是旧时代的人和新时代的人会发生的一些思维方式的冲突。我觉得是要相信年轻人的力量，而且年轻人要相信自己用AI的能力。每一次技术革命从头开始发生变化的时候，恰恰是我们说的俗一点也好，阶级跃迁，我们说的不俗一点也好，就是思维范式的变化。这个东西一定是年轻人反而能做好的东西，对老邓是很难catch .</p>
+<p class="transcript-line"><span class="time"><strong>[00:47:24]</strong> </span><span class="speaker"><strong>发言人2: </strong></span>up的对那我们回到那个高估了AI的能力这个话题，就是你不要指望AI能够一下子帮你把事情做好。</p>
+<p class="transcript-line"><span class="time"><strong>[00:47:32]</strong> </span><span class="speaker"><strong>发言人3: </strong></span>对它带来的影响就是不用太焦虑，AI一下能把我给替代了。</p>
+<p class="transcript-line"><span class="time"><strong>[00:47:37]</strong> </span><span class="speaker"><strong>发言人2: </strong></span>对，这也是我觉得特别想问你的，就是AI的渗透率或者对人的替代率会不会也没有我们想象中的那么快？</p>
+<p class="transcript-line"><span class="time"><strong>[00:47:46]</strong> </span><span class="speaker"><strong>发言人3: </strong></span>我觉得没有那么快。可以从几个问题的角度来说，去问一问自己的工作。第一是我今天的工作是不是能够大幅的有AI来介入帮忙。如果你觉得AI进来都帮不了忙，那么可能你的工作很大时间内都不会被AI影响到。</p>
+<p class="transcript-line"><span class="time"><strong>[00:48:03]</strong> </span><span class="speaker"><strong>发言人2: </strong></span>我觉得两种可能，一种就是你没用起来，另一种是AI确实替代不了。</p>
+<p class="transcript-line"><span class="time"><strong>[00:48:08]</strong> </span><span class="speaker"><strong>发言人3: </strong></span>是是是。然后第二个问题是AI如果进来了之后，你和你的同事，你的部门的人会不会显著的变少？这个可能也是会发生分化的。如果你觉得即使AI进来了之后，人也不会真的变少，这些人还是需要的话，那好像也还好。而且在很多岗位上也会出现这种类型的情况。</p>
+<p class="transcript-line"><span class="time"><strong>[00:48:31]</strong> </span><span class="speaker"><strong>发言人2: </strong></span>对，这个能举一些例子吗？比如说在AI时代反而增加了岗位。</p>
+<p class="transcript-line"><span class="time"><strong>[00:48:35]</strong> </span><span class="speaker"><strong>发言人3: </strong></span>这是个很好的问题。就是我觉得我觉得很难，现在这个阶段很难就是说有一类转为扩充了，就是FDE front deployment engineer，就暂时还没有一个很好的中文词对应。他做的那个事情，其实就是进入到企业当中，帮企业去用好。</p>
+<p class="transcript-line"><span class="time"><strong>[00:48:54]</strong> </span><span class="speaker"><strong>发言人2: </strong></span>也对国内现在挺多公司老板也会请这样的专家来，但是只是说质量良莠不齐。</p>
+<p class="transcript-line"><span class="time"><strong>[00:49:01]</strong> </span><span class="speaker"><strong>发言人3: </strong></span>对这个趋势我就一定在出现。但是这个岗位我还是不会觉得它是一个很乐观的新增。</p>
+<p class="transcript-line"><span class="time"><strong>[00:49:08]</strong> </span><span class="speaker"><strong>发言人2: </strong></span>岗位的原因是也不长久。</p>
+<p class="transcript-line"><span class="time"><strong>[00:49:09]</strong> </span><span class="speaker"><strong>发言人3: </strong></span>我比较担心他的加总还是变少的。就是你看起来是多了这个岗位，但是你会让那一个财富500强的公司当中的某一个岗位的人反而变少。</p>
+<p class="transcript-line"><span class="time"><strong>[00:49:18]</strong> </span><span class="speaker"><strong>发言人2: </strong></span>所以他对他在这个岗位，但是整个公司少了。</p>
+<p class="transcript-line"><span class="time"><strong>[00:49:22]</strong> </span><span class="speaker"><strong>发言人3: </strong></span>500个岗位，这是一个非常微妙的问题。就是AI革命是暂时一个没有看到创造新岗位的科技革命。这个事情在之前不常见，我能想到的例子其实只有两个，一个是恩格斯所谓的30年停滞，就是珍妮纺纱机出现之后，很长一段时间内，大家不知道手工工人能做什么。然后还有就是古腾堡的印刷机出现了之后，大家不知道原来的做传统印刷或者说做文字工作那些的人可以做什么。</p>
+<p class="transcript-line"><span class="time"><strong>[00:49:56]</strong> </span><span class="speaker"><strong>发言人2: </strong></span>现在好了，它是个通用模型，各个行业的人都不知道自己之后还能做什么。</p>
+<p class="transcript-line"><span class="time"><strong>[00:50:00]</strong> </span><span class="speaker"><strong>发言人3: </strong></span>是的，所以在这个事情我觉得没有人能够预测未来。我只能说既然举这两个例子，那这两个例子类比给我的启发还是偏乐观的。就是经过了30年停滞和经过了印刷革命之后，工业革命真正的大幅的提升了生产力。印刷业带来了科学革命和后面的一系列文化知识内容的翻身。只是说在当时人没有办法预测未来，但是相信人一定能有某些需求去填充整个社会的岗位。</p>
+<p class="transcript-line"><span class="time"><strong>[00:50:33]</strong> </span><span class="speaker"><strong>发言人2: </strong></span>我觉得更泛的说，就是人总能找到自己的活法。即便现在我们定义的工作它消失了，被AI替代了，但也许未来真的会发明新的工作。只是那个工作它可能不是以劳累为标签或者印象的，而可能是一种其他的形式。是什么我们不知道，就像三年前我们也想象不到AI是这样的一个实现的路径。但我在想说，现在假设大家已经接受了说AI时代已经到来，但每天那么多的新闻，作为一个普通人，你怎么样区分这些噪音和信号呢？哪些是自己应该去关注的，去了解的，哪些是噪音，其实我不太需要关心。就举个例来说，可能有些人会抱怨说，这个东西我不会用，那个东西我用不起来。可能还有另外一部分人说，没关系，再过几个月可能大模型就帮你把这些问题解决了。</p>
+<p class="transcript-line"><span class="time"><strong>[00:51:23]</strong> </span><span class="speaker"><strong>发言人3: </strong></span>你不想学，我觉得首先是一个东西刚出来可以稍微等一等。我觉得如果不是从业者的话。</p>
+<p class="transcript-line"><span class="time"><strong>[00:51:30]</strong> </span><span class="speaker"><strong>发言人2: </strong></span>不是像kate老师这样的对。</p>
+<p class="transcript-line"><span class="time"><strong>[00:51:32]</strong> </span><span class="speaker"><strong>发言人3: </strong></span>因为我本身工作需要我去了解最前沿的东西，并且去甄别信号。但对大家来说最好的信号就是时间。一周、半个月、一个月之后，大家还真的在讨论这些东西，这东西一般有点意思。然后第二是如果这个东西半个月1个月之后还在试试能不能上手去用它。因为纸上得来终觉浅，能用起来的就多跟他交互和体验。外界怎么说，其实没有那么重要，就是一手经验和二手经验在AI时代本身带来的变化可能会更加大。</p>
+<p class="transcript-line"><span class="time"><strong>[00:52:02]</strong> </span><span class="speaker"><strong>发言人3: </strong></span>第三个可能就是用最好的东西，就是所谓用最好的东西是暂时不要相信太多的平替和那些所谓出来能颠覆OpenAI and rapid deep seat豆包的东西。我不说他100%不可能，但对于我们大家体验来说，不需要去考虑那种极小概率的飞吻事件。大家只要去尽自己可能去用到最好的模型，最好的agent，去跟他们打交道，体验自己有没有什么工作能被他给替代掉。我觉得已经推升了世界上95%的。</p>
+<p class="transcript-line"><span class="time"><strong>[00:52:37]</strong> </span><span class="speaker"><strong>发言人2: </strong></span>所以不需要看那么多AI自媒体，因为感觉每天AI这个世界都要被颠覆一次。</p>
+<p class="transcript-line"><span class="time"><strong>[00:52:42]</strong> </span><span class="speaker"><strong>发言人3: </strong></span>AI自媒体大部分人自己也。</p>
+<p class="transcript-line"><span class="time"><strong>[00:52:45]</strong> </span><span class="speaker"><strong>发言人2: </strong></span>不用AI因为只关注。</p>
+<p class="transcript-line"><span class="time"><strong>[00:52:47]</strong> </span><span class="speaker"><strong>发言人3: </strong></span>他们的KPI，是让更多的人点击他们的文章。就像如果有人只是出来开车教大家怎么炒股，他炒股一定炒的不是最好的。那么不如去理解一下那些所谓的高手是怎么做出来的。AI然后它的产品大概是什么样。</p>
+<p class="transcript-line"><span class="time"><strong>[00:53:05]</strong> </span><span class="speaker"><strong>发言人2: </strong></span>的那就与其看100条新闻，不如你找一个能用的模型你先用起来。对。</p>
+<p class="transcript-line"><span class="time"><strong>[00:53:10]</strong> </span><span class="speaker"><strong>发言人3: </strong></span>又要知道那些自媒体其实是在利用大家的焦虑。</p>
+<p class="transcript-line"><span class="time"><strong>[00:53:15]</strong> </span><span class="speaker"><strong>发言人2: </strong></span>但是你的工作不会有些时刻就是你会发现说，前几个月那么辛苦的在研究的一个东西，突然就被颠覆了。我之前那一周那一个月熬的那个夜，或者是焦虑的那些日子都白费了，不会有这种感觉，因为它颠覆迭代的太快了。</p>
+<p class="transcript-line"><span class="time"><strong>[00:53:32]</strong> </span><span class="speaker"><strong>发言人3: </strong></span>对我个人还好的点在于，我就是喜欢看你这大浪之上的风口浪尖到底在发生什么变化。而且我只关注最重要的一些东西，可能是因为之前在这个领域做研究的原因，我很快就能晒。</p>
+<p class="transcript-line"><span class="time"><strong>[00:53:44]</strong> </span><span class="speaker"><strong>发言人2: </strong></span>出不重要的重要的。</p>
+<p class="transcript-line"><span class="time"><strong>[00:53:46]</strong> </span><span class="speaker"><strong>发言人3: </strong></span>对对对，就是噪音对我来说不重要，一点都不重要，而且我很快能够识别出来，就是这种判断力可能给了我一些忙。然后有一个类比，比如说潜水的时候，我有一次在菲律宾潜水的时候，有一个很有意思的就是我会看到一条鲨鱼游过去之后，他身边会带着很多的小鱼。而这样一个生态系统它们是非常自洽的，就是一个鲨鱼吃下来的东西当中的那些微生物和那些残渣就已足以养活身边的小鱼了。但是对于观察者来说，最重要的是那条鲨鱼，因为这条鲨鱼决定了这里的生态系统大部分的东西。对，所以带着这样的心态去看的话，一样的OpenAI and shopping这样的公司就是AI领域的鲨鱼。除此之外那些自媒体说的大部分东西可能只是身边那些小鱼吃吃残渣的东西。我觉得对于大部分人来说没有那么重要。</p>
+<p class="transcript-line"><span class="time"><strong>[00:54:41]</strong> </span><span class="speaker"><strong>发言人2: </strong></span>因为我的感觉是其实离AI行业更近的人，他们就是展现出了一种又兴奋又焦虑的一种状态。就他们的焦虑感和兴奋感都是常人的，很多很多的背是因为他们吸收的噪音太多了吗？</p>
+<p class="transcript-line"><span class="time"><strong>[00:54:56]</strong> </span><span class="speaker"><strong>发言人3: </strong></span>我觉得噪音是真的太多了。然后我觉得焦虑的点倒不是因为自己之前研究的东西一下子被颠覆了，而是因为未来太难以预测了。就是我要在一个完全新时代的地图里面去航海，而这个海域的风浪又太大了，就是时不时会有一个东西把我之前的东西拍掉。他难免会带来一些焦虑感。</p>
+<p class="transcript-line"><span class="time"><strong>[00:55:21]</strong> </span><span class="speaker"><strong>发言人2: </strong></span>就是越了解AI到底能做到什么地步的人，可能就会越焦虑。因为他知道他能替代的事情太多了。</p>
+<p class="transcript-line"><span class="time"><strong>[00:55:28]</strong> </span><span class="speaker"><strong>发言人3: </strong></span>但是如果心态切换成有很多我之前做不了的事，他也能帮我做了，那么这些焦虑其实会好很多。</p>
+<p class="transcript-line"><span class="time"><strong>[00:55:36]</strong> </span><span class="speaker"><strong>发言人2: </strong></span>可是如果你会的东西AI能做的更好，你不会的那个东西他也会做。它不是一个双重取代吗？</p>
+<p class="transcript-line"><span class="time"><strong>[00:55:43]</strong> </span><span class="speaker"><strong>发言人3: </strong></span>人有一个东西他不会，就是张张反复提到的那个品味、判断力，面对不确定性时做决策能力。这件事情AI一定是我觉得甚至不是短期内不会，是很长一段时间内都不会的。这种判断很大程度取决于每个人自己的世界观、价值观，对一件事情重要性的判断。这些东西可能是如果用AI术语来说，在预训练过程当中接触到的那些数据集，对我们的奖励函数的塑形。那么我们的这个奖励函数可能每一个人都有不一样的形成方式，那么我们每一个人就会相信不同的东西。在同一件事情同样事情的事实之下，我们也有不同的相信程度和自己愿意下注的程度。这个时候就是人和人之间的差异了。我觉得这个东西是永远不会被替代的对。</p>
+<p class="transcript-line"><span class="time"><strong>[00:56:36]</strong> </span><span class="speaker"><strong>发言人2: </strong></span>而且最起码在我的了解和认知下，AI他没有办法主动为你发起一个任务，还是得从人这端来发起。</p>
+<p class="transcript-line"><span class="time"><strong>[00:56:45]</strong> </span><span class="speaker"><strong>发言人3: </strong></span>我对这件事情倒觉得很快，他也会拥有这个能力。</p>
+<p class="transcript-line"><span class="time"><strong>[00:56:49]</strong> </span><span class="speaker"><strong>发言人2: </strong></span>真的吗？就是他可以指挥你的生活。</p>
+<p class="transcript-line"><span class="time"><strong>[00:56:51]</strong> </span><span class="speaker"><strong>发言人3: </strong></span>我觉得指挥这个词有点冒犯了。就是我觉得是他了解我的状态之后，像现在的信息流推给我某些东西一样，猜我需要什么。</p>
+<p class="transcript-line"><span class="time"><strong>[00:57:01]</strong> </span><span class="speaker"><strong>发言人2: </strong></span>你今天中午是不是想吃这个了？</p>
+<p class="transcript-line"><span class="time"><strong>[00:57:03]</strong> </span><span class="speaker"><strong>发言人3: </strong></span>对，然后很多人其实不想在一些没有必要的决策上面花精力。</p>
+<p class="transcript-line"><span class="time"><strong>[00:57:08]</strong> </span><span class="speaker"><strong>发言人2: </strong></span>我怎么觉得听起来像个大太监。</p>
+<p class="transcript-line"><span class="time"><strong>[00:57:10]</strong> </span><span class="speaker"><strong>发言人3: </strong></span>我觉得大太监不错。就是很多人现在用A正的方式会说什么？他是我的东厂，他是我的三省六部制，对吧？他的我的中书省在干什么？如果是大太监，那我们就把自己想象成土皇帝，我们拥有一大群agent绕着我们转。</p>
+<p class="transcript-line"><span class="time"><strong>[00:57:26]</strong> </span><span class="speaker"><strong>发言人2: </strong></span>听起来是个很好的状态。对，你说皇上您生来就是享福的，这些事儿您为什么要操心呢？</p>
+<p class="transcript-line"><span class="time"><strong>[00:57:31]</strong> </span><span class="speaker"><strong>发言人3: </strong></span>对，他们唯一的区别就是没有办法给我们物理意义上的被服务的。但这个事情好像也不重要。</p>
+<p class="transcript-line"><span class="time"><strong>[00:57:38]</strong> </span><span class="speaker"><strong>发言人2: </strong></span>包括我也跟case讨论过，就在过去一段时间我反而有一个很强烈的感觉，就是在接触AI，学习AI这件事的反面。我会越来越觉得线下的实际的物理空间发生的这些体验，可能在未来会变得越来越重要。因为当你在虚拟世界沉浸久了，尤其天天跟AI打交道，你就会感觉很多东西都是虚的，抓不住的。而那些线下的体验，尤其是那种有沉浸感的体验，我在想未来会不会更有价值。</p>
+<p class="transcript-line"><span class="time"><strong>[00:58:09]</strong> </span><span class="speaker"><strong>发言人2: </strong></span>是之所以当时会有这样的一个想法，起因是当时case的分享，最后说以后做投资可能要开一个公司。他做的以前会分他做的是to b还是to c但是未来可能当你考察一家创业公司的时候，你要看它是为agent服务的，还是说在为人类服务的。其实就是这个问题，它开启了我的这些思索。我会在想说，以后为人类提供的这种体验服务会不会变得越来越重要，越来越值钱？也许这个对大家来说也是一个方向。</p>
+<p class="transcript-line"><span class="time"><strong>[00:58:41]</strong> </span><span class="speaker"><strong>发言人3: </strong></span>首先张张说的那个思维框架，是因为我前段时间写了一篇文章，叫做agent时代启示录。这个启示录当中想要表达的点就是to agent和to human是两个新市场。就是比如说上个时代大家经常会有一些像notion这种类型的产品，我要把每一个细节打磨到极致，这个当然很好是为了人的审美来说的。但是对agent来说这个事情不重要，这个是为人的体验服务的。而现在最新出来的一批创业公司在做的agent的infer，更多的是说假设agent是我们的新员工，那么我们要为他配足够多的IT预算，对吧？这个IT预算当中给他发的这台电脑，它应该是一个怎么样的架构？他应该怎么样让他用起来最快最爽，同时最能够把它的算力最大化。</p>
+<p class="transcript-line"><span class="time"><strong>[00:59:29]</strong> </span><span class="speaker"><strong>发言人2: </strong></span>也就AI肯定不需要word、PPT、excel这一条龙。</p>
+<p class="transcript-line"><span class="time"><strong>[00:59:33]</strong> </span><span class="speaker"><strong>发言人3: </strong></span>对，AI需要的是比如说像HTML文件，它的表达形态是更符合机器语言本身的需求的。然后对人这边的话，我觉得就是很有意思的问题了。因为其实在ChatGPT刚打算做广告和电商的时候，有一个做电商的朋友跟我说，说购物不是一个简单的效率问题。大部分的购物其实并不是在最快速的撮合和找到对的东西当中发生的。</p>
+<p class="transcript-line"><span class="time"><strong>[01:00:00]</strong> </span><span class="speaker"><strong>发言人2: </strong></span>可能是冲动。</p>
+<p class="transcript-line"><span class="time"><strong>[01:00:01]</strong> </span><span class="speaker"><strong>发言人3: </strong></span>对对对，就是基于人的注意力的冲动产生这些东西，以及他能够给我某种符合我品味的东西带来的那些变化。我这个东西也会更加重要。比如说一些线下的体验，它是不是真的符合我我我想要的某种理念。听起来非常的微妙，但它恰恰是因为它的微妙。</p>
+<p class="transcript-line"><span class="time"><strong>[01:00:21]</strong> </span><span class="speaker"><strong>发言人3: </strong></span>大家今天做AI模型的时候很强调强化学习，强化学习当中的奖励函数没有办法去构建出一个好的数学建模来建模出一个人觉得美和好玩的标准答案。因为这个东西实在是太太多元了。比如说前面说的，你去一次音乐节，就是可能你听了一整场音乐节，大部分的嘉宾也没有按照你的预期，但可能就是某一个点打动了你那这种类型的信号AI怎么去捕捉到这它足够多的权重呢？这些类型的东西我觉得是很可能是很长一段时间内AI都没有办法替代的。这是刘慈欣在诗云当中说的，文字就那么多，瓶子就那么多。但是李白的诗通过无限的计算，它就是算不出来。如果我们对艺术和艺术背后所代表那种道和真理有一定的相信，那么这种美东西可能不是可计算。这些不是可计算的东西，我觉得就是接下来to human当中最重要的一些东西。</p>
+<p class="transcript-line"><span class="time"><strong>[01:01:18]</strong> </span><span class="speaker"><strong>发言人2: </strong></span>所以现在假设一个人对AI很焦虑，他努力的方向不一定是AI，他可以完全可以反其道而行之。也许对于一部分人来说，他也不一定非要让自己的工作和生活和AI产生很强的关联或者是交集。比如他是个餐厅老板，他给大家提供更好的餐食。他是一个歌手，他给大家提供更好的演出体验。也许这也未尝不可，就是把too human的这个事情做好。</p>
+<p class="transcript-line"><span class="time"><strong>[01:01:45]</strong> </span><span class="speaker"><strong>发言人3: </strong></span>我觉得to human的事情做好，同时不是闭上眼睛说我不在意to agent的事情。比如说歌手这个行业，苏宁已经很明确的即将把音乐制作当中大部分的简单的工作给替代了。比如说rapper生成一个beat。然后大部分的城市化的那些和弦的东西，其实现在已经苏州已经做得非常好。所以我觉得是你即使是打造to human的那个东西，你也要知道to agent和AI制造这些东西正在发生什么东西。</p>
+<p class="transcript-line"><span class="time"><strong>[01:02:18]</strong> </span><span class="speaker"><strong>发言人2: </strong></span>他已经到那个水平了。</p>
+<p class="transcript-line"><span class="time"><strong>[01:02:19]</strong> </span><span class="speaker"><strong>发言人3: </strong></span>对，才正好想清楚自己的差异化化优势在哪里，就很难两耳不闻窗外事，或者说两耳不闻窗外事就会成为某种程度的独立音乐或者独立电影。就像科恩兄弟当年拿奥斯卡奖的时候说，我很感谢这个工业体系，还允许我们两个在角落里面玩泥巴，那这种形式一定存在。</p>
+<p class="transcript-line"><span class="time"><strong>[01:02:42]</strong> </span><span class="speaker"><strong>发言人2: </strong></span>我会想到我五一去上海参加了一个音乐节，是一个非常有名的DJ animal。他的特色或者是他的招牌就是他会用那种裸眼3D的那种画面，巨幅的那种荧幕配上他的DJ然后再配上舞美、灯光、音效，还有各种的效果。以前我在社会上刷到过很多次，我会觉得那个视觉效果挺好的。但我觉得就是先有AI的这个画面理应能变得更好，而且很容易被复制。但是当我真的置身其中，尤其我可能站在比较前排，那种沉浸式的冲击感实在是太强烈了。而且它是把声光电结合在一起，带给你的感官刺激。那个时候你只有当下，你不会考虑未来我的工作怎么办？你不会考虑过去我拥有的东西，你只有当下的那个体验。我那时候觉得太厉害，我说这真的AI替代不了，我觉得没法替代，因为它是一个非常全面的一个体验，它不只是一段动画，但是结束了之后，大家在社交媒体刷到可能就还是一段动画。大家觉得说这个东西CDS很快就会超越的，我那种感觉就觉得很奇妙。</p>
+<p class="transcript-line"><span class="time"><strong>[01:03:50]</strong> </span><span class="speaker"><strong>发言人3: </strong></span>我同意也替代不了。这个背后的原因是因为AI不在场，就是AI的感知能力。所谓的那个多模态，它其实是以语言为真迹的。这个语言为真迹的点是在于语言是目前世界上性价比最高的一个东西。所以就是他能够通过语言了解我们所谓的那个符号世界。但是比如说李白你刚刚的过程，当然因为我有一些朋友在现场，所以我ins上刷到一些这个帖子，所以我大概知道你说的是什么样的。但如果我完全没有刷到，就凭你刚那些话，其实我没有完全没有办法想象对吧？对我只能想到一些类比，比如说像沙丘和那个银翼杀手2049那样的，就是扑面而来的一个巨大的建筑，让我感到震撼，那种声光电的那种变化。</p>
+<p class="transcript-line"><span class="time"><strong>[01:04:38]</strong> </span><span class="speaker"><strong>发言人2: </strong></span>我只能想还有音乐和节奏。</p>
+<p class="transcript-line"><span class="time"><strong>[01:04:41]</strong> </span><span class="speaker"><strong>发言人3: </strong></span>对对对，就是所有的这些交织在一起带来的对人的基因某些东西的触动。这个东西我觉得是很难过。</p>
+<p class="transcript-line"><span class="time"><strong>[01:04:48]</strong> </span><span class="speaker"><strong>发言人2: </strong></span>当我结束之后想要发个朋友圈写段文案，我就发现语言太苍白了，白了是吧？对。</p>
+<p class="transcript-line"><span class="time"><strong>[01:04:54]</strong> </span><span class="speaker"><strong>发言人3: </strong></span>所以语言太苍白的东西AI就很难取代，这是不是一个好的信号？就是如果某些体验你穷其一生都不能用语言清晰的描述出来的话，那可能AI在很长时间内就是没有办法取代这件事情。</p>
+<p class="transcript-line"><span class="time"><strong>[01:05:10]</strong> </span><span class="speaker"><strong>发言人2: </strong></span>这就像我们其实从去年开始，我们就一直在跟小酒馆的听众说，我们希望多走到线下去跟大家面对面的见面。理论上随着技术手段的提升，现在的播客我们甚至可以把它翻译成十几国语言的声线，然后让更多的人听到。但我们认为这个意义它没有那么大我认为人与人面对面的聊天，那种氛围感，那种在场感，他是技术完全没有办法替代掉的。</p>
+<p class="transcript-line"><span class="time"><strong>[01:05:38]</strong> </span><span class="speaker"><strong>发言人3: </strong></span>而且我觉得是技术是某一个愿景在那边。就像马斯克说的，我们要登上火星这件事情，它是某一个目标，我们在实现这个目标过程当中解锁了一项重要的东西。但那个目标是不是真的能100%实现？那是肯定不会的。因为这世界上没有100%，只有99.99%。然后所谓的无线没有无线，所谓的真正的线上的沉浸式体验，它不可能真正线上。所有的AI公司都是要求大家线下办公的。</p>
+<p class="transcript-line"><span class="time"><strong>[01:06:07]</strong> </span><span class="speaker"><strong>发言人2: </strong></span>现在的硅谷的AI公司都会要求大家。</p>
+<p class="transcript-line"><span class="time"><strong>[01:06:10]</strong> </span><span class="speaker"><strong>发言人3: </strong></span>一定要线下。</p>
+<p class="transcript-line"><span class="time"><strong>[01:06:11]</strong> </span><span class="speaker"><strong>发言人2: </strong></span>onset到场办公。</p>
+<p class="transcript-line"><span class="time"><strong>[01:06:13]</strong> </span><span class="speaker"><strong>发言人3: </strong></span>至少要求每周有3到4天是要到场办公。因为不然的话效率会很低，会因为人沟通之间的隔阂而带来一些不必要的摩擦。因为人的注意力就这些，你再长你的注意力是全方位的。而你在某一个远程在家里也好，在咖啡馆也好，你的注意力是部分通过你的屏幕去和公司团队里面的人去连接的。这个东西就不可能百分百，包括即使AI coding到了现在这个能力，也有很多人跟我说，他其实想回归主法写代码一段时间。</p>
+<p class="transcript-line"><span class="time"><strong>[01:06:47]</strong> </span><span class="speaker"><strong>发言人2: </strong></span>古法编程。</p>
+<p class="transcript-line"><span class="time"><strong>[01:06:48]</strong> </span><span class="speaker"><strong>发言人3: </strong></span>因为你不读法编程，你会发现你监督AI的能力没有了，对系统和对设计的一些基础的理解在衰退。</p>
+<p class="transcript-line"><span class="time"><strong>[01:06:56]</strong> </span><span class="speaker"><strong>发言人2: </strong></span>你作为一个网球教练。</p>
+<p class="transcript-line"><span class="time"><strong>[01:06:57]</strong> </span><span class="speaker"><strong>发言人3: </strong></span>你还得陪打呢？对你还得陪打。你要对运动员的打法，手上那些球杆的东西有最基础的感知。所以我会觉得未来人和agent的关系会有点像运动员和教练的关系。就是很多事儿。其实你知道运动员的身体素质，运动员的竞技能力和他的年龄状态，他的激素就是比我要好。但是他不一定能清晰的揣摩清楚，在某一个运动场合之下，他应该用什么样的战术，什么样的策略去解决这个问题。这些东西现在还是需要人去修改。</p>
+<p class="transcript-line"><span class="time"><strong>[01:07:33]</strong> </span><span class="speaker"><strong>发言人2: </strong></span>从你刚才说的，就是比如说很多现在在一线的人，哪怕他AI已经用的非常的溜了，他还是要留一段时间给自己古法编程保持手感。现在随着AI能够参与到越来越多人一整个工作链条，那你觉得对大家来说应该把什么样的能力保持住，不要丧失掉。</p>
+<p class="transcript-line"><span class="time"><strong>[01:07:53]</strong> </span><span class="speaker"><strong>发言人3: </strong></span>我们最终的目标是判断力，我们最终的目标是判断AI做的在不在一个对的方向，以及能不能达到我想要的目标。比如说写代码的时候，你一定不能放掉的，就是它怎么设计这个系统。这些东西是AI很难从公开信息和它已有的茫茫多的知识当中去抽象出你最想要的东西的。</p>
+<p class="transcript-line"><span class="time"><strong>[01:08:16]</strong> </span><span class="speaker"><strong>发言人2: </strong></span>我知道了其实就是你要做一个AI的好领导。对，就是一个领导你要具备的能力是什么？首先你的信息要比你的员工更全面，不然你没有办法把这些信息给你的下属。然后第二点就是你要能够监控，你要能判断你员工的你下属的这个工作质量。如果你长期脱离一线，你根本就评价不了他的工作质量，那他就跟你糊弄。然后AI本来也很擅长糊弄，那这个时候就可能真的是要被AI牵着鼻子走了。</p>
+<p class="transcript-line"><span class="time"><strong>[01:08:46]</strong> </span><span class="speaker"><strong>发言人3: </strong></span>是的，一定不能出现的一个情况就是他说什么我就是什么，尤其是当她做完一开始的规划之后，一定要去纠正他和他反复互动，反复去问你做的这个东西到底是不是对的。</p>
+<p class="transcript-line"><span class="time"><strong>[01:08:58]</strong> </span><span class="speaker"><strong>发言人2: </strong></span>我怎么感觉每个人其实应该学一些什么领导力学管理学101。</p>
+<p class="transcript-line"><span class="time"><strong>[01:09:02]</strong> </span><span class="speaker"><strong>发言人3: </strong></span>对，而且它恰恰是回归管理学本源的东西。</p>
+<p class="transcript-line"><span class="time"><strong>[01:09:05]</strong> </span><span class="speaker"><strong>发言人2: </strong></span>我以为管理学要不存在了。</p>
+<p class="transcript-line"><span class="time"><strong>[01:09:07]</strong> </span><span class="speaker"><strong>发言人3: </strong></span>我觉得agent管理学一定是一门新学科。就是因为现在大家觉得管理学没用的一个原因，是因为你到了企业当中会发现你处理的其实是各种政治问题。大家各自为战，各自为自己的利益做事情的时候，你怎么去当中。</p>
+<p class="transcript-line"><span class="time"><strong>[01:09:21]</strong> </span><span class="speaker"><strong>发言人2: </strong></span>挑出下面的问题。</p>
+<p class="transcript-line"><span class="time"><strong>[01:09:23]</strong> </span><span class="speaker"><strong>发言人3: </strong></span>然后自己去达到自己想要的目的。</p>
+<p class="transcript-line"><span class="time"><strong>[01:09:26]</strong> </span><span class="speaker"><strong>发言人2: </strong></span>现在有了AI，你的管理反而变得更纯粹了。</p>
+<p class="transcript-line"><span class="time"><strong>[01:09:29]</strong> </span><span class="speaker"><strong>发言人3: </strong></span>就是我的AI一定和我的大部分目标是一致的。</p>
+<p class="transcript-line"><span class="time"><strong>[01:09:33]</strong> </span><span class="speaker"><strong>发言人2: </strong></span>他不会跟我故意说反话，他不会有很多潜台词。</p>
+<p class="transcript-line"><span class="time"><strong>[01:09:36]</strong> </span><span class="speaker"><strong>发言人3: </strong></span>对我觉得AI在这些事情上都没有任何的问题。AI真正的问题是他就是锅他背不了。比如说我们在投资的时候，就是钱亏的还是我亏的，绝对不是我手下任何一个agent推的对。</p>
+<p class="transcript-line"><span class="time"><strong>[01:09:50]</strong> </span><span class="speaker"><strong>发言人2: </strong></span>就这个责任你推不掉。对，这也是上次你在分享的时候，我们最后在讨论，有没有可能把AI应用在投资中。其实一个很大的卡点在于AI他对钱是没有概念的。你把你的账户交给他操作，他去交易亏了钱你还想怪你，你是怪豆包还是怪deep sak？那两家公司也不会认这个。</p>
+<p class="transcript-line"><span class="time"><strong>[01:10:10]</strong> </span><span class="speaker"><strong>发言人3: </strong></span>我觉得AI很长一段时间都不可能解决。但是我倒对这里可能会产生新岗位有一些乐观的地方。就是他可能出现一种新的第三方审计或者保险的业务。当AI出现一些问题的时候，可能有第三方来帮忙review，以及第三方来帮忙接管一些问题，或者来把这个损失用保险金算算。</p>
+<p class="transcript-line"><span class="time"><strong>[01:10:31]</strong> </span><span class="speaker"><strong>发言人2: </strong></span>方是人类还是agent.</p>
+<p class="transcript-line"><span class="time"><strong>[01:10:33]</strong> </span><span class="speaker"><strong>发言人3: </strong></span>他最终一定。</p>
+<p class="transcript-line"><span class="time"><strong>[01:10:35]</strong> </span><span class="speaker"><strong>发言人2: </strong></span>是人类OK因为人类还是相对更相信自己的同类一点点。比起机器我猜。</p>
+<p class="transcript-line"><span class="time"><strong>[01:10:41]</strong> </span><span class="speaker"><strong>发言人3: </strong></span>还是那个问题，就是你要审计和保险。</p>
+<p class="transcript-line"><span class="time"><strong>[01:10:43]</strong> </span><span class="speaker"><strong>发言人2: </strong></span>你得备注懂了。就像一个公司他再怎么裁，他一定会有一个财务。</p>
+<p class="transcript-line"><span class="time"><strong>[01:10:49]</strong> </span><span class="speaker"><strong>发言人3: </strong></span>对，有一些锅必须得人背。然后出现问题的时候需要人去定位这个问题，然后去判断这个问题它重不重要。因为对agent来说，它没有那种比如说转钱的时候的损失厌恶。这些事情我觉得对AI来说，它只是一个就像刚刚音乐节那种东西，他知道这些东西的纸上的道理，但他很难有那种题干。</p>
+<p class="transcript-line"><span class="time"><strong>[01:11:11]</strong> </span><span class="speaker"><strong>发言人2: </strong></span>因为他没有亏过钱，因为他没有一个物理世界存在的东西，起码我们的技术还没有到这一步。</p>
+<p class="transcript-line"><span class="time"><strong>[01:11:18]</strong> </span><span class="speaker"><strong>发言人3: </strong></span>然后他也没有生存的压力。因为人底层其实无外乎这么几个。某几种激素它对应着解决了他的生存问题，他的好奇心等等的问题。我觉得AI的好奇心从某个角度来说，未来能被用某种工程和产品的方式去包裹着去做出来，就是让他显得更加的像一个人，积极主动一些。但是他的那种生存，对失去某些东西的渴望。</p>
+<p class="transcript-line"><span class="time"><strong>[01:11:44]</strong> </span><span class="speaker"><strong>发言人2: </strong></span>这些东西他可能永远都无法共情人类，对。</p>
+<p class="transcript-line"><span class="time"><strong>[01:11:48]</strong> </span><span class="speaker"><strong>发言人3: </strong></span>而且人类也不一定希望他共情，对吧？因为那样的话某一天。</p>
+<p class="transcript-line"><span class="time"><strong>[01:11:52]</strong> </span><span class="speaker"><strong>发言人2: </strong></span>就会有私心了。</p>
+<p class="transcript-line"><span class="time"><strong>[01:11:53]</strong> </span><span class="speaker"><strong>发言人3: </strong></span>就会有对，就会有利益，就会有意识。</p>
+<p class="transcript-line"><span class="time"><strong>[01:11:56]</strong> </span><span class="speaker"><strong>发言人2: </strong></span>那个时候仿生人和人类的区别就真的很难分清了。是真的像你们在平时的工作中，你们也会讨论，比如说对未来的设想变化，你们的推演。</p>
+<p class="transcript-line"><span class="time"><strong>[01:12:09]</strong> </span><span class="speaker"><strong>发言人3: </strong></span>我们会讨论。但是我们也会客观承认，未来是很难预测的，就是不能预测未来，只能用一种概率分布去建模未来。</p>
+<p class="transcript-line"><span class="time"><strong>[01:12:18]</strong> </span><span class="speaker"><strong>发言人2: </strong></span>有哪些事情是比如说中短期你们觉得大概率会发生的事情。像前面说的那几家大公司的上市。</p>
+<p class="transcript-line"><span class="time"><strong>[01:12:25]</strong> </span><span class="speaker"><strong>发言人3: </strong></span>肯定是一个对AI的渗透，以及AI的商业化的加速落地，以及AI就是行业本身的加速。我觉得在短期的两三年之内是很难停下来的。因为这是个庞然大物，它的势能一定是越来越大的。然后越来越多人感知到之后，一定会体现出在应用和技术上的双重加速。只是到某个程度之后，它可能会不会出现过热的情况，这个东西可能是值得预测和思考的一个问题。</p>
+<p class="transcript-line"><span class="time"><strong>[01:12:55]</strong> </span><span class="speaker"><strong>发言人3: </strong></span>我在技术上对AI非常的乐观，但我在中期的时间内对AI是不是能够持续是一个一直向上的市值增长的趋势，我有些不确定。因为这件事情在互联网已经dot on bubble的时候，已经很明确发生过了。就这种人性和博弈当中必然会出现的事情，还是有大概率会发生的。然后对未来的推演，我觉得白领大部分的工作迟早还是会被替代掉的，或者说人的分工会发生比较根本性的变化的。</p>
+<p class="transcript-line"><span class="time"><strong>[01:13:26]</strong> </span><span class="speaker"><strong>发言人2: </strong></span>但你是以一个乐观的语调和预期在讲这个事情。</p>
+<p class="transcript-line"><span class="time"><strong>[01:13:31]</strong> </span><span class="speaker"><strong>发言人3: </strong></span>对，因为回到前面我的那个价值观，就是我觉得人就不应该被固定在现在这个过度专业化的氛围当中，人不应该是螺丝钉。所以我对这件事情本身的价值是比较乐观的。然后最乐观的预期。当然这是个人的价值判断，就是每个人更容易被发现自己身上的闪光点。因为在过去这段时间内，其实没有一个人会说去了解这个人，充分的上下文和context去说这个人到底适合做什么样的事情，怎么可以帮助他把这件事情放大做的更好。但有了AI之后，它其实有我们更多的信息。他也能够帮助我们去把一些之前可能只是爱好或者一些模糊的感觉，喜欢和擅长做的事情做的更加的完善一些。如果有这件事情发生了之后，其实每个人可以找到自己做的更好的东西。</p>
+<p class="transcript-line"><span class="time"><strong>[01:14:25]</strong> </span><span class="speaker"><strong>发言人2: </strong></span>你这个让我想到其实在过去一年，我们小酒馆也会持续探讨一个话题，就是人怎么样找到自己的天赋所在。刚才kate说的这些，让我想说，也许这件事情在AI时代是可以达成的。因为这个技术手段它能让你的各种很微小的好奇或者是倾向变成可能变成一个产品。是就像我现在我特别喜欢在小红书上刷大家web coding的各种东西，我也很喜欢我真的觉得好有创造力，我觉得大家太有创造力了。也许你看他的主页，他可能平时他还是一个初中生，或者是他就是一个银行的职员，但是不重要。比如说我看到一个我觉得很喜欢的是他做了一个计算器。就只要你上班才开始计算你的时薪多少钱，就你现在做了20分钟，这20分钟你收入多少，这样让你的上班觉得你这个窝囊废没有白赚，我觉得这个就很好。我当时就特别。</p>
+<p class="transcript-line"><span class="time"><strong>[01:15:17]</strong> </span><span class="speaker"><strong>发言人3: </strong></span>想下一个我觉得第一你可以有一个7 24小时在那边的智能，跟你讨论你擅长什么东西了。第二，你讨论出来某些东西之后，你可以有接近于零的试错成本，去把这些东西做一个初步的样本出来。这东西当中你到底有没有成就感，对什么东西感兴趣，你会更清晰的感受到。因为之前大家总会说我对什么东西感兴趣，但永远没有办法尝试。</p>
+<p class="transcript-line"><span class="time"><strong>[01:15:44]</strong> </span><span class="speaker"><strong>发言人2: </strong></span>因为有很多现实生活的束缚。</p>
+<p class="transcript-line"><span class="time"><strong>[01:15:48]</strong> </span><span class="speaker"><strong>发言人3: </strong></span>而AI让这件事情系统性的降低了所有事情，能在软件世界去完成大部分的事情，你的成本基本上都都被打没了，即使现在没有被打没，很在几年之内也会被打没。这个时候大家一定能探索出更多适合自己的事情，我们看世界的滤镜也变得更加的五彩斑斓一些。就不再是说我必须擅长的事情，就是什么开发、产品运营、销售这种类型的固定的某个职能。而是他可能是真的我感兴趣的某一个正戏份的事情。所以我觉得AI把人变成了某种程度的通才，或者说帮我们成为通才之后，我们反而能够因为这一种广而在某一个领域做得更深。这是我对未来比较充满希望的一种假设。</p>
+<p class="transcript-line"><span class="time"><strong>[01:16:37]</strong> </span><span class="speaker"><strong>发言人2: </strong></span>比如说三年后、五年后，你有预期或者是想象，那个时候你还拓展了什么样的能力吗？或者在做什么样的事情。</p>
+<p class="transcript-line"><span class="time"><strong>[01:16:45]</strong> </span><span class="speaker"><strong>发言人3: </strong></span>我希望我能用AI开出很多的是这样，我觉得可能有两类东西。第一类就是做出来无用，但是很好玩的新产品。就比如说刚刚说的那个计时心的这个东西。这东西很无用，但是它非常的有意思。</p>
+<p class="transcript-line"><span class="time"><strong>[01:17:00]</strong> </span><span class="speaker"><strong>发言人2: </strong></span>巨大的情绪价值。</p>
+<p class="transcript-line"><span class="time"><strong>[01:17:01]</strong> </span><span class="speaker"><strong>发言人3: </strong></span>真的就是我们其实每个人脑子里都有一些很奇怪的脑洞，可能他没有商业价值，但是他现在有了这个东西之后，我就会把这些无聊的想法去把它给实现了。然后还有我不知道就是我可能会幻想世界是怎么样的，然后去做做一些和当下工作可能没有关系，但是可能很有意义的事情。比如说首先AGI来了之后，身体肯定是很重要的。那么可能是对我的爱好来说，可能是打网球或者健身这种类型的事情可以做一些。还有一类事情是我也在想，工业革命来了之后，人的身体永远站不住机器那么好了。所以人有了健身这个需求。但是现在问题是智力堆命来了之后，以后有健脑的需求，我脑子肯定站不住机器了。那么我做什么东西能够让我电脑呢？这可能也是一个很。</p>
+<p class="transcript-line"><span class="time"><strong>[01:17:55]</strong> </span><span class="speaker"><strong>发言人2: </strong></span>有意思的六个核桃。对不起。</p>
+<p class="transcript-line"><span class="time"><strong>[01:17:58]</strong> </span><span class="speaker"><strong>发言人3: </strong></span>这个是不是有点还有植入。</p>
+<p class="transcript-line"><span class="time"><strong>[01:18:00]</strong> </span><span class="speaker"><strong>发言人2: </strong></span>我们是这样，我们可以剪掉。</p>
+<p class="transcript-line"><span class="time"><strong>[01:18:02]</strong> </span><span class="speaker"><strong>发言人3: </strong></span>对，没事。</p>
+<p class="transcript-line"><span class="time"><strong>[01:18:02]</strong> </span><span class="speaker"><strong>发言人2: </strong></span>这个AI取代不了，这个烂梗AI取代不了。</p>
+<p class="transcript-line"><span class="time"><strong>[01:18:05]</strong> </span><span class="speaker"><strong>发言人3: </strong></span>确实，是的。所以我就觉得这种想想这种新时代的需求还挺有意思。</p>
+<p class="transcript-line"><span class="time"><strong>[01:18:10]</strong> </span><span class="speaker"><strong>发言人2: </strong></span>就是不是说喊口号似的说未来人会变得更全才不再那么专业化。而是你觉得自己从实际行动中，也想把自己从一个专业人才解脱出来，对，做各种各样的新尝试。是的。</p>
+<p class="transcript-line"><span class="time"><strong>[01:18:23]</strong> </span><span class="speaker"><strong>发言人3: </strong></span>然后我觉得大概率未来很多我现在做的工作，可能都不太需要我去亲力亲为了。</p>
+<p class="transcript-line"><span class="time"><strong>[01:18:30]</strong> </span><span class="speaker"><strong>发言人2: </strong></span>三年后你们公司还在吗？</p>
+<p class="transcript-line"><span class="time"><strong>[01:18:32]</strong> </span><span class="speaker"><strong>发言人3: </strong></span>我们公司肯定在，只是做的是不是现在一样的事情。</p>
+<p class="transcript-line"><span class="time"><strong>[01:18:36]</strong> </span><span class="speaker"><strong>发言人2: </strong></span>我就不知道了。还是这样一群很聪明的，很有执行力的小伙伴团聚在一起做的事儿。</p>
+<p class="transcript-line"><span class="time"><strong>[01:18:42]</strong> </span><span class="speaker"><strong>发言人3: </strong></span>不一定是现在这个人是很宝贵的事儿，是不重要的。就是我觉得现在事儿就是因为它是新时代，所以所有东西都会变得太快。</p>
+<p class="transcript-line"><span class="time"><strong>[01:18:50]</strong> </span><span class="speaker"><strong>发言人2: </strong></span>然后如果让我也用这句话来安慰一下梦魇。</p>
+<p class="transcript-line"><span class="time"><strong>[01:18:53]</strong> </span><span class="speaker"><strong>发言人3: </strong></span>对，因为品牌很重要，就是因为人在聚在那边，你们还带着，不管是你们的那种品牌还是我们的那种品牌，是品牌在那边它本身树立了某种品味和格调。这种东西它是不太会被替代，而且更难从零做起来的。这个东西它一定是在那边的。</p>
+<p class="transcript-line"><span class="time"><strong>[01:19:10]</strong> </span><span class="speaker"><strong>发言人3: </strong></span>然后如果从一个我自己未来想做的事情的话，很难真的AI一下子做到的。其实是刚刚说的科学发现的文艺复兴。我去搭建AI帮助科学家，或者去孵化这样的公司，来让更多的科学家能够用AI自动化很多的科学发现。因为我一定是相信很多的现实世界的实验，以及除了实验之外那些冗余的工作是可以被数字化和计算里慢慢的给替代的。今天我们对不管是生物材料，物理化学一些基本的东西的理解，已经足以让我们迈到下一个时代，就是让计算把很多的科学发现就完成了。今天很多的生物化学的PHD，可能中期PHD的生涯五六年只能做一两篇paper。但随着有AI的出现了之后，他们的代码自动化，数据整理能力以及把整一个实验闭环能力，可能都能比之前加速很多。</p>
+<p class="transcript-line"><span class="time"><strong>[01:20:07]</strong> </span><span class="speaker"><strong>发言人3: </strong></span>这个事情对一个lab可能影响没有那么大，但对整一个行业的影响其实非常的大。比如说生物行业，它是一个10到20年发现一款药，并且要消耗10到20亿美金甚至更多的一个东西。那么可能有了AI模型之后，有了AI agent之后，这些东西的迭代速度会比之前快上三五倍。我相信一定是可以的，甚至三五倍。当然不是。在比如说临床动物实验、人体实验那些物理世界的瓶颈，一如既往的还会有一些时间。但是在之前就是发现这个分子，要让这个分子在现实当中有一些基础的可成药性，并且进入临床，这件事情可能会变得快很多。</p>
+<p class="transcript-line"><span class="time"><strong>[01:20:48]</strong> </span><span class="speaker"><strong>发言人2: </strong></span>感觉你是一个有大爱的手续善良的人，想做的事情非常多非常广，而且其实最终的目的都是造福所有人。</p>
+<p class="transcript-line"><span class="time"><strong>[01:20:56]</strong> </span><span class="speaker"><strong>发言人3: </strong></span>希望是吧？但是这个东西你也可以有一些，就是看你的观点了。因为这个东西一旦实现的话，人类所有的科技术会被重新点一遍。人类科技树每一次点亮一个大东西的时候，都会出现一些善良和邪恶的东西。比如说原子弹那种那些东西。</p>
+<p class="transcript-line"><span class="time"><strong>[01:21:14]</strong> </span><span class="speaker"><strong>发言人3: </strong></span>奥本海默发言的东西绝对不是用来实现今天的目的的，但是它就是发生了，而原子弹只是一个非常偶然。相对偶然发生的一件科学发现。可能在发现原子弹过程当中，我们还漏了很多科技书当中没有点的东西。如果把那些东西AI真的蹭蹭全点亮了，这个社会是什么样的？</p>
+<p class="transcript-line"><span class="time"><strong>[01:21:32]</strong> </span><span class="speaker"><strong>发言人2: </strong></span>挺值得期待的。</p>
+<p class="transcript-line"><span class="time"><strong>[01:21:33]</strong> </span><span class="speaker"><strong>发言人3: </strong></span>不管变成什么样子，你有点混沌中立了。</p>
+<p class="transcript-line"><span class="time"><strong>[01:21:36]</strong> </span><span class="speaker"><strong>发言人2: </strong></span>我一向都是混沌邪恶。</p>
+<p class="transcript-line"><span class="time"><strong>[01:21:37]</strong> </span><span class="speaker"><strong>发言人3: </strong></span>不是混沌邪恶。</p>
+<p class="transcript-line"><span class="time"><strong>[01:21:39]</strong> </span><span class="speaker"><strong>发言人2: </strong></span>好的，今天围绕着AI其实聊了很多的话题。可能有些人听到这里他就已经感觉到脑子好混乱了。如果他觉得听了这么多，还是觉得有些混乱，不知道该从哪里开始。你觉得最值得他先看到的变化是什么？</p>
+<p class="transcript-line"><span class="time"><strong>[01:21:55]</strong> </span><span class="speaker"><strong>发言人3: </strong></span>我觉得就是看到agent正在成为世界上的新物种，并且去拥抱这种变化，然后扔掉旧世界的地图，去探索新世界的无线传的。</p>
+<p class="transcript-line"><span class="time"><strong>[01:22:06]</strong> </span><span class="speaker"><strong>发言人2: </strong></span>带上你的纸和笔，或者带上你的电脑，然后一边走一边自己绘制地图。</p>
+<p class="transcript-line"><span class="time"><strong>[01:22:11]</strong> </span><span class="speaker"><strong>发言人3: </strong></span>对，因为今天没有人说的地图是正确的，就是没有人能。</p>
+<p class="transcript-line"><span class="time"><strong>[01:22:15]</strong> </span><span class="speaker"><strong>发言人2: </strong></span>我们这一期可能也是诉求的，可能一个月后三个月后你会发现很多的也不成立了。</p>
+<p class="transcript-line"><span class="time"><strong>[01:22:20]</strong> </span><span class="speaker"><strong>发言人3: </strong></span>可能都不一样。对，可能都不一样，但是这才是好玩的过程。如果一个东西的标准答案就在那边，那这东西AI就能解的比我们好。只有这种不确定性的东西，才是我们一直去思考和我们人之为人的意义。</p>
+<p class="transcript-line"><span class="time"><strong>[01:22:34]</strong> </span><span class="speaker"><strong>发言人2: </strong></span>欢迎大家来到新时代。</p>
+<p class="transcript-line"><span class="time"><strong>[01:22:36]</strong> </span><span class="speaker"><strong>发言人3: </strong></span>谢谢kate老师，谢谢。</p>
+<p class="transcript-line"><span class="time"><strong>[01:22:56]</strong> </span><span class="speaker"><strong>发言人1: </strong></span>以上就是本期节目的全部内容，如果你觉得这一期节目有收获、有启发，欢迎你把它转发给你关心的亲友，也许会对他有帮助。以前我们会很自然的觉得，上学、毕业找工作，上班干到60岁，65岁享受退休生活，这就是标准的人的一生。当感受到AI有可能颠覆这样一条标准人生路径的时候，我们本能的会觉得烦躁不安。</p>
+<p class="transcript-line"><span class="time"><strong>[01:23:26]</strong> </span><span class="speaker"><strong>发言人2: </strong></span>和kate的聊天给了我一个启发。</p>
+<p class="transcript-line"><span class="time"><strong>[01:23:29]</strong> </span><span class="speaker"><strong>发言人1: </strong></span>如果万一这条我们原来以为理所当然的人生路径，它本来就不是唯一的答案呢？当然这不是说它是错的，它有可能只是某一个历史阶段里成立的一种生活方式。而我们或者说幸运，或者说不幸，刚刚好生活在他开始松动的时候。如果今天开始松动的不只是一份工作，一项专业技能，而是我们对日子应该怎么过的想象，那AI带来的冲击可能就不只是取代某些岗位这么简单了，他也在逼着我们去重新想，人到底该怎么活？工作到底该在生活里占什么样的位置？哪些事情是我们愿意一直做下去的？又有什么只是过去那套分工留下来的惯性而已。</p>
+<p class="transcript-line"><span class="time"><strong>[01:24:17]</strong> </span><span class="speaker"><strong>发言人1: </strong></span>每个时代都会放大一部分人的天赋，也会让另外一部分人长期活在逆风里。当稳定按部就班成为一个时代默认更正确的人生选择的时候，那些有野心有闯劲，总想试一试别的可能的人，如果他一时还没有做出什么结果，他往往不只是要承受现实和理想之间的落差，他还会不断的被周围人提醒，哎，你就是不够安分，不够听话，太折腾了。所以，当规则开始变化的时候，有些人感受到的是焦虑和危险，但也确实会让一些人本能的感到兴奋，觉得自己身上那些无处安放的想象力和野心，真的可以帮自己做成一些事情了。但知道这些现状不等于我们所有人都只能往同一个方向跑，它不等于我们现在每一个人都要all in AI去钻研AI技术，把自己变成一个更加全能的人。就像我们后面聊到的那样，如果你真的不喜欢AI如果你真的更愿意做那些和人的体验，人的关系有关的事情，那把这些事情做得更好本身就是一条路。出路从来不止一条。</p>
+<p class="transcript-line"><span class="time"><strong>[01:25:30]</strong> </span><span class="speaker"><strong>发言人2: </strong></span>可残酷的地方也在这里。</p>
+<p class="transcript-line"><span class="time"><strong>[01:25:32]</strong> </span><span class="speaker"><strong>发言人1: </strong></span>同一场变化落在不同人的身上，感受会完全不一样。就像我和kate讲的对有些人来说，他像突然多了一双翅膀，对另外一些人来说，就像后面一直有人拿着鞭子催着自己往前走。也正因如此，这件事情大概不会有一份适合所有人的标准答案，现在没有，未来可能也不会有。但先不要焦虑，我们不需要急着选边站，我们也不需要急着去表态、去行动，先把现状看清楚，先知道自己为什么不安，知道这个世界在发生什么，也先想清楚自己真正想要的生活是什么样的，在属于自己的答案浮现出来之前，做到这些就已经足够重要了。</p>
+<p class="transcript-line"><span class="time"><strong>[01:26:19]</strong> </span><span class="speaker"><strong>发言人1: </strong></span>再次感谢你听到这里。如果你觉得这期节目有收获，请别忘记订阅我们知行小酒馆，你的支持会成为我们前进的动力。我是羽白，每周晚八点我们不见不散。</p>]]></content:encoded>
+            <pubDate>Fri, 29 May 2026 12:00:00 GMT</pubDate>
+            <guid>6a19390a7460cabdeb57c0e5</guid>
+        </item>
         <item>
             <title>E236 从时间管理到爱你老己：我们如何停止和自己较劲？</title>
             <link>https://www.xiaoyuzhoufm.com/episode/6a0ffa80e59ebca9361c8451</link>
@@ -10418,413 +10834,6 @@ E204 我和我人生中的第一个 10 万｜小酒馆故事会🍻
 <p class="transcript-line"><span class="time"><strong>[02:01:01]</strong> </span><span class="speaker"><strong>发言人2: </strong></span>我们不见不散。</p>]]></content:encoded>
             <pubDate>Fri, 31 Oct 2025 12:00:00 GMT</pubDate>
             <guid>69046b7b65ab4ef684c481b0</guid>
-        </item>
-        <item>
-            <title>E209 对话罗振宇：把自己创造出来</title>
-            <link>https://www.xiaoyuzhoufm.com/episode/68fb25c40156720321d693ec</link>
-            <description>👓 我与世界周旋久，宁作我。
-欢迎来到《知行小酒馆》，这是一档由有知有行出品的播客节目，我们关注投资，更关注怎样更好地生活，我是雨白。
-今天的嘉宾，是我最开始做播客时就想请来的嘉宾——罗振宇。他是得到 App 的创始人，也许你了解他是通过罗辑思维，也可能是因为他每年的跨年演讲，又或者是他从去年开始制作的《文明之旅》。
-但对我来说，他是我的前老板，也是我非常敬重的一位老师。我们五年没见过了。当年在一起工作的那些日子，他是那个不苟言笑的工作狂，几乎把所有时间都扑在工作上的人，不断地写稿、录制、思考、演讲。
-而离开得到后，我再次听到朋友提到罗老师，是他的耳朵出现了问题。时间回到 2022 年的跨年演讲，因为疫情，迟迟无法确定观众是否可以进场。就在演讲前三天，他突然发现自己的左耳听不清了。
-他没有告诉任何人，也没有停下。他对着一个空荡的体育馆，12000 个座位上摆放的熊猫玩偶，完成了一场没有「人」的跨年演讲。后来才知道，那是突发性耳聋。如果当时能立刻就医，也许还有恢复的机会。
-我原以为，换成任何人，都会趁这个机会按下暂停键——够了，我该慢下来，我该对自己好一点。毕竟，健康比一切都重要，对吧？
-但他不是。他继续每年的跨年演讲，完成了自己每天 60 秒的十年之约，还启动了一个更宏大的、跨度 20 年的项目——《文明之旅》。从公元 1000 年开始，一期讲一年，每周更新，讲到 1912 年为止。
-听到这个计划的时候，我目瞪口呆—— 他到底在想什么？都这样了，他为什么还要和自己死磕？他到底在和谁较劲？是对时间的不服，还是对自己生命的一种交代？我想知道，是什么，让一个人能在肉身的极限中，仍然找到继续工作的理由，甚至是快乐？
-也许，这期节目也许能帮我们去理解这样一位神奇的人类样本——当身体开始设限，时间在推着你往前，一个人为什么还要拼命工作？又是怎样，在做事的过程中，重新与世界达成和解？
-也许这不是关于「成功」的故事，而是关于一个人如何与时间、身体、和命运相处。在这场永无休止的缠斗当中，他找到了什么？ 我也好，你也好，或许都能从中发现一点自己的影子。
-🔗 官方地址
-如果你所使用的客户端显示不全，请点此访问有知有行的官网查看全文
-🍻 本期嘉宾
-罗振宇：得到 App 创始人，《文明之旅》主讲人。
-🪡 时间轴
-06:32 一直工作，一直到生命的极限
-09:03 「我感到生命在体内呼啸而过」
-11:16 保持大脑活力的最好方式，就是不停跟它闹别扭 🧠
-20:30 把自己创造出来，向世界输出秩序
-27:51 时间的规模：长期主义的最大秘密，在于只要做完，就是做成
-35:22 人生所有的曲线中，只有一件事，年龄越大，它越上升，那就是你对自己的了解
-41:07 珠峰就在头顶，天公作美，而你资源充沛，你能不上吗？别人觉得苦，但我心里乐着呢
-45:55 一个穷孩子眼里的「尽力」：抓住机会往前「拱」，世界处处是资源
-52:34 发明一个只有自己能够胜任的职业，这是 AI 时代的人类必须要做的
-59:51 好内容的「金线」：这是一个有尺寸的江湖
-71:42 年轻的时候，任何不好你都想把它治愈，如今我知道，我得和它们共存
-83:20 满格运行的人生：我不计算 ROI，我的原则非常简单，就是把自己用足，全仓
-89:32 在我生命的最后阶段，我打算每天直播一小时：活到老、学到老、展示到老
-90:22 在命运面前，斗志始终
-🔍 猜你想看
-10:46 人脑的记忆就像压缩包，这一段比喻出自嘉宾张云帆做客小酒馆的第二期节目：E110 与张云帆聊《芒格之道》：对知识诚实，是你能给自己最好的礼物
-20:17 罗胖六十秒：罗振宇从 2012 年起开启的项目，每天清晨用 60 秒语音分享一个思考点，连更 10 年。详见公众号：罗胖六十秒。
-25:45 「古之学者为己，今之学者为人」，原文出自《论语 · 宪问》第 14 篇第 24 章。大意为：古人求学是为了修养自身，而今人多是为了取悦别人或谋求外在名利。
-41:26 人物：左晖（1971—2021），链家地产创始人，贝壳找房创始人。
-46:33 广院：北京广播学院，现中国传媒大学。
-90:00 汉译世界学术名著丛书：是商务印书馆组织出版的一套大型学术翻译丛书。自1981年问世以来，历时四十年，迄今已推出二十辑 900 种，是我国现代出版史上规模最大、最为重要的学术翻译工程（详见官网）。
-🌐 知行小酒馆公告牌
-👛 入场投资前，不妨先为自己理清生活备用金
-最近一段时间市场比较热，我们通常都会告诉新朋友，在入场投资之前，一定一定：确保自己留好了一笔生活备用金。
-有知有行在更新到 2.0 版本后，已经支持了单只基金交易。现在的你，可以把短期不用的活钱放在投资钱包，享受货币基金收益了。
-如果你对备用金的用途有更明确的要求，还可以使用有知有行独有的「心理账户」功能，来把「确定要用的钱」和「备而不用的钱」分开来。如果你的备用金有 6 个月以上不会动用，还可以尝试利用短债基金，来稍稍增厚一些收益，当然也要注意，短债基金虽然波动不高，但依然可能有单日或短期亏损风险。
-理清生活备用金，看起来只是管理好了一笔钱，但它能让我们在遇到突发情况时，不用被迫卖出手里的资产；也为自己存下了一笔能够从容应对生活的底气。去试试看，希望你喜欢。
-（市场有风险，投资需谨慎。基金的过往业绩并不预示其未来表现，基金管理人管理的其他基金的业绩并不构成基金业绩表现的保证。请全面了解投资产品风险收益特征，结合自身风险承受能力和投资需求，审慎做出投资决策。）
-👇
-在有知有行存备用金，总共分几步
-🍻 我们是谁？「知行小酒馆」是有知有行出品的一档分享投资与生活的播客节目，每周五晚八点更新。我们关注投资理财，更关注怎样更好地生活。在我们看来，投资成功，是我们变成一个更好的人之后，自然的结果。
-有知有行成立于 2020 年，目前在陪伴投资者用正确的方式学习投资，下场实操。凭借在投资领域的良好口碑，有知有行在初创阶段已与一大批忠实用户同行。未来我们希望成为一家财富管理公司，不仅帮助投资者学习投资，也能让大家在有知有行安心交易，踏实赚钱。欢迎在「有知有行」社区 和我们互动交流。
-🎺 创作团队
-主持 雨白｜嘉宾 罗振宇｜制作 星星｜后期 柯霖｜单集封面 Amiee 星星 Lovart.ai
-免责声明
-本播客所述投资相关内容皆以交流分享为目的，仅供参考，不构成任何市场预测、判断，或投资、咨询建议。市场有风险，投资需谨慎。主持人及嘉宾对投资相关内容的准确性、可靠性、时效性及完整性不作任何明示或暗示的保证，并提醒您对相关内容请结合自身情况进行独立评估，依据或使用相关内容所造成的后果由您独自承担。
-感谢您对本播客原创内容的青睐。如转载或引用本播客所述内容，请注明出处。转载前请与有知有行联系并取得同意。</description>
-            <content:encoded><![CDATA[<p class="transcript-line"><span class="time"><strong>[00:00:03]</strong> </span><span class="speaker"><strong>发言人1: </strong></span>欢迎来到知行小酒馆，这是一档有知有型出品的播客节目。我们关注投资，更关注怎样更好的生活。我是一白，今天的嘉宾是我最开始做播客时就想请来的嘉宾罗振宇罗老师。他是得到APP的创始人。也许你认识他是通过逻辑思维，也可能是因为他每年的跨年演讲，又或者是他去年开始制作的节目文明之旅。但对我来说，他是我的前老板，也是我非常敬重的一位老师。我们已经五年没有见过了当年在一起工作的那些日子，他是不苟言笑的工作狂，几乎把所有的时间都扑在了工作上，写稿、录制、思考、开会、演讲，从不间断。</p>
-<p class="transcript-line"><span class="time"><strong>[00:00:50]</strong> </span><span class="speaker"><strong>发言人1: </strong></span>离开得到之后，再次听到前同事提起罗老师，是因为他的耳朵出了问题。时间回到2022年的跨年演讲，那一年因为疫情迟迟无法确定观众能不能进场。就在演讲前的三天，他突然发现自己的左耳听不清了，他没有告诉任何人，也没有停下工作，他对着一个空荡荡的体育馆，12000个座位上摆满了熊猫玩偶，就这样，他完成了一场没有人的跨年演讲。后来才知道，那叫突发性耳聋，如果当时可以立刻就医，也许还有恢复的机会。我原以为，换作任何人，都会趁这个机会按下暂停键。够了，我该慢下来，该对自己好一点，毕竟健康比一切都重要。但对他来说不是这样的。</p>
-<p class="transcript-line"><span class="time"><strong>[00:01:48]</strong> </span><span class="speaker"><strong>发言人1: </strong></span>他继续每年的跨年演讲，完成了自己每天60秒的十年之约，还启动了一个跨度20年的项目文明之旅，从公元1000年开始，一期讲一年，每周更新，讲到1912年为止。听到他公布这个计划的时候，我真的是目瞪口呆，他到底在想什么，是不是疯了，都这样了，他为什么还要和自己这样较劲呢？他到底在和谁较劲？是对时间的不服，还是想给自己的生命一种交代？我想知道是什么让一个人能在肉身的极限中，仍然找到继续做事的理由，甚至是快乐。也许这期节目就能帮助我们去理解这样一位珍贵又罕见的人类样本。</p>
-<p class="transcript-line"><span class="time"><strong>[00:02:39]</strong> </span><span class="speaker"><strong>发言人1: </strong></span>当身体开始设限，时间在推着自己往前。一个人为什么还要继续做事，还要继续工作？他又是怎样在做事的过程中重新达成和世界的和解？也许这从来不是一个关于成功的故事，而是一个关于人与时间、身体以及命运之间关系的故事。在这场与命运永无休止的缠斗当中，他究竟发现了什么？我也好，你也好，或许都能从中发现一点自己的影子，希望你会喜欢。</p>
-<p class="transcript-line"><span class="time"><strong>[00:03:19]</strong> </span><span class="speaker"><strong>发言人2: </strong></span>反正就是放轻松聊天，对我来说就是好多年不见了，回娘家特别开心。</p>
-<p class="transcript-line"><span class="time"><strong>[00:03:25]</strong> </span><span class="speaker"><strong>发言人3: </strong></span>一起聊聊天。也不是什么正式采访。</p>
-<p class="transcript-line"><span class="time"><strong>[00:03:29]</strong> </span><span class="speaker"><strong>发言人2: </strong></span>确实这次回来找罗老师聊，是因为虽然离开得到很多年，也一直在看您的内容，就感觉您这几年还是这么拼，这么勤奋。我会发现说我在离开得到的这刚好五年，我在我的工作中、实践中、创作中，我才发现说原来当年在得到学了很多的东西，让我非常的受益。其实我自己还有一个私心，我特别希望能够通过播客让更多的人更了解你，然后更喜欢你。</p>
-<p class="transcript-line"><span class="time"><strong>[00:04:00]</strong> </span><span class="speaker"><strong>发言人3: </strong></span>太谢谢了。我没想到那么多人不喜欢我。</p>
-<p class="transcript-line"><span class="time"><strong>[00:04:03]</strong> </span><span class="speaker"><strong>发言人2: </strong></span>已经有很多人喜欢你，但是因为这个世界太大了。我觉得您的人生作为一个样本，可能会让大家会有一些不一样的启发。</p>
-<p class="transcript-line"><span class="time"><strong>[00:04:13]</strong> </span><span class="speaker"><strong>发言人3: </strong></span>是我也觉得这两年我就活出一个社会样本的意义。就原来你只是做内容，没过几年又有新的人会出来。但是像我这样好像就是立一个志，发布一个计划，对，然后就投工地把它给实现了。像这种行为模式的人我觉得还真是挺少的。这两年我觉得我把这个行为模式给豁出来，可能成为社会的一个小样本。就是有的人他是这么活的，可被一说这就算。</p>
-<p class="transcript-line"><span class="time"><strong>[00:04:51]</strong> </span><span class="speaker"><strong>发言人2: </strong></span>是一个行为艺术。对，所以你是什么时候发现，其实你可能对于大家，对于整个社会最大的正外部性是活成了一个样本。</p>
-<p class="transcript-line"><span class="time"><strong>[00:05:02]</strong> </span><span class="speaker"><strong>发言人3: </strong></span>一个范。发现没人像我这样行动，就干一个事儿，然后就把自己茅在哪儿，十年二十年为单位，然后保持不动。这个模型在我们这代人当中确实还比较少见。我们这代人讲究的是跟随变化。很多人说以不变应万变，我倒是觉得我活成了另外一种模型，就是随时跟着外界的变化以养育自己。那个行为模式的不变。</p>
-<p class="transcript-line"><span class="time"><strong>[00:05:34]</strong> </span><span class="speaker"><strong>发言人2: </strong></span>这个怎么理解？</p>
-<p class="transcript-line"><span class="time"><strong>[00:05:35]</strong> </span><span class="speaker"><strong>发言人3: </strong></span>就并不是你以不变可以应万变，那是绝不可能的，因为世界在充分变化。是的，但是你跟着世界的变化，然后随时去用新工具去采集新信息，提升新认知。但是你保持自己的行为模式基本不变，是被这些养料给滋养出来的一种不便。</p>
-<p class="transcript-line"><span class="time"><strong>[00:05:59]</strong> </span><span class="speaker"><strong>发言人2: </strong></span>这个行为模式我可以理解为，比如说像你现在稳定输出，这个事情对你很重要。</p>
-<p class="transcript-line"><span class="time"><strong>[00:06:05]</strong> </span><span class="speaker"><strong>发言人3: </strong></span>是维持这种节奏对我很重要。我经常打一个比方，就相当于刷牙，你其实一天不刷牙有什么问题呢？也没啥问题，但是你就不舒服。你重要的是每天上床前或者起床后，你得把牙刷了。然后你才觉得我生活在一个讲卫生的人，对自己有要求的人的一个节奏里。所以到点儿把这活干了，这更重要。</p>
-<p class="transcript-line"><span class="time"><strong>[00:06:29]</strong> </span><span class="speaker"><strong>发言人2: </strong></span>就是有一个稳定的节律。因为在大众过往的认知里，一个比如说年龄稍长，又有一定财富基础，又有社会名望的人，可能比如说罗老师，你的同龄人，大家现在也许都是半退休状态，也许去挑战一些其他的东西，很少有人还像你这么勤奋的。所以我想可能大家也会好奇，这到底是为什么？</p>
-<p class="transcript-line"><span class="time"><strong>[00:06:56]</strong> </span><span class="speaker"><strong>发言人3: </strong></span>其实我们这一代人，很多人生命当中都有那个时刻，我不知道这个时刻怎么起名字，总而言之，突然一下把人生做了一个重大调整。因为我们小时候和现在的很多年轻人的心态是一样的。就是我所有的努力目标就是更多的钱，更高的社会地位，或者说得更干脆一点。我努力是为了不努力。</p>
-<p class="transcript-line"><span class="time"><strong>[00:07:22]</strong> </span><span class="speaker"><strong>发言人2: </strong></span>对，现在大家也是努力是为了提前退休。</p>
-<p class="transcript-line"><span class="time"><strong>[00:07:25]</strong> </span><span class="speaker"><strong>发言人3: </strong></span>对对对，我还记得我有一次上初中的时候，在回家的路上，然后有一个算命的瞎子把我叫住。他就说，你这个人命太好，我觉得你将来能趴办公桌子。这个时候是我们那个小城市对一个小孩的最高祝福，就是你可以摆脱体力劳动。</p>
-<p class="transcript-line"><span class="time"><strong>[00:07:47]</strong> </span><span class="speaker"><strong>发言人2: </strong></span>80年代初。</p>
-<p class="transcript-line"><span class="time"><strong>[00:07:48]</strong> </span><span class="speaker"><strong>发言人3: </strong></span>80年代初那个。</p>
-<p class="transcript-line"><span class="time"><strong>[00:07:50]</strong> </span><span class="speaker"><strong>发言人2: </strong></span>是他想象力的极限。</p>
-<p class="transcript-line"><span class="time"><strong>[00:07:52]</strong> </span><span class="speaker"><strong>发言人3: </strong></span>那对，那是他想象力极限。但是这种想象力极限也在框定我们这一代人。对，就是你现在干活是为了将来不干活，你现在辛苦是为了将来不吃苦。然后这锻造了我们前半生的一个思维模型。所以说这就会出现你刚才问的那个问题。就为什么一帮人到岁数了，你看起来好像该有的也都有了你为啥还干活呢？就是因为发生了一个逆转。这个逆转就是你突然意识到，干活不是为了挣钱，然后躺着干活挣钱获取资源，获取地位，目的是为了让你干更多和更难的活。</p>
-<p class="transcript-line"><span class="time"><strong>[00:08:32]</strong> </span><span class="speaker"><strong>发言人2: </strong></span>你说这句话，我怀疑很多人听了哇了一下就想哭了，太吓人了。怎么干活是为了干更多的活呢？</p>
-<p class="transcript-line"><span class="time"><strong>[00:08:38]</strong> </span><span class="speaker"><strong>发言人3: </strong></span>对我今年不是公布了一个叫时间表。</p>
-<p class="transcript-line"><span class="time"><strong>[00:08:41]</strong> </span><span class="speaker"><strong>发言人2: </strong></span>对，人生课程表。</p>
-<p class="transcript-line"><span class="time"><strong>[00:08:42]</strong> </span><span class="speaker"><strong>发言人3: </strong></span>人生课程表其中就有一条叫一直工作一直到生命的极限，只要身体状态允许就要一直工作。因为这才是真相，我觉得才是人生真相。这个真相当当然需要一些契机帮你去看到。我的契机是发生在大概十年前，我有一次在美国生活了两个月，就这两个月的状态我就特别恍惚。因为它就是我从小追逐的那种生活，什么事儿都没有。每天早上醒来的时候，心里那个干净。</p>
-<p class="transcript-line"><span class="time"><strong>[00:09:23]</strong> </span><span class="speaker"><strong>发言人2: </strong></span>蓝天白云蓝。</p>
-<p class="transcript-line"><span class="time"><strong>[00:09:25]</strong> </span><span class="speaker"><strong>发言人3: </strong></span>鸟语花香，物资是那么的丰富，疯狂丰富的食物就跟在超市货架上长出来一样。你去取就好了。然后就那样的日子，我大概过到第二周还好，到第三周的时候心里就开始慌，就这种慌。我回国之后，我用一句话来总结，我说原来在中国感觉世界在身边呼啸而过。但是那几周在美国，我感觉生命在体内呼啸而过。</p>
-<p class="transcript-line"><span class="time"><strong>[00:09:59]</strong> </span><span class="speaker"><strong>发言人2: </strong></span>感觉生命力的丧失吗？</p>
-<p class="transcript-line"><span class="time"><strong>[00:10:00]</strong> </span><span class="speaker"><strong>发言人3: </strong></span>不是，就是你也能看到自己死就这么好吗？就这么舒服吗？然后舒服什么叫舒服？就生命中没有事件了，在那种日子过了一个星期需过去之后，你说这个星期发生什么？没有记忆点对，因为没有任何时间，两个星期没有记忆点，一个月没有记忆点太恐怖了，这辈子就这么过去了。所以我后来就到像新西兰的皇后镇，我就看到为什么那么多人追求那么。</p>
-<p class="transcript-line"><span class="time"><strong>[00:10:32]</strong> </span><span class="speaker"><strong>发言人2: </strong></span>刺激的运动中蹦极。</p>
-<p class="transcript-line"><span class="time"><strong>[00:10:33]</strong> </span><span class="speaker"><strong>发言人3: </strong></span>就是那种原来富足社会的人，他必须想辙在自己的生命当中制造时间，否则根本活不下去。</p>
-<p class="transcript-line"><span class="time"><strong>[00:10:43]</strong> </span><span class="speaker"><strong>发言人2: </strong></span>否则感觉不到自己在活着。对我之前听到一个说法，说是大脑它其实是会偷懒的。如果你每天都过得差不多，他就会等于做一个压缩包一样，就跟你删除。对，如果你每天比如说打卡、上班、坐班，也没有什么特别的事件，你继续回想这一周，你不知道自己干了什么。因为大脑把它给变成一个压缩包，或者他就只保留一天的记忆，其他都给你删了。</p>
-<p class="transcript-line"><span class="time"><strong>[00:11:08]</strong> </span><span class="speaker"><strong>发言人3: </strong></span>所以你看我们现在越来越活成一个大脑，因为你身体的其他部分的劳作上的价值基本都被机器替代。那对于大脑来说，他能够接受的最好的养育方式就是跟他闹别扭。你比如说我现在已经坚持了一年多了，就是每天用左手刷牙。这是我见过的一份报告里讲的这是最好的叫对大脑的训练。如果你是右力手的话，你用左手说试试，反正就各种不舒服，然后大脑会这个时候就激发他的潜能。因为大脑是人生当中非常奇怪的一种器官，他不衰退的，一直到岁数很大，他都可以持续保持可塑性。但前提是你跟他闹别扭，你不断的给他找挑战性的难度。就像我现在左手刷牙，我已经刷的很自如了，所以这招就快没有了。</p>
-<p class="transcript-line"><span class="time"><strong>[00:12:03]</strong> </span><span class="speaker"><strong>发言人2: </strong></span>那你给自己准备的下一个挑战，跟大脑闹别扭的方式是什么？</p>
-<p class="transcript-line"><span class="time"><strong>[00:12:08]</strong> </span><span class="speaker"><strong>发言人3: </strong></span>学一门可能从来没没有接触过的外语，练一种乐器都行，反正找别扭呗。当然还好，我现在文明之旅每周要交一万字的这种活，就得足够。已经跟自己闹别扭了。</p>
-<p class="transcript-line"><span class="time"><strong>[00:12:24]</strong> </span><span class="speaker"><strong>发言人2: </strong></span>可是这么多年下来，应该有很多人，他们可能是出于好心说为什么不让自己好好休息休息。再比如说你前面说在美国生活的两个月的那种状态，可能也会有人说，是不是你的那种慌张感，会不会也是一种不配得感。因为很多人他过得很舒服，他好像也很快乐，这是人与人个性的不同，还是说每个人其实都是如此。</p>
-<p class="transcript-line"><span class="time"><strong>[00:12:50]</strong> </span><span class="speaker"><strong>发言人3: </strong></span>我我我只能说我自己的体会，因为我没法穿越到别人的灵魂里。我是觉得人性当中天然有一些东西我们忽略了，比如说祥林嫂天然就会关注我死了之后怎么办？这是多么伟大的哲学思考，超越时空超越生命的边界去思考价值。我觉得这是每个人人性当中都有的东西，这跟你的文化水准、受教育程度，甚至是贫穷还是富有都没啥关系。你想你早都能想这事儿，咱还能不想吗？那要想超越时空，可不就得制造一些说的好听一点叫价值寻找，说的不好一听一点就是自己骗自己。你得做点事儿，谁还不愿意受人尊重？谁还不愿意自己死了之后，那个名字被刻在，甭管是碑上还是印在书上。</p>
-<p class="transcript-line"><span class="time"><strong>[00:13:46]</strong> </span><span class="speaker"><strong>发言人3: </strong></span>就这种事情我觉得还是能够给人带来激励。再普通的人也会被这个事情激励。对于我们这个岁数的人来讲，后面能干事的时间其实有数了。一张A4纸，你用小格儿给它打出来也就那么多天了，然后一眼能够看到底。那这个时候再不抓紧时间干活，啥时候抓紧时间干活？因为人一躺，每一天和每一天都一样。就是我在美国那两个月时间当中，敢说这是最恐怖的一件事情，就等于把自己提前判了死刑。</p>
-<p class="transcript-line"><span class="time"><strong>[00:14:27]</strong> </span><span class="speaker"><strong>发言人3: </strong></span>就是不干活的状态，不就是那个状态很舒服，你现在每天一瓶安眠药，从早到晚可以躺着。然后一直到死多舒服，连吃饭都费劲都不用，连牙都不再磨损了。所以我大概是十年前发生了一次认知逆转。逆转简单表述就是此前觉得干活是为了不干活，后来就觉得干活是为了更好的干活，能干更多的活。</p>
-<p class="transcript-line"><span class="time"><strong>[00:14:55]</strong> </span><span class="speaker"><strong>发言人2: </strong></span>然后时间先回来之后，得到APP才出现。对，要干更大的一摊活儿。</p>
-<p class="transcript-line"><span class="time"><strong>[00:15:01]</strong> </span><span class="speaker"><strong>发言人3: </strong></span>对，那也确实你此前有一些行动的结果，然后你就可以踏着这个结果往上走。你比如说文明之旅这个活儿，如果没有此前干得到，坦率的说我们也挣了点钱，如果没有这些钱我怎么敢干？你说我第一次发布的时候，先花了100万做了一个大片儿，你普通人你确实你没有这100万，然后你也不可能花钱雇那么好的审稿人团队，然后也可以把自己的精力放到一个几乎也不能说不挣钱，现在其实我们是挣钱的，但当时不知道能不能挣钱，就去冒这么大的风险。这都是因为你有了此前的工作的成果，你可以踏着它走向第二期阶梯。</p>
-<p class="transcript-line"><span class="time"><strong>[00:15:50]</strong> </span><span class="speaker"><strong>发言人2: </strong></span>所以文明之旅是一个可能在你心里蕴藏了很久的一个念头。</p>
-<p class="transcript-line"><span class="time"><strong>[00:15:55]</strong> </span><span class="speaker"><strong>发言人3: </strong></span>至少有20年了。</p>
-<p class="transcript-line"><span class="time"><strong>[00:15:57]</strong> </span><span class="speaker"><strong>发言人2: </strong></span>20年至少有30岁的时候就想干这个。</p>
-<p class="transcript-line"><span class="time"><strong>[00:16:02]</strong> </span><span class="speaker"><strong>发言人3: </strong></span>因为中华文明它最大的好处就是因为它连续，而且默认知识太多了。这跟其他文明不太一样，我们的共享的默认知识至少在我的理解当中是所有文明当中最多的。比如我们俩聊天，我说你怎么跟祥林嫂似的，我不用跟你解释，对吧？你就明白我在说什么，这叫默认知识。就是我们文明有太多这样的默认知识，高语境语言。所以这里面你只要顺着这个年份一年一年的把它讲下来，它会开掘出太多此前没被开掘的内容资源。所以我觉得这件事情太值得干了，这个想法我至少已经形成有20年。</p>
-<p class="transcript-line"><span class="time"><strong>[00:16:50]</strong> </span><span class="speaker"><strong>发言人2: </strong></span>但在最开始的时候，你的想法肯定不是以一个这么大的规格做这样的一系列片子。</p>
-<p class="transcript-line"><span class="time"><strong>[00:16:57]</strong> </span><span class="speaker"><strong>发言人3: </strong></span>我刚开始甚至想的是我干脆做一个私人的网站，这个网站就是。</p>
-<p class="transcript-line"><span class="time"><strong>[00:17:04]</strong> </span><span class="speaker"><strong>发言人2: </strong></span>20年前，确实那个时候还是PC。</p>
-<p class="transcript-line"><span class="time"><strong>[00:17:07]</strong> </span><span class="speaker"><strong>发言人3: </strong></span>对对对，然后我做这个网站的界面我都设计过，就是它的主页不是一个对话框，而是一个进度条，拉开就是5000年。你可以以任意尺度把它拉开，一直拉到每一年、每一月，甚至是每一天。然后我这一生就在这个就可以不断拉开的进度条里面填充内容。我看我这辈子能把这根条填得多满有多细。可能我一期节目讲的是一天，可能是一个月，也可能跨度是十年。我原来想做这么一个视频网站。</p>
-<p class="transcript-line"><span class="time"><strong>[00:17:49]</strong> </span><span class="speaker"><strong>发言人2: </strong></span>现在是在做逻辑思维视频节目之前就有。</p>
-<p class="transcript-line"><span class="time"><strong>[00:17:52]</strong> </span><span class="speaker"><strong>发言人3: </strong></span>了这个想法。对对对，我就是那个贝壳，把这粒沙已经在肚子里捂了好久。</p>
-<p class="transcript-line"><span class="time"><strong>[00:18:01]</strong> </span><span class="speaker"><strong>发言人2: </strong></span>现在磨成了一颗珍珠。</p>
-<p class="transcript-line"><span class="time"><strong>[00:18:03]</strong> </span><span class="speaker"><strong>发言人3: </strong></span>没有，刚起步，而且文明之旅这个项目该受的劫难还没开始。</p>
-<p class="transcript-line"><span class="time"><strong>[00:18:10]</strong> </span><span class="speaker"><strong>发言人2: </strong></span>指的是什么？</p>
-<p class="transcript-line"><span class="time"><strong>[00:18:12]</strong> </span><span class="speaker"><strong>发言人3: </strong></span>因为中华文明当中有一段，简单说就是我看啊岳飞死了之后，一直到明朝建立，这大概是200年左右的时间。是史料也不清晰，然后甚至没有大家熟悉的人，尤其是元朝这一段，将近100年，就连大家熟悉的人都少。所以大概会占我文明之旅的制作周期当中的4到5年。就这4到5年给你做网络传播，但是不好意思没有流量，然后要花钱，但是不好意思很可能也没有赞助商。你自己要跟自己的疲惫感和艰难感去做斗争，然后你也要说服自己的同事，这个项目仍然值得坚持下来。所以那会是我极其艰难的4到5年，会发生在我60岁前后。我到了60岁之后，应该就好了。因为进入明朝之后，整个全球尤其是到了1492年哥伦布大航海时代开始之后，世界史的内容也开始丰富了。那个时候对我来说就比较清楚。</p>
-<p class="transcript-line"><span class="time"><strong>[00:19:30]</strong> </span><span class="speaker"><strong>发言人2: </strong></span>所以在做这个项目之前，已经把会历经的劫难全都想好了。</p>
-<p class="transcript-line"><span class="time"><strong>[00:19:34]</strong> </span><span class="speaker"><strong>发言人3: </strong></span>对它这个劫难就是现成的，就摆在那儿，你躲也躲不掉。</p>
-<p class="transcript-line"><span class="time"><strong>[00:19:39]</strong> </span><span class="speaker"><strong>发言人2: </strong></span>因为我刚做了一期节目，是辽元明清的整个金融史就是放在世界史的视角里。元朝真的很难讲，因为大家对他的了解太少。</p>
-<p class="transcript-line"><span class="time"><strong>[00:19:50]</strong> </span><span class="speaker"><strong>发言人3: </strong></span>对，因为做内容你知道的，他一定得有一些大家熟悉的钩子。对，哪怕一个人名一个词儿都行。如果什么都不熟悉，大家在一片黑暗当中没法儿给这个内容进行自我生命定位，这个内容是没法儿听的。</p>
-<p class="transcript-line"><span class="time"><strong>[00:20:07]</strong> </span><span class="speaker"><strong>发言人2: </strong></span>而且你还是一年一年拆的这么细。</p>
-<p class="transcript-line"><span class="time"><strong>[00:20:10]</strong> </span><span class="speaker"><strong>发言人3: </strong></span>必须一年一年往前走，这节奏本身是比内容还要重要的。</p>
-<p class="transcript-line"><span class="time"><strong>[00:20:15]</strong> </span><span class="speaker"><strong>发言人2: </strong></span>这个节奏非常重要。就是你当时应该是60秒，十年的60秒结束之后，然后你又酝酿了一段时间推出的这个文明之旅。对，在我印象中是这样。对。</p>
-<p class="transcript-line"><span class="time"><strong>[00:20:27]</strong> </span><span class="speaker"><strong>发言人3: </strong></span>中间大概隔了一年。</p>
-<p class="transcript-line"><span class="time"><strong>[00:20:30]</strong> </span><span class="speaker"><strong>发言人2: </strong></span>那一年是一个什么状态？是在筹备这个新项目还是？60？秒结束之后你会发现说不行，我的生命还得找一些新的节奏和锚点。</p>
-<p class="transcript-line"><span class="time"><strong>[00:20:42]</strong> </span><span class="speaker"><strong>发言人3: </strong></span>我觉得他也不是说刻意的去找，就跟因为节奏这个事情，其实它的生理基础就是呼吸。你为什么音乐一定得有节奏？因为人是呼吸的，呼吸是有节奏，心跳是有节奏。所以就是你不进入新节奏，你自己不舒服，就像你听一个没有节奏的音乐，人是无法接受的，也是一个道理。对我来讲也是，就是你突然一下生命失去了栏杆，你不能每天扶着他往前走，每天不能确认自己对这个世界还有价值，然后不能接受到世界给自己的反馈。</p>
-<p class="transcript-line"><span class="time"><strong>[00:21:21]</strong> </span><span class="speaker"><strong>发言人3: </strong></span>60秒那十年其实帮助我完成了一个特别珍贵的东西，就是把自我完成了产品化。有的人他可能我通过在幕后做事情，我就用我的认知，我的大脑来做事情。那他可以不产品化，他把别人产品化。但是还有一种生活方式就是把自己产品化，那跟你做播客其实也是类似的，就是我必须要嵌入到他人的生命。你做博客你不能三月更一期，隔半年更一期，或者一天更八期，这不行，你不能按照自己的，因为你只有向世界输出秩序，形成节奏，让别人知道我怎么用你我大家。</p>
-<p class="transcript-line"><span class="time"><strong>[00:22:06]</strong> </span><span class="speaker"><strong>发言人2: </strong></span>听到就会在想说，我为什么要把自己产品化？这个表述可能天然会让别人没有那么舒服。但是我觉得我们聊天的这个隐藏的知识是，其实只有这样你才能够更好的跟别人合作，你才能更好的进入这个社会，实现自己的价值。</p>
-<p class="transcript-line"><span class="time"><strong>[00:22:24]</strong> </span><span class="speaker"><strong>发言人3: </strong></span>是我觉得农耕社会给我们这个民族的人可能带来了一种不好的暗示。就是你的很多成就，财富也好，地位也好，是因为你努力，然后被某个标准允许和通过，然后赏给你的。我努力种地，老天爷觉得可以，就把今年的丰收赏给我了。我努力读书，符合了标准，考官通过了，于是我就中了进士，中了状元。</p>
-<p class="transcript-line"><span class="time"><strong>[00:23:01]</strong> </span><span class="speaker"><strong>发言人2: </strong></span>你就有很强的因果关系和确定性。</p>
-<p class="transcript-line"><span class="time"><strong>[00:23:03]</strong> </span><span class="speaker"><strong>发言人3: </strong></span>对对对，就是我努力是为了你许可我得到这个结果。不是，世界从来不是这样运行的，世界是你贡献的价值对别人有用，然后造成你挣钱了，或者你有社会地位，你不是被一个高高在上的东西许可，然后获得财富的。职场里面很多小孩儿可能就是职场当中得完成这次转型。他进来之后，他所有想的都是我的表现好。</p>
-<p class="transcript-line"><span class="time"><strong>[00:23:36]</strong> </span><span class="speaker"><strong>发言人2: </strong></span>表现好了。</p>
-<p class="transcript-line"><span class="time"><strong>[00:23:36]</strong> </span><span class="speaker"><strong>发言人3: </strong></span>领导认可我，领导认可我，或者是我的领导是个猪头，他PUA我，他不认可我。你看甭管是哪种情绪，它本质上是我要获得许可，是这么个心态。但实际上不是，就是你在被领导表扬或者批评这个思维框架下，你永远也活不出来的。</p>
-<p class="transcript-line"><span class="time"><strong>[00:23:57]</strong> </span><span class="speaker"><strong>发言人3: </strong></span>一个职场人活出来的第一个标志是你超出了你领导的意外。我印象特别深，我当年第一次在央视当实习生的时候，然后那时候不懂胡说八道，就跟领导也拍个片子提各种要求，我也不想我们这次那个录音环境特别复杂，我得要个钓竿话筒，然后那个领导那脸拉的那这你懂什么？你拍过片子吗？你就你知道电话话筒多贵吗？你得到台历设备室去见我们栏目组，都没有特别生气，把脸一甩就走了。过一会儿我看他拿着一吊杆话筒回来了。你看就没有人跟他矫情，我跟他矫情，他的内心是高兴的，因为你超出了他的认知的部分，对领导才高兴。你带团队你肯定就知道，一定是小孩儿超出了你的认知。</p>
-<p class="transcript-line"><span class="time"><strong>[00:24:55]</strong> </span><span class="speaker"><strong>发言人2: </strong></span>对他并不是为了给我制造惊喜，而是他把注意力放在这个情上，对他提出了一个比我之前预想更好的方案。</p>
-<p class="transcript-line"><span class="time"><strong>[00:25:03]</strong> </span><span class="speaker"><strong>发言人3: </strong></span>然后你对他才有更好的信任，你才觉得这小孩可以用了。他一定是这样，他不是在任何框架的衡量下，她合格了，他优秀了。所以他好一定是他超越你期待的。</p>
-<p class="transcript-line"><span class="time"><strong>[00:25:16]</strong> </span><span class="speaker"><strong>发言人2: </strong></span>但这个思维惯性是很难扭转过来的。因为前面大家听到我们说我们应该让领导惊喜，或者是超出他的预期。可能又会觉得说你们又是在PUA，希望我做的比原本要多。但其实不是我觉得我们是在说你其实可以把注意力放在事儿上，而不是领导的认可上，领导的表扬上当你聚焦在事儿上，想要怎么把这个事儿办好，你会很自然而然的就超出所有人的预期。</p>
-<p class="transcript-line"><span class="time"><strong>[00:25:45]</strong> </span><span class="speaker"><strong>发言人3: </strong></span>孔子不是讲古之学者为己，今之学者为仁。什么叫为？为是一个艰难的创生和创造的过程，是把自己创造出来。所以我经常跟同事就在讲，我说我说职场难受，在办公室里难受，你就切换个思路，你就全当你在干这个活儿，是在给下一个老板写简历。所以千万别想着我为公司做什么贡献，那是副产品，一定是这个事儿。怎么能够让你在简历当中漂漂亮亮的能填上一行，以便让下一个老板高看你一眼，给你打包一下公司，顺便给现在的公司创造点价。我说这是最好的职场心态。所以就是你一辈子其实都是在写自己的简历，而不是给任何人打工，这就是一个围棋的过程，把自己给创造出来。</p>
-<p class="transcript-line"><span class="time"><strong>[00:26:42]</strong> </span><span class="speaker"><strong>发言人2: </strong></span>我觉得我也是自己在团队之后，我的心态才有了非常大的转变。一个是比如说哪怕我们只是招实习生，他只能待三个月、四个月，我也会先跟他沟通说我期待他能做到什么样子，以及我希望帮助他在这三个月能够做出一些项目。这样他可以带着这些成绩，这也能写在他简历上的东西走。对，这样他做出东西他自己很开心，有成就感。与此同时它丰富了自己的简历，我们也收获了好的项目，就是大家都很开心。</p>
-<p class="transcript-line"><span class="time"><strong>[00:27:12]</strong> </span><span class="speaker"><strong>发言人3: </strong></span>这是最好的合作者。</p>
-<p class="transcript-line"><span class="time"><strong>[00:27:13]</strong> </span><span class="speaker"><strong>发言人2: </strong></span>包括我自己带团队之后，再回想一下我当年在得到的时候，那真的是太学生心态。我是觉得说当年的我，我现在我自己都不会唱。</p>
-<p class="transcript-line"><span class="time"><strong>[00:27:26]</strong> </span><span class="speaker"><strong>发言人3: </strong></span>天天等着领导表扬。</p>
-<p class="transcript-line"><span class="time"><strong>[00:27:28]</strong> </span><span class="speaker"><strong>发言人2: </strong></span>对，就觉得我这么努力了，为什么你还不认可我？我觉得我已经做了我最好了。但其实那个时候自己的思路是很狭窄的，不是我只能做领导布置的工作。我这么多内容，这么多老师，这么多资源，我可以随时发起一个我觉得有意思的写作。以前是完全没有这个思路的对，这可能也是我过去几年的一个小的成长。</p>
-<p class="transcript-line"><span class="time"><strong>[00:27:51]</strong> </span><span class="speaker"><strong>发言人3: </strong></span>这不就拉回到你刚才问我的问题，就是人为什么一直要干活？因为你一旦回到为自己去创生出下一个自我的时候，你就会发现整个世界可以充分变成你可以任意的向世界输出秩序。就像我没有原来没有一个叫跨年演讲的东西，然后因为你干的这个活儿，所以至少中国一个圈层的人，每到年末的时候，他对这个产品评价时高时低不重要，重要的是他会觉得好像是个事儿，我在等这个事儿。然后到12月31号晚上，相关的东西刷屏，大家会觉得正常，那你看你就为这个世界的平淡的湖面上制造了一丝纹理，一个小波纹，它就这么出来了，而且即可预期到点儿就出现，那你对世界就贡献了价值。你在创造了一些把自我产品化之后的结果。</p>
-<p class="transcript-line"><span class="time"><strong>[00:28:57]</strong> </span><span class="speaker"><strong>发言人2: </strong></span>然后一直被模仿，从未被超越。</p>
-<p class="transcript-line"><span class="time"><strong>[00:29:01]</strong> </span><span class="speaker"><strong>发言人3: </strong></span>但是这个是有一点技术性的思考了。我做的所有的项目都带有这个特征，就是你模仿你，你一直在跟我。所以这也是为什么做长期主义的项目的好处，就只要做成所有跟你的人都在帮你往上拉屎了，你占得了那个开风气之先的那个生态位，别人就永远跨不过去。</p>
-<p class="transcript-line"><span class="time"><strong>[00:29:28]</strong> </span><span class="speaker"><strong>发言人2: </strong></span>所以其实罗老师你所在的这个赛道是一个长期主义的时间赛道。</p>
-<p class="transcript-line"><span class="time"><strong>[00:29:33]</strong> </span><span class="speaker"><strong>发言人3: </strong></span>对，但因为我觉得这些年我已经把它变成了一种叫活法一种样板。这个方法的实质其实就是向世界制造一个秩序，然后自己坚定地用这个秩序本身来影响人。我经常跟别人开玩笑讲，我说这是一个没有资源的人影响他人最好的方式。你比如说你在街上，你遇到一陌生人，你想影响他，怎么影响他？过去我们都是上去沟通，这是很困难的。影响别人最好的影响方式，你就跟他后面走你就喊121，他一会儿他就不会走路了。</p>
-<p class="transcript-line"><span class="time"><strong>[00:30:20]</strong> </span><span class="speaker"><strong>发言人2: </strong></span>这种影响吗？</p>
-<p class="transcript-line"><span class="time"><strong>[00:30:22]</strong> </span><span class="speaker"><strong>发言人3: </strong></span>对，输出秩序。所以你看我们一到春节的时候，为什么进入商场就开始播刘德华那个歌？对吧？那歌就是节奏比一般快，他就是希望到那个。</p>
-<p class="transcript-line"><span class="time"><strong>[00:30:34]</strong> </span><span class="speaker"><strong>发言人2: </strong></span>热闹、喜庆喜庆。</p>
-<p class="transcript-line"><span class="time"><strong>[00:30:36]</strong> </span><span class="speaker"><strong>发言人3: </strong></span>的时候，然后你的那个行动就快了。就是想影响你就是通过节奏。</p>
-<p class="transcript-line"><span class="time"><strong>[00:30:42]</strong> </span><span class="speaker"><strong>发言人2: </strong></span>这个确实是我没有想过的思路。不过我会发现说我在离开得到之后，真的是受罗老师受得到影响很深。因为比如说我做博客，一开始我也没有想那么多，我就觉得说我是沿用着得到的惯性。</p>
-<p class="transcript-line"><span class="time"><strong>[00:30:57]</strong> </span><span class="speaker"><strong>发言人2: </strong></span>当时我们公司有知有行，我们只有一个APP。在我去之前他是每天只有一篇转载文章，一天发一篇文章。我说这怎么行？2020年谁还要下载一个APP，看一篇转载的，而且是很深奥的投资文章。然后当时我脑海中自然而然出现了你以前举的例子，就是那种小吃摊。我说你起码你一周七天，你就不说一周七天，一周五天，你每天应该给大家输出一些固定的秩序。比如你周一卖牛肉饭，周二卖馄饨，周三卖面，就是你有不同的栏目让给大家形成一个稳定的预期。然后当时我们这个博客之前小酒馆就是中午的这个摊儿，后面我就把它变成了博客，中间肯定也会经历过很多说，因为你想那个时候我又不懂金融，我在金融圈没有任何的人脉，我们公司又是个极小的公司，其实我们是刷不到脸请到很厉害的人，那个时候我也不好意思请你。</p>
-<p class="transcript-line"><span class="time"><strong>[00:31:53]</strong> </span><span class="speaker"><strong>发言人3: </strong></span>对。</p>
-<p class="transcript-line"><span class="time"><strong>[00:31:54]</strong> </span><span class="speaker"><strong>发言人2: </strong></span>但是没关系。</p>
-<p class="transcript-line"><span class="time"><strong>[00:31:55]</strong> </span><span class="speaker"><strong>发言人3: </strong></span>就想办法，早说早请到。</p>
-<p class="transcript-line"><span class="time"><strong>[00:31:58]</strong> </span><span class="speaker"><strong>发言人2: </strong></span>后悔了，晚了五年。然后当时就想说没关系，那我先做，坚持周更，坚持更新，然后就一路走到现在。然后很多人就问我说你对于大家做播客有什么建议？我想了半天我就说你就坚持周更就好了。你只要坚持更新，然后你就发现大部分同行大家都会因为各种各样的原因不更新了。</p>
-<p class="transcript-line"><span class="time"><strong>[00:32:20]</strong> </span><span class="speaker"><strong>发言人3: </strong></span>他其实这个更底层的东西还是我们刚才讲的，就是你到底是为己还是为人？为人你就会把做一件事情的成败过多的觊觎他的外在要素上。你比如说做博客就特别想我请到大牌儿，你只要这个信念一起就开始往这儿去努力。好，假如你今天请到了你心中最梦想的嘉宾，此时此刻不他可能比我还有名。</p>
-<p class="transcript-line"><span class="time"><strong>[00:32:47]</strong> </span><span class="speaker"><strong>发言人3: </strong></span>好，那请问第二期呢？你自己都受不了那种挫败感，你一直在请大牌，但这件事情它就是有阶梯的，有鄙视链的对，一直到你听不到为止。然后这件事情就开始倒在匆忙下，然后周围人就开始说你江郎才尽，你自己也觉得我怎么就走了下坡路。所以你只要把一个节目的价值放在任何外在因素上，它走下坡路，坚持不下来就几乎是必然。只要你想我这个节目它的价值是在于我的访问水平，我管你是谁，他就能够坚持下来。所以为什么把自己创造出来是非常重要的一个价值锚点。</p>
-<p class="transcript-line"><span class="time"><strong>[00:33:33]</strong> </span><span class="speaker"><strong>发言人2: </strong></span>确实很多时候大家会锚定在很多外部因素。比如说我要请越来越大牌的嘉宾，邀请大咖，或者是我非常关注这些数据，数据一掉下来我就浑身难受。如果是锚定这些东西的话，其实确实很难坚持下来。我会意识到我们能够坚持下来，而且没有觉得特别费力。包括做了这么多年我也没有觉得疲惫的感觉。是因为我锚定的是我觉得我在输出对大家有帮助有价值的内容。</p>
-<p class="transcript-line"><span class="time"><strong>[00:34:03]</strong> </span><span class="speaker"><strong>发言人2: </strong></span>我是站在大家真实的投资理财困惑上，不是说指点江山，说什么美国政府关门对经济的影响是什么样子。而是最普通的家庭，你怎么把你家里的这个账给理好，你的小孩的这个教育金怎么存？你的养老的规划该怎么规划？我们是从这些东西出发，然后我就发现，原来大家有这么多的困惑没有被满足。我有无数的选题可以做对。</p>
-<p class="transcript-line"><span class="time"><strong>[00:34:29]</strong> </span><span class="speaker"><strong>发言人3: </strong></span>就服务人的需求这件事情就可以无穷无尽的做下去。但你要追逐外来因素的话，下坡路就在眼前。</p>
-<p class="transcript-line"><span class="time"><strong>[00:34:41]</strong> </span><span class="speaker"><strong>发言人2: </strong></span>那这个道理你是什么时候想清楚的呢？</p>
-<p class="transcript-line"><span class="time"><strong>[00:34:45]</strong> </span><span class="speaker"><strong>发言人3: </strong></span>我做事情我从来不关注外在因素，你看我从来不做有嘉宾的活儿。</p>
-<p class="transcript-line"><span class="time"><strong>[00:34:51]</strong> </span><span class="speaker"><strong>发言人2: </strong></span>早年的时候罗老师你好像也不是这样。因为我说早年指的是比如说你在央视，包括后面在中国企业家还是做访谈，对你就你也做了一段时间的访谈，那个时候我觉得还是会关注外部因素的，直到你们创业。那是那是没办法那是没办法。</p>
-<p class="transcript-line"><span class="time"><strong>[00:35:10]</strong> </span><span class="speaker"><strong>发言人3: </strong></span>因为那是别人的活，你只能按照别人的结构去干。我一旦开始做自己的事儿，我就要求所有的因素都落在我一个人身上，这可能也跟岁数有点关系。我40岁之后开始创业，就是你非常清楚自己起步的时候，就是走在人生的下坡路上。尤其是我到50岁那年生日，我印象特别深。我那天特别感慨，就人生上坡路走完了，50岁你自己心里都知道这是重点。</p>
-<p class="transcript-line"><span class="time"><strong>[00:35:41]</strong> </span><span class="speaker"><strong>发言人3: </strong></span>然后此后你的身体精力各个方面都在不可逆转的在发生衰退。那在这个时候该怎么做？所以你就一定还要找一个上升曲线。你就会发现在人生所有的曲线当中，只有一件事情随着年龄越大它越上升。就是对自己的了解，你什么都可以衰退，但是对自己的了解仍然会加深。所以开掘自己就会变成50岁之后你干的所有的事情的最基本的出发点。</p>
-<p class="transcript-line"><span class="time"><strong>[00:36:17]</strong> </span><span class="speaker"><strong>发言人2: </strong></span>挖掘自己的潜能。</p>
-<p class="transcript-line"><span class="time"><strong>[00:36:20]</strong> </span><span class="speaker"><strong>发言人3: </strong></span>对我对自己一定是越来越了解的。</p>
-<p class="transcript-line"><span class="time"><strong>[00:36:23]</strong> </span><span class="speaker"><strong>发言人2: </strong></span>因为我觉得站在外界的角度来看，也许你会觉得说你40岁创业，你是在往一个下坡路走。当然我知道你主要指的是身体健康。对，但是在外界眼中你是一直在往上坡路走，一直在不断的挑战自我，自我革新，不断的是给大家创造一些新的我说原来他还能做到这个太厉害了，太了不起了，是一个值得让大家尊敬的人。</p>
-<p class="transcript-line"><span class="time"><strong>[00:36:49]</strong> </span><span class="speaker"><strong>发言人3: </strong></span>对，因为其实让大家尊敬，我觉得无非就是两条。第一条就是靠谱，就是我刚才反复强调的向世界输出稳定的节奏，这件事情对于一个岁数大点的人其实没那么难说句凡尔赛的话，我也不缺钱了，我也不去追逐全新的机会，全新的机会对我没有意义。你全新机会你能保证能成吗？不能，越是新机会你越不知道他能不能成。</p>
-<p class="transcript-line"><span class="time"><strong>[00:37:23]</strong> </span><span class="speaker"><strong>发言人2: </strong></span>可是为什么一定要追求成呢？不能只是满足自己的好奇或者是趣味。</p>
-<p class="transcript-line"><span class="time"><strong>[00:37:28]</strong> </span><span class="speaker"><strong>发言人3: </strong></span>那随时都能满足，就随时蹲下来交几只蚂蚁认字儿，这都能那那那是人生趣味问题。就是你行动总要有意义感总要有意义感，可是你像我已经试验了几把之后，我完全知道只要做一件长期主义的大事儿，它最大的秘密就在于只要做完就是做成你想其他的事。做完你可不知道成不成。你画一幅画你怎么知道他一定能卖很贵呢？你做一个项目，你怎么知道一定会有客户呢？但是我干这个事儿，我只要开始做，我就知道它一定能成。他没有任何不成的可能。因为它的规模放在那。</p>
-<p class="transcript-line"><span class="time"><strong>[00:38:14]</strong> </span><span class="speaker"><strong>发言人2: </strong></span>这个规模指的是时间的这个规模还是什么？</p>
-<p class="transcript-line"><span class="time"><strong>[00:38:18]</strong> </span><span class="speaker"><strong>发言人3: </strong></span>时间的规模就是为什么资治通鉴那么牛？是他写得很好，确实写得很好。但是第一它成的因素并不是因为他写得好，是因为它规模太大。那个规模就会导致所有的人要去就是从资治通鉴是1085年成熟的。</p>
-<p class="transcript-line"><span class="time"><strong>[00:38:42]</strong> </span><span class="speaker"><strong>发言人2: </strong></span>咱还没讲到1085年.</p>
-<p class="transcript-line"><span class="time"><strong>[00:38:44]</strong> </span><span class="speaker"><strong>发言人3: </strong></span>对，1084年年末，对，成熟的。然后他只要出来这个规模往那儿一搁，大家去找过去的事实就自然会去找他了，谁也不会去搜索那些零碎的治疗了。所以规模本身决定了它的价值。所以对我来说，我干一件确定能成的事儿，这多好，天下哪有这么划算的买卖。</p>
-<p class="transcript-line"><span class="time"><strong>[00:39:09]</strong> </span><span class="speaker"><strong>发言人2: </strong></span>就再过100年、200年，可能当大家回顾历史的时候，大家也会翻开文明系列。</p>
-<p class="transcript-line"><span class="time"><strong>[00:39:14]</strong> </span><span class="speaker"><strong>发言人3: </strong></span>对，他整理过。对，他这相对来说比较好。另外就是你吃常人吃不了的苦，包括我现在经常写稿，还直播给大家看，大家看我在那抠手指头，难受的要死。</p>
-<p class="transcript-line"><span class="time"><strong>[00:39:31]</strong> </span><span class="speaker"><strong>发言人2: </strong></span>所以直播写稿这个念头是怎么会有的？</p>
-<p class="transcript-line"><span class="time"><strong>[00:39:34]</strong> </span><span class="speaker"><strong>发言人3: </strong></span>就是我自己不自觉，因为太苦了。</p>
-<p class="transcript-line"><span class="time"><strong>[00:39:37]</strong> </span><span class="speaker"><strong>发言人2: </strong></span>都50岁了，为什么还要把自己逼成这样？因为我给大家解释一下，罗老师现在每周更新一期文明之旅。在不做内容的朋友眼中，可能觉得说他可能招了一个团队帮他查资料写东西，而且现在还有AI的辅助，对，应该会很容易。但其实完全不是这个样子。</p>
-<p class="transcript-line"><span class="time"><strong>[00:39:58]</strong> </span><span class="speaker"><strong>发言人3: </strong></span>做内容是这样，你帮手越多你自己越痛苦。不是说帮手没用，而是帮手把你提高到一个维度上，你要继续往上拔，对你的要求就更高。我现在坐下来就是大师傅炒饭的时候，对吧？所有的菜已经洗好了，搁那儿。那对你火候把握的要求就更高。而且主要是我还要跟历史学的学术界有一个视角的差异。</p>
-<p class="transcript-line"><span class="time"><strong>[00:40:27]</strong> </span><span class="speaker"><strong>发言人2: </strong></span>对。</p>
-<p class="transcript-line"><span class="time"><strong>[00:40:28]</strong> </span><span class="speaker"><strong>发言人3: </strong></span>就是你要让行家看了觉得好扎实，但是又让行家觉得我怎么没想到这太难，要同时兼顾这两个目标。</p>
-<p class="transcript-line"><span class="time"><strong>[00:40:38]</strong> </span><span class="speaker"><strong>发言人2: </strong></span>我之前听说是每次文明之旅更新前，你都会熬一个大夜。</p>
-<p class="transcript-line"><span class="time"><strong>[00:40:43]</strong> </span><span class="speaker"><strong>发言人3: </strong></span>通宵写稿，通宵每周一次。就是我后来觉得不行，我这样会把身体搞垮，然后我就开始直播写稿，这样就比较。</p>
-<p class="transcript-line"><span class="time"><strong>[00:40:53]</strong> </span><span class="speaker"><strong>发言人2: </strong></span>效率高多了。</p>
-<p class="transcript-line"><span class="time"><strong>[00:40:55]</strong> </span><span class="speaker"><strong>发言人3: </strong></span>开玩笑，现在两天一篇稿，就两天一篇硕士论文。你想这已经是一个超级写稿机器了，到目前为止我已经写了86遍。</p>
-<p class="transcript-line"><span class="time"><strong>[00:41:08]</strong> </span><span class="speaker"><strong>发言人2: </strong></span>我不知道你有没有答案，就是我也会好奇，为什么好像别人做不到像你这样把自己逼到这个份儿上？</p>
-<p class="transcript-line"><span class="time"><strong>[00:41:15]</strong> </span><span class="speaker"><strong>发言人3: </strong></span>其实不是做不到，我觉得这是我自己走运。因为很多人他做不到，是因为他构想不出那个终局的画面感。我记得左晖就是链家的创始人。他就是说其实做事儿也好，创业也好，做个公司或者做自己的项目也好。其实本质上就是你那个中局的画面感是不是清楚，就很多人都是脚踩西瓜皮往前滑对，或者用外在的标准来衡量自己，那你就不可能有终局。</p>
-<p class="transcript-line"><span class="time"><strong>[00:41:48]</strong> </span><span class="speaker"><strong>发言人3: </strong></span>对我来讲，我做文明之旅这件事情就是这个终局的画面我是有的，就是完成1 30岁那年的时候，我终于把自己从老罗熬成了裸了，就是我做了这么大一个活儿，然后这个活儿我拍在桌面上，甭管是对学界、对祖先、对后辈，我都交代了过去。一千多万字。这就是当代个体的结构化写作的最大规模的一个作品。我会被这个画面激励，它虽然是我意淫出来的一个场面，但是我会被激励，就是我70岁人生就完成了这么伟大的一次登顶。</p>
-<p class="transcript-line"><span class="time"><strong>[00:42:33]</strong> </span><span class="speaker"><strong>发言人3: </strong></span>你觉得现在今天晚上吃点苦，那又怎么了？这不是很划算的事情吗？所以我心中是偷着乐而窃喜的。就是我突然看到了这么个画面，而且突然发现自己攒的资源够，我可以上，那再不上不傻吗？就说白了珠峰就在头顶。我已经到四号营地了，旁边几个导游说，你只要上，我扛都给你扛上去。今天又是个大晴天，一点风儿都没有，所有的装备电池都充满了，你说不上吗？</p>
-<p class="transcript-line"><span class="time"><strong>[00:43:08]</strong> </span><span class="speaker"><strong>发言人2: </strong></span>很多人会觉得太苦了，要不再等等再算了。因为你看很多人，比如我们之前耳熟能详的很多功成名就的企业家，人家是真的去爬珠峰，去环游世界，去到处游学访学，做很多各种各样的事情。但好像真的没有人说像您一样做这样的一个非常长期主义，把自己茅在一件事情上一干干十年、20年。</p>
-<p class="transcript-line"><span class="time"><strong>[00:43:34]</strong> </span><span class="speaker"><strong>发言人3: </strong></span>对我觉得还是我刚才说的，就是他没有那个机缘，机缘还没到，把那个中局的画面感给画出来。因为我们生活在一个叫增长时代，增长就是不讲终局，每一步的增长才重要。至于终局是什么？我们大家都在说，反正唯一不变的是变化。</p>
-<p class="transcript-line"><span class="time"><strong>[00:43:55]</strong> </span><span class="speaker"><strong>发言人3: </strong></span>对，不去不去想中局。你看这句话听着对，但实际上它是反中局的。但人生我觉得很多东西终极画面就在那儿。一个人可能大致的成就就那几种。我们在历史上全看过球名。</p>
-<p class="transcript-line"><span class="time"><strong>[00:44:13]</strong> </span><span class="speaker"><strong>发言人2: </strong></span>球权。</p>
-<p class="transcript-line"><span class="time"><strong>[00:44:15]</strong> </span><span class="speaker"><strong>发言人3: </strong></span>球粒就那样，就那几个你把中局画面画出来。但你不能说求财，咱们说你有钱之后什么样，咱们把那个样儿想出来，你会发现那就容易好多。</p>
-<p class="transcript-line"><span class="time"><strong>[00:44:28]</strong> </span><span class="speaker"><strong>发言人2: </strong></span>我在想这种认知的或者你刚才说的机缘，我觉得应该是源自以前或者你更年轻的时候得到了一些正反馈。让你意识到说可能这种死磕自己拉长时间，它是非常的有价值的。然后慢慢的才能看到做任何一件事情拉长时间的终局。</p>
-<p class="transcript-line"><span class="time"><strong>[00:44:49]</strong> </span><span class="speaker"><strong>发言人3: </strong></span>对我觉得这也是我们这一代人特别宝贵的一笔资产。我们这一代人都是从赤手空拳开始的，你什么都没有，然后你知道唯一能够豁出去的就是我自个儿，然后居然豁出去有用，就是在中国历史上绝大部分穷小子们呼出自己是没有用的这一身血肉一百多斤甜的那个大机器里可能就变成肉馅儿了。但是我们这个时代，因为自媒体的爆发，因为对世界编程的工具变得多，所以你突然发现呼出去自己居然有用，还有这么占便宜的事情，谁的青春不迷茫？谁的青春不残酷，都活自己有用吗？所以我不觉得自己吃这点苦有什么了不起，那比我苦的人多太多了，我吃的苦还被看见了。你直播写个稿，直播间里还好几百人围着看，对吧？这已经是绝大的形式了。</p>
-<p class="transcript-line"><span class="time"><strong>[00:45:55]</strong> </span><span class="speaker"><strong>发言人2: </strong></span>我记得当年在得到的时候，印象特别深的一件事情。那个时候应该是罗老师你以前的老师，他是在报纸上还是杂志上写了回忆你当年考研的事情。对，给我带来了巨大的震撼，然后让我记到现在。为什么？我觉得那个故事是告诉我你真的尽力了吗？你做到什么地步你才可以说我尽力了？因为我跟罗老师是本科校友，当时那个故事在我记忆中是这样的，就是罗老师考研，然后好像是政治还是什么差了一分，差两分儿。然后那个时候90年代也没有手机，那个时候也没有什么大哥大。</p>
-<p class="transcript-line"><span class="time"><strong>[00:46:31]</strong> </span><span class="speaker"><strong>发言人2: </strong></span>对，毕竟是穷学生。对，然后想考那个学校叫北广。对，广院想想考广院，虽然落榜了，但是心里不甘心。然后不知道在哪里查到说这个广院的招生组好像在长沙，然后问同学们凑了点儿钱就杀到了长沙。你到了长沙时候好像是一个晚上。对，然后你去找了一个录像厅，然后在这里凑合了一宿，一觉醒来之后发现钱被人偷光了。对，就是当时我故事听到这儿的时候，我想说让一个正常人，尤其一个年纪很小的小青年，遇到这种事情会觉得说我真的很努力很尽力了，就太惨了，太不走运了。可能我就想说我就要回家，我要回学校。</p>
-<p class="transcript-line"><span class="time"><strong>[00:47:16]</strong> </span><span class="speaker"><strong>发言人2: </strong></span>然后那个时候应该是二十出头的罗老师，他当时是问录像厅的老板又借了几块钱，而且他完全不知道这个招生组在哪个学校，有什么联系方式。他就把长沙的每一所高校，一所中学中学每一所中学就是坐公交一个一个排查过去。对，然后后来还真找到了这个招生组下榻的那个学校，那个宾馆。对，那个宾馆。然后那个招生组当天又去，我就是去湘潭去。对，去玩了，去玩儿了。你看我记得多深刻，细节都记得。对，人家都去玩了。然后他也没有任何联系方式，就坐在那个宾馆门口等人家。然后等小罗等到了这些招生组的老师，人家看啊怎么有个学生在这等我，居然还从武汉来的。</p>
-<p class="transcript-line"><span class="time"><strong>[00:48:01]</strong> </span><span class="speaker"><strong>发言人2: </strong></span>但是一番交流，他就说，我们没有权限，比如说给你什么宽限一下或者怎么样，你这个也很辛苦对吧？但是你就回学校，然后这个事情好像就这么结束了。但是后来那一年北京刚好是有名额放开，广院多了一些招生计划的名额。这个老师就想到了当时的小罗老师，就这样罗老师去了广院读研。</p>
-<p class="transcript-line"><span class="time"><strong>[00:48:25]</strong> </span><span class="speaker"><strong>发言人3: </strong></span>对，那是胡老师，胡志峰老师，他还是特别帮忙。当时就在宾馆就地给北京打长途，那个时候打长途电话可是个事儿。当时是这样，我总分很高，我就是政治这一个单科差了两分儿。所以在招生的政策上其实是有余地的，就是需要学校给教育部打报告，说我能不能破格。然后那天胡老师就给研究生院的云老师打电话，说这小鹿儿绝对不容易。</p>
-<p class="transcript-line"><span class="time"><strong>[00:49:01]</strong> </span><span class="speaker"><strong>发言人2: </strong></span>你当时怎么会想到要去长沙呢？</p>
-<p class="transcript-line"><span class="time"><strong>[00:49:03]</strong> </span><span class="speaker"><strong>发言人3: </strong></span>你就是努力，那怎么办呢？你不甘心就不甘心，你遇到一点可能性你就往前拱。很小的时候我就明白了这么一个道理，就这个世界每个人都可能被你改变，世界不是给定的。我们今天很多小孩儿他之所以显得被动，就是他认为世界是给定的，算法是给定的，规矩是给定的，整个人对我的态度，甭管是善意和恶意都是给定的。</p>
-<p class="transcript-line"><span class="time"><strong>[00:49:30]</strong> </span><span class="speaker"><strong>发言人2: </strong></span>这个时代就是没有机会了。</p>
-<p class="transcript-line"><span class="time"><strong>[00:49:31]</strong> </span><span class="speaker"><strong>发言人3: </strong></span>这个阶级就是固化。对对对，大家会倾向于用一种判断来描述这个世界。但你就说那天早上，我是我在录像厅，早上醒来就穿了衣服，这衣服还给我割了一大口子，你知道吧？拿刀片割的把钱全部掏走，然后就身上一分钱都没有了。是我走到火车站门前，那个广场上，有一个蹬黄包车的一个车夫就招呼我上车。这是我那天早上在长沙遇到的第一个人，整个广场上没有人我说我钱被人偷了，我说我实在没有钱坐你的车。他看我可怜，他说我给你十块钱。所以这件事情给我的印象特别深。</p>
-<p class="transcript-line"><span class="time"><strong>[00:50:16]</strong> </span><span class="speaker"><strong>发言人3: </strong></span>你说同在长沙，同在火车站混生活的人，他有贼，也有这样的黄包车工人，他多辛苦。你说他等十块钱多辛苦，对他就随手给了我。所以那一刻我真的觉得这世界大有可为。你向世界表达善意、建设性，甚至表达个可怜都有人帮你。这个世界是可为的是有充分的可塑性的。</p>
-<p class="transcript-line"><span class="time"><strong>[00:50:47]</strong> </span><span class="speaker"><strong>发言人2: </strong></span>可是为什么你会从小就知道说，其实这个世界每一个人他其实是可以改变的那。</p>
-<p class="transcript-line"><span class="time"><strong>[00:50:54]</strong> </span><span class="speaker"><strong>发言人3: </strong></span>怎么办呢？穷孩子出身。</p>
-<p class="transcript-line"><span class="time"><strong>[00:50:56]</strong> </span><span class="speaker"><strong>发言人2: </strong></span>你你你必须得你不去保持这个，你必须得保持这个信念，不然你哪能杀你这封于。</p>
-<p class="transcript-line"><span class="time"><strong>[00:51:02]</strong> </span><span class="speaker"><strong>发言人3: </strong></span>社会人形成的思维习惯就是有什么资源干什么活？对吧？一个穷孩子看到世界不是，那就是这个世界怎么到处都是资源，只不过一样去拿到。</p>
-<p class="transcript-line"><span class="time"><strong>[00:51:15]</strong> </span><span class="speaker"><strong>发言人2: </strong></span>我觉得可能是现在社交媒体的影响，大家对人的判定往往就是非黑即白的。然后既否认人的复杂性，也否认人的成长性。就觉得我就这样了，这个人就是这样了，这个人就是坏人，那个人就是好人。对，这个其实我会有时候觉得还挺可惜的。所以包括我做内容的时候，虽然我们的核心是聊投资理财，但是我也会尽可能的在我的节目里给大家呈现各种各样的人生样本，就在你没有想到的角落。可能有些人他40岁也可以重启人生，或者是五六十岁他找到了自己真正的感兴趣的事情。他也许没有特别多的钱，但他感到内心很富足，很自洽。</p>
-<p class="transcript-line"><span class="time"><strong>[00:51:58]</strong> </span><span class="speaker"><strong>发言人2: </strong></span>我觉得这些都是有可能的，包括早的时候我会觉得，因为想说我们不是一个金融的APP。对我应该教大家怎么赚钱致富。后来发现不对劲，就是你会发现大家可能赚了很多钱，他不一定会把这个人引向到很舒服、很幸福、很愉快的生活就是财富。它不只是钱，它也包括你的人际关系，包括你的心理健康，包括你的健康状况等等等等。然后慢慢的这个选题范围越来越大，包罗万象。所以就更顺理成章的请来罗老师来聊。</p>
-<p class="transcript-line"><span class="time"><strong>[00:52:34]</strong> </span><span class="speaker"><strong>发言人3: </strong></span>因为我觉得接下来，尤其是在AI这个时代，每个人一生可能都面对着一个任务，就把自己发明出来，或者说叫发明一个全世界只有自己胜任的职业。</p>
-<p class="transcript-line"><span class="time"><strong>[00:52:51]</strong> </span><span class="speaker"><strong>发言人2: </strong></span>听起来很难不难。</p>
-<p class="transcript-line"><span class="time"><strong>[00:52:53]</strong> </span><span class="speaker"><strong>发言人3: </strong></span>因为这是必然。就像我非要给你做一个定义，做播客的。但你会觉得自己是在做播客吗？不是你做了一个别人不会做的事儿，就是那个细节的幽微之处可能只有你自己知道。当然你可以抽象的来说，做自媒体的，做补课的，你可以这么抽象的描述。就像我也是一样，你非要说我是个文史博主，我也不能跟你抬杠，对吧？</p>
-<p class="transcript-line"><span class="time"><strong>[00:53:23]</strong> </span><span class="speaker"><strong>发言人2: </strong></span>你开心就好。</p>
-<p class="transcript-line"><span class="time"><strong>[00:53:24]</strong> </span><span class="speaker"><strong>发言人3: </strong></span>但是我非常清楚，我做的事情全世界只有我能做，这是我发明出来的职业，叫文明之旅的主讲人。然后就是那句话，我此前看过的每一场电影，喝过的每一杯咖啡，谈过的每一场恋爱，我都在为此刻在做这件事做准备。过去是一个合规社会，你所有的努力是为了越过那个规那个门槛儿，进入到你的一个理想之地。你现在不是，现在是一个持续不断的投逃离规范生活、统一生活的过程。就是你在生活当中凑任何一个生命的马赛克、小拼图、小乐高小碎片，都是在拼最终你完成的那个非常独特的自己，把属于自己的那个职业给发明出来。</p>
-<p class="transcript-line"><span class="time"><strong>[00:54:18]</strong> </span><span class="speaker"><strong>发言人2: </strong></span>但这个我觉得会让很多人感到焦虑和恐慌，因为大众是喜欢从众的。如果你让他说出这几个字我是独特的，他可能连说这句话的时候都会感到不安。</p>
-<p class="transcript-line"><span class="time"><strong>[00:54:32]</strong> </span><span class="speaker"><strong>发言人3: </strong></span>没关系，我觉得现代社会给我们创造了一个词儿叫时尚。时尚的本质就是你刚才说的这个叫既一样又不一样。时尚的本质就是我又要跟随潮流，但这个潮流我在其中，我感觉到自己不一样，对吧？时尚是一个特别矛盾的词汇，对，那就是这样，就是你可以跟你觉得自媒体好跟过程当中你一定会不一样的。</p>
-<p class="transcript-line"><span class="time"><strong>[00:55:01]</strong> </span><span class="speaker"><strong>发言人2: </strong></span>但很多人是没有发现自己的不一样，在跟的过程中发现自己力不从心。或者是因为它锚定外部的这些衡量标准，就觉得说这条路好像我没戏算了，很多很多个算了，让他越来越不知道自己能干什么，找不到自己的定位。所以大量的自媒体的博主就会建议你还是考公，还是考研吧，还是考编。</p>
-<p class="transcript-line"><span class="time"><strong>[00:55:26]</strong> </span><span class="speaker"><strong>发言人3: </strong></span>其实我觉得脱不花有一句话说的特别好，就是让中年人走好的最重要的方法很简单，叫遇事解决事。怎么理解呢？就是你别老想那些抽象问题，所以很多人我觉得也是受教育程度过高，就老在想一些抽象的问题，我要不要做小红书博主，要不要走这条路？你管他，你先坐，你坐着你学所有人你都不可能学的一样的，你肯定最后做出你自己了，这是一个自然而然发生的过程，解决问题，而不是做判断，做事为一体。</p>
-<p class="transcript-line"><span class="time"><strong>[00:56:12]</strong> </span><span class="speaker"><strong>发言人2: </strong></span>所以你会觉得很多人的问题是做的太少。</p>
-<p class="transcript-line"><span class="time"><strong>[00:56:15]</strong> </span><span class="speaker"><strong>发言人3: </strong></span>想的太多吗？对对。</p>
-<p class="transcript-line"><span class="time"><strong>[00:56:18]</strong> </span><span class="speaker"><strong>发言人2: </strong></span>然后因为想的多，然后开始看书，然后看书然后想的更多，然后陷入无限的这个循环。</p>
-<p class="transcript-line"><span class="time"><strong>[00:56:24]</strong> </span><span class="speaker"><strong>发言人3: </strong></span>无非就是两种想法，一种是为难自己，天天打击自己，人家多棒。一种是自我保护，他们都是骗我的，他们原来都想割我韭菜，所以我不上当。不转账。</p>
-<p class="transcript-line"><span class="time"><strong>[00:56:40]</strong> </span><span class="speaker"><strong>发言人2: </strong></span>不听不看不转账，不转账这个还是很重要的，不能随便转账。还会有很多人还是会向你讨教，怎么样提升自己的表达，怎么样能够提升自己的内容能力。应该反反复复这么多年，应该一直有人在问你有什么独家心得吗？</p>
-<p class="transcript-line"><span class="time"><strong>[00:57:00]</strong> </span><span class="speaker"><strong>发言人3: </strong></span>我的独家心得其实很简单，就是你要呈现出你特别有生命力的样子。</p>
-<p class="transcript-line"><span class="time"><strong>[00:57:08]</strong> </span><span class="speaker"><strong>发言人2: </strong></span>这样你才有感染力。</p>
-<p class="transcript-line"><span class="time"><strong>[00:57:09]</strong> </span><span class="speaker"><strong>发言人3: </strong></span>对，感染力太重要。因为过去人往讲台上一走，大家说我要学习你说的正确还是不正确的，大家是这么判断，现在不是谁学你能成你你无非就是人家环境当中的一个因子。对，跟人家小区门口那棵树也差不多，就是它的环境的一个因子。这个因子你表达的越有积极性，越有生命力，对别人的影响就这么简单。所以我觉得中国最有名的几个演讲者是符合那个时候所谓字正腔圆？都不是你看罗永浩、雷军，包括早几年徐小平对吧？他们都不是那样的演讲者。但是他们的那个生命力和做事业的那个气儿。</p>
-<p class="transcript-line"><span class="time"><strong>[00:58:01]</strong> </span><span class="speaker"><strong>发言人2: </strong></span>精气神。</p>
-<p class="transcript-line"><span class="time"><strong>[00:58:02]</strong> </span><span class="speaker"><strong>发言人3: </strong></span>才叫感染人。所以表达力核心是这个。如果要问我第二条，那我就说得写稿，写。</p>
-<p class="transcript-line"><span class="time"><strong>[00:58:11]</strong> </span><span class="speaker"><strong>发言人2: </strong></span>逐字稿。</p>
-<p class="transcript-line"><span class="time"><strong>[00:58:14]</strong> </span><span class="speaker"><strong>发言人3: </strong></span>因为只有写作是在思考，你不写作的人时间是不在思考的。你讲话是有时候是靠本能，不是有那么一句话，写作之难就是在用线性的文字，在树状的语法中去描摹一个网状的世界。所以世界本身是网状的或者说是混沌的。你要用一个树状的语法，用线性的文字把它清晰的稳定的描述出来。这相当于在虚空当中抓出一个食物，就对准确性的要求，这是对大脑的一个强力训练。</p>
-<p class="transcript-line"><span class="time"><strong>[00:58:56]</strong> </span><span class="speaker"><strong>发言人2: </strong></span>我觉得这也是为什么大家这么推崇马尔克斯的百年孤独，因为它对呈现了完全不一样的。</p>
-<p class="transcript-line"><span class="time"><strong>[00:59:03]</strong> </span><span class="speaker"><strong>发言人3: </strong></span>一个结构大家可能对南美洲的社会有那样一种感受，但这个感受怎么表达呢？他趴给出一文本这么表达，这是极其可怕的能力。所以演讲者的功夫应该建立在写作上，这是我自己羞耻的方法，也不见得符合所有人的。</p>
-<p class="transcript-line"><span class="time"><strong>[00:59:26]</strong> </span><span class="speaker"><strong>发言人2: </strong></span>我其实这几年也有一个感受，就是你的很多想法和感受，你是需要用语言来把它确定下来的对，因为你写出来的东西，如果它完全的就很散很松散，你看着也难受，你就会自然而然的去修改它它对于你的思维也是一个很好的训练。不然你很难把你的想法或者感受真正的描摹出来，而你不确定它它可能就是一些混沌的一些大脑的符号。</p>
-<p class="transcript-line"><span class="time"><strong>[00:59:51]</strong> </span><span class="speaker"><strong>发言人3: </strong></span>所以语言的第一要务是准确，写作的第一要务也是准确。今天早上我在一份就非常正式的中央文件里看到一个词儿叫牛鼻子，叫知识问题的牛鼻子。你看就这么正式的文件里面，为什么会用这么生活化的词汇？那只有一种可能，就是只有用它才准确。</p>
-<p class="transcript-line"><span class="time"><strong>[01:00:15]</strong> </span><span class="speaker"><strong>发言人3: </strong></span>对，后来我想了一下，我看了一下那个语境，我发现确实只有用这个词儿才准确。因为牛鼻子它既有枢纽要害重要，有这层意思。但它还有另外一层意思，就是一牵就走，只要从这儿入手，就可以撬动另外一个庞大事物的杠杆。它就这么个意思。在你看这两层意思搁在一块儿，在汉语里面只有牛鼻子这三个字儿是准确的。所以这就必须得靠写作。</p>
-<p class="transcript-line"><span class="time"><strong>[01:00:43]</strong> </span><span class="speaker"><strong>发言人2: </strong></span>而且这种语言的精确性，表达的准确性，它往往也会让你对各种事物的认知也会变得更深一层。</p>
-<p class="transcript-line"><span class="time"><strong>[01:00:53]</strong> </span><span class="speaker"><strong>发言人3: </strong></span>深一层是因为你把它从虚空当中抓出来，变成一个语言的实体的，才能做的深刻。</p>
-<p class="transcript-line"><span class="time"><strong>[01:01:00]</strong> </span><span class="speaker"><strong>发言人2: </strong></span>像八里庄抗大还在一直持续吗？</p>
-<p class="transcript-line"><span class="time"><strong>[01:01:03]</strong> </span><span class="speaker"><strong>发言人3: </strong></span>持续。</p>
-<p class="transcript-line"><span class="time"><strong>[01:01:04]</strong> </span><span class="speaker"><strong>发言人2: </strong></span>我就是要跟听众们解释一下，这是得到内部对打磨内容人员的一个非常有趣，但是可能身处其中的人会觉得有点变态的一个机制。</p>
-<p class="transcript-line"><span class="time"><strong>[01:01:14]</strong> </span><span class="speaker"><strong>发言人3: </strong></span>对对对，我们那街道就叫八里庄街道，北京市朝阳区八里庄。</p>
-<p class="transcript-line"><span class="time"><strong>[01:01:19]</strong> </span><span class="speaker"><strong>发言人2: </strong></span>在华贸那边就叫八里庄。然后又联想到历史上的抗大，对，搞了这么一个名字。</p>
-<p class="transcript-line"><span class="time"><strong>[01:01:25]</strong> </span><span class="speaker"><strong>发言人3: </strong></span>对，当年你在的时候。</p>
-<p class="transcript-line"><span class="time"><strong>[01:01:27]</strong> </span><span class="speaker"><strong>发言人2: </strong></span>我是第07毕业的对。</p>
-<p class="transcript-line"><span class="time"><strong>[01:01:29]</strong> </span><span class="speaker"><strong>发言人3: </strong></span>也遭过罪。</p>
-<p class="transcript-line"><span class="time"><strong>[01:01:30]</strong> </span><span class="speaker"><strong>发言人2: </strong></span>我觉得我其实没太遭过罪，因为当年是这样的，当年的时候罗老师的核心工作是除了每天的60秒，还有每周周一到周五的逻辑思维。每天大概是三四千字左右的一个体量。然后一开始他是召集了我们所有的内容的小伙伴，感兴趣的大家可以报题。就看每天早上会议室坐一圈人一个个被毙掉。往往是一个同学8888激情输出半天，罗老师就是没都说你到底想说啥？然后对方精神崩溃。</p>
-<p class="transcript-line"><span class="time"><strong>[01:02:04]</strong> </span><span class="speaker"><strong>发言人2: </strong></span>我觉得我那时候是赶上好时候了，运气好，然后我很快就把这个标准给过了。因为后面罗老师发现说这样不行，大家的积极性调动不起来，得让大家脱产来干这个事情，然后开始做了一期、二期、三期。真的有同学是报题被否定到精神崩溃，然后说我干不了了，我要辞职。现在应该多少期了？十几十十几。</p>
-<p class="transcript-line"><span class="time"><strong>[01:02:28]</strong> </span><span class="speaker"><strong>发言人3: </strong></span>期有十几期了，十几期了。对。</p>
-<p class="transcript-line"><span class="time"><strong>[01:02:31]</strong> </span><span class="speaker"><strong>发言人2: </strong></span>就是当时我想说，天哪，这么磨练人，这再多的柴火棍儿不经手。</p>
-<p class="transcript-line"><span class="time"><strong>[01:02:36]</strong> </span><span class="speaker"><strong>发言人3: </strong></span>对，因为他对很多进入公司的年轻人来讲，我其实八里庄康纳就想给他一个问题，就是很多人觉得做内容是创造，所以就没有标准。这是我的作品，我想这么写。</p>
-<p class="transcript-line"><span class="time"><strong>[01:02:53]</strong> </span><span class="speaker"><strong>发言人2: </strong></span>我觉得我这样写挺好的。</p>
-<p class="transcript-line"><span class="time"><strong>[01:02:54]</strong> </span><span class="speaker"><strong>发言人3: </strong></span>我这样就不行，我就告诉他这是一个有尺寸的江湖，这个江湖这样写比那样写好，这是确定的这稿子为什么可以越改越好？我知道他怎么改，我知道他有多好，也知道他有多不好。就是我希望在我们的业务同事当中，心中得有这么个尺子，让他知道有所谓的更好，那这就挺难的。</p>
-<p class="transcript-line"><span class="time"><strong>[01:03:26]</strong> </span><span class="speaker"><strong>发言人2: </strong></span>这其实非常难，因为在我看来那种人，很多人就觉得是有一些模糊的感觉，我觉得那个就很好了。文无第一武第二。</p>
-<p class="transcript-line"><span class="time"><strong>[01:03:36]</strong> </span><span class="speaker"><strong>发言人3: </strong></span>对，就经常说这个，但是我就经常给他们打比方，我说你要是一个大厨，你非说自己做的菜好吃，别人咋跟你抬杠。但是如果你开饭店，那你这菜卖不掉，这就是不要吃。对，那用户的感受就是不要吃，就是那个金线到底设在哪儿，就很多做内容的人从进这行一直到干不动了，他那个都没摸到。</p>
-<p class="transcript-line"><span class="time"><strong>[01:04:01]</strong> </span><span class="speaker"><strong>发言人3: </strong></span>你比如说我做文明之旅这个事儿，我的心理标准我就非常清楚他是啥。就是我坐下来动这篇稿的时候，当我把它写完的时候，我自己对这个问题的认知必须出现重大反转。你在没写的时候，你就想好了怎么写，然后顺利把它写出来，这篇就一定不行。因为你自己都没成长，你都没成长，你把它说出来占用别人1个小时，你的用户怎么会成长？就一定是你自己对这个问题的想法，写着写着华对这个就是还有一层境界，还能发生一次反转，还能再升一次级。然后你就又说了我对用户有帮助，因为你自己发烧。</p>
-<p class="transcript-line"><span class="time"><strong>[01:04:43]</strong> </span><span class="speaker"><strong>发言人2: </strong></span>跟自己的大脑又叫了一次。</p>
-<p class="transcript-line"><span class="time"><strong>[01:04:45]</strong> </span><span class="speaker"><strong>发言人3: </strong></span>劲又叫了一次劲。这就是我做文明之旅的进行。</p>
-<p class="transcript-line"><span class="time"><strong>[01:04:49]</strong> </span><span class="speaker"><strong>发言人2: </strong></span>其实这个标准我觉得做任何内容，尤其是相对较长的内容都适用。包括哪怕是像我这样的对谈的博客。一开始我们比如说我约了一个嘉宾，我聊一个话题题，我对这个嘉宾或者对这个话题的认知可能是A对，可能聊完了我发现原来不是这个东西。</p>
-<p class="transcript-line"><span class="time"><strong>[01:05:06]</strong> </span><span class="speaker"><strong>发言人3: </strong></span>就是更深化，那你的用户绝对有收获。</p>
-<p class="transcript-line"><span class="time"><strong>[01:05:08]</strong> </span><span class="speaker"><strong>发言人2: </strong></span>对我一定没有浪费。</p>
-<p class="transcript-line"><span class="time"><strong>[01:05:09]</strong> </span><span class="speaker"><strong>发言人3: </strong></span>你有收获大家就有收获，所以很多人在说就是选题怎么弄，结构怎么弄？我说你问自己，你自己干出来你还不知道好不好吗？这就是向标老师那本书的标题。把自己作为方法，这是这世上最好的方法。</p>
-<p class="transcript-line"><span class="time"><strong>[01:05:28]</strong> </span><span class="speaker"><strong>发言人2: </strong></span>所以其实我逐渐会意识到说，不管是做任何的工作还是做任何的尝试，其实最终的目的还是为了发现自我完善自身。但是我觉得可能每个人有不一样的答案，但起码对我来说是这个答案。</p>
-<p class="transcript-line"><span class="time"><strong>[01:05:42]</strong> </span><span class="speaker"><strong>发言人3: </strong></span>对，这两年流行一个词叫佛系，就是我觉得真的是糟蹋了这个事儿，很多人都不知道佛系到底意味着什么。佛学的那个最核心的概念叫空空是无吗？不是空，是有无限可能性。所以佛学它并不是让你躺平了，要不然佛学的核心精神为什么还有一个东西叫词悲，他就是让你做好人，只不过你不要把这个世界就完全看，它就是固定的，它就这样。它所谓的空就是告诉你他不是这样，它都是因缘和合造成的，你有机会改变的。所以你看中国古代，我前两天写了一篇稿子还没播，我就在想这个问题，我说你提中国古代就最勇敢、最圣贤，人格坚韧不拔的人全部是和尚、玄奘、鉴真，对吧？怎么可能佛系这个词儿被我们糟蹋到是躺平的那是最勇猛精进的一帮人。因为他意识到这个世界有无穷可能性，自己是个花园，拔掉杂草，栽种鲜花，施肥除草，让自己变得更好，有无穷可能性给这个世界编程，这才是真正。</p>
-<p class="transcript-line"><span class="time"><strong>[01:07:01]</strong> </span><span class="speaker"><strong>发言人2: </strong></span>的佛系。</p>
-<p class="transcript-line"><span class="time"><strong>[01:07:02]</strong> </span><span class="speaker"><strong>发言人3: </strong></span>对，佛系告诉你一切你看到的固化的东西都是假象，都可以打乱出来的。按照慈悲心往前改造这个世界。</p>
-<p class="transcript-line"><span class="time"><strong>[01:07:13]</strong> </span><span class="speaker"><strong>发言人2: </strong></span>就是当你在讲述这一段的时候，我就会觉得有的时候感觉很玄幻。一个坐在我面前的52岁的人，觉得这个世界有无限可能，你其实可以努力做到，甚至可以说是一切的事情。但是很多很年轻的，比你年轻20岁、30岁的人会觉得说我已经没有可能了，没有什么希望了，每天都觉得过得很苦闷，很难受。就是这种对比会让我觉得非常的玄幻。包括我最近，尤其是今年我在做选题的时候，我也一直在试图说什么样的内容可以让大家更多的相信自己，有更多的可能性，发现自己更多的可能性，找到自己的热爱。我觉得这一点。对于当下的人来说，可能比你投资哪一只金融产品赚很多的钱要重要的多得多。</p>
-<p class="transcript-line"><span class="time"><strong>[01:08:02]</strong> </span><span class="speaker"><strong>发言人3: </strong></span>我是觉得也不能一概而论。我自己觉得我特别走运，就是我不断的有意无意的把自己扔到一群积极向上的人群当中。就是你在你们这个公司，你不觉得吗？这是社会当中的一个丧气的氛围当中的一个积极性的孤岛。得到也是这样的一个氛围，就是至少我们创始人是这个团队，互相之间标着往上干。</p>
-<p class="transcript-line"><span class="time"><strong>[01:08:37]</strong> </span><span class="speaker"><strong>发言人2: </strong></span>就是你们三个是真的刚猛。</p>
-<p class="transcript-line"><span class="time"><strong>[01:08:40]</strong> </span><span class="speaker"><strong>发言人3: </strong></span>的很卷吗？我们我们三个就是很卷。然后在这个过程当中，我觉得不要高估自己，你自己要变成一个非常孤独的人，那不好意思，你就一定会退下去。</p>
-<p class="transcript-line"><span class="time"><strong>[01:08:55]</strong> </span><span class="speaker"><strong>发言人2: </strong></span>要给自己制造一个环境。</p>
-<p class="transcript-line"><span class="time"><strong>[01:08:56]</strong> </span><span class="speaker"><strong>发言人3: </strong></span>或者是找到这样的问题。我说的是真实环境，不是网上。</p>
-<p class="transcript-line"><span class="time"><strong>[01:08:59]</strong> </span><span class="speaker"><strong>发言人2: </strong></span>就不是加入打卡圈。</p>
-<p class="transcript-line"><span class="time"><strong>[01:09:01]</strong> </span><span class="speaker"><strong>发言人3: </strong></span>对对对，就是你的生活圈子就是一帮积极向上的人我觉得这个特别重要。越是偏向于创业公司那种，我这件事情还是挺让我们骄傲的。这种公司它的那种气质就更好一些。对。</p>
-<p class="transcript-line"><span class="time"><strong>[01:09:19]</strong> </span><span class="speaker"><strong>发言人2: </strong></span>我们公司可能跟得到相比，大家其实没有到那么卷，但是大家做事儿非常的认真。在提供我们的产品或者服务的时候，每个人都在卯着劲儿想要不是做到最好，而是做到更好。对我觉得是很难得。包括经常会有各行各业非常厉害的用户说要加入我们。那我们确实实在是小庙撑不了这么多菩萨。但是我觉得从他们的这个行为中，我能看到说，大家其实有意无意是想要寻求这样的一个共同体，想要给自己创造这样一个环境。而这种环境其实在当下是非常难得的对。</p>
-<p class="transcript-line"><span class="time"><strong>[01:09:56]</strong> </span><span class="speaker"><strong>发言人3: </strong></span>所以现在社交网络给了大家一种叫你跟真实世界又看得见，但是又走不过去，就像隔了一层膜一样。这隔膜这个词儿现在真的是恨传深，但是还是要走进真实的人群。</p>
-<p class="transcript-line"><span class="time"><strong>[01:10:14]</strong> </span><span class="speaker"><strong>发言人2: </strong></span>这是为什么这一两年罗老师你线下的活动变得更多了吗？对。</p>
-<p class="transcript-line"><span class="time"><strong>[01:10:21]</strong> </span><span class="speaker"><strong>发言人3: </strong></span>走进真实的人又去见人，要去见人就是。</p>
-<p class="transcript-line"><span class="time"><strong>[01:10:24]</strong> </span><span class="speaker"><strong>发言人2: </strong></span>见真实的人，跟他们沟通。</p>
-<p class="transcript-line"><span class="time"><strong>[01:10:26]</strong> </span><span class="speaker"><strong>发言人3: </strong></span>对我现在想能不能用未来的20年做文明之旅的过程，把中国有特色的重要的学校走一遍。因为我特别想影响今年大概十岁。</p>
-<p class="transcript-line"><span class="time"><strong>[01:10:40]</strong> </span><span class="speaker"><strong>发言人2: </strong></span>左右的孩子。</p>
-<p class="transcript-line"><span class="time"><strong>[01:10:42]</strong> </span><span class="speaker"><strong>发言人3: </strong></span>十岁左右因为这样的话，我等于用20年时间陪他们走到30左右，就是会影响一波人生观形成的最重要的时期。</p>
-<p class="transcript-line"><span class="time"><strong>[01:10:52]</strong> </span><span class="speaker"><strong>发言人2: </strong></span>你希望能够传达给他们什么呢？</p>
-<p class="transcript-line"><span class="time"><strong>[01:10:55]</strong> </span><span class="speaker"><strong>发言人3: </strong></span>就是能够看到整个文明的进展，就自己今天的生活是怎么样一层一层的垒出来的。所以我不觉得我的节目是在讲历史故事或者是在讲一些道理。我是想让大家看到人类文明，我们这一代人高举在他的1万层楼的顶端，你不要天天被隔壁装修搞得很烦恼或者很兴奋。往下看就是9999层。</p>
-<p class="transcript-line"><span class="time"><strong>[01:11:27]</strong> </span><span class="speaker"><strong>发言人2: </strong></span>9999时候都是我们先人。</p>
-<p class="transcript-line"><span class="time"><strong>[01:11:30]</strong> </span><span class="speaker"><strong>发言人3: </strong></span>一层层垒起来的。我们是生活在这样的一个文明底层的最高端的那一层，陪着大家能够建立这样的一种感受。</p>
-<p class="transcript-line"><span class="time"><strong>[01:11:42]</strong> </span><span class="speaker"><strong>发言人2: </strong></span>所以罗老师你现在典型的一天是什么样的？</p>
-<p class="transcript-line"><span class="time"><strong>[01:11:44]</strong> </span><span class="speaker"><strong>发言人3: </strong></span>我现在可规律了，每天早上七点起床，七点半送娃上学，然后进健身房一个半小时，先无氧再有氧，每一天然后就开始工作，有的时候开会，有时候就写稿，尤其是这次国庆，我写了八天稿，写了4万字。我当时觉得自己效率已经极高了。你像这种难度的稿子，我能两天干出一篇来，我觉得效率已经极高。但是后来一算，我还剩八百多期，也就意味着两天一篇稿加上一天录制，我余生还要花六年半的时间每天过这样的日子。当时就觉得好绝望。整整六年半，一天不懈高强度的。</p>
-<p class="transcript-line"><span class="time"><strong>[01:12:36]</strong> </span><span class="speaker"><strong>发言人2: </strong></span>就是这样高强度拉磨。对。</p>
-<p class="transcript-line"><span class="time"><strong>[01:12:39]</strong> </span><span class="speaker"><strong>发言人3: </strong></span>所以我消化了几天之后，我觉得我也接受了，这可能就是我要跟它共存的样子，这可能跟岁数有点关系，就是年轻的时候在走上坡路的时候，任何不好你都想把它治愈。</p>
-<p class="transcript-line"><span class="time"><strong>[01:12:56]</strong> </span><span class="speaker"><strong>发言人2: </strong></span>就是我先把它给从你生活中抛掉，像一个大石头兰芝鹿一样。</p>
-<p class="transcript-line"><span class="time"><strong>[01:13:00]</strong> </span><span class="speaker"><strong>发言人3: </strong></span>对对对，因为我不愿意跟它共存，但是我有一年不是左耳聋了吗？在治疗耳聋的过程中又爆发了飞蚊症，左眼又不行。这两件事情对我来讲，那年是我一生当中最沮丧的那一年。</p>
-<p class="transcript-line"><span class="time"><strong>[01:13:19]</strong> </span><span class="speaker"><strong>发言人3: </strong></span>但是后来我怎么解脱了呢？并不是病治好了，是我决定和他们共存。我还清晰的记忆，他那一天发生了什么，就有一个朋友来看我，就跟我说这个事儿。然后我就跟他开玩笑，我说都一样，我说你那眼睛不也看不见红外线和紫外线，你那耳朵不也听不见超声波和次声波？我说大家都是残障人士，谁笑话谁呢？</p>
-<p class="transcript-line"><span class="time"><strong>[01:13:46]</strong> </span><span class="speaker"><strong>发言人3: </strong></span>这句话是我跟他开玩笑，但是开玩笑之后，我突然自己把自己给接受了。我说对，不就是有点缺陷，它也不是完全听不见，她就是剧烈的耳鸣而已。他也不是一点都看不见，他只不过是有一团黑挡在我的正前方而已。你是很难受，但是你就权当是自己的一个缺陷呗。我们这辈子身上缺陷不要太多，你就接受，然后跟它共存，包括用这种思维，我觉得我今年减肥比较成功。</p>
-<p class="transcript-line"><span class="time"><strong>[01:14:21]</strong> </span><span class="speaker"><strong>发言人2: </strong></span>这也太成功了。对，因为这文明之旅的前几期和现在完全不是一个人了。</p>
-<p class="transcript-line"><span class="time"><strong>[01:14:26]</strong> </span><span class="speaker"><strong>发言人3: </strong></span>不是一个人。但是你要知道，我可是从260斤减下来的，我减了100斤，我是用十几年的时间减掉100斤。减肥的过程，很多人以为是运动是节食，其实不是。</p>
-<p class="transcript-line"><span class="time"><strong>[01:14:38]</strong> </span><span class="speaker"><strong>发言人2: </strong></span>大家以为是吃药。</p>
-<p class="transcript-line"><span class="time"><strong>[01:14:40]</strong> </span><span class="speaker"><strong>发言人3: </strong></span>包括吃药，吃药目的也是为了让你运动和节食。对，但其实不是我减下来之后，我才知道是你跟你不喜欢和觉得不舒服的生活方式共存。你吃药减下来也可能迅速就弹回去了。</p>
-<p class="transcript-line"><span class="time"><strong>[01:14:55]</strong> </span><span class="speaker"><strong>发言人2: </strong></span>你是要真正的去接纳一套瘦子的生存方式。对。</p>
-<p class="transcript-line"><span class="time"><strong>[01:14:59]</strong> </span><span class="speaker"><strong>发言人3: </strong></span>每天进健身房一个半小时，遭罪跟遭罪共存，晚上不吃饭，挨饿跟挨饿共存，这就是生活方式，而且永无解脱，重要的是永无解脱。你看这就是跟前半生的思维方式完全不一样。前半生就是我即使现在受罪，为的是将来解脱。</p>
-<p class="transcript-line"><span class="time"><strong>[01:15:20]</strong> </span><span class="speaker"><strong>发言人2: </strong></span>这个就是将来不受罪。</p>
-<p class="transcript-line"><span class="time"><strong>[01:15:21]</strong> </span><span class="speaker"><strong>发言人3: </strong></span>但是你看过了人生到了下半场的时候，你就知道，我要和这些东西共存，可能腿脚就是越来越不灵便和不灵便共存。就是要每天去健身房，就是不舒服跟他共存，它就是我生活的一部分，接纳他。</p>
-<p class="transcript-line"><span class="time"><strong>[01:15:40]</strong> </span><span class="speaker"><strong>发言人2: </strong></span>这真的很反人性。</p>
-<p class="transcript-line"><span class="time"><strong>[01:15:42]</strong> </span><span class="speaker"><strong>发言人3: </strong></span>对，但你接受了就接受了。</p>
-<p class="transcript-line"><span class="time"><strong>[01:15:44]</strong> </span><span class="speaker"><strong>发言人2: </strong></span>我发现罗老师你是真的把这些关窍逻辑彻底想通之后，你会逼着自己去接受。</p>
-<p class="transcript-line"><span class="time"><strong>[01:15:51]</strong> </span><span class="speaker"><strong>发言人3: </strong></span>你逼着自己等于还是没接受吗？你看我去年把烟戒了，我抽了真的是半辈子烟。我从上大学的时候开始抽烟，那真是老烟枪。你原来就是逼着自己戒，那是戒不掉的。为什么？因为你心里知道抽一口是真爽。那你人生总有脆弱的时候，一个沮丧，一个心情不好，一个别人递过来烟你可能顺手就接了。而这次我戒烟特别成功，我在内心里和他完全分别了，因为我知道他不舒服，他让我不爽。</p>
-<p class="transcript-line"><span class="time"><strong>[01:16:32]</strong> </span><span class="speaker"><strong>发言人2: </strong></span>减肥也是一样吗？减肥也是一样，我跟这100斤肉在一起。</p>
-<p class="transcript-line"><span class="time"><strong>[01:16:35]</strong> </span><span class="speaker"><strong>发言人3: </strong></span>其实我是不舒服的，我是不舒服的，然后我交换了一个其他的不舒服，比如说晚上要饿，比如说要进健身房，我交换了一下。</p>
-<p class="transcript-line"><span class="time"><strong>[01:16:46]</strong> </span><span class="speaker"><strong>发言人2: </strong></span>你把它当成一个等价交换，对，很公平。所以现在耳朵和眼睛好一些了吗？</p>
-<p class="transcript-line"><span class="time"><strong>[01:16:52]</strong> </span><span class="speaker"><strong>发言人3: </strong></span>不好，还是那样，还是那样。但是我不困扰了，我不困扰她，就像我不提我的耳朵，其实我已经不知道他耳鸣，只是我刻意要注意到耳鸣，耳鸣。</p>
-<p class="transcript-line"><span class="time"><strong>[01:17:05]</strong> </span><span class="speaker"><strong>发言人2: </strong></span>我当时知道这个事情，是因为那个时候你还没对外说，我是在大橙子店里他跟我说的。我当时听到的时候，真的那个时候瞬间眼泪就下来了。我觉得那个时候让我会感到很伤感的是就是因为我知道你正在准备跨年期间，而且那时候只有几天了。对的事情因为压力极大。以我对你的了解，即便这个事情再发生一次，你也会优先把跨年做好，而不是把身体的病痛解决。</p>
-<p class="transcript-line"><span class="time"><strong>[01:17:34]</strong> </span><span class="speaker"><strong>发言人3: </strong></span>当时我甚至没觉得是个事儿，是事后我的一个医生朋友在跟我说，你这叫突发性耳聋，赶紧去治，然后治了半年把眼睛也治出毛病。</p>
-<p class="transcript-line"><span class="time"><strong>[01:17:46]</strong> </span><span class="speaker"><strong>发言人2: </strong></span>感觉罗老师这因为隔了五年没见，我觉得你现在比以前要，首先是帅了瘦了，然后另外一个是松弛。</p>
-<p class="transcript-line"><span class="time"><strong>[01:17:54]</strong> </span><span class="speaker"><strong>发言人3: </strong></span>了很多是吧？对对，因为这也是对这种生活方式我接纳，我决定跟它共存，而且有一份笃定。你原来还是咬着牙，你看你们做不到，我做不到，还是这种心态。现在是我臣服于我的这种生活方式，然后我认了，我接纳。</p>
-<p class="transcript-line"><span class="time"><strong>[01:18:17]</strong> </span><span class="speaker"><strong>发言人2: </strong></span>我记得当时刚来得到的时候，你的生活方式给我带来了非常大的冲击。就因为以前会对有钱人会有很多想象，但那个时候得到其实是一个蛮小又很扁平化的公司，是可以观察到你每天在做什么的。然后我就发现说，怎么有钱人过这么苦？每天早上比我们来的都早，然后晚上走的比我们都晚。因为那个时候我记得无人货架还很火，那时候还在风口。对，罗老师中午解决午饭，他就是出来看无人货架有什么吃的，就随便扫个码，拿个东西垫吧，然后就继续干活。我想说，哇塞有钱人生活这么苦吗？我不要当有钱人。</p>
-<p class="transcript-line"><span class="time"><strong>[01:18:54]</strong> </span><span class="speaker"><strong>发言人3: </strong></span>对，那个时候就是悟到了，就是有钱的结果就是你可以有资源去干更苦的事儿。</p>
-<p class="transcript-line"><span class="time"><strong>[01:19:00]</strong> </span><span class="speaker"><strong>发言人2: </strong></span>更难的那个是最近悟到了。</p>
-<p class="transcript-line"><span class="time"><strong>[01:19:02]</strong> </span><span class="speaker"><strong>发言人3: </strong></span>对。</p>
-<p class="transcript-line"><span class="time"><strong>[01:19:03]</strong> </span><span class="speaker"><strong>发言人2: </strong></span>而且当时罗老师的生活方式还很颠覆的是，比如说他不允许自己有助理，不允许有秘书，什么事情都亲力亲为。</p>
-<p class="transcript-line"><span class="time"><strong>[01:19:12]</strong> </span><span class="speaker"><strong>发言人3: </strong></span>现在还是吗？是啊，我们没有助理。</p>
-<p class="transcript-line"><span class="time"><strong>[01:19:15]</strong> </span><span class="speaker"><strong>发言人2: </strong></span>整个人就是非常的苦行僧似的。</p>
-<p class="transcript-line"><span class="time"><strong>[01:19:20]</strong> </span><span class="speaker"><strong>发言人3: </strong></span>这也是兑现了很多价值。比如说被你看到了。</p>
-<p class="transcript-line"><span class="time"><strong>[01:19:25]</strong> </span><span class="speaker"><strong>发言人2: </strong></span>反正就是我的荣幸我的荣幸我的荣幸被你看到。</p>
-<p class="transcript-line"><span class="time"><strong>[01:19:28]</strong> </span><span class="speaker"><strong>发言人3: </strong></span>这本身就是价值。</p>
-<p class="transcript-line"><span class="time"><strong>[01:19:29]</strong> </span><span class="speaker"><strong>发言人2: </strong></span>对，嗯嗯而且我觉得尤其是离开得到这些年之后，会发现得到确实是向各行各业输出了很多的人才。</p>
-<p class="transcript-line"><span class="time"><strong>[01:19:40]</strong> </span><span class="speaker"><strong>发言人3: </strong></span>对。</p>
-<p class="transcript-line"><span class="time"><strong>[01:19:40]</strong> </span><span class="speaker"><strong>发言人2: </strong></span>之前我跟肖珊老师录播课的时候，他还说他说我现在走到全国各地跟这个知识服务相关的领域，每个地方都有得到的人。</p>
-<p class="transcript-line"><span class="time"><strong>[01:19:49]</strong> </span><span class="speaker"><strong>发言人3: </strong></span>这都是时代性的机会。就是那个时候突然发现，好好做内容这个东西有价值。而且这个价值现在各行各业都知道了，我得用这个工具，就这个世界可以通过编码，编码可以有无成本的大规模复制，这件事情是我们这一代人遇上的红利。所以很多人说内容是个产业，内容怎么是个产业呢？内容就是一个时代红利，然后它会装载到任何产业里面。就像你们可以做金融产品，对，但是你们也做内容，然后让你们的公司从此变得与众不同。所以现在流行一些词儿，什么做内容产业，什么创始人IP，其实本质上都是在干这一件事情。</p>
-<p class="transcript-line"><span class="time"><strong>[01:20:36]</strong> </span><span class="speaker"><strong>发言人2: </strong></span>对，都是新瓶装旧酒，它只是发明了一个新的名词。</p>
-<p class="transcript-line"><span class="time"><strong>[01:20:40]</strong> </span><span class="speaker"><strong>发言人3: </strong></span>然后你用内容让自己变得不一样，这是对世界进行独特编码的一套技术。所以得到当时就是在琢磨这套技术，所以现在出去的人，就大家在各行各业都能用得上。</p>
-<p class="transcript-line"><span class="time"><strong>[01:20:56]</strong> </span><span class="speaker"><strong>发言人2: </strong></span>你觉得AI对得到的冲击大吗？还是刚才我们说的这个时代红利，到了AI时代他还照样奏效吗？</p>
-<p class="transcript-line"><span class="time"><strong>[01:21:04]</strong> </span><span class="speaker"><strong>发言人3: </strong></span>何止是奏效，它变得更极端。AI一定是IP的天下。</p>
-<p class="transcript-line"><span class="time"><strong>[01:21:11]</strong> </span><span class="speaker"><strong>发言人2: </strong></span>你一定要把你的个性无限度的尽可能放大。</p>
-<p class="transcript-line"><span class="time"><strong>[01:21:14]</strong> </span><span class="speaker"><strong>发言人3: </strong></span>塑造出一个IP对，它必然是只是IP的时代，就是人将来在这个世界当中扮演的任务。它不是创造任何叫使用价值，那些东西都会被机器一点一点的剥离和替代掉，对吧？人就是负责不靠谱。</p>
-<p class="transcript-line"><span class="time"><strong>[01:21:35]</strong> </span><span class="speaker"><strong>发言人2: </strong></span>人就负责异想天开异想天开。</p>
-<p class="transcript-line"><span class="time"><strong>[01:21:37]</strong> </span><span class="speaker"><strong>发言人3: </strong></span>当然异想天开是你的特质的形成的方式之一，也包括靠谱。对，总而言之就是人的进化方式就是采撷天才地宝。在这个世界上通过信心，通过认知让自己不断的进化，进化的和他人不一样，这就是人在这个世界结构当中的终极使命。</p>
-<p class="transcript-line"><span class="time"><strong>[01:22:03]</strong> </span><span class="speaker"><strong>发言人2: </strong></span>那得到这个组织会与之随之进化吗？</p>
-<p class="transcript-line"><span class="time"><strong>[01:22:07]</strong> </span><span class="speaker"><strong>发言人3: </strong></span>当然你看我们现在不是仨人都冲出来做。</p>
-<p class="transcript-line"><span class="time"><strong>[01:22:11]</strong> </span><span class="speaker"><strong>发言人2: </strong></span>IP太卷了。</p>
-<p class="transcript-line"><span class="time"><strong>[01:22:13]</strong> </span><span class="speaker"><strong>发言人3: </strong></span>对，就是这个趋势，你跑不掉了。你不可能靠一套工业化的方式，我在生产内容像产品一样把它卖掉。就那样的一个时代很快就会过去了。</p>
-<p class="transcript-line"><span class="time"><strong>[01:22:24]</strong> </span><span class="speaker"><strong>发言人2: </strong></span>你是说之前我们做课程的这个时代，对，已经过去了。</p>
-<p class="transcript-line"><span class="time"><strong>[01:22:28]</strong> </span><span class="speaker"><strong>发言人3: </strong></span>至少在中国市场上，他肯定没有前两年那么好了。但是这种。</p>
-<p class="transcript-line"><span class="time"><strong>[01:22:34]</strong> </span><span class="speaker"><strong>发言人2: </strong></span>变化会让你觉得沮丧吗？</p>
-<p class="transcript-line"><span class="time"><strong>[01:22:37]</strong> </span><span class="speaker"><strong>发言人3: </strong></span>不沮丧，这是多么积极的变化。因为你服务用户所用的东西变得更丰富了。你比如说我对我的用户的服务，你看最早期可能我做个节目给大家讲个故事，大家就觉得很好。后来甚至有人愿意为这个付费，对吧？但是现在你不觉得吗？我今天往你跟前一站，我要是办一个减肥训练营是不是也能挺好，吧？他就不见得是靠一个故事，他可能靠的是一种生活方式，可能靠的是一种人格的榜样。靠这种力量，他可能那你对自己的价值的开掘就会变得更加的立体化，我的能力就变大了。</p>
-<p class="transcript-line"><span class="time"><strong>[01:23:20]</strong> </span><span class="speaker"><strong>发言人2: </strong></span>我在想说你现在作为任何一个决策，你会衡量这个时间，它的LI不。</p>
-<p class="transcript-line"><span class="time"><strong>[01:23:25]</strong> </span><span class="speaker"><strong>发言人3: </strong></span>衡量我从来不看数据，因为我知道就有些价值用数据衡量不出来。</p>
-<p class="transcript-line"><span class="time"><strong>[01:23:32]</strong> </span><span class="speaker"><strong>发言人2: </strong></span>这个非常的反外人对你的认知。</p>
-<p class="transcript-line"><span class="time"><strong>[01:23:36]</strong> </span><span class="speaker"><strong>发言人3: </strong></span>那你觉得我是一个痴迷数据的人吗？</p>
-<p class="transcript-line"><span class="time"><strong>[01:23:38]</strong> </span><span class="speaker"><strong>发言人2: </strong></span>我觉得你不是一个痴迷数据的人。但是作为一个你现在这个身家的人，包括你前面一直在提时间的价值，我会认为你会非常珍视自己时间的价值。在做任何一个决策的时候，你还是会衡量一下时间的成本。虽然我不知道你的这个衡量尺度是什么。</p>
-<p class="transcript-line"><span class="time"><strong>[01:23:58]</strong> </span><span class="speaker"><strong>发言人3: </strong></span>是这样，我会衡量自己的精力够不够用，这个确实我会衡量，但是我的原则非常简单，就是把自己用足，这是百分之百的，就是一定要满格运行，全仓用你们喊就一定要全仓。这个原则定下来之后，你会发现有些东西你没法儿这样计算。但是他需要判断，你比如说我今年可能会干一件事情，他们管叫春晚。其实我内心不是我想干一场直播，就是除夕干。我这次就想跟我们的两个创始人，我们就找一个野外点一丛篝火，然后回到叫人类最古老的内容创生方式，围绕篝火讲故事，就你讲一个我讲一个，我讲一个4个小时。所以这节目的名字就想叫这个除夕夜我们讲故事就这个直播。那就是这样，就是我们三个，我年过半百，还有两个年近半百的人我瞒不过你。</p>
-<p class="transcript-line"><span class="time"><strong>[01:25:06]</strong> </span><span class="speaker"><strong>发言人3: </strong></span>如果今年把这件事情做了，你说它价值在哪？我不知道，因为你有很多计算的维度。你比如说我觉得那天晚上的投流费用会极低，因为几乎没有直播。</p>
-<p class="transcript-line"><span class="time"><strong>[01:25:21]</strong> </span><span class="speaker"><strong>发言人2: </strong></span>对吧？那你是先做了这个决策，你才在找补这些论据不是他的。</p>
-<p class="transcript-line"><span class="time"><strong>[01:25:26]</strong> </span><span class="speaker"><strong>发言人3: </strong></span>那就以我们的江湖经验，我很难判断出来他的优劣势，是等等，但是不重要，你没有必要计算它。你就干就完了。你只有第一年干你才知道第二年值不值得继续干。第二年干了你才知道要不要吹个牛逼。</p>
-<p class="transcript-line"><span class="time"><strong>[01:25:41]</strong> </span><span class="speaker"><strong>发言人2: </strong></span>说我再干了十年。</p>
-<p class="transcript-line"><span class="time"><strong>[01:25:42]</strong> </span><span class="speaker"><strong>发言人3: </strong></span>再干个十年。</p>
-<p class="transcript-line"><span class="time"><strong>[01:25:43]</strong> </span><span class="speaker"><strong>发言人2: </strong></span>对吧？以后这三家人不去就别想一起去。</p>
-<p class="transcript-line"><span class="time"><strong>[01:25:47]</strong> </span><span class="speaker"><strong>发言人3: </strong></span>但我们也可以去调试，我就放在海南的。全家人一起在海南度假也挺着一片草坪，那不挺好吗？我们这这种这种方式过除夕夜，而且你会发现我只要干成了这事儿，你别人就没法模仿。因为你模仿你在跟我，你跟我你自己就挨一头，你何必？</p>
-<p class="transcript-line"><span class="time"><strong>[01:26:06]</strong> </span><span class="speaker"><strong>发言人2: </strong></span>对我觉得我从罗老师、花姐还有刀哥身上学到很大的一点，就是干一些人无我有的事情。对，做开创性的事情，不要做模仿性的事情。然后第二点是我真的觉得我被你害惨了，就是别人眼里觉得我已经很勤奋很努力了。我就每次想说，我想想罗老师。</p>
-<p class="transcript-line"><span class="time"><strong>[01:26:25]</strong> </span><span class="speaker"><strong>发言人3: </strong></span>我想说我这哪到哪儿还没有满格。</p>
-<p class="transcript-line"><span class="time"><strong>[01:26:30]</strong> </span><span class="speaker"><strong>发言人2: </strong></span>我觉得就是被你害惨了，而且我会逐渐意识到，虽然我觉得可能我们现在很多听众他感受不到。但其实当你的大脑满格运行，你成就了很多事情，你做成了很多事情，那个状态是非常非常的好是非常的爽的对，就只有你真正的达到那个状态的时候，你才会意识到说这个感受特别的棒。</p>
-<p class="transcript-line"><span class="time"><strong>[01:26:56]</strong> </span><span class="speaker"><strong>发言人3: </strong></span>对，我觉得满格其实里面偷了一个东西，偷了个什么东西呢？你看我这次国庆八天不是在家直播写稿？好多人就说，放假你也不休息。这个太卷，或者说这把剪刀太锋利了，割我们韭菜，这是判断。但是大家会就很惊讶，但是他不知道我偷了一个东西，偷的是什么呢？我为什么要在你们规定的放假时间给自己放假？我今天反复跟你聊的主题就是这个世界可编程。对我放假它是。</p>
-<p class="transcript-line"><span class="time"><strong>[01:27:32]</strong> </span><span class="speaker"><strong>发言人2: </strong></span>可自定义的。</p>
-<p class="transcript-line"><span class="time"><strong>[01:27:33]</strong> </span><span class="speaker"><strong>发言人3: </strong></span>我随时就放了我今天比如说我跟你聊这个天儿，在我的定义当中我想把它定义成工作，也OK，我想把它定义成跟老同事聊个天不也OK你说我这是在玩还是在干活？就在我一念之间，对吧？一会儿完了我可能送你到楼梯门口回来跟同事聊两句，这就是我的放假了，我一天恨不得给自己放八回，对吧？</p>
-<p class="transcript-line"><span class="time"><strong>[01:28:03]</strong> </span><span class="speaker"><strong>发言人2: </strong></span>对，大家听你这段话，我觉得会油然而生一种反感。这种反感是因为你是老板，所以你可以自定义给自己放假。但是我会觉得因为我也是打工人，我会觉得很多时候很多事情它是在你的一念之间，是你怎么看待这个事情。</p>
-<p class="transcript-line"><span class="time"><strong>[01:28:23]</strong> </span><span class="speaker"><strong>发言人3: </strong></span>你说那那哪个boss还没自己的boss呢？你比如说我的boss就是周三我的文明之旅要上线。原来我的心态就是无论如何，我今天晚上我得把它搞出来，因为来不及了。我现在就是十点上床，四点起床，我发现够的。因为人是90分钟一个睡眠周期。对我其实已经三个整睡眠周期是够的。而现在早上起来神清气爽，四点起来洗把冷水脸立即坐那。</p>
-<p class="transcript-line"><span class="time"><strong>[01:28:50]</strong> </span><span class="speaker"><strong>发言人2: </strong></span>然后看呆子马上就要到来了。</p>
-<p class="transcript-line"><span class="time"><strong>[01:28:52]</strong> </span><span class="speaker"><strong>发言人3: </strong></span>马上就要到。</p>
-<p class="transcript-line"><span class="time"><strong>[01:28:53]</strong> </span><span class="speaker"><strong>发言人2: </strong></span>整个人兴奋的了。</p>
-<p class="transcript-line"><span class="time"><strong>[01:28:55]</strong> </span><span class="speaker"><strong>发言人3: </strong></span>我爆发了，非常无意的不睡觉。</p>
-<p class="transcript-line"><span class="time"><strong>[01:28:58]</strong> </span><span class="speaker"><strong>发言人2: </strong></span>对我为什么。</p>
-<p class="transcript-line"><span class="time"><strong>[01:28:59]</strong> </span><span class="speaker"><strong>发言人3: </strong></span>要那么饿？你看稍微改一下自己的时间表，稍微变一下长，你自己就会变得更好。这个就是我反复跟你强调这个世界的可塑性到底在哪。</p>
-<p class="transcript-line"><span class="time"><strong>[01:29:11]</strong> </span><span class="speaker"><strong>发言人2: </strong></span>以及如果你觉得现在自己的日程完全的不由自主，它其实是一个很好的契机，让你去思考你怎么样争取更多的自主性，以及换到一个你适合的环境。对，但是很重要的一点是你要意识到他可以改变，然后再采取行动，他其实就有可能改变。罗老师你会在想说，70岁之后你有一些新的计划吗？</p>
-<p class="transcript-line"><span class="time"><strong>[01:29:37]</strong> </span><span class="speaker"><strong>发言人3: </strong></span>有啊，因为我自己对AI的成熟还是抱有极大的期待。就拿今天的AI来说，就是它帮助我探寻文献的深度，已经经常让我震惊。所以我觉得我的内容创造能力还有机会再上映太近。你举个例子说，我在观察商务印书馆出的那个汉译名著已经出到了1000种。所以我在想有没有机会我把文明之旅干完之后，我把这一千本书给大家讲一遍。你看如果是一周讲一本的话。</p>
-<p class="transcript-line"><span class="time"><strong>[01:30:21]</strong> </span><span class="speaker"><strong>发言人2: </strong></span>我也在算时间账。</p>
-<p class="transcript-line"><span class="time"><strong>[01:30:22]</strong> </span><span class="speaker"><strong>发言人3: </strong></span>20年就是从70岁到90岁可以干的活。</p>
-<p class="transcript-line"><span class="time"><strong>[01:30:28]</strong> </span><span class="speaker"><strong>发言人2: </strong></span>所以你给自己定的东西是不是死在工作上？</p>
-<p class="transcript-line"><span class="time"><strong>[01:30:30]</strong> </span><span class="speaker"><strong>发言人3: </strong></span>那必须必须死在工作岗位上，怎么可以死在这个自家。</p>
-<p class="transcript-line"><span class="time"><strong>[01:30:35]</strong> </span><span class="speaker"><strong>发言人2: </strong></span>加勒比的海滩上，或者是自家的床上。</p>
-<p class="transcript-line"><span class="time"><strong>[01:30:38]</strong> </span><span class="speaker"><strong>发言人3: </strong></span>或者医院的床上。这只是个说法。对，只是说法。</p>
-<p class="transcript-line"><span class="time"><strong>[01:30:42]</strong> </span><span class="speaker"><strong>发言人3: </strong></span>如果我70岁的时候我身体不太行了，我觉得这次我也可以干一件事情，就是每天直播1个小时，直播什么呢？直播过去23个小时里我收获到的东西。因为那你就拥有了一个窗口，不断的倒逼自己去学习。就是我把这场直播一关，我距离下一场直播开始还剩23个小时。我能在这个世界上找到什么以支撑我明天那场直播。那那这是我最后一招，就是我的生命的最后阶段，我会启用这个计划。因为他意味着对自己没有要求了。</p>
-<p class="transcript-line"><span class="time"><strong>[01:31:22]</strong> </span><span class="speaker"><strong>发言人2: </strong></span>这已经叫对自己没有要求了。</p>
-<p class="transcript-line"><span class="time"><strong>[01:31:24]</strong> </span><span class="speaker"><strong>发言人3: </strong></span>对，因为说什么都行了，就是通过直播让大家看到你的生命的凋谢和枯萎，肯定这老头越来越糊涂，读书速度越来越慢。</p>
-<p class="transcript-line"><span class="time"><strong>[01:31:37]</strong> </span><span class="speaker"><strong>发言人2: </strong></span>但是无所谓。</p>
-<p class="transcript-line"><span class="time"><strong>[01:31:38]</strong> </span><span class="speaker"><strong>发言人3: </strong></span>在众目睽睽之下。</p>
-<p class="transcript-line"><span class="time"><strong>[01:31:39]</strong> </span><span class="speaker"><strong>发言人2: </strong></span>把自己活成一个样本。</p>
-<p class="transcript-line"><span class="time"><strong>[01:31:42]</strong> </span><span class="speaker"><strong>发言人3: </strong></span>对，那就很自由了。如果是那样，那我觉得特别自由，我可以在任何地方，甚至在我也可以出去玩。</p>
-<p class="transcript-line"><span class="time"><strong>[01:31:51]</strong> </span><span class="speaker"><strong>发言人2: </strong></span>非常的期待。然后也特别希望罗老师保重身体健康，期待你40年后的每天直播一小时，或者50年后，最好是60年.</p>
-<p class="transcript-line"><span class="time"><strong>[01:32:03]</strong> </span><span class="speaker"><strong>发言人3: </strong></span>后每天直播一小时。我觉得这个创想太牛了。</p>
-<p class="transcript-line"><span class="time"><strong>[01:32:07]</strong> </span><span class="speaker"><strong>发言人2: </strong></span>活到老学到老，干到老。</p>
-<p class="transcript-line"><span class="time"><strong>[01:32:10]</strong> </span><span class="speaker"><strong>发言人3: </strong></span>展示到了了不起。</p>
-<p class="transcript-line"><span class="time"><strong>[01:32:11]</strong> </span><span class="speaker"><strong>发言人2: </strong></span>向你学习。谢谢，非常开心。</p>
-<p class="transcript-line"><span class="time"><strong>[01:32:22]</strong> </span><span class="speaker"><strong>发言人1: </strong></span>以上就是本期的全部内容，如果你觉得有启发有共鸣，欢迎你分享到朋友圈，分享给与你同频的朋友。这次和罗老师重逢，我的情绪有些复杂。一方面是一种熟悉的敬意，那种持续投入、持续创造的力量在他身上从未衰减。另一方面也是一种新的理解，当年我刚离开得到的时候，对他那种永远在做事，永远和自己死磕的状态，其实我很难理解，我觉得那太辛苦了也太不像一个财务自由的人了。但现在我慢慢明白了，那不是被动的忙碌，不是没苦硬吃，而是一种他自己的选择。</p>
-<p class="transcript-line"><span class="time"><strong>[01:33:05]</strong> </span><span class="speaker"><strong>发言人1: </strong></span>每天写稿、查资料、复盘、录节目，看起来很重复，对他来说却是一种更深的秩序感。他不再试图证明什么，而是在维持他和世界之间的那根线，用做事来维持连接。以前的她相信努力可以改变命运，现在的他或许相信努力这件事本身就是命运的组成部分。他不再焦虑结果，也不再把成功当作目标，而是把持续做事当成一种存在的方式。在他身上，我第一次理解了什么叫把时间活成方法论。他学会了和岁月相处，而不是试图战胜它。</p>
-<p class="transcript-line"><span class="time"><strong>[01:33:48]</strong> </span><span class="speaker"><strong>发言人1: </strong></span>和他聊完之后，我一直在想，人究竟为什么要持续的做事情？乍一听好像挺苦的，但或许人总要在这三个阶段里不断的循环。第一个阶段是找到自我，你要先搞清楚自己是谁，什么能让你心中有热情，什么能让你觉得值得起床。这是发薪的阶段，也是自由的代价。因为一旦你找到了自我，就意味着你要为他负责，这往往是孤独的，因为你再也不能怪世界，怪命运，你得学会在清醒中前行，去面对那些无人替你承担的时刻，也许那并不轻松，但那一刻才是你真正的独立。</p>
-<p class="transcript-line"><span class="time"><strong>[01:34:35]</strong> </span><span class="speaker"><strong>发言人1: </strong></span>第二个阶段是追求忘我。当你找到了那件你想做的事情，就应该去做，去投入，去沉浸，去忘记时间，这是做事最快乐也最安稳的阶段，你不再质疑、比较和内耗，而是整个人都沉浸在那件事里面。这也正是罗振宇多年的状态，写稿、录制、复盘、思考，他把自己和那套秩序完全绑定，干活不是为了不干活，而是为了干更多的活。这听起来像个笑话，但其实是他眼中心流的另外一种说法。当你全然地做事，事情也在塑造你。</p>
-<p class="transcript-line"><span class="time"><strong>[01:35:17]</strong> </span><span class="speaker"><strong>发言人1: </strong></span>而第三个阶段是超越自我，这也许是最难懂也最难追求的部分。当你开始追求一些比自己更大的东西，当你愿意为了让某种东西延续下去而去做事，它可能是一个理念，可能是一种方式，也许是一群人或者是一份文明，那种献身感反而会给你带来极大的喜悦。也许此时的罗振宇就处在这一层，他早已过了证明自己的阶段。现在在做的是一场更漫长的实践，身体在逐渐的衰退，耳鸣和左眼的黑影成了陪伴他最忠实的朋友。可他仍然在继续去记录、去传递，去留下些什么。他在用个人的生命去承接时间的流动，他做的事情或许未必能改变世界，但他正在用行动成为时间里的一部分。在最后，我想起曾经看到的一句话，用来结尾再贴切不过了，一个人一生中最为辉煌的一天，并不是功成名就的那一天，而是从悲叹和绝望中产生出对人生挑战的欲望，并且勇敢迈向这种挑战的那一天。祝愿你我在命运面前都能保持斗志始终。</p>
-<p class="transcript-line"><span class="time"><strong>[01:36:40]</strong> </span><span class="speaker"><strong>发言人1: </strong></span>其实罗振宇老师的长期主义也让我联想到了投资，投资同样是一条很长的路，更好的方法不是盲目前进，而是提前检视，确保准备充足之后再出发。最近一段时间，市场的热度又上来了，我们通常都会提醒新朋友，在入场投资之一定要留好一笔生活备用金。有知有行在更新到2.0版本之后，已经支持了单支基金的交易。现在你可以把短期不用的活钱放在投资钱包里，享受货币基金的收益。如果你对备用金的用途有更明确的规划，还可以使用我们独有的心理账户功能，把确定要用的钱和备而不用的钱分开来。如果这笔备用金至少六个月不会动用，你也可以尝试短债基金，为你的生活稍稍增厚一点收益。当然，要提醒的是，短债基金虽然波动不高，但仍然可能出现单日或者短期亏损。</p>
-<p class="transcript-line"><span class="time"><strong>[01:37:40]</strong> </span><span class="speaker"><strong>发言人1: </strong></span>理清生活备用金看似只是理财的一小步，其实是为自己留下一份底气。它能让我们在遇到突发状况时不慌，也能在市场波动的时候更稳健。备用金或许不会带来耀眼的收益，但它能让我们更有余地的生活，这也是一种常注意。带着这份从容去走更长的路，希望你会喜欢。</p>
-<p class="transcript-line"><span class="time"><strong>[01:38:05]</strong> </span><span class="speaker"><strong>发言人1: </strong></span>最后请别忘记订阅和推荐我们的节目。如果能顺手给我们留一个五星好评，那会成为我们前进的动力。我是雨白，每周晚八点我们在小酒馆不见不散。</p>]]></content:encoded>
-            <pubDate>Fri, 24 Oct 2025 12:00:00 GMT</pubDate>
-            <guid>68fb25c40156720321d693ec</guid>
         </item>
     </channel>
 </rss>
