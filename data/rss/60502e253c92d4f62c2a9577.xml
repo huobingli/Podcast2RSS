@@ -4,12 +4,335 @@
         <title>十字路口Crossing</title>
         <link>https://www.xiaoyuzhoufm.com/podcast/60502e253c92d4f62c2a9577</link>
         <description>关注科技、互联网、AI 的播客</description>
-        <lastBuildDate>Thu, 28 May 2026 06:03:45 +0800</lastBuildDate>
+        <lastBuildDate>Thu, 04 Jun 2026 06:33:34 +0800</lastBuildDate>
         <item>
-            <title>2026 AI 游戏全景扫描：四层图景、三大误区、一个共识缺口｜对谈 405 游局刘筱宁</title>
+            <title>OpenAI 和 Anthropic 共同看好的 FDE：AI 时代的新岗位出现，旧分工松动｜对谈 Rolling AI</title>
+            <link>https://www.xiaoyuzhoufm.com/episode/6a1e4022ac7bdb080c348b41</link>
+            <description>🚥 上月，Anthropic 和 OpenAI 在同一天分别宣布了各自的十亿美元级的企业 AI 合资公司，并且都称自己在做的事情是 FDE（Forward-Deployed Engineer，前置部署工程师）——帮助 AI 进入企业，从“能用”走向“上岗”，从“展示能力”走向“交付结果”。
+本周「十字路口」，我们聊 FDE 这个正在被重新定义的岗位与分工：它究竟是在把“售前/交付”换个名字，还是代表 ToB AI 时代新的组织结构与商业边界？当模型越来越强，最后一公里为什么依然最难？企业真正缺的，到底是更强的模型，还是能把 AI 带进流程、接入系统、治理知识、持续迭代并对结果负责的人？
+我们的嘉宾是 Rolling AI 的两位合伙人阿甘和刘开，他们是中国在企业 AI 落地与“交付能力产品化”方面实践最深、也最具代表性的团队之一。
+如果你在寻找下一波 AI 的机会，这期内容希望给你一个可行动的视角：旧分工在松动，新岗位在出现，而新的创业机会，也往往从这些缝隙里长出来。
+🎬 我们的视频播客已同步上线于 @Koji杨远骋 的视频号、抖音、小红书、哔哩哔哩、Youtube 等平台。
+📒 文字版已发布于 @十字路口Crossing 公众号。
+🟢 01:08 快问快答
+* 年龄、毕业院校、MBTI 与星座、一句话介绍 Rolling AI、收入与利润、团队规模、创业前经历
+🟢 02:19 FDE：AI 不是软件，是劳动力
+OpenAI 和 Anthropic 同一天宣布成立十亿美元级企业 AI 合资公司，都说自己在做&quot;FDE&quot;——他们到底在描述一件什么事？
+* 传统软件是工具，需要人来操纵。但 AI 本身就是劳动力。
+* FDE 做的，其实有点像 HRBP：把&quot;数字员工&quot;送进企业。
+* 为什么从 BCG 出来做这件事？MBB 在服务中国民企时，遭遇了什么困难？
+* 传统咨询交付 200 页 PPT，今天他们交付的是智能体。
+🟢 08:22 首个案例：一个人带 50 个机器人，服务 600 万用户
+* 出生率下滑，乳品企业急着找第二曲线。他们需要的不是几个营养师，而是&quot;无限个&quot;营养师。
+* 全国注册营养师 40 万，目标用户是 8,000 万——供需差距 200 倍。AI 是怎么填上这个缺口的？
+* &quot;如果有人说我要减肥，你的第一句话应该是：你又不胖，你为什么要减肥。&quot;——这是人类师傅教给 AI 的。而找到好师傅，才是 FDE 最难的事。
+🟢 19:58 FDE 是什么角色？
+带着一批&quot;清北学生&quot;去便利店上班的工头。
+* FDE 要做好三件事才能撤场：业务融合、知识治理、系统对接。
+* 一个好的 FDE 需要三种核心能力：能一眼看穿业务痛点本质、人机协作的原生感知、能用 AI 工具快速构建原型。
+* 这样的人，能短期培养吗？——不能。
+* &quot;你刚毕业，我想不到任何一件你能做、AI 做不了的事情。&quot;
+🟢 25:09 SOP 代表落后——标准化的终结
+* 他认为 SOP 代表着慢、代表着落后——这是暴论，还是有逻辑支撑的判断？
+* 从消费端的&quot;千人千面&quot;（抖音），到生产端的&quot;千人千面&quot;（每个门店自己的经营决策）。
+* 总部从&quot;管控型&quot;变成&quot;赋能型&quot;，意味着怎样的组织重构？
+* 以及，哪类管理层会最先被消失？
+🟢 28:21 那些消失的企业，真正输在哪里？
+兰开夏郡的纺织业接了电，但没被电拯救——因为他们只把电接到了原来蒸汽机的大轴上，整个生产方式还是蒸汽时代的。
+* &quot;AI 这次变革对社会的影响幅度，会超过互联网，像当年电力革命一样大量取代智力劳动。&quot;
+* 每次大的生产力革命，都有 95% 的企业消失——而他们都接了电、上了网。那些消失的企业，真正输在哪里？
+* 技术在整个 AI 落地过程中，占比不超过 1/3。剩下的 2/3 是什么？
+🟢 32:01 AI 落地失败率超 50%：三大死法
+* 第一大死法：CEO 对 AI 有&quot;超出现实的预期&quot;——&quot;上了 AI 企业就起飞&quot;。
+* 第二大死法：让 IT 团队来主导 AI 项目。&quot;谁懂怎么对付客户、让他买保险？是业务团队，不是 IT。&quot;
+* 第三大死法：激励机制没跟着变。AI 带来了新的生产力，但生产关系没变——结果会是什么？
+🟢 43:29 应届生在 AI 时代能做什么？
+* Rolling AI 的高二实习生，他说&quot;丝毫不觉得输过任何一个平庸的五年经验咨询师&quot;——为什么？
+* 商业 sense 和 judgment，能培养吗？他说他个人还没找到路径——&quot;有些东西是天生的&quot;。
+* FDE 时代，判断一个人值不值得用，真正在看的是哪三件事？
+🟢 46:49 OpenAI 和 Anthropic 为什么都突然下场做 FDE
+* 一种是&quot;数据饥渴&quot;，一种是&quot;利润饥渴&quot;——真相是？
+* 大模型进入行业，遭遇的最大瓶颈不是模型能力，而是行业数据和知识的短板。
+* ToB 本质上不是软件能独立完成的事，而是一个服务业——&quot;需要又懂 AI、又愿意扎进去的服务者，才能改变这个世界。&quot;
+* 为什么 OpenAI 和 Anthropic 的合资公司全都是 PE 结构？收服务费根本收不到那部分 upside。
+🟢 49:08 FDE 公司不应该被 VC&quot;投&quot;，而应该被 VC&quot;拥有&quot;
+&quot;我们一年陪跑收 600 万，但帮客户省了几千万、多赚了几千万——那差价去哪了？&quot;
+* 每一家 PE/VC 的投后部门，核心能力之一将会是帮被投企业做 AI 转型。
+* &quot;我们在同一个行业，只服务一家，绝不服务另一家。&quot;
+* 当 AI 能带来真实的业绩增长，单纯按日收咨询费这件事本身就不够了——未来的商业模式指向哪里？Service as Software，还是 Result as a Service？
+欢迎订阅「十字路口」：
+🚦 我们关注新一代 AI 技术浪潮带来的行业新变化和创业新机会。
+🚦 十字路口是乔布斯对苹果公司的一个比喻，形容它站在科技与人文的十字路口，伟大的产品往往诞生在这里。AI 正在给各行各业带来改变，我们寻找、访谈和凝聚新一代 AI 创业者和 AI 时代的积极行动者，和他们一起，探索和拥抱新变化，新的可能性。
+👦🏻 本期主播 Koji：我创办了十字路口，发起了 AI Hacker House 这个新一代 AI 创业者的社群空间，在真格基金担任 Venture Partner 投资合伙人。我相信科技尤其是 AI 是我们这一代人最大的价值创造机遇。Koji 的即刻，Koji 的网站</description>
+            <content:encoded><![CDATA[<div class="episode-summary">
+<h3>内容摘要</h3>
+<h3>主题概述</h3>
+<p>这期播客围绕 OpenAI 和 Anthropic 同步宣布成立 10 亿美元级 FDE（Forward Deployed Engineer，前置部署工程师）合资公司这一热点展开。嘉宾是 Rolling AI 的两位合伙人阿甘（88年）和刘开（83年），两人均为连续创业者，曾在 BCG 共事，目前带领 60 多人的团队提供 AI 商业咨询服务。核心议题：FDE 的本质是什么？为什么 AI 时代会出现这个新岗位？以及中国企业在 AI 落地中的真实实践与认知差异。对话从概念辨析延伸到组织变革、人才需求和管理哲学，揭示了“AI 是数字员工而非软件工具”这一底层逻辑。</p>
+<hr />
+<h3>关键要点</h3>
+<ol>
+<li>
+<p><strong>AI 的本质是劳动力，FDE 是“数字员工的 HRBP”</strong><br />
+   “传统软件是个工具，必须要有人去操纵；而 AI 本身就是劳动力。FDE 做的事情有点像 HRBP——把一个数字员工放到企业里，帮它培养好、看着它上岗，而不是卖软件。”这一认知颠覆了传统 SaaS 的交付模式。</p>
+</li>
+<li>
+<p><strong>AI 落地的核心壁垒不在技术，而在“上下文”和“上岗培训”</strong><br />
+   “你想让 AI 在一个公司里上岗，怎么把公司的上下文交给他、给他一个工作台运作起来，这是 FDE 要干的事。”技术占比不超过 1/3，更大的挑战是业务融合、知识治理和系统对接。</p>
+</li>
+<li>
+<p><strong>交付出从 PPT 变成智能体，交付周期从半年缩至 15 天</strong><br />
+   传统咨询交付 200 页 PPT，现在交付的是智能体；公司内部标准是“所有智能体必须在 15 天内上线”，因为“雇一个员工不会让他学习三个月再来上班”。</p>
+</li>
+<li>
+<p><strong>独家案例：乳品企业的营养师 AI 系统</strong><br />
+   2022 年起为一家乳品企业服务。全中国注册营养师约 40 万，但需服务 8000 万人。他们用 GPT-3.5 开发营养健康模型，最终平台承载 600 万在线用户，仅由一位小姑娘运营 50 多个 AI（做测评、写帖子、营养咨询），单次服务成本从 16 元降至 0.1-0.4 元。</p>
+</li>
+<li>
+<p><strong>从“自上而下蒸馏”到“自下而上学徒制”</strong><br />
+   2025 年前，他们找金牌销售、最佳培训师做访谈、总结最佳实践；2025 年下半年后放弃这种“权威解法”，改为在每个店长身边放 AI 助手，每天下班后复盘，像“shadow”一样观察+互问互答，采集一线“街头智慧”。</p>
+</li>
+<li>
+<p><strong>关键洞见：标准化 ≠ 最优解，SOP 代表落后</strong><br />
+   “SOP 代表着慢、代表落后，标准化只做到了全局 60 分，AI 能保证每个店都做到 85-90 分。”每个门店的经营上下文不同，AI 副店长帮助店长做个性化预估（如暴雨天排班、周边竞争分析），准确率大幅提升。</p>
+</li>
+<li>
+<p><strong>AI 落地的三大失败原因</strong>  </p>
+</li>
+<li>CEO 对 AI 有过高预期  </li>
+<li>让 IT 团队而不是业务团队主导（IT 关心治理和安全，不懂选货盘、卖保险）  </li>
+<li>
+<p>没有配套激励变革（需改为“80% 结果 + 20% 过程”的绩效）</p>
+</li>
+<li>
+<p><strong>未来岗位消亡：纯“上传下达”的管理层和纯执行型智力劳动者</strong><br />
+   “管理层如果只做信息传递、上传下达，这岗位就应该消失。”AI 能自动完成信息清理、聚合、报告。未来人类从“智力劳动”转为“智力决策劳动”——只做“行还是不行、去哪里”的决策。</p>
+</li>
+<li>
+<p><strong>中国企业家 vs. 职业经理人的管理差异</strong><br />
+   中国企业家是“结果正义”，亲力亲为，愿意尝试任何路径；海外公司强调“过程正义”。这种差异使中国企业在 AI 时代可能引领下一代管理智慧——“从标准化保底线，变为用智能体到一线提供最优解”。</p>
+</li>
+<li>
+<p><strong>FDE 公司值得被 PE/VC 拥有而非仅被投</strong><br />
+    因为“我们收不到 AI 带来的 upside”——帮企业省/赚几千万，只收 600 万服务费。建议 PE 把 AI 赋能团队作为独占投后服务，且每个赛道只能服务一家（连锁餐饮之间互斥）。</p>
+</li>
+</ol>
+<hr />
+<h3>独家细节</h3>
+<ol>
+<li>
+<p><strong>“我不喜欢你的面试风格”——AI 面试官的文化对齐</strong><br />
+   刘开提到帮企业做 AI 面试官时，“你是没办法让 AI 上去直接面的”。FDE 需要在内部做大量“对齐”：考察哪些能力？什么方式对面试者不友好、不尊重？什么是友好尊重？都要 FDE 现场判断和调整。</p>
+</li>
+<li>
+<p><strong>店长与 AI 副店长的“吵架”实录</strong><br />
+   一个店长说“我家酸奶卖不好”，AI 副店长分析周边数据后得出结论“你这边人群高端，应该卖贵的产品”。店长反驳：“不是！因为我 5 米外开了一家乐福超市，比我大两倍，卖得更便宜。”AI 立刻调整策略：“那咱全改成独供品和高端品，销量能增 40-50%。”——这个真实对话生动展示了“AI+人”远强于纯 AI。</p>
+</li>
+<li>
+<p><strong>暴雨天的“临时工”街头智慧</strong><br />
+   连锁餐饮门店在暴雨天营业额暴跌，但前一天已排班。聪明的店长会提前打电话给临时工：“明天可能不叫你了，你做好准备。”这样既避免浪费人力成本，又不得罪人。这个做法此前无法推广（靠人一层层压不下来），但 AI 副店长可以自动提醒所有店长。</p>
+</li>
+<li>
+<p><strong>年轻人 vs. 中年咨询师：资历不再重要</strong><br />
+   阿甘说：“我们最小的实习生是高二学生，我从老练程度和解题方式上，丝毫不觉得他输给一个平庸的五年经验的咨询师。”刘开开玩笑对毕业生说：“前两年你付我钱，后面我再翻倍付回给你。”——因为纯桌面研究型咨询已被 AI 替代，只有天生有商业判断力、看到问题就眼睛发光的人才有价值。</p>
+</li>
+<li>
+<p><strong>“service as software”——不是 SaaS，不是咨询</strong><br />
+   当被问到公司属于什么赛道时，刘开说：“你说我们是 SaaS 好像侮辱人，我们更像 service as software——交付的是软件形态，但本质是服务。我们只是把 PPT 转成了每天在一线服务的智能体和工具。”</p>
+</li>
+</ol>
+</div>
+<hr/>
+<p class="transcript-line"><span class="time"><strong>[00:00:00]</strong> </span><span class="speaker"><strong>发言人1: </strong></span>嗨我是科技。本周十字路口我们来聊一个最近非常热门的话题FDE。然后请到了rolling AI的两位合伙人，阿甘和刘开，二位好，欢迎来到十字路口。</p>
+<p class="transcript-line"><span class="time"><strong>[00:00:12]</strong> </span><span class="speaker"><strong>发言人2: </strong></span>大家好。</p>
+<p class="transcript-line"><span class="time"><strong>[00:00:13]</strong> </span><span class="speaker"><strong>发言人1: </strong></span>事情的起因是五月初OpenAI和anthropic在同一天发布了一个大新闻，他们都宣布各自做了一个10亿美元级别的企业AI合资公司，并且称自己做的事情叫做FDE，叫forward deployed engineer，就是前置部署工程师。这个词最早来自palante er，指的是派驻一位FDE工程师深入到客户公司的内部去，从零开始帮他们定制构建落地一套AI的系统。也有很多人说硅谷就是会造概念，对吧？以前我们说套可他们要说agent harness，我们之前说这个售前，他们要说是这个FDE。但不管怎么样，我觉得当有一个概念出现的时候，它背后一定也是一些现象、趋势，有一些共识，大家愿意用一个词去凝聚他。所以我们今天就请到二位来给我们讲一讲这个新的概念背后它出现的原因，以及在中国的一些实践。我们还是先从快问快答开始。请问二位的年龄。</p>
+<p class="transcript-line"><span class="time"><strong>[00:01:10]</strong> </span><span class="speaker"><strong>发言人3: </strong></span>我88年的，今年应该37了。</p>
+<p class="transcript-line"><span class="time"><strong>[00:01:13]</strong> </span><span class="speaker"><strong>发言人2: </strong></span>我83年的毕业的院校。</p>
+<p class="transcript-line"><span class="time"><strong>[00:01:15]</strong> </span><span class="speaker"><strong>发言人3: </strong></span>我是米兰理工和同济。</p>
+<p class="transcript-line"><span class="time"><strong>[00:01:17]</strong> </span><span class="speaker"><strong>发言人2: </strong></span>我是北京交通大学的研究生。</p>
+<p class="transcript-line"><span class="time"><strong>[00:01:19]</strong> </span><span class="speaker"><strong>发言人1: </strong></span>MBTI和。</p>
+<p class="transcript-line"><span class="time"><strong>[00:01:21]</strong> </span><span class="speaker"><strong>发言人3: </strong></span>星座我原来是ENFP.</p>
+<p class="transcript-line"><span class="time"><strong>[00:01:23]</strong> </span><span class="speaker"><strong>发言人2: </strong></span>我现在是EFG，我是ENTJ，我星座是的水平。</p>
+<p class="transcript-line"><span class="time"><strong>[00:01:27]</strong> </span><span class="speaker"><strong>发言人3: </strong></span>我是天成。</p>
+<p class="transcript-line"><span class="time"><strong>[00:01:28]</strong> </span><span class="speaker"><strong>发言人1: </strong></span>一句话介绍一下你们的公司，rolling AI.</p>
+<p class="transcript-line"><span class="time"><strong>[00:01:31]</strong> </span><span class="speaker"><strong>发言人3: </strong></span>Rolling AI就字面上就是rolling I就卷AI就是我们卷的是A我们不倦人。实际上我们自己本身是一个AI商业咨询公司。</p>
+<p class="transcript-line"><span class="time"><strong>[00:01:38]</strong> </span><span class="speaker"><strong>发言人1: </strong></span>那咱们的收入和利润目前方便讲。</p>
+<p class="transcript-line"><span class="time"><strong>[00:01:40]</strong> </span><span class="speaker"><strong>发言人3: </strong></span>有人说如果问千亿。</p>
+<p class="transcript-line"><span class="time"><strong>[00:01:43]</strong> </span><span class="speaker"><strong>发言人1: </strong></span>以内团队的规模，目前六十多个人在做rolling AI之前，二位在做什么？</p>
+<p class="transcript-line"><span class="time"><strong>[00:01:50]</strong> </span><span class="speaker"><strong>发言人3: </strong></span>我和刘凯其实都是连续创业者。然后我们俩之前认识是因为在BC认识的。我原来做过埃批的孵化，我有做过海外的投资的一个平台。</p>
+<p class="transcript-line"><span class="time"><strong>[00:01:59]</strong> </span><span class="speaker"><strong>发言人2: </strong></span>明白，然后我是07年第一次创业，然后做的是社交媒体监控。15年这个公司卖给了欧洲最大的社交媒体分析公司，后来进入了咨询鬼行业，在bcg瑜伽干。</p>
+<p class="transcript-line"><span class="time"><strong>[00:02:13]</strong> </span><span class="speaker"><strong>发言人1: </strong></span>然后出来炒OK。所以你们是BCG的同事，没错。要不要先给大家讲一讲，就是在你们看来FDE OpenAI topic，他们讲的FD1的时候，他们在讲什么？然后以及为什么在这个AI的大背景之下，FDE这个词儿突然被提出来了。</p>
+<p class="transcript-line"><span class="time"><strong>[00:02:29]</strong> </span><span class="speaker"><strong>发言人3: </strong></span>我们有个本质的认知，就是AI跟传统软件时代是非常不一样的。因为传统软件是个工具，必须要有人去操纵这个工具，而AI本身就是劳动力。所以在很多情况下，FDE做的事情其实有点像像一个HRBP。我把一个数字员工放到这个企业里面帮你培养好。我看着他去上岗的那个过程，而不是传统的软件。</p>
+<p class="transcript-line"><span class="time"><strong>[00:02:54]</strong> </span><span class="speaker"><strong>发言人2: </strong></span>今天的AI在企业里面别把它看成一个软件，别把它看成一个IT解决方案，你得把它看成一个新的员工在上岗，不管他的能力有没有做到，我们觉得能力在逐渐接近人的水平。那一个人在企业里面上岗，他需要是matter帮他准备好他的工作台资料，理解流程。当然也存在一些IT的系统，这是最大的区别，叫做真正你想要一个AI在一个公司里面上岗，你怎么把公司的上下文能够交给他，能够给他一个工作台运作起来，这是FD要干的事儿。</p>
+<p class="transcript-line"><span class="time"><strong>[00:03:28]</strong> </span><span class="speaker"><strong>发言人1: </strong></span>我觉得这个蛮有意思的，就是原来是卖的软件，然后我们的这个服务可能是来教你的员工怎么用软件。但其实现在有点像，就是卖了一个数字员工给你。其实这个FDE就是帮数字员工更好的融入企业，去产生它的价值的一个角色。没错，帮他上岗，这还挺有意思的。你们原来也会叫自己FDE吗？原来就有这个岗位吗？</p>
+<p class="transcript-line"><span class="time"><strong>[00:03:52]</strong> </span><span class="speaker"><strong>发言人3: </strong></span>我们不太叫自己FDE，我们更多把自己叫builder，就是builder OK。</p>
+<p class="transcript-line"><span class="time"><strong>[00:03:58]</strong> </span><span class="speaker"><strong>发言人2: </strong></span>但这个岗位都是像FDA的这种工作，包括我们甚至我去看了planner他的FDE在企业工作的那些视频，做的事情跟我们一样。</p>
+<p class="transcript-line"><span class="time"><strong>[00:04:09]</strong> </span><span class="speaker"><strong>发言人1: </strong></span>咱们开始做这个给企业AI的，不管是FDE也好，那叫business builder也好。我们做了多久了？我们服务了大概多少企业？这里面可能最大的企业，如果不能说名字，我们可以说一下规模。</p>
+<p class="transcript-line"><span class="time"><strong>[00:04:22]</strong> </span><span class="speaker"><strong>发言人3: </strong></span>我大概是什么？我们实际上从22年开始，就是那时候GPT3.5等于7。刚有接口的时候，我们是正好有这个客户，有这个相应的需求。我们实际上从那时候到现在快四年多了，我们是最早的一批开始帮企业做AI转型的这种服务的。我们到现在基本上服务了快一百多个企业，现在基本上都是这种全年制的。所以目前的都是大客户，每个客户都是大客户。</p>
+<p class="transcript-line"><span class="time"><strong>[00:04:45]</strong> </span><span class="speaker"><strong>发言人1: </strong></span>对，平均客单价。</p>
+<p class="transcript-line"><span class="time"><strong>[00:04:47]</strong> </span><span class="speaker"><strong>发言人3: </strong></span>是我们几百万到千万。</p>
+<p class="transcript-line"><span class="time"><strong>[00:04:49]</strong> </span><span class="speaker"><strong>发言人1: </strong></span>好，我们待会儿会重点来聊一聊，你们服务这些客户里面的案例的故事，包括踩过的坑。但在此之前还是想聊一聊，因为二位都是bcg的背景，我们的听众里面有非常多MBB的朋友，OK或者前校友。然后大家可能多多少少也有一些在职业的十字路口的感觉。所以想先听二位讲一讲，你们当时是出于什么考虑从bcg出来做现在这个rolling AI。</p>
+<p class="transcript-line"><span class="time"><strong>[00:05:14]</strong> </span><span class="speaker"><strong>发言人2: </strong></span>我们也很明确的发现，MBB这样的企业在服务中国的本土企业里面遇到了一些困难。不管是它的收费的模式，包括他能够落地真正帮助中国企业家的这种方式遇到了一些困难。中国企业家也不像90年代末00年初的那个时代，那么迷信说海外的咨询公司或者一个所谓的专家，他们会非常在意。就中国就这一点是特别不同意。中国的企业家基本上还是一代和二代没有，几乎很少有职业经理人。而一代和二代都是为了自己企业的利润，或者自己企业的长效发展、长治久安来来思考问题的。所以他不会太在意这种阶段性的paperwork写的怎么样，他非常在意能不能做下去，能不能做出结果来，能不能带来组织上的改变。这件事情其实虽然MBB也在做，但是它的成本结构和它的定位导致它很难做的非常深入。</p>
+<p class="transcript-line"><span class="time"><strong>[00:06:18]</strong> </span><span class="speaker"><strong>发言人1: </strong></span>你们当时在bcg做过最贵的一个项目是多少钱的项目？</p>
+<p class="transcript-line"><span class="time"><strong>[00:06:23]</strong> </span><span class="speaker"><strong>发言人3: </strong></span>相当贵，湘湘就只能说相当贵，九位数，快接近九位数数了。</p>
+<p class="transcript-line"><span class="time"><strong>[00:06:30]</strong> </span><span class="speaker"><strong>发言人1: </strong></span>然后就一亿人民币。</p>
+<p class="transcript-line"><span class="time"><strong>[00:06:33]</strong> </span><span class="speaker"><strong>发言人3: </strong></span>对，就接近九位数。</p>
+<p class="transcript-line"><span class="time"><strong>[00:06:35]</strong> </span><span class="speaker"><strong>发言人1: </strong></span>之前在bcg做咨询，然后现在rolling AI也其实通过咨询的方式给客户提供服务。然后当时的项目今天的项目当时的客户今天的客户有什么相同？</p>
+<p class="transcript-line"><span class="time"><strong>[00:06:45]</strong> </span><span class="speaker"><strong>发言人3: </strong></span>哪些不同客户类型最大的不同就是当时主要服务跨国企业，就现在主要服务民企，实际上做的事情的本质，我觉得还是比较像，都是为了解决商业上的一个特定的问题。然后第二就是在解决问题时候，我们的呈现形式是我们重新build business。</p>
+<p class="transcript-line"><span class="time"><strong>[00:07:03]</strong> </span><span class="speaker"><strong>发言人1: </strong></span>有没有AI这个带来的影响大吗？</p>
+<p class="transcript-line"><span class="time"><strong>[00:07:05]</strong> </span><span class="speaker"><strong>发言人3: </strong></span>我觉得影响非常大对。</p>
+<p class="transcript-line"><span class="time"><strong>[00:07:07]</strong> </span><span class="speaker"><strong>发言人2: </strong></span>我觉得非常大。传统咨询行业简化它就是我得到一个问题，我进到这个产业和这个企业里面去做调研。去用以往的经验，以往的成功和失败去梳理一个框架，并且交付出来一个200页的PPT。但今天不是，今天我们做完咨询，前面做的所有事情都一样。我依然要理解这个行业，理解这公司，理解他背后做过的努力，背后解题的资源。但我交出来不是PPT，我交出来是一个智能体。因为所有PPT里面讲的最好的做事方式，最好的协同方式，最好的信息流转方式，我都可以在智能体里面实现。</p>
+<p class="transcript-line"><span class="time"><strong>[00:07:44]</strong> </span><span class="speaker"><strong>发言人2: </strong></span>在当年要实现一套新的业务模式，可能它的成本是半年甚至一年。到今年做一个智能体上线可能是几个月、几周。甚至在我们公司内部其实有一个明文的标准，叫做所有的智能体必须在15天内上线。15天。对，原因也很简单，因为你雇一个员工，你不会让他去一个学校学习三个月再来上班的。你会最多给他15天的培训期，他就得开始干活。</p>
+<p class="transcript-line"><span class="time"><strong>[00:08:13]</strong> </span><span class="speaker"><strong>发言人1: </strong></span>你们如果要分享一个案例，特别能够代表你们今天把一个智能体送去一个企业，让他开始干活并且build business，然后最后产生一些结果，你们会想到什么样的案例？</p>
+<p class="transcript-line"><span class="time"><strong>[00:08:24]</strong> </span><span class="speaker"><strong>发言人3: </strong></span>我们第一个就是2022年开始，当时的状况是这样，就是它是一个乳品的企业。大家知道就是当出生率不是那么旺盛的时候，实际上整个乳品是一个下滑的这个态势。所以很多乳品企业其实他想到是第二曲线。比如说有的企业他想做快销，就是做水，做饮料，其实有的企业会想去做跟产品相关更高溢价的东西。比如说，蛋白饮，益生菌等等之类的。但他们的最大的问题在于，它原有的这个经销的渠道其实不适合于卖这些高溢价的东西。它需要有一种全新的销售方式，这是我们的problem。</p>
+<p class="transcript-line"><span class="time"><strong>[00:09:00]</strong> </span><span class="speaker"><strong>发言人3: </strong></span>我们的第一个解决方案其实是我们在看全市场有没有足够多的营养师在线上能够服务这群人。我们当时把全中国的营养师大概算了一遍，全中国真正注册营养师可能就40万人，而他要服务的群体是8000万人。我们算了一下，这个差距大概十倍左右。</p>
+<p class="transcript-line"><span class="time"><strong>[00:09:16]</strong> </span><span class="speaker"><strong>发言人2: </strong></span>要服务这么多人，而且他每次服务成本我们当时核算下来16块钱。</p>
+<p class="transcript-line"><span class="time"><strong>[00:09:19]</strong> </span><span class="speaker"><strong>发言人3: </strong></span>对，那当时就正好几个G3业务发的结果，我们就有一个感觉说，能不能把它变成一个几十万的这种资营养师什么等等这来服务这家企业。于是我们当时。做了营养健康的模型的微调。</p>
+<p class="transcript-line"><span class="time"><strong>[00:09:33]</strong> </span><span class="speaker"><strong>发言人2: </strong></span>这个平台最后承载了这家企业600万的在线用户，就这一个小姑娘在运营，然后这小姑娘带了五十多个机器，有的做测评，有的写帖子，有的做营养咨询。</p>
+<p class="transcript-line"><span class="time"><strong>[00:09:44]</strong> </span><span class="speaker"><strong>发言人1: </strong></span>这是没有ai做不到的。</p>
+<p class="transcript-line"><span class="time"><strong>[00:09:47]</strong> </span><span class="speaker"><strong>发言人3: </strong></span>就没有AOI是完全做不到的。</p>
+<p class="transcript-line"><span class="time"><strong>[00:09:48]</strong> </span><span class="speaker"><strong>发言人2: </strong></span>然后刚才说的成本，当时我们核算下来一次的服务成本已经降到一毛钱还是四分钱。</p>
+<p class="transcript-line"><span class="time"><strong>[00:09:55]</strong> </span><span class="speaker"><strong>发言人3: </strong></span>对然后讲讲一个小故事，就是一开始的时候，实际上现在大家比如说用多宝用千问你去问一个说我要减肥，他一定就开始给你一个solution。但实际上我们发现一个正经的减肥师过来看到这个答案，他说你这样说的不对。如果有个人问说我要减肥，你的第一回答是你又不胖，你为什么要减肥？就上来第一步其实是一个情绪价值。第二步问你最近吃了什么？你最近一周的饮食习惯是怎么样？你的健身习惯是怎么样？你减肥的目标是什么？</p>
+<p class="transcript-line"><span class="time"><strong>[00:10:25]</strong> </span><span class="speaker"><strong>发言人1: </strong></span>所以这个on boarding或者转化客户的过程要先有持续价值，然后让他给input。</p>
+<p class="transcript-line"><span class="time"><strong>[00:10:30]</strong> </span><span class="speaker"><strong>发言人3: </strong></span>类似这样的员工上岗都是要找到一个好的师傅。</p>
+<p class="transcript-line"><span class="time"><strong>[00:10:33]</strong> </span><span class="speaker"><strong>发言人2: </strong></span>好的师傅交给这个是一个专业的服务流程。</p>
+<p class="transcript-line"><span class="time"><strong>[00:10:37]</strong> </span><span class="speaker"><strong>发言人1: </strong></span>我记得之前你们也分享过，就是你们应该也有一些客户是比如线下的奶茶连锁。那在这样的奶茶连锁的企业里面，他的师傅是谁啊？是优秀。</p>
+<p class="transcript-line"><span class="time"><strong>[00:10:47]</strong> </span><span class="speaker"><strong>发言人2: </strong></span>的店长。</p>
+<p class="transcript-line"><span class="time"><strong>[00:10:49]</strong> </span><span class="speaker"><strong>发言人1: </strong></span>就找到企业的优秀的师傅是非常重要的。所以进到每个企业都要去识别谁是最优秀的。在一线有最多实践的这种过程经验的人，F要去和他做什么。</p>
+<p class="transcript-line"><span class="time"><strong>[00:11:01]</strong> </span><span class="speaker"><strong>发言人2: </strong></span>在25年之前，我们会把最好的金牌销售拉过来，最好的培训师拉过来，我们做访谈。我们总结他的最佳实践，总结他的最佳的思维方式，自上而下的这么一个梳理方式。然后把这个梳理的结果和最佳时间话术等等的放到AI里面去。</p>
+<p class="transcript-line"><span class="time"><strong>[00:11:19]</strong> </span><span class="speaker"><strong>发言人2: </strong></span>从25年下半年之后，我们开始逐渐的不这么做了。因为我们发现在整个商业社会中，所谓的做生意的最佳时间，他可能就没有一个权威的top down的解法或者正确答案。事实上在一个门店里面，不管做奶茶，还是在一个门店里面卖货，还在一个城市里面卖保险，成功的方式有千千万，都很不错，所以我们现在从top down变成了bottom up。比如说在一些连锁经营的门店里面，我们就会有一些AI的机器人。每天下班之后就跟店长复盘，今天做了什么？做的好做的不好，你觉得为什么？把复盘的经验采集下来，把每一个店长优秀顾问、教练、金牌销售身边都放一个助手。然后这个助手就有点像我们咨询行业做shadow一样，做做一个陪跑生在旁边观察着，逐渐的他会越来越聪明。</p>
+<p class="transcript-line"><span class="time"><strong>[00:12:16]</strong> </span><span class="speaker"><strong>发言人1: </strong></span>越来越理解就是不是提问去获得信息，而是就是在他旁边去。</p>
+<p class="transcript-line"><span class="time"><strong>[00:12:22]</strong> </span><span class="speaker"><strong>发言人2: </strong></span>观察他他也会有互问互答的方式。</p>
+<p class="transcript-line"><span class="time"><strong>[00:12:25]</strong> </span><span class="speaker"><strong>发言人1: </strong></span>这听起来也很像在蒸馏一个。</p>
+<p class="transcript-line"><span class="time"><strong>[00:12:27]</strong> </span><span class="speaker"><strong>发言人3: </strong></span>员工这套东西，我们叫学徒学习最好的老师傅，的这个状态的。</p>
+<p class="transcript-line"><span class="time"><strong>[00:12:33]</strong> </span><span class="speaker"><strong>发言人1: </strong></span>那会遇到一些抵触吗？比如说老师傅会说，你把我的蒸馏了，或者你把我都学走了，那我之后在企业的价值也。</p>
+<p class="transcript-line"><span class="time"><strong>[00:12:40]</strong> </span><span class="speaker"><strong>发言人3: </strong></span>没了你要学习他的东西，首先你要给他付出一点东西。所以我们所有的学徒进去之后，肯定是先帮这个老师傅去干一点活。比如说实际上这个智能体不仅仅只是学习，我们会日常比如说他要排班的时候，我会给他一些建议。比如说他要去做这个营业的预估的时候，我们会给他提出一些人。他会觉得这个学徒在他身边是有用的，他才会教这个学徒。</p>
+<p class="transcript-line"><span class="time"><strong>[00:13:03]</strong> </span><span class="speaker"><strong>发言人2: </strong></span>我们并没有觉得AI比人强，我们绝大多数发现都是AI加人强过人，然后人强过AI。所以绝大多数情况下一个能被蒸馏出经验的优秀基层员工，其实是这个企业最大的资产。其实你是不应该被你放弃的。因为每天商业场景都在变化，每天都有新的竞争势态，每天都要做新的判断。AI能够帮你想很多事情，但不能取代你的决策，这是一个点。</p>
+<p class="transcript-line"><span class="time"><strong>[00:13:33]</strong> </span><span class="speaker"><strong>发言人2: </strong></span>第二个点是确实因为这样的机制存在，我们会发现能产生复盘和经验的优秀员工，他的价值变化了。举个例子，就以前你是一个金牌销售，对吧？你能卖人家的2倍3倍很了不起了。你再做的厉害一点，你说我带徒弟，我整个团队都能做到人家两倍三倍，很了不起了。但今天不是，今天你积累的经验和方法论是可以复制到全国所有的省，所有1000个销售1万个销售身上的那意味着说你对企业的价值就是增大了，这个增大应该配对一些对应的激励，这也是我们在转型过程中会告诉企业家去做的。你得激励那些能给你的AI带出好的AI智能的这些员工。</p>
+<p class="transcript-line"><span class="time"><strong>[00:14:20]</strong> </span><span class="speaker"><strong>发言人1: </strong></span>还有一个具体的案例可以分享一下吗？</p>
+<p class="transcript-line"><span class="time"><strong>[00:14:23]</strong> </span><span class="speaker"><strong>发言人3: </strong></span>通常连锁里面它很重要的一个工作就是预估第二天的营业额。因为预估了营业额之后，他就能基于这个营业额去排班，他就能预估第二天我要去进多少的货。这种的预估通常以前都是总部的一个某种算法，后来我们发现这个算法通常是不准的，为什么？因为每个门店的情况太不一样，有些地区下雨，有些地区不下雨，有些门店旁边忽然有个新店开张，有些门店他就是在夜店边上等等之类。有各种各样的奇奇怪怪的因素，会导致每个门店的经营上下文特别不一样。后来我们把总部的这种比较一到切这种方法全部拆掉，我们拆成说我们给每一个店长都配一个帮助到他预估营业额的这种副店长或智能体。我们告诉他说，明天下午可能会下暴雨，明天我看到你周边忽然有一个店在做活动，明天会发生什么事情由他最终来决定他应该雇一个什么样的职，而不是由一个系统告诉他应该估计什么样的值。我们做了这个改变之后，我们发现整体的这个预估准确率高了非常多。</p>
+<p class="transcript-line"><span class="time"><strong>[00:15:27]</strong> </span><span class="speaker"><strong>发言人3: </strong></span>我们现在越来越觉得赋能一线是一个特别有值得做的一件事情。因为所有的经营的事情都发生在一线。而他们作为一个店长，他们反而变成了一个上下文的提供者。上下文越准，就大部分能够帮到他的地方越多。</p>
+<p class="transcript-line"><span class="time"><strong>[00:15:43]</strong> </span><span class="speaker"><strong>发言人3: </strong></span>而每家门店的上下文都不一样，给更好的上下文的时候，人家AI鄙人又更强了一些。我们觉得AI更多是的书本智慧。但中国的很多很多商业场景里面有太多的街头智慧。就有一个店长他在某一个方面曾经想过一个街头智慧的东西，他就特别的厉害。而那件事情大家一定没有办法就在那个情况下想到。所以我们会收集这些所谓的街头智慧。</p>
+<p class="transcript-line"><span class="time"><strong>[00:16:10]</strong> </span><span class="speaker"><strong>发言人1: </strong></span>还有这样类似街头智慧的故事吗？</p>
+<p class="transcript-line"><span class="time"><strong>[00:16:12]</strong> </span><span class="speaker"><strong>发言人3: </strong></span>我再举个零售门店的案例。比如说我们我们之前在连锁的某某个餐饮，我们发现就是当这个区域下暴雨的时候，这个门店那天下午的营业额就会比较差。这时候就带来一个问题，就是因为之前头一天都排过班了，如果下了暴雨营业又很差，那个人员力量浪费的就那个浪费。我们统计了一下，如果按照1000个门店放到一年可能大几百万的钱。在这种情况下，聪明的店长会怎么做？就在他知道可能会下大暴雨的情况下，他会和临时员工先打好电话，说第二天我有可能不会叫你来，但是你可能要做好这个相应准备，这样的话那个临时员工心里也有数，他不会生气等等之类的当这个介绍之后，如果能够推行到足够多门店，整个体系一年就能省几百万。而这种案例，原来其实通过每个人是没有办法推行的，就是一层一层的往下压。</p>
+<p class="transcript-line"><span class="time"><strong>[00:17:11]</strong> </span><span class="speaker"><strong>发言人2: </strong></span>也没有办法推行。我们有一套AI它也像一个副店长一样，帮助店长去选他的货盘的，定他的价盘等等的。然后我记得当时有一个AI副店长和店长聊，他们在看那个冷柜，他们专门在做冷柜的酸奶品类的盘点，这一家店为什么酸奶卖的不好？然后那个副店长说，你们家店为什么大包装的，我记得叫成功，叫哪一个品牌的大酸奶？他说根据我拿数据分析，在你周边的七八家店都卖的很好，为什么你这里就卖的不好？是不是你这里人都觉得比较高端？店长说不是，我这里的没有很高端，我就是一个社区店。</p>
+<p class="transcript-line"><span class="time"><strong>[00:17:52]</strong> </span><span class="speaker"><strong>发言人2: </strong></span>他说那你为什么卖的不好呢？但是我看到你这里的卡是当时有个品牌叫卡，是啊说你这里卡是的，这种优酸乳特别好，还是很贵的。所以AI说我觉得你是因为你人群很高端，店长说不是的，是因为我5米之外开了一家叫乐福的超市，比我大两倍。</p>
+<p class="transcript-line"><span class="time"><strong>[00:18:10]</strong> </span><span class="speaker"><strong>发言人2: </strong></span>然后只要他卖的东西就比较便宜，这些高端的卡式东西他不卖，那个大包装的他也卖，他卖的更便宜，所以我卖不掉。然后AI说，那行，那咱换个方式，咱就抢不过那家店。咱的所有的酸奶或者冷藏饮品的策略，全部改成我只卖我们家供应商独供的东西以及高端的东西。这样子大家不关心价格，只关心进不进，货品好不好，马上我们销量能增百分之四五十。但这些你说没有光靠AI去判断，他可能完全得出一个错误的结论。因为他不知道一线发生了什么，得店长和I在一起才能得出正确的，觉得AI是能给店长很多补充思考的。</p>
+<p class="transcript-line"><span class="time"><strong>[00:18:56]</strong> </span><span class="speaker"><strong>发言人1: </strong></span>所以当你说到副店长的时候，他就是AI是吧？</p>
+<p class="transcript-line"><span class="time"><strong>[00:19:00]</strong> </span><span class="speaker"><strong>发言人2: </strong></span>他说是我们已经习惯这个语境了。对。</p>
+<p class="transcript-line"><span class="time"><strong>[00:19:03]</strong> </span><span class="speaker"><strong>发言人1: </strong></span>我记得原来看这个711的1个故事就是。我当然知道一个冷知识，是7 21 71开始的美国企业对吧？然后日本拿他的授权，然后在日本越做越大，越做越强，就把美国收购了。</p>
+<p class="transcript-line"><span class="time"><strong>[00:19:14]</strong> </span><span class="speaker"><strong>发言人1: </strong></span>现在711是1个日本企业，当时711有1个拐点，就是当时他们给到一线的店长进货的决策权。所以每个店长可以自己决策，明天我要加多少酸奶，明天我要加多少巧克力。原来都是统一调度。然后711在日本做了这个改变之后，业绩带来了一个非常大的提升，所以还是把权力下放到一线去决策。但在过去其实有很多的困难是店长不管是他的信息采集和信息分析的能力，包括他去做这些分析或采集的时间，都没有那么的充分和全面。但现在有了一个AI副店长的帮助，他可以做得更好。</p>
+<p class="transcript-line"><span class="time"><strong>[00:19:56]</strong> </span><span class="speaker"><strong>发言人2: </strong></span>没错，这就就您说的特别对，就是AI最大的红利不在于说我能在顶部或者总部做一些自上而下的策略性的事儿，而是我能够把一个普通的智慧陪在我们的店长销售人员身边。在电厂销售人员，他不是雪商科出身的，他不是有完整的经过什么逻辑训练能力出身的，他需要一些基础的智慧帮他理清楚这些事情，以前是做不到的，以前你没办法有1万个教练，今天你可有1万个教练陪着他们。</p>
+<p class="transcript-line"><span class="time"><strong>[00:20:27]</strong> </span><span class="speaker"><strong>发言人1: </strong></span>而且也像我们今天在说，越来越多的通用agent在电脑上面，他要变得更聪明，他需要拥有更多的上下文。所以我们开始让他录我的屏幕，然后开始让他听我所有的会议。他知道的越多他就会越聪明。所以在一个店感觉是类似的，他如果能够知道这个店越多的情况，甚至知道这个店周边500米、2公里就越多的信息，他能做的这个决策就会越准。没错对，没错。聊到这里，我们说的这些和FDE它的关系在哪里？就FDE在这里面扮演的角色是什么？</p>
+<p class="transcript-line"><span class="time"><strong>[00:21:00]</strong> </span><span class="speaker"><strong>发言人2: </strong></span>FDE在这个过程中承担了好几个角色。本质上他带着一群像北大清华或者斯坦福的年轻人，这些年轻人AI，带着一些年轻人去一个便利店，去一个营销部门，甚至去一个人事部门上班。比如说做面试这件事情，你是没办法让一个AI上直接就面的。我们在内部要做大量的对齐，对我们考察的是什么样的能力，我们觉得什么样是是对面试者不友好的、不尊重的，什么样的方式才是友好和尊重的这都是FD在现场去做判断的。我们今天好像是一个AI人力外包公司，对吧？这个AIFD就是那个人力外包公司的空头，他带着这些员工进去，但他要不是把人扔在那就行。他得确定他们能够执行工作，甚至确定他能执行足够高质量的工作，他才能离开。所以他要做我们说三大块，就是业务的融合，他要做知识的智力，他要做系统的对接，他这三件事情都做好了，他才能够离开我。</p>
+<p class="transcript-line"><span class="time"><strong>[00:22:06]</strong> </span><span class="speaker"><strong>发言人1: </strong></span>觉得这个公投这个比喻很有意思。我们说FDE的时候感觉很高大上，但是有点云里雾里不知道到底干嘛。但是一说公投好像一下子就懂了。那一个好的公投和一个不好的公投，就是一个好的FDE和不好的FD。因为里面有六十多位员工，对吧？他需要一些什么样的品质才能做好？</p>
+<p class="transcript-line"><span class="time"><strong>[00:22:26]</strong> </span><span class="speaker"><strong>发言人2: </strong></span>我觉得他核心要有这么几个能力。第一个能力叫做他有某种咨询背景的能力。能够一眼看出来这个业务的痛点本质到底是什么。是缺人，还是缺知识，还是缺沟通，还是缺协作。当他缺人的时候你去做沟通的事情，当他去沟通时候你去使劲干活，都不解决问题，这是第一。</p>
+<p class="transcript-line"><span class="time"><strong>[00:22:48]</strong> </span><span class="speaker"><strong>发言人2: </strong></span>然后第二，它需要有一定的我们叫做人机协作的原生能力。他能很快的理解到说任何一个工作都不是机器人全部干完的。我怎么样把这个合理的拆解成若干个小任务或者小工种，然后把人放在最重要的位置上。并且告诉人类员工说这件事情还是得你来做，审核评判规划还是得你来做。剩下的事情我让机器员工补偿第三者。</p>
+<p class="transcript-line"><span class="time"><strong>[00:23:20]</strong> </span><span class="speaker"><strong>发言人2: </strong></span>他能够很快的构建起来。他真的拿出我们的AI工具，web coding的工具，能够在半天一天两天的时间把体系的原型就构建起来。他能够写智能T他知道怎么编排，对吧？这是为什么我们前面说FDE它不像一个营业员，也不像个销售，也有点享受的这种感觉在里面，确实。</p>
+<p class="transcript-line"><span class="time"><strong>[00:23:40]</strong> </span><span class="speaker"><strong>发言人1: </strong></span>听起来很厉害。这样的人是可以培养的吗？</p>
+<p class="transcript-line"><span class="time"><strong>[00:23:44]</strong> </span><span class="speaker"><strong>发言人3: </strong></span>未必短期能培养起来，可能培养不出来。这个问题就是。</p>
+<p class="transcript-line"><span class="time"><strong>[00:23:49]</strong> </span><span class="speaker"><strong>发言人1: </strong></span>AI时代需要什么样的人才？是商业。</p>
+<p class="transcript-line"><span class="time"><strong>[00:23:54]</strong> </span><span class="speaker"><strong>发言人3: </strong></span>判断力，也是某种taste。它是在当AI能给出足够多答案，能采集会足够多信息的时候，下步应该怎么做，应该往哪个方向的那种got feeling就是有有一点点玄学，它并不是非常系统。</p>
+<p class="transcript-line"><span class="time"><strong>[00:24:11]</strong> </span><span class="speaker"><strong>发言人1: </strong></span>所以我听下来可能和之前bcg做的事情真的还挺不一样的。</p>
+<p class="transcript-line"><span class="time"><strong>[00:24:17]</strong> </span><span class="speaker"><strong>发言人2: </strong></span>我们会觉得内核其实挺相近，但是所有的做事方式和呈现出来结果都非常不一样。</p>
+<p class="transcript-line"><span class="time"><strong>[00:24:23]</strong> </span><span class="speaker"><strong>发言人1: </strong></span>内核还是解决问题，但是这个做的方式工具需要的人才都不一样。</p>
+<p class="transcript-line"><span class="time"><strong>[00:24:29]</strong> </span><span class="speaker"><strong>发言人2: </strong></span>对。</p>
+<p class="transcript-line"><span class="time"><strong>[00:24:30]</strong> </span><span class="speaker"><strong>发言人3: </strong></span>而且我们发现有一个有趣的地方是传统的咨询公司来自于上一个所谓上一个时代，就工业时代有很多东西，我们觉得AI来的时候就这件事情都变了。比如说管理层，管理层的核心工作是传递信息，而现在传递信息这件事情就越来越被替代。之前我们做了大量的工作，实际上是帮助一个公司去做标准化。而现在我们对于标准化这件事情，对这三个字是有反抗的。每个门店都应该有每个门店自己的经营上下文、经营的思路、经营的方式。</p>
+<p class="transcript-line"><span class="time"><strong>[00:25:05]</strong> </span><span class="speaker"><strong>发言人2: </strong></span>中国的企业家其实很厉害，在AI赋能的这个时代里面，原来的很多语境和词汇已经不对了。就比如说我们认为SOP代表着落后，有点暴露，我们认为SOP代表着慢，代表落后。标准化代表着你只做到了全局60分，你没有去让每个人都能拿到90分。今天AI做的是保证你每个店都能做到85分、90分。我觉得这种思维方式可能只有在中国这么剧烈竞争，要剧烈迭代的市场才能产生出来。所以在我心中作为一个中国人，我觉得下一代的管理智慧可能会有中国企业家和中国企业来引领。</p>
+<p class="transcript-line"><span class="time"><strong>[00:25:45]</strong> </span><span class="speaker"><strong>发言人1: </strong></span>让我想到比如说抖音也是改变了媒体分发的机制，对吧？千人千面，每个人看到的东西都更加个性化，所以它得到了更高的留存和商业价值。但这消费端，现在我们在生产端也开始让每个店或每一个最小的商业单元，每个服务者他都可以千人千面的生产。所以你们觉得下一代的管理智慧，如果是来自中国企业家的话，你们觉得他可能会来自哪里？以什么样的方式呈现？</p>
+<p class="transcript-line"><span class="time"><strong>[00:26:15]</strong> </span><span class="speaker"><strong>发言人2: </strong></span>我们认为标准化这件事情，它的本质是保底线的。从怎么样用标准化保底线，变成怎么样用好的智能到一线去提供最优解。我觉得这是一个很重大的管理智慧的变化。</p>
+<p class="transcript-line"><span class="time"><strong>[00:26:32]</strong> </span><span class="speaker"><strong>发言人2: </strong></span>这个管理智慧的变化就会导致我的管理方式会变。以前每一个总部都有大量的标化部门、信息化部门、内审部门、各种采购部门。本质上都在管着门店和销售人员和销售网络的每一个节点，说你不能乱搞。而我们觉得这件事情会逐渐的降低和降温。而变成总部会要变成一个赋能型的企业。每一个人或者每一个组织都带来自己的智能体，告诉你门店怎么样弄，能够再多拿一点业绩。这是一个巨大的不仅仅是管理模式上的变化，甚至从我的组织模式，从部门设置上可能都会有变化。</p>
+<p class="transcript-line"><span class="time"><strong>[00:27:11]</strong> </span><span class="speaker"><strong>发言人1: </strong></span>你觉得这个有没有AI是有天壤之别的吗？</p>
+<p class="transcript-line"><span class="time"><strong>[00:27:14]</strong> </span><span class="speaker"><strong>发言人2: </strong></span>我觉得会有天壤之别，我觉得没有AI做不到是因为原来叫做在一个组织里面经营智慧的脑力或者智力生产力是不够的。真的懂得又讲得清楚的，又能培养和辅导的人是不够的对吧？那今天够了，只要算力开跑，你有无限的智力生产力。</p>
+<p class="transcript-line"><span class="time"><strong>[00:27:35]</strong> </span><span class="speaker"><strong>发言人3: </strong></span>海外的公司它的主要的管理方式是过程正义，他要把所有的过程尽可能的争议。国内的企业家才不管那么多过程，他只要结果正义了，什么样的路径他都可以接受。第二就是我们认为所有的中国企业家都亲力亲为。我觉得亲力亲为这件事情在AI时代特别重要。自己答智能体，自己上考古的什么等等之类的。</p>
+<p class="transcript-line"><span class="time"><strong>[00:27:56]</strong> </span><span class="speaker"><strong>发言人2: </strong></span>可能底层原因是因为企业家是不是企业的owner，可能决定了。</p>
+<p class="transcript-line"><span class="time"><strong>[00:28:01]</strong> </span><span class="speaker"><strong>发言人1: </strong></span>绝大多数就我们可能一代二代还在一线，对吧？但可能美国有太多企业已经是职业经理人在接班。大家的这个目标函数不同。那在你们看来，比如说AI通过FDE？进企业去赋能他们，技术占比有多少？就其他方面又有什么样的占比？</p>
+<p class="transcript-line"><span class="time"><strong>[00:28:20]</strong> </span><span class="speaker"><strong>发言人2: </strong></span>我个人会感觉技术占比不会超过3分之1。AI的这次变革，它不是一次所谓的技术浪潮，它是一次完整的生产力革命。他的对社会的影响幅度会超过互联网，它会像当年电力革命一样，电力革命大量的取代了体力劳动。今天AI革命或者大模型革命会大量的取代智力劳动。</p>
+<p class="transcript-line"><span class="time"><strong>[00:28:43]</strong> </span><span class="speaker"><strong>发言人2: </strong></span>如果我们回头去看电力时代，人变了，生产工序变了，员工的培训方式变了，商业也变了。以前没有夜间商业，以前没有大商场，以前没有娱乐业，现在都有了。我们认为AI革命会是像这么一个革命。当我们还在整个革命，可能十年、15年、20年的非常早期的这么几年。如果是说这样的革命的话。它的核心是组织的变化，商业模式的变化，人才的变化。它的核心就接上电或者接上模型。那个技术的事情只占它很小的一部分。</p>
+<p class="transcript-line"><span class="time"><strong>[00:29:18]</strong> </span><span class="speaker"><strong>发言人3: </strong></span>当时英国一个地方叫南海夏俊，对吧？那时候纺织业本身占全世界70%左右的，在电力革命被落下。你说他用没用电？他用电，但他用电的方式是他只把电接到了他原来蒸汽机的那个大轴上，他的整个生产方式还是蒸汽时代的生产方式。而那个时间段美国、日本、德国全部都用完全电力原生。就像现在说AI原生的方式，重新构建了它的整个生产组织，包括厂房。所以它的变化是非常大的。它不仅只是接的电而已。</p>
+<p class="transcript-line"><span class="time"><strong>[00:29:47]</strong> </span><span class="speaker"><strong>发言人2: </strong></span>在每一次大的生产力革命、电力革命、互联网革命、移动互联网革命，每一次都有95%的企业在这个过程中就消失了。真正能跨越周期的企业可能就是5%。所有消失的95%的企业相信我，他都接了电，他都上了网。他不是因为不上网才被消失的，他是因为没有全心全意的把它当成一个原力，去围绕它重构自己的商业，所以才被消失的。仅仅接上电，仅仅接上网，仅仅接上大模型，是不能阻止你的企业在这过程中被消亡的，如果你的做事方式不变的话。</p>
+<p class="transcript-line"><span class="time"><strong>[00:30:26]</strong> </span><span class="speaker"><strong>发言人1: </strong></span>所以就是AI这个技术本身可能在企业落地AI的过程中占比很小，就是更多的其实可能还是其他的方面。可以具体展开一下吗？</p>
+<p class="transcript-line"><span class="time"><strong>[00:30:37]</strong> </span><span class="speaker"><strong>发言人3: </strong></span>我们做很多跟销售相关的，我们发现销售这个群体特别奇妙，就是他们非常结果导向。所以只要跟自己的利益没有太大的变化情况下，什么东西他们都不爱用。所以我们会和业务方一起去改它的迹象。你可能原来是百分之百结果的迹象，我现在会把它改成80%结果的绩效和20%的过程的绩效。你提供阅读的东西你能够积分，然后你能够得到相应的钱等等之类的。这些东西如果不推动，我们相信在里面是不可能落得了地。</p>
+<p class="transcript-line"><span class="time"><strong>[00:31:09]</strong> </span><span class="speaker"><strong>发言人1: </strong></span>所以这听起来都是曾经踩过一些AI无法落地的坑。</p>
+<p class="transcript-line"><span class="time"><strong>[00:31:12]</strong> </span><span class="speaker"><strong>发言人2: </strong></span>还有什么坑吗？AI整体的AI转型项目的成功率应该不到50%。超过50%的失败率最重要的三个原因。第一个大的原因叫做今天的有一些CEO对AI能做什么有超出现实的预期。这个是要去管理控制和帮助他理解的，就他不能理解AI是超人的所有事情，我企业反正怎么弄都行，只要上了AI企业就起飞了，一定不是这样，这是第一。第二，我觉得最核心的叫做不要让IT团队来立的，得让业务团队来立的。业务团队如果把自己当成一个乙方，让IT团队立的这件事情几乎一定会失败。你会发现谁懂怎么选货盘，谁懂怎么去预估营业额，谁懂怎么去对付一个客户，怎么让他买保险，都是业务团队。IT团队提供不了这样的知识和经验，对吧？大量的企业依然它的刺猬定制叫做IT团队承接AI的这件事情一定会败，这是我觉得第二大问题。</p>
+<p class="transcript-line"><span class="time"><strong>[00:32:23]</strong> </span><span class="speaker"><strong>发言人2: </strong></span>第三大问题就是在底层没有业务团队和组织的对应的激励的改变，去配合这个模式的改变。因为大家不要把它看成一个工具的上限，它是一堆员工上线，一堆新的生产力来了，我们的生产关系要改变了，对吧？人和人的关系变了，人和鸡的关系变了，我们的目标可能也变了。在这个过程中，我做什么样的事情应该被激励，什么样的事情已经不需要我做了，也要跟着变。我觉得可能最大的三个坑在这里面。</p>
+<p class="transcript-line"><span class="time"><strong>[00:32:58]</strong> </span><span class="speaker"><strong>发言人1: </strong></span>就这里能想到什么故事吗？尤其是比如说IT人员，他们可能在中间成了是AI落地的拦路虎的故事。</p>
+<p class="transcript-line"><span class="time"><strong>[00:33:07]</strong> </span><span class="speaker"><strong>发言人3: </strong></span>就是我们当时进很多大的这种跨国公司的时候，我们第一要搏斗的实际上是IT里面的IT governance。就是他们的第一诉求是我怎么样能确保过程正义，确保我的数据安全性价比高，而且我觉得都没有错，但是他们把这个列为第一优先级。</p>
+<p class="transcript-line"><span class="time"><strong>[00:33:26]</strong> </span><span class="speaker"><strong>发言人2: </strong></span>华熙生物的董事长在我们一个AI工作坊里面，他在内部说说，如果你做AI提效做什么？50%的提效你就不要做了，你就做三倍、五倍、十倍的事儿。如果你仔细摊开你的业务，想想无穷无尽的智力生产力，你应该总能找到不是一个可能是若干个能够重构你的整个商业模式，或者再退一步，至少重构你整个做事的工作流程的这样的事情。这样的事情给你的提升应该是不说100倍，应该是几十倍或者几倍的提升。</p>
+<p class="transcript-line"><span class="time"><strong>[00:34:03]</strong> </span><span class="speaker"><strong>发言人3: </strong></span>有这样的案例吗？我举个例子，我们曾经帮个租房子，就是租房平台都有一个角色叫做管家。管家就是管所有的租房的人的大小的事情，就是什么邻居家狗吵架，就是叫什么什么这个邻居妈妈又来，带男朋友进来，空调漏水，就各种各样的事情。但实际上我们进去的时候，他们想象中就是AI能不能帮我的每个人回复的更快等等之类的。</p>
+<p class="transcript-line"><span class="time"><strong>[00:34:29]</strong> </span><span class="speaker"><strong>发言人3: </strong></span>但实际上当我们进去的时候，我们发现他们在业务上有两个巨大的痛点。本身城镇化率足够的情况下，租房它这个业务本身是在下降的。所以他应该卖更多的服务，什么家政保洁，什么宠物上门喂养，各种各样的服务。但是实际上就管家这个角色被日常的所有的琐事困住了。就是每天要回复大量的在有情绪的问题，根本没有时间去去卖这些东西。</p>
+<p class="transcript-line"><span class="time"><strong>[00:34:56]</strong> </span><span class="speaker"><strong>发言人3: </strong></span>而我们进去之后，首先定义清楚鸡应该做什么人应该人应该做有温暖的，但就是更多的照顾人情绪的关怀，日常的这些所有的琐事应该由AI来负责来解决。基本上从那一年结束的时候是一对500到1对1200。今年我们的目标是一个人能对2000个人，但这一个人实际上他的日常的工作是变少了，而他更多的精力会放在比如说关怀等等。我们会用一个偏销售机会探查的智能体告诉他说，你看到了这家的租客家里有猫，然后他跟你说这几天要出差，这时候有个机会你应该给他卖宠物，上门喂养以及什么什么。</p>
+<p class="transcript-line"><span class="time"><strong>[00:35:37]</strong> </span><span class="speaker"><strong>发言人2: </strong></span>这什么猫猫什么之类的。</p>
+<p class="transcript-line"><span class="time"><strong>[00:35:39]</strong> </span><span class="speaker"><strong>发言人3: </strong></span>所以基本上我们在改变它的整个商业结构和这个商业的目标。</p>
+<p class="transcript-line"><span class="time"><strong>[00:35:44]</strong> </span><span class="speaker"><strong>发言人2: </strong></span>这个部门其实没有裁员，他只是用人做更多主动关怀。所以他的服务质量提升了他的好感度，提升了他的续约率，提升了，他的服务售卖提升。所以我们不觉得AI进场应该是个降本的事。</p>
+<p class="transcript-line"><span class="time"><strong>[00:35:59]</strong> </span><span class="speaker"><strong>发言人2: </strong></span>第二个这个负责人说说发现我们的好员工的标准变了。原来好员工叫做打字快记得准的人，现在好员工的标准是那种特别能提供情绪价值，姐这个哥哥，姐姐你不用急，我来问。就这种好员工，这种才是好员工。因为所有的琐碎的事情，反正内容书写、查资料AI都可以做。但是让人开心起来，让人放松下来是人才可以做的事情，很有意思。</p>
+<p class="transcript-line"><span class="time"><strong>[00:36:26]</strong> </span><span class="speaker"><strong>发言人1: </strong></span>之前阿甘说这个咨询的销售的本质是给董事长和CEO做心理咨询。然后销售能不能成功，往往第一次见面就知道了。这可以展开讲一下吗？</p>
+<p class="transcript-line"><span class="time"><strong>[00:36:37]</strong> </span><span class="speaker"><strong>发言人3: </strong></span>我觉得在传统咨询的时候，其实是面对职业经理人对吧？职业经理人他有上升有下降的时候。在不同的时期，在掌舵整个公司的时候，他需要大量的外部的一些信息也好，资讯也好。给他更多的对于公司管理的疏解。</p>
+<p class="transcript-line"><span class="time"><strong>[00:36:56]</strong> </span><span class="speaker"><strong>发言人3: </strong></span>还有一部分所谓的心理咨询，其实来自于一个比较本质的东西。管理的本质是对激发善意的释放。我觉得在这个时代，尤其是AI能够这么成倍的做一件事情的时候。如果你的发心是管理、是约束、是限制，它的能量是十倍。如果你的发心是赋能、是善意，是让每个人更好的成长。</p>
+<p class="transcript-line"><span class="time"><strong>[00:37:22]</strong> </span><span class="speaker"><strong>发言人2: </strong></span>每个人都挣到更多钱。</p>
+<p class="transcript-line"><span class="time"><strong>[00:37:24]</strong> </span><span class="speaker"><strong>发言人3: </strong></span>再让每个人挣到更多钱，他有可能也是十倍。我们自己本身比较相信赋能一线这件事情在将来一定能成。因为如果你是控制的话，那你全部换成机器人好了，其实一定比人做的更好，对吧？那在这过程中，我们可能会和所有我们合作的这些CEO去碰，说你自己本身想要赋能的发现在哪里，善意在哪里。你希望看到他们怎么样的成长。于是我们会把这个落进比如说副店长或者是某种的智能体里面去。我觉得这可能也是某种的心理辅导。</p>
+<p class="transcript-line"><span class="time"><strong>[00:37:53]</strong> </span><span class="speaker"><strong>发言人3: </strong></span>然后还有就是大量的心理辅导来自于对于下面的员工，我们告诉他说这件事不是为了替代你就是这件事情的核心来自于本身。时代就变，被消失的不是你，而是那个落后的岗位。那岗位已经不存在了。你不应该再在那个落后的岗位里面去寻求一个更好的发展，而是看看有些什么样新的岗位会发生，而且哪些是更匹配。你就这种的心理辅导现在变得比给CEO的心理辅导的工作量大得多。</p>
+<p class="transcript-line"><span class="time"><strong>[00:38:23]</strong> </span><span class="speaker"><strong>发言人1: </strong></span>什么样的岗位会消失？在你们看来所有。</p>
+<p class="transcript-line"><span class="time"><strong>[00:38:26]</strong> </span><span class="speaker"><strong>发言人3: </strong></span>管理层如果他做的唯一事情叫做信息传递，上传下达，这岗位就应该消失挺多的。</p>
+<p class="transcript-line"><span class="time"><strong>[00:38:32]</strong> </span><span class="speaker"><strong>发言人2: </strong></span>就你想一个销售网络，123四五级，从总部到沈总到分区到小片区，中间可能有2到3层。就是只做上传下达的。</p>
+<p class="transcript-line"><span class="time"><strong>[00:38:42]</strong> </span><span class="speaker"><strong>发言人1: </strong></span>但上传下达为什么在AI时代被消失了？因为在过去我通过数字化，通过SOP，也能够让上传下达不需要中间。因为上传下达。</p>
+<p class="transcript-line"><span class="time"><strong>[00:38:52]</strong> </span><span class="speaker"><strong>发言人2: </strong></span>其实有几个工作，第一叫做信息清理的工作，比如说你问一个一线的店员。然后是一线的销售人员，你今天见的客户好不好？销售人员给你的不是一个结构化的报告。销售人员说这个客户太傻了，我怎么怎么卖，他也不听我的你得到是一个这样的故事，而到这一层你得把它结构化，然后能够把它降维，然后往上传，这是第一个他要做的事情。</p>
+<p class="transcript-line"><span class="time"><strong>[00:39:18]</strong> </span><span class="speaker"><strong>发言人2: </strong></span>第二个要做的事情是我接收的不是一个销售的信息，我觉得是100个销售的信息。所以我们每一层要把它汇总，把它聚合，对吧？聚合过程当然也会带很多我的个人观察和视角进去。我去是OK的但得有这么一个人，否则就会是1万个销售，1万个信息直接到董事长面前。其实他们这个。</p>
+<p class="transcript-line"><span class="time"><strong>[00:39:41]</strong> </span><span class="speaker"><strong>发言人1: </strong></span>上传下达不只是一个信息通道，它还是是有治理工作的信息采集和报告？那现在确实AI可以做得更好，是非常是所以一个是这样的岗位会消失，还有什么岗位会消失吗？</p>
+<p class="transcript-line"><span class="time"><strong>[00:39:53]</strong> </span><span class="speaker"><strong>发言人3: </strong></span>原来靠大量的执行力，就是打字快、记忆力足，不够好的类似这种的工种，其实确实会比较困难，尤其是靠智力劳动执行性的那些工作者，他应该做一些改变。要么他自己本身能够驾驭这些agent，要不然他自己本身在自己的岗位上沉淀了某种奇怪的大模型，根本学不到的专家智慧或者街头智慧。能够成为贡献街头智慧的这些。</p>
+<p class="transcript-line"><span class="time"><strong>[00:40:23]</strong> </span><span class="speaker"><strong>发言人2: </strong></span>我们觉得可能不是今年、明年。但是更长的时间人类会逐渐的很少做智力劳动。我们会从智力劳动的时代变成智力决策劳动的时代。于是你会更多的是告诉AI说我要去哪个方向，这个方案行不行？我只给你多少钱的那个那个规划，我只给你多少时间。所以我做的都是决策，叫行还是不行，去哪里？我不再做智力劳动本身，我不再写方案，我不再画设计图，我不再设计功能，我不再写代码，我不再做这些事情。我觉得可能大方向是往那。</p>
+<p class="transcript-line"><span class="time"><strong>[00:41:00]</strong> </span><span class="speaker"><strong>发言人1: </strong></span>确定你们有不喜欢的客户吗？就比如说来找你们都是希望AF他的企业对吧？但有没有什么客户，你一看就肯定不能不成，这个单子再大我们都不接。你们这样的客户大概是什么样的特点，以及你们去过的最大的担有多大。</p>
+<p class="transcript-line"><span class="time"><strong>[00:41:15]</strong> </span><span class="speaker"><strong>发言人3: </strong></span>喜欢不喜欢来自于匹不匹配，对吧？就是我们的目标是帮客户build business，如果他想买的东西不是这个东西，那OK不管你多大单子我可能不会接。我们其实所谓说不喜欢的都来自于他本身自己内部的决策非常的冗长，对吧？</p>
+<p class="transcript-line"><span class="time"><strong>[00:41:33]</strong> </span><span class="speaker"><strong>发言人3: </strong></span>我们现在其实很简单，我们跟客户的一把手直接聊，可能大概三次之内，我们基本上能够达成一个合作的意向。因为大家也非常直接，对吧？我能提供的价值不是说帮你做个软件，而是我帮你重新去看你的business。你的诉求也很直接。你有三个最头疼的事情，晚上睡不着觉，我挑一个能帮你用某种方式某种逻辑解决你任何这种方式我们就可以合作，对吧？这个是我们喜欢的，不喜欢的就是来来回回就是决策链特别麻烦。</p>
+<p class="transcript-line"><span class="time"><strong>[00:42:09]</strong> </span><span class="speaker"><strong>发言人2: </strong></span>我觉得可能去的比较多的是买软件的这种，不管是IT部门发起的，还是甚至董事长或者说所有者，他也会觉得说我不想改业务，我就是想买个软件，买个软件提一下效，不是说不对，就是我们不提供这样的服务。</p>
+<p class="transcript-line"><span class="time"><strong>[00:42:26]</strong> </span><span class="speaker"><strong>发言人3: </strong></span>对，最大的单我们反正今年年初我们应该去过几个668 800万之类的。</p>
+<p class="transcript-line"><span class="time"><strong>[00:42:35]</strong> </span><span class="speaker"><strong>发言人1: </strong></span>现在也是买软件吗？现在软件能卖那么贵吗？</p>
+<p class="transcript-line"><span class="time"><strong>[00:42:37]</strong> </span><span class="speaker"><strong>发言人3: </strong></span>这软件加这种所谓的定制化服务但我们就问一个问题，就是他到底最终业务目标是什么？就是来来回回没有人讲的清楚。我们觉得这种项目我们进去他验收不了。</p>
+<p class="transcript-line"><span class="time"><strong>[00:42:51]</strong> </span><span class="speaker"><strong>发言人1: </strong></span>最后可能也会很麻烦。</p>
+<p class="transcript-line"><span class="time"><strong>[00:42:52]</strong> </span><span class="speaker"><strong>发言人3: </strong></span>肯定很麻烦。</p>
+<p class="transcript-line"><span class="time"><strong>[00:42:53]</strong> </span><span class="speaker"><strong>发言人1: </strong></span>可以理解，就没有责任人，目标是移动的对吧？</p>
+<p class="transcript-line"><span class="time"><strong>[00:42:56]</strong> </span><span class="speaker"><strong>发言人3: </strong></span>这种最可怕了，非常恐怖。</p>
+<p class="transcript-line"><span class="time"><strong>[00:42:58]</strong> </span><span class="speaker"><strong>发言人1: </strong></span>对，其实找对象也是exactly。咱们刚才提到这个公司目前60个人，就你们是一个怎么样的组织结构，以及他们是一个怎么样的工作方式。</p>
+<p class="transcript-line"><span class="time"><strong>[00:43:07]</strong> </span><span class="speaker"><strong>发言人3: </strong></span>我们本身其实非常扁平，我们自己两个也是日常该写代码，该做项目事情也做项目的事情。只是他们每个个体就有点像海豹突击队，他们是基于某一个目标临时组队的，我们会非常鼓励他们在一线，因为FD本身也需要在一线，是真正在门店里面。</p>
+<p class="transcript-line"><span class="time"><strong>[00:43:29]</strong> </span><span class="speaker"><strong>发言人1: </strong></span>所以今天如果一个大学生他毕业了想去做咨询，他仍然是有进MBB的选择，对吧？但他其实也有来到跟AI native的，像类似二位这样的做FDE的公司的选择。你会给他们什么建议吗？就是一定选你们吗？</p>
+<p class="transcript-line"><span class="time"><strong>[00:43:48]</strong> </span><span class="speaker"><strong>发言人3: </strong></span>我我我其实反而会建议他们去更大的平台培养自己的商业sense和judgment。我觉得这件事情还挺重要的。</p>
+<p class="transcript-line"><span class="time"><strong>[00:44:00]</strong> </span><span class="speaker"><strong>发言人2: </strong></span>我先讲个故事，就是那天我们在面试的时候，打个广告，喜欢我们公司的可以来来应聘，非常优秀的应聘者，然后基本上已经通过了。然后问我说说凯哥，我到这个公司来，我特别想知道如果上岗我会需要我能为公司提供什么价值，我怎么放大我的价值？我很坦诚的说，我说你刚毕业他是个毕业生，你刚毕业我想不到任何你能做的事情，AI做不了的。他说那怎么办？我说我当时有个馊主意，叫做要不前两年你付我钱，后面几年我再翻倍的付你钱再付回去，这是个玩笑。</p>
+<p class="transcript-line"><span class="time"><strong>[00:44:41]</strong> </span><span class="speaker"><strong>发言人2: </strong></span>但确实今天的所有的纯桌面研究型的咨询，或者从这种paperwork的咨询，年轻的咨询师能够经受的培养或者能够上岗做的事情已经非常少了。我们也很担心这个行业形成断层。但就从另外一个方面讲，我们一直在讲说我们喜欢的人是那些有商业善事的人。我们也讲了，我们发现商业膳食这件事，反正我个人没有找到一个培养的方式，我觉得有些东西是天生的。我们发现有的家里是做小生意的，家里是二代。有的可能是完全没有背景，他就很喜欢观察，他的观察能力就很强。我们会发现这样的年轻人，其实他比中老年的咨询师是同样好用的，甚至更好用。因为它更开放，更好奇。</p>
+<p class="transcript-line"><span class="time"><strong>[00:45:31]</strong> </span><span class="speaker"><strong>发言人2: </strong></span>这个问题答案非常两面。一方面我看到年轻人进咨询行业会带来很大的挑战，跟原来很不一样。但另外一方面我会发现年轻人如果你具备某些特质，你上岗的第一天，你的能力跟中年咨询师就是一模一样的。因为他会写的东西，你跟你的也会写，不用担心这件事儿。</p>
+<p class="transcript-line"><span class="time"><strong>[00:45:54]</strong> </span><span class="speaker"><strong>发言人3: </strong></span>他现在年龄反而不是一个非常重要的。去看一个东西的这个标准，就你有没有judgment，你对于事情有没有做了好奇心，你是不是problem，你看到问题兴不兴奋？就是有些人看到问题就头就垂下来，有些人看到问题眼睛就发光，那个感觉是特别不一样。这个和年龄没有关系。我们最小的实习生也是应该是高中，高二的。我丝毫不觉得他从老练程度和阶梯方式上输过任何一个平庸的五年左右经验的咨询师。所以我觉得这是一个特别神奇的时代，就是年龄和资历开始变得越来越不重要。</p>
+<p class="transcript-line"><span class="time"><strong>[00:46:34]</strong> </span><span class="speaker"><strong>发言人2: </strong></span>思维方式很重要，个性很重要。但我我我确实没有找到特别好的培养路径。Yes, 也是我们在摸索的。</p>
+<p class="transcript-line"><span class="time"><strong>[00:46:43]</strong> </span><span class="speaker"><strong>发言人3: </strong></span>其实我们今天。</p>
+<p class="transcript-line"><span class="time"><strong>[00:46:44]</strong> </span><span class="speaker"><strong>发言人1: </strong></span>聊这期播客还是因为起点来自OpenAI anthropic他们不约而同提出FDE这个概念，然后都成立了很大规模的合资公司，甚至有一些收购，在你们看来为什么就突然发生了这个事情，以及他们做这个事情背后的动力是他们看到了什么？</p>
+<p class="transcript-line"><span class="time"><strong>[00:47:03]</strong> </span><span class="speaker"><strong>发言人3: </strong></span>他们就公寓的数据毕竟是有限，对吧？就是当一个大模型想要真正进入到某一个行业里面的时候，他们应该是看到了所谓数据的短板或者行业知识的短板。那么anthropic他去训练各种东西，请每个专家可能时薪都上万等等之类的。所以与其一个个专家请，还不如直接深入到行业里面去解题，这是第一个。然后第二个是to b这件事情，它就不是一个单独软件能够完成的事情，它本质上是一个服务业。</p>
+<p class="transcript-line"><span class="time"><strong>[00:47:34]</strong> </span><span class="speaker"><strong>发言人2: </strong></span>如果大模型企业是要改变今天的所有政府组织和企业，他真正主力不来自于说我接不上模型，来自于模式、来自于工作流程，来自于组织人才等等的。这个时候需要一些又懂AI又愿意加入AI的服务者进入这些行业，才能改变这个世界。</p>
+<p class="transcript-line"><span class="time"><strong>[00:47:57]</strong> </span><span class="speaker"><strong>发言人3: </strong></span>特别有趣的是因为他们合资公司全部都是P1。我觉得他们还看到了一个机会在于大模型对于这些行业的改造，它最终能够获得的收益不仅仅只是一个token赚来的钱。他能够帮这个企业能够拿到的那个upset就多的那部分收益是非常大的。</p>
+<p class="transcript-line"><span class="time"><strong>[00:48:17]</strong> </span><span class="speaker"><strong>发言人2: </strong></span>有的人会觉得我们服务费一年的陪跑是600万，有的人觉得贵，有的人觉得很便宜，尤其是我们背后的一些和我们合作的投资人会觉得说你们真的做到了帮企业省几千万，甚至多赚几千万，但你就是收600万，为什么？因为我收不到那个upset，对吧？那我只有和一些PE一起入场，去改变他的投后企业的服务模式、商业模式，我才能收到资本的那部分钱。所以本质上我觉得每一个PE或者VC自己的投后部门都要有或者甚至改组成一个AI赋能的这么服务中心。因为未来我们能见到的10到15年最大的企业增长的这个enabled或者赋能器就是。</p>
+<p class="transcript-line"><span class="time"><strong>[00:49:05]</strong> </span><span class="speaker"><strong>发言人1: </strong></span>模就是AI，所以你们觉得这个FDE公司值得被VC投吗？</p>
+<p class="transcript-line"><span class="time"><strong>[00:49:10]</strong> </span><span class="speaker"><strong>发言人2: </strong></span>它不仅仅值得被VC投，它甚至值得被VC拥有。VC也好，P也好。他的投后部门的一个核心能力，将会变成帮助被投企业做AI模式转型。</p>
+<p class="transcript-line"><span class="time"><strong>[00:49:24]</strong> </span><span class="speaker"><strong>发言人2: </strong></span>就拿我们说零售，零售本质上大家就在比两件事情，比数字化就是AI和信息化，在比供应链对吧？如果我的投后服务是帮你一家已经有100家店，或者1000家店要扩展到1万家店。我的核心除了给你钱以外，我的核心能力就是把供应链和AI做好。帮我做供应链和AI的服务团队或者公司，不应该为我的竞争对手服务，这是我的观点。就是我甚至觉得每个VC和PE都应该有自己的独占的服务。就简单说这个问题叫做他应开投，但是他不应该把这样一家公司当成被投企业，他应该把它当成自己的一部分去服务那些被投企业。</p>
+<p class="transcript-line"><span class="time"><strong>[00:50:09]</strong> </span><span class="speaker"><strong>发言人3: </strong></span>欢迎各个PE来聊我们公司的事情。</p>
+<p class="transcript-line"><span class="time"><strong>[00:50:13]</strong> </span><span class="speaker"><strong>发言人2: </strong></span>我们可能跟每一个领域的PE或者VC也只能做一家。对，因为所有的连锁餐饮是打架的，所有的连锁的茶饮是打架的，所有的咖啡是打架的，所有的零食店是打架的。我们服务了一家，一定不能再服务另外一家。</p>
+<p class="transcript-line"><span class="time"><strong>[00:50:30]</strong> </span><span class="speaker"><strong>发言人1: </strong></span>但这个和MBB有什么区别呢？我们也其实也可以说一个VC1个PE，你没没必要去投MBB对吧？但你可以拥有它去赋能你的企业，这有什么区别吗？</p>
+<p class="transcript-line"><span class="time"><strong>[00:50:41]</strong> </span><span class="speaker"><strong>发言人3: </strong></span>我们在那个戏的时候，其实我们服务很多P就是我们在服务他的被投企业，我们去帮他做战略，做增长等等之类。</p>
+<p class="transcript-line"><span class="time"><strong>[00:50:48]</strong> </span><span class="speaker"><strong>发言人2: </strong></span>的代码西之类的。大马西是我们最大的客户。</p>
+<p class="transcript-line"><span class="time"><strong>[00:50:50]</strong> </span><span class="speaker"><strong>发言人3: </strong></span>对，就当时最大的客户。</p>
+<p class="transcript-line"><span class="time"><strong>[00:50:52]</strong> </span><span class="speaker"><strong>发言人2: </strong></span>我觉得可能来自于因为AI带来了我们觉得的战略的规划能不能落到一线的信心改变了。这个可能不是我们跟MMBB的比是今天的所有的咨询公司，如果愿意做落地的和之前的对比。之前你只能产生一些规划，你只能对上上中层对吧？你也没有能力请到每一个店长和每个销售的身边去帮助他。今天有了AI你可以做到这件事儿，至少我们可以拍着胸脯说，我一定能跟你的业务带来upset。所以我有信心跟你对赌这件事儿，我相信现在MBB也在考虑这件事情，对吧？就是如果我能给你业绩带来真实的增长，我就不再满足于收你哪怕是一天1万美元的咨询费了，对吧？</p>
+<p class="transcript-line"><span class="time"><strong>[00:51:38]</strong> </span><span class="speaker"><strong>发言人1: </strong></span>暗含着好像MPP带来的增长没有那么的扎实。</p>
+<p class="transcript-line"><span class="time"><strong>[00:51:42]</strong> </span><span class="speaker"><strong>发言人2: </strong></span>是PPT的增长就很有限，对吧？当你把PPT转成每天在一线服务的智能体和工具的时候，它一定会被扎实。MBB做也会变杂志。</p>
+<p class="transcript-line"><span class="time"><strong>[00:51:54]</strong> </span><span class="speaker"><strong>发言人1: </strong></span>有趣就是这个想到result as a service，就我才是服务OK，MBB出现之后，虽然这个咨询行业也有很多的公司百花齐放，但是再也没有像他们那么大规模的公司出现了。其实也想听你们讲一讲，为什么只有这三家公司，为什么后面来的这些百花齐放的小咨询公司就是长不大。然后第二就是你们认为AI时代会出现新的笔尖MBB从规模层面这样的新的咨询公司吗？</p>
+<p class="transcript-line"><span class="time"><strong>[00:52:27]</strong> </span><span class="speaker"><strong>发言人3: </strong></span>其实上个时代还是有很多咨询公司的细分的，像HR的M，像IT的SN等等。它的规模其实也不小，就是全年大概也是三四百亿美金左右的这个规模。我觉得其实我们谈到MBB核心在谈管理咨询，但咨询这个行业有管理咨询，有IT咨询，有HR咨询，有各种各样的不同的咨询方式。我觉得MBE它最核心的还是在于它解决的问题是CEO的核心问题。它最靠近不管是收入的核心还是权力的核心。而且之所以MBB能够成为MBB，在于他们自己对于很多结果还是有要求的。对我觉得这种要求是他们跟别人我觉得特别大的不一样。</p>
+<p class="transcript-line"><span class="time"><strong>[00:53:13]</strong> </span><span class="speaker"><strong>发言人2: </strong></span>我觉得在中国管理咨询的最好的时代还没来，那未必是对企业最好的时代。就是我觉得对管理咨询最好的时代，叫做所有的企业都非常标准化、规范化，所有的掌舵人都是职业经理人。因为企业的owner对管理咨询的要求和职业经理人对管理咨询的要求是完全不一样的我觉得那个时代还没来，可能还要再过30年。但是就也就意味着在中国我相信要么MBP会做大，要么一些中国的优秀的咨询公司会做的MPP这么大。</p>
+<p class="transcript-line"><span class="time"><strong>[00:53:47]</strong> </span><span class="speaker"><strong>发言人2: </strong></span>但回过头来，我们经常说我们是个AI咨询公司。有很多投资人会说，那那你也不算咨询，对吧？你肯定也不算SARS，叫你们SARS好像有点侮辱人，现在叫谁好像都有点侮辱人的意思。他说你们更像什么？你们更像service as software，就你们确实交付software are，但你们提供的本质核心是一个service，只是大家看上去说你们在这家企业做了什么，做了好多设备，是怎么解决问题。</p>
+<p class="transcript-line"><span class="time"><strong>[00:54:18]</strong> </span><span class="speaker"><strong>发言人2: </strong></span>那最终上了什么呢？上了一个AI智能体上的一个AI副店长上的一个AI销售，对吧？那不是个soft吗？不是，所以我们是service as software OK。好。</p>
+<p class="transcript-line"><span class="time"><strong>[00:54:28]</strong> </span><span class="speaker"><strong>发言人1: </strong></span>今天非常有意思，谢谢二位。因为我们过去聊很多都是这个模型的进步，然后有哪些创业的机会，有哪些AI的application，把AI的info。但今天我们很难得的聊了一下，就AI落到真实的商业场景里面，大家到底在做什么？而且我们看到其实已经有很多在中国的企业的一线的实践和成果了。也是GFD这个词儿。我们今天有了这一期播客，希望未来我们可以有更多的机会聊更多的案例。也让大家看到就在企业，在各行各业，怎么能够让AI发挥更大的光与热。好，谢谢老师。</p>
+<p class="transcript-line"><span class="time"><strong>[00:55:05]</strong> </span><span class="speaker"><strong>发言人3: </strong></span>谢谢谢谢谢谢谢谢谢谢。</p>]]></content:encoded>
+            <pubDate>Wed, 03 Jun 2026 16:00:00 GMT</pubDate>
+            <guid>6a1e4022ac7bdb080c348b41</guid>
+        </item>
+        <item>
+            <title>2026 AI 游戏全景扫描：四层图景、三大误区、一个共识缺口｜对谈 405 游局筱宁</title>
             <link>https://www.xiaoyuzhoufm.com/episode/6a11a57c8b5c94538e98794d</link>
             <description>🚥 「AI+互动娱乐 / AI+游戏」正处在一个奇妙的阶段：碎片化的 Demo 层出不穷、技术进步快到让人恍惚——AI 生成小游戏、交互短内容、AI NPC、世界模型、实时多模态——但真正能在大众层面形成共识的爆款作品仍然稀缺。
-本期「十字路口」和关注 AI 互动内容与游戏的播客「405游局」串台，邀请到主播 / 资深游戏从业者刘筱宁，一起做一次 2026 年 AI 游戏的“全景扫描”：我们把行业拆成“四层图景”，指出三种最常见的误区，并讨论那个最关键的共识缺口到底是什么——以及它为什么更可能从野生土壤里长出来，而不是从大厂里“立项做出来”。
+本期「十字路口」和关注 AI 互动内容与游戏的播客「405游局」串台，邀请到主播 / 资深游戏从业者筱宁，一起做一次 2026 年 AI 游戏的“全景扫描”：我们把行业拆成“四层图景”，指出三种最常见的误区，并讨论那个最关键的共识缺口到底是什么——以及它为什么更可能从野生土壤里长出来，而不是从大厂里“立项做出来”。
 如果你是 AI 创业者、投资人，或正在关注下一代内容平台、互动娱乐与 AI 游戏，这期节目希望能给你一个框架：哪些确定了？哪些还在幻觉里？下一阶段最值得跟踪的变量在哪里？
 🎬 我们的视频播客已同步上线于 @Koji杨远骋 的视频号、抖音、小红书、哔哩哔哩、Youtube 等平台。
 📒 文字版已发布于 @十字路口Crossing 公众号。
@@ -8469,267 +8792,6 @@ Creekstone Venture 期待陪伴 AI 创业者，一起探究认知内核，把宏
 <p class="transcript-line"><span class="time"><strong>[01:42:19]</strong> </span><span class="speaker"><strong>发言人1: </strong></span>如果你认为有朋友也会喜欢本期十字路口的内容，请转发微信推荐给他们。最后欢迎你加入十字路口的会员群，我们鼓励大家在群里聊天互动，交朋友，寻找未来的同路人。</p>]]></content:encoded>
             <pubDate>Sun, 23 Nov 2025 16:00:00 GMT</pubDate>
             <guid>6920398d6018cc2c98f11625</guid>
-        </item>
-        <item>
-            <title>他看到了什么？| 对谈张帆：前智谱COO，元理智能创始人/CEO ——为何笃信 AI 的机会在 ToB？</title>
-            <link>https://www.xiaoyuzhoufm.com/episode/691952ddcbba038b42bd9077</link>
-            <description>中国的创业者和 VC 对 toB 普遍感到“生理性恐惧”，但是本周「十字路口」的嘉宾张帆却选择逆流而上。
-张帆曾是大模型公司智谱 AI 的 COO，最近他选择离开智谱，获得蓝驰创投的 800 万美金天使投资、创办「元理智能」，开始了 toB 企业服务作为创业方向，致力于通过商业强化学习，为企业提供能真正创造业务价值的数字员工。
-张帆曾为第一次创业「妙计旅行」交过数千万美金的学费，也曾在智谱 AI 服务过上千家企业客户。在他看来，今天的 ToC 创业是与巨头进行的一场“不对称战争”，而 ToB 则因 AI 的出现迎来了全新的机遇。
-在本期播客中，张帆和我们分享了他作为一个站在中国大模型浪潮最前沿的亲历者的故事。
-你会听到他在投身 AI 之前，作为“妙计旅行”创始人的热血与遗憾：如何在5年间融资数千万美金，却最终因不理解产业的本质而“交了学费”；也会听到他在智谱 AI 做 COO 期间，如何带着团队疯狂地服务了上千家客户，看到了中国企业拥抱 AI 的渴望与迷茫，并最终坚定了他再次创业、投身 ToB 的决心。
-希望这些内容对你能够有所启发，提供不一样的视角。
-🎬 我们的视频播客来啦！将随后上线于 @Koji杨远骋 的视频号、小红书、哔哩哔哩、Youtube 等平台
-📒 文字版将随后发布于 @十字路口Crossing 公众号
-🟢 00:01:01 反共识：为什么说 ToC 是“一场不对称的战争”？
-“我总在想今天的反共识是什么？今天大家对于创业的共识，反而让我们觉得有点担心。”
-* 为什么说不能再用互联网时代的“旧地图”，去寻找 AI 时代的“新大陆”？
-* 一个体验再好的 AI 旅游 Agent，为何在携程这样的巨头面前不堪一击？
-* 体验的优势一年就能被追上，但供应链和运营体系的壁垒可能需要十年。
-* 在“线上也满了”的今天，创业公司建立有效壁垒的真正难点在哪？
-🟢 00:05:27 交了几千万美金“学费”后，我学到了什么？
-“当你把注意力从外部的 reward model (融资、媒体) 转回到业务上的 reward model (留存、满意度)，你看到的东西会很不一样。”
-* 第一次创业「妙计旅行」：一个技术上完美、但商业上失败的 AI 旅游项目。
-* “错误的 Reward Model”：VC 追捧、媒体热炒，为何这些“正反馈”是创业者最危险的错觉？
-* 核心教训：旅游的本质是供应链问题，不是产品问题。不能被交付的“高级信息”毫无价值。
-* 趋势的力量：为什么在 2014 年轻松融到千万美金，而在 2022 年，能力强了 10 倍、准备更充分时，融资反而更难了？
-🟢 00:21:02 在智谱的感悟
-人类过去 5000 年脑容量没变，生产力却增长了 1000 倍。靠的是什么？教育、分工、工具和协作。这正是 AI 下一步的方向。
-* 离开智谱 COO 职位的真正原因：这不是勇敢，而是看到了 AI 下半场的确定性机会。
-* 一天 7 个客户会，两年服务上千家企业，看到了市场怎样的混乱与渴望？
-* 基座模型的智能已从 60 分进化到 110 分，抵达“临界点”。继续提升 IQ 的价值在递减。
-* 新的使命：为 AI 构建“社会形态”，成为一家“模型的培训机构”，把聪明的通用模型变成专业的“工种”。
-🟢 00:37:24 新旧世界的分野：AI 是同事，SaaS 是零和博弈
-中国企业愿意为生产力结果 (人力外包) 买单，而不愿意为过程 (软件工具) 买单。AI 真正的对标的不是软件市场，而是劳动力市场。
-* SaaS 在中国为何跑不通？当“转化能力”被视为固定成本时，SaaS 就成了与员工的零和博弈，而员工是必选项。
-* AI 的颠覆性在于，它直接作用于“转化能力”本身，是与老板的“正和博弈”。
-* 别再用旧坐标系看待 AI：模型的“幻觉”不是 Bug，是特性；就像人也有幻觉，关键在于如何驾驭。
-* CEO 必修课：理解“模型性” (Model-Nature)，就像理解人性一样，这是业务问题，不是技术问题。
-🟢 01:09:15 生存法则：造轮船，而非灯塔
-基座模型是不断上涨的大海，在上面建“灯塔” (应用)，很快就会被淹没；你真正要做的是造一艘能随之上涨的“轮船” (业务壁垒)。
-* 创业公司如何造出自己的“轮船”？答案是“50% 模型含量”法则。
-* 为什么 Notion 能乘风破浪，而 Jasper 却快速陨落？
-* 最大的误区：“我有很多数据”。数据本身不是护城河，能够持续产生数据的“业务场景”才是。你要的是一块田，而不是一堆庄稼。
-* 个体最佳实践 vs 行业最佳实践：为什么垂类 Agent 只是妥协，而为每个企业找到自己的最优解才是未来？
-🟢 01:23:56 最后的 300 万美金，会投给谁？
-* 一个出人意料的选择：为什么他会把钱投给一家低调的公司——Thinking Machines Lab？
-欢迎订阅「十字路口」：
-🚦 我们关注新一代 AI 技术浪潮带来的行业新变化和创业新机会。
-🚦 十字路口是乔布斯对苹果公司的一个比喻，形容它站在科技与人文的十字路口，伟大的产品往往诞生在这里。AI 正在给各行各业带来改变，我们寻找、访谈和凝聚新一代 AI 创业者和 AI 时代的积极行动者，和他们一起，探索和拥抱新变化，新的可能性。
-👦🏻 主播 Koji：我创办了十字路口，发起了 AI Hacker House 这个新一代 AI 创业者的社群空间，在真格基金担任 Venture Partner（投资合伙人）。我相信科技尤其是 AI 是我们这一代人最大的价值创造机遇。Koji 的即刻，Koji 的网站
-👧🏻 主播 Ronghui：我联合创办了十字路口，在美元 VC 工作过，也做过五年的硅谷驻站记者，关注科技发展和商业故事，欢迎大家找我聊天，和我交流。Ronghui 的即刻</description>
-            <content:encoded><![CDATA[<p class="transcript-line"><span class="time"><strong>[00:00:03]</strong> </span><span class="speaker"><strong>发言人1: </strong></span>欢迎收听十字路口，我们关注新一代AI技术浪潮带来的行业新变化和创业新机会。十字路口是乔布斯对苹果公司的一个比喻，形容他站在科技与人文的十字路口，伟大的产品往往诞生在这里。AI正在给各行各业带来改变。我们寻找访谈和凝聚新一代AI创业者和AI时代的积极行动者，和他们一起探索和拥抱新变化新的可能性。</p>
-<p class="transcript-line"><span class="time"><strong>[00:00:33]</strong> </span><span class="speaker"><strong>发言人2: </strong></span>中国的。</p>
-<p class="transcript-line"><span class="time"><strong>[00:00:33]</strong> </span><span class="speaker"><strong>发言人1: </strong></span>创业者和VC说到to b都是有一种生理性的恐惧，但今天我们的嘉宾却选择逆流而上。张帆之前是质朴的COO，然后最近选择创业，选择了做to b企业服务这个赛道。所以今天很开心请到你来做客十字路口。</p>
-<p class="transcript-line"><span class="time"><strong>[00:00:53]</strong> </span><span class="speaker"><strong>发言人2: </strong></span>好，谢谢谢谢谢谢科技。</p>
-<p class="transcript-line"><span class="time"><strong>[00:00:55]</strong> </span><span class="speaker"><strong>发言人1: </strong></span>所以我们第一个问题就是想问你，是什么原因让你那么的勇敢敢去做。</p>
-<p class="transcript-line"><span class="time"><strong>[00:01:00]</strong> </span><span class="speaker"><strong>发言人2: </strong></span>to b我觉得我经常在思考，在今天这个时代下，到底反共识是什么？我觉得今天市场共识的让我们觉得有点担心。而历来我们所有的技术都是从一些反共识，包括商业模式都是从一些反共识开始的。所以我总在想今天的反共识是什么？确实今天大家有一个对于创业的共识，就是大家认为to c是更大的机会。</p>
-<p class="transcript-line"><span class="time"><strong>[00:01:26]</strong> </span><span class="speaker"><strong>发言人1: </strong></span>尤其是对中国创业者。</p>
-<p class="transcript-line"><span class="time"><strong>[00:01:27]</strong> </span><span class="speaker"><strong>发言人2: </strong></span>没错，to b是个更更难的机会，特别在中国的环境。像你所说，但是我觉得不倾向于直接得出这样的一个结论。如果我们我觉得这更多的这种结论来自于我们的归纳法。因为我们在互联网时代确实很多成功的都是在to c而to b其实收益并不是大家比起to c要差很多。所以但是我觉得如果我们从一些演绎法的角度来看，就是这两个时代我觉得是有一点不一样的。</p>
-<p class="transcript-line"><span class="time"><strong>[00:01:57]</strong> </span><span class="speaker"><strong>发言人1: </strong></span>你觉得互联网时代和AI时代不一样一样，或者sas时代和AI时代不一样。</p>
-<p class="transcript-line"><span class="time"><strong>[00:02:02]</strong> </span><span class="speaker"><strong>发言人2: </strong></span>还是要看环境和变量。在互联网时代有一个很不一样的点，就是我们当时的线下是完全，我们线下是已经完全构建起来了。但是其实线上是一个完全的空白。所以大家知道那个时候的点叫做这个模式创新。所以大家快速的跑马圈地，在跑马圈地里面快速构建自己的竞争壁垒。而这个在线上里面的竞争壁垒往往跟线下是不同的。比如说传统旅行社的供应链在携程的角度是没办法用的，而携程是有机会去构建全新的供应链的。所以有了相当长一段的缓冲期和一个战略纵深，让企业可以快速去奔跑。所以在那个时代我觉得C是很有机会的。</p>
-<p class="transcript-line"><span class="time"><strong>[00:02:45]</strong> </span><span class="speaker"><strong>发言人2: </strong></span>但今天其实一个反共识来讲，我觉得C其实是蛮难的。是因为我们觉得今天其实不但线下是满的，线上也是满的，并没有出现一个新设备。所以这个时候你发现原有在线上有效的一些壁垒，在AI时代它依然存在。比如说我今天可以非常容易做了一个非常高级的旅游的一个agent，我也非常有信心才能做一个非常好的体验。但是你想想，这是一场不对称的战争。如果OTA也就是比如携程这样的公司，他想追上你的体验，也许他只需要花一年。但是如果你要追上他的供应链和他的服务体系，你可能要十年。</p>
-<p class="transcript-line"><span class="time"><strong>[00:03:31]</strong> </span><span class="speaker"><strong>发言人1: </strong></span>其实冰山上的大家看到的这个界面只是一角，而支撑携程今天帝国的可能是冰山下的整个供应链体系和运营体系。</p>
-<p class="transcript-line"><span class="time"><strong>[00:03:39]</strong> </span><span class="speaker"><strong>发言人2: </strong></span>其实大多数的业务都是如此。所以在这样的一个背景下，我觉得做to c其实是一个很难建立高效的有效的一个壁垒。</p>
-<p class="transcript-line"><span class="time"><strong>[00:03:49]</strong> </span><span class="speaker"><strong>发言人1: </strong></span>的的情况。你的职业生涯里面，我们知道的是在质谱其实负责to b。但在更早之前你是不是也做过to c？</p>
-<p class="transcript-line"><span class="time"><strong>[00:03:56]</strong> </span><span class="speaker"><strong>发言人2: </strong></span>我记得是的，其实我是C跟B都做过的那我也简单介绍一下我自己的背景，我自己其实大家都会认为我在负责to b会认为我是一个业务负责人。其实我是个技术在只有在质朴的最近的两年我才开始去做业务。并且这其中当中也有一半的精力都是放在产研上的。</p>
-<p class="transcript-line"><span class="time"><strong>[00:04:16]</strong> </span><span class="speaker"><strong>发言人2: </strong></span>我是在巴黎大学读的书，巴黎十一大读的人工智能，然后当时还在法国国家科研中心做过一段时间的机器翻译。然后10年回国，回国之后我赶上了第一波AGI的浪潮。我当时是在搜狗和腾讯先后都是负责类siri的产品。</p>
-<p class="transcript-line"><span class="time"><strong>[00:04:34]</strong> </span><span class="speaker"><strong>发言人1: </strong></span>unit是siri发布之后，全世界也是为之疯狂，对吧？每个厂都在做自己的siri.</p>
-<p class="transcript-line"><span class="time"><strong>[00:04:39]</strong> </span><span class="speaker"><strong>发言人2: </strong></span>就很像今天那个时候大家都会觉得siri是一个非常好的交互方式，her是不是会到来？所以我们都在干那个事儿。</p>
-<p class="transcript-line"><span class="time"><strong>[00:04:46]</strong> </span><span class="speaker"><strong>发言人1: </strong></span>但后来很快就全军覆灭，包括到今天siri也不能说是成功的。所以那个时候可以讲讲当时的经历吗？</p>
-<p class="transcript-line"><span class="time"><strong>[00:04:53]</strong> </span><span class="speaker"><strong>发言人2: </strong></span>其实是个很不成功。所以那一次那个时候的技术并没有今天的大模型这种通用性的泛化能力。那个时候某种程度上我们还是或者说有了一点点泛化能力。那个时候的做法主体基本上还是一些结构化的，就是都是我们会把它进行分类。比如说我们会定义几十个类别，每一个类别做单单独的模型去做识别，去做解构，去做API的调用。所以某种程度上是一个手动的来拆解。</p>
-<p class="transcript-line"><span class="time"><strong>[00:05:22]</strong> </span><span class="speaker"><strong>发言人2: </strong></span>所以我们当时大概火了两年左右的时间吧，大家发现这条路好像不行。第一，我觉得这个问题比我预想的难，可能没那么快。第二件事儿来讲，如果他能发生，那一定是大厂的事情。因为这是各家的必争之地。所以我当时就想到了说，如果是这样，我们今天是不是有机会能够把AI应用在一些垂直领域？所以我就创业了。</p>
-<p class="transcript-line"><span class="time"><strong>[00:05:45]</strong> </span><span class="speaker"><strong>发言人2: </strong></span>所以大概是在14年的时候，我就开始去做创业了。我当时觉得在大厂做的这些努力，我觉得受到大家的方就我自己的掌控力会变弱，所以我更愿意自己去试一把。所以那个时之后也不懂创业，然后就直接开始干起来了。所以我做的第一个项目其实是AI加旅游。所以我们当时做了一家公司叫做妙计旅行。我们当时的逻辑很简单，就是是用搜索的AI技术来叠加旅游。早期的时候，我们当时认为很流行的是去哪儿，当时我们称之为一阶元搜索。</p>
-<p class="transcript-line"><span class="time"><strong>[00:06:22]</strong> </span><span class="speaker"><strong>发言人2: </strong></span>就是你从北京飞巴黎，他帮你找所有供应商里边最便宜的票。但是如果从一个技术角色的角度，我会觉得这样的搜索空间太小了，你能得到的价差也不够大。所以我当时想再把它升一级，我不要以一张票为最优解，我能不能以一个旅游行程为最优解。所以我当时的想法是说，我要把它变成一个二阶元搜索。怎么讲？就是如果你今天我要去巴黎三天，马德里三天，巴塞罗那三天，我但是其实我并不在乎先去哪个后去哪个，我的顺序是可以随便排列的。而顺序的排列就意味着更大的搜索空间，而更大的搜索空间意味着这里面的价差和体验会有完全不一样。</p>
-<p class="transcript-line"><span class="time"><strong>[00:07:04]</strong> </span><span class="speaker"><strong>发言人1: </strong></span>听起来非常合理。</p>
-<p class="transcript-line"><span class="time"><strong>[00:07:06]</strong> </span><span class="speaker"><strong>发言人2: </strong></span>所以我们当时做了一个一个非常复杂的一个基于搜索逻辑的AI加旅游。你只要去输入你的需求，我们会帮你连接机票、酒店、租车、包车、景点门票、day two以及城市内的小交通，帮你串成一个行程。</p>
-<p class="transcript-line"><span class="time"><strong>[00:07:21]</strong> </span><span class="speaker"><strong>发言人1: </strong></span>这是一个很从下至上的一个需求。发现我觉得直到今天这个需求仍然成立，而且好像还是没有被解决的很好。</p>
-<p class="transcript-line"><span class="time"><strong>[00:07:27]</strong> </span><span class="speaker"><strong>发言人2: </strong></span>是的，我觉得当时很大的原因在于，我们其实有点像刚才讲到的这个话题。就是我们当时的觉得会作为一个程序员去做创业。所以大家第一反应会觉得旅游其实是一个产品问题，我们要做一个足够fancy的产品。但是事实当中我们经过了我们做了五年的时间吧，也融了几千万美金，最后并不成功，也交了学费。但是在这个过程当中，让我们开始意识到，旅游本质上是一个供给问题，是一个供应链问题。因为如果你只给了一个非常高级的信息，而没办法交付，这件事没有价值的。所以某种上也跟我们今天在做事情的这个烙印，也印在我们身体里。</p>
-<p class="transcript-line"><span class="time"><strong>[00:08:09]</strong> </span><span class="speaker"><strong>发言人1: </strong></span>所以上一次这个创业的失败，他还是给今天带来了一些启发。</p>
-<p class="transcript-line"><span class="time"><strong>[00:08:15]</strong> </span><span class="speaker"><strong>发言人2: </strong></span>是的，我觉得非常重要。我觉得他让我们开始从一个纯的理想主义的技术研究者，变成了一个初步合格的创业者。就是我们会发现创业本质不是只做一个fancy的产品，能给产业带来什么。</p>
-<p class="transcript-line"><span class="time"><strong>[00:08:29]</strong> </span><span class="speaker"><strong>发言人1: </strong></span>以及这个整体体验你是不是能够真的deliver。它不是只是界面的设计，它其实背后是一整套供应链和运营。</p>
-<p class="transcript-line"><span class="time"><strong>[00:08:36]</strong> </span><span class="speaker"><strong>发言人2: </strong></span>我觉得这个差的这是一个完全不一样的思考方式。</p>
-<p class="transcript-line"><span class="time"><strong>[00:08:40]</strong> </span><span class="speaker"><strong>发言人1: </strong></span>但其实也有人会去建议创业者一开始就不要选这种复杂的地方，就可能去选可以更容易创新的地方。</p>
-<p class="transcript-line"><span class="time"><strong>[00:08:48]</strong> </span><span class="speaker"><strong>发言人2: </strong></span>如果从这个角度来讲，我其实觉得就是我觉得创业者要很注意的，我觉得创业者特别容易自我强化。就是我们当时在做这件事儿的时候，其实，你当时在14年是一个好的资本年代，就是我们很容易做这些事儿。然后在虽然我们也许并不是那么，那么专业的一个创业者，但是在当时其实我们还是很快拿到了很多钱，也都是很一线的基金。所以当时你就会觉得说，好像我有一个正反馈，对吧？如果用今天的话讲，就是一个错误的reward model.</p>
-<p class="transcript-line"><span class="time"><strong>[00:09:20]</strong> </span><span class="speaker"><strong>发言人1: </strong></span>就非常错误。因为融资从来不是一个对的一个we were model。</p>
-<p class="transcript-line"><span class="time"><strong>[00:09:24]</strong> </span><span class="speaker"><strong>发言人2: </strong></span>不止如此，你会发现除了他，你会发现旅游行业的人也会过来说，你你你很厉害，你这个东西很对我觉得你一定很对。你的个别的早期的天使客户也会说，我觉得你这个方向我爱死了，我觉得就是要这样做。然后你的媒体也会来给你说，这个旅游门外的野蛮人，然后会给你一些什么？这个公牛冲进了瓷器店。会让你产生一种错觉，好像我就是选对了。</p>
-<p class="transcript-line"><span class="time"><strong>[00:09:49]</strong> </span><span class="speaker"><strong>发言人1: </strong></span>所以什么时候你开始感觉到这个事情不对劲的。</p>
-<p class="transcript-line"><span class="time"><strong>[00:09:52]</strong> </span><span class="speaker"><strong>发言人2: </strong></span>当你把注意力从一些这种外部的reward model转化为一些业务上的reward model。你要看用户的留存，用户的满意度，你会看你在真正解决问题的这个完成度。我觉得当你真正转回到一个业务视角，你会发现可能看到的不是很一样。</p>
-<p class="transcript-line"><span class="time"><strong>[00:10:09]</strong> </span><span class="speaker"><strong>发言人1: </strong></span>所以其实最近有一位VC给我讲说，他每次看到某某创业者一年融四轮这样的新闻，他就会内心亮红灯。而且就是两个礼拜前有另外一位大佬，我说有一个朋友他特别崇拜你，想认识你。然后我就说他最近在这个是一个market deal非常火，然后连续空空空好几轮。他说我不喜欢这样的创业者。我觉得这个其实背后也是你说的这一个点。就是会有人认为如果融资成为了reward model，你会进到另外一个错误的获得自己的这个事情有没有在进步的一个判断的准池里面。多数情况人是很容易迷失在这样的一个准池里头而忘了我应该去看可能更重要的一些指标。因为某种程度。</p>
-<p class="transcript-line"><span class="time"><strong>[00:10:52]</strong> </span><span class="speaker"><strong>发言人2: </strong></span>上连融四轮这件事儿太共识了，一定不是个好的赚钱的机会，就风险跟收益不见得对等，所以还是要有反共识。我觉得我们不应该把做一个高级的产品作为一个目标，而是要把它做成一个可闭环的生意。</p>
-<p class="transcript-line"><span class="time"><strong>[00:11:07]</strong> </span><span class="speaker"><strong>发言人1: </strong></span>应其其实之前也反复在讲，所有不能闭环的商业模式都是泡沫，对吧？感觉他也受过很重的伤。所以我好奇的是比如说在妙计之后，在质谱之前，我知道还有一段创业那一段你的选择是什么。</p>
-<p class="transcript-line"><span class="time"><strong>[00:11:20]</strong> </span><span class="speaker"><strong>发言人2: </strong></span>然后在妙计之后，我们当时在想到一点，就是给我一个特别大的印象。就是我们当时还自认为自己是一个一流的技术团队。但是坦率讲我觉得但我们认为发现一流技术团队这件事儿太常见了。这不是我们的核心差异。我们是一个花了几千万美金在一个产业里深度磨过的一个技术团队。我觉得这是我们认为能够结合产业跟技术是我们的标签，是我们的收获。所以我们当时又加入了另外一家公司，叫做大搜车。</p>
-<p class="transcript-line"><span class="time"><strong>[00:11:49]</strong> </span><span class="speaker"><strong>发言人2: </strong></span>也曾经也是也也也在我们加入的时候是一个非常火的时候。他当时也是30亿美金的一家公司，融了10亿美金左右的一个现金。当时他们是覆盖全部的汽车产业链，17条业务链，包括新车、二手车、二网、金融保险、物流、软件代运营等等。所以那个时候我是作为一个集团的CTO加入的，然后来有一个非常庞大的产业团队来支持17条业务线，近千人的一个产业团队，所以我们又把AI跟汽车产业做了很多结合的尝试。这里面包括了一些比如说二手车的估价，比如说这种自动化的检测，比如说这种车商匹配等等。所以进一步强化了我们把AI跟汽车产业结合，又获得了一些经验。然后在那个之后，我们又开始觉得还是又回归到创业。我当时又做了一个AI加data的公司，因为我当时觉得又找到了一些反共识。因为我们当时在这个大头车的时候，其实我们的数据中心团队就有一个100人的团队。我们里边做了全链路的技术方案，包括从怎么做买点，怎么做大数据的调度、做数据的治理、做指标体系、做BI做CDP全链路自研。</p>
-<p class="transcript-line"><span class="time"><strong>[00:13:03]</strong> </span><span class="speaker"><strong>发言人1: </strong></span>那是哪一年。</p>
-<p class="transcript-line"><span class="time"><strong>[00:13:04]</strong> </span><span class="speaker"><strong>发言人2: </strong></span>那是大概20年21年的样子。这是我们当时在大多车在构建钢材这件事儿的时候，然后到我们又出来创业大概是在22年。然后22年的时候，我们当时有一个我找到一个特别大的我自己认为的一个反攻时。就是我发现数据行业当时的共识在于，只有大厂是有机会用数据的，它是可以用数据中台的。因为我们的假设都是大厂有最完备的数据基础。</p>
-<p class="transcript-line"><span class="time"><strong>[00:13:31]</strong> </span><span class="speaker"><strong>发言人2: </strong></span>那个时候我们找到了一个反共识，就是我觉得大厂其实并不见得是一个最合适的切入数据中心的手段，或者是战场。因为我们发现大厂天然有一个坏处，就是太异构了。因为它足够大，所以各个部门都会建自己的系统，而且自己的系统经常是没有找到以前的文档。所以你数据的统一性是很难的，所以你要做大量的针对性的数据治理，且没办法复用。所以在那个时候，我认为这个机会很难。</p>
-<p class="transcript-line"><span class="time"><strong>[00:13:57]</strong> </span><span class="speaker"><strong>发言人2: </strong></span>但是我们看到一个什么机会？我们看到了其实有非常，就我觉得中型的或者某些垂直领域的小厂是有机会的。比如说我们的电商，你发现电商的信息化程度是最好的，而且比大厂还好。因为是各个大厂来为他做的，你发现他的如果卖东西，无非只能是淘宝，然后京东，抖店，也就是这么多网站，或者是一些这个或者是一些这种，比如说像这个有赞或者微盟，那可能再有一些ERP或者什么聚水潭、万电通，再有一些什么内容制作的光源什么，反正也就是这么多。所以你会发现其实他可能就有50个网站覆盖了全部的电商，且极其标准和体系。我们做了一个端到端的一个解决方案。就是如果你是个电商，给你50个常用网站的链接，你只要输入你的用户名跟密码，我就会自动帮你把分散在各个地方的数据集中起来，自动化的治理，自动化的生成报告，甚至给你一些预测，还可以一些自然语言去做查询，某种程度上帮你做了一个中台的数据的中台。</p>
-<p class="transcript-line"><span class="time"><strong>[00:14:58]</strong> </span><span class="speaker"><strong>发言人1: </strong></span>这也是一次to b的创业。</p>
-<p class="transcript-line"><span class="time"><strong>[00:15:00]</strong> </span><span class="speaker"><strong>发言人2: </strong></span>而且这个成本极低。是的，可以做到正常大厂的可能几10分之1，10万块钱你就可以有一个中台。这件事儿我们大概做了六个月，也是完成了天使轮的融资，然后已经有了几个天使客户正要准备去做A轮的时候，这时候ChatGPT发布了，然后我们也很快关注到了。因为我自己本质上其实就是我本身就是在学NLP的，所以我对这个很敏感。</p>
-<p class="transcript-line"><span class="time"><strong>[00:15:23]</strong> </span><span class="speaker"><strong>发言人2: </strong></span>我看到了这个技术之后的我第一反应，我发现这个事情跟以往的不一样。这不是一个渐进式的创新，这是一个颠覆式的创新。那这个时候我当时在搜狗的老板，就是原来的搜狗首席科学家张阔，也是我非常好的朋友。他是唐杰老师的师弟，所以他来找到了我说我们要不要来搞这件事儿。所以当时我的公司就被质朴并购掉了。某种程度上并购是为了要团队，所以我们只花了1个小时我就做了决定，我说不自己干了，加入。所以那个时候并不像今天大家看到的那个时候，质朴一单还没卖。所以那个那个时候是在很早期的那个状态。</p>
-<p class="transcript-line"><span class="time"><strong>[00:16:05]</strong> </span><span class="speaker"><strong>发言人1: </strong></span>所以你和唐杰老师聊了1个小时.</p>
-<p class="transcript-line"><span class="time"><strong>[00:16:07]</strong> </span><span class="speaker"><strong>发言人2: </strong></span>对，和唐老师都没有聊到1个小时。我说我自己思考了1个小时，我就决定了这个事儿要干。</p>
-<p class="transcript-line"><span class="time"><strong>[00:16:12]</strong> </span><span class="speaker"><strong>发言人1: </strong></span>其实这是一个人生十字路口，所以等于当时螃蟹根本就没有对你进行说服工作。</p>
-<p class="transcript-line"><span class="time"><strong>[00:16:18]</strong> </span><span class="speaker"><strong>发言人2: </strong></span>对的，当时我们看起来还是有两个选择，就是一种选择。因为我们也预判到了这一波AI会火，再加上我们以前做AI的经验和这么多年都是AI跟产业的结合。所以我们当时是不是可以继续在我们的这个基础上去叠加这个AI然后来变成一个新故事，来放大我们的融资。然后另外一个就是我们要不要就加入质谱，就是完全放弃掉我们已经构建好简单的PMF的一个场景，然后彻底并入到一个未知的场景里面，去做一个全新的事儿。</p>
-<p class="transcript-line"><span class="time"><strong>[00:16:54]</strong> </span><span class="speaker"><strong>发言人2: </strong></span>我自己的思考的本质在于说，我觉得我觉得趋势还是一件非常重要的事儿。我为我我也可以稍微讲一下，为什么我觉得趋势特别重要。这也是我创业的一个经验。就是你发现我在这个妙计的时候，当时我们就是一个普通的程序员，做算法的工程师。我们没有什么任何的其他的经验，只有一点产品经验和一些算法经验，可能也只带个十几二十个人的小团队。那个时候其实我们可以在一个用户都没有的情况下，我们就融到1000万美金以上。在14年，而且都是大厂，都给你发了offer，我们还拒掉了一些大厂的offer，很大的大厂的offer。所以在那个时候我觉得我我我觉得看起来是一切很顺利的。</p>
-<p class="transcript-line"><span class="time"><strong>[00:17:43]</strong> </span><span class="speaker"><strong>发言人2: </strong></span>但是等到了我们到了我们下一段的这个AI加data的原因，智能的这个阶段的时候，我们在这个时候发现其实融资是很难的。因为那个时候我们赶上了疫情的上海封城。在那个的前一年其实是特别容易的，就是大家称之为SARS元年。就是很多人来找到我们说你们要不要出来，我们马上就可以给你，对吧？按一个很高的估值就给你做天使，但那个时候我们觉得还不到时间。</p>
-<p class="transcript-line"><span class="time"><strong>[00:18:10]</strong> </span><span class="speaker"><strong>发言人2: </strong></span>但是我们出来的那一刻，刚刚赶上上海封城，你发现所有的基金都感兴趣，但是很少出手。再加上我觉得我们自己的准备是极其充分的。我觉得我们从一个单纯的程序员成长为了我们自己能管理千人的产研团队。我们负责过非常复杂的业务系统，然后我们也有交过数千万美金的学费等等我觉得我们而且准备的非常充分。我们把所有的市面上相关的案例全研究了。</p>
-<p class="transcript-line"><span class="time"><strong>[00:18:36]</strong> </span><span class="speaker"><strong>发言人2: </strong></span>但是你发现其实融资并没有想象中顺利，所以这个给我得到了一个结论是什么？就是人在大事面前你的能力根本不重要。所以我能力也许比原来强了十倍，我团队比原来强了十倍。但如果现在不在那一个时间点上。你会发现其实一切问题都会难十倍。当然最终我们还是融到了点钱，但是其实比我们预想的要难。</p>
-<p class="transcript-line"><span class="time"><strong>[00:18:59]</strong> </span><span class="speaker"><strong>发言人1: </strong></span>然后想到这些outlier这本书里面，其实他就有讲一个点，就是人出生的年份非常重要。他说bill gates和Steve jobs都是1955年出生的。为什么是他们做了最厉害的两家电脑公司？是因为在他们的青春期，就是70年代的时候，正好是电脑崛起的时候。而这一波优秀的年轻人就可以，如果你最活跃，你最有创业的精神，你就最有大的概率比比你年龄大三岁或者小三岁的人抓到这个机会。所以我其实也是很相信这个时间对于创业的重要性的对。</p>
-<p class="transcript-line"><span class="time"><strong>[00:19:36]</strong> </span><span class="speaker"><strong>发言人2: </strong></span>但你说的出生的年份是我没办法把握的，但是创业的年份是你可以把握的。所以这就是为什么你能理解我当时会那么果断的直接就把公司并到了质朴，然后从头开始干。我在质朴干了两年多。ChatGPT是22年的12月份发布的，然后我们大概是二月份三月份加入的。</p>
-<p class="transcript-line"><span class="time"><strong>[00:19:58]</strong> </span><span class="speaker"><strong>发言人1: </strong></span>所以你其实在质谱非常早期就加入，然后经历了一个他从零到今天做的特别好的一个阶段。然后在这个时候你又在COO的位置，对吧？所以你离职的时候，我觉得很多人应该和我一样是感到很surprise的。然后你很快又开始新的创业，而这个创业又感觉是一个非共识中的非共识，完全在中国做to b然后我知道蓝驰投了800万美金。然后上次我们一起见到蓝池的jue，就也是说他在你身上看到了一种勇敢。</p>
-<p class="transcript-line"><span class="time"><strong>[00:20:28]</strong> </span><span class="speaker"><strong>发言人2: </strong></span>我觉得我自己本质上还是个风险偏好很高的人。首先我认为质朴是一家非常好的公司。我觉得它的发展的方向，技术能力非常强，发展也是一切顺利。而且现在也正在IPO的过程中。</p>
-<p class="transcript-line"><span class="time"><strong>[00:20:41]</strong> </span><span class="speaker"><strong>发言人2: </strong></span>在大多数人眼里觉得说你是不是应该等到上市再做打算。但是之前的经验告诉我说，我觉得如果在那一刻你觉得这件事儿是你的使命，是你要去做的事儿，我觉得就不要等待。所以我自己本身是一个风险偏好较高，所以我就一然下了这样的一个决定所以你说算不算勇敢呢？我觉得很难，我觉得不应该用勇敢来形容。因为勇敢的逻辑是在于你明明觉得这件事儿搞不了，你还要去搞。明知山有虎，偏上虎山行，这才叫勇敢。我是觉得这是一个AI的下半场，我觉得我希望能够像参与上半场一样，更早的去参与这个下半场。</p>
-<p class="transcript-line"><span class="time"><strong>[00:21:26]</strong> </span><span class="speaker"><strong>发言人1: </strong></span>所以你会有一个特别的moment，就是做这个决定。</p>
-<p class="transcript-line"><span class="time"><strong>[00:21:30]</strong> </span><span class="speaker"><strong>发言人2: </strong></span>不会那么有顿悟的感觉，但是我觉得它是一个渐进的。因为我们其实在质朴的时候，我们主要负责两件事儿。一件事儿是说我们要做所有的商业化，特别从早期开始全面的去构建商业化的体系。与此同时，我还在负责构建商业产品，从早期到后面持续的当中。比如像我们的MaaS平台，MaaS平台上面所有的这种功能，然后再到早期的像code GX这样的一个coding产品，都是我在负责。</p>
-<p class="transcript-line"><span class="time"><strong>[00:22:01]</strong> </span><span class="speaker"><strong>发言人2: </strong></span>所以我其实一直在跟一线，我觉得有两方面。一方面我们能在模型公司很有意义的是让你知道第一手的模型底层的能力的进化。另外一个维度，我们在大规模的见客户，我觉得在质朴的两年是比我自己创业都要忙得多的。因为这就是时代的问题，就是时代的选择。</p>
-<p class="transcript-line"><span class="time"><strong>[00:22:22]</strong> </span><span class="speaker"><strong>发言人2: </strong></span>你看我们比如在二三年刚去的时候，我基本每天要开七个客户会，每天七个你停不下来。就你每1个小时之后，我们每天比如像我们如果开一个会，一个多小时，我再打开手机，上面就有一百多条消息未读了。然后都是各种各样的人找到质朴。因为当时只有质朴有模型，所有的人都要找过来，你都要去交流。所以我觉得那那一段都是要每天晚上到12点才能拍完，12点开始回消息，回到一点，回个两三百条，然后再睡觉。所以那那是这个时代让我们感觉到了，我觉得很难，我们我们不会比任何人聪明。</p>
-<p class="transcript-line"><span class="time"><strong>[00:22:59]</strong> </span><span class="speaker"><strong>发言人2: </strong></span>但是我觉得在我们的这个选择，让我们更早的能够接受到一手的模型的发展趋势和一手的用户的感知。这个是我的一个收益。在这个过程当中就会促使我们去思考，我们会发现我觉得模型的发展是这样。</p>
-<p class="transcript-line"><span class="time"><strong>[00:23:20]</strong> </span><span class="speaker"><strong>发言人2: </strong></span>在早期的阶段，我觉得在二三年24年的时候，你会发现基座模型在早期是一切。因为在那个时候你任何上层的构建都完全依赖于基座模型。所以那个时候我的理解的智商，可能我如果拿人来做比喻的时候，我觉得那个时候还是60分的智商，70分的智商。某种程度上你看到他已经有人的行为了。但是如果你真的往具体的事情上去落地，你觉得他还是很难的。但是到了今天或者说到了今年，我发现模型的智商已经开始到了100或者到了110。所以在这个时候，各家模型或整个市场的模型都已经进入了一个相对成熟的阶段。这个时候是市场范式发生了变化，我觉得这个时候模型之外的东西可能会变得更重要。</p>
-<p class="transcript-line"><span class="time"><strong>[00:24:08]</strong> </span><span class="speaker"><strong>发言人2: </strong></span>我举一个例子，比如你看人类社会，我很喜欢拿人来比喻，因为我觉得AI就是一个仿生学。你看人在过去5000年到今天，你发现人的脑容量没有变化，人的脑容量基本上还是这么大我假设他的智商其实是没有本质上的变化的，但是你发现今天的人跟5000年前的人比起来，他的生产力可能增长了1000倍起码。所以，从这个逻辑上，是什么构成了在一个智能的基线没变的情况下，而我们上涨到了1000倍的一个三个数量级以上的一个生产力的变化。</p>
-<p class="transcript-line"><span class="time"><strong>[00:24:46]</strong> </span><span class="speaker"><strong>发言人2: </strong></span>我觉得本质上抽象下来就几件事儿，我觉得就是教育分工工具、组织协作。其实就几件事儿，把整个世界的生产力重新构建了。这件事儿不会在你智商是60分的时候发生。这个事情不会在动物身上发生，是因为他没有到那个临界点。所以从我的视角来看，我觉得基座模型今天到了这个临界点。但在这个临界点上继续再往上去提升，我觉得我自己能带来的帮助是有限。所以我觉得反而应该去如何为AI去构建社会形态，为AI去构建它的分工教育协作工具的体系。</p>
-<p class="transcript-line"><span class="time"><strong>[00:25:29]</strong> </span><span class="speaker"><strong>发言人1: </strong></span>这个很有意思的。所以也是这个观点，就是让你认为自己现在应该去做一次新的开启这个新的创业。</p>
-<p class="transcript-line"><span class="time"><strong>[00:25:37]</strong> </span><span class="speaker"><strong>发言人2: </strong></span>是的，我觉得这个其实前两天看到像黄仁勋也讲过，对吧？他说当然我觉得这也不算鸡汤，我觉得这是一个有道理的一个话。他认为说人还是要想什么事情是只有你能做的。如果今天这件事情每个人都能做，大家都在做，你并不一定要浪费时间去做这个大家都能做的事儿。</p>
-<p class="transcript-line"><span class="time"><strong>[00:25:58]</strong> </span><span class="speaker"><strong>发言人2: </strong></span>我觉得这个里边people mission fit变得非常重要。我确实觉得如何构建一个标准的体系，能够让模型从基础智能转化为生产力，并且这个杠杆能够撬动三个数量级以上。我觉得这件事儿需要有非常强的模型的理解能力，有需要有产品能力，有需要对业务的洞察和理解能力。而我们之前的所有的创业经历几乎都是围绕这个方向。所以某种程度上我觉得这件事儿是我一定要干的。</p>
-<p class="transcript-line"><span class="time"><strong>[00:26:27]</strong> </span><span class="speaker"><strong>发言人1: </strong></span>然后原理智能到现在大概成立多久了？你们现在有没有可以方便介绍的客户，以及比如说你们为这些客户做了什么样的服务，做了什么样的帮助他们产生价值。</p>
-<p class="transcript-line"><span class="time"><strong>[00:26:38]</strong> </span><span class="speaker"><strong>发言人2: </strong></span>我们大概是在七月份注册的公司，到现在为止也就是三个月的时间吧，一个季度的时间，还不算很久。但这个里边，我们客户这边，我们选择也是有一些比较有意思的。首先我们并不希望我们去做成一个定制的，但是在我们更希望是一个标文化的。但是我们又明确的知道我们并不能去闭门造车。所以我们在体验前期会有几家天使客户跟我们一起来共创，所以让我们再用一个比较全方位的服务的方式来帮我们去构建我们的产品，来确保它是一个有效的。所以是这样的一个方向。</p>
-<p class="transcript-line"><span class="time"><strong>[00:27:20]</strong> </span><span class="speaker"><strong>发言人2: </strong></span>第二我们会给我们的客户设上限，就是我们认为到明年Q2之前，我们服务的客户不超过六家，我们不设下限是因为核心逻辑在于我们目标是希望能够贡献出一些灯塔客户。我希望这些客户能因为我们的服务在他的关键业务指标甚至财务模型上带来明显的变化。我们试图打造一些公司，从传统公司转化为AI时代公司的样板，这是我们的目标。另外还有一个有意思的点，就是我们所选的这六家公司都不是同一个行业的。我觉得如果我确保我们是一个泛化和通用的能力，我必须要面对不同的客户，确保他work。这样会推动我们更加有效的去设计成这样的一个通用的框架。</p>
-<p class="transcript-line"><span class="time"><strong>[00:28:09]</strong> </span><span class="speaker"><strong>发言人1: </strong></span>可以具体讲讲这些天使客户的故事吗？他们和你们在配合做什么样的事情？</p>
-<p class="transcript-line"><span class="time"><strong>[00:28:15]</strong> </span><span class="speaker"><strong>发言人2: </strong></span>我还是先因为没有得到对方的同意，我就先不讲对方的名字了。我讲讲我们做这个事情的方法论。首先这里面有一个如果用强化学习的逻辑，就是你怎么定义你的reward，你就会得到什么样的模型。所以同样的道理，我们在服务这个客户的时候，我们要定一个reward，就是我们到底想改变什么。我们今天的逻辑在于我们一定要以客户的业务结果为导向，就我不会以功能为导向。我们以前通常交付说，那你要一个知识库，我给你一个知识库，然后保证它达到一个什么指标，这是原来的逻辑。我觉得在今天新的时代，我觉得要探索一点不一样的。就是在于你今天的整个的业务的构成是什么样的，你这个业务构成里的关键指标是什么？我能不能通过AI让你整个业务的流程进行了重塑，你的产品的结构，成本的结构进行了变化。</p>
-<p class="transcript-line"><span class="time"><strong>[00:29:06]</strong> </span><span class="speaker"><strong>发言人2: </strong></span>好，那我具象说一下，比如这个里边我们可能会重一点，会从咨询开始进入。就是我觉得业务是第一导向，所以我们一般会有一个我们会跟客户进行一个用户的访谈，目标是构建他今天所有的业务链路。就是我们一般会有一个同事跟他里边的二三十个不同的业务部门的这种层级的员工去做访谈，试图勾勒出今天企业业的业务的核心的业务流。</p>
-<p class="transcript-line"><span class="time"><strong>[00:29:35]</strong> </span><span class="speaker"><strong>发言人2: </strong></span>好，第二步我们就开始来分析他的成本构成。就是财务模型其实代表了企业经营模型的关键。就说我们以妙计的旅游为例，如果我们站在一个今天我们当时服务的旅游的场景里边，你会发现旅游的特别是定制游的业务链路非常简单。</p>
-<p class="transcript-line"><span class="time"><strong>[00:29:52]</strong> </span><span class="speaker"><strong>发言人2: </strong></span>三大环节，获客、生产、供应链。好，再下一个环节AI就要上场了。我们就要理解AI在刚才的这个业务流里边有哪些地方是改进点。所以我们就会把刚才的业务流，比如说在这个客户的他在获客的一个环节，它就会存在广告的投放，内容的生产。然后可能跟客户的沟通。然后再到生产环节，可能就变成模型的制作，就是形成的制作，形成的修改。然后再到供应链环节，变成谈判下单确认等等。你就会发现我们这个时候通常可能会在一个企业内识别出来三到40个AI的改进点。</p>
-<p class="transcript-line"><span class="time"><strong>[00:30:29]</strong> </span><span class="speaker"><strong>发言人1: </strong></span>每个你们都会参与吗？</p>
-<p class="transcript-line"><span class="time"><strong>[00:30:31]</strong> </span><span class="speaker"><strong>发言人2: </strong></span>这还没没完，这个是为了画全貌，就是我总得知道整体的状况。所以这个里边我们就会发现在链路里还有三四十个企业AI的改进点。然后这个时候的另一个关键就来了，这个时候我们要从里边做筛选，我们就会画一个象限图，我们找到一个业务价值跟技术成熟度的最大公约数。横轴其实就是我们把它作为一个业务价值，然后纵轴我们就把它作为一个技术成熟度。这个时候我们要试图找整个坐标系右上角的，也就是业务价值又大，技术成熟度又高的。就刚才那三四十个改进点，并不一定今天都能完成，有很多就没办法完成。或者你我我举个简单例子，你比如说我在旅游过程当中，如果我希望能够比如说我跟供应链谈判谈出一个好的价格来。今天技术成熟度就不够高，但是业务价值就很大吧？反之也有一些技术难度很低，比如说我们帮客户日常提醒这件事儿的技术成熟度很高，但是业务价值就不够大。所以选择合适的切入点是企业落地AI成功的第一要务。</p>
-<p class="transcript-line"><span class="time"><strong>[00:31:35]</strong> </span><span class="speaker"><strong>发言人2: </strong></span>这个时候我们就开始进入到再下一步我们就会有我们专业的工程师进场，把刚才的这个问问题开始理解他们现在的日志的log服务的过程。怎么去进行模型的训练，怎么进行agent的这种搭建，整整变成这样的一个过程。并且每一次跟会跟通过这个结果再反馈回来。所以从这个逻辑上看下来，刚才就是一套非常完整的逻辑，从业务到技术到实现，然后形成了一个PDC，它可以再返回来循环。这里面会有连锁反应。就是如果我今天真的能够把形成的生产的部分的时效和成本，假如说能够下降五倍，你这个时候就会发现你的整个的商业模型不只是他减了五倍，而是对于你整个的上下游又发生了变化。所以你看如果刚才这样的逻辑，它不仅仅是解决简单的当前问题是对于你整个业务的战略都进行了重塑。</p>
-<p class="transcript-line"><span class="time"><strong>[00:32:29]</strong> </span><span class="speaker"><strong>发言人1: </strong></span>那你怎么理解就这个事情它的可泛化性的，我觉得这还是一个挺重的工作的。第一步就要有人去采访20到30个企业里面的关键员工才能得到，就是第一步这个事情，我觉得就是每个企业我觉得都值得做，都应该做。但这个怎么能够比如说我们作为原理智能，作为一个to b的创业公司，怎么能泛化它，使得我们可以服务更多的客户，成长成更大的一个企业。</p>
-<p class="transcript-line"><span class="time"><strong>[00:32:58]</strong> </span><span class="speaker"><strong>发言人2: </strong></span>所以你看如果我们作为一个程序员的角度，当我们遇到一个问题足够复杂的情况下，我们第一反应就是分治，就是我能不能把它分层和拆解开，这个是我们的方法。第一个点来讲，就比如说像刚才说的这一些理解我如果我们把它理性的来拆，它大概分成三个动作，大的动作。第一个动作叫业务理解，某种程度就是偏咨询的部分。我们要理解它的场景，做做选择。这个环节没有最优解，只有一个就是客户自己期望的解和我们的一就是这是离不开线下人要沟通的事儿。</p>
-<p class="transcript-line"><span class="time"><strong>[00:33:32]</strong> </span><span class="speaker"><strong>发言人2: </strong></span>第二件事儿，这件事儿一旦完成，我们会存在一个模型的优化。就是我们希望把模型刚才业务里的这个场景训练出一个与之相对应的一个垂类模型。第二我们再需要把这个垂类模型变成一个垂直的agent，要完成技术栈。你可以理解为做模型这个部分，我们就相当于生产数据强化也好，SFT也好。本质上生产数据去训练它，让它跟这个业务变得更加匹配。第二agent来讲，本身也就是在里面去增加prompt rug这个memory，或者是workflow等等一系列的这种工程类的东西，就这么三件事儿。所以站在我们今天的角度来讲，我们会在里面分层。</p>
-<p class="transcript-line"><span class="time"><strong>[00:34:10]</strong> </span><span class="speaker"><strong>发言人2: </strong></span>我们认为后面两件事儿，模型的学习，模型的优化和agent的优化。本质上我们相信商业强化学习可以把这两件事变成大一统。这件事儿可以完全不需要人工就可以完成，这是我们的目标，而且我并不认为这个很远。</p>
-<p class="transcript-line"><span class="time"><strong>[00:34:26]</strong> </span><span class="speaker"><strong>发言人2: </strong></span>再往上一层，人工的那一层能不能被A人的解决呢？我觉得能解决一半。为什么这么讲？你看我们今天为什么自己在做这么重的？是因为我们要了解这个服务该怎么去做标准化，我们自己来建，SOP也在拿A真的赋能。</p>
-<p class="transcript-line"><span class="time"><strong>[00:34:40]</strong> </span><span class="speaker"><strong>发言人2: </strong></span>比如说简单的访谈这件事儿，访谈谁这件事儿是不是可以agent来定计划？访谈提纲是不是个agent有它的know how来生成提纲的问题，agent是不是可以自动化的访谈，我觉得都会有帮助，但是他并不能完全替代，总归需要有人来进行这个服务。所以如果是这样的，我觉得AI可以让人的这种服务的门槛和成本下降五倍。所以我们可以让这件事变得容易一点。</p>
-<p class="transcript-line"><span class="time"><strong>[00:35:07]</strong> </span><span class="speaker"><strong>发言人2: </strong></span>所以我们的下一步的战略，我们就希望能构建一个生态。我们希望那些会有大量的独立的工作者。比如说一些咨询公司的个体的这些合伙人，或者是一些资深的咨询师，或者对某些行业有know how的一些人我觉得他都可以借助我们这样的平台来完成这种最后一公里的对接。所以如果按刚才这个逻辑的拆解，我觉得我们就把一个复杂的问题变成了一个体系化的结构。</p>
-<p class="transcript-line"><span class="time"><strong>[00:35:35]</strong> </span><span class="speaker"><strong>发言人2: </strong></span>做了我们标准化的部分，又贡献了一个又又找到了一些这样的合作的伙伴，构建了一个生态。因为我觉得这里面有两件事儿。第一件事儿，今天所有的场景day one都是很重的。South force SAP哪个第一天的天使客户不中你包括像地平线，我们听过俞凯的这个分享。就是他早期就是要跑到主机厂去跟车厂一个个的磨，到底这个芯片怎么做出来，才有今天的泛化。所以我觉得如果是站在我做妙计的时候，我可能会觉得我能直接泛化。但我今天很明白，就是如果你不走一遍这样的流程，你根本没有泛化的基础，我觉得这是第一个。第二个逻辑再来讲，我觉得我们今天在这个时代的创业，你不能想这家公司吃掉everything。就是你必须在这个里边是有生态，是在新的生态地图里选择自己的生态位，跟生态位去做合作的。</p>
-<p class="transcript-line"><span class="time"><strong>[00:36:28]</strong> </span><span class="speaker"><strong>发言人1: </strong></span>所以你怎么理解你选的这个生态位是什么？</p>
-<p class="transcript-line"><span class="time"><strong>[00:36:31]</strong> </span><span class="speaker"><strong>发言人2: </strong></span>我觉得我们选择的生态位，也就是刚才我所描述的，我们希望能够做在一个从咨询到基座模型的一个中间的一个转化器。我们希望某种程度上你可以理解为我希望我们变成一个模型的培训机构。</p>
-<p class="transcript-line"><span class="time"><strong>[00:36:46]</strong> </span><span class="speaker"><strong>发言人1: </strong></span>模型的培训机构就是。</p>
-<p class="transcript-line"><span class="time"><strong>[00:36:47]</strong> </span><span class="speaker"><strong>发言人2: </strong></span>我们希望基座模型今天带来的是越来越聪明的人。而我们希望能把这个聪明的人变得变成一个某个更加职业的专家，然后从而进入到某一个企业去做工作。所以我觉得我们是这样的一个生态位。所以在这个里边来讲，我们有一些不做的事情，就比如说基座模型我们肯定不做，然后max平台我们肯定不搭，然后SARS我们肯定不做，然后咨询的定制我们肯定不做。</p>
-<p class="transcript-line"><span class="time"><strong>[00:37:13]</strong> </span><span class="speaker"><strong>发言人1: </strong></span>那你会怎么理解？就这一次和SARS的那个年代有哪些不同了？因为SARS的失败带来的这种生理性恐惧，我觉得在我们这一代人的身上还没有消失掉。</p>
-<p class="transcript-line"><span class="time"><strong>[00:37:24]</strong> </span><span class="speaker"><strong>发言人2: </strong></span>我觉得今天的时代跟上一个时代会完全不一样。首先一点，我认为今天，就第一点，首先SARS为什么是一个并不太成功？我觉得我们很难，大家都很容易简单归因为说中国企业没有这个习惯，那抖音就很赚钱。企业的目标就一个价值的最大化，所以这就是所有企业的一个使命。</p>
-<p class="transcript-line"><span class="time"><strong>[00:37:47]</strong> </span><span class="speaker"><strong>发言人2: </strong></span>如果我们把它再拆解一层，价值的最大化等于什么？我理解再简化一点来看，等于流量乘以转化能力。流量就意味着你有多少的线索进来。转化能力是你从一个线索当中能带来多少收益。很多情况下企业的转化能力是个常量，甚至行业的转化能力是个常量。所以在这种情况下，它如果要最大化它的价值，那它只能最大化它的流量。所以这就是我们今天看到的，为什么大家会投在抖音上，投在这个投放上。投在广告，投在店铺上，这是因为这是一个今天唯一的增长的路径。</p>
-<p class="transcript-line"><span class="time"><strong>[00:38:26]</strong> </span><span class="speaker"><strong>发言人2: </strong></span>好，这个就可以理解了，为什么他们这么赚钱。我们再拆解一下转化能力等于什么？转化能力的本身等于人加上工具。好，如果这看起来就是人加上SARS，所以你发现在这个逻辑里面，我们推论出第一个有效的有意思的观点，就是你发现人和SARS是零和博弈。因为在上一层的那个公式里面，他已经要最大化他的收益来自于最大化它的流量，所以相当于他给整个转化能力带来的是一个常量了，这是他认为压缩到极致的一个常量了。这个时候，如果我今天要花100万买一个SaaS，那理论上来讲我为什么要多付这100万？</p>
-<p class="transcript-line"><span class="time"><strong>[00:39:08]</strong> </span><span class="speaker"><strong>发言人1: </strong></span>但这个在美国为什么就成立了呢？</p>
-<p class="transcript-line"><span class="time"><strong>[00:39:10]</strong> </span><span class="speaker"><strong>发言人2: </strong></span>我觉得这个会有一点不一样，这个会有我先把刚才这个逻辑讲完，我们再说美国为什么会。这个里边来讲，你就会发现，所以它是一个零和博弈。我们经常在to b里面临的场景是什么？你告诉这个团队说，我给你花100万买了个SARS，那你看是不是能砍100万的人。这个人马上说我不用SARS，而这个时候人是必选项，SARS不是。所以天然这就团原有的组织形态，大家也会讲对于SARS的进入是一个阻碍。为什么需要很强的客户成功，也是这样的一个原因。</p>
-<p class="transcript-line"><span class="time"><strong>[00:39:40]</strong> </span><span class="speaker"><strong>发言人2: </strong></span>所以我为什么认为这次AI的逻辑不一样？是因为我觉得这次AI所对标的就不是工具。这也是我们今天原理的一个底层的一个判断的价值观。就是我们认为AI不是工具，AI是你的同事。所以如果AI是你的同事，你所要应对的就不是工具，而是转化能力本身。如果是转化能力本身，就意味着你从原来跟团队的一个零和博弈转和转化为跟老板的正合博弈。所以我觉得这个故事就完全不一样。所以AI的对标不是软件市场，AI的对标是劳动力市场。</p>
-<p class="transcript-line"><span class="time"><strong>[00:40:21]</strong> </span><span class="speaker"><strong>发言人2: </strong></span>所以好，我们说回来，你看中国的这个市场里面，你会发现，虽然大家不怎么买软件，但你发现中国有一个特别蓬勃发展的市场叫做BPO，也就是人力资源外包。所以大家愿意为结果，为生产力买单，而不愿意为中间的工具买单。所以这是一个大几十倍的一个市场。</p>
-<p class="transcript-line"><span class="time"><strong>[00:40:41]</strong> </span><span class="speaker"><strong>发言人1: </strong></span>这个我很认可，就大家愿意为结果买单我觉得这个其实放之四海皆准，就不管中国、美国、日本、欧洲，对吧？当你告诉一个企业家，我可以把你的结果做得更好的时候，那这个肯定是大家最愿意掏钱的时候。但是我还是刚才那个朋友，不要好奇。因为你提到他是零和博弈，就是说员工排是SARS，所以在中国很难够很难能够让企业买SARS。但我觉得这个人性好像在美国同样也存在，那为什么比如说在美国、日本、欧洲，SARS就能够推得开呢？</p>
-<p class="transcript-line"><span class="time"><strong>[00:41:10]</strong> </span><span class="speaker"><strong>发言人2: </strong></span>对我觉得就是这个底层逻辑都是共性的。但是如果从另外一个维度上来讲，你有没有发现中国的SARS生态比过去几年是要变好的。今天如果不给我飞书，我都没办法工作了。但这件事在今天是需要一个过程，它并不是一个直接能带来的转化，所以这个可能是需要代际的差。其实像西方的生产，就是信息化的过程其实比中国要早很多很多。所以这些人里边day one出来很多人，今天的管理者day one出来工作的时候，他就是在用那个系统的那是一套他们的对话的沟通的方式。比如没有CRM他就不会干活，就跟我今天没有飞书我也不会干活。</p>
-<p class="transcript-line"><span class="time"><strong>[00:41:51]</strong> </span><span class="speaker"><strong>发言人1: </strong></span>我们再说回来，刚才你提到这个，你会认为AI不是软件，而AI应该是生产力。</p>
-<p class="transcript-line"><span class="time"><strong>[00:41:58]</strong> </span><span class="speaker"><strong>发言人2: </strong></span>我觉得AI是你的同事，我觉得他他应该你你应该把它视为一个人。今天有一个特别大的误解，就是大家总是就我觉得大家总会用旧的坐标系来找新的地图，来找新的方向，我觉得这个是不对的。我为什么这么讲？你看本质上来讲，我觉得大家普遍对于AI很觉得有问题的点。比如说第一名肯定是幻觉。我记得好像什么也是有人发言有有讲过说，只要机器还有1%的幻觉，人就很有价值。我觉得这是完全站在旧的坐标系再看新世界，这两个世界已经完全不一样了。你怎么看？</p>
-<p class="transcript-line"><span class="time"><strong>[00:42:41]</strong> </span><span class="speaker"><strong>发言人2: </strong></span>对我觉得这个逻辑在于，你想机器有1%的幻觉就需要人。请问人有幻觉吗？人是有幻觉的，人的幻觉可能不止1%。</p>
-<p class="transcript-line"><span class="time"><strong>[00:42:51]</strong> </span><span class="speaker"><strong>发言人2: </strong></span>所以你我为什么叫做旧的坐标系？就是原来写代码是没有幻觉的，写代码是一定你怎么安排他就会怎么解决的。所以在如果我们按照原来旧的坐标系，我们总想控制它，总想着不要出错。但是你就没有泛化能力，他就没有他所带来的AI所带来的好处。</p>
-<p class="transcript-line"><span class="time"><strong>[00:43:11]</strong> </span><span class="speaker"><strong>发言人2: </strong></span>所以我的觉得就是说你要接受AI就是有幻觉。但是我们应该怎么去驾驭幻觉？就跟人今天有幻觉，但依然不影响人能做很高效的产出。所以这是两种不一样的思考体系。所以从这个维度上你要视AI为人，而不是视AI为代码。</p>
-<p class="transcript-line"><span class="time"><strong>[00:43:30]</strong> </span><span class="speaker"><strong>发言人1: </strong></span>所以这一次创业也就是视AI为人，你要创造企业员工给企业用是这么理解吗？是的。</p>
-<p class="transcript-line"><span class="time"><strong>[00:43:38]</strong> </span><span class="speaker"><strong>发言人2: </strong></span>我先说一下我看到的今天这个市场会有一个什么样的问题。我觉得今天的市场几乎大家对AI都极度看好。但是你发现这个市场是一个非常不对称的。你就会发现几乎所有的资本、人力观点都在投入什么都在投入到供给侧。就是从半导体芯片集群，然后基座模型，这我理解全部都是供给侧。</p>
-<p class="transcript-line"><span class="time"><strong>[00:44:05]</strong> </span><span class="speaker"><strong>发言人2: </strong></span>我觉得其实今天大家对于需求侧是很忽视的。就是你看到供给侧的数据哐哐涨，投入巨大无比，对吧？就是大家谁买了很大的集群和算力，资本市场一级市场就给你正向的反馈。我觉得这是我看到的很好的一个方面。但是我觉得另外一个不好的方面，我觉得大家对于需求侧是非常的不够关注的，投入的是不够的。</p>
-<p class="transcript-line"><span class="time"><strong>[00:44:28]</strong> </span><span class="speaker"><strong>发言人2: </strong></span>我们以前在做模型的商业化的时候，最大的一个目标就是我们希望能够消耗掉更多的token，这是我们唯一的目标吧？所以我们有那么大的供给都是为了这一个准备的。但是到我们事实当中，我觉得这件事儿其实比我们预想的难。我们原来想的方法就是我降价，吧，我去做更多的商务的拓展，让他去应用。但我觉得这个路径其实并没有解决本质的问题。这个有点像如果我们发明了电力，我们发明了灯泡。今天我们拿着电线和一个灯泡跑到一个原始部落，跟他说请你多用点电，你看我这个灯泡很好啊，一插上就很亮，所以请你拜托多用点电，我再给你便宜。但是你发现今天这个部落已经摆满了灯泡了，他没有增长的空间，不是他不想用，而是他不知道怎么用。</p>
-<p class="transcript-line"><span class="time"><strong>[00:45:23]</strong> </span><span class="speaker"><strong>发言人1: </strong></span>他需要更多电器了。对的。</p>
-<p class="transcript-line"><span class="time"><strong>[00:45:25]</strong> </span><span class="speaker"><strong>发言人2: </strong></span>所以我觉得这最大的卡点在于说，大家不知道该怎么去应用和消耗掉这些智能。所以我觉得更合理的逻辑就是应该我们今天的注意力到所谓的需求侧，就是我们是不是能够发明更多的开箱机用的电器。如果我们现在到了这个部落，我会告诉你说，我这里有冰箱、有彩电、有洗衣机，有空调，这一切东西你是怎么跟生活连接起来的。每个都想买。对，然后你不用再求他多用点电，你也不用再求他说我再便宜点，你会发现自然而然的消耗就会变得巨大。</p>
-<p class="transcript-line"><span class="time"><strong>[00:45:58]</strong> </span><span class="speaker"><strong>发言人1: </strong></span>所以这一次你想造的AI电器是什么电器？</p>
-<p class="transcript-line"><span class="time"><strong>[00:46:02]</strong> </span><span class="speaker"><strong>发言人2: </strong></span>我觉得其实更多的就是如何把基座模型转化为生产力。其实原来我们衡量这件事儿的时候，大家特别喜欢，为什么？就大家的注意力都在性价比上，就是大家想的。但是大家的做法是一个很单调的，我想的都是怎么去解决加分母，没有想过我怎么去解决分子。</p>
-<p class="transcript-line"><span class="time"><strong>[00:46:22]</strong> </span><span class="speaker"><strong>发言人2: </strong></span>大家所有的推演都会讲到说，当成本再下降十倍，我们的消耗量会增加多少。大家有没有想过说，如果我成本不变，但是我的业务价值放大十倍，那是不是依然能起到同样的效果？而今天我觉得这一段的投入是太少的。所以本质上今天从基础智能转化为生产力会有一个巨大的gap。而我们这一次创业的目标就是希望去解决掉这个巨大的gap。</p>
-<p class="transcript-line"><span class="time"><strong>[00:46:48]</strong> </span><span class="speaker"><strong>发言人1: </strong></span>所以你这一次打算怎么做？和在质朴的时候会有哪些相同和不同呢？</p>
-<p class="transcript-line"><span class="time"><strong>[00:46:55]</strong> </span><span class="speaker"><strong>发言人2: </strong></span>对我觉得某种程度上，我们今天我觉得质朴需要一些新的生态的伙伴来把电器完成，从而才能让更多的模型的token被消耗。所以今天来讲，我们依然在一个上下游的关系，就是换了一种方式来支持质朴，让大家更多的来把模型去转化为业务能力。说到这个里边来讲，我们做这件事儿需要有两个点，就是首先你得有一个自己的假设。如果你原来我们的假设就是在为知识建模，我们要做最强的智能。而今天我们在做这件事儿，我先得有一个自己的假设，对吧？我的假设叫做为生产力建模。什么是你的生产力？就是你怎么定义这件事儿，你不定义你就没办法解决。第二你如何去优化这件事儿，有没有更general的手段，更通用的手段，让你以1% 1‰的成本来完成这个优化。我觉得这就是今天摆在我们面前的两个问题。</p>
-<p class="transcript-line"><span class="time"><strong>[00:47:51]</strong> </span><span class="speaker"><strong>发言人1: </strong></span>一个是怎么去定义什么是生产力？第二是怎么不断的优化生产力，那你们打算怎么做？</p>
-<p class="transcript-line"><span class="time"><strong>[00:47:57]</strong> </span><span class="speaker"><strong>发言人2: </strong></span>第一个比如说什么是生产力？我们先看一下人，其实你看一个高中生他其实是没有生产力的，但是他有智能。就像今天的基座模型对吧？就是它会算数、会识字、会推理、有common sense、有常识等等。但是你发现它并不是一个生产力。</p>
-<p class="transcript-line"><span class="time"><strong>[00:48:17]</strong> </span><span class="speaker"><strong>发言人2: </strong></span>如果我们要把一个高中生变成一个生产力，我们要怎么做？我们需要给他做分工和定义。就比如说我可以让他上个大学，再去进入到一家公司，变成一个医生或者变成一个律师。哪怕说他变成去去送外卖，他也需要有一个身份。所以我们需要把基础智能变化为生产力。</p>
-<p class="transcript-line"><span class="time"><strong>[00:48:41]</strong> </span><span class="speaker"><strong>发言人2: </strong></span>我觉得这里边有一个特别好的媒介，我觉得是工种，这是我们看起来很重要的第一个洞察。所以从这个逻辑上，我觉得我们第一层建模建完了，第二层就来了。我们怎么让模型去学习成一个工种？在这个逻辑里边，我觉得我们我们所用的方法叫做商业强化学习。所以这也是我们发明的一个词。</p>
-<p class="transcript-line"><span class="time"><strong>[00:49:05]</strong> </span><span class="speaker"><strong>发言人1: </strong></span>商业强化学习。</p>
-<p class="transcript-line"><span class="time"><strong>[00:49:07]</strong> </span><span class="speaker"><strong>发言人2: </strong></span>首先的逻辑等一下我们可以展开，为什么会有这个底层？但是商业强化学习的逻辑是在于，首先它是商业，第二他是强化学习。为什么会有这样的观点？就是核心观点在于说，我觉得今天每一个工种他自己的目标是不一样的。所以我们很难用一个统一的方式来解决。所以我们必须就像人学习一样，我们必须让这个数字化的工种进入到真实的物理世界，得到真实的反馈。变成是一个以你业务目标为导向的强化学习。</p>
-<p class="transcript-line"><span class="time"><strong>[00:49:38]</strong> </span><span class="speaker"><strong>发言人2: </strong></span>那为什么是商业强化学习？为什么不是general的强化学习？是因为商业强化学习跟general的强化学习很不一样的点在于说，我们今天可以看到今天的强化学习有一个特别明确的目标，就是在于你必须得有一个非常清晰的反馈。比如说数学题，我如果我们现在做一套鸡兔同笼的问题，那个题首先得有答案，所以这个答案就是一个非常清晰的reward。所以你看今天强化学习已经广泛的应用在我们的这个数学题，我们的coding，我们的GY等等一系列这些有明确结果的上面，都已经做得非常好了，而且已经看到了非常明确的进步。</p>
-<p class="transcript-line"><span class="time"><strong>[00:50:16]</strong> </span><span class="speaker"><strong>发言人2: </strong></span>但是如何把它跟物理世界，特别是商业环境的连接，其实是非常难的。因为这里面有很多我们原来没有想到的问题。比如说这个反馈稀疏，比如说反馈之后，我举个简单例子，比如说我们今天要训练一个销售？他没有数学体验的答案。就是这个销售跟一个顾客聊了1个小时，聊了100句话，最后这个顾客没买。我们能给一个负面的信号说这100句都聊错了。很难。</p>
-<p class="transcript-line"><span class="time"><strong>[00:50:46]</strong> </span><span class="speaker"><strong>发言人2: </strong></span>所以这个时候你会发现这是一个算法跟商业环境的认知强结合的事儿，就是你如何去构造。但是但本质上来看，你看人又是怎么学习的，他能够在自然物理环境里边跟顾客交流在里面，从而从一个初级的销售变成了一个高级的销售。所以这个环境如何拟合？所以抽象下来，我们认为今天生产力环境的最优的标准单元是工种。我们认为他学习和优化的方法叫商业强化学习，让它在自然的物理世界，商业环境里自我进化。</p>
-<p class="transcript-line"><span class="time"><strong>[00:51:19]</strong> </span><span class="speaker"><strong>发言人1: </strong></span>大概两周前，这个A16Z的speed run，他们做了新的一次这一批项目的路演。然后这一批项目里面，我自己观察下来，有非常大的一堆创业公司在硅谷在做的事情叫做agent as a service。其实换句话说，我们可能就会叫他给企业提供数字员工。但是我观察到的是大家都是会选一个自己的垂直领域。比如说今天非常火的三家四家公司都在干的一件事情是帮这个消费企业去做用户调研，融特别多钱。然后也有更早一点的公司，他去选择帮企业做客服员工，然后也有帮企业去做销售，做HR但听起来好像你的选择是要去做泛化的一个员工。</p>
-<p class="transcript-line"><span class="time"><strong>[00:52:06]</strong> </span><span class="speaker"><strong>发言人2: </strong></span>是的，我觉得这也是属于我们的自己的第一性的不一样。首先我先说一下，我怎么看待说这个市场A股的发展的几个方向。其实你看A镇的发展其实是有明确明显的一个趋势变化的。</p>
-<p class="transcript-line"><span class="time"><strong>[00:52:23]</strong> </span><span class="speaker"><strong>发言人2: </strong></span>你看最早的一代，大家所谓的做的都叫什么？都叫做workflow为base的一个agent。这个里面有很多问题对吧？举个例子，比如说我要做一个机票预定的agent，这个时候你会发现这个workflow是连连连续的。他可能我会说，我要先问你从哪出发，再问你到哪儿去，再问你几个人，然后订票。这是一个简单的workflow。</p>
-<p class="transcript-line"><span class="time"><strong>[00:52:47]</strong> </span><span class="speaker"><strong>发言人2: </strong></span>这时候你就发现我们对顾客要求他按套路出牌。你如果问他说你从哪儿出发？他说我想去上海，这时候他死机了，他会说那你从哪儿出发？他说我要去上海，死机了就是你发现他没办法按照没有泛化能力，这恰恰是模型本身的能力。</p>
-<p class="transcript-line"><span class="time"><strong>[00:53:04]</strong> </span><span class="speaker"><strong>发言人2: </strong></span>所以这种方式当时也有解法，解法是什么呢？我要把它穿成一个蜘蛛网，让每个节点之间都能连接，以最小单元去做连接。这时候你会发现经常会出现错误的流转。这个问题就变成了一个巨大的庞大的规则系统，导致它跑不通。</p>
-<p class="transcript-line"><span class="time"><strong>[00:53:20]</strong> </span><span class="speaker"><strong>发言人2: </strong></span>但是如果你发现另外一种方式，我们今天更加的一种让AI让模型自己去做planner。也就是我认为falk flow的下一代就是用AI原生的方式去做一个agent就会好很多。你会在一个prompt里告诉他说，那你今天是一个机票预定的专员，你需要知道他的出发地、目的地，然后几个人，然后你就可以订票。如果他没有说，你就要问他，好，就这么简单。所以我觉得这就是就刚才我说的第一代叫做workflow，第二代叫做AI这个自我planner的这样的一个agent。但我觉得还有第三代，这就是为什么我们想来做的事儿。</p>
-<p class="transcript-line"><span class="time"><strong>[00:53:58]</strong> </span><span class="speaker"><strong>发言人2: </strong></span>第三代在于你发现今天所有的刚才说的第二代这一类的，包括像minus或者像jasper a这样的公司。你会发现它其实是已经非常好的在应用了模型的原生能力去做泛化了。这件事是个巨大的贡献和巨大的一个突破。但是你会发现他们今天其实都很依赖于模型本身的规划能力。就是说cloud怎么做planner，你是一个没法干预的，你能干预的就是context，在这种情况下的干预是有限的，所以某种程度上太依赖于模型本身能力。如果依赖于模型本身能力，就意味你这件事儿，你对于全世界的任务你都是一种解法。所以我觉得这是一个当前的问题。这就像我刚才讲的，人会分工，同样就是一个分工之后的，哪怕就是一个医生，你在一个不同的医院，不同的科室，你的模型都是不一样的。</p>
-<p class="transcript-line"><span class="time"><strong>[00:54:53]</strong> </span><span class="speaker"><strong>发言人2: </strong></span>但是今天大家是在一个统一的模型里面，所以我认为会有一个第三代的逻辑，就是我们如何除了context以外，我们要有办法去干预模型本身。我让模型原生的会了解我们这个层面的知识，不是信息，是这个层面的映射的动作该怎么去拆解，怎么去做planner。我觉得这件事儿是今天看起来最难的。所以为什么大家都没做？本质上是因为这件事儿大家不知道该怎么做。而我们刚才讲的所谓的商业强化学习，我认为是能够解决这个问题的关键。</p>
-<p class="transcript-line"><span class="time"><strong>[00:55:27]</strong> </span><span class="speaker"><strong>发言人1: </strong></span>其实像刚才那个问题，我觉得可能有些人他会选一个垂直领域去做，这样会简单一点。但是听起来你们选的是什么领域的数字员工都做什么样的A键，或者分工的A键，你们都做，这个是一个什么考虑呢？</p>
-<p class="transcript-line"><span class="time"><strong>[00:55:40]</strong> </span><span class="speaker"><strong>发言人2: </strong></span>你会发现SARS在早期我们做东西的时候，特别喜欢用一个词叫做行业最佳实践。行业最佳实践的逻辑就是说我帮你把行业里面所有的做法都了解了，我给了你一个最佳时间。然后在某种程度上，行业最佳实践不是个体最佳时间，行业最佳实践是一个共性的最佳实践。但没有今日头条的时候，我们看到媒介叫做门户网站，我的编辑帮你选好了。如果你要看体育就看这20篇。随着今日头条发布，你会发现这事儿变了，他希望有一个自己的个体自家身。</p>
-<p class="transcript-line"><span class="time"><strong>[00:56:10]</strong> </span><span class="speaker"><strong>发言人2: </strong></span>我们再说回刚才的这个逻辑，就是我觉得今天的很多垂类agent，我认为他还是在做的是行业最佳实践。本质上我觉得不是因为需求，而是因为妥协。因为你做不起个体最佳实践，所以你选择了行业。但我认为这不本质的逻辑。我们要像管理信息一样，为每一个公司找到他自己的个体的最佳实践。</p>
-<p class="transcript-line"><span class="time"><strong>[00:56:31]</strong> </span><span class="speaker"><strong>发言人1: </strong></span>所以不管是星巴克或者manner或者m stand，就不同的咖啡公司，如果他们都要用一个数字员工去解决一个同样的领域的问题的话。你觉得提供行业最佳实践不如提供企业针对性的个体最佳实践。</p>
-<p class="transcript-line"><span class="time"><strong>[00:56:45]</strong> </span><span class="speaker"><strong>发言人2: </strong></span>从本质上来讲，我觉得其实就是应该是一个个体最佳实践。</p>
-<p class="transcript-line"><span class="time"><strong>[00:56:49]</strong> </span><span class="speaker"><strong>发言人1: </strong></span>那可以结合一个具体的，比如你们最近服务的一个案例来稍微展开讲一讲。</p>
-<p class="transcript-line"><span class="time"><strong>[00:56:55]</strong> </span><span class="speaker"><strong>发言人2: </strong></span>我觉得首先我们还是回归到本质问题上来讲，就是我们怎么看待模型本身，模型的底层。首先今天有一个特别流行的话题叫做模型的不对称性。这个话怎么讲？就是我们发现有的时候就是你发现有的时候模型能做奥数金牌。但有的时候你发现它竖一个store berry一个这样单词里边有几个R它会数错。所以但是在大家的逻辑里边会认为这是模型的缺陷，觉得模型强了就会解决这个问题。但我有个不同的观点，我的观点就是不对称性不是模型的缺陷，而是模型的特性。</p>
-<p class="transcript-line"><span class="time"><strong>[00:57:34]</strong> </span><span class="speaker"><strong>发言人2: </strong></span>所有的智能都是不对称的，人也是不对称的。就是你今天很难讲说是爱因斯坦聪明，还是马云聪明，还是杨振宁聪明。我觉得他首先他们有不一样的目标，所以如果这个问题能达成共识，就是我们相信模型是智能是不对称的。那就我们就要想去怎么利用不对称。</p>
-<p class="transcript-line"><span class="time"><strong>[00:57:57]</strong> </span><span class="speaker"><strong>发言人2: </strong></span>所以我们再延伸一步，就是每个企业自己所构建的环境都是不对称的。就像刚才我们提到的，就是同样的一个咖啡店，对吧？无论是minus或者是manner，或者是这个lucky还是什么，你发现他们的客群都是有微小不一样的。所以我们很难用一个我很难相信他们会购买一个统一的SARS服务来解决他们所有一切的问题。他们就变得没有特性了。我也觉得很难相信说这个红杉IDG蓝池会买统一的一个服务来帮他判断要不要投资。</p>
-<p class="transcript-line"><span class="time"><strong>[00:58:31]</strong> </span><span class="speaker"><strong>发言人2: </strong></span>这个天然就是因为本身环境就是不对称，所以导致智能就是不对称。所以在每一个环境内都会有一个所谓的最优解。所以如果顺着这个逻辑再往上看我并不想构建一个我认知的第一性来给所有的企业去套。我觉得这件事不本质。</p>
-<p class="transcript-line"><span class="time"><strong>[00:58:49]</strong> </span><span class="speaker"><strong>发言人2: </strong></span>如果更加本质的角度来讲，我们每一个企业，每一个工种，每一个场景都是有一个自己的特有环境的。并且这个环境是动态的，每时每刻都在变。两年前的卖东西的方法和今天的卖东西的方法可能就会变得不一样。所以如何如果我们相信每一个商业环境都会有无数的一个独立构成的问题和环境，我觉得那就意味着我们需要找到一个通用的手段，如何把一个general的一个模型去适配到每一个独特的环境，找到每一个环境的最优解，所以这是两种做事情的方式。</p>
-<p class="transcript-line"><span class="time"><strong>[00:59:26]</strong> </span><span class="speaker"><strong>发言人1: </strong></span>那可以具体的介绍一下，比如说今天有一位客户找到你们，你们会给他提供什么样的产品或什么样的一个服务流程，最后实现你想达到的这个效果吗？</p>
-<p class="transcript-line"><span class="time"><strong>[00:59:36]</strong> </span><span class="speaker"><strong>发言人2: </strong></span>假如说你今天来说，你说我今天想找一个帮我选这个访谈人，或者帮我做初步的浅踩的一个agent。说实话我觉得你很难接受我今天卖给你的东西是一个所有的类似的服务都在用的一样的标准的。你一定有强烈自己的能耗。所以这又回到原来的老问题了，那我就要定制，所以他就变回到了软件逻辑，他不general。</p>
-<p class="transcript-line"><span class="time"><strong>[01:00:03]</strong> </span><span class="speaker"><strong>发言人2: </strong></span>如果我今天是一个我们现在在做的方式，我会跟你一起来构建你的问题，你的环境。你会告诉我什么是好，什么是坏，你现在的业务流是什么？你来怎么评估这件事儿。当你构建了这样的一个环境之后，我们相信机器会有一种通用的方式来基于你的环境来学习出最优解。</p>
-<p class="transcript-line"><span class="time"><strong>[01:00:23]</strong> </span><span class="speaker"><strong>发言人2: </strong></span>这个有点像什么呢？有点像阿尔法go。你看阿尔法go当时的逻辑是在于我们把人类历史上的3000万个残局训进了模型。当然他下赢了李世石，但是你发现一年之后出现的阿拉法go zero，它没有任何人类的先验知识。他仅靠自我博弈用了几天的时间，他就超过了阿尔法狗。所以这个本质的逻辑发现说，人类的知识有的时候也是一种噪音。所以我们的目标是在于不是帮你去标3000万的残局，而是在于我应该跟你一起去构建你的围棋的环境和并且之后把它交给机器，让他自己在虚拟的环境里面去找到最优解。</p>
-<p class="transcript-line"><span class="time"><strong>[01:01:04]</strong> </span><span class="speaker"><strong>发言人1: </strong></span>那这里有一个悖论，就是这样做的话，针对每个企业都得去做一些定制。那这个事情要怎么能够规模化呢？</p>
-<p class="transcript-line"><span class="time"><strong>[01:01:11]</strong> </span><span class="speaker"><strong>发言人2: </strong></span>我认为刚才在学习的这个过程，它没定制。原来的定制是在于我理解你的需求，要帮你把它开发成软件。今天的逻辑你只是你可以把它理解为环境的定义，就是一种prompt。你只要软性的定义清楚你到底要做什么事儿，他就帮你得到一个最优解。所以我认为这才是更加general通用的来解决这个问题。</p>
-<p class="transcript-line"><span class="time"><strong>[01:01:31]</strong> </span><span class="speaker"><strong>发言人2: </strong></span>比如说你今天想训练一个销售，那你给我一个5000条的销售的log。我们会利用这种log基于你的环境快速构建出一个实验场，用一个真实模拟你的环境。这时候把你要训练的agent放到这个环境里面，他会自己没日没夜的在你这个环境里去做锻炼，不断的沟通、反馈、学习。当他出来的时候，就已经是跟你的这些日志非常fit的这些逻辑的一个销售了。所以这是我们的目标，所以我觉得这才是通用的办法。</p>
-<p class="transcript-line"><span class="time"><strong>[01:02:01]</strong> </span><span class="speaker"><strong>发言人1: </strong></span>你在质谱的时候，像刚才提到这个夸张的时候，一天打七个电话。那我初步算了一下，很可能两年多你起码接触了1000家中国的企业，你感受到他们一个普遍现在对AI的情绪是什么？</p>
-<p class="transcript-line"><span class="time"><strong>[01:02:14]</strong> </span><span class="speaker"><strong>发言人2: </strong></span>我觉得蛮有意思的是我觉得今天的企业，其实我觉得企业经过了很多轮的变化，我觉得或者会有很多很极端的不同的的变化。一种变化就是一种我们看到的极端的特性，是大家的焦虑。就是很多人非常焦虑，就觉得AI来了，我可能我的生意都不存在了，所以就非常焦虑。还有一些人极度的有信心说自己内部做了个demo，我这AI已经跑通了，我们都可以搞定了。所以我觉得如果你要让我用一个词来形容，我觉得今天的市场是在有一点混沌，就是我觉得他不成熟，我们这个时候我觉得蛮有意思的点，就是你可以看到冰火两重天一重天。</p>
-<p class="transcript-line"><span class="time"><strong>[01:02:57]</strong> </span><span class="speaker"><strong>发言人2: </strong></span>回到我们刚才讲的，从供给侧的角度来看你会发现我们感觉美股每天都在创新高对吧？然后我们发现所有的财报都在快速的增长，这个mega 7？所有这种AI相关的都变得一切都很好啊。然后我们看到各种企业的ARR正在快速的增长。比如说很多垂类的agent公司也好，或者是啊像这个ChatGPT之类的，他们的日活全部一片大好。但是反之我们又冷静下来，你在观测，我们又看到比如说前两天像这个MIT做了一个深度的分析的一个报告。他在1到6月份采访了大概一两百位核心的这种企业里面的高管，得出了一个非常跟我们刚才看到的场景不一样的在需求端的。他会认为有95%的PUC都失败了，那这种论调并不并不新鲜，并不并不少见。</p>
-<p class="transcript-line"><span class="time"><strong>[01:03:50]</strong> </span><span class="speaker"><strong>发言人1: </strong></span>这个和你观察到的企业去落地AI的成功率是类似的吗？</p>
-<p class="transcript-line"><span class="time"><strong>[01:03:55]</strong> </span><span class="speaker"><strong>发言人2: </strong></span>就是我们之前，当然我我我觉得从过去的两年多以来，我们确实服务了深度服务的，不算是那种注册了的，差不多也是有千家以上的客户了。这千家客户以上，我们也自己做过很多内部的复盘。我觉得我们可以看到客户的行为和在逐步的变化。但这里面有一个本质，也是我们内部经常在反思，就是我觉得我们服务了这么多客户，而且我们自认为在市场上还是算是做的不错的。但是如果你要问我有多少客户，因为我们的服务它变成了一家AI导向的公司，或者它的核心业务指标有了一个明显的提升，我其实觉得非常少。什么原因呢？这里有很多的原因，就是如果大家看那个报告里面就会有很多细节的原因。但我觉得最本质的原因，我觉得在过去的两年间，我某种程度上觉得我们今天很多AI的服务给企业提供的是情绪价值而不是业务价值。</p>
-<p class="transcript-line"><span class="time"><strong>[01:04:52]</strong> </span><span class="speaker"><strong>发言人1: </strong></span>这个是因为什么原因导致提供的是情绪价值而不是业务价值？比如说是甲方的原因，这是咱们的原因。</p>
-<p class="transcript-line"><span class="time"><strong>[01:05:01]</strong> </span><span class="speaker"><strong>发言人2: </strong></span>我觉得多方的原因，我觉得这不叫坏事儿。我觉得这就是一个从一个新兴企业逐步成熟的过程。我们看到原来很多老板会演示说，我就要一个知识库就好了当别人来采访的时候，我的展厅里有一个能说化的机器就够了。但是你在真实的场景当中会发现，POC并不等于真正的业务落地。POC只能代表了演示。我们能在一两个单点里表现出非常有价值的亮点就够了。但是如果我们真正放到业务生产环节里边，合规、安全、成本、稳定性，每一个都是一票否决的权，每一个都是一票否决的能力。</p>
-<p class="transcript-line"><span class="time"><strong>[01:05:39]</strong> </span><span class="speaker"><strong>发言人1: </strong></span>那你接触了非常多中国的企业家，你觉得今天大家在面临AI的时候有哪些普遍的困境？</p>
-<p class="transcript-line"><span class="time"><strong>[01:05:46]</strong> </span><span class="speaker"><strong>发言人2: </strong></span>之前张一鸣讲过对吧？说企业的竞争就是认知的竞争。因为严格意义上来讲，除了认知以外，其他的要素都能构建，就是人可以招，钱可以融，然后技术可以买，但是你的认知决定了，我们看到也是你你因为我因为之前有一个流传很广的一个小视频，就是电视台采访好像在一个会上，就是大家问云计算的判断，马云就会认为云计算是一个未来，对吧。然后李彦宏就会觉得这是新瓶装旧酒，对吧。然后马化腾就会认为说，这个事儿还有10年、100年什么的，很远的周期才能实现。所以你最后发现，那显然阿里云现在做的最好，对吧？</p>
-<p class="transcript-line"><span class="time"><strong>[01:06:26]</strong> </span><span class="speaker"><strong>发言人2: </strong></span>但是你会发现这件事儿真的是因为腾讯的技术不够吗？是没有招到人才吗？所以我觉得企业家的认知决定了你自己的判断和战略。所以我觉得所有的企业家不要想偷懒。今天在AI时代学习怎么理解AI这是特别重要的一件事儿，就是你不要把它当成是一个技术问题。很多企业家会觉得AI是一个技术问题，但我想说AI是个业务问题。</p>
-<p class="transcript-line"><span class="time"><strong>[01:06:51]</strong> </span><span class="speaker"><strong>发言人2: </strong></span>我们在很多讨论的时候，你并不需要知道背后就跟我们在讨论一个人一样，对吧？就是你不需要知道这个人的分子结构，或者不需要把这个人解剖掉，对吧？但是你要了解的是人性，你要知道人的特性，预测人的行为，相当于也是对应过来就变成我们这有一个词叫做模型性，对应了人性。你不需要知道transformer是怎么运作的，你不知道它它里边的每一个算法怎么写，你需要知道模型有哪些特性。你怎么利用这些特性？比如我们刚才所讲到的，模型的不对称，智能的不对称性幻觉，然后这些等等这样的这些概念其实本质上都没有一点技术的问题。本质上都是在聊说我们怎么能够理解模型的特性，从而去驾驭，让它转变到业务当中。</p>
-<p class="transcript-line"><span class="time"><strong>[01:07:40]</strong> </span><span class="speaker"><strong>发言人2: </strong></span>所以我觉得每一个企业家当仁不让，你要让自己变成你公司的，某种意义上是一个AI的先知。你不可能有别人比你更早了解AI跟业务的结合，也不可能有供应商比你更早，也不可能有模型厂商比你更早。所以你要比别人更早的理解AI跟你业务的结合。所以你可以把它当成战略要素当中的必选的一环。</p>
-<p class="transcript-line"><span class="time"><strong>[01:08:05]</strong> </span><span class="speaker"><strong>发言人2: </strong></span>就像我们刚才讲的话题，你要视模型为人，就像理解人性一样。你发现模型有很多特性跟我们预想的不一样。比如很多人我们看到了一些海外的论文，再去做模型之间的博弈。他让一个模型装成一个seller，也就是一个销售，再变成一个顾客，一个buyer，两个人去做博弈。你会发现这个结论非常没法看，就是这个seller有一个成本价，bar有一个预算，他俩人只要达到了就成交。没有任何我们真正想要模拟出的东西。</p>
-<p class="transcript-line"><span class="time"><strong>[01:08:34]</strong> </span><span class="speaker"><strong>发言人2: </strong></span>这个背后原因是啥？是如果你真的是理解模型，你就发现这个不奇怪。第一模型第一个特性叫什么呢？叫做讨好型人格。它基于ROHF的训练，让这个模型天然都会倾向于让他去满足对方，这是原来的训练所带来的。所以如果你要在这个里面去构建，你要明白这是他的特性。</p>
-<p class="transcript-line"><span class="time"><strong>[01:08:56]</strong> </span><span class="speaker"><strong>发言人2: </strong></span>然后如果你知道如果你在一个群体做一个melty agent，在这里边你所有的讨好性人格是会被叠加的。所以它的偏差会变得进一步放大。所以这些东西跟技术一点关系都没有。但是如果你不知道这些能力，你不了解模型，你很难做出一个有效的判断。</p>
-<p class="transcript-line"><span class="time"><strong>[01:09:14]</strong> </span><span class="speaker"><strong>发言人1: </strong></span>这还挺有意思的。</p>
-<p class="transcript-line"><span class="time"><strong>[01:09:15]</strong> </span><span class="speaker"><strong>发言人2: </strong></span>我经常会举一个例子，我觉得你可以把基座模型理解为是一个大海非常宽广波动，对吧？但这个时候你觉得我要胜出别人，所以我要比这个大海变得更高。所以我会有两种做法。一种做法就叫做我要在上面修一个灯塔，我才能看得足够高，对吧？但是这个时候你要注意海平面每半年要长100米，所以你的灯塔不断的在修，不断的被淹没，所以你完全没有沉淀。</p>
-<p class="transcript-line"><span class="time"><strong>[01:09:43]</strong> </span><span class="speaker"><strong>发言人2: </strong></span>很多公司证明了这个。我不知道大家了不了解，像以前早期的像jasper，非常快，十个月的时候已经变成了一个独角兽公司。但是很快随着chat PGPT的发布，又又又变得销声匿迹了。本质上还是因为我觉得他没有找到那个边界。所以我给大家的建议是说，你不要在海面上修灯塔，你要在海面上修一条船。船的逻辑在于你跟模型是解耦的。就是海平面在上涨你继续对你船在上涨，你船只上还继续涨。所以这是一个你跟模型的能力解耦。</p>
-<p class="transcript-line"><span class="time"><strong>[01:10:18]</strong> </span><span class="speaker"><strong>发言人1: </strong></span>的那大家都知道，就是轮船要比灯塔好。但是企业家怎么去造这个轮船，而不是造着造着发现自己结果造出来是个灯塔。</p>
-<p class="transcript-line"><span class="time"><strong>[01:10:26]</strong> </span><span class="speaker"><strong>发言人2: </strong></span>我们今天觉得如果我们今天把它放到产业里面来看，我们不应该是一个二维的坐标。我们应该把它变成一个三维的坐标，我们要在这里面再衍生一维度，叫做什么呢？叫做业务逻辑。</p>
-<p class="transcript-line"><span class="time"><strong>[01:10:39]</strong> </span><span class="speaker"><strong>发言人2: </strong></span>就是你看模型再牛，它不能解决旅游的供应链，它不能解决旅游的服务，它不能解决医院的看病。所以这个时候我就给企业家定了一个目标，我觉得你在做业务的时候，你要考虑你的模型含量。模型含量不是越高越好，也不是越低越好。越高你就跟模型正面竞争，很快就可能会被竞争掉。你要太低就跟你就跟这个时代没关系。所谓模型含量最好在50%，也就意味着你有一半的竞争力来自于你原有的业务，有一半的竞争力来自于模型的放大。这两者的结合是你的核心壁垒。</p>
-<p class="transcript-line"><span class="time"><strong>[01:11:16]</strong> </span><span class="speaker"><strong>发言人2: </strong></span>我们其实可以看到早期的时候，像两个典型的案例，一个是jasper他当时是帮他人去做广告文案的。在GPT3出来的时候，ChatGPT还没有发布的时候，他其实非常快速的就有了几千万美金的ARR。当时绝对是明星公司，业务增长的非常快。但是你可以发现ChatGPT发布之后六个月快速陨落，因为模型完全覆盖掉它的业务，他没有建立那个轮船的壁垒，对吧？他建了一个100米的灯塔，ChatGPT1发布100米长完了，所以很快就竞争掉了。但是你与之同样，你再看另外一家，比如说notion，它也是非常早在GPT3的时候，他就已经发布了所谓的都是AI但是你可以发现他no AI对他的价值带来的越来越大。所以在二三年24年你可以看它的财报和单人的收入是明显较之原来上涨的。</p>
-<p class="transcript-line"><span class="time"><strong>[01:12:06]</strong> </span><span class="speaker"><strong>发言人2: </strong></span>所以本质逻辑就是什么？它除了模型之外，它还有自己的原有的办公软件体系的部分，而jasper没有。所以我觉得今天的逻辑，每个企业家都要觉得说AI时代如果你想形成一个竞争优势，如何构建你业务的优势和模型的放大，这两件事是缺一不可的。所以，如果说回来这个里边也有很多的误区。大家通常都会觉得说，我觉得比较典型的误区。大家就会认为说数据是一切。大家总会讲到说，我我我有很多数据，我们见过很多企业来找我们聊说我这个聊天的数据有也有几千万。</p>
-<p class="transcript-line"><span class="time"><strong>[01:12:44]</strong> </span><span class="speaker"><strong>发言人2: </strong></span>对我都拿来给你训训完是不是模型就好了，对吧？我说训完的模型就废了，所以就是数据不是那么有用，或者大家也不必把数据当成那么关键。所以因为这个时代你相不相信这个时代的环境是在变的，每时每刻的答案是不一样的。所以与其构建数据，不如构建生产数据的业务场景。如果你有了这样的一个业务场景，它会源源不断的从自然界来生产，就你要把它当成一块田，而不是把它当成一个固定的庄稼。</p>
-<p class="transcript-line"><span class="time"><strong>[01:13:15]</strong> </span><span class="speaker"><strong>发言人2: </strong></span>就是如果我们今天在企业内部如何去理解了模型的特性和业务方向之后，你去构建这个业务场景。你构建这个业务场景来设计它怎么产生数据。如果你这个设计的好，你就会发现这个钱会源源不断的把真实世界的变化变成最新的理解给到你。这是每一个企业的护城河，我觉得这是企业核心的核心。</p>
-<p class="transcript-line"><span class="time"><strong>[01:13:39]</strong> </span><span class="speaker"><strong>发言人1: </strong></span>所以你会觉得如果要去帮助企业更好的提升实际的生产力，这个是今天原理智能就是你们想要做的事情，而听起来是你们要做的事情，它是比较泛化的，没有在一个垂直领域去切入。但是我这里面可能也有另外一种，就是我个人的疑惑。就如果他能够被泛化，那他会不会其实最后还是是这个基础大模型，或者我们今天说的大厂的机会，而不是一个创业。</p>
-<p class="transcript-line"><span class="time"><strong>[01:14:05]</strong> </span><span class="speaker"><strong>发言人2: </strong></span>公司的机会。OK我觉得不会，或者说我觉得大厂肯定是重要的一个一一个参与方了。但是我觉得这里面有几个原因。我觉得第一个原因，我们先看产品本身的壁垒。</p>
-<p class="transcript-line"><span class="time"><strong>[01:14:20]</strong> </span><span class="speaker"><strong>发言人2: </strong></span>首先来讲，你发现机动模型其实是一个很艰难的事儿。因为你发现机构模型没壁垒，或者说它某种程度上是一个后发优势的方向。就是最早大家都会认为ROHF会对这个模型是产生数据飞轮。其实你今天看下来，其实这个事情没那么关键，也没那么主流。所以你会发现为什么我说它是一个后发优势的事儿。就是因为我比你晚做三个月模型，我可能成本是你的一半。就一方面算力变便宜了，一方面我还能蒸馏你。所以你会发现其实而且他自己的迭代其实不像以前。</p>
-<p class="transcript-line"><span class="time"><strong>[01:14:56]</strong> </span><span class="speaker"><strong>发言人2: </strong></span>你看以前我们如果做，比如像百度，其实它是有数据飞轮的。它的数据飞轮的逻辑在于说，有你会随着你业务的应用，你会增强某部分能力。比如说我们原来如果你搜索一个词叫做荷塘月色，你会发现这个词里边有菜、有歌、有小区、可能有餐厅，有很多东西。这个时候如果你站在技术的角度，你根本不知道谁该排第一，就匹配度都是百分之百。但是如果一旦百度上线了，你会发现你得到了大量原来没有的信息。比如说你发现北京的人民特别喜欢点小区，可能北京有个小区叫荷塘月色。</p>
-<p class="transcript-line"><span class="time"><strong>[01:15:32]</strong> </span><span class="speaker"><strong>发言人2: </strong></span>你发现天津人民特别喜欢点餐厅，那可能天津有一个餐厅。这个信息就是原来没有的，所以它就会形成一个飞轮。就是我越滚动，我的信息比别人越多，我的效果就越好。这个时候你别人越难追赶，但是你发现这件事儿在大模型里边没没发生，所以大模型的逻辑在于ROHF到了一定的阶段，其实不是特别有效。你看我今天用ChatGPT，他经常给我一个五千字的反馈，给我两个让我选哪个好，我真选不出来对吧？所以从这个逻辑上来讲，我觉得在AI角度这个里边的就是大模型基座，模型本身的飞轮没起来。</p>
-<p class="transcript-line"><span class="time"><strong>[01:16:07]</strong> </span><span class="speaker"><strong>发言人2: </strong></span>但是你发现是如果进到agent这个事情开始发生变化。就是我就好比说我们今天说一个高中生怎么变成一个更好的人，你发现它很难变，因为他没标准。但是如果我今天说这个医生怎么变成一个更好的医生，这个事儿就可衡量了。怎么变成一个更好的程序员，这个事儿就可衡量了。</p>
-<p class="transcript-line"><span class="time"><strong>[01:16:26]</strong> </span><span class="speaker"><strong>发言人2: </strong></span>如果你从一个通用能力变成一个生产力环节的一个数字员工，首先它是一个带有数据飞轮的。如果你有越来越多的销售在场景里用，就意味着你能从这个场景里收获到越来越多的知识。里面所以如果我们今天能够把市面上常用的工种，比如说50个工种，每一个都构建了足够强的一个共性的相鲜艳的知识。其实会让所有的企业在驯化自己模型的时候，它的效率会变得更高。所以我觉得从这个点上来讲，我觉得他是一个有壁垒的。</p>
-<p class="transcript-line"><span class="time"><strong>[01:16:59]</strong> </span><span class="speaker"><strong>发言人2: </strong></span>你会发现这个就很像是不是大模型这个时代该做的事儿。你发现在大模型以前，比如我们上一个时代就是AS小龙时代。在那一波AI的时候，你发现那个时候并不是一个通用AI每一个AI都是垂类ai就是会有人做一个车牌识别，有人做一个人脸识别，每一个都是一个独立的agent。但如果你会发现这种agent能力本身它的构建就不是在泛化能力基础之上的。我今天识别一个新版本的发票和另外一个版本的发票，我的几万条数据都是白标的。所以某种程度上我觉得做垂类这件事儿，在今天这个时代我认为不本质。我们希望找到一个像原来的NLP的一个的垂类模型，转变为基座大模型的一个逻辑。我们希望能有一个通用的方法来解决问题，这就是AGI的这个general本身的逻辑。</p>
-<p class="transcript-line"><span class="time"><strong>[01:17:54]</strong> </span><span class="speaker"><strong>发言人2: </strong></span>所以我不太相信，或者说我认为也许在一两年之内看到的，我们确实是把一些人类的知识复刻到机器里面，让大家用一个行业的最佳实践。但是我觉得这件事儿从第一性角度来讲，它不本质。我认为更好的本质在于说我们必须为学习建模。我们有一套通用的学习的手段，让每一个模型都有一个统一的方法，适应到我们每一个独立的任务当中。</p>
-<p class="transcript-line"><span class="time"><strong>[01:18:21]</strong> </span><span class="speaker"><strong>发言人1: </strong></span>其实我想到你第一次创业的时候做妙计旅行。你当时其实是很自下而上的找了一个用户的痛点需求。就比如他要去意大利旅行，他收机票，他其实去罗马也行，去佛罗伦萨也行，去米兰也行。但是用户原来这个平台就只能让他就一个一个的搜。但其实在你这儿就可以说，我就是去意大利，反正你帮我把这个我不管先后去哪个城市都行。然后这样就可以有更复杂的一个搜索环境，因此可以得到更好的结果。</p>
-<p class="transcript-line"><span class="time"><strong>[01:18:50]</strong> </span><span class="speaker"><strong>发言人1: </strong></span>但是刚才在听你介绍，就这一次创业就做原理智能的时候，我觉得好像就是另外一种视角。就比较从上到下你会经常在讲这个低薪原理是什么？在这个时代我们有什么样的技术基础，所以应该做什么样的事情。这其实是我就在我看来，我我我的观察是这好像是两种很不一样的创业的切入点。对你觉得这个在你身上是发生了一些什么样的变化？</p>
-<p class="transcript-line"><span class="time"><strong>[01:19:16]</strong> </span><span class="speaker"><strong>发言人2: </strong></span>就是我觉得这是两套思考逻辑的不一样。就是我觉得从一个成熟一点的角度来讲，我们不应该从一些表象里边去找特征。因为表象是会变的，我们希望能够在这个里边去在表象当中去理解到什么东西是不变。所以这就让我觉得在今天在创业选择的时候，我们总想去从底层找到那些不变的和确定性的一些方向。你看黄仁勋的本质上是在很早在没有任何收益的情况下，他坚持要投资酷达。然后当时消耗掉了他巨大的资金，而且他要求给所有的显卡都会去做酷达。</p>
-<p class="transcript-line"><span class="time"><strong>[01:20:00]</strong> </span><span class="speaker"><strong>发言人2: </strong></span>当时到底但是他这个创业很奇怪的点是在于什么？当时没有应用场景，只有个别科学家在用。但是他自己在把企业自己的目标认为并行计算是一个未来。所以他从最底层推测了并行计算在未来的价值。所以当这个库塔推出10年之后，AI出现了之后，它产生了几十何式的爆发。所以这就是它不是通过表象看到了一个单点，找到了一个需求，而是通过底层的逻辑推演出来，一定会出现这样的一个变化。所以我觉得在今天，特别是表象这么凌乱和这么复杂的情况下，我觉得我们要更加deep的去思考，去找到那个趋势的变化。</p>
-<p class="transcript-line"><span class="time"><strong>[01:20:41]</strong> </span><span class="speaker"><strong>发言人1: </strong></span>就在过去两年，有什么你曾经相信的事情，你现在不相信了。</p>
-<p class="transcript-line"><span class="time"><strong>[01:20:48]</strong> </span><span class="speaker"><strong>发言人2: </strong></span>我想跟大家分享一个小点。我跟你说的相反，我是原来不相信，现在相信的事儿。我想用这个来说明两个时代的变化。比如说关于合成数据，就是我最开始是不相信合成数据的。因为我是作为一个传统做NOP的人，我们原来什么叫合成数据呢？就是我用规则来生成一堆数据，然后从而进行模型训练。</p>
-<p class="transcript-line"><span class="time"><strong>[01:21:14]</strong> </span><span class="speaker"><strong>发言人2: </strong></span>所以站在我们原来逻辑里觉得这是不可思议的。就是因为你想我如果用100条规则生成1万条数据，然后我再去训练模型，那我干嘛不直接用那100条规则？所以听起来是个反常识的事儿。</p>
-<p class="transcript-line"><span class="time"><strong>[01:21:27]</strong> </span><span class="speaker"><strong>发言人2: </strong></span>在这个过程中你就会觉得说就是模型这样，我们有在这个技术界有个词叫over fitting，叫做过拟合，就是你太拟合。这100条规则，其实因为它背后是一个很明确的规则。但是后来在今年或者去年有一个时间点，我就突然相信这件事儿了。我就发现我也是站在了旧的坐标系里来看新的问题。</p>
-<p class="transcript-line"><span class="time"><strong>[01:21:51]</strong> </span><span class="speaker"><strong>发言人2: </strong></span>我天然有一个假设，规则得比数据少。大家通常都想说我要100条规则生成1万条训练语料，它就会过拟合。但是为什么他得是100条规则生成1万条训练语料呢？为什么不能反过来，不能是一万条规则生成100条训练语料呢？如果一万条规则剩100条训练语料，他就一定不会供你合。那这个事儿听起来就反常识，说我有能力标一万条训练一万条规则，我为什么不直接标一万条训练语料？</p>
-<p class="transcript-line"><span class="time"><strong>[01:22:20]</strong> </span><span class="speaker"><strong>发言人2: </strong></span>我觉得这个关键就在于预训练，就是你发现我们并不需要说是真正自己去标这一万条数据。如果我们今天大模型就是那个杠杆，就是我们今天给大模型一个prompt。这个大模型本身如果它有1000万，不是它有这个万亿参数，你甚至某种可以意味着它有这个万亿条规则。如果我们增加了一个prompt，或者我们训练了这个100条数据，其实意味着这1万亿的参数全都做了更改。某种程度上它就是把它映射到了一个人类原有智慧上，变成了一个更大规则的变化。所以这个时候我再生成的训练语料当然可以用了，所以他就不会过拟合，他相当于把原来的规则做了叠加，这是我原来没想到的。</p>
-<p class="transcript-line"><span class="time"><strong>[01:23:06]</strong> </span><span class="speaker"><strong>发言人2: </strong></span>就是我我我讲这个故事想告诉大家说，其实我们都是总是自觉和不自觉的陷在了我们原来的认知里面。而今天在AI这个里边，我觉得认知是要被快速升级的。我们一定要空杯心态，我们一定要从更加的第一性角度去探索这些不一样的部分。我觉得这个是蛮有意思，我想通了你会觉得很开心，没想通的时候会觉得这也是为什么我们今天在做商业强化学习的时候，里面有大量的AI的博弈。就理论上AI已经在这儿了，你为什么要通过博弈来产生新的知识？本质上就是因为我觉得两个博弈体就是因为两套规则添加了两套不一样的prompt，或者是做了两个微小的调整，让两类知识能够进行博弈，从而阐述一种一些全新的知识。所以底层都来自于这个第一性。</p>
-<p class="transcript-line"><span class="time"><strong>[01:23:56]</strong> </span><span class="speaker"><strong>发言人1: </strong></span>然后最后一个问题，如果今天给你300万美金，让你去做天使投资，可以投三个人。不管他是现在的已经在创业的人，还是你认为如果他创业一定会做的非常好的人，你能想到哪三个名字？</p>
-<p class="transcript-line"><span class="time"><strong>[01:24:11]</strong> </span><span class="speaker"><strong>发言人2: </strong></span>我觉得如果300万美金看目标是啥？</p>
-<p class="transcript-line"><span class="time"><strong>[01:24:14]</strong> </span><span class="speaker"><strong>发言人1: </strong></span>目标是要投出一个billion company.</p>
-<p class="transcript-line"><span class="time"><strong>[01:24:19]</strong> </span><span class="speaker"><strong>发言人2: </strong></span>我觉得这个难度太大的了，太难了。如果今天我有300万美金，我且所有公司都能投的话，我觉得我会做三份。一份我会把它投在大厂里面，一份我会把它投在模型公司里面，一份投到这个thinking machine slab这家公司里面。</p>
-<p class="transcript-line"><span class="time"><strong>[01:24:39]</strong> </span><span class="speaker"><strong>发言人2: </strong></span>这是一个不太在聚光灯前的公司，虽然它融资很高。我看到他们其实对于商业和AI的本身是有深度理解和洞察的，我觉得非常稀缺。就是你看他们今天的所有的研究都在于如何高效地让机器更好的去做学习。这就是在我们刚才的这个路径上走得更快。因为他们比我们更有钱，我们没有办法像他们走的这么激进。但是我觉得这个方向是我认为高度认可的。</p>
-<p class="transcript-line"><span class="time"><strong>[01:25:07]</strong> </span><span class="speaker"><strong>发言人1: </strong></span>OK, 今天很开心请到张帆，然后也祝福就是你和原理智能可以在这一次新的创业里面一帆风顺。好，也期待你可以再来十字路口，谢谢科技。好。</p>
-<p class="transcript-line"><span class="time"><strong>[01:25:18]</strong> </span><span class="speaker"><strong>发言人2: </strong></span>谢谢。</p>
-<p class="transcript-line"><span class="time"><strong>[01:25:23]</strong> </span><span class="speaker"><strong>发言人1: </strong></span>如果你认为有朋友也会喜欢本期十字路口的内容，请转发微信推荐给他们。最后欢迎你加入十字路口的会员群，我们鼓励大家在群里聊天互动，交朋友，寻找未来的同路人。</p>]]></content:encoded>
-            <pubDate>Sun, 16 Nov 2025 16:00:00 GMT</pubDate>
-            <guid>691952ddcbba038b42bd9077</guid>
         </item>
     </channel>
 </rss>
