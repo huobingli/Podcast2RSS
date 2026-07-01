@@ -169,7 +169,7 @@ def test_rss_processor():
 
 
 def test_podcast_update_all_logic():
-    """测试 update_all 中的订阅列表逻辑（mock API）"""
+    """测试 update_all 中的公开播客信息更新逻辑（mock API）"""
     print("=== 测试 update_all 逻辑 ===")
 
     with tempfile.TemporaryDirectory() as tmpdir:
@@ -182,15 +182,12 @@ def test_podcast_update_all_logic():
         }
         (storage.podcasts_dir / "pid_a.json").write_text(json.dumps(old_info))
 
-        # 模拟订阅列表返回（pid_a 有更新，pid_b 是新的）
-        mock_subscription = [
-            {"pid": "pid_a", "title": "播客A", "brief": "", "episodeCount": 10,
-             "description": "", "latestEpisodePubDate": "2025-02-01T00:00:00Z"},
-            {"pid": "pid_b", "title": "播客B", "brief": "", "episodeCount": 5,
-             "description": "", "latestEpisodePubDate": "2025-01-15T00:00:00Z"},
-            {"pid": "pid_other", "title": "不在配置中", "brief": "", "episodeCount": 1,
-             "description": "", "latestEpisodePubDate": "2025-01-01T00:00:00Z"},
-        ]
+        mock_podcasts = {
+            "pid_a": {"pid": "pid_a", "title": "播客A", "brief": "", "episodeCount": 10,
+                      "description": "", "latestEpisodePubDate": "2025-02-01T00:00:00Z"},
+            "pid_b": {"pid": "pid_b", "title": "播客B", "brief": "", "episodeCount": 5,
+                      "description": "", "latestEpisodePubDate": "2025-01-15T00:00:00Z"},
+        }
 
         # 构造 mock PodcastClient
         with patch('src.core.podcast.PodcastClient.__init__', return_value=None):
@@ -200,11 +197,13 @@ def test_podcast_update_all_logic():
             client.headers = {}
             client.session = MagicMock()
 
-            # mock get_subscription 和 get_episodes
-            client.get_subscription = MagicMock(return_value=mock_subscription)
-            client.ensure_token = MagicMock()
+            def mock_get_podcast_info(pid):
+                if pid not in mock_podcasts:
+                    raise ValueError(f"missing {pid}")
+                return mock_podcasts[pid]
+
+            client.get_podcast_info = MagicMock(side_effect=mock_get_podcast_info)
             client.get_episodes = MagicMock(return_value=[])
-            client.refresh_token = MagicMock()
 
             pids = ["pid_a", "pid_b", "pid_c"]  # pid_c 不在订阅列表中
             changed = client.update_all(pids)
@@ -214,8 +213,7 @@ def test_podcast_update_all_logic():
             assert "pid_b" in changed, f"pid_b should be changed, got {changed}"
             assert "pid_c" not in changed, f"pid_c should not be changed, got {changed}"
 
-            # 验证调用了 get_subscription 而不是 fetch_all_podcast_info
-            client.get_subscription.assert_called_once()
+            assert client.get_podcast_info.call_count == 3
 
         print("  update_all 逻辑测试通过")
 
@@ -261,38 +259,64 @@ def test_parallel_prepare():
         print(f"  6 个任务并行准备耗时 {elapsed:.1f}秒（串行预期 3 秒），测试通过")
 
 
-def test_refresh_token_syncs_to_session():
-    """测试 refresh_token 后 access token 同步到 session.headers"""
-    print("=== 测试 refresh_token 同步 session ===")
+def test_podcast_client_parses_next_data():
+    """测试小宇宙公开页面 __NEXT_DATA__ 解析"""
+    print("=== 测试公开页面数据解析 ===")
 
     with tempfile.TemporaryDirectory() as tmpdir:
         storage = _create_storage(tmpdir)
 
-        with patch('src.core.podcast.PodcastClient.__init__', return_value=None):
-            from src.core.podcast import PodcastClient
-            client = PodcastClient.__new__(PodcastClient)
-            client.storage = storage
-            client.headers = {
-                "host": "api.xiaoyuzhoufm.com",
-                "applicationid": "app.podcast.cosmos",
-                "x-jike-refresh-token": "fake-refresh-token",
-            }
-            client.session = MagicMock()
-            client.session.headers = dict(client.headers)
+        from src.core.podcast import PodcastClient
+        client = PodcastClient(storage)
 
-            # mock refresh API 返回
-            mock_resp = MagicMock()
-            mock_resp.ok = True
-            mock_resp.json.return_value = {"x-jike-access-token": "new-access-token"}
-            client.session.post.return_value = mock_resp
+        payload = {
+            "buildId": "build_123",
+            "props": {
+                "pageProps": {
+                    "podcast": {
+                        "pid": "pid_a",
+                        "title": "播客A",
+                        "brief": "简介",
+                        "description": "描述",
+                        "episodeCount": 1,
+                        "latestEpisodePubDate": "2025-02-01T00:00:00Z",
+                        "episodes": [
+                            {
+                                "eid": "ep1",
+                                "pid": "pid_a",
+                                "title": "剧集1",
+                                "duration": 3600,
+                                "enclosure": {"url": "https://example.com/ep1.m4a"},
+                                "media": {"size": 123, "mimeType": "audio/mp4"},
+                                "pubDate": "2025-02-01T00:00:00Z",
+                                "podcast": {"author": "作者"},
+                            }
+                        ],
+                    }
+                }
+            },
+        }
+        html = (
+            '<html><script id="__NEXT_DATA__" type="application/json">'
+            f'{json.dumps(payload)}'
+            '</script></html>'
+        )
 
-            client.refresh_token()
+        mock_resp = MagicMock()
+        mock_resp.text = html
+        mock_resp.raise_for_status.return_value = None
+        client.session.get = MagicMock(return_value=mock_resp)
+        client._get_episode_detail = MagicMock(return_value=None)
 
-            assert client.headers.get("x-jike-access-token") == "new-access-token"
-            assert client.session.headers.get("x-jike-access-token") == "new-access-token", \
-                "access token 未同步到 session.headers"
+        info = client.get_podcast_info("pid_a")
+        episodes = client.get_episodes("pid_a")
 
-        print("  refresh_token 同步测试通过")
+        assert info["title"] == "播客A"
+        assert info["latestEpisodePubDate"] == "2025-02-01T00:00:00Z"
+        assert episodes[0]["eid"] == "ep1"
+        assert episodes[0]["enclosure"]["url"] == "https://example.com/ep1.m4a"
+
+        print("  公开页面数据解析测试通过")
 
 
 def _create_storage(tmpdir):
@@ -308,6 +332,7 @@ if __name__ == "__main__":
         test_episode_collector,
         test_rss_processor,
         test_podcast_update_all_logic,
+        test_podcast_client_parses_next_data,
         test_parallel_prepare,
     ]
 
