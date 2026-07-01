@@ -1,23 +1,21 @@
 import json
-import os
-import random
 import pendulum
-from retrying import retry
 import requests
-from pathlib import Path
-import time
 import logging
-import yaml
-from datetime import datetime
+import re
+import time
+from html import unescape
 
-from src.core.storage import Storage
 from src.config.paths import RSS_MAX_EPISODES
 
 # 配置日志
 logger = logging.getLogger(__name__)
 
+
 class PodcastClient:
     """小宇宙播客客户端"""
+
+    BASE_URL = "https://www.xiaoyuzhoufm.com"
     
     def __init__(self, storage):
         """初始化客户端
@@ -26,168 +24,101 @@ class PodcastClient:
             storage: Storage实例，用于管理数据存储
         """
         self.storage = storage
-        
-        # 加载所有可用的 refresh token，随机选择一个使用
-        tokens = self._load_refresh_tokens()
-        chosen = random.choice(tokens)
-        chosen_index = tokens.index(chosen) + 1
-        logger.info(f"已加载 {len(tokens)} 个 refresh token，本次随机使用 #{chosen_index}")
-        
+        self._podcast_cache = {}
         self.headers = {
-            "host": "api.xiaoyuzhoufm.com",
-            "applicationid": "app.podcast.cosmos",
-            "x-jike-refresh-token": chosen,
-            "x-jike-device-id": "5070e349-ba04-4c7b-a32e-13eb0fed01e7",
+            "User-Agent": (
+                "Mozilla/5.0 (Windows NT 10.0; Win64; x64) "
+                "AppleWebKit/537.36 (KHTML, like Gecko) "
+                "Chrome/122.0.0.0 Safari/537.36"
+            ),
+            "Accept": "text/html,application/xhtml+xml,application/xml;q=0.9,*/*;q=0.8",
+            "Accept-Language": "zh-CN,zh;q=0.9,en;q=0.8",
         }
         self.session = requests.Session()
         self.session.headers.update(self.headers)
+        logger.info("使用小宇宙公开网页数据源，无需 refresh token")
+
+    def _request(self, url):
+        for attempt in range(3):
+            resp = self.session.get(url, timeout=30)
+            if resp.status_code not in (429, 500, 502, 503, 504):
+                resp.raise_for_status()
+                return resp
+
+            if attempt == 2:
+                resp.raise_for_status()
+
+            wait_seconds = 2 * (attempt + 1)
+            logger.warning(f"请求小宇宙页面失败 {resp.status_code}，{wait_seconds}s 后重试: {url}")
+            time.sleep(wait_seconds)
+
+        raise RuntimeError(f"请求失败: {url}")
 
     @staticmethod
-    def _load_refresh_tokens():
-        """从环境变量加载所有可用的 refresh token
-        
-        支持两种配置方式：
-        1. REFRESH_TOKEN_1 ~ REFRESH_TOKEN_5（推荐，多token随机轮换）
-        2. REFRESH_TOKEN（兼容旧配置，单token）
-        """
-        tokens = []
-        for i in range(1, 6):
-            token = os.getenv(f"REFRESH_TOKEN_{i}")
-            if token:
-                tokens.append(token)
-        
-        # 兼容旧的单 token 配置
-        if not tokens:
-            single_token = os.getenv("REFRESH_TOKEN")
-            if single_token:
-                tokens.append(single_token)
-        
-        if not tokens:
-            raise Exception("缺少必要的环境变量: 请设置 REFRESH_TOKEN_1~5 或 REFRESH_TOKEN")
-        
-        return tokens
+    def _parse_next_data(html):
+        match = re.search(
+            r'<script id="__NEXT_DATA__" type="application/json"[^>]*>(.*?)</script>',
+            html,
+            re.DOTALL,
+        )
+        if not match:
+            raise ValueError("未找到小宇宙页面中的 __NEXT_DATA__")
 
-    def ensure_token(self):
-        """确保token有效"""
-        if "x-jike-access-token" not in self.headers:
-            self.refresh_token()
+        raw_data = match.group(1)
+        try:
+            return json.loads(raw_data)
+        except json.JSONDecodeError:
+            return json.loads(unescape(raw_data))
 
-    @retry(stop_max_attempt_number=3, wait_fixed=5000)
-    def refresh_token(self):
-        """刷新访问令牌"""
-        url = "https://api.xiaoyuzhoufm.com/app_auth_tokens.refresh"
-        resp = self.session.post(url)
-        if not resp.ok:
-            raise Exception(f"刷新令牌失败: {resp.text}")
-        token = resp.json().get("x-jike-access-token")
-        if not token:
-            raise Exception("未获取到有效的访问令牌")
-        self.headers["x-jike-access-token"] = token
-        self.session.headers["x-jike-access-token"] = token
-        # 等待token生效
-        time.sleep(1)
+    def _get_podcast_payload(self, pid):
+        """从公开播客页读取 Next.js 数据。"""
+        pid = pid.strip()
+        if pid in self._podcast_cache:
+            return self._podcast_cache[pid]
 
-    @retry(stop_max_attempt_number=3, wait_fixed=5000)
-    def get_subscription(self):
-        """获取订阅的播客列表"""
-        self.ensure_token()
-        results = []
-        url = "https://api.xiaoyuzhoufm.com/v1/subscription/list"
-        data = {
-            "limit": 25,
-            "sortBy": "subscribedAt",
-            "sortOrder": "desc",
+        url = f"{self.BASE_URL}/podcast/{pid}"
+        next_data = self._parse_next_data(self._request(url).text)
+        podcast = next_data.get("props", {}).get("pageProps", {}).get("podcast")
+        if not podcast:
+            raise ValueError(f"未获取到播客信息: {pid}")
+
+        payload = {
+            "build_id": next_data.get("buildId"),
+            "podcast": podcast,
         }
-        loadMoreKey = ""
-        while loadMoreKey is not None:
-            if loadMoreKey:
-                data["loadMoreKey"] = loadMoreKey
-            resp = self.session.post(url, json=data)
-            if resp.ok:
-                loadMoreKey = resp.json().get("loadMoreKey")
-                results.extend(resp.json().get("data"))
-            else:
-                self.refresh_token()
-                raise Exception(f"Error {data} {resp.text}")
-        return results
+        self._podcast_cache[pid] = payload
+        return payload
 
-    @retry(stop_max_attempt_number=3, wait_fixed=5000)
+    def _get_episode_detail(self, build_id, eid):
+        """读取单集详情，用于补全 shownotes。失败时由调用方回退到列表数据。"""
+        if not build_id or not eid:
+            return None
+
+        url = f"{self.BASE_URL}/_next/data/{build_id}/episode/{eid}.json"
+        resp = self._request(url)
+        return resp.json().get("pageProps", {}).get("episode")
+
     def get_episodes(self, pid):
         """获取播客剧集列表"""
-        self.ensure_token()
-        url = "https://api.xiaoyuzhoufm.com/v1/episode/list"
-        episodes = []
-        load_more_key = None
-        
-        while True:
-            data = {
-                "limit": 25,
-                "pid": pid,
-            }
-            if load_more_key:
-                data["loadMoreKey"] = load_more_key
-                
-            resp = self.session.post(url, json=data)
-            if not resp.ok:
-                if resp.status_code == 401:
-                    self.refresh_token()
-                    continue
-                raise Exception(f"获取剧集列表失败: {resp.text}")
-                
-            resp_data = resp.json()
-            new_episodes = resp_data.get("data", [])
-            if not new_episodes:
-                break
-                
-            episodes.extend(new_episodes)
-            if len(episodes) >= RSS_MAX_EPISODES:
-                break
-            load_more_key = resp_data.get("loadMoreKey")
-            if not load_more_key:
-                break
+        payload = self._get_podcast_payload(pid)
+        build_id = payload.get("build_id")
+        raw_episodes = payload["podcast"].get("episodes") or []
+        episodes = raw_episodes[:RSS_MAX_EPISODES]
+
+        for index, episode in enumerate(episodes):
+            eid = episode.get("eid")
+            try:
+                detail = self._get_episode_detail(build_id, eid)
+                if detail:
+                    episodes[index] = {**episode, **detail}
+            except Exception as e:
+                logger.warning(f"获取单集详情失败，将使用列表数据: {eid}, 错误: {e}")
 
         return episodes
 
-    @retry(stop_max_attempt_number=3, wait_fixed=5000)
     def get_podcast_info(self, pid):
         """获取单个播客的信息"""
-        self.ensure_token()
-        url = f"https://api.xiaoyuzhoufm.com/v1/podcast/get?pid={pid}"
-        
-        # 获取ISO格式的当前时间
-        now = datetime.now()
-        iso_time = now.strftime("%Y-%m-%dT%H:%M:%S%z")
-        
-        # 添加必要的请求头
-        headers = {
-            **self.headers,
-            'User-Agent': 'Xiaoyuzhou/2.57.1 (build:1576; iOS 17.4.1)',
-            'Market': 'AppStore',
-            'App-BuildNo': '1576',
-            'OS': 'ios',
-            'Manufacturer': 'Apple',
-            'BundleID': 'app.podcast.cosmos',
-            'Model': 'iPhone14,2',
-            'App-Version': '2.57.1',
-            'OS-Version': '17.4.1',
-            'Local-Time': iso_time,
-            'Timezone': 'Asia/Shanghai',
-            'Accept': '*/*',
-            'Accept-Language': 'zh-Hant-HK;q=1.0, zh-Hans-CN;q=0.9'
-        }
-
-        resp = self.session.get(url, headers=headers)
-
-        if not resp.ok:
-            if resp.status_code == 401:
-                self.refresh_token()
-            raise Exception(f"获取播客信息失败: {resp.text}")
-            
-        podcast = resp.json().get("data", {})
-        if not podcast:
-            raise Exception(f"未获取到播客信息: {pid}")
-            
-        # 只保留需要的字段
+        podcast = self._get_podcast_payload(pid)["podcast"]
         filtered_podcast = {
             'latestEpisodePubDate': podcast.get('latestEpisodePubDate'),
             'pid': podcast.get('pid'),
@@ -199,24 +130,19 @@ class PodcastClient:
         return filtered_podcast
 
     def fetch_all_podcast_info(self, pids):
-        """并行获取所有播客信息
+        """顺序获取所有播客信息，避免公开网页触发频率限制
 
         Args:
             pids: 播客ID列表
         Returns:
             dict: {pid: podcast_info} 映射
         """
-        from concurrent.futures import ThreadPoolExecutor, as_completed
-
         results = {}
-        with ThreadPoolExecutor(max_workers=5) as executor:
-            future_to_pid = {executor.submit(self.get_podcast_info, pid): pid for pid in pids}
-            for future in as_completed(future_to_pid):
-                pid = future_to_pid[future]
-                try:
-                    results[pid] = future.result()
-                except Exception as e:
-                    logger.error(f"获取播客信息失败: {pid}, 错误: {str(e)}")
+        for pid in pids:
+            try:
+                results[pid] = self.get_podcast_info(pid)
+            except Exception as e:
+                logger.error(f"获取播客信息失败: {pid}, 错误: {str(e)}")
 
         return results
 
@@ -284,6 +210,8 @@ class PodcastClient:
                 logger.warning(f"以下播客信息获取失败，将跳过: {missing_pids}")
 
             logger.info(f"获取到 {len(all_podcast_info)}/{len(pids)} 个播客信息")
+            if pids and not all_podcast_info:
+                raise Exception("未获取到任何播客信息，终止本次更新")
 
             for pid in pids:
                 podcast = all_podcast_info.get(pid)
