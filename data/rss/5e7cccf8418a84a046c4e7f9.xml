@@ -4,7 +4,160 @@
         <title>创业内幕 Startup Insider</title>
         <link>https://www.xiaoyuzhoufm.com/podcast/5e7cccf8418a84a046c4e7f9</link>
         <description>GGV纪源资本出品的非严肃商业访谈</description>
-        <lastBuildDate>Thu, 02 Jul 2026 02:45:43 +0800</lastBuildDate>
+        <lastBuildDate>Sat, 04 Jul 2026 05:17:51 +0800</lastBuildDate>
+        <item>
+            <title>S8 Vol.14 久违的Fellows坦白局：好久不见，聊点 AI 创业的大实话</title>
+            <link>https://www.xiaoyuzhoufm.com/episode/6a46e0975e9960a725ed54f5</link>
+            <description>都说如今90%的钱流向了5%的行业，在这样的交汇点上，提供基建的Infra与深耕场景的AI应用层如何共生与依存？大厂出身的资深老兵碰上极具创新力的年轻创业者，谁能在这场无尽游戏里走到终局？
+本期节目是一期特别的线下圆桌实录，来自我们 6 月 12 日在上海举办的 Fellows 仲夏奇妙夜线下活动。前Fellows班主任任伯言Neal 召集了两位往届 Fellows 中的顶尖创业者——Viba创始人兼CEO梁芊荟、Potentia补天石创始人白宇利，还找来了AI 投资人、纪源资本投资经理刘力Joyce，老朋友重逢，新朋友相聚，在一起聊了聊各自的创业故事与行业洞察。
+如果你对这期 AI「坦白局」感兴趣，不妨用小酌一杯的时间，听听这群在虚拟与现实往复的创业者和投资人，他们所看到的技术、创业与人性。
+关于Granite Fellows
+Fellows是面向下一代创业者的旗舰项目，聚集了多位在AI、前沿科技等创新方向探索，具备全球视野，并希望将技术转化为商业影响力的年轻人。
+往届Fellows中，已经涌现出多位优秀创业者，包括在AI/具身智能等前沿领域取得突出进展、估值达到数十亿美元的创业团队。
+2026Fellows项目现已启动，欢迎扫描下方二维码申请加入，与更多优秀者同行。
+02:55 AIGC分发真实世界资产
+04:14 补齐具身智能的短板
+05:52 AI Infra与应用层的壁垒
+11:54 大厂“风险厌恶”与创业“敏捷决策”
+20:22 To B与To C的生存法则
+26:42 Fellows带来的社区力量
+29:31 Potentia补天石的人才招聘需求
+30:24 Viba的人才招聘需求
+《创业内幕》粉丝群已经开通，在这里，你可以跟节目制作人/主持人直接沟通，也可以第一时间了解到纪源资本线下活动动态，见到纪源资本的投资人，结交其他互联网圈子里的小伙伴。
+入群方式：
+1）添加微信号“JiyuanFans”为好友，并在好友请求中标注“创业”
+2）把你的全名和职称发给创业小助手；如果您想约访谈，请添加小助手微信，并附上访谈嘉宾简介，小助手将帮您对接。</description>
+            <content:encoded><![CDATA[<div class="episode-summary">
+<h3>内容摘要</h3>
+<h3>主题概述</h3>
+<p>本期是Fellows社群的回归Panel，由主持人组织，邀请两位往届Fellow——千惠（“Y吧”创始人，做AI电商inspire shopping agent）和小白（“补天时Potential”创始人，做具身智能数据闭环与后训练平台），以及投资人Joyce（关注大模型、具身、制药、世界模型）。对话围绕AI创业的底层逻辑展开，从基础设施（Infer）与应用层的壁垒差异、大厂背景创业者的优劣势、toB与toC的商业化节奏、数据资产与变现关系，到社区价值和创业心态，嘉宾分享了大量未经修饰的实战洞察和内部判断。</p>
+<h3>关键要点</h3>
+<ol>
+<li>
+<p><strong>核心分化：Infer靠规模效应，应用层找最贵模型</strong><br />
+   Joyce指出：“好产品的内核还是他得能找到一个跟他这个用户的需求最匹配的，通常来讲也是最贵的模型……不能心疼钱……missile已经证明了高价值是比大人群更重要的事情。” Infer层的壁垒在于规模化、成本优势和数据标准定义；应用层则需找到付费意愿最高的场景。</p>
+</li>
+<li>
+<p><strong>千惠的“inspired shopping agent”定位：从场景出发而非货架</strong><br />
+   千惠认为传统电商围绕“货”，而她要做的是基于用户“想呈现什么身份/出现在什么场合”的视觉上下文，用AI做极致个性化种草。强调“local context”和“真实世界的assets分发”——“我们可以用原来所有互联网上交互的娱乐性的东西去关联真实的ISS去做消费的植入和分发。”</p>
+</li>
+<li>
+<p><strong>小白十年智驾终局经验：知道下一步要什么</strong><br />
+   小白在Momenta（全球智驾算法供应商市占率60%以上）和蔚来做了十年，他认为的关键能力是“看过终局”——“从最开始支架还没有，到最终大家走向L3……模型不断变化，对于数据的要求也在变化……你是知道下一步的时候需要什么样的东西。”</p>
+</li>
+<li>
+<p><strong>大厂创新困境 vs 创业公司优势</strong><br />
+   千惠（华为影像+河图项目）和小白一致认为，大厂流程冗长、风险厌恶、资源分配偏离单点PMF，导致创新型业务难以存活。创业公司的优势在于“能非常快的发现机会，低成本短周期来试错”。小白补充：“你要走在大厂的采购名单里面，不要走到他的romp上面。”</p>
+</li>
+<li>
+<p><strong>数据是成本不是资产：持续生产用户需要的数据才有价值</strong><br />
+   小白直指：“如果你的数据你不用，其实它是成本……数据是一直贬值的，只要你放在这儿。只有不断跟着用户的需求持续生产用户需要的数据才重要。”最好的质检工具是收入。</p>
+</li>
+<li>
+<p><strong>AI时代人的时间价值：Enrich Time 而非 Kill Time 或 Save Time</strong><br />
+   千惠引用产品大佬的分类，认为纯粹杀时间（短视频）或提效（生产力）场景易被大厂资源碾压，而“enrich your time”——帮助用户变美、展示自我、与真人链接——是更主观、更难规模化的切入点。“如果AI会替代绝大多数人的工作和时长，那人就会花更多时间在鼓捣一些有的没的。”</p>
+</li>
+<li>
+<p><strong>社区的价值：Off the table 的真实分享</strong><br />
+   千惠和小白延续Fellows精神，创立了社区“try”，分享“实实在在花了多少钱、投了多少用户、LTV怎样、场景work不work”的实战经验，而非给投资人讲故事。千惠强调“相信community的力量”。</p>
+</li>
+<li>
+<p><strong>给创业者的Insight</strong><br />
+   千惠：“人生是无尽游戏，just enjoy it。”<br />
+   小白：“少在虚拟的世界待，来到真实世界里边……拿信息反哺自己的认知。”他断言：“如果有一条路通向最终的AGI，那它一定是在真实世界产生。”</p>
+</li>
+</ol>
+<h3>独家细节</h3>
+<ol>
+<li>
+<p><strong>Momenta的全球市占率细节</strong><br />
+   小白透露：“Momenta是支架里边最大的算法供应商，在全球范围它的市占率有60%以上，要高出华为的一倍。”这一内部排名数据在公开报道中罕见。</p>
+</li>
+<li>
+<p><strong>华为河图项目：与现在AIGC愿景一致，但被大厂流程卡住</strong><br />
+   千惠提到她在华为camera部门孵化的“河图”——“相机除了拍照也能看世界和理解世界”，当时还没有“空间智能”的概念。她感慨：“现在再回看，河图的愿景和现在AIGC本质上在实现同样的愿景，只是当前技术更成熟了。”但大厂的流程和营收考量使得该创新无法规模化。</p>
+</li>
+<li>
+<p><strong>千惠评价OpenAI的AI购物：转化率很差</strong><br />
+   千惠直言：“OpenAI他也在做自己的AI shopping，但是他的话可能就是批量的接入了几乎shopping five上面所有的商品……转化率是非常差的。因为大公司擅长的就是规模化，它有很好的资源，但（不适合）。”这一判断直接点出大模型公司做应用的短板。</p>
+</li>
+<li>
+<p><strong>小白的数据贬值和收入优先的实操逻辑</strong><br />
+   小白在讨论数据积累和收入平衡时说：“数据是死的，但你数据的能力是活的……（数据）只要放在这儿就一直在付出成本。”他举例龙博（另一位创业者）的策略：“他们的软件上线后没有经过很好测试，但很快会带来收入上的变化……最好的质检工具就是收入。”</p>
+</li>
+<li>
+<p><strong>嘉宾现场发布招聘KPI</strong><br />
+   小白在Panel末尾直接打广告：“我今天本来同事是不想让我出来的，然后我说我有一个KPI就是希望能收到5份简历。”千惠也同步招聘“美国方向的AI engineer或生图A证相关同学”。这种在公开对话中坦率说出内部KPI的行为，是典型私下场合才会流露的即兴表达。</p>
+</li>
+</ol>
+</div>
+<hr/>
+<p class="transcript-line"><span class="time"><strong>[00:00:03]</strong> </span><span class="speaker"><strong>发言人1: </strong></span>我们自己看到美国市场in real life复苏的一个点。我们可以用原来所有互联网上交互的娱乐性的东西去关联真实的IS去做消费的植入和分发。如果AI会替代绝大多数人的工作和工作的时长，那人就会花更多的时间在鼓捣一些有的没的东西。比如说怎么去变美，怎么去更好的展示自我，怎么去更好的跟真实世界中的人产生链接。我们会表希望基于用户真实的生活场景来去给到他更多的灵感种草。</p>
+<p class="transcript-line"><span class="time"><strong>[00:00:37]</strong> </span><span class="speaker"><strong>发言人2: </strong></span>我自己很开心的一点是出来创业了之前想了很多年。但是我后边的时候是看到了有一条路通向了真正的能落地的路。其实大家在做的所有的事情，终将会回归到这条路上。如果有一条路通向最终的AGI，那它一定是在真实世界产生，然后能带来人所没有看到东西，能接触到人所没有的东西，那我们自己就在build这样的一套系统。</p>
+<p class="transcript-line"><span class="time"><strong>[00:01:08]</strong> </span><span class="speaker"><strong>发言人3: </strong></span>好产品的内核还是他得能找到一个跟他这个用户的需求最匹配的，通常来讲也是最贵的模型。所以可能不能在选模型上面心疼钱，更多的还是这个效果。然后因为模型调用它是有编辑成本，所以你做应用的这一层的公司应该去找最愿意付费的人。就missile其实都已经证明了高价值是比大人群更重要的一件事情。</p>
+<p class="transcript-line"><span class="time"><strong>[00:01:39]</strong> </span><span class="speaker"><strong>发言人4: </strong></span>大家好，今天我在这个场子最大的价值是之前五届的fellow。我毕竟负责了三届，所以所有的同学大部分还是跟我认识的。然后包括今天在场的很多的同学都是我们之前final s的嘉宾。所以我觉得今天我们来主持一个reunion的一个panel的环节。</p>
+<p class="transcript-line"><span class="time"><strong>[00:01:57]</strong> </span><span class="speaker"><strong>发言人4: </strong></span>因为大家现在都知道，至少从投资的行业，90%的钱流到了5%的行业。主要的这个行业就是自身智能，还有跟大模型相关的部分。所以我们今天专门邀请到了我们之前fellows的成员，然后现在也在创业的雨丽。一会儿他自己介绍在做机器人居身智能。然后千惠现在在做一些大模型相关的应用层，以及我们邀请到了joyce是我们现在的投资团队的同事。我们一会儿会在不同的这个视角探讨一些现在他们自己的业务，还有行业的一些趋势。希望大家今天在reunion的这个友情的加固的过程中，也收获更多的一些知识，包括有更多的一些业务上合作的机会的诞生。</p>
+<p class="transcript-line"><span class="time"><strong>[00:02:40]</strong> </span><span class="speaker"><strong>发言人4: </strong></span>好，那我们就先聊一聊近况。我知道你们俩其实参加完了之后都纷纷创业了。也可以讲一讲最近半年一年的过程中，在业务的不同的探索方向的切换里面的一些心得感受。也再重新介绍一下自己现在做的方向，好吗？</p>
+<p class="transcript-line"><span class="time"><strong>[00:02:55]</strong> </span><span class="speaker"><strong>发言人1: </strong></span>大家好，我叫梁千慧，我是Y吧的创始人和CEO。我们公司在做的是一个inspired shopping的agent，主要是面向于海外用户。我自己认为之前的电商其实更多都是围绕货，无论是从最早的货架电商再到后面的内容电商和直播电商。但其实真正站在人的需求上，更多的是我作为一个JZ或者是新一代年轻人，大家今天想要出现在一个什么样的场合，想要呈现一个什么样的外。基于这样子的一个自我identity的表达，我们怎么样能够更好的给他curate好的服饰资产。</p>
+<p class="transcript-line"><span class="time"><strong>[00:03:34]</strong> </span><span class="speaker"><strong>发言人1: </strong></span>同时我们自己在AI时代，我们比较看重两个模型带来的溢出的能力。一个是人极致的个性化，特别是围绕人在生活场景这样一个视觉的context下所构建的个性化。第二的话是我们觉得现在绝大多数的AIGC被大家忽略的价值。就是它不仅仅能够生成内容，但它也可以去分发真实世界的assets。就是我们可以用原来所有互联网上交互的娱乐性的东西，去关联真实的ISS，去做消费的植入和分发。然后这个是我们公司从去年8 9月份nano banana出来之后配备到的新的方向。</p>
+<p class="transcript-line"><span class="time"><strong>[00:04:14]</strong> </span><span class="speaker"><strong>发言人2: </strong></span>大家好，我叫三缪，大家都叫我小白。我是二届的fellows，之前一直在支架做了十年的AI info。去年11月份的时候出来创立一家公司，英文叫做potential，中文叫做补天时，寓意是补齐具身智能最后一块儿短板。</p>
+<p class="transcript-line"><span class="time"><strong>[00:04:37]</strong> </span><span class="speaker"><strong>发言人2: </strong></span>对人主要在做的事情是为具身智能的模型提供数据的闭环，以及为模型落地提供后训练的平台。在我们的观点里面时候也是做了这么多年的支架，也算是AI的最开始能去落地的一个场景。此时此刻我们也能看到说，随着模型的能力逐渐的变强，在真实世界里边，AI的能力也会不断的去创造价值。在这里面最核心的东西就是除了互联网的数据之外。机器人怎么在真实世界里面不断获取数据的信息，不断进行迭代。我们就为最深的最终的在真实世界不断的迭代提供闭环的能力。</p>
+<p class="transcript-line"><span class="time"><strong>[00:05:20]</strong> </span><span class="speaker"><strong>发言人4: </strong></span>好的，谢谢小白。Joice是我们的新朋友啊，加入grand asia有一段时间了。你分享一下自己之前的一些背景过往，还有现在重点关注的一些方向，对吧？尤其是站在投资人的视角，怎么去理解现在AI跟自身的一些货。</p>
+<p class="transcript-line"><span class="time"><strong>[00:05:33]</strong> </span><span class="speaker"><strong>发言人3: </strong></span>好，没问题。我在这边的话主要是看四种模型。第一个是大语言模型及相关的应用，第二个是具身的模型，第三个是制药的模型，然后第四个是包罗万象的世界模型。</p>
+<p class="transcript-line"><span class="time"><strong>[00:05:46]</strong> </span><span class="speaker"><strong>发言人4: </strong></span>谢谢joins我们就漳平二今天比较正经的话题就是跟大模型相关。我们现场的两个创业的嘉宾其实一个是做infrared跟2 kate的，还有一位是做应用的。其实大家现在也都比较关心的，就是说大模型从大语言模型自己的模型的厂商出发，延伸到了很多的应用场景，对吧？不管是web coding还是别的。所以我觉得大家都非常关心infrared跟application之间的关系。第一个问题想问一下小白，就是你觉得在infrared创业的角度壁垒是什么？以及做这样的AI的基建，真正稀缺的是什么样的一些能力？</p>
+<p class="transcript-line"><span class="time"><strong>[00:06:22]</strong> </span><span class="speaker"><strong>发言人2: </strong></span>今天提前到的时候也跟一些同学去聊过，大家聊到说数据的一些价值。讲说现在出来做世界模型，手里边没有10万小时的好数据，都很难出去去融资。然后我们又问了一个问题，叫做什么？好，所以我回答第一个问题的时候，就是能去定义数据的标准和质量，其实是一个在infer上面很重要的事情。第二个事情，我觉得作为infer的话，它更像是说你可以不断的去通过你优化你的这些指标，然后能提前预测到模型需要什么，能给他简单的去提供有价值的服务和数据。所以我觉得第二点上面无论大家叫做迭代，还是叫闭环，还是预测能力也好，我觉得是一个很重要的事情。那第三点的话，我在想可能是规模化，就是怎么样的通过规模化的方式，然后能去做资源上调配，波峰的填补，使得你在整个生产上边是有规模，它是有成本和增量的优势的。我觉得这几层是在inf层面非常重要的东西的对。</p>
+<p class="transcript-line"><span class="time"><strong>[00:07:32]</strong> </span><span class="speaker"><strong>发言人4: </strong></span>很有收获。千惠，因为你在做的是应用层。</p>
+<p class="transcript-line"><span class="time"><strong>[00:07:36]</strong> </span><span class="speaker"><strong>发言人1: </strong></span>我认为大模型对消费者的价值是极致的个性化。因此我们找到的商业化最高频的入口就是去接管用户消费意图的agent入口，去把消费意图植入视觉灵感种草。同时在这个过程中积累用户独有的视觉上下文和local的IRL，这也会未来在成为我们的核心的壁垒。然后再就是高价值场景，因为我们想要去切入的就是这些年轻人。大家现在非常喜欢讲maxing，就是我怎么去maxing我想去呈现的很多web。我愿意为了这些场景，为了自己去更多的社交展示底层。我觉得在消费者up里面最终还是人性。这是我自己认为真正消费级产品，无论是不是AI他都需要有的基本的三个必要性。</p>
+<p class="transcript-line"><span class="time"><strong>[00:08:21]</strong> </span><span class="speaker"><strong>发言人1: </strong></span>然后回到我们自己怎么去思考应用厂商和大模型公司的溢出能力。从我们会去看两部分，供给和需求。需求端是用户供给端的话其实是品牌。我们最早怎么去做品牌的选品，以及在品牌的选品池上去构建的我们这一部分弊端的价值。因为举个例子，比如说OpenAI他也在做自己的AI shopping，但是他的话可能就是批量的去接入了几乎shopping five上面所有的商品。然后他在shopping five上面下单，转化率是非常差的。因为大公司它擅长的就是规模化，它有很好的资源，我觉得这是我们再去做的一部分。</p>
+<p class="transcript-line"><span class="time"><strong>[00:08:57]</strong> </span><span class="speaker"><strong>发言人1: </strong></span>然后第二部分的话，我觉得C端产早期还是怎么样去切中一个好的高势能人群。和这个高势能人群它产生的无论是端内的内容，还是说最终给到B端的供给的循环，能够形成这样一个闭环。我们最开始的时候会比较去强调做local context。也就是说我们会在美国先从specifically latino，然后asia american，特别是围绕LA和迈阿密这两个垂直的城市去切，以及怎么样去把local的一些活动，就是典型的大家的生活场景给到你的穿搭灵感和真正的商品种草能够串联起来。我觉得local的这部分也是我们自己认为大公司它不会一开始非常强的去规模化做的。但我们其实可以跟真正的这些用户的真实场景有很强的关联。</p>
+<p class="transcript-line"><span class="time"><strong>[00:09:45]</strong> </span><span class="speaker"><strong>发言人4: </strong></span>还是得回到应用层的本质，对需求的一个捕捉对吧？那我想问一下joyce，可能你也看了非常多的跟inflame跟应用层相关的机会。但我们其实也看到，比如说以web coding为例？既有像机模的公司做cloud code code dex然后也会有一些垂直的像curse这样的公司。另外一方面，之前传统的有一些SaaS的公司，比如是做生成图片或者是视频的，或者UI的，像FIGMA也好，canvas也好，也在做AI但同时可能像cloud他们也会做一些这个就大家之间相互的渗透是越来越强的那你怎么去理解info跟应用之间的一个关系，怎么去识别投资里面应该看到的壁垒？</p>
+<p class="transcript-line"><span class="time"><strong>[00:10:26]</strong> </span><span class="speaker"><strong>发言人3: </strong></span>我自己觉得可能info跟应用还是要分开来看。Info的话如果只提一个关键词，我觉得是规模效应。其实本质上info就是一些公司他自己能做的事情，但他all sorts出来，然后给最擅长这样？做过十年以上infor有经验的人来统一的去处理这个问题。所以它就像某一种程度上的空气，它是不可或缺，但你又感受不到最好的info就是它非常的可靠，经得住高并发也好，它有数据闭环也好，他是不需要你操心的。你就订阅也好，你就花钱去部署就可以了。所以我觉得中国团队做info还是有很强的优势的。</p>
+<p class="transcript-line"><span class="time"><strong>[00:11:03]</strong> </span><span class="speaker"><strong>发言人3: </strong></span>其实某种程度上，现在这些I应用背后跑的数据库不光是支持人，还能支持agent。The work flow它都是中国团队做的。Infer这一层，然后应用我觉得不太一样，因为我今年的感受是，刚刚你有你提的那些都属于是好产品。但好产品的内核还是他得能找到一个最佳的智能，就是跟他这个用户的需求最匹配的，通常来讲也是最贵的那个模型。他得把他的能力带给最终的这个场景，所以可能不能在选模型上面心疼钱，更多的还是这个。效果。然后因为模型的调用它是有编辑成本，所以你做应用的这一层的公司应该去找最愿意付费的人。就missus其实都已经证明了高价值是比大人群更重要的一件事情。</p>
+<p class="transcript-line"><span class="time"><strong>[00:11:51]</strong> </span><span class="speaker"><strong>发言人4: </strong></span>理解还是很不一样的一些识别的标准，我觉得第二个大的问题还是跟大家的背景相关的。因为千惠之前可能在华为也做过，然后三没有之前也提到了，他在很多自驾的独角兽公司也做过，其实都算大厂了。从这个角度来说，现在我们发现创业者有几种不同的画像。第一种就是researcher对吧，他可能是在清华的或者在MIT stanford的。然后第二种就是大厂的溢出，各个维度的软件硬件的大厂的溢出。然后第三种可能就是一些原生的一些小天才，他可能自己一直在捣鼓不同的事儿，对吧？从你们的角度来说，尤其是两个创业者来说，你们可能也面临很多不同的一些竞争的挑战。所以你们怎么看大厂的经历给你们带来的一些learning，然后包括你觉得相比于现在很多其他的一些小天才或者是学术背景的同学，你们的优势会在哪里？</p>
+<p class="transcript-line"><span class="time"><strong>[00:12:40]</strong> </span><span class="speaker"><strong>发言人2: </strong></span>我在国内的时候，第一份在在支架公司叫做momenta，然后也是你们的普通6。但是不在这个行业的，可能大家不知道，蒙门塔是支架里边最大的算法供应商。在全球范围它的是占率有60%以上，要高出华为的一倍。后边我刚出来的这家公司叫未来汽车，也算是在新能源汽车里面销量还不错。我在智驾做了十年，我觉得我们它算是一个从创业公司一起做起来。然后我觉得未来算是一个大的公司。</p>
+<p class="transcript-line"><span class="time"><strong>[00:13:14]</strong> </span><span class="speaker"><strong>发言人2: </strong></span>在大的公司里边的收获，第一是看过中举的东西。就是从最开始支架还没有，也像现在机身的这个阶段一样，到最终大家走向了L3的支架上边的结果。这一路上边模型也在不断的变化，对于数据的要求也在不断的变化，对于基建和info也在变化。你跨越过一个很大周期，看过它的终局，你是知道下一步的时候需要什么样的东西。</p>
+<p class="transcript-line"><span class="time"><strong>[00:13:43]</strong> </span><span class="speaker"><strong>发言人2: </strong></span>我觉得第二点大家叫做工程纪律也好，叫做工程化也好。就是你做一个demo和你做一个真正的产品是不一样的。有时候大家在讲说质量，我觉得质量它不仅仅是你有检查质量的能力，而是你有一套完整的机制来控制生产的流程。这是我们原来从做软件到做一个生产制造业上面是怎么来去做的。我觉得这一点对于我也蛮有帮助的那第三点的时候可能是人，出来之后我发现现在在做巨深的人都是以前在车企和在某门塔出来的。有时候大家称之为我们，它也算是现在最深的黄埔军校。</p>
+<p class="transcript-line"><span class="time"><strong>[00:14:25]</strong> </span><span class="speaker"><strong>发言人4: </strong></span>还有地平线之类的对。</p>
+<p class="transcript-line"><span class="time"><strong>[00:14:27]</strong> </span><span class="speaker"><strong>发言人2: </strong></span>无论他是在做模型，还是在做平台，还是在做应用，很多都是之前的老同事。因为共事过，所以大家很多语言协作的模式也是一致的。我觉得现在好像是我在外边做infer依然在服务之前的同事。对我觉得这三点算是在大厂里面的收获。</p>
+<p class="transcript-line"><span class="time"><strong>[00:14:48]</strong> </span><span class="speaker"><strong>发言人2: </strong></span>那为什么从大厂里面出来？我觉得其实也看到在大厂里面的一些问题，就是你的创新型的业务是很难被集团来去支持，然后做试错。你也很难在这里面拿到很好的收益。回报率阻碍大于收益，你肯定就很难做了。另外的时候，我觉得就是在大厂很冗长的决策流程和这种风险厌恶，使得一些敏捷的决策流程是很难的这其实恰好就是创业公司的一个很大的机会。你能非常快的去发现机会，低成本短周期的来去试错，才有可能走在大厂的前边。</p>
+<p class="transcript-line"><span class="time"><strong>[00:15:25]</strong> </span><span class="speaker"><strong>发言人2: </strong></span>第三点，有时候大家讲你做info那大厂也会做info你对比大厂的优势是什么？我想一是说能比大厂更快的角色，走在大厂的前面，知道他下一步要什么。第二的时候就是你要走在大厂的采购名单里面，不要走到他的romp上面。我觉得就是结合着这个优势，然后把大厂当做你的客户，陪着这个行业去成长。是做也好，或者说我做平台很重要的点。</p>
+<p class="transcript-line"><span class="time"><strong>[00:15:54]</strong> </span><span class="speaker"><strong>发言人1: </strong></span>我感觉小白已经说的非常完整了。因为我原来在华为其实经历过两个阶段。第一阶段的话其实是华为的影像，我们是多媒体camera的系统架构部。所以其实我的前一部分的职业生涯就大概有一年多的时间，更多的就是在负责华为的手机影像的场景定义。然后它最终shaping到的就是比如说P40、mate 40上面，就大家熟悉的极暗光望月之类的，非常多人都会在手机一方应用里面用的功能。然后我觉得这一部分的经历的话，其实更多的是你经历过真正非常大规模的近亿级别的C端产品和C端用户。怎么样去平衡一些垂直的use case versus e级别的人的共性需求，这是一个比较好的learning。然后我觉得第二点是因为经历过足够大的用户量，所以你真正敢相信规模化在一定时间是会有量变产生质变的。</p>
+<p class="transcript-line"><span class="time"><strong>[00:16:53]</strong> </span><span class="speaker"><strong>发言人1: </strong></span>然后后面的话，因为我在华为的camera部门，我们后面出来了一个创新业务叫河图。那会儿都还没有空间智能这个概念。然后河图更多的就是说相机除了能够拍照之外，它也能看世界和理解世界。那在理解世界之上，我们是不是可以在camera的基础上叠加更多的互动和交互能力，然后同时去感知这个世界，让拍照的内容变成一个可以动态去交互的东西。</p>
+<p class="transcript-line"><span class="time"><strong>[00:17:17]</strong> </span><span class="speaker"><strong>发言人1: </strong></span>当然我觉得现在再去回看，其实当时河图的很多愿景和现在AIGC本质上是在实现同样的愿景，只是当前的技术更成熟了。但就像小白说的一样，在大厂你去做一个创新型的业务，很大的卡点是在于非常多现有的流程，现有的决策，以及最终公司top down的很多营收层面的考虑。其实是完全没有办法根据团队或者是这个业务本身单点上面是不是跑通了，有没有PMF来去做规模化。然后其实我们自己最近一直在看，怎么样在现在更AI native的方式去做团队的协同。因为比如说我们现在还在干的是一个非常深度图像的事儿。</p>
+<p class="transcript-line"><span class="time"><strong>[00:17:58]</strong> </span><span class="speaker"><strong>发言人1: </strong></span>原来在华为做camera是很大的问题。就是OK作为产品经理，我们去定义一些核心场景算法工程师去实现它的整个流程，就是需求到验证，然后再去做QA就是效果检测，可能是一个两周的迭代。我们现在就会想，是不是更懂审美，更懂内容的同学，比如说运营或者是产品，大家直接能够上手，参与到很多工程化的环节里面去。真正的工程师只去负责规模化的部分，就是真正能把这个东西从demo变成production的部分。我觉得可能这些是真正创业公司擅长的，就是更加native的AI的组织协同方式特别好。</p>
+<p class="transcript-line"><span class="time"><strong>[00:18:38]</strong> </span><span class="speaker"><strong>发言人4: </strong></span>Joice因为我们刚才提到的不同类型画像的一些创业者，坦率来说在很多的赛道里面好像也没有一个特别好的收敛。比如说我们以具身智能为例，可能语数的创始人，智源的创始人，还有一些别的现在已经一两百亿估值的公司的创始人都长得不一样。所以你会觉得你有一个非常强的判断的倾向性吗？还是更多的是从一些通用的的素质去识别一个创始人的。</p>
+<p class="transcript-line"><span class="time"><strong>[00:19:02]</strong> </span><span class="speaker"><strong>发言人3: </strong></span>对我觉得如果是大厂背景的创始人，做这个团队的一二号位的话，核心还是看他的。第一是心态。因为我之前也在大厂工作过，所以体感上就是在大厂你更想要解决的问题是怎么去拿资源，去调配资源，然后确保这个资源确定性的给你带来了什么回报。但是去创业公司其实是没有一个playbook的。所以我们或者至少我个人比较喜欢空杯心态的。</p>
+<p class="transcript-line"><span class="time"><strong>[00:19:31]</strong> </span><span class="speaker"><strong>发言人3: </strong></span>大厂出来的创始人，他既有产业经验，他又能够去拥抱很多的变化和不确定性。然后如果是小天才画像的创始人的话，我觉得是反过来的。他需要更多的去理解这个社会运行的一些机制。比如说怎么搞定你的客户，或者是怎么让如果是to c的话，就是用户注意到你的产品，其实有时候是需要一些花活的那他的经验也好，他的想象力可能会基于他比较年轻，然后学术背景被制住，双方其实也是可以互补的。比如说我们投的这个银河通用，它就非常典型的是有年轻的学者对吧？也有产业界的高管。</p>
+<p class="transcript-line"><span class="time"><strong>[00:20:09]</strong> </span><span class="speaker"><strong>发言人4: </strong></span>明白核心需求的特质是一致的，只是大家从光谱的两端去切入。</p>
+<p class="transcript-line"><span class="time"><strong>[00:20:14]</strong> </span><span class="speaker"><strong>发言人3: </strong></span>都去走向一个更拥抱变化，更all in的心态，还有执行力。</p>
+<p class="transcript-line"><span class="time"><strong>[00:20:19]</strong> </span><span class="speaker"><strong>发言人4: </strong></span>明白。然后我们去下一个，其实跟场景相关，我们刚才聊了infrared和应用，聊了大厂跟创业公司。下一个点就是一个to b一个to c其实这也是两种完全不同的形态。所以也想问问小白跟千惠，就是从to b跟to c的两个视角的角度。比如说从to b的角度，很多人会关心说数据现在是非常重要的。第一种选择是我先把数据资产做后，我先不去考虑商业化变现的事儿。第二种思路就是说我不管做哪个赛道，我先跑通一个小的MVP。今天我不管是在生产制造的场景，还是在支架的场景，还是在别的场景，就你怎么去看技术的积累，数据的积累跟商业变现之间的节奏感。</p>
+<p class="transcript-line"><span class="time"><strong>[00:21:02]</strong> </span><span class="speaker"><strong>发言人2: </strong></span>那就先讲数据，很多人觉得说数据是资产，但是如果数据你不用，其实它是成本。然后我自己在数据的积累和收入上面平衡的话，我觉得我还是比较倾向于沿着大家真实的数据的需求去做收入。且在这个过程之中沉淀一些标准工具能力，还有行业上面的一些know how是更重要的。同样的时候讲，数据是死的，但你数据的能力是活的那你数据是一直贬值的，只要你放在这儿。他其实就一直在付出成本，只有不断跟着用户的需求持续生产用户需要的数据是一个很重要的事情。</p>
+<p class="transcript-line"><span class="time"><strong>[00:21:44]</strong> </span><span class="speaker"><strong>发言人2: </strong></span>当然我觉得在这一点上，就是刚才坐在那的时候跟龙博聊也还挺有意思。龙博说他们的一个软件上线，然后没有经过很好测试，但是他很快会带来收入上的变化。我觉得其实去做平台也好，去做数据也好，做to B2C也好，最好的质检的工具就是收入。在这一点上面我们依然沿着说行业对于数据需求没有收敛，使用的形态也没有收敛，模型也没有收敛。那你就去做在这个领域最有价值，毛利高的数据，你其实就能在上面沉淀这个行业里边最有价值的东西。</p>
+<p class="transcript-line"><span class="time"><strong>[00:22:22]</strong> </span><span class="speaker"><strong>发言人4: </strong></span>千惠其实跟to c相关，大家现在也在讨论的一个命题，就是未来AI发展的越来越好的，越来越智能的情况底下，人的价值或者人的有限性。我最近其实听了一个产品大佬提了一个点，他说现在有两种类型的产品。第一种叫q the time，就是杀时间的，比如说短视频。第二种叫reduce your time，提升效率的。但是他觉得我们公司的产品应该叫enrico your time就是更丰富你的，让你觉得你过的每一个时间都是有价值有意义的。所以你觉得在to c的AI应用的这个角度，尤其你做的是一个社交的APP，就未来到底它的AI功能和人性人的需求之间的关系的一个平衡在哪？因为你还是要提升你的活跃，提升你的用户时长的。</p>
+<p class="transcript-line"><span class="time"><strong>[00:23:08]</strong> </span><span class="speaker"><strong>发言人1: </strong></span>我觉得刚才你说的那个是个特别好分享，我也学会到了这个词，就是enrich time。为什么我们会想要从in real life inspiration这个场景去切shopping？就是因为我自己觉得真正完全q time的场景，特别是productivity，它其实是一个很规模化的场景。就比如说磕sir确实曾经很好，然后收入很高。但是因为你的evaluation足够的明确，他最终就会很容易变成一个大厂，靠资源。</p>
+<p class="transcript-line"><span class="time"><strong>[00:23:39]</strong> </span><span class="speaker"><strong>发言人1: </strong></span>最后是一个转化率的问题。所以这个情况下，最开始的时候我们就觉得真正应用公司能够走下去。我们要去做的是相对来讲更偏主观的场景。就大厂其实最开始不会容易从无论是数据的evaluation，还是用户的获客，还是说他供双边的关系上面，非常容易规模化直接切入的场景。这个是我们自己当时设定筛选标准的时候一个很重要的点。</p>
+<p class="transcript-line"><span class="time"><strong>[00:24:09]</strong> </span><span class="speaker"><strong>发言人1: </strong></span>然后回到为什么说我们希望去augment人的有限性？因为最终AI会替代绝大多数人的工作和工作的时长。那人就会花更多的时间在鼓捣一些有的没的的东西。比如说怎么去变美，怎么去更好的展示自我，怎么去更好的跟真实世界中的人产生链接。这个也是我们自己看到美国市场，特别是在疫情之后，in real life就是有非常多的线下活动，线下场景复苏的一个点。所以的话我们会比较希望基于用户真实的生活场景来去给到他更多的灵感种草。</p>
+<p class="transcript-line"><span class="time"><strong>[00:24:43]</strong> </span><span class="speaker"><strong>发言人4: </strong></span>好的，joyce的问题是过去半年或者一年的过程中，你看了很多to b跟to c方向的公司，包含granada投资的或者没有投资的。你可以分享1到2个让你觉得有点inspiring的产品吗？然后以及他们可能在产品或者商业化的路径的角度，让你觉得兴奋的点。</p>
+<p class="transcript-line"><span class="time"><strong>[00:25:02]</strong> </span><span class="speaker"><strong>发言人3: </strong></span>我先想到的是跟我生活有关的，就是记笔记的工具。因为AI确实是随时随地enrich生活的这个context，对吧？它可以把你的声音视频都记录下来，然后这里面我自己很爱用，一个是我们投的这个nota然后另外一个是海外硅谷一个产品叫gro la。这两个产品就是我觉得都达到了商务或者白领，他想要快速的把一些note记下来的这么一个刚需。比如说广州来，它就是大家其实听会的时候都会偷懒，就是记两笔，然后发散了或者去问问题了，那你肯定有东西你是没跟上的。然后它会有另外一个界面是AI在背后帮你记。然后最后会议完成以后，就完成一个人记得和AI记的一个合稿，然后他会帮你去除掉这些重复的部分，但查缺补漏。就很像是比如说我有一个实习生，我有一个很好的同事，他back up我那种心安的感觉。</p>
+<p class="transcript-line"><span class="time"><strong>[00:25:56]</strong> </span><span class="speaker"><strong>发言人3: </strong></span>然后nota的话它是你直接，比如说开一个zoom会议，我其实很多同事都在用，就直接把你的nota bot另外到这个会议里。那它就会跟随着你整个一天的时间安排，然后完成你所有的记录。这样最大的好处就是你所有的信息都集中在这么一个后台里，互相之间是可以查缺补漏。所以我觉得C端很多产品，其实核心还是怎么把它做的特别简单。然后让用户因为一个痛点，就一直是离不开你的。但是to b可能也看到了一些，但我觉得今天很多大的机会还是在to c前，然后to b可能是去服务这些已经跑出来的to c应用，把他们中间的这些input main tizer东西做好。</p>
+<p class="transcript-line"><span class="time"><strong>[00:26:37]</strong> </span><span class="speaker"><strong>发言人4: </strong></span>好的，也鼓励大家多多使用nota然后我们到了最后一个问题了，就是千惠和小白其实也参加fellow过去了一段时间了。过去几年里面，可能你们的生活工作也发生了很大的变化。所以我想问一下，比如说fellow对你们这几年以来最大的影响，你们回顾一下是什么？然后以及可能用一句话也分享一下，从大厂出来再到创业，如果下面有很多的同学也想要继续创业，你想给大家一个最好的inside是什么？</p>
+<p class="transcript-line"><span class="time"><strong>[00:27:06]</strong> </span><span class="speaker"><strong>发言人1: </strong></span>我觉得follow给我们这几年特别大的一个好点是说，我们两个最近做了一个try的社区。然后这里也要echo credit to Chloe。卡纳我是23届的flower，当然非常高兴今年又回归了。然后从24年开始，我们就觉得说真的有一群大家无论是下场在创业，还是说实际在大厂或者在任何地方build up的产品，大家能真正分享一些off the table。不是说去给投资人讲故事，然后实实在在的花了多少钱，投了多少用户，LI怎么样？这个场景work不work？然后什么样的人是好的，招聘什么样的人是不好的，这样一些非常真实的分享。我觉得这个是从fellow延续到包括后面我跟小白还有卡纳和可以我们一起去做try这个事情。我觉得非常有价值的一个事情就是相信community的力量，以及相信community持续产生互动和真诚分享的力量。</p>
+<p class="transcript-line"><span class="time"><strong>[00:28:02]</strong> </span><span class="speaker"><strong>发言人4: </strong></span>然后第二个问题是给一个insight给大家。</p>
+<p class="transcript-line"><span class="time"><strong>[00:28:05]</strong> </span><span class="speaker"><strong>发言人1: </strong></span>如果大家想创业的话，人生是无尽游戏just enjoy IT。</p>
+<p class="transcript-line"><span class="time"><strong>[00:28:10]</strong> </span><span class="speaker"><strong>发言人2: </strong></span>对，finals虽然好几年没有办，但我跟千惠我们做那个meta我们都做了20期了，就是一直没有中断过。当然我觉得fellos回归其实是一个非常好的事情。我的自己很多的热情和动力来自于在真实世界跟大家一起来去交付。包括我觉得不同领域，然后不同角色的这些创业者非常有热情，非常有想法的，让我感受到更真实的世界的不同的切面。AI也是这样的，如果给一个小的tips和inside，我说那少在虚拟的世界待，然后来到真实世界里边，能去感受到真实世界上面的不同的差异，人上的差异，环境上的差异。然后能拿这些信息来去反哺自己的认知，我觉得会是一个非常好的事情。</p>
+<p class="transcript-line"><span class="time"><strong>[00:28:57]</strong> </span><span class="speaker"><strong>发言人2: </strong></span>然后再有一点，我自己也很开心的一点是出来创业了。之前想了很多年，包括22年的时候参加fellos，但是没有出来。但是我后边的时候是看到了有一条路通向了真正的能落地的路。其实大家在做的所有的事情中将会回归到这条路上。如果有一条路通向最终的AJI，那它一定是在真实世界产生，然后能带来人所没有去看到的东西，能接触到人所没有的东西。那我们自己就在build这样的一套系统。但是最后的时候，小的广告，我们最近在招人我本来今天同事是不想让我出来的，然后我说我有一个KPI就是希望能收到5份简历。</p>
+<p class="transcript-line"><span class="time"><strong>[00:29:39]</strong> </span><span class="speaker"><strong>发言人2: </strong></span>如果有非常有想法的同学，无论是你是训模型的，还是你是做产品的，还是你做工程的。但凡有一丝执念，然后想要参与一个长达十年刚刚开启且一直是最有价值的事情，那欢迎加入potential普天使。我们现在在上海的杨浦，我们后边也会在北京和东南亚有office。希望非常有想法，非常有热情的小伙伴能加入我们我们。</p>
+<p class="transcript-line"><span class="time"><strong>[00:30:10]</strong> </span><span class="speaker"><strong>发言人4: </strong></span>也会把你们的招聘链接发到博客的后面，欢迎大家越来越多的去投递简历和推荐优秀人才。你要补充吗？那你你也说一下。</p>
+<p class="transcript-line"><span class="time"><strong>[00:30:23]</strong> </span><span class="speaker"><strong>发言人1: </strong></span>我们现在公司是base在LA和上海，然后我们本身是一个美国的dara ware公司，我们现在就是all in在做美国的AI电商。任何感兴趣这个方向的同学，特别是围绕AI engineer或者是跟生图A证相关的同学，欢迎来戳。这是一个招聘上面的小的广告。</p>
+<p class="transcript-line"><span class="time"><strong>[00:30:43]</strong> </span><span class="speaker"><strong>发言人1: </strong></span>然后第二个是我们现在也非常希望能够去深度的合作一些。无论是海外的affiliate的agency或者是一些DTC的品牌方，任何同学有这方面的一些资源，或者是任何一些方面的一些业务的话，我们也非常希望能够有一些合作。因为我们现在自己看下来的话，就是海外的品牌方对于我们这样子直接的给用户进行场景演绎和他们的品牌理念的上升种草，他们是非常愿意合作的。而且它的转化效率我们自己跑下来是比传统的电商要高很多的。</p>
+<p class="transcript-line"><span class="time"><strong>[00:31:14]</strong> </span><span class="speaker"><strong>发言人4: </strong></span>好的，总结一下，就是在AI的时代，还是要更相信人跟社群的力量，我觉得这也是fellow的意义。从joyce的角度，你对今年9月份就要新招募的这一批fellow的同学有哪些期待？你希望在里面看到什么样的画像？你希望大家在这个活动中获得什么？</p>
+<p class="transcript-line"><span class="time"><strong>[00:31:31]</strong> </span><span class="speaker"><strong>发言人3: </strong></span>对我来说在场比较重要，因为我们是会在新加坡办的活动。然后对于很多在国内或者海外创业来说，新加坡还是一个很有意思的一个城市。然后也有一些它独特的国际化的web对吧？所以我希望每一个到场的人都非常的投入，可能并不是来学一些什么真知灼见，就是像刚刚虽然没有说的，就enjoy享受这个社群。然后同时也会有一些碰撞。比如说大家可以说一些自己遇到的挑战，当时是怎么解决的，互相启发一下。</p>
+<p class="transcript-line"><span class="time"><strong>[00:32:04]</strong> </span><span class="speaker"><strong>发言人4: </strong></span>我们今天的panel就到此结束，也谢谢台上的嘉宾。</p>
+<p class="transcript-line"><span class="time"><strong>[00:32:08]</strong> </span><span class="speaker"><strong>发言人3: </strong></span>谢谢你好。</p>
+<p class="transcript-line"><span class="time"><strong>[00:32:09]</strong> </span><span class="speaker"><strong>发言人2: </strong></span>谢谢。</p>]]></content:encoded>
+            <pubDate>Thu, 02 Jul 2026 22:00:00 GMT</pubDate>
+            <guid>6a46e0975e9960a725ed54f5</guid>
+        </item>
         <item>
             <title>S8 Vol.13 纷享销客罗旭：AI不会让SaaS消失，但会杀死工具型SaaS</title>
             <link>https://www.xiaoyuzhoufm.com/episode/6a3da59efd8019cde5121851</link>
@@ -4182,95 +4335,6 @@ XR眼镜是一扇门，通往一个正在成形却尚未抵达主流认知的未
 <p class="transcript-line"><span class="time"><strong>[00:34:41]</strong> </span><span class="speaker"><strong>发言人1: </strong></span>拜拜，谢谢。</p>]]></content:encoded>
             <pubDate>Thu, 11 Sep 2025 22:00:00 GMT</pubDate>
             <guid>68c34794005f79e8887ca5eb</guid>
-        </item>
-        <item>
-            <title>S7 Vol.25 木棉花生殖卢晓宏：多学科协作如何破解现代生育难题？</title>
-            <link>https://www.xiaoyuzhoufm.com/episode/68ba0c267a63f15fa1e3a41e</link>
-            <description>1978年7月25日，世界首例试管婴儿路易丝·布朗在英国诞生，标志着人类辅助生殖技术的开端。
-「科学造人」这件事，经历了技术的跨越式发展——从最初的体外受精，到涵盖基因筛查、胚胎移植以及多学科联合诊疗的综合方案，如今已经成为治疗生殖障碍的重要手段。但现在，行业也面临诸多新命题：如何突破复杂的医学瓶颈，以及，如何构建可标准化推广的、可持续的服务模式？
-本期节目，我们邀请到木棉花生殖的创始人卢晓宏，探讨多学科协作模式究竟如何实现更高效率与成功率的辅助生殖医疗。什么是多学科交叉的辅助生殖手段？目前的治疗成功率如何？如何在实现个性化诊疗的同时，进行规模化复制？有哪些原因导致中国辅助生殖的渗透率普遍较低？放眼整个医疗体系，一家民营专科机构又如何形成独特的竞争壁垒？
-【01:36】生殖障碍诊疗包含哪些方面？
-【02:44】一代、二代、三代试管婴儿的技术差异
-【04:34】三代试管婴儿要花多少钱？
-【07:07】为什么中国辅助生殖的渗透率相对较低？
-【10:25】相比公立医院的差异化策略
-【13:11】多学科协作，提高竞争壁垒
-【15:02】聚集顶级专家，让研究成果在团队内部正向流动
-【17:50】个性化诊断与标准化复制，如何平衡？
-【20:39】与公立医院的合作模式
-【22:25】解读生殖障碍治疗成功率数据
-【28:09】海南医院与全国「卫星诊所」
-【30:39】评论区抽取5名听众送出检测套餐
-《创业内幕》粉丝群已经开通，在这里，你可以跟节目制作人/主持人直接沟通，也可以第一时间了解到纪源资本线下活动动态，见到纪源资本的投资人，结交其他互联网圈子里的小伙伴。
-入群方式：
-1）添加微信号“JiyuanFans”为好友，并在好友请求中标注“创业”
-2）把你的全名和职称发给创业小助手；如果您想约访谈，请添加小助手微信，并附上访谈嘉宾简介，小助手将帮您对接。</description>
-            <content:encoded><![CDATA[<p class="transcript-line"><span class="time"><strong>[00:00:03]</strong> </span><span class="speaker"><strong>发言人1: </strong></span>中国为了很好完成这么大人群的一个医疗服务的提供，我们分科分的很细，可以快速完成一个学科体系的建设，培养大量的医疗人才。但是像试管反复失败、复发性流产、不孕症、生殖障碍这样子一个多学科导致的综合性的病因，在公立医院体系下是没有很好的得到满足的。我们现在这家海南医院有97%的病人来自于全国各个省份。这个比例可能在全国都是一个很罕见的数据。一般如果你不是疑难杂症，我不会说从北京、从东北三省、从新疆、从陕西飞到海南做试管婴儿的诊疗技术。</p>
-<p class="transcript-line"><span class="time"><strong>[00:00:47]</strong> </span><span class="speaker"><strong>发言人1: </strong></span>不孕症的发病率是18%，而这18%的人群里面只有10%的人需要辅助生殖。中国剩下的90%的人群很重要的一个手段是什么？是有中医的治疗，用中药几千块钱的治疗，再加上简单的妇科内分泌做一个卵泡的监测。木棉花目前不孕症治疗的患者，平均一个人群就5000块钱到1万块钱左右。那我就已经自然怀孕了，自然而然不需要辅助生殖的干预。</p>
-<p class="transcript-line"><span class="time"><strong>[00:01:21]</strong> </span><span class="speaker"><strong>发言人2: </strong></span>亲爱的听众朋友大家好，欢迎收听本期的创业内幕，我是主持人lily。本期我们请到的嘉宾来自于中国领先的生殖连锁医疗机构木棉花生殖的创始人卢小红。好，卢总跟大家打个招呼。</p>
-<p class="transcript-line"><span class="time"><strong>[00:01:33]</strong> </span><span class="speaker"><strong>发言人1: </strong></span>听众朋友大家好。</p>
-<p class="transcript-line"><span class="time"><strong>[00:01:35]</strong> </span><span class="speaker"><strong>发言人2: </strong></span>我是卢晓红。木棉花做的事情其实就是我们大家非常耳熟能详的人类的辅助生殖和相关的这个行业。要不然我们还是先请卢总介绍一下您本人以及木棉花生殖这家公司。</p>
-<p class="transcript-line"><span class="time"><strong>[00:01:47]</strong> </span><span class="speaker"><strong>发言人1: </strong></span>我们是专注于向患者提供生殖障碍诊疗服务，主要业态包括两部分。第一部分的话是目前我们在全国15个城市开设了22家生殖专科门诊，在北上广深这些一线城市都已经完成了一个比较好的布局。第二个的话，我们是在国家医疗先行区开设了一家三级生殖专科医院，目前也能够向患者去提供一代二代三代试管婴儿的技术。我们主要向患者提供的诊疗服务的核心范围是不孕症治怀。第二个的话是复发性流产，就是说您能够怀孕，但是您会不断的流产。第三个是做试管婴儿的过程里面反复失败。最后就是我们传统经常在讲的辅助生殖。就您需要做试管婴儿，也可以找到木棉花，我们会从各个方面去给予您一些帮助。</p>
-<p class="transcript-line"><span class="time"><strong>[00:02:35]</strong> </span><span class="speaker"><strong>发言人2: </strong></span>刚才提到的一二三代试管婴儿的技术资质都能够做。那我想问一下这一二三代它的技术分别是啥？有什么核心的技术差异吗？</p>
-<p class="transcript-line"><span class="time"><strong>[00:02:44]</strong> </span><span class="speaker"><strong>发言人1: </strong></span>传统很多患者会有个误解，觉得是不是二代比一代好，三代比一代好？其辅助生殖的发展理念，一代试管婴儿的发生，最初的目的是解决精子跟卵子不能相遇的问题。就是我们女性有时候会有一些双侧输卵管堵。是之后我们再说二代试管婴儿，它是什么？在生殖障碍的夫妻里面最常见的一种疾病是男性的精子质量特别差。这个时候在实验室就会做一个操作，我们会把男性成千上万的精子里面挑选出那一条比较好的精子，然后把这个精子打到女性的卵子里面去。这个是我们俗称的二代试管婴儿，叫伊克西。</p>
-<p class="transcript-line"><span class="time"><strong>[00:03:23]</strong> </span><span class="speaker"><strong>发言人1: </strong></span>之后再到第三代，就是说可能有一些胚胎会有一些遗传性的疾病，或者会有一些女性我们因为胚胎染色体流产的问题。这个时候我们就去思考说能不能更前置，在胚胎的阶段就去做这样的一个事情。这个时候就会有一种技术是精子跟卵子结合变成了一个胚胎。我们会再把它养成一个囊胚，然后在里面去取一些胚胎之后，我们做一个活检，判断他有没有胚胎染色体的异常，有没有常见的遗传疾病，比如说地中海贫血、耳聋基因。这是三代试管婴儿。</p>
-<p class="transcript-line"><span class="time"><strong>[00:03:58]</strong> </span><span class="speaker"><strong>发言人1: </strong></span>所以一代试管婴儿、二代试管婴儿跟三代试管婴儿，它是在解决生殖障碍里面的不同的适应症。他并没有说哪一种更好或哪一种更差，而是您需要哪一种技术，您的适应症是什么，那我们就选哪一种。并不是说三代比二代好，二代比一代好，它是适应了不同的生殖障碍患者的人群。</p>
-<p class="transcript-line"><span class="time"><strong>[00:04:21]</strong> </span><span class="speaker"><strong>发言人2: </strong></span>对我我理解一下就是一代解决运输问题，二代择优问题，三代筛查问题。对吧？其实就是它在整个孕育一个生命的过程中，我们把它风险全部都前置筛查掉了。</p>
-<p class="transcript-line"><span class="time"><strong>[00:04:31]</strong> </span><span class="speaker"><strong>发言人2: </strong></span>对，这个其实是挺好的。因为生过孩子的人都知道，孩子一落地之后，她有单单的在产前的那个check up的阶段，她有很多检查。这个检查过去是羊水，就是五个月之后做一个羊水筛查，现在就是通过抽一管母亲的血，就能把小孩所有东西都筛查出来了。低风险的你就可以要，高风险不要。但是我现在听起来就是我们更前置，就这个胚胎植入到母体之前，对，我们就已经把它的基因风险筛查掉了。像这种如果我删摘出来，我是把它那个基因摘掉，还是说整个这个胚胎我就把他淘汰掉。</p>
-<p class="transcript-line"><span class="time"><strong>[00:05:05]</strong> </span><span class="speaker"><strong>发言人1: </strong></span>目前三代试管婴儿在发现胚胎异常的时候，主要有三种不同的手段。一个是PGTA，第二个的话是PGTSR，第三个是PGTM。它又是在解决不同的治疗的一个诉求。现在的常见的方法是发现了问题，那么这个胚胎我们就不要去种植了。比如说我这个时候有八个囊胚，我会去选择那些没有问题的种植进母体。在这个过程里面，一般除了传统的试管婴儿专家之外，需要有专门做一些遗传咨询，也可能要找到一些专门的遗传咨询专家，或者一些产前诊断的专家，做一个MDT的会诊，给予患者综合性的治疗方案的建议。</p>
-<p class="transcript-line"><span class="time"><strong>[00:05:47]</strong> </span><span class="speaker"><strong>发言人2: </strong></span>像这样的一个治疗大概多少钱？</p>
-<p class="transcript-line"><span class="time"><strong>[00:05:49]</strong> </span><span class="speaker"><strong>发言人1: </strong></span>目前国内三代试管婴儿基本上在6万块钱到10万块钱之间不等。</p>
-<p class="transcript-line"><span class="time"><strong>[00:05:53]</strong> </span><span class="speaker"><strong>发言人2: </strong></span>这么便宜。</p>
-<p class="transcript-line"><span class="time"><strong>[00:05:54]</strong> </span><span class="speaker"><strong>发言人1: </strong></span>对，很多时候我们会听到一些患者说我花了十几万或者说二十多万。但他其实更多的是在这个过程里面，比如说做多了几次之类的。如果比较顺利的，只是做一个简单的PGTA，在国内目前的普遍收费大概6万块钱到10万块钱就可以了。在这里我也打个广告，像木棉花，我们现在常规做一个PGTA，大概把费用控制在6万块钱以下。这个是我们现在海南医院可以给患者提供到的诊疗服务。</p>
-<p class="transcript-line"><span class="time"><strong>[00:06:23]</strong> </span><span class="speaker"><strong>发言人2: </strong></span>太厉害了。我们现在刚才您说覆盖了15个城市的22个门诊。那我们这种门诊是挂靠在比如说三甲医院下面的吗？还是说我们自己有一个独立的医院？像有一些专门的生殖类的医院是哪一种？</p>
-<p class="transcript-line"><span class="time"><strong>[00:06:35]</strong> </span><span class="speaker"><strong>发言人1: </strong></span>我们目前在全国这15个城市布局的生殖专科门诊，是一个综合门诊，或者说是妇科专科门诊的资质。但里面我们会拿到生殖健康与不孕症专业的一个职业范围，也会跟大学的附属医院建立医联体的合作。但我们主要是独立的开展业务，患者到我们这里来寻求的帮助，是她不孕症想要得到一个自然怀孕。第二个她复发性流产，我们通过药物，通过一些腔镜也可以帮助到他。第三个就是试管反复失败会找到我们。</p>
-<p class="transcript-line"><span class="time"><strong>[00:07:07]</strong> </span><span class="speaker"><strong>发言人2: </strong></span>但是现在在辅助生殖医疗领域，中国的渗透率是很低的。就是我看了柳叶刀的一个数据，其实我们的辅助生殖不到10%，跟公立医院资源紧张有非常大的关系。就是我想请问您，今天木棉花作为一个民营的专科机构，怎么填补这样的一个市场空白？然后另外这件事儿不是个新事儿，刚刚说我们其实十几年前在广播里，什么都听到过类似的这种宣传，还有一堆莆田系的医院专业干这事儿。但木棉花能够获得资本青睐，这中间有哪些事情是做对了的？这两个事儿我想请您给我们分享一下。</p>
-<p class="transcript-line"><span class="time"><strong>[00:07:43]</strong> </span><span class="speaker"><strong>发言人1: </strong></span>好的，第一个，我们刚刚提到中国目前的辅助升值的渗透率为什么会对比美国偏低？大概有三个核心的要素。第一个是目前的生育年龄的问题，就是发病率的问题。从发展中国家到发达国家，它会有一个很重要的问题是你的平均出运年龄。</p>
-<p class="transcript-line"><span class="time"><strong>[00:08:00]</strong> </span><span class="speaker"><strong>发言人1: </strong></span>中国2010年的出狱年龄大概在24岁，到2020年的时候到28岁，十年时间里面增长了四岁。到2025年的平均数据，全国可能已经快接近30岁了。北上广深一线城市出狱年龄可能都已经到32岁。按照这种经济的差异化，那美国的出狱年龄肯定会比咱们更晚。所以在这种状态下面，出于年龄的后移会导致发病率的提高。美国需要辅助生殖的这个人群就比中国的更多。</p>
-<p class="transcript-line"><span class="time"><strong>[00:08:31]</strong> </span><span class="speaker"><strong>发言人1: </strong></span>第二个像现在深圳的经济的发达程度，辅助升值的渗透率已经是到了接近发达国家的水平。所以随着中国经济的发展，可能现在我们更追求独立的意识，我们可能先奋斗事业。生孩子的年龄就偏晚，导致生育的难度的提高。那么这个时候需要辅助生殖的人群也会越来越大。第二部分我觉得是中国最大的一个特点。我们现在常规的说一句话，不孕症的发病率是18%。</p>
-<p class="transcript-line"><span class="time"><strong>[00:09:00]</strong> </span><span class="speaker"><strong>发言人1: </strong></span>而这18%的人群里面只有10%的人需要辅助生殖。中国剩下的90%的人群很重要的一个手段是什么？是有中医的治疗。怀不上孩子，我可能通过中医调经种子得到了一个自然怀孕的机会。用中药几千块钱的治疗费，再加上简单的妇科内分泌做一个卵泡的监测。木棉花目前不孕症治疗的患者，平均一个人群就5000块钱到1万块钱左右，那我就已经自然怀孕了，自然而然不需要辅助生殖的干预，所以中国的辅助生殖渗透率低。还有一个重要的差别是我们有老老祖宗留下来的很好的治疗手段。</p>
-<p class="transcript-line"><span class="time"><strong>[00:09:38]</strong> </span><span class="speaker"><strong>发言人1: </strong></span>中医木棉花也是采取中西结合治疗的手段，提高了患者自然怀孕的几率，同时我们不耽误她选择辅助生育的时机。就是说我们跟传统的中医的区别是一个患者在我这里接受不孕症治淮的诊治，选择做试管婴儿会更高效，我们就会让他进入试管婴儿的流程，不会说你一直在我手里一直治治治，反而有可能会耽误他选择辅助生育的时机。木棉花为什么在过往的这些年发展的非常快？我觉得最重要的一个事情是我们并不是一个商业体。我一直都理解木棉花其实是一个以学科建设为支撑，进而通过做全国的生殖连锁门诊跟辅助生殖医院来更好解决生殖障碍患者问题的机构。</p>
-<p class="transcript-line"><span class="time"><strong>[00:10:25]</strong> </span><span class="speaker"><strong>发言人1: </strong></span>中国民营医疗的发展过程里面，医疗服务的产值超过90%是在公立医院。当所有的民营医院要去思考自己的定位的时候，我们往往会想的一个事情是什么？我怎么跟公立医院去产生差异化？在这个过程里面我们可以看到，大家一般会选择的是服务路线跟公立医院产生差异化。医院看60个人，那我就看十个人。医院看五分钟，那我可能给你看20分钟。但木棉花做这个路线的选择的时候，做了第二层的深度思考。就是当所有的民营医疗机构都是选择了服务的时候，我跟公立医院的差异化形成了，但是我跟民营医疗机构彼此之间的差异化没有形成。</p>
-<p class="transcript-line"><span class="time"><strong>[00:11:09]</strong> </span><span class="speaker"><strong>发言人1: </strong></span>原本很多中高端的西医的连锁医院，都在面对一个同质化竞争的问题。所以慕名花最早在创业的时候，我们思考的是怎么从医疗的体系上去跟公立医院形成一个很好的差异化。其实木棉花当时在做这个体系的时候，我们很深度的去思考了中国的医疗体系跟欧美的发达国家的体系的一个差异化。</p>
-<p class="transcript-line"><span class="time"><strong>[00:11:32]</strong> </span><span class="speaker"><strong>发言人1: </strong></span>中国的医疗服务体系，我觉得在全世界是一个非常大的奇迹。超过14亿的人口，我们可以做到所有人都有所养，而且看病的费用如此便宜。但是这个体系里面已经做到非常卓越的情况底下，我们说的第一个服务体系可能没有国外的高端医疗服务那么好。所以很多人走了服务的差异化。而木棉花最后选的差异化是医疗，医疗是什么？中国为了很好完成这么大人群的一个医疗服务的提供，我们分科分的很细。它可以快速完成一个学科体系的建设，培养大量的医疗人才。但是像试管反复失败、复发性流产、不孕症、生殖障碍这样子一个大的多学科导致的综合性的病因，在公立医院体系下是没有很好的得到满足的。</p>
-<p class="transcript-line"><span class="time"><strong>[00:12:21]</strong> </span><span class="speaker"><strong>发言人1: </strong></span>比如说不孕症治疗的患者，现阶段的情况底下，在公立医院他可以选择去中医院的妇科，用中药的治疗手段帮助她提高自然怀孕的机会。第二个他可以去妇科，妇科的医生可能会通过宫腔镜、腹腔镜跟妇科内分泌的支持体系，通过卵泡监测去帮助她提高一部分自然怀孕的机会。她还可以去生殖科，当然中国目前的生殖科主要在做试管婴儿。我们会发现一个问题，在中医妇科、妇科、内分泌、生殖医学科、生殖腔镜医学这四个学科都在不同的阶段给生殖障碍的患者提供一个诊疗的服务。</p>
-<p class="transcript-line"><span class="time"><strong>[00:13:01]</strong> </span><span class="speaker"><strong>发言人1: </strong></span>但是这四个学科的医生如果能够形成一个有机的整体，它是可以更好给患者提供更高效率的诊疗服务的那木棉花针对复发性流产和试管反复失败，我们也是把妇科内分泌、妇科腔镜、学生殖医学、中医妇科学，传统的针灸、生殖免疫、试管婴儿、遗传、心理营养这么多个学科变成一个小专科大综合的模式。通过这样子的方法，我们会发现会进入到第二个状态，就是公立医院的诊疗水平非常的高。你从综合学科上是很难在医疗体系去实现突破的当木棉花只做生殖，我们对一个学科的庄严的广度，以及对当病种庄严的深度，就有办法做到跟公立医院形成一差异化，更装就有可能更精，所以木棉花大量的病人都是在公立医院已经看诊过之后失败才到我们这里来的。疑难杂症，患者还是会首选公立医院，更在于服务的少量的人群会选择民营医疗高端机构。但是木棉花做的是在生殖障碍的诊疗体系，通过中西医结合多学科协作的方法治疗的成功率更高。第二个，我们对于生殖障碍里面最重要的疑难杂症，复发性流产，试管反复失败，能够做到成功率更高。那患者会愿意选择我们在医疗体系上面的综合学科的建设，竞争壁垒是更高的。</p>
-<p class="transcript-line"><span class="time"><strong>[00:14:32]</strong> </span><span class="speaker"><strong>发言人1: </strong></span>我们在过去运营的三年时间里面是零获客成本。没有在营销端口广告的投放花任何的钱，通过疗效口碑获客。这样子具备了一个医疗机构的纯粹性。我们又完成了全国多个城市的标准化的复制模型，所以获得了很多投资机构的青睐。明白。</p>
-<p class="transcript-line"><span class="time"><strong>[00:14:53]</strong> </span><span class="speaker"><strong>发言人2: </strong></span>咱们这是一个研究机构，比如说像实验室base在三甲医院里面，还是说我们是有自己的一个医院或者是门诊？</p>
-<p class="transcript-line"><span class="time"><strong>[00:15:02]</strong> </span><span class="speaker"><strong>发言人1: </strong></span>我们全国的深圳门诊会有不同学科的临床的医生，总部会有一个医学部，负责做这个学科体系的建设以及所有医生的培养。我们把全国生殖内分泌、生殖医学、生殖免疫、中医妇科这些细化解决生这障碍。全国最顶级的专家通过多点职业退休之后全职来到了木棉花，把医疗经验融合形成一个标准化的体系，给到很多中青年医生进修学习。</p>
-<p class="transcript-line"><span class="time"><strong>[00:15:34]</strong> </span><span class="speaker"><strong>发言人1: </strong></span>我们目前在做复发性流产和试管反复失败，全国加在一起超过了200位医生。中国目前是没有任何一家当地的医疗机构能够有这么多医生在做这样子两个疾病的。我们在有一个总部的医学部的牵头，最后就会形成一个很好的情况。第一个国内最顶级的专家在木棉花。第二个我们把这些专家的经验形成了一个内部的总结，多学科的联动，培养了大量的中青年医生。最后我们跟国际的很多知名的医疗机构保持了很好的一个联系。</p>
-<p class="transcript-line"><span class="time"><strong>[00:16:06]</strong> </span><span class="speaker"><strong>发言人1: </strong></span>立足中国，面向国际，推动了整个学科体系不断的进步。每一位医生在木棉花获取知识的进步的速度是比他不在木棉花更快的。因为我们有两百多位医生，不断的在把最新的研究进展在内部做分享，做疑难病例的讨论。不断有国内最顶级的专家来做讲课，以及中青年医生可以做跟诊。大家在这样子一个状态下面，最后医疗技术不断的在进步。我解决疑难杂症的能力就越来越具备不可替代性，有越来越高的护城河壁垒。</p>
-<p class="transcript-line"><span class="time"><strong>[00:16:42]</strong> </span><span class="speaker"><strong>发言人2: </strong></span>我理解一下生殖医疗技术不是一个小事儿，它听起来好像好多医院也能做，但就像刚才卢总有在介绍，它里边的坑还是挺多的。比如说反复的流产，或者是看中医还是看西医，学科又不能打通现在的一些实际痛点。我们通过技术上加服务上来实现了木棉花今天的这样的一个独特的商业模式。其实有点像和睦家，或者是像各种各样的齿科和眼科的连锁。对，就是他在大医院院里也能看，但是可能我们在这块儿上看的非常的专业，特别是眼科，它有很多很多全球的专家，像北京那些好的眼科的专科的医院，他们能做非常复杂的一些手术。</p>
-<p class="transcript-line"><span class="time"><strong>[00:17:25]</strong> </span><span class="speaker"><strong>发言人2: </strong></span>像何牧佳她本身在生孩子这个问题上生孩子，因为其实它相对来讲比较容易，对吧？就是已经怀上了，那就开始产检生孩子。但是他就是服务上做的非常的好，基本上你前期不用去忍受建档什么这些在公立医院非常复杂的事儿，私立医院就能享受很好的这种服务。但这里边其实我们核心的优势就是打通了多学科。把一件事儿做到了极致。</p>
-<p class="transcript-line"><span class="time"><strong>[00:17:50]</strong> </span><span class="speaker"><strong>发言人2: </strong></span>对，您刚才提到中西医结合，听起来容易，但知易行难。因为其实中医它是极具个性化的一个诊疗的过程。但是西医的这些无论是技术手段，还是说我们目前的一些科技发展，都是可以规模化复制的。所以您在做标准化连锁扩张的过程中，咱们怎么平衡中医的个性诊断和规模化复制之间这种矛盾。</p>
-<p class="transcript-line"><span class="time"><strong>[00:18:11]</strong> </span><span class="speaker"><strong>发言人1: </strong></span>木棉花的中西医结合，我们目前在两个板块是已经做到全国领先。第一个的话是我们的针灸，现在世界上发表出来的顶级期刊，证明了针灸可以很好的去解决生育的难题，提高成功率的。但到底怎么把针灸融合进生殖里面的应用，在中国的公立医院体系里面很难做到这个事情。</p>
-<p class="transcript-line"><span class="time"><strong>[00:18:33]</strong> </span><span class="speaker"><strong>发言人1: </strong></span>公立院体系的针灸医生传统在做的是什么？颈椎腰腿痛。那我们是怎么找到在生殖障碍里面针灸的应用？第一个是多囊卵巢综合征，传统的我用口服的促排卵药再加中药的调理之后，有一部分的患者我就可以很好的解决他排卵障碍的问题。解决不了的就需要去借助辅助生殖的治疗。而我们就抓住了这样的一个痛点，在中药跟西药应用之后都不行的患者，我们的针灸医生用怎么样的学位，用怎么样的治疗方案，帮助她得到一个自然怀孕的机会。这个时候她就需要跟妇科内分泌的医生配合。很多的患者可以再花1万块钱以内的费用，解决不孕症治淮的问题，不需要去做试管婴儿。</p>
-<p class="transcript-line"><span class="time"><strong>[00:19:18]</strong> </span><span class="speaker"><strong>发言人1: </strong></span>那我们是怎么样去培养生殖针灸的医生的？从公立医院里面招募已经拿到主治副高的资深的针灸专家。这个专家一般来的时候，他是对妇科内分泌，对现代生殖是不懂的。我们内部会有专门的课程。第一个跟我们的妇科内分泌专家重新学妇科内分泌的知识体系。试管的专家去学试管的体系，跟我们生殖宫腔镜的医生上手术台，通过宫腔镜和腹腔镜看他内部情况。</p>
-<p class="transcript-line"><span class="time"><strong>[00:19:48]</strong> </span><span class="speaker"><strong>发言人1: </strong></span>通过这样子一个升职的专科医生的培训之后，他的思维对比。传统的针灸医生不再是一个中医，他是一个升职的医生。但是他善于用针灸的治疗手段去解决生殖障碍的患者遇到的一些难题。而这样子一个培养体系是公立医院没有办法给一个针灸医生提供的对，那这是第一步，之后我们会做第二步。因为我们内部现在大概有三十多位针灸的医生在做这个专业。</p>
-<p class="transcript-line"><span class="time"><strong>[00:20:16]</strong> </span><span class="speaker"><strong>发言人1: </strong></span>我们已经总结了八套基础的针法，这个时候其实就是标准化的治疗流程。但是我们兼顾了西医的标准化培养。在个体化治疗的时候，我们又让我们的针灸医生去做辨证辨病。在这八套基础的针法保证不错的基础疗效的情况底下，再做个体化的治疗，可以让患者拿到一个更好的疗效。</p>
-<p class="transcript-line"><span class="time"><strong>[00:20:39]</strong> </span><span class="speaker"><strong>发言人2: </strong></span>我们其实通过一个跨学科的方式，自己打造了一套医疗体系。至少在辅助生殖这个领域，我们自己有一套自己的教学方法，有一套医生的建制了。那是不是未来我们有没有可能跟公立医院的辅助生殖部门也来做医疗资源的交换和合作呢？会的。</p>
-<p class="transcript-line"><span class="time"><strong>[00:20:56]</strong> </span><span class="speaker"><strong>发言人1: </strong></span>我们目前跟一部分的公立医院会有这样的一些合作。因为试管婴儿诊疗技术在海南，我们现在这家海南医院有97%的病人来自于全国各个省份，这个比例可能在全国都是一个很罕见的数据。一般如果你不是疑难杂症，我不会说从北京、从东北三省、从新疆、从陕西飞到海南。同时还有很大的一部分患者，他们可能是不愿意从我们的门诊所在的地方飞到海南这么远的那这个患者我们会跟当地的公立医院合作，这部分的业务叫做市广直通车，他可能找到我们的医生做诊疗服务。这个时候他需要做试管婴儿，我们就会把他推荐到当地合作的公立医院里面去，更好地满足患者的一个诊疗诉求。</p>
-<p class="transcript-line"><span class="time"><strong>[00:21:41]</strong> </span><span class="speaker"><strong>发言人2: </strong></span>其实在中国这样医疗管制极其严格的环境下，我们探索出了一条属于自己的路，这还是挺有特色的对对，我们自己首先得有自己的know how相应的这个杀手锏，然后另外一定得跟公立合作，这个是没有办法逃避的对。其实刚才我们大家听了很多中西医结合在辅助生殖领域的一些介绍。但实际上卢总是绝对的科班毕业生。他本人是出生在医药世家，他就是广州中医药大学的，先后还供职于跨国的制药企业，还有国内知名的一些医疗机构所以说在创业之前，他就对于中西医结合去治疗疾病上已经有了非常好的一些学术上的积累。同时这个也便于他创业之后去搭建相应的人脉。那17年成立到现在，今年是25年。过去的八年里你有没有统计过我们诊疗了多少人次，成功率大概是多少？</p>
-<p class="transcript-line"><span class="time"><strong>[00:22:33]</strong> </span><span class="speaker"><strong>发言人1: </strong></span>我们大概现在一年诊治的患者数万，怎么去统计这个成功率？在我们内部叫做过NT12周。就是患者如果他是不孕症治淮的，过NT12周，就相当于说我已经解决了他怀跟保的问题。复发性流产一般过了NT12周，后面基本上除了极少数病人，绝大多数也已经算是成功了。试管反复失败，只要过了NT12周也算是成功了。我们会在患者12周的时候办一个毕业证，同时送他一对宝宝的袜子，然后跟患者合一个影。通过这样子的方法统计每个医生每天会有多少患者得到好运。我们大概一年下来，差不多有接近1万对左右的患者在我们这里拿到成功好运的消息。</p>
-<p class="transcript-line"><span class="time"><strong>[00:23:20]</strong> </span><span class="speaker"><strong>发言人2: </strong></span>那就是说你一万对患者都能够熬过12周吗？</p>
-<p class="transcript-line"><span class="time"><strong>[00:23:25]</strong> </span><span class="speaker"><strong>发言人1: </strong></span>1万对到12周的患者，后面再发生大孕周导致生化胎停流产的病人的比例是非常低的。当然这批患者到12周之后，如果过往他们有大孕周的胎停的经历，我们还是会继续去监测他的指标，给予他一些建议。但绝大多数患者的治疗到12周就可以结束了。</p>
-<p class="transcript-line"><span class="time"><strong>[00:23:47]</strong> </span><span class="speaker"><strong>发言人2: </strong></span>这个比率在全球的来看是高的低的，还是说什么样的一个地位？</p>
-<p class="transcript-line"><span class="time"><strong>[00:23:52]</strong> </span><span class="speaker"><strong>发言人1: </strong></span>因为我们现在诊治的患者，包括了不孕症治淮，其中一个团队在做的多囊卵巢综合症，大概是18%的成功率。目前的比如说人工授精的成功率大概在12%。也就意味着我们通过中西医结合跟多学科协作，跟精细化的整治模式，把不孕症治淮在这个团队能够做到比传统单一学科的治疗高出50%的成功率。</p>
-<p class="transcript-line"><span class="time"><strong>[00:24:15]</strong> </span><span class="speaker"><strong>发言人1: </strong></span>第二个在复发性流产的成功率，我们是通过跟中国第一位写了复发性流产专家共识的专家非常深度的合作。我们建立的复发性流产专家体系里面，这位专家能够做到90%的保胎成功率。第三个是试管反复种植失败的诊治的成功率。现在的文献报道未经任何的治疗，我有过试管失败时，再次去种植的成功率大概是30%。</p>
-<p class="transcript-line"><span class="time"><strong>[00:24:44]</strong> </span><span class="speaker"><strong>发言人1: </strong></span>而木棉花我们有一个专门的专家团队做了统计，平均移植失败次数2.6次的患者，经过我对他内分泌代谢土壤，就是宫腔环境、盆腔环境，盆腔环境特指的主要是一部分子宫内膜意味着症的患者针对他的免疫凝血的因素，重视他的心理，在做好他的内膜的准备等等等等。我可以做到51%的成功率，也就相当于说比文献报道成功率要高出60%。就是他不找我做试管婴儿，我只是帮他去处理可能外在的病因，再次去种植，能够做到这个成功率。</p>
-<p class="transcript-line"><span class="time"><strong>[00:25:20]</strong> </span><span class="speaker"><strong>发言人1: </strong></span>第四个是我们在试管婴儿的成功率。我们跟中国平安合作做过一个事情，是一处恶意一处伤翼失败退全款。当时一般会买保险套餐的患者都是试管反复失败的患者。</p>
-<p class="transcript-line"><span class="time"><strong>[00:25:33]</strong> </span><span class="speaker"><strong>发言人1: </strong></span>在中国平安全国合作的数十家到上百家的医疗机构里面，我们当时是一处三移成功率最高的机构。我们一次促排三次移植的累积成功率能够做到95%左右。然后很多医疗机构两次移植失败的成功率都不够高。所以中国平安陆陆续续的把他们的合作都停止了。而木棉花当时是中国唯一一家能够做中国平安一促二移失败退全款的机构，就说明了我们两次累计移植的成功率，当时也是他合作的这数十家到上百家医疗机构里面最高的这是一个外部第三方机构对我们成功率的佐证。因为我们的成功率足够高，我们患者给的保费平安没有赔偿，他才会同意我们继续去通过保险去做一个赔付。那很多机构因为成功率达不到中国平安的要求，就被停掉了。</p>
-<p class="transcript-line"><span class="time"><strong>[00:26:28]</strong> </span><span class="speaker"><strong>发言人1: </strong></span>第二个试管婴儿的成功率是目前我们海南医院已经开展了接近一年的时间，平均年龄是36.6岁。而这个数据超过了中国绝大多数的生殖中心。传统省会城市的平均年龄大概在33岁到34岁，北上广的平均年龄大概在35岁到36岁之间，而我们做到了36.6岁，就是说我们是高龄患者。基本上大家会在当地最知名的生殖中心失败过几次之后，才会专门飞一趟到海南来找到我们找到我们的患者。他们的外院平均试管失败次数是接近三次的，就他要在外院失败了三次才会找到我们。我们把这群患者认为就是疑难杂症，中国最困难的病人了。通过我们这样子一个中西医结合，多学科协作精细化的诊治模式，目前2025年临床妊娠率做到了接近66%，这个成功率是非常震惊的。同时我们的实验室的水平非常高，养囊成功率稳定在差不多65%。平均年龄在35岁左右的实验室，养囊成功率在中国普遍大概是在40%左右。所以就是说从刚刚我们讲的不孕症治淮、复发性流产、试管反复失败的土壤处理以及试管婴儿，我们在针对疑难杂症都是做到了成功率非常满意的一个效果。</p>
-<p class="transcript-line"><span class="time"><strong>[00:27:54]</strong> </span><span class="speaker"><strong>发言人2: </strong></span>对，我们其实能做到这么高，就是您说的跨学科研究能力很强。对我听下来就这么一条，我们把各个学科之间可能会涉及到生殖相关的潜在的问题，全部帮你在一个医院排查掉了，就一个赛里搞定了。对，那咱们这个医院的规模大概有多大？就以海南为例。</p>
-<p class="transcript-line"><span class="time"><strong>[00:28:13]</strong> </span><span class="speaker"><strong>发言人1: </strong></span>我们海南医院是去年6月份正式开业，目前是2万平。因为只做试管婴儿，相当于说是一家三级医院，但是只做辅助生殖本质特别像生殖专科医院。因为我们现在有大量的病人是来自于全国各地，所以我们现在的医生团队的建设不是全部base在海南。我们在海南的医生不多，加在一起有十来个人，包括实验室的、妇科的、传统生殖医学科的。但是依托于我们全国深圳连锁门诊的模式，全国各地都会有试管婴儿的医生，相当于说是一个分中心的模式。其实这个模式在中国目前是不常见的，但是在美国是反而是很常见。美国它一般就是十几个卫星诊所，然后可能有一个试管婴儿医院。对，但在中国一般就是只有一个医院有了。</p>
-<p class="transcript-line"><span class="time"><strong>[00:29:00]</strong> </span><span class="speaker"><strong>发言人2: </strong></span>对我有时候觉得生命其实是非常美好的缘分。做完这期播客我的一个感受就是我们在对待小孩上其实要更加的宽容和理解。因为他来到你生命里，有可能没有经过辅助生殖这个流程的。自然受孕的家长就会觉得这好像顺其自然就来了。没错，调皮捣蛋的时候觉得他是个小负担，但是经历过重重挣扎和努力的，包括咱们木棉花的帮助下生下来的这些小朋友，其实都是家长的天使。所以大家在打游戏的时候，学习成绩不好的时候就那样，对吧？</p>
-<p class="transcript-line"><span class="time"><strong>[00:29:33]</strong> </span><span class="speaker"><strong>发言人1: </strong></span>对，是是是想得开好。</p>
-<p class="transcript-line"><span class="time"><strong>[00:29:36]</strong> </span><span class="speaker"><strong>发言人2: </strong></span>特别好的一期节目。我们其实刚才也悄悄问了一下关于木棉花这些融资的事儿。卢总非常的谨慎小心的告诉我有融资，但是没有告诉我金额。我大概知道一个情况，但是也可以告诉大家，就是木棉花第一在技术上目前还是国内的遥遥领先，因为刚才其实卢总介绍了一些数据。然后第二确实也拿到了资本的青睐，更好的去看开发更新的技术，邀请更好的专家，帮助更多的有生育障碍的家庭拥有自己的这个小天使和孩子，是一件非常有意思的事儿，也非常的利国利民。然后我们这里边就祝福木棉花发展越来越好吧。好，本期节目差不多就到此结束了。</p>
-<p class="transcript-line"><span class="time"><strong>[00:30:16]</strong> </span><span class="speaker"><strong>发言人2: </strong></span>相信各位听友听完这期节目也有很多的意见和建议。欢迎大家在喜马拉雅和小宇宙下面积极留言，说出你对辅助生殖行业你知道的一些有意思的见闻和观察。同时也欢迎你对木棉花和卢总提出宝贵的意见和建议。当然卢总又是做非常有大愿景的一个事儿，那我们这期节目就请卢总给我们送出一个特殊的礼物吧。卢总你自己描述一下。</p>
-<p class="transcript-line"><span class="time"><strong>[00:30:39]</strong> </span><span class="speaker"><strong>发言人1: </strong></span>女性经常会讲一个事情，叫做生育是要跟时间赛跑的那我觉得可以分享一些福利，就是在我们全国15个城市抽取出五位女性的观众，送一个卵巢储备功能的检测套餐。包括了性激素六项、抗苗勒试管激素，就是俗称的MH还有一个英超窦卵泡，可以很好的评估女性目前的卵巢储备功能的情况。她可以去判断接下来如果要孩子，我是应该赶紧要孩子，还是我还有更长的时间，等到完成更多的事业的准备之后再去生孩子。帮助您评估一个女性生育力的目前的情况。</p>
-<p class="transcript-line"><span class="time"><strong>[00:31:17]</strong> </span><span class="speaker"><strong>发言人2: </strong></span>这期福利真的是太好了，大家一定要积极的留言。如果说对这个话题或者是对木棉花有兴趣的，也欢迎大家在公众号里搜索木棉花医生，去咨询和了解更多的细节。好，本期节目到此结束了，我们下期再见，拜拜。</p>]]></content:encoded>
-            <pubDate>Thu, 04 Sep 2025 22:00:00 GMT</pubDate>
-            <guid>68ba0c267a63f15fa1e3a41e</guid>
         </item>
     </channel>
 </rss>
