@@ -4,7 +4,295 @@
         <title>硅谷101</title>
         <link>https://www.xiaoyuzhoufm.com/podcast/5e5c52c9418a84a04625e6cc</link>
         <description>分享当下最新鲜的技术、知识与思想</description>
-        <lastBuildDate>Thu, 02 Jul 2026 02:41:17 +0800</lastBuildDate>
+        <lastBuildDate>Wed, 08 Jul 2026 05:39:39 +0800</lastBuildDate>
+        <item>
+            <title>E242｜最快半年AI跑通自进化？与陈天桥首席科学家聊聊硅谷模型必争之地</title>
+            <link>https://www.xiaoyuzhoufm.com/episode/6a4af13a5c47f914f6016083</link>
+            <description>从ChatGPT掀起生成式AI浪潮到现在，不过短短两三年，AI能力的进化速度已经让&quot;AI自我进化&quot;这件事从科幻走进了现实。上个月，Anthropic在一份公开报告中预测，AI未来将进入&quot;递归自我提升&quot;（Recursive Self-Improvement, RSI）阶段，并呼吁人类共同为AI的发展设计出一个减速或暂停机制。
+AI自我进化会以多快的速度到来？未来的AI，它会在通往真理的道路上与人类并肩作战，稳步破解医学、气候等种种难题，还是会在暗处走向失控？
+本期播客，泓君邀请到专注做“发现模型”的AI公司Apodex的两位首席科学家，杜少雷和Beibin，一起聊聊AI的自我进化与自我验证。
+Apodex是一家陈天桥出资创立并亲自主导的公司，这家公司给自己的定位也非常的特别，他们只做一件事—— heavy duty solver，意思是专啃那些没有标准答案，人类自己都不知道从哪下手的难题。他们管自己想做的模型叫做 discovery model。不是从已知的信息里面找答案，而是要提出人类还没有想到过的假设，自己想办法去验证它，去解决这个世界上还没有被解决的科学难题。
+嘉宾预言，最快半年，AI就能跑通一次完整的自我进化闭环。但要实现持续的、可靠的递归提升，模型必须具备“自我验证”能力。这很像人类科学家的基本功：大胆假设，小心求证。而要让AI做到这一点，关键的前提是——教会大模型真正拥有科学家一样的品味和判断力。
+【主播】
+泓君，硅谷101创始人，播客主理人
+【嘉宾】
+Simon Shaolei Du（杜少雷），Apodex推理模型与训练首席科学家，华盛顿大学计算机科学与工程学院副教授
+Beibin Li （李辈滨），Apodex自我进化与编程首席科学家
+【你将听到】
+自我进化背后的底层能力
+03:00 AI自我进化不是新概念，两三年前就有了
+06:48 RSI概念火了，背后是模型能力变强了，长程任务表现更好了
+09:20 技术上如何训练AI做好长程任务？算法+数据+infra
+12:45 Coding能力代表了模型自我进化的底层能力
+14:29 用自我验证规避“递归漂移”，代码领域相对可控
+16:21 Apodex的验证方法：多个子agent互相验证
+19:11 自我进化三条路径：预训练、后训练、Harness
+23:56 另一项关键能力DeepResearch，Apodex如何做到多个榜单第一？
+29:19 技术范式决定了多个agent组团解决问题效果好于单个
+31:18 模型自动进化后，会碾压agent团队吗？垂直领域护城河仍在
+自我进化关键一步——学会提问
+34:19 Apodex定位：用Discoverative框架解决人类未解难题，不把Token当生意
+36:18 “发现模型”最难之处：提出超出经验范围的假设，并去验证
+37:52 让AI像科学家一样提问，需要模型有更好的品味
+43:31 如何避免大模型拍马屁？远离大众偏好
+46:30 “AI宪法”定义性格，顶级科学家数据校准品味
+巩固品味，阻止“跑偏”
+51:33 AI巨头都在做科研发现模型，判断问题价值是关键
+55:32 不同于AI for Science，Heavy Duty Solver是通用模型，强调元能力
+57:25 最快半年能跑通自我进化的第一个闭环，但解决递归漂移还需要2-3年
+58:43 让科学家睡不着觉的问题：如何防止AI“走火入魔”
+01:00:04 解决方案仍靠人工手调，“自我蒸馏”也许是个方法
+01:04:28 人类只是warm start，未来AI将形成自我品味，就像AlphaZero
+01:06:18 陈天桥与Apodex：制定“宪法”，聚焦Heavy Duty Discovery
+【硅谷101正在招聘】
+《硅谷101》招聘多个全职岗位，欢迎加入我们的超酷的深度内容工作团队！
+👉🏻点击查看招聘详情
+【硅谷101听友群】
+终于终于终于，大家一直呼吁的硅谷101的社群要上线了！欢迎大家加入。
+请用手机相机扫码；如已安装飞书/Lark，可直接在App内扫码进入申请表单。7天内审核，通过后邮件同步入群方式。期待和你在群里碰面！
+【监制】
+泓君
+【后期】
+Amei
+【运营】
+朱婕
+【BGM】
+Light-Footed - Bonnie Grace
+Reclaim - Megan Wofford
+Charcoal Stream - Curved Mirror
+【在这里找到我们】
+公众号：硅谷101
+收听渠道：Apple Podcast｜Spotify｜小宇宙｜喜马拉雅｜蜻蜓FM｜荔枝FM｜网易云音乐｜QQ音乐
+其他平台：YouTube｜Bilibili 搜索「硅谷101播客」
+联系我们：podcast@sv101.net
+Special Guests: 李辈滨 and 杜少雷.</description>
+            <content:encoded><![CDATA[<div class="episode-summary">
+<h3>内容摘要</h3>
+<h3>主题概述</h3>
+<p>本期播客聚焦AI领域的核心前沿——递归自我提升。嘉宾为AppleDEX（陈天桥创立并主导的AI公司）的两位首席科学家：华盛顿大学副教授Simon杜少磊（负责训练与推理）和李贝斌（负责代码与自动化）。对话围绕RSI的技术原理、实现路径以及其终极目标“Discovery Model”展开。AppleDEX的定位是“专啃硬骨头”，不做通用聊天或生成模型，致力于用AI解决人类尚未解决的、没有标准答案的科学难题。嘉宾探讨了从Deep Research到RSI的演进逻辑，以及实现过程中面临的验证、递归漂移和“品味”等根本性挑战。</p>
+<h3>关键要点</h3>
+<ol>
+<li>
+<p><strong>RSI的本质是长链推理能力的提升</strong>：贝斌指出，从Deep Research到Coding再到今年的RSI，核心都是模型推理能力的提升，即处理更复杂、步骤更多的长程任务（长达12小时以上）。模型能力每7个月翻倍，速度超过摩尔定律。</p>
+</li>
+<li>
+<p><strong>实现RSI的三大技术难点</strong>：处理百万级长上下文需要解决三个层面的问题：1）架构（如改进Self-Attention的平方复杂度）；2）训练数据（确保模型在超长文本上未出现过分布外问题）；3）推理基础设施（GPU上的kernel和代码优化）。</p>
+</li>
+<li>
+<p><strong>代码能力是RSI的底座</strong>：预训练数据、后训练配方、基础设施（Infra）都高度依赖代码。代码能力的提升能直接推动模型在归纳、演绎和逻辑推理上的泛化，因此代码成为自我进化的核心支撑。</p>
+</li>
+<li>
+<p><strong>“递归漂移”是根本难题</strong>：模型在自我生成训练数据时，推理错误会一代代累积，导致最终进化方向偏离。代码领域可通过单元测试进行强验证，但测试代码本身也可能过宽或过窄，依然存在微小的漂移风险。</p>
+</li>
+<li>
+<p><strong>AppleDEX的核心方法论是“验证”</strong>：公司名源自希腊语“证明与论证”。其验证系统采用多Agent架构：一个子Agent解决问题，另一个子Agent独立验证。同时引入冗余机制（多份答案）和全局Agent判断，训练时让“裁判”与模型共同学习以规避奖励黑客。</p>
+</li>
+<li>
+<p><strong>“品味”是区分好科学与灌水的关键</strong>：培养模型成为好的科学家，本质是培养其“学术品味”——判断什么是本质问题，什么是增量问题。这需要通过顶级科学家的偏好数据（而非大众数据）进行对齐，避免模型常见的“拍马屁”或“鸡蛋里挑骨头”行为。</p>
+</li>
+<li>
+<p><strong>苹果公司的独特优势在于专注</strong>：不做To C聊天，不讨好用户，只聚焦于解决最难的科学问题。创始人和团队的执行力、低摩擦的组织结构，以及与陈天桥亲自推动的战略对齐（对比马斯克更关注Chat功能），是其不进入混乱竞争的护城河。</p>
+</li>
+<li>
+<p><strong>“员工蒸馏”是加速闭环的现实路径</strong>：贝斌表示，他每天手动检查模型输出、抑制错误行为。如果能将自己的这部分工作（读代码、改代码、监控输出）“蒸馏”进系统，RSI的自进化闭环就能更快跑通。这是下一步可操作的具体方案。</p>
+</li>
+<li>
+<p><strong>科学问题无限，资源有限，筛选是关键</strong>：AppleDEX设有专门的HDD（Heavy Duty Discovery）团队，负责与顶级科学家交流，从数千个科研问题中筛选出最有价值、最值得GPU去解决的问题，这是区别于其他公司的重要差异化能力。</p>
+</li>
+<li>
+<p><strong>最快的预期：半年内跑通一遍后训练闭环</strong>：贝斌预测，最快半年到一年内，模型可以完成“自我诊断-自我造题-自我训练-自我验证”的一次迭代。但要实现完全的、无监督的“递归式”（Recursive）增长，还需解决“重复漂移”问题，预计需要更长时间。</p>
+</li>
+</ol>
+<h3>独家细节</h3>
+<ol>
+<li>
+<p><strong>顶级科学家的“品味”从何而来？</strong> Simon和贝斌认为，品位的形成很难写进AI宪法，更多是通过顶级科学家“手把手”的反馈——就像平时在学校培养PHD一样，告诉他们“这个问题值得做，那个不值得做”。这是一种隐性的、一对一的言传身教。</p>
+</li>
+<li>
+<p><strong>AI模型普遍存在的“拍马屁”通病</strong>：贝斌直指行业痛点——“所有模型其实都有一些通病，就是他们或多或少都挺喜欢拍马屁的”。这种迎合用户的偏好来源于RLHF阶段的大众标注数据（用户喜欢长答案、结构化Markdown），导致模型不敢质疑用户，甚至“用户说什么都是对的”。</p>
+</li>
+<li>
+<p><strong>马斯克与陈天桥的对比</strong>：贝斌曾在二者麾下工作，他观察到两人的性格类似，但执行方式不同。马斯克常说类似“Heavy Duty”的话，但实际极其关注X平台的聊天和生成功能；而陈天桥则是“说的和做的完全一样”，对聊天、图片和视频生成毫无兴趣，极度专注。</p>
+</li>
+<li>
+<p><strong>贝斌对失业的真切恐惧</strong>：贝斌直言对AI取代自己的工作感到担忧。他回忆2021年使用GitHub Copilot的经历——当时还是个博士，看到打一个函数名就能补全整个函数，“整个人就瘫在椅子上了”。这种情绪在对话中自然流露，具有强烈的个人色彩。</p>
+</li>
+<li>
+<p><strong>陈天桥亲自“矫正”模型行为</strong>：Simon举例，为了追求搜索能力，模型变得“上来就去搜”而不是先思考分解问题。陈天桥自己使用后发现这个行为不符合Heavy Duty Server的定位，立刻介入，亲自参与撰写并推动修改模型的“宪法”和训练方向。</p>
+</li>
+</ol>
+</div>
+<hr/>
+<p class="transcript-line"><span class="time"><strong>[00:00:02]</strong> </span><span class="speaker"><strong>发言人1: </strong></span>Hello, 大家好，欢迎收听硅谷101，我是红军。最近anthropic他承认了一件事儿，他们现在80%的代码已经不是人写的，是cloud自己写的。这家全世界最谨慎的AI公司同时发出了一个警告，AI可能很快就要自己设计，自己去训练下一代的AI了。他们管这个叫做递归自我提升，英文是RSI，也是硅谷今年对模型能力最热的讨论方向之一。今天这期节目我们的含金量高了，我们请到了两位真正正在做这件事情的研究员。他们所在的公司叫做apple dex背后是陈天桥出资创立并。</p>
+<p class="transcript-line"><span class="time"><strong>[00:00:49]</strong> </span><span class="speaker"><strong>发言人2: </strong></span>亲自主导的那。</p>
+<p class="transcript-line"><span class="time"><strong>[00:00:50]</strong> </span><span class="speaker"><strong>发言人1: </strong></span>这家公司给自己的定位也非常的特别，他们不做图片生成，不做视频生成，只做一件事儿。他们自己叫做heavy duty server，意思是专啃那些没有标准答案，人类自己都不知道从哪下手的难题。他们管自己想做的模型叫做discovery model，不是从已知的信息里面找答案，而是要提出人类还没有想到过的假设，然后自己想办法去验证它，去解决这个世界上还没有被解决的科学难题，这也是为什么这家公司叫apple dex，因为词源就是希腊语里的证明和论证。</p>
+<p class="transcript-line"><span class="time"><strong>[00:01:33]</strong> </span><span class="speaker"><strong>发言人2: </strong></span>如果AI.</p>
+<p class="transcript-line"><span class="time"><strong>[00:01:34]</strong> </span><span class="speaker"><strong>发言人1: </strong></span>真的可以教自己，人类科学家还剩下什么？让我。</p>
+<p class="transcript-line"><span class="time"><strong>[00:01:38]</strong> </span><span class="speaker"><strong>发言人3: </strong></span>睡不着觉的一个问题就是，我们怎么知道这个模型在自我进化的时候它没有跑偏。</p>
+<p class="transcript-line"><span class="time"><strong>[00:01:47]</strong> </span><span class="speaker"><strong>发言人1: </strong></span>同时贝斌也在这集节目里面讲到了他自己蒸馏自己的想法。这个在过去职业生涯里，曾经每天都在跟马斯克跟陈天桥讨论技术问题的研究员。我采访的时候有那么一瞬间觉得他下一刻就工作不保了。于是我问他。</p>
+<p class="transcript-line"><span class="time"><strong>[00:02:06]</strong> </span><span class="speaker"><strong>发言人2: </strong></span>我们假设真的把被冰蒸馏了，你会担心自己失业吗？</p>
+<p class="transcript-line"><span class="time"><strong>[00:02:10]</strong> </span><span class="speaker"><strong>发言人3: </strong></span>说不担心肯定是假的，但是即使我担心，我其实还是乐观的。</p>
+<p class="transcript-line"><span class="time"><strong>[00:02:17]</strong> </span><span class="speaker"><strong>发言人1: </strong></span>这一集我们就站在AI自进化的分界点上，与两位一线的研究员聊一聊硅谷模型的核心发展趋势，以及未来模型能不能超越人类顶尖科学家的水平，真正的去提出问题，去发现问题。下面就请收听我们今天的节目。</p>
+<p class="transcript-line"><span class="time"><strong>[00:02:38]</strong> </span><span class="speaker"><strong>发言人2: </strong></span>今天跟我在一起的两位嘉宾，一位是Simon杜少磊。嗨Simon你好你好。对，Simon是华盛顿大学计算机系的副教授，同时也是apple dex的首席科学家，负责训练与推理方向。还有一位嘉宾是apple dex的首席科学家，负责代码与自动化方向的李贝斌。</p>
+<p class="transcript-line"><span class="time"><strong>[00:02:58]</strong> </span><span class="speaker"><strong>发言人2: </strong></span>Hello, 贝贝，你好你好，欢迎两位。我们刚刚提到了今年有一个词儿很火，就是RSI。然后我发现其实这个大模型它的预训练、后训练，包括它的核心的训练方向，它可能是每年都有一些新的方向出来。我记得前几年我们在聊的最火的是deep research，深度研究，再到coding就代码方向。今年就到了自净化self involve的方向。首先想请贝宾跟Simon大家一起来分析一下，这后面其实是几个不同的方向，还是说它有一个核心的主线在主导这个模型往哪个方向走的。</p>
+<p class="transcript-line"><span class="time"><strong>[00:03:35]</strong> </span><span class="speaker"><strong>发言人3: </strong></span>我感觉从训练的角度来看，其实是同一个能力在提高。其实都是推理的能力，长链推理的能力。还有就是在环境中进行一些探索，执行一些动作，获得了这个信号之后，再进行下一步的探索。不管是在deep research还是coding这些环境下，其实它的内核都是一样的，只是它的方向有一些细微的区别，我们说的自我进化这个概念，其实并不是一个新的概念了。我就不说远的，在八九十年代关于AI和machine learning的自我进化，我就光说language model的自我进化。其实往前推的话也可以推。</p>
+<p class="transcript-line"><span class="time"><strong>[00:04:14]</strong> </span><span class="speaker"><strong>发言人3: </strong></span>对，大概三年前左右，那个时候google就有一篇论文叫做LM as a optimize，就是说用语言学习模型当做一个优化器，可以优化不同的东西。当时我在auto卷那边也有我的同事有出一个类似的概念，叫做agent optimized。就是说智能助手可以自己的净化自己的优化自己。只不过这两年的话，大家发现摩西的能力越来越强了，它可以自我优化的东西越来越多了。就比如说anthropic有八成的代码是可以自己写的。</p>
+<p class="transcript-line"><span class="time"><strong>[00:04:47]</strong> </span><span class="speaker"><strong>发言人3: </strong></span>训练模型呢，不管是从哪个角度来说，从合成数据的生成，自然语言数据的清理，还是自我训练学习的代码算法以及info底层代码，其实它都是一种代码的形式。一旦模型的写代码的能力变强了，用它来进行自我提升自己训练自己，其实是非常自然的一件事情。所以我并不觉得突然。今年大家发现我们要自我学习，自我进化，让模型自己训练自己。其实早在两三年前，大家已经开始慢慢的做这件事情了。</p>
+<p class="transcript-line"><span class="time"><strong>[00:05:19]</strong> </span><span class="speaker"><strong>发言人2: </strong></span>被逼你之前的背景是一直在关注模型的自我进化这条线，是吗？你要不要简单介绍一下自己的背景？</p>
+<p class="transcript-line"><span class="time"><strong>[00:05:25]</strong> </span><span class="speaker"><strong>发言人3: </strong></span>对我最开始是在微软研究院那边做多智能体的合作，当然那个时候我们不叫做自我进化。因为那个时候智能体都是一个比较新的概念，所以大家一般对外说都是说智能体。但是实际上我同事的一些工作就已经开始进行一些自我进化的。当时我们叫做agent optimized和teacher agent智能体，可以教智能下一次在做类似的事情的时候可以用的一些技能，和现在的我们说的skills这个概念有点像。但那个时候大家用的概念还是说，比如说context management或者是engineering就是上下文管理，以及prom engineering就是工程学。怎么样修改这个prompt，后来我去了meta和XAI。</p>
+<p class="transcript-line"><span class="time"><strong>[00:06:08]</strong> </span><span class="speaker"><strong>发言人3: </strong></span>在XAI的时候我们就已经开始关注智能体r agented r就是通过强化学习来加强智能体的一些能力。比如说用工具的能力，写代码的能力，当时还有一个概念叫做MCP tools。当然现在也非常火用MCP工具的这些能力。所以我们其实在早期，Simon和我大概一年前左右就发现了，其实模型提高自己是非常可行的一件事情。包括我们当时做的一些强化学习的数据生成，其实有很大一部分是代码写的。到今年年初的时候，Andrew capacity发表了关于auto research，就自己进行科研的一个项目，突然一下这个概念就爆火了。</p>
+<p class="transcript-line"><span class="time"><strong>[00:06:48]</strong> </span><span class="speaker"><strong>发言人2: </strong></span>对我觉得非常好的自我进化的总结，今年说到模型的自我进化，跟往年来说，模型的自我进化有什么不一样的地方吗？我觉得今年大家再提到RI的时候，他说的是一种递归自我提升。贝比你要不要跟大家解释一下这个概念，以及就比如说我们说这个概念的时候，是不是说以前我们在让AI进化的时候，考官还是人，现在考官逐渐变成AI了，他是不是在解决更难的问题？</p>
+<p class="transcript-line"><span class="time"><strong>[00:07:17]</strong> </span><span class="speaker"><strong>发言人3: </strong></span>对的，这是一个非常好的问题。其实自我净化如果大家想象成是一个圆环的话，比如说模型自己找问题，自己出题，自己解答，然后自己训练自己。那SI里面的这个R就代表是recursive递归式，就有点像垂直的递归式慢慢向上增长。这一点确实是跟以往的一些资金化有一点点不一样。</p>
+<p class="transcript-line"><span class="time"><strong>[00:07:40]</strong> </span><span class="speaker"><strong>发言人3: </strong></span>当然这一个idea也不是新的，今年跟往年的最大的区别就是在于模型的能力变强了。比如说anthropic发表的论文或者是说发表的blog，有提到80%的代码是他们写的。然后他们可以做人类大概一天左右时间做到的事情。这个能力上来了之后，因为它是可以完成非常长程的任务。所以在一个长程的任务里面，这个模型可以提高自己好几遍。不像过往的，比如说我们说LMS optimized或者是agent optimize的时候，这个LM只会一次可能优化自己大概两三个小时。因为你优化太久了，他可能因为自己的bias或者自己的能力不足，就很难继续往下迭代。因为它可能会犯一个小错误，然后那个小错误会自我积累，越积累越大，到之后就没有办法进行自我的迭代。而今年为什么这个recursive这个R出来了？因为大家发现这个模型可以进行很长程的任务，所以它可以让这个模型自己recursive多提高几遍。</p>
+<p class="transcript-line"><span class="time"><strong>[00:08:39]</strong> </span><span class="speaker"><strong>发言人2: </strong></span>对我看这篇文章里面有一个数据，就是说2024年3月份cloud 3的Operas，它可以完成人类约四分钟完成的任务。一年后就是3.7SONY就可以处理需要1.5小时处理的任务。又过了一年，这个cloud 4.6 ops可以处理长达12个小时的任务。整个我们看到大模型的改进速度是在翻倍的。而且这个比我们计算机领域的经典的摩尔定律，它的翻倍的速度还要快。</p>
+<p class="transcript-line"><span class="time"><strong>[00:09:09]</strong> </span><span class="speaker"><strong>发言人3: </strong></span>对，是的，当然这个业界各家都有不同的说法，但是好像大家比较接受的判断是这个模型能做到的事情，对于人类实践来说，每七个月会翻一倍。</p>
+<p class="transcript-line"><span class="time"><strong>[00:09:20]</strong> </span><span class="speaker"><strong>发言人2: </strong></span>对，然后您刚刚提到这个RSI它可以处理长城任务，我们理解这个长城是不是可以理解成它是一个需要很多个步骤，很多个环节来互相印证的一系列任务。假设我给一篇音频的文字稿给到模型去校正这个事实性的错误，这只算一步。但是比如说他能从开始的规划一直到最终这个博客做出来，这中间可能有十几个步骤，他能把每一个步骤都做好。长城任务是指这个意思吗？</p>
+<p class="transcript-line"><span class="time"><strong>[00:09:50]</strong> </span><span class="speaker"><strong>发言人3: </strong></span>对，是的，我说的长城任务是这个意思。当然不同的人对长城的定义也有一点不一样，但是大体方向大家都同意这一点，就是模型可以自己在人类不监督的情况下可以工作很长。像您刚刚说的，对于播客文件处理，就比如说这个模型可以先剪切一下这个音频，然后自己听一遍，发现哪里剪的不对，然后重新剪，这样可以循环几次，然后就可以进行到下一个点。这种任务可能平时对一个人类来说，可能要花20个小时或者30个小时可以做完。在这个时候，如果我我们的模型可以在人类不监督的情况下把这个任务完成的话，那我觉得他就完成了这个长城的任务。</p>
+<p class="transcript-line"><span class="time"><strong>[00:10:30]</strong> </span><span class="speaker"><strong>发言人2: </strong></span>你觉得他是怎么做到的呢？</p>
+<p class="transcript-line"><span class="time"><strong>[00:10:32]</strong> </span><span class="speaker"><strong>发言人3: </strong></span>这里就有非常多的技术细节。首先就是在模型的架构上，可能就要有进行一些创新。比如说传统的self attention其实是一个own square，就是我们在算法里说的是一个polyamine time的算法。所以当我们的tokens比较多的时候，特别是在100万个上下文时候，其实模型首先就是在推理的时候就会花非常多的resource。这个我们有很多现成的解法，就比如说GDNGDNV2 deep seek v4 pro，它也有自己的一套架构。</p>
+<p class="transcript-line"><span class="time"><strong>[00:11:06]</strong> </span><span class="speaker"><strong>发言人3: </strong></span>第二就是训练数据，我们要100万上下文difference support其实不是特别的难。我们只要把模型训练好了，放到SG line或者v LLM里面，给它参数都设置好。它可以支持100万上下文，甚至更多的上下文。但是如果你的模型没有在这种非常长的数据下进行训练的话，那它可能就是我们所谓的out of distribution。因为100万上下文是非常长的一个概念，就大概哈利波特好几部书放在一起。而我们的代码即使是最大的report也很难会saturate来满足这100万的上下文。所以在预训练和后训练的数据处理上也是非常大的一个挑战。</p>
+<p class="transcript-line"><span class="time"><strong>[00:11:47]</strong> </span><span class="speaker"><strong>发言人3: </strong></span>第三点就是info也是一个难度，不仅是说在testing time的info而且是在训练的时候的。因为你要如果让这个语言模型就直接输出100万个token的话，我们需要就比如说在GPU上做一些什么样的优化，在kernel上改一些什么样的代码，这些也是非常困难的事情。所以这个就是为何训练这种长城任务相对于普通任务会是指数级的难度增长。</p>
+<p class="transcript-line"><span class="time"><strong>[00:12:13]</strong> </span><span class="speaker"><strong>发言人2: </strong></span>了解塞梦有补充的吗？</p>
+<p class="transcript-line"><span class="time"><strong>[00:12:16]</strong> </span><span class="speaker"><strong>发言人4: </strong></span>还有就是最想解决长城问题的话，可能从A镇的架构上也可以有很多可以做的。因为即使是我们有100万的上下文可以处理，但是真正完成的任务可能都还是不止100万。那这个时候我们还是需要比如说在有限的上下文里处理，甚至是无限的上下文。那怎么做呢？还是需要一些比如说agent技术，记忆的技术等等，去处理这种超长程任务所涉及的超长上下文这样的问题。</p>
+<p class="transcript-line"><span class="time"><strong>[00:12:45]</strong> </span><span class="speaker"><strong>发言人2: </strong></span>我们听起来很简单，但是这个中间可能涉及到了很多具体细分的技术体系。之前我记得贝宾你有讲过，训练一个模型其实本质就是data数据infra基础架构和算法这三件事儿。其实这三件事儿都高度的依赖写代码。所以我们今天看到像cloud它能表现出这么强的基础模型的研发能力，主要是因为他coding能力的提升。自净化的能力，他也是跟coding的能力是紧密相关的。我可以这样理解吗？</p>
+<p class="transcript-line"><span class="time"><strong>[00:13:15]</strong> </span><span class="speaker"><strong>发言人3: </strong></span>对我基本上同意这个看法。</p>
+<p class="transcript-line"><span class="time"><strong>[00:13:18]</strong> </span><span class="speaker"><strong>发言人2: </strong></span>所以coding它会变成所有模型的一个标配的底座。</p>
+<p class="transcript-line"><span class="time"><strong>[00:13:22]</strong> </span><span class="speaker"><strong>发言人3: </strong></span>我觉得它会变成大部分模型的标配底座，但并不是所有模型的。就比如说聊天型的模型可能不太需要写代码的能力。当然了聊天型的小模型可能也是通过一个大模型进行蒸馏的。所以它后面这个大模型需要非常大的，比如说reasoning推理能力，需要自我进化。所以能自我进化来蒸馏到小模型里面。所以它背后的这些大模型肯定还是需要高度优化写代码的能力的。</p>
+<p class="transcript-line"><span class="time"><strong>[00:13:52]</strong> </span><span class="speaker"><strong>发言人2: </strong></span>我可不可以理解成单纯的聊天还好，因为现在我们其实都在讲怎么让agent完成一系列的事情。如果一旦是涉及到了多步骤，然后让agent去完成不同的复杂的任务的时候，coding能力就会变得特别的关键了。</p>
+<p class="transcript-line"><span class="time"><strong>[00:14:07]</strong> </span><span class="speaker"><strong>发言人3: </strong></span>是的，没错。因为coding其实写代码不仅是写代码本身，而且可以通过写代码训练自己。另外的话，他在coding里面要进行的归纳演绎，这些逻辑推理的基本的思想和算法，其实也可以帮助模型在其他的一些方向上进行优化和generalize，就是可以泛化到其他不同的领域里。</p>
+<p class="transcript-line"><span class="time"><strong>[00:14:29]</strong> </span><span class="speaker"><strong>发言人2: </strong></span>我发现在学术界，其实自我进化它还有一个很根本的障碍。我看大家起了一个学术的名词，叫做递归漂移。他的意思就是说模型在自己去生成它的训练数据的时候，它推理的错误会在一次的错误中一代一代去累积。就比如说有的时候我们看他给我们的一个答案，这个答案的结果可能是对的，但是他的推理过程可能是错的。在这种让他自我进化的过程中，他就会把这个错误一代一代累积，最后可能进化的结果就越来越歪。这是两位在真正的训练模型中遇到的一个比较根本性的难题吗？</p>
+<p class="transcript-line"><span class="time"><strong>[00:15:10]</strong> </span><span class="speaker"><strong>发言人3: </strong></span>我非常同意这个看法。这个现象其实也是我们大家一直有注意到的。Apple dex有一个不一样的地方，就是我们比较注重verification，就是自我验证。就是模型自己在训练自己的时候，如果它的验证有任何的漂移或者是bias的话，会对结果造成不好的影响。因为它可以累积起来，所以我们在做比如说写代码和做数学计算的这些任务的时候，我们比较容易验证。可以通过rule base，就是可以通过跑一套测试代码来确定它有没有对。所以在代码领域相对来说更好解决这个recursive gift的问题。</p>
+<p class="transcript-line"><span class="time"><strong>[00:15:50]</strong> </span><span class="speaker"><strong>发言人3: </strong></span>当然了，如果对代码领域有了解的一些专家可能还会发现，即使是有test script，即使有这个test code，它其实偶尔还是会发生漂移。就比如说test case，不管是人还是AI在写测试代码的时候，可能偶尔会太宽，偶尔会太窄。太宽的时候可能会让错误的解题代码通过，但如果太紧的话，有时候会惩罚写的对的代码。所以这种情况下也是还会发生细微的递归漂移，但是它会简单很多。</p>
+<p class="transcript-line"><span class="time"><strong>[00:16:22]</strong> </span><span class="speaker"><strong>发言人2: </strong></span>对我其实很好奇，就是你们怎么去做验证。因为我知道apple dex验证其实是你们主打的一个核心功能。因为我去试用了一下你们的产品之后，我是有收到一封邮件，这个邮件的标题非常有意思，它叫做很多AI系统生成答案，而apple dex验证他们。后来我才知道，原来你们公司的名字apple dex它是源自于一个希腊语，它的意思就是证明跟论证。所以相当于你们从成立的开始就把验证较真儿写到了名字里面。</p>
+<p class="transcript-line"><span class="time"><strong>[00:16:54]</strong> </span><span class="speaker"><strong>发言人4: </strong></span>对，验证这一步我们有很多套方法，因为不同的领域确实需要不同的验证方法。比如说代码，一般来说你可以用单元测试进行验证。当然你怎么写，有时候会过宽又过窄，这是另一个很难的问题了。数学可以通过证明，然后证明现在有lean这样的formal验证的方法去验证。</p>
+<p class="transcript-line"><span class="time"><strong>[00:17:18]</strong> </span><span class="speaker"><strong>发言人4: </strong></span>但不得不说还是有很多的问题。其实是更多依赖于人的一种判断，甚至都并不是一种百分之百正确或不正确。这种时候我们其实是依赖一个agent系统去做我们现在apple dex 1.0的验证的，我们管这个叫agent team。大概就是说把一个问题最开始会分解，然后我们会有不同的子agent。有的是去解决这个问题，然后我们会有另一个子agent单独的去验证另一个子agent写出来的解法。之所以要分成两个子agent，还是因为上下文的问题，不要让一个agent干所有事情，分成两个agent其实效果会好很多，这是一个细节。对，而且一定要拆成两个agent，同时两个agent给他的指示也不太一样。</p>
+<p class="transcript-line"><span class="time"><strong>[00:18:05]</strong> </span><span class="speaker"><strong>发言人4: </strong></span>除此之外还有一些比较重要的技巧，我们最好是有一些冗余。同一个问题你让不止一个agent的去做，然后我们会得到不止一份答案。其实这个冗余的思想在计算机里面有很长的历史了，但我都不止一个答案之后，我们会让一个全局agent去判断一下哪个agent的反馈的答案更准确一些。这样会比只用一个agent去解一个方面的任务会效果好很多。这是从agent方面，我们有这些设计去做一些验证。那训练的时候我们也会专门针对验证去训练一些了。比如说我们会让agent去判断一下不同信息源搜集的信息，哪些是更靠谱一些，哪些不靠谱一些。比如说一个论坛上的可能就不如教材上得到关于同样的问题靠谱了。</p>
+<p class="transcript-line"><span class="time"><strong>[00:18:56]</strong> </span><span class="speaker"><strong>发言人2: </strong></span>那贝彬有补充吗？</p>
+<p class="transcript-line"><span class="time"><strong>[00:18:57]</strong> </span><span class="speaker"><strong>发言人3: </strong></span>另外的话，我们在进行强化学习的时候，我们的裁判也会在训练的过程中一起学习。这样的话可以避免模型学会一些不好的行为，可以避免他进行一些奖励。黑客。</p>
+<p class="transcript-line"><span class="time"><strong>[00:19:11]</strong> </span><span class="speaker"><strong>发言人2: </strong></span>因为现在我们说市场上的很多公司，他们可能都在做RSI，然后也都在做验证。那大家觉得在这么多的模型公司里面，该怎么去判断一个公司这块的能力是不是真的强？它是一个技术问题，还是一个比如说我把更多的精力跟时间投入到这儿，它是一个意愿的问题呢？</p>
+<p class="transcript-line"><span class="time"><strong>[00:19:34]</strong> </span><span class="speaker"><strong>发言人3: </strong></span>我觉得两个问题都是，首先技术问题肯定是需要有的。因为在自我递归和自我进化的时候，如果它底层的代码infra或者是训练代码有问题，技术不达标的话，这个是肯定做不成的。另外意愿也是很重要，有一些公司可能还没有意识到自我进化的一些需要强化的点在哪里。</p>
+<p class="transcript-line"><span class="time"><strong>[00:19:57]</strong> </span><span class="speaker"><strong>发言人4: </strong></span>真要判断一个公司的技术能力，可能还是需要去了解一些细节。自我进化这方面其实有很多种，比如说我就在partners这个脚手架上进行进化，然后有的是在预训练的各种配方上进行进化，有的是在后训练，包括搜集数据以及后训练的一些配方进行进化。我真的想判断一个公司技术水平，我觉得还是要先聊一下，看看他们到底是在哪方面。</p>
+<p class="transcript-line"><span class="time"><strong>[00:20:27]</strong> </span><span class="speaker"><strong>发言人4: </strong></span>据我们了解，说实话在脚手架上进行进化是护城河比较低的个原因。确实它的成本比较低，因为你基本只用调API，你就可以自我进化这些harness，这些脚手架了。所以这方面即使开源社区，包括学术界也有很多的结果。据我了解，学术界包括开源社区做的也都不错。当然公司里可能会有更多的资源，但其实这些技巧上可能细节上，即使用那么多资源，你可以做得很好。但如果真要涉及与后训练这样自我进化比较难的一些方向，确实你需要很多的资源。</p>
+<p class="transcript-line"><span class="time"><strong>[00:21:03]</strong> </span><span class="speaker"><strong>发言人4: </strong></span>跟这些公司聊的时候，可以知道他们比如说是通过什么样的方式去进行后训练一些进化。然后预训练这方面，现在可能大家看到的都是一些auto research。比如说什么自动去训练nano GPT，这些确实都是一些比较玩具型的一些任务。因为他们这个模型都比较小，然后你可能调一个更好的优化器，更好的超参数等等。这些也是最近的资金化的一些paper。但真正把这个能不能scale到产品级或者真是大模型，其实是需要特别了解的。如果他们光说我是在一个公开的一些auto research，一个benched mark上，我怎么样，其实这个并不是代要什么。</p>
+<p class="transcript-line"><span class="time"><strong>[00:21:45]</strong> </span><span class="speaker"><strong>发言人2: </strong></span>那我讲的特别好，你们现在是怎么做的？或者说你们一个理想式的目标未来会怎么做？然后现阶段是有哪些路径可以去达成？</p>
+<p class="transcript-line"><span class="time"><strong>[00:21:54]</strong> </span><span class="speaker"><strong>发言人3: </strong></span>我们其实在自我进化的时候，把它分成了不同的阶段。我们有训练和后训练阶段。预训练阶段的话就是在数据的采集清理上面会进行不同的自我进化的一些方法。在后训练里面自我进化可能更加有效一点。因为我们在一个模型出来了，经过了后训练之后，我们才知道他会有一些什么样的问题。所以我们的后训练自我进化就包括诊断自己有什么症状，哪里不达标。然后基于自己的诊断来造不同的训练的配方。第三步，拿到自己训练的数据和配方来自己训练自己在其中需要verify，就是验证自己每一步做的是否正确，最后回到第一步，再诊断自己有什么缺陷。另外在脚手架harness上面我们也有一些自净化，同时在脚手架和后训练，因为它其实挺难解耦的，所以模型在后训练上进化之后，我们的脚手架也会进行一个新的进化。你可以把它想象成两只不同的脚，左脚会踩一下，然后右脚会踩一下，让这个模型往前跑。</p>
+<p class="transcript-line"><span class="time"><strong>[00:23:03]</strong> </span><span class="speaker"><strong>发言人2: </strong></span>我理解刚刚根据贝比你说的，就是你们所有的三种方式预训练、后训练，包括整个harness的环境全部会用到。</p>
+<p class="transcript-line"><span class="time"><strong>[00:23:11]</strong> </span><span class="speaker"><strong>发言人3: </strong></span>对的，因为我们公司其实就是把自我进化当做是主要的方法论，所以我们在每一个方面基本上都会用到自我进化的思想。</p>
+<p class="transcript-line"><span class="time"><strong>[00:23:21]</strong> </span><span class="speaker"><strong>发言人2: </strong></span>难怪你们可以把验证就写到你们的整个的slogan里面。</p>
+<p class="transcript-line"><span class="time"><strong>[00:23:25]</strong> </span><span class="speaker"><strong>发言人4: </strong></span>对的，这个我稍微补充一下。一个是验证能力是非常重要的，然后验证能力的其实一个是。像代码这些你可以去formally去这种验证。还有很多的时候是模型本身的，我们管它叫原能力或者meta能力。包括判断这个答案对不对，分析现在模型的问题，根据模型的一些output，对这些是一些这种圆的能力，这个我是需要特别的去训练的。</p>
+<p class="transcript-line"><span class="time"><strong>[00:23:56]</strong> </span><span class="speaker"><strong>发言人4: </strong></span>还有一点我想强调一下是搜索能力，尤其对于后训练是非常重要的。因为后训练绝大部分的方法，就是说你发现你的模型有什么缺点。假如说你的模型已经可以判断出来当前这个模型有什么缺点，那么你需要去针对性的造一些任务以及对应的答案，还去提高模型这个能力。这个噪任务其实非常依赖于搜索能力。基本上你造任务还是需要去网上搜索对应的一些，不管是语料还是代码，或者相关的资料，然后造出对应的题目。所以search搜索本身是一个非常重要能力。这个也是我们为什么最开始先去做deep research。因为if research是一个非常general的能力，其中搜索可能是一个非常本质的能力，因为它就代表了你模型需要提高哪个能力的时候，它可以指引你会找到对应的这些数据去提高对应的能力。</p>
+<p class="transcript-line"><span class="time"><strong>[00:24:49]</strong> </span><span class="speaker"><strong>发言人2: </strong></span>对对对，然后你刚刚提到了deep research，现在应该是你们现在apple dex放出来的这个版本中目前最强的一块儿，对不对？但这应该只是第一步。</p>
+<p class="transcript-line"><span class="time"><strong>[00:24:58]</strong> </span><span class="speaker"><strong>发言人4: </strong></span>是的，就像我最开始说的，自建化你最开始有一个先做deep research。然后相当于你可以收集目前已有的信息以及当前模型的能力。你可以制定一个计划，然后你去写code，去提高自己的模型，然后你得到一些反馈，再做deep research就可以这样就sively的提高。所以deep research是一个比较重要的一环。</p>
+<p class="transcript-line"><span class="time"><strong>[00:25:23]</strong> </span><span class="speaker"><strong>发言人2: </strong></span>对，然后我了解到apple dex你们的这个模型，是在通义千问的基础上做后训练做出来的。Simon你要不要跟大家讲一下deep research它的训练范式，它有发生一些什么样的变化？比如说通过预训练做出来的deep research跟通过后训练做出来的deep research，它有什么不一样？为什么你现在会先选择后者？</p>
+<p class="transcript-line"><span class="time"><strong>[00:25:44]</strong> </span><span class="speaker"><strong>发言人4: </strong></span>因为我们公司也是刚建立，所以我们先开始从一个开源的模型，就是千问3.5上进行后训练。得到目前的一个模型后训练上我们会有一些原子能力特别的提高。比如说模型最开始做计划，我们会生成特别多的对应的数据去专门提高模型这样能力。然后另一个能力就是搜索能力。搜索能力也是我们造了很多对应的题目，针对性的去提高模型的这些能力。还有就是说跟agent team结合，我们去造了一些题目，这是就像贝宾说的左脚踩右脚这样一种感觉。我们需要agent team和数据一起开发，然后达到最后的效果，这是我们主要后训练做的事情。当然有了预训练之后，我们这个模型会越来越强。然后预训练我们也是正在开发之中。</p>
+<p class="transcript-line"><span class="time"><strong>[00:26:38]</strong> </span><span class="speaker"><strong>发言人2: </strong></span>之后也会从预训练的角度去做deep research，包括去训模型。</p>
+<p class="transcript-line"><span class="time"><strong>[00:26:42]</strong> </span><span class="speaker"><strong>发言人4: </strong></span>是的，我们公司最后会有一个完整的链路，就是从预训练开始到最后成品到产品。</p>
+<p class="transcript-line"><span class="time"><strong>[00:26:50]</strong> </span><span class="speaker"><strong>发言人2: </strong></span>都会有的。OK我注意到你们现在是在好几个deep research的榜单上都拿了第一名。</p>
+<p class="transcript-line"><span class="time"><strong>[00:26:56]</strong> </span><span class="speaker"><strong>发言人4: </strong></span>对吧？是的。</p>
+<p class="transcript-line"><span class="time"><strong>[00:26:58]</strong> </span><span class="speaker"><strong>发言人2: </strong></span>要不要讲一下？</p>
+<p class="transcript-line"><span class="time"><strong>[00:26:59]</strong> </span><span class="speaker"><strong>发言人4: </strong></span>对这些包括bross comp，这是open eye的一个benchmark。然后还有deep search QA仿tier science，这些都是这些仿tier lab出的benchmark。Cross s com其实它更关注的就是搜索能力，它就搜索特别刁钻的一些问题。比如说我要搜索一本书，它是几年之前出的，它的首字母是什么ZY，大概这样的一些问题。这方面我们是sota对。</p>
+<p class="transcript-line"><span class="time"><strong>[00:27:28]</strong> </span><span class="speaker"><strong>发言人1: </strong></span>sota就是最高水准的意思。</p>
+<p class="transcript-line"><span class="time"><strong>[00:27:30]</strong> </span><span class="speaker"><strong>发言人4: </strong></span>就是比包括闭源模型都要好一些。仿tier science更多的是给你一个实际中的科研问题，你能不能制定一个计划，然后一步一步的该怎么做，大概是这样一类的问题。他会用一个LMS judge去判断一下你这个合理不合理。当然它的原来的benchmark里有很多具体的判别标准，去看你生成的合理不合理。这两方面我们都是说深入研究，而且造出了对应的题目，去提高我们模型的能力。然后还有一方面就是我们之前讨论过的agent team整个的范式，包括version ation这个验证，还有最后有一些冗余。然后如果通过更多的冗余去判断，得到一个更全局的结果，去做生成一个答案。这整个的系统是让我们拿到了sota的水平。</p>
+<p class="transcript-line"><span class="time"><strong>[00:28:20]</strong> </span><span class="speaker"><strong>发言人2: </strong></span>然后我看见像这种一般是能上网的模型，它有的时候它那个答案不是AI推理出来的。可能是因为他是搜索到了，然后它就会有一些失真。所以我注意到你们自己在做评测的时候，还是专门把这种能搜到答案的网站给屏蔽了是吧？自己去做的。</p>
+<p class="transcript-line"><span class="time"><strong>[00:28:39]</strong> </span><span class="speaker"><strong>发言人4: </strong></span>是的，这还是一个现在游戏搜索类问题的一个general的问题。因为这个benching mark只要它公开了，那么他的答案就是大家也知道，你可能直接在github上新生成一个页面，上面把答案放上面。那我新的一个模型直接就可以搜到这个答案，那我就算做对了。但这样并不是真正奔驰mark目的这个问题的目的还是比如说去考验你一个叫深度搜索的这样的一个能力。所以我们一般还是会看一下我们自己生成的答案，是不是进行了一些作弊的行为。如果有这种作弊行为，我们会把比如说github屏蔽掉。但有些榜单其实已经污染的比较厉害了，干脆后来也就不报了。</p>
+<p class="transcript-line"><span class="time"><strong>[00:29:19]</strong> </span><span class="speaker"><strong>发言人2: </strong></span>对，然后我注意到你们在这个deep research的后训练环节，其实你们相当于是用一个整个的agent的团队去替代单个的验证的。你一个比如说复杂的任务，你能调动上百个子的agent，你会认为是一个聪明的AI，反而干不过一个会相互check的团队吗？</p>
+<p class="transcript-line"><span class="time"><strong>[00:29:40]</strong> </span><span class="speaker"><strong>发言人4: </strong></span>对我非常相信这一点。因为这是目前我认为是基于self attention结构的一个本质问题。而且我认为即使你用linear attention这样一些新的结构，我应该也解决不了超长上下文这样的问题。上下文越长，attention的注意力它这个效果就越差。所以你单个模型至少在目前的技术范式下，它还是有上限的。当然这个跟人类也很像，就是说人的脑子它还是有限的，所以你才需要执笔，把一些信息记录下来，然后之后你再调用它。至少在近期，我其实不太相信有一个agent能解决特别长的上下文的问题。所以这种时候你就需要多个agent以及记忆力机制，比如多个A站去解决不同的问题，包括记忆机制，把这些信息保存起来，互相分享，整个的一个系统去解决一些超长程的问题。</p>
+<p class="transcript-line"><span class="time"><strong>[00:30:33]</strong> </span><span class="speaker"><strong>发言人2: </strong></span>所以你觉得现在我们说到deep research它的能力的话，他的工程能力跟模型能力谁更重要呢？</p>
+<p class="transcript-line"><span class="time"><strong>[00:30:40]</strong> </span><span class="speaker"><strong>发言人4: </strong></span>我认为这两个属于一加一大于二的一个结果。你当然可以一直去强化模型能力，而且模型能力我认为现在还是可以继续提高的。但是当模型能力达到一定程度的时候，你稍微做一些agent上面的优化，你可能就一下子大提高这个能力。当然你agent这工程它总是有限的，或者说agent harness脚手架上的提高总是有限的。然后这个时候你还是需要一些模型能力的本质提高，进一步提高deep research或generally整个这个系统的能力。所以我认为这两个基本上是一个一加一大于二的一个感觉。</p>
+<p class="transcript-line"><span class="time"><strong>[00:31:18]</strong> </span><span class="speaker"><strong>发言人2: </strong></span>对我虽然知道你们主要是在做模型的，但是想替创业者问一个问题。我们说之前大家在创业的时候最担心的一个问题就是说你的模型的基础能力一升级。基本上所有这些干agent的，干垂直方向领域的，他的能力很快就会被这个模型的基础能力给覆盖掉。如果按照我们刚刚讲的一个聪明的AI，由于attention的transformer的整个架构上的一些限制，他反而干不过一个相互check的能力。是不是说现在一个能把工程能力做到极致，把很多个子agent他用的非常好的团队，他也具备自己一个非常深的护城河，不太容易被模型智力的提升给覆盖掉。</p>
+<p class="transcript-line"><span class="time"><strong>[00:32:01]</strong> </span><span class="speaker"><strong>发言人4: </strong></span>我基本上是同意这一点的。Agent的系统本身我们也是经过大量实验才验证出来，我们这个目前的系统是比较合理，而且是效果很好的。如果一个创业团队真的是证明了自己在用整个agent的系统达到了一个非常好的效果。那肯定他们之前也是做了大量的实验去验证，这个确实是非常work的。但是怎么说，这个领域相对也比较卷，能做这种实验的团队可能也不少。因为这个并不是说训练一个模型确实还是需要很多资源。但是去调或者做agent相关的实验，还是相对来说需要的资源少一些，你基本上只要调API就可以了。当然有些垂直领域其实你可以越做越深了，包括金融法律，确实还有些具体领域的知识经验，其实还是挺有意义。</p>
+<p class="transcript-line"><span class="time"><strong>[00:32:51]</strong> </span><span class="speaker"><strong>发言人2: </strong></span>的对贝彬有补充的吗？</p>
+<p class="transcript-line"><span class="time"><strong>[00:32:53]</strong> </span><span class="speaker"><strong>发言人3: </strong></span>往后退一步想的话，如果一个模型或者说一个single agent单智能体能做的很好。那如果我们把它harness设计的更好的话，来多个智能体一起合作，那可以把这个问题做得更深更好。所以我觉得在垂直领域做这种agent teams或者是做脚手架的公司，未来肯定还是有发展的，而且是有非常多的机会的。</p>
+<p class="transcript-line"><span class="time"><strong>[00:33:17]</strong> </span><span class="speaker"><strong>发言人3: </strong></span>就是有一点要注意，因为现在模型的发布非常的快，可能每个月都会有一两个比较强大的模型出来。所以有了新的模型，可能这个脚手架的设计也要微调一下。因为新的模型会有新的一些能力，有自己的一些品味模型，自己的一些行为都会不太一样。所以这个脚手架调一调，可能会做的比以前。还要好，这个也是我们在之前做自我进化的时候发现的。为什么在后训练以及在做这个脚手架的时候很难解耦。如果你的模型能力或者是说训练数据稍微变一下的话，那他对新的脚手架的适应能力可能也会有一些微微的改变。你可能可以设计出更好的一加一大于二的效果，或者是说模型变强了的脚手架变得也很强，然后放在一起可以打出一个爆炸性的效果。</p>
+<p class="transcript-line"><span class="time"><strong>[00:34:05]</strong> </span><span class="speaker"><strong>发言人2: </strong></span>听起来现在还是一个行业，很卷很辛苦，要时刻跟着模型迭代去更新自己架构的这样的一个行业。</p>
+<p class="transcript-line"><span class="time"><strong>[00:34:12]</strong> </span><span class="speaker"><strong>发言人3: </strong></span>对的，我同意AI行业一周可能相当于传统行业一个月甚至一个季度。</p>
+<p class="transcript-line"><span class="time"><strong>[00:34:19]</strong> </span><span class="speaker"><strong>发言人2: </strong></span>那接下来就可能是聊到我最兴奋的一个板块了，就是apple dex它是要做discovery model的。Simon你要不要跟大家先介绍一下整个apple dex它是一个什么样的模型？它其实是大家很关注的陈天桥先生创建的。他是说自己要去做一个让AI做发现，做科学。</p>
+<p class="transcript-line"><span class="time"><strong>[00:34:39]</strong> </span><span class="speaker"><strong>发言人4: </strong></span>这样的一个模型。对我们的长期愿景是heavy duty server，然后我们强调的是解决很难的问题，而不是比如说一个聊天机器人这样的大模型初期的一些应用。然后我们的手段是通过自我进化，这是我们一直在强调的。我们相信大模型最终是能解决人类之前解决不了的这些问题。</p>
+<p class="transcript-line"><span class="time"><strong>[00:35:04]</strong> </span><span class="speaker"><strong>发言人4: </strong></span>从经济的角度来说，现在大部分的模型厂商都是在卖token对吧？但我们相信真正通过大模型去解决了一些人类没有解决的问题。那么解决问题本身所创造的价值应该是远大于my token n的这个价值。所以我们陈天桥陈总这边的目标，就是说我们直接去解决最难的问题。从经济上来说，我们可以得到直接解决最终问题的这个价值。从问题角度来说，我现在考虑的领域包括生物，材料科学等等。然后我们这边也有一个专门的团队，我们叫heavy duty discovery，就是专门去找到最难的问题的一个团队。然后我们会针对性的，比如说进行模型训练等等，去解决那些最难的问题。</p>
+<p class="transcript-line"><span class="time"><strong>[00:35:51]</strong> </span><span class="speaker"><strong>发言人2: </strong></span>比如说你刚刚提到的，你们内部有一个heavy duty discovery的团队，他们现在具体是在找哪些问题？就现在你们第一步想要切的是生医药领域，对吗？</p>
+<p class="transcript-line"><span class="time"><strong>[00:36:01]</strong> </span><span class="speaker"><strong>发言人4: </strong></span>是的，第一步是生物医药，包括制药靶点发现、老药新用，也包括疾病诊断，很多问题确实是非常具体领域的问题。所以我们需要一个专门的团队去找到什么样的问题是合适去解决的。</p>
+<p class="transcript-line"><span class="time"><strong>[00:36:18]</strong> </span><span class="speaker"><strong>发言人2: </strong></span>很期待你们的下一步，然后我觉得我们可以说一下，让这个模型解决问题。然后我发现其实你们也给自己的定位说，你们要做的是discovery model，而不是generative model。中文说就是你们要做的是发现的模型，而不是生成模型。那贝宾你要不要跟大家解释一下这两个模型它在根本上的区别是什么？</p>
+<p class="transcript-line"><span class="time"><strong>[00:36:40]</strong> </span><span class="speaker"><strong>发言人3: </strong></span>让模型提出一个假设其实并不是特别难的，但是难的就是提出了这个假设，特别的out of distribution，就是可能在pretending data在网上比较难找到，或者说比较难想到的一个假设，这是第一。第二个更大的难点是说我们要怎么样验证这个假设。当然这个跟怎么样做verification，怎么样自我验证也是强相关的一个部分。所以如果我们把discovery切细来看的话，第一需要非常的有创新性能，提出新的假设。第二需要能判断这个假设成不成立。当然这里也有很多不同的方法可以做，就比如说可以用deep research的方法收集已有的信息，找更好的假设。也有可以用写代码或者是self verification的这些方法来跑一些实验。如果我们能在计算机上跑一些，比如说模拟的话，也可以让我们对这个提出的新假设更加的有信心。所以discovery的瓶颈第一就是未知领域，其实很难有标准答案，也很难照这种simulation environment得到可信的验证。所以self evolution是我们通向KV duty server和discovery的一个主要方法。</p>
+<p class="transcript-line"><span class="time"><strong>[00:37:52]</strong> </span><span class="speaker"><strong>发言人2: </strong></span>对我们在说到discovery model的时候，刚刚你提到了我们要做很多假设，然后要去求证。其实这让我想到了科学领域最基础的一个方法，就是八个字儿，大胆假设，小心求证。我觉得这其实也是我自己开始做记者做报道的时候，一直在贯彻的一个价值观。就是要大胆假设提出傻的问题，然后再去求证思路跟这个问题是不是对的。但是同时如果我们把这个交给模型的话，大家以前一直对这个模型的印象就是说一个模型它能从网上，从人类现有的知识库里面找到已知知识的答案就已经很不错了。那现在模型的智力怎么样才能够让他做到理解贯穿人类的知识，同时还能提出问题。因为我觉得这个已经不是说在让AI去做一个解题者了，这个更像是让AI去做一个科学家，他能够提出问题，发现问题，这个是很难的。</p>
+<p class="transcript-line"><span class="time"><strong>[00:38:49]</strong> </span><span class="speaker"><strong>发言人3: </strong></span>对你刚刚提到的这些其实是现在的一个难点。因为怎么样训练一个generation model，其实市面上已经有非常多的可行性方法，相关recipe和训练配方其实也是特别成熟的。但是如何让这个模型进行一些假设和discovery，这个其实是大家还在调，没有完全调通的一件事情。</p>
+<p class="transcript-line"><span class="time"><strong>[00:39:12]</strong> </span><span class="speaker"><strong>发言人3: </strong></span>回到刚刚你说的一点，怎么样像科学家一样在未知中提出问题？这里也可以再往下切细一点。比如说在写代码这个领域，比如说swe verify的这种类型的题目，其实我们都是在训练模型怎么样做一个解题家。但是会提问其实是一个我们叫做的meta能力，更高维的一个能力。这个其实也涉及到了我刚刚说后训练的一个loop。就是要自我诊断，然后再自我造体，然后再自我训练。你要怎么样在这个模型现在的回答里面，或者是所有的收集的这些信息里面，怎么样诊断出哪里的能力有问题，或者是哪里的hypotheses需要往深入更看一下的话，这个是我们接下来会注重的一个领域和方向。</p>
+<p class="transcript-line"><span class="time"><strong>[00:39:58]</strong> </span><span class="speaker"><strong>发言人4: </strong></span>在学术界大家都知道有好的paper跟灌水paper。其实我们也想培养模型变成一个真正的好的科学家。那么你就需要培养一个非常好的taste，就是学术品味。</p>
+<p class="transcript-line"><span class="time"><strong>[00:40:13]</strong> </span><span class="speaker"><strong>发言人4: </strong></span>你提出一个新的问题，肯定是需要先做deep research，找到已有的知识。但你提出什么样的问题，其实是仁者见仁智者见智的，你可以提出一个比较我们叫incremental的问题，它可能比较容易，但是你可以发一个paper。但你也可以提一个比较本质的fundamental的问题。他可能不是那么解决，但解决了它真的是能让科学有所突破。所以这个也是我们之后会进一步训练模型，就是说让他有更好的学术品味。其实训练方法上可能还是需要跟人类最顶级的科学家去对齐。这些陈天桥陈总这边其实也是经常会让我们和一些顶级的科学家一起去讨论，甚至他们提供一些insight或者数据等等帮助的模型有更好的品味。</p>
+<p class="transcript-line"><span class="time"><strong>[00:41:02]</strong> </span><span class="speaker"><strong>发言人2: </strong></span>我觉得其实两位也是顶级的科学家，顶级的科学家大家觉得他们有什么样的共性？比如说我们从他们身上学到的特质，怎么把它转换成一种计算的方法，或者说是跟AI交互的方法，这块大家有什么样的思考吗？</p>
+<p class="transcript-line"><span class="time"><strong>[00:41:20]</strong> </span><span class="speaker"><strong>发言人4: </strong></span>我们一般说什么样的是一个顶级科学家，一般不是看他有多少篇paper，一般是看它最好的paper质量有多高。所以我们一定要追求顶点了，解答这些最本质的问题。所以这个甚至要写在模型宪法里，然后具体实操上，训练方法上可能还是目前已有的一些。比如说RHF这种人类偏好SFT监督学习，或者RL这里可能一个最简单的方法，当然就是偏好了。比如说你问一个科学家两道题，它一般是能判断出来哪个是一个灌水题，哪个不是一个灌水题。然后你应该让模型去多提一提非灌水题。</p>
+<p class="transcript-line"><span class="time"><strong>[00:42:01]</strong> </span><span class="speaker"><strong>发言人2: </strong></span>AI现在能判断哪个是灌水题，哪个是非灌水题吗？</p>
+<p class="transcript-line"><span class="time"><strong>[00:42:05]</strong> </span><span class="speaker"><strong>发言人4: </strong></span>只要经过这方面的训练，我觉得还是没什么问题的。</p>
+<p class="transcript-line"><span class="time"><strong>[00:42:09]</strong> </span><span class="speaker"><strong>发言人2: </strong></span>贝彬，你觉得在跟一些顶级科学家交互的过程中，你有学到什么？以及你觉得这些思想怎么可以用到模型的训练中去？</p>
+<p class="transcript-line"><span class="time"><strong>[00:42:17]</strong> </span><span class="speaker"><strong>发言人3: </strong></span>对我想来想去可能还是品味这个字。其实AI马上就能进行自我进化了，我对这一点非常的坚信不疑，要么是接下来半年，要么是一年，反正在接下来两三年内肯定自我进化就会成功了。在那个时候我们还需要顶级的AI科学家干嘛呢？或者是说我们还需要人类干嘛呢？</p>
+<p class="transcript-line"><span class="time"><strong>[00:42:39]</strong> </span><span class="speaker"><strong>发言人3: </strong></span>然后想来想去就是品味这个字。因为训练这些不同的模型的时候，我发现了这个品味是真的。同样读完一篇paper之后，你可以想到一个非常小的改进，或者你可以想到一个substantial improvement。就是一个非常长的非常大一个假设。但是要干非常多的活，要唛非常大的步子才能解决的问题，这是一个非常好的例子。</p>
+<p class="transcript-line"><span class="time"><strong>[00:43:04]</strong> </span><span class="speaker"><strong>发言人3: </strong></span>其实我现在觉得即使是市面上最好的模型，它的品味其实也是远低于一个普通的AI科学家的这也是为什么现在AI写代码写得很好，但是还是不能把模型的训练全部自动化进行起来。所以我觉得接下来不管是作为一个人类AI顶尖的科学家，还是说作为一个researcher一个engineer在训练这个模型，都是需要把控模型的品味的。这个其实是非常难的一件事情。因为如果大家用过很多不同种类的模型，大家会发现所有模型其实有一些通病。就是他们或多或少都挺喜欢拍马屁的。一个喜欢拍马屁的模型其实很难提出一个大胆的假设。</p>
+<p class="transcript-line"><span class="time"><strong>[00:43:50]</strong> </span><span class="speaker"><strong>发言人3: </strong></span>另外除了拍马屁这个缺点之外，他其实还是有一点我们叫做hydron behavior，或者是一些对冲的行为。就是说这也对，那对用户你说的非常对，刚刚是我的疏忽，但是我说的也没有错，你说的更全面，你想要问其他的问题吗？我们可以看到这些AI模型经常会用这样的方法来回答用户问题。所以我们在训练不管是说verify，还是self evolve，还是discovery的时候，都会对模型的提出假设的能力进行一个后训练。就比如说这个在nose里面。但是这也是有另外一个缺点，就是我们怎么样能保证我们训练的新的模型不会出现鸡蛋里挑骨头的那种行为呢？这就是要品味来平衡就是模型不要拍马屁，也不要鸡蛋里挑骨头，能真的是实打实的提出一个非常好的假设，然后再像您说的，就是小心验证，把它验证出来。</p>
+<p class="transcript-line"><span class="time"><strong>[00:44:45]</strong> </span><span class="speaker"><strong>发言人2: </strong></span>这个假设你刚刚提到了模型拍马屁，就是用户说什么他什么就是对的。我确实发现我在用很多模型的过程中，这是我觉得最痛苦的一部分，就是他不会给你一个事实性的答案，他给你的永远是迎合你的那个答案。这块儿是不是跟在训练模型的时候，把这个模型的参数往哪边调，然后给它注入什么样的人格特质是有一定关系的。而且每一家模型其实我觉得大家的风格细微上都会有一些不一样。</p>
+<p class="transcript-line"><span class="time"><strong>[00:45:14]</strong> </span><span class="speaker"><strong>发言人3: </strong></span>当然我们apple dex因为不做聊天模型，所以可能会稍微好一点。就是因为我们不管是哪家公司，在后训练的时候，或多或少都会有一个ROHF的一个阶段。这个ROHF它的来源数据基本上是用户投票的数据，就有点类似于OMC arena这种形式。也有可能是模型训练公司自己让员工去标的一个preference偏好数据。</p>
+<p class="transcript-line"><span class="time"><strong>[00:45:38]</strong> </span><span class="speaker"><strong>发言人3: </strong></span>人不是完美的，所以人类作为本身就会可能有特殊的偏好，比如说偏好说好话，拍马屁的模型答案，可能偏好写的非常长的答案，可能偏好格式上非常的结构化。像有非常多section，非常多list的一个markdown的格式，即使这个markdown它本身没有什么实际的意义，就是因为这种人为的一些bias，才会让这个模型有不同的拍马屁的行为。Apple dex因为想做heavy duty的话，所以我们不会用网上大众的这些人类的偏好来训练这个模型，所以可以或多或少的避免些许这样的问题。未来我们在训练这个模型的时候，肯定是想要最顶尖的人类来标这些preference数据，或者是说给不同的模型答案打分，确保公正公平。也可以从数据源头稍微解决这些问题。</p>
+<p class="transcript-line"><span class="time"><strong>[00:46:30]</strong> </span><span class="speaker"><strong>发言人2: </strong></span>我觉得这几个方向都还挺重要的。然后你刚刚提到了既不要拍马屁的模型，也不要鸡蛋里面挑骨头的模型，可能不做拍马屁。因为你们不做to c的用户端，这个对你们来说是稍微简单一点的。不做鸡蛋里面挑骨头这一块儿，你会有经验吗？以及我们知道了两个不那要做什么样的模型，要把什么样的人格注入到这个模型里面，大家有什么样的想法吗？</p>
+<p class="transcript-line"><span class="time"><strong>[00:46:57]</strong> </span><span class="speaker"><strong>发言人3: </strong></span>对的，刚刚我们其实是聊的品味，我把左和右两个布打出来，中间我们要的就是要有品位的。不管是这个模型通过research找到了一些相关的信息，还是通过写代码得到了一些答案。有了这些所有的原始材料之后，这个模型要通过自己的思考，自己的推理来给出一个相对比较合理的解释。Agent team的话其实也能稍微把这个问题解决一点。</p>
+<p class="transcript-line"><span class="time"><strong>[00:47:26]</strong> </span><span class="speaker"><strong>发言人4: </strong></span>对拍马屁这个事情我们其实是在做的，就是说用户让我们做的事情。但如果我们觉得不合理，那么我们应该告诉用户，我们不应该去拍马屁。我们其实是有一整个系统去达到这样的目的的。包括我们的constitution AI就是说我们这个宪法这个概念应该是ano pic几年前就提出来了。然后这个给我们整个模型定义了一个性格，我们都是把这种性格训练在模型的权重里了去实现它。当然还有很多，比如说我们注重真实性，比如说如果用户说错了，我们要去纠正它。那这样的里面的细节就是通过验证verra ation或者agent team整个的形式，或多或少会去验证用户说的对还是不对。然后我们会去反驳他。</p>
+<p class="transcript-line"><span class="time"><strong>[00:48:11]</strong> </span><span class="speaker"><strong>发言人4: </strong></span>至于什么样的问题是好问题，就是不在鸡蛋里挑骨头，这个确实是一个品味问题，可能你甚至让我们去写一个宪法或者写一个dog，告诉你什么是好问题，什么是不好问题，也是很难写出来的。这方面更多的还是通过和顶级科学家去聊，以及顶级学家提供的一些比如说偏好数据等等，去培养这样的品类。其实这个也是和平时我们在学校培养PHD是一样的。比如他们来问我们是什么样的一个题目，值得做什么？不值得做。我们也会告诉他，确实我们公司有这种能接触到各行各业的顶级科学家的资源，这是非常重要的一点。</p>
+<p class="transcript-line"><span class="time"><strong>[00:48:53]</strong> </span><span class="speaker"><strong>发言人4: </strong></span>所以这也是陈天桥陈总从一开始的一个vision。就是说我们从一开始就要做happy to do server。所以我们就需要和顶级科学家进行对齐，然后去培养这样的品味。</p>
+<p class="transcript-line"><span class="time"><strong>[00:49:04]</strong> </span><span class="speaker"><strong>发言人2: </strong></span>这点提的特别好啊。我确实知道陈天桥先生这边跟很多主流顶级科学家都保持着非常密切的联系。然后我在想，因为人类的顶级科学家这个数据量的样本是非常小的。然后我们说大模型它大很重要，就有skin了。顶级科学家人工去判断的品味标注的数据跟用更大量的数据去训模型来比，在里面它能贡献的核心的比例是多少呢？因为它的数据样本还是很小是的。</p>
+<p class="transcript-line"><span class="time"><strong>[00:49:35]</strong> </span><span class="speaker"><strong>发言人4: </strong></span>从数据这个角度来说，预训练方面确实需要大量的数据，所以才有scheme law后训练相对来说需求会少一些，而且现在已经有更多的方法去把一个人类的品格或者兴趣总结出来。比如说meta最近也是在蒸馏员工等等，其实也在蒸馏三号他们的性格或行为习惯对吧？所以其实最近越来越多的还是说把一个人类的一些品格性格去总结出来，还是慢慢的可以做到的这也是一个比较新的方向。就是说一个个体他的能力性格等等，能不能用一些自然语言或者说的一些方式把它转化到，让大模型可以去利用起来。</p>
+<p class="transcript-line"><span class="time"><strong>[00:50:19]</strong> </span><span class="speaker"><strong>发言人2: </strong></span>对，我记得在音乐模型刚刚兴起的时候，就是苏诺的那一波。当时就是我有问做这个音乐模型的科学家，我说苏诺做的歌太一般了，我觉得他就是一个大街上的口水歌。然后我说他能做出像周杰伦、Taylor swift这些非常好的有很好品味的歌曲吗？他当时给我的答案是，他说可以。但是这个事情他不是受限于技术，它是受限于版权。因为版权的因素，他们不敢拿顶级音乐人的歌曲去训练，所以他们用的就都是那种版权库里面一些简单配乐的歌。但是如果你真的用这些人类最精华最好的歌曲去训的话，他觉得是完全可以训出来的。如果我们说用顶级科学家的品味去去模型，是不是也是同样的道理？</p>
+<p class="transcript-line"><span class="time"><strong>[00:51:09]</strong> </span><span class="speaker"><strong>发言人4: </strong></span>对的，我很同意这一点。我们人类也是从比如说一个婴儿开始，最后有的就成为了顶级科学家。尤其从一顶级科学家这条路，其实也是别人给他的这些反馈，告诉他什么是好的，什么是不好的，而且得到的数据也并没有那么多。我们还是相信通过顶级科学家给我们的这些指导，我们可以拥有顶级科学家的品味。</p>
+<p class="transcript-line"><span class="time"><strong>[00:51:33]</strong> </span><span class="speaker"><strong>发言人2: </strong></span>对，然后我注意到其实想让AI去做科学家，自己去做发现的模型，几乎也是所有的现在我们说顶级模型公司都在做的。比如说OpenAI，它已经把能自己扛下一个大研究课题的AI研究员定成了未来几年的头号目标。Deep mind他创立的那天起，他也是为科学而生的。我们之前讲过deep mind的创始人的历程，大家有兴趣的话可以回听一下我们一期的播客，阿尔法fod他还拿了落奖。现在包括jm奶，他也是说自己要去做多智能体的co scientist，就是共同合作开发的科学家。同时anthropic他的denial，他也想要有一个国家级的科学家的天才。所以我听上去现在所有的顶级模型公司都想去做科学家，都想让AI去做发现，去提出好的问题。</p>
+<p class="transcript-line"><span class="time"><strong>[00:52:27]</strong> </span><span class="speaker"><strong>发言人2: </strong></span>你们觉得apple dex它的核心优势是什么呢？我觉得不做to c类的模型应该也可以算是一个核心优势，因为它可以去调一个模型的权重。还有其他的吗？就这个战场是相当激烈的，你们进入了最激烈的战场。</p>
+<p class="transcript-line"><span class="time"><strong>[00:52:41]</strong> </span><span class="speaker"><strong>发言人4: </strong></span>这个我很同意。但这个战场的首先价值是很大的，因为它真正解决的一种难的科学问题，它是有很大意义的。另外科学问题其实还是一个非常广的，因为这个世界上有那么多学科，其实你解决其中几个问题就已经足够说是一个很大的突破了。所以我觉得不止一家公司可以成功了。</p>
+<p class="transcript-line"><span class="time"><strong>[00:53:03]</strong> </span><span class="speaker"><strong>发言人4: </strong></span>Apple deck这边的优势，我觉得就是我们比较专注。一是就像你说的，我们不是一个聊天机器人这样的模型，我们基本也不取悦用户的一些特别的偏好。其实到现在大模型的整个发展，比如说训练的各种recipe，或者这些配方算法什么的，大家也都知道的大差不差，更多比拼的就是一种执行力，以及整个组织架构。我觉得我们这边自上到下从陈总那边开始，他自己也是一个非常卷。然后整天会和我们进行交流，整天会和AI进行交流，并且给我们不管从方向上还是一些其他方面都是提供很多指导以及帮助。然后我们下面的执行力都很强，因为我们还是一个非常小的start up的culture，所以我们还是比较focus就做好这一件事情，做一个还未丢ty server。我觉得从这个组织形式上，我们还是和大厂大公司相比有很大优势。我们这边摩擦也比较小然交流成本也很低，这些或多或少都是很重要。对于一个大模型公司能快速发展的关键。</p>
+<p class="transcript-line"><span class="time"><strong>[00:54:07]</strong> </span><span class="speaker"><strong>发言人2: </strong></span>贝彬有补充吗？</p>
+<p class="transcript-line"><span class="time"><strong>[00:54:08]</strong> </span><span class="speaker"><strong>发言人3: </strong></span>我其实做所谓的AI for science这个概念已经做了有十多年了。我在读博士之前就在做AI for science，当时主要是在医疗行业和自闭症用AI其实刚刚你说的，现在很多公司都开始往AI for size做，我其实觉得并不是一个竞争。反而我觉得看到的是希望的曙光。因为过去十几年来说，科学技术或者说埃踢技术或科学研究，其实是没有太多真实非常scalable的成果的。但是因为LM generation model和discovering model的技术的提升，我觉得在未来，比如说5到10年，真的做出非常有科研价值和现实意义的成果，是有非常大的希望的。</p>
+<p class="transcript-line"><span class="time"><strong>[00:54:52]</strong> </span><span class="speaker"><strong>发言人3: </strong></span>这个世界上所有的科研问题是无限的，或者是说有价值的科研问题也是无限的。但是我们的人的精力是有限的，整个世界的GPU也是有限的。要怎么样在有限的resource和资源里面找到最有价值的问题去解决，这个才是最重要的一步。所以apple dex有一个HDD团队叫做heavy duty discovery。这个团队我们是有for time的员工跟不同的顶级科学家交流，再从几千个科研问题里面找到最有价值的问题来做。这个可能是我们apple dex和市面上一些其他不同公司的一个比较大的区别。</p>
+<p class="transcript-line"><span class="time"><strong>[00:55:33]</strong> </span><span class="speaker"><strong>发言人2: </strong></span>我觉得你这点讲的特别好，真的是我们说AI for science科学问题，它是无穷无尽的。刚刚我们提到了生物医药，我们之后还会有一期会。</p>
+<p class="transcript-line"><span class="time"><strong>[00:55:41]</strong> </span><span class="speaker"><strong>发言人1: </strong></span>专门聊deep mind的。</p>
+<p class="transcript-line"><span class="time"><strong>[00:55:43]</strong> </span><span class="speaker"><strong>发言人2: </strong></span>他们是怎么去做自己的。</p>
+<p class="transcript-line"><span class="time"><strong>[00:55:45]</strong> </span><span class="speaker"><strong>发言人1: </strong></span>这个生物医药大模型的那deep my的这条线也很有意思，它从最早去解决蛋白质怎么折叠到现在，他是预测药物和蛋白。</p>
+<p class="transcript-line"><span class="time"><strong>[00:55:56]</strong> </span><span class="speaker"><strong>发言人2: </strong></span>怎么结合的。</p>
+<p class="transcript-line"><span class="time"><strong>[00:55:57]</strong> </span><span class="speaker"><strong>发言人1: </strong></span>而且我觉得他也只解决了药研发流程上偏上游，就是计算预测的这一段。它离真正把药做出来送进临床中间还是有一个巨大的空间的。但是光就这一段，它已经是撑起30亿美元的融资了。</p>
+<p class="transcript-line"><span class="time"><strong>[00:56:13]</strong> </span><span class="speaker"><strong>发言人2: </strong></span>所以哪怕我们说都做生物医药，它这个里面的问题也是无穷大的。所以科学问题还是很广阔的。包括我们之后还说有什么物理问题，探索太空的问题，材料的问题。对，无穷无尽。</p>
+<p class="transcript-line"><span class="time"><strong>[00:56:26]</strong> </span><span class="speaker"><strong>发言人3: </strong></span>对的。另外我再补充一点，就是我们apple dex不是做AI for science，只不过AI for science跟heavy duty server有非常大的重叠的地方。所以我们就会focus上，比如说医药领域和生物领域。</p>
+<p class="transcript-line"><span class="time"><strong>[00:56:41]</strong> </span><span class="speaker"><strong>发言人2: </strong></span>AI for sales跟heavy duty server这两个你能不能简单解释一下你们做的方向上的区别是什么？</p>
+<p class="transcript-line"><span class="time"><strong>[00:56:47]</strong> </span><span class="speaker"><strong>发言人4: </strong></span>现在有很多模型，他们叫垂域模型，他们真的是会用大量某一个具体领域数据训练这个模型在这一个领域里的能力。但我们这边的heavy duty server，我们还是一个比较通用的模型。我们会强调一些特别的元能力，包括验证能力、verification, 包括分析能力、搜索，还有计划planning这样的能力。这些元能力我们相信是对真正的一些难题都是有意义的。这些能力这是我们会去着重训练的，但我们不太会针对某一个特别的领域，比如说生物，我们会放50%的data，这个是我们不会去做的。</p>
+<p class="transcript-line"><span class="time"><strong>[00:57:26]</strong> </span><span class="speaker"><strong>发言人2: </strong></span>刚刚魏斌你提到的有一个小细节我非常感兴趣。就是你说AI还有半年他就能完成自我的进化跟提升了，这句话我当时觉得很有意思，但是你能不能详细的解释一下它是什么意思？</p>
+<p class="transcript-line"><span class="time"><strong>[00:57:39]</strong> </span><span class="speaker"><strong>发言人3: </strong></span>对我说的半年是说最快可能半年之内能开始把闭环跑通。闭环的话我觉得难度最大的其实是post training。我觉得在半年之内它这个闭环能跑出一环。如果说RSI这个R是recursive，要跑很多很多环。但我觉得它跑完一环应该是半年到一年左右就能做完就比如说我们这的模型可以在随便一个陡门，就比如说coding for material ed，可以在这里面发现自己的写的代码会有什么问题，会造很多这样的训练环境和训练数据。</p>
+<p class="transcript-line"><span class="time"><strong>[00:58:10]</strong> </span><span class="speaker"><strong>发言人3: </strong></span>在此基础上自我验证是否这道题训练完之后是有提升，一次迭代。它这样迭代一个loop，一次循环，我觉得半年之内应该是能成功的，因为anthropic在这几个月也发过一篇block说大概80%的代码是写的。但是现在有一些问题，这个问题即使是现在市面上最强的模型也没有完全解决。但是从我们最近的一些observation和训练的结果来看，我觉得很快就会有一些突破了。</p>
+<p class="transcript-line"><span class="time"><strong>[00:58:40]</strong> </span><span class="speaker"><strong>发言人2: </strong></span>他指的问题是什么？就是没有解决的问题。</p>
+<p class="transcript-line"><span class="time"><strong>[00:58:43]</strong> </span><span class="speaker"><strong>发言人3: </strong></span>当然这个问题有很多，但我觉得让我睡不着觉的一个问题就是我们怎么知道这个模型在自我进化的时候，它是满足人类的需求，它没有跑偏。这个跑偏可以是说在安全上面的跑偏，也可以是说在目标上的跑偏。如果我们只是简单的说，你给我造一个更好的做材料科学的一个模型或者是一套算法，它可能真的造出来了。但是它在你没有观测的一些点就比如说cost或者是说在一些其他的，比如说疏水性这种性能上，可能会有非常大的一些compromise。</p>
+<p class="transcript-line"><span class="time"><strong>[00:59:20]</strong> </span><span class="speaker"><strong>发言人3: </strong></span>这个是我比较担心的。因为人和人交流的时候，一般说需求会说的比较的模糊。但是特别是在训练模型的时候，如果你跟模型或者是说这个evolution说的比较模糊的话，他可能就会这个用户让我迭代写代码的能力，但我这边碰到了一个瓶颈。但是anyway让我换一个方法来达到这个目标。我们要对模型这个行为进行一个监控，是让我觉得最大的一个问题。</p>
+<p class="transcript-line"><span class="time"><strong>[00:59:47]</strong> </span><span class="speaker"><strong>发言人2: </strong></span>你觉得现在某种程度上这两个问题，一个是安全，一个是他达到目标不择手段的这两个能力。这两个问题现在解决了吗？</p>
+<p class="transcript-line"><span class="time"><strong>[00:59:56]</strong> </span><span class="speaker"><strong>发言人3: </strong></span>我个人看来还是没有解决，但我还是一个非常乐观的人，所以我觉得应该是很快就会有解决方法。</p>
+<p class="transcript-line"><span class="time"><strong>[01:00:04]</strong> </span><span class="speaker"><strong>发言人2: </strong></span>然后你刚刚提到这是一个让你睡不着觉的问题，从你的角度来说，有哪些方向的解决方案会让你现在觉得稍微安心一点？我们当然能想到的一个是穷举尽可能多的可能性，但是这个看起来是不是有点笨？</p>
+<p class="transcript-line"><span class="time"><strong>[01:00:18]</strong> </span><span class="speaker"><strong>发言人3: </strong></span>这里也是为什么我们还没有完成全自动化。我其实现在做的最多的一件事情就是在每天工作时间读这个模型的输出和读智能体的每一步的操作。确保它每一步的操作或者是说整一个大概都在我可以理解，可以控制的范围之内。一旦我发现比如说他这里有一些比较蠢的一些行为，或者是说我感觉有一点不太对的一些解决方法，我就会赶快停下这个智能体的loop，稍微手动的改一改，调一调，然后让它进行进一步的一个提升。</p>
+<p class="transcript-line"><span class="time"><strong>[01:00:51]</strong> </span><span class="speaker"><strong>发言人3: </strong></span>这个的话就是刚刚我们说到的这个蠢方法，但是我现在是首条，未来的话能不能有一个智能体就代替我帮我做这个条对吧？就是现在大家提的很火，也是很搞笑的一个概念，就是员工蒸馏能不能把我每天做的事情蒸馏到这个智能体里面，或者是甚至蒸馏到这个模型的capability里面。我觉得这个idea虽然说大家是说笑话，但我觉得是可行的。如果我们在三个月之内能把我或者是说我的同事蒸馏到apple dex的模型里面，或者是我们的脚手架里面。那其实有很多我们现在每天在做的事情。不管是读代码、改代码，还是读模型的输出，读智能体的输出，都是能加速自我净化，自我迭代的流程的。</p>
+<p class="transcript-line"><span class="time"><strong>[01:01:35]</strong> </span><span class="speaker"><strong>发言人2: </strong></span>我们假设真的把被冰蒸馏了，你会担心自己失业吗？</p>
+<p class="transcript-line"><span class="time"><strong>[01:01:40]</strong> </span><span class="speaker"><strong>发言人3: </strong></span>说不担心肯定是假的，但是即使我担心，我其实还是乐观的。当然了，不同的人有不同的例子，什么有汽车代替马车的例子，对吧？有什么ATNT自动转接机的例子。但其实我觉得这一次可能跟之前的工业革命有点不太一样，我确实有点担心自己会被代替。</p>
+<p class="transcript-line"><span class="time"><strong>[01:02:00]</strong> </span><span class="speaker"><strong>发言人3: </strong></span>我记得非常清楚，是2021年我就开始有这个担心了。当时是GPT3年代，连GPT3.5都没有了，GPT3被微软放到了D卡co pilot里面。当时我打了一个function的名字，然后他能把整一个function给我补全。当时我还在读博士的最后一年，我就觉得我整个人就瘫在椅子上了，我觉得完蛋了。我毕业季事业，我这整一个PHD，整一个博士学的东西，他都能一行帮我补全。那我以后是不是就没工作了？但是你看现在五年之后，我还在这里，我还有工作，只不过我day to day每天做的工作不一样了，我不在一个function一个function的写代码，而是我会在更高的一个维度，更高的一个层面监控不同的智能体写代码。所以对这个模型会取代我今天做的事情，但它不一定能取代我五年之后会做的事情。</p>
+<p class="transcript-line"><span class="time"><strong>[01:02:53]</strong> </span><span class="speaker"><strong>发言人2: </strong></span>对你刚刚提到了你每天在给模型去评判它的质量行不行，然后去再做验证的这些工作。如果未来有了一个假设，被逼的AI agent，它可以带你去做监督校验验证的这个环节以后，那其实相当于AI就开始自己变成了一个考官，他所有的行为都是在模仿你的这个行为，你的品味、你的价值观去做类似的判断。那是不是说当有了这样的一个AI以后，整个这一套就是让AI去验证的RSI，它的这个闭环就跑通了。这就是你说的还有半年的时间可以。</p>
+<p class="transcript-line"><span class="time"><strong>[01:03:30]</strong> </span><span class="speaker"><strong>发言人3: </strong></span>做到RSI的SI就跑通了R可能还要再多花个一年两年。R是什么？R是recursive，就是把它迭代起来。因为现在即使我们跑通了，我们每一次迭代之后，或者说每几次迭代之后，我们其实还是要人为的去看，有没有之前我们聊过的relive drift漂移的问题。所以半年一年我们可以解决这个loop，但是没有办法完全的解决漂移。但是我还是有信心几年之内这个漂移的问题也可以把它完全解决。现在我们把这个漂移问题可以不停的缩小，假设现在普通的模型每一次可以漂移10%。</p>
+<p class="transcript-line"><span class="time"><strong>[01:04:07]</strong> </span><span class="speaker"><strong>发言人3: </strong></span>如果我们能把这个漂移降到1%，那就会很好了。但是我们未来的目标是把它降到0.1%，甚至0.01，这样我们可以非常有信心。这个模型自我迭代。比如说三个月、六个月之后再来看它有没有超过，就相当于我们monitor我们监控的周期不需要这么频繁了。</p>
+<p class="transcript-line"><span class="time"><strong>[01:04:28]</strong> </span><span class="speaker"><strong>发言人2: </strong></span>了解，对那这个应该是整个业界基本上是一个共识，大家都在往这个方向走。然后你觉得在整个走的过程中，其实我们刚刚提到了现在AI自我进化最后的一道坎儿，一个是提出问题的品味，一个是判断结果可不可信。其实这两个方向你们都在押注，一个是discovery，一个是verification。那你觉得这个品味它是谁的品味？它是科学研究员的品味，还是说它是创始人的品味？就是这之间它是怎么互相体现的？</p>
+<p class="transcript-line"><span class="time"><strong>[01:04:57]</strong> </span><span class="speaker"><strong>发言人3: </strong></span>OK这是一个很好的问题。我觉得现在来说大部分是AI研究员的品味。但是研究员的品味是被我们叫做indirectly被创始人的品味影响的。因为陈天桥陈总他在选择研究员的时候，肯定会根据自己的品味选择研究员。但是这一些我其实都不担心，因为品味没有对或者是错的区别，也没有好或者坏的区别，就只有有适合和不适合的区别。这是第一第二是不管怎么样，这个模型虽然说现在是用我们的数据或者是说我个人来监控这个模型的行为。但是未来我相信我们把这个线放长一点，放到五年之后，可能我们的品味对这个AI模型的影响会越来越小。</p>
+<p class="transcript-line"><span class="time"><strong>[01:05:43]</strong> </span><span class="speaker"><strong>发言人3: </strong></span>就像阿尔法狗在最初训练的时候，是受到训练数据或者是说棋谱的影响很大。但到阿尔法zero出来之后，它已经不是从人类的品味中学习这个技术了。而是会自我品味、自我回放、自我reason来学习。他有自己独特的一套品味。</p>
+<p class="transcript-line"><span class="time"><strong>[01:06:03]</strong> </span><span class="speaker"><strong>发言人2: </strong></span>所以AI会在他整个过程中再通过RSI这个R形成自己的品味。</p>
+<p class="transcript-line"><span class="time"><strong>[01:06:08]</strong> </span><span class="speaker"><strong>发言人3: </strong></span>对，没错，我觉得我们的品味只是一个，我们如果放在训练这个语言里面叫做warm start，就只是给他热启动了一下，以后AI会有自己的品味。</p>
+<p class="transcript-line"><span class="time"><strong>[01:06:18]</strong> </span><span class="speaker"><strong>发言人2: </strong></span>对对对，然后你刚刚提到了陈天桥先生对apple dex的品味，具体他在工作上主要是关注在哪些方向，他怎么样去保证大家研究的焦点始终是在一些重要的问题上。</p>
+<p class="transcript-line"><span class="time"><strong>[01:06:31]</strong> </span><span class="speaker"><strong>发言人3: </strong></span>对，这也是一个很好的问题。陈总在战略方面有非常多的把控，也经常跟我们开会聊和研究，以及对齐我们的所有的战略方向。因为我们都有不同的背景。就比如说我之前做过很多年的AI for science，然后cymon之前做过很多年的强化学习。我们总会把之前在学校或者是说学术界的一些习惯带到apple dex。这个时候陈总就可能会发现我们的一些压可能和公司的大战略方向不是特别的对齐。这个时候陈总一般都会跳进来跟我们开一个会，指出我们的一些错误，或者是哪里偏离了公司的使命，然后会把我们掰正到正确的道路上。</p>
+<p class="transcript-line"><span class="time"><strong>[01:07:13]</strong> </span><span class="speaker"><strong>发言人2: </strong></span>能举一个具体的小例子。</p>
+<p class="transcript-line"><span class="time"><strong>[01:07:15]</strong> </span><span class="speaker"><strong>发言人4: </strong></span>比如说我们heavy duty server本身，就是说它应该有很强的推理能力。所以当你碰到一个问题的时候，你应该先去把这个问题分解，再去进行搜索，搜集相关的信息，再去总结这些信息，然后去给出答案。这是比较合理的一个high server或者一个比较强的注重推理能力模型的行为。但是我们之前很多的时候为了注重它的搜索能力，所以我们放入了很多搜索的相关的数据。然后模型的行为会上来去进行搜索，而不是上来先去仔细思考这样的问题，把它分解成一些子问题，然后再进行搜索。所以这从行为上，陈天桥陈总自己去用这个模型，他就能看出来这个模型的行为并不是真正的heavy duty server的这样的一个行为。</p>
+<p class="transcript-line"><span class="time"><strong>[01:08:02]</strong> </span><span class="speaker"><strong>发言人4: </strong></span>所以从这个时候我们就要去改变这个方向。首先我们要去改行为，不管从数据还是从agent等等形式上。这里也涉及到我之前说过的，我们模型的宪法，基本上也是陈总自己制定的。这个我们也是用到了，比如说模型的训练，各种调优里面都会用到陈总参与撰写的这个constitution。</p>
+<p class="transcript-line"><span class="time"><strong>[01:08:21]</strong> </span><span class="speaker"><strong>发言人2: </strong></span>对OK了解之前，我知道两位马斯克也是大家的老板。然后你们觉得马斯克的风格跟陈天桥先生的风格有什么不一样吗？</p>
+<p class="transcript-line"><span class="time"><strong>[01:08:30]</strong> </span><span class="speaker"><strong>发言人3: </strong></span>我觉得他们性格来说是比较类似的，但是陈总他的眼光或者是说对看待问题的方法跟马斯克很不一样。就比如说陈总非常注重AI for science，或者是说heavy duty server。这个马斯克其实之前跟我们说过非常类似的话，当然他的原话不是这个heavy duty，它会用一些其他的terminology说，但是说的话和做的事其实不太一样的。就比如说大家可以看到马斯克特别喜欢在X和twitter上发文，他经常用AI做一些小的，比如说画一些图或者是回答一些问题。马斯克对这些非常的上心，他甚至之前可能会每一周都会问一下broke for x发展的进步是怎么样了？所以他其实是非常注重chat的这个feature的。</p>
+<p class="transcript-line"><span class="time"><strong>[01:09:19]</strong> </span><span class="speaker"><strong>发言人3: </strong></span>但是陈总就是他说的和做的其实是非常一样，他口上说非常看重heavy duty sober，他的focus就是heavy duty sober。他对做聊天模型视频生成图片生成一点兴趣都没有。所以这个我觉得是非非常align的地方。</p>
+<p class="transcript-line"><span class="time"><strong>[01:09:36]</strong> </span><span class="speaker"><strong>发言人2: </strong></span>非常专注。</p>
+<p class="transcript-line"><span class="time"><strong>[01:09:37]</strong> </span><span class="speaker"><strong>发言人4: </strong></span>对的，陈总这边基本上从头至尾一直就是强调做hey deo server，也跟我们说像图片视频生成和这个目标基本上是正交的，所以我们根本就不做这些方向。</p>
+<p class="transcript-line"><span class="time"><strong>[01:09:50]</strong> </span><span class="speaker"><strong>发言人2: </strong></span>谢谢大家，我觉得这期非常精彩了。</p>
+<p class="transcript-line"><span class="time"><strong>[01:09:55]</strong> </span><span class="speaker"><strong>发言人1: </strong></span>在聊完这期节目的时候，我始终在想品味的问题。Simon的那句顶级科学家不是看发了多少paper，而是看最好的那篇paper的质量有多高。它其实点出了一个更大的问题，就是说如果现在AI的品味它是从人类顶级科学家那里的热启动的，那么这个品类它本质上可以说还是被少数人去塑造的。那么未来这些面向更加普罗大众的，比如说这些to c的AI它们到底应该代表谁的价值？直观关于AI的哲学思考，也是我们这个时代急需的讨论。大家有什么样的评论与想法，欢迎给我们留言。播客的听众可以通过小宇宙、苹果播客、喜马拉雅、蜻蜓FM国际法来收听我们视频的听众可以通过哔哩哔哩和youtube搜索硅谷101播客来找到我们。我是红军，感谢大家的收听。</p>]]></content:encoded>
+            <pubDate>Mon, 06 Jul 2026 00:00:00 GMT</pubDate>
+            <guid>6a4af13a5c47f914f6016083</guid>
+        </item>
         <item>
             <title>E241｜跑鞋技术迭代史：马拉松跑进2小时，靠人还是靠鞋？</title>
             <link>https://www.xiaoyuzhoufm.com/episode/6a3dc23afd8019cde51ae6f5</link>
@@ -7405,292 +7693,6 @@ Special Guests: Christine Qing and Jonathan邱谆.</description>
 <p class="transcript-line"><span class="time"><strong>[01:07:13]</strong> </span><span class="speaker"><strong>发言人1: </strong></span>好了，这就是我们今天的播客。您可以通过小宇宙、苹果播客、spotify来收听订阅我们。同时如果你在用视频渠道去听播客的话，大家也可以在youtube或者哔哩哔哩上搜索硅谷101播客来找到我们。另外我们有一些播客部分的文字稿，会发表在硅谷101的微信公众号上，也欢迎大家关注我们。我是刘一鸣，感谢大家今天的收听。</p>]]></content:encoded>
             <pubDate>Fri, 28 Nov 2025 00:00:00 GMT</pubDate>
             <guid>6928e6fdfb8aaf8dceebdcd8</guid>
-        </item>
-        <item>
-            <title>E215｜资本视角聊聊万亿大基建钱从哪儿来，以及电力破局的六条路径</title>
-            <link>https://www.xiaoyuzhoufm.com/episode/691fac044a0a6bcde6665134</link>
-            <description>在上一期节目中，我们从产业的角度聊了AI数据中心万亿大基建，这一几乎会贡献今年美国全部的GDP增长的行业。
-嘉宾的很多观点和数据都在播客发出来之后一一被市场验证，比如微软CEO萨提亚·纳德拉称，AI缺的不是GPU是电力。
-但当我们谈论的不是一个1亿、 10 亿、 100 亿的产业，而是上万亿的投资规模的时候，很多人就开始讨论，我们是不是进入了一场AI的投资泡沫？不少听众希望我们从资本市场的角度，再来聊一集AI的大基建。
-本期硅谷101播客，我们邀请了人气嘉宾郑迪，回答两个核心的问题——电从哪来？钱从哪来？以及这两个市场它又是如何交织在一起的？并且我们还将关注一股潜伏已久的关键力量——加密矿工。
-本期节目为《硅谷101》与《Web3 101》串台节目。
-【主播】
-泓君，硅谷101创始人，播客主理人
-【嘉宾】
-郑迪，前沿科技投资人（知识星球：22136749）
-【本期口播广告由华夏基金赞助播出】
-如果你想从市场角度更结构化地了解中国科技企业的整体表现，也有一些工具可以作为参考。例如纳斯达克上市的一只 ETF——CNQQ，全称是中国科技创新 ETF，它的成份股覆盖阿里巴巴、腾讯、宁德时代、美团网易等主流中国市场的公司。它更像是一个帮助我们“看趋势”的观察窗口，用来理解中国科技公司在全球市场中的动态。当然，它只是信息渠道，不构成任何投资建议。
-【你将听到】
-能源危机下的电力绿洲
-03:30 摩根士丹利估算，比特币矿工转产可在未来的两年释放15Gw
-05:34 另外三条解决AI能源问题的常规路径（核能，燃气，储能）
-10:31 两条有难度的“非常规”路径（训练外迁，柴油）
-12:45 市场疑问：“挖矿电”能变成稳定可靠的“AIDC电”吗？
-15:00 未来两年能否攻克B端，成为AI大基建能否持续的关键
-17:09 1Gw数据中心500亿美元成本拆解
-19:49 当前估值低于建造成本，矿工转型缺乏动力
-复刻地产融资游戏
-23:20 矿工转AI的两种模式：“卖电/租场地”和“买GPU卖算力”
-25:24 IREN：举债买卡的冒险家，困于“重资产”估值陷阱
-30:00 生态为王：英伟达的“总包”霸权与AMD的“付费入场”
-31:55 未来收益证券化+滚动开发，AI基建越来越像房地产
-26:20 GPU证券化：底层资产是“AI金矿”还是“科技次贷”？
-37:29 诺贝尔经济理论也出错？亲历者复盘当年的金融理论失误
-40:43 AI产业链已经形成了“铁索连环”的金融风险
-43:13 大厂策略：在高评级市场发债+打造“大而不能倒”格局+与国家战略捆绑
-44:36 AI大基建的“终极买单者”——全球债券市场
-浪潮中的转型博弈
-48:57 行为金融学的囚徒困境：不惜代价搏一张AI船票
-53:03 OpenAI的黄金上市时机：2026年上半年
-57:00 加密矿场转AI，缺电及算力闲置仍是最大风险
-62:50 比特小鹿：处于地缘政治的“灰色地带”
-69:45 挖矿转AI成功的公司，都不是挖矿赛道的“优等生”
-70:56 两种矿工：囤算力的（如Mara）vs 囤电力的（Iris）
-75:09 矿工转型的最优解：挖矿保现金流，闲置电力滚动开发AIDC
-77:15 比特币价格与AIDC转型，并非简单的线性关系
-【延伸阅读和相关术语】
-《AI热潮背后的隐忧：到2028年，美国电力缺口或相当于44座核电站》
-《杠杆、垄断和泡沫：解析硅谷万亿资本闭环【101 Weekly】》
-视频：《英伟达“两个儿子”的战争：AI算力的杠杆游戏与潜在泡沫【硅谷101】》
-播客中提到的加密矿工：
-Applied Digital
-Core Scientific
-CleanSpark
-Riot Platforms
-Cipher Mining
-Galaxy Digital
-IREN
-比特小鹿/Bitdeer
-Hut 8
-Marathon Digital（MARA）
-Crusoe Energy
-Wulf
-其他公司：
-CoreWeave
-Nebius
-Oklo
-GE Vernova (GEV)
-Blue Energy
-Anthropic
-Blue Owl Capital
-金融术语：
-ATM（At-the-Market Offering ，按市价发行/增发）
-ABS（Asset Backed Securitization，资产支持证券）
-CDO（Collateralized Debt Obligation，担保债务凭证）
-REIT（Real Estate Investment，房地产投资信托）
-【风险声明】
-本期节目不构成任何投资建议，投资有风险，入市需谨慎。
-本期节目参与者也均不持有节目中提到的股票。
-【监制】
-泓君
-【后期】
-AMEI
-【运营】
-朱婕
-【BGM】
-Interruption - Craft Case
-All Parts Equal - Airae
-Anticipating a New Day - Stationary Sign
-【在这里找到我们】
-公众号：硅谷101
-收听渠道：Apple Podcast｜Spotify｜小宇宙｜喜马拉雅｜蜻蜓FM｜荔枝FM｜网易云音乐｜QQ音乐
-其他平台：YouTube｜Bilibili 搜索「硅谷101播客」
-联系我们：podcast@sv101.net
-Special Guest: 郑迪.</description>
-            <content:encoded><![CDATA[<p class="transcript-line"><span class="time"><strong>[00:00:03]</strong> </span><span class="speaker"><strong>发言人1: </strong></span>Hello, 大家好，欢迎收听硅谷101，我是红军。之前我们在讲美国数据中心基建的时候，嘉宾在我们那一集中的很多观点和数据，在播客发出来之后，很多都被市场一一验证。比如说微软CEO纳德拉，他也说AI缺的不是GPU，是电力。当然当我们在聊到一个话题，它不是一个1亿、10亿、100亿的产业，而是上万亿的投资规模的时候，很多人就开始讨论我们是不是进入了一场AI的投资泡沫。</p>
-<p class="transcript-line"><span class="time"><strong>[00:00:34]</strong> </span><span class="speaker"><strong>发言人2: </strong></span>首先来说，现在还没有进入到一个大规模揭债的阶段，现在只是刚开始进入到这个阶段。所有这些投资可能是把这些大厂的现金流已经用完了，那接下来就是一个举债投资的阶段。所以现在你说就已经进入到一个过度投资很大的泡沫，我觉得还早。</p>
-<p class="transcript-line"><span class="time"><strong>[00:00:51]</strong> </span><span class="speaker"><strong>发言人1: </strong></span>所以不少听众呼吁我们从资本市场的角度来聊一集AI的大基建。今天我们就回答这两个核心的问问题，电从哪儿来？钱从哪儿来，以及这两个市场它又是如何交织在一起的。</p>
-<p class="transcript-line"><span class="time"><strong>[00:01:07]</strong> </span><span class="speaker"><strong>发言人1: </strong></span>本期节目涉及到的公司名字还有金融名词很多，理解起来会有一些门槛。所以我们也会在视频的版本中添加字幕来方便大家理解。本段口播由华夏基金赞助。</p>
-<p class="transcript-line"><span class="time"><strong>[00:01:25]</strong> </span><span class="speaker"><strong>发言人1: </strong></span>近年来中国科技的创新节奏可以说全球都在关注。从deep seek在春节期间引发美国市场的广泛讨论，到黄仁勋提到中国在芯片领域的自主研发速度令人意外，甚至还有人调侃说这场大模型的竞赛是在美国的华人与在中国的华人的竞赛。所有这些讨论都在说明，在全球科技的版图中，中国的企业正在扮演越来越重要的角色。</p>
-<p class="transcript-line"><span class="time"><strong>[00:01:53]</strong> </span><span class="speaker"><strong>发言人1: </strong></span>如果你想从市场角度更加结构化的了解中国科技企业的整体表现，也有一些工具可以作为参考。比如说纳斯达克上市了一支etf CNQQ，全称是中国科技创新etf，它的成分股覆盖了阿里巴巴、腾讯、宁德时代、美团网易等主流的中国市场的公司。它更像是一个帮我们看趋势的观察窗口，用来理解中国公司在全球市场中的动态。当然这只是一个信息渠道，不构成任何的投资建议。我们的赞助也仅限于口播部分，不影响节目内容的独立性。</p>
-<p class="transcript-line"><span class="time"><strong>[00:02:33]</strong> </span><span class="speaker"><strong>发言人1: </strong></span>本节目的所有内容均不构成任何投资建议。下面就请收听我们今天的节目。这一集跟我们在一起的也是我们的人气嘉宾，前沿科技的投资人郑迪。</p>
-<p class="transcript-line"><span class="time"><strong>[00:02:47]</strong> </span><span class="speaker"><strong>发言人2: </strong></span>Hello迪你好，你好，红军大家好。</p>
-<p class="transcript-line"><span class="time"><strong>[00:02:50]</strong> </span><span class="speaker"><strong>发言人1: </strong></span>我们之前是做了一期节目，其实是讲整个AI大基建的。在整个AI基建中大家发现在美国有一个核心的问题就是缺电。在这期节目之后，其实我又陆续跟一些证券公司的人聊到过这个问题。大家共同有一个关注点，就是说现在在美国找店的存量市场里面，其实有一个非常大的方向，就是以前做这种比特币挖矿的加密货币矿场的这些公司，他们在开始转做AI数据中心。因为我知道你对这一块也是非常有研究的。要不要开始的时候整体跟大家盘一下，我们说在加密货币市场转矿场这个存量它的店可以有多少？</p>
-<p class="transcript-line"><span class="time"><strong>[00:03:30]</strong> </span><span class="speaker"><strong>发言人2: </strong></span>如果大家看过大摩，其实从去年开始他们写过一个系列报告。当然大摩这里面也有一些利益在里面，因为大摩也是cyber money这家公司的顾问，但总的来说，我觉得他说的是有道理的。他们认为未来的几年，可能美国因为AI数据中心导致的缺电，可能都高达46到47G瓦。他也讲到用四种常规的方式可以想办法弥补。第一个当然就是红军，你提到的就是比特币矿工的转场可以释放15G瓦。</p>
-<p class="transcript-line"><span class="time"><strong>[00:03:59]</strong> </span><span class="speaker"><strong>发言人1: </strong></span>对，我们来解释一下一吉瓦大概是一个什么样的概念。就是纽约每年的平均用电量差不多是六个G瓦左右，整体AI数据中心的缺电量46到47级瓦大概就是八个。纽约的发电量按照AI数据中心一级瓦500亿美元的投资额，它大概是一个2.3万亿投入的资本量。对，然后你刚刚提到15G瓦.</p>
-<p class="transcript-line"><span class="time"><strong>[00:04:22]</strong> </span><span class="speaker"><strong>发言人2: </strong></span>它是指多少年？在未来的18到24个月内，因为基本上如果你矿产要转产的话，建设工期基本上是9到12个月。这个我们从core scientific和apply digit这两家率先的转型，率先去签cool v长单的这两家公司我们能看得出来。其实根据class 8和rise他们的说法，他们可能现在已经在十月份宣布要转型。他们现在已经在发一些订单，去买一些发货期比较长的配件。他们明年开始建设，26年肯定是交付不了的，要到27年。所以基本上这些都是在28年以前是有希望交付的。</p>
-<p class="transcript-line"><span class="time"><strong>[00:04:59]</strong> </span><span class="speaker"><strong>发言人2: </strong></span>这些如做全部转场，在不延误的情况下，在融资也没有问题的情况下，大概15G瓦，然后我再先说一下另外三种的常规的方法和两种非常规的方法。然后我们再回到为什么我要讲到这个融资限制的问题，以及现在市场是什么观点。实际上虽然说大馍有讲到比特币矿工在未来的两年左右可以释放15G瓦，是一个能够交付最快的解决方案。但是很明显从市场估值的角度来说，是并不相信这些矿工能建成这么多电的。</p>
-<p class="transcript-line"><span class="time"><strong>[00:05:30]</strong> </span><span class="speaker"><strong>发言人2: </strong></span>除了因为矿工转产能够释放15G瓦以外，其他的三种常规的方式，其实大家也都耳熟能详了。第一个当然就是核电。可能很多朋友对G瓦还不是很熟悉，但是有一个很简单的方法，就是你就认定一G瓦就是一个核电站。当然你常规的核电站建设周期非常的长，可能都是十年以上。当然有人说我用小型核电用SMR，现在炒的很热的奥克了这种。</p>
-<p class="transcript-line"><span class="time"><strong>[00:05:54]</strong> </span><span class="speaker"><strong>发言人1: </strong></span>对，SM2是小型核反应堆的简称，它是一种迷你版的核电站，就体积更小，能够像积木一样模块化的安装，也是一种安全性能更高的核电技术。代表公司也是我们上一期讨论的奥克拉。</p>
-<p class="transcript-line"><span class="time"><strong>[00:06:08]</strong> </span><span class="speaker"><strong>发言人2: </strong></span>但是SMR这种技术大家也是众说纷纭。现在其实对于在2028年以前能不能交付，这个是没有分歧的，肯定是不可能的。分歧主要就是说稍微悲观一点的人觉得2035年以后才能大规模商用。乐观一点的人觉得2030到2035年之间就可以。但不管怎么样，他们的共同点都是认为2030年以前你就不要想这个事儿。所以第二条路径基本上现在是不用指望的。</p>
-<p class="transcript-line"><span class="time"><strong>[00:06:33]</strong> </span><span class="speaker"><strong>发言人1: </strong></span>也就是说核电它是不可能在短期内，比如说25 2627年之内交付的，所以它其实是一个长期的事情。那长期还是不是有电力短缺，我们可以之后再讨论。但是核电在短期内是交付不了的对，好，那你继续说第三种。</p>
-<p class="transcript-line"><span class="time"><strong>[00:06:49]</strong> </span><span class="speaker"><strong>发言人2: </strong></span>第三条常规路径就是天然气。对于中国来说，天然气发电是不便宜的，那是因为中国还要进口很多天然气。但总的来说，美国天然气是非常丰富的。</p>
-<p class="transcript-line"><span class="time"><strong>[00:06:59]</strong> </span><span class="speaker"><strong>发言人2: </strong></span>但是它的瓶颈在于燃气轮机的供应量。现在全世界能生产燃气轮机的厂家是相对有限的。你比如说像GEGE拆分的公司GEV还有日本的一些厂家。但是这个问题在于他们在过去的周期当中吸收到了一些非常惨烈的教训。在历史上曾经也有过类似现在这样对燃气轮机非常强的需求。这个需求周期来了以后，他们历史上就扩产，没有一两年就过剩了。所以说这一轮基本上你会看到燃气轮机的厂家是非常谨慎的，基本上是不太愿意扩产的，所以只是通过涨价。</p>
-<p class="transcript-line"><span class="time"><strong>[00:07:32]</strong> </span><span class="speaker"><strong>发言人2: </strong></span>大家如果现在要下订单的话，都要排队。现在这个订单的排队的队伍差不多2到4年。你光拿到燃气轮机也发不了电，你还得建设发电厂，这一配套建设这个时间就更长了。甚至这个燃气轮机现在的紧缺到什么程度呢？最近有一家新的公司叫for me，for me他为了燃气轮机，他甚至去收购了一个二手的废弃的电站，就为了电商里面就有这么一个二手的燃气轮机。</p>
-<p class="transcript-line"><span class="time"><strong>[00:07:57]</strong> </span><span class="speaker"><strong>发言人1: </strong></span>我注意到其实马斯克他们投建的这个数据中心，他也是拆了之前七台旧的燃气轮机给他的电厂发电。同时就是我也听到一个说法，为什么像机翼这样的公司，他们不愿意去做燃气轮机？是因为整个美国像川普之下，它是对这个产业是非常利好的。但是如果说他们现在去投入自己的产能去建设，然后民主党的政策，其实是并不利于之后的燃气轮机的销售的。他们如果现在投资，等这个产能建好了，可能反而政策又是对他们不利。好的就是他们吃过这样的亏。</p>
-<p class="transcript-line"><span class="time"><strong>[00:08:35]</strong> </span><span class="speaker"><strong>发言人2: </strong></span>对政治周期，这也是大家都比较担心的一个事情，因为最近这个风向又有点变化。我记得在纽约州的人选，还有其他几个州民主党州长人选获胜了以后，我记得polling mark上是明年中期选举民主党两院同时拿下的概率，第一次是超过了两党各拿一院的概率，虽然也没有绝对性的领先，我不知道现在是多少，最近没看。当然你也可以说共和党总统至少要执政到28年，但是如果民主党两院横扫的话，那特朗普就跛脚了。你要通过新的一些立法，比如说你想要对减排和环保的这些法规要放松，那难度肯定就大了很多。我们先讲常规措施。</p>
-<p class="transcript-line"><span class="time"><strong>[00:09:11]</strong> </span><span class="speaker"><strong>发言人2: </strong></span>第四条当然就是燃料电池储能。我们就会看到鼻翼，loom energy它也炒得很好，但是它也有产能的限制，基本上大家觉得它也只能贡献个2G瓦。另外光伏加储能的模式，其实还并没有在大量的AI数据中心的设计当中全面铺开。大家都是把储能作为备用的措施。比如说马斯克XAAI全世界最大的数据中心，20万张卡closes 2他有用到metro pack他们自己的储能的设备。但是我个人还是看好光能加储能这条路，其实也是sam提的这条路。但这条路可能也没有办法解决2到3年内的短期的问题。所以你这么总结下来，大概也就只有比特币矿工的大规模的转产AI数据中心这条路是比较可行的。</p>
-<p class="transcript-line"><span class="time"><strong>[00:09:56]</strong> </span><span class="speaker"><strong>发言人1: </strong></span>我们在这四条常规路径里面，我统计一下大家能贡献的几瓦数。我们刚刚提到在一个理想的状态下，包括根据大摩的这个报告，比特币矿工是可以在未来18到24个月内提供15G瓦核电站。它的方式不确定，就是它短期是不能提供的。天然气它是卡在燃气轮机上，它短期内也是很难去提供的。或者说通过天然气发电大概能提供多少级瓦，我们把这个数据统计出来。</p>
-<p class="transcript-line"><span class="time"><strong>[00:10:23]</strong> </span><span class="speaker"><strong>发言人2: </strong></span>这个应该挺多的。美国的天然气那不用说了，你想要多少有多少。</p>
-<p class="transcript-line"><span class="time"><strong>[00:10:28]</strong> </span><span class="speaker"><strong>发言人1: </strong></span>所以就是看燃气轮机。</p>
-<p class="transcript-line"><span class="time"><strong>[00:10:30]</strong> </span><span class="speaker"><strong>发言人2: </strong></span>对，我想说还有两条非常规的方法也是有可能的，但是有一定的难度。第一条就是大家也都提到可以把训练外迁，比如说新加坡、马来西亚、柔佛这附近迁到南美，特别是巴西这种地方。那么这个就需要数据中心外交，这部分也许也是有用的，但这个是需要时间的。另外也是David sax在前几天的博客里面也讲过的，就是用柴油发电，柴油备用。因为他咨询了美国的这样的一些能源专家以后有提到他认为美国电网的实际的利用率只有50%。</p>
-<p class="transcript-line"><span class="time"><strong>[00:11:02]</strong> </span><span class="speaker"><strong>发言人2: </strong></span>我们都知道电网不可能百分之百的复合，因为你要考虑到峰值的利用。实际上我们看，比如说像新闻的仪器，这个crucial在2比0做的数据中心，1.2G瓦，基本上你会发现利用率其实也都在30%几上下。如果美国的法规是可以降低环保的要求，允许柴油发电机的大规模的发电去做备用的话，那么他认为这个基本上就可以释放八十几瓦，那瞬间就是美国的电力缺口就可以解决了，但是这条应该也是难度非常大的，所以David萨克斯也气的就几乎想要骂人的那种感觉。他觉得就是说美国的缺电，他认为也是一个人为的，如果不是因为减排的约束的话，其实美国完全可以应对，但是现在可能也没有特别好的办法，你在目前的这种状况下，就是参众两院共和党虽然说都领先，但是领先的优势也并不是很大的情况下，你要推进一个压制减还压制环保的法案，属于允许柴油大规模发电，可能也是有非常大的难度。所以我就。说这两条其实也是非常规路径。</p>
-<p class="transcript-line"><span class="time"><strong>[00:12:02]</strong> </span><span class="speaker"><strong>发言人1: </strong></span>非常精彩。我还听到一个说法，就是开始你是引用大摩的这个报告，说是加密矿场转数据中心，大概是15G瓦。但是我其实跟一些证券公司的人，包括数据中心内部做分析的人，大家也在分析这一部分的存量有多大。我觉得大家的差异蛮大的。就有人说他们可以算出来8.4个G瓦，然后也有人说在6到10这个数字之间。</p>
-<p class="transcript-line"><span class="time"><strong>[00:12:28]</strong> </span><span class="speaker"><strong>发言人2: </strong></span>这个问题是这样的，我前面为什么要明确的跟大家讲montani他是cyphers mining的顾问呢？因为他是这个矿工的顾问，肯定他的报告可能多少会有一些BIOS，这个还是要提示大家的。这样的话他可能会把矿工转型的这个前景说的更美好一点。</p>
-<p class="transcript-line"><span class="time"><strong>[00:12:45]</strong> </span><span class="speaker"><strong>发言人2: </strong></span>实际上关于矿工转型到底能提供多少电的这个问题，其实这个里面确实是有一些tRicky的地方。矿工是可以用黑电的，矿场是可以随时下线的。所以它对于电力的要求没有那么的高，不需要一定要二次乘以7。所以这也是为什么前几年你会看到木头姐一直在呼吁给比特币矿场更多的宽容。</p>
-<p class="transcript-line"><span class="time"><strong>[00:13:04]</strong> </span><span class="speaker"><strong>发言人2: </strong></span>因为比例矿场是可以提供调峰调谷的这样的一些选项的，他对新能源都是非常友好的。所以你会看到一些在美国挖矿的一些上市公司，他前几年都会有一些电网公司的补贴和返现，什么意思呢？就是说峰值的时候矿场自己选择自愿下线了，所以电网要给他一些奖励。</p>
-<p class="transcript-line"><span class="time"><strong>[00:13:24]</strong> </span><span class="speaker"><strong>发言人2: </strong></span>因为这个矿场其实通过这几年的努力，它已经可以软启动了，所以它下线的和重新上线也并没有那么的困难。这就是为什么他对电的要求没有那么高的一个核心的原因。所以这也是为什么储能这种东西去支援这个矿场，可能问题不是很大的。但是在AIDC方面还没有大规模的作为一个单独的一个能源去供应，还是作为一个后备的补充。但AIDC可能跟矿场就完全不一样。ADC就是要求24乘以7的，所以你的电力冗余要打的非常的多，这样才能保证万一到峰值的时候，你还有足够的电去用。所以这也是为什么大厂你看它的AIDC，它除了搞定网电以外，他还要自备电厂的。所以到底矿工有多少电是可以改成和规格的和要求的AIDC的电，这个里面确实是有一定的争议的，可能没有办法全部改过来。</p>
-<p class="transcript-line"><span class="time"><strong>[00:14:13]</strong> </span><span class="speaker"><strong>发言人2: </strong></span>所以这也是为什么我觉得市场现在给到这个转型矿工或者拟转型的矿工的估值，甚至低于或者是远低于建设成本11到13美元每瓦。原因就是说首先第一你很多还没有建，只是说要建，那市场现在他没有给你估值。第二种情况就是市场不相信你能把全部的店都转成AIDC所需要的那种店，他觉得你只能转一部分或者怎么样，所以只给了你一个部分店的估值。</p>
-<p class="transcript-line"><span class="time"><strong>[00:14:38]</strong> </span><span class="speaker"><strong>发言人2: </strong></span>我确实觉得对于矿工到底能缓解多少电这个东西，确实数字上还是有争议的。但是至少有一点是可以肯定的，就是说矿工不管是什么数字，你说是6到10G瓦也罢，8G瓦也罢，还是蒙斯讲的15G瓦也罢。总之这都是一个在短期18到24个月能提供的很大的一个助力。即便你按低的算，6G瓦也是不少电。</p>
-<p class="transcript-line"><span class="time"><strong>[00:14:59]</strong> </span><span class="speaker"><strong>发言人1: </strong></span>所以电力短缺最核心就是在这两年，然后之后就会好。如果之后比如说AI应用整个大爆发的话，大家的业务就都能持续下去。如果之后我们看到AI的应用，它还是整个的收入占比非常小的话，我可以理解整个行业会进入到一种产能过剩跟优胜劣汰的过程中。</p>
-<p class="transcript-line"><span class="time"><strong>[00:15:19]</strong> </span><span class="speaker"><strong>发言人2: </strong></span>我觉得这个里面还是看终端用户到底他们的感受是什么样子。因为实际上我们看cloud其实已经开创了一条路，就是从编程的角度来说，这个大家都要用了OpenAI。你说今年130亿美元也罢，还是说ARR200亿美元也罢。</p>
-<p class="transcript-line"><span class="time"><strong>[00:15:34]</strong> </span><span class="speaker"><strong>发言人2: </strong></span>但是我们看到OpenAI主要其实是一个to b再to c的过程。也就是说他token用的最多的是像多邻国这种。那核心就是说像它的弊端的这些token的用户，他们能不能赚钱。他们如果是可持续的能赚钱，能够提高利润率的话，那我觉得to b再to c这条路就跑通了。那你open I的收入可以持续的扩大。那你的token用户，这些大的用户他也会持续的再去扩大对你的token的消耗，我觉得这是很重要的。</p>
-<p class="transcript-line"><span class="time"><strong>[00:16:00]</strong> </span><span class="speaker"><strong>发言人2: </strong></span>另外一点来说，完全to b这一块行不行？那编程这一块，我觉得至少to b这块已经走了很大一步了。但是如果直接用这个模型，直接应用到实际的工业场景当中去，这个东西到底行不行？反正我也看了一些报道，可能还需要一些专业的模型应用到B端的这些专业的咨询公司来辅导。否则这个幻觉还是相对来说，可能在B端的商业场景里面，还是暂时不能完全很通畅的去忍受的。所以这也是为什么OpenAI要搞一个GDP valuation这样的一个测试。</p>
-<p class="transcript-line"><span class="time"><strong>[00:16:33]</strong> </span><span class="speaker"><strong>发言人2: </strong></span>所以他的意思就是说按GDP的占比选择了九个行业，四十多个子行业，然后做那些real case的case study，然后让模型去处理。就说到这个里面最好的模型可能是open 4.1，其次可能就是GPT这两个模型可能像offer 4.1，可能在47%的这些real case，阿里方面可能已经追平或者是比人类行业专家做的更好了。也就是说快达到一半的程度了。如果说他能攻克这个弊端的话，那肯定也就是链路跑通了。那我觉得也不会有什么质疑了。</p>
-<p class="transcript-line"><span class="time"><strong>[00:17:05]</strong> </span><span class="speaker"><strong>发言人1: </strong></span>OK了解，我们刚刚其实一直在讲数据中心。因为上一期我们的播客大概有用到一个数据，就是说建成一级瓦的数据中心，它需要多少的资金总量。根据英伟达包括市场上现在已经比较公认的一些说法，大家是觉得需要500亿美元。你要不要跟大家分析一下，在这样一个一级瓦500亿美元里面，它大概的成本是怎么分布的。然后GPU大概占了多少？</p>
-<p class="transcript-line"><span class="time"><strong>[00:17:32]</strong> </span><span class="speaker"><strong>发言人2: </strong></span>我觉得GPU至少要占70%到80%，GPU肯定是350到400亿美元这样一个级别。</p>
-<p class="transcript-line"><span class="time"><strong>[00:17:38]</strong> </span><span class="speaker"><strong>发言人1: </strong></span>最核心受益者是英伟达AMD。</p>
-<p class="transcript-line"><span class="time"><strong>[00:17:41]</strong> </span><span class="speaker"><strong>发言人2: </strong></span>对对对。</p>
-<p class="transcript-line"><span class="time"><strong>[00:17:42]</strong> </span><span class="speaker"><strong>发言人1: </strong></span>包括推理芯片？</p>
-<p class="transcript-line"><span class="time"><strong>[00:17:43]</strong> </span><span class="speaker"><strong>发言人2: </strong></span>我觉得都包括我们如果看微软跟艾瑞这个deal的话，可能这个比例略低一点。微软这个deal是95还是98亿，然后GPU大概是小60亿，所以你这么看一看的话是60%多。你按艾瑞这个deal，你500亿来计算的话，可能GPU那也是320到350之间。这个里面的场地的改建成本，一G瓦应该是十几亿美元。那我们有看到相对低一点的T3级别的可能11到13亿美元1G瓦。高的我也看到有17 7到19亿美元的。我们完全可以下一个判断，就是500亿美元的总成本里面，其实主要是卡。</p>
-<p class="transcript-line"><span class="time"><strong>[00:18:20]</strong> </span><span class="speaker"><strong>发言人1: </strong></span>主要是GP整个电力系统它会占到500亿的多少的比例呢？</p>
-<p class="transcript-line"><span class="time"><strong>[00:18:25]</strong> </span><span class="speaker"><strong>发言人2: </strong></span>电应该也占一定的比例。我刚才算的那个十几亿美元1G瓦是一个纯粹的建设成本。场地现在基本都是20年折旧，所以这个也是比较小的。</p>
-<p class="transcript-line"><span class="time"><strong>[00:18:35]</strong> </span><span class="speaker"><strong>发言人1: </strong></span>剩下的部分估计就是比如说电力系统跟冷却系统。</p>
-<p class="transcript-line"><span class="time"><strong>[00:18:39]</strong> </span><span class="speaker"><strong>发言人2: </strong></span>通对你说非常对，要建水厂，现在一般T3级别都是讲的液冷还要直达芯片，你可能还要建水厂。你看那个XCAI那个20万卡的是2，他就是为了保证液冷的这个水源，他自己在站点上还专门建了一个水厂，这个水厂其实也要保证的。还有一个问题，你自己的一些设备，因为你还要考虑到电效的问题，就这个PVE。PVE的话一般来说可能现在AI数据中心公认的就是1.1到1.2，你实际的这个电要比供应的电要多10%到20%。</p>
-<p class="transcript-line"><span class="time"><strong>[00:19:11]</strong> </span><span class="speaker"><strong>发言人2: </strong></span>这个是用来给你自己的AI数据中心自己耗电用的。他讲一G瓦这个数据中心讲的是IT load，IT负载，就是说真实能供应多少电。但是实际上你为了给一G瓦的电，实际上你可能需要1.1到1.2G瓦的真实的电。因为你剩下的100到200兆瓦是要供自己发电用的。还有你像这些大厂hyper给了他们自己建一个数据中心，哪怕搞定了网店，他自己也要自建电厂。所以这也是为什么大家觉得普遍的共识是一G网如果全成本加在一起，可能450到500亿美元。这也是为什么大家觉得这么算的话，你要建100G瓦的数据中心，那就差不多四五万亿美元。</p>
-<p class="transcript-line"><span class="time"><strong>[00:19:49]</strong> </span><span class="speaker"><strong>发言人1: </strong></span>刚刚其实我们在聊到比特币矿工转AI数据中心的时候，你有提到他们可能比如说未来18到24个月内，这个市场算出来是15G瓦的电。但是从他们的股价跟估值上来看，它是不能支撑这个电量的。为什么？</p>
-<p class="transcript-line"><span class="time"><strong>[00:20:05]</strong> </span><span class="speaker"><strong>发言人2: </strong></span>其实只是市场这么认为，市场不相信这些矿工能全面转产，是因为就算你有电，你要改造这个数据中心，或者你要新建，你要做一个T3级别的AI的数据中心的话，基本上每瓦的建造成本大概是11到13美元。但是我们看所有的这些矿工的每瓦电隐含的1V除以瓦特这个数字来看的话，基本上如果你把它的pipeline的电都算上，就是它已经secure的电都算上。能够超过12美元每瓦的估值的上市公司是不多的。可能也就像apply digital这种是超过的，哪怕就是像艾瑞斯这种已经拿到微软的五年98亿美元的单。但是它的pipeline的电，如果你把2.9G瓦全部算上的话，它的估值也就是一瓦，可能也就在6到7美元之间。当然了，几个月以前他可能就是第三梯队。那个时候虽然说他有电，但是它的估值更低。那个时候。可能他一瓦只有1到2美元的估值。但总的来说，现在市场的这个估值，你会发现很多的矿工的电的估值，甚至是低于建造成本的，低于重置成本的。</p>
-<p class="transcript-line"><span class="time"><strong>[00:21:10]</strong> </span><span class="speaker"><strong>发言人2: </strong></span>这样就会导致两个问题。第一个就是说市场不认为你能把所有的店都改建成AIDC。那有可能市场就会觉得你建多少店我就给你多少估值。但是你剩下的店我并不认为你能转化成单或者转化成AIDC。但是从另外一个角度来说，如果说矿工的估值都一直相对来说是在一个比较低这样的一个位置上。</p>
-<p class="transcript-line"><span class="time"><strong>[00:21:32]</strong> </span><span class="speaker"><strong>发言人2: </strong></span>那这些矿工有没有动力持续的去转型，去把这些店建成AIDC，可能也要打上一个问号。现在当然是一个热潮。但是最近这两天我们看到随着cove的收入指引下调，所有的这些矿工转型的企业，他们的股价都出现了一个大幅的下跌，很多都是调整了百分之二三十以上。艾瑞斯可能算比较强的，但是你相对它的高点也基本上是调了不到20%。所以说如果你持续的给到转型矿工电的估值是比较弱的这么一个估值的话，那有可能他们也不见得最后能释放15G瓦。</p>
-<p class="transcript-line"><span class="time"><strong>[00:22:06]</strong> </span><span class="speaker"><strong>发言人1: </strong></span>为什么像艾瑞斯这种公司，它是一家澳大利亚的公司，假设他在美国境内他可能有2.9G瓦的电。但是我看之前是他们跟微软还是哪家公司签的，其实是一个750兆瓦的电。如果他们还有剩余量，然后巨头又在在抢，又说自己要建多少的店，但是并没有下那么多钱的单，这个是为什么呢？卡在哪儿呢？是GPU上还是卡在钱上？</p>
-<p class="transcript-line"><span class="time"><strong>[00:22:31]</strong> </span><span class="speaker"><strong>发言人2: </strong></span>首先艾瑞斯他不是2.9计划都在美国。因为我们知道他起家是从加拿大BC省起家的，所以加拿大那边有三个挖矿的厂址，那边大概有个100兆。他在美国是两个厂址都在德州，一个是做挖矿的，也就是现在要转产的，这个叫charges。Charges是750兆瓦，但是它跟微软签的大概是200兆瓦。另外一个是sweet water项目，sweet water项目是一共2000瓦的电，现在还没通电，就更不要说后面的建设了。Three water是分两期，一期是1.4G瓦，是公司指引是明年4月通电。二期还有600兆瓦，公司指引是27年通电。</p>
-<p class="transcript-line"><span class="time"><strong>[00:23:08]</strong> </span><span class="speaker"><strong>发言人2: </strong></span>我觉得现在市场对它的店的估值，其实并没有把它那两千瓦pressing太多。这个里面因为有一些融资的限制，因为你一瓦建造成本也要十几美元，对吧？那你需要融资。</p>
-<p class="transcript-line"><span class="time"><strong>[00:23:20]</strong> </span><span class="speaker"><strong>发言人2: </strong></span>我们看艾瑞跟微软的这个单，它其实跟apply digital，包括co sanctify还有galaxy这种跟跨越签单是不一样的。因为在它的商业模式是说我去买了GPU以后，然后我再租给别人。所以换句话说，我跟apply digital co santa和galaxy去签约。</p>
-<p class="transcript-line"><span class="time"><strong>[00:23:37]</strong> </span><span class="speaker"><strong>发言人2: </strong></span>比如说跟apply digital签的是15年110亿，是一个250兆瓦再加150兆瓦选择权的一个合同。那150兆瓦的是可签可不签的，但是他有优先选择权。250兆瓦是15年70亿美元。然后你再跟艾瑞200兆瓦五年98亿美元，你就会发现，为什么艾瑞的这个单短这么多？不是15年，而是五年。为什么有98亿美元那么高的合同额？为什么apply digital是15年只有70亿美元呢？Co si tibi是一二年100亿美元，galaxy是15年90亿美元。</p>
-<p class="transcript-line"><span class="time"><strong>[00:24:09]</strong> </span><span class="speaker"><strong>发言人2: </strong></span>这个区别主要是在买GPU，因为科瑞是不需要你买GPU的，所以你提供场地和提供电，相当于你卖电给他，租场地给他。但是艾瑞他是跟hypos gale跟大厂签的，大厂自己是不买GPU的。换句话说，这个合同金额里面是包含了买卡的钱。所以五年98亿美元的这个合同里面，有58亿美元是要用来买卡的。只是说微软说我给你预付20%，也就19.5亿美元。然后你自己再从其他地方再融资，融到58亿美元去买卡，然后你再交付。</p>
-<p class="transcript-line"><span class="time"><strong>[00:24:40]</strong> </span><span class="speaker"><strong>发言人2: </strong></span>这个里面其实还有里程碑，一般来说可能你交付一段我就付一段钱，所以就是这个合同，这个里面也蕴藏了相当的风险，就在于就是你GPU现在我们一般都知道，像Q还有NBS这些，基本上他们都是按六年GGPU的折旧。艾瑞斯像这种它给GPUG折旧，一般来说可能它会按五年折旧。但是那个场地，包括场地的设备，一般来说可能是20年以上。但是我们谨慎一点，基本都是按20年来算。所以你如果说矿工他不需要买GPU，首先第一不需要承担这个风险，第二它只需要承担场地的折旧的风险和电的风险。但是如果你说你跟我签了15年的长约，那我是不是20年折旧的？这个假设大概率是能够变现，能够落地的。但是你现在艾瑞森跟微软现在这个200兆瓦的问题就在于，首先第一你要买很多的GPU，58亿要买GPU，然后微软是预付你19.5亿美元，这里面的资金缺口，你自己要去融资的，融资压力是大于跟科比签单的那些公司的。</p>
-<p class="transcript-line"><span class="time"><strong>[00:25:40]</strong> </span><span class="speaker"><strong>发言人1: </strong></span>所以他是要债务融资吗？</p>
-<p class="transcript-line"><span class="time"><strong>[00:25:41]</strong> </span><span class="speaker"><strong>发言人2: </strong></span>艾瑞斯你看这个资金缺口表面上是70亿，因为我给了你20亿，你是个98亿的单。但是艾瑞斯自己账上有个6亿，他还有其他的债，他还发了一个转债10亿，所以他还有个五十多亿的资金缺口。从买GPU的角度来说，58亿你扣掉20亿，还剩38亿。然后你自己又解决了16亿，你可能还差个二十多亿。这个二十多亿你肯定有一部分你要通过ATM就是卖股票来解决。</p>
-<p class="transcript-line"><span class="time"><strong>[00:26:07]</strong> </span><span class="speaker"><strong>发言人2: </strong></span>如果你只是根据EV除以瓦特的可比公司的估值比较，你会觉得它相对是便宜的。但是为什么现在上不去呢？为什么便宜他不能重估呢？我觉得这个跟他的融资压力有很大的关系。就是我问你现在你要买GPU，这个里面有一部分可能是微软的一些信用，可能可以借给你一部分钱。另外的一些资金缺口，可能你要再去借钱发债也罢，发优先股也罢，还有一部分你可能需要靠股票的ATM卖股票来融资，对吧？所以这个必然会对股价也有一定的影响。</p>
-<p class="transcript-line"><span class="time"><strong>[00:26:37]</strong> </span><span class="speaker"><strong>发言人2: </strong></span>所以其实电话会议上面，分析师投行也比较关心你这个到底是举债融资，还是ATM融资。当然公司的意思就是说我肯定是一揽子股票还有债都要考虑，还有项目融资。总的来说，公司是没有否认要考虑ATM的那这样的话对你的股价是有压力的。但是你相对来说，你像apply digital cosine tif c galaxy，他们就没有这个问题。</p>
-<p class="transcript-line"><span class="time"><strong>[00:26:58]</strong> </span><span class="speaker"><strong>发言人2: </strong></span>因为我不需要买GPU，那我就不需要去融资买GPU对吧？那我只是卖店，而且我还有一个好处，我的约是比较长约的，如今我已签了15年的约，那我是不是分摊到20年折旧相对是一个比较合理的假设。但是现在对艾瑞森来说，你签的是一个五年的单。那市场就要问你一个问题，万15年过后微软不续约了，或者你找不到其他的人继续签约，那这个GPU也就算了，那就用五年。基本上我也是给你算五年折旧的，但你场地可算20年折旧，那你建了这个场地，万15年以后没有人用了，拿不到新的单或者不续约，是不是要加速折旧？我现在给你算的这个折旧是不是就少算了？我们现在按照GPU5年折旧，场地20年折旧的这个假设来计算，AIDC的这种基本上它的IRR可能在10%到12%。</p>
-<p class="transcript-line"><span class="time"><strong>[00:27:47]</strong> </span><span class="speaker"><strong>发言人2: </strong></span>如果你是10%的IR不算杠杆的话，当然加上一点杠杆可能可以把这个IR推到20%几。如果低估了你的成就，那你的IR可能只有个位数。这个时候其实是更看市场气氛的，也就是说市场相不相信AI继续往前走。市场的情绪的好坏和资金面的强弱，其实是直接影响到QV，直接影响到这些转型矿工他们的资金面的紧张，以及他们对股票市场的压力。最终他们的估值能够估到一个什么样的程度，其实跟资金面的强弱是有密切关系的。</p>
-<p class="transcript-line"><span class="time"><strong>[00:28:19]</strong> </span><span class="speaker"><strong>发言人2: </strong></span>为什么我们会觉得cosan tiv很强？Cosan TV他为什么敢于去拒绝欧睿的全股票的收购呢？原因很简单，他觉得我就应值那么多钱，而且你看他现在拒绝的其实是很明智，是对的。因为科比当时提全面邀约的时候，你是160美元的高价，你现在已经跌到90块钱了。换句话说，COSNTV的股东其实根本就不相信你co v的股价能撑在那个位置。所以你用一个高价的股票，一个股票你想在收购我的真金白银，我肯定不答应。那我就是应该值更高，我应该值20美元更高。</p>
-<p class="transcript-line"><span class="time"><strong>[00:28:49]</strong> </span><span class="speaker"><strong>发言人2: </strong></span>但是其实他们有一个优势是在于他们融资的压力相对来说没有eris那么大。艾因为要负担一个买GPU的问题，所以它的融资压力是更大的。但是从另外一个角度来说，R也有一定的优势在于至少微软它也是个大厂，大厂的credibility信用肯定是好于cove的。所以说各有利弊，这个问题的思考可以解释我以前一直百思不得其解的一个问题，就是为什么我觉得apply digital已经不便宜了。就算把它的备用电都算上，就不是那种纯粹的pipeline里面的比较靠谱的店都算上。我觉得他以往都应该是15美元甚至更高。为什么像艾瑞这种有很多店，它为什么它的店的估值会是play第一个的一半呢？</p>
-<p class="transcript-line"><span class="time"><strong>[00:29:28]</strong> </span><span class="speaker"><strong>发言人1: </strong></span>所以主要是GPU。</p>
-<p class="transcript-line"><span class="time"><strong>[00:29:30]</strong> </span><span class="speaker"><strong>发言人2: </strong></span>对我觉得是GPU导致它的融资压力大了很多。</p>
-<p class="transcript-line"><span class="time"><strong>[00:29:34]</strong> </span><span class="speaker"><strong>发言人1: </strong></span>那你会怎么看像corvid这种公司呢？因为它其实也是一个债务特别高的公司。我看到截止到Q2财报，它的总债务已经是超过111 1亿美元了。他账上的现金是11.5亿美元，而且他的利息也很高。</p>
-<p class="transcript-line"><span class="time"><strong>[00:29:49]</strong> </span><span class="speaker"><strong>发言人2: </strong></span>对我觉得这其实就是一个融资游戏。因为GPU也不是你自己生产的，是你买来的。你说你是英伟达的亲儿子也罢，干儿子也罢，我也不知道到底是亲儿子还是干儿子。但不管怎么样，你空域毕竟是英伟达的整个布局里面的很重要的一环。但是即便是这样，英伟达也不会特意关照你，也不可能给你打折。因为英伟达培养你，包括培养那一堆QV的这种供应商，本质上来说也是为了自己的整个生态的布局，这也是英伟达厉害的地方。</p>
-<p class="transcript-line"><span class="time"><strong>[00:30:17]</strong> </span><span class="speaker"><strong>发言人2: </strong></span>所以为什么英伟达比MD厉害？因为如果你把GPU这个产业看成房地产行业的话，你会发现AMD仅仅就是一个卖GPU的。当然AMD现在也认识到生态的重要性了，所以现在也在跟。</p>
-<p class="transcript-line"><span class="time"><strong>[00:30:29]</strong> </span><span class="speaker"><strong>发言人1: </strong></span>OpenAI那个合作是吗？</p>
-<p class="transcript-line"><span class="time"><strong>[00:30:31]</strong> </span><span class="speaker"><strong>发言人2: </strong></span>也在球队跟OpenAI搞，他也发现你永远哪个OpenAI这么搞，那我也要跟他这么搞。</p>
-<p class="transcript-line"><span class="time"><strong>[00:30:37]</strong> </span><span class="speaker"><strong>发言人1: </strong></span>对，因为整体这个合作就挺奇怪的。AMD跟OpenAI的合作是一个六级瓦的数据中心的合作。正常比如说英伟达跟OpenAI的合作，就是OpenAI去采购英伟达的芯片了，他用OpenAI的股份来换，就是OpenAI把股份给英伟达，英伟达持有OpenAI的股份。但是从OpenAI跟AMD的这个合作来看，OpenAI从AMD采购芯片了，我不仅不跟你要钱，还要把AMD的股份卖给你。OpenAI反而还持有AMD10%的股份，至于它什么时候能卖呢？当然它里面有一系列价格的限制。比如说未来AMD它的市值要达到万亿美元了，OpenAI才能去卖最后的一批AMD的股份。</p>
-<p class="transcript-line"><span class="time"><strong>[00:31:22]</strong> </span><span class="speaker"><strong>发言人1: </strong></span>但整体来说，我们觉得在整个的合作中，看起来AMD还是一个稍微处于弱势的一方。但是优点就是说在这样的一个数据中心大规模新建的时候，至少这个游戏我先挤进去了。所以最后整体上来说，这个合作看起来也是对AMD利好的。因为他们股价也涨了，所以现在卖的都是生态。</p>
-<p class="transcript-line"><span class="time"><strong>[00:31:44]</strong> </span><span class="speaker"><strong>发言人2: </strong></span>大家不再认为我就是一个卖显卡的，我也是搞生态的。英伟达现在其实就有点像一个GPU行业的房地产的总承包商了。科普现在就是考验他的融资能力和融资手段的时候了。</p>
-<p class="transcript-line"><span class="time"><strong>[00:31:55]</strong> </span><span class="speaker"><strong>发言人2: </strong></span>同行最近也出了一些报告，就是在讨论这个融资的问题怎么解决。那就是说投资级债券hyper scale or肯定都是发投资级别债券，然后去融资，然后继续投高收益的债。信用评级更差一些的，可能会去找高收益债的市场，也可以解决一些问题，很可能还需要找私募债。你看meta 290亿美元里面，260亿美元是找的私募债的公司，这个是项目融资。</p>
-<p class="transcript-line"><span class="time"><strong>[00:32:20]</strong> </span><span class="speaker"><strong>发言人2: </strong></span>另外我觉得很可能最后要走的一条路，最后迟早要证券化，要打包，要做成一个类似CDO那样的东西。那这个CDO05年开始，后来卖优先级卖给全世界。它的底层就是公司信用，里面还有很多是商业地产和住宅地产。现在只是说把底层资产你可以换成GPU，你也可以换成数据中心。其实我是觉得这也是可以考虑的，你既然你GPU是租出去，理论上来说你也可以打包成一个池子，做成一个ABS这样的资产抵押证券，然后再分级卖一级卖给全世界，也能帮你分摊这个融资压力。其实有人已经这么干了。</p>
-<p class="transcript-line"><span class="time"><strong>[00:32:57]</strong> </span><span class="speaker"><strong>发言人1: </strong></span>谁这样干了？对我稍微解释一下，ABS是指资产证券化，可以理解成把未来的还款收入做成可交易的证券。CDO是指债务担保证券，ABS是说把未来会收到的钱做成证券。CDO就是说我会把各种债务，甚至是把我们刚刚提到的ABS再打包分层成更加复杂的版本。对我们继续说谁这样干了。</p>
-<p class="transcript-line"><span class="time"><strong>[00:33:22]</strong> </span><span class="speaker"><strong>发言人2: </strong></span>就是crucial。Crucial是Peter CEO领投的这样的一家公司，去年12月还只有27亿美元的估值，当时是Peter theil的fans fund领投，去年是D轮，一共投了27亿美元，投了6亿美元。转过头到今年所以我是觉得这些人他们信息都很灵通，他们肯定就知道这个东西会入选新闻。而且一开始讲case阿比尼这个项目的时候，还并没有明确讲这就是新闻一期的项目。所以一开始大家其实也并没有把他们联系到一起。但是转过头到今年，你就会发现crucial已经估值跳到100亿了。当然这个deal还没有做完，一轮的融资，他们想要用100亿美元估值去融资。</p>
-<p class="transcript-line"><span class="time"><strong>[00:34:00]</strong> </span><span class="speaker"><strong>发言人2: </strong></span>但是crucial实际上做新闻一期的这个项目，1.2G瓦一共150亿美元的投资，它其实是叫上了一家美国的资产管理的上市公司，叫蓝色猫头鹰资本ruo capital很有名，对他一共管400亿美元。然后blue o capital，它比较著称的就是包装rise。所以为什么西门一七阿比林项目要把blue o capital找进来呢？其实cruel就是为了让他去做成这种race，或者是打包，或者分级卖给二级市场，或者是卖给那种优经济的投资人。所以他们对融资的问题其实已经想的很清楚了。</p>
-<p class="transcript-line"><span class="time"><strong>[00:34:31]</strong> </span><span class="speaker"><strong>发言人1: </strong></span>所以他算是用资产证券化的方式在融资。就是我没明白他的融资方式到底是什么。</p>
-<p class="transcript-line"><span class="time"><strong>[00:34:37]</strong> </span><span class="speaker"><strong>发言人2: </strong></span>因为阿比林这个项目一共它其实就是8栋楼，一共40万张GB200，那每栋楼大概就是5万张，一共是1.3G。投资150亿美元，显然他们不可能全部拿得出来。你像crucial的估值都没到150亿美元。所以这个肯定是分阶段来做，我做一栋楼，然后我就租出去做一栋楼的race，然后再滚动开发。</p>
-<p class="transcript-line"><span class="time"><strong>[00:35:00]</strong> </span><span class="speaker"><strong>发言人2: </strong></span>还有一个原因是什么呢？因为你跟科比签约是这样的，所以我相信可能跟新闻的签约也是类似的。一般来说type scale也罢是也罢，他跟你签的这个合同里面是有大量里程碑的，多少兆瓦分阶段。你到了这个数字，你交付了我就付你一部分钱。对于这些转型的矿工的AIDC也罢，对于crucial这家的公司也罢，交付是重要的。因为我交付的就实现现金流的回流，所以我要不断的滚动开发，可能跟开发房地产是真的是很像的。从下游来说，你像科比也罢，coco也罢，他们可能最终都要需要通过一个rich的方式，或者是类似CEO的这种方式，去把他们的收益打包卖给市场，卖给全球的这种固定收益的投资人。然后从他们的上游的供应商来说，也需要通过滚动开发的方法，从crucial从cov这边回款，从微软大厂这边回款。</p>
-<p class="transcript-line"><span class="time"><strong>[00:35:50]</strong> </span><span class="speaker"><strong>发言人1: </strong></span>我觉得这个跟房地产的这个商业模式一模一样。它考验的是你融资能力，以及就是你把这个资产滚动起来的能力。比如说我们往金融的底层去挖，然后你是怎么样把这些融资化成贷款，化成债，然后化成资产证券化的能力。因为之前我们一直有一个问题，就是说钱从哪儿来？如果我们探到底层的话，我们发现这些钱其实是从比如说银行的贷款中来的。然后这个贷款或者借债，你再把它打包成CDO，再把它分销出去。那这个跟当时05到08年这一段资产的次贷化有什么本质的不一样吗？</p>
-<p class="transcript-line"><span class="time"><strong>[00:36:27]</strong> </span><span class="speaker"><strong>发言人2: </strong></span>我本人我06年07年我就在CDO desk上的。所以08年的金融危机之前的故事我是亲身经历的。其实我觉得资产证券化也罢，分级也罢，CDO这种技术也罢，cmbs RMB s我觉得这些技术都是中性的，关键还是你的底层资产。所以核心是在于你这个surprise。你当时就是说你次贷，你是基本上前两年首先零首付，第二也不用付利息，它是一个可调节的利率，当时可能是5%以上。所以从第三年开始，你马上要付一个高利利息，可能还要开始还本了。</p>
-<p class="transcript-line"><span class="time"><strong>[00:37:02]</strong> </span><span class="speaker"><strong>发言人2: </strong></span>但是当时这个金融工程烂化了以后，大家就像国内的这种理财公司要卖刚兑产品是一样的。所有这些销售，还有做结构的这些人，同行的这些人以及经纪商，他们为了拿把我的奖金和这种销售佣金，他们再去做资产的寻找的时候，他们就会寻找到很多其实不符合资质的。甚至不断的把底层资产的质量不断的往下压，最终就发展到了次贷。是因为比这个资产质量更好的资产都已经证券化完了。这个就是一个金融工程发展到一个极致以后的负面的这样的一个结果。</p>
-<p class="transcript-line"><span class="time"><strong>[00:37:33]</strong> </span><span class="speaker"><strong>发言人2: </strong></span>但并不代表金融工程本身是不好的。你把GPU的租赁收益，或者说你把数据中心做成race，或者做成CEO这种东西。核心还是在于你的底层市场，就是你的数据中心能不能租出去，租赁的租金是不是好的。如果这个底层资产是健康的那我觉得这种金融构成是也是没有什么太大问题的。但核心还是看你信不信AI以及AI的数据中心未来铺满全世界，甚至外太空也要铺上的话，轨道上也要铺上的话，是不是能产生那么多的收益。</p>
-<p class="transcript-line"><span class="time"><strong>[00:38:03]</strong> </span><span class="speaker"><strong>发言人1: </strong></span>所以核心我理解在现阶段就是看AI的应用会不会爆发，整个AI渗透率有多少，应用的营收有多少。</p>
-<p class="transcript-line"><span class="time"><strong>[00:38:11]</strong> </span><span class="speaker"><strong>发言人2: </strong></span>但是我也可以在这里分享一下06年07年我在CDO dex上的时候的一点教训和心得。纯从金融工程的角度来说，我们那时候。所遇到的最大的一个理论错误在什么地方？我前面讲到了，我认为金融工程这些包装数，这些证券化是中性的。但是仍然这个理论在当时出现了一个严重的错误。</p>
-<p class="transcript-line"><span class="time"><strong>[00:38:32]</strong> </span><span class="speaker"><strong>发言人2: </strong></span>我们当时首先基本上用的所谓的BS模型black shows，这都是得了诺贝尔奖的。但是BS模型有一个很大的问题，他是认为这个是正态分布，但实际上我们很多时候是偏态的。就是有school的，而且是有肥伟的，这个肥伟有时候在损失的时候可能会很大。虽然说一些顶级的对冲基金可能会用一些偏态分布的肥伟模型来做定价。但至少投行以及我待过的这些经纪公司，他们基本上都还是用BS模型来做定价的。所以说他没有考虑肥尾的问题，至少在08年以前是不考虑的，全部是假定的正态分布。</p>
-<p class="transcript-line"><span class="time"><strong>[00:39:09]</strong> </span><span class="speaker"><strong>发言人2: </strong></span>第二个问题，07年大家在金融工程方面犯了一个严重的错误是什么呢？大家认为违约率和相关性本身是没有相关的。然后07年为什么大家对CDO这么热衷呢？里面一个很大的原因是07年的违约率是历史的新低，资产相关性也是历史的新低。就是一个名字，一个企业的债券或者CDS他违约并不影响另外一个公司。这就是让市场很疯狂的去投资CDU的优先级，甚至还要上杠杆投优先级。所以当时台湾甚至台湾的寿险公司都在大量买CDU的优先级。</p>
-<p class="transcript-line"><span class="time"><strong>[00:39:44]</strong> </span><span class="speaker"><strong>发言人2: </strong></span>因为如果你是一家寿险公司的首席投资官，或者你是一家货币市场基金的首席投资官，首先我这个优先级是3A评级的。其次我的收益率也挺好的，肯定是比买美国国债要强的。你买了以后可能能多跑赢几十BP你的排名可能就高100名亿以上了，对你来说是有很大诱惑力。</p>
-<p class="transcript-line"><span class="time"><strong>[00:40:03]</strong> </span><span class="speaker"><strong>发言人2: </strong></span>另外一点就是从理论上来说，我们认为相关性很低。一个名字的爆仓，他的违约不影响另外一个名字。如果你要把优先级的收益全部亏完，要亏到本金的话，在当时的设计来说，很多的情况下是需要7%的违约率。也就是说如果我这个池子里面有100个标的，100个债券或者100个CDS，要有七个S违约，我的收益才会降到0。如果你是一个投资人的话，或者你是一个销售，你会觉得要达到7个名字，七次爆仓，七次违约，我的收益才会达到0，我的本金都不会受损。而相关性又历史新低的情况下，我会觉得这个状况是比较少见的。</p>
-<p class="transcript-line"><span class="time"><strong>[00:40:43]</strong> </span><span class="speaker"><strong>发言人2: </strong></span>但是教训是08年金融危机发生了以后，大家才发现原来当违约率上升的时候，居然相关性也上升了。也就是说一个公司的违约会导致其他公司的违约率也上升。因为如果你是同一条产业链，比如说你都是AI产业链的上下游，那你的客户困难了，那作为供应商来说，是不是也会出现现金流的困难，出现回款的困难。但从另外一个更广义的角度来说，全世界的很多各行各业其实都是以某种形式耦合在一起的。他们之间会有这种蝴蝶效应，一个名字的违约会导致其他的也会泛滥开来，甚至不同的行业也会互相影响。</p>
-<p class="transcript-line"><span class="time"><strong>[00:41:22]</strong> </span><span class="speaker"><strong>发言人1: </strong></span>现在看起来就是这样，就是这些公司可能英伟达OpenAI加mac seven就是其中的一个核心。就是任何一家公司出了问题，这个全产业链全部出问题。</p>
-<p class="transcript-line"><span class="time"><strong>[00:41:35]</strong> </span><span class="speaker"><strong>发言人2: </strong></span>所以他们就是铁索连环。但是刚才我们讲到银行贷款，大的银行其实也不太愿意为这种去做长期贷款的。一般来说他们可能也会觉得这里面有一定的风险，他们一般做的都是短期贷款或者是过桥贷。所以实际上最终还是要靠证券化市场，靠全球固定收益投资人去接盘高频级市场的。</p>
-<p class="transcript-line"><span class="time"><strong>[00:41:55]</strong> </span><span class="speaker"><strong>发言人2: </strong></span>投资级市场还是能解决很多问题的。你像摩根大通的看法，就是至少来说明年可以解决3000亿美元。未来的五年，摩根大通认为高频级市场可以为数据中心解决1.5万亿美元的融资问题，高收益市场也能解决一些问题。当然hypos s gale的catch flow也能解决不少问题，因为我们都知道这些大厂的现金流还是挺强的，每年都是大概7000亿美元的经营现金流。如果你还要再融资，最终可能就是得证券化市场，你不能完全靠银行，还有一个中级的那就是靠政府。</p>
-<p class="transcript-line"><span class="time"><strong>[00:42:26]</strong> </span><span class="speaker"><strong>发言人1: </strong></span>什么是高评级市场？</p>
-<p class="transcript-line"><span class="time"><strong>[00:42:28]</strong> </span><span class="speaker"><strong>发言人2: </strong></span>可以解释一下吗？高评级市场就是因为评级公司基本上他们就穆迪，还有标准普尔，他们两家是前二的，惠誉费岂是第三名的。我们会认为是三个b triple b minus往上，包括triple b就3B减以上，这都是高频级。它是属于投资级债券市场。3B减以下就是垃圾站，也就是所谓的高收益市场。</p>
-<p class="transcript-line"><span class="time"><strong>[00:42:51]</strong> </span><span class="speaker"><strong>发言人2: </strong></span>但是投资级和高收益，这是个区别很大的市场。因为很多的债券基金、固定收益基金和很多的保险资金，我们包括银行，我们都知道这是全世界最大的机构的钱。他们的投资的章程里面是有限定的。他们绝大多数是要投到国债和投资级企业债的这个市场。也就是说投资级债券的这个市场是非常大的一个市场。所以这也是为什么上市公司企业都比较重视自己的评级。</p>
-<p class="transcript-line"><span class="time"><strong>[00:43:17]</strong> </span><span class="speaker"><strong>发言人2: </strong></span>你要是能做到投资级评级的话，那你融资就相对来说是容易很多。换句话说，大厂如果通过发债的方式，在高评级市场去发债，然后来补充自己自由现金流。我们前面讲过经营现金流可能像这个hyper scale每年可以有7000亿美元。他们如果再发个债什么之类的，他们可以利用自己的融资优势，低成本发债，也能解决很多钱，然后再把这些钱注入到数据中心。</p>
-<p class="transcript-line"><span class="time"><strong>[00:43:41]</strong> </span><span class="speaker"><strong>发言人2: </strong></span>但高收益市场相对来说就会小很多，还有私募债市场，但是中级的也有政府OpenAI也罢，英伟达也罢，其实他们现在在做的一个策略就是铁索连环大家全部绑在一起，大而不能倒。最后万一出问题，你政府也不得不救。因为一旦出问题就是一个很大的事情，所以政府迟早也得救。所以我是觉得这个周末出的一些插曲，像ONI的CFO讲了一些不当的话，对VS去嘲讽，其实我觉得也不是完全没有道理，迟早你政府是不是也得帮帮忙，反正我觉得挺有意思的。你会发现中美的G2的争霸战，因为现在全世界你看欧洲也都掉队了。现在其实真正有资格在AI这个赛道去叫板的，其实也只有中国和美国两个国家。其实变得越来越像，美国也要搞，总体上政府也得搞大基金什么之类的，我觉得可能最终迟早都得到这一步。</p>
-<p class="transcript-line"><span class="time"><strong>[00:44:36]</strong> </span><span class="speaker"><strong>发言人1: </strong></span>债券市场有多大？</p>
-<p class="transcript-line"><span class="time"><strong>[00:44:38]</strong> </span><span class="speaker"><strong>发言人2: </strong></span>债券市场有两种不同的口径，也有人说大概300万亿美元。但是高盛的前不久他发过一个报告，他有讲到全球金融资产一共260万亿美元，全球债券大概占了37%。你按40%算的话，那也是100万亿美元全球债券里面，美国又占了一小半。所以美国的债券市场大概可能就是在四十多万亿左右。100万亿美元的这个全球债券市场里面，大概有一半是主权债，是政府债，企业债又是20%，所以企业债市场可能是20万亿美元，20万亿美元里面应该投资级是绝大多数。所以这也是为什么摩根大通会觉得明年投资级债券市场就能解决3000亿美元的融资需求，未来五年能解决1.5万亿美元的融资需求。因为这个市场确实就是巨大。全球的主流的金融机构其实还是银行和保险公司，他们的Mandate主要就是投主权债和投资级企业债。这也是为什么高收益市场相对来说比主权债和投资级债券市场要小得多的原因。</p>
-<p class="transcript-line"><span class="time"><strong>[00:45:41]</strong> </span><span class="speaker"><strong>发言人1: </strong></span>假设我们刚刚算出来就缺的2.3万亿的这样的一个市场里，我们刚刚其实有谈到GPU的占比。那算下来整个GPU它可能就占到一个一点几万亿的数据量。你觉得英伟达会在未来整个数据中心中，他们的GPU大概能占到一个什么样的量？</p>
-<p class="transcript-line"><span class="time"><strong>[00:46:00]</strong> </span><span class="speaker"><strong>发言人2: </strong></span>这个GPU我确实没有什么太多的研究，从这些模型公司来说，他肯定是希望有多的竞争对手的。英伟达当然是不希望，但是你现在会觉得open I已经隐性的站在英伟达的阵营了，但是open I还是希望AMD能起来。谷歌也是希望能自己的TPU去挑战一下未来的两三年，我觉得可能还是很难改变目前这样的一个态势。英伟达还是会占到很大的一个比例。</p>
-<p class="transcript-line"><span class="time"><strong>[00:46:25]</strong> </span><span class="speaker"><strong>发言人2: </strong></span>英伟达的策略就是说用这种卡换股权的方式，把很多这些模型公司都绑定。当然可能像anthropic cloud可能逐渐就站在谷歌阵营了。因为谷歌、亚马逊也都是他的投资人。但英伟达因为它这个生态已经做的非常的好了。所以英伟达的优势我觉得在未来两三年内还是挺难动摇的对。</p>
-<p class="transcript-line"><span class="time"><strong>[00:46:44]</strong> </span><span class="speaker"><strong>发言人1: </strong></span>加上我们前面说的就是在所有的数据基建中英伟达的GPU它其实是中间最核心的一个环节。所以其实整个英伟达现在是在整个大基建的一个中心点的。</p>
-<p class="transcript-line"><span class="time"><strong>[00:46:55]</strong> </span><span class="speaker"><strong>发言人2: </strong></span>昨天我也听到一个非常厉害的一个高论，现在这种观点就觉得英伟达它是必须要保OpenAI的。所以为什么他会跟OpenAI有合作的这样的一个协议？是因为OpenAI是个鲶鱼，对吧？所以只要OpenAI一直不停的往前沿去搞，一直往AGI这个方向去走，那么其他的那些大厂，其他的模型它也必须得跟。因为你不跟代价是巨大的。万一OpenAI搞成了，你不跟就很麻烦。你像meta现在遇到的一些问题，也是这方面一些问题。所以只要OpenAI一直往前走，在制造这样的一个紧张氛围，大家必须得跟着英伟达的显卡就不愁卖。训练的需求始终在一个加上推理就起来，数据中心的需求也不愁。所以对于英伟达来说，OpenAI就是很重要的一条鲶鱼。</p>
-<p class="transcript-line"><span class="time"><strong>[00:47:39]</strong> </span><span class="speaker"><strong>发言人2: </strong></span>但是对于美国政府来说何尝也不是？因为这条辇云辇东的这个东西，所以大量的数据中心，包括电网改造，未来的五年都要在美国发生。美国政府也不需要指挥棒，这个指挥棒就在这里。所以至少来说电网的改造，以前几十年都不可能改造的，也不可能有钱去投的。现在都被迫要去投这种现代化的第三级别的数据中心，都要建各种各样的配件，都要到美国。所以特朗普以前一直都是希望美国制造业能振兴。但至少现在相对来说，AI数据中心的相关的电力的这条产业链，确实都是要回到美国，全部要建起来。</p>
-<p class="transcript-line"><span class="time"><strong>[00:48:14]</strong> </span><span class="speaker"><strong>发言人2: </strong></span>所以我是感觉OpenAI现在搞的这些事情，已经把这些大厂已经绑定了，甚至实际上无形当中也把美国政府绑定了。他们绑定的越稳，其实他们自己就越安全。所以OpenAI说你政府应该给我做担保或者什么之类的，我觉得他CFO没有讲错，只是说你不适合在公开的去讲这个话，特别是在现在还没有出现很大问题的时候，你就讲这个话。因为你这么讲了以后，其他的模型也会这么讲，那cloud也会说，那你政府是不是也帮帮我？但是实际上越是这么操作下去，OpenAI越是不能倒。就3M隐含的这个策略，虽然没有明说，我感觉是有点希望把自己变成大，而不能倒那块积木，越是这样越安全。</p>
-<p class="transcript-line"><span class="time"><strong>[00:48:54]</strong> </span><span class="speaker"><strong>发言人1: </strong></span>对他的所有操作看起来已经很明显了。在上一集我们的嘉宾有提到，为什么AI公司现在他们要大力去建数据中心？他说对于AI公司来说，就是他们的战略是under investment is rescue than over investment。就是说你投资不足带来的风险，其实比你投资过度带来的风险是要大的。这个观点一出来，我觉得他在整个的博客的评论区，甚至在市场上它是有一些争议的。我想看看你会怎么去看这个观点。</p>
-<p class="transcript-line"><span class="time"><strong>[00:49:26]</strong> </span><span class="speaker"><strong>发言人2: </strong></span>其实这里面有一个行为金融学的一个问题。其实中国跟美国的竞争也同样存在这样的类似的一个囚徒困境。就是说如果你是大厂的hyper sk ale的CEO在AI这个问题，我们仅就这个周期来说，这样大规模的投资对不对？</p>
-<p class="transcript-line"><span class="time"><strong>[00:49:41]</strong> </span><span class="speaker"><strong>发言人2: </strong></span>现在没有人有水晶球，但重点是如果你是一个大厂的CEO，你站在这个位置，在没有充分证伪之前，你说我不跟，这个对你个人来说风险也是巨大的。如果你读对了，那当然你就成神了。但是如果你读错了，你就是千夫所指，你一定会丢工作。但是如果你从众，大家都赌错了，你也跟着赌错了，其实你不会受到太多的责罚。所以我是觉得哪怕你从行为金融学的角度来说，你看的话其实大厂基本上都会尴尬。甚至你看小扎也说代价要跟万一出现了一个改变行业格局的事件，你没有船票，这是一个很可怕的事情。</p>
-<p class="transcript-line"><span class="time"><strong>[00:50:19]</strong> </span><span class="speaker"><strong>发言人1: </strong></span>如果被证明是over investment，就比如说传统设备资产折旧，它是也能抵消掉一部分成本，还是说它整体上还是一个就要崩了的状态。</p>
-<p class="transcript-line"><span class="time"><strong>[00:50:29]</strong> </span><span class="speaker"><strong>发言人2: </strong></span>首先来说，现在还没有进入到一个大规模借债的阶段，现在只是刚开始进入到这个阶段，所有这些投资可能是把这些大厂的现金流已经用完了，那接下来就是一个举债投资的阶段，所以现在你说就已经进入到一个过度投资很大的泡沫，我觉得还早。当然现在大家争论的就是说我们站在一个3到5年的周期，如果你这么投下去，是不是一个过度投资，是不是一个泡沫，现在是没有人知道的，但是即便是这样，那其实未来也就是一个还债的过程。你按照大厂happy ale每年都有7000亿美元经营现金流的情况下，其实也就是缓几年的问题。只不过就是说可能在这段还债的这段时间的股价的表现就不见得说特别好，但是也不至于引起一个很大的问题。因为负债还没有到一个非常夸张的地步，大家争论的都是一个前景。</p>
-<p class="transcript-line"><span class="time"><strong>[00:51:16]</strong> </span><span class="speaker"><strong>发言人1: </strong></span>但是我看在AI的基础建设中，负债还是一个很大的比例。就比如说马斯克的那个电厂中间大概有200亿美元就是负债来借的，而且他的借债利息我看了一下是12%，这是一个相当于是垃圾债的贷款利息。</p>
-<p class="transcript-line"><span class="time"><strong>[00:51:34]</strong> </span><span class="speaker"><strong>发言人2: </strong></span>你说的是项目公司的这个事情，我说的是整体，我们看整体的经营现金流和债的这样的一个情况和资本开支。就大厂它的经营现金流也不会是完全用自有现金流去投，他也会举一部分债。但是我们如果整体这么去对比的话，举债周期只是刚刚开始。</p>
-<p class="transcript-line"><span class="time"><strong>[00:51:50]</strong> </span><span class="speaker"><strong>发言人1: </strong></span>但比如说meta跟trump承诺了说未来几年他会投6000亿美元去做数据中心OpenAI他说的是1.4万亿美元，那这些钱从哪里来？我能想到的就只能是举债了。对。</p>
-<p class="transcript-line"><span class="time"><strong>[00:52:03]</strong> </span><span class="speaker"><strong>发言人2: </strong></span>这个是毫无疑问的。而且我觉得OpenAI一定要IPO去融资，否则你很难想象这个钱怎么来。他讲这个数字一定是考虑到IPO以后的这样的一个情况。但是美国的一些上市公司，特别是一些大厂，这些领袖级人物还是比较擅长造梦的。所以跟tmp讲的这个数字最后能到底能实现多少，你也不好说。因为创造可能28年以后他肯定就下了，最多28年共和党候选人现在看起来基本上就是万斯了，按目前的情况，万斯是断崖式领先。</p>
-<p class="transcript-line"><span class="time"><strong>[00:52:33]</strong> </span><span class="speaker"><strong>发言人2: </strong></span>但不管怎么说，我觉得现在这些大厂的人，包括阿联酋去跟川普去讲我要投资多少？我觉得都是有点哄着他的意思。你像阿联酋说我要投个一万多亿，对吧？你像乌兹别克斯坦甚至都说我要未来三年要投个300亿。那你说这个数字是很夸张的，因为你要知道乌兹别克斯坦的GDP才1000亿，三年投三百多亿，那就意味着每年要投GDP的10%，这个是一个很夸张的数字。Anyway, 反正现在大家先一说，最后会怎么投还是要看形式的。但是有一点，欧美I这个数字，我觉得他如果要做，他必须要上市，我甚至会觉得27年上市都晚了，我甚至觉得应该提到26年上市。所以我现在不太清楚为什么他公开的他也不愿意去讲。</p>
-<p class="transcript-line"><span class="time"><strong>[00:53:16]</strong> </span><span class="speaker"><strong>发言人1: </strong></span>他说的是26年前后。但是你觉得估值1万亿，这个怎么撑起来呢？</p>
-<p class="transcript-line"><span class="time"><strong>[00:53:22]</strong> </span><span class="speaker"><strong>发言人2: </strong></span>这个就要看他的本事了，对吧？因为你看啊今年我们实际上大家广泛的共识是预测到今年130亿的收入。所以sam前段时间录播客的时候就很生气，因为其实那个主播就是有点挑战他，意思就是说你这130亿怎么去称1万亿，其实就是你的这个问题，所以sam就非常生气。就是说我们今年收入远远不止这个数字，我们AR已经200亿了，但是还是有点虚的。你要么就是收入200亿，但是你说AR200亿，那你今年的收入其实还没有200亿。我是觉得可能还是需要一个非常好的一个宏观环境。有可能他们会认为明年是一个非常好的宏观环境，至少明年上半年。因为接下来基本上联储的很多委员是不是要逐渐的要换成一些跟特朗普的立场相对比较近的一些联储委员。</p>
-<p class="transcript-line"><span class="time"><strong>[00:54:10]</strong> </span><span class="speaker"><strong>发言人2: </strong></span>降息要继续。然后ADP的这个数据出来以后，你看12月降息概率又到60%以上了。之前大家觉得12月很难降，因为缺乏经济数据。其外联储接下来可能很快也要扩表，那你现在财政部的TGA账户里面，之前是1万亿，前几天是9500亿也要泄洪。那现在政府还没开门，开门了以后要发工资，所有这些钱要花出来，就会流到市场里面，所以这个开门TJ谢洪再叠加明年可能最快一季度联储要扩表，要解决银行准备金过低的这个问题，所有这些可能会导致市场泡沫化，这是我一向的一个基本的观点。</p>
-<p class="transcript-line"><span class="time"><strong>[00:54:45]</strong> </span><span class="speaker"><strong>发言人2: </strong></span>之前我看到的这个消息，好像是说明年提招股书是吧，是不是要到27年才上？我觉得27年可能不是不晚了一点，我觉得一定要在明年。因为明年其实有一个变数，主要还是在于中期选举，否则我不认为有什么大的利空。</p>
-<p class="transcript-line"><span class="time"><strong>[00:54:59]</strong> </span><span class="speaker"><strong>发言人2: </strong></span>民主党横扫如果民主党横扫的话，首先民主党对AI和web三这两个美股的这个引擎，以及对于很多的这种科技前沿的这种东西，其实民主党是不反对的。甚至你会发现民主党内部有很多议员，他们会经常参与一些AI和web 3的跨党派提案，他们也都支持。但是民主党有两点，第一，川普去推AI和web 3 2块的进展，他希望非常快的把这些东西推进，但这个速度有可能是民主党不喜欢的。第二，民主党也不喜欢去改减排和环保这些议题。</p>
-<p class="transcript-line"><span class="time"><strong>[00:55:32]</strong> </span><span class="speaker"><strong>发言人2: </strong></span>我觉得民主党一旦掌控两院的话，市场对法规推进的态度可能会发生变化，他们可能会预计市场上涨的这个斜率要调整。你知道股市都是交易加速度的，都是交易二阶导的。所以一旦我觉得你这个斜率要调整，这个速率要调整的时候，那这个估值有可能也会出现调整。一旦当市场确信民主党会让特朗普成为跛脚总统的时候，我觉得这个市场就不会特别好。所以我是觉得明年上半年可能会是一个很好的一个牛市的时间窗口，但是下半年我就真说不好了。所以我觉得明年最大的风险其实就是中期选举。</p>
-<p class="transcript-line"><span class="time"><strong>[00:56:06]</strong> </span><span class="speaker"><strong>发言人2: </strong></span>我以前一直觉得，如果这个市场没有现在的这样的一波关门导致的调整，说不定这个能量还会提前耗尽。但是现在由于关门的调整，加上圣诞假期已经临近了，我觉得反而是一个很好的深蹲起跳前的准备动作，为明年上半年的泡沫化做更好的准备。所以我是觉得既然是融资游戏肯定open I必须要上市，各方面都得去支持他，不然的话肯定会出很大的问题。你这么多钱投下去，基本上就是一荣俱荣，一损俱损的这样的一个关系。但anyway我感觉AI产业现在也变成美国的国运之战了，也是当然不能倒。</p>
-<p class="transcript-line"><span class="time"><strong>[00:56:42]</strong> </span><span class="speaker"><strong>发言人1: </strong></span>然后我再把话题拉到我们今天的加密矿场转数据中心。我们刚刚其实有提到很多的公司，包括core vive iron safer。你觉得在这些公司里面你会怎么划分大家的梯队？就是谁是第一梯队，谁是第二第三梯队。</p>
-<p class="transcript-line"><span class="time"><strong>[00:57:00]</strong> </span><span class="speaker"><strong>发言人2: </strong></span>我觉得现在从估值的角度来说，galaxy和wolf我没去算，我就算的是这些纯的矿工转型的。我觉得现在a play DT的估值算是比较高的。首先第一个来说，它的融资压力相对没有action那么高，因为它不需要买GPU。第二来说，它建成也是建的比较快的，可能市场更愿意给建成的电力更高的估值，co n scientific也算是建的比较早的，但是率先建成也是一个双刃剑，因为矿场转AIDC一直都有争论，多头就是觉得电就是很贵，电就是很难解决。最后你可能没有那么多数据中心能落地。所以其实明年有一个风险，对于美国AI产业链的风险就在于可能是不是你落地不了那么多的算力，你可能缺电。</p>
-<p class="transcript-line"><span class="time"><strong>[00:57:44]</strong> </span><span class="speaker"><strong>发言人1: </strong></span>就是GPU会闲置，对不对？现在英伟达他是把GPU都卖出去了，但是你卖出去的这部分GPU它能不能接上电力，它是一个问题。</p>
-<p class="transcript-line"><span class="time"><strong>[00:57:53]</strong> </span><span class="speaker"><strong>发言人2: </strong></span>对，这是一个风险。因为你看萨提亚也提到这个问题了，昨天这个新闻也是这样，就圣克拉拉都是英伟达的总部，你说这俩数据中心都要闲置好几年都接不上电。所以圣拉拉的这个电网改造要到2028年才能够完成，那他们那个时候可能才能接上电。这个给我们一个启示，就是现在全美很多的数据中心的建设，如火如荼的统计当中，到底有多少数据中心是真的已经secure电了？我不知道，我感觉就这里面有相当部分可能就是在建，但是根本就没有拿到电，到时候可能都要闲置，很有可能到时候算力增长就不及预期。</p>
-<p class="transcript-line"><span class="time"><strong>[00:58:29]</strong> </span><span class="speaker"><strong>发言人1: </strong></span>如果是离线的电。</p>
-<p class="transcript-line"><span class="time"><strong>[00:58:30]</strong> </span><span class="speaker"><strong>发言人2: </strong></span>就是不并网，不并网当然可以，但是问题也就是说你自己也需要时间。现在我看的这些公司，我还是觉得apply第一手算是估值比较高的，因为它是已经显性了。除了它的估值以外，其他的两个属于估值的第二梯队的就是cyber和艾瑞斯。但是艾瑞斯实际上如果你要看它没有建成的那些电，也就是那两G瓦都算进来。而且前面我们讲的cherries 750兆瓦，只是拿200兆瓦签单，还有剩下550兆瓦其实现在也并没有改建。</p>
-<p class="transcript-line"><span class="time"><strong>[00:58:59]</strong> </span><span class="speaker"><strong>发言人1: </strong></span>没有建成的电是说他们通电了没有GPU，还是说他们有GPU没有通电。</p>
-<p class="transcript-line"><span class="time"><strong>[00:59:05]</strong> </span><span class="speaker"><strong>发言人2: </strong></span>你要么就是说已经有电了，但是你并没有改建，因为你要全部改建成功，你的融资压力是很大的。我前面也讲过了，就是说你要滚动开发市场，现在很明显，他不认为你这个滚动开发能在短期内完成。而且市场是不是也担心未来你签不到这么多单，没有那么多需求怎么办？</p>
-<p class="transcript-line"><span class="time"><strong>[00:59:24]</strong> </span><span class="speaker"><strong>发言人1: </strong></span>我们明白的是，刚刚我们说iris它有两极瓦的电，但是如果它没有通电，它为什么会有两极瓦呢？</p>
-<p class="transcript-line"><span class="time"><strong>[00:59:30]</strong> </span><span class="speaker"><strong>发言人2: </strong></span>这个2000瓦的电池它已经secure了。他是在德州，他已经跟德州电网r code已经交了几千万美元的押金。这个你在他的季报里面是可以看得到的。而且，这个问题我也请教过德州电网的工作人员。</p>
-<p class="transcript-line"><span class="time"><strong>[00:59:44]</strong> </span><span class="speaker"><strong>发言人2: </strong></span>我当时就想问，我说交押金是不是代表他已经搞定了这个店？那人家就告诉我说，交押金已经是一个晚期阶段了。就是说德州电网在考虑你的上网接入的请求的时候，他会首先做一个可行性研究，而且要你提供很多资料，特别是你的整个的建设计划，还有你的部件设备是不是都完备。下一个动作他觉得你是完备的，他就会把你放到他的电网的发电的模型里面去了。放到发电模型里面，觉得这个模型也是OK的，也是work的，然后就会通知你交押金。所以通知你交押金的时候，他已经觉得这个店可以给你了。但是很多的其他的一些客户，他为了让你二级市场炒股票，他就说这个店他也不是说secure，他就是说我们已经在这个可行研究或者是现场的这个接电的设施已经通了。</p>
-<p class="transcript-line"><span class="time"><strong>[01:00:31]</strong> </span><span class="speaker"><strong>发言人1: </strong></span>但是他并没有接电。</p>
-<p class="transcript-line"><span class="time"><strong>[01:00:32]</strong> </span><span class="speaker"><strong>发言人2: </strong></span>对，设施能接电和你是不是接到电了，这是两码事。</p>
-<p class="transcript-line"><span class="time"><strong>[01:00:36]</strong> </span><span class="speaker"><strong>发言人1: </strong></span>能接电是通过政府验证，接到殿是说你用什么东西把这个电发出来。</p>
-<p class="transcript-line"><span class="time"><strong>[01:00:43]</strong> </span><span class="speaker"><strong>发言人2: </strong></span>对你要么就是电网能愿意给你电，而且是已经放到模型，已经让你交了押金了，这才算你拿到电了。要么就是你自建电厂要建成最好的店，就是说要么你已经有一个自备电厂已经摆在那儿了，你也不需要再投资了。要么就是你去找电网的电。所以说这两G网还是比较靠谱的，只是说他自己的厂址，three board项目一期还在建，所以一期1.4G瓦按公司指引是要到明年4月才通电，二期的600兆瓦要到27年才通电。所以现在很明显的就是说，如果你只是考虑已有的200兆瓦的这个单和750兆瓦已经有电的，要改建数据中心的这部分，那它也不算特别便宜。但是如果你考虑到2.9G瓦全部改建，它就显得还不贵，也就67美元一瓦。</p>
-<p class="transcript-line"><span class="time"><strong>[01:01:28]</strong> </span><span class="speaker"><strong>发言人2: </strong></span>但是市场在这个地方会比较纠结一点，核心还是看这个资金面是不是紧张。资金链不紧张的时候，多头的这个主张我觉得就有道理，否则资金链紧张的时候，空头的主张就更有道理。现在像艾瑞斯的和cyber，我觉得如果只看他们已经拿到的店，按全部的店来看的话，我觉得相对来说也还不算贵，但是也不算很便宜了。但是很明显的，你还有其他的一些，你像比特小鹿、wells，还有clean Spark，还有heart a这些相对来说，如果按照他们的全部在手的已经签约的店来说，都还是很便宜的。也就是说市场根本就没有认为你这个东西是可以改建成AIDC。可能像比如小鹿盘的aid这种，可能都是在两三美元一瓦。</p>
-<p class="transcript-line"><span class="time"><strong>[01:02:14]</strong> </span><span class="speaker"><strong>发言人2: </strong></span>然后riot和clean Spark我看了一下，他们也都是十月表示要转型，但是他们的动作也比较慢，他们可能现在还在采购设备，采购配件的这样一个阶段，他们明年才开始建设，然后又到27年才能交付。这样的一个状态就很依赖于市场的贝塔。市场环境不好的时候，就对交付看得比较重，对融资的压力看的比较重。但市场好的时候，他就不会看这个东西，就会觉得你有店多就是王道，对吧？所以我是觉得这些标的，尤其是最近都出现了一个大跌，please bug也去融资发展CB什么之类的对吧？也跌了。比特小鹿发了业绩以后也是连续的大跌。</p>
-<p class="transcript-line"><span class="time"><strong>[01:02:50]</strong> </span><span class="speaker"><strong>发言人1: </strong></span>比特小鹿是中国的公司吗？或者说他是新加坡的公司吗？</p>
-<p class="transcript-line"><span class="time"><strong>[01:02:54]</strong> </span><span class="speaker"><strong>发言人2: </strong></span>这是一个非常tRicky的问题。比小鹿的想法就是说我虽然是中国人建的公司，但是我是新加坡注册的，我是在新加坡的公司。</p>
-<p class="transcript-line"><span class="time"><strong>[01:03:02]</strong> </span><span class="speaker"><strong>发言人1: </strong></span>所以他能在美国建电厂吗？</p>
-<p class="transcript-line"><span class="time"><strong>[01:03:04]</strong> </span><span class="speaker"><strong>发言人2: </strong></span>这是一个非常好的问题，这也是我要问的一个问题。他现在在讲这么样一个故事。但是比特小鹿跟别的这个公司有一个不一样的地方，就是泰达是他的二股东。泰达首先是5美元的时候拿了1亿美元的placement。后来刘小璐去年有一波从26美元跌回到7块钱。那个七块钱为什么跌不下去了？就是泰达把底买出来了。泰达在7到10美元不停的在捞，然后一直增持到今年的4月17号。今年4月17号以后就没有再举牌了，所以现在泰达的两家子公司已经持有了比特小鹿25.5%的股权，已经是彼得小罗的第二大股东。</p>
-<p class="transcript-line"><span class="time"><strong>[01:03:42]</strong> </span><span class="speaker"><strong>发言人2: </strong></span>然后由于泰达的这一层关系，因为泰达跟counter就是商务部长鲁特尼克的这个经纪公司counter关系很密切。Canter就是他的股东，所有的备付金都是放在canter那边过，所以canter在拼命的写报告，在吹比特小鹿的国家。总的来说我觉得市场可能需要看到，因为别的路店也不少，就是号称1.6G瓦。但市场需要看到你到底什么时候能交付，市场是不是觉得你发布业绩以后，觉得你明年交付的这个AIDC转型的店，这个数字是不是市场会稍微有点失望，是不是觉得低预期导致了一个大跌，再加上开了股票的ATM就连续跌。</p>
-<p class="transcript-line"><span class="time"><strong>[01:04:17]</strong> </span><span class="speaker"><strong>发言人1: </strong></span>但我的问题是比特小鹿它能缓解这波美国的电力慌吗？他算是在解决电力问题的公司中吗？他算那他还是会接美国科技公司的这个核心需求。</p>
-<p class="transcript-line"><span class="time"><strong>[01:04:32]</strong> </span><span class="speaker"><strong>发言人2: </strong></span>这个我觉得是一个破冰的东西，就是说他能不能做成很重要。所以红军你说的我认为是个非常重要的问题。就是一个中国人做的新加坡的公司，同时又跟商务部长曲线搭档关系的这么一家中国人做的新加坡公司，能不能在美国做AIDC，能不能拿到hyper scale或者国语的单，这个是很关键的。这个一旦能做成别小路股价我认为会大涨，我认为翻一倍都是很正常的。如果不能做成，他就会照一个正常的路径去走。如果大家觉得这个风险，大家不太喜欢去看中国的这些公司，觉得不太能进入这个逻辑，我觉得不妨多研究一下riots。Cleans mark, 特别是eight，他们相对来说比较安全一点。</p>
-<p class="transcript-line"><span class="time"><strong>[01:05:14]</strong> </span><span class="speaker"><strong>发言人2: </strong></span>因为现在我们看到就是说炒电矿工的转AIDC这个事情，它已经进入到一个显性的一个名牌阶段。大家都知道你不像五月的时候，五月的时候其实很多人还不懂这个事情。所以现在大家都知道电是最大的瓶颈了。在这个状态下，就是已经举牌的，已经签单的那些就已经在明面上了。比如apply digit、cosine type、galaxy、iris cyphers都已经是明牌了，所以他们的估值都已经上去了。</p>
-<p class="transcript-line"><span class="time"><strong>[01:05:39]</strong> </span><span class="speaker"><strong>发言人1: </strong></span>所以所有的这些公司，它基本上都是美国的公司，对吧？我们今天说的加密矿场转AIDC也是局限在美国，或者是跟美国关系比较好的，比如说arians这种澳大利亚的这些公司里面。</p>
-<p class="transcript-line"><span class="time"><strong>[01:05:52]</strong> </span><span class="speaker"><strong>发言人2: </strong></span>对，你说的非常对五眼联盟，你说的非常对，五眼联盟因为他们原来也是在加拿大上市的。你看艾瑞斯澳大利亚公司，但是他最早挖矿也是在BC省加纳起步的，然后再转到德州去的都是美国，以及和美国关系比较密切的。所以别考虑到底能不能做，这是一个重大的问题，是一个明天到了question。如果你你相信，那这个就是一个巨大的阿尔法。</p>
-<p class="transcript-line"><span class="time"><strong>[01:06:16]</strong> </span><span class="speaker"><strong>发言人2: </strong></span>如果你读中了，当然如果说你觉得我要控制风险，那我觉得不妨多研究一下五眼联盟的这些矿工公司。现在毕竟来说像riot也罢，please bug也罢，像hard都是没有拿到单的，他们都是要转的。但他们已经签到的店，他们相对是便宜的，他们基本上都交易在2到3美元。但是你像艾瑞斯cyber也罢，apply gita这些apply digital已经十几块钱了，艾瑞斯也是六七块钱。所以我是觉得如果市场好的时候，可能还是抓住这几个龙头去炒。但是我觉得后面的这些还没有签单的这些相对安全。如果说他们一旦签到单，我觉得会跑赢前面的那些。但是如果他没有签单的情况下，我觉得他会比较落后。</p>
-<p class="transcript-line"><span class="time"><strong>[01:06:55]</strong> </span><span class="speaker"><strong>发言人1: </strong></span>还有一个问题是这些公司就是我们刚刚讲到了两条非常规的方法。有一种方法你提到了是训练外迁。我知道一些mac seven的巨头，他们已经开始打算在美国以外去找店了。在这种情况下，中国的这些加密公司可以跟美国的公司达成合作吗？或者说美国以外找电，它是不是可以大范围的去缓解电的压力？</p>
-<p class="transcript-line"><span class="time"><strong>[01:07:20]</strong> </span><span class="speaker"><strong>发言人2: </strong></span>我觉得是可以缓解一部分的，而且是相当一部分。但是你说中国公司能不能去接他们的，我觉得是不能。因为前不久其实也有一个事情，日本的一家上市公司被做空机构做空做空机构的做空报告说他们其实是在服务腾讯的，买了大量的GP，我知道这个事儿对，但是为什么做空机会去说你不能远程服务腾讯呢？是因为腾讯在先进显卡的黑名单上。</p>
-<p class="transcript-line"><span class="time"><strong>[01:07:47]</strong> </span><span class="speaker"><strong>发言人2: </strong></span>无论你用任何理由，你是在本地训练或者说离线远程帮他训练都不行。你可能只能用比如说H系列，H20这种可能可以，B系列是不行的。但是说春节的问题又来了，就是像比何小璐这样的新加坡公司行不行？这也是一个问题。我觉得这个问题比较敏感，我真的不知道。我可以提一个视角的供你参考。就是你记得去年上半年，其实在湾区合成数据公司很火，因为那个时候大家都说自然数据都用完了，所以要用合成数据公司。当时七姐妹都开始收购湾区的合成数据的创业公司。</p>
-<p class="transcript-line"><span class="time"><strong>[01:08:21]</strong> </span><span class="speaker"><strong>发言人2: </strong></span>我可以给你讲一个细节，合成数据公司如果你要为美国的大模型供应数据，成为他的供应商，必须要在美国在案注册公司。但如果你是注册一个新加坡公司是不可以的那就是敏感能到这种程度。所以我觉得大模型的训练的外迁，能不能让新加坡公司去供电？当然供电相对来说可能没有那么敏感，所以我觉得中国公司可能很难接。</p>
-<p class="transcript-line"><span class="time"><strong>[01:08:44]</strong> </span><span class="speaker"><strong>发言人2: </strong></span>但是国人去做的新加坡公司有没有可能？这个我们可以拭目以待。因为确实无论是以我在的这个新加坡，还是我们这个一海之隔的柔佛的新山，其实很多的数据中心店其实还是掌握在中国人手里的，或者是中国人开的新加坡公司手里的。我不知道会演变成什么样子，但是从电的方面来说，可能还可以相对敞开一点，因为数据确实更加敏感一点。GPU对他们得全世界找电，他们可能就确保数据不外泄，数据的供应都是美国公司供应，先进的GPU都还是在自己手上，可能就OK，也许电是可以放宽一点的，也许。如果你认同这个看法的话，那我觉得像李小璐这种公司可能是有机会拿到单的这也是一个很重要的赌注。</p>
-<p class="transcript-line"><span class="time"><strong>[01:09:29]</strong> </span><span class="speaker"><strong>发言人1: </strong></span>其实我们在说到加密矿场转AI数据中心的时候，我们刚刚提到的像a cyber，这些都还算是这一波集中转的那我们说上一波的公司，就比如说像V这些公司，它其实是上一轮就转了，所以现在就起飞了。你觉得新一批的加密矿场转AI数据中心更老一批的，比如说像core wave，还有像nebs，它有什么本质的区别吗？</p>
-<p class="transcript-line"><span class="time"><strong>[01:09:55]</strong> </span><span class="speaker"><strong>发言人2: </strong></span>我觉得上一波的转型的应该来说他们在比挖矿方面并不是什么很显著的player。所以他们可能转型的负担相对来说也是比较小的。但是他们比较早的切入了一个比较好的赛道。上一轮应该来说矿工还是给了比较好的一些反馈。你比如说像马拉松mara，其实上一轮股价涨势是比较好，大家都是有路径依赖，也就是说你上一轮可能挖矿做的不是特别出色的这些公司，它就会率先想到我要找一条新的道路。</p>
-<p class="transcript-line"><span class="time"><strong>[01:10:29]</strong> </span><span class="speaker"><strong>发言人2: </strong></span>其实apply digital，它在挖矿方面也并不是非常声名显露的一家公司。它实际上也就只有400兆瓦的电，这个电其实也并不算很多，但是它转型在这一批的矿工里面也算转型比较早的。所以他第一栋楼可能今年年底就可以交付了，这已经算非常快的一个速度了。但是，后面转型的这些，基本上都还是在挖矿界。相对来说做的越好的公司，他越难转型。</p>
-<p class="transcript-line"><span class="time"><strong>[01:10:53]</strong> </span><span class="speaker"><strong>发言人2: </strong></span>这个里面我觉得有一个核心的原因，就是其实挖矿的矿工，它分两类。一类是拼命屯算力屯矿机的，一类是拼命囤电的。所以我觉得这个里面有两个极端，一个就是马拉松的mara，它是属于拼命囤算力的，所以他在上一轮矿工股的行情特别好的时候，它的表现也是非常不错的。但mara管理水平是比较糟糕的，所以他们的管理费用都是居高不下的。所以mara都是一直就是炒赛道，炒贝塔。</p>
-<p class="transcript-line"><span class="time"><strong>[01:11:20]</strong> </span><span class="speaker"><strong>发言人2: </strong></span>所以在这样的一个过程当中，你会发现mary的算力无比的大，它现在已经61A7的算力了，之前设定的年底目标是75页，我不知道现在还会不会坚持这个目标，但很明显他也想转。他其实公告也罢，他在PPT里面也罢，他已经都讲了很多次了。但他为什么很难去迈出这一步呢？原因是他的电少。大家很多人都以为马尔是1.2G瓦的电，其实他没有。因为他自己挖矿的算力，他自己的电都不够用。他实际上自有矿场只有640兆瓦的电，剩下有一小半的店都要去租别人的矿场。比如说mara有180兆瓦是租用apply digital的艾伦戴尔矿场a apply地址。</p>
-<p class="transcript-line"><span class="time"><strong>[01:12:00]</strong> </span><span class="speaker"><strong>发言人2: </strong></span>现在除了400兆瓦那三栋楼要转数据中心以外，还有专门的矿场是专门去托管别人的矿机的，一共268兆瓦，分在两个矿场，其中一个矿场alan del就是马尔的矿机拖在apply d记者，所以你看马尔自己挖矿的电都不够，他哪有电再去搞数据中心的，除非你说我就不挖矿了，我把其中一部分矿产我就改建。但是如果你要改建，你要承受一个巨大的压力。因为这个就意味着你改建的这9到12个月内，你不但要投入KBX，而且你的挖矿的收入就断了。本来挖矿相对来说，他还可以给你提供现金流，你要断了，这个就是一个重大的一个决策了。</p>
-<p class="transcript-line"><span class="time"><strong>[01:12:36]</strong> </span><span class="speaker"><strong>发言人2: </strong></span>所以你就会发现艾瑞斯，他可能就是属于另外一个极端，他这帮人是特别会屯佃的，所以你看他挖矿也只有810兆瓦，但是屯佃就囤了2.1G瓦，这个是非常夸张的一件事情，他自己根本不需要那么多电。而且他原来的想法，可能也就是说我挖矿我810兆瓦，我继续挖矿。其实他在上一个季报里面，他也是这么讲的。他说挖矿的部分我就继续挖，因为我挖矿的部分我可以提供现金流。那我sweet word项目，德州这两G网的项目，我就完全新建做数据中心，这样我既不影响我现金流，我的股价也能炒。</p>
-<p class="transcript-line"><span class="time"><strong>[01:13:10]</strong> </span><span class="speaker"><strong>发言人2: </strong></span>至于说为什么后来用了charge这个矿场去改造呢？我觉得也是因为微软觉得你所有的都没通电，还等到明年4月才通电，通电以后还要再建设，他觉得太慢了。他可能就希望你现在charge 200兆瓦先做起来，以mara为代表，然后自己的店是非常的少的这一类的矿工就是转型最慢的。所以实际上你觉得它便宜之后，但是它转型很难，而且mars每瓦电的估值是不低的。因为以前你按照1.2G瓦算，你觉得它也在2到3美元。但是我现在告诉你，它自有电只有640兆瓦的时候，你会发现它已经退到五块钱了。所以mra实际上现在如果按店来算估值的话，它其实比Clark riots，比比特小鹿hard eight都要贵。所以mra其实是不便宜的。</p>
-<p class="transcript-line"><span class="time"><strong>[01:13:54]</strong> </span><span class="speaker"><strong>发言人2: </strong></span>如果我们看店的话，这就是为什么mara涨得比较慢，但艾瑞斯的电多呢，所以它比较容易去转。所以你看我们原来讲三大上市矿工，mara、riot、clean buk这三大其实都是落在后面的。他们三个是最慢的，在主流矿工里面，mara就相对在他们三个里面就是最慢的。因为另外两个已经明确讲了，我们要转了，明年开始要建了。但marra到现在来说都只是说我去参股，但是也没有明确的数据中心的建设的表态。如果说mara如果能签一个单，或者说我也做数据中心，我觉得他也能转一波。但mara即便是我们考虑到他五万多个比特币，我把它扣除了，我去算每瓦的这个EV它仍然是没有那么便宜。就是电商OK。</p>
-<p class="transcript-line"><span class="time"><strong>[01:14:37]</strong> </span><span class="speaker"><strong>发言人1: </strong></span>我理解其实现在这些加密货币，它一部分它是擅长于做矿机跟算力的，然后这部分它其实就是很难转型。另一部分它是擅长于去找店的这一部分现在就转型的比较好。那对于像mara这种公司，他还在挖加密货币。如果矿工都去转AI数据中心，他会对着个加密货币或者挖矿领域产生影响。比如说更少的人挖了，那我的收益就会更高。</p>
-<p class="transcript-line"><span class="time"><strong>[01:15:06]</strong> </span><span class="speaker"><strong>发言人2: </strong></span>不幸的是到目前为止算力下降的情况还并没有出现。</p>
-<p class="transcript-line"><span class="time"><strong>[01:15:09]</strong> </span><span class="speaker"><strong>发言人1: </strong></span>也就是说大家两边都同时在转，就是我既挖比特币又取转AI数据中心。</p>
-<p class="transcript-line"><span class="time"><strong>[01:15:15]</strong> </span><span class="speaker"><strong>发言人2: </strong></span>实际上这个是一个最好的选择。因为你转数据中心建设周期至少9到12个月，这段时间内你是只有投入没有多少收入的。他可能挖矿的收入可能是以亿为级别的，2亿美元的收入，但是数据中心收入只有几百万美元。而且在一开始的时候，由于它的成本是前置的，它的收入是后置的，所以会导致我以cosine tivy今年一季报来举例，亏产利率今年一季报的挖矿的毛利率是7%，数据中心的毛利率还不如挖矿，只有5%。</p>
-<p class="transcript-line"><span class="time"><strong>[01:15:47]</strong> </span><span class="speaker"><strong>发言人2: </strong></span>因为实际上它的一档的margin不算折旧的，基本上指引都是86%、88。但是这个里面其实是有幻觉的，这个幻觉是在于没有算折旧，你一旦算上折旧以后，如果你从L2的角度来看，其实也就是10%到12%，没有那么夸张的毛利率。即便是这样，你在早期的时候，由于你去转做数据中心了，你挖矿停了，所以你的现金流断掉了。其实这个未必是一个很好的选择。所以其实对于转型的矿工来说，最好就是说我挖矿的收入和现金流继续保有。我用我剩余的电力去做数据中心也罢，或者我拿一部分的挖矿的东西来改造数据中心。</p>
-<p class="transcript-line"><span class="time"><strong>[01:16:23]</strong> </span><span class="speaker"><strong>发言人2: </strong></span>因为对于数据中心来说，你开发最好是滚动式开发，跟做房地产一样。既然我有800兆瓦挖矿，然后我还闲置了2G瓦，那我为什么要把800兆瓦全部拿出来改呢？没有必要。所以我改一部分，我新建一部分，我剩下的部分仍然在挖矿，我新建其实是最好的选择，就算我不新建，我也应该是一边挖矿一边改数据中心。甚至来说新的比特币的矿厂或者矿工如果要上市，是不是也应该讲一个AIDC的故事。</p>
-<p class="transcript-line"><span class="time"><strong>[01:16:50]</strong> </span><span class="speaker"><strong>发言人2: </strong></span>但是同时你也说我滚动式开发，我一边挖矿一边做数据中心，可能是一个更好的选择。就是能兼顾财务的这样的一个表现，现金流也能兼顾股市的这样的一个表现。这也是为什么大部分矿工虽然说在转型的过程当中，但是你会发现他把它真正的消耗停掉，现有算力的比例其实还是很低的，所以总的算力并没有下降，目前来看是这样的一个状况。</p>
-<p class="transcript-line"><span class="time"><strong>[01:17:15]</strong> </span><span class="speaker"><strong>发言人1: </strong></span>对，所以我们整体来说，因为现在比特币它的价格其实是在一个高位。如果比特币的价格下跌，也就是说矿工的收益也会下跌。它会反过来影响到AIDC吗？</p>
-<p class="transcript-line"><span class="time"><strong>[01:17:29]</strong> </span><span class="speaker"><strong>发言人2: </strong></span>如果矿工收益下降的话，首先反而会激发矿工更多的去转型。但是你说的也有一点道理，有可能会影响他们的现金流，有可能会部分影响他们的融资能力。你比如说mara如果要转型，clean bak rs要转型，他怎么融资呢？毕竟来说他们账上是有几万个比特币的，5万个。那你现在按10万美元算的话，那你有50亿美元的这样的一个估值。即便按照64%的LTV来算的话，那也可以借出来30亿美元。</p>
-<p class="transcript-line"><span class="time"><strong>[01:17:59]</strong> </span><span class="speaker"><strong>发言人2: </strong></span>但是如果币的价格下跌了，对他们的自有的融资的这个能力确实是一个打击。他需要更多的去依赖外部的这样的一个融资。你像clean Spark rot，如果他要转clean SPAK，可能有13000个比特币，它现在比特币的价值值13亿美元，如果你按照64%来算，它也能借出来8亿美元。当然这里面可能有一部分已经抵押了的，有20亿美元的比特币，他也能够借出来大概12 13亿美元左右。所以这些来说对他们融资能力确实是重要的。</p>
-<p class="transcript-line"><span class="time"><strong>[01:18:29]</strong> </span><span class="speaker"><strong>发言人2: </strong></span>因为你如果是按照clean park和riot现在账上的情况来说的话，如果说他是走QV的那种路线，而不是买GPU，不是跟大厂直接比的话，他哪怕要做一G瓦的电，其实他们只要把账上的比特币全部抵押出去，这个钱就已经够了，都不需要再融资。我确实觉得就是说对于账上的比特币持有量比较多的这些屯币矿工来说，如果币价下跌的话，对他们融资能力确实是一个影响。但是我也不认为比特币会大跌，你说这个倒真的是提醒我了，所以我觉得多交流能够碰撞出更多的火花。所以他们如果能拿到单，他们其实上涨的空间还不小，我觉得这两个确实值得很好的去研究一下。</p>
-<p class="transcript-line"><span class="time"><strong>[01:19:10]</strong> </span><span class="speaker"><strong>发言人1: </strong></span>好的，最后因为我们这期其实涉及到了很多上市公司的讨论，我们要不要做一下自己的持仓披露？</p>
-<p class="transcript-line"><span class="time"><strong>[01:19:17]</strong> </span><span class="speaker"><strong>发言人2: </strong></span>其实上面所说的所有这些标的我都是买过的，但是我现在都没有，但是我有可能明天就买了。我提到的这些名字都有可能是我会去交易会去买入的，这些名字大概是这样。</p>
-<p class="transcript-line"><span class="time"><strong>[01:19:30]</strong> </span><span class="speaker"><strong>发言人1: </strong></span>好，谢谢迪，我自己是不持有上述我们提到的任何一家公司的那我们今天的节目就先到这里。</p>
-<p class="transcript-line"><span class="time"><strong>[01:19:37]</strong> </span><span class="speaker"><strong>发言人2: </strong></span>好的。</p>
-<p class="transcript-line"><span class="time"><strong>[01:19:37]</strong> </span><span class="speaker"><strong>发言人1: </strong></span>感谢感好，谢谢。我们本期的节目不构成任何的投资建议，投资有风险，入市需谨慎。好的，这就是我们今天的节目了。不知道对我开始提出的这两个问题，店从哪来，钱从哪儿来？大家听完之后有没有觉得更加清晰一点？如果大家有什么样的想法，欢迎在评论区写下你的评论。</p>
-<p class="transcript-line"><span class="time"><strong>[01:19:59]</strong> </span><span class="speaker"><strong>发言人1: </strong></span>播客的听众可以通过小宇宙、苹果播客、spotify来收听。订阅我们视频的听众可以通过youtube和B站搜索硅谷101播客找到我们。感谢大家的收听，谢谢。</p>]]></content:encoded>
-            <pubDate>Fri, 21 Nov 2025 00:00:00 GMT</pubDate>
-            <guid>691fac044a0a6bcde6665134</guid>
         </item>
     </channel>
 </rss>
