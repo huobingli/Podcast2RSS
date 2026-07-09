@@ -4,9 +4,176 @@
         <title>人民公园说AI</title>
         <link>https://www.xiaoyuzhoufm.com/podcast/65257ff6e8ce9deaf70a65e9</link>
         <description>如有干货，纯属巧合</description>
-        <lastBuildDate>Thu, 02 Jul 2026 02:25:36 +0800</lastBuildDate>
+        <lastBuildDate>Fri, 10 Jul 2026 05:29:58 +0800</lastBuildDate>
         <item>
-            <title>GLM 5.2能代替Opus吗？GLM 5.2+Codex实现Token自由！下一代人真的不用电脑了？</title>
+            <title>用什么Fable 5？都给我去用国产模型！当顶级模型变奢侈品，普通人怎么用 AI？</title>
+            <link>https://www.xiaoyuzhoufm.com/episode/6a4d1be23fb7233cbf45564f</link>
+            <description>00:00 花了钱还不让摸？Fable 5 被双层&quot;保镖&quot;切脑
+02:25 给我去用国产模型直接白嫖 Claude Code 全生态
+05:43 Coinbase编码交给 GLM 和 Kimi费用砍半
+08:00 人民公园为人民环节，如何把AI交给电脑？
+11:24 WorkBuddy 和 Trae 为什么突然爆火？
+16:57 AI 还有创业机会吗？
+20:02 Fable 5 大多数人的下限被大大提高
+21:18 豆包一说收钱就被骂&quot;忘记初心&quot;
+22:30 中国为什么能把 TOKEN 成本压到海外 1/5免费让大家用
+【 JustSayAI 早晚报飞书+Telegram版上新】
+🔥订阅「JustSayAI 早晚报」· 每日两封 · 一键听报
+【关注频道】
+▶️Youtube｜ 📺B 站｜ 📕小红书｜ 🎵抖音｜ 📻Podcast
+📱 商务合作/听友群：justsayai666</description>
+            <content:encoded><![CDATA[<div class="episode-summary">
+<h3>内容摘要</h3>
+<h3>主题概述</h3>
+<p>这期节目由三位AI深度使用者（老肖、贤哥、小苏）围绕“顶级模型变奢侈品，普通人如何用AI”展开讨论。嘉宾结合各自使用体验，批判了OpenAI等闭源模型在收费、降智、限流等方面的“不人民”行为，并一致推荐转向国产模型（如GLM、kimi、MiniMax等）。对话核心议题包括：模型厂商的阉割与过度销售、国产模型的实际表现与性价比、企业级与个人用户的不同痛点，以及AI创业机会是否已死。节目还分享了如何通过编码工具（如Cloud Code、Codex）白嫖或低成本使用国产模型的具体技巧。</p>
+<h3>关键要点</h3>
+<ol>
+<li>
+<p><strong>顶级模型对普通人已“关门”</strong>：发言人1实测发现，Fable 5等模型存在明暗双重“保镖”机制，明明用户需求合理，却被日志标记为“too dump to use favor”（太傻逼以至于不配用该模型），直接降级或拒绝响应。“普通人跟顶级模型已经基本无缘了。”</p>
+</li>
+<li>
+<p><strong>“花了钱还不让摸”的憋屈感</strong>：发言人2总结闭源模型的通病——过度销售、收钱但限制功能、限额、降智、切脑。“说白了就是什么呢？就是花了钱还不让摸这个感觉。”</p>
+</li>
+<li>
+<p><strong>国产模型已能胜任实际工作</strong>：以Coinbase（美股上市加密公司）为例，其CEO公开表示绝大部分编码工作已切换至GLM和kimi，整体费用降至原来一半以下，且91%的员工从未触发使用上限。说明金融级合规场景下国产模型亦可靠。</p>
+</li>
+<li>
+<p><strong>白嫖国产模型与Cloud Code生态</strong>：通过将GLM等国产模型接入Cloud Code，可完全复用Cloud Code的浏览器调用、工具链等生态，且无需购买Cloud订阅。发言人3现场演示“在Codex侧边栏开三个终端：Codex本身、Cloud Code、国产模型，直接白嫖免费额度”。</p>
+</li>
+<li>
+<p><strong>模型切换的摩擦力是当前最大痛点</strong>：小企业主需要跨天跨周的连续性上下文，却要手动在多个模型、plan、IDE间来回切换，学习成本高。“你不觉得这个事儿其实是很大的摩擦力吗？”</p>
+</li>
+<li>
+<p><strong>国产模型爆发拐点已到</strong>：发言人2认为当下不是拼算力或参数，而是拼应用和落地效率。“现在是偏应用的时候，所以也就是中国模型发力的时候了。”</p>
+</li>
+<li>
+<p><strong>AI唯一做大的应用是Coding</strong>：发言人3指出“AI唯一做出来最大的应用，现在可能就是code action”，其他场景仍依赖用户自己DIY手搓，离品牌机式的整合体验还有距离。</p>
+</li>
+<li>
+<p><strong>免费模式在中国难以为继</strong>：豆包一宣布收费就遭用户骂“忘记初心”，但发言人3认为AI没有移动互联网的规模效应和边际成本递减，免费不可持续。“你豆包不收钱，千问也不收钱…全部都不收钱…在中国搞不动。”</p>
+</li>
+<li>
+<p><strong>长期乐观：低成本降低使用门槛</strong>：发言人2以“给女儿白纸画画”类比，认为中国有电力成本等优势，可将token成本降至海外1/5甚至1/7，只要让大量人免费使用，总会有人做出有价值的东西。“总会有一个比我聪明的人和有正经想法的人，用了AI干了点什么事儿。”</p>
+</li>
+</ol>
+<h3>独家细节</h3>
+<ol>
+<li>
+<p><strong>Fable 5的“保镖”日志抓包</strong>：发言人1透露有技术高手深入底层日志发现了名为“to dump to use favor”的变量，被触发多次表明用户需求“不配用该模型”，且自己实测直接被拒过好几次。这种直接降级机制在公开报道中极少被提及。</p>
+</li>
+<li>
+<p><strong>Coinbase内部数据细节</strong>：不仅提到91%员工从未触发使用上限，还特别强调这是一家金融上市公司，“合规准确性要求是最高的”，以此佐证国产模型在专业场景的可靠性。这一具体企业案例生动且有说服力。</p>
+</li>
+<li>
+<p><strong>虚拟机隔离的安全实践</strong>：发言人1分享了自己的安全工作流——用一台虚拟机专门跑模型，主机共享一个“don lose”目录（下载的、不重要但有上下文价值的文件），虚拟机只读这个目录，实现与主环境隔离。这种“土办法”在普通用户中很少公开讨论。</p>
+</li>
+<li>
+<p><strong>对Claude的“不良感”</strong>：发言人2坦言“Claude真的太作了”——先自己说AI有风险禁止别人搞，自己偷偷搞；后来又让美国政府禁掉；最近传闻给中国人安暗门；阿里内部已要求全面禁用。这番情绪化吐槽直指厂商的双标与不信任感。</p>
+</li>
+<li>
+<p><strong>“组装机 vs 品牌机”的比喻</strong>：发言人1将当前AI工具生态类比为“组装机时代”——用户得自己DIY配置、切换模型，缺少像品牌机那样整合好3-5个模型、每月固定封顶价、覆盖编码+日常全场景的一站式产品。“现在就是没有这么好的东西。”</p>
+</li>
+</ol>
+</div>
+<hr/>
+<p class="transcript-line"><span class="time"><strong>[00:00:00]</strong> </span><span class="speaker"><strong>发言人1: </strong></span>普通人跟顶级模型已经基本无缘了，你没事在那边思考个毛线，他思考半天杀我的token.</p>
+<p class="transcript-line"><span class="time"><strong>[00:00:06]</strong> </span><span class="speaker"><strong>发言人2: </strong></span>说白了就是什么呢？就是花了钱还不让摸这个感觉。</p>
+<p class="transcript-line"><span class="time"><strong>[00:00:09]</strong> </span><span class="speaker"><strong>发言人1: </strong></span>他的老大最近就出来说，我们绝大部分的编码都已经给GLM跟PI了，然后整个费用减到原来一半以下。</p>
+<p class="transcript-line"><span class="time"><strong>[00:00:15]</strong> </span><span class="speaker"><strong>发言人2: </strong></span>现在是偏应用的时候，所以有时候中国模型发力的时候了。</p>
+<p class="transcript-line"><span class="time"><strong>[00:00:18]</strong> </span><span class="speaker"><strong>发言人3: </strong></span>我觉得不是拼应用，你是现在还要听什么AI创业吗？创什么业做出什么应用吗？没有，唯一做出来最大的应用现在就是豆包最近一说要收钱，很多人就开始骂了。这个人忘记了初心，没有牢记使命，对不对？</p>
+<p class="transcript-line"><span class="time"><strong>[00:00:42]</strong> </span><span class="speaker"><strong>发言人3: </strong></span>老师是不是用了fiber这个模型？有没有什么感受跟大家讲一下。我先跟大家道个歉，前面有这个观众给我们留言，你们人民公园不为人民，我们都听不懂，所以你说我不要绕。</p>
+<p class="transcript-line"><span class="time"><strong>[00:00:57]</strong> </span><span class="speaker"><strong>发言人1: </strong></span>我直接说。</p>
+<p class="transcript-line"><span class="time"><strong>[00:00:58]</strong> </span><span class="speaker"><strong>发言人3: </strong></span>结论稳稳的把我们拖住。</p>
+<p class="transcript-line"><span class="time"><strong>[00:01:00]</strong> </span><span class="speaker"><strong>发言人1: </strong></span>来了，结论直接来了，就是普通人跟顶级模型应该已经基本无缘了为什么这么说？就是这一次他回来是被切脑了的。简单的说就是他带了一个专门的在旁边看门的一个保镖，所有的需求先让这保镖过一把，只要保镖觉得不合理的都不到他那儿了然后这个是明面上你看到的保镖，实际上他暗处还有一个保镖，你看不到前面那个明的保镖，过了之后，那个暗的保镖觉得你的需求太傻逼了。他背后还会直接把你这个需求偷偷的转给一个更笨的模型回答，回答以后给你，你还不知道。所以这种事情就是我自己实测是碰到了名的那个保镖。然后有很多一些高手，他们会深入到底层去看日志的。他会看到一个叫做to dump to use favor，就是太傻逼了，以至于不可以用fever。</p>
+<p class="transcript-line"><span class="time"><strong>[00:01:50]</strong> </span><span class="speaker"><strong>发言人3: </strong></span>这个你的妹对。</p>
+<p class="transcript-line"><span class="time"><strong>[00:01:52]</strong> </span><span class="speaker"><strong>发言人1: </strong></span>有这么一个变量，就在这个日志里面明明的打着就会被触发了很多次，就是用户的那个需求太不配用这个模型，然后这玩意儿也被人抓包了，我是直接被拒了好几次了。我的需求都不算是很复杂的。</p>
+<p class="transcript-line"><span class="time"><strong>[00:02:07]</strong> </span><span class="speaker"><strong>发言人2: </strong></span>就是那个plantier那个老板说现在大模型都是过度销售，对吧？就是说让我们使得token越来越多花钱越多，但不干正事儿，说白了就是什么呢？就是花了钱还不让摸，就这种感觉。</p>
+<p class="transcript-line"><span class="time"><strong>[00:02:19]</strong> </span><span class="speaker"><strong>发言人3: </strong></span>你有这个感觉吗？花了钱不让摸。</p>
+<p class="transcript-line"><span class="time"><strong>[00:02:22]</strong> </span><span class="speaker"><strong>发言人2: </strong></span>我就很困惑，真的，你看咱就说这个OpenAI发了这个5.6，到现在连毛都没摸着。然后克拉克刚才老肖也说了，然后用半天还有限额，还有降至，还有切瑙各种问题。反倒是让我的感觉就是闭源模型就已经走到这个岔路口。</p>
+<p class="transcript-line"><span class="time"><strong>[00:02:38]</strong> </span><span class="speaker"><strong>发言人1: </strong></span>GV5.6它是出了，但是只是官宣那个20个合作伙伴可以用，而且他给你了三个等级，反正三个等级名字我也记不住，意思就是超牛逼，一般牛逼和普通牛逼。对，这三个东西你也用不上。所以这个事情就是可能蛮长一段时间，我们普通人能用的就是GPT5.5跟office 4.8，可能已经是顶级中的顶级的，就这样了。所以这个日常的话，我们很重要的一个点就变成啥？就是国产模型继续加大力度。</p>
+<p class="transcript-line"><span class="time"><strong>[00:03:07]</strong> </span><span class="speaker"><strong>发言人3: </strong></span>这个说到点上，你给我推荐那个G2M以后，我现在基本上大部分的场景都是用国产模型了。对，而且我发现用国产模型有一个特别牛逼的地方，就是你可以白嫖。Cloud code的所有的这些生态。没错，对，就当你把特别好，你把GLM什么全部接到cloud code里面，你会发现说所有为cloud code适配的生态它都能用。对，什么浏览器调用什么东西。对你就不用被绑定在codec上面，对吧？没错，真的很好用。</p>
+<p class="transcript-line"><span class="time"><strong>[00:03:37]</strong> </span><span class="speaker"><strong>发言人3: </strong></span>然后codex我觉得他也尽力想要开放了。但是其实你用codex去接其它的模型并不是那么的容易。上上一期节目有很多朋友在问，说我们code x怎么接那个sub agent的，对不对？</p>
+<p class="transcript-line"><span class="time"><strong>[00:03:50]</strong> </span><span class="speaker"><strong>发言人1: </strong></span>这难倒了很多人。</p>
+<p class="transcript-line"><span class="time"><strong>[00:03:51]</strong> </span><span class="speaker"><strong>发言人3: </strong></span>应该对我我会把这个提示词也放在这个评论区，或者贴图给大家。</p>
+<p class="transcript-line"><span class="time"><strong>[00:03:57]</strong> </span><span class="speaker"><strong>发言人1: </strong></span>我觉得质朴是做的特别好的，就是他长期是盯着的code戴眼镜的，所以它的code做的任何一个功能它都有跟进，基本上是这样。或者说他做的一些生态，他会想办法让自己融进去。所以在这个时候它切换就特别的丝滑。当然同时他自己也做了那个折扣的这样的一个平台虽然那个就没有那么成熟，但是如果大家有一些用量比较大的话，可以去那边。因为他那边有一个折扣，就大概是1.5 1.5倍倍1.5倍的一个。</p>
+<p class="transcript-line"><span class="time"><strong>[00:04:25]</strong> </span><span class="speaker"><strong>发言人3: </strong></span>但我觉得这个真的是被谁想说伪需求，你都用GOM的1.5倍。对我也没有。</p>
+<p class="transcript-line"><span class="time"><strong>[00:04:31]</strong> </span><span class="speaker"><strong>发言人1: </strong></span>没啥感觉。就是我原来耗5%，现在变成7.5%有什么。</p>
+<p class="transcript-line"><span class="time"><strong>[00:04:35]</strong> </span><span class="speaker"><strong>发言人3: </strong></span>没有任何感觉。</p>
+<p class="transcript-line"><span class="time"><strong>[00:04:37]</strong> </span><span class="speaker"><strong>发言人1: </strong></span>对对对，就是用量大的，又然后那个也能比较承受，有一些不是很成熟的问题，因为他那个毕竟他那个新的平台没有那么成熟。</p>
+<p class="transcript-line"><span class="time"><strong>[00:04:46]</strong> </span><span class="speaker"><strong>发言人3: </strong></span>对，有些问题，所以我真的给质朴提个建议。你现在z code做的跟那个codex不能说一模一样，就是同父异母。</p>
+<p class="transcript-line"><span class="time"><strong>[00:04:55]</strong> </span><span class="speaker"><strong>发言人1: </strong></span>也基本上就是差不多。对它融合了code x加cloud code的很多设计。</p>
+<p class="transcript-line"><span class="time"><strong>[00:04:59]</strong> </span><span class="speaker"><strong>发言人3: </strong></span>还是对你不要去抄code x，你至少借鉴一下cloud code，这么成熟的生态搬到你这code上面来总是更好的一个选择。</p>
+<p class="transcript-line"><span class="time"><strong>[00:05:09]</strong> </span><span class="speaker"><strong>发言人1: </strong></span>对，就是我们应该有很多听众他是想要试，但是试不到。如果实在试不到，那你去试mini max或者是kimi的那些模型也都很不错。因为这个事情就是我我觉得说可以分享一个大家其实没有想到的一个应用的程度。</p>
+<p class="transcript-line"><span class="time"><strong>[00:05:24]</strong> </span><span class="speaker"><strong>发言人1: </strong></span>就是海外的是coin base这家公司，它是专门做加密货币的，是美股第一家上市的加密货币的上市公司。他的老大最近就出来说，我们已经主绝大部分的主流的处理编码都已经给GLM跟kimi了。然后直接整个费用减到原来一半以下。而且还有一个扎心的数据，91%的员工从来没有触发过使用上限。那他的话其实就是你想一下，这是一个金融公司，合规准确性要求是最高的。他们已经在内部已经是这么去使用了。所以我就是说如果你GLM搞不到的话，kimi肯定用。总之就是国内的这些模型你都搞起来，现在不会比海外差多少。</p>
+<p class="transcript-line"><span class="time"><strong>[00:06:05]</strong> </span><span class="speaker"><strong>发言人3: </strong></span>我插一下，就是人民公园为人民，你这个东西一点都不为人民。人家上次吐槽你们的三个人真的是土豪，coding plan都抢了，到御三家都都付费，你们是什么意思？跟人民对着干吗？其实也不是，主要是我们这个贤哥土豪对吧？贤哥，我公司在海外，都不是说我们俩注意而已。对对对，这个不是我们土豪，这个不是我们土豪。</p>
+<p class="transcript-line"><span class="time"><strong>[00:06:33]</strong> </span><span class="speaker"><strong>发言人3: </strong></span>其实你就这么理解了，既然fable都这个鸟样了，对不对？你就可以预见说大概率反正如果cloud不发力，OpenAI也就狗一下，对不对？就大家都都搞一下。对，然后不能说模型停滞，只能说是说在现阶段拼的就是说谁用量大谁便宜，谁能干活，然后你们去搞对吧？</p>
+<p class="transcript-line"><span class="time"><strong>[00:06:55]</strong> </span><span class="speaker"><strong>发言人3: </strong></span>最近像什么很火的，现在work body也非常火。然后包括像飞书，最近也在发力，飞书COI也在开始开放。然后给你一个bridge接进来，我看非常多人也把cloud code什么都接进去了，对吧？可能他clo code后面跑的可能就是国产模型。</p>
+<p class="transcript-line"><span class="time"><strong>[00:07:12]</strong> </span><span class="speaker"><strong>发言人1: </strong></span>是的，很正常，很正对吧？</p>
+<p class="transcript-line"><span class="time"><strong>[00:07:13]</strong> </span><span class="speaker"><strong>发言人2: </strong></span>我觉得cloud我真的对他没好感，他太作了。一个你看先自己说这个AI有风险，让大家都不要搞了，他自己一个人搞，然后后来让美国政府给禁了，对吧？这段时间又听说专门给中国人安了暗门。我看最近好像阿里也发了个文章，要求内部全面禁用zarb I的模型。是的，对，所就是说我对这家公司真的没有好感，就是说以人民为敌，吧？永远站在人民的对立面上，这点是让我很败好感。</p>
+<p class="transcript-line"><span class="time"><strong>[00:07:40]</strong> </span><span class="speaker"><strong>发言人2: </strong></span>我有个问题问老秋，就是你在GM的话你怎么给他授权呢？就是我按照小苏给我建议，直接在lock code里面装了这个GM对吧？然后装完之后，但是每一次经常他会要求我授权，就会经常打断那些执行任务。对，就这种OKOK。</p>
+<p class="transcript-line"><span class="time"><strong>[00:07:55]</strong> </span><span class="speaker"><strong>发言人1: </strong></span>这是幽龙模式吗？这是个好问题。就是这个幽龙模式你可能不知道，因为cloud code是一个CLI。对，就是它有一个叫其实就是bypass，bypass permission, 就是所有的东西授权。因为我建议的是你找一个安全的磁盘里面开一个安全的目录，然后这里完全授权给他，然后让他在里面随便找。</p>
+<p class="transcript-line"><span class="time"><strong>[00:08:16]</strong> </span><span class="speaker"><strong>发言人2: </strong></span>但是比如说我想让他读取我硬盘上的文件，或者读取我那个drive里的文件，这个时候就必须要跨过这个目录去授权。像这种情况下，那有没有风险呢？或者说能不能授这个权呢？</p>
+<p class="transcript-line"><span class="time"><strong>[00:08:28]</strong> </span><span class="speaker"><strong>发言人3: </strong></span>我觉得这是任务的边界，我觉得不是模型或者是说权限的边界。就比如说你真的要跑任务，你隔离一台单独的电脑，其实当然是很爽了。但是跟你的本机，我们叫做所谓什么上下文对吧？它就断掉了。很多时候其实边界是任务的边界，你可能在本机放个文件你要跑，但是你跑的是固定的几个skill或者固定的一些程序，对吧？那那其实也能够隔离掉大部分的风险。</p>
+<p class="transcript-line"><span class="time"><strong>[00:08:56]</strong> </span><span class="speaker"><strong>发言人1: </strong></span>我的做法是我用一台虚拟机，现在虚拟机在我的主电脑上，那这台虚拟机肯定跟我的主电脑是合是隔离的，但是我的主电脑可以共享一个关键的目录，就比如说这个目录叫做don lose，就是我的我下载的一些东西。那下载的东西一般都不是很重要的，网上下的肯定有copy的，你随便干。当然我会一些重要的共通的一些上下文的文档或者什么东西就放到downadup里面。然后这台虚拟机可以去读我的downadup，如果我需要什么东西，我就把那个load扔就完了。那这样子的话就可以达到一个基本上比较安全。</p>
+<p class="transcript-line"><span class="time"><strong>[00:09:31]</strong> </span><span class="speaker"><strong>发言人3: </strong></span>我给你回到这个人民公园为人民的一个场景。我贤哥刚才讲这个问题，我其实也没那么复杂。我有一个招就是我把code s打开，code s旁边不是有个侧边栏吗？侧边栏打开里面有个终端，就是你同时在code s里面开三个端，一个是code s本身，一个是cloud hold，一个是国产模型。你直接开三个终端，直接就这么用。对，你连cloud也不用买。我跟你讲你那个什么美国豆包antigravity COI装一个，直接用它免费额度白嫖，上面靠的模型帮你做两把规划，那个还是没有问题的。直接白嫖，直接白嫖对不对？</p>
+<p class="transcript-line"><span class="time"><strong>[00:10:12]</strong> </span><span class="speaker"><strong>发言人2: </strong></span>当然你说你说那句话，对，就是说其实任务的边界，但任务让我想到什么呢？你看我们作为私人用户，可以随便搞，也没有什么所谓的AI忠诚度或者怎么样这些可言。但如果作为一家企业，比如说我现在在里面做的一些事儿，其实就是为我的公司在做的。就是为餐馆做的什么网页也好，然后设计一些营销方案也好，甚至一些物料等等的。像这些事情，其实我希望的是说一个模型能帮我搞定，能够有连续性，尤其是上下文，有些时候跨天跨周的事情等等的。但如果让我在这个模型间不停的切来切去，还要自己人脑去分配是这些甚至这些plan算力等等的事情是很辛苦的。</p>
+<p class="transcript-line"><span class="time"><strong>[00:10:50]</strong> </span><span class="speaker"><strong>发言人2: </strong></span>你就想如果我是一家企业小企业主，吧？你每天每天要忙着进货，忙着去销售，忙着处理客诉等等等。然后突然有一天有人说AI的貌提效，可是让我进入到这个状态中，让我先学习。你不觉得这个事儿其实是很大的摩擦力吗？</p>
+<p class="transcript-line"><span class="time"><strong>[00:11:04]</strong> </span><span class="speaker"><strong>发言人3: </strong></span>虽然说所以我说为什么最近我的巴火了，直接在word body里面用全部的国产模型，好像是可以统一买一个plane是吧？就是把把在work body里面，把所有国企国产模型都买了是吗？</p>
+<p class="transcript-line"><span class="time"><strong>[00:11:20]</strong> </span><span class="speaker"><strong>发言人1: </strong></span>我就自己好像也在做这样也也是这样也在做这样的事情，就方舟，好像他们也在做这个事情。但这在贤哥不适用，因为写哥在海外，他的work body海外版跟国内是两个产品。</p>
+<p class="transcript-line"><span class="time"><strong>[00:11:30]</strong> </span><span class="speaker"><strong>发言人3: </strong></span>我就说贤哥这个需求，他是人在海外，他这个需求是很国内的需求。对国外为什么你说work body能火？你突然说我是不是我们洞察到了一个点？就是我就是又想干活，又想coding，也有普通任务，还想把所有模型都用上。我是不是在里面买一个什么workday的coding plan全部买了，或者是tree里面买一个应该是我们前两天看到是字节的哪一个coding plan，就是把除了豆包以外的所有模型都卖了。</p>
+<p class="transcript-line"><span class="time"><strong>[00:12:05]</strong> </span><span class="speaker"><strong>发言人1: </strong></span>好像是方舟还是什么，我也忘了。对。</p>
+<p class="transcript-line"><span class="time"><strong>[00:12:07]</strong> </span><span class="speaker"><strong>发言人3: </strong></span>就是可以看到笑死。</p>
+<p class="transcript-line"><span class="time"><strong>[00:12:09]</strong> </span><span class="speaker"><strong>发言人1: </strong></span>我就啥都有。</p>
+<p class="transcript-line"><span class="time"><strong>[00:12:10]</strong> </span><span class="speaker"><strong>发言人3: </strong></span>前两天那个谁拍NT的那个创始人出来喷，你说我花那么多钱买你的模型，全部花在你这个推理上面，妈的你推理跟我有什么关系？</p>
+<p class="transcript-line"><span class="time"><strong>[00:12:20]</strong> </span><span class="speaker"><strong>发言人2: </strong></span>对，我要的产出结果没有，而且很多时候产出机构还故弄玄虚，这是我觉得最操蛋的地方，真的。</p>
+<p class="transcript-line"><span class="time"><strong>[00:12:27]</strong> </span><span class="speaker"><strong>发言人1: </strong></span>所以我记得最近还出了另外一个词的token magazine，还有一个token .</p>
+<p class="transcript-line"><span class="time"><strong>[00:12:31]</strong> </span><span class="speaker"><strong>发言人3: </strong></span>minimizing。讲人话不要。</p>
+<p class="transcript-line"><span class="time"><strong>[00:12:35]</strong> </span><span class="speaker"><strong>发言人1: </strong></span>绕最小。这个东西就是写哥你要的其实是这个，你要的是那个token最小化，然后效果最大化。其实说的是这个事情。</p>
+<p class="transcript-line"><span class="time"><strong>[00:12:43]</strong> </span><span class="speaker"><strong>发言人2: </strong></span>对，说不其实说起来也没有那么极端，不是说非得最小化，但起码你说你让我的东西觉得在我可控范围之内，我能拿到我想要的东西，然后能够不断迭代。别让我在不同的plan里面切来切去，还要考虑上下文。实际上这个记忆迁移考虑环境，考虑IDE，考虑CLI，我完全不懂的东西，你让我学，你这是你这不是难为人。</p>
+<p class="transcript-line"><span class="time"><strong>[00:13:02]</strong> </span><span class="speaker"><strong>发言人3: </strong></span>完全不为人民。对，就是感觉。</p>
+<p class="transcript-line"><span class="time"><strong>[00:13:05]</strong> </span><span class="speaker"><strong>发言人2: </strong></span>就是说我只能躺在沙滩上不断的喘气，然后最终被淘汰掉。</p>
+<p class="transcript-line"><span class="time"><strong>[00:13:09]</strong> </span><span class="speaker"><strong>发言人3: </strong></span>那种感觉就是特别的。所以你看，我们聊到一个点，就是为什么我突然感觉最近这些什么worker body，什么tay这些东西都特别火，而且身边开始有很多人在用，可能就是这个原因，大家没有讲出来，我觉得非常接近闲客这个需求，而且海外肯定也是有这样的需求的对，但是海外他们可能就自助了。</p>
+<p class="transcript-line"><span class="time"><strong>[00:13:32]</strong> </span><span class="speaker"><strong>发言人1: </strong></span>对吧？对，就自助版open code，各种东西。</p>
+<p class="transcript-line"><span class="time"><strong>[00:13:35]</strong> </span><span class="speaker"><strong>发言人3: </strong></span>open code其实挺好用的。</p>
+<p class="transcript-line"><span class="time"><strong>[00:13:36]</strong> </span><span class="speaker"><strong>发言人1: </strong></span>但是这里面我在这回想着回看一段历史，觉得还是会很像组装机跟那个品牌机的那个嗯还没有接上的那个时代。就是现在还是得靠组装机打天下，是性能最优，这肯定的。但是品牌机还没跟上，这玩意儿也没有一个品牌机把它整合的很好。我们什么编码、日常工作、用电脑什么全部都整好。里面你给我内置5到不要五个了，3到5个模型就可以了，对吧？就各自能够把这个东西弄好，然后有一个总价对吧？我这个一个月大概有个封顶上线，我就可以把所有活干了。如果有这样的东西肯定很爽，现在就是没有这么好的东西。</p>
+<p class="transcript-line"><span class="time"><strong>[00:14:13]</strong> </span><span class="speaker"><strong>发言人2: </strong></span>你就这么讲，我一个月给你500块钱，我就这500块钱，我就有人敢有这魄力，把几个模型都整合在一块儿，把这些基本功能做到，就告诉我哪些能做到，能做不到。我觉得90%的就是日常我们这种升斗小民的需求都能满足。不并不是说每一个都能像老休一样干一个活能干干十几个小时这种长生任务的。现在大模型已经不是在说单纯的拼算力，单纯的拼模型的这个参数了。现在是偏应用的时候，所以也就是中国模型发力的时候了，对吧？</p>
+<p class="transcript-line"><span class="time"><strong>[00:14:41]</strong> </span><span class="speaker"><strong>发言人3: </strong></span>然后你看我觉得不是拼应用，我觉得不是拼。因为我觉得现在大模型以前还会说，你就现在还要听什么AI创业吗？创什么业做出什么应用吗？没有，就AI唯一做出来最大的应用，现在可能就是code action，对吧？你就说明这个东西实际上还是很多是依靠你自己DIY自己手搓。我个人会感觉到说，至少在企业端，那很多事情大家就靠手搓了，就自己手搓一些事情做了，然后把一些基本的软件给干掉了，对吧？我电脑上的软件肯定也是越来越少。</p>
+<p class="transcript-line"><span class="time"><strong>[00:15:13]</strong> </span><span class="speaker"><strong>发言人2: </strong></span>我还真没这么悲观，我觉得这只是一个阶段性的东西。你看咱们的早晚报上，今天有一新闻，说这OpenAI预计想要把自己5%的股份给到美国公募基金，对吧？说未来要对为美国的事业贡献自己的力量。虽然因为我觉得这是个空棺铁，但是不管怎么样，你看他在上市前的这个动作，就频繁的放出这种消息动作还有什么东西，我觉得都是为了自己的估值服务的，而不是真正模型的能力服务的，所以这点就让我很鄙视。然后你说code x我觉得code x本身就是它有的，他只是因为这个clo code火了之后要追上来，为了把自己估值提高，所以现在不得不把自己这个事情限制在这个单一的场景之下了。</p>
+<p class="transcript-line"><span class="time"><strong>[00:15:53]</strong> </span><span class="speaker"><strong>发言人3: </strong></span>再讲一下我们的早晚报，早晚报服务升级了，一直没跟大家讲，一直没有合适的机会跟大家宣布。就是现在你可以通过飞书来订阅我们的早晚报，每天早晚飞书会直接推给你一条语音的音频，以及若干条深度解读。已经帮你生成好的语音播报，你点开就能听了。</p>
+<p class="transcript-line"><span class="time"><strong>[00:16:15]</strong> </span><span class="speaker"><strong>发言人3: </strong></span>海外的用户在telegram上面也可以直接去订阅我们的早晚报了。直接打开一个telegram的小程序，你在上面直接可以翻牌，然后可以标注，可以记笔记等等的。这些功能都已经在飞书跟telegram上面实现了。所以想要尝试我们招商报用户都可以先在飞书跟telegram上面去体验了。</p>
+<p class="transcript-line"><span class="time"><strong>[00:16:37]</strong> </span><span class="speaker"><strong>发言人2: </strong></span>但他也没放弃别的，你看他前两天不还出了什么硬件，号称是我出了什么硬盘。</p>
+<p class="transcript-line"><span class="time"><strong>[00:16:42]</strong> </span><span class="speaker"><strong>发言人3: </strong></span>对吧？就是你还不如找华强北那个硬件。</p>
+<p class="transcript-line"><span class="time"><strong>[00:16:45]</strong> </span><span class="speaker"><strong>发言人1: </strong></span>对我看了一个意见，我估计就要凉凉。</p>
+<p class="transcript-line"><span class="time"><strong>[00:16:48]</strong> </span><span class="speaker"><strong>发言人2: </strong></span>对对对，那天老师给我发新闻的时候。</p>
+<p class="transcript-line"><span class="time"><strong>[00:16:50]</strong> </span><span class="speaker"><strong>发言人3: </strong></span>我看之后我说我极度不不喜欢极度不那种反抗。我那边你还不找华强北乔纳森，对不对？</p>
+<p class="transcript-line"><span class="time"><strong>[00:16:57]</strong> </span><span class="speaker"><strong>发言人2: </strong></span>那天我跟老邱说，我说真的不要我就做一个能适配X手柄的，就是XX box手柄或者PS手柄的，直接就直接用手柄直接操作就完事了，还做什么键盘。对，不是，咱说回来，这不是我观点。我想说的是什么？我觉得我不同意，现在没有AI创业机会，我觉得机会一大把。这个第一位大把就是在于现在模型前进速度太快了，就真正能了解现在模型到什么地步，能力的边界和各个模型的优劣势。这件事儿本身学习成本就很高了。那问题是我们这个东西应该普惠，应该让更多的大家都能用上才行，而且能用到每个模型的优势才行。并不是说简单做个网页或者说做几个UI就可以解决的，因为现在模型也在越来越便宜。</p>
+<p class="transcript-line"><span class="time"><strong>[00:17:39]</strong> </span><span class="speaker"><strong>发言人2: </strong></span>当时刚开始有直流电的时候，其实很贵的，而且直流电本身储藏运输都是问题。但有了交流电，有了特斯拉的交流电之后，才真正开始了电气化时代。现在也正在这个时间点上，所以我更认为现在就是直流电和交流电之争，这个时候就是闭源和开源的之争。然后什么时候决出了一方的这个绝对优势之后会有一个大爆发。</p>
+<p class="transcript-line"><span class="time"><strong>[00:18:00]</strong> </span><span class="speaker"><strong>发言人1: </strong></span>我刚好可能在小苏跟这个贤哥中间，我看这个东西实际上是会需要有一个过程，不是绝对不行，也不是一定就很好。我看到了一个口子，比如说就是开头我们聊飞波舞，我是很失望，是因为我是专业人士，我觉得被他阉割了我很难受。我老是我的好的需求，老是被他说成是什么安全隐患，不给我出方案。</p>
+<p class="transcript-line"><span class="time"><strong>[00:18:22]</strong> </span><span class="speaker"><strong>发言人3: </strong></span>我是觉得干我屁事，因为我不用。</p>
+<p class="transcript-line"><span class="time"><strong>[00:18:24]</strong> </span><span class="speaker"><strong>发言人1: </strong></span>所以这个事情就是太恶心到我了。但是我有看到一些知名的博主，他们在用它去做一些比如说新闻资讯类的强化。他碰到了这种全球化里面，它其实有一些很基础的一些问题，不知道怎么做。飞波五可以给出很好的整个的国际的市场的调查。而且能够直接帮他去找到国际上他不熟悉的那些云厂商。比如说什么cloud flair，然后给他整出一个方案，而且能够上手帮他主动的去调他的浏览器，去跟比如说这些云厂商的工程师发工单发完工单跟那个工程师人肉跟进。</p>
+<p class="transcript-line"><span class="time"><strong>[00:19:01]</strong> </span><span class="speaker"><strong>发言人1: </strong></span>我看到了对这些事情，其实我是觉得他是被震撼到了。我这在我是没被震撼到，但是我是觉得说为什么他会被震撼到？我想的是这件事情为什么就我会觉得说可能对于大多数人的那个下限确实被大大的提高了。就是说这个事情原来肯定是工程师做的。你想一下跟云厂商的工程师发工单，还要沟通这个工单里面的细节，有可能一定不可能是一个自媒体博主能做的事儿，一定是一个有专业技术的工程师干的。以前一定是这样。你我我觉得说作为一个自媒体博主，比如说小宋，你去你想都不会去想你绝对不会去想说跟阿里云的工程师发个工单，跟他讨论一下我们一个什么服务怎么做。你肯定不会这么做，但是那个vivo 5就帮他这么想了，而且直接帮他这么干了，直接去聊了。</p>
+<p class="transcript-line"><span class="time"><strong>[00:19:48]</strong> </span><span class="speaker"><strong>发言人1: </strong></span>你看他讲的那种场景就很好玩，就是因为他自己作为那个账号的所有人会收到那个短信。收到短信说你的工单被跟进了，然后你的工单被执行了。他说我靠，我没有下工单。这种事情就是好多人干了以后还干的不错。那那这个东西我觉得说至少这一点主动性，然后打开说你原来根本不敢干的一个事情的这种可能性，而且还能干成了。那这个东西我觉得说事实上是有很多机会，我觉得这个地方的机会就是在的。但是这里还是少数人我觉得有很多现实的东西会卡住，就像我们聊了很多的什么token自由，很多人是说我连plane n都抢不到。对。</p>
+<p class="transcript-line"><span class="time"><strong>[00:20:24]</strong> </span><span class="speaker"><strong>发言人3: </strong></span>那你我连自由都没有跟我讲token。</p>
+<p class="transcript-line"><span class="time"><strong>[00:20:26]</strong> </span><span class="speaker"><strong>发言人1: </strong></span>对我连根本没有机会去用这个。那你跟我打通，你跟我说可以买这几家的token，但是要买我花这个钱我还是肉痛的对对吧？我为什么要花这个钱？其实各家的基础的plan不贵，大概几十块钱。100块钱以内应该都可以起步，而且够捣鼓一个你原来想过的某个小想法。</p>
+<p class="transcript-line"><span class="time"><strong>[00:20:50]</strong> </span><span class="speaker"><strong>发言人3: </strong></span>但是我觉得有一个很大的问题，就是很多商业模式你在可能在国外还是能成立的。你在国内就嗝屁了，对吧？比如说豆包最近收钱，你看豆包最近一说要收钱，很多人就开始骂了。你这个人什么忘记了初心，没有牢记使命，对不对？就开始骂了，在骂。对，强如豆包，但我觉得豆包收钱是对的，为什么该为什么不收钱？你豆包不收钱，千问也不收钱，千万不收钱，腾讯也不收钱，你们全部都不收钱。我觉得这很多模式你就变成你在中国搞不动。</p>
+<p class="transcript-line"><span class="time"><strong>[00:21:29]</strong> </span><span class="speaker"><strong>发言人3: </strong></span>AI有一个非常大的问题，他不像移动互联网说我是有这个边际成本递减的，有规模效应的。没有就你老修的数据拿去给他训练未必是有用的。对，然后我在AI上面用的使用的时长什么东西的对AI模型公司也未必是有任何作用。对它不可复制不标准。所以这个问题就变成说你免费模式在AI上面，我个人感觉很悲观，很难持续。你是必须要收钱的，然后你收钱你怎么收？我觉得这个问题就是又是。</p>
+<p class="transcript-line"><span class="time"><strong>[00:21:59]</strong> </span><span class="speaker"><strong>发言人1: </strong></span>一个死循环了。所以现在的循环会循环到你还是企业买单。但是企业会在骂你这个token maxing的问题，就是你你没事在那边思考个毛线，这个就是一个定时任务，你也要思考半天，烧我的token。是的。</p>
+<p class="transcript-line"><span class="time"><strong>[00:22:12]</strong> </span><span class="speaker"><strong>发言人2: </strong></span>我要抢答一下，我不觉得死心，对这个问题我真的思考过。我首先我半个同意你说的，就是说现在来讲靠这个模型或者说靠这个plan来收钱这种事儿中国走不通。就是无论豆包腾讯你谁敢收钱谁就挨骂，而且挨了骂之后你还收不到钱。但是我觉得这个东西就是什么？因为中国可以把这个token的成本，有电力的优势等等，能把这个成本降低到国外，海外成本7分之1，5分之1就能让更多人开始使用起来。</p>
+<p class="transcript-line"><span class="time"><strong>[00:22:39]</strong> </span><span class="speaker"><strong>发言人2: </strong></span>然后这个有点像什么？举个例子，就好像我家闺女儿她喜欢画画，然后你给他纸，你给他多少张白纸，他能没上面可能画两笔就完了，就扔了，然后这张纸就没用了。但是你给不给他画，我一定会给他画。就算他能他一天给我浪费100张纸，我也会给他画，他只要愿意坐在那画就行。</p>
+<p class="transcript-line"><span class="time"><strong>[00:22:56]</strong> </span><span class="speaker"><strong>发言人2: </strong></span>所以我的感受是什么？就是说中国人大家就继续用免费的，用这个东西去干点正经事儿。当然这里面可能100个人有99个都没干什么特别正经的事儿，但哪怕有你？但我相信总会有一个比我聪明的人和有正经想法，有宏大志向的人，用了AI干了点什么事儿。然后这件事儿无论未来是否成为一个新的产品，可以让大家心甘情愿付费。还是说通过他的这个研究，推进了我们科研的一个进步。大家听听相声都愿意付钱，如果这个事儿真能解决我生活的需求，我干嘛不付钱。所以我对这件事儿长期乐观，但短期内像你说的，没人能说道歉。</p>
+<p class="transcript-line"><span class="time"><strong>[00:23:31]</strong> </span><span class="speaker"><strong>发言人3: </strong></span>我觉得说但凡一个东西上了黄又上了赌，这个东西才会火。比如移动互联网对吧？但是AI这个东西上了黄又上了赌，强如马斯克都火不了。所以我就觉得说这东西对于创业，或者说对于说真的是变现，这个还是蛮难的。</p>
+<p class="transcript-line"><span class="time"><strong>[00:23:49]</strong> </span><span class="speaker"><strong>发言人2: </strong></span>上皇上赌肯定能能赚钱，人马斯克只有更赚钱的东西。人对于人家来讲。</p>
+<p class="transcript-line"><span class="time"><strong>[00:23:54]</strong> </span><span class="speaker"><strong>发言人3: </strong></span>好的，我格局小了。</p>
+<p class="transcript-line"><span class="time"><strong>[00:23:56]</strong> </span><span class="speaker"><strong>发言人1: </strong></span>我格局小高了。对。</p>
+<p class="transcript-line"><span class="time"><strong>[00:23:57]</strong> </span><span class="speaker"><strong>发言人2: </strong></span>人家孙悟空是世界首富。</p>
+<p class="transcript-line"><span class="time"><strong>[00:23:59]</strong> </span><span class="speaker"><strong>发言人3: </strong></span>你让人家看，人家不只上皇上赌，人家上太空。对对对。</p>
+<p class="transcript-line"><span class="time"><strong>[00:24:02]</strong> </span><span class="speaker"><strong>发言人2: </strong></span>上天了。</p>
+<p class="transcript-line"><span class="time"><strong>[00:24:04]</strong> </span><span class="speaker"><strong>发言人3: </strong></span>人家上天了，上天了，上流上天了这。该音频由AI生成。</p>]]></content:encoded>
+            <pubDate>Tue, 07 Jul 2026 23:00:00 GMT</pubDate>
+            <guid>6a4d1be23fb7233cbf45564f</guid>
+        </item>
+        <item>
+            <title>国产AI掀桌！GLM 5.2+Codex实现Token自由！下一代人真的不用电脑了？</title>
             <link>https://www.xiaoyuzhoufm.com/episode/6a433d3e2e335a35a80b9624</link>
             <description>GLM 5.2 把&quot;长程干活&quot;这件事打平之后，真正的问题浮出水面：当 CLI 成了 agent 之间的母语，GUI 到底会死到什么程度？这期我们从数十万美金的 UI 踩坑讲到&quot;操作消失&quot;，得出一个反共识结论，被消灭的不是界面，而是输入这个动作本身！
 00:00 GLM 5.2 又一个 DeepSeek R1 时刻？
@@ -4945,200 +5112,6 @@ Apple podcsat朋友请移步👋
 <p class="transcript-line"><span class="time"><strong>[00:50:28]</strong> </span><span class="speaker"><strong>发言人1: </strong></span>对，然后我借用最后我就借用劈柴的一句话，他说这种1.0的时候，通过原生多模态加超长上下文奠定了一个很好的基础。到2.0的时候，其实是在agent跟编码上面取得了非常大的一个进步。那我们在展望去脉3.0，我个人觉得说我看到了不只是说很多前端的创新，对吧？也不只是说它的整个重构。更多的是我觉得说可能他让我们真这能看到一个一次性软件的未来。然后他真的让我们能看到说我们可以在不久将来就可以抛弃却的UI真的把AI变成一个劳动力来用了。所以这个是我觉得说gm I3.0应该会这是一个承前启后非常重要的一代。所以最后我们就祝google好人一生平安。</p>]]></content:encoded>
             <pubDate>Thu, 20 Nov 2025 11:23:14 GMT</pubDate>
             <guid>691ef9666018cc2c98c96224</guid>
-        </item>
-        <item>
-            <title>中美AI联手收割世界？我们用6大模型做了个产品，发现了一个残酷的真相…</title>
-            <link>https://www.xiaoyuzhoufm.com/episode/691c4aa1cbba038b422350ef</link>
-            <description>如果我告诉你，中美 AI 竞争的本质区别，不是算力也不是算法...而是一场联合收割。在我们用6大模型做了个产品后，终于知道为什么为什么美国AI估值是中国AI的100倍，而中国模型价格仅是美国的1/10，为什么美国科技巨头一边如火如荼地追求通用人工智能 ，一边开始悄悄“套壳”中国的模型，这期视频，我们就来一口气说清楚，这两种截然不同的“AI 物种”到底意味着什么
-00:00 黄仁勋真的私下预言中国 AI 将成最终赢家吗？
-02:49 硅谷明星公司为何偷偷“套壳”中国开源模型？
-03:50 我们用6大模型15个Agent做了一款产品后的结论…
-07:19 为何语音比文字更简单？
-09:37 300毫秒为何是生死线？
-10:40 中国模型如何做到仅用竞品 1% 的价格生存？
-13:13 为何我们要坚持用旧模型？
-16:17 便宜是核心生存能力吗？
-18:34 开源模型能打败闭源吗？
-27:55 美国AI估值是中国AI的100倍，而中国模型价格是美国的1/10
-32:44 中国老板为何看轻技术？
-36:34 为什么说中美 AI 竞争注定没有真正的输家？
-42:16 中美AI真有默契分工吗？
-【订阅JustSayAI早晚报】
-🌈新朋友！订阅「JustSayAI早晚报」· 每日两封 · 一键听报
-🌟老朋友！加入会员获取JustSayAI早晚报+深度研报+文字专栏
-【主播小红书】：
-📕叫我小苏就好啊
-【关注频道】：
-▶️Youtube｜📺B站｜📕小红书｜📻Podcast
-📱商务合作/听友群：justsayai666</description>
-            <content:encoded><![CDATA[<p class="transcript-line"><span class="time"><strong>[00:00:00]</strong> </span><span class="speaker"><strong>发言人1: </strong></span>中国做的AI跟美国做的AI其实两个品类，你说中美有没有竞争？有，但是实际上那个竞争是什么？毛泽东讲的叫你打你的，我打我的。像美国公司它可能会把模型算法这些东西看得很重。但其实中国公司做模型做技术的专家，一轮一轮被这个土老板羞辱下来，对不对？</p>
-<p class="transcript-line"><span class="time"><strong>[00:00:18]</strong> </span><span class="speaker"><strong>发言人1: </strong></span>大家都觉得他妈的软件不值钱，技术也不值钱。对，大家都是更看重的是应用。那今天把软件变成模型了，大家天然也会觉得什么的模型不值钱。开源就开源，模型能值几个钱，我就开源了对不对？我开源我跟你拼了。</p>
-<p class="transcript-line"><span class="time"><strong>[00:00:34]</strong> </span><span class="speaker"><strong>发言人2: </strong></span>我可能会觉得其实本质上大家是都赢了。</p>
-<p class="transcript-line"><span class="time"><strong>[00:00:37]</strong> </span><span class="speaker"><strong>发言人1: </strong></span>马斯克其实看得很明白，就是有一个笑话，说现在进x ai你不会讲中文是不行的。最后一个白人被开掉了以后就全华人班底了。</p>
-<p class="transcript-line"><span class="time"><strong>[00:00:46]</strong> </span><span class="speaker"><strong>发言人2: </strong></span>Meta也类似。</p>
-<p class="transcript-line"><span class="time"><strong>[00:00:55]</strong> </span><span class="speaker"><strong>发言人1: </strong></span>很多听友也给我们反馈说，可不可以聊一下中国的模型对吧？我们国内模型的进展让我们很多海外的朋友也知道一下。因为据他们说自己也生活在一个外网的信息茧房里面对吧？你这个我觉得。</p>
-<p class="transcript-line"><span class="time"><strong>[00:01:12]</strong> </span><span class="speaker"><strong>发言人3: </strong></span>不会是黄仁勋。</p>
-<p class="transcript-line"><span class="time"><strong>[00:01:16]</strong> </span><span class="speaker"><strong>发言人1: </strong></span>因为同一个事情，国内跟外网的整个反馈其实是非常多的。就像最近其实国内讨论最多的一个可能是假新闻。大家可能说黄仁勋有一个密谈，对吧？预言中国AI最终即将拿下这个中美AI的决胜，对吧？是是是对他有一个。</p>
-<p class="transcript-line"><span class="time"><strong>[00:01:33]</strong> </span><span class="speaker"><strong>发言人2: </strong></span>这样的一个预言的，反正有鼻子有眼的，说什么好多个人同时对一个什么文字稿都有，我觉得真的很能扯。</p>
-<p class="transcript-line"><span class="time"><strong>[00:01:41]</strong> </span><span class="speaker"><strong>发言人1: </strong></span>在座的还有谁谁谁对对对如是我闻，谁谁谁对对对对。</p>
-<p class="transcript-line"><span class="time"><strong>[00:01:46]</strong> </span><span class="speaker"><strong>发言人3: </strong></span>一套一套的。但那天我咱们三个聊天的时候，觉得小苏说一句话说等等，他只是说不是原话，并不是说他没有这么想过。</p>
-<p class="transcript-line"><span class="time"><strong>[00:01:57]</strong> </span><span class="speaker"><strong>发言人2: </strong></span>对对对，我想起来了。</p>
-<p class="transcript-line"><span class="time"><strong>[00:01:59]</strong> </span><span class="speaker"><strong>发言人3: </strong></span>其实我觉得这个事儿特别有意思，就在于为什么这个事儿能传播开。就假设如果他只是口误，或者说只是真的是被隐隐身了，其实还是因为他大家在心中有这么一句话，只不过如果你从如果真的是从他嘴里说出来，大家会觉得比较嗨，比较容易就是说。对，就是你想你看我说的，你看连连老黄都这么想，连连这个市值5万亿的这个企业的负责人都这么想，肯定是这么想。</p>
-<p class="transcript-line"><span class="time"><strong>[00:02:24]</strong> </span><span class="speaker"><strong>发言人1: </strong></span>但我觉得就是说苍蝇不会叮那个无缝的蛋，对不对？那肯定就是说你字里行间或者是怎么样，你其实透露出了这样的一些观点。但我觉得也很有可能，因为作为老黄来看，站在这个产业链的最上游来看这个事情，其实他能够看得比较客观，看得比较明白，而且我觉得最近老兄你有你有感觉吗？就是好像国内的一些模型在硅谷用的也比较多，对吧？像LBNB，LBNB也出来讲了，说我在用千问的对不对？然后最近说爆出你的最爱套。</p>
-<p class="transcript-line"><span class="time"><strong>[00:03:00]</strong> </span><span class="speaker"><strong>发言人2: </strong></span>壳壳的套壳套的质谱的GLM，那是应该是真的。因为好多时候你聊着聊着，老外聊着聊着都把中文聊出来了，那个思考链里全是中文。虽然没有官方承认，但是类似的因为wince f还有其他的几个也都用了GLM去做他们的代码的开发。所以其实可能就是事实上就是这么做的，也没有毛病，因为本来就是开源的。</p>
-<p class="transcript-line"><span class="time"><strong>[00:03:24]</strong> </span><span class="speaker"><strong>发言人1: </strong></span>但实际上怎么讲呢？就是说如果大家真的觉得说国内的模型真的非常顶了，对不对？我觉得可能你通过这些新闻你其实很难判断的。所以我在想今天我们三个讨论一下，我们讲一个我们自己的例子，其实大家都知道，我们前一段时间一直在跟大家讲，我们做一个产品叫CI早晚报对吧？这是一个我们叫我们觉得很激进的一个产品对吧？就是我们在做的时候就两个原则，第一个全靠AI不靠人。第二个我们不做任何的新闻的内容的审核，也就是今天这篇发出去会是什么，我们自己也不知道，就非常激进的。</p>
-<p class="transcript-line"><span class="time"><strong>[00:04:05]</strong> </span><span class="speaker"><strong>发言人2: </strong></span>应该说严格来讲是没有人工审核，那是有AI互相审核是有的。</p>
-<p class="transcript-line"><span class="time"><strong>[00:04:11]</strong> </span><span class="speaker"><strong>发言人1: </strong></span>就是原本一个编辑部主编、副主编等等这些角色，我们全部用14个agent取代掉了。有专门写文档的，有专门播声音的，有声音对吧？对，其实是很激进的一个尝试。通过做这个产品，其实我们用了有多少个模型，老师你可以跟大家讲一下。</p>
-<p class="transcript-line"><span class="time"><strong>[00:04:30]</strong> </span><span class="speaker"><strong>发言人2: </strong></span>反正主流上你见过的基本上都在里面。一个是直接在用，还有就是生产他们的那些AI编码的那些模型，我几乎都用了。你海外的话ChatGPT group gm来这些这三大支柱我们都用了，然后编码cloud肯定用了。然后在到国内的这些像mini MAX kimi，千问GLM这些我们也全部都用了。所以这个过程中间除了模型本身，还要考虑本身一些相当于地缘政治的因素，我们确实也都碰到过一些问题，就是这么多的模型在用的时候，你其实不能只依赖于美国的模型，或者只依赖于中国的模型。他们在我们在。</p>
-<p class="transcript-line"><span class="time"><strong>[00:05:14]</strong> </span><span class="speaker"><strong>发言人1: </strong></span>处理不信任原则，对吧？</p>
-<p class="transcript-line"><span class="time"><strong>[00:05:15]</strong> </span><span class="speaker"><strong>发言人2: </strong></span>我觉得这个很重要。这个原则其实是实际的情况所迫。因为我们完全都出现过只用美国的时候跑不完整个流程，只用中国的时候也跑不完整个流程。我们所有的文字音频处理都是有中国模型配海外的模型两个互相back up的。然后只是说到底是谁主谁副的问题。</p>
-<p class="transcript-line"><span class="time"><strong>[00:05:38]</strong> </span><span class="speaker"><strong>发言人3: </strong></span>然后在这过程中的话，我们用了这么多模型。当然小老老老邱说的，我们把所有的市面上主流模型全用上了，然后利用了14个A正在做。但是中间有几次的比较重大的技术失误，应该叫或者叫叫严重的bug，对吧？也是我们的听众们给取出来的。然后我觉得在那个时候，其实我我反正挺开心的，就像刚才小苏说的时候，到底边界在哪里，你看有的时候我们是一个新闻，尤其是头条新闻，还是一个旧新闻或者假新闻，对吧？然后或者说出现这个就跑不出来，就是bug，或者说我们那个那个新闻被截断了等等等等。这种新这种东西如果传统的编程方式是肯定能修复的那就失去了我们用AI去做这件事的意义，对吧？然后后来我们想办法怎么样去用AI的方式来来实现。</p>
-<p class="transcript-line"><span class="time"><strong>[00:06:24]</strong> </span><span class="speaker"><strong>发言人3: </strong></span>当然在这过程中，现在目前这个产品我觉得还是比较粗糙的。他以我们三个来看的话，他肯定不能作为一个主业，真的能够为我们发致富，能够估值上亿这样一个东西。但是确实在每天的这个应用中，尤其在我们自己来应用这个产品，来听这个新闻产生的内容的时候，我能感受到就是说又能做多做一点。</p>
-<p class="transcript-line"><span class="time"><strong>[00:06:43]</strong> </span><span class="speaker"><strong>发言人1: </strong></span>没有那上下高度这个东西，这个东西是为我们赚取认知，然后方便地输出这些认知服务大家？</p>
-<p class="transcript-line"><span class="time"><strong>[00:06:53]</strong> </span><span class="speaker"><strong>发言人3: </strong></span>我个人其实最那什么感受最深的还是语音这块。因为我一直都是一个听觉型选手。咱们最开始定的时候，我就觉得我们要做个语音的播报型的。虽然说有的时候大家可能没时间会看那些标题或者文章，或者点进去看原文件，但是语音是我一定跳过去的。所以咱们老兄你可以讲讲在语音这方我们我们的一些心得，或者说感受，边界等等都可以聊的。</p>
-<p class="transcript-line"><span class="time"><strong>[00:07:18]</strong> </span><span class="speaker"><strong>发言人2: </strong></span>语音这个东西其实我做的时候最直接的就是我自己有场景很痛苦。因为我经常带小孩的时候没有时间看新闻，然后就会需要有一个语音播报的东西。然后当那个时候就忽然想起来，差不多正好在一年以前，极客公园就是那个founder park那边，他采访了一下那个mini max的那边的CEO，然后聊了一个事情很有意思。就是他们常聊了2个小时，但对我有两个很大的震撼。</p>
-<p class="transcript-line"><span class="time"><strong>[00:07:47]</strong> </span><span class="speaker"><strong>发言人2: </strong></span>第一个就是音频，就是讲的音频这个东西其实难度比文字要简单。但是由于没有文字那么通用，所以大家现在做文字的那个大模型。但是音频其实你算一下，因为我们讲话的速度，一句话一分钟没有多少个词。对，然后换成字的话，去再给文字大模型的话，它其实非常简单。它相当于一秒才3到4个token就解决了。非常轻松。其实非常轻松就是反直觉。但是捅破了这个窗户纸了，就发现其实这个音频确实是个很好的东西，然后应该可以做个融合，然后在后面做更好的产品。</p>
-<p class="transcript-line"><span class="time"><strong>[00:08:20]</strong> </span><span class="speaker"><strong>发言人2: </strong></span>他们当时已经有一些音频的产品，有一些对标那个character AI做的那种陪伴型的那个chat boot。然后他当时就说这个东西其实很好做，而且做出来以后有更多的场景可以去使用。我当时有这个感触，但是自己就是有埋下一颗种子，但是觉得说还没有太多的体验，直到后面no book LM它真的应该是在12月份左右，就六个月6个月后六个月后那个notebook LM它的这个对话式的出来了以后，我记得我们当时还聊过一期这个节目，专门讲他那个对话的多么的经，对吧？对，就是那个时候的那个，因为他已经老道道不是说有声音了，而是我们的聊聊天的那个语气停顿，各种各样的东西都有，而且还能加上很强的分析能力。对。</p>
-<p class="transcript-line"><span class="time"><strong>[00:09:13]</strong> </span><span class="speaker"><strong>发言人3: </strong></span>什么情绪都情绪对。</p>
-<p class="transcript-line"><span class="time"><strong>[00:09:15]</strong> </span><span class="speaker"><strong>发言人2: </strong></span>都进来了。然后我就觉得说我靠这个真的是太对了。就是音频里面其实包含了很多我们文字上没有的一些情绪，然后还有那种节奏包括说尤其是那个时候的性能也做的特别好。</p>
-<p class="transcript-line"><span class="time"><strong>[00:09:29]</strong> </span><span class="speaker"><strong>发言人2: </strong></span>我还记得说其实MIMAXCEO还讲到一个东西，就是说技术那里面有个关键的点是一个300毫秒的概念。就是我们知道我们网页实际上是3秒，我们网页如果3秒刷不出来，我们就觉得这个网页太就感觉就不好弄了，很慢。对，然后音频是300毫秒，300毫秒以内你觉得是个人，300毫秒以外你觉得那个人不在你身边，在很远的地方，300毫秒以内你觉得这个人就在你身边讲话一样。所以他说这个东西当时在看那个菜ChatGPT的演示的话，是有做到这个程度的。</p>
-<p class="transcript-line"><span class="time"><strong>[00:10:03]</strong> </span><span class="speaker"><strong>发言人2: </strong></span>但是量产的产品没有。但那我记得我不知道你们有没有印象，当时他演示是很屌，就是各种语音都很屌。然后我们实测的时候就很卡，所以那个时候量产还不行。但是真的击穿我的就是觉得是到了12月份nob m做出来，它是量产的。我们随时去生成，随时都可以得出一个流畅的，然后中间对话都是300毫秒以内的那种反应的那种音频，然后还有实时的那些都都可以做得到。所以就是大半年以后到我们做。我差不多，我记得是今年应该是五月份左右。</p>
-<p class="transcript-line"><span class="time"><strong>[00:10:33]</strong> </span><span class="speaker"><strong>发言人2: </strong></span>那个时候选型选了1w lab太贵，之后马上就想到mini max，然后就拉过来一看，这个费用也是把我惊讶到了。只有eleven eleven的，可能1%到3%，可能我他那边用一天，我够我用一个月。为什么差这么多为什么差这么多？其其实其实这个也是挺有意思的，他是真的可能会差这么多，是因为那个yellow lives，首先模型特特是做的非常底层模型的。</p>
-<p class="transcript-line"><span class="time"><strong>[00:11:02]</strong> </span><span class="speaker"><strong>发言人1: </strong></span>就是他的我们体验过吗？我们做过那个英文版本的那个lives，就非常的我觉得跟人一样就跟人一样。</p>
-<p class="transcript-line"><span class="time"><strong>[00:11:10]</strong> </span><span class="speaker"><strong>发言人2: </strong></span>特别屌就特别屌。然后为什么这么屌？是因为他背后是真的请了很多真人去大量训练的，然后把那个声音而且商业化特别好，它有好多声音都是可以单独买的，就是按那个次数调用付钱。</p>
-<p class="transcript-line"><span class="time"><strong>[00:11:24]</strong> </span><span class="speaker"><strong>发言人1: </strong></span>这么就是特殊的音色。</p>
-<p class="transcript-line"><span class="time"><strong>[00:11:26]</strong> </span><span class="speaker"><strong>发言人2: </strong></span>对，特殊的音色。</p>
-<p class="transcript-line"><span class="time"><strong>[00:11:27]</strong> </span><span class="speaker"><strong>发言人1: </strong></span>全部都是那个什么什么语林志玲语音包之类的。</p>
-<p class="transcript-line"><span class="time"><strong>[00:11:31]</strong> </span><span class="speaker"><strong>发言人2: </strong></span>对他比那个还要细分，比那个还要细分。比如说专门做story telling的，就专门讲故事的。然后有的是专门讲话剧的，有的专门讲什么什么比赛的，有的人专门讲什么，各种各样的场景都有。而且还有语音色也分的特别细，语音的音色你一个英语分了非常多的，我们以前就知道英式英语跟美式英语，他一个英式英语、澳洲英语对吧？对对对，我们就还有加拿大英语，我们只知道大的国家级的，他是分几乎做到那个城市和城镇级的。他有些城镇的那个英语的所谓。</p>
-<p class="transcript-line"><span class="time"><strong>[00:12:06]</strong> </span><span class="speaker"><strong>发言人1: </strong></span>利物浦口音。</p>
-<p class="transcript-line"><span class="time"><strong>[00:12:07]</strong> </span><span class="speaker"><strong>发言人2: </strong></span>我这真的好像有，真的好像有，就是很细，它那个非常细，然后那他的这个沉淀就是很深，所以它机膜就很贵。这是首先它机膜不是是的是的。然后第二就是你要用它那个音色的本身的定价也相对会比较贵一些，但是它的兼容性特别好，哪怕是很比较旧的模型，它也可以跑的还可以。</p>
-<p class="transcript-line"><span class="time"><strong>[00:12:29]</strong> </span><span class="speaker"><strong>发言人2: </strong></span>然后我们会发现说，我当时就发现mini max的话就是价格便宜。首先价格便宜把我打动了，然后过来一看过来一看，我觉得很担心质量不行。然后后来后来正好那个时候我记得好像就是碰到5 6月份，他们可能发那个最新一代的speech 2。然后我拿了一个最新的一代的，发现有一点不是很顺利。就是当时因为太新了，有些文档好像都不是很完整，然后我拼出来好像有点问题。然后当时我记得就是跟你刚才说的，我用kerstall加那个cloud，在正在编码。</p>
-<p class="transcript-line"><span class="time"><strong>[00:13:03]</strong> </span><span class="speaker"><strong>发言人1: </strong></span>然后可以放一段给大家听。</p>
-<p class="transcript-line"><span class="time"><strong>[00:13:06]</strong> </span><span class="speaker"><strong>发言人2: </strong></span>对他对那个老的他对老的，他对老的系统很熟，所以他马上推荐我说这个调试不太行的话，这个其实也是很惊讶的一点。我当时在调那个speech 2不行，他跟我说不如我们切换到mini MAX的那个speech 1，就是已经比较成熟的，用老模型，一两年的那个可能两三年了那个老模型上，然后很快就切过去。切过去以后其实跑起来，我当时一试，那个也有三十多个音色，现在不错的，然后就很快就挑了两个下来，然后我们几个人一听都觉得挺不错的对吧？你现在有的话。</p>
-<p class="transcript-line"><span class="time"><strong>[00:13:41]</strong> </span><span class="speaker"><strong>发言人1: </strong></span>等会儿可以放一下，因为我等下可以放一段给大家听。</p>
-<p class="transcript-line"><span class="time"><strong>[00:13:44]</strong> </span><span class="speaker"><strong>发言人4: </strong></span>欢迎收听just CAI早晚报。今天我们来聊聊截止11月7日06时的半天内，AI相关的最新动态。今天开源模型突然扎堆放大招，感觉像约好了一样，挺热闹的。先说说mini max m2，号称速度是酷奥的两倍，开源又免费，这对开发者意味着什么？简单说就是本地也能跑得快，还不用交授权费，做小程序小工具的团队最开心，成本直接砍半，响应还能更快，不过速度翻倍不代表智商翻倍，复杂推理还是得看大模型本尊。那月之暗面凌晨扔出的km IK2 thinking直接喊全面超越GPT5这口号靠谱吗？他们公开的成绩单确实漂亮，数学代码、长文本三项刷榜第一。</p>
-<p class="transcript-line"><span class="time"><strong>[00:14:33]</strong> </span><span class="speaker"><strong>发言人1: </strong></span>但是所以很多听友就反馈说，你们那个模型是不是用的比较老？用的比较老，就是用上一代的。</p>
-<p class="transcript-line"><span class="time"><strong>[00:14:40]</strong> </span><span class="speaker"><strong>发言人3: </strong></span>我们也能省点钱。对。</p>
-<p class="transcript-line"><span class="time"><strong>[00:14:42]</strong> </span><span class="speaker"><strong>发言人1: </strong></span>但这不是省钱的原因，这个是主要是稳定输出，对不对？因为很稳，因为模型跟人一样，就磨合它是有一个这个周期的。那你这一段周期磨合顺了，你其实再换其实会出很多问题的。然后有很多朋友朋友就是耳朵很尖，他说你干嘛不换新一点的模型，你要用这个旧一点的模型。你这个有问题，那个有问题，我觉得这个不重点，不是重点。你是不是流畅的听完了，对吧？你的完播率很高。</p>
-<p class="transcript-line"><span class="time"><strong>[00:15:09]</strong> </span><span class="speaker"><strong>发言人2: </strong></span>你是不是流畅的听完了？尤其是有些时候他读错了，其实你知道他读错了。</p>
-<p class="transcript-line"><span class="time"><strong>[00:15:14]</strong> </span><span class="speaker"><strong>发言人1: </strong></span>读错了你是不是查原文的？对，查完原文你有没有进步？对。</p>
-<p class="transcript-line"><span class="time"><strong>[00:15:19]</strong> </span><span class="speaker"><strong>发言人2: </strong></span>好的原文。你一看我们这个原文是对的。</p>
-<p class="transcript-line"><span class="time"><strong>[00:15:22]</strong> </span><span class="speaker"><strong>发言人1: </strong></span>还是可以的。这个当然不是说辞了，这个是开玩笑，开玩笑的。当然这是有各种成本的考虑。最最真的你把这个模型拿出来创业的时候，你这个不是考虑说你是用GPT捂的问题，你是要考虑说最差的情况下，你GPT3.5能不能接上。我觉得这是我们考虑的下限的问题，对吧？</p>
-<p class="transcript-line"><span class="time"><strong>[00:15:41]</strong> </span><span class="speaker"><strong>发言人2: </strong></span>这个实际上是最重要的。因为调完以后，你现在就算是去生成，去去换成最新的，我也得掂量一下最新的我现在好不好用，对吧？我因为我也有个学习成本，迁移成本在那儿，其实原来的做的也不差。</p>
-<p class="transcript-line"><span class="time"><strong>[00:15:54]</strong> </span><span class="speaker"><strong>发言人1: </strong></span>所以这其实是一个很重要的矛盾。你就看出说中外的模型，他的我们在选择的差异。其实很多人觉得说中国模型是便宜，对吧？就可能大部分人认知是中国模型是便宜，但可能性能比不上干嘛的，实际上并不是这样子，便宜只是一个我觉得只是一个入场券，会让你去选择它。</p>
-<p class="transcript-line"><span class="time"><strong>[00:16:16]</strong> </span><span class="speaker"><strong>发言人3: </strong></span>对，但我不太同意刚才小苏说的，就是说便宜只是入场券。我觉得便宜是一个很根本的东西，就是能做到便宜，而且还能够持续去做下去，这个是很难的事情，对吧？你就比如说我把我在我因为我做也兼职做餐饮，我把一个餐厅比如卖卖到成本以下，然后我能招来很多客人，然后假设所有人都来我这儿吃饭了，把我这吃倒闭了，对吧？那这个事情从从这个从说说起来说，就是说我赚了赔了本，赚了吆喝，这个事情是没有无效的，对于整个社会来讲都是没有价值的。</p>
-<p class="transcript-line"><span class="time"><strong>[00:16:46]</strong> </span><span class="speaker"><strong>发言人3: </strong></span>但我觉得中国模型能够做到便宜的同时还能持续前进，然后我觉得这一点就很难。这也可能是中国模或者中国中国企业或者中国模型在中国市场上卷出来的一个结果。这个跟西方的这个商业社会情况确实不太一样。你看商业西方商业社会是讲究什么？就是说我实现一个东西，我申请专利，把它做精。在一个细分赛道上，我能够养活自己的同时，赚到自己的名声。但在这个过程中，还会有资本能加入进来，然后资本会给我一个巨大助力。所以我可以继续前进，直到什么呢？直到达到一个平衡点，就是什么？我能够很舒服的赚钱。</p>
-<p class="transcript-line"><span class="time"><strong>[00:17:21]</strong> </span><span class="speaker"><strong>发言人3: </strong></span>但中国企业好像没有这个阶段。有很多时候中国企业得不到这种资本的加持，或者说得不到这个市场的一个宽容度。在你还没有说真正能够到养活自己那个平衡点的时候，就被人copy了，就被人追赶了，或者被人碾压了，甚至被大厂就直接收买了。所以我觉得这是商业社会决定的，一个怎么应该叫什么呢？不能叫原生家庭，这可能叫一种爹地的东西。对。</p>
-<p class="transcript-line"><span class="time"><strong>[00:17:45]</strong> </span><span class="speaker"><strong>发言人3: </strong></span>然后同时你看就是我还看到就是从海外来讲，其实大家讨论更多的还有一点，除了便宜，就是开源。我不知道你就是现在起码我们看到mini MAX也好，还是先锋也好，对吧？还有DPC也好，但还是以开源为主，都有开源的对对，都有开源的那我看到硅谷的很多创业公司都会选择中国模型作为自己底层模型。为什么？因为它开源，王总从开心来讲的话，我未来不会被PI GPT，或者被cloud，或者被这个金币奶卡死。那未来如果人家突然升值，或者或或者突然加价，或者突然在企业级有什么限制之后，那我作为创业公司会不会就把就被人把水停掉了。这是不是也是一点，就是为什么黄军无论他原话的原意是什么，他肯定是很看重中国模型或者中国这些企业在这个未来竞争市场上的一个巨大的增长的速度加速度。但是我不知道咱们自己用的时候感受是什么，就是这种开源模型是否好用，或者说他会不会比那些毕业的模型对我们未来的价值更大。</p>
-<p class="transcript-line"><span class="time"><strong>[00:18:45]</strong> </span><span class="speaker"><strong>发言人2: </strong></span>所以我自己觉得说开源模型首先在编码这块是我已经直接平替掉了美国的这这几个了。大部分时候都是确实都是在用国内的。当然开源模型我们还是买它的服务，因为我自己的电脑太烂了，跑起来。但是其实他是可以本地部署的，买服务主要是为了快，其他的简单，这个是我们商业应用上的一个需求，然后价格又便宜。对，但是我是觉得说这个东西你是说。</p>
-<p class="transcript-line"><span class="time"><strong>[00:19:11]</strong> </span><span class="speaker"><strong>发言人1: </strong></span>kimi对吧？</p>
-<p class="transcript-line"><span class="time"><strong>[00:19:13]</strong> </span><span class="speaker"><strong>发言人2: </strong></span>Kimi和制服这两个。对，用这个质谱这两个我是用了最近才在开始用那个mini max m2。这些就是贤哥问的这个东西，我是觉得说在我看来是有蛮大空间的。</p>
-<p class="transcript-line"><span class="time"><strong>[00:19:26]</strong> </span><span class="speaker"><strong>发言人2: </strong></span>因为编码这个事情，现在我是感觉因为在一个大家在快速大快跃进大跃进的状态，有多少东西能炼钢就拿来炼的，就有点像这样。因为现在是不是一个我觉得就不是一个竞争的状态。大家其实就是赶紧往前冲，尽量的怎么样突破一些阀值。因为我我们其实讲过很多期这个编码，虽然说进展很好。但是他还是没有突破到说能真的直接替代人是肯定不行的，他还是要只能作为一个好的辅助。那现在这个辅助怎么变到替代人，其实还我我觉得还需要一些时间，也许是一两年时间长一点，两三年。但是现在的话就是搭着搞那搭着搞的这个特点，是我们现在尽量都用商业的那个跑。</p>
-<p class="transcript-line"><span class="time"><strong>[00:20:14]</strong> </span><span class="speaker"><strong>发言人2: </strong></span>也跟现在的硬件和这些模型的大小有点关系。比如说我说一下就质谱，质谱的那个观光模型啥也不干，他就有两三百个G你想一下你的电脑能不能塞得下。如果是我真的想在本地跑的话，一般的电脑2 300两三百个G放那儿，其实是不还是挺伤的。像我的情况，我是同时会用几个模型的，我不会只用一个模型。然后那这种情况本地其实就跳过了。</p>
-<p class="transcript-line"><span class="time"><strong>[00:20:40]</strong> </span><span class="speaker"><strong>发言人2: </strong></span>但是如果后面他做的更小，因为现在这个趋势就是其实用更小的参数可以做更高的智能。其实好多都在做这个，比如说对前两天我们早晚报还说的微博搞了一个1.5B还是15B，我忘了很小。对，它的性能已经超过DDCR1了，对吧？我都刚开始都以为看错了，真的是我们中国的那个微博吗？</p>
-<p class="transcript-line"><span class="time"><strong>[00:21:02]</strong> </span><span class="speaker"><strong>发言人1: </strong></span>后来发现还真的是，而且这是一个趋势。就是突然大家发现说小的这种端侧的模型开始又出来了，对不对？像苹果已经直接就是跟german签的。</p>
-<p class="transcript-line"><span class="time"><strong>[00:21:12]</strong> </span><span class="speaker"><strong>发言人2: </strong></span>签了11合作.</p>
-<p class="transcript-line"><span class="time"><strong>[00:21:14]</strong> </span><span class="speaker"><strong>发言人1: </strong></span>对不对？而且你会发现说GM在发布那个banana这个模型之前，他已经在安卓手机上的那个修图已经。</p>
-<p class="transcript-line"><span class="time"><strong>[00:21:23]</strong> </span><span class="speaker"><strong>发言人2: </strong></span>很强了已经很强了。</p>
-<p class="transcript-line"><span class="time"><strong>[00:21:24]</strong> </span><span class="speaker"><strong>发言人1: </strong></span>对，已经很强了。所以就是大家发现说，突然中国公司的机会是变成说在这种端侧小模型，有可能这就起量起的更快。</p>
-<p class="transcript-line"><span class="time"><strong>[00:21:33]</strong> </span><span class="speaker"><strong>发言人3: </strong></span>对。</p>
-<p class="transcript-line"><span class="time"><strong>[00:21:34]</strong> </span><span class="speaker"><strong>发言人2: </strong></span>对，是的。因为像比如说甚至大家经常讲的华为，它的好多的设备上现在都在跑，都在开放这些东西。所以我觉得说，虽然我们日常用，还没有怎么去本地部署这些开源的模型。因为你你要想如果能本地，我肯定也想本地。对我是有看到一些海外的一些老哥，海外好多做那个编码的老自媒体的老哥，他们都是是真的把我们质谱或者kimi给他搞到本地去的。因为他们在他们可能是由于相对你从用美金来买这个硬件，有爱好有有兴趣有爱好，然后用美金买这些设备，比我们还是不那么肉痛一点。是的是吧？是的，我们是真的很肉痛，这个买起来随便一台机几万块钱。</p>
-<p class="transcript-line"><span class="time"><strong>[00:22:19]</strong> </span><span class="speaker"><strong>发言人1: </strong></span>你你要你要这么看啊，你要这么看，比如说像硅谷一些企业LBNB，或者是他在用这些开源模型的时候，那是真的是需要本地部署的。</p>
-<p class="transcript-line"><span class="time"><strong>[00:22:28]</strong> </span><span class="speaker"><strong>发言人2: </strong></span>对吧？因为涉及到。</p>
-<p class="transcript-line"><span class="time"><strong>[00:22:29]</strong> </span><span class="speaker"><strong>发言人1: </strong></span>他的核心业务流，他们当然也有他也有钱去买这些集群，做这些环境，请很多工程在做运维，做搭建。他肯定是去买，去用这个开源的那我觉得这个没有问题。但其实对于小型企业或个人来用的话，其实你去用的本地其实还是成本很高，很折腾的一件事。</p>
-<p class="transcript-line"><span class="time"><strong>[00:22:49]</strong> </span><span class="speaker"><strong>发言人2: </strong></span>那什么很勉强。对，但是这个随着时间可能就是模型变小，然后大家机能再提升一点，这个事情以后可能就很常态化了。对，就跟我们手机是先开始也很弱，他的手机都比以前几十年前的登月火箭还强的。</p>
-<p class="transcript-line"><span class="time"><strong>[00:23:03]</strong> </span><span class="speaker"><strong>发言人1: </strong></span>是的，对，所以这个核心不是开源不开源，我觉得这个核心就是说怎么讲呢？就开源它还是一种免费增值的方式，当然你可以选很麻烦。就是说我就是吃麦当劳我全部用优惠券，我最后只要付一块钱对吧？也可以你有那个能力，你去雇人去收集麦当劳优惠券，你就天天吃霸王餐，那可以对吧？那也有代价对吧？</p>
-<p class="transcript-line"><span class="time"><strong>[00:23:29]</strong> </span><span class="speaker"><strong>发言人2: </strong></span>确实核心上来讲还是看效果。就是我觉得大模型不管编码还是干什么都是看效果。我其实用户不care你是大厂还是小厂，如果你这个功能能搞定是吧？我先能搞定，就是那功能能先搞定我的问题，这是第一步的。然后再就是价格便宜又又行，那我这个绝对是几乎就能够锁定了。然后你再后面还能本地部署，那这个事情就作为企业，作为自己的一个生意就可以长期都用了，对吧？这个可能三个层级，但是第一层级就是能可用，我们先已经做的不错了。</p>
-<p class="transcript-line"><span class="time"><strong>[00:24:03]</strong> </span><span class="speaker"><strong>发言人2: </strong></span>我先不说评分，因为评分很多时候是可以刷的。这个DPC今年还特别出过论文，讲大家是怎么刷榜的，他也讲过这个事情，然后其实怎么样都是确实可以针对各种各样的评分做优化的那虽然说他也侧面能说明能力，但是更好的是大家使用。我们觉得说大家国内外大家使用下来，这个确实kimi、mini max，然后GLM这三个编码在海外其实都非常都是真相，对不对？大家都是真香。像mini max m2是才还比较新，也差不多大半个月前出来的。然后直接是在最大的那个open router，那个就是专门做各种各样路由的大门模型路由的这种地方，它是排名前三了，已经排名前三了，前面两个就是groot跟cloud，然后第三就是他。</p>
-<p class="transcript-line"><span class="time"><strong>[00:24:54]</strong> </span><span class="speaker"><strong>发言人2: </strong></span>所以这个其实是前面我印象中前面GLM跟kimi可能都没做到这么高就反正就是大家相当于可能我，但是我是觉得前面这两个对他们铺路是绝对有用的。因为海外很多人先开始都很怀疑kimi跟那个GLM的能力，甚至GIM我记得我们自己用了一两个月了，海外才开始有人真的深入进去。因为很多人很怀疑这个东西是不是行不行，尤其是价格便宜，对，便宜到令人发指。他们的价格差不多就是把那个cloud的那个可能10分之1的价格，大概是这样子。</p>
-<p class="transcript-line"><span class="time"><strong>[00:25:27]</strong> </span><span class="speaker"><strong>发言人1: </strong></span>最高我觉得就是把把美金换成人民币了。但实际上但是比这个还便宜的。</p>
-<p class="transcript-line"><span class="time"><strong>[00:25:32]</strong> </span><span class="speaker"><strong>发言人2: </strong></span>还便宜。你看cloud是两百美金一个月max版的，然后GRM是200人民币一个月max版，而且还打5折，现在还在做活动。你要是最后就不得了，就这个不止十倍，这是十几倍二十几倍的差价。然后关键是价格差那么多，能力又很接近，能力很接近就是你可能百分之八十九十的场景你用它都可以。那这个时候老外也很实在，大家就开始用了。再到后面就是到了mini max这边又有能力，价格还便宜。Mini max价格比质朴又便宜了，好像50%，大概是这样差不多。</p>
-<p class="transcript-line"><span class="time"><strong>[00:26:11]</strong> </span><span class="speaker"><strong>发言人3: </strong></span>而且我记得我看到mini IMAX它本身在海外市场，你做的B2C这块做也比较不错。他之前对的，他之前不是有海螺对吧？还有一个叫toki y好像都看到过。</p>
-<p class="transcript-line"><span class="time"><strong>[00:26:22]</strong> </span><span class="speaker"><strong>发言人2: </strong></span>对，做那个视频就是类似对标character AI的陪伴的。</p>
-<p class="transcript-line"><span class="time"><strong>[00:26:27]</strong> </span><span class="speaker"><strong>发言人3: </strong></span>所以整个来讲的话，他在海外其实收入是不错的。我看到一个说他现在是所有的中国的这种AI模型大模型企业出海，然后AI就是AI模型里面收入最高的一个公司，已经接近好像1亿美金的AR了。而且现在整整体来讲这个对整体来讲的话，用户数也在增长。而且他网易刚推出是很高。</p>
-<p class="transcript-line"><span class="time"><strong>[00:26:49]</strong> </span><span class="speaker"><strong>发言人2: </strong></span>对。</p>
-<p class="transcript-line"><span class="time"><strong>[00:26:50]</strong> </span><span class="speaker"><strong>发言人3: </strong></span>刚推不久。然后现在说在在coding领域已经排到前五里面了，对吧？对，能力方面的话那更别说了，就当1个小时。我就说的很对。就是说真正刷榜那是一方面，更重要是说它便宜好用，但能用而且能持续用，这点很重要，非常重要。</p>
-<p class="transcript-line"><span class="time"><strong>[00:27:06]</strong> </span><span class="speaker"><strong>发言人2: </strong></span>是的，就持续运用下来。因为你特别是到最后这个价格打下去，我刚才说的制服已经够便宜了，他还比制服又便宜了个30%到50%，大概是这样子的。然后能力大家可能相当都各有一些千秋，但是大总体相当。就他们你如果去看评测，他们分数不会差相差太多，都很接近。实际使用中间可能各自有一些优缺点，但是我对我而言，我是综合起来用，反正因为我毕竟不是专业人员，我可能不一定看得出来有一些东西差距在哪儿。我主要就是可能在我自己的使用场景，有的时候跟他们在交流的时候，每个体感有点不一样，我就会会换不同的，大概是这样。</p>
-<p class="transcript-line"><span class="time"><strong>[00:27:45]</strong> </span><span class="speaker"><strong>发言人1: </strong></span>但这里面有一个悖论，就是说你刚才讲收入，这个定价其实是美国模型的10分之1。但其实你回过来看估值，估值美国模型是这些中国模型的100倍，对吧？平均下来100倍的估值。</p>
-<p class="transcript-line"><span class="time"><strong>[00:28:01]</strong> </span><span class="speaker"><strong>发言人2: </strong></span>你某个模型公司应该说是公司的估值。</p>
-<p class="transcript-line"><span class="time"><strong>[00:28:04]</strong> </span><span class="speaker"><strong>发言人1: </strong></span>对美国模型公司的估值，是中国这些模型公司估值的100倍，就平均下来算98倍这样子，所以约等于100，对不对？所以你会觉得这个其实是一个很大的一个悖论，对吧？</p>
-<p class="transcript-line"><span class="time"><strong>[00:28:16]</strong> </span><span class="speaker"><strong>发言人2: </strong></span>对，但这个事情我想到的是一个很实际的问题，就是比如说因为我们一比可能就是比如说正常领头羊对吧，他实在是太大了。</p>
-<p class="transcript-line"><span class="time"><strong>[00:28:26]</strong> </span><span class="speaker"><strong>发言人1: </strong></span>就是对他他有点过大了。</p>
-<p class="transcript-line"><span class="time"><strong>[00:28:28]</strong> </span><span class="speaker"><strong>发言人2: </strong></span>他跟anthropic anthropic也过大，他这两家都都过大，所以一比可能确实有100倍。因为光这个活跃用户就差很多了，因为那个ChatGPT现在活跃用户都已经做到76亿到8亿人了，这个确实是太大。如果你只是从活跃用户来看。</p>
-<p class="transcript-line"><span class="time"><strong>[00:28:46]</strong> </span><span class="speaker"><strong>发言人1: </strong></span>我们可能也是只有人家美国这几家普遍估值都是偏高，因为已经不按照传统那种方式去算的，你OpenAI5000亿了都。然后连你觉得渣渣的那个XAI，当然也不能说渣渣还可以。</p>
-<p class="transcript-line"><span class="time"><strong>[00:29:01]</strong> </span><span class="speaker"><strong>发言人3: </strong></span>你两千亿了，他才干了两年。</p>
-<p class="transcript-line"><span class="time"><strong>[00:29:03]</strong> </span><span class="speaker"><strong>发言人2: </strong></span>关键是ISS才干了两年。</p>
-<p class="transcript-line"><span class="time"><strong>[00:29:05]</strong> </span><span class="speaker"><strong>发言人1: </strong></span>OSO pic也接近2000 1830亿，对不对？其实你看这几家最低的anthropic 1831，那也是你像这种五美金，那个moon shoot这些的，应该也有30倍了.</p>
-<p class="transcript-line"><span class="time"><strong>[00:29:20]</strong> </span><span class="speaker"><strong>发言人2: </strong></span>对吧？可能都不止。你看它1810美金，换成人民币都都一万亿了。快这个你。</p>
-<p class="transcript-line"><span class="time"><strong>[00:29:26]</strong> </span><span class="speaker"><strong>发言人3: </strong></span>不能这么看，这个跟咱们小时候看七龙珠一样，对吧？你不能弗利萨一出来之后，几十万倍的战斗力是吧？</p>
-<p class="transcript-line"><span class="time"><strong>[00:29:32]</strong> </span><span class="speaker"><strong>发言人2: </strong></span>这个战斗力会有它的数字。对。</p>
-<p class="transcript-line"><span class="time"><strong>[00:29:34]</strong> </span><span class="speaker"><strong>发言人3: </strong></span>没有优势。我觉得这个东西你看又首先咱们说的这些AI模型公司也没有都上市，像OpenAI the pic什么的，对吧？然后他只是因为融资的需要，所以有一个估值而已。然后告诉他说，因为你这个融资的金额我占百分之多少。但真正你说要到市场交易中，那它的涨跌也可能一天就能跌跌去几百个亿，对吧？</p>
-<p class="transcript-line"><span class="time"><strong>[00:29:54]</strong> </span><span class="speaker"><strong>发言人3: </strong></span>没错，然后第二来讲就是说我是中国公司，他就像刚才我说的，就是在商业环境不一样的情况下，中国公司需要自己挣钱养活自己，对吧？他不见得能够像美国市场似的，有这么多全球的资金都愿意去融资去投资他。你像孙正义都贡献多少？孙正义背后代表的这个中东土豪对吧？代表着日本的低息的贷款等等等等这些资金那不一样。</p>
-<p class="transcript-line"><span class="time"><strong>[00:30:17]</strong> </span><span class="speaker"><strong>发言人3: </strong></span>中国市场你说现在你像我听说mini max要去香港上市，对吧？估值也非常的我觉得非常理性。因为对于他的这个AR来讲的话，我觉得就可以给中国的这些模型公司打个样，能够在这个更好的国际市场上获得一个认可。</p>
-<p class="transcript-line"><span class="time"><strong>[00:30:32]</strong> </span><span class="speaker"><strong>发言人3: </strong></span>我相信如果真的有百倍估值的差距的话，那应该是什么？应该是如果大家都在都进入资本市场，应该这个差距会迅速拉齐，或者起码会有一个比较进入一个合理的空间。现在来讲，像老肖刚才说M2出来之后，全球的这些用户们会迅速开始使用。在过程中如果真的好用，假设真的被验证好用，他以效果评估绝对不是百倍的差距，可能只是百分之百和80%的这个差距，对吧？就跟孙悟空当年似的，如果突然一下变超赛了的，然后那福利大就被干掉了，对吧？</p>
-<p class="transcript-line"><span class="time"><strong>[00:31:03]</strong> </span><span class="speaker"><strong>发言人1: </strong></span>差距其实没有那么大对差距其实是没有那么大对。</p>
-<p class="transcript-line"><span class="time"><strong>[00:31:07]</strong> </span><span class="speaker"><strong>发言人3: </strong></span>所以就是为了效果来看，为了这个蓄积效果来看，要制造一个像弗瑞萨A这样的强敌巨强敌让你感觉无法超越。但为了从剧情推进来说，那应该是什么迅速迭代对吧？几次之后突然因为一个契机就把那什么就拉齐了。</p>
-<p class="transcript-line"><span class="time"><strong>[00:31:21]</strong> </span><span class="speaker"><strong>发言人3: </strong></span>所以我是觉得从AI模型本身的能力来说，估值肯定或者说价值应该没有那么大的差距。但是对于整个未来前进方向来说，我觉得还是有很大差距。你像OpenAI，它还是处在最先，对吧？然后像这边还是有巨大的非常深的技术的积累。这个点上来讲的话，中国企业可能还在卷一应用，还在卷这个市场，还在卷生存环境。我觉得这两个来讲的话，还是一个不太一样的思考方向。</p>
-<p class="transcript-line"><span class="time"><strong>[00:31:49]</strong> </span><span class="speaker"><strong>发言人1: </strong></span>还有一个就思维方式问题，你很明显，你现在那个越战面kimmie它其实对标就是cloud，就在编程上面，其实我是觉得kimi最近是非常猛的，年底也集中冲KPI了，对不对？对，然后那个像mini max它其实做这种C端应用的一些认知，更更像是在对标OpenAI来讲一些事情，对吧？你像他的一些去年的那些应用，但是今年可能不知道还火不火了，确实在C端也蛮容易出圈的。而且刚才老徐讲他的创始人故事我也看过一下。他觉得说可能做语音，做C端的应用，其实是更make sense的一条模型增长的道路。这背后代表的就是说大家不同的价值观，我觉得说像美国公司，他可能会把模型算法这些东西看得很重，对吧？但其实中国公司经过过去几十年一轮一轮的洗下来，这些我们做模型做技术的专家，一轮一轮被这个土老板羞辱下来，对不对？</p>
-<p class="transcript-line"><span class="time"><strong>[00:32:51]</strong> </span><span class="speaker"><strong>发言人1: </strong></span>大家都觉得他妈的软件不值钱，SARS是个毛线，对吧？SARS不要做了，软件不值钱，那那个技术也不值钱。对，大家都是更看重的是应用。那今天变成今天把软件变成模型了，大家天然也会觉得说妈的模型不值钱，开源就开源，模型能值几个钱，我就开源了对不对？我开源我跟你拼了对不对？反正最后我这个东西羊毛出在猪身上，对吧？</p>
-<p class="transcript-line"><span class="time"><strong>[00:33:18]</strong> </span><span class="speaker"><strong>发言人1: </strong></span>所以我是我是觉得说这个整整个从不管你从资本市场的一个的叙事方式，然后包括实际上本土的一个我们讲生存环境，包括我们的整个思维方式里面，其实跟美国这个公司完全是不一样的，甚至是反着过来的对，所以我们会更看重应用一点点。看最近很好笑一个事情，我不知道你们关注没有？百度最近干什么？百度最近开了一场发布会，然后我看他们那个VP，都是上面演示说把这个agent装到咖啡门店的摄像头上面。这个监控你咖啡师这个咖啡有没有ISOP出品，哪一步有没有做错，放在后厨里面切西红柿炒蛋，西红柿有没有切错吧？</p>
-<p class="transcript-line"><span class="time"><strong>[00:34:05]</strong> </span><span class="speaker"><strong>发言人3: </strong></span>到底是西红柿炒蛋还是炒蛋鸡蛋小西红柿。</p>
-<p class="transcript-line"><span class="time"><strong>[00:34:08]</strong> </span><span class="speaker"><strong>发言人1: </strong></span>我跟你讲，你但凡你不知道，你不要问，不用问贤哥这种做过餐饮的，你问我就好了。我我我？我自己都觉得这个事情不可思议，但我如果是老板，我肯定愿意为这个买单。</p>
-<p class="transcript-line"><span class="time"><strong>[00:34:20]</strong> </span><span class="speaker"><strong>发言人2: </strong></span>对不对？有一些是凸老板做的。</p>
-<p class="transcript-line"><span class="time"><strong>[00:34:23]</strong> </span><span class="speaker"><strong>发言人1: </strong></span>而我们知道说以前那个做门店监控客流摄像头的那那那些AI的那些最后怎么卖出去，最后卖给老板说监控员工有没有开小差，监控的员工有没有要偷钱，最后他这样卖出钱的那当然我是老板，我肯定愿意接受这一套，但实际上这个东西在门店是不work的。但是百度都在做这样的事情，你可想而知，其实这个时间点国内环境是差到什么程度。对于讲句不好听的，对于软件模型，甚至对于AI的尊重程度，其实跟对岸是差非常非常多的。但实际上能够从这里面杀出来，我觉得真的就是手里都是刀口舔血的。真的能杀出来，不能都是赚着钱能数的对吧？都是都是见过大世面，我觉得能杀出来，甚至能够得到国际友人的认可，我觉得这个是非常难的这真的是靠硬实力，就不是说你随便讲一讲，因为在国内创过业你就知道了。对这个环境其实不是友好的。</p>
-<p class="transcript-line"><span class="time"><strong>[00:35:28]</strong> </span><span class="speaker"><strong>发言人3: </strong></span>从这点上来讲的话，就是刚才我说我那个观点，这是环境或者叫这个商商业商业形态和模型这个方向之间的一个根本性的差异，对吧？在这个商业环境之下，你说你还能够总是保持理想，就是说我不赚钱，我或者说我不考虑这个东西会不会被人抄，然后我就是一门心思研究我的模型方向，或者说下一个那什么下一个新突破点是哪？我更多可能会考虑我要生又要生存，然后又要在行业中领先，然后又要保证说竞争对手没有说那么轻易的打破我的壁垒。在这种情况之下，很多时候你会先放弃理想，首先放弃的就是那些幻想或者理想。</p>
-<p class="transcript-line"><span class="time"><strong>[00:36:08]</strong> </span><span class="speaker"><strong>发言人1: </strong></span>应该是说都是做AI但是此AI非彼AI.</p>
-<p class="transcript-line"><span class="time"><strong>[00:36:12]</strong> </span><span class="speaker"><strong>发言人3: </strong></span>没错没错。</p>
-<p class="transcript-line"><span class="time"><strong>[00:36:13]</strong> </span><span class="speaker"><strong>发言人1: </strong></span>所以就说这是AI，不是吧？市民AI即非AI，对吧？就是说不是AI对不对？</p>
-<p class="transcript-line"><span class="time"><strong>[00:36:19]</strong> </span><span class="speaker"><strong>发言人3: </strong></span>道可道非常道。</p>
-<p class="transcript-line"><span class="time"><strong>[00:36:21]</strong> </span><span class="speaker"><strong>发言人1: </strong></span>没错，道可道非常道，然后这个就是中国做的AI跟美国做的AI其实两个品类你可以这么理解，一个技术两个品类。你说中美有没有竞争？有，但是实际上那个竞争是什么？毛泽东讲的叫你打你的，我打我的，实际上是在两条线上面走。你说中美AI竞争会不会有赢家，会不会有输家？我告诉你，我个人觉得没有赢家，也没有输家。因为这是两个方向的事情。</p>
-<p class="transcript-line"><span class="time"><strong>[00:36:48]</strong> </span><span class="speaker"><strong>发言人2: </strong></span>我可能会觉得其实本质上大家是都赢了。为什么？是因为这个东西转化需要太多的资源投入。我我我想call back一个事情，就是我刚才其实说到去年听的那个mini max那个创始人聊的那个采访。但是在采访里面其实还有第二个观点，我觉得就跟这个有关。就是说那个洞察我觉得特别的深。</p>
-<p class="transcript-line"><span class="time"><strong>[00:37:09]</strong> </span><span class="speaker"><strong>发言人2: </strong></span>他讲了一个叫AI渗透率的一个概念，就是我们这些新的大模型这些东西，当时在那个时间节点，反正全球最强的还是ChatGPT。ChatGPT那个时候其实大概主要的活跃人数就是几千万到1两亿这样子，浮动还挺大。那个时候因为他刚出来其实也不稳。然后总的算起来也就是只有1%左右的渗透。他这个东西其实跟主流的那些我们已经成功，大家熟悉的这些社交媒体，视频那些差不多，都有50%以上的渗透率。也就是说这个1%对50%这个差距其实是特别巨大的机会。就是大家其实你说竞争，互相之间看起来有竞争，但是实际上是这个荒野还很大。然后有很多东西还是个增量市场。</p>
-<p class="transcript-line"><span class="time"><strong>[00:37:55]</strong> </span><span class="speaker"><strong>发言人3: </strong></span>没错。</p>
-<p class="transcript-line"><span class="time"><strong>[00:37:56]</strong> </span><span class="speaker"><strong>发言人2: </strong></span>这个增量特别大，但是需要验证，从他那个时间节点他就讲的是需要验证一个事情。就是如果后面open I作为领头羊，能能验证说后面你通过不多不断的多模态拓展。能够它快速的增长。那这个东西的底层转动力就应该是比较确定是可以持续的在讲这个事情。然后他当时听的话其实就是一知半解，反正听的也不知道行不行。但是他当时有个明确，就是说多模态是必须得做，没如果不做可能会掉队，就完全出局了。那这个事情其实后面看啊，完全就是这么回事，如果不做真的已经出局了。</p>
-<p class="transcript-line"><span class="time"><strong>[00:38:31]</strong> </span><span class="speaker"><strong>发言人2: </strong></span>我们去看一下OpenAI的进度，本身这个4O他在去年5月份出来，到年底他差不多就增长了百分之。可能七八十的活跃用户直接从一两亿的人跑到快3亿了，可能2.5亿到3亿之间。然后到了那个OE推理模型出来以后，又碰上我们的那个deep seek，对吧？就那个时候行业特别的热闹，然后这个推理模型出来以后，再到我们近的比较近的这几个sora这样的视频的模型出来。</p>
-<p class="transcript-line"><span class="time"><strong>[00:39:03]</strong> </span><span class="speaker"><strong>发言人2: </strong></span>你看如果我们说去年年底的时候open I才两三亿人，你想我们现在他是多少？他现在是8亿。然后这里面的这用户，你说用户活跃用户，而且是周用户，周活跃的用户是很高的。所以这就是他从这大差不多一年半的左右的时间，从open I来看，它确实就是从文字到图像，我们中间不是还我记得吉普利还出过了一把火锅影片圈，然后google就是nano banana，对吧？图片对吧，然后索尔是我们比较近的，就是国庆那个那个时间出的。</p>
-<p class="transcript-line"><span class="time"><strong>[00:39:35]</strong> </span><span class="speaker"><strong>发言人1: </strong></span>大家都非常清晰，一定要是要拿到C端用户，他才能出圈，才能拿到的渗透率。</p>
-<p class="transcript-line"><span class="time"><strong>[00:39:41]</strong> </span><span class="speaker"><strong>发言人2: </strong></span>对，就是我从这样倒回来看当时的那个预判，其实就是你的这个底层动力是判断的还挺准的，至少验证了这个东西大家都可以做做的机会有很大。因为他做到现在全球八十多亿人，那差不多8亿人。他他的渗透率从去年一年半那个时候的1% 2%的样子，现在就能够占到10%到12%左右了。这么个十倍增长，那个一个5倍到10倍增长。</p>
-<p class="transcript-line"><span class="time"><strong>[00:40:05]</strong> </span><span class="speaker"><strong>发言人1: </strong></span>但它现在OpenAI到这个点，它也是回归做应用的。所以说你说百度千般不是。但百度一直在强调一句话，就是说AI是应用的AI就AI应该是做应用，这个我是非常认可的，你还是应该回归到应用去产生它的价值。</p>
-<p class="transcript-line"><span class="time"><strong>[00:40:21]</strong> </span><span class="speaker"><strong>发言人1: </strong></span>因为很多人说，其实你对于一个终端消费者来讲，芯片它不产生直接的价值，然后甚至模型它也不产生直接的价值。真的模型会产生直接价值，更多是像我们，比如说有一些这种脑力劳动者，或者是说一些资讯密集型的一些劳动者，可能对他来讲模型会产生价值。那其实对广大的to c的一些用户来讲，真的模型跟他产生价值的并不是这么高科技的事情。有可能就是睡前故事，都包括给你讲个睡前故事，对吧？那元宝帮你问一下能不能养猪了，怎么养猪对不对？就这些事情，这事情哪里要什么智能？对，这些事情就是最简单的一些应用。我们说用高科技去做很傻逼的事情，我觉得但确实做这些傻逼的事情才是AI的出路，我。</p>
-<p class="transcript-line"><span class="time"><strong>[00:41:09]</strong> </span><span class="speaker"><strong>发言人2: </strong></span>个人感觉对，所以这里面至少有大量的，还有非常广泛的机会。就是你如果回到渗透率去看这个事情的话，那真的你想想那你跟tiktok比还远的很，对吧？就是你如果说真从C端的渗透的来比的话，差太远了，就还有很大的空间。是这样的，大家不管怎么竞争，你现在都还有很多的空间可以去跑。</p>
-<p class="transcript-line"><span class="time"><strong>[00:41:33]</strong> </span><span class="speaker"><strong>发言人3: </strong></span>所以归根结底来讲的话，我也很同意中美两国之间的AI竞争其实是属于一种还现在还属于良性竞争。因为这个市场还处于一个增量市场，而且是个巨大的增量空间。包括应用的场景和这个发展方向都没确定，这双方向不确定，我觉得？就是说AI到底未来会在哪个地方的应用造成大爆发，甚至创造出来是目前还没有被实现的需求。</p>
-<p class="transcript-line"><span class="time"><strong>[00:41:56]</strong> </span><span class="speaker"><strong>发言人3: </strong></span>还是说这个AI模型未来会有一个跳跃式的阶段式的，不能叫阶段式，应该倍增式的这种能力的提升。然后造成什么呢？现在所有东西都被替代掉，我这两个都不确定。何必？大家之间的话并没有形成一个直接的对抗的竞争关系，还处在一个互相促进的一个过程中。</p>
-<p class="transcript-line"><span class="time"><strong>[00:42:13]</strong> </span><span class="speaker"><strong>发言人1: </strong></span>而且还有一个比较默契的国际分工存在，也就是说在美国还是在专攻这些顶最顶尖的这种大的模型的突破，对吧？对，然后技术方向的这种尝试。但在中国可能更多的就是说当你这块突破了以后，我能够推出deep seek，然后我能够有千问kimi mini max这些开源阵营的能够跟上去，把它的成本打下来，把白粉卖成低价。</p>
-<p class="transcript-line"><span class="time"><strong>[00:42:39]</strong> </span><span class="speaker"><strong>发言人3: </strong></span>对我把你的能力接住，没错。变成对更多C端用户能用的东。</p>
-<p class="transcript-line"><span class="time"><strong>[00:42:44]</strong> </span><span class="speaker"><strong>发言人1: </strong></span>甚至说能够能够到通用的，到机器人，到端侧上面去，用很低的成本去实现智能，我觉得这个是一个比较默契的分工。其实我觉得你很典型的，你看特斯拉马斯克其实看的很明白，对吧？那在在美国他他负责的就是攻坚这个技术方向。但实际上生产制造，包括很多的这种验证，其实是放在中国来实现这整个它的增长。所以这个东西还有一个很默契的国际分工在里面。他其实很难，因为说你口头说要竞争，然后这个事情就大家就先说了，这我觉得不太可能。</p>
-<p class="transcript-line"><span class="time"><strong>[00:43:26]</strong> </span><span class="speaker"><strong>发言人3: </strong></span>所以所以就是说扩bug一下，黄仁勋其实看的最明白，他着急就在于自己被限制住了。现在其实他是完全可以服务于两个场景之内的。</p>
-<p class="transcript-line"><span class="time"><strong>[00:43:35]</strong> </span><span class="speaker"><strong>发言人2: </strong></span>因为他是两边都能搞，都完全都可以搞。</p>
-<p class="transcript-line"><span class="time"><strong>[00:43:38]</strong> </span><span class="speaker"><strong>发言人3: </strong></span>然后现在的问题是被限制住之后，他变得无法满同时满足两边的需求，必须选边站队。这挺这确实是他的一个最大的心病了。现在。</p>
-<p class="transcript-line"><span class="time"><strong>[00:43:49]</strong> </span><span class="speaker"><strong>发言人1: </strong></span>但是这其实也我觉得也还好。对，真的就也还好。因为为什么呢？作为黄仁勋的角度，他应该是看得很清楚的，而且他其实是所有的头他都下注了。</p>
-<p class="transcript-line"><span class="time"><strong>[00:44:01]</strong> </span><span class="speaker"><strong>发言人2: </strong></span>对吧？没错。</p>
-<p class="transcript-line"><span class="time"><strong>[00:44:02]</strong> </span><span class="speaker"><strong>发言人1: </strong></span>对不对？就身体很诚实，所有都下注了没有？这个产业链里面，就是我觉得我觉得你就真的把它当做宁德时代就好了。就是这条产业链的从头到尾它全部都布局了，所以最后他肯定不会亏。首先我们要讲错话，我不要站错队，我不要太偏这边，也不要太偏那边。对对对，然后我还跟台积电搞好关系，就做好这个平衡我就好了。</p>
-<p class="transcript-line"><span class="time"><strong>[00:44:29]</strong> </span><span class="speaker"><strong>发言人1: </strong></span>因为他其实深知，就是我觉得还是要再重复一遍，就是芯片在这里面不产生直接的价值，对吧？甚至不要说芯片的模型都不产生直接的价值。就是现在模型产生价值是在资本市场产生价值，他并不在真的终端的用户跟实际使用的场景上面去产生价值，吧？所以大家其实看的非常清楚，需要一个这样的默契的分工存在。也都不是有一个笑话，说现在进x ai你不会讲中文是不行的。就最后一个白人的那个被开掉以后就全华人班底了。</p>
-<p class="transcript-line"><span class="time"><strong>[00:45:05]</strong> </span><span class="speaker"><strong>发言人2: </strong></span>对吧？</p>
-<p class="transcript-line"><span class="time"><strong>[00:45:07]</strong> </span><span class="speaker"><strong>发言人1: </strong></span>Meta也类似。</p>
-<p class="transcript-line"><span class="time"><strong>[00:45:09]</strong> </span><span class="speaker"><strong>发言人2: </strong></span>没有，他那个李坤现在不是走了吗？他更是没人，更多的华人多了。</p>
-<p class="transcript-line"><span class="time"><strong>[00:45:15]</strong> </span><span class="speaker"><strong>发言人3: </strong></span>现在所以现在真的就是说，要是这么看起来，个人你要对AI很浓或者很很感兴趣的，还是往西方去。然后你要是说企业要创业，还是用起中国的免费或者开源模型，或者低价模型更好。大家一定要什么站到这个时间点上去。</p>
-<p class="transcript-line"><span class="time"><strong>[00:45:30]</strong> </span><span class="speaker"><strong>发言人1: </strong></span>对，来中国让土老板虐一虐。你上三次门默拜几次对吧？打打几个单下来，你就会对AI怎么用这行业有体感。</p>
-<p class="transcript-line"><span class="time"><strong>[00:45:40]</strong> </span><span class="speaker"><strong>发言人2: </strong></span>完全跟你想象不一样。</p>
-<p class="transcript-line"><span class="time"><strong>[00:45:42]</strong> </span><span class="speaker"><strong>发言人3: </strong></span>没错。</p>
-<p class="transcript-line"><span class="time"><strong>[00:45:44]</strong> </span><span class="speaker"><strong>发言人1: </strong></span>是的。因为刚才百我刚才讲百度那个例子，我觉得很典型的就是土老板上门教育百度了，教你做人。</p>
-<p class="transcript-line"><span class="time"><strong>[00:45:52]</strong> </span><span class="speaker"><strong>发言人2: </strong></span>摁在地上摩擦，你要做的这个功能才能拿到我的订单。</p>
-<p class="transcript-line"><span class="time"><strong>[00:46:00]</strong> </span><span class="speaker"><strong>发言人1: </strong></span>其实我觉得这很好笑，很好，但这个事情就会市场会纠偏。就是说你做这个，比如说你用AI agent加摄像头去做这个出参的SOP，这个事情就过了对吧？过了，那市场会把它纠偏回来，你又能沉淀出一点什么东西？对，那最后沉淀下来这个东西就是精华了。我觉得还蛮有意思的，真的很像当时移动互联网的时候，每个老板都心想，老兄我有个想法。</p>
-<p class="transcript-line"><span class="time"><strong>[00:46:26]</strong> </span><span class="speaker"><strong>发言人3: </strong></span>我们来做个APP，做个对对对小程序。对，一定是这样。</p>
-<p class="transcript-line"><span class="time"><strong>[00:46:32]</strong> </span><span class="speaker"><strong>发言人1: </strong></span>是的，对。</p>
-<p class="transcript-line"><span class="time"><strong>[00:46:33]</strong> </span><span class="speaker"><strong>发言人2: </strong></span>特别像太多了这种需求。</p>
-<p class="transcript-line"><span class="time"><strong>[00:46:35]</strong> </span><span class="speaker"><strong>发言人1: </strong></span>但我觉得这个时候来的越快越好。因为之前几年还是模型现在打架。那现在你会开始慢慢的发现需求进来了，一轮一轮的需求进来了，对吧？挺好的一件事情。</p>
-<p class="transcript-line"><span class="time"><strong>[00:46:47]</strong> </span><span class="speaker"><strong>发言人3: </strong></span>方生方死的那么多场景和需求，最终肯定会杀出一个真正让大家惊艳的，或者说这离不开的东西来的。</p>
-<p class="transcript-line"><span class="time"><strong>[00:46:55]</strong> </span><span class="speaker"><strong>发言人2: </strong></span>很期待。对对呀对，非常期待。因为就算是我们自己可能装作一种试验挑战的这个早晚报这样的产品，我也很希望这些大模型的能力溢出了，我赶紧又把它再升级。我们自己日常用的爽，我们的听友也用的爽。</p>
-<p class="transcript-line"><span class="time"><strong>[00:47:09]</strong> </span><span class="speaker"><strong>发言人1: </strong></span>不是说我要我强调一下，就是大家订阅早晚报一定要带着批判的心态来订阅。你不要觉得这是一个完美的产品。我们刚才已经讲这是一个非常极具实验性的一个产品，能够帮助你看到一个AI的边界。其实对我们或者对在订阅的你其实都会有一点启发。通过做这个小小的产品，其实我们也希望未来能够输出更多的观点给到大家。因为这就是我们的养料，对吧？</p>
-<p class="transcript-line"><span class="time"><strong>[00:47:36]</strong> </span><span class="speaker"><strong>发言人2: </strong></span>是的。</p>
-<p class="transcript-line"><span class="time"><strong>[00:47:38]</strong> </span><span class="speaker"><strong>发言人3: </strong></span>好啊好，今天我们这期就先聊到这儿，聊了很多话题，其实更多还是聊了我们我们切身体感的中美模型这个不同的地方，对吧？就像刚才我们节目中说到的，其实大家做的AI都叫AI但可能是2个AI，然后作为个人来讲，个人作为创业企业来讲，还是说作为投资者来讲，大家都可以各取所需，一定可以找到自己适合自己的一个角度，切入到AI这件事上来。</p>
-<p class="transcript-line"><span class="time"><strong>[00:48:03]</strong> </span><span class="speaker"><strong>发言人1: </strong></span>好，那我们这期节目到这里结束，下期再见。</p>
-<p class="transcript-line"><span class="time"><strong>[00:48:06]</strong> </span><span class="speaker"><strong>发言人3: </strong></span>下期再见了。</p>
-<p class="transcript-line"><span class="time"><strong>[00:48:07]</strong> </span><span class="speaker"><strong>发言人2: </strong></span>再见，拜拜，多多互动一起拜拜。</p>]]></content:encoded>
-            <pubDate>Tue, 18 Nov 2025 10:56:02 GMT</pubDate>
-            <guid>691c4aa1cbba038b422350ef</guid>
         </item>
     </channel>
 </rss>
