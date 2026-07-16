@@ -65,12 +65,14 @@ class RSSProcessor:
 
     def _format_item_xml(self, item_info: dict) -> str:
         """生成RSS条目的XML"""
+        # CDATA 拆分转义，防止 content_html 中的 ]]> 提前终止 CDATA
+        content_html = item_info['content_html'].replace(']]>', ']]]]><![CDATA[>')
         return f"""
         <item>
             <title>{escape(item_info['title'])}</title>
             <link>{escape(item_info['link'])}</link>
             <description>{escape(item_info.get('description', ''))}</description>
-            <content:encoded><![CDATA[{item_info['content_html']}]]></content:encoded>
+            <content:encoded><![CDATA[{content_html}]]></content:encoded>
             <pubDate>{item_info['pub_date']}</pubDate>
             <guid>{escape(item_info['guid'])}</guid>
         </item>"""
@@ -140,7 +142,7 @@ class RSSProcessor:
             episode_list.append(episode_data)
         
         # 按发布时间降序排序并只取最新的30集
-        episode_list.sort(key=lambda x: x.get('pubDate', ''), reverse=True)
+        episode_list.sort(key=lambda x: x.get('pubDate') or 0, reverse=True)
         episode_list = episode_list[:RSS_MAX_EPISODES]
         
         # 将列表转换回字典格式

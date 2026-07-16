@@ -186,7 +186,7 @@ class PodcastClient:
         if len(existing_episodes) > RSS_MAX_EPISODES * 2:
             sorted_eids = sorted(
                 existing_episodes.keys(),
-                key=lambda eid: existing_episodes[eid].get('pubDate', 0),
+                key=lambda eid: existing_episodes[eid].get('pubDate') or 0,
                 reverse=True
             )
             existing_episodes = {eid: existing_episodes[eid] for eid in sorted_eids[:RSS_MAX_EPISODES * 2]}
@@ -202,7 +202,7 @@ class PodcastClient:
         try:
             changed_pids = []
 
-            # 逐个获取播客信息（不依赖订阅关系，任何有效 token 都能查询）
+            # 逐个获取播客信息（公开页面逐个查询，避免触发频率限制）
             all_podcast_info = self.fetch_all_podcast_info(pids)
 
             missing_pids = set(pids) - set(all_podcast_info.keys())

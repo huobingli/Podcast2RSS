@@ -101,6 +101,13 @@ def test_episode_collector():
                 "pubDate": 1700000003,
                 "payType": "FREE",
             },
+            "ep5": {
+                "title": "缺少发布时间的剧集",
+                "duration": 3600,
+                "enclosure": {"url": "https://example.com/ep5.mp3"},
+                "pubDate": None,
+                "payType": "FREE",
+            },
         }
         episodes_file = storage.episodes_dir / "test_pid.json"
         episodes_file.write_text(json.dumps(episodes))
@@ -108,9 +115,11 @@ def test_episode_collector():
         collector = EpisodeCollector(storage)
         result = collector.collect_untranscribed("test_pid")
 
-        # 只有 ep1 应该被收集（ep2 太短，ep3 付费，ep4 太长）
-        assert len(result) == 1
+        # 只有 ep1 和 ep5 应该被收集（ep2 太短，ep3 付费，ep4 太长）
+        # ep5 的 pubDate 为 None，排序不应抛 TypeError，且当 0 处理排到最旧
+        assert len(result) == 2
         assert result[0]["eid"] == "ep1"
+        assert result[1]["eid"] == "ep5"
         print("  EpisodeCollector 测试通过")
 
 
@@ -144,10 +153,11 @@ def test_rss_processor():
         episodes_file = storage.episodes_dir / "test_pid.json"
         episodes_file.write_text(json.dumps(episodes))
 
-        # 准备转写文件
+        # 准备转写文件（speaker 字段不经 escape，包含 ]]> 用于验证 CDATA 拆分转义）
         storage.save_transcript("test_pid", "ep1", {
             "transcription": [
-                {"time": "00:00:01", "speaker": "主播", "text": "大家好"}
+                {"time": "00:00:01", "speaker": "主播", "text": "大家好"},
+                {"time": "00:00:05", "speaker": "嘉宾]]>", "text": "包含 ]]> 的文本"}
             ]
         })
 
@@ -165,6 +175,9 @@ def test_rss_processor():
         assert "测试播客" in content
         assert "测试剧集" in content
         assert "大家好" in content
+        # 转写内容中的 ]]> 不应提前终止 CDATA，整个 RSS 应是合法 XML
+        import xml.etree.ElementTree as ET
+        ET.fromstring(content)
         print("  RSSProcessor 测试通过")
 
 

@@ -58,7 +58,7 @@ class EpisodeCollector:
                 episode_list.append(episode)
             
             # 按发布时间降序排序并只取最新的30集
-            episode_list.sort(key=lambda x: x.get('published_at', ''), reverse=True)
+            episode_list.sort(key=lambda x: x.get('published_at') or 0, reverse=True)
             episode_list = episode_list[:RSS_MAX_EPISODES]
             
             # 处理排序后的剧集
