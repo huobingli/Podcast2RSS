@@ -19,15 +19,7 @@
 
 ### 2. 获取 Token
 
-你需要两个凭证：
-
-#### 小宇宙 Refresh Token
-
-用于访问小宇宙 API 获取播客和单集数据。
-
-1. 在浏览器或抓包工具中登录小宇宙
-2. 找到请求头中的 `x-jike-refresh-token` 值
-3. 支持配置最多 5 个 Token 轮换使用（推荐，降低单个 Token 被限流的风险）
+你需要一个凭证：
 
 #### 通义听悟 Cookie
 
@@ -43,8 +35,6 @@
 
 | Secret 名称 | 说明 |
 |---|---|
-| `REFRESH_TOKEN_1` | 小宇宙 Refresh Token（必填，至少配一个） |
-| `REFRESH_TOKEN_2` ~ `REFRESH_TOKEN_5` | 额外的 Refresh Token（可选） |
 | `TONGYI_COOKIE` | 通义听悟 Cookie（必填） |
 
 ### 4. 配置你的播客列表
@@ -132,7 +122,7 @@ Podcast2RSS/
 
 ## 注意事项
 
-- **Token 有效期**：小宇宙 Refresh Token 和通义听悟 Cookie 都会过期，需要定期更新 GitHub Secrets
+- **Token 有效期**：通义听悟 Cookie 会过期，需要定期更新 GitHub Secrets
 - **付费单集**：付费单集会自动跳过转写
 - **运行频率**：默认每两天运行一次，可在 `.github/workflows/daily-update.yml` 中修改 cron 表达式
 - **费用**：GitHub Actions 对公开仓库免费，通义听悟目前免费使用

@@ -31,11 +31,6 @@ jobs:
     - name: Run RSS update script
       env:
         TONGYI_COOKIE: ${{ secrets.TONGYI_COOKIE }}
-        REFRESH_TOKEN_1: ${{ secrets.REFRESH_TOKEN_1 }}
-        REFRESH_TOKEN_2: ${{ secrets.REFRESH_TOKEN_2 }}
-        REFRESH_TOKEN_3: ${{ secrets.REFRESH_TOKEN_3 }}
-        REFRESH_TOKEN_4: ${{ secrets.REFRESH_TOKEN_4 }}
-        REFRESH_TOKEN_5: ${{ secrets.REFRESH_TOKEN_5 }}
         DEEPSEEK_API_KEY: ${{ secrets.DEEPSEEK_API_KEY }}
       run: python -m src.main
         
