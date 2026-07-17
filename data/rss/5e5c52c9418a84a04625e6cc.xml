@@ -4,7 +4,392 @@
         <title>硅谷101</title>
         <link>https://www.xiaoyuzhoufm.com/podcast/5e5c52c9418a84a04625e6cc</link>
         <description>分享当下最新鲜的技术、知识与思想</description>
-        <lastBuildDate>Sun, 12 Jul 2026 05:01:56 +0800</lastBuildDate>
+        <lastBuildDate>Sat, 18 Jul 2026 05:06:02 +0800</lastBuildDate>
+        <item>
+            <title>E244｜机器人走错路了？与苏度韩铮聊聊具身智能的3D数据、路径分野与硅谷竞赛</title>
+            <link>https://www.xiaoyuzhoufm.com/episode/6a58203adad7474f40ac62a2</link>
+            <description>机器人已经能在舞台上做到翻跟头、表演武术了，但要让它在开放环境里伸手帮你拧开一个瓶盖，难度陡然跃升2到3个量级——因为那一刻，它需要理解眼前的物理世界。
+这正是苏度科技想啃下的硬骨头。苏度科技联合创始人、董事长苏昊是ImageNet的核心作者之一，师从李飞飞，这家公司走了一条与硅谷主流纯大脑“黑盒”大模型不太一样的道路——软硬件协同设计，上下分层架构，上层负责任务规划与环境理解，下层用仿真（Sim-to-Real），让机器人在虚拟世界里经历几百万年的进化，再迁移到现实。
+这条路已经跑出了一定成效：面对从未见过的新物体，他们的零样本通用抓取单次成功率接近100%。
+本期硅谷101，我们邀请苏度科技CEO韩铮，一起聊聊机器人“动手”怎么实现？他预测，接下来会有更多的硅谷公司会重新回到“上下分层”的方向上来。
+【主播】
+泓君，硅谷101创始人，播客主理人
+【嘉宾】
+韩铮，苏度科技联合创始人&amp;CEO
+【你将听到】
+机器人“动手”的数据根基
+03:17 为什么做全栈（大脑+本体）通用机器人？
+07:14 苏昊早年经历：从图片标注ImageNet，到3D数据集ShapeNet
+11:08 3D数据收集，难在哪里？
+13:21 仿真需要亚毫米级精度，视频训练无法达到
+16:33 什么是Sim-to-Real（从仿真到现实）？
+18:08 创业时机的判断：DALL-E带来的数据拐点
+Sim2Real技术验证与关键突破
+21:40 仿真器的技术内核：经典物理法则+强化学习
+24:17 数据集质量与规模的平衡：自建结构化3D数据集
+28:05 实际效果如何？零样本通用抓取，一次性成功率98%
+32:11 回应Demo质疑：去学术会议现场随机环境中演示
+34:22 基础Zero-Shot泛化能力比长程任务串联更为关键
+35:45 灵巧手虽好，但不是当下的性价比最高的方法
+技术路线之争
+38:16 商业模式思考：硬件+底层模型+API，类比智能手机生态
+41:23 仿真器与机器人本体，必须软硬件协同设计强绑定
+44:04 如何教会机器人拧瓶盖？加入真实世界数据更高效
+44:51 难度对比：操作物体比运动控制难2~3个数量级
+47:28 白盒与黑盒之争：分层模型，在预训练中融入物理理解
+51:11 Sapien仿真器，让机器人像幼童第一次拧瓶盖一样操作
+53:27 数据冷启动困境：无法复刻特斯拉，必须靠仿真做冷启动
+55:38 嘉宾预言：被硅谷抛弃的“上下分层”即将重回主流
+全球机器人竞争格局
+59:08 实现机器人动手，软硬件强结合的公司才能做到
+01:00:34 硅谷明星公司点评：Skild、Figure、Optimus
+01:05:40 为什么最看好DeepMind+波士顿动力Atlas的组合？
+01:09:01 亚马逊机器人，场景多但整合困难
+01:10:02 为什么多数公司退回垂类？因为不知道通用该怎么走
+01:12:43 不做垂类押注，而是构建开发者生态，目标是成为机器人时代的“iOS+硬件”
+【延伸阅读】
+节目中提到的Demo：sudo R1评测——60分钟连续无剪辑实测
+【硅谷101正在招聘】
+《硅谷101》招聘多个全职岗位，欢迎加入我们的超酷的深度内容工作团队！
+👉🏻点击查看招聘详情
+【监制】
+泓君
+【后期】
+Amei
+【运营】
+朱婕
+【BGM】
+Particle Emission - Silver Maple
+My Moon and Your Sun - Hampus Naeselius
+On the March - Brendon Moeller
+Quietly Tense - Marten Moses
+【在这里找到我们】
+公众号：硅谷101
+收听渠道：Apple Podcast｜Spotify｜小宇宙｜喜马拉雅｜蜻蜓FM｜荔枝FM｜网易云音乐｜QQ音乐
+其他平台：YouTube｜Bilibili 搜索「硅谷101播客」
+联系我们：podcast@sv101.net
+Special Guest: 韩铮.</description>
+            <content:encoded><![CDATA[<div class="episode-summary">
+<h3>内容摘要</h3>
+<h3>播客内容结构化摘要</h3>
+<h4>主题概述</h4>
+<p>本期节目邀请了具身智能公司“速度科技”（苏度科技）的联合创始人兼CEO韩铮。对话背景聚焦于当前机器人领域的核心分歧：技术路径（Sim to Real vs. 真实世界数据）、数据来源（3D结构化数据 vs. 互联网视频）、以及硅谷与中国机器人公司的竞争格局。韩铮分享了速度科技在“仿真到现实”（Sim to Real）路线上的最新进展，包括其在新环境中零样本（Zero-shot）抓取的成功Demo，并提出了一个“暴论”：从2025年下半年开始，上下分层的模型结构将重新成为主流。</p>
+<h4>关键要点</h4>
+<ol>
+<li>
+<p><strong>核心判断：机器人物体操作难度比运动控制高2-3个数量级</strong></p>
+<ul>
+<li>韩铮指出，机器人的“物体操作”（如抓取、拧瓶盖）远比“运动控制”（如行走、保持平衡）复杂。“机器人如果是要对于物体去做操作，它这个难度要高2到3个数量级。”原因在于动作控制只关注机器自身，而操作需要理解世界——物体的形状、材质、动力学约束等。</li>
+</ul>
+</li>
+<li>
+<p><strong>独家观点：“Sim to Real是机器人躲不过去的路径”</strong></p>
+<ul>
+<li>韩铮认为，由于机器人领域缺乏像自动驾驶（有数百万辆车和司机）那样的大规模真实数据，纯粹的“模仿学习”或“遥操作”在开放世界的泛化性上存在根本局限。“机器人你是很难同一款机器，在每没有任何功能之前，我卖500万台机器人到各个办公室……所以它的冷启动的方法……是躲不过去的。”速度科技通过仿真器生成海量、高质量、结构化的3D数据来填补这一空白。</li>
+</ul>
+</li>
+<li>
+<p><strong>自我定义：非黑盒的、可解释的模型</strong></p>
+<ul>
+<li>不同于硅谷主流（如Physical Intelligence）追求“端到端黑盒模型”，速度科技的模型在预训练时是分层的，且对物理世界有理解和预测。韩铮说：“我们是模型在预训练的过程中是有分层结构的……要让机器人知道它对于物体未来所在的环境里面，要对几何材质和它的运动学……是有一定的推理和认知的。”例如，机器人知道“拧瓶盖”需要逆时针旋转，而不是仅仅机械地模仿。</li>
+</ul>
+</li>
+<li>
+<p><strong>独家数据与Demo：零样本抓取成功率98%</strong></p>
+<ul>
+<li>速度科技在2025年4月发布了一个公开Demo，其机器人在一个全新、未训练的环境中，连续1小时成功进行了240次物体抓放操作。韩铮强调：“单次对于这个物体做抓放的成功率是将近98%。”该结果在学术会议（如CVPR）上经受了近千名参会者用随机物体（如手机、证件）的现场测试，验证其泛化性。这在机器人领域是首次做到“不需要提前进场采集数据”的公开演示。</li>
+</ul>
+</li>
+<li>
+<p><strong>关于技术路径的“暴论”：分层架构将回归主流</strong></p>
+<ul>
+<li>韩铮提出了一个与硅谷主流（端到端模型）相悖的判断：“我们有一个暴论，就是可能从今年的下半年开始，上下分层的这种结构会重新再回到主流里面来。”他认为，当前硅谷公司（如Physical Intelligence）擅长上层的“推理和规划”（Reasoning），但底层的“物体操作”能力尚不达标，而速度科技专注于后者。</li>
+</ul>
+</li>
+<li>
+<p><strong>商业模式：做机器人界的“iPhone + iOS”</strong></p>
+<ul>
+<li>速度科技的商业模式并非垂直应用，而是提供“硬件+底层操作模型+API”的平台。韩铮将此类比为智能手机：“会有一家公司去提供一个像iphone或者是像android……开发者就在上面去搭各种不一样的应用”。他们自己不赌单一场景，而是让成千上万的开发者在平台上构建上层应用（如工厂分拣、家庭服务）。</li>
+</ul>
+</li>
+<li>
+<p><strong>硅谷竞赛的核心观察：Deep Mind + 波士顿动力是最大威胁</strong></p>
+<ul>
+<li>韩铮认为，在未来2-3年，综合能力最强的竞争对手可能是“Deep Mind加波士顿动力”。他指出，Deep Mind在物理世界AI上的决心和资源（硬件、仿真、人才）是其他大厂无法比拟的。“我们感觉他是坚定的相信sim 2real这条路的”，并且其团队必须集中办公的作风与苹果类似。</li>
+</ul>
+</li>
+<li>
+<p><strong>对明星公司的公开评价：Figure和Skilled的局限性</strong></p>
+<ul>
+<li>对于高估值的Figure AI，韩铮评价其最新直播Demo“在物体的操作放化性和环境的放化性上，其实差别还比较远”，因为其测试物体类型少（两类）、工作环境固定（公司内一条线）。对于Skilled AI，他透露其创始人“以前是坚决不信仿真的”，但募资时以机器人仿真为主要方向，实际业务可能偏敏感。</li>
+</ul>
+</li>
+</ol>
+<h4>独家细节</h4>
+<ol>
+<li>
+<p><strong>联合创始人苏皓的“错过”与“野心”</strong></p>
+<ul>
+<li>韩铮透露，苏皓在参与ImageNet后，深感自己“错过了”一个重大机会（指AlexNet在2012年横空出世带来的冲击），因此决心将“大数据集+神经网络”的方法带到物理世界，从而开创了3D深度学习领域。这种“不甘心”是速度科技长期深耕3D数据路线的原点。</li>
+</ul>
+</li>
+<li>
+<p><strong>仿真器的命名哲学：来自《人类简史》</strong></p>
+<ul>
+<li>速度科技的仿真器取名“CPN”（CPS，即“智人”的拉丁文学名），对应尤瓦尔·赫拉利《人类简史》中智人从猿到人的进化过程。韩铮说：“我们想把人类和整个生物对于环境的理解……几百万年的进化的过程放在仿真器里面来，让机器人在经历完整的进化的过程。”这揭示了他们试图在模拟中复现生物演化史的思路。</li>
+</ul>
+</li>
+<li>
+<p><strong>学术会议上的“打假”经历</strong></p>
+<ul>
+<li>韩铮分享了一个幕后故事：在CVPR等学术会议上，速度团队直接把没有经过任何训练的机器人带到现场，让参会者用“手机、耳机、小玩偶”测试。这种“在以前类似于这种的学术会议上，是从来没有人能够做到这样的展示”，因为其他公司通常需要“提前一个月进场”采集数据和处理。这直接证明了他们零样本能力的真实性。</li>
+</ul>
+</li>
+<li>
+<p><strong>对Figure AI的“洗碗机Demo”的间接证实</strong></p>
+<ul>
+<li>当主持人问及Figure的洗碗机Demo时，韩铮简洁回应：“洗碗机是他的demo对，但我们听说是花了很长时间拍一条。” 这句话虽未直接批评，但暗示该成功演示可能经过了精心剪辑或重复拍摄，并非一次性的稳定表现，揭示了行业内对Demo真实性的普遍质疑。</li>
+</ul>
+</li>
+<li>
+<p><strong>对特斯拉Optimus硬件策略的认可</strong></p>
+<ul>
+<li>韩铮提到，曾与特斯拉自动化团队合作，并透露特斯拉内部有一派声音主张“先造一系列的机器人，让外界的人去做研发开发”，只提供硬件。这恰好与速度科技“提供硬件+底层模型，让开发者做应用”的策略有相似之处，显示了不同公司对产业链分工的务实考量。</li>
+</ul>
+</li>
+</ol>
+</div>
+<hr/>
+<p class="transcript-line"><span class="time"><strong>[00:00:01]</strong> </span><span class="speaker"><strong>发言人1: </strong></span>Hello, 大家好，欢迎收听硅谷101，我是红军。之前我反复在播客里有跟机器人的公司讨论一个问题，就是说我们能不能通过一个demo就判断一家机器人公技术上的好坏。很多人告诉我的答案是不能，原因在于大家并不知道在这个demo之前，这些机器人公司有没有针对特定的环境去做适配。哪怕我们说只是在展出的的前几天，他到现场去采集一下环境数据，可能都会对demo有很大的帮助。所以如果对环境做了更多的优化，机器人demo的效果就会更好。而今天我们要聊的这家公司叫做速度科技，它就敢在一个完全没有训练的新环境中去做demo，它的效果到底怎么样？</p>
+<p class="transcript-line"><span class="time"><strong>[00:00:53]</strong> </span><span class="speaker"><strong>发言人1: </strong></span>说到苏度，在机器人的这条路上，其实有一个绕不开的名字，就是它的联合创始人苏皓。教机器人看懂世界的image net，有它主流的机器人仿真器，大多都和它的团队有渊源。连硅谷最火的那几家机器人公司，比如说像physical intelligence、谷歌的deep mind的机器人团队，也都有他的学生和师弟师妹，可以说他们是这条路上开衫一派。而他自己现在最想啃的，也是机器人最难的那块骨头，就是让机器人动手，让机器人在开放世界动手有多难。他的合伙人韩铮是这么说的。</p>
+<p class="transcript-line"><span class="time"><strong>[00:01:33]</strong> </span><span class="speaker"><strong>发言人2: </strong></span>机器人如果是要对于物体去做操作，它这个难度要高2到3个数量级。</p>
+<p class="transcript-line"><span class="time"><strong>[00:01:39]</strong> </span><span class="speaker"><strong>发言人1: </strong></span>另外我今年在跟很多机器人领域的人聊天的时候，大家一直认为在现在的机器人的训练方法和实现路径上是没有收敛的那韩铮他并没有站在硅谷主流的那一派路径上。他认为在今年的下半年，所有人都会重新回到他们现在正在走的这条路上。</p>
+<p class="transcript-line"><span class="time"><strong>[00:02:02]</strong> </span><span class="speaker"><strong>发言人2: </strong></span>我们有一个暴论，就是可能从今年的下半年开始，上下分层的这种结构会重新再回到主流里面来。而且可能在之后大家选择的方案推到商业化里面去，可能是最中的一个方法。</p>
+<p class="transcript-line"><span class="time"><strong>[00:02:16]</strong> </span><span class="speaker"><strong>发言人1: </strong></span>这期节目我们就来聊透三件事儿，机器人的3D数据从哪里来，seem to real这条路到底能不能走通，以及这场全球机器人竞赛各大头部玩家他们的技术路竟是什么？谁能真正的跑出来？今天跟我在一起的嘉宾是苏度科技的联合创始人与CEO韩争。Hello韩总你好。</p>
+<p class="transcript-line"><span class="time"><strong>[00:02:38]</strong> </span><span class="speaker"><strong>发言人2: </strong></span>同学你好。很高兴来到硅谷101的节目。</p>
+<p class="transcript-line"><span class="time"><strong>[00:02:41]</strong> </span><span class="speaker"><strong>发言人1: </strong></span>我看你们现在做机器人其实也是很火，我看见新闻的消息是说投资人基本上很难抢到你们的投资份额。因为现在其实做机器人的公司也非常的多。我初步把它分成两层，一层是造大脑的机器人，以硅谷的派为代表的。其实这类的公司在硅谷我觉得还蛮多的，包括最近拿融资的估值140亿美元的skilled。还有一块就是说造身体做人形跟做机器臂的机器人公司。这类机器人公司像马斯克的optimus语数，包括figure它算在哪一边，我们待会儿可以再详细的聊一聊。但是我觉得大家在初步看到一个机器人公司跟看到他的demo的时候，其实很难分清楚这个机器人公司到底是做什么的对，所以开始的时候您要不要简单给您的公司做一个定位，看看我们速度在做机器人的那个环节。</p>
+<p class="transcript-line"><span class="time"><strong>[00:03:33]</strong> </span><span class="speaker"><strong>发言人2: </strong></span>好的，我们其实是大脑和本体都做。其实也是现在很多的集成公司都在强调的一点，就是要全栈，要做整个的系统。但整个的团队的背景其实是在将近10年以前，就是开始往机器人，以机器学习的方法来驱动机器人方向来做探索尝试的时候，主要都是以软件为主。直到22年团队开始以商业化的方式来做准备的时候，我们才开始正式的考虑自己来做硬件的本体。当然也是因为很多年积累下来的经验，就是如果自己不碰本体的话，也很难把大脑的能力展现，甚至说能够去做一些迭代和探索。所以简单来讲的话，我们是做全栈。</p>
+<p class="transcript-line"><span class="time"><strong>[00:04:12]</strong> </span><span class="speaker"><strong>发言人1: </strong></span>如果我们要类比一家硅谷的，大家现在已经比较熟悉名字的这些机器人公司，你觉得你们做的这些环节跟哪一家机器人公司是更接近的，还是说市场上没有对标者？</p>
+<p class="transcript-line"><span class="time"><strong>[00:04:25]</strong> </span><span class="speaker"><strong>发言人2: </strong></span>我觉得硅谷的机器人公司，不管是像optimus还是上一代的柏顺动力，还是figure YX的话，其实都是本体加模型。不过这几家公司在模型测的能力相对来说比physical intelligence，包括skilled的话要稍微没有那么专注。</p>
+<p class="transcript-line"><span class="time"><strong>[00:04:45]</strong> </span><span class="speaker"><strong>发言人1: </strong></span>所以你们现在核心最专注的方向是什么？是模型的大脑层，还是说操作的层面。比如说我们刚刚提到的optimus，它是一个大家最经典的人形机器人。它除了要做手部的这种操作，他也要去做运动。我看见你们的那个demo，那个机器人，它其实是带一个滚轮的机器人，你的核心的控制是集中在手部环节的。我并不是说一定说做人形就比做手部好。因为我们之前的博客其实有讨论过，灵巧手势机器人可能是最后一公里跟最难的一部分。我想简单的还是来做一个定位上的区隔。</p>
+<p class="transcript-line"><span class="time"><strong>[00:05:23]</strong> </span><span class="speaker"><strong>发言人2: </strong></span>对我觉得做机器人的仿真车model，做基础模型，特别是做操作模型的大部分团队，其实都会类似于像我们以及physical intelligence这样的公司，专注在像grapes 2 ge加卓尔，它对于物体的操作和能力，先把它拉到一定能力的边界，在有一些比如说像二指的夹爪不太好处理的情况之下，再看能不能用多只手或者是灵巧手来做处理。但人形机械公司为了让大家感觉到像人我觉得这一波的风潮其实是在大概两年左右optimum出来的时候。大家对于我给大家描绘的类人形机器人重新回到大家公众的视野，其实是起到了非常强的引导的作用。但在我们看的话，机器人里边要做的物体操作任务，可能90%不一定需要零销售。剩下的可能5%到10%的任务的话，才真正需要多只手。另外是不是双足和轮式，现在机器人的下肢还不是特别的稳定，一会儿我们可能也会提到像语数机器人和铂绅动力figure optimism现在对于环境的认知和感知其实还不是特别强，以及它经常会出现跌倒的情况。所以我们在现在这个阶段可能还是会把操作的任务和下肢灵巧的程度相对来说会解耦一下，但未来我们感觉可能还是会回归到同一条线上来。</p>
+<p class="transcript-line"><span class="time"><strong>[00:06:48]</strong> </span><span class="speaker"><strong>发言人1: </strong></span>未来的同一条线你指的是通用机器人。</p>
+<p class="transcript-line"><span class="time"><strong>[00:06:52]</strong> </span><span class="speaker"><strong>发言人2: </strong></span>对通用的机器人的构型，它应该是一个带有族式，或者是我们自己内部认为的话可能是一个轮族式的一个的构型。它在平地的时候的话可能会有稳定和高效的一个方式移动。但是在比如说遇到一些特殊的地形的时候，还是会像人或者是其他动物一样，有双足或者是四足之间的某一种形态在移动。</p>
+<p class="transcript-line"><span class="time"><strong>[00:07:14]</strong> </span><span class="speaker"><strong>发言人1: </strong></span>对，因为我觉得我们要看每一家公司做机器人，他的思路有什么不一样。可能要从他的整个的历史说起。我知道你的联合创始人苏浩，他是李飞飞的学生。李飞飞当年成名之战是image net。他给上百万的图片做人工标注，然后让机器第一次看这个足够多的世界。苏浩他其实就是image net的核心作者之一。后来他把这个思路搬到了3D我觉得这个跟今天的速度，整个的历史也是一脉相承的。</p>
+<p class="transcript-line"><span class="time"><strong>[00:07:46]</strong> </span><span class="speaker"><strong>发言人1: </strong></span>所以你可不可以简单跟大家介绍一下image net，它当年给机器看海量的带标签的图片。这个当时在整个机器人业界，它是一个什么样的意义？为什么它会成为整个AI爆发的一个导火索？</p>
+<p class="transcript-line"><span class="time"><strong>[00:08:00]</strong> </span><span class="speaker"><strong>发言人2: </strong></span>苏浩求学生涯里面的话，其实一共有2个PHD。其中大概有将近四年的时间的话，他是在李飞飞老师当时在普林斯顿，后来在斯坦福的实验室里边核心的项目。就像您讲的，实际上是做image dead的大的项目。他曾经跟我讲过，飞飞对于整个image net的推动和架构的话，实际是非常有远见的。但核心总结来讲，就是一个能够复现世界上典型物体的二弟的图片和它的文字。用一个结构化的方法去描述这样的一个基础思想。比如说我们在桌子上的杯子，我们需要一系列的典型的图片去描述世界上几乎所有的杯子。但是同样的款式的杯子，可能一张或者两张图片可能就够了。</p>
+<p class="transcript-line"><span class="time"><strong>[00:08:42]</strong> </span><span class="speaker"><strong>发言人2: </strong></span>这个思想在2012年13年，他的第2个PHD的导师就legibus的在斯坦福的实验室里面开始的时候，他也把这套思想带到了三弟里面来，所以他那个时候开始组建三弟的大叔。以及shape net。当然后续的话还有一些非常关键的工作成果。比如说像激光雷达，以点云为表示的表征方法，这个POY net都是它的核心工作。但回到三弟大数据集shape net的话，其实它最大的挑战就在于相比于imaging ET你可以把互联网上面几乎所有的图片和它下面的文字描述和标题梳理清楚，并且找到当时用亚马逊最早的话，我记得应该是在普林斯顿的时候，他们用mechanically turk以众包的方法的话去做标注。但那三弟的模型其实是非常欠缺的这实际上是一个最大挑战。</p>
+<p class="transcript-line"><span class="time"><strong>[00:09:36]</strong> </span><span class="speaker"><strong>发言人1: </strong></span>我理解李飞飞当年他的ImageNet为什么这么火。是因为本质上他当时也是在用一个堆大规模的数据，然后让机器识别。其实有一点点像今天的scaling law，只是在那个时间大家还没有意识到，我可以用一个规模化的数据库去解决机器识别的问题。他自己做了一个大规模的数据库。</p>
+<p class="transcript-line"><span class="time"><strong>[00:09:58]</strong> </span><span class="speaker"><strong>发言人1: </strong></span>我觉得在当年那个年代还是非常有创意、有想法、有远见的思想，把这个思路搬到3D领域。就是我能想象，比如说你二弟你刚刚提到我们要在一个图片里面去识别这个杯子，它就是一个杯子，我只需要一个表情。3D的话就比如说我们今天在录音的这个办公室，杯子放在一个桌子上，然后桌子上还有手机录音笔。首先是它的标注维度会大很多。但是你的文字标注，它怎么去解决这种空间的物理关系，甚至是力的反馈。我觉得这个事情听起来要难很多。</p>
+<p class="transcript-line"><span class="time"><strong>[00:10:36]</strong> </span><span class="speaker"><strong>发言人2: </strong></span>对这里边的工作其实要复杂很多。所以愿意去做3D的大数据集的人，相比于2D以及语言的大数据集的话要少很多很多。三弟其实在大数以及里边的话，我们有一系列的工作。第一个核心工作其实是苏浩在stamper。第2个PHD期间的话，核心工作之一就是shape dead shape ne t的话应该是有几十万个三弟模型，但实际上还远远没有达到像image net t能够覆盖世界上所有物体的所有的模型。</p>
+<p class="transcript-line"><span class="time"><strong>[00:11:08]</strong> </span><span class="speaker"><strong>发言人1: </strong></span>ImageNet当时做到那么大规模，他们收集了多少数据？</p>
+<p class="transcript-line"><span class="time"><strong>[00:11:12]</strong> </span><span class="speaker"><strong>发言人2: </strong></span>最后应该是有1400万张图片和文字的映射。</p>
+<p class="transcript-line"><span class="time"><strong>[00:11:17]</strong> </span><span class="speaker"><strong>发言人1: </strong></span>Ship net几个人的规模，现在做到了几十万的3D数据。</p>
+<p class="transcript-line"><span class="time"><strong>[00:11:21]</strong> </span><span class="speaker"><strong>发言人2: </strong></span>但是当时的一个约束就是你要找到开源的可以用的3D模型。但这些3D模型的话，理论上它应该跟image net类似。它还是需要一个上千万级的物体几何，能够把它整个的三弟的几何，包括刚才您提到还有很多，比如像材质摩擦力、弹性的形变的参数。包括我们现在做的椅子，它其实轮子和椅子本身其实还是有很多的动力学的约束。所以这个三级数据集的shape dead，它只有基础的几何和基础的表面贴图。</p>
+<p class="transcript-line"><span class="time"><strong>[00:11:57]</strong> </span><span class="speaker"><strong>发言人2: </strong></span>我们大概能够预估到它的这些物体的材质。因为比如说杯子大概的话就是玻璃、塑料、金属，它是会有一个范围。但再往下一步的话，同样的一个物体的话，它可能会分不一样的pass和组件。比如说我们拿到一个饮料瓶子会分成瓶身，瓶盖围绕着这个label和标签。有的时候的话你甚至需要标注瓶身上面哪个是它的瓶底，这些其实是对于pass的标注。但飙到part nee t的时候就只有几万的物体了。</p>
+<p class="transcript-line"><span class="time"><strong>[00:12:27]</strong> </span><span class="speaker"><strong>发言人2: </strong></span>我们从之前的shape net再去做一定的筛选，去做标注。因为这里面要涉及到大量的人工，这时候就会对数据的标注的成本有非常高的一些要求。但再进一步，比如说对于这个瓶子，它的瓶盖究竟是往左拧还是往右拧？它拧动之后的话，能不能够把它给拧下来？这个就叫动力学约束的一些标注。这个数据集叫点net mobility。现在为止如果我没有记错的话，还是开源里边最大的带parts带动力学约束的开源数据集。但这里边只有不到3000个物体带有标注的这其实对于几个方面，包括像机器人的合成，数据的训练生成，像现在我们讲的视频生成，里边带有连续的空间物理学性的话，其实都有很大的约束。</p>
+<p class="transcript-line"><span class="time"><strong>[00:13:15]</strong> </span><span class="speaker"><strong>发言人1: </strong></span>Ship net是从什么时候开始做的？</p>
+<p class="transcript-line"><span class="time"><strong>[00:13:17]</strong> </span><span class="speaker"><strong>发言人2: </strong></span>应该是在2013年14年的时候。</p>
+<p class="transcript-line"><span class="time"><strong>[00:13:21]</strong> </span><span class="speaker"><strong>发言人1: </strong></span>对我们说之前让机器去做3D数据的收集，可能标注是一个很费时间成本的事情。现在因为我们在考虑大模型跟机器人的训练方法，比如说我让他现在用shape ne t的这一套开源数据集去训练，跟直接对着视频网站成千上万的开放世界的视频去训练。因为他能拿到的数据是更多的，然后那个视频里面也是有一致性的。这些动作的它的核心区别点是什么呢？</p>
+<p class="transcript-line"><span class="time"><strong>[00:13:50]</strong> </span><span class="speaker"><strong>发言人2: </strong></span>我觉得这个核心区别在我们看来就是二弟的图片和视频里边三维的信息有，但是不太全，也不太准。这其实也是在sora当时在training的时候，管线里边其中之一就是用unreal引擎和unity引擎，从三弟的模型里面渲染大量的二弟的视频和图片，然后再反向来去做训练数据集。但由于互联网上的数据当中太杂，它的三弟的信息其实并不是特别的精准。如果你拿它用来做，比如说像自动驾驶、导航，它可能对精度的要求没有太高。比如说你只要求有一个大概10公分左右的精度是够用的。但是对机器人的操作，10厘米的误差是绝对不能忍受的。像我们面前的这个录音机，我们要把线缆插到对应的孔位里面去，那么他的要求必须是在亚毫米级以内。</p>
+<p class="transcript-line"><span class="time"><strong>[00:14:44]</strong> </span><span class="speaker"><strong>发言人1: </strong></span>所以这个只有3D建模的3D的数据集可以做到，尤其是在机器人的操控方向。</p>
+<p class="transcript-line"><span class="time"><strong>[00:14:50]</strong> </span><span class="speaker"><strong>发言人2: </strong></span>对机器人不管是用哪一种方法，但是对于我们做仿真sim to real的这条路，我们是要求机器人对于物理环境里边的物体和环境，对于几何有比较精准的理解。那么他对于几何的精度的理解就得到毫米级甚至亚毫米级才可以。</p>
+<p class="transcript-line"><span class="time"><strong>[00:15:10]</strong> </span><span class="speaker"><strong>发言人1: </strong></span>所以现在shape net它是一个开源的数据集，还是说它有分层，有一些开源，有一些闭源。</p>
+<p class="transcript-line"><span class="time"><strong>[00:15:18]</strong> </span><span class="speaker"><strong>发言人2: </strong></span>Shift net internet mobility都是开源的数据集，但我们自己内部用的肯定不是这些开源的数据集。</p>
+<p class="transcript-line"><span class="time"><strong>[00:15:25]</strong> </span><span class="speaker"><strong>发言人1: </strong></span>您觉得苏浩在做整个shape net以后，现在开始跟你们一起做速度机器人在这个中间沉淀下来的最核心的资产是什么？</p>
+<p class="transcript-line"><span class="time"><strong>[00:15:35]</strong> </span><span class="speaker"><strong>发言人2: </strong></span>这我觉得是一个特别好的问题，走seem to real这条路，它有点像波音造飞机，很难讲其中是发动机更重要，还是说航电系统更重要，还是说材料更重要。它是一个比较复杂的系统工程，所以怎么能够把搭这个复杂系统工程的团队给建起来，我觉得这是我们团队的最核心的积累。我们团队里边的小伙伴们，在苏浩的实验室以及我们成立公司之后，核心的这几个大组的负责人，其实都在一起工作过七八年的时间。</p>
+<p class="transcript-line"><span class="time"><strong>[00:16:11]</strong> </span><span class="speaker"><strong>发言人1: </strong></span>了解人，还有过去做这些事情的经验跟方法论，这个是无可比拟的优势。</p>
+<p class="transcript-line"><span class="time"><strong>[00:16:17]</strong> </span><span class="speaker"><strong>发言人2: </strong></span>对对对，我觉得是的。包括数据，比如说我们在做仿真器，其实大家能够想象到的市面上的核心的机器人的仿真器。不管是像isac moto cal，甚至说新创的一些公司，都跟我们有千丝万缕的联系。</p>
+<p class="transcript-line"><span class="time"><strong>[00:16:33]</strong> </span><span class="speaker"><strong>发言人1: </strong></span>对我先跟听众解释一下，seem to real, 这会是我们后面会反复提到的一个名词。他的意思直译就是说从仿真到现实，它是让机器人先在电脑的这个模拟的虚拟世界中训练。然后练成之后，把学到的这件事情搬到真机上，让他在物理世界里面也能用。</p>
+<p class="transcript-line"><span class="time"><strong>[00:16:57]</strong> </span><span class="speaker"><strong>发言人1: </strong></span>大家注意，重点其实不是说仿真这两个字，而是搬的这个动作能不能直接把它搬到现实世界，还灵不灵？它是这条技术路径上最大的一个难题。英伟达的isac仿真平台就是这个路径最大的推手之一。与它相对的另一条路径就是跳过仿真，直接用真实世界采集的数据来训练。比如说让人去手把手的教，然后机器照着学。所以我听下来你们算是这个领域开山之派的这种感觉。</p>
+<p class="transcript-line"><span class="time"><strong>[00:17:32]</strong> </span><span class="speaker"><strong>发言人2: </strong></span>我觉得一定程度上讲肯定是这样的。比如说像具身智能amo DAI的英文的提法，应该是2019年苏浩跟很多北美的教授联合提出的一个有测评标准的新的研究领域。像屈身智能的这个翻译，也是他的当时一起合作过的某一位教授回到国内去之后，找他一起讨论和商量定的这样的一个描述。但用机器学习的方法去做机器人控制的，我觉得他是跟12 gae他们应该是同一波。在那个时候的话做。</p>
+<p class="transcript-line"><span class="time"><strong>[00:18:07]</strong> </span><span class="speaker"><strong>发言人1: </strong></span>探索的非常早。所以你们公司成立是在什么时间速度？</p>
+<p class="transcript-line"><span class="time"><strong>[00:18:10]</strong> </span><span class="speaker"><strong>发言人2: </strong></span>公司正式成立其实在去年上半年，但我们以一个商业化和半商业化开始组织是在2022年下半年开始的。</p>
+<p class="transcript-line"><span class="time"><strong>[00:18:22]</strong> </span><span class="speaker"><strong>发言人1: </strong></span>我记得苏浩其实是非常早就出来拿他这个shift net整个的一套思想，他有在做跟机器人跟3D数据集的一系列的探索。那个是在什么时间？</p>
+<p class="transcript-line"><span class="time"><strong>[00:18:34]</strong> </span><span class="speaker"><strong>发言人2: </strong></span>应该是2012年13年。他做这个决定是因为在imaging NET出来之后，他自己有一个想方是要做一个类似于神经网络的架构。但当时跟他配合的人没有那么多。在image net的挑战赛alex det横空出世之后，对他的冲击我觉得是非常大的。他觉得自己错过了可能是错过了一个非常重要的一个机会。所以他自己就在思考下一站大的领域是什么？所以他想把大数据集加神经网络的方法带到物理世界里面来。所以在他拿到第一个PHD之后，在刘格维斯教授组开始搭建新的三弟的learning的团队。</p>
+<p class="transcript-line"><span class="time"><strong>[00:19:19]</strong> </span><span class="speaker"><strong>发言人1: </strong></span>对，好早。这个中间我觉得不管是机器人，还是我们说现在的AI它的技术已经经过了特别多轮的迭代了。比如说生成式AI就是一家刚刚在录音前，我们还有一段时间讨论过机器人界的历史。为什么在前几年，包括在1213年那段时间，甚至更早的一段时间，大家投资机器人都是不赚钱，甚至是一个失败的投资项目。而且那个时候其实硅谷有非常多好的机器人项目，像什么covariant。</p>
+<p class="transcript-line"><span class="time"><strong>[00:19:49]</strong> </span><span class="speaker"><strong>发言人2: </strong></span>我觉得这是一个非常好的一个问题。我们其实也在创业初期受到了上一波大家对这个问题的影响。从一二年13年开始到15年、16年，当时应该是我们叫android之父andy rubin加入google之后，他负责了google的X这个项目。当时应该收购了非常多家的机器人的公司，最知名的可能就是波士顿动力，后来又转手过很多次，包括给搜半个软银，现在主要的控股股东可能是现代。但也有像您刚才提到的，像workers intrinsic，现在还在google里边，everyday robotics它的硬件部门已经被关闭掉了。但当时那波，可能大家还是想用机器学习的方法往前去推进。但当时的要素我觉得可能还不是特别全。</p>
+<p class="transcript-line"><span class="time"><strong>[00:20:40]</strong> </span><span class="speaker"><strong>发言人2: </strong></span>在2022年我和苏浩开始讨论他有这个想法去做机器人的底层操作模型的公司的时候。我们当时讨论最多的一点，是什么原因能够促使大家觉得现在的机遇跟大概七八年以前明显的不同。当时我们的决策的核心原因之一。</p>
+<p class="transcript-line"><span class="time"><strong>[00:21:00]</strong> </span><span class="speaker"><strong>发言人1: </strong></span>就是大力的出现文生图。</p>
+<p class="transcript-line"><span class="time"><strong>[00:21:02]</strong> </span><span class="speaker"><strong>发言人2: </strong></span>对文生图的OpenAI的早期的模型，它的核心就在于它让我们意识到三弟的shape net t part net。它只有几十万的模型，但是图片实际上是有，比如说像image的coco这些，它其实是有上千万的。它可以描述整个世界上的几乎所有的物体。那么有没有一种方法能够把2D升级到3D来，实际上是有机会的。从一个朴素的想法来讲，就是在仿真器里面，如果是要做一个仿真tion model，要重建整个世界的物体和环境的话，理论上是开始可行了。</p>
+<p class="transcript-line"><span class="time"><strong>[00:21:41]</strong> </span><span class="speaker"><strong>发言人1: </strong></span>我们刚一直在提你们在走same to real的路线，你的seem to real的底层应该是一个我理解现在可以说是世界模型或者是3D的大模型。</p>
+<p class="transcript-line"><span class="time"><strong>[00:21:53]</strong> </span><span class="speaker"><strong>发言人2: </strong></span>我觉得一定程度上的是对的。其实仿真在我们推动CPMI skill开始，应该是在18年19年开始的时候，相比于之前的可谓的有限元仿真。比如说像飞行器和汽车制造里面，我们要做流体力学仿真。以前的机器人的时候，你要做机械，包括力学的方针。但当时的环境是我们只需要在一个大型的机器上面当中开一个环境，让它跟真实的机器或者是飞行器也好，车也好，机器人也好的话尽可能的接近。</p>
+<p class="transcript-line"><span class="time"><strong>[00:22:25]</strong> </span><span class="speaker"><strong>发言人2: </strong></span>但新的机器人的仿真器的它的设计思路都不太一样。它并不需要我们在一个大型的机器或者是一个大型机群里边无限去逼近一个真实的环境，反而是用不一样的思路。我们需要在比如说一张GPU上面的话，怎么能够开出成百上千甚至上百万个并行的环境。但我们的要求是不需要让它看起来非常的真实。比如说它的分辨率，真的你要去看这个仿真器里面在做训练的时候，它分辨率其实非常低。但是它要求物理的一致性当中的话尽可能接近，但并不需要无限的接近。他一定是要在真实和效率之间做大量的取舍的设计。</p>
+<p class="transcript-line"><span class="time"><strong>[00:23:14]</strong> </span><span class="speaker"><strong>发言人1: </strong></span>所以你们选择了在这个仿真器里面更多地遵循整个世界的底层的物理法则，牺牲观赏性跟分辨率。</p>
+<p class="transcript-line"><span class="time"><strong>[00:23:23]</strong> </span><span class="speaker"><strong>发言人2: </strong></span>我们把经典牛顿力学，包括这个物理仿真里边的很多人类总结这么多的公式都代入到方程器里边来。但同时我们又给它大量的开放世界三弟的物体环境任务的数据，让机器人在里边做强化学习。</p>
+<p class="transcript-line"><span class="time"><strong>[00:23:40]</strong> </span><span class="speaker"><strong>发言人1: </strong></span>所以你们现在seem to real的这条路线，包括仿真器的设计，我理解它所有的环境搭建都是为机器人服务的。机器人对一件事情的理解，你们可能是不局限于我要去拧一个矿泉水的瓶盖，而是说我想让机器人做所有的他能看见的现实世界中的环境，它都能操作。我的理解是对的吗？</p>
+<p class="transcript-line"><span class="time"><strong>[00:24:02]</strong> </span><span class="speaker"><strong>发言人2: </strong></span>对，简单来讲就是我们想把人类和整个生物对于环境的理解，交互物体的操作，几百万年的进化的过程放在仿真器里面来，让机器人在经历完整的进化的过程。</p>
+<p class="transcript-line"><span class="time"><strong>[00:24:17]</strong> </span><span class="speaker"><strong>发言人1: </strong></span>数据从哪里来？</p>
+<p class="transcript-line"><span class="time"><strong>[00:24:19]</strong> </span><span class="speaker"><strong>发言人2: </strong></span>有几个方面。第一就是我们刚才提到的物体。比如说我们怎么能够建一个跟image net一样的shift net，怎么能够把世界上典型的物体都能够用三弟的表征在仿真器里面去做呈现。</p>
+<p class="transcript-line"><span class="time"><strong>[00:24:36]</strong> </span><span class="speaker"><strong>发言人1: </strong></span>我理解之前shape net的那一部分已经开源了，你们现在在做一个自己的shape net.</p>
+<p class="transcript-line"><span class="time"><strong>[00:24:41]</strong> </span><span class="speaker"><strong>发言人2: </strong></span>对，或者讲就是给机器人用的一个更加完整的高效的3D物体的数据集。</p>
+<p class="transcript-line"><span class="time"><strong>[00:24:47]</strong> </span><span class="speaker"><strong>发言人1: </strong></span>对，然后你们这一部分是现采的，现在大概有多少数据可以公开？</p>
+<p class="transcript-line"><span class="time"><strong>[00:24:52]</strong> </span><span class="speaker"><strong>发言人2: </strong></span>这个我们暂时没有办法正式对外透露。但相比于shape net以及开源的，我们叫结构话术以及和非结构化数据集。比如像image net t shape nee t都是结构化数据集。我们指的是说它是分类别，每个类别里边的子类都有对应的标签。</p>
+<p class="transcript-line"><span class="time"><strong>[00:25:10]</strong> </span><span class="speaker"><strong>发言人2: </strong></span>还有一些是非结构化数据集，比如说三弟里面其实也有非常大的数据集。有一个叫paul Allen做的，Allen的他自己在主推的object worse将是有上千万的数据集。它有其中之一的方法就是把github上面所有的带有三弟的文件的项目里面所有的文件都挖出来。但那是一个非结构化的数据集，里边可能大量的都是，比如说像游戏里面出现的人物的盔甲、武器，但您可以认为这些的三弟的文件大量的重复的，对于机器人做物体操作的话，其实用处不仅很大。所以我们自己要建物体的带结构化的数据集是非常关键的。但它的挑战就在于说有很多物体是没有3D文件的。</p>
+<p class="transcript-line"><span class="time"><strong>[00:25:52]</strong> </span><span class="speaker"><strong>发言人2: </strong></span>当然二弟到三弟的生成实上是一个非常有效的一个手段。但现在迭代这么多年，在过去取得突猛进的进展。但现在还有一些是需要人工做建模标注和参与的。</p>
+<p class="transcript-line"><span class="time"><strong>[00:26:05]</strong> </span><span class="speaker"><strong>发言人1: </strong></span>你怎么评价你们公司的这一部分数据的质量？就比如说普通好，非常好，这可能是几个不同的等级。你觉得现在在机器人的训练中是用极高质量的数据更关键，还是说我需要用更大规模的数据，但是这个数据的质量可能没有那么高。就是你怎么看这两者之间的权衡？</p>
+<p class="transcript-line"><span class="time"><strong>[00:26:27]</strong> </span><span class="speaker"><strong>发言人2: </strong></span>对我觉得这是一个特别好的问题。我们也没有标准答案，永远是在质量和规模之间要取得平衡，但规模是一定要达到一定程度的。我就有一个朴素的判断，就是你要把世界上的典型的物体，它们之间的组合的环境和要去做的操作任务都有一个结构化的一个描述。你不能只去列举其中的一种形态，说我在找类似的100个和1000个、1万个就能够累积到一个结构化的程度。这几乎在机器学习的历史上，不管是说二弟的视觉，还是像自然语言，还是说自动驾驶里面，其实都没有出现过。所以三弟里这样是也是类似的。</p>
+<p class="transcript-line"><span class="time"><strong>[00:27:12]</strong> </span><span class="speaker"><strong>发言人2: </strong></span>在仿真器里边我们要搭建的结构化的数据集是非常关键的。但我们也清晰的知道，不太需要无限制的准。比如说单个饮料瓶子，它的材质的具体的描述，包括它的表面标签上面文字的信息，它的图片需不需要百分之百的还原，其实是不需要的。但究竟怎么取得这样的一个平衡的话，实际上是每家可能都有不一样的理解。</p>
+<p class="transcript-line"><span class="time"><strong>[00:27:38]</strong> </span><span class="speaker"><strong>发言人1: </strong></span>OK所以你们的数据集算是一个什么样的质量。</p>
+<p class="transcript-line"><span class="time"><strong>[00:27:42]</strong> </span><span class="speaker"><strong>发言人2: </strong></span>我们对于结构化的理解的话，应该是在所有的团队里面可能做的最好的。但另外一点，我们也知道结构化的下面我们还应该去去补哪些数据。所以他有没有搭完呢？肯定还没有。比如说我瓶子要怎么去泞，这些对于动力学约束其实还是整个行业里面最欠缺的数据。</p>
+<p class="transcript-line"><span class="time"><strong>[00:28:05]</strong> </span><span class="speaker"><strong>发言人1: </strong></span>然后我们刚刚讲了seem to real你们的这个仿真器跟大脑的这一部分，我们说same to real。后面的to real就是怎么把电脑模拟的世界放到现实的世界中。因为传统大家来说，机器人界有几派争议，一个就是seem to real的这一派，还有一个就是用real world data的这一派质疑。Seem to real的这一派就会认为，我把simulation里面的东西放到现实世界中，它的效果可能没有那么好。你们其实也有机器人的本体，然后也已经开始操作了，可不可以讲一下你们的执行效果以及你看到的gap？</p>
+<p class="transcript-line"><span class="time"><strong>[00:28:40]</strong> </span><span class="speaker"><strong>发言人2: </strong></span>我觉得sim to real相比于主要以真机数据或者是真世界数据采集，包括像tel ops尧操作机器人，包括5米以动作捕捉设备人去做物体的采集。不管是比如像5米的这种夹爪，还是说我穿全身动捕服。第三种，比如说现在大家经常在讲的所谓的eagle centric的数据，我以第一人称视角去拍摄一些视频。</p>
+<p class="transcript-line"><span class="time"><strong>[00:29:02]</strong> </span><span class="speaker"><strong>发言人2: </strong></span>但这些方法相比于sim terro而言，操作起来都会简单一些，但它很难保证某一类操作任务开放世界的泛化性，这个指的是什么呢？就是基础模型一般的描述是你给它一个任意物体，就是不管是说在预训练还是后训练都没有出现过的。他能够以一个非常高的成功率就能够去完成这个任务。假如说是以这个维度而言的话，我们觉得sim turo是跳不过去的。因为真机操作动捕的方法异构的方法异构。</p>
+<p class="transcript-line"><span class="time"><strong>[00:29:33]</strong> </span><span class="speaker"><strong>发言人1: </strong></span>是什么意思？</p>
+<p class="transcript-line"><span class="time"><strong>[00:29:34]</strong> </span><span class="speaker"><strong>发言人2: </strong></span>就是以第一人称视角去拍摄人用我们自己的手，比如说去拿水杯，包括去拧瓶盖。但我们其实之前也稍微的提到一点，就是这类的视频和图片，它的几何的理解和精度当中可能是不太够的。所以我们在仿真里边核心就是要重建这些物体和环境的3D光处理的信息量。但是如果规模不够，这个其实是很难体现出sim pro的优势和能力的。</p>
+<p class="transcript-line"><span class="time"><strong>[00:30:03]</strong> </span><span class="speaker"><strong>发言人1: </strong></span>多大算一个规模。</p>
+<p class="transcript-line"><span class="time"><strong>[00:30:04]</strong> </span><span class="speaker"><strong>发言人2: </strong></span>这是一个很好的问题。我觉得直到我们四月份，其实放过一个结果，就是我们叫速度r one。速度r one实际上是我们去年11月份和12月份一个内部的一个结果。在我们看来这可能是整个的机器人里边尝试用sym to real路线里边能够做到silo shot开放世界某一类任务，能够把sim tor gap当中的话给填平的第一次。</p>
+<p class="transcript-line"><span class="time"><strong>[00:30:29]</strong> </span><span class="speaker"><strong>发言人1: </strong></span>好，我们接下来一起来看一下四月份的demo。</p>
+<p class="transcript-line"><span class="time"><strong>[00:30:33]</strong> </span><span class="speaker"><strong>发言人2: </strong></span>这个视频就是我们展示了连续1个小时我们可能试了一百多个物体，操作了两百多次。但这些物体其实都是在我们的训练数据里没有出现过的。比如说物体失败之后，我们也没有补后训练的数据。所以它是一个对于物体通用的抓取，第一次可以做到零样本的高成功率的结果，我们会变换很多的光照环境和物体，到1个小时结束的时，我们一共做了二百多次物体抓放的操作。</p>
+<p class="transcript-line"><span class="time"><strong>[00:31:03]</strong> </span><span class="speaker"><strong>发言人1: </strong></span>240次抓放操作。</p>
+<p class="transcript-line"><span class="time"><strong>[00:31:05]</strong> </span><span class="speaker"><strong>发言人2: </strong></span>单次对于这个物体做抓放的成功率是将近98%。但是如果他第一次失败之后，这个机器人还会用一个闭环控制的方法，迅速的再去调整他的策略，就可以做到百分之百。在这个结果发布之后，整个的研究社区里边就有一派的声音。就是说我们肯定也是精心控制变量，包括这些物体和环境，是不是我们在训练里边没有见过大家对这个事情是有质疑的。</p>
+<p class="transcript-line"><span class="time"><strong>[00:31:32]</strong> </span><span class="speaker"><strong>发言人1: </strong></span>所以你们有控制变量跟在训练集里见过吗？</p>
+<p class="transcript-line"><span class="time"><strong>[00:31:35]</strong> </span><span class="speaker"><strong>发言人2: </strong></span>没有，其实完全没有。</p>
+<p class="transcript-line"><span class="time"><strong>[00:31:37]</strong> </span><span class="speaker"><strong>发言人1: </strong></span>对我跟大家先简单解释一下，因为大家可能看不到这个视频，你们第一次demo的画面是一个机器人站在一个操作台前。再去抓不同的物体。然后这个物体包括像饮料的瓶子，还有小零食。每一种的物体在我看来它的形态，包括这个瓶子，它可能是一个椭圆形的，也有可能是一个锥形的这可能对机器人的手他就要求他去抓不同的部位，它才能把它抓成对的，还是很不一样的。然后这个视频的时长是60分钟，你们是连续拍摄对吗？对，是的，连续拍摄没有间断，上面显示一共是240次抓取。所以大家有质疑是说你们可能是看过这些数据，但其实是没有。</p>
+<p class="transcript-line"><span class="time"><strong>[00:32:20]</strong> </span><span class="speaker"><strong>发言人2: </strong></span>是的，对。所以我们当时就决定说要在公众的面前给大家做一次展示。所以在六月初的时候的话，我们首先在维也纳举行的一块儿的大会上，我们就首先把这个太机器人第一次带到了研究者的面前。大概我们统计了一下，在几天的会议里面，可能有将近1000人左右来到我们的站台前面，用他们自己各种各样随机的物体去做测试。比如说参会的证件，比如像手机、耳机、小玩偶来做测试。</p>
+<p class="transcript-line"><span class="time"><strong>[00:32:49]</strong> </span><span class="speaker"><strong>发言人2: </strong></span>昨天我们其实也刚刚从CPR的会场回来，我们也是搭建了一个展台。然后让整个学术界和工业界当时以为我们这个视频可能是处理过的。大家还是在一个非常随机的一个环境之下去做测试。这在以前类似于这种的学术会议上，是从来没有人能够做到这样的展示。原因之一就在于它几乎没有给你时间去做准备。比如说之前像他会在学术会议开始之前，在旁边租一个LB硬币，把自己的机器人放在那边去收集大量的数据。可能要提前一个月进场，做好处理之后重复去展示。比如说做咖啡的任务已经是非常。</p>
+<p class="transcript-line"><span class="time"><strong>[00:33:34]</strong> </span><span class="speaker"><strong>发言人1: </strong></span>所以它是有针对单个厂场景去做适配跟练习的。</p>
+<p class="transcript-line"><span class="time"><strong>[00:33:39]</strong> </span><span class="speaker"><strong>发言人2: </strong></span>他是肯定要的对对。</p>
+<p class="transcript-line"><span class="time"><strong>[00:33:40]</strong> </span><span class="speaker"><strong>发言人1: </strong></span>你们没有。</p>
+<p class="transcript-line"><span class="time"><strong>[00:33:41]</strong> </span><span class="speaker"><strong>发言人2: </strong></span>我们是不需要的。只不过这两者的区别之一就在于我们实际上更关注对于物体的基础操作。比如说这种短的基础操作的。</p>
+<p class="transcript-line"><span class="time"><strong>[00:33:50]</strong> </span><span class="speaker"><strong>发言人1: </strong></span>高zero shot，就是一次性抓取成功的单个动作。我理解他做的是连续动作，因为做咖啡是一个连续动作。</p>
+<p class="transcript-line"><span class="time"><strong>[00:33:59]</strong> </span><span class="speaker"><strong>发言人2: </strong></span>对他就相当于说要把这个连续动作让人去遥控这个机器人至少要出现过很多次。如果是他换一个咖啡机，或者是同样的咖啡机换一个环境的话，它的成功率肯定会要往下掉不少。那这时候怎么做呢？包括绝大多数的机器人模型公司都还要去再补充一定的数据去做拟合。</p>
+<p class="transcript-line"><span class="time"><strong>[00:34:22]</strong> </span><span class="speaker"><strong>发言人1: </strong></span>对做单个一次性抓取的任务跟做一个像甚至我们说很多灵巧手公司，他要做一个长达21步的这种长程任务。就是复杂动作的拆解，每一步都需要连续。你觉得这两者之间哪个更难？</p>
+<p class="transcript-line"><span class="time"><strong>[00:34:38]</strong> </span><span class="speaker"><strong>发言人2: </strong></span>我觉得如果是真正做机器人的manipulation，做操作的社区的话，肯定认为ZO shot稳定的。对于开放世界的基础物体的操作，短操作的成功率其实更加核心和关键。长城任务的复线也是非常核心和关键的部分。但其实如果是你的短技能当中足够的稳定可靠，它的泛化性足够高，你其实是可以把短技能拼成各种各样的长城操作的这其实也就是many skills的整个核心的框架的大的思想。</p>
+<p class="transcript-line"><span class="time"><strong>[00:35:11]</strong> </span><span class="speaker"><strong>发言人1: </strong></span>所以我理解其实最难的部分是开放世界，而不在于它是短还是长。你只要在开放世界中短的能成功，那么连续成长的它是一个迟早的问题。</p>
+<p class="transcript-line"><span class="time"><strong>[00:35:21]</strong> </span><span class="speaker"><strong>发言人2: </strong></span>对，简单讲是这样。但是里边其实还有很多的核心工作，比如说你要做短技能，串联成长技能，其实也是一个类似于像思维链的方法。其实在chal sauce提出来大概在二三年的时候，我们其实也有一个同期的一个工作，叫chal sauce predict control。就COTPC它其实就是专门处理短任务如何串联成长城任务的，类似于思维链的一个框架。</p>
+<p class="transcript-line"><span class="time"><strong>[00:35:45]</strong> </span><span class="speaker"><strong>发言人1: </strong></span>我看见你视频里面的展示这个机器人，它是一个两个指头的抓夹。因为我们知道在灵巧手里面大家也分的很细。就是你是两个指头的抓夹，还是说你的手部有几十个关节，然后你可以做一些复杂的动作，比如说在手内转小球或者是穿针引线，这种需要你非常精巧的操作。这两个在训练方式上会有不一样吗？还是说这个是你们下一步的目标。</p>
+<p class="transcript-line"><span class="time"><strong>[00:36:13]</strong> </span><span class="speaker"><strong>发言人2: </strong></span>其实林教授的话，我们在2023年，甚至在之前，我们都有很多研究的一些成果。但一般在做机器人的man page操作的模型的时候，大家一般会把这个问题稍微结构一下。绝大多数的任务其实并不需要零销售的操作。但零销售直到现在行业已经取得了非常多的进步的前提之下，它的稳定性和可靠性其实还不是特别好。包括它的成本其实都没法儿控制的特别优秀。但是相比于早期像shadow hand的，可能几十万美金一支，它已经好了非常多。但到现在为止，因为我们自己用simulation可以知道对于物体的操作，比如说像手内转魔方，比如说盘核桃这些的确是需要多只手，甚至有的时候它不一定是五只手穿针引线，有的时候也不一定需要并销售，它主要还是看成穿针引线，可以直接用机器。对对对，所以我觉得您这个提的特别的关键一点，就是肯定凝胶者是最为通用的。但是对于稳定性和可靠性，以及一开始大家在做探索的时候降低变量的话，林教授是一个选项，但不是一个性价比最高的方法。</p>
+<p class="transcript-line"><span class="time"><strong>[00:37:23]</strong> </span><span class="speaker"><strong>发言人1: </strong></span>对，因为今天我们录播课的时候，其实我是第一次看你这个demo。我知道你有更远大的梦想，就是你想实现更加开放世界的通用的机器人的操作。但是我直接看到这个demo的感受是，这跟几年前像various包括像covariant想做的东西非常的相似。但是其实我也跟他们内部的人聊过，他们当时没有办法做到这么稳定。</p>
+<p class="transcript-line"><span class="time"><strong>[00:37:47]</strong> </span><span class="speaker"><strong>发言人1: </strong></span>我看他们当时的那个demo场景是什么？就是说我把一堆丝芙兰买到的女生的化妆品的小样，什么唇膏，就是各种小东西放在一个筐里。我就让这个机器人去抓取，看它抓取的成功率，其实当时他的那个成功率不是很高。对然后我们也知道亚马逊它其实是收购了covariant的核心创始团队。我能想象这个场景，基于仓库物流的分类，它已经是有超级多的工业应用场景了。所以在商业化上，虽然我知道你可能还会有一个更远的梦想，你会考虑在一些垂直的应用场景开始去做一些商业化的部署了。</p>
+<p class="transcript-line"><span class="time"><strong>[00:38:24]</strong> </span><span class="speaker"><strong>发言人2: </strong></span>对我觉得这是一个特别核心的商业化的思考。我们的策略实际上是认为机器人的各种各样的行业的应用有非常多。作为我们自己一家公司，第一是做不完，大概有成千上万甚至上十万、上百万不一样的机器人的应用。应该是由每个垂类的应用最理解的这样的一个团队去做推动和参与。</p>
+<p class="transcript-line"><span class="time"><strong>[00:38:48]</strong> </span><span class="speaker"><strong>发言人2: </strong></span>我们自己在里面的定位是，比如说我们刚才看到的抓物体，包括之后我们再推出的一些技术操作技能，应该把它排列组合的能力给到每一个想要拿他去亚马逊里面做各种各样的化妆品的分解，也可以做玩具分解，也可以做零食分拣。同时他也可以拿到工厂里面去做零件的上下料组装，也可以进到家里面。比如说把我们吃完饭的桌子收拾干净，我们希望我们能够做到的是一个底层基础短技能的稳定可靠的基础模型。提供好API，并且能够把这些基础技能拼成各种各样不一样的长城的任务。但他的要求就在于大家有这样的想法，搭成类似于像大语言模型里面的agent。</p>
+<p class="transcript-line"><span class="time"><strong>[00:39:35]</strong> </span><span class="speaker"><strong>发言人2: </strong></span>我们有一个新的描述叫adapt，他其实是可以把我们对于比如说今天我要在这个会议室里面给我们再拿一杯咖啡。我可能是要从旁边的屋子找到咖啡机，按好那个按钮端杯子来，中间还要经过两道门。这个任务我们希望在任何的办公室里面都能够完成，但他只需要用同样的一套逻辑就可以。这一类我们管它都叫机器人的上层应用。这一类的上层应用我们就希望大家用我们的机器人的完整系统，包括本体和底层模型搭出来这样类的应用的时候。假如说我是上层的开发者，我坐的往会议室里面去送饮料的这样的一个应用，可以在任何一个办公室都可以起作用。</p>
+<p class="transcript-line"><span class="time"><strong>[00:40:18]</strong> </span><span class="speaker"><strong>发言人1: </strong></span>对大家跟你买的是什么呢？买的是一个机器人的本体加上模型，加上API的调用次数。</p>
+<p class="transcript-line"><span class="time"><strong>[00:40:25]</strong> </span><span class="speaker"><strong>发言人2: </strong></span>简单来讲是本体加我们的软件支持上层的应用，实际上是开发者去做开发，我们也可以帮大家去做二次的分发。这个模式其实就回到我们怎么认为机器人的商业模式。假如说是从硬件的形态而言，它更接近于汽车里边有大量的像电池、电机。它的计算单元相比于汽车而言，它的体积会更小一些。但是从结构上会比较接近。但是从商业模式上而言，我们一直内部认为它更像是智能手计。</p>
+<p class="transcript-line"><span class="time"><strong>[00:41:00]</strong> </span><span class="speaker"><strong>发言人2: </strong></span>会有公司去提供一个像iphone或者是像android。它有一个硬件加一个操作系统，它有完整的SDK，开发者就在上面去搭各种不一样的应用，可以贴牌。但更重要的是有人去做uber，有人去做doordarshan，比如说像国内就有人做美团，有人做滴滴，同时还有人会去做instagram、小红书各种各样的应用。</p>
+<p class="transcript-line"><span class="time"><strong>[00:41:23]</strong> </span><span class="speaker"><strong>发言人1: </strong></span>我开始听到你这个商业模式的时候，我本来想把它比喻成一个安卓手机。但是我后来想了一下，如果说你们是一个安卓操作系统的话，还缩小了。因为他的手机是可以自己制作的操作系统，它只是买软件。但是我理解其实你们现在卖机器人的整套的话，你其实是需要硬软件一起卖的。因为机器人的硬件跟软件，它是一个操作的整体，他很难说他买一个软件放在一个新的机器人上，它能适配。</p>
+<p class="transcript-line"><span class="time"><strong>[00:41:51]</strong> </span><span class="speaker"><strong>发言人2: </strong></span>对，这其实还是可以echo一下您提的前面的一个问题，就是说sym 2的gap怎么搞，核心的原因怎么能够去解的比较好。就是你的硬件和软件要一起设计，包括我们仿真器里面去仿的这台的机器人。有两个要求。第一个是仿真器里面也不是万能的。我们可能有一些构型或者是某些的组件和元件，现在还没有办法仿的特别的好，或者是还没有来得及去做处理。这时候我们就需要让这个机器人在做硬件选型和构型的时候，用仿真器支持比较好的方法去做设计和搭建。</p>
+<p class="transcript-line"><span class="time"><strong>[00:42:28]</strong> </span><span class="speaker"><strong>发言人2: </strong></span>第二个就是硬件本身它也有各种各样差异和噪音。即便是我们自己在设计同一款机器人的时候，每台个体都有差异，这是不可能百分之百填平的。包括单独每一台机器在每一次上电的时候，它的表现其实也都不太一样。这时候就在仿真器里面的话，要对于这些噪音和差异做一定的仿真。但这个前提都是你不能差别太大。</p>
+<p class="transcript-line"><span class="time"><strong>[00:42:57]</strong> </span><span class="speaker"><strong>发言人1: </strong></span>了解。所以我理解seem to real的这条路径就是他一定要跟机器人的本体是绑定在一起的对。</p>
+<p class="transcript-line"><span class="time"><strong>[00:43:04]</strong> </span><span class="speaker"><strong>发言人2: </strong></span>我们觉得是强绑定。虽然在我们成立公司之前，我们做开源的CBMSQ，包括像IC大家都在强调说我可以支持各种不一样的构型。但我们想讲开源的这些方法都是研究的方法，它实际上是极度的简化了。比如说像机器人里边导入到仿真器里面，它用的像有个叫URDF的格式。那么它对于它的几何动力学约束都是做了一定的简化。它其实不太会考虑到像电机的控制里边，它的噪声，它的响应曲线的齿质，包括每次上电的时候都有差别。这些其实在研究界大家可能还没有办法去考虑到这么多的细节。但是你要做一个稳定可靠，可以解决syro gap，并且可以在开放世界里边有足够可靠稳定的能力的这样的一个机器人的时候，我们就要把它当成一个综合系统来考虑。</p>
+<p class="transcript-line"><span class="time"><strong>[00:43:56]</strong> </span><span class="speaker"><strong>发言人1: </strong></span>所以靠跟硬件的整合，它是一条解决gap的路径。还有其他的方式，比如说在软件层面的调控的解决路径吗？</p>
+<p class="transcript-line"><span class="time"><strong>[00:44:04]</strong> </span><span class="speaker"><strong>发言人2: </strong></span>对我觉得就是所有的方法都要有机的结合在一起。比如说像数据的规模和它结构化的规模，包括如何能够要把它的仿真的效率拉的更高。比如说我们用不用真实世界的数据去做训练。的确也有，比如说在仿真里边我们也会让机器人去看人去做操作的时候，哪一种方法更加的高效。</p>
+<p class="transcript-line"><span class="time"><strong>[00:44:26]</strong> </span><span class="speaker"><strong>发言人2: </strong></span>我还是拿这个瓶盖举例子，机器人的强化学习，假如说是你要让他把瓶盖拧开，你会发现机器人一开始它可能碰的都不是瓶盖，他可能会碰饮料瓶的标签或者是饮料瓶的底部，甚至往上稍微的推它一下。但这些在早期的强化学习的探索的话，其实都是一些相对来说比较随机的探索。但是你如果让他看一段人的操作的话，比如说人在做瓶盖操作的时候，是接近于这个瓶盖，然后在附近去做了一些动作的时候，那么它的强化学习的效率也会更高一些。这些其实都是在强化学习框架的设计，特别是model SRL。最难的其实就是在于这部分，你怎么能够给反馈设计的好，甚至是说怎么能够把它批量自动化。</p>
+<p class="transcript-line"><span class="time"><strong>[00:45:15]</strong> </span><span class="speaker"><strong>发言人1: </strong></span>而且我觉得机器人手去拧瓶盖的难度，跟你在仿真器里面让机器人自己运动的这个难度还是完全不一样的。因为你那个手拧的不管是角度还是你控制的电量，它差1厘米，它的区别就非常大，不用1厘米了，几毫米。</p>
+<p class="transcript-line"><span class="time"><strong>[00:45:32]</strong> </span><span class="speaker"><strong>发言人2: </strong></span>对您刚才提到的这一点其实是非常核心的一点。仿真里边的强化学习和CM to real其实已经在类似于像波轮动力和语数这样的人形机器人和4足狗的local motion的控制已经得到了充分的验证。是而且比如说使用英伟达的Isaac，其实里边的有一部分的强化学习引擎也是我们团队成员在早期贡献的，大家都有些参与。但机器人如果是要对于物体去做操作，它这个难度要高2到3个数量级。</p>
+<p class="transcript-line"><span class="time"><strong>[00:46:00]</strong> </span><span class="speaker"><strong>发言人1: </strong></span>你说操作层面上的，就是你停靠的这种，包括跟桌子上的很多东西的一些交互。对，这个很有意思。因为我们上个月有一个线下的英文论坛，当时正好是英伟达它有一个证明，就是seem to real scaling law起效的这样的一个方式。就是说我用seem to real可以在现实中真的去控制机器人的运动。他们那个研究成果刚刚出来，然后我印象还很深。我当时还在我们线下的活动上还问了英伟达的科学家。我说你这个控制大运动听起来是已经可行了了，但是控制灵巧手这个是不是还是一个很关键的没有被解决的问题。然后我觉得我今天跟你的这个聊天，好像正在找到这个问题的答案。</p>
+<p class="transcript-line"><span class="time"><strong>[00:46:40]</strong> </span><span class="speaker"><strong>发言人2: </strong></span>对我觉得我们之所以提这个难度要高2到3个数量级，就是因为如果你只是需要关注自身的动作的话，你其实不需要对世界有理解。你不需要知道这个物体的形状，不是需要知道它的材质，你也不需要知道我怎么能够移动到这个物体附近，并且在接触到这个物体之后怎么去做适度的调整。对于这个物体的操作而言，它的难度就在于它首先要构建一个结构化的一数据。这个在local motion，比如说做姿态控制，实际上是并没有这个问题，他只需要关注机器本身。是的。第二，它其实对于环境的理解和做所谓大家现在讲卧尔model，其中有非常重要的一支就指的是机器人对于物理世界的理解和推理预测，这些其实他们也不太需要。</p>
+<p class="transcript-line"><span class="time"><strong>[00:47:29]</strong> </span><span class="speaker"><strong>发言人1: </strong></span>所以你们的机器人是真的理解物理世界吗？还是他只是说数据训练的多，他不用管，为什么，它就直接输出就好了。</p>
+<p class="transcript-line"><span class="time"><strong>[00:47:37]</strong> </span><span class="speaker"><strong>发言人2: </strong></span>我们的这个模型相比于另外一派，比如说fix im intelligence主要在推的狭义的VLA，就是以模仿人类动作这样一个端到端N2N的模型而言的话。我们是要对于物理世界，物体和环境以及它未来的变化要有强理解和强预测的。它并不是一个黑盒的模型。那么对于我们底层，我们一定要知道我们的机器人在移动过程中，包括开始跟物体接触前，接触过程中，他的每一个推理和判断，包括他的未来的预测，都是要有认知的才可以。</p>
+<p class="transcript-line"><span class="time"><strong>[00:48:12]</strong> </span><span class="speaker"><strong>发言人1: </strong></span>你刚刚提到你们的模型不是一个黑盒模型。</p>
+<p class="transcript-line"><span class="time"><strong>[00:48:15]</strong> </span><span class="speaker"><strong>发言人2: </strong></span>我们其实并不是，它是可解释的。我们为什么要对物体去接触和操作，为什么要去做调整，其实都是可解释的。比如说我们对这个杯子去抓，一开始可能没有抓起来，或者是拧这个瓶盖都没有拧动。那么我们会大概知道它的下一个预测状态当中是什么样子，但核心的就是闭环控制。当手接触到这个瓶盖的时候，用两个手指头一个小的力量去拧的时候，它没有拧动。可能会出现两种情况，一个是需要继续去加大力，还有一种方法，可能某一个国家的它这个瓶盖的左旋和右旋的设计可能就不太一样。</p>
+<p class="transcript-line"><span class="time"><strong>[00:48:51]</strong> </span><span class="speaker"><strong>发言人1: </strong></span>了解。然后我看你们那个demo是抓取物体，抓取物体跟拧瓶盖，我理解他对机器人的操作上要求还是不一样的。</p>
+<p class="transcript-line"><span class="time"><strong>[00:48:58]</strong> </span><span class="speaker"><strong>发言人2: </strong></span>对，还是不太一样。我们其实是这样来定义的，就many skill在2020年左右开始推出的时候，就是把机器人的底层的技术操作分成了一些类型。包括它在过去的这五六年的时间，到目前为止应该还是机器人做物体操作里边最大的一个挑战赛和benchmark。里边的任务会分成，比如说物体的抓放，包括一些带有触觉的插线接插组装等等当中的很多的任务。大概有常见的比赛里边一般会设置十几种。</p>
+<p class="transcript-line"><span class="time"><strong>[00:49:29]</strong> </span><span class="speaker"><strong>发言人1: </strong></span>你刚刚提到了你们不是一个黑盒模型。但是我理解现在硅谷最火的这些公司，像physical intelligence skilled，他们做大脑就是纯做软件层模型层的这些公司。我理解他们还是在尽可能的去搭一个黑盒的模型，因为他还是在遵循现在这一轮的生成式AI崛起的一个范式。就是说我对的数据量越大，我的机器越智能。我未来赌的是一个通用跟开放场景的智能的程度。我之前也有跟一些做机器人的人聊，就是为什么白盒模型这么多年没有起来？就是因为人可以预测跟想到的情况是有穷尽的，同时你很难去解决很多场景的corner case的问题。所以到底搭白盒还是搭黑盒，你们是怎么想的，以及未来的评估是怎么样的？</p>
+<p class="transcript-line"><span class="time"><strong>[00:50:14]</strong> </span><span class="speaker"><strong>发言人2: </strong></span>我们是模型在预训练的过程中是有分层结构的。就是说我们需要在预训练的时候的话，让机器人知道它对于物体未来所在的环境里面，要对几何材质和它的运动学，包括我做操作的时候，预测是要有一定的推理和认知的。但是最终在端侧部署的时候，我们也是一个端到端的模型分层。</p>
+<p class="transcript-line"><span class="time"><strong>[00:50:37]</strong> </span><span class="speaker"><strong>发言人1: </strong></span>其实在预训练的时候当中是大脑跟软件的那一层。</p>
+<p class="transcript-line"><span class="time"><strong>[00:50:40]</strong> </span><span class="speaker"><strong>发言人2: </strong></span>我们让机器人在我们的仿真器里边要对这个物体知道它所在的几何位置，包括对于它周边的物体之间的一些材质的预估，重量的预估。他有没有知道它实际上是分瓶盖和瓶身的，大概去操作的时候应该是一项，比如说逆时针旋转，这些其实都是他有理解和推断的这。</p>
+<p class="transcript-line"><span class="time"><strong>[00:51:02]</strong> </span><span class="speaker"><strong>发言人1: </strong></span>一段是黑盒。</p>
+<p class="transcript-line"><span class="time"><strong>[00:51:03]</strong> </span><span class="speaker"><strong>发言人2: </strong></span>这段相对来讲是一个以一个隐式表达可以去描述的。它大概在什么样的位置，有些是显示表述，有些是影视表述。但比如说像硅谷和国内绝大多数的机器人公司，在以模仿学习为主的这样的一套思路，他其实是不太需要知道物体究竟在环境里边它准确的位置，它也不太需要知道它的几何的信息。比如说我们刚才讲的拧瓶盖，它其实并没有一个推理是说我需要向逆时针的方向去做旋转。他之所以这么做，包括去接近，都是因为在那个环境之下，曾经有人是遥控这个机器人，或者是用自己的动不符做了那样的动作。他只是在纯粹的机械的去模仿，他其实并没有特别强的理解。</p>
+<p class="transcript-line"><span class="time"><strong>[00:51:49]</strong> </span><span class="speaker"><strong>发言人1: </strong></span>所以你们在搭建理解的这一部分。</p>
+<p class="transcript-line"><span class="time"><strong>[00:51:52]</strong> </span><span class="speaker"><strong>发言人2: </strong></span>对我们是需要在预训练的过程中是有理解的。但人类其实在对瓶子操作的时候，我们其实并不会在脑子里边有一个推理过程。说我这次拧这个瓶子的话，我要用一个逆时针的一个策略去转。</p>
+<p class="transcript-line"><span class="time"><strong>[00:52:06]</strong> </span><span class="speaker"><strong>发言人1: </strong></span>这顺时针转不动就逆时针。人类是很可变的对。</p>
+<p class="transcript-line"><span class="time"><strong>[00:52:10]</strong> </span><span class="speaker"><strong>发言人2: </strong></span>它是可变的。但是它也有一些常识，比如说我们每次去泞时候，我们一般都是逆时针去转。因为这是一个常识，已经是刻在了我们自己以前的肌肉操作里面去。但假如说是小朋友第一次看自己去拧一个饮料瓶子的时候，他会经历两个阶段。第一是他假如说从来没有看过父母去做这个操作的时候，他会先往左拧一下试一下，再往右拧一下试一下。它是一个随机的一个尝试。但同时他又会去观测父母是怎么去做操作的，它可能会有一些理论依据。</p>
+<p class="transcript-line"><span class="time"><strong>[00:52:47]</strong> </span><span class="speaker"><strong>发言人2: </strong></span>人在出生之后，他带有一定的对于物体的操作的能力。比如小朋友出生之后长大的过程中，他对于所有的物体的话都会去抓抓咬咬拧一拧、掰一掰去试一下的时候，有些运动的能力其实也是刻在人遗传的基因里边。那么机器人我们实际上是要把整个进化的过程在仿真器里面再去复习一次。</p>
+<p class="transcript-line"><span class="time"><strong>[00:53:08]</strong> </span><span class="speaker"><strong>发言人1: </strong></span>你们会把人类的进化过程在仿真器里面，其实是这个太有意思了。</p>
+<p class="transcript-line"><span class="time"><strong>[00:53:12]</strong> </span><span class="speaker"><strong>发言人2: </strong></span>这个仿真器之所以当时租号起名字叫CPN，其实就是尤里赫拉利写的那本书，CPES的映射。它其实就是指的怎么让智人从猿到人一个进化的过程。但为什么我们选择这个模型的进化的策略，跟另外一派说把数据堆够的策略最大一点的不同，核心原因就在于机器人的数据堆构的方法跟自动驾驶，包括二级图片、视频，包括自然语言一个最大的不同就是它没有足够多的数据。自动驾驶可能是最接近的，参与到这里边的自动驾驶的人非常多，但是它的一个核心在于自动驾驶。比如说tesla在可能十几年前就开始卖他的车，当时绝对没有现在的FSD。虽然他当时给大家画饼说未来可能会有FSD，但实际上是有几百万的司机买了他的车，在101的公路上面天天开。</p>
+<p class="transcript-line"><span class="time"><strong>[00:54:09]</strong> </span><span class="speaker"><strong>发言人1: </strong></span>所以它是会变的，它不一定要只遵循一个范式。我可以在数据不够的情况下，用白盒加黑盒的模式搭。等数据量够了，我可以去改变我的技术。</p>
+<p class="transcript-line"><span class="time"><strong>[00:54:20]</strong> </span><span class="speaker"><strong>发言人2: </strong></span>但是机器人你是很难同一款机器，在每没有任何功能之前，我卖500万台机器人到各个办公室、家庭或者是工厂里面去。并且旁边还有一个工人在遥控他去做各种各样的操作。在我们的家里面，我们很难想象我买了一台机器人，我需要穿着一个动捕服才能够去做西红柿炒鸡蛋。这个我觉得基本上是很难。</p>
+<p class="transcript-line"><span class="time"><strong>[00:54:42]</strong> </span><span class="speaker"><strong>发言人1: </strong></span>这在说完X吗？</p>
+<p class="transcript-line"><span class="time"><strong>[00:54:45]</strong> </span><span class="speaker"><strong>发言人2: </strong></span>没有特质。对。但这个模式实际上就在于说我们人类以公司方法去做组织的话。</p>
+<p class="transcript-line"><span class="time"><strong>[00:54:52]</strong> </span><span class="speaker"><strong>发言人2: </strong></span>我觉得像国内的公司已经做的是非常超前的。可能已经能到百台甚至千台以上的规模。但它离500万台和1000万台，并且能够进到每一个家庭，每一个办公室。就像特斯拉的车，实际上是开到了世界上几乎所有的角落，收集到各种各样的数据，并且后面还有一个司机天天帮他去标数据。这些的要素在机器人里边可能都不成立。所以它的冷启动的方法就是像您刚才提到的，英伟达提到CIMTRO为什么一定是要推的一个方法，是躲不过去的。就是因为它能启动的数据，实际上是需要一个百万甚至是千万级别。在所有的开放环境里面都要把这个数据给收集全才可以的。</p>
+<p class="transcript-line"><span class="time"><strong>[00:55:38]</strong> </span><span class="speaker"><strong>发言人1: </strong></span>所以我理解这是你们用分层模型，而不是硅谷主流的端到端的一个核心原因。在现有整个业界机器人数据都远远达不到的情况下，我们可以通过分层让机器人先跑起来，先提高它在开放场景zero shot的操作能力。然后你们的商业模式，比如说你现在是卖给很多开发者，当大家都开始用这些机器人，其实后面你还要不要用一个新的方法去搭，你的训练范式是可以变的对。</p>
+<p class="transcript-line"><span class="time"><strong>[00:56:10]</strong> </span><span class="speaker"><strong>发言人2: </strong></span>稍微分享一些我们自己认为的一些小八卦。Physical intelligence在成立之前，他们其实是在google包journalist的。这个实际上是在oodle medics里面工作的。非常多的核心人员参与的。</p>
+<p class="transcript-line"><span class="time"><strong>[00:56:23]</strong> </span><span class="speaker"><strong>发言人2: </strong></span>那个时候的话，大家可能都是做一个端到端的一个模型。但再往前当时大家有一个默契，就是有可能是底层的模型有一个稳定可靠的底层操作能力。再向上实际上是有大家去做环境理解，包括拆分成不一样的任务。我怎么能够去那个咖啡机，然后拿到两个杯子，倒两杯咖啡，中间还得过两道门。但在大家二三年、24年先后开始搞公司的时候，大家就选择了自己擅长和熟悉的套路。所以他们可能就不再提分层。但我们有一个暴论，就是可能从今年的下半年开始，上下分层的这种结构会重新再回到主流里边。而且可能在之后大家选择的方案推到商业化里面去，可能是最终的一个方法。</p>
+<p class="transcript-line"><span class="time"><strong>[00:57:10]</strong> </span><span class="speaker"><strong>发言人1: </strong></span>你可不可以简单一句话总结一下，上下分层指的是哪个上下分层。</p>
+<p class="transcript-line"><span class="time"><strong>[00:57:14]</strong> </span><span class="speaker"><strong>发言人2: </strong></span>对，比如说从冰箱里面拿一个瓶子，把瓶盖拧开，然后把我们俩面前的两杯水倒满。那么上层实际上是说我们现在杯子里面没有水了，我要去重新倒水。机器人实际上是要对于我们现在所在这个环境要理解哪边是冰箱里面有没有水。我第一步应该去走到这个冰箱面前，打开冰箱门，拿到这个瓶子移动到这边，把瓶盖拧开，并且炒两个杯子里面分别去注入一定的水，再把瓶盖给拧上。这些是属于我们叫拆分步骤的做reasoning的过程。但是底层在我们的划分里面，就是我如何去走到冰箱的面前。</p>
+<p class="transcript-line"><span class="time"><strong>[00:57:52]</strong> </span><span class="speaker"><strong>发言人1: </strong></span>把门给开操作的这一层。</p>
+<p class="transcript-line"><span class="time"><strong>[00:57:54]</strong> </span><span class="speaker"><strong>发言人2: </strong></span>抓住这个瓶子，移动到这边，把瓶盖拧开，并且往杯子里面去倒水。这些底层的每一步具体的对于物体的操作，我们叫low level manipulation。上层的这个high level的reasoning和planning当中，我觉得是可以分开的。</p>
+<p class="transcript-line"><span class="time"><strong>[00:58:10]</strong> </span><span class="speaker"><strong>发言人1: </strong></span>所以你觉得今年所有的硅谷公司都开始会做这种分层操作。</p>
+<p class="transcript-line"><span class="time"><strong>[00:58:14]</strong> </span><span class="speaker"><strong>发言人2: </strong></span>我觉得很难讲今年。对，但是这个会回到大家的视野里面来。我觉得在最近几周的时间里，我们在跟学术界、工业大家做现场展示和交流之后，有些人已经意识到这可能是一个新的方向。</p>
+<p class="transcript-line"><span class="time"><strong>[00:58:28]</strong> </span><span class="speaker"><strong>发言人1: </strong></span>所以我理解现在硅谷的很多像我们说的派journalist的这些公司，它还是在把操作的层面也是直接用大模型控制的对，但是现在能做出这个判断，证明现在的控制并没有大家想象中那么好跟成功率那么高。</p>
+<p class="transcript-line"><span class="time"><strong>[00:58:42]</strong> </span><span class="speaker"><strong>发言人2: </strong></span>我觉得是的，仅代表我自己个人，不一定是公司统一的想法。就是我觉得physic ELLINS和Jerry的google等等这些机器人公司，其实更擅长能做上层的reasoning。但是对于物体的操作的话，靠少量的，比如说几十万小时，我觉得可能已经是现在操作的极限。人类真实操作物体的数据远远没有办法达到对于物体的开放环境，开放物体的稳定可靠的操作的能力。</p>
+<p class="transcript-line"><span class="time"><strong>[00:59:09]</strong> </span><span class="speaker"><strong>发言人1: </strong></span>我可不可以理解成上层是硅谷公司的优势，下层涉及到操作层面。因为你就一定要跟硬件相结合，这就是中国公司的优势。</p>
+<p class="transcript-line"><span class="time"><strong>[00:59:18]</strong> </span><span class="speaker"><strong>发言人2: </strong></span>或者讲硅谷的机器人公司也好，大厂也好，中国的模型大厂也好，大量的巨深的公司也好，我觉得可能都是像上层做reasoning的机会会更大一些。当然还有很多巨深和机器人的公司，他们挑某1到2个垂直的应用的场景，可能就类似于像大模型，它就做一种或两种的agent。但是对于底层如何在随机的环境里面，对于一个任意物体做某一类的操作，我们认为必须是一个软硬件强结合的公司才能够达到。但这家公司是不是只有中国公司能做到？我觉得未必。</p>
+<p class="transcript-line"><span class="time"><strong>[00:59:54]</strong> </span><span class="speaker"><strong>发言人1: </strong></span>你们跟像语数这样的公司核心区别是什么？</p>
+<p class="transcript-line"><span class="time"><strong>[00:59:58]</strong> </span><span class="speaker"><strong>发言人2: </strong></span>我觉得语数是在机器人的硬件的量产能力，就率先给市场交出了最好的答卷的一家公司。</p>
+<p class="transcript-line"><span class="time"><strong>[01:00:06]</strong> </span><span class="speaker"><strong>发言人1: </strong></span>对，2025年的出货量有五千多台。对。然后我们对比一下特斯拉figure这些美国的明星公司，它可能只有150台左右。</p>
+<p class="transcript-line"><span class="time"><strong>[01:00:13]</strong> </span><span class="speaker"><strong>发言人2: </strong></span>而且语速是把这些五千多台的设备当中真实的发到了用户的手里面。</p>
+<p class="transcript-line"><span class="time"><strong>[01:00:19]</strong> </span><span class="speaker"><strong>发言人1: </strong></span>在操作上跟大家关注的方向的不同点上。</p>
+<p class="transcript-line"><span class="time"><strong>[01:00:22]</strong> </span><span class="speaker"><strong>发言人2: </strong></span>雨初对于物体操作可能才刚刚开始。</p>
+<p class="transcript-line"><span class="time"><strong>[01:00:25]</strong> </span><span class="speaker"><strong>发言人1: </strong></span>它主要是在大运动跟运动控制上。</p>
+<p class="transcript-line"><span class="time"><strong>[01:00:27]</strong> </span><span class="speaker"><strong>发言人2: </strong></span>对对对，而且对于物体操作，这个人形机器人是不是一个最稳定可靠的一个方法？短期之内不一。</p>
+<p class="transcript-line"><span class="time"><strong>[01:00:33]</strong> </span><span class="speaker"><strong>发言人1: </strong></span>未来可能是，今年我看见最近有一个大热点是skill的AI它的估值是冲到了140亿美元。它最新的一轮融资是14亿美元，投后估值是140亿到150亿美元，七个月前它的估值才是45亿美元。它其实就是做全身体的通用机器人的技术模型skilled bring对比我们刚刚一直在讲的physical intelligence，他也算是硅谷的做软件大脑的一个非常有代表性的公司。它的估值也是56亿美元。你对这家公司熟悉吗？为什么他一下能拿到这么大的一笔融资，然后估值的规模在大范围的提升。</p>
+<p class="transcript-line"><span class="time"><strong>[01:01:10]</strong> </span><span class="speaker"><strong>发言人2: </strong></span>我觉得首先facebook认识，如果我没有记错的话，它最新的估值也是在120亿到140亿美金之间，不一定完全对外公开，但他们也在做新的募资。我觉得这几家公司，包括skilled python intelligence，包括journals都比较接近。</p>
+<p class="transcript-line"><span class="time"><strong>[01:01:27]</strong> </span><span class="speaker"><strong>发言人1: </strong></span>就都做大脑。</p>
+<p class="transcript-line"><span class="time"><strong>[01:01:28]</strong> </span><span class="speaker"><strong>发言人2: </strong></span>对skill的话比较特殊一点。两位创始人d park和alb enough，其实跟苏浩也做过很多的讨论。他们以前是坚决不信仿真的，但是在一开始募资的时候，他们是拿机器人仿真作为他们主要募资的方向。但实际上据我们了解，做的业务可能偏敏感一些。我觉得在做据深基础模型美国这边第一梯队的话，我觉得还是像physical intelligence样的团队。包括Jerry st以及还有一些创业的团队，像华人的三代戴纳，其实都在做一些探索。</p>
+<p class="transcript-line"><span class="time"><strong>[01:02:00]</strong> </span><span class="speaker"><strong>发言人1: </strong></span>然后我们来看一下，最近我看figure AI好像又被看好了。因为之前他其实也是融资估值都很高。我觉得有一段时间整个硅谷的投资人，我听起来大家是对figure是有所质疑的，甚至也会质疑他放出来的demo你是不是后期剪辑过。为什么最近大家又重新看好faker了？是因为他跟宝马的一个合作，还是因为他的技术能力跟放出来的demo有一个全新的提高？</p>
+<p class="transcript-line"><span class="time"><strong>[01:02:27]</strong> </span><span class="speaker"><strong>发言人2: </strong></span>我觉得这轮可能跟宝马的demo可能关系不大。因为最近大家对他关注是在大概几周以前，他开始做一个产线里边的物体的分解。但在我们看的确是比以前有些进步，但在物体的操作放大性和环境的放化性上，其实差别还比较远。第一它里边出现了两类物体，一个是一个在做实验的一个包裹，但那个包裹其实形状几乎是一样的。</p>
+<p class="transcript-line"><span class="time"><strong>[01:02:54]</strong> </span><span class="speaker"><strong>发言人1: </strong></span>都是正方形的对，你是说他一天的直播。</p>
+<p class="transcript-line"><span class="time"><strong>[01:02:56]</strong> </span><span class="speaker"><strong>发言人2: </strong></span>对几天，他后来持续了几天。但如果是按照我们的要求的标准，第一它的物体分化性其实不高。因为一共只有两类物体，一个是盒子，一个是软性的包装，而且颜色和重量几乎是一样的。第二，它的机器人所在的工作的环境，一直是在他们自己公司里面搭建的那一条测试线里面。</p>
+<p class="transcript-line"><span class="time"><strong>[01:03:16]</strong> </span><span class="speaker"><strong>发言人1: </strong></span>并没有走出去。</p>
+<p class="transcript-line"><span class="time"><strong>[01:03:17]</strong> </span><span class="speaker"><strong>发言人2: </strong></span>很难。所以如果是拿咬操作做VLA的这套方法的话，最大的约束和挑战就在于它对于光照和环境的变化都极其敏感。一旦变化之后，它的成功率会直线的下降。</p>
+<p class="transcript-line"><span class="time"><strong>[01:03:32]</strong> </span><span class="speaker"><strong>发言人1: </strong></span>所以大家对figure还是有质疑的，就觉得他的demo放出来还是简单的对。</p>
+<p class="transcript-line"><span class="time"><strong>[01:03:36]</strong> </span><span class="speaker"><strong>发言人2: </strong></span>但我觉得比以前已经好很多了。</p>
+<p class="transcript-line"><span class="time"><strong>[01:03:38]</strong> </span><span class="speaker"><strong>发言人1: </strong></span>洗碗机的那个是他的demo对吧？</p>
+<p class="transcript-line"><span class="time"><strong>[01:03:41]</strong> </span><span class="speaker"><strong>发言人2: </strong></span>洗碗机是他的demo对，但我们听说是花了很长时间拍一条。对。</p>
+<p class="transcript-line"><span class="time"><strong>[01:03:47]</strong> </span><span class="speaker"><strong>发言人1: </strong></span>对我听到的也是这样子的。另外就是我看见今年还是有很多的机器人公司，他在进入部署阶段的。比如说马斯克就把optimus要放到fremont的工厂，让他在工厂里面去做一些工作。但是他自己也说了，就是开始大家还是希望他能进家庭，能真正干活的。但是他说他现在放optimus，他其实主要也是为了训练数据，而不是真正的让他干活。我觉得特斯拉的人形机器人，现在也是大家蛮关注的一个点的。就是从一个专业的同行业创业者的角度，你会怎么去看它的部署。</p>
+<p class="transcript-line"><span class="time"><strong>[01:04:24]</strong> </span><span class="speaker"><strong>发言人2: </strong></span>在我们25年主力团队搬回到国内之前，其实我们跟特斯拉的自动化团队有一些合作。但是当时他们在自动化产线里边使用的自动化，能够让机器人在里边去做任午的时候，optimum肯定是还没有能够满足那个条件，当时应该只是在opinion s团队里面去做一些，比如像一个固定的位置当中去拿电池的这样的一个动作。但optimum我觉得是未来美国的机器人行业里面肯定是最大的推手。因为它的硬件的核心和制造能力实际上是非常强。模型的话，我觉得按照tesla和elon mk的风格，可以等到这个行业有较为好的方案出现之后再去补，可能也来得及。但同时我们当时也听到特斯拉里边可能有一派的声音是说伊朗他自己当时也提过先造一系列的机器人，让外界的人去做研发开发。</p>
+<p class="transcript-line"><span class="time"><strong>[01:05:21]</strong> </span><span class="speaker"><strong>发言人1: </strong></span>跟你们的思路有点像。</p>
+<p class="transcript-line"><span class="time"><strong>[01:05:22]</strong> </span><span class="speaker"><strong>发言人2: </strong></span>我觉得有点像。但他的思路，我觉得是跟现在很多做机器人硬件团队更像。我不给你模型，我给你很好用的硬件，你自己去开发模型。对，但我们实际上是想要给大家一个硬件，同时有底层大家不太好用的。对对对，这部分。</p>
+<p class="transcript-line"><span class="time"><strong>[01:05:42]</strong> </span><span class="speaker"><strong>发言人1: </strong></span>对，然后我看今天波士顿动力电动版的atlas也在开始出货了，这个是一个值得关注的点吗？</p>
+<p class="transcript-line"><span class="time"><strong>[01:05:49]</strong> </span><span class="speaker"><strong>发言人2: </strong></span>对我觉得这是一个特别关键一点，我们自己内部定义的最大最有潜力跟我们一起去推这个方向的，可能就是不甚动力的电动版的plus加上google的deep mind。如果大家去年看demis harb的一些采访，包括他的纪录片以及一系列的动作的话，我觉得他们对于物理世界AI的下注可能是在所有的大厂里面最坚决的一项。只不过现在他可能还要分时间去兼顾gm I跟anodic和OpenAI去做竞争的这样一波。但我觉得去年有一个非常重要的信号，第一，他们已经把硬件的平台从原来的ACROIC和另外的一台机器换成了电动版的atas。同时他从波顺动力的硬件部门，把核心的几个人都挖到了丁曼的团队里边。所以未来机器人行业里边，假如说我们走的是硬件，也是我们自己造软件底层模型也是我们自己搞。那么google会不会重复android.</p>
+<p class="transcript-line"><span class="time"><strong>[01:06:53]</strong> </span><span class="speaker"><strong>发言人1: </strong></span>的方法再做一次？</p>
+<p class="transcript-line"><span class="time"><strong>[01:06:54]</strong> </span><span class="speaker"><strong>发言人2: </strong></span>对用不甚动力的硬件，包括现代集团在后面量产的能力的支是同时他们自己在仿真器在几年以前就收购了某这个团队，自己在做不断的改进。</p>
+<p class="transcript-line"><span class="time"><strong>[01:07:06]</strong> </span><span class="speaker"><strong>发言人1: </strong></span>他自己还有他自己的世界模型。</p>
+<p class="transcript-line"><span class="time"><strong>[01:07:08]</strong> </span><span class="speaker"><strong>发言人2: </strong></span>G3这些他有几乎无限的卡，世界上最好的人才聚集在一起。并且他是下了决心，就是从公司相比于subic OpenAI meta国内的这些的大厂，可能是唯一一个带团队的负责人，在机器人上面如此的用心的。它可能是未来最。</p>
+<p class="transcript-line"><span class="time"><strong>[01:07:28]</strong> </span><span class="speaker"><strong>发言人1: </strong></span>因为它硬件也有，软件也有，我觉得这个跟其他公司是完全不是在一个量级上的。</p>
+<p class="transcript-line"><span class="time"><strong>[01:07:33]</strong> </span><span class="speaker"><strong>发言人2: </strong></span>我们感觉他是坚定的相信sim 2的这条路的。</p>
+<p class="transcript-line"><span class="time"><strong>[01:07:36]</strong> </span><span class="speaker"><strong>发言人1: </strong></span>对我我知道四号的团队跟deep mind可能也会有很多的交流。应该你们也是对。</p>
+<p class="transcript-line"><span class="time"><strong>[01:07:41]</strong> </span><span class="speaker"><strong>发言人2: </strong></span>我们合作，跟google robotics 4以前的交流合作非常的多。甚至说那个团队里面有很多都是他的师弟师妹，有一些核心人员是他曾经的PHD的学生，包括pi创始团队里边也有。但我觉得demand的这波，他会把核心的人才聚集在伦敦，在英国模型团队和硬件团队聚集在一起。这个事情我们觉得非常重要。就跟当年Steve drops说做apple的开发的时候，有人问能不能去另外一个办公室，能不能远程，他坚决不同意，我觉得是一样的。</p>
+<p class="transcript-line"><span class="time"><strong>[01:08:12]</strong> </span><span class="speaker"><strong>发言人1: </strong></span>所以在所有的机器人公司中，你们最看好的是deep mind加波士顿动力。</p>
+<p class="transcript-line"><span class="time"><strong>[01:08:16]</strong> </span><span class="speaker"><strong>发言人2: </strong></span>这个还是对我觉得这可能跟大家想的都不太一样。我觉得可能在接下来的2到3年里边，从机器人的操作能力和综合能力上而言，我们认为的最大竞争对手可能是定卖的家波士动力。</p>
+<p class="transcript-line"><span class="time"><strong>[01:08:29]</strong> </span><span class="speaker"><strong>发言人1: </strong></span>对，因为波士顿动力大家知道最开始是谷歌收购了他们，后来他们又全部卖给黛集团了。所以他现在跟deep mind之间关系是怎么样的？还有股权关系吗？</p>
+<p class="transcript-line"><span class="time"><strong>[01:08:40]</strong> </span><span class="speaker"><strong>发言人2: </strong></span>现在股权关系应该没有我如果没记错的话，现代集团应该是主要的控股股东，然后剩下的软银应该还是保留了10%到20%。但地幔这次不一定会把波顺动力再纳入到体系里面来，但波轮动力会把地幔作为它大脑模型的可能最重要的一个合作伙伴。</p>
+<p class="transcript-line"><span class="time"><strong>[01:09:01]</strong> </span><span class="speaker"><strong>发言人1: </strong></span>对，那我们再说一下亚马逊，因为亚马逊其实去年年底我听all in的播客，他们说其实有一家公司非常值得关注，就是亚马逊。理由就是说亚马逊马上今年他的机器人的部署可能已经比它的员工还要多了。因为他们其实是有仓库分脸的这些场景，它天然是一个场景的应用方，而且他也收购了。你会怎么看亚马逊在机器人上的布局？</p>
+<p class="transcript-line"><span class="time"><strong>[01:09:28]</strong> </span><span class="speaker"><strong>发言人2: </strong></span>我觉得亚马逊一直是在机器人里面投入最多的一家大公司。它的数量可能还是以比如说像第一像仓储物流里边，像做HV像kiva很早就收购。包括像各种各样的机械臂的应用，各种各样的人形机械公司，比如像a covalent。之前可能还有一些其他的公司都在里面去做尝试。我觉得它会提供一定的场景，但亚马逊最终要不然就是要把这些公司收购，要不然就要自己去做。我就current也是当时把亚马逊作为核心的客户之一。</p>
+<p class="transcript-line"><span class="time"><strong>[01:10:02]</strong> </span><span class="speaker"><strong>发言人1: </strong></span>刚刚在聊硅谷跟中国的这些机器人公司它的发展过程中，我基本上还可以总结，就是整个硅谷它还是在更加看重机器人它的通用性、泛化性，包括他大脑层面上的这些进展。因为我们看到市场上最高估值的公司全都是集中在这一块儿。中国它有非常好的硬件的底子。但是同时我也看到很多的公司开始可能也抱着说，我们要去做机器人的通用性的这些想法。但是最后他可能因为有商业化的压力，他可能最后都退回到了单一场景，就是你怎么去看这种理想很丰满，最后大家回去做垂直赛道的现象。</p>
+<p class="transcript-line"><span class="time"><strong>[01:10:42]</strong> </span><span class="speaker"><strong>发言人2: </strong></span>我的核心的推断还是跟前几轮，比如说像做视觉大模型，比如像当时的AI4小龙，包括后来做语言模型的科大讯飞等等类似是吧？如果是对于基础模型如何去构建，没有一个特别清晰的想法，只是想边做边是的话，我觉得其实很难。大家都会因为商业上的一些压力去做妥协。但是对于我们团队而言，我觉得也是分成两侧。假如说我们对于基础模型如何去推进，也是在摸索，没有较为清晰的一个方向。能够在未来的，比如说当时启动的时候，能够在12到24个月里面应该能够看到什么结果。有判断的话，我觉得我们也未必能够一直坚持这样样的一个方式和方法。</p>
+<p class="transcript-line"><span class="time"><strong>[01:11:25]</strong> </span><span class="speaker"><strong>发言人1: </strong></span>所以你是看到了技术上通用的可能性。</p>
+<p class="transcript-line"><span class="time"><strong>[01:11:28]</strong> </span><span class="speaker"><strong>发言人2: </strong></span>我觉得是这个团队可能在过去的七八年的合作里面，其实已经有了一些感觉和认知。再把哪些要素补充在一起。大家合作是比如说12到24个月的话，就能够看到第一阶段的效果，我觉得这个比较关键。而并不是说。我们把数据先做一些小模型，先试一下是不是把数据堆到一定程度之后，什么程度现在也不知道。有可能是1000万小时，有可能是1亿小时，有可能是10亿小时，说不定做出来了。我觉得说不定这三个字儿在我们团队里面几乎不太会出现。</p>
+<p class="transcript-line"><span class="time"><strong>[01:12:04]</strong> </span><span class="speaker"><strong>发言人2: </strong></span>但是对于其他的团队而言，大家都是在探索。会受到自己团队内部，包括投资人和商业化的一些的压力，就会选择一个垂类的场景。这时候客户给大家的要求的时候，就会导致跟你训机模的这个思路肯定会有背离。</p>
+<p class="transcript-line"><span class="time"><strong>[01:12:21]</strong> </span><span class="speaker"><strong>发言人1: </strong></span>所以你们是怎么看到他能做成通用的可能性的？</p>
+<p class="transcript-line"><span class="time"><strong>[01:12:25]</strong> </span><span class="speaker"><strong>发言人2: </strong></span>我觉得就是通过以前一系列的研究的工作，能够感知到这个系统应该可以。我就是说在小规模上能的话已经起作用了。只要在给整个搭建完整系统里面，大家在齐心协力去试一下的话，有可能能够得到初步的结论。</p>
+<p class="transcript-line"><span class="time"><strong>[01:12:44]</strong> </span><span class="speaker"><strong>发言人1: </strong></span>要做通用人工智能，它是一条更远更长的路。在这个中间怎么让自己的公司活下来？你作为公司的CEO，你会有这个压力存在吗？</p>
+<p class="transcript-line"><span class="time"><strong>[01:12:55]</strong> </span><span class="speaker"><strong>发言人2: </strong></span>我觉得我们肯定会有压力，但相对而言还好一些。我觉得机器人在这一波趋势里面，由于大模型的出现，包括英特尔的出现，我们感觉会把它推到下一个阶段。我们实际上是不会读某一个垂类场景能够跑出来，而是希望我们通过提供一个硬件加底层的模型让大家去试。</p>
+<p class="transcript-line"><span class="time"><strong>[01:13:20]</strong> </span><span class="speaker"><strong>发言人2: </strong></span>我们希望我们服务的1000个开发者里边，有100个能够找到能够小批量去做部署的这样的一个应用的场景。但另外900个人可能会有比较好的demo或者是研究的成果。这100个人里面可能会有五个十个会做一个超级应用。它可能会需要部署1万台甚至更多的机器人到不一样的场景里面去。但究竟是从冰箱里面去给我们取饮料瓶、倒水，还是说在工厂里边去完成汽车的组装，还是说比如像亚马逊这样的一个仓库和分拣环境里面去抓丝芙兰的唇膏。</p>
+<p class="transcript-line"><span class="time"><strong>[01:13:55]</strong> </span><span class="speaker"><strong>发言人2: </strong></span>我们不会去赌某一个场景。因为这个团队我觉得他的特质也并不是说到工厂里边去部署和集成测试。整个的这个开发者社区里边，包括集成商，自动化团队，各自都会有各自不一样的擅长。我们希望就是做底层的新的工具链给大家。</p>
+<p class="transcript-line"><span class="time"><strong>[01:14:13]</strong> </span><span class="speaker"><strong>发言人1: </strong></span>现在把更多的钱投入到你们更有长远场景的研发上，还是说把一部分的精力也投入到比如说针对开发者的软硬件一体的平台的分发上。你觉得哪一个是你现在在负责的重心，或者说你会怎么去做你的资源的分配。</p>
+<p class="transcript-line"><span class="time"><strong>[01:14:34]</strong> </span><span class="speaker"><strong>发言人2: </strong></span>我们的核心是在提供一个可靠稳定的硬件加底层模型。从一个抓的技能到3到5个比较常见的技能，并且把它的组合的开发的工具做好。让100个开发者能够在上面去做不一样的应用尝试。这是我们在现在和接下来几年时间最核心的一个目标。我们希望100个1000个开发者在上手，能够出现我刚才描述的情况。有些人可以找到一些有意思的应用场景，可以做批量的使用和部署。</p>
+<p class="transcript-line"><span class="time"><strong>[01:15:09]</strong> </span><span class="speaker"><strong>发言人1: </strong></span>也会支持你们技术团队去做大规模的研发上的投入。</p>
+<p class="transcript-line"><span class="time"><strong>[01:15:12]</strong> </span><span class="speaker"><strong>发言人2: </strong></span>我们肯定会在这方面是我们最核心的持续性的投入。但是为了验证大家可以拿它去做行业里面的垂类应用，我们肯定也会挑1到2个场景跟1到2个开发者紧密的配合，把我们的开发工具一定要做好。</p>
+<p class="transcript-line"><span class="time"><strong>[01:15:28]</strong> </span><span class="speaker"><strong>发言人1: </strong></span>如果十年后回头来看，你是希望速度科技被人记住的，是说我们做出了一个通用机器人的产品，还是说我们证明了seem to real这条路是对的？</p>
+<p class="transcript-line"><span class="time"><strong>[01:15:40]</strong> </span><span class="speaker"><strong>发言人2: </strong></span>我觉得sim to real这条路是对的，是副产物。我们希望10年以后，当大家回看今天的这个时间节点的时候，认为这可能是一个类似于像iphone加IOS操作系统。那个时候会有新的uber、滴滴、美团，会有新的dash长出来。我们希望大家用的硬件加底层的系统和软件，至少有一部分是我们提供的。</p>
+<p class="transcript-line"><span class="time"><strong>[01:16:04]</strong> </span><span class="speaker"><strong>发言人1: </strong></span>一个非常有野心的梦想。</p>
+<p class="transcript-line"><span class="time"><strong>[01:16:07]</strong> </span><span class="speaker"><strong>发言人2: </strong></span>对，的确是现在。</p>
+<p class="transcript-line"><span class="time"><strong>[01:16:08]</strong> </span><span class="speaker"><strong>发言人1: </strong></span>做通用应该要牺牲很多垂直的商业化机会。</p>
+<p class="transcript-line"><span class="time"><strong>[01:16:13]</strong> </span><span class="speaker"><strong>发言人2: </strong></span>我觉得是的。但我跟苏浩在一开始在商量的时候，我们也觉得现在如果是做垂类的商业应用，有的时候账是算不过来的。</p>
+<p class="transcript-line"><span class="time"><strong>[01:16:22]</strong> </span><span class="speaker"><strong>发言人1: </strong></span>但大家也在抢地盘儿，就是有些产品一个机器人部署了，它很难再换一个。</p>
+<p class="transcript-line"><span class="time"><strong>[01:16:27]</strong> </span><span class="speaker"><strong>发言人2: </strong></span>对一个机器人部署替代一定的人工，实际上你也可能要花3到5个PHD的一个成本去维护。</p>
+<p class="transcript-line"><span class="time"><strong>[01:16:35]</strong> </span><span class="speaker"><strong>发言人1: </strong></span>对，还是挺好的一条路径的。</p>
+<p class="transcript-line"><span class="time"><strong>[01:16:37]</strong> </span><span class="speaker"><strong>发言人2: </strong></span>对我觉得就是难，但是可能最终是最有效的方法。</p>
+<p class="transcript-line"><span class="time"><strong>[01:16:43]</strong> </span><span class="speaker"><strong>发言人1: </strong></span>好，今天非常精彩，谢谢。</p>
+<p class="transcript-line"><span class="time"><strong>[01:16:44]</strong> </span><span class="speaker"><strong>发言人2: </strong></span>好，谢谢。</p>
+<p class="transcript-line"><span class="time"><strong>[01:16:47]</strong> </span><span class="speaker"><strong>发言人1: </strong></span>好了，这就是我们今天的节目。大家会怎么看机器人的这场竞赛呢？欢迎给我们写评论，写留言。播客的听众可以通过小宇宙、苹果播客还有spotify来收听订阅我们。大家也可以在B站和youtube上搜索硅谷101播客，来看到我们的视频版本。我们部分的文字稿也会收录在硅谷101的微信公众号上。我是红军，感谢大家的收听。</p>]]></content:encoded>
+            <pubDate>Thu, 16 Jul 2026 00:00:00 GMT</pubDate>
+            <guid>6a58203adad7474f40ac62a2</guid>
+        </item>
         <item>
             <title>E243｜特朗普“缓刑”红牌之外，美国资本如何硬控全球足坛</title>
             <link>https://www.xiaoyuzhoufm.com/episode/6a50373aa75176d020dcbdb3</link>
@@ -53,9 +438,6 @@ ISL：由霍斯特·达斯勒成立，是上世纪足球商业化的关键推手
 【硅谷101正在招聘】
 《硅谷101》招聘多个全职岗位，欢迎加入我们的超酷的深度内容工作团队！
 👉🏻点击查看招聘详情
-【硅谷101听友群】
-终于终于终于，大家一直呼吁的硅谷101的社群要上线了！欢迎大家加入。
-请用手机相机扫码；如已安装飞书/Lark，可直接在App内扫码进入申请表单。7天内审核，通过后邮件同步入群方式。期待和你在群里碰面！
 【监制】
 泓君
 【后期】
@@ -336,9 +718,6 @@ Beibin Li （李辈滨），Apodex自我进化与编程首席科学家
 【硅谷101正在招聘】
 《硅谷101》招聘多个全职岗位，欢迎加入我们的超酷的深度内容工作团队！
 👉🏻点击查看招聘详情
-【硅谷101听友群】
-终于终于终于，大家一直呼吁的硅谷101的社群要上线了！欢迎大家加入。
-请用手机相机扫码；如已安装飞书/Lark，可直接在App内扫码进入申请表单。7天内审核，通过后邮件同步入群方式。期待和你在群里碰面！
 【监制】
 泓君
 【后期】
@@ -895,9 +1274,6 @@ AI如何改变咨询和企业自身
 【硅谷101正在招聘】
 《硅谷101》招聘多个全职岗位，欢迎加入我们的超酷的深度内容工作团队！
 👉🏻点击查看招聘详情
-【硅谷101听友群】
-终于终于终于，大家一直呼吁的硅谷101的社群要上线了！欢迎大家加入。
-请用手机相机扫码；如已安装飞书/Lark，可直接在App内扫码进入申请表单。7天内审核，通过后邮件同步入群方式。期待和你在群里碰面！
 【监制】
 泓君
 【后期】
@@ -7486,292 +7862,6 @@ Special Guests: Jinpeng, Yiwen, 小华, and 杨一.</description>
 <p class="transcript-line"><span class="time"><strong>[00:53:12]</strong> </span><span class="speaker"><strong>发言人1: </strong></span>我们播客的听众可以通过苹果播客、spotify还有小宇宙来关注到我们。如果大家习惯通过视频的渠道来听播客，也可以通过B站和youtube搜索硅谷101播客来关注到我们。也可以在微信公众号上搜索硅谷101来看我们节目的文字版。我是特约研究员一文，感谢大家的收听。</p>]]></content:encoded>
             <pubDate>Sun, 14 Dec 2025 23:45:00 GMT</pubDate>
             <guid>693f4d40362989ba3f378dba</guid>
-        </item>
-        <item>
-            <title>E217｜机器人开可乐发扑克有多难？聊聊灵巧手的硬件与算法</title>
-            <link>https://www.xiaoyuzhoufm.com/episode/693a0a0679debc32319d52fb</link>
-            <description>2026年，人形机器人将迎来规模化量产的元年。最清晰的信号来自特斯拉，“金色擎天柱”Optimus Gen 3预计在2026年第一季度亮相，并计划在年底前建成产能高达100万台的生产线。马斯克曾多次表示，特斯拉未来约80%的价值来自这里，而非汽车。而“擎天柱”的攻关关键，正在于它的“手与前臂”。
-本期是我们机器人特辑之灵巧手，我们邀请了灵巧手模型算法方面和硬件方面的两位专家，一起聊聊灵巧手不同技术路线的特点，以及它在数据和算法上面临的挑战。
-嘉宾们认为，对灵巧手头部公司来说，短期内针对单项任务打造成功一个的Demo并不难，真正的突破在于通用性与可扩展性。当算法能让机器人在短时间内学会开可乐、开门、拧螺丝等多样化的灵巧操作，才意味着灵巧手到达了类似ChatGPT的泛化突破阶段。
-【主播】
-泓君，硅谷101创始人，播客主理人
-【嘉宾】
-齐浩之，亚马逊&amp;前Meta机器人研究科学家，芝加哥大学助理教授
-陶一伟，TetherIA 创始人兼CEO，前Tesla Optimus高级机器人机械工程师
-【本期口播由腾讯广告算法大赛赞助播出】
-我们播客7月份做过腾讯广告算法大赛的招募，这场比赛在11月27日刚收尾，吸引了全球8400名技术人才、2800多支队伍参加。在这次比赛中，年轻人在用各种新方法解决多模态痛点：比如冠军团队用行为条件化建模，让算法更能“感觉”用户需求；有人去验证scaling law在生成式广告推荐模型里是否适用；也有人在数据安全前提下把性能继续往上推。可以说这个比赛是把全球顶尖技术人才聚集到一起，也反过来在推动广告算法的进步与系统性能，在AI时代，这类比赛可以让自己的能力被看见、也是让企业找到顶尖人才的最佳场景。
-【你将听到】
-Demo背后的虚与实
-02:37 评估灵巧手能力的关键：精细运动、泛化能力与可靠性
-05:58 “开可乐”Demo背后：演示效果与实际能力的差距
-08:23 硬件厂商追求单项突破，算法团队更重泛化能力
-15:32 灵巧手面临的瓶颈和独有的技术挑战是什么？
-三大技术路线
-19:26 连杆驱动：常见6自由度，也有高自由度方案（ILDA）
-21:26 直驱方案：关节与电机一一对应，灵活度高（Sharpa）
-24:59 绳驱方案：双向拉绳（Shadow Hand、ORCA）与单向拉绳（Tesla）
-29:57 仿真研究为何更偏爱直驱方案？
-33:13 天价灵巧手：不为盈利，只为筛选顶尖客户
-36:21 Evan亲述：在特斯拉研发Optimus灵巧手的经历
-40:33 从解剖学到外科观摩：马斯克坚持的仿生路线启发了“电机前臂迁移”
-42:52 绳驱vs直驱：装配难度与量产前景对比
-算法、数据、触觉
-44:32 揭秘Meta机器人项目
-48:25 受GPT与特斯拉FSD启发，机器人研究重心已转变
-50:08 灵巧手数据采集为何难上加难？
-52:01 机器人顶尖团队盘点：学术派与产品派
-53:33 触觉如何提升灵巧手的操作能力？
-58:11 灵巧手数据金字塔：遥操、仿真、视频
-01:01:27 Genie3视频模型能用于训练机器人吗？
-01:03:17 在伯克利做机器人研究是种什么体验？
-01:07:09 灵巧手的“GPT时刻”还有多远？
-【延伸阅读】
-《机器人的“最后一公里”：深聊灵巧手的“不可能三角”与六大技术门派》
-本期播客中提到的公司：
-1X
-ILDA
-Shadow Hand
-ORCA Hand
-Sharpa
-Figure AI
-Tesla Optimus
-Physical Intelligence（PI）
-Sunday Robotics
-Generalist
-Covariant
-TetherIA
-源升智能
-【监制】
-泓君
-【后期】
-AMEI
-【运营】
-朱婕
-【BGM】
-The Light from Within - Howard Harper-Barnes
-Floating in Space - Eva Hummingbird
-All Parts Equal - Airae
-The Secret Spring - Helmut Schenker
-【在这里找到我们】
-公众号：硅谷101
-收听渠道：Apple Podcast｜Spotify｜小宇宙｜喜马拉雅｜蜻蜓FM｜荔枝FM｜网易云音乐｜QQ音乐
-其他平台：YouTube｜Bilibili 搜索「硅谷101播客」
-联系我们：podcast@sv101.net
-Special Guests: 陶一伟 and 齐浩之.</description>
-            <content:encoded><![CDATA[<p class="transcript-line"><span class="time"><strong>[00:00:04]</strong> </span><span class="speaker"><strong>发言人1: </strong></span>Hello, 大家好，欢迎收听硅谷101，我是红军。有个好消息要告诉大家，我们的播客获得了2025年苹果播客的年度编辑精选，这已经是我们第二次入选苹果的年度精选播客了。对于独立播客来说，苹果一直是一个很重要的分发渠道。它每年的博客评选其实也是业内很有重量级的一个奖。所以今年很开心也很荣幸能获奖。当然也希望我们能够继续努力，做出大家更多喜欢听的好内容、好节目。</p>
-<p class="transcript-line"><span class="time"><strong>[00:00:44]</strong> </span><span class="speaker"><strong>发言人1: </strong></span>言归正传，回到我们今天的主题机器人特辑。上一集我们让中美的投资人从投资的角度分享过他们对机器人的一些观点。其实我们的节目很早就一直在关注机器人这个领域。从谷歌的pom ERT one RT two大模型出来的时候，我们就一直在关注机器人的大脑，我们把它称作是模型层。前几个月我们也聊过physical intelligence派0.5的开源，也请英伟达的朋友聊过仿真。</p>
-<p class="transcript-line"><span class="time"><strong>[00:01:16]</strong> </span><span class="speaker"><strong>发言人1: </strong></span>但还有一个非常关键的环节值得被大家关注，就是灵巧手。因为业内有一句话是，真正决定机器人上线的不是它走得有多快，而是它的手能做到多细。今天为了把这样的一个主题讲透，所以我们请了两个不同背景的嘉宾。一个专攻灵巧手的模型与算法，另一个是硬件方向的顶尖人才。今天跟我在一起的嘉宾是UC berkeley的机器人的PHD。喜浩知，hello浩知你好。</p>
-<p class="transcript-line"><span class="time"><strong>[00:01:51]</strong> </span><span class="speaker"><strong>发言人2: </strong></span>hello.</p>
-<p class="transcript-line"><span class="time"><strong>[00:01:51]</strong> </span><span class="speaker"><strong>发言人1: </strong></span>红军对号知马上去芝加哥大学担任助理教授。然后我知道你之前是在meta的机器人组做研究科学家，马上也会去亚马逊的组做研究科学家，整个经历还是非常丰富的。</p>
-<p class="transcript-line"><span class="time"><strong>[00:02:06]</strong> </span><span class="speaker"><strong>发言人2: </strong></span>是我在这两个地方主要就是做一些机器人和0销售相关的研究。</p>
-<p class="transcript-line"><span class="time"><strong>[00:02:12]</strong> </span><span class="speaker"><strong>发言人1: </strong></span>对，而且其实伯克利也是一个机器人人才辈出的地方，待会儿我们可以详细的聊一聊。还有一位是泰si al的创始人兼CEO陶一伟，他的英文名字是艾文陶。Hello evan你好。</p>
-<p class="transcript-line"><span class="time"><strong>[00:02:27]</strong> </span><span class="speaker"><strong>发言人3: </strong></span>红军好，大家好。</p>
-<p class="transcript-line"><span class="time"><strong>[00:02:28]</strong> </span><span class="speaker"><strong>发言人1: </strong></span>艾文之前是在特斯拉的optimus高级机器人机械工程师。</p>
-<p class="transcript-line"><span class="time"><strong>[00:02:34]</strong> </span><span class="speaker"><strong>发言人3: </strong></span>是的，这段经历也非常有趣，我一会儿期待分享。</p>
-<p class="transcript-line"><span class="time"><strong>[00:02:37]</strong> </span><span class="speaker"><strong>发言人1: </strong></span>给大家好呀好，对大家对特斯拉的机器人，尤其是这个灵巧手发展到什么阶段了，我觉得还是非常关注的那我觉得在开始的时候，我们说到机器人的灵巧手，这个灵巧手到底发展到什么程度了，可能是听众最迷惑的一个部分。因为比如说我们其实看了很多的机器人demo的展示。大家明明就看到，我们现在机器人可以去拿吸尘器，可以去倒垃圾、烧水，甚至把盘子放在洗碗机里。然后我记得tesla它有一年的发布会，擎天柱现场还可以给大家应该是倒酒，就看起来这个手已经是很智能了。所以大家可不可以概括一下，现在机器人的手它能做哪些场景，它到了一个什么样的发展程度。不然浩之先来。</p>
-<p class="transcript-line"><span class="time"><strong>[00:03:27]</strong> </span><span class="speaker"><strong>发言人2: </strong></span>好的，如果总结来说的话，我会认为大家在有人去指挥的情况下，也就是要操作的情况下，如果这个手的手指不需要很精细的动作，那它是一个比较简单的问题。比如说我们今天看到擎天柱倒酒，大家如果注意这个视频里面他手的运动的话，他其实手指之间没有一些交互，也没有一些互相的协作。他就是把手放到初九的那个把手上，然后往下压，这个在控制上面是会比较简单的。与此相对的是，比如说今天我们想让一个机器人使用我们家庭里面的各种工具，比如说像螺丝刀，像剪刀这样的东西。在这个过程中，我们的手指是需要更加精细灵巧的操作，在这种情况下，它的操作就会变得很难，以及就是我们需要它适应于可能不只是一家一户，可能是千家万户不同的工具，这个难度就会呈指数级的上升。</p>
-<p class="transcript-line"><span class="time"><strong>[00:04:29]</strong> </span><span class="speaker"><strong>发言人1: </strong></span>所以就是说现在机器人它可能就是你刚刚提到了一个字儿是精细运动。然后还有一个我理解就是讲它的泛化能力，就是把它放在不同的场景中，在这两块儿是还需要加强的。</p>
-<p class="transcript-line"><span class="time"><strong>[00:04:43]</strong> </span><span class="speaker"><strong>发言人2: </strong></span>是的，没错。</p>
-<p class="transcript-line"><span class="time"><strong>[00:04:44]</strong> </span><span class="speaker"><strong>发言人3: </strong></span>艾文对我这里也稍微补充一点。刚才齐老师可能是从系统端的角度来讲这个问题。我想补充可能是更多的从硬件的这方面去切入。一是把现有的硬件的方案做的更更可靠，就是说让机器人能够在真实的环境中不停的长时间稳定的运行，并且和自然的物体的交互，在长时间使用中并不会有任何的损坏。</p>
-<p class="transcript-line"><span class="time"><strong>[00:05:11]</strong> </span><span class="speaker"><strong>发言人3: </strong></span>这个事情实际上也没有完全的去做到。并且为了让从系统的AI的角度能控制机器人做更多的高精度的任务，这个硬件还是需要继续的去迭代它。就比如增加它的自由度，并且增加它的触觉传感，从这些角度继续去升级我们现有的硬件产品。并且在这个过程中，由于系统的复杂性的增加，同时它的可靠性又变得更大的一个挑战的问题。所以说这也是从硬件端还需要我们去做的很多工作。</p>
-<p class="transcript-line"><span class="time"><strong>[00:05:44]</strong> </span><span class="speaker"><strong>发言人1: </strong></span>对，刚刚提到增加它的复杂度、自由度，待会我们可以详细讨论一下，包括特斯拉几代的方案。触觉浩知应该是这方面的顶级的专家了。在此之前也可以给听众一个更加形象的例子，就是evan其实在我们今年办我们年会的时候，你们是有来在我们的年会现场去用机器人表演开可乐的。其实我们之前在彩排的时候开可乐，它能不能开成功，它是一个不稳定的状态。比如说当时我也想去试让这个机器人打开可乐，但是我可能没有任何的经验，我就是随意放的一个角度，可乐他开的那个方向，它并没有对准机器人的手指，这个时候他可能需要机器人旋转一下，它才能把这个可乐打开。旋转一下这个动作他对机器人很难。</p>
-<p class="transcript-line"><span class="time"><strong>[00:06:35]</strong> </span><span class="speaker"><strong>发言人3: </strong></span>没错，那您提到这个是一个非常好的问题。首先开可乐本身看似可能是只要有一双手，再加上一个指甲就可以实现。但是真正把它放到一个机器人双臂的这种机器人系统上，整个是一个还是非常有挑战的工作。而我们仅仅也只是浅浅的demo了一下这样的一个事情。但是我们未来还有非常多的工作，要怎么样能让整个的事情变得完全自动的实现起来，并且成功率非常高的去实现，还是一个很长的一个路要走。</p>
-<p class="transcript-line"><span class="time"><strong>[00:07:10]</strong> </span><span class="speaker"><strong>发言人3: </strong></span>刚才您提到的关于可乐怎么最好的我们去对准这个事情，精度是一个方面的问题。实际上还有更多的是在于首先感知到现在的可乐的状态，以及像人你可以实现任意姿态去抓起这一瓶可乐，然后在手上单手里面调整这个可乐的角度，去达到一个最完美的状态，让你的另一只手可以过来又以一个最完美的状态把它拉开。这个机器人还是需要一个过程。包括机器手的硬件设计，控制的这些方面的能力。</p>
-<p class="transcript-line"><span class="time"><strong>[00:07:44]</strong> </span><span class="speaker"><strong>发言人1: </strong></span>现在世界上就是有其他的公司，比如说他在这个自由度上做的更多的，他们能做到很好的去旋转可乐，然后再把它打开。</p>
-<p class="transcript-line"><span class="time"><strong>[00:07:54]</strong> </span><span class="speaker"><strong>发言人3: </strong></span>我觉得一些比较头部的公司去调整优化一下他们的硬件，包括去更多的在这方面下一些功夫，也是可以实现这么一个demo的。但是目前说让他完全自主去做，我觉得可能还是没有看到哪一家可以去做到这个，可能更多的要看看齐老师的观点。</p>
-<p class="transcript-line"><span class="time"><strong>[00:08:15]</strong> </span><span class="speaker"><strong>发言人1: </strong></span>对对对，因为齐老师你好像之前我记得你还有论文是讲用视觉跟触觉做这个手内旋转的，应该是这方面的顶级专家了。</p>
-<p class="transcript-line"><span class="time"><strong>[00:08:25]</strong> </span><span class="speaker"><strong>发言人2: </strong></span>我的看法可能是，当然现在大家有不同的宣传策略，或者说他们的一些发展或者研究的侧重点。比如说对于像陶总这样的硬件厂商，他们可能目标是为了证明他们的硬件非常的好用，无论是从机械结构上或者说能用它做的一些控制系统上。就是在这种情况下去展示一些很炫酷的展示视频是非常好的。与此相对的就是还有一些做灵巧手的算法，但是不做灵巧手硬件的，他们可能就会比较少的展示这样方面的能力，而更多的是一种展示它的泛化性这方面的能力。</p>
-<p class="transcript-line"><span class="time"><strong>[00:09:03]</strong> </span><span class="speaker"><strong>发言人2: </strong></span>就开可乐这个例子来说，这个例子它可以变得很难，也可以把这个例子变得简单。但是可能就像我觉得陶总刚才也提到，他们的目标可能是最终自主的开这个可乐，比如说自主的开这个可乐在任何可乐的朝向，或者可乐在桌面上的排布，这样的情况下是最难的。但是我们也可以通过限制可乐的朝向，以及进行一些远程操作的方式，让这个拍出视频的难度变得更小一点。就正如陶总所说，如果我们只优化这个视频，那有一些头部的硬件厂商或者算法的研究院，他们可以做出来。但是可能从长远的角度来看，我们更应该专注的是什么样。灵巧手的构型是能够适用于最多种类的热度，以及对于算法的接口最好。</p>
-<p class="transcript-line"><span class="time"><strong>[00:09:53]</strong> </span><span class="speaker"><strong>发言人1: </strong></span>对的，我们刚刚聊到机器人的算法，其实我就想到我们播客七月份是做过和腾讯广告算法大赛的招募。这场比赛11月底刚刚收尾，吸引了全球8400名技术人才，2800多支队伍参加。现在在多模态领域最大的问题是信息整合的效率低，难以从复杂的行为序列里找出用户真正想要什么。但是在这场比赛里面，这些老大难的问题就成了年轻人人的可玩空间。比如说冠军团队，他们用行为条件化建模，让算法能够感觉到用户的需求。还有人去验证scaling law在生成式广告推荐模型里面是不是使用。当然也有人他在数据安全的情况下，可以把这个性能继续往上推。所以可以说这个比赛它其实是把全球顶尖的技术人才聚集在一起。反过来也在推动广告算法的进步，还有系统的性能。</p>
-<p class="transcript-line"><span class="time"><strong>[00:10:56]</strong> </span><span class="speaker"><strong>发言人1: </strong></span>腾讯公司的副总裁蒋杰他也说以前一个大项目要好多人合作，但是现在组队的人基本上1到3个人就能干完一整个team能干的事儿。所以我自己的感受是啊，未来的竞争还真不是靠简历，靠学历，而是靠真本事。在AI时代这类比赛也可以让自己的能力被看见，也是让企业找到顶尖人才的最佳场景。</p>
-<p class="transcript-line"><span class="time"><strong>[00:11:24]</strong> </span><span class="speaker"><strong>发言人1: </strong></span>下面言归正传，继续我们机器人的讨论。所以现在浩知根据你的这个研究，你觉得已经有公司他能做到我随意摆上去。就是我们不说任何环境，任何场景，我们就说这个可乐罐儿，它的瓶跟它的开口，它不一定是正对着这个机器人的手的，它能把它打开的。这样的一些公司。</p>
-<p class="transcript-line"><span class="time"><strong>[00:11:49]</strong> </span><span class="speaker"><strong>发言人2: </strong></span>我觉得现在是没有这样的公司的。如果一个公司他们今天想要完成这个任务，他们可能会从技术上来说，应该可以花几个月去做到这件事情。但是他们可能需要花费非常多的资源和非常多的时间去做这件事情。可能就是出于对他们本身公司路线的考量，他们不会去做这件事情本身，而更像是做一些算法上的改进，让它能够缩短以后想要做这件事情的时间。</p>
-<p class="transcript-line"><span class="time"><strong>[00:12:19]</strong> </span><span class="speaker"><strong>发言人1: </strong></span>他们不会针对单个的任务去做这种优化，而是他是希望现在在优化的方向是让他适应尽可能多的人物，还是更加看重他的。</p>
-<p class="transcript-line"><span class="time"><strong>[00:12:32]</strong> </span><span class="speaker"><strong>发言人2: </strong></span>泛化性。</p>
-<p class="transcript-line"><span class="time"><strong>[00:12:33]</strong> </span><span class="speaker"><strong>发言人1: </strong></span>是的，了解。如果照这个来说的话，我印象中之前figure AI他们放了一些视频出来，大概就是有机器人它能把盘子放在洗碗机里。所以这个视频它可能是拍很多次失败挑出来的一些成功的案例。还是像你说的，它其实是通过瑶操，它只是一个demo类的视频，它并不代表机器人拥有这样的一些能力。</p>
-<p class="transcript-line"><span class="time"><strong>[00:13:03]</strong> </span><span class="speaker"><strong>发言人2: </strong></span>我觉得这里面没有一个确定的信息源。但是我觉得就是现有的算法是可以做到在一个固定的场景下，能比较容易的拍出这种视频。比如说它整个任务的成功率可能有80%到90%，在这种情况下拍一个视频也是自主完成的，它的难度也没有特别高。但是它距离让这种人形机器人走入千家万户，它可能差的是如何在每一个场景下都可以以百分之百的成功率去完成这些任务。比如说把盘子放到洗碗机里，很可能90%也是不够的。因为有十个盘子，如果直接碎了一个，那这样大家就不想用这个机器人了。所以可能需要改进的就是成功率以及老生常谈的泛化性的问题。</p>
-<p class="transcript-line"><span class="time"><strong>[00:13:49]</strong> </span><span class="speaker"><strong>发言人1: </strong></span>所以我理解现在在灵巧手的问题上，大家关注的也还是泛化性。</p>
-<p class="transcript-line"><span class="time"><strong>[00:13:54]</strong> </span><span class="speaker"><strong>发言人3: </strong></span>对我这里也补充一下，实际上我们在每一个任务中还是要去细分的看一下它整体的难度。因为刚才同学您提到装洗碗碟和从洗碗机里往外拿这个任务拆解下来，它主要是机器人拿起碗碟，打开洗碗机的门，然后放进那个洗碗机的架。这几个还是就像齐老师说的，做简单的抓取物体，并且拉动一些拉杆这样的相对来说比较简单的任务。这个难度实际上跟刚才我们谈到的开可乐还不是一个数量级。因为开可乐仔细的去分析这个事情，它实际上是一个用左手或者右手把可乐从桌面上拿起来，调整好灌口方向，再用另外一只手从空气中对准之后，以一个合适的角度卡住那个拉环，并且以一个合适的角度和力去打开这个可乐。并且在这个过程中，因为它是一个双手对一个物体进行同时操作，你的另一只手要对抗这个拉可乐的力。对抗的过程中你又要怎么保证你的手指不会产生过大的力，把这个易拉罐给捏爆。这个是一个从整体机器人控制系统上来说，比整个一个收纳碗碟是更难的非常多的一件事情。</p>
-<p class="transcript-line"><span class="time"><strong>[00:15:18]</strong> </span><span class="speaker"><strong>发言人1: </strong></span>简单来说就是碗碟它不需要双手的配合，它可能也会有力跟形状跟抓取的这些问题。但是他的配合度会少了很多，然后他不会有拉的那个力。</p>
-<p class="transcript-line"><span class="time"><strong>[00:15:29]</strong> </span><span class="speaker"><strong>发言人3: </strong></span>对吧？没错。</p>
-<p class="transcript-line"><span class="time"><strong>[00:15:31]</strong> </span><span class="speaker"><strong>发言人1: </strong></span>是是是，这样说理解了。所以大家觉得现在如果我们综合来说，整个灵巧手它的瓶颈是在哪儿？它是整个机器人行业的问题。就比如说我们还是说这个模型的问题，泛化性的问题，还是说灵巧手他除了这个之外，他还是有很多他自己这个行业独有的难题。</p>
-<p class="transcript-line"><span class="time"><strong>[00:15:51]</strong> </span><span class="speaker"><strong>发言人3: </strong></span>灵巧手我们不能光看它是一个硬件的一个模块，它能产生它的价值，肯定是要配上至少一个双臂的这么一个系统。这个双臂的系统会形成一个最小可以用来工作的机器人。但是当我们想要真正让它泛化的去在一个环境里执行任务，你就会需要一个移动的底盘，移动的平台。有了这样的移动的平台，他就会说轮式的是不是可以针对一些可能更复杂的路面情况，包括机器人的上下的一个运动。大家又会说，我可能甚至还真的是一个全人型的这更合适。所以说真正的让灵巧手有价值，肯定不是简简单单一个硬件模块可以去解决的事情。</p>
-<p class="transcript-line"><span class="time"><strong>[00:16:37]</strong> </span><span class="speaker"><strong>发言人2: </strong></span>它的难点肯定是整个机器人到处都是难点。经常也会有人问我，做零销售最难的地方是什么？就是我认为现在来看，硬件和软件还会有一个很大的提升空间。</p>
-<p class="transcript-line"><span class="time"><strong>[00:16:50]</strong> </span><span class="speaker"><strong>发言人2: </strong></span>从软件来说，我的理解是一些比较成熟的在机械臂或者一些轮式机器人上面的算法，就是一些机器学习的算法办法。当把它们直接应用在灵巧手或者人形机器人这种更复杂的系统的时候，它会出现一些之前没有预料到的问题。比如说现在的灵巧手可能有四五个手指，然后每一个手指有各种各样的关节，每一个关节都可能与这个环境发生交互，与这个物体发生交互。那么怎么能在保证这些交互所产生的一些影响是对我们有利的。比如说我们今天想要抓一个物体，如果我们用一个夹爪去抓，我们只需要考虑两个接触点该怎么去触碰这个物体。但是如果我们现在给了十个接触点，那么这十个接触点该怎么去分别的接触这个物体？有的接触点之间可能是互相对抗的作用，这种情况下在计算复杂度上就会显著的变难。</p>
-<p class="transcript-line"><span class="time"><strong>[00:17:46]</strong> </span><span class="speaker"><strong>发言人2: </strong></span>第二点就是从硬件层面来说，我开始研究灵巧手可能是21年22年，在那个时候是只有非常少的选择，就是我们可以买到并且还可以用的灵巧手。在最近的一两年，我们的营销售硬件，尤其是国内厂商，还有美国这边一些造硬件的公司都有了长足的进步。所以我觉得这方面的瓶颈在逐渐的减少。但是我的预测是还需要几轮的迭代，才能做到一个真正像比如说大家现在能看到的语数机器人那样一个逐渐收敛的构性。</p>
-<p class="transcript-line"><span class="time"><strong>[00:18:21]</strong> </span><span class="speaker"><strong>发言人1: </strong></span>就现在的灵巧手，就市面上能买到的大家的形状硬件都各不一样。那你其实就要去根据这个硬件调配自己的软件。</p>
-<p class="transcript-line"><span class="time"><strong>[00:18:30]</strong> </span><span class="speaker"><strong>发言人2: </strong></span>就是以像人的灵巧手居多。但是每一家公司他们的技术路线都会有所不同。像陶总的公司应该是省区的技术方案，也有一些公司是把电机放在灵巧手的手指上。这种驱动方案。</p>
-<p class="transcript-line"><span class="time"><strong>[00:18:44]</strong> </span><span class="speaker"><strong>发言人1: </strong></span>其实说到技术路径，就我知道现在业界比较流行的有几种。一种是连杆驱动的，一种是省区的。然后省区还分单向省区跟双向省区，然后还有电机驱动的evan或者昊芝，你要不要跟大家简单的介绍一下这些技术路线各自的优劣势是什么？然后现在业界的主流方向在向哪个方向发展，它有没有收敛的趋势？</p>
-<p class="transcript-line"><span class="time"><strong>[00:19:09]</strong> </span><span class="speaker"><strong>发言人3: </strong></span>我先从硬件本身这个角度来谈一下，之后可能麻烦齐老师再补充。从使用者的角度来看，到底哪一种是他更倾向的。首先我们先看三个主要的方式，一个就是连杆，另外一个省区，最后一个就是直区。</p>
-<p class="transcript-line"><span class="time"><strong>[00:19:25]</strong> </span><span class="speaker"><strong>发言人3: </strong></span>连杆最早应该是大家比较传统意义上的那种假肢手，是采取这样的一个结构驱动方式。它通过底下驱动器，无论是直线的推杆、电刚或者是用涡轮蜗杆的方式产生一个旋转运动，最后实现手指弯曲。这是属于传统意义上六自由度的低自由度零条手。它更多的是像手的一个形状，但是它的手指的运动轨迹其实是相对还是比较低自由度的。它的指尖是跟的一个固定的一个路线，是个一维的这么一个轨迹。大拇指它的设计也是它侧摆之后直接正对应食指或者中指之间，它也是通过这么一个固定轨迹的方式去合拢。所以说从使用的角度来说，它似乎和夹爪来说，它的特点并没有那么的明显。这是低自由度连杆手的一个特点。</p>
-<p class="transcript-line"><span class="time"><strong>[00:20:22]</strong> </span><span class="speaker"><strong>发言人1: </strong></span>低自由度它一般是会达到多少个自由度？</p>
-<p class="transcript-line"><span class="time"><strong>[00:20:25]</strong> </span><span class="speaker"><strong>发言人3: </strong></span>一般是六个自由度。</p>
-<p class="transcript-line"><span class="time"><strong>[00:20:27]</strong> </span><span class="speaker"><strong>发言人1: </strong></span>六个自由度差不多就是五个手指这样合拢，然后还有一个自由度在那儿。</p>
-<p class="transcript-line"><span class="time"><strong>[00:20:32]</strong> </span><span class="speaker"><strong>发言人3: </strong></span>是大拇指的侧面摆动。</p>
-<p class="transcript-line"><span class="time"><strong>[00:20:34]</strong> </span><span class="speaker"><strong>发言人1: </strong></span>就是大拇指有两个自由度，然后其他的手指各一个自由度。</p>
-<p class="transcript-line"><span class="time"><strong>[00:20:38]</strong> </span><span class="speaker"><strong>发言人3: </strong></span>没错，连杆手实际上还有另外一条路线，也是高自由度的路线。就是之前韩国一篇论文叫ela这篇论我们的手基本上思路也是通过一个相对更复杂的连杆方式，把每个手指根部设计出三个主动的直线驱动器。然后我通过也是比较复杂的连杆系统，实现每个手指三个自由度的方式。这样的手的确还是比较先进。但是它可能存在的问题是它的体积还是比较大，并且它的所有的零部件进行刚性的连接使用中缺少一些柔性。这个柔性不仅你在抓物体的过程中感觉并不是非常的柔顺，并且它也会在碰撞的过程中相对来说更容易损坏一些。</p>
-<p class="transcript-line"><span class="time"><strong>[00:21:23]</strong> </span><span class="speaker"><strong>发言人1: </strong></span>这是第一个连杆驱动有。</p>
-<p class="transcript-line"><span class="time"><strong>[00:21:25]</strong> </span><span class="speaker"><strong>发言人3: </strong></span>劣势连杆驱动。然后我第二个谈一下直接驱动的这些方式，直驱的零销售其实是这一两年才逐渐出现的这么一个方案。实际上现在电机驱动器也有很多的发展，把电机驱动器做的足够小，使得这样的直驱方案变得可行了。因为原来的小型的微型电机并没有像现在发展的这么多，尤其是最近市场上有这方面的需求，所以电机做的越来越小，功率密度做的越来越大，使得把电机集成化、小型化变得可行。就是正好能够在人手的这么一个尺寸下做的还是很不错的。</p>
-<p class="transcript-line"><span class="time"><strong>[00:22:02]</strong> </span><span class="speaker"><strong>发言人3: </strong></span>优点我觉得比较明显的就是它的自由度可以做的非常高，它可以在每个关节排补一个驱动器。并且它从控制角度来说，是因为是关节和电极直接对应的，是相对来说比较容易去做的。它的缺点可能更多的是一个贵贵，我觉得最终可能应该成本也能往下走。但是它更多的一个点在于，它把电机做的微小之后，它的一个减速比还是相对来说比较高。它大的减速比会使得整个的传动透明性比较差一些，也是说它里面的齿轮零部件都比较精密，也是在实际的应用中，可能的寿命或者是抗冲击能力会是它的一个问题。并且因为它把它的电机所有的这些零件做得非常小型化，使得它的所有结构都非常需要有高强度的金属结构，这就使得整个手的系统的重量没有办法做的非常的小轻。所以普遍直驱的营销手都是在将近一公斤或者一公斤以上，这个在机器人末端来说还是挺大的一个负载。</p>
-<p class="transcript-line"><span class="time"><strong>[00:23:06]</strong> </span><span class="speaker"><strong>发言人1: </strong></span>一公斤的手那好重，这设计平衡都是一个问题。</p>
-<p class="transcript-line"><span class="time"><strong>[00:23:10]</strong> </span><span class="speaker"><strong>发言人3: </strong></span>的确对，这些是他的一些问题。还有一些就是包括我刚才提到那个可靠性，易维护性，这可能我们还是看一看这个方面的发展。</p>
-<p class="transcript-line"><span class="time"><strong>[00:23:21]</strong> </span><span class="speaker"><strong>发言人1: </strong></span>所以他现在算是业界里面从灵活度来说是做的比较高的这样的一种灵巧手。也可以理解成他是能完成更多的精细运动跟复杂动作的类型。因为之前是有人跟我推荐过，说我们应该去聊一聊sharp a这家公司，就觉得他做的还挺好的。他们好像就用的这种电机直驱的方式。</p>
-<p class="transcript-line"><span class="time"><strong>[00:23:45]</strong> </span><span class="speaker"><strong>发言人3: </strong></span>没错，他们做的真的是非常的惊艳。</p>
-<p class="transcript-line"><span class="time"><strong>[00:23:48]</strong> </span><span class="speaker"><strong>发言人1: </strong></span>怎么个经验法？</p>
-<p class="transcript-line"><span class="time"><strong>[00:23:50]</strong> </span><span class="speaker"><strong>发言人3: </strong></span>他的产品的完成度非常高，感觉他集成的很好啊，整个工业设计还非常不错。它每个关节有独立的电机，使得它的整个真的是非常灵活。</p>
-<p class="transcript-line"><span class="time"><strong>[00:24:01]</strong> </span><span class="speaker"><strong>发言人1: </strong></span>他能做到哪些其他灵巧手做不到的工作，或者只有他们能做的。</p>
-<p class="transcript-line"><span class="time"><strong>[00:24:06]</strong> </span><span class="speaker"><strong>发言人2: </strong></span>我觉得从展示这个视频的角度来说，他们可能做了一些比如说用相机拍照，比如说用有一个双臂灵巧手的系统给大家发牌，这两个是比较惊艳的。</p>
-<p class="transcript-line"><span class="time"><strong>[00:24:18]</strong> </span><span class="speaker"><strong>发言人1: </strong></span>双臂灵巧手给大家发牌扑克牌。</p>
-<p class="transcript-line"><span class="time"><strong>[00:24:21]</strong> </span><span class="speaker"><strong>发言人2: </strong></span>对。</p>
-<p class="transcript-line"><span class="time"><strong>[00:24:21]</strong> </span><span class="speaker"><strong>发言人1: </strong></span>扑克牌这个很难这个。</p>
-<p class="transcript-line"><span class="time"><strong>[00:24:23]</strong> </span><span class="speaker"><strong>发言人2: </strong></span>会比较难。因为比如说我们想象一叠扑克牌的时候，两张牌之间它的间隔很小。当我们自己人手发牌的时候，我们需要控制一个比较精确的力，才能把这个牌从这个牌堆上面拿出来。然后再给大家，如果说碰牌的点不是很准或者是力太大，很容易一下发很多张牌或者把牌堆给打散。所以他们做的这个视频还是相当惊艳。</p>
-<p class="transcript-line"><span class="time"><strong>[00:24:50]</strong> </span><span class="speaker"><strong>发言人1: </strong></span>如果要一张牌的发，对手部的精细度的要求还是比较高的对，这个是直驱的方案，然后还有种应该是艾文你这边比较熟悉的，就是拉绳跟省区的这种方案。</p>
-<p class="transcript-line"><span class="time"><strong>[00:25:04]</strong> </span><span class="speaker"><strong>发言人3: </strong></span>对的，省区的方案其实现在市面上几家主流公司方案的话也主要分两种，一个是双向拉绳的方案，一个是单向拉绳的方案。双向拉绳的主要以最早的我们可能都听说过，就是林教授的皇冠的明珠。Shadow hand他们的一个产品是一个15万美金的天价产品，超高26个自由度的灵巧销售。他们的方案就是在每个关节用两根绳同时连到旋转电机的两个方向上，使得旋转电机向顺时针转就是弯曲，逆时针转就是伸直，是这样的一个思路。</p>
-<p class="transcript-line"><span class="time"><strong>[00:25:42]</strong> </span><span class="speaker"><strong>发言人3: </strong></span>还有比较类似的另外一款，目前开源的手势叫欧卡hand，是苏黎世理工做出来的。他们这个也是非常不错的一款双向拉伸开源的零销售方案。这样的零销售比较大的难度在于一个双向拉绳一个张没问题。因为当你一个旋转轴去控制末端的另外一个旋转轴的时候，它需要保持两侧的绳的长度，一定要是长时间保持不变的。因为如果你稍微有一个绳，在使用的过程中材料会产生不变。这个蠕变一旦发生，就会有一个松动的现象发生。这个松动的现象使得系统的精度降低，并且比较难以控制。从解决的角度来说，欧卡hand有一个比较聪明的方式，一个精妙的设计就是在它驱动器上用了一系列的经纶机构，使得你可以轻松的去张谨这个绳。但是这个问题也是在于你张紧，但是你还是是在使用过程中时不时要去调整一下这个东西，这个是这个方案的比较大的一个难度。</p>
-<p class="transcript-line"><span class="time"><strong>[00:26:50]</strong> </span><span class="speaker"><strong>发言人3: </strong></span>还有一点就是这种高自由度领条手，其实绳子本身虽然不占太多的体积，但是绳区设计的这个走线，实际上在机械设计中，它对空间的利用率非常低。它不像是你设计齿轮或者设计其他类似的方案，你可以说很紧密的把电机排布在一起。你要去考虑到整个绳的走线，然后整个关节运动中绳的一个范围的变化，一个非常动态的一个事情。所以使得高自由度灵巧手，尤其是省区方案很少有能够全部做在手掌内的这就使得它的驱动器都要往手腕以下去延伸，像shadow hand和欧卡hand以及tesla。实际上我们国内有一家公司原生智能，他们做的使用区的方案是把驱动器全部整合在手掌内。但是这样也的确使得他们的手掌的体积稍微还是比较大的。</p>
-<p class="transcript-line"><span class="time"><strong>[00:27:43]</strong> </span><span class="speaker"><strong>发言人1: </strong></span>所以tesla是双向拉伸对吧？</p>
-<p class="transcript-line"><span class="time"><strong>[00:27:46]</strong> </span><span class="speaker"><strong>发言人3: </strong></span>Tesla是单向拉伸的方案。</p>
-<p class="transcript-line"><span class="time"><strong>[00:27:48]</strong> </span><span class="speaker"><strong>发言人1: </strong></span>它是单向拉伸的方案。</p>
-<p class="transcript-line"><span class="time"><strong>[00:27:49]</strong> </span><span class="speaker"><strong>发言人3: </strong></span>对对对，然后就说到另外一个主流的方案就是单向拉伸。单向拉绳好处就是说对于建绳材料的蠕变它不是那么的敏感，它可以通过算法的方式相对容易的去克服这个事情。但他的缺点就是说他的伸直运动是没有主动的力量，相当于是靠弹簧去实现伸直。这个弹簧伸直的过程中，一是这个力相对来说还是比较小的。如果你想要尽量的去优化你的抓握力的话，因为你在抓握过程中实际上是跟你的弹簧力的一个对抗。你有更强的伸展力，你就浪费掉你的抓握力。</p>
-<p class="transcript-line"><span class="time"><strong>[00:28:29]</strong> </span><span class="speaker"><strong>发言人3: </strong></span>但是有的时候人在一些精细的操作，人用手的过程中，反向的推线让力也的确是有的时候也会有它的作用。但是的确现在这个阶段大家还没有特别考虑到需要这个点。相对来说还是更少的应用场景，更多的就是我们还是在解决抓握的事情。</p>
-<p class="transcript-line"><span class="time"><strong>[00:28:47]</strong> </span><span class="speaker"><strong>发言人1: </strong></span>就没有想到张开的事情是吧？</p>
-<p class="transcript-line"><span class="time"><strong>[00:28:49]</strong> </span><span class="speaker"><strong>发言人3: </strong></span>对，张开的的确还用的并不是那么多。可以这么说。</p>
-<p class="transcript-line"><span class="time"><strong>[00:28:54]</strong> </span><span class="speaker"><strong>发言人1: </strong></span>了解你们用的是哪种方案。</p>
-<p class="transcript-line"><span class="time"><strong>[00:28:56]</strong> </span><span class="speaker"><strong>发言人3: </strong></span>我们其实是单向拉绳，还有一个直驱方案的一个混合方案。对，这个我们目前还是处于一个比较保密的状态。反向推你可以想象你如果去闭着眼睛在你的书包里掏一些东西，你可能需要把其他东西拨开，然后去抓住你想要抓到的那个物体。这个的确是需要一个推，但是更多的还是要整手的触觉。所以这个确实是非常难的一个问题了，大家都没有去考虑这个事情。</p>
-<p class="transcript-line"><span class="time"><strong>[00:29:22]</strong> </span><span class="speaker"><strong>发言人1: </strong></span>那业界现在大家在向哪几个方向收敛呢？</p>
-<p class="transcript-line"><span class="time"><strong>[00:29:27]</strong> </span><span class="speaker"><strong>发言人3: </strong></span>从我看来就是硬件商业界现在主要是朝着直驱和单向拉绳这个方向去收敛。包括特斯拉还有我们都是这样的一个方式。直驱的话也是非常惊艳的，连杆的时候可能相对高自由度的做的公司会少一些。</p>
-<p class="transcript-line"><span class="time"><strong>[00:29:44]</strong> </span><span class="speaker"><strong>发言人1: </strong></span>OK figure AI他们用的是什么方案？还有physical .</p>
-<p class="transcript-line"><span class="time"><strong>[00:29:48]</strong> </span><span class="speaker"><strong>发言人3: </strong></span>intelligence figure AI我简单看一下他们的专利，那可能是一个六自由度的或者是连杆，或者是其他的一些方案的一个手。</p>
-<p class="transcript-line"><span class="time"><strong>[00:29:57]</strong> </span><span class="speaker"><strong>发言人1: </strong></span>那浩芝有什么补充的，包括你作为使用者，你的体验。</p>
-<p class="transcript-line"><span class="time"><strong>[00:30:02]</strong> </span><span class="speaker"><strong>发言人2: </strong></span>就是我自己是用过连杆和直驱电机的这两种我确实没有用过。省区动的手。我们现在去做机器人加AI大概有两种比较主流的方式。第一种方式就是先用尧操作采数据，然后去训练一个神经网络去完成某些任务。在这种情况下，比较经典的代表可能是aloha还有像physical intelligence的这条路径。另外一条比较主流的路径是在一个物理的模拟器中去用强化学习去训练这么一个网络，就直接把这个网络从仿真器里面迁移到真实世界。比较成功的案例就是基本上所有大家看到的四足机器人、双足机器人，跳舞、走路都是走的这条技术方案。</p>
-<p class="transcript-line"><span class="time"><strong>[00:30:48]</strong> </span><span class="speaker"><strong>发言人2: </strong></span>灵枪手的话，任何一种方案在现在这个时间点都有它的缺陷。但是其中的这套从仿真器中训练一个网络，再迁移到真实世界，也是非常的流行的。所以这个就有一个问题，就是我们在选择电枪手的时候，会去衡量它有多容易被仿真。之前我们比如说比较连杆的手以及直驱的手，我们会觉得直驱的手相比于这个连杆的手会容易仿真很多。所以在我们做一些需要高自由度，需要一些用强化学习才能学到的这种灵巧操作的时候，就会选择用直驱的这个手。在之前这种直驱的手就像刚才艾文说的，它的最大的缺陷是当时的电机非常大，也是在最近几年这个电机才做的越来越小。比如说沙发，当时我们觉得沙帕惊艳的另外一个原因就是说在沙发之前跟人手差不多大小的这种机器人的手，它一般都是要么是连杆驱动，要么是省区，对于我们想做的这个技术路线不太适用。所以当时我们觉得它既有人类的大小，然后又是电机驱动的，就是很适用于我们做这方面的研究。</p>
-<p class="transcript-line"><span class="time"><strong>[00:31:56]</strong> </span><span class="speaker"><strong>发言人1: </strong></span>所以我觉得挺有意思的。就是如果用仿真的方式去研究灵巧手的话，其实你首先需要这个手长得跟人类的手一样。甚至你的自由度，你的关节数有多少，要跟人类的手越接近越好。</p>
-<p class="transcript-line"><span class="time"><strong>[00:32:09]</strong> </span><span class="speaker"><strong>发言人2: </strong></span>我有一个点需要补充，它这个仿真更多的是出于比如说我们用这个仿真器的时候，它的物理引擎有多支持这种机械结构。如果是连杆的话，它的机械结构比较复杂，所以仿真器就不太容易很精确的仿真这种机械结构。电机的话，它每一个电机的仿真是非常简单的。然后用直驱的手，它无非就是很多个直驱电机串起来。所以它的仿真没有难度上的增加。所以它其实更多的是从仿真的角度来说，这两种机械结构有一些区别，跟这些机械手跟人手是否相像，可能区别会少一点。</p>
-<p class="transcript-line"><span class="time"><strong>[00:32:45]</strong> </span><span class="speaker"><strong>发言人2: </strong></span>我刚才之所以提到他要跟人手差不多大小，更多的是出于比如说我们想要让这些机器人完成一些人才能完成的任务，那么就需要涉及到跟我们现实世界中各种物体的交互。然后这些物体的形状以及大小都是按照人手设计的。假如说这个机械手太大，它就很难去抓一个比较小的东西。所以从这个方向考虑，我们就是会偏向于好仿真，并且跟人手差不多大小的这种机械手。</p>
-<p class="transcript-line"><span class="time"><strong>[00:33:13]</strong> </span><span class="speaker"><strong>发言人1: </strong></span>很有意思。刚刚其实大家有提到sharp a的手，我看它的价格好像是10万美元一只。还有艾文，你刚刚提到shadow hand的那个手，它是15万美元，谁在买这些这么贵的灵巧手？都是科研机构跟大公司的研发部门吗？</p>
-<p class="transcript-line"><span class="time"><strong>[00:33:30]</strong> </span><span class="speaker"><strong>发言人3: </strong></span>齐老师应该是可以买得起的。</p>
-<p class="transcript-line"><span class="time"><strong>[00:33:33]</strong> </span><span class="speaker"><strong>发言人2: </strong></span>沙盘应该是51000只.</p>
-<p class="transcript-line"><span class="time"><strong>[00:33:35]</strong> </span><span class="speaker"><strong>发言人1: </strong></span>51000只，10万2只，他会按对卖吗？还是他现在其实没有两个手的配合。</p>
-<p class="transcript-line"><span class="time"><strong>[00:33:41]</strong> </span><span class="speaker"><strong>发言人2: </strong></span>应该是可以按对卖的。我的理解是，首先这些厂商他们不会靠卖这个硬件去盈利，至少在此时此刻，因为他们还远远没有到量产的那个阶段。他们现在对于这个公司最重要的可能是先确定他们现在这个构型哪里还值得被优化。接下来再去往一个正确的方向继续迭代。这样的迭代可能还有很多很多轮。</p>
-<p class="transcript-line"><span class="time"><strong>[00:34:06]</strong> </span><span class="speaker"><strong>发言人2: </strong></span>他们的这个价钱，很多时候我个人的理解可能是有一些筛选作用在的。就是他们只想给那些真正对他们的硬件有一个很强烈的需求的人，可能是大厂，或者是突然有一些非常大的来自于政府的资助的这些高校。举一个例子，当时shadow hand的一个主要客户就是1718年的OpenAI，他们当时做灵巧手转魔方，他们有足够的财力去支持他们做这样的工作。</p>
-<p class="transcript-line"><span class="time"><strong>[00:34:34]</strong> </span><span class="speaker"><strong>发言人1: </strong></span>挺有意思的，我理解。其实他们现在也不是靠卖硬件赚钱，还是希望能把这条路跑通。他们其实也是希望能够吸引在上面的开发者，然后把这个生态打起来，让更多的人去用到他们，去改进这个方案。</p>
-<p class="transcript-line"><span class="time"><strong>[00:34:50]</strong> </span><span class="speaker"><strong>发言人2: </strong></span>我是这么理解的，艾文可以从硬件从业者的角度来讨论一下。</p>
-<p class="transcript-line"><span class="time"><strong>[00:34:55]</strong> </span><span class="speaker"><strong>发言人3: </strong></span>或者从我这个创业者的角度来讨论一下这个事。我们公司的商业模式可能还跟它略有不同，因为就像刚才齐老师说的，它是一个走高端学术路线，包括筛选精品客户的角度来做这个事情。的确像现在红军您看到很多这个demo在应用场景中似乎已经是可以落地。而我们思路是作为一款稳定可靠，价格更低能让真正的做应用端的客户能够很快的去部署的这么一个产品。可能我的自由度，包括整个的性能，包括触觉没有那么的高级。但是我们会去做一款这样的产品，非常的稳定，低价非常有竞争力。这样使得大家可以在落地的过程中逐渐建立起这个生态。然后帮我们更多的获得和客户的一个反馈。这是我们从创业公司的角度来说我们的一个策略。并不代表价格比较便宜的灵巧手没有技术含量，也并不代表它没有商业价值。</p>
-<p class="transcript-line"><span class="time"><strong>[00:35:56]</strong> </span><span class="speaker"><strong>发言人1: </strong></span>我反而觉得价格低更容易商业化落地，对吧？对，其实我觉得很多就包括垂直领域的机器人，它都不是通用，它可能也很好落地，应用场景也很多。</p>
-<p class="transcript-line"><span class="time"><strong>[00:36:08]</strong> </span><span class="speaker"><strong>发言人3: </strong></span>没错，就像我们看到figure的手，它的弹幕的场景已经非常多。更多的实际上是基于现有的硬件，还是更多的需要靠算法能力的提升，打开它的很多的潜力。</p>
-<p class="transcript-line"><span class="time"><strong>[00:36:21]</strong> </span><span class="speaker"><strong>发言人1: </strong></span>对，那艾文其实你进特斯拉的时候应该是在两年多以前，就2023年7月份对吧？正好是tesla optimus的手的研发。你要不要跟大家简单介绍一下它的整个的手，它是怎么演进的？</p>
-<p class="transcript-line"><span class="time"><strong>[00:36:36]</strong> </span><span class="speaker"><strong>发言人3: </strong></span>没问题。其实是最早我加入的时候，当时做手的团队，我们整个optimists做机械硬件的团队应该大概是十几个人这么一个团队。做手应该是我和另外一个人主要是负责这个手的项目。实际上外界现在也不是很清楚当时那一代手是个什么样的方案，是个乌龙卧杆省区方案，六个主动自由度，11个全关节这么一个欠驱动链条手。当时其实在内部我们已经是迭代到了第三代。</p>
-<p class="transcript-line"><span class="time"><strong>[00:37:07]</strong> </span><span class="speaker"><strong>发言人3: </strong></span>我当时加入的时候最主要的一个升级就是增加灵巧手的关节编码器，就是怎么能够捕捉到灵巧手在空间中的位置。另外一个是增加他的触觉。虽然这两个工作似乎只是一个电路上的升级，但是从整个系统设计的角度，因为有了这些新的功能的加入，整个灵巧手当时沿用第一代的构型，就使得装配过程中非常困难。其实我当时刚进去的第一个星期的任务，就是带领生产团队亲手去组装这个刚设计好的第三代领教授，就我用内部，他们当时叫第三代零销售的确是个非常痛苦的过程，可能一个手我们从早装到晚也装不出来。</p>
-<p class="transcript-line"><span class="time"><strong>[00:37:53]</strong> </span><span class="speaker"><strong>发言人3: </strong></span>从没有搞机械的角度来说可能很难理解。简单来说你可以想象，因为它有一些弹簧在里面，再加上一些电子的电路的东西在里面。你可能需要既压着弹簧又去穿另外一个东西，再要去保证线是怎么走。就是你每一个工序可能都要花一两个小时去在那里慢慢的做。这个实际上就是一个硬件构型设计上的还不完善的地方。</p>
-<p class="transcript-line"><span class="time"><strong>[00:38:18]</strong> </span><span class="speaker"><strong>发言人1: </strong></span>是你们自己设计的。</p>
-<p class="transcript-line"><span class="time"><strong>[00:38:19]</strong> </span><span class="speaker"><strong>发言人3: </strong></span>没错。</p>
-<p class="transcript-line"><span class="time"><strong>[00:38:19]</strong> </span><span class="speaker"><strong>发言人1: </strong></span>他自己设计的就是特斯拉自己做的，他也没有用其他的硬件的方案，就相当于他全部是自己设计，自己研发。然后你来正好就是赶上要自己组装这个事情。</p>
-<p class="transcript-line"><span class="time"><strong>[00:38:30]</strong> </span><span class="speaker"><strong>发言人3: </strong></span>没错。其实就是有了这个经历之后，再加上我们和马斯克也是经常去给他汇报。马斯克实际上当时看到的那个第三代的手，他没有特别满意。因为是从外形的设计，包括各方面还是更多的有点像实验室样机这么一个状态。</p>
-<p class="transcript-line"><span class="time"><strong>[00:38:47]</strong> </span><span class="speaker"><strong>发言人1: </strong></span>他想要什么样的？他想要接近于人手的很炫酷的，他是对外形不满意，还是对里面的技术方案不满意？</p>
-<p class="transcript-line"><span class="time"><strong>[00:38:54]</strong> </span><span class="speaker"><strong>发言人3: </strong></span>他看到的是一个是外形，一个是产能，外形他觉得不是很满意，另外一个产能当时可能一天只能组装一两台，就是这样的产能太差。</p>
-<p class="transcript-line"><span class="time"><strong>[00:39:05]</strong> </span><span class="speaker"><strong>发言人1: </strong></span>所以他其实当时可能在质疑整个的这个设计环节，就是从外形到这个方案他是不是好落地。</p>
-<p class="transcript-line"><span class="time"><strong>[00:39:13]</strong> </span><span class="speaker"><strong>发言人3: </strong></span>是的，所以这就是我当时进去的时候第一个任务，就是带领整个项目把他的手重新设计一遍，和工业设计很紧密的去合作。整个把它的结构从里外重新的架构调整了一下，包括很多设计细节也是我们独创的这是我们做出来一个我们内部叫3.1代的手，但对外就是我们所有目前看到的装机，还是大规模装机，一直到现在用的这个款式。</p>
-<p class="transcript-line"><span class="time"><strong>[00:39:41]</strong> </span><span class="speaker"><strong>发言人1: </strong></span>就是你当时在的那一代，现在装一只手要多久？改进以后。</p>
-<p class="transcript-line"><span class="time"><strong>[00:39:45]</strong> </span><span class="speaker"><strong>发言人3: </strong></span>现在具体的时间我已经不清楚了，但是应该是非常快了。</p>
-<p class="transcript-line"><span class="time"><strong>[00:39:49]</strong> </span><span class="speaker"><strong>发言人1: </strong></span>你离开的时候。</p>
-<p class="transcript-line"><span class="time"><strong>[00:39:50]</strong> </span><span class="speaker"><strong>发言人3: </strong></span>离开的时候我记得是一个星期要一百多台。但是是我们的技术工人在现场装自己有一条产线。</p>
-<p class="transcript-line"><span class="time"><strong>[00:39:59]</strong> </span><span class="speaker"><strong>发言人1: </strong></span>后面其实就是已经建立一个产线了。我理解你刚进去的那个时候，它产线还没有建立。</p>
-<p class="transcript-line"><span class="time"><strong>[00:40:04]</strong> </span><span class="speaker"><strong>发言人3: </strong></span>对，从我们工程师的角度来说，我们肯定先要自己先做一遍，先要走一遍这个流程之后才能交给工人去做。</p>
-<p class="transcript-line"><span class="time"><strong>[00:40:14]</strong> </span><span class="speaker"><strong>发言人1: </strong></span>那现在马斯克包括在你在整个特斯拉的过程里面，他对灵巧手的这个问题上，他有提出过哪些他的想法，或者说这个要怎么改，我们要朝哪个方向演进。包括当时我们刚刚其实有提到特斯拉用的是单向拉伸的方式，他是同意这种方案的。</p>
-<p class="transcript-line"><span class="time"><strong>[00:40:33]</strong> </span><span class="speaker"><strong>发言人3: </strong></span>马斯克他是非常坚信第一性原理，所以说他的很多的指导也是从这个角度来的，去做防生这样的事情。拉绳的确就像您说的是单向拉绳的方案。</p>
-<p class="transcript-line"><span class="time"><strong>[00:40:46]</strong> </span><span class="speaker"><strong>发言人1: </strong></span>仿生的问题上，我知道特斯拉内部你们其实是做过人体的分析，去看人体是怎么感知力的，就是人的手它是怎么工作的。</p>
-<p class="transcript-line"><span class="time"><strong>[00:40:55]</strong> </span><span class="speaker"><strong>发言人3: </strong></span>没错，首先我们是看了很多生物解剖上面的学术论文，学习了人的肌腱的运动的发力的方式，还有甚至有一个小小的故事，就是说我们其中有一个伙伴的妈妈是一个手部的外科医生，我们也正好有这么一个机会去到现场观察真的人手的结构。当时这个经历还是很很有趣的。</p>
-<p class="transcript-line"><span class="time"><strong>[00:41:22]</strong> </span><span class="speaker"><strong>发言人1: </strong></span>你觉得收获到了什么？或者对你在做这个工程上的启发是什么？</p>
-<p class="transcript-line"><span class="time"><strong>[00:41:27]</strong> </span><span class="speaker"><strong>发言人3: </strong></span>就是觉得人体非常精妙，心理上也有一些小小的阴影。当你去仔细看到你内部结构之后，你会觉得人真的非常的脆弱。也可能这么说，你会感觉人体的系统竟然是个这么脆弱，但是人还是能够似乎活着很好。</p>
-<p class="transcript-line"><span class="time"><strong>[00:41:47]</strong> </span><span class="speaker"><strong>发言人1: </strong></span>然后你刚刚提到其实你们有看过很多生物学的论文，包括人体是怎么工作的论文。你觉得从人是怎么工作的，到研究灵巧手的工程，你从人的这个工作里面获得的最大的一个启发是什么？或者说整个特斯拉它从人体的工作里面得到的启发是什么？就是有帮助他去做哪些方向的设计。</p>
-<p class="transcript-line"><span class="time"><strong>[00:42:13]</strong> </span><span class="speaker"><strong>发言人3: </strong></span>其实特斯拉从上一代到未来马上要发的这一代手最大的一个变化就是把它驱动器从手掌内移到小臂。这个也是借鉴了一部分人的设计。因为人的手指的弯曲的驱动的肌肉是在小臂上的存在。</p>
-<p class="transcript-line"><span class="time"><strong>[00:42:30]</strong> </span><span class="speaker"><strong>发言人1: </strong></span>不是在手掌内。</p>
-<p class="transcript-line"><span class="time"><strong>[00:42:30]</strong> </span><span class="speaker"><strong>发言人3: </strong></span>是在小臂上。其实是都有。所以说这也是我们自己方案和特斯拉有一些差异的点。他的小臂控制更多的是一个大的抓握力的肌肉，你可以这样理解，因为他的肌肉还是比较大的，但是手掌内分布的肌肉更多的是控制手的一个灵巧的精细化的操作运动。</p>
-<p class="transcript-line"><span class="time"><strong>[00:42:53]</strong> </span><span class="speaker"><strong>发言人2: </strong></span>我有一个比较好奇的问题，刚才艾文也提到了，装配一个省区的联巧手，可能要花的是。也非常多，而且要非常专业的人去做。我比较好奇的是它装配的难度相比于直驱电机的这种灵巧手是如何比较的。以及假设将来我们有一个很大规模的生产线，它生产这种直驱的灵巧手和省区的灵巧手，它的产能会不会有一个比较大的区别？</p>
-<p class="transcript-line"><span class="time"><strong>[00:43:21]</strong> </span><span class="speaker"><strong>发言人3: </strong></span>是的，简单来说是我认为是这样的直驱林教授。因为作为可能更像传统意义上的机械结构，包括机器人系统，它通过传统的一些比较成熟的机械的工艺的方式，可以实现比较容易的装配。简单来说就是你可以通过拧螺丝或者焊接的这种方式去组装。这样的方式都是已经比较成熟的方式。他们既能保证精度，也可以保证整个一个效率。</p>
-<p class="transcript-line"><span class="time"><strong>[00:43:49]</strong> </span><span class="speaker"><strong>发言人3: </strong></span>从省区的角度来说，因为建省的方案，传统意义上这方面的整合的事情就做的不是那么多。所以说这方面是需要整个行业去推进的一个事情。包括建成怎么两端固定的驱动器和末端的执行元件的连接，既能保证它生产速度，同时保证用它的精度，这个实际上大家还是在探索的过程中。但是这个事情最终还是一个工程的问题，它并不是一个基础的一个科学问题。所以说随着整个行业的推进，我们认为这个事情最终是能被克服的。</p>
-<p class="transcript-line"><span class="time"><strong>[00:44:24]</strong> </span><span class="speaker"><strong>发言人1: </strong></span>简单来说，其实直驱现在的生产线相比于省区更加完善一点。</p>
-<p class="transcript-line"><span class="time"><strong>[00:44:30]</strong> </span><span class="speaker"><strong>发言人3: </strong></span>没错。</p>
-<p class="transcript-line"><span class="time"><strong>[00:44:32]</strong> </span><span class="speaker"><strong>发言人1: </strong></span>然后我们刚刚其实聊了很多跟灵巧手的硬件相关的问题，那接下来我们可以聊一聊算法层面的，就是浩知你这边主要在研究的。我注意到其实你在去亚马逊之前，也在meta的机器人组就大家可能知道tesla的机器人figure，ai physical intelligence, 甚至deep mind都知道，就他有机器人项目。Meta的机器人项目主要是在研究些什么？</p>
-<p class="transcript-line"><span class="time"><strong>[00:44:57]</strong> </span><span class="speaker"><strong>发言人2: </strong></span>Ata内部可能会有多个机器人项目，其中有一个项目是做人形机器人的，也是今年年初的时候刚刚成立，所以这个可能也是大家为什么还不太知道的原因。他们可能如果是一个一句话总结，可能就是想做一个家用机器人的产品，可能有点像optimus，有点像figure，自己从硬件开始做，然后采数据，做算法。另一个机器人的团队是在fair这个组织下面，fair就是艾塔的基础研究院。在这个机器人组里面，我们主要的目标还是做研究。我们会着重于去研究各种各样的算法，看哪种算法可以让机器人具有最强的灵巧性。然后我在毕业之后加入这个组之后，这个组主要研究的方向也是营销手。</p>
-<p class="transcript-line"><span class="time"><strong>[00:45:47]</strong> </span><span class="speaker"><strong>发言人2: </strong></span>在过去的几个月里面，我主要研究的是如何从一些人类的视频中学习这些灵巧操作的技能。比如说现在我们大家可能比较了解的是应用一些尧操作的方式摇操作。就是现在我们有一个操作员，他可以带一些动作捕捉的手套或者一些动作捕捉的衣服，把这些人的动作映射到机器人的手上。但是这样其实可能有一些缺陷。第一个缺陷就是说每一个操作员都要适配一台机器人。如果我们想要把机器手操作的数据，一直把它推广到像有语言数据那么多，其实是非常困难的。因为没有那么多机器人以及产能不够。所以另外一条路就是说我们能不能根据一些现有的数据，比如说一些视频的数据，有很多视频是包括人去录制自己如何做饭，如何去清理家务。有一些手的动作，我们就想要研究能不能通过让机器人观看这些手的动作，然后让他自己就学会了这些技能。</p>
-<p class="transcript-line"><span class="time"><strong>[00:46:51]</strong> </span><span class="speaker"><strong>发言人1: </strong></span>现在表现怎么样？</p>
-<p class="transcript-line"><span class="time"><strong>[00:46:52]</strong> </span><span class="speaker"><strong>发言人2: </strong></span>现在这个我会把它归类为他还在研究的阶段。如果我们的目标是想要达到一个最好的效果，如果那么肯定是直接用调操作的方式去采集机器人本身的数据会是最好的。但是因为现在我们还没有把从人类视频中学习数据的这个样本数目推广到足够多。我相信从长远来看，这条路径很有可能会取代要操作。</p>
-<p class="transcript-line"><span class="time"><strong>[00:47:18]</strong> </span><span class="speaker"><strong>发言人1: </strong></span>从长远看就是直接用视频里面的数据，因为它的数据量更大，样本量更高，对不对？对，我觉得挺有意思的。而且我注意到之前one x他还发了一个机器人neo。这个neo他是可以进家庭，可以帮你做一些基础的家务的。但是很可怕的是，大家是以出卖隐私的方式去让这个机器人工作的。因为每个机器人后面有一个瑶操的人在控制这个机器人。我理解其实这也是他们自己收集数据的一种方式。</p>
-<p class="transcript-line"><span class="time"><strong>[00:47:48]</strong> </span><span class="speaker"><strong>发言人2: </strong></span>对，没错，就是我的理解是现在还没有一家公司能够把机器人卖到用户的家里，完成他们想要做的任务。所以one x相当于是一种有点像特斯拉在自动驾驶上面的策略。先把车卖给用户，用户去开这个车，开这个车的同时就采集到了数据。只不过是人形机器人的话，用户自己并不能操作这个人形机器人。所以最后一个他们自己的操作员去操作这个机器人。当然它涉及到的一些隐私问题，一些道德层面上的问题，其实都是需要更多的被讨论。</p>
-<p class="transcript-line"><span class="time"><strong>[00:48:25]</strong> </span><span class="speaker"><strong>发言人1: </strong></span>你刚刚提到你其实是2021年跟22年开始去做机器人的这些部分的。那个时候其实GPT3已经出来了。但是能不能用端到端的方式去训练机器人跟灵巧手，我觉得在那个时候它还不是市场的一个主流方向。我们可以说这两年它才慢慢的就至少是特斯拉它的自动驾驶验证了端到端的这种模式，它的性能会有一个很大的提升。我觉得整个业界才开始都往这个方向走。就是你最开始进入到这个行业的时候，202122大家研究机器人的一些主要的方向在哪里呢？</p>
-<p class="transcript-line"><span class="time"><strong>[00:49:02]</strong> </span><span class="speaker"><strong>发言人2: </strong></span>我会认为那个时候大家研究的机器人，主要是想让机器人在某一个任务上，在有限的泛化性的要求下去完成这个任务。因为那个时候说实话，其一就是当时硬件也不是很多，能做零销售科研的课题组也不是很多，灵巧手这个问题本身大家也没有很想做，其实是特斯拉宣布做人形机器人之后，整个人形机器人行业和这个灵巧手行业迎来了一波爆发，大家才逐渐开始做这个方面。所以大家没有太多的兴趣，就会导致当时名枪手所能完成的任务也比较的有局限性。所以大家可能还是专注于先把某一个任务做的比较好。然后再后来最近的几年就有越来越多的人试图用GPT的研究方式去做一些端到端的模型，包括在一些比较简单的机器人本体上也做的还行。就是也有一些初步的验证结果。比如说physical intelligence，他们就用很大规模的数据加上尧操作去展示了这个机器人有很强的能力。但是对于灵巧手的话，有一个更难的地方，就是灵巧手采集数据会比其他机器人采集数据要难很多。</p>
-<p class="transcript-line"><span class="time"><strong>[00:50:16]</strong> </span><span class="speaker"><strong>发言人1: </strong></span>你是说手簿的数据。</p>
-<p class="transcript-line"><span class="time"><strong>[00:50:18]</strong> </span><span class="speaker"><strong>发言人2: </strong></span>对，所以即使我们有操作员不停的一直在采集数据，距离到GPT那个等级的数据，或者说physical intelligence那个等级的数据，还不是一个非常简单的任务。</p>
-<p class="transcript-line"><span class="time"><strong>[00:50:30]</strong> </span><span class="speaker"><strong>发言人1: </strong></span>所以现在市场上在收集瑶操采集数据最多的公司是谁？是physical intelligence吗？</p>
-<p class="transcript-line"><span class="time"><strong>[00:50:37]</strong> </span><span class="speaker"><strong>发言人2: </strong></span>我应该不会百分百确定，但是我觉得是这样。</p>
-<p class="transcript-line"><span class="time"><strong>[00:50:41]</strong> </span><span class="speaker"><strong>发言人1: </strong></span>我上次其实有跟他们的研究员聊，他们派0.5好像是说一万多个小时的数据，对吧？就一万多个小时，已经算整个机器人行业最大的真实数据集。当然这个是高质量的数据。</p>
-<p class="transcript-line"><span class="time"><strong>[00:50:54]</strong> </span><span class="speaker"><strong>发言人2: </strong></span>肯定有很多公司在收集数据的过程中，他们所产生的数据超1万个小时。但是还有一个问题就是在于什么样的数据是有用的。对于训练机器人来说。</p>
-<p class="transcript-line"><span class="time"><strong>[00:51:07]</strong> </span><span class="speaker"><strong>发言人1: </strong></span>所以你们在做这种模型跟算法。因为我知道大家训练机器人是一个整体，就想让机器人有自主操作的能力，包括让他去行走抓取，我觉得这些都是要有的。包括做各种的姿势动作，你们会是作为一个整体研究，还是说就是针对手也会做单独的。</p>
-<p class="transcript-line"><span class="time"><strong>[00:51:28]</strong> </span><span class="speaker"><strong>发言人2: </strong></span>模型都有。比如说我们会有一些研究是专门研究。比如说灵巧手加上一个机械臂，它能做一些桌面上的抓去操作这样的任务。他可能在这种研究的情况下，他会更加着重于操作的精细性、泛化性。还有一些研究是比如说一个灵巧手在人形机器人上，这个时候他可能会更关注一些人形机器人边移动边操作的一些案例。比如说这个人形机器人开门，或者说这个人形机器人在走路的同时完成一些操作的任务。</p>
-<p class="transcript-line"><span class="time"><strong>[00:52:02]</strong> </span><span class="speaker"><strong>发言人1: </strong></span>你觉得在你的印象里，业界最好的机器人的研究团队是哪一家？</p>
-<p class="transcript-line"><span class="time"><strong>[00:52:08]</strong> </span><span class="speaker"><strong>发言人2: </strong></span>我觉得还是一个各有所长百花齐放的时候，就是他还没有收敛到我能给一个排名。</p>
-<p class="transcript-line"><span class="time"><strong>[00:52:15]</strong> </span><span class="speaker"><strong>发言人1: </strong></span>我喜欢这个回答是因为我其实挺想知道，就是你所说的各有所长，每个团队它的长项是在哪里的？</p>
-<p class="transcript-line"><span class="time"><strong>[00:52:22]</strong> </span><span class="speaker"><strong>发言人2: </strong></span>比如说专注于做研究，然后发表论文的和专注于做产品的，可能要分开讨论一些。比如说前者就是做研究会发布论文的，可能现在有我现在所在的亚马逊的前沿AI与机器人研究院，以及英伟达的gear的研究院。这些是还在研究前线的实验室。</p>
-<p class="transcript-line"><span class="time"><strong>[00:52:45]</strong> </span><span class="speaker"><strong>发言人1: </strong></span>包括高校，就比如说你所在的UC berkeley对吧？这个绝对是业界的一股很重要的力量，也出了很多我们待会儿可以提到，就是这些机器人公司的创始人。</p>
-<p class="transcript-line"><span class="time"><strong>[00:52:55]</strong> </span><span class="speaker"><strong>发言人2: </strong></span>对，我刚才说的就是一些业界的公司。当然高校里面现在做机器人和AI的也是处于领先水平的。然后另外的一些更着重于产品的，或者说更着重于一些创业团队的，比如说像特斯拉physical intelligence one x最近改变了大家对数据采集的印象的。Sunday和generalist这些应该都是在这一波机器人浪潮中，在头部的一些公司，这些是美国公司了，还有一些国内的公司。</p>
-<p class="transcript-line"><span class="time"><strong>[00:53:26]</strong> </span><span class="speaker"><strong>发言人1: </strong></span>所以在你们看来，其实大家专注的整个的细分方向都非常的不一样。</p>
-<p class="transcript-line"><span class="time"><strong>[00:53:31]</strong> </span><span class="speaker"><strong>发言人2: </strong></span>是的。</p>
-<p class="transcript-line"><span class="time"><strong>[00:53:33]</strong> </span><span class="speaker"><strong>发言人1: </strong></span>那我们聊一下你的研究。因为我知道其实你是有在研究用视觉跟触觉去做，比如说手内旋转，或者是用两只多手指去学习一些复杂操作的。整体上你的工作其实是证明触觉带来的提升。你能不能简单跟大家解释一下，为什么机器人它要有触觉？触觉加进去了以后，机器人多了哪些能力？</p>
-<p class="transcript-line"><span class="time"><strong>[00:53:59]</strong> </span><span class="speaker"><strong>发言人2: </strong></span>好，我觉得机器人有触觉其实是有几个方面的好处。我之前做过一个比较有趣的实验，在美国这边可以买到那些有一些麻醉凝胶，像牙医做一些小手术会把那些麻醉凝胶放到牙龈上。我当时就把一些麻醉凝胶放在了我的手上，这个是完全无害的，只是有一些时间让你感觉不到一些东西。</p>
-<p class="transcript-line"><span class="time"><strong>[00:54:22]</strong> </span><span class="speaker"><strong>发言人2: </strong></span>然后我就去试图在这种情况下去做一些操作，很多时候这个操作也可以被完成，但是就会感觉他做的很慢。因为实际上我是要用我的眼睛仔细的去看我的手到底有没有接触到。我想比如说拿一根铅笔或者说拿一个板擦这种东西。所以我觉得首先有触觉，他能给你更多的信息。就是在一些当你的手指和物体交互的时候，它能给到更精确的信息。比如说我们现在想象一个人形机器人，它去进行一些操作，他的手可能拿到了一个东西，这个时候这个视觉一定是很难看到他到底有没有拿到东西了。因为手把这个接触点挡住了。所以天然的来说，在这种情况下触觉会更有用。</p>
-<p class="transcript-line"><span class="time"><strong>[00:55:06]</strong> </span><span class="speaker"><strong>发言人1: </strong></span>所以触觉就是加传感器，对不对？</p>
-<p class="transcript-line"><span class="time"><strong>[00:55:09]</strong> </span><span class="speaker"><strong>发言人2: </strong></span>然后另外一个非常有用的点是说它可以控制力的大小。比如说回到最初我们提到的开可乐瓶的例子。刚才艾文提到我们需要一个手用足够多控制住这个可乐瓶的力，但是又不能把它捏爆，另一只手可能就需要去拉可乐瓶的拉环，然后这个拉环当然也是要有一定的角度，就是实力的角度要非常的精确，不然很可能把这个拉环拉断了。但是可乐瓶还没有开，在这种情况下去感知你操作时候他所用的力也是非常重要的。这样感知力最好的方式就是通过一些触觉的传感器。</p>
-<p class="transcript-line"><span class="time"><strong>[00:55:47]</strong> </span><span class="speaker"><strong>发言人1: </strong></span>所以触觉的传感器它是不仅仅能感知到我摸到了这个物体，它还是能感知力的对感知力这个是怎么做到的？</p>
-<p class="transcript-line"><span class="time"><strong>[00:55:56]</strong> </span><span class="speaker"><strong>发言人2: </strong></span>现在的有各种技术方案，我可能就简单说两三种。比如说我们可以把一些压感传感器放到手指尖上。然后这个压感传感器大概就是说当外界给一定的压力的时候，这个电路会产生不一样的电流。然后根据这个电流的大小来判断这个压力有多大。</p>
-<p class="transcript-line"><span class="time"><strong>[00:56:16]</strong> </span><span class="speaker"><strong>发言人2: </strong></span>另外的一些方案，就比如说有这种叫视触觉传感器。比如说我们现在有一个手指，我们就在手指内部加了一个另外的相机。这个相机会往外看，它会有一些材料，能够当手指进行接触的时候产生一些形变，相机就会捕捉到这些形变。当它捕捉到这些形变之后，就可以反向的推断出外界的力是从哪个方向来的，是有多大的力。把这些信息放到一些视觉处理器或者一些神经网络中，就可以得到我们想要的触觉信号。</p>
-<p class="transcript-line"><span class="time"><strong>[00:56:52]</strong> </span><span class="speaker"><strong>发言人3: </strong></span>对我可以稍微再补充一点，关于触觉，刚才齐老师说的主要是在手指或者手表面覆盖的这样的一些触觉传感器。实际上从我们跟客户的交流过程中，另一部分客户比较在意的林教授的就是说你们说的力反馈的信息，其实也是来自于驱动器的一个电流的大小。就是说驱动器到底用多大的力来拉动这个手指，这个也是另外一部分比较重要的力反馈信息。这个其实和人类的感知系统也比较类似。因为当人类去抓握物体或者操作物体的时候，你的皮肤表面是有一层的触觉信号，还有另外一层是来自于你的肌肉收缩的一个感知能力。</p>
-<p class="transcript-line"><span class="time"><strong>[00:57:36]</strong> </span><span class="speaker"><strong>发言人1: </strong></span>我觉得挺有意思的，就是我聊了这么多，其实有一个感受是我们之所以把机器设计的这么复杂，是因为我们对人体跟我们自身一无所知。</p>
-<p class="transcript-line"><span class="time"><strong>[00:57:49]</strong> </span><span class="speaker"><strong>发言人3: </strong></span>没错。</p>
-<p class="transcript-line"><span class="time"><strong>[00:57:49]</strong> </span><span class="speaker"><strong>发言人1: </strong></span>对，然后就是我们刚刚讲到了触觉跟几种力的方案。浩之，你还有补充的吗？就是解决触觉的这个力的方案你讲完了吗？</p>
-<p class="transcript-line"><span class="time"><strong>[00:57:58]</strong> </span><span class="speaker"><strong>发言人2: </strong></span>我觉得刚才艾文补充的非常好，就是省区这条技术路线一个很大的优势就是在于它可以比较容易的实现利空。因为它可以通过收缩这个力的大小来达到这一点。</p>
-<p class="transcript-line"><span class="time"><strong>[00:58:11]</strong> </span><span class="speaker"><strong>发言人1: </strong></span>你觉得像你这样的一个研究科学家，大概一天能收集多少这种瑶操的力的数据呢？</p>
-<p class="transcript-line"><span class="time"><strong>[00:58:19]</strong> </span><span class="speaker"><strong>发言人2: </strong></span>这个其实很取决于我想要什么样的任务。假如说我现在最简单的用这个手去抓取一个东西放到另外一个地方，这个其实可以收集很多。这个可能就会被局限在我到底累不累。只要我不累，我就可以一直以很高的成功率收集这样的数据。但是比如说一些更难的任务，比如说我现在要去要操作一个机器人，去用剪子剪窗花或者折纸这种即使是收集一条都非常难。我觉得这个也是一个我们正在做算法的时候想要去解决的一些任务，就是这种很难去采集数据的任务。能不能用一些其他的算法上的突破去解决这样的任务？</p>
-<p class="transcript-line"><span class="time"><strong>[00:59:05]</strong> </span><span class="speaker"><strong>发言人1: </strong></span>所以现在的大家主流的方案是跟着视频学。</p>
-<p class="transcript-line"><span class="time"><strong>[00:59:08]</strong> </span><span class="speaker"><strong>发言人2: </strong></span>对大家现在有不同的探索路径，视频是其中一条很多人在研究的路径，还有就是用模拟器作为路径。还有一种就有点像最近出的sunday和general list，就是用一些特定的设备去采这样的数据，然后把它转化成机器人可以用的数据。</p>
-<p class="transcript-line"><span class="time"><strong>[00:59:26]</strong> </span><span class="speaker"><strong>发言人1: </strong></span>这个其实是从数据不同的收集方式来训练模型的角度去考虑的。我不知道从现在整个业界跟你观察到一些反馈上，哪一种方式是效果更好的。因为我们说瑶操它的数据量小，但是它的数据质量非常高。视频的数据它可能就是有，但是他可能缺乏了很多，比如说利益的这些信息，但是它的优点是它很多。哪一种效果是好的？就是现在这个事情业内有共识吗？</p>
-<p class="transcript-line"><span class="time"><strong>[00:59:57]</strong> </span><span class="speaker"><strong>发言人2: </strong></span>如果对于一个公司来说，他们还是用尧操作的比较多，因为他们需要追求绝对的效果。用视频数据很多人在研究，但是我觉得它是一种研究的阶段。包括特斯拉最近也发布了他们的用人类视频学到的一些操作的视频。但是我觉得从绝对的能力来说，还是不如要操作的。之所以在这种情况下还要研究视频，是因为大家相信可能在未来的几个月或者一年或者更久，当视频的量积累到了一定程度之后，他的能力可以超过尧操作。但是应该不是此时此刻。</p>
-<p class="transcript-line"><span class="time"><strong>[01:00:34]</strong> </span><span class="speaker"><strong>发言人1: </strong></span>可能他追求的东西是不太一样的。精确性就是还是需要摇槽的，数据泛化性可能视频也很重要。我不知道我的总结对不对，我只是凭印象。</p>
-<p class="transcript-line"><span class="time"><strong>[01:00:46]</strong> </span><span class="speaker"><strong>发言人2: </strong></span>对我觉得可以这么理解，不同的数据它有不同的特征，有的数据就是能让你得到一个比较快的能力上的提升，但是它比较难采集。然后有一些数据是很容易采集，但是，大家如何最好地利用它也没有一个定论。我们业界研究的时候会有一个金字塔这样的模型。比如说摇操作，它就在金字塔尖，它的量比较少，但是很有用。视频的数据可能就在金字塔的底座，就是它非常的多。但是它并不是最能够提升机器人效果的这一个数据。</p>
-<p class="transcript-line"><span class="time"><strong>[01:01:20]</strong> </span><span class="speaker"><strong>发言人1: </strong></span>中间的部分就是用机器。</p>
-<p class="transcript-line"><span class="time"><strong>[01:01:23]</strong> </span><span class="speaker"><strong>发言人2: </strong></span>对，就中间部分有各种各样，比如说有机器，比如说有仿真。</p>
-<p class="transcript-line"><span class="time"><strong>[01:01:27]</strong> </span><span class="speaker"><strong>发言人1: </strong></span>对，我记得之前我有在一个活动上，跟很多像deep mind的OpenAI的这些科学家也讨论过问大家什么样是他们喜欢的方式。包括那天正好其实是Jenny这个世界模型刚出来，我发现大家分成两派截然相反的看法。一派是觉得geni three对整个的机器人行业帮助不大，不是一个很重要的事情。但另一派就会觉得这个事情很重要，它可以帮助训练机器人。</p>
-<p class="transcript-line"><span class="time"><strong>[01:01:58]</strong> </span><span class="speaker"><strong>发言人2: </strong></span>我觉得从做研究的角度来看，我肯定是觉得这种新的基础模型肯定是有帮助的。只是我们需要找到方式最好地利用它。说它完全没用肯定有失偏颇。</p>
-<p class="transcript-line"><span class="time"><strong>[01:02:12]</strong> </span><span class="speaker"><strong>发言人2: </strong></span>但是我觉得说它我们只需要去训练一个很大的视频生成模型，它就能解决机器人，其实也是不现实的。因为很简单的道理，就是现在的视频生成还没有完全解决它的物理的真实性。虽然我们每年都看到他在物理层面上有越来越多的进步。但是我想我之前比较爱举的一个例子是说，假设我们能够靠学习视频模型，把这个预测物理世界会发生什么解决，那这也就意味着我们可以训练这个语言模型，让他能够没有合luCindy。因为它相当于学到了一些真实数据的物理规则，而并不是说去简单的过拟合这个数据。所以我觉得语言模型我们现在仍然没有解决hallucination。那我觉得距离视频模型学到真正的物理世界的规律，还是任重而道远。所以我们不能完全依赖于视频模型去训练我们的机器人。但是它可以提供一些很好的初始化也好，或者是一些其他方面的信号，都是可以有帮助。</p>
-<p class="transcript-line"><span class="time"><strong>[01:03:15]</strong> </span><span class="speaker"><strong>发言人1: </strong></span>OK对，然后我们聊一聊你博士的高校UC berkeley。我注意到他的机器人方向是非常强的。比如说像Peter bill，他是伯克利的教授，然后他自己也做了一家很有名的机器人公司covariant t他们其实主要就是抓取的问题。其实还有一位berkeley出来的，就是刚刚我们反复提到的physical intelligence的联合创始人sergey lev vin。他在RL方向也是非常顶级的。而且我看他之前是不是除了physical intelligence这家公司自己做的这个机器人的大脑跟模型。Google之前的几个大模型，比如说像palm ERT one、RT two的研发，他好像也有参与对吧？</p>
-<p class="transcript-line"><span class="time"><strong>[01:03:57]</strong> </span><span class="speaker"><strong>发言人2: </strong></span>对，survey是之前在当时叫google bring，后来叫google robotics，里面一直在做research scientist，所以他就参与了这些大模型的研发。</p>
-<p class="transcript-line"><span class="time"><strong>[01:04:09]</strong> </span><span class="speaker"><strong>发言人1: </strong></span>对，基本上是业界最重要的一些机器人的大模型，基本上都有它的影。所以你觉得像berkeley在机器人领域还有哪些方向是比较强的？</p>
-<p class="transcript-line"><span class="time"><strong>[01:04:20]</strong> </span><span class="speaker"><strong>发言人2: </strong></span>我觉得在他的AI其实都比较强。比如说他从最早做一些符号AI开始就有一定。定的地位，它的计算机视觉也有很多不错的产出。包括现在做机器学习系统，像VLLM和SG line，都是伯克利的sky lab产出的一些结果。所以我觉得整个AI领域，伯克利在各个方面都有一些拿得出手的成果。是然后我注意到。</p>
-<p class="transcript-line"><span class="time"><strong>[01:04:47]</strong> </span><span class="speaker"><strong>发言人1: </strong></span>这几个非常强的教授，也是教授在创业。因为我之前一直听斯坦福，比如说产学研一体化，研发人员或者学生创业比较多。伯克利他在政策上是支持学生跟教授创业的。</p>
-<p class="transcript-line"><span class="time"><strong>[01:05:02]</strong> </span><span class="speaker"><strong>发言人2: </strong></span>我觉得伯克利和斯坦福，首先对于学生来说，他们当然都是很支持的。因为伯克利和斯坦福都有对应的商学院，可能有一些课就是讲创业的一些事情。其实也有一些计算机系的课，也会讲一些关于AI创业的事情。对于教授创业，其实我觉得美国的学校大差不差。比如说这个教授他可以学术休假，或者说可以有一个叫on leave。我不太知道该怎么翻译的事情，就是在这个时候学校是不会过问你的。平常的时候学校一般是要求你只能是20%的时间在非学校。</p>
-<p class="transcript-line"><span class="time"><strong>[01:05:38]</strong> </span><span class="speaker"><strong>发言人1: </strong></span>的活动上，OK了解，所以整体上政策还是都比较。</p>
-<p class="transcript-line"><span class="time"><strong>[01:05:43]</strong> </span><span class="speaker"><strong>发言人2: </strong></span>相近的对，有一些学校可能特别支持，但是因为这个可能是不太会写出来，所以我也不知道他们具体是一个什么样的策略。</p>
-<p class="transcript-line"><span class="time"><strong>[01:05:54]</strong> </span><span class="speaker"><strong>发言人1: </strong></span>了解你这伯克利的研究氛围是怎么样的。</p>
-<p class="transcript-line"><span class="time"><strong>[01:05:57]</strong> </span><span class="speaker"><strong>发言人2: </strong></span>我觉得首先伯克利AI这个方面有一个很好的点。就是做AI研究的人，大家都坐在同一层，就像有一个小型的创业公司。所以你很可能无论你今天，就比如说我们做机器人，想找一个很懂计算机视觉的人，他可能就坐在离你走几步路就到了这么一个地方。所以大家的讨论会非常的简单，会非常的方便。这样也促进了不同组之间的交流合作。对于很多学生，他们可能想合作一个共同的项目。另外一个好处就是伯克利实验室之间的合作是非常自底向下的。如果两个学生想合作，他们的导师基本我没有听说过谁会阻拦，基本就是这两个学生开始合作，慢慢的由这两个学生的合作带动其他导师方向上的合作就有很多不同方向之间的融合，就是把不同方向之间比较好的一些想法或者说一些经验都互相结合在一起。</p>
-<p class="transcript-line"><span class="time"><strong>[01:06:54]</strong> </span><span class="speaker"><strong>发言人1: </strong></span>对我刚刚提到的这几位机器人的大神，就是我在你的google scholar里面就看见好像都是有跟你共同署名过论文的。</p>
-<p class="transcript-line"><span class="time"><strong>[01:07:03]</strong> </span><span class="speaker"><strong>发言人2: </strong></span>是的，这个其实也是刚才我提到的这两点带来的一些好处。</p>
-<p class="transcript-line"><span class="time"><strong>[01:07:09]</strong> </span><span class="speaker"><strong>发言人1: </strong></span>还挺有意思的。你们觉得实现手部的灵巧动作，我们就说开可乐回到开始的问题有多难。他到了一个GPT30课。</p>
-<p class="transcript-line"><span class="time"><strong>[01:07:20]</strong> </span><span class="speaker"><strong>发言人3: </strong></span>说不定我觉得还的确是。如果机器人能够真正做到开可乐是很好的一个benchmark，就是很好的一个标的，达到了GPT时刻。我认为因为它的确是一个灵巧性的一个综合的能力的一个考量。</p>
-<p class="transcript-line"><span class="time"><strong>[01:07:35]</strong> </span><span class="speaker"><strong>发言人2: </strong></span>对我可能想稍微说远一点，举一个例子，比如说我们看20年前，其实就有一些能跑步的机器人，就是本田，就是honda a的阿西莫夫，他已经能在舞台上很好的跑步，上下楼梯。就有很多质疑的声音说，为什么我们过了二十多年，这个人形机器人也就能达到20多年前的水平。然后其实中间涉及到一个问题，就是有多简单能够达到这样的水平。就是现有的算法是可以很容易让它达到了这种跑步。然后你就稍微改一些东西，它可以很容易的达到跳舞。这个跟20年前让一个机器人跑步，可能需要一个很多高精尖的团队一起负责迭代几个月或者几年是完全不一样的。所以我觉得如果我们未来有一个算法，这个算法框架本身确定了以后，它可以用很短的时间让机器人开可乐，它还可以让这个机器人做开门、拧螺丝这样各种各样的任务。那我觉得确实就是GPT时刻。</p>
-<p class="transcript-line"><span class="time"><strong>[01:08:36]</strong> </span><span class="speaker"><strong>发言人1: </strong></span>我们离这样的一个时刻有多远？</p>
-<p class="transcript-line"><span class="time"><strong>[01:08:39]</strong> </span><span class="speaker"><strong>发言人2: </strong></span>这个预测总感觉会被打脸，我觉得可能还有3到5年.</p>
-<p class="transcript-line"><span class="time"><strong>[01:08:46]</strong> </span><span class="speaker"><strong>发言人1: </strong></span>这个比我想象中快太多了。</p>
-<p class="transcript-line"><span class="time"><strong>[01:08:48]</strong> </span><span class="speaker"><strong>发言人3: </strong></span>我觉得从硬件的角度，产品的角度，应该是今年内就会产品能够满足这样的能力。</p>
-<p class="transcript-line"><span class="time"><strong>[01:08:55]</strong> </span><span class="speaker"><strong>发言人1: </strong></span>你是说在任何场景下开一罐可乐，机器人也可以旋转随便放，就是自主操作，不是遥控。</p>
-<p class="transcript-line"><span class="time"><strong>[01:09:03]</strong> </span><span class="speaker"><strong>发言人3: </strong></span>可以这么说，我认为硬件是非常快能够达到这个。的确硬件是相当于给整个机器人行业提供一个基石。更多它的上限的天花板是要靠软件和背后的模型能力的提升，来释放出整个系统的能力。</p>
-<p class="transcript-line"><span class="time"><strong>[01:09:19]</strong> </span><span class="speaker"><strong>发言人2: </strong></span>的据我观察最近这两年灵巧手实现了一个井喷式的飞跃，感觉有一个非常光明的未来。</p>
-<p class="transcript-line"><span class="time"><strong>[01:09:27]</strong> </span><span class="speaker"><strong>发言人1: </strong></span>为什么？你是觉得是因为整个研究的方法变了？</p>
-<p class="transcript-line"><span class="time"><strong>[01:09:30]</strong> </span><span class="speaker"><strong>发言人2: </strong></span>我觉得有几方面。第一方面就是市场上来说，人形机器人火起来之后，大家首先更容易有一些硬件，更有容易一些有一些能够做复杂硬件的厂商，然后他们去做灵巧手以及人形机器人。其二就是有很多比较简单的本体，像是轮式或者说平行夹爪，他们在科研问题本身做的也比较开始大同小异了，就是没有一个新的爆点。所以大家正在探索在更复杂系统上如何迭代算法，也就是灵巧手和人形机器人。所以我觉得这两点共同促进了整个研究行业的发展。</p>
-<p class="transcript-line"><span class="time"><strong>[01:10:08]</strong> </span><span class="speaker"><strong>发言人1: </strong></span>好的，非常期待今天聊的非常精彩。谢谢两位。</p>
-<p class="transcript-line"><span class="time"><strong>[01:10:11]</strong> </span><span class="speaker"><strong>发言人3: </strong></span>谢谢红军，谢谢齐老师，谢谢您。</p>
-<p class="transcript-line"><span class="time"><strong>[01:10:16]</strong> </span><span class="speaker"><strong>发言人1: </strong></span>好了，这就是我们今天的节目。如果大家关注机器人行业的进展，我们也会在有重大事件节点的时候继续来关注这样的一个话题。欢迎大家持续的关注我们。播客的听众可以通过苹果播客、spotify还有小宇宙来关注到我们。如果大家习惯通过视频的渠道来听播客，可以通过B站和youtube搜索硅谷101播客来关注到我们。也可以在微信公众号上搜索硅谷101来看我们节目的文字版。我是红军，感谢大家的收听。</p>]]></content:encoded>
-            <pubDate>Thu, 11 Dec 2025 00:00:00 GMT</pubDate>
-            <guid>693a0a0679debc32319d52fb</guid>
         </item>
     </channel>
 </rss>
