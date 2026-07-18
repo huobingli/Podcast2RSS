@@ -15,7 +15,8 @@ class TongyiClient:
     """通义千问API客户端，用于处理音频转写相关的API调用"""
     
     def __init__(self):
-        cookie = os.getenv("TONGYI_COOKIE")
+        # GitHub Secret 偶尔会带入首尾换行，HTTP Header 不允许这些字符。
+        cookie = (os.getenv("TONGYI_COOKIE") or "").strip()
         if not cookie:
             raise ValueError("环境变量中未设置TONGYI_COOKIE")
             

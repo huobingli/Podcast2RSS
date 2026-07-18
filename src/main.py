@@ -92,9 +92,13 @@ def main():
         changed_pids = client.update_all(pids)
         logger.info("完成更新播客与剧集数据...")
 
-        # 3. 并行处理有新内容的播客（转写 + RSS生成）
-        changed_podcasts = [p for p in podcasts if p.get('pid') in changed_pids]
-        if not changed_podcasts:
+        # 3. 并行处理播客（转写 + RSS生成）
+        # Cookie 有效时会扫描已有单集，以便补做上次因 Cookie 失效而跳过的转写。
+        podcasts_to_process = (
+            podcasts if cookie_valid
+            else [p for p in podcasts if p.get('pid') in changed_pids]
+        )
+        if not podcasts_to_process:
             logger.info("所有播客均无新内容，无需处理")
 
         def _process_single_podcast(podcast):
@@ -132,10 +136,10 @@ def main():
 
         from concurrent.futures import ThreadPoolExecutor, as_completed
 
-        if changed_podcasts:
-            logger.info(f"开始并行处理 {len(changed_podcasts)} 个播客（最多3个同时进行）...")
+        if podcasts_to_process:
+            logger.info(f"开始并行处理 {len(podcasts_to_process)} 个播客（最多3个同时进行）...")
             with ThreadPoolExecutor(max_workers=3) as executor:
-                futures = {executor.submit(_process_single_podcast, p): p for p in changed_podcasts}
+                futures = {executor.submit(_process_single_podcast, p): p for p in podcasts_to_process}
                 for future in as_completed(futures):
                     try:
                         future.result()
