@@ -5,6 +5,9 @@ on:
     - cron: '0 20 */2 * *'  # 每两天的北京时间 04:00
   workflow_dispatch:      # 允许手动触发
 
+permissions:
+  contents: write
+
 jobs:
   update-rss:
     runs-on: ubuntu-latest
